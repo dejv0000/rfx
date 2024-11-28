@@ -13,6 +13,84 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>장수 부모·백수 자녀 부양, 내 노후 불안... ‘삼중고’ 빠진 이 세대</title>
+      <link>https://www.chosun.com/national/national_general/2024/11/28/V6TFT5JATND45HSXFEO2IN4X5M/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/28/V6TFT5JATND45HSXFEO2IN4X5M/</guid>
+      <dc:creator>정아임 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 28 Nov 2024 13:33:01 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YTE254Q6ZRHO5O77YPUORK2WFQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;요양보호사들이 노인들을 돌보고 있는 모습. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;1970년대 초반(1970∼1974년)에 태어난 ‘2차 베이비부머’ 세대 4명 중 1명은 부모와 자녀를 이중으로 부양하고 있는 것으로 나타났다. 이들은 자신의 불안한 노후에 대한 걱정까지 더해 ‘돌봄 삼중고’를 겪고 있다는 분석이 나왔다.&lt;br&gt;&lt;br&gt;재단법인 ‘돌봄과 미래’는 한국리서치에 의뢰해 1960∼1974년 출생한 전국 50∼64세 성인 남녀 1500명을 대상으로 지난 5월 ‘돌봄 실태와 인식 조사’를 실시한 결과를 28일 발표했다.&lt;br&gt;&lt;br&gt;조사 결과, 은퇴를 앞뒀거나 이미 은퇴한 60년대생(55∼64세)보다 70년대 초반생(50∼54세·이하 70년대생)들이 주관적인 건강 지수나 노후 준비, 돌봄 부담 등에서 부정적 인식이 두드러진 것으로 조사됐다.&lt;br&gt;&lt;br&gt;조사 대상 70년대생의 76%는 자녀에게 경제적인 지원을 하고 있고, 42%는 본인이나 배우자의 부모를 경제적으로 부양하고 있다고 답했다. 이들은 자녀 부양에 월평균 107만원, 부모 부양에는 62만원을 지출하고 있었다. 자녀와 부모를 모두 부양하는 응답자는 25%로, 월평균 155만원을 부양에 지출한다.&lt;br&gt;&lt;br&gt;60년대생의 경우 이미 자녀가 경제적으로 독립한 경우가 상대적으로 많아 43%가 자녀 부양(월평균 88만원), 44%가 부모 부양(월평균 73만원)을 하고 있었다. ‘이중 부양’ 비율은 70년대생보다 10%p 낮은 15%였다.&lt;br&gt;&lt;br&gt;이중 부양자의 지출 규모는 60년대생이 165만원으로 70년대생보다 많았지만, 느끼는 부담의 정도는 70년대생이 훨씬 컸다. 자녀에 대한 경제적 지원이 ‘부담스럽다’는 응답은 60년대생 46%, 70년대생 57%였고, 부모에 대한 지원을 부담스럽게 느끼는 응답자는 60년대생 33%, 70년대생 48%였다.&lt;br&gt;&lt;br&gt;자신의 노후에 대한 불안감도 70년대생이 더 컸다. 70년대생의 80%는 현재 일을 하고 있었는데, 이들 중 일을 언제까지 할 수 있을지 불안감을 느낀다고 답한 응답자는 56%였다. 60년대생은 70%가 일을 하고 있었고, 46%가 노동 지속에 불안감을 느꼈다.&lt;br&gt;&lt;br&gt;연금을 받기 전까지의 소득 공백에 대한 불안감도 70년대생이 91%로, 60년대생(81%)보다 컸다. 실제로 ‘노후 준비를 하고 있다’는 70년대생은 50%에 그쳐 60년대생(62%)보다 적었다. 70년대생은 39%만 국민연금, 공무원연금 등 공적연금이 노후의 주요 소득원이 될 것이라고 예상했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘면접진행 미숙’ 공정성 논란, 고려대 법전원 재시험 결정</title>
+      <link>https://www.chosun.com/national/education/2024/11/28/6M5FRYWP3NCFBC2273HLV73JRE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/education/2024/11/28/6M5FRYWP3NCFBC2273HLV73JRE/</guid>
+      <dc:creator>표태준 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 28 Nov 2024 13:10:05 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4L3RTH77LI2DYWV55ZTW5VDJA4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;고려대 전경. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;고려대 법학전문대학원(법전원)이 최근 전문석사과정 입학생 선발 면접시험에서 진행 미숙으로 공정성 논란이 일자 희망하는 학생을 대상으로 재시험을 치르기로 결정했다.&lt;br&gt;&lt;br&gt;고려대 법전원은 28일 홈페이지를 통해 사과문을 게시하고 “23일 치러진 구술면접시험 도중 일부 학생이 면접장에서 문제를 재확인하지 못하는 일이 발생했다”며 “희망하는 수험생은 재시험에 응시할 수 있도록 하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;고려대에 따르면 법전원 구술면접시험은 수험생이 면접 준비실에서 사전에 문제지를 받아 14분간 숙지하고 답변을 준비한다. 이후 면접장에서 11분간 면접을 진행한다. 이때 면접장 책상에도 문제지가 놓여 있어야 하는데 일부 면접장에 문제지가 비치되지 않았다. 이로 인해 수험생 285명 중 58명이 문제지를 재참조하지 못했다.&lt;br&gt;&lt;br&gt;법전원은 입시 요강에 따라 지난 27일까지 이의 신청을 받았다. 문제지 미비치와 관련한 공식적인 이의 신청은 없었다고 한다. 그러나 법전원은 “수험생의 정당한 이익과 시험의 공정성을 보장하고자 파악된 58명 중 희망자에 한해 재시험을 진행할 계획”이라고 했다.&lt;br&gt;&lt;br&gt;고려대 법전원은 자체 조사를 진행하고 입학전형개선 태스크포스(TF)를 구성해 모든 입시 과정을 재검토할 예정이다. 또 재발 방지를 위한 강력한 대책도 마련할 계획이다.&lt;br&gt;&lt;br&gt;고려대는 “이번 일로 마음고생 하셨을 수험생과 학부모, 그리고 고려대 법전원에 관심과 애정을 갖는 모든 분께 다시 한번 진심으로 사과드린다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/4L3RTH77LI2DYWV55ZTW5VDJA4.jpg?width=720&amp;height=516&amp;auth=d4588b50bdc7b6e2548d7ed077186039308434457b809bd09e04f710b74ac778&amp;smart=true" type="image/jpeg" height="516" width="720">
+        <media:description type="plain">고려대</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>인천고등법원 설치 법령 개정안 국회 통과… 2028년 3월 개원</title>
+      <link>https://www.chosun.com/national/regional/2024/11/28/SKB4GYCV3JC3TG5XFBAQ27H5IY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/11/28/SKB4GYCV3JC3TG5XFBAQ27H5IY/</guid>
+      <dc:creator>인천=이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 28 Nov 2024 13:41:26 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IBHFNJMPTBCKRE2HZOPH7DOVPQ.png"&gt;&lt;figcaption&gt;&lt;small&gt;인천지법 청사 전경. /인천지법&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;오는 2028년 인천에 고등법원이 신설된다.&lt;br&gt;&lt;br&gt;인천시는 인천고등법원 신설 등의 내용을 담은 ‘각급 법원 설치와 관할구역에 관한 법률 개정안’이 28일 국회 본회의를 통과했다고 밝혔다.&lt;br&gt;&lt;br&gt;인천고등법원은 이에 따라 오는 2028년 3월 1일 인천시 미추홀구 학익동 인천지방법원 안에 설치돼 개원할 예정이다. 법관과 직원 등 100~120명이 근무할 것으로 예상되고 있다.&lt;br&gt;&lt;br&gt;인천고등법원은 인천과 경기 부천, 김포 등 지역의 형사와 행정, 민사와 가사 사건의 항소심 재판을 담당한다.&lt;br&gt;&lt;br&gt;고등법원은 현재 서울, 대전, 대구, 부산, 광주, 수원 등 6개 지역에 설치돼 있다.&lt;br&gt;&lt;br&gt;인천시는 부천과 김포를 포함한 인천 지역 항소심 사건 수가 연간 2500~3000건에 달해 고법이 있는 대전, 대구 등을 앞서고, 항소심 재판을 받기 위해선 서울 서초구에 있는 서울고법까지 가야해 시민 불편이 크다며 인천고등법원 설치를 요구해왔다.&lt;br&gt;&lt;br&gt;지난 2022년 인천시가 진행한 연구용역 결과에 따르면 인천에서 서울고법까지 평균 통행시간은 대중교통 이용 시 96.1분, 승용차 이용 시 71.5분으로 파악됐다. 배편을 이용해야 하는 섬 주민은 서울고법을 다녀오려면, 왕복 2일이 걸린다.&lt;br&gt;&lt;br&gt;2019년 인천에 서울고법 원외재판부가 생기긴 했지만, 민사와 가사 사건 항소심만 담당해 한계가 있었다.&lt;br&gt;&lt;br&gt;유정복 인천시장은 “인천 시민들이 더욱 신속하고 공정한 사법 서비스를 받을 수 있는 길이 열렸다”며 “인천고등법원이 2028년 3월 1일 예정대로 개원할 수 있도록 관계 기관과 긴밀히 협력하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>뉴진스 “29일부로 어도어와의 전속계약 해지”</title>
+      <link>https://www.chosun.com/national/people/2024/11/28/3FPXIZL3Z5AOXGORMIJO43ASBY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/11/28/3FPXIZL3Z5AOXGORMIJO43ASBY/</guid>
+      <dc:creator>정아임 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 28 Nov 2024 11:47:43 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GMYORA36E5P2HPBPQPKU2WT56A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;그룹 뉴진스가 28일 서울 강남구 스페이스쉐어 삼성역센터에서 어도어와의 전속계약 해지 관련 긴급 기자회견을 하고 있다. 왼쪽부터 해린, 다니엘, 민지, 하니, 혜인. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;걸그룹 뉴진스가 28일 소속사 어도어와의 전속계약을 해지하겠다고 전격 발표했다.&lt;br&gt;&lt;br&gt;뉴진스는 이날 오후 서울 강남구에서 긴급 기자회견을 열고 “오늘 업무 시간이 다 끝났는데도 하이브와 현재의 어도어는 개선 여지를 보여 주거나 저희 요구를 들어줄 의지를 전혀 보이지 않는다”며 “어도어는 뉴진스를 보호할 의지도 능력도 없다”고 이같이 밝혔다.&lt;br&gt;&lt;br&gt;뉴진스는 지난 13일 민희진 전 대표의 대표이사 복귀 등을 요구하며 2주 이내에 원하는 바가 수용되지 않을 경우 전속계약을 해지하겠다는 내용증명을 어도어에 보냈고, 보름이 지난 이날 계약 해지를 선언했다.&lt;br&gt;&lt;br&gt;당시 요구사항에는 ▲하니에게 ‘무시해’라고 발언한 매니저의 공식적인 사과 ▲동의 없이 노출돼 사용된 동영상과 사진 등 자료 삭제 ▲’음반 밀어내기’로 뉴진스가 받은 피해 파악과 해결책 마련 ▲돌고래유괴단 신우석 감독과의 분쟁과 이로 인한 기존 작업물이 사라지는 문제 해결 ▲뉴진스의 고유한 색깔과 작업물을 지킬 것 등이 담겼다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GFOZXFYGVRLC5CZE4YWS6CWHDU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;그룹 뉴진스가 28일 서울 강남구 스페이스쉐어 삼성역센터에서 어도어와의 전속계약 해지 관련 긴급 기자회견을 하고 있다. 왼쪽부터 해린, 다니엘, 민지, 하니, 혜인. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;멤버 다니엘은 “전속계약이 해지되면 저희 5명은 어도어 소속 아티스트가 아니게 될 것”이라며 “진정 원하는 걸 해나가려고 한다. 약속된 스케줄은 그대로 진행할 예정이다. 계약된 광고들도 예정대로 진행할 것”이라고 말했다.&lt;br&gt;&lt;br&gt;해린은 위약금 문제에 대해 “전속계약을 위반하지 않았다. 지금까지도 최선을 다해 활동하고 있다. 위약금을 내야 할 이유는 전혀 없다고 생각한다”면서 “오히려 지금의 어도어와 하이브가 계약을 위반했다. 책임은 어도어, 하이브에게 있다”고 주장했다.&lt;br&gt;&lt;br&gt;다만 뉴진스는 전속계약 효력정지 가처분 신청 등 법적 절차는 밟지 않겠다고 했다. 민지는 “어도어와 하이브가 계약을 위반했기 때문에 (전속계약을) 해지하는 것”이라며 “계약을 해지하면 전속 효력은 없으므로 저희 활동에는 장애가 없다. 앞으로 꾸준히 활동할 수 있기 때문에 굳이 가처분 등의 소송을 할 필요가 없다고 생각한다”고 말했다.&lt;br&gt;&lt;br&gt;민희진 어도어 전 대표와 함께할 거냐는 질문에 혜인은 “얘기를 나누지는 않았지만 아마 대표님도 저희와 같은 생각일 것”이라고 말했고, 민지는 “가능하다면 민 대표님과 좋은 활동을 하고픈 마음”이라고 답했다.&lt;br&gt;&lt;br&gt;뉴진스는 2022년 7월 SM엔터테인먼트 출신인 민희진 어도어 전 대표가 처음 제작한 걸그룹으로 데뷔해 ‘어텐션’(Attention), ‘하이프 보이’(Hype Boy), ‘디토’(Ditto), ‘슈퍼 샤이’(Super Shy) 등의 히트곡을 냈다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>전교조 위원장에 박영환 초등교사 당선... 첫 30대 당선인</title>
+      <link>https://www.chosun.com/national/education/2024/11/28/DQGTDYE6HRF63DSZTZUGUQ5CUI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/education/2024/11/28/DQGTDYE6HRF63DSZTZUGUQ5CUI/</guid>
+      <dc:creator>표태준 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 28 Nov 2024 12:15:37 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KTYB7PWR7CNFW36EHKUIEJ7PKU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전교조 22대 위원장 선거에서 당선된 박영환(왼쪽) 당선인과 러닝메이트로 나선 사무총장 당선인 양혜정 교사. /전교조&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전국교직원노동조합(전교조)은 22대 위원장 선거 결과 박영환(39) 충남지부장이 당선됐다고 28일 밝혔다. 역대 위원장 중 최연소로 전교조에서 30대 위원장이 나온 것은 처음이다.&lt;br&gt;&lt;br&gt;전교조는 이날 제22대 위원장 선거 개표 결과 기호 2번 박영환 위원장·양혜정(47) 사무총장 후보조가 투표율 69.21%에 과반 득표율 50.13%로 당선됐다고 밝혔다. 임기는 내년 1월1일부터 2026년 말까지 만 2년이다.&lt;br&gt;&lt;br&gt;박 당선인은 충남 당진시 유곡초 교사다. 초등교사가 전교조 위원장이 된 것도 이번이 처음이다.&lt;br&gt;&lt;br&gt;그는 2011년 발령 첫 해부터 전교조에 가입해 활동했다. 이번 선거에서 현 정부 교육부가 추진하는 유보통합, 인공지능(AI)디지털교과서 등 정책 저지를 공약으로 내걸어 대정부 투쟁 기조를 이어갈 것으로 보인다.&lt;br&gt;&lt;br&gt;박 당선인은 다음 달 2일 전교조 본부에서 당선 기자회견을 열고 당선 소감과 주요 정책 방향을 발표한다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/KTYB7PWR7CNFW36EHKUIEJ7PKU.jpg?width=720&amp;height=901&amp;auth=4e12c3d1a1a6429712def26391b70d64a2295710dfbfeff9950cc4520e49fb6a&amp;smart=true" type="image/jpeg" height="901" width="720">
+        <media:description type="plain">전교조 22대 위원장, 사무총장 당선자</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>경부선 전동열차 의왕역서 고장...탑승객 전원 하차</title>
+      <link>https://www.chosun.com/national/incident/2024/11/28/TT4FN2VT3BEO7KK6ZU5F25MXZI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/11/28/TT4FN2VT3BEO7KK6ZU5F25MXZI/</guid>
+      <dc:creator>의왕=김현수 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 28 Nov 2024 10:45:44 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UYBHXIDMRCEAUQY7J2DM3U5K2M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;코레일 전동열차. /코레일&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;28일 오후 5시 42분쯤 경기 의왕시 의왕역에서 경부선 상행 전동열차가 고장으로 멈췄다.&lt;br&gt;&lt;br&gt;코레일에 따르면 이 열차는 의왕역에 정차 중 고장으로 멈춰서면서 탑승객 약 500명이 후속 열차로 갈아탔다.&lt;br&gt;&lt;br&gt;고장 열차 조치를 위해 현재 상행선 열차는 의왕역을 무정차 통과하고 있다. 하행선 열차는 정상 운행 중이다.&lt;br&gt;&lt;br&gt;코레일 관계자는 “열차 고장의 원인은 조사해봐야 정확히 나오지만, 현재로서는 이번 폭설과는 상관없는 것으로 보고 있다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>뉴진스, 오늘 긴급 기자회견...’전속계약 해지’ 입장 밝힌다</title>
+      <link>https://www.chosun.com/national/people/2024/11/28/6OX2NGMCGFBAFON5KRO6IXNLJI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/11/28/6OX2NGMCGFBAFON5KRO6IXNLJI/</guid>
+      <dc:creator>정아임 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 28 Nov 2024 10:49:08 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2SWGR4CJKNDSJOC57P52RBAG3Q.jpeg"&gt;&lt;figcaption&gt;&lt;small&gt;걸그룹 뉴진스. /어도어&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;걸그룹 뉴진스가 28일 전속계약 해지 관련 기자회견을 갖는다.&lt;br&gt;&lt;br&gt;뉴진스 측은 이날 오후 8시 30분 서울 강남구 모처에서 긴급 기자회견을 개최한다고 밝혔다.&lt;br&gt;&lt;br&gt;기자회견에는 뉴진스 멤버인 민지, 해인, 하니, 혜인, 다니엘 모두 참석한다.&lt;br&gt;&lt;br&gt;뉴진스는 지난 13일 소속사 어도어에 민희진 어도어 전 대표의 복귀 등을 요구하는 내용 증명을 발송했다.&lt;br&gt;&lt;br&gt;이 문건에는 14일 안에 시정 요구 사항을 받아들이지 않는다면 전속계약을 해지하겠다고 밝혔는데, 뉴진스는 이날 어도어의 답변을 바탕으로 입장을 밝힐 것으로 보인다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>정우성 혼외자 양육비 얼마... “최소 月 220만원, 훨씬 커질 수도”</title>
+      <link>https://www.chosun.com/national/national_general/2024/11/27/4WNFSI5QBRDUJI52IZP3B4GE2U/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/27/4WNFSI5QBRDUJI52IZP3B4GE2U/</guid>
+      <dc:creator>박선민 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 27 Nov 2024 02:15:33 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SWUTRHIVPIWHFS2OZTHDCS5O2A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;배우 정우성(51)과 모델 문가비(35). /뉴시스·인스타그램 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;배우 정우성(51)이 모델 문가비(35)가 낳은 아들의 친부임을 인정하면서 정우성이 추후 아이에게 행사할 친권·양육권과 지불할 양육비 등에 관심이 쏠린다.&lt;br&gt;&lt;br&gt;법무법인 새움의 류현정 변호사는 26일 조선닷컴에 “정우성이 ‘인지’ 절차를 거쳤다는 전제 하에 양육비를 지불해야 할 의무가 생긴다”고 했다. 인지란 생부나 생모가 혼인외의 출생자를 자기의 자녀로 인정하는 것을 말한다. 만일 생부나 생모가 임의로 인지하지 않을 경우, 인지 청구 소송 등을 통해 부모의 의사와는 관계없이 법원의 재판(조정)으로 인지의 효력을 발생시킬 수 있다.&lt;br&gt;&lt;br&gt;문가비는 작년 6월 정우성에게 임신 사실을 알렸고, 지난 3월 아들을 출산한 것으로 알려졌다. 정우성 측은 결혼 계획에 대해선 입장을 밝히지 않으면서도, “아이에 대해 끝까지 책임을 다할 것”이라고 했다.&lt;br&gt;&lt;br&gt;그렇다면 정우성이 혼외자 자녀를 둔 비양육자라는 전제로 지급해야 할 양육비는 얼마일까. 통상 양육비는 부모가 협의를 통해 총 양육비를 책정하고, 여기에서 비양육자가 부담할 비율을 정한다.&lt;br&gt;&lt;br&gt;양육비 산정은 부모의 소득과 재산, 자녀의 나이, 양육 환경 등 다양한 요소를 고려한다. 2021년 개정된 서울가정법원의 최신 양육비산정기준표에 따르면, 부모의 합산 소득과 자녀의 나이를 고려한 평균 양육비는 최소 62만1000원에서 최대 288만3000원이다. 이 기준표는 서울가정법원뿐만 아니라 전국 가정법원의 재판 실무에서 양육비 산정의 기준으로 사용된다. 현행법상 양육비는 미성년 자녀가 만 19세 성인이 될 때까지 지급해야 한다.&lt;br&gt;&lt;br&gt;부모 합산 소득 최고 구간(월 1200만원 이상) 기준으로 자녀 나이 0~2세의 평균 양육비는 220만7000원이며, 최소 양육비는 215만2000원이다. 자녀가 클수록 양육비도 올라가는데, 같은 구간에서 양육비 의무 지급 최대 나이대인 15~18세의 평균 양육비는 288만3000원, 최소 양육비는 271만2000원이다.&lt;br&gt;&lt;br&gt;다만 이 기준표가 일괄적으로 적용되는 건 아니다. 부모의 재산 상황과 자녀의 거주 지역, 치료비와 교육비 등 여러 요소 등을 고려해 양육비 총액이 가산되거나 감산될 수 있다.&lt;br&gt;&lt;br&gt;정우성의 소속사 아티스트컴퍼니가 지난 6일 아티스트유나이티드와 합병을 위해 공개한 외부평가보고서에 따르면, 정우성과 이정재는 지난 3년간 회사에서 504억원을 정산받았다. 이정재와 정산금을 50%씩 가져갔다면 정우성이 1년간 광고와 드라마로 벌어들인 돈은 84억원 수준이다.&lt;br&gt;&lt;br&gt;이에 따라 양육비산정기준표상 정우성과 문가비는 부모 합산 최고 구간을 크게 넘어설 것으로 추정된다. 류 변호사는 “전문직 부부의 경우도 부모 합산 소득 최고 구간이 기준표를 상회하는 경우가 다수 있다”며 “굳이 기준표대로 양육비 총액을 설정할 필요는 없고, 일차적으로 합의만 된다면 훨씬 높은 금액으로도 책정될 수 있다”고 했다.&lt;br&gt;&lt;br&gt;이렇게 책정된 양육비는 통상 양육자와 비양육자의 소득 비율에 따라 나눠지지만, 이 또한 합의에 따라 크게 달라질 수 있다고 류 변호사는 설명했다. 합의 내용에 따라 정우성이 소득비율보다 더 많은 양육비를 지급하게 될 수도 있는 것이다.&lt;br&gt;&lt;br&gt;친권과 양육권 등도 인지 절차가 끝난 뒤 논의될 전망이다. 이혼 전문 김미루 변호사는 YTN ‘조인섭 변호사의 상담소’에서 “정우성의 자녀라는 것이 아직은 법률적으로 정해지지 않은 상태이기 때문에, 향후 정우성이 임의로 인지를 하거나 문가비가 정우성을 상대로 인지 청구를 통해 자녀와 아버지의 관계를 창설해야 친권·양육권, 양육비, 면접 교섭을 정할 수 있다”고 했다.&lt;br&gt;&lt;br&gt;이어 “현재는 결혼도 하지 않고, 사실혼도 아니고, 인지 절차도 진행된 부분이 없기 때문에 공동 양육자로 보기는 어렵다”며 “인지 절차 이후 친권자와 양육권자 지정 절차를 거칠 것”이라고 했다. 그러면서 “통상적으로 이제 친권 및 양육권자는 공동보다는 단독으로 정해지는 것이 자녀 복리에 더 적합하기 때문에 한쪽으로 지정될 것으로 생각된다”고 했다.&lt;br&gt;&lt;br&gt;정우성이 인지 절차를 마치면, 자녀는 상속권 역시 갖게 된다. 민법 제1009조에 따르면, 자녀, 손자, 손녀 등 직계비속은 배우자와 함께 1순위 상속인이 된다. 배우자가 없는 경우 직계비속이 단독으로 상속권을 행사한다. 만약 정우성과 문가비의 아이가 정우성의 유일한 자녀이며 정우성이 앞으로 결혼을 하지 않는다면 법정상속분에 따라 정우성의 재산을 단독 상속받을 가능성이 있다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>성시경, 정재형 이어 위하준도… 폭설로 공항에 발 묶였다 </title>
       <link>https://www.chosun.com/national/national_general/2024/11/28/F4HSY543GZALVPSGJURAQKYZT4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/28/F4HSY543GZALVPSGJURAQKYZT4/</guid>
@@ -803,15 +881,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OJ4ACGPSWNGU3PCIBKGUNIZ3E4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;27일 올겨울 구세군 자선냄비 모금이 시작됐다. 이날 오후 서울 중구 명동에서 구세군이 종을 흔들며 모금 활동을 하고 있다.&lt;br&gt;&lt;br&gt;구세군은 다음 달 31일까지 전국 316곳에서 자선냄비 모금을 할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>“부산 글로벌 특구 지정” 박형준 시장 천막농성 </title>
-      <link>https://www.chosun.com/national/national_general/2024/11/28/DTQWQCDKNJGSFDTPBFHEI5QA2U/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/28/DTQWQCDKNJGSFDTPBFHEI5QA2U/</guid>
-      <dc:creator>김영우 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 27 Nov 2024 16:07:42 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WNYTFVWSYBOKJIYAIOKJAHV7ZQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;박형준 부산시장이 27일 국회에서 '부산 글로벌허브도시 조성에 관한 특별법' 연내 통과를 촉구하며 천막농성을 하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울에 30㎝ 가까운 눈이 내린 27일, 여의도 국회 본관 앞에 가로 3m, 세로 3m 크기의 흰색 천막이 들어섰다. 박형준 부산시장이 천막에 앉아 있었다. 그는 결연한 목소리로 “여기서 천막을 치고 29일까지 농성을 하겠다”고 했다.&lt;br&gt;&lt;br&gt;이날 박 시장이 농성에 들어간 건 입법권을 가진 국회에 ‘부산 글로벌 허브 도시 특별법’ 제정을 촉구하기 위해서다. 부산에 특구를 지정하고 글로벌 기업의 투자를 유치하기 위해 법인세 감면과 규제 완화 등 혜택을 주자는 내용이다. 지난해 엑스포 유치에 실패한 후 윤석열 대통령이 “부산을 글로벌 허브 도시로 만들겠다”며 특구 지정을 약속했다.&lt;br&gt;&lt;br&gt;그러나 국회에 막혀 진도가 나가지 않고 있다. 올 5월 부산 지역 국회의원 18명 전원의 명의로 특구 지정을 위한 특별 법안을 발의했으나 아직도 행정안전위원회 소위원회에 계류 중이다.&lt;br&gt;&lt;br&gt;박 시장은 “특별법은 꺼져가는 부산 경제에 활력을 불어넣기 위한 유일한 대책”이라며 “그동안 세미나와 토론회, 기자회견을 잇따라 열었지만 국회가 꿈쩍도 하지 않고 있다”고 했다. 앞서 이달 초 부산시는 시민 160만명 서명을 모아 국회에 제출하기도 했다.&lt;br&gt;&lt;br&gt;부산시 관계자는 “부산은 청년 인구 유출이 심각한 상황”이라며 “특구 지정이 인구 문제를 해결하는 데도 도움이 될 것”이라고 했다. 이날 부산에 지역구를 둔 박수영 의원과 이성권 의원 등도 농성장을 찾았다. 부산시 관계자는 “천막 농성 이후에도 별다른 움직임이 없다면 시민들이 직접 행동으로 나설 수밖에 없을 것”이라고 말했다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[기자수첩] 진퇴양난서 내린 연세대의 결단</title>
       <link>https://www.chosun.com/national/education/2024/11/28/WKBV7Y76QJGD3MXWHAMVLC4KHQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/education/2024/11/28/WKBV7Y76QJGD3MXWHAMVLC4KHQ/</guid>
@@ -830,15 +899,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JZZCIGJII3P4OLESRDDA7H6AGU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 21일 오전 서울 서대문구 연세대학교. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2025학년도 수시 논술 전형에서 시험지 사전 배포 논란을 겪은 연세대가 12월 8일 ‘추가 시험’을 치르기로 했다. 지난 10월 치른 ‘1차 시험’ 합격자(261명)도 그대로 발표하고, 2차 시험’을 한 번 더 실시해 학생들을 추가로 뽑겠다는 것이다.&lt;br&gt;&lt;br&gt;연세대는 27일 “10월 12일 시행된 2025학년도 자연 계열 논술 시험 관련 연세대 후속 조치를 오랜 기간 기다려 준 수험생과 학부모에게 사과의 말씀을 드린다”면서 이렇게 밝혔다.&lt;br&gt;&lt;br&gt;연세대는 2차 시험을 12월 8일에 시행한다. 앞서 10월 12일 치른 ‘1차 시험’에 응시한 수험생은 모두 응시할 수 있다. 원래 이 전형에서 뽑기로 한 261명은 그대로 1차 시험 결과에 따라 선발한다. 합격자 발표일은 예정대로 12월 13일이다. 2차 시험에 응시한 학생을 대상으로 또 261명을 뽑겠다는 계획이다. 2차 시험 합격자는 수시 모집 절차가 끝나는 12월 26일 이전에 발표할 예정이다.&lt;br&gt;&lt;br&gt;연세대 측은 “법원 판단을 통해 실체적인 진실을 밝히는 것이 대다수 수험생의 이익을 보호하는 것이라고 판단했지만, 현실적으로 단기간 내 판결을 받는 것이 어렵게 됐다”며 “타 대학의 수시 모집 전형 일정을 종합적으로 고려하고 교육부와 지속적인 협의 과정을 통해 ‘2차 시험’을 시행하기로 결정했다”고 밝혔다.&lt;br&gt;&lt;br&gt;본래 대학들은 ‘신입생 미충원 인원 이월 및 초과 모집 인원 처리 규정’에 따라 수험생이나 대학 과실 등으로 모집 인원을 다 못 뽑거나 더 많이 뽑으면 그만큼 2년 후 덜 뽑거나 더 많이 뽑아야 한다. 예를 들어, 올해 입시에서 동점자가 많아 2명을 더 뽑으면 2027학년도 입시에서 2명을 덜 뽑아야 한다. 연세대도 올해 추가 논술 시험으로 선발하는 인원만큼 현 고1 대상 2027학년도 입시에서 덜 뽑는다.&lt;br&gt;&lt;br&gt;이 사건은 연세대 수시 논술 수험생 18명이 한 고사장에서 시험지가 먼저 배포되는 등 공정성에 문제가 있다며 소송을 제기해 시작됐다. 법원은 지난 15일 이들이 낸 논술 시험 효력 정지 가처분 신청을 받아들여, 연세대가 본안(논술 시험 무효) 소송 판단 전까지 합격자 발표 등을 중지하도록 결정내렸다. 이후 연세대는 서울고법에 즉각 항고했다.&lt;br&gt;&lt;br&gt;연세대가 이날 법원 최종 판단이 나오기 전에 추가 시험 결정을 내린 건 수험생 다수의 피해를 막고 추가적인 법적 분쟁도 피하려는 것으로 보인다. 소송 낸 수험생들 요구처럼 기존 시험을 무효로 하고 재시험을 치르면 기존 시험을 정상적으로 치른 1만명 가까운 학생이 큰 피해를 볼 수 있다. 그렇다고 논술 전형 모집 인원(261명)을 정시로 이월하면 모든 수험생이 수시 지원 기회 6회 중 하나를 날리게 된다. 어떤 안을 선택해도 수험생 피해가 예상되자 추가 시험이란 결단을 내린 것이다. 교육부는 “연세대 결정은 법률 분쟁을 조기에 해소해 안정적으로 입시를 운영하기 위해 선택한 대안”이라며 “연세대는 추가 시험을 공정하게 치를 수 있도록 만전을 기해야 할 것”이라고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>중부내륙선 철도 개통, 판교~문경 1시간 30분</title>
-      <link>https://www.chosun.com/national/national_general/2024/11/28/J5S57VED6BFEVN64CN24OYIBG4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/28/J5S57VED6BFEVN64CN24OYIBG4/</guid>
-      <dc:creator>신정훈 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 27 Nov 2024 16:06:38 +0000</pubDate>
-      <content:encoded>수도권과 충북 충주, 경북 문경을 연결하는 중부내륙선 철도가 개통됐다. 경기 성남 판교에서 문경까지 KTX를 타고 1시간 30분 만에 갈 수 있게 된다.&lt;br&gt;&lt;br&gt;국토교통부와 충북도·경북도는 27일 경북 문경역에서 중부내륙선 2단계 구간(충주~문경) 개통식을 열고, 30일부터 열차 운행을 시작한다고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/D27PPWSTZRA73HIH3OU7SXKHAE.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=김하경&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;중부내륙선은 경기 이천과 경북 김천을 연결하는 163㎞ 철도 노선이다. 1단계 구간(이천~충주·54㎞)은 2021년 개통해 KTX가 운행 중이고, 이번에 2단계 구간(충주~문경·39.2㎞)을 추가 개통하는 것이다.&lt;br&gt;&lt;br&gt;기존 판교~이천(경강선) 노선과 연결해 판교에서 이천, 충주, 문경까지 KTX 운행이 가능해졌다.&lt;br&gt;&lt;br&gt;중부내륙선에는 최고 시속 250㎞인 ‘KTX-이음’이 하루 8번 왕복 운행한다.&lt;br&gt;&lt;br&gt;충주 살미역·수안보온천역, 괴산 연풍역, 문경역 등 역사 4곳이 신설됐다. 판교에서 살미역은 74분, 수안보온천역은 81분, 문경역은 90분이면 갈 수 있다. 국토부 관계자는 “승용차를 이용하는 것보다 30분 정도 시간을 단축할 수 있을 것”이라고 했다.&lt;br&gt;&lt;br&gt;충북도와 경북도는 중부내륙선이 지나는 수안보온천, 월악산 국립공원, 문경새재 등 관광지로의 접근성이 크게 개선될 것으로 보고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>중앙지검 부장 전원 “野, 위헌적 검사 탄핵 멈춰야”</title>
       <link>https://www.chosun.com/national/court_law/2024/11/28/BHKBNQRZEVED7ISUAM5MVPQWNU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/11/28/BHKBNQRZEVED7ISUAM5MVPQWNU/</guid>
@@ -846,51 +906,6 @@
       <description/>
       <pubDate>Wed, 27 Nov 2024 15:51:13 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AGG6H2ZBABBGFGP6YS45AHOJBA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이창수 서울중앙지검장이 지난 18일 서울 여의도 국회 법사위에서 열린 서울고검·서울중앙지검 등에 대한 국정감사에서 인사말을 하고 있다. /이덕훈 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;더불어민주당이 내달 초 서울중앙지검 이창수 지검장과 조상원 4차장·최재훈 반부패수사2부장 탄핵을 예고한 데 대해 중앙지검 부장검사들이 공동 입장문을 내며 반발했다.&lt;br&gt;&lt;br&gt;중앙지검 부장검사 33명 전원은 27일 검찰 내부망인 이프로스에 입장문을 올려 “삼권분립이라는 헌법 정신을 몰각한 탄핵을 즉각 중단하라”고 촉구했다. 전날 중앙지검 지휘부인 차장검사들이 “검사들에 대한 위헌적, 남용적 탄핵 시도는 반드시 중단돼야 한다”는 입장을 낸 데 이어 부장검사들도 동참한 것이다.&lt;br&gt;&lt;br&gt;중앙지검 부장들은 민주당의 탄핵 시도에 대해 “헌법의 기본 가치를 훼손하고 법치주의를 형해화시키는 위헌·위법적 시도”라면서 “검찰 내부의 지휘체계를 무력화하고 그 본질적 기능을 정면으로 침해하는 것”이라고 했다. 그러면서 “국가기관의 운영이 무력화되고 본질적인 기능 침해가 명백히 예견됨에도 탄핵 절차를 강행하는 것은 삼권분립이란 헌법 정신을 몰각한 것으로 즉각 중단돼야 한다”고 했다.&lt;br&gt;&lt;br&gt;전날 박승환 1차장과 공봉숙 2차장, 이성식 3차장은 이프로스에 “탄핵 사유가 없어서 헌법재판소에서 기각할 것이 충분히 예상되는 상황에서 탄핵 절차를 강행하는 것은 공직자의 직무를 정지시키고자 하는 데 주안점이 있다고 볼 수밖에 없다”고 지적했다. 이어 “최근 1년여 동안 검사 12명에 대한 탄핵 시도가 있었다”며 “수사 내용과 결과가 마음에 들지 않는다고 사건을 담당한 검사들에 대한 탄핵 시도를 계속하는 것은 누가 보더라도 탄핵 권한의 무분별한 남발이자, 탄핵 제도를 참을 수 없이 가벼운 존재로 전락시키는 것으로 볼 수밖에 없다”고 강조했다.&lt;br&gt;&lt;br&gt;앞서 민주당은 윤석열 대통령 부인 김건희 여사의 ‘도이치모터스 주가조작’ 의혹 사건을 무혐의 처분했다는 이유로 이 지검장과 조 차장검사, 최 부장에 대한 탄핵안을 다음 달 2일 국회 본회의에 보고하고, 4일 표결하겠다는 계획을 밝혔다.&lt;br&gt;&lt;br&gt;현 정부 들어 민주당은 안동완·손준성·이정섭·이희동·임홍석·박상용·엄희준·강백신·김영철 검사 등 총 9명에 대해 탄핵안을 발의했다. 이 가운데 이희동·임홍석 검사는 철회했고, 안동완·손준성·이정섭 검사 탄핵안은 국회 법사위 조사 없이 본회의에서 바로 표결 처리했으나 헌법재판소에서 기각됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[매일매일 중국어 한마디] 설익다, 미숙하다, 잘 알지 못하다</title>
-      <link>https://www.chosun.com/national/nie/chinese/2024/11/28/D54CROPJQBGLXBKPIHGWCCXV2I/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese/2024/11/28/D54CROPJQBGLXBKPIHGWCCXV2I/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 27 Nov 2024 15:45:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/P7SYTU4TGZHZ3FVXEJN4PBPTCM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문으로 배우는 실용한자] 산분장(散粉葬)</title>
-      <link>https://www.chosun.com/national/nie/chinese_character/2024/11/28/GIIMPDNO2FBWVPMCOLIBUKYASA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese_character/2024/11/28/GIIMPDNO2FBWVPMCOLIBUKYASA/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 27 Nov 2024 15:45:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/N6DDUZBS2NCG7DPQF4W7W2QHSQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[두근두근 뇌 운동] [2511] 얼굴 삼행시</title>
-      <link>https://www.chosun.com/national/nie/2024/11/28/P6ZWEF7DKZDRPLY4FCBZLVWPOE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/11/28/P6ZWEF7DKZDRPLY4FCBZLVWPOE/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 27 Nov 2024 15:45:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G76WGHKI2VGUDEDAJWKMBB7VUQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[입에 착착 붙는 일본어] 이름을 짓다</title>
-      <link>https://www.chosun.com/national/nie/japanese/2024/11/28/HBXRGL67FFET7KSONJQHDCXJPA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/japanese/2024/11/28/HBXRGL67FFET7KSONJQHDCXJPA/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 27 Nov 2024 15:45:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LT77DBDV5JBVBEGVRWSQB7KUOQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[스피킹이 강해지는 영어] finders keepers</title>
-      <link>https://www.chosun.com/national/nie/english/2024/11/28/T6ONFWLXMFGWVHYOMVE3DSVN7E/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/english/2024/11/28/T6ONFWLXMFGWVHYOMVE3DSVN7E/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 27 Nov 2024 15:45:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KNCBOPP47JBSVBSWGVMB2YCCBI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[오늘의 날씨] 2024년 11월 28일</title>
@@ -939,15 +954,6 @@
       <description/>
       <pubDate>Wed, 27 Nov 2024 08:54:32 +0000</pubDate>
       <content:encoded>상속·소송 등에 필요한 옛 호적부를 다음 달부터 인터넷으로 쉽게 발급받을 수 있게 됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WU6EDWOFLJBDFGR4WXANRSD3DM.png"&gt;&lt;figcaption&gt;&lt;small&gt;다음달 2일부터 개시되는 전자가족관계등록시스템 메인 화면/대법원 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대법원은 내달 2일부터 인터넷으로 이미지 제적부를 열람하고, 이미지 제적 등본·초본을 발급받을 수 있는 서비스를 시작한다고 27일 밝혔다. 이미지 제적부는 오래된 호적부 등을 스캔해 이미지화한 것을 말한다.&lt;br&gt;&lt;br&gt;이전까지 이미지 제적부 등을 발급받으려면 시청·구청·동사무소를 직접 방문해 호주(戶主) 정보를 제공해야 했다. 앞으로는 ‘대법원 전자가족관계등록시스템’ 홈페이지에서 호주나 본인 정보를 입력하면 인터넷으로 쉽게 발급받을 수 있다. 동사무소 등에서 방문 신청을 하는 경우에도 호주 또는 본인 정보 둘 중 하나로 발급이 가능해졌다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CUC4TTYCVJFGRODZ2DGSOMZOHU.png"&gt;&lt;figcaption&gt;&lt;small&gt;이미지 제적 등본 인터넷 발급을 통한 개선 효과/대법원 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;호적부는 가족 구성원의 출생·사망·혼인·입양 등 신분관계 변동을 등록한 장부다. 1910년 시행된 호적제도가 지난 2008년 폐지되고 가족관계등록법이 시행되면서, 기존 호적부는 모두 말소돼 제적부로 옮겨졌다. 그러나 여전히 상속이나 소송 등에서 과거 가족관계를 증명하기 위해 오래된 호적부를 확인해야 하는 경우가 있다.&lt;br&gt;&lt;br&gt;대법원은 과거 손으로 기록돼 판독이 어려워 전산화되지 않은 호적부·제적부를 스캔을 통해 이미지화하는 사업을 계속해왔다. 대법원 관계자는 “현실적 제약으로 인터넷 발급이 되지 않는 일부 이미지 제적 등본은 동사무소 등 방문을 통해 교부가 가능하다”고 설명했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“듣기만 해도 눈물이”.… 병사들이 꼽은 군 생활 위로 발라드 1위는</title>
-      <link>https://www.chosun.com/national/national_general/2024/11/27/E4RWKM7IFBHQJB5IS7AIJFHHQY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/27/E4RWKM7IFBHQJB5IS7AIJFHHQY/</guid>
-      <dc:creator>박선민 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 27 Nov 2024 07:55:55 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BIDDNRWM73OQBXVDHAGYI3RD5E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“지나간 것은 지나간 대로&lt;br&gt;&lt;br&gt;그런 의미가 있죠&lt;br&gt;&lt;br&gt;우리 다 함께 노래합시다&lt;br&gt;&lt;br&gt;후회 없이 꿈을 꾸었다 말해요”&lt;br&gt;&lt;br&gt;가족과 지인을 떠나 군 생활 중인 장병들을 위로해준 노래는 무엇이었을까.&lt;br&gt;&lt;br&gt;국방홍보원이 지난 4일부터 18일까지 병사 304명을 대상으로 ‘군 생활의 위로가 된 최고의 발라드’를 조사한 결과, 이적의 ‘걱정말아요 그대’가 전체 응답자 중 8.6％의 선택을 받아 1위로 선정됐다.&lt;br&gt;&lt;br&gt;이 곡을 군 생활 최고의 발라드로 꼽은 병사들은 “힘들 때 듣기만 해도 눈물이 난다” “가사가 너무 좋다” “전주만 들어도 위로가 된다” 등의 이유를 밝혔다.&lt;br&gt;&lt;br&gt;2위는 그룹 노라조의 ‘형’(7.6％)으로, 1위와 득표수 차이가 1%포인트에 불과했다. 병사들은 “진짜 친형이 해주는 위로 같다” “인생 선배의 위로처럼 느껴진다”고 평가했다.&lt;br&gt;&lt;br&gt;가수 윤종신의 ‘오르막길’(5.6％)과 김광석의 ‘이등병의 편지’(4.6％), 김민우의 ‘입영열차 안에서’(3.6％)는 각각 3~5위를 기록했다.&lt;br&gt;&lt;br&gt;명곡 6위와 7위는 각각 황가람의 ‘나는 반딧불’(3.0%), 이하이의 ‘한숨’(2.6%)이 차지했다.&lt;br&gt;&lt;br&gt;이외에도 ‘봄이 와도’(로이킴), ‘한 페이지가 될 수 있게’(데이식스), ‘숨’(박효신), ‘괜찮아도 괜찮아’(도경수), ‘어른’(손디아), ‘무릎’(아이유), ‘너의 모든 순간’(성시경) 등 수많은 발라드곡이 병사들의 마음을 울린 노래로 꼽혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>대설주의보 인천, 교통사고 잇따라…여객선 운항도 통제</title>
