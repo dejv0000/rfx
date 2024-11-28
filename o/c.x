@@ -13,6 +13,42 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>인천 지하주차장 전기차 화재 원인 ‘미궁’… 경찰, 관리사무소 직원 등 4명 송치</title>
+      <link>https://www.chosun.com/national/incident/2024/11/28/OAQMX3EXTFFPDHVA2OWVKI7UUY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/11/28/OAQMX3EXTFFPDHVA2OWVKI7UUY/</guid>
+      <dc:creator>인천=이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 28 Nov 2024 04:24:15 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UGYZMG3RWCV6NGPVRVCRIGGC5Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 8월 1일 전기차 화재가 발생한 인천 서구 청라동의 한 아파트 단지 지하주차장 내부. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 8월 인천 청라국제도시의 아파트 지하 주차장에서 발생한 벤츠 전기차 화재 사고의 정확한 원인을 경찰이 밝혀내지 못했다.&lt;br&gt;&lt;br&gt;인천경찰청 형사기동대는 28일 “배터리 외부 손상 가능성, 배터리 내부 문제에 따른 발화 가능성 등을 모두 확인했으나, 정확한 화재 원인을 확인하지 못했다”고 밝혔다.&lt;br&gt;&lt;br&gt;경찰은 또 “배터리의 전류·전압·온도 등이 정상 범위 내에 있었는지를 살펴볼 수 있는 배터리 관리 시스템(BMS)이 화재로 손상돼 관련 데이터를 추출할 수 없었던 점도 화재 원인을 규명하지 못한 이유 중 하나”라고 설명했다.&lt;br&gt;&lt;br&gt;경찰은 불이 난 벤츠 전기차의 배터리 팩과 BMS를 수거해 국립과학수사연구원에 정밀 감정을 의뢰했다. 국과수는 배터리 팩 내부의 전기적 발열에 의한 발화 가능성과 함께 외부 충격에 배터리 팩이 손상돼 화재가 발생했을 수 있다는 소견을 경찰에 전달했다. BMS는 화재로 인해 영구적으로 손상돼 데이터를 추출할 수 없었다.&lt;br&gt;&lt;br&gt;경찰은 국과수 소견을 토대로 화재 차량을 만든 벤츠를 상대로 배터리 팩 제작 과정 등을 살폈으나, 문제점을 찾지 못했다. 또 대학 교수를 비롯해 한국자동차안전연구원, 국립소방연구원 등 관계기관 전문가 16명에게 자문했으나, 역시 정확한 화재 원인은 찾을 수 없었다.&lt;br&gt;&lt;br&gt;경찰은 불이 난 벤츠 전기차의 정비이력과 운행이력 등도 조사했지만, 차량 하부에 충격을 줄 만한 상황을 발견하지 못했다. 벤츠 코리아와 독일 벤츠 본사 관계자에 대한 참고인 조사에서도 혐의점은 드러나지 않았다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “벤츠가 중국 모 업체로부터 배터리 셀을 공급받아 자체 기술로 배터리 팩을 제작해 차량에 장착했고, 관련 리콜 이력도 없었다”며 “2023년 11월과 지난 4월 진행된 차량 정기 점검에서도 문제가 없었고, 차량 하부에 외부 충격을 줄만한 운행 이력도 발견되지 않았다”고 말했다.&lt;br&gt;&lt;br&gt;이어 “2017년부터 2022년까지 국내에서 발생한 전기차 화재 88건을 분석했지만 대부분 교통사고 등 충격이 발생한 뒤 불이 난 사례였고, 충전 중도 아닌 주차된 전기차에서 저절로 화재가 난 경우는 이번이 처음”이라고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KVC534RXXJDICRBS4ZIQU7GWSI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 8월 인천 서구의 한 정비소에서 화재가 발생한 전기차에 대한 합동감식이 진행되고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰은 이번 화재 사고와 관련, 아파트 관리사무소 직원 A씨 등 4명을 업무상과실치상 등 혐의로 입건해 검찰에 송치할 예정이다.&lt;br&gt;&lt;br&gt;A씨 등은 지난 8월 1일 아파트 지하 주차장에서 발생한 벤츠 전기차 화재 당시 안전관리 등을 제대로 하지 않아 입주민을 다치게 한 혐의를 받는다. A씨는 화재 경보음이 울리자 스프링클러 작동을 멈추기도 했다.&lt;br&gt;&lt;br&gt;당시 화재로 입주민 23명이 연기를 마셔 병원 치료를 받았다. 또 주차장에 있던 차량 87대가 타고, 783대가 그을리는 피해가 발생했다. 연기를 마신 23명 중 3명은 경찰에 상해 진단서를 제출하기도 했다.&lt;br&gt;&lt;br&gt;A씨는 경찰에 “경보기 등 소방시설이 오작동하면 아파트 입주민들이 항의할 수 있어 일단 스프링클러를 껐다”고 진술한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;함께 입건된 피의자들은 아파트 관리사무소장과 총괄 소방 안전관리자 등으로, 화재 대응 교육이나 훈련을 하지 않는 등 안전 관리를 적절하게 하지 않은 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>여성단체들 “동덕여대 시위 ‘불법·악마화’ 프레임은 여혐 존재 증거”</title>
+      <link>https://www.chosun.com/national/national_general/2024/11/28/2KWF3H3FGVAPFEPN4VGPZK46SM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/28/2KWF3H3FGVAPFEPN4VGPZK46SM/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 28 Nov 2024 05:00:49 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VVDN2LZNQWXM76DMIL2PVY5F4U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 24일 오후 서울 성북구 동덕여대 백주년 기념관 앞이 스프레이 페인트(래커)로 적은 남녀공학 전환 반대 문구로 가득 차 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전국 67개 여성단체들이 동덕여대 재학생들의 ‘남녀공학 전환’ 반대 시위와 관련한 공동성명을 발표했다.&lt;br&gt;&lt;br&gt;27일 한국여성단체연합, 한국여성의전화, 한국성폭력상담소 등 67개의 여성단체는 공동성명문을 통해 “동덕여대 학생들의 시위를 ‘불법’과 ‘손해’의 프레임으로 규정하고 학생들을 ‘악마화’하는 정치권, 언론, 기업의 성차별적 시선과 태도가 우리 사회에 여성혐오가 여전히 존재하고 있음을 보여주는 증거”라며 “정치권, 언론, 기업이 보여주고 있는 성차별적, 여성혐오적 행태는 당장 중단되어야 한다”고 했다.&lt;br&gt;&lt;br&gt;단체들은 “시위를 둘러싸고 ‘이 대학 출신 며느리는 절대 받아들이고 싶지 않다’, ‘여대출신 채용 배제’, ‘54억 시위 피해’ 등의 말이 정치인과 기업, 언론, 각종 온라인 커뮤니티를 통해 확산되고 있다”며 “이는 남녀공학 전환을 둘러싼 여러 맥락과 상황을 소거시킨 채 사태의 본질을 왜곡하고 학생을 학교공동체의 동등한 주체로 인정하지 않는 비민주적 학교의 행태를 승인하고 강화하는 것”이라고 했다.&lt;br&gt;&lt;br&gt;단체들은 동덕여대 측을 향해서는 “학생들의 정당한 문제제기에 대한 반성과 성찰은커녕, 여전히 문제의 본질이 무엇인지 인식하지 못하고 있다”며 “특히 심각한 것은 학교 측이 학생들을 상대로 손해배상을 청구하고 업무 방해 금지 가처분 신청을 하는 등 민주주의 교육공동체에서 있어서는 안되는 일들을 부끄러움 없이 하고 있다는 점”이라고 했다.&lt;br&gt;&lt;br&gt;그러면서 “학생 의견 수렴이 민주적으로 이루어지지 않았다면 논의는 처음부터 다시 시작해야 한다”며 “지금 그 책임은 전적으로 학교에 있다. 학교는 학생들의 문제 제기와 요구를 겸허히 수용하고 대화에 나서라. 또한 정치권과 언론은 성차별과 여성혐오에 근거한 혐오 표출을 즉각 중단하라”고 요구했다.&lt;br&gt;&lt;br&gt;한편 동덕여대 재학생들은 남녀공학 전환에 반대하며 캠퍼스를 점거하고 기물을 파손하는 시위를 했다. 동덕여대 측은 지난 15일 이번 시위로 인한 피해액이 최소 24억원에서 최대 54억원에 달한다고 밝힌 바 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>이화여대 제18대 총장에 이향숙 수학과 교수</title>
+      <link>https://www.chosun.com/national/national_general/2024/11/28/33II3727YFF27JGGXFMLS63QDU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/28/33II3727YFF27JGGXFMLS63QDU/</guid>
+      <dc:creator>구동완 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 28 Nov 2024 04:21:38 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GFWR3I22H5H4VME6TA3E6EVXFU.jpeg"&gt;&lt;figcaption&gt;&lt;small&gt;이향숙 이화여자대학교 제18대 총장. /이화여대&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이화여자대학교가 이향숙(61) 수학과 교수를 제18대 신임 총장으로 선임했다.&lt;br&gt;&lt;br&gt;학교법인 이화학당은 교수와 직원, 학생, 동창 등이 참여하는 직접선거를 통해 이향숙 교수를 신임 총장으로 선출했다고 28일 밝혔다. 이로써 이 신임 총장은 김혜숙 전 총장과 김은미 전 총장에 이어 이화여대에서 직접선거로 선출된 세 번째 총장이 됐다.&lt;br&gt;&lt;br&gt;이 신임 총장은 이화여자대학교에서 수학 학사, 석사 학위를 받은 후 미국 노스웨스턴대학교에서 수학 박사 학위를 취득했다. 1995년부터 이화여대에서 교수 생활을 시작해 수학과 학과장, 산학협력단부단장·연구처부처장, 연구처장·산학협력단장 등 주요 보직을 역임하고 현재는 한국연구재단 이사를 맡고 있다. 내년 2월 1일에 취임하며 임기는 4년이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>정몽규 축구협회장 4선 뜻 굳혔다... 연임 심사 요청하기로</title>
+      <link>https://www.chosun.com/national/national_general/2024/11/28/XK2OOROHIVGPZPWIZ7H2FBZTVQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/28/XK2OOROHIVGPZPWIZ7H2FBZTVQ/</guid>
+      <dc:creator>김영준 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 28 Nov 2024 04:04:13 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OMEWAFGA3RP5LDJV6VCQGQL37U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;정몽규 대한축구협회장이 지난달 국회 국정감사에서 발언하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정몽규 대한축구협회장이 4선 도전 뜻을 굳힌 것으로 전해졌다. 28일 축구계에 따르면 정 회장은 최근 차기 회장 선거 출마 의사를 정했고, 다음 달 2일 대한체육회 스포츠공정위원회에 연임 심사를 요청할 계획이다.&lt;br&gt;&lt;br&gt;정 회장은 2013년 축구협회장에 선임돼 3선을 하면서 한국 축구를 이끌어왔다. 하지만 최근 클린스만, 홍명보 대표팀 감독 선임 논란과 협회의 여러 행정 불투명 문제가 지적되면서 그의 사퇴를 요구하는 목소리가 작지 않았다.&lt;br&gt;&lt;br&gt;그는 4선 도전 여부를 고민했으나 최종적으로 출마를 선택한것으로 알려졌다. 정 회장이 차기 회장 선거에 나오려면 임기 종료 50일 전인 다음 달 2일까지 회장직을 내려놔야 한다. 정 회장은 이날 체육회 스포츠공정위에 연임 심사 요청서를 제출할 계획으로 알려졌다. 여러 비위 혐의로 수사를 받고 있는 이기흥 대한체육회장도 최근 스포츠공정위로부터 3선 도전을 승인 받았기 때문에 정 회장도 스포츠공정위 심의를 통과할 가능성이 높다.&lt;br&gt;&lt;br&gt;차기 축구협회장 선거는 내년 1월 8일 열린다. 허정무 전 축구 대표팀 감독이 출마 의사를 밝힌 상태다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title> “5마리에 6만원 받아도 줄 선다”… 대게철, ‘빵게’ 밀거래 현장</title>
       <link>https://www.chosun.com/national/national_general/2024/11/28/QTCBTZNHMNDSZJ5MV7VU6FTNKE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/28/QTCBTZNHMNDSZJ5MV7VU6FTNKE/</guid>
@@ -861,15 +897,6 @@
       <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JVPM76CVABBSNFXEEPNRMNRL2M.png"&gt;&lt;figcaption&gt;&lt;small&gt;텔레그램 마약류 채널에 게시된 마약류 광고사진. /서울중앙지검&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;텔레그램을 이용해 1만명이 동시에 투약할 수 있는 마약을 밀수하고 유통한 조직이 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;서울중앙지검 마약범죄 특별수사팀(팀장 김보성 강력범죄수사부장)은 작년 11월부터 올 2월까지 텔레그램 마약류 판매 채널을 운영하며 엑스터시와 필로폰 등을 수입‧유통한 총책 윤모(43)씨와 부총책 이모(32)씨, 마약을 은닉 장소에 가져다 두는 ‘드랍퍼’ 역할을 한 신모(30)씨와 강모(29)씨 등 4명을 마약류 관리에 관한 법률 위반 혐의로 구속 기소했다고 27일 밝혔다. 이들로부터 LSD(리서직산디에틸아마이드), 합성대마 등을 매수한 오모(28)씨는 불구속 기소하고, 이들에게 본인 명의 휴대전화와 은행통장을 넘긴 차모(58)씨는 약식 기소했다.&lt;br&gt;&lt;br&gt;검찰에 따르면 윤씨는 텔레그램 채널을 만들어 이씨와 함께 운영하며 해외 판매상에게 마약류를 주문하고, 고액 알바 구인광고로 드랍퍼를 모집했다. 신씨와 강씨는 윤씨 등의 지시에 따라 해외에서 배송된 마약을 받고 ‘좌표’로 불리는 은닉 장소를 확보했다. 이후 윤씨 등이 텔레그램으로 마약 구입 주문과 결제금을 받으면, 신씨와 강씨가 매수자에게 좌표를 보냈다. 이들은 서로가 누구인지 알지 못한 채 범행을 저질렀다고 한다.&lt;br&gt;&lt;br&gt;이번 사건은 인천공항세관이 올 1월 독일에서 국내로 밀반입된 MDMA 526정을 적발하면서 불거졌다. 검찰은 먼저 재판에 넘긴 1차 드랍퍼 신씨의 휴대전화 등을 분석해 윤씨와 이씨를 지난 3월 구속 기소했고, 2차 드랍퍼 강씨도 검거했다. 이어 윤씨와 이씨의 추가 범행을 확인해 이날 추가 기소했다.&lt;br&gt;&lt;br&gt;세관과 검찰이 지난 10개월간 수사로 압수한 마약류는 MDMA 1747정, 합성대마 283ml, LSD 62장, 필로폰 10.54g이다. 1만명이 동시에 투약할 수 있는 분량으로 시가로는 약 1억4814만원이다.&lt;br&gt;&lt;br&gt;검찰 관계자는 “현재 마약류 수입과 유통은 비대면 온라인으로 진행돼 매수·투약자 추적도 어려운 상황이지만, 오랫동안 축적한 수사 노하우와 최신 기법으로 총책을 검거할 수 있었다“고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>부동산 컨설팅인 척 전세사기로 113억원 빼돌려…1심 징역 13년</title>
-      <link>https://www.chosun.com/national/court_law/2024/11/27/3ARZDFTNRJA3NE7TM6LPUQNFTQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/11/27/3ARZDFTNRJA3NE7TM6LPUQNFTQ/</guid>
-      <dc:creator>박혜연 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 27 Nov 2024 07:31:25 +0000</pubDate>
-      <content:encoded>부동산 컨설팅 업체인 척 조직적인 전세사기를 벌여 보증금 113억여원을 가로챈 일당이 1심에서 중형을 선고받았다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3FTGPTVCXJGOPCYLMP3UYTQ3YI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 서울중앙지법/조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지법 형사18단독 이준구 판사는 27일 사기 등 혐의로 기소된 부동산 컨설팅 업체 사장 최모씨에게 징역 13년을 선고했다. 범행을 주도한 공범 이모씨는 징역 5년을, 범행에 가담한 컨설팅 업체의 부장·실장 등 나머지 공범 10명은 징역형 집행유예를 선고받았다.&lt;br&gt;&lt;br&gt;이 판사는 “전세사기 범행은 서민층과 사회초년생인 피해자들의 삶의 밑천을 대상으로 해 피해자들의 삶의 기반을 뿌리째 흔드는 중대범죄”라며 “다수의 순차적·암묵적 공모에 의해 범행이 조직적이고 계획적으로 이뤄져 죄질이 좋지 않다”고 했다.&lt;br&gt;&lt;br&gt;이어 “피고인들은 수백 채의 빌라를 매수하는 과정에서 임대차보증금이 정상적으로 반환될 것처럼 피해자들을 기망했고, 그 과정에서 임대차 보증금을 리베이트 명목으로 나눠가졌다”고 했다.&lt;br&gt;&lt;br&gt;특히 최씨에 대해 “20여명의 가까운 직원들과 직책과 역할을 분담했고, 역할에 따라 차등화된 직함이 있는 범죄단체를 조직했다”며 “범죄 집단의 총책으로 범행 전반의 계획을 주도해 가담한 정도가 무겁다”고 지적했다.&lt;br&gt;&lt;br&gt;이들은 2021년 8월~2022년 6월 수도권 일대에서 부동산 컨설팅 업체 직원 등으로 활동하면서 임차인의 전세보증금으로 주택을 매매하는 ‘무자본 갭투자’ 방식으로 주택 428채를 사들인 뒤, 피해자 75명으로부터 보증금 113억원을 빼돌린 혐의로 기소됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>‘시의원 공천 대가로 금품수수’ 박순자 전 의원 항소심도 징역형...‘법정 구속’</title>
       <link>https://www.chosun.com/national/court_law/2024/11/27/UHU5G7MR7JHUBEU7P5F2ZUBIUA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/11/27/UHU5G7MR7JHUBEU7P5F2ZUBIUA/</guid>
@@ -922,33 +949,6 @@
       <description/>
       <pubDate>Wed, 27 Nov 2024 02:42:04 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/R6DW5BRG6VISFA7MDGI5VB3Z24.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;통제된 인천항 연안여객터미널. 기사 내용과 직접적으로 관계 없음/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대설주의보가 내려진 인천에서 크고 작은 눈길 교통사고가 잇따라 발생했다. 여객선 운항도 전면 통제됐다.&lt;br&gt;&lt;br&gt;27일 인천경찰청 고속도로순찰대 등에 따르면 이날 오전 8시 40분쯤 인천시 중구 인천대교 송도 방면 14.3㎞ 지점을 지나던 승용차가 앞서가던 승용차를 들이받는 사고가 발생했다. 앞선 승용차가 속도를 줄였는데, 뒤따르던 승용차가 길에 미끄러지면서 멈추지 못하고 부딪힌 것으로 파악됐다.&lt;br&gt;&lt;br&gt;5분 뒤인 8시 45분쯤엔 비슷한 지점을 달리던 승용차와 승합차 간 3중 추돌 사고가 일어났다. 오전 8시 50분쯤엔 인천대교 영종도 방향 5.7㎞ 지점을 달리던 승용차가 눈길에 미끄러지면서, 차량 5대가 잇따라 추돌했다. 이들 사고로 다친 사람은 없었으나 사고 수습 과정에서 40분 정도 차량이 정체됐다.&lt;br&gt;&lt;br&gt;또 이날 오전 5시 41분쯤엔 계양구 계산동에서 눈길에 차량이 미끄러지며 사고가 났고, 10여분 뒤에는 서구 심곡동에서 많이 내린 눈으로 인해 가로수가 쓰러지기도 했다.&lt;br&gt;&lt;br&gt;인천항 운항관리센터는 이날 오전 인천~백령, 인천~연평, 인천~덕적 등 총 10개 항로 여객선 운항을 모두 통제했다. 센터 관계자는 “대설주의보의 영향으로 여객선 운항을 통제하게 됐다”며 “28일 운항도 전면 통제하기로 결정한 상태”라고 말했다.&lt;br&gt;&lt;br&gt;인천 지역엔 이날 오전 10시 현재 대설주의보가 발효 중이다. 옹진군 대연평도에 15.8㎝의 눈이 내렸고, 강화 양도면 10.5㎝, 영종도 8.2㎝, 서구 경서동 7.4㎝, 부평구 구산동 5.2㎝ 등의 적설량을 기록하고 있다.&lt;br&gt;&lt;br&gt;수도권 기상청 관계자는 “인천엔 내일(28일) 오전까지 3~8㎝, 많은 곳은 10㎝ 이상의 눈이 더 내릴 것으로 예상된다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>정찬성도 경기 보며 감탄…허경환, 美주짓수 대회 준우승</title>
-      <link>https://www.chosun.com/national/people/2024/11/27/34DXFD2COBDZBES7UQZDNCRS4E/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/11/27/34DXFD2COBDZBES7UQZDNCRS4E/</guid>
-      <dc:creator>김명일 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 27 Nov 2024 01:52:46 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XM6744B7G5HINL2ILMTQGDXHNA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;정찬성과 허경환. /티엔엔터테인먼트&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;개그맨 허경환(43)이 미국 괌에서 열린 주짓수 대회에서 준우승을 차지한 사실이 뒤늦게 알려졌다.&lt;br&gt;&lt;br&gt;27일 허경환의 소속사 티엔엔터테인먼트는 허경환이 지난 10월 12일 괌에서 열린 ‘로드 투 골드’(ROAD TO GOLD) 주짓수 대회에서 퍼플벨트 체급 2위, 무제한급 3위를 차지했다고 전했다.&lt;br&gt;&lt;br&gt;주짓수는 실력과 수련 기간 등에 따라 ‘화이트→블루→퍼플→브라운→블랙’ 벨트 순으로 승급한다.&lt;br&gt;&lt;br&gt;현장에서 대회를 지켜본 이종격투기 선수 정찬성은 “우승의 기운이 허경환님한테 오고 있다”며 허경환의 실력에 감탄했다.&lt;br&gt;&lt;br&gt;허경환은 2018년에 열린 ‘제1회 로드 FC 주짓수 대회’ 화이트 남자 일반부 76kg에서 우승을 차지한 바 있다. 허경환은 다양한 예능프로그램에 출연해 자신이 주짓수를 수련하는 모습을 공개하기도 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>檢, '노태우 비자금' 의혹 고발인 조사 </title>
-      <link>https://www.chosun.com/national/court_law/2024/11/26/ZOSK6ZO7JNF3VCZ2UPAGNPU2M4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/11/26/ZOSK6ZO7JNF3VCZ2UPAGNPU2M4/</guid>
-      <dc:creator>유희곤 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 25 Nov 2024 21:48:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KYAN54445TIBMVW7ORXBWHOG4I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;노재헌 동아시아문화센터 이사장이 2023년 10월 26일 경기도 파주시 동화경모공원에서 열린 노태우 전 대통령 2주기 추모식에서 추모사를 하고 있다./조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰이 노태우 전 대통령의 ‘비자금 300억원’ 의혹 고발인을 조사하며 본격적인 수사에 착수했다.&lt;br&gt;&lt;br&gt;26일 법조계에 따르면 서울중앙지검 범죄수익환수부(부장 유민종)는 이날 노 전 대통령 배우자 김옥숙 여사, 노소영 아트센터 나비 관장, 노재헌 동아시아문화센터 원장 등을 고발한 5·18기념재단 관계자를 불러 조사했다.&lt;br&gt;&lt;br&gt;재단은 노 전 대통령 일가가 은닉한 비자금이 1266억원대로 추정된다며 김 여사와 노 관장 등을 범죄수익은닉규제법 위반 등의 혐의로 지난달 14일 고발했다.&lt;br&gt;&lt;br&gt;이희규 특권폐지국민운동본부 대표도 지난 9월 19일 같은 취지로 노 전 대통령 일가를 고발했다.&lt;br&gt;&lt;br&gt;앞서 노 관장은 “노 전 대통령의 비자금 300억원이 선경에 유입돼 증권사 인수, SK 주식 매입 등에 사용됐다”고 주장하며 ‘선경 300억원’이 적힌 김 여사의 1998~1999년 메모 2개와 50억원짜리 약속어음 6장이 찍힌 사진 등을 최 회장과의 이혼 소송 재판부에 제출했다. 2심 재판부는 이를 근거로 노 관장이 SK 성장에 기여했다며 재산분할액을 1조3808억원으로 정했다. 현재 대법원이 사건을 심리하고 있다.&lt;br&gt;&lt;br&gt;이후 열린 올해 국정감사에서는 김 여사가 차명 보관한 210억원, 동아시아문화센터로 들어간 152억원 등 추가 비자금 의혹도 제기됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>서울에 모레까지 3~8㎝ 첫눈 예보…서울시, 제설 비상근무 돌입</title>
-      <link>https://www.chosun.com/national/national_general/2024/11/26/QKTEDLKQU5FVZIG6ZYQCNUUFHU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/26/QKTEDLKQU5FVZIG6ZYQCNUUFHU/</guid>
-      <dc:creator>김영우 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 26 Nov 2024 09:41:22 +0000</pubDate>
-      <content:encoded>서울시가 26일 오후 6시부터 제설 비상근무에 돌입했다고 밝혔다. 27일 0시부터 28일까지 서울에 3~8㎝ 눈이 내릴 것으로 예보되면서다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UBBTY2HTRZLWNOBXMQOSGDXE64.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;서울시가 26일 오후 6시부터 제설 비상근무에 돌입했다고 밝혔다. 사진은 작년 1월 서울 종로구 광화문광장에서 제설 작업을 하고 있는 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;26일 서울시에 따르면, 서울시는 이날 오후 6시부터 자치구 및 유관기관과 함께 제설 비상근무 1단계에 돌입했다. 이에 따라 서울시는 보안 카메라로 강설 징후를 포착해 서울에 눈이 내리기 전 제설제를 살포하고, 인력 5295명과 제설 장비 1207대를 투입해 강설에 대비하기로 했다.&lt;br&gt;&lt;br&gt;서울시 관계자는 “많은 양의 눈이 예보된 만큼 신속한 초동 대응을 위해 모든 제설 장비를 총동원하겠다”고 말했다.&lt;br&gt;&lt;br&gt;서울시는 또 골목길이나 급경사에 비치돼 있는 제설함에 시민들이 사용할 수 있도록 제설제와 장비를 비치했다. 시민들에겐 미끄럼 사고 방지를 위해 운전 시 안전 거리를 확보하고, 낙상 사고 등 안전에도 유의할 것을 당부했다.&lt;br&gt;&lt;br&gt;김성보 서울시 재난안전실장은 “첫 눈에 시민 불편이 없도록 제설 대책에 만전을 기하겠다”며 “시민 여러분들의 안전을 위해 개인 차량 운행을 되도록 자제하고 대중교통을 이용해 주시길 바란다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>중앙지검 1·2·3차장 “직무정지 목적 탄핵은 권한 남용” 반발</title>
