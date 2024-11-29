@@ -13,6 +13,100 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>[반론보도] &lt;김성태·김용 3차례 만나... ‘변호사비 대납 의혹’ 이태형이 주선&gt; 관련</title>
+      <link>https://www.chosun.com/national/national_general/2024/11/29/GHF5L6ONZBCGNPQNGGM7NAUPKM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/29/GHF5L6ONZBCGNPQNGGM7NAUPKM/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Fri, 29 Nov 2024 13:59:00 +0000</pubDate>
+      <content:encoded>본 신문은 2023년 5월 30일자 A10면에 &amp;lt;김성태·김용 3차례 만나... ‘변호사비 대납 의혹’ 이태형이 주선&amp;gt;이라는 제목으로 김용 전 민주연구원 부원장이 2019년부터 2020년까지 쌍방울 불법 대북 송금과 관련해 김성태 전 쌍방울 회장과 세 차례 만났다는 취지로 보도했습니다.&lt;br&gt;&lt;br&gt;그러나 김용 전 민주연구원 부원장은 김성태 전 회장과 경기도 대변인 시절 한 차례의 식사를 한 것 외에 어떤 교류도 없었고, 대북 송금과 관련해 교류한 사실은 전혀 없다고 본사에 알려 왔습니다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>인천 육군 부대서 장병 66명 식중독 의심 증상 호소</title>
+      <link>https://www.chosun.com/national/incident/2024/11/29/VGWSCSJXHZAYZGOV2OP3VW3MXE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/11/29/VGWSCSJXHZAYZGOV2OP3VW3MXE/</guid>
+      <dc:creator>이승규 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 29 Nov 2024 13:55:49 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G2CYUJBKCYOUZ4O2QP5RX3TWEU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;식중독 예방수칙/식품의약품안전처&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천의 육군 부대에서 병사 수십명이 식중독 의심 증세를 보여 보건당국이 역학 조사에 나섰다.&lt;br&gt;&lt;br&gt;29일 인천시 등에 따르면 육군 17사단 소속 부대 15곳에서 장병 66명이 지난 26일부터 설사와 복통, 고열 등 식중독 의심 증상을 호소했다.&lt;br&gt;&lt;br&gt;인천시 보건환경연구원은 식중독 의심 증상을 호소한 장병들과 음식 조리사 등의 검체를 확보하고 지난 24~26일 사이 이들에게 제공된 음식 등을 군으로부터 전달받아 역학 조사를 진행 중이다.&lt;br&gt;&lt;br&gt;해당 장병들은 부대 내에서 격리 조치돼 회복 중인 것으로 알려졌다.&lt;br&gt;&lt;br&gt;검체 분석 결과는 1~2주 뒤에 나올 전망이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>폭설 끝나자 기습 한파…주말 대부분 지역 영하권</title>
+      <link>https://www.chosun.com/national/transport-environment/2024/11/29/ZLOSOVR7IBGS3PPXHF3CZZSVZQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2024/11/29/ZLOSOVR7IBGS3PPXHF3CZZSVZQ/</guid>
+      <dc:creator>박상현 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 29 Nov 2024 11:34:51 +0000</pubDate>
+      <content:encoded>폭설이 끝나자 기습 한파(寒波)가 닥쳤다. 주말에도 대부분 지역에서 영하권의 추위가 이어질 전망이다.&lt;br&gt;&lt;br&gt;기상청에 따르면, 29일 아침 강원 횡성의 수은주가 영하 16.3도까지 떨어지는 등 중부지방 최저기온이 전날보다 5~10도가량 크게 내려갔다. 중국 쪽 대륙고기압이 확장하며 한랭 건조한 바람이 강하게 들어오고 있기 때문이다. 기온이 영하 10도 아래로 떨어진 곳도 많다. 강원 평창(최저 영하 14.8도)·홍천(영하 12.7도), 경기 양평(영하 10.7도), 충북 제천(영하 10.4도) 등이다. 서울도 최저 영하 3.4도를 기록하며 수도권과 강원도 곳곳에서 올가을 들어 가장 추웠다.&lt;br&gt;&lt;br&gt;이번 주말부턴 우리나라가 중국 내륙에서 동쪽으로 이동하는 고기압의 가장자리에 들면서 기온이 서서히 올라갈 것으로 보이나 이미 한기가 들어찬 상황이라 추위가 가시진 않겠다. 토요일인 30일 아침 최저기온은 영하 6도에서 영상 7도, 낮 최고기온은 6~14도로 예보됐다. 일요일인 내달 1일에는 기온이 소폭 올라 최저 영하 3도에서 영상 8도, 최고 7~15도의 분포를 보이겠다. 바람이 강하게 불면서 체감 기온은 실제 기온보다 3~5도가량 낮을 것으로 보인다.&lt;br&gt;&lt;br&gt;영하권 추위 탓에 지난 27~28일 많은 눈이 내린 중부지방과 전북·경상권 일부 지역에선 빙판길이 많고 도로에도 살얼음이 낄 것으로 예상돼 주의가 필요하다. 30일은 중부지방과 전북·경북권 일부, 내달 1일은 중부지방과 경북권을 중심으로 얼음이 어는 곳이 있겠다. 1일 비구름대를 동반한 기압골의 영향으로 제주에는 5㎜ 안팎의 약한 비가 내리는 곳이 있겠다.&lt;br&gt;&lt;br&gt;이달 초까지 서울 낮 최고기온이 25.1도를 기록하는 등 더운 가을이었던 한반도는 폭설이 내린 지난 27일을 기점으로 사실상 겨울에 진입했다. 지난 25일 서울의 평균기온은 10.1도, 최고기온은 15.4도였다. 그런데 찬 바람이 불고 폭설이 내린 27일에는 불과 이틀 만에 평균 영하 0.4도, 최고 1.2도로 기온이 크게 떨어졌다. 하루아침에 겨울의 문턱을 넘어버린 셈이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>경남 김해 조류 배설물에서 고병원성 인플루엔자 확인</title>
+      <link>https://www.chosun.com/national/incident/2024/11/29/INHZ6BM3PREQHDPEIYDC5JOFCI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/11/29/INHZ6BM3PREQHDPEIYDC5JOFCI/</guid>
+      <dc:creator>이승규 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 29 Nov 2024 13:45:25 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LZOCJLEHIZHD5H47QZQEIAIWNE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 25일 경남 김해 해반천에서 채취한 야생조류 배설물에서 조류인플루엔자 바이러스 항원이 검출되자 29일 경남도가 도내 주요 철새도래지인 창원 주남저수지에서 방역활동을 벌이고 있다./경남도&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경남 김해의 야생조류 배설물에서 고병원성(H5N1) 조류인플루엔자(AI) 바이러스가 검출됐다. 경남에서는 올해 첫 사례다.&lt;br&gt;&lt;br&gt;29일 경남도 등에 따르면 지난 25일 김해시 화목동 해반천 인근에서 채취한 야생조류 배설물에서 검출된 조류인플루엔자 바이러스를 최종 검사한 결과 고병원성 AI 항원이 확인됐다.&lt;br&gt;&lt;br&gt;경남도는 바이러스 검출 당일 현장 반경 500m 내 사람과 차량 출입을 차단하고 주변 도로와 가까운 가금류 농장 진입로를 소독했다. 배설물을 채취한 현장 반경 10km는 야생 조수류 예찰 지역으로 지정돼 모든 가금 농가에 이동 제한을 당부했다. 현재까지 가금류 농장 검사에서 조류인플루엔자 관련 증상은 없는 것으로 확인됐다.&lt;br&gt;&lt;br&gt;한편 국내에서는 지난 10월 경기 용인시에서, 11월에는 충북 음성과 인천 강화군에서 각각 고병원성 AI 항원이 확인됐다.&lt;br&gt;&lt;br&gt;경남도 관계자는 “농가에서 주기적인 소독과 조기 신고 등 기본 방역 수칙을 철저히 이행해주길 바란다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“아이 낳으면 1억” 정책 통했나? 인천 출생아수 급증했다</title>
+      <link>https://www.chosun.com/national/national_general/2024/11/29/KJB5S73W3VBSRKXSTJZWI27IA4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/29/KJB5S73W3VBSRKXSTJZWI27IA4/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 29 Nov 2024 13:30:05 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TQEKUTLZVFFOFOXSU2OADUTCME.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 5월 인천시청 대회의실에서 열린 ‘2024 제1회 지자체 순회 저출생 대응 간담회’에서 유정복 인천시장이 주형환 저출산고령사회위원회 부위원장 및 정책수혜자들과 기념촬영을 하고 있다. /인천시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;고강도 저출산 대책을 시행하고 있는 인천광역시의 출생아 수 증가율이 올해 들어 전국에서 가장 높은 것으로 나타났다.&lt;br&gt;&lt;br&gt;29일 인천시는 올해 1월부터 9월까지 인천시 출생아 수가 1만1326명으로 전년 동월 누계 대비 8.3% 증가했다고 발표했다.&lt;br&gt;&lt;br&gt;이 기간 전국적으로 출생아 수는 17만8600명이 증가해 0.7% 상승했으나, 인천시는 증가율 8.3%를 기록하며 다음 순위인 서울(3.5%), 대구(3.2%), 충남(2.7%)을 크게 앞섰다.&lt;br&gt;&lt;br&gt;이와 함께, 인천시의 합계출산율도 눈에 띄게 증가했다. 2023년 3분기 0.67명에서 2024년 1분기 0.74명으로 증가했으며, 2024년 3분기에는 0.8명으로 0.13명이 늘어나 전국에서 세종시 다음으로 두 번째로 큰 증가폭을 보였다.&lt;br&gt;&lt;br&gt;인천시는 인천형 저출생 정책 제1호 ‘아이(i) 플러스 1억드림’이 성과를 낸 것이라고 자체 분석했다.&lt;br&gt;&lt;br&gt;지난해 12월 인천시가 발표한 이 정책은 인천에서 태어나는 모든 아동에게 18세까지 총 1억 원이 넘는 금액을 지원하는 내용을 골자로 한다.&lt;br&gt;&lt;br&gt;‘아이(i) 플러스 1억드림’은 ▲임산부에게 교통비 50만원을 지원하는 ‘임산부 교통비 지원’ ▲1세부터 18세까지 중단 없이 지원하는 ‘천사지원금(연 120만원, 1~7세)’ ▲'아이(i)꿈수당(월 5~15만원, 8~18세)’ 등을 통해 청년층의 관심을 끌었다.&lt;br&gt;&lt;br&gt;기존에 지원되는 부모급여, 아동수당 등에 인천시가 약 2800만원을 추가해 모두 1억원을 지급한다.&lt;br&gt;&lt;br&gt;인천시는 저출생 극복과 신혼부부 주거문제 해결을 위해 신혼부부에게 하루 임대료가 1000원인 ‘천원 주택’을 공급하는 걸 주요 내용으로 하는 ‘아이 플러스 집드림’ 정책도 발표한 바 있다.&lt;br&gt;&lt;br&gt;한편, 2024년 통계청 발표에 따르면, 인천시의 혼인건수는 1~9월 9661건으로 전년 동월 누계 대비 12.4% 증가했다.&lt;br&gt;&lt;br&gt;인천시는 “혼인율 증가는 향후 출산율 증가로 이어질 가능성이 높아, 인천시는 미래에도 안정적인 출산율 증가세를 유지할 것으로 예상된다”고 밝혔다.&lt;br&gt;&lt;br&gt;시현정 시 여성가족국장은 “전년대비 출생아 수 증가율이 지난 6월부터 4개월간이나 전국에서 1위를 유지한 것은 인천형 출생 정책이 실효를 보고 있다는 방증”이라며 “앞으로 인천시가 출산과 육아의 최적도시가 될 수 있도록 지속적인 정책 발굴과 지원 강화에 힘쓰겠다”라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘외부차량 통행세’ 받겠다던 부산 아파트 방침 철회</title>
+      <link>https://www.chosun.com/national/regional/2024/11/29/DRV5L2LRLNEKJBQJO475RU3C4Y/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/11/29/DRV5L2LRLNEKJBQJO475RU3C4Y/</guid>
+      <dc:creator>부산=김주영 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 29 Nov 2024 11:10:47 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KDC3MOU47XEP5B7O65DDM5EHEY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;총 7300여가구 규모 대단지인 부산시 남구 용호동 ‘LG메트로시티’ 단지 안에 내년부터 통행료를 징수할 계획이라고 밝히는 현수막이 걸려 있다. /MBC&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산의 한 대규모 아파트에서 단지 안을 지나는 차량에 통행세를 받겠다고 했다가 논란이 되자 철회했다.&lt;br&gt;&lt;br&gt;29일 부산 남구 용호동 LG메트로시티 입주자대표회의는 내년부터 시행할 예정이었던 외부 차량 시설이용료 부과 방침을 철회하기로 했다고 밝혔다.&lt;br&gt;&lt;br&gt;이 아파트 단지는 7300여 가구가 사는 대규모 아파트 단지로, 단지 내에 용문초·분포초·분포중·분포고 등 초·중·고교 4곳이 있다. 이에 등·하교 때 학생들을 차로 태워주는 학부모 등이 아파트 단지 도로를 이용하면서 아파트 주민들이 불편을 겪었고, 도로 파손 문제 등도 있었던 것으로 전해졌다.&lt;br&gt;&lt;br&gt;이에 이 아파트 입주자대표회의는 내년 1월부터 외부 차량이 단지로 진입한 순간부터 30분마다 500원씩을 내도록 하는 안건을 의결했다.&lt;br&gt;&lt;br&gt;당시 아파트 입주자대표회의는 입장문을 통해 “단지 내 7개 도로를 이용하는 차량이 하루 3만 대나 돼 도로 파손 문제가 심각하다”고 밝혔다. 또 “어린이보호구역 내 표시 등을 남구에 요청했으나, 사유지라고 거절 당했다”며 “이용 차량에 이용료를 부과해 차량 통행을 줄여 어린이 안전을 확보할 것”이라고 했다.&lt;br&gt;&lt;br&gt;하지만 아파트 단지 도로를 이용하는 학부모들을 중심으로 논란이 일자 부산 남구는 과태료를 부과하겠다고 제동을 걸었다.&lt;br&gt;&lt;br&gt;남구는 단지 내 통행료 징수는 아파트 시설을 영리 목적으로 사용하는 것으로 공동주택관리법에 위반하는 것이라고 봤다.&lt;br&gt;&lt;br&gt;이에 입주자대표회의 측은 통행료 부과 방침에 대해 다시 검토한 뒤 결국 방침을 철회하기로 했다.&lt;br&gt;&lt;br&gt;남구는 2019년에도 이 아파트에서 불법주정차 차량에 대해 시설이용료를 부과해 논란이 됐을 때 과태료를 부과한 바 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/JLAJA2YTSFA3FEOKGEP2BQODQU.jpg?width=384&amp;height=216&amp;auth=850c206caa52a65ec234c67da07c06f89bc11f34f59b998350b89494176d8cd6&amp;smart=true" type="image/jpeg" height="216" width="384">
+        <media:description type="plain">[땅집고] 총 7300여가구 규모 대단지인 부산시 남구 용호동 ‘LG메트로시티’ 단지 안에 내년부터 통행료를 징수할 계획이라고 밝히는 현수막이 걸려 있다.</media:description>
+        <media:credit role="author" scheme="urn:ebu">MBC</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>경기 용인서 폭설에 캐노피 무너져 직원 7명 고립...전원 구조</title>
+      <link>https://www.chosun.com/national/incident/2024/11/29/CFBWUQSCVRBENFMIL4R7F5Q7XE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/11/29/CFBWUQSCVRBENFMIL4R7F5Q7XE/</guid>
+      <dc:creator>이승규 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 29 Nov 2024 11:24:14 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4EQKZ65WXBFH3I5S5TRTLINBVA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;29일 천장이 무너진 경기 용인시의 한 연구업체 현장 사진./경기도소방재난본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;폭설로 인해 경기도 용인의 한 연구업체 건물 천장이 내려앉아 직원들이 고립되는 등 소동이 벌어졌다.&lt;br&gt;&lt;br&gt;29일 경기도소방재난본부 등에 따르면 이날 오후 5시 18분쯤 용인시 처인구의 한 전자·의료기기 연구업체 출입구 외부 캐노피(지붕)가 무너졌다. 이 사고로 건물 내부 천장이 함께 무너져 직원 7명이 일시적으로 고립되기도 했다.&lt;br&gt;&lt;br&gt;직원들의 신고를 받고 출동한 소방 당국은 건물 내 방범창을 제거하는 등 작업 끝에 사고 이후 20여 분만에 직원들을 전원 구조했다. 직원들은 별다른 부상을 입지 않은 것으로 파악됐다.&lt;br&gt;&lt;br&gt;경찰과 소방당국은 지난 27~28일 내린 눈이 쌓이면서 건물 지붕이 무게를 버티지 못한 것으로 보고 정확한 사고 경위를 조사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>법원 “애경이 낸 가습기 살균제 추가 분담금 107억원 취소돼야” </title>
+      <link>https://www.chosun.com/national/court_law/2024/11/29/KNIVTTUSUBELRGSU2376HP35HA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/11/29/KNIVTTUSUBELRGSU2376HP35HA/</guid>
+      <dc:creator>박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 29 Nov 2024 11:21:12 +0000</pubDate>
+      <content:encoded>환경부가 애경산업에 부과한 가습기 살균제 피해구제 추가 분담금 약 107억원을 취소해야 한다는 법원 판단이 나왔다. 추가 분담금을 부과한 것 자체는 문제가 아니지만, 분담금의 비율을 잘못 계산했다는 취지다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GHZJTNSI35GXZXEMXZKL3Q2PYM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;애경산업 로고&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울행정법원 행정3부(재판장 최수진)는 29일 애경이 한국환경산업기술원을 상대로 낸 ‘가습기 살균제 피해구제 추가 분담금 부과 처분 취소 소송’에서 원고 승소로 판결했다. 재판부는 “애경에게 부과한 107억4548만원의 피해구제 추가 분담금 처분을 취소하라”고 했다.&lt;br&gt;&lt;br&gt;앞서 환경부는 2017년 ‘가습기 살균제 피해 구제를 위한 특별법’이 시행되면서 애경·옥시 등 기업 18곳에 총 1250억원의 분담금을 나눠 부과했다. 징수된 분담금은 피해자의 치료비와 생활수당 등에 쓰였다고 한다.&lt;br&gt;&lt;br&gt;이 분담금이 소진되자 환경부는 작년 2월 가습기 살균제 판매·제조 기업 총 23곳에 같은(1250억원) 규모의 분담금을 한 번 더 부과했다. 이에 애경은 부담해야 할 몫인 약 107억원을 추가 분담금으로 냈다.&lt;br&gt;&lt;br&gt;애경은 그해 5월 “앞으로 더 분담금을 낼 수 없다”며 추가 분담금 부과를 취소해달라는 소송을 제기했다. 애경은 가습기 살균제 특별법에 추가 분담금의 총액과 부과 횟수 등이 정해져 있지 않아 절차적 하자가 있다고 주장했다.&lt;br&gt;&lt;br&gt;재판부는 추가 분담금 부과 절차에는 문제가 없지만, 환경부가 추가 분담금의 기업간 분담 비율을 잘못 산정했다고 봤다. 이에 따라 애경에게 부과된 추가 분담금 107억원을 전부 취소해야 한다고 했다.&lt;br&gt;&lt;br&gt;앞서 환경부는 가습기 살균제를 판매한 애경과 제조한 SK케미칼 사이의 분담 비율을 2대1로 정했다. 문제가 된 가습기 살균제 제품의 판매 단가를 정확히 확인할 수 없다는 이유에서다.&lt;br&gt;&lt;br&gt;이에 대해 재판부는 “추가 분담금 산정 과정에서 제품의 판매단가를 조사하는 절차를 거쳤다거나, 분담 비율을 2대1로 산정한 이유를 확인할 자료가 보이지 않는다”면서 “이 사건 처분은 평등·비례의 원칙에 위배돼 재량권 행사의 한계를 일탈해 위법하다”고 했다.&lt;br&gt;&lt;br&gt;다만 위해할 우려가 있는 가습기 살균제를 유통시킨 기업에게 분담금을 부과한 자체는 타당하다고 봤다. 재판부는 “건강상 피해가 발생하도록 할 위험이 있는지 증명되지 않은 가습기 살균제 사업자에게 일률적으로 분담금 및 추가 분담금 납부의무를 부담시킨 규정들은 그 타당성과 합리성이 충분히 인정된다”고 했다.&lt;br&gt;&lt;br&gt;재판부는 추가 분담금을 부과·징수하게 한 가습기 살균제 특별법에 위헌성이 있다며 애경산업이 제기한 위헌법률심판 제청 신청은 각하했다.&lt;br&gt;&lt;br&gt;가습기 살균제 사태는 2011년 원인 미상 폐 질환에 걸린 임산부들이 대거 발생하며 드러난 화학 재해다. 당시 가습기 살균제를 자주 사용한 영유아, 임산부, 기저질환자가 폐섬유증을 앓는 것으로 조사되며 대규모 피해자 조사가 시작된 바 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘성매매 무혐의’ 최민환 “율희의 일방적인 주장 사실인 것처럼 퍼져”</title>
+      <link>https://www.chosun.com/national/national_general/2024/11/29/LDAIB7MT25FNDNKZLUIGPAVJNE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/29/LDAIB7MT25FNDNKZLUIGPAVJNE/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 29 Nov 2024 11:16:31 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YZGE5WFD63YIFRJ5EGUDJTPQU4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;최민환(왼쪽)과 율희. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;성매매 업소 출입 의혹과 아내 강제추행 혐의로 고발을 당한 FT아일랜드 최민환(32)이 경찰의 불송치 결정에 대한 입장을 밝혔다.&lt;br&gt;&lt;br&gt;최민환은 29일 자신의 소셜미디어를 통해 “심려 끼쳐 드린 점 팬 여러분께 진심으로 사과드린다”며 “경찰조사를 통해 혐의가 없다는 사실이 밝혀진 후에 저의 입장을 전하는 것이 맞다고 생각했고, 정확한 조사를 위해 (입장 발표) 시간이 조금 더 길어졌다”고 했다.&lt;br&gt;&lt;br&gt;최민환은 성매매 의혹과 강제추행 의혹을 제기한 전처 율희(본명 김율희·27)를 겨냥해서는 “상대의 일방적인 주장과 허위사실, 수많은 왜곡된 추측들이 마치 사실인 것처럼 퍼진 상황에서 제가 어떠한 결과도 없이 섣불리 입장을 밝히는 것이 오히려 상황을 악화시킬 수 있다고 생각했다”며 “무엇보다 세 아이를 위해서라도 상황정리를 잘 해야겠다라고 생각했다”고 밝혔다.&lt;br&gt;&lt;br&gt;이어 “팬 여러분께, 또 멤버들에게 진심으로 사과드린다”며 “제 행동으로 실망시켜드린 점 진심으로 고개 숙여 사과드린다. 앞으로는 더 책임감 있고 성숙한 모습 보여드릴 수 있도록 최선을 다해 노력하겠다”라고 했다.&lt;br&gt;&lt;br&gt;율희는 지난달 24일 본인 유튜브에 출연해 “최민환이 과거 강남 등지에서 성매매를 했다”고 주장했다.&lt;br&gt;&lt;br&gt;율희는 “집에서 술을 마시다가 어머님은 설거지를 하고 여동생 부부는 우리를 등지고 노래를 부르고 있었는데 기분이 좋았는지 돈을 가슴에 꽂았다” “가족들 앞에서 내 중요 부위를 쓱 만졌다”고도 주장했다.&lt;br&gt;&lt;br&gt;서울 강남경찰서는 이날 최민환의 성매매처벌법, 강제추행 혐의 등 고발 건에 대해 증거가 충분하지 않아 불송치한다고 밝혔다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “최민환씨가 성매매를 했다는 의혹을 받는 업소도 가서 CCTV 등도 조사해봤지만 뚜렷한 증거가 없었다”며 “절차상 최씨를 입건한 뒤 불송치하기로 한 것”이라고 했다.&lt;br&gt;&lt;br&gt;한편 최씨와 율희는 2018년 결혼해 세 자녀를 뒀으나 2023년 이혼했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“분신하겠다”며 경찰서 민원실 난입한 60대 체포</title>
+      <link>https://www.chosun.com/national/regional/2024/11/29/3PMF6FRTIVAMBLZVZQANTOI2HI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/11/29/3PMF6FRTIVAMBLZVZQANTOI2HI/</guid>
+      <dc:creator>부산=김주영 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 29 Nov 2024 10:28:51 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AOR74L2L7TD6T7VUQXHCOR5LRI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;29일 부산 동래경찰서에서 60대 남성이 사건 처리에 불만을 품고 분신을 하겠다며 찾아온 민원실 내부 모습. /부산경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;사건 처리에 불만을 품고 경찰서 민원실에서 분신을 시도하려 한 60대가 경찰에 체포됐다.&lt;br&gt;&lt;br&gt;29일 부산 동래경찰서에 따르면 이날 오후 1시 50분쯤 60대 남성 A씨가 라이터 충전 기름(190㎖) 2통을 양손에 들고 머리에 뿌리며 민원실로 들어왔다.&lt;br&gt;&lt;br&gt;경찰은 A씨를 곧바로 제압해 현행범으로 체포했다.&lt;br&gt;&lt;br&gt;A씨는 이보다 15분 전쯤 처음 민원실에 들어와 바닥에 드러누워 고성을 지르고 욕설을 하는 등 수사 결과에 대해 항의했다.&lt;br&gt;&lt;br&gt;경찰은 A씨가 주 2~3차례 민원실을 방문했으며, 자신이 사는 아파트 관리사무소의 부실 운영 등에 대해 고소했으나 사건이 불송치 처리되자 이에 대한 불만을 품은 것으로 보고 있다.&lt;br&gt;&lt;br&gt;경찰은 A씨에 대해 특수공무집행방해, 공용건조물방화예비 등의 혐의 적용을 법률적으로 검토하고 있으며, 구속영장을 신청할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>’남학생 11명 성추행’ 교사, 2심서 감형… 징역 9년</title>
       <link>https://www.chosun.com/national/court_law/2024/11/29/4LYOJTMZYFHOTNZI2D4OLMFN5Q/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/11/29/4LYOJTMZYFHOTNZI2D4OLMFN5Q/</guid>
@@ -775,96 +869,6 @@
       <description/>
       <pubDate>Thu, 28 Nov 2024 15:52:58 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Z3WVXP2HOZIAXIR7W6OADKHTNE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;출구는 어디쯤… 역 빠져나가는 게 전쟁 - 28일 아침 서울 지하철 시청역 안의 모습. 지하철에서 내린 직장인들이 역 밖으로 나가기 위해 출구에 몰려 있다. 이틀 연속 쏟아진 폭설 때문에 지하철역은 평소보다 더 붐볐다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 27일부터 내린 폭설로 수도권 등 중부지방에 피해가 속출했다. 인천국제공항에서는 이틀간 항공기 321편이 결항했다. 367편은 지연 운항했다.&lt;br&gt;&lt;br&gt;27일 오후 2시 30분 인천공항을 출발해 미국 로스앤젤레스로 가려던 항공기는 여러 차례 출발이 지연된 끝에 28일 오전 6시쯤 결국 결항했다. 승객들은 16시간 가까이 공항에서 애를 태웠다.&lt;br&gt;&lt;br&gt;27일 오후 6시 15분 인천공항에 내리려던 스페인 마드리드발(發) 여객기는 인천공항 상공을 빙빙 돌다가 연료가 계속 줄어들자 오후 8시쯤 김포공항에 착륙했다. 이 여객기는 김포공항에서 연료를 채운 뒤 오후 11시쯤 인천공항에 착륙했다. 하지만 폭설로 줄줄이 지연된 항공기가 공항 주기장 등에 몰리면서 승객을 내릴 수가 없었다. 승객들은 인천공항에 착륙하고도 원래 도착 시간보다 8시간 늦은 28일 오전 2시 30분에야 땅을 밟을 수 있었다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZT5I3CHIGZGDVM5ZNRPUZWUIOA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;내 비행기 언제쯤… 인천공항 무더기 지연·결항 - 28일 인천국제공항 제2여객터미널 출국장에서 승객들이 항공기 운항 상황을 보여주는 전광판을 지켜보고 있다. 폭설 때문에 항공편 대부분이 지연되거나 결항했다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;일본 여행 중인 이모(45)씨는 이틀째 귀국도 못 하고 있다. 그는 원래 27일 오후 4시쯤 후쿠오카발 항공기를 타고 인천공항에 들어올 계획이었다. 후쿠오카 공항에서 5시간을 기다렸지만 폭설로 인천공항이 사실상 마비되면서 항공편이 결국 결항됐다고 한다.&lt;br&gt;&lt;br&gt;28일 아침 수도권 주민들은 ‘출근난’을 겪었다. 직장인들이 지하철 등 대중교통으로 몰린 데다 폭설로 수인분당선과 서울 지하철 1호선, 경의중앙선 일부 열차가 10~20분씩 지연 운행했기 때문이다.&lt;br&gt;&lt;br&gt;수인분당선 수원역에서 만난 직장인 이동규(35)씨는 “눈이 많이 내려 오늘은 지하철을 타려고 나왔는데 이틀 연속 지각하게 생겼다”고 했다. 수인분당선 야탑역은 승객이 몰려 승강장부터 개찰구 밖까지 대기줄이 이어졌다. 직장인 김지연(32)씨는 “승강장까지 가는 데 20분 넘게 걸렸다”고 했다. 코레일 측은 “선로에 쌓인 눈과 나뭇가지를 치우느라 열차 출발이 지연됐다”고 했다.&lt;br&gt;&lt;br&gt;이날 경기도교육청은 휴교령을 내렸다. 경기도 내 초등학교 337곳 등 학교 1337곳이 휴교했다.&lt;br&gt;&lt;br&gt;지붕이 무너지고 나무가 쓰러지는 사고도 잇따랐다. 이번 눈은 물기를 많이 머금어 보통 눈보다 3배가량 무거운 습설(濕雪)이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/H7EO5BSR25BY3MV5A36UVDZWLQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경상도 일부 빼고 하얗게 뒤덮인 한반도 - 28일 미 항공우주국(NASA)의 위성 사진에 한반도 중부 내륙을 중심으로 눈(흰색 부분)이 쌓여 있는 모습이 포착됐다. 한반도 주변 바다에 있는 흰색 부분은 눈과 비가 섞인 구름이다. 27~28일 경기 용인 47.5㎝, 서울 관악 41.6㎝ 등 적설을 기록했다. 항공편이 대거 결항·지연되고 일부 열차도 10~20분씩 지연됐다. /나사 월드뷰&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 오전 5시쯤 경기 용인시 처인구의 주택에서 60대 남성이 쌓인 눈의 무게를 견디지 못하고 쓰러진 나무에 깔려 숨졌다.&lt;br&gt;&lt;br&gt;오전 9시쯤 강원 횡성군에서는 축사 지붕이 무너지면서 70대 남성이 사망했다. 경기 안성 한우 농가에서는 축사 지붕이 무너져 소 19마리가 고립되기도 했다.&lt;br&gt;&lt;br&gt;낮 12시쯤 경기 안성시 자동차 부품 공장에서도 천장이 내려앉아 70대 근로자 1명이 숨졌다. 경기 안양 농수산물도매시장의 지붕이 무너져 60대 여성 손님 1명이 다치는 일도 있었다. 앞서 이날 오전 1시 30분쯤에는 경기 의왕에 있는 도깨비시장의 천장이 내려앉았다. 시장 관계자는 “새벽이라 인명 피해는 없었지만 복구에 두세 달은 걸릴 것 같다”고 했다.&lt;br&gt;&lt;br&gt;비닐하우스가 무너지는 피해를 당한 농가도 많았다. 이날 오전 0시 50분쯤 경기 과천의 비닐하우스 2동이 무너지면서 이재민 7명이 발생했다.&lt;br&gt;&lt;br&gt;정전과 단수 사고도 곳곳에서 발생했다. 이날 오전 6시 50분쯤 서울 마포구에서는 가로수가 쓰러지면서 전선을 덮쳐 750가구가 정전 피해를 당했다. 마포구 창전동에서는 쓰러진 나무가 배수지 근처 전선을 덮쳐 270가구에 수돗물 공급이 끊겼다. 경기 용인시 기흥구에서도 정전으로 1200여 가구가 불편을 겪었다. 행정안전부에 따르면, 이번 폭설로 인한 정전 사고는 총 131건으로 집계됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[스피킹이 강해지는 영어] get one's act together</title>
-      <link>https://www.chosun.com/national/nie/english/2024/11/29/UOOGFUMFHZFNBPO2WRLJ6EKNVU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/english/2024/11/29/UOOGFUMFHZFNBPO2WRLJ6EKNVU/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 28 Nov 2024 15:45:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ARJOHUNPOZCAVMISVQFOWF5X6M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문으로 배우는 실용한자] 미인박복(美人薄福)</title>
-      <link>https://www.chosun.com/national/nie/chinese_character/2024/11/29/INBYYJT5W5EIFJWYUGXJ7N2LLE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese_character/2024/11/29/INBYYJT5W5EIFJWYUGXJ7N2LLE/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 28 Nov 2024 15:45:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GURHGQ2BMBHKZIWCEH6WM26MNI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[입에 착착 붙는 일본어] 일상을 되찾다</title>
-      <link>https://www.chosun.com/national/nie/japanese/2024/11/29/5OXUWTGYL5DGVJWAWITHH2DXSM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/japanese/2024/11/29/5OXUWTGYL5DGVJWAWITHH2DXSM/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 28 Nov 2024 15:45:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EA744GRB3RCIPD6G62PRKIZQNU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[매일매일 중국어 한마디] 같은 스타일(디자인)</title>
-      <link>https://www.chosun.com/national/nie/chinese/2024/11/29/A4PDOXTPFNCI3I6JHCT6UG2SCM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese/2024/11/29/A4PDOXTPFNCI3I6JHCT6UG2SCM/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 28 Nov 2024 15:45:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RN2TKKIR7NEKPN2LT6CZRUKZ5E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[두근두근 뇌 운동] [2512] 오늘은 뭘 볼까</title>
-      <link>https://www.chosun.com/national/nie/2024/11/29/E7OM3EH5ZNDPFKB5VQOMIK4334/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/11/29/E7OM3EH5ZNDPFKB5VQOMIK4334/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 28 Nov 2024 15:45:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/U5J7GD5EFFDPDNENZRS5UGMNYA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[플라자] 한국스포츠미디어학회 추계 학술 대회 개최</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2024/11/29/WCX4DAGTKFFNXLWV3C2OZFCRKM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2024/11/29/WCX4DAGTKFFNXLWV3C2OZFCRKM/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 28 Nov 2024 15:35:00 +0000</pubDate>
-      <content:encoded>▲&lt;b&gt;한국스포츠미디어학회&lt;/b&gt;(회장 배재성)는 29일 고려대 운초우선교육관 204호에서 ‘한국 스포츠저널리즘 진단 및 방향’이란 주제로 추계 학술 대회를 연다. 올해 언론·학계·스포츠계에서 뛰어난 업적을 남긴 인물에게 시상하는 THE WAY 어워즈도 함께 열린다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[부음] 김금순씨 별세 외</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2024/11/29/F4OYJUPLVVBWPL5KTGLZGT3A2Q/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2024/11/29/F4OYJUPLVVBWPL5KTGLZGT3A2Q/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 28 Nov 2024 15:35:00 +0000</pubDate>
-      <content:encoded>▲&lt;b&gt;김금순&lt;/b&gt; 별세, &lt;b&gt;한창록&lt;/b&gt; KBS교향악단 사장 모친상, &lt;b&gt;정용실&lt;/b&gt; KBS 아나운서 시모상=28일 11시 서울성모병원, 발인 30일10시40분, (02) 2258-5940&lt;br&gt;&lt;br&gt;▲&lt;b&gt;경선희&lt;/b&gt; 별세, 전낙근 아내상, &lt;b&gt;전경아&lt;/b&gt;·&lt;b&gt;전혜현&lt;/b&gt; 한국공학대 지식융합학부 조교수·&lt;b&gt;전혜진&lt;/b&gt; 모친상, &lt;b&gt;전풍준&lt;/b&gt; 연세나눔치과 원장·&lt;b&gt;토니 정&lt;/b&gt; 리퀴드메탈 테크놀로지스 CEO 장모상=27일14시45분 삼성서울병원, 발인 30일7시, (02)3410-6903&lt;br&gt;&lt;br&gt;▲&lt;b&gt;박정실&lt;/b&gt; 별세, &lt;b&gt;이병윤&lt;/b&gt; 한국금융연구원 선임연구위원·&lt;b&gt;이윤주&lt;/b&gt; 이랜드 전무 모친상, &lt;b&gt;안태형&lt;/b&gt; 태원공업 대표 장모상=27일10시 신촌세브란스병원, 발인 29일7시20분, (02)2227-7500&lt;br&gt;&lt;br&gt;▲&lt;b&gt;신숙자&lt;/b&gt; 별세, &lt;b&gt;이순정&lt;/b&gt;·&lt;b&gt;이영희&lt;/b&gt;·&lt;b&gt;이수연&lt;/b&gt;·&lt;b&gt;이영석&lt;/b&gt; SK 지속경영담당 부사장 모친상=28일3시 원광대병원 장례문화원, 발인 30일9시, (063)855-1734&lt;br&gt;&lt;br&gt;▲&lt;b&gt;이정자&lt;/b&gt; 별세, &lt;b&gt;구종현&lt;/b&gt; 前 현대골재 대표·&lt;b&gt;구현숙&lt;/b&gt;·&lt;b&gt;구종상&lt;/b&gt; 통신분쟁조정위원장·&lt;b&gt;구종훈&lt;/b&gt; 前 농협증권 지점장 모친상, &lt;b&gt;이성신&lt;/b&gt;·&lt;b&gt;김진선&lt;/b&gt; 前 부산 금정여고 교사·&lt;b&gt;전선미&lt;/b&gt; 시모상=28일4시36분 부산시민장례식장, 발인 30일 8시, (051)636-4444&lt;br&gt;&lt;br&gt;▲&lt;b&gt;정헌&lt;/b&gt; 국가유공자 별세, &lt;b&gt;정득남&lt;/b&gt; 가톨릭대 성의 평생교육원 부원장·&lt;b&gt;정세영&lt;/b&gt; 아이티 프레임워크 대표 부친상, &lt;b&gt;고진광&lt;/b&gt; 인간성회복운동추진협의회 이사장 장인상=27일20시55분 서울성모병원, 발인 30일9시40분, (02)2258-5940&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>이향숙 이화여대 18대 총장</title>
-      <link>https://www.chosun.com/national/education/2024/11/29/IDH75CCCV5BAXEZTCHJ4A5NMEE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2024/11/29/IDH75CCCV5BAXEZTCHJ4A5NMEE/</guid>
-      <dc:creator>오주비 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 28 Nov 2024 15:35:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KLK7YE3E2RCQVM55VAT6J5L57M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이화여대 18대 총장 이향숙 수학과 교수. /이화여대&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;학교법인 이화학당(이사장 장명수)이 28일 이사회를 열고 수학과 이향숙(61) 교수를 이화여대 제18대 총장으로 선임했다고 밝혔다. 이대에서 이공 계열 단과대 교수가 총장이 된 것은 이번이 처음이다.&lt;br&gt;&lt;br&gt;1986년 이대 수학과를 졸업한 이 교수는 이대와 미국 노스웨스턴대에서 각각 석사, 박사 학위를 받았다. 1995년부터 이대 수학과 교수로 재직했으며 수학과 학과장과 연구처장, 산학협력단장 등을 맡았다.&lt;br&gt;&lt;br&gt;이 교수는 2010~2015년 ‘2014 세계수학자대회(ICM)’ 조직위원회 수석부위원장과 집행위원을 지냈고, 2017~2018년 대한수학회 회장을 역임했다. 대한수학회는 국내 기초과학계를 대표하는 단체로, 여성이 회장으로 선출된 건 이 교수가 처음이었다. 이공 계열 단과대 교수가 이대 총장이 된 것도 처음이다. 11대 장상 총장은 이대 수학과를 졸업했지만, 이후 신학을 공부해 기독교학과 교수로 총장이 됐다. 15대 최경희 총장도 미국 템플대에서 물리학 석사 학위를 받았지만, 이대 과학교육학과를 졸업하고 이대 과학교육학과 교수를 지내는 등 사범대 출신이었다.&lt;br&gt;&lt;br&gt;이화여대는 2017년 학생, 교수, 직원, 동창이 직접 총장을 투표로 뽑는 총장 직선제를 도입했다. 대학 선거관리위원회가 선거에서 다수 득표한 후보 두 명을 이사회에 추천하면, 이사회가 이 중 1명을 선임한다. 이번 총장 선거는 세 번째 직선제 선거였다. 이 교수는 1차 투표에서 총득표율 25.34%로 2위를, 결선 투표에선 54.2%로 1위를 차지했다. 이 교수의 총장 임기는 내년 2월 1일부터 2029년 1월 31일까지 4년이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[인사] 국토교통부 외</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2024/11/29/TVKRG6MTZJH7FA3DDMIK65THSQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2024/11/29/TVKRG6MTZJH7FA3DDMIK65THSQ/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 28 Nov 2024 15:35:00 +0000</pubDate>
-      <content:encoded>▲&lt;b&gt;국토교통부&lt;/b&gt;◇과장급 전보▷공항운영과장 박상민▷철도지하화통합개발기획단장 유삼술&lt;br&gt;&lt;br&gt;▲&lt;b&gt;민주평화통일자문회의 사무처&lt;/b&gt;◇과장급 전보▷위원지원국 미주지역과장 서기관 이승봉&lt;br&gt;&lt;br&gt;▲&lt;b&gt;수협중앙회&lt;/b&gt;▷금융부대표 이옥진&lt;br&gt;&lt;br&gt;▲&lt;b&gt;한국신문윤리위원회&lt;/b&gt;▷이사 이태규&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>정몽규 4선 출마 강행</title>
-      <link>https://www.chosun.com/sports/football/2024/11/29/RV3KGBB4MZENTJ27YOFMDJ2HVA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/sports/football/2024/11/29/RV3KGBB4MZENTJ27YOFMDJ2HVA/</guid>
-      <dc:creator>김영준 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 28 Nov 2024 15:33:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/B6I7THQTMJAPLCA5W2ZGZ4U65M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;정몽규 대한축구협회장이 지난 2월 16일 서울 축구회관에서 대표팀 사안관련 KFA 임원회의를 마친 후 브리핑을 하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정몽규 대한축구협회장이 4선에 도전한다. 차기 회장 선거에 출마하기로 마음을 굳혔다. 정 회장은 2013년 축구협회장에 선임돼 3선을 하면서 한국 축구계를 이끌어왔다. 하지만 클린스만과 홍명보 대표팀 감독 선임 관련 논란이 이어지고 협회 운영 난맥상을 초래했다는 비판과 더불어 안팎에서 사퇴 압력을 받았다.&lt;br&gt;&lt;br&gt;28일 대한축구협회에 따르면 정 회장은 차기 축구협회장 선거에 출마할지 말지 고심했으나, 결국 도전하기로 했다고 주변에 알렸다. 선거에 나오려면 현 임기 종료 50일 전인 다음 달 2일까지 회장직을 내려놔야 한다. 정 회장은 회장직을 내려놓고 12월 2일 대한체육회 스포츠공정위에 연임 심사 요청서를 제출할 계획으로 알려졌다.&lt;br&gt;&lt;br&gt;문화체육관광부는 축구협회에 대한 감사를 진행, 정 회장에 대해 자격 정지 이상 중징계를 요구한 바 있다. 그러나 스포츠공정위 심사를 통과하는 데 큰 걸림돌이 되진 않을 전망이다. 스포츠공정위는 앞서 부정 채용, 금품 수수 등 여러 비위 혐의로 수사를 받고 있는 이기흥 대한체육회장의 3선 도전도 승인한 바 있다.&lt;br&gt;&lt;br&gt;차기(55대) 축구협회장 선거는 다음 달 12일까지 선거운영위원회가 꾸려지고, 이후 25일부터 사흘간 후보자 등록 기간을 거쳐 내년 1월 8일 투표를 진행한다. 선거인단은 축구협회 대의원과 산하 단체 임원, 지도자·선수·심판 등 축구인 200여 명이다. 정 회장 외에 허정무 전 대표팀 감독이 출마를 선언한 바 있다. 허 전 감독은 “축구협회를 개혁하고 한국 축구의 새로운 100년을 만드는 유쾌한 도전을 시작하겠다”면서 “축구협회의 독단적이고, 독선적인 운영 체계는 급기야 시스템의 붕괴라는 참혹한 결과를 낳고 말았다. 누군가는 이 추락을 멈춰야 한다는 의무감에서 우리 축구를 다시 살려내는 데 작은 밀알이 되기로 결심했다”고 말했다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[오늘의 날씨] 2024년 11월 29일</title>
