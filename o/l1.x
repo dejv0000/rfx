@@ -6,6 +6,16 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>'코오롱 인보사 사태' 이웅열 명예회장, 1심 무죄</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 100%;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/203349.jpg" alt="203349.jpg" style="width: 100%; height: auto;" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;이웅열 코오롱그룹 명예회장 《사진=연합뉴스》&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;골관절염 치료제 인보사 케이주(인보사)의 성분 조작 의혹에 관여한 혐의 등으로 기소된 이웅열 코오롱그룹 명예회장이 1심에서 무죄를 선고받았다. 기소 이후 약 5년 만에 나온 1심 결론이다.&lt;/p&gt;&lt;p&gt;&lt;b&gt;&lt;br /&gt;서울중앙지법 형사합의24부&lt;/b&gt;(재판장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="5591"&gt;최경서&amp;nbsp;&lt;/span&gt;부장판사)는 29일 자본시장과 금융투자업에 관한 법률 위반 등의 혐의로 재판에 넘겨진 이 명예회장에게 무죄를 선고했다(&lt;b&gt;2020고합53&lt;/b&gt;). 함께 기소된 이우석 코오롱생명과학 대표에게도 무죄가 선고됐다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;코오롱생명과학은 2017년 7월 식약처로부터 인보사의 국내 판매를 허가받는 과정에서 "해당 제품이 골관절염 치료에 사용되는 유전자 치료제이며 주성분은 동종유래연골세포"라고 밝혔다. 하지만 주성분이 태아신장유래세포인 것이 드러나면서 2019년 3월 유통과 판매가 중단됐다. 식약처는 주성분이 바뀐 경위에 대한 조사와 자체 시험 검사를 거쳐, 코오롱생명과학이 자료를 허위 작성·제출했다고 판단해 2019년 5월 인보사 품목 허가를 취소하고 검찰에 고발장을 냈다. 검찰은 같은해 6월 코오롱생명과학 등 계열사를 압수수색하며 수사를 본격화했다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;이 명예회장 등은 2016년 6월 인보사 연구·개발 업체인 코오롱티슈진이 FDA로부터 임상중단(CH) 명령을 받은 사실을 숨긴 채 비상장주식 가치를 산정한 뒤 국책은행으로부터 1000만 달러(약 120억 원) 상당의 지분 투자를 받은 혐의 등으로 기소됐다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;이 사건은 2020년 1월 접수돼 같은해 2월 첫 공판준비기일이 열린 이후 총 96번의 기일이 진행됐다. 증거 기록을 합친 소송기록은 15만 쪽이 넘는다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
+			<pubDate>Fri, 29 Nov 2024 02:29:41 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/203349</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/203349</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/203349.jpg</media:thumbnail>
+			<dc:creator>한수현 기자</dc:creator>
+		</item>
+		<item>
 			<title>[판결] 故 이예람 중사 '2차 가해' 중대장 2심서 집유로 감형</title>
 			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 100%;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/203346.jpg" alt="203346.jpg" style="width: 100%; height: auto;" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;《사진=연합뉴스》&lt;/figcaption&gt;   &lt;/figure&gt;&lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;고(故) 이예람 중사 사망 사건과 관련해 이 중사에게 2차 가해를 한 혐의 등으로 1심에서 실형을 선고받은 이 중사의 직속상관이었던 중대장과 군 검사가 항소심에서 집행유예로 감형됐다. 직무유기 등 혐의로 함께 기소된 대대장에게는 1심과 마찬가지로 무죄가 선고됐다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;   &lt;b&gt;서울고법 형사2부&lt;/b&gt;(재판장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="5667"&gt;설범식&amp;nbsp;&lt;/span&gt;부장판사,&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="8833"&gt;이상주&lt;/span&gt;·&lt;span style="font-weight: bold;" class="lawmanlink" serial="6922"&gt;이원석&amp;nbsp;&lt;/span&gt;고법판사)는 28일 명예훼손 혐의로 기소된 제20전투비행단 중대장이었던 김모 씨와 직무유기 등 혐의로 기소된 군 검사였던 박모 씨에게 징역 1년을 선고한 1심을 깨고 징역 1년에 집행유예 2년을 각각 선고했다(&lt;b&gt;2024노352&lt;/b&gt;).&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;김 씨는 이 중사에 대한 강제추행 사건이 발생한 뒤 이 중사가 전입하기로 한 제15특수임무비행단 중대장에게 이 중사에 대해 허위사실을 말해 명예를 훼손한 혐의, 박 씨는 이 중사에 대한 2차 가해 정황을 알면서도 수사를 소홀히 하고 법무실에 허위 보고한 혐의를 받는다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;재판부는 김 씨의 명예훼손 혐의는 1심과 마찬가지로 유죄라고 판단했다. 다만 "김 씨가 적극적으로 허위사실을 전파하려고 한 건 아닌 것으로 보인다"며 "전과가 없었던 점 등을 고려하면 원심 양형이 다소 무거워 부당하다"고 밝혔다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;박 씨에 대해서도 허위 보고 혐의를 유죄로 인정했다. 다만 "박 씨가 피해자가 사망에 이르게 한 주된 원인으로 평가하기 어렵고, 자신의 불성실한 직무를 진심으로 반성하는 모습을 보였다"며 감형했다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;김 씨는 강제추행 사건 발생 후 가해자 차단 조치를 하지 않아 지휘관으로서 직무를 유기한 혐의를 받는 김 모 전 대대장에게는 1심과 같이 무죄가 선고됐다.&lt;/p&gt;&lt;p&gt;&amp;nbsp; &lt;br /&gt;재판부는 "성폭력 사건 발생 이후 이 중사에 대한 2차 가해 방지 조치 의무를 포기했다고 보기 어렵다"며 "허위사실을 보고했다거나 허위 보고의 고의가 합리적으로 증명됐다고 보기도 어렵다"고 판시했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
 			<pubDate>Fri, 29 Nov 2024 01:43:59 -0000</pubDate>
@@ -230,16 +240,6 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/203277</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/203277.jpg</media:thumbnail>
 			<dc:creator>김지현 기자</dc:creator>
-		</item>
-		<item>
-			<title>사단법인 온율, '보호대상아동을 위한 공공후견 지원' 주제 세미나 개최</title>
-			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/203274.jpg" alt="203274.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;사단법인 온율(이사장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="8490"&gt;윤세리&lt;/span&gt;)은 다음 달 2일 오후 2시 서울 삼성동 파르나스타워 법무법인 율촌 39층 렉처홀에서 제12회 율촌·온율 성년후견세미나를 개최한다. 세미나는 보건복지부의 후원 아래 사단법인 온율, 아동권리보장원(원장 정익중), 한국보건복지인재원(원장 배금주)이 공동으로 마련했다. '보호대상아동 공공후견 지원 시범사업의 현황과 과제'가 주제다.&lt;br /&gt;&lt;br /&gt;법무법인 율촌과 사단법인 온율은 성년후견제도가 도입된 2013년 이후 매년 관련 세미나를 개최해 왔다. 올해 세미나는 지난 1년여간 진행된 '보호대상아동 공공후견 지원 시범사업'의 현황과 성과를 점검하고, 향후 개선 방안을 논의하기 위해 마련됐다.&lt;br /&gt;&lt;br /&gt;행사에는&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="8490"&gt;윤세리&lt;/span&gt;(71·사법연수원 10기) 사단법인 온율 공동이사장, 정익중 아동권리보장원장, 김상희 보건복지부 인구아동정책관, 배금주 한국보건복지인재원장 등이 참여하며,&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="460"&gt;박은수&lt;/span&gt;(68·12기) 한국의료분쟁조정중재원장이 좌장을 맡는다. &lt;br /&gt;&lt;br /&gt;손호성 아동권리보장원 부장이 '보호대상아동 공공후견 시범사업 소개'를, 홍윤선 국립군산대 교수는 '각국 미성년후견제도 소개 및 사업 개선방향에 대한 제언'을 발제한다. 이어 강현주 한국보건복지인재원 교수는 '보호대상아동 공공후견 시범사업 후견인 양성교육 프로그램'을 주제로,&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="37065"&gt;성유진&lt;/span&gt;(34·변호사시험 8회) 사단법인 온율 변호사는 '(가칭) 보호대상아동을 위한 미성년후견 매뉴얼 소개'를 주제로 발표한다.&lt;br /&gt;&lt;br /&gt;발제 이후에는 보호대상아동 분야의 전문가들이 참여해 토론을 이어갈 예정이다. 토론에는 유성희 과천시청 아동보호전담요원, 김윤현 성모자애드림힐 팀장, 신지연 서울가정법원 후견감독관, 김귀자 강남세움종합복지관장, 신지희 중앙장애아동·발달장애인지원센터 팀장이 참여한다.&lt;br /&gt;&lt;br /&gt;온율과 아동권리보장원, 한국보건복지인재원은 이번 세미나의 논의 내용을 바탕으로 내년에도 보건복지부와 법무법인 율촌의 후원을 받아 보호대상아동 공공후견 지원 사업을 지속적으로 추진할 계획이다.&lt;/p&gt;</description>
-			<pubDate>Wed, 27 Nov 2024 02:26:22 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/203274</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/203274</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/203274.jpg</media:thumbnail>
-			<dc:creator>이진영 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
