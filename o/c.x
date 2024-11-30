@@ -13,6 +13,33 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>‘희귀병 완치’ 문근영 근황...”급격하게 살쪄서 건강하게 빼는 중”</title>
+      <link>https://www.chosun.com/national/people/2024/11/30/JH6XWIN4PFAJTODDKRCALKEMFQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/11/30/JH6XWIN4PFAJTODDKRCALKEMFQ/</guid>
+      <dc:creator>정아임 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 30 Nov 2024 13:19:26 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/I76W4VABRFC5DNHWRCVCIA4VSA.png"&gt;&lt;figcaption&gt;&lt;small&gt;배우 문근영./유튜브 채널 '코스모폴리탄 코리아'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;급성구획증후군 완치 소식을 전한 배우 문근영(37)이 건강하게 살을 빼기 위해 다이어트를 하고 있다고 밝혔다.&lt;br&gt;&lt;br&gt;지난 29일 유튜브 채널 ‘코스모폴리탄 코리아’에는 문근영과 나눈 인터뷰 영상이 올라왔다.&lt;br&gt;&lt;br&gt;문근영은 “즐겁게 지내다 보니 살이 급격히 많이 쪘다”며 “시간이 걸리더라도 건강하게 살을 빼려고 한다”고 말했다.&lt;br&gt;&lt;br&gt;이어 “아침에 일어나자마자 산책을 갔다 오고 몸에 좋은 건강한 음식들로 삼시세끼 챙겨 먹고 운동도 병행하고 있다”고 전했다.&lt;br&gt;&lt;br&gt;그는 “이전에는 항상 다이어트를 해야 했다. 먹으면 안 되는 음식이 있었고 배가 고픈 상태로 살아야 했는데 ‘나는 왜 항상 먹는 게 빈곤할까?’ 이런 생각을 하면서 먹는 재미를 들였다”며 “레시피를 찾아서 만들어 먹는 것들이 너무 재밌어서 그렇게 음식을 먹다 보니 살이 찌더라”라고 했다.&lt;br&gt;&lt;br&gt;앞서 문근영은 2017년 2월 연극 ‘로미오와 줄리엣’ 출연 중 급성구획증후군을 진단받고 활동을 중단했다. 이후 치료와 수술 등을 이유로 공백기를 가졌다가, 같은 해 9월 공식 활동을 재개했다. 급성구획증후군은 신체의 근육과 신경이 포함된 구획 내에서 압력이 상승해 통증이 생기는 질환으로, 심할 경우 구획 안의 모든 근육이 마비될 수도 있는 희귀병이다.&lt;br&gt;&lt;br&gt;최근 문근영은 자신이 앓던 급성구획증후군을 완치했다고 전했다. 문근영은 지난달 21일 인스타그램을 통해 “생각보다 많은 분들이 내 건강을 걱정해 주셨다. 현재는 완전히 치료됐고, 아주아주 건강한 상태”라며 “비록 살이 조금 찌긴 했지만, 매일 팩폭 영상을 보며 다이어트 중”이라고 했다. “이제는 건강 걱정 대신 다이어트 성공을 응원해 주셨으면 한다”고도 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>가수 조영남 유서 공개 “내가 가진 재산의 대부분은...”</title>
+      <link>https://www.chosun.com/national/people/2024/11/30/5Z3444HUDJE7NKJGCGYYCZO5AY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/11/30/5Z3444HUDJE7NKJGCGYYCZO5AY/</guid>
+      <dc:creator>정아임 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 30 Nov 2024 12:26:16 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GY7MCHYCDJLUBJL2FJTHGTZCOM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;가수 조영남./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;가수 조영남(79)이 수정된 유서 내용을 공개해 눈길을 끌고 있다.&lt;br&gt;&lt;br&gt;30일 MBN 리얼 버라이어티 ‘가보자GO’ 시즌3에는 가수 조영남이 등장했다. 이 프로그램은 초대 손님의 집에서 인터뷰 등을 하는 방식으로 진행된다.&lt;br&gt;&lt;br&gt;이날 조영남은 “내일 모레 80세다. 건강은 신이 내리는 것”이라며 “미리 쓰는 유서가 있어서 썼다”고 말했다.&lt;br&gt;&lt;br&gt;그는 “유서에 ‘장례식을 치르지 말라. 내가 죽으면 옆에 있던 사람이 담요에 말아서 화장해 달라. 갈아서 내 유골을 영동대교 가운데에 뿌려 달라’고 썼다”고 밝혔다.&lt;br&gt;&lt;br&gt;이어 “그런데 영동대교에 뿌리는 게 불법이더라. 그래서 다음에 유서를 쓰게 되면 ‘영동대교에 뿌려 달라’고 쓴 뒤 괄호를 치고 ‘몰래’라고 쓰려고 한다”고 말했다.&lt;br&gt;&lt;br&gt;장례식을 치르지 않는 이유에 대해 그는 “내가 장례식 치를 정도로 대단한 사람이 아니라서, 부끄러워서”라며 “장례식 와서 나한테 절하는 거 받기 싫다”고 설명했다.&lt;br&gt;&lt;br&gt;또한 유서 속 재산 관련 내용에 대해서는 “처음 쓸 때는 ‘내 옆에 있는 여자에게 재산의 절반을 줘라’라고 썼는데 수정했다. 지금은 자식이 셋이니까 4분의 3은 자식, 4분의 1은 옆에 있는 여자다”라고 말했다.&lt;br&gt;&lt;br&gt;한편, 1945년 황해북도 평산군에서 태어난 조영남은 1964년 서울대 성악과에 입학해 1968년 중퇴했지만, 후에 명예 졸업증을 받았다. 그는 1970년 대중음악과 성악을 접목한 번안가요 ‘딜라일라’로 가요계에 데뷔, 일약 스타덤에 올랐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“택배 훔치러 왔다” 자백한 남성...가방 열어보니 발견된 ‘이것’</title>
+      <link>https://www.chosun.com/national/national_general/2024/11/30/GSDZIQVBSFGXJH4BBMV7QB6P64/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/30/GSDZIQVBSFGXJH4BBMV7QB6P64/</guid>
+      <dc:creator>정아임 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 30 Nov 2024 11:07:06 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KD7CV6NJ2REHTIHHFCZYKK2SEA.png"&gt;&lt;figcaption&gt;&lt;small&gt;절도범이라고 거짓 자백한 마약 전달책의 가방에서 나온 1g씩 작게 나뉜 마약(필로폰)./유튜브 채널 ‘대한민국 경찰청’&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;주택가를 돌아다니다가 절도 혐의로 붙잡힌 30대 남성이 알고 보니 마약 전달책인 것으로 드러났다.&lt;br&gt;&lt;br&gt;지난 29일 경찰청 공식 유튜브 채널에는 ‘뻔뻔스러운 자백 뒤 숨겨진 진실은’이라는 제목의 영상이 올라왔다.&lt;br&gt;&lt;br&gt;영상과 광주 남부경찰서에 따르면 지난 21일 오후 8시 48분쯤 광주 남구의 한 주택가에서 “모르는 사람이 원룸 건물에 들어왔다”는 112신고가 접수됐다. 모자를 눌러쓴 채 건물 복도에서 배회하는 남성 A씨를 수상히 여긴 인근 주민이 신고한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;현장에 출동한 경찰은 A씨를 가로막고 신원 조회를 요구했다. A씨는 “폐가전이나 택배를 훔치러 온 것”이라고 했다. 이어 “얼굴 좀 확인하겠다”는 경찰관에게 얼굴을 보여주며 적극적으로 협조했다. 이후 경찰이 A씨에게 야간주거침입절도 미수 범죄 사실을 고지하자, A씨는 고개를 끄덕이며 혐의를 순순히 인정했다. 경찰이 수갑을 채우려 하자 A씨는 자진해서 두 손을 내밀었다.&lt;br&gt;&lt;br&gt;경찰은 A씨를 현행범으로 체포했다. 하지만 수상한 느낌을 떨칠 수 없던 경찰들은 한쪽 모퉁이에 있던 검은색 가방을 발견했고, 이를 함께 수거했다. 경찰은 A씨를 경찰서로 인계한 뒤 흉기 소지 여부 등을 확인하기 위해 그의 가방을 수색했다. 가방 안에서는 휴대전화 2대와 검은색 절연 테이프로 감싼 엄지손톱 크기의 물체 129개가 발견됐다. 이 물체는 1g씩 작게 나뉜 마약(필로폰)이었다.&lt;br&gt;&lt;br&gt;알고 보니 A씨는 단순 절도 미수범이 아니라 특정 장소에 마약을 두면 대면하지 않고 구매자가 찾아가는 방식인 마약 ‘던지기 수법’ 전달책이었다. 이후 경찰은 A씨가 머물던 숙박업소에서 500g가량의 필로폰을 추가로 발견해 압수했다.&lt;br&gt;&lt;br&gt;경찰은 A씨에게 마약류관리법 위반 혐의를 적용해 구속영장을 신청, 법원으로부터 발부받았다.&lt;br&gt;&lt;br&gt;A씨는 경찰 조사에서 “생활비를 마련하기 위해 그랬다”는 취지로 진술한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;경찰은 A씨를 조만간 검찰에 송치하는 한편 마약을 구하거나 유통하게 된 경위 등을 수사할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>“尹정권 퇴진” vs “민주당 규탄”…좌우로 갈린 광화문</title>
       <link>https://www.chosun.com/national/national_general/2024/11/30/UJZOYGDHRRBYXC4YZIWOBG4MXY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/30/UJZOYGDHRRBYXC4YZIWOBG4MXY/</guid>
@@ -880,33 +907,6 @@
       <description/>
       <pubDate>Fri, 29 Nov 2024 07:13:29 +0000</pubDate>
       <content:encoded>김만배씨 등 대장동 일당으로부터 금품을 받았다는 이른바 ‘대장동 50억 클럽’ 의혹을 받는 홍선근 머니투데이 회장에게 검찰이 징역 6개월을 구형했다. 선고는 내년 1월 8일이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZEZZHVWBPJLL3BKBOSPEA7UKDU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법조인·언론인 등이 대장동 개발업자들로부터 금품을 받았다는 이른바 '50억 클럽' 당사자로 지목된 홍선근 머니투데이 회장이 29일 서울 서초구 서울중앙지법에서 열린 1심 1회 공판에 출석하며 법정으로 향하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지법 형사1단독 이춘군 부장판사는 29일 청탁금지법 위반 혐의로 기소된 홍 회장에 대한 1심 첫 공판을 진행했다. 이날 재판에서 홍 회장과 김씨는 혐의를 모두 인정했다. 이에 따라 곧바로 결심 절차가 진행됐다.&lt;br&gt;&lt;br&gt;검찰은 홍 회장에게 징역 6개월과 추징금 1454만원을 구형했다. 함께 기소된 김씨에게도 징역 6개월을 구형했다.&lt;br&gt;&lt;br&gt;홍 회장은 최후진술에서 “제 불찰로 사회적 물의를 일으킨 데 대해 재판부와 검찰, 회사 안팎 주변 분들께 사과드린다”며 “이번 일을 겪게 된 건 인생에서 간혹 마주치는 실수라기보다는 결국 제 인격성의 아쉬운 수준을 보여주는 사례라고 받아들이고 깊이 반성한다”고 말했다.&lt;br&gt;&lt;br&gt;김씨는 “홍 회장에게 잘못된 방법으로 은혜를 갚으려 했던 점이 사회적으로 물의를 일으켜 후회를 많이 하고 있다”며 “대장동 사건이 여러 개 있지만 가장 안타까운 부분”이라고 말했다.&lt;br&gt;&lt;br&gt;홍 회장은 2020년 1월 당시 회사 후배였던 김만배씨로부터 배우자와 아들 명의로 50억원을 빌리고, 이듬해 1월 이자 없이 원금만 갚은 혐의로 지난 8월 불구속 기소됐다. 검찰은 홍 회장이 약정이자 1454만원을 면제받는 방식으로 금품을 수수했다고 판단, 청탁금지법 위반 혐의를 적용했다.&lt;br&gt;&lt;br&gt;홍 회장은 2021년에도 대장동 일당이 세운 화천대유가 지배하는 천화동인 1호를 통해 49억원을 빌렸으나, 이 부분은 이자와 원금을 모두 갚아 처벌 대상에 포함되지 않았다.&lt;br&gt;&lt;br&gt;‘대장동 50억 클럽’은 김만배씨, 남욱 변호사, 정영학 회계사 등 대장동 일당으로부터 로비 명목으로 거액을 받거나 받기로 했다고 지목된 법조인·정치인·언론인 6명을 일컫는다. &lt;br&gt;&lt;br&gt;이들 중 홍 회장과 곽상도 전 의원, 박영수 전 특별검사는 관련 혐의로 재판을 받고 있다. 권순일 전 대법관은 변호사 등록을 하지 않고 화천대유에 법률적 도움을 준 혐의(변호사법 위반)로 지난 8월 기소됐다. 김수남 전 검찰총장과 최재경 전 민정수석에 대해선 검찰 수사가 진행 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>’동성 성추행’ 김병관 前 의원 항소심도 집행유예 2년</title>
-      <link>https://www.chosun.com/national/incident/2024/11/29/RSSNBYKA6JHSBAEG726PLZTE2I/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/11/29/RSSNBYKA6JHSBAEG726PLZTE2I/</guid>
-      <dc:creator>수원=김현수 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 29 Nov 2024 07:27:45 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RQCHMRO4AVPSHMIAERDMJ4QXK4.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;김병관 더불어민주당 성남분당갑 국회의원 보궐선거 후보가 지난 2022년 5월 23일 경기 성남 분당구 소재 선거사무소에서 가진 호남향우회 지지 선언 간담회에서 손 흔들며 인사하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;남성을 강제추행한 혐의로 기소된 김병관 전 더불어민주당 국회의원이 항소심에서도 집행유예 2년을 선고받았다.&lt;br&gt;&lt;br&gt;수원지법 형사항소9부(재판장 백대현)는 29일 강제추행 혐의로 기소된 김 전 의원 항소심에서 피고인과 검찰이 제기한 항소를 모두 기각했다.&lt;br&gt;&lt;br&gt;항소심 재판부는 “피고인은 1심 판단에 대해 사실오인과 법리 오해를 주장하나, 피해자 진술 신빙성 유무에 대해 현저히 부당하다고 보기 어렵고, 피고인이 피해자에게 신체 접촉한다는 의식과 의욕이 있던 이상 강제추행의 고의도 있다고 보는 것이 타당하다”며 “피고인 주장은 이유 없다”고 판시했다. 이어 “피고인과 검사의 양형부당 주장을 모두 고려해보더라도 원심 형이 너무 무겁거나 가벼워 부당하다고 보이지 않는다”고 항소기각 사유를 밝혔다.&lt;br&gt;&lt;br&gt;앞서 김 전 의원은 현역 의원 시절인 2019년 12월 16일 오후 9시쯤 자신의 지역구인 경기 성남시 한 식당에서 동석한 남성에게 강제로 입을 맞추는 등 부적절한 신체 접촉을 했다는 혐의를 받는다. 피해 남성은 2020년 12월 김 전 의원을 고소했고, 경기남부경찰청은 지난해 5월 김 전 의원을 검찰에 송치했다. 검찰은 식당 방범카메라 등을 통해 사실 관계를 확인한 뒤 지난 김 전 의원을 기소했다.&lt;br&gt;&lt;br&gt;1심 재판부는 지난해 9월 김 전 의원에게 징역 10개월에 집행유예 2년을 선고하고 40시간의 성폭력 치료 프로그램 이수를 명령했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“원금 보장, 연 30% 수익”...아이카이스트 투자금 237억 가로챈 50대 징역 7년</title>
-      <link>https://www.chosun.com/national/incident/2024/11/29/X2IO4RFK7BGLXJ5YLMLHDVJUXI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/11/29/X2IO4RFK7BGLXJ5YLMLHDVJUXI/</guid>
-      <dc:creator>이승규 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 29 Nov 2024 06:59:50 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/R5UECPVBURPBAIPNJ6EYRUESMQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대구지법/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;투자를 하면 원금을 보장하고 수익률을 높여주겠다고 속여 200억원 상당의 투자금을 가로채고 잠적했던 50대 남성에게 실형이 선고됐다.&lt;br&gt;&lt;br&gt;대구지법 형사 12부(재판장 어재원)는 29일 사기 등 혐의로 기소된 A(51)씨에게 징역 7년을 선고했다.&lt;br&gt;&lt;br&gt;A씨는 지난 2012년 12월부터 2016년 4월 사이 기업 인수 및 합병 전문가로 행세하며 투자자 104명에게 투자금 명목으로 237억원을 모은 뒤 가로챈 혐의로 기소됐다.&lt;br&gt;&lt;br&gt;A씨는 “벤처 기업인 아이카이스트에 투자하면 원금을 보장하고 연 30% 가량 수익을 거둘 수 있다”며 투자자들을 속인 것으로 파악됐다. 아이카이스트는 2011년 카이스트 출신 김성진 대표가 세운 스마트기기 분야 기술 기업이다. 그러나 김 대표 역시 회사 매출 규모 등을 부풀려 240억원 상당의 투자금을 받은 뒤 다른 용도로 사용한 혐의로 기소돼 2018년 대법원에서 징역 9년 및 벌금 31억원 형이 확정됐다.&lt;br&gt;&lt;br&gt;A씨는 지난해 7월 선고를 앞두고 잠적했다가 두달 뒤 제주에서 검거됐다.&lt;br&gt;&lt;br&gt;재판부는 “A씨는 기업 합병이나 인수에 관한 경험이나 능력이 없으면서도 자신의 경력과 자산 등을 과장해 피해자들에게 금전적 손해를 입혔다”며 “선고일에 출석하지 않고 도주한데다, 금전 피해 대부분이 회복되지 않았고 피해 회복을 위한 노력도 보이지 않는 점 등을 종합했다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>검찰, ‘레고랜드 배임’ 관련 최문순 전 강원지사 소환 조사</title>
-      <link>https://www.chosun.com/national/court_law/2024/11/29/3LD46AQ3DBFO7MD5FQGGSTHLZY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/11/29/3LD46AQ3DBFO7MD5FQGGSTHLZY/</guid>
-      <dc:creator>춘천=정성원 기자</dc:creator>
-      <description>검찰이 업무상 배임 의혹을 받는 최문순 전 강원지사를 29일 소환해 조사한다. 지난 12일 강원도청 감사위원회와 투자유치과 등 3곳을 압수수색 한 지 17일 만이다.춘천지검은 이날 오후 업무상 배임 혐의로 최 전 지사를 피의자 신분으로 불러 조사할 계획이라고 밝혔다.</description>
-      <pubDate>Fri, 29 Nov 2024 03:38:34 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YRMH77Y5CZCUZORF5WZUKBFRA4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;최문순 전 강원지사/조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰이 업무상 배임 등의 의혹을 받는 최문순 전 강원지사를 29일 소환해 조사한다. 지난 12일 강원도청 감사위원회와 투자유치과 등 3곳을 압수수색 한 지 17일 만이다.&lt;br&gt;&lt;br&gt;춘천지검은 이날 오후 업무상 배임 등 혐의로 최 전 지사를 피의자 신분으로 불러 조사할 계획이라고 밝혔다.&lt;br&gt;&lt;br&gt;최 전 지사는 2018년 강원도 출자 기업인 강원중도개발공사가 레고랜드 운영사인 영국 멀린사에 800억원을 지원하도록 지시해 강원중도개발공사에 손해를 끼쳤다는 의혹을 받고 있다.&lt;br&gt;&lt;br&gt;또 2014년 강원도의회 의결을 거치지 않고 강원중도개발공사의 레고랜드 채무 보증 규모를 210억원에서 2050억원으로 늘린 의혹도 받고 있다.&lt;br&gt;&lt;br&gt;앞서 2022년 11월 박기영 강원도의원(국민의힘)은 최 전 지사를 업무상 배임, 직권남용, 직무유기 등 혐의로 강원경찰청에 고발했다. 경찰은 지난 1월 최 전 지사를 불러 조사한 뒤 지난 4월 사건을 검찰에 송치했다.&lt;br&gt;&lt;br&gt;한편 지난 18일 김진태 강원지사는 기자간담회에서 최 전 지사의 춘천 레고랜드 사태와 관련해 “확실하게 밝혀져야 할 때가 됐다”면서 “새로운 도정이 출발한 지 2년 반이 돼가는데 해묵은 사건들을 이번 기회를 통해 밝힐 것은 밝히고 갔으면 좋겠다”는 입장을 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>“평소 민물새우 잡는다”는 말 한마디에 실종 치매노인 찾은 경찰</title>
