@@ -13,6 +13,104 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>임영웅, 자선 축구 수익금 12억원 기부...“임영웅이 또 임영웅했다”</title>
+      <link>https://www.chosun.com/national/people/2024/11/30/YNU7IGBZQVELHF6O3UEJEFG5VA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/11/30/YNU7IGBZQVELHF6O3UEJEFG5VA/</guid>
+      <dc:creator>최보윤 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 30 Nov 2024 01:44:38 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ORWA4HCV2MQAB75BGORYD5F7KI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;임영웅/물고기 뮤직&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;가수 임영웅이 또 한번의 기부 선행을 실천했다. 임영웅은 지난 10월 12일 대전월드컵경기장에서 개최된 ‘하나은행 자선축구대회’ 티켓 판매 수익금 12억원 전액을 기부했다.&lt;br&gt;&lt;br&gt;이날 가수 임영웅과 대한민국 축구의 레전드 기성용을 비롯해 이청용, 박주호, 조원희, 김영광 등 전, 현직 프로 축구 선수와 인기 유튜버 감스트, 말왕 등이 함께해 뜨거운 열기를 더했다. 임영웅은 ‘팀 히어로’의 주장을 맡아 이날 1도움을 기록하기도 했다. 3만5000여 명의 관중이 가득 메운 경기장에는 축구 팬들과 임영웅의 팬클럽 영웅시대가 하나 되어 사랑과 나눔의 메시지도 전파했다.&lt;br&gt;&lt;br&gt;임영웅은 이번 대회에 나서면서 모든 수익금을 취약계층에 지원하기로 했고, 그 결과 이번 대회를 통해 모인 티켓 판매 수익금 12억 원 전액은 월드비전과 사랑의 열매를 통해 어려운 이웃들에게 전달된다. 팬들과 약속을 지키는 한편, 꾸준히 기부를 실천하는 모습에서 대중에 선한 영향력을 톡톡히 펼치고 있다. 임영웅은 오는 12월 27일부터 29일, 그리고 25년 1월 2일부터 4일까지 고척스카이돔에서 열리는 콘서트 ‘임영웅 리사이틀(RE:CITAL)’을 앞두고 있어, 또 한 번 팬들과 특별한 추억을 나눌 예정이다. 팬들은 “임영웅이 또 임영웅했다” “‘히어로’라는 수식어가 가장 잘 어울리는 스타” “선행도 영웅처럼” 등 다양한 반응을 보냈다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/Z55TVSIRNJGDFMW6PQJOBC2UUM.JPG?width=1087&amp;height=815&amp;auth=3a6b1c645f075b15a59774d4bf88f53be0c9f78a17e57739541796c40456c2a1&amp;smart=true" type="image/jpeg" height="815" width="1087">
+        <media:description type="plain">(대전=뉴스1) 김진환 기자 = 12일 오후 대전 유성구 노은동 대전월드컵경기장에서 열린 하나은행 자선축구대회 팀 히어로와 팀 기성용의 경기, 후반 어시스트를 기록한 팀 히어로의 임영웅이 역전골을 넣은 전원석과 함께 세리머니를 펼치고 있다. 2024.10.12/뉴스1</media:description>
+        <media:credit role="author" scheme="urn:ebu">(대전=뉴스1) 김진환 기자</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>[단독]“얄팍한 수작”…의학회장도 의대생 ‘항의 문자’ 세례</title>
+      <link>https://www.chosun.com/national/2024/11/30/7IHE7BLKIZFELLXYF3MQS5X73A/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2024/11/30/7IHE7BLKIZFELLXYF3MQS5X73A/</guid>
+      <dc:creator>조백건 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 30 Nov 2024 02:14:47 +0000</pubDate>
+      <content:encoded>·현 정부·여당과 의료계가 10개월째 이어지고 있는 ‘의정 갈등’ 해결 방안을 논의하기 위해 출범한 여야정 협의체엔 두 의료 단체 대표가 참여하고 있다. 그 중 한 명이 이진우 대한의학회장이다. 대학의학회는 우리나라에서 가장 권위 있는 의학 학술단체다.&lt;br&gt;&lt;br&gt;그런데 지난 10월 대한의학회가 여야정 협의체에 참여하겠다고 발표한 직후부터 이진우 회장은 진료·수업 현장을 떠나있는 전공의들과 의대생들로부터 집중적인 항의 문자를 받고 있다고 한다. 이들은 이 회장에게 항의 문자를 보낸 뒤 이를 캡쳐해, 의사 전용 인터넷 커뮤니티인 메디스태프에 올려 ‘항의 인증’을 하기도 한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QNULXAEKMFLMTCOJF75MDZ7JL4.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;이진우 대한의학회장(오른쪽)이 지난달 11일 열린 제1차 여의정 협의체 1차 회의에서 발언을 하고 있다/뉴스1
+&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 지난 10월 30일에도 메디스태프에는 한 의대생이 이 회장에게 보낸 항의 문자 인증샷이 올라왔다. 자신을 의대생이라고 밝힌 그는 이 회장에게 보낸 문자에서 “저들(정부·여당)은 그 어떠한 목적 의식과 소명 의식을 갖고 협의체에 임하는 것이 아닙니다”라며 “단순히 떨어지는 지지율을 막고, 겨울이 오기 전에 뭐라도 하고 있다는, 그런 얄팍한 눈가림을 하기 위한 단순한 수작에 불과하다는 것을 어찌 모르시느냐”고 했다. 그러면서 “교수님의 현명한 결정을 기대한다”고 했다. 이 회장은 최근 본지에 “(항의 문자를 받는) 그런 일이 있긴 있다. 그냥 그런가보다 하고 넘기고 있다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YPH42NYBENHC7IPDFDECL2FLME.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2024년 10월 15일 오후 서울대학교병원 어린이병동에서 강희경 서울의대 교수 비대위원장이 본지와의 인터뷰를 갖고 있다./ 장련성 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;앞서 대통령실 장상윤 사회수석과 ‘의료 개혁’ 토론을 했던 강희경 서울대의대·병원 교수 비상대책위원장도 의대생으로부터 공격 문자를 받았다. 한 의대생은 지난달 강희경 위원장에게 “교수 당신들이 파업을 안 하고, (정부가) 무슨 짓을 하든 가만히 앉아서 진료만 보는데 무슨 말을 들어주겠느냐”며 “의사들 대표인 양 굴지 말라”는 문자를 보냈다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>폭설 직후 영하 날씨..."빙판길에 운전 유의"</title>
+      <link>https://www.chosun.com/national/welfare-medical/2024/11/30/R6HVTBNKSBD3DOESD25SZI6P7A/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/11/30/R6HVTBNKSBD3DOESD25SZI6P7A/</guid>
+      <dc:creator>조백건 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 30 Nov 2024 00:47:48 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WLC46PTGNJLAXHK4DQSWNVODJY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한 차량이 얼음 낀 도로를 서행하고 있다/뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최근 기록적 폭설이 내린 데 이어 토요일인 30일엔 중부 지방을 중심으로 전국 곳곳이 영하권에 진입했다. 도로와 인도 등이 빙판길이 될 가능성이 높다. 특히 최근 폭설이 집중적으로 쏟아진 중부지방 일부엔 빗방울까지 떨어져 곳곳에 얼음이 생길 수 있어 운전자와 노약자의 주의가 요구된다고 기상청은 밝혔다.&lt;br&gt;&lt;br&gt;이날 오전 8시 기준 주요 도시 기온은 서울 영하 0.3도, 인천 2.1도, 대전 영하 0.3도, 광주 3.8도, 대구 4.4도, 울산 5.1도, 부산 5.5도다.&lt;br&gt;&lt;br&gt;아침 최저기온으로는 강원 횡성군이 오전 7시 51분쯤 영하 10.7도, 경기 안성시가 오전 7시 42분쯤 영하 9.0도를 기록하는 등 중부지방 다수 지역이 영하권에 들었다.&lt;br&gt;&lt;br&gt;30일 전국의 낮 예상 최고기온은 7.0∼15.0도다. 이날 전국은 대체로 맑다가 오전 중 차차 구름이 많아지겠다. 서울·인천·경기남부와 충청권북부에는 강수량 0.1㎜ 미만의 비가 오는 곳이 있겠다. 늦은 오후부터는 강원영서남부지역에도 빗방울이 떨어지겠다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>거동 불편 노인 투표소 태워다 준 복지센터 대표 벌금형</title>
+      <link>https://www.chosun.com/national/regional/yeongnam/2024/11/30/FO3TD5IPEFC33OYJDZVCRXNQGU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/yeongnam/2024/11/30/FO3TD5IPEFC33OYJDZVCRXNQGU/</guid>
+      <dc:creator>박주영 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 30 Nov 2024 02:00:41 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FVX2J24S5QA5IHHKMVWRVSWRKA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산지법 서부지원./뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;총선 사전투표 날 거동 불편 어르신들을 차량에 태워 투표소까지 데려다 준 복지센터 대표가 벌금형을 선고받았다.&lt;br&gt;&lt;br&gt;부산지법 서부지원 형사1부(재판장 이진재)는 공직선거법 위반 혐의로 기소된 지역 복지센터 대표 A씨에게 벌금 100만원을 선고했다고 30일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 총선 사전투표날인 지난 4월 6일 “투표를 원하는 사람은 태워다 드리겠다”며 보호센터 수급자 7명을 사전투표소까지 차량에 태워 데려다준 혐의로 재판에 넘겨졌다. 투표를 하게 할 목적으로 유권자를 차량에 태워 투표소까지 실어 나르는 행위는 공직선거법상 금지돼 있다. &lt;br&gt;&lt;br&gt;A씨는 재판에서 “차량을 제공한 것이 우리 센터 사회참여 훈련의 하나로 거동이 어려운 수급자들을 사전투표소까지 안내한 것일 뿐”이라며 “이는 사회상규상 위배되지 않는 행위로 정당행위에 해당하므로 위법하지 않다”고 주장했다.&lt;br&gt;&lt;br&gt;그러나 재판부는 “거동이 불편한 선거인은 선거관리위원회 또는 장애인협회를 통하여 차량과 활동 보조인 등 교통 편의를 제공받을 수 있는데 이를 제대로 확인하지 않고 차량을 제공한 행위는 정당행위의 요건인 긴급성, 보충성 등의 요건을 갖췄다 보기 어렵다”며 “그러나 선거의 공정성을 해하려는 의도가 있었다고 보기 힘든 점을 고려해 형을 결정했다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“키울 형편 안 돼”…영아 유기한 베트남 유학생 송치</title>
+      <link>https://www.chosun.com/national/regional/gyeonggi-incheon/2024/11/30/D7FHJXOIQJEZXGUONAHVCGCQO4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/gyeonggi-incheon/2024/11/30/D7FHJXOIQJEZXGUONAHVCGCQO4/</guid>
+      <dc:creator>박주영 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 30 Nov 2024 01:16:19 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/753K7VD4I2VRHGATD4LY4UU2O4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기북부경찰청 전경./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기북부경찰청은 아동복지법 위반(아동 유기) 혐의로 베트남 국적 유학생 A(19)양을 지난 28일 구속 송치했다고 30일 밝혔다.&lt;br&gt;&lt;br&gt;경찰에 따르면 A씨는 지난 20일 오후 의정부역 지하상가 여자 화장실에 갓난아기를 가방에 넣어 유기한 혐의를 받고 있다. 버려진 아기는 이날 오후 5시쯤 화장실에서 울음소리가 나 살펴본 상가 경비원에 의해 발견됐다. 아기는 즉시 병원으로 옮겨졌고 현재 건강 상태는 양호한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;신고를 받은 경찰은 상가 방범카메라(CCTV) 영상을 분석해 어학연수를 위해 올해 입국한 유학생 A양을 특정하고 의정부 내 거주지에서 체포했다. A양은 경찰에서 “갑작스럽게 출산했고 아이를 키울 여력이 없어서 범행했다”는 내용으로 진술한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “피의자가 친부가 누구인지 밝히기를 거부하고 있다”며 “조사를 계속 이어갈 예정”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>뇌종양 시달리던 70대 아내 부탁에 농약 먹인 남편 </title>
+      <link>https://www.chosun.com/national/regional/gangwon/2024/11/30/2I5ZEYMIWJANXGOC45GVUC5SWA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/gangwon/2024/11/30/2I5ZEYMIWJANXGOC45GVUC5SWA/</guid>
+      <dc:creator>박주영 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 30 Nov 2024 01:05:12 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HO6TND4Q2XSQBDXD2M2XHVC5Q4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;춘천지법 전경./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;30일 지역 법조계에 따르면 춘천지법 형사2부(재판장 김성래)는 촉탁살인 혐의로 구속기소된 A(73)씨에 대한 선고공판에서 징역 3년에 집행유예 5년을 선고했다.&lt;br&gt;&lt;br&gt;A씨는 지난 5월 8일 뇌종양에 걸려 극심한 고통에 시달리던 아내 B(72)씨의 “죽게 해달라”는 요청에 따라 함께 극단적 선택을 하기로 하고, B씨에게 살충제를 먹여 살해한 혐의(촉탁살인)로 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;재판부는 “피고인이 피해자로부터 부탁받고 범행했다고 하더라도 귀중한 생명을 빼앗은 이 사건 범행은 그 죄책이 절대 가볍지 않다”며 “다만 피고인이 44년간 결혼생활을 해온 피해자가 뇌종양 등으로 신체적 고통이 극심한 상태에서 극단적 선택을 할 생각으로 범행에 이른 점, 고령인 데다 살충제를 마신 후유증 등으로 건강 상태가 좋지 않은 점, 자녀가 선처를 탄원하는 점 등을 참작했다”고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>교육부에 의대 전담 '의대국' 생길듯..."의대 업무 폭증"</title>
+      <link>https://www.chosun.com/national/welfare-medical/2024/11/30/I3OHJD2XBRA2JENQ3IIXFUIP7E/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/11/30/I3OHJD2XBRA2JENQ3IIXFUIP7E/</guid>
+      <dc:creator>조백건 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 30 Nov 2024 01:40:56 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BYJCQTCHSRAA6PT353WXIYTZSU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;정부세종청사의 교육부 건물/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;교육부가 내년도 의대 업무를 전담할 부서인 의대국(局) 신설을 추진하고 있다.&lt;br&gt;&lt;br&gt;정부 의대 증원에 반발해 현재 의대생들이 집단 수업 거부를 계속하고 있고, 의대 증원에 따른 전반적 교육 여건 개선 등 관련 업무가 가중하고 있다는 판단 때문으로 보인다.&lt;br&gt;&lt;br&gt;교육부 관계자는 본지에 “아직 확정된 건 아니다”면서도 “(정부 인력·조직을 관리하는) 행정안전부와 의대 관련 부서 신설을 협의하고 있다”고 했다.&lt;br&gt;&lt;br&gt;현재 교육부는 의대 관련 업무를 인재정책실 산하 인재정책기획관실과 지역인재정책관실이 나눠 맡고 있다.&amp;nbsp;의대생 단체는 내년에도 올해와 같은 ‘수업 거부 투쟁’을 계속하겠다고 최근 밝힌 바 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>부산 어린이대공원에 ‘6·25 영웅 포토존’ 생겼다</title>
+      <link>https://www.chosun.com/national/regional/yeongnam/2024/11/30/LXHK7VF7UZA2DM5VJWEBAPRDRY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/yeongnam/2024/11/30/LXHK7VF7UZA2DM5VJWEBAPRDRY/</guid>
+      <dc:creator>박주영 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 30 Nov 2024 01:40:17 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2DFBGWSZTNHTXE6O664H4K42SA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산보훈청이 부산진구 초읍동 어린이대공원 안에 설치한 '헌7학병 포토존'./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산진구 초읍동 어린이대공원 내 수변공원에 ‘6·25전쟁 영웅 히어로드’ 조형물이 설치됐다.&lt;br&gt;&lt;br&gt;부산보훈청은 “부산의 호국 영웅인 ‘헌7학병’의 숭고한 정신을 시민에게 알리기 위한 ‘‘6·25전쟁 영웅 히어로드’를 벤치형 포토존으로 조성했다”고 30일 밝혔다. 이 조형물은 국가 보훈부의 마스코트인 ‘보보’를 활용해 가로 3ｍ, 세로 2ｍ, 폭 50㎝가량 크기로 만들어졌다. &lt;br&gt;&lt;br&gt;‘헌7학병’은 6·25전쟁 때 나라를 구하고자 육군 헌병학교에 제7기생으로 자원 입대한 부산지역의 14개 학교 재학생 1661명을 일컫는다. 이들은 40일간 군사훈련을 받고 1950년 10월 4일 수료와 동시에 각 사단과 포로수용소 등에 배치돼 임무를 수행했다.&lt;br&gt;&lt;br&gt;부산보훈청 측은 “이들은 크리스마스의 기적이라 불리는 ‘흥남철수작전’, ‘한국은행 금괴 이송’ ‘전쟁포로 수용과 반공포로 석방’ 등에서 활약, 용맹을 떨쳤다”고 말했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>일제 강제동원 피해자, 일본제철 상대 손배소 또 승소...“1억원 배상”</title>
+      <link>https://www.chosun.com/national/court_law/2024/11/30/3WAD4FV7NJDHFNBLSTOQYY2TDA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/11/30/3WAD4FV7NJDHFNBLSTOQYY2TDA/</guid>
+      <dc:creator>유종헌 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 30 Nov 2024 00:23:06 +0000</pubDate>
+      <content:encoded>일제 강제동원 피해자들이 일본 기업을 상대로 낸 손해배상 소송에서 또 승소했다.&lt;br&gt;&lt;br&gt;서울중앙지법 민사21단독 구자광 판사는 지난 26일 강제동원 피해자 유모씨와 윤모씨 유족들이 일본제철을 상대로 각각 제기한 손해배상 청구 소송 2건 모두 “일본제철이 1억원씩 지급하라”며 원고 일부 승소 판결했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4NEONNL5P2FATE6IJ2JWQHXZ6I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울중앙지법 전경. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;유씨는 1942년 1월 일본 후쿠오카현에 있는 야하타 제철소에 강제로 끌려가 1945년 9월까지 일했다. 윤씨는 1944년 10월부터 일본 이와테현에 있는 가마시이 제철소에서 강제 노동을 하다가 왼손 엄지손가락이 절단됐다.&lt;br&gt;&lt;br&gt;재판부는 “(강제동원된 피해자에 대한) 옛 일본제철의 행위는 당시 일본 정부의 한반도에 대한 불법적 식민 지배, 침략 전쟁의 수행과 직결된 반인도적인 불법행위에 해당한다”고 했다. 이어 " 불법행위의 내용과 불법성 정도, 당시 환경과 자유 억압의 정도 등 원고가 입은 육체적·정신적 피해 정도 등을 종합해 고려해 보면 피고가 지급해야 할 위자료는 1억원이라고 봄이 타당하다”고 했다.&lt;br&gt;&lt;br&gt;최근 강제동원 피해자와 유족들이 일본 기업을 상대로 낸 소송에서 승소하는 사례가 잇따르고 있다. 이는 대법원이 지난해 12월 소멸시효 계산 기준을 2018년으로 결정했기 때문이다.&lt;br&gt;&lt;br&gt;민법상 손해배상 청구권은 가해자가 불법행위를 저지른 지 10년이 지나면 소멸하는데, 강제동원 사건처럼 청구권을 행사할 수 없는 장애 사유가 있는 경우 그 사유가 해소된 시점부터 3년까지 청구권이 인정된다.&lt;br&gt;&lt;br&gt;그간 장애 사유가 해소된 시점을 2012년으로 볼 것인지, 2018년으로 볼 것인지에 대해 일선 법원의 판단은 엇갈렸다. 이는 대법원이 2012년 처음 강제동원 피해자의 손해배상 청구권을 인정하는 파기환송 결정을 내렸고, 같은 사건이 파기환송심을 거쳐 2018년 전원합의체에서 최종 확정됐기 때문이다. 지난해 대법원이 “2018년 전원합의체 판결을 기준으로 소멸시효를 계산하라”고 하면서 하급심도 이 기준을 따르고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“내 논문 똑바로 안 써?”…남자친구 가위로 찌른 20대 女</title>
+      <link>https://www.chosun.com/national/national_general/2024/11/30/3SQESMWGPBD5LOGIK2QMQ42ZMU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/30/3SQESMWGPBD5LOGIK2QMQ42ZMU/</guid>
+      <dc:creator>안준현 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 30 Nov 2024 00:19:50 +0000</pubDate>
+      <content:encoded>남자친구에게 자신의 석사 졸업 논문을 쓰게 하고, 이어 내용이 마음에 들지 않자 남자친구를 가위로 약 10회 찌른 20대 여성이 징역형 집행유예 판결을 받았다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GAGM5T7DGPQ2EMA5L223GKNITI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울동부지법 /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울동부지법 형사단독3부 이호동 판사는 지난 20일 상해 및 특수상해 혐의로 기소된 여성 김모(27)씨에게 징역 1년 6개월애 집행유예 4년을 선고했다.&lt;br&gt;&lt;br&gt;김씨는 지난 2월 19일 오후 1시 S대학교 강의실에서 자신의 남자친구의 얼굴과 다리를 수십 회 때려 우측 고막 외상성 파열 등을 초래했다. 이어 9일 후인 같은 달 28일 서울 성동구 한 건물 2층 입구 앞에서 미용 가위를 꺼낸 뒤 남자친구의 가슴과 팔 부위를 10회 찔렀다.&lt;br&gt;&lt;br&gt;조사 결과 이들은 2022년부터 같은 대학원 연구실에서 근무하다가, 지난 2월부터 연인 사이가 됐다. 그러나 김씨가 남자친구에게 “내 석사 졸업 논문을 써달라”고 부탁했고, 남자친구가 이를 열심히 하지 않자 이같은 폭행을 한 것으로 밝혀졌다.&lt;br&gt;&lt;br&gt;김씨는 조사 과정에서 “남자친구가 자신을 성추행해 가위로 찔렀다”고 진술했지만, CC(폐쇄회로)TV 영상에서 남자친구는 김씨가 오자 팔을 벌리며 환영하는 자세만 취했던 것으로 알려졌다.&lt;br&gt;&lt;br&gt;재판부는 “피고인이 피해자가 자신을 성추행하려 했다는 취지의 주장을 하나 메신저나 CCTV 영상을 봤을 때 피고인은 범행을 반성하고 있는 것으로 보이지 않는다”고 했다. 이어 “범행을 인정하고, 피해자와 합의했으며, 형사 처벌 전력이 없는 점을 종합해 이같은 형을 정했다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/HURIX4QLD4VSHWPKCH3YFBC2HQ.jpg?width=2278&amp;height=1282&amp;auth=4530a4c81e12683cd511c5cd6964a68b6976b468becebe69bf57644e7a2951c5&amp;smart=true" type="image/jpeg" height="1282" width="2278">
+        <media:description type="plain">서울동부지법 ⓒ News1 이비슬 기자</media:description>
+      </media:content>
+    </item>
+    <item>
       <title>소멸까지 한 달... 마일리지 쟁여놨는데 왜 쓰지를 못하니</title>
       <link>https://www.chosun.com/national/weekend/2024/11/30/6PPXUEAKZ5GODLSQJBWBU4MGDQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/weekend/2024/11/30/6PPXUEAKZ5GODLSQJBWBU4MGDQ/</guid>
@@ -792,28 +890,6 @@
       </media:content>
     </item>
     <item>
-      <title>법무부, 청년정책 심포지엄 개최… 2030 자문단 정책 발표</title>
-      <link>https://www.chosun.com/national/court_law/2024/11/29/G4X7EDJTONC5RCRDMJONWXTS4Y/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/11/29/G4X7EDJTONC5RCRDMJONWXTS4Y/</guid>
-      <dc:creator>이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 29 Nov 2024 06:14:16 +0000</pubDate>
-      <content:encoded>법무부는 29일 청년정책 심포지엄을 개최하고, 청년정책에 대해 발표‧토론했다고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PDIF4NPSPVGV7HFYV2BUCQL32U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법무부는 29일 청년정책 심포지엄을 개최했다고 밝혔다. 행사에서는 만 39세 이하 청년 20명으로 구성된 '법무부 2030 자문단'이 무료 법률 상담, 범죄 피해자 지원 센터 활성화 방안 등의 청년 정책을 제안하고 정부 부처 담당자와 전문가들이 이에 관해 토론했다. /법무부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;법무부 2030 자문단은 이날 심포지엄에서 △청년 대상 찾아가는 무료 법률상담 △청년에게 힘이 되는 사회봉사 국민공모제 △범죄피해자 원스톱 솔루션 센터 활성화 방안 △청년의 시각에서 바라본 신(新)출입국‧이민정책 추진방안 등 4개 주제에 대해 청년의 입장에서 바라보고 설계한 정책을 발표했다.&lt;br&gt;&lt;br&gt;정책 발표 이후엔 소관부서 사무관, 대학 교수, 국책연구기관 부연구위원 등과 토론을 갖고, 2030 자문단이 제시한 정책안의 실현 가능성에 대해 점검했다고 법무부는 밝혔다. 이날 토론자로는 이성기 성신여대 법학부 교수, 최호진 단국대 법학과 교수 최호진, 박미랑 한남대 경찰학과 교수, 신나영 경기대 범죄교정심리학전공 교수, 김화연 이민정책연구원 부연구위원, 김민지‧성유리‧조제성‧최효원 한국형사‧법무정책연구원 부연구위원과 법무부 관계자들이 참여했다.&lt;br&gt;&lt;br&gt;2030 자문단장을 맡고 있는 홍정윤 법무부 청년보좌역은 “오늘 심포지엄에서 논의된 내용을 당국자와 긴밀하게 소통해 다양한 청년들에게 실질적인 도움으로 이어질 수 있도록 최선을 다할 것”이라고 했다. 발표자로 참석한 한 자문단원은 “올 한해 법무부 정책담당자들과 직접 교류하면서 청년의 시각에서 참신한 의견을 전달 할 수 있었다”며 소감을 밝혔다.&lt;br&gt;&lt;br&gt;변필건 법무부 기획조정실장은 “2030 자문단이 청년의 참신한 목소리를 법무부 정책에 반영할 수 있는 안정적인 소통창구로 자리 잡게 됐다”며 “2030 자문단 2기가 구성되면 신규 자문단원들과 서로 협력하여 더 많은 청년들이 공감할 수 있는 정책이 발굴되도록 적극적인 지원을 이어 나가겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>음주운전해 ‘말다툼’ 지인 치어 달아난 30대...피해자는 숨져</title>
-      <link>https://www.chosun.com/national/national_general/2024/11/29/4HJH5PQSIZGINNCIY6IROAZR7E/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/29/4HJH5PQSIZGINNCIY6IROAZR7E/</guid>
-      <dc:creator>고창=진창일 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 29 Nov 2024 05:36:57 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Q3S2ESAN7UALOEDV2ROHSSZ6JI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;고창경찰서. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;술을 마신 채 운전대를 잡아 지인을 치어 숨지게 하고 달아난 30대가 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;전북 고창경찰서는 29일 음주운전 및 교통사고처리 특례법상 도주치사 등 혐의로 A(35)씨에 대해 구속영장을 청구했다고 밝혔다.&lt;br&gt;&lt;br&gt;경찰에 따르면 A씨는 지난 26일 오후 11시 27분쯤 전북 고창군 고창읍의 한 도로에서 자신의 SUV 차량을 음주운전하면서 바닥에 넘어진 B(39)씨를 치어 숨지게 한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;A씨와 B씨는 지인 사이로 사고가 있던 날 함께 술자리를 가졌고 말다툼을 벌였다고 한다. 사고 당시 차량을 타고 떠나려는 A씨를 B씨가 막아서다 넘어졌고, A씨가 그대로 차량을 주행해 사고를 낸 것으로 조사됐다. B씨는 병원으로 옮겨졌지만 숨졌다.&lt;br&gt;&lt;br&gt;A씨의 혈중알코올농도는 면허 취소 수치인 0.08% 이상이었던 것으로 나타났다. A씨는 경찰 조사에서 “술에 취해 B씨를 밟고 지나간 줄 몰랐다”는 취지의 진술을 한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “차량 블랙박스와 방범카메라(CCTV) 영상을 종합적으로 분석해 A씨가 사고를 인지한 뒤 도주한 것으로 보고 도주치사 혐의를 적용해 구속영장을 신청했다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/Q3S2ESAN7UALOEDV2ROHSSZ6JI.jpg?width=3740&amp;height=2030&amp;auth=425e1eaaa02028a51a5dca2ee9bd2691dd0bc4273f4ff8a01b38aed5a3bd5ed0&amp;smart=true" type="image/jpeg" height="2030" width="3740">
-        <media:description type="plain">고창경찰서 전경(자료사진)2018.4.2/뉴스1 ⓒ News1</media:description>
-        <media:credit role="author" scheme="urn:ebu">뉴스1 ⓒ News1</media:credit>
-      </media:content>
-    </item>
-    <item>
       <title>검찰, ‘레고랜드 배임’ 관련 최문순 전 강원지사 소환 조사</title>
       <link>https://www.chosun.com/national/court_law/2024/11/29/3LD46AQ3DBFO7MD5FQGGSTHLZY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/11/29/3LD46AQ3DBFO7MD5FQGGSTHLZY/</guid>
@@ -873,81 +949,6 @@
       <description/>
       <pubDate>Fri, 29 Nov 2024 02:09:43 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BBZDHJFRIVGKZA3CVH4BRDQFAQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;KTX-이음 열차. /조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;내달 31일 강원 삼척부터 경북 포항을 잇는 동해중부선(166.3㎞)이 개통한다고 국토교통부가 29일 밝혔다. 동해중부선은 기존 강릉~삼척, 포항~부산 철도 노선과 연결돼 앞으로 강릉에서 부산까지 동해안을 따라 열차로 이동할 수 있게 된다.&lt;br&gt;&lt;br&gt;동해중부선 구간에는 총 18개 역이 들어선다. 이 사업에는 3조 4289억원이 투입됐다. 2009년 착공해 완공하는 데 15년이 걸렸다.&lt;br&gt;&lt;br&gt;국토부는 강릉∼부산 구간에 먼저 ITX-마음을 투입해 탑승률과 열차 수요 등을 분석한 뒤 2026년부터 최대 시속 250㎞인 KTX-이음 고속열차를 투입하는 방안을 검토 중이다. ITX-마음은 강릉에서 부산까지 3시간50분, KTX-이음은 2시간35분이 걸린다. KTX-이음 기준 삼척에서 포항까지는 54분이 걸린다.&lt;br&gt;&lt;br&gt;수도권에서 충북 북부를 거쳐 경북 문경을 잇는 중부내륙선 철도도 오는 30일 운행에 들어간다. 이번에 개통하는 중부내륙선 2단계 구간은 충주역과 문경역을 잇는 39.2㎞ 신설 노선이다. 총 1조 3386억원이 투입됐다. 1단계 구간인 경기도 이천~충북 음성·충주(54㎞) 노선은 2021년 개통해 현재 KTX가 운행되고 있다.&lt;br&gt;&lt;br&gt;정식 운행이 시작되면 경기 성남 판교역을 출발해 이천~음성~충주~괴산~문경이 하나로 연결된다. KTX-이음이 이 구간을 하루 왕복 8회 운행한다. 중부내륙선 철도를 타면 판교에서 문경까지 1시간 30분이면 갈 수 있다.&lt;br&gt;&lt;br&gt;국토교통부는 2030년까지 수서~광주선, 문경~김천선, 남부내륙선(김천~거제) 철도 사업을 차례로 완공해 서울에서 거제까지 국토 중심을 관통하는 내륙 간선 철도망을 구축한다는 계획이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>경찰, FT아일랜드 최민환 ‘성매매·강제추행’ 불송치</title>
-      <link>https://www.chosun.com/national/incident/2024/11/29/K6AARXVVBJDR3F2U6WYEOWV3JI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/11/29/K6AARXVVBJDR3F2U6WYEOWV3JI/</guid>
-      <dc:creator>안준현 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 29 Nov 2024 01:07:52 +0000</pubDate>
-      <content:encoded>성매매 업소 출입 의혹과 아내 강제 추행 혐의로 고발을 당한 FT아일랜드 최민환(32)씨에 대해 경찰이 불송치 결정을 내리고 사건을 종결했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EOHOQXH33FD7ZL4A25IBNKM4QY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;걸그룹 라붐 출신 율희(사진 왼쪽)와 FT아일랜드 최민환. 이들은 2018년 결혼했으나 5년 만인 2023년 이혼했다. /스포츠조선&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 강남경찰서는 최씨의 성매매처벌법, 강제 추행 혐의 등 고발 건에 대해 증거가 충분하지 않아 오늘(29일) 불송치한다고 밝혔다. 국민신문고로부터 최씨가 고발당한 지 35일 만이다.&lt;br&gt;&lt;br&gt;앞서 최씨의 전처인 걸그룹 ‘라붐’ 출신 율희(본명 김율희·27)는 지난달 24일 본인 유튜브에 출연해 “최씨가 과거 강남 등지에서 성매매를 했다”고 말했다. 이어 “집에서 술을 마시다가 어머님은 설거지를 하고 여동생 부부는 우리를 등지고 노래를 부르고 있었는데 기분이 좋았는지 돈을 가슴에 꽂았다”고 했고 “가족들 앞에서 내 중요 부위를 쓱 만졌다”고도 했다.&lt;br&gt;&lt;br&gt;최씨가 누군가와 통화하는 녹취록도 공개했는데, 이 녹취록에는 상대방에게 “놀러 가고 싶다” “아가씨 있냐” 등의 발언 내역이 있었다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “최씨가 성매매를 했다는 의혹을 받는 업소도 가서 CCTV 등도 조사해봤지만 뚜렷한 증거가 없었다”며 “절차 상 최씨를 입건한 뒤 불송치하기로 한 것”이라고 했다.&lt;br&gt;&lt;br&gt;한편 최씨와 율희는 2018년 결혼해 세 자녀를 뒀으나 2023년 이혼했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/EOHOQXH33FD7ZL4A25IBNKM4QY.jpg?width=540&amp;height=366&amp;auth=ada4cc74dd86d311dae0463af2cf81fbcd9fe3ace86517dfe1bcdb1b8ba66975&amp;smart=true" type="image/jpeg" height="366" width="540">
-        <media:credit role="author" scheme="urn:ebu"/>
-      </media:content>
-    </item>
-    <item>
-      <title>검찰, ‘대장동 50억 클럽’ 박영수에 징역 12년 구형</title>
-      <link>https://www.chosun.com/national/court_law/2024/11/29/SOUJSGUBOBDUJN2ETDAVHIRQGA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/11/29/SOUJSGUBOBDUJN2ETDAVHIRQGA/</guid>
-      <dc:creator>박혜연 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 28 Nov 2024 16:04:05 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5NVXDOB5IPNDXLWGRE4L5VANSY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 2023년 7월 11일 박영수 전 특별검사가 재판을 위해 서울중앙지법에 출석하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰이 대장동 민간 업자들에게 19억원을 수수하고 200억원 상당 금품을 받기로 한 혐의로 기소된 박영수 전 특별검사에게 징역 12년을 구형했다. 선고는 내년 2월 13일이다.&lt;br&gt;&lt;br&gt;서울중앙지법 형사33부(재판장 김동현)는 28일 특정경제범죄가중처벌법상 수재 등 혐의로 기소된 박 전 특검의 결심 공판을 진행했다. 검찰은 박 전 특검에게 징역 12년과 벌금 16억원, 추징금 17억5000만원을 구형했다. 검찰은 “박 전 특검은 누구보다 고도의 청렴함이 요구되는 특별검사라는 자리에서 지위를 망각하고 거액을 스스럼없이 수수하며 사회적 기대를 저버렸다”고 했다.&lt;br&gt;&lt;br&gt;박 전 특검은 우리은행 이사회 의장이던 2014년 11~12월 대장동 컨소시엄 구성을 지원하는 대가로 남욱 등 민간 업자에게 200억원 상당 땅과 건물을 약속받은 혐의, 이 시기 대한변협 회장 선거 자금 명목으로 남씨에게 현금 3억원을 수수한 혐의 등을 받고 있다. 또 2015년 4월 우리은행 여신(與信) 의향서 발급 대가로 김만배씨에게 5억원을 받고, 50억원을 약속받은 혐의도 있다. 그는 국정 농단 특검을 맡으면서 50억원을 받기 어려워지자, 화천대유에 근무하던 딸의 대여금 명목으로 김씨에게 총 11억원을 받은 혐의도 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>尹대통령 “나도 칠삭둥이였다”</title>
-      <link>https://www.chosun.com/national/welfare-medical/2024/11/29/JINHRRCNZ5ASDG4TWTWZ2WJ3EM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/11/29/JINHRRCNZ5ASDG4TWTWZ2WJ3EM/</guid>
-      <dc:creator>강다은 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 28 Nov 2024 16:03:25 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VUGGWYIOWSWC7ICBRLKWNAGO7Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;다섯 쌍둥이 집중 치료실 찾은 尹 대통령 - 윤석열 대통령이 28일 서울성모병원 신생아 집중 치료실에서 국내 최초의 다섯 쌍둥이 자연 임신 출산 부모 김준영(왼쪽에서 둘째)·사공혜란(셋째)씨와 함께 그중 한 아이를 보고 있다. 윤 대통령은 “저도 칠삭둥이 2.3㎏ 미숙아로 태어났다”며 이른둥이에 대한 의료비 지원 한도를 대폭 높이겠다고 밝혔다. /대통령실&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정부가 이른둥이의 의료비 지원 한도를 최대 2배로 인상한다. 고위험 산모·신생아를 전문적으로 치료할 의료 센터도 신설한다. 이른둥이에 대한 맞춤형 지원을 통해 출산·양육의 어려움을 덜어주겠다는 것이다.&lt;br&gt;&lt;br&gt;유혜미 저출생대응수석비서관은 28일 서울 용산 대통령실에서 이른둥이 특화 저출생 대책을 발표했다. 이른둥이는 임신 기간이 37주 미만이거나, 2.5kg 미만의 저체중인 경우다. 정부는 기존 1000만원 한도인 이른둥이 의료비 지원 한도를 최대 2000만원까지 높이기로 했다. 출생 체중에 따라 고위험군일수록 인상 폭을 높였고, 이른둥이이면서 선천성 이상아(출생 후 2년 내 선천성 이상으로 진단·입원·수술한 경우)인 경우는 의료비 지원 한도를 합산해 최대 2700만원까지 지원한다.&lt;br&gt;&lt;br&gt;또 고위험 산모와 신생아가 중증도에 맞춰 함께 치료받을 수 있도록 전문 기관인 ‘중앙 중증 모자 의료센터’ 2곳을 신설하고, 이송·진료 협력 체계도 구축할 계획이다. 이른둥이가 지속해서 관리를 받을 수 있도록 퇴원 시점에 코디네이터를 배정해 퇴원 이후 발달 상황에 대한 추적 관리를 지원한다. 이 같은 사업은 일부 지자체에서 이미 시행 중인데, 전국으로 확대키로 했다.&lt;br&gt;&lt;br&gt;윤석열 대통령은 이날 서초구 서울성모병원에서 이른둥이 부모와 간담회를 갖고 “저도 어머니께서 바쁜 직장 생활을 하셨기 때문에 칠삭둥이 2.3㎏ 미숙아로 태어났다”면서 “이른둥이를 비롯해 신생아와 고위험 산모 집중 치료실에 대해 보상을 강화하고 의료 개혁에도 박차를 가하겠다”고 했다. 윤 대통령은 지난 9월 이 병원에서 국내 최초 자연 임신으로 다섯 쌍둥이를 낳은 김준영·사공혜란씨 부부를 만나 “온 국민이 축하합니다”라며 거듭 축하했다. 윤 대통령은 9월 체코 순방 도중 다섯 쌍둥이 출생 소식을 듣고 축하 메시지와 선물을 전달했었다. 이날 다섯 쌍둥이 등이 입원한 신생아 집중치료실을 둘러본 윤 대통령은 “정말 오밀조밀하고 예쁘다. 하나님의 섭리가 참 대단하다”며 “대통령이 된 이후 가장 진한 감동”이라고도 했다. 윤 대통령은 “이른둥이는 수개월간 병원 인큐베이터에서 치료받다 보니 정작 아기를 집에 데리고 갈 때 지원 시기가 지나거나 얼마 남지 않은 경우가 많다”며 출생일을 기준으로 관련 서비스를 산정하는 현행 제도를 개선하겠다고 약속했다.&lt;br&gt;&lt;br&gt;최근 결혼·출산 연령이 올라가고, 난임 시술로 인한 다태아 비율도 늘며 이른둥이가 많아지고 있다. 지난해 전체 출생아 중 이른둥이 비율은 12.2%에 달했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>지하철 미어터지고 항공기 무더기 결항… 숨막히는 하루</title>
-      <link>https://www.chosun.com/national/national_general/2024/11/29/QVXBRKBOK5CE5L4HFJJAHSYY5U/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/29/QVXBRKBOK5CE5L4HFJJAHSYY5U/</guid>
-      <dc:creator>김현수 기자, 김아사 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 28 Nov 2024 15:52:58 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Z3WVXP2HOZIAXIR7W6OADKHTNE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;출구는 어디쯤… 역 빠져나가는 게 전쟁 - 28일 아침 서울 지하철 시청역 안의 모습. 지하철에서 내린 직장인들이 역 밖으로 나가기 위해 출구에 몰려 있다. 이틀 연속 쏟아진 폭설 때문에 지하철역은 평소보다 더 붐볐다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 27일부터 내린 폭설로 수도권 등 중부지방에 피해가 속출했다. 인천국제공항에서는 이틀간 항공기 321편이 결항했다. 367편은 지연 운항했다.&lt;br&gt;&lt;br&gt;27일 오후 2시 30분 인천공항을 출발해 미국 로스앤젤레스로 가려던 항공기는 여러 차례 출발이 지연된 끝에 28일 오전 6시쯤 결국 결항했다. 승객들은 16시간 가까이 공항에서 애를 태웠다.&lt;br&gt;&lt;br&gt;27일 오후 6시 15분 인천공항에 내리려던 스페인 마드리드발(發) 여객기는 인천공항 상공을 빙빙 돌다가 연료가 계속 줄어들자 오후 8시쯤 김포공항에 착륙했다. 이 여객기는 김포공항에서 연료를 채운 뒤 오후 11시쯤 인천공항에 착륙했다. 하지만 폭설로 줄줄이 지연된 항공기가 공항 주기장 등에 몰리면서 승객을 내릴 수가 없었다. 승객들은 인천공항에 착륙하고도 원래 도착 시간보다 8시간 늦은 28일 오전 2시 30분에야 땅을 밟을 수 있었다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZT5I3CHIGZGDVM5ZNRPUZWUIOA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;내 비행기 언제쯤… 인천공항 무더기 지연·결항 - 28일 인천국제공항 제2여객터미널 출국장에서 승객들이 항공기 운항 상황을 보여주는 전광판을 지켜보고 있다. 폭설 때문에 항공편 대부분이 지연되거나 결항했다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;일본 여행 중인 이모(45)씨는 이틀째 귀국도 못 하고 있다. 그는 원래 27일 오후 4시쯤 후쿠오카발 항공기를 타고 인천공항에 들어올 계획이었다. 후쿠오카 공항에서 5시간을 기다렸지만 폭설로 인천공항이 사실상 마비되면서 항공편이 결국 결항됐다고 한다.&lt;br&gt;&lt;br&gt;28일 아침 수도권 주민들은 ‘출근난’을 겪었다. 직장인들이 지하철 등 대중교통으로 몰린 데다 폭설로 수인분당선과 서울 지하철 1호선, 경의중앙선 일부 열차가 10~20분씩 지연 운행했기 때문이다.&lt;br&gt;&lt;br&gt;수인분당선 수원역에서 만난 직장인 이동규(35)씨는 “눈이 많이 내려 오늘은 지하철을 타려고 나왔는데 이틀 연속 지각하게 생겼다”고 했다. 수인분당선 야탑역은 승객이 몰려 승강장부터 개찰구 밖까지 대기줄이 이어졌다. 직장인 김지연(32)씨는 “승강장까지 가는 데 20분 넘게 걸렸다”고 했다. 코레일 측은 “선로에 쌓인 눈과 나뭇가지를 치우느라 열차 출발이 지연됐다”고 했다.&lt;br&gt;&lt;br&gt;이날 경기도교육청은 휴교령을 내렸다. 경기도 내 초등학교 337곳 등 학교 1337곳이 휴교했다.&lt;br&gt;&lt;br&gt;지붕이 무너지고 나무가 쓰러지는 사고도 잇따랐다. 이번 눈은 물기를 많이 머금어 보통 눈보다 3배가량 무거운 습설(濕雪)이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/H7EO5BSR25BY3MV5A36UVDZWLQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경상도 일부 빼고 하얗게 뒤덮인 한반도 - 28일 미 항공우주국(NASA)의 위성 사진에 한반도 중부 내륙을 중심으로 눈(흰색 부분)이 쌓여 있는 모습이 포착됐다. 한반도 주변 바다에 있는 흰색 부분은 눈과 비가 섞인 구름이다. 27~28일 경기 용인 47.5㎝, 서울 관악 41.6㎝ 등 적설을 기록했다. 항공편이 대거 결항·지연되고 일부 열차도 10~20분씩 지연됐다. /나사 월드뷰&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 오전 5시쯤 경기 용인시 처인구의 주택에서 60대 남성이 쌓인 눈의 무게를 견디지 못하고 쓰러진 나무에 깔려 숨졌다.&lt;br&gt;&lt;br&gt;오전 9시쯤 강원 횡성군에서는 축사 지붕이 무너지면서 70대 남성이 사망했다. 경기 안성 한우 농가에서는 축사 지붕이 무너져 소 19마리가 고립되기도 했다.&lt;br&gt;&lt;br&gt;낮 12시쯤 경기 안성시 자동차 부품 공장에서도 천장이 내려앉아 70대 근로자 1명이 숨졌다. 경기 안양 농수산물도매시장의 지붕이 무너져 60대 여성 손님 1명이 다치는 일도 있었다. 앞서 이날 오전 1시 30분쯤에는 경기 의왕에 있는 도깨비시장의 천장이 내려앉았다. 시장 관계자는 “새벽이라 인명 피해는 없었지만 복구에 두세 달은 걸릴 것 같다”고 했다.&lt;br&gt;&lt;br&gt;비닐하우스가 무너지는 피해를 당한 농가도 많았다. 이날 오전 0시 50분쯤 경기 과천의 비닐하우스 2동이 무너지면서 이재민 7명이 발생했다.&lt;br&gt;&lt;br&gt;정전과 단수 사고도 곳곳에서 발생했다. 이날 오전 6시 50분쯤 서울 마포구에서는 가로수가 쓰러지면서 전선을 덮쳐 750가구가 정전 피해를 당했다. 마포구 창전동에서는 쓰러진 나무가 배수지 근처 전선을 덮쳐 270가구에 수돗물 공급이 끊겼다. 경기 용인시 기흥구에서도 정전으로 1200여 가구가 불편을 겪었다. 행정안전부에 따르면, 이번 폭설로 인한 정전 사고는 총 131건으로 집계됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[오늘의 날씨] 2024년 11월 29일</title>
-      <link>https://www.chosun.com/national/national_general/2024/11/29/L3IMPNJQ35F3LFQFYOH5LPSJPE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/29/L3IMPNJQ35F3LFQFYOH5LPSJPE/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 28 Nov 2024 15:30:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QXAHGXFYOZDGPPMKPV2D62G6ME.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>뉴진스 “29일부로 어도어와의 전속계약 해지”</title>
-      <link>https://www.chosun.com/national/people/2024/11/28/3FPXIZL3Z5AOXGORMIJO43ASBY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/11/28/3FPXIZL3Z5AOXGORMIJO43ASBY/</guid>
-      <dc:creator>정아임 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 28 Nov 2024 11:47:43 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GMYORA36E5P2HPBPQPKU2WT56A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;그룹 뉴진스가 28일 서울 강남구 스페이스쉐어 삼성역센터에서 어도어와의 전속계약 해지 관련 긴급 기자회견을 하고 있다. 왼쪽부터 해린, 다니엘, 민지, 하니, 혜인. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;걸그룹 뉴진스가 28일 소속사 어도어와의 전속계약을 해지하겠다고 전격 발표했다.&lt;br&gt;&lt;br&gt;뉴진스는 이날 오후 서울 강남구에서 긴급 기자회견을 열고 “오늘 업무 시간이 다 끝났는데도 하이브와 현재의 어도어는 개선 여지를 보여 주거나 저희 요구를 들어줄 의지를 전혀 보이지 않는다”며 “어도어는 뉴진스를 보호할 의지도 능력도 없다”고 이같이 밝혔다.&lt;br&gt;&lt;br&gt;뉴진스는 지난 13일 민희진 전 대표의 대표이사 복귀 등을 요구하며 2주 이내에 원하는 바가 수용되지 않을 경우 전속계약을 해지하겠다는 내용증명을 어도어에 보냈고, 보름이 지난 이날 계약 해지를 선언했다.&lt;br&gt;&lt;br&gt;당시 요구사항에는 ▲하니에게 ‘무시해’라고 발언한 매니저의 공식적인 사과 ▲동의 없이 노출돼 사용된 동영상과 사진 등 자료 삭제 ▲’음반 밀어내기’로 뉴진스가 받은 피해 파악과 해결책 마련 ▲돌고래유괴단 신우석 감독과의 분쟁과 이로 인한 기존 작업물이 사라지는 문제 해결 ▲뉴진스의 고유한 색깔과 작업물을 지킬 것 등이 담겼다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GFOZXFYGVRLC5CZE4YWS6CWHDU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;그룹 뉴진스가 28일 서울 강남구 스페이스쉐어 삼성역센터에서 어도어와의 전속계약 해지 관련 긴급 기자회견을 하고 있다. 왼쪽부터 해린, 다니엘, 민지, 하니, 혜인. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;멤버 다니엘은 “전속계약이 해지되면 저희 5명은 어도어 소속 아티스트가 아니게 될 것”이라며 “진정 원하는 걸 해나가려고 한다. 약속된 스케줄은 그대로 진행할 예정이다. 계약된 광고들도 예정대로 진행할 것”이라고 말했다.&lt;br&gt;&lt;br&gt;해린은 위약금 문제에 대해 “전속계약을 위반하지 않았다. 지금까지도 최선을 다해 활동하고 있다. 위약금을 내야 할 이유는 전혀 없다고 생각한다”면서 “오히려 지금의 어도어와 하이브가 계약을 위반했다. 책임은 어도어, 하이브에게 있다”고 주장했다.&lt;br&gt;&lt;br&gt;다만 뉴진스는 전속계약 효력정지 가처분 신청 등 법적 절차는 밟지 않겠다고 했다. 민지는 “어도어와 하이브가 계약을 위반했기 때문에 (전속계약을) 해지하는 것”이라며 “계약을 해지하면 전속 효력은 없으므로 저희 활동에는 장애가 없다. 앞으로 꾸준히 활동할 수 있기 때문에 굳이 가처분 등의 소송을 할 필요가 없다고 생각한다”고 말했다.&lt;br&gt;&lt;br&gt;민희진 어도어 전 대표와 함께할 거냐는 질문에 혜인은 “얘기를 나누지는 않았지만 아마 대표님도 저희와 같은 생각일 것”이라고 말했고, 민지는 “가능하다면 민 대표님과 좋은 활동을 하고픈 마음”이라고 답했다.&lt;br&gt;&lt;br&gt;뉴진스는 2022년 7월 SM엔터테인먼트 출신인 민희진 어도어 전 대표가 처음 제작한 걸그룹으로 데뷔해 ‘어텐션’(Attention), ‘하이프 보이’(Hype Boy), ‘디토’(Ditto), ‘슈퍼 샤이’(Super Shy) 등의 히트곡을 냈다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>뉴진스, 오늘 긴급 기자회견...’전속계약 해지’ 입장 밝힌다</title>
-      <link>https://www.chosun.com/national/people/2024/11/28/6OX2NGMCGFBAFON5KRO6IXNLJI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/11/28/6OX2NGMCGFBAFON5KRO6IXNLJI/</guid>
-      <dc:creator>정아임 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 28 Nov 2024 10:49:08 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2SWGR4CJKNDSJOC57P52RBAG3Q.jpeg"&gt;&lt;figcaption&gt;&lt;small&gt;걸그룹 뉴진스. /어도어&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;걸그룹 뉴진스가 28일 전속계약 해지 관련 기자회견을 갖는다.&lt;br&gt;&lt;br&gt;뉴진스 측은 이날 오후 8시 30분 서울 강남구 모처에서 긴급 기자회견을 개최한다고 밝혔다.&lt;br&gt;&lt;br&gt;기자회견에는 뉴진스 멤버인 민지, 해인, 하니, 혜인, 다니엘 모두 참석한다.&lt;br&gt;&lt;br&gt;뉴진스는 지난 13일 소속사 어도어에 민희진 어도어 전 대표의 복귀 등을 요구하는 내용 증명을 발송했다.&lt;br&gt;&lt;br&gt;이 문건에는 14일 안에 시정 요구 사항을 받아들이지 않는다면 전속계약을 해지하겠다고 밝혔는데, 뉴진스는 이날 어도어의 답변을 바탕으로 입장을 밝힐 것으로 보인다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>잠든 사이 펑펑…야행성 폭설, 올겨울 내내 덮친다</title>
-      <link>https://www.chosun.com/national/transport-environment/2024/11/28/XVI56OQEZBE3FB5ICVHWLHYSN4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2024/11/28/XVI56OQEZBE3FB5ICVHWLHYSN4/</guid>
-      <dc:creator>박상현 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 28 Nov 2024 09:27:49 +0000</pubDate>
-      <content:encoded>서울을 비롯한 중부지방에 때아닌 11월 폭설이 휩쓸고 지나갔다. 지난여름 ‘물 폭탄’에 이어 초겨울 진입기에 ‘눈 폭탄’이 쏟아진 것이다. 온난화로 뜨거워진 지구가 한반도를 둘러싼 대기와 바다의 체질을 바꿔놨기 때문이다.&lt;br&gt;&lt;br&gt;기상청에 따르면, 27~28일 한반도 북쪽에서 내려온 북극 찬 바람 등이 서해 상공에서 수증기를 추가로 공급받아 거대한 눈구름대가 형성됐다. 때마침 한반도 주변 기압 배치 구조로 인해 중부지방 부근에는 동서로 길게 ‘바람길’이 열렸고, 이를 따라 눈구름이 동쪽으로 이동하면서 서울 등 수도권을 집중 강타했다. 이 기간 경기 용인에 최대 47.5㎝의 눈이 쌓였고, 경기 군포(43.1㎝)·수원(43㎝), 서울 관악(41.6㎝), 충북 진천(40.6㎝) 등에도 40㎝ 넘는 적설이 기록됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SJQKZZXHVNHRHNQ4PGDYTRRUMA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이번 눈은 지난 26일 한반도 북쪽 상공에 절리(切離) 저기압이 형성되며 시작됐다. 절리 저기압이란 북위 30~35도 상공에서 부는 강한 바람인 ‘제트기류’의 일부가 떨어져 나온 것이다. 제트기류는 서쪽에서 동쪽으로 지구를 계속 돌면서 불며 지구 전체 공기 흐름을 원활하게 만드는 바람이다. 특히 북극 찬 바람의 남하를 가둬서 막는 방패 역할을 한다. 그런데 이 바람 중 일부가 뚝 떨어져나와 영하 40도 북극 한기를 머금은 공기 덩어리가 돼 한반도 쪽으로 내려온 것이다.&lt;br&gt;&lt;br&gt;특히 한반도 북쪽으로는 절리 저기압, 서쪽으로는 대륙 고기압이 각각 자리하면서 그 사이로 강한 바람이 불어드는 기압 구조가 만들어졌다. 마치 깔때기로 물이 모여서 쏟아져내리듯, 서해상에 광범위하게 만들어진 눈구름대는 중부지방의 인천 쪽으로 동진하면서 길고 좁게 형성된 바람길을 따라 하나로 모여들었다. 이에 한반도 내에서도 위도에 따라 극과 극의 적설량 차를 보였다. 영남권에선 경북 봉화(14.1㎝)와 경남 함양(10.6㎝), 호남권에선 충청도와 가까운 전북 진안(25.7㎝)과 전남 구례(5.1㎝)에 비교적 눈이 내렸으나 중부지방과는 차이가 컸다. 부산·울산·대구·전주등에는 눈이 아예 쌓이지 않았다.&lt;br&gt;&lt;br&gt;절리 저기압에 의해 눈이 내리는 것은 겨울에 흔히 있는 현상이지만, 이번 폭설의 적설량은 너무 많았다. 현재 서해의 해수면 온도는 평년보다 2도가량 높은 상태다. 바다는 비열(比熱·온도를 높이는 데 필요한 열량)이 크기 때문에 육지와 비교해 뜨거워질 때 서서히 뜨거워지고, 식을 때도 서서히 식는다. 지난여름 폭염에 의해 육지와 바다가 모두 뜨거워졌지만, 육지는 찬 바람이 불면 금세 식는 데 반해 바다는 아직까지 폭염의 여파가 끝나지 않은 것이다. 이에 수증기 공급이 원활해지면서 눈구름대의 덩치를 키웠다. 기상청 관계자는 “바다가 예년보다 뜨겁지 않았다면 적설량도 지금처럼 많지 않았을 것”이라고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5QZLNKEDLNHWFEL27GDD6YWDNY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;폭설피해가 이어지고 있는 28일 경기도 분당 대로변에 나무가 쓰러져 있는 모습. /김지호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이번 눈은 지난여름 ‘야행성 폭우’처럼 밤사이 집중됐다. 눈구름대는 ‘해기차’(대기와 바닷물의 온도 차)에 의해 발달한다. 바다가 이미 더운 상태에서 해가 떨어진 밤에 대기 온도가 더 내려가며 눈구름 발달을 촉진했다. 낮 동안은 눈구름대가 발달해도 이동 과정에서 녹기도 하고, 눈으로 내리더라도 영상권 기온 때문에 녹는 양이 많다. 반면 밤 동안은 영하권으로 수은주가 떨어졌던 탓에 출근길 도로에 나오면 눈이 잔뜩 쌓여 있는 모습을 볼 수 있었던 것이다.&lt;br&gt;&lt;br&gt;이런 ‘야행성 폭설’은 겨우내 반복해 찾아올 것으로 전망된다. 바다가 빠르게 식으면 문제없지만, 온난화 여파로 대기의 열을 바다가 머금은 양이 많다 보니 한겨울에 다다를 때까지 쉽게 온도가 내려가지 않을 것으로 예상된다. 이에 겨울 한복판으로 갈수록 대기는 점점 차가워지는데 바다는 여전히 덥다 보니 해기차도 점점 커져 눈구름대가 더 크게 발달할 가능성이 있는 것이다. 결국 뜨거운 바다가 여름에는 물 폭탄을, 겨울에는 눈 폭탄을 한반도로 배달하게 된 셈이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>대검, 중앙지검장 탄핵에 “다수당 부당 압력에 굴하지 않겠다”</title>
