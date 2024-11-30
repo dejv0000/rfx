@@ -13,6 +13,46 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>술병으로 자기 머리 내리쳐 ‘이별 여친’  위협한 10대 징역형</title>
+      <link>https://www.chosun.com/national/regional/chungcheong/2024/11/30/J62NNLFCW5BSTFLZXZVVNUS7ZI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2024/11/30/J62NNLFCW5BSTFLZXZVVNUS7ZI/</guid>
+      <dc:creator>박주영 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 30 Nov 2024 05:01:27 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/T6GGO2RGWOYSX26C3HFKIYHL74.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;청주지법 전경./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이별을 통보한 여자 친구를 찾아가 술병으로 자기 머리를 내리치는 등 위협하거나 스토킹을 한 10대에게 징역형의 집행유예가 선고됐다.&lt;br&gt;&lt;br&gt;청주지법 형사4단독 강현호 부장판사는 특수협박·스토킹처벌법 위반 혐의로 기소된 A(19)군에게 징역 1년에 집행유예 2년을 선고했다고 30일 밝혔다. 또 A군에 대해 40시간의 스토킹 예방 강의 수강도 명령했다. &lt;br&gt;&lt;br&gt;A군은 지난 2월 18일 오후 10시 33분쯤 충북 증평군 증평읍의 한 상가 건물 복도에서 헤어진 전 여자친구 B양을 만나 “연락하는 남자가 있냐”며 휴대전화를 빼앗고, “돌려달라”는 B양을 밀친 뒤 근처에 있던 소화기와 소주병으로 자기 머리를 내리치며 위협한 혐의 등을 받고 있다. &lt;br&gt;&lt;br&gt;A군은 같은 달 13일 B양이 이별을 통보하고 전화를 차단하자 “차단을 풀지 않으면 누구 한 명 죽이겠다”는 등의 문자를 1주일 동안 250여차례 보내거나 37차례 전화 연락을 시도하는 등 스토킹한 혐의도 받고 있다.&lt;br&gt;&lt;br&gt;강 부장판사는 “스토킹 범죄는 피해자에게 매우 큰 공포심과 불안감을 유발하고 다른 범죄로 발전할 가능성도 높아 엄한 처벌이 필요하다”면서 “피고인이 보낸 문자 내용을 보면 죄질도 불량해 엄한 처벌이 불가피하다”고 밝혔다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>오세훈, 동덕여대 시위에 “법적으로 손괴죄…공공 부담 적절치 않아”</title>
+      <link>https://www.chosun.com/national/regional/seoul/2024/11/30/IAVTEHXDFVAS3FRQD6YC7IWVBE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/seoul/2024/11/30/IAVTEHXDFVAS3FRQD6YC7IWVBE/</guid>
+      <dc:creator>안준현 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 30 Nov 2024 04:49:07 +0000</pubDate>
+      <content:encoded>오세훈 서울시장이 지난 27일 열린 한 대학 강연에 가서 “동덕여대 시위는 법적으로 손괴죄”라며 “공공이 부담하는 것은 적절치 않다”는 입장을 내비쳤다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LP3B5BGJ2A6SDXBHNH5IWGWQXE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;오세훈 서울시장이 28일 서울 용산구 서울드래곤시티호텔에서 열린 용산국제업무지구 개발계획 공동협약식에서 취재진 질문에 답하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;30일 유튜브 ‘오세훈 TV’에는 지난 27일 오 시장이 참석한 광운대 총학생회 초청 특별강연 영상 중 일부가 올라왔다. &lt;br&gt;&lt;br&gt;‘서울시가 동덕여대 시위 피해에 지원을 한다고요?’라는 제하의 영상에서 한 학생이 오 시장에게 “동덕여대 시위 피해와 관련해 서울시에서 지원할 부분이 있느냐”는 질의를 했고, 이에 오 시장은 이 같은 입장을 밝혔다.&lt;br&gt;&lt;br&gt;오 시장은 “폭력적인 형태로 인해서 학교 기물 파손이 발생한 것 아니냐”며 “법적으로 손괴죄”라고 했다. 이어 “한 마디로 법 위반으로, 법 위반을 해서 생긴 것을 공공에서 부담하는 것은 적절치 않다고 생각한다”고 했다.&lt;br&gt;&lt;br&gt;이어 “일단 수사를 해서 폭력으로, 불법으로 기물을 파손하는 것은 손괴죄”라며 “원인 제공을 한 분들이 책임지는 게 원칙”이라고 다시 한 번 강조했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/LP3B5BGJ2A6SDXBHNH5IWGWQXE.jpg?width=600&amp;height=444&amp;auth=b8f3d05d9f9d2ba006dc645cd48a66656eaf9b1420a07e0bbe604ddcd1a4fa8f&amp;smart=true" type="image/jpeg" height="444" width="600">
+        <media:description type="plain">오세훈 서울시장이 28일 서울 용산구 서울드래곤시티호텔에서 열린 용산국제업무지구 개발계획 공동협약식에서 취재진 질문에 답하고 있다. /뉴시스</media:description>
+        <media:credit role="author" scheme="urn:ebu">ryuhj</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>“왜 사라졌을까?”…고속도로 ‘自車 사고’  운전자 사흘 만에 탈진상태 발견   </title>
+      <link>https://www.chosun.com/national/regional/yeongnam/2024/11/30/TSKRP25YQ5EWDHWIEE7U46RN4E/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/yeongnam/2024/11/30/TSKRP25YQ5EWDHWIEE7U46RN4E/</guid>
+      <dc:creator>박주영 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 30 Nov 2024 04:46:10 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/L266TPHTKJSBHFQUHBMHRH63CI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산 기장경찰서 전경./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산울산고속도로에서 중앙분리대를 들이받은 후 차를 둔 채로 사라졌던 50대 운전자가 이틀 만에 탈진한 채로 발견됐다.&lt;br&gt;&lt;br&gt;30일 경찰에 따르면 지난 27일 오전 3시 32분쯤 부산 기장군 부산울산고속도로 울산 방면 장안휴게소 부근에서 50대 A씨가 운전하던 승용차가 중앙분리대를 들이받았다. 사고 후 A씨는 사라졌고, 오전 6시 19분쯤 “A씨가 귀가하지 않는다”고 가족이 경찰에 신고했다.&lt;br&gt;&lt;br&gt;경찰은 기동대, 형사, 드론까지 투입해 주변 지역을 수색하던 중 3일째인 지난 29일 오후 1시 40분쯤 사고 현장 인근 야산 숲속 산비탈에서 탈진해 쓰러져 있던 A씨를 발견했다. 경찰은 “A씨는 병원으로 옮겨져 치료 중으로 생명에 지장은 없는 상태”라며 “A씨를 상대로 정확한 경위를 조사 중”이라고 말했다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>술 취해 활어차 몰다 인천 앞바다로 추락한 60대 운전자</title>
+      <link>https://www.chosun.com/national/regional/gyeonggi-incheon/2024/11/30/GZFT3PMBRZE4RAV3773VRH35UU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/gyeonggi-incheon/2024/11/30/GZFT3PMBRZE4RAV3773VRH35UU/</guid>
+      <dc:creator>박주영 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 30 Nov 2024 04:27:54 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SMRI7HGDKREABFBOALWDU46V6M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;30일 인천 앞바다에 빠진 60대 음주운전자의 1톤 트럭이 소방당국에 의해 건져 올려지고 있다./연합뉴스 .&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;술에 취해 트럭을 몰던 60대 운전자가 인천 앞바다로 추락했다가 구조됐다.&lt;br&gt;&lt;br&gt;30일 인천소방본부 등에 따르면 이날 오전 0시 45분쯤 인천시 중구 남항부두 인근에서 1t 트럭이 바다로 떨어졌다. 이 사고로 60대 운전자 A씨가 차량과 함께 바다에 빠졌다가 119구급대에 의해 병원으로 옮겨졌다.&lt;br&gt;&lt;br&gt;소방 관계자는 “A씨는 바다에 빠진 활어차 트럭 운전석에 갇혀 있다가 입수한 구조대원들에 의해 구조됐다”며 “저체온증에 손을 다친 상태인 A씨를 병원으로 이송했다”고 말했다.&lt;br&gt;&lt;br&gt;경찰이 음주 측정을 한 결과, A씨는 혈중알코올농도가 면허 취소 수치(0.08% 이상) 수준의 만취 상태였던 것으로 드러났다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “혹시 몰라 병원에 찾아가 음주 측정을 했다”고 말했다. 경찰은 A씨를 도로교통법상 음주운전 혐의로 불구속 입건했다. 경찰은 병원 치료가 끝나는 대로 A씨를 상대로 정확한 사건 경위를 조사할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>임영웅, 자선 축구 수익금 12억원 기부...“임영웅이 또 임영웅했다”</title>
       <link>https://www.chosun.com/national/people/2024/11/30/YNU7IGBZQVELHF6O3UEJEFG5VA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/people/2024/11/30/YNU7IGBZQVELHF6O3UEJEFG5VA/</guid>
@@ -845,49 +885,6 @@
       <description/>
       <pubDate>Fri, 29 Nov 2024 06:38:47 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/X6WJ5NHZYJI43FO2KEBUYH2RYM.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;29일 경기 김포시 애기봉평화생태공원 조강전망대에 문을 연 스타벅스에서 방문객들이 북한을 바라보고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 김포시는 북한 땅을 내려다 볼 수 있는 월곶면 애기봉평화생태공원 전망대에 스타벅스가 입점했다고 29일 밝혔다.&lt;br&gt;&lt;br&gt;북한과 불과 1.4㎞ 떨어진 이곳에서는 북한 개풍군 민간 마을과 송악산을 볼 수 있다. 스타벅스가 들어올 애기봉 전망대 2층은 136㎡(약 40평) 크기다.&lt;br&gt;&lt;br&gt;김포시는 스타벅스와 협업해 ‘굿즈’(기획상품)나 시그니처(대표) 음료 등 기념품도 선보일 예정이다. 또 애기봉에 문화·예술 행사와 국제회의를 위한 복합문화시설을 신축하고, 모노레일을 설치하는 등 거점 관광단지 개발을 추진할 방침이다.&lt;br&gt;&lt;br&gt;시는 스타벅스 입점을 기념해 오는 30일 애기봉에서 팝페라, 마술 공연, 국립현대미술관의 소장품 전시, 국립극장의 미디어아트 프로그램 등 야간 특별문화행사도 연다.&lt;br&gt;&lt;br&gt;김병수 시장은 “지구촌에서 유일무이한 풍경과 아름다운 낙조를 감상할 수 있는 이곳이 이산가족의 아픔과 가족의 따뜻함을 공유하는 명소가 되길 바란다”며 “애기봉이 더욱 굳건한 글로벌 관광명소로 거듭나게 하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>다음주부터 비대면진료시 ‘위고비’ 처방제한</title>
-      <link>https://www.chosun.com/national/welfare-medical/2024/11/29/NLY6ZWPL7ZCSLLKWJ722YFSD4Q/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/11/29/NLY6ZWPL7ZCSLLKWJ722YFSD4Q/</guid>
-      <dc:creator>안준용 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 29 Nov 2024 06:05:56 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G2JISDQNIL3FGA7KWHBFNJZL3Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 17일 오후 서울 종로구 한 약국에서 약사가 비만치료제 위고비에 관해 설명하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;다음 달 2일부터는 위고비·삭센다 등 비만치료제의 비대면 진료 처방이 제한된다.&lt;br&gt;&lt;br&gt;지난달 15일 노보노디스크의 위고비 출시 이후 처방 대상이 아닌 환자도 비대면 진료 플랫폼 등을 통해 처방받는 사례가 나타나고, 이를 계기로 무분별한 오·남용과 불법 유통 우려가 커진 데 따른 조치다. 위고비 투여 대상은 체질량지수(BMI) 30 이상 비만 환자 또는 이상혈당증·고혈압 등 체중 관련 동반질환이 있는 BMI 27∼30 과체중 환자 등이다.&lt;br&gt;&lt;br&gt;보건복지부는 29일 “비대면 진료 시범사업 지침을 개정해 다음 달 2일부터 비대면 진료 시 위고비를 포함한 비만치료제 처방을 제한한다”고 밝혔다.&lt;br&gt;&lt;br&gt;이에 따라 다음 달 2일부터는 현재 비대면 진료 시범사업에 참여하고 있는 의료기관이 비만치료제를 처방해선 안 된다. 비대면 처방이 제한되는 비만치료제는 △리라글루티드(삭센다) △세마글루티드(위고비) △터제파타이드(마운자로) △오르리스타트(제니칼) △부프로피온염산염 및 날트렉손 염산염(콘트라브) 등 5종이다. 복지부는 다만 현장 혼란을 최소화하기 위해 다음 달 15일까지 2주간 계도기간을 두기로 했다.&lt;br&gt;&lt;br&gt;복지부는 내년 상반기 중 전문가·환자단체 의견을 수렴해 비만 환자를 위한 별도의 비대면 진료 제공 모형을 마련하는 방안을 검토하기로 했다. 예컨대 본인 신체기록 등을 사전 입력하도록 하고, 주기적으로 대면진료를 통해 점검하도록 하는 등 ‘인증된 방식’을 사용하는 경우 처방 제한을 풀어주는 방안 등이 거론된다.&lt;br&gt;&lt;br&gt;정부는 이와 별도로 비만치료제의 잘못된 처방, 오·남용을 예방하기 위해 대한비만학회·한국건강증진개발원 등과 올바른 체중관리법에 관한 캠페인도 추진할 예정이다.&lt;br&gt;&lt;br&gt;또 향후 희소난치 질환자, 만성질환자, 장애인, 고령자 등에 맞는 비대면 진료모형도 함께 검토할 계획이다. 정부의 비대면 진료 시범사업은 작년 6월 실시된 이후 올해 2월부터 의정 갈등 사태로 인한 진료 공백에 대응하기 위해 한시적으로 전면 허용하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>고3 가스라이팅해 자해 시키고 쓰레기 먹인 20대 무속인, 징역형</title>
-      <link>https://www.chosun.com/national/national_general/2024/11/29/BE3N5VSHOFAUBBAQLU24UAOPUQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/29/BE3N5VSHOFAUBBAQLU24UAOPUQ/</guid>
-      <dc:creator>김도연 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 29 Nov 2024 06:21:36 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KFR24NQLPP56YSJELKWRWKL3RU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 양천구 서울남부지법의 모습./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;고등학교 3학년 피해자를 심리적으로 지배하며 자해를 강요하고 협박·폭행을 일삼은 20대 무속인에 대해 법원이 징역 7년형을 선고했다. 피고인은 선고 전 ‘기습 공탁’을 했지만 피해자가 수령을 거절했다.&lt;br&gt;&lt;br&gt;서울남부지법 형사11단독 정성화 판사는 29일 오후 특수상해, 강요, 공갈, 강제추행 등 혐의로 구속기소된 박모(23)씨에 대해 징역 7년형을 선고했다. 또한 성폭력 치료 프로그램 40시간 이수를 명령했다. 앞서 검찰은 지난 결심공판에서 박씨에게 징역 10년형을 구형했다.&lt;br&gt;&lt;br&gt;정 판사는 “(피고인은) 이른바 가스라이팅으로 피해자를 심리적 지배하는 방법으로 이상 행동을 하게 해 돈을 갈취했다”며 “범행 기간이 길고 횟수가 많을 뿐 아니라 잔혹하고 엽기적으로 피해자에게 신체적, 육체적 피해를 준 것으로 죄질이 좋지 않다”고 했다.&lt;br&gt;&lt;br&gt;박씨는 선고 전 2000만원을 공탁하기도 했다. 그러나 정 판사는 “(피고인이) 공탁을 하긴 했지만 피해자가 공탁 수령을 거절했고 엄벌을 탄원했다”고 했다.&lt;br&gt;&lt;br&gt;공탁은 형사소송에선 피해자에 대한 배상금, 민사소송에선 소송비용 담보용 돈이나 지급 당사자를 찾지 못한 배상금 등을 법원이 대신 받아 맡아두는 제도다.&lt;br&gt;&lt;br&gt;이어 정 판사는 “(피고인이) 수사 단계 대부분에서 범행을 부인하다가 법정에서야 인정한 점, (피고인이) 초범인 점 등을 감안했다”고 양형사유를 설명했다.&lt;br&gt;&lt;br&gt;검찰에 따르면 지난 2021년 당시 고등학교 3학년 수험생이던 피해자 A씨에게 자신이 무속인이라며 자신의 말을 듣지 않을 경우 가족에게 위험한 일이 생길 것처럼 위협한 혐의를 받는다.&lt;br&gt;&lt;br&gt;박씨는 B씨를 2년간 심리적으로 지배하며 흉기로 자해하도록 강요하거나 음식물 쓰레기, 강아지 배설물 등을 먹인 것으로 조사됐다. 또한 박씨는 B씨에게 300만원 상당을 가로챘으며 강체추행을 하기도 한 것으로 파악됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>눈길에 운전대 잡고 컵라면 먹은 버스기사…논란 일자 사진 삭제</title>
-      <link>https://www.chosun.com/national/national_general/2024/11/29/VAHE5NG535BWZCXX4IMQLCWASE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/29/VAHE5NG535BWZCXX4IMQLCWASE/</guid>
-      <dc:creator>정아임 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 29 Nov 2024 06:03:40 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DV3BA5J4WRAMFHTBL4H7BWVBO4.png"&gt;&lt;figcaption&gt;&lt;small&gt;자신을 버스기사라고 밝힌 A씨가 폭설로 정체된 도로 위에서 컵라면을 먹는 사진을 찍어 온라인에 올렸다./온라인 커뮤니티&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한 버스기사가 폭설로 정체된 도로 위에서 운전 중 컵라면을 먹는 사진을 온라인에 올렸다가 버스회사에 민원이 제기되자 사진을 삭제했다.&lt;br&gt;&lt;br&gt;27일 한 온라인 커뮤니티에는 ‘눈길에 갇혀서 라면 먹는 중’이라는 제목의 글과 함께 사진 한 장이 올라왔다. 자신을 버스기사라고 밝힌 A씨는 “버스는 차 안에 냉온수기가 있다. 한 시간째 갇혀있어서 화가 나서 라면에 물을 부었다. 이게 유머가 아니고 뭐냐”면서 물을 부은 컵라면을 들고 있는 사진을 올렸다.&lt;br&gt;&lt;br&gt;공개된 사진을 보면 폭설로 정체된 경기도 수원의 한 고가도로 위에서 A씨가 운전석에 앉아 컵라면을 먹는 모습이 담겨 있었다. 이후 추가로 “(컵라면을) 다 먹었는데 50m 이동했다”는 댓글과 함께 텅 빈 컵라면 용기 사진도 첨부했다.&lt;br&gt;&lt;br&gt;이를 본 네티즌들은 “운전대 잡고 라면 먹는 게 정상인가? 전혀 안 웃긴데” “아무리 차가 밀린다고 해도 사고 날 수도 있다” “이거 보고 국민신문고에 바로 민원 넣었다” 등의 반응을 보였다.&lt;br&gt;&lt;br&gt;그러자 A씨는 “손님 태우러 가는 길이라 혼자다” 차가 움직여야 운전이지 않냐” “10분에 10m 가는 느낌이다” 등 추가 댓글을 남겼다. 이후 논란이 일자 A씨는 원본 글을 삭제했다. A씨의 닉네임은 자신이 운전하는 버스의 번호였는데, 한 네티즌이 회사에 민원을 넣었기 때문이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BTB7VN2A7VA2ZJV3Z4HPUWADOQ.png"&gt;&lt;figcaption&gt;&lt;small&gt;자신을 버스기사라고 밝힌 A씨가 컵라면을 다 먹었다며 사진을 올렸다./온라인 커뮤니티&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;같은 날 경기도버스운송사업조합 홈페이지에는 ‘버스 기사가 운전 중에 라면을 취식합니다’라는 제목의 민원 글이 올라왔다. 민원인은 “아무리 폭설로 느린 주행을 한다고는 하나, 운전 중 라면 섭취 같은 위험한 행위를 한 것을 자랑스럽게 인증하며, 게시물 작성까지 하는 걸 보고 안전한 버스 주행문화를 위해서는 민원을 넣어야 하겠다는 생각이 들었다”며 온라인 커뮤니티에 올라온 사진과 게시글 링크를 함께 올렸다.&lt;br&gt;&lt;br&gt;이후 A씨는 “본의 아니게 장작을 태운 것 같아서 송구스러운 마음”이라며 해명 글을 올렸다. A씨는 “오늘 눈길에 갇혀서 한 시간 동안 총 100m 이동하니 화가 나서 라면에 물을 부었다. 사이드 채우고 했다”면서도 “결코 타 운전자의 불편을 초래하거나 사고를 유발할 상황은 만들지 않았다. 앞으로는 더 주의하겠다”고 남겼다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/CZPQK3DBIVBZHPQSIC3CZS4YXE.png?width=664&amp;height=594&amp;auth=ceeed527dbbdebf09bc306466c875768d86e7e4e5d62e3684ff70eae9538a630&amp;smart=true" type="image/png" height="594" width="664">
-        <media:description type="plain">버스기사가 폭설로 정체된 도로 위에서 컵라면을 먹는 사진을 찍어 온라인에 올렸다./온라인 커뮤니티</media:description>
-      </media:content>
-    </item>
-    <item>
-      <title>금은방서 귀금속 털어간 강도… 14시간 만에 붙잡혀</title>
-      <link>https://www.chosun.com/national/regional/chungcheong/2024/11/29/R3VVCWG7NRCEHNTIEOJ2UWVGB4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2024/11/29/R3VVCWG7NRCEHNTIEOJ2UWVGB4/</guid>
-      <dc:creator>대전=김석모 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 29 Nov 2024 06:09:05 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OL3DAM5XVBCKNNGXKMQWMHH5PU.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;대전 둔산경찰서. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대전의 한 금은방에서 2000만원 상당의 귀금속을 챙겨 달아났던 40대 남성이 범행 약 14시간 만에 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;대전 둔산경찰서는 29일 강도 혐의로 A(40대)씨를 긴급체포해 조사하고 있다.&lt;br&gt;&lt;br&gt;A씨는 지난 28일 오후 8시 16분쯤 대전 서구 둔산동 한 금은방에 마스크와 모자를 착용하고 들어왔다. 그는 당시 금은방을 지키던 직원의 얼굴을 향해 페트병에 담긴 액체를 뿌리고 2000만원 상당의 순금 목걸이와 팔찌 등을 챙겨 달아났다.&lt;br&gt;&lt;br&gt;신고를 받고 출동한 경찰은 방범카메라(CCTV) 분석을 통해 강도범의 추적했고, 이튿날인 29일 오전 10시 30분쯤 둔산동의 한 상가건물에 숨어있던 A씨를 체포했다. A씨가 챙긴 귀금속도 모두 회수한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰 조사에서 A씨는 “빚도 있고 금전이 필요해 범행을 저질렀다”고 진술했다.&lt;br&gt;&lt;br&gt;경찰 조사결과 A씨는 무직에 동종 전과는 없었고, 둔산동 일대를 돌아다니다가 우발적으로 범행을 저지른 것으로 드러났다. 경찰은 범행 당시 쓰인 액체가 위험성이 없는 의약품의 일종으로 추정하고, 국립과학수사연구원에 정밀 분석을 의뢰했다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “액체에 맞은 종업원은 곧바로 병원에서 치료를 받았으며 큰 부상을 입지는 않았다”면서 “A씨를 상대로 정확한 범행 경위를 조사한 후 구속영장을 신청할 예정이다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/OL3DAM5XVBCKNNGXKMQWMHH5PU.JPG?width=398&amp;height=298&amp;auth=4157a4d5369d3587be867821741f071330cf1614457e63778eeb43155c932a2f&amp;smart=true" type="image/jpeg" height="298" width="398">
-        <media:description type="plain">대전 둔산경찰서 전경ⓒ News1</media:description>
-        <media:credit role="author" scheme="urn:ebu"/>
-      </media:content>
     </item>
     <item>
       <title>검찰, ‘레고랜드 배임’ 관련 최문순 전 강원지사 소환 조사</title>
