@@ -13,6 +13,33 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>“故김수미 추모는 없고 ‘혼외자 논란’ 정우성엔 환호?”...네티즌 와글와글</title>
+      <link>https://www.chosun.com/national/people/2024/11/30/T5QO6CX3QZH7NAHEGQZDL4L4XY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/11/30/T5QO6CX3QZH7NAHEGQZDL4L4XY/</guid>
+      <dc:creator>정아임 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 30 Nov 2024 07:33:16 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PBOXHZROKJPQHGOMRNLHJ7HCHU.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;지난 29일 서울 여의도 KBS홀에서 열린 제45회 청룡영화상 시상식에서 최다관객상 시상자로 나선 정우성./KBS&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;배우 정우성(51)이 청룡영화상에 참석해 혼외자 논란에 대해 언급하자 동료 배우들의 환호와 박수갈채가 이어졌다. 이 장면을 두고 네티즌들 사이에서는 비판의 목소리가 나오고 있다.&lt;br&gt;&lt;br&gt;정우성은 지난 29일 오후 서울 영등포구 여의도 KBS홀에서 진행된 제45회 청룡영화상에 최다관객상 시상자로 나타났다. 모델 문가비(35)와의 사이에서 혼외자를 낳은 사실을 인정한 후 처음으로 등장한 공개석상이었다.&lt;br&gt;&lt;br&gt;이날 정우성은 ‘서울의 봄’에서 호흡을 맞춘 황정민과 함께 무대에 올라 ‘서울의 봄’ 김성수 감독에게 최다관객상을 건넸다. 그러면서 최근 불거진 논란에 대해 언급했다.&lt;br&gt;&lt;br&gt;정우성은 “저는 오늘 ‘서울의 봄’과 함께했던 모든 관계자들에게 저의 사적인 일이 영화의 오점으로 남지 않기를 바라는 마음으로 이 자리에 섰다”며 “저에게 사랑과 기대를 보내주신 모든 분들에게 염려와 실망을 안겨드린 점 진심으로 죄송하다고 말씀드린다. 모든 질책은 제가 받고 안고 가겠다. 아버지로서 아들에 대한 책임은 끝까지 다할 것”이라고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6TDKN6FUSJDD3N5TFH4PY33HDI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 29일 서울 여의도 KBS홀에서 열린 제45회 청룡영화상 시상식에서 정우성이 무대에 등장하자 동료 배우들이 환호와 박수갈채를 보내고 있다./KBS&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;특히 이날 정우성이 처음 마이크를 잡고 인사할 때 카메라에는 객석에 앉은 동료 배우들이 잡혔다. 정우성과 같은 소속사인 배우 임지연(35) 등 동료 배우들은 정우성에게 뜨거운 환호와 박수갈채를 보냈다. 정우성의 모든 발언이 끝난 이후에도 박수는 이어졌다.&lt;br&gt;&lt;br&gt;이를 본 네티즌들은 “대선배니까 어느 정도 예의를 위해 박수치는 건 이해하겠지만 손 모아가면서 환호하는 건 뭐냐” “김수미, 송재림 추모는 없고 정우성은 환호하는 건 아니지 않나” “박수는 과했다. 칭찬받을 일도 응원할 일도 아니다” 등의 반응을 보였다.&lt;br&gt;&lt;br&gt;한편 문가비는 2022년 한 모임에서 정우성을 만났으며, 지난 3월 정우성의 아들을 출산한 것으로 알려졌다. 정우성 소속사 측은 지난 24일 이 같은 사실을 인정하며 “아이의 양육 방식에 대해서 최선의 방향으로 논의 중이며 아버지로서 아이에 대해 최선을 다할 것”이라고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>열차 전압 이상…서해선 홍성방향 한때 운행중단</title>
+      <link>https://www.chosun.com/national/regional/gyeonggi-incheon/2024/11/30/TSRNTH63CJDQ3GEJB7B73KLVOY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/gyeonggi-incheon/2024/11/30/TSRNTH63CJDQ3GEJB7B73KLVOY/</guid>
+      <dc:creator>박주영 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 30 Nov 2024 06:24:53 +0000</pubDate>
+      <content:encoded>&lt;br/&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QJGSBR363FAU3EOILWFIHKKUX4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서해선./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;30일 낮 12시 11분쯤 경기 화성시 남양읍 서해선 서화성역으로 향하던 ITX-마음 열차가 전압 이상으로 멈춰서 서화성역에서 열차를 기다리던 시민 35명이 승강장에서 1시간 넘게 대기했다.&lt;br&gt;&lt;br&gt;코레일 측은 이날 오후 1시 30분쯤 서화성역으로 전세버스 2대를 투입해 대기하던 시민들을 이동시켰다. 해당 전세버스는 마찬가지로 열차 운행이 중단된 서해선 화성시청역, 향남역, 안중역, 인주역, 합덕역, 홍성역 등에 정차해 시민들의 이동을 도왔다.&lt;br&gt;&lt;br&gt;이날 오후 2시 8분 홍성역에서 서화성 방면으로 운행하는 열차는 차질 없이 출발했다. 코레일 관계자는 “현재 서해선 열차 운행은 정상화된 상황”이라며 “운행이 중단됐던 열차를 기지로 보내 고장 원인을 분석할 계획”이라고 말했다.&lt;br&gt;&lt;br&gt;서해선 홍성∼서화성 구간은 연장 90㎞의 복선 전철 신설 노선으로 지난 2일 개통해 ITX-마음 열차가 하루 왕복 8차례 운행한다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>도로 위 멈춰 선 음주운전 車…뒤따르던 차량 4대 ‘쾅’</title>
+      <link>https://www.chosun.com/national/regional/gyeonggi-incheon/2024/11/30/D3VDATEEWZGJ5IMLSND55C5CG4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/gyeonggi-incheon/2024/11/30/D3VDATEEWZGJ5IMLSND55C5CG4/</guid>
+      <dc:creator>박주영 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 30 Nov 2024 06:37:28 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3VHCJVCXYJBVPJ4F2RDUCV5LBU.png"&gt;&lt;figcaption&gt;&lt;small&gt;/일러스트=조선디자인랩 이연주&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천에서 음주 운전 중 도로 위에 차량을 멈춰 세워 추돌사고를 일으킨 30대가 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;인천 논현경찰서는 도로교통법상 음주운전 혐의로 30대 A씨를 조사하고 있다고 30일 밝혔다. &lt;br&gt;&lt;br&gt;경찰에 따르면 A씨는 이날 오전 7시 35분쯤 인천시 남동구 장수고가교 인근 도로에서 술에 취한 채 승용차를 운전한 혐의를 받고 있다. A씨는 음주 운전 중 도로에 차량을 갑자기 멈춰 세웠고 뒤따르던 화물차와 덤프트럭 등 차량 4대가 잇따라 부딪혔다. &lt;br&gt;&lt;br&gt;경찰 측정 결과, 당시 A씨의 혈중알코올농도는 면허 정지에 해당하는 수치(0.03% 이상∼0.08% 미만)로 확인됐다. 경찰 관계자는 “A씨가 도로에 차량을 멈춰 세운 이유는 아직 파악되지 않고 있다”며 “정확한 사고 경위에 대해 조사할 예정”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>술병으로 자기 머리 내리쳐 ‘이별 여친’  위협한 10대 징역형</title>
       <link>https://www.chosun.com/national/regional/chungcheong/2024/11/30/J62NNLFCW5BSTFLZXZVVNUS7ZI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2024/11/30/J62NNLFCW5BSTFLZXZVVNUS7ZI/</guid>
@@ -869,24 +896,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LM4GH3BRYRG6Q6ER5PO63J6EBQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대구지방법원. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;장애를 가진 아들을 39년간 돌보다 살해한 남성에게 실형이 선고됐다.&lt;br&gt;&lt;br&gt;대구지법 형사12부는 29일 살인 혐의로 기소된 A(63)씨에게 징역 3년을 선고했다. A씨는 지난해 10월 24일 대구 남구의 주거지에서 아들인 B(39)씨를 흉기로 살해한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;B씨는 태어날 때부터 정신지체 장애를 가지고 있었고, 2014년에는 뇌출혈로 인해 1급 뇌병변 장애를 가지게 됐다. A씨는 이 해부터 일을 그만두고 B씨를 집에서 간호해왔다.&lt;br&gt;&lt;br&gt;그러던 중 2021년 3월 교통사고로 인해 A씨가 발가락을 절단하면서 후유증이 생겼다. 또 보험사로부터 보상을 제대로 받지 못하자 A씨는 정신적 스트레스가 겹치며 우울증을 앓았고, B씨를 돌보기도 어려워했다고 한다.&lt;br&gt;&lt;br&gt;판결문에 따르면 부친의 이 같은 어려움을 알게된 아들 B씨는 지난해 8월부터 A씨에게 수차례에 걸쳐 ‘같이 죽자’는 취지로 말을 건넸다고 한다. 이후 A씨는 술을 마신 뒤 집에서 목욕 중이던 아들 B씨를 흉기로 살해했다. A씨도 이 과정에서 스스로 목숨을 끊으려다 미수에 그쳤다.&lt;br&gt;&lt;br&gt;A씨의 아내와 둘째 아들은 법정에서 A씨에 대한 선처를 호소했다. 이 사안을 접한 장애인 가정 지원 단체와 장애인 자녀를 둔 몇몇 부모들도 A씨에 대해 선처를 탄원했다.&lt;br&gt;&lt;br&gt;재판부는 “A씨의 경우 39년간 아들을 보살펴왔고, 자신의 잘못을 반성하고 있는 점도 있다”면서도 “B씨가 설령 중증 장애를 갖고 있고 자신의 삶에 대해 비관적인 태도를 보였더라도 부모로서 자녀의 생명을 앗아가는 것은 정당화될 수 없다”고 했다. 또 “A씨의 아픈 현실을 고려하면서도 B씨가 겪었을 고통 역시 참작해야하며, 이번과 같은 비극이 다시 일어나지 않도록 중증 장애인을 가족으로 둔 가정에 대한 국가와 사회의 관심과 지원이 필요할 것으로 보인다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>정몽규, 축구협회장 4선 도전 직접 밝혀... “후보 심사 신청할 것”</title>
-      <link>https://www.chosun.com/national/national_general/2024/11/29/EELHXCOWHNBILLQJFWG5PTMIEU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/29/EELHXCOWHNBILLQJFWG5PTMIEU/</guid>
-      <dc:creator>김영준 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 29 Nov 2024 06:28:22 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/B6I7THQTMJAPLCA5W2ZGZ4U65M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;정몽규 대한축구협회장. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정몽규 대한축구협회장이 공개 석상에서 직접 4선 도전 의사를 밝혔다. 정 회장은 29일 서울 서대문구 스위스그랜드 호텔에서 열린 2024 K리그 시상식에 참석해 취재진을 만나 “아직 여러 절차가 있다. 추후 정리가 되면 다시 말씀드리겠다”면서도 “회장 선거 출마와 관련해 후보 심사를 신청할 예정”이라고 말했다. 정 회장은 “오늘은 K리그의 한 해 농사를 추수하는 날”이라며 회장 선거와 관련한 자세한 언급은 피했다.&lt;br&gt;&lt;br&gt;홍명보 축구 대표팀 감독 선임 과정 논란 등 축구협회의 여러 논란으로 정 회장 사퇴를 요구하는 목소리가 작지 않았지만, 정 회장은 내년 1월 열리는 차기 회장 선거에 출마를 결심했다. 정 회장이 연임을 하려면 대한체육회 스포츠공정위원회 승인을 받아야 하는데 다음 달 2일 승인 신청서를 제출할 계획으로 알려졌다.&lt;br&gt;&lt;br&gt;한편 정 회장에 도전장을 내밀고 출마를 선언한 허정무 전 대표팀 감독은 이날 성명서를 내고 “정 회장은 국민들 여망과는 달리 정반대 결정을 내리며 또 한 번 축구 팬들과 축구인들에게 큰 실망감과 좌절감을 안겼다”며 “정 회장의 4선 도전은 그 자체로 축구계의 큰 불행”이라고 비판했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘북한 거리 1.4㎞’ 김포 애기봉에 스타벅스 입점...”北 보며 커피 한 잔”</title>
-      <link>https://www.chosun.com/national/national_general/2024/11/29/L7IW5HQVRJBDJGVXYZOR5LXA4M/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/29/L7IW5HQVRJBDJGVXYZOR5LXA4M/</guid>
-      <dc:creator>김포=김현수 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 29 Nov 2024 06:38:47 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/X6WJ5NHZYJI43FO2KEBUYH2RYM.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;29일 경기 김포시 애기봉평화생태공원 조강전망대에 문을 연 스타벅스에서 방문객들이 북한을 바라보고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 김포시는 북한 땅을 내려다 볼 수 있는 월곶면 애기봉평화생태공원 전망대에 스타벅스가 입점했다고 29일 밝혔다.&lt;br&gt;&lt;br&gt;북한과 불과 1.4㎞ 떨어진 이곳에서는 북한 개풍군 민간 마을과 송악산을 볼 수 있다. 스타벅스가 들어올 애기봉 전망대 2층은 136㎡(약 40평) 크기다.&lt;br&gt;&lt;br&gt;김포시는 스타벅스와 협업해 ‘굿즈’(기획상품)나 시그니처(대표) 음료 등 기념품도 선보일 예정이다. 또 애기봉에 문화·예술 행사와 국제회의를 위한 복합문화시설을 신축하고, 모노레일을 설치하는 등 거점 관광단지 개발을 추진할 방침이다.&lt;br&gt;&lt;br&gt;시는 스타벅스 입점을 기념해 오는 30일 애기봉에서 팝페라, 마술 공연, 국립현대미술관의 소장품 전시, 국립극장의 미디어아트 프로그램 등 야간 특별문화행사도 연다.&lt;br&gt;&lt;br&gt;김병수 시장은 “지구촌에서 유일무이한 풍경과 아름다운 낙조를 감상할 수 있는 이곳이 이산가족의 아픔과 가족의 따뜻함을 공유하는 명소가 되길 바란다”며 “애기봉이 더욱 굳건한 글로벌 관광명소로 거듭나게 하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>검찰, ‘레고랜드 배임’ 관련 최문순 전 강원지사 소환 조사</title>
       <link>https://www.chosun.com/national/court_law/2024/11/29/3LD46AQ3DBFO7MD5FQGGSTHLZY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/11/29/3LD46AQ3DBFO7MD5FQGGSTHLZY/</guid>
@@ -937,15 +946,6 @@
       <description/>
       <pubDate>Fri, 29 Nov 2024 02:07:05 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NQE3C4HVVNPLPMTXCAC3L2M2WI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;인보사케이주(인보사) 성분 조작 의혹에 관여한 혐의 등으로 기소된 이웅열 코오롱그룹 명예회장이 29일 서울 서초구 서울중앙지방법원에서 열린 1심 선고 공판에서 무죄 판결을 받고 법원을 나서고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;퇴행성 관절염 유전자 치료제 ‘인보사케이주(인보사)’의 성분을 속여 정부 허가를 받고 판매한 혐의로 기소된 이웅열(68) 코오롱그룹 명예회장이 29일 1심에서 무죄를 선고받았다. 검찰이 2020년 7월 7개 혐의를 적용해 기소한지 4년4개월 만이다.&lt;br&gt;&lt;br&gt;서울중앙지법 형사24부(재판장 최경서)는 이날 약사법·자본시장법·금융실명법 위반 및 특정경제범죄법상 배임, 배임증재, 사기, 업무방해 등 7개 혐의로 기소된 이 회장에게 무죄를 선고했다. 일부 혐의는 면소(免訴·기소 면제) 판결을 내렸다.&lt;br&gt;&lt;br&gt;함께 기소된 이우석 전 코오롱생명과학 대표 등 대부분 코오롱 임원들도 무죄를 선고받았고, 코오롱 및 코오롱티슈진·생명과학도 무죄 및 면소 판결을 받았다.&lt;br&gt;&lt;br&gt;1심 법원은 “검찰의 공소사실을 대부분 인정하기 어렵다. (인보사 의혹과 관련한) 주요 쟁점들에 대한 검찰의 주장을 받아들일 수 없다”고 밝혔다. 이 회장에게 적용된 7개 공소사실에 대해서도 “증거가 없다” “고의로 보기 어렵다” “과도한 추론” “지나친 법적용”이라면서 모두 기각했다.&lt;br&gt;&lt;br&gt;국내 첫 유전자 치료제로 관심을 모았던 인보사는 2017년 식품의약품안전처 품목 허가를 받고 판매에 나섰다. 그런데 2019년 미국 식품의약국(FDA) 임상 과정에서 일부 성분이 바뀐 것이 드러나 이른바 ‘인보사 사태’로 번졌다. 당초 인보사가 허가받은 ‘연골 세포’가 아니라 ‘신장유래 세포’ 성분으로 제조·판매됐고, 상장 과정에서 코오롱 측이 이를 고의적으로 은폐했다는 의혹이 제기된 것이다. &lt;br&gt;&lt;br&gt;이에 미국은 임상을 중단했고, 국내에서는 품목 허가가 취소됐다. 시민단체가 이 회장을 고발했고, 검찰이 수사에 나섰다. 당시 서울중앙지검 형사2부장이던 이창수 서울중앙지검장이 인보사 사건 수사를 지휘해 이 회장을 기소했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>KTX 타고 강릉~부산 2시간35분만에... 동해중부선 내달 31일 개통</title>
-      <link>https://www.chosun.com/national/transport-environment/2024/11/29/WFMT4YCIH5EGFMWP6GYUPLNPNU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2024/11/29/WFMT4YCIH5EGFMWP6GYUPLNPNU/</guid>
-      <dc:creator>박상현 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 29 Nov 2024 02:09:43 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BBZDHJFRIVGKZA3CVH4BRDQFAQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;KTX-이음 열차. /조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;내달 31일 강원 삼척부터 경북 포항을 잇는 동해중부선(166.3㎞)이 개통한다고 국토교통부가 29일 밝혔다. 동해중부선은 기존 강릉~삼척, 포항~부산 철도 노선과 연결돼 앞으로 강릉에서 부산까지 동해안을 따라 열차로 이동할 수 있게 된다.&lt;br&gt;&lt;br&gt;동해중부선 구간에는 총 18개 역이 들어선다. 이 사업에는 3조 4289억원이 투입됐다. 2009년 착공해 완공하는 데 15년이 걸렸다.&lt;br&gt;&lt;br&gt;국토부는 강릉∼부산 구간에 먼저 ITX-마음을 투입해 탑승률과 열차 수요 등을 분석한 뒤 2026년부터 최대 시속 250㎞인 KTX-이음 고속열차를 투입하는 방안을 검토 중이다. ITX-마음은 강릉에서 부산까지 3시간50분, KTX-이음은 2시간35분이 걸린다. KTX-이음 기준 삼척에서 포항까지는 54분이 걸린다.&lt;br&gt;&lt;br&gt;수도권에서 충북 북부를 거쳐 경북 문경을 잇는 중부내륙선 철도도 오는 30일 운행에 들어간다. 이번에 개통하는 중부내륙선 2단계 구간은 충주역과 문경역을 잇는 39.2㎞ 신설 노선이다. 총 1조 3386억원이 투입됐다. 1단계 구간인 경기도 이천~충북 음성·충주(54㎞) 노선은 2021년 개통해 현재 KTX가 운행되고 있다.&lt;br&gt;&lt;br&gt;정식 운행이 시작되면 경기 성남 판교역을 출발해 이천~음성~충주~괴산~문경이 하나로 연결된다. KTX-이음이 이 구간을 하루 왕복 8회 운행한다. 중부내륙선 철도를 타면 판교에서 문경까지 1시간 30분이면 갈 수 있다.&lt;br&gt;&lt;br&gt;국토교통부는 2030년까지 수서~광주선, 문경~김천선, 남부내륙선(김천~거제) 철도 사업을 차례로 완공해 서울에서 거제까지 국토 중심을 관통하는 내륙 간선 철도망을 구축한다는 계획이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>대검, 중앙지검장 탄핵에 “다수당 부당 압력에 굴하지 않겠다”</title>
