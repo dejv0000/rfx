@@ -13,6 +13,19 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>“尹정권 퇴진” vs “민주당 규탄”…좌우로 갈린 광화문</title>
+      <link>https://www.chosun.com/national/national_general/2024/11/30/UJZOYGDHRRBYXC4YZIWOBG4MXY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/30/UJZOYGDHRRBYXC4YZIWOBG4MXY/</guid>
+      <dc:creator>안준현 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 30 Nov 2024 09:24:47 +0000</pubDate>
+      <content:encoded>주말인 30일 서울 광화문과 시청 일대에서 야권과 보수단체가 각각 정부를 규탄·지지하는 대규모 집회를 열어 도심권에서 극심한 교통 혼잡이 발생했다. 지난 2일 이후 서울 도심에서 5주 연속 주말 집회가 열렸다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BAG4J7VYAVK4XJFRAGCWID3FZQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;30일 오후 서울 종로구 동화면세점 앞에서 전국안보시민단체연합 등 회원들이 자유통일을 위한 주사파 척결대회를 하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 오후 5시 30분부터 민주당 등 야당과 시민단체 연합 ‘거부권비상행동’이 경복궁 동십자각 앞에서 윤석열 정권 퇴진 및 김건희 여사 특검 요구 집회를 열었다. 약 1만2000여 명이 올 것으로 경찰에 신고했다.&lt;br&gt;&lt;br&gt;앞서 민주당은 이날 오후 5시부터 사전 집회를 열었고, 촛불행동은 오후 3시부터 시청역 7번 출구 앞에서 사전 집회를 열어 정부서울청사 별관까지 약 1.2㎞를 행진했다. 전공의 등도 시청 앞에서 의대 증원 철회를 주장하는 집회를 열고 있다.&lt;br&gt;&lt;br&gt;오후 1시에는 광화문 인근 동화 면세점 앞에서 보수단체인 전국안보시민단체총연합회가 민주당 규탄 및 주사파 척결 집회를 열었다. 경찰에는 약 1만8000명이 올 것으로 신고됐지만 실제 집회 인원은 약 1000명 안팎이었다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NZFRGKYGZJPCPCKNYDISZMZP6E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;더불어민주당 이재명 대표가 30일 오후 서울 종로구 광화문 북측광장 인근에서 열린 '김건희·윤석열 국정농단 규탄·특검 촉구 제5차 국민행동의 날'에서 구호를 외치고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰은 도심 대규모 집회에 맞춰 관련 대비책을 마련했다. 집회 장소인 세종대로와 사직로 일대 반대편을 가변차로로 운영하고, 행진 시 우정국로와 남대문로 일부 도로를 가변차로로 운영해 차량 통행을 조절했다. 또, 을지로입구역 교차로~을지로2가 교차로 방향과 퇴계로2가 교차로~퇴계로1가 방향을 교통 통제하고 삼일대로와 소파로 방향으로 차량을 우회시켰다. 이 밖에 교통경찰 140여 명을 배치해 통행을 관리하고 광역버스 차량 운행을 지도했다.&lt;br&gt;&lt;br&gt;한편 이날 집회로 이날 오후 6시 TOPIS(서울시 교통정보 시스템) 기준 세종대로~광화문은 2㎞/h(정체), 종로구청~세종대로사거리 12.5㎞/h(정체), 시청광장~서울프라자호텔 12.4㎞/h(정체) 등 극심한 교통 체증을 빚었다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OSORWLEDSFHEHJJAEFN2R2PBEU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;30일 오후 서울 중구 시청역 앞에서 전공의 등이 집회를 열고 있다. /안준현 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/BAG4J7VYAVK4XJFRAGCWID3FZQ.jpg?width=6000&amp;height=3840&amp;auth=48902b80f211f811215f758fe151770261868c31d8ae4152e6c42e244cea717d&amp;smart=true" type="image/jpeg" height="3840" width="6000">
+        <media:description type="plain">30일 오후 서울 종로구 동화면세점 앞에서 전국안보시민단체연합 등 회원들이 자유통일을 위한 주사파 척결대회를 하고 있다. /연합뉴스</media:description>
+        <media:credit role="author" scheme="urn:ebu">김인철</media:credit>
+      </media:content>
+    </item>
+    <item>
       <title>“故김수미 추모는 없고 ‘혼외자 논란’ 정우성엔 환호?”...네티즌 와글와글</title>
       <link>https://www.chosun.com/national/people/2024/11/30/T5QO6CX3QZH7NAHEGQZDL4L4XY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/people/2024/11/30/T5QO6CX3QZH7NAHEGQZDL4L4XY/</guid>
@@ -885,15 +898,6 @@
       <description/>
       <pubDate>Fri, 29 Nov 2024 06:59:50 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/R5UECPVBURPBAIPNJ6EYRUESMQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대구지법/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;투자를 하면 원금을 보장하고 수익률을 높여주겠다고 속여 200억원 상당의 투자금을 가로채고 잠적했던 50대 남성에게 실형이 선고됐다.&lt;br&gt;&lt;br&gt;대구지법 형사 12부(재판장 어재원)는 29일 사기 등 혐의로 기소된 A(51)씨에게 징역 7년을 선고했다.&lt;br&gt;&lt;br&gt;A씨는 지난 2012년 12월부터 2016년 4월 사이 기업 인수 및 합병 전문가로 행세하며 투자자 104명에게 투자금 명목으로 237억원을 모은 뒤 가로챈 혐의로 기소됐다.&lt;br&gt;&lt;br&gt;A씨는 “벤처 기업인 아이카이스트에 투자하면 원금을 보장하고 연 30% 가량 수익을 거둘 수 있다”며 투자자들을 속인 것으로 파악됐다. 아이카이스트는 2011년 카이스트 출신 김성진 대표가 세운 스마트기기 분야 기술 기업이다. 그러나 김 대표 역시 회사 매출 규모 등을 부풀려 240억원 상당의 투자금을 받은 뒤 다른 용도로 사용한 혐의로 기소돼 2018년 대법원에서 징역 9년 및 벌금 31억원 형이 확정됐다.&lt;br&gt;&lt;br&gt;A씨는 지난해 7월 선고를 앞두고 잠적했다가 두달 뒤 제주에서 검거됐다.&lt;br&gt;&lt;br&gt;재판부는 “A씨는 기업 합병이나 인수에 관한 경험이나 능력이 없으면서도 자신의 경력과 자산 등을 과장해 피해자들에게 금전적 손해를 입혔다”며 “선고일에 출석하지 않고 도주한데다, 금전 피해 대부분이 회복되지 않았고 피해 회복을 위한 노력도 보이지 않는 점 등을 종합했다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>39년 키운 정신지체 장애 아들 살해한 아버지 ‘징역 3년’</title>
-      <link>https://www.chosun.com/national/incident/2024/11/29/XHRP5NYZHZBZTH3VTFSO3DIAZ4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/11/29/XHRP5NYZHZBZTH3VTFSO3DIAZ4/</guid>
-      <dc:creator>이승규 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 29 Nov 2024 06:44:10 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LM4GH3BRYRG6Q6ER5PO63J6EBQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대구지방법원. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;장애를 가진 아들을 39년간 돌보다 살해한 남성에게 실형이 선고됐다.&lt;br&gt;&lt;br&gt;대구지법 형사12부는 29일 살인 혐의로 기소된 A(63)씨에게 징역 3년을 선고했다. A씨는 지난해 10월 24일 대구 남구의 주거지에서 아들인 B(39)씨를 흉기로 살해한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;B씨는 태어날 때부터 정신지체 장애를 가지고 있었고, 2014년에는 뇌출혈로 인해 1급 뇌병변 장애를 가지게 됐다. A씨는 이 해부터 일을 그만두고 B씨를 집에서 간호해왔다.&lt;br&gt;&lt;br&gt;그러던 중 2021년 3월 교통사고로 인해 A씨가 발가락을 절단하면서 후유증이 생겼다. 또 보험사로부터 보상을 제대로 받지 못하자 A씨는 정신적 스트레스가 겹치며 우울증을 앓았고, B씨를 돌보기도 어려워했다고 한다.&lt;br&gt;&lt;br&gt;판결문에 따르면 부친의 이 같은 어려움을 알게된 아들 B씨는 지난해 8월부터 A씨에게 수차례에 걸쳐 ‘같이 죽자’는 취지로 말을 건넸다고 한다. 이후 A씨는 술을 마신 뒤 집에서 목욕 중이던 아들 B씨를 흉기로 살해했다. A씨도 이 과정에서 스스로 목숨을 끊으려다 미수에 그쳤다.&lt;br&gt;&lt;br&gt;A씨의 아내와 둘째 아들은 법정에서 A씨에 대한 선처를 호소했다. 이 사안을 접한 장애인 가정 지원 단체와 장애인 자녀를 둔 몇몇 부모들도 A씨에 대해 선처를 탄원했다.&lt;br&gt;&lt;br&gt;재판부는 “A씨의 경우 39년간 아들을 보살펴왔고, 자신의 잘못을 반성하고 있는 점도 있다”면서도 “B씨가 설령 중증 장애를 갖고 있고 자신의 삶에 대해 비관적인 태도를 보였더라도 부모로서 자녀의 생명을 앗아가는 것은 정당화될 수 없다”고 했다. 또 “A씨의 아픈 현실을 고려하면서도 B씨가 겪었을 고통 역시 참작해야하며, 이번과 같은 비극이 다시 일어나지 않도록 중증 장애인을 가족으로 둔 가정에 대한 국가와 사회의 관심과 지원이 필요할 것으로 보인다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>검찰, ‘레고랜드 배임’ 관련 최문순 전 강원지사 소환 조사</title>
