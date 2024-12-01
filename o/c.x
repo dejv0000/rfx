@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>[단독] 의사 지원 꺼리는 박봉 보건소장… 한의사·간호사·약사로 채워</title>
+      <link>https://www.chosun.com/national/welfare-medical/2024/12/02/RGYTTFW3HJBEDMEN5TSMERODSI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/12/02/RGYTTFW3HJBEDMEN5TSMERODSI/</guid>
+      <dc:creator>정해민 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 01 Dec 2024 20:04:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BJQG2AEICFH2TAYA4TAP6NSUVM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 13일 강원도 속초시보건소에서 한의사 출신 박중현 보건소장이 업무를 보고 있다. /고운호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;강원도 속초시 보건소장 박중현(49)씨의 원래 직업은 한의사다. 지난 9월부터 보건소장으로 일하기 위해 속초중앙시장에서 운영하던 한의원 문을 닫았다. 박 소장은 “보건소 정책을 통해 지역사회 주민들에게 도움이 되고 싶어서 소장직에 지원했다”며 “사각지대에 놓인 고령자들을 돌보는 데 한의사 경험이 큰 도움이 될 것 같다”고 했다.&lt;br&gt;&lt;br&gt;속초시 보건소에서 차로 30분 거리에 있는 강원 고성군 보건소의 백성숙(64) 소장은 간호사 출신이다. 지난 10월 말 보건소장으로 부임한 그는 “간호사는 소통을 잘할 수 있어 주민들의 요구를 세심하게 찾아내고 도와드려야 하는 보건소의 기능에 딱 맞는 직역”이라고 말했다.&lt;br&gt;&lt;br&gt;낮은 보수와 높은 업무 강도로 의사들이 지원을 꺼리는 보건소장 자리에 한의사, 간호사 등 다른 직역들의 진출이 늘고 있다. 보건소장은 연봉이 6000만원대다. 진료는 거의 하지 않지만 보건소의 사업을 지휘하면서 인력·시설 관리 등 행정 전반을 책임진다.&lt;br&gt;&lt;br&gt;원래는 의사나 보건 관련 공무원만 보건소장을 할 수 있었다. 그런데 개정 지역보건법이 시행된 지난 7월부터 치과의사·한의사·간호사·조산사·약사 등도 보건소 근무 경력 없이 보건소장에 지원할 수 있도록 허용했다. 현재까지 속초시 보건소와 부산 서구 보건소가 한의사 보건소장을, 고성군 보건소가 간호사 보건소장을 각각 임명했다. 보건복지부에 따르면 10월 말 기준 보건소장 자리가 공백인 보건소는 전국 261곳 중 13곳이다.&lt;br&gt;&lt;br&gt;박중현 속초시 보건소장은 연세대 전자공학과를 졸업하고 IT 벤처기업에 다니다 한의사가 된 경우다. 벤처기업에서 약 3년간 모바일 앱 서버 설치와 수리를 담당하다가, 서른에 수능을 다시 봐 전액 장학금을 받고 강원 원주 상지대 한의학과에 수석 입학했다. 경기도 용인에서 한의원을 운영하다 2016년 속초로 한의원을 옮겨 일하면서 석사(한방재활의학) 학위도 취득했다.&lt;br&gt;&lt;br&gt;박 소장은 “속초시 한의사회 총무로 활동하면서 시청 공무원과 시의원들을 만날 때 좋은 인상을 받았다”며 “시민들에게 봉사하고 헌신하고 싶다는 꿈이 생긴 계기”라고 했다. 그는 “개인적으로 노인 의료 돌봄 통합 지원 시범 사업에 관심이 많다”며 “한의사 보건소장으로서 한의학이 비(非)과학으로 치부되는 사회적 분위기를 깨는 데 일조하고 싶다”고 했다.&lt;br&gt;&lt;br&gt;그는 “한의대에서 카데바(해부 실습용 시신) 해부 실습을 한다는 사실을 모르는 분도 많을 것”이라고도 했다. 지방의 의료 인력 부족 현상과 관련해서는 “의사와 한의사가 진료 업무를 나눠서 하면 좋을 것”이라며 “필요하다면 의사가 한의사들을 지휘하도록 할 수도 있을 것”이라고 제안했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Q7VIIXKQWVBTVA5IH5OZU3UUSY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 13일 강원도 고성군보건소에서 간호사 출신 백성숙(오른쪽) 보건소장이 직원과 함께 업무를 보고 있다. /고운호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;간호사 출신의 백성숙 고성군 보건소장은 가톨릭대 간호학 박사 학위를 취득하고 병원 응급실과 산부인과 등에서 근무했다. 강원도에서 30여 년간 보건교사와 수석 교사도 지냈다. 그동안 감염병 관리 제도 개선, 약물 오남용 예방 등 연구 논문도 발표했다.&lt;br&gt;&lt;br&gt;백 소장은 “보건 교사로 일하면서 건강 문제가 있거나 가정 환경이 안 좋은 학생들을 많이 만났고 간호사 때 다양한 계층의 환자를 봤다. 그런 경험을 살려 지역에 봉사하고 싶다”고 했다. 백 소장은 보건소 소속 간호사들이 지역 노인을 찾아가는 방문 간호 프로그램을 신체 관리 위주에서 우울증 등 정신 건강 관리까지 확대할 계획이라고 설명했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>일 산더미 복지부 ‘그로기’... 딴 쪽은 “예산 깎이면 일도 줄겠지, 땡큐!”</title>
       <link>https://www.chosun.com/national/2024/12/02/SATNW2HHQ5CDBKGT4HO5X6OB6A/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/2024/12/02/SATNW2HHQ5CDBKGT4HO5X6OB6A/</guid>
@@ -921,16 +930,6 @@
       <description/>
       <pubDate>Fri, 29 Nov 2024 15:30:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EVZHXFKW6ZHCJPR7FGCGCVSDKU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;넷플릭스 드라마 '트렁크'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;▶넷플릭스 드라마 ‘트렁크’&lt;br&gt;&lt;br&gt;기간제 결혼으로 한집에 살게 된 한정원(공유)과 노인지(서현진)를 중심으로 회전하는 미스터리 멜로. 호숫가에 트렁크가 떠오르면서 비밀스러운 결혼 서비스와 두 남녀의 이상한 결혼 이야기가 개봉된다. 가족 같은 건 없는 편이 나을 수도 있지만, 가짜 결혼을 붙들고라도 외로운 걸 들키기 싫은 사람들이 있다. 가짜가 진짜가 될까 봐 두려운 심리 또한 존재한다. 예고편만으로 기대되는 드라마. 29일 넷플릭스로 공개됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OOPU2HGXENFHTJY3GQ73CBUMDI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;뮤지컬 '아이참'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;▶뮤지컬 ‘아이참’&lt;br&gt;&lt;br&gt;배경은 1930년대 경성. 태어난 모습대로 사는 것을 거부하는 여자가 등장한다. 이름은 석주. 멋을 욕망한 석주는 경성 최초로 쌍꺼풀 수술을 받기로 결심한다. 미용사도 예술가라고 생각한 그녀는 죽이 잘 맞는 구호의 도움을 받아 ‘석주 미용실’을 개업하는데. 어느 날 미용실에 화재가 발생하면서 펼쳐지는 이야기다. 제목은 영어로 ‘Eye Charm’. 배우 방진의와 장윤주가 석주 역을 나눠 맡는다. 12월 29일까지 서울 정동극장.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ONWMJNW2TNFU3KKF45JQZGG5U4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;농심배 세계바둑최강전&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;▶농심배 세계바둑최강전&lt;br&gt;&lt;br&gt;김명훈 9단이 ‘바둑 삼국지’ 농심 신라면배에서 3연승에 도전한다. 김명훈은 30일 부산에서 재개하는 제26회 농심배 세계 바둑 최강전 2차전(5~9국) 첫 경기에서 중국의 판팅위 9단을 만난다. 한국의 두 번째 주자인 그는 지난 9월 중국 옌지에서 열린 대회 1차전에서 중국의 커제와 일본의 이야마 유타를 꺾고 2연승을 달렸다. 농심배에서 강한 판팅위와 상대 전적은 김명훈이 1패 후 3연승으로 앞서 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>베트남 호텔 가요, 산호초 심으러</title>
-      <link>https://www.chosun.com/national/weekend/2024/11/30/J6INEMWBMRGDXM5X6E5G637HMQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/weekend/2024/11/30/J6INEMWBMRGDXM5X6E5G637HMQ/</guid>
-      <dc:creator>정상혁 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 29 Nov 2024 15:20:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SXRWDQCKTJDGVM7PPJGN3NMHCI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;바다에 산호초를 심을 수 있는 '코랄 디스커버리' 체험 프로그램. /그란 멜리아 나트랑
-&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;산에는 나무, 바다에는 산호를 심는다. 환경을 위해서다.&lt;br&gt;&lt;br&gt;베트남 나트랑 해안의 고급 리조트 ‘빌라 르 코레일, 그란 멜리아 호텔 나트랑’이 올해 본격적인 산호 복원 장기 프로젝트에 착수했다. 호텔 관계자는 “‘착한 여행’(Travel for Good) 프로그램의 일환”이라며 “쓰레기 감축 및 윤리적 원자재 조달 정책 등으로 지역 사회에 긍정적인 변화를 일으키고자 한다”고 말했다. 향후 황폐해진 5만㎡ 해역에 산호초를 심고, 해안 숲에는 1000그루의 맹그로브 나무를 심을 계획이다.&lt;br&gt;&lt;br&gt;호텔 투숙객도 동참할 수 있다. 요트나 배를 타고 근접한 찌 응우옌 섬(Tri Nguyen Island)으로 떠나 산호 조각을 산호초에 부착하는 교육 프로그램 ‘코랄 디스커버리’다. 2시간, 5시간 코스 중 선택할 수 있고 모든 연령층에게 열려있다. 현재까지 호텔 인근 2100㎡ 면적의 산호가 복원됐고, 추가로 2000㎡가 ‘산호 양식장’으로 지정된 상태다. 전세계적으로 해양 생물의 25% 정도가 산호초에 의존하는 것으로 추정된다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>117년 만의 눈폭탄에도 이 도로는 ‘뽀송’…비결 뭐길래?</title>
