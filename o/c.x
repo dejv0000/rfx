@@ -13,6 +13,19 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>성악가 김동규 “지인에 100억 사기, 전재산 날려... 죽고 싶었다”</title>
+      <link>https://www.chosun.com/national/national_general/2024/12/01/GJYYA5SKVZDILPB7GJ2BV2NUEE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/01/GJYYA5SKVZDILPB7GJ2BV2NUEE/</guid>
+      <dc:creator>박선민 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 01 Dec 2024 12:19:47 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/73ANSVTUBRLOG2ZZPLO65VHLWY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;성악가 김동규. /조선일보DB &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;유명 성악가 김동규가 지인으로부터 100억원 규모의 사기를 당한 사연을 털어놨다.&lt;br&gt;&lt;br&gt;김동규는 지난달 30일 방영된 MBN 예능 프로그램 ‘가보자고(GO)’에서 “진짜 죽고 싶었던 때가 그때”라며 가장 믿었던 지인으로부터 사기를 당했다고 했다.&lt;br&gt;&lt;br&gt;김동규는 “두 배로 만들어준다는 말에 그냥 서류도 안 보고 사인했다”며 “오래된 지인이었다. 사업하다 망하니까 사기 치게 만들더라. 피해 금액은 100억 정도였다. 전 재산을 다 날렸다“고 했다. 이어 “당시 앞이 깜깜했다. 다행히 지금은 잘 이겨냈다”며 ” 이후로는 누가 돈을 빌려달라고 하면 그냥 주지 빌려주지는 않는다”고 했다.&lt;br&gt;&lt;br&gt;김동규는 아내와 이혼한 사실도 언급했다. 김동규는 1992년 동료 성악가와 결혼해 슬하에 아들 한명을 뒀으나, 1999년 이혼했다. 김동규는 “7년 살고 정리했다”며 “내 문제점은 내가 안다. 서로 배려할 수 있는 한계에 다다르면 헤어지는 게 나을 수 있다”고 했다.&lt;br&gt;&lt;br&gt;앞서 김동규는 작년 4월 SBS플러스 ‘김수미의 밥은 먹고 다니냐?’에서도 사기 피해를 고백했던 바 있다. 당시 김동규는 “부모님이 다 예술가라 교육 패턴이 굉장히 달랐다. 경제 교육이 전혀 없었다”며 “사기당한 액수가 104억원인데 이자를 아직도 갚고 있다”고 했다. 그러면서 “내 돈만 들어간 게 아니라 가족 돈도 있다”고 했다.&lt;br&gt;&lt;br&gt;김동규는 사기를 당하게 된 과정에 대해 “아는 형이 ‘은행에 두면 뭐 하냐. 내가 내후년에 두 배로 불려줄게’ 하더라. 그러면 갑자기 재벌이 되겠다는 상상을 하게 된다”며 “사기라는 게 웃긴 게 상황이 그걸 만들더라”라고 했다.&lt;br&gt;&lt;br&gt;바리톤 김동규는 한국을 대표하는 성악가로, 1989년 오페라 ‘세비야의 이발사’로 국내에서 데뷔한 이후 이탈리아로 유학을 떠나 베르디 국립음악원에 수석 입학했다.&lt;br&gt;&lt;br&gt;25세 나이에 동양인 최초로 유럽 3대 오페라 극장으로 손꼽히는 이탈리아 ‘라 스칼라’ 극장의 주연에 발탁됐으며, 이곳에서 ‘에토르 김’이라는 이름으로 전성기를 맞았다. 라 스칼라 극장은 플라시도 도밍고, 루치아노 파바로티 등 세계적인 성악가들이 활동했던 무대다.&lt;br&gt;&lt;br&gt;1999년 이혼 이후 김동규는 한국으로 돌아와 ‘10월의 어느 멋진 날’이라는 노래를 만들었다. 김동규는 이 곡에 대해 과거 한 방송에서 “개인적으로나 음악적으로 전환점이 된 노래”라며 “나를 위로할 수 있는 노래를 만들어 볼까 해서 만든 곡”이라고 애정을 드러냈다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/2RAWTBOOFZC4TOGH5OMKD23VJI.jpg?width=404&amp;height=227&amp;auth=feebc27cfc6e6d8962c90b2af73ff6be0a6c461fa467485557fd4888557f930b&amp;smart=true" type="image/jpeg" height="227" width="404">
+        <media:description type="plain">24일 서울 프라자호텔에서 열린 '아리랑 아라리요' 발표회에서 성악가 김동규씨가 '아리랑'을 부르고 있다.</media:description>
+        <media:credit role="author" scheme="urn:ebu"/>
+      </media:content>
+    </item>
+    <item>
       <title>김희경 전 여가부 차관 “정우성 아들, 혼외자라고 부르지 말자”</title>
       <link>https://www.chosun.com/national/national_general/2024/12/01/CILHDJRA2VHJNMS7BPTH764SSY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/01/CILHDJRA2VHJNMS7BPTH764SSY/</guid>
@@ -963,15 +976,6 @@
       <media:content url="https://www.chosun.com/resizer/v2/EEVP6H7AHBDJ3NLD4Q53JITJGA.jpg?width=1280&amp;height=720&amp;auth=050581bedb88bd22c22fde073182c5494cfe4cefbce02f937bb22b9961d974d1&amp;smart=true" type="image/jpeg" height="720" width="1280">
         <media:description type="plain">지난 26일 광주광역시 북구 석곡천에 빠져 있는 실종 치매노인을 경찰이 구조하고 있다. /광주경찰청</media:description>
       </media:content>
-    </item>
-    <item>
-      <title>검찰, ‘불법자금 수수’ 김용에 2심서 징역 12년 구형... “죄의식 없어”</title>
-      <link>https://www.chosun.com/national/court_law/2024/11/28/6IO6I2H7QJFJ3L6YQJ66UNRL6U/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/11/28/6IO6I2H7QJFJ3L6YQJ66UNRL6U/</guid>
-      <dc:creator>박강현 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 28 Nov 2024 05:25:36 +0000</pubDate>
-      <content:encoded>대장동 일당으로부터 금품을 받은 혐의 등으로 재판에 넘겨진 김용 전 민주연구원 부원장에게 검찰이 2심에서 징역 12년을 선고해달라고 요청했다. 앞서 검찰은 1심에서도 징역 12년을 구형했지만, 1심 재판부는 김씨에게 징역 5년을 선고했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YE7Y5HRATZN4FJFOPW7C37E5WE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김용 전 민주연구원 부원장이 28일 오전 서울 서초구 서울고등법원에서 열린 '불법 대선자금 수수' 관련 2심 결심 공판에 출석하고 있다.  /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰은 28일 서울고법 형사13부(재판장 백강진) 심리로 열린 김씨의 정치자금법 위반·특정범죄 가중처벌 등에 관한 법률 위반(뇌물) 혐의 관련 결심(結審) 공판에서 “김씨에게 징역 12년과 벌금 3억8000만원을 선고하고 7억9000만원의 추징을 명령해달라”고 요청했다.&lt;br&gt;&lt;br&gt;그러면서 공범인 유동규(전 성남도시개발공사 기획본부장)씨에게는 징역 1년 6개월, 정민용(전 성남도개공 전략사업실장)씨에겐 각각 징역 1년을 구형했다. 자금 공여자인 남욱(천화동인 4호 소유주) 변호사에겐 징역 1년을 선고해달라고 했다.&lt;br&gt;&lt;br&gt;검찰은 먼저 “피고인들은 이미 10년 전부터 대장동 개발 비리를 매개로 유착을 형성해 이들 사이에서 이권 대가 금품 수수는 늘 있던 익숙한 일”이라며 “이들에게 필요한 건 그 무대를 지방자치단체장에서 대통령으로 옮기는 것으로 ‘바늘 도둑이 소도둑 된다’는 속담이 이 사건을 정의할 것”이라고 운을 뗐다.&lt;br&gt;&lt;br&gt;이후 검찰은 차례대로 양형 참작 사유를 밝혔다. 김씨에 대해선 “처음부터 수단과 방법을 가리지 않고 일단 선거에서 이기면 죄를 다 덮을 수 있다고 생각하는 등 죄의식이 없었던 게 아닌가 싶다”며 “거액의 뇌물성 정치자금을 수수해 죄질이 매우 불량한데도 범행 반성은커녕 수사기관과 법정에 이르기까지 범행을 부인하고 있다. 그저 이 순간만 모면하면 범행이 사라진다고 믿고 있는 것 같다”고 지적했다.&lt;br&gt;&lt;br&gt;유씨에 대해선 “수사기관에서부터 이 법정에 이르기까지 범행을 모두 인정하고 깊이 반성하고 있다. 유씨가 자백하고 수사에 협조하면서 이전까지 피고인과 ‘한 편’인 쪽에선 유씨가 배신자라 낙인찍고 원망하기 시작했다”면서도 “이번 범행에 주요 공범인 동시에 정치자금법 범죄 신고자라는 사실을 잊어서는 안 된다”고 설명했다.&lt;br&gt;&lt;br&gt;아울러 검찰은 정씨에 대해선 “김씨를 위해 공여자 남욱 사이를 오가며 실제 전달자 역할을 하는 등 가담 정도가 그렇게 중하지 않고 사실관계를 시인하고 있다”고 했고, 남씨에 관해선 “범행을 모두 자백하고 있고, 피고인의 자백과 증거 제출이 없었다면 수사와 재판 과정에서 실체적 진실을 밝히는데 난항을 겪었을 것”이라고 하기도 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BAJG6FCYOJKF3DKVEV3VVNHO7M.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;김용 전 민주연구원 부원장(왼쪽부터)과 유동규 전 성남도시개발공사 본부장, 남욱 변호사. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이재명 더불어민주당 대표의 최측근으로 분류되는 김씨는 ‘불법 정치 자금 수수’와 관련해 당내 대선 예비경선 전후인 지난 2021년 4~8월 남씨에게 이 대표의 대선 경선 자금 지원을 요구하고, 유씨와 정씨를 통해 8억4700만원을 수수한 혐의 등을 받는다. 당시 김씨는 이재명 민주당 대선 후보 경선 캠프 총괄부본부장으로 이 대표가 열세이던 호남 지역 조직 구축과 지지 세력 확보에 주력하고 있었다.&lt;br&gt;&lt;br&gt;앞서 1심은 이 가운데 6억원은 김씨에게 전달됐으며, 나머지 2억4700만원은 유씨가 김씨에게 전달하지 않은 것으로 인정했다.&lt;br&gt;&lt;br&gt;또 김씨는 2013년 2월~2014년 4월 성남시의회 도시건설위 상임위원으로 재직하며 성남도개공을 설립, 대장동 개발 사업 관련 편의 제공 등을 대가로 유씨로부터 4차례에 걸쳐 총 1억9000만원을 받은 혐의도 있는데, 1심은 ‘이 가운데 김씨가 유씨에게 2013년 4월 건네받은 7000만원 부분을 유죄로 판단했다.&lt;br&gt;&lt;br&gt;남씨는 불법 정치자금 6억원을 마련해 유씨를 통해 김씨에게 준 혐의로 징역 8개월을 선고받았고, 유씨와 정씨는 중간 전달만 했다는 이유로 무죄를 선고 받았다. 이들이 김씨에게 불법 자금을 건네는 과정에 관여한 건 맞지만, 법리적으로 불법 자금을 수수한 ‘공범’으로 볼 수는 없다는 취지였다.&lt;br&gt;&lt;br&gt;이날 김씨 측 변호인은 2심 구형에 대해 “검찰은 김씨에 대해선 법정 최고형인 12년을 구형한 반면 유동규, 남욱, 정민용에 대해선 사실상 선처를 요구했다”며 “이는 김씨에 대해 검찰이 정치적 반감을 드러낸 것이고, 유동규, 남욱, 정민용의 허위 진술에 대한 보상이자 특혜”라고 주장했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
