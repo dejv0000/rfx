@@ -13,6 +13,49 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>투망 작업 중 선원 3명 신안 바다 추락… 2명 사망, 1명 중상</title>
+      <link>https://www.chosun.com/national/regional/honam/2024/12/01/3GL7GMFK5JE3XIAKRQB45GZDJI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/honam/2024/12/01/3GL7GMFK5JE3XIAKRQB45GZDJI/</guid>
+      <dc:creator>신안=조홍복 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 01 Dec 2024 03:01:56 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/B4KLNHVZ7BN2XDFT6Y3IV5IAHM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 11월 30일 오전 전남 신안군 임자도 해상에서 투망 작업 중이던 어선 선원 3명이 바다로 추락해 2명이 숨졌다. 사진은 사고 선박 모습./목포해양경찰서&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전남 신안 바다에서 조업하던 어선에서 선원 3명이 바다에 빠져 이 중 2명이 숨졌다.&lt;br&gt;&lt;br&gt;1일 목포해양경찰서에 따르면 전날 오전 11시 33분쯤 신안군 임자도 북쪽 4㎞ 해상에서 ‘근해자망’ 16t급 신안 선적 A호 선원 3명이 바다로 추락했다. 선장을 포함해 모두 7명이 탑승한 이 어선은 그물을 바다에 던지는 작업 중이었다. &lt;br&gt;&lt;br&gt;바다에 빠진 3명 중 40대 선원은 머리를 심하게 다쳐 현장에서 심정지 상태로 발견됐고, 다른 50대 선원은 중상을 입고 병원으로 이송됐으나 치료 중 사망했다. 중상을 당한 또 다른 선원은 현재 치료를 받고 있다.&lt;br&gt;&lt;br&gt;사고 어선은 어장에 걸그물(자망)을 드리우는 방법으로 어로 행위를 했다. 사고 당시 선원들은 투망 작업을 하다가 추락한 것으로 알려졌다. &lt;br&gt;&lt;br&gt;해경 관계자는 “그물을 던지는 순간 뭔가가 ‘탁’ 굉음과 함께 선원들을 덮쳤다는 증언을 확보했다”며 “음주 측정을 한 선장 몸에서 알코올 성분은 나오지 않았다” 말했다.&lt;br&gt;&lt;br&gt;해경은 바다로 쓸려가던 어구 등에 타격을 받아 선원들이 추락했을 가능성 등을 포함해 정확한 사고 경위를 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/B4KLNHVZ7BN2XDFT6Y3IV5IAHM.jpg?width=1210&amp;height=907&amp;auth=c5953f60e6a7588c34c9db72a469f535fca793f1cc016b511957fbfe582274be&amp;smart=true" type="image/jpeg" height="907" width="1210">
+        <media:description type="plain">&lt;YONHAP PHOTO-2934&gt; 투망 작업 어선서 선원 3명 추락
+    (신안=연합뉴스) 1일 목포해양경찰서에 따르면 전날 오전 전남 신안군 임자도 해상에서 투망 작업 중이던 어선 선원 3명이 바다로 추락해 2명이 숨졌다. 사진은 사고 선박의 모습. 2024.12.1 [목포해양경찰서 제공. 재판매 및 DB 금지]
+    pch80@yna.co.kr/2024-12-01 10:38:12/
+&lt;저작권자 ⓒ 1980-2024 ㈜연합뉴스. 무단 전재 재배포 금지, AI 학습 및 활용 금지&gt;</media:description>
+        <media:credit role="author" scheme="urn:ebu">광주전남취재본부</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>지역 맞춤형 비자 나온다...법무부, 내년부터 시범사업</title>
+      <link>https://www.chosun.com/national/court_law/2024/12/01/HBWOK56BYJDSNNMX5PFN4YXWRQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/01/HBWOK56BYJDSNNMX5PFN4YXWRQ/</guid>
+      <dc:creator>유종헌 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 01 Dec 2024 03:00:00 +0000</pubDate>
+      <content:encoded>지역별 맞춤형 체류 비자 발급 시범사업이 내년부터 실시된다.&lt;br&gt;&lt;br&gt;법무부는 2025~2026년 ‘광역형 비자 시범사업’을 실시한다고 1일 밝혔다. 이번 달부터 광역지자체 대상 공모 절차가 시작된다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FMIKU47EYKGMSS6GOW7EZGE2SI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기도 과천 법무부 청사 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;기존 비자는 전국적으로 동일한 기준으로 운영돼 왔다. 반면 광역형 비자는 광역지자체가 지역 특성을 반영한 비자 제도를 직접 설계해 운영하게 된다.&lt;br&gt;&lt;br&gt;시범사업에서는 유학 비자(D-2)와 특정활동 비자(E-7)를 대상으로 광역형 비자가 운영된다. 유학 비자는 정규 학위 취득 과정에 해당하는 외국인을 대상으로 학력을 제외한 부분을 각 지자체가 실정에 맞게 설계하게 된다. 유학생의 취업 허가 여부, 제출 서류 및 비자 심사 요건 등을 지자체가 직접 정할 수 있게 되는 것이다. 특정활동 비자 역시 E-7-1~3(전문인력·준전문인력·일반기능인력) 비자에 해당하는 직종 중 학력, 경력, 소득 요건, 제출 서류 등 요건을 지자체가 설계한다.&lt;br&gt;&lt;br&gt;사업 대상 지자체는 별도로 구성될 광역형 비자 심의위원회 평가를 통해 선정되게 된다. 심의위원회는 법무부 차관이 위원장으로, 관련 부처 실무자와 민간 전문가가 위원으로 참여한다.&lt;br&gt;&lt;br&gt;법무부는 연도별 평가를 실시하고, 높은 점수를 획득한 지자체에는 외국인 비자 발급 절차 간소화 및 쿼터 확대 등 혜택을 줄 예정이다. 반대로 낮은 점수를 받은 지자체는 사업 중단, 쿼터 삭감 등 불이익을 받을 수 있다.&lt;br&gt;&lt;br&gt;연도별 평가 기준에는 각 지자체가 실시한 외국인 사회 통합 정책이 주요 항목으로 포함된다. 이외에도 쿼터 충원율, 사회 통합 정책 참여율, 불법 체류율, 지역 내 외국인 구성 비율 등이 평가 항목에 포함될 예정이다.&lt;br&gt;&lt;br&gt;박성재 법무부 장관은 “광역형 비자 시범사업은 국가 이민정책과 지역사회 발전의 연결 고리를 만드는 첫걸음”이라며 “앞으로도 지역 특성을 반영한 맞춤형 이민정책을 적극적으로 추진하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>인천공항에서 휴대전화‧신용카드 훔쳐 생활…일본인 20대 여성 ‘징역형’</title>
+      <link>https://www.chosun.com/national/court_law/2024/12/01/TX74AEIM2RGHXE6YZVBR6EG3RU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/01/TX74AEIM2RGHXE6YZVBR6EG3RU/</guid>
+      <dc:creator>인천=이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 01 Dec 2024 01:40:58 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MKW35UT7KIG2JBOQJ7D4EDYRKU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;인천국제공항 제1여객터미널 출국장. (사진은 기사 내용과 직접적인 관계 없음.) /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천국제공항에서 휴대전화와 신용카드 등을 훔쳐 사용한 일본인 20대 여성에게 징역형이 선고됐다.&lt;br&gt;&lt;br&gt;인천지법 형사2단독 김지후 판사는 절도와 사기 등 혐의로 기소된 A씨에 대해 징역 6개월을 선고했다고 1일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 9월 6일부터 같은 달 15일까지 인천 중구 인천국제공항 제1여객터미널에서 B씨의 카드지갑과 휴대전화를 훔치는 등 총 3차례에 걸쳐 228만원 상당의 금품을 훔친 혐의 등으로 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;A씨는 훔친 휴대전화로 모 숙박 예약 사이트에서 50여만원의 대금을 결제하는 등 9차례 걸쳐 157만원을 쓰고, 훔친 신용‧체크카드로 공항 음식점 등에서 33차례에 걸쳐 108만원을 결제한 혐의도 받고 있다.&lt;br&gt;&lt;br&gt;A씨는 공항 출국장 체크인 카운터 앞 휴대전화 충전대에서 여행객이 잠시 자리를 비운 틈을 이용해 충전 중인 휴대전화를 훔치는 등의 방식으로 범행한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;김 판사는 “(피고인의) 죄질이 불량하고 범행 횟수와 장소, 피해 금액 등에 비춰 죄책이 가볍지 않고 피해자들과 합의되지 않았다”며 “피고인이 잘못을 인정하고 반성하는 점, 국내에서 처벌받은 전력이 없는 점, 절도 피해품이 각 피해자에게 반환된 점 등을 고려했다”고 양형 이유를 설명했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>﻿대문 없이 천막으로 가린 집…기차역 화장실 쓰는 14세 소녀의 사연</title>
+      <link>https://www.chosun.com/national/national_general/2024/12/01/Y6C2XVQBEJBWFJZY7TKVGM6V2Q/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/01/Y6C2XVQBEJBWFJZY7TKVGM6V2Q/</guid>
+      <dc:creator>이가영 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 30 Nov 2024 23:46:19 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DLMECCMXJJCR7PZ3OUJG32GL5E.png"&gt;&lt;figcaption&gt;&lt;small&gt;수리 전 현주(가명·14)양이 살던 집의 전경(왼쪽)과 변기 뚜껑만 얹어놓은 재래식 화장실. /이랜드복지재단&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“매일 아침 곰팡이 냄새와 함께 눈을 떴어요. 학교에서 단체 과제를 할 때면 늘 다른 친구네 집으로 가요. 우리 집에는 아무도 초대할 수 없었거든요.”&lt;br&gt;&lt;br&gt;현주(가명‧14세)양의 집은 아버지가 운영하는 중국요리점에 딸린 창고였다. 나무판자와 비닐로 덧댄 공간에는 제대로 된 출입문도 없었다. 천막으로 가려놓은 미닫이문이 전부였다. 이곳으로는 여름철 찜통 같은 열기와 겨울철 냉골 바람이 그대로 들이쳤다.&lt;br&gt;&lt;br&gt;벽지 문양의 시트지를 붙여 집 구색만 갖춘 가건물에 보일러 사용은 여의찮았다. 제대로 된 창문도 없다 보니 집안 곳곳은 곰팡이와 쥐들의 오줌 냄새로 숨쉬기조차 힘들었다.&lt;br&gt;&lt;br&gt;현주에게 가장 힘든 건 재래식 화장실이었다. 세면대는커녕 변기 뚜껑만 올려놓은 임시 변기에서 볼일을 봐야 했다. 오래된 기차역 화장실이 그나마 편했다. 현주는 “화장실이 너무 더럽고 무서워서 집 주변 관촌역 화장실을 이용했다”며 “그마저도 역이 폐쇄되면서 못 가게 됐다”고 했다.&lt;br&gt;&lt;br&gt;현주의 아버지가 갑작스럽게 간암 선고를 받으며 생활은 더욱 어려워졌다. 아버지는 식당 문을 닫았고, 새어머니가 근처 지역아동센터에서 급식 도우미로 일하며 겨우 생계를 이어갔다.&lt;br&gt;&lt;br&gt;현주는 친어머니의 얼굴을 기억하지 못한다. 하지만 “새어머니가 계신다”며 애정을 표현했다. 국적이 다른 새어머니는 서툰 한국어로도 늘 “사랑한다”는 말을 잊지 않았다. 현주는 “엄마는 제가 힘들 때마다 안아주신다. 말은 안 통해도 마음은 통한다”고 했다.&lt;br&gt;&lt;br&gt;하지만, 새어머니의 서툰 한국어는 국가의 지원을 받는 데 걸림돌이 됐다. 복지관이나 동사무소에서 의사소통이 원활하지 않으니 복지 혜택을 신청하기 어려웠다.&lt;br&gt;&lt;br&gt;한국보건사회연구원의 2023년 조사에 따르면, 전국의 아동 가구 중 15.2%가 최저주거기준에 미달하는 환경에서 생활하고 있다. 아이가 건강하게 자라야 할 공간이 오히려 성장을 저해하는 요인이 된다. 대한주거복지협회는 열악한 주거환경은 아동의 신체 건강만 아니라 정서 발달과 학업 성취에도 부정적 영향을 미친다고 설명했다.&lt;br&gt;&lt;br&gt;이때 이랜드복지재단의 ‘SOS 위고’가 현주양 가정에 희망의 손길을 내밀었다. 현주의 딱한 사연을 접한 후 신청 72시간 만에 300만원의 주거환경 개선 지원이 결정됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GMKKQWIW6FAI3IQS72USCXC7C4.jpeg"&gt;&lt;figcaption&gt;&lt;small&gt;수리 후 현주양 집의 내부 모습. /이랜드복지재단&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;곰팡이 핀 벽지가 교체되고, 누수를 막는 방수 공사가 이뤄졌다. 무엇보다 재래식 화장실이 실내 수세식으로 바뀌면서 가족들의 일상이 크게 달라졌다. 현주의 새어머니는 서툰 한국말로 “따뜻한 집에서 지내니 너무 좋다”며 연신 감사 인사를 전했다.&lt;br&gt;&lt;br&gt;하지만 공사 한 달 후, 안타깝게도 현주의 아버지가 투병 끝에 세상을 떠났다는 소식이 들려왔다. 현주는 “아빠랑 같이 새집에서 살아봤으면 더 좋았을 텐데…”라며 말을 잇지 못했다. 그래도 “책상에 아빠 사진을 두고 매일 보니까, 항상 함께 있다는 느낌이 든다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GHQBH6GMJJEKJLLXDUNT77PAQA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;현주양 책상 한편에 놓인 아버지의 영정사진. /이랜드복지재단&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘SOS 위고’는 주거환경 개선에서 그치지 않고, 한국어가 서툰 새어머니를 위해 교육기관에서 공부할 수 있도록 지원했다. 현주 역시 어린 나이에 겪은 상처를 치유하기 위한 정서 안정 프로그램과 심리 검사, 트라우마 치료를 받고 있다.&lt;br&gt;&lt;br&gt;현주는 사회복지사의 꿈을 키우고 있다. 그는 “저처럼 어려운 환경에 있는 친구들을 돕고 싶다”며 “작은 변화가 얼마나 큰 희망이 되는지 저는 안다”고 했다.&lt;br&gt;&lt;br&gt;깨끗하고 따뜻한 집. 그것은 단순한 주거 공간이 아닌, 우리 사회 아이들의 꿈과 희망을 키우는 터전이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/M476JFC67ZH6NEXDPL77OSHFOQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;현주양이 보낸 감사 편지. /이랜드복지재단&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>성소수자 혐오 동아리가 시위 주축? 동덕여대 소요사태 전말</title>
       <link>https://www.chosun.com/national/2024/12/01/Y76RM6H6ZZCETGM35NNXK7RXAY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/2024/12/01/Y76RM6H6ZZCETGM35NNXK7RXAY/</guid>
@@ -890,24 +933,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/24UIZYIFJBBXZLPZUY5SS62OEE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;길의 유튜브 채널 홍보 게시물. /인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;음주운전 적발 후 대외활동을 자제해왔던 그룹 ‘리쌍’ 출신 래퍼 길(46‧본명 길성준)이 과거 MBC ‘무한도전’에 함께 출연했던 방송인 유재석을 언급하며 활동 재개를 알렸다.&lt;br&gt;&lt;br&gt;길은 28일 소셜미디어를 통해 “10년 전 태어나서 난생처음으로 MC 유재석에게 두 대를 맞고 홀연 사라졌던 금강불괴. 그를 찾아 떠난 제작진, 과연 그를 만날 수 있었는지... 여러분 많은 시청 바랍니다”라며 자신의 유튜브 채널 개설 소식을 알렸다.&lt;br&gt;&lt;br&gt;함께 올린 홍보 사진에는 ‘태어나서 단 한 대도 맞지 않은 사나이. 빈틈없이 살아온 그가 돌아온다. 불괴 가라사대 광대들이여 일어나라. 어느덧 십년의 시간이 흘렀다. 이제 모두 일어나 빛나리 길성준 채널 론칭소식을 만천하에 알리거라’는 내용의 문구가 담겼다.&lt;br&gt;&lt;br&gt;길이 ‘무한도전’에 출연할 당시 다수의 특집 방송에서 선보였던 ‘금강불괴’ 캐릭터로 자신의 유튜브 채널을 소개한 것이다.&lt;br&gt;&lt;br&gt;길은 2004년부터 2017년까지 총 3차례 음주운전으로 적발돼 활동중단과 복귀를 반복한 바 있다. 2020년 ‘아이콘택트’, ‘아빠본색’ 등에 출연했으나 이후로는 방송활동이 전무했다.&lt;br&gt;&lt;br&gt;길은 29일 자신의 채널에 명상 관련 영상을 업로드했다.&lt;br&gt;&lt;br&gt;길은 “명상은 단지 쉬는 시간이 아니라, 내면의 소리에 귀 기울이며 자신과 진지하게 마주하는 시간”이라며 “이 영상을 통해 소소하게 웃을 수 있는 시간을 가졌으면 좋겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>성남FC 검사 퇴정명령한 법관...법원, 검찰의 기피신청 기각</title>
-      <link>https://www.chosun.com/national/regional/2024/11/29/NN7UQUJZLRD4VAA5LC345HDP4Y/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/11/29/NN7UQUJZLRD4VAA5LC345HDP4Y/</guid>
-      <dc:creator>성남=권상은 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 29 Nov 2024 06:29:19 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KFE3E6FZBMIAZOO7CJIC3M4MVM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원 로고. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;이재명 더불어민주당 대표가 연루된 ‘성남 FC후원금 의혹’ 사건을 심리하는 재판부가 ‘직무대리’ 검사에게 “위법하다”며 퇴정을 명령한 것과 관련해 검찰이 법관기피신청을 냈으나 기각됐다.&lt;br&gt;&lt;br&gt;수원지법 성남지원 형사3부(재판장 박종열)는 29일 검찰이 제기한 성남지원 형사1부 재판장 허용구 부장판사에 대한 기피신청을 기각했다. 형사3부는 “검사가 주장하는 사유들은 형사소송법이 정한 ‘법관이 불공평한 재판을 할 염려가 있는 때’에 해당하지 않는다”고 밝혔다.&lt;br&gt;&lt;br&gt;검찰은 지난 14일 허 부장판사에 대해 “재판을 진행하면서 헌법과 법률에 위반하는 소송 지휘를 반복하고 불공정하게 재판을 진행하는 등 불공평한 재판을 할 염려가 있다”며 기피신청을 냈다. 검찰은 특히 “검찰총장의 검사 직무대리 명령을 받고 공판 유지에 참여하고 있는 검사에게 퇴정 명령을 한 것은 소송지휘권과 법정질서유지권을 남용해 검사의 적법한 공소유지 권한을 방해한 것”이라고 주장했다.&lt;br&gt;&lt;br&gt;이에 대해 형사3부는 “이 사건은 관계인이 많고 기록이 방대하며 쟁점이 복잡해 직접 수사해 실체를 가장 잘 알고 있는 검사에게 직무대리로 공판유지를 수행하도록 한 것은 필요하고 부득이한 일이었다는 주장은 경청할 여지가 있다”면서도 “검찰이 들고 있는 기피 사유는 검사 직무대리에 관한 법령 해석의 차이에서 발생하는 것으로, 재판장의 법령 해석이 검사나 피고인과 다르다고 해 불공정한 재판을 할 염려가 있는 때라고 할 수는 없다”고 밝혔다.&lt;br&gt;&lt;br&gt;이에 앞서 성남지원 형사1부 재판장인 허 부장판사는 지난 11일 성남FC 후원금과 관련해 기소된 피고인 7명의 뇌물공여·뇌물 등 혐의 사건 공판에 출석한 정모 검사에게 “부산지검 소속인 정 검사는 서울중앙지검 검사 직무대리로, 또 수원지법 성남지원에 기소된 ‘성남FC 의혹’ 사건 공판 때마다 성남지청 검사로 1일 직무대리 발령을 받아 공판에 참여하고 있는데 이중 직무대리 발령은 검찰청법 제5조를 위반한 것으로 판단돼 위법하다”며 퇴정을 명령했다.&lt;br&gt;&lt;br&gt;이에 정 검사는 “재판부가 소송 지휘권을 남용해 공소(재판) 진행을 방해하고 있다”며 재판부에 휴정(休廷)을 요청했으나 허 재판장은 거절했다. 정 검사와 동석한 검사 4명은 즉각 이의신청을 제기하고 구두로 법관 기피 신청 의사를 밝힌 뒤 퇴정했다.&lt;br&gt;&lt;br&gt;정 검사는 수원지검 성남지청에 근무하던 2022년 9월 이 사건을 기소한 검사다. 이후 재판은 지연됐고 정 검사는 작년 2월 인사에서 부산지검으로 발령 났다. 정 검사는 작년 9월 서울중앙지검 검사 ‘직무 대리’로 발령받아 서울중앙지법에서 열리는 ‘성남FC 불법 후원금 사건’ 재판을 맡고 있다. 동시에 성남지원 재판도 열릴 때마다 ‘1일 직무 대리’ 발령을 받아 재판에 참여 중이다. 이 사건은 2022년 9월 기소 후 2년 2개월 동안 1심이 진행 중이다.&lt;br&gt;&lt;br&gt;성남지원에서 시작된 ‘성남FC 불법 후원금 사건’은 이재명 더불어민주당 대표가 성남시장 시절이던 2014~2018년 두산건설, 네이버, 차병원, 푸른위례프로젝트 등 기업 4곳의 인허가 청탁을 들어주면서 성남FC에 후원금 명목으로 133억5000만원을 내게 한 혐의(제3자 뇌물)로 작년 3월 불구속 기소된 사건이다. 이와 관련해 이 대표는 서울중앙지법에서 위례·대장동·백현동 개발 비리 사건과 합쳐 재판을 받고 있고, 성남FC에 불법 후원금을 낸 혐의를 받는 전직 기업 임원들은 성남지원에서 재판을 받는 중이다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>혈액종양내과 당직의사 구하며 ‘당직비 220만원’ 파격 조건 내건 대학병원</title>
-      <link>https://www.chosun.com/national/welfare-medical/2024/11/29/JVCQJNYRYVHZLPAUCHJJBPQLRE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/11/29/JVCQJNYRYVHZLPAUCHJJBPQLRE/</guid>
-      <dc:creator>오경묵 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 29 Nov 2024 07:27:19 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZEFMWBEAAJJJHAGXRIUQ6K7RNY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 구로구 고려대학교구로병원. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울의 한 대학병원이 혈액종양내과 당직의 초빙 공고를 내며 ‘당직비 220만원’이라는 파격적 조건을 내걸었다.&lt;br&gt;&lt;br&gt;29일 의료계에 따르면, 고려대학교구로병원은 최근 혈액종양내과 당직의 초빙 공고를 냈다. 이 병원은 올해 상반기부터 당직의 초빙 공고를 진행했지만, 지원자를 찾지 못한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;초빙공고에 따르면, 급여는 1회 12시간 당직 근무당 세전 220만원 수준이다. 근무 시간은 평일 야간 12시간(저녁 7시~다음날 오전 7시) 1회, 주말 종일 24시간(오전 7시~다음날 오전 7시) 1회로 적시됐다. 평일 야간 12시간씩 주 3회 근무로 조정 가능하다고도 했다. 세전 월 급여로 따지면 2640만원이다.&lt;br&gt;&lt;br&gt;또 병동 환자를 제외한 응급실 진료는 포함하지 않고, 중환자실 환자가 있지만 대부분의 경우 연명치료 중단 동의가 있는 상태라고도 했다. 당직 근무 중 응급 상황에 대해서는 담당 교수와 전화로 상의할 수 있다는 내용도 포함됐다. 근무 강도가 강하지 않다는 것을 강조하려는 것으로 풀이된다.&lt;br&gt;&lt;br&gt;의료계에서는 “파격적 조건을 내걸어 인력을 확보하고, 의정 사태 이후 피로감을 호소하는 교수들의 불만을 잠재우려는 것으로 보인다”는 말이 나왔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>“평소 민물새우 잡는다”는 말 한마디에 실종 치매노인 찾은 경찰</title>
       <link>https://www.chosun.com/national/national_general/2024/11/29/RXYFUD2JSNFMLGOTVRZN33WJYE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/29/RXYFUD2JSNFMLGOTVRZN33WJYE/</guid>
@@ -928,27 +953,6 @@
       <pubDate>Fri, 29 Nov 2024 03:48:43 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6JJXFT4RRFMFRDRE56YSQVP5NA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;해경 잠수사들이 지난 19일 제주 비양도 해상에서 침몰한 '135금성호' 실종 선원 10명을 찾는 수중 수색을 하고 있다./제주지방해양경찰청
 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제주 해상에서 135금성호 침몰 사고를 목격했지만 구조활동에 나서지 않은 어선에 대해 경찰이 수사를 벌이고 있는 것으로 알려졌다. 이 어선은 침몰한 135금성호와 같이 조업에 나선 선단 소속이다.&lt;br&gt;&lt;br&gt;29일 제주해양경찰서에 따르면 지난 8일 새벽 4시31분쯤 제주 비양도 북서쪽 22㎞ 인근 해상에서 135금성호(부산선적·129톤)가 오른쪽으로 침몰될 당시 같은 선단의 운반선 A호가 가장 가까이에 있었던 것으로 확인됐다.&lt;br&gt;&lt;br&gt;본선인 금성호는 지난 7일 오전 11시40분쯤 서귀포항에서 운반선 A호 등을 비롯해 선단선 5척과 함께 출항해 조업을 하던 중 사고가 발생했다.&lt;br&gt;&lt;br&gt;A호는 금성호가 빠르게 전복되고 있는 상황에도 아무런 조치를 취하지 않고, 어획물을 위판하기 위해 부산으로 항해한 정황이 포착됐다.&lt;br&gt;&lt;br&gt;결국 금성호 선원 일부는 다른 어선이 도착할 때까지 기울어진 선체에서 대기하다 구조됐다. 사고 신고 역시 다른 어선이 최초로 했다.&lt;br&gt;&lt;br&gt;이에 제주해경서는 침몰한 135금성호 생존 선원과 선단 선원들의 진술과 선단선 선박 항적자료를 분석해 수사하고 있다.&lt;br&gt;&lt;br&gt;또 A호의 선장을 선원법 제13조(조난 선박 등의 구조) 등의 위반 혐의로 입건, 수사를 벌이고 있다. 특히 선사 측에서 A호의 부산 회항에 관여했는지, 사고 관련 증거 은닉 정황 여부 등에 대해 수사전담반을 편성해 추가 수사하고 있다.&lt;br&gt;&lt;br&gt;제주해경은 금성호 사고 원인으로 ‘평소보다 많은 어획물’이 가장 유력한 것으로 보고 있다.&lt;br&gt;&lt;br&gt;제주해경은 “금성호 침몰 원인은 어획물로 인한 복원력 상실로 추정하고 있지만 선장과 어로장이 실종된 상태인 만큼 모든 가능성을 열어두고 수사를 진행하고 있다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>송파구 빌라서 건물주 일가족 숨진 채 발견</title>
-      <link>https://www.chosun.com/national/national_general/2024/11/29/22EVHUJP5RGIDCLNKCUNZDFBZ4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/29/22EVHUJP5RGIDCLNKCUNZDFBZ4/</guid>
-      <dc:creator>김병권 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 29 Nov 2024 01:52:51 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/A56CSTNN4YI62UCRD6QXXGVXG4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 송파구 삼전동의 한 빌라에서 일가족 3명이 발견돼 경찰이 수사에 나섰다. 사망 현장에서는 유서가 발견됐고, 타살 혐의점은 아직까지 발견되지 않았다는 게 경찰의 설명이다. 사망한 일가족은 이 빌라의 소유주로 확인됐다.&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 지난 28일 오후 5시 20분쯤 서울 송파구 삼전동의 한 빌라에서 70대 노부모와 그 아들인 50대 남성이 숨진 채 발견돼 경찰이 수사 중이다. 경찰은 해당 빌라를 찾은 노부모의 다른 자녀의 신고를 받고 출동했다.&lt;br&gt;&lt;br&gt;사망한 이들은 기초생활수급자 등 복지 대상자가 아닌 이 빌라의 소유주라고 한다. 경찰에 따르면, 사망 현장에 외부 침입 흔적은 없었고, 타살 정황도 아직까지 확인된 바가 없다고 한다. 다만, 현장에서 유서가 발견돼 경찰은 자세한 사건 경위를 조사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/A56CSTNN4YI62UCRD6QXXGVXG4.jpg?width=2012&amp;height=1276&amp;auth=1332cc6130b9f66b78b2968a82b6b1498e3f729b1088860d88993ed50ce36402&amp;smart=true" type="image/jpeg" height="1276" width="2012">
-        <media:description type="plain">ⓒ News1</media:description>
-      </media:content>
-    </item>
-    <item>
-      <title>[속보] ‘코오롱 인보사 사태’ 이웅열 명예회장, 1심 무죄</title>
-      <link>https://www.chosun.com/national/court_law/2024/11/29/BATGEJRWIRA4TJU2OVMHDNU75E/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/11/29/BATGEJRWIRA4TJU2OVMHDNU75E/</guid>
-      <dc:creator>방극렬 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 29 Nov 2024 02:07:05 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NQE3C4HVVNPLPMTXCAC3L2M2WI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;인보사케이주(인보사) 성분 조작 의혹에 관여한 혐의 등으로 기소된 이웅열 코오롱그룹 명예회장이 29일 서울 서초구 서울중앙지방법원에서 열린 1심 선고 공판에서 무죄 판결을 받고 법원을 나서고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;퇴행성 관절염 유전자 치료제 ‘인보사케이주(인보사)’의 성분을 속여 정부 허가를 받고 판매한 혐의로 기소된 이웅열(68) 코오롱그룹 명예회장이 29일 1심에서 무죄를 선고받았다. 검찰이 2020년 7월 7개 혐의를 적용해 기소한지 4년4개월 만이다.&lt;br&gt;&lt;br&gt;서울중앙지법 형사24부(재판장 최경서)는 이날 약사법·자본시장법·금융실명법 위반 및 특정경제범죄법상 배임, 배임증재, 사기, 업무방해 등 7개 혐의로 기소된 이 회장에게 무죄를 선고했다. 일부 혐의는 면소(免訴·기소 면제) 판결을 내렸다.&lt;br&gt;&lt;br&gt;함께 기소된 이우석 전 코오롱생명과학 대표 등 대부분 코오롱 임원들도 무죄를 선고받았고, 코오롱 및 코오롱티슈진·생명과학도 무죄 및 면소 판결을 받았다.&lt;br&gt;&lt;br&gt;1심 법원은 “검찰의 공소사실을 대부분 인정하기 어렵다. (인보사 의혹과 관련한) 주요 쟁점들에 대한 검찰의 주장을 받아들일 수 없다”고 밝혔다. 이 회장에게 적용된 7개 공소사실에 대해서도 “증거가 없다” “고의로 보기 어렵다” “과도한 추론” “지나친 법적용”이라면서 모두 기각했다.&lt;br&gt;&lt;br&gt;국내 첫 유전자 치료제로 관심을 모았던 인보사는 2017년 식품의약품안전처 품목 허가를 받고 판매에 나섰다. 그런데 2019년 미국 식품의약국(FDA) 임상 과정에서 일부 성분이 바뀐 것이 드러나 이른바 ‘인보사 사태’로 번졌다. 당초 인보사가 허가받은 ‘연골 세포’가 아니라 ‘신장유래 세포’ 성분으로 제조·판매됐고, 상장 과정에서 코오롱 측이 이를 고의적으로 은폐했다는 의혹이 제기된 것이다. &lt;br&gt;&lt;br&gt;이에 미국은 임상을 중단했고, 국내에서는 품목 허가가 취소됐다. 시민단체가 이 회장을 고발했고, 검찰이 수사에 나섰다. 당시 서울중앙지검 형사2부장이던 이창수 서울중앙지검장이 인보사 사건 수사를 지휘해 이 회장을 기소했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>대검, 중앙지검장 탄핵에 “다수당 부당 압력에 굴하지 않겠다”</title>
