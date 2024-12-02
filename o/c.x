@@ -13,6 +13,60 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>말다툼하던 지인 찾아가 폭행…폭력조직원 구속 송치</title>
+      <link>https://www.chosun.com/national/incident/2024/12/02/IBRZFBGMIBATHJNWWBJHKR6VXU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/12/02/IBRZFBGMIBATHJNWWBJHKR6VXU/</guid>
+      <dc:creator>인천=이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 02 Dec 2024 09:50:43 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/54FTUISTLZDHJELX6W5GW5V5XU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전화로 말다툼하던 지인을 동네 후배들과 함께 찾아가 폭행한 40대 경찰 관리대상 폭력조직원이 구속된 상태로 검찰에 넘겨졌다.&lt;br&gt;&lt;br&gt;인천경찰청 형사기동대는 폭력행위 등 처벌에 관한 법률상 공동상해 혐의로 40대 남성 A씨를 구속해 검찰에 송치했다고 2일 밝혔다.&lt;br&gt;&lt;br&gt;경찰은 또 같은 혐의로 B씨등 40대 남성 2명을 불구속입건해 A씨와 함께 송치했다.&lt;br&gt;&lt;br&gt;A씨 등은 지난 10월 21일 오후 11시 40분쯤 경기 김포시 대곶면 일대 길거리에서 40대 남성 C씨를 폭행해 다치게 한 혐의를 받고 있다. C씨는 이들의 폭행으로 전치 3주의 진단을 받았다.&lt;br&gt;&lt;br&gt;건물을 건축하기 전 땅을 다지는 등의 토지매립 관련 사업을 하는 A씨는 동종업계 종사자인 C씨와 전화로 말다툼하다 화가나 B씨 등 동네 후배 2명과 함께 C씨가 있는 곳으로 찾아가 폭행한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;경찰 관리대상 폭력조직원인 A씨는 “술에 취해 우발적으로 때렸다”고 경찰에 진술한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “A씨는 우발적 범행을 주장하지만, 후배들을 데리고 가 폭행했다는 점에서 계획성이 있는 것으로 판단하고 구속했다”며 “불구속 송치한 B씨 등 2명은 폭력조직원은 아닌 것으로 파악됐다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>경찰 “‘동덕여대 사태’ 19명 인적사항 특정…외부 개입설 수사 검토”</title>
+      <link>https://www.chosun.com/national/national_general/2024/12/02/26UJPIVDPNGRNCVF26G2VCQG4Q/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/02/26UJPIVDPNGRNCVF26G2VCQG4Q/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 02 Dec 2024 09:43:08 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MOICGL7WBVPPXBUOP5AGIHP2IA.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;2일 서울 성북구 동덕여자대학교 100주년기념관 일대. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰이 동덕여대 ‘남녀공학 전환’ 반대 시위와 관련 피고소인 21명 가운데 19명의 인적 사항을 특정했다고 밝혔다. 경찰은 외부 인물들이 개입해 동덕여대 사태를 부추겼다는 의혹의 수사 여부도 검토하겠다고 했다.&lt;br&gt;&lt;br&gt;김봉식 서울경찰청장은 2일 서울 종로구 청사에서 열린 정례 기자간담회에서 “지난달 29일 동덕여대 측으로부터 총학생회 학생 등을 피의자로 적시한 고소장이 접수됐다”며 “(시위와 관련) 고소 1건, 그 외 고발 4건과 국민신문고 통한 수사 촉구 민원 13건을 접수했다”고 말했다.&lt;br&gt;&lt;br&gt;김봉식 청장은 “피고소인은 주로 총학생회 학생들”이라며 “학교 측이 제시한 고소 혐의는 공동재물손괴, 공동건조물침입, 공동퇴거불응과 그 외 업무방해 등”이라고 했다.&lt;br&gt;&lt;br&gt;간담회에 배석한 서울청 관계자는 이번 사태에 외부 세력이 개입했다는 의혹에 대해서는 “일부 언론 보도가 있던데 고소인 조사 등을 통해 수사가 필요한지 검토해보겠다”고 답했다.&lt;br&gt;&lt;br&gt;이외에 동덕여대를 무단 침입한 혐의를 받는 학교 외부 피의자에 대해서는 조사를 마치고 법리 검토 등에 들어갔고, 인터넷에 흉기 난동을 예고한 게시자는 현재 추적 중이다.&lt;br&gt;&lt;br&gt;한편 동덕여대 재학생들은 남녀공학 전환에 반대하며 캠퍼스를 점거하고 기물을 파손하는 시위를 했다. 동덕여대 측은 이번 시위로 인한 피해액이 최소 24억원에서 최대 54억원에 달한다고 밝힌 바 있다.&lt;br&gt;&lt;br&gt;동덕여대는 지난달 29일 김명애 총장 명의로 총학생회장을 비롯한 학생들을 경찰에 고소했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“이혼 후 가방 팔아 생활비 마련” 명세빈, 생활고 고백</title>
+      <link>https://www.chosun.com/national/people/2024/12/02/XWXDX36NGFGV3DJ3DVGKMVZPUA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/12/02/XWXDX36NGFGV3DJ3DVGKMVZPUA/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 02 Dec 2024 08:34:20 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UKGK5B73YRCOJNLUTJ6QHG2TQU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;배우 명세빈. /명세빈 인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;배우 명세빈(49)이 이혼 후 생활고를 겪었던 사실을 공개했다.&lt;br&gt;&lt;br&gt;2일 SBS플러스 예능프로그램 ‘솔로라서’ 예고 영상 등에 따르면 명세빈은 최근 강원도 양양으로 나 홀로 첫 일탈 여행을 떠났다.&lt;br&gt;&lt;br&gt;명세빈은 “일탈이 너무 해보고 싶었다”며 “동해 바다를 좋아해 첫 일탈 장소로 양양을 택했다”고 했다.&lt;br&gt;&lt;br&gt;명세빈은 마침 근처를 방문 중이던 배우 강래연과 함께 캠핑을 하며 과거 힘들었던 시절을 떠올렸다.&lt;br&gt;&lt;br&gt;명세빈은 “30대에 이혼한 뒤, 한참 동안 일이 없었다”며 “모든 사람한테는 각자만의 빛이 있는데 (이혼으로) 그게 깨진 느낌이었다”라고 이혼 후 심경을 처음으로 털어놨다.&lt;br&gt;&lt;br&gt;스튜디오에서 이를 지켜보던 배우 채림은 “방송가 사람들이 오픈마인드로 일할 것 같은데, 막상 현실에선 굉장히 보수적이다”라며 “이렇게 (명세빈처럼) 한 번 갔다 오신 분들도 그런 생각을 하시니, 저 같은 사람은···”이라고 말했다. 채림은 두 번의 이혼을 겪었다.&lt;br&gt;&lt;br&gt;명세빈은 강래연에게 “솔직히 (일이 없으니까) 돈도 없었다. 그래서 (가지고 있던) 가방도 팔아봤다”라고 했다.&lt;br&gt;&lt;br&gt;진행자 황정음도 “저도 며칠 전에 중고 시장에서 모자를 팔았다. 직접 나갔더니 (상대방이) 많이 당황하시더라”고 말했다.&lt;br&gt;&lt;br&gt;한편 명세빈은 2007년 8월 결혼했으나, 5개월여 만인 2008년 1월 이혼한 바 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>중앙지검 평검사도 집단반발 “검사 탄핵은 검찰 독립성 심각 훼손”</title>
+      <link>https://www.chosun.com/national/court_law/2024/12/02/BRBJXY3CGVAF5H7XM24ZT7XQFQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/02/BRBJXY3CGVAF5H7XM24ZT7XQFQ/</guid>
+      <dc:creator>유희곤 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 02 Dec 2024 08:38:21 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3SHAXOEQWFN5RLVP75LCOEZLY4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2일 서울 서초구 서울중앙지검. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지검 평검사들이 더불어민주당의 이창수 서울중앙지검장 등에 대한 탄핵소추안에 대해 “검찰의 독립성과 중립성을 심각하게 훼손할 위험이 있다”고 2일 비판했다.&lt;br&gt;&lt;br&gt;서울중앙지검 평검사 일동은 이날 검찰 내부게시판 이프로스에 ‘검사 탄핵소추 추진 관련 서울중앙지검 평검사 의견’이라는 제목의 글에서 “서울중앙지검장 등을 대상으로 탄핵을 추진하는 상황에 대해 깊은 우려와 유감을 표한다”며 이같이 밝혔다.&lt;br&gt;&lt;br&gt;이들은 “(김건희 여사의 도이치모터스 주가조작 의혹 등) 특정 사건의 수사와 처분의 당부(當否·옳고 그름)를 이유로 이에 관여한 검사에 대한 탄핵 시도는 헌법과 법률이 보장하는 검찰의 독립성과 중립성을 심각하게 훼손할 위험이 있다”고 했다.&lt;br&gt;&lt;br&gt;또한 탄핵은 “고위공직자의 중대한 헌법·법률 위반에 대응하여 헌법을 수호하기 위한 수단“이지만 현재 이 지검장 등에 대한 탄핵 소추 시도는 이에 부합하지 않는다고 지적했다.&lt;br&gt;&lt;br&gt;서울중앙지검 평검사들은 “어떠한 상황에서도 국민의 안전을 지키는 검찰 본연의 업무를 흔들림 없이 수행해 형사사법과 법치질서의 공백이 발생하지 않도록 최선의 노력을 다하겠다”고 했다.&lt;br&gt;&lt;br&gt;국회는 이날 더불어민주당 주도로 서울중앙지검 이 지검장·조상원 4차장검사·최재훈 반부패수사2부장 등 검사 3명과 최재해 감사원장에 대한 탄핵 소추안을 본회의에 보고했다. 탄핵소추안은 오는 4일 본회의에서 의결될 예정이다.&lt;br&gt;&lt;br&gt;앞서 서울중앙지검 박승환·공봉숙·이성식 1~3차장검사, 부장검사 33명, 부부장검사 21명 등도 지난달 말 차례로 탄핵 시도를 비판하는 입장문을 냈다. 서울남부지검 차장·부장검사도 지난달 28일, 정진우 서울북부지검장도 이날 각각 검사 탄핵 시도를 중단하라는 취지의 글을 이프로스에 올렸다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“춘천대첩 아시나요?”…다큐 ‘춘천대첩 72시간’ 부산서 특별 상영</title>
+      <link>https://www.chosun.com/national/regional/yeongnam/2024/12/02/QJQOGJERT5HWPPOILMC2ZKUF3Y/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/yeongnam/2024/12/02/QJQOGJERT5HWPPOILMC2ZKUF3Y/</guid>
+      <dc:creator>박주영 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 02 Dec 2024 08:52:41 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XR6EL47QENEF5NUGNP7OOYB6WA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;'춘천대첩 72시간' 포스터./독자제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;북한의 기습 공격으로 6, 25 전쟁이 발발한 후 3일간 춘천에서 벌어진 전투를 그린 다큐멘터리 ‘춘천대첩 72시간’이 부산에서도 상영됐다.&lt;br&gt;&lt;br&gt;이 영화를 제작한 장이레 감독은 “2일 오후 1시30분과 4시30분 부산 서면CGV에서 ‘춘천대첩 72시간’을 상영하는 자리에 동참했다”고 말했다. 이 2차례 상영은 장 감독의 부산지역 팬들이 비용을 대 마련됐다.&lt;br&gt;&lt;br&gt;장 감독은 “비록 2차례에 극장 1실에서만 상영된 것이지만 인기가 별로 없는 다큐멘터리 영화를 부산지역 팬들이 뚯을 모아 상영할 수 있게 해줘 너무 고맙다”고 말했다.&lt;br&gt;&lt;br&gt;‘춘천대첩 72시간’은 6,25 전쟁 초기 군경과 시민들이 피난을 포기하고 72시간 동안 탱크를 앞세워 38선을 넘어 기습 공격해온 북한의 주력인 2군단과 맞서 싸우며 진군을 저지한 ‘춘천전투’를 소재로 만든 94분 짜리 다큐 영화다. 내레이션은 배우 이덕화가 맡았다.&lt;br&gt;&lt;br&gt;장 감독은 “병사들과 학생, 공장의 여공, 피난가던 시민들까지 나서 수류탄과 휘발유병을 품고 탱크로 뛰어들어 북한 괴뢰군 2군단의 남진을 저지한 것은 대한민국을 위한 기적이었다”며 “학생, 여공, 시민들이 파죽지세로 내려오던 북한 주력군을 지연시키면서 인천상륙작전을 실행할 수 있었고 낙동강 전선이 무난히 형성됐다”고 말했다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>경북도, 올해 어려운 이웃 위해 176억 모금 시작</title>
+      <link>https://www.chosun.com/national/national_general/2024/12/02/ML2PZWZKPVHHVGFN45FAEWFSMM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/02/ML2PZWZKPVHHVGFN45FAEWFSMM/</guid>
+      <dc:creator>이승규 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 02 Dec 2024 08:24:28 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PXY6HTVXWVMK7PGR3CTY4SGFKI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경상북도와 경북사회복지공동모금회가 2일 경북 안성시 경상북도청 앞마당에서 '희망 2025 나눔 캠페인' 출범식과 사랑의 온도탑 제막 행사를 진행했다고 밝혔다. 사랑의 온도탑 제막 행사 참석자들이 기념 촬영하고 있다./경북도&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경북도와 경북사회복지공동모금회가 2일부터 내년 1월 31일까지 62일간 모금액 176억 7000만원을 목표로 모금을 시작했다.&lt;br&gt;&lt;br&gt;2일 오후 2시 경북도청 앞마당에서는 ‘희망 2025 나눔 캠페인’ 출범식이 열렸다. 이철우 경북지사를 비롯해 내빈 50여명이 참석했다. 이날 출범식에서는 경북농협과 IM뱅크, 경북개발공사 등 지역 기관과 경북도 어린이집연합회 아동 등이 첫 기부를 했다.&lt;br&gt;&lt;br&gt;경북도는 나눔 목표액의 1%인 1억 7670만원이 모일 때마다 도청 앞마당에 설치한 사랑의 온도탑에 새겨진 온도 표시 그래픽을 1도씩 올릴 예정이다. 목표인 176억원을 채우면 100도를 달성하게 된다.&lt;br&gt;&lt;br&gt;지난해 모금 행사에선 목표액이었던 164억을 넘어 195억원이 모였다. 경북도 관계자는 “경북은 서울 경기 충남에 이어 전국 4번째로 모금액이 높은 곳이며 매년 연말 모금액을 초과 달성한만큼 올해도 목표액을 넘길 것으로 기대한다”고 말했다.&lt;br&gt;&lt;br&gt;‘희망 2025 나눔 캠페인’에는 전화, 계좌이체 및 22개 시군 읍·면·동 행정복지센터 방문을 통해 참여할 수 있다. 060-700-0060으로 전화하면 3000원이 기부되며, 상세한 문의는 054-650-2600에서 할 수 있다.&lt;br&gt;&lt;br&gt;모은 성금은 지역 내 어려운 이웃 및 복지 시설 등에 전달할 예정이다. &lt;br&gt;&lt;br&gt;이철우 경북지사는 “어려운 이웃들이 삶의 희망을 품을 수 있도록 도민 여러분의 많은 기부 동참을 부탁드린다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>[오늘의 운세]  12월 3일 화요일 (음력 11월 3일 辛丑)</title>
       <link>https://www.chosun.com/national/national_general/2024/12/02/FMAQOVZ2D5GKHGFTM5WJVFGO64/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/02/FMAQOVZ2D5GKHGFTM5WJVFGO64/</guid>
@@ -852,42 +906,6 @@
       </media:content>
     </item>
     <item>
-      <title>이화여대 제18대 총장에 이향숙 수학과 교수</title>
-      <link>https://www.chosun.com/national/national_general/2024/11/28/33II3727YFF27JGGXFMLS63QDU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/28/33II3727YFF27JGGXFMLS63QDU/</guid>
-      <dc:creator>구동완 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 28 Nov 2024 04:21:38 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GFWR3I22H5H4VME6TA3E6EVXFU.jpeg"&gt;&lt;figcaption&gt;&lt;small&gt;이향숙 이화여자대학교 제18대 총장. /이화여대&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이화여자대학교가 이향숙(61) 수학과 교수를 제18대 신임 총장으로 선임했다.&lt;br&gt;&lt;br&gt;학교법인 이화학당은 교수와 직원, 학생, 동창 등이 참여하는 직접선거를 통해 이향숙 교수를 신임 총장으로 선출했다고 28일 밝혔다. 이 신임 총장은 김혜숙 전 총장과 김은미 총장에 이어 이화여대에서 직접선거로 선출된 세 번째 총장이다.&lt;br&gt;&lt;br&gt;이 신임 총장은 이화여자대학교에서 수학 학사, 석사 학위를 받은 후 미국 노스웨스턴대학교에서 수학 박사 학위를 취득했다. 1995년부터 이화여대에서 교수 생활을 시작해 수학과 학과장, 산학협력단부단장·연구처부처장, 연구처장·산학협력단장 등 주요 보직을 역임하고 현재는 한국연구재단 이사를 맡고 있다. 내년 2월 1일에 취임하며 임기는 4년이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘희귀병 완치’ 문근영 근황...”급격하게 살쪄서 건강하게 빼는 중”</title>
-      <link>https://www.chosun.com/national/people/2024/11/30/JH6XWIN4PFAJTODDKRCALKEMFQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/11/30/JH6XWIN4PFAJTODDKRCALKEMFQ/</guid>
-      <dc:creator>정아임 기자</dc:creator>
-      <description/>
-      <pubDate>Sat, 30 Nov 2024 13:19:26 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/I76W4VABRFC5DNHWRCVCIA4VSA.png"&gt;&lt;figcaption&gt;&lt;small&gt;배우 문근영./유튜브 채널 '코스모폴리탄 코리아'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;급성구획증후군 완치 소식을 전한 배우 문근영(37)이 건강하게 살을 빼기 위해 다이어트를 하고 있다고 밝혔다.&lt;br&gt;&lt;br&gt;지난 29일 유튜브 채널 ‘코스모폴리탄 코리아’에는 문근영과 나눈 인터뷰 영상이 올라왔다.&lt;br&gt;&lt;br&gt;문근영은 “즐겁게 지내다 보니 살이 급격히 많이 쪘다”며 “시간이 걸리더라도 건강하게 살을 빼려고 한다”고 말했다.&lt;br&gt;&lt;br&gt;이어 “아침에 일어나자마자 산책을 갔다 오고 몸에 좋은 건강한 음식들로 삼시세끼 챙겨 먹고 운동도 병행하고 있다”고 전했다.&lt;br&gt;&lt;br&gt;그는 “이전에는 항상 다이어트를 해야 했다. 먹으면 안 되는 음식이 있었고 배가 고픈 상태로 살아야 했는데 ‘나는 왜 항상 먹는 게 빈곤할까?’ 이런 생각을 하면서 먹는 재미를 들였다”며 “레시피를 찾아서 만들어 먹는 것들이 너무 재밌어서 그렇게 음식을 먹다 보니 살이 찌더라”라고 했다.&lt;br&gt;&lt;br&gt;앞서 문근영은 2017년 2월 연극 ‘로미오와 줄리엣’ 출연 중 급성구획증후군을 진단받고 활동을 중단했다. 이후 치료와 수술 등을 이유로 공백기를 가졌다가, 같은 해 9월 공식 활동을 재개했다. 급성구획증후군은 신체의 근육과 신경이 포함된 구획 내에서 압력이 상승해 통증이 생기는 질환으로, 심할 경우 구획 안의 모든 근육이 마비될 수도 있는 희귀병이다.&lt;br&gt;&lt;br&gt;최근 문근영은 자신이 앓던 급성구획증후군을 완치했다고 전했다. 문근영은 지난달 21일 인스타그램을 통해 “생각보다 많은 분들이 내 건강을 걱정해 주셨다. 현재는 완전히 치료됐고, 아주아주 건강한 상태”라며 “비록 살이 조금 찌긴 했지만, 매일 팩폭 영상을 보며 다이어트 중”이라고 했다. “이제는 건강 걱정 대신 다이어트 성공을 응원해 주셨으면 한다”고도 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>가수 조영남 유서 공개 “내가 가진 재산의 대부분은...”</title>
-      <link>https://www.chosun.com/national/people/2024/11/30/5Z3444HUDJE7NKJGCGYYCZO5AY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/11/30/5Z3444HUDJE7NKJGCGYYCZO5AY/</guid>
-      <dc:creator>정아임 기자</dc:creator>
-      <description/>
-      <pubDate>Sat, 30 Nov 2024 12:26:16 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GY7MCHYCDJLUBJL2FJTHGTZCOM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;가수 조영남./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;가수 조영남(79)이 수정된 유서 내용을 공개해 눈길을 끌고 있다.&lt;br&gt;&lt;br&gt;30일 MBN 리얼 버라이어티 ‘가보자GO’ 시즌3에는 가수 조영남이 등장했다. 이 프로그램은 초대 손님의 집에서 인터뷰 등을 하는 방식으로 진행된다.&lt;br&gt;&lt;br&gt;이날 조영남은 “내일 모레 80세다. 건강은 신이 내리는 것”이라며 “미리 쓰는 유서가 있어서 썼다”고 말했다.&lt;br&gt;&lt;br&gt;그는 “유서에 ‘장례식을 치르지 말라. 내가 죽으면 옆에 있던 사람이 담요에 말아서 화장해 달라. 갈아서 내 유골을 영동대교 가운데에 뿌려 달라’고 썼다”고 밝혔다.&lt;br&gt;&lt;br&gt;이어 “그런데 영동대교에 뿌리는 게 불법이더라. 그래서 다음에 유서를 쓰게 되면 ‘영동대교에 뿌려 달라’고 쓴 뒤 괄호를 치고 ‘몰래’라고 쓰려고 한다”고 말했다.&lt;br&gt;&lt;br&gt;장례식을 치르지 않는 이유에 대해 그는 “내가 장례식 치를 정도로 대단한 사람이 아니라서, 부끄러워서”라며 “장례식 와서 나한테 절하는 거 받기 싫다”고 설명했다.&lt;br&gt;&lt;br&gt;또한 유서 속 재산 관련 내용에 대해서는 “처음 쓸 때는 ‘내 옆에 있는 여자에게 재산의 절반을 줘라’라고 썼는데 수정했다. 지금은 자식이 셋이니까 4분의 3은 자식, 4분의 1은 옆에 있는 여자다”라고 말했다.&lt;br&gt;&lt;br&gt;한편, 1945년 황해북도 평산군에서 태어난 조영남은 1964년 서울대 성악과에 입학해 1968년 중퇴했지만, 후에 명예 졸업증을 받았다. 그는 1970년 대중음악과 성악을 접목한 번안가요 ‘딜라일라’로 가요계에 데뷔, 일약 스타덤에 올랐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“택배 훔치러 왔다” 자백한 남성...가방 열어보니 발견된 ‘이것’</title>
-      <link>https://www.chosun.com/national/national_general/2024/11/30/GSDZIQVBSFGXJH4BBMV7QB6P64/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/30/GSDZIQVBSFGXJH4BBMV7QB6P64/</guid>
-      <dc:creator>정아임 기자</dc:creator>
-      <description/>
-      <pubDate>Sat, 30 Nov 2024 11:07:06 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KD7CV6NJ2REHTIHHFCZYKK2SEA.png"&gt;&lt;figcaption&gt;&lt;small&gt;절도범이라고 거짓 자백한 마약 전달책의 가방에서 나온 1g씩 작게 나뉜 마약(필로폰)./유튜브 채널 ‘대한민국 경찰청’&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;주택가를 돌아다니다가 절도 혐의로 붙잡힌 30대 남성이 알고 보니 마약 전달책인 것으로 드러났다.&lt;br&gt;&lt;br&gt;지난 29일 경찰청 공식 유튜브 채널에는 ‘뻔뻔스러운 자백 뒤 숨겨진 진실은’이라는 제목의 영상이 올라왔다.&lt;br&gt;&lt;br&gt;영상과 광주 남부경찰서에 따르면 지난 21일 오후 8시 48분쯤 광주 남구의 한 주택가에서 “모르는 사람이 원룸 건물에 들어왔다”는 112신고가 접수됐다. 모자를 눌러쓴 채 건물 복도에서 배회하는 남성 A씨를 수상히 여긴 인근 주민이 신고한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;현장에 출동한 경찰은 A씨를 가로막고 신원 조회를 요구했다. A씨는 “폐가전이나 택배를 훔치러 온 것”이라고 했다. 이어 “얼굴 좀 확인하겠다”는 경찰관에게 얼굴을 보여주며 적극적으로 협조했다. 이후 경찰이 A씨에게 야간주거침입절도 미수 범죄 사실을 고지하자, A씨는 고개를 끄덕이며 혐의를 순순히 인정했다. 경찰이 수갑을 채우려 하자 A씨는 자진해서 두 손을 내밀었다.&lt;br&gt;&lt;br&gt;경찰은 A씨를 현행범으로 체포했다. 하지만 수상한 느낌을 떨칠 수 없던 경찰들은 한쪽 모퉁이에 있던 검은색 가방을 발견했고, 이를 함께 수거했다. 경찰은 A씨를 경찰서로 인계한 뒤 흉기 소지 여부 등을 확인하기 위해 그의 가방을 수색했다. 가방 안에서는 휴대전화 2대와 검은색 절연 테이프로 감싼 엄지손톱 크기의 물체 129개가 발견됐다. 이 물체는 1g씩 작게 나뉜 마약(필로폰)이었다.&lt;br&gt;&lt;br&gt;알고 보니 A씨는 단순 절도 미수범이 아니라 특정 장소에 마약을 두면 대면하지 않고 구매자가 찾아가는 방식인 마약 ‘던지기 수법’ 전달책이었다. 이후 경찰은 A씨가 머물던 숙박업소에서 500g가량의 필로폰을 추가로 발견해 압수했다.&lt;br&gt;&lt;br&gt;경찰은 A씨에게 마약류관리법 위반 혐의를 적용해 구속영장을 신청, 법원으로부터 발부받았다.&lt;br&gt;&lt;br&gt;A씨는 경찰 조사에서 “생활비를 마련하기 위해 그랬다”는 취지로 진술한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;경찰은 A씨를 조만간 검찰에 송치하는 한편 마약을 구하거나 유통하게 된 경위 등을 수사할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>“尹정권 퇴진” vs “민주당 규탄”…좌우로 갈린 광화문</title>
       <link>https://www.chosun.com/national/national_general/2024/11/30/UJZOYGDHRRBYXC4YZIWOBG4MXY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/30/UJZOYGDHRRBYXC4YZIWOBG4MXY/</guid>
@@ -899,15 +917,6 @@
         <media:description type="plain">30일 오후 서울 종로구 동화면세점 앞에서 전국안보시민단체연합 등 회원들이 자유통일을 위한 주사파 척결대회를 하고 있다. /연합뉴스</media:description>
         <media:credit role="author" scheme="urn:ebu">김인철</media:credit>
       </media:content>
-    </item>
-    <item>
-      <title>뇌종양 시달리던 70대 아내 부탁에 농약 먹인 남편 </title>
-      <link>https://www.chosun.com/national/regional/gangwon/2024/11/30/2I5ZEYMIWJANXGOC45GVUC5SWA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/gangwon/2024/11/30/2I5ZEYMIWJANXGOC45GVUC5SWA/</guid>
-      <dc:creator>박주영 기자</dc:creator>
-      <description/>
-      <pubDate>Sat, 30 Nov 2024 01:05:12 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HO6TND4Q2XSQBDXD2M2XHVC5Q4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;춘천지법 전경./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;30일 지역 법조계에 따르면 춘천지법 형사2부(재판장 김성래)는 촉탁살인 혐의로 구속기소된 A(73)씨에 대한 선고공판에서 징역 3년에 집행유예 5년을 선고했다.&lt;br&gt;&lt;br&gt;A씨는 지난 5월 8일 뇌종양에 걸려 극심한 고통에 시달리던 아내 B(72)씨의 “죽게 해달라”는 요청에 따라 함께 극단적 선택을 하기로 하고, B씨에게 살충제를 먹여 살해한 혐의(촉탁살인)로 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;재판부는 “피고인이 피해자로부터 부탁받고 범행했다고 하더라도 귀중한 생명을 빼앗은 이 사건 범행은 그 죄책이 절대 가볍지 않다”며 “다만 피고인이 44년간 결혼생활을 해온 피해자가 뇌종양 등으로 신체적 고통이 극심한 상태에서 극단적 선택을 할 생각으로 범행에 이른 점, 고령인 데다 살충제를 마신 후유증 등으로 건강 상태가 좋지 않은 점, 자녀가 선처를 탄원하는 점 등을 참작했다”고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>트럼프 시즌2, 기준금리 인하로 유동성 폭발을 부르나</title>
@@ -926,16 +935,6 @@
       <description/>
       <pubDate>Fri, 29 Nov 2024 15:50:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5PXKDWXNTZFONAQIEB4S4PLXGU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;일본 요이치 증류소가 오크통에서 증류액이 숙성되는 과정을 표현한 모습. /김지호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;입문용 위스키만 즐기다 보면 고숙성 제품에 대한 호기심이 생긴다. 18년 숙성된 제품만 마셔도 체감하는 맛의 차이가 크다. 그렇다면 25년, 30년 넘게 숙성된 제품들은 대체 얼마나 더 맛있는 걸까? 숙성 연수가 높을수록 위스키의 맛도 좋아질까?&lt;br&gt;&lt;br&gt;위스키도 사람처럼 전성기가 있다. 젊었을 때 아무리 잘나가도 어느 시기에 정점을 찍고 나면 꺾인다. 증류기에서 갓 탄생한 증류액은 오크통과 만나 친해지는 과정을 거친 뒤 위스키로 재탄생한다.&lt;br&gt;&lt;br&gt;오크통은 종류에 따라 바닐린, 타닌, 락톤, 리그닌 등 다양한 맛 성분을 가지고 있다. 증류액은 이런 다양한 맛을 빨아들이면서 서서히 오크통과 닮아간다. 기온에 따라 오크통이 수축하고 팽창하는 과정에서 화학반응이 일어나 오크통이 가진 맛 성분이 증류액에 스며드는 셈이다. 이런 과정을 숙성이라 부른다.&lt;br&gt;&lt;br&gt;스코틀랜드에서는 위스키가 되려면 최소 3년 이상 숙성해야 한다. 하지만 증류소는 최소 10~12년 이상 숙성한 제품을 시장에 내놓는다. 증류액과 오크통이 적당히 잘 버무려져 있는 시점이라고 판단해서다.&lt;br&gt;&lt;br&gt;위스키는 숙성할수록 거칠고 튀는 성격들이 깎여나간다. 그 과정에서 성숙해지며 풍미는 부드럽고 복합적으로 변한다. 하지만 이 또한 과유불급이다. 지나치면 오크통이 가진 풍미가 위스키 맛을 압도하기 시작한다. 과숙성의 영역으로 진입하는 구간이다. 위스키가 가졌던 좋은 맛 성분들은 점점 희미해지고 쓰디쓴 ‘오크 물’로 변한다. 40년 넘게 ‘잘못된 숙성’을 거친 위스키를 마신 적이 있다. 과장 좀 보태면 나무껍질을 씹어도 그보다는 달콤했을 것이다.&lt;br&gt;&lt;br&gt;오크통에서 숙성 중인 위스키가 가장 맛있는 순간을 ‘스위트 스폿’이라고 부른다. 마스터 블렌더들은 스위트 스폿을 놓치지 않기 위해 오크통을 끊임없이 관찰하고 시음한다. 어디 아픈 곳은 없는지, 누수는 없는지 자식처럼 신경 쓰고 돌봐야 한다. 잠깐 한눈판 사이에 엉뚱한 길로 샐지도 모른다.&lt;br&gt;&lt;br&gt;위스키 라벨에 쓰여 있는 큼지막한 숫자는 증류액과 오크통이 접촉한 시간을 말한다. 이는 증류소가 숙성 연수만큼 사람이 품을 들여 관리했다는 이야기로 해석할 수 있다. 스코틀랜드에서는 연간 2%씩 ‘천사의 몫’으로 돌아간다. 매년 판매할 수 있는 위스키의 양과 돈이 증발하는 셈이다. 맛을 떠나 숙성 연수가 가격에 비례할 수밖에 없는 이유다. 하지만 나이는 맛과 별개로 숫자에 불과하다.&lt;br&gt;&lt;br&gt;시간이 지나면서 얻는 게 있는 만큼 잃는 것도 있다. 아무리 좋은 차(茶)도 너무 오래 우리면 써진다. 그렇다고 너무 짧게 담갔다 빼면 맛이 싱겁다. 세상만사에 적당한 타이밍이 있듯이.&lt;br&gt;&lt;br&gt;위스키는 취향의 영역이다. 고상하고 얌전한 제품이 좋을 때도 있지만, 가끔은 톡톡 튀는 개성 강한 제품에 끌리기도 한다. 스스로를 맛의 감옥에 가둘 필요는 없다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>솔로, 돌싱, 끝사랑, 동성애… 온갖 연애 예능이 쏟아진다</title>
-      <link>https://www.chosun.com/national/weekend/2024/11/30/R2HUJXPFIZB6VHQQDD6MNQ4WZI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/weekend/2024/11/30/R2HUJXPFIZB6VHQQDD6MNQ4WZI/</guid>
-      <dc:creator>김경화 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 29 Nov 2024 15:50:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6I3QOTSXLRDZZCKSOP6XZ7ODXM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;무한 확장하고 있는 연애 프로그램의 세계. 왼쪽부터 50대 이상 출연자를 대상으로 한 ‘끝사랑’, 기독교인 한정 맞선 프로그램 ‘홀리한 내짝’, 점술가들을 모은 ‘신들린 연애’. 바야흐로 ‘연프 전성시대’다. /JTBC·CBS·SBS
-&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;주부 이현정(45)씨는 ‘연프(연애 프로그램) 마니아’다. 매주 목요일 밤이면 ‘나솔사계냐, 돌싱글즈냐’ 행복한 고민에 빠진다. ‘나는솔로(나솔·SBS플러스, ENA)’의 번외 편인 ‘나는 솔로, 그 후 사랑은 계속된다(나솔사계·ENA, SBS플러스)’와 ‘돌싱글즈(MBN)’ 본방 시간이 겹쳐 어느 쪽을 택할지 고민이라는 것이다.&lt;br&gt;&lt;br&gt;나솔은 연프의 원조 격인 일반적인 랜덤 맞선 리얼리티, 돌싱글즈는 말 그대로 ‘돌싱’이 주인공이다. “그나마 (목요일에 방영된) ‘끝사랑(JTBC)’이 끝나서 선택지가 줄어 다행이에요. 전 연애 프로그램은 빼놓지 않고 모두 챙겨 봐요. 저의 현실에서는 있을 수 없는 일이잖아요. 대리 연애하는 느낌이랄까요.”&lt;br&gt;&lt;br&gt;10대 기업 임원인 김모씨도 최근 끝난 50대 연애프로그램 ‘끝사랑’에 빠져 산다. 김씨는 “내 또래의 신사 숙녀들이 마지막 사랑을 찾아가는 여정에 감정이입하게 된다”며 “남성 갱년기인가 싶기도 한데, 주변에 나솔을 챙겨본다는 남자도 꽤 많다”고 말했다.&lt;br&gt;&lt;br&gt;바야흐로 연프 전성시대다. 얼마 전 지드래곤도 군대에서 연프에 중독됐다고 고백한 바 있다. “군대에서 처음 봤어요. 애들이 다같이 그걸 얼마나 이야기하던지. 감정이입이 안 되겠어요? (다음 편 기다리는) 3주가 3년 같아요.” 우주 대스타도 빠지는 연프의 매력은 뭘까.&lt;br&gt;&lt;br&gt;연프 중독자들의 말대로, 많은 사람이 연프를 보면서 대리 만족을 한다. 나한테 일어나지 않는 일, 일어나서는 안 되는 일을 대신 즐긴다는 것. 회사원 김모(41)씨는 매주 남편과 ‘나솔’을 본방 사수한다. 부부의 루틴이라고. 김씨는 다른 차원의 만족감을 느낀다고 했다. “온갖 인간 군상의 밑바닥 감정 싸움, 이해할 수 없는 인간 본성을 탐구하다 보면 저 치열한 경쟁을 뚫고 가정을 꾸렸다는 우월감, 안도감 같은 걸 느껴요. 정작 싱글들은 너무 찌질한 자신의 모습을 보는 것 같아서 못 보겠다고 하더라고요.”&lt;br&gt;&lt;br&gt;LG 계열 회사에 다니는 박모(45)씨도 반드시 아내와 시간을 맞춰 연프를 본다. 박씨는 “아내와 ‘너라면 저런 상황에 어떻게 하겠냐’ ‘어느 쪽을 고르겠냐’는 얘기를 하는 시간이 즐겁다”며 “부부 관계에 있어서도 계속 서로를 알아나가는 시간이 되는 것 같다”고 했다.&lt;br&gt;&lt;br&gt;미혼인 박민정(34·교사)씨는 “주변에 제한된 직업의 사람들만 만나게 되는데 연프를 보면서 사회성을 키우는 것 같기도 하다”며 “나는 썸탈 때, 연애할 때 저러지 말아야지 하는 교훈을 얻기도 한다”고 했다. 연프가 요즘 ‘문화인류학 교과서’가 됐다는 평이 나올 정도.&lt;br&gt;&lt;br&gt;세대별로 수렴하는 연프가 다른 경향도 보인다. ‘환승연애(티빙)’나 ‘하트시그널(채널A)’ 같은 아리따운 2030이 주인공인 프로그램(지디를 연프 중독의 길로 이끈)은 오히려 부담스럽다는 게 4050들의 얘기. 너무 거리감이 느껴진다는 것이다. ‘돌싱글즈’나 ‘끝사랑’은 이런 중장년층이 타깃이다. 연모와 친애의 감정에 목마른 건 나이와 무관하다는 얘기다.&lt;br&gt;&lt;br&gt;연프의 세계는 끝도 없이 확장하는 상황이기도 하다. 포맷과 콘셉트를 바꿔 여러 형태의 연프가 나오고 있는데, 최근 기독교방송인 CBS는 ‘홀리한 내짝’이라는 프로그램을 시작했다. 국내 최초 크리스천 연애 리얼리티. 종교인들이 상대를 찾을 때 필수 조건으로 종교를 고려한다는 점을 감안하면 납득이 가는 기획이다.&lt;br&gt;&lt;br&gt;반대 급부랄까. 지난여름에는 점술가들을 모은 연애 프로그램 ‘신들린 연애(SBS)’가 방영됐다. 사주든 신점이든 타로든, 점술가를 붙들고 연애운을 물어본 사람이 많을 것이다. 남의 연애운만 점쳐주던 점술가들이 자기 앞가림은 잘하는지, 좀 궁금하기도 하다.&lt;br&gt;&lt;br&gt;놀라지 마시라. 퀴어 연애 프로그램도 있다! 모든 출연자가 남자로 구성된 ‘남의연애(웨이브)’. 대부분 아이돌 뺨치는 훈훈한 외모를 자랑한다(그래서 원통해하며 챙겨 보는 여성 애청자가 많았다고). 남남(男男) 커플이 ‘촉’하고 버드키스 정도 나누는 장면은 구태여 가리지도 않았다. 부정적인 여론이 비등하지만, 남의연애는 벌써 시즌3까지 방영됐다. 레즈비언들이 출연하는 ‘너의연애’도 기획 중이라고 한다.&lt;br&gt;&lt;br&gt;남의연애 출연자 일부는 실제 연인이 돼 유튜브에 커플 브이로그를 올리고 있다. 구독자 31만. 연프 출연자들이 이처럼 방송의 인기에 힘입어 인플루언서 반열에 오르기도 한다. 그렇다 보니 “연예계 데뷔나 개인 사업을 띄우려는 사심으로 연애 예능을 이용한다”는 논란에 휩싸이기도. 연프 홍수 속에 계속 더 센 도파민을 좇다 보니 ‘빌런(악당)’, 극단적인 캐릭터들이 활용되면서 이들을 대상으로 한 ‘인민재판’이 열리는 경우도 있다. 보통 사람의 개인사가 이렇게까지 까발려지고 난도질당해도 괜찮은가 싶기도 하다. 연예 예능의 조상 격인 ‘짝’은 일반인 출연자의 사고로 종영됐다는 걸 기억할 필요도 있다.&lt;br&gt;&lt;br&gt;다음 연프는 뭘까. 시니어? 연상연하? 초딩? 참고로 10대의 연애를 다루는 프로그램은 이미 있었다(티빙의 ‘소년 소녀 연애하다’, 넷플릭스 ‘열아홉 스물’ 등). 무엇을 상상하든 그 이상을 보게 될 것 같은 느낌이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>부드러운 고기에 달달하고 간간한 맛</title>
