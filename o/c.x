@@ -13,6 +13,27 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>﻿정준하, 36억 강남 아파트 경매로…“억울하다” 그가 밝힌 전말</title>
+      <link>https://www.chosun.com/national/national_general/2024/12/03/XZ34KLYK4NBTNGU646WDQKIBTQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/03/XZ34KLYK4NBTNGU646WDQKIBTQ/</guid>
+      <dc:creator>이가영 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 02 Dec 2024 22:01:14 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AAQLGZR6MVF5VP2UOYX7AJ5FWA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;방송인 겸 사업가 정준하(53). /스포츠조선&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;방송인 겸 사업가 정준하(53)가 소유한 아파트가 경매에 넘어간 소식이 뒤늦게 알려졌다.&lt;br&gt;&lt;br&gt;3일 부동산 업계에 따르면 서울중앙지법은 지난 7월 정준하 소유의 서울 강남구 삼성동 중앙하이츠빌리지 아파트(전용 152㎡)에 대한 강제 경매 개시 결정을 내렸다. 채권자는 도매 주류업체 A사로, 2억3200여만 원을 받지 못했다며 이 아파트를 경매에 넘겼다.&lt;br&gt;&lt;br&gt;정준하와 그의 부친이 5대5 지분비율로 소유한 부동산이다. 경매는 정준하 보유 토지 면적의 절반인 36.4㎡에 대해 이뤄진다. 이 아파트의 최근 시세는 36억5000만원(8월 6일‧9층), 36억7000만원(8월 5일‧16층)이다. 감정가는 17억9500만원으로, 1차 매각기일은 오는 10일이다.&lt;br&gt;&lt;br&gt;이 같은 사실이 알려지자 정준하는 A사에 빌린 돈을 모두 갚았으나 지연손해금을 이유로 집이 경매에 넘어가게 됐다며 억울하다는 입장을 밝혔다.&lt;br&gt;&lt;br&gt;정준하 측에 따르면, 그는 선술집 2호점을 개업한 2018년 11월 A사로부터 2억원을 빌렸다. 40개월 동안 무이자로 빌리는 조건이었다고 한다. 정준하는 2019년 1월부터 2년간 매달 500만원씩 돈을 갚았으나 코로나로 인해 식당 운영이 어려워지며 2021년부터 25개월간 상환을 일시 중단했다. 이후 2024년 6월 말에 전액을 모두 갚았다고 했다.&lt;br&gt;&lt;br&gt;정준하는 YTN에 “해당 주류 업체와 7년을 거래했다”며 “빌린 돈을 모두 갚았고, 식당도 팔아야 해서 거래를 잠시 중단해야겠다고 말했다. 다른 업체와 두세 달만 거래해야 할 것 같다고 했더니 그게 괘씸했는지 말도 안 되는 경매를 걸었다”고 했다. 이어 “A사에서 합의금 1억8000만원을 요구하는 상황”이라며 “돈이 없어서 안 줬겠나. 사채나 고리대금을 쓴 것도 아닌데 이렇게 부당한 요구에 응할 수 없어서 소송을 걸게 됐다”고 했다.&lt;br&gt;&lt;br&gt;정준하 측 법률대리인 임영택 변호사(법무법인 늘품)는 경매개시결정을 취소해달라는 청구이의의 소를 제기하고, 강제집행정지도 신청했다고 밝혔다.&lt;br&gt;&lt;br&gt;임 변호사는 “정준하가 2억원을 전액 갚고 고지하자 며칠 후에 경매가 들어왔다”며 “공정증서에 지연손해금을 연 24%로 책정해 놨다. 이를 정준하에게 알리지 않고 진행한 것”이라고 주장했다. 이어 “지연손해금 24%가 있다는 걸 알았으면 바로 갚았거나 차라리 은행에서 빌려서 갚았을 것”이라며 “지금이라도 돈을 줘버리면 되는데 부당하니까 줄 수 없다는 입장이다. 2억원을 빌렸는데 2억3000만원을 내놓으라는 게 말이 되나”라고 되물었다. 그러면서 “지연손해금은 일종의 위약금으로, 위약금이 과도할 경우 대폭 감액하게 되어 있다”며 “법원에서 감액하는 판결이 나면 정준하는 그 길로 돈을 갚겠다는 생각”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“동덕여대 시위 저급” 공유했던 ‘미달이’…“온갖 조롱 겪었다”</title>
+      <link>https://www.chosun.com/national/national_general/2024/12/03/YGMHQFFKDVGRRJTPOXUFVCOKBQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/03/YGMHQFFKDVGRRJTPOXUFVCOKBQ/</guid>
+      <dc:creator>김가연 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 02 Dec 2024 22:12:54 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VMYL6JGMN5BS7A44WYHX5D3MCU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;배우 김성은(왼쪽)이 지난달 28일 인스타그램에 공유한 동덕여대 시위 반대 관련 게시물./인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘미달이’로 알려진 배우 김성은(33)이 동덕여대 후배들의 남녀공학 전환 반대 시위를 비판한 뒤 많은 조롱을 받았다고 했다.&lt;br&gt;&lt;br&gt;김성은은 2일 자신의 인스타그램 스토리에 “대한민국은 표현의 자유가 보장된 민주주의 공화국”이라며 “본인 포함 모교 시위에 반대하는 사람들은 나름의 이유가 있으며 그 의견을 자유롭게 표현할 권리가 있다”고 썼다.&lt;br&gt;&lt;br&gt;그는 “나는 불특정 다수인 당신들과 연대하지 않거나 지지하지 않는다고 해서 온갖 조롱과 희롱을 겪고있지만 아무 상관 없다”라며 “학교나 저에게나 법에 어긋나는 부분은 결국 판결을 통해 밝혀질 것”이라고 했다.&lt;br&gt;&lt;br&gt;이어 “나는 고작 한마디의 목소리를 냈고 그에 대한 반응은 격렬한 천 마디로 돌아왔다”라며 “며칠 전 의견 표출 후에 남편이 괜찮냐고 물었다. 나는 괜찮다고 답했고, 힘내주고 계신 여러분 또한 괜찮기를 바란다”고 덧붙였다.&lt;br&gt;&lt;br&gt;앞서 김성은은 지난달 28일 자신의 인스타그램에 시위를 반대하는 입장의 재학생이 올린 게시물을 공유했다. 해당 게시물에는 “수준 낮고 저급하디 저급한 억지시위를 멈춰달라”는 글과 함께 교내에 ‘김명애 아웃(OUT)’이라고 적힌 포스터 등이 붙은 사진이 첨부됐다.&lt;br&gt;&lt;br&gt;김성은은 1998년 방영된 인기 시트콤 ‘순풍산부인과’에서 미달이 역을 맡아 아역배우로 활동했으며, 동덕여대 방송연예과를 졸업했다.&lt;br&gt;&lt;br&gt;동덕여대 시위와 관련해 입장을 밝힌 건 김성은 뿐만이 아니다. 앞서 ‘정답소녀’로 알려진 배우 김수정(20)이 연예인으로서는 처음으로 공학 전환 반대 서명에 참여한 사실을 밝히며 시위 지지를 호소한 바 있다.&lt;br&gt;&lt;br&gt;동덕여대에서는 지난달부터 남녀공학 전환을 반대하는 재학생들의 농성시위와 수업 거부가 이어지고 있다. 학교는 총장 명의로 총학생회장을 비롯한 학생과 성명불상자 21명을 공동재물손괴·공동건조물침입 등의 혐의로 고소했다.&lt;br&gt;&lt;br&gt;총학생회는 학교가 학생들에게 사과하고 남녀공학 전환 문제를 차기 총학생회와 논의하겠다고 약속할 경우 본관 점거를 철회할 수 있다며 요구안을 제시했으나, 학교 측은 “일말의 반성과 책임감 없는 총학생회의 태도를 안타깝게 생각한다. 지금이라도 불법행위 책임을 인정하고 점거를 해제하라”며 총학 측의 요구안을 받아들일 수 없다는 입장을 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/SUHRHWKRUBGRBG43Y2275SP4BE.jpg?width=466&amp;height=349&amp;auth=1ec0e3f7ac90a42c595e631218b971b6c6b4da985e40e6e2733890ab17ff7558&amp;smart=true" type="image/jpeg" height="349" width="466">
+        <media:description type="plain">배우 김성은(왼쪽)이 28일 인스타그램에 공유한 동덕여대 시위 반대 관련 게시물./인스타그램</media:description>
+      </media:content>
+    </item>
+    <item>
       <title>[단독] 문학 리포트에 ‘멘붕’ ‘ㅠㅠ’... 서울대 신입생 전원 글쓰기 시험 본다</title>
       <link>https://www.chosun.com/national/national_general/2024/12/03/R5JJWZDAHREBHHRRQF36CE2VVQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/03/R5JJWZDAHREBHHRRQF36CE2VVQ/</guid>
@@ -881,24 +902,6 @@
 &lt;저작권자 ⓒ 1980-2024 ㈜연합뉴스. 무단 전재 재배포 금지, AI 학습 및 활용 금지&gt;</media:description>
         <media:credit role="author" scheme="urn:ebu">정다움</media:credit>
       </media:content>
-    </item>
-    <item>
-      <title>경찰·노동부, ‘연구원 3명 질식사’ 현대차 울산공장 압수수색</title>
-      <link>https://www.chosun.com/national/regional/2024/12/02/C2RFOGYPTJFPDL35LST634ELWE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/12/02/C2RFOGYPTJFPDL35LST634ELWE/</guid>
-      <dc:creator>울산=김주영 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 02 Dec 2024 01:21:16 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/T5LH5QJHQLXOEQ3RCF52Y66OX4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 11월 19일 울산시 북구 현대자동차 울산공장에서 차량 성능 테스트 중 연구원 3명이 숨진 가운데 다음날인 20일 경찰 차량이 합동감식을 위해 공장으로 들어가고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰이 현대자동차 울산공장에서 차량 성능 실험을 하던 연구원 3명이 질식해 숨진 사고와 관련, 2일 이 공장에 대한 압수수색에 나섰다.&lt;br&gt;&lt;br&gt;울산경찰청은 이날 오전 9시부터 고용노동부와 함께 30여 명을 투입해 울산 북구 현대차 울산공장을 압수수색 중이다.&lt;br&gt;&lt;br&gt;경찰과 노동부는 사고가 발생한 현대차 울산공장의 전동화품질사업부와 안전 담당 부서에서 당시 작업 관련 자료, 안전 관련 서류 등을 확보 중인 것으로 알려졌다.&lt;br&gt;&lt;br&gt;고용노동부는 이번 사고와 관련해 지난달 29일부터 현대차 울산공장을 대상으로 산업안전 특별감독을 벌이고 있다.&lt;br&gt;&lt;br&gt;노동부는 특별감독을 통해 산업안전보건법상 안전보건수칙 준수 여부를 전반적으로 들여다보고 있다.&lt;br&gt;&lt;br&gt;지난달 19일 오후 현대차 울산공장 전동화품질사업부의 차량 실험 공간인 체임버에서 현대차 남양연구소 연구원 2명과 협력업체 연구원 1명 등 3명이 숨졌다.&lt;br&gt;&lt;br&gt;이 연구원들은 당시 차량 성능과 아이들링(공회전) 실험 도중 배기가스에 질식해 숨진 것으로 추정되고 있다. 경찰은 연구원들이 일산화탄소에 중독된 것에 무게를 두고 수사를 이어나가고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>사고 차량서 20대 외국인 흉기 찔린 채 발견...외국인 동승자 구속</title>
-      <link>https://www.chosun.com/national/incident/2024/12/02/NYSIGOG7LNHHLNJ5DSTXCPCOZU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/12/02/NYSIGOG7LNHHLNJ5DSTXCPCOZU/</guid>
-      <dc:creator>고양=김현수 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 02 Dec 2024 01:27:21 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/54FTUISTLZDHJELX6W5GW5V5XU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;고속도로에서 사고가 난 차량 안에 있던 키르기스스탄 국적 운전자가 흉기에 찔린 채 발견됐다.&lt;br&gt;&lt;br&gt;경기 일산동부경찰서는 살인미수 혐의로 우즈베키스탄 국적 20대 남성 A씨를 구속했다고 2일 밝혔다.&lt;br&gt;&lt;br&gt;앞서 키르기스스탄 국적 20대 남성 B씨는 지난달 29일 오후 11시쯤 수도권 제1순환고속도로 김포 방향 고양IC 인근 우측 도로 경계석을 들이받고 멈춰 선 차량에서 흉기에 찔린 채 발견됐다. 당시 B씨는 목과 가슴에 여러 차례 흉기에 찔려 피를 흘리고 있던 상황이다. B씨는 병원에서 치료 중이며, 생명에는 지장이 없는 것으로 전해졌다.&lt;br&gt;&lt;br&gt;조수석에는 A씨가 동승해 있던 것으로 확인됐다. 경찰은 차량 내부에서 흉기를 발견하고, A씨를 상대로 범행 경위를 조사하고 있다. 흉기는 A씨 소유인 것으로 확인됐다.&lt;br&gt;&lt;br&gt;A씨는 현장에서 범행을 시인해 경찰에 긴급 체포된 뒤 “사고를 낸 후 범행했다”고 진술한 것으로 알려졌다. A씨와 B씨는 친구 사이로 불법체류자가 아닌 근로자 신분인 것으로 파악됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>경기 안성 국도에서 18중 추돌사고...1명 사망</title>
