@@ -13,6 +13,114 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>4분만에 상공 130m…‘서울달’ 탑승객 100일만에 2만명 돌파</title>
+      <link>https://www.chosun.com/national/national_general/2024/12/03/LPHKCBULKJF7JEWZVWGHMO6HDI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/03/LPHKCBULKJF7JEWZVWGHMO6HDI/</guid>
+      <dc:creator>박진성 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 03 Dec 2024 02:37:18 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7NZKELWE2BNXNOLQYW3L3OZKKE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울달 개장식이 열린 8월 서울 영등포구 여의도 상공에 서울달이 높게 떠 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 여의도 상공에서 한강과 도심을 한눈에 내려다볼 수 있는 가스 기구(벌룬) ‘서울달’이 정식 운영 100일 만에 탑승객 2만명을 돌파했다.&lt;br&gt;&lt;br&gt;서울시는 서울달이 지난 8월 정식 개장 이후 약 석 달 동안 탑승객 2만명, 매출 5억원, 1800회 이상 무사고 비행을 달성했다고 3일 밝혔다.&lt;br&gt;&lt;br&gt;서울달은 헬륨가스의 부력을 이용해 비행하는 ‘가스 기구’다. 기구의 풍선(기낭) 안에 공기보다 가벼워 둥둥 뜨는 헬륨 가스를 채우고 로프를 매달아 130m 상공을 위아래로만 움직인다. &lt;br&gt;&lt;br&gt;승객을 태우기 위해 땅에 내릴 때는 로프를 감았다가 상공에 올라갈 때는 푸는 식으로 운영한다. 프랑스 파리에 있는 명물 ‘발롱 드 파리’와 비슷하다. 운행 시간은 1회 15분, 요금은 성인 기준 2만5000원이다. 화요일~일요일 낮 12시부터 밤10시까지 운영한다.&lt;br&gt;&lt;br&gt;탑승객 2만명 중 20%는 외국인 관광객이었다. 서울시 관계자는 “서울을 대표하는 관광 상품으로 자리매김하고 있다는 뜻”이라고 말했다.&lt;br&gt;&lt;br&gt;탑승객 1383명(외국인 200명 포함)을 대상으로 설문조사를 해보니 탑승 경험은 90.9점을 기록했다. 특히 외국인 탑승객의 만족도 93.6점으로 내국인(90.4점)보다 높았다.&lt;br&gt;&lt;br&gt;서울시는 더 많은 국내외 관광객이 서울달을 탑승할 수 있도록 호텔이나 여행사와 연계한 관광상품을 추진하고 있다. 다자녀 가정 할인 확대 등도 검토할 계획이다.&lt;br&gt;&lt;br&gt;김영환 서울시 관광체육국장은 “서울달은 명실상부한 서울 대표 관광 랜드마크로 자리매김했다”며 “서울달과 같은 체험형 관광 콘텐츠를 확대해 ‘관광 매력도시 서울’을 전 세계에 선보이겠다”고 말했다.&lt;br&gt;&lt;br&gt;길기연 서울관광재단 대표이사는 “서울달을 방문하시는 모든 관광객이 행복한 추억을 만들 수 있도록 안전을 최우선으로 운영하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[속보] 경찰, 서울의소리 압수수색</title>
+      <link>https://www.chosun.com/national/national_general/2024/12/03/ZHJWXOAJVZE3HDC6FS2MBMNUUA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/03/ZHJWXOAJVZE3HDC6FS2MBMNUUA/</guid>
+      <dc:creator>박정훈 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 03 Dec 2024 02:28:43 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JGH3SYV7U5J6JGU72LXG2MN5RU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;백은종 서울의 소리 대표가 지난 10월 31일 서울 서초구 서울중앙지방검찰청에서 윤석열 대통령 부인 김건희 여사 명품백 사건 항고 이유서 제출에 앞서 발언하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰이 인터넷언론 서울의소리에 대한 압수수색을 진행하고 있다.&lt;br&gt;&lt;br&gt;서울경찰청 반부패수사대는 3일 오전 서울 영등포구 서울의소리 사무실 등에서 압수수색 영장을 집행하고 있다.&lt;br&gt;&lt;br&gt;경찰은 최재영 목사와 김대남 전 대통령실 행정관 명예훼손 혐의와 관련해 서울의소리를 압수수색하고 있는 것으로 파악됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>동남아서 유튜브 생중계...300억대 도박장 운영 34명 덜미</title>
+      <link>https://www.chosun.com/national/regional/chungcheong/2024/12/03/FIQOYSSZNVH5NGNAFQLIHVZA4A/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2024/12/03/FIQOYSSZNVH5NGNAFQLIHVZA4A/</guid>
+      <dc:creator>신정훈 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 03 Dec 2024 02:47:18 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XXUVVMZNRZJVZJ7RRYR7KJN5C4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;충북 경찰이 검거한 일당이 동남아에서 카지노 게임을 실시간 중계하는 영상/뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;동남아에서 원격도박장을 운영하고 도박에 참여한 34명이 무더기로 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;충북경찰청 사이버범죄수사대는 도박 공간 개설 등 혐의로 운영진 A(40대)씨 등 4명을 구속하고, 딜러등 30명은 불구속 송치했다고 3일 밝혔다.&lt;br&gt;&lt;br&gt;A씨 등은 2022년부터 지난해까지 동남아 지역에 사무실을 차려 바카라 등의 도박에 원격으로 참여할 수 있도록 다수의 유튜브 채널을 운영한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;이들은 유튜브로 실시간 중계를 하며 채팅을 통해 국내 도박 참여자를 대신해 베팅하는 등의 방식으로 도박판을 운영한 것으로 조사됐다. 이들이 운영한 유튜브 채널은 20여개에 달하며 범행 기간 도박액수는 300억원 규모로 조사됐다.&lt;br&gt;&lt;br&gt;경찰 조사결과 이들은 온라인 상담, 환전, 재무 관리 등 역할을 나눠 조직적으로 범행을 이어온 것으로 드러났다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “국내에 있던 피의자들을 먼저 검거했다”며 “범행에 가담한 나머지 운영진들도 끝까지 추적해 모두 붙잡을 방침”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>연달아 '기습 한파'...원인은 느슨해진 제트기류</title>
+      <link>https://www.chosun.com/national/transport-environment/2024/12/03/S622AZLUYBBEZCP5O7H4VQVWDM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2024/12/03/S622AZLUYBBEZCP5O7H4VQVWDM/</guid>
+      <dc:creator>박상현 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 03 Dec 2024 02:38:32 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UAJXWMCRGVH23PKKOMDE6S7XBM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;영하권 추위가 시작된 3일 오전 서울 광화문네거리에서 시민들이 두터운 옷을 입고 출근길 발걸음을 옮기고 있다. /박상훈 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;하루 아침에 수은주가 10도 가량 급격히 떨어지는 ‘기습 한파(寒波)’가 연달아 나타나고 있다. 온난화 여파로 북극 찬 바람을 막아주는 고위도 ‘제트 기류’가 망가진 영향으로 분석된다.&lt;br&gt;&lt;br&gt;기상청에 따르면, 북쪽에서 찬 공기가 남하해 들어오며 3일 중부지방을 중심으로 전날보다 아침 기온이 5~10도 떨어져 영하권에 들었다. 이날 서울은 기온이 영하 2.2도까지 내려갔고, 찬 바람 탓에 체감기온은 영하 6.7도까지 떨어졌다.&lt;br&gt;&lt;br&gt;올겨울 초반 우리나라의 추위 양상은 중국 쪽 대륙고기압에서 한반도로 불어오는 찬 바람이 마치 깔대기를 통과하듯 압축돼 들어오고 있다는 것이다. 원인은 제트기류에서 떨어져나온 거대 공기덩어리인 ‘절리(切離) 저기압’이 한반도 북쪽에 자주 자리하고 있는 것이 꼽힌다. 제트기류는 고위도에서 서에서 동으로 부는 강한 바람으로, 북극 한기의 남하를 막는 방어막 역할을 한다. 그런데 온난화 여파로 이 기류가 느슨해지면서 공기덩어리가 자주 뚝 떨어져나오고 있다.&lt;br&gt;&lt;br&gt;북극 한기를 머금은 이 공기덩어리는 무거워서 잘 움직이지 않는다. 한반도 북쪽에 일종의 ‘거대 공기 장애물’이 생기는 효과가 생긴다. 이에 북쪽에서 한반도로 찬 공기가 들어올 때 바람 길이 좁아지게 되고, 찬 공기가 좁은 구간을 통과하는 과정에서 바람의 압력이 강해지며 우리나라로 들어오는 찬 바람 강도 역시 세지는 것이다.&lt;br&gt;&lt;br&gt;바람길이 형성되는 모양에 따라 이렇게 강해진 찬 바람이 따뜻한 서해상을 통과하게 되면 지난달 27~28일처럼 폭설이 내리게 되고, 내륙으로 곧장 들어오면 한파를 야기하게 된다. 지난달 29일 폭설 후 기습 한파가 몰아친 것도 바람길이 서해상을 향하다가 내륙으로 방향을 틀면서 찬 바람이 곧장 한반도로 들어왔기 때문이다. 이런 ‘절리 저기압’이 자주 형성될수록 ‘기습 한파’도 자주 나타날 수 있다.&lt;br&gt;&lt;br&gt;한편 4일에도 한파가 이어져 전국 기온은 최저 영하 6도에서 영상 3도, 최고 2~10도의 분포를 보일 것으로 전망됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>임영웅, 사랑의 열매에 3억 기부</title>
+      <link>https://www.chosun.com/national/people/2024/12/03/7PT674YCBBDWLGEVQXHXVLY6F4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/12/03/7PT674YCBBDWLGEVQXHXVLY6F4/</guid>
+      <dc:creator>김보경 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 03 Dec 2024 02:12:12 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XUGD6B4T6XKX5W4BBIDDXQBTOA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;가수 임영웅. /조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;임영웅이 사랑의 열매에 3억원을 기부했다.&lt;br&gt;&lt;br&gt;사랑의 열매는 지난 2일 가수 임영웅이 팬클럽 ‘영웅시대’ 이름으로 3억원을 기부했다고 3일 밝혔다. 임영웅이 낸 2억원과 소속사 물고기뮤직이 낸 1억원을 더해 조성된 기부금이라고 한다.&lt;br&gt;&lt;br&gt;임영웅은 지난 2021년부터 사랑의 열매에 꾸준히 기부해 오고 있다. 임영웅이 사랑의 열매로 전달한 누적 기부액은 지난 5월까지만 해도 9억 원에 달했다. 임영웅은 지난 10월 12일에 대전월드컵경기장에서 열린 ‘하나은행 자선축구대회’ 티켓 판매 수익금 12억원 전액을 월드비전과 사랑의 열매에 기부하기도 했다.&lt;br&gt;&lt;br&gt;사랑의 열매에 따르면 기부금은 기부자 임영웅의 뜻에 따라 저소득 취약계층이 따뜻한 겨울을 보낼 수 있도록 사용될 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>동국대 권오춘 석좌교수 장학금 기부...모교에 누적 113억</title>
+      <link>https://www.chosun.com/national/people/2024/12/03/BS6CA6HGSRAVLKOJQRK7I7HAU4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/12/03/BS6CA6HGSRAVLKOJQRK7I7HAU4/</guid>
+      <dc:creator>김보경 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 03 Dec 2024 02:13:28 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WIREMELFNJECPAGWZ4T6KPKAMI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;권오춘 동국대 교육대학원 석좌교수. /동국대&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;권오춘 동국대 교육대학원 교수가 동국대 사범대·예술대 학생들을 위해 장학금을 전달했다.&lt;br&gt;&lt;br&gt;동국대는 지난달 26일 ‘2024년도 초허당 사범대학 및 미술대학 장학증서 수여식’을 진행했다고 3일 밝혔다. ‘초허당 장학금’은 권 교수의 호(號)를 따 명명한 장학기금이다. 이번 장학금은 사범대•예술대 3학년 재학생 중 경제적 형편이 어려운 학생을 단과대 별 1명씩 선정해, 총 11명 학생에게 각 100만원씩 수여됐다.&lt;br&gt;&lt;br&gt;동국대에 따르면 권 교수는 2005년 서울 양재동 소재 오피스텔 5채 기부를 시작으로 모교 발전에 힘을 보태고 있다. 권 교수가 동국대로 전달한 기부 총액은 환산하면 약 113억 원에 달한다고 한다. 기부금은 권 교수의 뜻에 따라 동국대 내 여러 단과대 학생들이 수혜를 입을 수 있도록 전달될 전망이다.&lt;br&gt;&lt;br&gt;지난달 26일 열린 장학증서 수여식에 권 교수는 참석하지 못했다. 최응렬 교무부총장은 “후배 사랑을 실천 중이신 권 교수님께 다시 한 번 감사드린다”면서 “오늘은 장학금을 받는 사람이지만, 장학생들이 나중에는 권 교수님처럼 장학금을 주는 기쁨을 느낄 수 있는 인재로 성장하길 바란다”고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7RC4V7V3SZEDVBVWBOT52WAVUE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 26일 동국대 ‘2024년도 초허당 사범대학 및 미술대학 장학증서 수여식'에서 장학금을 받은 학생들이 장학증서를 펼쳐 보이고 있다. 장학금 기부자인 권오춘 교수가 참석하지 못해 최응렬 동국대 교무부총장이 함께 기념사진을 촬영했다. /동국대&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>공금 빼돌려 가상화폐 투자...청주시 공무원 징역형</title>
+      <link>https://www.chosun.com/national/regional/chungcheong/2024/12/03/3MTRZZJKC5BIDNIF5AJFFOQ26Q/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2024/12/03/3MTRZZJKC5BIDNIF5AJFFOQ26Q/</guid>
+      <dc:creator>신정훈 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 03 Dec 2024 01:57:26 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7J4T6KTWKBDWTAAGIE74JXUW6Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;청주지법 전경. /신정훈 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;공금을 횡령해 가상화폐에 투자한 청주시청 공무원이 징역형을 선고받았다.&lt;br&gt;&lt;br&gt;청주지법 형사1단독 권노을 판사는 3일 업무상 횡령, 공전자기록등위작 등의 혐의로 구속기소된 청주시청 6급 공무원 A(40대)씨에게 징역 5년을 선고했다.&lt;br&gt;&lt;br&gt;청주시청에서 학생근로활동 사업, 북한이탈주민 정착지원 사업 등의 업무를 담당한 A씨는 2017년 1월부터 약 7년 동안 각종 공문서 등을 위조해 공금 6억원을 횡령한 혐의로 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;그는 이들에게 지원금을 지급했다고 가짜 문서를 만들어 자신의 계좌로 돈을 빼돌렸다. 이렇게 빼돌린 돈은 가상화폐와 주식에 투자하거나 개인 빚을 갚는 데 사용한 것으로 조사됐다&lt;br&gt;&lt;br&gt;권 판사는 “피고인은 오랜 기간 반복적으로 범행해 죄질이 좋지 않다”며 “다만, 피해 금액 일부를 갚았고, 형사처벌 받은 전력이 없는 점을 참작해 형을 정했다”고 판시했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>아버지에 간 떼어준 고등학생, 이주여성 국적취득 도운 퇴직공무원들</title>
+      <link>https://www.chosun.com/national/people/2024/12/03/54NSGNFD6VFXZI3LPGG2HZAGFQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/12/03/54NSGNFD6VFXZI3LPGG2HZAGFQ/</guid>
+      <dc:creator>장윤 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 03 Dec 2024 01:08:02 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YIL6H7BBW5E43G757CWZNNH5S4.PNG"&gt;&lt;figcaption&gt;&lt;small&gt;지난 2일 가천효행대상 남학생 부문 대상으로 선정된 장희수군과 여학생 부문 대상으로 선정된 최송희양./가천문화재단 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;가천문화재단(이사장 윤성태)이 2일 ‘제26회 가천효행대상’ 수상자 17명을 선정했다.&lt;br&gt;&lt;br&gt;가천효행상 남학생 부문 대상에는 간암으로 생사의 기로에 놓인 아버지에게 자신의 간 70%을 이식한 장희수(18·부산전자공고 3학년)군이 선정됐다. 장군은 어린 동생을 돌보며 집안일을 도맡아 하고 있다.&lt;br&gt;&lt;br&gt;여학생 부문에선 수차례의 허리 수술로 거동이 불편한 할머니를 간호하며 세 동생을 돌본 최송희(16·신명여고 1학년)양이 대상을 받는다.&lt;br&gt;&lt;br&gt;다문화효부상 대상은 2010년 결혼 후 치매 환자인 시아버지와 연로한 시어머니를 봉양하면서 지적장애가 있는 딸을 보살피고 있는 김민서(45·베트남 출생·울산 거주)씨가 받는다. 다문화도우미상 대상에는 진도군청 퇴직공무원들이 결성한 진도행복나눔봉사협회가 선정됐다. 이 협회는 이주여성의 국적취득과 개명신청을 돕고 있다. 효행교육상 대상은 아동에게 다양한 ‘효행미션’을 지도하고 효행 경험을 발표하게 한 인천광역시 남동구 구립지역아동센터가 받게 됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[부음]김문기 강원도 대변인 모친상</title>
+      <link>https://www.chosun.com/national/obituary-personnel/2024/12/03/KJL57T3EAVBOHCGK6BGXTUPB24/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2024/12/03/KJL57T3EAVBOHCGK6BGXTUPB24/</guid>
+      <dc:creator>정성원 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 03 Dec 2024 01:53:10 +0000</pubDate>
+      <content:encoded>▲최영순 별세, 김성기·김문기 강원도 대변인 모친상 =3일 오전 강원 속초시 속초보광병원 장례식장 VIP실, 발인 5일 7시30분, (033)633-7444&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>제주 온 베트남 관광객 38명, 귀국 비행기 안 타고 사라졌다</title>
+      <link>https://www.chosun.com/national/regional/2024/12/03/FTDAWNGT7JAURBMWZAGPUR7FLM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/12/03/FTDAWNGT7JAURBMWZAGPUR7FLM/</guid>
+      <dc:creator>제주=오재용 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 03 Dec 2024 01:32:01 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3ZRERVNGIVE7XDVI2S4NKW4JKU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;제주도청 정문./제주도&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제주 무사증(무비자)으로 제주를 찾았던 베트남 단체 관광객 중 30여 명이 귀국 항공편에 탑승하지 않은 것으로 확인됐다.&lt;br&gt;&lt;br&gt;3일 제주관광공사에 따르면 지난달 14일 비엣젯항공 전세기를 타고 베트남 나트랑에서 제주로 입국한 베트남인 80여 명 중 38명이 고국으로 가는 항공편에 탑승하지 않았다.&lt;br&gt;&lt;br&gt;이들 베트남인은 지난달 17일 귀국 항공편을 타기 전 마지막으로 들른 관광지에서 돌연 연락을 끊고 잠적한 것으로 파악됐다. 이들이 무사증 입국해 제주에 머물 수 있는 허가 기간은 30일로, 오는 14일까지다. 이 기간을 넘기면 불법체류자 신분이 된다.&lt;br&gt;&lt;br&gt;이 여파로 오는 25일부터 내년 2월 13일까지 예정돼 있던 비엣젯항공 전세기 운항 6건은 모두 취소됐다.&lt;br&gt;&lt;br&gt;제주출입국·외국인청 관계자는 “관광지 주변 방범카메라(CCTV) 영상을 확인하는 등 이들의 소재 파악에 나서고 있다”며 “오는 14일이 되면 제주 무사증 이탈자 검거반을 편성해 본격적인 검거 활동을 할 계획”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>악성 민원 시달리다 숨진 김포시 공무원 9개월 만에 순직 인정</title>
+      <link>https://www.chosun.com/national/incident/2024/12/03/ZG73JLTU35FBBNHIUD67W3VGJQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/12/03/ZG73JLTU35FBBNHIUD67W3VGJQ/</guid>
+      <dc:creator>김포=김현수 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 03 Dec 2024 01:06:19 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OMNJVOFTTBI3VJ47LH5HTJVEJ4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 3월 13일 오전 김병수 경기 김포시장이 항의성 민원에 시달리다 숨진 공무원과 관련해 김포경찰서에 수사의뢰서를 제출하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;올해 초 항의성 민원에 시달리다가 숨진 경기 김포시 공무원이 순직을 인정받았다.&lt;br&gt;&lt;br&gt;3일 김포시에 따르면 인사혁신처는 최근 공무원재해보상심의회를 열고 숨진 김포시 9급 공무원 A(37)씨의 순직을 인정했다. 인사혁신처는 A씨의 업무와 사망 간에 인과관계가 있다고 판단한 것으로 전해졌다. 이번 결정에 따라 A씨 유가족은 유족급여를 받을 수 있게 됐다.&lt;br&gt;&lt;br&gt;앞서 A씨는 지난 3월 5일 오후 3시 40분쯤 인천시 서구 도로에 주차한 차량에서 숨진 채 발견됐다. 그는 숨지기 닷새 전인 2월 29일 김포 도로에서 진행된 포트홀(도로 파임) 보수 공사로 차량 정체가 빚어지자 항의성 민원전화에 시달린 것으로 확인됐다. 이 과정에서 A씨에 대한 신상이 온라인 카페에 올라왔고, 비난하는 댓글도 잇따라 달렸다.&lt;br&gt;&lt;br&gt;경찰은 A씨 신원과 악성 글을 온라인 카페에 올린 민원인 2명을 정보통신망 이용촉진 및 정보보호 등에 관한 법률상 명예훼손 등 혐의로 불구속 입건해 검찰에 송치했다.&lt;br&gt;&lt;br&gt;김포시 관계자는 “순직 인정 결정에 따라 A씨의 특별 승진 절차도 밟고 있다”며 “고인의 명예 회복을 위해 최선을 다하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“혼자 끼니는 잘 드세요?” 야쿠르트 배달 때 살핀다</title>
+      <link>https://www.chosun.com/national/national_general/2024/12/03/IKL44K5MJNHHNAHHKOUK37MW2E/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/03/IKL44K5MJNHHNAHHKOUK37MW2E/</guid>
+      <dc:creator>박진성 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 03 Dec 2024 00:25:12 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WIFQUNERORK3ZCUZ3INWWOXIPA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;오세훈(왼쪽 여섯번째) 서울시장이 2일 오전 서울 중구 서울시청에서 열린 '외로움 없는 서울' 민관협력 업무협약식에서 기념 촬영을 하고 있다. 왼쪽부터 문은경 한국빨래방협회 이사, 손지욱 BGF리테일 커뮤니케이션 실장, 윤명랑 풀무원식품 마케팅본부장, 함윤식 우아한형제들 부사장, 황도연 당근마켓 대표, 오세훈 서울시장, 안병현 교보문고 대표, 변경구 hy 대표, 김경숙 대상 ESG 경영실장, 김천주 GS리테일 편의점지원 부문장, 진수희 서울시복지재단 대표/뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울시가 1인 가구의 고립·은둔 문제를 해결하기 위해 기업들과 손을 잡았다. 서울시는 2일 기업·단체 9곳과 ‘외로움 없는 서울을 위한 업무협약’을 체결했다고 밝혔다.&lt;br&gt;&lt;br&gt;아홉 단체는 교보문고, 당근마켓, hy(한국야쿠르트), 우아한형제들, GS리테일, 대상, BGF리테일, 풀무원식품, 사단법인 한국빨래방협회다.&lt;br&gt;&lt;br&gt;서울시 관계자는 “시와 기업, 단체가 자신만의 특기를 살려 시민들의 외로움 문제를 풀어보자는 취지에서 뭉쳤다”고 했다.&lt;br&gt;&lt;br&gt;교보문고는 ‘외로움’을 주제로 책 모임을 연다. 참가자들에게는 교보문고가 여는 강연회에 참여할 수 있는 기회를 준다.&lt;br&gt;&lt;br&gt;이른바 ‘야쿠르트 아줌마’들은 서울 곳곳을 다니며 홀로 사는 노인의 안부를 확인한다. 이미 독거노인 8000명을 살피고 있는데 이를 1만명으로 확대하기로 했다.&lt;br&gt;&lt;br&gt;음식 배달 플랫폼인 ‘배달의민족’ 앱에서는 자신의 ‘고립 위험도’를 체크해 볼 수 있는 자가 진단 코너를 운영하기로 했다. 진단 결과를 서울시의 ‘외로움 안녕 120′ 등에 공유하면 할인 쿠폰을 준다. ‘외로움 안녕 120′은 서울시가 24시간 운영하는 고독 문제 전담 콜센터다. 내년 4월부터 운영한다. 120다산콜로 전화를 건 뒤 전담 상담원을 찾으면 된다.&lt;br&gt;&lt;br&gt;당근마켓은 고립·은둔 상황을 극복한 시민과 고립·은둔 청년을 모아 동네 모임을 만들 예정이다. 1인 가구가 자주 찾는 편의점과 빨래방에는 외로울 때 상담을 받을 수 있는 방법 등을 안내하는 포스터를 붙일 예정이다. 다른 시민들과 어울릴 수 있는 ‘마음 편의점’도 4곳 생긴다. 편의점처럼 편하게 들를 수 있는 장소라는 뜻이다. 대상과 풀무원이 준비한 쌀국수와 볶음밥, 라면을 만들어 먹을 수 있다.&lt;br&gt;&lt;br&gt;통계청에 따르면, 서울시 1인 가구는 전체 가구의 38.2%다. 세 집 중 한 집꼴로 혼자 사는 셈이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>﻿정준하, 36억 강남 아파트 경매로…“억울하다” 그가 밝힌 전말</title>
       <link>https://www.chosun.com/national/national_general/2024/12/03/XZ34KLYK4NBTNGU646WDQKIBTQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/03/XZ34KLYK4NBTNGU646WDQKIBTQ/</guid>
@@ -754,60 +862,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RRALZ3RH5NJ6DDBSH4MKO5RVPA.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;지난 1일 오전 국립제주호국원에서 지난해 화재 현장에서 순직한  고(故) 임성철 소방장 순직 1주기 추도식이 열리고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난해 12월 제주에서 화재 진압 중 29살의 젊은 나이에 순직한 임성철 소방장의 친형도 소방관이 됐다는 사실이 알려졌다.&lt;br&gt;&lt;br&gt;지난 1일 임성철 소방장의 1주기 추모식이 국립제주호국원에서 열렸다. 추모식에는 유가족과 오영훈 제주지사, 소방공무원 등 150여명이 참석해 고인을 추모했다.&lt;br&gt;&lt;br&gt;특히 이날 추모식에는 올해 소방공무원 시험에 합격해 현재 교육을 받는 중인 고인의 형 임지혁씨와 동기 교육생들도 참석했다.&lt;br&gt;&lt;br&gt;임지혁씨는 과거 임성철 소방장에게 ‘함께 소방공무원이 돼 생명을 살리는 뜻깊은 일을 하자’고 약속했었다고 한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/T6LTAH7DNNIK5BWKEG5WENPZ4M.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;지난 1일 오전 국립제주호국원에서 열린 고(故) 임성철 소방장 순직 1주기 추도식에서 소방동료들이 영전에 거수 경례를 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;임지혁씨는 “부끄럽지 않은 형이 되겠다”며 “멋진 소방관으로서 책임감 있게 일하도록 하겠다”고 말했다.&lt;br&gt;&lt;br&gt;임성철 소방장 아버지는 “아들과 헤어진 지 벌써 1년이 지났다. 아들은 이별과 그리움을 남겼지만, 지금은 소중한 추억으로 간직하려고 한다”며 “새로운 삶을 살겠다고 아들에게 약속한 만큼 앞으로 열심히 살아가겠다”고 말했다.&lt;br&gt;&lt;br&gt;임성철 소방장은 지난해 12월 1일 새벽 제주 서귀포시 표선면의 한 창고 화재 현장에서 80대 노부부를 안전하게 대피시킨 뒤 화재 진압을 하던 중 구조물 붕괴로 순직했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>요양원에서 노인 학대 사망...법원 “기관 지정 취소는 지나쳐”</title>
-      <link>https://www.chosun.com/national/court_law/2024/12/02/4L4NVDOINJFM5PPWRO352UVB6U/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/02/4L4NVDOINJFM5PPWRO352UVB6U/</guid>
-      <dc:creator>박강현 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 02 Dec 2024 04:00:10 +0000</pubDate>
-      <content:encoded>노인 요양원에서 내부 학대 행위로 입소자가 사망하는 사건이 발생했더라도 요양기관 운영 자격을 박탈하는 것은 부당하다는 법원 판단이 나왔다. 요양원 측이 사건 인지 후 적절한 사후 조치를 취했고, 다른 입소자들의 상황도 고려해야 한다는 것이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AG7MIPWK4RHNTLPK5GQKSPHZG4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 서울가정법원·서울행정법원 청사. /전기병 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2일 법조계에 따르면 서울행정법원 행정14부(재판장 송각엽)는 사회복지법인 A종합복지원이 은평구청장을 상대로 “요양기관 지정취소 처분을 취소해달라”며 낸 소송에서 최근 원고 승소로 판결했다.&lt;br&gt;&lt;br&gt;A복지원은 경기 파주시에서 입소 현원이 약 80명(정원 112명)에 달하는 한 노인 요양원을 운영했다. 그러다 이곳에서 생활 중이던 노인이 요양보호사 등으로부터 폭행·학대를 당한 뒤 입소 약 3주 만에 급성 외상성 뇌출혈로 지난해 2월 숨지는 일이 발생했다.&lt;br&gt;&lt;br&gt;요양원 측은 이 같은 사고가 발생하기 전까지 총 7차례의 폭행 중 최초 및 마지막 폭행인 2개의 사례만 인지하고 있었던 것으로 조사됐다. 또 요양원 관계자들은 이 같은 학대 행위를 목격했음에도 별다른 조치를 취하지 않았고, 사망 사건을 수사하던 경찰이 방범카메라에 찍힌 폭행 장면을 직접 요양원 사무국장에게 보여준 이후에야 노인보호 전문기관에 피해자에 대한 신체적 학대 사실을 신고했다.&lt;br&gt;&lt;br&gt;경찰은 학대를 방치했다는 등의 이유로 요양원장과 폭행을 저지른 요양보호사, 간호과장 등을 폭행치사 및 업무상과실치사 등 혐의로 검찰에 송치하고, 은평구청에 행정처분을 의뢰했다.&lt;br&gt;&lt;br&gt;은평구청은 노인보호 전문기관의 현장 조사 결과 등을 종합해 지난해 8월 노인장기요양보험법 위반을 이유로 해당 요양원에 장기요양기관 지정취소 처분을 내렸다. 지정이 취소되면 요양원 운영은 불가능해진다. 이에 A복지원 측은 지난해 9월 소송을 냈다.&lt;br&gt;&lt;br&gt;재판 과정에서 A복지원 측은 요양원 종사자들에게 노인 학대 예방교육을 수시로 실시하는 등 주의와 감독을 게을리하지 않았고 입소자들의 안전을 위해 최선의 조치를 다했으며, 지정취소 처분을 받으면 다른 입소자들이 요양원을 옮겨야 해 그 과정에서 이들의 건강이 악화될 수 있는 점 등을 고려해달라는 주장 등을 펼쳤다.&lt;br&gt;&lt;br&gt;재판부는 요양원이 이 사건 사고 예방과는 직접적인 관련이 없는 형식적인 교육과 실제 이행 여부를 확인하기 어려운 자가진단 등을 위주로 진행해 관리·감독을 게을리한 잘못이 있다는 점은 인정했다. 다만 요양원이 평소 피해자에 대한 보호책임을 다하지 않았다고 보기는 어렵고 최초 폭행 인지 후 집중 관찰을 하도록 한 데다, 기관을 아예 운영할 수 없도록 하는 것은 과도하다는 취지로 구청의 처분을 취소해야 한다고 판단했다.&lt;br&gt;&lt;br&gt;재판부는 “원고가 이 사건 사고 방지를 위하여 취했다는 교육 등 조치가 실효성이 있는지 의문이 든다”면서도 “요양원 종사자 등이 망인에게 기본적 보호 및 치료를 소홀히 하는 방임행위를 했다고 보기 어렵다. 또 이 사건 요양원의 지정을 취소할 경우, 요양원에서 생활하던 입소자들은 다른 요양기관으로 거처를 옮기는 등의 부담을 안게 돼 불합리한 결과가 발생할 수 있다”고 지적했다. 피해자를 폭행한 것으로 지목된 요양보호사에 대한 징계위원회를 개최해 사직하도록 조치한 점도 참작했다.&lt;br&gt;&lt;br&gt;한편 은평구청 측은 1심 판단에 불복해 항소했고, 현재 서울고등법원에서 2심이 진행 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>빈손으로 끝난 '플라스틱 협약'…'감축 목표 설정' 큰 틀 합의도 실패</title>
-      <link>https://www.chosun.com/national/transport-environment/2024/12/02/FDOPGZODRRGQFGIKH3UUDBKGWI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2024/12/02/FDOPGZODRRGQFGIKH3UUDBKGWI/</guid>
-      <dc:creator>박상현 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 02 Dec 2024 03:55:33 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7ULADRJRNNE4AQC2ERSUTORMJY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;유엔 플라스틱 협약 제5차 정부간협상위원회 회의(INC-5)가 열린 25일 오전 부산 해운대구 벡스코 제1전시장 본회의장에서 루이스 바야스 발디비에소 INC 의장 주재로 본회의가 진행되고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;플라스틱 오염 종식을 위한 ‘유엔 플라스틱협약 제5차 정부 간 협상위원회(INC-5)’가 결국 빈손으로 2일 폐막했다. 국제사회가 온실가스 배출 감축에 뜻을 모은 파리협정처럼 플라스틱 사용을 줄이기 위한 ‘부산협정’ 타결이 기대됐으나 산유국과 비(非)산유국의 견해차를 결국 좁히지 못했다.&lt;br&gt;&lt;br&gt;환경부에 따르면, 부산 벡스코에서 열린 INC-5가 마감시한을 하루 넘긴 2일 새벽 2시 50분을 끝으로 폐막했다. 루이스 바야스 발비디에소 의장은 “일부 문안에 대한 합의가 이뤄진 것은 고무적”이라면서도 “완전한 합의를 막고 있는 소수의 쟁점을 효과적으로 해결하려면 시간이 더 필요하다”고 밝혔다. 그러면서 “추후 5차 협상위를 재개해 협상을 마무리 짓기로 했다”고 덧붙였다.&lt;br&gt;&lt;br&gt;국제사회는 재작년 3월 플라스틱 오염을 종식하기 위한 법적 구속력 있는 협약을 마련하기로 하고 이번까지 5차례 협상위를 열어 협상을 벌여왔다. 이번 INC-5에는 세계 178국 정부대표단과 31개 국제기구, 산업계·시민단체·학계 등 이해관계자 3000여명이 참석했다.&lt;br&gt;&lt;br&gt;개막일이던 지난달 25일 협상위 첫날 발비디에소 의장이 협상위에 앞서 제시한 3차 제안문을 협상의 기초로 삼기로 예상보다 빠르게 합의하면서 최소 ‘선언적 협약’이라도 마련될 것이란 기대감이 컸으나 결국 큰 틀의 합의조차 무산됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NUS2C62QTSRZ7UHRO3LWJUARDQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;1일 부산 벡스코에서 진행 중인 플라스틱 오염 종식 국제협약 제5차 정부 간 협상위원회 전체회의 모습./AP 연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;핵심 쟁점은 ‘플라스틱 또는 1차 플라스틱 폴리머(화석연료에서 추출한 플라스틱 원료) 생산 규제’였다. 이를 두고 최대 플라스틱 생산국인 중국이 예상보다 전향적인 입장을 취하면서 협상이 급물살을 탔다. 그러나 사우디아라비아·러시아 등 산유국이 생산 규제에 대해 완강한 거부 입장을 표명하면서 난항이 이어졌다. 특히 사우디는 협약에 생산 규제 조항을 포함하는 것을 ‘레드라인’(한계선)으로 규정하고 절대 수용할 수 없다는 입장을 고수한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;이번 협상에 참여한 100여국은 ‘협약 체결 후 첫 당사국 총회 때 1차 플라스틱 폴리머 생산을 지속 가능한 수준으로 줄일 전 세계적 목표를 담은 부속서를 채택하자’라는 문구를 넣자는 제안을 지지했으나 소수 산유국의 반대로 더 이상 진전을 기대하기 어려운 상황이 되면서 협상은 종료됐다. 일각에서는 투표로 정하자는 주장이 나오기도 했으나 플라스틱에 대한 국제사회의 첫 규제를 약속하는 상징성이 있는 만큼 결국 만장일치 의사결정이 유지됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/REASWIKHQ5NRLAOXOY7GOAMIQE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;국제 플라스틱 협약 제5차 협상회의(INC5) 5일차인 지난달 29일 오전 해운대구 벡스코에서 협상회의 참관인으로 참여 중인 플뿌리연대, 그린피스 인터내셔널, 플라스틱 추방연대(BFFP), 국제환경법센터(CIEL), 세계자연기금(WWF) 등 시민단체 연합이 기자회견을 열어 지지부진한 협상에 대해 각국 대표단의 보다 적극적인 대응을 촉구하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;추가 협상은 유엔환경계획(UNEP) 본부가 있는 케냐 나이로비에서 내년 중 이뤄질 예정이다. 아직 정확한 협상 재개 시점은 공개되지 않았다.&lt;br&gt;&lt;br&gt;플라스틱은 매년 4억6000만t 이상 생산되며 이 중 절반 이상이 일회용이다. 1950년대부터 생산된 플라스틱을 모두 합치면 90억t에 달할 것으로 추산된다. 폐플라스틱 재활용률은 9%에 그쳐 나머지 91%는 매립·소각되고 9%는 자연으로 유출돼 환경 오염을 유발하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘걷기 열풍’ 제주올레 437km 완주자, 2만5000명 넘었다</title>
-      <link>https://www.chosun.com/national/regional/2024/12/02/N73MF5CZZBHZTHBGQEGGABH7YM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/12/02/N73MF5CZZBHZTHBGQEGGABH7YM/</guid>
-      <dc:creator>제주=오재용 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 02 Dec 2024 04:53:29 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QBJS5MLWJZOBZBLNYDU4M2NEUE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 7일 오전 제주시 한경면 저지녹색농촌체험장에서 '2024 제주올레걷기축제' 개막식이 진행되고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;도보여행 열풍을 몰고 온 제주 올레길 완주자가 2만5000명을 넘어섰다.&lt;br&gt;&lt;br&gt;(사)제주올레는 2012년 11월 제주올레 완주를 공식 인증하는 시스템을 도입한 이후 올해 10월까지 2만5560명이 제주 올레길을 완주해 제주올레 홈페이지 ‘명예의 전당’에 이름을 올렸다고 2일 밝혔다.&lt;br&gt;&lt;br&gt;제주올레는 제주올레 패스포트를 구입해 27개 코스(437㎞) 구간별 스탬프를 모두 찍어 제시한 올레꾼에게 공식 완주증과 완주 메달을 지급하고 명예의 전당에 이름을 올리고 있다.&lt;br&gt;&lt;br&gt;제주올레에 따르면 올레길 공식 완주자는 2012년 45명에서 2013년 287명, 2014년 304명, 2015년 448명 등으로 매년 늘었다. 이후 2018년 1063명으로 처음으로 1000명대를 돌파한데 이어 2019년 1675명, 2020년 2778명, 2021년 4464명을 기록하면서 지난해까지 매년 4000명이 넘는 완주자가 나오고 있다.&lt;br&gt;&lt;br&gt;지난해 6월에는 2021년 6월 1만번째 완주자가 탄생한 이후 2년 만에 2만번째 완주자가 배출되기도 했다.&lt;br&gt;&lt;br&gt;제주올레 안은주 대표는 “걷기가 주는 정신적, 사회적, 신체적 효과는 이미 여러 연구로 확인됐을 뿐 아니라 걷는 이들의 꾸준한 증가로도 검증되고 있다”고 말했다.&lt;br&gt;&lt;br&gt;제주올레는 내년 12월까지 제주올레 완주증을 받은 올레꾼에게 2만원 상당의 제주올레면옥 식사권을 제공한다. 식사권으로 주문할 수 있는 메뉴는 유채귤 들기름 비빔면과 메밀흑돼지 육전으로, 식사권은 제주올레여행자센터에서 완주증과 함께 수령 후 4주 안에 사용하면 된다. 또 제주올레면옥은 내년 2월까지 3개월간 제주올레 패스포트 소지자에게도 수제 흑돼지 떡갈비를 무료로 제공하기로 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘유네스코 국제포럼’ 개막...쥬드 前 에티오피아 대통령 “한국 교육 성공 사례 퍼뜨려야”</title>
-      <link>https://www.chosun.com/national/national_general/2024/12/02/RHDKPQ5GFVCYFNYGQ5IL64UMGU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/02/RHDKPQ5GFVCYFNYGQ5IL64UMGU/</guid>
-      <dc:creator>수원=김현수 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 02 Dec 2024 04:30:23 +0000</pubDate>
-      <content:encoded>&lt;br/&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6FDCRCQWINCBNMXVUC4NSFNRLI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2일 ‘2024 유네스코 교육의 미래 국제포럼’ 기자회견에서 발언하고 있는 샤흘레-워크 쥬드(Sahle-Work Zewde·74) 에티오피아 전 대통령. /김현수 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기도교육청·교육부·유네스코한국위원회가 공동 주최하는 ‘2024 유네스코 교육의 미래 국제포럼’이 2일 개막했다. 이번 포럼은 2021년 유네스코에서 발간한 ‘교육의 미래’ 보고서를 기반으로 한 첫 국제포럼이다.&lt;br&gt;&lt;br&gt;포럼에는 임태희 경기도교육감을 비롯해 샤흘레-워크 쥬드(Sahle-Work Zewde·74) 에티오피아 전 대통령, 유네스코 회원국 장관급 인사, 국제기구 인사, 국내‧외 교육전문가, 연구자, 교사 등 90개국에서 1800명 이상이 참석할 예정이다.&lt;br&gt;&lt;br&gt;이번 국제포럼의 의제인 ‘교육의 미래’ 보고서는 과거에 개발돼 이어져 온 학교 모델, 교과 과정, 기존 교육 체계를 기후 위기, 사회 불평등 심화 등 현재 상황에 맞게 변혁함으로써 인류와 자연의 지속 가능한 미래를 선택하도록 촉구하고 있다.&lt;br&gt;&lt;br&gt;개막식에 앞선 기자회견에서 쥬드 전 대통령은 “한국은 오늘날이 있기까지 교육이 원천에 있었다. 이번 포럼을 한국에서 주최하는 게 적격이라고 생각한다”며 “훌륭한 교육도시에서 포럼이 열리는 만큼 성공 사례가 순수효과처럼 퍼져 나가는 데 좋은 의미가 있다”고 말했다. 그러면서 “한국은 교육을 통해 선진국으로 발돋움했고, 특히 교육권과 기본 인권이 향상되는 과정에서 교육이 균형추 역할을 한 국가이기도 하다”며 “교육 불평등을 극복 중인 한국의 선진·성공 사례를 다른 국가들에 퍼뜨리는 것이 우리의 역할”이라고 했다. 쥬드 전 대통령은 2018년 10월부터 지난 10월까지 6년간 에티오피아 대통령을 지냈다. 에티오피아의 첫 여성 대통령으로 나이로비 지부의 초대 사무총장, 유네스코 국제미래교육위원회 위원장 등을 역임했다.&lt;br&gt;&lt;br&gt;스페파니아 지아나니 유네스코 교육사무총장보는 “세계적으로 지정학적, 사회적으로 많은 변화가 일어나고 있어 인적 자원, 교육에 대한 투자가 어느 때보다 중요한 시점”이라며 “이번 포럼에서 그동안 일궈온 교육 관련 발전을 되돌아보고 대안을 마련해야 할 것”이라고 강조했다.&lt;br&gt;&lt;br&gt;포럼 첫날인 이날 개회식에는 샤흘레-워크 쥬드 전 대통령의 개회사를 시작으로 공동 주최 기관을 대표하는 오드레 아줄레 유네스코 사무총장, 이주호 사회부총리 겸 교육부 장관, 임태희 경기도교육감, 한경구 유네스코 한국위원회 사무총장의 축사가 이어질 예정이다. 또 ‘왜 교육의 미래를 위한 새로운 사회계약인가?’를 주제로 포럼을 여는 등 3일 동안 각종 행사가 진행된다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘달고, 생산량 줄고...’ 올해산 제주감귤 가격 고공행진</title>
-      <link>https://www.chosun.com/national/regional/2024/12/02/WB445JKESRBKTEO25PMULC54AQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/12/02/WB445JKESRBKTEO25PMULC54AQ/</guid>
-      <dc:creator>제주=오재용 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 02 Dec 2024 03:53:39 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UBUEDBRVCZPEFDEK2SCNNSTVU4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 30일 서울 성수동 언더스탠드에비뉴에서 겨울철 대표 과일인 제주감귤을 알리기 위한 '2024년 감귤데이 기념행사'가 열렸다. /제주도&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;올해 제주 감귤 가격이 역대 최고 수준을 보이고 있다.&lt;br&gt;&lt;br&gt;2일 제주도에 따르면 지난 11월 24∼30일 제주 노지감귤 5㎏당 평균 가격(도매가)은 1만2400원으로, 지난해 같은 시기 1만1800원대에 비해 5% 이상 높게 형성되고 있다.&lt;br&gt;&lt;br&gt;이달 들어서는 2일 현재 노지 감귤 5㎏의 도매가격이 1만3100원까지 올랐다.&lt;br&gt;&lt;br&gt;최근 감귤 가격은 1997년 감귤 가격 조사 이래 가장 높았던 지난해 기록을 넘어서는 수준이다.&lt;br&gt;&lt;br&gt;올해산 감귤의 경우 당도가 높고 품질이 좋다는 평가를 받고 있다. 반면 생산량은 40만8300t으로, 전년(42만6000t) 대비 4.1% 줄어들었다.&lt;br&gt;&lt;br&gt;이는 올여름 폭염으로 감귤 껍질이 벌어지는 열과 피해가 커 상품 감귤 수확량이 더 줄 것으로 예상되기 때문이다. 사과·배 등 다른 과일들의 작황이 좋지 않은 것도 도매시장에서 감귤 가격에 영향을 미치고 있다는 분석이다.&lt;br&gt;&lt;br&gt;제주도 관계자는 “12월에는 11월보다 도매가가 더 높을 것으로 예상되나 가격 유지를 위해 고품질 감귤이 유통될 수 있도록 힘을 쏟겠다”고 말했다.&lt;br&gt;&lt;br&gt;지난해 산 감귤 전체 판매액(수입)은 1조3248억원으로, 전년인 2022년(1조418억원)보다 27.2%(2830억원) 증가해 3년 연속 최고 판매액 기록을 경신했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>대법, “후보자 모르게 선거 사무실 비용 지급...정치자금법 위반 아냐”</title>
-      <link>https://www.chosun.com/national/court_law/2024/12/02/MJUT6XDXPJCO3AEOZ57V26LAQM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/02/MJUT6XDXPJCO3AEOZ57V26LAQM/</guid>
-      <dc:creator>박혜연 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 02 Dec 2024 04:11:34 +0000</pubDate>
-      <content:encoded>불법 정치자금을 기부받은 혐의의 정치인이 무죄라면, 그 자금을 준 사람도 무죄라는 대법원 판단이 나왔다. 정치자금법은 법리상 양쪽을 모두 필요로 하기 때문에, 한 쪽이 무죄라면 그 상대방에 대해서도 범죄가 성립할 수 없다는 취지다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GRZO7NMBC45PTBMFZ3MCO65UPU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대법원 청사 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2일 법조계에 따르면 대법원 2부(주심 오경미 대법관)는 정치자금법 위반 혐의로 기소된 이흥수 전 인천 동구청장과 오모씨에 무죄를 선고한 원심 판결을 지난 10월 31일 확정했다. &lt;br&gt;&lt;br&gt;오씨는 2017년 10월~2018년 4월 이 전 구청장의 재선 선거운동에 쓸 목적으로 인천의 한 사무실을 빌린 뒤, 임대료와 관리비 등으로 1407만원을 지급했다. 오씨는 이 사무실을 이 전 구청장의 명의로 빌렸고, 이 전 청장의 재선 지지 모임에서 지지자 200여명으로부터 기부받은 회비로 임대료 등을 지급했다고 한다.&lt;br&gt;&lt;br&gt;이에 검찰은 2019년 오씨는 사무실 임대료 등을 정치자금을 이용해 불법 기부한 혐의로, 이 전 구청장은 불법 기부를 받은 혐의로 각각 기소했다. 검찰은 이 전 구청장도 오씨가 사무실 임대료 등을 정치자금으로 낸 사실을 알았을 것이라 봤다.&lt;br&gt;&lt;br&gt;앞서 1심과 2심은 이 전 구청장이 불법 기부를 받은 혐의에 대해 무죄로 판단했다. 그가 사무실을 빌리는 과정에 관여했거나 빌린 사실을 알았는지 입증되지 않았다는 게 이유다.&lt;br&gt;&lt;br&gt;그러나 오씨에 대한 1심과 2심 판결은 엇갈렸다. 1심은 “오씨는 이 전 청장의 선거운동을 보필하기 위해 1400만원을 기부했다”며 벌금 90만원을 선고했다. &lt;br&gt;&lt;br&gt;그러나 2심은 정치자금법상 기부한 사람과 기부받은 사람은 ‘대향범(2명 이상의 참여자가 서로 다른 방향에서 동일 목표를 실현함으로써 성립하는 범죄)’ 관계이기 때문에, 한쪽이 무죄면 다른 쪽도 처벌할 수 없다고 봤다. 즉, 수수자인 이 전 구청장에게 혐의가 없다면, 기부자인 오씨도 처벌할 수 없다며 둘 모두에 무죄를 선고했다. 또 정치자금법에는 미수범 처벌 규정이 없어서 오씨를 정치자금법 위반 혐의로 처분할 수 없다고도 밝혔다.&lt;br&gt;&lt;br&gt;대법원은 원심 판결에 잘못이 없다고 보고 상고를 기각했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>내일 출근길 최저 영하7도…수도권 밤부터 눈·비</title>
       <link>https://www.chosun.com/national/transport-environment/2024/12/02/NM2TP4X2FVFWJDCWVWPKXZG2TU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2024/12/02/NM2TP4X2FVFWJDCWVWPKXZG2TU/</guid>
@@ -826,46 +880,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FMCF2WE2Y5FZJDWAMEY7XTMKZ4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;A씨가 공개한 익명 의사 커뮤니티 글. /블로그&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울의 한 병원에서 근무하는 의사가 의료계 집단행동에 동참하지 않았다는 이유로 동료 의사들에게 온라인상에서 집단 괴롭힘을 당하고 있다는 주장이 나왔다.&lt;br&gt;&lt;br&gt;네티즌 A씨는 지난 1일 블로그와 온라인 커뮤니티 등을 통해 자신이 한 대학병원 예비전공의였으며, 현재 서울의 한 병원에서 일반의로 근무하고 있다고 주장했다.&lt;br&gt;&lt;br&gt;A씨는 “저는 특정 익명 의사 커뮤니티에서 몇주간 지속적으로 실명을 포함한 신상정보 공개, 허위사실을 포함한 명예훼손, 협박, 각종 모욕과 욕설을 포함하는 극단적인 집단린치를 당하고 있어 이를 폭로하고 도움을 구하고자 글을 쓰게 되었다”며 “저를 괴롭히는 이유는 커뮤니티의 기준에 맞지 않는 근무지에서 근무하고 있다는 것, 단 하나뿐”이라고 주장했다.&lt;br&gt;&lt;br&gt;A씨가 공개한 커뮤니티 캡처 사진에는 ‘동료 등에 칼을 꽂고 신나?’, ‘선배들을 다 죽이고 그 원한을 그대로 가져갈텐데 멀쩡하게 수련받을 수 있겠나’ 등 A씨를 ‘부역자’라고 비난하는 내용이 쓰여 있었다. 심지어 A씨의 부모를 욕하는 댓글도 있었다.&lt;br&gt;&lt;br&gt;또 일부 네티즌은 익명 커뮤니티라는 점을 악용해 커뮤니티 내에서 A씨 행세를 하며 다른 네티즌들을 자극하기도 했다.&lt;br&gt;&lt;br&gt;A씨는 “의대 정원 증원에 반발하며 전공의들이 집단사직한 이후 수련을 지속하려는 사람들에 대한 강한 비난 여론이 형성되었다”며 “저도 이 사실을 알고 있긴 했지만, 경제적으로 선택지가 없어져 근무를 시작한 것”이라고 설명했다.&lt;br&gt;&lt;br&gt;A씨는 “(의·정 갈등이 불거진 후 면접을 보게 됐는데) 병원 면접관께서 ‘이전 근무자들이 협박 전화를 받고 일을 그만두었는데 괜찮겠냐’고 물었다”며 “당시에는 심각하게 생각하지 않았다”고 했다.&lt;br&gt;&lt;br&gt;A씨는 “필요에 의해 직장을 구했고, 누군가한테 피해를 주려던 것도 아닌데 갑자기 수백 명이 조롱하고 비난하는 게 이해가 가질 않는다”며 “비난과 허위사실의 정도가 갈수록 심해지고 있어 가만히 있을 수 없었다”고 했다.&lt;br&gt;&lt;br&gt;한편 의정 갈등이 이어지고 있는 가운데 지난 9월에는 의료계 집단행동에 동참하지 않고 복직한 의사들의 명단이 적힌 이른바 ‘의료계 블랙리스트’를 작성한 혐의로 20대 사직 전공의가 구속되기도 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>사흘 버텼는데 발길질에 ‘와르르’… 눈사람에 화풀이 한 남성</title>
-      <link>https://www.chosun.com/national/national_general/2024/12/02/FFL5ZSOZRJHFTGJ6GRZEF2IQM4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/02/FFL5ZSOZRJHFTGJ6GRZEF2IQM4/</guid>
-      <dc:creator>최혜승 기자 </dc:creator>
-      <description/>
-      <pubDate>Mon, 02 Dec 2024 02:23:31 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GJTOTYTZZBGC3BLHWSF5KUX7WI.gif"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 30일 편의점 앞 눈사람을 발로 차는 남성의 모습. /에펨코리아&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;다른 사람이 공들여 만든 눈사람을 한순간에 부순 남성의 모습이 공개돼 네티즌들의 공분을 사고 있다.&lt;br&gt;&lt;br&gt;지난달 30일 온라인 커뮤니티 ‘에펨코리아’에는 “모르는 사람이 1시간 동안 만든 눈사람 부수고 감”이라는 제목의 글이 올라왔다.&lt;br&gt;&lt;br&gt;편의점 아르바이트생이라고 밝힌 작성자 A씨는 폭설이 쏟아지던 지난달 27일 오전 점장과 함께 1시간 동안 눈사람을 만들었다고 한다. A씨는 눈사람에 편의점 근무복을 입힌 뒤 가게 앞에 세워뒀다. 가게 앞을 지나던 행인들은 눈사람 사진을 찍으며 관심을 보였다고 한다. A씨는 “지나가는 사람들이 손인사도 해주고 사진도 엄청 많이 찍어갔다. 이때까지 훈훈하고 좋았다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TRTQNPMBAFHQHJ2RJIF5D52ANU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;편의점 직원이 만든 눈사람. /에펨코리아&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;사흘 내내 녹지 않고 자리를 지키던 눈사람은 한 남성의 발길질에 무너졌다. A씨가 공개한 방범카메라 영상을 보면 지난달 30일 자정 한 남성이 편의점 앞으로 오더니 눈사람의 머리를 걷어찬다. 이 남성은 일행과 웃으며 대화를 나누더니 눈사람의 몸통을 주먹으로 부수고 또다시 발길질을 하기도 했다. 근처에 있던 행인들은 놀라서 남성의 행동을 쳐다보기도 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IRP26I7D3VEPFIWVBQDVOD5PK4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;편의점 앞 눈사람에 손인사하는 행인. /에펨코리아&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;A씨는 “(한 남성이) 공들여 만든 눈사람을 갑자기 와서 발로 찼다. 손으로도 때리더라”라며 “영상을 보고 너무 충격받았다. 그냥 녹아내려 사라질 줄 알았는데 바로 걷어차일 줄은 상상도 못 했다”고 했다.&lt;br&gt;&lt;br&gt;이 영상에는 댓글이 2000개 이상 달리고 각종 커뮤니티에 공유되며 화제가 됐다. 네티즌들은 “눈사람 귀엽게 만들어 놓은거 보면 기분도 좋아지고 힐링도 되는 데 왜 저런 행동을 하는지 모르겠다” “눈사람 앞에서 센 척한다” “편의점에서 일부러 만든 티가 나는데 저걸 부수나” 등의 반응을 보였다.&lt;br&gt;&lt;br&gt;“눈사람도 엄연한 작품인데 재물손괴로 처벌해야 한다”며 남성의 행동이 법적으로 문제될 수 있다는 의견도 다수 있었다. 형법 제366조 재물손괴죄는 고의로 타인의 재물의 효용가치를 떨어뜨렸을 때 성립하는 범죄다. 자연적으로 내린 눈으로 만든 눈사람은 절도죄의 객체인 ‘재물’로 인정받기 어렵다는 게 법조계 중론이다. 다만 전시 등 특정한 목적을 갖고 제작해 사유지에 조성됐을 경우 눈사람이나 얼음 조각도 조형물에 해당돼 재물성이 인정될 수 있다.&lt;br&gt;&lt;br&gt;‘눈사람 부수기’에 대한 반감은 이번이 처음은 아니다. 2022년에도 전남의 한 대학교 캠퍼스에 예술대학 학생들이 7시간 동안 공들여 만든 눈사람을 누군가가 부쉈다는 글이 온라인 커뮤니티에 올라와 논란이 된 바 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“곰탕 끓이다가”…부탄가스 폭발 대구 수성구 아파트서 불</title>
-      <link>https://www.chosun.com/national/regional/2024/12/02/5OHHEG6VNFCUDIHFOPZSEKNVYE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/12/02/5OHHEG6VNFCUDIHFOPZSEKNVYE/</guid>
-      <dc:creator>대구=노인호 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 02 Dec 2024 02:31:25 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/T7RAWBMM7RM4LOL7F2QWL5UUJ4.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;2일 오전 10시 25분쯤 화재가 난 대구 수성구 황금동 한 아파트 단지 내에서 소방 당국이 화재 사고 개요에 대해 설명하고 있다. /대구 수성소방서&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2일 대구 수성구 황금동 한 아파트에서 부탄가스가 폭발하면서 불이 나 30명이 자력 대피하거나 구조됐다.&lt;br&gt;&lt;br&gt;대구소방안전본부에 따르면 이날 오전 8시 59분쯤 수성구 황금동의 한 아파트 15층에서 불이 났다. 소방 당국은 대응 1단계를 발령하고 소방차 57대, 소방관 134명을 동원해 진화에 나섰고, 오전 10시 5분쯤 초기 진화했다.&lt;br&gt;&lt;br&gt;이 과정에서 주민 21명이 자력 대피했고, 아파트 안에 있던 주민 9명은 소방 당국에 의해 구조됐다. 이들은 연기 흡입, 두통 등의 증상을 호소하고 있다.&lt;br&gt;&lt;br&gt;이날 불은 아파트 베란다에서 가스버너로 곰탕을 끓이다가 부탄가스가 폭발하며 난 것으로 조사됐다고 소방당국은 밝혔다.&lt;br&gt;&lt;br&gt;소방 당국 관계자는 “불이 난 세대에도 거주자가 있었지만, 안전하게 대피해 인명피해는 없었다”고 말했다.&lt;br&gt;&lt;br&gt;해당 아파트는 28층 건물로 윗세대 10여 층이 연기로 인한 그을림 피해를 입은 것으로 파악됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2W6GRZ62ZBCD3HD3NJS2XGVLKI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2일 오전 대구 수성구 아파트 15층에서 불이 났다. 소방당국은 대응 1단계를 발령하고 진화작업을 벌이고 있다./대구소방안전본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>﻿금메달리스트 불참한 배드민턴협회 포상식…안세영, 대신 포착된 곳</title>
-      <link>https://www.chosun.com/national/people/2024/12/02/6OJMCVRBQ5F47GAHF5NI3TUU2A/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/12/02/6OJMCVRBQ5F47GAHF5NI3TUU2A/</guid>
-      <dc:creator>이가영 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 02 Dec 2024 02:16:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/S6COS7B3QNHOXPJLMMIFFNEZZE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대한배드민턴협회의 파리올림픽 포상식이 열린 지난달 30일 안세영이 프로농구 경기를 관람하는 모습이 중계 카메라에 잡혔다. /KBSN 스포츠&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대한배드민턴협회가 파리올림픽 메달리스트들을 치하하는 포상식을 열었으나 안세영(22‧삼성생명)은 불참했다. 그 시각 안세영은 농구장 관중석에서 포착됐다.&lt;br&gt;&lt;br&gt;협회는 지난달 30일 경남 밀양의 아리나호텔에서 2024 파리올림픽 포상식을 개최했다. 여자 단식 금메달리스트 안세영이 1억원을 받았고, 혼합복식 은메달리스트 김원호(삼성생명)‧정나은(화순군청)은 각 5000만원을 상금으로 받았다.&lt;br&gt;&lt;br&gt;파리올림픽 메달리스트 중 정나은만 현장을 찾았다. 김원호는 군사훈련 일정으로 참석하지 못했고, 안세영은 개인 일정으로 불참했다. 두 사람을 대신해 길영아 삼성생명 감독이 대리 수상했다. 협회는 안세영의 올림픽 활약을 편집한 영상으로 대신했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UHVCQHRCDBLJTHPYTYGREVTFOA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 30일 오후 경남 밀양시 아리나 호텔에서 열린 2024 파리올림픽 배드민턴 선수단 포상식에서 김택규 대한배드민턴협회 회장이 안세영 선수 대리 길영아 삼성생명 감독에게 기념패와 포상금을 전달하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;안세영은 같은 시각 경기도 용인에서 열린 여자 프로농구 삼성생명과 BNK의 정규시즌 경기를 관람했다. 중계 화면을 통해 관중석에 있는 그의 모습이 잡혔다.&lt;br&gt;&lt;br&gt;안세영은 앞서 올림픽 경기가 끝난 직후 협회의 선수 부상 관리‧훈련 방식‧의사결정 체계 등을 지적했다. 양측의 껄끄러운 관계가 봉합되려면 시간이 필요할 것으로 보인다. 지난달 덴마크 오픈에서 안세영이 불편해하는 기류가 감지된 김학균 감독은 포상식이 끝나고 취재진과 만나 “시간이 필요하다”고 말했다. 김 감독은 “우리도 (선수에게) 접근할 것이고, 또 안세영 선수도 (다가오기를) 기다리고 있을 것”이라며 “다음 달부터 대표 선수 선발전이 있다. 대화가 충분히 이뤄질 수 있고, 또 그렇게 해야 할 시기라고 본다”고 했다.&lt;br&gt;&lt;br&gt;한편 김택규 협회장은 지난달 28일 휴대전화 압수수색 등 경찰의 강제 수사를 받았다. 경찰은 배드민턴협회가 보조금법을 위반해 셔틀콕 등 후원 물품을 부당하게 배부했다는 문화체육관광부 사무 검사 결과 등을 바탕으로 김 회장에 대한 수사를 진행하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/CBJ6LBUVRVC6LBHU3LMK7B35QM.jpg?width=409&amp;height=230&amp;auth=316fe20ac5316673a4838b0a64328695a9381d38186734f70d415f6bb256fdd7&amp;smart=true" type="image/jpeg" height="230" width="409">
-        <media:description type="plain">대한배드민턴협회의 파리올림픽 포상식이 열린 지난달 30일 안세영이 프로농구 경기를 관람하는 모습이 중계 카메라에 잡혔다. /KBSN 스포츠</media:description>
-        <media:credit role="author" scheme="urn:ebu"/>
-      </media:content>
-    </item>
-    <item>
-      <title>20위 안에 국내 대학 6곳 포함… “고등교육 분야서 강점 입증”</title>
-      <link>https://www.chosun.com/national/education/2024/11/29/XQLL3AKLSNE4HIMSKH6FOWZPRU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2024/11/29/XQLL3AKLSNE4HIMSKH6FOWZPRU/</guid>
-      <dc:creator>김경은 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 28 Nov 2024 15:30:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HHITIRLMAZA5JIH6UAKEPZY5QY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;세계적 수준의 기초과학 연구와 창조적 지식 확보를 목표로 하는 연세대 고등과학원 연구원들이 실험을 진행하고 있다./연세대 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;조선일보와 영국의 글로벌 대학 평가 기관 QS(Quacquarelli Symonds)가 공동으로 실시한 ‘2024 아시아 대학 평가’ 결과가 최근 공개됐다. 2009년 아시아 대학 463곳을 처음으로 평가한 뒤 해마다 참여 대학 규모가 늘어 올해는 25국 984대학의 순위를 매겼다.&lt;br&gt;&lt;br&gt;QS 아시아 대학 평가는 전 세계 학생들이 유학 갈 학교를 정할 때 참고하는 중요한 지표로 통한다. 국내·외 대학과 연구 기관이 국제 연구 협력을 할 대학을 정할 때에도 상대 대학의 연구 수준을 가늠하는 기준으로 삼을 만큼 공신력 있는 평가로 인정받는다.&lt;br&gt;&lt;br&gt;올해 평가에서도 우리나라 대학은 ‘톱 10′에 이름을 올렸다. 상위 20위 안에는 6곳이 포함됐다. 벤 소터(Sowter) QS 수석 부사장은 “한국은 다른 어떤 국가나 지역보다도 많은 여섯 대학이 아시아 지역 상위 20위에 들며 고등교육 분야에서 강점을 계속 입증하고 있다”며 “한국은 박사 학위를 보유한 교직원 수에서 알 수 있듯 뛰어난 수준의 교육 전문성을 자랑하며 교육 역량에서도 상당한 진전을 이뤘다”고 했다.&lt;br&gt;&lt;br&gt;조선일보·QS 아시아 대학 평가는 학계 평가(30%), 졸업생 평판도(20%), 교원당 학생 수(10%), 논문당 피인용 수(10%), 국제 연구 협력(10%), 교원당 논문 수(5%), 박사 학위 교원 비율(5%), 외국인 교원 비율(2.5%), 외국인 학생 비율(2.5%), 해외로 나간 교환학생(2.5%), 국내에 들어온 교환학생(2.5%) 등 지표 11가지로 평가했다. 평가 비율이 가장 높은 학계 평가는 전 세계 학자들에게 ‘당신 전공 분야에서 최고 대학을 꼽아 달라’고 요청해 추천을 많이 받은 대학 순으로 점수를 매겼다. 졸업생 평판도는 세계 기업 인사 담당자에게 ‘어느 대학 졸업생을 채용하기를 원하는지’ 물어 평가했다.&lt;br&gt;&lt;br&gt;한양대는 작년(26위)보다 일곱 계단 순위를 올려 아시아 19위를 차지했다. 2009년 아시아 대학 평가를 시작한 이래 처음으로 ‘톱 20′에 진입했다. 졸업생 평판도(98.3점), 해외로 나간 교환학생(97.1점), 외국인 학생 비율(91.6점) 등 지표에서 우수한 성적을 거뒀다. 신소재와 화학공학, 전기·생체공학 등 다양한 분야 교수들이 참여해 ‘융합 연구’를 추진하고 있는 점과 전 세계 510대학과 파트너십을 맺은 ‘국제화’가 좋은 평가를 받았다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/X3HLVZRVXFA5HHWSLBRGVQTCCA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;올해 7월 개강했던 부산대학교 서머 스쿨(Summer School)에 참가한 외국인 학생들을 대상으로 부산대 IBS 기후물리 연구단장인 악셀 팀머만 교수가 기후연구에 관한 내용을 강의하고 있다./부산대 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산대는 지난해(90위)보다 아홉 계단 상승해 아시아 81위를 기록했다. 11가지 지표 모두에서 고르게 점수가 올랐다. 특히 국제 연구 협력, 교환학생 비율, 박사 학위 교원 비율 등 지표에서 순위가 상승했다. 부산대에선 현재 82국에서 온 외국인 유학생 약 2000명이 학업에 매진하고 있다. 이와 더불어 외국인 유학생들의 창업·취업 역량 강화를 위해 내년 9월 ‘글로벌자유전공학부’를 신설할 예정이다.&lt;br&gt;&lt;br&gt;연세대는 9위를 차지해 지난해(8위)에 이어 2년 연속 ‘톱 10′에 들었다. 졸업생 평판도(100점)와 해외로 나간 교환학생(100점) 지표에서 아시아 최고 점수를 획득하고, 학계 평가(99.8점)와 국제 연구 협력(97.7점) 등에서 높은 점수를 기록하며 국내 대학 중 가장 높은 순위에 올랐다. 연세대 측은 “연구자들이 연구에 전념할 수 있도록 다양한 지원 프로그램을 운영하는 동시에 세계 유수 연구 중심 대학과 전략적 파트너십을 맺어 공동 연구팀을 구성한 것이 국내·외에서 연구력을 인정받는 데 큰 역할을 했다”고 밝혔다.&lt;br&gt;&lt;br&gt;성균관대는 지난해(19위)보다 세 계단 상승해 아시아 16위를 기록했다. 국내 대학 가운데 4위다. 이는 성균관대가 연구, 교육, 국제화 등 전방위적 혁신을 통해 세계적 경쟁력을 강화한 결과다. 성균관대는 ‘양자정보공학과’와 ‘배터리학과’ ‘지능형소프트웨어학과’ 등을 신설해 국가 첨단 분야의 전문 인재를 양성하고 첨단 산업 연구를 더욱 강화할 계획이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HO5CQEP3ZNFGLC6353MENPK2W4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;양자정보 융합전공은 이론 위주의 교육을 넘어 실험과 실습 등을 진행할 계획이다. 사진은 양자정보 융합전공 지도교수인 이광조 교수의 연구 모습./경희대 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경희대는 올해 평가에서 아시아 40위에 올랐다. 연구의 영향력을 나타내는 논문당 피인용 수와 박사 학위 교원 비율 지표가 눈에 띄게 상승했다. 경희대 측은 “국제 연구 협력 활성화를 위해 2010년 노벨 물리학상 수상자인 콘스탄틴 노보셀로프 영국 맨체스터대 교수를 센터장으로 초빙해 ‘양자물질글로벌연구센터’를 이끌게 할 계획”이라고 밝혔다.&lt;br&gt;&lt;br&gt;성신여대는 올해 평가에서 아시아 294위에 올랐다. 교원당 학생 수 지표에서 93점을 받아 아시아 55위를 기록했다. 해외로 나간 교환학생 지표에서도 아시아 64위를 기록, 학생 중심 교육의 성과를 입증했다. 내년엔 외국인 유학생을 대상으로 글로벌 한국학과 K컬처를 가르치는 국제학부를 신설할 계획이다. 성신여대 측은 “학생들의 국제 역량 향상을 위해 끊임없이 고민하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>굴착기 기사에 베푼 작은 호의... 잠시 후 편의점 앞 눈이 다 사라졌다</title>
       <link>https://www.chosun.com/national/national_general/2024/12/02/3ZU2DOGIIZBOBJ3F4FOJGNZUSM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/02/3ZU2DOGIIZBOBJ3F4FOJGNZUSM/</guid>
@@ -876,31 +890,6 @@
       <media:content url="https://www.chosun.com/resizer/v2/DVKV3YYESRB6ZN5SSY26PHDJ2Y.jpg?width=2305&amp;height=1297&amp;auth=9e9eb50d63f7a33140e2701d5ca9250cda731a774b55b8c5a175e4ecfb122b90&amp;smart=true" type="image/jpeg" height="1297" width="2305">
         <media:description type="plain">인스타그램 계정 'a.precious_day'에 올라온 영상. 포크레인 기사가 편의점 밖에 쌓인 눈을 치우고 있다./ 인스타그램</media:description>
         <media:credit role="author" scheme="urn:ebu"/>
-      </media:content>
-    </item>
-    <item>
-      <title>“배고파서 차량털이” ‘9호 처분’ 소년범…백종원 “기회 주고 싶다”</title>
-      <link>https://www.chosun.com/national/national_general/2024/12/02/CW4GZDCZJVCYVGSSUVJRSSVZ3I/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/02/CW4GZDCZJVCYVGSSUVJRSSVZ3I/</guid>
-      <dc:creator>김명진 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 02 Dec 2024 01:31:29 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4M7IIALZKFAYPNEW4G7EN6LJ3A.png"&gt;&lt;figcaption&gt;&lt;small&gt;백종원 더본코리아 대표가 출연하는 예능 프로그램 ENA ‘백종원의 레미제라블’의 한 장면. /ENA&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;상습 절도로 단기 소년원 처분인 9호 소년보호처분을 받은 남성이 백종원 더본코리아 대표가 출연하는 예능 프로그램 ENA ‘백종원의 레미제라블’에 출연해 과거 전력을 밝히고 사과했다.&lt;br&gt;&lt;br&gt;지난달 30일 방송된 레미제라블 1화에는 과거 상습절도로 9호 처분을 받은 김동준씨가 출연했다.&lt;br&gt;&lt;br&gt;이 방송은 ‘100일간의 인생 역전 프로그램’을 콘셉트로, 20명의 도전자들이 미션을 수행하는 방식으로 진행된다. 스타 셰프인 ‘데이비드 리’ ‘김민성’ ‘임태훈’ ‘윤남노’ 등이 담임셰프로 출연한다.&lt;br&gt;&lt;br&gt;김씨는 “저 같은 사람도 사회에서 열심히 살려고 하는 것을 보여드리고 싶어 출연을 결심했다”며 “소년 보호 9호 처분을 받고 소년원에 6개월간 송치됐다”고 했다.&lt;br&gt;&lt;br&gt;김씨는 “당시 안 잠긴 차를 열고 내용물을 털었다”며 “휴대전화도 팔고, 카드도 긁어 썼다. 후회할 정도로 잘못을 했다. 이게 셀 수 없다”고 했다.&lt;br&gt;&lt;br&gt;김씨는 “초등학교 1학년 때 부모님이 이혼하면서 작은아버지 집에서 살게됐다”며 “그런데 3개월 뒤부터 교육이 제대로 안 됐다는 이유로 맞았다. 일상이 맞는 거였다”고 했다.&lt;br&gt;&lt;br&gt;김씨는 “그렇게 맞고 나면 3일 동안 밥을 못 먹었다. 더럽고 냄새난다는 이유로 애들한테 왕따당하고 맞기도 하고, 살고 싶지 않았다”고 했다.&lt;br&gt;&lt;br&gt;김씨는 고등학교 진학 뒤 가출했다. 이후 배고픔으로 절도를 시작하게 됐다는 그는 “다른 사람들 차에 있는 돈에 손 대기 시작했다. 배고프니까 무한 반복이었다”고 했다.&lt;br&gt;&lt;br&gt;김씨는 “(재범으로) 소년원 갔을 때 (소년원) 선생님이 ‘할 수 있는데 왜 포기하려고만 하냐’고 했다. 제가 할 수 있는 걸 그때부터 찾아보기 시작했다”고 했다.&lt;br&gt;&lt;br&gt;김씨는 “지금 생각하면 후회되고 피해자분들 대면을 못 해서, 사과를 드리고 싶다”며 “그게 ‘백종원의 레미제라블’에 임하는 마음가짐이다. 평상시 생활한 것보다 2~3배는 더 열심히 하고 싶다”고 했다.&lt;br&gt;&lt;br&gt;백종원 대표는 김씨 등 참가자 논란에 대해 “소설 레미제라블에서 장발장의 인생을 바꾼 것은 미리엘 주교의 은촛대, 믿음과 기회였다”며 갱생 기회를 주고 싶다고 밝혔다.&lt;br&gt;&lt;br&gt;백 대표는 “저도 실패를 많이 했다. 처음부터 멋있게 사는 인생도 있지만 실패와 실수를 반복하며 멋있어지는 인생도 있는 거라고 한다”며 “어쩌면 우리 모두에게 필요한 건 제대로 된 기회일지도 모른다”고 말했다.&lt;br&gt;&lt;br&gt;백 대표는 “기회조차 없었던 그들에게 절실하게 부딪혀 볼 수 있는 그런 판을 만들어주는 것”이라며 “이건 저에게도 그들에게도 도전이다. 절실하면 바뀔 수 있다”고 했다.&lt;br&gt;&lt;br&gt;소년보호처분은 만 19세 미만 비행청소년이 잘못을 뉘우치고 바른길로 갈 수 있도록 가정법원이나 지방법원 소년부가 내리는 처분을 말한다. 저지른 범죄에 따라 1호(감호 위탁)부터 10호(장기 소년원 위탁)까지 있다. 9호 처분은 6개월 이내 단기소년원 송치다. 형벌과 달라 전과(前科)가 남지 않는다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>광주비엔날레 관람객 70만명...86일간 대장정 마쳐</title>
-      <link>https://www.chosun.com/national/national_general/2024/12/02/IX7PJZ7DSNBSLM5EPLS5HMYI4Q/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/02/IX7PJZ7DSNBSLM5EPLS5HMYI4Q/</guid>
-      <dc:creator>광주광역시=진창일 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 02 Dec 2024 02:02:14 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/T7WZG5A6UFLAXPZZLEF4RTVIAY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;제15회 광주비엔날레 '판소리, 모두의 울림'이 폐막하는 지난 1일 오후 광주 북구 용봉동 광주비엔날레전시관에서 관람객들이 작품을 보고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제15회 광주비엔날레가 86일 동안 관람객 70만명을 불러들이며 대장정을 마무리했다.&lt;br&gt;&lt;br&gt;광주시는 “지난 9월 7일 ‘판소리–모두의 울림’을 주제로 개막한 제15회 광주비엔날레가 총 관람객 72만711명을 기록하고 폐막했다”고 2일 밝혔다. 지난해 4월 94일 동안 열렸던 제14회 광주비엔날레 관람객 51만6829명 보다 35% 늘어난 수치다.&lt;br&gt;&lt;br&gt;이번 광주비엔날레는 용봉동 비엔날레 전시관과 양림동 9개 전시관 등 공간에서 30개국 72명의 작가가 각 나라의 기후위기, 자연과 인간, 공동체, 자본주의, 외로움, 돌봄의 사회적 역할 등을 담은 224개 작품을 선보였다. 본전시는 ‘관계미학’으로 세계 미술계에서 명성을 쌓아온 프랑스 출신 미술이론가이자 큐레이터인 니콜라 부리오가 감독을 맡았다.&lt;br&gt;&lt;br&gt;이번 비엔날레는 부딪힘소리(Larsen effect), 겹칩소리(Polyphony), 처음소리(Primordial sound) 등 3개 섹션을 통해 동시대 환경 변화에 따른 세계를 시각과 청각의 공감각적으로 확장했다는 평가를 받았다.&lt;br&gt;&lt;br&gt;광주시 관계자는 “비엔날레를 통해 한국 전통음악 장르인 판소리를 세계적 수준의 현대미술 전시와 연결하고 인간·동물·영혼·기계·기후·유기체가 공유하는 관계적 공간으로 미학적 담론을 끌어냈다”고 전했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/T7WZG5A6UFLAXPZZLEF4RTVIAY.jpg?width=5646&amp;height=3764&amp;auth=38db314d16654e72dd9a7f1e9dbd207f1b527c45065493457ae06393373e35b6&amp;smart=true" type="image/jpeg" height="3764" width="5646">
-        <media:description type="plain">&lt;YONHAP PHOTO-3928&gt; 대장정 뒤로 하고 폐막하는 광주비엔날레
-    (광주=연합뉴스) 정다움 기자 = 제15회 광주비엔날레 '판소리, 모두의 울림'(Pansori, a soundscape of the 21st century)전이 폐막하는 1일 오후 광주 북구 용봉동 광주비엔날레전시관에서 관람객들이 작품을 보고 있다. 2024.12.1
-    daum@yna.co.kr/2024-12-01 14:44:41/
-&lt;저작권자 ⓒ 1980-2024 ㈜연합뉴스. 무단 전재 재배포 금지, AI 학습 및 활용 금지&gt;</media:description>
-        <media:credit role="author" scheme="urn:ebu">정다움</media:credit>
       </media:content>
     </item>
     <item>
