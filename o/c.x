@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>대법원 "계엄 해제 안도…국민의 자유와 권리 지킬 것"</title>
+      <link>https://www.chosun.com/national/court_law/2024/12/04/MBJLIXU6QBGVJBTCQUSBLWXA44/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/04/MBJLIXU6QBGVJBTCQUSBLWXA44/</guid>
+      <dc:creator>방극렬 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 03 Dec 2024 22:42:47 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Q7B7QRB4KVK6DNNVYKH6NEDR44.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령의 비상계엄 해제 요구 결의안이 국회 본회의에서 통과된 4일 새벽 서울 서초구 대법원 청사. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 대통령이 비상계엄을 선포한 지 6시간여 만에 해제를 선언한 가운데 대법원은 국민의 자유와 권리를 지키기 위해 노력을 다할 것이라는 입장을 밝혔다.&lt;br&gt;&lt;br&gt;천대엽 대법원 법원행정처장은 4일 오전 6시30분쯤 사법부 내부망(코트넷)에 ‘계엄 선포 관련 사태에 대하여 드리는 말씀’이라는 제목의 글을 게시했다. 천 처장은 “어젯밤 갑작스런 계엄 선포 등 국가적으로 매우 혼란스러운 상황이 있었다”며 “뒤늦게나마 헌법이 정한 절차에 따라 계엄이 해제된 데 대해 국민과 함께 안도하는 바”라고 밝혔다.&lt;br&gt;&lt;br&gt;천 처장은 “사법부는 헌법상 국민의 기본적 인권을 보장하는 최후의 보루”라며 “헌법과 법률이 부여한 사명에 따라 본연의 자세로 추호의 흔들림 없이 국민의 자유와 권리를 지키기 위해 최선의 노력을 다할 것”이라고 했다.&lt;br&gt;&lt;br&gt;대법원은 윤 대통령이 전날 계엄을 선포하자 조희대 대법원장의 지시로 법원행정처 간부들을 소집해 심야 회의에 돌입했다. 공관에서 상황을 보고받은 조 대법원장도 청사로 출근해 회의를 주재했다.&lt;br&gt;&lt;br&gt;앞서 윤 대통령은 전날 오후 10시30분쯤 비상계엄을 선포했다. 윤 대통령은 긴급 대국민담화를 통해 “북한 공산세력 위협으로부터 자유대한민국을 수호하고 자유 헌정질서를 지키기 위해 비상계엄을 선포한다”고 말했다.&lt;br&gt;&lt;br&gt;그러나 국회는 4일 오전 1시쯤 본회의를 열어 비상계엄 해제 요구 결의안을 통과시켰다. 이에 윤 대통령은 새벽 4시 20분쯤 대국민담화를 통해 “국회의 계엄 해제 요구가 있어, 계엄 사무에 투입된 군을 철수시켰다”며 “바로 국무회의를 통해 국회의 요구를 수용해 계엄을 해제할 것”이라고 밝혔다. &lt;br&gt;&lt;br&gt;윤 대통령 담화 후 국무총리실은 공지를 통해 “오전 4시 30분에 국무회의에서 계엄 해제안이 의결됐음을 알려드린다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>파업 불참자 내쫓고 왕따시킨 민노총 노조</title>
       <link>https://www.chosun.com/national/labor/2024/12/04/QQRSM4OONVFBVGVVC3IWMKILMI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/labor/2024/12/04/QQRSM4OONVFBVGVVC3IWMKILMI/</guid>
@@ -916,15 +925,6 @@
       <description/>
       <pubDate>Tue, 03 Dec 2024 02:13:28 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WIREMELFNJECPAGWZ4T6KPKAMI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;권오춘 동국대 교육대학원 석좌교수. /동국대&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;권오춘 동국대 교육대학원 교수가 동국대 사범대·예술대 학생들을 위해 장학금을 전달했다.&lt;br&gt;&lt;br&gt;동국대는 지난달 26일 ‘2024년도 초허당 사범대학 및 미술대학 장학증서 수여식’을 진행했다고 3일 밝혔다. ‘초허당 장학금’은 권 교수의 호(號)를 따 명명한 장학기금이다. 이번 장학금은 사범대•예술대 3학년 재학생 중 경제적 형편이 어려운 학생을 단과대 별 1명씩 선정해, 총 11명 학생에게 각 100만원씩 수여됐다.&lt;br&gt;&lt;br&gt;동국대에 따르면 권 교수는 2005년 서울 양재동 소재 오피스텔 5채 기부를 시작으로 모교 발전에 힘을 보태고 있다. 권 교수가 동국대로 전달한 기부 총액은 환산하면 약 113억 원에 달한다고 한다. 기부금은 권 교수의 뜻에 따라 동국대 내 여러 단과대 학생들이 수혜를 입을 수 있도록 전달될 전망이다.&lt;br&gt;&lt;br&gt;지난달 26일 열린 장학증서 수여식에 권 교수는 참석하지 못했다. 최응렬 교무부총장은 “후배 사랑을 실천 중이신 권 교수님께 다시 한 번 감사드린다”면서 “오늘은 장학금을 받는 사람이지만, 장학생들이 나중에는 권 교수님처럼 장학금을 주는 기쁨을 느낄 수 있는 인재로 성장하길 바란다”고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7RC4V7V3SZEDVBVWBOT52WAVUE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 26일 동국대 ‘2024년도 초허당 사범대학 및 미술대학 장학증서 수여식'에서 장학금을 받은 학생들이 장학증서를 펼쳐 보이고 있다. 장학금 기부자인 권오춘 교수가 참석하지 못해 최응렬 동국대 교무부총장이 함께 기념사진을 촬영했다. /동국대&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>공금 빼돌려 가상화폐 투자...청주시 공무원 징역형</title>
-      <link>https://www.chosun.com/national/regional/chungcheong/2024/12/03/3MTRZZJKC5BIDNIF5AJFFOQ26Q/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2024/12/03/3MTRZZJKC5BIDNIF5AJFFOQ26Q/</guid>
-      <dc:creator>신정훈 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 03 Dec 2024 01:57:26 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7J4T6KTWKBDWTAAGIE74JXUW6Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;청주지법 전경. /신정훈 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;공금을 횡령해 가상화폐에 투자한 청주시청 공무원이 징역형을 선고받았다.&lt;br&gt;&lt;br&gt;청주지법 형사1단독 권노을 판사는 3일 업무상 횡령, 공전자기록등위작 등의 혐의로 구속기소된 청주시청 6급 공무원 A(40대)씨에게 징역 5년을 선고했다.&lt;br&gt;&lt;br&gt;청주시청에서 학생근로활동 사업, 북한이탈주민 정착지원 사업 등의 업무를 담당한 A씨는 2017년 1월부터 약 7년 동안 각종 공문서 등을 위조해 공금 6억원을 횡령한 혐의로 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;그는 이들에게 지원금을 지급했다고 가짜 문서를 만들어 자신의 계좌로 돈을 빼돌렸다. 이렇게 빼돌린 돈은 가상화폐와 주식에 투자하거나 개인 빚을 갚는 데 사용한 것으로 조사됐다&lt;br&gt;&lt;br&gt;권 판사는 “피고인은 오랜 기간 반복적으로 범행해 죄질이 좋지 않다”며 “다만, 피해 금액 일부를 갚았고, 형사처벌 받은 전력이 없는 점을 참작해 형을 정했다”고 판시했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[단독] ‘공천 거래 의혹’ 명태균·김영선 오늘 기소</title>
