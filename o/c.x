@@ -13,6 +13,54 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>경찰, ‘삼성 반도체 인력 유출 혐의’ 컨설팅업체 대표 구속 송치</title>
+      <link>https://www.chosun.com/national/2024/12/03/KMQ2N2Q7WZCOLLQ7ALNB5MLW34/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2024/12/03/KMQ2N2Q7WZCOLLQ7ALNB5MLW34/</guid>
+      <dc:creator>주형식 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 03 Dec 2024 04:53:36 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PA6WQWGLRO3Q5OICLICETQQGKE.gif"&gt;&lt;figcaption&gt;&lt;small&gt;중국 산시성 시안시 삼성전자 메모리 반도체 공장 내부 모습./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;삼성전자의 반도체 핵심 인력들을 중국 업체 ‘청두가오전’(CHJS)에 대거 스카우트해 삼성의 독자적인 20나노(㎚·10억분의 1m) D램 기술을 빼돌린 브로커들이 검찰에 넘겨졌다.&lt;br&gt;&lt;br&gt;서울경찰청 산업기술안보수사대는 삼성전자 엔지니어 출신인 A씨(64)를 직업안정법 위반 등의 혐의로 서울중앙지검에 구속 송치했다고 3일 밝혔다. 경찰은 A씨를 포함해 21명을 검찰에 넘기며 청두가오전 기술 유출 수사를 마무리했다. 청두가오전 대표인 삼성전자 상무 출신 최모(66)씨 등은 지난 9월 구속 송치됐다. 이들에게는 산업기술보호법과 부정경쟁방지법 등이 적용됐다.&lt;br&gt;&lt;br&gt;경찰에 따르면 청두가오전 설립 단계에 고문으로 참여한 A씨는 국내에 헤드헌팅 업체를 차리고 삼성전자 핵심 인력들에 기존 연봉의 최소 2∼3배를 보장한다고 유혹했다. 이들의 반도체 지식·기술로 중국 현지에 D램 제조 공장을 만들고, 공장 준공 1년 3개월 만인 2022년 4월 웨이퍼 생산에 성공했다. 경찰은 “피해 기술의 경제적 가치는 4조3000원에 이르며, 경제 효과 등을 감안하면 실제 피해 금액은 그 이상”이라고 설명했다.&lt;br&gt;&lt;br&gt;경찰은 A씨 외에도 같은 방식으로 청두가오전에 국내 반도체 전문인력을 빼돌린 헤드헌팅업체 대표 2명과 헤드헌팅법인 1개도 불구속 송치했다.&lt;br&gt;&lt;br&gt;경찰은 이들에 대해서 산업기술 유출을 다루는 법률이 아닌 헤드헌터 관련 법률을 적용하는 데 그쳤다. 경찰은 이 사건과 관련해 인력 유출을 통한 기술 유출에는 산업기술의 유출방지 및 보호에 관한 법률(산업기술보호법)이 적용되지 않아 이들에게 직업안정법 위반 혐의를 적용했다고 밝혔다. 직업안정법은 고용노동부 장관의 등록이 있어야 국외 유료직업소개업을 할 수 있다는 내용으로 처벌 수위가 상대적으로 가볍다. 직업안정법에 따르면 무등록 영업을 한 헤드헌터에 대해 5년 이하의 징역 또는 5000만원 이하의 벌금에 처해진다. 반면 산업기술보호법에서는 중요 기술 유출을 엄격히 처벌하고 실행 전에 예비하거나 음모를 꾸미는 행위까지도 제재한다. 국가핵심기술 유출 행위에는 3년 이상 유기징역과 함께 15억원 이하의 벌금을 병과한다. 산업기술 유출의 경우 15년 이하의 징역 또는 15억원 이하의 벌금에 처한다.&lt;br&gt;&lt;br&gt;현재 국가핵심기술 탈취를 위한 소개·유인·알선에 관한 처벌 규정을 포함한 산업기술보호법 개정안은 국회 산업통상자원중소벤처기업위원회 소위원회를 통과한 상태다. 경찰은 “규제 회피가 용이한 ‘인력 유출’ 방식으로 기술이 유출되는 현실에서 보다 엄정한 법 개정을 통해 사회적 경종을 울릴 필요가 있다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/PA6WQWGLRO3Q5OICLICETQQGKE.gif?width=800&amp;height=557&amp;auth=edb88eaa38b985bbd7ad8306f5a83b88fd29f9b7108ac1139be49477ff3c62be&amp;smart=true" type="image/jpeg" height="557" width="800">
+        <media:description type="plain">중국 산시성 시안시 삼성전자 메모리 반도체 공장 내부 모습. 이 공장과 1.5㎞ 떨어진 곳에 복제공장이 들어설 뻔했다. photo 뉴시스</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>“오빠 나 5000원만”…남성들에게 수천만원 뜯어낸 여중생 정체는?</title>
+      <link>https://www.chosun.com/national/national_general/2024/12/03/A3USOJL2FVCLZLK2O7RC7TF2CU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/03/A3USOJL2FVCLZLK2O7RC7TF2CU/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 03 Dec 2024 04:50:29 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VDZIEJTKE63QO375J37JOA3HAQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원 이미지. /조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;채팅 애플리케이션(앱)에서 여중생 행세를 하며 남성들을 속여 2년간 수천만원의 돈을 뜯어낸 20대 남성이 징역형 집행유예를 선고받았다.&lt;br&gt;&lt;br&gt;3일 법조계에 따르면 대전지법 형사10단독(재판장 김태현)은 최근 사기 혐의로 재판에 넘겨진 남성 A씨(23)에게 징역 10개월의 집행유예 2년을 선고했다. 이와 함께 사회봉사 40시간도 명령했다.&lt;br&gt;&lt;br&gt;A씨는 지난 2021년 4월부터 2023년 11월까지 채팅 앱을 통해 만난 남성들에게 여중생인 척하며 돈을 요구하는 방식 등으로 282회에 걸쳐 약 4580만원을 가로챈 혐의다.&lt;br&gt;&lt;br&gt;A씨는 채팅 앱에 가입한 뒤 프로필을 ‘13세 여성’ 등으로 표시했다. 이후 연락이 온 남성들에게 생활비가 필요하다며 5000원 등 소액의 돈을 요구했다. A씨가 남성들로부터 받은 돈은 대부분 소액이었지만 일부는 50만~90만원 정도의 돈까지 보내준 것으로 알려졌다.&lt;br&gt;&lt;br&gt;A씨는 자신의 성별을 들키지 않기 위해 누나 명의의 계좌로 돈을 받았으며, 자신이 홀로 살며 원조교제로 생계를 이어나가는 미성년자라고 거짓말을 하기도 했다.&lt;br&gt;&lt;br&gt;재판부는 “피해자가 불특정 다수이며 범행 기간이 상당히 길어 죄질이 나쁘다”면서도 “다만 일부 피해자와 합의에 이르렀고 본인이 자백하며 반성하는 점 등을 고려했다”고 양형이유를 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>통영서 14중 추돌 사고로 20명 경상</title>
+      <link>https://www.chosun.com/national/regional/2024/12/03/J6U54NZD3NCRBGOZY3RQ26SCSU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/12/03/J6U54NZD3NCRBGOZY3RQ26SCSU/</guid>
+      <dc:creator>통영=김주영 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 03 Dec 2024 04:26:41 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GPLRTPDPQMQUDS2V6AR2Z7CFDE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;3일 오전 7시 45분쯤 경남 통영시 광도면 한 교차로에서 15t(톤) 덤프트럭이 신호대기중이던 승용차량 등 13대를 충돌해 20명이 부상을 입었다. /통영경찰서 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;3일 오전 7시 45분쯤 경남 통영시 광도면 3차로 교차로에서 14중 추돌 사고가 발생했다.&lt;br&gt;&lt;br&gt;이 사고로 15t(톤) 화물차 운전사 50대 A씨 등 사고 차량에 타고 있던 20명이 경상을 입었다.&lt;br&gt;&lt;br&gt;경찰에 따르면 A씨는 보도 블록이 실린 화물차를 몰고 2차선에서 고갯길을 넘어 내려오다 1, 2, 3차로에서 신호대기 중이던 승용차 13대를 잇달아 들이받았다.&lt;br&gt;&lt;br&gt;경찰은 이 화물차가 경사진 도로를 내려오다 브레이크 제동이 잘 되지 않아 사고가 난 것으로 보고 정확한 사고 경위를 조사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>강릉 심곡항 인근서 실종자 2명 발생… 해경 “수색 중”</title>
+      <link>https://www.chosun.com/national/incident/2024/12/03/5H4CUM3Z65GOTLDX54MHIKVQBA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/12/03/5H4CUM3Z65GOTLDX54MHIKVQBA/</guid>
+      <dc:creator>강릉=정성원 기자</dc:creator>
+      <description>강원 강릉시 심곡항 인근에서 실종자 2명이 발생해 해경이 수색에 나섰다.3일 동해해양경찰서에 따르면 전날인 2일 오후 5시 17분쯤 실종자와 연락이 되지 않는다는 신고가 112를 통해 접수됐다.</description>
+      <pubDate>Tue, 03 Dec 2024 04:25:05 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DZEDECP6IOETZ5B6KTLHQZXC2Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;강릉 심곡항에서 금진항을 잇는 헌화로. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;강원 강릉시 심곡항 헌화로 일원에서 실종자 2명이 발생해 해경이 수색에 나섰다.&lt;br&gt;&lt;br&gt;3일 동해해양경찰서에 따르면 전날인 2일 오후 5시 17분쯤 실종자와 연락이 되지 않는다는 신고가 112를 통해 접수됐다.&lt;br&gt;&lt;br&gt;경찰은 이들의 최종 행적을 확인한 결과 강릉 심곡항 인근으로 확인돼 해상 실종 가능성을 염두에 두고 해경에 협조를 요청했다.&lt;br&gt;&lt;br&gt;해경 관계자는 “경비함 3척과 헬기 1대 등을 현장에 투입해 해안가와 해상을 수색 중”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘수도권 오피스텔 무자본 갭투자’로 90억 가로챈 60대女에 징역 12년</title>
+      <link>https://www.chosun.com/national/national_general/2024/12/03/E3IPU7SQNRGHFLER7P4HYN2V6M/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/03/E3IPU7SQNRGHFLER7P4HYN2V6M/</guid>
+      <dc:creator>박정훈 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 03 Dec 2024 04:07:41 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FGZSR7ALDE2HPI6KNAP4BNWSSM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 양천구 서울 남부지법의 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;수도권 일대 오피스텔 수십 채를 ‘무자본 갭투자’로 사들여 금융기관과 전세 임차인들로부터 약 90억원을 떼먹은 60대 여성에게 중형이 내려졌다. &lt;br&gt;&lt;br&gt;서울남부지법 형사합의15부(재판장 양환승)는 3일 특정경제범죄 가중처벌법상 사기 등 혐의를 받는 신모(61)씨에게 징역 12년을 선고했다.&lt;br&gt;&lt;br&gt;이날 재판부는 “범행이 계획적이고 조직적으로 이뤄졌고 피해자 수도 매우 많은데 편취한 금액도 91억으로 거액”이라며 “편취금액 중 일부 대출금 상환 외엔 피해 회복도 거의 제대로 되지 않았다”고 지적했다. 또 “피고인은 동종 범죄로 실형을 선고받아 누범 기간이었음에도 다시 범죄를 저질렀다”면서도 “뒤늦게나마 반성하고 있다는 점은 유리한 양형으로 고려했다”고 설명했다. 누범이란 금고 이상의 형을 받아 그 집행을 종료하거나 면제받은 후 3년 이내 금고 이상에 해당하는 죄를 다시 저지른 이를 이른다. 누범의 형량은 그 죄에 대해 원래 정해진 형량의 최대 2배까지 가중될 수 있다.&lt;br&gt;&lt;br&gt;검찰에 따르면 신씨는 2018년 7월부터 지난해 2월까지 무자본 갭투자로 서울과 경기 등 수도권 소재 오피스텔 27채를 취득한 뒤 이를 통해 보증금 34억원, 주택담보대출금 36억원, 주택 전세자금 20억원 등 총 91억원을 편취한 혐의를 받는다.&lt;br&gt;&lt;br&gt;한편 재판부는 모집책으로 신씨의 범행에 가담하다가 함께 기소된 전모씨에 대해선 징역 1년 6개월을, 다른 모집책 3명에 대해선 징역 1년 6개월에 집행유예 3년을 내렸다. 신씨에게 명의를 제공하며 허위 임차인 역할을 한 6명에겐 징역 1년에 집행유예 2년이 선고됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>4분만에 상공 130m…‘서울달’ 탑승객 100일만에 2만명 돌파</title>
       <link>https://www.chosun.com/national/national_general/2024/12/03/LPHKCBULKJF7JEWZVWGHMO6HDI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/03/LPHKCBULKJF7JEWZVWGHMO6HDI/</guid>
@@ -799,42 +847,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MJNGNHJNVBPF5B7VTSY3PQ2KOM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;배우 송강호가 지난달 28일 서울 용산구 CGV 용산점에서 열린 영화 '1승' 시사회 및 기자간담회에서 질문에 답하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;배우 송강호(57)가 2일 여자배구 비하 논란에 휩싸인 최근 자신의 발언에 대해 사과했다.&lt;br&gt;&lt;br&gt;송강호는 앞서 여자배구 이야기를 다룬 영화 ‘1승’ 개봉을 앞두고 열린 기자간담회에서 여자배구에 대해 “여자배구만이 가진 아기자기한 지점이 있어 흥미롭다”고 발언했다. 이후 온라인상에서는 해당 발언이 성차별적이고 여자배구를 비하한 것이라는 비판이 나왔었다.&lt;br&gt;&lt;br&gt;송강호는 이날 언론 인터뷰에서 “제가 며칠 전 잘못된 단어 선택을 해서 많은 배구 팬분들이 언짢고 불편하게 받아들이시는 것 같더라”며 “사과드린다”고 했다.&lt;br&gt;&lt;br&gt;송강호는 “배구라는 스포츠가 워낙 스펙트럼이 넓다. 선수들도 파워풀한 플레이어인 것은 너무 당연하지 않나. 그 당연함을 바탕으로 경기를 많이 보다 보니 (여자배구에서) 더 디테일하고 세밀한 작전이 진행되는 부분을 표현한 뜻이었다”며 “언짢고 불편하게 받아들이신 것 같아 굉장히 송구스럽다. 저의 단어 선택이 잘못됐던 것이고, 이 자리를 빌어 불편함을 드린 것에 사과드린다”고 했다.&lt;br&gt;&lt;br&gt;또한 송강호는 자신이 실제로 배구 팬이라며 “남자배구, 여자배구 안 가리고 다 보는 편이지만 ‘1승’이 여자배구단의 이야기다 보니 (여자배구를 많이 봤다)”라며 “어떤 지시가 내려진 후 다음 플레이어를 보는 재미가 아주 쏠쏠하다. 리듬감이 굉장히 좋다”고 했다.&lt;br&gt;&lt;br&gt;영화 ‘1승’은 이겨본 적 없는 감독(송강호 분)과 이길 생각 없는 구단주(박정민 분), 이기는 법을 모르는 선수들까지 승리의 가능성이 1%도 없는 프로 여자배구단이 1승을 위해 도전에 나서는 이야기를 담은 영화다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>미군 부대에 허위 물건 납품...방위비 6억원 떼먹은 업자 등 3명 기소</title>
-      <link>https://www.chosun.com/national/incident/2024/12/02/NONWQFSY6FAYXFWZZN2IRG3BF4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/12/02/NONWQFSY6FAYXFWZZN2IRG3BF4/</guid>
-      <dc:creator>이승규 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 02 Dec 2024 06:20:31 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GZTV7OPDZIE43WIBGMZYZF3MHI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대구지검/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;저가 페인트를 미국산 페인트로 속여 주한미군 부대에 납품하고 대금으로 한·미 방위비 분담금 6억원을 챙긴 주한미군 부대 근로자 등 3명이 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;대구지검 반부패수사부(부장검사 박철)는 2일 사기 혐의로 주한미군 부대 내 한국인 근로자 60대 남성 A씨를 구속 기소하고 주한미군 근로자 출신인 납품업자 70대 남성 B씨와 40대 남성 C씨를 불구속 기소했다.&lt;br&gt;&lt;br&gt;A씨 등은 지난 2022년 8월부터 지난해 9월 사이 대구 지역 주한미군 부대에 저가 페인트를 미국산 정품 군용 페인트로 꾸며 납품한 뒤 국방부로부터 한·미 방위비 분담금 6억원을 대금으로 받아 챙긴 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;A씨 등은 주한미군 부대 내 미국인 담당자들이 한국 납품업자를 상대하는 업무의 경우 부대 내 한국인 근로자들의 의견을 최대한 반영해 처리한다는 점을 악용했다. A씨는 B씨 등에게서 품질이 떨어지는 저가형 페인트를 받아놓고도 미군 담당자에게 정상적으로 제품이 납품됐다고 허위 보고했다.&lt;br&gt;&lt;br&gt;A씨의 말을 믿은 미군 담당자들이 납품확인서를 국방부로 보냈고, 국방부가 납품확인서 검토 후 2년간 한·미 방위비 분담금 6억원을 대금으로 지급한 것이다.&lt;br&gt;&lt;br&gt;이 사건은 미국 육군 범죄수사국(CID)이 “잘못된 군용 페인트가 납품됐다”며 수사를 의뢰하면서 드러났다.&lt;br&gt;&lt;br&gt;검찰 관계자는 “앞으로도 부당한 방법으로 국민 세금을 가로채는 구조적 비리에 대해 엄정 대응하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>똑같은 내용의 재난문자 중복 발송 막는다…대책 마련 나선 행안부</title>
-      <link>https://www.chosun.com/national/national_general/2024/12/02/EOZ3AKIJDJHUBNGGJDLCVKHMYE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/02/EOZ3AKIJDJHUBNGGJDLCVKHMYE/</guid>
-      <dc:creator>김영우 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 02 Dec 2024 06:20:34 +0000</pubDate>
-      <content:encoded>행정안전부가 재난문자 중복 발송 대책을 마련하기로 했다. 정부와 지자체가 같은 내용의 재난문자를 여러 번 보내 국민들의 불편과 불안이 가중된다는 지적이 나오면서다. 다만 강제 사항이 아니어서 실효성이 없을 수 있다는 지적도 나온다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UK7NNWWHO5EWMFBH3MGPNI3ZJA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;집중호우 상황에 대비하기 위해 발송한 재난문자. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;행안부는 ‘재난문자방송 기준 및 운영 규정’ 예규를 올해 말까지 개정해 내년부터 시행한다고 2일 밝혔다.&lt;br&gt;&lt;br&gt;행안부가 예규를 바꾸기로 한 건 같은 내용의 재난문자가 여러 번 발송되고 있다는 지적이 나오면서다. 행안부 관계자는 “여러 시·군·구에서 오는 재난문자를 받아 ‘과하다’고 생각하는 분들이 많았다”고 말했다. 실제로 지난 2019년 9월 시·군·구 등 기초자치단체도 재난문자를 보낼 수 있게 바뀐 이후, 코로나 등이 겹치면서 1년간 재난문자 발송 횟수가 2019년 911건에서 2020년 5만4734건으로 늘었다.&lt;br&gt;&lt;br&gt;예규가 바뀌면 우선 정부와 지자체가 보내는 재난문자의 내용이 구분된다. 정부가 일반적인 정보를 보내면 지자체가 구체적인 행동 요령 등을 발송한다. 예컨대 폭설이 내렸다면 정부는 ‘기상청이 대설경보를 발령했다’는 문자를 보내고, 지자체는 ‘어느 도로의 통행이 제한됐으니 이곳을 우회해서 운전해달라’는 내용을 발송하는 식이다.&lt;br&gt;&lt;br&gt;행안부 관계자는 “지자체가 정부보다 현장의 상황을 잘 아는 만큼, 지자체가 구체적인 사안을 담아 재난문자를 보내라는 것”이라고 말했다.&lt;br&gt;&lt;br&gt;재난문자 담당자가 문자를 보내기 전 이미 이전에 비슷한 내용의 재난문자가 발송됐는지 확인할 수 있는 시스템도 만든다. 문자를 발송하기 직전 정부나 시·도에서 보낸 재난문자의 내용을 보여주며 ‘비슷한 내용의 재난문자가 이미 발송됐는데 그래도 보내겠느냐’는 식의 알림을 띄우는 식이다. 행안부는 내년 상반기까지 시스템 구축을 마치고 본격적인 운용에 들어간다는 방침이다.&lt;br&gt;&lt;br&gt;현재는 재난문자의 일종인 ‘안전 안내 문자’로 발송되고 있는 경찰청 실종 안내 문자는 경찰청에서 별도 시스템을 마련해 발송한다. 매년 발송되는 재난문자의 20%가 경찰청 실종 안내 문자인데, 실종 안내 문자를 별도로 차단할 수 있는 시스템이 없어서다. 행안부 관계자는 “앞으로 안전 안내 문자는 그대로 받으면서 실종 안내 문자만 차단할 수 있게 바뀔 것”이라고 말했다.&lt;br&gt;&lt;br&gt;다만 행안부가 예규를 바꿔도 지자체는 지금처럼 비슷한 내용의 재난문자를 여러 번 보낼 수 있다. 개정된 예규가 강제 사항은 아니라는 뜻이다. 행안부 관계자는 “재난이 심각하거나 예상치 못한 긴급 상황이 생겼다면 행안부 차원에서 지자체에 재난문자를 보내지 말라고 강제할 수는 없다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>션‧박보검이 함께 지은 집, 독립유공자 후손 보금자리 됐다</title>
-      <link>https://www.chosun.com/national/national_general/2024/12/02/TFUJTNKPQBGDXCNNJEMFYV62YQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/02/TFUJTNKPQBGDXCNNJEMFYV62YQ/</guid>
-      <dc:creator>이가영 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 02 Dec 2024 05:17:06 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HMSY3H7KC5HBXHNZ3VMG35Q7YU.png"&gt;&lt;figcaption&gt;&lt;small&gt;배우 박보검(왼쪽)과 가수 션이 작년 11월 전남 광양에서 독립유공자 박병두 선생의 후손을 위한 집을 짓고 있다. /션 인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;비영리단체 한국해비타트와 가수 션이 독립유공자 후손을 위한 보금자리를 지원했다. 이번 보금자리는 션이 광복절에 개최한 기부 마라톤 ‘815런’으로 마련된 기금으로 지어졌다.&lt;br&gt;&lt;br&gt;2일 한국해비타트에 따르면 션은 지난달 26일 전남 광양에 거주하는 독립유공자 박병두 선생의 후손 가정을 위한 새 보금자리 헌정식에 참석했다.&lt;br&gt;&lt;br&gt;박병두 선생은 일제강점기 친일 지주가 무리한 소작료를 징수하고 횡포를 부리자 농민들을 이끌고 시위운동을 전개했다. 정부는 항일농민운동을 주도한 고인의 공훈을 기려 2005년 건국포장을 추서했다.&lt;br&gt;&lt;br&gt;박병두 선생의 후손 가정은 전남 광양의 해비타트 희망의 집짓기 다세대 주택 10가구 중 하나에 입주했다. 이곳은 션과 배우 박보검 등이 건축 봉사에 참여해 손길을 보탠 곳이다.&lt;br&gt;&lt;br&gt;박병두 선생의 후손 가정은 “증조할아버지께서 독립운동을 위해 전 재산을 바치셔서 부모님도 그동안 힘들게 지내오셨다”며 “거동이 불편하신 아버지께서 이전 집에서는 위험해서 밖에 잘 못 나가셨는데, 새집에 입주하신 후 산책도 하시며 컨디션도 좋아지시는 것 같다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VTAPWDHLXJB5HIJUU7OYFYT7G4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;가수 션이 지난달 26일 전남 광양의 해비타트 희망의 집짓기 다세대 주택 앞에서 포즈를 취하고 있다. /션 인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘815런’ 캠페인 홍보대사인 션은 “나라를 위해 일생을 바친 분들께 감사한 마음을 그 후손에게 대신 전하고 싶다”며 “오늘의 대한민국이 있게 해준 분들을 더 많은 사람이 기억할 수 있도록 100호 집이 지어지는 날까지 계속 달리겠다”고 소감을 밝혔다.&lt;br&gt;&lt;br&gt;‘815런’은 한국해비타트와 션이 2020년부터 매년 광복절을 맞아 개최하는 행사로, 참가비 전액이 독립유공자 후손 주거환경개선 사업에 사용되는 기부 마라톤이다. 올해는 1만4000여 명의 러너가 참여하고 55개 기업의 후원과 개인 후원까지 총 13억여 원의 기부금을 모으는 등 역대 최대 규모를 기록했다.&lt;br&gt;&lt;br&gt;한국해비타트는 이 캠페인으로 마련된 기금으로 전남 화순부터 경기 동두천, 충남 청양, 경남 창원 등 지역에 총 17개의 집을 헌정했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>국무총리 표창 받았던 외국인, 기소유예 전력으로 귀화 불허...법원 “적법한 처분”</title>
-      <link>https://www.chosun.com/national/court_law/2024/12/02/L7YV3UH7KJEWLH4X65NP2Z7HTA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/02/L7YV3UH7KJEWLH4X65NP2Z7HTA/</guid>
-      <dc:creator>박강현 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 02 Dec 2024 05:11:54 +0000</pubDate>
-      <content:encoded>국내법을 위반해 기소유예 처분을 받은 전력이 있다는 이유로 귀화가 불허된 외국인이 이에 불복하는 소송을 제기했지만 1심에서 패소했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GB2BV6CT3JFIBMDHFHGNR73MJY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 서울가정법원·서울행정법원 청사. /전기병 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2일 법조계에 따르면 서울행정법원 행정3부(재판장 최수진)는 지난달 22일 여성 A씨가 법무부 장관을 상대로 제기한 귀화불허 결정 취소 소송에서 원고 패소로 판결했다.&lt;br&gt;&lt;br&gt;2010년 한국에 재외동포 체류자격(F-4)으로 입국한 우즈베키스탄 국적 외국인(고려인 3세)인 A씨는 2021년 8월 영주 체류자격(F-5)을 얻어 한국에 계속 머물고 있다. 주로 광주광역시 광산구 소재 고려인마을에 있다고 한다.&lt;br&gt;&lt;br&gt;A씨는 2021년 12월 당초 일반귀화허가 신청을 했다가 이듬해 6월 이를 취하하고, 특별귀화허가 신청을 했다. 그러나 법무부는 ‘범죄 및 수사경력, 법준수의식 미흡’을 이유로 A씨에게 지난해 4월 귀화 불허 처분을 내렸다. A씨는 이에 불복해 지난해 6월 소송을 냈다.&lt;br&gt;&lt;br&gt;조사 결과 A씨는 한 카페를 운영하면서 해당 카페와 A씨 어머니 음식점에 영업자가 아닌 사람이 제조·판매한 물품을 판매 목적으로 보관했다. 그는 소고기통조림을 2019년 6월부터 11월까지 5회에 걸쳐 4328개를 구매해 팔았고, 2020년 3월부터 8월까진 탄산음료를 2회에 걸쳐 632개를 구매해 판매했다.&lt;br&gt;&lt;br&gt;특히 이 소고기통조림과 탄산음료엔 식품표시광고법에 따른 적법한 한글 표시 사항이 없었던 것으로도 나타났다. 이에 따라 A씨는 검찰로부터 2020년 12월 식품표시광고법 위반 피의사실에 대해 기소유예 처분을 받았다. 기소유예는 범죄 혐의는 있지만 반성과 피해 정도 등을 고려해 기소하지 않는 것이다.&lt;br&gt;&lt;br&gt;A씨는 재판 과정에서 그동안 여러 봉사활동과 기부를 해 경찰청장 감사장과 국무총리 표창 등을 받아 ‘품행이 단정한 자’로서 특별귀화허가 요건을 갖췄으며 국내 법령을 제대로 인식하지 못한 사정 등을 참작해달라고 주장했다.&lt;br&gt;&lt;br&gt;하지만 법원은 “외국인의 품행 단정 요건 충족 여부를 판단함에 있어 피고에게 폭넓은 재량권이 부여된다”며 그의 주장을 받아들이지 않았다.&lt;br&gt;&lt;br&gt;재판부는 “A씨가 카페를 운영하면서 식품표시광고법을 위반해 판매 목적으로 저장·진열한 제품의 양이 약 5000개에 이르러 그 수가 적지 않다”며 “A씨가 외국인으로 초범이고 법령을 제대로 인식하지 못했다는 사정은 기소를 유예하기 위한 사유로 볼 수 있음은 별론으로 하고 그가 대한민국에 특별한 공로가 있어 국민으로서 법적 지위를 부여할 것인지 여부를 심사하는 데 있어 참작할 만한 사정으로 보긴 어렵다”고 지적했다.&lt;br&gt;&lt;br&gt;또 “A씨의 지역 사회 공헌과 기부 내역 등 원고가 주장하는 사정을 고려하더라도 피고가 원고의 법령 위반행위를 감안해 ‘법령을 준수하는 등 품행 단정의 요건’을 갖췄다고 인정하지 않은 것에 어떠한 잘못이 있다고 볼 수도 없다”고 설명했다.&lt;br&gt;&lt;br&gt;그러면서 “A씨는 이미 영주 자격을 취득했으므로 국내에서 적법하게 체류할 수 있고 이 사건 처분 이후 상당 기간 법령 위반행위를 하지 않으면 특별귀화허가를 다시 신청하거나 또는 일반귀화허가를 신청해 대한민국 국적을 취득하는 것이 가능하므로 귀화불허 처분이 지나치게 가혹한 결과도 아니다”라고 짚었다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[단독] 檢, '노태우 비자금 300억원' 고발인 이번주도 조사</title>
       <link>https://www.chosun.com/national/court_law/2024/12/02/BYH7AK64ZVE4RH22AG4IJ63BRA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/02/BYH7AK64ZVE4RH22AG4IJ63BRA/</guid>
@@ -851,15 +863,6 @@
       <description/>
       <pubDate>Mon, 02 Dec 2024 05:09:31 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CSK2MLN2YJFXFFJIZVG4M6BEVU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;가수 제시(흰색 상의) 일행이 사진을 요청한 팬을 무차별 폭행하고 있다. /뉴스1·JTBC&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;사진 촬영을 요청한 팬이 일행에게 폭행당한 사건에 연루된 한국계 미국인 가수 제시가 경찰로부터 무혐의 처분을 받은 지 약 한달만에 심경 글을 올렸다.&lt;br&gt;&lt;br&gt;제시는 1일 인스타그램에 영문으로 올린 글에서 팬들을 향해 “믿기지 않지만 벌써 (데뷔한 지) 19년이 됐다”며 “제 커리어의 높은 순간과 낮은 순간들 속에서도 변함없이 저를 믿어주시고 응원해 주신 여러분은 저에게 모든 것을 의미한다. 여러분 없이는 지금의 제가 없었을 것”이라고 했다.&lt;br&gt;&lt;br&gt;이어 제시는 “인생은 여정이고, 그 속에는 정상도 있고 골짜기도 있다”며 “항상 일정하고 예측 가능한 길이 아닌, 롤러코스터 같은 길을 저희는 함께 걸어왔다”고 했다. 그러면서 “어린 소녀로서 혼자 한국에 와서 이 여정을 시작했던 저는 이제 이 업계에서 성장한 여성이 됐다. 이 과정에서 많은 도전을 겪었고, 그 누구도 제 마음과 고난을 저만큼 잘 알지는 못한다는 것을 배웠다”고 했다.&lt;br&gt;&lt;br&gt;끝으로 “모든 순간 속에서 여러분의 믿음은 제게 가장 큰 힘이 됐다”며 “여러분도 꿈을 향해 두려움 없이 나아가고 절대 포기하지 않기를 바란다”고 했다.&lt;br&gt;&lt;br&gt;앞서 제시는 지난 9월 29일 자신의 일행이 팬을 폭행하는데도 이를 방관했다는 논란에 휩싸였다. 언론을 통해 공개된 당시 상황이 담긴 방범카메라 영상에는 제시가 팬을 폭행하는 일행을 두고 현장을 떠나는 모습이 담겼다. 사건이 공론화되자 제시가 직접 인스타그램을 통해 “(가해자는) 그날 처음 본 사람”이라고 해명했으나, 이후 제시가 이 남성 어깨 위에 손을 올리는 등 스킨십을 나누는 모습이 담긴 사진들이 공개돼 또한번 논란이 일었다.&lt;br&gt;&lt;br&gt;이후 제시는 폭행한 일행을 은닉하고 사건 현장을 도주한 혐의로 고발됐다가, 지난달 2일 경찰로부터 무혐의 처분을 받았다. 제시의 일행 중 팬을 위협하고 때린 래퍼는 폭행 혐의로 서울중앙지검에 송치됐고, 함께 팬을 폭행한 뒤 해외로 도피한 외국인 A씨에 대해선 경찰이 체포영장을 발부하고, 인터폴에 수배를 요청한 상태다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>노부부 구하고 29살에 순직한 동생…친형도 소방관 됐다</title>
-      <link>https://www.chosun.com/national/national_general/2024/12/02/MCQXABILRRFMFDJPW52XH4MN2A/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/02/MCQXABILRRFMFDJPW52XH4MN2A/</guid>
-      <dc:creator>김명일 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 02 Dec 2024 05:01:01 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RRALZ3RH5NJ6DDBSH4MKO5RVPA.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;지난 1일 오전 국립제주호국원에서 지난해 화재 현장에서 순직한  고(故) 임성철 소방장 순직 1주기 추도식이 열리고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난해 12월 제주에서 화재 진압 중 29살의 젊은 나이에 순직한 임성철 소방장의 친형도 소방관이 됐다는 사실이 알려졌다.&lt;br&gt;&lt;br&gt;지난 1일 임성철 소방장의 1주기 추모식이 국립제주호국원에서 열렸다. 추모식에는 유가족과 오영훈 제주지사, 소방공무원 등 150여명이 참석해 고인을 추모했다.&lt;br&gt;&lt;br&gt;특히 이날 추모식에는 올해 소방공무원 시험에 합격해 현재 교육을 받는 중인 고인의 형 임지혁씨와 동기 교육생들도 참석했다.&lt;br&gt;&lt;br&gt;임지혁씨는 과거 임성철 소방장에게 ‘함께 소방공무원이 돼 생명을 살리는 뜻깊은 일을 하자’고 약속했었다고 한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/T6LTAH7DNNIK5BWKEG5WENPZ4M.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;지난 1일 오전 국립제주호국원에서 열린 고(故) 임성철 소방장 순직 1주기 추도식에서 소방동료들이 영전에 거수 경례를 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;임지혁씨는 “부끄럽지 않은 형이 되겠다”며 “멋진 소방관으로서 책임감 있게 일하도록 하겠다”고 말했다.&lt;br&gt;&lt;br&gt;임성철 소방장 아버지는 “아들과 헤어진 지 벌써 1년이 지났다. 아들은 이별과 그리움을 남겼지만, 지금은 소중한 추억으로 간직하려고 한다”며 “새로운 삶을 살겠다고 아들에게 약속한 만큼 앞으로 열심히 살아가겠다”고 말했다.&lt;br&gt;&lt;br&gt;임성철 소방장은 지난해 12월 1일 새벽 제주 서귀포시 표선면의 한 창고 화재 현장에서 80대 노부부를 안전하게 대피시킨 뒤 화재 진압을 하던 중 구조물 붕괴로 순직했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>내일 출근길 최저 영하7도…수도권 밤부터 눈·비</title>
