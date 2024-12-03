@@ -13,6 +13,96 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>제주서 렌터카·트럭 충돌사고… 4명 사망·4명 부상 </title>
+      <link>https://www.chosun.com/national/regional/2024/12/03/PUKJDJEWJJAYRJN26FBSKAU3XA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/12/03/PUKJDJEWJJAYRJN26FBSKAU3XA/</guid>
+      <dc:creator>오재용 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 03 Dec 2024 08:33:22 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3IUS2OFCGBDLRLYVWIPPQWAWZI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서귀포시 서성로에서 승합차와 트럭이 충돌했다./제주도소방안전본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제주에서 승합차형 렌터카와 트럭이 충돌해 4명이 사망하고 4명이 다치는 사고가 발생했다.&lt;br&gt;&lt;br&gt;3일 제주소방안전본부에 따르면 이날 오후 3시58분쯤 서귀포시 남원읍 하례리 서성로에서 카니발 렌터카와 1t 트럭이 충돌했다.&lt;br&gt;&lt;br&gt;이 사고로 8명이 다쳐 병원으로 옮겨져 치료를 받고 있다. 이 중 카니발에 타고 있던 6명 중 4명이 심정지 상태로 병원으로 이송됐으나 모두 숨졌다. 그외 카니발 및 트럭에 타고 있던 4명은 중상 3명, 경상 1명으로 파악됐다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “카니발에 타고 있던 일부 승객은 관광객으로 추정되며, 차량 내 블랙박스와 탑승자 진술을 통해 정확한 사고 경위를 조사할 방침”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>檢, ‘공천 거래’  의혹 명태균·김영선 구속 기소</title>
+      <link>https://www.chosun.com/national/court_law/2024/12/03/IAHJQAMHMJB2DM54IMWFYUBAPM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/03/IAHJQAMHMJB2DM54IMWFYUBAPM/</guid>
+      <dc:creator>창원=김준호 기자, 창원=이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 03 Dec 2024 09:11:45 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WOOGIJQOJ5O6NLL25MSZED5LHY.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;'공천 거래' 혐의로 3일 구속 기소된 명태균과 김영선 전 의원. 사진은 지난달 14일 영장실질심사를 마치고 호송차에 올라탄 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘공천 거래’ 의혹을 수사한 검찰이 정치 브로커 명태균(54‧구속)씨와 김영선(64‧구속) 전 국민의힘 의원 등을 정치자금법 위반 혐의로 3일 기소했다.&lt;br&gt;&lt;br&gt;창원지검 전담수사팀(팀장 이지형 차장검사)은 정치자금법 위반 및 증거은닉교사 혐의로 명씨와 김 전 의원을 이날 오후 구속 기소했다고 밝혔다. 명씨는 공천을 도운 대가로 2022년 6월 국회의원 보궐선거에서 당선됐던 김 전 의원으로부터 세비 등 8070만원을 받아 챙기고, 2022년 6월 지방선거에 출마를 준비했던 예비 후보 배모씨와 이모씨로부터 1억2000만원씩을 받은 혐의로 지난달 15일 구속됐다.&lt;br&gt;&lt;br&gt;검찰은 명씨가 검찰 압수 수색을 앞두고 윤 대통령과의 통화 등이 녹음된 자신의 휴대전화 3대와 USB 1개를 처남 이모씨에게 숨기라고 시킨 혐의(증거은닉교사)도 추가했다.&lt;br&gt;&lt;br&gt;수사팀은 명씨가 2022년 3월 대선 기간을 포함해 2019년 9월부터 작년 11월까지 사용한 이른바 ‘황금폰’을 아직 찾지 못하고 있다. 명씨는 이 황금폰을 폐기했다고 했다가, 다시 갖고 있다는 취지로 변호사를 통해 대통령실과 검찰 등에게 구명 로비를 한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;김 전 의원은 명씨에게 불법 정치자금 8070만 원을 건네고, 배씨와 이씨가 불법 정치자금을 명씨에게 건네는 과정에 명씨, 여론조사 업체인 미래한국연구소 소장 김모씨 등과 함께 공모한 혐의가 적용됐다. 검찰은 배씨‧이씨‧김씨도 이날 함께 기소했다. 김 전 의원의 구속영장에 공범으로 적시했던 회계담당자 강혜경씨에 대해선 수사를 계속 하기로 했다.&lt;br&gt;&lt;br&gt;검찰은 앞으로 명씨의 ‘여론조사 조작’ 및 ‘창원 국가산업단지 선정 과정 개입’ 의혹에 대한 수사를 이어갈 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>의협 회장 선거 ‘5파전’… 4명은 강경파</title>
+      <link>https://www.chosun.com/national/welfare-medical/2024/12/03/7WGEUQUFUBF4ZCROH3QEVJ2FJY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/12/03/7WGEUQUFUBF4ZCROH3QEVJ2FJY/</guid>
+      <dc:creator>안준용 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 03 Dec 2024 09:26:53 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TCCJZ7IV53SZFHHZKRL45BT33Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대한의사협회(의협) 회장 보궐선거에 출마하는 후보 5명. 왼쪽부터 강희경·김택우·이동욱·주수호·최안나 후보. /조선DB·개인제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;다음 달 초 예정된 대한의사협회(의협) 회장 보궐선거의 후보자 등록이 3일 마감됐다.&lt;br&gt;&lt;br&gt;강희경(53) 서울의대·서울대병원 교수 비상대책위원장, 김택우(60) 전국광역시도의사협의회장, 이동욱(53) 경기도의사회장, 주수호(66) 미래의료포럼 대표, 최안나(58) 의협 기획이사 등 5명이 후보로 등록했다.&lt;br&gt;&lt;br&gt;현재로선 일찌감치 출마 의사를 밝힌 김택우·주수호 후보가 앞서 있다는 평가를 받지만, 투표까지 한 달이나 남아 여러 변수가 생길 수 있다. 강희경 후보는 10년 만에 나온 교수 출신 의협 회장 후보다. 김택우 후보는 의정 갈등이 시작된 올 2월 의협 비대위원장을 맡았다. 이동욱 후보는 올해 대통령실과 서울시청 앞에서 53차례 ‘의료농단 규탄 집회’를 열었고, 주수호 후보는 2007~2009년 의협 회장을 지낸 바 있다. 최안나 후보는 임현택 전 회장 집행부에서 대변인을 맡아 정부를 비판해왔다.&lt;br&gt;&lt;br&gt;투표는 내년 1월 2~4일 전자 투표 방식으로 진행된다. 과반 득표자는 즉시 회장으로 취임한다. 과반 득표자가 없으면 1, 2위 후보를 대상으로 1월 7~8일 결선투표를 실시해 당선자를 가린다. 유권자 규모는 의협 회원 약 14만명 중 회비를 내는 5만여 명으로 추산된다.&lt;br&gt;&lt;br&gt;여·의·정 협의체가 지난 1일 좌초된 데 이어 6일 수능 성적 발표 직후엔 13일까지 2025학년도 수시 모집 합격자 발표도 줄줄이 예정돼 있다. 의료계에서 요구 중인 2025학년도 의대 증원 철회가 사실상 불가능해지는 것이다. 이런 가운데 ‘온건파’로 분류되는 강희경 후보를 제외하면 나머지 후보들이 모두 ‘대정부 투쟁’을 내세우고 있어 회장 선출 이후에도 의정 대치가 한동안 계속 이어질 것이란 전망이 많다.&lt;br&gt;&lt;br&gt;4일부터는 수련 병원별로 내년도 상반기 전공의(레지던트) 1년 차 총 3500여 명 모집을 시작한다. 9일까지 원서를 접수한 뒤 필기·면접을 거쳐 19일 합격자를 발표한다. ‘빅 5′ 병원의 경우 서울대병원 105명, 서울아산병원 110명, 세브란스병원 104명, 삼성서울병원 96명, 서울성모병원 73명을 각각 모집한다. 올해는 예년과 달리 1지망·2지망 제도도 도입했다. 1지망 과목에 떨어지더라도 같은 병원의 2지망 과목에 합격할 수 있다. 다만 2지망은 내과·외과·산부인과·소아청소년과·응급의학과·가정의학과·병리과·심장혈관흉부외과·핵의학과·방사선종양학과·결핵과·예방의학과로 제한된다.&lt;br&gt;&lt;br&gt;의정 갈등이 계속 이어지고 있는 만큼 이번 모집에서도 지원 규모는 미미할 것으로 보인다. 레지던트 1년 차는 인턴을 마치고 지원할 수 있는데 현재 수련 병원 211곳의 인턴 3068명 중 102명(3.3%)만 정상 출근 중이다. 서울의 한 대학병원 교수는 “빅 5 병원 인기과 중심으로 소수만 지원할 것으로 보이고, 특히 필수 의료과 지원자는 손에 꼽을 정도일 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“강압으로 전 재산 유증 유언장”…승려 가족이 사찰 상대 소송서 패소</title>
+      <link>https://www.chosun.com/national/regional/2024/12/03/NLAH2QZKEZDBPDHRGA7JN5POIM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/12/03/NLAH2QZKEZDBPDHRGA7JN5POIM/</guid>
+      <dc:creator>대구=노인호 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 03 Dec 2024 09:40:51 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BGVN5ERUAVSSSYMVXI77ZNWVOA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대구지법./ 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대구지법 민사 12부(재판장 채성호)는 3일 “전 재산을 사찰 측에 유증(遺贈)한다는 내용의 유언장은 강압에 의해 작성됐다”고 주장하며 숨진 승려의 친동생 A씨가 대한불교조계종 한 사찰을 상대로 제기한 유언무효 확인 소송에서 원고의 청구를 기각했다.&lt;br&gt;&lt;br&gt;판결문에 따르면, 소송을 제기한 A씨의 형인 B씨는 40년간 승려로 살다가 지난해 4월 숨졌다. B씨는 경북 청도군에 있는 대한불교조계송 사찰 소속으로, 2020년부터 2년간 이 사찰의 주지로 재직했다. 재직 당시 B씨는 “사후에 본인 명의로 된 재산을 사찰 측에 유증한다”는 내용의 자필 유언장을 작성했다.&lt;br&gt;&lt;br&gt;하지만 공동상속인인 A씨는 “형은 어머니에게 받은 종잣돈으로 재산을 형성했다”며 “조계종이 5년마다 주지(승려)들에게 사후에 조계종 유지재단에 재산을 유증하도록 하는 내용의 유언장을 작성하도록 강제하고 있고, 형도 자신에 뜻과 다르게 강압에 의해 작성한 것”이라며 유언장의 내용이 무효라고 주장했다.&lt;br&gt;&lt;br&gt;이에 대해 재판부는 “‘B씨가 유언장을 작성할 당시 스스로 의사 결정을 할 수 있는 여지가 완전히 박탈당한 상태에 있었다고 단정할 수 없고, B씨의 재산을 관리해온 또다른 동생은 유언장 검인 당시 ‘유언의 내용이나 집행에 관해 아무런 이의가 없다’고 진술한 점 등을 고려했다”며 기각 이유를 설명했다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>서울고법, 연세대 논술시험 효력 인정…입시절차 진행</title>
+      <link>https://www.chosun.com/national/court_law/2024/12/03/IF2KXPLV4ZBPVKOF6B73M2KB5Q/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/03/IF2KXPLV4ZBPVKOF6B73M2KB5Q/</guid>
+      <dc:creator>박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 03 Dec 2024 08:38:31 +0000</pubDate>
+      <content:encoded>서울고법이 2025학년도 연세대 수시 논술(자연계열) 시험의 효력을 정지한 1심 결정을 뒤집고 시험의 효력을 인정했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TSTTBVVM2NISLJ3OQ4JFB7FQLI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;1일 오전 서울 서대문구 연세대학교 정문 앞에 수시논술 차량통행 통제 관련 현수막이 설치되어 있는 모습/뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울고법 민사25-1부(재판장 이균용)는 3일 연세대가 제기한 논술시험 효력정지 가처분 이의 항고를 받아들였다. 이에 따라 논술시험 효력을 정지한 1심의 가처분 결정이 취소됐다.&lt;br&gt;&lt;br&gt;재판부는 “이 사건 논술시험 운영 및 감독 과정에서 미흡한 대처가 있었다고 하더라도, 선발 과정에서 공정성을 중대하게 훼손하지 않는 범위 내라면 자율성이 인정돼야 한다”라며 “사립학교의 합격·불합격 판정 또는 입학 자격, 선발방법 등은 해당 교육기관이 교육목적 달성을 위해 인격·자질·학력·지식 등을 종합적으로 고려하여 정할 수 있는 재량 행위”라고 했다.&lt;br&gt;&lt;br&gt;이어 “문제가 된 고사장에서 시험을 본 학생들의 평균 점수, 외부로의 광범위한 유출에 관한 소명 부족 등을 고려할 때 문제지 사전 배부 및 회수 등으로 논술시험의 공정성이 중대하게 훼손됐다고 보이지는 않는다”고 설명했다. &lt;br&gt;&lt;br&gt;이 사건은 지난 10월 12일 연세대 수시 논술(자열계열) 시험에서 일부 문항이 인터넷에 유출됐다는 의혹이 제기되며 시작됐다. 이에 논술 시험을 본 수험생 18명 등이 “재시험이 필요하다”며 연세대를 상대로 논술시험 효력 정지 소송과 가처분을 신청했다.&lt;br&gt;&lt;br&gt;서울서부지법 민사21부(재판장 전보성)는 지난 15일 이 사건 본안 소송(논술 시험 무효) 판단 전까지 연세대가 수시전형 자연계열 합격자를 발표하지 못하게 해달라며 수험생들이 낸 가처분 신청을 인용했다. 이에 따라 오는 12월 13일로 예정됐던 자연계열 논술 합격자 발표 등 후속 입시 절차가 중단됐다.&lt;br&gt;&lt;br&gt;연세대는 법원의 가처분 인용 결정에 대해 이의신청을 했지만, 지난달 20일 법원은 “추가 주장을 살펴봤으나 기존 결정이 정당하다”며 이를 기각했다. 연세대는 법원의 이의신청 기각 결정에 불복하며 서울고법에 즉시 항고장을 제출했다.&lt;br&gt;&lt;br&gt;이날 서울고법이 연세대가 낸 이의 항고를 인용하면서, 자연계열 수시전형의 후속 입시 절차가 진행될 수 있게 됐다. 만약 이 결정에 학생들이 불복해 재항고를 한다면 이 사건은 대법원이 심리하게 된다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>명태균 “검찰이 날 잡범 만들어, 특검 해달라” 옥중 입장문</title>
+      <link>https://www.chosun.com/national/court_law/2024/12/03/SNPBOEUKTZHDLL7FKEQIIFYNDU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/03/SNPBOEUKTZHDLL7FKEQIIFYNDU/</guid>
+      <dc:creator>창원=김준호 기자, 창원=이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 03 Dec 2024 09:02:38 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PWJEGLHS6JOTVKNILNLDJUQVLI.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 14일 명태균씨가 창원지방법원에서 영장실질심사를 받고 창원교도소로 가는 호송차에 올라 탔다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘공천 거래’ 혐의로 구속된 정치 브로커 명태균씨가 3일 기소를 앞두고 자신의 법률대리인을 통해 “특검을 간곡히 요청한다”는 입장을 밝혔다.&lt;br&gt;&lt;br&gt;명씨는 입장문을 통해 “이번 검찰의 기소 행태를 보고 ‘특검만이 나의 진실을 밝혀줄 수 있다’라는 결론에 도달했다”며 “검찰 조사를 받으면서 모든 돈들이 강혜경, 김태열, 미래한국연구소로 흘러갔고, 그 돈들이 그들의 사익을 위해 사용된 것을 확인했다”고 주장했다.&lt;br&gt;&lt;br&gt;명씨는 공천을 도운 대가로 2022년 6월 국회의원 보궐선거에서 당선됐던 김영선 전 의원으로부터 7600여만 원을 받아 챙기고, 2022년 6월 지방선거에 출마를 준비했던 예비 후보 배모씨와 이모씨로부터 1억2000만원씩을 받은 혐의로 지난달 15일 구속됐다.&lt;br&gt;&lt;br&gt;명씨는 이어 “검찰은 미래한국연구소 실소유주가 명태균이라는 증거를 단 1%도 제시하지 못했다”며 “그럼에도 불구하고, 명태균을 기소해 공천 대가 뒷돈이나 받아먹는 잡범으로 만들어 꼬리 자르기에 들어갔다”고 덧붙였다.&lt;br&gt;&lt;br&gt;그러면서 “다섯 살짜리 어린 딸 황금이에게 자랑스러운 아버지는 아니더라도 부끄러운 아버지는 될 수 없다는 결심에 이르렀다”며 “특검을 강력히 요청한다”고 했다.&lt;br&gt;&lt;br&gt;이 입장문은 명씨 측 변호사가 이날 오전 창원구치소에 수감된 명씨로부터 직접 들은 내용을 언론에 공개한 것이다.&lt;br&gt;&lt;br&gt;한편, 검찰은 명씨의 공천 대가 돈거래 혐의 외에도 ‘윤 대통령 부부의 공천 개입’ ‘대선 등 선거 여론조사 조작’ ‘창원국가산단 선정 개입’ 등 의혹에 대해서도 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>손 닦는 물수건서 1500배 세균이...</title>
+      <link>https://www.chosun.com/national/national_general/2024/12/03/AKG7YZSZLBCGHEW5PFJPM7TPQU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/03/AKG7YZSZLBCGHEW5PFJPM7TPQU/</guid>
+      <dc:creator>박진성 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 03 Dec 2024 09:06:42 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/I476EYVZ5RFCDDY5WVB2VC2BAI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울시내 한 위생 물수건 처리 업체에서 세탁한 물수건을 포장 기계로 넘기는 모습/서울시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;식당에서 손을 닦을 때 쓰는 물수건에서 기준치의 1500배에 달하는 세균이 검출됐다.&lt;br&gt;&lt;br&gt;서울시 민생사법경찰국은 지난 8월부터 두 달간 서울시내 ‘위생물수건 처리 업체’ 11곳을 대상으로 안전성 검사를 실시한 결과 7곳에서 허용 기준치를 초과한 세균이 검출됐다고 3일 밝혔다.&lt;br&gt;&lt;br&gt;위생물수건 처리 업체는 식당에서 쓴 물수건을 수거해 세탁·소독한 뒤 포장해 공급한다. 민생사법경찰국은 이들 업체가 세탁·소독을 마친 물수건을 수거해 검사했다.&lt;br&gt;&lt;br&gt;이번에 적발된 7개 업체의 물수건에서는 기준치의 3배에서 1500배에 달하는 세균이 검출됐다.&lt;br&gt;&lt;br&gt;민생사법경찰국 관계자는 “물수건 한 장에서 최대 1억5000만 마리의 세균이 나온 것”이라며 “세균에 오염된 물수건으로 손을 닦으면 식중독에 걸릴 수 있다”고 했다.&lt;br&gt;&lt;br&gt;이들 업체는 대부분 영세한 것으로 파악됐다. 민생사법경찰국 관계자는 “물수건을 세탁·소독하고 포장하는 장소 자체가 대부분 지하인 데다 지저분하고 습했다”며 “세균이 번식하기 쉬운 장소에서 물수건을 세탁·소독하고 있었던 것”이라고 했다.&lt;br&gt;&lt;br&gt;이 중 4곳이 공급한 물수건에서는 알레르기를 일으킬 수 있는 화학물질인 ‘형광증백제’도 검출됐다. 형광증백제는 물수건을 하얗게 보이게 만드는 화학물질이다. 알레르기나 가려움증을 일으킬 수 있고 어린이의 경우 소화 장애를 유발할 수 있다. 물수건, 마스크, 면봉 등 피부에 닿는 위생용품에는 사용할 수 없다.&lt;br&gt;&lt;br&gt;민생사법경찰국은 이번에 적발한 7곳을 입건해 수사할 예정이다. 기준치가 넘는 세균이 검출되거나 형광증백제를 쓰면 위생용품관리법에 따라 1년 이하의 징역이나 1000만원 이하의 벌금을 받을 수 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>50대 남성, 20대 여성 흡연 늘었다</title>
+      <link>https://www.chosun.com/national/welfare-medical/2024/12/03/LZU2IT6GKRH7HHDVKDYOPY4WJI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/12/03/LZU2IT6GKRH7HHDVKDYOPY4WJI/</guid>
+      <dc:creator>오경묵 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 03 Dec 2024 08:58:25 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/D5S6FD5ZSUYVVSV33AFVD4UGKY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 10년간 감소하던 성인 흡연율이 지난해 다시 늘어난 것으로 나타났다. 특히 50대 남성과 20대 여성의 흡연율이 눈에 띄게 증가했다. 또 20대 남성과 20~30대 여성 등 젊은 층의 비만이 큰 폭으로 증가한 것으로 나타났다.&lt;br&gt;&lt;br&gt;질병관리청은 이 같은 내용의 ‘2023년 국민건강영양조사’ 결과를 3일 발표했다. 성인 흡연율(궐련)은 2014년 24.2%를 기록한 후 꾸준히 감소하며 2022년 17.7%를 찍었으나, 지난해에는 19.3%로 다시 올랐다. 50대 남성과 20대 여성의 흡연율이 크게 늘어난 것이 전체 흡연율 증가에 영향을 미쳤다.&lt;br&gt;&lt;br&gt;50대 남성의 흡연율은 지난해 42.1%로 최근 10년 사이 최고치를 기록했다. 20대 여성(19세 포함)의 흡연율은 2021년 11.4%를 기록한 뒤 2022년 5.8%로 하락했는데, 지난해는 다시 12.1%로 크게 증가했다. 임민경 인하대 의대 교수는 “다양한 전자담배가 출시되면서 담배에 대한 선호와 사용 행태가 다양화됐다”며 “담배 회사의 공격적 마케팅과 맞물려 전자담배 흡연자들이 늘었고, 이들이 일반 담배도 흡연하면서 전체 흡연율이 올라가고 있다”고 했다.&lt;br&gt;&lt;br&gt;과음하는 남성의 비율은 다소 줄었으나, 여성은 증가했다. 최근 1년간 한 번에 남성은 7잔, 여성은 5잔 이상 술을 마시거나, 주 2회 이상 마시는 비율을 의미하는 ‘고위험 음주율’을 조사한 결과다. 남성은 19.9%로 전년(21.3%) 대비 2.4%포인트 줄었으나, 여성은 7.0%에서 7.7%로 늘었다.&lt;br&gt;&lt;br&gt;비만(체중을 키의 제곱으로 나눈 BMI 값이 25 이상)은 남성의 경우 20대, 여성은 20~30대에서 늘어난 것으로 조사됐다. 20대(19세 포함) 남성의 비만율은 2022년 42.8%에서 지난해 43.9%로 올랐다. 같은 기간 20대 여성은 18.2%에서 22.1%로, 30대 여성은 21.8%에서 27.3%로 올라갔다. 김경곤 가천대 의대 교수는 “코로나를 거치며 야외 활동은 줄고, 배달 음식을 시켜먹는 문화가 확산됐다”며 “또 젊은 층을 중심으로 이른바 ‘맛집’을 찾아다니는 분위기가 번진 것이 영향을 미친 것으로 추정된다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title> ‘미인도 히트쳤다’...대구간송미술관 3개월 관람객 22만 명 돌파</title>
+      <link>https://www.chosun.com/national/national_general/2024/12/03/EEV5D7NKTJGGTBRALJFUI4XXB4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/03/EEV5D7NKTJGGTBRALJFUI4XXB4/</guid>
+      <dc:creator>이승규 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 03 Dec 2024 08:35:11 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LJK3XUH6BFFONMAREUJ7HMK4JY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대구간송미술관에 전시된 혜원 신윤복의 미인도/양수열 영상미디어 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대구간송미술관이 문을 연 뒤 3개월간 22만명이 넘게 방문한 것으로 집계됐다. 혜원 신윤복의 미인도, 훈민정음 해례본 등이 전시되면서 개관 초기부터 입소문을 타고 관람객들이 모여든 결과다.&lt;br&gt;&lt;br&gt;대구시는 지난 9월 3일부터 이달 1일까지 대구간송미술관에서 개최한 개관 기념 전시인 ‘여세동보 – 세상 함께 보배 삼아’가 관람객 22만 4000여 명을 달성했다고 3일 밝혔다. 신윤복의 미인도, 혜원전신첩을 비롯해 훈민정음 해례본과 청자상감운학문매병, 백자청화철채동채초충난국문병 등 간송 전형필 선생이 보존해 온 국보와 보물 97점이 전시됐다.&lt;br&gt;&lt;br&gt;이 중 별도 전시 공간에 위치했던 신윤복의 미인도는 관람객들이 몰려들면서 평일에도 10여m가 넘는 줄을 서는 모습을 볼 수 있었다. 대구시 관계자는 “집계 결과 전시 기간에 매일 2881명이 방문한 것으로 나타났다”고 말했다.&lt;br&gt;&lt;br&gt;학예사가 직접 문화재를 수리·복원하는 모습을 관람객이 투명 유리창을 통해 실시간으로 볼 수 있는 ‘보이는 수리복원실’도 인기였다. 유리창 인근에 설치된 마이크를 통해 관람객이 수리복원실 내부의 학예사에게 궁금한 점을 질문할 수 있어 가족 단위 관람객에게 “교육 효과가 좋다”는 평을 받았다.&lt;br&gt;&lt;br&gt;이 밖에도 사전전시해설과 간송예술강좌 등 교육 프로그램엔 2만 7000여명이 참가했고, 야간 프로그램인 ‘밤의 미술관’ 등에는 1200여 명이 동참하면서 모든 회차가 정원을 초과했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PP6A7FBPJJNTRINP3FBA24DE6M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;제578돌 한글날인 지난 10월 9일 대구 수성구 간송미술관을 찾은 관람객들이 훈민정음 해례본 진본을 살펴보고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대구를 넘어 전국 곳곳에서 관람객들이 몰려들기도 했다. 대구간송미술관을 방문한 관람객 22만 4000여명 중 약 42%인 9만 3000여명은 타 지역 주민으로 서울·경기·인천 등 수도권을 비롯해 부산·울산·경남 지역 등 전국 곳곳에서 대구간송미술관을 찾은 것으로 파악됐다.&lt;br&gt;&lt;br&gt;대구간송미술관은 2025년도 전시를 위해 내년 1월 15일까지 임시 휴관에 들어간다.&lt;br&gt;&lt;br&gt;이재성 대구시 문화체육관광국장은 “대구 시민들과 전국에서 찾아주신 모든 관람객 분들의 관심 덕분에 개관전을 성공적으로 마무리할 수 있었다”며 “앞으로도 대구간송미술관이 대구의 문화 공간을 넘어 세계적인 관광 명소로 자리매김할 수 있도록 하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>검찰, 1조원대 불법 도박 사이트 자금 관리책 구속 기소</title>
+      <link>https://www.chosun.com/national/court_law/2024/12/03/YT7HFJMCQFHI5BCY7QILKS3SZA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/03/YT7HFJMCQFHI5BCY7QILKS3SZA/</guid>
+      <dc:creator>춘천=정성원 기자</dc:creator>
+      <description>1조원이 넘는 불법 도박 사이트를 운영하며 수십억원의 범죄 수익을 세탁한 30대 자금 관리책이 구속 상태로 재판에 넘겨졌다.춘천지검 형사1부(재판장 오세문)는 국민체육진흥법 위반 등 혐의로 A(38)씨를 구속 기소했다고 3일 밝혔다.</description>
+      <pubDate>Tue, 03 Dec 2024 08:38:12 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7PE7N26J2ZCMG6RJX5G5XPKDPE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;춘천지검 전경/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;1조원이 넘는 불법 도박 사이트를 운영하며 수십억원의 범죄 수익을 세탁한 30대 자금 관리책이 구속 상태로 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;춘천지검 형사1부(재판장 오세문)는 국민체육진흥법 위반 등 혐의로 A(38)씨를 구속 기소했다고 3일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 도박사이트 운영 조직원들과 공모해 베트남 등 해외에 사무실을 두고 불법 도박사이트를 운영한 혐의다. 이들이 운영한 사이트의 도박 대금만 1조 3000억여원에 달했다. A씨는 이 중 30억 4200만원으로 백화점 상품권을 사는 등 이른바 ‘상품권깡’ 방식으로 범죄 수익을 세탁했다.&lt;br&gt;&lt;br&gt;검찰은 지난 7월 총 6명이 구속 기소된 소송 사기 사건을 수사하던 중 소송 사기 상대방인 특정 법인의 대부분이 신설 법인인 점, 일부 대표 명의가 도용된 점 등을 확인, 추가 수사를 통해 해당 법인이 도박 사이트 운영을 위해 설립된 점을 확인했다.&lt;br&gt;&lt;br&gt;검찰 관계자는 “범죄 수익 은닉처로 추정되는 계좌에서 자금 흐름을 역추적해 범죄를 신속 적발했다”면서 “도박 사이트 운영 총책 등 공범을 계속 추적하는 등 추가 수사를 이어나갈 방침”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>피해자 모르게 한 ‘기습공탁’… “양형 반영에 신중해야”</title>
       <link>https://www.chosun.com/national/court_law/2024/12/03/CQ5ZKTZIVZGETARBZEULCZSUCU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/03/CQ5ZKTZIVZGETARBZEULCZSUCU/</guid>
@@ -772,54 +862,6 @@
       </media:content>
     </item>
     <item>
-      <title>“키 167㎝·연봉 4000 이하, 탈모男은 안 돼”… KBS 예능 법정제재</title>
-      <link>https://www.chosun.com/national/national_general/2024/12/02/GMVEXLQ6EZCFJH2YPE6HPEHZKI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/02/GMVEXLQ6EZCFJH2YPE6HPEHZKI/</guid>
-      <dc:creator>문지연 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 02 Dec 2024 12:15:09 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/P2C74JIXHJAWFH5MJO4O7URBIY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;‘사장님 귀는 당나귀 귀’ 작년 7월 2일 방송분의 한 장면. /유튜브 채널 KBS Entertain&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;방송통신심의위원회(방심위)가 비만과 탈모 남성을 희화화했다는 민원이 제기된 KBS 예능프로그램 ‘사장님 귀는 당나귀 귀’에 대해 법정 제재를 결정했다.&lt;br&gt;&lt;br&gt;방심위는 2일 서울 목동 방송회관에서 전체 회의를 열고 ‘사장님 귀는 당나귀 귀’ 작년 7월 2일 방송분에 대한 관계자 의견진술을 들은 뒤 법정 제재인 ‘주의’를 의결했다. 적용 조항은 방송심의에 관한 규정 제21조(인권 보호) 제3항이다.&lt;br&gt;&lt;br&gt;문제의 방송분에는 결혼정보회사 대표가 출연해 직원들 외모를 평가하고 남성 회원의 신규 가입 조건을 소개하는 장면이 나온다. 학력과 키 등 관련 기준을 제시하는데, 이 과정에서 특정 코미디언과 탈모 질환을 앓는 남성들을 희화화했다는 논란에 휩싸였다.&lt;br&gt;&lt;br&gt;구체적으로 살이 찐 사람을 ‘북쪽 위원장 닮은꼴’이라고, 탈모가 있는 사람을 ‘머리 밑이 너무 훤하다’라고 표현했다. 또 “남성의 경우 학력은 고등학교 졸업 미만, 키 167㎝ 이하, 연봉 4000만원 이하 중 두 가지 이상 해당하면 소개해 드릴 대상자가 적어져 가입이 불가하다” “키가 크고 학교·직업이 좋아도 탈모가 심하면 가입이 힘들다” 등의 발언과 자막이 노출됐다.&lt;br&gt;&lt;br&gt;김정수 위원은 “특정 조건에 해당하지 않는 남성에 대해 열등한 사람인 것처럼 묘사한 부분은 희화화한 게 맞다”고 했고, 강경필 위원도 “표현 과정이 부적절했는데 방송 전 걸러내지 못했다”고 지적했다. 류희림 위원장 역시 “심의 규정에도 학력·신체 차이·재력 등을 조롱 대상으로 삼아선 안 된다고 명시돼 있는데 편견을 조장했다”고 비판했다.&lt;br&gt;&lt;br&gt;이날 방심위는 여론조사 결과를 소개하면서 조사 기관·조사 일시·전체 질문지 등 필수 고지사항을 누락한 라디오 시사 프로그램에 대해서도 법정 제재를 내렸다. 작년 7월 항목 고지에 신경 써달라는 공문을 발송한 후에도 같은 누락이 반복된 MBC 표준FM ‘신장식의 뉴스하이킥’에 ‘주의’를 의결했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FFEBSUKRHNDTLMHWZZVBV2XPQ4.png"&gt;&lt;figcaption&gt;&lt;small&gt;MBC 드라마 ‘지금 거신 전화는’에서 극중 수어 통역사가 표현한 '산'을 앵커(오른쪽)가 손가락 욕으로 묘사하고 있다. /MBC&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;또 최근 수어 희화화 논란이 불거진 MBC 드라마 ‘지금 거신 전화는’에 대해서도 신속 심의하기로 했다. 지난달 22일 방영된 1화에서 수어 통역사인 주인공이 산사태 뉴스를 전하던 중 ‘산’(山) 수어가 반복 송출되는 사고가 벌어지는데, 극 중 앵커가 이를 손가락 욕으로 묘사하며 웃는 장면이다.&lt;br&gt;&lt;br&gt;이를 두고 농인들과 수어를 희화화했다는 비판이 제기됐고, 제작진은 시청자 게시판을 통해 “수어를 희화화하거나 조롱하려는 의도는 전혀 없었지만, 제작 과정에서 농인들과 한국 수어가 겪어온 어려움을 더 세심하게 살피고 반영하려는 제작진의 노력이 부족했음을 겸허히 인정한다”고 사과했다.&lt;br&gt;&lt;br&gt;한편 방심위 결정은 제재 수위가 가장 낮은 ▲문제없음부터 ▲행정지도 단계인 의견제시·권고 ▲법정 제재인 주의·경고 ▲프로그램 정정·수정·중지나 관계자 징계·과징금 등으로 나눠진다. 법정 제재부터 중징계로 간주하며, 방송사 재허가·승인 심사 시 방송평가에 감정 사항이 된다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[단독] 마약 투약 집유 중에...모 그룹 3세, 하루 두 번 약물 운전 혐의</title>
-      <link>https://www.chosun.com/national/national_general/2024/12/02/FIUU6PFDTBEORN4UY7TOBD676M/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/02/FIUU6PFDTBEORN4UY7TOBD676M/</guid>
-      <dc:creator>김병권 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 02 Dec 2024 11:44:59 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/F5HWAIWGE6RSYMTKGTNK2CEVNE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 강남경찰서/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;마약을 투약한 혐의로 징역형의 집행유예를 선고받은 모 그룹 3세 김모씨가 집행유예 기간 중에 약물 운전을 한 혐의로 검찰에 넘겨졌다. 김씨는 유명 농기계 업체의 전무를 맡고 있다.&lt;br&gt;&lt;br&gt;서울 강남경찰서는 지난달 25일 김씨를 약물운전 혐의로 검찰에 불구속 송치했다고 2일 밝혔다.&lt;br&gt;&lt;br&gt;김씨는 향정신성 약물을 복용한 채로 지난 7월 27일 서울 강남구에서만 두 차례 교통사고를 낸 혐의를 받고 있다. 김씨는 지난 7월 27일 오후 2시 30분쯤 강남구 논현동의 한 도로에서 약물에 취한 채로 접촉사고를 냈다가 임의동행 방식으로 경찰 조사를 받았다. 그러나 마약 간이 검사에는 불응한 채로 풀려났는데, 2시간쯤 후에 강남구의 다른 도로에서 다시 교통사고를 냈다고 한다.&lt;br&gt;&lt;br&gt;경찰은 2차 사고 직후에는 김씨를 상대로 마약 간이검사를 실시했는데, 이때 항정신성 약물 성분이 검출됐다. 경찰은 김씨를 지난 10월 12일에 검찰에 넘겼지만, 검찰의 보완 수사 요구가 있어 추가 조사 이후 지난달 25일 검찰에 다시 송치한 것으로 확인됐다.&lt;br&gt;&lt;br&gt;한편, 김씨는 미국 현지에서 액상대마 및 합성마약 등을 투약한 혐의 등으로 작년 10월 징역 1년 집행유예 2년형이 확정됐다. 집행유예 기간 중에 다시 약물 운전을 하다 사고를 낸 것이다. 김씨는 경찰 조사에서 “정상적으로 처방 받은 약을 복용한 것”이라고 해명한 걸로 확인됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/F5HWAIWGE6RSYMTKGTNK2CEVNE.jpg?width=4000&amp;height=2252&amp;auth=8914ae2a711fb46de079747e187fdbe6d7d715bc72d00b8ab29b2cf52ddae5c6&amp;smart=true" type="image/jpeg" height="2252" width="4000">
-        <media:description type="plain">서울 강남경찰서 ⓒ News1 이비슬 기자</media:description>
-      </media:content>
-    </item>
-    <item>
-      <title>교사들 “석달내 AI 교과서 익히기 쉽지 않지만... 학생 호기심 자극”</title>
-      <link>https://www.chosun.com/national/education/2024/12/02/AOQIF35UZZBSLIPDDUO3COJK4M/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2024/12/02/AOQIF35UZZBSLIPDDUO3COJK4M/</guid>
-      <dc:creator>김민기 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 02 Dec 2024 11:46:38 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/W7G6JCXZIBLQHETHPFILALBAXM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2일 정부세종청사 교육부 대회의실에서 열린 AI 디지털 교과서 영어 최종 합격본의 시연 행사에서 관계자가 인공지능 디지털 교과서(AIDT)의 주요 기능을 토대로 참여형 수업 및 학생 맞춤교육 방법 등을 설명하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;교육부가 2일 내년 3월 학생들이 사용할 인공지능(AI) 교과서를 공개했지만, 학교 현장에선 “3개월 만에 교사들이 사용법을 익힐 시간이 될지 의문”이라는 목소리가 나온다. 교과서 실물 공개가 너무 늦어져서 교사들이 체계적인 연수를 받을 수 있겠냐는 것이다.&lt;br&gt;&lt;br&gt;교육부는 올 5월부터 현재까지 전국 5만명 넘는 교사를 대상으로 AI 교과서 관련 연수가 이뤄졌다고 밝혔다. 하지만 그간 주요 핵심 기능만 담은 시제품으로 교육이 진행돼 교사들 사이에선 “실습이 부족했다”는 말이 나왔다.&lt;br&gt;&lt;br&gt;대구 한 중학교 수학 교사 A(57)씨는 “10월에 토요일 하루 8시간짜리 연수를 들었는데, 대부분 이론이었다”면서 “아이들이 디지털 세대라 AI 교과서에 호기심을 가질 것 같은데, 교사들 연수가 시급한 문제”라고 말했다. 서울 한 중학교 교사도 “연수를 3~4차례 들었지만 실습 없이 강사가 설명하는 내용이 주였다”면서 “지금부터 AI 교과서를 본격적으로 익혀야 해서 부담스러워하는 동료가 많다”고 했다. 최대 교사 노조인 교사노동조합연맹은 이날 성명서를 내고 “학교에서 여러 종의 AI 교과서를 검토하고 내년도 교과서를 선정해야 하는데, 학기말 가장 바쁜 시간에 학생 특성에 맞는 교과서를 제대로 선정할 수 있을지 의문”이라고 밝혔다.&lt;br&gt;&lt;br&gt;AI 교과서는 시도교육청들이 발행사들에 ‘구독료’를 내고 사용해야 한다. 그런데 교육부와 발행사 간 협상이 늦어져 아직 구독료도 정해지지 않은 상황이다. AI 교과서는 교육용 프로그램으로, 이를 탑재한 디지털 기기가 학생 모두에게 보급돼야 AI 기반 수업이 이뤄질 수 있다. 현재 서울의 기기 보급률은 약 50% 수준이며, 전국 17개 시도 중 기기 보급률 100% 이상인 곳은 5곳에 불과하다는 지적이 일기도 했다. 교육부 관계자는 “내년 AI 교과서로 수업하는 초3·4, 중1, 고1 학생 수로 따지면 보급률엔 문제가 없고, 전체 기기 수도 늘려 나갈 것”이라고 했다.&lt;br&gt;&lt;br&gt;더 큰 문제는 야당이 추진 중인 AI 교과서 관련 법안이다. 야당은 AI 교과서를 ‘교육 자료’로 격하하는 법안을 추진 중인데, 이미 국회 교육위원회 전체 회의를 통과한 상황이다. 이 법안이 법사위를 거쳐 국회 본회의까지 통과하면 AI 디지털 교과서는 ‘교과서’가 아닌 ‘교육 자료’가 된다. 교육 자료가 되면 모든 학생이 의무적으로 사용하는 게 아니라 원하는 학교만 사용하게 된다. 교과서 도입이 3개월밖에 남지 않았지만, 아직 해결하지 못한 문제들이 곳곳에 있는 것이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>경찰 “‘동덕여대 사태’ 19명 인적사항 특정…외부 개입설 수사 검토”</title>
-      <link>https://www.chosun.com/national/national_general/2024/12/02/26UJPIVDPNGRNCVF26G2VCQG4Q/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/02/26UJPIVDPNGRNCVF26G2VCQG4Q/</guid>
-      <dc:creator>김명일 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 02 Dec 2024 09:43:08 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MOICGL7WBVPPXBUOP5AGIHP2IA.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;2일 서울 성북구 동덕여자대학교 100주년기념관 일대. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰이 동덕여대 ‘남녀공학 전환’ 반대 시위와 관련 피고소인 21명 가운데 19명의 인적 사항을 특정했다고 밝혔다. 경찰은 외부 인물들이 개입해 동덕여대 사태를 부추겼다는 의혹의 수사 여부도 검토하겠다고 했다.&lt;br&gt;&lt;br&gt;김봉식 서울경찰청장은 2일 서울 종로구 청사에서 열린 정례 기자간담회에서 “지난달 29일 동덕여대 측으로부터 총학생회 학생 등을 피의자로 적시한 고소장이 접수됐다”며 “(시위와 관련) 고소 1건, 그 외 고발 4건과 국민신문고 통한 수사 촉구 민원 13건을 접수했다”고 말했다.&lt;br&gt;&lt;br&gt;김봉식 청장은 “피고소인은 주로 총학생회 학생들”이라며 “학교 측이 제시한 고소 혐의는 공동재물손괴, 공동건조물침입, 공동퇴거불응과 그 외 업무방해 등”이라고 했다.&lt;br&gt;&lt;br&gt;간담회에 배석한 서울청 관계자는 이번 사태에 외부 세력이 개입했다는 의혹에 대해서는 “일부 언론 보도가 있던데 고소인 조사 등을 통해 수사가 필요한지 검토해보겠다”고 답했다.&lt;br&gt;&lt;br&gt;이외에 동덕여대를 무단 침입한 혐의를 받는 학교 외부 피의자에 대해서는 조사를 마치고 법리 검토 등에 들어갔고, 인터넷에 흉기 난동을 예고한 게시자는 현재 추적 중이다.&lt;br&gt;&lt;br&gt;한편 동덕여대 재학생들은 남녀공학 전환에 반대하며 캠퍼스를 점거하고 기물을 파손하는 시위를 했다. 동덕여대 측은 이번 시위로 인한 피해액이 최소 24억원에서 최대 54억원에 달한다고 밝힌 바 있다.&lt;br&gt;&lt;br&gt;동덕여대는 지난달 29일 김명애 총장 명의로 총학생회장을 비롯한 학생들을 경찰에 고소했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>중앙지검 평검사도 집단반발 “검사 탄핵은 검찰 독립성 심각 훼손”</title>
-      <link>https://www.chosun.com/national/court_law/2024/12/02/BRBJXY3CGVAF5H7XM24ZT7XQFQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/02/BRBJXY3CGVAF5H7XM24ZT7XQFQ/</guid>
-      <dc:creator>유희곤 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 02 Dec 2024 08:38:21 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3SHAXOEQWFN5RLVP75LCOEZLY4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2일 서울 서초구 서울중앙지검. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지검 평검사들이 더불어민주당의 이창수 서울중앙지검장 등에 대한 탄핵소추안에 대해 “검찰의 독립성과 중립성을 심각하게 훼손할 위험이 있다”고 2일 비판했다.&lt;br&gt;&lt;br&gt;서울중앙지검 평검사 일동은 이날 검찰 내부게시판 이프로스에 ‘검사 탄핵소추 추진 관련 서울중앙지검 평검사 의견’이라는 제목의 글에서 “서울중앙지검장 등을 대상으로 탄핵을 추진하는 상황에 대해 깊은 우려와 유감을 표한다”며 이같이 밝혔다.&lt;br&gt;&lt;br&gt;이들은 “(김건희 여사의 도이치모터스 주가조작 의혹 등) 특정 사건의 수사와 처분의 당부(當否·옳고 그름)를 이유로 이에 관여한 검사에 대한 탄핵 시도는 헌법과 법률이 보장하는 검찰의 독립성과 중립성을 심각하게 훼손할 위험이 있다”고 했다.&lt;br&gt;&lt;br&gt;또한 탄핵은 “고위공직자의 중대한 헌법·법률 위반에 대응하여 헌법을 수호하기 위한 수단“이지만 현재 이 지검장 등에 대한 탄핵 소추 시도는 이에 부합하지 않는다고 지적했다.&lt;br&gt;&lt;br&gt;서울중앙지검 평검사들은 “어떠한 상황에서도 국민의 안전을 지키는 검찰 본연의 업무를 흔들림 없이 수행해 형사사법과 법치질서의 공백이 발생하지 않도록 최선의 노력을 다하겠다”고 했다.&lt;br&gt;&lt;br&gt;국회는 이날 더불어민주당 주도로 서울중앙지검 이 지검장·조상원 4차장검사·최재훈 반부패수사2부장 등 검사 3명과 최재해 감사원장에 대한 탄핵 소추안을 본회의에 보고했다. 탄핵소추안은 오는 4일 본회의에서 의결될 예정이다.&lt;br&gt;&lt;br&gt;앞서 서울중앙지검 박승환·공봉숙·이성식 1~3차장검사, 부장검사 33명, 부부장검사 21명 등도 지난달 말 차례로 탄핵 시도를 비판하는 입장문을 냈다. 서울남부지검 차장·부장검사도 지난달 28일, 정진우 서울북부지검장도 이날 각각 검사 탄핵 시도를 중단하라는 취지의 글을 이프로스에 올렸다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>경북도, 올해 어려운 이웃 위해 176억 모금 시작</title>
       <link>https://www.chosun.com/national/national_general/2024/12/02/ML2PZWZKPVHHVGFN45FAEWFSMM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/02/ML2PZWZKPVHHVGFN45FAEWFSMM/</guid>
@@ -827,55 +869,6 @@
       <description/>
       <pubDate>Mon, 02 Dec 2024 08:24:28 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PXY6HTVXWVMK7PGR3CTY4SGFKI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경상북도와 경북사회복지공동모금회가 2일 경북 안성시 경상북도청 앞마당에서 '희망 2025 나눔 캠페인' 출범식과 사랑의 온도탑 제막 행사를 진행했다고 밝혔다. 사랑의 온도탑 제막 행사 참석자들이 기념 촬영하고 있다./경북도&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경북도와 경북사회복지공동모금회가 2일부터 내년 1월 31일까지 62일간 모금액 176억 7000만원을 목표로 모금을 시작했다.&lt;br&gt;&lt;br&gt;2일 오후 2시 경북도청 앞마당에서는 ‘희망 2025 나눔 캠페인’ 출범식이 열렸다. 이철우 경북지사를 비롯해 내빈 50여명이 참석했다. 이날 출범식에서는 경북농협과 IM뱅크, 경북개발공사 등 지역 기관과 경북도 어린이집연합회 아동 등이 첫 기부를 했다.&lt;br&gt;&lt;br&gt;경북도는 나눔 목표액의 1%인 1억 7670만원이 모일 때마다 도청 앞마당에 설치한 사랑의 온도탑에 새겨진 온도 표시 그래픽을 1도씩 올릴 예정이다. 목표인 176억원을 채우면 100도를 달성하게 된다.&lt;br&gt;&lt;br&gt;지난해 모금 행사에선 목표액이었던 164억을 넘어 195억원이 모였다. 경북도 관계자는 “경북은 서울 경기 충남에 이어 전국 4번째로 모금액이 높은 곳이며 매년 연말 모금액을 초과 달성한만큼 올해도 목표액을 넘길 것으로 기대한다”고 말했다.&lt;br&gt;&lt;br&gt;‘희망 2025 나눔 캠페인’에는 전화, 계좌이체 및 22개 시군 읍·면·동 행정복지센터 방문을 통해 참여할 수 있다. 060-700-0060으로 전화하면 3000원이 기부되며, 상세한 문의는 054-650-2600에서 할 수 있다.&lt;br&gt;&lt;br&gt;모은 성금은 지역 내 어려운 이웃 및 복지 시설 등에 전달할 예정이다. &lt;br&gt;&lt;br&gt;이철우 경북지사는 “어려운 이웃들이 삶의 희망을 품을 수 있도록 도민 여러분의 많은 기부 동참을 부탁드린다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>檢, 이기흥 최근측들 피의자 특정...금품로비, 윗선 개입 여부도 수사</title>
-      <link>https://www.chosun.com/national/national_general/2024/12/02/CFEC6S5U7FD4ZNAUOT6GWE2BK4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/02/CFEC6S5U7FD4ZNAUOT6GWE2BK4/</guid>
-      <dc:creator>김병권 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 02 Dec 2024 06:53:12 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CDIUZ2IOX2JA4P356BDD3LBVNQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울동부지검/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;진천 국가대표선수촌의 부당 용역계약 의혹을 수사하는 검찰이 이기흥 대한체육회장의 최측근 인사들을 수사선상에 올렸다. 검찰은 특히 이들과 용역업체 사이에서 일감 몰아주기를 대가로 뒷돈이 오가거나 ‘윗선’이 개입했는지도 들여다보고 있다.&lt;br&gt;&lt;br&gt;법조계에 따르면, 서울동부지검 형사6부(부장 이상혁)는 진천선수촌 고위직 A씨와 대한체육회 관계자 B씨, 용역업체 대표 C씨 등 8명을 이 사건의 피의자로 특정했다. A씨와 B씨는 체육계에서 이 회장의 최측근으로 통하며 C씨는 이 회장의 고교 후배로 알려졌다.&lt;br&gt;&lt;br&gt;검찰은 A씨와 B씨가 2023년 연간 70억원대의 선수촌 시설관리 용역을 C씨의 회사가 따낼 수 있도록 심사 과정에서 부당하게 점수를 몰아준 혐의가 있다고 보고 있다. 입찰에 참여한 3개 회사 중 C씨 회사가 입찰액 가격 평가 2위를 했음에도, 이들이 높은 정성평가 점수를 부여해 1위로 만들어줬다는 것이다. 검찰은 2023년뿐 아니라 2021년 계약 당시에도 선수촌·체육회 관계자들이 규정을 어기고 심사위원으로 대거 참여해 입찰액 평가 꼴찌였던 C씨 회사를 낙찰 회사로 만들어준 것인지 의심하고 있다. 또한, 검찰은 C씨 회사가 용역 계약을 따내는 과정에서 C씨가 선수촌이나 체육회 관계자들에게 금품 등으로 로비를 한 사실이 있는지도 수사 중이다.&lt;br&gt;&lt;br&gt;검찰은 피의자들 가운데 이 회장 측근들이 포함된 점에 주목해 이들이 ‘윗선’의 지시에 따라 C씨 업체에 일감을 몰아주는 범행을 저질렀거나, 로비 금품 등을 윗선과 나눴을 가능성도 들여다볼 예정인 것으로 전해졌다.&lt;br&gt;&lt;br&gt;지난달 28일 진천선수촌 등을 압수 수색한 검찰은 PC 등을 확보해 2021년과 2023년 용역 심사 당일 피의자들 사이에 어떤 대화가 오갔는지 등을 분석 중이라고 한다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/RG624WG7NZRSM5MMDVMF2XQXPI.jpg?width=5610&amp;height=3324&amp;auth=3965c8f7773d439ec085537ec205da26ded740b49e9e93673fd7bceb876f338b&amp;smart=true" type="image/jpeg" height="3324" width="5610">
-        <media:description type="plain">서울동부지검 2019.5.19/뉴스1 ⓒ News1 이재명 기자</media:description>
-        <media:credit role="author" scheme="urn:ebu">뉴스1 ⓒ News1 이재명 기자</media:credit>
-      </media:content>
-    </item>
-    <item>
-      <title>강혜경 변호인단, 尹 대통령 부부 쓰던 휴대전화 증거보전 청구</title>
-      <link>https://www.chosun.com/national/court_law/2024/12/02/X57YSWEEVVBKBDBJYVPL5PWJH4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/02/X57YSWEEVVBKBDBJYVPL5PWJH4/</guid>
-      <dc:creator>창원=이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 02 Dec 2024 07:05:50 +0000</pubDate>
-      <content:encoded>‘윤석열 대통령 부부 공천 개입’ 의혹을 처음 제기한 강혜경씨 측이 윤석열 대통령과 부인 김건희 여사가 사용하던 옛 휴대전화에 대해 법원에 증거보전을 청구했다고 2일 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/M5SZSUNBQRNOXO3WKWYOCK42BA.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;'윤석열 대통령 부부 공천 개입' 의혹을 제기한 강혜경씨가 지난달 6일 오전 소환조사를 받기 위해 창원지검으로 출석하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;강씨의 변호인단은 이날 취재진에 “윤 대통령 부부의 휴대폰이 있는 용산구를 관할하는 서울서부지법에 증거보전 청구를 제출했다”고 했다. 변호인단은 “청구인 강씨는 검찰에 피의자 명태균 등의 범죄행위를 사실대로 고하였으나, 피의자 명태균 및 대통령실을 포함한 사건관계자들은 오히려 청구인을 거짓말쟁이, 횡령·사기범으로 몰아가며 서로 말을 맞추고, 증거를 인멸하고 있다”며 “강씨는 자신의 진술이 진실이라는 점을 인정받기 위해서라도 신속한 증거 확보를 통한 실체적 진실의 규명이 절실하다고 판단했다”고 청구 이유를 밝혔다.&lt;br&gt;&lt;br&gt;그러면서 변호인단은 “피의자 명태균은 윤 대통령 부부와의 관계를 내세워 정치활동에 관여하고, 여론조사를 조작하고, 공천을 빌미로 정치자금을 수수하는 등 민주주의를 파괴하는 중대한 범죄를 저질렀다”고 했다.&lt;br&gt;&lt;br&gt;앞서 대통령실은 지난달 24일 윤 대통령 부부가 기존에 쓰던 개인 휴대전화 사용을 중단하고, 번호를 교체했다고 밝힌 바 있다. 윤 대통령은 지난달 7일 기자회견에서 김 여사가 개인 휴대전화로 외부와 소통하면서 여러 논란이 불거졌다는 지적과 관련해 “저도, 제 처도 휴대폰을 바꿨어야 한다”고 했었다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>박성재 법무 “검사 탄핵, 부당한 정치적 공세...중지해야”</title>
-      <link>https://www.chosun.com/national/court_law/2024/12/02/RWYZIHS37ZE6ZPDS5ADHVLOFXM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/02/RWYZIHS37ZE6ZPDS5ADHVLOFXM/</guid>
-      <dc:creator>유종헌 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 02 Dec 2024 06:54:39 +0000</pubDate>
-      <content:encoded>박성재 법무부 장관은 2일 더불어민주당이 국회 본회의에 이창수 서울중앙지검장 등 검사 3인의 탄핵안을 보고한 데 대해 “단순한 비판을 넘어 부당한 정치적 공세로 검찰의 본질적 기능을 훼손하는 것”이라고 비판했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WGNFRPVPJBIARMKO3YPFRRUN5U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;박성재 법무부 장관이 2일 오후 서울 여의도 국회 로텐더홀에서 이창수 서울중앙지검장 등 검사 3명에 대한 탄핵소추안이 본회의에 보고된 것에 대해 입장을 밝히고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;박 장관은 이날 국회 본회의를 마친 직후 국회 로텐더홀에서 기자들과 만나 이 같이 밝혔다. 박 장관은 “정치적 사건을 처리하거나 거악을 척결하는 과정에서 어느 정도의 비판과 정치적 압력은 검찰의 숙명이라고 생각하고 늘 받아들이며 일한다”면서도 “(이번 탄핵소추안 발의는) 부당한 정치적 공세다. 검찰 기능을 마비시킴으로서 우리 국민 사법시스템에 대한 신뢰를 훼손하게 될 것”이라고 했다.&lt;br&gt;&lt;br&gt;박 장관은 “탄핵 절차는 헌법이 규정하는 비상적 제도이고, 감사원장·판사·검사 등의 신분을 보장하기 위한 제도이기도 하다”라고 했다. 이어 “자신들의 의견과 다른 사건 처리 결과를 내놨다는 이유만으로 검사를 탄핵한다면 이는 위법·부당하다고 생각한다”면서 “이런 탄핵이 계속된다면 검사들이 업무를 하지 못하게 막는 결과를 초래할 것”이라고 했다.&lt;br&gt;&lt;br&gt;또 “이번 탄핵안이 헌법재판소가 상정하고 있는 ‘파면의 이를 정도의 중대한 위헌·위법 사유’를 갖추지 않았다면 정치적 공세에 불과하다”면서 “정치적 공세라면 검찰 사무의 최고 감독자인, 정치적 책임을 지는 법무부 장관을 상대로 탄핵 소추하든 해임 의결을 하는 게 맞는다”고 했다. 이어 “국회의원들께서 본회의에서 탄핵 결의를 중지해줄 것을 요청드린다”고 했다.&lt;br&gt;&lt;br&gt;탄핵소추에 공개적으로 반대 입장을 낸 검사들을 감찰해야 한다는 민주당 주장에 대해서는 “검사들이 위법·부당한 탄핵소추에 자기 의견을 내는 것은 표현의 자유”라면서 “감사원 감사 대상 또는 법무부 감찰 대상이 되지 않는다”고 했다.&lt;br&gt;&lt;br&gt;한편 민주당은 오는 4일 국회 본회의에서 이창수 지검장, 조상원 4차장검사, 최재훈 반부패수사2부장에 대한 탄핵소추안을 표결에 붙일 예정이다. 민주당은 이 지검장 등이 김건희 여사의 도이치모터스 주가조작 연루 의혹을 제대로 수사하지 않고 불기소 처분했다는 입장이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[단독] 檢, '노태우 비자금 300억원' 고발인 이번주도 조사</title>
-      <link>https://www.chosun.com/national/court_law/2024/12/02/BYH7AK64ZVE4RH22AG4IJ63BRA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/02/BYH7AK64ZVE4RH22AG4IJ63BRA/</guid>
-      <dc:creator>유희곤 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 02 Dec 2024 05:27:44 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CQP2DPBMIFPD7FMS3OLLC23QKU.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;지난 10월 25일 서울 중구 웨스틴조선호텔에서 열린 '만화로 읽는 인물이야기 대통령 노태우' 출판 축하연 행사장 입구에 책이 놓여 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰이 노태우 전 대통령의 ‘비자금 300억원’과 관련해 이번주에도 고발인 조사를 하며 수사에 속도를 내고 있다.&lt;br&gt;&lt;br&gt;2일 본지 취재를 종합하면, 서울중앙지검 범죄수익환수부(부장 유민종)는 오는 5일 이희규 특권폐지국민운동본부 대표(헌정회 미래전략특별위원회 위원장)를 고발인 신분으로 불러 조사할 예정이다. &lt;br&gt;&lt;br&gt;이 대표는 지난 9월 19일 서울중앙지검에 노 전 대통령 배우자 김옥숙 여사와 자녀인 노재헌 동아시아문화센터 원장‧노소영 아트센터 나비 관장, 노 전 대통령 동생 노재우씨, 최태원 SK그룹 회장, 청와대 이병기 전 의전비서관‧최석립 전 경호실장‧정해창 전 대통령비서실장 등을 범죄수익은닉 및 조세포탈 혐의로 고발했다.&lt;br&gt;&lt;br&gt;고발의 근거는 노 전 관장과 최 회장간 이혼소송에서 나온 ‘김옥숙 메모’였다. 노 전 관장은 2심에서 노 전 대통령 일가가 SK의 성장에 실질적 도움을 줬다고 주장하며 김 여사가 20여 년 전에 작성한 메모 2장과 선경건설이 발행한 50억원짜리 약속어음 6장을 제출했다.&lt;br&gt;&lt;br&gt;한 메모에는 ‘1998.4.1. 현재 최(최석립) 실장 2억, 노재우 251억+90억, 선경 300억, 최 상무 32억, 정해창 30억, 이병기 52억. 총 맡긴 돈 667억+90억’이 적혀 있었다, 또 다른 메모에는 ‘1999.2.12. 현재 노 회장 150억, 신(신명수 신동방그룹) 회장 100억, 선경 300억, 이병기 52억, 최서방(최태원) 32억, 정실장(정해창) 30억, 최석립 2억. 총 686억’이 쓰여 있었다. 재판부는 해당 메모를 증거로 인정해 “300억원이 SK 성장에 쓰였다”고 판단하며 최 회장에게 재산분할로 1조3808억원을 노 관장에게 지급하라고 선고했다.&lt;br&gt;&lt;br&gt;이 대표는 “부정 축재와 은닉 자금을 환수해 국민에게 돌려줘야 한다는 취지로 고발장을 제출했다”고 했다.&lt;br&gt;&lt;br&gt;검찰은 지난달 26일에도 비슷한 취지로 노 전 대통령 비자금 의혹을 고발했던 5‧18기념재단 관계자를 불러 조사했다. 재단은 노 전 대통령 일가가 은닉한 비자금이 1266억원대로 추정된다며 김 여사와 노 관장 등을 범죄수익은닉규제법 위반 등의 혐의로 지난 10월 14일 고발했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>제시, ‘팬 폭행 방관’ 무혐의 한달만 올린 글… “인생은 롤러코스터” </title>
-      <link>https://www.chosun.com/national/national_general/2024/12/02/I5VNPVOGM5APTNROPXZXONSWFE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/02/I5VNPVOGM5APTNROPXZXONSWFE/</guid>
-      <dc:creator>박선민 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 02 Dec 2024 05:09:31 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CSK2MLN2YJFXFFJIZVG4M6BEVU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;가수 제시(흰색 상의) 일행이 사진을 요청한 팬을 무차별 폭행하고 있다. /뉴스1·JTBC&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;사진 촬영을 요청한 팬이 일행에게 폭행당한 사건에 연루된 한국계 미국인 가수 제시가 경찰로부터 무혐의 처분을 받은 지 약 한달만에 심경 글을 올렸다.&lt;br&gt;&lt;br&gt;제시는 1일 인스타그램에 영문으로 올린 글에서 팬들을 향해 “믿기지 않지만 벌써 (데뷔한 지) 19년이 됐다”며 “제 커리어의 높은 순간과 낮은 순간들 속에서도 변함없이 저를 믿어주시고 응원해 주신 여러분은 저에게 모든 것을 의미한다. 여러분 없이는 지금의 제가 없었을 것”이라고 했다.&lt;br&gt;&lt;br&gt;이어 제시는 “인생은 여정이고, 그 속에는 정상도 있고 골짜기도 있다”며 “항상 일정하고 예측 가능한 길이 아닌, 롤러코스터 같은 길을 저희는 함께 걸어왔다”고 했다. 그러면서 “어린 소녀로서 혼자 한국에 와서 이 여정을 시작했던 저는 이제 이 업계에서 성장한 여성이 됐다. 이 과정에서 많은 도전을 겪었고, 그 누구도 제 마음과 고난을 저만큼 잘 알지는 못한다는 것을 배웠다”고 했다.&lt;br&gt;&lt;br&gt;끝으로 “모든 순간 속에서 여러분의 믿음은 제게 가장 큰 힘이 됐다”며 “여러분도 꿈을 향해 두려움 없이 나아가고 절대 포기하지 않기를 바란다”고 했다.&lt;br&gt;&lt;br&gt;앞서 제시는 지난 9월 29일 자신의 일행이 팬을 폭행하는데도 이를 방관했다는 논란에 휩싸였다. 언론을 통해 공개된 당시 상황이 담긴 방범카메라 영상에는 제시가 팬을 폭행하는 일행을 두고 현장을 떠나는 모습이 담겼다. 사건이 공론화되자 제시가 직접 인스타그램을 통해 “(가해자는) 그날 처음 본 사람”이라고 해명했으나, 이후 제시가 이 남성 어깨 위에 손을 올리는 등 스킨십을 나누는 모습이 담긴 사진들이 공개돼 또한번 논란이 일었다.&lt;br&gt;&lt;br&gt;이후 제시는 폭행한 일행을 은닉하고 사건 현장을 도주한 혐의로 고발됐다가, 지난달 2일 경찰로부터 무혐의 처분을 받았다. 제시의 일행 중 팬을 위협하고 때린 래퍼는 폭행 혐의로 서울중앙지검에 송치됐고, 함께 팬을 폭행한 뒤 해외로 도피한 외국인 A씨에 대해선 경찰이 체포영장을 발부하고, 인터폴에 수배를 요청한 상태다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>내일 출근길 최저 영하7도…수도권 밤부터 눈·비</title>
