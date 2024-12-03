@@ -13,6 +13,112 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>조선닷컴 접속 폭주로 시스템이 원활하지 못합니다. 독자 여러분께 사과드립니다.  </title>
+      <link>https://www.chosun.com/national/national_general/2024/12/03/SKOITDAAAZAQPLYRGX5KQJLNZU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/03/SKOITDAAAZAQPLYRGX5KQJLNZU/</guid>
+      <dc:creator>최혜승 기자 </dc:creator>
+      <description/>
+      <pubDate>Tue, 03 Dec 2024 14:07:11 +0000</pubDate>
+      <content:encoded>조선닷컴 접속 폭주로 시스템이 원활하지 못합니다. 독자 여러분께 사과드립니다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[속보] 경찰 “비상계엄 사전 공유 받은 바 없어, 회의 소집 중”</title>
+      <link>https://www.chosun.com/national/national_general/2024/12/03/PKVWCIZGXNHVVJCXIDZAIPPVZE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/03/PKVWCIZGXNHVVJCXIDZAIPPVZE/</guid>
+      <dc:creator>구아모 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 03 Dec 2024 14:02:42 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CF3KMLRYWOLJHZKRNSS2ND4CQY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서대문구 경찰청에 게양된 경찰청 깃발이 바람에 펄럭이고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰청 관계자는 3일 윤석열 대통령 비상계엄과 관련 “관련 내용이 공유된 바 없다”고 했다. &lt;br&gt;&lt;br&gt;경찰청은 이날 비상 회의를 소집하고 각 국장 및 직원들을 소집해 비상 사태에 돌입했다. 경찰청 관계자는 “비상계엄 선포 소식에 주요 간부들을 소집해 회의를 연다”고 했따. &lt;br&gt;&lt;br&gt;윤석열 대통령을 이날 심야에 서울 용산 대통령실에서 긴급 담화를 통해 비상계엄을 선포했다. 윤 대통령은 “우리 국민의 자유와 행복을 약탈하고 잇는 파렴치한 종북 반국가세력들을 일거에 척결하고 자유헌정질서를 지키기 위해 비상 계엄을 선포한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[속보] 경찰청, 서울경찰청 비상계엄 선포에 지도부 긴급 소집</title>
+      <link>https://www.chosun.com/national/2024/12/03/B5KV2CPIEVHK3IS6O5JLPQ2FLI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2024/12/03/B5KV2CPIEVHK3IS6O5JLPQ2FLI/</guid>
+      <dc:creator>주형식 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 03 Dec 2024 13:57:54 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KMNOMHBWGUQ3VBIHZVAENECAIQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서대문구 경찰청 본청./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰청은 3일 밤 주요 간부들을 소집해 회의를 열 계획이다. 서울경찰청도 간부들에게 즉시 출근을 통보했다. 경찰청 관계자는 “비상계엄 선포에 서둘러 청으로 복귀하고 있다”고 했다.&lt;br&gt;&lt;br&gt;윤석열 대통령은 이날 심야에 서울 용산 대통령실에서 긴급 담화를 통해 비상계엄을 선포했다.윤 대통령은 “우리 국민의 자유와 행복을 약탈하고 있는 파렴치한 종북 반국가세력들을 일거에 척결하고 자유헌정질서를 지키기 위해 비상계엄을 선포한다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/KMNOMHBWGUQ3VBIHZVAENECAIQ.jpg?width=6420&amp;height=4156&amp;auth=368e979de3622696921faae456217d63a99e41088aab184b63374437a59ba77d&amp;smart=true" type="image/jpeg" height="4156" width="6420">
+        <media:description type="plain">서울 서대문구 경찰청 본청 2020.1.16/뉴스1 ⓒ News1 이동해 기자</media:description>
+        <media:credit role="author" scheme="urn:ebu">뉴스1 ⓒ News1 이동해 기자</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>美서 구매한 19세기 불화 배송 중 사라져… ‘칠성여래도’ 도난 신고</title>
+      <link>https://www.chosun.com/national/national_general/2024/12/03/GRULH4ZXJJFGDP3ZKPBU5DX6DI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/03/GRULH4ZXJJFGDP3ZKPBU5DX6DI/</guid>
+      <dc:creator>최혜승 기자 </dc:creator>
+      <description/>
+      <pubDate>Tue, 03 Dec 2024 13:14:34 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RG2ZG3HVXX6FIPCUGYU5ZC77HU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;도난 신고된 '칠성여래도' 모습./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;19세기 후반 그려진 것으로 추정되는 불화 ‘칠성여래도’가 국내 배송 중 행방이 묘연해졌다.&lt;br&gt;&lt;br&gt;국가유산청은 3일 개인 소장 비지정문화유산 ‘칠성여래도’ 1점(130×80㎝)의 도난 사실을 누리집 ‘도난 국가유산 정보’에 공고하고 전국 경찰청과 함께 추적에 나섰다고 밝혔다.&lt;br&gt;&lt;br&gt;이 작품은 지난 2월 한국인이 미국의 한 온라인 골동품 판매 플랫폼을 통해 구입한 것으로 알려졌다. 지난 4월 국내로 들여왔으나 수개월간 배송을 받지 못하자 관할 지자체에 도난 신고했다.&lt;br&gt;&lt;br&gt;칠성여래도는 인간의 수명과 길흉화복을 관장하는 북두칠성신앙을 불교에서 받아들여 제작된 불화다. 북두칠성을 모신 전각인 칠성각에 봉안된다. 도난 신고가 접수된 불화는 밤하늘을 비추는 북극성과 북두칠성을 부처의 모습으로 표현했다. 19세기 후반 제작된 것으로 추정된다.&lt;br&gt;&lt;br&gt;보통 불화 아랫부분에는 제작자, 제작한 이유, 봉안한 사찰 등의 정보가 기록돼 있다. 이 불화에도 기록이 일부 남아 있으나 봉안 사찰이나 제작자 정보는 확인되지 않았다고 국가유산청은 전했다.&lt;br&gt;&lt;br&gt;국가유산청은 도난·도굴된 국가유산의 회수를 강화하기 위해 제보를 받고 있으며 도난 정보를 제공한 자나 체포에 공로가 있는 자에게 포상금을 지급하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>고법, 연세대 논술 효력 인정... 13일 합격자 발표</title>
+      <link>https://www.chosun.com/national/education/2024/12/03/PARVYUW3WJFFXDMLS5BDCSYHZ4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/education/2024/12/03/PARVYUW3WJFFXDMLS5BDCSYHZ4/</guid>
+      <dc:creator>오주비 기자, 박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 03 Dec 2024 12:15:30 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WYKACON3SZKD5K44AFSK2OTELE.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;지난 1일 서울 서대문구 연세대학교에 추가 논술시험 관련 현수막이 걸려 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2025학년도 수시 논술 전형(자연 계열)에서 시험지 사전 배포 논란을 겪은 연세대에 대해 합격자 발표 등 후속 입시 절차를 중단하라는 법원의 판단이 2심에서 뒤집혔다. 이에 따라 논술 시험의 효력이 인정돼 연세대는 오는 13일 합격자 발표를 그대로 진행할 수 있게 됐다.&lt;br&gt;&lt;br&gt;3일 서울고법 민사25-1부(재판장 이균용)는 연세대가 제기한 논술 시험 효력 정지 가처분 항고를 받아들였다.&lt;br&gt;&lt;br&gt;재판부는 “이 사건 논술 시험 운영 및 감독 과정에서 미흡한 대처가 있었다고 하더라도, 선발 과정에서 공정성을 중대하게 훼손하지 않는 범위 내라면 자율성이 인정돼야 한다”면서 “사립학교의 합격·불합격 판정 또는 입학 자격, 선발 방법 등은 해당 교육 기관이 교육 목적 달성을 위해 인격·자질·학력·지식 등을 종합적으로 고려하여 정할 수 있는 재량 행위”라고 했다. 이어 “논란이 된 고사장에서 외부로 문제가 광범위하게 유출됐다는 수험생 측 소명이 부족하고, 해당 고사장의 평균 점수가 다른 고사장과 크게 차이 나지 않는 점 등을 고려했을 때 논술 시험의 공정성이 중대하게 훼손됐다고 보이지 않는다”고 판단했다.&lt;br&gt;&lt;br&gt;해당 고사장에서 시험지가 감독관 착오로 1시간 일찍 배부됐다가 회수된 건 맞지만, 이로 인해 시험 자체의 공정성이 크게 훼손될 정도는 아니라는 것이다. 그 근거로 재판부는 논란이 된 고사장 수험생들의 평균 점수가 다른 고사장 수험생들의 평균 정도로 유의미한 차이가 나지 않고, 해당 고사장에서 합격권인 수험생이 1명뿐이라는 점을 들었다. 또 소송을 낸 수험생들이 문제가 광범위하게 유출된 근거로 제시한 온라인 커뮤니티 게시글, 익명 대화방 내용, 진술서 등은 게시자나 작성자의 실명이 기재되어 있지 않는 등 진위 확인이 어려워 증거로 인정하기 어렵다고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EUTUA2ZG6NEQPEBCSDFWU47N3A.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=박상훈&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이 사건은 지난 10월 12일 연세대 수시 논술(자연 계열) 시험의 한 고사장에서 시험지가 먼저 배포되는 등 공정성에 문제가 있다며 수험생 등이 소송을 제기하면서 시작됐다. 법원은 지난달 15일 이들이 낸 시험 효력 정지 가처분 신청을 받아들여 오는 13일로 예정된 이 전형 합격자 발표 중지 등을 명령했다. 당시 연세대는 법원의 가처분 신청에 이의 신청을 했지만, 지난달 20일 법원은 “추가 주장을 살펴봤지만 기존 결정이 정당하다”며 이를 기각했다. 연세대는 법원의 이의 신청 기각에 불복하며 서울고법에 즉시항고장을 제출했고, 이날 서울고법이 연세대의 항고를 받아들인 것이다.&lt;br&gt;&lt;br&gt;이날 법원 결정으로 이번 시험에서 심각한 공정성 훼손이 없었다는 입장을 고수해 온 연세대는 한숨을 돌리게 됐다. 연세대는 오는 13일 수시 논술 합격자를 발표할 예정이다. 또 오는 8일 치르기로 한 추가 시험(2차 시험)도 예정대로 실시할 계획이다. 앞서 연세대는 1차 시험 합격자 261명은 그대로 발표하고, 2차 시험을 한 번 더 실시해 최대 261명을 추가로 뽑겠다고 지난달 27일 밝힌 바 있다. 2차 시험 응시 대상은 1차 시험에 응시했던 수험생들이다. 2차 시험 합격자는 수시 모집 절차가 끝나는 오는 26일 이전에 발표할 예정이다.&lt;br&gt;&lt;br&gt;수험생 측 변호사는 “대법원 재항고보다는 본안 소송에 최대한 집중하겠다”는 입장을 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>오세훈, 명태균·강혜경 등 고소... “거짓·왜곡에 인내심 한계”</title>
+      <link>https://www.chosun.com/national/2024/12/03/VAYMWB6KS5CDTO7AAJAAHTQHCM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2024/12/03/VAYMWB6KS5CDTO7AAJAAHTQHCM/</guid>
+      <dc:creator>최연진 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 03 Dec 2024 12:55:47 +0000</pubDate>
+      <content:encoded>오세훈 서울시장이 3일 정치 브로커 명태균씨와 강혜경씨, 김영선 전 국민의힘 전 의원 등에 대한 고소·고발장을 서울중앙지검에 제출했다. 명씨 등이 ‘2021년 서울시장 보궐선거 당시 여론조사로 오 시장에게 도움을 줬다’고 주장하는 것에 대해 “사기·업무방해에 해당한다”며 법적 대응에 나선 것이다. 고소·고발장은 오 시장 개인 명의다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/S3MKYZEX35K67FE6PL2FME37F4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;오세훈 서울시장이 3일 서울 중구 서울시청 브리핑실에서 열린 '명태균 여론조작 사기사건 관련 기자간담회'에 참석하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;고소·고발장에는 명씨와 강씨, 김 전 의원과 더불어민주당 염태영 의원, 서용주 맥 정치사회연구소 소장, 정광섭 뉴스토마토 대표, 김용진 뉴스타파 대표와 관련 의혹을 보도한 기자 5명 등 총 12명이 피고소인·피고발인으로 적시됐다.&lt;br&gt;&lt;br&gt;주요 혐의는 사기 및 사기미수, 업무방해, 정보통신망법상 명예훼손 등이다. 오 시장은 뉴스타파 등 매체와 기자들의 경우 출판물 등에 의한 명예훼손죄를 물어야 한다고 했다.&lt;br&gt;&lt;br&gt;오 시장은 “여론조작 사기, 가짜뉴스 유포, 정당 선거 업무방해 등 각종 불법을 근절시키고 엄중한 처벌을 구하고자 한다”며 “검찰은 좌고우면하지 말고 신속하고 엄정한 수사로써 진실을 규명해주기를 바란다”고 했다.&lt;br&gt;&lt;br&gt;앞서 오 시장은 이날 오전 서울시청에서 긴급 브리핑을 열고 “단호히 법적 대응을 시작하겠다”고 했다.&lt;br&gt;&lt;br&gt;오 시장은 “사안의 본질은 명씨 등 사기 집단이 오세훈 캠프에 여론조사를 미끼로 하는 사기의 범의를 가지고 접근했지만 캠프에서 단호히 물리치고 정도를 걸은 것”이라며 “오히려 저희 캠프는 명태균과 같은 불법적 시도를 단호히 물리친 모범 사례로 평가받아야 한다”고 했다.&lt;br&gt;&lt;br&gt;오 시장은 명씨 등에게 사기죄, 업무방해죄, 허위사실적시 명예훼손죄 등을 묻겠다며 “갈수록 거짓말이 거짓말을 낳고 왜곡을 낳아서 이제 더 이상 제 인내심이 허용하지 않는 지경에까지 이르게 됐다”고 고소·고발 배경을 설명했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[단독] ‘의사 블랙리스트’ 만들어 유포한 전공의 또 구속</title>
+      <link>https://www.chosun.com/national/court_law/2024/12/03/YWNUECNADZHALJAHVYSLQFACWU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/03/YWNUECNADZHALJAHVYSLQFACWU/</guid>
+      <dc:creator>이슬비 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 03 Dec 2024 12:59:31 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/U57P5L6FSFKOXBWX3T42XOHPBU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 1일 서울 한 대학병원 응급실 모습. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;의료계 집단행동에 동참하지 않고 복직한 의사들의 명단이 적힌 이른바 ‘의료계 블랙리스트’를 작성한 혐의를 받는 사직 전공의 류모(31)씨가 3일 구속됐다. 앞서 지난 9월 ‘의료계 블랙리스트’를 작성한 사직 전공의 정모씨가 구속된 데 이어 두 번째다.&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 서울중앙지검 공공수사 3부(부장 김태훈)는 지난 28일 류씨에 대해 스토킹처벌법 위반, 정보통신망법 위반, 명예훼손 등의 혐의를 적용해 구속영장을 청구했고 이날 영장이 발부됐다.&lt;br&gt;&lt;br&gt;류씨는 의료계 집단 파업에 동참하지 않고 수업에 들어가거나 의료 현장을 지킨 의대생과 의사들의 명단을 아카이브 등의 해외사이트에 올린 혐의를 받는다. 류씨는 피해자 2958명의 이름과 소속 병원, 진료과목, 대학 등의 정보를 21차례 게시했다. 류씨는 피해자를 조롱하는 인신공격성 글도 올린 것으로 알려졌다.&lt;br&gt;&lt;br&gt;류씨는 영장실질심사에서 “명단만 넘겼을 뿐 온라인에 글을 올린 적이 없다”고 범행을 부인한 것으로 전해졌다. 이에 검찰은 류씨가 직접 블랙리스트를 작성했다는 증거 등을 제시하며 구속의 필요성을 강조한 것으로 알려졌다. 법원은 “증거 인멸의 우려가 있다”며 영장을 발부했다. 이 사건은 지난 8월 보건복지부의 수사 의뢰로 시작됐다. &lt;br&gt;&lt;br&gt;앞서 검찰은 ‘의료계 블랙리스트’ 명단을 작성해 의사 전용 커뮤니티인 ‘메디스태프’ 등에 유포한 사직 전공의 정씨도 구속기소했다. 정씨는 의료계 집단행동에 동참하지 않은 전공의·전임의·의대생 등 1100여명을 ‘감사한 의사’라고 비꼬며 이들의 이름과 소속 병원, 진료과목, 대학, 성명 등을 온라인에 배포했다.&lt;br&gt;&lt;br&gt;‘의료계 블랙리스트’가 배포되면서 온라인에는 “동료 등에 칼 꽂고 신나냐” “인성 쓰레기” “불륜녀” 등의 인신공격성 글이 다수 올라와있다. 이 블랙리스트는 접속 주소만 알면 누구나 열람할 수 있는 사실상 공개 자료다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>충북 보은 한우농가서 럼피스킨 발병...전국 22번째</title>
+      <link>https://www.chosun.com/national/incident/2024/12/03/PYKVH3VVJ5CKFFKWZLZYNNTWMI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/12/03/PYKVH3VVJ5CKFFKWZLZYNNTWMI/</guid>
+      <dc:creator>이승규 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 03 Dec 2024 13:06:53 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SHVJXRANYRMRTGYCNUEC3YV4VE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 9월 20일 럼피스킨 발병이 확인된 충북 충주시 금가면 축사 입구에서 방역 당국이 출입통제 시설물을 설치하고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;충북 보은군의 한우농가에서 소 바이러스성 질병인 럼피스킨이 발생했다. 전국에선 22번째 발병 사례이며 충북도에선 3번째다.&lt;br&gt;&lt;br&gt;3일 충북도에 따르면 보은군 산외면의 한 한우농가에서 키우던 소 41마리 중 3마리가 럼피스킨 양성 판정을 받았다. 럼피스킨은 모기나 파리 등 피를 빨아들이는 곤충으로 인해 전파되며 소가 감염될 경우 고열과 함께 혹이 생긴다. 불임이나 유산 등 번식에 문제가 생길 수 있고 심할 경우 폐사할 수 있다.&lt;br&gt;&lt;br&gt;도는 해당 농가에 방역반을 투입해 외부인과 가축 및 차량 출입을 통제했다. 또 럼피스킨 발생 농가에서 반경 5km를 방역 구역으로 정하고 구역 내 79개 농가에 대해 4주간 주 1회씩 검사를 진행할 방침이다.&lt;br&gt;&lt;br&gt;충북도 관계자는 “농장에서 의심증상 발견 시 신속하게 신고해달라”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>'아들 채용비리' 혐의 김세환 전 선관위 사무총장 기소</title>
+      <link>https://www.chosun.com/national/court_law/2024/12/03/QVEJ4G4FUZDP5NORBGBDE2NELI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/03/QVEJ4G4FUZDP5NORBGBDE2NELI/</guid>
+      <dc:creator>유희곤 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 03 Dec 2024 12:42:50 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2K534L6XFHLSKZA4SHI4AMJ2SM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김세환 전 중앙선거관리위원회 사무총장이 지난 11월 22일 서울 서초구 서울중앙지법에서 열린 구속 전 피의자 심문(영장실질심사)을 받기 위해 출석하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지검 공공수사1부(부장 이찬규)는 김세환(60) 전 중앙선거관리위원회 사무총장(장관급)을 직권남용권리행사 방해와 국가공무원법 위반 혐의로 불구속 기소했다고 3일 밝혔다.&lt;br&gt;&lt;br&gt;검찰에 따르면 김 전 사무총장은 인천 강화군 소속 공무원이었던 아들 김모씨를 선관위에 채용하기 위해 2019년 11월부터 12월까지 자신과 친분이 두터운 인사를 면접위원에 앉히고 부당한 영향력을 행사한 혐의를 받고 있다. 당시 김 전 사무총장은 차관급인 중앙선관위 사무차장이었다. 김씨는 이듬해 1월 8급 경력직으로 강화군선관위에 채용됐다.&lt;br&gt;&lt;br&gt;김 전 사무총장은 김씨가 1년 만에 상급기관인 인천시선관위로 전입하게 하려고 2020년 11월부터 12월까지 관련 규정을 바꾼 혐의도 있다. 김씨는 최소 3년동안 강화군선관위에서 일해야 인천시선관위로 옮길 수 있었지만, 김 전 사무총장은 담당 직원에게 관련 요건을 ‘1년 이상’으로 낮추도록 했다. 김씨는 자리를 옮긴 이후 법령에 맞지 않게 관사까지 사용할 수 있었다. &lt;br&gt;&lt;br&gt;검찰은 지난 4월 감사원의 김 전 사무총장 등에 대한 수사요청서를 접수했다. 6월부터 9월까지 김 전 총장의 주거지와 사무실 등을 압수수색했고, 8월부터 11월까지 참고인과 피의자 조사도 했다. 지난달 20일 김씨의 사전구속영장을 청구했지만 김석범 서울중앙지법 영장전담 부장판사는 “사안이 중하지만 증거인멸 가능성이나 도망의 염려가 있다고 단정하기 어렵다”며 지난달 22일 구속영장을 기각했다.&lt;br&gt;&lt;br&gt;서울중앙지검은 “김 전 사무총장은 공무원직 세습과 아들의 경력 관리 등을 위해 헌법기관인 선관위 인사제도와 국유재산 관리 권한을 사유화했다”면서 “공소유지에 만전을 기하는 한편, 감사원의 다른 수사요청 사건도 실체 규명을 위해 최선을 다하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>송파구, ‘가락동 현대아파트 현장 붕괴’ 관련, 포스코이앤씨 현장소장 고발</title>
+      <link>https://www.chosun.com/national/national_general/2024/12/03/G6XGFJV25BHYBLH5RPZZBNB6ZM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/03/G6XGFJV25BHYBLH5RPZZBNB6ZM/</guid>
+      <dc:creator>김병권 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 03 Dec 2024 11:38:49 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4RUPSXL74HNYG33BK7YPFCEIWM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 송파구청 전경/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난달 27일 내린 폭설로 포스코이앤씨가 시공하는 서울 송파구 가락동의 가락현대5차아파트 재건축 공사장 보행로 지붕이 무너져 3명이 부상당한 사고와 관련해 이 공사장의 포스코이앤씨 소속 현장소장과 감리단장이 경찰에 고발당했다.&lt;br&gt;&lt;br&gt;서울 송파구는 지난달 29일 이들을 건설기술진흥법 위반 혐의로 경찰에 고발했다고 3일 밝혔다. 송파구는 사고 당일에 낙하물 방지망 정비 및 공사중지·긴급안전조치 명령도 내렸다.&lt;br&gt;&lt;br&gt;이 사건을 수사 중인 서울 송파경찰서는 사고 경위를 포함해 안전 관리 소홀로 인해 사고가 났을 가능성도 들여다보고 있다. 현장 관계자들을 불러 조사하는 등 정확한 사고 원인을 조사 중인 경찰은 사고 당일 오전 폭설 경보가 내렸는데도 현장 책임자들이 상황에 맞는 적절한 사전 조처를 했는지 등도 살필 예정이다.&lt;br&gt;&lt;br&gt;지난달 27일 서울 전역에 내린 폭설로 이 재건축 공사장 주변에 설치한 보행로 지붕이 오후 3시 6분쯤 눈의 무게를 이기지 못하고 무너졌고, 이로 인해 지나가던 행인 3명이 지붕에 깔리는 사고가 발생했다. 부상자 중에는 하청업체 직원 A씨도 포함됐다고 한다. A씨는 현재 위독한 상황인 것으로 전해졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/4RUPSXL74HNYG33BK7YPFCEIWM.jpg?width=4896&amp;height=3264&amp;auth=ad687172e309a0fd54e49eb44479fa49344832cb24ec08203424b71e5a4562bf&amp;smart=true" type="image/jpeg" height="3264" width="4896">
+        <media:description type="plain">송파구청 전경. @News1</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>정부 “남성 육아휴직 사용률 2030년 70%로 올릴 것”</title>
+      <link>https://www.chosun.com/national/welfare-medical/2024/12/03/DCRYPFDRZJETPLDMEJ6X3WBJ2I/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/12/03/DCRYPFDRZJETPLDMEJ6X3WBJ2I/</guid>
+      <dc:creator>오유진 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 03 Dec 2024 11:50:14 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NOUCD5GQPRGI7HKKXXQQOLDFLQ.png"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=박상훈&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정부가 2022년 기준 6.8%인 남성 육아휴직 사용률을 2030년 70%까지 높이겠다는 목표를 세웠다. 또 현재 22.3%인 30~40대 경력단절 여성 비율은 10%까지 낮추겠다고 했다.&lt;br&gt;&lt;br&gt;저출산고령사회위원회(저출산위)는 3일 제6차 인구 비상 대책 회의를 열고 이런 목표를 발표했다.&lt;br&gt;&lt;br&gt;저출산위는 올해 6월 발표한 저출생 대책 151개의 성과 지표와 연도별 목표를 설정해 매년 달성 여부를 평가할 계획이라고 밝혔다. 구체적으로 남성 육아휴직 사용률을 2027년 50%, 2030년 70%까지 높이겠다고 했다. 30~44세 직장 여성 가운데 임신·출산 등으로 일을 그만두는 비율은 2027년 15%, 2030년 10%로 떨어뜨리겠다고 했다. 여성 육아휴직(2022년 70%)도 2027년 80%, 2030년 85%로 늘리는 등 일·가정 양립을 통해 ‘2030년 합계출산율 1.0명 이상’을 달성한다는 계획이다.&lt;br&gt;&lt;br&gt;이날 저출산위는 출산 가구에 대한 각종 지원도 확대하기로 했다. 내년부터는 이른둥이 가정의 ‘산모·신생아 건강관리 지원 사업’ 소득 기준을 폐지하고 서비스 이용 기간도 늘린다. 기존엔 생계·의료·주거·교육급여 수급자 또는 차상위 계층 등으로 제한됐는데, 앞으로는 소득 수준과 관계없이 건강관리사로부터 산모 건강 회복과 신생아 양육 지원 서비스를 받을 수 있게 된 것이다. 또 내년 3월부터는 뇌 손상 검사 등이 어려운 고위험 이른둥이 가정이 의사 소견서만 제출해도 발달 재활 서비스 바우처를 받을 수 있다. 기존에는 전문의가 작성한 서비스 의뢰서와 검사 자료까지 제출해야 했다.&lt;br&gt;&lt;br&gt;정부는 이 밖에 ‘다자녀 가구 공항주차장 주차 요금 할인’ 적용 대상도 확대한다. 지금까지는 막내 나이가 만 15세 이하인 두 자녀 이상 가족에 대해 주차 요금을 50% 감면했다. 그런데 이달부터 막내 나이 기준을 ‘만 18세 이하’로 완화한다. 정부는 주차요금 감면 혜택을 받는 가구가 20% 증가할 것으로 내다봤다.&lt;br&gt;&lt;br&gt;임산부와 다자녀 가구 등이 입국 수하물을 집·호텔까지 배송해주는 서비스를 이용하는 데 드는 요금도 내년부터 낮아진다. 서울은 2만9700원에서 2만3760원으로, 부산과 제주는 3만9000원에서 3만1680원으로 내려간다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>제주서 렌터카·트럭 충돌사고… 4명 사망·4명 부상 </title>
       <link>https://www.chosun.com/national/regional/2024/12/03/PUKJDJEWJJAYRJN26FBSKAU3XA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/12/03/PUKJDJEWJJAYRJN26FBSKAU3XA/</guid>
@@ -832,36 +938,6 @@
       </media:content>
     </item>
     <item>
-      <title>‘고려거란전쟁’ 배우 박민재, 중국서 돌연 심정지로 사망</title>
-      <link>https://www.chosun.com/national/national_general/2024/12/02/IGODK3O62ZFDTGQHIFYL2DN2NM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/02/IGODK3O62ZFDTGQHIFYL2DN2NM/</guid>
-      <dc:creator>문지연 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 02 Dec 2024 14:55:40 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/44JSWB743VAFNNTKPWL5POBPOU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;배우 박민재. /빅타이틀 인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;배우 박민재가 32세 이른 나이로 세상을 떠났다.&lt;br&gt;&lt;br&gt;2일 연예계에 따르면 박민재는 지난달 29일 중국 여행 중 갑작스러운 심정지로 사망했다. 한 관계자는 뉴스1에 “평소 지병은 없었던 것으로 알고 있다”며 “건강한 친구였다”고 전했다. 박민재는 사망 이틀 전인 지난달 27일에도 인스타그램에 일상 사진을 남긴 것으로 알려져 안타까움을 더하고 있다.&lt;br&gt;&lt;br&gt;소속사 빅타이틀은 이날 공식 인스타그램을 통해 “연기를 사랑하고 늘 자신에게 최선이었던 아름다운 연기자 박민재가 하늘나라로 가게 됐다”며 “박민재 배우에게 쏟아준 애정과 관심 정말 감사드린다. 이젠 그의 연기를 볼 수 없지만 그를 자랑하며 기억하겠다”고 했다.&lt;br&gt;&lt;br&gt;빅타이틀 황주혜 대표도 개인 인스타그램에 글을 써 “중국 제패하겠다며 한 달간의 여행을 다녀오겠다던 녀석이 아주 긴 여행을 떠나게 됐다. 너무 황망하고 어이없게”라며 “민재야 짧은 시간이었지만 너의 대표여서 감사했고 또 미안하다”고 고인을 추모했다.&lt;br&gt;&lt;br&gt;고인의 인스타그램 계정엔 친동생의 글이 올라왔다. 그는 “사랑하는 저희 형이 푹 쉬러 떠났다. 최대한 많은 분이 형을 보고 가주셨으면 좋겠다. 일일이 연락드리지 못함을 널리 혜량해 주시길 바란다”며 형의 부고를 알렸다.&lt;br&gt;&lt;br&gt;빈소는 이대서울병원장례식장 9호실에 마련됐다. 발인은 4일 오전 9시30분이며 장지는 미정이다.&lt;br&gt;&lt;br&gt;2021년 연예계 활동을 시작한 박민재는 드라마 ‘미스터LEE’ ‘내일’ ‘작은 아씨들’ ‘법쩐’ ‘더 패뷸러스’ ‘사랑이라 말해요’ ‘보라! 데보라’ ‘고려거란전쟁’ ‘손가락만 까딱하면’ 등에 출연했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>처음 본 남성 살해, 시신 지문으로 6000만원 앱 대출</title>
-      <link>https://www.chosun.com/national/incident/2024/12/02/FD3VHW5UXZC3VF7FYHXPJFGMMA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/12/02/FD3VHW5UXZC3VF7FYHXPJFGMMA/</guid>
-      <dc:creator>이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 02 Dec 2024 13:35:58 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/54FTUISTLZDHJELX6W5GW5V5XU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;처음 본 남성을 살해한 뒤, 시신 지문을 이용해 6000만원을 대출 받은 30대 남성이 구속된 상태로 검찰에 넘겨졌다.&lt;br&gt;&lt;br&gt;경북 김천경찰서는 강도살인 등 혐의로 30대 남성 A씨를 구속해 검찰에 송치했다고 2일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 12일 경북 김천시 율곡동의 한 오피스텔에서 30대 남성 B씨에게 흉기를 휘둘러 살해한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;A씨는 숨진 B씨의 지문을 이용해 휴대전화 애플리케이션으로 6000만원을 대출 받고, B씨 신용카드를 편의점과 병원, 숙박업소 등에서 사용한 혐의도 받는다.&lt;br&gt;&lt;br&gt;A씨는 숨진 B씨 휴대전화로 “집에 없다” “통영으로 간다”는 등의 메시지를 B씨 가족에게 보내는 등 B씨인 척하기도 한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;A씨는 오피스텔 현관문 앞에 앉아 있다가 ‘왜 집 앞에 있느냐’고 묻는 B씨와 다투다 B씨 집까지 들어가 범행한 것으로 파악됐다. A씨와 B씨는 전혀 모르는 사이였다.&lt;br&gt;&lt;br&gt;수사에 나선 경찰은 김천지역 모텔 등에서 숨어 지내던 A씨를 김천의 한 상가건물 주차장에서 체포했다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “A씨는 우발적이었다고 진술하나, 범행 전 오피스텔 주변을 배회하면서 범행 대상을 물색하는 등 미리 범행을 계획한 것으로 보고 있다”며 “범행에 쓰인 흉기도 미리 준비해 놓고 있었다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>교과서에 들어온 AI... 영어 발음 교정·문법까지 ‘1대1 교육’</title>
-      <link>https://www.chosun.com/national/education/2024/12/02/PSIKE6DOQVDODAOWCIEF4SRRNM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2024/12/02/PSIKE6DOQVDODAOWCIEF4SRRNM/</guid>
-      <dc:creator>오주비 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 02 Dec 2024 11:45:57 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/S75GQZXFK5C6HMFLVBXSTZ2ZSQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2일 교육부 정부세종청사에서 ‘인공지능(AI) 디지털 교과서’ 시연 행사가 열렸다. 중등 영어 과목 교과서를 개발한 발행사 관계자가 주요 기능들을 설명하고 있다. 교육부 측은 “AI 교과서는 그간 수업에서 소외됐던 학생들에게도 맞춤 교육을 제공할 수 있기 때문에 교육 격차 해소에 큰 역할을 할 것”이라고 밝혔다. /신현종 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘I’m practicing my dance moves’(아임 프랙티싱 마이 댄스 무브즈)&lt;br&gt;&lt;br&gt;대형 모니터에 영어 문장과 ‘음성을 들은 후, 마이크를 누르고 따라 말해 보세요’라는 안내문이 떴다. 문장을 읽고 결과 보기 버튼을 누르자 원어민 발음·억양과 비교해 얼마나 정확한지 분석된 내용이 화면에 그래프와 숫자로 1초 만에 떴다.&lt;br&gt;&lt;br&gt;2일 교육부가 정부세종청사에서 내년 3월 학교 현장에 도입하는 ‘인공지능(AI) 디지털 교과서’를 언론에 공개하고 시연 행사를 했다. 세계 최초로 공교육에서 모든 학생이 사용하는 AI 교과서가 베일을 벗은 것이다. 내년부터 각 학교에선 초3·4학년 수학·영어, 중1·고1 수학·영어·정보 과목의 AI 교과서 76종 가운데 원하는 걸 골라 종이 교과서와 함께 가르친다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/37DA26UYLFA63LR2TLOXZSDCYE.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=양인성&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 시연은 초4·중1 영어 교과서 2종으로 진행했다. 발음 교정부터 문법 교정까지 AI 교과서가 학생별 수준과 진도에 맞춰 ‘맞춤형 교육’을 하는 다양한 기능이 중점적으로 소개됐다.&lt;br&gt;&lt;br&gt;발행사 관계자는 “종전 수업에선 교사가 학생들의 잘못된 발음을 일일이 지도하기 어려웠는데, AI 교과서는 이를 바로 도와줄 수 있다”며 “영어에 자신 없는 학생들은 발음이 잘못됐을까 봐 위축되는데, AI 음성 평가로 개별 지도를 받고 보충할 수 있게 돼 효과가 크다”고 말했다.&lt;br&gt;&lt;br&gt;교사들은 AI 교과서로 개별 학생 수준을 한눈에 파악할 수 있다. 예컨대, 평가 문제를 풀자 자동으로 채점이 완료됐고, 각 학생의 정답률과 전체 정답률 평균 등을 거의 실시간으로 받아볼 수 있었다. 학생도 정답률과 문제 푸는 데 걸린 시간, 부족한 영역에 대한 평가 등을 바로 확인할 수 있다. 예를 들어 AI 교과서가 “학생은 듣기와 말하기는 잘하는데 문법이 부족해요. 문법 추천 강의를 들어볼까요?”라고 제시한다. 교육부 측은 “교사가 학생들이 수업을 잘 따라오고 있는지 실시간으로 파악해서 설명이 필요한 부분은 더 해줄 수 있는 장점이 있다”고 말했다.&lt;br&gt;&lt;br&gt;이날 공개된 AI 교과서에는 ‘AI 챗봇’ 기능도 있다. 발행사 직원이 AI 챗봇에 “현재진행형이 뭐야”라고 물었더니 곧장 “현재진행형 형태는 ‘be동사의 현재형(am, are, is)+동사ing’이며, 지금 하고 있는 일을 표현합니다”라는 설명과 두 예문이 제공됐다. 이를 통해 작문을 완성하는 과정이 교사용 화면에서 실시간으로 확인됐다. ‘AI 챗봇’은 교과서에 있는 내용만 답할 수 있기 때문에 챗봇이 학생들과 부적절한 대화를 주고받을 가능성은 낮다고 한다. 만약 교과서 내용과 관계없는 질문을 하면 ‘교육과정 내에 있는 질문이 아닙니다’ ‘수업과 관련 있는 질문만 해주세요’라는 문구가 뜬다.&lt;br&gt;&lt;br&gt;학부모들은 AI 교과서가 도입되면 학생들이 게임이나 소셜미디어 등 ‘딴짓’을 하리라는 걱정을 가장 많이 한다. 이를 해결하기 위해 AI 교과서는 대부분 ‘딴짓 예방 기능’을 넣었다. 예컨대 학생들의 교과서 화면은 기본적으로 ‘잠금’으로 걸려 있고, 교사가 ‘해제’ 버튼을 눌렀을 때 화면이 활성화되어 사용할 수 있게 했다. 이날 시연 행사를 한 초등 영어 발행사 관계자는 “교사가 설명할 때 학생들이 교과서를 혼자 사용한다고 정신이 팔리면 안 되기 때문에 ‘잠금’ ‘해제’ 기능을 넣어 교사가 충분히 학생들의 딴짓을 제어할 수 있도록 했다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/S75GQZXFK5C6HMFLVBXSTZ2ZSQ.jpg?width=4986&amp;height=3006&amp;auth=1c2cf9590e5726e73a5b149381ca95d46098cc2f0e1f46f70fe52283e66ed879&amp;smart=true" type="image/jpeg" height="3006" width="4986">
-        <media:description type="plain">2일 교육부 정부세종청사에서 ‘인공지능(AI) 디지털 교과서’ 시연 행사가 열렸다. 중등 영어 과목 교과서를 개발한 발행사 관계자가 주요 기능들을 설명하고 있다. 교육부 측은 “AI 교과서는 그간 수업에서 소외됐던 학생들에게도 맞춤 교육을 제공할 수 있기 때문에 교육 격차 해소에 큰 역할을 할 것”이라고 밝혔다. /신현종 기자</media:description>
-      </media:content>
-    </item>
-    <item>
       <title>경북도, 올해 어려운 이웃 위해 176억 모금 시작</title>
       <link>https://www.chosun.com/national/national_general/2024/12/02/ML2PZWZKPVHHVGFN45FAEWFSMM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/02/ML2PZWZKPVHHVGFN45FAEWFSMM/</guid>
@@ -878,85 +954,6 @@
       <description/>
       <pubDate>Mon, 02 Dec 2024 03:25:27 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IE2B4CJBNC5YPM27IYKVYDEG4Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 종로구 세종대로에서 시민들이 두꺼운 외투를 입고 걸어가고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2일 밤부터 북쪽에서 찬 공기가 내려오며 3일 중부지방을 중심으로 영하권의 출근길을 맞을 전망이다. 기온이 전날보다 10도 내외로 급격히 떨어지며 한파(寒波)가 찾아오겠다.&lt;br&gt;&lt;br&gt;기상청에 따르면, 우리나라에 찬 바람을 몰고오는 중국 쪽 대륙고기압이 확장하며 3일 아침 중부지방의 수은주가 뚝 떨어지겠다. 3일 아침 최저기온은 영하 7도에서 영상 5도, 낮 최고기온은 2~12도로 예보됐다. 바람이 강하게 불면서 체감온도는 실제 예보된 기온보다 3~4도 가량 낮겠다.&lt;br&gt;&lt;br&gt;수도권과 충청·전북에는 3일 밤부터 약한 비나 눈이 내리겠다. 서울에도 0.1㎜ 미만의 빗방울이 떨어지거나 눈이 날리는 곳이 있겠다. 예상 강수량은 5㎜ 내외, 예상 적설량은 0.1㎝ 내외다.&lt;br&gt;&lt;br&gt;추위는 4일에도 이어져 아침 최저 영하 6도에서 영상 3도, 낮 최고 3~11도의 기온 분포를 보이겠다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“동료 등에 칼 꽂고 신나?” 의사 커뮤니티서 부모 욕까지…</title>
-      <link>https://www.chosun.com/national/national_general/2024/12/02/YZCWGECZGBCSXFKYSUQ44F27QQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/02/YZCWGECZGBCSXFKYSUQ44F27QQ/</guid>
-      <dc:creator>김명일 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 02 Dec 2024 03:15:24 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FMCF2WE2Y5FZJDWAMEY7XTMKZ4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;A씨가 공개한 익명 의사 커뮤니티 글. /블로그&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울의 한 병원에서 근무하는 의사가 의료계 집단행동에 동참하지 않았다는 이유로 동료 의사들에게 온라인상에서 집단 괴롭힘을 당하고 있다는 주장이 나왔다.&lt;br&gt;&lt;br&gt;네티즌 A씨는 지난 1일 블로그와 온라인 커뮤니티 등을 통해 자신이 한 대학병원 예비전공의였으며, 현재 서울의 한 병원에서 일반의로 근무하고 있다고 주장했다.&lt;br&gt;&lt;br&gt;A씨는 “저는 특정 익명 의사 커뮤니티에서 몇주간 지속적으로 실명을 포함한 신상정보 공개, 허위사실을 포함한 명예훼손, 협박, 각종 모욕과 욕설을 포함하는 극단적인 집단린치를 당하고 있어 이를 폭로하고 도움을 구하고자 글을 쓰게 되었다”며 “저를 괴롭히는 이유는 커뮤니티의 기준에 맞지 않는 근무지에서 근무하고 있다는 것, 단 하나뿐”이라고 주장했다.&lt;br&gt;&lt;br&gt;A씨가 공개한 커뮤니티 캡처 사진에는 ‘동료 등에 칼을 꽂고 신나?’, ‘선배들을 다 죽이고 그 원한을 그대로 가져갈텐데 멀쩡하게 수련받을 수 있겠나’ 등 A씨를 ‘부역자’라고 비난하는 내용이 쓰여 있었다. 심지어 A씨의 부모를 욕하는 댓글도 있었다.&lt;br&gt;&lt;br&gt;또 일부 네티즌은 익명 커뮤니티라는 점을 악용해 커뮤니티 내에서 A씨 행세를 하며 다른 네티즌들을 자극하기도 했다.&lt;br&gt;&lt;br&gt;A씨는 “의대 정원 증원에 반발하며 전공의들이 집단사직한 이후 수련을 지속하려는 사람들에 대한 강한 비난 여론이 형성되었다”며 “저도 이 사실을 알고 있긴 했지만, 경제적으로 선택지가 없어져 근무를 시작한 것”이라고 설명했다.&lt;br&gt;&lt;br&gt;A씨는 “(의·정 갈등이 불거진 후 면접을 보게 됐는데) 병원 면접관께서 ‘이전 근무자들이 협박 전화를 받고 일을 그만두었는데 괜찮겠냐’고 물었다”며 “당시에는 심각하게 생각하지 않았다”고 했다.&lt;br&gt;&lt;br&gt;A씨는 “필요에 의해 직장을 구했고, 누군가한테 피해를 주려던 것도 아닌데 갑자기 수백 명이 조롱하고 비난하는 게 이해가 가질 않는다”며 “비난과 허위사실의 정도가 갈수록 심해지고 있어 가만히 있을 수 없었다”고 했다.&lt;br&gt;&lt;br&gt;한편 의정 갈등이 이어지고 있는 가운데 지난 9월에는 의료계 집단행동에 동참하지 않고 복직한 의사들의 명단이 적힌 이른바 ‘의료계 블랙리스트’를 작성한 혐의로 20대 사직 전공의가 구속되기도 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>굴착기 기사에 베푼 작은 호의... 잠시 후 편의점 앞 눈이 다 사라졌다</title>
-      <link>https://www.chosun.com/national/national_general/2024/12/02/3ZU2DOGIIZBOBJ3F4FOJGNZUSM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/02/3ZU2DOGIIZBOBJ3F4FOJGNZUSM/</guid>
-      <dc:creator>최혜승 기자 </dc:creator>
-      <description/>
-      <pubDate>Mon, 02 Dec 2024 00:45:04 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DWEE2TE2O5FLJOZLK67E2IYAMQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;인스타그램 계정 'a.precious_day'에 올라온 영상. 포클레인 기사가 편의점 밖에 쌓인 눈을 치우고 있다./ 인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;폭설 속 편의점을 찾은 굴착기 기사에게 식사 공간을 마련해 줬다가 제설 작업에 도움을 받았다는 사연이 소셜미디어에서 화제가 되고 있다.&lt;br&gt;&lt;br&gt;경기 화성시 산업단지 인근에서 부모님이 편의점을 운영하는 A씨는 “폭설 속 인류애를 충전했다”며 최근 인스타그램에 이 같은 사연을 공유했다. &lt;br&gt;&lt;br&gt;A씨는 지난달 28일 저녁 부모님을 대신해 편의점에서 일하는 중이었다. 평소대로라면 오후 4시에 아버지와 업무를 교대했으나 이날은 폭설이 내려 도로가 마비돼 집을 오가지 못하는 상황이었다고 한다. 주변 식당은 대부분 문을 닫았고 A씨의 편의점도 겨우 문만 열어두고 있었다.&lt;br&gt;&lt;br&gt;A씨가 혼자 삽으로 눈을 치우고 있을 때 한 굴착기 기사가 편의점을 찾아왔다. 라면과 도시락을 구매한 기사는 A씨에게 “먹고 갈 수 있느냐”고 물었다. 당시 편의점 야외 취식 공간은 전날부터 쌓인 눈 때문에 무너진 상태였다고 한다. &lt;br&gt;&lt;br&gt;A씨는 저녁 끼니를 챙기지 못했다는 기사를 위해 물건으로 가득 찬 매장 내 테이블을 정리하고 자신의 계산대 의자를 내어주며 식사 공간을 마련했다. 이후 식사를 마친 굴착기 기사는 “눈 좀 치워드릴게요”라며 편의점 밖을 나갔다고 한다. A씨는 그저 걸어 다닐 정도로만 길을 만들어주겠지 싶었지만 잠시 후 나가보니 굴착기 기사는 편의점 인근 도로와 주차장에 쌓인 눈을 치우고 있었다고 한다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XFIBXLBAAZAPPK2EM7HKR4SGIY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;인스타그램 계정 'a.precious_day'에 올라온 영상. 포클레인 기사가 편의점 밖에 쌓인 눈을 치우고 있다./ 인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;갑작스러운 호의에 놀란 A씨가 굴착기 기사에게 커피, 유자차, 과자 등의 주전부리를 챙겨주니 그는 “돈 받으려고 그런 것 아니다. 덕분에 편하게 먹었다”며 30분간 제설 작업을 한 뒤 떠났다고 한다. &lt;br&gt;&lt;br&gt;A씨는 “겨우 식사 공간 마련해 드린 정도로 이런 호의를 받아도 되는지 너무 감사하다”며 “주전부리를 챙겨드렸는데 턱없이 부족한 것들이라 홍보라도 되시라고 영상을 올린다”고 적었다. &lt;br&gt;&lt;br&gt;이 영상은 인스타그램에서 조회 수 173만회를 기록하고 있다. 네티즌들은 “호의를 베푼 편의점 직원도 굴착기 기사도 멋지다” “눈 폭탄이라 일거리 넘쳤을텐데 친절은 돌고 돈다” “추운 날씨에 인류애로 따뜻하다” 등의 반응을 보였다. &lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/DVKV3YYESRB6ZN5SSY26PHDJ2Y.jpg?width=2305&amp;height=1297&amp;auth=9e9eb50d63f7a33140e2701d5ca9250cda731a774b55b8c5a175e4ecfb122b90&amp;smart=true" type="image/jpeg" height="1297" width="2305">
-        <media:description type="plain">인스타그램 계정 'a.precious_day'에 올라온 영상. 포크레인 기사가 편의점 밖에 쌓인 눈을 치우고 있다./ 인스타그램</media:description>
-        <media:credit role="author" scheme="urn:ebu"/>
-      </media:content>
-    </item>
-    <item>
-      <title>“장례식장보다 시위 현장 근조 화환으로 먹고 삽니다”</title>
-      <link>https://www.chosun.com/national/national_general/2024/12/02/4FWC2JRJCFEFPBXZOTB5T43EEM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/02/4FWC2JRJCFEFPBXZOTB5T43EEM/</guid>
-      <dc:creator>구동완 기자, 김도연 기자, 고유찬 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 01 Dec 2024 15:50:00 +0000</pubDate>
-      <content:encoded>“오늘 오후 1시까지 근조 화환 30개 정도 보내주실 수 있나요?”&lt;br&gt;&lt;br&gt;지난 9일 오전 7시쯤 경기 과천의 한 대형 화원(花園)엔 오전 이른 시간부터 근조 화환을 대량 주문하는 전화가 잇따라 걸려왔다. 직원 5명이 일하는 이 화원은 최근 동덕여대 사태 등 주요 집회 현장에 근조 화환을 납품하고 있다. 화원을 10년 넘게 운영했다는 대표 이모씨는 “많을 때는 시위 현장에 나가는 근조 화환 주문만 한 번에 수백 개씩 들어올 때도 있다”고 했다. 대형 화원인 이곳의 국화 냉장고가 심심찮게 동난다. 이씨는 “근처 도매 꽃 시장에 가서 국화를 대량으로 사 오곤 한다”며 “아르바이트까지 동원, 10명이 넘게 밤을 새워야 주문을 감당할 수 있다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OITBG2WY2ZFXPOWBHCYQO7B6PY.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=이진영&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;각종 시위·집회에 단골로 등장하는 근조 화환이 화훼 농가의 ‘블루오션’으로 떠오르고 있다. 화훼 농가에선 “장례식·결혼식보다 시위 현장에 보내는 화환이 더 많다”는 말이 나올 정도다. 근조 화환 시위는 2000년대 초반에 처음으로 등장한 것으로 추정된다. 2006년 충북 청원 오창산단 내 호수공원 개발에 반대하는 주민들이 청원군청 현관에서 근조 화환 시위를 한 것이 초창기 사례다. 이후 각종 정치 집회에 산발적으로 등장하던 근조 화환은 2010년대 박근혜 전 대통령 탄핵 사태와 조국 사태 등을 거치면서 서초동·여의도 집회의 ‘단골 소품’이 됐다. 최근엔 아이돌 등 연예인 스캔들을 규탄하는 조화 시위로 연예 기획사가 밀집한 서울 성동구 성수동이 몸살을 앓고 있다.&lt;br&gt;&lt;br&gt;시위 현장의 근조 화환은 정의·공정성·민주주의 등 주요 가치가 죽었다는 의미를 전달한다. ‘삼가 고인의 명복을 빕니다’ 같은 추모사를 적던 리본엔 ‘공학 결사 반대’(동덕여대 시위) ‘사법부는 죽었다’(이재명 영장 기각 규탄) ‘한동훈 비대위는 트로이 목마’(한동훈 반대 시위) 같은 구호가 적힌다. 한 화원 업주는 “2016년 김영란법 시행 이후 주춤한 화환 매출을 각종 집회가 먹여 살리고 있다”며 “시위에 화환을 보내는 아이디어를 누가 낸 것인지 몰라도 고마워서 눈물이 날 지경”이라고 했다. 또 다른 업주도 “근조 화환은 도자기 화분이 원가에 포함되는 난(蘭) 같은 제품보다 마진이 훨씬 높은 ‘효자 품목’”이라고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XL5VYZFWJNB3DKVC7GZVFBLUCQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;최근 근조 화환이 각종 시위·집회의 '필수 소품'으로 각광받으면서 화훼 농가들이 '즐거운 비명'을 지르고 있다. 과거엔 정치·사회 관련 집회에 주로 등장하던 근조 화환이 요즘엔 연예인 팬들의 항의 수단으로까지 확장됐다. 사진은 지난 5월 서울 용산구 하이브 사옥 앞에 놓인 근조 화환들. 방탄소년단(BTS) 팬들이 하이브의 '방만 경영 논란'에 항의하며 보낸 것으로 '방탄 방패 쓰지 마라' '쉴 새 없는 오너 리스크'같은 문구가 리본에 적혔다. /고운호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;일부 화훼 업자는 ‘근조 화환’ ‘축하 화환’과 함께 ‘시위 화환’이라는 키워드로 인터넷에서 상품 광고를 하고 있다. 시위용 화환은 ‘무료 회수 서비스’를 해준다는 업체도 있다. 다만 미신고 집회 현장에 화환을 보낼 경우 ‘불법 노상 적치물’로 간주돼 철거될 수 있다. 화훼 업체들은 ‘시위 화환’ 주문이 들어올 경우 “미리 신고된 집회지요?”라고 확인하고 “미신고 집회의 경우 현장에서 철거될 가능성이 있다”고 안내하거나 아예 주문 자체를 거부하기도 한다.&lt;br&gt;&lt;br&gt;화환을 집회·시위에 사용하는 행위는 현행법상 합법이다. 헌법재판소는 지난해 선거 기간 화환 설치를 금지하는 조항을 위헌으로 판단했다. “표현의 자유를 지나치게 제한한다”는 이유였다. 하지만 과도한 화환 시위가 ‘시각 공해’라는 시각도 적잖다. 실제 지난해 더불어민주당 이재명 대표의 구속영장을 기각한 유창훈 서울중앙지법 판사를 규탄하는 근조 화환 200개가량이 서초동에 몰려왔을 때, ‘유창훈 축사망’ ‘자손 대대로 천벌을’ 같은 문구가 지나친 인신공격 아니냐는 지적이 나오기도 했다. 최근엔 성수동 주민들이 각종 아이돌 규탄 조화 시위에 “동네가 무슨 장례식장이냐”며 불편을 호소했다.&lt;br&gt;&lt;br&gt;최항섭 국민대 사회학과 교수는 “추모의 상징인 화환을 정치 구호의 도구로 사용하는 행위에 증오와 혐오가 개입하고 있다”며 “비방성 화환을 ‘표현의 자유’로 어디까지 허용할 수 있을 것인지 다시 생각해 볼 때”라고 했다. 반면 구정우 성균관대 사회학과 교수는 “집단행동에서 가장 중요한 것은 관심을 모으는 것”이라며 “조화 시위는 비교적 평화로운 방식으로 메시지를 전달하며 대중의 이목을 끄는 데 성공한 한국적 문화”라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/XL5VYZFWJNB3DKVC7GZVFBLUCQ.jpg?width=1280&amp;height=446&amp;auth=beff1cdc6833d555445523b464f91192b356c3f6cd376d3a3cbfb25906c15c33&amp;smart=true" type="image/jpeg" height="446" width="1280">
-        <media:description type="plain">최근 근조 화환이 각종 시위·집회의 '필수 소품'으로 각광받으면서 화훼 농가들이 '즐거운 비명'을 지르고 있다. 과거엔 정치·사회 관련 집회에 주로 등장하던 근조 화환이 요즘엔 연예인 팬들의 항의 수단으로까지 확장됐다. 사진은 지난 5월 서울 용산구 하이브 사옥 앞에 놓인 근조 화환들. 방탄소년단(BTS) 팬들이 하이브의 '방만 경영 논란'에 항의하며 보낸 것으로 '방탄 방패 쓰지 마라' '쉴 새 없는 오너 리스크'같은 문구가 리본에 적혔다. /고운호 기자</media:description>
-      </media:content>
-    </item>
-    <item>
-      <title>[단독] 의정 갈등·연금 개혁, 밤낮 없는 업무에 병가… 직원 13% 휴직</title>
-      <link>https://www.chosun.com/national/welfare-medical/2024/12/02/GXS55XOCDVBWVOYIUJB2Q2JHAY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/12/02/GXS55XOCDVBWVOYIUJB2Q2JHAY/</guid>
-      <dc:creator>조백건 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 01 Dec 2024 20:08:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IMA7KYZVARC6ZKTLHMJXG7D6KM.png"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=박상훈&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;세종시에 근무하는 A 사무관은 오전 7시 30분이면 정부세종청사 보건복지부 사무실로 출근한다. 민원 업무를 처리하다가 오전 9시가 되면 복지부 건물 7층에 있는 ‘의사 집단행동 중앙사고수습본부(중수본)’ 사무실로 올라가 일한다. 복지부는 의정 갈등 주무 부처여서, 직원들이 지난 2월부터 10개월째 교대로 중수본 업무를 보름씩 겸임하고 있다.&lt;br&gt;&lt;br&gt;오후 6시쯤 중수본에서 퇴근한 A 사무관은 복지부 사무실로 돌아온다. 그는 지자체 예산 배정 작업과 국회 답변 자료 등을 작성하다가 자정이 가까운 시각에 퇴근한다. 토요일은 쉬고 일요일에 출근해 밀린 일을 한다. A 사무관처럼 중수본 업무를 겸직하고 있는 복지부 공무원은 현재 170~180명 정도다.&lt;br&gt;&lt;br&gt;관가에선 최근 3년간 대유행한 코로나에 이어 올 초 시작된 의정 갈등 문제까지 맡은 보건복지부가 쏟아지는 일거리에 ‘그로기(강펀치를 맞고 비틀대는)’ 상태에 빠졌다는 말이 돈다. 이로 인해 복지부 정원(867명)의 13%인 115명이 현재 휴직 중인 것으로 알려졌다. 휴직자의 87%(100명)는 사무관(5급)과 주무관(6·7급)이라고 한다. 실무를 담당하는 ‘손발’이 사라지고 있다는 뜻이다.&lt;br&gt;&lt;br&gt;복지부에는 중수본 외에도 다른 ‘겸임직’이 즐비하다. 현재 복지부 내에는 ‘마음돌봄 TF(태스크포스)’, ‘코로나19 후속관리팀’, ‘연금개혁 추진단’ 같은 TF가 10개가 넘는 것으로 알려졌다. 복지부 직원들은 “의료 개혁 업무 외에도 코로나 후속 관리, 국민연금 개혁 작업 등도 해야 하기 때문”이라고 했다. 현재 내부 TF를 겸임하고 있는 복지부 공무원은 120명 정도라고 한다. 중수본까지 합치면 복지부 정원의 34%(약 300명)가 ‘낮엔 TF 팀원, 밤엔 사무관’ 식의 겸직을 하고 있다는 얘기다.&lt;br&gt;&lt;br&gt;정부 고위 관계자는 “최근 복지부에서 우울증을 호소하며 휴직하는 일선 직원들이 부쩍 늘고 있다고 들었다”고 했다. 현재 복지부 휴직자 115명 중 서기관(4급) 15명을 제외한 100명은 모두 한창 일할 사무관과 주무관이다. 휴직 사유 상당수는 육아 휴직이지만, 자신의 질병이 드러나는 걸 꺼려 육아 휴직을 받아 업무에서 빠지는 경우가 많다고 한다. 복지부 관계자는 “남아 있는 직원 대부분도 번아웃(극도의 피로) 상태”라며 “일할 사람은 점점 줄어드는데, 새 업무 지시는 계속 쏟아지기 때문”이라고 했다. 현 정부 4대 개혁 과제 중 절반인 의료·연금 개혁 외 다른 일거리도 쌓이고 있다는 뜻이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/S24MFZKAKNATFPGQ5RUDDFVNKY.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=박상훈&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;실제 복지부에는 올해만 7개의 내부 TF가 새로 생긴 것으로 알려졌다. ‘출생통보 및 보호출산제 시행 추진단’ ‘사회 서비스 정보 시스템 구축단’ ‘요양·돌봄 통합지원단’ ‘WHO(세계보건기구) 세계 바이오 서밋 개최 추진단’ 등이다. 복지부 사무관들 사이에선 “의정 갈등이 언제 끝날지 몰라 더 지친다” “한두 군데 병 없는 사람이 없다”는 말이 파다하다.&lt;br&gt;&lt;br&gt;한 경제 부처에서 파견을 온 사무관은 낮엔 중수본 일을 하고, 밤엔 복지부 업무를 하다가 지난 10월 구안와사(안면 신경 마비)가 와서 병가를 냈다. 지난달엔 한 복지부 서기관이 녹내장이 심해져 휴직을 냈다고 한다. 구안와사와 녹내장의 주요 원인 중 하나는 피로와 스트레스다.&lt;br&gt;&lt;br&gt;정부 관계자는 “상대적으로 여유가 있는 부처들이 실무 직원들을 복지부로 더 파견을 하는 것도 방법”이라며 “일손은 없는데 지시만 떨어진다면 정책이 실현되지 않고 유야무야된다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[단독] 폐지하려다… 돈 버는 노인 연금 깎는 ‘감액제’ 유지한다</title>
-      <link>https://www.chosun.com/national/welfare-medical/2024/12/02/A6PUINKOKVDO3FJ5DT5MFUNGXQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/12/02/A6PUINKOKVDO3FJ5DT5MFUNGXQ/</guid>
-      <dc:creator>조백건 기자, 오경묵 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 01 Dec 2024 20:02:00 +0000</pubDate>
-      <content:encoded>정부는 지난해 10월 ‘제5차 국민연금 종합 운영 계획’을 발표하며 ‘국민연금 소득 활동 연계 감액제’를 폐지하겠다고 했다. 일해서 돈 버는 노인에게 노령연금 지급액을 깎고 있는 정책을 없애겠다는 뜻이었다.&lt;br&gt;&lt;br&gt;그런데 지난 9월 정부가 국회에 제출한 국민연금 개혁안에는 이 같은 내용이 삭제된 것으로 1일 나타났다.&lt;br&gt;&lt;br&gt;노령연금은 국민연금 가입 기간이 10년을 넘겨 수급 연령(올해 기준 63세)에 도달했을 때 매달 받는 연금이다. 노령연금 소득 활동 감액제는 수급자에게 일정 기준(올해 기준 약 299만원)을 초과하는 소득이 있는 경우 최대 5년간 지급 연금액을 깎는 것이다. 월 삭감액은 초과 소득액에 따라 다르다.&lt;br&gt;&lt;br&gt;그간 이 제도는 상당한 논란이 있었다. 우선 “일하는 노인을 차별한다”는 비판이다. 고령화로 퇴직 이후 일하는 노인이 급증하고 있는 시대 흐름과 맞지 않는 제도라는 것이다.&lt;br&gt;&lt;br&gt;‘초과 소득’ 산정 기준도 불합리하다는 지적이 많다. 정부는 연금 감액의 기준이 되는 소득을 계산할 때 근로·사업소득만 고려하고, 배당·이자소득과 주택 임대소득(비임대 사업자)은 넣지 않는다. 예컨대 한 법인 대표가 ‘월급’ 500만원을 받으면 연금이 깎이지만, ‘배당’ 500만원을 받으면 삭감되지 않는 것이다. 또 연금액에 대해서는 소득세를 내는데, 추가로 감액까지 하는 것은 이중 과세에 해당한다는 지적도 많다.&lt;br&gt;&lt;br&gt;삭감 대상이 적어 실효성이 크지 않다는 의견도 꾸준히 나왔다. 지난 5년간 연평균 감액 대상자는 11만여 명으로 전체 연금 수급자의 2% 수준이다. 매년 절약(감액) 금액도 2000억원 수준이다. 매달 지급되고 있는 연금액(3조6000억원)을 고려하면 미미하다.&lt;br&gt;&lt;br&gt;전문가들은 “국민연금 제도에 대한 불신만 키울 수 있다”고 했다. 정부 관계자들도 “열심히 일하는 가입자만 손해라는 인식이 강해져 연금 납부 거부 분위기가 생기면 이를 완화하는 데 큰 사회적 비용이 들 것”이라고 했다.&lt;br&gt;&lt;br&gt;정부가 올 9월 국민연금 개혁안에서 왜 ‘노령연금 소득 활동 감액제 폐지’ 내용을 삭제했는지에 대해선 말이 엇갈린다. 정부 관계자들은 “절약한 돈으로 사정이 어려운 가입자를 좀 더 두껍게 보장하자는 지적이 있었다”고 했다. 야권에선 “그동안 ‘노령연금 소득 활동 감액제 폐지’를 주장했던 쪽이 주로 민주당이어서 그런 것 아니냐”는 말도 있지만, 여권 관계자들은 “문제를 해결하려면 민주당은 지금이라도 연금 개혁 논의에 참여하라”고 했다.&lt;br&gt;&lt;br&gt;경제협력개발기구(OECD)는 2022년 우리나라에 ‘노령연금 소득 활동 감액제 폐지’를 권고했다. OECD 국가 중 소득에 따라 연금을 깎는 곳은 우리를 포함해 일본·그리스·스페인 등 4국뿐이다. 미국은 2000년 이 제도를 폐지했다. 연금 가입자들이 매달 보험료를 내 ‘획득한 권리(earned right)’를 부당하게 박탈한다는 이유에서다. 프랑스도 2009년 “노인 인구 증가로 고령 노동자 확대 정책이 필요하다”며 이를 폐지했다.&lt;br&gt;&lt;br&gt;다만 ‘노령연금 소득 활동 감액제’를 폐지할 경우 공무원·군인·사학연금 등 다른 연금과의 형평성 논란이 불거질 것이라는 지적도 있다. 직역 연금에서도 국민연금의 개선안을 따라가자고 요구할 가능성이 높은데, 이 연금들 모두 국민연금보다 소득 활동에 따른 감액 규모가 크기 때문이다.&lt;br&gt;&lt;br&gt;&lt;b&gt;☞국민연금 소득 활동 연계 감액제&lt;/b&gt;&lt;br&gt;&lt;br&gt;매달 299만원을 초과하는 소득이 있는 노령연금 수급자에게 최대 5년간 연금을 감액해 지급하는 제도. 국민연금법에 규정돼 있다. 초과 소득이 많을수록 감액이 커진다. OECD(경제협력개발기구) 국가 중 이 제도를 시행하는 건 우리나라를 포함해 4곳뿐이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>의료계 탈퇴에… 여의정 협의체 3주 만에 좌초</title>
-      <link>https://www.chosun.com/national/welfare-medical/2024/12/02/JZCFS4WM7BC7PMULYUVAF7MFYA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/12/02/JZCFS4WM7BC7PMULYUVAF7MFYA/</guid>
-      <dc:creator>오유진 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 01 Dec 2024 15:50:00 +0000</pubDate>
-      <content:encoded>의정 갈등 해결을 위한 여·의·정 협의체에 참여해온 대한의학회와 한국의과대학·의학전문대학원협회(KAMC)가 1일 협의체 탈퇴를 선언했다. 지난 11일 국민의힘과 정부, 의료계 두 단체가 참여한 협의체가 출범한 지 약 3주 만에 의료계가 활동을 중단하며 사실상 좌초한 것이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PSGFJZFFFJDCZKTDVP3NSSKBG4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이진우(오른쪽) 대한의학회 회장과 이종태 한국의과대학·의학전문대학원협회(KAMC) 이사장이 1일 국회에서 열린 여·의·정 협의체 4차 전체회의를 마치고 나서 향후 불참 입장을 발표한 뒤 회의장을 나서고 있다. /김지호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이진우 대한의학회 회장은 이날 국회에서 열린 협의체 4차 전체회의에 참석한 후 “정부와 여당이 이 사태를 해결하고자 하는 의지가 없다는 사실을 확인했다”며 “의학회와 KAMC는 협의체 참여를 중단할 수밖에 없는 참담한 결정을 내리게 됐다”고 했다. 이 회장은 “여당은 해결을 위해 정부를 적극적으로 압박하거나 중재에 나서지 않아 그 진정성을 의심하게 했다”며 “야당 역시 협의체에 참여하지 않고 수수방관하며 의정 사태 해결에 소극적인 태도를 보였다”고 했다.&lt;br&gt;&lt;br&gt;국민의힘 대표로 협의체에 참여한 이만희 의원은 이날 브리핑에서 “의료계가 2025년도 의대 정원 변경을 지속적으로 요청해왔지만, 입시가 상당히 진행된 상황을 감안하면 현실적으로 수용하기 참으로 어려운 요구였다”며 “이러한 상황을 감안해 협의체 대표들은 당분간 공식적 회의를 중단하고 휴지기를 갖기로 했다”고 했다. 그러나 이 회장은 “급박한 현실에서 유연한 정책 결정을 통해 의정 사태 해결 의지를 조금이라도 보여달라고 간절히 요청했으나 정부는 어떠한 유연성도 보이지 않았다”고 했다. 이 회장은 “(휴지기라는 건) 정부·여당의 입장”이라며 “정부·여당 측에서 의대 정원에 대한 확실한 태도 변화나 정책 변화를 보여주면 다시 판단하고 논의하고 결정할 문제”라고 했다.&lt;br&gt;&lt;br&gt;그동안 협의체에서 의료계는 수시 미충원 인원을 정시로 이월하지 않고 예비 합격자 규모를 축소하는 등의 방식을 통해 2025학년 의대 정원 조정을 요구했으나, 정부와 여당은 “이미 수능이 치러진 상황에서 불가능하다”고 한 것으로 알려졌다. 최근 한동훈 국민의힘 대표가 경상북도 국립의대 신설에 대해 “강력하게 지원하고 지지한다”고 한 것도 의대 증설에 반대하는 의료계의 반발을 샀다.&lt;br&gt;&lt;br&gt;애초 협의체에 민주당이 불참했고 의정 갈등의 핵심 단체인 대한의사협회와 전공의협의회도 빠졌기 때문에 여·야·의·정 대화는 당분간 이뤄지기 힘들 전망이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>아이 귀한 정선 마을서 25년 만에 ‘백일잔치’</title>
-      <link>https://www.chosun.com/national/people/2024/12/02/6HK7ENFMBZBQJEWM5LU7VMYYTQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/12/02/6HK7ENFMBZBQJEWM5LU7VMYYTQ/</guid>
-      <dc:creator>정선=신정훈 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 01 Dec 2024 15:35:00 +0000</pubDate>
-      <content:encoded>“마을에 경사가 났습니다. 25년 만이에요.”&lt;br&gt;&lt;br&gt;지난 30일 오전 강원도 정선군 북평면 장열2리 마을회관에서 잔치가 열렸다. 이 동네에서 25년 만에 태어난 아이의 백일잔치다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/R7OF4GAGJRAGVMNGAMWHBIIB4I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 30일 강원도 정선군 북평면 장열2리 마을회관에서 이강(가운데)군의 백일잔치가 열렸다. 잔칫상을 차린 마을 주민들과 이군 가족이 기념사진을 찍고 있다. 이군 오른쪽에 있는 사람이 엄마 최영화씨와 아빠 이준영씨다. /정선군&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;백일잔치의 주인공은 이준영(41)·최영화(32)씨 부부의 아들 이강군이다. 옥색 도포에 검은색 갓을 쓴 이군이 등장하자 조용했던 마을회관에 환호성이 울렸다. 이군은 지난 8월 태어나 오는 3일 백일을 맞는다.&lt;br&gt;&lt;br&gt;이군의 백일을 축하하기 위해 마을 주민들이 손수 잔칫상을 차렸다. 떡과 사과, 단감, 귤 등을 올리고 한우 불고기 백반과 잡채, 튀김을 만들어 손님을 맞이했다. 마을 이장과 부녀회장이 직접 장을 본 재료로 요리했다.&lt;br&gt;&lt;br&gt;마을회관 벽에는 ‘사랑하는 이강이 세상의 빛을 본 지 100일째 되는 날’이라고 쓴 플래카드를 붙였다.&lt;br&gt;&lt;br&gt;이날 잔치에는 이군의 가족과 마을 주민 등 70여 명이 참석해 이군의 백일을 축하했다. 면장, 이장도 참석했다.&lt;br&gt;&lt;br&gt;주민들은 “강이가 우리 마을에서 오랫동안 건강하고 행복하게 살면 좋겠다” “오랜만에 아이 우는 소리를 들으니 마을에도 활력이 넘친다” “축하할 기회를 줘 우리가 더 행복하다”고 덕담을 건넸다.&lt;br&gt;&lt;br&gt;이씨 부부는 “강이를 건강하고 행복하게 잘 키우겠다”고 했다.&lt;br&gt;&lt;br&gt;맹영빈 장열2리 이장은 “우리 모두 손주를 본 것 같아 설렌다”며 “강이가 건강하게 잘 자라길 바라는 마음에 정성을 다해 잔치를 준비했다”고 말했다. 김성수 북평면장은 “아이가 살기 좋은 마을이 될 수 있게 꼼꼼하게 챙기겠다”고 했다.&lt;br&gt;&lt;br&gt;장열2리는 50여 가구가 사는 산골 마을이다. 수퍼마켓이나 식당도 없다. 60대 이상 노인들이 옥수수와 콩, 깨 등을 키우며 산다.&lt;br&gt;&lt;br&gt;정선군이 석탄 산업으로 호황을 누리던 1970~1980년대에는 이 마을에도 광업소가 있어 150여 가구가 살았다고 한다. 하지만 광업소가 문을 닫고 청년들이 도시로 떠나면서 마을에는 노인들만 남았다.&lt;br&gt;&lt;br&gt;경기 고양시에서 살던 이씨는 2014년 다니던 회사를 그만두고 이 마을에 내려왔다. 대학에서 호텔경영학을 전공했다고 한다. 이씨의 부친이 이 마을에 들렀다가 마을의 경치가 예뻐서 1층 집을 사둔 게 인연이 됐다고 했다.&lt;br&gt;&lt;br&gt;이씨는 “치열하게 경쟁해야 하는 도시와 달리 이곳은 조용하고 공기도 좋고 마음이 너무 편했다”고 했다. 그는 북평면에 있는 중소기업에 다니며 정선 토박이인 아내 최씨를 만나 올해 결혼했다.&lt;br&gt;&lt;br&gt;아이 이름은 바람에 흔들리지 말고 굳세게 자라라는 뜻에서 이강으로 지었다.&lt;br&gt;&lt;br&gt;이씨 부부는 둘째도 낳을 계획이다. 부부는 “강이를 임신했을 때도 동네 어르신들이 맛있는 음식 사 먹으라며 수시로 용돈을 주셨다”며 “사랑으로 축하해주셔서 너무 감사드린다. 조만간 둘째도 낳겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[오늘의 날씨] 2024년 12월 2일</title>
-      <link>https://www.chosun.com/national/transport-environment/2024/12/02/6QNI4O2PUBF23FRGF7E3KW3LJM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2024/12/02/6QNI4O2PUBF23FRGF7E3KW3LJM/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Sun, 01 Dec 2024 15:30:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2SQDVQ7RRNBWJAS3WVNOXHDRLY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>여의정協, 출범 3주 만에 좌초... 의료단체 참여 중단 선언</title>
