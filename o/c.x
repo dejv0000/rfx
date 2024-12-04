@@ -13,6 +13,101 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>﻿“누가 반국가세력이냐”…'미복귀시 처단’ 포고령에 반발한 의료계</title>
+      <link>https://www.chosun.com/national/welfare-medical/2024/12/04/RBMWBKOBBZHLPB3SDXMNGTU5VU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/12/04/RBMWBKOBBZHLPB3SDXMNGTU5VU/</guid>
+      <dc:creator>이가영 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 04 Dec 2024 03:09:55 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NGR76IOUOFLFRKK76KC3OUCBPA.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;3일 오후 서울의 한 대학병원 게시판에 전공의 모집 포스터가 붙어 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 대통령이 3일 밤 비상계엄령을 선포한 직후 계엄사령부가 내린 포고령에 담긴 ‘이탈 전공의 등 복귀’ 내용을 두고 의료계가 반발하고 있다. &lt;br&gt;&lt;br&gt;이날 계엄사령부는 제1호 포고령에서 “전공의를 비롯해 파업 중이거나 의료현장을 이탈한 모든 의료인은 48시간 내 본업에 복귀해 충실히 근무하고 위반 시는 계엄법에 의해 처단한다”고 했다. &lt;br&gt;&lt;br&gt;의료계는 지난 6월 대부분 전공의의 사직서가 수리됐다며 현장을 이탈한 상황이 아닌데, 계엄사령부가 ‘처단’ 등의 극단적인 표현을 사용한 것을 이해할 수 없다는 반응이다. &lt;br&gt;&lt;br&gt;가톨릭의대 교수협의회 비상대책위원회는 4일 성명을 내고 “계엄포고령에 의사들을 처단 대상으로 명시했다”며 “의사들이 반국가세력이냐”고 반문했다. 이들은 “윤 대통령을 더는 대한민국 대통령으로 인정할 수 없다. 즉각 그 자리에서 내려오라”며 “내란죄를 범한 것에 대한 합당한 죗값을 받아야 한다”고 주장했다. &lt;br&gt;&lt;br&gt;서울의대-서울대병원 교수 비상대책위원장은 공식 입장을 내고 “사직한 의료인은 과거의 직장과의 계약이 종료되었으므로 ‘파업 중이거나 현장을 이탈’한 것에 해당하지 않는다”며 “민주주의를 위협하는 계엄 선포로 인한 혼란에도 우리 의료인은 환자들의 건강을 지키고 전공의를 비롯한 의료인의 권리를 수호할 것”이라고 했다. &lt;br&gt;&lt;br&gt;전공의들의 반발도 거세다. 박단 대한전공의협의회 비상대책위원회 위원장은 3일 소셜미디어에 “윤 대통령의 반민주적 행태에 국민의 한 사람으로서 또 한 번 참담함을 느낀다”며 “제가 돌아갈 곳은 없다”고 했다. 이어 “이번 비상계엄으로 인해 무고한 국민들이 다칠 경우 의사로서 언제 어디서든 최선을 다해 국민들을 치료할 것”이라며 “독재는 그만 물러나라”고 했다. &lt;br&gt;&lt;br&gt;상황이 이렇다 보니 4일 시작되는 내년도 상반기 전공의 모집 파행 가능성도 제기됐다. 10%도 안 되는 전공의 출근율이나 낮은 국가고시 지원율을 고려할 때 지원할 수 있는 인원 자체가 많지 않은 데다 이번 계엄령 선포로 의정 갈등이 더 꼬일 것이란 예측이다. 전국 수련병원들은 9일까지 원서를 접수하고 필기와 면접을 거쳐 19일 합격자를 발표할 예정이다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>45년만의 비상계엄...전국 각지에서 ‘윤 대통령 퇴진’ 집회</title>
+      <link>https://www.chosun.com/national/national_general/2024/12/04/DYGYPY7NFVFB3FWQ5YOX46VHSI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/04/DYGYPY7NFVFB3FWQ5YOX46VHSI/</guid>
+      <dc:creator>진창일 기자, 김정엽 기자, 김석모 기자, 우정식 기자, 노인호 기자, 신정훈 기자, 김주영 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 04 Dec 2024 02:32:54 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7CWVL6WAS5IEHIGZMOD3WNUIZA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령이 선포한 비상계엄을 6시간 만에 해제한 4일 광주 동구 5·18민주광장에서 열린 광주시민비상시국대회에서 참석자들이 구호를 외치고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;45년 만의 비상계엄 선포가 국회의 요구로 6시간 만에 해제된 4일 전국 곳곳에서 윤석열 대통령을 비난하며 퇴진을 촉구하는 집회가 이어졌다.&lt;br&gt;&lt;br&gt;이날 오전 9시 광주 금남로 옛 전남도청 앞 5·18민주광장에서는 ‘광주시민 비상시국대회’가 열렸다. 이 집회에는 300여명이 ‘헌정유린 내란죄 윤석열 체포 구속’이란 글이 담긴 손팻말을 들고 참여했다. 강기정 광주시장은 “계엄의 밤은 가고 심판의 시간이 돌아왔다”며 “윤석열 정부가 어제 저질렀던 비상계엄 선포에 대해 책임을 묻고 퇴진까지 함께 싸워나가겠다”고 말했다.&lt;br&gt;&lt;br&gt;이날 집회에는 더불어민주당·진보당·정의당 등 야당과 광주전남진보연대·민노총 광주본부·광주민주동우회 등 시민단체들도 참가했다. 이들은 “계엄이 해제되었다고 절대 안심하거나 믿어서는 안 된다”며 “민주주의와 국민주권을 지키기 위해 헌정을 유린한 이들을 국민의 힘으로 반드시 단죄해야 한다”고 밝혔다.&lt;br&gt;&lt;br&gt;5·18기념재단과 유공자유족회·부상자회·공로자회도 성명서를 통해 “1979년 10·26 이후 45년 만의 비상계엄은 1980년 5·18 민주화운동 당시를 떠올리게 했다” 며 “이는 민주주의와 헌정질서를 파괴하는 위헌이었으며 권한을 남용해 자신을 비판하는 시민들을 반국가세력으로 몰아세우는 행위”라고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/D6IPQ4WR7RPXVIREB6COZBYBIY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;4일 오전 광주 동구 5·18민주광장에서 '헌정 유린, 내란 수괴 윤석열 체포·구속 촉구 광주시민비상시국대회'가 열리고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이어 “계엄이 해제되었다 하더라도 대통령과 이에 가담한 인사들의 죄는 사라지지 않는다”며 “오월 단체는 불법적인 비상계엄 선포에 대해 끝까지 책임을 묻고 싸울 것”이라고 했다. 광주지역 시민단체들은 오후 7시부터 광주 5·18민주광장에서 ‘광주시민 총궐기대회’를 이어갈 예정이다.&lt;br&gt;&lt;br&gt;또 ‘윤석열 퇴진 전북운동본부’는 이날 오전 9시 전주 충경로사거리에서 긴급회견을 열고 “윤 대통령은 전시나 사변에 준하는 어떤 근거도 없이 계엄을 선포했다”며 “경찰이 국회 출입을 통제하고, 공수부대가 헬기로 국회에 난입해 헌법기관인 국회 장악과 해산을 시도한 것은 국민을 향한 압제이자 명백한 내란”이라고 주장했다.&lt;br&gt;&lt;br&gt;‘윤석열 정권 퇴진 대전운동본부’ 등 시민단체는 대전 서구 둔산동 은하수네거리에서 기자회견을 열고 “윤 대통령은 과거의 아픈 역사를 갖고 있는 우리에게 또다시 계엄이라는 카드를 내민 것”이라며 “윤 대통령이 제시했던 계엄의 이유는 그 어떤 정당성도 찾을 수 없다”고 했다.&lt;br&gt;&lt;br&gt;민노총 세종충남본부는 충남 천안종합터미널 앞에서 “윤 대통령은 비상계엄이 내란을 획책하는 반국가세력을 척결하고 헌정질서를 지키기 위한 불가피한 조치라는 궤변을 늘어놓았다”며 “윤 대통령의 반헌법적 불법 비상계엄 선포는 자신과 친족들의 불법행위에 대한 처벌을 피하기 위한 만행”이라고 주장했다.&lt;br&gt;&lt;br&gt;충북 시민사회단체 연대회의도 이날 오전 8시부터 충북 청주시 상당구 상당공원 앞 네거리에서 ‘윤석열을 내란죄로 구속하라’ ‘불법 계엄 군경 동원 윤석열을 탄핵하라’ 등 손 팻말을 들고 윤 대통령 구속·탄핵을 요구하는 시위를 했다. 충북지역 시민사회단체, 노동계, 종교계는 이날 오전 11시부터 충북도청 서문 앞에서 윤 대통령 퇴진·구속을 위한 기자회견도 한다.&lt;br&gt;&lt;br&gt;민노총 대구지역본부도 동대구역에서 윤 대통령의 퇴진을 요구하는 기자회견을 열고 “국가와 사회를 소요시키고 마비를 일으키는 것은 윤 대통령이다”며 “국민들은 윤 대통령을 용납할 수 없고 국민의 힘으로 윤석열 정권을 퇴진시켜 민주주의를 지켜낼 것”이라고 했다. 민노총 대구본부는 오후 5시부터 대구 동성로에서 ‘윤석열 퇴진 대구시민시국대회’를 연다.&lt;br&gt;&lt;br&gt;민노총 울산본부는 오후 6시 울산 남구 롯데백화점 앞에서 윤 대통령의 퇴진을 요구하는 집회를 연다. 인천에서도 ‘사회대전환 윤석열정권퇴진 인천운동본부(준)’가 이날 오전 인천시청 앞에서 기자회견을 열고 “윤석열 대통령을 당장 체포하고 국회는 즉각 탄핵에 돌입하라”고 요구했다. 운동본부는 인천지역연대·인천시민사회단체연대·민노총 인천본부 등 9개 단체로 구성됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/DA23VWHK5JJDDCLR35IFREM6KQ.jpg?width=6192&amp;height=3624&amp;auth=3f663ee6873bbd9324afacc69aefd991fa978368caf9614deb508b1ebab947e4&amp;smart=true" type="image/jpeg" height="3624" width="6192">
+        <media:description type="plain">[광주=뉴시스] 이영주 기자 = 4일 오전 광주 동구 5·18민주광장에서 열린 '헌정 유린, 내란 수괴 윤석열 체포·구속 촉구 광주시민비상시국대회'에서 시민들이 구호를 외치고 있다. 2024.12.04. leeyj2578@newsis.com</media:description>
+        <media:credit role="author" scheme="urn:ebu">LYJ</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>국민의힘 시·도지사협의회 “계엄 사태 유감, 윤 대통령 사과해야”</title>
+      <link>https://www.chosun.com/national/regional/2024/12/04/7AODYGRIV5FA7HCCQSLBAI2XBU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/12/04/7AODYGRIV5FA7HCCQSLBAI2XBU/</guid>
+      <dc:creator>인천=이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 04 Dec 2024 02:22:18 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PYTCJRVJAJAODC3XWOUPKPT23A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령이 3일 밤 비상계엄 선포를 발표하고 있다. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국민의힘 시‧도지사협의회가 4일 이번 비상계엄 사태와 관련해 유감의 입장을 밝히고, 윤석열 대통령의 사과를 요구했다. 국민의힘 시‧도지사협의회는 유정복 인천시장이 회장을 맡고 있으며 오세훈 서울시장, 박형준 부산시장, 홍준표 대구시장 등 시‧도지사 12명이 참여하고 있다.&lt;br&gt;&lt;br&gt;국민의힘 시‧도지사협의회는 이날 보도자료를 내고 “지난밤 윤 대통령의 계엄 선포로 국민과 정치권, 국제사회까지 큰 혼란이 초래됐다”며 “이번 사태에 대해 깊은 유감을 표한다”고 했다. 또 “윤 대통령이 이번 비상계엄 선포에 대해 국민들께 사과하고, 향후 국정안정과 쇄신을 위한 조치에 대해서도 분명한 입장을 표명해야 한다”고 요구했다.&lt;br&gt;&lt;br&gt;협의회는 또 “윤 대통령은 국가신용도와 경제 불안이 없도록 대외리스크 관리에 필요한 조치를 해야 한다”며 “정치권도 이번 사태를 계기로 오직 국민과 국가의 미래만을 생각하는 정치활동을 기대한다”고 했다.&lt;br&gt;&lt;br&gt;협의회는 “비상계엄 선포 후 국회의 계엄 해제 요구안이 가결되면서 계엄이 즉시 해제돼 우리 사회가 성숙한 민주주의 국가임이 확인된 건 다행”이라며 “국민의힘 시도지사들은 국민들이 안심하고 일상생활에 불편함이 없도록 최선을 다하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>尹 비상계엄 선포부터 국회 계엄해제 가결까지, 긴박했던 150분</title>
+      <link>https://www.chosun.com/national/national_general/2024/12/04/WA5IW4AAXBH2BL2NX7UMTTU5W4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/04/WA5IW4AAXBH2BL2NX7UMTTU5W4/</guid>
+      <dc:creator>고유찬 기자, 강지은 기자, 김보경 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 04 Dec 2024 02:01:51 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BYSQWHWHGVLABNNGDLIQBGLBL4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령이 긴급 대국민 담화를 통해 비상계엄령을 발표한 가운데 4일 새벽 서울 여의도 국회에서 계엄군이 창문을 깨고 국회 본청으로 진입하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 3일 밤 윤석열 대통령이 비상계엄을 전격 선포하고 국회가 다음날인 4일 새벽 비상계엄 해제 요구안을 가결하기까지 걸린 시간은 약 150분이었다.&lt;br&gt;&lt;br&gt;윤 대통령은 3일 오후 10시 30분 긴급 대국민담화를 통해 비상계엄을 선포했다. 비상계엄 선포 약 1시간 만에 계엄 지역의 모든 행정사무와 사법사무를 관장할 계엄사령부가 설치됐고, 계엄사령관에 박안수 육군참모총장이 임명됐다.&lt;br&gt;&lt;br&gt;이날 오후 11시 30분쯤 박 총장은 대한민국 전역에 “국회와 지방의회, 정당의 활동과 정치적 결사, 집회, 시위 등 일체의 정치활동을 금한다”는 내용의 ‘계엄사령부 포고령(제1호)’을 발표했다.&lt;br&gt;&lt;br&gt;계엄이 선포되자 경찰과 소방 당국은 물론이고 각급 부처에 ‘비상 대기’와 ‘긴급 소집령’이 떨어졌다.&lt;br&gt;&lt;br&gt;조지호 경찰청장은 전국 지방 시도청장에게 정위치에서 근무하라고 지시했고, 서울지방경찰청은 4일 오전 1시부로 산하 31개 경찰서에 ‘을호비상’을 발령했다. 을호비상은 경찰 비상근무 중 2번째로 높은 단계다. 소방청장 역시 긴급태응태세 강화를 지시했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XW6MRDUOIBMVLPW2NERQOXXK2E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령이 3일 밤 긴급성명을 통해 비상계엄을 선포한 가운데 4일 새벽 계엄군이 헬기를 타고 국회에 도착하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이보다 앞서 움직인 건 군이었다. 계엄령이 발효된 지 약 70분 뒤인 3일 오후 11시 40분쯤 국회 상공에 헬기 소리가 울려 퍼지더니 UH-60 블랙호크 3대가 국회 뒷편 공터에 착륙했다. 헬기에서 내린 계엄군들은 야간 투시경과 단검, K-1 기관단총으로 무장하고 있었다. 이들 계엄군들은 국회 본청으로 이동해 내부 진입을 시도하기 시작했다.&lt;br&gt;&lt;br&gt;비슷한 시각 서울 시내 곳곳에서 군 병력이 이동하는 모습이 목격됐다. 용산 대통령실 근처 이태원역 앞과 정부청사로 가는 길목인 충정로 근처에서는 K-808 차륜형 장갑차를 비롯한 군용 차량들과 함께 군인들이 움직이는 모습이 확인됐다. 윤석열 대통령 관저 근처에선 여러 명의 군인을 태운 대형 군 트럭들이 이동하는 모습도 포착됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VQHMWB7J4BBKLJHLUXWF6BJUQE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;3일 밤 시민 2명이 계엄군을 태운 군용버스 아래 누워 항의하고 있다. /강지은 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국회 바깥에서 버스를 타고 국회로 진입하려는 계엄군도 있었다. 3일 오후 11시 56분쯤 국회 바깥에 계엄군이 탄 버스가 등장하자 시민들이 버스 주변을 에워쌌다. 일부 시민들은 버스 아래에 누워 “군사 독재 아래에 살고 싶냐”며 항의하기도 했다.&lt;br&gt;&lt;br&gt;이후로도 계엄군이 탑승한 코란도 및 스타렉스 차량 등이 차례로 도착했으나, 역시 시민 저항으로 발이 묶였다. 일부 시민들은 계엄군이 탄 차량 창문을 두드리며 거세게 항의했다.&lt;br&gt;&lt;br&gt;이처럼 군·경이 긴박하게 움직이는 사이, 여의도에선 계엄을 해제하기 위한 정치권의 움직임이 숨가쁘게 이어졌다. 우원식 국회의장은 오후 11시쯤 “모든 국회의원은 지금 즉시 국회 본회의장으로 모여달라”고 공지했다. 계엄을 해제하기 위한 국회 표결을 위해서였다.&lt;br&gt;&lt;br&gt;비슷한 시각, 국회 본청 앞에서는 의원·보좌진과 계엄군 간의 대치가 이어지고 있었다. 국회에 추가로 도착한 계엄군들이 국회를 에워싸고 각 출입문을 통해 내부로 진입을 시도하면서 국회 관계자 등이 극렬히 저항했다. 안에 있던 국회 보좌진등은 의자와 책상 등 각종 자재로 국회 출입구를 막아 계엄군의 출입을 저지했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YX4YELFMENB37FZ74DEHM5SJTM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;4일 0시 35분쯤 계엄군 20여명이 국회 본관 유리창을 부수고 내부로 진입하고 있는 모습. /고유찬 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;저항이 거세자 일부 계엄군은 국민의힘 정책위의장실 창문을 깨고 국회 본청에 진입했다. 4일 오전 0시 30분쯤이었다. 계엄군이 본청에 진입하며 국회 안에서 계엄군과 국회 직원 및 보좌진들의 대치 상황이 벌어졌다.&lt;br&gt;&lt;br&gt;국회 직원 및 국민의힘 당직자들은 국회로 진입한 계엄군에게 소화기를 뿌리는 등의 방법으로 저항하며 국회 본회의장 진입을 막았고, 이러한 대치 상황은 1시간 가까이 이어졌다. 결국 계엄군은 3층 본회의장까지는 진입하지 못했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EUN7FMLM5VOULNGJJDC2MYUP5U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;4일 새벽 국회 본청에 진입한 무장 계엄군이 본회의장으로 진입하려 하자 국회 관계자들이 소화기를 뿌리며 진입을 막고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국회 당직자와 보좌진이 본청을 지키는 사이 4일 오전 1시 본회의에서는 재적 의원 300명 중 재석 190명 만장일치로 비상계엄 해제 요구 결의안이 의결됐다. 윤 대통령이 비상계엄을 선포한지 약 150분 만이었다. 시민들은 환호성을 지르며 박수를 쳤다. “계엄령 해제”와 “윤석열 탄핵” 구호는 결의안 가결 이후 “윤석열을 체포하라”로 바뀌었다.&lt;br&gt;&lt;br&gt;약 10분 뒤 군인들에게도 철수 명령이 내려졌고, 계엄군들은 군장을 챙기며 자리를 뜨기 시작했다. 시민들 사이에서 “이제 집에 가자”는 음성과 “이제 용산으로 가자”는 외침이 엇갈렸다. 일부 시민들은 눈물을 글썽이며 서로 부둥켜안기도 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/J5PDARC5EJMWVGIMLUPB4GQ2O4.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;비상계엄 해제 요구 결의안이 국회 본회의에서 통과된 4일 새벽 서울 여의도 국회 인근에서 시민들이 비상계엄 해제 소식을 듣고 환호하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;다음은 비상계엄 발표부터 국회 계엄해제 가결까지 주요 타임라인&lt;/b&gt;&lt;br&gt;&lt;br&gt;#12월 3일 화요일&lt;br&gt;&lt;br&gt;오후 10시 30분. 윤석열 대통령, 비상계엄 발표&lt;br&gt;&lt;br&gt;오후 11시 25분. 윤석열 대통령, 계엄사령관에 육군 대장 박안수 임명&lt;br&gt;&lt;br&gt;오후 11시 30분. 계엄사령부, 포고령 제1호 발표&lt;br&gt;&lt;br&gt;오후 11시 36분. 정부세종청사 중앙동 폐쇄. 공무원 출입 막혀&lt;br&gt;&lt;br&gt;오후 11시 48분. 국회에 군 헬기 착륙, 계엄군 국회 본청 진입 시도&lt;br&gt;&lt;br&gt;오후 11시 56분. 국회 바깥에 계엄군 탄 버스 등장. 시민들이 에워싸 발 묶여&lt;br&gt;&lt;br&gt;오후 11시 59분. 용산 대통령실 앞 바리케이드 설치&lt;br&gt;&lt;br&gt;#12월 4일 수요일&lt;br&gt;&lt;br&gt;오전 0시 29분. 국회, 본회의 개의&lt;br&gt;&lt;br&gt;오전 0시 30분. 계엄군, 국민의힘 정책위의장실 창문 깨고 국회 본청 진입 시작&lt;br&gt;&lt;br&gt;오전 0시 34분. 소방청, 긴급대응태세 강화 지시&lt;br&gt;&lt;br&gt;오전 0시 39분. 서울경찰청, 오전 1시 ‘을호비상’ 발령. 비상체제 돌입&lt;br&gt;&lt;br&gt;오전 0시 48분. 국회, 본회의 개최&lt;br&gt;&lt;br&gt;오전 1시. 국회, 비상계엄 해제 요구안 본회의 안건 재석 190인, 찬성 190인 가결 선포&lt;br&gt;&lt;br&gt;오전 1시 10분. 계엄군, 국회에서 철수 시작&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/NUXMRAXLEJHDHLSDZGOD2DLD2A.gif?width=1400&amp;height=787&amp;auth=32d8ec92718a00675097539812b28c98f9b1e202c4e7a7c90d7a0afe9b5a6441&amp;smart=true" type="image/jpeg" height="787" width="1400"/>
+    </item>
+    <item>
+      <title>문형배 헌재소장 권한대행 “비상 상황 신중·민첩 대응하겠다”</title>
+      <link>https://www.chosun.com/national/court_law/2024/12/04/5E5AZCPBL5EPPBXVHPCFCBYZVA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/04/5E5AZCPBL5EPPBXVHPCFCBYZVA/</guid>
+      <dc:creator>박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 04 Dec 2024 02:02:25 +0000</pubDate>
+      <content:encoded>문형배 헌법재판소장 권한대행이 윤석열 대통령의 비상계엄 선포와 관련해 “헌재는 비상 상황에 신중하게, 그러나 민첩하게 대응하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HGIA6AGBHZI3BBBTX3C7KOABRA.JPG"&gt;&lt;figcaption&gt;&lt;small&gt; 문형배 헌법재판소장 권한대행이 4일 오전 서울 종로구 헌법재판소로 출근하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;문 권한대행은 4일 오전 9시쯤 서울 종로구 헌법재판소 출근길에 취재진을 만나 “정국이 혼란스러울수록 헌법이 작동돼야 한다고 생각한다”고 했다.&lt;br&gt;&lt;br&gt;이어 “(윤 대통령의) 비상계엄 위헌성에 대해 헌법재판소도 회의를 하느냐’, ‘(계엄사령관의) 포고령 위헌성 논란에 대해서도 검토할 것이냐’는 질문에는 “생각해보겠다”고 답했다.&lt;br&gt;&lt;br&gt;현재 헌재에는 재판관 9명 가운데 6명만 남아있다. 지난 10월 이종석 헌재소장과 이영진·김기영 재판관이 퇴임했지만, 이들의 후임을 국회가 추천하지 않았기 때문이다. 문 재판관이 헌재소장의 권한을 대행하는 중이다.&lt;br&gt;&lt;br&gt;윤 대통령은 전날 오후 10시 30분쯤 대국민 특별담화를 열고 비상계엄을 선포했다. 비상선포 한 시간 만에 계엄사령부가 설치됐고, 계엄사령관으로 임명된 박안수 육군대장이 ‘일체의 정치 활동을 금지한다’는 내용의 포고령을 발표했다.&lt;br&gt;&lt;br&gt;그러나 국회는 4일 오전 1시쯤 본회의를 열어 비상계엄 해제 요구 결의안을 통과시켰다. 윤 대통령은 이날 새벽 4시 27분쯤 담화를 통해 비상계엄 선포를 해제했다고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>민변 “尹 비상계엄, 위헌 여부 판단해달라” 헌법소원 청구</title>
+      <link>https://www.chosun.com/national/court_law/2024/12/04/UUGXIB53JRGRRIANLKBE6JDHEY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/04/UUGXIB53JRGRRIANLKBE6JDHEY/</guid>
+      <dc:creator>박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 04 Dec 2024 01:19:30 +0000</pubDate>
+      <content:encoded>헌법재판소가 윤석열 대통령의 비상계엄 선포가 헌법에 위배되는지 여부를 판단하게 됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/E3FCJY4D3JBDJIIPJ5XQTW4JAI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령이 3일 밤 서울 용산 대통령실 청사에서 긴급 대국민 특별 담화를 하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;민주사회를위한변호사모임(민변)은 4일 윤 대통령의 비상계엄 선포 행위에 대한 헌법소원 심판을 헌재에 청구했다고 밝혔다.&lt;br&gt;&lt;br&gt;민변은 청구서에서 “윤 대통령의 비상계엄 선포 행위 및 계엄사령관 박안수 육군대장의 포고령(제1호) 등 후속조치는 집회 및 결사의 자유·언론의 자유·표현의 자유 일반적 행동의 자유권·인간의 존엄과 가치 등 기본권을 침해한 행위로 위헌임을 확인해달라”고 청구 취지를 밝혔다.&lt;br&gt;&lt;br&gt;이어 대통령의 비상계엄 선포와 계엄사령관의 포고령 등 후속조치는 ‘공권력 행사’에 해당하고, 기본권을 직접 침해하는 행위기 때문에 사건 청구가 적합하다고 주장했다. 헌법소원은 국가의 공권력 행사 또는 불행사로 인해 헌법상 보장된 기본권이 침해된 경우 제소할 수 있다.&lt;br&gt;&lt;br&gt;민변은 “윤 대통령의 비상계엄 선포 등은 자신에 반대하는 다수의 국민들을 반국가세력으로 규정하고 국회와 법원의 기능을 마비시키는 공권력 행사”라며 “민주주의·법치주의 등 헌법의 대원칙에 어긋나는 것으로 계엄법 및 형법에 위반된다”고 설명했다.&lt;br&gt;&lt;br&gt;윤 대통령은 전날 오후 10시 30분쯤 대국민 특별담화를 열고 비상계엄을 선포했다. 비상선포 한 시간 만에 계엄사령부가 설치됐고, 계엄사령관으로 임명된 박안수 육군대장이 ‘일체의 정치 활동을 금지한다’는 내용의 포고령을 발표했다.&lt;br&gt;&lt;br&gt;그러나 국회는 4일 오전 1시쯤 본회의를 열어 비상계엄 해제 요구 결의안을 통과시켰다. 윤 대통령은 이날 새벽 4시 27분쯤 담화를 통해 비상계엄 선포를 해제했다고 밝혔다.&lt;br&gt;&lt;br&gt;민변은 “계엄해제가 되었더라도 헌재는 ‘심판의 이익’을 인정하여 본안 심리에 나아가 위헌확인 결정을 해야한다”며 “비상계엄의 정당성을 피력하고 있는 윤 대통령의 담화문에 비춰볼 때, 동일한 계엄선포가 언제든 반복될 가능성이 있다. 향후 이런 계엄 선포가 기습적으로 이뤄지는 경우 국회가 정상적으로 해제 요구를 할 수 없는 상황이 발생할 수 있다”고 밝혔다.&lt;br&gt;&lt;br&gt;이날 민변은 헌법소원 심판 사건의 선고가 나올 때까지 비상계엄과 포고령 등 후속 조치를 정지해달라는 ‘효력정지 가처분 신청’도 함께 냈다. 다만 비상계엄이 약 6시간만에 해제됨에 따라, 가처분으로 요구하는 효과가 모두 달성된 것과 같아 처분을 구할 의미가 사라졌다.&lt;br&gt;&lt;br&gt;한편 헌재는 이날 오전 공식 입장을 내고 “모든 업무는 변함없이 이뤄지고 있다. 현 상황에서 흔들림 없이 이뤄지고 있다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>﻿‘계좌 불법추적 주장’ 유시민, 한동훈에 3000만원 배상 판결</title>
+      <link>https://www.chosun.com/national/national_general/2024/12/04/W7HKMZ5TSZBYHCTKLKJRBJLCLI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/04/W7HKMZ5TSZBYHCTKLKJRBJLCLI/</guid>
+      <dc:creator>이가영 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 04 Dec 2024 02:04:15 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XYA47U2YLFN5BDEHNWY4HKHVVY.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;유시민 전 노무현 재단 이사장이 작년 12월 21일 서울서부지법에서 열린 한동훈 국민의힘 대표에 대한 명예훼손 혐의 항소심 선고 공판에서 벌금 500만원을 선고 받은 후 취재진의 질문에 답하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한동훈 국민의힘 대표가 가짜뉴스 유포로 피해를 입었다며 유시민 전 노무현재단 이사장을 상대로 낸 손해배상 청구 소송에서 일부 이겼다. &lt;br&gt;&lt;br&gt;서울중앙지법 민사합의14부(재판장 정하정)는 4일 유 전 이사장에게 “원고(한 대표)에게 3000만원을 지급하라”고 판결했다. &lt;br&gt;&lt;br&gt;유 전 이사장은 2019년 12월부터 이듬해 7월까지 세 차례에 걸쳐 라디오와 유튜브 방송 등에서 ‘대검 반부패강력부가 나와 노무현재단 계좌를 불법 추적했다’는 취지의 발언을 했다. 당시 대검 반부패강력부장은 한 대표였다. &lt;br&gt;&lt;br&gt;한 대표는 2021년 3월 “유 전 이사장에 의해 공적 권한을 사적인 보복을 위해 불법 사용한 공직자로 부당하게 낙인찍혔다”며 유 전 이사장을 상대로 5억원을 배상하라는 소송을 냈다. &lt;br&gt;&lt;br&gt;유 전 이사장은 이와 관련해 명예훼손 등 혐의로 기소돼 지난 6월 대법원에서 벌금 500만원을 확정받았다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>조희대 대법원장 "계엄, 어떤 절차 거쳤는지 지켜봐야"</title>
+      <link>https://www.chosun.com/national/court_law/2024/12/04/LWBIMG37U5EMDHFTG3EJQ4IF5U/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/04/LWBIMG37U5EMDHFTG3EJQ4IF5U/</guid>
+      <dc:creator>방극렬 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 04 Dec 2024 01:46:52 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QAPX3X6KMBPJNPABA6SH5OPMHI.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;조희대 대법원장이 4일 오전 서울 서초구 대법원으로 출근하며 윤석열 대통령의 전날 밤 비상계엄 선포에 관한 취재진의 질문에 답하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;조희대 대법원장이 4일 윤석열 대통령의 전날 밤 비상계엄 선포에 대해 “어떤 절차를 거쳤는지 지켜봐야 할 것 같다”고 말했다.&lt;br&gt;&lt;br&gt;조 대법원장은 이날 출근길에 기자들과 만나 “이런 어려운 때일수록 사법부가 본연의 임무를 더 확실하게 하겠다”면서 “사법부는 국민들이 걱정하지 않으시도록 최선을 다하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;조 대법원장은 “계엄 과정에서 법적 절차를 따르지 않았으면 법적 문제가 있을 수 있다는 지적이 나온다”는 질문에 “차후에 (계엄이) 어떤 절차를 거쳤는지 지켜봐야 할 것 같다”고 답했다. 기자들이 “(비상계엄이) 대통령 탄핵 사유가 될 수 있다고 보느냐”고 묻자, 조 대법원장은 “나중에 다시 말씀드리겠다”고 했다.&lt;br&gt;&lt;br&gt;조 대법원장은 “사법부 본래 역할인 재판을 통해 국민의 자유와 인권을 보장하는 일에 한 치의 소홀함이 없도록 최선을 다하겠다”며 “국민들이 걱정하지 않으셔도 된다”고 말했다.&lt;br&gt;&lt;br&gt;앞서 대법원은 윤 대통령이 비상계엄을 선포한 지 6시간여 만에 해제를 선언하자 국민의 자유와 권리를 지키기 위해 노력을 다할 것이라는 입장을 냈다. 천대엽 대법원 법원행정처장은 이날 오전 6시30분쯤 사법부 내부망(코트넷)에 “어젯밤 갑작스런 계엄 선포 등 국가적으로 매우 혼란스러운 상황이 있었다”며 “뒤늦게나마 헌법이 정한 절차에 따라 계엄이 해제된 데 대해 국민과 함께 안도하는 바”라고 했다. 이어 “사법부는 헌법상 국민의 기본적 인권을 보장하는 최후의 보루”라며 “헌법과 법률이 부여한 사명에 따라 본연의 자세로 추호의 흔들림 없이 국민의 자유와 권리를 지키기 위해 최선의 노력을 다할 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>박성재 법무 “모두 냉정 되찾아야…직에 연연 안 할 것”</title>
+      <link>https://www.chosun.com/national/court_law/2024/12/04/SH7EHV3O4FDWPGNQGZVFVHTSZQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/04/SH7EHV3O4FDWPGNQGZVFVHTSZQ/</guid>
+      <dc:creator>유종헌 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 04 Dec 2024 00:56:20 +0000</pubDate>
+      <content:encoded>윤석열 대통령의 비상계엄 선포와 관련, 박성재 법무부 장관은 4일 “모두가 냉정을 되찾고 국민을 위한 일을 했으면 한다”고 말했다.&lt;br&gt;&lt;br&gt;박 장관은 이날 정부과천청사 출근길에 이 같이 밝혔다. 박 장관은 “저는 법무부의 통상 업무를 잘 챙기겠다”면서도 “직에 연연할 생각은 전혀 없다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/32PSPICTD5PZ3EAKEIPW4CQ3KQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;박성재 법무부 장관이 지난 3일 오전 서울 종로구 정부서울청사에서 세종-서울 영상으로 열린 국무회의에 참석하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이외 ‘선포 전 국무회의에 참석했나’, ‘위헌적 포고령 지적에 동의하느냐’는 기자 질문에는 아무런 답을 하지 않았다.&lt;br&gt;&lt;br&gt;윤 대통령은 전날 밤 비상계엄을 선포했다가 국회 본회의에서 비상계엄 해제 요구 결의안이 통과되자 계엄을 해제했다.&lt;br&gt;&lt;br&gt;박 장관은 전날 비상계엄에 따른 법무부 비상 간부 회의를 소집했다. 이 자리에서 류혁 감찰관은 “계엄에 동의할 수 없고 관련 업무를 수행하지도 않겠다”며 사의를 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>홍준표 대구시장, 비상계엄 선포에 “경솔한 한밤중 해프닝”</title>
+      <link>https://www.chosun.com/national/regional/2024/12/04/AVBT7VJXTZHNXI4MLGUGKXLI2Q/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/12/04/AVBT7VJXTZHNXI4MLGUGKXLI2Q/</guid>
+      <dc:creator>대구=노인호 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 03 Dec 2024 23:52:37 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QE6BVNSDDFBWLAYK3OSLG4O7LM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;홍준표 대구시장은 4일 자신의 페이스북에 윤석열 대통령의 계엄선포에 대해 "해프닝"이라고 밝혔다. /홍준표 대구시장 페이스북 캡쳐&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;홍준표 대구시장이 윤석열 대통령의 비상계엄령 선포를 두고 “한밤 중의 해프닝”이라는 입장을 밝혔다.&lt;br&gt;&lt;br&gt;홍 시장은 4일 오전 8시 2분 페이스북에 “충정은 이해하나 경솔한 한밤 중의 해프닝이었다. 꼭 그런 방법밖에 없었는지 유감입니다”라고 밝혔다. &lt;br&gt;&lt;br&gt;이어 “박근혜 탁핵전야 같이 흘러간다고 한 달 전부터 우려했는데 잘 수습하시기 바란다”고 글을 마쳤다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>대법원 "계엄 해제 안도…국민의 자유와 권리 지킬 것"</title>
       <link>https://www.chosun.com/national/court_law/2024/12/04/MBJLIXU6QBGVJBTCQUSBLWXA44/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/04/MBJLIXU6QBGVJBTCQUSBLWXA44/</guid>
@@ -825,81 +920,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SPV4GZPDUJHZ7PZIH4OBN3UBTQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;3일 성판악 탐방로 안내소에서 열린 '한라산타' 플로깅 원정대 발대식에 참석한 배우 진서연/제주도&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한라산을 오르며 쓰레기를 줍는 플로깅(plogging·걸으면서 쓰레기 줍기) 원정대가 활동을 시작했다.&lt;br&gt;&lt;br&gt;제주도와 제주관광공사는 3일 한라산 성판악 탐방안내소에서 ‘한라산타’ 플로깅 원정대 발대식을 열었다. ‘한라산타’라는 이름은 ‘한라산을 탄다’는 등반의 의미와 ‘한라산의 산타’로서 자연을 보호하고 탐방객들에게 깨끗한 환경을 선물한다는 뜻을 동시에 표현하고 있다고 제주도는 설명했다.&lt;br&gt;&lt;br&gt;한라산타 플로깅 원정대는 한라산 탐방예약제 일시 해제 기간(11월 27일∼12월 27일) 한라산의 자연과 공존을 약속하는 특별 프로젝트다. 청년들로 구성된 사회공헌단체 ‘구보’를 통해 모집된 청년 50여명이 참여하고 있다.&lt;br&gt;&lt;br&gt;제주에 거주하는 배우 진서연도 동참해 환경을 보호하고 제주 관광의 지속 가능성을 알리는 데 힘을 보탰다. 원정대는 이달 중 관음사 코스 4차례, 성판악 코스 3차례 등 모두 7차례 플로깅 활동을 진행할 계획이다.&lt;br&gt;&lt;br&gt;이번 프로젝트에는 귤메달, 제주한라수, 프릳츠커피, 노티드도넛, 스프링샤인, 올포기어, 지구별가게, 희망나래 등 지역업체들도 참여해 간식과 물품을 지원한다.&lt;br&gt;&lt;br&gt;오는 24일에는 관음사 코스에서 탐방객 대상 소원카드 나눔과 구상나무 보호를 위한 ‘소원 산행’ 등 프로그램이 예정됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>경찰, ‘삼성 반도체 인력 유출 혐의’ 컨설팅업체 대표 구속 송치</title>
-      <link>https://www.chosun.com/national/2024/12/03/KMQ2N2Q7WZCOLLQ7ALNB5MLW34/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2024/12/03/KMQ2N2Q7WZCOLLQ7ALNB5MLW34/</guid>
-      <dc:creator>주형식 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 03 Dec 2024 04:53:36 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PA6WQWGLRO3Q5OICLICETQQGKE.gif"&gt;&lt;figcaption&gt;&lt;small&gt;중국 산시성 시안시 삼성전자 메모리 반도체 공장 내부 모습./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;삼성전자의 반도체 핵심 인력들을 중국 업체 ‘청두가오전’(CHJS)에 대거 스카우트해 삼성의 독자적인 20나노(㎚·10억분의 1m) D램 기술을 빼돌린 브로커들이 검찰에 넘겨졌다.&lt;br&gt;&lt;br&gt;서울경찰청 산업기술안보수사대는 삼성전자 엔지니어 출신인 A씨(64)를 직업안정법 위반 등의 혐의로 서울중앙지검에 구속 송치했다고 3일 밝혔다. 경찰은 A씨를 포함해 21명을 검찰에 넘기며 청두가오전 기술 유출 수사를 마무리했다. 청두가오전 대표인 삼성전자 상무 출신 최모(66)씨 등은 지난 9월 구속 송치됐다. 이들에게는 산업기술보호법과 부정경쟁방지법 등이 적용됐다.&lt;br&gt;&lt;br&gt;경찰에 따르면 청두가오전 설립 단계에 고문으로 참여한 A씨는 국내에 헤드헌팅 업체를 차리고 삼성전자 핵심 인력들에 기존 연봉의 최소 2∼3배를 보장한다고 유혹했다. 이들의 반도체 지식·기술로 중국 현지에 D램 제조 공장을 만들고, 공장 준공 1년 3개월 만인 2022년 4월 웨이퍼 생산에 성공했다. 경찰은 “피해 기술의 경제적 가치는 4조3000원에 이르며, 경제 효과 등을 감안하면 실제 피해 금액은 그 이상”이라고 설명했다.&lt;br&gt;&lt;br&gt;경찰은 A씨 외에도 같은 방식으로 청두가오전에 국내 반도체 전문인력을 빼돌린 헤드헌팅업체 대표 2명과 헤드헌팅법인 1개도 불구속 송치했다.&lt;br&gt;&lt;br&gt;경찰은 이들에 대해서 산업기술 유출을 다루는 법률이 아닌 헤드헌터 관련 법률을 적용하는 데 그쳤다. 경찰은 이 사건과 관련해 인력 유출을 통한 기술 유출에는 산업기술의 유출방지 및 보호에 관한 법률(산업기술보호법)이 적용되지 않아 이들에게 직업안정법 위반 혐의를 적용했다고 밝혔다. 직업안정법은 고용노동부 장관의 등록이 있어야 국외 유료직업소개업을 할 수 있다는 내용으로 처벌 수위가 상대적으로 가볍다. 직업안정법에 따르면 무등록 영업을 한 헤드헌터에 대해 5년 이하의 징역 또는 5000만원 이하의 벌금에 처해진다. 반면 산업기술보호법에서는 중요 기술 유출을 엄격히 처벌하고 실행 전에 예비하거나 음모를 꾸미는 행위까지도 제재한다. 국가핵심기술 유출 행위에는 3년 이상 유기징역과 함께 15억원 이하의 벌금을 병과한다. 산업기술 유출의 경우 15년 이하의 징역 또는 15억원 이하의 벌금에 처한다.&lt;br&gt;&lt;br&gt;현재 국가핵심기술 탈취를 위한 소개·유인·알선에 관한 처벌 규정을 포함한 산업기술보호법 개정안은 국회 산업통상자원중소벤처기업위원회 소위원회를 통과한 상태다. 경찰은 “규제 회피가 용이한 ‘인력 유출’ 방식으로 기술이 유출되는 현실에서 보다 엄정한 법 개정을 통해 사회적 경종을 울릴 필요가 있다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/PA6WQWGLRO3Q5OICLICETQQGKE.gif?width=800&amp;height=557&amp;auth=edb88eaa38b985bbd7ad8306f5a83b88fd29f9b7108ac1139be49477ff3c62be&amp;smart=true" type="image/jpeg" height="557" width="800">
-        <media:description type="plain">중국 산시성 시안시 삼성전자 메모리 반도체 공장 내부 모습. 이 공장과 1.5㎞ 떨어진 곳에 복제공장이 들어설 뻔했다. photo 뉴시스</media:description>
-      </media:content>
-    </item>
-    <item>
-      <title>“오빠 나 5000원만”…남성들에게 수천만원 뜯어낸 여중생 정체는?</title>
-      <link>https://www.chosun.com/national/national_general/2024/12/03/A3USOJL2FVCLZLK2O7RC7TF2CU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/03/A3USOJL2FVCLZLK2O7RC7TF2CU/</guid>
-      <dc:creator>김명일 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 03 Dec 2024 04:50:29 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VDZIEJTKE63QO375J37JOA3HAQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원 이미지. /조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;채팅 애플리케이션(앱)에서 여중생 행세를 하며 남성들을 속여 2년간 수천만원의 돈을 뜯어낸 20대 남성이 징역형 집행유예를 선고받았다.&lt;br&gt;&lt;br&gt;3일 법조계에 따르면 대전지법 형사10단독(재판장 김태현)은 최근 사기 혐의로 재판에 넘겨진 남성 A씨(23)에게 징역 10개월의 집행유예 2년을 선고했다. 이와 함께 사회봉사 40시간도 명령했다.&lt;br&gt;&lt;br&gt;A씨는 지난 2021년 4월부터 2023년 11월까지 채팅 앱을 통해 만난 남성들에게 여중생인 척하며 돈을 요구하는 방식 등으로 282회에 걸쳐 약 4580만원을 가로챈 혐의다.&lt;br&gt;&lt;br&gt;A씨는 채팅 앱에 가입한 뒤 프로필을 ‘13세 여성’ 등으로 표시했다. 이후 연락이 온 남성들에게 생활비가 필요하다며 5000원 등 소액의 돈을 요구했다. A씨가 남성들로부터 받은 돈은 대부분 소액이었지만 일부는 50만~90만원 정도의 돈까지 보내준 것으로 알려졌다.&lt;br&gt;&lt;br&gt;A씨는 자신의 성별을 들키지 않기 위해 누나 명의의 계좌로 돈을 받았으며, 자신이 홀로 살며 원조교제로 생계를 이어나가는 미성년자라고 거짓말을 하기도 했다.&lt;br&gt;&lt;br&gt;재판부는 “피해자가 불특정 다수이며 범행 기간이 상당히 길어 죄질이 나쁘다”면서도 “다만 일부 피해자와 합의에 이르렀고 본인이 자백하며 반성하는 점 등을 고려했다”고 양형이유를 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>통영서 14중 추돌 사고로 20명 경상</title>
-      <link>https://www.chosun.com/national/regional/2024/12/03/J6U54NZD3NCRBGOZY3RQ26SCSU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/12/03/J6U54NZD3NCRBGOZY3RQ26SCSU/</guid>
-      <dc:creator>통영=김주영 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 03 Dec 2024 04:26:41 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GPLRTPDPQMQUDS2V6AR2Z7CFDE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;3일 오전 7시 45분쯤 경남 통영시 광도면 한 교차로에서 15t(톤) 덤프트럭이 신호대기중이던 승용차량 등 13대를 충돌해 20명이 부상을 입었다. /통영경찰서 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;3일 오전 7시 45분쯤 경남 통영시 광도면 3차로 교차로에서 14중 추돌 사고가 발생했다.&lt;br&gt;&lt;br&gt;이 사고로 15t(톤) 화물차 운전사 50대 A씨 등 사고 차량에 타고 있던 20명이 경상을 입었다.&lt;br&gt;&lt;br&gt;경찰에 따르면 A씨는 보도 블록이 실린 화물차를 몰고 2차선에서 고갯길을 넘어 내려오다 1, 2, 3차로에서 신호대기 중이던 승용차 13대를 잇달아 들이받았다.&lt;br&gt;&lt;br&gt;경찰은 이 화물차가 경사진 도로를 내려오다 브레이크 제동이 잘 되지 않아 사고가 난 것으로 보고 정확한 사고 경위를 조사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>강릉 심곡항 인근서 실종자 2명 발생… 해경 “수색 중”</title>
-      <link>https://www.chosun.com/national/incident/2024/12/03/5H4CUM3Z65GOTLDX54MHIKVQBA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/12/03/5H4CUM3Z65GOTLDX54MHIKVQBA/</guid>
-      <dc:creator>강릉=정성원 기자</dc:creator>
-      <description>강원 강릉시 심곡항 인근에서 실종자 2명이 발생해 해경이 수색에 나섰다.3일 동해해양경찰서에 따르면 전날인 2일 오후 5시 17분쯤 실종자와 연락이 되지 않는다는 신고가 112를 통해 접수됐다.</description>
-      <pubDate>Tue, 03 Dec 2024 04:25:05 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DZEDECP6IOETZ5B6KTLHQZXC2Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;강릉 심곡항에서 금진항을 잇는 헌화로. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;강원 강릉시 심곡항 헌화로 일원에서 실종자 2명이 발생해 해경이 수색에 나섰다.&lt;br&gt;&lt;br&gt;3일 동해해양경찰서에 따르면 전날인 2일 오후 5시 17분쯤 실종자와 연락이 되지 않는다는 신고가 112를 통해 접수됐다.&lt;br&gt;&lt;br&gt;경찰은 이들의 최종 행적을 확인한 결과 강릉 심곡항 인근으로 확인돼 해상 실종 가능성을 염두에 두고 해경에 협조를 요청했다.&lt;br&gt;&lt;br&gt;해경 관계자는 “경비함 3척과 헬기 1대 등을 현장에 투입해 해안가와 해상을 수색 중”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘수도권 오피스텔 무자본 갭투자’로 90억 가로챈 60대女에 징역 12년</title>
-      <link>https://www.chosun.com/national/national_general/2024/12/03/E3IPU7SQNRGHFLER7P4HYN2V6M/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/03/E3IPU7SQNRGHFLER7P4HYN2V6M/</guid>
-      <dc:creator>박정훈 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 03 Dec 2024 04:07:41 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FGZSR7ALDE2HPI6KNAP4BNWSSM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 양천구 서울 남부지법의 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;수도권 일대 오피스텔 수십 채를 ‘무자본 갭투자’로 사들여 금융기관과 전세 임차인들로부터 약 90억원을 떼먹은 60대 여성에게 중형이 내려졌다. &lt;br&gt;&lt;br&gt;서울남부지법 형사합의15부(재판장 양환승)는 3일 특정경제범죄 가중처벌법상 사기 등 혐의를 받는 신모(61)씨에게 징역 12년을 선고했다.&lt;br&gt;&lt;br&gt;이날 재판부는 “범행이 계획적이고 조직적으로 이뤄졌고 피해자 수도 매우 많은데 편취한 금액도 91억으로 거액”이라며 “편취금액 중 일부 대출금 상환 외엔 피해 회복도 거의 제대로 되지 않았다”고 지적했다. 또 “피고인은 동종 범죄로 실형을 선고받아 누범 기간이었음에도 다시 범죄를 저질렀다”면서도 “뒤늦게나마 반성하고 있다는 점은 유리한 양형으로 고려했다”고 설명했다. 누범이란 금고 이상의 형을 받아 그 집행을 종료하거나 면제받은 후 3년 이내 금고 이상에 해당하는 죄를 다시 저지른 이를 이른다. 누범의 형량은 그 죄에 대해 원래 정해진 형량의 최대 2배까지 가중될 수 있다.&lt;br&gt;&lt;br&gt;검찰에 따르면 신씨는 2018년 7월부터 지난해 2월까지 무자본 갭투자로 서울과 경기 등 수도권 소재 오피스텔 27채를 취득한 뒤 이를 통해 보증금 34억원, 주택담보대출금 36억원, 주택 전세자금 20억원 등 총 91억원을 편취한 혐의를 받는다.&lt;br&gt;&lt;br&gt;한편 재판부는 모집책으로 신씨의 범행에 가담하다가 함께 기소된 전모씨에 대해선 징역 1년 6개월을, 다른 모집책 3명에 대해선 징역 1년 6개월에 집행유예 3년을 내렸다. 신씨에게 명의를 제공하며 허위 임차인 역할을 한 6명에겐 징역 1년에 집행유예 2년이 선고됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>4분만에 상공 130m…‘서울달’ 탑승객 100일만에 2만명 돌파</title>
-      <link>https://www.chosun.com/national/national_general/2024/12/03/LPHKCBULKJF7JEWZVWGHMO6HDI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/03/LPHKCBULKJF7JEWZVWGHMO6HDI/</guid>
-      <dc:creator>박진성 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 03 Dec 2024 02:37:18 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7NZKELWE2BNXNOLQYW3L3OZKKE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울달 개장식이 열린 8월 서울 영등포구 여의도 상공에 서울달이 높게 떠 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 여의도 상공에서 한강과 도심을 한눈에 내려다볼 수 있는 가스 기구(벌룬) ‘서울달’이 정식 운영 100일 만에 탑승객 2만명을 돌파했다.&lt;br&gt;&lt;br&gt;서울시는 서울달이 지난 8월 정식 개장 이후 약 석 달 동안 탑승객 2만명, 매출 5억원, 1800회 이상 무사고 비행을 달성했다고 3일 밝혔다.&lt;br&gt;&lt;br&gt;서울달은 헬륨가스의 부력을 이용해 비행하는 ‘가스 기구’다. 기구의 풍선(기낭) 안에 공기보다 가벼워 둥둥 뜨는 헬륨 가스를 채우고 로프를 매달아 130m 상공을 위아래로만 움직인다. &lt;br&gt;&lt;br&gt;승객을 태우기 위해 땅에 내릴 때는 로프를 감았다가 상공에 올라갈 때는 푸는 식으로 운영한다. 프랑스 파리에 있는 명물 ‘발롱 드 파리’와 비슷하다. 운행 시간은 1회 15분, 요금은 성인 기준 2만5000원이다. 화요일~일요일 낮 12시부터 밤10시까지 운영한다.&lt;br&gt;&lt;br&gt;탑승객 2만명 중 20%는 외국인 관광객이었다. 서울시 관계자는 “서울을 대표하는 관광 상품으로 자리매김하고 있다는 뜻”이라고 말했다.&lt;br&gt;&lt;br&gt;탑승객 1383명(외국인 200명 포함)을 대상으로 설문조사를 해보니 탑승 경험은 90.9점을 기록했다. 특히 외국인 탑승객의 만족도 93.6점으로 내국인(90.4점)보다 높았다.&lt;br&gt;&lt;br&gt;서울시는 더 많은 국내외 관광객이 서울달을 탑승할 수 있도록 호텔이나 여행사와 연계한 관광상품을 추진하고 있다. 다자녀 가정 할인 확대 등도 검토할 계획이다.&lt;br&gt;&lt;br&gt;김영환 서울시 관광체육국장은 “서울달은 명실상부한 서울 대표 관광 랜드마크로 자리매김했다”며 “서울달과 같은 체험형 관광 콘텐츠를 확대해 ‘관광 매력도시 서울’을 전 세계에 선보이겠다”고 말했다.&lt;br&gt;&lt;br&gt;길기연 서울관광재단 대표이사는 “서울달을 방문하시는 모든 관광객이 행복한 추억을 만들 수 있도록 안전을 최우선으로 운영하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[속보] 경찰, 서울의소리 압수수색</title>
-      <link>https://www.chosun.com/national/national_general/2024/12/03/ZHJWXOAJVZE3HDC6FS2MBMNUUA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/03/ZHJWXOAJVZE3HDC6FS2MBMNUUA/</guid>
-      <dc:creator>박정훈 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 03 Dec 2024 02:28:43 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JGH3SYV7U5J6JGU72LXG2MN5RU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;백은종 서울의 소리 대표가 지난 10월 31일 서울 서초구 서울중앙지방검찰청에서 윤석열 대통령 부인 김건희 여사 명품백 사건 항고 이유서 제출에 앞서 발언하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰이 인터넷언론 서울의소리에 대한 압수수색을 진행하고 있다.&lt;br&gt;&lt;br&gt;서울경찰청 반부패수사대는 3일 오전 서울 영등포구 서울의소리 사무실 등에서 압수수색 영장을 집행하고 있다.&lt;br&gt;&lt;br&gt;경찰은 최재영 목사와 김대남 전 대통령실 행정관 명예훼손 혐의와 관련해 서울의소리를 압수수색하고 있는 것으로 파악됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>동남아서 유튜브 생중계...300억대 도박장 운영 34명 덜미</title>
-      <link>https://www.chosun.com/national/regional/chungcheong/2024/12/03/FIQOYSSZNVH5NGNAFQLIHVZA4A/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2024/12/03/FIQOYSSZNVH5NGNAFQLIHVZA4A/</guid>
-      <dc:creator>신정훈 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 03 Dec 2024 02:47:18 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XXUVVMZNRZJVZJ7RRYR7KJN5C4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;충북 경찰이 검거한 일당이 동남아에서 카지노 게임을 실시간 중계하는 영상/뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;동남아에서 원격도박장을 운영하고 도박에 참여한 34명이 무더기로 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;충북경찰청 사이버범죄수사대는 도박 공간 개설 등 혐의로 운영진 A(40대)씨 등 4명을 구속하고, 딜러등 30명은 불구속 송치했다고 3일 밝혔다.&lt;br&gt;&lt;br&gt;A씨 등은 2022년부터 지난해까지 동남아 지역에 사무실을 차려 바카라 등의 도박에 원격으로 참여할 수 있도록 다수의 유튜브 채널을 운영한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;이들은 유튜브로 실시간 중계를 하며 채팅을 통해 국내 도박 참여자를 대신해 베팅하는 등의 방식으로 도박판을 운영한 것으로 조사됐다. 이들이 운영한 유튜브 채널은 20여개에 달하며 범행 기간 도박액수는 300억원 규모로 조사됐다.&lt;br&gt;&lt;br&gt;경찰 조사결과 이들은 온라인 상담, 환전, 재무 관리 등 역할을 나눠 조직적으로 범행을 이어온 것으로 드러났다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “국내에 있던 피의자들을 먼저 검거했다”며 “범행에 가담한 나머지 운영진들도 끝까지 추적해 모두 붙잡을 방침”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>연달아 '기습 한파'...원인은 느슨해진 제트기류</title>
       <link>https://www.chosun.com/national/transport-environment/2024/12/03/S622AZLUYBBEZCP5O7H4VQVWDM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2024/12/03/S622AZLUYBBEZCP5O7H4VQVWDM/</guid>
@@ -907,24 +927,6 @@
       <description/>
       <pubDate>Tue, 03 Dec 2024 02:38:32 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UAJXWMCRGVH23PKKOMDE6S7XBM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;영하권 추위가 시작된 3일 오전 서울 광화문네거리에서 시민들이 두터운 옷을 입고 출근길 발걸음을 옮기고 있다. /박상훈 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;하루 아침에 수은주가 10도 가량 급격히 떨어지는 ‘기습 한파(寒波)’가 연달아 나타나고 있다. 온난화 여파로 북극 찬 바람을 막아주는 고위도 ‘제트 기류’가 망가진 영향으로 분석된다.&lt;br&gt;&lt;br&gt;기상청에 따르면, 북쪽에서 찬 공기가 남하해 들어오며 3일 중부지방을 중심으로 전날보다 아침 기온이 5~10도 떨어져 영하권에 들었다. 이날 서울은 기온이 영하 2.2도까지 내려갔고, 찬 바람 탓에 체감기온은 영하 6.7도까지 떨어졌다.&lt;br&gt;&lt;br&gt;올겨울 초반 우리나라의 추위 양상은 중국 쪽 대륙고기압에서 한반도로 불어오는 찬 바람이 마치 깔대기를 통과하듯 압축돼 들어오고 있다는 것이다. 원인은 제트기류에서 떨어져나온 거대 공기덩어리인 ‘절리(切離) 저기압’이 한반도 북쪽에 자주 자리하고 있는 것이 꼽힌다. 제트기류는 고위도에서 서에서 동으로 부는 강한 바람으로, 북극 한기의 남하를 막는 방어막 역할을 한다. 그런데 온난화 여파로 이 기류가 느슨해지면서 공기덩어리가 자주 뚝 떨어져나오고 있다.&lt;br&gt;&lt;br&gt;북극 한기를 머금은 이 공기덩어리는 무거워서 잘 움직이지 않는다. 한반도 북쪽에 일종의 ‘거대 공기 장애물’이 생기는 효과가 생긴다. 이에 북쪽에서 한반도로 찬 공기가 들어올 때 바람 길이 좁아지게 되고, 찬 공기가 좁은 구간을 통과하는 과정에서 바람의 압력이 강해지며 우리나라로 들어오는 찬 바람 강도 역시 세지는 것이다.&lt;br&gt;&lt;br&gt;바람길이 형성되는 모양에 따라 이렇게 강해진 찬 바람이 따뜻한 서해상을 통과하게 되면 지난달 27~28일처럼 폭설이 내리게 되고, 내륙으로 곧장 들어오면 한파를 야기하게 된다. 지난달 29일 폭설 후 기습 한파가 몰아친 것도 바람길이 서해상을 향하다가 내륙으로 방향을 틀면서 찬 바람이 곧장 한반도로 들어왔기 때문이다. 이런 ‘절리 저기압’이 자주 형성될수록 ‘기습 한파’도 자주 나타날 수 있다.&lt;br&gt;&lt;br&gt;한편 4일에도 한파가 이어져 전국 기온은 최저 영하 6도에서 영상 3도, 최고 2~10도의 분포를 보일 것으로 전망됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>임영웅, 사랑의 열매에 3억 기부</title>
-      <link>https://www.chosun.com/national/people/2024/12/03/7PT674YCBBDWLGEVQXHXVLY6F4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/12/03/7PT674YCBBDWLGEVQXHXVLY6F4/</guid>
-      <dc:creator>김보경 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 03 Dec 2024 02:12:12 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XUGD6B4T6XKX5W4BBIDDXQBTOA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;가수 임영웅. /조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;임영웅이 사랑의 열매에 3억원을 기부했다.&lt;br&gt;&lt;br&gt;사랑의 열매는 지난 2일 가수 임영웅이 팬클럽 ‘영웅시대’ 이름으로 3억원을 기부했다고 3일 밝혔다. 임영웅이 낸 2억원과 소속사 물고기뮤직이 낸 1억원을 더해 조성된 기부금이라고 한다.&lt;br&gt;&lt;br&gt;임영웅은 지난 2021년부터 사랑의 열매에 꾸준히 기부해 오고 있다. 임영웅이 사랑의 열매로 전달한 누적 기부액은 지난 5월까지만 해도 9억 원에 달했다. 임영웅은 지난 10월 12일에 대전월드컵경기장에서 열린 ‘하나은행 자선축구대회’ 티켓 판매 수익금 12억원 전액을 월드비전과 사랑의 열매에 기부하기도 했다.&lt;br&gt;&lt;br&gt;사랑의 열매에 따르면 기부금은 기부자 임영웅의 뜻에 따라 저소득 취약계층이 따뜻한 겨울을 보낼 수 있도록 사용될 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>동국대 권오춘 석좌교수 장학금 기부...모교에 누적 113억</title>
-      <link>https://www.chosun.com/national/people/2024/12/03/BS6CA6HGSRAVLKOJQRK7I7HAU4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/12/03/BS6CA6HGSRAVLKOJQRK7I7HAU4/</guid>
-      <dc:creator>김보경 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 03 Dec 2024 02:13:28 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WIREMELFNJECPAGWZ4T6KPKAMI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;권오춘 동국대 교육대학원 석좌교수. /동국대&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;권오춘 동국대 교육대학원 교수가 동국대 사범대·예술대 학생들을 위해 장학금을 전달했다.&lt;br&gt;&lt;br&gt;동국대는 지난달 26일 ‘2024년도 초허당 사범대학 및 미술대학 장학증서 수여식’을 진행했다고 3일 밝혔다. ‘초허당 장학금’은 권 교수의 호(號)를 따 명명한 장학기금이다. 이번 장학금은 사범대•예술대 3학년 재학생 중 경제적 형편이 어려운 학생을 단과대 별 1명씩 선정해, 총 11명 학생에게 각 100만원씩 수여됐다.&lt;br&gt;&lt;br&gt;동국대에 따르면 권 교수는 2005년 서울 양재동 소재 오피스텔 5채 기부를 시작으로 모교 발전에 힘을 보태고 있다. 권 교수가 동국대로 전달한 기부 총액은 환산하면 약 113억 원에 달한다고 한다. 기부금은 권 교수의 뜻에 따라 동국대 내 여러 단과대 학생들이 수혜를 입을 수 있도록 전달될 전망이다.&lt;br&gt;&lt;br&gt;지난달 26일 열린 장학증서 수여식에 권 교수는 참석하지 못했다. 최응렬 교무부총장은 “후배 사랑을 실천 중이신 권 교수님께 다시 한 번 감사드린다”면서 “오늘은 장학금을 받는 사람이지만, 장학생들이 나중에는 권 교수님처럼 장학금을 주는 기쁨을 느낄 수 있는 인재로 성장하길 바란다”고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7RC4V7V3SZEDVBVWBOT52WAVUE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 26일 동국대 ‘2024년도 초허당 사범대학 및 미술대학 장학증서 수여식'에서 장학금을 받은 학생들이 장학증서를 펼쳐 보이고 있다. 장학금 기부자인 권오춘 교수가 참석하지 못해 최응렬 동국대 교무부총장이 함께 기념사진을 촬영했다. /동국대&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[단독] ‘공천 거래 의혹’ 명태균·김영선 오늘 기소</title>
