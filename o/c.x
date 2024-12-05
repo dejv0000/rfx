@@ -13,6 +13,95 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>현대차 노조, 5~6일 부분 파업… “정권 퇴진 촉구”</title>
+      <link>https://www.chosun.com/national/regional/2024/12/05/4BSLY7DCIFGPRIUGI6PN5JEJFM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/12/05/4BSLY7DCIFGPRIUGI6PN5JEJFM/</guid>
+      <dc:creator>울산=김주영 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 05 Dec 2024 03:31:06 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KAER4ELVDRGI3F7CCXORFM4COM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;울산 북구 현대자동차 울산공장 정문에서 현대차 직원들이 퇴근을 하는 모습. /김동환 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;현대자동차 노동조합이 지난 4일 비상계엄을 선포했다가 해제한 윤석열 대통령의 퇴진을 촉구하며 5일부터 이틀간 부분파업을 벌이기로 했다. 현대차 노조는 조합원 4만3000여명이 소속돼 국내 단일 사업장 노조 가운데 최대 규모다.&lt;br&gt;&lt;br&gt;5일 현대차에 따르면 노조는 이날 오전 확대운영위원회를 열어 이틀간 오전 근무조와 오후 근무조가 2시간씩 부분파업을 하기로 했다고 밝혔다.&lt;br&gt;&lt;br&gt;이에 따라 오전 근무조 조합원들은 퇴근시간 2시간 전인 오후 1시 30분부터 파업에 들어가 이날 오후 3시부터 울산 태화강역 광장에서 열리는 민주노총 총파업 결의대회에 참가할 예정이다.&lt;br&gt;&lt;br&gt;오후 출근조는 출근 시간을 오후 3시 30분에서 5시 30분으로 2시간 늦추고 총파업 결의대회에 동참한다.&lt;br&gt;&lt;br&gt;현대차 노조의 이번 부분파업은 상부단체인 금속노조의 윤 정권 퇴진 투쟁 지침에 따른 것이다. 현대차 관계자는 “근로 조건 개선과는 무관한 불법 파업”이라고 말했다.&lt;br&gt;&lt;br&gt;금속노조는 지난 4일 불법 계엄령을 선포한 윤석열 대통령 퇴진을 요구하며 전체 조합원에게 5일과 6일 주·야 2시간 이상 파업 돌입 지침을 내렸다.&lt;br&gt;&lt;br&gt;현대차 노조는 전날 문용문 지부장 명의로 긴급 성명서를 내고 “한밤중 어처구니없는 비상계엄령 선포는 자신의 정치적 생명 연장과 대통령실 특수활동비 전액 삭감 등에 대한 보복으로 국회 마비가 목적이었음이 드러났다”며 “스스로 대통령으로서 자격이 없음을 자백했다”고 주장했다.&lt;br&gt;&lt;br&gt;이어 “위법적인 계엄령 선포는 국민을 상대로 한 선전포고이기에 책임을 물을 것”이라며 “민주주의 회복과 윤석열 정권의 독재를 막기 위해 끝까지 싸우겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>올해 수능 만점자 11명... 국·수·영 작년보다 쉬웠고, 사탐은 어려웠다</title>
+      <link>https://www.chosun.com/national/education/2024/12/05/PYCVWOHMS5BZBJLZL2D4RXJ2UY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/education/2024/12/05/PYCVWOHMS5BZBJLZL2D4RXJ2UY/</guid>
+      <dc:creator>오주비 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 05 Dec 2024 05:00:18 +0000</pubDate>
+      <content:encoded>2025학년도 대학수학능력시험은 국어·수학·영어 모두 작년보다 쉬웠던 것으로 5일 확인됐다. 작년보다 국어와 수학 만점자가 크게 늘었고, 절대평가인 영어도 1등급 비율이 작년보다 증가했다. 반면 사회탐구 과목들은 대체로 작년보다 어려웠던 것으로 나타났다. 올해 수능 전 과목 만점자는 총 11명이다. 작년 수능에선 전 과목 만점자가 1명(재수생)뿐이었다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4XIDNRMQZJOKXK22XO7GUWILBI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 14일 오후 서울 종로구 경복고에서 수능을 마친 수험생들이 고사장에서 나오고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 한국교육과정평가원이 발표한 수능 채점 결과를 보면, 국어 표준점수 최고점은 139점, 수학은 140점이었다. 작년 수능 때보다 각각 11점, 8점 하락했다. 표준점수는 응시자 성적(원점수)을 시험 난도에 따라 보정한 것이다. 표준점수 최고점은 시험이 어려울수록 높아지고, 쉬울수록 낮아진다. 올해 수능 국어와 수학 표준점수 최고점이 작년보다 낮다는 건, 시험이 작년보다 쉬웠다는 것을 의미한다.&lt;br&gt;&lt;br&gt;이에 따라 국어와 수학 만점자도 크게 늘었다. 국어 만점자는 1055명으로, 2022학년도 문·이과 통합 수능 도입 이래로 가장 많았다. 종로학원에 따르면 2022학년도엔 국어 만점자가 28명, 2023학년도 371명, 2024학년도(작년) 64명이었다. 수학 만점자는 1522명으로 작년(612명)보다 2.5배 늘었다. 영어는 원점수 90점 이상에 해당하는 1등급을 받은 학생이 2만8587명(6.22%)으로 작년보다 7744명 늘었다.&lt;br&gt;&lt;br&gt;반면 사회탐구는 9과목 중 6과목의 표준점수 최고점이 작년보다 높게 나왔다. 과학탐구는 8과목 중 2과목만 표준점수 최고점이 작년보다 높았다.&lt;br&gt;&lt;br&gt;올해 수능에서 이과생들이 과학탐구보다 공부량이 적은 사회탐구를 선택하는 ‘사탐런’ 현상이 작년보다 두드러졌다. 사탐과 과탐을 각각 한 과목씩 선택해 치른 수험생은 4만7723명으로, 작년(1만5927명)보다 약 3배 증가했다. 수능 수학에서 미적분 또는 기하를 선택한 학생은 통상 이과생으로 분류된다. 이번 수능에서 미적분 또는 기하를 치고 사탐만 두 과목을 선택한 경우는 3만8927명으로, 작년(1만9785명)보다 약 2배 증가했다. 과탐만 두 과목을 선택한 경우는 작년보다 약 4만명 줄어든 16만여명이다.&lt;br&gt;&lt;br&gt;평가원에 따르면 올해 수능 전 과목 만점자는 전국에 모두 11명이다. 이 중 재학생은 4명, 졸업생은 7명이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/4XIDNRMQZJOKXK22XO7GUWILBI.jpg?width=6000&amp;height=4000&amp;auth=be51304a12f47a83ce55b11093de2d992bcc316efee376984602a1bb4ef09077&amp;smart=true" type="image/jpeg" height="4000" width="6000">
+        <media:description type="plain">[서울=뉴시스] 김명년 기자 = 14일 오후 서울 종로구 경복고등학교에서 대학수학능력시험을 마친 수험생들이 고사장에서 나오고 있다. 2024.11.14. kmn@newsis.com</media:description>
+        <media:credit role="author" scheme="urn:ebu">kmn</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>[속보] “계엄군, 선관위 진입해 휴대전화 압수... 사법부도 장악 시도”</title>
+      <link>https://www.chosun.com/national/national_general/2024/12/05/EXBMDLGJ55H5LBZEFQKQ3IZTBQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/05/EXBMDLGJ55H5LBZEFQKQ3IZTBQ/</guid>
+      <dc:creator>최연진 기자, 주형식 기자, 구아모 기자, 방극렬 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 05 Dec 2024 04:50:12 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FUM6L4S5ISM6HMTWIEVJ7BU4V4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령의 비상계엄 해제 요구 결의안이 국회 본회의에서 통과된 4일 새벽 서울 서초구 대법원 청사가 불을 밝히고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 대통령이 ‘비상 계엄’을 선포했던 지난 3일 심야, 계엄사령부(사령관 박안수 육군참모총장)는 선거관리위원회와 사법부도 장악하려고 시도했던 것으로 나타났다.&lt;br&gt;&lt;br&gt;5일 국회 행안위에 따르면, 계엄사는 지난 3일 중앙선거관리위원회에 10여명 병력을 투입해 야간 당직자들의 휴대전화를 압수했던 것으로 나타났다. &lt;br&gt;&lt;br&gt;또 5일 대법원 법원행정처에 따르면, 대법원은 지난 3일 윤 대통령의 비상계엄 선포와 계엄사령관의 ‘포고령 1호’ 발령 이후 계엄사 측으로부터 법원 사무관 1명을 보내달라는 파견 요청을 접수받았다. 당시 법원행정처는 비상계엄 선포에 따라 조희대 대법원장 지시로 천대협 법원행정처장과 배형원 차장, 실장급 간부 등을 소집해 계엄 관련 긴급 회의를 진행하고 있었다.&lt;br&gt;&lt;br&gt;법원 안전관리관은 계엄사의 파견 요청을 회의에 보고했는데, 대법원은 국회 본회의에서 비상계엄 해제 요구 결의안이 가결된 뒤였다고 설명했다. 보고를 받은 대법원은 계엄사의 요청에 응하지 않기로 결정하고 사무관을 파견하지 않았다.&lt;br&gt;&lt;br&gt;계엄법상 비상계엄이 선포되면 계엄사령관은 계엄 지역의 모든 행정사무와 사법사무를 관장하게 된다. 계엄사령관은 행정기관 및 사법기관을 지휘·감독할 수 있고, 필요하면 소속 직원의 파견을 요청할 수 있다. 이에 따라 사법부에 직원 파견을 요청한 것으로 보인다.&lt;br&gt;&lt;br&gt;이날 법원행정처 회의에서는 계엄 선포 요건, 효력 등에 대한 간략한 법률적 검토 등이 이뤄진 것으로 알려졌다. 다만 주로 계엄 관련 대외적 요구에 대응하고, 각급 법원의 재판을 어떻게 진행할지 등을 위한 내부적 차원의 논의였던 것으로 전해졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>LPG통 잘라 고기 구워먹으려다 ‘펑’… 남성 2명 얼굴 화상</title>
+      <link>https://www.chosun.com/national/national_general/2024/12/05/5BSBSDN3VJAPNDXXJKVRLXLRV4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/05/5BSBSDN3VJAPNDXXJKVRLXLRV4/</guid>
+      <dc:creator>최혜승 기자 </dc:creator>
+      <description/>
+      <pubDate>Thu, 05 Dec 2024 05:06:07 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SVYB5NRAVMV4THUOH6XEAARULM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한 가스배달 업체 직원이 LPG가 담긴 가스통을 옮기고 있다. 사진은 기사 내용과 관련 없음./ 조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 구리시의 한 농막에서 액화석유가스(LPG)통이 터지며 2명이 화상을 입는 사고가 발생했다.&lt;br&gt;&lt;br&gt;5일 경기소방재난본부 등에 따르면, 지난 4일 오후 1시쯤 구리시의 한 농막에서 LPG통 밸브 부분이 폭발했다.&lt;br&gt;&lt;br&gt;이 사고로 근처에 있던 남성 A(60)씨와 B(59)씨가 얼굴에 화상을 입고 병원으로 옮겨졌다.&lt;br&gt;&lt;br&gt;친구 사이인 두 사람은 빈 가스통을 반으로 잘라 아랫부분을 고기 구워 먹는 화로로  쓰기 위해 농막에 가져온 것으로 파악됐다.&lt;br&gt;&lt;br&gt;이들은 절단 작업 전 남은 가스를 빼 내기 위해 밸브를 열어 뒀는데, 이때 나온 가스가 주변에 피워놓은 불과 닿으며 폭발이 일어난 것으로 당국은 보고 있다.&lt;br&gt;&lt;br&gt;A씨와 B씨는 생명에는 지장이 없는 것으로 전해졌다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[속보] 국수본부장 “김용현 전 국방부장관 출국금지 지시”</title>
+      <link>https://www.chosun.com/national/national_general/2024/12/05/BESGDZWXRZBQRA3OXCKC66WG3A/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/05/BESGDZWXRZBQRA3OXCKC66WG3A/</guid>
+      <dc:creator>박진성 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 05 Dec 2024 04:28:11 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YPCLYZVLLTNTXUEJBW3OSXBI7M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김용현 국방부 장관이 지난 11월 28일 오전 국방위원회 전체회의에서 의원 질의에 답변하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;우종수 국가수사본부장은 5일 김용현 전 국방부 장관의 해외 도피설과 관련해 “긴급히 필요한 조치를 조속히 하라고 안보수사단장에게 지시했다”고 밝혔다.&lt;br&gt;&lt;br&gt;우 본부장은 이날 국회 행정안전위원회 긴급 현안질의에서 더불어민주당 의원들의 ‘김 전 장관에 대해 출국금지를 요청할 의향이 있느냐’는 질의에 “출국금지 외에도 긴급히 할 조치가 있으면 빨리 검토해 시행하라고 지시했다”며 이같이 말했다.&lt;br&gt;&lt;br&gt;이는 민주당 양부남 의원이 “김 장관이 (해외로) 도망간다고 하는데 출국금지 조치를 금방 할 수 있다”면서 “지금이라도 당장 실무자에게 전하라”라고 요청한 데 따른 답변이다.&lt;br&gt;&lt;br&gt;우 본부장은 “지금 당장 나가서 하셔도 된다”는 양 의원 말을 듣고 낮 12시 32분경 행안위 회의장에서 퇴장했다가 다시 입장했다.&lt;br&gt;&lt;br&gt;앞서 민주당은 면직안 재가로 국회 국방위원회 긴급 현안질의에 불참하게 된 김용현 전 장관의 해외 도피 가능성을 제기했다. 야권에서는 “김용현 해외 도피가 확실시된다”며 “즉각 출국금지를 청한다”는 주장이 제기됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>박안수 “국회 진입 통제 안해” 조지호 “박안수가 요청”</title>
+      <link>https://www.chosun.com/national/2024/12/05/EZLCY3MC6BE5LIXZIBZKYYZCVY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2024/12/05/EZLCY3MC6BE5LIXZIBZKYYZCVY/</guid>
+      <dc:creator>주형식 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 05 Dec 2024 04:49:53 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RS5IVR5KPBN2PP3WBSAUQ6TKAE.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;계엄사령관을 맡았던 박안수 육군참모총장이 5일 오전 서울 여의도 국회에서 열린 국방위원회 전체회의 비상계엄 선포 경과 및 병력동원 관련 현안질의에 출석해 의원 질의를 듣고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 3일 윤석열 대통령의 비상계엄 선포 후 국회 통제가 이뤄진 것과 관련해, 당시 계엄사령관이었던 박안수 육군참모총장과 조지호 경찰청장의 주장이 배치돼 논란이다. 국회를 한때 전면 통제했던 조지호 청장은 박안수 당시 계엄사령관이 밤 11시 30분쯤 직접 전화를 걸어 “국회 전체를 통제해줬으면 좋겠다”고 요청했다고 주장했다. 반면 박 총장은 국회 병력 투입 과정을 몰랐다고 주장했다.&lt;br&gt;&lt;br&gt;박안수 육군참모총장은 5일 국회 국방위원회 긴급 현안질의에 출석해 국회 병력 투입 과정을 몰랐다고 주장했다. 그는 계엄군의 국회 투입에 대해서도 “누가 결정했는지 정확히 모른다. 제가 통제 못했다”고 말했다. 중앙선거관리위원회 청사에 계엄군이 투입된 사실도 “몰랐다”고 답했다. 그러면서도 “윤석열 대통령에게 직접 받은 명령은 없다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/USE5Z2PAN5IFPADBKKQ7BABYDU.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;조지호 경찰청장이 5일 오전 서울 여의도 국회에서 열린 비상계엄 관련 행정안전위원회 전체회의에 출석해 의원 질의에 답하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;반면 같은날 국회 행정안전위원회 긴급 현안질의에 출석한 조지호 경찰청장은 비상계엄 당시 국회 출입통제와 관련해 박안수 당시 계엄사령관의 요청을 받았다고 주장했다. 조 청장은 “처음에는 제가 법적 근거가 없어서 못 한다고 거부했다”며 이후 포고령 내용을 확인하고 서울경찰청에 전체 국회 출입통제 지시를 내렸다고 밝혔다. 포고령 1호에 있던 ‘국회와 지방의회, 정당의 활동과 정치적 결사, 집회, 시위 등 일체의 정치활동을 금한다’는 규정을 근거로 했다고 덧붙였다.그러면서 “계엄사령관의 포고령이 발령되면 모든 행정기관은 이를 따를 의무가 생긴다”고 강조했다.&lt;br&gt;&lt;br&gt;이에 김성회 민주당 의원이 “박안수 사령관은 지금 국회 병력 투입을 지시하지 않았다고 말했다. 직접 통화한 것이냐”고 묻자 조 청장은 “그렇다”고 답했다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/RS5IVR5KPBN2PP3WBSAUQ6TKAE.JPG?width=5472&amp;height=3648&amp;auth=33497dc41e7e2d7f2b8daf99c491f2adabf9bf7096d4e74c0f566d8e3b7e7026&amp;smart=true" type="image/jpeg" height="3648" width="5472">
+        <media:description type="plain">(서울=뉴스1) 이광호 기자 = 계엄사령관을 맡았던 박안수 육군참모총장이 5일 오전 서울 여의도 국회에서 열린 국방위원회 전체회의 비상계엄 선포 경과 및 병력동원 관련 현안질의에 출석해 의원 질의를 듣고 있다. 2024.12.5/뉴스1</media:description>
+        <media:credit role="author" scheme="urn:ebu">(서울=뉴스1) 이광호 기자</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>중앙지검 “민주당 주도 탄핵 남용으로 민생범죄 수사마비 우려”</title>
+      <link>https://www.chosun.com/national/court_law/2024/12/05/LFZSLUZ6GVGSVJTYEJJTBGOJOA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/05/LFZSLUZ6GVGSVJTYEJJTBGOJOA/</guid>
+      <dc:creator>유희곤 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 05 Dec 2024 04:49:55 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6UUQCFCT25LCDKAKKIXBCWNZSU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;5일 국회 본회의에서 최재해 감사원장, 서울중앙지검 이창수 지검장·조상원 4차장·최재훈 반부패수사2부장에 대한 탄핵소추안이 가결되고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지검이 5일 이창수 지검장·조상원 4차장·최재훈 반부패수사2부장에 대한 탄핵소추안이 국회 본회의에서 가결되자 주요 사건과 민생범죄 수사 마비가 우려된다고 비판했다.&lt;br&gt;&lt;br&gt;중앙지검은 취재진에게 배포한 입장문에서 “특정사건에 대한 봐주기 수사 등을 해 평등원칙과 정치적 중립 의무 등을 위반했다는 게 탄핵 사유인데, 아무리 소추안을 봐도 사건 처리에 대한 불복을 바라는 것일뿐 헌법상 탄핵 사유라고 보기 어렵다”고 했다.&lt;br&gt;&lt;br&gt;중앙지검 4차장 산하 반부패수사2부는 지난 10월 17일 도이치모터스 주가 조작 의혹 사건과 관련해 윤석열 대통령 배우자 김건희 여사를 무혐의 처분했다.&lt;br&gt;&lt;br&gt;중앙지검은 “검사가 법과 원칙에 의해 수사하고 증거와 법리에 따라 사건을 처리한 것은 탄핵 사유가 될 수 없다”면서 “(더불어민주당의) 탄핵소추권 남용으로 검찰 지휘체계가 무너져 주요 현안사건뿐 아니라 유사수신·불법사금융·보이스피싱·디지털성범죄·마약사건 등 국민의 생명·건강·재산과 관련된 민생범죄 수사도 마비가 우려된다”고 했다.&lt;br&gt;&lt;br&gt;그러면서 “엄중한 시기에 직무대행 체제에서 국민 피해가 발생하지 않도록 각종 민생사건 등에 대한 수사와 재판을 차질없이 진행하도록 최선을 다하겠다”고 했다.&lt;br&gt;&lt;br&gt;이날 국회의 탄핵 의결로 탄핵 대상 검사들의 직무는 정지되고, 서울중앙지검은 당분간 직무대행 체제로 운영된다. 이창수 지검장 업무는 박승환 1차장이 맡고, 조상원 4차장 직무는 공봉숙 2차장과 이성식 3차장이 분담한다. 최재훈 부장 업무는 이승학 반부패수사3부장이 한다.&lt;br&gt;&lt;br&gt;퇴직 검사 모임인 검찰동우회도 이날 &amp;lt;더불어민주당의 검사들에 대한 탄핵소추를 강력 규탄한다&amp;gt;는 제목의 입장문을 내고 민주당의 탄핵 의결을 “법치주의의 근간인 검찰의 독립성과 중립성을 파괴하는 반헌법적 만행”이라고 비판했다. 그러면서 헌법재판소에 탄핵 소추를 즉각 각하하라고 요구했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>동덕여대 총학생회 본관 점거 농성 종료...”불법행위 규정, 더이상 어려워”</title>
+      <link>https://www.chosun.com/national/national_general/2024/12/05/YV4DUEGFXZF35MU6QCVCWMYQL4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/05/YV4DUEGFXZF35MU6QCVCWMYQL4/</guid>
+      <dc:creator>김보경 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 05 Dec 2024 04:07:21 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/E2Q2ZZVRANKEXPCNITHVOWJSPM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;3일 오후 남녀공학 전환을 요구하는 문구가 가득 적힌 서울 성북구 동덕여대 캠퍼스 도로 위로 한 학생이 걸어가고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;동덕여대 총학생회가 캠퍼스 본관 건물 점거 농성을 중단했다.&lt;br&gt;&lt;br&gt;동덕여대 총학생회는 지난 4일 오후 12시 입장문을 내고 “대학본부에서 본관점거를 불법 행위로 규정하고 있으므로 본관을 더 이상 점거하기 어렵다”면서 “금일 새벽까지 진행된 본관 점거를 해제하는 것으로 결정했다”고 밝혔다. 그러면서 본부 측과 면담을 진행하고 요구 사안을 논의하겠다고 했다. 지난달 11일부터 본관 건물 점거 농성을 진행한 지 23일 만이다.&lt;br&gt;&lt;br&gt;그간 총학 측은 ‘남녀공학 전환 논의를 철회하라’는 입장을 유지해왔다. 지난달 말 학교 측과 총학이 수차례 면담하며 협상 물꼬가 트일 것으로 보였지만 총학생회는 본관 점거 농성을 이어갔고, 지난달 25일 면담 이후에는 “학교 측은 남녀공학 전환 논의를 완전히 철회하라”는 강경한 입장을 밝혔다.&lt;br&gt;&lt;br&gt;총학이 갑작스럽게 본관 점거를 철회하기로 결정한 데에는 학교 측에서 취한 형사 조치가 영향을 끼친 것으로 풀이된다. 지난달 28일 학교 측은 서울북부지법에 본관 점거 관련 가처분소송을 냈고, 총학생회장을 포함해 학생 21명을 서울지방경찰청에 고소했다. 학생들은 공동재물손괴, 공동건조물침입, 업무방해, 공동퇴거불응 혐의를 받는다.&lt;br&gt;&lt;br&gt;본관 점거 철회에 따라 ‘동덕여대 사태’는 일단락될 것으로 전망된다. 이른바 ‘동덕여대 사태’는 지난달 7일 학교 측이 공학 전환 논의를 진행 중이라는 소식이 알려지면서 촉발됐다. 총학 공지를 통해 해당 소식이 전해지자 학생들은 학교 건물을 점거하고 캠퍼스 곳곳에 래커 낙서를 하거나 기물을 파손하면서 학교 측과 형사 처벌을 놓고 대치해왔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>겨울철 추위 피해 車엔진룸 찾는 길고양이들… 사고 예방법은</title>
+      <link>https://www.chosun.com/national/national_general/2024/12/05/CZTYQ76PWZHQZNOBP474HKARV4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/05/CZTYQ76PWZHQZNOBP474HKARV4/</guid>
+      <dc:creator>박선민 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 05 Dec 2024 04:46:53 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/455Z7UDZJZAIFE2YAK5ZTXVG7U.png"&gt;&lt;figcaption&gt;&lt;small&gt;/부산동물사랑길고양이보호연대&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;겨울철 길고양이가 추위를 피하고자 차량 엔진룸 등에 숨어드는 경우가 종종 발생하는 가운데, 한 동물단체가 이로 인한 피해를 예방하기 위한 캠페인을 전개했다.&lt;br&gt;&lt;br&gt;부산동물사랑길고양이보호연대는 지난달 28일 길고양이가 겨울철 추위를 피하기 위해 차량본네트 등에 들어갔다가 엔진룸에서 발생하는 열로 인해 화상을 입거나 죽는 사례를 전하며 이를 예방하기 위한 ‘모닝노크 4단계’ 캠페인을 공개했다.&lt;br&gt;&lt;br&gt;캠페인에는 ▲시동 전 똑!똑!똑! 엔진룸 두드리기 ▲차 문 크게 닫기 ▲좌석에 앉아 발 구르기 ▲경적 울리기 등 4개 단계를 통해 길고양이가 인척을 느끼고 달아날 수 있도록 하는 내용이 담겼다. 단체 측은 단체 측은 차주도 차량 손실 피해를 보기도 하고 일부 카센터에서는 끔찍한 모습을 봐야 하기 때문에 수리를 꺼리기도 한다며 이를 막기 위해 이번 캠페인을 계획했다고 덧붙였다.&lt;br&gt;&lt;br&gt;단체 측은 지난 1일부터 부산 16개구 반려인들과 관할 구청 동물부서팀과 함께 캠페인을 시민들에게 확산하기 위해 거리에 나서고 있다. 부산뿐 아니라 밀양, 서울 성북구에서도 함께 참여 중이다. 앞으로 모닝노크 캠페인을 전국으로 확산시키겠다는 계획이다.&lt;br&gt;&lt;br&gt;실제로 고양이가 차량 엔진룸에 들어가는 사례는 추운 겨울철에 특히 자주 발생한다. 강원도소방본부에 따르면, 2019년부터 3년간 강원도 내에서 자동차 엔진룸에 들어간 고양이를 대상으로 진행한 구조활동은 총 104건인데, 이 가운데 34.6%인 36건이 날씨가 추워지는 겨울철에 집중됐다.&lt;br&gt;&lt;br&gt;문제는 고양이가 엔진룸에 들어간 걸 모르고 시동을 켤 경우, 사고가 발생할 수 있다는 점이다. 고장을 유발해 차량이 멈추거나, 주행 중 고양이가 엔진룸에서 갑자기 튀어나와 로드킬이나 2차 교통사고로 이어지는 등의 사고가 발생할 수 있다. 이 때문에 소방당국이나 동물단체 등은 매년 겨울철이 되면 운전 전 고양이가 차량 내부에 들어왔는지 여부를 확인하라고 요구하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>[단독] 김영선, 21대 총선 때도 정치자금법 위반 의혹… 明에 “빌린 3000만원 진술 말아달라” 말맞추기 시도</title>
       <link>https://www.chosun.com/national/court_law/2024/12/05/GTXQ3LP24FGAFBE4OKO75MOQYE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/05/GTXQ3LP24FGAFBE4OKO75MOQYE/</guid>
@@ -811,63 +900,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Z5K6BUAWUJRJJKSZHFDJFUUZVE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울대학교 정문. /서울대 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국회가 윤석열 대통령의 비상계엄 해제 요구 결의안이 가결된 4일 서울대 교수회가 긴급성명서를 내놨다.&lt;br&gt;&lt;br&gt;서울대 교수회는 4일 오전 1시 44분쯤 교수회장 명의의 긴급성명서를 내고 “3일 한밤중에 발생한 정치적 사변을 심각하게 우려한다”며 “정부와 국회는 국민의 뜻을 겸허하게 받들어 헌법에 따른 절차를 준수해 비정상적인 상황을 신속히 종식시키기를 엄중하게 요구한다”고 했다.&lt;br&gt;&lt;br&gt;또 “이 사태로 인해 학교의 정상적인 학사운영을 방해하는 어떤 조치도 서울대 평교수들은 강력히 거부한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[속보] 무장 계엄군, 국회 본관 유리창 깨고 진입</title>
-      <link>https://www.chosun.com/national/national_general/2024/12/04/ZSNDZXOTXFBYRPS3GOTS7FCUYY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/04/ZSNDZXOTXFBYRPS3GOTS7FCUYY/</guid>
-      <dc:creator>고유찬 기자, 강지은 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 03 Dec 2024 15:15:10 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/S5EAYRIXTNAKXHDBB2CD3SM3OU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;4일 0시쯤 국회 본관으로 진입을 시도하고 있는 계엄군. /고유찬 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;4일 0시 35분쯤 국회의사당 본관에 계엄군 20여명이 국회 본관에 유리창을 부수고 진입했다. 이날 자정쯤 야시경 및 K1 기관단총을 소지한 무장 계엄군은 헬기를 타고 국회 본관에 착륙했다.&lt;br&gt;&lt;br&gt;이날 국회 곳곳에서 경찰과 시민 대치도 벌여졌다. 시민들은 “계엄을 철폐해라” “경찰은 시민을 지키라”고 외치며 국회 진입을 시도했고, 이를 막는 경찰과 곳곳에서 물리적 충돌이 빚어졌다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OMF4XXV47RGAZFIUSJMXRNQVPQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;4일 0시 35분쯤 국회의사당 본관에 계엄군 20여명이 국회 본관 유리창을 부수고 진입하는 모습. /고유찬 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;시민들이 저항하자 총부리를 들이대는 계엄군도 있었다. 군인들은 시민들에게 “다칩니다, 제발 물러나세요”라며 소리질렀다. 계엄군과 시민들이 엉겨붙어 다수가 넘어지기도 했다.&lt;br&gt;&lt;br&gt;진입을 시도하는 시민들과 경찰의 충돌도 이어지고 있다. 국회 본청에서는 나무 판자로 된 바리케이트를 국회 경비대가 설치하고 진입을 통제하는 중이다. 군인 4명이 탄 코란도 차량이 국회 2문 앞에 도착하자 시민들이 군인들을 태운 차량 창문 등을 치며 저항하기도 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RWRLWTZ345DD7CYDFI2LSS5IHM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;4일 자정 무렵 국회 본관에 국회 경비대가 나무 판자를 설치해 시민들의 출입을 통제하는 모습. /고유찬 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/G2SK2I5Q4VHE5FZ37UROA22YQA.gif?width=1400&amp;height=787&amp;auth=a93468624e9c60919409ed9c32206a90f714872955cc434bf70bf1afc699a9ed&amp;smart=true" type="image/jpeg" height="787" width="1400">
-        <media:description type="plain">비상계엄 해제 짤2</media:description>
-      </media:content>
-    </item>
-    <item>
-      <title>깜짝 놀란 시민들 “웬 계엄?” “北이 쳐들어왔나” 불안</title>
-      <link>https://www.chosun.com/national/national_general/2024/12/04/YKYO55LIBZCNVBRYI3BXSYM65U/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/04/YKYO55LIBZCNVBRYI3BXSYM65U/</guid>
-      <dc:creator>주형식 기자, 구아모 기자, 박정훈 기자, 고유찬 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 03 Dec 2024 16:06:28 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5OUMGMIZ4VGJBDPTUKCLD4B57A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;3일 밤 광주광역시 서구의 한 주점. 윤석열 대통령이 비상계엄을 선포하자 시민들이 놀란 표정으로 방송을 지켜보고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 대통령이 3일 심야에 비상계엄을 선포하자 일반 시민들은 “도대체 이게 뭐냐” “북한이 쳐들어온 것이냐”며 일대 혼란에 빠졌다. 이날 오후 10시 40분쯤 서울 명동에서 회식을 하다가 윤 대통령 기자 회견 생중계를 접한 한 30대 회사원은 “저게 실화냐, 딥페이크 아니냐”고 했다. 식당과 술집 여기저기서 “계엄?” “계엄이 뭐야?”라고 사람들이 웅성거리는 소리가 들려왔다.&lt;br&gt;&lt;br&gt;서울 영등포구 국회의사당 앞엔 윤 대통령 계엄 선포 직후 시민 수천 명이 몰려왔다. 이들은 출입 통제를 하는 경찰들에게 “들어가게 해달라” “문을 열라”고 했다. 주요 포털과 소셜미디어 등에서 윤 대통령의 계엄령 발동으로 서울 도심에서 군(軍) 장갑차 등 병력이 이동하는 모습이 일제히 공유됐다.&lt;br&gt;&lt;br&gt;한밤 계엄 선포에 시민들은 극도의 불안감을 표출했다. 서울 성동구 아파트에서 아이를 돌보던 회사원 서모(33)씨는 “갑자기 비상계엄이라는 뉴스가 나와 꿈을 꾸나 했다”고 했다. 윤 대통령이 기자회견을 진행하는 동안 서울 서울역·광화문·강남역 등 주요 도심에선 “전쟁이 난 것이냐” “지금 무슨 일이냐”는 목소리가 들려왔다.&lt;br&gt;&lt;br&gt;강서구에 거주하는 회사원 유모(30)씨는 “밤늦게 TV를 틀었더니 대통령이 계엄을 선포하고 있더라”며 “잠을 자야 하는데 잠을 못 자겠다”고 했다. 서울 지하철에서 소식을 접한 시민들도 소란에 빠졌다. 2호선에서 귀가 중이던 박모(28)씨는 “이게 지금 무슨 일인지 알 수가 없다”고 했다. 서초구에 사는 취업준비생 이모(28)씨도 “도대체 계엄의 합당한 근거가 무엇이냐”고 했다.&lt;br&gt;&lt;br&gt;시민 장모(57)씨는 “경제가 가뜩이나 어려운데 대통령이 밤늦게 왜 저런 기자회견을 하는지 도무지 이해할 수가 없다”고 했다. 1990년대 북한의 ‘서울 불바다’ 협박 등을 겪었던 기성 세대 일부는 불안한 반응을 보이기도 했다. 은퇴자 정찬수(66)씨는 “늦은 시간인데 지금 편의점에 라면이라도 사러 가야 하는 것이냐”며 “어떻게 해야 할지, 지금 무슨 상황인지 모르겠다”고 했다.&lt;br&gt;&lt;br&gt;가상 자산에 투자한 2030세대는 윤 대통령을 향해 “우리 경제를 망치려고 작정을 한 것이냐”며 격렬한 반응을 보였다. 23일 오후 11시 국내 업비트 기준 비트코인 가격은 오전 9시 대비 32.6% 하락했다. 리플은 43.2%, 도지코인은 32.7% 하락했다. 회사원 최모(29)씨는 “대통령이 경제를 망치려고 작정한 것이냐. 도대체 한밤에 어떻게 이런 일을 벌일 수 있는 것이냐”고 했다.&lt;br&gt;&lt;br&gt;군·검·경과 행정부·지자체도 혼란에 휩싸였다. 육해공군의 상당수 장교들은 “계엄이라니, 금시초문이다” “이게 무슨 일이냐”고 했다. 경찰 지휘부 역시 윤 대통령의 계엄 발표에 긴급 회의를 소집하는 등 당황한 낌새가 역력했다. 한 현직 검사는 “당황스럽다”며 “대통령이 무슨 생각을 하고 이런 일을 하는지 모르겠다”고 했다. 또다른 검사는 “윤 대통령이 이성을 잃은 것은 아닌가 걱정된다”며 “이해가 불가능하다”고 했다.&lt;br&gt;&lt;br&gt;행안부의 한 간부는 “전혀 예상치 못한 일”이라고 했고, 서울시 고위 관계자도 “공무원 입직 후 처음 겪는 일이라 어떻게 해야 할지 모르겠다”고 했다. 각 지자체 관계자들도 대책 마련에 분주했다.&lt;br&gt;&lt;br&gt;사법부도 뒤숭숭했다. 한 현직 판사는 “1987년 현행 헌법에서 처음 있는 일”이라며 “도대체 무슨 상황인지 모르겠다. 비상계엄은 군사 조치를 동반하는데 어떤 맥락인지 도대체 알 수가 없다”고 했다. 또 다른 부장 판사는 “온갖 탄핵 사태로 정부가 마비되고 있기에 윤 대통령이 이런 행위를 한다고 볼 수는 있다”며 “하지만 비상계엄이라고 하면 북한의 침략 등 긴급한 상황이 있어야 하는데 국민이 납득할 수 있을지 의문”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>정부서울청사 “비상 계엄 선포 후 경계 태세 강화”</title>
-      <link>https://www.chosun.com/national/national_general/2024/12/03/PV4IGFYAXBAVLL3EHPXLQDZTE4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/03/PV4IGFYAXBAVLL3EHPXLQDZTE4/</guid>
-      <dc:creator>김병권 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 03 Dec 2024 14:56:56 +0000</pubDate>
-      <content:encoded>3일 밤 11시 45분쯤 찾은 서울 종로구의 정부서울청사 본관 앞에는 경찰 한 명만이 경비를 서고 있었다. 윤석열 대통령이 비상 계엄까지 선포해 못 참겠어서 거리로 나왔다는 청사 앞에서 ‘비상계엄 반대/윤석열 탄핵’이라는 문구를 핸드폰에 띄워놓고 1인 시위를 하던 50대 남성 권모씨는 “도무지 못 참겠어서 거리로 나왔다”고 했다.&lt;br&gt;&lt;br&gt;청사 앞에서 별다른 소요 사태는 없었지만 청사 상황을 지켜보려는 시민 한두 명이 핸드폰으로 청사를 촬영하는 모습도 포착됐다. 본지 기자가 청사 앞에 있던 약 10분간 청사 소속 공무원의 차로 보이는 차량 3대만이 검문을 거쳐 청사 안으로 들어갔다.&lt;br&gt;&lt;br&gt;청사 관계자는 본지에 “비상 계엄이 선포된 이후 경계 태세를 강화하고 있다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[인사] 금융위원회 외</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2024/12/04/KCA5URZSUZHH7FV66V7YWHIHOY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2024/12/04/KCA5URZSUZHH7FV66V7YWHIHOY/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Tue, 03 Dec 2024 17:06:53 +0000</pubDate>
-      <content:encoded>▲&lt;b&gt;금융위원회&lt;/b&gt;▷의사운영정보팀장 박성진&lt;br&gt;&lt;br&gt;▲&lt;b&gt;국세청&lt;/b&gt;◇부이사관 승진▷정보화기획담당관 전지현▷감사담당관 류충선&lt;br&gt;&lt;br&gt;▲&lt;b&gt;중앙그룹&lt;/b&gt;〈부사장 승격〉▷중앙일보 광고사업총괄 김종윤▷JTBC 커뮤니케이션총괄 한정희〈임원(상무) 신규 선임〉▷중앙일보M&amp;amp;P 프린팅부문장 겸 미디어프린팅넷 대표이사 조주환▷중앙일보S 대표이사 신용호▷JTBC 디지털서비스사업본부장 방지현▷휘닉스중앙 경영지원실장 손홍진▷HLL중앙 경영지원실장 홍순철▷콘텐트리중앙 조인스부문대표 김영기▷중앙홀딩스 부회장실 인사지원담당 장성환▷중앙홀딩스 전략담당 최윤정◇중앙일보▷대기자 최훈▷논설주간 이현상▷논설실장 김현기▷편집국장 예영준▷칼럼니스트 정철근▷광고사업본부장 정제원▷비즈솔루션본부장 박천우◇JTBC미디어텍▷대표이사 이석호&lt;br&gt;&lt;br&gt;▲&lt;b&gt;KNN&lt;/b&gt;◇임원급▷경남본부장 박철훈▷신성장본부장 김백수▷제작편성본부장 전성호▷사업본부장 단유정▷KNN미디어플러스 대표 추종탁◇국장급▷보도국장 김성기▷서울보도국장 길재섭▷경남보도국장 표중규▷취재부장 김상진▷신성장국장 이영우▷제작국장 허민경▷편성라디오국장 이근호▷영상제작국장 국주호▷경남문화사업국장 이섬근&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[부음] 허창수 GS명예회장 모친 구위숙 여사 별세 외</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2024/12/04/HSAIZ2ZGEVFPTBNHZSMTR5UJWY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2024/12/04/HSAIZ2ZGEVFPTBNHZSMTR5UJWY/</guid>
-      <dc:creator>정한국 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 03 Dec 2024 17:06:11 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SVKU2FGSSZHFFOJMQKA2PLVCPA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;허창수 GS명예회장 모친 구위숙 여사&lt;/b&gt;&lt;br&gt;&lt;br&gt;허창수 GS그룹 명예회장의 모친 구위숙(96) 여사가 3일 오후 노환으로 별세했다.&lt;br&gt;&lt;br&gt;1928년 경남 진주시 지수면 승산리에서 태어난 고인은 고(故) 구인회 LG 창업주의 동생인 고 구철회 LIG 명예회장의 장녀다. 구 여사는 같은 마을 출신인 고 허만정 GS 창업주의 3남 고 허준구 GS건설 명예회장과 1945년 결혼했다.&lt;br&gt;&lt;br&gt;유족으로 장남인 허창수 명예회장을 비롯해 허정수 GS네오텍 회장, 허진수 GS칼텍스 상임고문, 허명수 GS건설 상임고문, 허태수 GS그룹 회장 등 5남이 있다. 빈소는 서울대병원. 발인은 5일 오전 8시. (02)2072-2091&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;▲&lt;b&gt;윤석자&lt;/b&gt;&amp;nbsp;별세,&amp;nbsp;&lt;b&gt;조주연&lt;/b&gt;&amp;nbsp;前 양천구시설관리공단 이사장 모친상=2일13시 홍익병원, 발인 4일6시30분, (02)2600-1441&lt;br&gt;&lt;br&gt;▲&lt;b&gt;이정숙&lt;/b&gt;&amp;nbsp;별세,&amp;nbsp;&lt;b&gt;박순용&lt;/b&gt;&amp;nbsp;연세대 교육학과 교수&lt;b&gt;·박순원&lt;/b&gt;&amp;nbsp;모친상,&amp;nbsp;&lt;b&gt;노경은&lt;/b&gt;&amp;nbsp;시모상=2일20시40분 신촌세브란스병원, 발인 5일7시, (02)2227-7500&lt;br&gt;&lt;br&gt;▲&lt;b&gt;홍원표&lt;/b&gt;&amp;nbsp;별세,&amp;nbsp;&lt;b&gt;박화순&lt;/b&gt;&amp;nbsp;남편상,&amp;nbsp;&lt;b&gt;홍성일&lt;/b&gt;&amp;nbsp;더구루 산업부 기자·&lt;b&gt;홍성욱&lt;/b&gt;&amp;nbsp;부친상=3일0시58분 강동성심병원, 발인 5일5시20분, (02)470-1692&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>고두심·오은영·염재호… 서울시 명예시장에 20명 위촉</title>
-      <link>https://www.chosun.com/national/national_general/2024/12/04/AYNXGIB64ZBELKBMLIKHC6NUXE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/04/AYNXGIB64ZBELKBMLIKHC6NUXE/</guid>
-      <dc:creator>최연진 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 03 Dec 2024 17:04:54 +0000</pubDate>
-      <content:encoded>서울시는 배우 고두심씨와 소아청소년정신과 전문의 오은영 박사, 유튜브 채널 ‘한문철TV’를 운영하는 한문철 변호사 등 20명을 ‘서울시 명예시장’으로 위촉했다고 3일 밝혔다. 명예시장은 자신의 전문 분야와 관련된 시민 의견을 시에 전달하고 각종 정책도 제안한다. 이번이 7기다.&lt;br&gt;&lt;br&gt;최재붕 성균관대 부총장, 염재호 태재대 총장, 유현준 홍익대 교수·건축가, 김현철 전 홍콩과학기술대 경제학과 교수, 씨름선수 출신인 이만기 인제대 교수, 베이징올림픽 유도 금메달리스트 최민호 선수, 설치 미술가 한젬마 러쉬코리아 부사장, 남궁인 이대목동병원 조교수, 터키에서 귀화한 오시난 케르반그룹 대표 등도 명예시장으로 위촉됐다. 임기는 3일부터 1년.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>아버지에 간 이식 고교생 등 17명 ‘가천효행대상’ 수상</title>
       <link>https://www.chosun.com/national/people/2024/12/04/ZCGVEQCW4REORK7YRE4FMNQNIY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/people/2024/12/04/ZCGVEQCW4REORK7YRE4FMNQNIY/</guid>
@@ -895,24 +927,6 @@
       <content:encoded>삼성전자 반도체 핵심 인력들을 중국 업체 ‘청두가오전’(CHJS)에 대거 스카우트하는 수법으로, 4조3000억원 가치를 지닌 삼성전자 반도체 핵심 기술을 빼돌린 브로커들이 검찰에 넘겨졌다. 그런데 경찰은 반도체 기술 복제에 관여한 연구원들에 대해선 산업기술보호법 혐의를 적용했지만, 브로커 일당에게는 상대적으로 처벌 수위가 낮은 직업안정법 위반 혐의만 적용했다. 경찰 관계자는 “브로커들이 산업기술보호법의 적용 범주에 포함되지 않은 점을 노리고 인력 유출을 계속 시도하고 있다”고 했다.&lt;br&gt;&lt;br&gt;서울경찰청 산업기술안보수사대는 삼성전자 엔지니어 출신인 A(64)씨를 직업안정법 위반 등의 혐의로 서울중앙지검에 구속 송치했다고 3일 밝혔다. 경찰에 따르면, 청두가오전 설립 단계에 고문으로 참여한 A씨는 국내에 헤드헌팅 업체를 차리고 삼성전자 핵심 인력들에게 기존 연봉의 최소 2∼3배를 보장한다고 유혹했다. A씨가 노린 건 삼성전자의 독자 기술인 20나노급(18나노·20나노) D램 반도체 생산에 필요한 온도, 압력 등 700여 단계 공정에 관한 핵심 정보였다. A씨 제안을 수락한 이들은 삼성전자의 반도체 지식·기술로 중국 현지에 D램 제조 공장을 만들고, 공장 준공 1년 3개월 만인 2022년 4월 웨이퍼 생산에 성공했다. 경찰은 A씨 외에도 같은 방식으로 청두가오전에 국내 반도체 전문 인력을 빼돌린 헤드헌팅 업체 대표 2명과 헤드헌팅 법인 1개도 불구속 송치했다.&lt;br&gt;&lt;br&gt;앞서 경찰은 청두가오전 대표인 삼성전자 상무 출신 최모(66)씨 등에 대해선 산업기술보호법 위반 등 혐의로 지난 9월 구속 송치했다. 반면 경찰은 A씨 등 브로커들에 대해선 직업안정법 위반 혐의를 적용했다고 밝혔다. 직업안정법은 고용노동부 장관의 등록이 있어야 국외 유료 직업소개업을 할 수 있다는 내용으로 처벌 수위가 상대적으로 가볍다. 5년 이하의 징역 또는 5000만원 이하의 벌금이다. 국가핵심기술 유출(3년 이상의 유기징역과 함께 15억원 이하의 벌금), 산업기술 유출(15년 이하의 징역 또는 15억원 이하의 벌금)에 비해 처벌 수위가 크게 낮다. 기술 유출 브로커도 강하게 처벌할 수 있도록 하는 내용 등을 담은 산업기술보호법 개정안이 현재 국회에서 논의되고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>“계엄 해제”서 “尹 탄핵”으로...국회 모인 시민들 구호 바꿨다</title>
-      <link>https://www.chosun.com/national/national_general/2024/12/04/XJZUWMJVUJAZ5PE4L2XHIO52UU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/04/XJZUWMJVUJAZ5PE4L2XHIO52UU/</guid>
-      <dc:creator>강지은 기자, 김보경 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 03 Dec 2024 15:48:02 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PXOKECZ5HRIEJKK2NCGC3WFRKA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령이 긴급 대국민 담화를 통해 비상계엄령을 발표한 가운데 4일 서울 여의도 국회 본청으로 군 병력이 진입을 시도하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;4일 0시 35분쯤 계엄군이 국회의사당 본관에 진입하자 현장에 있는 시민들은 “비상계엄을 해제하라”는 구호에서 “윤석열을 탄핵하라”고 외쳤다.&lt;br&gt;&lt;br&gt;국회 각 문에서 국회의원 보좌진들이 바리케이트를 치며 군인의 진입을 가로 막고, 경찰 기동대가 도열하기도 했다. 보좌진들은 국회로 진입하려는 시민들과 함께 “계엄을 해제하라”더니 “윤석열을 탄핵하라”고 외쳤다. 민주노총 회원들과 진보당은 “현재 윤석열을 체포하라”고 구호를 바꿨다.&lt;br&gt;&lt;br&gt;계엄군이 국회 본관에 들어서자 시민들은 “군인들이 국회를 쳐들어가고 있다” “지금 무엇을 하는 것이냐”며 시민들은 반발했다. 경찰과 시민 대치 과정에서 국회 주변의 펜스가 부서지기도 했다.&lt;br&gt;&lt;br&gt;00시 48분쯤 계엄 해제를 국회 본회의 시작됐다는 소식이 현장에서 전해지며 시민들은 환호했다. “계엄령을 해제하라”라고 외쳤다. 본회의 진행 소식이 전해지자 군인들이 철수하기 시작했다. 일부 시민들은 “고생했어요, 잘 가라”라며 군인들에게 환호를 하기도 했다.  군 내부에서는 갑작스러운 상황 전개에 혼란스러운 분위기가 감지됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>대법원, 비상계엄 관련 긴급 심야 간부회의 진행</title>
-      <link>https://www.chosun.com/national/court_law/2024/12/04/XASRIGRYBRFHZK5667JDXOH7ZU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/04/XASRIGRYBRFHZK5667JDXOH7ZU/</guid>
-      <dc:creator>박혜연 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 03 Dec 2024 15:46:14 +0000</pubDate>
-      <content:encoded>대법원 법원행정처는 3일 밤 윤석열 대통령의 비상계엄 선포와 관련해 긴급 간부 회의를 소집했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GRZO7NMBC45PTBMFZ3MCO65UPU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대법원 청사 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대법원에 따르면 4일 법원행정처 천대엽 처장과 배형원 차장, 실장급 간부와 관련 심의관 등이 모여 계엄 관련 상황을 논의 중이다. 회의에서는 현재 상황을 파악하고 관련 규정을 검토해 향후 대처 방안을 수립할 것으로 보인다. &lt;br&gt;&lt;br&gt;조 대법원장은 4일 00시 40분 기준, 공관에서 관련 사항을 보고받고 있으며 이날 오전 일찍 청사에 나올 계획인 것으로 알려졌다.&lt;br&gt;&lt;br&gt;계엄법에 따라 비상계엄사령관의 지시를 불이행하거나 내란·외환의 죄, 공무 방해나 공안을 해치는 죄, 국가보안법 위반죄 등의 재판은 군사법원이 맡게 된다.&lt;br&gt;&lt;br&gt;대법원 관계자는 “비상계엄에 따라 사법권의 지휘와 감독은 계엄사령관에게 옮겨간다”며 “계엄사령관 지시와 비상계엄 매뉴얼에 따라 향후 대응을 마련할 것”이라고 밝혔다.&lt;br&gt;&lt;br&gt;계엄사령관인 박안수 육군참모총장(대장)은 ‘계엄사령부 포고령’을 통해 “포고령 위반자에 대해서는 대한민국 계엄법 제 9조(계엄사령관 특별조치권)에 의해 영장없이 체포·구금·압수수색을 할 수 있으며, 계엄법 제 14조(벌칙)에 의하여 처단한다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[신문은 선생님] [예쁜 말 바른 말] [373] ‘마뜩잖다’와 ‘마땅찮다’</title>
       <link>https://www.chosun.com/national/nie/2024/12/04/ZSDXK7IFGJG7FGHQJHTC5DE32A/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/12/04/ZSDXK7IFGJG7FGHQJHTC5DE32A/</guid>
@@ -929,18 +943,6 @@
       <description/>
       <pubDate>Tue, 03 Dec 2024 15:04:30 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AOKKV6EUTJJXHLIBLA5JTNZQF4.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;(서울=뉴스1) 이광호 기자 = 윤석열 대통령이 전격적으로 계엄령을 선포한 3일 밤 서울 여의도 국회 정문 앞에서 경찰병력이 출입을 통제하고 있다.2024.12.3/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;비상계엄이 선포된 3일 밤 시민들은 “2024년에 계엄령이라니 믿기지 않았다” “처음에 합성된 영상을 보는 줄 알았다”는 등 사상 초유의 비상 계엄 사태에 술렁이고 있다. 계엄령 선포와 관련된 소식들이 시민들은 혼란과 불안을 감추지 못하는 모습이다.&lt;br&gt;&lt;br&gt;서울 양천구에 거주하는 60대 여성 류모씨 “카톡방마다 난리가 났다”며 “특히 이재명 대표의 라이브 방송을 본 사람들 사이에서는 ‘국회로 가자’는 이야기가 오가고 있다”고 전했다. 류씨는 “지금은 너무 떨려서 행동에 나설 수 없지만, 진정이 되면 나도 준비하겠다”고 말했다. 또한 “비상계엄이 선포되면 미국을 포함한 외국과의 관계는 어떻게 되는 건지 걱정된다”며 “이게 미국과 사전에 논의된 건지 의문”이라고 했다.&lt;br&gt;&lt;br&gt;대학생들은 “2024년에 교과서에서만 보던 사건이 발생했다”는 반응이다. 대학생 손모(24)씨와 정모(25)씨는 “2024년에 이런 뉴스가 나온다는 게 믿기지 않는다”며 “마치 1970년대에 온 것 같다”고 말했다. 또 다른 대학생 권모(24)씨는 “친구들에게 카카오톡 외 다른 연락 수단을 물으며 대비하고 있다”고 했다. 김모(24)씨는 “21세기에 이런 일이 벌어진다는 게 어안이 벙벙하다”며 “내일 당장 어떻게 행동해야 할지 모르겠다”고 했다.&lt;br&gt;&lt;br&gt;강동구에 거주하는 20대 직장인 송모씨는 친구들의 카톡 메시지로 계엄 소식을 접했다며 “왜 비상계엄을 하는지 국민에게 구체적으로 설명해야 하는 것 아니냐”고 지적했다. 서초구의 28세 취업준비생 이모씨는 “국회가 폐쇄됐다는 말까지 돌고 있는데 정말로 이게 무슨 상황인지 모르겠다”며 불안감을 드러냈다.&lt;br&gt;&lt;br&gt;군 내부에서도 비상계엄 선포는 예상 밖의 일이었다는 반응이다. 육군 장교 A씨는 “전혀 듣지 못했던 이야기”라며 혼란을 표했고, 해군 장교 B씨는 “합참 지휘부 소집 소식은 들었지만, 극소수 지휘부를 제외한 대부분은 사전에 몰랐던 것 같다”고 말했다.&lt;br&gt;&lt;br&gt;서울역에서는 일부 시민들이 뉴스를 확인하며 주변 사람들과 연락을 주고받고 있는 모습이 포착됐다. 비상계엄 선포 소식이 전 국민에게 급격히 확산되며 각계각층에서 우려와 의문이 잇따르고 있다. 특히 계엄령의 구체적 이유와 절차에 대한 정보가 부족해 혼란이 가중되고 있다는 지적이 나온다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>송파구, ‘가락동 현대아파트 현장 붕괴’ 관련, 포스코이앤씨 현장소장 고발</title>
-      <link>https://www.chosun.com/national/national_general/2024/12/03/G6XGFJV25BHYBLH5RPZZBNB6ZM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/03/G6XGFJV25BHYBLH5RPZZBNB6ZM/</guid>
-      <dc:creator>김병권 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 03 Dec 2024 11:38:49 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4RUPSXL74HNYG33BK7YPFCEIWM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 송파구청 전경/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난달 27일 내린 폭설로 포스코이앤씨가 시공하는 서울 송파구 가락동의 가락현대5차아파트 재건축 공사장 보행로 지붕이 무너져 3명이 부상당한 사고와 관련해 이 공사장의 포스코이앤씨 소속 현장소장과 감리단장이 경찰에 고발당했다.&lt;br&gt;&lt;br&gt;서울 송파구는 지난달 29일 이들을 건설기술진흥법 위반 혐의로 경찰에 고발했다고 3일 밝혔다. 송파구는 사고 당일에 낙하물 방지망 정비 및 공사중지·긴급안전조치 명령도 내렸다.&lt;br&gt;&lt;br&gt;이 사건을 수사 중인 서울 송파경찰서는 사고 경위를 포함해 안전 관리 소홀로 인해 사고가 났을 가능성도 들여다보고 있다. 현장 관계자들을 불러 조사하는 등 정확한 사고 원인을 조사 중인 경찰은 사고 당일 오전 폭설 경보가 내렸는데도 현장 책임자들이 상황에 맞는 적절한 사전 조처를 했는지 등도 살필 예정이다.&lt;br&gt;&lt;br&gt;지난달 27일 서울 전역에 내린 폭설로 이 재건축 공사장 주변에 설치한 보행로 지붕이 오후 3시 6분쯤 눈의 무게를 이기지 못하고 무너졌고, 이로 인해 지나가던 행인 3명이 지붕에 깔리는 사고가 발생했다. 부상자 중에는 하청업체 직원 A씨도 포함됐다고 한다. A씨는 현재 위독한 상황인 것으로 전해졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/4RUPSXL74HNYG33BK7YPFCEIWM.jpg?width=4896&amp;height=3264&amp;auth=ad687172e309a0fd54e49eb44479fa49344832cb24ec08203424b71e5a4562bf&amp;smart=true" type="image/jpeg" height="3264" width="4896">
-        <media:description type="plain">송파구청 전경. @News1</media:description>
-      </media:content>
     </item>
   </channel>
 </rss>
