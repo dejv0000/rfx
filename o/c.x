@@ -13,6 +13,242 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>헌법학자들 “野 견제 위한 계엄... 헌법 어디에도 그런 내용 없다”</title>
+      <link>https://www.chosun.com/national/court_law/2024/12/06/KK4CJS26DVCBZH7JGYECS4ZOX4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/06/KK4CJS26DVCBZH7JGYECS4ZOX4/</guid>
+      <dc:creator>양은경 기자, 양승식 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 05 Dec 2024 15:55:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FABXQQ5T4VEUDE2MZFBZZFPZTM.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=백형선&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 3일 밤 윤석열 대통령이 비상계엄을 발동한 데 대해 대통령실은 외신 기자단에 “국정을 정상화하고 회복하기 위한 조치를 시도한 것”이라며 “대통령은 헌법주의자로서 자유민주주의 파괴 세력에 대해 결단을 내린 것”이라고 밝혔다. 그 근거로 취임 전부터 있었던 대통령 퇴진 운동, 방송통신위원장 등 주요 공직자 탄핵 소추안 22건 발의, 법률안·예산안 통과 방해, 국가 안보 훼손 문제 등을 들었다.&lt;br&gt;&lt;br&gt;하지만 전시(戰時), 사변(事變)에나 투입하는 군을 동원할 만큼 현재의 상황이 ‘비상사태’였느냐에 대해선 대부분 법률 전문가가 “잘못된 판단이었다”고 말한다. 대통령이 국가원수로서 전시에 국민을 지키기 위한 비상수단인 계엄 발령권을 평시에 국정 정상화를 위해 썼다는 게 가장 큰 문제점이라는 지적이다. 헌법학자들은 “국회는 계엄을 통제할 수 있는 유일한 기관이라는 점에서 이번 계엄은 더 위험성이 컸다”고 지적했다. 일부에선 “야당 견제 등 정치적 목적이 뚜렷한 계엄이었다” “야당을 견제하기 위한 계엄은 헌법 어디에도 없는 내용”이라는 말도 나온다.&lt;br&gt;&lt;br&gt;계엄 선포권은 헌법이 정하는 대통령의 ‘국가긴급권’ 중 하나다. 국가긴급권에는 국회의 동의 없이 처분과 입법을 할 수 있는 긴급 재정·경제 처분 및 명령권, 긴급명령권, 그리고 계엄권이 있다. 허영 경희대 법학전문대학원 석좌교수는 “계엄 선포권은 다른 권한과 달리 사법·행정 분야에 한시적인 군정(軍政) 통치가 가능하다는 점에서 본질적인 차이가 있다“며 “군 병력을 동원하지 않고는 비상사태 수습이 도저히 불가능한 경우에 한하기 때문에 경찰력으로 사태 수습이 가능하다면 계엄을 발령할 수 없다”고 했다.&lt;br&gt;&lt;br&gt;김선택 고려대 법학전문대학원 교수는 “과거 계엄법에서는 비상계엄 발령의 조건으로 ‘적의 포위 공격’을 명시하고 있었다”며 “‘전시·사변에 준하는 비상사태’ 또한 전국적인 폭동이 일어나는 정도가 돼야 (계엄령을 발령) 하는데 이번엔 전혀 그런 상황이 아니었다”고 지적했다.&lt;br&gt;&lt;br&gt;계엄 발동이 엄격해야 하는 이유에 대해선 “국민의 기본권을 침해할 위험이 높기 때문”이라고 말한다. 계엄법은 필요한 경우 언론·출판, 집회·시위의 자유를 제한하고 영장 없이 체포·구금·압수 수색을 할 수 있는 특별 조치권까지 부여하고 있기 때문에 국민이 직접 피해를 입을 수 있다는 취지다. 지난 3일 밤 발령된 계엄사령부의 ‘포고령 1호’도 ‘포고령 위반자에 대해 계엄법에 따라 영장 없이 체포, 구금, 압수 수색을 할 수 있다’고 했다. 또 의료 현장을 이탈한 모든 의료인들에게 ‘48시간 내 본업에 복귀하지 않으면 계엄법에 따라 처단한다’고도 했다.&lt;br&gt;&lt;br&gt;윤 대통령 입장에선 야당의 연이은 탄핵 시도와 법률·예산안 처리 방해 등이 ‘행정 및 사법 기능의 수행이 현저히 곤란한 경우‘(계엄법 2조 2항)에 해당한다고 생각했을 수 있다. 그러나 계엄이 가진 부작용과 위험성을 고려할 때 함부로 발동해서는 안 된다는 게 전문가들의 중론이다.&lt;br&gt;&lt;br&gt;헌법 77조는 대통령이 계엄을 선포하면 지체 없이 국회에 통고하도록 하고, 국회 재적 과반수의 의결로 계엄 해제를 요구할 수 있도록 하고 있다. 이 때문에 계엄법에서도 현행범이 아닌 한 국회의원을 체포·구금할 수 없도록 돼 있다. 김선택 교수는 “계엄 상황에서도 국회는 건드릴 수 없도록 헌법이 정하고 있는데, 이번에는 군이 국회에 투입됐고 포고령 첫 문장이 국회와 지방의회, 정당 활동과 정치적 결사 금지였다“며 “이는 국회의 계엄 해제를 막으려고 한 것이다. 헌법과 계엄법이 말하는 계엄 형태가 아니고 헌정 질서를 유린한 것으로 보이기에 충분하다“고 했다. 그러면서 “야당의 잘못을 경고하기 위해 계엄을 발동했다는 대통령 측 해명은 들을수록 말이 안 되는 이야기”라고 했다.&lt;br&gt;&lt;br&gt;헌재 공보관을 지낸 배보윤 변호사는 “전시·사변에 준하는 국가 비상사태에 해당하는지는 논란이 있을 수 있고 감사원장을 비롯해 고위 공직자들이 줄줄이 탄핵 대상이 되는 상황은 국가 기능의 마비 상태인 것은 명백하다”며 “그러나 계엄은 속성상 국회에 대해서는 할 수 있는 부분이 없기 때문에 적절한 조치로 볼 수 없다”고 했다.&lt;br&gt;&lt;br&gt;김해원 부산대 법학전문대학원 교수는 “설사 비상사태에 해당한다고 하더라도 계엄은 군 병력을 동원하는 조치여서 최후 수단으로 고려했어야 했다”며 “김영삼 정권에서 금융실명제 시행을 위해 발령한 긴급명령권처럼 군 동원 없이 발령할 수 있는 다른 방법을 고민했어야 한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘연어의 고향’ 태화강, 연어가 사라졌다</title>
+      <link>https://www.chosun.com/national/regional/2024/12/06/WW7WNWKNGBBTFPFPDPP6RB34LE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/12/06/WW7WNWKNGBBTFPFPDPP6RB34LE/</guid>
+      <dc:creator>울산=김주영 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 05 Dec 2024 15:50:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WB5SESJERBKZVAQNORKSTC6A5M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 4일 올해 처음으로 고향 울산 태화강으로 회귀한 연어가 포획됐다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;올해 울산 태화강에 돌아온 연어가 2005년 이후 19년 만에 가장 적은 것으로 나타났다. 세계적인 해수 온도 상승의 영향이라는 분석이 나온다.&lt;br&gt;&lt;br&gt;5일 울산시와 울주군 태화강생태관에 따르면, 올해 태화강에서 발견된 연어는 총 37마리로 집계됐다.&lt;br&gt;&lt;br&gt;연어는 강에서 태어나 바다에서 살다가 다시 강으로 돌아와 알을 낳는 회귀성 어류다. 1급수 깨끗한 물에서 서식한다. 주로 9~11월 강을 타고 올라와 알을 낳는다. 우리나라에서는 강원 강릉 남대천, 삼척 오십천 등에서 연어가 발견된다. 1950년대 태화강에서는 주민들이 연어 낚시를 했다고 한다. 그러나 산업화로 강물이 오염되면서 맥이 끊겼다.&lt;br&gt;&lt;br&gt;울산시는 2000년 태화강에 어린 연어 5만 마리를 풀었고 3년 뒤 5마리가 돌아왔다. 2010년부터는 매년 치어 50만 마리를 방류하고 있다. 덕분에 2014년에는 1827마리가 태화강으로 돌아오기도 했다. 당시 “산업화로 오염됐던 태화강의 수질이 연어가 올 정도로 완전히 회복됐다”는 말이 나왔다.&lt;br&gt;&lt;br&gt;그러나 연어 수는 이후 꾸준히 감소해 지난해 45마리로 줄었고 올해는 37마리에 그쳤다.&lt;br&gt;&lt;br&gt;전문가들은 태화강으로 돌아오는 연어가 줄어든 원인으로 지구 온난화로 인한 해수온 상승을 꼽았다. 연어는 13~16도 찬 바다에서 사는 냉수성 어종이다.&lt;br&gt;&lt;br&gt;최종국 한국수산자원공단 동해생명자원센터 연구원은 “해수온이 상승해 연어 수 자체가 줄고 이동 경로도 바뀌고 있다”며 “세계적으로 연어 수가 감소하는 추세”라고 했다.&lt;br&gt;&lt;br&gt;울주군 태화강생태관 관계자는 “수년간 꾸준히 치어를 방류했고 수질도 더 개선됐다”며 “올여름 울산 앞바다에 고수온 경보가 내려지는 등 수온이 높아져 연어가 찾아오지 못한 것으로 보인다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[단독] “대북 작전으로 알고 나섰는데... 내려보니 국회였다”</title>
+      <link>https://www.chosun.com/national/national_general/2024/12/06/C4MIMKMAUBAYJIZ4KS35PQTR6E/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/06/C4MIMKMAUBAYJIZ4KS35PQTR6E/</guid>
+      <dc:creator>고유찬 기자, 장윤 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 05 Dec 2024 20:02:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2LBYDN4ORJKYVOYSRJPHEDTAMM.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령의 비상계엄 해제 요구 결의안이 국회 본회의에서 통과된 4일 새벽 무장 계엄군이 국회를 철수하고 있다. 이날 작전에 투입된 일부 장병은 5일 본지 인터뷰에서 "비무장 민간인을 상대로 한 작전이었다는 사실을 현장에 투입되고서야 알았다"며 "국민들께 죄송하고, 군인으로서 자괴감이 든다"고 했다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;육군 특수전사령부 예하 707특수임무단 소속 A씨가 지난 3일 오후 11시 48분쯤 헬기를 타고 내린 곳은 서울 여의도 국회였다. 최근 ‘특수 임무를 위해 이동할 수 있다’는 공지를 받았던 A씨와 부대원들은 북한 관련 특수전 작전에 투입될 수 있다는 ‘마음의 준비’를 했다고 한다. 적 대상 작전에 투입되는 줄 알았던 A씨 등이 행선지가 국회라는 사실을 알았을 때는 헬기 탑승 직전이었다. A씨는 “이후 ‘국회의원을 다 끌어내라’는 명령을 받고 공황 상태에 빠졌다”고 했다.&lt;br&gt;&lt;br&gt;윤석열 대통령이 비상계엄을 선포하기 4시간 30분 전인 3일 오후 6시, 특전사 일부 부대엔 1·3공수여단장과 707특수임무단장 등 주요 지휘관이 경기 이천 특전사령부에 집결했다는 소식이 퍼졌다고 본지가 5일 인터뷰한 특전사 대원들은 말했다. A씨 부대에도 “북한 관련 상황이 매우 심각하다” “당장 출동할 수 있으니 총기를 준비하라”는 지시가 하달됐다. A씨는 “카트리지(탄알집·탄약통)을 정리하고 출동 준비를 했다”고 했다.&lt;br&gt;&lt;br&gt;A씨와 부대원들은 헬기 탑승 직전 “서울 국회로 간다”는 명령을 듣고 당황했다. 헬기 안에서도 “착륙지는 국회의사당”이라는 말을 들었을 뿐 실제 어떤 작전에 투입되는지는 임무를 하달받지 못했다고 한다. 707특수임무단은 북한 김정은 등 적국 수뇌부를 암살하는 데 특화된 최정예 ‘참수 부대’다. 작전 투입 전 목표물이 있는 건물 구조 등 지형 분석이 필수다. A씨는 “국회 구조도 파악하지 못한 채 착륙했는데 좀 어이가 없었다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GYA7AIVWSJCPJKMPUWS5W4MQUU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;'북한 관련 상황이 심각하다'며 계엄 상황 전 특전사 장병들에게 하달된 문자메시지. /박선원 의원실&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;당시 국회 직원들과 의원 보좌진은 특전사 대원들의 본청 진입을 저지하고자 사무실 집기 등으로 바리케이드를 설치하고 농성 중이었다. 일부는 특전사 대원들에게 소화기 분말을 뿌리기도 했다. 군인들에게 “반란군” “반역자” “윤석열의 개” 같은 말을 하기도 했다. A씨는 “국회에 진입하고 한참 뒤에도 구체적인 명령은 내려오지 않았다”고 했다. 이윽고 상부에서 ‘국회의원을 다 끌어내라’는 지시가 내려와서 마지못해 유리창을 깨고 본청에 진입했다는 것이 A씨의 설명이다.&lt;br&gt;&lt;br&gt;하지만 A씨 등 대원들은 느릿느릿하게 움직였다. 유리창을 깨고 본청 내부로 진입할 때도 몸놀림은 그리 민첩하지 않았다. A씨는 “명령이라 일단 따랐지만, 무장하지도 않은 민간인을 상대로 707이 이사카(샷건)까지 들고 쳐들어가는 건 너무 과하다는 생각이 들었다”고 했다. 그는 “우리는 1티어(최고 등급) 특수부대”라며 “북한 김정은이나 빈 라덴 같은 테러리스트를 암살하는 부대인데 우리를 이용해서 국회를 턴다니 사기가 떨어졌다”고 했다.&lt;br&gt;&lt;br&gt;당시 특전사 병력이 국회의원·보좌진·시민 등에게 가로막혀 본회의장에 진입하지 못했던 상황에 대해 그는 “마음만 먹었으면 10~15분 내에 정리할 수 있었을 것”이라며 “일부러 뛰지도 않고 걸어 다녔다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HL542FFVZVATRGXQR653C7U7J4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;국회 경내 착륙한 계엄군 헬기 - 윤석열 대통령이 '비상 계엄'을 선포한 뒤인 4일 오전, 국회 경내에 계엄군 헬기가 착륙한 모습. 김민기 국회사무총장은 "국방부가 24차례에 걸쳐 무장한 계엄군 200여명을 국회 경내로 진입시켰다"며 "밤 12시 40분에는 계엄군 50여명을 추가로 국회 외곽 담장으로 진입시켰다"고했다. /국회사무처&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;같은 707특수임무단 소속 B씨도 얼마 전부터 특수 임무가 있을 수 있다는 공지를 받았고 당일도 부대 내에서 비상 대기 중이었다. 일부 동료는 “하는 일도 없는데 퇴근도 못 하고 대기해야 하나”라고 불평했다고 한다. 오후 4시부터 ‘특수항공단이 실제 작전 중’이라는 이야기를 동료에게 들었지만, 상황을 제대로 파악한 사람은 거의 없었다고 한다. B씨는 “뭔가 기밀 작전이 시작됐다는 생각이 들었다”고 했다.&lt;br&gt;&lt;br&gt;오후 11시 30분쯤 B씨와 동료 100여 명은 블랙 호크 헬기에 탑승했다. 비행 중 착륙지가 국회라는 말을 들었고 A씨와 마찬가지로 구체적인 임무를 받지 못했다. B씨는 “실탄은 안 가져갔고 훈련용 비살상탄(UTM)을 휴대했다”며 “살상력은 없고 맞으면 꽤 아픈 정도의 연습용 탄이었다”고 했다. B씨 주변에선 ‘우리가 비무장 민간인을 상대하려고 이렇게 고생했느냐’ ‘군인을 그만두고 싶다’는 반응이 나오고 있다고 한다.&lt;br&gt;&lt;br&gt;1공수여단 대원 C씨는 윤 대통령의 비상계엄 선포 1시간쯤 전인 오후 9시 30분, 부대에서 비상 소집 문자를 받았다고 한다. 부대에 복귀했더니 일부는 전투복조차 제대로 갖춰 입지 못한 상황이었다. 부대장은 “긴급한 작전에 투입되니 빨리 준비하라”고 했다. C씨가 팀장(대위)에게 “어디로 가는 것이냐”고 물었지만 “나도 모르겠다”는 답이 돌아왔다.&lt;br&gt;&lt;br&gt;C씨와 부대원들이 탑승한 버스가 도착한 곳은 국회 정문 앞이었다. 팀장조차 크게 당황했다고 한다. 국회는 이미 경찰이 봉쇄한 상황이었고 시민들이 모여 “계엄 반대” “윤석열은 물러가라” 같은 구호를 외치고 있었다. C씨 등은 담을 넘어서 국회 경내로 진입했다. 다른 부대원들이 탄 버스는 “나를 밟고 가라”고 버스 앞에서 맨몸으로 드러누운 시민들에게 가로막혀 움직이지 못했다.&lt;br&gt;&lt;br&gt;총기를 휴대한 C씨 등이 국회 본청에 진입하자 국회 직원과 보좌진 등이 저지했다. 국회 보좌진은 군인들에게 “불법을 저지르지 말라” “국회에 진입하면 나중에 처벌될 것”이라고 했다. 비무장한 시민을 코앞에서 마주한 이들은 크게 당황했고 일부는 ‘패닉’에 빠졌다고 한다. 부대원들은 “제발 가까이 오지 말아달라”고 시민들에게 호소했다. 하지만 일부 민주당 당직자는 총부리를 손으로 잡았고, 대원들의 총기를 빼앗으려는 사람도 있었다. C씨는 “민간인 상대로 작전을 한다는 생각을 해본 적이 없어서 당황했다”고 했다.&lt;br&gt;&lt;br&gt;같은 1공수여단 대원 D씨도 이날 버스를 타고 국회 작전에 투입됐다. 버스에 탈 때까지도 도착지를 몰랐는데 내리고 보니 국회였다고 한다. 그는 이 순간 “상부에 배신감이 들었다”고 했다. D씨는 “특전사는 작전 지역을 철저히 분석하지 않으면 투입되지 않는다”고 했다. D씨는 “국민들께 너무 죄송하고, 저희를 보고 놀란 시민들의 얼굴과 표정을 잊을 수가 없다”고 했다.&lt;br&gt;&lt;br&gt;이날 특전사 대원들은 본지 인터뷰에서 “국가에 배신감이 든다”고 했다. 특수전 요원은 대테러·요인 암살 등 지극히 국지적인 지역을 대상으로 작전을 시행한다. D씨는 “정치적인 판단으로 우리를 국회에 떨어뜨려 놓았다는 생각이 들었다”며 “우린 국회 구조를 전혀 모르는데, 실제 전쟁 상황이었으면 우리는 다 죽었겠구나라고 생각했다”고 했다.&lt;br&gt;&lt;br&gt;D씨는 “보안을 강조하던 상부가 우리를 믿지 못해 작전 지역이 국회라는 사실조차 도착 직전 알려준 것 아니냐”며 “우릴 그냥 쓰고 버리는 소모품처럼 생각하는 것 같아서 화가 났다”고 했다.&lt;br&gt;&lt;br&gt;국회 국방위원회 소속 더불어민주당 박선원 의원은 지난 4일 특전사 대원들이 받은 문자를 공개하며 “군 지휘부가 북한 관련 상황에 투입되는 것처럼 일선 대원들을 기만했다”고 주장했다. 이 문자에서 군 지휘부가 ‘북한 관련 상황이 심각하다, 당장 출동해야 할 수도 있다’ ‘국방부 장관께서 상황 발생하면 707을 부른다고 한다’고 언급하는 내용이 나온다.&lt;br&gt;&lt;br&gt;지난 4일 유튜브 등에 올라온 현장 영상에서 어느 시민이 계엄군에게 “여러분이 들고 있는 총은 국민들과 민주주의를 지키는 데 사용해 달라”고 말하자 한 계엄군이 시민을 향해 “죄송합니다”라고 사과하며 연신 고개를 숙이는 장면이 나타나기도 했다. 이 영상을 본 시민들은 ‘군인들도 얼마나 힘들었을까’ ‘군인 자녀를 둔 부모로서 눈물이 난다’ 등 반응을 남겼다.&lt;br&gt;&lt;br&gt;한 군사 전문가는 이날 상황에 대해 “군대는 유일하고 합법적인 폭력 기관”이라며 “대통령의 비상계엄 명령은 국민의 일상을 놀라게 했을 뿐 아니라, 국민 수호 사명감으로 버티던 군의 충성심에도 돌이킬 수 없는 상처를 입혔다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>서울지하철 1·2노조 새벽 협상 타결... 오늘로 예정된 총파업 취소</title>
+      <link>https://www.chosun.com/national/national_general/2024/12/06/42R2KZAFSZE6HF53NGQROUUC7U/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/06/42R2KZAFSZE6HF53NGQROUUC7U/</guid>
+      <dc:creator>김영우 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 05 Dec 2024 17:23:38 +0000</pubDate>
+      <content:encoded>서울 지하철 1~8호선을 운행하는 서울교통공사의 1노조(서울교통공사노조)·2노조(서울교통공사통합노조)와 공사 측이 총파업 예고일 당일인 6일 새벽 최종 교섭에서 극적으로 협상을 타결했다. 아직 공사와 3노조(올바른노조)의 교섭이 남아있지만 2021년 이후 3년 만에 서울 지하철 파업을 피할 가능성이 높아졌다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QNQ43DFDABPRXDT6QGY3LGF4CY.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;서울지하철노조 총파업을 하루 앞둔 5일 서울 종로구 지하철 5호선 광화문역에서 출근길 시민들이 지하철에서 하차하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;노사는 서울 성동구 서울교통공사 별관에서 막판 협상을 벌인 끝에 6일 새벽 합의안을 마련했다.&lt;br&gt;&lt;br&gt;양측은 전날 오후 4시부터 최종 협상을 시작했지만 임금 인상과 인력 충원 등 문제를 두고 견해차를 좁히지 못한 채 장시간 협상을 이어갔다. 1노조 측은 이날 최종 협상 과정에서도 “사측이 개선된 안을 제시하지 않으면 내일 첫 열차부터 파업에 돌입하겠다”고 했다. 자정을 넘긴 6일 새벽 2시쯤 결국 협상을 타결하고 노사 합의안을 채택했다.&lt;br&gt;&lt;br&gt;합의안에는 임금 2.5% 인상, 인력 630명 신규 충원, 1인 승무제 도입 중단 등의 내용이 담겼다. 1노조 측은 “합의안이 타결되면서 오늘로 예정됐던 총파업은 전격 취소됐음을 발표한다”고 했다.&lt;br&gt;&lt;br&gt;이어 새벽 2시 51분쯤 2노조도 공사와 협상을 타결했다. 이로써 공사와 3노조의 교섭만 남았다. 3노조는 협상 결렬 시 파업을 하겠다고 선언했던 1노조와 마찬가지로, 공사와 최종 교섭이 결렬되면 6일부터 파업에 돌입한다고 예고한 상태다.&lt;br&gt;&lt;br&gt;서울교통공사에는 민주노총 소속 서울교통공사노조를 비롯해 한국노총 소속 서울교통공사통합노조, 이른바 ‘MZ노조‘로 불리는 서울교통공사 올바른노조 등 3개 노조가 있다. 서울교통공사노조 조합원 수가 전체의 약 60%로 가장 많다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>검찰총장 “尹 내란죄 고발 사건, 직접 수사” 지시… 김용현 출국금지</title>
+      <link>https://www.chosun.com/national/court_law/2024/12/06/W2EPMMU36VCXNFU7C2P2UEXGUU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/06/W2EPMMU36VCXNFU7C2P2UEXGUU/</guid>
+      <dc:creator>유희곤 기자, 구아모 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 05 Dec 2024 16:00:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/E3FCJY4D3JBDJIIPJ5XQTW4JAI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령이 지난 3일 밤 서울 용산 대통령실 청사에서 긴급 대국민 특별 담화를 하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰과 경찰이 윤석열 대통령의 지난 3일 비상계엄 선포의 불법성에 대한 수사에 착수했다.&lt;br&gt;&lt;br&gt;대검찰청은 5일 심우정 검찰총장 지시로 검찰이 접수한 윤 대통령과 김용현 전 국방부 장관 등에 대한 고발 사건을 경찰에 이송하지 않고 직접 수사하기로 했다고 밝혔다. 사건은 서울중앙지검 공공수사1부(부장 이찬규)에 배당했고, 수사팀은 이날 오전 김 전 장관을 출국 금지했다.&lt;br&gt;&lt;br&gt;개혁신당과 노동당·녹색당·정의당 등은 지난 4일 윤 대통령과 김 전 장관, 박안수 육군 참모총장(전 계엄사령관) 등을 내란 및 직권남용 등의 혐의로 검찰에 고발했다. 내란 혐의는 2021년 검경 수사권 조정 이후 검찰의 직접 수사 대상이 아니다. 직권남용은 검찰이 수사할 수 있지만, 현직 대통령은 내란과 외환 혐의가 아니면 기소할 수 없게 돼 있다. 다만 검찰은 직권남용으로 수사를 개시한 후 관련 범죄에 대한 수사로 내란 혐의를 수사하겠다는 방침이다. 이는 검찰청법에서 허용하고 있다.&lt;br&gt;&lt;br&gt;심 총장은 이날 “내란과 직권남용 모두 검찰이 직접 수사할 계획이냐”는 기자들 질문에 “법과 원칙, 법령과 절차에 따라 수사할 수 있다고 생각한다“면서 ”수사 단계에 따라 필요한 조치를 취하겠다”고 답했다.&lt;br&gt;&lt;br&gt;앞서 경찰도 조국혁신당 등이 윤 대통령 등을 내란 혐의로 고발한 사건을 국가수사본부 안보수사단에 배당하고 수사에 착수했다. 이날 오후엔 김 전 장관에 대한 긴급출국금지 조치를 법무부에 신청했다. 우종수 국수본부장은 국회 행정안전위원회에 출석해 “수사 의지가 있느냐”는 질문에 “의지가 없으면 (어떻게) 배당하느냐”고 답했다. 고위공직자범죄수사처도 윤 대통령 고발 사건을 수사4부(부장 차정현)에 배당했다.&lt;br&gt;&lt;br&gt;한편 민주당은 윤 대통령의 내란 혐의에 대한 상설특검을 추진하기로 하고, 오는 10일 상설특검 수사요구안을 국회 본회의에서 처리하겠다고 밝혔다. 상설특검은 대통령 거부권 행사 대상이 아니지만, 윤 대통령이 특검 임명을 거부하면 가동되지 않을 수 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“탄핵에 수사 마비” 중앙지검장 가처분 신청낼 듯</title>
+      <link>https://www.chosun.com/national/court_law/2024/12/06/DUC4NN3DU5GSBEXQMXB7LUKWIQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/06/DUC4NN3DU5GSBEXQMXB7LUKWIQ/</guid>
+      <dc:creator>유종헌 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 05 Dec 2024 15:50:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/S6NHTDQQNZKKFCBK26H7W5OKRY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이창수 서울중앙지검장. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이창수 서울중앙지검장에 대한 탄핵 소추안이 5일 국회에서 가결돼 직무가 정지되면서, 이 지검장의 업무는 박승환 중앙지검 1차장검사가 대신 맡게 됐다. 전국 최대 검찰청인 서울중앙지검이 수장 탄핵으로 공백 사태를 맞아 ‘직무대행 체제’로 운영되는 것은 처음이다.&lt;br&gt;&lt;br&gt;이 지검장과 함께 이날 탄핵 소추안이 국회에서 통과된 중앙지검 조상원 4차장검사, 최재훈 반부패수사2부장검사도 직무가 정지됐다. 조 차장검사의 업무는 공봉숙 2차장검사와 이성식 3차장검사가 분담하고, 최 부장검사 업무는 이승학 반부패3부장검사가 대행한다. 이 지검장을 비롯한 서울중앙지검 지휘부 3명에 대한 탄핵 사유는 김건희 여사의 도이치모터스 주가조작 연루 의혹을 제대로 수사하지 않고 불기소 처분했다는 것이다.&lt;br&gt;&lt;br&gt;이 지검장은 이날 중앙지검 간부들과 TV로 탄핵 소추안 가결 장면을 생중계로 지켜본 것으로 전해졌다. 이 지검장은 이후 차장·부장검사 전원을 불러 “업무 공백이 생기지 않도록 각자 본연의 업무에 충실해 달라”고 당부했다고 한다. 또 이 자리에서 “내 판단으로 김 여사를 불기소 처분한 것인데, 일이 이렇게 돼 조 차장과 최 부장 등 후배들에게 미안하다”면서 “탄핵 심판에 잘 대응해 다시 돌아오겠다”고 말한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;이 지검장 등은 헌법재판소가 탄핵 심판 기각 결정을 내려야 업무에 복귀할 수 있다. 앞서 탄핵 소추된 안동완·이정섭 검사의 경우 헌재가 기각 결정을 내리기까지 8~9개월이 걸렸다. 이에 이 지검장은 “탄핵 소추로 인한 직무 정지의 효력을 멈춰달라”는 취지의 가처분을 헌재에 낼 예정이다. 만약 헌재가 가처분을 받아들이면 이 지검장은 즉시 업무에 복귀할 수 있다.&lt;br&gt;&lt;br&gt;서울중앙지검은 이날 “탄핵 소추권 남용으로 서울중앙지검의 지휘 체계가 무너짐으로 인해 주요 현안 사건뿐만 아니라 국민의 생명·건강·재산 관련 민생 범죄에 대한 수사 마비도 매우 우려된다”며 “직무대행 체제에서 수사·재판 지연 등으로 인한 국민 피해가 발생하지 않도록 하겠다”고 했다. 법조계에선 중앙지검 1·2·3차장검사 모두 사법연수원 동기(32기)라서 현실적으로 수사 지휘가 어려울 수 있다는 전망이 나온다. 특히 티몬·위메프 판매 대금 미정산 사태, 민주당 전당대회 돈봉투 살포 사건 등 4차장검사가 총괄하던 반부패부 수사가 차질을 빚을 가능성이 크다.&lt;br&gt;&lt;br&gt;심우정 검찰총장도 이날 “굉장히 엄중한 시기에 탄핵이 일방적으로 처리된 것에 대해 매우 유감스럽게 생각한다”며 “민생 범죄 대응에 공백이 없도록 지휘하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>中 쉬인 휴대폰 케이스, 불임 유발 물질 252배</title>
+      <link>https://www.chosun.com/national/national_general/2024/12/06/DUYOFP3Q4RHINMOOLZGMQTPXNI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/06/DUYOFP3Q4RHINMOOLZGMQTPXNI/</guid>
+      <dc:creator>김영우 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 05 Dec 2024 15:50:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EGSYCT5QUZKFJOUKKZ5YVU7WFE.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;서울시 관계자들이 지난달 22일 서울 중구 서울시청에서 해외 온라인 플랫폼(테무·알리익스프레스 등) 안전성 조사 부적합 제품을 공개하는 모습. /뉴스1 
+
+ &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;중국의 온라인 직구 쇼핑몰 ‘쉬인’에서 판매한 휴대전화 케이스에서 국내 기준치의 252배가 넘는 프탈레이트계 첨가제가 검출됐다. 프탈레이트계 첨가제는 불임, 조산 등을 일으킬 수 있는 유해 물질이다.&lt;br&gt;&lt;br&gt;서울시는 중국 온라인 쇼핑몰 쉬인과 알리익스프레스, 테무에서 판매한 생활용품, 가죽 제품 등 284개의 안전성을 검사한 결과, 16개 제품에서 프탈레이트계 첨가제와 중금속 등 유해 물질이 검출됐다고 5일 밝혔다.&lt;br&gt;&lt;br&gt;이 중 쉬인에서 판매한 휴대전화 케이스에서는 기준치의 252.3배에 달하는 프탈레이트계 첨가제가 나왔다. 테무와 쉬인에서 판 또 다른 휴대전화 케이스에서는 각각 기준치의 1.5배, 1.2배에 달하는 납이 나왔다. 서울시 관계자는 “프탈레이트계 첨가제와 납은 자주 접촉하면 암을 일으킬 수 있다”며 “휴대전화 케이스는 평소 피부에 직접 닿는 경우가 많아 주의해야 한다”고 했다. 유해 물질은 주로 케이스의 장식 부분에서 검출됐다.&lt;br&gt;&lt;br&gt;알리와 테무에서 판매한 지갑, 벨트, 장갑 등 가죽 제품 7개에서는 기준치의 최대 6.1배에 달하는 ‘6가 크로뮴’이 검출됐다. 서울시 관계자는 “6가 크로뮴은 천식이나 인후염 등 호흡기 질환을 일으킬 수 있다”고 말했다.&lt;br&gt;&lt;br&gt;알리에서 판매한 눈썹 틴트 화장품 2개에선 각각 기준치의 18배가 넘는 메탄올과 기준치의 2배가 넘는 납이 검출됐다. 눈썹 틴트는 눈썹에 칠하는 화장품이다. 눈썹을 진하게 보이게 한다. 메탄올은 눈에 닿으면 시신경에 손상을 입힐 수 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>검찰 “명태균·김영선 지방선거 후보 돈받고 국힘 조직에 꽂아줘”</title>
+      <link>https://www.chosun.com/national/court_law/2024/12/06/HD6OFVGCLBHU5PGKKKHBABZ2TA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/06/HD6OFVGCLBHU5PGKKKHBABZ2TA/</guid>
+      <dc:creator>창원=이민준 기자, 창원=김준호 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 05 Dec 2024 15:50:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LZ3HFJRI7BNS3PPXLRWGLZ2HYI.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령 부부 공천 개입 의혹의 핵심 인물인 명태균(왼쪽)씨와 김영선 전 국민의힘 의원. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘공천 거래’ 의혹을 수사 중인 검찰이 정치 브로커 명태균(54)씨와 김영선(64) 전 국민의힘 의원을 구속 기소하면서, 이들이 2022년 지방선거 출마를 준비했던 예비 후보 2명을 국민의힘 산하 조직에 합류하도록 도운 후 금품을 받은 정황을 공소장에 적시한 것으로 5일 확인됐다.&lt;br&gt;&lt;br&gt;본지가 입수한 공소장에 따르면, 명씨와 김 전 의원, 여론조사 업체인 미래한국연구소장 김모씨, 지방선거 예비 후보 배모씨와 이모씨는 2021년 5월 30일 처음 만났다. 이날 배씨와 이씨는 “이듬해 지방선거에 출마할 것”이라고 명씨에게 말했고, 명씨는 유력 정치인과의 친분을 과시하며 공천을 도울 수 있는 것처럼 말했다. 명씨는 그해 6월 두 사람이 국민의힘 싱크탱크인 여의도연구원 자문위원으로 임명되도록 도운 것으로 조사됐다.&lt;br&gt;&lt;br&gt;2021년 10월 윤석열 대선 경선 캠프의 국민민생안전특별본부장이던 김 전 의원은 배씨와 이씨를 각각 경북본부장, 대구본부장으로 선임했다. 명씨와 김 전 의원은 2021년 8월부터 2022년 3월까지 배씨와 이씨로부터 각각 1억2000만원씩 불법 정치자금을 받은 혐의로 지난 3일 구속 기소됐다.&lt;br&gt;&lt;br&gt;한편, 명씨는 이날 변호인을 통해 공개한 ‘윤석열 대통령께 올리는 글’을 통해 “단단한 콘크리트는 질 좋은 시멘트만으로 만들어지지 않는다”며 “모난 자갈과 거친 모래를 각종 상황에 따라 비율대로 잘 섞어야 만들어진다. 그게 바로 국정 운영”이라고 했다. 변호인은 “명씨가 비상계엄 선포·해제 사태를 알고 윤 대통령에게 비판과 충고도 귀담아들으라는 취지로 말한 것”이라고 했다. 명씨는 지난 3일 “특검을 간곡히 요청한다”는 입장문을 내기도 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>민노총 “근로조건 개선” 대신 “정권 퇴진” 투쟁</title>
+      <link>https://www.chosun.com/national/national_general/2024/12/06/325AZQCIFFF2VFC5URXUEGQ3SU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/06/325AZQCIFFF2VFC5URXUEGQ3SU/</guid>
+      <dc:creator>김아사 기자, 박진성 기자, 김영우 기자, 울산=김주영 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 05 Dec 2024 15:50:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PZY3JMKNZNKRLH6EAOZCNTLQAM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전국철도노동조합이 총파업에 돌입한 5일 오전 부산 동구 부산역 광장에서 철도노조 총파업 부산본부 출정식이 열리고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최근 ‘비상계엄 사태’ 이후 노동계 파업이 철도에 이어 민간 기업, 학교 급식 등으로 확산되고 있다. “근로 조건 개선” 대신 “정권 퇴진”을 외치며 ‘정치 파업’으로 번지고 있다는 우려가 나온다.&lt;br&gt;&lt;br&gt;민주노총 금속노조 산하 현대자동차 노조는 5일부터 이틀간 부분 파업에 돌입했다. 이날 노조원들은 오전·오후 근무조별로 2시간씩 작업을 멈추고 파업을 벌였다. 파업 시간을 활용해 이날 오후 3시 울산 태화강역 광장에서 열린 민노총 윤석열 대통령 퇴진 집회에 참석했다. 노조원들은 이 자리에서 “윤석열 정권 퇴진” 등 구호를 외쳤다. 노조 간부들은 7일 서울 광화문광장에서 열리는 윤석열 정권 퇴진 3차 총궐기 대회에도 참석할 예정이다. 금속노조 산하인 한국GM 노조도 이날부터 같은 방식으로 파업에 들어갔다.&lt;br&gt;&lt;br&gt;현대차 노조의 이번 부분 파업은 상급 단체인 금속노조의 ‘윤 정권 퇴진 투쟁 지침’에 따른 것이다. 금속노조는 지난 4일 윤 대통령의 퇴진을 요구하며 전체 조합원에게 5일과 6일 이틀간 2시간 이상씩 파업을 하라는 지침을 내렸다. 이에 현대차 노조는 문용문 지부장 명의로 긴급 성명서를 내고 “위법적인 계엄령 선포는 국민을 상대로 한 선전포고이기에 책임을 물을 것”이라며 “민주주의 회복과 윤석열 정권의 독재를 막기 위해 끝까지 싸우겠다”고 밝혔다. 현대차 노조는 조합원이 4만3000여 명에 이른다. 국내 단일 사업장 노조 중 가장 크다. 현대차 관계자는 “임금·단체협약 협상 중인 상황도 아니었는데 노조가 정권 퇴진을 외치며 일방적으로 파업에 들어갔다”며 “조합원의 근로 조건 개선과는 무관한 불법 정치 파업”이라고 말했다.&lt;br&gt;&lt;br&gt;노조가 쟁의권 없이 정치적 이유로 파업을 벌이면 현행법상 불법이다. 노조는 근로 조건과 관련해 사측과 갈등이 발생할 경우 노동위원회 조정 등 절차를 거쳐 파업할 수 있다.&lt;br&gt;&lt;br&gt;금속노조는 오는 11일부터는 무기한 전면 파업에 돌입하겠다고 선언한 상태다. 경영계 관계자는 “기업 입장에서는 마땅히 대응할 방법도 없는데 생산 차질 피해를 떠안아야 할 상황”이라고 했다.&lt;br&gt;&lt;br&gt;6일부터는 학교 급식 근로자들이 속한 전국교육공무직 본부가 파업에 돌입한다. ‘급식 대란’이 우려된다. 교육부와 전국 시도 교육청은 이날 빵, 우유 등 대체식 준비 상황을 점검했다.&lt;br&gt;&lt;br&gt;상급 단체인 민주노총은 노골적으로 ‘대통령 탄핵 운동’을 하고 있다. 민노총은 이날 오전 국민의힘 의원들에게 문자메시지를 보내는 인터넷 링크를 개설했다. 이 링크에 접속하면 국민의힘 의원들에게 윤 대통령 탄핵에 동참하라는 내용의 문자메시지를 보낼 수 있다.&lt;br&gt;&lt;br&gt;민노총은 이 링크를 조합원들에게 배포했다.&lt;br&gt;&lt;br&gt;이 때문에 국민의힘 의원들은 이날 하루종일 ‘문자 폭탄’에 시달렸다고 한다. 국민의힘은 전날 의원총회를 열고 윤 대통령 탄핵 소추에 반대하기로 당론을 정했다.&lt;br&gt;&lt;br&gt;5일 시작된 철도노조 파업도 비상계엄 파동을 틈탄 ‘정치 파업’이라는 분석이 나온다. 노동계에 따르면, 지난 3일 윤 대통령이 비상계엄을 선포하기 전 코레일과 철도노조는 근무 형태 개편이나 추가 인력 충원 등 주요 쟁점에서 상당 부분 의견 접근을 이룬 것으로 알려졌다. 노동계 관계자는 “코레일 측이 임금 인상을 위한 재원 마련 방안을 제시하는 등 노사 양측에서 협상이 타결될 수 있다는 얘기가 나왔었다”고 했다. 그러나 비상계엄 사태 후 협상장의 분위기는 차갑게 돌변했다고 한다. 곧이어 4일 오후 9시쯤 노사 간 협상이 최종 결렬됐다. 철도노조는 사측과 입장차를 이유로 내세웠지만 최명호 철도노조 위원장은 “대통령의 비상계엄 선언과 해제라는 초유의 상황에서 대한민국 민주주의가 위협받고 있다”며 “대한민국 민주주의를 수호하고 국민의 안전을 위한 일인 만큼 (파업에 대한) 국민 여러분 지지와 관심을 부탁드린다”고 했다. 이를 두고 노동계에선 “철도노조가 상급 단체인 민주노총과 발을 맞춰 정치 파업을 하는 것”이라는 말이 나왔다. 이날 철도노조 파업으로 시민들은 불편을 겪었다. 코레일이 운영하는 수도권 전철 1·3·4호선과 수인분당선, 경의중앙선 등은 열차 운행률이 평상시의 약 70% 수준으로 떨어졌다. KTX나 새마을호를 타려던 승객들은 열차 운행이 갑자기 취소돼 역에서 발을 굴렀다. 이날 오후 7시 18분쯤 경의중앙선 중랑역 인근에서는 열차가 선로에서 1시간 30분가량 멈추는 사고가 발생했다. 소방 당국이 “숨을 쉴 수 없다”는 승객 신고를 받고 구조 작업을 벌였다. 일부 승객들은 선로 위를 걸어서 중랑역으로 대피했다.&lt;br&gt;&lt;br&gt;서울 지하철 1~8호선을 운영하는 서울교통공사의 1노조(민주노총)도 6일 총파업을 예고했다. 철도와 지하철 두 노조가 동시 파업을 한 건 8년 전인 2016년이 마지막이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>소양강댐~청평사 4㎞ 물윗길 놓는다</title>
+      <link>https://www.chosun.com/national/regional/2024/12/06/H2OJADP7FZDLTPCO356JP32WYE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/12/06/H2OJADP7FZDLTPCO356JP32WYE/</guid>
+      <dc:creator>정성원 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 05 Dec 2024 15:50:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/V2WZCKYEIVGRBDFCICRPE5ZOWA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/춘천시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2027년 강원 춘천시 소양강댐과 청평사를 잇는 ‘소양강댐 호수 둘레길’이 생긴다. 호수 위에 뜨는 부표를 연결해 부교(浮橋) 형태로 만든다.&lt;br&gt;&lt;br&gt;5일 춘천시에 따르면, ‘소양강댐 호수 둘레길’은 소양호 위에 폭 2m, 길이 4㎞ 규모로 조성한다. 소양호의 경치를 감상할 수 있는 전망대도 3곳 설치한다. 사업비는 103억원이다. 2027년 개통한다는 목표다.&lt;br&gt;&lt;br&gt;소양호는 1973년 소양강댐을 만들면서 생긴 국내 최대 규모 인공 호수다. 춘천과 양구, 인제에 걸쳐 있어 ‘내륙의 바다’라고도 불린다. 청평사는 춘천 오봉산 기슭에 있는 고찰이다. 고려 광종 때인 973년 창건됐다. 보물 164호인 회전문(廻轉門)과 극락전, 삼층 석탑 등 유산이 있다. 육로가 불편해 소양호 선착장에서 배를 타고 들어가야 하지만 올해 13만7668명이 방문했다. 같은 기간 청평사 캠핑장도 5200여 명이 찾았다.&lt;br&gt;&lt;br&gt;호수 둘레길이 생기면 물 위를 걷는 새로운 산책로가 열린다. 왕복 2시간 코스다.&lt;br&gt;&lt;br&gt;강원도에는 철원 한탄강과 화천 북한강에 비슷한 부교길이 조성돼 있다. 연간 10만명이 넘는 관광객이 각각 찾고 있다.&lt;br&gt;&lt;br&gt;춘천시 관계자는 “호수 둘레길이 춘천의 새로운 관광 랜드마크가 될 것으로 기대한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>광화문광장, 2026년 타임스스퀘어처럼 변신</title>
+      <link>https://www.chosun.com/national/national_general/2024/12/06/MVJVM7MCDVF7RAZUK7GBR6UR6A/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/06/MVJVM7MCDVF7RAZUK7GBR6UR6A/</guid>
+      <dc:creator>김영우 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 05 Dec 2024 15:50:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DBCYMWCUAVBQFHJMQN5FP4665Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;광화문 스퀘어 조감도. /종로구&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2026년 서울 광화문광장 일대가 미국 뉴욕 맨해튼의 타임스스퀘어 같은 미디어·광고 명소가 될 것으로 보인다.&lt;br&gt;&lt;br&gt;서울 종로구는 6일 “광화문광장 일대를 미디어·광고 명소로 키우기 위해 광화문광장 주변 빌딩 9곳과 민관 합동 협의회를 출범시킨다”고 밝혔다.&lt;br&gt;&lt;br&gt;앞서 지난 1월 행정안전부는 광화문광장 일대를 ‘옥외 광고물 자유표시구역’으로 지정했다. 옥외 광고물 자유표시구역으로 지정되면 빌딩 전광판의 모양이나 크기, 색깔 등 규제가 완화된다. 뉴욕 타임스스퀘어 같은 미디어·광고 명소를 키우고자 도입한 제도다. 현재 서울 광화문광장 일대와 강남 코엑스 일대, 명동, 부산 해운대해수욕장 등 4곳에 있다.&lt;br&gt;&lt;br&gt;광화문광장 일대에는 KT, 교보생명, 세종문화회관, 동아일보, 코리아나호텔 등 빌딩 9곳이 새 전광판을 설치하기 위해 움직이고 있다.&lt;br&gt;&lt;br&gt;내년 3월 코리아나호텔을 시작으로 차례로 가동한다. 코리아나호텔은 기존 전광판을 철거하고 광화문광장 쪽 외벽을 전부 전광판으로 만들 계획이다.&lt;br&gt;&lt;br&gt;종로구 관계자는 “내년 말까지는 9곳 모두 새 전광판을 설치해 가동할 수 있을 것”이라고 했다.&lt;br&gt;&lt;br&gt;종로구는 흩어져 있는 전광판을 묶어 하나의 미디어 캔버스처럼 제어할 수 있는 프로그램도 개발하고 있다. 종로구 관계자는 “광화문광장 일대에 초대형 미디어 예술 작품을 전시하거나 연말 카운트다운 행사도 열 수 있을 것”이라고 했다. 전광판마다 광고의 30% 정도는 공익 광고를 내보내도록 할 방침이다. 종로구는 이와 별도로 2026년 광화문광장에도 기둥 모양의 전광판을 설치할 계획이다. 정문헌 종로구청장은 “최신 미디어 기술과 창의적 광고를 활용해 국가 상징 공간인 광화문광장을 문화유산과 디지털이 공존하는 세계적 관광 명소로 만들 것”이라고 했다.&lt;br&gt;&lt;br&gt;타임스스퀘어는 세계 유명 기업들이 내건 광고나 미디어 아트 영상이 불야성을 이뤄 한 해 5000여 만명의 관광객이 찾고 있다. 서울 중구는 앞서 지난달 명동 신세계백화점 본점 본관에 대형 전광판 점등식을 열었다. 가로 72m, 세로 18m 규모로 관광객을 끌어모으고 있다. 서울시 마스코트 ‘해치’가 전광판에서 튀어나오는 모습을 연출하는 등 다양한 미디어 영상을 내보내고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“軍부대가 혐오시설? 지역 살리는 보물”… 경북 지자체 4곳 유치전</title>
+      <link>https://www.chosun.com/national/national_general/2024/12/06/HBPK7GAM3BFCRBLFZ63E3YSMCU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/06/HBPK7GAM3BFCRBLFZ63E3YSMCU/</guid>
+      <dc:creator>청송=이승규 기자, 거창=김준호 기자, 연천=김현수 기자, 울산=김주영 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 05 Dec 2024 15:50:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/H4DWJYJLVVAZBMOFF5LH3MMJP4.png"&gt;&lt;figcaption&gt;&lt;small&gt;경북 군위군이 지난달 21일 군부대 유치를 기원하며 연 콘서트 무대. /군위군&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“교도소가 왜 기피 시설입니까? 범죄자가 밖에 돌아다니는 것도 아니고 공무원 가족들도 오고 좋지요.”&lt;br&gt;&lt;br&gt;4일 경북 청송군 진보면. 프랜차이즈 맘스터치 안에는 손님 10여 명이 햄버거를 먹고 있었다. 직원 김모씨는 “주말에는 손님이 하루 100명씩 온다”며 “근처 교도소에서 일하는 공무원과 가족이 주 고객”이라고 했다.&lt;br&gt;&lt;br&gt;진보면에는 교도소 4곳이 있다. 이 때문에 진보면 인구 6300명 중 교정직 공무원이 1600명이다. 공무원 가족까지 더하면 전체 인구의 절반가량이 교도소 가족이라고 한다. 여기에 매년 3000~5000명이 수감자를 보려고 진보면을 찾는다. 면 소재지이지만 군청이 있는 청송읍보다 사람이 북적이는 것은 이 때문이다. 치킨 프랜차이즈 비비큐 프리미엄도 최근 청송읍 대신 진보면에 매장을 열었다.&lt;br&gt;&lt;br&gt;맘스터치 건너편에 있는 키즈카페는 아이들 웃음소리로 시끌벅적했다. 교정 공무원 가족이 늘어나면서 2020년 공공 도서관 1층에 키즈카페를 열었다.&lt;br&gt;&lt;br&gt;군데군데 아파트도 있다. 비싼 곳은 전세가 1억4000만원(전용면적 84㎡)에 달했다.&lt;br&gt;&lt;br&gt;이렇게 ‘교도소 효과’를 본 청송군은 내년에 여성 교도소를 추가로 유치한다는 계획이다. 여성 교정 공무원들이 결혼한 뒤에도 정착할 수 있도록 키즈카페를 늘리고 어린이집, 유치원도 새로 단장하고 있다.&lt;br&gt;&lt;br&gt;청송군처럼 인구가 줄어 ‘지역 소멸’ 위기에 놓인 지역에선 교도소, 화장장, 군부대 등 이른바 ‘혐오 시설’이 ‘선호 시설’이 되고 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XTBWWXC64BFH3CZHMS7Q665JLY.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=양진경&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대구와 경북에서는 지자체들 간 군부대 유치전이 벌어지고 있다. 대구시는 시내에 있는 군부대 5곳을 이전할 계획인데 대구 군위군, 경북 상주시·영천시·의성군 등 4곳이 유치전에 뛰어들었다. 4곳 모두 인구가 줄어 고민인 지역이다.&lt;br&gt;&lt;br&gt;인구 2만3000명인 군위군은 지난달 21일 군부대 유치를 기원하는 ‘군민 화합 콘서트’를 열었다. 참가자들은 “군부대는 군위로”를 외쳤다. 군위군 관계자는 “군부대가 오면 군인 가족들 덕분에 침체된 지역 경제가 활성화될 것으로 기대한다”고 했다. 같은 날 상주시는 ‘노인의 날 기념식’ 행사 자리에서 군부대 유치를 위한 결의를 다졌다. 참석자 300여 명이 ‘군부대 이전지는 상주가 딱이군’이라고 쓴 수건을 펼치고 기념사진을 찍었다. 대구시 관계자는 “국방부가 이달 중 예비 후보지를 선정할 것으로 보인다”며 “내년 1~2월에는 이전 대상 지역을 발표할 수 있을 것”이라고 했다.&lt;br&gt;&lt;br&gt;경기 연천군은 2027년 임진강 변에 반려동물 화장장을 갖춘 ‘서울 반려동물 테마파크’를 조성한다. 12만㎡ 규모로 반려동물 놀이터, 훈련장 등이 함께 들어선다. 수도권에 반려동물 화장장이 생기는 것은 처음이다.&lt;br&gt;&lt;br&gt;김덕현 연천군수가 작년 11월 서울시에 먼저 제안했고 서울시가 예산 562억원을 투자하기로 했다. 인구가 계속 줄고 있는 연천군과 반려동물 화장장 부지를 찾지 못하고 있는 서울시의 이해관계가 맞아떨어졌다. 인구가 4만명인 연천군은 반려동물 테마파크가 들어서면 연간 30만명이 넘는 관광객이 찾을 것으로 기대한다.&lt;br&gt;&lt;br&gt;경남 거창군은 지난 5월 화장장 부지를 남하면 대야리 일대로 정했다. 지난 2월 후보지 공모에 마을 9곳이 뛰어들어 경쟁을 벌였다. 거창군은 화장장이 들어설 마을에 3년간 인센티브 60억원을 약속했다. 10년간 화장장 운영 수입의 20%를 나누고 매점과 식당, 카페 등 운영권도 마을 주민들에게 주기로 했다. 신귀자 대야마을 이장은 “요즘 화장장은 공원처럼 지어 깔끔하다”며 “공장보다 화장장이 낫다고 판단했다”고 말했다.&lt;br&gt;&lt;br&gt;울산 울주군 서생면 주민들은 “원자력발전소를 추가 유치하겠다”며 작년 10월 정부에 유치 신청서를 냈다. 주민 4000명 서명도 받았다. 서생면에는 이미 원전 2기(새울 1·2호기)가 가동 중이고 2기(새울 3·4호기)를 짓고 있는데 2기를 더 유치하겠다는 것이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>사회탐구가 당락 좌우… 국·영·수는 쉬웠다</title>
+      <link>https://www.chosun.com/national/education/2024/12/06/YP3XRZ6NBNBYLGR6IQ6QZXVRXI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/education/2024/12/06/YP3XRZ6NBNBYLGR6IQ6QZXVRXI/</guid>
+      <dc:creator>오주비 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 05 Dec 2024 15:50:00 +0000</pubDate>
+      <content:encoded>2025학년도 대학수학능력시험은 국어·수학·영어 모두 매우 어려웠던 작년보다 쉬운 것으로 나타났다. 작년보다 국어와 수학 만점자가 크게 늘었고, 절대평가인 영어도 1등급 비율이 작년보다 높아졌다. 반면 사회탐구 과목은 대체로 작년보다 어려운 것으로 나타났다.&lt;br&gt;&lt;br&gt;5일 한국교육과정평가원이 발표한 수능 채점 결과를 보면, 국어 표준점수 최고점은 139점, 수학은 140점이었다. 작년 수능보다 각각 11점, 8점 하락했다. 표준점수는 응시자 성적(원점수)을 시험 난도에 따라 보정한 것이다. 표준점수 최고점은 시험이 어려울수록 높아지고, 쉬울수록 낮아진다. 올해 수능 국어와 수학 표준점수 최고점이 작년보다 낮다는 건 시험이 작년보다 쉬웠음을 의미한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XIZ7VD53VZF5BGLVZN4NTIN4RI.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=조선디자인랩 김영재&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;과목별 만점자도 크게 늘었다. 국어 만점자는 1055명으로, 2022학년도 문·이과 통합 수능 도입 이래 가장 많았다. 수학 만점자는 1522명으로 작년(612명)의 두 배가 넘는다. 영어 1등급(90점 이상)은 6.22%로, 작년(4.71%)보다 다소 늘어났다.&lt;br&gt;&lt;br&gt;사회탐구는 9과목 중 생활과 윤리, 한국 지리 등 6과목의 표준점수 최고점이 작년보다 높게 나왔다. 국어·수학·영어와 달리 사회탐구는 작년보다 어렵게 출제된 것이다. 입시 업계에선 국·영·수가 다소 평이하게 출제돼 사회탐구 과목에서 변별력이 생길 것으로 보고 있다. 과학탐구는 8과목 중 생명과학Ⅰ, 지구과학Ⅰ 등 2과목만 표준점수 최고점이 작년보다 높았다.&lt;br&gt;&lt;br&gt;올해 수능은 특히 이과생들이 과학탐구보다 공부량이 적은 사회탐구를 선택하는 ‘사탐런’ 현상이 작년보다 두드러졌다. 사탐과 과탐을 한 과목씩 선택해 치른 수험생은 4만7723명으로, 작년(1만5927명)의 약 3배로 늘었다. 수능 수학에서 미적분이나 기하를 선택한 학생은 통상 이과생으로 분류되는데, 이번 수능 수학에서 미적분·기하를 치고 사탐만 두 과목 선택한 수험생이 3만8927명으로, 작년의 두 배에 달했다. 과탐만 선택한 경우는 작년보다 약 4만명 줄어든 16만여 명이다.&lt;br&gt;&lt;br&gt;임성호 종로학원 대표는 “과목별 만점자가 작년보다 크게 늘어나서 최상위권뿐 아니라 상위권의 경쟁도 치열해질 것으로 보인다”고 밝혔다.&lt;br&gt;&lt;br&gt;수능 채점 결과는 6일 수험생들에게 통지한다. 오는 13일까지 수시 합격자를 발표하고, 이후 31일부터 정시 전형 원서 접수를 시작한다. 내년 신입생이 늘어난 의대 수시 전형 합격자 발표도 6일 본격적으로 시작된다. 6일 중앙대를 시작으로 12일 조선대와 한림대, 13일 서울대, 연세대, 가톨릭대 등이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>IOC 위원 계속한다고 점수 줬는데… 이기흥, 임기 연장 후보에도 못 들어</title>
+      <link>https://www.chosun.com/national/national_general/2024/12/06/WRWPAM5WKNFKLAEKNOCJ2LQKQY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/06/WRWPAM5WKNFKLAEKNOCJ2LQKQY/</guid>
+      <dc:creator>김영준 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 05 Dec 2024 15:40:00 +0000</pubDate>
+      <content:encoded>이기흥(69) 대한체육회장이 내년 말을 끝으로 IOC(국제올림픽위원회) 위원에서 물러난다. IOC 집행위원회는 5일(한국 시각) 내년 3월 그리스에서 열릴 IOC 총회에 제출할 IOC 위원 임기 연장 후보 명단을 발표했는데 여기에 이 회장은 이름을 올리지 못했다. 2000년 이후 선출된 IOC 위원은 정년이 70세지만, NOC(국가올림픽위원회) 대표는 IOC 총회 투표를 통해 최대 임기 4년을 연장할 수 있는 예외 규정이 있다. 2019년 NOC 대표 자격(대한체육회장)으로 IOC 위원이 된 이 회장은 3선에 성공한 다음 이런 예외적 임기 연장을 노렸으나 아예 후보도 들지 못한 것이다. 이로써 내년 말 이후엔 한국인 IOC 위원은 김재열 ISU(국제빙상경기연맹) 회장 한 명만 남게 된다.&lt;br&gt;&lt;br&gt;그동안 이 회장은 여러 비위 혐의를 받고 있으면서도 3선 도전을 강행하려던 이유로 “한국인 IOC 위원 자리를 유지해야 한다”는 논리를 들었다. 정년 예외를 인정받아 IOC 위원 임기를 연장하려면 대한체육회장 자리를 유지해야 한다는 주장이었다.&lt;br&gt;&lt;br&gt;IOC가 이 같은 이 회장 배제 결정을 내리면서 지난달 그의 3선 도전을 승인한 대한체육회 스포츠공정위원회 심사 과정도 도마에 오르게 됐다. 5일 국민의힘 김승수 의원실에 따르면 이 회장은 당시 총점 100점 중 76점을 받았는데 ‘국제기구 임원 진출’ 항목에서 10점 만점에 8점을 받았다. 세부적으로는 현직을 기준으로 주는 ‘국제기구 임원 경력’에서 5점, 향후 진출 가능성을 따지는 ‘국제 기구 진출 등급’에서 3점이었다. ‘국제기구 임원 당선을 위한 노력·계획 가능성’에서도 20점 중 16점을 받았다. 지금처럼 IOC 위원 지위 상실이 확정되는 상황이었다면 달라질 수 있었다는 얘기다. 당시 회의록을 보면 회의를 기피한 김병철 위원장 대신 회의를 주재한 A부위원장은 “이 회장이 국제적인 명망가가 아닌데 IOC 위원 임기 연장이 유력하다는 근거가 뭐냐” “이 회장이 3연임을 하면 안 되는 이유가 아니라 세 차례나 해야 하는 이유가 뭔지를 찾아야 한다” “비리 혐의로 직무 정지까지 됐으니 오늘 결정하지 말고 추이를 보자” 등 승인에 비판적인 입장을 보였다. 그러나 일부 위원이 “NOC 대표 자격 IOC 위원 대부분 임기가 연장됐다” “이 회장 비위는 아직 의혹일 뿐이다” “회장 선거 일정이 있으니 빨리 결론을 내야 한다”며 의결을 주도했다. 그 결과 출석 위원 11명 중 찬성 9표, 반대 2표로 이 회장 3선 도전을 승인했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[신문으로 배우는 실용한자] 기선제압(機先制壓)</title>
+      <link>https://www.chosun.com/national/nie/chinese_character/2024/12/06/UHAJLTZIYZH35N6ILKHVQXL6PY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese_character/2024/12/06/UHAJLTZIYZH35N6ILKHVQXL6PY/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Thu, 05 Dec 2024 15:40:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/D6FECNVSU5E4RKO6HGXQKVDB7U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[두근두근 뇌 운동] [2517] 문장 꽈배기</title>
+      <link>https://www.chosun.com/national/nie/2024/12/06/BDY3VKYIZJF3TLYQNG57WKJH2Q/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/12/06/BDY3VKYIZJF3TLYQNG57WKJH2Q/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Thu, 05 Dec 2024 15:40:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WMZESAR57FCTNEDK5642BTDB74.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[스피킹이 강해지는 영어] alternate between ~ and …</title>
+      <link>https://www.chosun.com/national/nie/english/2024/12/06/G2VRZFDHDJHCNB5NDEMXV6YMWE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/english/2024/12/06/G2VRZFDHDJHCNB5NDEMXV6YMWE/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Thu, 05 Dec 2024 15:40:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/L6RWKOZ6YNGABAVVIJGBMFK4R4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[매일매일 중국어 한마디] 낙엽은 뿌리로 돌아간다</title>
+      <link>https://www.chosun.com/national/nie/chinese/2024/12/06/5YYWBOX4BBCJLLF6DSDGKCLJXM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese/2024/12/06/5YYWBOX4BBCJLLF6DSDGKCLJXM/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Thu, 05 Dec 2024 15:40:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BF5U3M2WWBA6LGVOU2CHAEMWOI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[입에 착착 붙는 일본어] 선풍을 일으키다</title>
+      <link>https://www.chosun.com/national/nie/japanese/2024/12/06/WVVR2HRYX5CLDPSA7S4BYHT6LQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/japanese/2024/12/06/WVVR2HRYX5CLDPSA7S4BYHT6LQ/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Thu, 05 Dec 2024 15:40:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/K3GDKQVYTNEFTHARCDG7XRRJII.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>배양섭·이승환 교수 동북아생물보전대상</title>
+      <link>https://www.chosun.com/national/people/2024/12/06/42DY46SEWRBCBLMLJQPVRYCNZU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/12/06/42DY46SEWRBCBLMLJQPVRYCNZU/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Thu, 05 Dec 2024 15:35:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BVH4WV63BNCRNFLX5LLYEDXGSU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;인천대 배양섭 교수&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JA7WUPYMBNDQJLMFTRWTGQRMNE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울대 이승환 교수&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천대 생명공학과 배양섭 교수, 서울대 응용생물화학부 이승환 교수(사진)가 5일 40여 년 동안 우리나라 곤충 연구에 투신한 공로로 제19회 동북아 생물 보전 대상을 공동 수상했다. 배 교수는 한반도 신종 47종, 미기록 246종 곤충을, 이 교수는 신종 122종, 미기록 311종 곤충을 발굴해 대한민국 생물 다양성 연구와 멸종 위기 곤충 보전에 기여한 공로를 인정받았다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[인사] KBS 아트비전 외</title>
+      <link>https://www.chosun.com/national/obituary-personnel/2024/12/06/5VLEBN47RVFDFFP4PMBXIU7DBA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2024/12/06/5VLEBN47RVFDFFP4PMBXIU7DBA/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Thu, 05 Dec 2024 15:35:00 +0000</pubDate>
+      <content:encoded>▲&lt;b&gt;KBS 아트비전&lt;/b&gt;▷경영기획국장 이정섭▷디자인스튜디오국장 소영준▷장식스튜디오국장 이강호▷의상스튜디오국장 이석근▷문화사업국장 하동금▷방송미술사업스튜디오프로젝트팀장 이철웅&lt;br&gt;&lt;br&gt;▲&lt;b&gt;SBS 미디어그룹&lt;/b&gt;◇SBS▷편성·사업본부장 최태환▷제작본부장 박상욱▷제작특임부본부장 김기슭▷편성국장 이정우▷사업국장 권병수▷제작국장 정철원▷라디오국장 김영우▷기술국장 박정기▷경영혁신팀장 김석희▷감사팀장 우규호▷편성기획팀장 이은지▷광고팀장 김진철▷콘텐츠사업팀장 김준환▷제작디지털사업팀장 은지향▷제작IMC팀장 임홍식▷제작1CP 한재신▷제작2CP 김재원▷제작3CP 소형석▷라디오편성팀장 남중권▷라디오1CP 김찬웅▷라디오2CP 이선아▷인사팀장 최광재▷재무팀장 최세영▷ERP팀장 정일영▷TV기술팀장 윤준호▷미디어IT팀장 이재영▷라디오편성팀 디지털콘텐츠담당 박형주▷노사협력팀 안전보건관리담당 최동찬◇SBS M&amp;amp;C▷대표이사 사장 강선우▷영업본부장 문종목&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[부음] 김군자 前 주례여중 교감 별세 외</title>
+      <link>https://www.chosun.com/national/obituary-personnel/2024/12/06/GGUEGFM37VEQFHWL2JICKX5CGI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2024/12/06/GGUEGFM37VEQFHWL2JICKX5CGI/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Thu, 05 Dec 2024 15:35:00 +0000</pubDate>
+      <content:encoded>▲&lt;b&gt;김군자&lt;/b&gt; 前 주례여중 교감 별세, &lt;b&gt;김웅규 &lt;/b&gt;충북대 법학전문대학원 교수·&lt;b&gt;김진아 &lt;/b&gt;우성약국 대표약사·&lt;b&gt;김진형 &lt;/b&gt;부산 엘르온누리약국 대표약사·&lt;b&gt;김웅대 &lt;/b&gt;창원 상남으뜸플란트치과 원장 모친상, &lt;b&gt;김영운 &lt;/b&gt;김영운내과 원장·&lt;b&gt;오상헌 &lt;/b&gt;새로운치과 원장 장모상, &lt;b&gt;이경희 &lt;/b&gt;더바른치과 원장·&lt;b&gt;임연희 &lt;/b&gt;상남으뜸플란트치과 원장 시모상=5일1시50분 경남 창원한마음병원, 발인 7일8시, (055)225-1203&lt;br&gt;&lt;br&gt;▲&lt;b&gt;박금연&lt;/b&gt; 별세, &lt;b&gt;정승균&lt;/b&gt; 조선일보 CS담양센터 대표 장모상=5일7시20분 광주광역시 그린장례문화원, 발인 7일9시, (062)250-4455&lt;br&gt;&lt;br&gt;▲&lt;b&gt;박필남&lt;/b&gt; 별세, &lt;b&gt;김병록&lt;/b&gt;·&lt;b&gt;김병근&lt;/b&gt;·&lt;b&gt;김인순 &lt;/b&gt;前 장흥 장평중 교장·&lt;b&gt;김병로 &lt;/b&gt;광주광역시 기획조정실 주무관·&lt;b&gt;김정희 &lt;/b&gt;법무법인 라포 대표변호사 모친상, &lt;b&gt;이병삼&lt;/b&gt; 전남 강진교육장 장모상=5일4시15분 광주광역시 금호장례식장, 발인 7일9시, (062)227-4382&lt;br&gt;&lt;br&gt;▲&lt;b&gt;배양림&lt;/b&gt; 별세, &lt;b&gt;김정환&lt;/b&gt;·&lt;b&gt;김형철&lt;/b&gt; CJ CR실 담당임원 모친상, &lt;b&gt;김지현&lt;/b&gt;·&lt;b&gt;이세미&lt;/b&gt; 샹테카이 코리아 지사장 시모상=5일6시9분 서울성모병원, 발인 7일7시10분, (02)2258-5940&lt;br&gt;&lt;br&gt;▲&lt;b&gt;유현숙&lt;/b&gt; 별세, &lt;b&gt;정동윤&lt;/b&gt; 대한민국학술원 회원 아내상, &lt;b&gt;정진욱&lt;/b&gt; 前 공정거래위원회 상임위원·&lt;b&gt;정경태&lt;/b&gt; 모친상, &lt;b&gt;한성희&lt;/b&gt; 분당서울대병원 교수·&lt;b&gt;나승민&lt;/b&gt; 시모상=4일11시40분 삼성서울병원, 발인 7일6시, (02)3410-6917&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[우리 아이 이럴땐 어떻게?] 친구에게 집착하는 아이에겐 “싫어할 수도 있어” 말해주세요</title>
+      <link>https://www.chosun.com/culture-life/culture_general/2024/12/06/SCQYJMGHBRDINNXFQKX2AKQUOQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/culture-life/culture_general/2024/12/06/SCQYJMGHBRDINNXFQKX2AKQUOQ/</guid>
+      <dc:creator>이윤선 배화여대 아동보육과 교수</dc:creator>
+      <description/>
+      <pubDate>Thu, 05 Dec 2024 15:30:00 +0000</pubDate>
+      <content:encoded>&lt;b&gt;Q. 만 4세 여자아이를 키우는 엄마입니다. 아이가 유독 한 친구를 좋아해서 걱정입니다. 친구와 놀고 헤어질 때면 몇 번이고 “내일도 나랑 같이 놀자”고 얘기해요. 친하게 지내는 것은 좋지만, 저희 아이가 그 친구에게 집착하는 것 같아 고민입니다. 어떻게 하면 좋을까요?&lt;/b&gt;&lt;br&gt;&lt;br&gt;A. 만 4세 정도가 되면 자신과 자주 노는 또래를 친구라고 부르는데 이 시기 유아는 자기 중심적인 사고를 하기 때문에 관계에서도 자신만을 생각합니다. 상대 유아가 자신을 위해서 무엇을 해주었으면 하는지에 대해서만 바랄 뿐, 자신이 해야 하는 것에 대해서는 잘 생각하지 않는 것이지요. 이 시기 아이들은 자신이 생각하는 대로 상대도 생각할 것으로 믿습니다. 그래서 자신이 원하는 것과 상대 유아가 원하는 것이 다름을 알게 되면 매우 실망하거나 당황할 수 있습니다.&lt;br&gt;&lt;br&gt;상대 유아에게 “내일도 나랑 같이 놀자”고 반복해 표현하는 것을 보면 상대 유아와 놀면서 즐거움과 행복감을 느끼는 것을 알 수 있어요. 함께 놀이하며 긍정적인 경험이 지속될 경우 ‘계속 같이 놀고 싶어’라고 표현할 수 있습니다. 이러한 표현은 발달 과정상 아무런 문제가 없습니다.&lt;br&gt;&lt;br&gt;그러나 상대 유아에게 집착하는 것처럼 보이는 행동이 그 유아가 불편함을 느낄 수 있는 행동인지 살펴볼 필요가 있습니다. 만약 상대 유아가 불편해하고 있다면, 상대의 관점과 상황에 공감하고 이해할 수 있도록 가르쳐야 합니다.&lt;br&gt;&lt;br&gt;“지금 친구의 얼굴을 봐. 네가 한 말에 화가 난 것 같아” “네가 그 장난감을 오래 갖고 놀아서 친구가 많이 기다렸어” 같은 말로 상대 유아의 감정을 느낄 수 있도록 하세요. 장난감을 가지고 놀 때는 차례를 바꾸거나, 나누어 쓸 수 있도록 소통의 기술을 지도하는 것도 필요합니다. 유아는 적절한 행동을 하려고 하지만 그 방법을 잘못 판단하는 경우가 많고 이 때문에 친구 관계에서 문제가 발생하기도 합니다.&lt;br&gt;&lt;br&gt;상대 유아가 자신하고만 놀아야 한다든지, 다른 또래들과 어울리지 못하도록 위협하거나 귀찮게 하는 행동을 한다면, 양육자가 상대 유아의 역할이 되어 불편했던 감정을 말해주는 것도 효과적인 방법이 될 수 있답니다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[알립니다] 우리 아이 출생 소식 액자에 담아 간직하세요</title>
+      <link>https://www.chosun.com/special/announcement/2024/12/06/NFVFVFMFVJB4NAJFCWO72VAA2I/</link>
+      <guid isPermaLink="true">https://www.chosun.com/special/announcement/2024/12/06/NFVFVFMFVJB4NAJFCWO72VAA2I/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Thu, 05 Dec 2024 15:30:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/E4KDZY6J6BERFATXPJ5Z47ZLWM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;조선일보에 실린 우리 아기 출생 소식, 본인이나 지인의 인터뷰·사진 기사를 영원히 추억으로 간직하세요. 조선일보는 독자가 원하는 신문 지면을 그대로 고급 액자에 담아 드리는 ‘조선일보 리프린트’ 서비스를 합니다. 매주 ‘아이가 행복입니다’ 지면에 소개된 한 가족을 추첨해 리프린트를 선물로 드립니다. 지난달 29일 ‘우리 아기가 태어났어요’ 코너에 실린 김하루&amp;lt;사진&amp;gt;가 이번 주 주인공입니다. 자세한 내용은 홈페이지(&lt;a href="http://reprint.chosun.com/" target="_blank"&gt;reprint.chosun.com&lt;/a&gt;)에서 확인할 수 있습니다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[오늘의 날씨] 2024년 12월 6일</title>
+      <link>https://www.chosun.com/national/transport-environment/2024/12/06/EW5KNZFLDJBDDDX6MGNDYMFRGE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2024/12/06/EW5KNZFLDJBDDDX6MGNDYMFRGE/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Thu, 05 Dec 2024 15:30:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FTY54BZGSFG2TKXPGQ77SJF5UY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>대학 수업서 만나 부부로… “어른 둘·아이 셋, 집안일도 팀플”</title>
+      <link>https://www.chosun.com/culture-life/culture_general/2024/12/06/3DLUULW4L5EKDFMC2GMFLMHUMA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/culture-life/culture_general/2024/12/06/3DLUULW4L5EKDFMC2GMFLMHUMA/</guid>
+      <dc:creator>정해민 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 05 Dec 2024 15:30:00 +0000</pubDate>
+      <content:encoded>경기 용인에 사는 박혜정(38)·이승상(41)씨 부부는 도현(7)·하민(3)·지현(1) 남매를 키운다. 부부는 맑은 표정을 가진 아이들의 이름 앞 글자를 따 ‘도하지 삼 남매’라고 부른다. 이 가족은 지난 10월 본지의 저출생 극복 캠페인 ‘아이가 행복입니다’ 시즌 7 행사의 주요 이벤트인 ‘31초 우리 가족 행복 담기 영상제’에 가족 사진을 출품해 최우수상을 받았다. 이번 ‘31초 영상제’에는 전국에서 영상·사진 총 5820점이 출품됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4TPWA3QZMFFJHPVR5H4X57GYPI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;올해 본지의 '아이가 행복입니다' 시즌 7 행사의 '31초 우리 가족 행복 담기 영상제'에 출품해 최우수상을 받은 박혜정·이승상씨 부부의 가족 사진. 지난해 10월 강원 춘천 여행에서 찍었다. 사진 속 세 자녀는 왼쪽부터 첫째 아들 도현, 둘째 아들 하민, 셋째 딸 지현. /박혜정씨 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이 가족이 보낸 사진 제목은 ‘푸른 하늘 아래 푸르른 우리 가족’. 셋째 지현이가 태어나고 처음으로 가족 다섯이 함께 떠난 강원 춘천 여행에서 스마트폰 셀프 카메라로 찍었다.푸른 하늘을 배경으로 가족들이 둥글게 모여 카메라를 들여다보는 구도를 통해 가정의 행복과 화합을 표현했다.&lt;br&gt;&lt;br&gt;지난 3일 찾아간 이 가족 집 거실 책장 한가운데에는 수상한 사진과 함께 받은 ‘아이가 행복입니다’ 상패가 놓여 있었다. 아내 박혜정씨는 “우리 가족이 함께 일군 상이라 더욱 귀하다”며 “다른 가족들도 ‘31초 영상제’에 사진이나 영상을 남기는 과정에서 큰 행복을 느꼈으면 좋겠다”고 했다.&lt;br&gt;&lt;br&gt;남편 이승상씨는 방산 업체 LIG넥스원에서 일한다. 수출 무기 분야를 맡고 있어 해외 출장이 잦다. 한 번 해외 출장을 다녀올 때마다 약 일주일씩 집을 비우기도 한다. 그래서 아내의 육아 부담을 줄이기 위해 아이들에게 ‘가족 규칙’을 만들어 알려줬다. 아이들은 저녁 식사를 마친 뒤 1시간 동안만 애니메이션 등 영상을 볼 수 있다. 이어 오후 8시가 되면 거실 불이 자동으로 어두워지고 스피커에서는 자장가가 흘러나오도록 설정해 뒀다. 이씨는 이를 위해 자동으로 설정한 조명을 거실 창문 쪽 천장에 설치했다. 취침 시간인 오후 9시까지는 온 가족이 거실에 모여 책을 보거나 자장가에 맞춰 춤을 추는 등 서로에게 집중하는 시간을 갖는다고 한다. 아내 박씨는 “아이들이 잠들기 전 거실에 모여 함께 보내는 시간이 가장 행복하다”며 “집안일이 쌓여있어도 이 시간만큼은 잠시 멈추고 서로 눈을 맞춘 채 이야기를 나눈다”고 했다.&lt;br&gt;&lt;br&gt;셋째 지현이가 아직 어려 다섯 가족이 함께 먼 곳으로 여행을 다니기 쉽지 않다. 부부는 ‘도하지 삼 남매’와 보내는 일상에서 가장 큰 행복을 느낀다고 했다. 박씨는 “최근 백화점에 갔을 때 셋째가 걸음이 느려 오빠들과 멀어진 적이 있었는데 첫째·둘째가 셋째를 발견하고는 한달음에 달려와 차례대로 안아주는 모습이 정말 뭉클했다”고 했다.&lt;br&gt;&lt;br&gt;남편 이씨가 꼽은 ‘삼 남매를 낳기 잘했다’고 느끼는 순간 역시 “거실에 모두 모여 북적북적하게 즐거운 시간을 보낼 때”다. 외동아들인 이씨는 결혼 전부터 아이를 세 명은 갖고 싶었다고 한다. 그는 “평소 눈물이 없는 편이지만 아이들과 함께 있을 때는 너무 행복해 나도 모르게 갑자기 눈물이 차오르기도 한다”고 했다.&lt;br&gt;&lt;br&gt;물론 삼 남매를 키우는 데에는 어려움도 적지 않다. 지난해에는 부부가 신혼 가전으로 들여온 세탁기가 망가졌다. 아이들이 많아 다른 가정보다 빨래를 자주 돌릴 수밖에 없기 때문이다.&lt;br&gt;&lt;br&gt;박씨는 “집안일은 가족 전부가 각자 맡은 역할에 전력을 다해 ‘팀플(팀 프로젝트·조별 과제)’처럼 한다”고 했다. 아이들도 집안일을 돕는다. 초등학교 1학년인 첫째 도현이는 따로 용돈을 받지 않고 빨래를 개거나 쓰레기를 버릴 때마다 500~1000원씩 받는다. 둘째 하민이와 셋째 지현이도 분리수거를 할 때 엄마·아빠와 함께 놀이처럼 작은 쓰레기를 버린다. 박씨는 “아이는 셋인데 부모는 둘이라 온 힘을 다해 아이들을 돌본다 해도 놓치는 일들이 있다”며 “그럴 땐 아이들이 스스로 무엇을 해야 할지 찾아가 주기도 해서 고맙다”고 했다. 이씨는 “아이들과 함께하면 집안일도 즐거운 마음으로 하게 된다”고 말했다.&lt;br&gt;&lt;br&gt;부부는 2006년 같은 대학교 교양 수업에서 처음 만났다. 아내는 수업 출석에 우렁차게 대답하는 남편의 넉살에, 남편은 아내의 상냥한 모습에 매력을 느꼈다고 한다. 그렇게 9년을 만난 뒤 2015년 결혼했다. 현재 용인시 공무원인 박씨가 공무원 시험 합격 결과를 기다리며 마음을 졸일 때, 이씨가 “그냥 결혼하자”며 청혼했다. 박씨는 “주위에서 기대가 많고 저도 부담이 커서 가장 마음이 힘들 때였는데 남편이 결혼하자고 해줘서 너무 고마웠다”고 했다. 아내 박씨는 둘째를 낳기 전인 2020년부터 육아휴직 중이고, 내년 7월 복직 예정이다. 이씨는 “‘31초 우리 가족 행복 담기 영상제’에서 받은 상품권은 내년에 아내가 복직할 때 예쁜 옷을 사라고 남겨뒀다”고 했다.&lt;br&gt;&lt;br&gt;남편 이씨도 첫째 아이를 낳았을 때는 약 3개월 동안 육아휴직을 했다. 엄마의 육아휴직이 끝나는 날 아빠가 육아휴직을 시작해 ‘바통 터치’를 했다. 남편이 홀로 아이를 돌보게 된 첫날, 첫째 도현이가 고열을 앓았다. 이씨는 “아이를 돌보는 방법을 잘 모르는 상태에서 어쩔 줄 몰랐던 기억이 있다”며 “제가 육아휴직을 했던 짧은 시간 동안 아내를 더 이해하게 됐고, 이후 아이들을 키우는 문제에서 부부간의 갈등이 대폭 줄었다”고 했다. 그러면서 “주변 남자 후배들에게도 늘 육아휴직을 추천하고 있다”고 했다.&lt;br&gt;&lt;br&gt;이씨는 “저희 부부는 아무것도 가진 게 없는 대학생 때부터 만나 지금까지 많은 걸 이뤄냈다”며 “소중한 ‘도하지 삼 남매’를 세상에 소환해 같이 살아가는 것 자체만으로도 충만한 느낌이다. 아무리 친한 친구와 함께하는 시간이라도 가족과 함께하는 시간에는 비할 수 없다”고 했다. 박씨는 “아이를 키우려면 온 마을이 필요하다는 말이 있다. 저희 부부의 노력도 있었지만 양가 부모님들과 아이들의 선생님들이 안 계셨다면 잘 기르기 어려웠을 것”이라며 “항상 감사드리는 마음을 되새기며 산다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>한국법학교수회 “비상계엄은 위헌·위법… 尹 책임져야”</title>
       <link>https://www.chosun.com/national/court_law/2024/12/05/ZFPQMROF3FDNBGPXNMV4TGLMUM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/05/ZFPQMROF3FDNBGPXNMV4TGLMUM/</guid>
@@ -566,15 +802,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WFLK423I4RDILEE5CLVL6ODMNM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;4일 오후 서울 동화면세점 앞에서 열린 '내란죄 윤석열 퇴진! 시민촛불' 집회에서 전국민주노동조합총연맹을 비롯한 참석자들이 촛불과 피켓을 들고 있다. /박상훈 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전국민주노동조합총연맹(민주노총)은 4일 “윤석열 정권 퇴진 시까지 무기한 전면 총파업에 돌입한다”고 밝혔다. 이들은 5일 공공 부문 파업을 시작으로 6일엔 탄핵 촉구 총파업대회, 7일엔 ‘윤석열 정권 퇴진 3차 총궐기 범국민대회’도 연다. 노동계 전문가들은 민주노총이 ‘정치 파업’을 하겠다는 뜻이란 분석을 내놓고 있다. 비상계엄 사태를 동력으로 파업을 무기 삼은 후 정권 퇴진 주장을 본격화한다는 것이다.&lt;br&gt;&lt;br&gt;양경수 민주노총 위원장은 이날 오전 서울 정동 사무실에서 기자회견을 열어 “’생산’을 멈춰 윤석열 정권의 폭주를 막겠다”며 “윤석열을 끌어내리고 처벌하기 위해 총력을 다해 싸울 것”이라고 했다. 이날 오후 6시부턴 서울 광화문 광장에서 정권 퇴진 구호를 앞세운 촛불집회도 열었다. 집회에는 2000명가량이 모였는데, 참석자들은 촛불을 들고 ‘윤석열 퇴진’을 외치며 대통령실이 있는 용산으로 행진을 하기도 했다. 한 노동계 인사는 “박근혜 전 대통령 탄핵에 결정적 역할을 했던 촛불집회 때처럼 정권 퇴진 동력을 만들려는 것 같다”며 “조직력과 자금을 갖춘 민주노총이 주도적 역할을 맡은 것”이라고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3RP46ZFX2NFSHFG4GHAR3UUGOM.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=양인성&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;민주노총은 4일 오전 중앙집행위원회에서의 총파업 결의를 시작으로 일부 산별 노조의 집행위원회 결의 등을 마쳤다. 민주노총 산하 최대 산별 노조 중 하나인 금속노조도 11일부터 전면 총파업에 돌입하겠다고 밝혔다.&lt;br&gt;&lt;br&gt;이는 파업을 위한 사전 작업을 진행한 것이다. 실제 개별 업체 노조에서 파업하려면 조합원 투표 등을 통해 쟁의권 확보 절차를 거쳐야 한다. 노동계 전문가들은 민주노총이 쟁의권을 확보한 곳에서 파업을 먼저 진행하고 이를 동력 삼아 파업 분위기를 확산할 것으로 보고 있다. 4일 밤 코레일과 철도 노조 협상도 결렬됐다. 민주노총은 이날 “이제 심판의 시간”이라며 “국민과 함께 선두에 서서 윤석열 즉각 퇴진을 위해 투쟁해나갈 것”이라고 했다.&lt;br&gt;&lt;br&gt;총파업의 시작은 5일 철도 노조 파업이다. 코레일의 다수 노조인 철도 노조는 KTX와 일반 열차 외에 수도권 전철 1·3·4호선 일부와 수인분당선·경의중앙선·서해선 열차 등의 운행을 책임지고 있다. 6일엔 지하철 1~9호선 운행을 맡은 서울교통공사 노조가 파업에 나선다. 철도 노조와 서울교통공사 노조가 동시에 파업을 하는 건 2016년 이후 8년 만이다.&lt;br&gt;&lt;br&gt;파업이 시작되면 교통 대란이 불가피하다. 열차 운행이 평소의 70%로 줄어들기 때문이다. 이로 인해 배차 간격이 늘어나고 열차가 지연되면서 극심한 혼잡이 예상된다. 코레일 측은 “필수 인력과 대체 인력 등 1만4860명을 투입할 것”이라며 “KTX는 평소 대비 66~67%, 전철 75% 등 평소 대비 70%가량의 열차 운행률이 예상된다”고 했다. 서울교통공사도 “필수 인력과 대체 인력 1만3000명을 투입할 예정”이라며 “운행률은 73%가량으로 전망된다”고 했다.&lt;br&gt;&lt;br&gt;급식 종사자가 속한 전국교육공무직 본부가 6일부터 파업에 돌입하면 혼란은 더 커질 것으로 보인다. 지난 2022년 11월 파업이 일어났을 땐 전국 유·초·중·고교의 25.3%(3181곳)에서 정상 급식을 하지 못해 빵·우유 등 대체식을 지급했다.&lt;br&gt;&lt;br&gt;경영계에선 자동차·조선·건설·화학 등 주요 산업 현장에서의 연쇄 파업을 우려하고 있다. 한국경영자총협회는 이날 “정치 구호를 앞세운 총파업은 사회 혼란을 불러오고 국가 경제에 어려움을 가중시킬 수 있는 만큼 자제해달라”고 했다. 한국무역협회도 “비상사태가 법과 원칙에 따라 질서 있게 평시의 안정을 되찾은 만큼 노동계도 파업을 자제하고 경제 살리기에 동참해 달라”고 했다.&lt;br&gt;&lt;br&gt;민주노총과 달리 정부와 대화 기조를 유지해 오던 한국노총도 이날 비상계엄 선포를 이유로 노·사·정 사회적 대화 중단을 선언했다. 한국노총은 이날 “오늘부로 윤석열을 대한민국 대통령으로 인정할 수 없으며, 윤석열 정부를 사회적 대화 상대로도 인정할 수 없다”며 “정권 퇴진을 결의하고, 경제사회노동위원회 및 노동계 대표로 참여하는 정부 위원회 등에 불참하기로 했다”고 밝혔다. 이에 따라 사회적 대화 기구인 경사노위의 파행은 불가피해지고, 여기서 추진하던 정년 연장 등 사회적 과제에 대한 합의안 마련 작업도 중단될 것으로 보인다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>조국, 12일 대법 선고 연기 신청</title>
-      <link>https://www.chosun.com/national/court_law/2024/12/05/NQNBX47BN5DI5LYW2JSSMEURKA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/05/NQNBX47BN5DI5LYW2JSSMEURKA/</guid>
-      <dc:creator>박혜연 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 04 Dec 2024 15:50:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/A22FCTURIZEOJPBW6QYVUKHH24.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;자녀 입시 비리, 청와대 감찰 무마 등 혐의로 기소돼 1·2심에서 징역 2년을 선고받은 조국 조국혁신당 대표가 4일 대법원 선고를 미뤄달라고 요청했다. 당초 대법원 3부(주심 엄상필 대법관)는 오는 12일 조 대표의 선고를 진행할 예정이었다.&lt;br&gt;&lt;br&gt;조 대표 측 변호인은 이날 대법원에 선고기일 연기 신청서를 제출하면서 “비상계엄으로 중차대한 시기 헌정 질서를 회복하는 데 주요 정당들의 역할이 필요한 상황”이라며 “당 리더십에 갑작스러운 공백이 생기면 부적절할 수 있어 선고 연기를 요청했다”고 밝혔다.&lt;br&gt;&lt;br&gt;이에 대해 대법원 관계자는 “선고 연기를 신청한 이유가 이례적이긴 하지만, 선고기일 변경은 전적으로 재판부가 판단할 사안”이라고 설명했다.&lt;br&gt;&lt;br&gt;조 대표는 딸의 서울대 의전원 입시에 허위 인턴 확인서를 제출하는 등 13개 범죄 혐의로 2019년 12월 기소됐다. 1심은 작년 2월 조 대표의 혐의 중 8개를 유죄로 보고, 징역 2년에 추징금 600만원을 선고했다.&lt;br&gt;&lt;br&gt;1심은 자녀의 입시 비리 관련 혐의(업무방해 등)를 비롯해, 청와대 민정수석 재직 당시 특감반에 유재수 전 부산시 경제부시장 감찰 중단 압력을 넣은 혐의(직권남용), 딸 조민씨가 다니던 부산대 의전원에서 장학금 600만원을 받은 혐의(청탁금지법 위반) 등을 유죄로 인정했다. 지난 2월 2심도 1심과 같이 조 대표에 징역 2년을 선고했다. 그러나 1·2심 모두 방어권 보장 등을 이유로 조 대표를 법정 구속하지는 않았다.&lt;br&gt;&lt;br&gt;대법원이 원심대로 징역 2년형을 확정하면 조 대표는 의원직을 잃고 수감 생활을 시작하게 된다. 정당법에 따라 당원 자격도 상실해 당대표직에서도 물러나야 한다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>법원별 투표 대신 전국서 천거… 후보자 몰려</title>
       <link>https://www.chosun.com/national/court_law/2024/12/05/XOMJHEDIXVFWFEQM7JJLW2JQZI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/05/XOMJHEDIXVFWFEQM7JJLW2JQZI/</guid>
@@ -593,150 +820,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/N4KGGBRJRTRU2FXEU2W6B55ZKA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;계엄군이 4일 새벽 국회 본관 사무실 창문을 깨고 건물 내부로 진입하고 있다. 국회 보좌진들이 건물 통로에 의자, 책상 등 집기로 바리케이드를 치고 소화기를 뿌리며 막아서면서 곳곳에서 계엄군과 대치했다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 3일 밤 윤석열 대통령의 비상계엄 선포에 대해 법률 전문가 다수는 “헌법과 법률 요건을 충족하지 못했다”고 평가했다. 현 상황이 1979년 이후 45년 만에 비상계엄을 선포할 정도로 위급하다고 보기 어렵고, 헌법과 법률이 정한 절차도 제대로 지키지 않았다는 의견이 대부분이었다. 계엄 선포에 위헌·위법이 있었던 만큼 윤 대통령 탄핵 사유가 발생했다는 것이다. 일부에선 계엄군을 동원한 국회 봉쇄는 ‘내란죄’ 적용이 가능하다는 의견도 나온다. 내란죄는 현직 대통령이라도 소추와 처벌이 가능하다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇윤 대통령, 비상계엄 요건·절차 지켰나&lt;/b&gt;&lt;br&gt;&lt;br&gt;헌법 제77조는 전시‧사변 또는 이에 준하는 국가비상사태를 병력으로 대응하거나, 공공의 안녕질서를 유지할 필요가 있을 때 대통령이 계엄을 선포할 수 있도록 하고 있다. 윤 대통령은 국회의 정부 관료 탄핵 소추 발의 22건과 야당 주도의 내년도 예산 4조1000억원 삭감 시도 등을 비상계엄 선포 이유로 꼽았는데, 헌법학자들은 이것만으로는 비상계엄 선포 요건인 ‘국가비상사태’라고 보기 어렵다고 지적했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QKXK7TJKDVGY3FQZJUZCAEL3YM.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=정인성&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정형근 경희대 법학전문대학원 객원교수는 “탄핵이나 예산은 정치로 풀어야 할 문제”라며 “병력을 동원해 해결한다는 것은 ‘반헌법적’ 사고”라고 비판했다. 김해원 부산대 법학전문대학원 교수도 “탄핵 소추안 대부분은 이미 헌재에 넘어간 상태이고, 예산안도 여야 협의가 안 끝났고 설령 해가 넘어가도 준예산(전년에 준해서 새로운 비목의 신설 없이 예산안 편성)으로 가능하다”면서 “정말 심각하다고 생각했어도 병력을 활용할 수 있는 계엄을 선포해선 안 되는 것이었다”고 말했다.&lt;br&gt;&lt;br&gt;계엄 선포 절차에 하자가 있었다는 지적도 있다. 논란이 됐던 계엄 선포 전 국무회의 심의는 거친 것으로 확인됐지만, 헌법과 계엄법이 정한 ‘계엄 선포 후 지체 없이 국회에 통고(通告)’ 절차는 지키지 않은 것으로 나타났다. 우원식 국회의장은 전날 “대통령이 계엄을 선포하면 지체 없이 국회에 통고하게 돼 있는데 하지 않았다”고 했다. 추경호 국민의힘 원내대표도 비상계엄 선포를 “뉴스를 보고 알았다”고 했다.&lt;br&gt;&lt;br&gt;계엄 선포 과정에서 헌법과 법률을 위반한 소지가 있는 만큼 윤 대통령에 대한 탄핵 소추가 가능하다는 해석이 많다. 국회의 대통령 탄핵 소추는 재적 의원(300명) 과반 발의와 3분의 2(200명) 이상 찬성이 있어야 가능하다. 가결되면 헌법재판소 결정이 나올 때까지 직무가 정지되고, 헌재 심리 결과에 따라서는 파면될 수도 있다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇내란죄로 처벌 가능한가&lt;/b&gt;&lt;br&gt;&lt;br&gt;계엄 소동 이튿날인 4일 일부 야당과 시민 단체는 윤 대통령에 대해 내란 혐의로 고소·고발을 추진하겠다고 밝혔다. 윤 대통령이 헌법을 어기고 비상계엄을 선포한 뒤 국회에 군을 동원해 국회 기능을 마비시키려고 하는 등 국헌 문란 행위를 했다는 주장이다. ‘국헌 문란’이란 헌법 또는 법률의 기능을 없애거나, 헌법에 의해 설치된 국가기관의 기능을 불가능하게 하는 행위를 말한다. 형법상 내란죄는 최대 사형에 처해지는 중범죄다.&lt;br&gt;&lt;br&gt;윤 대통령에게 내란 혐의를 적용할 수 있는지를 두고 법조계 의견은 갈린다. 일부에선 비상계엄 선포 직후 계엄사령부가 발표한 ‘1호 포고령’에서 국회‧지방의회‧정당의 활동을 금지하고 국회에 계엄군을 투입한 데 대해 내란죄 적용이 가능하다고 해석한다. 계엄법에 비상계엄 선포 시 정부(행정부)와 법원(사법부) 권한은 제한할 수 있도록 돼 있지만, 국회(입법부)는 여기 해당하지 않는다는 것이다.&lt;br&gt;&lt;br&gt;김선택 고려대 법학전문대학원 교수는 “국회의 기능 행사를 방해할 목적으로 계엄군을 투입했다고 볼 수 있고, 국회 정치 활동을 금지한 포고령은 위헌 소지가 있다”고 했다. 허일태 동아대 명예교수도 “국회 장악을 위해 군대를 동원했다고 해석되면 내란미수죄 적용을 검토할 수 있다”고 했다.&lt;br&gt;&lt;br&gt;반면 김상겸 동국대 명예교수는 “내란죄가 되려면 고의 이외에 내란을 일으키려는 정치적 목적까지 있어야 한다. (윤 대통령이) 내란을 획책했다고 보긴 어렵지 않을까 싶다”며 “국회 개의를 완전히 막는다거나 했어야 하는데 그런 단계는 아니었던 것으로 보인다”고 했다. 헌재 공보관을 지낸 배보윤 변호사는 “현 상황이 ‘국가비상사태’에 해당하는지는 논란이 있을 수 있지만 ‘국가 기능 장애 상태’인 것은 명백하다”면서 “국회도 계엄 관할 구역이어서 군이 질서 유지를 위해 진입하는 것은 가능하고, 의원들 표결을 막으려는 작전 수행도 없었기 때문에 대통령에게 내란죄 책임을 묻기는 어렵다”고 말했다. 검사장 출신 한 변호사는 ”군의 국회 진입까지는 계엄법상 ‘집회·결사 또는 단체 행동에 대한 특별 조치’에 포함될 수 있고, 대통령이 직접 국회 해산 등을 지시하지 않았다면 내란죄를 적용하는 것은 무리다”라고 말했다.&lt;br&gt;&lt;br&gt;내란죄가 성립되면 현직 대통령이라도 기소되고 처벌받을 수 있다. 다만 누가 수사를 담당할지 분명치 않다. 검찰은 수사권 조정 이후 내란죄가 직접 수사 대상이 아니라고 하고, 고위공직자범죄수사처도 부패 범죄는 몰라도 내란 범죄는 자기들 소관이 아니라고 하고 있다.&lt;br&gt;&lt;br&gt;&lt;b&gt;☞내란죄&lt;/b&gt;&lt;br&gt;&lt;br&gt;대한민국 영토를 국가 권력에서 배제하거나 국헌(國憲)을 문란하게 할 목적으로 폭동을 일으킨 사람을 처벌하는 조항(형법 87조). 내란의 수괴는 사형·무기징역·무기금고에, 주도적인 참여자는 사형·무기징역 또는 5년 이상의 징역·금고에 처한다. 내란죄가 성립하려면 국헌 문란 목적, 실질적 위험성, 실현 가능성 등이 인정돼야 한다. 미수범은 물론 내란을 목적으로 예비·음모를 하거나 내란을 선동·선전한 사람도 처벌된다. 현직 대통령도 내란 혐의로 재직 중 기소될 수 있고, 유죄가 확정되면 국립묘지에 안장될 수 없다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>제주 활짝 핀 애기동백꽃</title>
-      <link>https://www.chosun.com/national/national_general/2024/12/05/DS6C7MANIBA2TM7VZDJY24L5TM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/05/DS6C7MANIBA2TM7VZDJY24L5TM/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 04 Dec 2024 15:50:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JB2T6TGEGJG5XJRTZ6LVJ6HRI4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;4일 제주 서귀포시 안덕면 광평리의 도로변에 애기동백꽃이 피어있다. 붉은 꽃잎이 살짝만 벌어지는 동백꽃과 달리, 애기동백꽃은 꽃잎이 활짝 벌어지고 분홍색에 가깝다. 절정 시기도 동백꽃은 2~3월, 애기동백꽃은 12월에서 1월로 다르다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[매일매일 중국어 한마디] 모두 도착하다, 다 모이다</title>
-      <link>https://www.chosun.com/national/nie/chinese/2024/12/05/XLHZ2SLB7FAOTBLSVQGJIFXNDY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese/2024/12/05/XLHZ2SLB7FAOTBLSVQGJIFXNDY/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 04 Dec 2024 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VAIDOBAVZBBIJG2BC3CCGLHBOQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[두근두근 뇌 운동] [2516] 신문은 스케치북</title>
-      <link>https://www.chosun.com/national/nie/2024/12/05/RQYKW4WMZFHR3G2YRDRRIGGNSM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/12/05/RQYKW4WMZFHR3G2YRDRRIGGNSM/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 04 Dec 2024 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RCKHSYVBNJBJLLI6YE7LH4QRT4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문으로 배우는 실용한자] 식곤증(食困症)</title>
-      <link>https://www.chosun.com/national/nie/chinese_character/2024/12/05/46NE6WESGJEHTPRJPCY3M7BOOM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese_character/2024/12/05/46NE6WESGJEHTPRJPCY3M7BOOM/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 04 Dec 2024 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ETDUUNJ3YVG7RN2EJMZKZ627EM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[인사] 국민일보</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2024/12/05/MI22J3NZKNB6ZBB377L22F36PY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2024/12/05/MI22J3NZKNB6ZBB377L22F36PY/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 04 Dec 2024 15:40:00 +0000</pubDate>
-      <content:encoded>▲국민일보◇편집국▷산업2부장 문수정&amp;lt;디지털뉴스센터&amp;gt;▷디지털뉴스부장 박지훈▷콘텐츠랩장 강준구◇종교국▷부국장 신상목▷종교부장 우성규▷미션탐사부장 조민영◇문화정책국▷부국장 박재찬&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[입에 착착 붙는 일본어] 사람을 보내서 선동하다</title>
-      <link>https://www.chosun.com/national/nie/japanese/2024/12/05/KSKAZDW2ZZE3JD6RRPETZN3SFY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/japanese/2024/12/05/KSKAZDW2ZZE3JD6RRPETZN3SFY/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 04 Dec 2024 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DGQAXQFBYVH7RLOJ7WSAZ36XUI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[플라자] 고려대학교 인공지능 혁신 허브 센터 ‘Korea AI Summit 2024′ 개최 외</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2024/12/05/KNP62GJRTBCRLJZPVWN27FZNEQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2024/12/05/KNP62GJRTBCRLJZPVWN27FZNEQ/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 04 Dec 2024 15:40:00 +0000</pubDate>
-      <content:encoded>▲고려대학교(총장 김동원) 인공지능 혁신 허브 센터는 5~6일 서울 노보텔 앰버서더 강남 호텔에서 ‘Korea AI Summit 2024′를 개최한다. ‘What’s next for AI’를 주제로 국내외 AI 전문가 기조 강연과 패널 토론 및 국내에서 수행하는 초거대·고위험 AI 혁신 허브 연구 기술 개발 동향을 공유하고, AI 전문 인재 양성을 위한 인적 네트워킹 구축의 시간을 갖는다.&lt;br&gt;&lt;br&gt;▲한국외국어대학교(총장 박정운) 이탈리아연구센터는 5일 대학본부 11층 대회의실에서 주한 이탈리아 대사관, 로마 루이스대학 전략연구센터와 공동으로 한-이탈리아 수교 140주년 기념 국제회의를 개최한다. 국제교류재단 후원의 양국 수교 기념 영문 단행본 출판기념회도 함께 열려 지난 140년을 돌아보며 미래지향적 동반자 관계를 모색하는 계기를 마련한다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>김일순 명예교수 ‘서재필 의학상’</title>
-      <link>https://www.chosun.com/national/people/2024/12/05/KYW7CIM4IJG6VATMODLZOQ5IAA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/12/05/KYW7CIM4IJG6VATMODLZOQ5IAA/</guid>
-      <dc:creator>김철중 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 04 Dec 2024 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NDBLIUIHYFHSBGF7NBQG5QU3TI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김일순(87) 연세대 의대 명예교수가 3일 서재필 기념회(이사장 이왕준)가 수여하는 제20회 서재필 의학상을 받았다. 김 명예교수는 연세대 예방의학 교수와 연세의료원장을 역임했다. 그는 한국 금연 운동 협의회를 발족시켜 22년간 회장으로 이끌어온 점과 고령화 사회에 대비한 골든 에이지 포럼 활동, 기초 의학 교육의 기틀을 마련한 등의 공로로 수상하게 됐다.&lt;br&gt;&lt;br&gt;서재필 의학상은 한민족 최초의 미국 의사이자 개화 독립 민주 정&lt;br&gt;&lt;br&gt;신을 일깨운 독립운동가 송재 서재필 선생의 업적과 사상을 기리기 위해 재단법인 서재필 기념회에서 제정한 의학상이다. 의학 교육, 진료, 연구 또는 봉사를 통하여 국내외 의학계에 큰 업적을 남긴 의료인에게 수여되고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[스피킹이 강해지는 영어] see ~ through</title>
-      <link>https://www.chosun.com/national/nie/english/2024/12/05/RHDRT5ZRHRGC3LVNFYGHWRQKAE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/english/2024/12/05/RHDRT5ZRHRGC3LVNFYGHWRQKAE/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 04 Dec 2024 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DNYW6JTV7RBYXOO2IQAKVAQDX4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>포스텍 학생 30명, 스웨덴 行… 노벨상 수상자들 ‘직강’ 듣는다</title>
-      <link>https://www.chosun.com/national/people/2024/12/05/FXR3LVQPRNF4HJJAUBEB7UDES4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/12/05/FXR3LVQPRNF4HJJAUBEB7UDES4/</guid>
-      <dc:creator>황지윤 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 04 Dec 2024 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/27FXWRZGWRBGPBRNDRDDHRT3CQ.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;지난해 12월 '노벨 위크'를 맞아 스웨덴 스톡홀름을 방문했던 포스텍 학생들. /포스텍&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;포스텍(포항공과대)이 오는 5~11일 스웨덴 스톡홀름에서 열리는 ‘노벨 위크(Nobel Week)’에 학부 재학생 30명을 파견한다. 미래의 노벨상 수상자로 성장하는 기회를 제공한다는 취지다. 포스텍의 노벨 위크 파견은 지난해에 이어 올해로 두 번째다.&lt;br&gt;&lt;br&gt;파견단은 노벨위원회 주관의 노벨 물리·화학·경제·생리학상 수상자 강연을 듣는다. 웁살라대·왕립공과대 등 스웨덴 자매 대학을 방문하고 독일·네덜란드 등 유럽 현지 대학과 연구소 등에서 활동 중인 동문들과도 교류한다.&lt;br&gt;&lt;br&gt;인솔자로 나선 이상민 포스텍 화학공학과 교수는 올해 노벨 화학상 수상자인 데이비드 베이커 미 워싱턴대 교수 연구실에서 2021년 2월부터 2년 9개월 동안 박사후연구원으로 재직하다 작년 연말 포스텍 교수로 임용됐다. 이 교수는 “올해 노벨 물리학상과 화학상 모두 인공지능(AI) 관련이어서 트렌드에 민감한 학생들의 관심이 뜨겁다”고 했다.&lt;br&gt;&lt;br&gt;노벨 위크 파견은 포스텍의 ‘패스파인더(Pathfinder) 바우처’ 제도의 일환이다. 올해 2학기부터 학부생 한 명당 총 1000만원의 바우처를 지원한다. 해외 단기 유학이나 팀·개인 단위로 설계해 승인받은 각종 활동에 학교가 비용을 부담하는 제도. 학교가 계획을 짜서 노벨 위크, 세계 최대 전자 박람회인 국제전자제품박람회(CES) 파견 프로그램 등에 지원하는 것도 가능하다. 포스텍은 2022년부터 매년 CES에 학부생 200명을 보내고 있다. 포스텍 관계자는 “의대 열풍과 수도권 집중화 속에서도 이공계 인재를 양성하기 위한 노력을 지속하고 있다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>이윤선 서울여대 10대 총장</title>
-      <link>https://www.chosun.com/national/people/2024/12/05/24HWOVS67RGYFFU4Q4F4QPKK7Y/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/12/05/24HWOVS67RGYFFU4Q4F4QPKK7Y/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 04 Dec 2024 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FLML52YEERBWTEWRWYJXRZORAU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;4일 서울여대 제10대 총장에 이윤선 교육심리학과 교수가 선임됐다. 임기는 내년 3월부터 4년이다. 이 총장은 서울여대에서 교육심리학 학사·교육학과 석사 학위를 취득한 뒤 미국 워싱턴대에서 교육 분야 박사 학위를 취득했다. 2008년 모교 교육심리학과 교수로 부임한 뒤 교내 주요 행정 보직을 역임했다. 이 총장은 “서울여대의 정체성을 강화해 새 시대에 필요한 대학으로 자리매김하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>61회 무역의 날… 정순원 등 5명에 ‘금탑산업훈장’</title>
-      <link>https://www.chosun.com/national/people/2024/12/05/OD2BTFYOLVAUHDUZ5Q2XKHHVII/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/12/05/OD2BTFYOLVAUHDUZ5Q2XKHHVII/</guid>
-      <dc:creator>조재현 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 04 Dec 2024 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/I7XTZM5W4FCWDNADXDSTH4AHEY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;(왼쪽부터)정순원, 이상락, 윤승규, 아브라함 운가르, 조기준&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한국무역협회는 5일 열리는 ‘제61회 무역의 날’ 기념식에서 정순원 화신볼트산업 대표, 이상락 SK하이닉스 부사장, 윤승규 기아 부사장, 아브라함 운가르 레이 쉬핑 그룹 회장, 조기준 신창에프에이 대표 등 5명이 금탑산업훈장을 수상한다고 4일 밝혔다.&lt;br&gt;&lt;br&gt;정 대표는 방산·원전용 특수 볼트의 국산화를 통해 지난해 수출 3100만달러를 기록한 공로다. 이 부사장은 고대역폭메모리(HBM)를 중심으로 올 상반기에만 SK하이닉스가 186억달러의 수출 실적을 올리는 데 기여한 공로를, 윤 부사장은 기아가 북미 지역 거점을 늘려 해외 수출 250억달러를 최초로 달성하는 데 기여한 공로를 인정받았다. 운가르 회장은 자동차 운반선 최대 개인 선주로서 올해 국내 조선·자동차 산업 발전에 기여했고, 조 대표는 자동차 배터리·모터 부품을 기반으로 최근 3년간 수출 실적을 401% 늘린 공로다.&lt;br&gt;&lt;br&gt;또 이날 행사에서 백승한 클래시스 대표 등 6명은 은탑산업훈장을, 최성규 엘파워텍 대표 등 9명은 동탑산업훈장을 받게 된다. 이 밖에도 577명이 정부 포상과 산업부장관 표창을 받는다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[부음] 김위자 별세 외</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2024/12/05/7Q24Z7Y7PVEOFKMRNCDF6MXXVQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2024/12/05/7Q24Z7Y7PVEOFKMRNCDF6MXXVQ/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 04 Dec 2024 15:40:00 +0000</pubDate>
-      <content:encoded>▲&lt;b&gt;김위자&lt;/b&gt; 별세, &lt;b&gt;임호준&lt;/b&gt; 헬스조선 대표·&lt;b&gt;임민준&lt;/b&gt;·&lt;b&gt;임무준&lt;/b&gt;·&lt;b&gt;임명희&lt;/b&gt; 모친상, &lt;b&gt;양미경&lt;/b&gt;·&lt;b&gt;김미란&lt;/b&gt; 시모상, &lt;b&gt;임재민&lt;/b&gt;·&lt;b&gt;임지은&lt;/b&gt; 조모상=4일15시 서울아산병원, 발인 6일11시, (02)3010-2000&lt;br&gt;&lt;br&gt;▲&lt;b&gt;민덕주&lt;/b&gt; 별세, &lt;b&gt;송용희&lt;/b&gt; 남편상, &lt;b&gt;민지애&lt;/b&gt; 방송작가·&lt;b&gt;민지영&lt;/b&gt; 부친상, &lt;b&gt;정창회&lt;/b&gt;·&lt;b&gt;구정욱&lt;/b&gt; 장인상=3일15시37분 인천 가천대 길병원, 발인 5일9시30분, (032)460-9410&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>장석환 대진대 12대 총장</title>
-      <link>https://www.chosun.com/national/people/2024/12/05/MG5KXPD5UJATNNRW3ELBPAWOH4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/12/05/MG5KXPD5UJATNNRW3ELBPAWOH4/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 04 Dec 2024 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QCSCYB2VSNB7FHJCJBRCQM7SMY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대진대학교 학교법인 이사회는 제12대 총장에 장석환 공과대학 스마트건설·환경공학부 교수를 선임했다고 4일 밝혔다. 장 신임 총장은 내년 1월부터 총장직을 수행한다. 임기는 2년으로, 2026년 12월 31일까지다. 1998년 대진대 교수로 부임한 뒤 대학원장, 교육대학원장, 통일대학원장 등을 지냈다. 한국수자원학회 부회장, 물학술단체연합회 부회장, 한국스마트워터그리드학회 부회장 등을 지낸 물 분야 전문가다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문은 선생님] [뉴스 속의 한국사] 상복 두고 싸운 ‘소모적 정쟁’일까… 조선 정치철학 논쟁이기도</title>
-      <link>https://www.chosun.com/national/nie/2024/12/05/7B43MGFBV5ELBF6TLKFHTIOD7Y/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/12/05/7B43MGFBV5ELBF6TLKFHTIOD7Y/</guid>
-      <dc:creator>유석재 기자, 기획·구성=윤상진 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 04 Dec 2024 15:30:00 +0000</pubDate>
-      <content:encoded>정치권에서 국정과 별 상관없는 문제를 둘러싸고 치고받는 싸움을 할 때마다 언론에서 나오곤 하는 말이 있죠. “21세기판 ‘예송(禮訟) 논쟁’이다!”&lt;br&gt;&lt;br&gt;국민은 경제적으로 어려움을 겪고 있는데 한가하게 예송 논쟁이나 하고 있느냐는 말부터, 사실 예송 논쟁은 예법 문제를 빌미로 벌인 당파 간의 지배권 싸움이라는 해석까지 여러 말들이 나옵니다. 모두 예송 논쟁이 ‘민생과 무관하게 쓸데없는 걸 가지고 벌였던 정쟁’이란 인식을 가지고 있어요. 정말 그랬을까요? 아니, 예송은 대체 무엇이었을까요?&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UPQML3VXB5FXRN76XMYQEOFJVY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;조선의 예법을 상징하는 건물인 서울 종로구 종묘 정전(正殿) 전경. 종묘는 왕·왕비의 신주(위패)를 모시고 제사를 지내는 국가 사당이에요. 조선 건국(1392년) 직후인 1395년에 세워졌답니다. /국가유산청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;조선 18대 임금이 누군지 아세요?&lt;/b&gt;&lt;br&gt;&lt;br&gt;잠깐 퀴즈 하나 내 볼게요. 조선 왕조엔 초대 태조부터 마지막 순종까지 모두 27명의 임금이 있었습니다. 이들 중에서 드라마에 가장 적게 등장한 임금은 누구일까요? 아마도 18대 왕 현종(재위 1659~1674)일 겁니다. 효종의 아들이자 숙종의 아버지로, 재위 기간이 그렇게 짧지도 않은데 인지도 자체가 낮습니다. 오히려 거란의 침략을 막아낸 고려 현종, 양귀비의 남편이었던 당나라 현종이 더 유명하죠. 조승우가 수의사 역으로 주연을 맡았던 ‘마의’가 현종 시대를 다룬 매우 예외적인 드라마입니다.&lt;br&gt;&lt;br&gt;도대체 왜 그럴까요? 추측건대 현종 때 일어난 두 가지 큰 사건이 모두 극으로 만들기 어려운 일이기 때문일 겁니다. 하나는 ‘경신 대기근’입니다. 경술년인 1670년에서 신해년인 1671년까지 이어진 이 대기근은 세계적인 ‘소(小)빙하기’라 불리는 시기에 발생했어요. 이상 기후의 여파로 전염병이 돌고 식량난이 발생하며 조선 전역에서 약 100만 명이 목숨을 잃은 대참사였어요.&lt;br&gt;&lt;br&gt;그리고 또 하나가 바로 예송 논쟁이었습니다. ‘예송’의 ‘송(訟)’ 자엔 ‘다투다’ ‘논쟁하다’란 의미가 있기 때문에 사실 ‘예송 논쟁’은 동어반복이 됩니다. 하도 복잡하고 골치 아픈 내용이라 드라마에서 제대로 다룬다면 시청률이 뚝 떨어질 것이라는 얘기도 있어요.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2PTW2VEBNNG25KENRTGHOLEVAU.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=이진영&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;둘째 아들인 임금이 승하하면 무슨 상복을 입나?&lt;/b&gt;&lt;br&gt;&lt;br&gt;예송의 시작은 1659년 효종이 승하(임금이나 존귀한 사람이 죽음)하면서였어요. 효종의 아버지 인조는 왕비 인열왕후가 죽자 장렬왕후를 계비(임금이 다시 장가가서 맞은 아내)로 삼았는데, 열네 살 어린 나이에 시집간 장렬왕후는 의붓아들인 효종보다 다섯 살이나 어렸습니다. 인조의 장남은 인열왕후가 낳은 소현세자였으나 일찍 죽었기 때문에 인열왕후의 차남인 봉림대군이 효종으로 즉위했죠. 그런데 효종이 죽자 문제가 생겼던 겁니다.&lt;br&gt;&lt;br&gt;‘효종의 계모 장렬왕후는 과연 어떤 상복을 입어야 하는 건가?’&lt;br&gt;&lt;br&gt;아뿔싸, 이게 논쟁거리가 됐던 건, 조선 성종 때 마련된 공식 예법서 ‘국조오례의’에 이 경우에 대한 가이드라인이 없었기 때문입니다. 허목 등 남인은 장남에 대한 예로서 3년 기간의 ‘참최복’을 입어야 한다고 주장한 반면, 송시열·송준길 등 서인은 중자(衆子·장남이 아닌 아들)에 대한 예로서 1년 기간의 ‘기년복’을 입어야 한다고 반박했습니다.&lt;br&gt;&lt;br&gt;남인은 “효종이 왕위를 계승했으니 국통(임금의 혈통)을 이은 장남이 된 것”이라 해석했으나, 서인은 “왕이 됐어도 차남은 차남”이라고 맞섰습니다. 이것이 제1차 예송 또는 기해예송이라 하는 논쟁으로 일단 서인 측의 승리로 끝났죠. 그런데 사실 서인의 주장에는 ‘현 임금인 현종은 인조의 차남인 효종의 아들이므로 정통 혈통이 아니다’라는 위험한 논리가 숨어 있었던 셈이고, 이 점을 건드린 사람이 남인이자 ‘어부사시사’의 작가로 유명한 윤선도였으나 서인의 역공으로 귀양을 갔습니다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AC3IOKZREFAJLHOURPAE6YQVD4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;조선 시대 문인 윤선도(1587~1671) 초상. 대군 시절 효종의 스승이었어요. 남인 가문에서 태어나 집권 세력인 서인과 맞서다가 20년 넘게 유배 생활을 합니다. '어부사시사'같은 문학 작품도 남겼어요. /고산윤선도박물관&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;시간이 한참 흐른 1674년(현종 15년) 갑인예송이라 불리는 제2차 예송이 일어납니다. 효종의 왕비(현 임금의 어머니)인 인선왕후가 승하했는데 그 시어머니(현 임금의 할머니) 장렬왕후는 여전히 생존해 있었기 때문입니다.&lt;br&gt;&lt;br&gt;송시열 등 서인은 “‘주자가례’에 따라 차남인 효종의 왕비이므로 대왕대비(장렬왕후)는 9개월 입는 상복인 ‘대공복’을 입어야 한다”고 했고, 남인과 일부 서인 세력은 “’국조오례의’에 따르면 장자부(큰며느리)든 차자부(둘째 며느리)든 모두 1년 입는 ‘기년복’을 입어야 한다”고 주장했습니다. 이번 논쟁은 남인의 승리로 기울었고, 남인은 숙종 초까지 권력을 잡을 수 있었습니다.&lt;br&gt;&lt;br&gt;&lt;b&gt;과연 불필요하고 공허한 논쟁이었을까&lt;/b&gt;&lt;br&gt;&lt;br&gt;지금까지 예송의 전개 과정을 보면 민생과는 별 관련이 없어 보이는 허망한 명분 싸움이었던 것처럼 보이기도 합니다. 심지어 ‘고작 상복을 몇 년 입어야 하느냐는 걸로 물고 뜯으며 허송세월하니 조선이 망했지’라고 말하는 사람도 있어요. 하지만 조선 왕조 멸망은 제2차 예송 236년 뒤의 일이었습니다.&lt;br&gt;&lt;br&gt;이것은 단순히 어떤 옷을 입느냐는 문제가 아니라, 국가와 왕위 계승의 정통성, 그리고 예법의 우선순위를 어떻게 정해야 하느냐에 초점을 둔 논쟁이었습니다. ‘나라와 사회에서 어떤 가치관을 우위에 놓아야 하는가’ ‘왕가의 예법이 일반 사대부와 같은가 다른가’ ‘예법이 같다면 조선은 왕과 신하가 같이 다스리는 나라인가’란 무거운 주제를 두고 벌인 철학적·정치학적 논쟁이기도 했습니다.&lt;br&gt;&lt;br&gt;임금인 현종은 자신의 정통성 부족을 암시한 주장을 펼치는 신하들 앞에서 끝까지 인내심을 발휘했고, 결국 이 논쟁으로 인해 죽은 사람이 거의 없었기 때문에 평화적으로 해결된 정쟁이었다는 평가도 받습니다. 18세기 유럽의 왕위 계승 전쟁으로 인해 숱한 인명이 살상된 것과 비교되는 부분입니다.&lt;br&gt;&lt;br&gt;당시의 ‘예법’은 오늘날의 ‘민주주의’에 비견할 수 있을 정도로 중차대한 가치였다는 지적도 있습니다. 고(故) 홍일식 전 고려대 총장은 이렇게 말했습니다. “당시로서는 예송이 결코 양보할 수 없는, 국가의 존폐와 직결되는 중대사였고, 생명을 걸고라도 싸울 만한 가치가 있다고 여겨졌다.” 미래 후손들이 ‘그깟 민주주의가 뭐라고 20세기 조상들은 그렇게 애써 투쟁을 했을까’ 한다면 어떻겠느냐는 말도 했습니다. 최소한 예송이라는 정쟁은 그래도 정치인들의 진심이 담겨 있었다고 봐야 하지 않을까요.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문은 선생님] [재밌다, 이 책!] ‘좋은 이야기’가 가진 커다란 힘… 똑같은 일상을 다르게 보게 해줘요</title>
-      <link>https://www.chosun.com/national/nie/2024/12/05/CH45AH2M2NHVVCFBMPRWIU3QIU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/12/05/CH45AH2M2NHVVCFBMPRWIU3QIU/</guid>
-      <dc:creator>김성신 출판평론가</dc:creator>
-      <description/>
-      <pubDate>Wed, 04 Dec 2024 15:30:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZVUSBGR3SJHLHER6R5Y6IT22MM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;삶의 발명&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;정혜윤 지음 | 출판사 위고 | 1만7000원&lt;/b&gt;&lt;br&gt;&lt;br&gt;“일상을 반복하고 있지만 그 속에서도 나를 조금 더 앞으로 가보게 해주는 이야기들이 있었다.”&lt;br&gt;&lt;br&gt;방송 프로듀서인 저자는 ‘좋은 이야기’엔 커다란 힘이 있다고 해요. 자신이 직접 취재했거나 경험한 이야기, 혹은 책 속 이야기에 감탄할 때가 많았는데, 그럴 때마다 현실이 다르게 보이는 경험을 했다는 것이죠. 이 책은 여러 가지 사례들을 통해 이야기가 가진 힘을 전해줍니다.&lt;br&gt;&lt;br&gt;일제강점기 일본군에 끌려간 뒤, 2차 세계대전에서 일본이 패한 직후 사형을 당한 조선 출신 전범들이 있다는 사실을 알고 있었나요? 전남 보성 출신 이학래씨는 태국 콰이강 다리 건설 현장에서 일했어요. 이 다리를 통과하는 철도를 짓는 과정에서 수만 명이 목숨을 잃었을 만큼 현장이 열악하기로 악명이 높았죠.&lt;br&gt;&lt;br&gt;그는 전쟁이 끝나자 연합군에 붙잡혔고, 포로를 학대했다는 죄로 1947년 전범 재판에서 교수형을 선고받아요. 호주군 군의관의 호의적 증언 덕에 사형 직전 기적적으로 풀려난 이씨는 억울하게 죽은 동료들을 위해 자신이 죽는 날까지 조선인 전범 문제를 세상에 알리려고 애썼어요. 자신과 비슷하게 전쟁에 끌려와 전범 재판에서 교수형을 당한 친구 조문상의 유서를 복사해서 사람들에게 나눠 주곤 했죠.&lt;br&gt;&lt;br&gt;조문상의 유서 말미엔 이런 글이 적혀 있어요 “자신의 것이라고 할 만한 삶을 살았다면 좋았을 것을···. 친구야! 아우야! 자신의 지혜와 사상을 가져라. 나는 지금 죽음을 앞에 두고 나의 것이 거의 없다는 것에 소스라치게 놀란다.”&lt;br&gt;&lt;br&gt;이 외에도 책에는 자연재해로 집을 잃거나, 말기암에 걸린 가족을 떠나보내야 하는 가슴 아픈 사연들이 실려 있어요. 저자는 비극 속에서도 저마다의 방식으로 상처를 딛고 회복해가는 사람들을 주목합니다. 인간은 다른 사람들 이야기를 통해 삶을 살아갈 힘을 얻죠.&lt;br&gt;&lt;br&gt;저자는 두려움 없이 자신의 삶을 살기 위해선 세상에 대한 지식이 필요하다고 말합니다. 우리를 앞으로 나아가게 하고 새로운 삶을 살게 하는 것은 ‘앎’이라는 것이죠. 살던 대로 살면 이전보다 나은 삶을 살 수 없습니다. 사람들은 변화에 대한 두려움을 느껴요. 내 선택이 어떤 결과를 가져올지 모르니까요. 뭔가를 모르는 상태에선 삶을 바꿀 수 있는 선택을 내리기 힘들어집니다. 변화가 손해로 이어질 수 있다고 여기기 때문입니다.&lt;br&gt;&lt;br&gt;저자는 세상에 대해 자신이 무엇을 알고 있는지 항상 되돌아보고, 늘 새로운 앎을 추구해야 한다고 강조해요. 그리고 이것을 두고 ‘삶의 발명’이라고 표현합니다. 인간은 모닥불 옆에서 이야기를 나누며 진화해 온 ‘이야기 공동체’라고 해요. 공동체의 일원으로서 우리는 이 세상에 좋은 이야기를 들려줘야 하는 의무가 있다는 것이 저자의 말이랍니다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[오늘의 날씨] 2024년 12월 5일</title>
       <link>https://www.chosun.com/national/national_general/2024/12/05/JKYCRZJ52NDKVITQDNKRPNRKPU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/05/JKYCRZJ52NDKVITQDNKRPNRKPU/</guid>
@@ -744,15 +827,6 @@
       <description/>
       <pubDate>Wed, 04 Dec 2024 15:30:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YJAXOCFIT5GJ3JHDVVFJRVZPYE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문은 선생님] [기후와 날씨] 거센 파도 피해 태풍 좌측으로 항해… 인천상륙작전 성공 배경이죠</title>
-      <link>https://www.chosun.com/national/nie/2024/12/05/6FGJOKAKP5HJ3E24VC6N6FF2X4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/12/05/6FGJOKAKP5HJ3E24VC6N6FF2X4/</guid>
-      <dc:creator>장동언 기상청장</dc:creator>
-      <description/>
-      <pubDate>Wed, 04 Dec 2024 15:30:00 +0000</pubDate>
-      <content:encoded>전쟁의 승패를 좌우하는 요소는 무엇일까요? 첨단 장비·병력·정보 등도 중요하지만, 쉽게 간과되는 것이 있답니다. 바로 날씨예요. 비가 내리면 적군이 움직이는 발소리가 잘 안 들리고, 안개가 끼면 가시거리가 짧아져 청각에 더욱 의존하게 됩니다. 미국 전 대통령이자 2차 세계대전 당시 노르망디 상륙작전을 이끈 드와이트 아이젠하워는 “전쟁에서 승리하는 장군은 날씨를 아는 장군이다”라는 말을 남기기도 했죠. 오늘은 기상이 전쟁에 미치는 영향에 대해 알아볼게요.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AAYNAA6MHBEBDEOFOJPEBO2HWA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;미 해병대 장병들이 1950년 9월 15일 인천 해안에 상륙하기 위해 방조제를 오르는 모습이에요. /미 해군 역사유산 사령부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;노르망디 상륙작전 당시 날씨는 ‘전선’의 영향을 크게 받았어요. 전선이란 온도와 밀도 등 성질이 다른 두 공기 덩어리가 만나는 경계면을 말해요. 제1차 세계대전 때 전장의 기상을 미리 아는 것이 중요해지면서 날씨에 관한 연구가 활발해졌고, 당시 기상학자들은 공기 덩어리가 만나는 것이 마치 전쟁에서 서로 충돌하는 군대처럼 보인다고 해서 군사 용어인 ‘전선’이라고 이름을 붙였답니다.&lt;br&gt;&lt;br&gt;상륙 예정일이었던 1944년 6월 5일. 당시 대서양을 지나가는 저기압에 동반된 한랭전선이 폭우와 강풍을 몰고 와 작전을 펼치기 어려워졌어요. 연합군의 기상학자들은 한랭전선이 지나간 6월 6일 새벽에 일시적으로 기상 상태가 안정될 것이라고 예측했고, 결국 상륙을 다음 날로 연기하죠.&lt;br&gt;&lt;br&gt;반면 상대편이었던 독일군은 악천후가 지속될 것으로 판단했습니다. 연합군의 상륙 가능성을 낮게 보고 방어 태세도 소홀해진 것이죠. 대망의 ‘디데이’(D-day)에 결과는 어떻게 됐을까요? 구름이 일부 걷히며 파도가 잦아들었고, 연합군은 기습 상륙에 성공했습니다. 정확한 기상 정보가 작전 성공을 이끈 것이죠.&lt;br&gt;&lt;br&gt;우리나라에서도 날씨는 전쟁에서 아주 중요한 요소로 여겨졌어요. 고려 말, 요동 지역을 정벌하라는 왕의 지시에 이성계는 네 가지 이유를 들며 반대했어요. 그중 두 가지가 날씨와 관련된 것이었어요. 날씨가 더운 여름이라 군사를 움직이기 어렵고, 장마가 찾아오면 활에 붙어 있는 아교가 녹는다는 것이죠.&lt;br&gt;&lt;br&gt;6·25 전쟁 당시 인천 상륙작전도 정확한 기상 예측 덕분에 성공할 수 있었어요. 당시 연합군은 바람과 파고 등을 분석해서 조수 간만의 차가 가장 적은 1950년 9월 15일을 작전일로 정했는데, 작전 직전에 태풍이 한반도 근처를 지나 준비에 어려움을 겪었어요.&lt;br&gt;&lt;br&gt;이때 한 장교가 태풍의 좌측 부분에 들어가면 항해가 가능할 거라고 말했습니다. 태풍 좌측의 풍향은 태풍 진행 방향과 반대라서 바람과 파도가 약했기 때문이었죠. 그의 말을 따라 연합군은 비교적 안전하게 항해하며 작전 지역으로 접근했고, 태풍이 지나간 후 상륙을 실행했어요. 반면 북한군은 태풍 때문에 해상 작전이 어려울 거라 판단했다고 합니다. 그만큼 방어 태세도 부족했죠.&lt;br&gt;&lt;br&gt;정확한 기상 분석은 미래에도 전쟁의 승패를 좌우하는 결정적 역할을 할 거예요. 전쟁은 일어나지 않아야 하겠지만, 기상 상황을 알고 전쟁을 대비하는 것과 그렇지 못한 것에는 큰 차이가 있을 겁니다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>연세대·서강대·고려대 총학 “尹 대통령 비상계엄은 반헌법적 폭거”</title>
@@ -809,16 +883,6 @@
       <content:encoded>겨울에 유행하는 대표적 감염성 호흡기 질환인 ‘RSV(호흡기 세포 융합 바이러스) 감염증’으로 입원한 영유아 환자가 증가하고 있다.&lt;br&gt;&lt;br&gt;4일 질병관리청에 따르면, 최근 4주간(10월 27일~11월 23일) 전국 대형 병원 220곳에서 RSV 감염증 입원 환자는 631명으로, 지난해 같은 기간(581명)보다 증가했다. 입원 환자 중 1~6세 영유아가 374명(59.3%)으로 가장 많았고, 다음으로 0세 173명(27.4%), 7~12세 31명, 65세 이상 30명 순이었다.&lt;br&gt;&lt;br&gt;RSV 감염증은 가을부터 초봄 사이에 가장 많이 발생한다. 감염된 사람의 호흡기 비말이나 접촉을 통해 전파된다. 대부분 재채기, 코막힘, 인후통, 발열 등 가벼운 감기 증상으로 나타난다. 통상 자연 회복되지만 일부 영유아나 60세 이상 고령자, 면역 저하자는 폐렴 등으로 악화해 입원하거나 사망에 이를 수도 있다. 정용필 서울아산병원 감염내과 교수는 “RSV 감염증에 걸리면 보통 기침, 콧물 증세가 나타나 해열제 복용 등이 필요하다”며 “빠른 속도로 쌕쌕거리거나 숨이 차고, 심하게 기침하는 증상 등이 나타나면 빨리 병원에 가서 치료받아야 한다”고 했다.&lt;br&gt;&lt;br&gt;RSV는 1세 미만 유아 사망의 주원인이다. 만 2세까지 거의 모든 소아가 감염될 정도로 감염력이 높다. 5세 미만 아동이 감염되면 입원율이 높고, 생후 3개월째가 감염 후 입원율이 가장 높은 연령이다. 놀이방 등 노출이 많은 환경에서 더 많이 감염된다.&lt;br&gt;&lt;br&gt;방역 당국은 산후조리원이나 영유아 보육 시설 등에서는 감염 예방을 위해 호흡기 증상이 있는 종사자나 영유아의 경우 출근 및 등원을 자제하고 집에서 휴식할 것을 권고했다. 실제 지난 10월 강원도의 한 산후조리원에서는 RSV 감염증 환자가 집단 발생했다. 지난해 3월에도 서울의 한 산후조리원에서 신생아들이 RSV에 집단 감염됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>이철우 경북지사 “탄핵보다 개헌으로 임기 단축을”</title>
-      <link>https://www.chosun.com/national/incident/2024/12/04/RKJVKTZXMZH7VMNO5Z6HD5Z5FE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/12/04/RKJVKTZXMZH7VMNO5Z6HD5Z5FE/</guid>
-      <dc:creator>이승규 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 04 Dec 2024 11:21:55 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LNLJQT7UIJPKTBAP3R5NXG62XI.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;이철우 경북지사가 지난달 28일 대구 중구 대구YMCA카페에서 열린 '2024 분권과자치 대구경북포럼'에 참석해 지방분권을 주제로 강연하고 있다. /뉴스1
-&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;더불어민주당이 4일 윤석열 대통령 탄핵 소추안을 발의한 가운데 이철우 경북지사가 ‘탄핵보다는 개헌이 필요하다’는 취지의 입장문을 냈다.&lt;br&gt;&lt;br&gt;이 지사는 4일 소셜미디어 페이스북에서 “나는 지난 박근혜 대통령 때에도 탄핵은 절대 안 되고 개헌을 통해 좋은 방법을 찾아야한다고 주장했다”며 “지금 생각해도 탄핵보다는 개헌을 통해 야당을 설득하는 방안이 옳았다고 본다”고 했다. 그러면서 “탄핵보다는 헌정질서를 지키며 임기를 단축하는 개헌안을 만들어야 한다”며 “우리가 또다시 탄핵을 하면 탄핵이 습관화될 것이 우려된다. 어느 선진국도 이렇게 탄핵이 습관화된 나라는 없다”고 했다.&lt;br&gt;&lt;br&gt;이 지사는 “지금의 제왕적 대통령 중심제는 개헌을 통해 고쳐야하며, 내각제나 이원집정부제 제도를 검토하되 야당이 주장하는 중임제 개헌안도 검토할 수 있다”며 “국민의힘에서는 탄핵보다는 개헌안을 제시해 위기를 기회로 만드는 혜안을 발휘해달라”고 했다.&lt;br&gt;&lt;br&gt;윤석열 대통령은 지난 3일 밤 비상 계엄을 선포했다. 그러나 150분 뒤인 4일 새벽 1시 국회 본회의에서 만장일치로 비상계엄 해제 요구 결의안이 의결됐고, 윤 대통령은 오전 4시 27분쯤 비상계엄을 해제했다. 더불어민주당은 탄핵 소추안을 5일 자정쯤 국회 본회의에 보고하고, 오는 7일까지 표결에 나설 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>‘한동훈 명예훼손’ 유시민 3000만원 배상 판결</title>
       <link>https://www.chosun.com/national/court_law/2024/12/04/2RJ5V23YZ5GLFELRIMJP3BWVQY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/04/2RJ5V23YZ5GLFELRIMJP3BWVQY/</guid>
@@ -826,51 +890,6 @@
       <description/>
       <pubDate>Wed, 04 Dec 2024 11:20:17 +0000</pubDate>
       <content:encoded>한동훈 국민의힘 대표가 대검찰청 반부패강력부장으로 재직할 때 자신의 계좌 등을 추적했다는 허위 사실을 유포한 유시민 전 노무현재단 이사장을 상대로 낸 손해배상 소송에서 유 전 이사장이 3000만원을 배상하라는 법원 판결이 나왔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZFIOTI7VZMLQ3JF3AGYZDXIC7M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한동훈 국민의힘 대표(왼쪽)와 유시민 전 노무현재단 이사장. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지법 민사14부(재판장 정하정)는 4일 한 대표가 유 전 이사장을 상대로 제기한 5억원의 손해배상 청구 소송에서 이같이 원고 일부 승소로 판결했다. 한 대표가 2021년 3월 이 소송을 낸 지 3년 9개월 만이다. 재판부는 “유 전 이사장이 허위 사실을 적시해 한 대표의 명예를 훼손한 고의가 인정된다”고 했다.&lt;br&gt;&lt;br&gt;유 전 이사장은 2019년 12월 유튜브 채널 ‘알릴레오’에 이어, 이듬해 4월과 7월 라디오 등에 출연해 “2019년 11~12월 사이 대검 반부패강력부가 나와 노무현재단 계좌를 불법 추적했다”는 취지의 주장을 반복했다. 유 전 이사장이 지목한 시기는 한 대표가 대검 반부패강력부장으로 근무할 때였다. 수사 결과 유 전 이사장의 주장은 사실이 아닌 것으로 밝혀졌고, 그는 2021년 1월 노무현재단 홈페이지를 통해 공식 사과했다.&lt;br&gt;&lt;br&gt;하지만 한 대표는 2021년 3월 “유 전 이사장이 악의적인 가짜 뉴스를 유포해 공적 권한을 사적인 보복을 위해 불법 사용한 공직자로 부당하게 낙인찍혔다”며 유 전 이사장을 상대로 소송을 냈다. 그동안 판결이 늦어진 것은 재판부가 명예훼손 혐의로 기소된 유 전 이사장의 형사 사건 결과 등을 보겠다며 재판을 미뤘기 때문이다. 형사 사건에 대해 대법원은 지난 6월 유 전 이사장에게 벌금 500만원을 선고한 원심 판결을 확정했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>완도서 다시마 양식하던 70대 갯바위서 숨진 채 발견</title>
-      <link>https://www.chosun.com/national/incident/2024/12/04/VING2GMD3JCTFC4WQNH7U4FHZU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/12/04/VING2GMD3JCTFC4WQNH7U4FHZU/</guid>
-      <dc:creator>정성원 기자</dc:creator>
-      <description>4일 오후 6시쯤 전남 완도군 금당도 인근 갯바위에서 70대 A씨가 숨진 채 발견됐다.해경은 A씨와 연락이 닿지 않는다는 A씨의 가족 신고를 접수받고 수색에 나섰다.</description>
-      <pubDate>Wed, 04 Dec 2024 10:57:06 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5CNDNZNJT5HRLMTNNQYNGRROTU.png"&gt;&lt;figcaption&gt;&lt;small&gt;해양경찰 로고. /해양경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;4일 오후 6시쯤 전남 완도군 금당도 인근 갯바위에서 70대 A씨가 숨진 채 발견됐다.&lt;br&gt;&lt;br&gt;해경은 A씨와 연락이 닿지 않는다는 A씨의 가족 신고를 접수받고 수색에 나섰다. A씨는 다시마 양식 작업을 위해 이날 오후 1시쯤 홀로 출항한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;해경은 A씨가 발을 헛디뎌 해상으로 떨어져 숨진 것으로 보고 정확한 사고 경위를 조사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>수학·과학 세계 2~4위... 흥미와 자신감은 부족한  한국 아이들</title>
-      <link>https://www.chosun.com/national/education/2024/12/04/ADIFI4DJVZDG3OSJFWMPSAFDI4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2024/12/04/ADIFI4DJVZDG3OSJFWMPSAFDI4/</guid>
-      <dc:creator>오주비 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 04 Dec 2024 09:00:36 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CGJONUINNVKPBEYTHEBG5IIEGM.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;4일 서울의 한 초등학교에서 학생들이 하교하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;우리나라 학생들의 수학·과학 학업 성취도는 세계 2~4위로 높지만, 이 과목들에 대한 흥미나 자신감은 꼴찌 수준으로 나타났다. 과목별로 뛰어난 점수를 받는 학생은 줄고, 기초 미달 학생들은 늘어나고 있다.&lt;br&gt;&lt;br&gt;4일 교육부는 국제 교육성취도 평가 협회의 ‘2023 수학·과학 성취도 추이 변화 국제 비교 연구(TIMSS)’ 결과를 발표했다. 이 연구는 초4와 중2를 대상으로 수학과 과학 성취도를 측정하는 것이다. 1995년부터 4년마다 시행한다. 작년엔 59국의 초4 36만명, 44국의 중2 30만명이 참여했다.&lt;br&gt;&lt;br&gt;연구 결과, 우리나라 초4 학생들의 수학 성취도 점수는 594점으로 싱가포르(615점), 대만(607점)에 이어 3위였다. 과학은 583점으로 싱가포르(607점) 다음으로 높아 2위를 기록했다.&lt;br&gt;&lt;br&gt;중2 학생들의 수학 성취도는 596점으로 싱가포르(605점), 대만(602점) 다음으로 높았다. 과학(545점)은 4위였다.&lt;br&gt;&lt;br&gt;학생들의 과목별 순위는 과거에 비해 떨어졌으나 여전히 최상위권을 유지하고 있다. 예컨대, 초4 학생들은 수학·과학에서 1995·2011년엔 2위, 1위였고, 2015년 이후엔 줄곧 3위, 2위를 기록했다.&lt;br&gt;&lt;br&gt;하지만 평균 점수는 계속 하락 추세다. 초4 수학의 경우 1995년 581점에서 2015년 608점으로 오른 뒤 2019년 600점, 2023년 594점으로 떨어졌다. 중2 과학은 2019년 561점에서 2023년 545점으로 떨어졌다. 교육부 관계자는 “학생들이 학교에서 안 배운 내용이 예전보다 많이 출제되어 점수가 다소 떨어진 것 같다”면서 “싱가포르, 대만, 일본 등도 비슷하게 점수가 떨어져 순위에 변동은 없다”고 말했다.&lt;br&gt;&lt;br&gt;하지만 과목별로 뛰어난 점수를 받은 ‘수월 수준’ 학생 비율은 줄고, 가장 점수가 낮은 ‘기초 미달’ 학생 비율은 늘고 있다. 예컨대, 중2 학생들의 과학에서 ‘수월 수준’ 학생은 2019년 22%에서 2023년 18%로 4%p줄었고, ‘기초 미달’ 학생은 4%에서 6%로 2%p 늘었다.&lt;br&gt;&lt;br&gt;우리나라 학생들은 수학·과학에 대한 흥미와 자신감은 세계 최하위권이었다. 초4 학생들의 수학에 대한 흥미 척도는 세계 58위로 꼴찌였고, 자신감도 50위로 하위권이었다. 설문에서 초4의 48%, 중2의 60%가 ‘수학을 좋아하지 않는다’고 답했다. ‘수학에 자신 없다’는 비율도 초4 34%, 중2 61%에 달했다. 중2 학생들의 과학 과목 자신감 점수는 26국 중 25위로, 일본 다음으로 낮았다. 중2 학생의 44%가 ‘과학을 좋아하지 않는다’고 했고, 66%는 ‘과학에 자신이 없다’고 했다.&lt;br&gt;&lt;br&gt;배영찬 한양대 명예교수는 “인공지능(AI)이나 반도체 등 첨단 산업 분야에는 수학과 과학이 핵심 학문인데, 우리 교육은 여전히 문제 하나 더 맞히는 게 중요하다고 강조하니 아이들이 흥미는 떨어지고 틀리는 데 두려움을 갖게 된다”면서 “끝까지 질문하고 탐구하는 과정의 즐거움을 가르쳐 수학과 과학에 흥미가 생길 수 있게 해줘야 한다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>예산 8억원 빼돌려 가상화폐에 투자한 20대 공무원 구속</title>
-      <link>https://www.chosun.com/national/regional/2024/12/04/K7UDTQKQ6NFSTMLBOUB4OU2KIQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/12/04/K7UDTQKQ6NFSTMLBOUB4OU2KIQ/</guid>
-      <dc:creator>양평=권상은 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 04 Dec 2024 09:30:06 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/736ERN6FMQ4RSSNYJM7YPM74G4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기 양평군청 청사. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 양평군의 8급 공무원이 자신이 근무하고 있는 행정복지센터 예산 약 8억원을 빼돌렸다가 적발됐다.&lt;br&gt;&lt;br&gt;4일 경기 양평경찰서에 따르면 특정범죄 가중처벌 등에 관한 법률 위반(국고 등 손실) 등 혐의로 20대 A씨를 지난달 29일 구속해 조사하고 있다.&lt;br&gt;&lt;br&gt;A씨는 지난해 12월부터 지난달까지 약 11개월간 근무 중이던 행정복지센터 예산 7억9400만원 가량을 빼돌린 혐의를 받고 있다. &lt;br&gt;&lt;br&gt;이 행정복지센터의 회계 업무를 담당했던 A씨는 각종 공사·용역비를 지출할 때 지방재정관리시스템에 공사업체 계좌 대신 본인의 계좌를 입력해 지급받는 수법을 사용해 횡령을 저지른 것으로 나타났다. 이렇게 빼돌린 돈은 가상화폐 투자 등에 사용한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;A씨의 범행은 지난달 행정복지센터가 발주한 공사를 마친 한 업체가 대금을 받지 못하자 양평군에 문의를 하면서 적발됐다. 양평군은 감사에서 A씨의 횡령 사실을 적발해 경찰에 고발했다. &lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“이용자 87%가 만족”…부산형 아이돌봄 ‘당신처럼 애지중지’ 확대  </title>
-      <link>https://www.chosun.com/national/regional/yeongnam/2024/12/04/OPXK4LMKN5DKPDQJ54LEHGKV4Q/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/yeongnam/2024/12/04/OPXK4LMKN5DKPDQJ54LEHGKV4Q/</guid>
-      <dc:creator>박주영 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 04 Dec 2024 08:15:16 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JB5TFAUN4FHW3K6KMGRKNF2GFE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;4일 오후 부산시청에서 열린 제5차 시민행복부산회의 '당신처럼 애지중지 두 번째 이야기' 참석자들이 기념 촬영을 하고 있다. /부산시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;올해 봄 도입된 부산시의 지역 영유아·어린이 돌봄체계, ‘온 부산이 온종일 당신처럼 애지중지(이하 애지중지)’가 내년엔 더욱 확대된다. 박형준 부산시장은 “저출생 등 지역 인구문제를 실질적이고 성과적으로 풀어나갈 돌파구가 될 것”이라고 말했다.&lt;br&gt;&lt;br&gt;부산시는 4일 오후 학부모 등이 참석한 가운데 부산형 통합 늘봄 프로젝트인 ‘애지중지 두 번째 이야기’를 주제로 제5차 시민행복 부산회의를 열었다. 시민행복 부산회의는 박 시장이 시민 목소리를 직접 듣고 정책에 반영하기 위해 운영되고 있다.&lt;br&gt;&lt;br&gt;올해 마지막 회의 주제를 ‘애지중지’로 잡은 것은 이 정책에 대한 부산시의 관심과 기대가 크기 때문인 것으로 풀이된다. 우미옥 여성가족국장은 “‘애지중지’ 정책 만족도를 조사한 결과, 이용자의 87%가 만족하는 것으로 나타났다”며 “시민 생활에 밀접하고 체감률이 높은 만큼 양과 질을 내년엔 더욱 확대할 계획”이라고 말했다.&lt;br&gt;&lt;br&gt;부산시는 올해 100개반이었던 시간제 보육서비스를 내년 176개반으로 대폭 늘리고, 3~5세를 대상으로 하던 어린이집 현장학습비 지원을 내년 중 2세까지로 확대한다. 또 5자녀 이상 초다자녀 가정에 대해 미성년자 자녀 수에 따라 1인당 100만원씩 수당 지급을 추진한다.&lt;br&gt;&lt;br&gt;또 현재 지하철에만 적용하고 있는 임산부 우대 좌석 ‘핑크라이트’를 ‘핑크라이트 존’으로 확대한다. 핑크라이트존은 주차장에 임산부 우대 자리를 두거나 음식점·은행·민원실 등 사람들이 줄을 서는 곳에 우선순위를 주는 ‘패스트 트랙’, 임산부에게 할인을 해주는 우대업체 등으로 이뤄진다.&lt;br&gt;&lt;br&gt;또 2곳이 운영되고 있는 영유아를 위한 ‘공공형 키즈카페’를 내년엔 2곳 신설해 4곳으로 늘리고, 어르신들이 지역에서 수집된 폐플라스틱·장난감 등을 재활용해 다시 지역 주민에게 돌려주는 자원순환 센터인 ‘우리동네 ESG센터’에 친환경 체험과 놀이 프로그램을 연계해 운영하는 ‘애지중지 스페이스’ 2곳을 신설해 운영한다.&lt;br&gt;&lt;br&gt;박 시장은 “오늘 행복회의에서 발표한 ‘당신처럼 애지중지 두 번째 이야기’로 다 함께 우리 아이를 키우고 모두가 행복해지는 부산을 실현하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>비상계엄인데 ‘재난 문자’ 0건</title>
-      <link>https://www.chosun.com/national/national_general/2024/12/04/EDPY4XBL2REITBVL5WY5RH75XY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/04/EDPY4XBL2REITBVL5WY5RH75XY/</guid>
-      <dc:creator>박진성 기자, 김주영 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 04 Dec 2024 08:38:48 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BHZKT2PJVZKSVP6WEZGG6E64IU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령이 비상계엄을 선포한 4일 새벽 서울 여의도 국회의사당에 무장한 계엄군이 진입을 시도하고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 대통령이 3일 밤 비상계엄을 선포했지만 이와 관련한 ‘긴급 재난 문자’는 한 건도 전송되지 않은 것으로 나타났다. 시민들은 TV를 켜거나 인터넷에 접속해야 대통령이 비상계엄을 선포한 사실을 알 수 있었다. 이 때문에 “일찍 잠들었는데 깨고 나니 나라가 난리가 났다. 소름 돋는다”는 사람도 많았다.&lt;br&gt;&lt;br&gt;시민들 사이에서는 “평소에는 시도 때도 없이 ‘긴급 재난 문자’를 울려 사람을 귀찮게 하더니 어제는 그 난리 통에도 문자 하나 안 보냈다. 발송 기준이 궁금하다”는 말이 나왔다.&lt;br&gt;&lt;br&gt;4일 행정안전부에 따르면, 윤 대통령이 긴급 대국민 담화를 시작한 전날 오후 10시 28분쯤부터 계엄 해제를 선언한 이날 오전 4시 30분까지 약 6시간 동안 발송된 긴급 재난 문자는 없었다.&lt;br&gt;&lt;br&gt;당시 무장한 특전사 대원들이 국회의사당 진입을 시도했고 국회경비대와 국회의원 보좌관, 시민 등이 충돌했다. 시민들은 TV 중계 등을 지켜보며 불안해했다.&lt;br&gt;&lt;br&gt;행안부는 계엄이 풀린 지 2시간 뒤인 이날 오전 6시 20분 ‘도로 결빙이 우려된다’는 재난 문자를 전국에 발송했다. 행안부 관계자는 “긴급 재난 문자는 재난이나 공습 등 상황에서 인명·재산 피해가 우려될 때 보내는데 이번 상황은 해당하지 않은 것으로 판단했다”고 했다.&lt;br&gt;&lt;br&gt;반면 정부의 ‘재난 문자 방송 기준 및 운영 규정’에 따르면, 행안부는 ‘자연 재난’ ‘대규모 사회 재난’ ‘국가비상사태’ ‘훈련 등 민방공 경보’ 등 상황에 재난 문자를 보내게 돼 있다.&lt;br&gt;&lt;br&gt;비상계엄은 ‘국가비상사태’에 해당하지 않느냐는 본지 질문에 행안부 측은 “경위를 파악하고 있다”며 “현재는 드릴 말씀이 없다”고 했다. 행안부에 따르면, 올 들어 전국에 전송된 긴급 재난 문자는 10월까지 1만7738건이었다. 하루 평균 53건가량이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>조국 “계엄으로 내 리더십 필요” 대법원 선고 연기 신청</title>
@@ -898,15 +917,6 @@
       <description/>
       <pubDate>Wed, 04 Dec 2024 06:13:21 +0000</pubDate>
       <content:encoded>현직 판사들이 윤석열 대통령의 비상계엄 선포와 대법원의 대응을 잇따라 비판하고 나섰다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SOLIM242HRXSOGY2PQPPNFFQSI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령이 대국민담화문을 열고 '비상계엄'을 선포한 3일 밤 서울역 대합실에서 시민들이 관련 뉴스를 시청하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산지법 김도균 부장판사는 4일 낮 사법부 내부망(코트넷)에 ‘비상계엄 사태에 관한 대법원 대응에 대한 비판’이라는 제목의 글을 올렸다. “대법원의 대응이 실망스러웠다”는 취지다.&lt;br&gt;&lt;br&gt;김 부장판사는 이 글에서 “비상계엄으로 사법부 재판권의 상당 부분이 침해될 우려가 있음에도, 비상계엄의 실질적 요건에 분명하고도 중대한 하자가 존재함에도, 사법권 수호의 최선단에 서서 국민의 기본권을 수호하고 헌법 질서를 지켜낼 대법원이 이번에도 소극적이었다”고 했다. 또 “심지어는 계엄에 동조하는 인상마저 주는 행보를 보이는 상황에 분노마저 느꼈다”고 했다.&lt;br&gt;&lt;br&gt;과거 김 부장판사는 검찰권에 대한 법원의 견제와 통제가 내실있게 이뤄져야 한다는 주장을 펼친 바 있다. 지난 4월 김 부장판사는 부산지법 판례연구회에서 “법원이 형식적 법률주의에 입각한 심사에만 안주한다면 헌법이 부여한 임무를 게을리하는 것일 뿐 아니라 ‘영장 자판기’를 자처한다는 비난을 피할 수 없을 것”이라며 “기본권을 침해하는 (검찰의) 강제수사는 더욱 강화된 심사가 이뤄져야 한다”고 밝혔다.&lt;br&gt;&lt;br&gt;이날 오전 서울중앙지법 박병곤 판사도 코트넷에 ‘대법원장님께 드리는 말씀’이라는 제목의 게시글을 올렸다. 박 판사는 “윤석열은 헌정질서를 파괴하는 쿠데타 시도를 통해 한밤 중에 5000만 국민들을 공포로 몰아넣었고 법원을 짓밟으려 했다”며 “법원 차원의 최소한의 조치로써 대법원장님께서 강력한 경고를 표명해 주셔야 한다고 생각한다”고 했다.&lt;br&gt;&lt;br&gt;이어 “이런 상황에서 (대단히 송구스러운 말씀이고, 현 상황에서는 이해가 가지만) 별 내용 없어 보이는 의사표명만 있다면, 국민들은 더 이상 법원을 신뢰하지 않을 것”이라고도 썼다.&lt;br&gt;&lt;br&gt;박 판사는 노무현 전 대통령 부부의 명예를 훼손한 혐의로 기소된 정진석 대통령실 비서실장의 1심 선고를 맡았다. 박 판사는 작년 8월 정 실장에 검찰이 구형한 벌금 500만원보다 무거운 징역 6개월을 선고했다. 검찰 구형 형량을 크게 웃돌았다는 점에서, 법조계 상식을 넘어선 극단적 판결이라는 비판이 이어졌다.&lt;br&gt;&lt;br&gt;이 판결 이후 박 판사가 고교·대학 시절은 물론 법관 재직 기간에도 ‘친야(親野) 정치 성향’을 드러내는 글을 소셜미디어에 써왔다는 사실이 드러나 논란이 됐다. 지난 2022년 더불어민주당 이재명 대표가 대선에서 패배한 뒤에는 “이틀 정도 울분을 터뜨리고 슬퍼도 했다가 사흘 째부터는 일어나야 한다”는 글을 쓰기도 했다.&lt;br&gt;&lt;br&gt;현직 판사들의 비판에 대해 대법원 법원행정처는 추가로 별도 입장을 밝힐 계획은 없는 것으로 전해졌다.&lt;br&gt;&lt;br&gt;조희대 대법원장은 이날 오전 출근길에서 “이런 어려운 때일수록 사법부가 본연의 임무를 더 확실하게 하겠다”면서 “사법부 본래 역할인 재판을 통해 국민의 자유와 인권을 보장하는 일에 한 치의 소홀함이 없도록 최선을 다하겠다. 국민들이 걱정하지 않으셔도 된다”고 말했다.&lt;br&gt;&lt;br&gt;대법원은 윤 대통령이 전날 계엄을 선포하자 조희대 대법원장의 지시로 법원행정처 간부를 소집해 심야 회의를 진행했다. 회의를 마친 천대엽 대법원 법원행정처장은 4일 오전 “헌법과 법률이 부여한 사명에 따라 본연의 자세로 추호의 흔들림 없이 국민의 자유와 권리를 지키기 위해 최선의 노력을 다할 것”이라고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>한파 내일도 계속…전국에 약한 비 또는 눈</title>
-      <link>https://www.chosun.com/national/transport-environment/2024/12/04/FJZMQN5W6BFC5H3DGJ4ARXXROM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2024/12/04/FJZMQN5W6BFC5H3DGJ4ARXXROM/</guid>
-      <dc:creator>박상현 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 04 Dec 2024 05:09:44 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IV6YIG7LLBBMJH67CO6Y32SCM4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;영하권 추위가 시작된 3일 오전 서울 광화문네거리에서 시민들이 두터운 옷을 입고 출근길 발걸음을 옮기고 있다. /박상훈 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한파(寒波)가 5일에도 전국에 기승을 부리겠다. 전국 대부분 지역의 아침 기온이 영하권에 머물면서 추울 전망이다.&lt;br&gt;&lt;br&gt;기상청에 따르면, 5일 아침 최저기온은 영하5도에서 영상 5도, 낮 최고기온은 5~12도로 예보됐다. 중국 쪽 대륙고기압에서 불어넣는 찬 바람이 연일 한반도 수은주를 떨어뜨리고 있다.&lt;br&gt;&lt;br&gt;5~6일 전국에 약한 비나 눈이 예고됐다. 예상 강수량은 전국에서 5㎜ 내외, 예상 적설량은 강원도 1~3㎝, 충청권 1㎝ 내외, 제주산지 1~3㎝다.&lt;br&gt;&lt;br&gt;추위는 이번 주말까지 이어질 것으로 보인다. 고기압의 영향으로 전국이 대체로 맑겠으나 서해상에서 발달한 구름대의 영향으로 전라권과 제주도에는 비나 눈이 예상된다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>서울지하철 2노조 파업 부결… 1·3노조는 6일 파업 예고</title>
@@ -943,16 +953,6 @@
       <description/>
       <pubDate>Wed, 04 Dec 2024 04:52:04 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3IUS2OFCGBDLRLYVWIPPQWAWZI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 3일 서귀포시 서성로에서 카니발 승합차와 트럭이 충돌하는 사고가 발생, 카니발 승객 4명이 숨졌다. /제주도소방안전본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제주에서 4명의 사망자가 발생한 카니발 승합차와 1t 트럭 충돌사고는 ‘안전벨트 미착용’이 화를 키운 것으로 추정되고 있다.&lt;br&gt;&lt;br&gt;4일 제주 서귀포경찰서에 따르면 전날인 3일 오후 3시 58분쯤 서귀포시 남원읍 서성로 입구 교차로 인근 도로에서 발생한 교통사고와 관련해 카니발 운전자인 50대 남성 A씨를 교통사고처리특례법 상 치사·상 혐의로 입건할 예정이다.&lt;br&gt;&lt;br&gt;경찰은 사고가 당시 교차로에서 5·16도로로 진입하려던 카니발 차량과 맞은편에서 오던 1t 트럭이 정면충돌하면서 발생한 것으로 추정했다. 서귀포경찰서 관계자는 “차량 블랙박스 영상에는 차량 간 충돌 모습은 나오지 않지만, 카니발 차량이 중앙선을 침범한 사실이 확인됐다”고 설명했다.&lt;br&gt;&lt;br&gt;이 사고로 카니발 탑승자인 50대 여성 3명과 70대 남성 1명이 사망했다. 이들은 모두 부산에서 온 관광객으로서 차량 뒷좌석에 타고 있었다. 카니발 운전자와 조수석에 앉아 있던 50대 남성은 가슴·머리 등을 다쳐 병원으로 이송됐다. 트럭 운전자와 동승자도 골절상을 입고 병원에서 치료받고 있다.&lt;br&gt;&lt;br&gt;이번 사고에서 탑승자의 생사를 가른 건 안전벨트 착용 여부로 추정되고 있다. 소방이 현장에 출동했을 당시 일부 탑승자가 사고 충격으로 차량 밖으로 튕겨 나와 있었던 것으로 확인됐다. 경찰도 현장 조사에서 카니발 뒷좌석에 앉아있던 사망자 4명 대부분이 차량 밖으로 튕겨 나온 것으로 보아 이들이 안전벨트를 매지 않은 것으로 추정한다고 밝혔다.&lt;br&gt;&lt;br&gt;경찰은 “카니발 운전자의 음주 운전은 아니었으며, 과속 여부, 중앙선 침범 이유 등을 확인해 혐의를 적용할 예정”이라고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>尹 비상계엄 선포부터 국회 계엄해제 가결까지, 긴박했던 150분</title>
-      <link>https://www.chosun.com/national/national_general/2024/12/04/WA5IW4AAXBH2BL2NX7UMTTU5W4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/04/WA5IW4AAXBH2BL2NX7UMTTU5W4/</guid>
-      <dc:creator>고유찬 기자, 강지은 기자, 김보경 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 04 Dec 2024 02:01:51 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BYSQWHWHGVLABNNGDLIQBGLBL4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령이 긴급 대국민 담화를 통해 비상계엄령을 발표한 가운데 4일 새벽 서울 여의도 국회에서 계엄군이 창문을 깨고 국회 본청으로 진입하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 3일 밤 윤석열 대통령이 비상계엄을 전격 선포하고 국회가 다음날인 4일 새벽 비상계엄 해제 요구안을 가결하기까지 걸린 시간은 약 150분이었다.&lt;br&gt;&lt;br&gt;윤 대통령은 3일 오후 10시 30분 긴급 대국민담화를 통해 비상계엄을 선포했다. 비상계엄 선포 약 1시간 만에 계엄 지역의 모든 행정사무와 사법사무를 관장할 계엄사령부가 설치됐고, 계엄사령관에 박안수 육군참모총장이 임명됐다.&lt;br&gt;&lt;br&gt;이날 오후 11시 30분쯤 박 총장은 대한민국 전역에 “국회와 지방의회, 정당의 활동과 정치적 결사, 집회, 시위 등 일체의 정치활동을 금한다”는 내용의 ‘계엄사령부 포고령(제1호)’을 발표했다.&lt;br&gt;&lt;br&gt;계엄이 선포되자 경찰과 소방 당국은 물론이고 각급 부처에 ‘비상 대기’와 ‘긴급 소집령’이 떨어졌다.&lt;br&gt;&lt;br&gt;조지호 경찰청장은 전국 지방 시도청장에게 정위치에서 근무하라고 지시했고, 서울지방경찰청은 4일 오전 1시부로 산하 31개 경찰서에 ‘을호비상’을 발령했다. 을호비상은 경찰 비상근무 중 2번째로 높은 단계다. 소방청장 역시 긴급태응태세 강화를 지시했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XW6MRDUOIBMVLPW2NERQOXXK2E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령이 3일 밤 긴급성명을 통해 비상계엄을 선포한 가운데 4일 새벽 계엄군이 헬기를 타고 국회에 도착하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이보다 앞서 움직인 건 군이었다. 계엄령이 발효된 지 약 70분 뒤인 3일 오후 11시 40분쯤 국회 상공에 헬기 소리가 울려 퍼지더니 UH-60 블랙호크 3대가 국회 뒷편 공터에 착륙했다. 헬기에서 내린 계엄군들은 야간 투시경과 단검, K-1 기관단총으로 무장하고 있었다. 이들 계엄군들은 국회 본청으로 이동해 내부 진입을 시도하기 시작했다.&lt;br&gt;&lt;br&gt;비슷한 시각 서울 시내 곳곳에서 군 병력이 이동하는 모습이 목격됐다. 용산 대통령실 근처 이태원역 앞과 정부청사로 가는 길목인 충정로 근처에서는 K-808 차륜형 장갑차를 비롯한 군용 차량들과 함께 군인들이 움직이는 모습이 확인됐다. 윤석열 대통령 관저 근처에선 여러 명의 군인을 태운 대형 군 트럭들이 이동하는 모습도 포착됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VQHMWB7J4BBKLJHLUXWF6BJUQE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;3일 밤 시민 2명이 계엄군을 태운 군용버스 아래 누워 항의하고 있다. /강지은 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국회 바깥에서 버스를 타고 국회로 진입하려는 계엄군도 있었다. 3일 오후 11시 56분쯤 국회 바깥에 계엄군이 탄 버스가 등장하자 시민들이 버스 주변을 에워쌌다. 일부 시민들은 버스 아래에 누워 “군사 독재 아래에 살고 싶냐”며 항의하기도 했다.&lt;br&gt;&lt;br&gt;이후로도 계엄군이 탑승한 코란도 및 스타렉스 차량 등이 차례로 도착했으나, 역시 시민 저항으로 발이 묶였다. 일부 시민들은 계엄군이 탄 차량 창문을 두드리며 거세게 항의했다.&lt;br&gt;&lt;br&gt;이처럼 군·경이 긴박하게 움직이는 사이, 여의도에선 계엄을 해제하기 위한 정치권의 움직임이 숨가쁘게 이어졌다. 우원식 국회의장은 오후 11시쯤 “모든 국회의원은 지금 즉시 국회 본회의장으로 모여달라”고 공지했다. 계엄을 해제하기 위한 국회 표결을 위해서였다.&lt;br&gt;&lt;br&gt;비슷한 시각, 국회 본청 앞에서는 의원·보좌진과 계엄군 간의 대치가 이어지고 있었다. 국회에 추가로 도착한 계엄군들이 국회를 에워싸고 각 출입문을 통해 내부로 진입을 시도하면서 국회 관계자 등이 극렬히 저항했다. 안에 있던 국회 보좌진등은 의자와 책상 등 각종 자재로 국회 출입구를 막아 계엄군의 출입을 저지했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YX4YELFMENB37FZ74DEHM5SJTM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;4일 0시 35분쯤 계엄군 20여명이 국회 본관 유리창을 부수고 내부로 진입하고 있는 모습. /고유찬 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;저항이 거세자 일부 계엄군은 국민의힘 정책위의장실 창문을 깨고 국회 본청에 진입했다. 4일 오전 0시 30분쯤이었다. 계엄군이 본청에 진입하며 국회 안에서 계엄군과 국회 직원 및 보좌진들의 대치 상황이 벌어졌다.&lt;br&gt;&lt;br&gt;국회 직원 및 국민의힘 당직자들은 국회로 진입한 계엄군에게 소화기를 뿌리는 등의 방법으로 저항하며 국회 본회의장 진입을 막았고, 이러한 대치 상황은 1시간 가까이 이어졌다. 결국 계엄군은 3층 본회의장까지는 진입하지 못했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EUN7FMLM5VOULNGJJDC2MYUP5U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;4일 새벽 국회 본청에 진입한 무장 계엄군이 본회의장으로 진입하려 하자 국회 관계자들이 소화기를 뿌리며 진입을 막고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국회 당직자와 보좌진이 본청을 지키는 사이 4일 오전 1시 본회의에서는 재적 의원 300명 중 재석 190명 만장일치로 비상계엄 해제 요구 결의안이 의결됐다. 윤 대통령이 비상계엄을 선포한지 약 150분 만이었다. 시민들은 환호성을 지르며 박수를 쳤다. “계엄령 해제”와 “윤석열 탄핵” 구호는 결의안 가결 이후 “윤석열을 체포하라”로 바뀌었다.&lt;br&gt;&lt;br&gt;약 10분 뒤 군인들에게도 철수 명령이 내려졌고, 계엄군들은 군장을 챙기며 자리를 뜨기 시작했다. 시민들 사이에서 “이제 집에 가자”는 음성과 “이제 용산으로 가자”는 외침이 엇갈렸다. 일부 시민들은 눈물을 글썽이며 서로 부둥켜안기도 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/J5PDARC5EJMWVGIMLUPB4GQ2O4.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;비상계엄 해제 요구 결의안이 국회 본회의에서 통과된 4일 새벽 서울 여의도 국회 인근에서 시민들이 비상계엄 해제 소식을 듣고 환호하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;다음은 비상계엄 발표부터 국회 계엄해제 가결까지 주요 타임라인&lt;/b&gt;&lt;br&gt;&lt;br&gt;#12월 3일 화요일&lt;br&gt;&lt;br&gt;오후 10시 30분. 윤석열 대통령, 비상계엄 발표&lt;br&gt;&lt;br&gt;오후 11시 25분. 윤석열 대통령, 계엄사령관에 육군 대장 박안수 임명&lt;br&gt;&lt;br&gt;오후 11시 30분. 계엄사령부, 포고령 제1호 발표&lt;br&gt;&lt;br&gt;오후 11시 36분. 정부세종청사 중앙동 폐쇄. 공무원 출입 막혀&lt;br&gt;&lt;br&gt;오후 11시 48분. 국회에 군 헬기 착륙, 계엄군 국회 본청 진입 시도&lt;br&gt;&lt;br&gt;오후 11시 56분. 국회 바깥에 계엄군 탄 버스 등장. 시민들이 에워싸 발 묶여&lt;br&gt;&lt;br&gt;오후 11시 59분. 용산 대통령실 앞 바리케이드 설치&lt;br&gt;&lt;br&gt;#12월 4일 수요일&lt;br&gt;&lt;br&gt;오전 0시 29분. 국회, 본회의 개의&lt;br&gt;&lt;br&gt;오전 0시 30분. 계엄군, 국민의힘 정책위의장실 창문 깨고 국회 본청 진입 시작&lt;br&gt;&lt;br&gt;오전 0시 34분. 소방청, 긴급대응태세 강화 지시&lt;br&gt;&lt;br&gt;오전 0시 39분. 서울경찰청, 오전 1시 ‘을호비상’ 발령. 비상체제 돌입&lt;br&gt;&lt;br&gt;오전 0시 48분. 국회, 본회의 개최&lt;br&gt;&lt;br&gt;오전 1시. 국회, 비상계엄 해제 요구안 본회의 안건 재석 190인, 찬성 190인 가결 선포&lt;br&gt;&lt;br&gt;오전 1시 10분. 계엄군, 국회에서 철수 시작&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/NUXMRAXLEJHDHLSDZGOD2DLD2A.gif?width=1400&amp;height=787&amp;auth=32d8ec92718a00675097539812b28c98f9b1e202c4e7a7c90d7a0afe9b5a6441&amp;smart=true" type="image/jpeg" height="787" width="1400"/>
     </item>
   </channel>
 </rss>
