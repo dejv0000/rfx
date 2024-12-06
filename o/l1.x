@@ -6,6 +6,16 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>[판결] "태권도장 중심잡기 훈련 중 골절 사고"…대법원 "관장에게 과실 없다" 파기환송</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 100%;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/203517.jpg" alt="203517.jpg" style="width: 100%; height: auto;" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;《사진=어도비스톡》&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;초등학생 원생이 태권도장에서 중심잡기 훈련을 하다 골절상을 입은 사건에서 대법원이 태권도장 관장에게 업무상 과실치상 혐의를 인정한 원심 판결을 파기환송했다.&lt;br /&gt;&lt;b&gt;&lt;br /&gt;대법원 형사3부&lt;/b&gt;(주심&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="3286"&gt;김상환&amp;nbsp;&lt;/span&gt;대법관)는 업무상과실치상 혐의로 기소된 태권도 관장 A 씨에 대해 "업무상 주의의무를 위반했다고 보기 어렵다"며 원심 판결을 파기하고 사건을 전주지법으로 돌려 보냈다(&lt;b&gt;2022도9308&lt;/b&gt;).&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;b&gt;&lt;span style="background-color: #ffe5cc;"&gt;사건 경위&lt;/span&gt;&lt;/b&gt;&lt;br /&gt;2020년 10월 A 씨는 초등학생 원생들에게 '원탑(높이 31cm의 훈련 도구)'을 이용한 중심잡기 훈련을 시켰다. 이후 원탑 위에 올라가 중심을 잡던 한 원생이 균형을 잃고 떨어져 왼쪽 팔꿈치 골절상을 입었다. 검찰은 "A 씨가 훈련 방법에 대한 충분한 설명과 시범, 안전조치 등을 소홀히 했다"며 업무상 과실치상 혐의로 기소했다.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;b&gt;&lt;span style="background-color: #ffe5cc;"&gt;1·항소심 엇갈린 판단&lt;/span&gt;&lt;/b&gt;&lt;br /&gt;1심은 "태권도장의 훈련 방식이 일반적이고 사고를 예견하기 어려운 상황이었다"며 A 씨에게 무죄를 선고했다. 그러나 항소심은 "관장이 훈련의 위험성을 충분히 알리지 않고 안전 매트 등 조치를 소홀히 했다"며 벌금 150만 원을 선고했다.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;b&gt;&lt;span style="background-color: #ffe5cc;"&gt;대법원, 원심 파기…"과실 인정 어렵다"&lt;/span&gt;&lt;/b&gt;&lt;br /&gt;대법원은 원심 판단을 뒤집고 A 씨에게 과실을 인정하기 어렵다며 사건을 파기환송했다.&lt;p&gt;&amp;nbsp; &lt;br /&gt;재판부는 "원탑 훈련은 균형감각을 기르기 위해 태권도장에서 일반적으로 실시하는 프로그램"이라며 "훈련 과정에서 엉덩방아를 찧거나 넘어지는 일은 불가피한 과정일 수 있고 원탑 높이가 낮아 심각한 부상을 예견하기 어려웠다"고 지적했다. 이어 "A 씨가 운영하는 태권도장에서는 통상 사용하는 재질의 매트가 설치되어 있었다"며 "원생들이 태권도 등 운동을 하다 바닥에 넘어지는 경우 매트의 성능이 충격을 흡수하지 못해 다칠 수 있는 정도는 아니다"고 설명했다. 그러면서 "피해 아동이 사고 이전 1년 5개월간 태권도장에서 다른 훈련을 받는 동안 특별한 부상을 입지 않았다"며 "A 씨가 훈련의 위험성을 미리 알거나 회피할 의무가 있다고 보기 어렵다"고 밝혔다.&lt;/p&gt;</description>
+			<pubDate>Fri, 06 Dec 2024 04:26:20 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/203517</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/203517</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/203517.jpg</media:thumbnail>
+			<dc:creator>이순규 기자</dc:creator>
+		</item>
+		<item>
 			<title>檢 '비상계엄' 특수본 구성...본부장 박세현 서울고검장</title>
 			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/thumb/180/203537.jpg" alt="203537.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;검찰이 윤석열 대통령의 '비상계엄 선포'와 관련한 내란죄 혐의에 대해 특별수사본부(특수본)를 꾸렸다. &lt;br /&gt;&lt;br /&gt;대검찰청은 6일 "특수본을 구성해 이번 비상계엄 관련 사건에 대해 엄정하게 수사할 것"이라고 밝혔다. &lt;br /&gt;&lt;br /&gt;특수본부장은&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="1054"&gt;박세현&lt;/span&gt;(49·사법연수원 29기·&lt;b&gt;사진&lt;/b&gt;) 서울고검장이 맡는다.&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="10448"&gt;김종우&lt;/span&gt;(48·33기) 서울남부지검 2차장검사,&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="11509"&gt;이찬규&lt;/span&gt;(51·34기) 서울중앙지검 공공수사1부장,&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="13118"&gt;최순호&lt;/span&gt;(49·35기) 서울중앙지검 형사3부장 등도 참여한다.&lt;br /&gt;&lt;br /&gt;앞서 검찰은 전날인 5일 윤 대통령이 내란죄로 고소·고발당한 사건을 서울중앙지검 공공수사1부(이찬규 부장검사)에 배당하고, 김용현 전 국방부 장관에 대해 출국금지 조치했다.&lt;br /&gt;&lt;br /&gt;내란죄는 검찰의 직접 수사 개시 범위에는 포함되지 않지만, 직권남용 혐의로 수사를 개시해 관련 범죄인 내란죄까지 연계해 수사할 것으로 보인다. &lt;br /&gt;&lt;br /&gt;한편 경찰청 국가수사본부도 이날 120여 명 규모의 전담수사팀을 꾸렸다고 밝혔다.&lt;p&gt;&amp;nbsp; &lt;br /&gt;국수본 안보수사단에는 조국혁신당, 전국민주노동조합총연맹 위원장 등 59인, 진보당, 더불어민주당이 윤 대통령과 김 전 국방부 장관, 이상민 행정안전부 장관, 목현태 국회경비대장 등을 고발한 사건이 배당돼 있다. &lt;br /&gt;&lt;/p&gt;</description>
 			<pubDate>Fri, 06 Dec 2024 02:40:29 -0000</pubDate>
@@ -230,16 +240,6 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/203483</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/203483.jpg</media:thumbnail>
 			<dc:creator>한수현 기자</dc:creator>
-		</item>
-		<item>
-			<title> 野, 윤 대통령 탄핵소추안 발의…6일 표결 수순</title>
-			<description>&lt;p style="text-align: center;"&gt;&amp;nbsp;&lt;img src="https://image.lawtimes.co.kr/thumb/180/203484.jpg" alt="203484.jpg" style="width: 600px; height: auto;" /&gt;&lt;/p&gt;&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: left; font-size: 14px; line-height: 1.6em;"&gt;이재명 더불어민주당 대표가 4일 서울 여의도 국회 본청 앞 계단에서 열린 '윤석열 대통령 사퇴촉구 탄핵추진 비상시국대회'에서 규탄사를 하고 있다.《연합뉴스》&lt;/figcaption&gt;   &lt;/figure&gt;&lt;/div&gt;&lt;p style="text-align: center;"&gt;&amp;nbsp;&lt;/p&gt;더불어민주당과 조국혁신당, 개혁신당, 진보당, 기본소득당, 사회민주당 등 야권 6당은 4일 윤석열 대통령 탄핵소추안을 국회에 제출했다.&lt;br /&gt;&lt;br /&gt;범야권은 이날 오후 2시 40분 국회 의안과를 방문해 윤 대통령에 대한 탄핵안을 제출했다. 오는 5일 탄핵안을 국회 본회의에 보고한 뒤, 오는 6일 본회의를 다시 열어 표결에 부칠 계획이다.&lt;br /&gt;&lt;br /&gt;탄핵소추안 발의에는 국민의힘 의원을 제외한 야권 6당 의원 190명 전원과 무소속 김종민 의원이 참여했다.&lt;br /&gt;&lt;br /&gt;탄핵안에는 윤 대통령이 전날 선포한 비상계엄이 계엄에 필요한 어떤 요건을 충족하지 못했음에도 헌법과 법률을 위반한 채 비상계엄을 발령해 국민주권주의와 권력분립의 원칙 등을 위반했다는 점이 탄핵의 사유로 담겼다.&lt;br /&gt;&lt;br /&gt;더불어민주당 원내지도부는 이날 의원들에게 '내일(5일) 오전 0시가 지난 시점에 본회의를 열어 탄핵안을 보고할 예정'이라고 방침을 전했다.&lt;br /&gt;&lt;br /&gt;박성준 민주당 원내수석부대표가 의원들에게 보낸 공지에 따르면 "오늘 본회의를 자정이 지난 시점에 개의해 윤석열 대통령 탄핵안을 보고할 예정"이라면서 "24시간 이후 72시간 이내 의결해야하니 토요일까지 비상대기해야 한다"고 전했다.&lt;br /&gt;&lt;br /&gt;김용민 민주당 의원은 탄핵안 제출 후 기자들과 만나 "어제오늘 있었던 위법한 계엄과 그 과정에서 있었던 내란 행위를 도저히 묵과할 수 없다고 생각했다"며 "더이상 민주주의가 무너지는 것을 방치할 수 없다는 생각으로 탄핵안을 발의했다"고 말했다. 이어 "지금 이후 첫 번째로 열리는 본회의인 5일 0시 1분 본회의에 (탄핵소추안을) 보고한다"며 "6일 0시 2분부터 표결이 가능한 상태가 된다"고 밝혔다.&lt;br /&gt;&lt;br /&gt;국회법 제130조에 따르면 탄핵안은 국회 보고 24시간 이후 72시간 이내 의결이 가능하다. 헌법 제65조는 탄핵소추의 경우 국회 재적의원 과반(151명) 발의, 재적의원 3분의 2(200명) 이상 찬성으로 가결된다고 규정하고 있다. &lt;br /&gt;</description>
-			<pubDate>Wed, 04 Dec 2024 06:44:35 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/203484</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/203484</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/203484.jpg</media:thumbnail>
-			<dc:creator>김지현 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
