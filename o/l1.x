@@ -6,6 +6,26 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>檢 '비상계엄' 특수본 구성...본부장 박세현 서울고검장</title>
+			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/thumb/180/203537.jpg" alt="203537.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;검찰이 윤석열 대통령의 '비상계엄 선포'와 관련한 내란죄 혐의에 대해 특별수사본부(특수본)를 꾸렸다. &lt;br /&gt;&lt;br /&gt;대검찰청은 6일 "특수본을 구성해 이번 비상계엄 관련 사건에 대해 엄정하게 수사할 것"이라고 밝혔다. &lt;br /&gt;&lt;br /&gt;특수본부장은&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="1054"&gt;박세현&lt;/span&gt;(49·사법연수원 29기·&lt;b&gt;사진&lt;/b&gt;) 서울고검장이 맡는다.&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="10448"&gt;김종우&lt;/span&gt;(48·33기) 서울남부지검 2차장검사,&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="11509"&gt;이찬규&lt;/span&gt;(51·34기) 서울중앙지검 공공수사1부장,&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="13118"&gt;최순호&lt;/span&gt;(49·35기) 서울중앙지검 형사3부장 등도 참여한다.&lt;br /&gt;&lt;br /&gt;앞서 검찰은 전날인 5일 윤 대통령이 내란죄로 고소·고발당한 사건을 서울중앙지검 공공수사1부(이찬규 부장검사)에 배당하고, 김용현 전 국방부 장관에 대해 출국금지 조치했다.&lt;br /&gt;&lt;br /&gt;내란죄는 검찰의 직접 수사 개시 범위에는 포함되지 않지만, 직권남용 혐의로 수사를 개시해 관련 범죄인 내란죄까지 연계해 수사할 것으로 보인다. &lt;br /&gt;&lt;br /&gt;한편 경찰청 국가수사본부도 이날 120여 명 규모의 전담수사팀을 꾸렸다고 밝혔다.&lt;p&gt;&amp;nbsp; &lt;br /&gt;국수본 안보수사단에는 조국혁신당, 전국민주노동조합총연맹 위원장 등 59인, 진보당, 더불어민주당이 윤 대통령과 김 전 국방부 장관, 이상민 행정안전부 장관, 목현태 국회경비대장 등을 고발한 사건이 배당돼 있다. &lt;br /&gt;&lt;/p&gt;</description>
+			<pubDate>Fri, 06 Dec 2024 02:40:29 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/203537</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/203537</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/203537.jpg</media:thumbnail>
+			<dc:creator>임현경 기자</dc:creator>
+		</item>
+		<item>
+			<title>한국형사소송법학회, 형사소송법 제정 70주년 공동학술대회 6일 개최</title>
+			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/thumb/180/203533.jpg" alt="203533.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;한국형사소송법학회(회장 김성룡)는 6일 오후 1시 대한변호사협회회관 지하 1층 세미나실에서 한국형사·법무정책연구원(원장 정웅석), 법무부, 대한변호사협회(협회장 김영훈)와 '형사소송법의 과거, 현재 그리고 미래'를 주제로 공동 학술대회를 개최한다.&lt;br /&gt;&lt;br /&gt;이번 학술대회에서는 형사소송법의 발전 방향과 현황, 개정 필요성 등을 심도 있게 논의한다. 주요 세션에서는 △형사소송법의 과거와 현재 △형사소송법의 개정 필요성과 방향 △수사절차·증거·공판 및 재판·상소와 특별절차 등을 다룰 예정이다.&lt;br /&gt;&lt;br /&gt;개회식에서는 김성룡 한국형사소송법학회 회장,&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="3270"&gt;김석우&lt;/span&gt;(52·사법연수원 27기) 법무부 차관,&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="2700"&gt;김영훈&lt;/span&gt;(60·27기) 대한변협 협회장, 정웅석 한국형사·법무정책연구원장이 개회사를 한다. 축사는&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="3204"&gt;심우정&lt;/span&gt;(53·26기) 검찰총장과&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="4869"&gt;한명관&lt;/span&gt;(65·15기) 한국형사소송법학회 고문이 한다. 기조강연은 강동범 이화여대 명예교수가 진행한다.&lt;br /&gt;&lt;br /&gt;변협 관계자는 "이번 공동학술대회가 형사소송법의 발전과 변화를 돌아보고 각계 전문가들이 심도 있는 논의를 나눌 기회가 되길 바란다"고 밝혔다.</description>
+			<pubDate>Fri, 06 Dec 2024 02:32:06 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/203533</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/203533</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/203533.jpg</media:thumbnail>
+			<dc:creator>안현 기자</dc:creator>
+		</item>
+		<item>
 			<title>한국신문윤리위원회, '기사 속 윤리, 언론이 놓친 것' 발간</title>
 			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/thumb/180/203527.jpg" alt="203527.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;한국신문윤리위원회(위원장 김재형 전 대법관)는 최근 《기사 속 윤리, 언론이 놓친 것》(박영사 펴냄)을 발간했다. 언론 보도의 윤리적 기준을 돌아보고 품격 있는 저널리즘을 실천할 수 있는 지침을 제공하기 위해서다.&lt;p&gt;&amp;nbsp; &lt;br /&gt;책은 최근 5년(2020~2024년)간 신문윤리위원회가 매달 발행하는 소식지 '신문윤리'에 실린 주요 심의 사례를 정리한 내용을 담았다. △언론의 공정성과 공공성 △인격권 보호 △저작권 보호 △광고 윤리 등에 대한 내용이다.&lt;/p&gt;&lt;p&gt;&amp;nbsp; &lt;br /&gt;최근 언론 보도에서 문제되고 있는 선정 보도, 편파 보도, 사생활 침해, 명예훼손, 초상권 침해, 비속어 사용 등 여러 윤리적 문제에 관한 실제 사례도 제공한다.   &lt;/p&gt;&lt;p&gt;&amp;nbsp; &lt;br /&gt;한국신문윤리위원장인&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="2358"&gt;김재형&lt;/span&gt;(59·사법연수원 18기) 전 대법관은 "언론이 사회의 거울이라면, 이 책은 대한민국 언론 윤리의 거울"이라며 "한국신문윤리위원회가 63년간 쌓아온 윤리적 기준과 고민이 응축된 이 책이 언론계 종사자들에게는 실무적 참고서로, 독자들에게는 언론의 사회적 책임과 윤리에 대한 이해를 돕는 자료로 활용되길 바란다"고 말했다.      &lt;/p&gt;&lt;p&gt;   &lt;br /&gt;한국신문윤리위원회는 언론의 자유를 지키고 언론의 사회적 책임을 다하기 위해 한국신문협회와 한국신문방송편집인협회, 한국기자협회가 1961년 9월에 설립한 언론자율기구이다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
 			<pubDate>Fri, 06 Dec 2024 00:40:36 -0000</pubDate>
@@ -220,26 +240,6 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/203484</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/203484.jpg</media:thumbnail>
 			<dc:creator>김지현 기자</dc:creator>
-		</item>
-		<item>
-			<title>현직 법관 "위헌적 쿠데타 시도…대법원장, 강력한 경고 표명해달라"</title>
-			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/203482.jpg" alt="20161129.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;윤석열 대통령이 3일 오후 10시 20분경 비상계엄을 선포한 것에 대해 현직 법관이 강력하게 비판하는 글을 법원 내부 게시판에 게재했다. 그는 해당 글에서 "윤 대통령의 위헌적인 쿠데타 시도에 대해 강력한 경고를 표명해 달라"고 조희대 대법원장에게 요청했다.&lt;br /&gt;&lt;br /&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="42568"&gt;박병곤&lt;/span&gt;(사법연수원 41기) 서울중앙지법 판사는 4일 오전 법원 내부망에 '대법원장님께 드리는 말씀'이라는 제목의 게시글을 올렸다.&lt;br /&gt;&lt;br /&gt;박 판사는 "지난밤, 윤 대통령은 기습적으로 비상계엄을 선포했다"며 "어떤 이유를 붙이든 간에 윤 대통령의 비상계엄 선포는 정당화될 수 없다"고 밝혔다.&lt;br /&gt;&lt;br /&gt;이어 "단순히 일상적인 업무 중에 발생할 수도 있는 위헌·위법이 아니라, 누구나 자유롭게 자기 생각을 주고받을 수 있는 권리를 침해하고 누구도 국가로부터 불법적으로 구금되지 않는다는 믿음을 저버리며, 헌법을 통해 국민 모두가 최소한으로 합의한 민주적 기본 질서를 짓밟은 폭거이기 때문"이라고 비판했다.&lt;br /&gt;&lt;br /&gt;박 판사는 윤 대통령에 대해 이미 대통령이 아니라고 했다. 그는 "형식적으론 대통령 권한을 가지고 있지만, 대통령으로서 지켜야 할 당연한 책무, 즉 국민이 안심하고 생업에 종사하며 행복하게 살 수 있도록 헌법을 준수하고 국가를 보위하지 않았다"며 "오히려 한밤중에 쿠데타를 시도해 5000만 국민들을 공포 속에 몰아넣었다. 조만간 윤 대통령에 대해서는 형식적으로만 남아 있는 대통령직을 박탈시키는 조치가 취해질 것"이라고 밝혔다.&lt;br /&gt;&lt;br /&gt;박 판사는 "윤 대통령은 법원을 짓밟으려 했다"라고도 지적했다. 그는 "계엄사령부 포고령에는 위반자를 영장 없이 체포, 구금, 압수수색 할 수 있다는 내용이 나온다"며 "국민의 생명·신체·주거 자유를 지키기 위한 법원의 기본적인 권능을 무시하려 한 것이고, 도저히 용납할 수 없는 사법권 독립에 대한 침해라고 생각한다"고 밝혔다.&lt;br /&gt;&lt;br /&gt;박 판사는 법원 차원의 최소한의 조치로써 대법원장이 강력한 경고를 표명해 줘야 한다고도 강조했다. 박 판사는 "윤 대통령은 한밤중에 국민들을 공포로 몰아넣었고, 법원을 짓밟으려 했다"며 "이런 상황에서 '별 내용 없어 보이는' 의사 표명만 있다면 국민들은 더 이상 법원을 신뢰하지 않을 것"이라고 밝혔다.&lt;br /&gt;&lt;br /&gt;이어 "이런 상황에서는 대법원장이 '어떤 경우에도 법원은 사법권 독립을 수호하고, 국민들의 기본적인 인권을 지키며, 어떤 형태의 헌정질서 파괴 시도에 대해서도 용납하지 않겠다'는 단호한 의지를 법원 안팎에 보여줘야 한다고 생각한다"며 "그래야 평범한 국민들은 '적어도 대한민국 판사들에게는 민주주의를 지키려는 결기가 남아있구나'라고 생각할 것"이라고 설명했다.&lt;br /&gt;&lt;br /&gt;그러면서 "대법원장께서 현 사태에 대한 적절한 조치를 취해 법원 가족들이 국민의 기본적 인권을 보장하는 최후의 보루라는 자부심을 가지고 업무에 전념할 수 있도록 도와주시기를 간절히 부탁드린다"고 덧붙였다.&lt;br /&gt;&lt;br /&gt;박 판사는 지난해 8월 故(고) 노무현 전 대통령에 대한 사자명예훼손 등 혐의로 기소된 정진석 대통령비서실장에게 징역 6개월을 선고했다. 다만 법정구속은 하지 않았다.&lt;br /&gt;&lt;br /&gt;판결 이후 박 판사가 과거 자신의 소셜네트워크서비스에 정치적 성향을 드러내는 글을 올린 사실이 드러나면서 논란이 일었다. 법관으로 재직하면서 지난 대선 당시 이재명 더불어민주당 대표가 낙선하자 자신의 SNS에 아쉬움을 표현하는 글을 올렸다는 것이 알려지기도 했다. 이에 박 판사의 정치 성향이 정 비서실장의 실형 선고 판결에 영향을 미친 것 아니냐는 의혹이 제기됐다.&lt;br /&gt;&lt;br /&gt;대법원 법원행정처는 이와 같은 논란에 대해 "해당 법관이 임용 후 SNS에 게시한 일부 글 중 정치적 견해로 인식될 수 있는 부분에 관해 소속 법원장을 통해 엄중한 주의를 촉구했다"고 밝혔다. 이어 "법관징계법, 법관윤리강령, 대법원 공직자윤리위원회 권고 의견 등의 위반 여부에 대해 사실관계를 확인했고, 대다수가 외부 위원인 법원 감사위원회 심의를 거쳤다"고 설명했다.&lt;/p&gt;</description>
-			<pubDate>Wed, 04 Dec 2024 05:22:15 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/203482</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/203482</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/203482.jpg</media:thumbnail>
-			<dc:creator>한수현 기자</dc:creator>
-		</item>
-		<item>
-			<title>野, '비상계엄' 윤석열 대통령 내란죄 고발 및 탄핵 추진</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;div class="cheditor-caption-wrapper"&gt;      &lt;div class="cheditor-caption-wrapper"&gt;         &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/203481.jpg" alt="203481.jpg" style="width: 600px; height: auto;" /&gt;            &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: left; font-size: 14px; line-height: 1.6em;"&gt;더불어민주당 이재명 대표와 조국혁신당 조국 대표를 비롯한 야당 의원들이 4일 서울 여의도 국회 본청 앞 계단에서 열린 '윤석열 대통령 사퇴촉구 탄핵추진 비상시국대회'에서 구호를 외치고 있다.《연합뉴스》&lt;/figcaption&gt;            &lt;/figure&gt;         &lt;/div&gt;      &lt;p&gt;&amp;nbsp;&amp;nbsp;&lt;/p&gt;      &lt;/div&gt;   &lt;/div&gt;윤석열 대통령이 3일 밤 비상계엄을 선포했다가 6시간 만에 해제한 가운데 야권이 윤 대통령을 비롯해 군·경찰을 동원한 김용현 국방부 장관, 이상민 행정안전부 장관을 탄핵하고 내란죄 등으로 고발하겠다고 밝혔다.&lt;p&gt;&amp;nbsp;   &lt;p&gt;조승래 민주당 수석대변인은 4일 오전 국회 소통관에서 브리핑을 열고 "(국회 진입은) 명백한 내란죄에 해당하기 때문에 윤 대통령과 김용현 장관, 이상민 장관에 대해 탄핵을 추진하고, 내란죄로 고발할 것"이라고 말했다.&lt;/p&gt;   &lt;p&gt;&amp;nbsp;&lt;/p&gt;   &lt;p&gt;이어 "계엄사령관, 경찰청장 등 군과 경찰의 주요 가담자도 내란죄로 고발하겠다"며 "수사기관은 전 국민이 인지하고 있는 내란사건이므로 즉각 수사에 착수해 내란범들을 법의 심판대에 세우기 바란다"고 밝혔다.&lt;/p&gt;   &lt;p&gt;&lt;br /&gt;조국혁신당과 개혁신당도 이날 윤 대통령과 김 장관 등 비상계엄 사태의 책임자를 내란죄 등으로 고발하겠다고 밝혔다.&lt;/p&gt;   &lt;p&gt;&lt;br /&gt;개혁신당은 이날 기자단 공지를 통해 오후 2시 서울중앙지검에 윤 대통령 등을 내란죄 등 혐의로 고발한다고 밝혔다. 조국혁신당도 이날 윤 대통령과 김 장관 등을 경찰청 국가수사본부에 내란죄, 반란죄로 고발한다고 공지했다.&lt;/p&gt;   &lt;p&gt;&amp;nbsp;&lt;/p&gt;   &lt;p&gt;민주당과 조국혁신당, 진보당, 기본소득당, 사회민주당 의원 40여 명이 모인 '윤석열 탄핵 국회의원연대'는 이날 중으로 윤 대통령에 대한 탄핵 소추안을 발의하겠다는 입장을 밝혔다. 국회법 제130조 제2항에 따라 국회는 탄핵안이 본회의에 보고된 때로부터 24시간 이후 72시간 이내에 탄핵 소추 여부를 무기명 투표로 표결해야 한다. 헌법은 대통령에 대한 탄핵 소추와 관련해 '국회 재적의원 과반수의 발의와 국회 재적 의원 3분의 2 이상이 찬성해야 한다'고 규정한다.&lt;/p&gt;   &lt;p&gt;&lt;br /&gt;이날 오전 1시께 국회에서 의결된 계엄 해제 요구 결의안은 '친(親)한동훈계'로 분류되는 국민의힘 의원 18명을 포함해 재석 의원 190명에 190명 찬성으로 가결됐다. 계엄 해제 요구에 찬성한 친한계 의원 18명이 탄핵 찬성 쪽으로 기운다면 윤 대통령의 탄핵안 소추 가결은 어렵지 않을 것이란 전망이 나온다. 탄핵 찬성표가 재적의원 3분의 2인 200명을 초과해 윤 대통령에 대한 탄핵 심판 절차가 진행될 경우 윤 대통령의 직무는 헌재 결정이 나올 때까지 정지된다.&lt;/p&gt;   &lt;p&gt;&lt;br /&gt;한편 4일 간밤 윤 대통령의 비상계엄 선포로 국회 경내에 두 차례에 걸쳐 계엄군 약 280여명이 들어온 것으로 파악됐다. 김민기 국회 사무총장은 이날 국회 브리핑에서 "국회의사당에서 발생한 위헌·위법적인 행위와 이로 인한 물리적 피해·손실에 대해 강력한 항의를 표한다"고 밝혔다. 이어 "오늘부터 국방부 직원과 경찰 등의 국회 청사 출입을 전면 금지한다"며 "국회의원 신변 보호와 국회 기능 확보를 위한 긴급한 조치"라고 강조했다.&lt;/p&gt;   &lt;/p&gt;</description>
-			<pubDate>Wed, 04 Dec 2024 04:50:06 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/203481</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/203481</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/203481.jpg</media:thumbnail>
-			<dc:creator>홍윤지 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
