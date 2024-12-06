@@ -13,6 +13,42 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>[속보] 대검 "비상계엄 사건, 군검찰과 합동수사"</title>
+      <link>https://www.chosun.com/national/court_law/2024/12/06/4ZRHMTBN2NBMLNLYSOAJ53JGTM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/06/4ZRHMTBN2NBMLNLYSOAJ53JGTM/</guid>
+      <dc:creator>이슬비 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 06 Dec 2024 04:37:06 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QRAQHEU7GJPKXGDWQ3S34Z3IHU.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령의 비상계엄 해제 요구 결의안이 국회 본회의에서 통과된 직후인 4일 새벽 서울 서초구 대검찰청 청사에서 검찰 깃발이 바람에 날리고 있다. 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;비상계엄 사건에 특별수사본부를 구성한 검찰이 군검사 등 군검찰 인력을 파견받아 합동으로 수사하기로 했다. 대검찰청은 6일 “특별수사본부에 군검사 등 군검찰 인력을 파견받는 등 협조를 받아 합동해 수사하기로 했다”고 밝혔다.&lt;br&gt;&lt;br&gt;비상계엄에 군 병력이 다수 투입됐고, 사건 관계자 상당수가 현직 고위 군인인 점 등을 고려해 수사의 전문성을 높이려는 조치로 해석된다. 현역 군인에 조사는 군 검찰 소관이다.&lt;br&gt;&lt;br&gt;앞서 대검은 이날 박세현 서울고검장을 본부장으로 하는 특별수사본부를 구성했다. 특수본 차장검사로는 김종우 서울남부지검 2차장이, 그 아래 서울중앙지검 이찬규 공공수사1부장과 최순호 형사3부장이 배치됐다.&lt;br&gt;&lt;br&gt;심우정 검찰총장은 지난 5일 윤석열 대통령에 대한 직권남용과 내란죄 혐의 사건을 직접 수사하라고 지시했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“이상민, 김용현과 30초 통화...‘대통령실로 들어오라’는 내용이 전부”</title>
+      <link>https://www.chosun.com/national/national_general/2024/12/06/EKE3EWSL2RBFBKUDZETKACP4AM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/06/EKE3EWSL2RBFBKUDZETKACP4AM/</guid>
+      <dc:creator>최연진 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 06 Dec 2024 04:51:19 +0000</pubDate>
+      <content:encoded>지난 3일 비상 계엄 선포 4시간 반 전, 김용현 전 국방부 장관이 이상민 행정안전부 장관과 통화한 것과 관련해 행안부는 “용산 대통령실로 들어오라는 내용이 전부였다”고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RLKMIMUJFVN3DLQJVDXVZEN5NQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이상민 행정안전부 장관이 12월 5일 오전 서울 여의도 국회에서 열린 비상계엄 관련 행정안전위원회 전체회의에서 계엄 상황에 대한 사과를 하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;행안부는 이날 기자단 공지 메시지에서 “이상민 장관은 3일 오후 6시쯤 기차 안에서 김 전 국방장관의 전화를 30초 가량 수신했다”며 “내용은 용산 대통령실로 들어오라는 것이 전부였다”고 했다.&lt;br&gt;&lt;br&gt;행안부는 “이상민 장관이 계엄에 대해 알게 된 것은 대통령실에 도착한 이후”라고 했다. 통화 당시엔 비상계엄 선포에 대해 언급이 없었기 때문에 이 장관도 알지 못했다는 취지다.&lt;br&gt;&lt;br&gt;이 장관은 윤석열 대통령의 충암고 4년 후배고, 김 전 장관은 윤 대통령 1년 선배다. 야권에선 이번 비상계엄을 ‘충암고 라인’이 주도했다고 주장하고 있다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>국민의힘 시‧도지사協, 계엄 사태 관련 서울서 ‘긴급 회동’</title>
+      <link>https://www.chosun.com/national/national_general/2024/12/06/DZ56QLZC55ET3FQFKL4IWXG6LY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/06/DZ56QLZC55ET3FQFKL4IWXG6LY/</guid>
+      <dc:creator>인천=이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 06 Dec 2024 04:01:35 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/25UVYTEODVLB7IVVTTVUPDRVHM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령이 4일 새벽 용산 대통령실에서 비상계엄 선포 해제를 발표하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국민의힘 시‧도지사협의회가 6일 계엄 사태와 관련한 긴급 회동을 갖는다.&lt;br&gt;&lt;br&gt;국민의힘 시‧도지사협의회는 이날 오후 5시 서울 프레스센터에서 회동을 갖고 정국 수습 방안을 논의할 예정이다.&lt;br&gt;&lt;br&gt;국민의힘 시‧도지사협의회는 유정복 인천시장이 회장을 맡고 있으며, 오세훈 서울시장, 박형준 부산시장, 홍준표 대구시장 등 시‧도지사 12명이 참여하고 있다. 이날 회동에는 국민의힘 소속 시‧도지사 대부분이 참석할 것으로 알려졌다.&lt;br&gt;&lt;br&gt;협의회 사정을 잘 아는 한 관계자는 “혼란한 정국을 어떻게 수습해야 할지 논의하는 자리가 될 것으로 알고 있다”고 말했다.&lt;br&gt;&lt;br&gt;국민의힘 시‧도지사협의회는 지난 4일 이번 비상계엄 사태와 관련해 유감 입장을 밝히고, 윤석열 대통령의 사과를 요구했다. 협의회는 당시 “윤 대통령이 이번 비상계엄 선포에 대해 국민들께 사과하고, 향후 국정 안정과 쇄신을 위한 조치에 대해서도 분명한 입장을 표명해야 한다”고 촉구했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘박사방 추적’ 디지털 장의사, 음란물 유포 방조로 2심도 집유</title>
+      <link>https://www.chosun.com/national/incident/2024/12/06/J5JPITTYPVDGXPSXQHOHM62K3Q/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/12/06/J5JPITTYPVDGXPSXQHOHM62K3Q/</guid>
+      <dc:creator>인천=김현수 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 06 Dec 2024 03:55:56 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TT3QGRK7ODQ3HAKW7M6OYTJZ6A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;'박사방' 운영자 조주빈. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;4년 전 이른바 ‘박사방’ 사건의 운영자인 조주빈(28)을 추적해 주목받은 인터넷 기록 삭제 업체 대표가 음란물 유포 방조 혐의로 항소심에서도 유죄를 선고받았다.&lt;br&gt;&lt;br&gt;인천지법 형사항소4부(재판장 김윤종)는 6일 항소심 선고 공판에서 정보통신망 이용촉진 및 정보보호 등에 관한 법률상 음란물 유포 방조 등 혐의로 기소된 인터넷 기록 삭제 업체 대표 A(43)씨에게 1심과 같은 징역 6개월에 집행유예 2년을 선고했다고 밝혔다.&lt;br&gt;&lt;br&gt;항소심 재판부는 “피고인은 음란물 사이트 운영자에게 광고비를 주고 독점적으로 음란물을 삭제할 권한을 가졌다”며 “이에 따라 다른 사람의 요청으로는 음란물이 삭제되지 않았고 결과적으로 음란물 유포를 촉진했다”고 판단했다.&lt;br&gt;&lt;br&gt;이어 “피고인은 과거에 벌금형을 넘는 범죄를 저지른 전력이 없다”면서도 “죄책이 무거운데도 책임을 회피하려는 태도를 보인 점 등을 고려하면 원심의 형이 너무 무겁거나 가볍다고 보기 어렵다”고 덧붙였다.&lt;br&gt;&lt;br&gt;A씨는 2018년 3∼6월 당시 회원 수 85만명을 보유한 국내 최대 음란사이트인 ‘○○티비’가 음란물이나 불법 촬영물을 유통하는 사실을 알고도 방조한 혐의 등으로 불구속 기소됐다.&lt;br&gt;&lt;br&gt;A씨는 인터넷에 떠도는 성범죄 피해 영상이나 다른 게시물 등을 대신 삭제해 주는 이른바 ‘디지털 장의업체’를 운영하며 ‘디지털 장의사’로 불렸다. 그는 2020년 미성년자 등의 성 착취물을 제작·유포한 텔레그램 ‘박사방’ 사건이 불거진 뒤 피해자의 의뢰를 받고 조씨를 추적해 많은 언론의 주목을 받았다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>한양대 교수·연구자 모임, 윤석열 대통령 탄핵 촉구 2차 시국선언</title>
       <link>https://www.chosun.com/national/national_general/2024/12/06/QUJGNVWW2VHNLNQKM4F46EZIVY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/06/QUJGNVWW2VHNLNQKM4F46EZIVY/</guid>
@@ -729,33 +765,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/URGA5MLXOX3ZERLML64I4PH4IQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울대학교./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 대통령의 모교 서울대학교 법학전문대학원(로스쿨) 학생들이 비상계엄 선포를 비판하는 내용의 입장문을 냈다. 이들은 “같은 강의실에서 헌법을 배운 선배가 벌인 참극에 죄책감을 느낀다”고 했다.&lt;br&gt;&lt;br&gt;5일 서울대학교 로스쿨 재학생 일동은 입장문을 내고 “45년의 시간을 되돌린 권력의 폭거 앞에 민주주의의 위기를 목도한다”며 “대통령 윤석열은 헌법을 유린한 계엄이 합헌이라 우기며 아직까지도 후안무치한 태도로 일관하고 있다”고 밝혔다. 이들은 윤 대통령의 비상계엄을 정권의 친위 쿠데타로 보고 “입법부를 무력으로 압박하고 국민의 기본권을 침해하는 계엄은 곧 내란이며, 그 수괴가 바로 대통령 윤석열”이라고 했다.&lt;br&gt;&lt;br&gt;이어 “대통령 자리에서 퇴진하고 국민 앞에서 사죄할 것을 요구한다”며 “비상계엄을 가벼운 정치적 수단으로 휘두르는 자가 대통령으로 있는 것이 민주주의의 비상”이라고 비판했다. 그러면서 “우리와 같은 강의실에서 같은 헌법을 배운 선배 윤석열이 벌인 참극에 후배로서 부끄러움과 죄책감을 통감한다”고 했다. 윤 대통령이 1983년 졸업한 서울대 법학과는 서울대 로스쿨의 전신이다.&lt;br&gt;&lt;br&gt;한편 이날 서울대 교수·연구진 50명도 윤석열 대통령의 비상계엄 선포를 규탄하는 내용의 시국선언문을 발표했다. 김건희 여사를 둘러싼 의혹 등을 근거로 윤 대통령의 퇴진을 요구하는 1차 시국선언문을 낸 지 일주일 만이다.&lt;br&gt;&lt;br&gt;교수진은 “대통령이 망상적 권력 남용으로 북풍 위기를 초래하거나 제2, 제3의 계엄을 획책하여 국가와 국민 모두를 또다시 위험에 빠뜨리지 않을지 심각하게 우려한다“며 ”위헌적이고 불법적인 비상 계엄을 선포한 죄, 군대를 동원하여 국회를 침탈하고 국헌을 문란하게 한 죄를 물어 당장 윤석열을 체포하라”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>뮤지컬 배우 차강석 “간첩 많아 계엄 환영” 글 논란 일자 사과</title>
-      <link>https://www.chosun.com/national/national_general/2024/12/05/66OSVTWLPNDVLBPUH3UAWPI4T4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/05/66OSVTWLPNDVLBPUH3UAWPI4T4/</guid>
-      <dc:creator>김명일 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 05 Dec 2024 05:39:08 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2ECMV23RDBFNJNSE5V6SSC3HZE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;뮤지컬 배우 차강석. /소셜미디어&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;뮤지컬 배우 차강석(34)이 소셜미디어를 통해 윤석열 대통령의 비상계엄 선포를 환영한다는 내용의 글을 썼다가 논란이 일자 5일 사과했다.&lt;br&gt;&lt;br&gt;차강석은 전날 소셜미디어를 통해 “간첩들이 너무 많아 계엄 환영한다. 간첩들 다 잡아서 사형해달라”는 글을 올렸다.&lt;br&gt;&lt;br&gt;이후 한 네티즌이 DM(다이렉트 메시지)을 통해 자신의 글을 비판한 사진을 공유하며 “우리나라는 자유 민주주의 국가다. 사상 또한 자유다. 당당하고 떳떳하다”고 하기도 했다.&lt;br&gt;&lt;br&gt;차강석은 논란이 일자 이날 사과문을 통해 “최근 간첩 이슈로 예민해져 있던 차에 반국가 세력 척결에 대한 기대심에 가득 차 스토리에 올리게 됐다”며 “저급하고 과격한 표현을 사용한 부분은 매우 죄송하게 생각한다”고 했다.&lt;br&gt;&lt;br&gt;차강석은 “편협한 사고와 자신들의 이득만을 추구하며 편가르기에만 치중되어 있고 서로가 서로를 혐오하게 만드는 요즘 시국과 국정 운영에 대해 매우 안타깝게 생각한다”며 “근데 그 중심에 간첩들이 개입된 정황이 나오게 되면서 더 예민해졌던 것 같다”고 주장했다.&lt;br&gt;&lt;br&gt;차강석은 “저는 자랑스러운 우리나라를 사랑한다. 따끔한 충고와 조언 감사히 듣고 자중하며 살겠다”며 “저는 국익에 해가 되는 간첩을 싫어하는 거지 윤석열 대통령을 옹호하는 것도 아니며 여러분을 혐오하는 것이 아니다”라고 했다.&lt;br&gt;&lt;br&gt;한편 차강석은 그동안 뮤지컬 ‘죽여주는 이야기’ ‘사랑을 이루어 드립니다’ ‘로미오와 줄리엣’ 등에 출연했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>인천 남동국가산단 제조공장서 화재... 2명 화상</title>
-      <link>https://www.chosun.com/national/incident/2024/12/05/VYXK5FGQEBGQHFQIORW6ALCBSY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/12/05/VYXK5FGQEBGQHFQIORW6ALCBSY/</guid>
-      <dc:creator>인천=이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 05 Dec 2024 05:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MHVNB2B2WJHGXODIDACQLHGZVI.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;119 소방 로고&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천 남동국가산단 내 한 제조공장에서 불이나 2명이 다쳤다.&lt;br&gt;&lt;br&gt;5일 인천소방본부에 따르면 이날 오전 7시 39분쯤 인천 남동구 고잔동 남동국가산단 내 한 제조공장에서 화재가 발생했다.&lt;br&gt;&lt;br&gt;이 불로 공장에서 일하던 A(24)씨와 B(24)씨가 얼굴 부위에 1도 화상을 입어 병원으로 옮겨져 치료를 받고 있다. 다행히 생명에는 지장이 없는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;“공장에서 불이 났다”는 신고를 받고 출동한 소방 당국은 소방관 등 인력 82명과 펌프차 등 장비 28대를 투입해 43분 만인 오전 8시 22분쯤 불을 껐다.&lt;br&gt;&lt;br&gt;소방 당국은 공장 내 장비에 제품을 만들기 위한 원료를 투입하는 과정에서 불이 난 것으로 보고 정확한 화재 원인을 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>이상민 “계엄 선포 전 충암고끼리 모인 적 없어”</title>
-      <link>https://www.chosun.com/national/national_general/2024/12/05/K5TKSDOEEVBBRPTKYIY2T53MJM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/05/K5TKSDOEEVBBRPTKYIY2T53MJM/</guid>
-      <dc:creator>최연진 기자, 주형식 기자, 구아모 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 05 Dec 2024 05:13:06 +0000</pubDate>
-      <content:encoded>이상민 행정안전부 장관은 5일 윤석열 대통령의 비상계엄 선포와 관련한 국회 긴급 현안질의에서 ‘충암고 출신들이 계엄을 주도한 것 아니냐’는 의혹에 대해 “충암고끼리 모인 적이 없다”고 했다.&lt;br&gt;&lt;br&gt;이 장관은 이날 국회 행정안전위 긴급 현안질의에 출석해 “국민들은 ‘충암고의 3시간 천하’라고 이야기한다”는 박정현 더불어민주당 의원의 말에 이같이 답했다.&lt;br&gt;&lt;br&gt;이 장관은 윤 대통령의 충암고 후배다. 비상계엄 선포를 건의한 김용현 국방부 장관도 윤 대통령의 충암고 1년 선배다. &lt;br&gt;&lt;br&gt;이 장관이 “모인 적 없다”고 하자 박 의원은 “왜 모인 적이 없느냐. 올해 초 국군 방첩사령부를 방문해 충암고 출신 3명과 만찬 자리를 가지지 않았느냐”고 했다. 이에 이 장관은 “충암고 출신은 당시 2명 있었다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2VBW252VQZMXPCGYT4LHIM5RYM.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;이상민 행정안전부 장관이 5일 오전 서울 여의도 국회에서 열린 비상계엄 관련 행정안전위원회 전체회의에서 계엄 당시 상황에 대한 업무보고를 하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이 장관은 비상계엄 선포 직전 열린 국무회의와 관련해 “모든 국무위원이 다 우려했고, 저도 여러 번 우려를 표명했다”고 했다.&lt;br&gt;&lt;br&gt;그는 ‘국방부 장관을 제외하고 모두 우려를 표명한 것이냐’는 질문에 “(계엄 선포를) 건의하신 분이지만, 국방부 장관도 왜 우려가 없었겠느냐”고 했다.&lt;br&gt;&lt;br&gt;이 장관은 ‘내란죄에 해당하는 것 아니냐’는 질문에는 “그렇지 않다. 대통령은 헌법에 규정된 권한을 행사한 것”이라며 “비상계엄은 고도의 통치행위로 인식되고 있다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>올해 수능 만점자 11명... 국·수·영 작년보다 쉬웠고, 사탐은 어려웠다</title>
       <link>https://www.chosun.com/national/education/2024/12/05/PYCVWOHMS5BZBJLZL2D4RXJ2UY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/education/2024/12/05/PYCVWOHMS5BZBJLZL2D4RXJ2UY/</guid>
@@ -812,15 +821,6 @@
       <description/>
       <pubDate>Thu, 05 Dec 2024 02:17:18 +0000</pubDate>
       <content:encoded>‘공천 거래’ 혐의로 구속된 정치 브로커 명태균씨가 지난 2022년 지방선거 당시 출마를 결심한 예비 후보들을 국민의힘 싱크탱크인 여의도연구원 자문위원으로 임명되도록 돕고, 그 대가로 금품을 받아 챙긴 것으로 5일 확인됐다. 함께 구속된 김영선 전 의원은 윤석열 대선 경선 캠프의 일원으로 예비 후보들을 합류시키는 등 금품을 수수하는 데 관여한 것으로 조사됐다. 검찰은 이러한 ‘공천 장사’ 정황을 공소장에 적시했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EKYYHYUHTVJHVG4VW2DUGU6FEI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;정치 브로커 명태균씨와 김영선 전 의원이 지난 3일 정치자금법 위반 혐의로 재판에 넘겨졌다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;본지가 입수한 명씨와 김 전 의원 등의 8쪽 분량 공소장에 따르면, 명씨와 김 전 의원, 여론조사 업체 미래한국연구소장 김모씨, 고령군수 예비 후보 배모씨, 대구시의원 예비 후보 김모씨는 2021년 5월 30일 배씨의 사무실에서 처음 만났다. 이때 배씨와 이씨는 ‘2022년 지방선거에 출마할 생각’이라고 명씨와 김 전 의원에게 말했다. 그러자 명씨는 유력 정치인과의 친분을 과시하면서 공천에 도움을 줄 수 있는 것처럼 말했다는 것이다.&lt;br&gt;&lt;br&gt;명씨는 그해 6월 초 배씨와 이씨를 국민의힘 싱크탱크인 여의도연구원의 자문위원으로 임명되도록 도운 것으로 조사됐다. 그해 8월엔 배씨와 이씨를 만나 “시골 군수나 시의원 그거 뭐라고, 발로 차도 공천이 된다. 오히려 당선되려면 선거운동도 하지 말고 나한테 맡겨놓고 가만히 있으면 당선된다”고 말했다고 한다. 이때 명씨는 두 후보에게 공천 대가를 요구하고, 김 전 의원과 김씨도 명씨의 말에 동조한 것으로 조사됐다. 이씨는 “서로 잘 되어야죠”라며 화답했고, 배씨와 이씨는 현금 3000만원씩을 준비해 명씨에게 전달했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QJ4YATPP3VJGRI4FSRHRRNRZMY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;정치 브로커 명태균씨가 지방선거 예비 후보들로부터 공천 지원 대가로 2억4000만원을 수수하는 데 관여한 혐의로 기소된 미래한국연구소장 김모씨. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이어 김 전 의원은 2021년 10월 윤석열 대선 경선 캠프 산하 국민민생안전특별본부의 대구본부장으로 이씨를, 경북본부장으로 배씨를 선임했다. 김 전 의원은 당시 민생안전특별본부장을 맡고 있었는데, 자신의 정치적 영향력을 행사한 것이다. 이 대가로 배씨와 이씨는 2021년 8월부터 2022년 3월까지 1억2000만원씩 불법 정치자금을 제공했다는 것이 검찰 조사 결과다. 다만 배씨와 이씨는 공천을 받지 못했다.&lt;br&gt;&lt;br&gt;이 밖에도 명씨는 2022년 국회의원 보궐선거 당시 김 전 의원이 국민의힘 창원의창구 전략공천을 받도록 돕고 그 대가로 8070만6000원을 김 전 의원으로부터 받은 것으로 조사됐다. 김 전 의원은 명씨가 자신의 공천에 주요한 영향을 미쳤다고 판단하고, 지난 4월 22대 총선 때도 자신이 명씨의 도움을 받아 공천 받고 당선될 것으로 기대해 세비의 절반을 지급했다고 검찰은 보고 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IYHS4YVGHRMTDBZHSYYY7GIOP4.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;2022년 지방선거 당시 경북 고령군수 예비후보 배모씨가 지난달 14일 창원지법에서 열린 영장실질심사에 출석하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;명씨는 검찰 수사가 본격화하자 지난 9월 24일 자신의 휴대전화 3대와 로봇 모양 USB 1개를 처남 이모씨에게 숨기라고 지시한 혐의(증거은닉교사)도 받는다. 다만 검찰은 이씨가 휴대전화 등을 숨긴 방법과 장소를 공소장에 적시하진 못했다.&lt;br&gt;&lt;br&gt;창원지검 전담수사팀(팀장 이지형 차장검사)은 지난 3일 명씨와 김 전 의원, 김씨, 배씨, 이씨 5명을 정치자금법 위반 등 혐의로 기소했다. 검찰은 이날 오전 10시 명씨를 소환해 여론조사 조작 의혹을 조사하고 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/I62ZAI6MWFOKNBCB7J4IRZZ2I4.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;2022년 지방선거 당시 대구시의원 예비후보 이모씨가 지난달 14일 창원지법에서 열린 영장실질심사에 출석하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>조규홍 복지장관 “尹 계엄선포 동의 안 해…너무 놀랐다”</title>
-      <link>https://www.chosun.com/national/welfare-medical/2024/12/05/KOPD3DPOCNFXHMNN25JPMO2PDI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/12/05/KOPD3DPOCNFXHMNN25JPMO2PDI/</guid>
-      <dc:creator>오경묵 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 05 Dec 2024 01:22:31 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GCUJRKV2CNPEDIFSH4UCDZC3NY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;조규홍 보건복지부 장관이 5일 국회에서 열린 보건복지위원회 전체회의에서 의원 질의에 답하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;조규홍 보건복지부 장관은 윤석열 대통령의 비상계엄 선포와 관련해 “동의하지 않았다”고 5일 밝혔다.&lt;br&gt;&lt;br&gt;조 장관은 이날 국회에서 열린 보건복지위원회 전체 회의에 참석해 윤 대통령의 계엄 선포에 동의했느냐는 김선민 조국혁신당 의원의 질의에 이같이 답했다. 김 의원이 “계엄이 위법이고 위헌이라는 데 동의하냐”고 묻자, 조 장관은 “동의한다”고 답했다.&lt;br&gt;&lt;br&gt;조 장관은 국무회의 참석 시간과 관련해 “(3일 밤) 10시 17분에 참석했다가 10시 45분 회의실에서 나왔다”고 했다. 국무회의 내용에 대해서는 “밤 9시부터 시작한 것으로 보이는데 늦게 도착해 그 전에 논의한 내용은 모른다”고 했다.&lt;br&gt;&lt;br&gt;회의 당시 ‘몸을 던져 (계엄령을) 막은 장관들이 있었느냐’는 질문에는 “너무 놀랐고 경황이 없었다. 어떤 분이 어떤 말씀을 했는지 솔직히 기억이 나지 않는다”고 했다. &lt;br&gt;&lt;br&gt;다만 조 장관은 비상 계엄의 위헌 여부에 대해서는 한 발 물러서는 모습을 보이기도 했다. 조 장관은 회의 도중 발언 기회를 얻어 “아까 계엄이 위헌인지에 대한 질문에 제가 답변한 것이 보도가 되고 있다”며 “계엄령 선포에는 동의하지 않았지만 위헌인가에 대한 질문에 정확히 말씀드리면, 위헌 여부는 제가 판단할 사항이 아니라고 말씀드린다“고 했다. 그러면서 ”제가 상황 전반에 대해 잘 몰랐기 때문에 지금 이 자리에서 그것이 위헌이다 위법이다에 대한 판단을 하긴 좀 어렵다”고 덧붙였다.&lt;br&gt;&lt;br&gt;박희승 더불어민주당 의원이 “장관도 법을 공부했는데 책임 회피성으로 답변할 것은 아니다”라고 지적하자, 조 장관은 “책임 회피가 아니고 국무위원의 말 한마디 한마디가 중요하지 않느냐”며 “법률적 판단은 제가 하지 않는 게 맞는 것 같다”고 했다.&lt;br&gt;&lt;br&gt;‘전공의 미복귀시 처단’ 내용이 담긴 계엄사령부의 포고령에 대해 조 장관은 “전혀 동의할 수 없다”고 했다. 그는 “대화와 설득, 착실한 의료개혁을 통해 복귀를 유도한다는 정부 방침에 배치되고, 표현이 매우 거칠고 과격했다“며 ”(포고령) 6개 항목 중 유일하게 특정 직역에 대한 내용이었기 때문에 동의할 수 없다“고 했다. 그러면서 ”9000명이 넘는 전공의가 이미 사직한 것도 고려가 안 됐고, 9000명 중 50%의 의사가 의료현장에서 봉사하고 있다는 사실도 고려가 안 된 포고령이어서 놀랐고 동의할 수 없었다”고 했다.&lt;br&gt;&lt;br&gt;조 장관은 계엄 선포 이후 복지부 차관·1급 회의를 열어 ‘이탈 전공의 처단’ 등의 내용이 담긴 포고령 조항에 대해 논의했다고 밝혔다. 그는 “전공의 처단은 동의할 수 없는 거라고 생각했고, 전공의 복귀를 위해 우리가 어떤 노력을 해야할지 논의했다”고 말했다.&lt;br&gt;&lt;br&gt;조 장관은 4일 새벽 계엄 해제 국무회의에는 불참했다. 이와 관련해 조 장관은 “새벽 2시쯤 문자가 왔는데 새벽 4시쯤 알았다”며 “전화로 온 게 아니라 문자로 왔다. 문자를 인지하지 못했고, 참석했다면 해지 동의를 당연히 했을 것”이라고 했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>‘미복귀 전공의 처단’ 선포에… 사실상 멈춰버린 의료 개혁</title>
