@@ -13,6 +13,179 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>한양대 교수·연구자 모임, 윤석열 대통령 탄핵 촉구 2차 시국선언</title>
+      <link>https://www.chosun.com/national/national_general/2024/12/06/QUJGNVWW2VHNLNQKM4F46EZIVY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/06/QUJGNVWW2VHNLNQKM4F46EZIVY/</guid>
+      <dc:creator>김병권 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 06 Dec 2024 03:03:11 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6MURIBBD65FOPAFKWBB2LLDCPQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한양대 본관 전경/조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한양대 교수와 연구자 모임이 지난 3일 밤 비상계엄을 선포한 윤석열 대통령에 대한 탄핵을 촉구하는 2차 시국선언을 발표했다.&lt;br&gt;&lt;br&gt;‘헌법질서와 나라를 걱정하는 한양대 교수·연구자 모임’ 6일 보도자료를 내고 “12·3 비상계엄은 명백한 위헌”이며 “국회는 전원 윤석열 대통령 탄핵에 동의하라”고 촉구했다.&lt;br&gt;&lt;br&gt;이어 “대한민국 민주주의는 독재와 탄압의 시대로 돌아갈 수 없다”라며 “검찰과 경찰은 위헌적 비상계엄을 선포하여 국헌문란과 폭동을 야기한 윤석열 대통령과 김용현 국방부장관을 비롯한 이번 사태의 책임자들에 대하여 지체없이 수사하고 즉각 형사소추하라”고도 주장했다.&lt;br&gt;&lt;br&gt;한편, ‘나라와 위기를 걱정하는 한양대 교수 일동’ 51명은 지난달 5일에도 “윤석열 정권을 맞아 대한민국은 정치와 민주주의, 경제, 사회문화, 외교와 안보, 노동, 국민의 보건과 복지 등 모든 분야에서 반동과 퇴행이 자행됐다”라는 내용의 1차 시국선언문을 낸 바 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/6MURIBBD65FOPAFKWBB2LLDCPQ.jpg?width=1000&amp;height=550&amp;auth=cd56e3d080f9078e1a75611e8a5415baa4941de7aeac38674e3a6a2b38686ef0&amp;smart=true" type="image/jpeg" height="550" width="1000">
+        <media:description type="plain">한양대는 국제화 전략뿐 아니라 연구와 교육 역량의 상호 연계로 시너지를 창출하고 있다. 사진은 한양대 본관 전경.</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>법원행정처장 “대법원 간부회의서 계엄 선포에 상당한 의문 제기”</title>
+      <link>https://www.chosun.com/national/court_law/2024/12/06/WGLYTHQZWVF7TOUDEITN6G5NFM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/06/WGLYTHQZWVF7TOUDEITN6G5NFM/</guid>
+      <dc:creator>이슬비 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 06 Dec 2024 02:45:18 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MMNIAWE7CRKTBBX5KUIFNN6MQU.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;천대엽 법원행정처장이 지난 10월 7일 오전 서울 여의도 국회 법제사법위원회에서 열린 대법원(법원행정처)·사법연수원 등에 대한 국정감사에서 의원 질의에 답하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;천대엽 법원행정처장(대법관)은 6일 윤석열 대통령이 비상계엄을 선포한 직후에 열린 대법원 간부회의에서 계엄 선포 요건이 충족됐는지 등에 대해 상당한 의문이 제기됐다고 밝혔다.&lt;br&gt;&lt;br&gt;천 처장은 이날 국회 법제사법위원회 전체 회의에서 “대법원 간부 회의에서 계엄령이 위법하다는 걸 직시했느냐”는 더불어민주당 장경태 의원 질의에 “헌법이나 계엄법, 포고령, 담화문, 그리고 판례에 비춰봤을 때 거기에 적혀 있는 내용 중에 저희가 상당한 의문을 가진 점들이 있었다”고 답했다.&lt;br&gt;&lt;br&gt;대법원은 지난 3일 윤 대통령이 계엄을 선포하자 조희대 대법원장의 지시로 법원행정처 간부들을 소집해 심야 회의에 돌입했다. 공관에서 상황을 보고받은 조 대법원장도 청사로 출근해 회의를 주재했다.&lt;br&gt;&lt;br&gt;천 처장은 ‘당시 회의에서 계엄령의 위법성을 인지했는지’에 대해 “앞으로 재판 사항이 될 수 있기 때문에 그에 대한 판단을 말씀드릴 수 없지만 적어도 그 자리에서 논의됐던 부분은 말씀드리겠다”면서 “헌법이나 계엄법, 포고령, 담화문, 그리고 판례에 비춰봤을 때 거기에 적혀 있는 내용 중에 저희가 상당한 의문을 가진 점들이 있었다”고 했다.&lt;br&gt;&lt;br&gt;이어 “첫째로 사회 질서의 극도 교란으로 사법기능 수행이 현저히 곤란한 경우라고 과연 볼 수 있는지, 담화문에서 계엄 사유로 밝힌 것처럼 판사 겁박으로 사법 시스템이 마비됐다고 볼 수 있는지, 또 입법 독재로 인해 사법 시스템이 마비된 상태라 볼 수 있는지, 그 때문에 사법부 권능과 정상적인 작동을 정지·제한하는 비상조치를 받아들여야 하는 상황인지, 또한 경찰력이 아닌 군 병력으로 해소할 수 있는 비상사태인지, 그리고 국회 기능까지 제한한 것이 명문의 헌법 규정에 반하는 것이 아닌지 이런 부분에 대해 상당한 의문을 제기하는 의견이 많았다”고 했다.&lt;br&gt;&lt;br&gt;천 차장은 “계엄사가 국회를 침탈한 상황은 내란죄가 성립하는 범죄 아니냐”는 민주당 전현희 의원 질의에도 “그 부분이 저희가 상당한 의문을 가진 점 중의 하나”라고 답했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>일면식 없는 40대 살해·시신 유기 ‘김명현’ 신상 공개</title>
+      <link>https://www.chosun.com/national/regional/2024/12/06/42USVW5UKRD2DG4MPX77YOF72E/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/12/06/42USVW5UKRD2DG4MPX77YOF72E/</guid>
+      <dc:creator>우정식 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 06 Dec 2024 02:29:25 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G5QGPS7LDVCVTGWNU7EA6SQU2U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;신상이 공개된 살인범 김명현. /대전지검 서산지청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난달 일면식도 없는 남성을 흉기로 살해한 뒤 현금 12만원을 훔쳐 달아난 김명현(43)의 신상정보가 공개됐다.&lt;br&gt;&lt;br&gt;6일 대전지검 서산지청에 따르면 김명현의 이름과 나이, 얼굴 사진이 전날 서산지청 홈페이지에 게시됐다. 공개 기간은 다음 달 3일까지다.&lt;br&gt;&lt;br&gt;검찰은 지난달 28일 신상정보 공개심의위원회를 열고, 범행의 잔인성과 피해의 중대성, 공공의 이익, 피해자 유족의 신상정보 공개 요청 등을 종합적으로 고려해 신상정보 공개를 결정했다.&lt;br&gt;&lt;br&gt;김명현은 지난달 8일 오후 9시 40분쯤 충남 서산시 동문동의 한 식당 주차장 근처에 있던 승용차 뒷좌석에 침입, 대리운전기사를 기다리던 40대 남성을 흉기로 살해하고 12만원을 훔친 혐의를 받고 있다. 그는 범행 후 그대로 차를 타고 도주한 뒤 피해자 시신을 유기하고 차에 불을 지른 혐의도 받고 있다.&lt;br&gt;&lt;br&gt;김명현은 경찰 조사에서 “억대의 도박 빚 등 부채가 많아 생활고를 겪다가 범행을 했다”고 진술한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰 조사 결과, 김명현은 범행 전 미리 흉기를 준비하고 고가 승용차 운전자 등을 대상으로 범행 대상을 물색했던 것으로 드러났다. 또 범행 직후 훔친 돈으로 식사하고 6만원가량의 복권을 구매한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/LAFBLVAMPNELNCP5S45P3RHEI4.jpg?width=303&amp;height=227&amp;auth=9c037922c2c3d49d9ea840c458cdf487cb61b62e41ebb25d4edaafd0e1ea9b61&amp;smart=true" type="image/jpeg" height="227" width="303">
+        <media:description type="plain">신상이 공개된 살인범 김명현. /대전지검 서산지청</media:description>
+        <media:credit role="author" scheme="urn:ebu"/>
+      </media:content>
+    </item>
+    <item>
+      <title>文 헌재소장 권한대행 “비상계엄 헌법소원, 주심 재판관 지정”</title>
+      <link>https://www.chosun.com/national/court_law/2024/12/06/7BW727IU6VGGFGWVHMI6JQTFJ4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/06/7BW727IU6VGGFGWVHMI6JQTFJ4/</guid>
+      <dc:creator>방극렬 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 06 Dec 2024 02:35:48 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OW7HZOCEGFPYFGCBZBMPFQDLJ4.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;문형배 헌법재판소장 권한대행이 지난 5일 서울 종로구 헌법재판소로 출근하며 취재진의 질문에 답하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;문형배 헌법재판소장 권한대행이 6일 윤석열 대통령의 비상계엄이 위헌인지 가릴 헌법소원 사건을 심리할 주심 재판관을 지정했다고 밝혔다. 최재해 감사원장과 이창수 서울중앙지검장 등이 탄핵 소추된 사건에 대한 주심 재판관도 지정됐다고 했다.&lt;br&gt;&lt;br&gt;문 권한대행은 이날 헌법재판소 출근길에 기자들과 만나 이같이 말했다. 문 권한대행은 “비상계엄의 위헌성 논란에 대해 검토했느냐”는 취지의 질문에 “(계엄 관련) 헌법소원 사건이 접수됐기 때문에 주심 재판관을 지정했고 검토에 착수했다”고 답했다. 지난 4일 민주사회를위한변호사모임(민변)이 윤 대통령의 비상계엄 선포 행위에 대해 청구한 헌법소원 사건 심리가 본격화됐다는 의미다.&lt;br&gt;&lt;br&gt;문 권한대행은 전날 국회에서 가결된 최 감사원장과 서울중앙지검의 이 지검장, 조상원 4차장, 최재훈 반부패수사2부장에 대한 탄핵 심판 사건도 심리에 착수했다고 밝혔다. 문 권한대행은 “(탄핵 심판의) 주심 재판관이 지정됐고, 변론 준비 절차에 회부해 수명(受命) 재판관 2명을 지정할 생각”이라고 했다.&lt;br&gt;&lt;br&gt;취재진이 “헌재 역할이 무거워졌다는 이야기도 나온다. 이런 상황에 대해 어떻게 생각하느냐”고 묻자, 문 권한대행은 “정국이 혼란스러울수록 헌법이 작동돼야 되고, 헌법이 작동되는 것은 헌법재판소가 기능을 하는 것과 맥락을 같이 한다”고 답변했다.&lt;br&gt;&lt;br&gt;문 권한대행은 지난 4일에도 윤 대통령의 비상계엄 선포와 관련해 “헌재는 비상 상황에 신중하게, 그러나 민첩하게 대응하겠다”고 밝힌 바 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>검찰, ‘윤석열 내란 혐의’ 특별수사본부 구성...본부장에 박세현 서울고검장</title>
+      <link>https://www.chosun.com/national/court_law/2024/12/06/R6BTZEODMVDMPC7JNKSE67QIZM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/06/R6BTZEODMVDMPC7JNKSE67QIZM/</guid>
+      <dc:creator>이슬비 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 06 Dec 2024 01:44:26 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HTGQTK6S4NORBGCZNALURJ2LRQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;박세현 서울고검장이 지난 10월 18일 오전 서울 여의도 국회에서 열린 법제사법위원회의 국정감사에서 의원 질문에 답변하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰이 6일 ‘비상계엄’ 사태를 수사하기 위해 특별수사본부를 구성했다. 본부장은 박세현 서울고검장이 맡는다. 대검찰청은 “특별수사본부를 구성해 비상계엄 관련 사건에 대해 엄정하게 수사할 것”이라고 밝혔다.&lt;br&gt;&lt;br&gt;특수본에는 김종우(33기) 서울남부지검 2차장검사, 이찬규(34기) 서울중앙지검 공공수사1부장, 최순호(35기) 서울중앙지검 형사3부장이 참여한다.&lt;br&gt;&lt;br&gt;심우정 검찰총장은 전날 윤석열 대통령과 김용현 전 국방부 장관에 대한 내란 혐의 고발 사건을 경찰에 이송하지 않고 직접 수사하겠다고 밝혔다. 심 총장은 지난 5일 퇴근길에 기자들과 만나 “내란과 직권남용 모두 검찰이 직접 수사할 계획이냐”는 기자들 질문에 “법과 원칙, 법령과 절차에 따라 수사할 수 있다고 생각한다”면서 “수사 단계에 따라 필요한 조치를 취하겠다”고 했다.&lt;br&gt;&lt;br&gt;개혁신당과 노동당·녹색당·정의당 등은 지난 4일 윤 대통령과 김 전 장관, 박안수 육군 참모총장(전 계엄사령관) 등을 내란 및 직권남용 등의 혐의로 검찰에 고발했다. 내란 혐의는 2021년 검경 수사권 조정 이후 검찰의 직접 수사 대상이 아니다. 직권남용은 검찰이 수사할 수 있지만, 현직 대통령은 내란과 외환 혐의가 아니면 기소할 수 없게 돼 있다. 다만 검찰은 직권남용과 직접 관련성이 있는 범죄에 대한 수사로 내란 혐의를 수사하겠다는 방침이다. 이는 검찰청법에서 허용하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>박성재 법무 “국무위원으로서 국민 불안 끼쳐 송구하고 죄송”</title>
+      <link>https://www.chosun.com/national/court_law/2024/12/06/NXWXB5DN2BE6JILQ6XKL4ZVC6A/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/06/NXWXB5DN2BE6JILQ6XKL4ZVC6A/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 06 Dec 2024 02:23:06 +0000</pubDate>
+      <content:encoded>지난 3일 윤석열 대통령이 비상계엄령을 선포한 것과 관련해, 박성재 법무장관이 6일 “국무위원으로서 국민들에게 불안을 끼친 것에 송구하고 죄송한 마음”이라고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IMURWNGML5NUZMO6UAM3AX572E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;박성재 법무장관이 지난 4일 서울 종로구 정부서울청사 국무회의실에서 국무총리를 비롯한 장·차관들과 현안 논의를 마치고 회의장을 나서고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 국회 법제사법위원회 전체회의에서 서영교 더불어민주당 의원은 “박 장관은 국무회의에 참석했고, (비상계엄령을) 심의하면서 ‘아니다’ ‘안된다’ (윤 대통령에게) 이야기하지 못했다”며 “국민 앞에 잘못된, 위헌‧위법‧불법 비상계엄령 심의에 참석한 사람으로서 사과하라”고 말했다. 이에 박 장관은 “제가 무슨 의견을 냈는지는 말씀드리진 않겠다”면서도 “다만 국무위원으로서 국민에게 불안을 끼쳐 송구하고 죄송한 마음”이라고 했다.&lt;br&gt;&lt;br&gt;박 장관은 ‘국무회의에 참석해 계엄령 선포에 대한 반대 의견을 냈느냐’는 장경태 민주당 의원의 질의에는 “(계엄령 선포와 관련해) 저도 국무회의에서 다양한 의견을 냈다”며 “(당시 국무회의에서) 이런 조치를 하는 게 맞느냐 하는 부분에 대한 이야기가 많았다. 구체적 내용은 밝히는 게 옳지 않다고 생각한다”고 말했다. 박 장관은 ‘내란죄 공범이 될지도 모른다’는 장 의원의 말에 “내란죄라는 표현은 의원님이 판단하시는 것과 다른 부분이 있을 수 있다”고 했다.&lt;br&gt;&lt;br&gt;계엄령 선포 다음날인 지난 4일 대통령 ‘안가’(안전가옥)에 법무장관 관용차가 들어갔다는 언론 보도에 대해서는 “저희들이 다 사의를 표명한 날이었고, 평소 국무회의에서 자주 보지만 해가 가기 전에 한 번 보자는 차원이었다”고 말했다. 그러면서 ‘2차 비상계엄을 얘기했냐’는 질의에는 “전혀 아니다”고 선을 그었다.&lt;br&gt;&lt;br&gt;검찰은 이날 비상계엄 관련 특별수사본부를 구성하고, 박세현 서울고검장을 본부장으로 임명했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“대통령 임기 잘 마쳤으면”…300만 유튜버 슈카, 논란 일자 영상 내려</title>
+      <link>https://www.chosun.com/national/national_general/2024/12/06/65WTNN2ZCNCGTL7ALEM5ERUHBU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/06/65WTNN2ZCNCGTL7ALEM5ERUHBU/</guid>
+      <dc:creator>김자아 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 06 Dec 2024 02:12:30 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YO62MD3A5BERPGLPAOBTXLOPIE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경제 유튜버 슈카가 '2022 대한민국 재테크 박람회'에서 재테크 비법을 소개하고 있다. /채승우&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;구독자 345만명을 보유한 경제 유튜버 슈카가 윤석열 대통령에 대해 “임기를 잘 마쳤으면 좋겠다”고 말했다가 비판이 이어지자 영상을 비공개처리했다.&lt;br&gt;&lt;br&gt;슈카는 6일 새벽 자신의 유튜브 채널 ‘슈카월드’를 통해 ‘계엄과 함께 비어가는 코스피’라는 제목으로 이날 진행한 라이브 방송 영상을 공개했다. 이 방송에서 슈카는 윤 대통령이 지난 3일 밤 비상계엄을 선포했지만 4일 새벽 국회 본회의를 통해 계엄 해제 요구를 의결한 뒤 국무회의를 통해 계엄을 해제한 과정에 대해 설명했다.&lt;br&gt;&lt;br&gt;슈카는 이 과정에서 “저는 좌도 아니고 우도 아니다. 지지할 생각도 없다”며 “어느 분이 대통령이 되든, 지금 대통령도 잘 했으면 좋겠다. 잘 하고, 무난하게 임기 마치고, 그만 뒀으면 좋겠고, 다음 대통령도 마찬가지”라고 했다.&lt;br&gt;&lt;br&gt;그러면서 “좌도 우도 힘 합쳐서 뭘 잘했으면 좋겠는데 이 중과부적이었다는 말은 잘 모르겠다”며 “적이 종북세력이라면 콕 집어서 이야기를 해야지 아직도 꿈 속에 있는 것처럼 잘 모르겠다”고 말했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SGI75OYWCNGDFOYVU2I5DNO6KE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경제유튜버 슈카./치지직&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이후 슈카는 윤석열 정부 들어 국회가 22건의 정부 관료 탄핵 소추안을 발의한 것 등을 언급하며 “정치는 모르겠다. 일반인의 한 사람으로서 야당이든 여당이든 탄핵이든 아니든 다 떠나서 정치는 해도 해도 너무하다”며 “야당이 너무했든, 여당이 너무했든, 다 떠나서 우리 같은 주식쟁이(주식투자자)들은”이라며 머리를 감쌌다.&lt;br&gt;&lt;br&gt;실시간으로 방송을 보던 일부 시청자들은 슈카의 이 같은 발언에 대해 “슈카가 탄핵을 반대한다”는 식의 반응을 쏟아냈고, 방송을 시청했다는 한 네티즌은 “임기를 잘 마쳤으면 좋겠다”는 슈카의 발언을 온라인커뮤니티에 공유하며 “이후 말한 내용도 ‘여야 정치인 모두 너무했다’는 식이었다”고 했다.&lt;br&gt;&lt;br&gt;현재 이 영상은 슈카월드 채널에서 비공개 처리됐으나 네이버 영상 플랫폼 치지직 ‘슈카슈카’ 채널에는 여전히 같은 영상이 올라와 있는 상태다.&lt;br&gt;&lt;br&gt;이 영상에는 “계엄까지 한마당에 양비론은 욕먹기 딱 좋다”는 식의 슈카를 향한 비판과 “원하는 소리만 듣고 싶으면 정치 전용 유튜브를 보라”는 식의 옹호 의견이 엇갈리고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>오세훈 “탄핵만이 능사 아냐…책임총리제 전환하고 비상 관리 내각 꾸려야”</title>
+      <link>https://www.chosun.com/national/national_general/2024/12/06/FHIVQBKWFNADFN2PDDMHJOF42Q/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/06/FHIVQBKWFNADFN2PDDMHJOF42Q/</guid>
+      <dc:creator>김영우 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 06 Dec 2024 02:13:23 +0000</pubDate>
+      <content:encoded>오세훈 서울시장이 정치권의 윤석열 대통령 탄핵 소추 추진에 대해 “탄핵만이 능사가 아니다”라고 말했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G6C6K6WBJJPX3CWT5WDAAJ4BEU.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;오세훈 서울시장. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;오 시장은 이날 오전 11시 9분쯤 페이스북에 올린 글에서 이같이 말했다.&lt;br&gt;&lt;br&gt;오 시장은 “탄핵만이 능사가 아니다”라면서 “대통령은 무책임한 침묵을 깨고 모든 책임을 지겠다는 의지와 수습책을 밝히기 바란다”고 했다.&lt;br&gt;&lt;br&gt;이어 오 시장은 국민의힘을 향해 “책임 있는 집권여당으로서 지금 해야 할 일은 국민의 불안을 해소하고 국정을 수습하는 일”이라고 했다.&lt;br&gt;&lt;br&gt;또 정부를 향해서는 “국정 안정을 위해 책임총리제로 전환하고 비상 관리 내각을 꾸려야 한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>경찰, ‘비상계엄’ 사태 120여명 전담수사팀 구성 본격수사</title>
+      <link>https://www.chosun.com/national/2024/12/06/R4C2Y4YFYJAS7HT722QUIO72OQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2024/12/06/R4C2Y4YFYJAS7HT722QUIO72OQ/</guid>
+      <dc:creator>주형식 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 06 Dec 2024 02:08:33 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CIJT6OHF2Y3IFLWI2EGO7I6SAE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;5일 국회 행정안전위원회 긴급 현알 질의에서 비상계엄 관련한 질의에 답하는 우종수(뒤) 경찰청 국가수사본부장.맨 앞은 조지호 경찰청장,/뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰은 6일 비상계엄 사태와 관련해 120여명의 전담 수사팀을 구성했다.&lt;br&gt;&lt;br&gt;경찰청 국가수사본부 안보수사단은 이날 언론 공지를 통해 이같이 밝혔다.전날 기준 비상계엄과 관련해 접수된 고발장은 총 4건이다. 고발인은 조국혁신당, 전국민주노동조합총연맹(민주노총) 위원장 등 59인, 진보당, 더불어민주당이다.고발된 혐의로는 형법 제87조 내란, 군형법 제5조 반란, 형법 제123조 직권남용 등이 있다고 국수본은 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/IVW5B5OMW5PBRO35A4XDUNRDK4.jpg?width=2556&amp;height=3702&amp;auth=2559b9ae35e0895c3903677336166b54f097b743bcf7e269fd868216c84e4a08&amp;smart=true" type="image/jpeg" height="3702" width="2556">
+        <media:description type="plain">[서울=뉴시스] 고승민 기자 = 우종수 경찰청 국가수사본부장이 5일 서울 여의도 국회에서 열린 행정안전위원회의 비상계엄 관련 긴급 현안질의에서 의원 질의에 답하고 있다. 2024.12.05. kkssmm99@newsis.com</media:description>
+        <media:credit role="author" scheme="urn:ebu">고승민</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>선거부정 확인하러 계엄군 선관위 진입... 검경은 ‘무혐의’ 종결</title>
+      <link>https://www.chosun.com/national/regional/2024/12/06/UXZSY2F6OBC57I3GW2PUGJODJU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/12/06/UXZSY2F6OBC57I3GW2PUGJODJU/</guid>
+      <dc:creator>과천=권상은 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 06 Dec 2024 01:22:47 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7PS2T4ZYA5NDHMIMLOQDY5RIIM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기 과천시 중앙선거관리위원회 청사. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 3일 비상계엄 선포 당시 계엄군이 과천 중앙선거관리위원회에 진입한 것은 부정선거 의혹 수사를 위한 조치였다는 김용현 전 국방부 장관의 발언이 나온 가운데 해당 의혹 관련 사건은 이미 경찰과 검찰이 수사 후 무혐의로 종결한 것으로 확인됐다.&lt;br&gt;&lt;br&gt;6일 경기 과천경찰서에 따르면 ‘4·10 부정선거 의혹’과 관련한 고발 사건을 지난 8월 수원지검 안양지청에 불송치한 것으로 나타났다. 검찰도 고발인의 주장과 관련해 추가로 확인할 만한 사정이 없는 것으로 판단하고, 공소시효(10월 10일)가 도래하기 이전에 경찰에 기록을 반환했고, 경찰은 사건을 종결했다.&lt;br&gt;&lt;br&gt;육사 출신으로 국방대 교수를 지낸 장재언 박사는 지난 4월 10일 치러진 제22대 국회의원 선거에서 전산 조작이 있었다는 의혹을 제기하며 공직선거법 위반, 직무유기, 공전자기록 위변작, 직권남용, 위계에 의한 공무집행방해 등 혐의로 중앙선관위 관계자 5명을 검찰에 고발했다. 그는 “사전투표와 본투표 차이가 15~20%가 나 대수의 법칙에 위배되는 결과가 나왔다”며 “피고발인 5명이 전산 조작을 한 결과”라는 취지의 주장을 한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;검찰로부터 사건을 건네받아 수사에 착수한 경찰은 수사를 거쳐 피고발인들에게 혐의가 없다고 보고 불송치 결정을 했다. 경찰은 이들이 선거 관련 시스템을 기술적으로 지원할 뿐, 직접적인 선거 사무는 시군구 선관위에서 하기 때문에 혐의가 성립할 수 없다고 판단했다. 또 사전투표와 본투표의 결과 차이가 커 대수의 법칙에 위배된다는 고발인의 주장에 대해 사전투표는 그 자체가 모집단에 해당해 이 법칙을 적용할 수 없다고 했다.&lt;br&gt;&lt;br&gt;선관위의 투표 결과 조작 등 부정선거와 관련한 의혹 제기는 21대 총선 등에서도 제기됐으나 의혹이 사실로 확인된 적은 없었다.&lt;br&gt;&lt;br&gt;중앙선관위에 따르면 3일 밤 윤석열 대통령의 비상계엄 발동 직후 300명가량의 계엄군이 과천 중앙선관위 청사, 수원 선거연수원, 서울 관악청사에 출동한 것으로 파악됐다.&lt;br&gt;&lt;br&gt;이에 대해 김용현 전 국방장관은 언론에 보낸 입장문을 통해 “많은 국민이 부정선거 의혹을 제기함에 따라 향후 수사 여부를 판단하기 위해 시스템과 시설 확보가 필요하다고 판단했다”고 밝혔다. 그러면서 “이를 확보하는 과정에서 국회의 계엄 해제 요구 결의가 있어 철수한 것”이라고 했다. 선관위는 “정보 유출 등의 피해는 없었다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title> ‘11월의 눈폭탄’ 경기도, 폭설 피해 복구에 667억 긴급 투입</title>
+      <link>https://www.chosun.com/national/national_general/2024/12/06/K6Q6X3W3WBCKPOWG3DCRDFVJSA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/06/K6Q6X3W3WBCKPOWG3DCRDFVJSA/</guid>
+      <dc:creator>수원=김현수 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 06 Dec 2024 02:02:06 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZW3JXYOMK27R3RLE6O4E35R6J4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기도청 전경. /경기도 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기도가 기록적인 폭설로 인한 피해 복구와 민생 회복을 위해 총 677억 5000만원 규모의 재정을 긴급 지원하기로 했다.&lt;br&gt;&lt;br&gt;김성중 경기도 행정1부지사는 6일 경기도청 브리핑룸에서 기자회견을 열고 “지난달 29일 발표한 지원 예산 301억 5000만원보다 376억원 증액한 677억 5000만원을 긴급 지원한다”고 밝혔다. 증액된 지원금은 소상공인 긴급생활안정 지원, 응급 복구 및 긴급 조치, 축산 농가 지원 등에 투입된다.&lt;br&gt;&lt;br&gt;먼저 소상공인 긴급생활안정에 300억원을 추가로 지원한다. 피해를 입은 소상공인은 최대 1000만원까지 긴급생활안정비를 받게 된다.&lt;br&gt;&lt;br&gt;도는 붕괴된 축사 철거, 고립된 가축 구조, 폐사된 가축 처리 등 현장에서 시급한 조치를 위해 예비비 50억원을 편생해 지원 계획을 이미 시·군에 통보했다.&lt;br&gt;&lt;br&gt;도는 앞서 지난 2일 응급 복구와 제설 장비, 제설재 지원을 위한 재난관리기금 73억 5000만원을 시·군에 지급한 가운데 대설 피해를 입은 농수산물시장, 체육시설 등 공공시설의 피해 복구를 위해 특별조정교부금 16억원을 추가 지원할 방침이다.&lt;br&gt;&lt;br&gt;이와 함께 도는 안성, 평택, 이천, 화성, 용인, 여주, 광주, 안산, 시흥 등 9개 시와 오산 초평동 등 1개 동을 특별재난지역으로 조속히 선포해 줄 것을 중앙 정부에 요청했다.&lt;br&gt;&lt;br&gt;이날 오전 기준 접수된 피해 규모를 보면 안성시가 1160억원으로 가장 컸고, 화성시 692억원, 평택시 627억원 등이 뒤를 이었다. 도내 총 피해액은 3870억원으로 집계됐다.&lt;br&gt;&lt;br&gt;김 부지사는 “도는 신속한 재난 극복을 위해 재난안전대책본부를 수습 복구 체계로 전환했다”며 “도내 시·군과 통합지원센터를 운영해 신속한 피해 복구에 모든 행정 역량을 집중하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>군인권센터 “8일까지 육군 지휘관 휴가 통제… 2차 비상계엄 의심”</title>
+      <link>https://www.chosun.com/national/national_general/2024/12/06/RPEW5MENKBDH7NPDZ3CNF7JKVU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/06/RPEW5MENKBDH7NPDZ3CNF7JKVU/</guid>
+      <dc:creator>박정훈 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 06 Dec 2024 02:00:42 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XJJRQU7S7VPL5FN7D3RQA4B4AQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;임태훈 군인권센터 소장이 6일 서울 마포구 군인권센터에서 2차 비상계엄 정황이 포착되었다며 육군에서 들어온 제보를 설명하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;군인권센터가 복수의 육군 부대에서 비상계엄이 해제된 뒤에도 8일까지 지휘관급 휴가를 통제하고 있다며 “2차 비상계엄이 의심되는 정황”이라고 주장했다.&lt;br&gt;&lt;br&gt;군인권센터는 6일 서울 마포구 사무실에서 기자회견을 열고 “복수의 육군부대는 탄핵 표결 다음날인 8일까지 지휘관 비상소집대기를 지시한 것으로 확인됐다”며 “육군에서 이상징후가 제보되고 있다”고 했다. 이어 “복수의 부대는 상급부대 지침에 따라 4일 오전 11시나 12시쯤 전 장병의 휴가를 정상 시행하라는 지침을 하달하면서 중대장 이상에 대해선 8일까지 휴가를 통제한다고 했다”며 “비상소집 대비할 목적을 명시해 지휘관 휴가를 막는 것은 매우 위험한 징후”라고 했다.&lt;br&gt;&lt;br&gt;8일은 국회 본회의에서 윤석열 대통령 탄핵소추안이 표결되는 다음날이기에 2차 비상계엄 의심정황이라 보기에 충분하다는 것이다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>정부 “응급실 의사 진찰료 3.5배 인상 유지”... 응급환자 느는 겨울 대비</title>
+      <link>https://www.chosun.com/national/welfare-medical/2024/12/06/6C3DG7LLFFH27HNJCK35EETWUQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/12/06/6C3DG7LLFFH27HNJCK35EETWUQ/</guid>
+      <dc:creator>오유진 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 06 Dec 2024 01:22:19 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7QBXONI3YKKJW5JZKCB4FXUAXE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;6일 오전 정부서울청사에서 열린 의사 집단행동 중앙재난안전대책본부 회의에서 조규홍 보건복지부 장관이 발언하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정부가 올 겨울 응급 환자가 늘어날 것을 대비해 기존 응급실 전문의 진찰료 인상 방침을 유지하면서, 발열 클리닉과 코로나 협력 병원을 재가동하기로 했다.&lt;br&gt;&lt;br&gt;조규홍 보건복지부 장관은 6일 오전 정부서울청사에서 열린 의사 집단행동 중앙재난안전대책본부 회의에서 “응급실 전문의 진찰료 수가 250% 가산, 배후 진료 수술에 대한 수가 200% 가산 등 기존의 지원 정책은 계속 유지하면서, 겨울철 환자 증가에 대한 추가적인 대책을 추진하기로 했다”며 이같이 밝혔다.&lt;br&gt;&lt;br&gt;정부는 겨울에 유행하는 호흡기 질환을 관리하기 위해 발열 클리닉 100곳 이상과 코로나 협력 병원 200곳 내외를 재가동하기로 했다. 조 장관은 “호흡기 감염병 범부처 합동 대책반을 운영해 국내외 호흡기 질환 유행 상황을 점검하고, 고위험군 집중 관리와 예방접종 독려 등 대책을 추진하겠다”고 했다.&lt;br&gt;&lt;br&gt;또 응급 의료 거점 지역 센터를 10곳 내외 추가 지정하기로 했다. 중증·응급 환자 수용과 후속 진료 제공 등 기여도를 평가해 우수 기관에 인센티브를 지급할 예정이다.&lt;br&gt;&lt;br&gt;조 장관은 이날 회의에서 “의료계와 대화·협의를 통해 의료 개혁을 착실히 수행해 나갈 것”이라며, 전날 대한병원협회가 의료개혁특별위원회 참여 중단을 선언한 것에 대해 “매우 안타깝게 생각한다”고 했다.&lt;br&gt;&lt;br&gt;그는 “지역·필수 의료를 살리고 국민의 생명과 건강을 지키는 것은 미룰 수 없는 정부와 의료진 모두의 사명”이라며 “이를 위해 정부는 의료계와 다양한 방식으로 소통하면서 개혁 방안을 마련해 나가겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“김순영 가족 찾아요”… 숨진 아내 대신해 뿌리 찾는 프랑스 남편</title>
+      <link>https://www.chosun.com/national/national_general/2024/12/06/OQ7FDZMP4VA57MDLZXSAMDREA4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/06/OQ7FDZMP4VA57MDLZXSAMDREA4/</guid>
+      <dc:creator>최혜승 기자 </dc:creator>
+      <description/>
+      <pubDate>Fri, 06 Dec 2024 00:45:39 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Q3MMCGISTFHT5E5YZ7GFCWWSWI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;프랑스 입양 한인 고(故) 김순영 씨의 어릴 적 모습(왼쪽)과 성인 시절 모습./ 연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;프랑스 남성이 딸 출산 후 세상을 떠난 입양 한인 아내를 대신해 가족 찾기에 나섰다.&lt;br&gt;&lt;br&gt;6일 연합뉴스에 따르면, 프랑스인 프레데릭 그라낫(52)씨는 “딸에게 외가 식구들을 만나게 해주고 싶다”며 아동권리보장원 입양인지원팀에 사연을 보냈다.&lt;br&gt;&lt;br&gt;그의 아내는 한국에서 프랑스인 가정으로 입양된 고(故) 앤 로르 아밀(사망 당시 31세)이며, 한국 이름은 김순영이다.&lt;br&gt;&lt;br&gt;김씨는 1978년 4월 11일 태어난 것으로 추정된다. 출생 직후 대구시청을 통해 백백합보육원에 인계됐으며 그해 9월 27일 홀드아동복지회를 통해 프랑스의 한 가정에 입양됐다.&lt;br&gt;&lt;br&gt;김씨는 프랑스 3대 도시인 마르세유에서 그라낫을 만나 결혼했다. 두 사람은 2009년 6월 1일 딸을 출산했으나, 김씨는 출산 사흘 뒤인 6월 4일 임신중독증으로 세상을 떠났다. 사망 당시 김씨의 나이는 31세였다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/P7NJT7V75BHIPIKATA6Y6HEYEY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;프랑스 입양 한인 고(故) 김순영 씨(오른쪽)와 그의 남편 프레데릭 그라낫./ 연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;어느덧 10대가 된 딸은 최근 엄마에 대해 관심을 갖기 시작했다고 한다. 그라낫씨는 “딸은 엄마와 자신이 한국인의 혈통이라는 것을 자랑스럽게 생각한다”며 “엄마에 대한 그리움을 한국과 한국 문화에 대한 관심으로 표현하는 것 같다”고 했다.&lt;br&gt;&lt;br&gt;이어 “딸은 최근 엄마가 어떻게 태어났고, 왜 버려져야만 했는지, 엄마의 한국 가족은 어떤 사람인지 등 엄마에 대해 더 많이 알고 싶어 한다”며 “내년에 함께 한국을 방문해 딸이 한국인이라는 것을 자랑스럽게 느낄 수 있도록 해주고 싶다”고 전했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>태권도장서 ‘중심잡기’ 중 낙상한 8세 아동… 대법 “관장 과실 없다”</title>
+      <link>https://www.chosun.com/national/court_law/2024/12/06/7O6GRZI6V5AFVCAKB6UUFHTKRY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/06/7O6GRZI6V5AFVCAKB6UUFHTKRY/</guid>
+      <dc:creator>방극렬 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 06 Dec 2024 01:41:15 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GRZO7NMBC45PTBMFZ3MCO65UPU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 대법원 청사 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;태권도장에서 원생이 약 31㎝ 높이 기구에 올라가 균형을 잡는 훈련을 하다 떨어져 다치더라도, 태권도 관장에게 책임을 묻기 어렵다는 대법원 판단이 나왔다.&lt;br&gt;&lt;br&gt;6일 법조계에 따르면, 대법원 2부(주심 김상환 대법관)는 최근 업무상과실치상 혐의로 기소된 A씨에 대해 벌금 150만원을 선고한 원심 판결을 깨고 전주지법으로 돌려보냈다.&lt;br&gt;&lt;br&gt;지난 2020년 10월 전주에서 태권도 학원을 운영하던 A씨는 초등학교 저학년 학생들을 대상으로 ‘중심잡기’ 수업을 진행했다. 31㎝ 높이 타원형 모형의 원탑 위에 올라가 몸의 균형을 잡는 훈련이었다.&lt;br&gt;&lt;br&gt;그런데 이 수업을 받던 8세 아동 한 명이 원탑에서 떨어지면서 팔꿈치가 부러지는 사고가 발생했다. 검찰은 A씨가 안전매트를 제대로 설치하지 않았고, 부상 위험을 미리 설명하지 않아 주의 의무를 위반했다며 업무상과실치상 혐의로 기소했다.&lt;br&gt;&lt;br&gt;1심은 무죄를 선고했지만, 2심은 이를 뒤집고 벌금 150만원을 선고했다. 2심 재판부는 “피해 아동의 체구가 크고 원탑에 올라가는 것을 무서워했다. 그런데도 A씨는 보호 장비 착용이나 매트의 추가 설치 없이 훈련을 계속하게 한 업무상 과실이 있다”고 했다.&lt;br&gt;&lt;br&gt;그러나 대법원은 “원심 판결을 수긍하기 어렵다”며 무죄 취지로 파기환송했다. A씨가 매달 2~4차례 중심잡기 훈련을 진행하면서 안전 교육을 실시했고, 그간 골절 사고가 발생한 적도 없었다는 점 등이 근거가 됐다. 대법원은 “원탑 본래 용도에 따라 중심잡기 훈련 중 낙상이나 골절 등 중대한 부상이 발생할 위험이 일반적으로 존재한다고 보기 어렵다”며 “A씨에게 심각한 부상을 전제로 시범, 연습 등을 할 의무가 없다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>촛불과 파업의 시간...학교 비정규직도 민간 업체도 파업, 여의도선 촛불 집회</title>
+      <link>https://www.chosun.com/national/labor/2024/12/06/ERGRG25TURCYBEFNO2BBNMQ6SM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/labor/2024/12/06/ERGRG25TURCYBEFNO2BBNMQ6SM/</guid>
+      <dc:creator>김아사 기자</dc:creator>
+      <description>‘정치 파업’을 공표한 민주노총이 주도하는 파업과 윤석열정권퇴진운동본부가 중심이 된 촛불집회가 6일부터 본격화된다.</description>
+      <pubDate>Fri, 06 Dec 2024 01:32:17 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KXDOHLOW3NMWBN7BULZCGZRIN4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;공공운수노조 전국교육공무직본부 서울지부 조합원들이 6일 서울 종로구 서울교육청 앞에서 열린 총파업대회에서 구호를 외치고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘정치 파업’을 공표한 민주노총이 주도하는 파업과 윤석열정권퇴진운동본부가 중심이 된 촛불집회가 6일부터 본격화된다. 이날 급식과 돌봄 업무 등을 담당하는 학교 비정규직 노동자들의 파업이 시작되고, 민간 영역에선 현대차·한국GM 등의 파업이 이어진다. 특히 현대차 등 민간 부문 파업의 경우 처우 개선을 둘러 노사 교섭 상황이 아닌데다, 쟁의권 확보도 선제되지 않은 불법 파업이다. 윤석열정권퇴진운동본부는 이날 오후 6시부터 여의도 국회의사당 앞에서 촛불집회를 연다. 비상계엄 사태를 동력으로 파업을 무기 삼은 후 정권 퇴진 주장을 본격화하는 것이란 분석이 나온다.&lt;br&gt;&lt;br&gt;KTX를 비롯해 지하철 1·3·4호선, 경의중앙선, 서해선, 수인분당선 등을 운영 중인 코레일의 철도 노조가 총파업을 진행하는 상황에서, 오늘부턴 민주노총 공공운수노조 산하의 학교 비정규직 노조(전국학교비정규직연대회의)가 파업에 가세한다. 여기엔 급식 종사자, 초등생 돌봄 전담사, 환경미화원, 당직 경비원 등이 속해 있다. 민노총은 6만명가량이 파업에 참여할 것이라고 주장하고 있다.&lt;br&gt;&lt;br&gt;여파가 가장 큰 건 급식 부문이다. 급식 종사자들이 대거 파업에 나서면 학교에서 정상적인 급식 제공이 어려워지기 때문이다. 지난해 파업이 이뤄졌을 때는 전국 급식 대상 학교의 4분의 1에 해당하는 3293개 학교가 빵·우유 같은 대체식을 제공하는 등 급식 운영에 차질을 빚었다. 파업은 6일만 예고됐는데, 민노총 등의 지침에 따라 향후 더 확대될 여지도 있다. 이 경우 대체식에만 의존할 수도 없어 학부모 등의 우려도 커지고 있다.&lt;br&gt;&lt;br&gt;파업 분위기는 민간으로도 확산하고 있다. 민주노총 금속노조 산하인 현대차, 한국GM, 현대모비스, 발레오만도 등이 5일에 이어 6일에도 부분 파업을 진행한다. 이는 지난 4일 금속노조가 윤석열 정권 퇴진을 주장하며 5~6일 부분 파업, 11일 전면 파업 지침을 내렸기 때문이다. 처우 개선 등을 이유로 한 노사 교섭 상황도 아닌데, 정치적 상황을 이유로 쟁의권 확보 절차도 없이 불법 파업 지침을 내린 것이다. 금속노조 지침대로 11일 전면 파업이 진행된다면 대규모 생산 차질이 불가피하다.&lt;br&gt;&lt;br&gt;민주노총 등이 주축이 된 윤석열정권퇴진운동본부는 이날 오후 6시부터 여의도 국회 앞에서 촛불집회를 연다. 노동계와 정치권에선 이들이 박근혜 전 대통령 탄핵 때처럼 인파를 모으고, 이를 동력 삼아 대통령 퇴진 분위기를 만들려는 것으로 보고 있다. 이들은 7일엔 서울 광화문 광장으로 자리를 옮겨 윤석열 정권 퇴진 3차 총궐기 범국민대회를 진행할 예정이다. 한 노동계 인사는 “정권 퇴진 동력을 만들기 위해 조직력과 자금을 갖춘 민주노총이 주도적 역할을 맡은 것 같다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>김용현·이상민, 계엄 선포 4시간 전 한 차례 통화</title>
+      <link>https://www.chosun.com/national/national_general/2024/12/06/56SSPJ55J5D2BKSZNX2PG3KMZI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/06/56SSPJ55J5D2BKSZNX2PG3KMZI/</guid>
+      <dc:creator>김영우 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 06 Dec 2024 01:07:14 +0000</pubDate>
+      <content:encoded>윤석열 대통령에게 계엄 선포를 건의한 것으로 알려진 김용현 전 국방부 장관이 계엄 선포 약 4시간 반 전 이상민 행정안전부 장관과 한 차례 통화한 사실이 확인됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2VBW252VQZMXPCGYT4LHIM5RYM.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;이상민 행정안전부 장관이 5일 오전 서울 여의도 국회에서 열린 비상계엄 관련 행정안전위원회 전체회의에서 계엄 당시 상황에 대한 업무보고를 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;6일 국회 행정안전위원회 더불어민주당 이상식 의원이 행안부에서 받은 자료에 따르면, 이 장관은 3일 오후 6시쯤 김 전 장관의 전화를 30초가량 받았다. 행안부 관계자는 “통화 내용은 ‘용산으로 들어오라’는 것이었다”고 말했다. 지난 1일부터 4일까지 양측이 전화 통화를 한 내역은 이때가 유일하다.&lt;br&gt;&lt;br&gt;두 사람의 통화는 이 장관이 출장을 갔던 울산에서 서울로 복귀하는 동안 이뤄진 것으로 보인다. 앞서 이 장관은 5일 열린 국회 행정안전위원회 긴급 현안 질의 등에서 “3일 오후 5시 40분쯤 울산에서 서울행 KTX를 탔다”고 밝혔다. ‘그때 처음으로 국무회의가 소집된다는 것을 알았느냐’는 이해식 민주당 의원의 질의에는 “그 때는 몰랐다”고 답했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>오세훈 “지하철 노사 협상 타결, 시민 안전과 편의 생각한 결과”</title>
+      <link>https://www.chosun.com/national/national_general/2024/12/06/LSICKWXKTZEMROJKSH5I2UPIBI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/06/LSICKWXKTZEMROJKSH5I2UPIBI/</guid>
+      <dc:creator>김영우 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 06 Dec 2024 01:18:26 +0000</pubDate>
+      <content:encoded>오세훈 서울시장이 6일 서울교통공사와 노조 측의 임금·단체협약 협상 타결을 두고 “시민의 안전과 이용편의를 최우선으로 생각한 결과”라고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G6C6K6WBJJPX3CWT5WDAAJ4BEU.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;오세훈 서울시장. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;오 시장은 이날 오전 페이스북에 ‘시민의 안전과 일상을 최우선으로 한 노사협상 최종타결 환영합니다’라는 제목의 글을 올리고 이같이 말했다.&lt;br&gt;&lt;br&gt;오 시장은 “서울교통공사 노사의 2024년 임금·단체협약 협상이 총파업 직전 극적으로 타결되었습니다”며 “어려운 상황 속에서도 인내하며 시민의 안전과 이용편의를 최우선으로 생각한 결과”라고 했다.&lt;br&gt;&lt;br&gt;이어 오 시장은 “지하철 정상 운행을 위해 애써주신 노사 양측과 각자의 일상에서 교섭결과를 기다려주신 시민 여러분께 감사드린다”고 했다.&lt;br&gt;&lt;br&gt;그는 “다만 코레일과 연계해 운행하는 1·3·4호선은 철도노조 파업으로 정상화에 다소 시간이 걸릴 것으로 보인다”며 “열차 추가 운행, 역사 내 안전요원 투입 등의 보완 대책을 통해 정상 운행 재개 시까지 시민 불편을 최소화하겠다”고 했다.&lt;br&gt;&lt;br&gt;오 시장은 “서울시는 시민의 안정적인 일상을 지키기 위해 최선을 다하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>헌법학자들 “野 견제 위한 계엄... 헌법 어디에도 그런 내용 없다”</title>
       <link>https://www.chosun.com/national/court_law/2024/12/06/KK4CJS26DVCBZH7JGYECS4ZOX4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/06/KK4CJS26DVCBZH7JGYECS4ZOX4/</guid>
@@ -583,15 +756,6 @@
       <content:encoded>이상민 행정안전부 장관은 5일 윤석열 대통령의 비상계엄 선포와 관련한 국회 긴급 현안질의에서 ‘충암고 출신들이 계엄을 주도한 것 아니냐’는 의혹에 대해 “충암고끼리 모인 적이 없다”고 했다.&lt;br&gt;&lt;br&gt;이 장관은 이날 국회 행정안전위 긴급 현안질의에 출석해 “국민들은 ‘충암고의 3시간 천하’라고 이야기한다”는 박정현 더불어민주당 의원의 말에 이같이 답했다.&lt;br&gt;&lt;br&gt;이 장관은 윤 대통령의 충암고 후배다. 비상계엄 선포를 건의한 김용현 국방부 장관도 윤 대통령의 충암고 1년 선배다. &lt;br&gt;&lt;br&gt;이 장관이 “모인 적 없다”고 하자 박 의원은 “왜 모인 적이 없느냐. 올해 초 국군 방첩사령부를 방문해 충암고 출신 3명과 만찬 자리를 가지지 않았느냐”고 했다. 이에 이 장관은 “충암고 출신은 당시 2명 있었다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2VBW252VQZMXPCGYT4LHIM5RYM.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;이상민 행정안전부 장관이 5일 오전 서울 여의도 국회에서 열린 비상계엄 관련 행정안전위원회 전체회의에서 계엄 당시 상황에 대한 업무보고를 하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이 장관은 비상계엄 선포 직전 열린 국무회의와 관련해 “모든 국무위원이 다 우려했고, 저도 여러 번 우려를 표명했다”고 했다.&lt;br&gt;&lt;br&gt;그는 ‘국방부 장관을 제외하고 모두 우려를 표명한 것이냐’는 질문에 “(계엄 선포를) 건의하신 분이지만, 국방부 장관도 왜 우려가 없었겠느냐”고 했다.&lt;br&gt;&lt;br&gt;이 장관은 ‘내란죄에 해당하는 것 아니냐’는 질문에는 “그렇지 않다. 대통령은 헌법에 규정된 권한을 행사한 것”이라며 “비상계엄은 고도의 통치행위로 인식되고 있다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>현대차 노조, 5~6일 부분 파업… “정권 퇴진 촉구”</title>
-      <link>https://www.chosun.com/national/regional/2024/12/05/4BSLY7DCIFGPRIUGI6PN5JEJFM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/12/05/4BSLY7DCIFGPRIUGI6PN5JEJFM/</guid>
-      <dc:creator>울산=김주영 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 05 Dec 2024 03:31:06 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KAER4ELVDRGI3F7CCXORFM4COM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;울산 북구 현대자동차 울산공장 정문에서 현대차 직원들이 퇴근을 하는 모습. /김동환 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;현대자동차 노동조합이 지난 4일 비상계엄을 선포했다가 해제한 윤석열 대통령의 퇴진을 촉구하며 5일부터 이틀간 부분파업을 벌이기로 했다. 현대차 노조는 조합원 4만3000여명이 소속돼 국내 단일 사업장 노조 가운데 최대 규모다.&lt;br&gt;&lt;br&gt;5일 현대차에 따르면 노조는 이날 오전 확대운영위원회를 열어 이틀간 오전 근무조와 오후 근무조가 2시간씩 부분파업을 하기로 했다고 밝혔다.&lt;br&gt;&lt;br&gt;이에 따라 오전 근무조 조합원들은 퇴근시간 2시간 전인 오후 1시 30분부터 파업에 들어가 이날 오후 3시부터 울산 태화강역 광장에서 열리는 민주노총 총파업 결의대회에 참가할 예정이다.&lt;br&gt;&lt;br&gt;오후 출근조는 출근 시간을 오후 3시 30분에서 5시 30분으로 2시간 늦추고 총파업 결의대회에 동참한다.&lt;br&gt;&lt;br&gt;현대차 노조의 이번 부분파업은 상부단체인 금속노조의 윤 정권 퇴진 투쟁 지침에 따른 것이다. 현대차 관계자는 “근로 조건 개선과는 무관한 불법 파업”이라고 말했다.&lt;br&gt;&lt;br&gt;금속노조는 지난 4일 불법 계엄령을 선포한 윤석열 대통령 퇴진을 요구하며 전체 조합원에게 5일과 6일 주·야 2시간 이상 파업 돌입 지침을 내렸다.&lt;br&gt;&lt;br&gt;현대차 노조는 전날 문용문 지부장 명의로 긴급 성명서를 내고 “한밤중 어처구니없는 비상계엄령 선포는 자신의 정치적 생명 연장과 대통령실 특수활동비 전액 삭감 등에 대한 보복으로 국회 마비가 목적이었음이 드러났다”며 “스스로 대통령으로서 자격이 없음을 자백했다”고 주장했다.&lt;br&gt;&lt;br&gt;이어 “위법적인 계엄령 선포는 국민을 상대로 한 선전포고이기에 책임을 물을 것”이라며 “민주주의 회복과 윤석열 정권의 독재를 막기 위해 끝까지 싸우겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>올해 수능 만점자 11명... 국·수·영 작년보다 쉬웠고, 사탐은 어려웠다</title>
       <link>https://www.chosun.com/national/education/2024/12/05/PYCVWOHMS5BZBJLZL2D4RXJ2UY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/education/2024/12/05/PYCVWOHMS5BZBJLZL2D4RXJ2UY/</guid>
@@ -614,15 +778,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FUM6L4S5ISM6HMTWIEVJ7BU4V4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령의 비상계엄 해제 요구 결의안이 국회 본회의에서 통과된 4일 새벽 서울 서초구 대법원 청사가 불을 밝히고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 대통령이 ‘비상 계엄’을 선포했던 지난 3일 심야, 계엄사령부(사령관 박안수 육군참모총장)는 선거관리위원회와 사법부도 장악하려고 시도했던 것으로 나타났다.&lt;br&gt;&lt;br&gt;5일 국회 행안위에 따르면, 계엄사는 지난 3일 중앙선거관리위원회에 10여명 병력을 투입해 야간 당직자들의 휴대전화를 압수했던 것으로 나타났다. &lt;br&gt;&lt;br&gt;또 5일 대법원 법원행정처에 따르면, 대법원은 지난 3일 윤 대통령의 비상계엄 선포와 계엄사령관의 ‘포고령 1호’ 발령 이후 계엄사 측으로부터 법원 사무관 1명을 보내달라는 파견 요청을 접수받았다. 당시 법원행정처는 비상계엄 선포에 따라 조희대 대법원장 지시로 천대협 법원행정처장과 배형원 차장, 실장급 간부 등을 소집해 계엄 관련 긴급 회의를 진행하고 있었다.&lt;br&gt;&lt;br&gt;법원 안전관리관은 계엄사의 파견 요청을 회의에 보고했는데, 대법원은 국회 본회의에서 비상계엄 해제 요구 결의안이 가결된 뒤였다고 설명했다. 보고를 받은 대법원은 계엄사의 요청에 응하지 않기로 결정하고 사무관을 파견하지 않았다.&lt;br&gt;&lt;br&gt;계엄법상 비상계엄이 선포되면 계엄사령관은 계엄 지역의 모든 행정사무와 사법사무를 관장하게 된다. 계엄사령관은 행정기관 및 사법기관을 지휘·감독할 수 있고, 필요하면 소속 직원의 파견을 요청할 수 있다. 이에 따라 사법부에 직원 파견을 요청한 것으로 보인다.&lt;br&gt;&lt;br&gt;이날 법원행정처 회의에서는 계엄 선포 요건, 효력 등에 대한 간략한 법률적 검토 등이 이뤄진 것으로 알려졌다. 다만 주로 계엄 관련 대외적 요구에 대응하고, 각급 법원의 재판을 어떻게 진행할지 등을 위한 내부적 차원의 논의였던 것으로 전해졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>LPG통 잘라 고기 구워먹으려다 ‘펑’… 남성 2명 얼굴 화상</title>
-      <link>https://www.chosun.com/national/national_general/2024/12/05/5BSBSDN3VJAPNDXXJKVRLXLRV4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/05/5BSBSDN3VJAPNDXXJKVRLXLRV4/</guid>
-      <dc:creator>최혜승 기자 </dc:creator>
-      <description/>
-      <pubDate>Thu, 05 Dec 2024 05:06:07 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SVYB5NRAVMV4THUOH6XEAARULM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한 가스배달 업체 직원이 LPG가 담긴 가스통을 옮기고 있다. 사진은 기사 내용과 관련 없음./ 조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 구리시의 한 농막에서 액화석유가스(LPG)통이 터지며 2명이 화상을 입는 사고가 발생했다.&lt;br&gt;&lt;br&gt;5일 경기소방재난본부 등에 따르면, 지난 4일 오후 1시쯤 구리시의 한 농막에서 LPG통 밸브 부분이 폭발했다.&lt;br&gt;&lt;br&gt;이 사고로 근처에 있던 남성 A(60)씨와 B(59)씨가 얼굴에 화상을 입고 병원으로 옮겨졌다.&lt;br&gt;&lt;br&gt;친구 사이인 두 사람은 빈 가스통을 반으로 잘라 아랫부분을 고기 구워 먹는 화로로  쓰기 위해 농막에 가져온 것으로 파악됐다.&lt;br&gt;&lt;br&gt;이들은 절단 작업 전 남은 가스를 빼 내기 위해 밸브를 열어 뒀는데, 이때 나온 가스가 주변에 피워놓은 불과 닿으며 폭발이 일어난 것으로 당국은 보고 있다.&lt;br&gt;&lt;br&gt;A씨와 B씨는 생명에는 지장이 없는 것으로 전해졌다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[속보] 국수본부장 “김용현 전 국방부장관 출국금지 지시”</title>
       <link>https://www.chosun.com/national/national_general/2024/12/05/BESGDZWXRZBQRA3OXCKC66WG3A/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/05/BESGDZWXRZBQRA3OXCKC66WG3A/</guid>
@@ -632,28 +787,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YPCLYZVLLTNTXUEJBW3OSXBI7M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김용현 국방부 장관이 지난 11월 28일 오전 국방위원회 전체회의에서 의원 질의에 답변하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;우종수 국가수사본부장은 5일 김용현 전 국방부 장관의 해외 도피설과 관련해 “긴급히 필요한 조치를 조속히 하라고 안보수사단장에게 지시했다”고 밝혔다.&lt;br&gt;&lt;br&gt;우 본부장은 이날 국회 행정안전위원회 긴급 현안질의에서 더불어민주당 의원들의 ‘김 전 장관에 대해 출국금지를 요청할 의향이 있느냐’는 질의에 “출국금지 외에도 긴급히 할 조치가 있으면 빨리 검토해 시행하라고 지시했다”며 이같이 말했다.&lt;br&gt;&lt;br&gt;이는 민주당 양부남 의원이 “김 장관이 (해외로) 도망간다고 하는데 출국금지 조치를 금방 할 수 있다”면서 “지금이라도 당장 실무자에게 전하라”라고 요청한 데 따른 답변이다.&lt;br&gt;&lt;br&gt;우 본부장은 “지금 당장 나가서 하셔도 된다”는 양 의원 말을 듣고 낮 12시 32분경 행안위 회의장에서 퇴장했다가 다시 입장했다.&lt;br&gt;&lt;br&gt;앞서 민주당은 면직안 재가로 국회 국방위원회 긴급 현안질의에 불참하게 된 김용현 전 장관의 해외 도피 가능성을 제기했다. 야권에서는 “김용현 해외 도피가 확실시된다”며 “즉각 출국금지를 청한다”는 주장이 제기됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>박안수 “국회 진입 통제 안해” 조지호 “박안수가 요청”</title>
-      <link>https://www.chosun.com/national/2024/12/05/EZLCY3MC6BE5LIXZIBZKYYZCVY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2024/12/05/EZLCY3MC6BE5LIXZIBZKYYZCVY/</guid>
-      <dc:creator>주형식 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 05 Dec 2024 04:49:53 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RS5IVR5KPBN2PP3WBSAUQ6TKAE.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;계엄사령관을 맡았던 박안수 육군참모총장이 5일 오전 서울 여의도 국회에서 열린 국방위원회 전체회의 비상계엄 선포 경과 및 병력동원 관련 현안질의에 출석해 의원 질의를 듣고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 3일 윤석열 대통령의 비상계엄 선포 후 국회 통제가 이뤄진 것과 관련해, 당시 계엄사령관이었던 박안수 육군참모총장과 조지호 경찰청장의 주장이 배치돼 논란이다. 국회를 한때 전면 통제했던 조지호 청장은 박안수 당시 계엄사령관이 밤 11시 30분쯤 직접 전화를 걸어 “국회 전체를 통제해줬으면 좋겠다”고 요청했다고 주장했다. 반면 박 총장은 국회 병력 투입 과정을 몰랐다고 주장했다.&lt;br&gt;&lt;br&gt;박안수 육군참모총장은 5일 국회 국방위원회 긴급 현안질의에 출석해 국회 병력 투입 과정을 몰랐다고 주장했다. 그는 계엄군의 국회 투입에 대해서도 “누가 결정했는지 정확히 모른다. 제가 통제 못했다”고 말했다. 중앙선거관리위원회 청사에 계엄군이 투입된 사실도 “몰랐다”고 답했다. 그러면서도 “윤석열 대통령에게 직접 받은 명령은 없다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/USE5Z2PAN5IFPADBKKQ7BABYDU.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;조지호 경찰청장이 5일 오전 서울 여의도 국회에서 열린 비상계엄 관련 행정안전위원회 전체회의에 출석해 의원 질의에 답하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;반면 같은날 국회 행정안전위원회 긴급 현안질의에 출석한 조지호 경찰청장은 비상계엄 당시 국회 출입통제와 관련해 박안수 당시 계엄사령관의 요청을 받았다고 주장했다. 조 청장은 “처음에는 제가 법적 근거가 없어서 못 한다고 거부했다”며 이후 포고령 내용을 확인하고 서울경찰청에 전체 국회 출입통제 지시를 내렸다고 밝혔다. 포고령 1호에 있던 ‘국회와 지방의회, 정당의 활동과 정치적 결사, 집회, 시위 등 일체의 정치활동을 금한다’는 규정을 근거로 했다고 덧붙였다.그러면서 “계엄사령관의 포고령이 발령되면 모든 행정기관은 이를 따를 의무가 생긴다”고 강조했다.&lt;br&gt;&lt;br&gt;이에 김성회 민주당 의원이 “박안수 사령관은 지금 국회 병력 투입을 지시하지 않았다고 말했다. 직접 통화한 것이냐”고 묻자 조 청장은 “그렇다”고 답했다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/RS5IVR5KPBN2PP3WBSAUQ6TKAE.JPG?width=5472&amp;height=3648&amp;auth=33497dc41e7e2d7f2b8daf99c491f2adabf9bf7096d4e74c0f566d8e3b7e7026&amp;smart=true" type="image/jpeg" height="3648" width="5472">
-        <media:description type="plain">(서울=뉴스1) 이광호 기자 = 계엄사령관을 맡았던 박안수 육군참모총장이 5일 오전 서울 여의도 국회에서 열린 국방위원회 전체회의 비상계엄 선포 경과 및 병력동원 관련 현안질의에 출석해 의원 질의를 듣고 있다. 2024.12.5/뉴스1</media:description>
-        <media:credit role="author" scheme="urn:ebu">(서울=뉴스1) 이광호 기자</media:credit>
-      </media:content>
-    </item>
-    <item>
-      <title>중앙지검 “민주당 주도 탄핵 남용으로 민생범죄 수사마비 우려”</title>
-      <link>https://www.chosun.com/national/court_law/2024/12/05/LFZSLUZ6GVGSVJTYEJJTBGOJOA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/05/LFZSLUZ6GVGSVJTYEJJTBGOJOA/</guid>
-      <dc:creator>유희곤 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 05 Dec 2024 04:49:55 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6UUQCFCT25LCDKAKKIXBCWNZSU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;5일 국회 본회의에서 최재해 감사원장, 서울중앙지검 이창수 지검장·조상원 4차장·최재훈 반부패수사2부장에 대한 탄핵소추안이 가결되고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지검이 5일 이창수 지검장·조상원 4차장·최재훈 반부패수사2부장에 대한 탄핵소추안이 국회 본회의에서 가결되자 주요 사건과 민생범죄 수사 마비가 우려된다고 비판했다.&lt;br&gt;&lt;br&gt;중앙지검은 취재진에게 배포한 입장문에서 “특정사건에 대한 봐주기 수사 등을 해 평등원칙과 정치적 중립 의무 등을 위반했다는 게 탄핵 사유인데, 아무리 소추안을 봐도 사건 처리에 대한 불복을 바라는 것일뿐 헌법상 탄핵 사유라고 보기 어렵다”고 했다.&lt;br&gt;&lt;br&gt;중앙지검 4차장 산하 반부패수사2부는 지난 10월 17일 도이치모터스 주가 조작 의혹 사건과 관련해 윤석열 대통령 배우자 김건희 여사를 무혐의 처분했다.&lt;br&gt;&lt;br&gt;중앙지검은 “검사가 법과 원칙에 의해 수사하고 증거와 법리에 따라 사건을 처리한 것은 탄핵 사유가 될 수 없다”면서 “(더불어민주당의) 탄핵소추권 남용으로 검찰 지휘체계가 무너져 주요 현안사건뿐 아니라 유사수신·불법사금융·보이스피싱·디지털성범죄·마약사건 등 국민의 생명·건강·재산과 관련된 민생범죄 수사도 마비가 우려된다”고 했다.&lt;br&gt;&lt;br&gt;그러면서 “엄중한 시기에 직무대행 체제에서 국민 피해가 발생하지 않도록 각종 민생사건 등에 대한 수사와 재판을 차질없이 진행하도록 최선을 다하겠다”고 했다.&lt;br&gt;&lt;br&gt;이날 국회의 탄핵 의결로 탄핵 대상 검사들의 직무는 정지되고, 서울중앙지검은 당분간 직무대행 체제로 운영된다. 이창수 지검장 업무는 박승환 1차장이 맡고, 조상원 4차장 직무는 공봉숙 2차장과 이성식 3차장이 분담한다. 최재훈 부장 업무는 이승학 반부패수사3부장이 한다.&lt;br&gt;&lt;br&gt;퇴직 검사 모임인 검찰동우회도 이날 &amp;lt;더불어민주당의 검사들에 대한 탄핵소추를 강력 규탄한다&amp;gt;는 제목의 입장문을 내고 민주당의 탄핵 의결을 “법치주의의 근간인 검찰의 독립성과 중립성을 파괴하는 반헌법적 만행”이라고 비판했다. 그러면서 헌법재판소에 탄핵 소추를 즉각 각하하라고 요구했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>동덕여대 총학생회 본관 점거 농성 종료...”불법행위 규정, 더이상 어려워”</title>
       <link>https://www.chosun.com/national/national_general/2024/12/05/YV4DUEGFXZF35MU6QCVCWMYQL4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/05/YV4DUEGFXZF35MU6QCVCWMYQL4/</guid>
@@ -661,42 +794,6 @@
       <description/>
       <pubDate>Thu, 05 Dec 2024 04:07:21 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/E2Q2ZZVRANKEXPCNITHVOWJSPM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;3일 오후 남녀공학 전환을 요구하는 문구가 가득 적힌 서울 성북구 동덕여대 캠퍼스 도로 위로 한 학생이 걸어가고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;동덕여대 총학생회가 캠퍼스 본관 건물 점거 농성을 중단했다.&lt;br&gt;&lt;br&gt;동덕여대 총학생회는 지난 4일 오후 12시 입장문을 내고 “대학본부에서 본관점거를 불법 행위로 규정하고 있으므로 본관을 더 이상 점거하기 어렵다”면서 “금일 새벽까지 진행된 본관 점거를 해제하는 것으로 결정했다”고 밝혔다. 그러면서 본부 측과 면담을 진행하고 요구 사안을 논의하겠다고 했다. 지난달 11일부터 본관 건물 점거 농성을 진행한 지 23일 만이다.&lt;br&gt;&lt;br&gt;그간 총학 측은 ‘남녀공학 전환 논의를 철회하라’는 입장을 유지해왔다. 지난달 말 학교 측과 총학이 수차례 면담하며 협상 물꼬가 트일 것으로 보였지만 총학생회는 본관 점거 농성을 이어갔고, 지난달 25일 면담 이후에는 “학교 측은 남녀공학 전환 논의를 완전히 철회하라”는 강경한 입장을 밝혔다.&lt;br&gt;&lt;br&gt;총학이 갑작스럽게 본관 점거를 철회하기로 결정한 데에는 학교 측에서 취한 형사 조치가 영향을 끼친 것으로 풀이된다. 지난달 28일 학교 측은 서울북부지법에 본관 점거 관련 가처분소송을 냈고, 총학생회장을 포함해 학생 21명을 서울지방경찰청에 고소했다. 학생들은 공동재물손괴, 공동건조물침입, 업무방해, 공동퇴거불응 혐의를 받는다.&lt;br&gt;&lt;br&gt;본관 점거 철회에 따라 ‘동덕여대 사태’는 일단락될 것으로 전망된다. 이른바 ‘동덕여대 사태’는 지난달 7일 학교 측이 공학 전환 논의를 진행 중이라는 소식이 알려지면서 촉발됐다. 총학 공지를 통해 해당 소식이 전해지자 학생들은 학교 건물을 점거하고 캠퍼스 곳곳에 래커 낙서를 하거나 기물을 파손하면서 학교 측과 형사 처벌을 놓고 대치해왔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>겨울철 추위 피해 車엔진룸 찾는 길고양이들… 사고 예방법은</title>
-      <link>https://www.chosun.com/national/national_general/2024/12/05/CZTYQ76PWZHQZNOBP474HKARV4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/05/CZTYQ76PWZHQZNOBP474HKARV4/</guid>
-      <dc:creator>박선민 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 05 Dec 2024 04:46:53 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/455Z7UDZJZAIFE2YAK5ZTXVG7U.png"&gt;&lt;figcaption&gt;&lt;small&gt;/부산동물사랑길고양이보호연대&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;겨울철 길고양이가 추위를 피하고자 차량 엔진룸 등에 숨어드는 경우가 종종 발생하는 가운데, 한 동물단체가 이로 인한 피해를 예방하기 위한 캠페인을 전개했다.&lt;br&gt;&lt;br&gt;부산동물사랑길고양이보호연대는 지난달 28일 길고양이가 겨울철 추위를 피하기 위해 차량본네트 등에 들어갔다가 엔진룸에서 발생하는 열로 인해 화상을 입거나 죽는 사례를 전하며 이를 예방하기 위한 ‘모닝노크 4단계’ 캠페인을 공개했다.&lt;br&gt;&lt;br&gt;캠페인에는 ▲시동 전 똑!똑!똑! 엔진룸 두드리기 ▲차 문 크게 닫기 ▲좌석에 앉아 발 구르기 ▲경적 울리기 등 4개 단계를 통해 길고양이가 인척을 느끼고 달아날 수 있도록 하는 내용이 담겼다. 단체 측은 단체 측은 차주도 차량 손실 피해를 보기도 하고 일부 카센터에서는 끔찍한 모습을 봐야 하기 때문에 수리를 꺼리기도 한다며 이를 막기 위해 이번 캠페인을 계획했다고 덧붙였다.&lt;br&gt;&lt;br&gt;단체 측은 지난 1일부터 부산 16개구 반려인들과 관할 구청 동물부서팀과 함께 캠페인을 시민들에게 확산하기 위해 거리에 나서고 있다. 부산뿐 아니라 밀양, 서울 성북구에서도 함께 참여 중이다. 앞으로 모닝노크 캠페인을 전국으로 확산시키겠다는 계획이다.&lt;br&gt;&lt;br&gt;실제로 고양이가 차량 엔진룸에 들어가는 사례는 추운 겨울철에 특히 자주 발생한다. 강원도소방본부에 따르면, 2019년부터 3년간 강원도 내에서 자동차 엔진룸에 들어간 고양이를 대상으로 진행한 구조활동은 총 104건인데, 이 가운데 34.6%인 36건이 날씨가 추워지는 겨울철에 집중됐다.&lt;br&gt;&lt;br&gt;문제는 고양이가 엔진룸에 들어간 걸 모르고 시동을 켤 경우, 사고가 발생할 수 있다는 점이다. 고장을 유발해 차량이 멈추거나, 주행 중 고양이가 엔진룸에서 갑자기 튀어나와 로드킬이나 2차 교통사고로 이어지는 등의 사고가 발생할 수 있다. 이 때문에 소방당국이나 동물단체 등은 매년 겨울철이 되면 운전 전 고양이가 차량 내부에 들어왔는지 여부를 확인하라고 요구하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[단독] 김영선, 21대 총선 때도 정치자금법 위반 의혹… 明에 “빌린 3000만원 진술 말아달라” 말맞추기 시도</title>
-      <link>https://www.chosun.com/national/court_law/2024/12/05/GTXQ3LP24FGAFBE4OKO75MOQYE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/05/GTXQ3LP24FGAFBE4OKO75MOQYE/</guid>
-      <dc:creator>창원=이민준 기자, 창원=김준호 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 05 Dec 2024 03:14:31 +0000</pubDate>
-      <content:encoded>정치자금법 위반 혐의로 구속 기소된 김영선 전 의원이 지난달 15일 구속되기 전에 정치 브로커 명태균씨를 만나 “2020년 4월 21대 총선을 앞두고 빌린 선거비용 3000만원에 대해 검찰에 진술하지 않으면 좋겠다”는 취지로 말한 것으로 5일 전해졌다. 법조계와 지역 정가에선 정치자금법 위반 혐의가 추가될 것을 우려한 김 전 의원이 명씨와 말을 맞추려 시도했다는 지적이 나온다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/I5KIDZBP4M36KRNFCJHNOLCHJE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;'윤석열 대통령 부부 공천 개입' 의혹의 핵심 인물인 정치 브로커 명태균(왼쪽)씨와 김영선 전 의원. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 김 전 의원은 지난달 3일 창원지검에서 정치자금법 위반 혐의 피의자 신분으로 조사를 받고, 이틀 후인 5일 경남 창녕군 모처에서 명씨를 만나 이같이 부탁한 것으로 알려졌다. 김 전 의원은 명씨를 만날 때 수십쪽 분량의 메모를 자필로 써온 뒤 명씨의 기억과 대조한 것으로도 전해졌다.&lt;br&gt;&lt;br&gt;김 전 의원은 지난 2020년 21대 총선 당시 경남 창원시 진해구 국회의원 선거에 예비 후보로 출마했으나, 경선에서 탈락해 공천을 받지 못했다. 명씨 측 관계자는 “당시 김 전 의원이 여론조사 비용 등이 없다고 하자 명씨가 3000만원을 빌려줬다”며 “명씨는 아직 이 돈을 돌려받지 못한 것으로 안다”고 했다.&lt;br&gt;&lt;br&gt;김 전 의원은 당시 명씨에게 이자 등을 약정하지 않았고 차용증도 작성하지 않은 것으로 전해졌다. 지난 9월 검찰 수사가 본격화하면서 2022년 6월 국회의원 보궐선거 이후 명씨에게 건넨 돈이 문제가 되자, 2년 전 명씨에게 받은 돈도 정치자금법 위반 혐의가 적용될 것을 우려한 것으로 보인다.&lt;br&gt;&lt;br&gt;다만 명씨는 김 전 의원 부탁을 사실상 거절하며 과거 김 전 의원에게 여러 차례 돈을 빌려줬다는 취지로 검찰에 진술했다고 한다. 두 사람의 21대 총선 당시 돈 거래는 검찰이 지난 3일 김 전 의원과 명씨를 구속 기소하면서 적용한 범죄 혐의에는 포함되지 않았다.&lt;br&gt;&lt;br&gt;한편, 명씨는 2022년 8월부터 작년 1월까지 김 전 의원에게 받은 8070만원에 대해 “빌려준 돈 6000만원을 돌려받았을 뿐”이라고 했지만, 기소 직전 검찰 조사에서는 “총괄본부장으로 일하고, 월급 명목으로 세비를 받았다”고 말을 바꿔 금품 수수 사실을 일부 인정한 것으로 전해졌다. 다만 명씨는 김 전 의원의 공천을 도운 대가로 받았다는 혐의는 여전히 부인하는 것으로 전해졌다.&lt;br&gt;&lt;br&gt;검찰은 지난 4일에 이어 이날도 명씨를 소환해 여론조사 조작 의혹을 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[속보]조지호 경찰청장 “계엄사령관 요청에 따라 국회 통제”</title>
-      <link>https://www.chosun.com/national/national_general/2024/12/05/WUKAPBZL2FHIDHZRXYPUQQL6DE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/05/WUKAPBZL2FHIDHZRXYPUQQL6DE/</guid>
-      <dc:creator>구아모 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 05 Dec 2024 02:50:58 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PXKHAHZDPJP5FJLIDHG5IN4UYI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;5일 오전 서울 여의도 국회에서 열린 행정안전위원회 전체회의 비상계엄 관련 긴급 현안질의에서 조지호 경찰청장이 의원질의에 답하고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;조지호 경찰청장이 박안수 계엄사령부로부터 요청을 받아 헌법과 계엄법에 따라 국회를 전면 통제했다고 밝혔다. 조 청장은 5일 오전 국회 행정안전위원회 전체 회의에 출석해 ‘비상계엄 관련 긴급 현안 질의’에서 이같이 발언했다.&lt;br&gt;&lt;br&gt;조 청장은 용혜인 기본소득당 의원의 “경찰 병력이 국회를 봉쇄하고 국회의원의 출입을 막아 헌법적 권능 행사를 불가능하게 한 행위는 12·12 군사반란과 동일한 내란죄에 해당하지 않느냐”는 질의에  “계엄사령부의 요청에 따라 헌법과 계엄법에 근거해 조치한 것”이라고 밝혔다.&lt;br&gt;&lt;br&gt;조 청장은 이상식 더불어민주당 의원의 “계엄사령부의 포고령과 헌법 중 무엇이 더 중요하냐”는 질문에 “포고령은 헌법의 위임을 받아 만들어지는 것”이라며 “계엄이 선포되고 계엄사령관의 포고령이 발령되면 모든 행정기관은 이를 준수해야 할 의무가 있다”고 답했다.&lt;br&gt;&lt;br&gt;김봉식 서울경찰청장은 이날 회의에서 “계엄사의 포고령이 공포되었으며 본청으로부터 관련 지침을 받아 23시 37분경부터 국회 출입을 전면 통제했다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>문형배 헌재소장 권한대행 “6인 체제서도 사건 심리 가능”</title>
-      <link>https://www.chosun.com/national/court_law/2024/12/05/ADA5ULX4YZESXHEXUQLP4TFA34/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/05/ADA5ULX4YZESXHEXUQLP4TFA34/</guid>
-      <dc:creator>박강현 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 05 Dec 2024 02:57:48 +0000</pubDate>
-      <content:encoded>문형배 헌법재판소장 권한대행이 5일 ‘재판관 6인 체제’에서도 “최소한 변론을 할 수 있다고 생각한다”며 사건을 심리할 수 있다는 취지로 말했다. 다만 문 권한대행은 탄핵심판의 결정에 대해선 “(내부) 논의를 해볼 것”이라고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Y7CCYKXRYJNMLDGPPTTHGPSNU4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;문형배 헌법재판소장 권한대행. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;문 권한대행은 이날 오전 서울 종로구 헌재 출근길에서 ‘6인 체제에서 사건 심리를 해야되는 상황이다’라는 취재진 질문에 “구체적 사건과 관계없이 일반론으로 헌법재판소법 23조 1항에 대한 효력정지 가처분 결정에 따라 최소한 변론을 할 수 있다”고 말했다.&lt;br&gt;&lt;br&gt;이어 ‘재판관 3명이 채워져야 본격적으로 심리할 수 있는가’란 질문엔 “저는 그렇게 생각하지 않는다”고 말했다.&lt;br&gt;&lt;br&gt;하지만 문 권한대행은 ‘(탄핵)결정까지도 가능한가’라고 묻자 “논의해 보겠다”라고 짧게 대답했다. ‘위헌성 논란을 이제 생각해보겠다는 말씀인가’라는 물음에도 “현재까지 논의한 건 없다”고 했다.&lt;br&gt;&lt;br&gt;헌재는 재판관 9명으로 구성돼야 하지만, 지난 10월 이종석 소장과 이영진·김기영 재판관이 퇴임한 후 국회 몫 후임이 임명되지 않아 현재 ‘6인 체제’로 운영되고 있다.&lt;br&gt;&lt;br&gt;헌재법은 재판관이 최소 7명 있어야 사건을 심리할 수 있다고 규정하지만, 헌재는 이진숙 방송통신위원장의 가처분 신청을 받아들여 이 조항의 효력을 스스로 정지시켰다.&lt;br&gt;&lt;br&gt;이에 따라 남은 재판관들만으로도 공개 변론이나 내부 심리 등을 진행할 수 있게 됐다. 재판관 6명이 모두 찬성하는 경우 이론적으로 탄핵이나 위헌 등 결정도 내릴 수 있다. 그러나 법조계에선 “부담이 큰 탄핵심판 결정을 6명이 내리긴 어려울 것”이라는 전망이 나오고 있다.&lt;br&gt;&lt;br&gt;한편 이날 더불어민주당은 오는 7일 윤석열 대통령에 대한 탄핵소추안을 의결하겠다고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[속보] 이상민 “尹 계엄령 국무회의 때 반대 표명 장관은 두어명 정도”</title>
@@ -726,64 +823,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GCUJRKV2CNPEDIFSH4UCDZC3NY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;조규홍 보건복지부 장관이 5일 국회에서 열린 보건복지위원회 전체회의에서 의원 질의에 답하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;조규홍 보건복지부 장관은 윤석열 대통령의 비상계엄 선포와 관련해 “동의하지 않았다”고 5일 밝혔다.&lt;br&gt;&lt;br&gt;조 장관은 이날 국회에서 열린 보건복지위원회 전체 회의에 참석해 윤 대통령의 계엄 선포에 동의했느냐는 김선민 조국혁신당 의원의 질의에 이같이 답했다. 김 의원이 “계엄이 위법이고 위헌이라는 데 동의하냐”고 묻자, 조 장관은 “동의한다”고 답했다.&lt;br&gt;&lt;br&gt;조 장관은 국무회의 참석 시간과 관련해 “(3일 밤) 10시 17분에 참석했다가 10시 45분 회의실에서 나왔다”고 했다. 국무회의 내용에 대해서는 “밤 9시부터 시작한 것으로 보이는데 늦게 도착해 그 전에 논의한 내용은 모른다”고 했다.&lt;br&gt;&lt;br&gt;회의 당시 ‘몸을 던져 (계엄령을) 막은 장관들이 있었느냐’는 질문에는 “너무 놀랐고 경황이 없었다. 어떤 분이 어떤 말씀을 했는지 솔직히 기억이 나지 않는다”고 했다. &lt;br&gt;&lt;br&gt;다만 조 장관은 비상 계엄의 위헌 여부에 대해서는 한 발 물러서는 모습을 보이기도 했다. 조 장관은 회의 도중 발언 기회를 얻어 “아까 계엄이 위헌인지에 대한 질문에 제가 답변한 것이 보도가 되고 있다”며 “계엄령 선포에는 동의하지 않았지만 위헌인가에 대한 질문에 정확히 말씀드리면, 위헌 여부는 제가 판단할 사항이 아니라고 말씀드린다“고 했다. 그러면서 ”제가 상황 전반에 대해 잘 몰랐기 때문에 지금 이 자리에서 그것이 위헌이다 위법이다에 대한 판단을 하긴 좀 어렵다”고 덧붙였다.&lt;br&gt;&lt;br&gt;박희승 더불어민주당 의원이 “장관도 법을 공부했는데 책임 회피성으로 답변할 것은 아니다”라고 지적하자, 조 장관은 “책임 회피가 아니고 국무위원의 말 한마디 한마디가 중요하지 않느냐”며 “법률적 판단은 제가 하지 않는 게 맞는 것 같다”고 했다.&lt;br&gt;&lt;br&gt;‘전공의 미복귀시 처단’ 내용이 담긴 계엄사령부의 포고령에 대해 조 장관은 “전혀 동의할 수 없다”고 했다. 그는 “대화와 설득, 착실한 의료개혁을 통해 복귀를 유도한다는 정부 방침에 배치되고, 표현이 매우 거칠고 과격했다“며 ”(포고령) 6개 항목 중 유일하게 특정 직역에 대한 내용이었기 때문에 동의할 수 없다“고 했다. 그러면서 ”9000명이 넘는 전공의가 이미 사직한 것도 고려가 안 됐고, 9000명 중 50%의 의사가 의료현장에서 봉사하고 있다는 사실도 고려가 안 된 포고령이어서 놀랐고 동의할 수 없었다”고 했다.&lt;br&gt;&lt;br&gt;조 장관은 계엄 선포 이후 복지부 차관·1급 회의를 열어 ‘이탈 전공의 처단’ 등의 내용이 담긴 포고령 조항에 대해 논의했다고 밝혔다. 그는 “전공의 처단은 동의할 수 없는 거라고 생각했고, 전공의 복귀를 위해 우리가 어떤 노력을 해야할지 논의했다”고 말했다.&lt;br&gt;&lt;br&gt;조 장관은 4일 새벽 계엄 해제 국무회의에는 불참했다. 이와 관련해 조 장관은 “새벽 2시쯤 문자가 왔는데 새벽 4시쯤 알았다”며 “전화로 온 게 아니라 문자로 왔다. 문자를 인지하지 못했고, 참석했다면 해지 동의를 당연히 했을 것”이라고 했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>경찰청, 尹 ‘내란죄’ 고발 사건 안보수사단 배당…수사 착수      </title>
-      <link>https://www.chosun.com/national/national_general/2024/12/05/RN7VLMLLTFCQDG5MCWNFLMOENE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/05/RN7VLMLLTFCQDG5MCWNFLMOENE/</guid>
-      <dc:creator>구아모 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 05 Dec 2024 01:52:12 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7UB4NNVFDRQDNRWIBFVTGTEQHM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령이 대국민담화문을 열고 '비상계엄'을 선포한 3일 밤 서울역 대합실에서 시민들이 관련 뉴스를 시청하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰청은 조국 혁신당이 윤석열 대통령을 ‘내란죄’로 고발한 사건을 국가수사본부 안보수사단에 배당해 5일 수사에 착수했다.&lt;br&gt;&lt;br&gt;경찰은 고발 접수 후 사건의 성격과 수사 주체를 검토한 결과, 현행 형사사법 체계상 내란죄는 경찰의 수사 대상에 해당한다고 판단해 이를 안보수사단에 배당했다.&lt;br&gt;&lt;br&gt;앞서 조국혁신당 소속 의원들은 4일 서울 서대문구 미근동 경찰청 국가수사본부에 윤 대통령과 김용현 국방부 장관을 비롯해 박안수 계엄사령관, 이상민 행정안전부 장관, 목현태 국회경비대장 등에 대해 형법상 내란죄와 군형법상 반란죄 혐의로 고발장을 제출했다.&lt;br&gt;&lt;br&gt;고위공직자범죄수사처는 대통령이 수사 대상에 포함되지만, 내란죄는 공수처의 수사 가능 범죄 목록에 포함되지 않는다. 검찰 또한 ‘검수완박’ 이후 고위공직자에 대한 수사는 부패 범죄로 한정되어 있어 내란죄를 다룰 수 없는 상황이다.&lt;br&gt;&lt;br&gt;이번 내란죄 수사는 지난 2013년 이석기 전 통합진보당 의원 사건 이후 처음으로 진행되는 사례로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“부산 융복합 축제 ‘페스티벌 시월’ 성공적”…외국 관광객 늘고 소비 증가 효과</title>
-      <link>https://www.chosun.com/national/regional/yeongnam/2024/12/05/ZESG7ZDCRBGCVOIBJIMA2YOTBU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/yeongnam/2024/12/05/ZESG7ZDCRBGCVOIBJIMA2YOTBU/</guid>
-      <dc:creator>박주영 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 05 Dec 2024 01:57:41 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/I7W5ETP35NCSJI7BOBVUBXWQAA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 10월1~8일 부산에서 열린 '페스티벌 시월' 중 'K뮤직시즌 굿밤콘서트' 개최 모습./부산시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 10월 1~8일 부산에서 열린 전국 최초의 융복합 마이스 축제 ‘시월’(SHIWOL) 개최 성과를 분석한 결과, 전체 관람객이 크게 늘고 외국인 방문객 체류 기간이나 지출 규모도 증가한 것으로 나타났다.&lt;br&gt;&lt;br&gt;부산시는 영산대학교 산학협력단에 의뢰해 ‘페스티벌 시월’에서 참여 행사별 관람객 변화, 도시관광수요 확대 효과 등 관련한 성과를 빅데이터와 설문조사 활용해 분석한 결과를 5일 발표했다.&lt;br&gt;&lt;br&gt;‘페스티벌 시월(SHIWOL)’은 미국 텍사스 오스틴에서 열리는 세계 최대 융복합 축제인 ‘사우스 바이 사우스웨스트(SXSW)’를 벤치마킹해 ‘시월의 바람’이라는 주제로 기획한 행사다. 이 기간 부산서 따로 열리던 음악, 영화, 문화, 음식, 산업, 기술 등 6개 분야 17개 개별 행사를 ‘시월’이란 브랜드로 연결해 하나의 융복합 축제로 진행됐다.&lt;br&gt;&lt;br&gt;영산대 산학렵력단 분석 결과, ‘시월’의 17개 참여 행사에 참여한 관람객은 39만1592명으로, 지난해 개별 행사 개최 때에 비해 9만2689명이 늘어났다. 33% 포인트 증가한 것이다. 한국관광공사 빅데이터에 따르면 ‘시월’ 기간 부산 외국인 방문객 증가율은 지난해 같은 기간 대비 77%가 늘었다. 이는 국내 평균인 53%보다 훨씬 높았다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/H56KYXFEQJGYBC2SLJWLUX3Y3E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 10월1~8일 부산에서 열린 '페스티벌 시월' 중 한 행사인 '수제맥주마스터스챌린지'가 열리고 있다./부산시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;또 평균 숙박 일수, 4박 이상 숙박자 비율, 10월 외국인 숙박자 수도 늘어나 ‘시월’이 관광객 체류 기간 연장에 기여한 것으로 확인됐다. ‘시월’ 기간 외국인 방문객의 관광업종 신용카드 지출액은 작년 동기 대비 68억원 증가했다.&lt;br&gt;&lt;br&gt;부산시 고미진 관광마이스산업과장은 “평소 월별 국내 전체 외국인 관광객 소비액 중 부산이 차지하는 비중은 평균 9∼10% 수준인데 올해 10월에는 21%로 상승했다”며 “그만큼 외국인 관광객이 10월 중 부산에서 더 많은 돈을 썼다는 뜻”이라고 말했다.&lt;br&gt;&lt;br&gt;박근록 부산시 관광마이스국장은 “이번 성과 조사를 통해 ‘페스티벌 시월’이 전시, 이벤트와 공연, 문화예술 분야를 융합·확장해 새로운 도시관광 수요를 창출하고 비즈니스 플랫폼으로 기능할 수 있다는 걸 확인했다”며 “내년에는 일부 문제점을 보완해 ‘시월’이 세계적 융복합 축제로 성장할 수 있도록 노력하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>종로구 “광화문광장 일대 뉴욕 타임스스퀘어처럼”</title>
-      <link>https://www.chosun.com/national/national_general/2024/12/05/46KABSLISNCWXNCQW5ZCJB4DEU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/05/46KABSLISNCWXNCQW5ZCJB4DEU/</guid>
-      <dc:creator>박진성 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 05 Dec 2024 01:11:37 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/S6KXNZNS4VFTDKSZ43NEN4NKPE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;광화문 스퀘어 조감도/종로구&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 종로구(구청장 정문헌)는 오는 6일 구청에서 ‘광화문 스퀘어 옥외광고물 자유표시구역 민관합동협의회 출범식’을 개최한다고 5일 밝혔다.&lt;br&gt;&lt;br&gt;광화문광장 일대가 뉴욕 타임스스퀘어와 같은 세계적인 옥외광고 명소로 거듭날 수 있도록 민관협력을 통해 체계적으로 사업을 추진하기 위해서다.&lt;br&gt;&lt;br&gt;협의회는 법률·회계·옥외광고 분야별 전문가를 포함한 당연직, 위촉직 위원 총 23명으로 구성됐다. 민간 중심의 자율적인 기구로 외부 전문가를 영입해 공공성을 확보하고, 사무국을 중심으로 투명하고 합리적으로 공공기여금을 관리할 계획이다.&lt;br&gt;&lt;br&gt;협의회는 출범식을 시작으로 구역 내 이해관계 조정, 합리적 의사결정뿐만 아니라 국가적 상징성을 가진 광화문광장을 하나의 미디어 캔버스로 만드는 데 함께한다.&lt;br&gt;&lt;br&gt;출범식에는 서울시, 종로구, 행정안전부, 동아일보, KT, 교보생명, 코리아나호텔, 동화투자개발, 세광빌딩, 국호빌딩, 제일기획 관계자가 참석한 가운데 진행된다.&lt;br&gt;&lt;br&gt;광화문 스퀘어 내 옥외광고물 구축은 2033년까지 총 3단계에 걸쳐 이뤄진다. 대상지는 광화문광장, 의정부터, 대한민국역사박물관, 미국대사관을 포함하는 인근 9개 건물과 세종대로 우측로 일원이다.&lt;br&gt;&lt;br&gt;1단계 도입기인 2026년까지는 전통문화에 미래 기술을 더해 광화문 스퀘어 사업의 기반을 다진다. 2025년 3월 코리아나 호텔을 시작으로 연말까지 동아일보, 국호빌딩, 세광빌딩, KT, 동화면세점에 차례로 전광판을 설치한다. 관련 축제도 계획하고 있다.&lt;br&gt;&lt;br&gt;정문헌 구청장은 “올해 1월 자유표시구역 지정에 협의회 출범까지 더해 광화문 스퀘어 사업에 가속도가 붙게 됐다”면서 “신기술과 옥외광고가 만난 세계적인 관광명소로 거듭날 광화문의 모습을 기대해도 좋다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>부산도시공사 신임 사장에 신창호 전 부산시 경제실장 </title>
-      <link>https://www.chosun.com/national/regional/yeongnam/2024/12/05/MAQ7UOCK6NB2DDTCS5LGWMQD3U/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/yeongnam/2024/12/05/MAQ7UOCK6NB2DDTCS5LGWMQD3U/</guid>
-      <dc:creator>박주영 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 05 Dec 2024 01:12:51 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MXV26WCZMBCRDBRKCFHR3DDBFY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;신창호 부산도시공사 사장,/부산시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산시는 5일 오전 제14대 부산도시공사 사장에 신창호(58) 전 부산시 디지털경제실장을 임명한다고 밝혔다. 부산도시공사는 시민의 주거생활 안정과 복지향상, 지역사회 발전에 이바지하는 것을 목표로 설립된 공기업으로 행복주택 건설, 센텀2 도시첨단산업단지·가덕도신공항 복합도시 조성 등 사업을 진행하고 있다.&lt;br&gt;&lt;br&gt;신 신임 사장 임기는 3년이다. 신 사장은 1994년 제37기 행정고시로 공직에 입문해 30여 년간 부산시에서 근무하면서 산업통상국장, 미래산업국장, 디지털경제실장 등 경제 산업 분야의 지역 현안을 처리해왔다. 가덕도신공항 복합도시, 센텀2지구 도시첨단산업단지 등 도시공사 사업 추진에 있어 강점이 될 것으로 기대된다”고 말했다.&lt;br&gt;&lt;br&gt;신 사장은 “부산 도시경제 생태계를 구축해 지역 경제 활성화에 기여하고, 수요자 맞춤형 주택 공급을 통해 주거복지를 실현하겠다”며 “부산 사람으로서 사명감을 갖고 부산 발전과 지속 성장을 위한 핵심사업을 차질 없이 추진해 시민이 체감할 수 있는 변화를 만들어 갈 것”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>﻿‘강남 8학군’ 대학 진학률 전국 꼴찌…그 이유는</title>
-      <link>https://www.chosun.com/national/national_general/2024/12/05/HUIDTORCNJER5IGT5CFDU5Y4E4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/05/HUIDTORCNJER5IGT5CFDU5Y4E4/</guid>
-      <dc:creator>이가영 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 04 Dec 2024 23:57:05 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZN2XAUNMWRJEZPQAXDBV3OBFY4.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;16일 서울 종로구 성균관대학교 600주년기념관에서 열린 2025학년도 수시모집 논술시험에서 한 수험생이 두 손을 모으고 기도하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘강남 8학군’으로 불리는 서울 강남구와 서초구의 대학 진학률이 전국에서 가장 낮은 수준으로 나타났다. 대학 진학자가 절반도 되지 않았다.&lt;br&gt;&lt;br&gt;종로학원은 학교알리미 공시 자료 등을 분석한 결과 서울 소재 고교의 2024학년도 대학 진학률은 61.3%로, 17개 시도 중 가장 낮았다고 5일 밝혔다. 이는 전국 평균 73.6%보다 12.3%포인트 낮은 수치다. 서울은 2000년 이후 25년 연속 최하위 대학 진학률을 기록했다.&lt;br&gt;&lt;br&gt;그중에서도 강남구 고교의 대학 진학률이 47.4%로 가장 낮았다. 이는 전국 시군구 229곳 중 최저 수치다. 강남구 고교의 대학 진학률은 2021학년도 53.8%, 2022학년도 52.6%, 2023학년도 48.5% 등으로 지속해서 낮아지는 추세다. 서초구 소재 고교의 2024학년도 대학 진학률도 53.7%로 절반을 약간 넘는 수준이었다.&lt;br&gt;&lt;br&gt;학교별로 보면 일반고 중에서는 강남구 소재 단대부고의 대학 진학률이 40.9%에 불과했다. 강남구에 있는 청담고(43.9%), 영동고(47.5%), 진선여고(47.1%)와 서초구에 있는 서울고(49.7%), 서문여고(49.4%)도 절반을 넘지 못했다.&lt;br&gt;&lt;br&gt;강남구와 서초구 학생들의 진학률이 낮은 것은 원하는 대학에 진학하지 못할 경우 대부분 재수를 택하기 때문이다. 종로학원 관계자는 “강남 8학군 학생들은 다른 지역과 비교할 때 성적이 좋은 편이지만, 그로 인해 모집 비율이 큰 내신 중심의 수시 모집에서는 원하는 결과를 얻기가 힘들다”며 “게다가 다른 지역에 비해 서울 주요 대학과 의약학 계열을 지망하는 학생들이 많아 재수 비율이 월등히 높은 영향으로 보인다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>죽순 먹다가 덜덜덜…中 판다기지 “푸바오 검사결과 정상”</title>
-      <link>https://www.chosun.com/national/national_general/2024/12/05/TGUHMCUMOZCIZM6QYZADRKJ3RA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/05/TGUHMCUMOZCIZM6QYZADRKJ3RA/</guid>
-      <dc:creator>김명일 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 04 Dec 2024 23:51:02 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XT2LHW4A55GI3IOWWCAOD7RTWE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;기지 측이 공개한 푸바오의 모습. /웨이보&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한국에서 중국으로 반환된 자이언트 판다 ‘푸바오’에게서 이상징후가 발견됐지만 판다기지 측은 “검사결과 정상”이라고 밝혔다.&lt;br&gt;&lt;br&gt;4일 푸바오가 사는 중국 쓰촨성 청두 판다 기지는 웨이보(중국판 엑스)를 통해 “전날 이상징후 발견 직후 사육사와 수의사를 배치해 24시간 밀착 관찰했다”면서 “푸바오의 정신, 식욕, 움직임, 배변 활동은 모두 정상”이라고 밝혔다.&lt;br&gt;&lt;br&gt;기지 측은 “걸음걸이는 안정적이고 사지에 힘이 있으며 체온과 심장박동, 호흡 모두 정상”이라며 “혈액과 대소변 검사 결과도 이상이 없었다”고 했다.&lt;br&gt;&lt;br&gt;다만 기지 측은 “앞으로 2∼3일간 더 관찰하기 위해 야외 운동장에는 가지 않을 것”이라고 했다. 그러면서 푸바오의 최신 모습을 담은 영상도 공개했다.&lt;br&gt;&lt;br&gt;기지 측은 푸바오에게서 나타난 이상징후가 무엇이었는지, 원인이 무엇이었는지 등 구체적인 내용은 밝히지 않았다.&lt;br&gt;&lt;br&gt;앞서 지난 3일 푸바오의 중국 팬이 운영하는 소셜미디어 계정 등에는 푸바오가 죽순을 먹다가 몸을 덜덜 떨며 경련을 일으키는 듯한 모습이 담긴 영상이 다수 올라온 바 있다.&lt;br&gt;&lt;br&gt;푸바오는 2016년 3월 시진핑 중국 국가주석이 한중 친선 도모의 상징으로 보내온 판다 러바오와 아이바오 사이에서 2020년 7월 20일 태어났다. 푸바오는 국내에서 머물다 지난 4월 중국으로 반환됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/IGGKPYXOXFG4RF7OQAPWPRWPUY.jpg?width=824&amp;height=618&amp;auth=5bf2624a402b2fd804ad2b3dba84ab065627a538668c2ba23c87e34ea81ae02a&amp;smart=true" type="image/jpeg" height="618" width="824">
-        <media:description type="plain">기지 측이 공개한 푸바오의 모습. /웨이보</media:description>
-        <media:credit role="author" scheme="urn:ebu"/>
-      </media:content>
-    </item>
-    <item>
       <title>‘미복귀 전공의 처단’ 선포에… 사실상 멈춰버린 의료 개혁</title>
       <link>https://www.chosun.com/national/welfare-medical/2024/12/05/DZAYVG2XJZBWHKUPF5EMXSZZ24/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/12/05/DZAYVG2XJZBWHKUPF5EMXSZZ24/</guid>
@@ -800,15 +839,6 @@
       <description>4일 전국민주노동조합총연맹(민주노총)은 비상 계엄을 선포했다가 해제한 윤석열 대통령을 ‘내란범’이라고 지칭하며 “윤석열 정권 퇴진시까지 무기한 전면 총파업에 돌입한다”고 밝혔다.</description>
       <pubDate>Wed, 04 Dec 2024 15:55:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WFLK423I4RDILEE5CLVL6ODMNM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;4일 오후 서울 동화면세점 앞에서 열린 '내란죄 윤석열 퇴진! 시민촛불' 집회에서 전국민주노동조합총연맹을 비롯한 참석자들이 촛불과 피켓을 들고 있다. /박상훈 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전국민주노동조합총연맹(민주노총)은 4일 “윤석열 정권 퇴진 시까지 무기한 전면 총파업에 돌입한다”고 밝혔다. 이들은 5일 공공 부문 파업을 시작으로 6일엔 탄핵 촉구 총파업대회, 7일엔 ‘윤석열 정권 퇴진 3차 총궐기 범국민대회’도 연다. 노동계 전문가들은 민주노총이 ‘정치 파업’을 하겠다는 뜻이란 분석을 내놓고 있다. 비상계엄 사태를 동력으로 파업을 무기 삼은 후 정권 퇴진 주장을 본격화한다는 것이다.&lt;br&gt;&lt;br&gt;양경수 민주노총 위원장은 이날 오전 서울 정동 사무실에서 기자회견을 열어 “’생산’을 멈춰 윤석열 정권의 폭주를 막겠다”며 “윤석열을 끌어내리고 처벌하기 위해 총력을 다해 싸울 것”이라고 했다. 이날 오후 6시부턴 서울 광화문 광장에서 정권 퇴진 구호를 앞세운 촛불집회도 열었다. 집회에는 2000명가량이 모였는데, 참석자들은 촛불을 들고 ‘윤석열 퇴진’을 외치며 대통령실이 있는 용산으로 행진을 하기도 했다. 한 노동계 인사는 “박근혜 전 대통령 탄핵에 결정적 역할을 했던 촛불집회 때처럼 정권 퇴진 동력을 만들려는 것 같다”며 “조직력과 자금을 갖춘 민주노총이 주도적 역할을 맡은 것”이라고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3RP46ZFX2NFSHFG4GHAR3UUGOM.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=양인성&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;민주노총은 4일 오전 중앙집행위원회에서의 총파업 결의를 시작으로 일부 산별 노조의 집행위원회 결의 등을 마쳤다. 민주노총 산하 최대 산별 노조 중 하나인 금속노조도 11일부터 전면 총파업에 돌입하겠다고 밝혔다.&lt;br&gt;&lt;br&gt;이는 파업을 위한 사전 작업을 진행한 것이다. 실제 개별 업체 노조에서 파업하려면 조합원 투표 등을 통해 쟁의권 확보 절차를 거쳐야 한다. 노동계 전문가들은 민주노총이 쟁의권을 확보한 곳에서 파업을 먼저 진행하고 이를 동력 삼아 파업 분위기를 확산할 것으로 보고 있다. 4일 밤 코레일과 철도 노조 협상도 결렬됐다. 민주노총은 이날 “이제 심판의 시간”이라며 “국민과 함께 선두에 서서 윤석열 즉각 퇴진을 위해 투쟁해나갈 것”이라고 했다.&lt;br&gt;&lt;br&gt;총파업의 시작은 5일 철도 노조 파업이다. 코레일의 다수 노조인 철도 노조는 KTX와 일반 열차 외에 수도권 전철 1·3·4호선 일부와 수인분당선·경의중앙선·서해선 열차 등의 운행을 책임지고 있다. 6일엔 지하철 1~9호선 운행을 맡은 서울교통공사 노조가 파업에 나선다. 철도 노조와 서울교통공사 노조가 동시에 파업을 하는 건 2016년 이후 8년 만이다.&lt;br&gt;&lt;br&gt;파업이 시작되면 교통 대란이 불가피하다. 열차 운행이 평소의 70%로 줄어들기 때문이다. 이로 인해 배차 간격이 늘어나고 열차가 지연되면서 극심한 혼잡이 예상된다. 코레일 측은 “필수 인력과 대체 인력 등 1만4860명을 투입할 것”이라며 “KTX는 평소 대비 66~67%, 전철 75% 등 평소 대비 70%가량의 열차 운행률이 예상된다”고 했다. 서울교통공사도 “필수 인력과 대체 인력 1만3000명을 투입할 예정”이라며 “운행률은 73%가량으로 전망된다”고 했다.&lt;br&gt;&lt;br&gt;급식 종사자가 속한 전국교육공무직 본부가 6일부터 파업에 돌입하면 혼란은 더 커질 것으로 보인다. 지난 2022년 11월 파업이 일어났을 땐 전국 유·초·중·고교의 25.3%(3181곳)에서 정상 급식을 하지 못해 빵·우유 등 대체식을 지급했다.&lt;br&gt;&lt;br&gt;경영계에선 자동차·조선·건설·화학 등 주요 산업 현장에서의 연쇄 파업을 우려하고 있다. 한국경영자총협회는 이날 “정치 구호를 앞세운 총파업은 사회 혼란을 불러오고 국가 경제에 어려움을 가중시킬 수 있는 만큼 자제해달라”고 했다. 한국무역협회도 “비상사태가 법과 원칙에 따라 질서 있게 평시의 안정을 되찾은 만큼 노동계도 파업을 자제하고 경제 살리기에 동참해 달라”고 했다.&lt;br&gt;&lt;br&gt;민주노총과 달리 정부와 대화 기조를 유지해 오던 한국노총도 이날 비상계엄 선포를 이유로 노·사·정 사회적 대화 중단을 선언했다. 한국노총은 이날 “오늘부로 윤석열을 대한민국 대통령으로 인정할 수 없으며, 윤석열 정부를 사회적 대화 상대로도 인정할 수 없다”며 “정권 퇴진을 결의하고, 경제사회노동위원회 및 노동계 대표로 참여하는 정부 위원회 등에 불참하기로 했다”고 밝혔다. 이에 따라 사회적 대화 기구인 경사노위의 파행은 불가피해지고, 여기서 추진하던 정년 연장 등 사회적 과제에 대한 합의안 마련 작업도 중단될 것으로 보인다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>법원별 투표 대신 전국서 천거… 후보자 몰려</title>
-      <link>https://www.chosun.com/national/court_law/2024/12/05/XOMJHEDIXVFWFEQM7JJLW2JQZI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/05/XOMJHEDIXVFWFEQM7JJLW2JQZI/</guid>
-      <dc:creator>방극렬 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 04 Dec 2024 15:50:00 +0000</pubDate>
-      <content:encoded>법원마다 판사들이 투표로 법원장 후보를 선출하는 ‘법원장 후보 추천제’가 폐지된 이후 첫 법관 인사를 앞두고, 전국 각 법원 판사 150여 명이 법원장 후보자로 천거된 것으로 전해졌다. 법조계에서는 “법원장 후보 추천제를 없애니 능력 있는 판사들이 이전보다 많이 추천을 받았다”는 평가가 나왔다.&lt;br&gt;&lt;br&gt;4일 법조계에 따르면, 법원행정처는 내년 초 법원장으로 임명할 후보를 추천받는 절차를 지난달까지 마무리했다. 법원행정처는 이번에 소속과 직위를 가리지 않고 모든 사법부 구성원이 법원장에 적합한 판사를 추천하도록 했는데, 150명이 넘는 고등법원 부장판사와 지방법원 부장판사 등이 추천됐다고 한다.&lt;br&gt;&lt;br&gt;김명수 전 대법원장이 2019년 도입한 법원장 후보 추천제는 각 지방법원 판사들이 소속 부장판사 중에서 투표를 통해 법원장 후보를 3명 정도 뽑고, 그중 한 명을 대법원장이 임명하는 방식이었다. 5년 동안 20곳의 지방법원에서 법원장 후보 추천제가 실시됐다. 그러나 법원장들이 자신을 뽑아준 법관들 눈치를 보느라 사건을 빠르게 처리하라고 지시하지 못해 재판이 지연된다는 지적이 나왔다. 이른바 ‘인기투표’로 전락했다는 것이었다. 일부 법원에서는 추천받은 판사가 1명만 나오거나, 최종 추천된 후보자가 없어 다른 지방법원에서 추천받은 판사를 법원장으로 보임하는 경우도 있었다.&lt;br&gt;&lt;br&gt;이에 조희대 대법원장은 법원별 투표를 없애고, 전체 법원장 후보를 추천받아 법관인사위원회 심의를 거쳐 법원장에 임명하기로 했다. 근무 평정과 경력, 재판 능력을 최우선으로 보겠다는 취지다. 또 기존에 지방법원장은 지방법원 부장판사 중에서만 임명하던 것과 달리, 고등법원 부장판사도 지방법원장으로 뽑겠다고 밝혔다. 법원행정처는 지난달 이 같은 방침을 밝히면서 “구성원의 다양한 의견을 수렴하고 후보자가 법원장에 적합한지 검증을 강화해 인사의 객관성과 적격성을 제고하려는 것”이라고 설명했다.&lt;br&gt;&lt;br&gt;법원장 인사 원칙이 달라지자 후보군이 크게 늘었다. 내년 초 법원장 교체가 예정된 고등·지방법원은 최소 23곳인데, 추천된 판사 150여 명을 기준으로 하면 경쟁률은 6.5대1이 넘는다. 특히 법원에서 실력이 뛰어나다는 평가를 받는 고등법원 부장판사 66명 중 상당수가 추천된 것으로 전해졌다. 법원 관계자는 “과거 법원별로 법원장 후보를 뽑는 것보다 전국 단위로 여러 의견을 수렴하다 보니 더 많은 인재가 추천된 것 같다”고 했다. 다만 추천된 판사들 중 일부는 개인적인 이유 등으로 법원장 보임을 고사하는 것으로 전해졌다. 법관인사위는 법원장 추천에 동의하는 판사들을 추려 심의 절차를 진행할 예정이다.&lt;br&gt;&lt;br&gt;한편 전국법관대표회의는 오는 9일 정기 회의를 개최해 법원장 보임 관련 안건을 논의하겠다고 밝혔다. 일부 판사들은 법원장 보임 절차에 일선 법관들의 의견이 더 많이 반영돼야 한다고 주장하고 있는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>계엄 선포는 헌법 위반이 다수설… 내란죄 성립 여부는 엇갈려</title>
@@ -874,15 +904,6 @@
       <content:encoded>45년 만의 비상계엄 선포와 해제를 계기로 4일 서울 시내 곳곳에서는 윤석열 대통령의 퇴진을 촉구하는 집회가 잇따라 열리고 있다. 서울을 비롯해 전국에서 동시다발적으로 열리는 촛불 집회는 ‘박근혜 탄핵 정국’이 이어졌던 2016년 이후 8년 만이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JZ4IONBJFJHOJINFG3J6DLALTI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;민주노총 관계자들과 시민들이 윤석열 대통령 퇴진을 요구하며 용산으로 행진하고 있다./장윤 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;민주노총과 전국민중행동 등은 이날 오후 6시 서울 종로구 동화면세점 앞에서 윤 대통령 퇴진과 체포를 요구하는 집회를 열고 오후 7시 30분부터 용산으로 행진했다. 집회 참가 인원은 경찰 추산 2000명, 주최 측 추산 1만명이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3T5B3ZRXDBGMJP2XFMWR6OG2WE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;민주노총 관계자들이 윤석열 대통령 퇴진을 요구하며 용산으로 행진하고 있다./장윤 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;민주노총 소속의 전국보건의료노조, 금속노조, 전국학교비정규직노조 등과 진보당, 정의당 관계자들이 깃발을 들고 앞서 행진하자 ‘내란죄 윤석열 퇴진’ ‘퇴진 광장을 열자’ 등의 문구가 적힌 손팻말과 촛불을 든 시민들이 뒤를 따랐다. 이들은 청계광장부터 용산구 삼각지역까지 “윤석열을 체포하라”는 구호를 외치고 꽹과리와 징을 치며 행진했다. 이들은 집회 중간 멈춰서 연설을 하기도 했다. 이들이 행진하는 동안 경찰은 4개 차선을 통제했다.&lt;br&gt;&lt;br&gt;이날 친구들과 함께 행진에 참여한 직장인 양수진(강서구·25)씨는 “비상계엄이 선포됐을 당시에는 무섭고 당황스러워 뭘 해야 할지 몰랐다”며 “국회가 비상계엄 해제를 가결한 후에야 의회로 나가 볼 수 있었다”고 했다. 양씨는 오는 토요일 광화문광장에서 열리는 윤석열정권 퇴진 총궐기대회에도 참여할 예정이라고 한다.&lt;br&gt;&lt;br&gt;이날 집회에서는 집회 참가자가 시민을 폭행하기도 했다. 서울 종로경찰서에 따르면 집회에 참가한 70대 여성 A씨가 폭행 혐의로 입건됐다. A씨는 오후 6시 20분쯤 종로구 동화면세점 앞에서 20대 여성 B씨를 폭행한 혐의를 받는다. A씨는 경찰에 ‘B씨가 길을 막고 있어서 비켜달라고 했는데 비키지 않아 한 대 쳤다’고 진술한 것으로 파악됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2DZ7JDMP4ZIVVCT7NQOO4IPVHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;4일 오후 서울 여의도 국회에서 열린 '윤석열 대통령 사퇴촉구 탄핵추진 범국민 촛불문화제에서 더불어민주당 이재명 대표, 박찬대 원내대표를 비롯한 의원, 참석 시민들이 구호를 외치고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한편 낮 12시쯤 서울 영등포구 여의도 국회에서는 ‘대통령 사퇴촉구 탄핵추진 비상시국대회’가 열려 야권 인사와 시민단체, 시민 약 1만명(국회사무처 추산)이 모였다. 이날 오전에는 국회 직원만 제한적으로 국회 출입이 허용됐지만, 오전 11시 20분쯤부터는 일반 시민들도 자유롭게 국회를 출입할 수 있게 됐다고 한다.&lt;br&gt;&lt;br&gt;‘윤석열은 사퇴하라’ ‘내란행위 즉각 수사’ 등의 손 피켓을 든 시민들은 “윤석열을 체포하라”는 구호를 연신 외쳤다. 이들 중에는 대학 점퍼를 입은 학생들도 있었고, 외국인들은 신기하다는 듯 휴대 전화 카메라로 국회 광경을 찍었다. 이재명 더불어민주당 대표, 조국혁신당 조국 대표, 용혜인 기본소득당 대표 등 야권 인사들의 약 1시간에 걸친 발언이 끝나고는 시민들이 자유롭게 단상으로 나와 윤 대통령을 규탄하는 발언을 했다.&lt;br&gt;&lt;br&gt;오후 6시쯤까지 남아 있던 약 800명의 시민은 국회 본청 앞을 한 바퀴 행진한 후 촛불 집회를 이어가고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>영유아 감염성 호흡기 질환 증가</title>
-      <link>https://www.chosun.com/national/welfare-medical/2024/12/04/F366NAQSRFE3HB6QVF3YDLECA4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/12/04/F366NAQSRFE3HB6QVF3YDLECA4/</guid>
-      <dc:creator>오유진 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 04 Dec 2024 11:51:00 +0000</pubDate>
-      <content:encoded>겨울에 유행하는 대표적 감염성 호흡기 질환인 ‘RSV(호흡기 세포 융합 바이러스) 감염증’으로 입원한 영유아 환자가 증가하고 있다.&lt;br&gt;&lt;br&gt;4일 질병관리청에 따르면, 최근 4주간(10월 27일~11월 23일) 전국 대형 병원 220곳에서 RSV 감염증 입원 환자는 631명으로, 지난해 같은 기간(581명)보다 증가했다. 입원 환자 중 1~6세 영유아가 374명(59.3%)으로 가장 많았고, 다음으로 0세 173명(27.4%), 7~12세 31명, 65세 이상 30명 순이었다.&lt;br&gt;&lt;br&gt;RSV 감염증은 가을부터 초봄 사이에 가장 많이 발생한다. 감염된 사람의 호흡기 비말이나 접촉을 통해 전파된다. 대부분 재채기, 코막힘, 인후통, 발열 등 가벼운 감기 증상으로 나타난다. 통상 자연 회복되지만 일부 영유아나 60세 이상 고령자, 면역 저하자는 폐렴 등으로 악화해 입원하거나 사망에 이를 수도 있다. 정용필 서울아산병원 감염내과 교수는 “RSV 감염증에 걸리면 보통 기침, 콧물 증세가 나타나 해열제 복용 등이 필요하다”며 “빠른 속도로 쌕쌕거리거나 숨이 차고, 심하게 기침하는 증상 등이 나타나면 빨리 병원에 가서 치료받아야 한다”고 했다.&lt;br&gt;&lt;br&gt;RSV는 1세 미만 유아 사망의 주원인이다. 만 2세까지 거의 모든 소아가 감염될 정도로 감염력이 높다. 5세 미만 아동이 감염되면 입원율이 높고, 생후 3개월째가 감염 후 입원율이 가장 높은 연령이다. 놀이방 등 노출이 많은 환경에서 더 많이 감염된다.&lt;br&gt;&lt;br&gt;방역 당국은 산후조리원이나 영유아 보육 시설 등에서는 감염 예방을 위해 호흡기 증상이 있는 종사자나 영유아의 경우 출근 및 등원을 자제하고 집에서 휴식할 것을 권고했다. 실제 지난 10월 강원도의 한 산후조리원에서는 RSV 감염증 환자가 집단 발생했다. 지난해 3월에도 서울의 한 산후조리원에서 신생아들이 RSV에 집단 감염됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>‘한동훈 명예훼손’ 유시민 3000만원 배상 판결</title>
       <link>https://www.chosun.com/national/court_law/2024/12/04/2RJ5V23YZ5GLFELRIMJP3BWVQY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/04/2RJ5V23YZ5GLFELRIMJP3BWVQY/</guid>
@@ -935,24 +956,6 @@
       <description/>
       <pubDate>Wed, 04 Dec 2024 06:39:04 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NGOLCT7HONFXFPPX4TLGXK44B4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt; 4일 오전 서울 광화문 광장에서 민노총 등이 '윤석열 대통령의 불법 계엄 규탄 내란죄 윤석열 퇴진 국민주권 실현을 위한 전면적 저항운동 선포 전국민 비상행동' 기자회견을 열고 있다. /장련성 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;45년 만의 비상계엄 선포와 해제를 계기로 4일 오후 전국 주요 도시에서 윤석열 대통령의 퇴진을 촉구하는 ‘촛불집회’가 잇따라 열린다. 전국에서 동시다발적으로 열리는 촛불집회는 ‘박근혜 탄핵 정국’이 이어졌던 2016년 이후 8년 만이다.&lt;br&gt;&lt;br&gt;광주에서는 이날 오후 7시부터 금남로 옛 전남도청 광장에서 ‘광주시민 총궐기대회’가 열린다. 이 집회에는 주최측 추산 약 1000여명이 참석할 예정이다. 순천과 여수 등 전남에서도 재야단체 중심으로 비상계엄을 규탄하는 야간 촛불문화제가 산발적으로 열린다. 전북 전주 충경로사거리에서도 촛불집회가 열릴 예정이다.&lt;br&gt;&lt;br&gt;부산에서는 이날 오후부터 내주 초까지 부산진구 서면에서 ‘군사반란 계엄 폭거 내란범죄자 윤석열 즉각 퇴진 부산시민대회’가 매일 개최된다. 울산에서는 민노총 울산본부가 롯데백화점 울산점 앞 광장에서 오후 6시부터 비상계엄 선포 규탄과 정권 퇴진을 촉구하는 집회를 연다.&lt;br&gt;&lt;br&gt;’윤석열 퇴진 경남운동본부’는 오후 5시 창원광장에서 경남비상시국대회를 개최할 예정이다. 박종철 경남운동본부 집행위원장은 “윤석열 대통령 퇴진 때까지 매일 오후 6시에 집회를 이어갈 계획”이라고 말했다.&lt;br&gt;&lt;br&gt;대구 동대구역 광장과 경북 포항 죽도시장 앞에서는 이날 오전 시민단체와 노동계를 중심으로 윤 대통령 퇴진을 요구하는 기자회견이 잇따라 열렸고 오후에도 관련 행사가 이어질 예정이다.&lt;br&gt;&lt;br&gt;강원에서는 ‘윤석열정권퇴진강원운동본부’가 오후 7시부터 춘천시 석사동 거두사거리 일원에서 촛불문화제를 열 계획이다. 제주에서는 오후 7시 제주시청 민원실 앞에서 민노총 지역본부, 시민사회단체 등이 촛불집회를 진행한다.&lt;br&gt;&lt;br&gt;‘윤석열 정권 퇴진 대전운동본부’와 대전지역 시민사회단체는 이날 오후 7시쯤 대전 서구 은하수 네거리에서 윤 대통령의 퇴진을 요구하는 집회를 시작으로, 지역 곳곳에서 시민들을 상대로 선전전과 집회를 이어갈 방침이다.&lt;br&gt;&lt;br&gt;충북지역 시민사회단체, 노동계, 종교계는 오후 6시부터 청주 성안길에서 윤 대통령 퇴진·구속을 위한 촛불집회를 예고했다. 이들은 촛불집회에 이어 성안길에서 청주대교까지 도보 행진도 진행할 계획이다.&lt;br&gt;&lt;br&gt;제주에서는 민주노총 지역본부, 시민사회단체 등 21개 단체로 구성된 ‘윤석열 정권 퇴진 한국사회 대전환 제주 행동’이 오후 7시 제주시청 민원실 앞에서 촛불집회를 진행한다.&lt;br&gt;&lt;br&gt;울산에서도 민주노총 울산본부가 롯데백화점 울산점 앞 광장에서 오후 6시부터 비상계엄 선포 규탄과 정권 퇴진 목소리를 내는 집회를 연다.&lt;br&gt;&lt;br&gt;수도권 지역 시민사회단체들은 이날 오후 6시 서울 광화문에서 열리는 집회에 참석할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘부산독립운동기념관’ 짓는다...설계공모 당선작 선정</title>
-      <link>https://www.chosun.com/national/regional/yeongnam/2024/12/04/PTTY5CROYBGN3NFUBYYDGZ5MNY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/yeongnam/2024/12/04/PTTY5CROYBGN3NFUBYYDGZ5MNY/</guid>
-      <dc:creator>박주영 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 04 Dec 2024 05:43:27 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BMXARLPOW5E3TDMSXOI7GMEB5M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산 부산진구 부산시민공원 안에 짓는 '부산독립운동기념관' 설계 공모 당선작. /부산시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘부산독립운동기념관’이 부산진구 부산시민공원 안에 지어진다.&lt;br&gt;&lt;br&gt;부산시는 부산독립운동기념관 설계 공모에서 해안종합건축사사무소 설계안을 당선작으로 선정했다고 4일 밝혔다.&lt;br&gt;&lt;br&gt;당선작은 1층에 부산 지역 독립운동 역사의 기념비적 공간을 담고, 2층을 공원 속 일상을 즐기는 휴식 공간을 제공하는 등 공간 구성과 구조를 과감하게 재구성해 높은 평가를 받았다. 시는 부산시민공원 ‘시민사랑채’ 건물을 리모델링해 이 기념관을 조성할 예정이다.&lt;br&gt;&lt;br&gt;부산독립운동기념관은 부산 지역의 독립운동사를 널리 알리고 독립운동 정신을 계승하는 기념·추모·전시·체험 공간을 마련하는 차원에서 지어진다. 내년에 기본·실시설계를 마무리한 뒤 97억원을 들여 착공, 2026년 준공할 계획이다.&lt;br&gt;&lt;br&gt;박형준 시장은 “부산독립운동기념관은 우리 지역 독립운동 역사와 가치를 널리 알리고, 독립운동 정신을 미래세대에 계승시키는 공간이 될 것”이라며 “시민들이 일상에서 휴식과 보훈 문화를 향유할 수 있는 공간으로도 조성할 계획”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>제주서 카니발·1t 트럭 충돌... 뒷좌석 안전벨트 안 맨 4명 숨져</title>
-      <link>https://www.chosun.com/national/regional/2024/12/04/GNCQ5HLZA5GXBB6CXCC4H2UEZE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/12/04/GNCQ5HLZA5GXBB6CXCC4H2UEZE/</guid>
-      <dc:creator>제주=오재용 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 04 Dec 2024 04:52:04 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3IUS2OFCGBDLRLYVWIPPQWAWZI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 3일 서귀포시 서성로에서 카니발 승합차와 트럭이 충돌하는 사고가 발생, 카니발 승객 4명이 숨졌다. /제주도소방안전본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제주에서 4명의 사망자가 발생한 카니발 승합차와 1t 트럭 충돌사고는 ‘안전벨트 미착용’이 화를 키운 것으로 추정되고 있다.&lt;br&gt;&lt;br&gt;4일 제주 서귀포경찰서에 따르면 전날인 3일 오후 3시 58분쯤 서귀포시 남원읍 서성로 입구 교차로 인근 도로에서 발생한 교통사고와 관련해 카니발 운전자인 50대 남성 A씨를 교통사고처리특례법 상 치사·상 혐의로 입건할 예정이다.&lt;br&gt;&lt;br&gt;경찰은 사고가 당시 교차로에서 5·16도로로 진입하려던 카니발 차량과 맞은편에서 오던 1t 트럭이 정면충돌하면서 발생한 것으로 추정했다. 서귀포경찰서 관계자는 “차량 블랙박스 영상에는 차량 간 충돌 모습은 나오지 않지만, 카니발 차량이 중앙선을 침범한 사실이 확인됐다”고 설명했다.&lt;br&gt;&lt;br&gt;이 사고로 카니발 탑승자인 50대 여성 3명과 70대 남성 1명이 사망했다. 이들은 모두 부산에서 온 관광객으로서 차량 뒷좌석에 타고 있었다. 카니발 운전자와 조수석에 앉아 있던 50대 남성은 가슴·머리 등을 다쳐 병원으로 이송됐다. 트럭 운전자와 동승자도 골절상을 입고 병원에서 치료받고 있다.&lt;br&gt;&lt;br&gt;이번 사고에서 탑승자의 생사를 가른 건 안전벨트 착용 여부로 추정되고 있다. 소방이 현장에 출동했을 당시 일부 탑승자가 사고 충격으로 차량 밖으로 튕겨 나와 있었던 것으로 확인됐다. 경찰도 현장 조사에서 카니발 뒷좌석에 앉아있던 사망자 4명 대부분이 차량 밖으로 튕겨 나온 것으로 보아 이들이 안전벨트를 매지 않은 것으로 추정한다고 밝혔다.&lt;br&gt;&lt;br&gt;경찰은 “카니발 운전자의 음주 운전은 아니었으며, 과속 여부, 중앙선 침범 이유 등을 확인해 혐의를 적용할 예정”이라고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
