@@ -13,6 +13,25 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>‘외부인 화장실 사용 불가’ 여의도 호텔 놓고 ‘별점 전쟁’</title>
+      <link>https://www.chosun.com/national/national_general/2024/12/07/EF4O3KUWXVH35NGW7CCS7JVIWE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/07/EF4O3KUWXVH35NGW7CCS7JVIWE/</guid>
+      <dc:creator>김자아 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 07 Dec 2024 12:35:58 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4H7JI66UXFBIFBP4QTODM4MMAA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;여의도 A호텔 입구에 세워진 화장실 관련 안내문./엑스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;7일 서울 여의도에서 윤석열 대통령 탄핵안 가결을 요구하는 집회가 열린 가운데 국회의사당 인근 한 호텔이 ‘외부인 화장실 사용 불가’ 방침을 내세운 것을 두고 네티즌 사이에서 ‘별점 전쟁’이 벌어졌다.&lt;br&gt;&lt;br&gt;이날 소셜미디어(SNS) 엑스(X·옛 트위터)에 올라온 게시물에 따르면 국회의사당 바로 앞에 있는 여의도 A호텔은 “호텔 이용객 외 출입금지. 외부인 화장실 사용 불가”라는 문구가 담긴 안내판을 입구에 세웠다.&lt;br&gt;&lt;br&gt;한 네티즌이 공유한 영상을 보면 한때 A호텔 직원이 호텔 건물에 들어오려는 집회 참가자들을 돌려보내며 현장 통제를 하기도 했다.&lt;br&gt;&lt;br&gt;앞서 이 호텔 화장실은 소셜미디어에서 ‘집회 때 갈 화장실’로 추천된 곳이다.&lt;br&gt;&lt;br&gt;한 네티즌은 지난 4일 “간밤에 의외로 고마운 곳”이라며 이 호텔 화장실을 언급했다. 그는 “15층 이상 건물이라 화장실을 의무적으로 개방해야 하고 호텔이라 밤새 로비가 열려있다. 다들 거기 화장실 썼다”고 했다. 또 다른 네티즌도 이를 공유하며 “집회 때 중요한 정보다. 호텔 건물 화장실은 따뜻한 물도 나와 훌륭하다”고 했다.&lt;br&gt;&lt;br&gt;그러나 집회 당일 호텔 앞에 화장실 이용불가 안내판이 세워지자 네티즌 사이에 논란이 일었다. 특히 별도의 방문 없이도 별점을 남길 수 있는 카카오맵에는 이 호텔과 관련해 이날만 300여 개의 리뷰가 올라왔다. 전날까지만 해도 6여년간 올라온 리뷰는 100개 안팎에 불과했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/57AX3MXPA5B35JDTUUEA2YRLYM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;여의도 A호텔에 별점 테러를 남긴 모습./카카오맵&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;일부 네티즌들은 별점 1점을 남기면서 “시위대는 손님 안 될 것 같나요?” “시위를 반대한다는 건가” “계엄 찬성하는 호텔이다” “화장실로 갑질한다” 등의 의견을 남겼다.&lt;br&gt;&lt;br&gt;반면 다른 네티즌들은 “호텔은 사유지이고 화장실 개방 의무가 없다” “왜 시위대한테 공짜로 내줘야 하나” “권리가 계속되면 호의인 줄 안다”라고 반박하며 별점 5점으로 맞섰다.&lt;br&gt;&lt;br&gt;이 호텔 측은 뒤늦게 화장실을 개방한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>여의도 “말도 안돼” 광화문 “만세”...주말 집회 반응 갈려</title>
+      <link>https://www.chosun.com/national/2024/12/07/7UO475SWTRBM3CFSHU3FSOPMFI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2024/12/07/7UO475SWTRBM3CFSHU3FSOPMFI/</guid>
+      <dc:creator>고유찬 기자, 강지은 기자, 장윤 기자, 김병권 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 07 Dec 2024 11:25:59 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QSDYYIQLHJOUXBLDK2PGQ4PINU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;7일 서울 국회의사당 앞에 모인 야권 성향 지지자들은 "윤석열 탄핵"을 외치며 집회를 열었다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;7일 윤석열 대통령 탄핵 소추안이 국회에서 의결 정족수 미달로 부결이 유력할 것이라는 관측이 나오면서, 서울 도심은 두 목소리로 갈라졌다. 서울 여의도, 광화문, 용산 대통령실 인근 등에 모인 여야(與野) 지지자들 수만여명은 상반된 반응을 보였다. 야권 지지자들은 “국민의힘이 민심을 저버렸다”며 망연자실한 표정을 지었고, 반면 여권 지지자들은 “윤석열 대통령은 잘못한 일이 없다”며 환호했다.&lt;br&gt;&lt;br&gt;이날 서울 여의도 국회의사당 앞에 모인 전국민주노동조합총연맹(민주노총) 등 야권 성향 단체들은 “설마했는데 이럴줄 알았다“고 했다. 국회 앞에 모인 야권 지지자들 중 일부는 제자리에 주저 않아 ”시민들을 향해 총부리를 들게 한 대통령을 가만히 두는 게 나라냐”라고 했다. 한 시민은 울먹이며 ”국민의힘 의원들은 시민을 대표하는 게 맞냐”고 했다. 경기 일산에서 아내와 10세, 7세 딸 둘과 함께 지하철을 타고 여의도 광장을 찾았다는 김상헌(43)씨는 “대국민 담화를 보고 짜증나서 국회 앞에 시위하러 나왔다”며 “보다 책임 있는 자세를 기대했는데 그런 내용이 없고 너무 무책임하다는 생각이 들어 헛웃음이 나왔다”고 했다.&lt;br&gt;&lt;br&gt;오후 8시 현재 여의도 산업은행 뒤편 여의공원로에선 여전히 수백여명이 모여 탄핵 집회를 이어가고 있다. 이들은 “윤석열을 탄핵하라”며 “탄핵이 답이다 이러다가 나라 망한다”라고 외쳤다.&lt;br&gt;&lt;br&gt;이날 오후 5시 30분 기준 경찰 비공식 추산 14만9000명, 주최 측 추산 100만명이 모였다. 이날 인파가 몰리며 9호선 국회의사당역과 여의도역은 한때 무정차 통과했다. 국회의사당역에서 서강대교 남단 구간 등 국회대로는 전면 통제됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NDE5YVQZCISVDCFQD44KVBJHPA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;7일 광화문에 모인 여권 성향 지지자들은 "주사파 척결하라" "이재명 구속하라" 손피켓을 들고 집회에 참가했다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;반면 서울 광화문 일대에서 탄핵 반대 집회를 연 여권 성향 단체 자유통일당 등은 “윤석열 대통령을 지켜 다행“이라고 했다. 오후 5시 기준 경찰 비공식 추산 2만명, 주최 측 추산은 100만명이 모였다. 인파가 늘면서 세종대로 9개 차로 중 7개 차로로 집회 장소가 확장됐다. 군복을 입은 중장년층 참가자도 곳곳에서 보였다. 한 시민은 “우리는 대한민국을 지키기 위해 태어났다”며 “윤 대통령을 지켜야 한다”고 외쳤다.&lt;br&gt;&lt;br&gt;시민들 수백여명은 핸드폰 불빛을 흔들며 “윤석열 대통령님 이 빛을 보십시오”라고 했다. 서로 얼싸안고 빙빙 돌며 춤을 추기도 했다. 직장인 임서희(40)씨는 “대통령이 탄핵될까봐 걱정돼 주말에 온 가족이 광화문으로 왔다”며 “윤 대통령이 탄핵되면 이재명 민주당 대표가 대통령이 될까봐 걱정됐는데 다행이다”라고 했다. 강남구에 사는 박진순(60)씨는 “범죄자 이재명이 대통령이 되는 상황을 막기 위해 광화문에 왔다”며 “박근혜 대통령 탄핵 당시와 지금은 분명히 다르다”고 했다. 집회 주최 측은 친한계 의원 명단을 스크린에 띄우고 “이X들은 배신자로 낙인을 찍어버려야 합니다”라며 지역구와 핸드폰 번호를 띄웠다. 전광훈 목사는 국민의힘 한동훈 대표를 향해 “대통령 날아갔다 이X야”라고 했다. 전 목사는 “김건희 여사님 나한테 밥 한 번 사세요”라고 외치기도 했다. 무대에 오른 유동규(성남도시개발공사 전 본부장)씨는 “이재명이 감옥을 안 가려고 대한민국을 망하게 하려 하고 있습니다”라고 주장했다. 유씨는 이재명 대표가 관련한 대장동 사건의 핵심 인물이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/SR7IDXA5PVFOZBOGOE4EIEUIIY.jpg?width=1600&amp;height=900&amp;auth=2eb4857daed2d718054c77a1a7aaabb86a449a27ec752eced3cb8d5f85af967d&amp;smart=true" type="image/jpeg" height="900" width="1600"/>
+    </item>
+    <item>
       <title>김건희 특검법 부결... 친야 “국힘 해산하라” 친여 “이겼다”</title>
       <link>https://www.chosun.com/national/national_general/2024/12/07/3ZGZ7226XVEIDF3Q36XKMLXSJU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/07/3ZGZ7226XVEIDF3Q36XKMLXSJU/</guid>
@@ -843,15 +862,6 @@
 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난달 8일 제주 해상에서 발생한 135금성호 침몰 사고 실종자 수색이 한 달째 이어지고 있지만 별다른 성과를 내지 못하고 있다.&lt;br&gt;&lt;br&gt;부산 선적 대형 선망 어선 135금성호(129t급)는 지난 11월 8일 오전 4시 31분쯤 제주 비양도 북서쪽 약 22㎞ 해상에서 배가 기울고 있다는 신고 후 완전히 침몰했다. 이 사고로 승선원 27명(한국인 16명, 인도네시아인 11명) 중 한국인 선원 4명이 숨졌고, 한국인 선원 8명과 인도네시아인 선원 2명 등 10명이 실종 상태다.&lt;br&gt;&lt;br&gt;해경은 25일간의 집중수색을 마무리하고 지난 2일 야간수색부터는 ‘지속적 광범위 수색’으로 전환해 실종자 수색을 이어오고 있다. 지속적 광범위 수색은 집중수색보다 투입되는 인원과 장비의 규모를 줄이고 경비함정이 평상시 임무수행과 실종자 수색을 병행한다는 것이다.&lt;br&gt;&lt;br&gt;또 제주도 재난안전대책본부는 오는 7일부터 육상 수색방식을 ‘일상조업 병행 수색’으로 전환한다. 해안가 수색에 투입된 군, 경찰 등이 철수하고 대신 어민과 바다환경지킴이 등이 일반 활동을 하면서 육상 수색을 병행하는 형태다.&lt;br&gt;&lt;br&gt;사고 발생 이후 현재까지 해상수색에 동원된 함선과 어선은 누적 810척(해경 함정 505척, 군 69척, 관공선 162척, 민간 어선 74척), 항공기 138대다. 육상 해안가 수색에는 총 1만482명의 인원이 투입돼 광범위한 수색을 펼쳤다.&lt;br&gt;&lt;br&gt;하지만 침몰된 어선 근처에서 실종자가 발견된 지난달 10일 이후 추가 실종자 발견 소식은 들려오지 않고 있다. 사고 발생 한 달이 다 돼가도록 수심 90ｍ 해저에 침몰한 금성호 선체로 진입조차 못 하는 실정이다. 수심 100ｍ까지 잠수할 수 있는 민간구난업체 소속 심해잠수사들이 투입됐지만 변덕스러운 겨울 날씨 탓에 이들의 수색도 중단과 재개를 반복하고 있다. 게다가 135금성호 선체와 연결된 길이 1200ｍ, 너비 100ｍ에 달하는 방대한 그물이 선체 진입을 방해하고, 심해 속 50㎝밖에 안 되는 좋지 않은 시정도 수색에 어려움을 주고 있다.&lt;br&gt;&lt;br&gt;금성호 침몰 사고 원인에 대한 해경의 수사도 지지부진하다. 해경은 사고 원인 규명을 위해 금성호와 함께 조업했던 선박과 출항지 인근 방범카메라(CCTV) 영상 자료를 확보해 분석을 마쳤고, 부산에 있는 선사 사무실을 압수수색해 선박 관리와 관련한 서류 등을 확보해 조사하고 있다.&lt;br&gt;&lt;br&gt;그런데도 선박 구조물의 불법 증·개축 여부 등 선체 복원성에 영향을 미칠 정도의 관리 부실이 있었는지 여부는 지금까지 발견하지 못했다.&lt;br&gt;&lt;br&gt;해경 관계자는 “수중에 침몰한 선체를 인양해 육안으로 확인하지 못한 상황이라 수사에 어려움이 있다”며 “현재로서는 사고 당시 해상 기상이 양호했던 것으로 보아 금성호는 그물을 끌어올리는 양망 과정에서 평소보다 많은 어획물로 인해 우측으로 기울어져 전복돼 침몰한 것으로 추정한다”고 설명했다.&lt;br&gt;&lt;br&gt;침몰한 135금성호 선체를 인양하는 것도 만만치 않은 일이다. 겨울철 기상 여건이 좋지 않은 데다 침몰한 해역의 물살이 세고 수심 90ｍ 바닥에 가라앉아 있어 인양에는 고도의 전문기술이 필요하다. 전문 해난구조업체가 맡아야 하는데 그럴 경우 인양 비용이 상당할 것으로 예상된다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[속보] 대검 "비상계엄 사건, 군검찰과 합동수사"</title>
-      <link>https://www.chosun.com/national/court_law/2024/12/06/4ZRHMTBN2NBMLNLYSOAJ53JGTM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/06/4ZRHMTBN2NBMLNLYSOAJ53JGTM/</guid>
-      <dc:creator>이슬비 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 06 Dec 2024 04:37:06 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QRAQHEU7GJPKXGDWQ3S34Z3IHU.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령의 비상계엄 해제 요구 결의안이 국회 본회의에서 통과된 직후인 4일 새벽 서울 서초구 대검찰청 청사에서 검찰 깃발이 바람에 날리고 있다. 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;비상계엄 사건에 특별수사본부를 구성한 검찰이 군검사 등 군검찰 인력을 파견받아 합동으로 수사하기로 했다. 대검찰청은 6일 “특별수사본부에 군검사 등 군검찰 인력을 파견받는 등 협조를 받아 합동해 수사하기로 했다”고 밝혔다.&lt;br&gt;&lt;br&gt;비상계엄에 군 병력이 다수 투입됐고, 사건 관계자 상당수가 현직 고위 군인인 점 등을 고려해 수사의 전문성을 높이려는 조치로 해석된다. 현역 군인에 조사는 군 검찰 소관이다.&lt;br&gt;&lt;br&gt;앞서 대검은 이날 박세현 서울고검장을 본부장으로 하는 특별수사본부를 구성했다. 특수본 차장검사로는 김종우 서울남부지검 2차장이, 그 아래 서울중앙지검 이찬규 공공수사1부장과 최순호 형사3부장이 배치됐다.&lt;br&gt;&lt;br&gt;심우정 검찰총장은 지난 5일 윤석열 대통령에 대한 직권남용과 내란죄 혐의 사건을 직접 수사하라고 지시했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>한양대 교수·연구자 모임, 윤석열 대통령 탄핵 촉구 2차 시국선언</title>
       <link>https://www.chosun.com/national/national_general/2024/12/06/QUJGNVWW2VHNLNQKM4F46EZIVY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/06/QUJGNVWW2VHNLNQKM4F46EZIVY/</guid>
@@ -862,15 +872,6 @@
       <media:content url="https://www.chosun.com/resizer/v2/6MURIBBD65FOPAFKWBB2LLDCPQ.jpg?width=1000&amp;height=550&amp;auth=cd56e3d080f9078e1a75611e8a5415baa4941de7aeac38674e3a6a2b38686ef0&amp;smart=true" type="image/jpeg" height="550" width="1000">
         <media:description type="plain">한양대는 국제화 전략뿐 아니라 연구와 교육 역량의 상호 연계로 시너지를 창출하고 있다. 사진은 한양대 본관 전경.</media:description>
       </media:content>
-    </item>
-    <item>
-      <title>법원행정처장 “대법원 간부회의서 계엄 선포에 상당한 의문 제기”</title>
-      <link>https://www.chosun.com/national/court_law/2024/12/06/WGLYTHQZWVF7TOUDEITN6G5NFM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/06/WGLYTHQZWVF7TOUDEITN6G5NFM/</guid>
-      <dc:creator>이슬비 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 06 Dec 2024 02:45:18 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MMNIAWE7CRKTBBX5KUIFNN6MQU.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;천대엽 법원행정처장이 지난 10월 7일 오전 서울 여의도 국회 법제사법위원회에서 열린 대법원(법원행정처)·사법연수원 등에 대한 국정감사에서 의원 질의에 답하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;천대엽 법원행정처장(대법관)은 6일 윤석열 대통령이 비상계엄을 선포한 직후에 열린 대법원 간부회의에서 계엄 선포 요건이 충족됐는지 등에 대해 상당한 의문이 제기됐다고 밝혔다.&lt;br&gt;&lt;br&gt;천 처장은 이날 국회 법제사법위원회 전체 회의에서 “대법원 간부 회의에서 계엄령이 위법하다는 걸 직시했느냐”는 더불어민주당 장경태 의원 질의에 “헌법이나 계엄법, 포고령, 담화문, 그리고 판례에 비춰봤을 때 거기에 적혀 있는 내용 중에 저희가 상당한 의문을 가진 점들이 있었다”고 답했다.&lt;br&gt;&lt;br&gt;대법원은 지난 3일 윤 대통령이 계엄을 선포하자 조희대 대법원장의 지시로 법원행정처 간부들을 소집해 심야 회의에 돌입했다. 공관에서 상황을 보고받은 조 대법원장도 청사로 출근해 회의를 주재했다.&lt;br&gt;&lt;br&gt;천 처장은 ‘당시 회의에서 계엄령의 위법성을 인지했는지’에 대해 “앞으로 재판 사항이 될 수 있기 때문에 그에 대한 판단을 말씀드릴 수 없지만 적어도 그 자리에서 논의됐던 부분은 말씀드리겠다”면서 “헌법이나 계엄법, 포고령, 담화문, 그리고 판례에 비춰봤을 때 거기에 적혀 있는 내용 중에 저희가 상당한 의문을 가진 점들이 있었다”고 했다.&lt;br&gt;&lt;br&gt;이어 “첫째로 사회 질서의 극도 교란으로 사법기능 수행이 현저히 곤란한 경우라고 과연 볼 수 있는지, 담화문에서 계엄 사유로 밝힌 것처럼 판사 겁박으로 사법 시스템이 마비됐다고 볼 수 있는지, 또 입법 독재로 인해 사법 시스템이 마비된 상태라 볼 수 있는지, 그 때문에 사법부 권능과 정상적인 작동을 정지·제한하는 비상조치를 받아들여야 하는 상황인지, 또한 경찰력이 아닌 군 병력으로 해소할 수 있는 비상사태인지, 그리고 국회 기능까지 제한한 것이 명문의 헌법 규정에 반하는 것이 아닌지 이런 부분에 대해 상당한 의문을 제기하는 의견이 많았다”고 했다.&lt;br&gt;&lt;br&gt;천 차장은 “계엄사가 국회를 침탈한 상황은 내란죄가 성립하는 범죄 아니냐”는 민주당 전현희 의원 질의에도 “그 부분이 저희가 상당한 의문을 가진 점 중의 하나”라고 답했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>文 헌재소장 권한대행 “비상계엄 헌법소원, 주심 재판관 지정”</title>
