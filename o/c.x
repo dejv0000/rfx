@@ -13,6 +13,52 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>김건희 특검법 부결... 친야 “국힘 해산하라” 친여 “이겼다”</title>
+      <link>https://www.chosun.com/national/national_general/2024/12/07/3ZGZ7226XVEIDF3Q36XKMLXSJU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/07/3ZGZ7226XVEIDF3Q36XKMLXSJU/</guid>
+      <dc:creator>박정훈 기자, 고유찬 기자, 강지은 기자, 장윤 기자, 김병권 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 07 Dec 2024 09:08:09 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2CELC4FR75CRVL2LNVIZZ7BFOE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;7일 오후 5시 50분쯤 국회에서 김건희 특검법이 부결되자 친야 성향 지지자들이 여의도 국민의힘 당사로 몰려가 경찰과 대치하고 있다. /강지은 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 대통령 탄핵소추안 표결에 앞서 열린 김건희 여사 관련 특검 법안이 7일 국회 본회의 재표결에서 부결된 가운데 여의도와 광화문의 반응이 극렬하게 갈렸다.&lt;br&gt;&lt;br&gt;이날 오후 5시 35분쯤 여의도에 모인 친야 성향 지지자들은 국민의힘 의원들 한 사람 한 사람을 호명하며 “탄핵 표결 동참하라”를 외쳤다. 그러나 이날 오후 5시 45분쯤 국민의힘 의원들이 김 여사 특검법을 표결한 뒤 윤 대통령 탄핵소추안 표결 전 본회의장에서 퇴장한다는 이야기가 나오자 국회에 항의하는 함성이 터져나왔다. 이들은 “국민의힘 해체하라” “탄핵하라” “국민의힘은 탄핵 표결에 동참하라” 등을 외쳤다. 일부는 “반역자! 친일파! 개새X들” “내 이럴 줄 알았다” 등을 외쳤다. 하지만 결과에 실망한 일부 시민들은 허탈하지만 또 무덤덤한 표정으로 “나가리네”라고 외치며 국회 외곽으로 떠나기 시작했다. 그 빈자리를 강성 지지자들이 파고들어 메웠다.&lt;br&gt;&lt;br&gt;같은 시각 국민의힘 당사 앞에 ‘윤석열 체포’ 손팻말을 든 20여명의 시민들은 “국민의힘 해산하라”를 외쳤고, 10여명의 탄핵 반대 지지자는 “이겼다”를 연호했다. 5분여가 지난 5시 50분쯤엔 국민의힘 당사 앞 시민이 60여명으로 늘었다. 이들은 “반란 공범 국힘 해체”를 목청 터져라 외쳤다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4F2P5SXCB5KLRGJ4H777IXPYGQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;7일 서울 광화문 동화면세점 앞에서 대한민국바로세우기국민운동본부 주최로 열린 '자유 대한민국 수호 광화문 국민혁명대회' 참가자들이 김건희 여사 특검법 부결과 대통령 탄핵소추안에 관한 소식을 듣고 기뻐하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;반면 친여 성향 지지자들이 모인 서울 광화문에선 특검법 부결에 환호했다. 이들은 다같이 의자에서 일어나 환호하고 만세를 불렀다. 또 “대한민국 만세” “한동훈은 사퇴하라” “하나님 감사합니다” 등의 구호를 외쳤다. 이들은 다 같이 휴대폰 손전등 기능을 켜고 이를 흔들며 “윤석열 대통령님 이 빛을 보십시오”라고 외쳤다. 이들은 서로 얼싸안고 빙빙돌며 춤을 추기도 했다.&lt;br&gt;&lt;br&gt;이들은 친한동훈계 국회의원 명단을 스크린에 띄우고 “이새X들은 배신자로 낙인을 찍어버려야 한다”라며 지역구와 휴대폰 번호를 공개했다. 전광훈 목사는 한동훈 대표에 “대통령 날아갔다 이새X야”를 외쳤다. 유동규 전 성남도시개발공사 기획본부장이 무대 위로 올라오자 집회 참여자들은 “유동규”를 연호했다. 유 전 본부장은 “이재명이 감옥을 안 가려고 대한민국을 망하게 하려 하고 있다”며 “이재명이 자살하기 전에 감옥부터 가야 한다”고 했다. 집회 참여자들은 “이재명 감방으로”를 외치며 호응했다.&lt;br&gt;&lt;br&gt;경기 동탄시에서 온 직장인 이승철(55)씨는 “탄핵안 부결은 당연하다”며 “내란죄는 윤 대통령이 아니라 방탄을 위해 탄핵과 특검을 반복한 이재명 더불어민주당 대표가 저질렀다”고 했다. 이씨는 “윤 대통령, 김 여사 모두 편안히 밤잠 주무시길 바란다”고도 했다. 인천광역시에서 온 고명옥(70)씨는 “우원식은 오늘 쓰라린 밤을 보낼 것”이라며 “이재명, 조국, 한동훈에겐 법의 심판이 기다린다”고 했다. 이어 “하나님께 감사하다”며 “온 가족이 감사 기도를 드리며 잠자리에 들 것”이라고 했다. 대전광역시에서 온 직장인 박원일(35)씨는 “불행 중 다행”이라며 “대한민국에도 희망은 있다, 정의는 살아있다”고 했다. 박씨는 어제 서울로 올라온 다음 마포구 홍대 찜질방에서 묵은 후 집회에 참여했다고 한다.&lt;br&gt;&lt;br&gt;한편 서울 용산구 대통령실 관저 앞은 경찰이 만일의 사태에 대비했지만 시민이 크게 모이지 않아 집회나 소요사태 등은 없었다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[속보] 경찰, 김건희 여사 특검법 부결 이후 한남동 관저 경비 강화 </title>
+      <link>https://www.chosun.com/national/national_general/2024/12/07/A4Y47MH6CFDMDMYJB2EFNMSH44/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/07/A4Y47MH6CFDMDMYJB2EFNMSH44/</guid>
+      <dc:creator>김병권 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 07 Dec 2024 09:29:12 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QBNP2PCCTREYDOKWF23SZXAP3M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김건희 여사 특검법이 폐기된 이후인 7일 오후 6시 20분쯤 서울 용산구 한남동의 윤석열 대통령 관저 앞 도로에 경력과 기동대 버스들이 집결한 모습/김병권 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국회에서 김건희 특검법이 부결되자 경찰이 서울 용산구 한남동에 위치한 윤석열 대통령 관저의 경비를 강화하고 있다.&lt;br&gt;&lt;br&gt;7일 오후 5시 50분쯤부터 한남동 관저 앞 도로에는 기동대 버스와 경력이 속속 모여들었다. 국회에서 김건희 여사 특별법이 부결되고 윤석열 대통령 탄핵소추안도 정족수 미달로 폐기될 상황에 놓이자 소요 사태를 우려하는 것으로 풀이된다. 다만, 이날 오후 7시 현재까지 관저 주변에서 집회나 소요사태는 발생하지 않았다.&lt;br&gt;&lt;br&gt;경찰은 한남초 앞 육교부터 서울 지하철 6호선 한강진역 인근 육교까지 관저 쪽 약 300m의 인도를 통제했다. 육교 위에서 관저 방향의 사진을 찍는 것도 금지됐고 관저 앞 도로에는 기동대 버스가 2중으로 주차돼 있는 모습도 목격됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>경찰, 국민의힘 당사 경계 강화...野 지지자들 수백여명 몰려</title>
+      <link>https://www.chosun.com/national/2024/12/07/OF6KDXYJHFBSZK5EHYZYUZDZMQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2024/12/07/OF6KDXYJHFBSZK5EHYZYUZDZMQ/</guid>
+      <dc:creator>강지은 기자, 고유찬 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 07 Dec 2024 09:12:11 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OUSMMX4D4RDVPKLCRSZCNRR4GE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;7일 국민의힘 당사로 야권 성향 지지자 수십여명이 몰리자, 경찰이 폴리스라인을 치고 경계 강화를 하고 있다./강지은 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;7일 윤석열 대통령 탄핵 소추안이 국회에서 부결될 것이라는 전망이 나오자, 야권 지지자들 일부는 서울 여의도 국민의힘 당사 앞으로 모였다. 이들은 “반란 공범 국민의힘 해체하라” 구호를 외쳤다.&lt;br&gt;&lt;br&gt;이날 오후 6시쯤 시민 한 명이 “당사 건물 쪽으로 붙자”고 제안하자, 당사 맞은편 건물 앞에 서 있던 수백여 명의 시민들이 국민의힘 당사 앞으로 접근하며 “국힘 해체”를 외쳤다. 국회에서 김건희 특검법 부결 소식이 들리자, 10분 만에 인파 수백여명이 몰리는 상황이다.&lt;br&gt;&lt;br&gt;서울 송파구에 사는 대학생 최모(25)씨는 국회 앞 집회에 참가하다가 김건희 특검법이 부결됐다는 뉴스를 보고 국민의힘 당사로 달려왔다고 한다. 그는 “국민의 대표로 선출된 의원들이 위헌적 행위를 저지른 대통령을 지키겠다는 이유로 회의장에서 나오는 게 말이 되냐”며 “일반 직장인들도 일 안하고 싶다고 일터를 떠나진 않는데, 국민의 한 사람으로서 배신감을 느꼈다”고 했다.&lt;br&gt;&lt;br&gt;경찰은 인파가 몰려 안전 사고가 발생할 가능성에 대비해 국민의힘 당사 주변에 폴리스라인을 치는 등 경계를 강화하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/OUSMMX4D4RDVPKLCRSZCNRR4GE.jpg?width=4000&amp;height=2252&amp;auth=92d3d3838c418fac1e9888ed5e17cd7afa4714644fc3d0b234283304b0197b47&amp;smart=true" type="image/jpeg" height="2252" width="4000"/>
+    </item>
+    <item>
+      <title>철도노조 파업 후 첫 주말...열차 운행률 69.1%</title>
+      <link>https://www.chosun.com/national/transport-environment/2024/12/07/LBSRB56ZAJBQPMMS52LZNCE55Q/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2024/12/07/LBSRB56ZAJBQPMMS52LZNCE55Q/</guid>
+      <dc:creator>박상현 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 07 Dec 2024 08:48:48 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PW2RHNJFOBN3ZFK5H5NDXBOVC4.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;서울교통공사 노사 간 임단협 교섭이 극적 타결돼 총파업이 철회된 지난 6일 서울 구로구 지하철 신도림역 승강장에서 철도노조 파업 안내문이 나오고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전국철도노동조합(철도노조) 파업 후 맞는 첫 주말인 7일 전체 열차의 평균 운행률이 약 70%로 집계됐다.&lt;br&gt;&lt;br&gt;국토교통부에 따르면, 철도노조 파업 사흘째인 7일 오후 3시 기준 전체 열차의 평균 운행률은 평소의 69.1%로 집계됐다. 이는 이날 오전 9시(76%)보다는 6.9%포인트 내렸고, 전날 오후 3시(68.8%)보다는 0.3%포인트 오른 것이다.&lt;br&gt;&lt;br&gt;열차별 운행률은 수도권 전철 73.9%, KTX 68.9%, 여객열차 58.3%, 화물열차 33.8% 등이다.&lt;br&gt;&lt;br&gt;이날 오후 3시 기준 파업에는 출근 대상자 2만6675명 중 7441명이 참가해 참가율은 27.9%로 집계됐다.&lt;br&gt;&lt;br&gt;백원국 국토부 제2차관은 철도노조에 “어려운 시기에 국민 불편과 우리 경제에 막대한 부담을 주는 파업을 철회하고 지금에라도 현장에 복귀해 달라”고 촉구했다.&lt;br&gt;&lt;br&gt;그러면서 “주말을 맞아 KTX 등 장거리 철도 이용자의 불편을 최소화하라”며 “이용객이 언제라도 고속·시외버스를 이용할 수 있도록 혼잡도를 조속 모니터링, 필요하면 신속한 차량 추가 투입이 이뤄지도록 적극적인 대책을 이행하라”고 주문했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>국회의사당역 9호선 상하선 무정차 통과 중… 여의도역은 정상 운행 중</title>
+      <link>https://www.chosun.com/national/national_general/2024/12/07/P7JQSH527ZF4FMX55X45QFXARQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/07/P7JQSH527ZF4FMX55X45QFXARQ/</guid>
+      <dc:creator>박정훈 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 07 Dec 2024 08:19:42 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/U5A4WIEP7RL73GCYTAB4R44ODY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령 탄핵안 표결을 앞둔 7일 오후 서울 영등포구 국회 앞이 집회에 참석한 국민들로 꽉 차있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 대통령 탄핵소추안 표결을 앞둔 7일 오후 5시 집회 인파가 몰리며 서울 지하철 9호선 국회의사당역에서 열차가 무정차 통과하고 있다.&lt;br&gt;&lt;br&gt;서울시메트로9호선 측은 “대규모 여의도 집회로 오후 3시 10분부터 국회의사당역을 상하선 무정차 통과 중”이라고 했다. &lt;br&gt;&lt;br&gt;한편 지하철 5호선 여의도역도 오후 5시부터 열차가 무정차 통과 중이었지만 5시 17분 다시 운행이 정상적으로 재개 중이다. 지하철 9호선 여의도역도 오후 4시 30분부터 정상 운행 중이다. &lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>국민의힘 당사 앞 바리케이드 설치, 경력 집중</title>
       <link>https://www.chosun.com/national/national_general/2024/12/07/U77O5VXYWFCQ7DMI7SSKR4VC4A/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/07/U77O5VXYWFCQ7DMI7SSKR4VC4A/</guid>
@@ -797,24 +843,6 @@
 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난달 8일 제주 해상에서 발생한 135금성호 침몰 사고 실종자 수색이 한 달째 이어지고 있지만 별다른 성과를 내지 못하고 있다.&lt;br&gt;&lt;br&gt;부산 선적 대형 선망 어선 135금성호(129t급)는 지난 11월 8일 오전 4시 31분쯤 제주 비양도 북서쪽 약 22㎞ 해상에서 배가 기울고 있다는 신고 후 완전히 침몰했다. 이 사고로 승선원 27명(한국인 16명, 인도네시아인 11명) 중 한국인 선원 4명이 숨졌고, 한국인 선원 8명과 인도네시아인 선원 2명 등 10명이 실종 상태다.&lt;br&gt;&lt;br&gt;해경은 25일간의 집중수색을 마무리하고 지난 2일 야간수색부터는 ‘지속적 광범위 수색’으로 전환해 실종자 수색을 이어오고 있다. 지속적 광범위 수색은 집중수색보다 투입되는 인원과 장비의 규모를 줄이고 경비함정이 평상시 임무수행과 실종자 수색을 병행한다는 것이다.&lt;br&gt;&lt;br&gt;또 제주도 재난안전대책본부는 오는 7일부터 육상 수색방식을 ‘일상조업 병행 수색’으로 전환한다. 해안가 수색에 투입된 군, 경찰 등이 철수하고 대신 어민과 바다환경지킴이 등이 일반 활동을 하면서 육상 수색을 병행하는 형태다.&lt;br&gt;&lt;br&gt;사고 발생 이후 현재까지 해상수색에 동원된 함선과 어선은 누적 810척(해경 함정 505척, 군 69척, 관공선 162척, 민간 어선 74척), 항공기 138대다. 육상 해안가 수색에는 총 1만482명의 인원이 투입돼 광범위한 수색을 펼쳤다.&lt;br&gt;&lt;br&gt;하지만 침몰된 어선 근처에서 실종자가 발견된 지난달 10일 이후 추가 실종자 발견 소식은 들려오지 않고 있다. 사고 발생 한 달이 다 돼가도록 수심 90ｍ 해저에 침몰한 금성호 선체로 진입조차 못 하는 실정이다. 수심 100ｍ까지 잠수할 수 있는 민간구난업체 소속 심해잠수사들이 투입됐지만 변덕스러운 겨울 날씨 탓에 이들의 수색도 중단과 재개를 반복하고 있다. 게다가 135금성호 선체와 연결된 길이 1200ｍ, 너비 100ｍ에 달하는 방대한 그물이 선체 진입을 방해하고, 심해 속 50㎝밖에 안 되는 좋지 않은 시정도 수색에 어려움을 주고 있다.&lt;br&gt;&lt;br&gt;금성호 침몰 사고 원인에 대한 해경의 수사도 지지부진하다. 해경은 사고 원인 규명을 위해 금성호와 함께 조업했던 선박과 출항지 인근 방범카메라(CCTV) 영상 자료를 확보해 분석을 마쳤고, 부산에 있는 선사 사무실을 압수수색해 선박 관리와 관련한 서류 등을 확보해 조사하고 있다.&lt;br&gt;&lt;br&gt;그런데도 선박 구조물의 불법 증·개축 여부 등 선체 복원성에 영향을 미칠 정도의 관리 부실이 있었는지 여부는 지금까지 발견하지 못했다.&lt;br&gt;&lt;br&gt;해경 관계자는 “수중에 침몰한 선체를 인양해 육안으로 확인하지 못한 상황이라 수사에 어려움이 있다”며 “현재로서는 사고 당시 해상 기상이 양호했던 것으로 보아 금성호는 그물을 끌어올리는 양망 과정에서 평소보다 많은 어획물로 인해 우측으로 기울어져 전복돼 침몰한 것으로 추정한다”고 설명했다.&lt;br&gt;&lt;br&gt;침몰한 135금성호 선체를 인양하는 것도 만만치 않은 일이다. 겨울철 기상 여건이 좋지 않은 데다 침몰한 해역의 물살이 세고 수심 90ｍ 바닥에 가라앉아 있어 인양에는 고도의 전문기술이 필요하다. 전문 해난구조업체가 맡아야 하는데 그럴 경우 인양 비용이 상당할 것으로 예상된다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>아브뉴프랑 성남 판교점 화재...“음식점 주방에서 기름 튀어”</title>
-      <link>https://www.chosun.com/national/regional/2024/12/06/PKNRHNJT4JH6FLBHSWDEN6JQVQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/12/06/PKNRHNJT4JH6FLBHSWDEN6JQVQ/</guid>
-      <dc:creator>성남=권상은 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 06 Dec 2024 05:17:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4YH5QEKNABFVLCZVNF73THPI3A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;6일 낮 경기 성남시 아브뉴프랑 판교점 2층 음식점에서 화재가 발생하자 소방당국이 진화에 나서고 있다. /경기도소방재난본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;6일 낮 12시 26분쯤 경기 성남시 분당구 아브뉴프랑 판교점 2층에 입점한 음식점에서 불이 났다.&lt;br&gt;&lt;br&gt;이 불로 음식점 손님 등 6명이 연기를 마셔 현장에서 치료받았다. 또 1·2층 식당가 손님과 직원 등 165명이 한때 대피했다.&lt;br&gt;&lt;br&gt;소방당국은 “주방에서 기름이 튀어 불이 났다”는 신고를 받고 출동해 대응 1단계를 발령하고 진화에 나섰고, 펌프차 등 장비 40여대와 소방관 등 120여명을 투입해 화재 발생 1시간이 지난 오후 1시 30분쯤 큰 불길을 잡았다.&lt;br&gt;&lt;br&gt;불이 난 곳은 지하 2층에 지상 2층 규모의 상가와 18층 높이의 주거시설이 함께 있는 주상복합 건물이다. 소방당국은 화재 진화를 마치는 대로 피해 규모와 화재 원인을 조사할 방침이다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>홍준표 대구시장  “대통령, 임기단축 개헌 선언해야”</title>
-      <link>https://www.chosun.com/national/regional/2024/12/06/4JSKKLCX4NHEBM7QRQKDGPCW54/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/12/06/4JSKKLCX4NHEBM7QRQKDGPCW54/</guid>
-      <dc:creator>노인=노인호 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 06 Dec 2024 05:24:15 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WD23QU7POVHVXKR6IX6D5HQPM4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;홍준표, 대통령 사과와 거국내각 촉구./홍준표 대구시장 페이스북 캡쳐&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;홍준표 대구시장이 6일 윤석열 대통령에게 임기 단축 개헌 선언을 촉구했다.&lt;br&gt;&lt;br&gt;홍 시장은 이날 오전 10시쯤 자신의 페이스북에 “또다시 탄핵 당하면 이당은 더이상 존속할 가치도 없고 소멸 될 것”이라며 “대통령은 조속히 대국민 사과를 하고, 거국 내각을 구성해 책임총리에게 내정 일체를 맡기고 임기 단축 개헌을 선언하기 바란다”고 밝혔다.&lt;br&gt;&lt;br&gt;이어 홍 시장은 “머뭇거리면 박근혜 시즌 2가 될 것”이라고 덧붙였다.&lt;br&gt;&lt;br&gt;홍 시장은 2시간 뒤인 이날 정오 또다시 페이스북에 글을 올려 “두 달 전부터 박근혜 탄핵 전야로 가고 있다고 경고했는데도 그걸 알아듣지 못하고 당과 나라는 또다시 나락으로 가고 있다”며 “철부지 용병이 날뛰는 그 당은 미래가 없다. 그럴바엔 차라리 당을 해체하라”고 말했다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[속보] 대검 "비상계엄 사건, 군검찰과 합동수사"</title>
       <link>https://www.chosun.com/national/court_law/2024/12/06/4ZRHMTBN2NBMLNLYSOAJ53JGTM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/06/4ZRHMTBN2NBMLNLYSOAJ53JGTM/</guid>
@@ -822,24 +850,6 @@
       <description/>
       <pubDate>Fri, 06 Dec 2024 04:37:06 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QRAQHEU7GJPKXGDWQ3S34Z3IHU.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령의 비상계엄 해제 요구 결의안이 국회 본회의에서 통과된 직후인 4일 새벽 서울 서초구 대검찰청 청사에서 검찰 깃발이 바람에 날리고 있다. 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;비상계엄 사건에 특별수사본부를 구성한 검찰이 군검사 등 군검찰 인력을 파견받아 합동으로 수사하기로 했다. 대검찰청은 6일 “특별수사본부에 군검사 등 군검찰 인력을 파견받는 등 협조를 받아 합동해 수사하기로 했다”고 밝혔다.&lt;br&gt;&lt;br&gt;비상계엄에 군 병력이 다수 투입됐고, 사건 관계자 상당수가 현직 고위 군인인 점 등을 고려해 수사의 전문성을 높이려는 조치로 해석된다. 현역 군인에 조사는 군 검찰 소관이다.&lt;br&gt;&lt;br&gt;앞서 대검은 이날 박세현 서울고검장을 본부장으로 하는 특별수사본부를 구성했다. 특수본 차장검사로는 김종우 서울남부지검 2차장이, 그 아래 서울중앙지검 이찬규 공공수사1부장과 최순호 형사3부장이 배치됐다.&lt;br&gt;&lt;br&gt;심우정 검찰총장은 지난 5일 윤석열 대통령에 대한 직권남용과 내란죄 혐의 사건을 직접 수사하라고 지시했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“이상민, 김용현과 30초 통화...‘대통령실로 들어오라’는 내용이 전부”</title>
-      <link>https://www.chosun.com/national/national_general/2024/12/06/EKE3EWSL2RBFBKUDZETKACP4AM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/06/EKE3EWSL2RBFBKUDZETKACP4AM/</guid>
-      <dc:creator>최연진 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 06 Dec 2024 04:51:19 +0000</pubDate>
-      <content:encoded>지난 3일 비상 계엄 선포 4시간 반 전, 김용현 전 국방부 장관이 이상민 행정안전부 장관과 통화한 것과 관련해 행안부는 “용산 대통령실로 들어오라는 내용이 전부였다”고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RLKMIMUJFVN3DLQJVDXVZEN5NQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이상민 행정안전부 장관이 12월 5일 오전 서울 여의도 국회에서 열린 비상계엄 관련 행정안전위원회 전체회의에서 계엄 상황에 대한 사과를 하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;행안부는 이날 기자단 공지 메시지에서 “이상민 장관은 3일 오후 6시쯤 기차 안에서 김 전 국방장관의 전화를 30초 가량 수신했다”며 “내용은 용산 대통령실로 들어오라는 것이 전부였다”고 했다.&lt;br&gt;&lt;br&gt;행안부는 “이상민 장관이 계엄에 대해 알게 된 것은 대통령실에 도착한 이후”라고 했다. 통화 당시엔 비상계엄 선포에 대해 언급이 없었기 때문에 이 장관도 알지 못했다는 취지다.&lt;br&gt;&lt;br&gt;이 장관은 윤석열 대통령의 충암고 4년 후배고, 김 전 장관은 윤 대통령 1년 선배다. 야권에선 이번 비상계엄을 ‘충암고 라인’이 주도했다고 주장하고 있다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>국민의힘 시‧도지사協, 계엄 사태 관련 서울서 ‘긴급 회동’</title>
-      <link>https://www.chosun.com/national/national_general/2024/12/06/DZ56QLZC55ET3FQFKL4IWXG6LY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/06/DZ56QLZC55ET3FQFKL4IWXG6LY/</guid>
-      <dc:creator>인천=이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 06 Dec 2024 04:01:35 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/25UVYTEODVLB7IVVTTVUPDRVHM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령이 4일 새벽 용산 대통령실에서 비상계엄 선포 해제를 발표하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국민의힘 시‧도지사협의회가 6일 계엄 사태와 관련한 긴급 회동을 갖는다.&lt;br&gt;&lt;br&gt;국민의힘 시‧도지사협의회는 이날 오후 5시 서울 프레스센터에서 회동을 갖고 정국 수습 방안을 논의할 예정이다.&lt;br&gt;&lt;br&gt;국민의힘 시‧도지사협의회는 유정복 인천시장이 회장을 맡고 있으며, 오세훈 서울시장, 박형준 부산시장, 홍준표 대구시장 등 시‧도지사 12명이 참여하고 있다. 이날 회동에는 국민의힘 소속 시‧도지사 대부분이 참석할 것으로 알려졌다.&lt;br&gt;&lt;br&gt;협의회 사정을 잘 아는 한 관계자는 “혼란한 정국을 어떻게 수습해야 할지 논의하는 자리가 될 것으로 알고 있다”고 말했다.&lt;br&gt;&lt;br&gt;국민의힘 시‧도지사협의회는 지난 4일 이번 비상계엄 사태와 관련해 유감 입장을 밝히고, 윤석열 대통령의 사과를 요구했다. 협의회는 당시 “윤 대통령이 이번 비상계엄 선포에 대해 국민들께 사과하고, 향후 국정 안정과 쇄신을 위한 조치에 대해서도 분명한 입장을 표명해야 한다”고 촉구했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>한양대 교수·연구자 모임, 윤석열 대통령 탄핵 촉구 2차 시국선언</title>
@@ -861,19 +871,6 @@
       <description/>
       <pubDate>Fri, 06 Dec 2024 02:45:18 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MMNIAWE7CRKTBBX5KUIFNN6MQU.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;천대엽 법원행정처장이 지난 10월 7일 오전 서울 여의도 국회 법제사법위원회에서 열린 대법원(법원행정처)·사법연수원 등에 대한 국정감사에서 의원 질의에 답하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;천대엽 법원행정처장(대법관)은 6일 윤석열 대통령이 비상계엄을 선포한 직후에 열린 대법원 간부회의에서 계엄 선포 요건이 충족됐는지 등에 대해 상당한 의문이 제기됐다고 밝혔다.&lt;br&gt;&lt;br&gt;천 처장은 이날 국회 법제사법위원회 전체 회의에서 “대법원 간부 회의에서 계엄령이 위법하다는 걸 직시했느냐”는 더불어민주당 장경태 의원 질의에 “헌법이나 계엄법, 포고령, 담화문, 그리고 판례에 비춰봤을 때 거기에 적혀 있는 내용 중에 저희가 상당한 의문을 가진 점들이 있었다”고 답했다.&lt;br&gt;&lt;br&gt;대법원은 지난 3일 윤 대통령이 계엄을 선포하자 조희대 대법원장의 지시로 법원행정처 간부들을 소집해 심야 회의에 돌입했다. 공관에서 상황을 보고받은 조 대법원장도 청사로 출근해 회의를 주재했다.&lt;br&gt;&lt;br&gt;천 처장은 ‘당시 회의에서 계엄령의 위법성을 인지했는지’에 대해 “앞으로 재판 사항이 될 수 있기 때문에 그에 대한 판단을 말씀드릴 수 없지만 적어도 그 자리에서 논의됐던 부분은 말씀드리겠다”면서 “헌법이나 계엄법, 포고령, 담화문, 그리고 판례에 비춰봤을 때 거기에 적혀 있는 내용 중에 저희가 상당한 의문을 가진 점들이 있었다”고 했다.&lt;br&gt;&lt;br&gt;이어 “첫째로 사회 질서의 극도 교란으로 사법기능 수행이 현저히 곤란한 경우라고 과연 볼 수 있는지, 담화문에서 계엄 사유로 밝힌 것처럼 판사 겁박으로 사법 시스템이 마비됐다고 볼 수 있는지, 또 입법 독재로 인해 사법 시스템이 마비된 상태라 볼 수 있는지, 그 때문에 사법부 권능과 정상적인 작동을 정지·제한하는 비상조치를 받아들여야 하는 상황인지, 또한 경찰력이 아닌 군 병력으로 해소할 수 있는 비상사태인지, 그리고 국회 기능까지 제한한 것이 명문의 헌법 규정에 반하는 것이 아닌지 이런 부분에 대해 상당한 의문을 제기하는 의견이 많았다”고 했다.&lt;br&gt;&lt;br&gt;천 차장은 “계엄사가 국회를 침탈한 상황은 내란죄가 성립하는 범죄 아니냐”는 민주당 전현희 의원 질의에도 “그 부분이 저희가 상당한 의문을 가진 점 중의 하나”라고 답했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>일면식 없는 40대 살해·시신 유기 ‘김명현’ 신상 공개</title>
-      <link>https://www.chosun.com/national/regional/2024/12/06/42USVW5UKRD2DG4MPX77YOF72E/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/12/06/42USVW5UKRD2DG4MPX77YOF72E/</guid>
-      <dc:creator>우정식 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 06 Dec 2024 02:29:25 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G5QGPS7LDVCVTGWNU7EA6SQU2U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;신상이 공개된 살인범 김명현. /대전지검 서산지청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난달 일면식도 없는 남성을 흉기로 살해한 뒤 현금 12만원을 훔쳐 달아난 김명현(43)의 신상정보가 공개됐다.&lt;br&gt;&lt;br&gt;6일 대전지검 서산지청에 따르면 김명현의 이름과 나이, 얼굴 사진이 전날 서산지청 홈페이지에 게시됐다. 공개 기간은 다음 달 3일까지다.&lt;br&gt;&lt;br&gt;검찰은 지난달 28일 신상정보 공개심의위원회를 열고, 범행의 잔인성과 피해의 중대성, 공공의 이익, 피해자 유족의 신상정보 공개 요청 등을 종합적으로 고려해 신상정보 공개를 결정했다.&lt;br&gt;&lt;br&gt;김명현은 지난달 8일 오후 9시 40분쯤 충남 서산시 동문동의 한 식당 주차장 근처에 있던 승용차 뒷좌석에 침입, 대리운전기사를 기다리던 40대 남성을 흉기로 살해하고 12만원을 훔친 혐의를 받고 있다. 그는 범행 후 그대로 차를 타고 도주한 뒤 피해자 시신을 유기하고 차에 불을 지른 혐의도 받고 있다.&lt;br&gt;&lt;br&gt;김명현은 경찰 조사에서 “억대의 도박 빚 등 부채가 많아 생활고를 겪다가 범행을 했다”고 진술한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰 조사 결과, 김명현은 범행 전 미리 흉기를 준비하고 고가 승용차 운전자 등을 대상으로 범행 대상을 물색했던 것으로 드러났다. 또 범행 직후 훔친 돈으로 식사하고 6만원가량의 복권을 구매한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/LAFBLVAMPNELNCP5S45P3RHEI4.jpg?width=303&amp;height=227&amp;auth=9c037922c2c3d49d9ea840c458cdf487cb61b62e41ebb25d4edaafd0e1ea9b61&amp;smart=true" type="image/jpeg" height="227" width="303">
-        <media:description type="plain">신상이 공개된 살인범 김명현. /대전지검 서산지청</media:description>
-        <media:credit role="author" scheme="urn:ebu"/>
-      </media:content>
     </item>
     <item>
       <title>文 헌재소장 권한대행 “비상계엄 헌법소원, 주심 재판관 지정”</title>
