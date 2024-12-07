@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>[속보] 비상계엄 검찰 특수본, ‘내란 혐의’ 김용현 긴급체포</title>
+      <link>https://www.chosun.com/national/court_law/2024/12/08/WO2CWKACKVH47CZZOK6T2ZCLJE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/08/WO2CWKACKVH47CZZOK6T2ZCLJE/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 07 Dec 2024 23:02:54 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/C5DLQ2VBMNZH2ATRHF26YWLJLM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김용현 전 국방장관. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;비상계엄 검찰 특별수사본부(본부장 박세현 고검장)는 8일 김용현 전 국방장관을 긴급체포했다고 밝혔다. 윤석열 대통령이 지난 3일 비상계엄령을 선포한지 5일 만이다.&lt;br&gt;&lt;br&gt;특수본은 이날 오전 1시 30분부터 김 전 장관을 내란·직권남용 등 혐의 피의자 신분으로 조사했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4NMVJH7XYRP7BPVOHEZPCH5MGQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령이 선포한 비상계엄 집행을 주도한 김용현 전 국방부 장관이 8일 새벽 계엄 사태를 수사하는 검찰 특별수사본부에 자진출석해 조사를 받고 있는 가운데 서울 서초구 서울중앙지검에 불이 켜져 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>[이별전쟁14-2] 카지노서 날아온 고지서...남편은 10년 실종자 아닌 중독자였다</title>
       <link>https://www.chosun.com/national/court_law/2024/12/08/OOCVRLKA3JBY3AWOAAWHI4AZ7M/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/08/OOCVRLKA3JBY3AWOAAWHI4AZ7M/</guid>
@@ -891,18 +900,6 @@
       <pubDate>Fri, 06 Dec 2024 05:44:42 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ARYX4LAU4RO53O7IXQF3PU54BM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;해경 잠수사들이 지난달 19일 제주 비양도 인근 해상에서 '135금성호' 실종 선원 10명을 찾는 수중 수색을 하고 있다./제주지방해양경찰청
 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난달 8일 제주 해상에서 발생한 135금성호 침몰 사고 실종자 수색이 한 달째 이어지고 있지만 별다른 성과를 내지 못하고 있다.&lt;br&gt;&lt;br&gt;부산 선적 대형 선망 어선 135금성호(129t급)는 지난 11월 8일 오전 4시 31분쯤 제주 비양도 북서쪽 약 22㎞ 해상에서 배가 기울고 있다는 신고 후 완전히 침몰했다. 이 사고로 승선원 27명(한국인 16명, 인도네시아인 11명) 중 한국인 선원 4명이 숨졌고, 한국인 선원 8명과 인도네시아인 선원 2명 등 10명이 실종 상태다.&lt;br&gt;&lt;br&gt;해경은 25일간의 집중수색을 마무리하고 지난 2일 야간수색부터는 ‘지속적 광범위 수색’으로 전환해 실종자 수색을 이어오고 있다. 지속적 광범위 수색은 집중수색보다 투입되는 인원과 장비의 규모를 줄이고 경비함정이 평상시 임무수행과 실종자 수색을 병행한다는 것이다.&lt;br&gt;&lt;br&gt;또 제주도 재난안전대책본부는 오는 7일부터 육상 수색방식을 ‘일상조업 병행 수색’으로 전환한다. 해안가 수색에 투입된 군, 경찰 등이 철수하고 대신 어민과 바다환경지킴이 등이 일반 활동을 하면서 육상 수색을 병행하는 형태다.&lt;br&gt;&lt;br&gt;사고 발생 이후 현재까지 해상수색에 동원된 함선과 어선은 누적 810척(해경 함정 505척, 군 69척, 관공선 162척, 민간 어선 74척), 항공기 138대다. 육상 해안가 수색에는 총 1만482명의 인원이 투입돼 광범위한 수색을 펼쳤다.&lt;br&gt;&lt;br&gt;하지만 침몰된 어선 근처에서 실종자가 발견된 지난달 10일 이후 추가 실종자 발견 소식은 들려오지 않고 있다. 사고 발생 한 달이 다 돼가도록 수심 90ｍ 해저에 침몰한 금성호 선체로 진입조차 못 하는 실정이다. 수심 100ｍ까지 잠수할 수 있는 민간구난업체 소속 심해잠수사들이 투입됐지만 변덕스러운 겨울 날씨 탓에 이들의 수색도 중단과 재개를 반복하고 있다. 게다가 135금성호 선체와 연결된 길이 1200ｍ, 너비 100ｍ에 달하는 방대한 그물이 선체 진입을 방해하고, 심해 속 50㎝밖에 안 되는 좋지 않은 시정도 수색에 어려움을 주고 있다.&lt;br&gt;&lt;br&gt;금성호 침몰 사고 원인에 대한 해경의 수사도 지지부진하다. 해경은 사고 원인 규명을 위해 금성호와 함께 조업했던 선박과 출항지 인근 방범카메라(CCTV) 영상 자료를 확보해 분석을 마쳤고, 부산에 있는 선사 사무실을 압수수색해 선박 관리와 관련한 서류 등을 확보해 조사하고 있다.&lt;br&gt;&lt;br&gt;그런데도 선박 구조물의 불법 증·개축 여부 등 선체 복원성에 영향을 미칠 정도의 관리 부실이 있었는지 여부는 지금까지 발견하지 못했다.&lt;br&gt;&lt;br&gt;해경 관계자는 “수중에 침몰한 선체를 인양해 육안으로 확인하지 못한 상황이라 수사에 어려움이 있다”며 “현재로서는 사고 당시 해상 기상이 양호했던 것으로 보아 금성호는 그물을 끌어올리는 양망 과정에서 평소보다 많은 어획물로 인해 우측으로 기울어져 전복돼 침몰한 것으로 추정한다”고 설명했다.&lt;br&gt;&lt;br&gt;침몰한 135금성호 선체를 인양하는 것도 만만치 않은 일이다. 겨울철 기상 여건이 좋지 않은 데다 침몰한 해역의 물살이 세고 수심 90ｍ 바닥에 가라앉아 있어 인양에는 고도의 전문기술이 필요하다. 전문 해난구조업체가 맡아야 하는데 그럴 경우 인양 비용이 상당할 것으로 예상된다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>한양대 교수·연구자 모임, 윤석열 대통령 탄핵 촉구 2차 시국선언</title>
-      <link>https://www.chosun.com/national/national_general/2024/12/06/QUJGNVWW2VHNLNQKM4F46EZIVY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/06/QUJGNVWW2VHNLNQKM4F46EZIVY/</guid>
-      <dc:creator>김병권 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 06 Dec 2024 03:03:11 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6MURIBBD65FOPAFKWBB2LLDCPQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한양대 본관 전경/조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한양대 교수와 연구자 모임이 지난 3일 밤 비상계엄을 선포한 윤석열 대통령에 대한 탄핵을 촉구하는 2차 시국선언을 발표했다.&lt;br&gt;&lt;br&gt;‘헌법질서와 나라를 걱정하는 한양대 교수·연구자 모임’ 6일 보도자료를 내고 “12·3 비상계엄은 명백한 위헌”이며 “국회는 전원 윤석열 대통령 탄핵에 동의하라”고 촉구했다.&lt;br&gt;&lt;br&gt;이어 “대한민국 민주주의는 독재와 탄압의 시대로 돌아갈 수 없다”라며 “검찰과 경찰은 위헌적 비상계엄을 선포하여 국헌문란과 폭동을 야기한 윤석열 대통령과 김용현 국방부장관을 비롯한 이번 사태의 책임자들에 대하여 지체없이 수사하고 즉각 형사소추하라”고도 주장했다.&lt;br&gt;&lt;br&gt;한편, ‘나라와 위기를 걱정하는 한양대 교수 일동’ 51명은 지난달 5일에도 “윤석열 정권을 맞아 대한민국은 정치와 민주주의, 경제, 사회문화, 외교와 안보, 노동, 국민의 보건과 복지 등 모든 분야에서 반동과 퇴행이 자행됐다”라는 내용의 1차 시국선언문을 낸 바 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/6MURIBBD65FOPAFKWBB2LLDCPQ.jpg?width=1000&amp;height=550&amp;auth=cd56e3d080f9078e1a75611e8a5415baa4941de7aeac38674e3a6a2b38686ef0&amp;smart=true" type="image/jpeg" height="550" width="1000">
-        <media:description type="plain">한양대는 국제화 전략뿐 아니라 연구와 교육 역량의 상호 연계로 시너지를 창출하고 있다. 사진은 한양대 본관 전경.</media:description>
-      </media:content>
     </item>
     <item>
       <title>검찰, ‘윤석열 내란 혐의’ 특별수사본부 구성...본부장에 박세현 서울고검장</title>
