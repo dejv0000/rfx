@@ -6,8 +6,28 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>검찰 특수본 "윤석열 대통령 내란죄 피의자로 입건"</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 100%;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/203589.jpg" alt="203589.jpg" style="width: 100%; height: auto;" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;《사진=연합뉴스》&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;검찰 특별수사본부가 12·3 비상계엄을 선포한 윤석열 대통령을 피의자로 입건해 수사 중이라고 밝혔다. &lt;br /&gt;&lt;br /&gt;검찰 특별수사본부장 박세현 서울고검장은 8일 오후 언론 프리핑에서 '윤 대통령을 내란 혐의 등으로 피의자 입건했느냐'라는 질문에 "관련 고발장이 많이 접수돼 절차에 따라 수사 중이다. 고소·고발이 되면 절차상으로는 (피의자가) 맞다"고 답했다. &lt;br /&gt;&lt;br /&gt;박 본부장은 "내란죄에 대해 수사하지 않거나 수사하지 않을 계획이 없다. 지위고하를 막론하고 오로지 법과 원칙에 따라 엄정하게 수사를 진행할 것"이라고 밝혔다. &lt;br /&gt;&lt;br /&gt;박 본부장은 질의응답 전 모두발언에서도 "비상계엄 특수본은 이번 국가적인 중대사건에 대해 어떠한 의혹도 남지 않도록 모든 노력을 다할 것"이라며 "지위고하를 막론하고 오로지 법과 원칙에 따라 엄정하게 수사를 진행하고 있으므로 국민여러분께서는 믿고 지켜봐 주시길 바란다"고 당부했다. &lt;br /&gt;&lt;br /&gt;특히 박 본부장은 검찰의 수사 범위에 내란죄가 없다는 지적에 대해 "이 사건의 사실관계는 공무원이 직권남용해 국헌문란 목적으로 폭동 일으켰다는 것이고 이 두 가지가 직권남용과 내란죄의 구성요건"이라며 "검찰청법에 직권남용을 포함해 검사가 수사할 수 있는 범죄와 직접 관련성이 있는 것은 검사가 수사할 수 있다"고 말했다. &lt;br /&gt;&lt;br /&gt;이어 "이 사안에서 내란죄와 직권남용이 관련성 없다고 해석할 수 있는지는 기자와 국민께서 쉽게 판단할 수 있다고 생각한다"며 "같은 판단으로 수사 진행하고 있고 두 가지 혐의 모두 수사 중"이라고 설명했다. &lt;br /&gt;&lt;br /&gt;</description>
+			<pubDate>Sun, 08 Dec 2024 05:30:15 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/203589</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/203589</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/203589.jpg</media:thumbnail>
+			<dc:creator>우빈 기자</dc:creator>
+		</item>
+		<item>
+			<title>[속보] 박세현 검찰 특수본부장 "국가적 중대사건, 지위고하 막론하고 수사"</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 100%;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/203588.jpg" alt="203588.jpg" style="width: 100%; height: auto;" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;《사진=연합뉴스》&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&amp;nbsp;&lt;/p&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="1054"&gt;박세현&amp;nbsp;&lt;/span&gt;비상계엄 특별수사본부장(서울고검장)이 8일 "국가적인 중대사건에 대해 어떠한 의혹도 남지 않도록 모든 노력을 다할 것"이라며 "지위고하를 막론하고 오로지 법과 원칙에 따라 엄정하게 수사를 진행하고 있으므로 국민 여러분께서는 믿고 지켜봐 주시기 바란다"고 밝혔다. &lt;br /&gt;&lt;br /&gt;아래는 전문&lt;p&gt;&amp;nbsp; &lt;br /&gt;&lt;/p&gt;&lt;hr style="height: 1px; background-color: #999999; border: none;" /&gt;&lt;br /&gt;안녕하십니까? 비상계엄 특별수사본부 박세현 본부장입니다. &lt;br /&gt;&lt;br /&gt;지난 12월 6일 검찰은 검사 20명, 수사관 30명으로 특별수사본부를 구성하였고, 어제 군검사 등 12명을 추가로 파견받아 군검찰과 합동수사를 진행하고 있습니다. &lt;br /&gt;&lt;br /&gt;비상계엄 특별수사본부는 이번 국가적인 중대사건에 대하여 어떠한 의혹도 남지 않도록 모든 노력을 다할 것입니다. &lt;br /&gt;&lt;br /&gt;지위고하를 막론하고 오로지 법과 원칙에 따라 엄정하게 수사를 진행하고 있으므로, 국민 여러분께서는 믿고 지켜봐 주시기 바랍니다. &lt;br /&gt;&lt;br /&gt;감사합니다.&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
+			<pubDate>Sun, 08 Dec 2024 05:01:45 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/203588</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/203588</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/203588.jpg</media:thumbnail>
+			<dc:creator>임현경 기자</dc:creator>
+		</item>
+		<item>
 			<title>경찰, '내란 혐의' 김용현 공관·장관 집무실 등 압수수색</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 100%;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/203587.jpg" alt="203587.jpg" style="width: 100%; height: auto;" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;《사진=연합뉴스》&lt;/figcaption&gt;   &lt;/figure&gt;&lt;/div&gt;&lt;p&gt;&amp;nbsp;&amp;nbsp;&lt;/p&gt;12·3 비상계엄 사태를 수사 중인 경찰청 국가수사본부가 내란 혐의를 받는 김용현 전 국방장관에 대한 압수수색에 나섰다. &lt;br /&gt;&lt;br /&gt;경찰청 안보수사단 전담수사팀은 8일 오전 김 전 장관의 공관과 국방부 장관 집무실 등에 대한 압수수색에 착수했다고 밝혔다. &lt;br /&gt;&lt;br /&gt;김 전 장관은 윤석열 대통령에게 비상계엄을 건의한 인물로 이번 사태의 핵심 피의자로 지목됐다. 윤 대통령의 충암고 1년 선배다. &lt;br /&gt;&lt;br /&gt;앞서 김 전 장관은 이날 새벽 1시 30분께 변호인과 함께 검찰 특별수사본부에 자진 출석해 조사를 받았다. 검찰은 김 전 장관을 긴급체포하고 소지한 휴대전화를 압수했다. 밤샘 조사를 마친 김 전 장관은 서울동부구치소로 이송됐다. &lt;br /&gt;&lt;br /&gt;검찰이 김 전 장관에 대한 신병을 확보했지만, 경찰이 검찰의 사건 송치 요구 이전에 압수수색 영장을 먼저 신청한만큼 별도로 강제수사에 나선 것으로 보인다.</description>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 100%;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/203587.jpg" alt="203587.jpg" style="width: 100%; height: auto;" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;《사진=연합뉴스》&lt;/figcaption&gt;   &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&amp;nbsp;&lt;/p&gt;12·3 비상계엄 사태를 수사 중인 경찰청 국가수사본부가 내란 혐의를 받는 김용현 전 국방장관에 대한 압수수색에 나섰다. &lt;br /&gt;&lt;br /&gt;경찰청 안보수사단 전담수사팀은 8일 오전 김 전 장관의 공관과 국방부 장관 집무실 등에 대한 압수수색에 착수했다고 밝혔다. &lt;br /&gt;&lt;br /&gt;김 전 장관은 윤석열 대통령에게 비상계엄을 건의한 인물로 이번 사태의 핵심 피의자로 지목됐다. 윤 대통령의 충암고 1년 선배다. &lt;br /&gt;&lt;br /&gt; 앞서 김 전 장관은 이날 새벽 1시 30분께 변호인과 함께 검찰 특별수사본부에 자진 출석해 조사를 받았다. 검찰은 김 전 장관을 긴급체포하고 소지한 휴대전화를 압수했다. 다만 출두 전에 이미 휴대폰을 교체한 것으로 알려졌다. 밤샘 조사를 마친 김 전 장관은 서울동부구치소로 이송됐다.&lt;br /&gt;&lt;br /&gt;검찰이 김 전 장관에 대한 신병을 확보했지만, 경찰이 검찰의 사건 송치 요구 이전에 압수수색 영장을 먼저 신청한만큼 별도로 강제수사에 나선 것으로 보인다.</description>
 			<pubDate>Sun, 08 Dec 2024 02:12:36 -0000</pubDate>
 			<category>news</category>
 			<link>https://www.lawtimes.co.kr/news/203587</link>
@@ -222,26 +242,6 @@
 			<link>https://www.lawtimes.co.kr/news/203569</link>
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/203569</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/203569.jpg</media:thumbnail>
-			<dc:creator>조한주 기자</dc:creator>
-		</item>
-		<item>
-			<title>법무부, '2024 기업환경개선 국제콘퍼런스' 개최</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 100%;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/203568.jpg" alt="203568.jpg" style="width: 100%; height: auto;" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;콘퍼런스 참석자들. 《법무부 제공》&lt;/figcaption&gt;   &lt;/figure&gt;&lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;세계 각국의 기업환경 평가에 대한 대응 방향과 법제 개선 방안을 논의하는 자리가 마련됐다.&lt;br /&gt;&lt;br /&gt;법무부(장관&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="1239"&gt;박성재&lt;/span&gt;)는 3일 서울 영등포구 여의도동 글래드호텔 여의도에서 ‘기업환경개선 국제콘퍼런스’를 개최했다.&lt;br /&gt;&lt;br /&gt;이날 행사에는 일본, 태국 등 정부 관계자와 싱가포르, 호주 등 국내외 주요 법률 전문가들이 참석해 세계은행의 기업환경 평가에 대한 대응 방향과 기업법제 개선 방안을 논의했다.&lt;br /&gt;&lt;br /&gt;세계은행의 기업환경 평가는 각국의 기업환경을 분석해 기업을 운영하기 좋은 국가 순위를 매기는 제도다. 우리나라는 2019년에 190개국 중 종합 5위를 차지했지만 2003년에는 23위를 기록했다.&lt;br /&gt;&lt;br /&gt;세계은행은 2020년 기존 평가를 중단하고, 지난해부터 새로운 기업환경 평가(B-Ready)를 진행하고 있다. 이번 콘퍼런스 참석자들은 새 평가에서 추가된 평가 항목인 사법적 분쟁 해결, 기업 도산, 기업 입지 분야의 구체적인 평가 요소와 제도적으로 개선할 부분에 대해 의견을 나눴다. 우리나라는 올해 해당 평가 대상국으로 선정됐으며, 평가 결과는 해외 투자자들이 투자 판단 시 주요 참고자료로 활용될 예정이다.&lt;br /&gt;&lt;br /&gt;아울러 우리나라가 주도하는 아태경제협력체의 기업환경 개선 사업(APEC EoDB)이 회원국들의 기업 법제 및 실무 개선에 기여한 성과와 향후 사업 방향도 함께 논의됐다.&lt;br /&gt;&lt;br /&gt;법무부는 이번 논의 내용을 바탕으로 “글로벌 스탠더드에 부합하는 기업법제 마련 및 기업환경 개선을 추진하겠다”고 강조했다.&lt;/p&gt;</description>
-			<pubDate>Fri, 06 Dec 2024 10:03:34 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/203568</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/203568</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/203568.jpg</media:thumbnail>
-			<dc:creator>조한주 기자</dc:creator>
-		</item>
-		<item>
-			<title>공법학회·고려대 '국정감사·조사제도, 이대로 좋은가' 학술대회</title>
-			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/thumb/180/203567.jpg" alt="203567.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;국정감사와 국정조사에 관해 심층적으로 다루는 자리가 마련된다.&lt;br /&gt;&lt;br /&gt;오는 18일 서울 성북구 종암동 고려대 CJ법학관 베리타스홀에서 '국정감사·조사제도, 이대로 좋은가?'를 주제로 학술대회가 열린다. 이번 학술대회는 한국공법학회(회장 김재광)와 고려대 법학연구원(원장 강병근)이 주최하고, 법률신문사가 후원한다.&lt;br /&gt;&lt;br /&gt;정부에 대한 국정감사와 조사권 등 국회의 통제 기능은 현대 민주국가에서 매우 중요한 요소다. 그런데 서구와 달리 한국은 매년 정기국회에서 국정조사와는 별도로 국정감사를 시행하는 특징이 있다. 이를 두고, 감사와 조사의 중복으로 인해 시간과 비용이 낭비된다는 점을 지적하며 서구 선진국처럼 국정감사 제도를 폐지해야 한다는 의견과, 국정조사가 활성화되지 못한 상황에서 당장 폐지하기에는 무리가 있다는 의견으로 나뉘고 있다.&lt;br /&gt;&lt;br /&gt;공법학회 관계자는 "이 같은 논쟁은 오늘날 국정감사 과정에서 과도한 증인 출석 요구와 조사 과정에서의 여러 인권 침해 논란으로 인해 더욱 첨예해지고 있다"며 "국정감사와 조사를 둘러싼 심층 논의를 위해 학술대회를 개최한다"고 밝혔다.&lt;br /&gt;&lt;br /&gt;이번 학술대회는 두 개의 주제로 나뉘어 진행된다. 사회는 이헌환 아주대 로스쿨 교수가 맡았다.&lt;br /&gt;&lt;br /&gt;먼저 '국정감사와 국정조사, 옥상옥인가? 역할분담인가?'를 주제로 김상겸 동국대 법대 명예교수가 발표한다. 홍완식 건국대 로스쿨 교수와 정문식 한양대 로스쿨 교수가 토론자로 참여한다.&lt;br /&gt;&lt;br /&gt;이어 장영수 고려대 로스쿨 교수가 '국정감사-조사에서 증인 소환 및 조사의 문제점'을 주제로 발표하며, 임지봉 서강대 로스쿨 교수와 이상경 서울시립대 로스쿨 교수가 토론자로 나선다.&lt;br /&gt;</description>
-			<pubDate>Fri, 06 Dec 2024 10:02:40 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/203567</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/203567</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/203567.jpg</media:thumbnail>
 			<dc:creator>조한주 기자</dc:creator>
 		</item>
 	</channel>
