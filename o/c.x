@@ -13,6 +13,148 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>비상계엄 특수본“경찰 합동수사 제안하면 언제든 응하겠다”</title>
+      <link>https://www.chosun.com/national/court_law/2024/12/08/S5AMTQC32NDBRC5CZQWLJGJPEI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/08/S5AMTQC32NDBRC5CZQWLJGJPEI/</guid>
+      <dc:creator>이슬비 기자, 이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 08 Dec 2024 05:11:37 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AOJMCSUQABEEPMYYYWDPIQXEUM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;박세현 비상계엄 특별수사본부장이 8일 오후 서울 서초구 서울고검 기자실에서 수사 관련 브리핑을 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;비상계엄 사태를 수사하는 검찰 특별수사본부가 “경찰이 합동 수사를 제안하면 언제든 응할 용의가 있다”고 했다.&lt;br&gt;&lt;br&gt;박세현 비상계엄 특별수사본부 본부장(서울고검장)은 8일 오후 언론 브리핑에서 “그동안에도 경찰에 협력 및 합동 수사를 제안한 바 있다”며 이같이 밝혔다.&lt;br&gt;&lt;br&gt;박 본부장은 “이 사건에서 가장 관련자가 많은 곳이 군과 경찰”이라며 “지금 군검찰이 검찰과 합동 수사를 진행 중이고 핵심 인물인 김용현 전 국방부 장관은 검찰에 체포돼 조사 중”이라고 했다. 이어 “경찰 관련은 주로 경찰이 하는데, 혐의가 있다면 검찰에 송치돼야 할 것”이라고 했다.&lt;br&gt;&lt;br&gt;박 본부장은 “초동 수사를 누가 하느냐는 중요하다고 생각하지 않고 신속하고 엄정한 진상 규명과 처벌이 중요하다”면서 “경찰도 사안의 중대성과 효율적 수사, 사건 관계인 기본권 보호 측면에서 저희와 좋은 방안을 계속 협의하기를 기대한다”고 했다.&lt;br&gt;&lt;br&gt;경찰은 내란죄는 검찰이 아닌 경찰의 수사 범위라는 점을 들어 검찰의 합동 수사 제안을 거절한 것으로 알려졌다. 그러나 검찰은 내란죄와 직권남용 모두 검찰이 수사할 수 있다고 보고 있다.&lt;br&gt;&lt;br&gt;박 본부장은 이날 “이 사건 사실관계를 한 마디로 쉽게 설명하면 공무원이 직권을 남용해 국헌문란을 목적으로 폭동을 일으켰다는 것”이라고 했다. 이어 “그 두 개가 직권남용과 내란죄의 구성요건이고, 검찰청법을 보면 직권남용을 포함해 검사가 수사할 수 있는 범죄와 직접 관련성이 있는 범죄는 당연히 검사가 수사할 수 있다”라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>대법 “공장·사무실 함께 쓰는 건물은 ‘상가’…상가 임대차법 보호 대상”</title>
+      <link>https://www.chosun.com/national/court_law/2024/12/08/QK3UEG4PPZEG7JRV4WK62TGAWE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/08/QK3UEG4PPZEG7JRV4WK62TGAWE/</guid>
+      <dc:creator>박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 08 Dec 2024 04:11:46 +0000</pubDate>
+      <content:encoded>공장 건물에 사무실을 두고 영업을 했다면 이를 ‘상가 건물’로 봐야 한다는 대법원 판단이 나왔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/US44TUU6MRGTDHAKZ2X6TUHWAE.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초동 대법원 건물. /조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;8일 법조계에 따르면, 대법원 2부(주심 박영재 대법관)는 지난달 14일 건물주 A씨 등이 임차인 B씨를 상대로 낸 건물 인도 청구 소송에서 원심의 원고 승소 판결을 깨고 사건을 창원지법으로 돌려보냈다.&lt;br&gt;&lt;br&gt;A씨는 공동소유자와 함께 2020년 1월~2022년 1월 B씨에게 월세를 받고 공장 건물을 빌려줬다. B씨는 이 건물에 대한 사업자등록을 마치고 레이저 용접의 제조업을 했다.&lt;br&gt;&lt;br&gt;그러던 도중 2021년 11월 B씨는 문자메시지로 A씨에게 임대차 계약 갱신을 요구했지만, A씨가 거부했다고 한다. 계약이 만료된 2022년 1월 후에도 B씨가 건물을 비우지 않자 A씨 등은 건물을 돌려달라며 이 소송을 냈다.&lt;br&gt;&lt;br&gt;B씨는 해당 건물이 상가임대차법 적용 대상이며, 계약기간 도중 계약 갱신 의사를 표시했기 때문에 임대차 기간이 끝나지 않았다고 주장했다. 상가임대차법은 임차인이 계약기간 만료 1개월 전까지 계약갱신을 요구하면 임대인이 정당한 사유 없이 거절하지 못하도록 ​한다.&lt;br&gt;&lt;br&gt;1심은 이 건물이 상가에 해당한다 보고 임차인 B씨의 손을 들어줬다. 건물 중 287.5㎡는 용접 작업장으로, 36.8㎡는 영업용 사무실로 쓰였는데, B씨가 이 사무실에서 대금을 결제하고 세금계산서를 발행하는 등 영업 활동을 했다는 점에서 상가로 봐야한다고 했다.&lt;br&gt;&lt;br&gt;그러나 2심은 “건물의 주된 부분이 제조업소인 이상 주된 부분을 영업용으로 사용하는 경우에 해당한다고 보기 어렵다”며 상가임대차법을 적용할 수 없다고 봤다. 건물을 상가가 아닌 단순 제조업을 하는 공장으로 판단한 것이다.&lt;br&gt;&lt;br&gt;대법원은 이 판단을 다시 뒤집었다. 해당 건물은 상가로 볼 수 있기 때문에 상가임대차법을 적용해야 한다는 취지다.&lt;br&gt;&lt;br&gt;대법원은 “피고는 이 건물 외에 별도의 영업소를 두고 있지 않고, 상품의 제조·가공과 함께 대금 수수 등 영리를 목적으로 하는 활동이 이루어지고 있다”며 “해당 공장에서는 단순 제조 뿐만 아니라 일련의 영업활동도 이뤄지는, 건물 전체가 영업활동을 하는 하나의 사업장으로서 영업용으로 사용하는 건물이라고 봐야 한다”고 했다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>부하 직원 병가 제한하면서 지각 일삼은 경찰 간부…법원 “정직 정당”</title>
+      <link>https://www.chosun.com/national/court_law/2024/12/08/HGZPAKFZ45CRLBATOEXIMSG6NM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/08/HGZPAKFZ45CRLBATOEXIMSG6NM/</guid>
+      <dc:creator>박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 08 Dec 2024 03:45:41 +0000</pubDate>
+      <content:encoded>본인은 지각·조퇴를 일삼으면서 부하 경찰들의 연·병가는 제한한 경찰 간부에게 정직 징계 처분을 한 것은 정당하다는 법원 판결이 나왔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BUEN6HFFPT7CTAMABVR2V73EOY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울경찰청 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울행정법원 행정8부(재판장 이정희)는 지난 9월 A 경감이 서울경찰청을 상대로 낸 정직처분 취소 소송에서 원고 패소로 판결했다고 8일 밝혔다.&lt;br&gt;&lt;br&gt;서울경찰청 기동대 소속 A 경감은 작년 5월 부하 직원의 연·병가를 과도하게 제한하거나 사적인 심부름을 시키고 부적절한 언행을 하는 등 갑질·비인권적 행위로 정직 2개월의 징계 처분을 받았다.&lt;br&gt;&lt;br&gt;A 경감은 서울경찰청에 별도의 연가 제한 지침이 없음에도, 총 4일에 걸쳐 소속 부하 직원들의 연가를 제한했다고 한다. 한 부하 직원이 감기 몸살로 병가를 신청하자, 출근을 지시해 상태를 직접 확인한 후에야 병가를 허락했다. 간염 진단을 받은 또다른 부하 직원에게는 병가 대신 연가를 사용하도록 했다. “아프다고 못 나오면 출동률은 어떻게 하냐”, “누가 14시에 조퇴하냐. 16시 이후 조퇴하라”며 부하들의 연·병가와 조퇴 사용을 통제했다.&lt;br&gt;&lt;br&gt;또 A 경감은 자신이 먹고 남은 빈 도시락을 치우게 하거나 자신의 버스 좌석 쓰레기 청소를 시키는 등 부하 직원들에게 사적인 심부름을 시킨 것으로 조사됐다. 그러면서 A 경감 본인은 평소 지각과 무단 퇴근 등을 일삼았다고 한다. &lt;br&gt;&lt;br&gt;A 경감은 정직 처분이 부당해 취소해달라며 소송을 냈다. A 경감은 “휴가 등 사고자를 관리해야 하는 기동대장을 보좌하는 제대장으로서 출동률 80% 달성을 위해 소속 부하 직원의 연가와 병가 및 조퇴를 제한하는 것은 업무상 적정범위 내 직무수행에 해당해 징계 사유에 해당하지 않는다”고 했다.&lt;br&gt;&lt;br&gt;사적인 심부름을 시킨 것에 대해선 “직원들이 스스로 행동한 것”이라고 주장했다. 또 잦은 지각과 조퇴에 대해선 “사전 보고를 했다”고 해명했다.&lt;br&gt;&lt;br&gt;그러나 재판부는 A 경감의 주장을 받아들이지 않았다. 재판부는 “A 경감이 연·병가를 제한한 행위는 아무런 법적 근거가 없으며, 출동률 80% 준수를 위한 행위였다는 이유만으로 부당 제한이 허용될 수 없다”고 했다.&lt;br&gt;&lt;br&gt;이어 “자신에게는 관대한 잣대를 적용하며 근무 시간을 준수하지 않고 출·퇴근, 조퇴를 하여 비위행위에 대한 징계의 필요성이 상당히 크다”며 “오히려 사실관계를 왜곡하고 부하 직원을 탓하는 등 진심으로 반성하고 있는지 의문이 들게 해 비난가능성이 크다”고 지적했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>尹탄핵 촉구 집회에 ‘아이돌 응원봉’ 들고 나오는 2030</title>
+      <link>https://www.chosun.com/national/national_general/2024/12/08/4VQCFRVOSFFB3EYASE7Z6LJWA4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/08/4VQCFRVOSFFB3EYASE7Z6LJWA4/</guid>
+      <dc:creator>강지은 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 08 Dec 2024 05:10:43 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HCSSLBOKFZENZLNLVLNN6I5QKI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 7일 오후 서울 영등포구 국민의힘 당사 앞에서 한 시민이 아이돌 그룹 '오마이걸' 응원봉을 들고 윤석열 대통령 퇴진 촉구 집회에 참여하고 있다./강지은 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 7일 오후 7시쯤 서울 영등포구 국민의힘 당사 앞. 국민의힘 소속 의원들에게 “탄핵에 동참하라”고 외치는 시민들 사이사이 형형색색의 불빛이 보였다. 이들이 들고 있는 건 콘서트장에서 아이돌 가수를 응원할 때 사용하는 팬 상품인 ‘응원봉’이었다. 보이그룹 ‘NCT’의 직육면체 응원봉, 다이아몬드 모양의 ‘샤이니’ 응원봉, 사슴뿔을 형상화한 ‘오마이걸’ 응원봉 등 그 종류도 다양했다. 래퍼 ‘우즈’의 응원봉을 들고 있던 대학생 김모(21)씨는 “피켓, 촛불처럼 획일화된 도구보다는 나만의 물건으로 목소리를 내고 싶었다”며 ”촛불은 바람에 꺼지지만 응원봉은 24시간 빛나고, 손목에 걸 수 있는 끈도 있어 사용하기 편하다”고 했다.&lt;br&gt;&lt;br&gt;비상계엄 선포 이후 연일 대통령 퇴진 촉구 집회가 열리고 있는 가운데, ‘아이돌 응원봉’이 새로운 집회 도구로 떠오르고 있다. 젊은층은 정치에 무관심하다는 통념과 달리, “교과서에서만 보던 비상계엄이 21세기에 선포됐다”며 집회 현장으로 달려오는 20대가 늘었기 때문이다. 실제로 집회 현장에서 만난 시민들은 “참여자 대다수가 중장년층일 줄 알았는데, 응원봉을 들거나 학과 점퍼를 입은 대학생들이 많아 의외였다”는 반응을 보였다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VNGZHAIAYZHATPP6TBRJL4Q2XA.png"&gt;&lt;figcaption&gt;&lt;small&gt;국회 앞 집회 현장에서 시민들이 응원봉을 든 모습./X(옛 트위터) 캡처&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;콘서트장에서나 볼 법한 응원봉이 집회 현장에 등장한 건 개성을 중시하는 MZ세대의 특성과 케이팝 문화의 보편화 때문이다. 이날 소녀시대 응원봉을 들고 집회에 참여한 대학생 이모(24)씨는 “젠더, 노동, 정치 성향 등 다양한 논제에 대한 나만의 의견이 있는데, 이를 상징적으로 드러내고 싶었다“고 했다. 수원에 사는 직장인 천모(23)씨는 ”내 또래 친구들은 집에 아이돌 응원봉 하나씩은 모두 가지고 있다“며 ”굳이 촛불을 살 필요 없이 내게 가장 친숙한 물건을 들고 나온 것”이라고 했다. 소셜 미디어나 유튜브에도 ‘다들 응원봉을 들고 모이자’고 독려하는 글이 올라오거나 ‘탄핵봉(탄핵과 응원봉을 합친 말)’ 만드는 방법이 공유되고 있다.&lt;br&gt;&lt;br&gt;구정우 성균관대 사회학과 교수는 “케이팝의 상징인 응원봉은 국내외 젊은층의 공감을 이끌어내기 용이한 도구”라며 “응원봉을 드는 행위는 시위 현장에 근조화환을 보내는 관행과 함께 집회 현장의 ‘뉴노멀’로 자리잡을 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>민변 “한덕수·한동훈, 국정운영 할 헌법적·법률적 근거 없다”</title>
+      <link>https://www.chosun.com/national/court_law/2024/12/08/TNYLTWIB5VBZRIJSIBJCBE6AYI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/08/TNYLTWIB5VBZRIJSIBJCBE6AYI/</guid>
+      <dc:creator>박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 08 Dec 2024 05:08:30 +0000</pubDate>
+      <content:encoded>민주사회를위한변호사모임(민변)는 8일 한동훈 국민의힘 대표와 한덕수 국무총리의 공동 국정운영 방침에 대한 비판 성명을 냈다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WRCO2SYIBRCDVACXDYAS7ROW6E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한동훈 국민의힘 대표와 한덕수 국무총리가 8일 여의도 국민의힘 당사에서 대국민 공동 담화를 하고 있다. /이덕훈 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;민변은 이날 성명을 내고 “한 대표가 선언한 이른바 ‘질서있는 퇴진’은 윤석열 대통령의 반헌법적 비상계엄 선포에 대해 책임을 일체 묻지 않겠다는 것”이라며 “한 총리 역시 대통령의 반헌법적 비상계엄 선포를 막지 못한 자”라고 비판했다.&lt;br&gt;&lt;br&gt;한 총리와 한동훈 국민의힘 대표는 이날 오전 공동 대국민 담화를 통해 윤 대통령의 ‘질서 있는 조기 퇴진’을 공식화한 바 있다.&lt;br&gt;&lt;br&gt;이에 대해 민변은 “국회의원도 국무위원도 아닌 한 대표에게 국정운영 권한을 행사할 헌법적·법률적 근거는 없다”며 “이번 담화를 엄중히 규탄한다”고 밝혔다. 또 “윤 대통령을 보좌했던 한 총리와 윤 대통령을 옹호하기 위해 탄핵소추에 표결하지 않았던 정당의 대표는 국정을 운영하겠다는 뜻을 밝힐 자격이 없다”고 했다.&lt;br&gt;&lt;br&gt;앞서 민변은 지난 4일 윤 대통령의 비상계엄 선포 행위에 대한 헌법소원 심판을 헌재에 청구했다. 민변은 “윤 대통령의 비상계엄 선포 행위 및 계엄사령관 박안수 육군대장의 포고령 등은 집회 및 결사·언론·표현의 자유 등 기본권을 침해한 행위로 위헌임을 확인해달라”고 했다.&lt;br&gt;&lt;br&gt;이에 헌재는 지난 6일 윤 대통령의 비상계엄 선포가 헌법에 어긋나는지 사건 심리에 착수했다고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[속보] 검찰 특수본 “尹대통령 내란 혐의 피의자로 입건”</title>
+      <link>https://www.chosun.com/national/court_law/2024/12/08/RKTJ7AW56JEQHPCO445UOOGOIM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/08/RKTJ7AW56JEQHPCO445UOOGOIM/</guid>
+      <dc:creator>이슬비 기자, 이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 08 Dec 2024 04:44:31 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WUCCZFIWXRIKZIJO444KXUJTBA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;박세현 비상계엄 특별수사본부장이 8일 오후 서울 서초구 서울고등검찰청 기자실에서 수사 관련 브리핑을 하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;비상계엄 사태를 수사하는 검찰이 윤석열 대통령을 내란 혐의 피의자로 입건해 수사 중이라고 밝혔다.&lt;br&gt;&lt;br&gt;박세현 검찰 비상계엄 특별수사본부장은 이날 오후 언론 브리핑에서 “윤 대통령을 내란 혐의 피의자로 입건했느냐”는 기자 질문에 “관련 고발장이 많이 접수돼 절차에 따라 수사 중”이라며 “고발이나 고소되면 절차상으로는 (피의자가) 맞다”고 했다.&lt;br&gt;&lt;br&gt;박 본부장은 “윤 대통령에 대한 긴급체포는 이른 시일 내 가능하냐”는 질문에 “앞으로 수사계획에 대해 답변 드릴 수 없는 부분은 없다”면서도 “오로지 법과 원칙에 따라 대상 지위 고하 막론하고 엄정히 끝까지 수사하겠다는 말씀을 드린다”고 했다.&lt;br&gt;&lt;br&gt;박 본부장은 “내란죄에 대해 수사하지 않거나 앞으로 수사하지 않을 계획이 없다”면서 “직권남용과 내란 두 가지 혐의 모두 수사한다”고 밝혔다.&lt;br&gt;&lt;br&gt;박 본부장은 “이 사건 사실 관계를 쉽게 얘기하면 공무원이 직권을 남용해 국헌문란을 목적으로 폭동을 일으켰다는 것”이라며 “그 두 개가 직권남용과 내란죄의 구성요건이고, 검찰청법을 보면 직권남용을 포함해 검사가 수사할 수 있는 범죄와 직접 관련성이 있는 범죄는 당연히 검사가 수사할 수 있다”고 말했다. 이어 “이 사안에서 내란죄와 직권남용이 관련성이 없다고 해석할 수 있는지는 기자와 국민께서 쉽게 판단할 수 있을 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/BBLOVVHAKBD6HBQ7FHSN4FZDKU.JPG?width=4356&amp;height=2450&amp;auth=cb1da7e7f9f33f2384f2448419177cbefdf2f2bd65d15e5e30f60091dfca9916&amp;smart=true" type="image/jpeg" height="2450" width="4356">
+        <media:description type="plain">(서울=뉴스1) 황기선 기자 = 박세현 비상계엄 특별수사본부장이 8일 오후 서울 서초구 서울고검 기자실에서 수사 관련 브리핑을 하고 있다. 2024.12.8/뉴스1</media:description>
+        <media:credit role="author" scheme="urn:ebu">(서울=뉴스1) 황기선 기자</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>검찰, ‘비상계엄’ 합동수사 요청했으나...경찰은 ‘거부’</title>
+      <link>https://www.chosun.com/national/national_general/2024/12/08/KCJNU3ZHURF5PKVI5GZUPZC2UI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/08/KCJNU3ZHURF5PKVI5GZUPZC2UI/</guid>
+      <dc:creator>구아모 기자, 이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 08 Dec 2024 04:42:23 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PAVCJJGI55IZFF7UNQR7FWCFGY.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;8일 서울 서대문구 경찰청 국가수사본부에서 관계자가 드나들고 있다. ‘비상계엄 사태’ 사건과 관련해 120여명의 전담수사팀을 구성한 경찰 국수본은 이날 김용현 전 국방장관 공관과 집무실 압수수색하며 강제수사를 시작했다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘비상계엄’ 사태를 수사 중인 경찰청 국가수사본부가 검·경 합동수사본부를 꾸리지 않고 경찰 주도로 수사하는 방침을 세웠다. 현재 검찰과 경찰 모두 대규모 수사팀을 꾸리고 수사를 본격화하고 있다.&lt;br&gt;&lt;br&gt;8일 검찰과 경찰에 따르면 대검찰청은 국가수사본부에 합동수사팀을 꾸릴 것으로 제안했으나 받아들여지지 않은 것으로 파악됐다. 국수본 내부에서는 “내란 혐의에 대해서는 경찰에서 수사를 진행해야한다”는 이야기가 나왔다.&lt;br&gt;&lt;br&gt;검찰 특별수사본부 관계자는 “‘뭘 하더라도 같이 하자’는 취지에서 대검찰청이 먼저 제안한 것으로 알고 있으나, 국수본이 받아들이지 않은 것으로 안다”고 했다.&lt;br&gt;&lt;br&gt;국수본 비상 계엄 전담수사팀은 이날 오전 핵심 피의자인 김용현 전 국방부 장관의 공관과 집무실, 자택에 대한 압수수색에 착수하는 한편 통신영장을 발부받아 통화 내역을 분석하는 중이다.&lt;br&gt;&lt;br&gt;국수본 특별수사단은 이날 서울경찰청 수사부장을 포함하여 국가수사본부 중대범죄수사과, 범죄정보과 수사관 등 30여명의 인원을 추가 파견받아 150여명 규모의 전담 수사팀을 꾸렸다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[속보] ‘비상계엄’ 특수본부장 “국가적 중대사건,  지휘고하 막론 엄정 수사”</title>
+      <link>https://www.chosun.com/national/court_law/2024/12/08/FBBHGWY6V5GGTIV726AMT7X6PA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/08/FBBHGWY6V5GGTIV726AMT7X6PA/</guid>
+      <dc:creator>이슬비 기자, 이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 08 Dec 2024 04:30:56 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JHRQRN4RGNIMTOPEVPEJTMHYMY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;박세현 검찰 비상계엄 특별수사본부 본부장이 8일 오후 서울 서초구 서울고검 기자실에서 수사 관련 브리핑을 열고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;비상계엄 특별수사본부장인 박세현 서울고검장은 8일 “국가적인 중대사건에 대해 어떠한 의혹도 남지 않도록 모든 노력을 다할 것”이라며 “지위고하를 막론하고 오로지 법과 원칙에 따라 엄정하게 수사를 진행하고 있으므로 국민 여러분께서는 믿고 지켜봐 주시기 바란다”고 밝혔다.&lt;br&gt;&lt;br&gt;박 본부장은 이날 오후 서울고검 기자실에서 브리핑을 열고 “검찰은 검사 20명, 수사관 30명으로 특수본을 구성했고, 어제 군검사 등 12명을 추가로 파견받아 군검찰과 합동수사를 진행하고 있다”며 이같이 밝혔다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“스타킹 벗어줘”… 처음 본 20대 여성 집까지 따라간 남성의 최후</title>
+      <link>https://www.chosun.com/national/regional/chungcheong/2024/12/08/JWRVF3VAZZAAVLFRKFL747O4FQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2024/12/08/JWRVF3VAZZAAVLFRKFL747O4FQ/</guid>
+      <dc:creator>김석모 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 08 Dec 2024 04:33:20 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ALL2YIZXMG6BB552HH32G66UFM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;청주지법. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;처음 본 20대 여성을 주거지까지 뒤쫓아가 스타킹을 벗어달라고 요구한 30대 남성에게 징역형의 집행유예가 선고됐다.&lt;br&gt;&lt;br&gt;청주지법 형사6단독(부장판사 조현선)은 주거침입 혐의로 재판에 넘겨진 30대 A씨에게 징역 6개월에 집행유예 2년을 선고하고, 보호관찰과 40시간의 사회봉사를 명령했다고 8일 밝혔다.&lt;br&gt;&lt;br&gt;재판부는 “A씨가 과거에도 비슷한 범죄로 징역형의 집행유예를 선고받고 이 기간 또 범행했다”면서 “그러나 피해자와 합의하고 자발적으로 정신과 진료를 받으며 재범하지 않기 위해 노력하는 점을 참작했다”고 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난해 8월 14일 오후 6시 10분쯤 서울 서대문구에서 처음 본 여성 B(22)씨를 따라 주거지 건물 엘리베이터를 함께 타고 올라가는 등 거주지를 침입한 혐의를 받는다.&lt;br&gt;&lt;br&gt;당시 A씨는 B씨가 엘리베이터에서 내리자 따라 내린 뒤 “말기 암 환자인데 여자가 신던 스타킹을 가져가서 안고 자면 암이 싹 낫는다. 신고 있는 스타킹을 벗어 달라”고 요구했다.&lt;br&gt;&lt;br&gt;조사 과정에서 A씨는 2020년 성폭력 범죄의 처벌 등에 관한 특례법 위반(성적목적 다중이용장소 침입) 혐의로 징역 8개월에 집행유예 3년을 선고받았던 것으로 드러났다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/ALL2YIZXMG6BB552HH32G66UFM.jpg?width=3935&amp;height=2236&amp;auth=c0d78363f9647d15adc706343cf495ef6e7125ff60a8ad1487ed8922d18cb481&amp;smart=true" type="image/jpeg" height="2236" width="3935">
+        <media:description type="plain">청주지법</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>경찰청 국가수사본부, 김용현 통신영장발부</title>
+      <link>https://www.chosun.com/national/national_general/2024/12/08/EYZNSS26KBCWXHSH26BSMZO7OA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/08/EYZNSS26KBCWXHSH26BSMZO7OA/</guid>
+      <dc:creator>구아모 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 08 Dec 2024 03:49:25 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BXNBFZRZ3VFAIEGQRTVH2IGSKE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김용현 전 국방부 장관이 지난 11월 28일 오전 서울 여의도 국회에서 열린 국방위원회 전체회의에서 의원 질의에 답변하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰청 국가수사본부 안보수사국 비상계엄 관련 고발사건 전담수사팀은 김용현 전 국방부 장관에 대해 통신영장을 발부받아 통화 내역을 확보중이라고 8일 밝혔다. 국수본 관계자는 “7일 저녁 김 전 장관에 대한 통신 영장을 발부받아 통화 내역을 파악하고 있다”고 했다.&lt;br&gt;&lt;br&gt;수사팀은 이날 김 전 장관의 공관, 국방부 장관 집무실, 자택 등을 압수수색했다고 밝혔다. 검찰이 이날 새벽 김 전 장관을 긴급체포하고 휴대전화를 압수한 가운데, 경찰에서도 혐의 입증을 위한 자료 확보에 속도를 내는 것으로 보인다. 김 전 장관은 오전 1시 30분쯤 서울중앙지검에 자진 출석해 조사받은 뒤 긴급체포돼 서울 동부구치소로 이송됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“잠시 쓰고 갚을게”… 혼인빙자 1억여원 가로챈 40대 유부남의 최후 </title>
+      <link>https://www.chosun.com/national/regional/yeongnam/2024/12/08/Z7ROUKTQ45AORCQMSE4PEGEHNA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/yeongnam/2024/12/08/Z7ROUKTQ45AORCQMSE4PEGEHNA/</guid>
+      <dc:creator>박주영 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 08 Dec 2024 04:28:10 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QZJ55AZDUJGV3K6KO6YUOREPFY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산 연제구 거제동 부산지법 등 법원 전경. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;미혼 여성에게 유부남인 사실을 숨기고 결혼을 미끼로 2년간 100여차례에 걸쳐 1억여원을 받아 챙긴 40대 남성이 실형을 선고받았다.&lt;br&gt;&lt;br&gt;부산지법 형사11단독(부장판사 정순열)은 사기 혐의로 불구속 기소된 A씨에게 징역 2년 6개월을 선고했다고 8일 밝혔다. 정 판사는 재판을 진행하면서 6개월 이상 A씨 소재를 확인할 수 없자 피고인 진술 없이 선고했다.&lt;br&gt;&lt;br&gt;A씨는 2015년쯤부터 교제하던 피해 미혼 여성에게 “계좌가 모두 묶여서 일을 할 수 없다”며 “잠시 쓰고 갚을 테니 돈을 빌려달라”고 속여 2020년 3월부터 2년여간 모두 136차례에 걸쳐 1억3095만원을 받아 가로챈 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;A씨는 지난 1월부터 진행된 재판에 단 한 번도 나오지 않았고 선고날에도 출석하지 않았다. 법원은 구속영장을 발부해 A씨 신병을 확보할 예정이다.&lt;br&gt;&lt;br&gt;재판부는 “피고인은 유부남이란 사실을 숨기고 2015년쯤부터 미혼 여성인 피해자와 사귀면서 교제 막바지 2년여 동안 100차례 넘게 1억원 넘는 돈을 가로채 죄질이 상당히 불량하다”며 “피해자는 행복한 결혼생활을 꿈꾸며 모아둔 전 재산과 가족에게 빌린 돈, 대출금까지 모두 피고인에게 줘 극심한 경제·정신적 고통을 당하고 있다”고 말했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘KBS 이사 선임 집행정지 재판부 바꿔달라’…고법도 기각</title>
+      <link>https://www.chosun.com/national/court_law/2024/12/08/YGFIN6HBR5AIPCLUQ2C2HE7J34/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/08/YGFIN6HBR5AIPCLUQ2C2HE7J34/</guid>
+      <dc:creator>박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 08 Dec 2024 04:29:34 +0000</pubDate>
+      <content:encoded>KBS 현직 이사들이 제기한 ‘신임 이사진 임명 처분 효력 집행정지’ 사건 심문을 앞두고 방송통신위원회가 재판부를 변경해달라며 낸 기피 신청이 재차 기각됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HPFM5ZSX7JHYXNNOV4LRDUNJ2M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 여의도 KBS (한국방송공사) 사옥. /조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;8일 법조계에 따르면, 서울고법 행정9-2부(재판장 김승주)는 지난 5일 방통위가 낸 재판부 기피신청 항고심에서 1심과 마찬가지로 기각 결정을 내렸다.&lt;br&gt;&lt;br&gt;방통위 측이 재항고 한다면, 대법원이 이를 판단하게 된다. 재항고에서도 이 결정이 확정되는 경우, 당초 사건을 배당받은 서울행정법원 행정12부(재판장 강재원)가 재판부 변경 없이 계속 심리하게 된다.&lt;br&gt;&lt;br&gt;방통위는 지난 8월 29일 “이 사건을 담당한 행정12부가 앞서 MBC 대주주인 방송문화진흥회 신임 이사의 선임을 막은 재판부여서 공정한 재판을 기대할 수 없다”며 재판부 기피 신청을 냈다.&lt;br&gt;&lt;br&gt;행정12부는 권태선 방문진 이사장 등 기존 이사들이 “2인 체제 방통위가 신임 이사 6명을 선임한 것은 무효”라며 낸 집행정지 신청을 받아준 바 있다.&lt;br&gt;&lt;br&gt;이후 문재인 정부에서 임명된 야권 성향 이사 5명이 방통위의 KBS 새 이사 추천과 대통령의 임명안 재가가 무효라며 집행정지 신청을 냈는데, 이 사건이 또 행정12부에 배당됐다. 서울행정법원은 “전산 시스템으로 무작위 배당했을 뿐”이라고 설명했다.&lt;br&gt;&lt;br&gt;재판부 기피 신청의 1심을 맡은 서울행정법원 행정14부(송각엽 부장판사)는 지난 9월 12일 신청을 기각했고, 방통위가 항고했다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>길 문제로 다투다 택시기사 폭행해 다치게 한 30대 집유</title>
+      <link>https://www.chosun.com/national/regional/2024/12/08/YWUDEBZLNZFUJAFE4IPH75UZMA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/12/08/YWUDEBZLNZFUJAFE4IPH75UZMA/</guid>
+      <dc:creator>울산=김주영 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 08 Dec 2024 03:29:21 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KNRAE2CTG775ASD46BRTJ6W7QA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;울산지법 전경. /조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;목적지까지 어느 길로 갈 것인지 다투다가 택시 운전기사를 폭행해 다치게 한 30대에게 징역형의 집행유예가 선고됐다.&lt;br&gt;&lt;br&gt;울산지법 형사11부(재판장 이대로)는 특정범죄 가중처벌 등에 관한 법률 위반 혐의로 재판에 넘겨진 A씨에게 징역 1년 6개월에 집행유예 2년을 선고했다고 8일 밝혔다.&lt;br&gt;&lt;br&gt;재판부는 “운전석에 앉아 있는 피해자를 폭행한 행위는 보행자나 다른 운전자의 안전까지 위협할 수 있다”며 “다만 차량이 정차한 상태에서 범행해 중대한 사고가 발생하지는 않은 점, 피해자를 위해 500만원을 공탁한 점 등을 참작했다”고 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 4월 저녁 경남 양산시 한 도로에서 60대 택시 운전기사 B씨를 폭행해 전치 3주의 상처를 입힌 혐의로 기소됐다.&lt;br&gt;&lt;br&gt;A씨는 사고 당일 B씨가 운전하는 택시 조수석에 탄 후 목적지로 가는 경로를 두고 B씨와 말다툼을 벌였다. 이어 B씨가 정차하자, A씨는 택시에서 내린 후 운전석 문을 열고 B씨 얼굴과 눈 주위를 주먹으로 여러 차례 때려 다치게 했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>경북도개발공사, 공기업 최초로 공무직 정년 65세로 연장 </title>
+      <link>https://www.chosun.com/national/national_general/2024/12/08/TPEYESJ5KBA3ZBVW3TLI2SNT4M/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/08/TPEYESJ5KBA3ZBVW3TLI2SNT4M/</guid>
+      <dc:creator>이승규 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 08 Dec 2024 03:35:35 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MXN6L5IDSQ42SKLSQGODUYXXWQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경북도개발공사 전경. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경북도개발공사가 공무직 노동자 정년을 기존 60세에서 65세로 연장한다고 8일 밝혔다. 공기업 중에서 정년 연장을 확정한 첫 사례다.&lt;br&gt;&lt;br&gt;경북도개발공사의 공무직 정년 연장 조치는 지난 10월 21일 행정안전부가 소속 공무직 근로자들의 정년을 65세로 늘린 정책에 발맞춘 것이다. 지난 6일 국가인권위원회도 법정 정년을 현행 60세에서 65세로 올리는 방안을 국무총리에게 권고하는 ‘고용상 연령차별금지 및 고령자 고용촉진에 관한 법률상 법정 정년 연장 관련 제도개선 권고안’을 의결했다고 밝혔다.&lt;br&gt;&lt;br&gt;공사 관계자는 “고령 근로자들이 경력과 직무 전문성을 지속적으로 활용할 수 있도록 돕고 안정적인 고용환경을 마련하기 위함”이라고 했다.&lt;br&gt;&lt;br&gt;이와 별도로 경북도개발공사 측은 공무직 근로자들의 경력 개발과 복지 향상을 위한 프로그램도 향후 추진할 방침이다. 경북도개발공사 공무직 근로자는 시설관리·고객상담·비서직군 등 다양한 분야로 구성돼 있다.&lt;br&gt;&lt;br&gt;이재혁 경북도개발공사 사장은 “이번 공무직 정년 연장과 함께 고용 창출을 위한 다양한 정책도 병행해 세대 간 상생에 힘을 보태겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[속보] 경찰, ‘비상계엄’ 수사팀 30여명 증원…총 150여명 규모</title>
+      <link>https://www.chosun.com/national/national_general/2024/12/08/TQOODZ5PMJH65KVK6NBRQQNHLI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/08/TQOODZ5PMJH65KVK6NBRQQNHLI/</guid>
+      <dc:creator>구아모 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 08 Dec 2024 04:02:05 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TBVE2CM5GAZEF7OCMZS7QHKAHY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서대문구 경찰청에 게양된 경찰청 깃발이 바람에 펄럭이고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘비상계엄’ 사태를 수사하는 경찰청 국가수사본부 특별수사단이 30여명의 인원을 추가 파견받아 150여명의 전담 수사팀을 구성했다고 8일 밝혔다.&lt;br&gt;&lt;br&gt;경찰청 국가수사본부 특별수사단은 이날 비상계엄 관련 고발사건 전담수사팀에 서울경찰청 수사부장을 포함하여 국가수사본부 중대범죄수사과, 범죄정보과 수사관 30여명을 추가로 투입했다. 지난 6일 경찰은 비상계엄 사건와 관련해 120명 규모의 전담 수사팀을 구성했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>경찰, 김용현 전 국방장관 자택 압수수색</title>
       <link>https://www.chosun.com/national/national_general/2024/12/08/3HLIME4RKRCC3BYRHSS65LYUYU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/08/3HLIME4RKRCC3BYRHSS65LYUYU/</guid>
@@ -790,46 +932,6 @@
       <content:encoded>대장동 개발 특혜 의혹 재판에 증인으로 나온 유동규 전 성남도시개발공사 기획본부장이 이재명 더불어민주당 대표가 재판에 출석하지 않은 것은 ‘특혜’라고 주장했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DDDHDKY5ERIBPEUR4CCNPDV7WQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;유동규 전 성남도시개발공사 기획본부장이 지난 11월 28일 서울 서초구 서울고등법원에서 열린 '민주당 불법 대선자금 수수 의혹' 관련 항소심 결심공판에 출석하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지법 형사33부(재판장 김동현)는 6일 이 대표의 ‘대장동·위례·성남FC·백현동 사건’ 공판을 진행했다.&lt;br&gt;&lt;br&gt;이 대표는 지난 4일 불출석 사유서를 내고 이날 재판에 출석하지 않았다. 비상계엄을 선포했다 해제한 윤석열 대통령에 대한 탄핵소추안 등 국회 표결이 진행될 수 있다는 이유에서다.&lt;br&gt;&lt;br&gt;이 대표 없이도 공판은 열렸고, 유 전 본부장이 증인으로 출석했다. 유 전 본부장은 “증인신문인데도 불구하고 피고인이 빠졌다. 법이 만인에 평등해야 하는데, 일반적인 사람 같으면 빠질 수 있는 건지 모르겠다“며 ”너무 특혜가 아닌가 생각한다. 법 위에 존재하는 건지도 모르겠다”고 했다.&lt;br&gt;&lt;br&gt;이어 “피고인이 세상 권력 다 쥔 것 같이 재판부 무시하고, 나오지도 않고 저희 같이 일반 사람이 받는 재판과 너무 차이가 나서 자괴감이 든다”며 “변호인도 증인을 째려보고, 이 사람들이 권력을 쥐면 날 죽이겠구나 하는 생각이 든다”고 했다.&lt;br&gt;&lt;br&gt;이 대표 측 변호인은 “저희는 불가피하게 불출석하게 됐다는 점을 사전에 사유 밝혀서 제출했는데 특혜라고 주장하는 건 어불성설”이라며 “이 대표에 대한 일련의 공소가 피고인을 법정에 붙들어 매어 놓기 위한 하나의 수단이라고 주장해왔는데 증인도 그런 취지에서, 증인 지위 이상으로 부당하게 어필하는 것”이라고 반박했다.&lt;br&gt;&lt;br&gt;이날 유 전 본부장이 이 대표의 불출석을 문제 삼아 증언을 거부하면서 재판은 1시간 만에 끝났다. 재판부는 다음 공판을 오는 10일 열기로 했다.&lt;br&gt;&lt;br&gt;이 대표가 이 사건 재판에 불출석한 건 이번이 처음이 아니다. 지난 7월엔 외교·통일·국방 대정부 질문 참석을 이유로, 지난 8월엔 민주당 당대표 후보 방송토론회 녹화 때문에 불출석 사유서를 내고 재판에 나오지 않았다. 당시 검찰은 “피고인은 출석이 원칙인데, 이재명 피고인이 정치 일정을 이유로 불출석하는 일이 반복되어서는 안 된다”고 지적했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>항의 몸살 앓는 ‘尹모교’ 충암고...학생 복장 자율화 조치</title>
-      <link>https://www.chosun.com/national/national_general/2024/12/06/K3XIUGZOOFBL5OGMBBVNJM5B7E/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/06/K3XIUGZOOFBL5OGMBBVNJM5B7E/</guid>
-      <dc:creator>김보경 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 06 Dec 2024 08:19:02 +0000</pubDate>
-      <content:encoded>윤석열 대통령의 모교인 충암고등학교는 당분간 학생들의 등교 복장을 자율화한다.&lt;br&gt;&lt;br&gt;충암고등학교는 6일 오후 홈페이지에 학생의 등교 복장 임시 자율화 관련 내용을 담은 가정통신문을 게재했다. 충암고는 해당 가정통신문에서 “등하교 중인 학생들이 현시국에 성난 시민들에게 부당한 대우를 받는 상황을 예방하기 위해 복장을 임시적으로 자율화한다”고 밝혔다.&lt;br&gt;&lt;br&gt;학교 측의 조치에 따라 재학생들은 오는 9일부터 2024학년도 종업식인 내년 2월 6일까지 교복이 아닌 사복을 입고 등교한다. 학교 측은 “통념상 학생의 본분에 어긋나는 것으로 판단되는 외설적이거나 반사회적인 형태와 문양을 한 복장의 착용은 금지한다”고도 덧붙였다.&lt;br&gt;&lt;br&gt;학생 보호를 위한 조치라고 밝힌 만큼 가정통신문에는 대응책도 담겼다. 충암고는 “학생들이 외부에서 부당한 대우를 받는 경우 침착하게 대응하고, 상대의 행위로 신변을 위협 받는 경우 지체 없이 학교 또는 경찰서로 알리는 한편 휴대전화 등으로 상황을 기록하라”고 안내했다.&lt;br&gt;&lt;br&gt;지난 3일 윤석열 대통령의 계엄 포고와 관련해 이상민 행정안전부 장관, 김용현 전 국방부 장관, 여인형 방첩사령관 등 핵심 인사들이 충암고등학교 동문이라는 사실이 알려지면서 이들의 모교인 충암고에도 관련 항의와 문의가 빗발치는 것으로 알려졌다. 윤명화 충암학원 이사장도 지난 5일 소셜미디어 페이스북에 “윤석열과 김용현 등을 충암의 부끄러운 졸업생으로 백만 번 선정하고 싶다. 국격 실추에 학교 명예까지 실추시킨다”고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UK37IX4VINFDJAXLQRXQAO2S6U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;6일 충암고등학교가 공개한 '등교 복장 임시 자율화 안내' 가정통신문. /충암고&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>학생들 피해당할라…‘尹모교' 충암고 “등교 복장 자율화”</title>
-      <link>https://www.chosun.com/national/national_general/2024/12/06/LP735YEGM5FG7KX7IA5HBAOIN4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/06/LP735YEGM5FG7KX7IA5HBAOIN4/</guid>
-      <dc:creator>김명진 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 06 Dec 2024 08:08:22 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UK37IX4VINFDJAXLQRXQAO2S6U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;6일 충암고등학교가 공개한 '등교 복장 임시 자율화 안내' 가정통신문. /충암고&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 대통령이 지난 3일 비상계엄을 선포한 것을 두고 대통령의 고교 동문인 소위 ‘충암고 라인’이 계엄을 주도했다는 말이 정치권을 중심으로 나오는 가운데, 충암고가 재학생들의 피해를 막기 위해 한시적으로 학교를 특정할 수 있는 교복 대신 사복을 입을 수 있도록 조치했다.&lt;br&gt;&lt;br&gt;충암고는 6일 ‘등교 복장 임시 자율화 안내’라는 가정통신문을 교장 명의로 냈다. 충암고는 “최근 국가의 엄중한 상황과 관련해 본교에 대한 시민들의 관심이 높아진 상황에서, 등하교 중 학생들이 현시국에 성난 시민들에게 부당한 대우를 받는 상황을 예방하기 위해 등교 복장을 임시적으로 자율화한다”고 했다.&lt;br&gt;&lt;br&gt;복장 자율화는 이달 9일부터 종업식이 있는 내년 2월 6일까지다. 충암고는 다만 “사회 통념상 학생의 본분에 어긋나는 것으로 판단되는 외설적이거나 반사회적인 형태와 문양을 한 복장의 착용은 계속 금지된다”고 했다.&lt;br&gt;&lt;br&gt;충암고는 “학생들이 외부에서 부당한 대우를 받는 상황이 발생하면 침착하게 대응하시고, 상대의 행위로 신변에 위협을 받는 경우 지체 없이 학교 또는 경찰서로 알리고 휴대전화 등으로 상황을 기록해 달라”라며 “본교 학생들의 안전을 위하여 만전을 기하겠다”라고 했다.&lt;br&gt;&lt;br&gt;앞서 윤명화 충암학원 이사장도 전날 페이스북에서 “윤석열과 김용현 등을 충암의 부끄러운 졸업생으로 백만 번 선정하고 싶다. 국격 실추에 학교 명예까지 실추시킨다”라고 했다. 그는 “교무실로 하루 종일 항의 전화가 빗발쳤고 스쿨버스 기사들에게 지나가는 사람들이 시비를 걸었다고 한다”며 “교명을 바꿔 달라는 청원까지 (나왔다). 충암 학생들이 무슨 마음고생인지 (모르겠다)”고 했다.&lt;br&gt;&lt;br&gt;야권에선 이번 비상계엄을 ‘충암고 라인’이 주도했다고 주장하고 있다. 윤 대통령은 충암고 8회다. 윤 대통령에게 계엄령을 건의한 것으로 알려진 김용현 전 국방부 장관은 윤 대통령의 고교 1년 선배로, 이번 정부 초대 대통령경호처장을 거쳐 장관직에 올랐다. 계엄법상 계엄을 대통령에게 건의할 수 있는 또 다른 직위인 이상민 행정안전부 장관은 윤 대통령의 고교 4년 후배다.&lt;br&gt;&lt;br&gt;군내에서는 대국가 전복, 대테러·간첩 작전에 관한 정보를 수집하는 방첩사의 수장인 여인형 사령관도 충암고 출신이다. 군에서는 또 대북 특수 정보를 다루는 박종선 777사령관도 일명 ‘충암파’로 불린다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[오늘의 운세]  12월 8일 일요일 (음력 11월 8일 丙午)</title>
-      <link>https://www.chosun.com/national/national_general/2024/12/06/UB2CTHLGSBF2ZHRJH2D2I4UGRM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/06/UB2CTHLGSBF2ZHRJH2D2I4UGRM/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Fri, 06 Dec 2024 08:10:00 +0000</pubDate>
-      <content:encoded>&lt;p&gt;&lt;div class="chosun_unse"&gt;&lt;iframe src="https://image.chosun.com/arc/unse_iframe.html" frameborder="0" scrolling="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;style&gt;.chosun_unse{position:relative;width:100%;height:350px;box-sizing:border-box}.chosun_unse&gt;iframe{position:absolute;top:0;left:0;width:100%;height:100%;overflow-y:hidden}@media all and (max-width:1024px){.chosun_unse{height:350px}}@media all and (max-width:1023px){.chosun_unse{height:350px}}@media all and (max-width:528px){.chosun_unse{height:270px}}@media all and (max-width:384px){.chosun_unse{height:190px}}&lt;/style&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;p&gt;&lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani01.gif"&gt;  	&amp;nbsp;	36년생 위험 요소는 사전 분산시켜라. 48년생 오늘에 안주하면 내일은 별 볼일 없을 듯. 60년생 상대방과 의견 차이 생길 수도. 72년생 분주한 일상에도 정서적 안정 갖도록. 84년생 여럿 가는 데 섞이면 병든 다리도 끌려간다. 96년생 망설이지 말고 곧바로 진행.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt;  &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani02.gif"&gt;	&amp;nbsp;	37년생 변화 시기이니 주저 마라. 49년생 아무것도 안 하면 비난받을 일도 없다. 61년생 곡식도 사람도 가꾸기에 달렸다. 73년생 과격한 바깥 활동보다 가벼운 실내 체조 좋을 듯. 85년생 재가(在家)는 손재 막는 길. 97년생 정면 돌파보다 우회 전략 필요.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani03.gif"&gt;	&amp;nbsp;	38년생 사무치는 바 있어야 방법 나온다. 50년생 신뢰보다 중요한 담보는 없다. 62년생 유쾌하고 창의적인 사람과 만나도록. 74년생 타인의 과오는 기꺼이 잊어라. 86년생 집착은 근심·걱정을 초래. 98년생 사당 잘 지었기로 제사 못 지내면 무엇 하나.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani04.gif"&gt;	&amp;nbsp;	27년생 남쪽 가지 말라 손재 두렵다. 39년생 대인 관계 스트레스 발생. 51년생 현 상태만 유지해도 성공. 63년생 감정의 독기는 해독약 없다. 75년생 지금의 환경을 소중히 여기도록. 87년생 숫자 1·6과 흰색 행운 부른다. 99년생 방해 공작 있어도 참고 이겨내라.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani05.gif"&gt;	&amp;nbsp;	28년생 작은 일도 무겁게 받아들여야 후회 없다. 40년생 욕심 부려 봐도 좋을 듯. 52년생 장작불은 쑤석거리면 탈난다. 64년생 자기 운명 사랑할 줄 알아야. 76년생 봉사와 희생은 행복으로 돌아온다. 88년생 주사위는 이미 던져졌다. 00년생 속상해도 별수 있나 참아야지.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani06.gif"&gt;	&amp;nbsp;	29년생 토끼띠와의 술자리는 피하는 게 상책. 41년생 긍정적 사고는 능력 배가시킨다. 53년생 중립적·객관적인 관점을 갖도록. 65년생 원망 잊고 은혜는 기억하라. 77년생 문제점 말고 해결책을 찾아라. 89년생 사람 팔자 시간문제. 01년생 환심을 사려고 아첨하지 마라.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani07.gif"&gt;	&amp;nbsp;	30년생 궁(窮)하면 통(通)하는 법. 42년생 서울 가는 길이 어디 하나뿐인가. 54년생 서울 구경도 제 하기 싫으면 별수 있나. 66년생 즉흥적 결정으로 이익 볼 수도. 78년생 한발 물러서면 하늘 높고 땅도 넓다. 90년생 중문(中門) 통행이 이롭다. 02년생 사교 모임과 회식 자리에서 뜻밖의 소득이.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani08.gif"&gt;	&amp;nbsp;	31년생 울고 싶어도 웃어야 하는 때가 있다. 43년생 조화로운 균형을 유지하도록. 55년생 지름길은 없다. 67년생 가면 갈수록 태산. 79년생 질병이 두려우니 사전에 예방. 91년생 음식으로 인한 질병을 주의. 03년생 중간자적 위치에서 조율과 협상을 유도하라.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani09.gif"&gt;	&amp;nbsp;	32년생 누런색과 숫자 5·10 행운 부른다. 44년생 설령 후회 따르더라도 일단 저질러봐라. 56년생 시작은 있는데 결실이 없구나. 68년생 집안 편해야 마음이 편안. 80년생 의타심보다는 자립심이 필요. 92년생 쓰러졌을 때 내일을 생각하라. 04년생 도전적인 자세로 적극적으로 나서봐야.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani10.gif"&gt;	&amp;nbsp;	33년생 쏘지 않은 화살 맞을 리가 있나. 45년생 투자보다 자산 관리 치중할 때. 57년생 상대 향한 미움과 증오로 나까지 해하지 마라. 69년생 고요·평온한 공원 산책이라도 나서봄이. 81년생 아끼던 게 찌로 간다. 93년생 말하기에 앞서 실행 능력 유무를 우선 고려.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani11.gif"&gt;	&amp;nbsp;	34년생 별것 아닌 일로 심사 번잡. 46년생 방전된 몸과 마음에 원기 충전 필요. 58년생 새 정(情)도 좋지만 옛정을 잊지 마라. 70년생 공(功) 있다면 아랫사람에게 돌리라. 82년생 웃음소리가 옆집 담장 넘는구나. 94년생 자신을 못 넘으면 넘을 수 있는 산은 없다.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani12.gif"&gt;	&amp;nbsp;	35년생 동북 양방에 손재 염려, 가지 마라. 47년생 개띠와의 거래는 이익이 무궁. 59년생 이 복 저 복 좋다 해도 배우자 복이 제일. 71년생 앞만 보고 달리지 마라. 83년생 자긍심과 자존감 갖는 게 먼저. 95년생 춥다고 움츠리지 말고 활발하게 생활해야.	&lt;br&gt;
-&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;한소평 금오산방 강주  &lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;			&lt;/p&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/4MTFRYWHBJA7XOKKF7G7JPLX5U.png?width=800&amp;height=420&amp;auth=4651b5b20b5d4901424204d1456faee02e4b064ff509db23945deabf4404c8ef&amp;smart=true" type="image/png" height="420" width="800"/>
-    </item>
-    <item>
       <title>[속보] 검찰, ‘비상계엄’ 특별수사본부 검사 20명 규모...동부지검에 설치</title>
       <link>https://www.chosun.com/national/court_law/2024/12/06/EDDXI6MIQBHZJK4PDO2KLSVK7M/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/06/EDDXI6MIQBHZJK4PDO2KLSVK7M/</guid>
@@ -837,73 +939,6 @@
       <description/>
       <pubDate>Fri, 06 Dec 2024 08:02:24 +0000</pubDate>
       <content:encoded>&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>동덕여대 지지글에 “패도 돼?”… 논란된 주짓수 선수, 자격정지 1년</title>
-      <link>https://www.chosun.com/national/national_general/2024/12/06/RJA7IZZBIBA2NNQ4QH5YDFBQSI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/06/RJA7IZZBIBA2NNQ4QH5YDFBQSI/</guid>
-      <dc:creator>박선민 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 06 Dec 2024 08:03:49 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MVP26PWYWFABHNAG25SPAOG7PI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한 주짓수 선수가 동덕여대 공학 전환 반대를 지지하는 한양여대 총학생회의 연대문에 "패도 돼?"라는 댓글을 남겼다. /인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;동덕여대 학생들의 남녀공학 전환 반대를 지지하는 한양여대 총학생회 연대문에 “패도 돼?”라는 댓글을 남긴 서울시주짓수회 소속 선수가 자격정지 1년 처분을 받았다. &lt;br&gt;&lt;br&gt;서울시주짓수회는 6일 인스타그램에 올린 공지문을 통해 이 같은 소식을 전했다. &lt;br&gt;&lt;br&gt;서울시주짓수회는 “징계 대상 선수는 한양여대 총학생회 공식 인스타그램 계정에서 게시한 ‘여자대학은 왜 존재해야 하는가’라는 제하의 게시글에 ‘패도 돼?’라는 내용의 댓글을 작성함으로써 사회적 물의를 일으켜 체육인으로서 품위를 훼손했다”고 했다. &lt;br&gt;&lt;br&gt;이어 “다만 대상자가 사안의 심각성을 충분히 인지하고 사과문을 작성하여 게시하는 등 진심으로 반성하고 있는 것으로 보이는 점, 대상자의 연령이 어리고 본회에 선수 등록한 이후 징계 혐의 사건이 처음 발생한 점 등을 감안해 2024년 12월 5일로부터 자격정지 1년으로 정한다”고 했다. &lt;br&gt;&lt;br&gt;앞서 서울시주짓수회 소속 선수 A씨는 지난달 12일 한양여대 총학생회가 동덕여자대학교의 공학 전환을 반대하며 인스타그램에 올린 연대문에 “패도 돼?”라는 댓글을 남겼다. 이후 A씨의 댓글은 캡처돼 온라인상에 확산했고, 서울시주짓수회에 항의가 쏟아졌다. 이에 서울시주짓수회는 다음 날 사과와 함께 징계 결과를 공지하겠다고 밝혔다. &lt;br&gt;&lt;br&gt;A씨 역시 “제 글로 인해 상처를 받으신 분들과 불편함을 받으신 분들께 깊이 사과드린다”며 “의도와는 다르게 저의 댓글이 불쾌감을 주고, 커뮤니티 내에서 갈등을 일으킨 점에 대해 진심으로 죄송하게 생각한다”고 사과했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘고발사주’ 손준성, 2심 무죄… “尹 등 제3자 가능성”</title>
-      <link>https://www.chosun.com/national/court_law/2024/12/06/XWXVVABEUJAHLFKOHPPVDMP34Y/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/06/XWXVVABEUJAHLFKOHPPVDMP34Y/</guid>
-      <dc:creator>방극렬 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 06 Dec 2024 06:01:16 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/R4TBZ5RX65OWVBZEPMW6OT6U24.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;이른바 '고발사주' 의혹으로 기소된 손준성 검사장이 6일 서울 서초구 서울고법에서 열린 2심 선고 공판에 출석하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이른바 ‘고발 사주’ 의혹으로 기소된 손준성 대구고검 차장검사(검사장)가 6일 항소심에서 무죄 판결을 받았다.&lt;br&gt;&lt;br&gt;서울고법 형사6-1부(재판장 정재오)는 이날 공직선거법 위반 등 혐의로 기소된 손 검사장에 대해 징역 1년을 선고한 원심을 뒤집고 무죄를 선고했다. 2심 재판부는 “제출된 증거만으로는 손 검사장이 직무와 관련하거나 지위를 이용해 선거에 영향을 미쳤다는 혐의, ‘조국 대 윤석열’ 구도의 선거 전략을 세운 미래통합당(현 국민의힘) 선거 운동에 관여했다는 혐의 등이 합리적 의심 없이 증명됐다고 보기 어렵다”고 밝혔다.&lt;br&gt;&lt;br&gt;이 사건은 윤석열 대통령이 검찰총장이던 2020년 4·15 총선을 앞두고 자신과 아내의 명예를 훼손한 혐의로 유시민씨, 최강욱 전 민주당 의원, 황희석 전 열린민주당 최고위원 등을 고발해 달라고 미래통합당 측에 사주했다는 의혹이다. 고위공직자범죄수사처(공수처)는 당시 대검찰청 수사정보기획관이던 손 검사장이 해당 고발장을 작성하고 미래통합당 후보자였던 김웅 전 의원에게 두 차례에 걸쳐 직접 전달했다고 보고 기소했다. 김 전 의원은 미래통합당 측에 고발장 파일을 텔레그램으로 넘겼는데, 여기에 ‘손준성 보냄’이라는 표시가 있었다는 것이 핵심 근거였다.&lt;br&gt;&lt;br&gt;재판의 쟁점은 손 검사장이 김 전 의원에게 고발장 등을 직접 전달했는지였다. 1심은 이를 인정하고 일부 혐의에 유죄 판결을 내렸지만, 2심은 두 사람 사이에 ‘제3자’가 있을 수 있다고 봤다. 2심 재판부는 “손 검사장이 수사정보기획관으로 고발장 관련 정보 수집·작성에 관여한 사실은 인정된다”면서도 “손 검사장이 제3자에게 고발장을 전송하고, 제3자가 김 전 의원에게 전달한 경우에도 ‘손준성 보냄’ 표시가 나타난다. 고발장을 직접 보냈다는 공소사실을 증명하는 직·간접 증거가 없다”고 했다.&lt;br&gt;&lt;br&gt;이에 따라 손 검사장이 김 전 의원을 통해 선거에 개입하려 했다는 혐의, 고발장과 첨부된 실명 판결문을 전달해 개인정보보호법을 위반하고 공무상 비밀을 누설한 혐의 등은 모두 무죄 판결을 받았다.&lt;br&gt;&lt;br&gt;다만 2심 재판부는 손 검사장이 해당 고발장을 당시 검찰총장인 윤 대통령 등 검찰 내 상급자들에게 보고하기 위해 작성·전송했을 가능성이 있다고 지적했다. 손 검사장은 검찰총장과 검찰 조직을 상대로 민주당과 일부 언론이 제기하는 각종 의혹에 대응하는 업무를 맡고 있었는데, 선거를 앞두고 이들에게 타격을 주기 위해 검찰 차원에서 고발장을 준비시켰을 수 있다는 것이다.&lt;br&gt;&lt;br&gt;재판부는 “손 검사장에게 고발장 작성을 지시한 검찰총장 등 상급자가 고발을 기획하고, 미래통합당 측에 고발장을 전달할 사람으로 김 전 의원을 선택해 긴밀하게 연락했을 가능성을 배제하기 어렵다”고 했다. 그러면서도 손 검사장이 윤 대통령 등 제3자에게 고발장을 전달해 선거에 영향을 미쳤는지 여부는 공소사실에 포함되지 않아 따로 판단하지 않겠다고 했다.&lt;br&gt;&lt;br&gt;손 검사장은 선고 직후 “충실한 심리 끝에 무죄 선고를 내려주신 재판부에 경의를 표한다”고 했다. 공수처는 “상고 여부를 검토할 예정”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>법무·행안장관·법제처장, 계엄 해제일 밤 ‘안가 회동’... 野 “제2 계엄 얘기했냐”</title>
-      <link>https://www.chosun.com/national/court_law/2024/12/06/PQ5LBWLGJNCYXH6U5QDA2KBNZI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/06/PQ5LBWLGJNCYXH6U5QDA2KBNZI/</guid>
-      <dc:creator>이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 06 Dec 2024 07:19:20 +0000</pubDate>
-      <content:encoded>박성재 법무장관과 이상민 행안장관, 이완규 법제처장이 비상계엄 해제일인 지난 4일 밤 대통령 안가(안전가옥)에서 함께 만난 사실이 6일 국회 법제사법위원회에서 밝혀졌다. 박 장관은 “(윤석열) 대통령을 만나러 간 것이 아니다”라며 “해가 가기 전에 한번 보자”는 취지였다고 설명하고 어떤 논의를 했는지는 언급하지 않았다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OMBJCJMDLJKBVNKJV5YON54S7U.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;박성재 법무장관이 6일 오후 서울 여의도 국회에서 열린 법제사법위원회 제19차 전체회의에 출석해 발언하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정청래 법사위원장은 이날 박 장관에게 “대통령 안가에 갔던 차량 사진이 찍혀 보도가 됐다”며 “대통령을 만났느냐”고 물었다. 이에 박 장관은 “대통령을 만나러 간 게 아니다”라고 답했다. 왜 갔느냐는 정 위원장의 물음에 “행안장관하고, 저하고, 여기 계시는 법제처장님하고 그렇게 (만났다)”고 답했다. “제2의 비상계엄을 또 그러면 얘기했느냐”는 정 위원장의 질문에 박 장관은 “전혀 아닙니다. 전혀 아닙니다”라고 답했다. 장경태 더불어민주당 의원이 “내란죄 어떻게 할지 (논의한 것 아니냐)”라며 목소리를 높이자, 박 장관은 다시 “전혀 아닙니다”라고 했다.&lt;br&gt;&lt;br&gt;박 장관은 ‘행안장관과 안가에서 무슨 얘기를 했느냐’는 장 의원의 질의에는 “그날 저희가 다 사의를 표명한 날이었다”면서 “평소 국무회의에서 자주 보고 하지만 (따로 보는) 자리를 못 해서 해가 가기 전에 한번 보자 이런 (자리였다)”라고 답했다. 장 의원이 말을 끊고 “친목 모임을 했다는 것이냐. 김용현 전 국방장관도 과거 친목으로 특전사령관 등을 만났다고 했었다”고 묻자 박 장관은 “제 이야기를 들어달라”며 한쪽 손바닥을 앞으로 내민 채 인상을 쓰고 고개를 돌렸다. 그러면서 “사의를 다 표하니까 다시 자리를 만들기 어려울 것이다. 다 다른 약속은 취소됐으니까”라고 말했다. 민주당 의원들 사이에서 “그렇게 한가합니까” “송년회에요?”라는 지적이 나오자 박 장관은 “송년회 아닙니다”라고 답했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SSLMMT4FZ6NZXTAWDA3NBXUE7E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이상민 행정안전부 장관. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;박 장관은 이날 계엄 선포 전 국무회의에 참석한 게 맞는다고 확인했다. 다만 자신이 계엄 선포에 찬성했는지 반대했는지 여부는 밝히지 않고 “여러 가지 이야기를 다 했다”고만 했다. 사전에 대통령과 계엄 선포의 법률적 요건을 상의한 게 아니냐는 장 의원 질의에는 “저하고 사전에 상의한 바 없다”고 답했다.&lt;br&gt;&lt;br&gt;박 장관은 윤 대통령과 김 전 국방장관 등의 내란 혐의 관련 수사에 관여할 것이냐는 정 위원장 질문에는 “개별 사건 수사에 지금까지 장관으로서 관여한 적 없다”며 이날 대검에서 비상계엄 사건 특별수사본부를 구성한 것도 몰랐다고 답했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FVQ3XWTAYVDNTKIJ3R2PRT45KQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 10월 14일 오전 서울 여의도 국회의사당에서 법제사법위원회의 법제처에 대한 국정감사가 열리면서 이완규 법제처장이 참석했다. / 장련성 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[오늘의 운세]  12월 7일 토요일 (음력 11월 7일 乙巳)</title>
-      <link>https://www.chosun.com/national/national_general/2024/12/06/ESXOK426IZAHZEJ6CCFLTFU5LU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/06/ESXOK426IZAHZEJ6CCFLTFU5LU/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Fri, 06 Dec 2024 08:00:00 +0000</pubDate>
-      <content:encoded>&lt;p&gt;&lt;div class="chosun_unse"&gt;&lt;iframe src="https://image.chosun.com/arc/unse_iframe.html" frameborder="0" scrolling="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;style&gt;.chosun_unse{position:relative;width:100%;height:350px;box-sizing:border-box}.chosun_unse&gt;iframe{position:absolute;top:0;left:0;width:100%;height:100%;overflow-y:hidden}@media all and (max-width:1024px){.chosun_unse{height:350px}}@media all and (max-width:1023px){.chosun_unse{height:350px}}@media all and (max-width:528px){.chosun_unse{height:270px}}@media all and (max-width:384px){.chosun_unse{height:190px}}&lt;/style&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;p&gt;&lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani01.gif"&gt;  	&amp;nbsp;	36년생 걱정한 일 쉽게 해결될 듯. 48년생 시운 돌아오니 지혜도 생긴다. 60년생 단기간 급등은 급락도 빠를 수 있음을 명심. 72년생 심신 피곤하니 원기 회복 각별히 힘써야. 84년생 행복 다할 때까진 행복 모르는 법. 96년생 주연만 있어서 영화 되겠나.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt;  &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani02.gif"&gt;	&amp;nbsp;	37년생 스트레스 심한 하루. 49년생 곰은 쓸개 때문에 죽고 사람은 혀 때문에 망신. 61년생 말 들어주는 것도 용기가 필요. 73년생 노력 비해 소득 클 듯. 85년생 생활 방식과 양식에 변화가 필요. 97년생 설령 남 좋은 일이 되더라도 남는 장사.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani03.gif"&gt;	&amp;nbsp;	38년생 기회는 다시 오니 포기 말아야. 50년생 어려움 있다면 동료 협조 구해도 좋을 듯. 62년생 거듭되는 진퇴 속 발전은 있다. 74년생 얻고 싶거든 참고 기다려라. 86년생 결정적 순간 위해 침묵하라. 98년생 운명 공동체로 함께 갈 동반자라 여겨라.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani04.gif"&gt;	&amp;nbsp;	27년생 평정심 유지가 우선. 39년생 화해 청하면 마음 평안. 51년생 어려움은 배우자와 상의. 63년생 가족 마음 얻으면 만사 순성. 75년생 토끼 주고 황소 받았으니 얼마나 좋은가. 87년생 평소와 다른 이상 징후에 대비 필요. 99년생 밤 있으면 낮 있기 마련.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani05.gif"&gt;	&amp;nbsp;	28년생 혼자 결정 말고 주변 조언 참고하라. 40년생 원칙 좋지만 융통성도 필요. 52년생 쓸데없는 일에 시간 낭비 마라. 64년생 서기(瑞氣) 남쪽에서 비친다. 76년생 강 건너 불구경하듯 관망만 하라. 88년생 그물 커야 큰 고기 잡지. 00년생 명분보다 실리 위주로.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani06.gif"&gt;	&amp;nbsp;	29년생 주위 실수로 손해 볼 수도. 41년생 다급해도 막다른 골목은 들어서지 마라. 53년생 남 말 듣지 말고 소신대로 추진. 65년생 아첨하는 말은 꿀이 든 독약. 77년생 전문성 살리는 방향으로 가야. 89년생 남 따라가지 말고 독자적으로 행동하라. 01년생 삶은 하루하루가 쌓인 결과.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani07.gif"&gt;	&amp;nbsp;	30년생 숫자 1, 6과 검은색은 행운 부른다. 42년생 일의 성패는 기본 자세가 결정. 54년생 끝 좋으면 과정의 잘잘못은 모두 이해된다. 66년생 시작 있었으니 끝이 없겠나. 78년생 과분한 칭찬은 한 번 더 의심하라. 90년생 벗으로 인한 즐거움. 02년생 지나침은 모자람만 못하다.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani08.gif"&gt;	&amp;nbsp;	31년생 소화기 계통 질환 주의. 43년생 필요 이상의 인내는 병 된다. 55년생 똥 묻은 개가 겨 묻은 개 나무란다더니. 67년생 진심을 전할 수만 있다면 성공. 79년생 괜한 욕심 부리면 낭패 볼 수도. 91년생 심리적 갈등으로 힘든 하루. 03년생 현상을 보지 말고 맥락을 살피도록.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani09.gif"&gt;	&amp;nbsp;	32년생 직접적은 아니나 간접적 이득은 기대. 44년생 숫자 4, 9와 흰색은 행운 부른다. 56년생 구슬이 서 말이라도 꿰어야 보배. 68년생 오랜 벗이 내 맘 같지 않구나. 80년생 돈이 좋지만 돈 먹고는 못 산다. 92년생 계획한 바 절반은 이뤄질 듯. 04년생 불만 있어도 티 내지 않아야.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani10.gif"&gt;	&amp;nbsp;	33년생 해보기 전 먼저 단정 짓지 마라. 45년생 바다는 어떤 강물도 거절 않는 법. 57년생 빈대 잡다 초가삼간 태울라. 69년생 세상에 인내로 못 갈 길은 없다. 81년생 당장 손 안 쓰면 영영 실기할 수도. 93년생 동료 간에도 저의는 적당히 감춰야.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani11.gif"&gt;	&amp;nbsp;	34년생 단독 행동 말고 단체 행동 하라. 46년생 칭찬 격려로 아랫사람 충성 유도하라. 58년생 생각 섰다면 망설이지 말고 일단 저지르고 봐야. 70년생 속마음은 말만 듣고는 모른다. 82년생 운영 관리에 신경 쓰도록. 94년생 진척 보이지 않으니 심사가 갑갑.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani12.gif"&gt;	&amp;nbsp;	35년생 천리마가 구유에 드니 능력이 불발. 47년생 도움 청하면 협조 무난히 받을 듯. 59년생 막힌 상황에 숨통 트일 듯. 71년생 태도 나약하면 성격도 나약해지는 법. 83년생 장애 있어도 소신껏 행동하라. 95년생 조신하지 못한 언행이 주변 지탄을 초래.	&lt;br&gt;
-&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;한소평 금오산방 강주  &lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;			&lt;/p&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/4MTFRYWHBJA7XOKKF7G7JPLX5U.png?width=800&amp;height=420&amp;auth=4651b5b20b5d4901424204d1456faee02e4b064ff509db23945deabf4404c8ef&amp;smart=true" type="image/png" height="420" width="800"/>
-    </item>
-    <item>
-      <title>‘호별 방문 선거법 위반’ 국힘 조지연 의원, 벌금 90만원 선고</title>
-      <link>https://www.chosun.com/national/regional/2024/12/06/4WEKYYLVOZESPIFH5D5VXYGG3E/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/12/06/4WEKYYLVOZESPIFH5D5VXYGG3E/</guid>
-      <dc:creator>대구=노인호 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 06 Dec 2024 07:48:24 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3V7NUV3NENMMTMLY5WLE5PY6EU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;국민의힘 조지연 의원이 6일 벌금 90만원 형을 선고 받은 뒤 대구지법을 빠져나오고 있다./연합뉴스.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대구지법 형사12부(재판장 어재원)는 6일 공직선거법 위반 혐의로 재판에 넘겨진 국민의힘 조지연(경북 경산시)의원에게 벌금 90만원을 선고했다. 또 같은 혐의로 기소된 윤기현 경산시의원에게 벌금 70만원을 선고했다.&lt;br&gt;&lt;br&gt;조 의원은 지난 3∼4월 제22대 국회의원선거 공식 선거운동 기간 중 윤 시의원과 함께 경산시청, 경산시농업기술센터 등 21개 사무실을 돌며 80여분 동안 공무원들에게 인사한 혐의를 받고 있다. 앞서 검찰은 조 의원에게 벌금 150만원, 윤 시의원에게 벌금 100만원을 구형했다.&lt;br&gt;&lt;br&gt;재판부는 “선거용 점퍼를 착용한 채 경산시청 등을 방문해 여러 명의 공무원과 악수하며 묵시적 지지를 호소한만큼 죄책이 절대 가볍지 않다”며 “다만 선거구민의 개별 집이 아니라 다수의 공무원이 일하는 관공서 사무실을 찾았고, 체류 시간이 그리 길지 않아 위법행위 내지 부정행위 위험이 크지 않았다”고 밝혔다.&lt;br&gt;&lt;br&gt;이어 “후보자에 대한 지지를 직접적이거나 불법적으로 호소하는 정도까지 이르지 않아 선거에 큰 영향을 미쳤다고 보기 어려운 점, 초범인 점 등을 고려했다”고 양형 이유를 설명했다.&lt;br&gt;&lt;br&gt;공직선거법 제106조(호별방문의 제한)는 ‘누구든지 선거운동을 위해 호별로 방문할 수 없다’고 규정돼 있으며, 이를 어길 경우 3년 이하 징역이나 600만 원 이하의 벌금에 처하도록 하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>용인외대부고 기숙사 공사장 비계 무너져...근로자 6명 부상</title>
-      <link>https://www.chosun.com/national/regional/2024/12/06/NP5GDI3E2JDFZOPSXAQVKITKNA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/12/06/NP5GDI3E2JDFZOPSXAQVKITKNA/</guid>
-      <dc:creator>용인=권상은 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 06 Dec 2024 07:54:15 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PCCCVN6G4BGX7KWZ2EXTR5VA7U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;6일 오후 2시5분쯤 경기 용인시 처인구 용인외대부고 기숙사 공사현장에 설치된 비계가 일부 무너지면서 근로자 6명이 다쳤다. /경기도소방재난본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;6일 오후 2시 5분쯤 경기 용인시 처인구 모현읍 용인 한국외국어대학교 부설 고등학교(용인외대부고) 기숙사 공사현장에서 건물 외벽에 설치돼 있던 비계가 무너지는 사고가 났다.&lt;br&gt;&lt;br&gt;이 사고로 일부 작업자가 추락하는 등 6명이 다쳐 인근 병원으로 옮겨졌다. 부상자 가운데 2명은 중상, 4명은 경상을 입었으며 이들 모두 의식이 있는 상태이다.&lt;br&gt;&lt;br&gt;이날 사고가 난 건물은 10층 높이로, 당시 외벽 9층 높이에 설치된 비계가 붕괴하면서 주변에 있던 비계들도 무너져 내렸던 것으로 알려졌다.&lt;br&gt;&lt;br&gt;소방당국에 따르면 이 공사 현장에서는 지난달 25일에도 비계 구조물인 철근이 일부 떨어져 등교하던 여학생 2명이 머리 등을 다치는 사고가 났던 것으로 파악됐다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>尹, 박선영 前 의원 진실화해위원장 임명안 재가</title>
@@ -915,44 +950,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DDEFV2XQSFIQHNZ2RQZKOAOCTI.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;박선영 물망초학교 이사장(전 자유선진당 의원). /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 대통령은 6일 오후 박선영(68) 물망초학교 이사장(전 자유선진당 의원)의 진실화해위원장(장관급) 임명안을 재가했다.&lt;br&gt;&lt;br&gt;박 이사장은 이화여대 법학과를 졸업, 서울대에서 법학 박사 학위를 취득했다. 1977년 MBC 아나운서로 입사한 뒤 기자로 전직해 12년간 활동했다.&lt;br&gt;&lt;br&gt;박 이사장은 교육자 출신으로 동국대에서 헌법학을 가르쳤다. 2008년 제18대 국회의원 선거에서 자유선진당 비례대표로 당선돼 초선 의원을 지냈다. 임기 동안 독도영토수호대책특별위원회·국가청렴위원회·여성가족위원회 위원 등을 지냈다. 2018년과 2022년에는 서울시교육감 후보로 출마했다.&lt;br&gt;&lt;br&gt;박 이사장은 ‘탈북민의 대모’로 불릴 만큼 탈북민과 북한 인권 문제에 많은 관심을 기울여 왔다. 중국의 탈북민 강제 북송에 반대해 주한 중국대사관 앞에서 단식농성을 벌여 강제 북송 문제에 대한 국내 관심을 환기했다. 2012년에는 탈북 청소년을 위한 대안학교인 ‘물망초학교’를 설립, 북한 인권과 국군 포로 송환 문제, 납북자 문제 등과 관련해 활동해왔다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>경찰청장, 계엄 선포 13분 만에 선관위에 경찰 투입 지시</title>
-      <link>https://www.chosun.com/national/2024/12/06/ZSKCY3LBTVCC5O63DL24A7TPSA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2024/12/06/ZSKCY3LBTVCC5O63DL24A7TPSA/</guid>
-      <dc:creator>주형식 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 06 Dec 2024 07:38:50 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ISFAJKTLLFOKRBIBL3237BJZWU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;조지호 경찰청장이 5일 오후 비상계엄 선포와 대응과 관련한 긴급 현안질의가 진행되는 국회 행정안전위원회 전체회의에 출석하기에 앞서 회의장 출입구에서 금속탐지기로 수색을 받고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;조지호 경찰청장은 3일 윤석열 대통령이 비상계엄을 선포한지 13분 만에 중앙선거관리위원회(선관위) 청사 등에 경찰 병력을 배치한 것으로 확인됐다.&lt;br&gt;&lt;br&gt;경찰청이 6일 국회 행정안전위원회 소속 더불어민주당 윤건영 의원실에 제출한 자료에 따르면, 조지호 경찰청장은 지난 3일 오후 10시 41분 경기남부경찰청장에게 중앙선거관리위원회(선관위) 과천청사와 선관위 선거연수원에 대한 안전조치 및 우발대비를 지시했다. 윤 대통령이 계엄령을 선포한 지 14분 만이다. 윤 대통령의 입에서 “비상계엄을 선포한다”는 말이 나온 것은 3일 오후 10시 27분이었다.&lt;br&gt;&lt;br&gt;조 청장으로 부터 지시를 받은 김준영 경기남부경찰청장은 오후 10시 44분 경기남부청 경비과장에게 선관위 과천청사와 선거연수원에 경찰 경력배치를 지시했고 경기남부청 경비과장은 이를 곧바로 과천경찰서와 수원서부경찰서에 전달했다. 오후 10시 49분 선관위 과천청사에 경력을 배치하라는 지시를 받은 과천경찰서는 오후 11시 48분쯤 경찰관 13여 명을 동원해 현장에 도착했다. 수원서부서 역시 오후 10시 53분쯤 선관위 선거연수원에 경력 배치 지시를 받고 오후 11시 25분쯤 현장에 경찰관 10여 명을 배치했다. 오후 11시 50분쯤에는 기동대 1개 제대가 선관위에 도착했으며 다음날(4일) 밤 12시 55분쯤에는 2기동대가 선거연수원에 배치됐다. 7기동대는 새벽 1시 20분쯤 선관위에 도착했다. 기동대 경력은 오전 6시 40분쯤에서야 철수 지시를 받았다.&lt;br&gt;&lt;br&gt;앞서 조 청장은 6일 열린 국회 행정안전위원회 전체회의에 출석해 여인형 국군방첩사령관의 전화를 받고 중앙선거관리위원회에 경력(경찰 인력)을 투입했다고 밝혔다. 여 사령관은 또 “우리가 선관위 쪽에 갈 예정”이라고 했다고 조 청장은 전했다. 계엄사 측은 선관위 등 주요 포스트에 대한 적절한 조치가 있을 테니 참고하라는 말도 전했다고 한다. 조 청장은 전화가 끝난 뒤 경기남부경찰청에 전화해 “우발사태를 대비하는 게 맞겠다”고 지시했다고 밝혔다. 경력 배치는 자체 판단이었다는 설명이다. 반면 여 사령관은 동아일보 인터뷰에서 조 청장에게 선관위 이야기를 꺼낸 적이 없다고 부인했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/ISFAJKTLLFOKRBIBL3237BJZWU.jpg?width=4398&amp;height=2933&amp;auth=1e54974b1cd3c5dedfe17bb2cb8629086b3e057bcb85a64dad6a9ba2bccbb61f&amp;smart=true" type="image/jpeg" height="2933" width="4398">
-        <media:description type="plain">&lt;YONHAP PHOTO-3834&gt; 행안위 출석 전 몸 수색 받는 조지호 경찰청장
-    (서울=연합뉴스) 김주성 기자 = 조지호 경찰청장이 5일 오후 비상계엄 선포와 대응과 관련한 긴급 현안질의가 진행되는 국회 행정안전위원회 전체회의에 출석하기에 앞서 회의장 출입구에서 금속탐지기로 수색을 받고 있다. 2024.12.5
-    utzza@yna.co.kr/2024-12-05 14:47:50/
-&lt;저작권자 ⓒ 1980-2024 ㈜연합뉴스. 무단 전재 재배포 금지, AI 학습 및 활용 금지&gt;</media:description>
-        <media:credit role="author" scheme="urn:ebu">김주성</media:credit>
-      </media:content>
-    </item>
-    <item>
-      <title>겨울철 추위 피해 車엔진룸 찾는 길고양이들… 사고 예방법은</title>
-      <link>https://www.chosun.com/national/national_general/2024/12/05/CZTYQ76PWZHQZNOBP474HKARV4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/05/CZTYQ76PWZHQZNOBP474HKARV4/</guid>
-      <dc:creator>박선민 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 05 Dec 2024 04:46:53 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/455Z7UDZJZAIFE2YAK5ZTXVG7U.png"&gt;&lt;figcaption&gt;&lt;small&gt;/부산동물사랑길고양이보호연대&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;겨울철 길고양이가 추위를 피하고자 차량 엔진룸 등에 숨어드는 경우가 종종 발생하는 가운데, 한 동물단체가 이로 인한 피해를 예방하기 위한 캠페인을 전개했다.&lt;br&gt;&lt;br&gt;부산동물사랑길고양이보호연대는 지난달 28일 길고양이가 겨울철 추위를 피하기 위해 차량본네트 등에 들어갔다가 엔진룸에서 발생하는 열로 인해 화상을 입거나 죽는 사례를 전하며 이를 예방하기 위한 ‘모닝노크 4단계’ 캠페인을 공개했다.&lt;br&gt;&lt;br&gt;캠페인에는 ▲시동 전 똑!똑!똑! 엔진룸 두드리기 ▲차 문 크게 닫기 ▲좌석에 앉아 발 구르기 ▲경적 울리기 등 4개 단계를 통해 길고양이가 인척을 느끼고 달아날 수 있도록 하는 내용이 담겼다. 단체 측은 차주도 차량 손실 피해를 보기도 하고 일부 카센터에서는 끔찍한 모습을 봐야 하기 때문에 수리를 꺼리기도 한다며 이를 막기 위해 이번 캠페인을 계획했다고 덧붙였다.&lt;br&gt;&lt;br&gt;단체 측은 지난 1일부터 부산 16개구 반려인들과 관할 구청 동물부서팀과 함께 캠페인을 시민들에게 확산하기 위해 거리에 나서고 있다. 부산뿐 아니라 밀양, 서울 성북구에서도 함께 참여 중이다. 앞으로 모닝노크 캠페인을 전국으로 확산시키겠다는 계획이다.&lt;br&gt;&lt;br&gt;실제로 고양이가 차량 엔진룸에 들어가는 사례는 추운 겨울철에 특히 자주 발생한다. 강원도소방본부에 따르면, 2019년부터 3년간 강원도 내에서 자동차 엔진룸에 들어간 고양이를 대상으로 진행한 구조활동은 총 104건인데, 이 가운데 34.6%인 36건이 날씨가 추워지는 겨울철에 집중됐다.&lt;br&gt;&lt;br&gt;문제는 고양이가 엔진룸에 들어간 걸 모르고 시동을 켤 경우, 사고가 발생할 수 있다는 점이다. 고장을 유발해 차량이 멈추거나, 주행 중 고양이가 엔진룸에서 갑자기 튀어나와 로드킬이나 2차 교통사고로 이어지는 등의 사고가 발생할 수 있다. 이 때문에 소방당국이나 동물단체 등은 매년 겨울철이 되면 운전 전 고양이가 차량 내부에 들어왔는지 여부를 확인하라고 요구하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>토요일 여의도서 대규모 퇴진 집회로 교통 혼잡 예상</title>
-      <link>https://www.chosun.com/national/2024/12/06/JXP3XKIH3JC5RGG2RRROJE7NSI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2024/12/06/JXP3XKIH3JC5RGG2RRROJE7NSI/</guid>
-      <dc:creator>주형식 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 06 Dec 2024 07:14:54 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DBCY7BDGF352XXSVOHGOFSQGQA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울경찰청,/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;토요일인 7일 서울 여의도 일대와 도심 곳곳에서 윤석열 대통령의 퇴진을 촉구하는 대규모 집회가 열린다.&lt;br&gt;&lt;br&gt;서울경찰청은 7일 국회 인근 의사당대로·여의공원로·은행로 등에서 수만 명이 참석하는 3차 민중총궐기 집회가 예정돼 일부 도로가 통제된다고 밝혔다. 당일 오후 1시부터 전국민주노동조합총연맹(민주노총) 등 주최로 국회 인근에서 집회가 열린다. 집회 후에는 행진도 예정돼 있다.경찰은 도심과 여의도권 집회의 경우 원거리에서부터 교통경찰을 배치해 차량을 우회 조치할 예정이다.아울러 의사당대로 등 국회 인근 도로 교통을 집중 관리해 시민의 안전을 확보하고, 국회대로는 양방향 정상 소통으로 교통 불편을 최소화할 방침이다.&lt;br&gt;&lt;br&gt;특히 집회 행진 구간에 교통경찰 230여명을 배치해 차량 우회 조치 등을 한다.경찰 관계자는 “가급적 지하철 등 대중교통을 이용하고 부득이 차량을 이용할 경우 교통정보를 확인해달라”고 당부했다.집회 시간대 자세한 교통상황은 서울경찰청 교통정보 안내 전화(☎ 02-700-5000), 교통정보센터 홈페이지(&lt;a href="http://www.spatic.go.kr" target="_blank"&gt;www.spatic.go.kr&lt;/a&gt;) 등에서 확인할 수 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/DBCY7BDGF352XXSVOHGOFSQGQA.jpg?width=3802&amp;height=2460&amp;auth=625e57ee410d7ad97f25bf2d44c36275f3514669010783ed7a0b59d90bfd5ac3&amp;smart=true" type="image/jpeg" height="2460" width="3802">
-        <media:description type="plain">서울지방경찰청 로고 ⓒ News1 신웅수 기자</media:description>
-        <media:credit role="author" scheme="urn:ebu">phonalist@news1.kr              </media:credit>
-      </media:content>
-    </item>
-    <item>
       <title>조희대 대법원장 "계엄으로 국가 혼란…사법부 흔들림 없어야"</title>
       <link>https://www.chosun.com/national/court_law/2024/12/06/7GCB5QH3HBBLRMDWXABMXRL4DA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/06/7GCB5QH3HBBLRMDWXABMXRL4DA/</guid>
@@ -960,33 +957,6 @@
       <description/>
       <pubDate>Fri, 06 Dec 2024 06:07:46 +0000</pubDate>
       <content:encoded>조희대 대법원장이 윤석열 대통령의 비상계엄 선포 사태와 관련해 우려를 표하며 “이럴 때일수록 사법부는 중심을 잡아야 한다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Y3D4H7M4VJJ55ERNEYJPJATQDA.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;조희대 대법원장이 4일 오전 서울 서초구 대법원으로 출근하며 윤석열 대통령의 비상계엄 선포와 관련한 취재진의 질문에 답하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;조 대법원장은 6일 전국법원장회의에 참석해 “최근 계엄선포 관련 사태로 말미암아 국가적 혼란의 우려가 커지고 있다. 이럴 때일수록 사법부는 중심을 잡고 추호의 흔들림 없이 오직 헌법과 법률에 의한 재판을 통한 실질적 법치주의 확립과 국민의 기본권 수호를 위해 최선의 노력을 다해 나가야 한다”고 했다. &lt;br&gt;&lt;br&gt;이날 회의는 연간 계획에 따라 열린 정례회의였다. 전국법원장회의가 끝나면 논의 내용을 대법원이 공개할 예정이다.&lt;br&gt;&lt;br&gt;조 대법원장은 윤 대통령의 비상계엄 선포가 해제된 지난 4일 아침 출근길에서도 “이런 어려울 때일수록 사법부가 본연의 임무를 더 확실하게 하겠다”며 “본래의 역할이 재판을 통해 국민의 자유와 인권을 보장하는 일이기 때문에 한 치의 소홀함이 없도록 최선을 다하겠다”고 한 바 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘딸 명의 사기대출’ 양문석, 첫 재판서 “재산축소 신고 혐의는 인정”</title>
-      <link>https://www.chosun.com/national/incident/2024/12/06/KE2J2QAPDBEBBBPFTPXA4JMBYA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/12/06/KE2J2QAPDBEBBBPFTPXA4JMBYA/</guid>
-      <dc:creator>수원=김현수 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 06 Dec 2024 06:44:46 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ILJU3WQ4DKREOVBDOLYHAHRCUI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;양문석 더불어민주당 의원. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;딸 명의로 사기 대출을 일으킨 혐의 등으로 아내와 함께 재판에 넘겨진 양문석 더불어민주당 의원 측이 대출 사기 등 나머지 혐의에 대해 부인했다. 다만 재산 축소 신고와 관련한 공직선거법 위반 혐의는 인정했다.&lt;br&gt;&lt;br&gt;수원지법 안산지원 형사2부(재판장 박지영)는 6일 특정경제범죄가중처벌법상 사기 및 공직선거법 위반 혐의로 첫 공판을 열었다.&lt;br&gt;&lt;br&gt;이날 공판에서 양 의원 법률대리인은 “사기의 고의나 기만 의사가 없었다”고 주장했다. 변호인은 “공직선거법상 재산 축소 신고 혐의는 인정하고 나머지 혐의는 무죄라는 입장”이라며 “딸 명의로 사업자 대출을 받는다는 내용은 (양의원이) 들었지만, 나머지 구체적인 내용은 전혀 알지 못해 고의가 없다”고 주장했다.&lt;br&gt;&lt;br&gt;페이스북 게시글 관련 허위사실 공표 혐의에 대해서는 “(양 의원의) 아내는 대출 관련 증빙서류 작성 시 (대출 모집인이) 위조하는지 전혀 몰랐다”며 사문서 위조 혐의에 대해 무죄라고 설명했다.&lt;br&gt;&lt;br&gt;이날 양 의원 부부와 함께 사기 혐의 공범으로 재판에 넘겨진 대출모집인의 변호인은 공소사실을 인정했다.&lt;br&gt;&lt;br&gt;양 의원은 2021년 4월 당시 대학생이던 딸 명의로 ‘사업 운전자금’ 11억원을 대출받아 서울 서초구의 아파트를 매입하는 데 보탠 혐의로 재판에 넘겨졌다. 또 총선 후보 등록 과정에서 재산을 7억 6182만원으로 표기해야 하는데 2억 4100만원 누락한 5억 2082만원으로 신고한 혐의도 받는다. 공직자윤리법 시행령에 따르면 공직선거 후보자가 소유 부동산을 신고할 때 공시가격과 실거래가격 중 높은 금액을 기재해야 한다.&lt;br&gt;&lt;br&gt;검찰은 지난 9월 양 의원을 특경가법상 사기 및 공직선거법 위반 혐의로 불구속 기소했다. 또 사기 혐의 공범으로 양 의원 배우자와 대출모집인을 각각 불구속 기소 했다. 양 의원에 대한 2차 공판은 내년 1월 24일 진행된다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“게임 그만하라”…꾸짖는 아버지 살해하려한 20대 아들, 징역 7년</title>
-      <link>https://www.chosun.com/national/regional/2024/12/06/VV74MCHSRVD3TJD5ACWBWC67WM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/12/06/VV74MCHSRVD3TJD5ACWBWC67WM/</guid>
-      <dc:creator>대구=노인호 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 06 Dec 2024 06:33:25 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XMGA4NO5BFCJ5KDLOB6HLA3DWI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대구지방·고등법원 전경. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;자신을 꾸짖는 아버지를 흉기로 찔러 살해하려 한 20대 아들에게 징역형이 선고됐다.&lt;br&gt;&lt;br&gt;대구지법 제12형사부(재판장 어재원)는 6일 존속살해미수 혐의로 구속 기소된 A씨에게 징역 7년을 선고하고, 5년간 보호관찰 받을 것을 명령했다.&lt;br&gt;&lt;br&gt;A씨는 지난 5월 오후 9시 30분쯤 대구의 한 아파트에서 “게임 그만하고 일찍 자라”고 말하는 자신의 아버지(50대)를 수 차례 흉기로 찌른 혐의로 재판에 넘겨졌다. 정신 질환으로 앓고 있는 A씨는 평소 아버지와 마찰이 잦았던 것으로 조사됐다.&lt;br&gt;&lt;br&gt;재판부는 “아버지를 상대로 범행을 저질러 인륜에 반하고, 범행 방법도 잔혹해 비난 가능성이 매우 크다. 피해를 당한 아버지는 심한 정신적 고통을 안고 살아가야 하고, 목격한 어머니의 고통도 크다”며 “다만 부모가 처벌을 원하지 않는 점, 피고인이 가지고 있는 정신 병력 등이 영향을 미쳤을 것으로 보이는 점 등을 고려했다”고 양형 이유를 밝혔다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>서울지하철 1·2노조 새벽 협상 타결... 오늘로 예정된 총파업 취소</title>
-      <link>https://www.chosun.com/national/national_general/2024/12/06/42R2KZAFSZE6HF53NGQROUUC7U/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/06/42R2KZAFSZE6HF53NGQROUUC7U/</guid>
-      <dc:creator>김영우 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 05 Dec 2024 17:23:38 +0000</pubDate>
-      <content:encoded>서울 지하철 1~8호선을 운행하는 서울교통공사의 1노조(서울교통공사노조)·2노조(서울교통공사통합노조)와 공사 측이 총파업 예고일 당일인 6일 새벽 최종 교섭에서 극적으로 협상을 타결했다. 아직 공사와 3노조(올바른노조)의 교섭이 남아있지만 2021년 이후 3년 만에 서울 지하철 파업을 피할 가능성이 높아졌다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QNQ43DFDABPRXDT6QGY3LGF4CY.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;서울지하철노조 총파업을 하루 앞둔 5일 서울 종로구 지하철 5호선 광화문역에서 출근길 시민들이 지하철에서 하차하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;노사는 서울 성동구 서울교통공사 별관에서 막판 협상을 벌인 끝에 6일 새벽 합의안을 마련했다.&lt;br&gt;&lt;br&gt;양측은 전날 오후 4시부터 최종 협상을 시작했지만 임금 인상과 인력 충원 등 문제를 두고 견해차를 좁히지 못한 채 장시간 협상을 이어갔다. 1노조 측은 이날 최종 협상 과정에서도 “사측이 개선된 안을 제시하지 않으면 내일 첫 열차부터 파업에 돌입하겠다”고 했다. 자정을 넘긴 6일 새벽 2시쯤 결국 협상을 타결하고 노사 합의안을 채택했다.&lt;br&gt;&lt;br&gt;합의안에는 임금 2.5% 인상, 인력 630명 신규 충원, 1인 승무제 도입 중단 등의 내용이 담겼다. 1노조 측은 “합의안이 타결되면서 오늘로 예정됐던 총파업은 전격 취소됐음을 발표한다”고 했다.&lt;br&gt;&lt;br&gt;이어 새벽 2시 51분쯤 2노조도 공사와 협상을 타결했다. 이로써 공사와 3노조의 교섭만 남았다. 3노조는 협상 결렬 시 파업을 하겠다고 선언했던 1노조와 마찬가지로, 공사와 최종 교섭이 결렬되면 6일부터 파업에 돌입한다고 예고한 상태다.&lt;br&gt;&lt;br&gt;서울교통공사에는 민주노총 소속 서울교통공사노조를 비롯해 한국노총 소속 서울교통공사통합노조, 이른바 ‘MZ노조‘로 불리는 서울교통공사 올바른노조 등 3개 노조가 있다. 서울교통공사노조 조합원 수가 전체의 약 60%로 가장 많다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
