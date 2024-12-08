@@ -13,6 +13,24 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>차량 실험 도중 숨진 ‘현대차 연구원 3명’ 사인, 일산화탄소 중독</title>
+      <link>https://www.chosun.com/national/regional/2024/12/08/3ON6W4BTNZCITP4W6X6LHPWSSI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/12/08/3ON6W4BTNZCITP4W6X6LHPWSSI/</guid>
+      <dc:creator>울산=김주영 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 08 Dec 2024 08:42:53 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MLEUSUTODTHV7ISXICEQYU2FAY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 2일 오전 11시 30분 현대자동차 4공장 입구에 형사기동대 차량이 세워져 있다. 경찰과 고용노동부는 이날 오전 30여 명을 투입해 현대차 울산공장을 압수수색했다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;현대자동차 울산공장에서 차량 성능 테스트 중 숨진 연구원들 사인이 일산화탄소 중독으로 확인됐다.&lt;br&gt;&lt;br&gt;울산경찰청은 국립과학수사연구원으로부터 숨진 연구원들의 사인이 일산화탄소 중독이라는 부검 결과를 통보받았다고 8일 밝혔다.&lt;br&gt;&lt;br&gt;경찰은 앞서도 숨진 연구원들의 사인이 일산화탄소 중독일 것으로 보고 수사를 해왔다. 경찰은 연구원들이 일산화탄소에 노출된 경위와 배기·환기 시스템 이상 여부, 안전 수칙 준수 여부 등을 수사하고 있다.&lt;br&gt;&lt;br&gt;경찰은 지난 2일 현대차 울산공장과 연구원 중 일부가 소속된 남양연구소를 압수수색해 확보한 차량 테스트 관련 자료, 차량 테스트 공간(체임버) 설비 서류, 안전 관련 서류 등을 분석 중이다.&lt;br&gt;&lt;br&gt;또 안전 관련 책임자 등을 참고인 자격으로 소환해 조사했다. 경찰은 사고 당시 차량 테스트 상황을 그대로 재연해 검증하는 방안도 준비 중이다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “사고 원인과 관련해 분석하고 확인해야 할 자료가 적지 않다”며 “정확한 사고 경위를 조사하고 있다”고 말했다.&lt;br&gt;&lt;br&gt;고용노동부도 이번 사고와 관련해 지난달 29일부터 현대차 울산공장을 대상으로 산업안전 특별감독을 진행 중이며 안전보건 수칙 준수 여부를 전반적으로 들여다보고 있다.&lt;br&gt;&lt;br&gt;지난달 19일 오후 현대차 울산공장 전동화품질사업부 내 차량 테스트 공간에서는 현대차 연구원 2명과 협력업체 연구원 1명 등 3명이 숨지는 사고가 발생했다. 이들 연구원은 실내 공간에서 차량 성능과 아이들링(공회전) 실험을 하던 중 사고를 당했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>대검 “검찰총장 책임하에 특수본 수사… 법무부에 보고 안한다”</title>
+      <link>https://www.chosun.com/national/court_law/2024/12/08/IYNSUPSKANEOTPTLTPVBBM3URE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/08/IYNSUPSKANEOTPTLTPVBBM3URE/</guid>
+      <dc:creator>박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 08 Dec 2024 08:15:32 +0000</pubDate>
+      <content:encoded>대검찰청은 8일 비상계엄 특별수사본부의 수사 내용을 법무부에 공유하지 않고 있다고 밝혔다. 박성재 법무부 장관도 특수본의 수사 보고를 받지 않겠다는 방침이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LC4TQV5JQZGZHLDPNIIJRN4J2E.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 대검찰청. /조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대검은 이날 입장문을 내고 “비상계엄 특수본 수사와 관련해 법무부에 일체 보고를 하지 않겠다”며 “앞으로도 법무부 보고 없이 검찰총장 책임 하에 특수본에서 법과 원칙에 따라 엄정하게 사건 수사를 진행할 예정”이라고 밝혔다.&lt;br&gt;&lt;br&gt;이날 박세현 검찰 비상계엄 특수본부장도 언론 브리핑에서 “기본적으로 특수본은 대검의 지휘 감독을 받고 있고 법무부에 직접 보고하는 일은 없다”고 했다.&lt;br&gt;&lt;br&gt;박성재 법무부 장관 또한 같은 날 “지금까지 검찰 비상계엄 특수본으로부터 보고를 받은 적도 없고 앞으로도 받을 계획이 없다”는 방침을 밝혔다.&lt;br&gt;&lt;br&gt;검찰 특수본 수사는 심우정 검찰총장이 보고받고 감독하게 된다.&lt;br&gt;&lt;br&gt;앞서 박 장관은 지난 3일 윤석열 대통령이 비상계엄을 선포했을 당시 국무회의에 참석해, 내란 혐의에서 벗어날 수 없는 만큼 검찰의 수사 보고를 받기에 부적절하다는 지적이 나왔다. 박 장관에 대한 고발장도 경찰에 접수된 상태다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>[속보] 검찰 특수본, 김용현 前국방 재소환</title>
       <link>https://www.chosun.com/national/court_law/2024/12/08/QM2GTKD3FZFYDPJIVE7DDGZFZQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/08/QM2GTKD3FZFYDPJIVE7DDGZFZQ/</guid>
@@ -928,19 +946,6 @@
       <content:encoded>행정안전부 산하 국가기록원이 6일 대통령실과 국방부 등에 ‘비상계엄 관련 기록물을 철저히 관리하라’는 내용의 공문을 보냈다고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TI67OARVC2GTQOT2VMOBX4T4TU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;국가기록원 대통령기록관의 전경&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 국가기록원은 지난 3일 밤 윤석열 대통령이 선포한 비상계엄과 관련해 “국무회의 회의록 등 기록물의 생산·보존 등을 공공기록물법에 따라 철저히 관리하고, 법을 위반해 폐기하거나 멸실하면 처벌받을 수 있다는 내용의 공문을 6일 저녁 관련 기관에 보냈다”고 했다.&lt;br&gt;&lt;br&gt;국가기록원 관계자는 “대통령실을 비롯해 행정안전부와 국방부, 경찰청, 군 등에 공문을 보냈다”고 말했다.&lt;br&gt;&lt;br&gt;‘공공기록물 관리에 관한 법률’에 따르면, 기록물 관리 전문 요원의 심사나 기록물평가심의회의 심의를 거치지 않고 기록물을 폐기한 사람은 7년 이하의 징역이나 3000만원 이하의 벌금에 처해진다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>경찰청 “방첩사령관, 청장에 계엄 당시 주요 정치인 위치 파악 요청”</title>
-      <link>https://www.chosun.com/national/2024/12/06/WRC22AUBKBGNFIKMYF4FEOJY6Q/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2024/12/06/WRC22AUBKBGNFIKMYF4FEOJY6Q/</guid>
-      <dc:creator>주형식 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 06 Dec 2024 10:36:20 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/54EFLFTXG5PJNEVFWJJZR7W42I.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;조지호 경찰청장이 지난 5일 오전 서울 여의도 국회에서 열린 비상계엄 관련 행정안전위원회 전체회의에 출석해 의원 질의에 답하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 3일 비상계엄 사태 당시 여인형 방첩사령관이 조지호 경찰청장에게 정치인 등 주요 인사의 위치 파악을 요청한 것으로 6일 확인됐다. 다만 조 청장은 법적 판단이 필요하다고 판단해 여 사령관 요청에 응하지 않았다고 밝혔다.&lt;br&gt;&lt;br&gt;경찰청이 국회 행정안전위원회 양부남 의원실에 제출한 자료에 따르면, 조지호 경찰청장은 비상계엄 선포 직후인 지난 3일 밤 10시 30분~ 40분쯤 여인형 방첩사령관과 통화했다. 이 통화에서 여 사령관이 정치인 등 주요 인사의 위치 확인을 요청했다고 한다. 경찰청은 “조 청장이 주요 인사의 위치 확인은 법적 판단이 필요하다고 보고, 여 사령관의 요청에 대해 별다른 조치를 취하지 않았다”고 설명했다.&lt;br&gt;&lt;br&gt;여 사령관은 당시 SNS 전화로 조 청장과 통화해 별도 통화 내역은 남지 않은 것으로 알려졌다.&lt;br&gt;&lt;br&gt;한편 조 청장은 3일 밤 11시 37분 국회 전면 출입 통제를 지시했는데, 그로부터 3분 전에 이상민 행정안전부 장관과 통화한 사실도 추가로 확인됐다. 이에 대해 경찰청은 “이상민 행안부 장관이 계엄 선포 이후 상황을 알아보기 위해 조지호 청장에게 전화했지만 주변과 대화를 하는 상황으로 제대로 된 대화가 이뤄지지 않았다”고 밝혔다.&lt;br&gt;&lt;br&gt;경찰청 국가수사본부는 이번 사태와 관련해 120명으로 구성된 특별수사팀을 만들고 수사에 착수했다고 이날 밝혔다. 안보수사단장인 송영호 경찰청 안보수사심의관(경무관)이 수사를 총괄한다. 특별수사팀은 이날 조지호 경찰청장, 김봉식 서울경찰청장, 목현태 국회경비대장 등 3명의 휴대전화를 임의제출받아 압수했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/54EFLFTXG5PJNEVFWJJZR7W42I.JPG?width=3210&amp;height=4247&amp;auth=f1781d08cfa1403dc658c68a50be8c04562a1b5decbeb2b956b8b6df838a1a34&amp;smart=true" type="image/jpeg" height="4247" width="3210">
-        <media:description type="plain">(서울=뉴스1) 이광호 기자 = 조지호 경찰청장이 5일 오전 서울 여의도 국회에서 열린 비상계엄 관련 행정안전위원회 전체회의에 출석해 의원 질의에 답하고 있다. 2024.12.5/뉴스1</media:description>
-        <media:credit role="author" scheme="urn:ebu">(서울=뉴스1) 이광호 기자</media:credit>
-      </media:content>
-    </item>
-    <item>
       <title>인권위, 법정 정년 60→65세 연장 권고</title>
       <link>https://www.chosun.com/national/national_general/2024/12/06/O26B6MAG3BDLLI427BAOX6T4BM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/06/O26B6MAG3BDLLI427BAOX6T4BM/</guid>
@@ -948,15 +953,6 @@
       <description/>
       <pubDate>Fri, 06 Dec 2024 11:24:25 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JQA5BL5YZFP2FB23IA72AEKHEY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 3일 서울 여의도 국회 앞 계단에서 한국노동조합총연맹 조합원들이 65세 정년연장 법제화 국회입법촉구 기자회견을 하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 7월 국내 65세 이상 인구가 1000만 명(전체의 19.5%)을 넘기며 내년엔 ‘초고령사회’에 진입할 전망이다. 국가인권위원회는 법정 정년을 현행 60세에서 65세로 상향하는 방안을 국무총리에게 권고하기로 했다고 6일 밝혔다.&lt;br&gt;&lt;br&gt;인권위는 전날 서울 중구 인권위에서 제23차 상임위원회를 열고 법정 정년을 60세에서 65세로 상향할 것을 권고하는 ‘고용상 연령차별금지 및 고령자 고용촉진에 관한 법률상 법정 정년 연장 관련 제도개선 권고안’을 의결했다고 밝혔다.&lt;br&gt;&lt;br&gt;인권위는 “우리나라는 급속한 고령화에 따른 생산가능인구 감소로 경제성장 잠재력 약화가 우려되고, 반면 고령층의 건강 수명은 상향되고 있다”며 “고령 인적자원을 최대한 활용해 고령화 위기를 극복하고 국가경쟁력을 강화하기 위한 개선 방안이 필요하다”고 권고 이유를 설명했다. 국민연금 수급 개시 연령도 단계적으로 65세까지 높아져 정년 이후 소득 공백이 발생한다는 의견도 내놨다.&lt;br&gt;&lt;br&gt;인권위는 “고령화에 대비해 60~64세 고용률이 급격히 증가하는 다수의 경제협력개발기구(OECD) 회원국과 비교 시 우리나라 60~64세 고용률은 다소 감소하는 추세로 고령 인적자원을 최대한 활용하기 위한 개선책이 필요하다”며 “이미 행정안전부 및 일부 지자체의 경우 자체적으로 공무직 정년을 기존 60세에서 65세로 연장하여 시행 중인 점도 고려했다”고 했다.&lt;br&gt;&lt;br&gt;다만 고령자 고용 연장에 따른 기업의 인건비 증가 부담이나 정년 연장 시 고령 근로자의 임금 감소 부담 등을 완화할 수 있도록, 임금피크제의 실효적 운용 방안을 검토할 것을 함께 권고했다. 또한 세제 혜택, 금융지원, 행정지원(인허가 등) 및 인건비 지원 등 기업을 향한 적극적인 지원 필요성도 언급했다.&lt;br&gt;&lt;br&gt;정세은 충남대 경제학과 교수는 “초고령 사회인 일본은 이미 노인 고용률을 높은 수준으로 유지하고 있다”며 “고령 인구의 정년 연장이나 재취업에 대한 사회적 논의가 더욱 활발해져야 한다”고 했다. 정순둘 이화여대 사회복지학과 교수는 “고령층이 일자리에서 경쟁력을 기를 수 있도록 직업훈련 등을 제공하는 제도도 함께 뒷받침돼야 할 필요가 있다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>이재명 ‘선거법 사건’ 2심, 서울고법 부패·선거 전담부에 배당</title>
-      <link>https://www.chosun.com/national/court_law/2024/12/06/SVPNSHOP2ZCSBKVAG5YOENUIPE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/06/SVPNSHOP2ZCSBKVAG5YOENUIPE/</guid>
-      <dc:creator>방극렬 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 06 Dec 2024 09:43:38 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BUXLKCLTFFLO7HM7KFMCHPK2ZA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이재명 더불어민주당 대표가 지난달 15일 오후 서울 서초구 서울중앙지법에서 열린 공직선거법 위반 사건 1심 선고 공판을 마친 뒤 법원 청사를 나서고 있다. 이 대표는 1심에서 징역 1년에 집행유예 2년을 선고받았다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이재명 더불어민주당 대표의 공직선거법 위반 사건 항소심이 서울고법 형사6부에 배당됐다.&lt;br&gt;&lt;br&gt;6일 법조계에 따르면, 서울고법 형사6-2부(재판장 최은정)는 공직선거법상 허위 사실 유포 혐의로 1심에서 징역 1년에 집행유예 2년을 선고받은 이 대표의 항소심을 심리하게 됐다.&lt;br&gt;&lt;br&gt;이 재판부는 항소심을 전담하는 서울고법에서 주로 ‘부패·선거’ 사건을 전담해 심리하는 곳이다. 법조 경력이 유사한 최은정(52·사법연수원 30기)·이예슬(47·31기)정재오(55·25기) 고법판사 3명으로 이뤄진 ‘대등 재판부’다. 이 대표 사건의 재판장은 최은정 부장판사, 주심은 이예슬 부장판사가 맡는다.&lt;br&gt;&lt;br&gt;서울고법 형사6부 소속 고법판사 3명은 모두 올해 2월 법관 정기 인사로 교체된 이들이다. 형사재판부의 경우 통상 2~3년씩 근무해 내년 초 인사 대상자는 아니다. 이에 따라 이 대표 항소심이 재판부 변경 등으로 지연될 가능성은 낮아졌다.&lt;br&gt;&lt;br&gt;한편, 이 재판부는 이날 ‘고발 사주’ 의혹으로 기소된 손준성 대구고검 차장검사(검사장)에게 징역 1년을 선고한 1심을 뒤집고 무죄를 선고했다. 지난 6월에는 조국 조국혁신당 대표의 아들에게 허위 인턴확인서를 발급해주고도 한 인터넷방송에서 “(조 대표 아들이) 실제 인턴을 했다”고 허위 사실을 공표한 혐의로 기소된 최강욱 전 더불어민주당 의원에게 1심과 같이 벌금 80만원을 선고했다.&lt;br&gt;&lt;br&gt;이 대표는 지난달 15일 1심에서 징역 1년에 집행유예 2년을 선고받았다. 1심은 “선거 과정에서 허위 사실이 공표되는 경우 유권자가 올바른 선택을 할 수 없게 돼 민의가 왜곡되고, 선거 제도 기능과 대의민주주의 본질이 훼손될 염려가 있다는 점에서 죄책이 가볍다고 할 수 없다”며 이같이 판결했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>尹, 박선영 前 의원 진실화해위원장 임명안 재가</title>
