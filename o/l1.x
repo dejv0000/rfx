@@ -6,6 +6,16 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>경찰, '내란 혐의' 김용현 공관·장관 집무실 등 압수수색</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 100%;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/203587.jpg" alt="203587.jpg" style="width: 100%; height: auto;" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;《사진=연합뉴스》&lt;/figcaption&gt;   &lt;/figure&gt;&lt;/div&gt;&lt;p&gt;&amp;nbsp;&amp;nbsp;&lt;/p&gt;12·3 비상계엄 사태를 수사 중인 경찰청 국가수사본부가 내란 혐의를 받는 김용현 전 국방장관에 대한 압수수색에 나섰다. &lt;br /&gt;&lt;br /&gt;경찰청 안보수사단 전담수사팀은 8일 오전 김 전 장관의 공관과 국방부 장관 집무실 등에 대한 압수수색에 착수했다고 밝혔다. &lt;br /&gt;&lt;br /&gt;김 전 장관은 윤석열 대통령에게 비상계엄을 건의한 인물로 이번 사태의 핵심 피의자로 지목됐다. 윤 대통령의 충암고 1년 선배다. &lt;br /&gt;&lt;br /&gt;앞서 김 전 장관은 이날 새벽 1시 30분께 변호인과 함께 검찰 특별수사본부에 자진 출석해 조사를 받았다. 검찰은 김 전 장관을 긴급체포하고 소지한 휴대전화를 압수했다. 밤샘 조사를 마친 김 전 장관은 서울동부구치소로 이송됐다. &lt;br /&gt;&lt;br /&gt;검찰이 김 전 장관에 대한 신병을 확보했지만, 경찰이 검찰의 사건 송치 요구 이전에 압수수색 영장을 먼저 신청한만큼 별도로 강제수사에 나선 것으로 보인다.</description>
+			<pubDate>Sun, 08 Dec 2024 02:12:36 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/203587</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/203587</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/203587.jpg</media:thumbnail>
+			<dc:creator>임현경 기자</dc:creator>
+		</item>
+		<item>
 			<title>검찰 특수본, '내란 혐의' 김용현 전 국방부장관 긴급체포</title>
 			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/203586.jpg" alt="203515.jpg" style="width: 600px; height: auto;" /&gt;      &lt;figcaption class="cheditor-caption-text" style="text-align: center; margin: 10px; font-size: 14px; line-height: 1.6em;"&gt;김용현 전 국방부장관 《연합뉴스》&lt;/figcaption&gt;   &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p style="text-align: left;"&gt;   &lt;span style="font-weight: bold;" serial="8480"&gt;윤석열&amp;nbsp;&lt;/span&gt;대통령의 12·3 비상계엄 사태를 주도한 김용현 전 국방부장관이 8일 서울중앙지검에 자진 출석해 검찰 특별수사본부(특수본)의 조사를 받던 중 긴급 체포됐다. 검찰은 김 전 장관을 서울동부구치소로 이송하고 48시간 내 추가조사를 거쳐 구속영장을 청구할 전망이다.&lt;/p&gt;&lt;br /&gt;특수본은 이날 "김용현 전 국방부 장관을 긴급체포하고 소지하고 있던 휴대전화를 압수했다"고 밝혔다. 긴급체포는 중대한 범죄를 저지르거나 도주·증거인멸 우려가 있을 경우 영장 없이 48시간 동안 신병을 확보할 수 있는 제도다. &lt;br /&gt;&lt;br /&gt;김 전 장관은 돌연 이날 새벽 1시 30분까지 자진 출석해 조사받겠다는 의사를 밝혔다. 윤 대통령 탄핵소추안이 의결정족수 미달로 부결된 지 4시간 만이다. &lt;br /&gt;&lt;br /&gt;검찰은 비상계엄 사태 전후의 상황과 현재까지 드러난 의혹들의 사실관계를 중심으로 조사했다. 검찰은 특수본을 꾸린 뒤 주말 전원 출근해 수사 준비에 돌입했다. 본부장을 맡은 박세현 서울고검장은 업무 보고를 받고 수사팀과 법리 검토 등 수사를 본격화했다. 수사팀은 김 전 장관에 대한 신속한 조사가 필요하다고 판단하고 김 전 장관 측에 조속히 출석할 것을 요구했다.&lt;br /&gt;&lt;br /&gt;김 전 장관은 지난 3일 윤 대통령에게 비상계엄 선포를 직접 건의한 것으로 알려졌다. 김 전 장관은 사태의 책임을 지고 4일 사의를 표명했고, 윤 대통령은 면직을 재가했다. &lt;br /&gt;&lt;br /&gt;김 전 장관은 내란죄 등으로 검찰과 경찰, 공수처에 고발돼 있다. 서울중앙지검 공공수사1부(이찬규 부장검사)는 5일 김 전 장관의 출국금지가 필요하다고 판단해 법무부를 통해 김 전 장관에 대한 출국금지 조치를 내렸다. &lt;br /&gt;&lt;br /&gt;김 전 장관은 비상계엄 사태 당시 계엄군의 국회 진입 작전과 계엄사령관 임명, 위헌 논란이 빚어진 포고령 1호 발표 등을 주도한 혐의를 받고 있다. 김 전 장관은 전국 비상계엄이 선포된 직후부터 국회 요구로 계엄령이 해제될 때까지 통제실에 머무르며 계엄 작전에 대해 세부적인 지시를 내렸다고 한다. &lt;br /&gt;&lt;br /&gt;계엄령 해제 이후 김 전 장관이 대통령으로부터 지휘 권한을 위임받고 계엄군에 대한 지휘권을 행사했다는 증언들이 쏟아졌다. &lt;br /&gt;&lt;br /&gt;계엄사령관을 맡았던 박안수 육군참모총장은 5일 국회 국방위원회 현안 질의에 참석해 "모든 군사 활동은 장관이 책임진다"고 말했다고 했다. 또 김 전 장관이 전군 지휘관들에게 비상계엄 지침을 알리면서 '명령불응시 항명죄가 된다'고 언급했다고도 했다. &lt;br /&gt;&lt;br /&gt;계엄군의 국회 진입 작전도 계엄사령관과 논의도 없이 김 전 장관의 지시로 이뤄진 것으로 드러났다. 박 총장은 계엄군의 투입도 몰랐고 명령도 하지 않았다며, 계엄군 국회 투입 지시도 철수 명령을 내린 것도 김 전 장관이었다고 밝혔다.</description>
 			<pubDate>Sun, 08 Dec 2024 00:15:38 -0000</pubDate>
@@ -232,16 +242,6 @@
 			<link>https://www.lawtimes.co.kr/news/203567</link>
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/203567</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/203567.jpg</media:thumbnail>
-			<dc:creator>조한주 기자</dc:creator>
-		</item>
-		<item>
-			<title>상주교도소, 10주년 맞아 수용자와 함께하는 ‘송년음악회’</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 100%;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/203571.jpg" alt="203571.jpg" style="width: 100%; height: auto;" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: left; font-size:14px; line-height: 1.6em"&gt;5일 상주교도소 송년음악회. 무대 앞에 수용자들이 클래식 연주를 관람하고 있다. 《상주교도소 제공》&lt;/figcaption&gt;   &lt;/figure&gt;&lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;상주교도소(소장 정영모)는 지난 5일 개소 10주년을 맞아 경북 상주시 사벌국면 상주교도소에서 '변함없는 사랑 송년음악회'를 개최했다. 상주교도소 교정협의회(회장 우병학)가 주관한 이번 행사에는 경상북도 도립교향악단과 성악가 등이 초청됐으며, 수용자를 포함해 교정위원 240여 명이 참석했다.&lt;br /&gt;&lt;br /&gt;행사는 1부와 2부로 나뉘어 진행됐다. 1부에서는 대회의실에서 안경숙 상주시의회 의장, 정영모 소장, 김학술 중앙협의회 회장, 우병학 교정협의회장 등이 참석한 가운데 유공위원들에게 포상이 수여됐다.&lt;br /&gt;&lt;br /&gt;이어 2부에서는 대강당으로 자리를 옮겨 공연이 열렸다. 경북 도립교향악단과 성악가들이 현악 앙상블을 시작으로 목관 4중주, 성악 3중창, 금관 5중주를 차례로 선보였다.&lt;br /&gt;&lt;br /&gt;정영모 소장은 “이번 공연은 수용자가 사회적 단절로 인한 외로움과 소외감을 해소하고, 정서 함양과 심성 순화는 물론 건전한 사회 복귀를 도모하는 데 도움이 될 것”이라고 밝혔다.&lt;br /&gt;&lt;br /&gt;우병학 회장은 “이번 공연이 수용자의 정신 건강과 사회 복귀에 긍정적인 영향을 미치기를 바란다”며 “교정협의회는 앞으로도 교정 교화를 위해 최선을 다하겠다”고 말했다.</description>
-			<pubDate>Fri, 06 Dec 2024 10:02:14 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/203571</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/203571</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/203571.jpg</media:thumbnail>
 			<dc:creator>조한주 기자</dc:creator>
 		</item>
 	</channel>
