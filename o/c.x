@@ -13,6 +13,82 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>[속보] 검찰 특수본, 김용현 前국방 재소환</title>
+      <link>https://www.chosun.com/national/court_law/2024/12/08/QM2GTKD3FZFYDPJIVE7DDGZFZQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/08/QM2GTKD3FZFYDPJIVE7DDGZFZQ/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 08 Dec 2024 07:58:23 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VCLQILNNDNNPDAUZJ4STLRCZEA.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;김용현 전 국방장관./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘비상계엄 선포 사태’를 수사하는 검찰 특별수사본부(본부장 박세현 서울고검장)가 8일 김 전 장관을 다시 소환했다. 김 전 장관은 이날 오전 1시 30분 서울중앙지검으로 자진 출석해 조사를 받았고, 검찰은 7시 52분 김 전 장관을 긴급체포했다고 밝혔다.&lt;br&gt;&lt;br&gt;현행법상 긴급체포한 피의자는 48시간 이내에 구속영장 청구 여부를 결정해야 한다. 이에 특수본은 김 전 장관을 6시간 여 동안 조사한 뒤 서울동부구치소로 이송했었다. &lt;br&gt;&lt;br&gt;특수본은 김 전 장관을 상대로 비상계엄령 선포를 윤석열 대통령에게 건의한 이유, 국회·선거관리위원회에 계엄군 투입을 직접 지시했는지 여부, 국회 본회의장에서 의원들을 끌어내라고 지시한 사실이 있는지 여부 등을 묻는 것으로 알려졌다. &lt;br&gt;&lt;br&gt;또 이날 새벽 조사 때 압수한 김 전 장관의 휴대폰이 계엄 직후 교체한 휴대전화임을 파악한 검찰은 계엄령 선포 당시 사용하던 휴대전화의 행방도 캐물을 것으로 전해졌다.&lt;br&gt;&lt;br&gt;앞서 박세현 본부장은 이날 오후 브리핑을 열고 “국가적인 중대사건에 대해 어떠한 의혹도 남지 않도록 모든 노력을 다할 것”이라며 “지위고하를 막론하고 오로지 법과 원칙에 따라 엄정하게 수사를 진행하고 있으므로 국민 여러분께서는 믿고 지켜봐 주시기 바란다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[속보]경찰청장 정례 기자간담회 취소 “내란죄 피고발인 신분이라 부적절”</title>
+      <link>https://www.chosun.com/national/national_general/2024/12/08/VP2AT5O6VBGW7PCU2YBHKQNNNY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/08/VP2AT5O6VBGW7PCU2YBHKQNNNY/</guid>
+      <dc:creator>구아모 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 08 Dec 2024 07:51:33 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MQGWYFZACVOEJC4WGFSO746IXA.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;조지호 경찰청장이 5일 오후 서울 여의도 국회에서 열린 비상계엄 관련 행정안전위원회 전체회의에서 계엄 사태에 관한 질의에 답변하고 있다. 오른쪽은 이상민 행정안전부 장관. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;조지호 경찰청장이 “내란죄 피고발인 신분이라 정례간담회에 나서는게 부적절하다”며 9일 예정된 기자단 정례간담회를 취소했다.&lt;br&gt;&lt;br&gt;경찰청은 9일 오전 10시 예정된 조지호 경찰청장 주재의 기자단 정례간담회가 취소됐다고 8일 밝혔다. 경찰청 관계자는 “피고발인 신분이라 조지호 경찰청장이 직접 나서는게 부적절하다”고 입장을 밝혔다.&lt;br&gt;&lt;br&gt;경찰청 내부에서는 “조 청장이 이 상황을 직접 해명하는 게 낫다”는 이야기가 나왔으나 청장 측은 “피고발인 신분이라 부적절하다”며 일정을 취소하게 됐다고 밝혔다.&lt;br&gt;&lt;br&gt;예정된 조 청장 간담회 대신 ‘비상계엄’을 수사하는 우종수 경찰청 국가수사본부장 정례 간담회에서 내란죄 수사 상황 등에 대한 기자단 브리핑을 진행할 예정이다.&lt;br&gt;&lt;br&gt;경찰청 국가수사본부는 150여명의 특별수사단을 꾸려 강제 수사를 진행하고 있다. 8일 오전 김용현 전 국방부 장관의 집무실·공관·자택에 대한 압수수색에 나섰다. 조 청장과 김봉식 서울경찰청장의 핸드폰을 임의제출받아 통화 내역을 분석하고 있따.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[오늘의 운세]  12월 9일 월요일 (음력 11월 9일 丁未)</title>
+      <link>https://www.chosun.com/national/national_general/2024/12/08/IOSORKSRONELHI6MLBBSDDPSGQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/08/IOSORKSRONELHI6MLBBSDDPSGQ/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Sun, 08 Dec 2024 08:00:00 +0000</pubDate>
+      <content:encoded>&lt;p&gt;&lt;div class="chosun_unse"&gt;&lt;iframe src="https://image.chosun.com/arc/unse_iframe.html" frameborder="0" scrolling="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;style&gt;.chosun_unse{position:relative;width:100%;height:350px;box-sizing:border-box}.chosun_unse&gt;iframe{position:absolute;top:0;left:0;width:100%;height:100%;overflow-y:hidden}@media all and (max-width:1024px){.chosun_unse{height:350px}}@media all and (max-width:1023px){.chosun_unse{height:350px}}@media all and (max-width:528px){.chosun_unse{height:270px}}@media all and (max-width:384px){.chosun_unse{height:190px}}&lt;/style&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;p&gt;&lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani01.gif"&gt;  	&amp;nbsp;	36년생 남 장단에 놀아나는 어리석음은 보이지 마라. 48년생 불안감 있다고 주저앉아선 해결책이 없다. 60년생 부족한 부분 채워가는 시기라 생각. 72년생 이해 구하면 이해 받을 듯. 84년생 속병을 고약으로 고치겠나. 96년생 쉽게 해결될 일 아니니 기다려라.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt;  &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani02.gif"&gt;	&amp;nbsp;	37년생 골치 아픈 일이 봄눈 녹듯 해결. 49년생 모처럼의 기회 잘 살려 나가도록. 61년생 소비 지출의 용불용처를 엄밀히 구분하라. 73년생 이제 올라갈 일만 남았다. 85년생 함부로 한 약속이 발목 잡을 수도. 97년생 변화는 고통이, 안주는 고생이 따른다.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani03.gif"&gt;	&amp;nbsp;	38년생 상식 선에서 처리하면 모두 동의할 듯. 50년생 회초리 들려거든 당근도 함께 준비. 62년생 성급한 평가는 잠시 뒤로 미루고 추이 살피도록. 74년생 이론만 고집 말고 상식 선에서 처신하라. 86년생 과도한 욕심이 스트레스 원인. 98년생 노상(路上) 횡액을 주의.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani04.gif"&gt;	&amp;nbsp;	27년생 하나 얻었다면 하나는 양보하도록. 39년생 주먹 불끈 쥐고 나서봐라. 51년생 주변 말에 크게 신경 쓸 것 없다. 63년생 아프지 않은 인생 있나. 75년생 어설픈 추진은 일 더 꼬이게 할 수도. 87년생 좋게 생각하면 좋게 마무리된다. 99년생 의심스러우면 함께하지 말아야.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani05.gif"&gt;	&amp;nbsp;	28년생 소금도 맛보고 사랬다. 40년생 한 걸음 양보가 두 걸음 진보. 52년생 다소의 정체 있어도 조급해 마라. 64년생 일은 많고 실속은 적고. 76년생 예상보다 수월히 마무리될 듯. 88년생 제 도끼에 제 발등 찧는구나. 00년생 똑같은 조건에도 결과는 천지 차이.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani06.gif"&gt;	&amp;nbsp;	29년생 감당하지 못할 일이 무엇. 41년생 도움은 주되 호구는 되지 말아야. 53년생 남자는 비뇨기과 여자는 부인과에 진료. 65년생 이동과 변화에 적극 대처하라. 77년생 평소 먹은 마음 취중(醉中)에 난다. 89년생 상대방 취향과 기호에 맞추도록. 01년생 자신을 낮추고 겸손 또 겸손 하라.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani07.gif"&gt;	&amp;nbsp;	30년생 그간의 노력과 희생 인정받을 듯. 42년생 실수는 반복하지 않은 것이 중요. 54년생 분주하고 다사다난한 하루. 66년생 선택과 집중에도 우선순위 필요. 78년생 정리정돈으로 채울 것 버릴 것을 구분. 90년생 마음이 다소 편안해질 듯. 02년생 옛일, 옛사람으로 웃음 지을 일 생긴다.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani08.gif"&gt;	&amp;nbsp;	31년생 토끼띠와의 거래에 이익 있다. 43년생 문서로 인한 즐거움이 기대. 55년생 조절과 통제 기능이 마비되면 큰일. 67년생 기분 전환이 필요한 시기. 79년생 묘책 있긴 한데 성사는 의문. 91년생 앞으로 남고 뒤로 밑지는 장사. 03년생 가족 간 언쟁은 손해막심.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani09.gif"&gt;	&amp;nbsp;	32년생 내일을 위해 만반의 준비가 필요. 44년생 건강 관리가 재물 관리보다 더 중요. 56년생 감정 절제하고 사태 직시하라. 68년생 뜻하지 않은 재물이 들어올 듯. 80년생 금전과 이성 운이 상승하는 시기. 92년생 지출 전 잔고를 생각하라. 04년생 세상에 못 넘을 벽은 없다.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani10.gif"&gt;	&amp;nbsp;	33년생 감사의 삶은 늘 행복하다. 45년생 길흉 동반하니 선택에 신중 기하도록. 57년생 손자를 귀애하면 코 묻은 밥 먹는다. 69년생 어딜 가든 경쟁자와 훼방꾼 있기 마련. 81년생 적당한 타협으로 사태 마무리하라. 93년생 망설이고 주저하다 기회는 날아간다.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani11.gif"&gt;	&amp;nbsp;	34년생 노력한 일이 수포로 돌아갈 수도. 46년생 계획 수정과 보완 필요할 듯. 58년생 일시적 조정 국면 예상되니 경거망동 마라. 70년생 산은 오를수록 높고 물은 건널수록 깊다. 82년생 웃을 일 없어도 의도적으로 웃어야. 94년생 상승 기류 탔으나 장애는 있다.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani12.gif"&gt;	&amp;nbsp;	35년생 귀인은 토끼띠가 분명. 47년생 오늘의 영광은 어제의 고난. 59년생 운기 충만하니 기대 이상의 결과 기대. 71년생 잘못 고치기가 허물없기보다 더 어렵다. 83년생 변수 많은 시기니 딴생각 말고 본업 충실 하라. 95년생 엉킨 실타래는 단칼에 끊는 것도 방법.	&lt;br&gt;
+&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;한소평 금오산방 강주  &lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;			&lt;/p&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/4MTFRYWHBJA7XOKKF7G7JPLX5U.png?width=800&amp;height=420&amp;auth=4651b5b20b5d4901424204d1456faee02e4b064ff509db23945deabf4404c8ef&amp;smart=true" type="image/png" height="420" width="800"/>
+    </item>
+    <item>
+      <title>[속보] 공수처, 검찰·경찰에 '비상계엄 선포' 사건 이첩 요청</title>
+      <link>https://www.chosun.com/national/court_law/2024/12/08/5JJWSFYO6NHELH5OQKXIVWTUBY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/08/5JJWSFYO6NHELH5OQKXIVWTUBY/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 08 Dec 2024 07:32:12 +0000</pubDate>
+      <content:encoded>고위공직자범죄수사처(공수처)는 오동운 공수처장이 윤석열 대통령의 ‘비상계엄 선포’ 사건과 관련해 이첩요청권을 발동했다고 8일 밝혔다. 검찰 비상계엄 특별수사본부(본부장 박세현 서울고검장)는 8일 김용현 전 국방장관을 조사한 뒤 긴급체포해 신병을 확보했고, 경찰 특별수사단은 이날 김 전 장관의 국방장관 공관과 집무실, 자택 등에 대한 압수 수색을 집행했는데, 돌연 공수처가 이첩을 요청한 것이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2CZQ7TXRZFNVVD4QBCPHTGH3KA.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;오동운 고위공직자범죄수사처장./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;현행 공수처법은 공수처의 범죄 수사와 중복되는 다른 수사기관의 범죄 수사에 대해, 수사의 진행 정도 및 공정성 논란 등에 비춰 공수처가 수사하는 게 적절하다고 판단할 경우 이첩을 요구할 수 있다. 해당 조항은 공수처가 이첩을 요구할 경우 요청을 받은 수사기관은 이에 응하도록 하고 있다. 지난 3일 윤 대통령이 비상계엄령을 선포한 직후부터 처장 직속 태스크포스를 구성해 법리 검토와 강제수사 착수 여부 등을 검토해왔다는 것이 공수처 설명이다.&lt;br&gt;&lt;br&gt;공수처는 지난 6일 김용현 전 국방장관 등 주요 피의자에 대한 영장을 법원에 청구했다고도 밝혔다. 법원은 그러나 김 전 장관에 대한 내란·직권남용 혐의와 관련해 ‘동일 또는 유사한 내용의 영장의 중복 청구’ 등을 이유로 기각했다는 것이다. 공수처 관계자는 “법원은 영장을 기각하면서도 공수처에 수사권이 있음을 인정했다”며 “중복수사 우려를 해소하고 수사의 신속성, 공정성 확보 등을 위해 이첩요청권을 행사한 것”이라고 설명했다.&lt;br&gt;&lt;br&gt;법조계에선 공수처의 인력 부족 등 문제가 해결되지 않은 상황에서 무리하게 이첩요청권을 행사했다는 지적이 나온다. 이날 기준 공수처 소속 검사는 15명, 수사관은 36명으로 모두 51명이다. 반면 검찰 특수본은 검사 20명과 수사관 30명, 군검찰 인력 12명 등 62명으로 구성돼 있다. 경찰은 특별수사단 인력을 이날 120여 명에서 150여 명으로 늘린 상황이다. 공수처 관계자는 “대검찰청, 경찰청 등 수사기관의 장에게 인력 파견 등 지원을 요청하는 것을 검토 중”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>이상민 행안부 장관 사퇴... “책임 엄중하게 인식”</title>
+      <link>https://www.chosun.com/national/national_general/2024/12/08/7GVMMYF4M5F4HCIDLPKTPLN364/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/08/7GVMMYF4M5F4HCIDLPKTPLN364/</guid>
+      <dc:creator>박진성 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 08 Dec 2024 06:24:48 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SSLMMT4FZ6NZXTAWDA3NBXUE7E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이상민 행정안전부 장관. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이상민 행정안전부 장관이 사퇴했다.&lt;br&gt;&lt;br&gt;행정안전부는 8일 이상민 장관이 사의를 표명했고 윤석열 대통령이 이를 수용했다고 밝혔다.&lt;br&gt;&lt;br&gt;이 장관은 입장문을 통해 “국민 여러분을 편하게 모시지 못하고 대통령을 잘 보좌하지 못한 책임감을 엄중하게 인식하고 국민들께 송구한 마음”이라고 했다.&lt;br&gt;&lt;br&gt;또 이 장관은 “이제 행정안전부 장관직을 내려놓고자 한다”며 “더 이상 국정의 공백과 혼란이 생겨서는 안 된다고 생각한다”고 했다.&lt;br&gt;&lt;br&gt;이어 이 장관은 “이제 한 사람의 평범한 국민으로 돌아가 자유 대한민국의 새로운 도약에 힘을 보태겠다”고 했다.&lt;br&gt;&lt;br&gt;앞서 민주당은 7일 이 장관에 대한 탄핵소추안을 발의했다. 10일 국회 표결이 예정돼 있었다.&lt;br&gt;&lt;br&gt;이는 ‘핼러윈 참사’ 이후 이 장관을 향한 두 번째 탄핵 추진이었다. 작년 2월 야당은 참사 책임을 물으며 탄핵안을 가결했다. 직무가 정지됐던 이 장관은 5개월 후인 작년 7월 헌법재판소가 탄핵 심판 청구를 기각해 업무에 복귀했다.&lt;br&gt;&lt;br&gt;2022년 5월 취임한 이 장관은 윤 정부에서 가장 오래 재임한 장관이다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>JYP 걸그룹 ‘비춰’ 美멤버 탈퇴 선언... “스태프들이 부당한 대우”</title>
+      <link>https://www.chosun.com/national/national_general/2024/12/08/WP2ESY54ABECLD6H5UHKNMRAIU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/08/WP2ESY54ABECLD6H5UHKNMRAIU/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 08 Dec 2024 05:35:23 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TINOJJHN35F2PJJYFWWKXXIJBE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;글로벌 걸그룹 비춰(VCHA)의 미국인 멤버 케이지. /인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;올해 데뷔한 JYP엔터테인먼트 글로벌 걸그룹 비춰(VCHA)의 미국인 멤버 케이지(17)가 소속사 특정 직원으로부터 학대를 경험했다고 주장하며 팀 탈퇴를 선언했다. JYP는 서로 이견이 발생한 부분이 있다며 절차에 따라 대처하겠다고 밝혔다.&lt;br&gt;&lt;br&gt;케이지는 8일 자신의 소셜미디어를 통해 “특정 스태프들에게 학대와 부당한 대우를 경험한 후 JYP엔터테인먼트와 계약을 종료하고 비춰를 떠나기로 결정했으며 어제 소송을 제기했다”고 밝혔다.&lt;br&gt;&lt;br&gt;올해 1월 데뷔한 비춰는 JYP와 유니버설뮤직 그룹 산하 레이블 리퍼블릭레코드가 진행한 글로벌 프로젝트 ‘A2K’로 결성된 한미 합작 걸그룹이다.&lt;br&gt;&lt;br&gt;케이지는 “저는 한 멤버가 극단적 선택을 시도하게 만든 근무 환경과 생활 환경을 지지하지 않는다. 섭식 장애를 유발하고 멤버들을 자해하게 만드는 환경 역시 지지하지 않는다”며 “지난 5월에 팀을 탈퇴하겠다고 결정했으며, 지금은 계약이 해지되기를 기다리고 있는 중”이라고 했다.&lt;br&gt;&lt;br&gt;케이지는 “제가 겪은 일에 대해 누구도 비난하고 싶지 않으나, 이는 케이팝 산업에 깊이 뿌리박힌 문제라고 생각한다”며 “저의 탈퇴 결정으로 K팝 시스템이 더 나은 방향으로 변화해 아이돌과 연습생을 보호할 수 있길 희망한다”고 했다.&lt;br&gt;&lt;br&gt;JYP는 케이지의 주장에 대해 “내용을 직접 송부 받은 것이 없어 확인 중”이라며 “해당 상황에 대해서는 대리인 등을 통해 의견을 나눠왔는데, 이견이 있었던 측면이 있다. 향후 절차에 따라 진행하겠다”라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>인천2호선 전동차 ‘연기 난다’ 신고... 40여분간 운행 차질</title>
+      <link>https://www.chosun.com/national/incident/2024/12/08/PQMWXB6RA5FIDP3RGDFVFIAJLE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/12/08/PQMWXB6RA5FIDP3RGDFVFIAJLE/</guid>
+      <dc:creator>인천=이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 08 Dec 2024 05:39:15 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HDMDIKC3ACOJ74NIDZ2NIPJTME.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;인천지하철 2호선. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;휴일 새벽 인천지하철 2호선 전동차에서 연기가 난다는 신고가 접수돼 열차 운행에 차질을 빚었다.&lt;br&gt;&lt;br&gt;8일 인천소방본부와 인천교통공사 등에 따르면 이날 오전 5시 47분쯤 인천 서구 가재울역에 진입하던 인천2호선 운연행 전동차 안에서 연기가 난다는 신고가 접수됐다.&lt;br&gt;&lt;br&gt;신고를 받고 출동한 소방 당국과 인천교통공사는 해당 전동차 운행을 멈추고, 20~30명의 승객을 하차시켰다. 인명피해는 없었다.&lt;br&gt;&lt;br&gt;소방 당국과 인천교통공사는 신고 직후인 오전 5시 50분쯤부터 오전 6시 36분쯤까지 가재울역이 포함된 인천가좌역~인천시민공원역 구간을 단전 조치하고 전동차와 선로 등을 확인했다.&lt;br&gt;&lt;br&gt;소방 당국은 전동차 연기가 화재로 인한 건 아닌 것으로 보고 있다. 인천2호선은 현재 정상 운행 중이다.&lt;br&gt;&lt;br&gt;인천교통공사 관계자는 “연기가 발생한 원인을 찾기 위해 해당 전동차를 운연차량기지로 옮겨 정밀하게 점검하고 있다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>비상계엄 특수본“경찰 합동수사 제안하면 언제든 응하겠다”</title>
       <link>https://www.chosun.com/national/court_law/2024/12/08/S5AMTQC32NDBRC5CZQWLJGJPEI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/08/S5AMTQC32NDBRC5CZQWLJGJPEI/</guid>
@@ -874,33 +950,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JQA5BL5YZFP2FB23IA72AEKHEY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 3일 서울 여의도 국회 앞 계단에서 한국노동조합총연맹 조합원들이 65세 정년연장 법제화 국회입법촉구 기자회견을 하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 7월 국내 65세 이상 인구가 1000만 명(전체의 19.5%)을 넘기며 내년엔 ‘초고령사회’에 진입할 전망이다. 국가인권위원회는 법정 정년을 현행 60세에서 65세로 상향하는 방안을 국무총리에게 권고하기로 했다고 6일 밝혔다.&lt;br&gt;&lt;br&gt;인권위는 전날 서울 중구 인권위에서 제23차 상임위원회를 열고 법정 정년을 60세에서 65세로 상향할 것을 권고하는 ‘고용상 연령차별금지 및 고령자 고용촉진에 관한 법률상 법정 정년 연장 관련 제도개선 권고안’을 의결했다고 밝혔다.&lt;br&gt;&lt;br&gt;인권위는 “우리나라는 급속한 고령화에 따른 생산가능인구 감소로 경제성장 잠재력 약화가 우려되고, 반면 고령층의 건강 수명은 상향되고 있다”며 “고령 인적자원을 최대한 활용해 고령화 위기를 극복하고 국가경쟁력을 강화하기 위한 개선 방안이 필요하다”고 권고 이유를 설명했다. 국민연금 수급 개시 연령도 단계적으로 65세까지 높아져 정년 이후 소득 공백이 발생한다는 의견도 내놨다.&lt;br&gt;&lt;br&gt;인권위는 “고령화에 대비해 60~64세 고용률이 급격히 증가하는 다수의 경제협력개발기구(OECD) 회원국과 비교 시 우리나라 60~64세 고용률은 다소 감소하는 추세로 고령 인적자원을 최대한 활용하기 위한 개선책이 필요하다”며 “이미 행정안전부 및 일부 지자체의 경우 자체적으로 공무직 정년을 기존 60세에서 65세로 연장하여 시행 중인 점도 고려했다”고 했다.&lt;br&gt;&lt;br&gt;다만 고령자 고용 연장에 따른 기업의 인건비 증가 부담이나 정년 연장 시 고령 근로자의 임금 감소 부담 등을 완화할 수 있도록, 임금피크제의 실효적 운용 방안을 검토할 것을 함께 권고했다. 또한 세제 혜택, 금융지원, 행정지원(인허가 등) 및 인건비 지원 등 기업을 향한 적극적인 지원 필요성도 언급했다.&lt;br&gt;&lt;br&gt;정세은 충남대 경제학과 교수는 “초고령 사회인 일본은 이미 노인 고용률을 높은 수준으로 유지하고 있다”며 “고령 인구의 정년 연장이나 재취업에 대한 사회적 논의가 더욱 활발해져야 한다”고 했다. 정순둘 이화여대 사회복지학과 교수는 “고령층이 일자리에서 경쟁력을 기를 수 있도록 직업훈련 등을 제공하는 제도도 함께 뒷받침돼야 할 필요가 있다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>숭실대 16대 총장에 이윤재 경제학과 교수</title>
-      <link>https://www.chosun.com/national/national_general/2024/12/06/B5GWLZH6PZHNZOAQD6LMVAVUUY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/06/B5GWLZH6PZHNZOAQD6LMVAVUUY/</guid>
-      <dc:creator>박정훈 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 06 Dec 2024 11:48:30 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FGI4GB6TJVBHFAFEGAVLJ767NQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이윤재 숭실대 총장 /숭실대&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이윤재 숭실대 경제학과 교수가 숭실대 신임 총장으로 선출됐다.&lt;br&gt;&lt;br&gt;숭실대는 지난 5일 이사회를 열고 이윤재 교수를 제16대 총장으로 만장일치 선임했다고 6일 밝혔다.&lt;br&gt;&lt;br&gt;1956년생인 이 신임 총장은 숭실대 경제학과를 졸업하고 노던일리노이대학에서 경제학 석사와 박사 학위를 받았다. &lt;br&gt;&lt;br&gt;1991년부터 숭실대 경제학과 교수로 재직 중인 이 신임 총장은 기획실장, 교무처장, 학생처장 등 학내 보직을 지냈다. 한국중소기업학회회장, 한국기독교경제학회장, 신용보증기금 사외이사, 중소기업연구원 이사, 재단법인 중소상공인 희망재단 이사장 등 학외에서도 다양한 이력을 지녔다. &lt;br&gt;&lt;br&gt;이 신임 총장의 임기는 오는 2월 1일부터 4년이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>서강대 17대 총장에 심종혁 신부 연임</title>
-      <link>https://www.chosun.com/national/national_general/2024/12/06/F5XIRQVEY5F7TM3BTBX6E362UM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/06/F5XIRQVEY5F7TM3BTBX6E362UM/</guid>
-      <dc:creator>박정훈 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 06 Dec 2024 11:10:19 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RC5DQDJ3QBEFRALJYB2U4GF2IY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;심종혁 서강대 17대 총장/ 서강대&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서강대학교 학교법인 이사회는 6일 개최된 이사회에서 현 총장인 심종혁 신부가 제17대 총장으로 선임됐다고 밝혔다. 심 총장은 제16대 총장에 이어 제17대 총장으로 연임됐으며, 임기는 내년 2월 1일부터 4년이다.&lt;br&gt;&lt;br&gt;서강대 교수, 직원, 학생, 동문, 예수회 대표 총 29명으로 구성된 총장후보자 추천위원회는 지난달 11일 심 총장을 총장후보자로 추천하기로 의결했으며, 이후 이사회는 논의를 거쳐 심 총장의 연임을 최종 결정했다.&lt;br&gt;&lt;br&gt;심 총장은 1974년 서강대에 입학해 수학과 물리학을 전공하고, 1978년 물리학과 대학원을 졸업한 후 예수회에 입회했다. 1992년 서강대 종교학과 교수로 임용된 후 교학부총장, 대학원장, 기획처장, 총무처장 등 보직을 지냈다.&lt;br&gt;&lt;br&gt;심 총장은 “서강대만의 시그니처 교육을 개발하고, 새로운 산학협력 인프라를 구축하며, 학생들을 체계적으로 지원할 수 있는 시스템을 완성하는 한편, 학문 공동체로서 인류의 지속 가능한 성장에 기여하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[속보] 국민의힘 시도지사協 “尹, 비상 거국 내각 구성후 2선 물러나야"</title>
-      <link>https://www.chosun.com/national/national_general/2024/12/06/EPTMXBWQBNH4BMD2JJ5SJBR7G4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/06/EPTMXBWQBNH4BMD2JJ5SJBR7G4/</guid>
-      <dc:creator>최연진 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 06 Dec 2024 09:28:37 +0000</pubDate>
-      <content:encoded>국민의힘 시도지사 협의회는 6일 “윤석열 대통령은 책임 총리가 이끄는 비상 거국 내각을 구성하고 2선으로 물러나야 한다”고 했다.&lt;br&gt;&lt;br&gt;협의회는 이날 오후 서울 프레스센터에서 긴급 회의를 연 후 발표한 입장문에서 “국민의힘 시도지사 모두는 오늘의 정치상황에 대해 참회하는 마음으로 사과드린다”며 이같이 밝혔다.&lt;br&gt;&lt;br&gt;국민의힘 시도지사 협의회는 유정복 인천시장이 회장을 맡고 있다. 유 시장과 오세훈 서울시장, 박형준 부산시장, 홍준표 대구시장, 이장우 대전시장, 김두겸 울산시장, 최민호 세종시장, 김진태 강원지사, 김영환 충북지사, 김태흠 충남지사, 이철우 경북지사, 박완수 경남지사가 이날 입장문에 이름을 올렸다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LMW7DUNYYFP7BAWHEL5FSUZZ6E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;국민의힘 시·도지사협의회 소속 광역단체장들이 6일 오후 서울 중구 프레스센터에서 열린 긴급 회의에 참석하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;협의회는 “대통령 탄핵만은 피해야 한다. 더 이상의 헌정 중단사태는 막아야 한다“며 ”혼란한 상황이지만 극단적 대립을 자제하고 국정을 수습하면서 국민 불안을 해소해야 한다”고 했다. 그러면서 ‘비상 거국 내각’ 구성을 제안한 것이다.&lt;br&gt;&lt;br&gt;협의회는 또 “(윤 대통령은) 임기 단축 개헌 등 향후 정치일정을 분명히 밝혀달라”고 했다.&lt;br&gt;&lt;br&gt;유정복 시장은 입장문 발표 후 기자들과 만나 “지금 대통령으로서 실제 국정을 수행하는 것은 어렵다고 보기 때문에 2선 후퇴, 비상거국 내각 구성을 얘기한 것”이라며 “향후 임기 단축, 개헌 등에 대한 입장을 밝히도록 (촉구하는 것)”이라고 했다. &lt;br&gt;&lt;br&gt;‘직무정지가 필요하다는 한동훈 국민의힘 대표 의견에 동의하지 않는다는 뜻이냐’는 질문에는 “탄핵은 막아야 된다고 이미 말씀드렸다”며 “극단적 상황을 막는 것이 정치나 국가 발전에 합당하다는 뜻”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>이재명 ‘선거법 사건’ 2심, 서울고법 부패·선거 전담부에 배당</title>
       <link>https://www.chosun.com/national/court_law/2024/12/06/SVPNSHOP2ZCSBKVAG5YOENUIPE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/06/SVPNSHOP2ZCSBKVAG5YOENUIPE/</guid>
@@ -910,37 +959,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BUXLKCLTFFLO7HM7KFMCHPK2ZA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이재명 더불어민주당 대표가 지난달 15일 오후 서울 서초구 서울중앙지법에서 열린 공직선거법 위반 사건 1심 선고 공판을 마친 뒤 법원 청사를 나서고 있다. 이 대표는 1심에서 징역 1년에 집행유예 2년을 선고받았다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이재명 더불어민주당 대표의 공직선거법 위반 사건 항소심이 서울고법 형사6부에 배당됐다.&lt;br&gt;&lt;br&gt;6일 법조계에 따르면, 서울고법 형사6-2부(재판장 최은정)는 공직선거법상 허위 사실 유포 혐의로 1심에서 징역 1년에 집행유예 2년을 선고받은 이 대표의 항소심을 심리하게 됐다.&lt;br&gt;&lt;br&gt;이 재판부는 항소심을 전담하는 서울고법에서 주로 ‘부패·선거’ 사건을 전담해 심리하는 곳이다. 법조 경력이 유사한 최은정(52·사법연수원 30기)·이예슬(47·31기)정재오(55·25기) 고법판사 3명으로 이뤄진 ‘대등 재판부’다. 이 대표 사건의 재판장은 최은정 부장판사, 주심은 이예슬 부장판사가 맡는다.&lt;br&gt;&lt;br&gt;서울고법 형사6부 소속 고법판사 3명은 모두 올해 2월 법관 정기 인사로 교체된 이들이다. 형사재판부의 경우 통상 2~3년씩 근무해 내년 초 인사 대상자는 아니다. 이에 따라 이 대표 항소심이 재판부 변경 등으로 지연될 가능성은 낮아졌다.&lt;br&gt;&lt;br&gt;한편, 이 재판부는 이날 ‘고발 사주’ 의혹으로 기소된 손준성 대구고검 차장검사(검사장)에게 징역 1년을 선고한 1심을 뒤집고 무죄를 선고했다. 지난 6월에는 조국 조국혁신당 대표의 아들에게 허위 인턴확인서를 발급해주고도 한 인터넷방송에서 “(조 대표 아들이) 실제 인턴을 했다”고 허위 사실을 공표한 혐의로 기소된 최강욱 전 더불어민주당 의원에게 1심과 같이 벌금 80만원을 선고했다.&lt;br&gt;&lt;br&gt;이 대표는 지난달 15일 1심에서 징역 1년에 집행유예 2년을 선고받았다. 1심은 “선거 과정에서 허위 사실이 공표되는 경우 유권자가 올바른 선택을 할 수 없게 돼 민의가 왜곡되고, 선거 제도 기능과 대의민주주의 본질이 훼손될 염려가 있다는 점에서 죄책이 가볍다고 할 수 없다”며 이같이 판결했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>‘비상계엄’ 수사 경찰, 현직 경찰청장·서울청장 등 휴대전화 압수</title>
-      <link>https://www.chosun.com/national/2024/12/06/MSEBII2CMNFWHCN4HKLRXYSXOU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2024/12/06/MSEBII2CMNFWHCN4HKLRXYSXOU/</guid>
-      <dc:creator>주형식 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 06 Dec 2024 09:40:50 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QPVWYW5NE5PUNP5PDUA72ZHX5Q.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;조지호 경찰청장(왼쪽)과 김봉식 서울경찰청장(오른쪽)이 5일 오전 서울 여의도 국회에서 열린 비상계엄 관련 행정안전위원회 전체회의에 굳은 표정으로 출석해 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘비상계엄’ 고발 사건을 수사하는 경찰 국가수사본부가 6일 조지호 경찰청장, 김봉식 서울경찰청장, 목현태 국회경비대장 등 3명의 휴대전화를 임의제출 받아 압수했다.&lt;br&gt;&lt;br&gt;사건을 맡은 국수본 안보수사단은 이날 오후 문자 공지를 통해 이같이 밝혔다.&lt;br&gt;&lt;br&gt;안보수사단은 이날 120여명의 비상계엄 사태 전담 수사팀을 구성했다.전날까지 비상계엄과 관련해 접수된 고발은 총 4건이다. 고발인은 조국혁신당, 전국민주노동조합총연맹(민주노총) 위원장 등 59인, 진보당, 더불어민주당이다.고발 대상은 윤석열 대통령, 김용현 국방부 장관, 계엄사령관을 맡았던 박안수 육군참모총장, 이상민 행정안전부 장관, 조지호 경찰청장, 김봉식 서울경찰청장 등이다.&lt;br&gt;&lt;br&gt;고발된 혐의로는 형법 제87조 내란, 군형법 제5조 반란, 형법 제123조 직권남용 등이 있다고 국수본은 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/QPVWYW5NE5PUNP5PDUA72ZHX5Q.JPG?width=5185&amp;height=3455&amp;auth=3be38533010f6b32994e341eb72816ae22e316bfb68eeda4a48c937a11de7256&amp;smart=true" type="image/jpeg" height="3455" width="5185">
-        <media:description type="plain">(서울=뉴스1) 김민지 기자 = 조지호 경찰청장(왼쪾)과 김봉식 서울경찰청장이 5일 오전 서울 여의도 국회에서 열린 비상계엄 관련 행정안전위원회 전체회의에 굳은 표정으로 출석해 있다. 2024.12.5/뉴스1</media:description>
-        <media:credit role="author" scheme="urn:ebu">(서울=뉴스1) 김민지 기자</media:credit>
-      </media:content>
-    </item>
-    <item>
-      <title>‘이재명 없는 대장동 재판’ 1시간만에 끝… 유동규 “특혜에 자괴감” 반발</title>
-      <link>https://www.chosun.com/national/court_law/2024/12/06/QCIWNUNFZZG4XJYCTTJYGEXDIE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/06/QCIWNUNFZZG4XJYCTTJYGEXDIE/</guid>
-      <dc:creator>박혜연 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 06 Dec 2024 08:53:10 +0000</pubDate>
-      <content:encoded>대장동 개발 특혜 의혹 재판에 증인으로 나온 유동규 전 성남도시개발공사 기획본부장이 이재명 더불어민주당 대표가 재판에 출석하지 않은 것은 ‘특혜’라고 주장했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DDDHDKY5ERIBPEUR4CCNPDV7WQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;유동규 전 성남도시개발공사 기획본부장이 지난 11월 28일 서울 서초구 서울고등법원에서 열린 '민주당 불법 대선자금 수수 의혹' 관련 항소심 결심공판에 출석하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지법 형사33부(재판장 김동현)는 6일 이 대표의 ‘대장동·위례·성남FC·백현동 사건’ 공판을 진행했다.&lt;br&gt;&lt;br&gt;이 대표는 지난 4일 불출석 사유서를 내고 이날 재판에 출석하지 않았다. 비상계엄을 선포했다 해제한 윤석열 대통령에 대한 탄핵소추안 등 국회 표결이 진행될 수 있다는 이유에서다.&lt;br&gt;&lt;br&gt;이 대표 없이도 공판은 열렸고, 유 전 본부장이 증인으로 출석했다. 유 전 본부장은 “증인신문인데도 불구하고 피고인이 빠졌다. 법이 만인에 평등해야 하는데, 일반적인 사람 같으면 빠질 수 있는 건지 모르겠다“며 ”너무 특혜가 아닌가 생각한다. 법 위에 존재하는 건지도 모르겠다”고 했다.&lt;br&gt;&lt;br&gt;이어 “피고인이 세상 권력 다 쥔 것 같이 재판부 무시하고, 나오지도 않고 저희 같이 일반 사람이 받는 재판과 너무 차이가 나서 자괴감이 든다”며 “변호인도 증인을 째려보고, 이 사람들이 권력을 쥐면 날 죽이겠구나 하는 생각이 든다”고 했다.&lt;br&gt;&lt;br&gt;이 대표 측 변호인은 “저희는 불가피하게 불출석하게 됐다는 점을 사전에 사유 밝혀서 제출했는데 특혜라고 주장하는 건 어불성설”이라며 “이 대표에 대한 일련의 공소가 피고인을 법정에 붙들어 매어 놓기 위한 하나의 수단이라고 주장해왔는데 증인도 그런 취지에서, 증인 지위 이상으로 부당하게 어필하는 것”이라고 반박했다.&lt;br&gt;&lt;br&gt;이날 유 전 본부장이 이 대표의 불출석을 문제 삼아 증언을 거부하면서 재판은 1시간 만에 끝났다. 재판부는 다음 공판을 오는 10일 열기로 했다.&lt;br&gt;&lt;br&gt;이 대표가 이 사건 재판에 불출석한 건 이번이 처음이 아니다. 지난 7월엔 외교·통일·국방 대정부 질문 참석을 이유로, 지난 8월엔 민주당 당대표 후보 방송토론회 녹화 때문에 불출석 사유서를 내고 재판에 나오지 않았다. 당시 검찰은 “피고인은 출석이 원칙인데, 이재명 피고인이 정치 일정을 이유로 불출석하는 일이 반복되어서는 안 된다”고 지적했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[속보] 검찰, ‘비상계엄’ 특별수사본부 검사 20명 규모...동부지검에 설치</title>
-      <link>https://www.chosun.com/national/court_law/2024/12/06/EDDXI6MIQBHZJK4PDO2KLSVK7M/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/06/EDDXI6MIQBHZJK4PDO2KLSVK7M/</guid>
-      <dc:creator>이슬비 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 06 Dec 2024 08:02:24 +0000</pubDate>
-      <content:encoded>&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>尹, 박선영 前 의원 진실화해위원장 임명안 재가</title>
       <link>https://www.chosun.com/national/national_general/2024/12/06/G263NLV2FFFHDDQT67CS7TCVIA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/06/G263NLV2FFFHDDQT67CS7TCVIA/</guid>
@@ -948,15 +966,6 @@
       <description/>
       <pubDate>Fri, 06 Dec 2024 07:20:40 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DDEFV2XQSFIQHNZ2RQZKOAOCTI.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;박선영 물망초학교 이사장(전 자유선진당 의원). /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 대통령은 6일 오후 박선영(68) 물망초학교 이사장(전 자유선진당 의원)의 진실화해위원장(장관급) 임명안을 재가했다.&lt;br&gt;&lt;br&gt;박 이사장은 이화여대 법학과를 졸업, 서울대에서 법학 박사 학위를 취득했다. 1977년 MBC 아나운서로 입사한 뒤 기자로 전직해 12년간 활동했다.&lt;br&gt;&lt;br&gt;박 이사장은 교육자 출신으로 동국대에서 헌법학을 가르쳤다. 2008년 제18대 국회의원 선거에서 자유선진당 비례대표로 당선돼 초선 의원을 지냈다. 임기 동안 독도영토수호대책특별위원회·국가청렴위원회·여성가족위원회 위원 등을 지냈다. 2018년과 2022년에는 서울시교육감 후보로 출마했다.&lt;br&gt;&lt;br&gt;박 이사장은 ‘탈북민의 대모’로 불릴 만큼 탈북민과 북한 인권 문제에 많은 관심을 기울여 왔다. 중국의 탈북민 강제 북송에 반대해 주한 중국대사관 앞에서 단식농성을 벌여 강제 북송 문제에 대한 국내 관심을 환기했다. 2012년에는 탈북 청소년을 위한 대안학교인 ‘물망초학교’를 설립, 북한 인권과 국군 포로 송환 문제, 납북자 문제 등과 관련해 활동해왔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>조희대 대법원장 "계엄으로 국가 혼란…사법부 흔들림 없어야"</title>
-      <link>https://www.chosun.com/national/court_law/2024/12/06/7GCB5QH3HBBLRMDWXABMXRL4DA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/06/7GCB5QH3HBBLRMDWXABMXRL4DA/</guid>
-      <dc:creator>박혜연 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 06 Dec 2024 06:07:46 +0000</pubDate>
-      <content:encoded>조희대 대법원장이 윤석열 대통령의 비상계엄 선포 사태와 관련해 우려를 표하며 “이럴 때일수록 사법부는 중심을 잡아야 한다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Y3D4H7M4VJJ55ERNEYJPJATQDA.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;조희대 대법원장이 4일 오전 서울 서초구 대법원으로 출근하며 윤석열 대통령의 비상계엄 선포와 관련한 취재진의 질문에 답하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;조 대법원장은 6일 전국법원장회의에 참석해 “최근 계엄선포 관련 사태로 말미암아 국가적 혼란의 우려가 커지고 있다. 이럴 때일수록 사법부는 중심을 잡고 추호의 흔들림 없이 오직 헌법과 법률에 의한 재판을 통한 실질적 법치주의 확립과 국민의 기본권 수호를 위해 최선의 노력을 다해 나가야 한다”고 했다. &lt;br&gt;&lt;br&gt;이날 회의는 연간 계획에 따라 열린 정례회의였다. 전국법원장회의가 끝나면 논의 내용을 대법원이 공개할 예정이다.&lt;br&gt;&lt;br&gt;조 대법원장은 윤 대통령의 비상계엄 선포가 해제된 지난 4일 아침 출근길에서도 “이런 어려울 때일수록 사법부가 본연의 임무를 더 확실하게 하겠다”며 “본래의 역할이 재판을 통해 국민의 자유와 인권을 보장하는 일이기 때문에 한 치의 소홀함이 없도록 최선을 다하겠다”고 한 바 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
