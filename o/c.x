@@ -13,6 +13,24 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>검찰 특수본·경찰, 비상계엄 당시 국회·선관위 CCTV 요청</title>
+      <link>https://www.chosun.com/national/court_law/2024/12/08/HBV3LP52WZEGNBGR4BSNOJTSVU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/08/HBV3LP52WZEGNBGR4BSNOJTSVU/</guid>
+      <dc:creator>박혜연 기자, 구아모 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 08 Dec 2024 10:43:51 +0000</pubDate>
+      <content:encoded>윤석열 대통령의 ‘비상계엄 선포 사태’를 수사하는 검찰과 경찰이 계엄 당시 국회 경내 폐쇄회로(CC)TV 영상 등 자료를 요청한 것으로 확인됐다. 한편 경찰은 계엄군이 진입한 중앙선거관리위원회로부터 청사 내 폐쇠회로 역시 제출받았다. 검·경은 CCTV 영상을 확보해 비상계엄에 동원 된 계엄군 등을 파악할 방침이다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/75DECJCYSYC33VWYMMZWPWSZ7I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 여의도 국회의사당 전경. /조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰 비상계엄 특별수사본부(본부장 박세현 서울고검장)는 8일 오후 국회에 공문을 보내 지난 3일 밤~4일 새벽 비상계엄 당시 국회에 설치된 폐쇄회로 영상 등 자료를 제출해달라고 요청했다. 검찰 관계자는 “피해 상황 관련 자료 확보 차원에서 우선 국회에 요청했다”고 설명했다.&lt;br&gt;&lt;br&gt;한편 이 사건을 수사하는 경찰청 국가수사본부 전담수사팀도 전날 국회에 같은 자료를 요청했다. 국회는 요청 자료 및 피해 상황을 취합해 수사기관에 제출을 준비 중인 것으로 알려졌다. 이날 경찰은 선관위 내부의 폐쇄회로 영상 자료 제출을 요청했다. &lt;br&gt;&lt;br&gt;경찰은 150여명 규모의 전담 수사팀을 꾸려 ‘비상계엄 사태’에 대한 수사를 진행 중이다. 검찰 역시 특수본을 구성해 수사에 박차를 가하고 있다.&lt;br&gt;&lt;br&gt;내란 혐의는 2021년 검경 수사권 조정 이후 경찰에게 직접 수사권이 있다. 다만 검찰은 직권남용과 직접 관련성이 있는 범죄에 대한 수사로, 내란 혐의를 수사할 수 있다고 보고 수사에 착수했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>검찰 특수본, ‘비상계엄’ 군 장성 2명 참고인 소환</title>
+      <link>https://www.chosun.com/national/court_law/2024/12/08/6NH4LHA4GNC5BO27VA55M3KSFU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/08/6NH4LHA4GNC5BO27VA55M3KSFU/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 08 Dec 2024 10:18:47 +0000</pubDate>
+      <content:encoded>‘비상계엄 선포’ 사태를 수사하는 검찰 비상계엄 특별수사본부(본부장 박세현 서울고검장)는 지난 3일 비상계엄 선포 및 계엄군 출동 과정에 관여한 군 장성 2명을 8일 소환해 조사하고 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SRKKEITG4ZPVNKWSLZOPLTUJLI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령이 긴급 대국민 담화를 통해 비상계엄령을 발표한 가운데 지난 4일 서울 여의도 국회 내부로 특수전사령부 소속 계엄군이 진입을 시도하고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;특수본은 이날 정진팔 전 계엄부사령관(합동참모차장·중장)과 이상현 1공수특전여단장(준장)을 참고인으로 불러 조사하고 있다. 정 전 사령관은 지난 3일 윤석열 대통령의 비상계엄 발표 직후 김용현 전 국방장관이 계엄사령부 부사령관으로 임명한 인물이다. 이 여단장은 비상계엄 선포 직후 국회로 출동한 계엄군의 원 소속부대 지휘관 중 한 명이다.&lt;br&gt;&lt;br&gt;이 여단장은 비상계엄 선포 당시 곽종근 특수전사령관으로부터 실탄을 지참하라는 지시를 받고 이를 따르지 않았다고 주장하고 있다. 또 곽 사령관으로부터 “의결을 앞둔 국회의원들을 끄집어내라는 상부 전화를 받았다”는 말을 전해 들었고, 국회의원·보좌관들과 대치 중인 상황을 보고받은 뒤 부대를 뒤로 물리라고 지시했다고 밝힌 바 있다. 이 여단장은 국방부 검찰단이 출국금지를 요청한 군 관계자에 포함돼 있다.&lt;br&gt;&lt;br&gt;한편, 특수본은 이날 오후 5시쯤부터 김 전 장관을 내란·직권남용 혐의 피의자 신분으로 불러 조사하고 있다. 이날 오전 1시 30분 자진 출석한 김 전 장관을 6시간 여 조사한 뒤, 9시간 여 만에 다시 소환한 것이다. 특수본은 내일까지 김 전 장관을 조사한 뒤, 이르면 9일 구속영장을 청구할 계획이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>차량 실험 도중 숨진 ‘현대차 연구원 3명’ 사인, 일산화탄소 중독</title>
       <link>https://www.chosun.com/national/regional/2024/12/08/3ON6W4BTNZCITP4W6X6LHPWSSI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/12/08/3ON6W4BTNZCITP4W6X6LHPWSSI/</guid>
@@ -926,24 +944,6 @@
       <description/>
       <pubDate>Fri, 06 Dec 2024 13:55:06 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/X4WLWIB3UYU5JUQ547Q7AL4JS4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;위례선 트램 차량과 정거장의 예상도. /서울시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;위례신도시에 건설 중인 위례선 트램(노면전차)의 개통이 8개월가량 늦어질 것으로 보인다. 당초 내년 9월 개통을 목표로 사업을 추진했으나 2026년 5월은 돼야 개통이 가능할 전망이다. 지난달 위례신도시와 서울 강남을 잇는 위례신사선 경전철 민자사업이 무산된 데 이어 상대적으로 진행 속도가 빨랐던 트램 개통에도 차질이 생긴 것이다.&lt;br&gt;&lt;br&gt;6일 서울시의회 교통위원회 곽향기 의원에 따르면, 서울시는 최근 내년도 트램 운영비 예산 46억원을 전부 삭감했다. 현재 공정률은 89%로 내년 개통이 불가능하다고 판단한 것이다.&lt;br&gt;&lt;br&gt;위례선 트램은 위례신도시 내부를 남북으로 관통하는 노면전차다. 지하철 5호선 마천역과 8호선 복정·남위례역 사이 5.4㎞ 구간을 달린다. 정거장은 12곳, 총 사업비는 2614억원이다. 2008년 민자사업으로 추진했다가 좌초했고 2018년 서울시가 직접 사업을 맡아 속도가 붙었다. 2022년 12월 착공했다.&lt;br&gt;&lt;br&gt;위례선 트램은 1968년 서울에서 전차가 사라진 지 60여 년 만에 등장하는 전차라 관심을 모았다.&lt;br&gt;&lt;br&gt;서울시 관계자는 “예상보다 인허가에 시간이 걸려 착공이 지연된 데다 차량기지를 지으려던 부지에서 폐기물이 나오기도 했다”고 말했다. 이에 이호걸 위례시민연합 공동대표는 “서울시가 12만 위례신도시 주민들의 교통난 해소에 소극적인 것 아니냐”고 지적했다.&lt;br&gt;&lt;br&gt;위례신도시는 서울 송파구와 경기 성남·하남에 걸쳐 조성됐다. 약 12만명이 거주한다. 2013년 입주를 시작했으나 대중교통이 불편한 편이다.&lt;br&gt;&lt;br&gt;위례신사선은 민간사업자가 공사비 상승 등을 이유로 사업을 포기해 서울시가 직접 추진하기로 했다. 이 때문에 개통이 2028년에서 2030년 이후로 2년 이상 지연될 가능성이 크다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[단독] 취하신 분 타세요…'술 깨는 버스’ 만든다</title>
-      <link>https://www.chosun.com/national/national_general/2024/12/06/HHN77E7TCRGTHJFBQWON3YUL6Y/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/06/HHN77E7TCRGTHJFBQWON3YUL6Y/</guid>
-      <dc:creator>김영우 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 06 Dec 2024 13:54:03 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SNMGKCX6QRNWPKGIMSVUJB57QU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;정문헌 종로구청장이 지난 10월 23일 오후 서울 종로구 무악동주민센터에서 열린 서울시 주취해소센터 설치 반대 긴급간담회에 참석해 인사말하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울시가 술에 취한 시민을 보호하는 ‘주취 해소 센터’를 지으려다 주민 반발에 밀려 실패하자 대신 ‘주취 해소 버스’ 도입을 검토하고 있다.&lt;br&gt;&lt;br&gt;4일 서울시에 따르면, 서울시와 서울경찰청은 올 4월부터 서울시 내에 주취 해소 센터 건립을 추진했다. 후보지 3곳을 검토한 끝에 지난 9월 종로구 무악동 새마을금고 건물에 주취 해소 센터를 내기로 했다.&lt;br&gt;&lt;br&gt;그러나 이 사실이 알려지자 주민들이 반대하고 나섰다. 종로구 곳곳에 ‘주민 동의 없는 주취 해소 센터 설치에 반대한다’는 현수막이 내걸렸고 정문헌 종로구청장도 주민 간담회에서 “주거지 한가운데 주취 해소 센터를 조성하면 주민 불안이 우려된다”고 밝혔다. 무악동 새마을금고 건물은 아파트 단지 옆에 있다.&lt;br&gt;&lt;br&gt;서울시 관계자는 “주민들이 주취 해소 센터를 혐오 시설로 보는 것 같아 아쉽다”고 했지만 주민들은 “주취자가 많은 강남이나 홍대 대신 주거지에 센터를 내려는 서울시가 문제”라고 지적했다.&lt;br&gt;&lt;br&gt;주민 반발에 밀려 서울시는 지난 10월 센터 건립을 포기했다. 병원 6곳도 접촉했지만 전부 “공간이 없다”며 거부했다.&lt;br&gt;&lt;br&gt;서울시는 최근 ‘궁여지책’으로 주취 해소 버스를 투입하는 쪽으로 방향을 틀었다. 버스에 의료 장비를 싣고 움직이는 센터로 활용하는 것이다.&lt;br&gt;&lt;br&gt;서울시는 버스 한 대를 구입해 개조하는 비용으로 4억원, 운영비로 연간 3억원이 들 것으로 예상했다. 서울시는 무악동 센터의 임차료와 운영비로는 연간 3억5000만원 정도 예산을 잡았었다.&lt;br&gt;&lt;br&gt;버스는 ‘주취 해소 센터’ 간판을 붙였다 뗄 수 있게 만든다는 계획이다. 서울시 관계자는 “밤에는 주취 해소 센터로 활용하고 낮에는 다른 업무에도 투입하려는 것”이라고 했다.&lt;br&gt;&lt;br&gt;전국적으로 부산과 제주에서 주취 해소 센터를 운영하고 있다. 부산시는 작년 4월 시립 부산의료원 일부 공간을 활용해 센터를 운영하고 있다. 제주경찰청은 지난 1월 민간 병원인 한라병원에 센터를 열었다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>국가기록원 “비상계엄 관련 기록물 철저히 관리하라”</title>
-      <link>https://www.chosun.com/national/national_general/2024/12/06/UI6VQGH23JB4PDEHX5SX27L34Q/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/06/UI6VQGH23JB4PDEHX5SX27L34Q/</guid>
-      <dc:creator>김영우 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 06 Dec 2024 12:31:25 +0000</pubDate>
-      <content:encoded>행정안전부 산하 국가기록원이 6일 대통령실과 국방부 등에 ‘비상계엄 관련 기록물을 철저히 관리하라’는 내용의 공문을 보냈다고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TI67OARVC2GTQOT2VMOBX4T4TU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;국가기록원 대통령기록관의 전경&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 국가기록원은 지난 3일 밤 윤석열 대통령이 선포한 비상계엄과 관련해 “국무회의 회의록 등 기록물의 생산·보존 등을 공공기록물법에 따라 철저히 관리하고, 법을 위반해 폐기하거나 멸실하면 처벌받을 수 있다는 내용의 공문을 6일 저녁 관련 기관에 보냈다”고 했다.&lt;br&gt;&lt;br&gt;국가기록원 관계자는 “대통령실을 비롯해 행정안전부와 국방부, 경찰청, 군 등에 공문을 보냈다”고 말했다.&lt;br&gt;&lt;br&gt;‘공공기록물 관리에 관한 법률’에 따르면, 기록물 관리 전문 요원의 심사나 기록물평가심의회의 심의를 거치지 않고 기록물을 폐기한 사람은 7년 이하의 징역이나 3000만원 이하의 벌금에 처해진다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>인권위, 법정 정년 60→65세 연장 권고</title>
