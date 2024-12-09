@@ -6,6 +6,16 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>이재승 공수처 차장 "尹 계엄 수사, 공정성 논란 없는 공수처가 맡아야"</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 100%;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/203601.jpg" alt="203601.jpg" style="width: 100%; height: auto;" /&gt;&lt;br /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;&lt;span style="font-size: 14px;"&gt;이재승 고위공직자범죄수사처 차장&amp;nbsp;&lt;/span&gt;&lt;span style="font-size: 14px;"&gt;《사진=연합뉴스》&lt;/span&gt;&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="9219"&gt;이재승&amp;nbsp;&lt;/span&gt;고위공직자범죄수사처 차장이 검찰, 경찰과 달리 공정성 논란이 없는 독립적 수사기관인 공수처가 사건을 맡아야 한다고 밝혔다. &lt;br /&gt;&lt;br /&gt;이 차장은 9일 오전 경기도 과천 공수처에서 열린 비상계엄 관련 사건 이첩 요구 언론 브리핑에서 "공수처는 고위공직자  권력형 비리 등 부패 범죄 척결을 위해 설립됐고, 특히 공수처는 누구에게도 수사 보고하거나 지휘 받지 않는 독립 수사기관"이라고 밝혔다.&lt;br /&gt;&lt;br /&gt;그러면서 "국가 중대 사건에 대해 지위고하 막론하고 엄정수사를 진행할 것"이라며 "공수처는 공수처법에 근거해 검찰과 경찰에 사건을 이첩 요청했다"고 말했다.&lt;br /&gt;&lt;br /&gt;공수처법 제24조 제1항에 따르면 공수처의 범죄수사와 중복되는 다른 수사기관의 범죄수사에 대해 처장이 수사의 진행 정도 및 공정성 논란 등에 비추어 공수처가 수사하는 것이 적절하다고 판단해 이첩을 요청하는 경우, 해당 수사기관은 이에 응하여야 한다고 규정하고 있다.&lt;br /&gt;&lt;br /&gt;이 차장은 "비상계엄 직후 공수처 인력 전원을 가동해 수사에 착수했다"며  "공수처는 본건 수사 초기인 점, 검찰과 경찰은 공정성 논란 있는 점 들어 이첩 요청권 행사했다"고 설명했다. &lt;br /&gt;&lt;br /&gt;이어 "사건을 이첩 받으면 오로지 국민만 바라보고 법과 원칙에 따라 철저히 진상규명하겠다"고 덧붙였다. &lt;br /&gt;</description>
+			<pubDate>Mon, 09 Dec 2024 03:39:32 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/203601</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/203601</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/203601.jpg</media:thumbnail>
+			<dc:creator>우빈 기자</dc:creator>
+		</item>
+		<item>
 			<title>【오늘의 국회일정】 2024년 12월 9일</title>
 			<description>&lt;b&gt;◇ 국회의장&lt;/b&gt;&lt;br /&gt;09:00 국회의장 주재 기관장 업무보고(국회접견실)&lt;br /&gt;&lt;br /&gt;14:00 CBS 창사 70주년 기념 리셉션(여의도 전경련회관 그랜드볼룸)&lt;br /&gt;&lt;br /&gt;16:00 민주단체 50주년 합동 기념식(명동성당)&lt;br /&gt;&lt;br /&gt;&lt;b&gt;&lt;br /&gt;◇ 상임위원회&lt;/b&gt;&lt;br /&gt;09:00 과학기술정보방송통신위원회 법안심사소위원회(본관 628호)&lt;br /&gt;&lt;br /&gt;10:00 정무위원회 전체회의(본관 604호)&lt;br /&gt;&lt;br /&gt;10:00 법제사법위원회 법안심사제1소위원회(본관 406호)&lt;br /&gt;&lt;br /&gt;10:00 산업통상자원중소벤처기업위원회 산업특허소위원회(본관 534호)&lt;br /&gt;&lt;br /&gt;10:30 과학기술정보방송통신위원회 전체회의(본관 627호) &lt;br /&gt;&lt;br /&gt;14:00 교육위원회 전체회의(본관 522호)&lt;br /&gt;&lt;br /&gt;14:00 법제사법위원회 전체회의(본관 406호)&lt;br /&gt;&lt;br /&gt;14:00 환경노동위원회 전체회의(본관 622호)&lt;br /&gt;&lt;br /&gt;&lt;b&gt;&lt;br /&gt;◇ 의원실 세미나&lt;/b&gt;&lt;br /&gt;10:00 김동아 의원실 등, 1인 중증장애인기업 업무지원제도 활성화를 위한 정책 토론회&lt;br /&gt;&lt;br /&gt;10:00 김남희 의원실, 국립치의학연구원의 설립과 발전방안을 위한 국회 공청회(의원회관 제7간담회의실)&lt;br /&gt;&lt;br /&gt;10:00 강선우 의원실 등, 아동학대 근절을 위한 아동사망검토제도 입법토론회(켄싱턴호텔 여의도 그랜드스테이션)&lt;br /&gt;&lt;br /&gt;14:00 안상훈 의원실, 무분별한 의료쇼핑, 이대로 괜찮은가?(의원회관 제2세미나실)&lt;br /&gt;&lt;br /&gt;14:00 김동아 의원실 등, 천연가스 수급 안정화 방안 정책토론회(의원회관 제1세미나실)&lt;br /&gt;&lt;br /&gt;&lt;b&gt;&lt;br /&gt;◇ 소통관 기자회견&lt;/b&gt;&lt;br /&gt;10:00 이정문 의원, [국회 정무위원회 현안 관련 긴급 기자회견]&lt;br /&gt;&lt;br /&gt;11:00 성소미 공보기획관, [12월 2주차 국회 정례브리핑]&lt;br /&gt;&lt;br /&gt;13:20 장경태 의원, [정치 현안 관련 기자회견]&lt;br /&gt;&lt;br /&gt;14:20 강준현 의원, [현안 관련 기자회견]&lt;br /&gt;&lt;b&gt;&lt;br /&gt;&lt;br /&gt;&lt;span style="font-size: 14px;"&gt;※ 상기 일정은 사정에 따라 변경될 수 있습니다.&lt;/span&gt;&lt;/b&gt;</description>
 			<pubDate>Mon, 09 Dec 2024 01:26:43 -0000</pubDate>
@@ -230,16 +240,6 @@
 			<link>https://www.lawtimes.co.kr/news/203559</link>
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/203559</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/203559.jpg</media:thumbnail>
-			<dc:creator>박수연 기자</dc:creator>
-		</item>
-		<item>
-			<title>조건부 정기상여 통상 임금일까… 대법 전원합의체 선고 임박</title>
-			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/thumb/180/203529.jpg" alt="203529.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;조건부 정기상여금이 통상임금에 포함되는지를 다룬 대법원 전원합의체(전합) 사건의 선고가 임박한 것으로 알려졌다. 판결 결과에 따라 기업의 부담이 크게 달라지는 만큼, 재계도 관심을 집중하고 있다. 19일 예정된 전원합의체 선고에 이 사건도 포함될지 주목된다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;현재 대법원 전원합의체에는 △특정 시점에 재직 중인 근로자에게만 지급하는 정기상여금이 통상임금에 해당하는지에 대한 세아베스틸·한화생명보험 사건과 △'기준기간 내 15일 미만 근무한 경우'에 정기상여금 지급대상에서 제외한다는 특정 지급 조건을 둔 정기상여금이 통상임금에 해당하는지에 대한 현대차 사건 등이 계류돼 있다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;2013년의 대법원 전합은 자동차 부품업체인 갑을오토텍 판결에서 정기상여금을 통상임금으로 인정하면서도 재직조건부 상여금은 통상임금이 아니라고 판시했다. 재직 중이 아니어서 지급하지 않는 수당은 ‘고정성’이 없어 통상임금이 아니라는 취지의 판단이었다(2012다89399, 2012다34643).&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;당시 전합은 “재직자 조건으로 지급되는 임금은 소정근로의 대가로 볼 수 없을 뿐만 아니라, 특정 시점 재직이 지급조건이 되므로 그 근로자가 초과근로를 제공하는 시점에 상여금 등을 받을 수 있는 조건에 해당하는지가 불확실하므로 통상임금의 요건인 ‘고정성’을 갖추지 못했다”고 판시했다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;선고 후 파장은 컸고 통상임금을 둘러싼 노사 간 소송이 급증했다. 선고 약 3년 후 전국경제인연합회가 통상임금 관련 소송이 진행되고 있는 25개 기업(종업원 500인 이상)을 대상으로 설문조사를 실시한 결과, 해당 기업들에 제기된 통상임금 관련 소송 86건 중 47건이 법원 전원합의체 판결 이후 제기된 것으로 나타났다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;그러나 최근에 10년 전 전합 판단과 달리 “정기상여금을 재직자에게만 지급한다는 조건이 있더라도 이를 통상임금으로 인정해야 한다”는 하급심 판결이 잇따르면서 다시 선고될 전합 판단에 재계의 이목이 쏠렸다. 한국경영자총협회(경총)는 재직자에게만 주는 조건부 정기상여금이 통상임금에 산입될 경우 기업들에 6조8000억 원의 추가 비용이 발생할 것이라고 주장했다. 경총이 지난달 발표한 ‘재직자 조건부 정기상여금의 통상임금 산입 시 경제적 비용과 파급효과’ 보고서에 따르면 통상임금 산입 여부에 영향을 받는 기업은 전체 기업의 26.7%에 달했다.&amp;nbsp;&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;재계에선 전합으로 회부돼 5년여 동안 심리가 이어진 사건인 만큼, 조희대 코트에서 노동사건에 대한 대법관들의 판단이 어떻게 나올지 주목하고 있다.&lt;/p&gt;</description>
-			<pubDate>Fri, 06 Dec 2024 20:05:56 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/203529</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/203529</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/203529.jpg</media:thumbnail>
 			<dc:creator>박수연 기자</dc:creator>
 		</item>
 	</channel>
