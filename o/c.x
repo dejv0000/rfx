@@ -13,6 +13,72 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>검찰, ‘굴비 선물’ 前 청와대 행정관에 벌금 500만원 구형</title>
+      <link>https://www.chosun.com/national/national_general/2024/12/09/SYS6KJJOEVDFXH2XHFZDRNOUF4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/09/SYS6KJJOEVDFXH2XHFZDRNOUF4/</guid>
+      <dc:creator>구동완 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 09 Dec 2024 10:09:09 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/76WNF4GPPBGI7KTDDMNO3WQX3A.jpeg"&gt;&lt;figcaption&gt;&lt;small&gt;서울서부지검. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 4・10 총선의 지역구 후보가 되기 위해 지역구민 11명에게 굴비 세트를 선물한 혐의를 받는 전 청와대 행정관에게 검찰이 벌금형을 구형했다.&lt;br&gt;&lt;br&gt;검찰은 9일 서울서부지법 형사합의11부(재판장 배성중) 심리로 열린 김모 전 청와대 행정관에 대한 공직선거법 위반 혐의 결심 공판에서 벌금 500만원을 구형했다. 검찰에 따르면 제22대 국회의원 선거(총선)를 앞둔 김 전 행정관은 마포구갑 선거구 후보자가 되려고 2022년 8월 선거구민 11명에게 7만5000원 상당의 영광굴비 세트를 제공한 혐의를 받는다.&lt;br&gt;&lt;br&gt;이날 김 전 행정관 측은 공직선거법 위반을 인정하면서도 “2022년은 국회의원 선거 기간이 아니라 추석 선물을 보내게 된 것”이라며 선처를 호소했다. 공직선거법에 따라 벌금 100만 원 이상의 형을 받으면 5년간 피선거권이 박탈된다. 김 전 행정관은 2016년 문재인 당시 대표의 영입인재로 정치에 입문했으며 친(親)이재명계 인사로 알려져있다.&lt;br&gt;&lt;br&gt;앞서 마포구 선거관리위원회는 지난 총선을 앞두고 김 전 행정관이 선거구민들을 상대로 기부 행위를 했다며 검찰에 고발했다. 김 전 행정관에 대한 선고 공판은 오는 1월 24일에 열린다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>전국법관대표회의 “법원장 추천제 폐지 신중해야…비상계엄 엄중히 지켜봐”</title>
+      <link>https://www.chosun.com/national/court_law/2024/12/09/LEG3DK7HBZDVPLCXBBJHSRH3EU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/09/LEG3DK7HBZDVPLCXBBJHSRH3EU/</guid>
+      <dc:creator>박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 09 Dec 2024 09:30:14 +0000</pubDate>
+      <content:encoded>전국 판사들의 회의체인 전국법관대표회의가 9일 사법연수원에서 정기회의를 열고 각 법원 판사들이 투표로 법원장 후보를 뽑는 ‘법원장 추천제’ 폐지에 신중해야 한다고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KQYDROZB55N2HNEL66XF33HYHU.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;9일 오전 경기 고양시 일산동구 사법연수원에서 열린 전국법관 하반기 정기회의에서 참석자들이 회의 준비를 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2019년 김명수 전 대법원장이 도입한 법원장 후보 추천제는 각 지방법원 판사들이 소속 부장판사 중 투표로 법원장 후보를 선출하는 것인데, 뽑힌 법원장이 뽑아준 법관들의 눈치를 보느라 ‘인기투표’로 전락했다는 비판이 이어졌다.&lt;br&gt;&lt;br&gt;이에 조희대 대법원장은 2025년부터 법원별 투표를 없애고 전체 법원장 후보자를 추천받겠다고 했다. 또 반드시 지방법원 부장판사 중에서 지방법원장을 임명하는 것이 아니라, 고법 부장판사도 지방법원장으로 뽑겠다고 밝혔다.&lt;br&gt;&lt;br&gt;그러나 법관대표회의는 이날 “법원장은 각 법원 소속 법관 중에서 보임돼야 하며, 고법 부장판사가 지방법원장으로 보임되는 일을 최소화해야 한다”며 대법원에 반박했다. 또 법원장 후보자로 천거된 이들의 명단을 투명히 공개하라고 촉구했다.&lt;br&gt;&lt;br&gt;아울러 법관대표회의는 재판 지연을 해소하기 위해 ‘온라인 재판’을 도입하고, 형사법정의 검사와 피고인(변호인)이 모두 법관을 보고 앉을 수 있도록 좌석 배치를 바꿔야 한다는 안건도 의결했다.&lt;br&gt;&lt;br&gt;이밖에 법원이 피의자에게 구속영장을 발부하는 과정에서 일정한 조건을 붙여 풀어주는 ‘조건부 석방제’를 도입하고, 압수수색 영장 집행 후 사후 감독을 강화하는 등 영장제도 전반의 개선이 필요하다고 했다.&lt;br&gt;&lt;br&gt;한편 비상계엄 사태와 관련해 법관대표회의 의장을 맡은 서울동부지법 김예영 부장판사는 “법관으로서 헌정 질서를 수호하는 것은 당연히 해야 할 임무”라며 “모든 법관들은 사태를 엄중히 지켜보고 있다”고 했다.&lt;br&gt;&lt;br&gt;이날 회의에 참석한 법원행정처 황인성 기획총괄심의관은 지난 3일 비상계엄 선포 직후 진행된 행정처 긴급 간부 회의에 대해 “비상계엄 선포가 적법하다는 것을 전제로 검토한 것이 아니라, 당장 재판을 어떻게 해야 하는지 긴급하게 대응하기 위함이었다”고 밝혔다.&lt;br&gt;&lt;br&gt;또 “대법원에 전시 상태 매뉴얼은 있었으나 비상계엄 대응 매뉴얼은 존재하지 않았다”며 “이번 사태를 계기로 계엄 상황에 대한 매뉴얼이 필요하다고 인식했고, 재발하는 경우 체계적으로 대응할 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>법원행정처장 “검·경·공수처 서로 수사권 주장, 비정상적” </title>
+      <link>https://www.chosun.com/national/court_law/2024/12/09/WBKISSFVHVDJLOWAN4M5RRUIY4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/09/WBKISSFVHVDJLOWAN4M5RRUIY4/</guid>
+      <dc:creator>박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 09 Dec 2024 09:50:44 +0000</pubDate>
+      <content:encoded>천대엽 법원행정처장은 검찰·경찰·고위공직자범죄수사처(공수처)가 비상계엄 사태에 대한 수사권을 주장하는 상황에 대해 “비정상적”이라고 비판했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ONFID6KHSN4P7HO7OZY52ZBB3M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;천대엽 법원행정처장이 서울 여의도 국회 법제사법위원회에서 열린 대법원(법원행정처)·사법연수원 등에 대한 국정감사에서 의원 질의에 답하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;천 처장은 9일 국회 법제사법위원회 전체회의에서 “군검찰을 포함해 검찰, 경찰, 공수처가 서로 수사권을 주장하는 비정상적 상황에 대해 굉장히 안타깝게 생각한다”고 밝혔다.&lt;br&gt;&lt;br&gt;앞서 법원은 경찰이 신청한 박안수 육군참모총장과 여인형 전 국군방첩사령관 등 비상계엄 사태의 핵심인물 4인에 대한 통신영장을 기각했다. 법원은 “각 수사시관이 사전 협의를 거쳐 중복되지 않도록 조치하라”고 지적했다.&lt;br&gt;&lt;br&gt;천 처장은 수사기관의 중복 영장 청구와 관련해 “수사에 그치는 게 아니라 종국적으로는 공소제기 절차의 적법성이나 증거능력 문제로 이어지기 때문에 사법부로서 아주 중요한 문제로 생각하고 있다”며 “어느 기관에서 수사할 수 있도록 인정할 것인지, 그에 따라 영장을 발부할 것인지 굉장히 중요한 재판 사항”이라고 했다.&lt;br&gt;&lt;br&gt;천 처장은 비상계엄 사태와 관련해 “검찰의 수사권 보유 여부는 검찰청법 해석상 내부적으로도 논란이 있다”면서도 “경찰이 (이 사건에) 수사권을 가지고 있다는 점은 의문의 여지가 없다”고 했다.&lt;br&gt;&lt;br&gt;이어 “세 수사 기관에서 동시에 수사권 관할 경쟁을 벌이다 보니 재판 절차의 적법성이나 증거 능력의 적법성으로 바로 직결되는 문제”라며 “형사재판을 맡고 있는 법관들이 굉장히 신중하고 무겁게 이 사건을 보고 있다”고 했다.&lt;br&gt;&lt;br&gt;천 처장은 조국혁신당 박은정 의원의 ‘만약 윤 대통령이 체포되면 헌법 71조의 궐위나 사고 상황에 해당하지 않느냐’는 질문에 “충분히 일리 있는 말씀”이라고 답하면서도, 자세한 해석에 대해서는 말을 아꼈다.&lt;br&gt;&lt;br&gt;검찰은 지난 6일 비상계엄 특별수사본부를 꾸렸고, 경찰은 전담 수사팀을 구성해 비상계엄 사태를 수사 중이다. 공수처가 지난 8일 두 기관에 이 사건에 대한 이첩 요구권을 발동했지만, 검찰과 경찰은 각자 수사를 이어가고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>檢, ‘친인척 부당대출’ 손태승 前 우리금융지주 회장에 구속영장 재청구</title>
+      <link>https://www.chosun.com/national/national_general/2024/12/09/J36SHEE6A5CTPAJEN4PXDMCEMI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/09/J36SHEE6A5CTPAJEN4PXDMCEMI/</guid>
+      <dc:creator>박정훈 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 09 Dec 2024 08:41:17 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KZ5TB4UUHXGVCDFY37CXKCMSJM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;'친인척 관련 부당대출 의혹'을 받는 손태승 전 우리금융지주 회장이 지난달 26일 오후 서울 양천구 남부지법에서 열린 구속 전 피의자 심문(영장실질심사)에 출석하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰이 친인척에 대한 불법 대출 혐의를 받는 손태승 전 우리금융지주 회장에 대해 9일 구속영장을 재청구했다.&lt;br&gt;&lt;br&gt;서울남부지검 금융조사제1부(부장 김수홍)는 우리은행 불법대출 사건과 관련해 이날 특정경제범죄가중처벌 등에 관한 법률 위반(배임) 혐의로 손 전 회장에 대한 구속영장을 재청구했다고 밝혔다.&lt;br&gt;&lt;br&gt;앞서 검찰은 지난달 22일 손 전 회장에 대한 구속영장을 청구했지만 같은달 26일 법원에서 영장이 기각된 바 있다. 검찰 관계자는 “영장이 기각된 후 보완수사를 진행해 영장을 재청구하게 됐다”고 했다.&lt;br&gt;&lt;br&gt;손 전 회장에 대한 두 번째 구속 전 피의자 심문(영장실질심사)은 오는 12일 오후 2시 서울남부지법 한정석 영장전담 부장판사 심리로 진행된다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>경찰, 이상민 전 장관·여인형 방첩사·이진우 수방사 소환통보</title>
+      <link>https://www.chosun.com/national/national_general/2024/12/09/TAJA26I25ZGZ3IX5R7DXGHL5DQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/09/TAJA26I25ZGZ3IX5R7DXGHL5DQ/</guid>
+      <dc:creator>구아모 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 09 Dec 2024 08:57:36 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XG7ZKQNZVVMAHJWHYZMQGRFDYA.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;우종수 경찰 국가수사본부(국수본) 특별수사단장이 9일 12·3 계엄 사태 수사 상황 첫 브리핑을 했다. 사진은 이날 서울 서대문구 경찰청 국수본의 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰청 국가수사본부 특별수사단이 9일 이상민 전 행정안전부 장관, 여인형 방첩사령관, 이진우 수도방위사령관에 소환 통보를 했다. 수사단 관계자는 이날 “피의자들에게 국수본 출석을 통보하고 소환날짜를 조율하고 있다”고 했다. 특별수사단은 소환 조사를 진행하며 피의자들에게 임의 제출 등 방식으로 휴대 전화 등을 확보할 방침이다.&lt;br&gt;&lt;br&gt;현재까지 국수본에 접수된 피고발인은 윤석열 대통령, 김용현 전 국방부 장관, 이 전 장관, 박안수 육군참모총장, 여인형 전 방첩사령관, 이진우 전 수방사령관, 곽정근 육군특전사령관, 조지호 경찰청장, 김봉식 서울경찰청장, 목현태 국회경비대장, 추경호 국민의힘 원내대표, 한덕수 국무총리, 조태용 국정원장 13명이다. 국수본은 이날 오전 언론 브리핑에서 “국무위원들에 대해 비상계엄 당시 정황을 파악하기 위해 참고인 조사도 진행할 방침”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘억대 뒷돈 혐의’ 전직 한국자산신탁 임직원 3명 구속기소</title>
+      <link>https://www.chosun.com/national/court_law/2024/12/09/U5NEXKRHRRHX3OXHRW7YCDONKA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/09/U5NEXKRHRRHX3OXHRW7YCDONKA/</guid>
+      <dc:creator>유종헌 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 09 Dec 2024 09:07:44 +0000</pubDate>
+      <content:encoded>분양대행업체로부터 계약 유지 대가로 억대 금품을 받은 한국자산신탁 전직 임직원들이 구속 상태로 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WYOIMZKD34RWQHYAKQHU4EBHUA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 서울중앙지검 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지검 반부패수사3부(부장 이승학)는 9일 한국자산신탁 전직 전무 백모씨 등 전직 임직원 3명을 특정경제범죄가중처벌법상 수재 등 혐의로 구속 기소했다고 밝혔다. 이들에게 금품을 건넨 분양대행업체 대표 김모씨는 증재 혐의로 불구속 기소됐다.&lt;br&gt;&lt;br&gt;백씨 등은 2020∼2023년 분양대행업체로부터 계약을 유지하고 일감을 주는 대가로 수천만원에서 억대 금품을 수수한 혐의를 받는다. 이들이 받은 금품 합계는 3억2000만원인 것으로 조사됐다.&lt;br&gt;&lt;br&gt;검찰은 “죄에 상응하는 처벌이 이루어질 수 있도록 공소유지에 만전을 다하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;검찰은 지난 5월 금융감독원의 수사 의뢰를 바탕으로 이번 사건 수사에 착수했다. 한국자산신탁 전현직 직원들이 본인 소유 법인을 통해 시행사에 토지매입자금 등으로 25억원 상당을 대여 및 알선하고 이자 명목으로 7억원 상당을 받아냈다는 것이 당시 금감원 조사 결과였다.&lt;br&gt;&lt;br&gt;검찰은 지난달 18일 백씨 등에 대해 구속영장을 청구했고, 법원은 같은달 21일 이를 발부했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>경찰청장 “방첩사령관, 이재명 등 위치추적 요청… 한동훈은 나중에 추가”</title>
+      <link>https://www.chosun.com/national/2024/12/09/NDYBO6AP5VALHGSX7XBHAQO27Y/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2024/12/09/NDYBO6AP5VALHGSX7XBHAQO27Y/</guid>
+      <dc:creator>주형식 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 09 Dec 2024 08:22:49 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WTJ7DINKVBLWLLNWGM4YOG2RUA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;조지호 경찰청장이 9일 오후 서울 여의도 국회에서 열린 법제사법위원회 전체회의에서 의원들의 질의에 답변하고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;조지호 경찰청장은 지난 3일 비상계엄 사태 당시 여인형 방첩사령관이 전화해 더불어민주당 이재명 대표, 국민의힘 한동훈 대표 등 주요 정치인에 대한 위치 추적을 요청했다고 밝혔다. 여 사령관이 불러준 위치추적 명단에는 민주당 정청래 의원, 김명수 전 대법원장, 권순일 전 대법관 등이 포함됐다고 한다. 다만 조 청장은 여 사령관의 위치추적 요청에는 응하지 않았다고 주장했다. 그는 “위치추적 자체가 불법이고, 위치추적을 하려면 법원에서 발부한 영장이 있어야 하는데 없어 (경찰이) 할 수 있는 것도 아니었다”고 말했다.&lt;br&gt;&lt;br&gt;조 청장은 9일 국회 법제사법위원회에서 ‘방첩사령관이 위치 추적을 요청한 사람이 누구냐’는 더불어민주당 전현희 의원의 질문에 이같이 답했다. 조 청장은 윤석열 대통령이 계엄령을 선포한 직후인 3일 밤 10시 30분∼40분쯤 여 사령관으로부터 전화를 받았다고 한다.&lt;br&gt;&lt;br&gt;조 청장은 “국민의힘 한동훈 대표는 처음에 불러준 명단에 없었고, 그 뒤에 다시 전화가 와서 한명 추가라고 해서 (명단에) 들어간 것”이라고 덧붙였다. 조 청장은 “’이 사람 왜 들어갔지’ 했던 게 김명수 전 대법원장, 권순일 전 대법관 정도였다”고 말했다. 이어 “그때 제가 (위치추적 명단을) 적었는데 일일이 기억을 소환하라고 하면 15명 명단을 사진 찍듯이 말씀드리기는 어렵다”며 경찰에게 체포해달라는 요청이 아니라 체포를 위한 위치추적을 해달라는 것이었다고 밝혔다.&lt;br&gt;&lt;br&gt;경찰청 국가수사본부 특별수사단은 비상계엄 사태 당일 국회 전면 출입 통제를 지시한 조 청장을 입건해 수사하고 있다. 이와 관련해 조 청장은 “수사가 진행되고 나서 국수본부장, 관련 국장 이하는 저한테 보고하지 말라고 지시했다”며 “원래 경찰청장은 개별 사건에 대해 구체적 지휘를 못 하도록 법률이 규정하고 있다. 수사에 성실하게 임하겠다”고 했다. 조 청장은 당시 통제 지시에 대해서는 “아쉬움이 많이 있다”며 “자리에 연연할 생각도 없다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/CGO6BUJ6MMAM2EMPW6QW6UTOKM.jpg?width=720&amp;height=459&amp;auth=fbbf2b89a21a5b01c247ccead1c5e332fc980ce3b30bb00bcb90b9181edcd4c9&amp;smart=true" type="image/jpeg" height="459" width="720">
+        <media:description type="plain">국회 법사위 출석한 조지호 경찰청장</media:description>
+      </media:content>
+    </item>
+    <item>
       <title>검찰 특수본, 전하규 국방부 대변인 참고인 소환</title>
       <link>https://www.chosun.com/national/court_law/2024/12/09/MNZ6MJ5P2FHSVPC5XVV2IAYE54/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/09/MNZ6MJ5P2FHSVPC5XVV2IAYE54/</guid>
@@ -812,15 +878,6 @@
       <content:encoded>고위공직자범죄수사처(공수처)는 오동운 공수처장이 윤석열 대통령의 ‘비상계엄 선포’ 사건과 관련해 이첩요청권을 발동했다고 8일 밝혔다. 검찰 비상계엄 특별수사본부(본부장 박세현 서울고검장)는 8일 김용현 전 국방장관을 조사한 뒤 긴급체포해 신병을 확보했고, 경찰 특별수사단은 이날 김 전 장관의 국방장관 공관과 집무실, 자택 등에 대한 압수 수색을 집행했는데, 돌연 공수처가 이첩을 요청한 것이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2CZQ7TXRZFNVVD4QBCPHTGH3KA.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;오동운 고위공직자범죄수사처장./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;현행 공수처법은 공수처의 범죄 수사와 중복되는 다른 수사기관의 범죄 수사에 대해, 수사의 진행 정도 및 공정성 논란 등에 비춰 공수처가 수사하는 게 적절하다고 판단할 경우 이첩을 요구할 수 있다. 해당 조항은 공수처가 이첩을 요구할 경우 요청을 받은 수사기관은 이에 응하도록 하고 있다. 지난 3일 윤 대통령이 비상계엄령을 선포한 직후부터 처장 직속 태스크포스를 구성해 법리 검토와 강제수사 착수 여부 등을 검토해왔다는 것이 공수처 설명이다.&lt;br&gt;&lt;br&gt;공수처는 지난 6일 김용현 전 국방장관 등 주요 피의자에 대한 영장을 법원에 청구했다고도 밝혔다. 법원은 그러나 김 전 장관에 대한 내란·직권남용 혐의와 관련해 ‘동일 또는 유사한 내용의 영장의 중복 청구’ 등을 이유로 기각했다는 것이다. 공수처 관계자는 “법원은 영장을 기각하면서도 공수처에 수사권이 있음을 인정했다”며 “중복수사 우려를 해소하고 수사의 신속성, 공정성 확보 등을 위해 이첩요청권을 행사한 것”이라고 설명했다.&lt;br&gt;&lt;br&gt;법조계에선 공수처의 인력 부족 등 문제가 해결되지 않은 상황에서 무리하게 이첩요청권을 행사했다는 지적이 나온다. 이날 기준 공수처 소속 검사는 15명, 수사관은 36명으로 모두 51명이다. 반면 검찰 특수본은 검사 20명과 수사관 30명, 군검찰 인력 12명 등 62명으로 구성돼 있다. 경찰은 특별수사단 인력을 이날 120여 명에서 150여 명으로 늘린 상황이다. 공수처 관계자는 “대검찰청, 경찰청 등 수사기관의 장에게 인력 파견 등 지원을 요청하는 것을 검토 중”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>이상민 행안부 장관 사퇴... “책임 엄중하게 인식”</title>
-      <link>https://www.chosun.com/national/national_general/2024/12/08/7GVMMYF4M5F4HCIDLPKTPLN364/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/08/7GVMMYF4M5F4HCIDLPKTPLN364/</guid>
-      <dc:creator>박진성 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 08 Dec 2024 06:24:48 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SSLMMT4FZ6NZXTAWDA3NBXUE7E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이상민 행정안전부 장관. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이상민 행정안전부 장관이 사퇴했다.&lt;br&gt;&lt;br&gt;행정안전부는 8일 이상민 장관이 사의를 표명했고 윤석열 대통령이 이를 수용했다고 밝혔다.&lt;br&gt;&lt;br&gt;이 장관은 입장문을 통해 “국민 여러분을 편하게 모시지 못하고 대통령을 잘 보좌하지 못한 책임감을 엄중하게 인식하고 국민들께 송구한 마음”이라고 했다.&lt;br&gt;&lt;br&gt;또 이 장관은 “이제 행정안전부 장관직을 내려놓고자 한다”며 “더 이상 국정의 공백과 혼란이 생겨서는 안 된다고 생각한다”고 했다.&lt;br&gt;&lt;br&gt;이어 이 장관은 “이제 한 사람의 평범한 국민으로 돌아가 자유 대한민국의 새로운 도약에 힘을 보태겠다”고 했다.&lt;br&gt;&lt;br&gt;앞서 민주당은 7일 이 장관에 대한 탄핵소추안을 발의했다. 10일 국회 표결이 예정돼 있었다.&lt;br&gt;&lt;br&gt;이는 ‘핼러윈 참사’ 이후 이 장관을 향한 두 번째 탄핵 추진이었다. 작년 2월 야당은 참사 책임을 물으며 탄핵안을 가결했다. 직무가 정지됐던 이 장관은 5개월 후인 작년 7월 헌법재판소가 탄핵 심판 청구를 기각해 업무에 복귀했다.&lt;br&gt;&lt;br&gt;2022년 5월 취임한 이 장관은 윤 정부에서 가장 오래 재임한 장관이다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>JYP 걸그룹 ‘비춰’ 美멤버 탈퇴 선언... “스태프들이 부당한 대우”</title>
       <link>https://www.chosun.com/national/national_general/2024/12/08/WP2ESY54ABECLD6H5UHKNMRAIU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/08/WP2ESY54ABECLD6H5UHKNMRAIU/</guid>
@@ -879,51 +936,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BXNBFZRZ3VFAIEGQRTVH2IGSKE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김용현 전 국방부 장관이 지난 11월 28일 오전 서울 여의도 국회에서 열린 국방위원회 전체회의에서 의원 질의에 답변하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰청 국가수사본부 안보수사국 비상계엄 관련 고발사건 전담수사팀은 김용현 전 국방부 장관에 대해 통신영장을 발부받아 통화 내역을 확보중이라고 8일 밝혔다. 국수본 관계자는 “7일 저녁 김 전 장관에 대한 통신 영장을 발부받아 통화 내역을 파악하고 있다”고 했다.&lt;br&gt;&lt;br&gt;수사팀은 이날 김 전 장관의 공관, 국방부 장관 집무실, 자택 등을 압수수색했다고 밝혔다. 검찰이 이날 새벽 김 전 장관을 긴급체포하고 휴대전화를 압수한 가운데, 경찰에서도 혐의 입증을 위한 자료 확보에 속도를 내는 것으로 보인다. 김 전 장관은 오전 1시 30분쯤 서울중앙지검에 자진 출석해 조사받은 뒤 긴급체포돼 서울 동부구치소로 이송됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>‘KBS 이사 선임 집행정지 재판부 바꿔달라’…고법도 기각</title>
-      <link>https://www.chosun.com/national/court_law/2024/12/08/YGFIN6HBR5AIPCLUQ2C2HE7J34/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/08/YGFIN6HBR5AIPCLUQ2C2HE7J34/</guid>
-      <dc:creator>박혜연 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 08 Dec 2024 04:29:34 +0000</pubDate>
-      <content:encoded>KBS 현직 이사들이 제기한 ‘신임 이사진 임명 처분 효력 집행정지’ 사건 심문을 앞두고 방송통신위원회가 재판부를 변경해달라며 낸 기피 신청이 재차 기각됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HPFM5ZSX7JHYXNNOV4LRDUNJ2M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 여의도 KBS (한국방송공사) 사옥. /조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;8일 법조계에 따르면, 서울고법 행정9-2부(재판장 김승주)는 지난 5일 방통위가 낸 재판부 기피신청 항고심에서 1심과 마찬가지로 기각 결정을 내렸다.&lt;br&gt;&lt;br&gt;방통위 측이 재항고 한다면, 대법원이 이를 판단하게 된다. 재항고에서도 이 결정이 확정되는 경우, 당초 사건을 배당받은 서울행정법원 행정12부(재판장 강재원)가 재판부 변경 없이 계속 심리하게 된다.&lt;br&gt;&lt;br&gt;방통위는 지난 8월 29일 “이 사건을 담당한 행정12부가 앞서 MBC 대주주인 방송문화진흥회 신임 이사의 선임을 막은 재판부여서 공정한 재판을 기대할 수 없다”며 재판부 기피 신청을 냈다.&lt;br&gt;&lt;br&gt;행정12부는 권태선 방문진 이사장 등 기존 이사들이 “2인 체제 방통위가 신임 이사 6명을 선임한 것은 무효”라며 낸 집행정지 신청을 받아준 바 있다.&lt;br&gt;&lt;br&gt;이후 문재인 정부에서 임명된 야권 성향 이사 5명이 방통위의 KBS 새 이사 추천과 대통령의 임명안 재가가 무효라며 집행정지 신청을 냈는데, 이 사건이 또 행정12부에 배당됐다. 서울행정법원은 “전산 시스템으로 무작위 배당했을 뿐”이라고 설명했다.&lt;br&gt;&lt;br&gt;재판부 기피 신청의 1심을 맡은 서울행정법원 행정14부(송각엽 부장판사)는 지난 9월 12일 신청을 기각했고, 방통위가 항고했다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>길 문제로 다투다 택시기사 폭행해 다치게 한 30대 집유</title>
-      <link>https://www.chosun.com/national/regional/2024/12/08/YWUDEBZLNZFUJAFE4IPH75UZMA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/12/08/YWUDEBZLNZFUJAFE4IPH75UZMA/</guid>
-      <dc:creator>울산=김주영 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 08 Dec 2024 03:29:21 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KNRAE2CTG775ASD46BRTJ6W7QA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;울산지법 전경. /조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;목적지까지 어느 길로 갈 것인지 다투다가 택시 운전기사를 폭행해 다치게 한 30대에게 징역형의 집행유예가 선고됐다.&lt;br&gt;&lt;br&gt;울산지법 형사11부(재판장 이대로)는 특정범죄 가중처벌 등에 관한 법률 위반 혐의로 재판에 넘겨진 A씨에게 징역 1년 6개월에 집행유예 2년을 선고했다고 8일 밝혔다.&lt;br&gt;&lt;br&gt;재판부는 “운전석에 앉아 있는 피해자를 폭행한 행위는 보행자나 다른 운전자의 안전까지 위협할 수 있다”며 “다만 차량이 정차한 상태에서 범행해 중대한 사고가 발생하지는 않은 점, 피해자를 위해 500만원을 공탁한 점 등을 참작했다”고 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 4월 저녁 경남 양산시 한 도로에서 60대 택시 운전기사 B씨를 폭행해 전치 3주의 상처를 입힌 혐의로 기소됐다.&lt;br&gt;&lt;br&gt;A씨는 사고 당일 B씨가 운전하는 택시 조수석에 탄 후 목적지로 가는 경로를 두고 B씨와 말다툼을 벌였다. 이어 B씨가 정차하자, A씨는 택시에서 내린 후 운전석 문을 열고 B씨 얼굴과 눈 주위를 주먹으로 여러 차례 때려 다치게 했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>경북도개발공사, 공기업 최초로 공무직 정년 65세로 연장 </title>
-      <link>https://www.chosun.com/national/national_general/2024/12/08/TPEYESJ5KBA3ZBVW3TLI2SNT4M/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/08/TPEYESJ5KBA3ZBVW3TLI2SNT4M/</guid>
-      <dc:creator>이승규 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 08 Dec 2024 03:35:35 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MXN6L5IDSQ42SKLSQGODUYXXWQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경북도개발공사 전경. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경북도개발공사가 공무직 노동자 정년을 기존 60세에서 65세로 연장한다고 8일 밝혔다. 공기업 중에서 정년 연장을 확정한 첫 사례다.&lt;br&gt;&lt;br&gt;경북도개발공사의 공무직 정년 연장 조치는 지난 10월 21일 행정안전부가 소속 공무직 근로자들의 정년을 65세로 늘린 정책에 발맞춘 것이다. 지난 6일 국가인권위원회도 법정 정년을 현행 60세에서 65세로 올리는 방안을 국무총리에게 권고하는 ‘고용상 연령차별금지 및 고령자 고용촉진에 관한 법률상 법정 정년 연장 관련 제도개선 권고안’을 의결했다고 밝혔다.&lt;br&gt;&lt;br&gt;공사 관계자는 “고령 근로자들이 경력과 직무 전문성을 지속적으로 활용할 수 있도록 돕고 안정적인 고용환경을 마련하기 위함”이라고 했다.&lt;br&gt;&lt;br&gt;이와 별도로 경북도개발공사 측은 공무직 근로자들의 경력 개발과 복지 향상을 위한 프로그램도 향후 추진할 방침이다. 경북도개발공사 공무직 근로자는 시설관리·고객상담·비서직군 등 다양한 분야로 구성돼 있다.&lt;br&gt;&lt;br&gt;이재혁 경북도개발공사 사장은 “이번 공무직 정년 연장과 함께 고용 창출을 위한 다양한 정책도 병행해 세대 간 상생에 힘을 보태겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>경찰, 김용현 전 국방장관 자택 압수수색</title>
-      <link>https://www.chosun.com/national/national_general/2024/12/08/3HLIME4RKRCC3BYRHSS65LYUYU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/08/3HLIME4RKRCC3BYRHSS65LYUYU/</guid>
-      <dc:creator>구아모 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 08 Dec 2024 03:24:22 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YPCLYZVLLTNTXUEJBW3OSXBI7M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김용현 국방부 장관이 지난 11월 28일 오전 국방위원회 전체회의에서 의원 질의에 답변하고 있다. photo 뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰청 국가수사본부 안보수사단 비상계엄 관련 고발사건 전담수사팀은 8일 오전 김용현 전 국방부장관의 공관과 국방부 장관 집무실에 이어 자택을 압수수색하고 있다.&lt;br&gt;&lt;br&gt;‘12·3 비상계엄 사태’ 내란 혐의 등 수사는 속속 진행되고 있다. 검찰 특수수사본부는 8일 새벽 김용현 전 국방부 장관을 전격 출석시켜 조사했다. 김 전 장관은 조사 후 긴급체포됐다.&lt;br&gt;&lt;br&gt;경찰은 120여명의 전담수사팀을 구성하고 송영호 국가수사본부 안보수사심의관(경무관)을 필두로 수사에 속도를 내고 있다. 국수본은 김봉식 서울청장부터 국회 현장에 투입됐던 경찰관 및 경기남부청에서 선거관리위원회에 투입됐던 경찰관들의 무전 내용을 확보해 분석에 나섰다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[단독]‘비상계엄’ 수사 경찰...경기남부청 선관위 무전기록 확보</title>
-      <link>https://www.chosun.com/national/national_general/2024/12/08/YXIBL2PAZRDETKLNN7KMTEHAV4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/08/YXIBL2PAZRDETKLNN7KMTEHAV4/</guid>
-      <dc:creator>구아모 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 08 Dec 2024 03:20:48 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/B7PWGW235NMSJDJMLCYBMSFAAM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;국회 행정안전위원회는 지난 3일 계엄령 선포 당시 선거관리위원회에 투입된 계엄군이 선관위 시스템 서버를 촬영하는 장면이 담긴 CCTV를 6일 공개했다./국회 행정안전위원회&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘비상계엄’ 사태 관련 사건을 수사 중인 경찰청 국가수사본부가 당시 경기남부경찰청의 계엄 상황 관련 무전 기록을 확보한 것으로 확인됐다. &lt;br&gt;&lt;br&gt;8일 경찰청 국가수사본부 안보수사단은 비상계엄 선포 직후 조지호 경찰청장의 지시에 따라 경기남부청이 중앙선거관리위원회(선관위) 청사 2곳에 약 200명의 경력을 투입한 상황을 재구성하기 위해 당시 무전 기록을 확보했다. 수사팀은 선관위 주변 경력 배치가 어떤 맥락에서 결정됐는지 파악할 방침이다.&lt;br&gt;&lt;br&gt;앞서 조지호 경찰청장은 지난 3일 윤석열 대통령이 비상계엄을 선포한지 13분 만에 중앙선거관리위원회(선관위) 청사 등에 경찰 병력을 배치한 것으로 확인됐다. 경기남부청은 조 청장 지시로 오후 11시 25분 이후 경기 수원 소재 선거연수원과 11시 48분 이후 과천 소재 중앙선관위에 각각 기동대 1개 중대를 배치했다.&lt;br&gt;&lt;br&gt;전담수사팀은 서울경찰청으로부터 국회 주변에 투입됐던 경찰관들의 무전 내용 자료를 임의 제출받아 분석 작업을 진행하고 있다. 이를 통해 국회 출입 통제 지시의 출처와 전달 경로를 규명하겠다는 구상이다. 국회 봉쇄 조치가 어느 단계에서, 누구의 결정으로 이뤄졌는지에 대해 무전기록을 통해 분석할 방침이다.&lt;br&gt;&lt;br&gt;아울러 수사팀은 지난 6일 조지호 경찰청장, 김봉식 서울경찰청장, 목현태 국회경비대장, 김준영 경기남부경찰청장 등 사건 핵심 인물 4명의 휴대전화를 임의제출받아 디지털 포렌식 작업에 착수했다. 통화내역, 문자메시지, 메신저 기록 등을 면밀히 살펴, 계엄령 선포 직후 경찰 지휘부 간 어떠한 지시와 보고가 오갔는지, 불법 행위 정황이 있었는지를 규명할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>“숨어서 단속” 함정 단속 부당 외친 운전자의 항변… 법원 판단은</title>
       <link>https://www.chosun.com/national/court_law/2024/12/08/626ZWFCAR5BMRCI6TZTRFXTPJY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/08/626ZWFCAR5BMRCI6TZTRFXTPJY/</guid>
@@ -972,15 +984,6 @@
         <media:description type="plain">지난 8월 열린 프랑스 파리 올림픽 조별 리그에서 홍텐이 고난도 기술을 선보이고 있다. /올림픽사진공동취재단</media:description>
         <media:credit role="author" scheme="urn:ebu"/>
       </media:content>
-    </item>
-    <item>
-      <title>아저씨 대여 서비스</title>
-      <link>https://www.chosun.com/national/weekend/2024/12/07/JKOXMSON3NAODMRRHYGLAL7PVI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/weekend/2024/12/07/JKOXMSON3NAODMRRHYGLAL7PVI/</guid>
-      <dc:creator>박돈규 주말뉴스부장</dc:creator>
-      <description/>
-      <pubDate>Fri, 06 Dec 2024 15:50:00 +0000</pubDate>
-      <content:encoded>미국 로스앤젤레스에 사는 배우 척 매카시는 2016년부터 사람들과 산책을 해주고 돈을 벌었다. ‘친구 대여(&lt;a href="https://www.rentalocalfriend.com/" target="_blank"&gt;Rent-a-Friend&lt;/a&gt;)’라는 새로운 형태의 비즈니스였다. 매카시는 일감이 많지 않은 무명 배우였지만 이 부업은 조수들을 고용해야 할 만큼 번창했다. 다른 도시와 외국에서도 다양한 ‘출장 산책’ 주문이 쇄도했다.&lt;br&gt;&lt;br&gt;매카시는 당시 집 근처 공원과 거리를 고객과 함께 걸으면서 이야기를 나누는 대가로 1마일(1.6㎞)당 7달러를 받았다. 사회적 관계를 구매 가능한 상품으로 포장해 판매한 셈이다. 이름 붙이자면 ‘고독 비즈니스’. 그는 영국 일간지 가디언과의 인터뷰에서 “혼자 산책하기 두렵거나 친구 없는 사람으로 비칠까 봐 걱정하는 사람이 많았다. 자기 이야기를 누가 들어준다는 데 기뻐하며 다시 나를 찾는다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2ZCMDCV4NNHXNOIMJW2ZALCQAI.png"&gt;&lt;figcaption&gt;&lt;small&gt;아저씨 대여 서비스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;친구만 대여하는 게 아니다. 최근 일본에서는 ‘아저씨 대여 서비스’가 유행이다. 남다른 능력을 가진 아저씨(숨은 고수)를 시급 주고 고용하는 서비스로 20~30대 여성이 주로 이용한다. 홈파티 준비를 어떻게 할지 막막한 여성이라면 주방 경험이 많다고 소개된 아저씨를 고용해 장보기부터 요리까지 구체적인 도움을 받을 수 있다.&lt;br&gt;&lt;br&gt;50대 아저씨를 두 시간 고용해 직장 생활의 어려움을 토로하고 적절한 조언을 받기도 한다. 비용은 약 6만원. 두 시간 동안 상사 욕만 실컷 하는 경우도 있다. 요양원에 있는 할머니들의 머리와 화장, 손톱 정리까지 원스톱으로 해주는 ‘요양원 헤어&amp;amp;네일 방문 서비스’도 인기다. 꽃단장을 받고 나면 할머니들도 좋아하고 자녀들도 감격스러워한다고.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6J475KEAERAUVKW6JGPJNYWDEQ.png"&gt;&lt;figcaption&gt;&lt;small&gt;아저씨 대여 서비스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한국 사회에서 고독은 강 건너 불구경이 아니다. 통계청에 따르면 국내 1인 가구는 782만9000가구. 전체 가구에서 나 홀로 가구가 차지하는 비율은 35.5%에 이른다. 20~30대에서는 미혼과 만혼(晩婚), 40대 이후론 이혼과 고령화 등으로 1인 가구가 빠르게 늘어간다. 4인용 식탁 대신 1인용 식탁을 찾는 고객이 많아진다. 1인 가구는 인생의 어느 단계에서 길든 짧든 경험할 수도 있는 생활의 조건, 우리 모두의 미래다.&lt;br&gt;&lt;br&gt;이런 변화는 새로운 비즈니스 기회일 수 있다. 소셜미디어로 긴밀하게 연결돼 있는 것 같지만 관계의 응집력은 어느 때보다 느슨하다. ‘혼밥’ ‘혼술’ ‘혼영(나 홀로 영화)’ ‘혼행(나 홀로 여행)’ 같은 소비 패턴이 방증한다. 하지만 그 반작용 또는 결핍감이 새로운 시장을 형성할 수도 있다. ‘친구 대여’나 ‘아저씨 대여 서비스’가 뜨는 이유다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OGKRKL5LTJG7NHPJHET5YKV6YE.png"&gt;&lt;figcaption&gt;&lt;small&gt;친구 대여&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ECF6LZEHNFCJLI7RAML2K3TLTE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;※ QR코드에 휴대폰을 갖다 대거나, 인터넷 주소창에 https:// &lt;a href="http://page.stibee.com/subscriptions/145743을" target="_blank"&gt;page.stibee.com/subscriptions/145743을&lt;/a&gt; 넣으면 구독 창이 열립니다. ‘이메일 주소’와 ‘존함’을 적고 ‘구독하기’를 누르면 이메일로 뉴스레터가 날아갑니다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>뜨거운 눈물인가, 악어의 눈물인가… 그들이 우는 까닭은</title>
