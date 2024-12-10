@@ -13,6 +13,37 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>﻿“치매 걸린 아빠와 함께 살고 싶어요” 12살 소년의 간절한 외침</title>
+      <link>https://www.chosun.com/national/national_general/2024/12/11/SAJFS3K43JHH3JM2IZMHDKKG4M/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/11/SAJFS3K43JHH3JM2IZMHDKKG4M/</guid>
+      <dc:creator>이가영 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 10 Dec 2024 22:42:47 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G6DWK4BKYBH2FBN6XGZQGUZ2I4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;치매에 걸린 아버지를 돌보는 12살 장우(가명)의 모습. /이랜드복지재단&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전국 청소년 25명 중 1명은 ‘가족돌봄 청소년(영 케어러·Young Carer)’다. 부모나 가족을 돌보며 어린 나이에 사실상 보호자 역할을 하는 이들을 말한다. 국가인권위원회에 따르면 이들의 67.8%는 학교생활 부적응을, 52.3%는 학업 성적 하락을 경험하고 있다.&lt;br&gt;&lt;br&gt;가족돌봄 청소년 중 한 명인 12살 장우(가명)의 이야기를 들어보았다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇떡집 아저씨와 12살 아들의 이야기&lt;/b&gt;&lt;br&gt;&lt;br&gt;“아빠, 오늘은 제가 라면 끓여드릴게요.”&lt;br&gt;&lt;br&gt;쌀쌀한 겨울 아침, 장우가 텅 빈 부엌에서 마지막 남은 라면을 꺼냈다. 단수된 수도꼭지에서 물이 나오지 않자, 그는 미리 받아둔 물통을 찾아 냄비에 물을 따랐다. 옆방에서는 아버지 김모(63)씨가 멍하니 창밖만 바라보고 있었다.&lt;br&gt;&lt;br&gt;2년 전만 해도 장우네 가족은 시골 마을에서 떡집을 운영하며 평화로운 일상을 보냈다. 장우는 “아빠가 만든 떡이 제일 맛있다”며 자랑스러워했다.&lt;br&gt;&lt;br&gt;그러나 6년 전 아버지의 교통사고로 모든 것이 변했다. 사고 후 찾아온 뇌경색은 우울증과 무기력증을 동반했고, 점차 치매 증상까지 나타났다. 아버지와 나이 차이가 크게 났던 장우의 어머니는 남편을 헌신적으로 보살폈지만, 치매 증상까지 심해지자 이웃들에게 돈을 빌리기 시작했다. 그러던 어느 날, 관리하던 모든 재산을 처분한 채 홀연히 떠났다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇아버지를 향한 12살 아들의 사랑&lt;/b&gt;&lt;br&gt;&lt;br&gt;“아빠가 가끔 저를 알아보지 못하실 때가 있어요. 그래도 예전처럼 따뜻하게 웃어주실 때면 제가 더 열심히 해야겠다고 생각해요.”&lt;br&gt;&lt;br&gt;장우의 하루는 여느 또래 아이들과 달랐다. 어머니가 떠난 후 모든 것이 막막했다. 체납된 공과금을 내지 못해 수도와 가스 공급이 중단됐고, 휴대전화마저 끊겼다. 관리비가 270만원이나 쌓였지만, 도움을 청할 곳이 없었다.&lt;br&gt;&lt;br&gt;그래도 장우는 매일 학교에 다녔다. 근처 공부방에서 숙제하고 간식을 먹은 뒤 집으로 돌아와 아버지를 돌봤다.&lt;br&gt;&lt;br&gt;그러다 아동학대 의심 신고가 들어와 장우는 아버지와 분리될 위기를 맞았다. 치매 증상이 심해진 아버지가 더 이상 어린 장우를 위해 식사를 챙기거나 빨래하는 등 기본적인 돌봄조차 하기 어려운 상태였기 때문이다.&lt;br&gt;&lt;br&gt;하지만, 장우는 단호했다. 아버지의 의도가 아닌, 병으로 인한 불가피한 상황이라는 것을 알았다. 그는 “아빠랑 계속 같이 살고 싶다. 제가 크면 아빠를 돌봐드릴 수 있다”고 했다.&lt;br&gt;&lt;br&gt;다행히 사각지대 위기 가정을 지원하는 이랜드복지재단의 ‘SOS위고’ 매니저의 도움으로 상황이 조금씩 나아지기 시작했다. 긴급 생계비 지원을 받아 밀린 공과금을 해결했다. 또, 정신건강의학과에서 검진받아 아버지는 공식적으로 치매 진단을 받았고, 정부로부터 기초생활수급 지원을 받게 됐다.&lt;br&gt;&lt;br&gt;하지만 아버지의 증상은 점점 악화됐다. 결국 장우는 가정에 돌아가지 못하는 청소년들이 모인 그룹홈으로 거처를 옮겼다. 그럼에도 주말마다 아버지를 보러 가는 길은 언제나 설렌다고 했다. 장우는 “언젠가는 아빠랑 다시 같이 살 수 있을 것”이라며 “그때까지 열심히 공부하면서 아빠를 자주 찾아뵙겠다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KCDAMA6SGFHQ3C2KLBCUPNYRF4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;장우 아버지가 잠시 치매 증상이 완화되었을 때 쓴 감사 편지. /이랜드복지재단&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;◇어른도 힘든 치매 간병, ‘영 케어러’에 관심 필요한 이유&lt;/b&gt;&lt;br&gt;&lt;br&gt;장우 아버지와 같은 65세 미만 치매 환자는 2022년 기준 1만5000여 명에 달한다. 특히 50대 치매 환자는 매년 8~10%씩 증가하는 추세다. 이들을 돌보는 가족들의 부담도 심각한 수준이다. 치매 환자 가족의 86.7%가 우울 증상을 경험했으며 77.3%는 직장을 포기하거나 근무시간을 단축한 경험이 있다고 했다.&lt;br&gt;&lt;br&gt;치매 환자 한 명을 돌보는데 들어가는 연간 관리 비용은 약 2060만원이다. 돈만 들어가는 건 아니다. 가족 간병인은 월평균 287시간(하루 평균 9.5시간)을 환자 돌봄에 투자하고 있다. 성인도 감당하기 어려운 부담이다.&lt;br&gt;&lt;br&gt;장우의 이야기는 수많은 ‘가족돌봄 청소년’들이 겪는 현실의 축소판이다. 이랜드복지재단 관계자는 “12살 아이가 아버지를 돌보는 건 결코 자연스러운 일이 아니다”라며 “복지 사각지대에 놓인 위기 가정을 조기 발견하고, 실질적인 지원을 제공하는 사회 체계가 더욱 강화돼야 한다”고 말했다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“너희는 개만도 못해”…개모델료 들은 장성규가 스태프에 한말</title>
+      <link>https://www.chosun.com/national/people/2024/12/11/JLWVRD5QDFDLFGL4MOQ6CPAWTI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/12/11/JLWVRD5QDFDLFGL4MOQ6CPAWTI/</guid>
+      <dc:creator>김자아 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 10 Dec 2024 22:35:48 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OODRLJS3HJCJ7FDLFS7G5CHKXQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;방송인 장성규./조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;아나운서 출신 방송인 장성규가 스태프들을 강아지 모델과 비교해 온라인상 갑론을박에 휩싸였다.&lt;br&gt;&lt;br&gt;11일 여러 온라인커뮤니티에는 장성규가 지난달 29일 구독자 416만명을 보유한 유튜브 채널 워크맨에 공개된 영상에서 강아지 모델 매니저 체험에 나선 내용이 공유됐다.&lt;br&gt;&lt;br&gt;당시 장성규는 업무 이야기를 듣던중 “잘나가는 강아지 모델료가 어느정도 되냐”고 물었다. 이에 선배 매니저는 “하루 종일 기준 1000만원”이라고 말했다.&lt;br&gt;&lt;br&gt;깜짝 놀란 듯한 표정을 지은 장성규는 스태프들을 향해 “야 너희는 개만도 못한 거다 진짜”라고 말했다. 여기에 제작진은 “개충격받은 k-직장인”이라는 자막을 달았다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WGCBYADQO5DJHO5M53FVJH5RZM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;방송인 장성규./유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이 장면은 유튜브 쇼츠와 온라인커뮤니티 등을 통해 뒤늦게 화제됐고, 온라인상에서는 장성규의 발언이 부적절하다는 지적이 잇따랐다.&lt;br&gt;&lt;br&gt;네티즌들은 “자학 개그는 본인 가지고 하는 거다. 주위 사람 까내리면서 하는 개그는 최악의 개그” “본인은 1000만원 넘게 벌어서 ‘너희는’이라고 한 거냐” “’우리는’이라고 했으면 자학개그지만 스태프 대상으로 말한 거면 경솔한 거다” “내가 나보다 돈 한참 더 잘버는 사람한테 이런 소리 들으면 상처받았을 거다” 등의 반응을 보였다.&lt;br&gt;&lt;br&gt;다만 일부 네티즌들은 “평소에 스태프들 잘 챙겨주는 연예인이다. 친해서 할 수 있는 말 같다” “강아지가 그만큼 많이 받는다는 뜻 같은데 욕먹을 발언인지 모르겠다” 등의 반응도 보였다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/BYLKB3OKANEFTBA7HINSUI7RQU.jpg?width=202&amp;height=152&amp;auth=04a1e4b76f47366e1b8ed06b1b61cbb1ccec9896ede7e98c375d5a3eff685aaa&amp;smart=true" type="image/jpeg" height="152" width="202">
+        <media:description type="plain">방송인 장성규./유튜브</media:description>
+        <media:credit role="author" scheme="urn:ebu"/>
+      </media:content>
+    </item>
+    <item>
+      <title>‘내란 혐의’ 경찰청장·서울청장 긴급체포</title>
+      <link>https://www.chosun.com/national/national_general/2024/12/11/XQBXSDR6ABEUPKWZJLU7PZEPTM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/11/XQBXSDR6ABEUPKWZJLU7PZEPTM/</guid>
+      <dc:creator>구아모 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 10 Dec 2024 21:11:43 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/T67FIJLDLJYXCCX6VDYMZQEKQE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이상민 행정안전부 장관, 조지호 경찰청장, 김봉식 서울경찰청장(오른쪽부터)이 5일 오전 서울 여의도 국회에서 열린 비상계엄 관련 행정안전위원회 전체회의에 자리해 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘12·3 비상계엄 사태’를 수사하는 경찰 국가수사본부 특별수사단이 당시 국회 출입 통제에 관여한 조지호 경찰청장과 김봉식 서울경찰청장에 대한 조사를 마치고 11일 새벽 긴급체포했다. 수사단은 이날 오전 3시 49분쯤 “조 청장, 김 청장을 내란 혐의로 긴급체포했다”고 밝혔다.&lt;br&gt;&lt;br&gt;조 청장이 전날인 10일 오후 4시부터 서울경찰청 마포청사에서, 김 청장은 오후 5시 30분부터 서대문 경찰청에 출석해 조사받은 뒤 각각 11시간, 10시간여만이다. 현직 경찰 수뇌부가 동시에 긴급 체포 된 것은 이례적인 일이다.&lt;br&gt;&lt;br&gt;조 청장과 김 청장은 지난 3일 비상계엄 사태 당시 국회 전면 출입 통제를 지시한 혐의를 받는다. 조 청장은 방첩사령부의 요청에 따라 중앙 선거관리위원회에 경찰을 배치해 계엄군에게 협조했다는 혐의도 있다.&lt;br&gt;&lt;br&gt;수사단은 조 청장, 김 청장으로부터 휴대전화를 임의제출 형식으로 제출받아 압수했고 이들을 출국금지했다. 국회와 선관위 등 현장에 출동한 무전 기록도 분석해왔다. 수사단은 추가 조사를 거쳐 구속 영장 신청 여부를 결정할 예정이다. 체포 시점 48시간 이내에 구속영장을 청구하지 않거나 법원에서 발부받지 못한 경우 피의자를 석방해야한다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>[단독] 검찰 “尹, 포고령 직접 수정”… 사실상 ‘내란 정점’ 판단</title>
       <link>https://www.chosun.com/national/court_law/2024/12/11/N4F27IGALBG6VHVRJ5DNTXNQ5Y/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/11/N4F27IGALBG6VHVRJ5DNTXNQ5Y/</guid>
@@ -771,15 +802,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KYEU3AEN3NLP7CK4EHIAVXUKWE.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;우종수 경찰 국가수사본부(국수본) 특별수사단장이 9일 12·3 계엄 사태 수사 상황 첫 브리핑을 했다. 사진은 이날 서울 서대문구 경찰청 국수본의 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰청 국가수사본부 비상계엄 특별수사단은 이진우 수도방위사령관, 곽종근 육군특전사령관, 조지호 경찰청장, 김봉식 서울경찰청장, 목현태 국회경비대장에 대해 출국금지 조치를 완료했다고 10일 밝혔다. 수사단 관계자는 “9일 오후 8시 출국금지 조치가 완료됐다”고 했다.&lt;br&gt;&lt;br&gt;수사단은 방첩사, 수방사, 특전사, 사이버작전사령관, 정보사령관, 국방부에 계엄발령 관련 각 부대원 투입 현황 관련 자료 제출을 요청하고, 이상민 전 행정안전부 장관과 이진우 수방사, 곽종근 특전사와 소환일정을 조율하는 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>롤스로이스 속도위반에 90대 치여 숨졌는데… 운전자는 집유, 왜?</title>
-      <link>https://www.chosun.com/national/national_general/2024/12/10/U7FB4KBNCVB3XEG6VCZQG24ISM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/10/U7FB4KBNCVB3XEG6VCZQG24ISM/</guid>
-      <dc:creator>문지연 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 10 Dec 2024 00:17:54 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JHWE22LGVBCVHJU35XWRGTUTZU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 중앙지방법원 로비에 법원 마크가 밝게 빛나고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;롤스로이스 차량을 과속으로 몰다 90대 보행자를 치어 숨지게 한 운전자에게 법원이 금고형의 집행유예를 선고했다. 늦은 밤 피해자의 무단횡단을 예상하기 어려웠을 것이라는 이유에서다.&lt;br&gt;&lt;br&gt;인천지법 형사7단독 문종철 판사는 교통사고처리 특례법상 치사 혐의로 기소된 A(70)씨에게 금고 1년에 집행유예 2년을 선고했다고 10일 밝혔다. 120시간의 사회봉사도 함께 명령했다.&lt;br&gt;&lt;br&gt;앞서 A씨는 지난 5월 25일 오후 10시17분쯤 인천시 연수구 한 도로에서 롤스로이스 차량을 운전하다 보행자 B(95)씨를 치어 사망케 한 혐의로 기소됐다. 당시 도로의 제한속도는 시속 50㎞였고 A씨는 시속 74㎞로 차를 몰았다.&lt;br&gt;&lt;br&gt;A씨는 차량 진행 방향의 좌측에서 우측 도로로 횡단하던 B씨를 차량 앞부분으로 들이받았다. 이후 B씨는 사고 발생 이틀 뒤인 5월 26일 다발성 장기부전으로 사망했다.&lt;br&gt;&lt;br&gt;재판부는 “제한속도를 20㎞ 이상 초과해 차량을 운행하면서 전방주시를 게을리해 이 사건 교통사고를 일으킨바 피고인의 주의의무위반 정도가 가볍지 않다”며 “피해자의 유족들이 피고인에 대한 엄벌을 탄원하고 있다”고 했다.&lt;br&gt;&lt;br&gt;다만 “사건이 발생한 시간이 늦은 밤이고 횡단보도가 없는 편도 3차로 도로에서 피고인이 피해자의 무단횡단을 예상하거나 발견하기 어려웠던 것으로 보이는 점 등을 고려했다”고 양형 이유를 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>법원행정처장 “검찰에 계엄 사건 수사권 있는지 논란”</title>
       <link>https://www.chosun.com/national/court_law/2024/12/10/MARD5NUC2JDNFFQ6FM4Y7XPKUA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/10/MARD5NUC2JDNFFQ6FM4Y7XPKUA/</guid>
@@ -827,15 +849,6 @@
       <description/>
       <pubDate>Mon, 09 Dec 2024 16:17:43 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3R53DNLJQBG43PXFLPXXLUFQWI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;7일 서울 여의도 국회의사당 앞 집회에 등장한 ‘전국 집에누워있기 연합’의 깃발. 이날 2030 집회 참가자들은 정치 구호가 아니라 자신의 관심사를 담은 다양한 깃발을 제작해 들고 나왔다. /소셜미디어 X(옛 트위터)&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘제발 아무것도 안 하고 싶은 사람들의 모임’ ‘푸바오의 행복을 바라는 모임’ ‘전국 혈당 스파이크 방지 협회’ ‘TK 장녀 연합’&lt;br&gt;&lt;br&gt;‘12·3 비상계엄 사태’를 일으킨 윤석열 대통령 탄핵소추안이 국회 본회의에 상정된 지난 7일, 서울 여의도 국회의사당 앞엔 기상천외한 깃발이 나부꼈다. 2030 참가자들이 자신의 취미, 반려동물, 음식 등 관심사에 따라 집회에 참석한 것이다. ‘내향인’ ‘OTT 뭐 볼지 못 고르는 사람들 연합회’ ‘전국 뒤로 미루기 연합’ ‘직장인 점심메뉴 추천 조합’ 등을 비롯, ‘강아지 발냄새 연구회’ ‘나라가 평안해야 냥이도 평안하다’ 같은 반려동물 애호가들의 행렬도 뒤를 이었다. ‘전국 계란은 완숙 협회’ ‘전국 얼죽아 연합회’ ‘전국 삼각김밥 미식가 협회’ 같은 음식·다이어트 관련 동호인들도 깃발을 들고 나왔다.&lt;br&gt;&lt;br&gt;이날 집회 참가자들은 “온갖 소셜미디어 계정이 화면 밖으로 걸어 나온 것 같다”고 했다. 집회 참가자 안모(26)씨는 “정치 집회라고 하면 폭력 시위를 일삼는 과격 노조나 운동권 단체가 먼저 떠올라서 참석이 꺼려졌는데, 일상에서 흔히 볼 수 있는 ‘보통 사람’들이 모두 나온 것 같아서 마음이 편했다”고 했다. 실제 이날 집회엔 2030 젊은 참가자가 상당수였다. 20대 남녀 커플이나 대학 점퍼를 입고 나온 대학생들이 많았다.&lt;br&gt;&lt;br&gt;2030세대는 자신이 좋아하는 K팝·뮤지컬 가사나 게임 홍보 문구·웹소설 제목을 집회 문구로 변형해 팻말에 써왔다. 유명 웹소설 제목을 변주한 ‘탄핵 못하면 죽는 병 걸림’, 힙합 서바이벌 ‘쇼미더머니’ 탈락 안내를 변형한 ‘윤석열씨는 대한민국과 함께 갈 수 없게 되었습니다’ 같은 문구나, 유명 드라마에서 등장한 대사 ‘사과해요 나한테’ 같은 문구도 눈에 띄었다. 대학생이나 직장인들은 ‘다음주 시험임’ ‘불안해서 집에서 게임도 못하겠다’ ‘웹 소설 작가, 마감하기도 급한데’ 같은 팻말을 들고 시험 공부나 게임, 소설 집필을 하기도 했다.&lt;br&gt;&lt;br&gt;‘아이돌 팬덤’ 단위로 집회에 참가하는 모습도 화제였다. NCT, 라이즈 같은 그룹의 팬들이 저마다의 네트워크에서 “탄핵 집회에 나가자”며 무리를 지어 현장에 나왔다고 한다. 7일 집회 중간에 연단에 오른 석모(18)양은 “몬스타엑스 멤버가 라디오 방송 중에 계엄령을 전달한 최초의 아이돌”이라며 “제 가수가 이런 용기를 냈기 때문에 저도 용기를 내 이 자리에 섰다”고 했다. 집회 참가자들은 각자 들고 온 아이돌 응원봉을 흔들었다. 해가 진 뒤 여의도는 아이돌 콘서트장을 방불케하는 분위기였다.&lt;br&gt;&lt;br&gt;‘K를 생각한다’ 저자 임명묵 작가는 본지 통화에서 “팬덤이 정치 참여를 자랑하며 소속감을 다졌다는 점이 특기할 만하다”고 했다. 신경아 한림대 사회학과 교수는 “온라인 커뮤니티에서 각종 ‘밈’을 생산하며 느슨한 연대감을 다져온 청년들이 계엄 사태 이후 실제 광장으로 나와 만나면서 감동을 느끼는 측면이 있다”고 했다. 한편으론 2004년 노무현 전 대통령 탄핵 반대 촛불 집회, 2008년 광우병 집회, 2016년 박근혜 전 대통령 탄핵 촛불 집회 때 시위 참가가 ‘온라인 대세’였던 것과 비슷한 현상이라는 분석도 있다. 당시에도 유모차 부대나 생활 동호인들이 온라인에서 결집, 거리로 나와 재치 있는 구호를 외쳤다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>제주 크루즈 관광객 다시 100만명 시대?</title>
-      <link>https://www.chosun.com/national/regional/2024/12/10/GDI7WZC6R5H2NCCF23LY3WL2EU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/12/10/GDI7WZC6R5H2NCCF23LY3WL2EU/</guid>
-      <dc:creator>제주=오재용 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 09 Dec 2024 16:18:46 +0000</pubDate>
-      <content:encoded>내년 총 34척의 국제 크루즈가 340번 이상 제주도를 방문한다. 크루즈 1척에는 통상 3000~5000명의 관광객이 탄다. 이에 제주도에서는 “9년 만에 크루즈 관광객이 100만명을 돌파할 것”이라는 관측이 나오고 있다.&lt;br&gt;&lt;br&gt;9일 제주도가 공개한 ‘2025년 국제 크루즈 선석 배정 결과’에 따르면, 내년 한 해 총 34척의 크루즈가 총 344차례 제주에 들어올 예정이다. 제주항이 166차례, 강정항이 178차례다. 제주도는 크루즈를 보내고 싶어 하는 해운 업체로부터 신청을 받아 입항 계획을 확정한다. 10만t 이상 크루즈는 강정항에, 10만t 미만은 제주항으로 배정하고 있다.&lt;br&gt;&lt;br&gt;크루즈 관광 실적은 중국에서 얼마나 단체 관광을 많이 오느냐에 따라 희비가 엇갈린다.&lt;br&gt;&lt;br&gt;제주 크루즈 관광객 수는 2014년 59만400명, 2015년 62만2068명으로 꾸준히 증가하다가 2016년 120만9106명으로 정점을 찍었다. 그러나 2016년 ‘사드(THADD·고고도미사일방어체계) 배치’에 대한 보복 조치로 중국 정부가 중국인의 한국 단체 관광을 금지하면서 2017년 관광객 수가 18만9732명으로 곤두박질쳤다. 2018년엔 2만1703명에 그쳤다.&lt;br&gt;&lt;br&gt;2019년 4만4266명으로 약간 회복세를 보였지만, 이번엔 코로나 사태가 터졌다. 코로나 여파로 2020년부터 2022년까지 3년간 입항 실적은 ‘0척’이었다.&lt;br&gt;&lt;br&gt;반등은 지난해 중국 정부가 한국 단체 관광을 다시 허용하면서 시작됐다. 지난해 총 10만661명이 크루즈 관광으로 제주를 찾았다. 올해는 11월 말 기준 총 62만2958명이 들어왔다. 중국 관광객이 48만4409명으로 가장 많고 일본 관광객이 5만3668명으로 뒤를 이었다.&lt;br&gt;&lt;br&gt;제주도 관계자는 “내년 344차례 크루즈가 들어오면 1척당 4000명씩 어림잡아도 130만명 이상의 관광객이 제주를 찾는 것”이라며 2016년 이후 9년 만에 ‘크루즈 관광객 100만명 시대’가 열릴 것으로 보인다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>‘부당대출 의혹’ 손태승… 검찰, 구속영장 재청구</title>
@@ -888,15 +901,6 @@
 &amp;lt;저작권자 ⓒ 1980-2024 ㈜연합뉴스. 무단 전재 재배포 금지, AI 학습 및 활용 금지&amp;gt;</media:description>
         <media:credit role="author" scheme="urn:ebu">광주전남취재본부</media:credit>
       </media:content>
-    </item>
-    <item>
-      <title>경찰, 선관위·軍 12명 참고인 조사... 선관위 CCTV도 확보</title>
-      <link>https://www.chosun.com/national/national_general/2024/12/09/HVIC5YYF65EOFL6I3NXPNEFGBY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/09/HVIC5YYF65EOFL6I3NXPNEFGBY/</guid>
-      <dc:creator>구아모 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 09 Dec 2024 13:35:53 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/B7PWGW235NMSJDJMLCYBMSFAAM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 3일 계엄령 선포 당시 선거관리위원회에 투입된 계엄군이 선관위 시스템 서버를 촬영하는 CCTV 장면./선관위&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;’12·3 비상계엄 사태’를 수사하는 경찰 국가수사본부 특별수사단이 중앙선거관리위원회 관계자들을 참고인으로 불러 조사했다고 9일 밝혔다.&lt;br&gt;&lt;br&gt;특별수사단은 “수사 착수 이후 이날 오후까지 선관위 관계자 4명과 군 관계자 8명 등 참고인 12명을 조사했다”고 밝혔다.&lt;br&gt;&lt;br&gt;또 특별수사단은 선관위 측으로부터 폐쇄회로(CC)TV를 제출받아 분석 중이다. 지난 3일 비상계엄이 선포된 후 계엄군이 선관위에 투입된 경위를 파악하기 위한 것이다.&lt;br&gt;&lt;br&gt;내란죄로 구속 가능성이 거론되는 김용현 전 국방부 장관은 선관위에 계엄군을 투입한 이유에 대해 ‘부정선거 의혹 관련 수사의 필요성을 판단하기 위해서’라고 언론에 밝힌 바 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>대검, ‘채널A 사건’ 수사지휘 이정현 검사장 징계청구</title>
