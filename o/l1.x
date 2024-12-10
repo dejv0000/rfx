@@ -6,6 +6,16 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>법원도서관 'AI와 법, 인간과 공존하기' 법률소양강좌</title>
+			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/thumb/180/203631.jpg" alt="203631.jpg" /&gt;&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;법원도서관(관장 전지원)은 18일 이유정(58·사법연수원 23기) 법무법인 원 대표변호사를 초청해 'AI와 법, 인간과 공존하기'를 주제로 법률소양강좌를 연다.&lt;br /&gt;&lt;br /&gt;이날 경기 고양시 일산동구 법원도서관 법마루 1층에서 열리는 행사에서 이 변호사는 일상과생활과 관련이 있는 AI 기술을 소개하고 AI를 둘러싼 법적 쟁점과 관련 법률 제도에 대해 강연한다.&lt;br /&gt;&lt;br /&gt;시민 누구나 이날 강연에 무료로 참가할 수 있다. 17일까지 법원도서관 홈페이지에서 신청하면 된다.&lt;br /&gt;&lt;br /&gt;이달부터 내년 4월까지 '인공지능 시대의 법적 쟁점'을 주제로 전시도 진행된다. 법원도서관 법마루 1층 전시공간에서 열리는 이번 전시는 AI 관련 도서, 논문, 영상콘텐츠 등이 전시된다.&lt;br /&gt;&lt;br /&gt;법원도서관 관계자는 "이번 강좌 및 행사는 사회적으로 관심이 높은 인공지능을 둘러싼 법적 쟁점과 법률제도 등을 주제로 준비했다"며 "대면 강의로 진행되는 한편 법원도서관 유튜브 채널 및 법원 TV 사이트에서도 실시간으로 시청이 가능하니 관심 있는 분들의 많은 참여를 바란다"고 밝혔다.</description>
+			<pubDate>Tue, 10 Dec 2024 04:27:39 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/203631</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/203631</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/203631.jpg</media:thumbnail>
+			<dc:creator>홍윤지 기자</dc:creator>
+		</item>
+		<item>
 			<title>검찰·경찰·공수처 '비상계엄' 수사 협의..."일정 조율 중"</title>
 			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 100%;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/203630.jpg" alt="203630.jpg" style="width: 100%; height: auto;" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;《사진=연합뉴스》&lt;/figcaption&gt;   &lt;/figure&gt;&lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;12·3 비상계엄 사태를 각자 수사하던 검찰과 경찰, 고위공직자범죄수사처(공수처)가 수사 협의를 논의할 예정이다.&lt;br /&gt;&lt;br /&gt;10일 대검찰청은 비상계엄 사건 수사와 관련해 경찰 국가수사본부, 공수처와 수사 협의를 진행할 예정이라고 밝혔다. 세 기관은 구체적인 협의 일정과 참석자를 조율 중이다.&lt;br /&gt;&lt;br /&gt;앞서 대검은 경찰과 공수처에 수사 협의를 하자는 취지의 공문을 보낸 것으로 알려졌다. 경찰과 공수처 모두 협의에 응하기로 했다.&lt;br /&gt;&lt;br /&gt;검찰, 경찰, 공수처는 비상계엄 사태의 수사 주도권을 두고 경쟁하고 있다. 검찰은 김용현 전 국방부 장관의 신병을 확보하고, 경찰은 국방부와 김 전 장관의 주거지를 압수수색 해 휴대전화·PC 등 주요 증거를 확보했다. 공수처는 윤 대통령에 대한 출국금지 조치를 취했다. 공수처는 검찰과 경찰에 이첩요청권을 발동해 사건을 13일까지 이첩하라고 요구한 상태다.&lt;br /&gt;&lt;br /&gt;세 기관이 앞다퉈 수사에 나서자, 수사 혼선과 중복 수사 우려도 제기됐다. 법원은 공수처가 이번 사건 관계자들에 대해 청구한 영장을 중복 수사 등을 이유로 기각하기도 했다.&lt;br /&gt;&lt;br /&gt;천대엽 법원행정처장은 9일 국회 법제사법위원회 전체 회의에서 "세 수사 기관에서 동시에 수사권 관할 경쟁을 벌이다 보니 재판 절차의 적법성이나 증거 능력의 적법성으로 바로 직결되는데, 형사재판을 맡고 있는 법관들이 굉장히 신중하고 무겁게 이 사건을 보고 있다"고 말했다.</description>
 			<pubDate>Tue, 10 Dec 2024 03:01:23 -0000</pubDate>
@@ -230,16 +240,6 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/203587</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/203587.jpg</media:thumbnail>
 			<dc:creator>임현경 기자</dc:creator>
-		</item>
-		<item>
-			<title>검찰 특수본, '내란 혐의' 김용현 전 국방부장관 긴급체포</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/203586.jpg" alt="203515.jpg" style="width: 600px; height: auto;" /&gt;      &lt;figcaption class="cheditor-caption-text" style="text-align: center; margin: 10px; font-size: 14px; line-height: 1.6em;"&gt;김용현 전 국방부장관 《연합뉴스》&lt;/figcaption&gt;   &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p style="text-align: left;"&gt;   &lt;span style="font-weight: bold;" serial="8480"&gt;윤석열&amp;nbsp;&lt;/span&gt;대통령의 12·3 비상계엄 사태를 주도한 김용현 전 국방부장관이 8일 서울중앙지검에 자진 출석해 검찰 특별수사본부(특수본)의 조사를 받던 중 긴급 체포됐다. 검찰은 김 전 장관을 서울동부구치소로 이송하고 48시간 내 추가조사를 거쳐 구속영장을 청구할 전망이다.&lt;/p&gt;&lt;br /&gt;특수본은 이날 "김용현 전 국방부 장관을 긴급체포하고 소지하고 있던 휴대전화를 압수했다"고 밝혔다. 긴급체포는 중대한 범죄를 저지르거나 도주·증거인멸 우려가 있을 경우 영장 없이 48시간 동안 신병을 확보할 수 있는 제도다. &lt;br /&gt;&lt;br /&gt;김 전 장관은 돌연 이날 새벽 1시 30분까지 자진 출석해 조사받겠다는 의사를 밝혔다. 윤 대통령 탄핵소추안이 의결정족수 미달로 부결된 지 4시간 만이다. &lt;br /&gt;&lt;br /&gt;검찰은 비상계엄 사태 전후의 상황과 현재까지 드러난 의혹들의 사실관계를 중심으로 조사했다. 검찰은 특수본을 꾸린 뒤 주말 전원 출근해 수사 준비에 돌입했다. 본부장을 맡은 박세현 서울고검장은 업무 보고를 받고 수사팀과 법리 검토 등 수사를 본격화했다. 수사팀은 김 전 장관에 대한 신속한 조사가 필요하다고 판단하고 김 전 장관 측에 조속히 출석할 것을 요구했다.&lt;br /&gt;&lt;br /&gt;김 전 장관은 지난 3일 윤 대통령에게 비상계엄 선포를 직접 건의한 것으로 알려졌다. 김 전 장관은 사태의 책임을 지고 4일 사의를 표명했고, 윤 대통령은 면직을 재가했다. &lt;br /&gt;&lt;br /&gt;김 전 장관은 내란죄 등으로 검찰과 경찰, 공수처에 고발돼 있다. 서울중앙지검 공공수사1부(이찬규 부장검사)는 5일 김 전 장관의 출국금지가 필요하다고 판단해 법무부를 통해 김 전 장관에 대한 출국금지 조치를 내렸다. &lt;br /&gt;&lt;br /&gt;김 전 장관은 비상계엄 사태 당시 계엄군의 국회 진입 작전과 계엄사령관 임명, 위헌 논란이 빚어진 포고령 1호 발표 등을 주도한 혐의를 받고 있다. 김 전 장관은 전국 비상계엄이 선포된 직후부터 국회 요구로 계엄령이 해제될 때까지 통제실에 머무르며 계엄 작전에 대해 세부적인 지시를 내렸다고 한다. &lt;br /&gt;&lt;br /&gt;계엄령 해제 이후 김 전 장관이 대통령으로부터 지휘 권한을 위임받고 계엄군에 대한 지휘권을 행사했다는 증언들이 쏟아졌다. &lt;br /&gt;&lt;br /&gt;계엄사령관을 맡았던 박안수 육군참모총장은 5일 국회 국방위원회 현안 질의에 참석해 "모든 군사 활동은 장관이 책임진다"고 말했다고 했다. 또 김 전 장관이 전군 지휘관들에게 비상계엄 지침을 알리면서 '명령불응시 항명죄가 된다'고 언급했다고도 했다. &lt;br /&gt;&lt;br /&gt;계엄군의 국회 진입 작전도 계엄사령관과 논의도 없이 김 전 장관의 지시로 이뤄진 것으로 드러났다. 박 총장은 계엄군의 투입도 몰랐고 명령도 하지 않았다며, 계엄군 국회 투입 지시도 철수 명령을 내린 것도 김 전 장관이었다고 밝혔다.</description>
-			<pubDate>Sun, 08 Dec 2024 00:15:38 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/203586</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/203586</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/203586.jpg</media:thumbnail>
-			<dc:creator>우빈 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
