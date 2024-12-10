@@ -6,6 +6,16 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>검찰·경찰·공수처 '비상계엄' 수사 협의..."일정 조율 중"</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 100%;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/203630.jpg" alt="203630.jpg" style="width: 100%; height: auto;" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;《사진=연합뉴스》&lt;/figcaption&gt;   &lt;/figure&gt;&lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;12·3 비상계엄 사태를 각자 수사하던 검찰과 경찰, 고위공직자범죄수사처(공수처)가 수사 협의를 논의할 예정이다.&lt;br /&gt;&lt;br /&gt;10일 대검찰청은 비상계엄 사건 수사와 관련해 경찰 국가수사본부, 공수처와 수사 협의를 진행할 예정이라고 밝혔다. 세 기관은 구체적인 협의 일정과 참석자를 조율 중이다.&lt;br /&gt;&lt;br /&gt;앞서 대검은 경찰과 공수처에 수사 협의를 하자는 취지의 공문을 보낸 것으로 알려졌다. 경찰과 공수처 모두 협의에 응하기로 했다.&lt;br /&gt;&lt;br /&gt;검찰, 경찰, 공수처는 비상계엄 사태의 수사 주도권을 두고 경쟁하고 있다. 검찰은 김용현 전 국방부 장관의 신병을 확보하고, 경찰은 국방부와 김 전 장관의 주거지를 압수수색 해 휴대전화·PC 등 주요 증거를 확보했다. 공수처는 윤 대통령에 대한 출국금지 조치를 취했다. 공수처는 검찰과 경찰에 이첩요청권을 발동해 사건을 13일까지 이첩하라고 요구한 상태다.&lt;br /&gt;&lt;br /&gt;세 기관이 앞다퉈 수사에 나서자, 수사 혼선과 중복 수사 우려도 제기됐다. 법원은 공수처가 이번 사건 관계자들에 대해 청구한 영장을 중복 수사 등을 이유로 기각하기도 했다.&lt;br /&gt;&lt;br /&gt;천대엽 법원행정처장은 9일 국회 법제사법위원회 전체 회의에서 "세 수사 기관에서 동시에 수사권 관할 경쟁을 벌이다 보니 재판 절차의 적법성이나 증거 능력의 적법성으로 바로 직결되는데, 형사재판을 맡고 있는 법관들이 굉장히 신중하고 무겁게 이 사건을 보고 있다"고 말했다.</description>
+			<pubDate>Tue, 10 Dec 2024 03:01:23 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/203630</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/203630</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/203630.jpg</media:thumbnail>
+			<dc:creator>임현경 기자</dc:creator>
+		</item>
+		<item>
 			<title>김용현 전 장관 영장 심문 포기 "모든 책임은 나에게"…오늘 밤 구속 갈림길</title>
 			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/203628.jpg" alt="203585.jpg" style="width: 600px; height: auto;" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; font-size: 14px; line-height: 1.6em;"&gt;《사진=연합뉴스》&lt;/figcaption&gt;   &lt;/figure&gt;&lt;/div&gt;&lt;p style="text-align: center;"&gt;&amp;nbsp;&lt;/p&gt;윤석열 대통령의 12·3 비상계엄 사태를 주도한 김용현 전 국방부장관이 영장실질심사를 포기했다. 자신의 일에 법적 판단을 받고 그 판단을 수용하겠다는 의미로 풀이된다. &lt;br /&gt;&lt;br /&gt;김 전 장관에 대한 영장심사는 10일 오후 3시 서울중앙지법 남천규 영장전담 부장판사 심리로 진행된다.&lt;br /&gt;&lt;br /&gt;김 전 장관은 심문을 앞둔 이날 오전 변호인을 통해 성명서를 배포했다. 국민에게 죄송하며 모든 책임은 나에게 있으니 부하들은 용서 바란다는 내용이다. 김 전 정관은 자유 대한민국의 발전을 위해 기도해달라고도 했다. &lt;br /&gt;&lt;br /&gt;검찰 특수본은 지난 9일 밤 내란 중요임무 종사 및 직권남용 권리행사 방해 혐의로 김 전 장관의 구속영장을 청구했다.&lt;br /&gt;&lt;br /&gt;검찰은 구속영장에 김 전 장관이 윤석열 대통령, 박안수 육군참모총장, 곽종근 특전사령관, 여인형 국군방첩사령관, 이진우 수도방위사령관 등과 공모해 국헌 문란을 목적으로 폭동을 일으킨 혐의가 있다고 적시한 것으로 알려졌다.&lt;br /&gt;&lt;br /&gt;검찰은 김 전 장관이 수사가 시작된 뒤 텔레그래을 탈퇴하고 휴대전화를 교체한 점 등을 이유로 증거인멸과 도주 우려가 있다고 판단했다고 전해졌다. &lt;br /&gt;&lt;br /&gt;김 전 장관은 윤 대통령에게 계엄을 건의하고 계엄 실행 과정 전반을 주도한 인물로 지목됐다. 모든 정치활동을 금한다는 등의 내용이 담긴 포고령을 발표하고 국회와 중앙선거관리위원회의 계엄군 진입을 지휘한 것으로 알려졌다.&lt;br /&gt;&lt;br /&gt;김 전 장관은 8일 새벽 검찰에 자진출석했으나 조사 6시간 만에 긴급 체포된 뒤 세 차례에 걸친 조사를 받았다. 그는 검찰 조사에서 일부 사실관계를 인정하면서도 위법과 위헌성은 없었다고 주장한 것으로 알려졌다.&lt;br /&gt;</description>
 			<pubDate>Tue, 10 Dec 2024 00:57:41 -0000</pubDate>
@@ -230,16 +240,6 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/203586</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/203586.jpg</media:thumbnail>
 			<dc:creator>우빈 기자</dc:creator>
-		</item>
-		<item>
-			<title>[판결] 부하 휴가 제한, 병가자 출근 강요… 경찰 간부 “정직 2개월 정당”</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 100%;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/203508.jpg" alt="203508.jpg" style="width: 100%; height: auto;" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;《사진=연합뉴스》&lt;/figcaption&gt;   &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&amp;nbsp;&lt;/p&gt;&lt;p&gt;부하 직원들에게 연·병가를 제한하고 사적 심부름을 시키는 등 갑질을 일삼은 경찰 간부가 정직 2개월의 징계를 받은 데 불복해 소송을 제기했지만 법원은 징계 처분이 정당하다고 판결했다.&lt;/p&gt;&lt;p&gt;   &lt;b&gt;&lt;br /&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;   &lt;b&gt;서울행정법원 행정8부&lt;/b&gt;(재판장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="7820"&gt;이정희&amp;nbsp;&lt;/span&gt;부장판사)는 9월 서울경찰청 기동대 소속 경감 A 씨가 서울경찰청장을 상대로 낸 정직처분 취소소송(&lt;b&gt;2023구합82339&lt;/b&gt;)에서 원고 패소 판결했다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;A 씨는 부하 직원들의 연·병가를 무단 제한하고, 병가 신청자에게 출근을 강요하거나 조퇴 시간을 오후 4시 이후로 정했다. 쓰레기 치우기, 가습기 물 보충 등 사적인 심부름을 부하 직원들에게 시키기도 했다. 그는 당직 근무 시간에 지각을 반복하는 등 직무태만 행위도 한 것으로 드러났다. A 씨는 “연·병가 제한은 경찰관 기동대 운영규칙에 따라 출동률 80% 이상을 유지하기 위한 적정 직무 수행 범위 내 행위”라며 “정직 처분이 과도하며 경징계로 충분히 징계 목적을 달성할 수 있다”고 주장했다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;법원은 A 씨의 주장을 받아들이지 않았다. 재판부는 “출동률 80% 준수를 이유로 연·병가 제한을 할 수 없으며 병가와 조퇴를 제한한 행위는 아무런 법적 근거가 없다”며 “경찰 치안종합성과평가 계획에도 출동률은 성과 평가에 직접 반영되지 않는다”고 지적했다. 이어 “A 씨는 자신에게는 관대한 잣대를 적용해 근무시간을 지키지 않고 출·퇴근과 조퇴를 임의로 했다”며 “비위 행위는 장기간 이어져 공직기강 확립을 위해 징계가 필요하다”고 밝혔다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;법원은 A 씨가 제기한 ‘징계 처분이 과도하다’는 주장에 대해서는 징계 양정 기준을 벗어나지 않는다고 설명했다.&lt;/p&gt;</description>
-			<pubDate>Sun, 08 Dec 2024 00:09:53 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/203508</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/203508</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/203508.jpg</media:thumbnail>
-			<dc:creator>이순규 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
