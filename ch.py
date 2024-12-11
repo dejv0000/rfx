@@ -95,8 +95,9 @@ def getContents(item):
     #print(url)
     contents = getContentsfromUrl(url)
     #print(contents)
+    contents = re.sub(u'[^\u0020-\uD7FF\u0009\u000A\u000D\uE000-\uFFFD\U00010000-\U0010FFFF]+', '', contents)
     item.find('{http://purl.org/rss/1.0/modules/content/}encoded').text = contents
-    
+        
     return
     
 
