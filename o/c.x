@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>“아들 사업자금으로 퇴직금 줬는데…” 빈털터리 된 70대 아빠, 부양료 청구 될까</title>
+      <link>https://www.chosun.com/national/national_general/2024/12/13/OJBCHLENFBHULBPVLSWTMCQXUA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/13/OJBCHLENFBHULBPVLSWTMCQXUA/</guid>
+      <dc:creator>김가연 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 12 Dec 2024 22:16:31 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WA5RWW76MBYJIB6HNBGWEML3EQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;통장 관련 자료사진. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;사업자금이 필요하다는 아들에게 자신의 퇴직금을 준 뒤 빈털터리가 됐다는 한 70대 남성의 사연이 전해졌다.&lt;br&gt;&lt;br&gt;12일 YTN라디오 ‘조인섭 변호사의 상담소’에서는 혼자 생활하고 있는 A(70)씨의 고민이 공개됐다.&lt;br&gt;&lt;br&gt;코로나 팬데믹 당시 아내를 떠나보냈다는 A씨는 “자식은 아들 하나인데, 제 또래가 그렇듯 아들과는 데면데면하다”라고 말했다. 그는 “젊은 시절 저는 아들과 아내를 위한다고 일을 열심히 했다. 돈을 많이 버는 게 가족을 위하는 거로 생각했는데 일에 몰두할수록 가족과의 사이는 틀어졌다”고 했다. 그러면서 “환갑이 넘어 정신을 차리고 보니 제 곁에는 그동안 번 돈의 일부와 사사건건 저를 원망하는 아들만 남았다”고 했다.&lt;br&gt;&lt;br&gt;그러던 어느날, 아들이 A씨를 찾아와 사업을 한다며 돈을 빌려달라고 요구했다고 한다. A씨는 “아들이 어릴 때 잘해주지 못했던 부채감이 있던 터라 어떻게든 이번만은 잘해주고 싶었다”라며 “무리라는 걸 알면서도 정년 퇴직금을 줬다”고 했다.&lt;br&gt;&lt;br&gt;돈을 받은 아들은 이후 연락이 뜸해지더니, 1년 전부터는 A씨의 전화를 전혀 받지 않는다고 한다. A씨는 “저는 빈털터리가 됐다. 생활비가 부족해서 건물 청소일이라도 해보려고 했으나 얼마 전 빙판길에 넘어져 그마저도 불가능하다”고 토로했다.&lt;br&gt;&lt;br&gt;그는 “들리는 소식으로 아들은 사업 초기에는 어려움을 겪었으나 최근에는 꽤 높은 수익을 올리고 있다고 한다”면서 “아들에게 부양료를 청구하고 싶은데 가능하겠느냐”라며 법적 조언을 구했다.&lt;br&gt;&lt;br&gt;이에 대해 손은채 법무법인 신세계로 변호사는 “아들에게 부양료를 청구할 수 있다”고 봤다.&lt;br&gt;&lt;br&gt;손 변호사는 “민법 제974조에서는 친족 간 부양 의무를 법으로 정해뒀고, 975조에서는 ‘부양의 의무는 부양을 받을 자가 자기의 자력 또는 근로에 의하여 생활을 유지할 수 없는 경우에 한하여 이를 이행할 책임이 있다’라고 이행 의무까지 정하고 있다”고 설명했다. 이어 “보통은 부모가 자녀에게 성년이 된 후에도 학비를 대주거나 생활비를 주는 등 부양하는 것을 생각하지만, 반대로 성년인 자녀가 부모에게 지는 부양 의무도 포함된다”고 했다.&lt;br&gt;&lt;br&gt;다만 직계혈족으로서의 부양 의무는 부부 간의 부양 의무와는 강도에 차이가 있다고 했다. 부부 간 부양 의무는 ‘1차 부양 의무’로 나와 배우자 간의 생활 정도가 동등하도록 부양해야 하는 반면, 직계혈족으로서의 부양 의무는 2차에 속한다는 것이다.&lt;br&gt;&lt;br&gt;손 변호사는 “부양의무자가 자기의 사회적 지위에 상응하는 생활을 하면서 생활의 여유가 있음을 전제로, 부양을 받을 자가 자력 또는 근로에 의하여 생활을 유지할 수 없는 경우에 한하여 그의 생활을 지원한다는 것”이라고 했다.&lt;br&gt;&lt;br&gt;이어 “객관적으로, 생활비 수요가 자기의 자력 또는 근로에 의하여 충당할 수 없는 곤궁한 상태라서 부양이 필요한 상태에 한정하여 가능하다. 액수도 상대방이 그를 부양할 수 있는 한도 내에서 생활 치료비 정도를 청구할 수 있을 뿐”이라고 부연했다. 그러면서 “액수는 청구인과 상대방의 나이, 가족관계, 경제적인 능력 등을 고려해 결정되며, 과거 부양료는 지급 청구를 할 수 없다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>전국 의사 수 16만6197명, 그중 28%가 서울에</title>
       <link>https://www.chosun.com/national/welfare-medical/2024/12/13/6WJLRECDZRCWTKXUXTAIIIRZRA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/12/13/6WJLRECDZRCWTKXUXTAIIIRZRA/</guid>
@@ -738,15 +747,6 @@
       <description>내연 관계인 동료 여성 군무원을 살해한 뒤 시신을 훼손해 북한강에 유기한 현역 육군 소령 양광준(38)이 12일 첫 재판에서 공소사실에 대해 이렇다 할 의견을 밝히지 않아 재판이 공전했다.춘천지법 형사2부는 이날 오전 살인 등 혐의로 기소된 양광준의 첫 공판을 열었다.</description>
       <pubDate>Thu, 12 Dec 2024 04:34:47 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MVU42KQTNBBHFAORLOG5H7NYJY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;양광준(38) 화천 북한강 토막살인범/강원경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;내연 관계인 동료 여성 군무원을 살해한 뒤 시신을 훼손해 북한강에 유기한 현역 육군 소령 양광준(38)이 12일 첫 재판에서 공소사실에 대해 이렇다 할 의견을 밝히지 않아 재판이 공전했다.&lt;br&gt;&lt;br&gt;춘천지법 형사2부는 이날 오전 살인 등 혐의로 기소된 양광준의 첫 공판을 열었다.&lt;br&gt;&lt;br&gt;양의 변호인은 이날 재판에서 검찰의 공소사실에 대해 인정 여부를 다음에 답변하겠다고 밝혔고, 재판부가 이를 받아들여 재판은 10여분 만에 종료됐다.&lt;br&gt;&lt;br&gt;양은 이날 검찰이 공소사실을 낭독하는 동안 눈을 질끈 감고 자신의 범행 사실을 들었다. 양의 변호인 측은 재판이 끝난 뒤 객관적인 사실 관계는 인정하지만, 계획범죄 유무에 대해선 앞으로 재판을 통해 따져볼 계획이라고 밝혔다.&lt;br&gt;&lt;br&gt;현직 육군 소령 양광준은 지난 10월 25일 같은 부대에 근무하던 군무원 A(33)씨를 살해하고 시신을 훼손해 강원 화천군 북한강 일원에 유기한 혐의다. 양은 A씨와 교제하던 부적절한 관계가 밝혀지는 것을 막기 위해 이 같은 범행을 저지른 것으로 조사됐다.&lt;br&gt;&lt;br&gt;특히 양은 훼손한 시신을 북한강에 유기할 당시 비닐봉지에 담은 시신이 떠오르는 것을 막기 위해 비닐봉지에 돌을 함께 담기도 했다. 또 위조 차량 번호판을 범행에 이용하는 등 계획적이고 치밀하게 범행을 벌였다. 다음 재판은 내년 1월 16일 열린다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>백령‧대청도까지 진료 가능…병원선 ‘건강 옹진호’ 내년 5월 도입</title>
-      <link>https://www.chosun.com/national/regional/2024/12/12/XNVHTFQPGBHO3LUDF7UZHT7SCE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/12/12/XNVHTFQPGBHO3LUDF7UZHT7SCE/</guid>
-      <dc:creator>인천=이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 12 Dec 2024 04:24:58 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SV3RDJXGKZCKRB7RPKCUR6KDAQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;건강 옹진호 조감도./인천시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서해 최북단 백령도 지역 주민까지 진료하는 병원선이 내년 운항을 시작한다. 인천 섬 지역 주민들을 위한 의료서비스가 한층 개선될 전망이다.&lt;br&gt;&lt;br&gt;인천시는 병원선 ‘건강 옹진호’를 건조해 내년 5월부터 투입할 계획이라고 12일 밝혔다.&lt;br&gt;&lt;br&gt;건강 옹진호는 270t급의 전장 47.2m, 폭 8.4m, 깊이 3.6m 규모 선박으로, 최대 44명을 태우고 시속 46㎞의 속도로 운항할 수 있다. 기존 108t급의 인천 531호에 비해 2배 이상 크다. 사업비 126억원을 투입해 2021년부터 건조를 위한 기본‧실시설계 등 관련 절차를 진행해왔다.&lt;br&gt;&lt;br&gt;옹진호는 내과, 치과, 한의과 진료가 가능한 3명의 공중보건의 등 총 16명을 태우고, 인천 옹진군의 17개 섬을 순회하며 진료활동을 하게 된다. 물리치료실과 임상병리실, 보건교육실 등도 갖추고 있어 예방접종과 만성질환자 관리‧검사, 방사선(골밀도) 검사를 비롯해 건강증진 프로그램도 진행한다.&lt;br&gt;&lt;br&gt;옹진호는 기존에 진료활동을 하던 섬 외에 장봉도와 대연평도를 비롯해 대청도와 소청도, 백령도 등 섬 지역까지 순회하며 진료하게 된다. 특히 백령도와 대청도, 소청도 등 섬까지 병원선이 닿는 건 이번이 처음이다. 진료대상 인원은 기존 1000여명에서 1만700여명으로 10배 정도 늘어나게 된다.&lt;br&gt;&lt;br&gt;옹진호는 현재 운항 중인 병원선 ‘인천 531호’의 역할을 대신하게 된다. 531호는 1999년 6월 운항을 시작해 인천항에서 비교적 거리가 가까운 자월 자도(승봉도, 대이작도, 소이작도)와 덕적 자도(굴업도, 울도, 백아도, 지도, 문갑도), 소연평도 등 9개 섬을 다니며 진료활동을 해왔다. 최근 5년간 연평균 5700여명의 섬 주민이 이 병원선에서 진료를 받았다.&lt;br&gt;&lt;br&gt;인천시는 531호가 선령 25년으로 오래되고, 양질의 의료서비스 제공에 한계가 있다고 판단해 새 병원선을 만들기로 했다.&lt;br&gt;&lt;br&gt;인천시 관계자는 “그동안 덕적도와 자월도 등 비교적 가까운 섬 위주로 병원선이 순회하며 진료했는데, 건강 옹진호가 투입되면 백령도와 대청도 등 먼 지역 섬까지 순회할 수 있을 게 된다”며 “섬 지역 주민들에게 더욱 질 좋은 의료서비스를 제공할 수 있도록 하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>검찰 “조국 내일까지 출석 통보 예정…절차 따라 신속 형 집행”</title>
