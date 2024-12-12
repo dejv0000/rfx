@@ -13,6 +13,69 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>[속보] 경찰 특별수사단, 대통령실 2차 자료 확보</title>
+      <link>https://www.chosun.com/national/national_general/2024/12/12/OZN3D4OKTJDZ3EXKVU3DUKERHQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/12/OZN3D4OKTJDZ3EXKVU3DUKERHQ/</guid>
+      <dc:creator>구아모 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 12 Dec 2024 05:10:34 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/X64XXZW5TBILJNK3HXXQRLR2EI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;'12·3 비상계엄 사태' 수사를 위해 대통령실 압수수색에 나선 경찰 국가수사본부(국수본) 관계자들이 11일 저녁 서울 용산 대통령실을 나서 압수물 박스와 포렌식 장비 등을 차량에 싣고 있다. 국수본은 이날 대통령실 압수수색에 나섰으나 대통령경호처가 진입을 허락하지 않으면서 일부 자료만을 임의제출 방식으로 넘겨받았다/대통령실 통신사진기자단&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘12·3 비상계엄 사태’ 를 수사하는 경찰 국가수사본부 특수단 관계자들이 11일 용산 대통령실에 대한 2차 자료 확보에 나섰다.&lt;br&gt;&lt;br&gt;경찰 국가수사본부 비상계엄 특별수사단은 이날 오후 2시쯤 대통령실에 수사관을 보내 비상 계엄 사태 관련 자료 확보를 시도하고 있다. 수사단 관계자는 “합동참모본부에 임의제출 방식으로 자료를 확보하러 갔다”고 했다.&lt;br&gt;&lt;br&gt;특별수사단은 전날 대통령실 내 국무회의실, 경호처, 101경비단, 합동참모본부 지하에 있는 통제지휘실 등 4곳을 대상으로 압수수색을 시도했지만, 대통려 경호처측이 진입을 거부했다.&lt;br&gt;&lt;br&gt;대통령실 경호처 측에서 경찰과 협의에 일부 자료를 임의제출했는데, 수사단 관계자는 “임의제출을 통해 확보하려는 자료 중에 극히 일부에 해당하는 자료만 받아 유감이다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>당선무효형 확정 하윤수 부산교육감 “안타깝고 깊이 사과”</title>
+      <link>https://www.chosun.com/national/regional/2024/12/12/7WYWRHD3YJANJIVPHYDCH7TSRQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/12/12/7WYWRHD3YJANJIVPHYDCH7TSRQ/</guid>
+      <dc:creator>부산=김주영 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 12 Dec 2024 05:06:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XUYADDFBTOXKEJTK4IHEB45RD4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;하윤수 부산시교육감. / 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;12일 대법원에서 당선 무효형이 확정된 하윤수 부산시 교육감이 “제게 주어진 역할을 다하지 못하고 떠나게 돼 정말로 안타깝고 죄송한 마음”이라고 밝혔다.&lt;br&gt;&lt;br&gt;하 교육감은 대법원 선고 직후 자신의 소셜미디어(SNS)에 올린 글에서 “대법원 판결로 더 이상 여러분과 함께 할 수 없게 된 것에 깊이 사과드리며, 그동안 함께 했던 시간을 돌아보며 감사의 말씀을 전하고자 한다”면서 이같이 말했다.&lt;br&gt;&lt;br&gt;이어 “교육 현장의 작은 목소리에 귀 기울이며 아이들이 더 나은 환경에서 성장할 수 있도록 최선을 다했으나, 끝까지 함께 하지 못하게 돼 매우 유감”이라고 전했다.&lt;br&gt;&lt;br&gt;그는 또 “부산교육청 모든 구성원에게 진심으로 감사의 말씀을 드리고 싶다”며 “언제나 현장에서 묵묵히 애써주신 교직원 여러분과 학부모님들, 부산교육 가족 모든 분께 감사의 마음을 전한다”고 했다.&lt;br&gt;&lt;br&gt;그러면서 “제가 떠난 후에도 여러분이 그동안 쌓아온 신뢰와 협력이 이어지기를 바라고, 우리 아이들의 밝은 미래를 위해 더욱 단단한 연대와 협력을 부탁드린다”면서 “더 나은 미래에서 다시 만나길 기원한다”고 썼다.&lt;br&gt;&lt;br&gt;하 교육감은 2022년 교육감 선거를 앞두고 포럼을 설립해 선거사무소처럼 운영하고 학력에 대한 허위 사실을 공표한 혐의(지방교육자치법 위반) 등으로 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;1·2심에서 당선무효형인 벌금 700만원이 선고된 데 이어 이날 대법원 상고심에서 당선 무효형이 확정됐다.&lt;br&gt;&lt;br&gt;하 교육감이 당선 무효형이 확정돼 교육감직을 상실함에 따라 내년 4월 재선거 때까지 최윤홍 부교육감이 권한대행으로 부산교육청을 이끌게 된다.&lt;br&gt;&lt;br&gt;하 교육감은 대법원 선고 후 공식 입장을 밝힐 예정이었으나 이날 오후 4시로 입장 표명을 미뤘다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>불 안 꺼진 꽁초로 쪽방촌 화재… 다리 불편한 옆방 노인 숨져 </title>
+      <link>https://www.chosun.com/national/national_general/2024/12/12/SVWA3LGZYNHRTL3C6KSEFRTAOY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/12/SVWA3LGZYNHRTL3C6KSEFRTAOY/</guid>
+      <dc:creator>최혜승 기자 </dc:creator>
+      <description/>
+      <pubDate>Thu, 12 Dec 2024 04:47:05 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BQOI4PAOK5BN3GRO4SI7C6XD4M.png"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=조선디자인랩·Midjourney&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;불씨가 채 꺼지지 않은 담배꽁초를 버렸다 화재를 일으켜 이웃 주민을 숨지게 한 60대가 항소심에서 금고형을 선고받았다.&lt;br&gt;&lt;br&gt;전주지법 제2형사부(부장판사 김도형)는 중과실치사 및 중실화 등 혐의로 기소된 A(69)씨의 항소심에서 검사와 피고인의 항소를 모두 기각하고 금고 1년을 선고한 원심판결을 유지했다고 12일 밝혔다. 금고형이란 징역과 마찬가지로 교도소에 감금은 하지만 노역은 부과하지 않는 형벌을 말한다.&lt;br&gt;&lt;br&gt;A씨는 지난 3월 27일 오후 11시쯤 전북 전주시 한 다가구주택에 불을 내 1층에 살던 이웃 주민 B(69)씨를 숨지게 한 혐의 등으로 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;A씨는 평소 방 안에서 1시간에 1개피 꼴로 담배를 피우며 생활해왔다. 그는 이날도 흡연 이후 담배꽁초를 침대 옆 재떨이에 던지고는 불이 꺼졌는지 확인하지 않은 채 잠이 들었던 것으로 조사됐다.&lt;br&gt;&lt;br&gt;꺼지지 않은 담뱃불은 재떨이의 다른 담배꽁초와 만나 큰불로 번졌고 이내 A씨의 옷이 걸린 벽과 천장, 복도까지 옮겨붙었다. 불은 건물 전체로 확산해 다른 방에서 거주하던 세입자들까지 덮쳤다. 세입자 대부분은 밖으로 대피했으나 맨 끝방에 거주하던 B씨는 일산화탄소에 중독돼 끝내 숨졌다. 또 다른 입주민 2명도 병원으로 옮겨져 치료를 받았다.&lt;br&gt;&lt;br&gt;담배꽁초에서 시작된 불은 소방당국에 의해 30여분 만에 진화됐으나 주택 전체가 타면서 9600만원 상당의 재산피해가 났다.&lt;br&gt;&lt;br&gt;이 주택은 방 하나당 몸을 간신히 누일 수 있는 6.6㎡(2평) 크기로, 주로 일용직 종사자들이 살고 있었다고 한다. 숨진 B씨는 기초생활수급자로 불편한 다리를 이끌고 매일 폐지를 주워 근근이 생활했던 것으로 알려졌다.&lt;br&gt;&lt;br&gt;1심 재판부는 A씨에게 화재의 고의는 없었다면서도 “세입자가 숨지는 돌이킬 수 없는 결과가 발생했다”며 금고형을 선고했다. 이에 검사는 형이 가볍다며, A씨는 형이 너무 무거워 부당하다며 각각 항소했다.&lt;br&gt;&lt;br&gt;항소심 재판부는 “원심은 피고인의 중과실로 주택에 화재가 발생해 입주민이 사망한 중대한 결과가 발생한 점, 피해회복이 되지 않고 앞으로도 이를 기대하기 어려운 점, 범행을 인정하고 화재 진화를 시도하는 등 최소한의 노력을 한 점 등을 모두 고려해 형을 정한 것으로 보인다”고 했다.&lt;br&gt;&lt;br&gt;이어 “이미 피고인과 검사가 양형요소로 주장하는 사정은 원심에서 이미 충분히 참작된 것으로 보이고, 이 법원에 이르러서도 양형을 달리할 특별한 사정변경도 찾아보기 힘들기에 원심의 재량이 합리적 범위를 벗어나 부당하다고 보이지 않는다”고 판시했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘북한강 토막 살인범’ 육군 소령 양광준, 첫 재판서 묵묵부답</title>
+      <link>https://www.chosun.com/national/court_law/2024/12/12/LEBADLKISJDQHB6CL4GRUJRT6U/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/12/LEBADLKISJDQHB6CL4GRUJRT6U/</guid>
+      <dc:creator>춘천=정성원 기자</dc:creator>
+      <description>내연 관계인 동료 여성 군무원을 살해한 뒤 시신을 훼손해 북한강에 유기한 현역 육군 소령 양광준(38)이 12일 첫 재판에서 공소사실에 대해 이렇다 할 의견을 밝히지 않아 재판이 공전했다.춘천지법 형사2부는 이날 오전 살인 등 혐의로 기소된 양광준의 첫 공판을 열었다.</description>
+      <pubDate>Thu, 12 Dec 2024 04:34:47 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MVU42KQTNBBHFAORLOG5H7NYJY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;양광준(38) 화천 북한강 토막살인범/강원경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;내연 관계인 동료 여성 군무원을 살해한 뒤 시신을 훼손해 북한강에 유기한 현역 육군 소령 양광준(38)이 12일 첫 재판에서 공소사실에 대해 이렇다 할 의견을 밝히지 않아 재판이 공전했다.&lt;br&gt;&lt;br&gt;춘천지법 형사2부는 이날 오전 살인 등 혐의로 기소된 양광준의 첫 공판을 열었다.&lt;br&gt;&lt;br&gt;양의 변호인은 이날 재판에서 검찰의 공소사실에 대해 인정 여부를 다음에 답변하겠다고 밝혔고, 재판부가 이를 받아들여 재판은 10여분 만에 종료됐다.&lt;br&gt;&lt;br&gt;양은 이날 검찰이 공소사실을 낭독하는 동안 눈을 질끈 감고 자신의 범행 사실을 들었다. 양의 변호인 측은 재판이 끝난 뒤 객관적인 사실 관계는 인정하지만, 계획범죄 유무에 대해선 앞으로 재판을 통해 따져볼 계획이라고 밝혔다.&lt;br&gt;&lt;br&gt;현직 육군 소령 양광준은 지난 10월 25일 같은 부대에 근무하던 군무원 A(33)씨를 살해하고 시신을 훼손해 강원 화천군 북한강 일원에 유기한 혐의다. 양은 A씨와 교제하던 부적절한 관계가 밝혀지는 것을 막기 위해 이 같은 범행을 저지른 것으로 조사됐다.&lt;br&gt;&lt;br&gt;특히 양은 훼손한 시신을 북한강에 유기할 당시 비닐봉지에 담은 시신이 떠오르는 것을 막기 위해 비닐봉지에 돌을 함께 담기도 했다. 또 위조 차량 번호판을 범행에 이용하는 등 계획적이고 치밀하게 범행을 벌였다. 다음 재판은 내년 1월 16일 열린다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>백령‧대청도까지 진료 가능…병원선 ‘건강 옹진호’ 내년 5월 도입</title>
+      <link>https://www.chosun.com/national/regional/2024/12/12/XNVHTFQPGBHO3LUDF7UZHT7SCE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/12/12/XNVHTFQPGBHO3LUDF7UZHT7SCE/</guid>
+      <dc:creator>인천=이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 12 Dec 2024 04:24:58 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SV3RDJXGKZCKRB7RPKCUR6KDAQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;건강 옹진호 조감도./인천시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서해 최북단 백령도 지역 주민까지 진료하는 병원선이 내년 운항을 시작한다. 인천 섬 지역 주민들을 위한 의료서비스가 한층 개선될 전망이다.&lt;br&gt;&lt;br&gt;인천시는 병원선 ‘건강 옹진호’를 건조해 내년 5월부터 투입할 계획이라고 12일 밝혔다.&lt;br&gt;&lt;br&gt;건강 옹진호는 270t급의 전장 47.2m, 폭 8.4m, 깊이 3.6m 규모 선박으로, 최대 44명을 태우고 시속 46㎞의 속도로 운항할 수 있다. 기존 108t급의 인천 531호에 비해 2배 이상 크다. 사업비 126억원을 투입해 2021년부터 건조를 위한 기본‧실시설계 등 관련 절차를 진행해왔다.&lt;br&gt;&lt;br&gt;옹진호는 내과, 치과, 한의과 진료가 가능한 3명의 공중보건의 등 총 16명을 태우고, 인천 옹진군의 17개 섬을 순회하며 진료활동을 하게 된다. 물리치료실과 임상병리실, 보건교육실 등도 갖추고 있어 예방접종과 만성질환자 관리‧검사, 방사선(골밀도) 검사를 비롯해 건강증진 프로그램도 진행한다.&lt;br&gt;&lt;br&gt;옹진호는 기존에 진료활동을 하던 섬 외에 장봉도와 대연평도를 비롯해 대청도와 소청도, 백령도 등 섬 지역까지 순회하며 진료하게 된다. 특히 백령도와 대청도, 소청도 등 섬까지 병원선이 닿는 건 이번이 처음이다. 진료대상 인원은 기존 1000여명에서 1만700여명으로 10배 정도 늘어나게 된다.&lt;br&gt;&lt;br&gt;옹진호는 현재 운항 중인 병원선 ‘인천 531호’의 역할을 대신하게 된다. 531호는 1999년 6월 운항을 시작해 인천항에서 비교적 거리가 가까운 자월 자도(승봉도, 대이작도, 소이작도)와 덕적 자도(굴업도, 울도, 백아도, 지도, 문갑도), 소연평도 등 9개 섬을 다니며 진료활동을 해왔다. 최근 5년간 연평균 5700여명의 섬 주민이 이 병원선에서 진료를 받았다.&lt;br&gt;&lt;br&gt;인천시는 531호가 선령 25년으로 오래되고, 양질의 의료서비스 제공에 한계가 있다고 판단해 새 병원선을 만들기로 했다.&lt;br&gt;&lt;br&gt;인천시 관계자는 “그동안 덕적도와 자월도 등 비교적 가까운 섬 위주로 병원선이 순회하며 진료했는데, 건강 옹진호가 투입되면 백령도와 대청도 등 먼 지역 섬까지 순회할 수 있을 게 된다”며 “섬 지역 주민들에게 더욱 질 좋은 의료서비스를 제공할 수 있도록 하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>검찰 “조국 내일까지 출석 통보 예정…절차 따라 신속 형 집행”</title>
+      <link>https://www.chosun.com/national/court_law/2024/12/12/AU6VU37JNBH5RJENU4WQSZXNEU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/12/AU6VU37JNBH5RJENU4WQSZXNEU/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 12 Dec 2024 04:15:03 +0000</pubDate>
+      <content:encoded>12일 대법원에서 징역 2년형이 확정된 조국혁신당 조국 대표에게 검찰이 오는 13일까지 형 집행을 위해 자진 출석하라고 통보할 예정이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/POOG4GY6LNI27CAZOTFZP3GYLI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;조국혁신당 조국 대표가 지난 11일 오전 서울 여의도 국회에서 열린 '3년은 너무길다 특별위원회(탄추위)' 회의에서 위원들의 발언을 듣고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지검은 이날 “피고인 조국에 대해 징역 2년의 실형이 확정된 바, 검찰은 형사소송법과 관련 규정에 근거해 통상의 절차에 따라 신속하게 형을 집행할 예정”이라고 밝혔다.&lt;br&gt;&lt;br&gt;대검찰청이 형 집행을 촉탁하면 서울중앙지검은 관련 규정에 따라 오는 13일까지 출석하도록 소환 통보할 계획이다. 통상 수사기관은 형이 확정된 피고인에게 스스로 출석하도록 요구하고, 피고인이 이에 응하지 않을 경우 강제로 신병을 확보한다.&lt;br&gt;&lt;br&gt;대법원 3부(주심 엄상필 대법관)는 이날 조 대표에게 징역 2년에 추징금 600만원을 선고한 원심 판결을 확정했다. 이른바 문재인 정부 ‘조국 사태’ 이후 조 대표가 두 자녀의 입시 비리, 유재수 전 부산시 경제부시장 감찰 무마 등 혐의로 기소된 지 5년 만이다.&lt;br&gt;&lt;br&gt;판결에 따라 조 대표는 의원직을 상실하고 1~2일 내로 수감될 전망이다. 한명숙 전 국무총리의 경우 2015년 8월 20일 대법원에서 형이 확정됐는데, 검찰과 협의를 거쳐 4일 뒤인 같은 달 24일에 서울구치소로 출석해 형이 집행됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[단독] 여인형, 계엄 당일 “軍수사관 100명 국회로 보내라” 지원 요청</title>
+      <link>https://www.chosun.com/national/court_law/2024/12/12/ZBSEV525FRBOPHRL6JZEBUQNQI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/12/ZBSEV525FRBOPHRL6JZEBUQNQI/</guid>
+      <dc:creator>유종헌 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 12 Dec 2024 03:42:12 +0000</pubDate>
+      <content:encoded>‘12·3 비상계엄’ 당시 국방부 조사본부 소속 수사관들이 방첩사령부 요청으로 국회에 출동했다는 의혹이 12일 제기됐다. 국방부 조사본부장은 “사실이 아니다”라면서 “곧 입장을 밝히겠다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RXVAG2HBRZGZZMDVU6X6UXA4VM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령이 비상계엄을 선포한 지난 3일 국회의사당 정문에서 군인이 국회 진입을 시도하고 있다. / 이덕훈 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;군과 법조계에 대한 본지 취재를 종합하면, 비상계엄이 선포된 3일 밤 여인형 전 방첩사령관이 박헌수 국방부 조사본부장에게 직접 전화해 “주요 요인 체포·조사 등 방첩 업무에 필요하니 군 수사관 100명을 국회로 출동시켜달라”고 부탁한 것으로 전해졌다. 여 전 사령관과 박 본부장은 육사 동기다.&lt;br&gt;&lt;br&gt;이에 박 본부장이 “야밤에 100명을 파견하기는 어렵다”면서 10명의 군 수사관을 국회에 실제 출동시켰다는 의혹이다. 다만 국회에 시민들이 몰리면서 출입이 통제돼 출동 수사관들이 업무를 수행하지는 못했고, 국회에서 비상계엄 해제 요구안이 가결된 후 부대로 복귀한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;여 전 사령관 등도 검찰 특별수사본부(특수본)에서 조사를 받으면서 “국방부 조사본부에 군 수사관 지원을 요청했다”고 진술한 것으로 전해졌다. 여 전 사령관은 비슷한 시각 조지호 경찰청장에게도 전화를 걸어 “수사관 100명을 지원해달라”고 했지만, 조 청장은 이를 따르지 않았다고 한다.&lt;br&gt;&lt;br&gt;국방부 조사본부는 전날 경찰, 공수처와 함께 공조수사본부를 출범한 상태다. 의혹이 사실로 확인될 경우, 박 본부장이 수사 대상에 오를 수 있어 논란이 예상된다.&lt;br&gt;&lt;br&gt;이에 대해 박 본부장은 “조사본부 소속 군 수사관에게 국회 출동 지시를 내렸다는 의혹은 전혀 사실이 아니다”라고 했다. 여 전 사령관에게 군 수사관 100명 지원 요청을 받았는지에 대해서는 “상대방 입장도 있어 개별적으로 입장을 밝히기 어렵다”면서 “입장을 정리해 국방부 출입기자단을 통해 밝히겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title> ‘비상계엄’ 수사 검찰, 수도방위사령부 압수수색</title>
       <link>https://www.chosun.com/national/court_law/2024/12/12/QVWBPG6HB5GBJKFVP4G5BO6S5I/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/12/QVWBPG6HB5GBJKFVP4G5BO6S5I/</guid>
@@ -885,69 +948,6 @@
       <description/>
       <pubDate>Wed, 11 Dec 2024 02:22:30 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/26DYHKM66VEC3CO6JM4T6WTC5A.png"&gt;&lt;figcaption&gt;&lt;small&gt;임혜숙 이화여자대학교 공과대학 교수. /이화여대&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이화여대 공과대학 전자전기공학전공 임혜숙 교수가 국제전기전자공학회(IEEE) 석학회원(Fellow)으로 선정됐다. IEEE는 전기전자 및 컴퓨터공학 분야 세계 최대 규모 학술단체로, 회원 최고등급인 석학회원은 업적 상위 0.1% 내에서 선정한다. 임 교수는 과학기술정보통신부 장관과 국가과학기술연구회 이사장, 이화여대 공과대학 학장, 대한전자공학회 회장 등을 역임했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘국민연금 월 100만원 이상’ 80만명 넘어…최고액은 월 289만원</title>
-      <link>https://www.chosun.com/national/welfare-medical/2024/12/12/YMFUY4OUHRB4TAJX252OXCWSBA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/12/12/YMFUY4OUHRB4TAJX252OXCWSBA/</guid>
-      <dc:creator>오경묵 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 11 Dec 2024 01:35:18 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/M7H652YVTBBITAW67J54ETD46U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 충정로 국민연금공단 서울북부지역본부 민원실을 찾은 시민이 국민연금 관련 상담을 받고 있다./전기병 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국민연금을 매달 100만원 이상 받는 수급자가 80만명을 넘겼다.&lt;br&gt;&lt;br&gt;11일 국민연금공단의 ‘국민연금 공표통계’에 따르면 올해 8월 말 기준 월 100만원 이상 국민연금을 받는 수급자는 83만3651명이었다. 성별로는 남성 78만9345명, 여성 4만4306명이었다.&lt;br&gt;&lt;br&gt;급여 종류별로는 노령연금 수급자가 82만3544명으로 대부분을 차지했다. 유족연금 7691명, 장애연금 2416명이다.&lt;br&gt;&lt;br&gt;월 100만원 이상 수급자를 금액별로 보면 월 100만~130만원 미만이 37만1890명, 130만~160만원 미만이 22만 5771명이었다. 160만~200만원 미만은 18만1276명, 200만원 이상은 4만4607명이었다.&lt;br&gt;&lt;br&gt;국민연금을 가장 많이 받는 수급자의 연금액은 289만3550원이다. 평균 수급액은 노령연금이 월 66만3382원, 장애연금 월 52만5192원, 유족연금 월 36만333원이다.&lt;br&gt;&lt;br&gt;지난 8월 말 기준으로 전체 노령연금 수급자는 578만2442명이다. 이 가운데 20년 이상 가입한 뒤 연금을 받는 이들은 110만5409명이다. 이들은 월 평균 108만3805원을 받고 있다.&lt;br&gt;&lt;br&gt;가입 기간이 10~19년인 노령연금 수급자는 253만6481명이다. 국민연금을 애초 수급 연령보다 당겨받는 조기노령연금 수급자는 92만1308명으로 나타났다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“살해 고의성 충분”… 檢, ‘교회 여고생 학대’ 1심 판결 불복</title>
-      <link>https://www.chosun.com/national/court_law/2024/12/12/4I3SHFQ4Q5HXZIFKEYBI25K3X4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/12/4I3SHFQ4Q5HXZIFKEYBI25K3X4/</guid>
-      <dc:creator>인천=이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 11 Dec 2024 01:33:08 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/C4HB4LPTQZIVJEB6WK4AAT5QQM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;인천 지역 한 교회 합창단 숙소에서 생활하던 여고생을 학대해 숨지게 한 혐의를 받는 신도./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;교회 합창단 숙소에서 생활하던 여고생을 학대해 숨지게 한 합창단장과 신도 2명에게 아동학대 ‘살해’가 아닌 아동학대 ‘치사’로 징역형을 선고한 1심 판결에 검찰이 불복해 항소했다.&lt;br&gt;&lt;br&gt;인천지검은 최근 아동학대 범죄의 처벌 등에 관한 특례법상 아동학대 치사 혐의로 교회 합창단장 A(여‧52)씨에 대해 징역 4년 6개월을 선고한 1심 판결에 불복해 법원에 항소장을 제출했다고 11일 밝혔다.&lt;br&gt;&lt;br&gt;검찰은 같은 혐의로 교회 신도 B(여‧54)씨와 C(여‧41)씨에 대해 각각 징역 4년 6개월과 징역 4년을 선고한 1심 판결을 비롯해 아동복지법상 아동유기·방임 혐의로 숨진 여고생의 친모 D(52)씨에게 징역 1년에 집행유예 2년을 선고한 1심 판결에 대해서도 더욱 무거운 형이 선고돼야 한다며 항소했다.&lt;br&gt;&lt;br&gt;1심 법원은 지난 9일 선고 공판에서 살인의 고의성을 인정하기 어렵다며 아동학대 살해 등 혐의로 기소된 A씨 등 3명의 죄명을 아동학대 치사 혐의로 바꿔 실형을 선고했다.&lt;br&gt;&lt;br&gt;검찰은 “1심 법원이 채택한 증거들을 종합했을 때, A씨와 B‧C씨에게 아동학대 살해의 고의가 충분히 인정된다”며 “이들에게 아동학대 살해죄가 적용돼야 한다”고 했다. 이어 “A씨 등 3명은 수사와 재판과정에서 죄책감을 보이지 않고, 자신들의 잘못을 인정하지 않았다”며 “이들에게 더욱 무거운 형이 선고돼야 한다”고 했다.&lt;br&gt;&lt;br&gt;숨진 여고생 친모에 대해선 “유일한 친권자임에도 피해자를 유기‧방임해 숨지게 했다”며 “죄에 상응하는 더욱 무거운 형이 선고돼야 한다”고 했다.&lt;br&gt;&lt;br&gt;검찰은 지난달 A씨에게 무기징역을, B씨와 C씨에 대해선 징역 30년을 구형했다. 숨진 여고생 친모 D씨에겐 징역 5년을 선고해달라고 재판부에 요청했다.&lt;br&gt;&lt;br&gt;A씨와 B‧C씨는 지난 2월부터 5월 15일까지 인천 남동구의 한 교회 합창단 숙소에서 생활하던 여고생 E(17)양을 온몸에 멍이 들 정도로 학대해 숨지게 한 혐의로 구속기소 됐다.&lt;br&gt;&lt;br&gt;이들은 5일간 잠을 자지 못한 E양에게 성경 필사를 비롯해 지하 1층부터 지상 7층까지 계단을 오르내리게 강요한 것으로 조사됐다. 또 팔과 다리를 묶는 등 가혹행위를 한 것으로 파악됐다.&lt;br&gt;&lt;br&gt;숨진 여고생의 친모 D씨는 정신과 치료를 해야 할 딸을 교회에 보내 방임한 혐의로 불구속기소 됐다.&lt;br&gt;&lt;br&gt;E양은 지난 5월 15일 오후 8시쯤 해당 교회에서 식사하던 중 의식을 잃고 쓰러졌다. E양은 119구급대에 의해 병원으로 옮겨졌으나 4시간 뒤 사망했다. 당시 E양의 온몸은 멍이 든 상태였고, 두 손목에서는 결박 흔적이 발견되기도 했다.&lt;br&gt;&lt;br&gt;교회 관계자인 A씨와 B씨, C씨는 앞서 1심 판결 직후 “학대의 고의성이 없다”는 등의 이유로 법원에 항소장을 냈다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>해충 들끓는 무허가 축사서 농업 용수로 만든 ‘마늘종 절임’ 판매한 식품 업체 대표, 검찰 송치</title>
-      <link>https://www.chosun.com/national/welfare-medical/2024/12/11/XF3TOYBSTNCXPE2UL53LTQ2PHI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/12/11/XF3TOYBSTNCXPE2UL53LTQ2PHI/</guid>
-      <dc:creator>정해민 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 11 Dec 2024 01:51:02 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IJSN4TBWF5BY3I5HSVZGFSHRN4.png"&gt;&lt;figcaption&gt;&lt;small&gt;/식약처&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;비위생적인 축사에서 마늘종 절임을 만들어 판매한 회사 대표가 검찰에 넘겨졌다.&lt;br&gt;&lt;br&gt;식품의약품안전처는 서울 한 재래 시장의 식품 제조·가공 업체 대표 A씨를 식품위생법 위반 혐의로 검찰에 송치했다고 11일 밝혔다.&lt;br&gt;&lt;br&gt;식약처에 따르면, A씨는 지난 5월 2일부터 9월 24일까지 약 5개월 동안 식품 제조·가공업 영업 등록을 하지 않고, 경기도에 있는 축사 형태의 무허가 건축물에서 마늘종에 소금, 감미료, 향미증진제 등을 넣은 마늘종 절임을 만들었다. 그는 총 15톤(1억7000만원)의 마늘종 절임을 만들어 이 중 2톤(4000만원)을 식품 유통 업체, 재래 시장 등에 판매했다.&lt;br&gt;&lt;br&gt;A씨는 내년 마늘종 수급이 어려울 것을 예상하고 미리 더 많은 양의 제품을 만들어 두기 위해 평소 창고로 쓰던 축사에서 제품을 제조한 것으로 조사됐다. 이 축사는 해충, 설치류 등 차단 시설도 없이 외부에 개방된 작업장이었다. 또 절임을 만들 때 사용한 물은 수질 검사를 받지 않은 농업 용수였다. 누름돌도 안전성이 확인 되지 않은 채석장에서 가져온 것이었다.&lt;br&gt;&lt;br&gt;식약처는 “앞으로도 식품이 불법 제조·유통되는 것을 완전 차단하기 위해 빈틈없는 감독과 철저한 조사를 지속하고 국민이 안전한 식품을 안심하고 소비할 수 있도록 최선을 다할 계획”이라고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>경찰청장 체포에 차장이 직무대리…국회경비대장 직무배제</title>
-      <link>https://www.chosun.com/national/national_general/2024/12/11/K3DBLAOP6NHNDK4U7SBG5CFBVY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/11/K3DBLAOP6NHNDK4U7SBG5CFBVY/</guid>
-      <dc:creator>구아모 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 11 Dec 2024 01:03:04 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/V4JUMWN3MBN63IPJBQBEUUIOO4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이호영 경찰청 차장이 지난달 14일 오전 서울 여의도 국회에서 열린 예산결산특별위원회 전체회의에서 의원 질문에 답변하고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지휘부 공백 사태로 인해 경찰청장 직무대리를 맡은 이호영 경찰청 차장이 11일 오전 전국 경찰 지휘관 회의를 긴급 소집했다.&lt;br&gt;&lt;br&gt;이날 오전 9시 30분 화상으로 진행된 이번 회의는 조지호 경찰청장과 김봉식 서울경찰청장이 내란 혐의로 긴급체포된 사건의 후속 조치로 마련됐다. 서울경찰청장 직무대리는 최현석 생활안전차장이 맡아 진행하기로 했다.&lt;br&gt;&lt;br&gt;이 차장은 회의에서 “민생치안 확립을 위해 맡은 바 직무에 최선을 다하라”고 지휘관들에게 주문했다. 이와 함께 민생침해범죄 단속 및 겨울철 재난 상황 대비 등 주요 치안 현안도 논의된 것으로 전해졌다.&lt;br&gt;&lt;br&gt;경찰청은 비상계엄 사태 당시 국회 출입 통제에 관여했던 목현태 국회경비대장을 직무에서 배제할 방침이라고 밝혔다.&lt;br&gt;&lt;br&gt;아울러 경찰은 비상계엄 사태와 관련된 모든 의혹을 해소하기 위해 국가수사본부 특별수사단 주도로 철저한 수사를 진행하겠다는 입장을 밝혔다.&lt;br&gt;&lt;br&gt;경찰청 관계자는 “헌법과 법률에 따라 철저히 정치적 중립을 지키고, 국민의 안전과 일상 회복을 위해 흔들림 없이 임무를 수행하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>제주~중국 직항노선 늘어난다...관광업계 순풍 기대</title>
-      <link>https://www.chosun.com/national/regional/2024/12/12/SMFS6NY5BBGYBISGMGPJW7FGUY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/12/12/SMFS6NY5BBGYBISGMGPJW7FGUY/</guid>
-      <dc:creator>제주=오재용 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 11 Dec 2024 00:59:41 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IFYR2NVNXNLP3NHRXBEMCHCZ7I.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;제주에 올가을 첫눈이 지난달 내린 27일 오전 한라산국립공원 1100고지 휴게소에서 외국인 관광객들이 설경을 즐기고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;관광 비수기인 동절기에도 중국 항공사를 중심으로 제주~중국 직항노선이 본격적으로 확대되고 있어 관광객 유치에 순풍이 불고 있다.&lt;br&gt;&lt;br&gt;11일 제주 관광업계에 따르면 제주항공이 지난 11월 잠정 중단했던 제주~베이징 직항노선(주 4회)을 지난 9일부터 재개했다. 중국 국적사인 심천항공은 오는 18일부터 제주~심천(선전) 노선 운항을 주 3회 재개한다. 하문항공도 오는 24일부터 제주~푸저우 노선(주 2회)을 다시 운항할 예정이다.&lt;br&gt;&lt;br&gt;또 기존 제주~상하이 노선을 주 3회 운항 중인 길상항공은 오는 15일부터 매일 2회 운항으로 확대한다.&lt;br&gt;&lt;br&gt;내년에는 중국 국영 항공사인 남방항공이 늘어난 관광수요를 충족하기 위해 제주~장춘노선을 1월2일부터 주 2회 운항하며, 춘추항공이 1월10일부터 제주~광저우 노선(주 3회)을 재개할 예정이다.&lt;br&gt;&lt;br&gt;이에 따라 제주와 중국을 잇는 직항노선은 모두 12개 도시로 확대되며, 주당 왕복 18편이 늘어나 모두 주 112회 운항 예정이다.&lt;br&gt;&lt;br&gt;제주 여행업계 관계자는 “겨울철은 날씨 영향을 많이 받아 전통적으로 관광업계 비수기임에도 최근 중국정부의 한국인 비자면제 등의 결정으로 한중 관계 개선 분위기가 무르익으며 중국 국적사를 중심으로 제주 직항노선을 확대하는 것 같다”며 “그동안 중국 정부의 눈치를 보던 중국 교류단체 등의 관광도 이어질 것으로 기대된다”고 밝혔다.&lt;br&gt;&lt;br&gt;이 처럼 중국 직항노선(주 112회)이 확대되면서 기존에 운항 중인 일본 도쿄, 오사카, 대만 타이페이, 싱가포르 노선까지 더하면 제주공항 국제선은 총 16개 도시, 주 145회 운항될 예정이다. 이는 제주 외국인 관광 최대 성수기였던 2016년 주 160여회와 비교해 90% 정도 회복한 셈이다.&lt;br&gt;&lt;br&gt;제주 여행업계 관계자는 “중국 국적사를 중심으로 제주 직항노선을 확대하는 것은 이번 겨울부터 중국 내 제주관광 수요가 폭발적으로 늘어날 것으로 판단한 것으로 보여진다”며 “특히 2016년 수준까지 국제 직항노선이 회복돼 제주 관광업계에 순풍이 불 것으로 기대된다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>경주 앞바다서 전복된 금광호 예인 도중 밧줄 끊겨…해경 “침몰 추정”</title>
-      <link>https://www.chosun.com/national/regional/2024/12/12/HCAJGIHPCFGVVILBGUSOESHP5M/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/12/12/HCAJGIHPCFGVVILBGUSOESHP5M/</guid>
-      <dc:creator>경주=노인호 기자, 권광순 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 11 Dec 2024 00:25:22 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SHR5J6R23RAS7G24E5FOY4TU3U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경북 감포 앞바다에서 모래운반선과 충돌해 7명이 숨지고, 1명이 실종된 어선 금광호가 지난 10일 예인 도중 밧줄 끊어지면 사라졌다. 해경은 침몰된것으로 추정하고 수색 중이다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경주 앞바다에서 모래운반선과 충돌 후 전복된 29t급 어선 금광호가 경주 감포항으로 예인 중 예인선과 연결된 줄이 끊기며 사라졌다.&lt;br&gt;&lt;br&gt;지난 9일 오전 5시 43분쯤 경북 경주시 감포읍 감포항 남동쪽 약 6㎞ 바다에서 울산에서 울진으로 향하던 모래 운반선 태천2호(승선원 10명)와 감포항으로 돌아가던 어선 금광호(승선원 8명)가 충돌했다. 이 사고로 금광호가 전복되면서 7명은 모두 숨지고, 1명은 실종 상태다.&lt;br&gt;&lt;br&gt;11일 포항 해양경찰서에 따르면 전날인 10일 오후 7시 6분쯤 경북 경주시 감포항 북동방향 34.2㎞ 지점에서 금광호와 190t 예인선을 연결했던 예인색(줄)이 끊어졌다. 해경 관계자는 “5시간 동안 10㎞정도만 이동했을 정도로 조심했지만, 줄이 끊어졌다”고 설명했다.&lt;br&gt;&lt;br&gt;예인 줄이 끊긴 이후 해경은 경비 함정을 동원해 3시간가량 바다에 빠진 선박을 수색했으나 발견하지 못했으며, 이날 오전 헬기와 드론 등 항공장비를 동원해 수색작업을 재개했다.&lt;br&gt;&lt;br&gt;포항 해양경찰서 관계자는 “만약 침몰로 확인되면 수심이 너무 깊어 인양은 불가능하다”고 말했다. 금광호가 침몰했을 경우로 추정되는 지역의 수심 약 1000m 정도다.&lt;br&gt;&lt;br&gt;금광호는 지난 9일 모래운반선이 금광호 선미를 추돌하면서 전북됐다. 이 사고로 80대 선장 등 7명이 선내에서 심정지 상태로 발견됐고, 외국인 어선 1명도 실종 상태다. 해경은 실종자도 선내에 있을 것으로 추정하고, 이탈방지망과 침몰 방지용 부력재인 리프팅백 3개 등을 설치한 뒤 오후 2시 10분부터 감포항으로 예인을 시작했었다.&lt;br&gt;&lt;br&gt;한편 해경은 조타실에서 레이더 등 항해장비를 활용한 전방 상황에 주의를 기울이지 않고 운항한 혐의(업무상과실치사 및 업무상과실선박전복)로 모래운반선 항해사 A(68)씨에 대해 11일 구속영장을 신청했다. 해경은 자동선박식별장치(AIS) 항적 및 선원 진술 등을 바탕으로 모래운반선이 우측 선수부로 금광호 좌측 선미부를 추돌한 사실을 확인했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘내란 혐의’ 경찰청장·서울청장 긴급체포</title>
-      <link>https://www.chosun.com/national/national_general/2024/12/11/XQBXSDR6ABEUPKWZJLU7PZEPTM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/11/XQBXSDR6ABEUPKWZJLU7PZEPTM/</guid>
-      <dc:creator>구아모 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 10 Dec 2024 21:11:43 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/T67FIJLDLJYXCCX6VDYMZQEKQE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이상민 행정안전부 장관, 조지호 경찰청장, 김봉식 서울경찰청장(오른쪽부터)이 5일 오전 서울 여의도 국회에서 열린 비상계엄 관련 행정안전위원회 전체회의에 자리해 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘12·3 비상계엄 사태’를 수사하는 경찰 국가수사본부 특별수사단이 당시 국회 출입 통제에 관여한 조지호 경찰청장과 김봉식 서울경찰청장에 대한 조사를 마치고 11일 새벽 긴급체포했다. 수사단은 이날 오전 3시 49분쯤 “조 청장, 김 청장을 내란 혐의로 긴급체포했다”고 밝혔다.&lt;br&gt;&lt;br&gt;조 청장이 전날인 10일 오후 4시부터 서울경찰청 마포청사에서, 김 청장은 오후 5시 30분부터 서대문 경찰청에 출석해 조사받은 뒤 각각 11시간, 10시간여만이다. 현직 경찰 수뇌부가 동시에 긴급 체포 된 것은 이례적인 일이다.&lt;br&gt;&lt;br&gt;조 청장과 김 청장은 지난 3일 비상계엄 사태 당시 국회 전면 출입 통제를 지시한 혐의를 받는다. 조 청장은 방첩사령부의 요청에 따라 중앙 선거관리위원회에 경찰을 배치해 계엄군에게 협조했다는 혐의도 있다.&lt;br&gt;&lt;br&gt;수사단은 조 청장, 김 청장으로부터 휴대전화를 임의제출 형식으로 제출받아 압수했고 이들을 출국금지했다. 국회와 선관위 등 현장에 출동한 무전 기록도 분석해왔다. 수사단은 추가 조사를 거쳐 구속 영장 신청 여부를 결정할 예정이다. 체포 시점 48시간 이내에 구속영장을 청구하지 않거나 법원에서 발부받지 못한 경우 피의자를 석방해야한다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[단독] 검찰 “尹, 포고령 직접 수정”… 사실상 ‘내란 정점’ 판단</title>
