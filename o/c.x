@@ -13,6 +13,85 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>이학영·조해주도 포함...첫 체포 명단 14명이었다</title>
+      <link>https://www.chosun.com/national/court_law/2024/12/13/ORBJ7NWIJ5BJLIDVPRFGOUGJ5U/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/13/ORBJ7NWIJ5BJLIDVPRFGOUGJ5U/</guid>
+      <dc:creator>유종헌 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 13 Dec 2024 12:08:30 +0000</pubDate>
+      <content:encoded>‘12·3 비상계엄’ 사태의 핵심인 여인형 전 방첩사령관이 “우원식 국회의장, 한동훈 국민의힘 대표, 이재명 더불어민주당 대표를 최우선으로 체포하라”고 참모들에게 지시한 정황을 검찰이 구속영장에 적시한 것으로 확인됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/T44LMNHRROVWMEQYZCTARICHZE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;여인형 전 국군방첩사령관. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰 비상계엄 특별수사본부(본부장 박세현 서울고검장)는 13일 여 전 사령관에 대해 내란 중요 임무 종사 및 직권남용 혐의로 구속영장을 청구하면서 이 같은 내용을 적시했다.&lt;br&gt;&lt;br&gt;여 전 사령관은 윤석열 대통령이 비상계엄을 선포한 직후인 지난 3일 오후 10시 27분쯤 김용현 전 국방부 장관에게 “14명을 체포하라”는 지시를 받았다. 체포 대상은 우 의장, 한 대표, 이 대표를 비롯해 이학영 국회부의장, 박찬대 민주당 원내대표, 조국 조국혁신당 대표, 조해주 전 중앙선거관리위원회 상임위원, 김민석 민주당 최고위원, 김명수 전 대법원장, 권순일 전 대법관, 양정철 전 민주연구원장, 김민웅 촛불행동 대표(김민석 의원 친형), 유튜버 김어준씨, 양경수 민주노총 위원장이라고 검찰은 적시했다.&lt;br&gt;&lt;br&gt;여 전 사령관은 김 전 장관으로부터 전달받은 체포 명단을 김대우 전 방첩사 수사단장에 전달하면서 “체포하라”고 지시했다. 이후 국회에 국회의원들이 집결하면서 비상계엄 해제 요구 결의안 가결이 임박하자 여 전 사령관은 김 전 단장에게 재차 연락해 “우 의장, 한 대표, 이 대표를 최우선으로 체포하라”고 요구했다. 이 같은 요구가 전달된 시점은 4일 0시 40분이었다. 국회는 같은 날 1시 2분 계엄 해제 요구안을 가결시켰다.&lt;br&gt;&lt;br&gt;검찰은 구속영장에 “여 전 사령관이 윤 대통령, 김 전 장관 등과 공모해 국회, 국회의원, 선관위의 권능행사를 불가능하게해 국헌문란을 목적으로 폭동을 일으켰다”고 적시한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;여 전 사령관은 이날 “국민 여러분들께 큰 불안과 심려를 끼쳐드린 점 깊이 사과드린다”면서 영장실질심사 출석을 포기하겠다고 밝혔다. 여 전 사령관의 영장실질심사는 오는 14일 오후 3시 30분 중앙지역군사법원에서 열린다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>경찰청장·서울청장 초유의 동시 구속</title>
+      <link>https://www.chosun.com/national/court_law/2024/12/13/EL3BNOHZE5HTXDQBDLI7O5JPSI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/13/EL3BNOHZE5HTXDQBDLI7O5JPSI/</guid>
+      <dc:creator>박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 13 Dec 2024 13:03:12 +0000</pubDate>
+      <content:encoded>‘비상계엄 사태’에 가담했던 조지호 경찰청장과 김봉식 서울경찰청장이 13일 내란 혐의로 구속됐다. 경찰 최고위직 2명이 동시에 구속된 것은 이례적이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ICFNWK7OKZPPDAENOXPAF3CKMI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;12·3 비상계엄 사태 관련 내란죄로 고발된 조지호(왼쪽) 경찰청장과 김봉식 서울경찰청장 /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지법 남천규 영장전담 부장판사는 이날 조·김 청장에 대한 실질심사를 진행한 뒤 “증거를 인멸할 염려가 있다”며 구속영장을 발부했다.&lt;br&gt;&lt;br&gt;조·김 청장은 지난 3일 비상계엄 사태 당시 경찰을 동원해 국회 출입을 통제하면서, 국회의원들이 계엄 해제 결의를 위해 국회에 모이지 못하도록 못하도록 한 혐의를 받는다.&lt;br&gt;&lt;br&gt;조·김 청장은 계엄 선포 3시간 전에 서울 삼청동 안전가옥에서 윤석열 대통령, 김용현 전 국방장관을 만났고, 이 자리에서 윤 대통령으로부터 ‘계엄 작전 지휘서’를 받은 것으로 조사됐다. 조 청장은 계엄 선포 이후 윤 대통령에게 “국회의원을 체포하라”는 지시를 전화로 6차례 받은 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>폐지 주워 모은 전재산, 이웃 돕고 하늘의 별 된 하말돌 할아버지</title>
+      <link>https://www.chosun.com/national/national_general/2024/12/13/XCSXR6BYVBD7DPFD4CBVPV32OE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/13/XCSXR6BYVBD7DPFD4CBVPV32OE/</guid>
+      <dc:creator>의성=이승규 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 13 Dec 2024 11:37:14 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BMQZCFKNFJCGJLGUPTXJCJTSQ4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;故 하말돌 할아버지. /의성군&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“돌아보면, 모두 감사한 이들뿐이다. 다들 내를 많이 챙깄다.”&lt;br&gt;&lt;br&gt;지난 8일 세상을 떠난 하말돌(76) 할아버지가 남긴 말이다. 수년간 폐지를 주우며 한 푼 두 푼 모은 500만원도 조카에게 건넸다. “내도 마지막으로 어려운 사람들 도와야 안 되겠나.” 하씨가 요양병원에 들어가기 전까지 매주 안부 전화를 걸었던 경북 의성군 의성읍 공무원들은 그의 유언과 함께 돈을 전달받고 눈시울을 붉혔다.&lt;br&gt;&lt;br&gt;13일 의성군 등에 따르면, 경남 창녕 출신인 하씨는 일찍 부모를 여의고 초등학교도 졸업하지 못했다. 어린 시절 소아마비를 앓아 걸음걸이가 불편했다. 젊은 시절엔 읍내에서 짐을 나르며 돈을 벌었고, 50대 이후엔 손수레를 끌며 폐지를 주웠다.&lt;br&gt;&lt;br&gt;한평생 넉넉지 못했다. 폐지로 버는 돈이 얼마 되지 않아 2000년 기초생활수급자로 등록됐다. 그래도 매일 곳곳을 누비며 성실히 폐지를 주웠다. 의성읍 관계자는 “기초생활수급비를 허투루 쓰지 않기 위해 변변한 옷 한 벌 사지 않던 분”이라고 했다.&lt;br&gt;&lt;br&gt;늘 홀로 지내는 하씨를 의성읍 ‘찾아가는 보건복지팀’ 직원들이 살뜰히 챙겼다. 매주 전화를 걸어 “아픈 곳은 없느냐”고 안부를 물었고, 일주일에 두 번은 도시락을 가져다줬다. 이웃들도 하씨가 끄는 손수레를 보면 얼른 다가가 끌어줬다고 한다. 조카 성모씨는 “삼촌께서 ‘평생을 가족 없이 살았지만 외롭지 않았다. 나를 도와주는 사람이 이렇게나 많다’고 자랑하셨다”고 했다.&lt;br&gt;&lt;br&gt;작년 10월 병마가 찾아왔다. 위암 말기 판정을 받은 하씨는 “제발 수술을 받자”는 복지팀 직원들의 권유에도 치료를 거부했다. 의성읍 신위자 주무관은 “주변에서 아무리 말려도 ‘운동 삼아 하는 것’이라며 폐지를 주우러 다니시더라”고 했다.&lt;br&gt;&lt;br&gt;결국 병세가 악화해 지난 11월 요양병원에 입원한 하씨는 조카 성씨에게 전 재산이 든 통장을 맡겼다. 하씨는 “도움을 많이 받고 살았으니, 이번엔 내가 남을 돕겠다. 장례를 치르고 남은 돈을 어려운 이웃을 써 달라”고 당부했다고 한다.&lt;br&gt;&lt;br&gt;성씨는 장례를 치른 뒤 500만원을 의성읍에 전달했다. 의성읍 황병호 복지팀장은 “어르신의 귀한 뜻을 받아 이 기부금을 어려운 이웃을 위한 복지 사업에 쓸 것”이라고 했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/43SKAUQ5SFHGXNVFEAYAHTRHGA.jpg?width=282&amp;height=212&amp;auth=221e415c009a3ef10c12d37d10056930533fabfcd90cad3eb663157a0535a683&amp;smart=true" type="image/jpeg" height="212" width="282">
+        <media:description type="plain">하말돌씨/의성군</media:description>
+        <media:credit role="author" scheme="urn:ebu"/>
+      </media:content>
+    </item>
+    <item>
+      <title>검찰 특수본, 이진우 전 수도방위사령관 체포</title>
+      <link>https://www.chosun.com/national/court_law/2024/12/13/YFJTGQWY6JFSDPCA2LA327IVMU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/13/YFJTGQWY6JFSDPCA2LA327IVMU/</guid>
+      <dc:creator>이슬비 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 13 Dec 2024 12:39:39 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BBRVXDLPEZNQLHDAAQ3I6SCOK4.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;이진우 수도방위사령관이 10일 오전 국회 국방위원회 전체회의에 출석하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘12·3 비상계엄’ 사태를 수사 중인 검찰 특별수사본부가 13일 내란 및 직권남용 등 혐의로 이진우 전 수도방위사령관을 체포했다. 특수본은 이날 “오늘 저녁 이 전 사령관을 영장에 의해 체포했다”고 밝혔다.&lt;br&gt;&lt;br&gt;검찰 특수본은 전날 수도방위사령부(수방사)와 이 전 사령관의 자택 등을 압수수색했다. 수방사는 지난 3일 윤석열 대통령이 비상계엄을 선포한 서울 여의도 국회의사당에 병력을 투입했다.&lt;br&gt;&lt;br&gt;이 전 사령관은 지난 6일 더불어민주당 김병주·박선원 의원과 만나 계엄 선포 직후인 4일 오전 0시경 작전 중에 윤 대통령으로부터 상황을 묻는 전화를 받았다고 밝혔다. 이 전 사령관은 “윤 대통령이 ‘거기 상황이 어떠냐’고 물어서 ‘굉장히 복잡하고 우리 인원이 이동할 수도 없다’고 답했다”고 했다. 그는 “그랬더니 (윤 대통령이) 가만히 들어보시다가 ‘알겠다’하고 전화를 끊으셨다”고 했다. &lt;br&gt;&lt;br&gt;이 전 사령관은 “YTN 방송을 보고 비상계엄 선포를 알았다”고 했다. 그는 “총기는 차에다 두고 빈 몸으로 내려 임무를 수행하라고 지시했다”며 “장갑차 등은 출동시키지 않았다”고 했다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>여인형, 방첩사 대통령 경호부대에도 국회 투입 요청</title>
+      <link>https://www.chosun.com/national/court_law/2024/12/13/WMPSHQPHFJFXZJM4DHUM2SXMGI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/13/WMPSHQPHFJFXZJM4DHUM2SXMGI/</guid>
+      <dc:creator>유종헌 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 13 Dec 2024 13:02:02 +0000</pubDate>
+      <content:encoded>‘12·3 비상계엄 사태’ 당시 여인형 전 국군방첩사령관이 대통령 경호를 맡는 방첩사 868부대까지 국회에 투입하려 했다는 진술을 검찰이 확보했다.&lt;br&gt;&lt;br&gt;검찰 비상계엄 특별수사본부(본부장 박세현 서울고검장)는 13일 정성우 방첩사 1처장을 소환해 조사하면서 “계엄 당시 여 전 사령관이 중앙선거관리위원회에 투입돼 있던 868부대를 국회로 이동하라고 두 차례 지시했지만 모두 거절했다”는 진술을 확보했다. 868부대는 윤석열 대통령의 외부 행사 경호를 담당하는 방첩사 산하 부대다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SFFCRJ6NRPPE3DWZPX3IRA2OMY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;여인형 전 국군방첩사령관이 7일 오전 서울 여의도 국회에서 열린 정보위원회 전체회의에 출석하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;3일 밤 868부대원 40명은 선관위 과천 청사에 파견된 방첩사 요원들의 신변 보호 임무에 투입된 상태였다고 한다. 당시 방첩사 요원들은 비무장 상태로 선관위에 투입됐는데, 이들의 신변 보호를 위해 868부대원들이 안전 보장 조치를 취한 것이다. &lt;br&gt;&lt;br&gt;그런데 여 전 사령관은 3일 오후 11시 55분 “868 요원들을 국회로 이동시킬 수 있느냐”고 요구한 것으로 전해졌다. 정 전 처장이 “요원 보호를 위해 어렵다”고 했지만 여 전 사령관은 7분 뒤인 4일 오전 0시 2분 재차 비슷한 취지 전화를 했다고 한다. 정 전 처장은 이 요구도 거절했다. &lt;br&gt;&lt;br&gt;여 전 사령관이 국회의원들의 계엄 해제 요구안 가결을 막기 위해 이 같은 부대 이동을 지시했을 가능성이 높다는 해석이 나온다.&lt;br&gt;&lt;br&gt;한편 정 전 차장은 “선관위 서버를 복사하고 통째로 들고 나오라”는 지시를 여 전 사령관에게 받았지만, 법무관 7명 등과 논의한 끝에 이 같은 지시가 위법하다고 결론내리고 임무 중단을 지시한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;정 전 처장은 이날 검찰 조사에서 A4용지 5장 분량의 ‘타임 테이블’을 검찰에 제출했다고 한다. 여기엔 여 전 사령관이 정 전 처장에게 내린 지시, 정 전 처장이 법무관 등과 논의한 내용이 구체적으로 담긴 것으로 전해졌다.&lt;br&gt;&lt;br&gt;한편 정 전 처장은 “여 전 사령관이 계엄 전 부정선거를 주장하는 극우 유튜버들의 주장을 정리해달라”는 취지의 진술도 검찰에 한 것으로 전해졌다. &lt;br&gt;&lt;br&gt;검찰은 여 전 사령관에 대해 내란 중요 임무 종사, 직권남용 권리행사 방해 혐의를 적용해 이날 구속영장을 청구했다. 영장실질심사는 14일 오후 3시30분 중앙지역군사법원에서 열린다. 여 전 사령관은 “국민 여러분들께 큰 불안과 심려를 끼쳐드린 점 깊이 사과드린다”면서 영장실질심사 출석을 포기하겠다고 밝혔다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>이별 통보한 연인의 카페 차로 들이받고 살해한 50대</title>
+      <link>https://www.chosun.com/national/regional/chungcheong/2024/12/13/4QNX3SDUUNFPNPYDZPZREBWNZE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2024/12/13/4QNX3SDUUNFPNPYDZPZREBWNZE/</guid>
+      <dc:creator>김석모 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 13 Dec 2024 12:01:26 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NEB72YMFAVHRJKGS7DXJM5DJ5A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원 로고. /조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이별을 통보한 여자친구의 카페를 차로 들이받은 후 여자친구에게 흉기를 휘둘러 살해한 50대에게 법원이 징역 20년을 선고했다.&lt;br&gt;&lt;br&gt;청주지법 충주지원 형사1부(재판장 김룡)는 살인·특수재물손괴 등의 혐의로 구속 기소된 A(50대)씨에게 징역 20년을 선고했다고 13일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 7월 20일 오후 6시 17분쯤 여자친구 B(50대)씨가 운영하는 충북 충주시의 한 카페를 자신의 SUV차량으로 들이받았다. 이어 A씨는 카페에 있던 B씨에게 10여차례 흉기를 휘둘러 숨지게 한 혐의를 받는다. 당시 카페는 문을 닫은 상태로 다른 손님들은 없었던 것으로 알려졌다.&lt;br&gt;&lt;br&gt;인천에 거주하는 A씨는 당일 B씨에게 이별을 통보받자 흉기를 챙겨와 범행을 저지른 것으로 밝혀졌다.&lt;br&gt;&lt;br&gt;범행 전날 A씨는 자신의 거주지에서 B씨의 외도를 의심하고 말다툼을 벌이다 폭력을 휘둘렀고, B씨의 휴대전화를 부수거나 가방을 가위로 자르기도 했다.&lt;br&gt;&lt;br&gt;재판부는 “피고인은 이별을 통보했다는 이유로 피해자를 잔혹하게 살해했고 피해자는 극심한 고통 속에 사망에 이르렀을 것”이라며 “이 피해는 어떤 방법으로도 회복될 수 없고 피고인은 피해자의 유족들로부터 용서도 받지도 못했다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/NEB72YMFAVHRJKGS7DXJM5DJ5A.jpg?width=616&amp;height=536&amp;auth=602584e0b3ffac49ae190dddfaf8375fd8ff26c54217000df715a4f2717dc7f9&amp;smart=true" type="image/jpeg" height="536" width="616">
+        <media:description type="plain">법원 로고. /조선DB</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>로그인 된 배우자 계정, 몰래 들어가 사진 염탐…대법 “위법”</title>
+      <link>https://www.chosun.com/national/court_law/2024/12/13/KLC7HL3BG5CRHIYEGQBNGIQVG4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/13/KLC7HL3BG5CRHIYEGQBNGIQVG4/</guid>
+      <dc:creator>박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 13 Dec 2024 11:33:55 +0000</pubDate>
+      <content:encoded>&lt;br/&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VHFRLBUQFFHGJNOKYQZIXHU3OA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/일러스트=박상훈&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이미 로그인이 돼 있더라도, 배우자의 계정에 허락 없이 접속해 사진첩 등을 확인하는 것은 위법이라는 대법원 판단이 나왔다.&lt;br&gt;&lt;br&gt;13일 법조계에 따르면, 대법원 3부(주심 오석준 대법관)는 지난달 14일 정보통신망 이용촉진 및 정보보호 등에 관한 법률(정보통신망법) 위반 혐의로 기소된 A씨에게 일부 무죄를 선고한 원심 판결을 깨고 사건을 수원지법에 돌려보냈다.&lt;br&gt;&lt;br&gt;A씨는 배우자와 별거하며 이혼 소송을 하던 중, 2018년 6월 배우자와 함께 사용하던 노트북에 배우자의 구글 계정이 로그인 돼 있는 걸 발견했다. 이후 2~3일에 걸쳐 배우자의 허락 없이 구글 사진첩에 접근했고, 이 중 사생활이 담긴 사진 일부를 빼내 법원에 소송 자료로 내기도 했다. 이런 혐의(정보통신망 침해 등)로 A씨는 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;1심과 2심은 A씨가 배우자의 구글 사진첩에서 빼낸 사진을 마음대로 법원에 제출한 것은 비밀 침해·누설에 해당해 유죄로 인정했다. 그러나 A씨가 이미 로그인이 돼 있는 배우자의 구글 사진첩에 접속한 것은 불법 침입이 아니라고 판단했다. 2심은 “A씨는 배우자에 의해 이미 구글 계정에 접속돼 있는 상태를 틈타 사진을 탐색했을 뿐, 직접 비밀번호를 입력하여 접속한 것은 아니므로 정보통신망법 위반에 해당하지 않는다”고 했다.&lt;br&gt;&lt;br&gt;그러나 대법원은 원심과 달리 판단했다. 대법원은 “구글은 배우자에게만 비밀번호를 이용해 사진첩에 접근할 권한을 부여한 것”이라며 “배우자 동의 없이 구글 계정에 로그인 돼 있다는 이유로 접속한 것은 서비스 제공자인 구글의 의사에 반해 정당한 권한 없이 접속한 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>여인형, 구속심사 포기 “도리 아니라 판단”</title>
+      <link>https://www.chosun.com/national/national_general/2024/12/13/YIBJFDFQB5EFNGBK7ZSHEU22YI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/13/YIBJFDFQB5EFNGBK7ZSHEU22YI/</guid>
+      <dc:creator>김명진 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 13 Dec 2024 10:58:03 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TJSPDHXOU5KNDINWBHWJFC4Q7A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;여인형 전 국군방첩사령관이 지난 7일 오전 서울 여의도 국회에서 열린 정보위원회 전체회의에 출석하고 있다. /국회사진기자단&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 대통령의 ‘12·3 비상계엄 사태’ 내란 중요 임무 종사 혐의로 구속영장이 청구된 여인형 전 국군방첩사령관은 13일 “제 구속 필요성을 두고 심문에 응하는 것은 국민과 저희 부하 직원들에 대한 도리가 아니라고 판단했다”며 영장실질심사를 포기하겠다고 했다.&lt;br&gt;&lt;br&gt;여 전 사령관은 이날 국방부 출입기자단에 배포한 입장문을 통해 이같이 밝히면서 “앞으로 역사와 현실의 법정에서 제 행동과 결과에 대한 책임을 지겠다”라고 했다.&lt;br&gt;&lt;br&gt;검찰 비상계엄 특별수사본부는 이날 내란 중요 임무 종사, 직권남용 권리행사 방해 혐의로 여 전 사령관에 대한 구속영장을 중앙지역군사법원에 청구했다고 밝혔다. 검찰 특별수사본부 출범 이후 김용현 전 국방부 장관에 이어 두 번째 피의자 신병 확보 시도다. 앞서 구속된 김 전 장관도 “이번 사태와 관련한 모든 책임은 오직 저에게 있다”며 영장실질심사를 포기했었다.&lt;br&gt;&lt;br&gt;검찰에 따르면 여 전 사령관은 윤 대통령, 김 전 장관 등과 공모해 국헌문란을 목적으로 폭동을 일으킨 혐의 등을 받는다. 그는 김 전 장관의 지휘를 받아 계엄 당시 국회와 중앙선거관리위원회에 방첩사 요원들을 보내고 여야 대표 등 주요 인사의 체포와 선관위 서버 확보를 지시한 것으로 알려졌다. 김 전 장관과 여 전 사령관은 윤 대통령과 같은 충암고 출신이다.&lt;br&gt;&lt;br&gt;이와 관련 여 전 사령관은 입장문에서 “국민 여러분께 큰 불안과 심려를 끼쳐드린 점 깊이 사과드린다”며 “지휘관인 저를 믿고 명령을 따른 부하들에게 씻을 수 없는 어려움을 초래한 데 대하여도 깊은 책임을 통감한다”고 했다.&lt;br&gt;&lt;br&gt;여 전 사령관은 “지난 12월 3일 (김용현 전) 장관의 명을 받고, 명령을 이행해야 한다는 의무감과 이로 인해 빚어질 제반 결과 사이에 심각하게 고민했으나, 결국 군인으로서, 지휘관으로서 명령을 따랐다”며 “저의 판단, 행위와 그 결과에 대한 책임을 엄중하게 받아들이며 그에 대한 법적책임을 온전히 지겠다”고 했다.&lt;br&gt;&lt;br&gt;여 전 사령관은 “하지만, 저를 믿고 비록 수동적으로나마 명령을 이행해야만 했던 부하들은 최대한의 선처와 관용을 베풀어 주시기를 바란다”며 “앞으로 진행될 수사와 재판 과정에서 제가 이번 일에 임하게 된 마음과 여러 조치에 대해서는 성실히 임해 소상히 말씀드리겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>‘유재수 감찰 무마’ 징역 10개월 백원우, 남부교도소 수감</title>
       <link>https://www.chosun.com/national/court_law/2024/12/13/FUSIXU2CT5FXVECVKXWLUPDAUY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/13/FUSIXU2CT5FXVECVKXWLUPDAUY/</guid>
@@ -855,24 +934,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BK2LU6QCSRL3XIYSL4HI26BQGE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;심우정 검찰총장이 지난 10일 오전 서울 서초구 대검찰청으로 출근하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰이 ‘12·3 비상계엄 사태’ 수사와 관련해 고위공직자범죄수사처(공수처)의 사건 이첩 요구를 사실상 거부했다.&lt;br&gt;&lt;br&gt;심우정 검찰총장은 11일 국회 법사위에 낸 불출석 사유서에서 “지난 8일 공수처로부터 사건 이첩 요청을 받았으나, 관련 법률 요건에 부합하지 않는다고 판단했다”라며 “지난 9일 공수처와 이첩 관련 협의를 실시하면서 검찰의 수사 진행 정도 등을 고려할 때 이첩 요청을 유지하는 것이 적절한지 재검토해 줄 것을 요청했다”고 밝혔다. 이런 내용은 더불어민주당 소속 정청래 국회 법제사법위원장이 이날 법사위에서 심 총장의 불출석 사유서를 일부 공개하면서 알려졌다.&lt;br&gt;&lt;br&gt;심 총장은 “지난 6일 검찰 특별수사본부가 출범한 직후 경찰 국가수사본부에 합동수사본부를 구성하자고 제안했지만, 경찰이 이를 거절했다”며 “현재까지 공수처와 협의에 이르지 못하고 지난 9일 경찰 국가수사본부와 공수처에 동시에 공문을 발송해 협의회 개최를 제안한 상태”라고 했다. 검찰의 협의회 개최 요청에 10일 각 기관이 참여 의사를 밝혔고, 각 기관은 참석자와 일시를 조율 중이다.&lt;br&gt;&lt;br&gt;공수처는 공수처법 24조 1항을 근거로 검찰과 경찰에 계엄 사건을 넘겨달라고 요구하고 있다. 해당 조항은 ‘수사처의 범죄수사와 중복되는 다른 수사기관의 범죄수사에 대하여 처장이 수사의 진행 정도 및 공정성 논란 등에 비추어 수사처에서 수사하는 것이 적절하다고 판단하여 이첩을 요청하는 경우 해당 수사기관은 이에 응해야 한다’고 돼 있다.&lt;br&gt;&lt;br&gt;그러나 검찰은 수사의 진행 정도 등에 비춰볼 때 공수처의 이첩 요구가 법률 요건에 맞지 않는다고 판단한 것으로 전해졌다. 검찰 특별수사본부의 수사가 상당히 진전된 상황이라는 점을 고려한 것으로 해석된다. 검찰 특별수사본부는 비상계엄 사태 핵심 인물인 김용현 전 국방부 장관에 대한 구속영장을 청구해 10일 발부 받았고, 이날도 김 전 장관을 소환해 조사하고 있다.&lt;br&gt;&lt;br&gt;심 총장은 법사위에 출석하지 못하는 이유에 대해서는 “공범들에 대한 수사가 동시에 진행 중인 상황에서 해당 수사를 총괄 지휘하는 검찰총장이 국회에 출석해 범죄 수사 및 소추에 관한 사항에 대해 증언할 경우 수사에 영향을 줄 수 있다”고 밝혔다.&lt;br&gt;&lt;br&gt;이어 “검찰은 국가적 위기와 혼란을 불러온 이번 사건의 엄중함에 대해 깊이 인식하고 있으며 일체의 다른 고려 없이 최대한 신속하고 엄정하게 수사를 진행할 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>검찰, ‘티몬·위메프 사태' 구영배·류광진·류화현 불구속 기소</title>
-      <link>https://www.chosun.com/national/court_law/2024/12/11/TMZC7YS2EFG3JM52AH3KU7NOEI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/11/TMZC7YS2EFG3JM52AH3KU7NOEI/</guid>
-      <dc:creator>유종헌 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 11 Dec 2024 07:05:48 +0000</pubDate>
-      <content:encoded>티몬·위메프(티메프)의 대규모 미정산 사태를 수사한 검찰이 11일 구영배 큐텐 대표와 류광진 티몬 대표, 류화현 위메프 대표를 불구속 상태로 재판에 넘겼다.&lt;br&gt;&lt;br&gt;서울중앙지검 전담수사팀(팀장 이준동 반부패수사1부장)은 이날 구 대표와 류광진·류화현 대표를 특정경제범죄 가중처벌법상 배임·횡령·사기 혐의로 불구속 기소했다고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ODSVT7DI36OFATMXI57LHDPTFQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;티몬·위메프(티메프)의 판매 대금 미정산 사태의 핵심 피의자인 구영배 큐텐그룹 대표(왼쪽부터), 류광진 티몬 대표, 류화현 위메프 대표. / 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김동식 인터파크커머스 대표, 김효종 큐텐테크 대표, 이시준 큐텐테크 재무본부장 등 경영진 7명도 이들과 함께 기소됐다.&lt;br&gt;&lt;br&gt;구 대표와 류광진·류화현 대표는 상품권, 물품 등을 정상적 거래할 수 있는 것처럼 판매자를 기망해 1조8500억원 상당의 정산대금을 가로챈 혐의를 받는다. 또 대여금이나 컨설팅 비용, 미국 전자 상거래 회사 ‘위시’ 인수대금 등 명목으로 계열사 자금 1100억여원을 가로챈 혐의도 있다. 큐텐의 물류 자회사인 큐익스프레스의 나스닥 상장을 목적으로 계열사 일감을 몰아줘 티몬·위메프·인터파크커머스에 727억원의 손해를 끼친 혐의도 받는다.&lt;br&gt;&lt;br&gt;검찰은 구 대표가 경영난에 처한 큐텐의 존속과 큐익스프레스의 나스닥 상장 등을 목적으로 무자본으로 티메프를 인수, 자금을 유출할 계획을 세웠다고 판단했다. 이에 구 대표가 티메프의 정산용 보유 자금을 개인 금고처럼 큐텐으로 유출했다는 것이 검찰 시각이다.&lt;br&gt;&lt;br&gt;구 대표가 티메프 인수 당시 계획대로 자금을 유출하면서 티메프는 영업손실이 누적됐고, 2023년 12월부터는 두 회사가 함께 정산 지연 사태를 겪는 등 언제든 정산 불능 상황이 생겼다고 한다. 결국 올해 정산 불능 사태가 터지면서 티메프는 피해자 33만명에게 1조8563억원을 받고, 그중 1조5950억원은 정산해주지 못하게 됐다고 검찰은 판단했다.&lt;br&gt;&lt;br&gt;구 대표는 검찰에서 “신생 법인을 일으켜 피해를 변제하겠다”고 했지만 검찰은 “구체적 변제계획은 없었다”고 했다.&lt;br&gt;&lt;br&gt;또 티몬이 금융감독원에 미정산 잔액을 10분의 1 이상 축소해 허위보고 하고, 별도계좌 예치 확약도 위반하는 등 악화한 재무 상태를 은폐하기 위해 언론 등에 거짓말을 했다고 검찰은 봤다.&lt;br&gt;&lt;br&gt;검찰은 구 대표와 류광진·류화현 대표에 대해 두 차례 구속영장을 청구했지만 모두 기각됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘세 모녀 전세 사기’ 母 2심서 징역 25년→15년 감형</title>
-      <link>https://www.chosun.com/national/court_law/2024/12/12/YERVXTZLBFBCXL3HIKIGSFKQQY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/12/YERVXTZLBFBCXL3HIKIGSFKQQY/</guid>
-      <dc:creator>방극렬 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 12 Dec 2024 12:47:24 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6JDP343BQ5OJ7M6SD2Q4HDEFPI.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;서울 강서구 화곡동의 다세대 주택 단지 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 강서구·관악구 등 수도권 빌라를 전세를 끼고 딸들 명의로 사들인 뒤, 세입자의 보증금을 가로챈 이른바 ‘세 모녀 전세 사기단’ 사건의 주범인 모친이 2심에서 감형을 받았다.&lt;br&gt;&lt;br&gt;서울중앙지법 형사항소9부(재판장 이성복)는 12일 사기 등 혐의로 기소된 김모씨에게 징역 15년을 선고했다. 김씨는 두 건의 전세 사기 사건으로 기소됐는데, 1심에서 각각 징역 10년과 징역 15년을 선고받았다. 2심에서 두 사건이 병합됐는데 형량이 10년 감형된 것이다.&lt;br&gt;&lt;br&gt;김씨에게 명의를 빌려준 두 딸 역시 각각 1심 징역 2년에서, 징역 1년 6개월에 집행유예 3년으로 감형됐다. 함께 기소된 분양대행업체 관계자 4명 역시 형량이 줄었다.&lt;br&gt;&lt;br&gt;재판부는 “다른 전세 사기 사건과 비교해도 피해액 규모가 상당하다”며 “피해자 대부분이 사회 초년생이고, 임대차 경험이 별로 없는 사람들로 보증금이 재산의 대부분이거나 전부였다”고 지적했다. 세 모녀 전세 사기단의 범행으로 피해를 본 세입자는 355명, 피해 액수는 795억원에 달한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;다만 김씨 등이 리베이트로 받은 금액이 보증금보다 상당히 적고, 상당수 피해자는 주택도시보증공사(HUG)와의 보증계약을 통해 피해 금액을 변제받는 등 피해 복구가 가능한 점을 참작해 감형했다고 설명했다. 재판부는 “피해자들의 경제적 손해가 실질적으로 회복됐다면 양형에 참작하지 않을 수 없다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>SPC 허영인 회장 ‘주식 저가 매각’ 대법서 무죄</title>
       <link>https://www.chosun.com/national/court_law/2024/12/12/STEUW2UIABH5RJRPXPQRQY5VOA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/12/STEUW2UIABH5RJRPXPQRQY5VOA/</guid>
@@ -895,15 +956,6 @@
       </media:content>
     </item>
     <item>
-      <title>경찰 “계엄 국무회의, 적법 회의 아니었다면 尹내란죄 입증 수월”</title>
-      <link>https://www.chosun.com/national/2024/12/12/HABXFVYHV5GM7L4RAF3LVSUHJE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2024/12/12/HABXFVYHV5GM7L4RAF3LVSUHJE/</guid>
-      <dc:creator>주형식 기자, 이민준 기자, 구아모 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 12 Dec 2024 08:49:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/O6BKIBHDMNLIZETUBYR5FJFDKU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;12일 서울 남영삼거리 인근에서 윤석열 대통령 탄핵과 국민의힘 해체를 촉구하며 대통령실 방향으로 행진하던 민주노총 등 단체 회원들이 이를 저지하려는 경찰과 대치하고 있다.  /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘12·3 비상 계엄 사태’를 일으킨 윤석열 대통령의 내란·직권남용(형법), 반란(군형법) 혐의를 조사 중인 검찰 특별수사본부는 12일 조규홍 보건복지부 장관을 내란 혐의 피의자 신분으로 소환해 조사했다. 경찰 국가수사본부 특별수사단도 같은 날 ‘계엄 국무회의’에 참석했던 국무위원들을 불러 피의자·참고인 조사를 벌였다.&lt;br&gt;&lt;br&gt;일부 국무위원은 “당시 국무회의가 법적 요건을 갖췄다고 보기 어렵다”는 취지로 진술한 것으로 알려졌다. 현행 계엄법은 대통령의 계엄 선포시 ‘국무회의 심의를 거쳐야 한다’고 명시하고 있다. 경찰 관계자는 “당시 국무회의가 계엄 안건을 심의한 적법 절차가 아니었다고 판단되면 윤 대통령의 계엄 선포는 위법한 것이 된다”며 “그렇게 되면 윤 대통령의 내란죄 입증은 한결 수월해질 수 있다”고 했다.&lt;br&gt;&lt;br&gt;검찰은 이날 조 장관을 상대로 계엄 선포를 처음 알게 된 시점, 국무회의 참석자들이 계엄 선포를 어떻게 반대했는지 등을 확인한 것으로 전해졌다. 한덕수 국무총리는 지난 11일 국회 본회의에서 “보통 국무회의에서 하는 절차적인 것이 잘 밟아지지 않았다”며 “국무위원 회의라고 해야 할지, 정식 국무회의라고 해야 할지는 명확하지 않다”고 했다. 한 총리 등이 당시 국무회의가 정식 회의가 아니라고 밝힌 것이다.&lt;br&gt;&lt;br&gt;송미령 농림축산식품부 장관은 이날 윤 대통령이 국무회의에 2, 3분 정도 참석했다가 밖으로 나갔다고 밝히기도 했다. 오영주 중소벤처기업부 장관도 더불어민주당 김원이 의원실에 제출한 답변서에서 “계엄공고문을 보지 못하였으며, 계엄 관련 심의 내용에 대한 문서를 작성하지 않았다”며 “(계엄 심의) 관련 자료도 보지 못했다”고 했다.&lt;br&gt;&lt;br&gt;1980년 5월 17일 당시에도 계엄공고문이 공개됐고, 여기엔 시행일시와 국무위원들의 서명, 계엄실시 지역과 시기 등이 적혀 있다. 그런데 12·3 비상 계엄 당시 국무회의에 참석한 국무위원들은 관련 문서 서명 등 절차가 없었다고 진술하고 있는 것이다. 행안부는 최근 대통령실과 국방부에 비상계엄 선포 관련 회의록을 요청했지만, 회신 자료에는 속기나 발언 요지가 담겨 있지 않았다. 민주당은 회의록이 제대로 갖춰지지 않은 점을 근거로 계엄 전 국무회의가 국무회의 요건을 충족하지 못한다고 주장하고 있다.&lt;br&gt;&lt;br&gt;한편 검ㆍ경은 계엄군으로 투입된 군에 대한 압수수색에도 속도를 내고 있다. 검찰은 이날 육군 수도방위사령부와 이진우 전 수도방위사령관 자택을 압수 수색했다. 검찰은 또 여인형 전 방첩사령관을 지난 10일에 이어 두 번째로 피의자 신분으로 불러 조사 중이다. 검찰은 여 전 사령관에게서 지난 3일 계엄 선포 직후 박헌수 국방부 조사본부장에게 전화해 “주요 요인 체포·조사 등 방첩 업무에 필요하니 수사관 100명을 국회로 출동시켜달라”고 요청한 정황을 확보한 것으로 전해졌다. 국방부 조사본부는 당시 방첩사로부터 수사관 100명 지원 요청을 네 차례 받았지만 근거가 없다고 판단해 응하지 않았다는 입장이다.&lt;br&gt;&lt;br&gt;경찰은 이날 용산 대통령실 구역에 대한 2차 압수수색을 시도했다. 국방부 조사본부와 함께 김용현 전 국방부 장관이 사용했던 ‘비화폰’과 비화폰의 서버에 대한 압수수색에 착수했다. 비화폰은 도감청·통화녹음 방지 프로그램이 깔린 보안 휴대전화다. 윤석열 대통령과 김 전 장관 등이 계엄 당시 비화폰을 수 차례 쓴 것으로 알려졌다. 또 경찰은 비상계엄 선포 3시간 전쯤 윤 대통령에게 계엄 관련 지시를 받은 조지호 경찰청장과 김봉식 서울경찰청장에 대해 내란 중요임무종사 혐의를 적용해 구속영장을 신청했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>“바리케이드 치워라”…대통령실 향하던 민노총, 경찰과 한때 대치</title>
       <link>https://www.chosun.com/national/national_general/2024/12/12/7RGKHCHGP5FUHD75JJ6PQGP6EM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/12/7RGKHCHGP5FUHD75JJ6PQGP6EM/</guid>
@@ -924,42 +976,6 @@
       <description/>
       <pubDate>Thu, 12 Dec 2024 06:08:26 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MVROYBGNIZFGXBSFPEWI2PFEPQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;박스만 걸친 채 거리를 활보한 여성. /아인 인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;알몸에 박스만 걸친 채 거리를 활보하며 행인들에게 자신의 몸을 만지도록 한 20대 여성이 1심에서 벌금형을 선고받았다.&lt;br&gt;&lt;br&gt;12일 서울중앙지법 형사22단독 하진우 판사는 공연음란 혐의로 기소된 20대 여성 A씨에게 벌금 400만원을 선고했다. 함께 기소된 성인 콘텐츠 제작사 대표 2명에게도 각각 벌금 400만원, 벌금 500만원이 선고됐다.&lt;br&gt;&lt;br&gt;A씨는 지난해 10월 서울 압구정과 홍대 등 번화가를 알몸으로 박스만 걸친 채 활보했다. 특히 A씨는 지나가던 남성들에게 박스 구멍에 손을 넣어 자신의 신체를 만지게 하는 퍼포먼스도 진행했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6SMIXCPLZFE2RNAYJJOTHIFAOU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;박스만 걸친 채 거리를 활보한 여성. /인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;A씨는 자신의 행동이 일종의 행위 예술이었다며 “남자가 웃통을 벗는 건 문제없고, 여자가 웃통을 벗으면 범죄로 치부하는 현실을 비틀고 싶었다”고 주장했다. 이들은 당시 장면을 영상으로 찍어 유튜브 등에 공개했다.&lt;br&gt;&lt;br&gt;재판부는 “이 같은 행위는 충분히 선정적이고, 보통 사람의 성적 상상 및 수치심을 일으킬 수 있다”며 “이들은 인지도를 획득하고 이를 이용한 수익 창출을 목적으로 이 행위를 한 것으로 보인다”고 양형이유를 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[속보] ‘입시비리’ 조국, 징역 2년 확정… 의원직 상실, 대선 출마 못 해</title>
-      <link>https://www.chosun.com/national/court_law/2024/12/12/JO4UCF3DMZBTVESEPYWTAXLE4A/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/12/JO4UCF3DMZBTVESEPYWTAXLE4A/</guid>
-      <dc:creator>방극렬 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 12 Dec 2024 02:46:50 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YCV6DSIAN5LKLNOTZSZYEGPLE4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;조국혁신당 조국 대표가 지난 11일 오전 서울 여의도 국회에서 열린 '3년은 너무길다 특별위원회(탄추위)' 회의에서 위원들의 발언을 경청하며 자료를 살펴보고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;조국 조국혁신당 대표가 자녀 입시 비리와 청와대 감찰 무마 등 혐의로 대법원에서 징역 2년이 확정됐다. 실형(實刑)이 확정된 조 대표는 의원직을 곧바로 잃고 절차에 따라 수감될 예정이다. 5년간 피선거권이 박탈돼 다음 대선에도 출마할 수 없게 됐다.&lt;br&gt;&lt;br&gt;대법원 3부(주심 엄상필 대법관)는 12일 조 대표에게 징역 2년에 추징금 600만원을 선고한 원심 판결을 확정했다. 이른바 문재인 정부 ‘조국 사태’ 이후 조 대표가 두 자녀의 입시 비리, 유재수 전 부산시 경제부시장 감찰 무마 등 혐의로 기소된 지 5년 만이다.&lt;br&gt;&lt;br&gt;대법원은 “원심의 유죄 판단에 증거재판주의, 무죄 추정의 원칙, 공소권 남용, 검사의 객관 의무, 각 범죄 성립에 대한 법리 오해 등으로 판결에 영향을 미친 잘못이 없다”고 밝혔다.&lt;br&gt;&lt;br&gt;조 대표는 딸과 아들의 고교, 대학 입시와 관련해 총 7개 입시 비리를 저지른 혐의를 받았다. 2013년 서울대 공익인권법센터 인턴 증명서를 위조해 딸의 서울대 의전원 입시에 제출하고, 2017년 최강욱 변호사가 준 허위 인턴 확인서를 아들의 고려대·연세대 대학원 입시에 제출한 혐의 등이다. 아들의 조지워싱턴대 온라인 시험을 조 대표 부부가 대리 응시했다는 혐의도 있다.&lt;br&gt;&lt;br&gt;대법원은 이 가운데 6개를 유죄로 판단했다. 조 대표는 “사회 활동을 하느라 자녀들의 입시에 대해 잘 알지 못했다”며 혐의를 부인했지만 받아들여지지 않았다. 입시 비리 혐의로 함께 기소된 조 대표 아내 정경심 전 동양대 교수는 징역 1년에 집행유예 2년을 확정받았다. 정씨는 앞서 다른 자녀 입시 비리 등으로 징역 4년이 확정돼 형을 살다가 가석방됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5EQRWYSVCFNWJBEPYHCMMMSVOU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;조국 조국혁신당 대표와 아내 정경심 전 동양대 교수. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대법원은 조 대표가 청와대 민정수석이던 2017년 김경수 전 경남지사 등 친문(親文) 인사들의 부탁을 받고 특별감찰반에 유재수 전 부시장 감찰 중단 압력을 넣은 직권남용 혐의도 유죄로 인정했다. 딸이 다니던 부산대 의전원에서 장학금으로 600만원을 받은 청탁금지법 위반 혐의도 유죄로 봤다.&lt;br&gt;&lt;br&gt;다만 민정수석 취임 후 코링크 PE사모펀드 등 보유 주식을 처분하지 않은 공직자윤리법 위반 혐의, 이 주식들을 제대로 신고하지 않은 위계 공무 집행 방해 혐의 등은 무죄가 확정됐다.&lt;br&gt;&lt;br&gt;이날 판결에 따라 조 대표는 의원직을 상실하고 1~2일 내로 수감될 전망이다. 검찰은 “형사소송법과 관련 규정에 근거해 통상의 절차에 따라 신속하게 형을 집행할 예정”이라고 밝혔다. 검찰은 조 대표에게 내일까지 서울중앙지검에 출석하라고 통보할 것으로 알려졌다.&lt;br&gt;&lt;br&gt;한명숙 전 국무총리의 경우 2015년 8월 20일 대법원에서 형이 확정됐는데, 검찰과 협의를 거쳐 4일 뒤인 같은 달 24일에 서울구치소로 출석해 형이 집행됐다.&lt;br&gt;&lt;br&gt;금고 이상의 형이 확정된 조 대표는 5년간 피선거권도 제한돼 다음 대선에 출마할 수 없다. 조 대표는 상고심 선고를 앞두고 비상계엄 사태를 이유로 선고 기일을 늦춰달라고 요청했지만 대법원은 이를 받아들이지 않았다. 조국혁신당 관계자는 이날 선고 직후 “법원의 결정에 깊은 유감을 표한다”며 “우리 모두 조국이 되어 조국을 기다리겠다”고 했다.&lt;br&gt;&lt;br&gt;한편, 이날 선고가 이뤄진 대법원 2호 법정에는 엄상필·오석준·이숙연 대법관만 입정해 선고했다. 같은 3부 소속인 이흥구 대법관은 이 사건 합의에 관여하지 않아 판결 및 선고를 하지 않았다. 이 대법관은 지난 2020년 대법관 후보 청문회에서 “(조 대표 사건이 대법원에 오면) 회피를 적극적으로 검토하겠다”고 밝혔다. 이 대법관은 조 대표와 서울대 법대 동기로 친분이 있는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[오늘의 날씨] 2024년 12월 12일</title>
-      <link>https://www.chosun.com/national/national_general/2024/12/12/65ARISI6EFGXLFSBRPK6UBRSEQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/12/65ARISI6EFGXLFSBRPK6UBRSEQ/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 11 Dec 2024 15:30:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/T3SXYKCLVNCZNGRPERQ3GIUU5Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>압수수색 대치 경찰 대통령실 철수 “경호처, 극히 일부자료 제출”</title>
-      <link>https://www.chosun.com/national/national_general/2024/12/11/QW25PBGGXRDYPJ27ONJAK2ZVFI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/11/QW25PBGGXRDYPJ27ONJAK2ZVFI/</guid>
-      <dc:creator>구아모 기자, 고유찬 기자, 장윤 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 11 Dec 2024 10:56:56 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YTWYERJL3D6XP3P3I5R5YK3B7U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;'12·3 비상계엄 사태' 수사를 위해 대통령실 압수수색에 나선 경찰 국가수사본부(국수본) 관계자들이 11일 서울 용산 대통령실 민원실에서 나오고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘12·3 계엄사태’를 수사 중인 경찰이 11일 오후 7시 42분쯤 서울 용산 대통령실에서 일부 자료를 임의제출 받고 철수했다. 경찰이 대통령실 압수 수색에 나선 지 7시간만이다.&lt;br&gt;&lt;br&gt;경찰 국가수사본부 특별수사단은 이날 “대통령실에 압수 수색 나간 현장의 경찰 특별수사단이 경호처로부터 자료를 극히 일부 임의제출 받았다”고 밝혔다.&lt;br&gt;&lt;br&gt;이날 수사단은 대통령실 내 국무회의실·경호처·101경비단·합동참모본부 통합지휘실을 압수 수색 하러 나섰다. 경찰은 오전 11시 45분부터 서울 용산 대통령실과 합동참모본부 압수 수색을 위해 진입을 시도했으나 6시간 넘게 대치했다. 경찰과 대통령실은 임의제출할 자료를 두고 논의를 진행했다.&lt;br&gt;&lt;br&gt;압수 수색에 참여한 경찰 관계자는 “윤석열 대통령 내란죄에 대한 압수 수색영장을 발부받았다”며 “사안의 중대성과 직접 알려드린 점을 충분히 설명하고 직접 대통령실 등 장소에 들어가서 요청을 했지만 비밀 등의 이유로 들어가지 못하고 임의제출 받기로 협의했다”고 밝혔다. 수사단은 추가 자료도 확보할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>검찰, ‘비상계엄’ 정성우 전 방첩사 1처장 소환</title>
-      <link>https://www.chosun.com/national/court_law/2024/12/11/X5YR4T3GYJF3NAFN2RZLYO2XCY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/11/X5YR4T3GYJF3NAFN2RZLYO2XCY/</guid>
-      <dc:creator>유종헌 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 11 Dec 2024 08:23:58 +0000</pubDate>
-      <content:encoded>‘12·3 비상계엄' 사태를 수사하는 검찰이 11일 오후 정성우 전 국군방첩사령부 1처장을 소환했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/36DPKCFVQNILLNEJHPIGPMBNLM.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;정성우 전 국군방첩사령부 1처장이 10일 오전 서울 여의도 국회 국방위원회에서 열린 계엄 관련 긴급 현안질의에서 위원 질의에 답하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰 비상계엄 특별수사본부(본부장 박세현 고검장)는 이날 정 전 처장을 불러 조사했다.&lt;br&gt;&lt;br&gt;방첩사는 비상계엄 당시 국회와 중앙선거관리위원회에 요원을 파견했다. 또 여야 대표 등 주요 인사들을 체포해 육군 수도방위사령부 관할 지휘통제 벙커인 B1 벙커에 구금하려 했다는 의혹도 받고 있다.&lt;br&gt;&lt;br&gt;정 전 처장은 지난 10일 국회 국방위원회에 출석해 “여인형 전 방첩사령관이 중앙선거관리위원회 전산실 서버 복사를 지시했다”고 밝혔다.&lt;br&gt;&lt;br&gt;정 전 처장은 당시 법무관 7명과 방첩사 요원의 서버 확보가 적법한지 토의한 끝에 위법하다고 결론 내렸고, 서버 확보 시도를 하지 않았다고 밝혔다.&lt;br&gt;&lt;br&gt;검찰은 정 전 처장이 계엄 당시 여 전 사령관에게 어떤 지시를 받았는지 등을 주로 조사하고 있다. 검찰은 지난 10일 여 전 사령관을 조사했다. &lt;br&gt;&lt;br&gt;한편 특수본은 이날 나승민 방첩사 신원보원실장도 참고인 신분으로 소환했다. 나 실장은 포고령 초안 작성에 관여했다는 의혹을 받고 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>경찰, 대통령실 압수수색 시도... 피의자 ‘대통령 윤석열’</title>
@@ -986,15 +1002,6 @@
         <media:description type="plain">[서울=뉴시스] 조수정 기자 = '12·3 비상계엄 사태' 수사를 위해 대통령실 압수수색에 나선 경찰 국가수사본부(국수본) 관계자들이 11일 서울 용산 대통령실 민원실에서 나오고 있다. (대통령실통신사진기자단) 2024.12.11. chocrystal@newsis.com</media:description>
         <media:credit role="author" scheme="urn:ebu">(서울=연합뉴스) 홍해인 기자 =</media:credit>
       </media:content>
-    </item>
-    <item>
-      <title>행안부 “대통령실, 계엄 선포 국무회의 참석자 발언 요지 없다고 회신”</title>
-      <link>https://www.chosun.com/national/national_general/2024/12/11/5GB2WVCNJ5GMDJ4MGS4YSED3BM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/11/5GB2WVCNJ5GMDJ4MGS4YSED3BM/</guid>
-      <dc:creator>김영우 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 11 Dec 2024 07:22:27 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WV6ZKV63E2BQYPE43PSAP5PMWI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;행정안전부 청사 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;행정안전부가 지난 10일 대통령비서실로부터 ‘비상계엄 선포 국무회의 당시 참석자들의 발언 요지를 가지고 있지 않다’는 내용의 자료를 받았다고 11일 밝혔다.&lt;br&gt;&lt;br&gt;행정안전부는 11일 비상계엄 선포와 해제를 위해 열린 두 차례 국무회의 관련 자료를 대통령비서실로부터 받았다며 회신 내용을 공개했다.&lt;br&gt;&lt;br&gt;행안부가 공개한 내용에 따르면 비상계엄 선포 국무회의는 지난 3일 오후 10시 17분부터 5분간 대통령실 대접견실에서 열렸다. 대통령, 국무총리, 부총리 겸 기획재정부장관, 외교부장관, 통일부장관, 법무부장관, 국방부장관, 행정안전부장관, 농림축산식품부장관, 보건복지부장관, 중소벤처기업부장관 등 11명이 참석했다.&lt;br&gt;&lt;br&gt;회의에는 ‘비상계엄 선포안’이라는 이름의 안건이 올라왔고, 안건 제안 이유는 ‘헌정질서를 유지하기 위해 3일 오후 10시부로 비상계엄을 선포하려는 것’이라고 대통령실은 밝혔다.&lt;br&gt;&lt;br&gt;다만 대통령실은 행안부에 보낸 자료에 비상계엄 선포안의 구체적인 내용을 기재하지 않았고, 참석자들의 발언 요지에 대해선 “보유하고 있지 않다”고 답했다.&lt;br&gt;&lt;br&gt;이와 달리 비상계엄 해제 국무회의에 대해 대통령실은 안건의 내용이 담긴 자료를 행안부에 함께 보냈고, ‘국방부 장관 제안 설명 외 발언 없음’이라는 발언 요지도 기재했다.&lt;br&gt;&lt;br&gt;행안부 관계자는 “비상계엄 선포 관련 자료에는 안건 및 발언요지가 포함돼 있지 않아 추가 요청 중”이라며 “회신받은 공문은 자료 제출 요청에 따라 국회 등에 제출했다”고 말했다.&lt;br&gt;&lt;br&gt;한편 행안부는 국방부에 요청한 비상계엄 선포 관련 자료에 대해선 ‘자료를 작성하지 않았다’는 답을 받았다고 이날 밝혔다. 행안부는 앞서 지난 6일 국방부에도 비상계엄 선포 관련 자료 제출을 요청했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
