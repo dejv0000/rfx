@@ -13,6 +13,42 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>‘유재수 감찰 무마’ 징역 10개월 백원우, 남부교도소 수감</title>
+      <link>https://www.chosun.com/national/court_law/2024/12/13/FUSIXU2CT5FXVECVKXWLUPDAUY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/13/FUSIXU2CT5FXVECVKXWLUPDAUY/</guid>
+      <dc:creator>이슬비 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 13 Dec 2024 10:07:41 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RNLDW74HOJJJJCXLUGJEBRKPAY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;백원우 전 청와대 민정비서관. 지난 9월 10일 오후 서울 서초구 서울고등법원에서 열린 문재인 정부 청와대의 '울산시장 선거 개입 의혹' 사건 2심 결심공판에 출석하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;백원우 전 청와대 민정비서관이 정치권 청탁을 받고 유재수 전 부산시 부시장에 대한 청와대 특별감찰반의 감찰을 무마한 혐의로 징역 10개월을 확정받고 13일 수감됐다. 수원지검 안산지청은 이날 백 전 비서관을 소환한 뒤 남부교도소에 수감했다.&lt;br&gt;&lt;br&gt;‘유재수 전 부산시 부시장 감찰 무마 사건’은 2017년 청와대 민정수석이던 조국 전 조국혁신당 대표와 백원우 당시 민정비서관이 금품 수수 혐의로 특감반의 감찰을 받고 있던 유 전 부시장의 감찰 중단을 지시했다는 내용이다. 친문(親文) 인사들이 백원우 당시 비서관을 통해 선처를 요청한 것으로 조사됐다. 이후 감찰은 중단됐고 유 전 부지사는 국회 전문위원 등으로 자리를 옮겼다. 친문 핵심인 백 전 비서관은 노무현 전 대통령 수행비서 출신인 유 전 부시장과 가까운 사이다.&lt;br&gt;&lt;br&gt;백 전 비서관은 감찰을 중단하도록 압력을 넣은 혐의(직권남용)로 전날 대법원에서 징역 10개월 형이 확정됐다. 1·2·3심 모두 이 혐의를 유죄로 인정했다. &lt;br&gt;&lt;br&gt;법원은 유 전 부시장의 비위 혐의가 상당 부분 드러나 추가 감찰이나 후속 조치가 필요했는데도, 정치권 인사들의 구명 청탁을 들어주기 위해 직권을 남용했다고 판단했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>검찰, 조국 형집행 연기요청 허가…16일 서울구치소 수감</title>
+      <link>https://www.chosun.com/national/court_law/2024/12/13/AUYOCZ62GVEJTFT7KITJZVLZHE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/13/AUYOCZ62GVEJTFT7KITJZVLZHE/</guid>
+      <dc:creator>이슬비 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 13 Dec 2024 09:34:35 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UB5LD6CEKF66765GIZMXBX7ZL4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;조국 전 조국혁신당 대표. / 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰이 조국 전 조국혁신당 대표의 형집행 연기 요청을 13일 받아들이면서 “16일 서울구치소로 출석하라”고 통보했다. 조 전 대표는 14일 윤석열 대통령에 대한 국회의 두 번째 탄핵소추안 표결을 지켜본 뒤 수감생활을 시작하게 됐다.&lt;br&gt;&lt;br&gt;서울중앙지검은 이날 “조 전 대표 측이 제출한 신청서와 소명자료 등을 검토한 결과, 치료 등의 사유와 기존 유사사례 등을 종합적으로 고려해 출석 연기를 허가하고 16일 서울구치소로 출석하라고 통보했다”고 밝혔다.&lt;br&gt;&lt;br&gt;자녀 입시 비리와 청와대 감찰 무마 등 혐의로 기소된 조 전 대표는 지난 12일 대법원에서 징역 2년을 확정받았다. 2019년 12월 기소된 지 5년 만에 나온 사법부의 최종 결론이다. 대법원 판결 선고 직후 대검찰청은 조 전 대표를 기소했던 서울중앙지검에 형 집행 지휘를 통보했다. 서울중앙지검은 조 전 대표에게 13일 중으로 서울중앙지검으로 출석하라고 소환 통보했다. 통상 불구속 상태로 재판을 받다 실형이 확정된 경우에는 당사자가 주변을 정리할 수 있도록 하루 정도 시간을 준다. 다만 피고인이 출석 연기 요청을 할 경우 소명 자료 등을 검토해 3일 한도 내에서 출석 연기를 허가할 수 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>인플루엔자 유행 조짐...환자 5주째 증가</title>
+      <link>https://www.chosun.com/national/welfare-medical/2024/12/13/YRZ2DLCOKJB3NASFEDMZTWAVQ4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/12/13/YRZ2DLCOKJB3NASFEDMZTWAVQ4/</guid>
+      <dc:creator>강다은 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 13 Dec 2024 09:15:57 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5CDIIMSIYJPLZLIX5CWNF4M5XM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한 시민이 코로나19와 인플루엔자 백신을 동시 접종을 하는 모습. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;겨울철 인플루엔자 의심 환자가 5주째 증가하면서 유행 조짐을 보이고 있다. 급성 호흡기 질환의 일종인 ‘호흡기 세포융합 바이러스 감염증(RSV)’도 덩달아 증가세다.&lt;br&gt;&lt;br&gt;13일 질병관리청에 따르면, 12월 첫 주(12월 1~7일) 호흡기 진료 병원을 찾은 환자 1000명당 인플루엔자 의심 증상 환자(의사환자분율)는 7.3명으로 집계됐다. 인플루엔자 유행 기준(의사환자분율 8.6명 이상)에는 미치지 않지만, 최근 5주 연속 증가세를 보여 유행 주의보가 발령될 수도 있다는 전망이 나온다. 인플루엔자 의심 환자는 지난 10월 외래환자 1000명당 3명대를 유지하다가 계속 증가해 11월 마지막 주 5.7명이 됐다. 인플루엔자는 최근 2년간 11월에 유행하기 시작해 12~1월 최고점에 달했다.&lt;br&gt;&lt;br&gt;질병청은 “아직 인플루엔자 유행 단계는 아니지만 겨울철 환자가 늘 것으로 예측하고 있다”며 “감염병에 취약한 65세 이상 어르신은 코로나19 접종과 함께 내년 4월까지 진행 중인 인플루엔자 백신 무료 예방접종에 조속히 참여해달라”고 했다.&lt;br&gt;&lt;br&gt;코로나는 표본 감시 체계 입원 환자 수가 지난 8월 정점을 찍은 뒤 쭉 감소하다가 최근 기온이 떨어지며 소폭 반등했다. 지난달 중순 40명대를 유지하던 코로나 표본 감시 체계 입원 환자 수는 이달 첫 주 64명으로 증가했다. 앞서 질병청은 올 겨울 코로나가 지난겨울과 비슷한 규모로 유행할 것이라고 전망했다.&lt;br&gt;&lt;br&gt;급성 호흡기 질환인 RSV 환자도 증가세다. RSV는 통상 자연 회복되지만 일부 영유아나 60세 이상 고령자는 폐렴 등으로 악화해 입원하거나 사망에 이를 수도 있다. 이날 질병청에 따르면 전국 220곳 병원의 표본 감시 결과 최근 4주간 국내 RSV 입원 환자는 1135명으로 집계됐다. 이 중 0~6세 영유아 환자가 966명(85.1%)을 차지했다. RSV는 주로 10월에서 3월 사이 유행한다. 인플루엔자와 비슷하게 감염자의 호흡기 비말이나 접촉을 통해 전파된다. 평소 위생 관리를 철저히 하고, 영유아가 숨이 차거나 심하게 기침하면 빨리 병원에 가야 한다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘쪼개기’후원금 받은 혐의로 기소된 김희국 전 의원, 1심서 무죄</title>
+      <link>https://www.chosun.com/national/regional/2024/12/13/NFI6KMBR2RD67AACJ72X4YPW6Y/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/12/13/NFI6KMBR2RD67AACJ72X4YPW6Y/</guid>
+      <dc:creator>대구=노인호 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 13 Dec 2024 08:29:08 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YPUNCK4L6FDOFFUCVDLEXODJNA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대구지법.고법 전경./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대구지법 형사11부(재판장 이종길)는 13일 대구염색산업단지관리공단과 다이텍연구원 임직원들로부터 쪼개기 후원금을 받은 혐의로 재판에 넘겨진 김희국 전 국회의원에게 무죄를 선고했다.&lt;br&gt;&lt;br&gt;김 전 의원은 대구염색산업단지관리공단이 국토교통부 주관 노후산단재생사업 대상으로 선정될 수 있도록 도와 달라는 청탁과 함께 다이텍연구원 직원 48명과 대구염색관리공단 이사 5명의 개인 명의로 후원금 980만원을 받은 혐의를 받는다.&lt;br&gt;&lt;br&gt;재판부는 “검사가 제출한 증거만으로는 피고인이 쪼개개 후원에 대해 인식했거나 공모했다고 보기 어렵다”고 설명했다.&lt;br&gt;&lt;br&gt;다만, 김 전의원과 함께 기소된 김 전 의원 비서관 A씨에게는 뇌물수수 혐의를 유죄로 인정해 징역 5년에 벌금 2억5000만원, 추징금 383만원을 선고했다. A씨의 정치자금법 위반 혐의에 대해서는 무죄가 선고됐다.&lt;br&gt;&lt;br&gt;재판부는 “국회의원 비서관이라는 직위를 이용해 지인과 함께 국가 예산 지원 사업을 직접 수주해 진행하기 위한 목적으로 진흥원을 설립하고 영향력을 행사했다. 또 1년10개월 동안 11차례에 걸쳐 2억원 이상 뇌물을 수수했고 범행 일체를 모두 부인하며 진심으로 반성하는 태도를 보이고 있다고 보기 어려운 점 등을 종합했다”고 양형 이유를 설명했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>검찰, ‘쌍방울 대북송금 연루’ 안부수 2심서도 징역 4년 구형</title>
       <link>https://www.chosun.com/national/court_law/2024/12/13/WKJTPQXJGJAMTAXC7Z6KJDGSNU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/13/WKJTPQXJGJAMTAXC7Z6KJDGSNU/</guid>
@@ -837,15 +873,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6JDP343BQ5OJ7M6SD2Q4HDEFPI.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;서울 강서구 화곡동의 다세대 주택 단지 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 강서구·관악구 등 수도권 빌라를 전세를 끼고 딸들 명의로 사들인 뒤, 세입자의 보증금을 가로챈 이른바 ‘세 모녀 전세 사기단’ 사건의 주범인 모친이 2심에서 감형을 받았다.&lt;br&gt;&lt;br&gt;서울중앙지법 형사항소9부(재판장 이성복)는 12일 사기 등 혐의로 기소된 김모씨에게 징역 15년을 선고했다. 김씨는 두 건의 전세 사기 사건으로 기소됐는데, 1심에서 각각 징역 10년과 징역 15년을 선고받았다. 2심에서 두 사건이 병합됐는데 형량이 10년 감형된 것이다.&lt;br&gt;&lt;br&gt;김씨에게 명의를 빌려준 두 딸 역시 각각 1심 징역 2년에서, 징역 1년 6개월에 집행유예 3년으로 감형됐다. 함께 기소된 분양대행업체 관계자 4명 역시 형량이 줄었다.&lt;br&gt;&lt;br&gt;재판부는 “다른 전세 사기 사건과 비교해도 피해액 규모가 상당하다”며 “피해자 대부분이 사회 초년생이고, 임대차 경험이 별로 없는 사람들로 보증금이 재산의 대부분이거나 전부였다”고 지적했다. 세 모녀 전세 사기단의 범행으로 피해를 본 세입자는 355명, 피해 액수는 795억원에 달한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;다만 김씨 등이 리베이트로 받은 금액이 보증금보다 상당히 적고, 상당수 피해자는 주택도시보증공사(HUG)와의 보증계약을 통해 피해 금액을 변제받는 등 피해 복구가 가능한 점을 참작해 감형했다고 설명했다. 재판부는 “피해자들의 경제적 손해가 실질적으로 회복됐다면 양형에 참작하지 않을 수 없다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>‘친인척 부당대출’ 의혹 손태승 구속영장 재청구도 기각</title>
-      <link>https://www.chosun.com/national/national_general/2024/12/12/V3O3MPH2FFCLVH5O6TRU7TXI5E/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/12/V3O3MPH2FFCLVH5O6TRU7TXI5E/</guid>
-      <dc:creator>강지은 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 12 Dec 2024 11:51:42 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2O43QSUSXJJIHJIPB6SSVSWMBQ.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;친인척 부당 대출 혐의를 받는 손태승 전 우리금융지주 회장이 12일 오후 서울 양천구 서울남부지법에서 열린 구속 전 피의자 심문(영장실질심사)에 출석하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;친인척에게 460억원 규모의 부당 대출을 한 혐의를 받는 손태승(65) 전 우리금융지주 회장에 대한 구속영장 재청구가 12일 기각됐다. 지난 26일 구속영장 청구가 기각된 후 검찰은 보충 수사를 벌였으나, 법원은 여전히 “피의자가 이 사건 범행에 공모하였다는 점에 대해 다툼의 여지가 있다”며 손 전 회장을 구속하지 않았다.&lt;br&gt;&lt;br&gt;서울남부지법 한정석 영장전담 부장판사는 이날 오후 2시 특정경제범죄 가중처벌법상 배임 혐의를 받는 손 전 회장의 구속 전 피의자 심문(영장실질심사)을 진행했다. 한 부장판사는 “종전 구속영장 청구 기각 이후 보강된 자료에 의하더라도 피의자가 이 사건 범행에 공모했다는 점에 관하여 다툼의 여지가 있어 피의자의 방어권을 보장할 필요가 있다”며 검찰의 재청구를 또다시 기각했다.&lt;br&gt;&lt;br&gt;이날 법원에 출석한 손 회장은 ‘부당대출을 직접 지시하거나 묵인한 혐의를 인정하느냐’, ‘대출을 내준 직원이 승진하도록 인사에 개입했느냐’, ‘압수수색 전 휴대전화를 왜 바꿨느냐’ 등 취재진 질문에 답하지 않았다.&lt;br&gt;&lt;br&gt;지난 26일 법원은 검찰의 구속영장 청구를 기각하며 “범행에 대한 공모관계나 구체적인 가담 행위에 관한 검찰의 증명 정도에 비춰볼 때 피의자가 이에 관해 다툴 여지가 있다”며 “피의자의 일부 진술이 거짓으로 보이거나 과거 증거를 인멸한 것으로 의심되는 정황이 있다는 것만으로 추후 증거를 인멸하거나 도망할 염려가 있다고 단정할 수도 없다”고 했다.&lt;br&gt;&lt;br&gt;이에 검찰은 지난 6일 손 전 회장을 재소환하며 수사를 보완했다. 우리은행과 우리금융저축은행 등 계열사들이 손 전 회장 친·인척에게 2020년 4월부터 지난 1월까지 승인해준 460억원 규모 부당 대출 과정에 손 전 회장이 관여했다고 의심하고, 이 부당 대출 과정에서 손 전 회장의 지시나 묵인이 있었는지 등 구체적인 경위를 파악하는 데 주력했다. 그러나 피의자를 구속할 정도로 혐의를 입증할 만한 확실한 증거를 확보하지 못한 것이다. 손 전 회장은 당시 조사에서도 대다수 혐의를 부인한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>SPC 허영인 회장 ‘주식 저가 매각’ 대법서 무죄</title>
       <link>https://www.chosun.com/national/court_law/2024/12/12/STEUW2UIABH5RJRPXPQRQY5VOA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/12/STEUW2UIABH5RJRPXPQRQY5VOA/</guid>
@@ -866,15 +893,6 @@
         <media:description type="plain">박준우 전 청와대 정무수석. /연합뉴스</media:description>
         <media:credit role="author" scheme="urn:ebu">진성철</media:credit>
       </media:content>
-    </item>
-    <item>
-      <title>경찰, 국방부 압수수색서 김용현 비화폰 확보했다</title>
-      <link>https://www.chosun.com/national/national_general/2024/12/12/ZNV72JZ7WJBVHM3FSWE3BKZYGQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/12/ZNV72JZ7WJBVHM3FSWE3BKZYGQ/</guid>
-      <dc:creator>구아모 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 12 Dec 2024 09:12:19 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ADV5JT6TZFI6C5YIVIQF76GSGE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김용현 전 국방부 장관. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰 비상계엄 특별수사단은 국방부 조사본부와 함께 이날 김용현 전 국방부장관이 계엄 상황 당시 사용했었던 ‘비화폰’을 확보했다고 12일 밝혔다. 수사단은 이날 서울 용산구 국방부와 서울 관악구 수도방위사령관에 대한 압수수색을 진행했다.&lt;br&gt;&lt;br&gt;수사단을 이날 압수수색을 통해 비화폰을 확보했다.비화폰이라 불리는 ‘안보폰’은 주로 대령급  군 지휘관이 사용하는 도청 방지 휴대전화를 말한다. 비화폰은 통화 내역은 기록되지만 통화 음성 녹음은 불가능하다.&lt;br&gt;&lt;br&gt;다만, 군용 비화 핸드폰 통신 기록은 국방부 자체 서버 기록에 남는다. 수방사에 대한 압수수색은 이 서버 기록을 확보하기 위한 취지에서다. 수사단은 “계엄 당시 사용했던 핸드폰은 확보했으나, 국방부 자체 서버 기록에 대한 압수수색은 아직 진행 중”이라고 밝혔다. 수사단은 통신기록 서버를 토대로 계엄 당시 김 전 장관의 지휘 내역 등을 파악할 방침이다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>경찰 “계엄 국무회의, 적법 회의 아니었다면 尹내란죄 입증 수월”</title>
@@ -915,24 +933,6 @@
       <description/>
       <pubDate>Thu, 12 Dec 2024 02:46:50 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YCV6DSIAN5LKLNOTZSZYEGPLE4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;조국혁신당 조국 대표가 지난 11일 오전 서울 여의도 국회에서 열린 '3년은 너무길다 특별위원회(탄추위)' 회의에서 위원들의 발언을 경청하며 자료를 살펴보고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;조국 조국혁신당 대표가 자녀 입시 비리와 청와대 감찰 무마 등 혐의로 대법원에서 징역 2년이 확정됐다. 실형(實刑)이 확정된 조 대표는 의원직을 곧바로 잃고 절차에 따라 수감될 예정이다. 5년간 피선거권이 박탈돼 다음 대선에도 출마할 수 없게 됐다.&lt;br&gt;&lt;br&gt;대법원 3부(주심 엄상필 대법관)는 12일 조 대표에게 징역 2년에 추징금 600만원을 선고한 원심 판결을 확정했다. 이른바 문재인 정부 ‘조국 사태’ 이후 조 대표가 두 자녀의 입시 비리, 유재수 전 부산시 경제부시장 감찰 무마 등 혐의로 기소된 지 5년 만이다.&lt;br&gt;&lt;br&gt;대법원은 “원심의 유죄 판단에 증거재판주의, 무죄 추정의 원칙, 공소권 남용, 검사의 객관 의무, 각 범죄 성립에 대한 법리 오해 등으로 판결에 영향을 미친 잘못이 없다”고 밝혔다.&lt;br&gt;&lt;br&gt;조 대표는 딸과 아들의 고교, 대학 입시와 관련해 총 7개 입시 비리를 저지른 혐의를 받았다. 2013년 서울대 공익인권법센터 인턴 증명서를 위조해 딸의 서울대 의전원 입시에 제출하고, 2017년 최강욱 변호사가 준 허위 인턴 확인서를 아들의 고려대·연세대 대학원 입시에 제출한 혐의 등이다. 아들의 조지워싱턴대 온라인 시험을 조 대표 부부가 대리 응시했다는 혐의도 있다.&lt;br&gt;&lt;br&gt;대법원은 이 가운데 6개를 유죄로 판단했다. 조 대표는 “사회 활동을 하느라 자녀들의 입시에 대해 잘 알지 못했다”며 혐의를 부인했지만 받아들여지지 않았다. 입시 비리 혐의로 함께 기소된 조 대표 아내 정경심 전 동양대 교수는 징역 1년에 집행유예 2년을 확정받았다. 정씨는 앞서 다른 자녀 입시 비리 등으로 징역 4년이 확정돼 형을 살다가 가석방됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5EQRWYSVCFNWJBEPYHCMMMSVOU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;조국 조국혁신당 대표와 아내 정경심 전 동양대 교수. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대법원은 조 대표가 청와대 민정수석이던 2017년 김경수 전 경남지사 등 친문(親文) 인사들의 부탁을 받고 특별감찰반에 유재수 전 부시장 감찰 중단 압력을 넣은 직권남용 혐의도 유죄로 인정했다. 딸이 다니던 부산대 의전원에서 장학금으로 600만원을 받은 청탁금지법 위반 혐의도 유죄로 봤다.&lt;br&gt;&lt;br&gt;다만 민정수석 취임 후 코링크 PE사모펀드 등 보유 주식을 처분하지 않은 공직자윤리법 위반 혐의, 이 주식들을 제대로 신고하지 않은 위계 공무 집행 방해 혐의 등은 무죄가 확정됐다.&lt;br&gt;&lt;br&gt;이날 판결에 따라 조 대표는 의원직을 상실하고 1~2일 내로 수감될 전망이다. 검찰은 “형사소송법과 관련 규정에 근거해 통상의 절차에 따라 신속하게 형을 집행할 예정”이라고 밝혔다. 검찰은 조 대표에게 내일까지 서울중앙지검에 출석하라고 통보할 것으로 알려졌다.&lt;br&gt;&lt;br&gt;한명숙 전 국무총리의 경우 2015년 8월 20일 대법원에서 형이 확정됐는데, 검찰과 협의를 거쳐 4일 뒤인 같은 달 24일에 서울구치소로 출석해 형이 집행됐다.&lt;br&gt;&lt;br&gt;금고 이상의 형이 확정된 조 대표는 5년간 피선거권도 제한돼 다음 대선에 출마할 수 없다. 조 대표는 상고심 선고를 앞두고 비상계엄 사태를 이유로 선고 기일을 늦춰달라고 요청했지만 대법원은 이를 받아들이지 않았다. 조국혁신당 관계자는 이날 선고 직후 “법원의 결정에 깊은 유감을 표한다”며 “우리 모두 조국이 되어 조국을 기다리겠다”고 했다.&lt;br&gt;&lt;br&gt;한편, 이날 선고가 이뤄진 대법원 2호 법정에는 엄상필·오석준·이숙연 대법관만 입정해 선고했다. 같은 3부 소속인 이흥구 대법관은 이 사건 합의에 관여하지 않아 판결 및 선고를 하지 않았다. 이 대법관은 지난 2020년 대법관 후보 청문회에서 “(조 대표 사건이 대법원에 오면) 회피를 적극적으로 검토하겠다”고 밝혔다. 이 대법관은 조 대표와 서울대 법대 동기로 친분이 있는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>검찰 특수본, ‘계엄 국무회의 참석’ 조규홍 복지부 장관 소환</title>
-      <link>https://www.chosun.com/national/court_law/2024/12/12/DPSY4PTIFVCOBGXOKD6MWPNYGY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/12/DPSY4PTIFVCOBGXOKD6MWPNYGY/</guid>
-      <dc:creator>이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 11 Dec 2024 23:51:28 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZOV7IBMCQVNZP32LOYVNKL6HDE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;조규홍 보건복지부 장관./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘12·3 비상계엄’ 사태를 수사하는 검찰이 조규홍 복지부 장관을 12일 서울중앙지검으로 소환했다.&lt;br&gt;&lt;br&gt;검찰 비상계엄 특별수사본부(본부장 박세현 서울고검장)는 이날 오전 조 장관을 내란 등 혐의 피의자 신분으로 불러 조사하고 있다. 조 장관은 지난 3일 비상계엄 선포 전 열린 국무회의에 참석한 것으로 파악됐다. 특수본은 이날 조 장관에게 국무회의 당시 상황, 국무위원들의 비상계엄 선포 반대 여부 등을 세세히 확인하는 것으로 전해졌다.&lt;br&gt;&lt;br&gt;조 장관은 지난 5일 국회 보건복지위원회 전체 회의에서 국무회의 참석과 관련해 “(비상계엄이 선포된) 3일 밤 10시 17분에 참석했다가 10시 45분 회의실에서 나왔다”고 했다. 국무회의 내용에 대해서는 “밤 9시부터 시작한 것으로 보이는데 늦게 도착해 그 전에 논의한 내용은 모른다”고 했다.&lt;br&gt;&lt;br&gt;회의 당시 ‘몸을 던져 (계엄령을) 막은 장관들이 있었느냐’는 질문에는 “너무 놀랐고 경황이 없었다. 어떤 분이 어떤 말씀을 했는지 솔직히 기억이 나지 않는다”고 했다. 조 장관은 윤 대통령의 비상계엄 선포에 대해 “동의하지 않았다”는 입장을 밝혔다.&lt;br&gt;&lt;br&gt;‘전공의 미복귀시 처단’ 내용이 담긴 계엄사령부의 포고령에 대해 조 장관은 “전혀 동의할 수 없다”고 했다. 그는 “대화와 설득, 착실한 의료개혁을 통해 복귀를 유도한다는 정부 방침에 배치되고, 표현이 매우 거칠고 과격했다”며 “(포고령) 6개 항목 중 유일하게 특정 직역에 대한 내용이었기 때문에 동의할 수 없다”고 했다. 그러면서 “9000명이 넘는 전공의가 이미 사직한 것도 고려가 안 됐고, 9000명 중 50%의 의사가 의료현장에서 봉사하고 있다는 사실도 고려가 안 된 포고령이어서 놀랐고 동의할 수 없었다”고 했다.&lt;br&gt;&lt;br&gt;조 장관은 계엄 선포 이후 복지부 차관·1급 회의를 열어 ‘이탈 전공의 처단’ 등의 내용이 담긴 포고령 조항에 대해 논의했다고 밝혔다. 그는 “전공의 처단은 동의할 수 없는 거라고 생각했고, 전공의 복귀를 위해 우리가 어떤 노력을 해야할지 논의했다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[단독] “尹, 계엄 3시간 전 경찰 수뇌부에 작전 설명”</title>
-      <link>https://www.chosun.com/national/2024/12/12/Y3OGUQELCZABJBPZAWHZTTUNRE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2024/12/12/Y3OGUQELCZABJBPZAWHZTTUNRE/</guid>
-      <dc:creator>주형식 기자, 구아모 기자, 고유찬 기자, 유종헌 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 11 Dec 2024 20:02:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YNHAQXEQ5FNCFJGG6SIL6AIUBE.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령이 지난 3일 서울 용산 대통령실 청사에서 비상 계엄을 선포하고 있다. /KTV&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 대통령이 지난 3일 비상계엄 선포 3시간 전쯤 조지호 경찰청장, 김봉식 서울경찰청장을 서울 삼청동 안전가옥으로 불러 ‘계엄 작전 지휘서’를 전달하며 직접 수분간 ‘작전 브리핑’을 했고, 국회 진입 이후엔 조 청장에게 6번 전화해 격앙된 목소리로 “국회의원을 체포하라”는 지시를 내렸던 것으로 11일 알려졌다. 윤 대통령이 ‘12·3 비상계엄 사태’ 당시 군(軍) 주요 지휘관뿐 아니라 경찰 지휘부에도 ‘국회 봉쇄’ ‘정치인 체포’ 같은 명령을 하달한 정황이 나타난 것이다.&lt;br&gt;&lt;br&gt;경찰 국가수사본부 특별수사단은 이날 윤 대통령의 내란·직권남용(형법), 반란(군형법) 혐의를 조사하기 위해 용산 대통령실 압수 수색을 시도했다. 오동운 공수처장도 “내란 수괴(우두머리)는 긴급체포가 가능하다”며 “윤 대통령을 체포할 의지가 있다”고 했다. 계엄 사태 수사가 ‘내란 정점’ 윤 대통령을 급박하게 정조준하는 상황이다.&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 조·김 청장은 지난 3일 오후 6시 30분쯤 “대통령께서 급히 찾으신다”는 연락을 받고 삼청동 안가로 갔다. 오후 7시쯤 윤 대통령과 조·김 청장이 만났고, 이 자리엔 김용현 전 국방부 장관도 참석한 것으로 전해졌다. 윤 대통령은 이 자리에서 체포 대상 정치인 10여 명 명단과 국회·선관위·민주당사·MBC·여론조사 꽃&lt;b&gt; &lt;/b&gt;등 주요 점령 지점을 지목했다. 국방부 형식의 ‘계엄 작전 지휘서’도 전달했다. 이 문건엔 ‘2200(오후 10시, 이후 연기) 계엄령 선포’ 등 시간대별 ‘계엄 상황 시나리오’도 적혀 있었다고 한다. 윤 대통령은 5분 이상 일방적으로 작전 세부 사항과 계엄의 정당성을 브리핑했고, 참석자들은 거의 듣고만 있었다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TBQHMJ5SVJOC7J5B4XDNYXGHOQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰은 12·3 비상계엄 사태 관련 내란죄로 고발된 조지호(왼쪽) 경찰청장과 김봉식 서울경찰청장이 경찰 국가수사본부(국수본) 비상계엄 특별수사단'에 긴급 체포됐다고 11일 밝혔다. 조 청장과 김 서울청장은 지난 3일 비상계엄 사태 당시 국회의원들의 국회 출입을 통제한 혐의(내란 등)를 받는다. 조 청장의 경우 중앙선거관리위원회(선관위)에 경찰 병력을 보내 계엄군에게 협조한 의혹도 받고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;당초 조 청장은 비상계엄 선포를 언론을 보고 처음 알았고, 계엄 당일 ‘사무실에 대기하라’는 대통령실 연락을 받고 4시간가량 경찰청에 머물렀다고 밝힌 바 있다. 하지만 이 같은 해명과 달리 윤 대통령을 삼청동 안가에서 만나 ‘계엄 사전 지시’를 받았다는 것이다.&lt;br&gt;&lt;br&gt;조 청장은 경찰 조사에서 “윤 대통령이 수차례 전화해 국회의원을 체포하라는 취지의 지시를 직접 했다”고 진술한 것으로 알려졌다. 통화 횟수는 최소 6차례로 알려졌다. “국회 문을 부수고 국회의원을 싸그리 끄집어내라”는 지시를 육군 특수전사령관에게 내렸다는 사실이 폭로된 데 이어 경찰에도 유사한 지시를 했다는 것이다. 조 청장은 이런 지시를 따르지 않았고, ‘계엄 지휘서’도 찢어버렸다고 진술했다. 윤 대통령은 계엄 해제 후 전화로 “죄송하다”는 조 청장에게 “아니야, 수고했어”라고 답했다고 한다.&lt;br&gt;&lt;br&gt;경찰 수사단은 11일 오전 11시 45분부터 수사관 18명을 투입, 용산 대통령실 내 윤 대통령 집무실·국무회의실·비서실·경호처를 비롯, 합동참모본부까지 5곳에 대한 압수 수색을 시도했다. 하지만 경호처가 대통령실 청사 진입을 거부하면서 양측 대치는 8시간 가까이 이어졌다. 경찰은 오후 7시 42분쯤 철수했다.&lt;br&gt;&lt;br&gt;이날 경찰이 법원에서 발부받아 대통령실에 제시한 압수 수색 영장엔 ‘대통령 윤석열’이 내란 등 혐의 피의자로 적시됐다. 수사단 관계자는 “비상계엄 선포 직전 국무회의에 참석한 국무위원들을 확인하고 출입 기록 등 관련 자료를 입수하려고 영장을 청구해 발부받았다”고 했다.&lt;br&gt;&lt;br&gt;형사소송법상 군사상 비밀을 요하는 장소인 대통령실은 책임자의 승낙 없이는 강제 압수 수색이 불가능하다. 대통령 집무 공간에 대한 압수 수색은 이명박·박근혜 정부 시절 진행된 전례가 있다. 모두 경내 진입은 불허됐고 청와대 측의 임의 제출 형식이었다. 경찰이 이날 압수 수색을 시도한 합참은 윤 대통령이 계엄 선포 당일 지하 벙커를 방문했다고 알려진 곳이기도 하다.&lt;br&gt;&lt;br&gt;한편 비상 계엄 사태 주요 인물인 김용현 전 국방부 장관은 지난 10일 오후 11시 52분 구속 영장 발부 직전, 동부구치소 화장실에서 러닝셔츠와 내복 하의로 만든 끈으로 자살을 기도했다. 다만 구치소 직원이 즉각 출동해 저지했고 현재 건강엔 문제가 없다고 법무부가 11일 국회에서 밝혔다. 검찰은 이날 윤 대통령에게 계엄 당일 “싹 다 잡아들여 정리하라”는 지시를 들었다고 밝힌 홍장원 전 국정원 1차장를 비롯, 방첩사 간부들을 불러 조사했다. 또 경기 이천 육군 특수전사령부도 압수 수색 했다.&lt;br&gt;&lt;br&gt;한편 경찰청 국가수사본부, 고위공직자범죄수사처, 국방부 조사본부는 ‘12·3 비상계엄 사태’를 합동 수사하기 위한 공조수사본부를 출범시켰다고 11일 밝혔다. 이번 공조본 출범으로 비상계엄 수사는 크게 경찰·공수처·국방부 조사본부와 검찰·군검찰 등 두 갈래로 진행될 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[오늘의 날씨] 2024년 12월 12일</title>
