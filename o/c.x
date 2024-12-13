@@ -13,6 +13,33 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>[단독] 계엄 당일 “수방사 영창 비울 준비하라”…정치인 감금 검토 정황</title>
+      <link>https://www.chosun.com/national/court_law/2024/12/13/BH4QEIANC5CAXKMGM2NJIJY43I/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/13/BH4QEIANC5CAXKMGM2NJIJY43I/</guid>
+      <dc:creator>유종헌 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 13 Dec 2024 03:28:22 +0000</pubDate>
+      <content:encoded>‘12·3 비상계엄’ 사태 당시 군이 정치인 등 주요 요인을 체포해 수도방위사령부 영창(미결수용실)에 구금하려 한 정황을 검찰이 확보한 것으로 13일 전해졌다.&lt;br&gt;&lt;br&gt;검찰 비상계엄 특별수사본부(본부장 박세현 서울고검장)는 방첩사령부가 주요 요인을 체포해 구금할 장소로 서울 남태령에 위치한 수방사 B-1 벙커뿐만 아니라 수방사 영창도 고려했다는 진술과 정황을 여럿 확보했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6BSTYWW62NOGFB7OWWKY3N2TJU.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;서울 관악구 수도방위사령부. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;계엄 선포 직후 미결수용실 운영 업무를 담당하는 국방부 조사본부의 A 대령과 B 중령이 수방사에 연락해 “수방사 건물 영창에 수용된 미결수용수들을 다른 곳으로 이감해야 할 수 있으니 알아두라”고 말한 것으로 전해졌다. 정치인 등을 구금할 곳을 마련하기 위해 영창을 비울 준비를 한 것이다.&lt;br&gt;&lt;br&gt;특수본은 국방부 조사본부가 방첩사령부의 요청을 받고 이 같은 지시를 수방사에 내린 것으로 의심한다. 방첩사령부는 같은 날 조사본부에 “주요 요인 체포·조사 등 방첩 업무에 필요하니 군 수사관 100명을 국회로 출동시켜달라”고 부탁하기도 했다.&lt;br&gt;&lt;br&gt;수사관 100명 출동 요청은 여인형 전 방첩사령관이 육사 동기인 박헌수 국방부 조사본부장에게 전화로 직접 한 것으로 전해졌다. 조사본부는 이에 대해 “100명 출동 요청은 근거가 없어 응하지 않았고, 이후 합동수사본부 시행계획 상 편성돼 있는 수사관 10명을 출동시킨 적은 있지만 계엄이 해제돼 복귀했다”고 해명했다.&lt;br&gt;&lt;br&gt;한편 방첩사 간부들이 계엄 당일 사전 예고 없이 수방사를 찾아 “영창을 보여달라”고 한 정황도 검찰은 확보했다. 방첩사가 직접 구금 시설을 답사하러 온 것이다. 다만 수방사는 “미결수용자가 수감돼 있어 보여줄 수 없다”며 이 요청을 거절했다고 한다. 방첩사는 비슷한 시각 수방사 B-1 벙커도 답사했다.&lt;br&gt;&lt;br&gt;방첩사는 비상계엄 때 우원식 국회의장, 이재명 더불어민주당 대표, 한동훈 국민의힘 대표 등 주요 인사 14∼15명의 체포를 시도했다는 의혹을 받고 있다.&lt;br&gt;&lt;br&gt;방첩사는 경찰 국가수사본부에도 정치인 체포와 관련해 수사관 지원 요청을 한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[속보] 검찰, 여인형 전 방첩사령관 구속영장... 계엄 지휘관 중 처음 </title>
+      <link>https://www.chosun.com/national/court_law/2024/12/13/JVOBWL6ZJ5CLPAV5BMRSUDLKUQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/13/JVOBWL6ZJ5CLPAV5BMRSUDLKUQ/</guid>
+      <dc:creator>유종헌 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 13 Dec 2024 04:47:46 +0000</pubDate>
+      <content:encoded>‘12·3 비상계엄’ 사태를 수사하는 검찰이 13일 여인형 전 국군방첩사령관에 대해 구속영장을 청구했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3TI5VYNJZNCZTH4HXGSV5RZFSE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;여인형 전 국군방첩사령관이 지난 7일 오전 서울 여의도 국회에서 열린 정보위원회 전체회의에 출석하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰 비상계엄 특별수사본부(본부장 박세현 서울고검장)는 이날 여 전 사령관에 대해 중앙지역군사법원에 구속영장을 청구했다고 밝혔다. 검찰이 이 사건으로 구속영장을 청구한 것은 지난 10일 구속된 김용현 전 국방부 장관에 이어 여 전 사령관이 두 번째다. 여 전 사령관은 계엄군 지휘관 중에는 처음 구속 기로에 놓이게 됐다.&lt;br&gt;&lt;br&gt;여 전 사령관은 비상계엄 당시 여야 대표 등 주요 요인 체포 지시를 내리고, 국회와 중앙선거관리위원회에 병력을 출동시켰다는 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;김대우 국군방첩사령부 수사단장은 지난 10일 국회에서 “여 전 사령관에게 총 14명을 체포하라는 지시를 받았다”고 밝혔다. 이날 영장실질심사를 앞두고 있는 조지호 경찰청장 측 변호인도 “여 전 사령관이 15명을 체포해야 한다고 했으며, 이재명 민주당 대표의 공직선거법 재판 1심에서 무죄를 선고한 김동현 부장판사도 포함됐다”고 주장했다.&lt;br&gt;&lt;br&gt;여 전 사령관은 검찰에서 “윤 대통령이 사석에서 여러 차례 계엄의 필요성을 이야기했다”는 취지로 진술한 것으로 전해졌다. 여 전 사령관은 윤 대통령, 김 전 장관의 충암고 후배다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[속보] 검찰 특수본, 곽종근 전 특수전사령관 소환</title>
+      <link>https://www.chosun.com/national/court_law/2024/12/13/XZJLLGJH5RFVVL63GB7G67HVUI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/13/XZJLLGJH5RFVVL63GB7G67HVUI/</guid>
+      <dc:creator>유종헌 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 13 Dec 2024 04:25:01 +0000</pubDate>
+      <content:encoded>‘12·3 비상계엄’ 사태를 수사하는 검찰이 13일 곽종근 전 특수전사령관을 재차 소환했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KOU23ZECZRNBBPDABD7GJ25P7U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 10일 서울 여의도 국회에서 열린 국방위원회의 긴급 현안질의에 출석한 곽종근 전 특수전사령관. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰 비상계엄 특별수사본부(본부장 박세현 서울고검장)는 이날 곽 전 사령관을 피의자 신분으로 소환해 조사 중이다. 검찰은 지난 9일에도 곽 전 사령관을 조사했지만, 이때는 김용현 전 국방부 장관의 내란 혐의에 대한 참고인 신분이었다. &lt;br&gt;&lt;br&gt;곽 전 사령관은 계엄 당시 윤석열 대통령으로부터 “국회 문을 부수고 인원들을 끄집어내라”는 전화를 받았다고 직접 밝힌 인물이다. 그는 지난 10일 국회 국방위원회에서 “윤 대통령이 비화폰으로 전화하셨다”며 이 같이 밝혔다. 또 자신이 지난 1일 김용현 전 국방부 장관으로부터 ‘국회와 선관위 셋, 민주당사, 여론조사꽃 등 여섯 지역을 확보하라’는 임무를 전달받았다고도 했다. 비상계엄 사태를 사전에 대비했다는 취지다.&lt;br&gt;&lt;br&gt;검찰은 지난 9일 특수전사령부와 곽 전 사령관 자택 등을 압수수색했다. 이날에는 특전사 예하 제3공수여단의 김정근 여단장도 참고인 신분으로 불러 조사했다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>경찰 “尹 한남동 관저 압수수색 검토” </title>
       <link>https://www.chosun.com/national/national_general/2024/12/13/OGFZCG5GPBD3FEHY4NAFKOOYRU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/13/OGFZCG5GPBD3FEHY4NAFKOOYRU/</guid>
@@ -736,15 +763,6 @@
       <media:content url="https://www.chosun.com/resizer/v2/4MTFRYWHBJA7XOKKF7G7JPLX5U.png?width=800&amp;height=420&amp;auth=4651b5b20b5d4901424204d1456faee02e4b064ff509db23945deabf4404c8ef&amp;smart=true" type="image/png" height="420" width="800"/>
     </item>
     <item>
-      <title>서울역 북부역세권 개발 착공… “39층 랜드마크 조성”</title>
-      <link>https://www.chosun.com/national/national_general/2024/12/12/ZDMS6NLMQNFVVJ6AI5TT5NSBXU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/12/ZDMS6NLMQNFVVJ6AI5TT5NSBXU/</guid>
-      <dc:creator>박진성 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 12 Dec 2024 08:25:35 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2NCDX5QGUZENJGK57GHLTTWLCI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울역 광장의 조감도/서울시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울역 북부역세권이 전시·컨벤션·업무·주거·호텔 등이 결합한 대규모 복합단지로 다시 태어날 전망이다.&lt;br&gt;&lt;br&gt;서울시는 12일 오전 서울역 북부역세권 개발사업 부지에서 착공식을 열었다.&lt;br&gt;&lt;br&gt;서울역 북부역세권 개발은 저이용 철도 부지(약 3만㎡)에 강북권 최초로 2000명 이상을 수용할 수 있는 전시·국제회의장을 갖춘 국제문화복합단지가 들어서는 사업이다. 2029년 완공이 목표다.&lt;br&gt;&lt;br&gt;연면적 33만㎡에 최고 39층 규모로 국제컨벤션, 호텔, 업무, 판매 등 도심권 마이스(MICE) 시설이 들어간다.&lt;br&gt;&lt;br&gt;총 공사비는 3조원이다. 공공기여 3384억원은 서울역 일대 공공성 강화를 위한 인프라 확충, 균형발전 유도를 위한 장기 미집행시설 및 소외·낙후지역 정비 등에 투입한다.&lt;br&gt;&lt;br&gt;시민들에게 불편했던 복잡하고 어려운 환승 체계를 개편한다. 철도 지하화로 확보되는 대규모 지하 공간을 활용해 ‘국가기간 복합환승센터’를 설치한다. 국토교통부와 협의해 효율적인 환승 체계를 구축할 계획이다.&lt;br&gt;&lt;br&gt;서울시 관계자는 "복합환승센터가 생기면 KTX 고속철도, 일반철도, 공항철도, 지하철, GTX 등 철도와 버스·택시 등 모든 교통수단 간 환승 거리와 시간을 대폭 줄일 수 있다”고 말했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JO5XPUUVMFD5ZOBPELT2GILRVY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;복합개발될 서울역 북부역세권의 조감도/서울시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;기존 철로 구간에 도심∼한강까지 단절 없이 연결되는 선형공원(Railway Park)을 만든다. 선형공원을 비즈니스 공간과 랜드마크 타워, 마이스, 호텔, 상업, 주거, 지하 교통시설과 유기적으로 연결해 도심 거점에 활력을 불어넣겠다는 구상이다.&lt;br&gt;&lt;br&gt;역 앞 공간은 탁 트인 녹색 광장으로 만들고 남산 등 인근 지역과 도보로 쉽게 이동할 수 있게 한다.&lt;br&gt;&lt;br&gt;철도지하화가 이뤄지는 2033년 이후부터는 서울역 상부 개발도 추진한다.&lt;br&gt;&lt;br&gt;오세훈 서울시장은 “서울역 북부역세권 개발은 첫 번째 시장 재임 기간이었던 2008년 서울을 마이스 산업의 허브로 성장시키려 야심차게 추진했던 사업”이라며 “이후 재생 위주의 도시 정책 변화와 부동산경기 침체로 인해 장기간 표류하며 16년이나 늦어진 것이 안타깝다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>오세훈 “정치 혼란 속 지방정부 역할 중요”</title>
       <link>https://www.chosun.com/national/regional/seoul/2024/12/12/ETNVHL3UJ5ALFENGIXASJMKEOM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/seoul/2024/12/12/ETNVHL3UJ5ALFENGIXASJMKEOM/</guid>
@@ -774,24 +792,6 @@
         <media:description type="plain">(서울=뉴스1) 김성진 기자 = 민주노총 조합원들이 12일 서울 중구 세종대로에서 열린 '내란주범 윤석열 즉각 탄핵구속! 내란동조 국민의힘 해체!' 노동자 시민대회를 마친 뒤 대통령실 방향으로 행진하다 길을 막는 경찰과 대치하고 있다. 2024.12.12/뉴스1</media:description>
         <media:credit role="author" scheme="urn:ebu">(서울=뉴스1) 김성진 기자</media:credit>
       </media:content>
-    </item>
-    <item>
-      <title>“헤어지자”… 이별 통보에 연인 살해한 40대 ‘징역 25년’</title>
-      <link>https://www.chosun.com/national/court_law/2024/12/12/NVIJIF3SYFESXGFQRU5TXU6DPE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/12/NVIJIF3SYFESXGFQRU5TXU6DPE/</guid>
-      <dc:creator>강릉=정성원 기자</dc:creator>
-      <description>헤어지자는 연인의 이별 통보에 앙심을 품고 교제하던 여성을 잔인하게 살해한 40대 남성이 법원으로부터 중형을 선고받았다.춘천지법 강릉지원 형사2부(재판장 권상표)는 살인 등 혐의로 기소된 A(45)씨에게 징역 25년을 선고했다고 12일 밝혔다.</description>
-      <pubDate>Thu, 12 Dec 2024 07:57:33 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3ETKH4QNLREMEU7HFWJP3H4EW4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;춘천지방법원 강릉지원 전경./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;헤어지자는 연인의 이별 통보에 앙심을 품고 교제하던 여성을 잔인하게 살해한 40대 남성이 법원으로부터 중형을 선고받았다.&lt;br&gt;&lt;br&gt;춘천지법 강릉지원 형사2부(재판장 권상표)는 살인 등 혐의로 기소된 A(45)씨에게 징역 25년을 선고했다고 12일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 7월 10일 오전 2시 51분쯤 강원 동해시 송정동 한 노래주점에서 종업원 B씨를 흉기로 찔러 살해한 혐의다.&lt;br&gt;&lt;br&gt;A씨와 B씨는 지난해 10월부터 교제해 왔다. 그러나 범행 하루 전 B씨가 A씨에게 이별을 통보한 뒤 연락을 끊자 A씨는 다음날 B씨가 근무하던 주점을 찾아가 이 같은 범행을 저질렀다.&lt;br&gt;&lt;br&gt;A씨는 범행 전 지인에게 “사람을 죽이고 교도소에 가겠다. 뉴스에 나올 것”이라는 말을 하기도 했다.&lt;br&gt;&lt;br&gt;A씨는 범행 직후 차를 몰고 도주했으나 범행 2시간 30분 만에 동해시 북평동 한 공원에서 경찰에 붙잡혔다. 당시 A씨는 만취 상태였다.&lt;br&gt;&lt;br&gt;A씨는 재판 과정에서 “범행 당시 심신상실 상태에 있었다”며 우발 범죄를 주장했지만, 재판부는 이를 받아들이지 않았다.&lt;br&gt;&lt;br&gt;재판부는 “이 사건 범행으로 인한 피해 회복이 이뤄지지 않은 점 등을 양형에 참작했다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>대구경북행정통합 동의안, 12일 대구시의회 통과</title>
-      <link>https://www.chosun.com/national/regional/2024/12/12/E5FK3QR2F5ABBFGBNVMO3ZKDPE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/12/12/E5FK3QR2F5ABBFGBNVMO3ZKDPE/</guid>
-      <dc:creator>대구=노인호 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 12 Dec 2024 07:55:58 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UNDNNADPRBE47NSP4DJ4D5N4ZY.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;대구시의회 전경. /대구시의회&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대구시가 제출한 대구·경북 행정통합 동의안이 12일 대구시의회를 통과했다.&lt;br&gt;&lt;br&gt;대구시의회는 이날 열린 제313회 정례회 제3차 본회의에서 ‘대구시와 경북도 통합에 대한 의견제시’ 안건을 가결했다. 재석의원 32명 가운데 찬성은 31명, 반대는 1명이었다.&lt;br&gt;&lt;br&gt;행정통합에 필요한 대구시의회 동의는 마무리됐지만, 향후 통합 절차가 예정대로 진행될 수 있을지는 불투명하다. 대구시와 경북도는 지방의회로부터 행정통합에 대한 동의를 받은 뒤 올해 연말까지 관련 특별법이 발의해 내년 상반기까지 특별법을 제정할 계획이었다.&lt;br&gt;&lt;br&gt;하지만, 윤석열 대통령의 12·3 비상계엄 여파로 주무 부처인 행정안전부 장관이 사퇴해 공석이고, 국회도 사실상 마비된 탓에 특별법 발의 등 후속 절차가 제대로 진행되지 못할 가능성이 커진 상태다. 올 연말까지 특별법 발의가 이뤄지지 않을 경우 애초 목표로 했던 2026년 7월 ‘대구경북특별시’ 출범이 어려울 수 있다는 우려도 나오고 있다.&lt;br&gt;&lt;br&gt;이날 대구시의회 본회의에 참석한 홍준표 대구시장은 “대구경북 행정통합은 중앙정부가 안정되는 대로 즉시 추진하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>“내 몸 만져라” 박스만 걸치고 홍대‧압구정 활보한 여성 벌금형</title>
