@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>오세훈 “사회·경제 안정 위해 헌재 공정·신속 결정 필요” </title>
+      <link>https://www.chosun.com/national/regional/seoul/2024/12/14/JBEIZF6HRVFDXE5GBVDUZRKMZI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/seoul/2024/12/14/JBEIZF6HRVFDXE5GBVDUZRKMZI/</guid>
+      <dc:creator>박진성 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 14 Dec 2024 11:04:15 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6BTXAO3SSGZ7J6AAYC7QQRUMJI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;오세훈 서울시장이 지난 10일 서울시청에서 열린 비상경제회의에서 발언하고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;오세훈 서울시장이 “사회·경제적 안정을 위해 헌재의 공정하고 신속한 결정이 필요하다”고 했다.&lt;br&gt;&lt;br&gt;오세훈 서울시장은 14일 ‘대한민국의 미래가 판단기준입니다’는 제목의 페이스북 게시글을 통해 이같이 말했다.&lt;br&gt;&lt;br&gt;오 시장은 “참담한 마음으로 국민 여러분께 다시 한 번 사죄드린다”며 “당은 이 일로 분열하지 말고 다시 뭉쳐 일어서야 한다”고 했다.&lt;br&gt;&lt;br&gt;이어 오 시장은 “이제 시급한 일은 ‘사회·경제적 안정’이라며 “지난 며칠간 국내외 경제 최전선에 선 분들의 말씀을 경청해왔는데 그분들의 요청은 절실했다”고 했다.&lt;br&gt;&lt;br&gt;오 시장은 그들이 “정부는 ‘불확실성’을 최소화하고 ‘예측 가능한 경영 환경’을 만들어 달라”고 전했다.&lt;br&gt;&lt;br&gt;또 오 시장은 “사회·경제적 안정을 위해 헌재의 공정하고 신속한 결정이 필요하다”며 “여야를 넘어서 서민경제와 대한민국의 미래를 위해 거국적 협력과 위기 극복의 의지가 필요한 시점이다. 항상 모든 판단 기준은 대한민국의 안정과 번영”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>尹대통령 탄핵소추의결서, 헌법재판소 제출 </title>
       <link>https://www.chosun.com/national/court_law/2024/12/14/Q7NAKVQOWFGOTAOCBNPFMRQSMA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/14/Q7NAKVQOWFGOTAOCBNPFMRQSMA/</guid>
@@ -902,15 +911,6 @@
       <description/>
       <pubDate>Fri, 13 Dec 2024 02:22:13 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5XGPD6RL4WNOVCN2TD5YRFAOHM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰이 테이저건 사격 훈련을 하고 있는 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰이 출동 현장에서 분실한 테이저건을 18시간여만에 되찾았다. 경기 수원서 잃어버린 테이저건은 약 20km떨어진 오산에서 발견됐다.&lt;br&gt;&lt;br&gt;13일 경기 수원남부경찰서에 따르면, 전날 오전 5시 30분쯤 수원 권선구의 한 현장에 출동한 곡선지구대 소속 경찰관 A씨가 신고 출동 후 복귀하는 과정에서 테이저건을 분실했다. 그는 현장 조치 후 지구대로 복귀하기 위해 순찰차에 탑승하면서 총집째 테이저건을 떨어뜨린 것으로 파악됐다.&lt;br&gt;&lt;br&gt;경찰은 이날 오전 6시 10분쯤 아침 근무 교대 과정에서야 이 사실을 인지한 것으로 알려졌다. A씨가 분실한 장비는 2발 연속 발사가 가능한 신형 테이저건인 ‘테이저7′으로, 근무 교대 때 마다 경찰관들이 인수인계를 하는 장비다. 테이저건 등 총기류는 조끼에 결속한 후 총기피탈방지끈으로 연결하도록 돼있다.&lt;br&gt;&lt;br&gt;경찰은 곧바로 현장 확인에 나섰으나 테이저건은 없었다. 경찰이 인근 방범 카메라(CCTV)를 분석한 결과, 오전 5시 31분쯤 폐지를 줍는 노인으로 추정되는 남성 B(62)씨가 테이저건을 총집째 주운 채 이동하는 모습을 확인했다.&lt;br&gt;&lt;br&gt;경찰은 CCTV분석 추적을 통해 B씨를 찾아나섰고, 사건 발생 18시간여 만인 같은날 오후 11시55분쯤 오산시 오산대교 인근에 있던 B씨를 발견했다. B씨는 마땅한 주거지가 없이 떠돌아다니며 폐지를 주워오면서 생활해 왔던 것으로 알려졌다. 이날 역시 수원 권선구에서 오산까지 약 20㎞를 걸어 이동한 것으로 확인됐다.&lt;br&gt;&lt;br&gt;회수한 테이저건은 분실 당시 상태 그대로였다고 한다. B씨는 경찰에 “그냥 총이 떨어져 있길래 주웠을 뿐”이라는 취지로 진술한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;경찰은 B씨가 경찰 테이저건임을 인지한 상태임에도 습득 후 별다른 조치를 하지 않은 점 등을 고려해 점유이탈물횡령 혐의를 적용해 입건했다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “각 지역 관서에 테이저건 등 장비 분실 방지를 철저히 할 것을 교육했다”며 “해당 경찰관의 과실 등이 명확한 만큼, 징계 여부를 검토하고 있다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>키 193cm 청년, 5명에 새삶 주고 하늘로…1000만원 기부도</title>
-      <link>https://www.chosun.com/national/national_general/2024/12/13/4UIKS77OZZCXZMDVSK6ZJOOR4Y/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/13/4UIKS77OZZCXZMDVSK6ZJOOR4Y/</guid>
-      <dc:creator>김명일 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 13 Dec 2024 02:20:53 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SHIUZ5AAMJHONPRPFO54HVDCJI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;고(故) 한영광씨. /한국장기조직기증원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;갑작스러운 사고로 뇌사상태에 빠진 30대 청년이 뇌사장기기증으로 5명에게 생명을 나눠주고 하늘로 떠났다.&lt;br&gt;&lt;br&gt;13일 한국장기조직기증원은 지난 5월 27일 순천향대학교 부천병원에서 한영광(30)씨가 뇌사장기기증으로 5명에게 생명을 나눠주고 하늘의 천사가 되어 떠났다고 밝혔다.&lt;br&gt;&lt;br&gt;한씨는 지난 5월 17일 늦은 귀갓길에 낙상사고를 당해 병원에서 치료를 받았지만, 의식을 회복하지 못하고 뇌사상태가 됐다.&lt;br&gt;&lt;br&gt;가족들은 뇌사로 몸이 점점 나빠져 가는 한씨를 헛되이 떠나보낼 수 없어서, 다른 생명을 살리는 좋은 일을 하고 떠나길 바라는 마음에 기증을 결심했다. 한씨는 뇌사장기기증으로 심장, 폐장, 간장, 신장(좌, 우)을 기증했다.&lt;br&gt;&lt;br&gt;가족들은 한씨가 헌혈 등 봉사와 나눔을 지속적으로 해왔기에 마지막 순간에 누군가의 생명을 살리는 좋은 일을 한다면 기뻐할 것이라고 했다.&lt;br&gt;&lt;br&gt;한씨는 경기도 부천에서 1남 1녀 중 막내로 태어났다. 외향적이고 사람들을 챙기는 것을 좋아해서 늘 주변에 사람들이 많았다. 193cm의 큰 키에 농구와 수영을 좋아했고, 대학에서 인테리어를 전공해 졸업 후 디자인 회사에서 근무했다. 자신보다 늘 남을 챙기는 것을 좋아해서 월급을 받으면 본인 옷보다 어머니 옷을 사드렸고, 아버지 차를 바꿔드리겠다며 돈을 모아왔다.&lt;br&gt;&lt;br&gt;30세의 젊은 나이임에도 한씨의 장례식에는 500여 명의 친구와 지인이 방문했고, 가족들은 기증 후 국가에서 지원받은 장제비 등에 추가로 돈을 더 보태서 1000만원을 기부했다.&lt;br&gt;&lt;br&gt;한씨의 누나 한아름씨는 “네가 이 세상에 없다는 것이 꿈만 같지만, 여전히 우리는 마음으로 연결되어 있다고 생각해. 그리고 네가 남긴 사랑이 누군가의 몸속에서 살아 숨 쉬고 있잖아”라며 “너에게 항상 표현이 부족하다고 투정 아닌 투정을 부렸는데, 네가 남긴 편지들을 보니 ‘사랑해 누나’라는 글들이 참 많더라. 착한 내 동생 영광아. 누나 동생으로 머물다 가줘서 고마워. 사랑해!”라고 마지막 인사를 전했다.&lt;br&gt;&lt;br&gt;한씨의 어머니 홍성희씨는 “아들아, 너라면 삶의 끝에서 누군가를 살렸다고 하면 잘했다고 응원하지 않을까 생각해”라며 “이 세상 살아가는데 자식을 먼저 보내면 가슴에 묻는다고 하던데, 너무 힘들어서 그러한 마음도 안 드네. 다시 만날 그날을 생각하며 하루하루 잘 이겨낼게. 사랑한다”라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>“尹, 언론사 등 기관 10여곳 접수 지시... 이재명 무죄 판사도 체포 대상”</title>
