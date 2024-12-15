@@ -13,6 +13,58 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>[속보] 검찰 특수본, 이진우 前 수도방위사령관 구속영장 청구</title>
+      <link>https://www.chosun.com/national/court_law/2024/12/15/4NIIMRMPMJEEJIUPFEZ2D7A7SI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/15/4NIIMRMPMJEEJIUPFEZ2D7A7SI/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 15 Dec 2024 07:50:41 +0000</pubDate>
+      <content:encoded>‘12‧3 비상계엄’ 사태를 수사하는 검찰 특별수사본부(본부장 박세현 서울고검장)는 계엄군 핵심 지휘관인 이진우 전 수도방위사령관에 대한 구속영장을 중앙지역군사법원에 청구했다고 15일 밝혔다. 지난 13일 오후 이 전 사령관을 체포한 지 2일 만이다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/H5GUKP27DH4N527VWFFJ3JKNWI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이진우 수도방위사령관이 10일 오전 국방위원회 전체회의에 출석하기 위해 서울 여의도 국회에 도착하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이 전 사령관은 내란 중요 임무 종사와 직권남용 권리행사 방해 혐의를 받고 있다. &lt;br&gt;&lt;br&gt;이 전 사령관은 윤석열 대통령의 비상계엄 당시 여인형 전 방첩사령관, 곽종근 전 특수전사령관과 함께 계엄군을 지휘한 핵심 지휘부다. 이 전 사령관은 김용현 전 국방장관의 지시에 따라 지난 3일 비상계엄 당시 서울 여의도 국회의사당에 35특수임무대대·군사경찰단 등 병력 211명을 투입한 것으로 조사됐다. 수방사 1경비단 예하 2특임대대·1경비대대가 국회 인근과 한남동 공관 등으로 출동했다는 의혹도 제기된 상황이다.&lt;br&gt;&lt;br&gt;계엄 선포를 인지한 경위에 대해 이 전 사령관은 “TV를 보고 알았다”는 입장이었다. 그러나 특수본은 계엄 당시 작전에 투입됐던 수방사 관계자 다수를 조사하면서, “이 전 사령관이 계엄 선포 전인 3일 오후 9시 50분쯤 전투복으로 갈아입은 뒤 사령부로 들어오라”는 취지로 지시했다는 진술을 확보한 것으로 전해졌다. 이 전 사령관이 계엄 선포 전부터 상황을 알고 있었다는 것이 특수본의 시각이다.&lt;br&gt;&lt;br&gt;특수본은 구속영장 청구에 앞서 지난 13일 오후 9시쯤 이 전 사령관을 체포했다. 이 전 사령관이 특수본의 출석 요청에 응답하지 않아, 체포영장을 발부 받은 뒤 집행한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;한편, 특수본은 이날 곽 전 사령관에 대해서도 구속영장을 청구했다. 두 사령관 모두 구속될 경우, 특수본은 계엄군 핵심 지휘관 3명의 신병을 모두 확보하게 된다. 특수본은 이 밖에도 박안수 전 계엄사령관(육군참모총장)을 지난 14일 피의자로 조사하는 등 군 지휘부 수사에 속도를 내고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[오늘의 운세]  12월 16일 월요일 (음력 11월 16일 甲寅)</title>
+      <link>https://www.chosun.com/national/national_general/2024/12/15/XSR63K72NBABRJH2XY5JPXCPEQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/15/XSR63K72NBABRJH2XY5JPXCPEQ/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Sun, 15 Dec 2024 08:00:00 +0000</pubDate>
+      <content:encoded>&lt;p&gt;&lt;div class="chosun_unse"&gt;&lt;iframe src="https://image.chosun.com/arc/unse_iframe.html" frameborder="0" scrolling="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;style&gt;.chosun_unse{position:relative;width:100%;height:350px;box-sizing:border-box}.chosun_unse&gt;iframe{position:absolute;top:0;left:0;width:100%;height:100%;overflow-y:hidden}@media all and (max-width:1024px){.chosun_unse{height:350px}}@media all and (max-width:1023px){.chosun_unse{height:350px}}@media all and (max-width:528px){.chosun_unse{height:270px}}@media all and (max-width:384px){.chosun_unse{height:190px}}&lt;/style&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;p&gt;&lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani01.gif"&gt;  	&amp;nbsp;	36년생 생각 바꾸면 길 보일 수도. 48년생 기회는 새벽 안개처럼 왔다 사라진다. 60년생 근심 없앨 약 있다면 얼마나 좋을까. 72년생 가뭄에도 안 마를 지혜의 샘 파도록. 84년생 겉모습만 보고 내용 판단하면 오산. 96년생 누가 뭐래도 한 발짝도 움직이지 마라.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt;  &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani02.gif"&gt;	&amp;nbsp;	37년생 열정 있는 한 언제나 청년. 49년생 배우자 운이 살아나니 온 집안 웃음꽃. 61년생 시기 질투가 눈 가리게 함을 명심해야. 73년생 의욕 솟구치고 자신은 만만하고. 85년생 타인의 손에 자기 미래 맞기지 마라. 97년생 윗사람 실수가 내겐 기회 될 수도.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani03.gif"&gt;	&amp;nbsp;	38년생 말 안 하면 귀신도 알 수 없다. 50년생 숫자 1, 6과 검은색이 행운 부른다. 62년생 어려운 상황일수록 기본으로 돌아가야. 74년생 마음도 닦고 가꾸면 비할 수 없는 값진 보석. 86년생 흔들림 없이 안정적인 삶 유지하라. 98년생 야전 명장이 개선가 부르는구나.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani04.gif"&gt;	&amp;nbsp;	27년생 생면부지의 사람은 절대 경계. 39년생 욕망에서 자유로워져야 행복. 51년생 좋은 결과 기대되니 최선 다하도록. 63년생 꼬챙이는 타고 고기는 설익고. 75년생 꺼진 불도 다시 살펴라. 87년생 중요한 일이면 오늘 결정하라. 99년생 침체를 벗어나 완만한 상승이 기대.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani05.gif"&gt;	&amp;nbsp;	28년생 대접받고 싶으면 먼저 대접하라. 40년생 외화내빈(外華內貧)이구나. 52년생 하고 싶어도 하지 말아야 할 것 있다. 64년생 지금 있는 곳에서 행복 찾도록. 76년생 밤길 비단옷 입고 걷는 격. 88년생 길흉 동반하는 상황. 00년생 주변의 허물을 내 허물로 돌려라.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani06.gif"&gt;	&amp;nbsp;	29년생 성급한 일 처리가 손실 부를 수도. 41년생 부뚜막 옆에서도 굶는 수 있다. 53년생 계획보다 의욕 앞서면 후회막급. 65년생 심술쟁이 복 받기 어렵다. 77년생 가장 부드러운 게 가장 강하다. 89년생 숫자 3, 8과 푸른색은 피하라. 01년생 자세가 바르면 그림자도 곧다.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani07.gif"&gt;	&amp;nbsp;	30년생 쓸데없는 일에 시간 낭비 마라. 42년생 이동과 변동은 이롭지 않다. 54년생 쌀독 바닥나면 밥맛은 더 나는 법. 66년생 손바닥 뒤집기보다 쉽다. 78년생 너무 강하면 부러지게 마련. 90년생 아무리 바빠도 꼭 해야 할 일은 하도록. 02년생 고민은 나눌수록 줄어든다.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani08.gif"&gt;	&amp;nbsp;	31년생 주변 사람으로 고민스러운 하루. 43년생 돈도 내 주머니에 있어야 내 돈. 55년생 야심의 크기가 성공의 크기. 67년생 마음의 안정이 우선. 79년생 피할 수 없다면 즐기는 것도 방편. 91년생 공(功) 있으면 과(過)도 있기 마련. 03년생 문서 교환의 시기니 매매가 이롭다.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani09.gif"&gt;	&amp;nbsp;	32년생 순리 따르면 큰 어려움 없을 듯. 44년생 호랑이 주둥이의 털 뽑는 격. 56년생 동료가 시기하니 주위를 경계. 68년생 누런색과 숫자 5, 10이 행운 부른다. 80년생 급해도 돌아가는 지혜가 필요. 92년생 시비 구설은 열흘 가지 않는다. 04년생 흉이 변하여 길이 되는 하루.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani10.gif"&gt;	&amp;nbsp;	33년생 방향성 전환과 가치관 혼선이 예상. 45년생 고려 적 잠꼬대 같은 소리는 마라. 57년생 의욕 지나치면 이성의 눈을 가릴 수 있다. 69년생 개인보다 전체 위한 희생 필요. 81년생 좋아하는 일 찾아 여유 만끽하라. 93년생 이왕 정리할 거면 신속 과감하게.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani11.gif"&gt;	&amp;nbsp;	34년생 여행과 운동으로 여유 가져 봄이. 46년생 아무리 굶주려도 씻나락은 먹지 마라. 58년생 화해와 소통 열쇠는 나에게 있다. 70년생 꽃 탐하는 나비는 거미줄 조심해야. 82년생 대중의 의견 조율이 사태 해결의 관건. 94년생 한계를 넘어 생각과 시야 넓히도록.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani12.gif"&gt;	&amp;nbsp;	35년생 경험만큼 현명한 지혜는 없다. 47년생 신중한 판단이 후회를 적게 한다. 59년생 길 아니면 가지 말고 말 아니면 하지 마라. 71년생 산길 지나야 대로(大路)가 활짝. 83년생 겉치장만큼 내면 가꾸는 일에 소홀함 없어야. 95년생 서쪽과 숫자 4, 9 행운 부른다.	&lt;br&gt;
+&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;한소평 금오산방 강주  &lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;			&lt;/p&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/4MTFRYWHBJA7XOKKF7G7JPLX5U.png?width=800&amp;height=420&amp;auth=4651b5b20b5d4901424204d1456faee02e4b064ff509db23945deabf4404c8ef&amp;smart=true" type="image/png" height="420" width="800"/>
+    </item>
+    <item>
+      <title>“화환이 불타고 있다” 용산 대통령실 인근 尹 응원 화환 화재</title>
+      <link>https://www.chosun.com/national/incident/2024/12/15/XOYE2JRNBZDO5C7AMJSFOKINKE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/12/15/XOYE2JRNBZDO5C7AMJSFOKINKE/</guid>
+      <dc:creator>안준현 기자, 장윤 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 15 Dec 2024 06:04:44 +0000</pubDate>
+      <content:encoded>서울 용산구 대통령실 인근에 윤석열 대통령을 응원하는 화환에서 원인을 알 수 없는 화재가 발생했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WFXORFZNXZA2NI4HXV7EWM6L2Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이날 오전 1시 33분쯤 용산구 녹사평역 인근에 있던 윤석열 대통령 응원 문구가 적힌 화환들에 화재가 발생했다./유튜브 캡처&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 용산소방서는 15일 “이날 오전 1시 33분쯤 서울 용산구 녹사평역 인근에 있던 윤석열 대통령 응원 문구가 적힌 화환들에 화재가 발생했다”고 밝혔다.&lt;br&gt;&lt;br&gt;이 화재로 다친 사람은 없었고, 화환 10여 개가 불에 타거나 그을린 것으로 알려졌다.&lt;br&gt;&lt;br&gt;소방당국은 “화환이 불타고 있다”는 신고를 받고 차량 14대·인원 47명을 동원해 화재 발생 10분 후인 이날 오전 1시 43분쯤 불을 완전히 껐다.&lt;br&gt;&lt;br&gt;소방당국과 경찰 관계자는 “정확한 화재 원인을 조사 중에 있다”며 “방화 여부도 들여다보고 있다”고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WNV7LNIS6NDXHGYRBP7ONLFINA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 용산구 대통령실 인근에 윤 대통령 응원 화환이 놓여져 있다. 화환이 넘어지는 것을 방지하기 위해 줄끈이 묶여져 있다. /안준현 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한편 대통령실과 전쟁기념관 앞, 녹사평역 인근에는 윤 대통령을 응원하는 내용의 화환들이 속속 놓여지고 있다. 줄끈을 묶어 바람에 화환이 넘어지는 것을 방지하고 있지만, 화환이 넘어져 시민들이 통행에 불편을 겪기도 했다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/BSOKZ5MB2NBL3LBQUOOFAXBGOE.jpg?width=4000&amp;height=2252&amp;auth=f804ef9268084ad664c4614beb653206777943820cfff23a5244a68fcc2f7ddb&amp;smart=true" type="image/jpeg" height="2252" width="4000">
+        <media:description type="plain">서울 용산구 대통령실 인근에 있던 윤석열 대통령 응원 화환이 인도에 넘어져 있다. /안준현 기자</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>목포 리모델링 상가 2층서 화재, 5명 경상</title>
+      <link>https://www.chosun.com/national/regional/honam/2024/12/15/XK6CEJD2KZFNFGG4OIEXJ5YP3M/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/honam/2024/12/15/XK6CEJD2KZFNFGG4OIEXJ5YP3M/</guid>
+      <dc:creator>목포=조홍복 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 15 Dec 2024 06:57:27 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SHPFELQG3W7JJCK6JET7DFEAUY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;119 구급차. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;15일 오후 1시 22분쯤 전남 목포시 옥암동 한 상가 건물 2층에서 리모델링 공사 중 불이 나 5명이 다쳤다.&lt;br&gt;&lt;br&gt;불은 36분 만에 완전히 진화됐다. 공사 작업자 2명과 같은 층에 있던 스터디카페 이용객 3명이 연기를 흡입하는 등 5명이 경상을 입고 병원으로 옮겨졌다. 이들을 포함해 모두 10명이 불이 난 건물에서 대피하지 못하고 있다가 소방당국이 도착하고서야 구조됐다고 소방 당국은 밝혔다.&lt;br&gt;&lt;br&gt;경찰과 소방 당국은 2층 공사장에서 절단 작업을 하다 불이 난 것으로 보고 정확한 화재 원인을 조사할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>이사회 의결 없이 취업규칙 바꿔 정년퇴직… 대법 “효력 없어”</title>
       <link>https://www.chosun.com/national/court_law/2024/12/15/CNDOUMY4FBG77GW3VPDIFA275A/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/15/CNDOUMY4FBG77GW3VPDIFA275A/</guid>
@@ -869,16 +921,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QZJ55AZDUJGV3K6KO6YUOREPFY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산 연제구 거제동 부산지법 등 법원 전경. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;미혼 여성에게 유부남인 사실을 숨기고 결혼을 미끼로 2년간 100여차례에 걸쳐 1억여원을 받아 챙긴 40대 남성이 실형을 선고받았다.&lt;br&gt;&lt;br&gt;부산지법 형사11단독(부장판사 정순열)은 사기 혐의로 불구속 기소된 A씨에게 징역 2년 6개월을 선고했다고 8일 밝혔다. 정 판사는 재판을 진행하면서 6개월 이상 A씨 소재를 확인할 수 없자 피고인 진술 없이 선고했다.&lt;br&gt;&lt;br&gt;A씨는 2015년쯤부터 교제하던 피해 미혼 여성에게 “계좌가 모두 묶여서 일을 할 수 없다”며 “잠시 쓰고 갚을 테니 돈을 빌려달라”고 속여 2020년 3월부터 2년여간 모두 136차례에 걸쳐 1억3095만원을 받아 가로챈 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;A씨는 지난 1월부터 진행된 재판에 단 한 번도 나오지 않았고 선고날에도 출석하지 않았다. 법원은 구속영장을 발부해 A씨 신병을 확보할 예정이다.&lt;br&gt;&lt;br&gt;재판부는 “피고인은 유부남이란 사실을 숨기고 2015년쯤부터 미혼 여성인 피해자와 사귀면서 교제 막바지 2년여 동안 100차례 넘게 1억원 넘는 돈을 가로채 죄질이 상당히 불량하다”며 “피해자는 행복한 결혼생활을 꿈꾸며 모아둔 전 재산과 가족에게 빌린 돈, 대출금까지 모두 피고인에게 줘 극심한 경제·정신적 고통을 당하고 있다”고 말했다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>“의대 생각 없다” 수능 만점자, 서울대 컴공 수시 합격</title>
-      <link>https://www.chosun.com/national/education/2024/12/13/V6LYRCDWQBCW3DQS2SNCTNBAY4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2024/12/13/V6LYRCDWQBCW3DQS2SNCTNBAY4/</guid>
-      <dc:creator>김민기 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 13 Dec 2024 06:13:16 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XMUC6F42HNFETIFQSRS6QNWBWY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2025학년도 수능에서 전 과목 만점을 받은 서울 광남고 서장협군이 지난 5일 광진구 학교에서 자신이 친구들과 지난해 만든 인공지능 기반 체스 게임기를 들고 웃고 있다. 그는 의대 대신 서울대 컴퓨터공학부 진학을 꿈꾼다. 서군은 만점 비결에 대해 “모의고사 등 성적에 일희일비하지 않고 공부했다”고 했다. /김지호 기자
-&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;올해 수능 만점자 중 한 명인 서울 광남고 서장협(18)군이 서울대 컴퓨터공학부 수시에 합격했다.&lt;br&gt;&lt;br&gt;13일 광남고에 따르면 서군은 전날 발표된 2025학년도 서울대 수시 모집 합격자 명단에 이름을 올렸다. 앞서 서군은 올해 수능에서 지구과학Ⅰ·물리Ⅱ를 비롯해 전 과목 만점을 받았다. 수능 만점자 11명 중 고3 학생은 4명으로, 서군은 유일한 일반고 재학생 만점자였다.&lt;br&gt;&lt;br&gt;서군은 수능 가채점 결과 만점이 확인된 이후 열린 서울대 컴퓨터공학부 수시 면접을 보러 갔다. 수시에 합격하면 아무리 수능 점수가 높아도 의대를 비롯해 정시 전형에 지원할 수 없다. 하지만 평소 의대에 뜻이 없었던 서군은 부모님을 비롯한 주변 지인의 의대 진학 권유에도 공학도가 되겠다는 뜻을 굽히지 않았고, 서울대 컴퓨터공학부 수시 전형을 마저 치렀다. 어릴 때부터 컴퓨터 프로그래밍에 흥미를 보였던 서군은 “서울대에 진학해 수업을 들으며 꿈을 구체적으로 정해 나가겠다”고 했다. 서군은 이번에 함께 지원했던 연세대 컴퓨터과학과 수시 전형은 수능 이후 치르지 않았다. 다른 대학 수시 모집은 지원하지 않았다.&lt;br&gt;&lt;br&gt;학교 관계자는 “서군을 비롯해 이번에 학교에서 서울대 수시 합격자가 5명 나왔다”고 밝혔다. 서울 광진구에 위치한 광남고는 일반고지만 우수 학생들이 많이 진학해 학업 분위기가 좋은 학교로 알려져 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>檢, 2600억 규모 도박자금 세탁조직 기소…금송아지‧명품 등 범죄수익도 압수</title>
       <link>https://www.chosun.com/national/national_general/2024/12/13/IYYEIYMYDNDOXO5M6KF34CVQZM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/13/IYYEIYMYDNDOXO5M6KF34CVQZM/</guid>
@@ -890,24 +932,6 @@
         <media:description type="plain">광주고등지방검찰청 전경. /연합뉴스</media:description>
         <media:credit role="author" scheme="urn:ebu"/>
       </media:content>
-    </item>
-    <item>
-      <title>경찰 “尹 한남동 관저 압수수색 검토” </title>
-      <link>https://www.chosun.com/national/national_general/2024/12/13/OGFZCG5GPBD3FEHY4NAFKOOYRU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/13/OGFZCG5GPBD3FEHY4NAFKOOYRU/</guid>
-      <dc:creator>구아모 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 13 Dec 2024 03:00:22 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3ACM65QQ7UGMMFLGECMJBM3KXM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서대문구 경찰청 국가수사본부. /정두용 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 대통령의 비상계엄 선포 직후 현직 판사가 위치 추적 대상에 포함됐다는 보도는 내용과 관련 경찰 측은 “더불어민주당이재명 대표에게 무죄를 선고한 김동현 판사가 추적 대상에 포함됐다는 내용은 경찰 피의자 진술 조서엔 없다”고 했다.&lt;br&gt;&lt;br&gt;‘12·3 비상계엄 사태’를 수사하는 국가수사본부 특별수사단은 13일 여인형 전 방첩사령관이 조지호 경찰청장에게 정치인 등 15명의 위치 추적과 체포를 지시했고, 조 청장이 이런 내용을 경찰 조사에서 진술했다는 보도에 대해 이같은 입장을 밝혔다. 경찰은 “조지호 청장의 진술조서에 김동현이라는 판사의 이름이 언급된 적은 없다”고 했다. 김동현 판사는 이재명 대표의 위증교사 사건에서 1심 무죄를 선고한 재판장이다.&lt;br&gt;&lt;br&gt;경찰은 윤석열 대통령에 대한 강제수사를 추가로 검토하고 있다. 경찰은 한남동 대통령 관저를 압수수색하는 방안과, 통신내역 압수수색 영장을 발부하는 방안에 대해서도 내부 검토 중이라고 밝혔다. 경찰은 지난 11일에도 용산 대통령실에 대한 압수수색에 나섰으나 대통령 경호처가 진입을 막아 일부 자료만 임의제출 방식으로 확보햇다.&lt;br&gt;&lt;br&gt;경찰은 조지호 경찰청장이 사용하던 비화폰도 추가로 확보했다. 윤석열 대통령이 6차례 국회의원 체포 지침을 내릴 당시 이 핸드폰을 사용한 것으로 파악됐다. 비화폰은 도감청·통화녹음 방지 프로그램이 깔린 보안 휴대전화인데, 관련 서버에 대해서는 압수수색이 이뤄지지 않았다. 앞서 조 청장이 제출한 휴대전화는 비화폰이 아닌 개인 휴대전화였다. 경찰은 이틀간 디지털 포렌식을 마친 뒤 개인폰을 돌려줬다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>검찰, 대선 때 쓰던 명태균 ‘황금폰’ 확보…포렌식 예정</title>
-      <link>https://www.chosun.com/national/court_law/2024/12/13/ZRZP7J3T3VF65LYXA4KXTXECRU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/13/ZRZP7J3T3VF65LYXA4KXTXECRU/</guid>
-      <dc:creator>이슬비 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 13 Dec 2024 01:10:09 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NABQFEWDPVMK5CADBU7LJPYVDE.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;정치 브로커 명태균씨가 지난 11월 9일 오전 조사를 받기 위해 창원지검에 출석하면서 취재진 질문에 답하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정치 브로커 명태균(54·구속)씨의 ‘공천 거래’ 의혹을 수사 중인 검찰이 명씨가 사용했던 이른바 ‘황금폰’을 확보한 것으로 전해졌다. ‘황금폰’은 명씨가 지난 2022년 3월 치러진 대선 기간을 포함해 2019년 9월부터 작년 11월까지 사용한 휴대전화다.&lt;br&gt;&lt;br&gt;13일 본지 취재를 종합하면, 창원지검 전담 수사팀(팀장 이지형 차장검사)은 전날 밤 명씨의 변호사로부터 과거 사용하던 휴대전화 3대와 USB 1개를 확보했다. 검찰은 명씨가 제출한 휴대전화 안에 윤석열 대통령 부부를 포함해 유력 정치인들과 연락을 주고받은 증거와 녹음 등이 있을 것으로 보고 포렌식 분석 등을 진행할 예정이다.&lt;br&gt;&lt;br&gt;명씨의 휴대전화 3대 중 2019년 9월부터 지난해 11월까지 사용한 휴대전화는 핵심 증거로 꼽힌다. 이때는 2022년 대선과 지방선거, 2022년 6월 김영선 전 국민의힘 의원이 당선된 재·보궐 선거 등이 치러진 시기다.&lt;br&gt;&lt;br&gt;명씨는 앞서 검찰 조사에서 “휴대전화를 폐기했다”고 했다가 처남을 통해 숨겼다고 하는 등 말을 바꿔왔다. 명씨 변호인은 “만일 명씨가 휴대전화를 가지고 있다면 검찰이 아닌 국민이나 재판부, 민주당에 제출할 수도 있다”고 밝히기도 했다.&lt;br&gt;&lt;br&gt;이에 검찰은 지난 3일 명씨를 기소하면서 정치자금법 위반 혐의에 증거은닉 교사도 추가했다. 명씨는 공천을 도운 대가로 김영선 전 의원으로부터 7600여만 원을, 2022년 6월 지방선거에 출마를 준비했던 예비 후보 배모씨와 이모씨로부터 1억2000만원씩을 받은 혐의(정치자금법 위반)와 자신의 휴대전화를 처남 이모씨에게 숨기라고 시킨 혐의(증거은닉 교사)를 받는다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>수원서 잃어버린 경찰 테이저건… 20km 떨어진 오산서 18시간 만에 발견</title>
@@ -926,15 +950,6 @@
       <description/>
       <pubDate>Fri, 13 Dec 2024 00:31:43 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KR4DRPWXZUSFUVTDV3RHCGIOHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;조지호 경찰청장이 지난 9일 서울 여의도 국회에서 열린 법제사법위원회 전체회의에서 발언하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 대통령의 ‘12·3 비상계엄’ 내란 가담 혐의로 경찰 국수본에 긴급 체포된 조지호 경찰청장 측은 13일 “3일 비상 계엄 선포 전 삼청동 안가에 조 청장을 부른 윤 대통령이 비상 계엄 시 접수 기관 10여곳을 지시했다”고 13일 밝혔다. 이 점령 대상지에는 그간 알려진 국회, 선관위, MBC, 여론조사꽃을 비롯해 언론사 등 더 ‘민감한 곳’이 있다고 조 청장 측은 밝혔다.&lt;br&gt;&lt;br&gt;조 청장 측은 또 당시 윤 대통령이 ‘종북 세력’ 같은 말을 사용하면서 ‘계엄의 정당성’을 ‘결연한 목소리’로 설명했다고 밝혔다. 또 정치인 등 15명 체포 명단에 더불어민주당 이재명 대표에게 무죄를 선고한 김동현 판사도 포함돼 있었다고 밝혔다. 윤 대통령은 비상 계엄 해제 후 “죄송하다”고 말하는 조 청장에게 “아니야 수고했어. 조 청장 덕분에 빨리 잘 끝났어”라고 말했다고 조 청장 측은 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>대법 “이재명 무죄 판사 체포 시도, 사실이면 중대한 사법권 침해”</title>
-      <link>https://www.chosun.com/national/court_law/2024/12/13/FGDEIMWX6VGNHKWWTZDJ6QHLOE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/13/FGDEIMWX6VGNHKWWTZDJ6QHLOE/</guid>
-      <dc:creator>박혜연 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 13 Dec 2024 00:57:40 +0000</pubDate>
-      <content:encoded>대법원은 윤석열 대통령이 비상계엄을 선포한 뒤 현직 판사를 체포하려 했다면 사법권의 중대한 침해라고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CXDAEJFMEEAGAHQTOS3X5GIEHQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 대법원의 모습. / 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대법원은 13일 “비상계엄 선포 당시 이재명 대표에 무죄를 선고한 판사를 체포하려 했다는 보도가 있었다”며 “만약 사실이라면 사법권에 대한 직접적이고 중대한 침해로서 심각한 우려를 금할 수 없다”고 했다.&lt;br&gt;&lt;br&gt;이어 “이는 법치국가에서 절대 발생해서는 안될 일로 이에 대한 신속한 사실 규명과 엄정한 법적 책임이 따라야 할 사안”이라고 지적했다.&lt;br&gt;&lt;br&gt;이날 중앙일보는 ‘경찰청 국가수사본부 특별수사단이 조지호 경찰청장 조사 과정에서 윤 대통령이 비상계엄 선포 당시 이 대표의 위증교사 혐의에 대해 무죄를 선고한 현직 판사를 위치추적하려 했다는 진술을 확보했다’고 보도했다. 이에 대해 대법원이 공식 입장을 낸 것이다.&lt;br&gt;&lt;br&gt;아울러 대법원은 이날 “법원행정처장은 지난 6일 국회 법사위에서 비상계엄 선포 당시 체포 대상에 전임 대법원장과 전 대법관이 포함되었다는 것에 대하여 만약 사실이라면 도저히 납득이 가지 않는 부적절한 조치임을 명확히 밝혔다”고도 강조했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>5년 지연된 단죄… 조국, 그 사이 黨 만들고 의원도 됐다</title>
