@@ -13,6 +13,60 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>이사회 의결 없이 취업규칙 바꿔 정년퇴직… 대법 “효력 없어”</title>
+      <link>https://www.chosun.com/national/court_law/2024/12/15/CNDOUMY4FBG77GW3VPDIFA275A/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/15/CNDOUMY4FBG77GW3VPDIFA275A/</guid>
+      <dc:creator>방극렬 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 15 Dec 2024 04:50:48 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/67FAGCVLJ7DJWYJULVOOW4GXRE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 대법원 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;회사 정관에서 정한 이사회의 의결을 거치지 않고 취업규칙을 개정해 정년 규정을 바꾼 경우, 이를 근거로 근로자를 정년퇴직시키는 것은 잘못이라는 대법원 판단이 나왔다.&lt;br&gt;&lt;br&gt;15일 법조계에 따르면, 대법원 1부(주심 신숙희 대법관)는 A씨가 중앙노동위원회 위원장을 상대로 낸 부당해고 구제 재심 판정 취소소송에서 원고 패소한 원심 판결을 지난달 20일 파기환송했다.&lt;br&gt;&lt;br&gt;소송을 제기한 A씨는 1957년생으로, 만 60세가 되는 해인 2017년 한 사회복지법인에 장년 인턴으로 입사했다. A씨는 인턴 기간이 종료된 후에도 회사 측과 근로 기한을 정하지 않은 정규직 근로계약을 새로 체결하고 근무를 이어갔다. 당시 해당 법인의 정년퇴직 연령은 만 60세였다.&lt;br&gt;&lt;br&gt;사측은 2020년 9월 취업규칙을 개정해 정년을 만 60세에서 64세로 늘렸다. 이후 2021년 6월 만 64세가 된 A씨를 정년퇴직 처리했다. 문제는 당시 취업규칙을 개정할 때 정관에서 필수로 규정된 이사회 의결을 거치지 않았다는 것이다. 사측은 이듬해인 2022년 3월에야 해당 규칙을 이사회에서 의결하고 소급 적용하기로 결정했다.&lt;br&gt;&lt;br&gt;이에 A씨는 회사가 이사회 의결 없이 취업규칙을 변경하고, 자신을 정년퇴직 처리한 것이 부당하다며 소송을 냈다. 1심은 A씨 승소, 2심은 패소 판결을 내렸다. 2심은 “개정 취업규칙은 정년을 만 64세로 연장한 것으로 A씨를 포함한 근로자들에게 불리하게 변경된 게 아니다. 이사회가 이를 소급 시행하기로 유효하게 결정한 것”이라며 “A씨에게도 만 64세의 정년이 적용돼야 하고, 정년퇴직 처리를 부당하다고 할 수 없다”고 했다.&lt;br&gt;&lt;br&gt;그러나 대법원은 이사회 의결을 거치지 않고 취업규칙을 개정한 것은 절차적 문제가 있다고 판단했다. 대법원은 “A씨가 정년퇴직될 당시인 2021년 6월 개정 취업규칙은 이사회 의결을 얻지 못해 효력이 없는 상태였다”면서 “유효하지 않은 만 64세 정년을 근거로 A씨의 근로관계가 당연히 종료됐다고 볼 수 없다”고 밝혔다.&lt;br&gt;&lt;br&gt;다만 대법원은 2022년 3월 이사회가 취업규칙을 의결한 시점에는 A씨 정년이 지난 것이 확실해 근로관계가 종료된 것으로 봐야 한다고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>검찰, ‘추미애가 공개한 계엄 문건, 12.3 계엄과 관련 없다’ 판단</title>
+      <link>https://www.chosun.com/national/court_law/2024/12/15/GKISZ7B5YJE3JIFM44HWEVY2FM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/15/GKISZ7B5YJE3JIFM44HWEVY2FM/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 15 Dec 2024 04:30:46 +0000</pubDate>
+      <content:encoded>‘12‧3 비상계엄’ 사태를 수사하는 검찰 특별수사본부(본부장 박세현 서울고검장)가 더불어민주당 추미애 의원이 공개한 ‘참고보고(參考報告)·계엄사-합수본부 운영 참고자료’ 문건이 지난 3일 비상계엄 선포와는 관련이 없다고 판단한 것으로 15일 전해졌다. 추 의원은 지난 8일 국회에서 기자회견을 열고 해당 문건을 공개하면서 윤석열 대통령의 계엄령 선포가 사전에 치밀하게 모의된 것이라는 취지로 주장했었다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DTFONVVS7UH5ERBFPJR6EIM2NY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;추미애 국민의힘 의원이 지난 8일 국회 정론관에서 기자회견을 열고 ‘참고보고(參考報告)·계엄사-합수본부 운영 참고자료’란 제목의 문건을 공개하는 모습. /MBC 유튜브 캡처&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 특수본은 최근 국군방첩사령부 관계자 다수를 조사하면서 추 의원이 공개한 문건이 작성된 시기와 경위를 물었다. 이에 방첩사 관계자들은 “해당 문건은 전임 사령관 시절인 작년 7월 작성된 것”이라며 “한미 연합훈련인 을지프리덤실드(UFS) 준비 차원에서 만들어진 것”이라고 진술했다는 것이다. 정성우 방첩사 1처장도 지난 10일 국회 국방위원회에 출석해 이 같이 증언한 바 있다.&lt;br&gt;&lt;br&gt;앞서 추 의원은 지난 8일 8쪽 분량의 해당 문건을 공개하면서 “이 문건은 여인형 방첩사령관의 지시로 방첩사 비서실에서 작성됐고, 11월쯤 방첩사령관에게 보고돼 결심을 받은 자료”라고 주장했다. 추 의원은 “계엄 선포와 관련된 법적 절차, 계엄사령부 구성 및 역할, 합동수사본부 설치와 기능 등 구체적 계획이 상세히 기술돼 있다”며 “특히 국회의 계엄 해제 요구에 대한 대응 방안, 계엄사령관의 임명 절차, 치안 유지와 정보 통제 계획 등이 포함돼 있어 계엄 상황을 상정하고 체계적으로 대비한 정황이 확인된다”고 했다.&lt;br&gt;&lt;br&gt;특수본은 해당 문건 작성 시기와는 별개로, 여인형 전 방첩사령관 등이 사전에 계엄 선포를 모의했는지 여부에 대해서는 계속 수사하는 것으로 전해졌다. 특수본은 여 전 사령관의 구속영장에 “윤 대통령, 김 전 장관 등과 공모해 국회, 국회의원, 선관위의 권능행사를 불가능하게 해 국헌 문란을 목적으로 폭동을 일으켰다”고 적시한 것으로 알려졌다. 여 전 사령관은 지난 14일 구속됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DRMVTIEN5RFTEQU3O744Z2AIEU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;여인형 전 국군방첩사령관이 지난 7일 오전 서울 여의도 국회에서 열린 정보위원회 전체회의에 출석하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>30년 전투헬기 조종사의 난청… 법원 “국가유공자 인정”</title>
+      <link>https://www.chosun.com/national/court_law/2024/12/15/PMAOFUCLMBDDXMG6ACMU5GLLWM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/15/PMAOFUCLMBDDXMG6ACMU5GLLWM/</guid>
+      <dc:creator>방극렬 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 15 Dec 2024 04:18:31 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/I2RZIXQLIVKV5MBEFHBABLHCM4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 10월 30일 경기도 포천시 로드리게즈 사격장에서 한미연합 아파치 헬기가 실사격 훈련을 진행하는 모습. 기사 내용과는 상관없음. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;30여 년간 육군 헬기 조종사로 근무하다 난청(難聽)이 생긴 퇴역 군인에 대해 법원이 국가유공자로 인정해야 한다고 판결했다.&lt;br&gt;&lt;br&gt;15일 법조계에 따르면, 서울행정법원 행정6단독 윤성진 판사는 퇴역 군인 A씨가 서울북부보훈지청장을 상대로 “국가유공자 요건 비해당 결정을 취소해 달라”고 낸 소송에서 최근 원고 승소 판결을 내렸다.&lt;br&gt;&lt;br&gt;A씨는 1990년 육군에 입대해 헬기 조종사로 근무하다가 2021년 정년으로 퇴역했다. A씨는 군 복무 중이던 2010년 병원에서 처음으로 ‘양측 감각신경성 난청’ 진단을 받았다. 퇴역 즈음 받은 청력 검사에서는 A씨가 들을 수 있는 가장 작은 소리가 오른쪽 65dB(데시벨), 왼쪽 56dB로 측정됐다. 평균적으로 정상 청력인 25dB보다 한참 높은 수치로, 중등도·중등고도 난청에 해당한다.&lt;br&gt;&lt;br&gt;A씨는 2022년 1월 보훈심사위원회의 심의와 신체검사를 받고 ‘재해부상 군경’으로 등록됐다. 국가 수호 등과 직접 관련 없는 일을 하다가 다쳤다는 의미다. &lt;br&gt;&lt;br&gt;그러자 A씨는 그해 12월 “임무 수행 중 항공기 소음으로 난청이 생긴 것”이라며 공상 군경으로 변경하고 국가유공자로 등록해달라고 신청을 냈다. 보훈심사위는 A씨가 국가유공자에 해당되지 않는다고 결정했고, 이에 A씨는 불복 소송을 냈다.&lt;br&gt;&lt;br&gt;법원은 A씨의 손을 들어줬다. 육군에서 발급한 비행 경력증명서에 따르면 A씨의 총 비행시간은 5764.6시간, 착륙 횟수는 1만2460회에 달했고, 대부분이 전투용 헬기를 조종하는 경우였다는 점 등이 근거가 됐다. &lt;br&gt;&lt;br&gt;윤 판사는 “A씨의 난청은 군 복무 중 국가의 수호·안전 보장 또는 국민의 생명·재산 보호와 직접적인 관련이 있는 직무 수행이나 교육 훈련으로 발병, 악화했다고 보는 것이 상당하다”며 “국가유공자 요건 비해당 결정은 위법해 취소돼야 한다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>지하철역에서 PT를.. 서울 뚝섬역에 PT장 개관</title>
+      <link>https://www.chosun.com/national/national_general/2024/12/15/KRHNOJ2SXJGKXFKD7EQEDT5C7Y/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/15/KRHNOJ2SXJGKXFKD7EQEDT5C7Y/</guid>
+      <dc:creator>박진성 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 15 Dec 2024 04:03:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GIZFG7GCINCZFEAKIQ6WJUDLH4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;16일 개관할 서울 지하철 2호선 뚝섬역 '핏 스테이션'의 모습/서울시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 지하철 2호선 뚝섬역 안에 ‘PT장’이 생긴다. 지하철에 방치된 유휴 공간을 시민들이 쓸 수 있게 하겠다는 ‘펀 스테이션’ 사업의 두 번째 사례다. 서울시는 지난 5월 여의나루역에 달리기를 좋아하는 시민들을 위한 ‘러너 스테이션’을 열었다.&lt;br&gt;&lt;br&gt;15일 서울시에 따르면 뚝섬역 운동 공간의 이름은 ‘핏 스테이션’(Fit Station)이다. 피트니스를 즐길 수 있는 역이라는 뜻이다. 16일에 개관한다.&lt;br&gt;&lt;br&gt;2호선 뚝섬역 안에는 펜싱훈련장으로 쓰던 100평 가량의 유휴 공간이 있었다. 2022년 운영이 종료된 후 방치돼있었다. 서울시는 이곳을 PT장으로 만들어 지하철을 이용하는 시민들이 즐길 수 있는 콘텐츠를 만들겠다는 계획이다.&lt;br&gt;&lt;br&gt;서울시 관계자는 “지하철로 출퇴근하면서 역 안에서 운동하고 씻고 갈 수 있는 것”이라고 말했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AFSJICF2XFDVPHQ65KQ5HQQ4U4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;16일 개관할 서울 지하철 2호선 뚝섬역 '핏 스테이션'의 모습/서울시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;민간 그룹PT 브랜드 ‘좋은습관PT스튜디오’가 운영을 맡는다. 샤워시설, 물품보관함 등이 설치돼있다. PT비용은 1회 1만원대 수준이다. 월 23만원, 3개월 69만원 수준으로 책정됐다.&lt;br&gt;&lt;br&gt;주말에는 시민들을 위한 무료·저가 특강이 열릴 전망이다. 오는 22일엔 좋은습관 대표인 김동석 마취통층의학과 의사의 건강 세미나를 연다. 1월 4일에는 ‘가라데’ 아시안게임 메달리스트의 무도 클래스가 열린다.&lt;br&gt;&lt;br&gt;앞서 지난 5월 문을 연 여의나루역 ‘러너 스테이션’은 4개월간 3만3000명이 방문했다고 한다.&lt;br&gt;&lt;br&gt;내년에는 신당역, 문정역, 먹골역 등에도 운동을 테마로 한 공간을 만들 예정이다.&lt;br&gt;&lt;br&gt;김정환 서울교통공사 전략사업본부장은 “펀 스테이션을 통해 지하철 역사 내 미활용 또는 저이용 공간을 지속가능하게 탈바꿈시키고, 비운수수익 증대에도 도움이 될 것으로 기대된다”고 말했다.&lt;br&gt;&lt;br&gt;임창수 서울시 미래공간기획관은 “역사를 단순히 지하철을 타기 위해 거쳐가는 플랫폼이 아니라 특별한 경험을 할 수 있는 공간으로 바꿔 나가겠다”며 “나아가 해외 방문객에게도 서울시민의 활기찬 라이프스타일을 체험할 수 있는 공간으로 만들겠다”고 말했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VLHCTAARFNF6DI6EA4Y4FRYZQM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;16일 개관할 서울 지하철 2호선 뚝섬역 '핏 스테이션'의 모습/서울시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>행안부, 시·도 부단체장 회의… 내수 진작 위해 “축제·공무원 송년 모임 예정대로”</title>
+      <link>https://www.chosun.com/national/national_general/2024/12/15/DNHFVANIQNGF3E7R7RNQVQBV5Q/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/15/DNHFVANIQNGF3E7R7RNQVQBV5Q/</guid>
+      <dc:creator>박진성 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 15 Dec 2024 03:29:59 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YN47OVOWZBDSLLIOQI2GBBMLPU.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;행정안전부장관 직무대행 고기동 차관이 15일 오전 서울 종로구 정부서울청사에서 긴급 시-도 부단체장 회의를 개최 하고 있는 모습./행정안전부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;행정안전부가 대통령 권한대행 체제 가동에 따라 긴급 시·도 부단체장 화상회의를 열었다고 15일 밝혔다. 행안부는 내수 진작을 위해 전국 지역 축제와 공무원 송년 모임 등을 예정대로 진행해달라고 당부했다.&lt;br&gt;&lt;br&gt;회의 결과 행안부와 지자체들은 서민생활안정, 지역 경제 활성화를 위해 연말까지 소비·투자 분야를 중심으로 재정집행을 추진하기로 했다. 특히 지자체 주관 축제나 행사를 정상 추진하고, 각종 송년 모임도 예정대로 하기로 했다.&lt;br&gt;&lt;br&gt;행안부는 각 지자체에 지방공공요금 인상 시기 조정 등을 통해 지역물가 관리에 최선을 다해달라고 당부했다.&lt;br&gt;&lt;br&gt;겨울철을 맞아 대설·한파·화재와 같은 재난 대비를 강화하고 연말연시 인파밀집 상황에 대비한 현장 안전관리 또한 강화하기로 했다.&lt;br&gt;&lt;br&gt;고기동 행안부 장관 직무대행은 “공직자들은 흔들림 없이 업무에 매진하도록 해달라”며 “있어야 할 곳에서 해야 할 일을 충실히 해주길 바란다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>경기도, 폭설 피해 소상공인에 1000만원씩 지원</title>
+      <link>https://www.chosun.com/national/regional/2024/12/15/ZWK3LP7BC5FCPKQAJOI5QILURU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/12/15/ZWK3LP7BC5FCPKQAJOI5QILURU/</guid>
+      <dc:creator>권상은 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 15 Dec 2024 04:02:57 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BAB5RCE5GBMHLNPJ6CWK3D4VAI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;폭설로 아케이드 지붕이 무너진 경기도 의왕시 도깨비시장에서 1일 오후 상인과 관계자들이 복구작업을 하고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기도는 15일 폭설 피해를 본 소상공인에게 재난지원금 300만원과 긴급생활안정비 700만원 등 1000만원을 지원한다고 밝혔다.&lt;br&gt;&lt;br&gt;긴급생활안정비 지급 대상은 지난달 26~28일 폭설로 영업장 피해를 입어 시군에 피해 신고가 접수 및 확인된 소상공인이다. 지난 12일 기준 접수된 피해는 3017건에 이른다.&lt;br&gt;&lt;br&gt;경기도에 따르면 소상공인에게 재난지원금과 별도로 긴급생활안정비를 추가 지원하는 것은 전국 최초이다. 기존에는 피해 정도와 관계없이 재난지원금 300만원과 재해구호기금 200만원을 지급했다.&lt;br&gt;&lt;br&gt;경기도는 기상관측 이래 최대 적설로 피해가 막대한 데다 최근 어려운 경기 상황을 고려해 재해구호기금 300억원을 긴급편성해 생활안정비로 지급하게 됐다고 설명했다.&lt;br&gt;&lt;br&gt;경기도는 피해 접수·조사 완료기간이 13일까지로 종료됐으나, 이후에도 피해가 확인되면 동일한 기준과 규모로 긴급생활안정비를 지원할 계획이다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>“재판 공정성에 심각한 도전”…국민재판 배심원 위협 첫 기소, 징역형 선고 </title>
       <link>https://www.chosun.com/national/court_law/2024/12/15/SAPBPMSXWNAGLPVSBIC7GQHMAA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/15/SAPBPMSXWNAGLPVSBIC7GQHMAA/</guid>
@@ -825,15 +879,6 @@
 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;올해 수능 만점자 중 한 명인 서울 광남고 서장협(18)군이 서울대 컴퓨터공학부 수시에 합격했다.&lt;br&gt;&lt;br&gt;13일 광남고에 따르면 서군은 전날 발표된 2025학년도 서울대 수시 모집 합격자 명단에 이름을 올렸다. 앞서 서군은 올해 수능에서 지구과학Ⅰ·물리Ⅱ를 비롯해 전 과목 만점을 받았다. 수능 만점자 11명 중 고3 학생은 4명으로, 서군은 유일한 일반고 재학생 만점자였다.&lt;br&gt;&lt;br&gt;서군은 수능 가채점 결과 만점이 확인된 이후 열린 서울대 컴퓨터공학부 수시 면접을 보러 갔다. 수시에 합격하면 아무리 수능 점수가 높아도 의대를 비롯해 정시 전형에 지원할 수 없다. 하지만 평소 의대에 뜻이 없었던 서군은 부모님을 비롯한 주변 지인의 의대 진학 권유에도 공학도가 되겠다는 뜻을 굽히지 않았고, 서울대 컴퓨터공학부 수시 전형을 마저 치렀다. 어릴 때부터 컴퓨터 프로그래밍에 흥미를 보였던 서군은 “서울대에 진학해 수업을 들으며 꿈을 구체적으로 정해 나가겠다”고 했다. 서군은 이번에 함께 지원했던 연세대 컴퓨터과학과 수시 전형은 수능 이후 치르지 않았다. 다른 대학 수시 모집은 지원하지 않았다.&lt;br&gt;&lt;br&gt;학교 관계자는 “서군을 비롯해 이번에 학교에서 서울대 수시 합격자가 5명 나왔다”고 밝혔다. 서울 광진구에 위치한 광남고는 일반고지만 우수 학생들이 많이 진학해 학업 분위기가 좋은 학교로 알려져 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>공직선거법 위반 최경환 전 의원…벌금 150만원 구형</title>
-      <link>https://www.chosun.com/national/regional/2024/12/13/LCU7AOTVDBFETGL7OM4TIQWNLM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/12/13/LCU7AOTVDBFETGL7OM4TIQWNLM/</guid>
-      <dc:creator>대구=노인호 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 13 Dec 2024 06:13:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NNND6UIBABJMVDUWRT5C453VJU.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;최경환 전 경제부총리가 지난 1월 29일 오전 경북 경산시 경산역 앞에서 제22대 국회의원선거 경산지역 무소속 출마를 선언하고 있다./뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;공식 선거운동 기간 이전에 선거운동을 한 혐의로 재판에 넘겨진 최경한 전 경제부총리에게 검찰이 벌금 150만원을 구형했다.&lt;br&gt;&lt;br&gt;13일 대구지법 제12형사부 어재원 부장판사 심리로 열린 결심공판에서 검찰은 최 전 부총리에게 “벌금 150만원을 선고해 달라”고 재판부에 요청했다.&lt;br&gt;&lt;br&gt;최 전 부총리는 22대 국회의원 공식 선거운동 기간 전인 지난 1월 중순쯤 경북 경산에서 열린 한 단체 창립총회 행사장에 참석해 마이크를 잡고 불법 선거운동을 한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;최 전 총리는 최후 변론에서 “공직선거법에 대해 좀 더 숙지하고 신중하게 처신하지 못한 점에 대해 반성하고 뉘우치고 있다”고 말했다.&lt;br&gt;&lt;br&gt;최 전 총리에 대한 선고공판은 내년 1월 24일 진행될 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>檢, 2600억 규모 도박자금 세탁조직 기소…금송아지‧명품 등 범죄수익도 압수</title>
       <link>https://www.chosun.com/national/national_general/2024/12/13/IYYEIYMYDNDOXO5M6KF34CVQZM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/13/IYYEIYMYDNDOXO5M6KF34CVQZM/</guid>
@@ -845,58 +890,6 @@
         <media:description type="plain">광주고등지방검찰청 전경. /연합뉴스</media:description>
         <media:credit role="author" scheme="urn:ebu"/>
       </media:content>
-    </item>
-    <item>
-      <title>‘새만금 태양광 비리’ 신영대 민주당 의원 전 보좌관 1심 징역형</title>
-      <link>https://www.chosun.com/national/national_general/2024/12/13/5ZFUD2SODFDOXNS4FPVCM5IKVQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/13/5ZFUD2SODFDOXNS4FPVCM5IKVQ/</guid>
-      <dc:creator>고유찬 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 13 Dec 2024 05:50:23 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2LC5DJVTIRLPNCIGQW4M5X5D5Y.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;신영대 더불어민주당 의원이 지난달 28일 오후 서울 여의도 국회에서 열린 제418회국회(정기회) 제13차 본회의에서 체포동의안과 관련한 신상 발언을 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;새만금 태양광 사업 비리 사건에 연루된 신영대 더불어민주당 의원의 전 보좌관이 징역형을 선고받았다.&lt;br&gt;&lt;br&gt;서울북부지법 형사12단독 허명산 부장판사는 13일 특정범죄가중처벌 등에 관한 법률 위반(알선수재) 등 혐의로 기소된 신영대 더불어민주당 의원 전 보좌관 정모(55)씨에게 징역 1년 2개월과 추징금 2000만원을 선고했다.&lt;br&gt;&lt;br&gt;정씨는 새만금 태양광 발전사업 공사 수주와 관련해 담당 공무원에게 청탁해준다는 명목으로 현금 2000만원, 급여를 가장한 3750만원 등 모두 5750만원을 받은 혐의를 받는다.&lt;br&gt;&lt;br&gt;정씨는 브로커 박모(57)씨로부터 금품을 수수했는데, 박씨 역시 정씨와의 친분을 내세워 지역 전기공사업체 등으로부터 수천만원을 수수한 혐의(특정범죄가중법상 알선수재) 등으로 지난달 항소심에서 징역 2년과 추징금 7250만원을 선고받은 바 있다.&lt;br&gt;&lt;br&gt;재판부는 “알선수재의 대가로 취득하는 금액을 가장하기 위해 타인의 계좌를 도용하는 등 범행 방법이 매우 불량하다”며 “브로커 박씨를 찾아가 허위 진술을 하도록 압박하는 등 증거인멸을 시도한 정황은 불리한 정상”이라고 양형 이유를 설명했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>법원, 20대 연인 사상 ‘마세라티 뺑소니범’ 징역 10년 선고</title>
-      <link>https://www.chosun.com/national/national_general/2024/12/13/AIXNBXARYJHSBIJZZTNMNYA7SQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/13/AIXNBXARYJHSBIJZZTNMNYA7SQ/</guid>
-      <dc:creator>광주광역시=진창일 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 13 Dec 2024 06:05:30 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LC23YIUDOZPP7L5ZIHFVA55IU4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 10월 4일 오전 광주 서구 서부경찰서에서 '뺑소니 사망사고' 마세라티 운전자 김모씨가 검찰로 송치되고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;법원이 음주운전으로 사망사고를 낸 뒤 달아난 ‘마세라티 뺑소니 사건’ 운전자에게 징역 10년을 선고했다.&lt;br&gt;&lt;br&gt;광주지법 형사4단독 이광헌 부장판사는 13일 특정범죄가중처벌법 위반(도주치사상)과 도로교통법 위반(음주운전) 등 혐의로 구속 기소된 김모(32)씨에 대해 징역 10년을 선고했다. 범인도피 혐의로 함께 구속 기소된 오모(33)씨에 대해서는 징역 8개월에 집행유예 2년을 선고했다.&lt;br&gt;&lt;br&gt;김씨는 지난 9월 24일 오전 3시 11분쯤 광주광역시 서구 화정동의 한 도로에서 술을 마신 채 마세라티 차량을 운전해 20대 연인이 타고 있던 오토바이를 들이받은 뒤 구호 조치 없이 달아난 혐의로 재판에 넘겨졌다. 이 사고로 연인 중 여성이 숨지고 남성은 중상을 입었다.&lt;br&gt;&lt;br&gt;김씨는 사고로부터 약 67시간 뒤인 지난 9월 26일 오후 9시50분쯤 서울 강남구의 한 도로에서 검거됐다. 경찰은 김씨가 음주운전을 한 정황을 확인하고도 “혈중알코올농도를 유추하는 위드마크(Widmark) 공식을 적용한 결과 단속 기준인 혈중알코올농도 0.03%에 미달했다”며 도주치사상 혐의만 적용했었다.&lt;br&gt;&lt;br&gt;하지만 검찰 수사 단계에서 김씨가 운전에 앞서 최소 2병 이상의 소주를 마신 사실이 확인됐다. 검찰은 위드마크 공식을 적용해 김씨가 혈중알코올농도 0.093% 수치의 음주 상태로 시속 50㎞ 제한속도 도로에서 128㎞로 초과속 운전하다 사고를 낸 것으로 보고 음주운전 혐의를 추가해 기소했다.&lt;br&gt;&lt;br&gt;이 부장판사는 “김씨는 사고 발생 직후 쓰러져 있는 피해자들을 방치한 채 그대로 도주했고, 수사기관 추적을 피해 도피행각을 일삼으며 오씨를 비롯한 지인들에게 범인 도피 행위를 종용해 죄질이 매우 불량하다”고 판시했다.&lt;br&gt;&lt;br&gt;오씨에 대해서는 “잘못을 반성하고 있고 친구인 김씨의 요청을 거절 못해 범행에 이르게 된 것으로 볼 여지가 있는 점을 고려해 집행유예를 선고한다”고 양형 이유를 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/LC23YIUDOZPP7L5ZIHFVA55IU4.jpg?width=4000&amp;height=6000&amp;auth=9b945d0427090e36bfcaf2ec881abb8474ce63c8425e99c67ec18dbe33a9bc0f&amp;smart=true" type="image/jpeg" height="6000" width="4000">
-        <media:description type="plain">&lt;YONHAP PHOTO-3488&gt; '뺑소니' 마세라티 운전자 검찰 송치
-    (광주=연합뉴스) 김혜인 기자 = 4일 오전 광주 서구 서부경찰서에서 '뺑소니 사망사고' 마세라티 운전자 김모(33) 씨가 검찰로 송치되고 있다. 2024.10.4
-    in@yna.co.kr/2024-10-04 08:35:46/
-&lt;저작권자 ⓒ 1980-2024 ㈜연합뉴스. 무단 전재 재배포 금지, AI 학습 및 활용 금지&gt;</media:description>
-        <media:credit role="author" scheme="urn:ebu">김혜인</media:credit>
-      </media:content>
-    </item>
-    <item>
-      <title>캐디 말 안 듣고 ‘풀스윙’… 골프공으로 여성 얼굴 맞힌 50대 벌금 300만원</title>
-      <link>https://www.chosun.com/national/court_law/2024/12/13/K3MAD7YSQRC65JGBMDDZ6GVULQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/13/K3MAD7YSQRC65JGBMDDZ6GVULQ/</guid>
-      <dc:creator>춘천=정성원 기자</dc:creator>
-      <description>캐디의 지시에 따르지 않고 골프공을 쳐 앞서 골프를 치던 다른 사람의 얼굴을 공을 맞힌 50대에게 법원이 벌금형을 선고했다.춘천지법 형사3단독 박성민 부장판사는 과실치상 혐의로 기소된 A(54)씨에게 벌금 300만원을 선고했다고 13일 밝혔다.</description>
-      <pubDate>Fri, 13 Dec 2024 05:56:43 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ODU32N27ROUVSOUN2VX522QYQE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;춘천지법 전경./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;캐디의 지시에 따르지 않고 공을 쳐 앞서 경기를 하던 골퍼의 얼굴에 공을 맞힌 50대에게 법원이 벌금형을 선고했다.&lt;br&gt;&lt;br&gt;춘천지법 형사3단독 박성민 부장판사는 과실치상 혐의로 기소된 A(54)씨에게 벌금 300만원을 선고했다고 13일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 2022년 11월 강원 춘천시 한 골프장에서 캐디의 사인이 없었음에도 골프공을 쳐 앞서 같은 홀에서 게임을 하던 50대 골퍼 B씨의 얼굴에 골프공을 맞힌 혐의다. B씨는 이 사고로 뇌진탕 등 전치 3주의 상처를 입었다.&lt;br&gt;&lt;br&gt;검찰은 B씨가 홀에서 빠져나가지 않은 상황이었으므로 A씨가 주변을 확인하고 캐디 지시에 따라 게임을 진행할 주의의무가 있었음에도 이를 어겼다고 판단해 법원에 벌금형을 내려달라고 요청했다.&lt;br&gt;&lt;br&gt;A씨는 벌금 500만원의 약식명령을 받았지만 이에 불복, 정식재판을 청구했다.&lt;br&gt;&lt;br&gt;A씨는 재판 과정에서 “앞 팀의 골프 카트가 바깥으로 이동하는 것을 보고 앞 팀이 그린에서 나간 것이라 판단했다”며 선처를 호소했지만 재판부는 이를 받아들이지 않았다.&lt;br&gt;&lt;br&gt;재판부는 “당시 피해자와 캐디 모두 그린 위 홀컵 주변에 있었다는 진술을 하고 있다”면서 “피해자의 상해 정도와 피해자와 합의되지 않은 사정 등을 양형에 참작했다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>김용현 변호인단 “비상계엄 수사·재판 시도 자체가 내란"</title>
-      <link>https://www.chosun.com/national/court_law/2024/12/13/UVULAEQEJ5CB7G7FQZVM6HVUIY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/13/UVULAEQEJ5CB7G7FQZVM6HVUIY/</guid>
-      <dc:creator>유종헌 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 13 Dec 2024 05:42:43 +0000</pubDate>
-      <content:encoded>김용현 전 국방부 장관의 새 변호인단이 13일 “대통령의 비상계엄 선포 자체를 ‘내란’이라고 주장하고, 수사하고 재판하려는 시도 자체가 국헌을 문란하게 하는 ‘내란’ 행위”라고 주장했다.&lt;br&gt;&lt;br&gt;김 전 장관 측 변호인단은 이날 “비상계엄 선포는 헌법이 대통령에게 부여한 고유한 통치 권한”이라며 이 같이 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ADV5JT6TZFI6C5YIVIQF76GSGE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김용현 전 국방부 장관. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;변호인단은 “윤석열 대통령은 전날 끝까지 싸우겠다는 대국민 담화를 발표했다”면서 “김 전 장관도 대통령과 함께 싸워 대한민국 헌법을 지키겠다는 입장”이라고 했다.&lt;br&gt;&lt;br&gt;변호인단은 “비상계엄 선포에 필요한 요건이 충족되었는지는 대통령만이 판단할 수 있는 고유한 통치행위이므로 사법적 판단의 대상이 될 수 없다”면서 “비상계엄 선포에 대한 유일한 헌법적 통제는 국회에 의한 계엄해제요구권 행사이고, 대통령은 헌법적 통제에 따라서 비상계엄을 해제했다”고 했다.&lt;br&gt;&lt;br&gt;이어 “통치행위를 사법심사 대상으로 삼게되면 결과적으로 수사기관과 사법기관을 정치기관화하게 된다”면서 “이는 사법부 독립원칙, 삼권분리원칙에 위반될 뿐만 아니라 대한민국 헌법이 규정하고 있는 자유민주적 기본질서에 어긋나는 일”이라고 했다.&lt;br&gt;&lt;br&gt;변호인단은 또 “변호인단 역시 헌법적 질서와 김 전 장관의 권리보호를 위해 모든 조치를 다 할 것”이라고 했다.&lt;br&gt;&lt;br&gt;김 전 장관은 지난 12일 이하상 변호사 등을 새로운 변호인으로 선임했다. 이 변호사는 전광훈 사랑제일교회 목사 측을 여러 번 대리했다.&lt;br&gt;&lt;br&gt;앞서 김 전 장관을 변호했던 법무법인 대륙아주는 김 전 장관이 구속된 이후 사임했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[속보] 검찰, 여인형 전 방첩사령관 구속영장... 계엄 지휘관 중 처음 </title>
-      <link>https://www.chosun.com/national/court_law/2024/12/13/JVOBWL6ZJ5CLPAV5BMRSUDLKUQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/13/JVOBWL6ZJ5CLPAV5BMRSUDLKUQ/</guid>
-      <dc:creator>유종헌 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 13 Dec 2024 04:47:46 +0000</pubDate>
-      <content:encoded>‘12·3 비상계엄’ 사태를 수사하는 검찰이 13일 여인형 전 국군방첩사령관에 대해 구속영장을 청구했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3TI5VYNJZNCZTH4HXGSV5RZFSE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;여인형 전 국군방첩사령관이 지난 7일 오전 서울 여의도 국회에서 열린 정보위원회 전체회의에 출석하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰 비상계엄 특별수사본부(본부장 박세현 서울고검장)는 이날 여 전 사령관에 대해 중앙지역군사법원에 구속영장을 청구했다고 밝혔다. 검찰이 이 사건으로 구속영장을 청구한 것은 지난 10일 구속된 김용현 전 국방부 장관에 이어 여 전 사령관이 두 번째다. 여 전 사령관은 계엄군 지휘관 중에는 처음 구속 기로에 놓이게 됐다.&lt;br&gt;&lt;br&gt;여 전 사령관은 비상계엄 당시 여야 대표 등 주요 요인 체포 지시를 내리고, 국회와 중앙선거관리위원회에 병력을 출동시켰다는 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;김대우 국군방첩사령부 수사단장은 지난 10일 국회에서 “여 전 사령관에게 총 14명을 체포하라는 지시를 받았다”고 밝혔다. 이날 영장실질심사를 앞두고 있는 조지호 경찰청장 측 변호인도 “여 전 사령관이 15명을 체포해야 한다고 했으며, 이재명 민주당 대표의 공직선거법 재판 1심에서 무죄를 선고한 김동현 부장판사도 포함됐다”고 주장했다.&lt;br&gt;&lt;br&gt;여 전 사령관은 검찰에서 “윤 대통령이 사석에서 여러 차례 계엄의 필요성을 이야기했다”는 취지로 진술한 것으로 전해졌다. 여 전 사령관은 윤 대통령, 김 전 장관의 충암고 후배다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>경찰 “尹 한남동 관저 압수수색 검토” </title>
