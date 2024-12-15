@@ -13,6 +13,48 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>경찰, 문상호·노상원 전현직 정보사령관 ‘내란혐의’ 긴급체포</title>
+      <link>https://www.chosun.com/national/incident/2024/12/15/XRW56LWHWNBJ3ICJ4F2HT5XT5E/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/12/15/XRW56LWHWNBJ3ICJ4F2HT5XT5E/</guid>
+      <dc:creator>안준현 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 15 Dec 2024 10:17:17 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LWVAAKP4ZZP6Z4EOMCE3GYI2E4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;9일 서울 서대문구 경찰청 국가수사본부에서 관계자들이 지나가고 있다. 이날 우종수 경찰청 국가수사본부장은 비상계엄 수사 상황과 관련 브리핑을 진행했다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국가수사본부 비상계엄 특별수사단은 문상호 정보사령관과 노상원 전 정보사령관을 내란 혐의로 긴급체포했다고 15일 밝혔다.&lt;br&gt;&lt;br&gt;정보사는 12·3 비상계엄 당시 병력 및 요원을 투입했다는 의혹을 받고 있다. 문 사령관은 지난 10일 직무 정지됐다. &lt;br&gt;&lt;br&gt;박근혜 정부 시절 정보사령관을 지낸 노상원씨(육사 41기)는 12·3 비상계엄을 기획하고, 계엄 당시 포고령 작성에도 개입했다는 의혹을 받는다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>내일 늦은 오후부터 모레까지 눈발... 바람 불어 더 춥다</title>
+      <link>https://www.chosun.com/national/transport-environment/2024/12/15/YT7U6ZLK5NEUXOGYQD34S7T45I/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2024/12/15/YT7U6ZLK5NEUXOGYQD34S7T45I/</guid>
+      <dc:creator>김아사 기자</dc:creator>
+      <description>16일 월요일엔 전국이 오후부터 흐려지면서 수도권과 충청, 전라, 제주 지역 등에 눈이나 비가 내릴 것으로 보인다. 북쪽에서 찬 공기가 유입되며 서울의 아침 기온이 영하 4도까지 떨어지는 등 주말과 비슷하게 춥겠다.</description>
+      <pubDate>Sun, 15 Dec 2024 10:56:38 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LFRF4GCAVNMO5ADCLV65H4GIIU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전주시의 기온이 영하권에 접어들기 시작한 지난 13일 전북 전주시 덕진구 송천동 세병로에 눈이 내리고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;16일 월요일에는 전국이 오후부터 흐려지면서 수도권과 충청, 전라, 제주 등에 눈이나 비가 내리겠다. 북쪽에서 찬 공기가 유입되며 서울의 아침 기온이 영하 4도까지 떨어지는 등 주말과 비슷하게 춥겠다.&lt;br&gt;&lt;br&gt;15일 기상청에 따르면, 16일 늦은 오후부터 비나 눈이 시작돼 17일까지 이어질 전망이다. 이틀간 예상 적설량은 수도권, 충청, 전라, 제주 지역 등에 1~5㎝ 안팎, 비는 5㎜가량 오겠다.&lt;br&gt;&lt;br&gt;아침 최저기온은 영하 10도에서 영상 3도, 낮 최고기온은 2~10도를 나타낼 전망이다. 서울 영하 4도에서 영상 4도, 대전 영하 3도에서 영상 5도, 대구 영하 2도에서 영상 6도, 광주 1~7도, 부산 1~8도 등으로 예측됐다. 바람도 다소 강하게 불어 체감 온도는 더욱 떨어질 것으로 전망된다. 대기 확산이 원활해 미세 먼지 농도는 전국이 ‘좋음~보통’ 수준을 보이겠다.&lt;br&gt;&lt;br&gt;충남과 호남 등 서쪽 지역엔 눈이나 비가 이번 주 중반까지 이어질 것으로 보인다. 전국적으로 아침 기온이 영하권을 기록하며 추운 날씨가 지속될 전망이라고 기상청은 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/2LZNQ2SCWNLUXAIQPFCVCOCLLM.JPG?width=5177&amp;height=3452&amp;auth=d5376f17b1988dfe7aa758c6acbb64cfca60dd8fdfa6f6b3986e2f51031fad2d&amp;smart=true" type="image/jpeg" height="3452" width="5177">
+        <media:description type="plain">(서울=뉴스1) 신웅수 기자 = 15일 오후 서울 경복궁에서 외국인 관광객들이 웅크랜 채 산책을 하고 있다.
+
+기상청은 내일부터는 서울의 아침 최저 기온이 영하 4도까지 떨어질 것으로 예보했다. 2024.12.15/뉴스1</media:description>
+        <media:credit role="author" scheme="urn:ebu">(서울=뉴스1) 신웅수 기자</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>충북 청주서 “尹 탄핵 촉구” 정당 현수막 훼손... 50대 男, 경찰 조사</title>
+      <link>https://www.chosun.com/national/incident/2024/12/15/CBRAMRW345FKJITKXES62P7AKI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/12/15/CBRAMRW345FKJITKXES62P7AKI/</guid>
+      <dc:creator>이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 15 Dec 2024 10:47:59 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3TWPOSMLOWPD2FH7EABP6ZRWAU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;충북 청주청원경찰서 전경./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 대통령 탄핵을 촉구하는 내용의 정당 현수막을 훼손한 50대 남성이 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;충북 청주 청원경찰서는 재물손괴 혐의로 50대 A씨를 불구속 입건했다고 15일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 13일 오전 9시쯤 충북 청주시 서원구 사직동의 한 사거리에서 더불어민주당이 도로변에 게시한 현수막을 가위로 잘라 훼손한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;현수막엔 윤석열 대통령 탄핵을 촉구하는 내용이 담긴 것으로 파악됐다.&lt;br&gt;&lt;br&gt;A씨는 민주당이 게시한 또 다른 현수막도 훼손하려 했으나, A씨의 범행 모습을 본 민주당 관계자가 막아 미수에 그친 것으로 알려졌다.&lt;br&gt;&lt;br&gt;A씨는 경찰에 “(현수막이) 보기 싫어서 훼손했다”는 취지로 진술한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “A씨를 상대로 정확한 범행 동기와 사건 경위를 조사할 예정”이라고 말했다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>검찰, ‘前 계엄사령관’ 박안수 육군참모총장 구속영장 청구</title>
+      <link>https://www.chosun.com/national/court_law/2024/12/15/SXAZENBM25DQ7AJXFI2ABWM4LU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/15/SXAZENBM25DQ7AJXFI2ABWM4LU/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 15 Dec 2024 10:08:06 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OWNVX6VEWFIVFPW6Y6HYWAACVA.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;박안수 육군참모총장이 지난 10일 오전 서울 여의도 국회 국방위원회에서 열린 계엄 관련 긴급 현안질의에서 질의에 답변하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘12‧3 비상계엄’ 사태를 수사하는 검찰 특별수사본부(본부장 박세현 서울고검장)는 계엄사령관을 맡았던 박안수 육군참모총장에 대한 구속영장을 중앙지역군사법원에 청구했다고 15일 밝혔다. 지난 14일 오후 박 총장을 피의자로 소환해 조사한 지 하루 만이다.&lt;br&gt;&lt;br&gt;박 총장은 내란‧직권남용‧군형법상 반란 혐의를 받는 피의자 신분이다. 지난 3일 윤석열 대통령이 비상계엄령을 선포했을 때 비상계엄 포고령 1호를 발표하고, 조지호 경찰청장에게 국회 시설 통제를 요청한 혐의를 받는다. 특히 포고령 1호의 위헌‧위법성을 충분히 검토하지 않은 채 서명한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;박 총장은 지난 5일 국회 국방위원회 긴급 현안질의에 출석해 계엄군의 국회 투입, 방첩사 ‘체포조’의 국회 투입 여부와 관련해 “모르겠다”고 답했다. 계엄군이 선관위와 방송인 김어준씨가 운영하는 유튜브 채널 ‘뉴스공장’에 투입됐다는 의원 물음에도 “들어간 줄도 몰랐다”고 했다. 다만 박 총장은 곽종근 전 특수전사령관이 공포탄·테이저건 사용을 건의한 것은 자기 선에서 받아들이지 않았다고 했다.&lt;br&gt;&lt;br&gt;특수본은 지난 8일 박 총장을 참고인 신분으로 소환해 조사했고, 지난 14일 오후엔 피의자 신분으로 소환해 조사했다. 피의자 조사는 자정을 넘겨 끝났다고 한다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>경북 포항 앞바다에서 60대 선장 숨진 채 발견</title>
       <link>https://www.chosun.com/national/incident/2024/12/15/ZYHD4FXMKVDJ7NS7K3VORXX2II/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/12/15/ZYHD4FXMKVDJ7NS7K3VORXX2II/</guid>
@@ -921,28 +963,6 @@
       </media:content>
     </item>
     <item>
-      <title>[오늘의 운세]  12월 14일 토요일 (음력 11월 14일 壬子)</title>
-      <link>https://www.chosun.com/national/national_general/2024/12/13/VNC6R7QO4NBHLH27UFWMYDALHU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/13/VNC6R7QO4NBHLH27UFWMYDALHU/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Fri, 13 Dec 2024 08:00:00 +0000</pubDate>
-      <content:encoded>&lt;p&gt;&lt;div class="chosun_unse"&gt;&lt;iframe src="https://image.chosun.com/arc/unse_iframe.html" frameborder="0" scrolling="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;style&gt;.chosun_unse{position:relative;width:100%;height:350px;box-sizing:border-box}.chosun_unse&gt;iframe{position:absolute;top:0;left:0;width:100%;height:100%;overflow-y:hidden}@media all and (max-width:1024px){.chosun_unse{height:350px}}@media all and (max-width:1023px){.chosun_unse{height:350px}}@media all and (max-width:528px){.chosun_unse{height:270px}}@media all and (max-width:384px){.chosun_unse{height:190px}}&lt;/style&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;p&gt;&lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani01.gif"&gt;  	&amp;nbsp;	36년생 노상 횡액 두려우니 발걸음을 조심. 48년생 고립감 들기 쉬우니 사교성 발휘하라. 60년생 행복하기로 마음먹은 만큼 행복은 온다. 72년생 몸 건강하면 돈 나가고 돈 들어오면 건강은 악화. 84년생 흉조 사라지고 길조 나타난다. 96년생 일을 해야 일이 생긴다.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt;  &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani02.gif"&gt;	&amp;nbsp;	37년생 관계의 첫 번째 원칙은 존중과 배려. 49년생 지출 많은 시기니 절약 필수. 61년생 고언과 충고는 달게 받아들이도록. 73년생 들어줄 수 있는 부탁이라도 모두 응하지 마라. 85년생 창작과 예술 분야면 곤란이 예상. 97년생 약간은 어수룩하게 보이는 게 좋다.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani03.gif"&gt;	&amp;nbsp;	38년생 너무 멀게도 가깝게도 마라. 50년생 남의 떡에 설 쇤다더니. 62년생 누구에게도 적이 되는 언행은 삼가도록. 74년생 기대했던 결과가 오리무중. 86년생 자신만의 가치를 드높일 수 있는 걸 찾아봐라. 98년생 결과 좋아도 절차 무시하면 공(功)이 반감.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani04.gif"&gt;	&amp;nbsp;	27년생 적극적인 표현이 긍정적인 상황으로 전개. 39년생 잊고 지낸 인연 찾아보면 좋을 듯. 51년생 집안일은 집안에서 해결. 63년생 속전속결보다 심사숙고가 필요. 75년생 너그러운 아량이 필요. 87년생 관용과 자선은 복 받는 지름길. 99년생 남쪽은 재물 기운이 왕성.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani05.gif"&gt;	&amp;nbsp;	28년생 귀인이 와서 도우니 소원 성취. 40년생 오늘이 가기 전 봉사와 희사 실천하라. 52년생 유혹 많은 날이니 의리와 절개가 필요. 64년생 병 있는 곳에 약 있다. 76년생 벗으로 인한 즐거움이다. 88년생 뭐든 단정 짓지 마라. 00년생 가면 갈수록 쉽고 수월할 듯.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani06.gif"&gt;	&amp;nbsp;	29년생 욕심부려 봐야 성취가 난망. 41년생 개울 치고 가재 잡고. 53년생 숫자 3, 8과 푸른색은 행운 부른다. 65년생 권태와 싫증이 직장과 가정 생활을 방해. 77년생 휴식도 일의 연장. 89년생 거지는 함께 움직이지 않는 법. 01년생 믿음과 신용은 한순간 형성되지 않는다.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani07.gif"&gt;	&amp;nbsp;	30년생 넘치지도 모자라지도 않게 중용을 견지하라. 42년생 적은 남이 아닌 바로 자신. 54년생 인심은 권세가로 모이는 법. 66년생 균형 감각을 잃지 않도록. 78년생 가까운 남이 먼 일가보다 낫다. 90년생 어두운 밤길 촛불 얻은 격. 02년생 원기와 의욕이 충만한 하루.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani08.gif"&gt;	&amp;nbsp;	31년생 방향성 전환과 가치관 혼선이 예상. 43년생 궁지 몰려도 차분히 대처하라. 55년생 깊은 호수는 소리 내며 흐리지 않는다. 67년생 말로 배운 걸 되로도 풀까 말까. 79년생 식은 죽도 불어 가며 먹으랬다. 91년생 무심코 지낸 친구가 귀인일 줄. 03년생 마음을 다하도록.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani09.gif"&gt;	&amp;nbsp;	32년생 양손에 떡을 쥐는 격. 44년생 심기일전의 자세 필요. 56년생 부침의 진폭이 큰 하루가 예상. 68년생 주변 상황에 순응하면 편안. 80년생 오늘 바로 시작해도 늦은 편. 92년생 자금 회전과 금전 융통이 수월. 04년생 귀찮고 거추장스러운 일로 번거로운 하루.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani10.gif"&gt;	&amp;nbsp;	33년생 서쪽은 안 이로우니 동쪽 문 이용하라. 45년생 근신 조심이 흉 피하는 계책. 57년생 과욕만 안 부리면 순탄하고 안정적인 환경. 69년생 운신 폭 줄여 꼭 할 것만 하도록. 81년생 금전 문제로 인한 고민. 93년생 시비 구설은 어디에나 있으니 크게 괘념치 마라.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani11.gif"&gt;	&amp;nbsp;	34년생 편안 무사할 때 위험 대비하라. 46년생 지금의 고난과 역경은 충분히 헤쳐 나갈 수 있다. 58년생 분수 넘치는 재물은 탐하지 않는 게 이익. 70년생 얼마든지 너끈히 해낼 수 있다. 82년생 재물도 애정도 오늘만 같아라. 94년생 흰옷 입은 사람을 경계하라.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani12.gif"&gt;	&amp;nbsp;	35년생 소소한 소망은 이룰 수 있을 듯. 47년생 뜻밖에 옛사랑 만나더라도 절대 경계하라. 59년생 잘한다고 한 것이 괜한 오해 만들 수도. 71년생 가족의 배려가 무엇보다 소중한 시기. 83년생 어려움 있어도 스스로 헤쳐 나가야. 95년생 나만의 행복 요소 찾아야.	&lt;br&gt;
-&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;한소평 금오산방 강주  &lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;			&lt;/p&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/4MTFRYWHBJA7XOKKF7G7JPLX5U.png?width=800&amp;height=420&amp;auth=4651b5b20b5d4901424204d1456faee02e4b064ff509db23945deabf4404c8ef&amp;smart=true" type="image/png" height="420" width="800"/>
-    </item>
-    <item>
       <title>내일 아침 영하 9도... 다음주 내내 한파 덮친다</title>
       <link>https://www.chosun.com/national/transport-environment/2024/12/13/O4GKPAEHMRB25FGRPTDJ5JMVCM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2024/12/13/O4GKPAEHMRB25FGRPTDJ5JMVCM/</guid>
@@ -950,15 +970,6 @@
       <description/>
       <pubDate>Fri, 13 Dec 2024 06:44:49 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IV6YIG7LLBBMJH67CO6Y32SCM4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;영하권 추위가 시작된 지난 3일 오전 서울 광화문네거리에서 시민들이 두터운 옷을 입고 출근길 발걸음을 옮기고 있다. /박상훈 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;찬 대륙 고기압의 확장으로 이번 주말 아침 수은주가 영하 9도까지 떨어지며 올겨울 들어 가장 추울 것으로 전망됐다.&lt;br&gt;&lt;br&gt;기상청에 따르면, 토요일인 14일 중국 북부 지방에서 남쪽으로 이동하는 대륙 고기압의 영향으로 영하 20도 내외의 한랭 건조한 바람이 주말 동안 우리나라 상공으로 대거 불어오겠다. 14일 아침 최저기온은 영하 9도에서 영상 1도, 낮 최고기온은 영상 2~8도로 예보됐다. 찬 바람이 강하게 불면서 체감기온은 실제 예보된 기온보다 3~4도가량 낮을 것으로 보인다. 추위는 15일에도 이어져 최저 영하 8도에서 영상 4도, 최고 3~10도의 기온 분포를 보일 것으로 예상된다.&lt;br&gt;&lt;br&gt;15일 이른 새벽부터 낮까지 충청·전라권을 중심으로 눈·비 소식이 있다. 제주 산지에도 눈이 쌓일 것으로 예상된다. 이번에 내리는 눈은 무겁고 축축한 습설(濕雪)이라 일요일에 쌓인 눈이 영하권 날씨에 빙판길과 도로 살얼음으로 변할 가능성이 크다. 예상 적설량은 1~5㎝ 내외다. 눈이 비로 바뀌어 내릴 땐 5㎜ 안팎의 강수량이 예상된다.&lt;br&gt;&lt;br&gt;건조특보가 발효된 부산·울산은 대기가 건조한 데다 바람까지 강하게 불면서 산불을 포함한 각종 화재 위험이 큰 상황이다. 강원 영동과 그 밖의 경상권에도 대기가 건조해지면서 주말 동안 건조특보가 확대될 것으로 보인다.&lt;br&gt;&lt;br&gt;다음 주에는 아침 기온이 최저 영하 10도까지 떨어지겠고, 한 주 내내 최저 영하 9도 내외의 추운 날씨가 예상된다. 월요일인 16일 내륙을 중심으로 기온이 영하 10도까지 내려가며 춥겠다. 체감기온은 영하 13도 안팎까지 내려갈 전망이다. 북쪽 찬 공기가 따뜻한 서해상을 통과하며 눈구름대가 만들어져 17일 충남·전라권, 18일 제주도에 눈이나 비가 내리는 곳이 있겠다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title> ‘F1963 야외정원′ 부산시 1호 민간정원 됐다</title>
-      <link>https://www.chosun.com/national/regional/yeongnam/2024/12/13/3FOTMQLQAFAPVO3UMJRFRFA7Q4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/yeongnam/2024/12/13/3FOTMQLQAFAPVO3UMJRFRFA7Q4/</guid>
-      <dc:creator>박주영 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 13 Dec 2024 07:46:39 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/55J36QFY7FDNXIXBBHTJKNYINE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산시가 13일 민간정원 1호로 선정한 부산 수영구 망미동 'F1963'의 야외정원./부산시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;철강공장 창고에서 복합문화공간으로 변신한 부산 수영구 망미동 ‘F1963′의 야외정원이 부산시 제1호 민간 정원에 선정됐다.&lt;br&gt;&lt;br&gt;부산시는 13일 ‘F1963 야외 정원’을 부산시 제1호 민간 정원으로 선정하고 인증식을 열었다. ‘F1963 야외정원’은 ‘F1963′ 주차장으로부터 들어선 건물들을 따라 그 주변에 조성돼 있다.&lt;br&gt;&lt;br&gt;이 야외정원은 초록 이파리가 하늘로 쭉쭉 뻗은 대나무 숲인 ‘소리길’, 하늘과 작은 연꽃 정원이 어우러진 생태정원 ‘달빛가든’, 느티나무의 그늘과 단풍이 가정의 정취를 느낄 수 있게 하는 ‘단풍가든’ 등 3곳으로 이뤄졌다.&lt;br&gt;&lt;br&gt;이동흡 부산시 공원도시과장은 “’F1963 야외정원’은 넓지 않은 공간이지만 번잡한 도심과 단절되는 여유로움을 주면서 잘 가꿔진 대나무 숲, 생태정원, 느티나무와 단풍나무의 어우러짐 등이 적절하게 배치된 미술작품들이 마음의 치유를 느끼게 하는 곳이라 부산시 민간정원 1호로 선정했다”고 말했다.&lt;br&gt;&lt;br&gt;부산시 민간정원에 지정되면 인터넷 홈페이지 등 다양한 부산시의 미디어를 통해 널리 홍보되고 정원 운영과 관리에 대한 시의 지원을 받을 수 있게 된다.&lt;br&gt;&lt;br&gt; ‘F1963′은 지역 업체인 고려제강의 공장, 창고로 사용되던 공간이었으나 2016년 전시, 음식점, 서점, 도서관, 카페, 야외정원 등 다양한 시설을 갖춘 복합문화공간으로 변모했다. 완공된 2016년엔 부산비엔날레 특별전시장으로 활용되기도 했다.&lt;br&gt;&lt;br&gt;이에 앞서 부산시는 지난해 8월 낙동강 하구의 부산 사상구 삼락생태공원을 ‘부산시 지방정원 1호’로 지정했다. ‘지방정원’은 지방자치단체가 직접 만들어 관리, 운영하는 곳이다. 삼락생태공원은 낙동강 하구 동측 둔치로 과거 농경지였으나 4대강 살리기 사업 중 하나였던 낙동강살리기 사업을 거쳐 수로, 습지, 보호 숲, 자연초지, 산책로 등을 갖춰 철새도래지로 쓰일 수 있도록 복원된 곳이다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>檢, 2600억 규모 도박자금 세탁조직 기소…금송아지‧명품 등 범죄수익도 압수</title>
@@ -981,24 +992,6 @@
       <description/>
       <pubDate>Fri, 13 Dec 2024 02:22:13 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5XGPD6RL4WNOVCN2TD5YRFAOHM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰이 테이저건 사격 훈련을 하고 있는 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰이 출동 현장에서 분실한 테이저건을 18시간여만에 되찾았다. 경기 수원서 잃어버린 테이저건은 약 20km떨어진 오산에서 발견됐다.&lt;br&gt;&lt;br&gt;13일 경기 수원남부경찰서에 따르면, 전날 오전 5시 30분쯤 수원 권선구의 한 현장에 출동한 곡선지구대 소속 경찰관 A씨가 신고 출동 후 복귀하는 과정에서 테이저건을 분실했다. 그는 현장 조치 후 지구대로 복귀하기 위해 순찰차에 탑승하면서 총집째 테이저건을 떨어뜨린 것으로 파악됐다.&lt;br&gt;&lt;br&gt;경찰은 이날 오전 6시 10분쯤 아침 근무 교대 과정에서야 이 사실을 인지한 것으로 알려졌다. A씨가 분실한 장비는 2발 연속 발사가 가능한 신형 테이저건인 ‘테이저7′으로, 근무 교대 때 마다 경찰관들이 인수인계를 하는 장비다. 테이저건 등 총기류는 조끼에 결속한 후 총기피탈방지끈으로 연결하도록 돼있다.&lt;br&gt;&lt;br&gt;경찰은 곧바로 현장 확인에 나섰으나 테이저건은 없었다. 경찰이 인근 방범 카메라(CCTV)를 분석한 결과, 오전 5시 31분쯤 폐지를 줍는 노인으로 추정되는 남성 B(62)씨가 테이저건을 총집째 주운 채 이동하는 모습을 확인했다.&lt;br&gt;&lt;br&gt;경찰은 CCTV분석 추적을 통해 B씨를 찾아나섰고, 사건 발생 18시간여 만인 같은날 오후 11시55분쯤 오산시 오산대교 인근에 있던 B씨를 발견했다. B씨는 마땅한 주거지가 없이 떠돌아다니며 폐지를 주워오면서 생활해 왔던 것으로 알려졌다. 이날 역시 수원 권선구에서 오산까지 약 20㎞를 걸어 이동한 것으로 확인됐다.&lt;br&gt;&lt;br&gt;회수한 테이저건은 분실 당시 상태 그대로였다고 한다. B씨는 경찰에 “그냥 총이 떨어져 있길래 주웠을 뿐”이라는 취지로 진술한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;경찰은 B씨가 경찰 테이저건임을 인지한 상태임에도 습득 후 별다른 조치를 하지 않은 점 등을 고려해 점유이탈물횡령 혐의를 적용해 입건했다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “각 지역 관서에 테이저건 등 장비 분실 방지를 철저히 할 것을 교육했다”며 “해당 경찰관의 과실 등이 명확한 만큼, 징계 여부를 검토하고 있다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“조국 아들 인턴” 허위 발언 최강욱도 유죄 확정</title>
-      <link>https://www.chosun.com/national/court_law/2024/12/13/XFJYL5RE5RDV7PLBQBRIH3KP7Q/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/13/XFJYL5RE5RDV7PLBQBRIH3KP7Q/</guid>
-      <dc:creator>박혜연 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 12 Dec 2024 15:50:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DLISKVBDW7ZH33QPIFV3P7VC6I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;최강욱 전 더불어민주당 의원. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2020년 총선 기간 조국 조국혁신당 대표의 아들에게 허위 인턴 확인서를 발급해 주고도 인터넷 방송에서 “(조 대표 아들이) 실제 인턴을 했다”며 허위 사실을 공표한 혐의로 기소된 최강욱 전 더불어민주당 의원이 대법원에서 벌금형을 확정받았다.&lt;br&gt;&lt;br&gt;대법원 3부(주심 오석준 대법관)는 12일 공직선거법상 허위 사실 공표 혐의로 기소된 최 전 의원에게 벌금 80만원을 선고한 원심을 확정했다.&lt;br&gt;&lt;br&gt;최 전 의원이 이 사건으로 2020년 10월 기소된 이후 대법원 확정 판결이 나오는 데 4년 넘게 걸렸다. 1심은 2021년 6월 “당선 목적으로 전파성이 매우 높은 인터넷 방송에 출연해 허위 사실을 공표했다”며 벌금 80만원을 선고했다. 그런데 최 전 의원이 2심에서 “검찰이 (내가) 검찰 개혁을 주장하는 데 보복하고 의정 활동을 방해하기 위해 공소권을 남용한 것”이라고 주장했고, 재판부가 이를 확인하겠다며 재판을 중단했다. 2심은 1심 선고 이후 3년 만인 지난 6월 1심과 같이 벌금 80만원을 선고했다. 당시 재판부는 “모든 절차가 적법했고 부당한 개입이 있었다고 볼 수 없다”고 했다.&lt;br&gt;&lt;br&gt;대법원도 “원심 판단에 논리와 경험의 법칙을 위반해 자유심증주의의 한계를 벗어나거나 허위 사실 공표로 인한 공직선거법 위반죄의 성립, 공소권 남용 등에 관한 법리를 오해한 잘못이 없다”며 원심 판결을 확정했다.&lt;br&gt;&lt;br&gt;최 전 의원은 이 사건과 별도로 조 대표 아들에게 허위 인턴 확인서를 발급해 준 혐의(업무방해)로도 기소됐고, 작년 9월 대법원에서 징역 8개월에 집행유예 2년이 확정돼 의원직을 상실했다. 하지만 기소된 지 3년 8개월 만에 확정 판결이 나오면서, 국회의원 임기 4년의 83%를 채웠다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[오늘의 날씨] 2024년 12월 13일</title>
-      <link>https://www.chosun.com/national/national_general/2024/12/13/F4KI53CP7NBPRKLMZFIGFU5RHA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/13/F4KI53CP7NBPRKLMZFIGFU5RHA/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description>금: 전국 대체로 흐림, 토(土) 대체로 맑고, 일(日) 흐리고 비 또는 눈</description>
-      <pubDate>Thu, 12 Dec 2024 15:30:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GOV3MDSFTNA77IPDN3HTO57AOQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
