@@ -13,6 +13,78 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>광주 한 초등학교서 집단 식중독 의심 증상… 보건당국 “역학 조사”</title>
+      <link>https://www.chosun.com/national/incident/2024/12/16/KKCAZRGTXJB3BLAI4EZQ6B36XY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/12/16/KKCAZRGTXJB3BLAI4EZQ6B36XY/</guid>
+      <dc:creator>정성원 기자</dc:creator>
+      <description>광주광역시 서구 한 초등학교에서 학생 등 35명이 식중독 의심 증세를 보여 보건당국이 역학조사에 나섰다.16일 광주광역시 보건당국에 따르면 지난 12일부터 사흘간 지역 내 한 초등학교에서 35명이 구토와 설사 등 식중독 의심증세를 보인다는 신고가 접수됐다.</description>
+      <pubDate>Mon, 16 Dec 2024 10:04:44 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GM3SPQ2HEFL77KMD3B4SKRN5XI.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;지난해 7월 경기 수원시 권선구 경기도보건환경연구원에서 감염병연구부 수인성질환팀 직원이 식중독균 배양검사를 하고 있는 모습. 식중독을 예방하려면 흐르는 물에 30초 이상 손 씻기, 육류·달걀류 조리 시 중심온도 75도 이상에서 1분 이상 익혀 먹기 등 식중독 예방 수칙을 준수하는 것이 중요하다. /뉴스1
+&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;광주광역시 서구 한 초등학교에서 학생 등 35명이 식중독 의심 증세를 보여 보건당국이 역학조사에 나섰다.&lt;br&gt;&lt;br&gt;16일 광주광역시 보건당국에 따르면 지난 12일부터 사흘간 지역 내 한 초등학교에서 35명이 구토와 설사 등 식중독 의심증세를 보인다는 신고가 접수됐다. 35명 중 3명은 입원 치료를 받고 있다.&lt;br&gt;&lt;br&gt;보건당국은 유증상자와 조리 종사자에게서 검체를 채취해 식중독균 감염 여부를 보사 중이다. 또 조리기구 등을 수거해 광주시보건환경연구원에 검사를 의뢰했다.&lt;br&gt;&lt;br&gt;보건당국은 검사 결과가 나오는 대로 광주시교육청과 함께 후속 조처를 할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>’비상계엄 핵심’ 이진우 前 수방사령관 구속</title>
+      <link>https://www.chosun.com/national/court_law/2024/12/16/E4R7OZHNFRGXXK7PAXUXCMH2ZM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/16/E4R7OZHNFRGXXK7PAXUXCMH2ZM/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 16 Dec 2024 09:15:14 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VMESF2BTLRJEZHOXRKRHE3QMCQ.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;이진우 전 수도방위사령관이 16일 서울 용산구 중앙지역군사법원에서 열린 영장실질심사에 출석하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘12‧3 비상계엄’ 사태 당시 계엄군 핵심 지휘관인 이진우 전 수도방위사령관이 16일 구속됐다. 검찰 비상계엄 특별수사본부(본부장 박세현 서울고검장)가 지난 13일 오후 이 전 사령관을 체포한 지 3일 만이다.&lt;br&gt;&lt;br&gt;중앙지역군사법원은 내란 중요 임무 종사‧직권남용 권리행사 방해 등 혐의를 받는 이 전 사령관의 구속영장을 이날 오후 발부했다. 이 전 사령관은 윤석열 대통령의 비상계엄 당시 여인형 전 방첩사령관(구속), 곽종근 전 특수전사령관(구속)과 함께 계엄군을 지휘한 핵심 지휘부다. 이 전 사령관은 김용현 전 국방장관의 지시에 따라 지난 3일 비상계엄 당시 서울 여의도 국회의사당에 35특수임무대대·군사경찰단 등 병력 211명을 투입한 것으로 조사됐다. 수방사 1경비단 예하 2특임대대·1경비대대가 국회 인근과 한남동 공관 등으로 출동했다는 의혹도 제기된 상황이다.&lt;br&gt;&lt;br&gt;계엄 선포를 인지한 경위에 대해 이 전 사령관은 “TV를 보고 알았다”는 입장이었다. 그러나 특수본은 계엄 당시 작전에 투입됐던 수방사 관계자 다수를 조사하면서, “이 전 사령관이 계엄 선포 전인 3일 오후 9시 50분쯤 전투복으로 갈아입은 뒤 사령부로 들어오라”는 취지로 지시했다는 진술을 확보한 것으로 전해졌다. 이 전 사령관이 계엄 선포 전부터 상황을 알고 있었다는 것이 특수본의 시각이다.&lt;br&gt;&lt;br&gt;그러나 이 전 사령관 측은 이날 영장이 발부되기 전 “계엄 징후를 미리 알았다는 일부 보도는 사실이 아니다”라며 “만약 계엄 사실을 인지하고 있었다면, 뒤늦게 급히 인력을 소집할 이유가 없었을 것”이라고 했다. 계엄 선포 직전까지 북한의 도발 상황에 관한 보고를 계속적으로 받아왔기에, (김용현 전) 국방장관의 “위험한 상황이 발생했으니 부대로 복귀하라”는 지시를 북한 도발에 대응하기 위한 내용이라고 믿었다는 것이다.&lt;br&gt;&lt;br&gt;지금까지 특수본이 구속한 계엄 사태 피의자는 김 전 장관, 여 전 사령관, 곽 전 사령관, 이 전 사령관 등 모두 4명이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>尹 탄핵심판 주심에 尹이 지명한 정형식 재판관</title>
+      <link>https://www.chosun.com/national/court_law/2024/12/16/LFOIWKAO3RD4BBSJSV52ZOWTJE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/16/LFOIWKAO3RD4BBSJSV52ZOWTJE/</guid>
+      <dc:creator>박강현 기자, 방극렬 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 16 Dec 2024 08:34:43 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/U6V4G5DPRVNZXPZV7WAGSBIMC4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;정형식 헌법재판관이 10일 서울 종로구 헌법재판소 대심판정에서 열린 중앙선거관리위원회 채용비리 사건 관련 선관위와 감사원 간의 권한쟁의 공개변론에 참석해 있다/뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;헌법재판소가 16일 윤석열 대통령 탄핵심판 사건의 주심(主審)으로 정형식(63·사법연수원 17기) 재판관을 지정한 것으로 알려졌다. 주심 재판관은 탄핵 여부를 논의하고 표결하는 평의(評議) 절차를 주도하고 결정문 초안을 작성하는 역할을 담당한다.&lt;br&gt;&lt;br&gt;헌재는 이날 오전 재판관 전원이 참여하는 첫 회의를 열고 이같이 결정했다고 한다. 주심 재판관은 전자 배당 시스템을 통해 무작위 추첨으로 지정된다. 정 재판관은 이미선 재판관과 함께 변론 준비 기일에서 증거와 주장, 쟁점 등을 정리하는 수명(受命) 재판관 역할도 맡게 됐다.&lt;br&gt;&lt;br&gt;정 재판관은 현재 재판관 중에서는 유일하게 윤 대통령이 직접 지명하고 임명했다. 대통령실은 작년 11월 정 재판관을 지명하면서 “해박한 법리와 공정한 재판 진행으로 정평이 나 있는 법관”이라고 설명했다.&lt;br&gt;&lt;br&gt;정 재판관은 서울대 법대를 졸업했고, 1988년 판사로 임관 후 서울고법·수원고법 부장판사, 서울회생법원장 등을 지냈다.&lt;br&gt;&lt;br&gt;정 재판관은 2013년 한명숙 전 총리의 불법 정치자금 수수 사건에서 무죄를 선고한 1심 판결을 깨고 징역 2년을 선고했다. 2018년 이재용 당시 삼성전자 부회장의 뇌물공여 등 사건에서 징역 5년을 선고한 1심을 깨고 징역 2년 6개월에 집행유예 4년을 선고한 바 있다.&lt;br&gt;&lt;br&gt;앞서 헌재는 이날 기자단 브리핑에서 주심 재판관을 비공개하기로 결정했다고 밝혔었다. 헌재 관계자는 “주심 재판관은 공개하지 않는 것이 원칙이며, 재판관들의 결정”이라고 말했다.&lt;br&gt;&lt;br&gt;그러나 이날 오후 헌재 주변에서 정 재판관이 주심으로 배당됐다는 사실이 알려졌다. 그러자 헌재는 재차 입장문을 내고 “재판관 회의를 거쳐 (기존) 탄핵 사건 4건을 주심으로 맡고 있는 재판관 1명을 배제한 상태에서 무작위 전자 배당을 실시했다”면서 “주심 비공개는 공공기관의 정보공개에 관한 법률, 결정문에 주심을 표시하지 않는다는 ‘헌법재판소 결정서 작성방식에 관한 내규’에 따른 조치였다”고 밝혔다. 그러면서 “변론 준비 기일은 수명 재판관 2명이 공동으로 관여하고, 변론 기일은 재판장 주재 하에 재판관 전원의 평의에 따라 진행돼 주심 재판관이 누구냐는 재판의 속도나 방향에 영향을 미치지 못한다”고 설명했다.&lt;br&gt;&lt;br&gt;이날 주심 재판관을 지정한 헌재는 윤 대통령 탄핵심판 사건을 본격적으로 심리할 전망이다. 헌재는 탄핵 사건을 전담할 TF(태스크포스)를 팀장급 선임 헌법연구관과 연구관 10여 명으로 구성하고, 법리 검토와 증거 조사에 착수하기로 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/4ELJMKROMJF2RERTJKWE6OBSGA.jpg?width=3265&amp;height=1837&amp;auth=1bcf3c96502b883b6d597517a5ffbffb894722903c15f054f4bb2adcad7dbbfd&amp;smart=true" type="image/jpeg" height="1837" width="3265">
+        <media:description type="plain">[서울=뉴시스] 황준선 기자 = 정형식 헌법재판관이 10일 서울 종로구 헌법재판소 대심판정에서 열린 중앙선거관리위원회 채용비리 사건 관련 선관위와 감사원 간의 권한쟁의 공개변론에 참석해 있다. 2024.12.10. hwang@newsis.com</media:description>
+        <media:credit role="author" scheme="urn:ebu">황준선</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>尹 대통령 변호인단 대표에 김홍일 전 방통위원장</title>
+      <link>https://www.chosun.com/national/court_law/2024/12/16/XPXWCYOOLRH45KXE4VP23R3SHY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/16/XPXWCYOOLRH45KXE4VP23R3SHY/</guid>
+      <dc:creator>이슬비 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 16 Dec 2024 08:28:28 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LHY2BU2AO37SP32B2Y6KBKESIY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김홍일 전 방송통신위원회 위원장./뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김홍일 전 방송통신위원장이 ‘12·3 비상계엄’ 사태와 관련해 피의자로 입건된 윤석열 대통령의 변호인단 대표를 맡기로 했다.&lt;br&gt;&lt;br&gt;윤 대통령 변호인단은 16일 기자들에게 “김홍일 전 방통위원장이 윤 대통령 변호인단 대표(가칭)를 맡을 예정”이라며 “내부 입장을 정리 중”이라고 밝혔다. 이어 변호인단은 “정리된 입장을 가급적 빨리 밝히려고 한다”며 “경우에 따라서 그 시기는 오늘 또는 내일이 될 수 있다”고 했다.&lt;br&gt;&lt;br&gt;김 전 위원장은 윤 대통령의 검찰 선배로 서울중앙지검 3차장, 대검찰청 마약·조직범죄부장을 거쳐 중앙수사부장, 부산고검장 등을 지냈다. 대검 중수부장 시절 윤 대통령이 중앙수사2과장으로 같이 근무한 적이 있다. 김 전 위원장은 지난 대선 때는 윤석열 캠프 정치공작진상규명특별위원회 위원장을 했고, 윤 대통령 취임 후 국민권익위원장과 방통위원장을 지냈다. 지난 7월 더불어민주당은 김 당시 위원장을 탄핵하려 했고, 이에 자진 사퇴했다. 김 전 위원장은 지난 10월 고문 변호사로 몸담았던 법무법인 세종으로 복귀했다가 이달 초 세종 측에 구두로 퇴직하겠다는 뜻을 전한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;사건 성격은 다르지만, 과거 대통령들은 10~20명가량의 변호인단을 꾸렸다. 노무현 전 대통령은 헌법재판소 탄핵 심판을 앞두고 이용훈 전 대법원장, 박시환 전 대법관, 문재인 변호사 등을 변호인에 선임했다. 박근혜 전 대통령은 이중환·서성건·채명성 변호사와 손범규 전 국회의원 등으로 변호인단을 구성했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>계엄 선포에 사퇴한다더니... 진화위 사무처장의 변덕</title>
+      <link>https://www.chosun.com/national/national_general/2024/12/16/RPJJYTZG2FBJTAER5RBHPDVPYQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/16/RPJJYTZG2FBJTAER5RBHPDVPYQ/</guid>
+      <dc:creator>고유찬 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 16 Dec 2024 08:48:39 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EZQZCNAX2CCGQYFUBBEJWL2VIQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;진화위 송상교 사무처장./조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;독립 국가 기관인 진실·화해를위한과거사정리위원회(진실화해위) 사무처장이 윤석열 대통령 비상 계엄 선포에 반발해 사의를 표명했다가 윤 대통령 탄핵 소추안 가결 뒤 이를 번복했다. 송상교(52) 사무처장은 지난 9일 공개 입장문에서 “계엄령은 헌법을 파괴하고 무자비한 인권 침해를 야기한 야만적인 국가 폭력 행위”라며 “탄핵을 앞둔 대통령이 신임 위원장을 임명하리라곤 생각지 못했다”고 했다. 윤 대통령은 12·3 비상계엄 사태 뒤인 6일 신임 박선영 위원장 임명안을 재가했다.&lt;br&gt;&lt;br&gt;그는 박선영 신임 위원장 취임을 두고 ‘부당한 임명’이라며 “신임 위원장의 지휘를 받아 업무를 할 수 없다”며 “동고동락한 동료 직원들에 대한 죄송함과 고통스러움, 항의의 의사를 담아 사직의 뜻을 밝힌다”고 했다. 계엄 파문을 일으킨 윤 대통령이 임명한 신임 위원장을 인정할 수 없으니 직을 사퇴한다는 의미로 해석됐다.&lt;br&gt;&lt;br&gt;그러나 송 사무처장은 16일 “고심 끝에 사직 의사를 철회한다”고 했다. 윤 대통령 탄핵소추안이 국회 본회의에서 가결되고 직무가 정지되고 나자 입장을 바꾼 것이다. “지금 물러나는 것은 책임을 지는 것이 아니라는 결론에 이르렀다”며 “위원장 임명이 부당하므로 받아들일 수 없다는 입장은 변함이 없다”고 했다. 진화위 안팎에선 ‘지나치게 가벼운 처신 아니냐’는 지적이 나왔다. 진실화해위 사무처장직은 고위공무원 가급(1급)으로 억대 연봉을 받으며 비서 1명이 업무를 보좌한다.&lt;br&gt;&lt;br&gt;본지는 16일 송 사무처장의 입장을 들으려 연락했다. “죄송합니다만 제가 따로 말씀드릴 것은 없네요. 양해 부탁드립니다”라는 답변이 돌아왔다. 충암고·서울대 법대를 졸업한 송 사무처장은 2002년 사법시험에 합격했다. 이후 변호사로 활동하며 민주사회를 위한 변호사 모임(민변) 사무총장, 법무부 검찰 과거사위원회 위원 등을 지냈다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[오늘의 운세]  12월 17일 화요일 (음력 11월 17일 乙卯)</title>
+      <link>https://www.chosun.com/national/national_general/2024/12/16/UXJOCNGDHRC3PP7BD5WMTPL5WQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/16/UXJOCNGDHRC3PP7BD5WMTPL5WQ/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Mon, 16 Dec 2024 08:35:00 +0000</pubDate>
+      <content:encoded>&lt;p&gt;&lt;div class="chosun_unse"&gt;&lt;iframe src="https://image.chosun.com/arc/unse_iframe.html" frameborder="0" scrolling="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;style&gt;.chosun_unse{position:relative;width:100%;height:350px;box-sizing:border-box}.chosun_unse&gt;iframe{position:absolute;top:0;left:0;width:100%;height:100%;overflow-y:hidden}@media all and (max-width:1024px){.chosun_unse{height:350px}}@media all and (max-width:1023px){.chosun_unse{height:350px}}@media all and (max-width:528px){.chosun_unse{height:270px}}@media all and (max-width:384px){.chosun_unse{height:190px}}&lt;/style&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;p&gt;&lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani01.gif"&gt;  	&amp;nbsp;	36년생 관절, 허리, 치아 질환을 주의. 48년생 아랫사람의 장점 찾아보도록. 60년생 위험 무릅쓸 가치 있는지 따져봐야. 72년생 배우자 운 사니 온 집안 웃음꽃. 84년생 세상만사 이해 안 되는 게 어디 한두 가지. 96년생 이로운 사람과 해로운 사람 구분할 줄 알아야.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt;  &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani02.gif"&gt;	&amp;nbsp;	37년생 고운 사람 미운 데 없고 미운 사람 고운 데 없다. 49년생 다정한 말 한마디 천 냥 빚 갚는다. 61년생 철저한 자기 검속 필요할 듯. 73년생 해묵은 감정은 툴툴 털어야. 85년생 완벽한 속임수도 꾸밈없는 진실은 못 이긴다. 97년생 바깥일을 집안에 연관시키지 마라.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani03.gif"&gt;	&amp;nbsp;	38년생 문화 생활로 소소한 행복을 느껴봄이. 50년생 개개인 성향이 행복 한도를 정한다. 62년생 평소 지인들과 친교를 잘 맺어두도록. 74년생 배와 차량 등 이동 과정 안전사고를 주의. 86년생 여유로움은 바쁠 때 짜내는 것. 98년생 곯아도 젓국이, 늙어도 영감이 좋다.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani04.gif"&gt;	&amp;nbsp;	27년생 평소 은혜를 많이 베풀어 놓도록. 39년생 좋게 생각하면 좋은 것 된다. 51년생 감정 조절에 익숙해질 필요가 있다. 63년생 갈림길에서 고민에 빠지는구나. 75년생 원만한 인간관계 맺도록. 87년생 끝나지 않는 축제는 없다. 99년생 고뿔도 남 안 주는 사람 있다더니.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani05.gif"&gt;	&amp;nbsp;	28년생 문서 거래는 각별한 주의 필요. 40년생 붉은색과 숫자 2, 7 행운 부른다. 52년생 지나간 일에 집착 마라. 64년생 공과 사 분명히 구분하라. 76년생 말 많으면 괜한 오해 사기 쉽다. 88년생 서기(瑞氣)가 남쪽에서 비춘다. 00년생 마음 맞는 친구에게 털어놓아라.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani06.gif"&gt;	&amp;nbsp;	29년생 자신을 위한 과감한 투자 필요. 41년생 속도 조절이 필요한 시기. 53년생 여자면 부인과에 문진하라. 65년생 누구를 막론하고 무조건 친절하도록. 77년생 흰색과 숫자 4, 9는 피하라. 89년생 일의 완성은 주위 사람과의 협력. 01년생 만사 여의(如意)하구나.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani07.gif"&gt;	&amp;nbsp;	30년생 열 계원에 아홉 좌상이라더니. 42년생 빛과 어둠이 공존하는 상태. 54년생 상대 탓하기 전 자기반성부터. 66년생 주변인들과의 마찰 주의. 78년생 처음은 어렵지만 나중은 쉽다. 90년생 더불어 함께할 때 더 발전할 수 있다. 02년생 친밀감이 들도록 처신하라.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani08.gif"&gt;	&amp;nbsp;	31년생 반갑지 않은 손님, 소식 올 수도. 43년생 큰소리치면 득보다 실 많다. 55년생 여유로운 마음가짐이 행복 부른다. 67년생 결점과 흠결을 타인에게 말하지 마라. 79년생 좌절은 있어도 절망은 없다. 91년생 내일은 오늘 이미 시작됐다. 03년생 물과 불 조심하도록.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani09.gif"&gt;	&amp;nbsp;	32년생 뉘우침에는 애, 어른이 따로 없다. 44년생 가면놀이 같은 인간관계. 56년생 심리적 무방비 상태가 더 위험. 68년생 근면한 자세가 난국을 돌파. 80년생 무리한 확장은 절대 삼가도록. 92년생 도끼가 제 자루는 못 깎는 법. 04년생 이상과 현실의 괴리로 심사가 번잡.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani10.gif"&gt;	&amp;nbsp;	33년생 지나친 호의는 저의 의심해 봐라. 45년생 누런 색과 숫자 5,10은 피하라. 57년생 노력 따라 결과 천차만별. 69년생 질투와 시기는 제일 가까운 사람에게서 온다. 81년생 사소한 감정도 소홀히 넘기지 말아야. 93년생 부지런한 범재가 게으른 천재보다 낫다.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani11.gif"&gt;	&amp;nbsp;	34년생 여러 가지를 동시 진행 마라. 46년생 눈에 보이는 현상이 다가 아님을 명심. 58년생 부당한 이득보다 정당한 손해 택하라. 70년생 전쟁터에선 속임수도 꺼리지 않는다. 82년생 소홀히 여겼던 인연이 귀인일줄. 94년생 마음 다잡고 심기일전 자세로.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani12.gif"&gt;	&amp;nbsp;	35년생 의리는 곤궁한 데서 빛 난다. 47년생 적당한 빈틈 있어야 사람 모인다. 59년생 손재수 있으니 사전 지출도 오히려 좋을 듯. 71년생 아무리 굶주려도 씨 나락은 먹지 마라. 83년생 쓰러져 넘어지는 곳이 다시 일어서는 곳. 95년생 헛말이라도 칭찬을 입에 달고 살라.	&lt;br&gt;
+&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;한소평 금오산방 강주  &lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;			&lt;/p&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/4MTFRYWHBJA7XOKKF7G7JPLX5U.png?width=800&amp;height=420&amp;auth=4651b5b20b5d4901424204d1456faee02e4b064ff509db23945deabf4404c8ef&amp;smart=true" type="image/png" height="420" width="800"/>
+    </item>
+    <item>
       <title>이재명, ‘대북송금 사건’ 법관 기피신청…재판 중단</title>
       <link>https://www.chosun.com/national/court_law/2024/12/16/4JMEW64KRFBHFO3SVSQNG4CLGA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/16/4JMEW64KRFBHFO3SVSQNG4CLGA/</guid>
@@ -666,60 +738,6 @@
       <description/>
       <pubDate>Sun, 15 Dec 2024 15:50:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UUXONTLM55PQXOEJKZG25ZX7AI.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;경기도 이천 육군항공사령부에서 열린 대규모 항공작전 훈련에 참가한 조종사의 모습. 기사 내용과 무관한 사진. 2022.7.26/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;30여 년간 육군 헬기 조종사로 근무하다 난청(難聽)이 생긴 퇴역 군인에 대해 법원이 국가유공자로 인정해야 한다고 판결했다.&lt;br&gt;&lt;br&gt;서울행정법원 행정6단독 윤성진 판사는 퇴역 군인 A씨가 서울북부보훈지청장을 상대로 “국가유공자가 아니라는 결정을 취소해 달라”며 낸 소송에서 최근 원고 승소 판결을 내렸다고 15일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 1990년 육군에 입대해 헬기 조종사로 근무하다가 2021년 퇴역했다. A씨는 2010년 병원에서 처음으로 난청 진단을 받았고, 퇴역 즈음 A씨가 들을 수 있는 가장 작은 소리는 오른쪽 65㏈(데시벨), 왼쪽 56㏈로 측정됐다. 사회생활이 어려운 중등도·중등고도 난청에 해당한다.&lt;br&gt;&lt;br&gt;A씨는 2022년 1월 국가보훈부 보훈심사위원회의 심의에 따라 ‘재해부상 군경’으로 등록됐다. 국가 수호와 직접 관련 없는 업무를 하다가 다쳤다는 의미다. 그러자 A씨는 그해 12월 “군 임무 수행 중 난청이 생긴 것”이라며 ‘공상(公傷) 군경’으로 바꿔 국가유공자 등록을 해달라고 신청했다. 그러나 보훈심사위는 거절했고, A씨는 소송을 냈다.&lt;br&gt;&lt;br&gt;법원은 A씨 손을 들어줬다. A씨의 총 비행 시간은 5764시간, 착륙 횟수는 1만2460회에 달했고, 이 중 대부분이 전투용 헬기를 조종한 것이었다는 점 등이 근거가 됐다. 윤 판사는 “A씨의 난청은 국가의 수호·안전 보장 등과 관련 있는 직무 수행이나 훈련으로 발병, 악화했다고 보는 것이 타당하다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[두근두근 뇌 운동] [2523] 바꿔 부르기</title>
-      <link>https://www.chosun.com/national/nie/2024/12/16/CWO3DR22C5F45JY5IROK3GW36Y/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/12/16/CWO3DR22C5F45JY5IROK3GW36Y/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Sun, 15 Dec 2024 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3DIRBRTF4FDGZFKOTJRR2RR4W4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>면허·車 없어도 도전 가능… 전국 최고의 교통안전 ‘운전 고수’ 가린다</title>
-      <link>https://www.chosun.com/national/transport-environment/2024/12/16/BPOXMPUSGVE7DEJYRFEVLPEWCA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2024/12/16/BPOXMPUSGVE7DEJYRFEVLPEWCA/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Sun, 15 Dec 2024 15:40:00 +0000</pubDate>
-      <content:encoded>운전면허가 없어도, 차가 없어도 본인의 운전 실력을 평가하고 전국의 운전자와 실력을 겨룰 수 있는 대회가 열린다.&lt;br&gt;&lt;br&gt;한국도로교통공단(이사장 김희중)과 삼성화재가 오는 31일(화)까지 개최하는 ‘천하제일 안전 운전대회’는 운전자들이 도로 위 헷갈리는 교통법규를 온라인 게임으로 현실감 있게 체험할 수 있는 참여형 캠페인이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ASIR3SXUKZFCTB3DIDIOQ5GOC4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;천하제일 안전 운전대회 캠페인 포스터. /한국도로교통공단 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;안전운전 의식을 제고하고 교통안전 문화를 확산하기 위해 기획된 이번 이벤트는 실제 운전면허시험과 비슷하게 필기시험과 실기시험으로 진행된다.&lt;br&gt;&lt;br&gt;먼저 필기시험은 도로교통법을 얼마나 알고 있는지를 파악할 수 있는 운전면허 학과시험 문제를 중점적으로 구성한 온라인 사지선다 문제풀이 형식이다. 제한 시간 15분 동안 20개 문항을 풀어, 100점 만점 중 70점 이상을 획득하면 통과 및 실기시험에 응시할 수 있는 자격이 주어진다.&lt;br&gt;&lt;br&gt;실기시험은 안전 운전 실력을 테스트할 수 있는 운전 게임을 통해 게임 내에서 응시자가 교통법규를 준수하며 도로를 주행했는지를 평가한다. 규정속도와 신호를 준수하는 기본적인 것부터 운전자들이 평소 접하기 쉬우면서도 올바른 방법으로 통행하기 어려운 도로주행 상황을 구현해 현실감을 더욱 높였다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7M7S55BSAJEQZGTIHS2QA7WPUI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;캠페인 참여 QR 코드 및 경품 목록. /한국도로교통공단 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;주행 게임은 1000점 만점에서 시작해 주행 중 도로교통법 위반 시 감점이 되는 방식이다. 점수는 제한 시간 20분 내에 결승점을 통과해야 기록으로 인정된다. 주행 중 중대한 도로교통법 위반 혹은 사고 발생 시 실격으로 처리되어 즉시 해당 회차 주행이 종료된다. 운영 기간 내 매일, 1일 최대 5회까지 참여 가능하며 기록한 점수 중 가장 높은 점수가 자동으로 실기 시험 점수에 반영된다.&lt;br&gt;&lt;br&gt;대회 전체 순위는 실기시험 점수로 결정되며, 동점자가 있을 경우 실기시험 주행 시간, 필기시험 점수, 필기시험 풀이 시간순으로 순위를 결정한다.&lt;br&gt;&lt;br&gt;경품도 풍성하다. 최종우승자 1명에게는 현대자동차 더 뉴 캐스퍼, 2~10등까지는 ▲플레이스테이션5 프로 ▲로지텍 레이싱 패키지 ▲그란 투리스모 7 등 드라이빙 게임 경품, 11~1000등에게는 삼성화재 커스텀 블록이 수여된다. 또한 순위에 들지 못했더라도, 필기시험 참여자 중 5000명을 추첨해 네이버페이 1000원권을 제공한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ONIAJQVPEVDSZPDPPRCHXKGUNU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;실기 시험(안전 운전 게임)실행 화면. /한국도로교통공단 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이외에도 특별상으로 10만원 상당의 현대자동차 캐스퍼 굿즈 패키지(50명), 한국도로교통공단 캐릭터 호둥이 인형(70명), 한국타이어 무료 교환권(1명)을 비롯해 선착순 25만 명에게 제휴 서비스 할인 쿠폰을 증정한다.&lt;br&gt;&lt;br&gt;한국도로교통공단 관계자는 “운전 중 마주하는 다양한 도로 상황에서 올바른 통행방법을 준수하지 않으면 교통사고로 이어지기 쉽다”며 “기존의 일방적인 계도방식이 아닌, 누구나 게임을 즐기듯 참여할 수 있는 이번 캠페인을 통해 교통안전을 이해하는 데 도움이 되기를 바란다”고 말했다.&lt;br&gt;&lt;br&gt;‘천하제일 안전 운전대회’는 국민 누구나 참여 가능하며, 보다 자세한 사항은 삼성화재 홈페이지(&lt;a href="https://direct.samsungfire.com/ch39" target="_blank"&gt;https://direct.samsungfire.com/ch39&lt;/a&gt;)와 삼성화재 다이렉트 착 앱(APP)을 통해 접속할 수 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[스피킹이 강해지는 영어] killjoy</title>
-      <link>https://www.chosun.com/national/nie/english/2024/12/16/SMLTAFSCFZAPPPYS35FSD67D2A/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/english/2024/12/16/SMLTAFSCFZAPPPYS35FSD67D2A/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Sun, 15 Dec 2024 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CZR6GOPCE5DBFELDV7SCO2D5KU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[매일매일 중국어 한마디] ~만큼 …않다</title>
-      <link>https://www.chosun.com/national/nie/chinese/2024/12/16/FBX2FA3VPZDQLL4SRFGFRLK2VU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese/2024/12/16/FBX2FA3VPZDQLL4SRFGFRLK2VU/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Sun, 15 Dec 2024 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UEQXDKIQZBGZBFB2IHJRLZDO2E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[입에 착착 붙는 일본어] 소원해지다</title>
-      <link>https://www.chosun.com/national/nie/japanese/2024/12/16/HQILZITASFHSLKCHR63AJJLCCQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/japanese/2024/12/16/HQILZITASFHSLKCHR63AJJLCCQ/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Sun, 15 Dec 2024 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DJ6I7LTZPNDQNEXPFIQP3FSPZQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문으로 배우는 실용한자] 개탄(慨歎)</title>
-      <link>https://www.chosun.com/national/nie/chinese_character/2024/12/16/YQY2Z2TOFFCGXPR4XWQ3FTSDFM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese_character/2024/12/16/YQY2Z2TOFFCGXPR4XWQ3FTSDFM/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Sun, 15 Dec 2024 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JC2XUIJEPFEKDENXYAG3C7VHUU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[오늘의 날씨] 2024년 12월 16일</title>
