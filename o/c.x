@@ -13,6 +13,220 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>노점·청소로 모은 7억, 베개 밑 통장까지 건네고 떠난 할머니</title>
+      <link>https://www.chosun.com/national/welfare-medical/2024/12/17/X5PEUALDEFHARDMKHPDQ2JEPVI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/12/17/X5PEUALDEFHARDMKHPDQ2JEPVI/</guid>
+      <dc:creator>조백건 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 16 Dec 2024 15:55:25 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HCRPYUUVCVBYPD7FMH5JX62HQ4.png"&gt;&lt;figcaption&gt;&lt;small&gt;평생 노점상을 하면서 모은 돈으로 산 건물을 통째로 사회복지공동모금회에 기부 약정한 고 홍계향 할머니의 생전 모습. 할머니가 기부한 건물이 최근 매각된 할머니는 7억 1000만원을기부해 아너소사이어티 회원 인증을 받았다. 2014년 6월쯤 경기도 성남시 자택 인근의 해바라기 꽃 옆에서 미소 짓고 있다. /사회복지공동모금회&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“홍 할머니, 인증패 보이세요?”&lt;br&gt;&lt;br&gt;홍계향(90) 할머니의 아너 소사이어티(1억 이상 기부자 모임) 가입식 장소는 이 상을 만든 사회복지공동모금회 건물이 아닌 납골당이었다. 모금회 직원 두 명이 지난 12일 경기 성남시 하늘누리 제2추모관을 찾아 홍 할머니의 흰 유골함 앞에 인증패를 펼쳐 보이는 것이 가입식의 전부였다. 인증패를 유골함 옆에 놓으려 해봤지만, 너비가 한 뼘 남짓한 좁은 보관함에 들어가지 않았다. 모금회 이수진 과장의 훌쩍이는 소리가 빈 납골당 안에 울렸다.&lt;br&gt;&lt;br&gt;홍 할머니는 지난 5월 20일 노환으로 별세했다. 그는 2014년 성남시 중원구의 본인 소유 4층짜리 다가구주택을 모금회에 ‘유산 기부’했다. 할머니 사후에 매각 절차가 진행됐고, 매각 대금 7억1000만원이 모금회 계좌에 입금되기 전날인 12일 납골당에서 아너 소사이어티 가입식이 열린 것이다.&lt;br&gt;&lt;br&gt;홍 할머니는 세상을 떠나기 일주일 전 병문안을 온 경기 사회복지공동모금회 강성훈 팀장에게 띄엄띄엄 마지막 말을 남겼다. “경로당, 따신 밥….” 강 팀장이 “경로당 어르신들한테 따뜻한 밥 한 끼 대접하라는 말씀이죠?”라고 하자, 강 할머니는 고개를 끄덕이며 베개 밑에서 빛바랜 통장 하나를 꺼내 건넸다. 2000여 만원이 들어 있었다. 남은 재산 전부였다. 그는 일주일 후 임종을 지키는 사람 없이 혼자 요양 병원에서 눈을 감았다.&lt;br&gt;&lt;br&gt;&lt;b&gt;“부잣집 먹다 남은 밥 받았을 땐…”&lt;/b&gt;&lt;br&gt;&lt;br&gt;홍 할머니는 1934년 부산에서 10남매 중 막내로 태어났다. 학교는 못 다녔다. 열 살 때부터 바닷가에서 파래와 우뭇가사리를 뜯어 새벽 장에 내다 팔았다. 17세 때 부산 범일동의 조선방직에 취업했고, 21세에 어머니의 권유로 열두 살 많은 황해도 출신의 남편과 결혼했다. 홍 할머니는 과거 모금회 내부 소식지 인터뷰에서 “결혼식 다음 날 유일한 예단이었던 양단 치마저고리를 팔아 나일론 양말을 잔뜩 샀다”며 “시집간다고 그만둔 방직 회사 문 앞에서 좌판을 깔고 팔았는데 사는 게 급해서 부끄러운 줄도 몰랐다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GFYLTSDSSRCYNCQU4AIX7JXYWQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;고(故) 홍계향(오른쪽) 할머니가 1970년대 서울 필동에서 채소 가게를 할 당시의 모습. 왼쪽은 남편. /사회복지공동모금회&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;몇 년 뒤 남편을 따라 서울로 왔다. 남편은 대장간에서 일했고, 할머니는 남대문시장에서 뗀 건어물을 머리에 이고 가파른 만리재를 넘어 공덕 시장에서 물건을 팔았다. 당시 부촌이었던 연희동에서 가사도우미 일도 했다. 그는 “한 부잣집에서 일할 때였는데 자기들 먹다 남은 밥을 한곳에 모아 내게 먹으라고 줬다”며 “숟가락으로 살살 풀어 놓았으면 몰랐을 텐데, 밥그릇 모양으로 동그랗게 뭉쳐진 밥이 켜켜이 쌓여 있는 것을 보니 퍽 서러운 마음이 들었다”고 했다.&lt;br&gt;&lt;br&gt;할머니는 모은 돈으로 1970년대 서울 필동에서 채소 가게를 열었다. 남편 고향 이름을 따 ‘황해 식품’이라 지었다. 장사가 잘됐다. 그런데 1980년 초 다양한 제품을 파는 수퍼마켓이 생기면서 장사를 접었다. 이사만 열 번 다닌 서울살이의 끝이었다. 할머니는 모금회 직원들에게 “살면서 좋았던 때가 별로 없었다. 그래서 행복이란 걸 잘 모른다. 늘 읽는 성경에도 사람이 행복해야 한다는 구절은 없더라”며 “매일 정성을 다해 열심히 사는 수밖에 없다”고 말했다고 한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EGJNFDQQA5G7PLCSVTAFJ56NKE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;홍 할머니(왼쪽 첫째)가 1983년 11월 경기 성남시의 한 액자 공장에서 일하고 있다. /사회복지공동모금회&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;할머니는 1983년 성남시로 이사했다. 그의 나이 49세였다. 나이가 많다고 받아주려는 공장이 없었다. 어렵게 액자 공장의 세척반에 들어갔다. 할머니는 주변에 “쇠에 녹이 생기지 말라고 독극물로 세척하는 작업이었다”며 “위험하고 힘든 일이었다”고 말했다고 한다. 당시 남자 월급은 30만원이었는데 홍 할머니는 50만원을 벌었다. 철야 작업을 자주 했기 때문이다.&lt;br&gt;&lt;br&gt;액자 공장이 2년 후 문을 닫자, 할머니는 성남 모란시장에서 김·미역을 파는 노점상을 했다. “물건을 압수하는 단속반이 제일 무서웠어. 그때마다 모란시장 남양종묘집 주인이 단속반원 앞에서 같이 빌어줬어. 참 고마운 분이야.” 노점상을 접은 뒤엔 지하철 모란역 청소 일을 했다.&lt;br&gt;&lt;br&gt;그러다 2002년 성남시 성남동 국유지에 있는 집을 샀다. 몇 년 뒤 나라 땅인 집 부지도 30만원에 싸게 샀다. 건물도 4층으로 올렸다. 1층엔 할머니 식구가 살고 2·3·4층과 옥탑방엔 세입자가 살았다.&lt;br&gt;&lt;br&gt;살 만해진다 싶었을 때 남편에게 치매가 왔다. 할머니에게 자주 손찌검을 했다. 할머니 얼굴엔 매일 시퍼런 멍이 있었다고 한다. 2010년은 할머니 인생에서 가장 힘들었던 시기였다. 그해 외동딸이 지병으로 세상을 떠났다. 할머니는 주변에 딸의 병명은 물론 나이, 이름조차 말한 적이 없다고 한다. 그는 생전에 “세상 모든 여자가 좋은 남편을 만날 순 없으니 그러려니 하고 살았다”면서도 “딸은 내 굽은 어깨가 너무 말랐다며 울어주던 유일한 아이였다”고 했다. 2013년엔 남편도 눈을 감았다. 할머니는 “돌보던 남편까지 가고 나니 더 살 이유를 찾기 어려웠다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IFOFSZYZX5FIXKHWRPOMAM55UQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;홍계향 할머니&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;할머니는 “장기 기증 약속이 그때 나를 살렸다”고 했다. 할머니는 2006년 사후 장기 기증을 약정했다. 그는 모금회가 2020년 만든 ‘아름다운 생애보’ 인터뷰에서 “알아보니 내 한 몸으로 참 많은 생명을 살릴 수 있었다”며 “내가 그때 목숨을 끊으면 수많은 생명을 살릴 기회를 놓치게 되는 거니까 죽을 수가 없었다”고 말했다.&lt;br&gt;&lt;br&gt;&lt;b&gt;집 마련 후엔 월세 절반 깎아줘&lt;/b&gt;&lt;br&gt;&lt;br&gt;할머니는 남편이 떠난 이듬해인 2014년 사회복지공동모금회에 재산을 사후에 기부하는 ‘유산 기부’ 제도가 있다는 얘기를 들었다. 그는 당일에 바로 모금회를 찾아 자신의 ‘평생 고생’이 담긴 집을 기부했다. 홍 할머니는 2014년 모금회 인터뷰에서 “친정 부모처럼 날 아껴준 남양종묘집 사장님, 쉬면서 일하라고 의자를 권했던 액자 공장 사장님, 이제 바닥 그만 좀 닦으라고 밀대를 뺏던 역장님 같은 분들의 인정이 날 살리고 이 집을 살 수 있게 했다”며 “나도 돌려주고 가고 싶다”고 했다.&lt;br&gt;&lt;br&gt;‘할머니의 전부나 다름없는 집을 내놓는 게 불안하지 않으시냐’는 질문엔 “내가 못 살게 되면 정부에서 (기초생활)수급자 자격을 주겠지. 평생토록 고생에 단련이 됐는데 뭐가 두렵겠나. 기부한 날이 내 인생 가장 신나는 하루였다”고 했다.&lt;br&gt;&lt;br&gt;같은 경로당을 다닌 최홍기(72)씨는 “비싸다고 휴대전화도 안 사던 양반이 세입자가 어렵다고 하면 주변 시세의 절반도 안 되는 월세(20만~40만원)를 또 깎아주고, 보증금을 안 받기도 했다”고 말했다. 할머니 집을 판 7억1000만원은 한 부모 가정, 소년·소녀 가장, 장애인 등 취약 계층에 쓰인다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ESJIZXBYXVFTFFZBIBLO5YLKGQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/일러스트=이철원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;마지막까지 독거노인 배달 봉사&lt;/b&gt;&lt;br&gt;&lt;br&gt;홍 할머니는 기부 후 자택 바로 맞은편에 있는 성남동 복지회관에서 독거노인 등에게 도시락을 갖다주는 봉사를 했다. 그러다 작년 9월 다리뼈가 부러져 요양 병원에 입원했다. 병원에서 고관절까지 골절돼 병세가 점점 나빠졌다. 나중엔 산소 콧줄을 달아야 했다. 모금회 강성훈 팀장은 “당시 할머니에게 유산 기부를 취소하시고, 그 돈으로 고급 요양원으로 가서 큰 병원에 다니시라고 한 적이 있다”며 “할머니는 ‘약속 지켜야지’ ‘평생 이골이 난 고생 조금 더 하면 된다’고 하시더라”고 했다.&lt;br&gt;&lt;br&gt;올 5월 20일 오전 7시 홍 할머니는 영면에 들었다. 같은 경로당을 다닌 최홍기 할아버지가 상주 역할을 했다. 그는 “홍 할머니가 ‘자다가 편하게 가는 게 소원’이라고 했는데, 임종 후 표정이 너무 밝아 다들 놀랐다”고 했다. 경기 사회복지공동모금회 김효진 사무처장은 “할머니 뜻대로 문상 온 경로당 어르신들께 밥과 고깃국을 대접했다”며 “모금회 직원들과 어르신들이 상가 식당 밥상에 앉아 서로 ‘홍계향 할머니가 주시는 밥이에요’라면서 많이 울었다”고 했다.&lt;br&gt;&lt;br&gt;모금회는 병원비와 장례비를 치르고 할머니 통장에 남은 1000여 만원으로 성남동복지회관에 경차를 사줄 계획이다. “성남동엔 좁은 길이 많아 어려운 가정을 방문하려면 작은 차가 필요하다”는 홍 할머니 뜻에 따른 것이라고 한다.&lt;br&gt;&lt;br&gt;-&lt;br&gt;&lt;br&gt;&lt;b&gt;아너 소사이어티 가입 문의 080-890-1212 ※사회복지공동모금회 공동기획&lt;/b&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/HCRPYUUVCVBYPD7FMH5JX62HQ4.png?width=753&amp;height=576&amp;auth=e7c79531569db419397594171632d79f04c69aea57f2c9812aa6f1aa9e30aa9f&amp;smart=true" type="image/png" height="576" width="753">
+        <media:description type="plain">평생 노점상을 하면서 모은 돈으로 산 건물을 통째로 사회복지공동모금회에 기부 약정한 고 홍계향 할머니의 생전 모습. 할머니가 기부한 건물이 최근 매각된 할머니는 7억 1000만원을기부해 아너소사이어티 회원 인증을 받았다. 2014년 6월쯤 경기도 성남시 자택 인근의 해바라기 꽃 옆에서 미소 짓고 있다. /사회복지공동모금회</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>[단독] 복지부 ‘필수의료 수가 개선’ 전담 조직 신설</title>
+      <link>https://www.chosun.com/national/welfare-medical/2024/12/17/IXDT36W2TNG77OIRG4D4ZHGKXU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/12/17/IXDT36W2TNG77OIRG4D4ZHGKXU/</guid>
+      <dc:creator>오경묵 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 16 Dec 2024 20:00:00 +0000</pubDate>
+      <content:encoded>보건복지부에 ‘공공정책 수가’ 등을 담당할 전담 조직이 내년 초 신설된다. 응급 의료 인프라 강화 및 간호법 통과에 따른 진료지원(PA) 간호사 제도 활성화를 위해 필요한 인력도 충원된다.&lt;br&gt;&lt;br&gt;16일 복지부 등에 따르면, 정부는 지난 11일부터 이날까지 이 같은 내용의 ‘보건복지부 직제 개정령안’을 입법예고했다. 조직개편안의 핵심은 ‘건강보험 지불혁신 추진단’ 신설이다. 건강보험정책국 산하에 공공정책 수가 등을 담당할 TF(태스크포스) 조직이 만들어지는 것이다.&lt;br&gt;&lt;br&gt;우리나라 수가 제도는 진찰, 검사, 처치 등 의료 행위별로 수가를 매겨 대가를 지급하는 ‘행위별 수가제’를 근간으로 한다. 이 제도는 의료 행위를 많이 할수록 수익이 늘어나는 구조여서 필수 의료 분야에 적절한 보상이 이뤄지지 않는다는 문제점이 있었다. 이에 정부는 분만·소아 등 필수 의료 분야를 중심으로 보완형 공공정책수가를 도입하겠다고 지난해 1월 발표한 바 있다. 의료 행위의 난도, 위험도, 시급성 등을 고려해 추가로 보상해주는 시스템이다. 또 올해 3월에는 중증 진료 체계와 지역 의료 강화를 위한 대안적 지불 제도도 도입하기로 했다. 하지만 의료계에서는 “정부 발표만 있을 뿐, 실제로 변한 것은 없다”는 지적이 제기됐다.&lt;br&gt;&lt;br&gt;복지부 관계자는 “기존에 수가 관련 업무를 담당하던 보험급여과의 업무 범위가 크게 넓어져 각종 정책 수가 업무를 수행하는 데 어려움이 있었다”며 “이를 해소하기 위해 전담 조직을 만드는 것”이라고 했다.&lt;br&gt;&lt;br&gt;이 외에 간호정책과에는 PA 간호사 업무를 전담할 인력이 충원된다. 복지부는 지난 8월 간호법 제정에 따라 제도화된 PA 간호사의 구체적 업무 범위를 명시하기 위한 시행령·시행규칙 제정 등 후속 작업을 진행하고 있다.&lt;br&gt;&lt;br&gt;한편 교육부도 의과대학 관련 업무를 담당할 ‘의대국(局)’ 신설을 추진하고 있다. 국장급인 의대교육지원관과 의대교육기반과를 한시 조직으로 신설해 의대 증원 및 교육 등 현안을 담당토록 하겠다는 것이다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>尹 변호인단 대표, 김홍일 前 방통위원장</title>
+      <link>https://www.chosun.com/national/court_law/2024/12/17/D3D5HXHZQNHK3HKXQQCXMQTNW4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/17/D3D5HXHZQNHK3HKXQQCXMQTNW4/</guid>
+      <dc:creator>이슬비 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 16 Dec 2024 15:56:05 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EH57FWX4JNBGLPWTI67ITFLDAQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘12·3 비상계엄’ 사태와 관련해 내란 혐의 피의자로 입건된 윤석열 대통령의 변호인단 대표를 김홍일 전 방송통신위원장이 맡게 됐다.&lt;br&gt;&lt;br&gt;윤 대통령 변호인단은 16일 “김홍일 전 방통위원장이 윤 대통령 변호인단 대표(가칭)를 맡을 예정”이라며 “내부 입장을 정리 중이며, 정리된 입장을 가급적 빨리 밝히겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;김 전 위원장은 윤 대통령의 검찰 선배로 서울중앙지검 3차장, 대검찰청 마약·조직범죄부장을 거쳐 중앙수사부장, 부산고검장 등을 지냈다. 대검 중수부장 시절 윤 대통령이 중앙수사2과장으로 같이 근무한 적이 있다. 지난 2022년 대선 때는 윤석열 캠프 내 정치공작진상규명특별위원회 위원장을 맡았고, 윤 대통령이 취임한 후에는 국민권익위원장과 방통위원장을 지냈다.&lt;br&gt;&lt;br&gt;방통위원장이던 지난 7월 더불어민주당은 김 당시 위원장을 탄핵하려 했고, 그는 자진 사퇴했다. 김 전 위원장은 지난 10월 고문 변호사로 몸담았던 법무법인 세종으로 복귀했다가 이달 초 세종 측에 구두로 퇴직하겠다는 뜻을 전한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;윤 대통령 변호인단에는 윤갑근 전 대구고검장도 합류할 것이라는 말이 나온다. 윤 전 고검장은 ‘특수통’ 검사로 박근혜 정부 때인 2016년 8~11월 우병우 전 청와대 민정수석의 비리 의혹 특별수사팀장을 지냈다. 2015년 대검 반부패부장을 할 때 ‘정윤회 문건’ 사건 수사를 지휘하기도 했다. 윤 대통령의 서울대 법대 79학번 동기인 배진한 변호사도 거론된다.&lt;br&gt;&lt;br&gt;윤 대통령의 ‘40년 지기’로 알려진 검사장 출신 석동현 전 민주평화통일자문회의 사무처장도 변호인으로 거론됐지만, 후방에서 자문 역할만 맡기로 한 것으로 전해졌다. 변호인단은 향후 윤 대통령의 탄핵 심판과 검찰 등의 소환 조사에 대비 중인 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>서울시 공공예식장 올해 106쌍이 이용 </title>
+      <link>https://www.chosun.com/national/regional/seoul/2024/12/17/XZ67U5NJBVCX3AUT7DSG4EK5BQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/seoul/2024/12/17/XZ67U5NJBVCX3AUT7DSG4EK5BQ/</guid>
+      <dc:creator>김영우 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 16 Dec 2024 16:12:41 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2AAEGWJBVNBDZH7BAONRDSHZQY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/서울시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;올해 서울시가 운영하는 공공 예식장 26곳에서 100쌍 넘는 커플이 결혼식을 올린 것으로 나타났다. 서울시는 청년들의 결혼식 비용 부담을 덜어주고자 작년 4월부터 공원, 미술관, 한옥 등 공공시설을 예식장으로 개방하고 있다.&lt;br&gt;&lt;br&gt;16일 서울시에 따르면, 올해 서울시 공공 예식장에서 결혼한 커플은 총 106쌍으로 집계됐다. 작년에는 29쌍이 결혼식을 올렸는데 1년 새 약 4배로 늘어났다.&lt;br&gt;&lt;br&gt;서울시 공공 예식장은 대관료가 무료다. 결혼 장려금도 100만원 받을 수 있다. 서울에 살거나 서울 직장에 다니면 신청할 수 있다.&lt;br&gt;&lt;br&gt;커플들에게 가장 인기가 많은 곳은 강북구 북서울꿈의숲이었다. 106쌍 중 43쌍(41%)이 여기서 웨딩 마치를 올렸다. 서울시립대 자작마루와 서울한방진흥센터가 각각 22쌍, 15쌍으로 뒤를 이었다. 성북구 예향재(한옥), 강동구 광나루한강공원 장미원, 한강 선유도도 커플들이 많이 찾았다.&lt;br&gt;&lt;br&gt;서울시 관계자는 “이색적인 장소에서 야외 결혼식을 희망하는 커플이 많다”며 “북서울꿈의숲은 내년 치 예약이 벌써 마감될 정도”라고 했다.&lt;br&gt;&lt;br&gt;커플들은 서울시 협력 업체와 꽃 장식, 피로연 등을 준비하는데 내년부터는 선택할 수 있는 업체 수를 늘릴 계획이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>박창숙 한국여성경제인협회장</title>
+      <link>https://www.chosun.com/national/people/2024/12/17/5LCU2CMABZBEXFEVEJGTMAIIIY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/12/17/5LCU2CMABZBEXFEVEJGTMAIIIY/</guid>
+      <dc:creator>조재현 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 16 Dec 2024 15:45:08 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XMTBN4O6NBAMTHFCQYKERCLBC4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한국여성경제인협회(여경협)는 차기 회장으로 원단 제조업체 창우섬유의 박창숙 대표를 추대했다고 16일 밝혔다. 현재 여경협 수석부회장인 박 대표는 다음 달 1일부터 3년간 협회를 이끌게 된다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>광화문에 나타난 오징어게임 ‘영희’</title>
+      <link>https://www.chosun.com/national/national_general/2024/12/17/U34OPSBBOVHIREMFM2OSWQJTSM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/17/U34OPSBBOVHIREMFM2OSWQJTSM/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Mon, 16 Dec 2024 16:16:28 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TQ7SCTDLS5EZZN2W3JS4OZYV3E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/장련성 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 광화문광장에 넷플릭스 드라마 ‘오징어게임’의 캐릭터 ‘영희’ 조형물이 등장했다. 16일 오후 광화문광장을 찾은 시민이 ‘영희’ 조형물을 촬영하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>낡은 빌라촌 모아 첫 개발… 1242가구 아파트 단지 된다</title>
+      <link>https://www.chosun.com/national/regional/seoul/2024/12/17/5YCTYCPTOBCJLFJP6BNJJHTF5I/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/seoul/2024/12/17/5YCTYCPTOBCJLFJP6BNJJHTF5I/</guid>
+      <dc:creator>박진성 기자, 김영우 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 16 Dec 2024 16:11:58 +0000</pubDate>
+      <content:encoded>서울시의 노후 주택 재개발 사업인 ‘모아타운’이 첫 삽을 떴다. 2022년 사업을 시작한 지 3년 만이다.&lt;br&gt;&lt;br&gt;1호 사업지인 강북구 번동의 낡은 빌라촌이 2028년 최고 35층 1242가구 아파트 단지로 바뀐다.&lt;br&gt;&lt;br&gt;모아타운은 100~400가구 규모의 다세대·다가구 주택 조합 4~5개를 묶어 통합 재개발하는 사업이다. 보통 재개발 사업은 착공하는 데만 10년 이상 걸리는데, 덩치를 키워 사업성을 높이고 규제를 풀어 시간을 단축한다.&lt;br&gt;&lt;br&gt;서울시는 16일 번동에서 주민 200여 명이 모인 가운데 모아타운 1호 착공식을 열었다. 이날 오세훈 시장은 “모아타운 착공은 그동안 꽉 막혔던 서울 주택 재개발 시장의 변화를 알리는 신호탄”이라며 “시민들의 삶의 질을 바꿀 새로운 주택 재개발 모델이 되길 기대한다”고 했다. “3년 전 동네 구석구석을 걸어다니며 한탄했었는데 이렇게 착공식을 하니 너무너무 기쁘다”고도 했다.&lt;br&gt;&lt;br&gt;오 시장은 3년 전인 2022년 1월 번동을 찾아 모아타운 추진 계획을 발표했었다. 당시 오 시장은 “박원순 전 시장 시절 추진한 도시재생 사업으로 노후 주택에 사는 시민들의 삶의 질은 더 악화됐다”며 “사업성이 떨어져 재개발이 어려운 노후 주택을 모아 누구나 살고 싶은 동네로 만들겠다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CG6PNGKNIVHJDAJP66CUFB54ZA.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=김하경&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;1호 사업지로 선정된 번동 일대에는 1980~90년대에 지은 3~4층짜리 ‘빨간 벽돌’ 주택과 빌라가 모여 있다. 길이 좁고 주차할 자리도 부족하다.&lt;br&gt;&lt;br&gt;서울시는 인접한 주택 재개발 조합 5개를 묶어 통으로 추진했다. 용역을 내 전체적인 계획을 그렸다.&lt;br&gt;&lt;br&gt;우선 규제를 풀어 조합별로 거쳐야 하는 행정 절차를 통합 심의할 수 있게 했다. 서울시 관계자는 “그것만으로도 사업에 걸리는 시간을 1년 이상 단축할 수 있었다”고 했다.&lt;br&gt;&lt;br&gt;용도 지역을 2종 주거지역에서 3종 주거지역으로 상향 조정해 최고 35층까지 건물을 올릴 수 있게 했다. 사업성이 개선되면서 코오롱글로벌이 시공사로 참여했다.&lt;br&gt;&lt;br&gt;여기에 ‘소규모 주택정비 조례’를 개정해 세입자 487명에게 약 2000만원씩 이주비를 지원했다. 조합이 이주비를 부담하고 서울시는 대신 임대주택 수를 줄여줬다. 덕분에 세입자 이주와 철거 문제로 갈등이 거의 없었다고 한다.&lt;br&gt;&lt;br&gt;강북구도 2022년 10월 ‘재개발·재건축 추진 지원단’과 ‘주거정비과’를 신설해 지원에 나섰다. 민주당 소속인 이순희 강북구청장은 “지역 발전에 (시장과) 당적이 다른 게 무슨 상관이냐”며 “강북구가 할 수 있는 건 모두 팔 걷고 나섰다”고 했다.&lt;br&gt;&lt;br&gt;370가구 빌라촌은 최고 35층 1242가구 아파트 단지로 새로 태어난다. 이 중 임대주택은 245가구다. 2028년 입주를 목표로 한다.&lt;br&gt;&lt;br&gt;주민들의 거주 환경도 개선될 전망이다. 지하 주차장을 만들어 주차 가능한 차량 대수가 약 200대에서 1294대로 6배가 된다. 단지 내부에는 왕복 3차로 도로를 낸다. 골목길 위를 덮었던 전깃줄은 지하로 들어간다. 근처 우이천을 따라 6000㎡ 크기의 녹지와 산책로도 조성한다.&lt;br&gt;&lt;br&gt;서울시 관계자는 “조합별로 각각 재개발했으면 10년 이상 걸릴 뿐 아니라 ‘나 홀로 아파트’만 여기저기 들어서는 난개발이 될 가능성이 컸다”며 “부지를 효율적으로 쓸 수 있어 주차 공간과 커뮤니티 시설 등을 더 확보할 수 있다”고 말했다.&lt;br&gt;&lt;br&gt;현재 서울시가 선정한 모아타운은 총 109곳으로 사업에 속도를 낸다는 계획이다. 2026년엔 번동에 이어 중랑구 면목동에서 모아타운이 착공한다.&lt;br&gt;&lt;br&gt;번동에도 2곳이 추가로 모아타운 사업을 시작했다. 추가 사업지는 17만㎡ 규모로 1호 사업지(5만5000㎡)의 3배에 달한다.&lt;br&gt;&lt;br&gt;한병용 서울시 주택실장은 “1호 사업이 3년 만에 착공하자 모아타운에 대한 주민들의 관심이 더 높아졌다”며 “모아타운 사업을 통해 총 3만 가구를 공급하는 게 목표”라고 했다.&lt;br&gt;&lt;br&gt;서울시내 주거 지역의 42%가 번동 같은 저층 주택지다. 박 전 시장 시절인 2012~2022년 서울시가 지정한 재개발 구역은 3곳에 그쳤다. 이 때문에 주택 수요는 넘치는데 공급은 막혀 부동산 시장이 과열됐다는 지적이 나왔다.&lt;br&gt;&lt;br&gt;&lt;b&gt;☞모아타운&lt;/b&gt;&lt;br&gt;&lt;br&gt;서울시가 2022년 도입한 다세대·다가구 주택의 재개발 방식. 주택 조합 4~5개를 묶어 대규모 아파트 단지로 통합 개발한다. 서울시가 전체적인 계획을 짜고 규제를 풀어 용적률 등을 올려준다. 현재 서울시 내 109곳을 모아타운으로 선정해 재개발을 추진 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/6DHXA3CL7BDGBASBSMR6T7RXQY.png?width=1200&amp;height=675&amp;auth=3bdc6976b433b7127de4b86ce183e4e97801c87a309d38fd945effb59e452df6&amp;smart=true" type="image/png" height="675" width="1200"/>
+    </item>
+    <item>
+      <title>이재명 ‘대북송금’ 재판부 기피 신청</title>
+      <link>https://www.chosun.com/national/court_law/2024/12/17/ZQZE3IWLXFD6PF4SLPHASHATLE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/17/ZQZE3IWLXFD6PF4SLPHASHATLE/</guid>
+      <dc:creator>수원=김수언 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 16 Dec 2024 15:56:41 +0000</pubDate>
+      <content:encoded>‘쌍방울 불법 대북 송금’ 사건으로 6개월째 재판을 받고 있는 이재명 더불어민주당 대표 측이 담당 재판부를 바꿔달라고 요청했다.&lt;br&gt;&lt;br&gt;이 대표 측은 지난 13일 이 사건을 심리하고 있는 수원지법 형사11부(재판장 신진우) 판사 3명에 대한 기피신청서를 이 재판부에 제출했다. 기피 신청은 법관이 불공평한 재판을 할 염려가 있을 때 할 수 있는데, 이 신청이 접수되면 대법원의 최종 판단이 나올 때까지 재판 절차는 중지된다.&lt;br&gt;&lt;br&gt;이 대표 측은 같은 사건으로 기소된 이화영 전 경기도 평화부지사의 1심에서 징역 9년 6개월의 중형을 선고한 재판부가 이 대표의 사건을 연이어 심리하는 것은 무죄 추정 원칙에 어긋난다는 입장이다.&lt;br&gt;&lt;br&gt;기피 신청은 재판 지연 목적이 명백하면 해당 재판부가 곧바로 기각할 수 있지만, 대부분은 같은 법원의 다른 재판부가 그 여부를 결정한다. 그러나 신청인이 불복해 항고, 재항고할 경우 고등법원과 대법원 판단까지 2~3개월가량이 걸리기도 한다. 이 전 부지사도 앞서 재판부 기피 신청을 해 대법원 결정까지 77일 동안 재판이 멈췄었다.&lt;br&gt;&lt;br&gt;이 대표 측의 재판부 교체 시도는 이번만이 아니다. 지난 7월 수원지법에 기소된 이 사건을 서울중앙지법에서 재판 중인 자신의 대장동·성남FC 사건과 병합해달라는 신청을 법원에 냈다. 하지만 같은 달 15일 대법원에서 최종 기각됐다.&lt;br&gt;&lt;br&gt;이 대표 측은 지난 9월에도 대북 송금 사건이 현 재판부에 배당되자, 재배당 신청 의견서를 내기도 했다. 변호인 측은 지난 10월 8일 열린 공판에서 “(재판부가) 아무런 사전 지식도 없는 백지상태에서 심리해야 공정할 것”이라고 했다. 이에 신 부장판사는 “(재판부 재배당은) 법률상 명확한 근거가 없다”며 받아들이지 않았다.&lt;br&gt;&lt;br&gt;이 대표 측의 재판 기피 신청에 대해 법조계에선 “내년 2월 법관 정기 인사 때 현재 재판부가 바뀔 때까지 재판을 중단시키겠다는 의도로 보인다”는 말이 나온다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>前 정보사령관도 체포… 포고령 초안 관여 혐의</title>
+      <link>https://www.chosun.com/national/court_law/2024/12/17/YBOAF45E6ZCVDKTFMYGJXD5MBY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/17/YBOAF45E6ZCVDKTFMYGJXD5MBY/</guid>
+      <dc:creator>이슬비 기자, 주형식 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 16 Dec 2024 15:56:22 +0000</pubDate>
+      <content:encoded>경찰·고위공직자범죄수사처·국방부 조사본부로 구성된 공조수사본부(공조본)가 16일 비상계엄을 선포해 내란 혐의를 받는 윤석열 대통령에게 피의자 신분으로 소환을 통보했다. 이날 검찰 특별수사본부도 윤 대통령에게 “21일까지 검찰에 나오라”고 2차 소환 통보를 했다. 검찰과 경찰, 공수처가 잇따라 윤 대통령 소환 조사를 시도하면서 수사 주도권을 쥐기 위한 세 수사기관의 경쟁이 격화되는 모양새다.&lt;br&gt;&lt;br&gt;공조본의 출석 요구는 공수처 검사 명의로 이뤄졌다. 공수처 관계자는 “윤 대통령에게 18일 오전 10시 정부과천청사에 있는 공수처 청사로 출석하라고 통보했다”고 밝혔다. 공수처의 출석 요구에 앞서 경찰 특별수사단은 공수처에 윤 대통령 관련 사건을 일부 이첩했다. 앞으로 윤 대통령 수사는 공수처를 통한 공조수사로 진행하겠다는 의미로 해석된다.&lt;br&gt;&lt;br&gt;공조본은 이날 윤 대통령에게 출석요구서를 직접 전달하기 위해 서울 용산 대통령실과 한남동 관저를 직접 찾았지만, 대통령 경호처가 수령을 거부하면서 불발됐다. 공조본 관계자는 “특급 등기우편물로도 출석요구서를 발송했다”고 했다. 공수처는 출석요구서에 내란 우두머리(수괴)와 직권남용 등 윤 대통령의 범죄 혐의를 적시한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;공수처가 윤 대통령에게 출석을 요구한 지 5시간여 만인 이날 오후 2시쯤 검찰 특수본도 윤 대통령에게 2차 소환을 통보했다. 검찰은 지난 11일 “윤 대통령에게 15일 오전 10시 서울중앙지검으로 나와 조사받으라”고 통보했으나 윤 대통령은 변호인 선임 지연 등을 이유로 불응했다. 검찰은 1차 소환 때와 마찬가지로 공문을 대통령실로 보내고, 우편으로도 출석요구서를 발송했다고 한다.&lt;br&gt;&lt;br&gt;계엄에 관여한 군 주요 지휘관들에 대한 수사도 빠른 속도로 진행 중이다.&lt;b&gt; &lt;/b&gt;곽종근 전 특수전사령관과 이진우 전 수도방위사령관은 이날 구속됐다. 곽 전 사령관은 윤 대통령과 공모해 내란을 일으킨 혐의를, 이 전 사령관은 계엄 당시 국회에 병력을 투입한 혐의를 각각 받고 있다.&lt;br&gt;&lt;br&gt;전·현직 정보사령관도 경찰에 체포됐다. 경찰은 이번 계엄과 관련해 정보사령부가 김용현 전 국방장관의 ‘군 내 사조직’ 역할을 했다고 보고 있다. 김 전 장관의 비화폰 통화 내역을 분석한 결과, 계엄 선포 전부터 문상호 사령관, 노상원 전 사령관 등과 수차례 통화를 하며 계엄을 준비시킨 정황을 포착했기 때문이다.&lt;br&gt;&lt;br&gt;계엄 당일인 3일 밤 10시 31분쯤 중앙선관위에서 서버 등 내부 장비를 촬영한 계엄군도 정보사령부 소속이었다. 특수단 관계자는 “문 사령관은 김 전 장관 지시로 선관위 투입에, 정보사령부 산하 북파 공작부대(HID)에 국회의원 체포조 투입을 준비시키는 등 사실상 계엄의 실무 책임자 역할을 한 것으로 보인다”고 했다.&lt;br&gt;&lt;br&gt;경찰은 박근혜 정부 시절 정보사령관을 지낸 노 전 사령관도 주목하고 있다. 노 전 사령관은 김 전 장관의 육군사관학교 후배로 포고령 초안 작성에 관여했다는 의심을 받고 있다.&lt;b&gt; &lt;/b&gt;노 전 사령관은 2013년 준장 시절 약 1년간 박근혜 정부 대통령 경호실에서 군사 관리관으로 파견 근무했는데, 당시 소령이던 문 사령관과 함께 근무했다. 노 전 사령관은 “개인적인 일로 전화한 것일 뿐”이라는 입장이다.&lt;br&gt;&lt;br&gt;경찰은 지난 15일 문 사령관과 노 전 사령관을 긴급체포했다. 다만 문 사령관에 대해선 검찰이 현직 군인 신분이어서 군사법원법에 위반된다며 긴급체포를 승인하지 않았다. 법상 체포 주체가 군사경찰이나 군검찰이어야 한다는 것이다. 검찰 관계자는 “공조본에 체포 절차를 재검토하라고 한 것”이라고 했다.&lt;br&gt;&lt;br&gt;한편, 내란 혐의로 구속된 조지호 경찰청장은 이날 건강 악화로 경찰병원에 입원했다. 조 청장은 올해 초 혈액암 2기 판정을 받은 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[인사] 국가과학기술연구회 외</title>
+      <link>https://www.chosun.com/national/obituary-personnel/2024/12/17/B2JCG6A5K5HZHPDEBNX6AEU2RE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2024/12/17/B2JCG6A5K5HZHPDEBNX6AEU2RE/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Mon, 16 Dec 2024 15:46:33 +0000</pubDate>
+      <content:encoded>▲&lt;b&gt;국가과학기술연구회&lt;/b&gt;▷정책본부장 이진환▷융합본부장 민병권▷경영본부장 김태우▷홍보팀장 안미영&lt;br&gt;&lt;br&gt;▲&lt;b&gt;한국건설기술연구원&lt;/b&gt;▷연구부원장 문병섭▷산업혁신부원장 강태경▷기획조정본부장 이장근▷연구전략기획본부장 김강석▷경영지원본부장 최창식&lt;br&gt;&lt;br&gt;▲&lt;b&gt;KBS&lt;/b&gt;▷부사장 김우성▷미래비전추진단장 박진영▷저출생위기대응방송단장 최성원▷전략기획실 정책기획국장 조성원▷〃 예산국장 유현성▷〃 대외협력국장 이재원▷〃 미디어연구소장 김도엽▷콘텐츠전략본부 멀티플랫폼센터 디지털전략국장 김윤환▷라디오센터 라디오 국장 최재성&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[부음] 강화영씨 별세 외</title>
+      <link>https://www.chosun.com/national/obituary-personnel/2024/12/17/2T6NB4V35NHHNNK6V4GZ7AVGXE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2024/12/17/2T6NB4V35NHHNNK6V4GZ7AVGXE/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Mon, 16 Dec 2024 15:45:56 +0000</pubDate>
+      <content:encoded>▲&lt;b&gt;강화영&lt;/b&gt; 별세, &lt;b&gt;문규학&lt;/b&gt; 소프트뱅크비전펀드 아시아·유럽 총괄·&lt;b&gt;강정훈&lt;/b&gt; 모친상, &lt;b&gt;정수아&lt;/b&gt; 시모상=15일22시 서울성모병원, 발인 18일8시20분, (02)2258-5979&lt;br&gt;&lt;br&gt;▲&lt;b&gt;김영곤&lt;/b&gt; 前 김영곤박스 사장 별세, &lt;b&gt;이옥예&lt;/b&gt; 남편상, &lt;b&gt;김종석&lt;/b&gt; 삼청마케팅연구소 대표·&lt;b&gt;김종철&lt;/b&gt; 포스코 연구원 부친상=15일3시 신촌세브란스병원, 발인 17일8시, (02)2227-7500&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[플라자] 세종연구소 ‘세종시민아카데미’ 수강생 모집 </title>
+      <link>https://www.chosun.com/national/obituary-personnel/2024/12/17/RFTLNA3ZKZHYVCHU2BDDJ2BHRI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2024/12/17/RFTLNA3ZKZHYVCHU2BDDJ2BHRI/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Mon, 16 Dec 2024 15:45:37 +0000</pubDate>
+      <content:encoded>▲재단법인 세종연구소(이사장 이용준)는 ‘세종시민아카데미’ 수강생을 모집한다. 산업화와 민주화에 모두 성공한 대한민국 역사, 한반도를 둘러싼 국제 정세와 외교 안보 전략 및 남북 관계에 대한 강의와 토론을 6회에 걸쳐 진행한다. 내년 1월 21일∼6월 10일 매월 둘째 주 화요일마다 서울 종로구 세종연구소 콘퍼런스 룸에서 열린다. 모집 인원은 40명이며 31일까지 이메일(&lt;a href="mailto:edu@sejong.org" target="_blank"&gt;edu@sejong.org&lt;/a&gt;) 및 전화(02-739-6764)로 신청하면 된다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>박승우 13대 삼성서울병원장</title>
+      <link>https://www.chosun.com/national/people/2024/12/17/67HZHHBPEFGFVAXEVDVALB6E7U/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/12/17/67HZHHBPEFGFVAXEVDVALB6E7U/</guid>
+      <dc:creator>오경묵 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 16 Dec 2024 15:44:52 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CVSPQDX6ANFDXEM7EXHXTFWUBY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;박승우 삼성서울병원장. /삼성서울병원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;박승우 삼성서울병원장이 내년 1월부터 제13대 원장으로 연임한다. 임기는 3년. 심장 질환 분야 권위자로, 서울대 의대를 졸업하고 1997년부터 성균관대 의대 교수로 재직 중이다. 병원 기획실장 등을 두루 거쳤다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘시한부 아기’가 건강한 사회인으로… 국내 첫 생체 간 이식 주인공, 30살 맞았다</title>
+      <link>https://www.chosun.com/national/welfare-medical/2024/12/17/646PQBXCJVGTVE2KRMOHDGPJT4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/12/17/646PQBXCJVGTVE2KRMOHDGPJT4/</guid>
+      <dc:creator>정해민 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 16 Dec 2024 15:43:59 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KX3IN36FMJGL7FMMBI22RQXIXU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;30년 전 서울아산병원에서 국내 첫 생체 간 이식 수술을 받은 이지원(가운데)씨와 당시 수술을 집도한 이승규(왼쪽) 간이식·간담도외과 교수, 주치의 김경모 소아소화기영양과 교수. /서울아산병원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;1994년 12월 8일 생후 9개월 아기의 간이 딱딱하게 굳어갔다. 간 바깥의 담관이 막혀 담즙이 나오지 않는 병인 선천성 담관 폐쇄증 환자였다. 아기는 아버지의 간 4분의 1을 이식받았다. 살아있는 사람의 간을 이식하는 ‘생체 간 이식’이 우리나라에서 처음으로 성공한 순간이었다.&lt;br&gt;&lt;br&gt;서울아산병원은 16일 국내 첫 생체 간 이식을 받은 이지원(30)씨가 최근 건강하게 간 이식 30주년을 맞았다고 밝혔다. 대학에서 의료관리학을 전공한 이씨는 현재 민간 보험사에서 보험 심사 관련 일을 하고 있다. 서울아산병원은 이씨 간 이식 이후로 현재까지 총 7392명(성인 7032명, 소아 360명)에게 생체 간 이식을 했다. 이는 국내뿐 아니라 세계에서도 최다 기록이다.&lt;br&gt;&lt;br&gt;생체 간 이식은 뇌사자의 장기 기증을 기다리지 않아도 된다는 장점이 있다. 뇌사 과정에서 일어날 수 있는 간 손상 위험도 적다. 그러나 뇌사자 간 이식보다 수술이 까다롭고 합병증 위험이 클 수도 있다. 서울아산병원은 전체 간 이식 수술의 85%를 생체 간 이식으로 시행해왔다. 최근 5년간 시행한 생체 간 이식은 연평균 400회다.&lt;br&gt;&lt;br&gt;서울아산병원의 전체(생체·뇌사자) 간 이식 생존율은 1년 기준 98%, 3년 90%, 10년 89%다. 우리나라보다 간 이식 역사가 오래된 미국의 피츠버그대 메디컬센터와 캘리포니아대 샌프란시스코 메디컬센터의 간 이식 생존율(1년 평균 92%)보다 높다. 서울아산병원이 2012~2020년 시행한 소아 생체 간 이식의 경우 생존율이 1년 100%, 5년 98.6%에 달했다.&lt;br&gt;&lt;br&gt;이씨의 수술을 집도한 이승규 서울아산병원 간이식·간담도외과 석좌교수는 생체·뇌사자 도합 세계 최다인 8500회 이상 간 이식 수술을 집도한 세계적 대가다. 이 교수는 “기적을 만들어낼 수 있었던 것은 절체절명의 환자를 살리고자 도전 정신과 열정으로 뭉친 간 이식팀 의료진과 수술 이후 눈부신 생명력을 보이며 일상을 살아가는 환자들 덕분”이라고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[입에 착착 붙는 일본어] 회사 이미지에 맞지 않다</title>
+      <link>https://www.chosun.com/national/nie/japanese/2024/12/17/AOB4EHP7HVB7RNTDDA7T2BAYFE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/japanese/2024/12/17/AOB4EHP7HVB7RNTDDA7T2BAYFE/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Mon, 16 Dec 2024 15:40:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KV7ENZMSJZA43D25MUTXTQLDQY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[신문으로 배우는 실용한자] 육조(六曹)</title>
+      <link>https://www.chosun.com/national/nie/chinese_character/2024/12/17/ET3CMSNPOJAMRKN3AKT4TLKZWU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese_character/2024/12/17/ET3CMSNPOJAMRKN3AKT4TLKZWU/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Mon, 16 Dec 2024 15:40:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RRBSZFZVVZAYDNNHQSCPVNQCDU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[매일매일 중국어 한마디] 정신적 에너지 소모</title>
+      <link>https://www.chosun.com/national/nie/chinese/2024/12/17/R3ABAUUQKFDLTNYUYR7KOOL5WM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese/2024/12/17/R3ABAUUQKFDLTNYUYR7KOOL5WM/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Mon, 16 Dec 2024 15:40:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CWWSSPYOVREANI4Z4CIHSN5RXI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[스피킹이 강해지는 영어] take ~ for granted</title>
+      <link>https://www.chosun.com/national/nie/english/2024/12/17/3W5RKYCMHVGI5M5VMTBG54NKHM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/english/2024/12/17/3W5RKYCMHVGI5M5VMTBG54NKHM/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Mon, 16 Dec 2024 15:40:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3QGJWA7DVNBODIUIXQV4WKPVIA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[두근두근 뇌 운동] [2524] 암호로 바꿔 쓰기</title>
+      <link>https://www.chosun.com/national/nie/2024/12/17/XOBK6ZOBZNBCVPT7LCPHUFR3OY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/12/17/XOBK6ZOBZNBCVPT7LCPHUFR3OY/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Mon, 16 Dec 2024 15:40:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IDEFCEKXEVHTZBBVH664XTMMQU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[신문은 선생님] [디자인·건축 이야기] 물총새·올빼미 닮은 日 신칸센… 동물의 몸 본떠 열차 소음 줄였죠</title>
+      <link>https://www.chosun.com/national/nie/2024/12/17/A4LQSQWZQFC4BJSDME2T63L5BM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/12/17/A4LQSQWZQFC4BJSDME2T63L5BM/</guid>
+      <dc:creator>전종현 디자인·건축 저널리스트</dc:creator>
+      <description/>
+      <pubDate>Mon, 16 Dec 2024 15:32:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PNLDVF6TRVAHZM6XBKKMBN25XE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;신칸센 500 시리즈 열차. /위키피디아&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;일본이 자랑하는 고속철도 ‘신칸센’이 올해로 탄생 60주년을 맞이했어요. 1964년 도쿄 올림픽 개막에 맞춰 운행을 시작한 신칸센은 당시 시속 200km를 돌파하며 세계 최초로 고속철도 시대를 열었습니다. 일본의 양대 경제권인 도쿄와 오사카를 2시간대에 연결하며 엄청난 부가가치를 창출했죠.&lt;br&gt;&lt;br&gt;그러나 신칸센은 속도를 점점 올리는 과정에서 문제가 생겼습니다. 공기 저항 때문에 생기는 소음이 인근 주민들에게 피해를 준 거죠. 특히 열차에 전력을 공급하는 장치인 팬터그래프가 공기와 부딪치며 생기는 고주파 소음과, 열차가 터널에 들어간 후 빠져나올 때 압축된 공기가 터지며 ‘쿵’하고 나는 폭발음이 문제였어요. 그래서 1997년 생산된 신칸센 500 시리즈 열차부턴 ‘생체 모방 디자인’으로 이를 해결했어요. 생체 모방 디자인은 자연에서 발견한 구조나 패턴, 시스템을 모방한 디자인을 뜻한답니다.&lt;br&gt;&lt;br&gt;신칸센 500 시리즈는 무엇을 모방했을까요? 바로 올빼미와 물총새입니다. 올빼미의 별명은 ‘자연에서 가장 조용한 사냥꾼’이에요. 날개 앞부분에 있는 톱니처럼 뾰족뾰족한 모양의 깃털이 공기의 흐름을 잘게 쪼개 소리를 줄이죠. 500 시리즈의 팬터그래프에 톱니 모양을 추가하자 고주파 소음이 극적으로 줄어들었어요. 그리고 열차 앞부분은 물총새 부리처럼 길고 뾰족하게 만들자 거짓말처럼 폭발음도 사라졌어요. 물총새는 사냥을 위해 물에 입수할 때 뾰족한 부리가 받는 저항이 적어 조용하거든요.&lt;br&gt;&lt;br&gt;흔히 ‘찍찍이’라고 부르는 ‘벨크로’ 역시 생체 모방 디자인으로 만든 거예요. 1941년 스위스 엔지니어 조르주 드 메스트랄이 숲속을 돌아다니던 중에 옷 여기저기 붙은 열매가 잘 떼어지지 않아서 확대경으로 구조를 살펴봤는데요. 열매 표면에 갈고리 모양 돌기가 있었어요. 그는 그 모양을 본떠 한쪽에는 갈고리, 다른 쪽에는 실로 만든 작은 고리가 있는 벨크로 테이프를 발명했습니다. 벨크로는 단추나 지퍼 대신 손쉽게 탈부착할 수 있는 아이템으로, 일상 곳곳에 쓰이고 있습니다.&lt;br&gt;&lt;br&gt;건축에서도 에너지 절약 등을 위해 생체 모방 디자인을 사용해요. 흰개미의 건축술을 본뜬 건축 공법도 있답니다. 흰개미는 무더운 지방에 살면서 최고 40도, 최저 영하로 떨어지는 큰 일교차를 견뎌야 해요. 그래서 최대 6m 높이의 흙더미를 탑처럼 쌓은 후, 위쪽에 많은 구멍을 뚫어 내부에서 발생한 더운 공기가 대류 현상으로 자연스레 빠져나가도록 유도합니다. 탑 바닥에도 구멍을 뚫어 서늘한 공기를 안으로 끌어오죠. 위아래 구멍으로 공기 흐름을 조절한 결과 흰개미 집 내부는 온도 27도, 습도는 60% 정도를 유지한다고 해요. 아프리카 짐바브웨의 이스트게이트 쇼핑센터는 이런 원리를 활용해 건물 위아래에 수많은 통풍구를 설치했어요. 덕분에 에어컨 없이도 내부 온도를 평균 24도로 유지한답니다. 같은 규모 다른 건물에 비해 냉난방에 사용하는 에너지가 10%에 불과하대요.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[오늘의 날씨] 2024년 12월 17일</title>
+      <link>https://www.chosun.com/national/national_general/2024/12/17/FEVF5GNHWFEDJMQNF4XVU4TLU4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/17/FEVF5GNHWFEDJMQNF4XVU4TLU4/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Mon, 16 Dec 2024 15:31:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QEZPNV2GYREGJEX7LKR4XJQS6Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[신문은 선생님] [사소한 역사] 조선시대 땐 책 대여료가 하루치 쌀값… 보고싶은 소설은 베껴 썼대요</title>
+      <link>https://www.chosun.com/national/nie/2024/12/17/ZSZNSCEQ2FHKHBC5ISMJX57MPU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/12/17/ZSZNSCEQ2FHKHBC5ISMJX57MPU/</guid>
+      <dc:creator>이한 작가·'조선, 시험지옥에 빠지다’ 저자</dc:creator>
+      <description/>
+      <pubDate>Mon, 16 Dec 2024 15:31:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/S5YXADU2URFALNWHEFOCXCFK5M.png"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=김성규&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최근 한강 작가가 노벨 문학상을 수상하면서 한국 문학이 세계에 알려지고 있어요. K팝에 이어 세계로 뻗어나가고 있는 한국 문학은 언제부터 역량이 쌓이기 시작한 것일까요? 사실 문학에 대한 우리의 열망은 조선 시대 때부터 이어져 왔답니다.&lt;br&gt;&lt;br&gt;조선 시대 정조 때 기록을 보면 여성들이 가산을 탕진할 정도로 소설 읽기에 빠져 있었습니다. 옛날엔 책이 무척 귀해서 사람들이 책을 다 소유하지 못했어요. 대신 책을 빌려주는 ‘세책방’이 있었지요. 그런데 책 대여료가 얼마나 비싸길래 가산을 탕진할 정도였을까요? 당시 책 한 권을 빌리는 돈은 한 가족이 하루 먹을 쌀값 정도로 비쌌습니다. 그럼에도 빌려볼 만큼 인기가 있었다는 것이지요.&lt;br&gt;&lt;br&gt;책을 빌려 보는 게 여의치 않으면 필사를 했습니다. 책 한 권을 그대로 베끼는 것이지요. 무척 힘든 일이었지만 당시엔 인쇄가 어려웠기에 보고 싶은 소설은 베껴 써야 했습니다. 양반가 여성들은 물론, 왕실 사람들도 필사했습니다. 정조의 연인이었던 의빈 성덕임도 정조의 여동생 청연공주, 청선공주와 함께 소설 필사를 했습니다.&lt;br&gt;&lt;br&gt;여자들만 소설을 읽은 것도 아니었습니다. 훗날 정조의 장인이 되고 세도 정치를 시작했던 김조순도 궁궐에서 숙직을 하면서 연애소설을 읽었습니다. 재미있는 이야기라면 남녀 불문하고 좋아했다는 것이지요.&lt;br&gt;&lt;br&gt;소설 열풍이 불다 보니 소설 내용을 부분적으로 각색한 ‘이본(異本)’도 만들어지게 됩니다. 소설을 읽으며 그런 생각 해본 적 있으신가요. “나는 춘향전에서 이몽룡보다도 변학도가 더 좋다. 변학도가 춘향이랑 잘되었으면 좋겠다!” 그렇다면, 그렇게 쓰면 됩니다. 붓 잡은 사람 마음대로 써도 됩니다. 이건 소설이니까요. 그러다 보니 필사하는 사람 숫자만큼이나 이야기가 많이 만들어지게 됩니다. ‘임진왜란’을 배경으로 하는 역사소설 ‘임진록’만 하더라도 150개에 달하는 이본이 있는데, 전혀 다른 주인공이 등장하거나 원래 소설과는 다른 사건이 벌어집니다. 그리고 이 과정에서 새로운 소설도 창작되지요.&lt;br&gt;&lt;br&gt;그래서인지 조선 후기 패관소설(민간에서 떠도는 이야기를 주제로 한 소설)에는 여자가 주인공인 이야기도 많습니다. 가장 유명한 것은 박씨부인전입니다. 원래 하늘의 천녀였던 박씨 부인이 인간이 되었는데, 얼굴은 못생겼지만 도술이 뛰어났습니다. 처음엔 남편에게 사랑받지 못했지만 절세미인으로 다시 태어납니다. 병자호란이 벌어지자 다른 여성들을 안전하게 지키고 적군 대장의 목을 베어 나라를 지켜냅니다.&lt;br&gt;&lt;br&gt;이 이야기 안에 조선 시대 여성들의 바람이 모두 들어있습니다. 얼굴이 예뻐지고, 남편에게 사랑받고, 전쟁이 벌어져도 안전하고, 나라로부터 인정받는다. 독자의 욕망이 아주 강하게 반영돼 있지요. 이 외에도 방한림전이나 홍계월전에서도 여성 주인공이 나와 활약하는데, 그만큼 사람들이 자신들이 바라는 이야기를 상상하고 마침내 이야기로 적어서 책으로 만들어내는 일이 몹시 활발했답니다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[신문은 선생님] [재미있는 과학] 후추 알갱이보다 작은 초소형 카메라… 혈관 내부까지 찍죠</title>
+      <link>https://www.chosun.com/national/nie/2024/12/17/KV2KY24IEJCZTKJPXWJRXHFLMI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/12/17/KV2KY24IEJCZTKJPXWJRXHFLMI/</guid>
+      <dc:creator>이윤선 과학 칼럼니스트, 기획·구성=윤상진 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 16 Dec 2024 15:31:00 +0000</pubDate>
+      <content:encoded>과학기술의 발전으로 인류는 그동안 상상만 했던 다양한 공간을 탐험할 수 있게 됐어요. 민간인들이 우주여행을 떠나고, 심해까지 잠수하는 기술들도 발전하고 있죠.&lt;br&gt;&lt;br&gt;최근 과학계에선 우주나 바다 깊은 곳 말고도 콩알보다 작은 ‘미니 세계’에 대한 탐험과 개발도 활발하게 이루어지고 있답니다. 쌀알 크기만 한 칩을 뇌 속에 넣어 인간의 생각을 읽어내고, 머리카락 굵기보다도 얇은 나노섬유로 의료용품을 개발하고 있죠. 눈을 크게 떠도 보이지 않거나, 겨우 보이는 크기의 물체들이랍니다. 오늘은 현대 과학기술이 얼마나 정밀하고 작은 물체들을 만들고 있는지 알아보겠습니다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OMRSO6J565HY7ERWVUEBXOLEMI.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=유재일&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;세상에서 가장 작은 칩, 뇌와 컴퓨터를 연결&lt;/b&gt;&lt;br&gt;&lt;br&gt;머릿속으로 생각만 하면 곧장 글로 써진다면 어떨까요? 최근 스위스 로잔 연방공대 연구팀은 뇌의 활동을 실시간으로 글로 바꿔주는 아주 작은 칩을 개발했어요.&lt;br&gt;&lt;br&gt;우리가 어떤 생각을 할 때마다 뇌에선 ‘뇌파’라는 전기 신호가 만들어져요. 어떤 생각을 하느냐에 따라 뇌파 신호가 미세하게 달라진답니다. 과학자들은 이 원리를 이용해 전류가 들어오고 나가는 전극을 머리에 붙이거나 뇌에 심어 뇌 신호를 읽는 방법을 연구했어요.&lt;br&gt;&lt;br&gt;그 결과 뇌의 전기 신호를 이용해 로봇의 팔을 움직이거나 드론을 조종하고, 심지어는 생각을 글로 바꾸는 데 성공했죠. 이처럼 뇌와 기계를 연결해 상호작용하는 기술을 뇌-기계 인터페이스(BMI∙Brain-Machine Interface)라고 불러요.&lt;br&gt;&lt;br&gt;이번에 로잔연방공대 연구팀이 개발한 건 ‘MiBMI’예요. ‘Mi’는 소형화(Miniaturized) 됐다는 뜻이죠. 이 칩의 면적은 8㎜²로, 쌀알 하나 크기와 비슷할 정도로 작아요. 2개의 칩으로 데이터 기록과 처리가 이뤄지기 때문에 전력 소모도 적죠. 이전엔 ‘괴짜 사업가’ 일론 머스크가 지름 23㎜, 높이 8㎜의 뇌 이식 칩을 개발해 화제가 됐었는데, 그보다도 훨씬 작은 크기죠.&lt;br&gt;&lt;br&gt;MiBMI는 한 칩이 뇌 신경 신호를 감지해 기록하고, 다른 칩이 이 신호를 문자로 바꿔주는 역할을 해요. 연구팀은 현재 31개 문자를 읽어내는 데 성공했고, 정확도는 91%에 달한다고 합니다. 모든 생각을 글로 옮기는 것이 아니라, ‘글씨를 쓴다’고 생각할 때 나오는 뇌 신호만 집중적으로 추려낸다고 합니다. MiBMI는 의사소통이 어려운 전신마비 환자나 루게릭병 환자들에게 큰 도움이 될 것으로 보여요.&lt;br&gt;&lt;br&gt;&lt;b&gt;혈관 촬영하는 초소형 카메라&lt;/b&gt;&lt;br&gt;&lt;br&gt;모래알 하나만큼 작은 카메라도 있어요. 미국의 반도체회사 ‘옴니비전 테크놀로지’가 개발한 의료용 카메라 센서 ‘OV6948′입니다. 이 센서는 가로, 세로, 높이가 각각 0.65㎜, 0.65㎜, 1.158㎜로 후추 알갱이보다 작아요. 손가락에 올리면 마치 점처럼 보이죠. 2019년 기네스북에 ‘세계에서 가장 작은 카메라 센서’로 기록됐답니다.&lt;br&gt;&lt;br&gt;이 초소형 카메라 센서를 만들기 위해 반도체를 만들 때 쓰는 ‘웨이퍼 레벨패키지’(WLP) 기술이 이용됐어요. 웨이퍼라는 큰 원판 위에서 여러 개의 반도체를 한꺼번에 만들어 완성한 뒤 낱개로 잘라내는 방식이에요. 그럼 센서를 하나씩 만들 때보다 작고 정확하게 만들 수 있습니다.&lt;br&gt;&lt;br&gt;이렇게 만들어진 OV6948은 4만 화소의 이미지를 촬영할 수 있어요. 또 카메라 센서 뒤쪽에 조명이 있어서 어두운 곳에서도 선명하게 사진을 찍을 수 있죠. 한 번에 120도까지 넓게 촬영하고, 촬영한 이미지를 4m 떨어진 곳까지 전송할 수 있답니다. 크기가 작은 만큼 낮은 전력으로도 작동시킬 수 있고, 발열이 작은 점도 장점입니다.&lt;br&gt;&lt;br&gt;OV6948은 주로 의료 분야에서 활용될 것으로 보여요. 우리 몸속에 집어 넣어 촬영하는 거예요. 몸에서 가장 좁은 공간인 혈관 속에도 들어갈 수 있답니다.&lt;br&gt;&lt;br&gt;&lt;b&gt;스파게티면으로 의료용품 만들어&lt;/b&gt;&lt;br&gt;&lt;br&gt;영국에선 머리카락의 200분의 1 굵기인 ‘나노 스파게티’면이 개발됐어요. 영국 유니버시티 칼리지 런던(UCL) 연구팀이 개발한 이 면의 너비는 372nm(나노미터)예요. 1나노미터는 10억분의 1m랍니다.&lt;br&gt;&lt;br&gt;이 스파게티 면은 실제 먹는 음식은 아니에요. 전분으로 만든 나노섬유예요. 팬에 올리면 1초도 안 돼 익어버릴 정도로 얇죠. 감자나 고구마를 반으로 자르고 조금 지나면 단면에 흰색 물질이 생긴 걸 볼 수 있는데, 이것이 전분입니다.&lt;br&gt;&lt;br&gt;이 얇은 면은 다양한 의료용품을 만드는 데 사용된답니다. 면 중간중간에 작은 구멍이 아주 많이 있는 ‘다공성 구조’를 갖고 있어요. 수분이 잘 통과하면서도, 박테리아는 차단할 수 있어 상처를 치유하는 데 도움을 줄 수 있죠. 이 나노섬유를 이용해 붕대를 만들면 다른 소재로 만든 붕대보다 상처가 더 빨리 아물고, 마스크로 제작하면 외부 바이러스를 잘 막아줘요. 또 뼈가 부러졌을 때 사용하는 지지대로도 사용할 수 있어요. 연구팀은 이번에 개발한 나노섬유를 아주 얇은 종이 형태로 만들어 다양한 의료용품에 활용할 수 있게 한다고 해요.&lt;br&gt;&lt;br&gt;머리카락보다도 훨씬 얇은 나노섬유는 어떻게 만든 걸까요? 연구팀은 우선 밀가루와 포름산을 섞은 혼합물을 만들었어요. 포름산은 전분의 화학 구조를 분해해 느슨한 형태로 바꿔주는 역할을 해요. 이후 혼합물을 주사기 안에 넣고, 바늘에 전류를 흘려넣어 혼합물이 뭉친 상태로 바늘을 통과하도록 했답니다. 이 과정을 거쳐 지금까지 세상에서 가장 얇은 나노섬유를 만들었대요.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/ION3KA7M5JCABEUTMN5I5AURDU.png?width=1200&amp;height=675&amp;auth=df1b7529e7d6c1ed6513861cf75a6e9e77ef7fb74db52fa5f715b3d2b592239e&amp;smart=true" type="image/png" height="675" width="1200">
+        <media:description type="plain">그래픽=유재일</media:description>
+      </media:content>
+    </item>
+    <item>
       <title>[속보] 검찰 특수본, 尹 대통령에게 “21일까지 출석하라” 2차 통보</title>
       <link>https://www.chosun.com/national/court_law/2024/12/16/NRTAT4WW7ZHKPFL7I236T6LS5Y/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/16/NRTAT4WW7ZHKPFL7I236T6LS5Y/</guid>
@@ -501,46 +715,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/C4OE6RAX45MAVIHBPIMBJ5A5MU.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;방송인 강호동. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;방송인 강호동(54)이 최근 서울 강남구 신사동 가로수길에 있는 자신의 빌딩을 매각했다.&lt;br&gt;&lt;br&gt;16일 빌딩메이트 부동산중개에 따르면 강호동은 지난 11월 서울 강남구 신사동 가로수길에 있는 지하 1층, 지상 5층 규모의 건물을 166억원에 매각했다.&lt;br&gt;&lt;br&gt;강호동의 건물은 1992년 준공됐으며 대지 253.95㎡(58.11평), 건물 593.17㎡(179.43평) 규모다. 강호동은 이 건물을 2018년 6월에 141억원을 주고 매입했다. 강호동은 6년 만에 빌딩을 매각하면서 약 25억원의 차익을 얻은 셈이다.&lt;br&gt;&lt;br&gt;하지만 송나래 빌딩메이트 부동산중개 대표는 조선닷컴과의 통화에서 “양도세 납부 등을 하고 나면 큰 차익은 보지 못했을 것으로 추정된다”며 “최근 가로수길 메인 거리에서도 공실이 생기는 등 거래가 침체돼 호가보다 많이 낮은 금액으로 매각한 것으로 보인다”고 분석했다.&lt;br&gt;&lt;br&gt;강호동의 건물은 유명 브랜드 상점들이 밀집해 있는 가로수길 대로변에 위치해 있다. 그럼에도 큰 차익을 보지 못하고 건물을 매각한 것은 최근 가로수길 상권이 침체에 빠졌기 때문이란 분석이 나온다.&lt;br&gt;&lt;br&gt;글로벌 부동산컨설팅회사인 쿠시먼앤드웨이크필드가 집계한 올해 1분기 통계에 따르면 서울 6대 상권의 하나인 가로수길은 공실률이 41%에 달했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>경찰, 이상민 前 행정안전부 장관 소환조사 </title>
-      <link>https://www.chosun.com/national/incident/2024/12/16/S7M4G3EJFNG7FLEDAIQX3GGO5Q/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/12/16/S7M4G3EJFNG7FLEDAIQX3GGO5Q/</guid>
-      <dc:creator>안준현 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 16 Dec 2024 05:22:12 +0000</pubDate>
-      <content:encoded>‘12·3 비상계엄’을 조사하고 있는 경찰 국가수사본부 비상계엄 특별수사단이 16일 오후 이상민 전 행정안전부 장관을 소환해 조사하고 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RBLIULIIAASECXUEXKIFQBIUKA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이상민 행정안전부 장관이 5일 오전 서울 여의도 국회에서 열린 비상계엄 관련 행정안전위원회 전체회의에 출석해 생각에 잠겨 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이 전 장관은 이날 오후 1시 20분 서울 강남구 압구정동 자택에서 나와 변호사와 함께 오후 2시쯤 특별수사단에 출석했다.&lt;br&gt;&lt;br&gt;윤 대통령의 충암고·서울대 법대 후배인 이 전 장관은 지난 3일 윤 대통령의 비상계엄 선포에 동조했다는 의혹을 받는다. 현행 법상 비상계엄은 국방부장관과 행안부장관이 대통령에게 건의할 수 있다.&lt;br&gt;&lt;br&gt;이에 야당과 시민단체에선 이 전 장관을 내란죄 등으로 고발했고, 지난 7일 민주당이 탄핵안을 제출하자 다음 날 장관직을 사임했다.&lt;br&gt;&lt;br&gt;국수본은 지난 9일 이 전 장관에게 출석 요구와 함께 출국 금지 조치를 내렸다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/RBLIULIIAASECXUEXKIFQBIUKA.jpg?width=5000&amp;height=3333&amp;auth=bce5493fc5ca3ca755545f030d3f981eb45c0aec1657234a0e19b2bd4c348338&amp;smart=true" type="image/jpeg" height="3333" width="5000">
-        <media:description type="plain">이상민 행정안전부 장관이 5일 오전 서울 여의도 국회에서 열린 비상계엄 관련 행정안전위원회 전체회의에 출석해 생각에 잠겨 있다. /뉴스1</media:description>
-        <media:credit role="author" scheme="urn:ebu">뉴스1</media:credit>
-      </media:content>
-    </item>
-    <item>
-      <title>검찰, ‘채권 돌려막기’ 증권사 8곳 압수수색</title>
-      <link>https://www.chosun.com/national/national_general/2024/12/16/VCZ2EJZTV5E5LMBR7JKEA7INXQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/16/VCZ2EJZTV5E5LMBR7JKEA7INXQ/</guid>
-      <dc:creator>김도연 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 16 Dec 2024 05:30:35 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QXOC67THONOXO7H73APLGEK7BU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 양천구 서울남부지방검찰청./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;9개 증권사의 채권형 랩어카운트(랩)·신탁 돌려막기 의혹을 수사 중인 검찰이 이들과 거래한 증권사에 대한 강제 수사에 나섰다.&lt;br&gt;&lt;br&gt;서울남부지검 금융수사과는 16일 오전부터 ‘채권 돌려막기’ 의혹을 받는 9개 증권사와 거래한 증권사 8곳을 압수수색하고 있다고 밝혔다.&lt;br&gt;&lt;br&gt;하나증권, KB증권, 교보증권, 미래에셋증권, 유안타증권, 유진투자증권, 한국투자증권, NH투자증권, SK증권 등 9개 증권사는 지난 2022년 하반기 레고랜드 사태로 자금시장이 경색되자 랩·신탁 환매 과정에서 시장 혼란을 일으킨 혐의를 받는다.&lt;br&gt;&lt;br&gt;지난해 5월 금융감독원(금감원)은 9개 증권사를 대상으로 채권형 랩·신탁 업무 실태에 관한 집중 점검에 착수했고, 증권사들이 특정 고객의 수익률을 보장하고자 다른 고객 계좌로 손실을 돌려막거나 회사 고유자금으로 손실 일부를 보전해 준 사실을 파악했다.&lt;br&gt;&lt;br&gt;랩·신탁은 펀드와 달리 증권사가 고객과 일대일 계약을 통해 자산을 운용하는 금융상품이다. 랩·신탁은 그간 법인 고객이 단기 자금을 운용할 때 자주 찾던 상품이었다. 하지만 지난 2022년 레고랜드 채무 불이행 사태로 지방정부(강원도)마저 약속한 지급 보증을 이행하지 않을 수 있다는 인식이 번지자 채권 시장이 급격하게 얼어붙으며 문제가 생겼다.&lt;br&gt;&lt;br&gt;다수의 법인 고객이 증권사에 랩·신탁 환매를 요청했으나, 장기 채권 등 편입 자산은 시장에서 팔리지 않았다. 이에 증권 업체는 5000억원 규모의 손실을 고객 간 전가하는 등 각종 편법을 저질렀다.&lt;br&gt;&lt;br&gt;앞서 금감원 제재심의위원회는 9개 증권사들에 대한 랩·신탁 제재 결과를 통보했다. KB증권, 하나증권, 미래에셋증권, 유진투자증권, 한국투자증권, 교보증권, 유안타증권은 원안대로 중징계에 해당하는 3~6개월 영업정지 조치를 받았다.&lt;br&gt;&lt;br&gt;고객 보호를 위한 사후 수습 노력에 대한 소명이 일부 참작된 NH투자증권과 SK증권은 각각 영업정지 3개월에서 1개월로, 영업정지 1개월에서 기관경고로 제재 수위가 감경됐다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>문화공간 된 ‘신흥동 옛 인천시장 관사’, 인천시 등록문화유산으로 지정</title>
-      <link>https://www.chosun.com/national/regional/2024/12/16/XH3C56EJDBA4PDEHMA73W4DHYQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/12/16/XH3C56EJDBA4PDEHMA73W4DHYQ/</guid>
-      <dc:creator>인천=이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 16 Dec 2024 05:22:36 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LMJSINAUHRAJLOQCTJ3FC6662Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;인천 중구 신흥동 옛 시장 관사 건물을 리모델링해 활용하고 있는 긴담모퉁이집. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천 중구 옛 인천시장 관사 건물이 인천시 등록문화유산으로 지정돼 관리된다.&lt;br&gt;&lt;br&gt;인천시는 ‘신흥동 옛 인천시장 관사’ 건물을 시 등록문화유산으로 지정해 16일 고시했다고 밝혔다. 시 등록문화유산으로 지정되면 ‘인천시 문화유산의 보존 및 활용에 관한 조례’에 따라 보존‧관리된다.&lt;br&gt;&lt;br&gt;옛 인천시장 관사 건물은 인천 중구 답동로 12번길 10 일대 496.1㎡ 면적에 자리잡고 있다. 1938년 신축된 목조‧철근 콘크리트 건물로, 지하 1층, 지상 2층, 연면적 251㎡ 규모의 단독주택 형태다. 서양건축 양식과 일본식 주택 요소를 더한 근대건축물로 평가된다.&lt;br&gt;&lt;br&gt;이 건물은 해방 후 정부에 귀속되면서 1954년부터 1966년까지 인천시장 관사로 사용됐다. 인천시는 해방 후인 1946년부터 1953년까지도 인천시장 관사로 쓰였을 가능성은 있으나, 구체적인 기록은 없다고 설명했다.&lt;br&gt;&lt;br&gt;인천시는 인천 중구 송학동에 시장 관사가 새로 마련되면서 민간에 매각됐던 이 건물을 50여년만인 2020년 7월 다시 사들였다. 당시 주변 재개발로 이 건물이 훼손될 수 있다는 우려가 있었다. 인천시는 이 건물을 리모델링해 작년부터 복합문화공간 ‘긴담모퉁이집’으로 활용하고 있다. 시민 서재, 음악 감상 공간 등을 갖춰 하루 평균 30여명의 시민이 찾고 있다.&lt;br&gt;&lt;br&gt;인천시는 이 건물이 일제강점기 당시 주택 생활사를 고찰하고, 주거생활의 변천과정을 확인할 수 있는 사료로 활용할 수 있다며 등록문화유산 지정 배경을 설명했다. 또 이 건물이 인천시장 관사로 활용돼 지역사 연구의 단서를 제공할 수 있는 등 건물의 역사적‧학술적 가치가 인정된다고 밝혔다.&lt;br&gt;&lt;br&gt;인천시 관계자는 “근현대기에 만들어진 역사적·문화적 산물이 시민에게 다가가는 소중한 문화유산으로 보존·관리될 수 있게 하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[속보] 검찰, 윤 대통령에 2차 소환 통보... 조사일은 비공개</title>
-      <link>https://www.chosun.com/national/court_law/2024/12/16/FRLUD7W4TJDFZOM4IQNEAGD7AU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/16/FRLUD7W4TJDFZOM4IQNEAGD7AU/</guid>
-      <dc:creator>이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 16 Dec 2024 05:10:39 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4CFTROR6AUTUIHVT7NMIY2MARE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;[속보] 검찰, 윤 대통령에 2차 소환 통보... 조사일은 비공개&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>﻿“아버지 간 받은 9개월 아기” 국내 첫 생체 간이식 주인공, 30년 후 근황</title>
       <link>https://www.chosun.com/national/welfare-medical/2024/12/16/Y2LSCFZFFJHANPAQ2ZRKVTVMPI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/12/16/Y2LSCFZFFJHANPAQ2ZRKVTVMPI/</guid>
@@ -559,15 +733,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/V3N4KIIVWRJXDBWTVYH5PC6Q64.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 8일 대구 북구 엑스코에서 열린 ‘2024 대구 크리스마스 페어'를 찾은 시민들이 크리스마스트리와 장식 소품을 살펴보고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;올해는 ‘화이트 크리스마스’를 기대하기 어려울 전망이다. 다만 살을 에는 듯한 영하권 한파(寒波)는 이달 말까지 계속되겠다.&lt;br&gt;&lt;br&gt;기상청에 따르면, 17일 오전 비구름대를 동반한 기압골이 한반도를 통과한 후 오후부터 중국 북부지방에서 찬 대륙고기압이 확장하며 한파가 더 매서워지겠다. 17일 오전까지 경기남부·전라·경북권엔 1~5㎝ 내외의 눈이나 5㎜ 안팎의 비가 내리는 곳이 있겠고, 구름대가 한반도를 통과한 후에는 찬 바람이 본격 남하하기 시작하며 체감기온을 3~4도가량 떨어뜨릴 것으로 보인다. 17일 아침 최저기온은 영하 9도에서 영상 4도, 낮 최고기온은 1~10도로 예보됐다.&lt;br&gt;&lt;br&gt;17일 밤부터 영하 20도 안팎의 찬 바람이 북쪽에서 내려오면서 18일 출근길 수은주는 전날보다 뚝 떨어질 것으로 보인다. 18일은 최저 영하 12도에서 9도, 최고 영하 1도에서 영상 7도의 기온 분포를 보이겠다. 19일에도 최저 영하 11도 수준으로 전국에 추위가 이어지겠다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IMEWWDAILVJOJCEXDZOJ2KF4CM.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;찬바람과 함께 기온이 크게 내려간 16일 오전 경북 경산역 앞에서 두꺼운 외투를 챙겨 입은 학생과 엄마가 꼭 끌어안은 채 보행자 신호를 기다리고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;올 겨울은 예년보다 기온이 높은 편이지만, 11월까지 늦더위가 이어진 탓에 12월 들어 피부로 느끼는 ‘체감 한파’는 더 심한 편이다. 기온이 서서히 내려가지 않고, 11월 말 폭설을 기점으로 하루아침에 계절이 가을에서 겨울로 바뀌며 더 춥게 느끼는 것이다. 가을이 아무리 포근하더라도 12월부터는 중국 쪽 대륙고기압이 확장하면서 우리나라에 찬 바람이 유입되며 영하권 추위가 찾아오게 된다.&lt;br&gt;&lt;br&gt;작년 이맘때는 대륙고기압 확장세가 더 커 중국 북부 지역의 최저기온이 영하 45도까지 떨어졌고, 그 여파로 우리나라도 기온이 최저 영하 14도 내외로 떨어지며 전국에 한파특보가 발효됐었다. 현재 중국 북부 지역은 영하 30도 정도로 작년보다 기온이 15도 가량 높다. 이달 우리나라 전국 평균기온도 영상 3도로 평년(1991~2020년·30년 평균)값인 2.1도 보다 0.9도 높은 상황이다.&lt;br&gt;&lt;br&gt;오는 21일 동지(冬至)를 기점으로 일조량이 줄면서 추위의 강도는 점차 세질 것으로 예상된다. 크리스마스 이브인 24일과 당일인 25일 최저기온이 영하 10도까지 떨어지며 춥겠고, 최고기온도 1~9도에 머물겠다. 이달 말까지는 찬 바람이 따뜻한 서해상을 통과하며 눈구름대가 만들어져 곳곳에 약한 눈도 내리겠다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>권익위 “지방의회 해외 출장 44%서 문서 위조 통한 예산 타내기 적발”</title>
-      <link>https://www.chosun.com/politics/goverment/2024/12/16/CEEYPNEADZG2ZPCDQXZFAWK6LM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/politics/goverment/2024/12/16/CEEYPNEADZG2ZPCDQXZFAWK6LM/</guid>
-      <dc:creator>김경필 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 16 Dec 2024 05:05:31 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TYYN74V2UZPLHJLFTEHKOOKPBU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;국민권익위원회 유철환 위원장이 16일 오전 정부서울청사 별관에서 지방의회 국외 출장 실태 점검 결과를 발표하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국민권익위원회가 전국 243개 지방의회 의원들이 지난 3년간 다녀온 해외 출장을 전수 조사한 결과, 915건 가운데 405건(44.2%)에서 지방의원 등이 항공권을 위조해 항공료보다 많은 예산을 타낸 것으로 드러났다고 16일 밝혔다. 권익위는 이 기간 해외 출장이 있었던 233개 지방의회 전부에서 비용 허위 청구 등의 문제가 적발됐다고 했다.&lt;br&gt;&lt;br&gt;권익위는 “그간 지방의회의 해외 출장에 관해 외유 논란 등 여러 지적이 있었음에도 문제가 해소되지 않고 계속됐다”며, 17개 시·도 의회와 226개 기초자치단체 의회가 2022년부터 올해 5월까지 2년 5개월간 주관한 해외 출장을 전수 조사했다.&lt;br&gt;&lt;br&gt;243개 지방의회 가운데 233개(95.9%)에서 이 기간 한 차례 이상의 지방의원 해외 출장이 있었다. 이 915건 출장으로 인해 지출된 금액은 355억원에 달했다. 지방자치단체 예산으로 해외 출장을 가면서 지방의회 의원이 동행한 경우까지 포함하면 해외 출장은 1400건, 지출은 400억원이었다.&lt;br&gt;&lt;br&gt;항공권 관련 문서를 위조해 항공료를 부풀려 예산을 타내는 수법을 쓴 것이 915건 출장 중 405건에서 적발됐다. 충청남도의회는 2022년 네덜란드와 벨기에, 독일 출장을 가면서 1인당 338만원인 비즈니스석 항공권을 예약해놓고, 관련 문서를 포토샵 등 그래픽 편집 프로그램으로 변조해 이코노미석 항공권을 예약한 것처럼 꾸민 뒤 이 문서로 항공료를 지원받았다. 충남도의회는 이후 비즈니스석 항공권 예약을 취소하고, 1인당 164만원인 진짜 이코노미석 항공권을 발권했다. 이렇게 해서 1인당 174만원씩 10명이 총 1740만원의 차액을 챙겼다. 충북 단양군의회 지난해 오스트리아와 독일, 체코 출장을 가면서 여행사에 요청해 1인당 201만원짜리인 항공권을 265만원짜리인 것처럼 문서를 변조하게 했다. 이렇게 해서 1인당 64만원씩을 챙겼다.&lt;br&gt;&lt;br&gt;해외 출장 예산으로 관광지 입장료와 가이드비 등을 지출한 경우도 있었다. 서울 동대문구의회는 2022년 일본을 다녀오면서 관광지 입장료로 90만원, 가이드비로 160만원을 의회 예산에서 지출했다. 구의원들이 찾아간 곳은 도쿄 롯폰기힐스 모리타워, 온천, 요코하마 아카렌가 창고 등 관광지였다. 다른 지방의회도 지난해 이탈리아와 프랑스 출장을 가면서 바티칸 박물관과 성 베드로 대성당, 루브르 박물관 등을 관람하는 데 300만원을 썼다.&lt;br&gt;&lt;br&gt;강원 춘천시의회는 지난해 영국과 프랑스 출장을 다녀오면서 손흥민 선수가 있는 토트넘FC 경기장, 영화관 등 관광성 장소 5곳을 방문했고, 방문비와 통역비로 1곳당 80만원씩 총 400만원을 지출했다가 적발됐다. 권익위는 해외 출장 915건 중 94건(10.3%)이 싱가포르 방문이었으며, 싱가포르 유명 관광지인 가든스 바이 더 베이 방문이 74회 있었다고 확인했다. 한 지방의회는 4박 6일 일정으로 호주를 방문했는데, 일정 전체가 블루마운틴 국립공원, 시드니 오페라하우스 등 관광지 방문이었던 것으로 드러났다&lt;br&gt;&lt;br&gt;술과 안주, 숙취 해소제, 영양제, 피로 회복제 등 사적용품을 예산으로 구입한 경우도 178건(19.5%) 적발됐다. 서울 관악구의회는 올해 미국 출장을 가면서 피로 회복제 등을 사는 데 106만원을 썼고, 칫솔과 깻잎 통조림 등에 249만원을 썼다. 전남도의회도 올해 베트남 출장을 가서 술과 컵라면, 육포 등을 사는 데 공금 76만원을 썼다. 화투패와 트럼프 카드를 사는 데에도 공금이 쓰였다.&lt;br&gt;&lt;br&gt;권익위는 지방의원들이 해외 출장에 의회 직원들을 너무 많이 동행시키고, 이들의 출장비를 대납해준 것도 문제라고 지적했다. 선거법상 기부행위 금지 조항에 어긋난다는 것이다. 권익위는 117건(13.0%) 출장에서 이런 출장비 대납이 있었다고 밝혔다. 대구시의회는 지난해 영국과 아일랜드 출장을 가면서, 규정상 나오는 여비 이상으로 발생한 여행 경비 1950만원을 의원 10명이 사적으로 부담하기로 하고, 출장에 동행한 직원 4명 치에 해당하는 346만원을 대납했다.&lt;br&gt;&lt;br&gt;권익위는 이렇게 외유성이거나 비용 처리가 불법적인 해외 출장이 자주 일어나는 데 대해 “해외 출장을 심사하는 기구인 공무국외출장심사위원회가 제대로 기능하지 못했기 때문”이라고 지적했다. 권익위는 “심사위는 일정의 외유성 등을 지적하면서도 출장 자체는 승인해주는 행태를 보였고, 특히 지방의원이 심사에 참여하는 경우가 많았으며, 의원들이 동료 의원과의 관계와 향후 자기가 해외 출장을 가게 될 일을 고려해 공정하게 심사하지 못하고 있다”고 지적했다. 출장을 가는 의원이 ‘셀프 심사’를 한 경우도 79건(8.63%)에 달했다.&lt;br&gt;&lt;br&gt;권익위는 문서 위·변조 등 범죄 행위가 확인된 사례에 대해서는 수사 기관에 수사를 의뢰하고, 징계와 환수, 과태료 부과 등의 조치가 필요한 사안에 대해서는 관할 지자체와 지방의회에 통보할 예정이라고 밝혔다.&lt;br&gt;&lt;br&gt;권익위 유철환 위원장은 “이번 실태 점검은 지방의회의 청렴 수준을 제고하기 위해 부패 취약 분야인 국외 출장을 대상으로 한 것”이라며 “점검 결과 확인된 위반 사례를 교육·홍보해 지방의회에 올바른 문화가 정착될 수 있게 지속적으로 노력하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[속보] 헌재 “尹 탄핵심판 첫 변론준비기일, 12월 27일”</title>
       <link>https://www.chosun.com/national/court_law/2024/12/16/2BI742KT45FHVPB2VFNJL4KPZQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/16/2BI742KT45FHVPB2VFNJL4KPZQ/</guid>
@@ -575,94 +740,6 @@
       <description/>
       <pubDate>Mon, 16 Dec 2024 05:04:21 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AQDXFWYBXFHGZIDRZFJK233MTU.png"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>서울시 공공예식장 이용 부부, 작년 29쌍에서 106쌍으로 증가</title>
-      <link>https://www.chosun.com/national/national_general/2024/12/16/O7BI5VBQU5DDDNL7ZSVYA4ZOVI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/16/O7BI5VBQU5DDDNL7ZSVYA4ZOVI/</guid>
-      <dc:creator>김영우 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 16 Dec 2024 04:51:01 +0000</pubDate>
-      <content:encoded>올 한 해 100쌍 넘는 부부가 서울시 공공 예식장에서 결혼식을 치른 것으로 나타났다. 작년 29쌍에서 80쌍 가까이 늘어난 것이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BEQDTSZZTFB3VO22NGCUQX3S2Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울시 공공예식장 북서울꿈의숲에서 예식을 진행하는 부부의 모습. /서울시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;16일 서울시에 따르면, 올 한 해 106쌍의 부부가 서울시 공공예식장에서 결혼식을 치렀다. 공공예식장이 처음 문을 연 작년엔 29쌍이 이용했는데, 80쌍 가까이 늘어난 것이다. 서울시 관계자는 “내년에는 이미 169쌍이 예약해 두었다”고 말했다.&lt;br&gt;&lt;br&gt;신혼부부들의 서울시 공공예식장 이용이 늘어나면서, 서울시는 이들의 선택권을 늘려주기로 했다. 우선 공공예식장 운영 업체를 기존 5개에서 10개로 늘린다. 지금까지 장소별로 지정된 1개 업체와 계약해 예식을 진행해야 했는데, 앞으론 2개 업체 중 한 곳을 선택할 수 있게 된다.&lt;br&gt;&lt;br&gt;서울시 지정 업체가 아닌 외부 업체와 계약을 맺을 수 있는 공공예식장도 생긴다. 서울시 여성플라자 국제회의장, 초안산 하늘꽃정원, 솔밭근린공원, 불암산 힐링타운 철쭉동산, 문화비축기지 등 5곳이다. 서울시 관계자는 “부부들이 원하는 업체와 계약을 맺어 결혼식을 치를 수 있다”고 말했다.&lt;br&gt;&lt;br&gt;서울시는 현재 공공예식장을 이용하는 부부들에게 예식장 대관료 감면, 100만원 이내 결혼장려금 지급 등 혜택을 주고 있다.&lt;br&gt;&lt;br&gt;김선순 서울시 여성가족실장은 “결혼을 앞둔 예비부부들의 많은 관심과 신청을 바란다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[속보] 경찰·공수처, 尹 출석요구서 전달 불발</title>
-      <link>https://www.chosun.com/national/incident/2024/12/16/SAVKLJ7QFRFZFIK4AGVJHS6RSM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/12/16/SAVKLJ7QFRFZFIK4AGVJHS6RSM/</guid>
-      <dc:creator>장윤 기자, 안준현 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 16 Dec 2024 02:30:20 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZM6EM4ULZFOYLBOSWNH52BMQQQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령이 지난 14일 본인의 탄핵소추안이 국회에서 가결된 뒤 한남동 관저에서 대국민담화를 하고 있다. /대통령실&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰ㆍ공수처ㆍ국방부 비상계엄 공조수사본부가 16일 윤석열 대통령에게 출석요구서를 제출하기 위해 용산 대통령실에 도착했으나 전달이 불발됐다. 관계자들은 용산 대통령 관저로 가서 다시 출석요구서 전달을 시도하겠다는 계획이다.&lt;br&gt;&lt;br&gt;이 출석요구서는 윤 대통령에게 18일 오전 10시 출석하라는 내용과 함께 윤 대통령을 내란 우두머리(수괴)로 명시했다.&lt;br&gt;&lt;br&gt;이날 손영조 공수처 선임수사관은 기자들에게 “대통령비서실 측이 대통령 직무가 정지된 상태에서 출석요구서 전달이 비서실의 업무인지 판단이 안됐다고 했다”며 “대통령의 직무가 정지된 것이지 직위가 상실된 것은 아니라 대통령실로 왔다”고 했다.&lt;br&gt;&lt;br&gt;이어 “곧장 관저로 이동해 출석요구서 제출을 요구하겠다”며 “관저에서도 제출이 불발되면 등기를 통해 출석요구서를 전달하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/LZ3SZ6XEXJFP5MGOCAVUNW3QDY.jpg?width=1440&amp;height=960&amp;auth=09734feec81b22e39590700ea58e7d725c71bede06c5b69bfdb1416684477db9&amp;smart=true" type="image/jpeg" height="960" width="1440">
-        <media:description type="plain">윤석열 대통령이 지난 12월 14일 본인의 탄핵소추안이 국회에서 가결된 뒤 한남동 관저에서 대국민담화를 하고 있다./대통령실</media:description>
-      </media:content>
-    </item>
-    <item>
-      <title>모아타운 '1호' 번동 모아타운 착공…1242가구 규모 단지로 변신</title>
-      <link>https://www.chosun.com/national/national_general/2024/12/16/ZLEAG4PIPVEDHNDUSVCFRAOPZE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/16/ZLEAG4PIPVEDHNDUSVCFRAOPZE/</guid>
-      <dc:creator>김영우 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 16 Dec 2024 03:17:00 +0000</pubDate>
-      <content:encoded>지난 2022년 모아타운 ‘1호’로 선정된 서울 강북구 번동 모아타운이 공사에 들어간다. 서울시가 계획을 발표한 지 3년 만이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/C2NSLONFTVEBPCKMMPLH7Z47KE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;완공 후 '번동 모아타운'의 조감도. /서울시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울시는 16일 오후 2시 ‘번동 모아타운 착공 초청의 날’을 연다고 밝혔다. 이 행사에서 오세훈 서울시장과 모아주택 조합원 등 200여 명이 참석해 이야기를 나눈다.&lt;br&gt;&lt;br&gt;번동 모아타운은 지난 2022년 서울시가 모아타운 추진 계획을 발표할 때 시범사업 대상지로 선정돼 재건축을 추진해왔다. 심의, 사업 시행 계획 인가, 세입자 이주 등 절차를 거쳐 지난달 철거에 들어갔다.&lt;br&gt;&lt;br&gt;이번 공사에 따라 총 793가구 규모의 다가구·다세대 주택이 철거되고, 1242가구 규모의 12개 동 아파트 단지가 들어선다. 이 중 245가구는 임대 주택이다. 서울시 관계자는 “지하 주차장을 통합해 만들 수 있게 돼, 총 1294대가 주차할 수 있는 주차장이 들어서게 됐다”고 말했다. 단지와 맞닿아 있는 우이천변 약 6000㎡ 부지에는 산책로와 휴식·운동 시설이 들어선다.&lt;br&gt;&lt;br&gt;서울시는 번동 모아타운 착공을 시작으로 노후 저층 주거지 정비와 주거 품질 개선을 본격적으로 가속화한다는 계획이다. 서울시 관계자는 “서울 시내 모아타운이 추진되고 있는 109곳 모두 신속히 사업을 마무리할 수 있도록 노력하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>수십억 필로폰 밀수하고, 유흥업소서 투약한 내·외국인 6명 구속</title>
-      <link>https://www.chosun.com/national/2024/12/16/66LATF4ZTFCHDO7Q47GLJMBR7M/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2024/12/16/66LATF4ZTFCHDO7Q47GLJMBR7M/</guid>
-      <dc:creator>창원=김준호 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 16 Dec 2024 02:48:35 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/C6EAFGYQYNEQJB7OO67TMRRJDY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;A씨 등이 경남 창원과 부산의 야산 등에 숨겼다가 경찰이 압수한 필로폰. /경남경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;해외에서 다량의 필로폰을 밀반입해 국내에서 유통·판매한 운반책과 이들로부터 마약을 구매해 클럽에서 투약한 이들이 검거됐다.&lt;br&gt;&lt;br&gt;경남 창원중부경찰서는 필로폰을 해외에서 밀반입하고 숨기거나, 마약을 구매해 투약한 피의자 13명을 마약류 관리에 관한 법률 위반 혐의로 붙잡아 이 가운데 A(20대)씨 등 6명을 구속했다고 16일 밝혔다.&lt;br&gt;&lt;br&gt;경찰에 따르면 A씨는 텔레그램 대화방을 통해서 ‘해외에서 필로폰을 국내로 운반해오면 700만원을 주겠다’는 마약 운반책 모집 공고를 봤다.&lt;br&gt;&lt;br&gt;이에 중학교 동창 B씨와 큰돈을 벌기로 계획하고, 지난 9월 미국 LA로 건너갔다. 그는 공급책의 지시에 따라 한 호텔 앞에서 마약이 든 여행용 가방을 받아 인천공항을 통해 국내로 들어왔다. &lt;br&gt;&lt;br&gt;당시 가방 안에는 8만3000여명이 한 번에 투약할 수 있는 필로폰 2.5kg이 들어 있었다고 한다. A씨는 국내로 들여온 필로폰을 부산과 창원 지역의 야산·해안가 등에 숨겼다.&lt;br&gt;&lt;br&gt;그는 이 가운데 일부를 B씨와 함께 빼돌렸고, B씨가 운영하던 베트남 전용 유흥업소 단골손님들에게 돈을 받고 팔았다.&lt;br&gt;&lt;br&gt;A씨 등으로부터 마약을 구매한 이들은 창원과 진주 등 베트남 전용 유흥업소에서 지인들과 투약했다. 경찰 조사 결과 필로폰을 투약한 이들은 외국인이거나, 한국에 귀화한 이들로 확인됐다.&lt;br&gt;&lt;br&gt;이들의 범행은 B씨 지인의 신고로 덜미를 잡혔다. B씨가 지인에게 “국내에 들여온 마약을 유통·판매하려고 하니 알아봐 달라”했는데, 실제 마약이라는 사실을 알고서는 경찰에 신고한 것이다. 경찰은 지난 10월쯤 A씨 등이 창원 야산 등에 숨겨 놓은 필로폰 1.668kg(시가 약 56억원)을 압수했다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “필로폰 투약자 등이 더 있을 것으로 보고 수사를 확대하고 있다”며 “마약류 범죄 신고자의 신원을 철저히 보호하고, 신고보상금을 지급하는 만큼 적극적인 제보를 부탁한다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>음주 사고 내고 도주한 현역 육군 중사 검거</title>
-      <link>https://www.chosun.com/national/national_general/2024/12/16/MJ7WZ5S7WFEULDZW5MOLU2JK4A/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/16/MJ7WZ5S7WFEULDZW5MOLU2JK4A/</guid>
-      <dc:creator>고유찬 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 16 Dec 2024 02:21:49 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5UXFSWTBTTWODWYM6XNU3BZXDE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 강북경찰서. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;술에 취한 채 운전대를 잡고 잇달아 교통사고를 낸 현역 육군 중사가 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;서울 강북경찰서는 도로교통법상 음주운전 혐의 등을 받는 육군 소속 부사관 30대 A 중사를 불구속 입건했다고 16일 밝혔다.&lt;br&gt;&lt;br&gt;A 중사는 지난 14일 새벽 0시 16분쯤 서울 서초동의 한 아파트 인근 교차로에서 신호를 위반하고 역주행하다 중앙분리대를 들이받은 뒤 도주한 혐의를 받는다.&lt;br&gt;&lt;br&gt;이후 A 중사는 약 8시간 뒤 약 30km 떨어진 서울 미아동의 한 골목에서 건물을 들이받고 또다시 현장을 벗어난 것으로 알려졌다.&lt;br&gt;&lt;br&gt;2차 사고 현장 인근 주택가를 수색하던 경찰은 A 중사를 발견해 검거했다. 음주 측정 결과 A 중사의 혈중알코올농도는 면허 정지 수준이었다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “조만간 A 중사를 불러 자세한 사건 경위를 조사해 기초적인 조사를 마친 뒤 군사경찰에 이첩할 예정”이라고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>노조게시판서 직원 사칭해 댓글 수정한 언론사 前 대표, 대법서 벌금형 확정</title>
-      <link>https://www.chosun.com/national/court_law/2024/12/16/CSBPFWBZJFFLPK4IO2QU5JLRV4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/16/CSBPFWBZJFFLPK4IO2QU5JLRV4/</guid>
-      <dc:creator>박강현 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 16 Dec 2024 02:07:36 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MP2HBDP4CNB73ODWUW6X6LNYJI.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초동 대법원. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;회사 노조게시판에 달린 자신에 대한 부정적 댓글을 비밀번호 설정 오류를 이용해 원 작성자처럼 행세하며 임의로 수정한 언론사 전 대표에게 벌금형이 확정됐다.&lt;br&gt;&lt;br&gt;16일 법조계에 따르면 대법원 1부(주심 노태악 대법관)는 정보통신망법 위반(정보통신망 침해 등) 혐의로 기소된 언론사 전 대표 이모씨에 대해 벌금 500만원을 선고한 원심을 지난달 20일 확정했다.&lt;br&gt;&lt;br&gt;이씨는 2022년 1월 서울 중구 사무실에서 회사 인트라넷의 노조게시판에 올라온 ‘회장·대표 입장에 관한 토론장’이라는 게시글의 댓글을 보고 무단으로 수정한 혐의를 받았다. 해당 댓글은 회사 소속 기자 A씨가 이씨를 가리키며 ‘됐고 나가주세요’라는 취지의 내용이었다.&lt;br&gt;&lt;br&gt;당시 사내게시판은 기술적인 오류로 댓글 원 작성자가 아니더라도 비밀번호란에 아무 숫자 등을 입력하면 해당 댓글을 수정할 수 있는 상황이었고, 이씨는 이를 이용해 A씨가 작성한 댓글에 ‘대표가 미운 것도 사실이지만 내가 인정받지 못하는 게 싫어서 댓글을 썼다. 그렇다고 회장 편도 아니다’는 등의 내용을 추가했다.&lt;br&gt;&lt;br&gt;재판의 쟁점은 ‘정보통신망 침입’ 여부 및 ‘타인 정보 훼손’의 의미였다. 재판 과정에서 이씨는 회사의 대표로서 정당하게 노조게시판에 접근했고, 해당 댓글은 감정의 표시일뿐 타인의 정보에 해당하지 않을뿐더러 기존 댓글은 그대로 둔 채 문구만 추가했기 때문에 정보를 훼손한 것은 아니라는 취지로 주장했다.&lt;br&gt;&lt;br&gt;하지만 1심 재판부는 아무리 기술적 오류가 있었더라도 이씨가 정당한 접근권한이 없는 상태에서 다른 사람의 댓글을 수정했기에 ‘정보통신망 침입’에 해당하고, 글을 추가해 애초 이씨를 지지하지 않는다는 정보의 내용을 변경했기 때문에 ‘정보 훼손’으로 볼 수 있다고 판단하며 벌금 500만원을 선고했다. 2심은 이씨의 항소를 기각했고, 대법원도 원심이 법리를 오해한 잘못 등이 없다는 이유로 이씨의 상고를 마찬가지로 기각했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>경찰·공수처, 尹대통령 출석 요구서 전달하기 위해 대통령실 도착</title>
-      <link>https://www.chosun.com/national/2024/12/16/5RRCUAUWF5G5PKOVVBIZSJULGI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2024/12/16/5RRCUAUWF5G5PKOVVBIZSJULGI/</guid>
-      <dc:creator>주형식 기자, 장윤 기자, 안준현 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 16 Dec 2024 00:08:49 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LZ3SZ6XEXJFP5MGOCAVUNW3QDY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령./대통령실&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰ㆍ공수처ㆍ국방부 비상계엄 공조수사본부가 16일 윤석열 대통령에게 출석요구서를 제출하기 위해 용산 대통령실에 도착했다.&lt;br&gt;&lt;br&gt;공조본은 윤 대통령에게 18일 공수처로 출석을 요구했다. 공수처 검사 명의로 작성된 출석요구서에는 윤 대통령에 대한 혐의로 내란 우두머리(수괴) 및 직권 남용 권리행사 방해를 적시했다. &lt;br&gt;&lt;br&gt;특히 경찰은 윤석열 대통령에 대한 내란 혐의 수사와 관련해선 공수처로 이첩하겠다고 밝혔다. 경찰은 윤 대통령을 비롯해 김용현 전 국방부 장관, 이상민 전 행정안전부장관, 계엄사령관이었던 박안수 육군참모총장, 여인형 전 방첩사령관 등 총 5명에 대해선 공수처로 사건을 이첩했다. 경찰 관계자는 “영장 신청 문제 등 신속하게 사건을 처리하려면 공수처 협조가 필요하다”고 밝혔다. 경찰청 국가수사본부 특별수사단은 “수사중인 비상계엄 사건 일부를 오늘 9시쯤 고위공직자범죄수사처에 이첩했다”며 “이는 신속하고 효율적인 비상계엄 수사를 위해 공수처의 요청을 국가수사본부에서 받아들인 것으로, 앞으로도 관련 수사를 통해 확보한 자료를 공수처에 지속적으로 제공하면서 합동수사를 이어갈 예정”이라고 밝혔다.&lt;br&gt;&lt;br&gt;경찰은 비상 계엄과 관련한 나머지 수사에 대해 집중하겠다는 방침이다. 비상계엄 전 국무위회의에 참석했던 국무위원 11명 가운데 7명에 대한 조사를 마쳤다고 경찰은 밝혔다.&lt;br&gt;&lt;br&gt;한편 검찰은 윤 대통령에게 지난 15일 오전 10시에 피의자 조사를 받으라고 통보했으나 윤 대통령은 응하지 않았다. 검찰이 현직 대통령에게 피의자 소환 통보를 한 건 이번이 처음이다. 검찰은 16일(오늘)쯤 윤 대통령에게 2차 소환 통보를 할 예정이다.&lt;br&gt;&lt;br&gt;검찰에 이어 공조수사본부도 윤 대통령에게 소환을 통보하면서 윤 대통령 조사가 임박했다는 관측이 나온다. 윤 대통령이 출석 요구에 계속 응하지 않을 경우 검찰이나 공조본이 법원에서 체포영장을 발부받을 가능성도 제기된다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/LZ3SZ6XEXJFP5MGOCAVUNW3QDY.jpg?width=1440&amp;height=960&amp;auth=09734feec81b22e39590700ea58e7d725c71bede06c5b69bfdb1416684477db9&amp;smart=true" type="image/jpeg" height="960" width="1440">
-        <media:description type="plain">윤석열 대통령이 지난 12월 14일 본인의 탄핵소추안이 국회에서 가결된 뒤 한남동 관저에서 대국민담화를 하고 있다./대통령실</media:description>
-      </media:content>
-    </item>
-    <item>
-      <title>올림픽대로·강변북로에도 졸음 쉼터 만든다…2026년까지 총 4곳 조성</title>
-      <link>https://www.chosun.com/national/national_general/2024/12/16/ULPDDXESJJFNTO54BIGFMNOWFU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/16/ULPDDXESJJFNTO54BIGFMNOWFU/</guid>
-      <dc:creator>김영우 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 16 Dec 2024 02:04:13 +0000</pubDate>
-      <content:encoded>내년 상반기면 올림픽대교 남단에 고속도로 졸음 쉼터 같은 휴게 공간이 생길 전망이다. 2026년까지 올림픽대로와 강변북로 인근 총 4곳에 이 같은 졸음 쉼터가 조성된다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TRGKEVQ7LNJR7CZSGMNVUVBWYM.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;내년 상반기 졸음쉼터가 설치될 올림픽대교 남단의 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;16일 서울시에 따르면, 서울시는 내년 상반기까지 올림픽대교 남단에 졸음 쉼터를 조성한다. 이곳에 있는 작은 공원 크기의 녹지대를 활용해 주차를 해두고 쉴 수 있는 공간을 만든다는 계획이다. 졸음 쉼터에는 화장실과 햇빛을 가릴 수 있는 차양막이 설치된다. 서울시 관계자는 “휴게소처럼 매점 같은 상업 시설은 설치하지 않을 것”이라고 말했다.&lt;br&gt;&lt;br&gt;이어 내년 하반기에는 성수대교 북단, 2026년에는 양화대교 남단과 청담대교 남단에도 졸음 쉼터가 들어선다. 서울시 관계자는 “녹지대나 교통 안전 지대 같은 유휴부지를 활용해 만들 계획”이라고 말했다.&lt;br&gt;&lt;br&gt;올림픽대로와 강변북로는 도로 길이가 각각 43㎞, 28㎞에 달하지만 중간에 쉬어갈 수 있는 곳이 없어 졸음운전 사고 위험이 컸다. 2020년부터 3년간 올림픽대로 사망 사고 5건 중 2건이, 강변북로 사망 사고 절반이 졸음운전 때문에 발생했다.&lt;br&gt;&lt;br&gt;서울시는 우선 4곳에 졸음 쉼터를 설치해 운영하고 추가 설치가 필요하다고 판단하면 이를 검토할 계획이다. 서울시 관계자는 “졸음 쉼터 설치를 위한 부지 확보가 어려워 현재는 추가 설치 계획이 없다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>조국 서울구치소 수감...“판결 동의 못하지만 국민 의무 다하겠다”</title>
-      <link>https://www.chosun.com/national/court_law/2024/12/16/DX4J2NLNNJBFZKRK7ML5ZUGRKM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/16/DX4J2NLNNJBFZKRK7ML5ZUGRKM/</guid>
-      <dc:creator>이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 16 Dec 2024 01:01:25 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UHBEF5R42FEL7NDQ4CVHKE7D2A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;조국 전 조국혁신당 대표가 2024년 12월 16일 경기도 의왕시 서울구치소에  수감되기 위해 구치소 차량을 타기전 손을 들어 인사하고 있다./전기병 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;자녀 입시 비리와 청와대 감찰 무마 등의 혐의로 기소돼 대법원에서 징역 2년을 확정받은 조국 전 조국혁신당 대표가 16일 오전 9시 38분 서울구치소에 수감됐다. 2019년 12월 기소된 지 5년 만에 재판을 마무리하고 형을 살게 된 것이다.&lt;br&gt;&lt;br&gt;이날 오전 7시 30분쯤부터 서울구치소 앞엔 조국혁신당 지지자들이 하나둘 모이기 시작했다. 이들은 손에 ‘우리는 조국의 진심을 믿습니다’라는 문구가 인쇄된 포스터, ‘우리가 조국이다’ 문구가 인쇄된 깃발 등을 든 채였다. 한 지지자는 2020년 9월 7일 조 전 대표가 직접 서명한 사인을 들고 오기도 했다. 또 다른 지지자는 조국혁신당의 상징색인 하늘색 장미를 다발로 들고 와 지지자들에게 나눠주기도 했다. 조 전 대표가 올 때까지 지지자 150여 명이 모였다.&lt;br&gt;&lt;br&gt;조국혁신당 의원들도 서울구치소 앞에 모였다. 오전 8시 36분쯤 이해민 의원이 검은색 카니발을 타고 온 것을 시작으로, 김선민‧차규근‧백선희‧김재원‧정춘생‧서왕진‧신장식‧박은정‧강경숙 의원 등이 차례로 도착했다. 문재인 전 대통령의 딸 다혜씨의 2018년 태국 이주 과정에 관여한 의혹을 받는 청와대 민정비서관실 행정관 출신 신모씨도 현장을 찾았다. 그는 조국혁신당 당직자다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/INT6Z5IKXFARVHWTCBV5NOQHZU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;조국 전 조국혁신당 대표가 2024년 12월 16일 경기도 의왕시 서울구치소에 구속 수감 됐다. 조국 전 대표가 수감되기전 입장문을 읽고 있다./전기병 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;조 전 대표는 오전 9시 27분쯤 서울구치소 앞 주차장에 모습을 드러냈다. 남색 반코트에 청바지를 입고, 체크무늬 목도리를 멘 차림이었다. 손에는 낭독할 입장문을 인쇄한 A4용지를 들고 있었다. 그는 자신을 보려고 모인 지지자들에게 허리 숙여 인사하고, 앞줄에 서 있던 조국혁신당 의원들과는 포옹하며 악수를 나눴다. 더불어민주당 법제사법위원회 간사를 맡고 있는 김승원 의원과도 짧게 인사를 나눴다. 조 전 대표는 의원들과 귓속말을 나눴고, 백선희‧정춘생 의원은 눈물을 흘리기도 했다.&lt;br&gt;&lt;br&gt;인사를 마친 조 전 대표는 3분 41초가량 입장문을 낭독했다. 자신을 대한민국 시민이라고 밝힌 조 전 대표는 “법원 판결의 사실 판단과 법리 적용에 동의하지 못하지만, 대법원 선고를 겸허히 받아들이고 국법을 준수하는 국민으로서 의무를 다하기 위해 이곳에 왔다”며 “영어(囹圄) 생활 동안 저의 흠결과 한계를 깊이 성찰할 것”이라고 했다. 혐의를 인정하지는 못한다는 취지다.&lt;br&gt;&lt;br&gt;그러면서 조 전 대표는 “2019년 제가 법무부 장관 후보로 지명된 후 시작된 검찰 쿠테타는 윤석열 탄핵으로 끝났다”며 “개인적으로 참으로 긴 고통과 시련의 시간이었다. 혹독한 고초 속에 검찰 개혁과 윤석열 탄핵의 대의가 공감대를 넓혀 갔기에 스스로를 위로했다”고 했다. 이어 “조국혁신당의 4월 총선 공약 중 윤석열 정권 조기 종식은 국민과 함께 이루어 냈다. 이제 남은 것은 검찰 해체”라고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/S5G2I53AXVF27K3WJ3SXX3FJRY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;조국 전 조국혁신당 대표가 2024년 12월 16일 경기도 의왕시 서울구치소에 구속 수감 됐다. 조국 전 대표가 구치소로 들어가며 주먹을 들어보이고 있다./전기병 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;발언을 마친 조 전 대표는 오전 9시 38분쯤 서울구치소 정문을 통과했다. 이날부터 징역 2년형을 살게 된다. 조 전 대표가 인파를 뚫고 구치소 정문으로 다가가자, 지지자들은 “건강하세요”라며 조 전 대표의 이름을 연신 외쳤다. 조 전 대표는 수감되기 전 지지자들을 향해 주먹을 쥐어보였다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/3P5XBHQST5DORLONLKH5W36RAM.gif?width=480&amp;height=270&amp;auth=ee51b5d9a889a54c1e9e98864ce9ace0282a45f624fce7965be4b3a7e223c3e8&amp;smart=true" type="image/jpeg" height="270" width="480"/>
     </item>
     <item>
       <title>'레인보우 출신' 김재경, 지난여름 비밀 결혼…“배우자는 비연예인”</title>
@@ -674,24 +751,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MKBGQKBNJBC3XN6C7L543KE3ZU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;배우 김재경. /인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그룹 ‘레인보우’ 출신 배우 김재경(36)이 지난여름 비밀리에 비연예인 남성과 결혼한 사실이 뒤늦게 알려졌다.&lt;br&gt;&lt;br&gt;16일 소속사 나무엑터스는 입장문을 통해 “김재경 배우가 소중한 인연을 만나 깊은 신뢰와 애정을 바탕으로 지난여름 직계 가족이 참석한 자리에서 백년가약을 맺었다”고 밝혔다.&lt;br&gt;&lt;br&gt;남편에 대해서는 “김재경 배우의 배우자는 비연예인으로, 비연예인인 배우자를 존중해 식은 비공개로 진행했다”고 설명했다.&lt;br&gt;&lt;br&gt;이어 “앞으로도 김재경 배우는 배우로서 좋은 연기와 작품으로 여러분이 보내주신 사랑에 보답할 수 있도록 열심히 노력하겠다”며 “인생의 새로운 챕터를 시작한 김재경 배우에게 축하와 따뜻한 격려를 부탁드린다”고 했다.&lt;br&gt;&lt;br&gt;소속사 관계자는 조선닷컴과의 통화에서 “배우자가 비연예인이라 김재경 배우가 결혼 소식을 알리지 않은 것 같다. 입장문 외에 자세한 내용은 말씀드릴 수 없으니 양해 부탁드린다”고 했다.&lt;br&gt;&lt;br&gt;한편 김재경은 2009년 그룹 레인보우로 데뷔했다. 이후 연기자로 전향해 드라마 ‘몬스터’(2012) ‘배드파파’(2018) ‘악마판사’(2021) ‘어게인 마이 라이프’(2022) 등에 출연했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>오세훈 “탄핵안 찬성했든 반대했든, 편가르기 할 때 아니야”</title>
-      <link>https://www.chosun.com/national/regional/seoul/2024/12/16/DZCGJFJGIBEEJOBJEC7PQY4UJE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/seoul/2024/12/16/DZCGJFJGIBEEJOBJEC7PQY4UJE/</guid>
-      <dc:creator>박진성 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 16 Dec 2024 02:13:30 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7MSY4CUZOBLSFKDRUMR4ZQBUHQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;오세훈 서울시장이 13일 서울 중구 서울시청에서 열린 외국계 금융·외투기업 대상 비상경제회의에서 모두발언을 하고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;오세훈 서울시장이 “지금은 편가르기를 할 때가 아니다”고 말했다.&lt;br&gt;&lt;br&gt;오 시장은 16일 ‘하나 됩시다’는 제목의 글을 페이스북에 올리며 이같이 말했다.&lt;br&gt;&lt;br&gt;오 시장은 “지금은 편가르기를 할 때가 아니다. 탄핵안에 찬성했든 반대했든 국회의원은 헌법기관으로서 자신의 소신과 판단에 따라 표결에 의한 것”이라며 “이를 두고 부역자나 출당을 운운하며 비판하는 것은 이 어지러운 시국을 더욱 악화시킬 뿐”이라고 했다.&lt;br&gt;&lt;br&gt;또 오 시장은 “우리 앞에 놓인 과제는 분명하다”며 “여당답게 정부와 힘을 모아 국정을 정상화하고 국민의 삶을 지켜내는 것”이라고 했다.&lt;br&gt;&lt;br&gt;이어 오 시장은 “대외 신인도가 흔들리고 민생이 위기에 처한 이 때 여당의 분열은 곧 국가적 위기로 이어질 수 있다”며 “‘작은 차이’에 매몰되지 말고, ‘더 큰 공동의 목표’를 바라보자. 서로의 다름은 강물이 모여 바다를 이루듯 이 시대의 큰 물결을 만드는 동력이 돼야 한다”고 했다.&lt;br&gt;&lt;br&gt;오 시장은 “지난주 비상경제회의에서 들은 경제 현장의 목소리는 절박함 그 자체였다”며 “민생 안정과 경제 회복을 위해 당-정-지방정부가 하나의 팀이 돼 3인4각으로 위기를 돌파해야 한다”고 했다.&lt;br&gt;&lt;br&gt;마지막으로 오 시장은 “모든 판단과 선택의 기준은 오직 하나, 대한민국의 안정과 번영이어야 한다”며 “국민·경제·미래를 위해 서로 다른 의견속에서 조화를 이루는 화이부동의 정신으로 함께 나가자”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>경찰, ‘불법추심 30대 싱글맘 사망’ 관련 사채업자 구속</title>
-      <link>https://www.chosun.com/national/national_general/2024/12/16/3EMFOBGFV5A25OWG5OWOWC4TYE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/16/3EMFOBGFV5A25OWG5OWOWC4TYE/</guid>
-      <dc:creator>고유찬 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 16 Dec 2024 01:44:21 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FJACOCQWWU5QCEDLXLXU6WACM4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 마크. /조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 9월 22일 홀로 6세 딸을 키우던 30대 여성이 불법추심에 시달리다 숨진 사건과 관련, 사채업자인 30대 남성이 구속됐다.&lt;br&gt;&lt;br&gt;서울 종암경찰서는 지난 15일 대부업법과 채권추심법 위반 등 혐의로 30대 초반 남성 A씨를 구속했다고 16일 밝혔다.&lt;br&gt;&lt;br&gt;또한 불법 대부업과 채권추심 행위에 이용된 휴대전화와 은행 계좌 등을 빌려준 8명도 전자금융거래법과 전기통신사업법 위반 등 혐의로 불구속 입건했다.&lt;br&gt;&lt;br&gt;앞서 유치원생 딸을 홀로 키우던 30대 여성이 사채업자로부터 불법추심을 당하다 지난 9월 숨진 사실이 뒤늦게 알려진 바 있다. 사채업자들은 연이율 수천％에 달하는 금리로 이 여성이 돈을 빌렸다가 갚지 못하자, 모욕 문자 메시지를 가족이나 지인에게 보내는 등 협박한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;피해 여성은 숨지기 전 경찰 정보관에게 이 사실을 알렸지만, 경찰은 지난달 12일에야 사채업자들을 입건하며 ‘늑장 수사’ 논란이 일었다. 김봉식 서울경찰청장은 “서울 종암서에 배당해 수사하는 과정에서 수사가 지체됐다. 안타깝다”고 했다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “현재 피의자를 상대로 공범과 추가 여죄 등을 수사 중”이라며 “향후 피해자 등 상대로 불법 채권추심 행위를 한 추가 공범 등을 신속히 특정해 검거하고, 불법 사채업자들과 채권추심 행위 등에 대해 엄정하게 수사할 방침”이라고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[아무튼, 픽] 영화 ‘소방관’ 외</title>
       <link>https://www.chosun.com/national/weekend/2024/12/14/Y5JN7YUYZRETDFP5QCBQE6LO7A/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/weekend/2024/12/14/Y5JN7YUYZRETDFP5QCBQE6LO7A/</guid>
@@ -699,75 +758,6 @@
       <description/>
       <pubDate>Fri, 13 Dec 2024 15:30:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AZ2JNVAEZFGZZLKI67ND574QHM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;영화 '소방관'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;어느 날 다급하게 119 신고 전화로 긴급 상황이 접수되자 소방관들은 위기를 직감한다. 6명이 순직한 2001년 서울 홍제동 다세대주택 방화 사건을 바탕으로 만든 영화. “아들이 안에 있다”는 한마디에 그들은 불타는 건물로 뛰어든다. 열악한 환경 속에서도 화재 진압과 전원 구조라는 목표로 의기투합하는 뜨거운 이야기. 관객 1인당 119원이 내년 개원 예정인 국립소방병원에 기부된다. 주원·유재명·이유영 주연, 곽경택 연출.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4GPHOFRBUNCQBEIYVAFXJPCXRQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;뮤지컬 '마타하리'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;마타하리는 관능적인 춤으로 전쟁의 고통마저 잊게 한 당대의 무희였다. 뮤지컬은 유명해지기 전의 불편한 과거부터 스파이로 몰려 사형당한 뒤 머리가 사라진 사건까지, 그녀의 삶을 가로지른다. 화려하고 기능적인 무대와 의상, 파리의 여자들과 참호 속 남자의 대비 등 비주얼이 압도적이다. 와일드혼의 음악은 마타하리의 삶처럼 여러 겹이다. 옥주현·솔라가 마타하리를, 에녹·김성식·윤소호가 아르망을 나눠 맡는다. 내년 3월 2일까지 LG아트센터 서울.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OM7A6KFYZZCTTKZ5REB3KX2GP4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;국립발레단 '호두까기 인형'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;차이콥스키 음악과 함께 클라라와 호두 왕자의 2인무, ‘눈의 왈츠’ ‘꽃의 왈츠’ 등 수준 높은 군무, 캐릭터 댄스가 풍성하다. 국립발레단과 UBC의 ‘호두까기 인형’은 이야기와 음악이 같지만 안무·무대·의상은 사뭇 다르다. 국립발레단(14~25일 예술의전당)은 러시아 볼쇼이 버전으로 더 역동적이고 테크닉이 화려하다. UBC(19~30일 세종문화회관)는 러시아 마린스키 버전으로 1막은 아역이, 2막은 성인 발레리나가 주인공으로 춤춘다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[단독] 비상계엄 당시 ‘전국민 야간 통금’ 검토했다</title>
-      <link>https://www.chosun.com/national/court_law/2024/12/16/OLN5ORSYCZF7RIBC4OL6CI26CA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/16/OLN5ORSYCZF7RIBC4OL6CI26CA/</guid>
-      <dc:creator>유종헌 기자, 유희곤 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 16 Dec 2024 01:05:27 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7KV5ZOWFEY5ESSRFVLYN7KR7JM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김용현 전 국방부 장관./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘12·3 비상계엄’을 주도한 혐의를 받는 김용현 전 국방부 장관(구속)이 전 국민의 야간 통행을 금지하는 방안을 검토한 것으로 16일 전해졌다.&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 김 전 장관은 윤석열 대통령에게 보고했던 계엄사령부 제1호 포고령 초안에 구체적인 시간을 정하지 않은 채 “야간 통행을 금지한다”는 조항을 포함한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;김 전 장관은 박정희 전 대통령 사망 다음 날인 1979년 10월 27일에 발령된 ‘포고문’ 등을 참고했는데, 여기에 “야간 통행금지는 22:00부터 익일 04:00까지로 한다”는 조항이 있었다. 야간 통행금지(통금)는 1982년 1월 폐지됐다.&lt;br&gt;&lt;br&gt;다만 지난 3일 발령된 포고령에는 야간 통금 조항이 빠졌다. 김 전 장관은 검찰 특별수사본부(본부장 박세현 서울고검장) 조사에서 “윤 대통령이 야간 통금 항목은 삭제하라고 지시했다”고 진술한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;법조계에서는 김 전 장관이 비상계엄 선포 후 시민들의 기습적인 야간 집회 등을 막기 위해 이같은 조치를 검토한 게 아니냐는 해석이 나온다. 실제 이번 포고령에는 “국회와 지방의회, 정당의 활동과 정치적 결사, 집회, 시위 등 일체의 정치활동을 금한다”는 조항이 포함됐다.&lt;br&gt;&lt;br&gt;김 전 장관은 이날 검찰의 출석 요구에 응하지 않기로 했다. 김 전 장관 측은 검사가 범죄 혐의와 상관없는 질문을 하는 등 조사가 위법하게 이뤄지고 있다고 주장하고 있다.&lt;br&gt;&lt;br&gt;지난 15일에는 변호인이 취재진에게 “김 전 장관은 계엄선포에 관한 대통령의 판단에 뜻을 같이 했으며, 계엄법 제2조 제6항에 따라 국방부 장관인 자신이 (계엄 선포를) 건의했다고 일관되게 진술하고 있으며, 이와 같은 입장에는 한치의 변화도 없다”고 했다.&lt;br&gt;&lt;br&gt;김 전 장관은 비상계엄 선포 닷새 만인 지난 8일 검찰에 자진 출석한 후 긴급체포됐고, 형법상 내란 중요임무종사와 직권남용 혐의로 지난 10일 구속됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>헌재, ‘尹 탄핵심판’ 첫 재판관 회의…“신속하고 공정하게 하겠다”</title>
-      <link>https://www.chosun.com/national/court_law/2024/12/16/X3OX3KO35ZBXPOSGKEHVDEP7KM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/16/X3OX3KO35ZBXPOSGKEHVDEP7KM/</guid>
-      <dc:creator>박강현 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 16 Dec 2024 00:34:45 +0000</pubDate>
-      <content:encoded>헌법재판소가 16일 재판관 전원(현재 6명)이 참석하는 회의를 열고 윤석열 대통령의 탄핵심판 처리 일정 등을 논의한다. 김형두 재판관은 “신속하고 공정하게 하겠다”라고 말했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3CKIYMD2DBHWJKUORDLIMITK4E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 종로구 헌법재판소 전경. /전기병 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김 재판관은 이날 오전 서울 종로구 헌법재판소 출근길에서 “(노무현, 박근혜 전 대통령에 이어) 세 번째 대통령 탄핵심판인데 임하는 각오” “어떤 내용에 대해 회의하시나” “6인 체제로 탄핵 결정이 가능하다고 보시는지” 등의 취재진 질문에 각각 “신속하고 공정하게 하겠다” “준비절차를 어떻게 할 것인지, 변론을 어떻게 할 것인지에 대해서 이야기한다” “12월 안에 9인 체제가 완성될 때 (논의를) 준비하고 있다”고 대답했다. 문형배 헌법재판소장 권한대행·정형식·김복형·이미선·정정미 재판관은 별다른 입장을 밝히지 않았다.&lt;br&gt;&lt;br&gt;헌재는 이날 오전 10시부터 회의를 열고 탄핵 사건 처리 일정 등을 논의한다. 탄핵을 소추한 국회와 이에 맞서는 윤 대통령 등 양측 주장과 쟁점, 증거를 정리하기 위한 변론 준비 절차를 시작하고 주심(主審) 재판관도 지정할 예정이다. 무작위 전자배당을 통해 정해지는 주심은 원칙적으로는 비공개지만, 헌재는 대통령 탄핵심판의 중요성을 고려해 바로 공개할 것으로 보인다.&lt;br&gt;&lt;br&gt;재판관들은 주말 동안 사건을 파악하고 각자 의견을 정리하는 데 집중한 것으로 전해졌다. 김형두 재판관은 “(윤 대통령 탄핵) 결정문에 대해 각자 읽어보고 준비하고 왔다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SPNLVTDZINPDDNFSGDPDNSEETA.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;문형배 헌법재판소장 권한대행(맨 왼쪽 위부터 시계방향으로), 김형두 헌법재판관, 정형식 헌법재판관, 이미선 헌법재판관, 정정미 헌법재판관, 김복형 헌법재판관이 16일 서울 종로구 헌법재판소로 출근하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;탄핵심판은 헌재법에 따라 접수 후 ‘180일 이내’에 선고해야 하지만, 법조계에선 문 권한대행과 이미선 재판관이 내년 4월 임기가 만료돼 그 전에 결론을 내릴 가능성이 높은 것으로 보고 있다. ‘대통령 탄핵심판’ 전례를 살펴보면 탄핵소추안 의결부터 헌재 선고까지 노무현 전 대통령은 63일(기각), 박근혜 전 대통령은 91일(인용)이 걸렸다. 이르면 내년 2~3월에 윤 대통령에 대한 결론이 나올 수 있는 셈이다.&lt;br&gt;&lt;br&gt;다만 현재 헌재 구성상 재판관 9명 중 3명이 공석인 ‘6인 체제’라는 점은 변수다. 헌재는 재판관 9명으로 구성돼야 하지만, 지난 10월 이종석 헌재소장과 이영진·김기영 재판관이 퇴임한 후 국회 몫 후임이 임명되지 않았다. 통상 여야(與野)가 1명씩 추천하고 나머지 1명은 여야가 합의해 선출하는 게 관례였는데, 더불어민주당이 의석 수에 따라 자신들이 후임자 3명 중 2명을 추천해야 한다고 주장해 선출이 지연됐기 때문이다. 이론적으론 재판관 6인이 모두 동의한다면 탄핵 결정이 가능하다. 그러나 법적 정당성에 대한 부담 등으로 9인 체제가 완성된 뒤 결론을 낼 것이란 관측이 우세하다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/J3CNCJLTYJJNLOUSXP342IMTFM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;헌법재판소는 지난 14일 윤석열 대통령에 대한 국회의 탄핵소추의결서를 접수하고 탄핵심판 절차를 시작했다. 15일 서울 종로구 헌법재판소 앞에 탄핵 찬반 화환이 놓여있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;헌재법은 재판관이 최소 7명 있어야 사건을 심리할 수 있다고 규정하지만, 헌재는 이진숙 방송통신위원장의 가처분 신청을 받아들여 이 조항의 효력을 스스로 정지시키며 ‘기능 마비’는 피한 상태다. 민주당은 대통령 탄핵심판의 빠른 진행을 위해 급히 헌재 재판관 추천에 나섰고, 최근 마은혁(61·사법연수원 29기) 서울서부지법 부장판사와 정계선(55·27기) 서울서부지방법원장을 추천했다. 국민의힘은 조한창(59·18기) 변호사를 추천했다.&lt;br&gt;&lt;br&gt;윤 대통령은 지난 3일 야당의 일방적 예산 폭주, 감사원장·검사 탄핵 폭주 등을 거론하며 비상계엄을 선포했고 국회는 “윤 대통령은 위헌·위법한 12·3 비상계엄을 선포하고, 국헌 문란의 내란 범죄를 저질렀다. 대통령직에서 파면해야 할 사유”라며 지난 14일 윤 대통령에 대한 탄핵소추안을 통과시켰다. 이에 따라 헌재가 탄핵심판 심리에 즉각 착수했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[단독] “학생들 질문에 답하는 AI 도입… 맞춤형 대학 교육 서비스할 것”</title>
-      <link>https://www.chosun.com/national/education/2024/12/16/TGYDW2S7TBGU7KNMUPKGWKM5S4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2024/12/16/TGYDW2S7TBGU7KNMUPKGWKM5S4/</guid>
-      <dc:creator>표태준 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 15 Dec 2024 20:02:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/P75NPWE5U5BJLFXJQ4UQMAMT6M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한국방송통신대 고성환 총장. /방송대 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한국방송통신대(방송대)는 인공지능(AI)을 활용해 학생들의 학업을 보조하는 ‘디지털유니버시티(AIDU)’ 사업을 추진한다. AI를 기반으로 한 고등교육 모델을 개발하고 다른 대학에 공유해 이를 확산하겠다는 것이다. 방송대는 학생 수가 10만명에 달하는 국내 최대 원격 대학이다.&lt;br&gt;&lt;br&gt;고성환 방송대 총장은 최근 본지 인터뷰에서 “대학 수업에 AI를 활용해 ‘맞춤형 교육’을 할 수 있는 AIDU 사업을 준비하고 있다”면서 “내년에 플랫폼 개발을 시작할 계획”이라고 밝혔다. AIDU는 대부분 강의를 온라인으로 하는 방송대의 기존 교육에 AI를 접목해 맞춤 학습, 경로 설계, 관리 서비스 등을 제공하는 플랫폼이다. AI가 학생에게 필요한 각종 논문과 뉴스 등 최신 자료를 찾아주고, 질문에 답해주고, 학생이 부족한 영역이 무엇인지 분석해주는 등 ‘학습 도우미’ 역할을 한다. 플랫폼을 개발해 안착하면 다른 대학에도 공유할 계획이다.&lt;br&gt;&lt;br&gt;고 총장은 AI 기술이 방송대처럼 온라인으로 ‘대량 교육’을 하는 대학들에게 획기적인 변화를 가져올 것으로 보고 있다. 1972년 전 세계 두 번째로 설립된 원격 대학인 방송대는 고교 졸업장만 있으면 누구나 지원할 수 있다. 현재 재학생 수가 9만4544명에 달한다. 고 총장은 “교수가 많은 학생들을 개별 지도하기 어렵다 보니 학업을 중도 포기하는 학생들이 많다”면서 “AI가 각 학생 수준에 맞는 맞춤형 교육을 제공한다면 이런 문제를 해결할 수 있을 것”이라고 했다.&lt;br&gt;&lt;br&gt;방송대는 최근 첨단 학과에 대한 학생들의 수요가 크게 늘고 있다. 컴퓨터과학과 재학생 수가 2022년 8631명에서 올해 9915명으로 2년 만에 1284명이 늘었다. 고 총장은 “첨단 학과에 젊은 층 입학이 늘면서 학생 가운데 20~30대 비율도 43%까지 올랐다”며 “원격 대학인 방송대가 첨단 분야 전공 지식을 가장 효율적으로 습득할 수 있는 곳이기 때문으로 분석된다”고 했다. 방송대는 2021년 ‘프라임칼리지’ 첨단공학부에 AI 전공도 신설했다. 방송대는 원격 대학이지만 일부 강의나 시험을 오프라인으로 하는 경우가 많은데, 프라임칼리지는 100% 온라인으로 진행해 직장인들의 수요가 높다.&lt;br&gt;&lt;br&gt;고 총장은 “첨단 학과가 각광받으면서 동시에 인문·사회학 등 기초 학문은 붕괴하는 등 고등교육 시장이 급변하고 있다”며 “방송대는 ‘교육 복지’ 실현을 위해 설립된 국립대인 만큼 기초 학문을 지키는 보루 역할도 이어갈 것”이라고 했다. 최근 대구대가 설립 45년 된 사회학과 폐과를 결정하는 등 대학들이 시장 수요가 낮은 학과 문을 닫는 속도가 빨라지고 있다. 고 총장은 “취업 시장이 선호하지 않는다는 상업적 논리로 여러 학과가 사라지고 있지만, 기초 학문에 대한 수요는 미래에도 절대 사라지지 않을 것”이라며 “탄탄한 기초 학문이야말로 선진국의 필수 요건이고 그 수요를 방송대가 충당하겠다”고 했다.&lt;br&gt;&lt;br&gt;방송대는 2017년부터 유네스코 유니트윈 사업을 통해 몽골·베트남·말레이시아·네팔·캄보디아 등에 원격 교육 기술을 전수하고 있다. 올해는 한국국제협력단(KOICA)으로부터 48억원을 지원받아 우간다 마케레레대의 원격 교육 환경 조성 사업을 시작했다. 고 총장은 “박정희 전 대통령에 대한 평가가 다양하지만, 방송대를 설립해 한국의 고등교육을 확산하고 교육 격차를 해소한 것은 ‘교육 복지’ 차원에서 대단한 업적”이라며 “수십 년간 쌓아온 교육 노하우를 저개발국 등에 전수하며 방송대가 민간 외교 역할도 수행하겠다”고 했다.&lt;br&gt;&lt;br&gt;서울대 국어국문학과를 졸업한 고 총장은 한국방송통신대 국어국문학과 교수, 교양교육원장, 인문과학대학장 등을 거쳐 2022년 3월부터 총장을 맡았다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>검찰 “尹 15일 출석 요구 불응, 2차 소환통보 예정”</title>
-      <link>https://www.chosun.com/national/court_law/2024/12/16/7S3ZHAVOY5BQPPGUCP6YGZBOGI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/16/7S3ZHAVOY5BQPPGUCP6YGZBOGI/</guid>
-      <dc:creator>유희곤 기자, 주형식 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 15 Dec 2024 15:55:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZM6EM4ULZFOYLBOSWNH52BMQQQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령이 14일 본인의 탄핵소추안이 국회에서 가결된 뒤 한남동 관저에서 대국민담화를 하고 있다. /대통령실&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘12·3 비상계엄’ 사태를 수사 중인 검찰 특별수사본부(본부장 박세현 서울고검장)는 윤 대통령에게 15일 오전 10시에 피의자 조사를 받으라고 통보했으나 윤 대통령이 응하지 않았다고 밝혔다. 검찰이 현직 대통령에게 피의자 소환 통보를 한 건 이번이 처음이다.&lt;br&gt;&lt;br&gt;검찰 특수본은 지난 11일 대통령실에 공문을 보내고 우편으로 출석 요구서도 전달했으나, 윤 대통령은 이날 서울중앙지검에 출석하지 않았다. 검찰은 출석 요구서 등에 내란 우두머리(수괴)와 직권남용 등 윤 대통령의 범죄 혐의를 자세히 적은 것으로 전해졌다. 형법상 내란죄는 범죄 가담 정도에 따라 우두머리, 중요 임무 종사자, 단순 관여자(부화수행)로 나뉜다.&lt;br&gt;&lt;br&gt;검찰 관계자는 “비상계엄 당시 계엄군의 국회와 중앙선관위 진입, 국회의원 체포조 활동 등 조사가 상당 부분 이뤄졌고, 계엄군 주요 지휘관에 대한 신병 확보도 진행 중”이라고 했다. 윤 대통령을 직접 조사할 시기가 됐다고 판단한 것으로 보인다.&lt;br&gt;&lt;br&gt;특수본은 16일쯤 윤 대통령에게 2차 소환 통보를 할 예정이다.&lt;br&gt;&lt;br&gt;특수본은 지난 3일 계엄사령관으로 임명돼 위헌적 내용이 담긴 포고령 제1호를 발표한 박안수 육군참모총장에 대해 이날 구속영장을 청구했다. 또 곽종근 전 특수전사령관과 이진우 전 수도방위사령관도 함께 구속영장을 청구했다. 곽 전 사령관은 당초 계엄 사실을 몰랐다고 하다가 김용현 전 국방 장관에게 사전 지시를 받았다고 말을 바꿔, 더불어민주당에서 공익 제보자로 보호하려고 했던 인물이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UYKDTJGF7ZDCRP2CO7FHV3XVLM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;(왼쪽부터)박안수 前계엄사령관, 곽종근 前특수전사령관, 이진우 前수도방위사령관&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;앞서 김 전 장관과 여인형 전 방첩사령관을 구속하는 등 검찰은 계엄에 관여한 군 주요 지휘관을 속속 구속하고 있다.&lt;br&gt;&lt;br&gt;경찰 특별수사단도 수사 속도를 내고 있다. 특수단은 이날 문상호·노상원 전 정보사령관을 긴급체포했다. 경찰은 계엄 당시 국방부와 육군본부, 수도방위사령부, 특수전사령부, 방첩사령부, 정보사령부 소속 군인 1500여 명이 동원된 것을 확인했고, 현역 군인 43명을 조사했다고 밝혔다.&lt;br&gt;&lt;br&gt;한편 경찰 특별수사단은 윤 대통령이 조지호 경찰청장(구속)에게 ‘비화폰’을 사전에 건넨 정황을 포착한 것으로 전해졌다. 비화폰은 도·감청 및 통화 녹음 방지 프로그램이 깔린 보안 휴대전화다. 조 청장은 특수단 조사에서 “윤 대통령이 비화폰으로 6차례에 걸쳐 국회의원 체포를 지시했다”고 진술했는데, 국정원은 국장급 이상 경찰 간부들에게 제공됐던 비화폰은 작년 전량 폐기했다고 한다. 경찰은 비화폰 통화 내역이 기록된 서버가 서울 용산 대통령실 내 대통령경호처에 있을 것으로 보고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>헌재, 오늘 尹측에 답변서 제출 요청</title>
-      <link>https://www.chosun.com/national/court_law/2024/12/16/457PJIJEL5C2PDTKJXOAIPXK24/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/16/457PJIJEL5C2PDTKJXOAIPXK24/</guid>
-      <dc:creator>방극렬 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 15 Dec 2024 15:55:00 +0000</pubDate>
-      <content:encoded>지난 14일 국회가 윤석열 대통령 탄핵소추안을 의결함에 따라 헌법재판소가 탄핵심판 심리에 즉각 착수했다. 윤 대통령 탄핵심판의 사건 번호는 ‘2024헌나8′, 사건명은 ‘대통령(윤석열) 탄핵’이다.&lt;br&gt;&lt;br&gt;탄핵심판은 헌재법에 따라 접수 후 ‘180일 이내’ 선고해야 하지만, 문형배 헌재소장 권한대행과 이미선 재판관이 내년 4월 임기가 만료돼 그 전에 결론을 내릴 가능성이 높다. 문 권한대행은 탄핵소추 의결서 접수 직후 “신속하고 공정하게 재판하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SV7SO6MORBCEPIAHXEFSPJH73A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;'대통령 응원' '탄핵 촉구' 헌재 앞 두 개의 화환 - 15일 서울 종로구 헌법재판소 앞에 윤석열 대통령을 응원하는 화환(왼쪽)과 윤 대통령 탄핵을 촉구하는 화환이 나란히 놓여 있는 모습. 전날 국회에서 윤 대통령에 대한 탄핵소추안이 가결되자 헌법재판소는 바로 탄핵심판 심리에 착수했다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;헌재는 16일 재판관 전원이 참석하는 회의를 열고 탄핵 사건 처리 일정 등을 논의한다. 양측 주장과 쟁점, 증거를 정리하기 위한 변론 준비 절차를 시작하고, 주심(主審) 재판관도 지정할 예정이다. 헌재는 탄핵 사건 증거 조사와 법리 검토를 전담하는 별도 TF(태스크포스)를 꾸릴 예정이어서 다른 사건들에 대한 심리는 잠정 중단될 가능성도 있다. 헌재는 16일 윤 대통령 측에 답변서를 제출하라는 공문을 발송하고, 답변서가 들어오는 대로 구두(口頭) 변론 기일을 잡을 계획이다.&lt;br&gt;&lt;br&gt;탄핵심판에서는 탄핵을 소추한 국회와 이에 맞서는 윤 대통령이 치열한 공방을 벌일 것으로 예상된다. 앞서 국회는 탄핵소추안을 통해 “윤 대통령은 위헌·위법한 12·3 비상계엄을 선포하고, 국헌 문란의 내란 범죄를 저질렀다. 대통령직에서 파면해야 할 사유”라고 주장했다. 윤 대통령은 지난 12일 대국민 담화에서 “비상계엄의 목적은 야당의 반국가적 패악을 알려 이를 멈추도록 경고하는 것이었다”며 “대통령의 헌법적 결단이자 (정당한) 통치행위”라고 반박했다.&lt;br&gt;&lt;br&gt;헌재는 과거 노무현·박근혜 전 대통령 탄핵 사건에서 현직 대통령을 파면하려면 ‘중대한 헌법과 법률 위반’이 있어야 한다는 기준을 제시했다. 헌재는 비상계엄과 후속 조치가 ▲국민의 신임을 배반했는지 ▲헌법 수호 관점에서 용납할 수 없는지 ▲대통령을 파면해서 얻는 이익이 국가적 손실보다 큰지 등을 구체적으로 따질 전망이다.&lt;br&gt;&lt;br&gt;법조계에선 ‘계엄군을 국회에 투입한 이유’가 탄핵심판의 핵심 쟁점이 될 것으로 보고 있다. 군경 주요 지휘부는 윤 대통령이 “국회의원들을 끄집어내라는 지시를 내렸다” “여야 대표 등 정치인을 체포하라고 지시했다”고 진술하고 있다. 이게 사실로 드러나면 파면 가능성이 높다는 것이 헌법학자들의 공통된 의견이다. 다만 윤 대통령은 “질서 유지에 필요한 소수 병력만 투입했다. 국회를 해산·마비시키려고 한 것이 아니다”라는 입장이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[오늘의 날씨] 2024년 12월 16일</title>
-      <link>https://www.chosun.com/national/national_general/2024/12/16/62HP2W7PBFCBTEAF62JU2FVWZI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/16/62HP2W7PBFCBTEAF62JU2FVWZI/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Sun, 15 Dec 2024 15:30:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WVPOQODXXVDPFIMI5CS7V63FOQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>내일 늦은 오후부터 모레까지 눈발... 바람 불어 더 춥다</title>
-      <link>https://www.chosun.com/national/transport-environment/2024/12/15/YT7U6ZLK5NEUXOGYQD34S7T45I/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2024/12/15/YT7U6ZLK5NEUXOGYQD34S7T45I/</guid>
-      <dc:creator>김아사 기자</dc:creator>
-      <description>16일 월요일엔 전국이 오후부터 흐려지면서 수도권과 충청, 전라, 제주 지역 등에 눈이나 비가 내릴 것으로 보인다. 북쪽에서 찬 공기가 유입되며 서울의 아침 기온이 영하 4도까지 떨어지는 등 주말과 비슷하게 춥겠다.</description>
-      <pubDate>Sun, 15 Dec 2024 10:56:38 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LFRF4GCAVNMO5ADCLV65H4GIIU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전주시의 기온이 영하권에 접어들기 시작한 지난 13일 전북 전주시 덕진구 송천동 세병로에 눈이 내리고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;16일 월요일에는 전국이 오후부터 흐려지면서 수도권과 충청, 전라, 제주 등에 눈이나 비가 내리겠다. 북쪽에서 찬 공기가 유입되며 서울의 아침 기온이 영하 4도까지 떨어지는 등 주말과 비슷하게 춥겠다.&lt;br&gt;&lt;br&gt;15일 기상청에 따르면, 16일 늦은 오후부터 비나 눈이 시작돼 17일까지 이어질 전망이다. 이틀간 예상 적설량은 수도권, 충청, 전라, 제주 지역 등에 1~5㎝ 안팎, 비는 5㎜가량 오겠다.&lt;br&gt;&lt;br&gt;아침 최저기온은 영하 10도에서 영상 3도, 낮 최고기온은 2~10도를 나타낼 전망이다. 서울 영하 4도에서 영상 4도, 대전 영하 3도에서 영상 5도, 대구 영하 2도에서 영상 6도, 광주 1~7도, 부산 1~8도 등으로 예측됐다. 바람도 다소 강하게 불어 체감 온도는 더욱 떨어질 것으로 전망된다. 대기 확산이 원활해 미세 먼지 농도는 전국이 ‘좋음~보통’ 수준을 보이겠다.&lt;br&gt;&lt;br&gt;충남과 호남 등 서쪽 지역엔 눈이나 비가 이번 주 중반까지 이어질 것으로 보인다. 전국적으로 아침 기온이 영하권을 기록하며 추운 날씨가 지속될 전망이라고 기상청은 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/2LZNQ2SCWNLUXAIQPFCVCOCLLM.JPG?width=5177&amp;height=3452&amp;auth=d5376f17b1988dfe7aa758c6acbb64cfca60dd8fdfa6f6b3986e2f51031fad2d&amp;smart=true" type="image/jpeg" height="3452" width="5177">
-        <media:description type="plain">(서울=뉴스1) 신웅수 기자 = 15일 오후 서울 경복궁에서 외국인 관광객들이 웅크랜 채 산책을 하고 있다.
-
-기상청은 내일부터는 서울의 아침 최저 기온이 영하 4도까지 떨어질 것으로 예보했다. 2024.12.15/뉴스1</media:description>
-        <media:credit role="author" scheme="urn:ebu">(서울=뉴스1) 신웅수 기자</media:credit>
-      </media:content>
     </item>
     <item>
       <title>검찰, ‘前 계엄사령관’ 박안수 육군참모총장 구속영장 청구</title>
