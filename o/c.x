@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>안세영 “질타 많이 받았지만 후회 안해”…작심발언 후 밝힌 심경 </title>
+      <link>https://www.chosun.com/national/people/2024/12/18/3OAWVMBVTNFJDID5OFBA7TFVCU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/12/18/3OAWVMBVTNFJDID5OFBA7TFVCU/</guid>
+      <dc:creator>김자아 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 17 Dec 2024 22:37:24 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XBDZ6T5TNFDFFOXUXHJJL6XD6M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;세계배드민턴연맹이 공개한 안세영 인터뷰./유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한국 배드민턴 간판 안세영(22·삼성생명)이 2024 파리올림픽에서 금메달을 획득한 직후 대표팀의 부상 관리와 운영 방식 등에 대해 작심발언을 했던 것과 관련 “후회하지 않는다”고 밝혔다.&lt;br&gt;&lt;br&gt;세계배드민턴연맹(BWF)은 지난 17일 공식 유튜브 채널을 통해 HSBC BWF 월드 투어 파이널스 2024를 마치고 한해를 결산하는 영상을 공개했다.&lt;br&gt;&lt;br&gt;영상 마지막은 안세영의 인터뷰로 꾸며졌다. 이 인터뷰에서 안세영은 파리올림픽에서 우승을 확정한 뒤 대한배드민턴협회의 대표팀 운영을 두고 내뱉은 쓴소리와 이후 벌어진 상황에 대한 속마음을 처음으로 털어놨다.&lt;br&gt;&lt;br&gt;안세영은 “문제점을 말한 사람이 된 것 같아서 힘든 시간을 보냈다”며 “문제점이라고 하기 보다는 부족했던 부분을 개선하면 좋은 방향으로 가지 않을까 하는 생각이었다”고 했다.&lt;br&gt;&lt;br&gt;이어 “(결승에서) 이기든 지든 말했을 것”이라면서도 “내가 그렇게 말하면서 파장이 이렇게 커질 것이라고는 솔직히 생각하지 못했다”고 했다. 그러면서 “답변을 한 데 대해서는 크게 후회하지도 않는다”며  “많은 분들의 도움을 받고 다시 일어설 수 있었다”고 했다.&lt;br&gt;&lt;br&gt;올림픽 우승의 기쁨을 온전히 누리지 못한 데 대한 아쉬움도 있었다고 한다.&lt;br&gt;&lt;br&gt;안세영은 “올림픽에서 (금)메달을 따고 나서 많은 축하를 받기보다는 질타도 많이 받았다”며 “좀 아쉽지만 내가 그런 상황을 만들었으니 나름대로 난 괜찮았다”고 했다.&lt;br&gt;&lt;br&gt;끝으로 그는 “지금은 재밌게, 한 경기 한 경기 정말 좋은 플레이를 하면서 그냥 즐기고 싶다는 생각밖에 없는 것 같다”며 “배드민턴계 레전드가 되고 싶다”고 덧붙였다.&lt;br&gt;&lt;br&gt;안세영은 HSBC BWF 월드 투어 파이널스 2024에서 동메달을 따고 지난 16일 인천공항을 통해 귀국했다. 대회에 앞서 안세영은 BWF 올해의 여자 선수상, 여자 선수들이 뽑은 올해의 여자 선수 등 2관왕에 올랐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>“폭동 없어 내란죄 성립 안돼” vs “국회 軍 투입만으로도 인정”</title>
       <link>https://www.chosun.com/national/court_law/2024/12/18/GBYK7BA2QJC33PB3JRZT7DQBFQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/18/GBYK7BA2QJC33PB3JRZT7DQBFQ/</guid>
@@ -948,15 +957,6 @@
       <description/>
       <pubDate>Mon, 16 Dec 2024 11:08:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AKLSZWGNV5GQDAQYV3ONHLWWPI.jpg"&gt;&lt;br&gt;&lt;br&gt;국민의힘 소속 의원들의 휴대전화 번호를 공개한 전국민주노동조합총연맹(민주노총)이 경찰에 고발됐다.&lt;br&gt;&lt;br&gt;서울경찰청 광역수사단 반부패수사대는 국민의힘이 제출한 민주노총에 대한 고발장을 접수하고, 16일 고발인 조사를 진행했다. 민주노총은 국민의힘 의원들의 휴대전화 번호를 시민들에게 공개한 혐의(스토킹처벌법, 개인정보보호법 위반)를 받는다.&lt;br&gt;&lt;br&gt;민주노총은 윤석열 대통령에 대한 탄핵소추안 의결을 하루 앞둔 지난 6일 국민의힘 의원들의 이름과 지역구, 휴대전화 번호를 민주노총 홈페이지에 게재했다. 의원들에게 탄핵 찬성 표결을 압박하기 위한 목적이었다. 또 하루 전인 5일에는 국민의힘 의원들을 대상으로 탄핵을 촉구하는 문자를 발송하는 링크를 개설하기도 했다. 방송통신심의위원회가 해당 링크를 즉시 삭제하도록 시정을 요구했지만, 민노총 측은 방심위의 결정이 월권이라며 “국회의원은 공인이니 중차대한 표결을 앞둔 국민의 당연한 의사 표현”이라고 이행을 거부했다.&lt;br&gt;&lt;br&gt;국민의힘 관계자는 “번호 공개로 인해 국민의힘 소속 의원들은 휴대전화를 사용할 수 없을 정도로 수많은 전화·문자를 받아 업무와 사생활 전반에 큰 지장을 받는 상황”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘가로수길 위기라더니…’ 강호동도 빌딩 166억원에 매각</title>
-      <link>https://www.chosun.com/national/national_general/2024/12/16/FSV2JBAIDZATHI5PZACM3XPFGU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/16/FSV2JBAIDZATHI5PZACM3XPFGU/</guid>
-      <dc:creator>김명일 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 16 Dec 2024 06:20:50 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/C4OE6RAX45MAVIHBPIMBJ5A5MU.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;방송인 강호동. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;방송인 강호동(54)이 최근 서울 강남구 신사동 가로수길에 있는 자신의 빌딩을 매각했다.&lt;br&gt;&lt;br&gt;16일 빌딩메이트 부동산중개에 따르면 강호동은 지난 11월 서울 강남구 신사동 가로수길에 있는 지하 1층, 지상 5층 규모의 건물을 166억원에 매각했다.&lt;br&gt;&lt;br&gt;강호동의 건물은 1992년 준공됐으며 대지 253.95㎡(58.11평), 건물 593.17㎡(179.43평) 규모다. 강호동은 이 건물을 2018년 6월에 141억원을 주고 매입했다. 강호동은 6년 만에 빌딩을 매각하면서 약 25억원의 차익을 얻은 셈이다.&lt;br&gt;&lt;br&gt;하지만 송나래 빌딩메이트 부동산중개 대표는 조선닷컴과의 통화에서 “양도세 납부 등을 하고 나면 큰 차익은 보지 못했을 것으로 추정된다”며 “최근 가로수길 메인 거리에서도 공실이 생기는 등 거래가 침체돼 호가보다 많이 낮은 금액으로 매각한 것으로 보인다”고 분석했다.&lt;br&gt;&lt;br&gt;강호동의 건물은 유명 브랜드 상점들이 밀집해 있는 가로수길 대로변에 위치해 있다. 그럼에도 큰 차익을 보지 못하고 건물을 매각한 것은 최근 가로수길 상권이 침체에 빠졌기 때문이란 분석이 나온다.&lt;br&gt;&lt;br&gt;글로벌 부동산컨설팅회사인 쿠시먼앤드웨이크필드가 집계한 올해 1분기 통계에 따르면 서울 6대 상권의 하나인 가로수길은 공실률이 41%에 달했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
