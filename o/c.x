@@ -13,6 +13,117 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>제주 민속오일장 인근 도로서 승용차가 가로등 ‘쾅’…운전자 숨져</title>
+      <link>https://www.chosun.com/national/incident/2024/12/17/YHAAOP3SNBBODB3DX4XZSJEET4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/12/17/YHAAOP3SNBBODB3DX4XZSJEET4/</guid>
+      <dc:creator>이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 17 Dec 2024 14:02:56 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MZ47WXG7QQ2X2YJ6VA2VMH66FE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;119 구급차/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제주 민속오일장 인근 도로에서 승용차가 가로등을 들이받아 운전자가 숨졌다.&lt;br&gt;&lt;br&gt;17일 제주소방안전본부 등에 따르면 이날 오후 8시 54분쯤 제주시 노형동 민속오일장 버스정류장 인근 도로에서 승용차가 중앙선을 넘어 가로등을 들이받는 사고가 발생했다.&lt;br&gt;&lt;br&gt;“차량이 도로시설물을 들이받았다”는 신고를 받고 출동한 소방 당국은 심정지 상태의 50대 남성 운전자 A씨를 구조해 병원으로 이송했으나, A씨는 결국 숨졌다.&lt;br&gt;&lt;br&gt;소방과 함께 신고를 접수한 경찰은 정확한 사고 경위를 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>38층서 추락한 근로자, 기적적으로 생존...그 이유는 </title>
+      <link>https://www.chosun.com/national/national_general/2024/12/17/DBLJNY4MSNCUNMG6HEGPZ4QMQY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/17/DBLJNY4MSNCUNMG6HEGPZ4QMQY/</guid>
+      <dc:creator>정아임 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 17 Dec 2024 14:01:57 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZXKIZHGRKNNEXB4LRMPIYD5LAI.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;아파트 신축 건설 현장에서 작업자들이 작업을 하고 있다. 기사와 관련 없음/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 파주시에 있는 한 아파트 공사 현장 38층에서 떨어진 근로자가 안전망에 걸려 기적적으로 목숨을 건졌다.&lt;br&gt;&lt;br&gt;17일 소방 당국과 연합뉴스에 따르면 지난 16일 오후 3시 20분쯤 경기 파주시 와동동에 있는 아파트 공사 현장에서 “사람이 추락해 안전망으로 떨어졌다”는 내용의 신고가 접수됐다.&lt;br&gt;&lt;br&gt;출동한 소방 당국은 22층 안전망에 걸려 있던 30대 남성 근로자 A씨를 구조해 병원으로 옮겼다.&lt;br&gt;&lt;br&gt;당시 A씨는 안전모만 착용한 상태로 38층에서 작업 중 추락했지만, 22층에 설치된 안전망에 걸린 것으로 나타났다.&lt;br&gt;&lt;br&gt;병원으로 옮겨진 A씨는 다리에 골절상 등을 입었을 뿐 심각한 외상은 없는 것으로 전해졌다.&lt;br&gt;&lt;br&gt;관계 당국은 사고 원인을 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>충청연합 내일 출범...대전·세종·충남·충북 공통 현안 해결</title>
+      <link>https://www.chosun.com/national/national_general/2024/12/17/Q6UNRQ27QVBFRLVYPIYZ6GBS2I/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/17/Q6UNRQ27QVBFRLVYPIYZ6GBS2I/</guid>
+      <dc:creator>김영우 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 17 Dec 2024 11:29:47 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PT7F4EQSEAA6AO6OJKBRMSGK34.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;정부세종청사 중앙동 전경./행정안전부 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대전, 세종, 충남, 충북 등 충청권 시·도 4곳으로 구성된 ‘충청광역연합’이 18일 출범한다. 대구·경북, 부산·경남이 시와 도를 하나로 합치는 행정 통합을 추진하는 가운데 충청권은 기존 시·도를 그대로 두고 공통 현안을 해결할 ‘연합 기구’를 구성하기로 한 것이다.&lt;br&gt;&lt;br&gt;17일 행정안전부에 따르면, 이들이 구성하는 충청광역연합은 지방자치법에 규정된 ‘특별지방자치단체’다. 정부는 2022년 이 제도를 도입했다. 여러 지자체가 관련된 현안의 경우 지자체 간 경쟁으로 조율이 어려운데 일종의 ‘지자체 연합’을 만들어 결정하자는 취지다. 충청광역연합이 그 첫 사례가 된다.&lt;br&gt;&lt;br&gt;시·도 4곳은 연합에 공무원을 파견해 사무처 조직을 만든다. 시·도의회 4곳도 의원을 4명씩 차출해 충청광역연합 의회를 구성한다. 행정기관과 지방의회 조직을 모두 갖추는 것이다. 의원들은 시·도의회 의원과 연합 의원을 겸직한다.&lt;br&gt;&lt;br&gt;일상적인 행정 업무는 각 시·도가 처리하되 충청권을 관통하는 철도·도로 건설, 광역 버스 노선 구축, 기업 유치 등 공통 업무는 충청광역연합이 결정한다. 연합 청사는 세종시에 마련했다.&lt;br&gt;&lt;br&gt;이날 연합 의회는 임시회를 열고 김영환 충북지사를 초대 연합장으로 선출했다. 임기는 1년이다. 내년도 예산안과 조례안도 논의했다. 충청권 광역 철도 건설, 충북 보은~충남 보령 고속도로 건설 등 사업도 검토할 것으로 보인다. 김 연합장은 “지자체 간 연합으로 소모적인 경쟁이 줄어들 것”이라고 했다.&lt;br&gt;&lt;br&gt;한편, 대전과 충남은 충청광역연합과 별개로 행정 통합도 추진하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>與 “韓대행, 헌법재판관 임명 못한다”...헌재 “권한 행사 가능”</title>
+      <link>https://www.chosun.com/national/court_law/2024/12/17/SCI6G47KGZARDIJM3GOVSQOJ2I/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/17/SCI6G47KGZARDIJM3GOVSQOJ2I/</guid>
+      <dc:creator>박강현 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 17 Dec 2024 10:30:55 +0000</pubDate>
+      <content:encoded>김정원 헌법재판소 사무처장은 한덕수 대통령 권한대행(국무총리)이 헌법재판관에 대한 임명권을 행사할 수 있는 것으로 보고 있다고 17일 밝혔다. ‘6인 체제’에서 심리를 진행하는 것에 관해선 “어떠한 법적 문제도 없다”고 말했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NXY43OBJPVPT5AOHC2AUEKLXQI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김정원 헌법재판소 사무처장이 17일 국회에서 열린 법제사법위원회  현안질의에서 발언하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김 처장은 이날 오후 국회 법제사법위원회 전체 회의에 출석해 박균택 더불어민주당 의원(광주 광산구갑)의 관련 질의에 “헌법재판관이 공석이 됐을 경우 대통령 권한대행이 재판관에 대한 임명권은 행사할 수 있다고 저희(헌재)는 생각하고 있다”고 대답했다.&lt;br&gt;&lt;br&gt;박 의원이 “저도 그 말에 동의한다. 특히 대통령이 직접 선정해 임명하는 경우도 아니고, 국회가 의결해 선출하는 경우나 대법원에서 지명한 헌법재판관의 경우 형식적으로만 임명권을 행사하는 경우이기 때문에 더욱이 임명권이 있는 것 아니겠느냐”고 묻자 김 처장은 “그렇게 생각하고 있다”고 했다.&lt;br&gt;&lt;br&gt;헌법재판관은 대통령 임명 3명, 대법원장 지명 3명, 국회 선출 3명 등 9명으로 구성된다. ‘삼권분립’의 정신을 구현하기 위해서다. 하지만 현재 헌재는 6명의 재판관으로만 이뤄져 있다. 지난 10월 이종석 헌재소장과 이영진·김기영 재판관이 퇴임한 후 국회 몫 후임이 임명되지 않았기 때문이다.&lt;br&gt;&lt;br&gt;통상 여야(與野)가 1명씩 추천하고 나머지 1명은 여야가 합의해 선출하는 게 관례였는데, 민주당이 의석 수에 따라 자신들이 후임자 3명 중 2명을 추천해야 한다고 주장해 선출이 지연됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RGFWBANWPRMWVJ6YZZB67C75RU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;문형배 헌법재판소장 권한대행을 포함한 재판관 6명이 지난 3일 오후 서울 종로구 헌법재판소에서 열린 이진숙 방송통신위원장의 탄핵심판 2회 변론을 위해 자리에 착석해있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이 때문에 현 체제에서 윤석열 대통령 탄핵 심판 등에 대한 선고를 할 경우 이론적으로 만장일치 인용 결정이 나와야 파면된다. 재판관 6명 가운데 한 명이라도 반대하면 기각되는 것이다. 이에 따라 민주당은 인용 가능성을 높이기 위해 ‘9인 체제’를 주장하며 급히 재판관 추천에 나섰다. 반면 국민의힘은 6인 체제 유지를 요구하고 있다. 이는 결과적으로 한덕수 권한대행이 재판관을 임명할 권한이 있는지에 대한 갑론을박으로 이어졌다.&lt;br&gt;&lt;br&gt;국민의힘 권성동 당대표 권한대행 겸 원내대표는 이날 “(윤 대통령) 탄핵안이 헌법재판소에서 인용되기 전까지는 한덕수 권한대행의 헌법재판관 임명은 불가능하다. 대통령 권한대행은 대통령 궐위 시에는 헌법재판관을 임명할 수 있지만 대통령 직무 정지 시에는 임명할 수 없다고 봐야 한다”고 했다.&lt;br&gt;&lt;br&gt;그러나 헌재는 이날 공보관 브리핑을 통해서도 한 권한대행에게 임명권이 있다는 취지로 말했다. 이진 헌재 공보관은 “(2016~2017년 박근혜 전 대통령 탄핵 당시) 황교안 대통령 권한대행(국무총리)이 헌법재판관 후보자를 임명한 사례가 있는 것으로 안다”고 했다.&lt;br&gt;&lt;br&gt;실제로 2017년 3월 황 권한대행은 이정미 전 헌법재판관 후임에 양승태 당시 대법원장이 지명한 이선애 변호사를 임명했다. 다만 이는 박 전 대통령의 탄핵이 인용된 후의 일이었다. 지금처럼 대통령 탄핵심판 절차가 진행 중인 상황은 아니었다.&lt;br&gt;&lt;br&gt;이날 김 처장은 주진우 국민의힘 의원(부산 해운대구갑)의 “헌재에서 어제 재판관 6명의 심리 등이 가능하다고 판단했는데, 문제가 있는 것 아니냐”는 취지의 질문엔 “헌재에서 헌재법 23조 1항에 대해 효력 정지의 가처분 결정을 했다”고 말했다.&lt;br&gt;&lt;br&gt;헌재법은 재판관이 최소 7명 있어야 사건을 심리할 수 있다고 규정하지만, 앞서 헌재는 이진숙 방송통신위원장이 재판관 정족수 부족으로 자신의 탄핵 심판이 정지되는 것은 부당하다며 ‘심리 정족수 7명’ 조항에 대한 헌법소원과 함께 한 효력 정지 가처분 신청을 받아들여 이 조항의 효력을 스스로 정지시켰다. 6인 체제에서의 심리 등을 가능하게 해 ‘기능 마비’는 피한 상태다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AP3RFIB3BFMJZO6FKVSMGMDZS4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김정원(가운데) 헌법재판소 사무처장이 17일 오후 서울 여의도 국회에서 열린 법제사법위원회의 현안질의에서 의원 질의에 답변하고 있다. 왼쪽부터 오동운 고위공직자범죄수사처장, 김 처장, 천대엽 법원행정처장. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;주 의원이 “이 위원장에 한해 그 사건 재판이 선고될 때까지만 정지되는 것 아니냐”고 질의하자 김 처장은 “효력 정지의 처분은 이 위원장 탄핵심판에만 적용되는 게 아니고 모든 사건에 적용된다고 저희 재판부는 판단하고 있다”고 했다.&lt;br&gt;&lt;br&gt;민주당 정청래 법사위원장이 “6명이 (사건 심리를) 하는 게 괜찮다고 이 위원장 탄핵사건 때 결정한 것을 원용한 것이냐”고 하자 “현재 헌재법 23조 1항의 효력은 정지돼 있는 상태라고 보면 된다. 6명이 심리를 시작하는 것에 대해서는 어떠한 법률적인 문제도 없다고 재판부에서 판단하고 있다”고 말했다.&lt;br&gt;&lt;br&gt;김 처장은 박균택 의원이 “(윤 대통령 탄핵 심판 주심 재판관으로 지정된 것으로 알려진) 정형식 재판관에 국민이 불신을 갖고 있다”고 주장하자 “재판소에서 주심을 공개하지 않는다는 방침을 가지게 된 사정에 대해 이해가 있었으면 하는 바람”이라며 일축했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/NU33VV2TRBNYNP7AP3QBNGWO7M.jpg?width=2959&amp;height=2100&amp;auth=a7c09d3d6b38f8ab5bd228ab9535466b6ed911c30468a29c4cf7c9a0f8ae33ac&amp;smart=true" type="image/jpeg" height="2100" width="2959">
+        <media:description type="plain">[서울=뉴시스] 조수정 기자 = 한덕수 대통령 권한대행 국무총리가 17일 서울 종로구 정부서울청사에서 열린 국무회의에 입장하고 있다. 2024.12.17. chocrystal@newsis.com</media:description>
+        <media:credit role="author" scheme="urn:ebu">chocrystal</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>KBS 수신료, 다시 전기료와 합산...방송법 개정안 법사위 통과 </title>
+      <link>https://www.chosun.com/national/national_general/2024/12/17/2MSTRJV6PRH67BW377P4DHQ3PQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/17/2MSTRJV6PRH67BW377P4DHQ3PQ/</guid>
+      <dc:creator>김광진 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 17 Dec 2024 11:44:23 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FQ5ZMRZCK5OUND4TXQYDT4LSIU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;17일 국회에서 열린 법제사법위원회 전체회의에서 정청래 위원장이 발언하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한국방송공사(KBS) 수신료를 전기 요금과 합산해 징수할 수 있게하는 내용의 방송법 개정안이 국회 법제사법위원회(법사위)를 17일 통과했다. 분리 징수가 가능해진 지 약 1년 만에 다시 통합 징수로 되돌아가는 셈이다.&lt;br&gt;&lt;br&gt;법사위는 이날 전체 회의를 열고 KBS의 재원인 TV 수신료를 전기 요금과 통합해 징수해야 한다고 명시한 ‘방송법 일부개정안’을 통과시켰다.&lt;br&gt;&lt;br&gt;방송통신위원회는 지난해 7월 방송법 시행령을 개정해 한국전력이 TV 수신료를 전기요금과 분리해 징수할 수 있도록 했고, 실무 적용 절차를 거쳐 올해부터 분리 징수를 시행해왔다. 더불어민주당은 그동안 공영방송이 국가나 각종 이익단체에 재정적으로 종속되는 것을 막으려면 수신료 통합 징수가 필요하다는 개정안 입법을 추진해 왔다.&lt;br&gt;&lt;br&gt;정청래 국회 법사위원장은 이날 “KBS 구조개혁은 일단 제대로 일할 수 있는 조건을 만들어 주고 일을 제대로 해라 이렇게 하는 게 맞지 않겠냐”며 “어려운데 분리 징수를 해서 더 어렵게 만드는 것은 바람직한 것은 아니다”라고 했다.&lt;br&gt;&lt;br&gt;반면 주진우 국민의힘 의원은 “KBS를 보지도 않는데 자기도 모르는 사이에 강제로 수신료를 왜 내야 하나”며 “TV 수신 환경이 많이 달라졌다. 온라인동영상서비스(OTT)나 다른 것을 통해서 뉴스를 접하는 사람이 많다. TV 수상기가 아예 없는 분들도 많다”고 말했다.&lt;br&gt;&lt;br&gt;앞서 지난 2일 열린 국회 과학기술정보방송통신위원회 전체회의에서도 국민의힘은 TV가 없는 가정이 늘고 있으며 국민 과반이 분리 징수에 찬성하고 있다는 이유로 방송법 개정안에 반대했지만, 더불어민주당과 조국혁신당 등 야권은 수적 우위 속에 표결로 개정안을 통과시켰다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>2주 동안 두번 음주 운전한 검사... 징역형 구형</title>
+      <link>https://www.chosun.com/national/national_general/2024/12/17/U23KBNMJABGXTLJYLMHHCHUPXM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/17/U23KBNMJABGXTLJYLMHHCHUPXM/</guid>
+      <dc:creator>김도연 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 17 Dec 2024 12:00:07 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/A5ZKRGOBOID3QHR6K2XVBMDIE4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기도 과천시 법무부 청사./법무부 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2주 동안 음주 운전을 두 번 한 검사에게 징역형이 구형됐다. 법무부는 지난달 해당 검사를 해임했다.&lt;br&gt;&lt;br&gt;서울남부지법 형사5단독 이효은 판사는 17일 도로교통법 위반(음주 운전·음주 측정 거부) 혐의로 기소된 전 서울남부지검 소속 검사 김모(37)씨에 대한 결심 공판을 진행했다. 검찰은 김씨에게 징역 1년 6개월을 선고해 달라고 했다.&lt;br&gt;&lt;br&gt;김씨는 지난 4월 13일 서울 영등포구에서 음주 운전을 하다 경찰에 적발됐다. 호흡 측정을 거부하고 혈액 채취로 혈중알코올농도를 측정하겠다며 인근 병원으로 이동했다. 그런데 병원 접수 과정에서 도주했다. 김씨는 그러고도 태연히 남부지검에 출근하며 검사 업무를 수행했다. 같은 달 25일 이번에는 양천구에서 또 음주 운전을 해 신호등을 들이받았다. 당시 호흡 측정 결과 김씨의 혈중알코올농도는 면허 정지 수준인 0.077%로 조사됐다. 김씨는 이번 두 사건 이전에도 음주 운전 사고 전력이 있다고 한다.&lt;br&gt;&lt;br&gt;검찰은 재판에서 “피고인은 경찰로부터 음주 측정을 요구받고 도주했다”며 “이후 10여 일 만에 재차 음주 운전으로 인해 피해를 일으켜 처벌이 필요하다”고 했다. 이어 “공직자로서 사회 모범을 보여야 하나 단기간에 범행을 저지르며 국민의 신뢰를 저버렸기에 피고인에 대한 준엄한 법의 심판이 필요하다”고 했다.&lt;br&gt;&lt;br&gt;판사도 김씨를 질책했다. 김씨가 “음주 감지기보다 혈액 채취로 측정하는 것이 혈중알코올농도가 낮을 것이라 생각했다”고 변명하자 판사는 “피고인은 공판부 검사를 해봐서 대체로 채혈하면 농도가 더 높게 나오는 것을 알지 않느냐”며 “그럼에도 채혈을 요구했다는 것이 납득이 안 된다. 처음부터 음주 측정을 회피하고자 하는 의사가 있었던 것 아닌가”라고 했다. 김씨는 최후 진술에서 “정말 죄송하다”며 “자숙하면서 죄를 뉘우치고 반성하며 살겠다”고 했다.&lt;br&gt;&lt;br&gt;법무부는 지난달 26일 김씨를 해임했다. 법원은 내년 1월 23일 김씨에 대한 선고를 내릴 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>내년부터 육아휴직 급여 최대 월 250만원</title>
+      <link>https://www.chosun.com/national/labor/2024/12/17/Q3T4GVOAFJDT3LQXWUT4YAL7SU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/labor/2024/12/17/Q3T4GVOAFJDT3LQXWUT4YAL7SU/</guid>
+      <dc:creator>김아사 기자</dc:creator>
+      <description>내년부터 육아휴직 급여 상한액이 월 150만원에서 최대 250만원으로 인상된다.</description>
+      <pubDate>Tue, 17 Dec 2024 12:01:53 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ILWNU2C2M5IW3EJZPYNMVXGE4E.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 20일 한 엄마와 아이가 서울시내 한 직장어린이집으로 향하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;내년 1월 1일부터 육아휴직 급여 상한액이 월 150만원에서 최대 250만원으로 인상된다. 정부는 17일 국무회의에서 이 같은 내용을 포함한 고용보험법 시행령 일부 개정안 등을 심의·의결했다.&lt;br&gt;&lt;br&gt;육아휴직은 임신 중인 여성 근로자나 8세 또는 초등학교 2학년 이하 자녀를 가진 부모가 양육을 위해 쓸 수 있는 제도다. 현재 육아휴직을 하면 1년간 매달 150만원 한도로 정부가 급여를 지원하는데, 내년부터는 상한액이 최대 250만원으로 오른다. 휴직 첫 3개월 동안은 250만원, 다음 3개월은 200만원, 나머지 6개월은 160만원으로 월별 상한액이 차등 적용된다. 이에 따라 육아휴직 12개월의 합산 급여액은 현재 1800만원에서 2310만원으로 510만원 늘어난다.&lt;br&gt;&lt;br&gt;아울러 현재 육아휴직 급여의 25%는 복귀 6개월 후 지급하는데, 내년부터는 육아휴직 기간 중 전액 지급한다.&lt;br&gt;&lt;br&gt;현재 생후 18개월 내 아이가 있는 부모가 모두 육아휴직을 할 경우 첫 6개월간 급여를 상향 지원하는 ‘6+6 부모 육아휴직제’를 운영 중이다. 내년부터는 이 제도 지급액도 늘어나 부부가 1년간 육아휴직 시 각각 2960만원씩 부부 합산 5920만원을 받을 수 있다.&lt;br&gt;&lt;br&gt;한부모 근로자를 위한 제도의 경우도 첫 3개월간 상한액이 현재 250만원에서 300만원으로 오르고, 나머지 9개월도 일반 육아휴직에 준해 상향 적용된다. 내년부터 근로자의 육아휴직 신청 부담을 덜기 위해 출산휴가 신청 시 육아휴직도 같이 신청할 수 있게 바뀐다.&lt;br&gt;&lt;br&gt;한편 내년부터 중소기업 사업주가 육아휴직자 대체 인력을 채용하면 정부가 월 120만원씩 1년간 최대 1440만원을 지원한다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>부친 방화에 아들 전신 화상... 전우들이 모금 나서자 나흘만에 5억 모여</title>
+      <link>https://www.chosun.com/national/national_general/2024/12/17/PRBHNXPIHZEQPLYQAY3QWB4BNA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/17/PRBHNXPIHZEQPLYQAY3QWB4BNA/</guid>
+      <dc:creator>정아임 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 17 Dec 2024 11:25:57 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RI4OPFUBR5H2PFFPTTOXTAMKHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;중증 화상을 입어 치료를 받고 있는 A씨. /해피빈 후원사이트&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;아버지가 지른 불에 전신 화상을 입은 친구를 돕기 위해 동료들이 3억원가량의 치료비 모금에 함께 나섰다.&lt;br&gt;&lt;br&gt;지난 15일 전신 3도 화상을 입은 A(21)씨 지인이 인스타그램에 글 하나를 올렸다. 지인은 “A씨 아버지가 다 같이 죽자고 집에 불을 질러 형과 A씨가 전신 2, 3도 화상을 입었고 아버지는 결국 그 자리에서 돌아가셨다”고 했다.&lt;br&gt;&lt;br&gt;앞서 지난 2일 오전 11시 33분쯤 경북 포항시 북구 두호동의 한 아파트에서 불이 나 60대 아버지가 사망하고 20대 아들 두 명이 중상을 입었다. 둘째 아들인 A씨는 전신 3도 화상을 입었고, 집 안에 있던 큰 아들(24)도 2도 화상을 입은 것으로 전해졌다. 당시 경찰과 소방당국은 “‘아버지가 기름을 뿌리고 부탄가스를 터뜨리려고 한다’는 최초 신고가 접수됐다”며 방화 가능성을 조사 중이라고 밝혔다.&lt;br&gt;&lt;br&gt;A씨 지인이 소셜미디어 올린 글에 따르면 A씨 형은 다행히 수술 후 안정을 찾았지만, A씨는 전신 3도 화상을 입어 기증된 피부 조직을 이식받아 힘겹게 연명하고 있는 상황이다. 지인은 “3도 화상은 이미 피부가 새까맣게 탄 채로 굳은 상태(표피, 진피층과 함께 피하조직까지 전 층에 거쳐 화상이 발생한 경우)를 말한다”며 “담당 의사 소견으로 현재 손씨가 회복할 확률은 5% 남짓이다”고 했다.&lt;br&gt;&lt;br&gt;A씨는 지금까지 건강보험 급여 처리가 되는 조직들을 사용해 재생 치료를 받았지만, 이 방법만으로는 큰 효과를 기대할 수 없어 병원에서 생존율을 높일 수 있는 ‘자가 배양 피부 이식’ 수술을 권하고 있다고 한다. 하지만 이 수술은 건강보험 적용이 되지 않아, A씨 어머니의 경제력으로는 그 비용을 감당할 수 없는 상황이라고 했다. 수술 및 치료비만 3억2000만원에 달하는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;현재 A씨 함께 군 생활을 했던 해군 전우 약 10명이 모금 활동에 나섰고, 베스티안 화상후원재단이 개설한 해피빈 후원 계좌를 통해 후원금을 모으고 있다. 베스티안재단을 통해 지난 14일부터 나흘만에 목표액인 5억원이 모금된 것으로 알려졌다.&lt;br&gt;&lt;br&gt;어릴 적 유명 방송 프로그램에 출연해 연주 실력을 뽐낼 정도로 색소폰 신동으로 알려졌던 A씨는 한양대학교 실용음악과에 진학한 것으로 알려졌다. 이후 지난 10월 해군 전역 후 복학을 준비하다가 사고를 당했다．&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>부산 기장군 신축 공사장에서 화재 …한때 ‘대응 1단계’</title>
+      <link>https://www.chosun.com/national/incident/2024/12/17/GMTEOWZR2NDFNNARQWNTDRCDRA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/12/17/GMTEOWZR2NDFNNARQWNTDRCDRA/</guid>
+      <dc:creator>이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 17 Dec 2024 10:28:53 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WOVEMIOUFFDQJDR3XMZA6QXBUA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;17일 오후 3시 56분쯤 부산 기장군의 한 신축 공사 현장에서 화재가 발생해 소방 당국이 진화작업을 벌이고 있다. /부산소방재난본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산의 한 신축 공사 현장에서 화재가 발생해 1명이 다치고 4명이 연기를 마셔 병원으로 이송됐다.&lt;br&gt;&lt;br&gt;17일 부산소방재난본부 등에 따르면 이날 오후 3시 56분쯤 부산 기장군 오시리아 관광단지 메디타운 신축공사 현장에서 화재가 발생했다.&lt;br&gt;&lt;br&gt;이 화재로 1명이 다치고 4명이 단순 연기흡입으로, 병원으로 옮겨졌다.&lt;br&gt;&lt;br&gt;소방 당국은 오후 4시 9분쯤 대응 1단계를 발령하고 소방관 등 인원 183명과 소방헬기 등 장비 50여대를 투입해 진화에 나섰다. 대응 1단계는 관할 소방서 인력 전체가 출동하는 경보령이다.&lt;br&gt;&lt;br&gt;부산시는 이날 안전안내문자를 보내 “인근 차량과 주민들께서는 우회하거나 대피해 주길 바란다”고 했다.&lt;br&gt;&lt;br&gt;오후 6시 45분쯤 불을 끈 소방 당국은 건물 4개동 중 1개동의 지하층에서 불이 시작된 것으로 보고 정확한 화재 경위를 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>김천 오피스텔 살인 피의자 양정렬 구속 기소</title>
+      <link>https://www.chosun.com/national/incident/2024/12/17/F44TPD3ZABFO3IZBZAO4GK2YL4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/12/17/F44TPD3ZABFO3IZBZAO4GK2YL4/</guid>
+      <dc:creator>이승규 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 17 Dec 2024 10:46:11 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/R7EHCEYK6VB3HN3PHLHVI7SHPQ.png"&gt;&lt;figcaption&gt;&lt;small&gt;일면식 없는 동갑내기 남성을 살해하고 피해자 지문으로 대출까지 받은 강도살인범 양정렬(31)의 신상정보가 12일 공개됐다./대구지검 김천지청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;오피스텔에서 모르는 남성을 살해하고 그 지문을 이용해 6000만원을 빼앗은 양정렬(31)이 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;대구지검 김천지청 형사 1부(부장검사 박상수)은 17일 강도살인 등 혐의로 양씨를 구속 기소했다. 양씨는 지난달 12일 경북 김천시의 한 오피스텔에서 흉기로 30대 남성 A씨를 살해한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;검찰 수사 결과 양씨는 범행 전날 해당 오피스텔을 배회하면서 입주자 등을 파악하며 범행 대상을 물색한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;양씨는 생활고를 겪던 중 흉기로 타인을 살해한 뒤 금품을 빼앗기로 결심했다. 그러던 중 A씨의 오피스텔 현관문 앞에 앉아있다가 귀가하던 A씨를 흉기로 살해했다. 양씨는 A씨의 시신을 유기하려 했으나 시신이 무거워 A씨의 주거지에 그대로 방치했다.&lt;br&gt;&lt;br&gt;범행 과정에서 부상을 입은 양씨는 A씨에게서 빼앗은 신분증과 신용카드를 사용해 병원에서 치료를 받았고, 이후 편의점과 택시, 숙박업소에서 수백만원을 결제했다. 카드 잔고가 떨어지자 양씨는 숨진 A씨의 지문을 이용해 A씨의 휴대폰으로 6000만원을 대출받기도 했다.&lt;br&gt;&lt;br&gt;A씨의 휴대폰으로 부모와 지인 등의 연락이 오면 양씨는 ‘집에 없다’ ‘통영으로 간다’며 문자를 보내 범행을 숨기려 한 것으로 조사됐다. 양씨는 이후 지난달 19일 자신의 부모에게 ‘내가 사람을 죽였으니 나도 죽겠다’며 연락했고, 김천의 한 상가 주차장에서 양씨 부모의 신고를 받고 출동한 경찰에게 체포됐다.&lt;br&gt;&lt;br&gt;검찰은 지난 12일 특정중대범죄 피의자 등 신상정보 공개에 관한 법률에 따라 양씨의 신상을 대구지검 김천지청 홈페이지에 공개했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>김천 오피스텔 살인사건 범인 양정렬, 신상 공개</title>
+      <link>https://www.chosun.com/national/incident/2024/12/12/ZUKKU4KVVRBYNMKKEL35NPXWRY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/12/12/ZUKKU4KVVRBYNMKKEL35NPXWRY/</guid>
+      <dc:creator>이승규 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 12 Dec 2024 05:25:39 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/R7EHCEYK6VB3HN3PHLHVI7SHPQ.png"&gt;&lt;figcaption&gt;&lt;small&gt;일면식 없는 동갑내기 남성을 살해하고 피해자 지문으로 대출까지 받은 강도살인범 양정렬(31)의 신상정보가 12일 공개됐다./대구지검 김천지청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;일면식 없는 남성을 살해한 뒤 그 남성의 지문을 이용해 6000만원을 강탈한 양정렬(31)씨의 신상 정보가 공개됐다.&lt;br&gt;&lt;br&gt;대구지검 김천지청은 12일 강도살인 등 혐의로 구속 송치된 양씨의 이름과 나이, 사진 등을 홈페이지에 공개했다. 양씨의 신상정보는 이날부터 30일간 게시된다. 대구지검이 수사단계에서 피의자 신상을 공개한 첫 사례다.&lt;br&gt;&lt;br&gt;양씨는 지난달 12일 경북 김천시의 한 오피스텔에서 흉기로 30대 남성 A씨를 살해한 혐의를 받고 있다. 양씨는 생활고를 겪던 중 흉기로 타인을 살해한 뒤 그 금품을 빼앗을 목적으로 동네 인근을 배회했다. 그러던 중 A씨의 오피스텔 현관문 앞에 앉아있다가 이를 목격한 A씨가 “왜 (남의)집 앞에 있느냐, 나가라”고 하자 말다툼을 벌이다 A씨를 살해했다.&lt;br&gt;&lt;br&gt;범행 과정에서 부상을 입은 양씨는 A씨에게서 빼앗은 신분증과 신용카드를 사용해 병원에서 치료를 받았고, 이후 편의점과 택시, 숙박업소에서 수백만원을 결제했다. 카드 잔고가 떨어지자 양씨는 숨진 A씨의 지문을 이용해 A씨의 휴대폰으로 6000만원을 대출받기도 했다. 이 과정에서 A씨의 시신은 주거지인 오피스텔에 그대로 방치돼 있었다.&lt;br&gt;&lt;br&gt;A씨의 휴대폰으로 부모와 지인 등의 연락이 오면 양씨는 ‘집에 없다’ ‘통영으로 간다’며 문자를 보내 범행을 숨기려 한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;양씨는 이후 지난달 19일 자신의 부모에게 ‘내가 사람을 죽였으니 나도 죽겠다’며 연락했고, 김천의 한 상가 주차장에서 양씨 부모의 신고를 받고 출동한 경찰에게 체포됐다.&lt;br&gt;&lt;br&gt;검찰은 지난 11일 신상정보 공개심의위원회를 열고 특정중대범죄 피의자 등 신상정보 공개에 관한 법률에 따라 양씨의 신상을 공개하기로 결정했다. 검찰 관계자는 “양씨가 피해자를 살해한 범행 수단이 매우 잔인하며 재범을 방지할 필요성 등이 인정된다”며 “법률상 거치는 피의자 이의신청 의사 확인 및 변호인 통지를 거쳐 신상을 공개하기로 했다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/CGGSS5RAEVEDPCN5EWWYOC4QME.jpg?width=372&amp;height=279&amp;auth=953df0b65a4c6df669428bc4c59c99fee9a141311431729725dd16da5f259987&amp;smart=true" type="image/jpeg" height="279" width="372">
+        <media:description type="plain"> 시신 지문으로 대출'김천 오피스텔 살인', 31세 양정렬 신상공개
+    (대구=연합뉴스) 윤관식 기자 = 일면식 없는 동갑내기 남성을 살해하고 피해자 지문으로 대출까지 받은 강도살인범 양정렬(31)의 신상정보가 12일 공개됐다.
+    대구지검 김천지청은 이날부터 누리집에 양정렬의 이름, 나이, 사진을 30일간 공개하기로 했다. 2024.12.12 [대구지검 김천지청 누리집]
+    psik@yna.co.kr/2024-12-12 11:40:43/
+&amp;lt;저작권자 ⓒ 1980-2024 ㈜연합뉴스. 무단 전재 재배포 금지, AI 학습 및 활용 금지&amp;gt;</media:description>
+        <media:credit role="author" scheme="urn:ebu">윤관식</media:credit>
+      </media:content>
+    </item>
+    <item>
       <title>김용현 "비상계엄에 대통령 뜻 담겨…사령관들은 불법구속" 옥중 입장문</title>
       <link>https://www.chosun.com/national/court_law/2024/12/17/MTTYMRUCDNC67PMADQK3BOIZ3Q/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/17/MTTYMRUCDNC67PMADQK3BOIZ3Q/</guid>
@@ -782,28 +893,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ND367P7UMNIE7JEDO3VSA3AVZM.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령 탄핵소추 의결서 접수 후 첫 헌법재판관 회의를 연 16일 서울 종로구 헌법재판소의 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 대통령이 비상계엄 선포 이유로 꼽은 이른바 ‘부정선거 의혹’에 대해 헌법재판관 후보자 3명은 동의하지 않는다는 입장을 밝혔다.&lt;br&gt;&lt;br&gt;16일 국회 헌법재판관 후보자 인사청문특별위원회 소속 김한규 더불어민주당 의원이 세 후보자에게서 받은 의견서에 따르면, 이들은 부정선거 의혹에 대해 “사실과 다르다”는 취지로 답변했다.&lt;br&gt;&lt;br&gt;국민의힘이 추천한 조한창(59·사법연수원 18기) 후보자는 “제22대 국회의원 선거 및 제20대 대통령 선거와 관련해 다수의 선거 무효 내지 당선 무효 소송이 제기됐으나 모두 법원에서 기각됐다”며 “부정선거 의혹이 구체적으로 증명된 바는 없는 것으로 안다”고 답했다.&lt;br&gt;&lt;br&gt;조 후보자는 “헌법은 선거의 공정한 관리를 위해 선거관리위원회를 헌법기관으로 두고 있고, 공직선거법 등 선거 관련 법률에서 부정선거를 방지하고 선거의 공정성을 확보하기 위한 여러 조항을 규정하고 있다”며 “우리나라는 부정선거에 대한 경계를 소홀히 하고 있지 않다”고 덧붙였다.&lt;br&gt;&lt;br&gt;민주당이 추천한 정계선(55·27기) 후보자는 “법원에 제기된 다수의 선거 무효 소송은 모두 기각됐고, 이 과정에서 부정선거 의혹이 구체적으로 증명된 바는 없다고 알고 있다”며 “헌법재판관 후보자로서 법원의 판결을 존중한다”고 답했다.&lt;br&gt;&lt;br&gt;다른 민주당 추천 후보인 마은혁(61·29기) 후보자는 “정치적으로 논란이 있는 사안이고 계속 중인 탄핵 심판의 쟁점이 될 수 있어 개인적 의견을 밝히는 것이 조심스럽다”면서도 “우리나라는 3·15 부정선거 등 과거에 자행됐던 부정선거 탓에 이에 대한 반성과 경계를 다른 어느 나라보다 잘해오고 있다고 생각한다”고 밝혔다.&lt;br&gt;&lt;br&gt;윤 대통령은 지난 12일 비상계엄 사태와 관련한 대국민 담화에서 계엄 당시 중앙선관위에 군 병력을 투입한 이유를 설명하며 “민주주의 핵심인 선거를 관리하는 (선관위) 전산 시스템이 엉터리”라며 “국방장관에게 선관위 전산 시스템을 점검하도록 지시한 것”이라고 주장했다.&lt;br&gt;&lt;br&gt;한편 헌재의 탄핵 심판과 검찰의 수사 및 법원 형사 재판이 함께 진행될 경우, 탄핵 심판을 멈춰야 하는지에 대해 후보자들은 미묘하게 다른 견해를 드러냈다. 헌법재판소법은 ‘탄핵 심판 청구와 동일한 사유로 형사소송이 진행되면 심판 절차를 정지할 수 있다’고 규정하고 있다. 일각에서는 이 조항으로 내란죄로 수사 중인 윤 대통령이 기소되면, 탄핵 심판도 멈춰야 한다는 주장이 제기된다.&lt;br&gt;&lt;br&gt;이에 대해 정계선 후보자는 “헌재가 판단할 문제”라면서도 “탄핵 심판은 고위공직자를 파면시키는 절차이고, 형사 재판은 피고인의 유무죄를 판단하는 절차라 양자는 별개”라고 답했다. 마은혁 후보자는 “재판부에서 사안에 따라 결정할 문제”라고 했다.&lt;br&gt;&lt;br&gt;조한창 후보자는 “헌재 결정이 불합리하게 지연되는 일은 없어야 할 것”이라면서도 “헌법재판은 당사자들의 절차적 권리를 충분히 보장하고 충실하게 심리할 것까지도 요구된다. 관련 형사사건이 있을 경우 재판 결과를 기다릴지는 신속하고 충실한 심리 사이의 균형을 고려해 합리적으로 판단할 문제”라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>5세기 日무덤서 백제 유물 숨결... 한일 교류 되새기다</title>
-      <link>https://www.chosun.com/national/national_general/2024/12/16/QRJDQYYGAZHNJCGHD3X4LXYLPU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/16/QRJDQYYGAZHNJCGHD3X4LXYLPU/</guid>
-      <dc:creator>오유진 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 16 Dec 2024 12:15:16 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GNSZXEGXYNEL5KTL5YTTTKTCMY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;조선일보가 주최하고 신한은행·포스코·㈜GS·GS칼텍스·GS건설이 후원한 제47회 '일본 속의 한민족사 탐방'에 참여한 초·중·고 교사 167명이 지난 10일 조선통신사가 머물렀던 일본 시모노세키 아카마 신궁(赤間神宮)에서 손승철(앞줄 오른쪽에서 둘째) 강원대 사학과 명예교수의 해설을 듣고 있다. /오유진 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 12일 오전, 일본 교토에서 가장 오래된 사찰인 고류지(廣隆寺) 경내 어두컴컴한 보물전 안에 들어서자 조각상 50여 점이 모습을 드러냈다. 내부에선 휴대전화 불빛조차 허용되지 않았다. 한국에서 온 관람객들이 천천히 조각상을 눈에 담았다. 한가운데 앉은 ‘목조 미륵보살 반가사유상’ 앞에서는 탄성이 나왔다. 관람객들은 불상의 신비롭고 오묘한 미소를 한참 들여다봤다. 이 불상은 일본이 자랑하는 국보다. 삼국시대의 ‘금동 미륵보살 반가사유상’을 쏙 빼닮은 것으로 유명하다. 실제 한반도에서 도래한 것으로 전해진다.&lt;br&gt;&lt;br&gt;일본 속 한민족 문화의 흔적을 따라가는 제47회 ‘일본 속의 한민족사 탐방’ 행사가 지난 9일부터 13일까지 닷새 동안 일본 후쿠오카·오사카·교토 일대에서 진행됐다. 조선일보가 주최하고, 신한은행·포스코·㈜GS·GS칼텍스·GS건설이 후원했다. 이 행사는 일본 역사 교과서 파동을 계기로 ‘우리 학교 교육을 바로 세우자’는 기치를 내걸고 1987년 시작됐다. 지금까지 교사와 학생 등 1만9000여 명이 참가했다.&lt;br&gt;&lt;br&gt;47회 탐방에는 전국 초·중·고교에서 교사 167명이 참가했다. 손승철 강원대 사학과 명예교수와 엄기표 단국대 자유교양대학 교수, 이한상 대전대 역사문화학과 교수가 현장 해설을 맡았다.&lt;br&gt;&lt;br&gt;세 교수가 한일 양국 교류의 역사가 살아 있는 현장 15곳을 함께 답사하며 생생한 현장 강의를 풀어냈다. 잠시 교편을 내려놓은 참가 교사들은 현장 체험 학습을 나온 학생들처럼 열심히 적고 사진을 찍었다.&lt;br&gt;&lt;br&gt;이번 탐방은 나당(신라와 당) 연합군에 의해 멸망한 백제가 일본과 손잡고 관청을 지었던 규슈 지역의 행정구역 ‘다자이후(大宰府)’에서 출발했다. 도요토미 히데요시(豊臣秀吉)가 1592년 임진왜란을 앞두고 세운 전초기지인 ‘나고야(名護屋) 성터’에선 안타까워하는 탄식이 들렸다. 임진왜란 당시 끌려와 일본 도자기의 원류로 우뚝 선 조선 도공 이삼평(李參平)의 14대손도 만났다.&lt;br&gt;&lt;br&gt;교사들은 “책이나 영상 자료로만 보던 유적과 유물을 일본 현지에서 경험하게 됐다”고 했다. 후쿠오카에서 구마모토로 가는 길목에 있는 ‘후나야마 고분’(5세기 후반)에선 “우리나라 유물과 똑같이 생긴 게 많아서 신기하다”는 반응이 쏟아졌다. 이 고분에서 발굴된 금동 신발과 금동 관, 청동거울, 금귀고리 등 부장품들이 백제 무령왕릉에서 출토된 유물과 매우 흡사하기 때문이다.&lt;br&gt;&lt;br&gt;박찬구(27) 인천 강화여중 교사는 “고대 한국과 일본 사이에 많은 교역이 이뤄졌다는 사실을 배워서 알고 있었지만, 우리나라 유물과 비슷한 것들이 일본에서도 그대로 발견돼 전시돼 있는 걸 눈으로 확인하면서 한국과 일본의 관계를 다시 보게 됐다”고 했다. 그는 이를 ‘해상도가 높아진다’고 설명했다. 알면 알수록 유적과 유물의 세밀한 면까지 보이게 된다는 것이다.&lt;br&gt;&lt;br&gt;일본 야요이 시대(기원전 3세기~기원후 3세기 일본의 청동기·철기 시대)를 재현한 ‘요시노가리 유적’도 둘러봤다. 장로사(44) 서울 서초고 교사는 “한반도 농경문화가 전래된 곳으로만 알고 있었는데, 여기에 전시된 ‘거푸집’을 보고 고대 일본 사람들이 전래 이후 나름의 독자적인 청동기 문화를 형성해 나갔다는 사실을 알게 됐다”고 했다.&lt;br&gt;&lt;br&gt;곧이어 답사단은 조선통신사의 발자취를 따라갔다. 통신사가 처음 시모노세키(下關)에 상륙한 자리엔 기념비가 세워져 있고, 길 건너편엔 통신사들의 숙소로 활용된 ‘아카마 신궁(赤間神宮)’이 있다. 바로 옆에는 시모노세키 조약이 체결된 ‘청일 강화 기념관’이 있다.&lt;br&gt;&lt;br&gt;답사단은 배를 타고 나라현으로 건너가 백제 부여의 왕흥사를 모델로 삼은 것으로 알려진 아스카데라(飛鳥寺)를 찾았다. 임진왜란을 일으킨 도요토미 히데요시의 권력을 상징하는 오사카성 등도 답사했다. 손승철 교수는 “역사는 유적과 유물을 남기고, 유적과 유물은 역사를 증언한다”며 “역사 탐방은 보고 느끼고 생각하는 것에 의미가 있다”고 했다.&lt;br&gt;&lt;br&gt;/후쿠오카·오사카·교토=오유진 기자&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>고현정 새 드라마 배역이 민희진 연상?… 감독 반응은 </title>
-      <link>https://www.chosun.com/national/national_general/2024/12/16/4XLSLVBE7ZA2TLYDHCMKMPD6RI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/16/4XLSLVBE7ZA2TLYDHCMKMPD6RI/</guid>
-      <dc:creator>박선민 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 16 Dec 2024 11:59:47 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PAU75UKNGNCRFDX3CXQGYDDSX4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;배우 고현정과 민희진 전 어도어 대표. /뉴시스·조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;해고된 스타 제작자가 방출된 장기 연습생과 만나 각자의 목표를 위해 나아가는 이야기를 담은 지니TV 오리지널 드라마 ‘나미브’가 민희진 전 어도어 대표의 서사를 반영한 것 같다는 주장이 나온 가운데, 감독이 직접 “우리 드라마는 그 일이 있기 전부터 제작했다”고 해명했다.&lt;br&gt;&lt;br&gt;‘나미브’의 강민구 PD는 16일 서울 구로구 경인로 더세인트에서 진행된 제작발표회에서 극 중 해고된 스타 제작자라는 설정이 민 전 대표를 연상시킨다는 취지의 질문을 받고 “소문은 알고 있지만, 우리 드라마는 그 일이 있기 전부터 제작했던 작품”이라며 “크게 신경 쓰지 않고 우리 작품에만 몰두하고 있다”라고 답했다.&lt;br&gt;&lt;br&gt;나미브는 해고된 스타 제작자 강수현과 방출된 장기 연습생 유진우의 스타 탄생 프로젝트를 그린 드라마다. 배우 고현정이 해고된 스타 제작자를, 려운이 방출된 연습생 역할을 각각 맡았다. 민 전 대표는 모회사 하이브와의 갈등 끝에 지난 11월 사내이사직까지 내려놓고 회사를 떠났다. 민 전 대표는 현재 하이브 및 산하 레이블 아일릿 등과 법적 분쟁 중이다.&lt;br&gt;&lt;br&gt;강 PD는 배우 고현정을 강수현 역으로 캐스팅한 이유에 대해서는 “강수현이라는 캐릭터는 카리스마가 넘치는 스타 제작자”라며 “이 캐릭터를 처음 봤을 때 카리스마를 섬세하게 표현하려면 (고현정이) 적절하겠다고 판단했다”고 했다. 그러면서 “고현정 배우가 섬세한 눈짓 하나, 작은 손짓 하나로도 감정과 울림을 전달할 수 있는 연기를 많이 보여준 것 같다”고 했다.&lt;br&gt;&lt;br&gt;다만 이날 고현정은 건강상 이유로 제작발표회 2시간 전 갑작스럽게 불참을 결정했다. 고현정의 소속사 엔에스이엔엠은 “고현정씨가 건강이 좋지 않아 촬영장에서 여러 차례 쓰러졌다. 정신력으로 버티다 오늘 응급실에 다녀왔다”며 “의료진이 ‘일정 소화가 불가능하다’고 진단, 급하게 제작발표회 불참을 결정했다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/FKCODQHDI5MMRI3EZWQQFCSB2E.jpg?width=3073&amp;height=1897&amp;auth=d0504b3a32fd08e9b680bb566191a71070ad852b35abec13f619ee8aae1c0819&amp;smart=true" type="image/jpeg" height="1897" width="3073">
-        <media:description type="plain">[서울=뉴시스] 김혜진 기자 = 배우 고현정이 14일 오후 서울 종로구 포시즌스호텔에서 열린 더블유 코리아 제19회 유방암 인식 향상 캠페인 자선 행사 'LOVR YOUR W'에서 포즈를 취하고 있다. 2024.10.14. jini@newsis.com</media:description>
-        <media:credit role="author" scheme="urn:ebu">jini</media:credit>
-      </media:content>
-    </item>
-    <item>
       <title>‘혈액암 투병’ 조지호 경찰청장, 건강 악화에 입원</title>
       <link>https://www.chosun.com/national/incident/2024/12/16/WHMS6SBYUZFT7N5KZ54WJMM4ZI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/12/16/WHMS6SBYUZFT7N5KZ54WJMM4ZI/</guid>
@@ -826,66 +915,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AKLSZWGNV5GQDAQYV3ONHLWWPI.jpg"&gt;&lt;br&gt;&lt;br&gt;국민의힘 소속 의원들의 휴대전화 번호를 공개한 전국민주노동조합총연맹(민주노총)이 경찰에 고발됐다.&lt;br&gt;&lt;br&gt;서울경찰청 광역수사단 반부패수사대는 국민의힘이 제출한 민주노총에 대한 고발장을 접수하고, 16일 고발인 조사를 진행했다. 민주노총은 국민의힘 의원들의 휴대전화 번호를 시민들에게 공개한 혐의(스토킹처벌법, 개인정보보호법 위반)를 받는다.&lt;br&gt;&lt;br&gt;민주노총은 윤석열 대통령에 대한 탄핵소추안 의결을 하루 앞둔 지난 6일 국민의힘 의원들의 이름과 지역구, 휴대전화 번호를 민주노총 홈페이지에 게재했다. 의원들에게 탄핵 찬성 표결을 압박하기 위한 목적이었다. 또 하루 전인 5일에는 국민의힘 의원들을 대상으로 탄핵을 촉구하는 문자를 발송하는 링크를 개설하기도 했다. 방송통신심의위원회가 해당 링크를 즉시 삭제하도록 시정을 요구했지만, 민노총 측은 방심위의 결정이 월권이라며 “국회의원은 공인이니 중차대한 표결을 앞둔 국민의 당연한 의사 표현”이라고 이행을 거부했다.&lt;br&gt;&lt;br&gt;국민의힘 관계자는 “번호 공개로 인해 국민의힘 소속 의원들은 휴대전화를 사용할 수 없을 정도로 수많은 전화·문자를 받아 업무와 사생활 전반에 큰 지장을 받는 상황”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>최문순 전 강원지사, 업무상 배임 등 혐의로 불구속 기소</title>
-      <link>https://www.chosun.com/national/court_law/2024/12/16/Y5PHIAGGHVAP3NBLR246RWQYSY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/16/Y5PHIAGGHVAP3NBLR246RWQYSY/</guid>
-      <dc:creator>정성원 기자</dc:creator>
-      <description>최문순 전 강원지사가 업무상 배임 등 혐의로 불구속 기소됐다.춘천지검은 특정범죄가중법(국고 등 손실)과 업무상 배임, 위계공무집행방해 혐의로 최문순 전 지사를 불구속 기소했다고 16일 밝혔다.</description>
-      <pubDate>Mon, 16 Dec 2024 10:24:06 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XFTT2A2JLJPDJPO4LIMX7HRFAU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;춘천 레고랜드 조성 사업과 관련해 업무상 배임 등 혐의를 받는 최문순 전 강원도지사가 지난달 29일 검찰 조사를 받기 위해 춘천지검에 출석하기 전 취재진의 질문에 답하고 있다. /연합뉴스
-&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최문순 전 강원지사가 업무상 배임 등 혐의로 불구속 기소됐다.&lt;br&gt;&lt;br&gt;춘천지검은 특정범죄가중법(국고 등 손실)과 업무상 배임, 위계공무집행방해 혐의로 최문순 전 지사를 불구속 기소했다고 16일 밝혔다.&lt;br&gt;&lt;br&gt;검찰은 레고랜드 개발 사업과 관련해 최 전 지사가 2014년 강원도의회 동의 없이 강원중도개발공사의 레고랜드 채무 보증 규모를 210억원에서 2050억원으로 늘린 혐의가 있다고 봤다. 또 강원도의회에 허위정보를 제공해 동의를 얻은 후 강원중도개발공사가 레고랜드 운영사인 영국 멀린사에 800억원을 지원하도록 한 혐의도 받고 있다.&lt;br&gt;&lt;br&gt;앞서 2022년 11월 박기영 강원도의원(국민의힘)은 최 전 지사를 업무상 배임 등 혐의로 경찰에 고발했으며, 경찰은 지난 1월 최 전 지사를 불러 조사한 뒤 지난 4월 사건을 검찰에 송치했다.&lt;br&gt;&lt;br&gt;검찰은 지난달 29일 최 전 지사를 피의자 신분으로 불러 조사를 벌였다.&lt;br&gt;&lt;br&gt;한편 최 전 지사는 검찰에 출석하면서 자신에게 제기된 의혹에 대해 “도민의 이익을 위해서 투자를 한 것”이라며 “이미 2020년에 같은 사건으로 조사를 받아서 무혐의 불기소 처분을 받았다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>학교 앞에서 나눠준 초콜릿 먹은 학생들 메스꺼움 등 호소…경찰 수사</title>
-      <link>https://www.chosun.com/national/incident/2024/12/16/NNVX3YLBKVFW5BP7SNYJQUJQRU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/12/16/NNVX3YLBKVFW5BP7SNYJQUJQRU/</guid>
-      <dc:creator>인천=이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 16 Dec 2024 10:17:58 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/54FTUISTLZDHJELX6W5GW5V5XU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천의 한 초등학교 앞에서 40대 여성이 나눠준 초콜릿을 먹은 학생들이 메스꺼움과 어지럼증 등을 호소해 경찰이 수사에 나섰다.&lt;br&gt;&lt;br&gt;16일 인천 논현경찰서에 따르면 이날 오전 8시쯤 인천시 남동구 논현동의 한 초등학교 인근에서 40대 여성이 나눠준 초콜릿을 먹은 초등학생 7명이 메스꺼움과 어지럼증을 호소했다.&lt;br&gt;&lt;br&gt;증상을 호소한 학생들은 3~6학년 학생들로 파악됐다.&lt;br&gt;&lt;br&gt;학생들은 조퇴 후 병원 진료를 받았고, 현재는 증상이 호전된 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰은 “학생들이 초콜릿을 먹고 메스꺼움과 어지럼증을 호소한다”는 해당 학교 보건 교사의 신고를 받고 정확한 사건 경위를 파악하고 있다.&lt;br&gt;&lt;br&gt;경찰은 학교 주변 방범카메라(CCTV)와 학생들의 진술을 토대로 40대 여성이 선교와 교회 홍보 목적 등으로 학생들에게 초콜릿을 나눠준 것으로 보고 있다.&lt;br&gt;&lt;br&gt;경찰은 이 여성이 학생들에게 나눠준 초콜릿을 확보해 국립과학수사연구원에 성분 검사를 의뢰했다. 보건 당국도 해당 초콜릿에 대한 식중독균 검사를 진행하고 있다.&lt;br&gt;&lt;br&gt;해당 초콜릿은 시중에서 판매되는 제품으로, 개별 진공 포장된 상태였던 것으로 전해졌다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “문제가 된 초콜릿은 유통기한이 지나지 않은 것으로 파악했다”며 “국과수의 성분 검사 결과에 따라 수사 방향을 결정하게 될 것”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>광주 한 초등학교서 집단 식중독 의심 증상… 보건당국 “역학 조사”</title>
-      <link>https://www.chosun.com/national/incident/2024/12/16/KKCAZRGTXJB3BLAI4EZQ6B36XY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/12/16/KKCAZRGTXJB3BLAI4EZQ6B36XY/</guid>
-      <dc:creator>정성원 기자</dc:creator>
-      <description>광주광역시 서구 한 초등학교에서 학생 등 35명이 식중독 의심 증세를 보여 보건당국이 역학조사에 나섰다.16일 광주광역시 보건당국에 따르면 지난 12일부터 사흘간 지역 내 한 초등학교에서 35명이 구토와 설사 등 식중독 의심증세를 보인다는 신고가 접수됐다.</description>
-      <pubDate>Mon, 16 Dec 2024 10:04:44 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GM3SPQ2HEFL77KMD3B4SKRN5XI.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;지난해 7월 경기 수원시 권선구 경기도보건환경연구원에서 감염병연구부 수인성질환팀 직원이 식중독균 배양검사를 하고 있는 모습. 식중독을 예방하려면 흐르는 물에 30초 이상 손 씻기, 육류·달걀류 조리 시 중심온도 75도 이상에서 1분 이상 익혀 먹기 등 식중독 예방 수칙을 준수하는 것이 중요하다. /뉴스1
-&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;광주광역시 서구 한 초등학교에서 학생 등 35명이 식중독 의심 증세를 보여 보건당국이 역학조사에 나섰다.&lt;br&gt;&lt;br&gt;16일 광주광역시 보건당국에 따르면 지난 12일부터 사흘간 지역 내 한 초등학교에서 35명이 구토와 설사 등 식중독 의심증세를 보인다는 신고가 접수됐다. 35명 중 3명은 입원 치료를 받고 있다.&lt;br&gt;&lt;br&gt;보건당국은 유증상자와 조리 종사자에게서 검체를 채취해 식중독균 감염 여부를 보사 중이다. 또 조리기구 등을 수거해 광주시보건환경연구원에 검사를 의뢰했다.&lt;br&gt;&lt;br&gt;보건당국은 검사 결과가 나오는 대로 광주시교육청과 함께 후속 조처를 할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>’비상계엄 핵심’ 이진우 前 수방사령관 구속</title>
-      <link>https://www.chosun.com/national/court_law/2024/12/16/E4R7OZHNFRGXXK7PAXUXCMH2ZM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/16/E4R7OZHNFRGXXK7PAXUXCMH2ZM/</guid>
-      <dc:creator>이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 16 Dec 2024 09:15:14 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VMESF2BTLRJEZHOXRKRHE3QMCQ.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;이진우 전 수도방위사령관이 16일 서울 용산구 중앙지역군사법원에서 열린 영장실질심사에 출석하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘12‧3 비상계엄’ 사태 당시 계엄군 핵심 지휘관인 이진우 전 수도방위사령관이 16일 구속됐다. 검찰 비상계엄 특별수사본부(본부장 박세현 서울고검장)가 지난 13일 오후 이 전 사령관을 체포한 지 3일 만이다.&lt;br&gt;&lt;br&gt;중앙지역군사법원은 내란 중요 임무 종사‧직권남용 권리행사 방해 등 혐의를 받는 이 전 사령관의 구속영장을 이날 오후 발부했다. 이 전 사령관은 윤석열 대통령의 비상계엄 당시 여인형 전 방첩사령관(구속), 곽종근 전 특수전사령관(구속)과 함께 계엄군을 지휘한 핵심 지휘부다. 이 전 사령관은 김용현 전 국방장관의 지시에 따라 지난 3일 비상계엄 당시 서울 여의도 국회의사당에 35특수임무대대·군사경찰단 등 병력 211명을 투입한 것으로 조사됐다. 수방사 1경비단 예하 2특임대대·1경비대대가 국회 인근과 한남동 공관 등으로 출동했다는 의혹도 제기된 상황이다.&lt;br&gt;&lt;br&gt;계엄 선포를 인지한 경위에 대해 이 전 사령관은 “TV를 보고 알았다”는 입장이었다. 그러나 특수본은 계엄 당시 작전에 투입됐던 수방사 관계자 다수를 조사하면서, “이 전 사령관이 계엄 선포 전인 3일 오후 9시 50분쯤 전투복으로 갈아입은 뒤 사령부로 들어오라”는 취지로 지시했다는 진술을 확보한 것으로 전해졌다. 이 전 사령관이 계엄 선포 전부터 상황을 알고 있었다는 것이 특수본의 시각이다.&lt;br&gt;&lt;br&gt;그러나 이 전 사령관 측은 이날 영장이 발부되기 전 “계엄 징후를 미리 알았다는 일부 보도는 사실이 아니다”라며 “만약 계엄 사실을 인지하고 있었다면, 뒤늦게 급히 인력을 소집할 이유가 없었을 것”이라고 했다. 계엄 선포 직전까지 북한의 도발 상황에 관한 보고를 계속적으로 받아왔기에, (김용현 전) 국방장관의 “위험한 상황이 발생했으니 부대로 복귀하라”는 지시를 북한 도발에 대응하기 위한 내용이라고 믿었다는 것이다.&lt;br&gt;&lt;br&gt;지금까지 특수본이 구속한 계엄 사태 피의자는 김 전 장관, 여 전 사령관, 곽 전 사령관, 이 전 사령관 등 모두 4명이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>尹 탄핵심판 주심에 尹이 지명한 정형식 재판관</title>
-      <link>https://www.chosun.com/national/court_law/2024/12/16/LFOIWKAO3RD4BBSJSV52ZOWTJE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/16/LFOIWKAO3RD4BBSJSV52ZOWTJE/</guid>
-      <dc:creator>박강현 기자, 방극렬 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 16 Dec 2024 08:34:43 +0000</pubDate>
-      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/U6V4G5DPRVNZXPZV7WAGSBIMC4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;정형식 헌법재판관이 10일 서울 종로구 헌법재판소 대심판정에서 열린 중앙선거관리위원회 채용비리 사건 관련 선관위와 감사원 간의 권한쟁의 공개변론에 참석해 있다/뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;헌법재판소가 16일 윤석열 대통령 탄핵심판 사건의 주심(主審)으로 정형식(63·사법연수원 17기) 재판관을 지정한 것으로 알려졌다. 주심 재판관은 탄핵 여부를 논의하고 표결하는 평의(評議) 절차를 주도하고 결정문 초안을 작성하는 역할을 담당한다.&lt;br&gt;&lt;br&gt;헌재는 이날 오전 재판관 전원이 참여하는 첫 회의를 열고 이같이 결정했다고 한다. 주심 재판관은 전자 배당 시스템을 통해 무작위 추첨으로 지정된다. 정 재판관은 이미선 재판관과 함께 변론 준비 기일에서 증거와 주장, 쟁점 등을 정리하는 수명(受命) 재판관 역할도 맡게 됐다.&lt;br&gt;&lt;br&gt;정 재판관은 현재 재판관 중에서는 유일하게 윤 대통령이 직접 지명하고 임명했다. 대통령실은 작년 11월 정 재판관을 지명하면서 “해박한 법리와 공정한 재판 진행으로 정평이 나 있는 법관”이라고 설명했다.&lt;br&gt;&lt;br&gt;정 재판관은 서울대 법대를 졸업했고, 1988년 판사로 임관 후 서울고법·수원고법 부장판사, 서울회생법원장 등을 지냈다.&lt;br&gt;&lt;br&gt;정 재판관은 2013년 한명숙 전 총리의 불법 정치자금 수수 사건에서 무죄를 선고한 1심 판결을 깨고 징역 2년을 선고했다. 2018년 이재용 당시 삼성전자 부회장의 뇌물공여 등 사건에서 징역 5년을 선고한 1심을 깨고 징역 2년 6개월에 집행유예 4년을 선고한 바 있다.&lt;br&gt;&lt;br&gt;앞서 헌재는 이날 기자단 브리핑에서 주심 재판관을 비공개하기로 결정했다고 밝혔었다. 헌재 관계자는 “주심 재판관은 공개하지 않는 것이 원칙이며, 재판관들의 결정”이라고 말했다.&lt;br&gt;&lt;br&gt;그러나 이날 오후 헌재 주변에서 정 재판관이 주심으로 배당됐다는 사실이 알려졌다. 그러자 헌재는 재차 입장문을 내고 “재판관 회의를 거쳐 (기존) 탄핵 사건 4건을 주심으로 맡고 있는 재판관 1명을 배제한 상태에서 무작위 전자 배당을 실시했다”면서 “주심 비공개는 공공기관의 정보공개에 관한 법률, 결정문에 주심을 표시하지 않는다는 ‘헌법재판소 결정서 작성방식에 관한 내규’에 따른 조치였다”고 밝혔다. 그러면서 “변론 준비 기일은 수명 재판관 2명이 공동으로 관여하고, 변론 기일은 재판장 주재 하에 재판관 전원의 평의에 따라 진행돼 주심 재판관이 누구냐는 재판의 속도나 방향에 영향을 미치지 못한다”고 설명했다.&lt;br&gt;&lt;br&gt;이날 주심 재판관을 지정한 헌재는 윤 대통령 탄핵심판 사건을 본격적으로 심리할 전망이다. 헌재는 탄핵 사건을 전담할 TF(태스크포스)를 팀장급 선임 헌법연구관과 연구관 10여 명으로 구성하고, 법리 검토와 증거 조사에 착수하기로 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/4ELJMKROMJF2RERTJKWE6OBSGA.jpg?width=3265&amp;height=1837&amp;auth=1bcf3c96502b883b6d597517a5ffbffb894722903c15f054f4bb2adcad7dbbfd&amp;smart=true" type="image/jpeg" height="1837" width="3265">
-        <media:description type="plain">[서울=뉴시스] 황준선 기자 = 정형식 헌법재판관이 10일 서울 종로구 헌법재판소 대심판정에서 열린 중앙선거관리위원회 채용비리 사건 관련 선관위와 감사원 간의 권한쟁의 공개변론에 참석해 있다. 2024.12.10. hwang@newsis.com</media:description>
-        <media:credit role="author" scheme="urn:ebu">황준선</media:credit>
-      </media:content>
-    </item>
-    <item>
-      <title>尹 대통령 변호인단 대표에 김홍일 전 방통위원장</title>
-      <link>https://www.chosun.com/national/court_law/2024/12/16/XPXWCYOOLRH45KXE4VP23R3SHY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/16/XPXWCYOOLRH45KXE4VP23R3SHY/</guid>
-      <dc:creator>이슬비 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 16 Dec 2024 08:28:28 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LHY2BU2AO37SP32B2Y6KBKESIY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김홍일 전 방송통신위원회 위원장./뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김홍일 전 방송통신위원장이 ‘12·3 비상계엄’ 사태와 관련해 피의자로 입건된 윤석열 대통령의 변호인단 대표를 맡기로 했다.&lt;br&gt;&lt;br&gt;윤 대통령 변호인단은 16일 기자들에게 “김홍일 전 방통위원장이 윤 대통령 변호인단 대표(가칭)를 맡을 예정”이라며 “내부 입장을 정리 중”이라고 밝혔다. 이어 변호인단은 “정리된 입장을 가급적 빨리 밝히려고 한다”며 “경우에 따라서 그 시기는 오늘 또는 내일이 될 수 있다”고 했다.&lt;br&gt;&lt;br&gt;김 전 위원장은 윤 대통령의 검찰 선배로 서울중앙지검 3차장, 대검찰청 마약·조직범죄부장을 거쳐 중앙수사부장, 부산고검장 등을 지냈다. 대검 중수부장 시절 윤 대통령이 중앙수사2과장으로 같이 근무한 적이 있다. 김 전 위원장은 지난 대선 때는 윤석열 캠프 정치공작진상규명특별위원회 위원장을 했고, 윤 대통령 취임 후 국민권익위원장과 방통위원장을 지냈다. 지난 7월 더불어민주당은 김 당시 위원장을 탄핵하려 했고, 이에 자진 사퇴했다. 김 전 위원장은 지난 10월 고문 변호사로 몸담았던 법무법인 세종으로 복귀했다가 이달 초 세종 측에 구두로 퇴직하겠다는 뜻을 전한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;사건 성격은 다르지만, 과거 대통령들은 10~20명가량의 변호인단을 꾸렸다. 노무현 전 대통령은 헌법재판소 탄핵 심판을 앞두고 이용훈 전 대법원장, 박시환 전 대법관, 문재인 변호사 등을 변호인에 선임했다. 박근혜 전 대통령은 이중환·서성건·채명성 변호사와 손범규 전 국회의원 등으로 변호인단을 구성했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>계엄 선포에 사퇴한다더니... 진화위 사무처장의 변덕</title>
       <link>https://www.chosun.com/national/national_general/2024/12/16/RPJJYTZG2FBJTAER5RBHPDVPYQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/16/RPJJYTZG2FBJTAER5RBHPDVPYQ/</guid>
@@ -902,15 +931,6 @@
       <description/>
       <pubDate>Mon, 16 Dec 2024 06:44:29 +0000</pubDate>
       <content:encoded>‘불법 쌍방울 대북송금’ 사건으로 재판 중인 이재명 더불어민주당 대표 측이 담당 법관들에 대한 기피신청을 냈다. 재판부를 바꿔달라는 것이다. 이 신청이 접수되면 법원의 최종 판단이 나올 때까지 재판은 그대로 멈춘다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AS6G7SKH45LM5IWLTYOZOBJV4E.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;이재명 더불어민주당 대표가 16일 오후 서울 여의도 국회에서 제임스 김 주한미국상공회의소(AMCHAM) 회장을 접견하며 발언하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;16일 법조계에 따르면 이 대표 측은 지난 13일 수원지법 형사11부(재판장 신진우) 법관 3명에 대한 기피신청서를 제출했다. 이 재판부는 이 대표의 대북송금 관련 특정범죄 가중처벌 등에 관한 법률상 제3자 뇌물, 외국환거래법 위반, 남북교류협력법 위반 혐의 사건을 맡아 심리 중이다.&lt;br&gt;&lt;br&gt;기피신청은 형사소송법 제18조에 따라 법관이 불공평한 재판을 할 염려가 있을 때 할 수 있다. 이 대표 측은 이 재판부가 이미 같은 사건으로 기소된 이화영 전 경기도 평화부지사의 1심에서 중형을 선고해, 이 대표의 사건을 연달아 심리하는 것은 무죄 추정 원칙에 어긋난다고 주장한다. 이 대표 측 변호인은 지난 9월 법원에 ‘재판부 재배당’ 신청을 냈지만, 재판장을 맡은 신 부장판사는 “명확학 법률 문헌상 근거가 없다”며 받아들이지 않았다. 이 대표 측은 지난 재판에서 “현 재판부가 본의 아니게 이 사건 수사 기록을 사전에 검토하고, 이 대표를 대면하는 셈”이라며 “변호인 입장에서 보면 (재판부가) 아무런 사전 지식도 없는 백지상태에서 심리해야 공정할 것”이라고 했다.&lt;br&gt;&lt;br&gt;법관 기피신청은 재판 지연 목적임이 명백할 경우, 해당 재판부에서 곧바로 기각할 수 있다. 그렇지 않으면 같은 법원의 다른 재판부가 배당받아 결정하게 된다. 항고, 재항고 할 수 있어 대법원 판단까지 받으면 2~3개월 가량의 시간이 걸린다. 이 전 부지사도 앞선 재판서 기피신청을 냈고, 재판은 77일 동안 멈추면서 지연됐다.&lt;br&gt;&lt;br&gt;수원지법 형사11부 법관들은 내년 2월 법관 정기인사에서 모두 이동 대상이 될 가능성이 높다. 한 법조계 관계자는 “인사로 재판부가 바뀌는 것과는 별개로 내년 초 본 재판이 시작되기 앞서 일단 ‘일시정지’시켜놓으려는 것 아니겠나”라고 했다.&lt;br&gt;&lt;br&gt;한편 16일 이 대표의 위증교사 사건 항소심이 서울고법 형사3부에 배당됐다. 이 대표는 위증교사 1심에서 무죄 판결을 받았다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3FUALLZYHNJM3EH666HKJ4ZWMI.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;이재명 더불어민주당 대표가 16일 오후 서울 여의도 국회에서 제임스 김 주한미국상공회의소(AMCHAM) 회장을 접견하며 발언하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울고법 형사3부(재판장 이창형)는 위증교사 혐의로 1심에서 무죄를 선고받은 이 대표의 항소심을 심리하게 됐다고 이날 밝혔다.&lt;br&gt;&lt;br&gt;이 재판부는 항소심을 맡는 서울고법에서 주로 ‘부패’ 사건을 전담해 심리하는 곳이다. 법조 경력이 가장 오래된 이창형(62·사법연수원 19기) 고법 부장판사를 중심으로 남기정(44·36기)·유제민(41·37기) 고법판사로 구성돼있다. 이 대표 사건의 재판장은 이창형 부장판사, 주심은 남기정 판사가 맡는다.&lt;br&gt;&lt;br&gt;서울고법 형사3부 소속 판사 3명은 모두 작년 2월 법관 정기 인사로 교체된 이들이다. 형사재판부의 경우 통상 2~3년씩 근무해 모두 내년 초 인사 대상이다. 이 대표 항소심이 재판부 변경 등으로 지연될 가능성을 배제할 순 없는 셈이다.&lt;br&gt;&lt;br&gt;이 재판부는 지난 7월 ‘민주당 전당대회 돈봉투 사건’으로 재판에 넘겨진 윤관석 전 의원에게 1심과 같이 징역 2년을 선고한 바 있다. 지난 4월엔 세월호 참사 특별조사위원회 활동을 방해한 혐의로 기소된 이병기 전 대통령 비서실장 등 박근혜 정부 출신 9명에게 1심에 이어 항소심에서도 모두 무죄를 선고했다.&lt;br&gt;&lt;br&gt;이 대표는 지난달 25일 위증교사 사건 1심에서 무죄를 선고 받았다. 서울중앙지법 형사33부(재판장 김동현)는 “교사 행위 당시 이 대표는 김씨가 위증을 할 것이라는 점을 알았거나, 미필적으로나마 예견할 수 있었다고 보기 어렵다”며 이 같이 판결했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>한국사 교과서 논란 문명고, 내년 ‘복수 교과서’로 수업</title>
-      <link>https://www.chosun.com/national/regional/2024/12/16/OWVMW2ODYFC7JFSS2BELS2RAYY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/12/16/OWVMW2ODYFC7JFSS2BELS2RAYY/</guid>
-      <dc:creator>경산=노인호 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 16 Dec 2024 07:57:45 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BN7GEFBO7ZFNHMUKXKBWR7DOR4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경북 경산시 문명고 교직원들이 지난달 21일 교과서 선택은 헌법이 보장한 학교 교육의 자주성이라는 취지의 기자회견을 열고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전국에서 유일하게 보수적 시각에서 펴낸 한국사 교과서를 선택한 문명고(경북 경산)가 복수 교과서를 채택하기로 결정했다.&lt;br&gt;&lt;br&gt;2025학년도 신입생 한국사 수업에 한국학력평가원이 출판한 교과서를 선택한 문명고는 이외에 한국사 교과서로 검·인정된 9종 교과서 중 하나를 보조 교재로 추가 선정하기로 했다고 16일 밝혔다.&lt;br&gt;&lt;br&gt;한국학력평가원 한국사 교과서는 이승만 정권 정부에 대해 ‘독재’ 표현 대신 ‘장기 집권’, 제주 4·3 사건 가담자 중 일부에 대해 ‘반란군’으로 서술하고 있다. 문명고는 전국 고교 중 유일하게 이 교과서를 한국사 교재로 채택했다. 이런 사실이 알려지자 전교조와 시민단체 등은 “문명고가 친일·독재 미화가 담긴 불량 한국사 교육을 시도한다”고 비난했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TKISGMTGGFO7TFVUN2JFRYGCQA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 19일 오전 문명고 앞에서 '문명고 친일·독재 미화 불량 한국사 교과서 채택대응 대책위원회'가 규탄 시위를 벌이고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이에 문명고 측은 기존에 선택한 한국사 교과서와 다른 시각을 가졌다고 평가받는 검·인정 교과서 1권을 보조교재로 추가 선정해 균형 잡힌 역사교육을 진행하겠다는 것이다.&lt;br&gt;&lt;br&gt;임준희 명문고 교장은 본지와의 통화에서 “기존에 선택한 교과서에 대해 제기된 문제에 동의하지 않는다. 하지만 한국사 교육 목표가 균형 잡힌 역사의식을 가지도록 하는 것인 만큼 서로 다른 성향의 교과서를 추가로 선택해 수업을 진행하겠다”며 “우리 학교가 그랬던 것처럼 다른 학교에서도 보조교재로 다른 시각을 가진 교과서를 추가 선택하는 일도 많이 생길 것으로 기대하고 있다”고 말했다.&lt;br&gt;&lt;br&gt;추가로 사용할 보조 교재 구입 비용(권당 1만원)은 학교 측이 부담하기로 했고, 어느 교과서를 선택할 지는 담당 교사가 결정할 예정이라고 임 교장은 밝혔다. 또 17일 오후 학부모들이 한국사 교과서 9종의 내용을 비교해볼 수 있는 공개행사를 진행할 예정이다.&lt;br&gt;&lt;br&gt;한편 문명고는 지난 2017년 박근혜 정부 당시 전국에서 유일하게 국정 역사교과서 연구학교로 지정됐다. 하지만 신청 철회를 요구하는 전교조 등의 시위가 이어졌으며 이후 문재인 정부가 국정 역사교과서 작업을 폐기하면서 연구학교 지정은 자동 철회됐다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>“사랑한다 내 새끼” 싱글맘 극단선택 3개월 만에 협박 사채업자 검거</title>
@@ -931,15 +951,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZLIQQFI7DRMVHKXLEFXMAMCGQU.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;2022년 6월 15일 서울 중구 한국 프레스센터 앞 광장에서 열린 행사에서 시민들이 백내장 시야 체험을 위한 특수 안경을 착용해본 뒤 설문조사에 참여하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난해 우리 국민이 가장 많이 받은 수술은 백내장 수술로 나타났다. 백내장 수술은 최근 실손보험사의 보험금 지급 거부 사례로 지난해보다는 건수가 줄었지만 여전히 수술 빈도 1위였다.&lt;br&gt;&lt;br&gt;16일 건강보험공단이 발표한 ‘2023년 주요 수술 통계 연보’에 따르면 지난해 34개 주요 수술 건수는 199만6000건, 수술 환자는 165만9000명이었다. 2022년과 비교해 환자 수는 0.8%, 수술 건수는 3.5% 각각 줄었다.&lt;br&gt;&lt;br&gt;최다 빈도 수술은 63만7879건을 기록한 백내장이었다. 눈의 수정체가 혼탁해져 시력 장애를 일으키는 백내장은 대표적인 노인성 질환으로, 최근 5년간 줄곧 수술 빈도 1위를 지켰다. 다만 2021년 78만1220건으로 역대 최다를 기록한 후 감소 추세다. 지난해 백내장 수술은 2022년(73만5693건) 대비 13.3% 줄었다.&lt;br&gt;&lt;br&gt;다음으로는 일반 척추 수술이 2위로 20만6785건, 3위는 치핵 수술로 15만1899건이었다. 이어 제왕절개 수술(14만7121건), 담낭절제술(9만6975건)이 많았다.&lt;br&gt;&lt;br&gt;전체 수술 건수는 줄었지만, 주요 수술 진료비는 늘어났다. 지난해 34개 주요 수술 관련 진료비는 8조4404억원으로, 전년 대비 4.4% 증가했다. 수술비가 상대적으로 저렴한 백내장 수술 등이 줄고, 일반 척추 수술 등 비싼 수술이 늘었기 때문으로 분석된다. 지난해 일반 척추 수술 관련 진료비가 총 1조157억원으로 가장 많았고 2위는 인공 무릎 관절(슬관절) 치환술 8397억원이었다. 이어 백내장 수술(8234억원), 경피적 관상동맥 중재술(피부를 통한 스텐트 삽입술·8116억원), 내시경 및 경피적 담도 수술(6280억원) 등 순이었다.&lt;br&gt;&lt;br&gt;한편 1건당 진료비가 높은 수술은 심장 수술(3683만원), 관상 동맥 우회 수술(3525만원), 줄기세포 이식술(2323만원) 등 순으로 나타났다. 건당 진료비가 낮은 수술은 치핵 수술(119만원), 백내장 수술(129만원), 정맥류 결찰 및 제거 수술(145만원) 등이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>부산 식만~경남 동김해 잇는 광역도로 개통</title>
-      <link>https://www.chosun.com/national/regional/yeongnam/2024/12/16/TBV4ZGUOFJACTBCWENZ34IB6TM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/yeongnam/2024/12/16/TBV4ZGUOFJACTBCWENZ34IB6TM/</guid>
-      <dc:creator>박주영 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 16 Dec 2024 06:33:39 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RRUDSWVLGVFFPIYTJUN446ZO6I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산 강서구 식만동 식만분기점~경남 김해 어방동 남해고속도로 동김해나들목 간 광역도로가 17일 오후 정식 개통된다. /부산시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경남 김해시 어방동 남해고속도로 동김해나들목(IC)과 부산 강서구 식만동 식만분기점(JCT) 간 연결도로가 개통된다.&lt;br&gt;&lt;br&gt;부산시와 경남도 등은 16일 동김해나들목~식만분기점 간 광역도로 개통식을 열었다. 이 도로의 차량 통행은 17일 오후 3시부터 가능하다. 동김해나들목~식만분기점 간 도로는 총길이 4.6㎞다. 교량 연결로 5곳, 교차로 2곳 등이 개설됐다. 총사업비 897억원을 투입, 2019년 착공해 이번에 완공했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4RXGLD5JVZEODD3TJZEDLYN7WE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;17일 오후 정식 개통하는 부산 강서구 식만동 식만분기점~경남 김해시 어방동 남해고속도로 동김해나들목 간 연결도로 노선도. /부산시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이 도로 개통으로 동김해나들목에서 부산신항까지 이동시간이 28분에서 18분으로, 동김해나들목에서 철도 진영역까지 이동시간도 21분에서 15분으로 6~10분 가량 단축될 것으로 부산시는 추산했다.&lt;br&gt;&lt;br&gt;손상영 부산시건설본부 도로교량건설부장은 “이 도로 개통에 따라 동김해IC와 국도 14호선, 신항 배후 도로인 국지도 69호선이 바로 연결돼 남해고속도로와 낙동북로, 김해대로 등의 상습적 교통난이 완화될 수 있을 것”이라고 말했다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>‘가로수길 위기라더니…’ 강호동도 빌딩 166억원에 매각</title>
       <link>https://www.chosun.com/national/national_general/2024/12/16/FSV2JBAIDZATHI5PZACM3XPFGU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/16/FSV2JBAIDZATHI5PZACM3XPFGU/</guid>
@@ -956,15 +967,6 @@
       <description/>
       <pubDate>Mon, 16 Dec 2024 03:40:37 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/V3N4KIIVWRJXDBWTVYH5PC6Q64.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 8일 대구 북구 엑스코에서 열린 ‘2024 대구 크리스마스 페어'를 찾은 시민들이 크리스마스트리와 장식 소품을 살펴보고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;올해는 ‘화이트 크리스마스’를 기대하기 어려울 전망이다. 다만 살을 에는 듯한 영하권 한파(寒波)는 이달 말까지 계속되겠다.&lt;br&gt;&lt;br&gt;기상청에 따르면, 17일 오전 비구름대를 동반한 기압골이 한반도를 통과한 후 오후부터 중국 북부지방에서 찬 대륙고기압이 확장하며 한파가 더 매서워지겠다. 17일 오전까지 경기남부·전라·경북권엔 1~5㎝ 내외의 눈이나 5㎜ 안팎의 비가 내리는 곳이 있겠고, 구름대가 한반도를 통과한 후에는 찬 바람이 본격 남하하기 시작하며 체감기온을 3~4도가량 떨어뜨릴 것으로 보인다. 17일 아침 최저기온은 영하 9도에서 영상 4도, 낮 최고기온은 1~10도로 예보됐다.&lt;br&gt;&lt;br&gt;17일 밤부터 영하 20도 안팎의 찬 바람이 북쪽에서 내려오면서 18일 출근길 수은주는 전날보다 뚝 떨어질 것으로 보인다. 18일은 최저 영하 12도에서 9도, 최고 영하 1도에서 영상 7도의 기온 분포를 보이겠다. 19일에도 최저 영하 11도 수준으로 전국에 추위가 이어지겠다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IMEWWDAILVJOJCEXDZOJ2KF4CM.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;찬바람과 함께 기온이 크게 내려간 16일 오전 경북 경산역 앞에서 두꺼운 외투를 챙겨 입은 학생과 엄마가 꼭 끌어안은 채 보행자 신호를 기다리고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;올 겨울은 예년보다 기온이 높은 편이지만, 11월까지 늦더위가 이어진 탓에 12월 들어 피부로 느끼는 ‘체감 한파’는 더 심한 편이다. 기온이 서서히 내려가지 않고, 11월 말 폭설을 기점으로 하루아침에 계절이 가을에서 겨울로 바뀌며 더 춥게 느끼는 것이다. 가을이 아무리 포근하더라도 12월부터는 중국 쪽 대륙고기압이 확장하면서 우리나라에 찬 바람이 유입되며 영하권 추위가 찾아오게 된다.&lt;br&gt;&lt;br&gt;작년 이맘때는 대륙고기압 확장세가 더 커 중국 북부 지역의 최저기온이 영하 45도까지 떨어졌고, 그 여파로 우리나라도 기온이 최저 영하 14도 내외로 떨어지며 전국에 한파특보가 발효됐었다. 현재 중국 북부 지역은 영하 30도 정도로 작년보다 기온이 15도 가량 높다. 이달 우리나라 전국 평균기온도 영상 3도로 평년(1991~2020년·30년 평균)값인 2.1도 보다 0.9도 높은 상황이다.&lt;br&gt;&lt;br&gt;오는 21일 동지(冬至)를 기점으로 일조량이 줄면서 추위의 강도는 점차 세질 것으로 예상된다. 크리스마스 이브인 24일과 당일인 25일 최저기온이 영하 10도까지 떨어지며 춥겠고, 최고기온도 1~9도에 머물겠다. 이달 말까지는 찬 바람이 따뜻한 서해상을 통과하며 눈구름대가 만들어져 곳곳에 약한 눈도 내리겠다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[속보] 헌재 “尹 탄핵심판 첫 변론준비기일, 12월 27일”</title>
-      <link>https://www.chosun.com/national/court_law/2024/12/16/2BI742KT45FHVPB2VFNJL4KPZQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/16/2BI742KT45FHVPB2VFNJL4KPZQ/</guid>
-      <dc:creator>박강현 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 16 Dec 2024 05:04:21 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AQDXFWYBXFHGZIDRZFJK233MTU.png"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
