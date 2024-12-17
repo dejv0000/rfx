@@ -6,6 +6,16 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>[판결] 직장 동료 스토킹 후 보복 살인...대법, 징역 30년 확정</title>
+			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/thumb/180/203832.jpg" alt="203832.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;직장 동료를 스토킹한 끝에 보복 목적으로 살인을 저지른 혐의로 기소된 사건에게 대법원은 징역 30년을 선고한 원심 판결을 확정했다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;대법원 형사3부(주심&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="3987"&gt;신숙희&amp;nbsp;&lt;/span&gt;대법관)는 11월 20일 살인 혐의 등으로 기소된 A 씨에서 징역 30년과 전자발찌 부착 명령 등을 선고한 원심 판결을 확정했다(&lt;b&gt;2024도11749&lt;/b&gt;).&lt;br /&gt;&lt;br /&gt;&lt;b&gt;[사실 관계]&lt;/b&gt;&lt;br /&gt;A 씨는 직장 동료였던 B 씨와 약 1년간 교제하다가 헤어진 뒤 2023년 6월부터 7월까지 총 7차례에 걸쳐 B 씨의 주거지를 찾아가는 등 스토킹 행위를 반복했다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;2023년 6월 10일 인천지방법원은 A 씨에게 8월 9일까지 B 씨에 대한 접근금지 및 통신금지 명령을 포함한 잠정조치를 내렸다. 그러나 A 씨는 이를 무시하고 스토킹을 계속했으며 B 씨가 경찰에 자신을 신고한 사실이 직장에 소문나자 보복하기 위해 흉기를 구매했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;2023년 7월 17일 A 씨는 인터넷에서 구매한 회칼을 숨긴 채 B 씨의 아파트 앞에서 기다렸다. 출근을 위해 집을 나선 B 씨를 발견한 A 씨는 흉기를 휘둘러 B 씨를 살해했고, 비명을 듣고 집 밖으로 나온 B 씨의 어머니에게도 흉기를 휘둘러 상해를 입혔다.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;[법원 판단]&lt;/b&gt;&lt;br /&gt;1심 A 씨에게 징역 25년을 선고하며 스토킹 치료프로그램 120시간 이수, 위치추적 전자장치 부착 10년 명령을 내렸다.&lt;/p&gt;&lt;p&gt;&amp;nbsp; &lt;br /&gt;재판부는 "A 씨의 범행이 단순한 우발적 살인이 아닌 경찰 신고에 따른 보복의 목적에서 이루어진 계획적 범행"이라며 "범행 수법은 매우 잔인하며 사회적 해악이 크다"고 판단했다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;2심에서는 형량이 더 높아져 A 씨에게 징역 30년을 선고했다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;재판부는 "A 씨가 반성의 태도를 보이지 않고 피해 회복을 위한 실질적인 노력을 기울이지 않았다"며 "재범의 위험성이 높아 보이고, 피해자와 가족이 느꼈을 공포와 고통은 헤아릴 수 없다"고 설명했다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;대법원은 상고를 기각하며 2심 판결을 확정했다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;재판부는 "A 씨의 범행 동기, 수단과 결과, 범행 후의 정황 등 기록에 나타난 양형의 조건이 되는 여러 가지 사정들을 살펴보면 2심이 징역 30년 등을 선고한 것이 부당하다고 할 수 없다"고 밝혔다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
+			<pubDate>Tue, 17 Dec 2024 04:13:37 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/203832</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/203832</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/203832.jpg</media:thumbnail>
+			<dc:creator>이순규 기자</dc:creator>
+		</item>
+		<item>
 			<title>헌재, 윤 대통령에 탄핵 심판 답변서 요청…절차 본격 시작</title>
 			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 801px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/203847.jpg" alt="203847.jpg" style="width: 100%; height: auto;" /&gt;      &lt;figcaption class="cheditor-caption-text" style="text-align: center; margin: 10px; font-size: 14px; line-height: 1.6em;"&gt;출근하는 헌법재판관들 《사진=연합뉴스》&lt;/figcaption&gt;   &lt;/figure&gt;   &lt;/div&gt;&lt;p style="text-align: left; "&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;헌법재판소가 윤석열 대통령에게 오는 23일까지 국회가 소추한 탄핵심판 사건에 관한 답변서를 제출하라고 요청했다.&lt;br /&gt;&lt;/p&gt;&lt;p style="text-align: center;"&gt;   &lt;br /&gt;&lt;/p&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="1549"&gt;김형두&lt;/span&gt;(59·사법연수원 19기) 헌법재판관은 17일 오전 서울 종로구 재동 헌재로 출근하면서 취재진의 관련 질의에 "탄핵심판 의결서가 도착했다는 통지를 하면서 답변서를 제출하라는 의례적인 문구가 있다"며 "전날(16일) 오전 바로 (발송)했다"고 밝혔다. 이어 "(기한은) 7일"이라고 말했다.&lt;br /&gt;&lt;br /&gt;헌법재판소법 제29조는 청구서 또는 보정 서면을 송달받은 피청구인이 헌재에 답변서를 제출할 수 있도록 규정한다. 답변서에는 심판청구의 취지와 이유에 대응하는 답변을 적을 수 있다.&lt;br /&gt;&lt;br /&gt;윤 대통령 측이 답변서를 제출하면 헌재는 국회의 탄핵소추 의결서와 윤 대통령의 답변서를 바탕으로 양쪽의 주장을 검토한다.&lt;br /&gt;&lt;br /&gt;김 재판관은 '(내년) 4월 안으로 결정이 가능하냐'는 질문에 "그건 해봐야 안다"고 답변했다.&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="1143"&gt;문형배&lt;/span&gt;(59·18기) 헌재소장 권한대행과&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="8841"&gt;이미선&lt;/span&gt;(54·26기) 재판관의 임기는 내년 4월까지이다.&lt;br /&gt;&lt;br /&gt;앞서 헌재는 16일 재판관회의를 통해 "이 사건을 탄핵 심판 사건 중 최우선으로 심리한다"고 의견을 모았다.&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
 			<pubDate>Tue, 17 Dec 2024 02:12:00 -0000</pubDate>
@@ -230,16 +240,6 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/203807</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/203807.jpg</media:thumbnail>
 			<dc:creator>우빈 기자</dc:creator>
-		</item>
-		<item>
-			<title>새변, '청년 영향력 보여준 탄핵소추안 가결 환영' 성명 발표</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;p style="text-align: center;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/203805.jpg" alt="187663.jpg" /&gt;   &lt;/p&gt;&lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;새로운미래를위한청년변호사모임(이사장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="117"&gt;백대용&lt;/span&gt;, 새변)은 윤석열 대통령의 탄핵소추안이 국회 본회의에서 가결돼 환영한다는 내용의 성명을 14일 발표했다.&lt;br /&gt;&lt;br /&gt;새변은 성명에서 "이번 탄핵소추안 가결에는 K-시위 문화가 큰 영향을 미쳤다"며 "야외 콘서트를 연상하게 하는 아이돌 응원봉 시위, 커피와 식사 선결제 릴레이 등 동 세대 청년들이 위법 계엄에 대해 저항하는 방식은 평화적이면서도 높은 정치참여의식과 시민의식을 보여주기 충분했다"고 밝혔다.&lt;br /&gt;&lt;br /&gt;이어 "새변은 앞으로 헌법재판소의 결정과 선고를 지켜보겠으며 청년의 여론이 반영될 수 있도록 지속적으로 목소리를 내겠다"고 말했다.&lt;br /&gt;&lt;br /&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="117"&gt;백대용&lt;/span&gt;(50·사법연수원 31기) 이사장은 "계엄 정국의 정치적 불안정성이 탄핵으로 인해 헌법적·법적 안정성을 되찾고 대한민국의 경제가 다시 부흥할 수 있는 기반이 마련됐으면 한다"고 말했다.&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="39999"&gt;송지은&lt;/span&gt;(39·변호사시험 3회) 새변 공동대표도 "한국이 조속히 안정화되길 바란다"고 전했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
-			<pubDate>Sun, 15 Dec 2024 06:43:48 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/203805</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/203805</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/203805.jpg</media:thumbnail>
-			<dc:creator>안현 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
