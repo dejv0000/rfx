@@ -6,6 +6,56 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>헌재 새 사무차장에 김용호 전 기획조정실장</title>
+			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/203877.jpg" alt="203877.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;문형배 헌법재판소장 권한대행은 17일 김용호(59) 전 기획조정실장을 18일자로 사무차장에 임명했다.&lt;p&gt;   &lt;br /&gt;   &lt;p&gt;김 신임 사무차장은 서울대 경제학과를 졸업하고 동 대학원에서 행정학 석사 학위를 취득했다. 제37회 행정고시에 합격한 뒤 1994년 통상산업부를 시작으로 재정경제부, 기획예산처 등에서 근무했다. 미국 메사추세츠대 파견 이후 기획예산처 재정운용협력과장, 고용환경예산과장, 기업환경과장, 신성장정책과장 등을 지냈다. 2010년 9월에는 대통령실 파견 근무를 했으며 2011년 12월 3급 승진 후 기획재정부 민영화과장, 재무경영과장, 인재경영과장, 제도기획과장을 역임했다. 2018년 2월부터 헌재 기획조정실장(관리관)을 지냈으며 올해 2월부터 사무차장 직무대리로 활동했다.&lt;/p&gt;   &lt;p&gt;&lt;br /&gt;사무차장은 사무처장을 보좌해 헌재 사무처 사무를 관리·감독하는 역할을 하는 정무직 차관급 자리다.&lt;/p&gt;&lt;/p&gt;</description>
+			<pubDate>Tue, 17 Dec 2024 10:00:44 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/203877</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/203877</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/203877.jpg</media:thumbnail>
+			<dc:creator>한수현 기자</dc:creator>
+		</item>
+		<item>
+			<title>금태섭 변호사, "압도적 경험으로 와닿는 변화 만들겠다" 17일 변협회장 후보 등록</title>
+			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/thumb/180/203863.jpg" alt="203863.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;   &lt;span style="font-weight: bold;" class="lawmanlink" serial="3789"&gt;금태섭&lt;/span&gt;(57·사법연수원 24기) 변호사가 17일 제53대 변협회장 선거 후보 등록을 마쳤다.&lt;br /&gt;&lt;br /&gt;2013년 변협회장 선거가 직선제로 전환된 이후, 국회의원 출신 변호사가 후보로 나선 것은 이번이 처음이다.&lt;br /&gt;&lt;br /&gt;금 변호사는 후보 등록에 앞서 "변호사 단체가 그동안 이렇다 할 성과 없이 회원 징계와 내부 다툼에만 몰두해 왔다"며 "그사이 네트워크 로펌의 시장교란 행위는 고스란히 방치돼 법조 시장이 붕괴됐다"고 지적했다. 이어 "국민은 물론 회원들로부터 잊혀가는 위기의 변협을 바꾸고 회원에게 실질적 성과를 보여주겠다"고 출마 포부를 밝혔다.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/thumb/180/203863.jpg" alt="203863_2.jpg" /&gt;&lt;/p&gt;&lt;br /&gt;그의 주요 공약으로는 △임기 내 숙원 입법 통과 △새로운 법률시장 창출 △네트워크 로펌의 시장교란행위 근절 △청년변호사 지원 강화 △강한 변협의 실현 및 제도적 개선 등이 있다.&lt;br /&gt;&lt;br /&gt;금 변호사는 오는 23일 오후 5시 서울 서초구 서초동 남계빌딩에서 선거 사무소 개소식을 열 예정이다.&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
+			<pubDate>Tue, 17 Dec 2024 07:35:20 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/203863</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/203863</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/203863.jpg</media:thumbnail>
+			<dc:creator>안현 기자</dc:creator>
+		</item>
+		<item>
+			<title>박성재 법무부장관, 탄핵 심판 변호인에 대구고 후배 김재훈 변호사 선임</title>
+			<description>&lt;p style="text-align: center;"&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/thumb/180/203860.jpg" alt="203860.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;   &lt;span style="font-weight: bold;" class="lawmanlink" serial="1239"&gt;박성재&lt;/span&gt;(61·사법연수원 17기) 법무부장관이 자신의 탄핵 심판 변호인으로 고교 후배인&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="2206"&gt;김재훈&lt;/span&gt;(55·24기) 변호사를 선임했다. &lt;br /&gt;&lt;br /&gt;김재훈 변호사는 박 장관과 같은 대구고 출신으로 최근 채모 상병 사망 사건과 관련해 이종섭 전 국방부 장관의 법률대리인을 맡은 바 있다.&lt;br /&gt;&lt;br /&gt;1992년 제34회 사법시험에 합격한 김 변호사는 해군법무관을 시작으로 서울지검, 대구지검 상주지청, 대구지검, 대구지검 김천지청, 법무부 법무심의관실, 서울남부지검 등을 거쳤다. 이후 서울남부지검 부부장검사, 국가경쟁력강화위원회, 대구지검 공판부장·공안부장, 대검 법죄정보2담당관, 서울중앙지검 공판2부장·형사7부장 등을 지내고 서울고검 검사, 춘천지검 부장검사, 부산지검 제1차장검사 등 검찰 내 주요 보직을 두루 역임했다. 2018년 3월 변호사로 개업했다.&lt;br /&gt;&lt;br /&gt;박성재 법무부장관은 대구고, 고려대를 졸업하고 1985년 제27회 사법시험에 합격했다. 그의 탄핵소추안은 12일 국회 본회의를 통과한 바 있다.&lt;/p&gt;</description>
+			<pubDate>Tue, 17 Dec 2024 07:29:54 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/203860</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/203860</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/203860.jpg</media:thumbnail>
+			<dc:creator>안현 기자</dc:creator>
+		</item>
+		<item>
+			<title>한국민사법학회, 제9회 대학원생 논문경연대회 시상식 성료</title>
+			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/thumb/180/203849.jpg" alt="203849.jpg" /&gt;&lt;/p&gt;&lt;p style="text-align: left;"&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;한국민사법학회(회장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="2358"&gt;김재형&lt;/span&gt;)는 14일 서울 동대문구 경희대 법학전문대학원에서 제9회 대학원생 논문경연대회 시상식을 개최했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp; &lt;br /&gt;이날 '광장논문상(최우수상)'은 '일실수입 산정 과정에서 경험칙의 활용과 손해배상제도의 개선 방안'을 주제로 논문을 작성한 이정민 씨(서울대 로스쿨)가 수상했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp; &lt;br /&gt;우수상은 '채권자취소권 조문의 개정 방향성에 대한 소고'를 발표한 최도영 씨(전남대 로스쿨)와 '인격권 명문화의 필요성과 기대효과'를 주제로 논문을 공동 발표한 '김경현·김동녹·김수진 팀(이화여대 로스쿨)'에게 돌아갔다.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/thumb/180/203849.jpg" alt="203849_2.jpg" /&gt;&lt;/p&gt;&lt;br /&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="2358"&gt;김재형&lt;/span&gt;(59·사법연수원 18기) 회장은 시상식에서 학문후속세대 양성의 중요성을 강조하며, 지속적으로 대회를 후원해 온 법무법인 광장에 깊은 감사의 뜻을 전했다.&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp; &lt;br /&gt;시상식에 참석한&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="4369"&gt;송평근&lt;/span&gt;(58·19기) 광장 대표변호사는 수상자들과 직접 인사를 나누며 "앞으로도 법학 발전을 이끌어 갈 우수한 연구자들의 노고를 응원한다"고 격려했다.&lt;br /&gt;&lt;br /&gt;한국민사법학회는 2016년부터 매년 대학원생 논문경연대회를 개최해 법학 연구의 질적 향상과 우수한 연구자의 발굴에 힘써왔다.&lt;/p&gt;</description>
+			<pubDate>Tue, 17 Dec 2024 07:22:27 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/203849</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/203849</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/203849.jpg</media:thumbnail>
+			<dc:creator>이순규 기자</dc:creator>
+		</item>
+		<item>
+			<title>[단독] 헌법재판관 후보자 3인 "대통령 탄핵 심판, 공개 변론 여는 것이 타당"</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 801px;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/203866.jpg" alt="203866.jpg" style="width: 100%; height: auto;" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;헌법재판소 대심판정에서 열린 공개 변론 모습 《사진=연합뉴스》&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;윤석열 대통령의 탄핵 심판과 관련해 헌법재판관 후보자 3명이 모두 공개 변론을 여는 것이 타당하다는 뜻을 밝힌 것으로 확인됐다.&lt;br /&gt;&lt;br /&gt;17일 헌법재판관 후보자 국회 인사청문특별위원회 소속 더불어민주당&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="1795"&gt;김한규&lt;/span&gt;(50·사법연수원 31기) 의원이&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="6021"&gt;조한창&lt;/span&gt;(59·18기),&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="6928"&gt;정계선&lt;/span&gt;(55·27기),&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="1379"&gt;마은혁&lt;/span&gt;(61·29기) 헌법재판관 후보자로부터 받은 의견서에 따르면 이들은 "국민의 알 권리 보장과 재판절차의 투명성을 높이는 차원에서 원칙적으로 공개 변론을 여는 것이 타당하다고 생각한다"고 밝혔다. &lt;br /&gt;&lt;br /&gt;조 후보자는 "대통령 탄핵심판은 특별한 사정이 없는 한 공개 변론을 여는 것이 타당할 것이나, 구체적인 탄핵심판에서의 공개 변론 여부는 위 조항들을 토대로 재판부에서 결정할 사항이라고 생각한다"고 전했다. &lt;br /&gt;&lt;br /&gt;정 후보자는 "헌법재판소법에 따르면 심판의 변론은 공개하여야 하나, 국가의 안전보장, 안녕질서 또는 선량한 풍속을 해칠 우려가 있는 경우에는 결정으로 공개하지 아니할 수 있다"며 "다만 국민의 알 권리 보장과 재판절차의 투명성을 높이는 차원에서 원칙적으로는 공개 변론을 여는 것이 타당하다고 생각한다"고 답했다.&lt;br /&gt;&lt;br /&gt;마 후보자는 "대통령 탄핵심판도 헌법재판의 하나이고, 국민적 관심이 집중되는 사건이므로 국가 안전보장 등 예외적인 사유가 있지 않은 이상 공개를 원칙으로 하는 것이 타당하다"고 덧붙였다.&lt;br /&gt;&lt;br /&gt;아울러 이날 오후 윤석열 대통령 측&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="5974"&gt;석동현&lt;/span&gt;(64·15기) 변호사는 법무법인 동진 사무실에서 기자들과 만나 "윤 대통령이 (탄핵 심판 공개 변론이 열리면) 당연히 법정에 서서 당당하게 소신껏 입장을 피력할 것" 이라고 밝힌 바 있다. &lt;br /&gt;&lt;br /&gt;한편 후보자들은 의견서를 통해 대통령경호처의 대통령실에 대한 압수수색 방해 행위가 명백한 공무집행 방해에 해당한다고 밝혔다. &lt;br /&gt;&lt;br /&gt;'대통령 경호처의 대통령실에 대한 압수수색 방해 행위는 헌법상 규정된 영장제도를 침탈하는 행위인가'에 대해서 묻는 질문에 특히 마 후보자는 "수사기관이 법관에 의하여 발부된 압수·수색 영장을 적법하게 집행하였다면 이를 방해하는 행위는 공무집행방해에 해당한다"고 답했다.&lt;br /&gt;&lt;br /&gt;조 후보자는 "형사소송법 제110조 또는 제111조가 정한 요건을 충족하는 경우에는 압수가 허용되지 않을 수 있다"면서도 "법원에 의하여 적법하게 발부된 압수수색 영장의 집행이 위법하게 방해될 수는 없다고 생각한다"고 강조했다. &lt;br /&gt;&lt;br /&gt;형사소송법 제110조는 군사상 비밀이 필요한 장소에 대해 책임자의 승낙 없이는 압수나 수색을 할 수 없다고 규정하고 있다. 제111조는 공무원 또는 전직 공무원이 소지하거나 보관하는 물건이 직무상 비밀에 해당한다고 신고한 경우 소속 공무소나 해당 감독관청의 승낙 없이 이를 압수할 수 없다고 명시하고 있다.&lt;br /&gt;&lt;br /&gt;또한 윤 대통령이 지난 12일 대국민 담화에서 제기한 4월 총선 '부정선거 의혹'을 두고는 후보자 모두 사실이 아니라는 의견을 밝혔다. 정 후보자와 조 후보자는 "구체적 증거가 없는 것으로 알고 있다"고 답했다.&lt;br /&gt;&lt;br /&gt;국민의힘이 추천한 마 후보자 역시 "제22대 국회의원 선거 및 제20대 대통령 선거와 관련하여 다수의 선거무효 내지 당선무효 소송이 제기되었으나 모두 법원에서 기각되었고, 이 과정에서 부정선거 의혹이 구체적으로 증명된 바는 없는 것으로 알고 있다"며 부정선거 의혹에 선을 그었다.&lt;br /&gt;&lt;br /&gt;후보자들은 '대통령 또는 권한대행이 헌법재판관을 임명하지 않을 수 있다는 우려가 나온다'는 질의에는"국회가 추천하는 헌법재판관 임명은 거부하지 않는 게 바람직하다"는 취지로 답했다. &lt;br /&gt;&lt;br /&gt;특히 민주당 추천 몫의 정 후보자는 '임명 거부가 위헌적인 행동으로 볼 수 있느냐'는 질문에 "재판관 3인의 실질적인 임명 권한은 국회에 있다"며 "대통령의 자의적인 임명권 불행사로 인하여 재판관 공석이 생긴다면 국민의 주관적 권리보호 측면에서뿐만 아니라 헌법재판의 객관적 성격의 측면에서도 심각한 문제가 발생하므로 위헌의 소지가 있다"고 답했다. &lt;br /&gt;&lt;/p&gt;</description>
+			<pubDate>Tue, 17 Dec 2024 07:14:09 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/203866</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/203866</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/203866.jpg</media:thumbnail>
+			<dc:creator>김지현 기자</dc:creator>
+		</item>
+		<item>
 			<title>공조본, 대통령실 경호처 압수수색...'비화폰' 확보 시도</title>
 			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 801px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/203852.jpg" alt="203852.jpg" style="width: 100%; height: auto;" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;출석요구서를 전달하는 공조수사본부(공조본) 《사진=연합뉴스》&lt;/figcaption&gt;   &lt;/figure&gt;&lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;12·3 비상계엄 사태를 수사하는 공조수사본부(공조본)가 대통령실 경내에 있는 경호처 서버에 대한 압수수색에 나섰다.&lt;br /&gt;&lt;br /&gt;공조본은 17일 오전 대통령실 경호처 서버에 대한 압수수색을 진행하고 있다고 밝혔다. 이번 압수수색은 조지호 경찰청장의 비화폰(불법 도·감청 방지 기능을 갖춘 전화) 통화내역 등을 확보하기 위한 것으로 전해졌다. &lt;br /&gt;&lt;br /&gt;앞서 경찰청 국가수사본부 비상계엄 특별수사단은 조지호 경찰청장의 비화폰을 압수수색을 통해 확보했지만, 통화 내역이 기록된 서버 위치는 확인하지 못한 것으로 알려졌다. &lt;br /&gt;&lt;br /&gt;전날인 16일 공조본은 윤석열 대통령에게 출석요구서를 전달하려 대통령실과 한남동 관저를 찾았으나 전달에 실패했다. 대통령이 직무 정지된 상태로 대통령비서실과 경호처가 소관 업무가 아니라며 수령을 거부한 탓이다. 공조본은 관저로 보낸 출석요구서는 '수취거부'로 반송됐다고 이날 밝혔다. 용산 대통령실 총무비서관실에 발송한 출석요구서는 '미배달' 처리됐다.&lt;br /&gt;&lt;br /&gt;앞서 경찰은 11일 서울 용산 대통령실에 대한 압수수색을 시도했지만 불발됐다. 경찰은 경호처로부터 극히 일부 자료만 임의제출 받았다.&lt;br /&gt;</description>
 			<pubDate>Tue, 17 Dec 2024 05:36:12 -0000</pubDate>
@@ -192,55 +242,6 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/203834</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/203834.jpg</media:thumbnail>
 			<dc:creator>우빈 기자</dc:creator>
-		</item>
-		<item>
-			<title>검찰 특수본, 윤석열 대통령에 2차 소환통보...공조본도 18일 출석 통보</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 801px;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/203831.jpg" alt="203831.jpg" style="width: 100%; height: auto;" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;《사진=연합뉴스》&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;12·3 사태를 수사하는 검찰과 경찰·고위공직자범죄수사처(공수처)가 윤석열 대통령에 대해 각각 소환을 통보했다.&lt;br /&gt;&lt;br /&gt;16일 법조에 따르면, 검찰 비상계엄 특별수사본부(본부장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="1054"&gt;박세현&amp;nbsp;&lt;/span&gt;서울고검장)는 이날 윤 대통령에 피의자 신분으로 서울중앙지검에 출석해 조사받으라고 2차 통보했다. 윤 대통령이 1차 소환통보에 불응한 데 따른 것이다.&lt;br /&gt;&lt;br /&gt;앞서 11일 검찰은 윤 대통령에게 15일 오전 10시에 출석해 조사를 받으라고 요청했다. 윤 대통령 측은 변호사 선임을 완료하지 않았다는 이유로 출석에 불응한 것으로 전해졌다. 윤 대통령은 내란 및 직권남용권리행사방해 혐의로 고발당했다.&lt;br /&gt;&lt;br /&gt;비상계엄 공조수사본부(공조본)도 윤석열 대통령에 18일 피의자 신분으로 출석해 조사를 받으라고 16일 통보했다.&lt;br /&gt;&lt;br /&gt;경찰청 국가수사본부, 공수처, 국방부 조사본부로 꾸려진 공조본은 이날 대통령실을 직접 방문해 윤석열 대통령에게 출석요구서를 전달하려고 했으나 불발됐다. 대통령이 직무 정지된 상태로 대통령비서실과, 경호처가 모두 소관 업무가 아니라며 수령을 거부한 탓이다.&lt;br /&gt;&lt;br /&gt;공조본 측은 윤 대통령에게 출석요구서를 우편으로도 발송해 전달에는 문제가 없다는 입장을 밝혔다. 공조본은 윤 대통령에게 18일 오전 10시 정부 과천청사에 위치한 공수처 청사로 출석할 것을 요청했다. 공수처 검사 명의로 작성된 출석요구서에는 윤 대통령의 혐의로 내란 우두머리(수괴)와 직권남용권리행사방해가 적시된 것으로 전해졌다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
-			<pubDate>Mon, 16 Dec 2024 07:05:25 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/203831</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/203831</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/203831.jpg</media:thumbnail>
-			<dc:creator>임현경 기자</dc:creator>
-		</item>
-		<item>
-			<title>[단독] 출산휴가 중인 국선전담변호사도 보수 받는다</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/203826.jpg" alt="203826.jpg" /&gt;&lt;/p&gt;   &lt;br /&gt;&lt;/div&gt;&lt;p&gt;국선전담변호사들이 출산휴가 중에도 월 보수를 전액 지급받을 수 있는 제도가 신설됐다. 법원행정처(처장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="5602"&gt;천대엽&lt;/span&gt;)는 국선전담변호사의 모성 보호와 처우 개선을 위해 '국선변호에 관한 예규'를 개정하고, 13일부터 시행에 들어갔다고 16일 밝혔다.&lt;br /&gt;&lt;br /&gt;이번 개정된 예규는 출산휴가 중 보수 지급과 같은 모성 보호 강화는 물론, 행정업무 효율성 제고와 사무실 운영비 체계 정비를 통해 국선전담변호사의 근무 환경을 전반적으로 개선하기 위한 조치로 마련됐다.&lt;br /&gt;&lt;br /&gt;출산을 이유로 업무를 중지한 국선전담변호사에게 출산 전후 90일 동안 월 보수를 전액 지급하도록 했다(&lt;b&gt;제21조의4&lt;/b&gt;). 업무중지 기간이 월의 첫날부터 말일까지 전월(全月)인 경우에는 월 보수 전액을, 일부 기간인 경우에는 소정근로일수를 기준으로 일할 계산하여 지급한다. &lt;br /&gt;&lt;br /&gt;출산휴가 관련 개선과 함께, 각 법원과 지원별로 대표 국선전담변호사를 지정하는 제도도 새롭게 마련됐다(&lt;b&gt;제21조의3&lt;/b&gt;). 대표 국선전담변호사는 국선전담변호사들의 행정 업무를 일원화하고, 사무실 운영을 총괄하며 안정적인 업무 승계를 지원하게 된다. &lt;br /&gt;&lt;br /&gt;국선전담변호사가 업무를 중지하거나 사임한 경우에도 사무실 운영비를 대표 국선전담변호사에게 지급하도록 운영비 체계도 개선됐다(&lt;b&gt;제21조의6&lt;/b&gt;). 운영비는 사무실 유지 및 경비로 사용되며, 복직하거나 후임 변호사가 위촉될 경우 운영비 지급이 자연스럽게 전환되도록 해 안정적인 운영을 보장한다.&lt;br /&gt;&lt;br /&gt;법원행정처 관계자는 "이번 개정은 국선전담변호사의 처우를 개선하고 업무 환경을 안정적으로 지원함으로써 형사사법 절차의 공정성을 높이고 궁극적으로 질 높은 국선변호서비스를 제공하기 위한 것"이라고 밝혔다.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;이진영 기자 ljy0@lawtimes.co.kr&lt;/b&gt;&lt;/p&gt;&lt;p&gt;   &lt;b&gt;임현경 기자&amp;nbsp;hylim@lawtimes.co.kr&lt;/b&gt;&lt;/p&gt;</description>
-			<pubDate>Mon, 16 Dec 2024 06:45:23 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/203826</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/203826</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/203826.jpg</media:thumbnail>
-			<dc:creator>이진영 기자</dc:creator>
-		</item>
-		<item>
-			<title>헌재, 윤 대통령 탄핵심판 첫 변론준비기일 27일 진행</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 801px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/203827.jpg" alt="203827.jpg" style="width: 100%; height: auto;" /&gt;      &lt;figcaption class="cheditor-caption-text" style="text-align: center; margin: 10px; font-size: 14px; line-height: 1.6em;"&gt;《사진=연합뉴스》&lt;/figcaption&gt;   &lt;/figure&gt;   &lt;/div&gt;&lt;p style="text-align: left; "&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;헌법재판소가 윤석열 대통령 탄핵 심판 사건의 첫 변론준비기일을 오는 27일 오후 2시에 연다. 변론준비기일을 진행할 수명재판관으로&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="8841"&gt;이미선&lt;/span&gt;,&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="6232"&gt;정형식&amp;nbsp;&lt;/span&gt;재판관이 지정됐다. 주심은 정형식 재판관이다.&lt;br /&gt;&lt;br /&gt;헌재는 16일 오전 재판관회의를 열고 이 같은 내용을 결정했다.&lt;br /&gt;&lt;br /&gt;먼저 헌재는 이 사건을 변론준비절차에 회부하기로 했다. 수명재판관으로 지정된 이미선, 정형식 재판관은 증거조사 등 변론준비 절차를 담당한다.&lt;br /&gt;&lt;br /&gt;첫 변론준비기일은 12월 27일 금요일 오후 2시에 열린다. 헌재는 변론준비기일에서 검찰과 경찰 등 수사기관의 수사 기록을 조기에 확보할 방침이다.&lt;br /&gt;&lt;br /&gt;헌재는 "피청구인인 윤 대통령에게 접수통지와 답변서 요청은 진행 중"이라고 설명했다.&lt;br /&gt;&lt;br /&gt;또한 선임헌법연구관을 팀장으로 한 태스크포스(TF)를 구성했다고 밝혔다. 이 TF에는 10명 안팎의 헌법연구관이 투입됐다. 전체 66명 규모인 헌법연구관 중 6분의1가량이 투입된 것이다.&lt;br /&gt;&lt;br /&gt;아울러 이 사건을 탄핵 심판 사건 중 최우선으로 심리하기로 했다. 다만 이달 17일과 18일로 각각 예정된 최재해 감사원장,&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="8022"&gt;이창수&amp;nbsp;&lt;/span&gt;서울중앙지검장 등에 대한 탄핵 심판 사건의 변론준비기일은 그대로 진행한다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
-			<pubDate>Mon, 16 Dec 2024 05:56:25 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/203827</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/203827</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/203827.jpg</media:thumbnail>
-			<dc:creator>한수현 기자</dc:creator>
-		</item>
-		<item>
-			<title>안병희 변호사, 변협회장 후보 등록</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 801px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/203813.jpg" alt="203813_2.jpg" style="width: 100%; height: auto;" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;안병희 한국미래변호사회장&lt;/figcaption&gt;   &lt;/figure&gt;&lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;   &lt;span style="font-weight: bold;" class="lawmanlink" serial="3093"&gt;안병희&lt;/span&gt;(62·군법무관시험 7회) 한국미래변호사회장이 16일 오전 대한변호사협회 선거관리위원회 사무국에 제53대 변협회장 선거 후보 등록을 마쳤다.&lt;br /&gt;&lt;/p&gt;&lt;p style="text-align: left;"&gt;   &lt;br /&gt;&lt;/p&gt;안 후보는 출마의 변을 통해 "현재 변협 집행부는 회원들의 권익 보호는 뒷전이고, 미래에 대한 비전도 찾아볼 수 없다"며 "갈라진 회원들의 총의를 모으고 신뢰받는 강력한 협회를 만들겠다"고 강조했다.&lt;br /&gt;&lt;br /&gt;이어 "협회장을 발판으로 정치하려는 사람, 정치를 하다가 쉬어가는 사람을 위한 자리가 아니다"며 "정치적 중립성을 지키며 회원들을 위해 진정으로 일할 사람을 선택해야 한다"고 말했다.&lt;br /&gt;&lt;p style="text-align: left;"&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/thumb/180/203813.jpg" alt="203813.jpg" style="text-align: center;" /&gt;&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;안 후보는 "껍데기는 가라. 안병희가 왔다"라는 슬로건 아래 △네트워크펌 규제 △법률보험 제도 도입 △변호사와 의뢰인 간 비밀보장권(ACP) 보장 △외감법인 법무감사제도 도입 △청년변호사 기본소득 보장을 위한 사법지원센터 설립 △상고심 변호사 의무주의 도입 △징벌적 손해배상제도 확대 등 주요 공약을 내세웠다.&lt;br /&gt;&lt;br /&gt;마지막으로 그는 "협회 발전을 이끌 경험과 경륜을 갖춘 적임자는 오직 자신뿐"이라며 "압도적인 승리로 협회 발전에 기여하겠다"고 밝혔다.&lt;br /&gt;&lt;br /&gt;안 후보는 10년간 군법무관으로 근무한 뒤 1997년부터 서초동에서 변호사로 활동하며 개인정보보호위원회 위원, 스폰서검사 특별검사보, 대한법률구조공단 이사, 대한상사중재원 중재인, 대한변호사협회 총회 부의장 등을 역임했다. 현재는 법무법인 한중의 대표변호사로 재직 중이다.&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
-			<pubDate>Mon, 16 Dec 2024 04:08:13 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/203813</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/203813</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/203813.jpg</media:thumbnail>
-			<dc:creator>이진영 기자</dc:creator>
-		</item>
-		<item>
-			<title>【오늘의 법조】 2024년 12월 16일</title>
-			<description>&lt;b&gt;&lt;/b&gt;&lt;p style="text-align: center;"&gt;   &lt;b&gt;[법원]&lt;/b&gt;&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;b&gt;▷'특정범죄가중처벌등에관한법률위반(뇌물) 등 혐의' 대장동 개발사업 관련 유동규 전 성남도시개발공사 기획본부장 외 4명 159차 공판&lt;/b&gt;&lt;br /&gt;-오전 10시, 서울중앙지법&lt;br /&gt;&lt;br /&gt;&lt;b&gt;▷'국가정보원법위반 등 혐의' 정의용 전 통일부장관 외 3명 28차 공판&lt;/b&gt;&lt;br /&gt;-오전 10시, 서울중앙지법&lt;br /&gt;&lt;br /&gt;&lt;b&gt;▷'허위공문서 작성 등 혐의' 이규원 조국혁신당 대변인&lt;/b&gt;&lt;br /&gt;-오후 3시 30분, 서울중앙지법&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;hr style="border-width: 2px 0px 0px; border-color: lightgray;" /&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;b&gt;   &lt;p style="text-align: center;"&gt;      &lt;b&gt;[오늘의 PICK]&lt;/b&gt;   &lt;/p&gt;   &lt;p&gt;      &lt;br /&gt;   &lt;/p&gt;   ▷대법원 전합, 19일 '조건부 정기상여금 통상임금성' 사건 등 4건 선고&lt;/b&gt;&lt;br /&gt;조건부 정기상여금이 통상임금에 포함되는지를 다룬 대법원 전원합의체(전합) 사건 두 건이 19일 선고된다. 오랜 기간 재계의 관심이 집중된 판결인 만큼, 판단 결과에 따라 기업의 부담이 크게 달라져 파장이 클 것으로 보인다.&lt;br /&gt;&lt;br /&gt;&lt;p style="text-align: center;"&gt;&amp;nbsp;&lt;/p&gt;&lt;p style="text-align: center;"&gt;   &lt;a href="https://www.lawtimes.co.kr/news/203673" target="_blank"&gt;&lt;/a&gt;&lt;a href="https://www.lawtimes.co.kr/news/203753" target="_blank"&gt;&lt;span style="color: #994c00; background-color: #ffe5cc;"&gt;&lt;b&gt;☞ 기사보기 ☜&lt;/b&gt;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;p style="text-align: center;"&gt;&amp;nbsp;&lt;/p&gt;&lt;p style="text-align: center;"&gt;&amp;nbsp;&lt;/p&gt;&lt;hr style="border-right: 0px dashed lightgray; border-bottom: 0px dashed lightgray; border-left: 0px dashed lightgray; border-top-style: dashed; border-top-color: lightgray;" /&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;b&gt;▷법원, '재판 지연 해소' 위한 사법보좌관제도 발전 추진단 설치&lt;/b&gt;&lt;br /&gt;재판 지연 해소를 위해 법원 사무국장이 경매 등 업무를 직접 담당하면서 사법보좌관을 겸하고 있는 가운데, 사법보좌관 제도의 효율적인 추진을 위해 법원행정처에 관련 추진단이 꾸려진다. 추진단은 사법보좌관 제도의 발전 계획을 세우고, 관련 연구를 분석·평가할 예정이다. 단장은 법관 또는 2급 이상 고위 법원공무원이, 부단장은 4급 이상 법원공무원이 맡는다.&lt;br /&gt;&lt;br /&gt;&lt;p style="text-align: center;"&gt;&amp;nbsp;&lt;/p&gt;&lt;p style="text-align: center;"&gt;   &lt;a href="https://www.lawtimes.co.kr/news/203748" target="_blank"&gt;&lt;/a&gt;&lt;a href="https://www.lawtimes.co.kr/news/203748" target="_blank"&gt;&lt;span style="color: #994c00; background-color: #ffe5cc;"&gt;&lt;b&gt;☞ 기사보기 ☜&lt;/b&gt;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;p style="text-align: center;"&gt;   &lt;br /&gt;&lt;/p&gt;</description>
-			<pubDate>Sun, 15 Dec 2024 22:38:38 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/203790</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/203790</guid>
-			<dc:creator>인터넷 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
