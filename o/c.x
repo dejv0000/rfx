@@ -13,6 +13,37 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>﻿“정보사라 기밀” 남자인 것 빼고 다 속인 남편의 최후 </title>
+      <link>https://www.chosun.com/national/national_general/2024/12/19/IIIWVXVSGVCVPKT6RNJW6ZI7RI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/19/IIIWVXVSGVCVPKT6RNJW6ZI7RI/</guid>
+      <dc:creator>이가영 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 18 Dec 2024 22:58:41 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JJNDZINF3FFXFIM6Y5QCZH76QA.png"&gt;&lt;figcaption&gt;&lt;small&gt;결혼식 자료 사진. 사진은 기사와 직접적인 관련이 없음. /게티이미지뱅크&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2년간 사귄 후 아이가 태어나 혼인신고를 한지 한 달도 되지 않아 내 남편의 모든 것이 거짓이라는 걸 알게 됐다. 이 결혼의 끝은 어떻게 됐을까.  &lt;br&gt;&lt;br&gt;19일 대한법률구조공단에 따르면 대구가정법원 경주지원은 아내 A씨가 남편 B씨를 상대로 제기한 혼인 취소 소송에서 “원‧피고 사이의 혼인을 취소한다”고 판결했다. &lt;br&gt;&lt;br&gt;A씨는 2021년 2월 리니지 모바일게임을 하다가 B씨를 알게 됐다. B씨는 자신의 이름만 알려줬다. 국군 특수부대 정보사 출신이기에 다른 정보는 알려줄 수 없다고 했다. 심지어 얼굴이 노출되어서도 안 되고, 본인 명의 통장도 개설할 수 없는 등 모든 것이 기밀이라고 했다. &lt;br&gt;&lt;br&gt;하지만, 2년간의 교제를 이어가며 A씨는 B씨에 대해 많은 것을 알게 됐다. 생일과 하는 일처럼 기본적인 것은 물론이고, 부모님이 돌아가셨다는 등 가정환경도 파악했다. 두 사람은 2023년 1월부터는 동거를 시작했다. 그해 6월 아이가 태어나면서 혼인신고도 이뤄졌다. A씨가 병원에 있는 동안 B씨는 출생신고와 혼인신고를 도맡았다. &lt;br&gt;&lt;br&gt;아이가 태어난 지 불과 2주 후, A씨는 우연히 남편의 기존 휴대전화와 연결된 클라우드에 저장된 사진을 보게 됐다. 알고 보니 B씨의 이름과 나이, 정보사 근무 경력 모두 거짓이었다. 심지어 초혼도 아니었고 다른 자녀도 있었다. 부모의 생존 여부도 거짓말이었다. &lt;br&gt;&lt;br&gt;충격받은 A씨는 그다음 날 아이를 데리고 친정집으로 가서 다시는 돌아가지 않았다. 그리고 B씨를 향한 법적 조치를 시작했다. &lt;br&gt;&lt;br&gt;우선, 임신 기간에 상습적으로 폭력을 행사한 B씨를 폭행 혐의로 고소했다. 또 A씨 몰래 명의를 도용해 대출받은 사실도 알게 되어 사문서위조 혐의로도 고소했다. &lt;br&gt;&lt;br&gt;B씨는 정체가 드러난 후 A씨가 고소하자 잠적했다. 결국 지명수배자 신세가 되어 경찰에 붙잡혔고, 지난 2월 징역 2년형을 선고받고 복역 중이다. &lt;br&gt;&lt;br&gt;A씨는 여기서 멈추지 않았다. 혼인 취소 처분을 받고, 아이의 친권 및 양육권을 단독으로 받기 위해 법률구조공단을 찾았다. &lt;br&gt;&lt;br&gt;교도소에서 혼인 취소에 관한 소장을 송달받은 B씨는 법정에 출석해 “내 아이가 아니라 A씨가 다른 남자와 바람을 피워 낳은 자식”이라고 주장했다. A씨는 또 한 번 마음의 상처를 받았다. 유전자 검사 결과 B씨의 자녀가 맞았다. 하지만 유전자 감정을 하느라 재판 절차는 더뎌질 수밖에 없었다. &lt;br&gt;&lt;br&gt;그렇게 소송한 지 1년여가 흐른 지난 10월 재판부는 “B씨가 자신의 직업, 부모 여부, 초혼 여부, 자녀 유무, 경력, 재력 등에 대해 거짓말하는 것을 알았다면 A씨는 혼인하지 않았을 것”이라며 혼인 취소를 판결했다. 또한 자녀의 복리를 위해 친권자 및 양육자로 A씨를 지정했다. &lt;br&gt;&lt;br&gt;소송을 진행한 공단 소속 유현경 변호사는 “사기 결혼의 경우 기망당한 피해자가 겪는 심적인 고통, 가족 관계로 엮인 데서 오는 법적 불이익, 재산상 손해 등 피해가 매우 크다”며 “사기 결혼은 기망한 사람의 잘못이지 피해자의 잘못이 아니다. 자신의 신분 관계를 제대로 정리하고 피해를 회복하기 위해 적극적으로 대처할 필요가 있다”고 했다. &lt;br&gt;&lt;br&gt;현재 공단은 A씨 자녀의 성씨와 본을 변경하는 심판 청구도 대리하고 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>경찰, 노상원 前 정보사령관 구속영장 신청…내란 혐의</title>
+      <link>https://www.chosun.com/national/incident/2024/12/17/ICYKQFKESZBN5F4RLQJRZRX46Y/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/12/17/ICYKQFKESZBN5F4RLQJRZRX46Y/</guid>
+      <dc:creator>안준현 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 17 Dec 2024 01:01:38 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3ACM65QQ7UGMMFLGECMJBM3KXM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서대문구 경찰청 국가수사본부. /정두용 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘12·3 비상계엄’을 수사 중인 경찰청 국가수사본부 특별수사단이 박근혜 정권 시절 정보사령관을 지낸 노상원 전 정보사령관에게 내란 등 혐의로 구속영장을 신청했다고 17일 밝혔다.&lt;br&gt;&lt;br&gt;경찰은 “노씨가 김용현 전 국방부장관, 정보사 측 관계자들과 함께 계엄 관련 사전 논의를 한 정황을 확인했다”고 했다.&lt;br&gt;&lt;br&gt;이와 함께 문상호 정보사령관에 대한 신속한 신병처리와 수사를 위해 이날 오전 9시 30분쯤 사건을 공수처에 이첩했다고 밝혔다.&lt;br&gt;&lt;br&gt;한편 경찰은 지난 15일 문상호·노상원 전현직 정보사령관들을 내란 혐의 등으로 긴급체포했으나 16일 검찰이 이를 불승인했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/3ACM65QQ7UGMMFLGECMJBM3KXM.jpg?width=3326&amp;height=2280&amp;auth=8a4d7d4770670793e6056b45eda0faab58c5722c5ff5d93477fa6d1450ebce9d&amp;smart=true" type="image/jpeg" height="2280" width="3326">
+        <media:description type="plain">서울 서대문구 경찰청 국가수사본부. /정두용 기자</media:description>
+        <media:credit role="author" scheme="urn:ebu">정두용 기자</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>[매일매일 중국어 한마디] (비)틀다, 돌리다</title>
+      <link>https://www.chosun.com/national/nie/chinese/2024/12/18/5U5FUCQX6BENNBSM5C5HM5P6ZQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese/2024/12/18/5U5FUCQX6BENNBSM5C5HM5P6ZQ/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Tue, 17 Dec 2024 15:40:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4DWR2FKI2JFRPC2AY5DXJNPRG4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>점점 쪼그라드는 민노총… 작년 조합원 1만3000명 줄어</title>
       <link>https://www.chosun.com/national/labor/2024/12/19/PDVWQJMMGJEGFINVATZ5VTVK74/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/labor/2024/12/19/PDVWQJMMGJEGFINVATZ5VTVK74/</guid>
@@ -630,15 +661,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/54FTUISTLZDHJELX6W5GW5V5XU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;동거녀를 폭행한 후 경찰에게 분리조치되자 동거녀 부친을 찾아가 흉기로 살해한 40대 남성이 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;경북 상주경찰서는 살인 등 혐의로 A(42)씨를 긴급체포했다고 18일 밝혔다. A씨는 이날 오전 3시 45분쯤 상주시 중덕동 한 주택가에서 동거녀 B(42)씨의 부친(63)을 흉기로 살해하고 모친(64)에게 부상을 입힌 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;A씨는 전날 B씨를 폭행했고 B씨의 신고로 경찰이 출동했다. 경찰은 A씨와 B씨를 분리 조치해 B씨를 지인의 거주지에 머물게 했다. 그러나 A씨는 B씨가 친가에 머물고 있을 것으로 추측하고 차를 몰아 B씨의 부모가 거주하는 주택가를 찾았다.&lt;br&gt;&lt;br&gt;A씨가 B씨 친가 근처에 도착하자 때마침 해당 주택에서 B씨의 부모가 나와 차에 타고 있었다. 새벽에 식당으로 출근하는 아내를 남편이 태워주려던 순간이었다. A씨는 차량 옆으로 다가가 열려진 창문 너머로 “B씨 부모 맞느냐, B씨 어디 있느냐”고 물었고, B씨 부모는 “내 딸 이름이 맞는데, 당신은 누구냐”고 답했다. 그 뒤에 A씨가 흉기로 이들을 공격했다.&lt;br&gt;&lt;br&gt;이후 B씨 부모는 병원으로 옮겨졌다. B씨의 아버지는 숨졌고 B씨의 어머니는 생명엔 지장이 없는 상태다.&lt;br&gt;&lt;br&gt;A씨는 범행 직후 경북 문경 지인 집으로 도주한 뒤, 경찰에 전화로 범행을 자백했다. 이후 출동한 경찰이 A씨를 긴급체포했다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “정확한 범행 경위 등을 조사한 뒤 구속 영장을 신청할 방침”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>흥국생명 외국인 코치, 경기 도중 조롱? 상대 팀 감독의 황당 표정</title>
-      <link>https://www.chosun.com/national/people/2024/12/18/ALVYHGCGFRALDB2NLRZLZVQVC4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/12/18/ALVYHGCGFRALDB2NLRZLZVQVC4/</guid>
-      <dc:creator>이가영 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 18 Dec 2024 04:59:40 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IPEWL6GG3ZAW5ILZ42BTCVCLRI.png"&gt;&lt;figcaption&gt;&lt;small&gt;17일 인천 삼산월드체육관에서 열린 프로배구 V리그 여자부 경기 도중 흥국생명의 다니엘레 투리노 수석코치(왼쪽)가 조롱하는 듯한 제스처를 취하자 고희진 정관장 감독이 황당하다는 듯한 표정을 짓고 있다. /한국배구연맹&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;프로배구 흥국생명의 다니엘레 투리노 수석코치가 경기 중 상대 팀 지도자를 향해 조롱하는 듯한 행위를 해 논란이 일고 있다.&lt;br&gt;&lt;br&gt;17일 인천 삼산월드체육관에서 열린 2024-2025 프로배구 V리그 여자부 정관장과 흥국생명의 경기는 매우 치열했다. 프로배구 여자부 한 시즌 최다 연승 타이기록인 15연승에 도전한 흥국생명은 심판 판정에 예민한 모습을 보였다. 4연승을 달리던 정관장도 애매한 판정이 나올 때마다 적극적으로 항의하며 대응했다.&lt;br&gt;&lt;br&gt;2세트 14대 16으로 정관장이 앞선 상황, 흥국생명 이고은이 올린 공이 상대 코트로 넘어가자 심판진은 이고은에게 후위 공격자 반칙을 선언했다. 후위에 위치한 이고은이 전위에서 점프해 공을 상대에게 공을 넘긴 것으로 본 것이다.&lt;br&gt;&lt;br&gt;비디오판독까지 이어졌지만 결국 반칙이 선언됐다. 마르첼로 아본단자 흥국생명 감독이 격렬하게 항의했지만 결과는 바뀌지 않았다. 아본단자 감독은 한참 동안 항의하다 옐로카드까지 받았다.&lt;br&gt;&lt;br&gt;논란의 장면은 이후에 나왔다. 흥국생명이 19대 17로 앞선 상황에서 정관장은 작전 타임을 불렀다. 이때 흥국생명의 다니엘레 수석코치가 정관장 선수단이 있는 쪽으로 달려 나와 뒷짐을 지고 엉덩이를 쭉 뺀 상태에서 정관장 고희진 감독을 향해 어떤 말을 내뱉었다.&lt;br&gt;&lt;br&gt;이를 발견한 흥국생명 스태프 한 명은 급하게 다니엘레 코치를 제지했고, 고희진 감독은 심판진에게 이를 어필했다. 고 감독이 황당해하는 표정을 짓는 장면이 방송 카메라를 통해 포착됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CG3V3NCZNVGAHCNGI2AL5Y4PWY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;흥국생명 다니엘레 투리노 수석코치가 정관장 선수단 쪽으로 달려와 어떤 말을 한 후 고희진 정관장 감독이 황당하다는 듯한 표정을 짓고 있다. /한국배구연맹&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;코치가 상대 감독에게 다가가 직접 어필하는 건 이례적인 상황으로, 조롱 논란이 불거졌다. 이날 경기를 중계하던 차상현 SBS 스포츠 해설위원은 “지도자라면 심판 판정에 불만이 있을 수 있고, 어필할 수도 있다”며 “그러나 상대 팀 감독에게 저런 행동을 하면 안 된다”고 지적했다.&lt;br&gt;&lt;br&gt;이날 경기는 정관장이 세트 점수 3대 1로 승리했다. 승리 기자회견에서 함박웃음을 짓던 고 감독은 당시 상황에 관한 질문이 나오자 표정이 굳었다. 그는 “당황스러웠다”며 “흥국생명에서 알아서 해야 할 일”이라고 말했다. 이어 “그런 일은 발생하면 안 된다”며 “경기는 코치가 아닌 선수들이 해야 한다. 코치는 선수들이 경기를 잘할 수 있도록, 선수들이 빛날 수 있도록 해줘야 한다”고 했다.&lt;br&gt;&lt;br&gt;흥국생명은 사과했다. 흥국생명 측은 “앞서 이고은의 반칙 선언 등 경기가 과열된 상황에서 다니엘레 코치도 흥분했던 것 같다”며 “구단은 다니엘레 코치에게 경고했고, 다니엘레 코치도 잘못된 행동을 했다며 재발 방지를 약속했다”고 밝혔다. 이어 “흥국생명은 정관장 구단과 고희진 감독에게도 사과하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>오세훈 “계엄 반대하지만 이재명 수용 못하는 국민께 희망 드려야”</title>
       <link>https://www.chosun.com/national/regional/seoul/2024/12/18/354WX64EU5D7DEHZH6Y66KJCBM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/seoul/2024/12/18/354WX64EU5D7DEHZH6Y66KJCBM/</guid>
@@ -875,24 +897,6 @@
       <description/>
       <pubDate>Tue, 17 Dec 2024 15:55:02 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DX7DT2UJNFDMJPQORIUSCU3RNY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;‘대장동’ 재판 출석하는 이재명 - 이재명 더불어민주당 대표가 17일 서울중앙지방법원에서 열린 ‘대장동 배임 및 성남FC 뇌물 의혹’ 관련 60차 공판에 출석하고 있다. /장련성 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이재명 더불어민주당 대표의 ‘쌍방울 불법 대북 송금’ 사건 재판이 중단됐다. 이 대표가 ‘법관 기피 신청’을 냈기 때문이다. 법조계에서는 “재판이 2~3개월은 더 지연될 것”이라는 전망이 나온다.&lt;br&gt;&lt;br&gt;17일 법조계에 따르면, 이 대표 사건을 맡은 수원지법 형사11부(재판장 신진우)는 이날 이 대표의 기피 신청을 기각하지 않고 다른 재판부에 넘겨 검토하기로 했다. 기피 신청은 해당 재판부에 내는데 재판부는 바로 기각할 수도 있고 다른 재판부에 넘겨 검토하게 할 수도 있다. 그 기간만큼 재판은 중단된다.&lt;br&gt;&lt;br&gt;수원지법은 조만간 이 대표의 기피 신청을 검토할 별도 재판부를 지정할 예정이다. 이 재판부가 기피 신청을 기각하면 이 대표는 형사11부에서 계속 재판을 받아야 한다. 인용하면 제3의 재판부가 이 대표 사건을 맡게 된다. 이 대표가 기각 결정에 불복하면 수원고법과 대법원까지 거쳐야 최종 결론이 나온다.&lt;br&gt;&lt;br&gt;같은 사건의 공범인 이화영 전 경기도 평화부지사도 법관 기피 신청을 냈었는데 당시 대법원이 최종 기각 결정을 내리기까지 약 70일간 재판이 멈췄다.&lt;br&gt;&lt;br&gt;이 대표는 지난 6월 기소됐으나 재판부는 7개월째 재판 준비 절차만 진행하고 있다. 이 대표 측이 “기록을 다 검토하지 못했다”며 재판을 미뤄왔기 때문이다.&lt;br&gt;&lt;br&gt;이 대표의 공직선거법 위반 사건도 지연되고 있다. 이 대표가 법원이 보낸 소송 서류를 수령하지 않아서다. 서울고법은 지난 9일과 11일 이 대표에게 잇따라 소송 기록 접수 통지서를 보냈으나 전달되지 않았다. 이 대표는 변호인도 선임하지 않아 변호인에게 대신 전달할 수도 없다. 결국 법원은 이날 이 대표에게 ‘국선변호인 선정 고지서’를 발송했다. 필요하면 국선변호인이라도 신청하라는 뜻이다. 서울중앙지법은 이 대표에게 항소장 접수 통지서가 송달되지 않자 법원 게시판에 통지서를 공개하는 ‘공시 송달’을 하기로 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[스피킹이 강해지는 영어] time-consuming</title>
-      <link>https://www.chosun.com/national/nie/english/2024/12/18/L3TZ7OU7AFBZXINHXM3SFAZDYQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/english/2024/12/18/L3TZ7OU7AFBZXINHXM3SFAZDYQ/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Tue, 17 Dec 2024 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DMORGLMONZFDZJJ3UWZPDGVC4Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[두근두근 뇌 운동] [2525] 날씨 따라 삼천리</title>
-      <link>https://www.chosun.com/national/nie/2024/12/18/ITYEI2VTZBHCNBBOQ36XUYS2E4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/12/18/ITYEI2VTZBHCNBBOQ36XUYS2E4/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Tue, 17 Dec 2024 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/K2KTCSQD5VEV5CJLFB23VHFIDA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>38층서 추락한 근로자, 기적적으로 생존...그 이유는 </title>
