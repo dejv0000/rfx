@@ -13,6 +13,51 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>동거녀 부친 살해한 남성 긴급체포… 폭행, 분리조치 후 범행</title>
+      <link>https://www.chosun.com/national/incident/2024/12/18/X2YZMQG4ZRE6XPCNWZQ4GU4WUI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/12/18/X2YZMQG4ZRE6XPCNWZQ4GU4WUI/</guid>
+      <dc:creator>이승규 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 18 Dec 2024 05:09:53 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/54FTUISTLZDHJELX6W5GW5V5XU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;동거녀를 폭행한 후 경찰에게 분리조치되자 동거녀 부친을 찾아가 흉기로 살해한 40대 남성이 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;경북 상주경찰서는 살인 등 혐의로 A(42)씨를 긴급체포했다고 18일 밝혔다. A씨는 이날 오전 3시 45분쯤 상주시 중덕동 한 주택가에서 동거녀 B(42)씨의 부친(63)을 흉기로 살해하고 모친(64)에게 부상을 입힌 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;A씨는 전날 B씨를 폭행했고 B씨의 신고로 경찰이 출동했다. 경찰은 A씨와 B씨를 분리 조치해 B씨를 지인의 거주지에 머물게 했다. 그러나 A씨는 B씨가 친가에 머물고 있을 것으로 추측하고 차를 몰아 B씨의 부모가 거주하는 주택가를 찾았다.&lt;br&gt;&lt;br&gt;A씨가 B씨 친가 근처에 도착하자 때마침 해당 주택에서 B씨의 부모가 나와 차에 타고 있었다. 새벽에 식당으로 출근하는 아내를 남편이 태워주려던 순간이었다. A씨는 차량 옆으로 다가가 열려진 창문 너머로 “B씨 부모 맞느냐, B씨 어디 있느냐”고 물었고, B씨 부모는 “내 딸 이름이 맞는데, 당신은 누구냐”고 답했다. 그 뒤에 A씨가 흉기로 이들을 공격했다.&lt;br&gt;&lt;br&gt;이후 B씨 부모는 병원으로 옮겨졌다. B씨의 아버지는 숨졌고 B씨의 어머니는 생명엔 지장이 없는 상태다.&lt;br&gt;&lt;br&gt;A씨는 범행 직후 경북 문경 지인 집으로 도주한 뒤, 경찰에 전화로 범행을 자백했다. 이후 출동한 경찰이 A씨를 긴급체포했다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “정확한 범행 경위 등을 조사한 뒤 구속 영장을 신청할 방침”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>흥국생명 외국인 코치, 경기 도중 조롱? 상대 팀 감독의 황당 표정</title>
+      <link>https://www.chosun.com/national/people/2024/12/18/ALVYHGCGFRALDB2NLRZLZVQVC4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/12/18/ALVYHGCGFRALDB2NLRZLZVQVC4/</guid>
+      <dc:creator>이가영 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 18 Dec 2024 04:59:40 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IPEWL6GG3ZAW5ILZ42BTCVCLRI.png"&gt;&lt;figcaption&gt;&lt;small&gt;17일 인천 삼산월드체육관에서 열린 프로배구 V리그 여자부 경기 도중 흥국생명의 다니엘레 투리노 수석코치(왼쪽)가 조롱하는 듯한 제스처를 취하자 고희진 정관장 감독이 황당하다는 듯한 표정을 짓고 있다. /한국배구연맹&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;프로배구 흥국생명의 다니엘레 투리노 수석코치가 경기 중 상대 팀 지도자를 향해 조롱하는 듯한 행위를 해 논란이 일고 있다.&lt;br&gt;&lt;br&gt;17일 인천 삼산월드체육관에서 열린 2024-2025 프로배구 V리그 여자부 정관장과 흥국생명의 경기는 매우 치열했다. 프로배구 여자부 한 시즌 최다 연승 타이기록인 15연승에 도전한 흥국생명은 심판 판정에 예민한 모습을 보였다. 4연승을 달리던 정관장도 애매한 판정이 나올 때마다 적극적으로 항의하며 대응했다.&lt;br&gt;&lt;br&gt;2세트 14대 16으로 정관장이 앞선 상황, 흥국생명 이고은이 올린 공이 상대 코트로 넘어가자 심판진은 이고은에게 후위 공격자 반칙을 선언했다. 후위에 위치한 이고은이 전위에서 점프해 공을 상대에게 공을 넘긴 것으로 본 것이다.&lt;br&gt;&lt;br&gt;비디오판독까지 이어졌지만 결국 반칙이 선언됐다. 마르첼로 아본단자 흥국생명 감독이 격렬하게 항의했지만 결과는 바뀌지 않았다. 아본단자 감독은 한참 동안 항의하다 옐로카드까지 받았다.&lt;br&gt;&lt;br&gt;논란의 장면은 이후에 나왔다. 흥국생명이 19대 17로 앞선 상황에서 정관장은 작전 타임을 불렀다. 이때 흥국생명의 다니엘레 수석코치가 정관장 선수단이 있는 쪽으로 달려 나와 뒷짐을 지고 엉덩이를 쭉 뺀 상태에서 정관장 고희진 감독을 향해 어떤 말을 내뱉었다.&lt;br&gt;&lt;br&gt;이를 발견한 흥국생명 스태프 한 명은 급하게 다니엘레 코치를 제지했고, 고희진 감독은 심판진에게 이를 어필했다. 고 감독이 황당해하는 표정을 짓는 장면이 방송 카메라를 통해 포착됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CG3V3NCZNVGAHCNGI2AL5Y4PWY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;흥국생명 다니엘레 투리노 수석코치가 정관장 선수단 쪽으로 달려와 어떤 말을 한 후 고희진 정관장 감독이 황당하다는 듯한 표정을 짓고 있다. /한국배구연맹&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;코치가 상대 감독에게 다가가 직접 어필하는 건 이례적인 상황으로, 조롱 논란이 불거졌다. 이날 경기를 중계하던 차상현 SBS 스포츠 해설위원은 “지도자라면 심판 판정에 불만이 있을 수 있고, 어필할 수도 있다”며 “그러나 상대 팀 감독에게 저런 행동을 하면 안 된다”고 지적했다.&lt;br&gt;&lt;br&gt;이날 경기는 정관장이 세트 점수 3대 1로 승리했다. 승리 기자회견에서 함박웃음을 짓던 고 감독은 당시 상황에 관한 질문이 나오자 표정이 굳었다. 그는 “당황스러웠다”며 “흥국생명에서 알아서 해야 할 일”이라고 말했다. 이어 “그런 일은 발생하면 안 된다”며 “경기는 코치가 아닌 선수들이 해야 한다. 코치는 선수들이 경기를 잘할 수 있도록, 선수들이 빛날 수 있도록 해줘야 한다”고 했다.&lt;br&gt;&lt;br&gt;흥국생명은 사과했다. 흥국생명 측은 “앞서 이고은의 반칙 선언 등 경기가 과열된 상황에서 다니엘레 코치도 흥분했던 것 같다”며 “구단은 다니엘레 코치에게 경고했고, 다니엘레 코치도 잘못된 행동을 했다며 재발 방지를 약속했다”고 밝혔다. 이어 “흥국생명은 정관장 구단과 고희진 감독에게도 사과하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>오세훈 “계엄 반대하지만 이재명 수용 못하는 국민께 희망 드려야”</title>
+      <link>https://www.chosun.com/national/regional/seoul/2024/12/18/354WX64EU5D7DEHZH6Y66KJCBM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/seoul/2024/12/18/354WX64EU5D7DEHZH6Y66KJCBM/</guid>
+      <dc:creator>박진성 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 18 Dec 2024 04:56:41 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7PTEES5LE5PW5AW7W4XXLRG7ZE.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;오세훈 서울시장이 17일 서울 종로구 광화문빌딩에서 열린 제60차 대한민국시도지사협의회 총회에 참석하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;오세훈 서울시장이 “계엄에는 반대하지만 ‘대통령 이재명’도 수용할 수 없는 합리적이고 상식적인 국민이 훨씬 많다”며 “이분들께 희망을 드려야한다”고 말했다.&lt;br&gt;&lt;br&gt;오 시장은 18일 ‘자멸의 길, 회생의 길’이란 제목의 페이스북 글을 올리며 이같이 말했다.&lt;br&gt;&lt;br&gt;오 시장은 “국민의 사랑과 지지를 받지 못하는 정당은 죽은 정당”이라며 “진영의 핵심 지지층과 국민 일반 사이에서 간극이 크다면 당연히 ‘보편적 시각’과 ‘상식’을 기준삼아야 한다”고 했다.&lt;br&gt;&lt;br&gt;당에 대해서 오 시장은 “절체 절명의 갈림길에 서있다”고 했다.&lt;br&gt;&lt;br&gt;또 오 시장은 “‘확장지향적 정당’의 길로 회생을 도모할 것인가, ‘축소지향형 정당’으로 스스로 고립의 길을 걷다가 역사속에서 사라질 것인가, 국민의힘은 선택해야 한다”고 했다.&lt;br&gt;&lt;br&gt;이어 오 시장은 “국민은 ‘위기를 기회로 승화시킬 것인가’, ‘위기 속에 서서히 자멸할 것인가’를 묻고 있다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>공수처, ‘비상계엄’ 문상호 前 정보사령관 체포</title>
+      <link>https://www.chosun.com/national/court_law/2024/12/18/EWXPH52LLBHULP5TISAGGB7QEY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/18/EWXPH52LLBHULP5TISAGGB7QEY/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 18 Dec 2024 03:40:31 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FJG6OLFS3RMWXPWIBFCXWNIVOM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;문상호 국군정보사령관이 지난 10일 오후 서울 여의도 국회에서 열린 국방위원회의 긴급 현안질의에서 의원 질의에 답변하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;고위공직자범죄수사처는 18일 오후 12시 20분쯤 문상호 전 정보사령관을 체포했다고 밝혔다. 검찰이 경찰의 긴급체포 후 사후승인 요청을 받아들이지 않아 풀려난 지 2일 만이다.&lt;br&gt;&lt;br&gt;공수처 관계자는 언론공지를 통해 “경찰 국가수사본부 특별수사단으로부터 이첩 받은 문 전 사령관 사건과 관련해 체포영장을 발부받아, 국수본과 합동으로 문 전 사령관을 체포했다”고 밝혔다.&lt;br&gt;&lt;br&gt;경찰은 이번 계엄과 관련해 정보사령부가 김용현 전 국방장관의 군 내 사(私)조직 역할을 했다고 보고 있다. 김 전 장관의 비화폰 통화 내역을 분석한 결과 계엄 선포 이전부터 문 전 사령관과 수차례 통화하며 계엄을 준비시킨 정황을 포착했다는 것이다.&lt;br&gt;&lt;br&gt;계엄 당일인 3일 밤 10시 31분쯤 중앙선관위에서 서버 등 내부 장비를 촬영한 계엄군도 정보사령부 소속이었다. 특수단 관계자는 “문 전 사령관은 김 전 장관 지시로 선관위 투입에, 정보사령부 산하 북파 공작부대(HID)에 국회의원 체포조 투입을 준비시키는 등 사실상 계엄의 실무 책임자 역할을 한 것으로 보인다”고 했었다.&lt;br&gt;&lt;br&gt;경찰은 지난 15일 문 전 사령관을 긴급체포했으나, 검찰은 16일 문 전 사령관이 현역 군인 신분인 점을 고려할 때 경찰의 긴급체포는 군사법원법에 위반된다며 긴급체포를 승인하지 않았다. 법상 체포 주체가 군사경찰이나 군검찰이어야 한다는 것이다. 검찰 관계자는 “공조본에 체포 절차를 재검토하라고 한 것”이라고 했다.&lt;br&gt;&lt;br&gt;이에 경찰은 문 전 사령관 관련 사건을 공수처에 이첩했고, 공수처는 지난 17일 체포영장을 발부 받았다고 한다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>檢, ‘허위 재산 신고’ 혐의 김남국에 징역 6개월 구형</title>
+      <link>https://www.chosun.com/national/national_general/2024/12/18/FAJUDPCSGFF4PIBMJKOXQOZAPU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/18/FAJUDPCSGFF4PIBMJKOXQOZAPU/</guid>
+      <dc:creator>강지은 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 18 Dec 2024 04:08:03 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EQX4YEU24JPPFH3GE2DCVCQH4A.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;지난 10월 28일 오전 서울 양천구 남부지법에서 열리는 위계공무집행방해 혐의 관련 첫 공판 출석에 앞서 취재진의 질문에 답하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;투자 수익을 은닉하기 위해 국회 재산 신고를 허위로 한 혐의를 받는 더불어민주당 김남국(42) 전 의원에게 검찰이 징역형을 구형했다.&lt;br&gt;&lt;br&gt;검찰은 18일 서울남부지법 형사9단독 정우용 판사 심리로 열린 김 전 의원의 결심공판에서 “김 전 의원에게 징역 6개월을 선고해달라”고 요청했다. 지난 8월 위계공무집행방해 혐의로 불구속 기소된 김 전 의원은 지난 2021년과 2022년 국회의원 재산 신고 시 가상자산 투자로 거액의 수익을 올린 사실을 숨기기 위해 재산신고 기준일(매년 12월 31일) 직전 가상자산 계정의 예치금 중 일부를 은행 예금 계좌로 송금해 재산 총액을 맞추고 나머지 예치금은 가상자산으로 변환하는 등 국회공직자윤리위원회의 재산변동내역 심사 업무를 방해한 혐의를 받는다.&lt;br&gt;&lt;br&gt;이날 재판에서 검찰은 “피고인은 자신이 보유한 코인을 신고하지 않을 목적을 가졌다”며 “국회 공직자 윤리위원회의 국회의원 재산 심사를 위계로 방해했다”고 밝혔다.&lt;br&gt;&lt;br&gt;지난 10월 열린 재판에서 김 전 의원은 “재산 신고도 공직자윤리법에서 정한 절차에 따라 신고 의무를 성실히 이행했고, 공무원 직무를 방해하려는 고의성이 없었다”며 혐의를 부인했다.&lt;br&gt;&lt;br&gt;김 전 의원은 지난해 60억원 상당의 ‘위믹스’ 코인을 비롯해 ‘마브렉스’ ‘보라’ 등 가상 화폐를 보유한 사실이 드러나 투자금 출처와 자금 사용처가 어디인지를 둘러싸고 의혹이 제기됐다. 게임 업계로부터 얻은 미공개 정보를 통해 코인을 저점 매수해 수익을 얻는 방식으로 불공정 거래를 했다거나, 국회 상임위 등 의정 활동 도중 거래를 했다는 논란도 일었다. 다만 검찰은 미공개 정보 이용 의혹, 코인 매수 대금 불법 수수 의혹 등 김 전 의원의 정치자금법 위반 혐의에 대해서는 증거 불충분으로 혐의 없음 처분을 내렸다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>[속보] 검찰, 윤석열 내란 혐의 수사는 공수처로 이첩</title>
       <link>https://www.chosun.com/national/court_law/2024/12/18/IC7FBA3H3BFQTFMS22UW2LVMOE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/18/IC7FBA3H3BFQTFMS22UW2LVMOE/</guid>
@@ -730,15 +775,6 @@
       <content:encoded>낮엔 ‘ΟΟ제약 영업팀장’, 밤엔 ‘△△약품 영업실장.’&lt;br&gt;&lt;br&gt;그동안 제약 업계에선 A사 영업팀 직원이 소속사 의약품을 팔면서도 경쟁사인 B사 약품도 같이 파는 ‘양다리 영업’을 하는 것이 공공연한 비밀이었다. A사 영업팀 일을 하면서도, 모든 의약품 영업을 할 수 있는 ‘의약품 판촉영업자(CSO)’ 사업자를 내서 몰래 다른 회사의 약을 팔아 추가 소득을 올리는 경우가 많았다.&lt;br&gt;&lt;br&gt;그런데 정부가 지난 10월 19일부터 CSO 신고제를 시행하자 양다리 영업을 해온 판촉 영업자들은 직격탄을 맞았다. 관할 보건소 등에 ‘판촉 영업을 한다’고 신고하지 않고 소속사 이외 회사의 약을 팔다 걸리면 3년 이하의 징역 또는 3000만원 이하 벌금 및 과태료 처벌을 받게 되기 때문이다. 신고를 해야만 판촉 영업을 할 수 있게 된 것이다.&lt;br&gt;&lt;br&gt;유력 제약회사 관계자는 “양다리 영업을 하는 제약사 직원이 정말 많다”며 “체감상 국내 제약사 영업 사원의 최소 3분의 1은 판촉 영업 활동을 하며 다른 회사 제품을 팔 것”이라고 했다.&lt;br&gt;&lt;br&gt;지금까지는 이 CSO 활동에 대한 별다른 제약이 없었다. 신고 의무도 없다 보니, 판촉 영업자는 주로 별도 영업 조직이 없는 중소 제약업체들로부터 ‘판촉 계약’을 따낸 뒤, 이 약을 평소 알고 있는 약국과 병원 등에 넣어 판매액의 40~60%를 수수료로 받는 경우가 많았다. 또 이 수수료 중 상당액은 일부 의사들에게 리베이트로 제공된다는 의혹도 많이 제기된 바 있다.&lt;br&gt;&lt;br&gt;제약계 관계자들은 “개인사업자 등록도 하지 않고 판촉 영업 활동을 하는 경우도 많아서, 이들이 추가로 버는 수수료는 세금도 내지 않는다”고 했다.&lt;br&gt;&lt;br&gt;이로써 ‘양다리 영업’을 해온 제약사 영업 직원들은 선택의 기로에 놓였다. CSO 신고를 하고 정상 영업을 할지 아니면 신고하지 않고 불법 영업을 할지를 택해야 한다.&lt;br&gt;&lt;br&gt;제약업계 관계자들은 “신고를 할 경우, 세금 납부도 해야 하고 무엇보다 기존 소속 회사에 발각될 위험이 높아진다”고 했다. 관할 보건소에 신고를 해도 그 신고 명단은 원칙적으로 외부에 공개가 되진 않는다. 하지만 ‘정보 공개 청구’ 등이 들어오면 회사명이나 기본 정보는 제공할 가능성이 높아 ‘꼬리’가 밟힐 수 있다는 뜻이다.&lt;br&gt;&lt;br&gt;그렇다고 신고를 하지 않으면 ‘처벌의 위험’과 함께 일부 제약사에서 ‘불법 미신고 판촉 영업자’라며 수수료 지급을 거부할 수 있다. 실제 이런 일이 벌써 벌어지고 있다고 한다.&lt;br&gt;&lt;br&gt;일부 영업 직원들은 ‘샛길’을 만들기도 한다. 그동안 관련 사업자를 내지 않은 사람은 배우자나 부모 명의로 사업자를 내고 CSO 신고를 한다는 것이다.&lt;br&gt;&lt;br&gt;한 제약사 고위 관계자는 “우리회사에서 월급을 받으면서 몰래 경쟁사 약을 팔아 추가로 돈을 버는 행동은 근로계약 위반”이라며 “조만간 겸업 여부 조사를 해볼 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>우이신설선 실시협약 민투심 통과...새 사업자 선정</title>
-      <link>https://www.chosun.com/national/national_general/2024/12/17/QPPVYPRKPBEKPEGL2WRCAZCKFA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/17/QPPVYPRKPBEKPEGL2WRCAZCKFA/</guid>
-      <dc:creator>박진성 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 17 Dec 2024 04:06:52 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LQ7YEMCAVS7PKC37P6WV5ITTRE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;우이신설선 열차의 모습/연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한때 파산 위기에 몰렸던 ‘서울 제1호 경전철’ 우이신설선이 새 사업자를 선정했다. 재정 지원 방식도 바뀐다.&lt;br&gt;&lt;br&gt;서울시는 ‘우이신설선 신규 사업시행자 지정안 및 실시협약’이 지난 12일 열린 2024년 제5회 기재부 민간투자사업심의위원회 심의를 통과했다고 17일 밝혔다.&lt;br&gt;&lt;br&gt;새 사업자 우이신설도시철도㈜가 2047년까지 우이신설선을 운영하게 된다.&lt;br&gt;&lt;br&gt;2017년 9월 개통한 우이신설선은 북한산 우이동과 신설동을 잇는 도시철도로, ‘교통 소외 지역’으로 불리는 강북 일대를 운행한다.&lt;br&gt;&lt;br&gt;그러나 예측에 못 미치는 수송 인원과 높은 무임승차 비율로 적자가 누적되면서 2021년 기존 사업자였던 우이신설경전철㈜은 파산 위기에 몰렸고, 우이신설선 재구조화 논의가 시작됐다.&lt;br&gt;&lt;br&gt;우이신설선 수송 인원은 예측 수요(일평균 13만명)의 절반(58%·7만5000명) 수준이며, 무임승차 비율(36.2%)은 예측치(11.6%)의 3배 이상이다(2024년 기준).&lt;br&gt;&lt;br&gt;시는 2022년 말 기존 사업자와 실시협약 해지에 합의했으며, 작년 말 우이신설선의 안정적 운영을 위해 사업방식을 ‘최소비용 보전 방식’으로 바꿨다. 사업자의 적자분을 어느정도 메꿔주는 방식이다.&lt;br&gt;&lt;br&gt;서울시는 지급하는 관리운영비를 연 218억원에서 201억원으로 감액해 약 23년간 재정을 총 517억원가량 절감할 수 있게 됐다고 설명했다.&lt;br&gt;&lt;br&gt;또 사업시행자의 관리운영비 관리감독 방안을 구체적으로 마련함으로써 방만경영을 방지하고 책임운영을 도모하겠다고 밝혔다.&lt;br&gt;&lt;br&gt;민자경전철 최초로 성과평가를 도입해 서울형 민자철도 지표에 따라 운영성과를 평가하고 이를 관리운영비 지급 시 반영하기로 했다.&lt;br&gt;&lt;br&gt;시는 이달 안으로 신규 사업시행자와 실시협약을 체결할 예정이며 내년부터 기존-신규 사업자 간 인계인수에 돌입할 계획이다.&lt;br&gt;&lt;br&gt;윤종장 서울시 교통실장은 “이번 민투심 통과로 장기적인 운영 안정성을 확보했다”며 “우이신설선이 서울 강북 일대 ‘시민의 발’의 역할을 안정적으로 수행할 수 있도록 만전을 기하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[속보] ‘前 계엄사령관’ 박안수 육군참모총장 구속</title>
       <link>https://www.chosun.com/national/court_law/2024/12/17/EF4UQYQPBFBEDGNVTPY4KYATJE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/17/EF4UQYQPBFBEDGNVTPY4KYATJE/</guid>
@@ -746,15 +782,6 @@
       <description/>
       <pubDate>Tue, 17 Dec 2024 04:36:17 +0000</pubDate>
       <content:encoded>‘12‧3 비상계엄’ 사태 당시 계엄사령관을 맡았던 박안수 육군참모총장이 17일 구속됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/J7OB5SSNXVB5JMU4CYJMFQUVSM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 10일 오전 국회 국방위원회 전체회의에서 박안수 육군참모총장이 질문에 답변하고 있다. / 장련성 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;중앙지역군사법원은 이날 오전 박 총장의 수사기록 등을 검토한 뒤 구속영장을 발부했다. 10시부터 영장실질심사가 예정돼 있었으나, 박 총장이 심사를 앞두고 불출석 의사를 밝히면서 실질심사는 열리지 않았다.&lt;br&gt;&lt;br&gt;박 총장은 윤석열 대통령이 지난 3일 비상계엄령을 선포했을 때 비상계엄 포고령 1호를 발표하고, 조지호 경찰청장(구속)에게 국회 시설 통제를 요청했다.&lt;br&gt;&lt;br&gt;검찰 특별수사본부(본부장 박세현 서울고검장)는 내란 중요 임무 종사, 직권남용, 군형법상 반란 등의 혐의로 지난 15일 박 총장의 구속영장을 청구했다.&lt;br&gt;&lt;br&gt;검찰은 지난 10일 김용현 전 국방부 장관, 14일 여인형 전 방첩사령관, 16일 곽종근 전 특수전사령관과 이진우 전 수도방위사령관을 차례로 구속했다. 이날 박 총장의 신병까지 확보한 것이다.&lt;br&gt;&lt;br&gt;특수본은 윤 대통령에 대한 피의자 조사도 시도하고 있다. 지난 11일 윤 대통령에게 “15일 오전 10시까지 서울중앙지검에 출석하라”고 통보했으나 윤 대통령이 응하지 않았다. 16일에 2차 소환 통보를 하며 21일에 조사받을 것을 요청했다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>헌재 “尹 탄핵 6명이 할 수 있는지 논의중”</title>
-      <link>https://www.chosun.com/national/court_law/2024/12/17/M4S5JBVOVJALTAQGG2X6NUWHDU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/17/M4S5JBVOVJALTAQGG2X6NUWHDU/</guid>
-      <dc:creator>박강현 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 17 Dec 2024 02:05:32 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DKREFF6TLNN6JHLSMTABVBWZPA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;'12·3 비상계엄' 관련 윤석열 대통령 탄핵 심판을 앞둔 17일 오전 서울 종로구 헌법재판소의 모습 /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;헌법재판소는 지난 16일 윤석열 대통령 측에 보낸 탄핵심판 준비절차 기일 통지서와 출석 요구서가 송달 중이라고 17일 밝혔다. ‘6인 체제’로 탄핵심판 결정을 할 수 있는지에 대해선 “논의 중”이라고 했다.&lt;br&gt;&lt;br&gt;이진 헌재 공보관은 이날 서울 종로구 헌법재판소에서 브리핑을 열고 헌재는 출석 요구서 등을 대통령실 행정관에게 인편으로 전달했지만 접수증은 받지 못했다고 했다. 여기에 대통령비서실과 관저에 우편(등기)으로도 발송했고, 온나라 행정시스템 전자방식으로도 대통령실에 통보했다고 했다. 국회의장·법제사법위원장·법무부 장관에게 의견 요청서 등은 송달이 완료됐다고 했다.&lt;br&gt;&lt;br&gt;헌재는 오는 27일로 예정된 윤 대통령 탄핵심판 사건의 첫 변론 준비 기일 등 변론과 관련한 기일은 생중계하지 않을 방침이라고 밝혔다. 이 공보관은 “(탄핵심판) 선고와 관련해선 나중에 추후에 정해지면 말씀드리겠다”고 했다.&lt;br&gt;&lt;br&gt;또한 헌재는 현재 6명 뿐인 재판관이 윤 대통령에 대한 탄핵 여부를 결정할 수 있는지도 논의 중이라면서도, 2016~2017년 박근혜 전 대통령 탄핵 당시 황교안 대통령 권한대행(국무총리)이 헌법재판관 후보자를 임명한 사례가 있다고 했다.&lt;br&gt;&lt;br&gt;국민의힘 권성동 당대표 권한대행 겸 원내대표는 이날 “(윤석열 대통령) 탄핵안이 헌법재판소에서 인용되기 전까지는 한덕수 권한대행의 헌법재판관 임명은 불가능하다. 대통령 권한대행은 대통령 궐위 시에는 헌법재판관을 임명할 수 있지만 대통령 직무 정지 시에는 임명할 수 없다고 봐야 한다”고 했는데, 이는 인사청문회 등을 앞두고 있는 조한창·정계선·마은혁 후보자를 한덕수 대통령 권한대행(국무총리)이 임명해야 한다는 취지로 해석된다.&lt;br&gt;&lt;br&gt;헌재는 원래 재판관 9명으로 구성돼야 하지만, 지난 10월 이종석 헌재소장과 이영진·김기영 재판관이 퇴임한 후 국회 몫 후임이 임명되지 않았다. 통상 여야(與野)가 1명씩 추천하고 나머지 1명은 여야가 합의해 선출하는 게 관례였는데, 더불어민주당이 의석 수에 따라 자신들이 후임자 3명 중 2명을 추천해야 한다고 주장해 선출이 지연됐기 때문이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XRZARNZMSRNYDBIKE3FB227L7M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이진 헌법재판소 공보관이 17일 오전 서울 종로구 헌법재판소에서 '윤석열 대통령 탄핵심판 사건' 관련 언론 브리핑을 하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;아울러 헌재는 이날로 예정된 최재해 감사원장 탄핵심판 등 다른 탄핵심판 사건 심리도 중단하진 않을 것이라고 했다. 이 공보관은 “대통령 탄핵 사건을 최우선적으로 심리한다는 것이지 지금 예정된 일정 자체는 모두 소화할 것”이라고 말했다.&lt;br&gt;&lt;br&gt;이 공보관은 윤 대통령 탄핵심판 사건의 주심(主審)을 비공개 하기로 했으나 언론 보도 등을 통해 정형식 재판관이 맡기로 알려진 상황에 대해선 “재판부 전원이 다 같이 심리에 참여하고 주심은 내부 심리 정리를 담당한다. 주심이라고 해서 사건의 일정이라든지 내용에 영향을 끼치지 않는다”라며 “전원이 (함께 심판을) 한다는 취지에서 비공개로 유지하겠다는 결정을 내린 것”이라고 했다.&lt;br&gt;&lt;br&gt;헌재는 오는 19일 정기 평의(評議) 등을 진행한다고 했다. 필요하면 탄핵 사건에 관한 논의도 할 것이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>이재명 ‘대북송금 법관 기피 신청’에 검찰 “재판 지연될 것”</title>
@@ -779,15 +806,6 @@
       </media:content>
     </item>
     <item>
-      <title>尹 대통령 관저, ‘공조본 출석요구서’ 수취거부</title>
-      <link>https://www.chosun.com/national/court_law/2024/12/17/U43BEVUP2BCOTFT7BNEDGH6H5E/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/17/U43BEVUP2BCOTFT7BNEDGH6H5E/</guid>
-      <dc:creator>이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 17 Dec 2024 02:09:03 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FO66WSTOTIT2SR4ZEQ2KYJA3O4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령이 지난 7일 서울 용산 대통령실 청사 브리핑실에서 대국민담화를 발표하고 있다. / 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘12‧3 비상계엄’ 사태를 수사하는 경찰·공수처·국방부 비상계엄 공조수사본부가 윤석열 대통령 관저로 보낸 출석요구서를 관저 측에서 수취거부한 것으로 17일 확인됐다.&lt;br&gt;&lt;br&gt;윤 대통령이 머무르고 있는 관저는 공조수사본부가 지난 16일 윤 대통령 측에게 ‘오는 18일 오전 10시 정부과천청사 내 고위공직자범죄수사처 청사로 출석해 조사 받으라’며 보낸 출석요구서를 17일 수취거부한 뒤 반송 처리했다. 공조본은 대통령실 총무비서관실로도 출석요구서를 보냈는데, 이날 오전 10시 58분 기준 아직 배달 전이라고 한다. 이 출석요구서는 공수처 검사 명의로 작성됐다고 한다.&lt;br&gt;&lt;br&gt;앞서 공조본은 지난 16일 윤 대통령에게 출석요구서를 직접 전달하기 위해 서울 용산 대통령실과 한남동 관저를 직접 찾았지만, 대통령 경호처가 수령을 거부하면서 불발됐다. 공조본 관계자는 “특급 등기우편물로도 출석요구서를 발송했다”고 했다. 공수처는 출석요구서에 내란 우두머리(수괴)와 직권남용 등 윤 대통령의 범죄 혐의를 적시한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>檢, 2주 새 음주운전 2번 저지른 현직 검사에 징역형 구형</title>
       <link>https://www.chosun.com/national/national_general/2024/12/17/DAS2OFP64VAMBDGOBILUWLSA2U/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/17/DAS2OFP64VAMBDGOBILUWLSA2U/</guid>
@@ -795,15 +813,6 @@
       <description/>
       <pubDate>Tue, 17 Dec 2024 02:56:22 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XQEBYY2UWRFWPP36LNOKIFCFJI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/일러스트=조선디자인랩 정다운&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2주 새 음주운전을 2번 저질렀던 현직 검사에 대해 검찰이 징역형을 구형했다.&lt;br&gt;&lt;br&gt;서울남부지법 형사5단독 이효은 판사는 17일 오전 도로교통법 위반(음주운전·음주측정 거부) 혐의를 받는 검사 김모(37)씨에 대한 결심공판을 열었다.&lt;br&gt;&lt;br&gt;검찰은 이날 김씨에게 징역 1년 6개월형을 구형했다. 검찰은 “피고인은 경찰로부터 음주 측정을 요구 받고 도주했다”며 “이후 10여일만에 재차 음주운전을 저질러 피해를 일으켰기에 처벌이 필요하다”고 했다,&lt;br&gt;&lt;br&gt;이어 검찰은 “피고인은 공직자로서 사회 모범을 보여야 하나 단기간에 범행을 (재차) 저질렀다”며 “피고인에 대한 준엄한 법의 심판이 필요하다”고 했다.&lt;br&gt;&lt;br&gt;김씨는 최후진술에서 “정말 죄송하다”며 “자숙하면서 죄를 뉘우치고 반성하며 살겠다”고 했다.&lt;br&gt;&lt;br&gt;김씨는 지난 4월 서울 영등포구에서 음주 상태로 운전하다가 경찰에 적발된 후 음주 측정 요구를 거부한 혐의를 받는다. 약 2주 후 김씨는 서울 양천구에서 음주운전을 해 신호등을 들이받는 사고를 내기도 했다.&lt;br&gt;&lt;br&gt;김씨에 대한 선고기일은 내년 1월 23일에 열린다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>황금폰 제출 후 옥중서 민주당 박주민 의원 만난 명태균</title>
-      <link>https://www.chosun.com/national/court_law/2024/12/17/2Q3LDEB6CJCEHF46F2XLCYZFTU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/17/2Q3LDEB6CJCEHF46F2XLCYZFTU/</guid>
-      <dc:creator>창원=김준호 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 17 Dec 2024 02:32:52 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IL5ZM6VCONAVFCPGM266D4ZFJU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;17일 오전 창원교도소에서 정치 브로커 명태균씨를 접견한 더불어민주당 박주민 의원이 취재진 앞에서 입장을 밝히고 있다. /창원=김준호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;더불어민주당 박주민 의원이 17일 ‘공천 거래’ 의혹으로 구속된 정치 브로커 명태균씨를 접견했다.&lt;br&gt;&lt;br&gt;박 의원은 이날 오전 10시쯤 명씨가 구속 수감된 창원교도소에서 약 30분가량 명씨를 만났다. 박 의원은 명씨 접견 후 창원교도소 앞에 있는 취재진에게 “교도관이 참여하고, 녹음이 이뤄지는 상태에서 접견했다”면서 “본인의 현재 상황과 앞으로 있을 정치 일정에 대한 본인의 생각을 주로 많이 이야기했고, 저는 주로 들었다”고 말했다.&lt;br&gt;&lt;br&gt;명씨가 구속 전 박주민 의원에게 연락해 12월 12일 접견을 요청하게 됐느냐에 대해서는 “많은 기자분과 제가 궁금한 그 부분을 유일하게 질문했는데, 본인(명씨)이 의원 명단을 쭉 보다가 저로 그냥 정했다는 말씀을 주셨다”고 했다.&lt;br&gt;&lt;br&gt;박 의원은 “보다 구체적인 내용이나 이런 것들은 정리되면 말씀을 드리겠다”고 하면서 자리를 떠났다. 박 의원과 명씨 사이에 이날 취재진에게 공개하지 않은 대화 내용이 더 있을 것으로 추정된다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IVEX3KLBKJLC3AR4K27IMTUG5Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 8일 창원지검에서 조사를 받고 나오며 취재진 질문에 답하고 있는 명태균씨. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;앞서 명씨는 지난 12일 오후 ‘황금폰’ 등 휴대전화 3대와 USB 1대를 검찰에 제출했다. 황금폰은 명씨가 지난 2022년 3월 치러진 대선 기간을 포함해 2019년 9월부터 작년 11월까지 사용한 휴대전화로, 명씨와 윤석열 대통령 간 통화 녹음 파일이나 주고받은 문자메시지 등이 있을 것으로 검찰은 보고 디지털 포렌식을 진행 중이다.&lt;br&gt;&lt;br&gt;이 황금폰 제출 경위에 대해 명씨의 변호인인 남상권 변호사가 지난 13일 박주민 의원을 거론했다. 남 변호사는 “(명씨가) 지난달 13일 박주민 더불어민주당 의원과 통화하면서 ‘저 내일 구속된다. 구속되면 12월 12일 접견을 해달라’고 부탁했고, 박 의원이 ‘알겠다’고 약속을 했는데 약속 당일 오전에 (박 의원이) 약속을 어겼다”면서 “‘약속을 어기는 민주당을 어떻게 믿겠느냐’며 검찰에 (황금폰을) 제출하게 된 것”이라고 밝혔다. 앞서 명씨 측은 지난 2일에도 “만일 휴대전화를 가지고 있다면 검찰이 아닌 국민이나 재판부, 민주당에 제출할 수도 있다”고 밝힌 바 있다. 이에 대해 박 의원 측은 “명씨가 황금폰에 대한 이야기는 없이 ‘구속되면 면회 오세요’라는 말만 했었다”며 “약속 당일인 12월 12일 실제 접견 신청을 했고 열차표까지 예매했는데, 교도소 측에서 ‘검찰 조사 출정이 예정돼 있어 접견이 불가하다’는 통보를 받고 12월 17일로 접견 날짜를 변경했다”고 해명했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>법원, 이재명 선거법 항소장 접수 통지 공시송달 결정</title>
@@ -823,15 +832,6 @@
       <pubDate>Tue, 17 Dec 2024 01:39:30 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5XGVIS5QIBMEVE57ZLZCHNPZ44.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 20일 한 엄마와 아이가 서울시내 한 직장어린이집으로 향하고 있다. /뉴스1
 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;내년부터 육아휴직 급여 상한액이 월 150만원에서 최대 250만원으로 인상된다. 또 육아휴직으로 대체 인력을 고용한 중소기업엔 대체 인력 1명당 연간 1440만원의 지원도 주어진다.&lt;br&gt;&lt;br&gt;정부는 17일 국무회의에서 이 같은 내용을 담은 고용보험법 시행령 일부 개정안 등을 심의·의결했다고 했다고 밝혔다. 이는 지난 6월 19일 정부가 발표한 저출생 대책의 후속 조치다. 시행일은 내년 1월 1일이다.&lt;br&gt;&lt;br&gt;구체적으로 육아휴직 급여 상한액이 월 150만원에서 250만원으로 대폭 인상된다. 휴직 첫 3개월은 250만원, 다음 3개월은 200만원, 7개월째 이후는 160만원을 주는 방식이다. 이 같은 급여 인상으로 육아휴직 12개월 사용 시 전체 급여액은 1800만원에서 2310만원으로 늘어난다. 현재 육아휴직 급여 25%를 복귀 6개월 후 지급하던 것도, 내년부터 사후 지급 없이 육아휴직기간에 전액 지급하는 것으로 바뀐다.&lt;br&gt;&lt;br&gt;‘부모 함께 육아휴직제’ 사용 시 첫 달 급여 상한액과 한부모 노동자 첫 3개월 급여도 각각 250만원과 300만원으로 지금보다 50만원씩 인상된다. 부모 함께 육아휴직제 사용 부부는 1년 휴직 시 5920만원을 받게 된다.&lt;br&gt;&lt;br&gt;육아휴직 사용 방식도 개선된다. 내년부터 배우자 출산휴가를 포함해 출산휴가 신청 시 육아휴직을 함께 신청할 수 있다. 근로자가 육아휴직을 신청하면 사업주는 14일 이내에 서면으로 허용 의사를 표시해야 하고, 사업주 의사표시가 없으면 근로자가 신청한 대로 육아휴직을 사용할 수 있다. 현재 법령에는 사업주가 육아휴직을 허용해야 한다는 의무만 규정돼 있고, 절차에 관한 규정은 없는 데 이를 구체화 한 것이다.&lt;br&gt;&lt;br&gt;육아휴직을 시행한 기업에 대한 지원도 늘어난다. 육아휴직자가 발생해 대체 인력을 채용할 경우 1명당 연간 최대 1440만원을 지원한다. 현재는 직원이 출산휴가를 냈을 때나 육아기 근로 시간 단축제를 사용할 때만 대체인력 지원금을 준다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>법무부, 헌재에 ‘尹 탄핵 의견서 제출’ 검토 착수</title>
-      <link>https://www.chosun.com/national/court_law/2024/12/17/Q6KDCCABCJDTNLSRBGOWX64OGY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/17/Q6KDCCABCJDTNLSRBGOWX64OGY/</guid>
-      <dc:creator>이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 17 Dec 2024 02:22:04 +0000</pubDate>
-      <content:encoded>법무부가 윤석열 대통령의 탄핵심판 사건을 심리하는 헌법재판소에 의견서를 제출할 것을 검토 중인 것으로 17일 전해졌다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/X5EP7LL3R6B6IFGE25ZGKNJF54.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법무부 청사 전경. / 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 헌재는 지난 16일 윤 대통령의 탄핵심판 사건과 관련한 법률 검토 의견서를 법무부에 제출해달라고 요청했다. 이에 따라 법무부가 검토에 착수한 것이다.&lt;br&gt;&lt;br&gt;법무부가 의견서를 제출해야 할 의무는 없다고 한다. 다만 헌재는 법무부에 의견서 요청을 송달받은 때로부터 7일 이내에 회신해 달라고 요청한 것으로 전해졌다. 법무부가 의견서를 낼 경우 헌재 심리 과정에 참고 자료로 활용될 전망이다.&lt;br&gt;&lt;br&gt;법무부는 앞서 2016년 박근혜 전 대통령의 탄핵 심판 당시에도 헌재의 요청에 따라 40여 쪽 분량의 의견서를 제출했었다. 당시 관련 형사재판이 진행 중인 점을 고려해 사실관계의 인정 여부에 대한 의견은 제외하고, 국회 탄핵소추 발의와 의결이 적법했는지 등 요건과 절차에 대한 검토 의견만 담았다고 한다. &lt;br&gt;&lt;br&gt;윤 대통령의 경우 수사가 진행 중인 만큼 비상계엄 선포에 대한 법적 판단을 제외하고 국회의 탄핵소추안 발의 절차가 적법했는지 여부 등에 대한 내용만 담길 가능성이 높다는 게 법조계 분석이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>수도권 전철 7호선 포천 연장 사업 착수</title>
