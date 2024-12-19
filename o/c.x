@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>수면내시경 중 의식 잃은 40대, 끝내 사망…의료 과실 수사</title>
+      <link>https://www.chosun.com/national/national_general/2024/12/20/ZG6IBFQTOBD2VAF3I3ORPFWXV4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/20/ZG6IBFQTOBD2VAF3I3ORPFWXV4/</guid>
+      <dc:creator>이가영 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 19 Dec 2024 22:11:57 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3JLCSGEL7ZFLTPVWTDFNQ675SM.png"&gt;&lt;figcaption&gt;&lt;small&gt;내시경 자료사진. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;광주광역시의 한 병원에서 수면 내시경 검사를 받던 40대가 숨져 경찰이 수사에 나섰다.&lt;br&gt;&lt;br&gt;20일 광주경찰청 등에 따르면 수면내시경 검사 중이던 환자를 숨지게 한 혐의(업무상과실치사)로 광주 모 병원 의료진을 수사해 달라는 고소장이 최근 접수됐다.&lt;br&gt;&lt;br&gt;고소장에 따르면 40대 남성 A씨는 지난달 중순 해당 병원에서 위 수면내시경을 받던 중 의식불명 상태에 빠졌다. 대학병원으로 옮겨져 치료받았으나 13일 만에 숨졌다.&lt;br&gt;&lt;br&gt;경찰은 고소장 접수에 따른 수사 절차에 따라 의료진을 우선 업무상과실치사 혐의로 입건했다.&lt;br&gt;&lt;br&gt;A씨에 대한 부검 결과와 의료기록 검토, 법의학 감정 등을 거쳐 의료진의 과실 여부를 들여다볼 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>[단독] ‘건진법사’ 영장 기각... 검찰은 공천 청탁 관련자 진술 확보</title>
       <link>https://www.chosun.com/national/national_general/2024/12/20/2CH3JPJ72VGKFL35JY43FI52VY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/20/2CH3JPJ72VGKFL35JY43FI52VY/</guid>
@@ -794,15 +803,6 @@
       <description/>
       <pubDate>Thu, 19 Dec 2024 02:32:11 +0000</pubDate>
       <content:encoded>심우정 검찰총장이 ‘12·3 비상계엄’ 사태로 내란 우두머리(수괴) 혐의를 받는 윤석열 대통령 사건을 고위공직자범죄수사처(공수처)로 이첩한 것에 대해 “적법절차와 관련한 어떠한 빌미도 남기지 않아야 한다”며 전국 검사장들에게 서신을 보냈다. 검찰 특별수사본부(본부장 박세현 서울고검장)는 지난 18일 윤 대통령과 이상민 전 행안장관 사건을 공수처로 이첩했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G3JBOX6QBVIGLIEZ6PFSUNQ7C4.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;심우정 검찰총장. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;심 총장은 19일 오전 0시쯤 “검찰의 중요한 결정이니만큼 전국 검사장님들께 그 과정을 설명드리려고 한다”며 A4용지 3페이지 분량의 서신을 전국 검사장들에게 보냈다. 심 총장은 “이번 사건은 국가의 명운이 달려 있는 중대 사건으로서 그 전모를 신속하고 효율적으로 밝히는 것이 중요하다”면서도 “그것 못지않게 수사와 재판 과정에서 법과 원칙을 지키는 것도 중요하다”고 설명했다.&lt;br&gt;&lt;br&gt;현행 공수처법은 공수처가 검찰, 경찰 등 수사기관에 사건의 이첩을 요청할 경우, 검경은 해당 사건을 이첩해야 한다고 규정하고 있다. 검찰이 이에 응하지 않아 향후 재판 과정에서 문제의 소지를 남겨선 안 된다는 취지다.&lt;br&gt;&lt;br&gt;그러면서 심 총장은 “금일(18일) 협의 과정에서도 대검은 전체 이첩요청을 철회하거나 공조수사를 진행하자고 계속 설득했다”며 “공수처는 요청한 피의자들에 대한 전체 이첩을 계속 주장했다”고 밝혔다. 이어 “이와 같은 협의 과정에서 특수본 지휘부와 대검 내부의 여러 의견을 들었고, 고심 끝에 최종적으로 제가 국가적 중대사건에서 법률과 절차에 따라 논란이 없도록 하여야 한다는 판단으로 결정을 내린 것”이라고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/24RJ3NDPYFIH7PRU2BB4OZ6SMM.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;오동운 고위공직자범죄수사처장이 19일 경기 과천정부청사 공수처로 출근하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;심 총장은 “이번 사건은 역사에 기록될 것”이라며 “공수처에 이첩된 사건을 비롯해 현재 경찰에서 수사 중인 사건들은 모두 검찰에 송부되어 특수본에서 최종적인 수사와 결정을 하게 될 것”이라고 했다. 이어 “특수본의 모든 구성원들은 이 사건의 전모를 밝히기 위한 수사를 밤을 새가면서 계속 해왔다”며 “총장으로서 책임을 지고 내린 결정이지만, 고생한 후배 검사들의 마음이 어떨지 저도 같은 마음으로 짐작이 간다”고도 했다.&lt;br&gt;&lt;br&gt;앞서 이첩 결정 사실이 알려지자, 검찰 특별수사본부 내부에서는 일부 반발하는 움직임이 있었다고 한다. 특수본은 지난 11일 윤 대통령에게 출석요구서를 보낸 데 이어 16일에도 “21일까지 출석하라”고 재차 통보한 상태였기 때문이다. 검찰 한 관계자는 “수사팀은 전날까지도 윤 대통령에 대한 수사를 염두에 두고 수사를 상당 부분 진척해 왔는데 갑자기 이첩하라고 하니, 힘이 빠져 업무가 멈춰버린 분위기라고 들었다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>법원 “권태선 방문진 이사장 해임 처분 취소해야” </title>
-      <link>https://www.chosun.com/national/court_law/2024/12/19/6DKH6PZIRFHVXIRMUNC7H6FA4E/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/19/6DKH6PZIRFHVXIRMUNC7H6FA4E/</guid>
-      <dc:creator>유희곤 기자, 박강현 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 19 Dec 2024 00:53:44 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SEM4PXJVGNKUJND3VE53CBKBVA.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;권태선 방송문화진흥회 이사장이 지난 10월 14일 서울 여의도 과학기술정보방송통신위원회에서 열린 한국방송공사(KBS)·한국교육방송공사(EBS)·방송문화진흥회에 대한 국정감사에서 업무보고를 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;MBC 대주주인 방송문화진흥회 권태선 이사장에 대한 방송통신위원회(방통위)의 해임 처분을 취소하라는 법원 1심 판단이 나왔다. 권 이사장이 소송을 낸지 약 1년 4개월 만이다.&lt;br&gt;&lt;br&gt;서울행정법원 행정5부(재판장 김순열)는 19일 권 이사장이 방통위를 상대로 제기한 방문진 이사 해임 처분 취소 소송에서 원고 승소로 판결했다. 재판부는 “피고(방통위)가 2023년 8월 원고에 대해 한 해임 처분을 취소한다”고 했다. 법정에서 따로 이유를 설명하진 않았다.&lt;br&gt;&lt;br&gt;앞서 방통위는 작년 8월 권 이사장이 MBC와 관계사 경영에 대한 관리·감독 의무를 소홀히 하고, MBC 사장 선임 과정에서 검증을 부실하게 했다며 해임을 결정했다. 이에 권 이사장은 불복 소송과 함께 해임 처분 효력을 정지해달라는 집행정지 신청을 했다.&lt;br&gt;&lt;br&gt;재판부는 작년 9월 권 이사장의 집행정지 신청을 받아들였고 이후 확정됐다. 당시 재판부는 “권 이사장이 업무를 총괄하는 지위이긴 해도 이사회 심의·의결을 거친 만큼 이사 개인으로서 선량한 관리자의 주의 의무를 소홀히 했다고 보긴 어렵다”고 언급하며 권 이사장 손을 들어줬는데, 이번 판결도 이런 취지에서 내린 것으로 보인다.&lt;br&gt;&lt;br&gt;한편 권 이사장의 임기는 지난 8월 끝났지만, 권 이사장 등이 방통위를 상대로 “새 이사 임명 처분을 막아달라”며 낸 또 다른 집행정지 신청을 법원이 받아들이면서 새 이사들의 취임이 미뤄졌다.&lt;br&gt;&lt;br&gt;앞서 이진숙 방통위원장과 김태규 부위원장은 취임 첫날인 지난 7월 31일 김동률·손정미·윤길용·이우용·임무영·허익범 등 6명을 새 방문진 이사로 임명했다. 방통위법에 따르면, 방통위는 상임위원 5명으로 구성되고 2인 이상 위원의 요구가 있으면 회의를 열어 주요 결정을 내릴 수 있게 돼 있다.&lt;br&gt;&lt;br&gt;하지만 권 이사장 등은 “‘방통위 2인 체제’에서 후임 이사를 임명한 것은 위법하다”며 이사 임명 무효 소송과 함께 집행정지를 신청했다. 1·2심은 “방통위가 새 이사 임명에 관한 절차를 준수했는지 등이 충분히 소명됐다고 보기 어렵다”는 취지로 집행정지를 결정했고 현재 대법원 결정을 남겨두고 있다.&lt;br&gt;&lt;br&gt;법원에서 제동이 걸려 방통위의 차기 이사진 임명은 계속 미뤄지고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>제주 빈집 1159채…5년새 34% 늘었다</title>
