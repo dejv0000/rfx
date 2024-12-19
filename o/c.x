@@ -13,6 +13,78 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>[속보] 헌재 “尹, 19일도 탄핵심판 출석요구서 수령 거부”</title>
+      <link>https://www.chosun.com/national/court_law/2024/12/19/6TGWF2OEYBCFNCQ66T5TS3XXPQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/19/6TGWF2OEYBCFNCQ66T5TS3XXPQ/</guid>
+      <dc:creator>이슬비 기자, 유희곤 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 19 Dec 2024 05:05:10 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5NU47CMSU5IVPHLCQKB4BND7JA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;19일 서울 종로구 헌법재판소 깃발 모습 /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“우편·인편 모두 거절"&lt;br&gt;&lt;br&gt;“탄핵심판 가처분 결정 전례 없어”&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>복무 해제 앞두고…경찰, 송민호 ‘부실 근무’ 여부 내사 착수</title>
+      <link>https://www.chosun.com/national/people/2024/12/19/BWCWXL652BCIRKURM46ZK5MPZI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/12/19/BWCWXL652BCIRKURM46ZK5MPZI/</guid>
+      <dc:creator>정아임 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 19 Dec 2024 05:09:21 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NRUDACGQ2NOWXAFR3OIEV6ZRBQ.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;그룹 위너 송민호./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그룹 위너 송민호(32)의 사회복무요원 부실 근무 의혹에 대해 경찰이 입건 전 조사(내사)에 들어갔다.&lt;br&gt;&lt;br&gt;19일 서울 마포경찰서는 송민호의 상습 출근 조작 의혹을 조사해달라는 국민신문고의 민원을 접수해 내사에 착수했다.&lt;br&gt;&lt;br&gt;경찰은 송민호가 근무하는 기관의 방범 카메라(CCTV) 등을 확인할 계획인 것으로 전해졌다.&lt;br&gt;&lt;br&gt;앞서 인터넷매체 디스패치는 지난 17일 서울 마포주민편익시설에서 사회복무요원으로 대체 복무 중인 송민호가 지난 10월 31일 미국 하와이로 5박 6일 여행을 떠났다 돌아온 이후 제대로 출근하지 않았다는 의혹을 제기했다.&lt;br&gt;&lt;br&gt;매체는 ‘송민호가 3월 이후 제대로 출근하지 않는다’ ‘가끔씩 나타나 (출근) 사인을 몰아서 하고 사라진다’ 등의 제보를 토대로 11월부터 12월초까지 10차례 이상 해당 시설을 방문했으나, 단한번도 송민호를 보지 못했다고 보도했다.&lt;br&gt;&lt;br&gt;송민호의 소속사인 YG엔터테인먼트는 의혹에 대해 “아티스트 복무와 관련한 자세한 내용은 확인드리기 어렵다”며 “다만 병가와 휴가는 규정에 맞춰 사용한 것이며, 사유는 복무 전부터 받던 치료의 연장이었다”고 밝혔다.&lt;br&gt;&lt;br&gt;한편, 송민호는 작년 3월부터 사회복무요원으로 병역의 의무를 이행하기 시작했다. 오는 23일 소집 해제될 예정인 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>尹측 “기자회견까지 하는 내란 어디 있나..尹, 필요하면 직접 변론”</title>
+      <link>https://www.chosun.com/national/court_law/2024/12/19/HHHUIZRUNFBOZGO3ASU6UTFOHQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/19/HHHUIZRUNFBOZGO3ASU6UTFOHQ/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 19 Dec 2024 03:30:09 +0000</pubDate>
+      <content:encoded>윤석열 대통령 측은 19일 “윤 대통령은 내란죄에 대해선 생각해 본 적도, 동의할 수도 없다”며 “생각과 견해를 밝혀야 할 절차가 있다면 직접 할 의지가 있다”고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OPEQNM6KMTHVF6EST765ZU7LWM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;석동현 전 민주평화통일자문회의 사무처장. / 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤 대통령 측 변호인단 구성에 관여하는 석동현 변호사는 이날 오전 자신의 사무실에서 외신 기자회견을 열고 이같이 말했다. 석 변호사는 “절차와 입장 부분은 대통령과 변호인 구성이 끝나면 다시 분명하게 하겠다”고 했다.&lt;br&gt;&lt;br&gt;석 변호사는 “전 세계에 전파될 기자회견을 통해 ‘나 내란 합니다’하는 내란이 어디 있느냐”며 “윤 대통령은 법률가다. (정치인들) 체포 명령을 왜 하겠는가. 윤 대통령은 (당시 상황을) 국가비상사태로 본 것”이라고 했다. 지난 3일 비상계엄령 포고령을 선포하기 전 대국민담화를 먼저 방송한 것을 가리킨 것으로 보인다.&lt;br&gt;&lt;br&gt;석 변호사는 최근 검찰, 고위공직자범죄수사처의 소환 통보 거부, 헌법재판소의 답변서 요청 미송달 등 논란, 향후 법정 출석에 대해선 “머지않은 시기 가동될 변호팀, 혹은 윤 대통령이 직접 밝힐 것”이라며 “변호인 구성과 별개로 어떤 단계에 이르러 필요하다고 생각되면 윤 대통령이 직접 (변론에) 나설 것”이라고 말했다.&lt;br&gt;&lt;br&gt;석 변호사는 “윤 대통령은 지금 생활하는 관저에서 여러 가지를 준비, 생각하며 구상을 하고 있는 것으로 알고 있다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[속보] 법원 “남영진 前 KBS 이사장 해임 처분 취소해야”</title>
+      <link>https://www.chosun.com/national/court_law/2024/12/19/JBKL5AVDARHNPK4FOGYDXRHNM4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/19/JBKL5AVDARHNPK4FOGYDXRHNM4/</guid>
+      <dc:creator>박강현 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 19 Dec 2024 05:08:05 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7XQEWMZNAJGTDK66P33X47OZYM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;남영진 전 KBS 이사장. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>김호연 빙그레 회장 부부, 적십자사에 1억원씩 기부</title>
+      <link>https://www.chosun.com/national/people/2024/12/19/JVPQKCAHMBHUVJYOSG7TJ2Q6BY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/12/19/JVPQKCAHMBHUVJYOSG7TJ2Q6BY/</guid>
+      <dc:creator>김승범 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 19 Dec 2024 05:01:40 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WB33MX6Y5BAKJE2NQUM535ZLUU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김호연 빙그레 회장&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대한적십자사는 김호연 빙그레 회장이 배우자인 김미 백범김구기념관장과 함께 1억원 이상 기부자 모임인 ‘레드크로스 아너스클럽(Red Cross Honors Club)’에 가입했다고 19일 밝혔다. 김 회장 부부는 복지 사각지대에 놓인 취약계층 위기 가정을 지원하기 위해 대한적십자사에 각각 1억원을 기부했다.&lt;br&gt;&lt;br&gt;김 회장은 “부부가 나란히 가입하게 돼 뜻깊고, 경제적으로 어려움을 겪는 이웃에게 작게나마 기쁨과 즐거운 웃음을 드리고 싶다”고 기부소감을 밝혔다. 레드크로스 아너스클럽 회원은 총 285명이다. 부부 동반 가입은 김 회장 부부가 21번째다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>동해 ‘대왕고래’ 시추 오늘 첫 굴착…어민이 해상시위 나선 이유</title>
+      <link>https://www.chosun.com/national/regional/2024/12/19/S5TLMVD2SJFBHCIKGFWKDQO4XQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/12/19/S5TLMVD2SJFBHCIKGFWKDQO4XQ/</guid>
+      <dc:creator>포항=권광순 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 19 Dec 2024 04:29:55 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NBO5YWZS4DTVOKATD2SLTRQOXM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;동해 심해 가스·석유전 개발 사업인 ‘대왕고래’를 진행할 시추선 웨스트 카펠라호가 19일 경북 포항시 구룡포 앞바다에서 시추 준비를 하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경북 포항 앞바다에 석유와 가스가 묻혀 있는지 확인할 시추 작업이 본격화됐지만 탄핵 정국에 예산 삭감, 어민들의 반대 등으로 시작부터 난항이다.&lt;br&gt;&lt;br&gt;19일 포항시와 한국석유공사에 따르면 ‘대왕고래 프로젝트’ 시추선인 웨스트 카펠라호가 지난 16일 부산외항을 떠나 17일 오전 포항 동쪽 40km 떨어진 ‘대왕고래’ 해상에 정박 중이다.&lt;br&gt;&lt;br&gt;카펠라호는 이날 현장 해역에서 첫 탐사시추를 위한 작업에 나섰다. 시추는 수심 1.2km 아래 해저면을 2km가량 뚫고 들어가 시료를 채취하는 작업이다. 이후 두 달간 시료를 채취한 뒤 내년 상반기쯤 1차 시추 결과를 공개할 예정이다.&lt;br&gt;&lt;br&gt;한국석유공사 관계자는 “정확한 시추 위치 포지셔닝을 위한 작업과 현장 인력들과 함께 사전 시추 준비 작업을 진행하고 있다”며 “다만 현지 기상 상황에 따라 일정이 조금 늦춰질 가능성도 있다”고 말했다.&lt;br&gt;&lt;br&gt;하지만 이 사업은 탄핵 정국과 맞물려 예산 대부분이 삭감됐다. 야당은 내년도 사업 예산을 98% 삭감한 상황이다. 총 4차례 예정된 시추엔 석유공사가 자체 예산으로 1차 시추 비용 1000억원을 마련했지만 추가 예산 확보는 불투명한 상태다.&lt;br&gt;&lt;br&gt;여기에다 어민들의 반발도 거세다. 시추 해역 일대의 홍게잡이 어민들은 시추 기간이 조업 성수기와 겹치자 석유공사 측에 피해 보상을 요구하고 있다.&lt;br&gt;&lt;br&gt;김진만 포항구룡포홍게선주협회장은 “수심 1200m 이상에서 타공을 하면 충격에 이 일대 물고기가 다 달아난다”며 “시추를 하더라도 홍게 금어기인 7~8월을 놔두고 이 시기에 시도하는지 이해할 수 없다”고 말했다.&lt;br&gt;&lt;br&gt;하지만 석유공사는 어족 자원 감소 등의 피해는 보상할 수 없다는 입장이다.&lt;br&gt;&lt;br&gt;석유공사 관계자는 “최근 어민들에게 시추선 반경 500m 이내 일부 보상 제의를 시도했지만 무산됐다”며 “보상가도 터무니없이 높게 요구해 더 이상 협상을 할 수 없는 입장”이라고 밝혔다.&lt;br&gt;&lt;br&gt;보상 문제가 결렬되자 어민들은 행동으로 나설 예정이다. 포항 구룡포 일대 홍게잡이 어선은 100여척, 이 가운데 시추선 인근에서 조업하는 30여척 선주들은 20일 오전 시추선을 둘러싸고 시추작업 결사반대, 시추선 철수 등 해상시위를 할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>동료 도주시키려 ‘순찰차 추돌 유발’ 오토바이 폭주족, 2심도 실형</title>
+      <link>https://www.chosun.com/national/regional/2024/12/19/VBLE5D6DMBHSJI5OZBDWTA5NYY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/12/19/VBLE5D6DMBHSJI5OZBDWTA5NYY/</guid>
+      <dc:creator>대전=우정식 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 19 Dec 2024 04:27:27 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NEB72YMFAVHRJKGS7DXJM5DJ5A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원 로고. /조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;도심에서 오토바이를 타고 난폭운전을 하다가 동료 폭주족들이 도망칠 수 있도록 단속 나온 순찰차와 의도적으로 추돌사고를 유발한 폭주족에게 2심에서도 1심과 같은 실형이 선고됐다.&lt;br&gt;&lt;br&gt;18일 법조계에 따르면 대전고법 형사1부(재판장 박진환)는 특수공무집행방해 치상 등 혐의 사건의 항소심에서 20대 A씨가 제기한 항소를 기각하고 1심 선고와 같은 징역 1년 6개월을 유지했다.&lt;br&gt;&lt;br&gt;A씨는 지난해 5월 4일 오전 3시 34분쯤 세종시의 도심 간선도로 8.2㎞ 구간에서 다수의 폭주 오토바이 운전자들과 난폭 운전한 혐의로 재판에 넘겨졌다. 그는 진로를 급변경해 폭주 오토바이 단속에 나선 순찰차 앞에 급정거하는 방법으로 추돌 사고를 유발한 혐의도 받고 있다. 이 사고로 순찰차 수리비 53만원이 발생했고, 경찰관 2명이 2주간 병원 치료를 받아야 했다. A씨가 운전하던 오토바이는 의무보험에도 가입되지 않았던 것으로 조사됐다.&lt;br&gt;&lt;br&gt;A씨는 “추돌사고를 유발할 의도가 없었고 경찰관 직무를 방해할 고의가 없었다”고 주장했지만 재판부는 받아들이지 않았다.&lt;br&gt;&lt;br&gt;항소심 재판부는 “피고인이 연장자로 폭주 오토바이 선두에 서고 상당한 거리를 폭주하다 추격하는 순찰차를 발견하고 안전지대를 급격하게 가로질러 순찰차 앞에 멈췄다”며 “무리하게 순찰차를 막아 다른 폭주족들의 도주를 도우려고 의도적으로 사고를 유발했다”며 A씨의 항소를 기각했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>한밤중 살인 저지르고 도주했던 40대 男, 경찰에 붙잡혀</title>
+      <link>https://www.chosun.com/national/national_general/2024/12/19/UNBNAP32NJEETNHPCXF6FAUCQY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/19/UNBNAP32NJEETNHPCXF6FAUCQY/</guid>
+      <dc:creator>김도연 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 19 Dec 2024 04:18:53 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IGIHAZOU5FAIPJ3UOE7BIX4Y2Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 강서구 강서경찰서./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한밤중 서울의 한 주택가에서 살인을 저지르고 도주했던 50대 남성이 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;서울 강서경찰서는 19일 살인 혐의를 받는 50대 남성 A씨를 긴급체포했다고 밝혔다.&lt;br&gt;&lt;br&gt;경찰에 따르면, 이날 오전 1시쯤 A씨는 서울 강서구 소재의 주택에 침입해 40대 남성 B씨를 흉기로 살해한 혐의를 받는다. 범행 당시 A씨는 술에 취해 있던 것으로 조사됐다.&lt;br&gt;&lt;br&gt;신고를 받고 출동한 경찰은 사건 발생 약 2시간 만인 오전 3시 37분쯤 A씨를 긴급 체포했다. A씨는 서울 강서구에 있는 지인의 집에 숨어 있던 것으로 확인됐다. A씨를 숨겨준 지인은 A씨가 범행을 저질렀다는 사실을 알지 못했 것으로 파악됐다.&lt;br&gt;&lt;br&gt;범행 당시 현장에 함께 있던 한 10대 아이 또한 A씨의 범행으로 부상을 입어 병원에서 치료를 받고 있는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “A씨를 상대로 범행 동기, 피해자와의 관계 등을 조사할 예정”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>홍남표 창원시장, 항소심 당선무효형에 즉각 상고</title>
       <link>https://www.chosun.com/national/2024/12/19/RRG6LENVJJAGFD22UDVSBRASSU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/2024/12/19/RRG6LENVJJAGFD22UDVSBRASSU/</guid>
@@ -796,33 +868,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/54FTUISTLZDHJELX6W5GW5V5XU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;동거녀를 폭행한 후 경찰에게 분리조치되자 동거녀 부친을 찾아가 흉기로 살해한 40대 남성이 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;경북 상주경찰서는 살인 등 혐의로 A(42)씨를 긴급체포했다고 18일 밝혔다. A씨는 이날 오전 3시 45분쯤 상주시 중덕동 한 주택가에서 동거녀 B(42)씨의 부친(63)을 흉기로 살해하고 모친(64)에게 부상을 입힌 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;A씨는 전날 B씨를 폭행했고 B씨의 신고로 경찰이 출동했다. 경찰은 A씨와 B씨를 분리 조치해 B씨를 지인의 거주지에 머물게 했다. 그러나 A씨는 B씨가 친가에 머물고 있을 것으로 추측하고 차를 몰아 B씨의 부모가 거주하는 주택가를 찾았다.&lt;br&gt;&lt;br&gt;A씨가 B씨 친가 근처에 도착하자 때마침 해당 주택에서 B씨의 부모가 나와 차에 타고 있었다. 새벽에 식당으로 출근하는 아내를 남편이 태워주려던 순간이었다. A씨는 차량 옆으로 다가가 열려진 창문 너머로 “B씨 부모 맞느냐, B씨 어디 있느냐”고 물었고, B씨 부모는 “내 딸 이름이 맞는데, 당신은 누구냐”고 답했다. 그 뒤에 A씨가 흉기로 이들을 공격했다.&lt;br&gt;&lt;br&gt;이후 B씨 부모는 병원으로 옮겨졌다. B씨의 아버지는 숨졌고 B씨의 어머니는 생명엔 지장이 없는 상태다.&lt;br&gt;&lt;br&gt;A씨는 범행 직후 경북 문경 지인 집으로 도주한 뒤, 경찰에 전화로 범행을 자백했다. 이후 출동한 경찰이 A씨를 긴급체포했다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “정확한 범행 경위 등을 조사한 뒤 구속 영장을 신청할 방침”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>오세훈 “계엄 반대하지만 이재명 수용 못하는 국민께 희망 드려야”</title>
-      <link>https://www.chosun.com/national/regional/seoul/2024/12/18/354WX64EU5D7DEHZH6Y66KJCBM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/seoul/2024/12/18/354WX64EU5D7DEHZH6Y66KJCBM/</guid>
-      <dc:creator>박진성 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 18 Dec 2024 04:56:41 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7PTEES5LE5PW5AW7W4XXLRG7ZE.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;오세훈 서울시장이 17일 서울 종로구 광화문빌딩에서 열린 제60차 대한민국시도지사협의회 총회에 참석하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;오세훈 서울시장이 “계엄에는 반대하지만 ‘대통령 이재명’도 수용할 수 없는 합리적이고 상식적인 국민이 훨씬 많다”며 “이분들께 희망을 드려야한다”고 말했다.&lt;br&gt;&lt;br&gt;오 시장은 18일 ‘자멸의 길, 회생의 길’이란 제목의 페이스북 글을 올리며 이같이 말했다.&lt;br&gt;&lt;br&gt;오 시장은 “국민의 사랑과 지지를 받지 못하는 정당은 죽은 정당”이라며 “진영의 핵심 지지층과 국민 일반 사이에서 간극이 크다면 당연히 ‘보편적 시각’과 ‘상식’을 기준삼아야 한다”고 했다.&lt;br&gt;&lt;br&gt;당에 대해서 오 시장은 “절체 절명의 갈림길에 서있다”고 했다.&lt;br&gt;&lt;br&gt;또 오 시장은 “‘확장지향적 정당’의 길로 회생을 도모할 것인가, ‘축소지향형 정당’으로 스스로 고립의 길을 걷다가 역사속에서 사라질 것인가, 국민의힘은 선택해야 한다”고 했다.&lt;br&gt;&lt;br&gt;이어 오 시장은 “국민은 ‘위기를 기회로 승화시킬 것인가’, ‘위기 속에 서서히 자멸할 것인가’를 묻고 있다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>공수처, ‘비상계엄’ 문상호 前 정보사령관 체포</title>
-      <link>https://www.chosun.com/national/court_law/2024/12/18/EWXPH52LLBHULP5TISAGGB7QEY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/18/EWXPH52LLBHULP5TISAGGB7QEY/</guid>
-      <dc:creator>이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 18 Dec 2024 03:40:31 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FJG6OLFS3RMWXPWIBFCXWNIVOM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;문상호 국군정보사령관이 지난 10일 오후 서울 여의도 국회에서 열린 국방위원회의 긴급 현안질의에서 의원 질의에 답변하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;고위공직자범죄수사처는 18일 오후 12시 20분쯤 문상호 전 정보사령관을 체포했다고 밝혔다. 검찰이 경찰의 긴급체포 후 사후승인 요청을 받아들이지 않아 풀려난 지 2일 만이다.&lt;br&gt;&lt;br&gt;공수처 관계자는 언론공지를 통해 “경찰 국가수사본부 특별수사단으로부터 이첩 받은 문 전 사령관 사건과 관련해 체포영장을 발부받아, 국수본과 합동으로 문 전 사령관을 체포했다”고 밝혔다.&lt;br&gt;&lt;br&gt;경찰은 이번 계엄과 관련해 정보사령부가 김용현 전 국방장관의 군 내 사(私)조직 역할을 했다고 보고 있다. 김 전 장관의 비화폰 통화 내역을 분석한 결과 계엄 선포 이전부터 문 전 사령관과 수차례 통화하며 계엄을 준비시킨 정황을 포착했다는 것이다.&lt;br&gt;&lt;br&gt;계엄 당일인 3일 밤 10시 31분쯤 중앙선관위에서 서버 등 내부 장비를 촬영한 계엄군도 정보사령부 소속이었다. 특수단 관계자는 “문 전 사령관은 김 전 장관 지시로 선관위 투입에, 정보사령부 산하 북파 공작부대(HID)에 국회의원 체포조 투입을 준비시키는 등 사실상 계엄의 실무 책임자 역할을 한 것으로 보인다”고 했었다.&lt;br&gt;&lt;br&gt;경찰은 지난 15일 문 전 사령관을 긴급체포했으나, 검찰은 16일 문 전 사령관이 현역 군인 신분인 점을 고려할 때 경찰의 긴급체포는 군사법원법에 위반된다며 긴급체포를 승인하지 않았다. 법상 체포 주체가 군사경찰이나 군검찰이어야 한다는 것이다. 검찰 관계자는 “공조본에 체포 절차를 재검토하라고 한 것”이라고 했다.&lt;br&gt;&lt;br&gt;이에 경찰은 문 전 사령관 관련 사건을 공수처에 이첩했고, 공수처는 지난 17일 체포영장을 발부 받았다고 한다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>檢, ‘허위 재산 신고’ 혐의 김남국에 징역 6개월 구형</title>
-      <link>https://www.chosun.com/national/national_general/2024/12/18/FAJUDPCSGFF4PIBMJKOXQOZAPU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/18/FAJUDPCSGFF4PIBMJKOXQOZAPU/</guid>
-      <dc:creator>강지은 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 18 Dec 2024 04:08:03 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EQX4YEU24JPPFH3GE2DCVCQH4A.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;지난 10월 28일 오전 서울 양천구 남부지법에서 열리는 위계공무집행방해 혐의 관련 첫 공판 출석에 앞서 취재진의 질문에 답하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;투자 수익을 은닉하기 위해 국회 재산 신고를 허위로 한 혐의를 받는 더불어민주당 김남국(42) 전 의원에게 검찰이 징역형을 구형했다.&lt;br&gt;&lt;br&gt;검찰은 18일 서울남부지법 형사9단독 정우용 판사 심리로 열린 김 전 의원의 결심공판에서 “김 전 의원에게 징역 6개월을 선고해달라”고 요청했다. 지난 8월 위계공무집행방해 혐의로 불구속 기소된 김 전 의원은 지난 2021년과 2022년 국회의원 재산 신고 시 가상자산 투자로 거액의 수익을 올린 사실을 숨기기 위해 재산신고 기준일(매년 12월 31일) 직전 가상자산 계정의 예치금 중 일부를 은행 예금 계좌로 송금해 재산 총액을 맞추고 나머지 예치금은 가상자산으로 변환하는 등 국회공직자윤리위원회의 재산변동내역 심사 업무를 방해한 혐의를 받는다.&lt;br&gt;&lt;br&gt;이날 재판에서 검찰은 “피고인은 자신이 보유한 코인을 신고하지 않을 목적을 가졌다”며 “국회 공직자 윤리위원회의 국회의원 재산 심사를 위계로 방해했다”고 밝혔다.&lt;br&gt;&lt;br&gt;지난 10월 열린 재판에서 김 전 의원은 “재산 신고도 공직자윤리법에서 정한 절차에 따라 신고 의무를 성실히 이행했고, 공무원 직무를 방해하려는 고의성이 없었다”며 혐의를 부인했다.&lt;br&gt;&lt;br&gt;김 전 의원은 지난해 60억원 상당의 ‘위믹스’ 코인을 비롯해 ‘마브렉스’ ‘보라’ 등 가상 화폐를 보유한 사실이 드러나 투자금 출처와 자금 사용처가 어디인지를 둘러싸고 의혹이 제기됐다. 게임 업계로부터 얻은 미공개 정보를 통해 코인을 저점 매수해 수익을 얻는 방식으로 불공정 거래를 했다거나, 국회 상임위 등 의정 활동 도중 거래를 했다는 논란도 일었다. 다만 검찰은 미공개 정보 이용 의혹, 코인 매수 대금 불법 수수 의혹 등 김 전 의원의 정치자금법 위반 혐의에 대해서는 증거 불충분으로 혐의 없음 처분을 내렸다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[속보] 검찰, 윤석열 내란 혐의 수사는 공수처로 이첩</title>
       <link>https://www.chosun.com/national/court_law/2024/12/18/IC7FBA3H3BFQTFMS22UW2LVMOE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/18/IC7FBA3H3BFQTFMS22UW2LVMOE/</guid>
@@ -862,43 +907,6 @@
       </media:content>
     </item>
     <item>
-      <title>‘세금 체납’ 이혁재 “못 받은 돈 13억...고의 탈세 아냐, 책임질 것”</title>
-      <link>https://www.chosun.com/national/people/2024/12/18/KIOOHG3TYZAGHCD5ZAAMZAK2YQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/12/18/KIOOHG3TYZAGHCD5ZAAMZAK2YQ/</guid>
-      <dc:creator>정아임 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 18 Dec 2024 02:25:52 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EJDG4GJQYZFXTHRJ7OW6UQCN7Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;개그맨 이혁재./조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;개그맨 이혁재(51)가 세금 2억 원 이상을 체납한 사실이 알려진 것과 관련해 “고의로 탈세한 것이 아니다”라고 해명했다.&lt;br&gt;&lt;br&gt;지난 17일 국세청은 2억원 이상 국세를 1년 넘게 체납한 고액·상습체납자 9666명의 명단과 인적사항 등을 홈페이지에 공개했다. 이중 이혁재는 2억2300만원을 체납해 개인 명단에 이름이 올랐다. 그가 대표로 있는 주식회사 ‘크리스찬메모리얼센터’도 부가가치세 등 3억3000만원을 체납해 법인 고액·상습 체납자 명단에 포함됐다.&lt;br&gt;&lt;br&gt;이와 관련해 이혁재는 연예·스포츠 매체 OSEN을 통해 “거래하는 기업에서 못 받은 돈이 지금 10억 원이 넘어간다”고 말했다.&lt;br&gt;&lt;br&gt;이혁재는 거래처와의 소송에서 승소했지만 아직 돈을 받지 못한 상황이라고 했다. 그는 “회사가 지금 세금을 못 내고 있다. 제가 회사 법인 대표니까 아마 저한테 구상권이 다 넘어와 있을 것”이라고 했다.&lt;br&gt;&lt;br&gt;이어 “소송을 해서 이기면 뭐하냐. (거래처 측에서 돈을) 안 주고 있는데 미치겠다”며 “여태까지 세금을 안 낸 적 없다. 사정 때문에 늦어진 적도 있지만 늦은 만큼 국가가 내라는 이자도 다 냈다. 소송하고 있는 사업자들한테 유명인이라는 이유로 선입견을 갖는 것”이라고 했다.&lt;br&gt;&lt;br&gt;그러면서 “제가 받아야 될 게 13억원 가까이 된다. 받아서 내면 되는 일이다. 국세청 가서 소송자료 다 내고 직접 설명도 했다”며 “제가 뭘 잘못한 거냐. 이제 방송인이 아닌데. 진짜 사람이 죽어야 끝나나 싶다. 망했던 회사를 살려보겠다고 애쓰고 있다”고 했다.&lt;br&gt;&lt;br&gt;한편, 이번 국세청이 공개한 고액·상습 체납 명단에는 이혁재 외에도 소설가 김진명, 에드워드 권 셰프 등 유명인들이 다수 포함됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>한국공학한림원, 첫 명예회원으로 이길여 가천대 총장 추대</title>
-      <link>https://www.chosun.com/national/education/2024/12/18/PLFL6XNP2NFUZFSPYVNAUATRBQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2024/12/18/PLFL6XNP2NFUZFSPYVNAUATRBQ/</guid>
-      <dc:creator>오주비 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 18 Dec 2024 01:53:14 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4ZLVWYJQOFBV5JQS6V7G7LXOYI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이길여 가천대 총장(오른쪽)이 17일 김기남 공학한림원 회장으로부터 한국공학한림원 명예회원 인증패를 받고 기념사진을 촬영하고 있다. /한국공학한림원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;17일 이길여 가천대 총장이 한국공학한림원의 1호 명예회원으로 추대됐다.&lt;br&gt;&lt;br&gt;한국공학한림원은 이날 서울 신라호텔에서 ‘제55회 정기총회 및 명예회원 추대식’을 열고, 이 총장을 첫 명예회원으로 추대했다고 밝혔다. 김기남 회장은 “이 총장은 끊임없는 도전과 혁신으로 미래 세대에게 큰 영감을 줬으며, 대한민국 공학 기술 발전에 큰 공헌을 했다”고 말했다.&lt;br&gt;&lt;br&gt;한국공학한림원은 이 총장을 첫 명예회원으로 추대한 이유로 “1958년 인천에 이길여산부인과를 개원한 이래 여의사 최초 비영리 의료법인 설립, 국내 최초 초음파기기 도입, 병원 전산화, 닥터헬기 및 권역 외상센터 운영 등 ‘최초’라는 수식어를 달며 혁신을 이어왔다”고 밝혔다.&lt;br&gt;&lt;br&gt;또 “가천의대 설립과 AI학과 신설 및 국내 최초 반도체대학 신설 등 ‘공학 중심 대학’ 운영 등을 통해 대학 교육 혁신을 선도하고 가천뇌과학연구원 등을 통해 의과학 발전에도 크게 기여했다”고 강조했다.&lt;br&gt;&lt;br&gt;한국공학한림원은 학계와 산업계, 국가기관 등에서 공학 및 기술 발전에 현저한 공적을 세운 공학기술인을 발굴·우대하고, 공학 기술과 관련된 학문 연구와 지원 사업을 통해 국가의 지속적인 발전에 기여하고자 1996년 설립된 특별 법인이다. 우리나라 산업과 경제·사회에 공헌한 인사의 업적을 기리기 위해 명예회원 제도를 제정했는데, 이 총장이 첫 번째 명예회원으로 추대된 것이다.&lt;br&gt;&lt;br&gt;이 총장은 이날 명예회원 추대식 인사말에서 “한국 공학 발전과 기술 혁신을 이끌고 있는 공학한림원의 1호 명예회원으로 추대돼 큰 영광”이라고 밝혔다.&lt;br&gt;&lt;br&gt;그는 “그동안 의사로서 한평생 ‘어떻게 하면 환자의 질병을 정확히 진단하고 치료하며, 고통을 줄일 수 있을지’ 쉼 없이 고민해왔다”며 “공학자는 아니지만 공학한림원의 명예회원이 될 수 있었던 건, 환자를 향한 저의 ‘사랑’ 때문이 아닐까 생각한다”고 했다.&lt;br&gt;&lt;br&gt;이어 “의료인과 공학인 모두 인류의 건강과 행복을 위해 노력한다는 점에서 지향점이 같다고 생각한다”며 “세상에 숨겨진 고통들을 예리하게 찾아내고 집요하게 연구해 해결책을 만들어내는 일은 녹록치 않으며, 남다른 열정과 집념이 필요하기에 훌륭한 공학자와 의료인 모두 이 사회의 진정한 혁신가라고 믿는다”고 했다.&lt;br&gt;&lt;br&gt;이 총장은 “90 평생을 인류에 대한 사랑과 혁신의 마음으로 열정적으로 살아왔다”며 “이제 공학한림원의 명예회원으로서 회원들과 함께 공학의 발전, 나아가 우리 사회의 지속 가능한 성장과 안녕을 위해 최선을 다하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;더하여 “이 자리가 훌륭한 공학인과 의료인들의 경계 없는 만남을 촉진하고, 우리 사회를 더 건강하고 행복하게 만드는 데 기여하는 계기가 되기를 기원한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/4ZLVWYJQOFBV5JQS6V7G7LXOYI.jpg?width=2000&amp;height=1333&amp;auth=f4216a849bbaf0051ae3ed346aa0ccb57a8700b720c596d94d5bd413dc98d629&amp;smart=true" type="image/jpeg" height="1333" width="2000"/>
-    </item>
-    <item>
-      <title>사직 전공의, 박단 대표 향해 “방 문 쾅 닫고 칭얼대는 어린아이 같다”</title>
-      <link>https://www.chosun.com/national/welfare-medical/2024/12/18/6CAV624MAFCTTMPFY3BXMIEQLE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/12/18/6CAV624MAFCTTMPFY3BXMIEQLE/</guid>
-      <dc:creator>정해민 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 18 Dec 2024 01:40:57 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SYFMTHXSQH7I5T6XZBUZHFPP4M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;박단 대한전공의협의회 비대위원장./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한 사직 전공의가 전공의 대표에게 “언제까지 칭얼댈 것이냐”며 공개 비판에 나섰다. 그는 “합리성과 대표성이 결여된 당신(전공의 대표)에게 내 인생을 위임하지 않았다”고 했다.&lt;br&gt;&lt;br&gt;18일 대전성모병원 사직 전공의 류옥하다(26)씨는 박단 대전협 비대위원장을 향해 “계엄을 계기로 시민이 전공의 편이 되리라 착각하지 말라”며 “시민 눈에는 계엄을 내린 윤석열이나, 병원을 떠난 전공의나 밉기는 마찬가지”라고 밝혔다.&lt;br&gt;&lt;br&gt;이날 박 위원장은 중앙일보와 인터뷰에서 “대전협 회장 취임 후 복지부-의협 간 의료현안협의체나 비공식 채널을 통해 의사 결정하는 위치에 있는 사람은 대부분 만나 요구를 분명히 전달했지만, 돌아온 건 업무개시명령에 이은 면허 박탈과 사법 처리와 같은 겁박이었다. (전공의들은) 2월에 일찌감치 계엄의 공포를 겪은 셈”이라며 “정부가 진정성이 없으니 회의체 참여가 무의미하다고 봤다”고 했다.&lt;br&gt;&lt;br&gt;이에 대해 류씨는 “박단 위원장은 스스로 대화에 노력했다고 생각하는 듯하며, 대화 상대인 정부 탓을 하고 있다. 그러나 가장 큰 문제는 시민을 설득하려는 노력을 게을리 했다는 것”이라며 “가장 큰 피해를 본 것도 시민이자, 탄핵과 같이 정부를 바꿀 수 있는 것도 시민임을 모르는 것인가 아니면 알면서도 외면하는 것인가?”라고 밝혔다.&lt;br&gt;&lt;br&gt;그러면서 “모든 것을 정부 탓만 한 채 전공의 대표란 사람이 10개월 동안 시민과 대화하거나 대안을 내놓지도 않았다”며 “변화하는 상황 속에서도 고장난 레코드마냥 같은 말을 반복했을 뿐”이라고 했다. 그는 “(박단 위원장은) 본인의 의지가 곧 3만 젊은 의사의 뜻이라는 단일주의, 전체주의적 태도와 오만을 보여주었을 뿐”이라고도 주장했다.&lt;br&gt;&lt;br&gt;류씨는 “이런 독선적이고 고집에 가득 찬 (박단 위원장의) 행동에 답답한 이가 한두 사람이 아니다”라며 “마치 부모에게 문제를 해결해달라고 문 잠그고 방문을 쾅 닫는 어린아이 같다”고 했다.&lt;br&gt;&lt;br&gt;한편 박 위원장은 이날 인터뷰에서 “지난 2월 대전협이 정부에 요구한 7가지 요구가 충족되지 않으면 나는 안 돌아간다”며 “내년 정원을 되돌리지 못 하면 2026학년도엔 정부가 먼저 정원을 줄이자고 요구할 수밖에 없다”고 밝혔다. 기존 입장을 되풀이한 것이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘계엄 기획’ 노상원 前 정보사령관, 구속영장심사 포기</title>
-      <link>https://www.chosun.com/national/national_general/2024/12/18/WBSA5ZUSPJGKZEUD35XMAINGQI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/18/WBSA5ZUSPJGKZEUD35XMAINGQI/</guid>
-      <dc:creator>고유찬 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 18 Dec 2024 01:20:39 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5BQTQJ7NEJEXRODIXC6BZ626EE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;노상원 전 정보사령관. /SBS&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘12·3 비상계엄’ 사태에 관여한 혐의를 받는 노상원 전 정보사령관이 구속 전 피의자 심문(영장실질심사)을 포기하겠다는 의사를 밝힌 것으로 18일 확인됐다.&lt;br&gt;&lt;br&gt;경찰에 따르면 노 전 사령관은 이날 오후 3시 서울중앙지법에서 열리는 영장실질심사에 출석하지 않겠다는 의사를 밝혔다. 법원에 출석해 판사 앞에서 대면심사로 혐의에 관해 소명할 기회를 스스로 포기한 것이다.&lt;br&gt;&lt;br&gt;이에 따라 법원은 기존 수사 기록과 증거 자료 등을 토대로 심사해 영장 발부 여부를 결정하게 된다.&lt;br&gt;&lt;br&gt;앞서 내란 혐의를 받는 김용현 전 국방장관과 여인형 전 방첩사령관, 박안수 육군참모총장(전 계엄사령관)도 영장실질심사를 포기한 바 있다.&lt;br&gt;&lt;br&gt;경찰 국가수사본부 특별수사단은 전날 노 전 사령관에게 내란 등 혐의를 적용해 구속영장을 신청한 바 있다.&lt;br&gt;&lt;br&gt;경찰은 “노 전 사령관은 김용현 전 국방부 장관 및 정보사령관 측 관계자들과 계엄 관련 사전 논의를 한 정황이 확인됐다”고 밝혔다.&lt;br&gt;&lt;br&gt;경찰은 김 전 장관의 육군사관학교 후배이자 절친한 사이로 알려진 노 전 사령관이 포고령 초안을 작성한 게 아닌지도 의심하는 것으로 전해졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[단독] 경찰, ‘대한체육회장 부정채용·횡령 의혹’ 관련 대한체육회·진천선수촌 압수수색  </title>
       <link>https://www.chosun.com/national/national_general/2024/12/18/FU2NUJBZRBA5RHEXCQ4KWYF5QM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/18/FU2NUJBZRBA5RHEXCQ4KWYF5QM/</guid>
@@ -933,15 +941,6 @@
       <description/>
       <pubDate>Tue, 17 Dec 2024 16:09:18 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BPDFNVTZLNFTTPE4OHA6UP7OEY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;추울수록 활짝… 소양강 상고대 - 17일 오전 강원 춘천시 소양강 변의 모습. 나뭇가지마다 하얀 ‘상고대’가 피었다. 상고대는 물안개가 나뭇가지와 풀잎 등에 얼어붙어 생긴다. 눈이나 서리가 내린 것처럼 보인다. 이날 춘천의 아침 기온은 영하 10도까지 떨어졌다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;북쪽에서 찬 바람이 내려오며 한낮에도 기온이 0도를 오르내리는 매서운 한파(寒波)가 닥칠 것으로 전망됐다. 18일 중부지방을 중심으로 한파 특보가 확대될 것으로 보인다.&lt;br&gt;&lt;br&gt;기상청에 따르면, 중국 쪽 대륙고기압이 확장하며 영하 20도의 한랭 건조한 바람이 대거 한반도로 남하해 18일 중부지방과 전북·경북 내륙을 중심으로 기온이 영하 10도 안팎까지 크게 떨어지겠다. 이 지역은 낮 기온도 0도 내외에 머물면서 올겨울 들어 가장 추울 것으로 예상된다. 17일 경기 북부와 강원도 등에 내려진 한파 특보는 18일 중부지방 전역으로 확대될 전망이다. 18일 전국 아침 최저기온은 영하 12도에서 영상 1도, 낮 최고기온은 영하 1도에서 영상 7도로 예보됐다. 19일에도 최저 영하 12도 추위가 이어지겠다.&lt;br&gt;&lt;br&gt;찬 북서풍이 따뜻한 서해상을 통과하며 구름대가 만들어지고, 동풍(東風)도 동해상에서 구름대를 만들며 곳곳에 눈과 비도 내리겠다. 18~19일 예상 적설량은 강원 산지와 전북 3~10㎝, 광주·전남 1~5㎝, 울릉도·독도 10~30㎝, 제주 산지 5~15㎝ 등이다. 예상 강수량은 충청·강원·전라·경상과 제주도에서 5~10㎜ 내외다. 강원 영동과 전북·제주·울릉도·독도 등에는 18일 시간당 1~2㎝씩 눈이 내리면서 대설 특보가 발령될 수 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>38층서 추락한 근로자, 기적적으로 생존...그 이유는 </title>
-      <link>https://www.chosun.com/national/national_general/2024/12/17/DBLJNY4MSNCUNMG6HEGPZ4QMQY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/17/DBLJNY4MSNCUNMG6HEGPZ4QMQY/</guid>
-      <dc:creator>정아임 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 17 Dec 2024 14:01:57 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZXKIZHGRKNNEXB4LRMPIYD5LAI.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;아파트 신축 건설 현장에서 작업자들이 작업을 하고 있다. 기사와 관련 없음/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 파주시에 있는 한 아파트 공사 현장 38층에서 떨어진 근로자가 안전망에 걸려 기적적으로 목숨을 건졌다.&lt;br&gt;&lt;br&gt;17일 소방 당국과 연합뉴스에 따르면 지난 16일 오후 3시 20분쯤 경기 파주시 와동동에 있는 아파트 공사 현장에서 “사람이 추락해 안전망으로 떨어졌다”는 내용의 신고가 접수됐다.&lt;br&gt;&lt;br&gt;출동한 소방 당국은 22층 안전망에 걸려 있던 30대 남성 근로자 A씨를 구조해 병원으로 옮겼다.&lt;br&gt;&lt;br&gt;당시 A씨는 안전모만 착용한 상태로 38층에서 작업 중 추락했지만, 22층에 설치된 안전망에 걸린 것으로 나타났다.&lt;br&gt;&lt;br&gt;병원으로 옮겨진 A씨는 다리에 골절상 등을 입었을 뿐 심각한 외상은 없는 것으로 전해졌다.&lt;br&gt;&lt;br&gt;관계 당국은 사고 원인을 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
