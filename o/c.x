@@ -13,6 +13,51 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>[속보] 헌재 “재판관 평의서 尹 송달, 변론 절차 논의”</title>
+      <link>https://www.chosun.com/national/court_law/2024/12/20/4JK7FJXFC5GAJADQXI2ZU6XZQI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/20/4JK7FJXFC5GAJADQXI2ZU6XZQI/</guid>
+      <dc:creator>방극렬 기자, 박강현 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 20 Dec 2024 05:03:29 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HFOPIHBITFPILFWBL7L4F3NNBY.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;지난 18일 서울 종로구 헌법재판소에서 헌재 깃발이 바람에 휘날리고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“윤석열 대통령 탄핵심판 서류 아직 미배달 상태”&lt;br&gt;&lt;br&gt;“재판관들, ’송달 간주’ 방법 종합적으로 검토”&lt;br&gt;&lt;br&gt;“오는 27일 예정된 변론 준비 기일, 일단 변동 없이 진행”&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>삼성꿈장학재단 신임 이사장에 김우승 한국공학교육인증원장</title>
+      <link>https://www.chosun.com/national/education/2024/12/20/JV5F7U7WH5DX7EG4WI7BE3LGKY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/education/2024/12/20/JV5F7U7WH5DX7EG4WI7BE3LGKY/</guid>
+      <dc:creator>김연주 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 20 Dec 2024 04:54:29 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DDS432FRJVE57EZSQNPGZGO3HQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;19일 삼성꿈장학재단 신임 이사장으로 선임된 김우승 한국공학교육인증원장. /삼성꿈장학재단&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;삼성꿈장학재단이 김우승 현 한국공학교육인증원 원장을 신임 이사장으로 선임했다고 19일 밝혔다.&lt;br&gt;&lt;br&gt;김 신임 이사장은 한양대 총장, 국가산학연협력위원회 민간 위원장 등을 역임했고, 현재 한국공학교육인증원 원장을 맡고 있다.&lt;br&gt;&lt;br&gt;재단 이사회는 “김우승 신임 이사장은 교육적으로 소외된 아이들에게 다양한 교육 기회를 제공한다는 재단의 철학을 누구보다 잘 이해하고 있는 분으로, 향후 삼성꿈장학재단을 더욱 발전시켜 나갈 적임자라고 판단했다”고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘서울역 노숙인 살해’ 30대男 1심 징역 20년</title>
+      <link>https://www.chosun.com/national/court_law/2024/12/20/EW3NAT77PFB4JLYVBENLTQZOSQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/20/EW3NAT77PFB4JLYVBENLTQZOSQ/</guid>
+      <dc:creator>박강현 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 20 Dec 2024 04:48:56 +0000</pubDate>
+      <content:encoded>환각에 사로잡혀 서울역 인근에서 노숙인을 흉기로 살해한 30대 남성이 1심에서 징역 20년을 선고 받았다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3FTGPTVCXJGOPCYLMP3UYTQ3YI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울중앙지법. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;20일 서울중앙지법 형사27부(재판장 우인성)는 살인 등 혐의로 기소된 백모(38)씨에 대한 선고기일을 열고 징역 20년 실형을 선고했다. 또 치료감호와 10년간 위치추적 전자장치 부착을 명령했다.&lt;br&gt;&lt;br&gt;백씨 측은 재판 과정에서 살인을 저지른 사실은 인정하면서도 “2017년부터 있던 조현병 증상으로 이 사건 범행 당시 심신상실로 인해 사물을 변별할 능력이 없었다”고 주장했지만, 재판부는 심신상실 주장은 받아들이지 않고 심신미약 상태만 인정했다.&lt;br&gt;&lt;br&gt;재판부는 “사람 생명은 무엇과도 바꿀 수 없는 고귀한 가치로, 백씨는 사회로부터 장기간 격리가 필요하다”면서도 “피고인이 범행을 모두 인정하고 오랜 기간 앓았던 정신질환이 발현돼 범행으로 이어진 것으로 보이는 등 책임 일부가 감경돼야 한다”고 지적했다.&lt;br&gt;&lt;br&gt;앞서 백씨는 지난 6월 6일 새벽 서울역 지하보도 입구에서 잠을 자고 있던 노숙인을 흉기로 여러 차례 찔러 살해한 혐의로 재판에 넘겨졌다. 그는 각종 전쟁을 멈추기 위해서는 노숙인을 살해해야 한다는 환각에 도취돼 이 같이 범행한 것으로 조사됐다. 백씨는 현장을 미리 답사하는 등 사전에 범행을 계획한 것으로도 파악됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[단독]MZ 사원들이 퍼트린 ‘종근당 하이파이브’ 사건</title>
+      <link>https://www.chosun.com/national/welfare-medical/2024/12/20/RY5YO3XMGFFKDC3BDFQA34O6H4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/12/20/RY5YO3XMGFFKDC3BDFQA34O6H4/</guid>
+      <dc:creator>조백건 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 20 Dec 2024 04:21:01 +0000</pubDate>
+      <content:encoded>요즘 제약사 직원들 사이에선 ‘종근당 하이파이브 사건’이란 이름의 사건이 자주 회자된다. 이 사건은 두통약 ‘펜잘’ 등으로 유명한 국내 매출 4위 제약사(작년 기준) 종근당에서 일어난 사건이다. 사건 자체는 작년 하반기에 발생해 1년 정도 지났다. 그런데 사건 이후 종근당의 MZ세대 직원들이 “회사가 가해자를 솜방망이 처벌해 사건을 덮으려 한다”는 취지로 이 사건을 소셜미디어 등에 올리면서 뒤늦게 화제가 되고 있는 것이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BH67MZZATJHWNNHPP7JIO6ZVVE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제약업계 관계자들에 따르면, 종근당의 한 직원은 사건 발생 후 ‘우리 회사 하이파이브 사건’이란 제목의 글을 익명 앱인 ‘블라인드’의 게시판에 올렸다. 회사밖 사람들도 읽을 수 있도록 했다.&lt;br&gt;&lt;br&gt;이 직원은 “회사의 한 후배가 선배로부터 괴롭힘을 당했고, 후배는 사업부장에게 가서 피해를 호소했다”며 “그런데 부장은 오히려 가해자인 회사 선배를 옹호했다”고 했다.&lt;br&gt;&lt;br&gt;이어 “이 사업부장도 예전 술자리에서 피해자(후배)의 뺨을 때린 적이 있었다. 술먹으면 손버릇 안 좋기로 유명하신 부장”이라고 했다.&lt;br&gt;&lt;br&gt;그는 “이에 피해자는 열받아서 선배와 사업부장 둘 다 (회사에) 신고했는데, 부장은 ‘뺨을 때린 게 아니라 하이파이브를 한 거다’라고 주장했다”며 “이게 바로 ‘종근당 하이파이브 사건’이다. 회사는 가해자 두 명에게 감봉 조치만 했다”고 했다.&lt;br&gt;&lt;br&gt;이에 대해 종근당 관계자는 “작년에 이런 신고가 있어서 사내 조사가 이뤄졌던 것은 사실”이라면서도 “가해자와 피해자로 지목된 분들의 진술이 상반됐었다”고 했다.&lt;br&gt;&lt;br&gt;이 관계자는 “사업부장은 조사에서 ‘술자리에서 부하 직원을 때린 적이 없고, 만약 비슷한 일이 있었다면 앞으로도 잘 해보자는 차원에서 서로 손뼉을 마주치는 정도는 있었을 수 있다’는 취지로 진술했다”고 했다. 반면 피해자는 “분명히 뺨을 맞았고, 술자리에 있었던 다른 사람들도 그 장면을 봤다”는 식으로 진술했다는 것이다.&lt;br&gt;&lt;br&gt;종근당 측은 “부서장으로서 부서 내 갈등을 원만하게 해결못한 책임을 물어 사업부장을 피해자와 다른 부서로 인사를 냈고 감봉 3개월의 징계를 내렸다”고 했다. 후배를 괴롭힌 선배 사원은 이를 뒷받침할만한 물증이 있어 감봉 6개월의 징계를 받았다고 한다.&lt;br&gt;&lt;br&gt;제약업계는 선후배 간 ‘위계 문화’가 강하다. 이런 분위기에서 상사가 술 자리에서 부하 직원을 때리고, 회사는 쉬쉬하는 일들이 많았다는 게 제약업계 인사들의 공통된 증언이다. 그러나 신입 사원으로 들어온 MZ세대가 이런 잘못된 관행을 소셜미디어로 서로 공유하고 외부에 알리면서 더는 쉬쉬할 수 없는 상황이 됐다는 뜻이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SU6GGET6I5AB7NXIXPS5IUDZHQ.png"&gt;&lt;figcaption&gt;&lt;small&gt;/일러스트=조선디자인랩 정다운&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최근엔 한림제약에서도 영업 파트의 본부장(상무)이 팀장(부장)을 술자리에서 때리는 사건이 있었던 것으로 알려졌다. 한림제약은 가해자 징계를 하지 않고 지나간 것으로 알려졌다. 제약업계 인사들은 “예전이면 묻혔을 테지만, 요즘은 바로 젊은 직원들 사이에서 소문이 나서 밖으로 퍼진다”고 했다. 한림제약 최천옥 상무는 “당사자들끼리 얘기를 잘 하고 해서 지금은 둘 다 웃고 다닌다”며 “당사자들은 이상 없다라고 하는 걸 누가 소문을 그리 내는지 모르겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>시동 꺼지더니 연기났다…신호대기 중이던 BMW 차량서 화재</title>
+      <link>https://www.chosun.com/national/national_general/2024/12/20/XITFY6BDHZFNPF7FQX2LENYO3Q/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/20/XITFY6BDHZFNPF7FQX2LENYO3Q/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 20 Dec 2024 04:21:12 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FATS2UUMTNECHDSKA6I2XETPYA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;20일 경기 성남시 한 도로에서 발생한 차량 화재. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;신호대기 중이던 BMW 차량에서 화재가 발생해 소방당국이 화재 경위를 조사하고 있다. &lt;br&gt;&lt;br&gt;20일 경기도소방재난본부 등에 따르면 이날 오전 9시 38분쯤 경기도 성남시 분당구 궁내동 대왕판교로에서 신호대기 중이던 차량에서 원인을 알 수 없는 불이 났다.&lt;br&gt;&lt;br&gt;불이 난 차량은 BMW X3 가솔린 모델이었다. 차량 운전자는 즉시 대피해 다치지 않았다.&lt;br&gt;&lt;br&gt;신고를 받고 출동한 소방당국은 10여분 만에 진화를 완료했다.&lt;br&gt;&lt;br&gt;소방당국은 신호대기 중에 시동이 꺼지고 보닛에서 연기가 발생하면서 불이 시작됐다는 운전자 진술 등을 토대로 정확한 화재 경위를 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>경찰 특별수사단, 한덕수 권한대행 비공개 조사</title>
       <link>https://www.chosun.com/national/2024/12/20/HWFGZCR6XZFPVLI6TAFATLWHQQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/2024/12/20/HWFGZCR6XZFPVLI6TAFATLWHQQ/</guid>
@@ -854,51 +899,6 @@
       <description/>
       <pubDate>Thu, 19 Dec 2024 02:40:55 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LSYA5HGD7VN4PANIEIOLCSKLOA.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;불법 정치자금 수수 혐의를 받는 '건진법사' 전성배 씨가 19일 오전 서울 양천구 서울남부지방법원에서 열린 영장실질심사(구속 전 피의자심문)에 출석하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;불법 정치자금 수수 혐의를 받는 ‘건진법사’ 전성배(64)씨를 수사하는 검찰이 전씨가 사용하던 태블릿 PC를 압수했다.&lt;br&gt;&lt;br&gt;서울남부지검은 지난 17일 전씨의 서울 서초구 자택과 강남구 법당을 압수수색하면서 휴대폰 3대와 함께 태블릿PC를 압수했다고 19일 밝혔다. 당초 전씨가 사용하던 장부도 압수했다는 소식이 알려졌지만, 이날 검찰은 “압수수색 현장에서 장부의 존재를 발견하진 못했다”고도 했다.&lt;br&gt;&lt;br&gt;검찰은 전씨가 사용하던 휴대폰과 태블릿PC을 확보하자 정치권과 법조계에서는 그 안에 들은 내용에 촉각을 곤두세우고 있다. 여권 관계자는 “법사폰에서 정·재계 인사들과 관련한 내용이 공개된다면, 명태균의 황금폰은 깜찍한 수준일 것”이라고 했다. 전씨는 평소 윤석열 대통령과 김건희 여사와의 친분을 과시하며 정재계 인사들을 두루 접촉했다고 알려졌기 때문이다.&lt;br&gt;&lt;br&gt;전씨는 2018년 영천시장 당시 국민의힘 당내 경선에 출마한 한 후보자로부터 억대의 불법 정치자금을 수수한 혐의로 지난 17일 체포돼 검찰 조사를 받고 있다.&lt;br&gt;&lt;br&gt;검찰 관계자는 “유력 정치인이나 전·현직 국회의원과 건진법사의 교류 여부는 수사 중”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>점점 쪼그라드는 민노총… 작년 조합원 1만3000명 줄어</title>
-      <link>https://www.chosun.com/national/labor/2024/12/19/PDVWQJMMGJEGFINVATZ5VTVK74/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/labor/2024/12/19/PDVWQJMMGJEGFINVATZ5VTVK74/</guid>
-      <dc:creator>김아사 기자</dc:creator>
-      <description>지난해 민주노총 조합원 수가 1년 만에 1만3000명가량 감소하면서 한국노총과의 조합원 수 차이가 7만3500명가량으로 벌어진 것으로 나타났다.=</description>
-      <pubDate>Wed, 18 Dec 2024 15:50:00 +0000</pubDate>
-      <content:encoded>지난해 민주노총 조합원 수가 1년 만에 1만3000여 명 감소하면서 한국노총과의 차이가 7만3500여 명으로 벌어진 것으로 나타났다. 2022년 양 노총의 차이는 2만2000명 수준이었지만, 1년 만에 격차가 크게 확대된 것이다. 민주노총이 조합원 처우 개선과 상관없는 이념 중심의 정치 파업과 집회 등을 지속한 게 영향을 미쳤다는 분석이 나온다.&lt;br&gt;&lt;br&gt;고용노동부는 이 같은 내용을 담은 ‘2023년 전국 노동조합 조직 현황’을 18일 발표했다. 조직 현황에 따르면 지난해 기준 전체 조합원 수는 273만7000명, 노조 조직률은 13%를 나타내 전년(272만2000명, 13.1%)과 비슷했다. 부문별 노동조합 조직률은 민간 부문 9.8%, 공공 부문 71.6%, 공무원 부문 66.6%, 교원 부문 31.4%였다.&lt;br&gt;&lt;br&gt;전년과 격차가 드러난 건 총연합단체별 조합원 수다. 지난해 한국노총의 조합원은 116만162명으로 전년(112만1819명)보다 3만8000여 명 늘어난 반면, 민주노총은 108만6618명으로 전년(109만9805명)보다 1만3000여 명 줄었다. 총연합단체에 가입하지 않은 노조 조합원은 47만9758명으로 전년(48만2582명)보다 2800여 명 감소했다.&lt;br&gt;&lt;br&gt;이에 민주노총 내에서도 자성의 목소리가 나오고 있다. 민주노총이 지난 9월부터 11월까지 조합원 7287명을 대상으로 내부 설문조사를 한 결과, 조합원 40.8%가 “민주노총 투쟁이 효과적으로 진행되고 있지 않다”고 답했다. ‘국민들이 민주노총에 얼마나 호감과 신뢰를 가진다고 생각하느냐’를 묻는 말에는 ‘(호감과 신뢰가) 낮다’라는 응답이 56.6%로 ‘높다’(43.4%)보다 많았다. 민주노총은 18일 사회운동의 새로운 전략을 다시 고민해야 한다며 ‘커뮤니케이션 콘퍼런스’를 열기도 했다.&lt;br&gt;&lt;br&gt;탈정치와 실용주의를 내세운 제3 노조가 세를 불리고 있는 것도 이런 상황과 맞닿아 있다는 분석이다. 2022년 양대 노총에 가입하지 않은 노조 수는 3424개였는데, 지난해 3458개로 늘었다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘尹대통령 수사’ 공수처로 일원화</title>
-      <link>https://www.chosun.com/national/court_law/2024/12/19/I6SP46RY2ZBFXKLCRO4MKZL2NQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/19/I6SP46RY2ZBFXKLCRO4MKZL2NQ/</guid>
-      <dc:creator>이슬비 기자, 구아모 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 18 Dec 2024 15:55:00 +0000</pubDate>
-      <content:encoded>‘12·3 비상계엄 사태’를 수사 중인 검찰이 내란 혐의를 받는 윤석열 대통령과 이상민 전 행정안전부 장관 사건을 18일 고위공직자범죄수사처(공수처)에 이첩했다. 검찰과 경찰, 공수처가 경쟁적으로 진행하던 윤 대통령 내란죄 수사가 공수처로 일원화된 것이다.&lt;br&gt;&lt;br&gt;이진동 대검찰청 차장검사와 오동운 공수처장은 이날 입장문을 내고 “중복 수사 방지와 공수처의 사건 이첩 요청에 대해 협의한 결과 검찰은 피의자 윤석열과 이상민에 대한 사건을 공수처로 이첩하기로 했다”고 밝혔다. 검찰 관계자는 “검찰의 내란죄 수사권을 놓고 정당성 문제가 제기돼 공소 유지와 증거 능력에 논란이 생길 수 있어 이첩하게 됐다”고 했다.&lt;br&gt;&lt;br&gt;앞서 천대엽 법원행정처장은 국회에서 “어느 기관에서 수사할 수 있는지, 그에 따라 영장을 발부할 것인지는 중요한 재판 사항”이라고 했었다. 다만 공수처는 대통령을 기소할 권한이 없어 수사 후 다시 검찰에 기소 요청을 해야 한다.&lt;br&gt;&lt;br&gt;한편, 경찰은 지난 11일에 이어 두 번째 대통령실 압수 수색을 시도했으나 또 실패했다. 조지호 경찰청장의 ‘비화폰’ 통신 기록을 확보하려고 했는데, 경호처가 “기밀 등을 이유로 협조할 수 없다”고 거부했다. /이슬비·구아모 기자&lt;br&gt;&lt;br&gt;공위공직자범죄수사처(공수처)가 검찰과 경찰에 “비상계엄 관련 사건을 이첩하라”고 처음 요청한 것은 지난 8일이다. 공수처법에 ‘중복되는 다른 수사기관의 수사에 대해서 공수처장이 수사의 진행 정도와 공정성 논란 등에 비춰 공수처에서 수사하는 것이 적절하다고 판단해 이첩을 요청하는 경우 해당 수사기관은 이에 응해야 한다’는 조항을 근거로 들었다.&lt;br&gt;&lt;br&gt;그러나 검찰과 경찰은 답변을 하지 않은 채 각자 수사할 수 있는 권한이 있다고 주장했다. 이러는 사이 검찰과 경찰, 공수처는 중복 소환과 중복 영장 청구를 하는 등 경쟁적인 수사를 벌여 비판을 받았다.&lt;br&gt;&lt;br&gt;지난 11일에는 공수처와 경찰, 국방부 조사본부로 구성된 공조수사본부(공조본)가 꾸려졌다. 이후 공수처는 지난 13일 검찰과 경찰에 다시 사건을 이첩하라고 요구했고, 이에 경찰은 윤 대통령과 김용현 전 국방부 장관, 박안수 육군참모총장, 여인형 전 국군방첩사령관, 이상민 전 행정안전부 장관 등의 사건을 공수처로 이첩했다. 이런 분위기를 의식해 검찰도 윤 대통령과 이상민 전 장관 사건을 공수처로 보낸 것으로 보인다.&lt;br&gt;&lt;br&gt;법조계에서는 “국회에서 윤 대통령 내란죄 상설특검이 통과돼 어차피 사건 수사를 중단할 상황이 되니까 이제 와서 가장 약체(弱體)인 공수처에 사건을 떠넘기는 것 아니냐”는 말이 나왔다.&lt;br&gt;&lt;br&gt;이첩 결정 사실이 알려지자, 검찰 특별수사본부 내부에서는 일부 반발하는 움직임이 있었다고 한다. 특수본은 지난 11일 윤 대통령에게 출석요구서를 보낸 데 이어 16일에도 “21일까지 출석하라”고 재차 통보한 상태였기 때문이다. 검찰 한 관계자는 “수사팀은 전날까지도 윤 대통령에 대한 수사를 염두에 두고 수사를 상당 부분 진척해 왔는데 갑자기 이첩하라고 하니, 힘이 빠져 업무가 멈춰버린 분위기라고 들었다”고 말했다.&lt;br&gt;&lt;br&gt;이첩 발표를 한 지 3시간여 만인 이날 오후 3시 30분쯤 검찰 특수본부장을 맡고 있는 박세현 서울고검장은 대검을 찾아 1시간가량 심우정 검찰총장과 면담했다. 이에 박 고검장이 항의성 방문을 한 것 아니냐는 해석이 나오기도 했다. 이에 대해 대검 관계자는 “검찰총장의 소집에 따라 이뤄진 면담이었고, 향후 수사 방향을 논의한 것”이라고 했다.&lt;br&gt;&lt;br&gt;검찰은 앞으로 김 전 국방부 장관과 여 전 방첩사령관 등 계엄에 관여한 군 지휘관들 수사에 집중한다는 방침이다. 검찰은 여인형 전 사령관으로부터 “비상계엄 당시 김용현 전 장관이 체포하라고 했던 정치인 등은 평소 윤 대통령이 사석에서 문제가 있다고 언급했던 인물들이었다”는 취지의 진술을 확보한 것으로 알려졌다. 윤 대통령에 대해서도 “(대통령이) 작년 12월쯤부터 사적인 모임 자리에서 시국을 걱정하면서 ‘어려운 사회문제를 해결하는 건 비상 조치밖에 없지 않으냐’는 언급을 했다”고 진술했다고 한다.&lt;br&gt;&lt;br&gt;한편 경찰 등 공조수사본부는 윤 대통령에게 “18일 오전 10시까지 정부과천청사에 있는 공수처로 나와 조사받으라”고 통보했지만, 윤 대통령은 나오지 않았다. 2차 출석 요구를 할지는 검토 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>탄핵심판 서류 3일째 안받는 尹… 헌재, ‘송달 간주’ 검토</title>
-      <link>https://www.chosun.com/national/court_law/2024/12/19/DAYEUS3ZGNE5BAWQTCGBKDOVDQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/19/DAYEUS3ZGNE5BAWQTCGBKDOVDQ/</guid>
-      <dc:creator>방극렬 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 18 Dec 2024 15:50:00 +0000</pubDate>
-      <content:encoded>윤석열 대통령이 헌법재판소가 보낸 탄핵 심판 관련 서류를 3일째 수령하지 않자, 헌재가 예외적인 ‘송달 간주’ 방식으로 처리하는 방안을 검토하고 있다. 송달 간주는 당사자가 소송 서류 수령을 거부해도 전달된 것으로 간주하고 재판 절차를 진행하는 것이다. 윤 대통령 탄핵 심판 절차가 지연되는 것을 막기 위해 헌재가 신속한 심리에 나섰다는 평가가 나온다.&lt;br&gt;&lt;br&gt;헌재는 18일 윤 대통령이 탄핵 심판 관련 서류를 수령하지 않는 것에 대해 “송달 처리 방법을 재판부에서 검토 중”이라고 밝혔다. 헌재는 지난 16일부터 매일 윤 대통령 측에 답변서 제출 요구서 등 각종 공문을 보내고 있다. 지난 16일에는 헌재 직원이 대통령 비서실을 방문해 탄핵 심판 청구 접수 통지와 답변서 제출 요구서 등을 전달했다. 헌재는 같은 문서를 다음 날 우편으로 대통령실·관저에 보냈고, 전산 시스템을 통해 전자 발송도 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SJ2AQV6PENC6ZBFZQUZRCNI2UY.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=김성규&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;헌재는 또 전날 윤 대통령에게 비상계엄 선포 당시 국무회의 회의록과 계엄 포고령을 오는 24일까지 내라고 명령했다. 탄핵이 부당하다는 윤 대통령의 주장을 입증할 계획과 증거 목록도 함께 제출하라고 했다. 이 공문은 17일 전자 발송했고, 18일 우편으로도 발송했다.&lt;br&gt;&lt;br&gt;그러나 윤 대통령 측은 해당 서류를 모두 접수하지 않고 있다고 헌재는 밝혔다. 이진 헌재 공보관은 “헌재 직원이 행정관에게 직접 (답변서 제출 요구서 등) 문서를 전달했지만 접수증을 받지 못했다”며 “우편으로 대통령실에 발송한 문서는 17일 오전 11시 31분 ‘수취인 부재’라고 우체국에서 통보받았다. 대통령 관저로 발송한 문서는 같은 날 9시 55분에 ‘경호처 수취 거부’ 통지를 받았다”고 말했다. 대통령실은 윤 대통령이 전자 발송한 문서를 수령했는지도 확인해 주지 않고 있다고 한다.&lt;br&gt;&lt;br&gt;탄핵소추된 당사자가 헌재에서 보내는 각종 공문을 수령하지 않는 것은 이례적인 상황이다. 이 공보관은 “어떤 사유로 (수령을) 거부하는지 확인이 되지 않고, 의도를 추측하기도 어렵다”고 말했다.&lt;br&gt;&lt;br&gt;이에 헌법재판관들은 윤 대통령 측의 수령 거부가 계속될 경우 ‘송달 간주’ 방식을 적용할지 검토하는 것으로 알려졌다. 집이나 사무실 등 송달 장소에 서류를 놓아두고 전달된 것으로 간주하는 ‘유치 송달’, 동거인이나 대리인에게 대신 전달하는 ‘보충 송달’, 서류가 우체국에 접수됐을 때 송달된 것으로 처리하는 ‘발송 송달’ 등이 있다. 이 밖에 헌재 홈페이지에 공시하거나, 전자 송달 후 일주일이 지나면 송달된 것으로 간주하는 방법도 있다. 헌재 관계자는 “재판부가 여러 송달 간주 방식과 요건을 검토하고 있다”고 설명했다.&lt;br&gt;&lt;br&gt;헌재가 송달 간주로 처리하면 송달 효력이 발생해 윤 대통령은 7일 이내 답변서를 내고, 오는 24일까지 국무회의 회의록과 입증 계획 등을 제출해야 한다. 만약 윤 대통령이 이를 내지 않으면, 헌재는 오는 27일 첫 변론 준비 기일에 윤 대통령 측 자료 없이 심판을 진행할 수도 있다. 재판관들은 19일 평의(評議)를 열고 송달 처리 방식을 포함한 탄핵 심판 절차를 논의할 전망이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>강추위에 완전 무장</title>
-      <link>https://www.chosun.com/national/national_general/2024/12/19/7CYU5BGBPZBOPIM6CAKMC22LHI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/19/7CYU5BGBPZBOPIM6CAKMC22LHI/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 18 Dec 2024 15:50:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HRZWE4FFNZCQ3PSIOQ2NVYUVQU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/전기병 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;18일 오전 서울 세종대로 사거리. 패딩 점퍼를 입은 시민이 털모자를 눌러쓰고 있다. 이날 서울의 아침 최저기온은 영하 6도로 올겨울 들어 가장 추웠다. 기상청은 “19일 아침에도 서울의 기온이 영하 5도까지 떨어지는 등 강추위가 이어질 것”이라며 “이번 추위는 19일 낮부터 점차 풀릴 것으로 예상된다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>이재명 의원실·집에 2심 서류 들고 간다</title>
-      <link>https://www.chosun.com/national/court_law/2024/12/19/XXJY5YXVZNDOHC4CTMG6IBB5AE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/19/XXJY5YXVZNDOHC4CTMG6IBB5AE/</guid>
-      <dc:creator>박강현 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 18 Dec 2024 15:50:00 +0000</pubDate>
-      <content:encoded>법원이 공직선거법 위반 혐의로 기소된 이재명 더불어민주당 대표의 항소심 진행에 필요한 서류를 집행관이 들고 의원실과 자택을 찾아 직접 전달하기로 했다. 이 대표가 소송기록 접수 통지서를 두 차례나 받지 않은 데 따른 후속 조치다.&lt;br&gt;&lt;br&gt;18일 법조계에 따르면, 서울고법은 전날 이 대표의 소송기록 접수 통지서를 서울 여의도 국회 의원회관 사무실과 인천 계양구 자택에 집행관을 통해 송달하기로 결정했다. 서울고법은 이 대표 의원실과 자택이 있는 지역을 관할하는 서울남부지법과 인천지법에 각각 송달 요청을 한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;앞서 서울고법은 지난 9일과 11일 이 대표에게 우편으로 소송기록 접수 통지서를 두 차례 보냈지만, 현재 주소를 확인할 수 없거나 문이 잠겨 있다는 등의 이유로 송달되지 않았다. 우편을 통한 송달이 불발되자 법원 집행관이 직접 서류를 들고 이 대표를 찾아가기로 한 것이다.&lt;br&gt;&lt;br&gt;형사소송법에 따르면, 피고인은 소송기록 접수 통지를 받은 후 20일 내 항소이유서를 법원에 제출하도록 돼 있다. 통지서가 송달되지 않으면 이런 절차가 진행될 수 없게 된다. 변호인이 대신 수령할 수도 있지만, 이 대표는 아직 항소심 변호인을 선임하지 않아 변호인에게 전달할 수도 없는 상황이다.&lt;br&gt;&lt;br&gt;만약 집행관이 통지서를 들고 갔는데도 실패하면, 법원은 홈페이지 등에 올린 뒤 2주가 지나면 전달된 것으로 간주하는 ‘공시 송달’로 처리할 수 있다. 한 서울고법 부장판사는 “이 대표가 계속 서류를 수령하지 않는다면, 소송 절차를 고의적으로 방해해 재판을 지연시키려는 것으로 해석될 수 있다”고 말했다.&lt;br&gt;&lt;br&gt;이 대표는 이 사건 1심에서 징역 1년에 집행유예 2년을 선고받았다. 이대로 형이 확정되면 이 대표는 의원직을 상실하고 피선거권이 박탈된다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[오늘의 날씨] 2024년 12월 19일</title>
