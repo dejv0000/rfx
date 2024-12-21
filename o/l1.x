@@ -6,6 +6,25 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>'햄버거집 계엄 2차 회동' 전직 정보사령부 대령 구속</title>
+			<description>&lt;p&gt;12·3 비상계엄 선포 당일, 한 햄버거 패스트푸드점에서 계엄을 모의한 혐의를 받는 정보사령부 출신 예비역 대령이 구속됐다.&lt;/p&gt;&lt;br /&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="7982"&gt;이훈재&amp;nbsp;&lt;/span&gt;서울중앙지법 영장당직 부장판사는 21일 내란실행 혐의를 받는 김용군 전 정보사 대령에 대해 "증거 인멸과 도망할 염려가 있다"며 구속영장을 발부했다.&lt;br /&gt;&lt;br /&gt;김 전 대령은 방어권 행사를 포기하고 이날 오후 구속영장실질심사에 불출석했다.&lt;br /&gt;&lt;br /&gt;김 전 대령은 3일 계엄 선포 전 경기 안산시에 있는 한 햄버거 패스트푸드점에서 노 전 사령관과 국방부 조사본부 소속 현직 장교 2명을 만나 계엄을 모의했다는 의혹을 받는다. 노 전 사령관은 1일 이 가게에서 문상호 정보사령관 등과 만났던 것으로 알려졌다.&lt;br /&gt;&lt;br /&gt;김 전 대령은 계엄 뒤 꾸려질 방첩사 합동수사단에 예비역 등 민간인이 참여하는 별도 수사단을 구성해 현역 요원들을 통제하려 했다는 의혹을 받는다.&lt;br /&gt;&lt;br /&gt;앞서 18일 경찰 국가수사본부 특별수사단과 고위공직자범죄수사처 등이 참여한 공조수사본부는 김 전 대령을 긴급체포하고 이튿날 구속영장을 신청했다.&lt;br /&gt;&lt;br /&gt;김 전 대령은 국방부 조사본부 수사단장을 지내던 2013년 국군사이버사령부의 댓글 공작 사건 수사를 축소·은폐한 혐의로 2018년 1월 구속돼 징역 10개월을 선고받았다.&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
+			<pubDate>Sat, 21 Dec 2024 11:03:38 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/204036</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/204036</guid>
+			<dc:creator>임현경 기자</dc:creator>
+		</item>
+		<item>
+			<title>檢, 박상우 국토부 장관 참고인 소환조사</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 802px;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/204035.jpg" alt="204035.jpg" style="width: 100%; height: auto;" /&gt;      &lt;figcaption class="cheditor-caption-text" style="text-align: center; margin: 10px; font-size: 14px; line-height: 1.6em;"&gt;박상우 국토부 장관 《사진=연합뉴스》&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;12·3 비상계엄 사태를 수사하는 검찰이 박상우 국토부 장관을 참고인 신분으로 불러 조사했다.&lt;br /&gt;&lt;br /&gt;21일 법조에 따르면, 검찰 비상계엄 특별수사본부(본부장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="1054"&gt;박세현&amp;nbsp;&lt;/span&gt;서울고검장)는 이날 박 장관을 소환 조사했다.&lt;br /&gt;&lt;br /&gt;검찰은 박 장관을 상대로 계엄 선포 전후로 열렸던 국무회의와 관련된 상황을 조사한 것으로 알려졌다.&lt;br /&gt;&lt;br /&gt;박 장관은 3일 비상계엄 선포 전 소집된 국무회의에는 늦게 도착해 불참했다. 대신 다음 날인 4일 오전 4시 30분께 비상계엄 해제를 위해 열린 국무회의에는 참석했다.&lt;br /&gt;&lt;br /&gt;박 장관은 18일 기자간담회에서 "국무위원으로서 비상계엄이 발령된 것, 그리고 현 시국에 이르게 된 것에 대해 국민들께 송구스럽고 안타깝다"면서도 "비상계엄 사실을 대통령 담화를 듣고 처음 알았다"고 설명했다.&lt;br /&gt;&lt;br /&gt;검찰은 계엄 선포 전후 국무회의에 참석한 국무위원에 대한 조사를 진행 중이다. 계엄 전 국무회의에 참석했던 조규홍 보건복지부 장관과 김영호 통일부 장관도 소환 조사했다.&lt;br /&gt;&lt;br /&gt;한편 21일 김봉식 서울경찰청장도 검찰에 송치된 뒤 첫 조사를 받았다. 경찰 국가수사본부 특별수사단은 20일 조지호 경찰청장과 김 서울청장을 형법상 내란 중요임무 종사 혐의로 검찰에 구속 송치했다. 이들은 3일 비상계엄 사태 당시 국회 전면 출입통제 조치를 일선 경찰에 하달하는 등 계엄 해제 표결을 하기 위해 국회로 가는 국회의원, 보좌관 등의 출입을 방해한 혐의를 받는다.&lt;/p&gt;</description>
+			<pubDate>Sat, 21 Dec 2024 09:14:06 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/204035</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/204035</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/204035.jpg</media:thumbnail>
+			<dc:creator>임현경 기자</dc:creator>
+		</item>
+		<item>
 			<title>[포토] 내 마음의 풍경</title>
 			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/204012.jpg" alt="204012.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;추울 땐 역시···. 찐방 솥에서 김이 모락모락 오르고 있다. 대구 달성군 가창찐빵길.&lt;br /&gt;&lt;p style="text-align: left;"&gt;&lt;br /&gt;&lt;/p&gt;&lt;p style="text-align: right;"&gt;&lt;b&gt;연합뉴스&lt;/b&gt;&lt;/p&gt;</description>
 			<pubDate>Fri, 20 Dec 2024 20:00:50 -0000</pubDate>
@@ -223,26 +242,6 @@
 			<link>https://www.lawtimes.co.kr/news/204024</link>
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/204024</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/204024.jpg</media:thumbnail>
-			<dc:creator>조한주 기자</dc:creator>
-		</item>
-		<item>
-			<title>김천·구미 청소년 범죄예방위원, 결손가정 청소년에게 생필품 지원</title>
-			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/thumb/180/204025.jpg" alt="204025_1.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;대구지방검찰청 김천지청, 김천시, 구미시가 후원하고 법무부 청소년 범죄예방위원 김천·구미지역협의회(회장 문홍모)가 주관한 '꿈나무들과 희망의 결연사업 지원금 및 물품 전달식' 행사가 지난 19일 오후 경북 김천시 삼락동 대구지검 김천지청에서 열렸다.&lt;br /&gt;&lt;br /&gt;이날 김천지청의&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="12008"&gt;최재아&lt;/span&gt;(47·사법연수원 34기) 지청장,&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="14100"&gt;박상수&lt;/span&gt;(51·36기) 형사제1부장검사,&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="15715"&gt;정미란&lt;/span&gt;(42·37기) 형사제2부장검사 등 검찰 관계자와 문홍모 회장을 비롯한 청소년 범죄예방위원 80여 명이 참석했다.&lt;br /&gt;&lt;br /&gt;희망의 결연사업은 2004년부터 매년 두 차례(7월과 12월) 방학 시기에 진행된다. 어려운 가정환경 속에서도 성실히 살아가는 소년소녀가장 및 조손(祖孫)가정 등 소외된 결손가정 청소년들에게 정신적·경제적 지원을 제공하기 위해 시작됐다.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/thumb/180/204025.jpg" alt="204025_2.jpg" /&gt;&lt;/p&gt;&lt;br /&gt;행사에서는 김천·구미 지역 청소년 113명에게 각각 10만 원의 지원금과 21만 원 상당의 생필품(쌀, 라면, 생필품, 김치 등)이 전달됐다. 생필품은 직접 청소년 가정으로 배송됐다. 농심은 매년 두 차례 열리는 이 행사에 선물세트를 후원하고 있다.&lt;br /&gt;&lt;br /&gt;문 회장은 "추운 겨울이지만 우리 청소년들이 결식 없이 따뜻하게 방학을 보내며 건강하게 지내기를 바란다"고 밝혔다.&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
-			<pubDate>Fri, 20 Dec 2024 13:54:36 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/204025</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/204025</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/204025.jpg</media:thumbnail>
-			<dc:creator>조한주 기자</dc:creator>
-		</item>
-		<item>
-			<title>포항 범죄예방위원, '사랑의 연탄' 나눔 행사</title>
-			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/204027.jpg" alt="204027.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;대구지방검찰청 포항지청(지청장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="11717"&gt;이완희&lt;/span&gt;)과 청소년 범죄예방위원 포항지역협의회(회장 나주영), 포항회 청소년1분과위원회(위원장 최종석)가 지난 16일 지역 내 어려운 이웃들에게 따뜻한 겨울을 선사하기 위해 '사랑의 연탄 나누기' 행사를 진행했다. 이날 행사에서는 연탄 5000장이 취약계층에 전달됐다.&lt;br /&gt;&lt;br /&gt;행사에는 대구지검 포항지청의&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="11717"&gt;이완희&lt;/span&gt;(50·34기) 지청장,&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="14201"&gt;고은별&lt;/span&gt;(46·36기) 형사1부장검사,&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="12077"&gt;김영주&lt;/span&gt;(48·37기) 형사2부장검사,&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="39125"&gt;최은민&lt;/span&gt;(41·변호사시험 10회) 소년전담검사를 비롯한 검찰 관계자들과 포항 범죄예방위원회 나주영 회장, 이복우 수석부회장, 최현창 운영부위원장, 최종석 청소년1분과위원장 및 위원들, 영일중학교 학생 등 총 40명이 참석했다.&lt;br /&gt;&lt;br /&gt;참석자들은 경북 포항시 남구 연일읍과 송도동 지역의 취약계층 11세대를 방문해 연탄을 직접 전달하며 따뜻한 정을 나눴다.&lt;br /&gt;&lt;br /&gt;포항회는 지난 19년간 매년 사랑의 연탄 나누기 행사를 이어오고 있다. 이 지청장은 “따뜻함을 나누는 뜻깊은 활동에 함께할 수 있어 기쁘다”고 소감을 밝혔다.&lt;/p&gt;</description>
-			<pubDate>Fri, 20 Dec 2024 13:50:16 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/204027</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/204027</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/204027.jpg</media:thumbnail>
 			<dc:creator>조한주 기자</dc:creator>
 		</item>
 	</channel>
