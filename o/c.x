@@ -13,6 +13,96 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>“의대 정원, 4000명으로 2031년까지” 민간 연구 결과</title>
+      <link>https://www.chosun.com/national/welfare-medical/2024/12/21/HCKVZ6MZ2NHOVLCKG56F4PFKZI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/12/21/HCKVZ6MZ2NHOVLCKG56F4PFKZI/</guid>
+      <dc:creator>선정민 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 21 Dec 2024 02:54:23 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DKQVSHTMTVP3ZF7VLGIHJEGRFQ.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;지난 17일 서울의 한 대학병원에서 의료진이 이동하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;당분간 의대 입학 정원을 현재 3000명 수준에서 1000명 늘린 4000명 선으로 지속하다가, 증원된 의사가 배출되기 시작하는 2031년부터는 의대 정원 규모를 미세 조정해 나가면 의사 인력의 중장기적인 균형을 확보할 수 있다는 연구 결과가 나왔다.&lt;br&gt;&lt;br&gt;21일 한국사회보장학회 학회지 사회보장연구에 실린 논문 ‘한국 보건의료제도에서 의사의 수요와 공급: 국가 단위 계량경제회귀모형을 통한 적정 의사수 추계’에 따르면, 연세대 보건행정학부 정형선 교수 연구팀은 의사 인력이 2025년 기준으로 적게는 1만4473명에서 많게는 2만8748명의 공급 부족 상태를 보인다고 추계했다. 10년 뒤인 2035년에도 162명에서 2만655명의 의사 공급 부족이 이어졌다. 한편 2035년부터 2040년 사이에는 ‘공급 초과’로 전환하는 것으로 나타났다. 연구팀은 이 같은 추계를 위해 1인당 의료비와 GDP(국내총생산), 65세 이상 인구 비중, 사망률, 병상 수, 행위별 수가제, 주치의 제도 등의 변수를 적용했고, 임상한의사가 임상의사를 일부 대체하는 시나리오도 점검했다.&lt;br&gt;&lt;br&gt;이에 따르면, 의사 ‘부족’이 적정 수준을 거쳐 ‘초과’로 전환되는 시점은 초기 증원 규모가 클수록 앞당겨졌다. 다만 2040년부터는 대부분의 연구 시나리오에서 의사 인력이 공급 초과 상태에 도달하는 것으로 나타났다. 연구팀은 2040년보다 빠르게는 10년 전, 최소한 6년 전의 시점부터는 임상의사의 수급 상황을 보면서 의대 입학 정원을 재조정할 필요가 있다고 봤다.&lt;br&gt;&lt;br&gt;연구팀은 “입학정원을 4000명 선으로 지속하다가 증원 배출이 시작되는 2031년 시점부터 의대정원 규모를 미세 조정해나가면 수요와 공급의 중장기적인 균형을 확보할 수 있다”며 “이를 위해 의사인력의 중장기 수급 전망을 의대 정원에 반영할 기구와 기전을 갖추어야 하며, 의사 인력의 지역간, 부문간 불균형을 해소하기 위한 대책이 병행되어야 한다”고 했다.&lt;br&gt;&lt;br&gt;연구팀은 “의사의 과잉 공급은 ‘의사 유인 수요’의 가능성을 높여 의료비를 증가시킬 수 있다. 하지만 의사의 과소 공급은 국민의 의료 니드(필요)를 충족하지 못하고, 때로는 의사 보수의 상승을 통해 의료비 단가를 높이고 국민 부담을 높일 위험성을 갖는다”고 했다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘트랙터 행진’ 전국농민총연맹, 경찰 ‘불허’에도 상경 예고</title>
+      <link>https://www.chosun.com/national/national_general/2024/12/21/7NK6WWENDNESPMKGEEYI3YUMWI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/21/7NK6WWENDNESPMKGEEYI3YUMWI/</guid>
+      <dc:creator>고유찬 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 21 Dec 2024 00:32:38 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G5KNTCVT4JL4DBGD34LSIVG5HM.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;전국농민회총연맹(전농) 소속 농민들이 16일 전남도청 앞에서 '윤석열 체포 결사대 출정식'을 마치고 대통령 관저를 향해 상경 행진을 벌이고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전국농민회총연맹(전농)이 윤석열 대통령 체포·구속을 촉구하며 트랙터를 몰고 상경을 예고했다. 경찰은 이들의 서울 진입을 불허하겠다는 입장을 밝혔으나 전농 측은 상경을 계획대로 추진하겠다는 입장이라 마찰이 예상된다.&lt;br&gt;&lt;br&gt;21일 경찰 등에 따르면, 전농 소속 트랙터 17대와 화물차 20여대가 오전 9시쯤 경기 수원시청을 출발해 상경하고 있다. 이들은 16일 전남 무안과 17일 경북 고령에서 각각 출발해 전날 오후 4시쯤 경기 수원시청 앞에 도착해 집회를 열었다.&lt;br&gt;&lt;br&gt;이들은 농산물 최저가격제 시행, 노동 차별 철폐 등 12가지 개혁안을 주장하고 있다. 또한 윤석열 대통령 퇴진을 요구하며 21일 서울에 진입해 한남동 대통령 관저와 광화문 촛불집회 장소로 행진하겠다며 경찰에 집회·시위 신고를 냈다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MQV5IG6E7BMSHKJJI3GJLMXHVQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전국농민회총연맹(전농) 전북도연맹 소속 농민들이 트랙터를 몰고 서울로 상경하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;하지만 서울경찰청은 전농 트랙터 행진이 극심한 교통 불편을 야기할 수 있다는 이유로 전날 ‘제한 통고’ 조치를 내렸다. 이에 전농은 “경찰이 집회·시위의 자유를 제한하며 기본권을 심각하게 침해하고 있다”며 반발했다.&lt;br&gt;&lt;br&gt;전농 관계자는 “서울 진입을 하루 앞두고 경찰이 납득할 수 없는 이유로 행진을 막았다”며 “행진을 예정대로 진행할 예정”이라고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>헌재, 이진숙 탄핵심판 내년 연기…尹 대통령 심판에 집중</title>
+      <link>https://www.chosun.com/national/court_law/2024/12/21/NCQIV5URC5EMBO74TXTODSFMKE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/21/NCQIV5URC5EMBO74TXTODSFMKE/</guid>
+      <dc:creator>이슬비 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 21 Dec 2024 02:11:38 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JOKR66XGCZBT5AO37C7KUDJZIM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령이 지난 8월 1일 서울 용산 대통령실 청사에서 이진숙 방송통신위원장에게 임명장을 수여한 뒤 이 위원장과 대화하며 환담장으로 향하고 있다. /대통령실&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;헌법재판소가 오는 24일 예정된 이진숙 방송통신위원장 탄핵 심판 마지막 변론을 내년으로 늦췄다. 윤석열 대통령 탄핵 심판에 역량을 집중하기 위한 것이라는 해석이 나온다. 윤 대통령 탄핵심판 사건의 첫 변론 준비 기일은 오는 27일 예정대로 진행된다.&lt;br&gt;&lt;br&gt;21일 법조계에 따르면, 헌재는 최근 이 위원장의 탄핵 심판의 마지막 변론기일을 내년 1월 15일 오전 10시로 미뤘다. 이 위원장 탄핵 심판 사건은 지금까지 두 차례 변론이 진행됐고, 오는 24일을 끝으로 변론을 종결할 예정이었다.&lt;br&gt;&lt;br&gt;법조계에서는 “윤 대통령 탄핵심판에 집중하려는 조치”라는 해석이 나왔다. 헌재는 지난 14일 국회가 윤 대통령에 대한 탄핵소추 의결서를 접수한 지 이틀 만인 16일, 헌법재판관 6인 전원이 참석하는 첫 재판관 회의를 열었다. 이 회의에서 헌재는 “재판관 ‘6인 체제’에서도 심리와 변론이 가능한 것으로 보고 있다”라며 “(윤 대통령 사건을) 탄핵심판 사건 중 최우선적으로 심리하겠다”고 했다. 그러면서 윤 대통령 탄핵심판 사건의 첫 변론 준비 기일을 오는 27일 오후 2시로 지정했다.&lt;br&gt;&lt;br&gt;다만 헌재 측은 이 위원장 탄핵심판 변론을 연기한 이유에 대해 “국회 추천 몫 3인의 헌법재판관 인사청문회가 오는 23·24일로 예정돼 있어 미룬 것”이라고 설명했다. 민주당은 윤 대통령을 탄핵할 필요가 생기자 급히 헌재 재판관을 추천했다. 헌재가 탄핵·위헌 사건을 심리하려면 재판관 9명 중 7명이 있어야 하고, 6명의 찬성으로 탄핵·위헌 결정이 내려지기 때문이다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇‘줄탄핵’으로 국정 마비 우려&lt;/b&gt;&lt;br&gt;&lt;br&gt;정치권에서는 민주당의 고위 공직자 ‘줄탄핵’으로 국가 기능 마비가 장기화할 수 있다는 우려가 나온다. 탄핵 소추가 되면 해당 공직자는 직무 정지 상태가 되기 때문이다.&lt;br&gt;&lt;br&gt;이 위원장은 방통위 상임위원 2명 체제에서 MBC 대주주인 방송문화진흥회(방문진) 등 공영방송 이사 선임 안건을 의결한 위법이라는 이유로 지난 8월 2일 국회에서 탄핵 소추됐다. 이 위원장은 취임 이틀 만에 탄핵 소추되면서 직무가 정지됐다.&lt;br&gt;&lt;br&gt;최재해 감사원장, 박성재 법무부장관, 서울중앙지검의 이창수 지검장과 조상원 4차장검사·최재훈 반부패2부장검사, 조지호 경찰청장도 민주당 주도의 탄핵 소추로 직무가 정지된 상태다.&lt;br&gt;&lt;br&gt;최재해 감사원장과 이창수 서울중앙지검장은 헌법재판소에 직무 정지의 효력을 멈춰달라는 가처분 신청을 냈다. 헌재가 가처분을 받아들일 경우 탄핵 심판 사건의 결정이 날 때까지 임시로 직무를 수행할 수 있다. 차진아 고려대 법학전문대학원 교수는 “직무상 중대한 법 위반이 없는데도 ’직무 정지’만을 이유로 의회가 탄핵권을 남용하는 데 대해 헌재가 제동을 걸 필요가 있다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘롯데리아 계엄 회동’ 노상원 안산 점집 가보니</title>
+      <link>https://www.chosun.com/national/national_general/2024/12/21/X7U4FQQEUFCLHCDVFC457Z352A/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/21/X7U4FQQEUFCLHCDVFC457Z352A/</guid>
+      <dc:creator>고유찬 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 21 Dec 2024 01:38:38 +0000</pubDate>
+      <content:encoded>‘12·3 비상계엄 사태’의 주역인 노상원(62·육사 41기·예비역 육군 소장) 전 정보사령관이 운영했다는 점집은 경기도 안산시 본오동의 한 다세대 주택의 반지하 1층에 있었다. 빌라가 밀집한 주거지에 있는 이곳은 이른바 ‘롯데리아 계엄 회동’이 있었던 롯데리아 상록수점과 약 1.5㎞ 떨어져 있다. 걸어서 약 20분이 걸리는 거리다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JZ5LZ5EQXNDETBFZUNSIQAHDD4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;‘12·3 비상계엄 사태’의 주역인 노상원 전 정보사령관이 운영했다는 경기도 안산시 본오동의 한 점집. /고유찬 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;21일 오전 본지가 찾은 이곳 점집은 문이 굳게 닫혀 있었다. 현관문 앞에서는 채 가시지 않은 향냄새가 났다. 현관문에는 빨간색 ‘만(卍)’자와 함께 ‘안산시 모범 무속인 보존위원’이라는 스티커가 붙어 있었다. 몇 차례 문을 두드렸지만 인기척은 없었다.&lt;br&gt;&lt;br&gt;현관문 앞에는 북어가 잔뜩 쌓여 있었고, 제사상에 오르는 잡채도 바짝 마른 채 북어 위에 놓여 있었다. 현관문 앞 창고로 쓰이는 공간에는 점집에서 사용하는 대형 초가 쌓여 있었고, 그 옆에 있는 대형 유리병에는 ‘소원성취’라는 스티커가 붙어 있었다. 막걸리와 소주 등 술병도 보였다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/N67XCTEYKVHD3HMNQGNET6YCKU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;‘12·3 비상계엄 사태’의 주역인 노상원 전 정보사령관이 운영했다는 경기도 안산시 본오동의 한 점집 현관문 앞에 북어가 쌓여 있다. /고유찬 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;노 전 사령관은 계엄 당시 민간인 신분으로, 김용현 전 국방부 장관을 도와 이번 계엄을 기획한 ‘비선’으로 지목된 인물이다. 그는 지난 1일 문상호 정보사령관, 정보사 대령 2명과 함께 롯데리아에서 햄버거를 먹으며 계엄을 준비한 것으로 파악됐다. 그는 지난 18일 경찰에 구속됐다.&lt;br&gt;&lt;br&gt;그는 2019년쯤 전역한 이후 이곳에서 여성 2명과 함께 무속인으로 활동해 왔다고 한다. 지난 3일 비상계엄 당일에도 이곳에 머물고 있었던 것으로 전해졌다. 경찰 특별수사단은 지난 15일 이곳 점집에서 노 전 사령관을 체포할 당시 그가 쓰던 수첩을 확보한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XPYOC2JCSJGDZOFTC2JDGGMSVE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;‘12·3 비상계엄 사태’의 주역인 노상원 전 정보사령관이 운영했다는 경기도 안산시 본오동의 한 점집. /고유찬 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인근에서 상점을 운영하는 김모씨는 “기자들이 몰려들길래 무슨 일이 있나 했는데 (노 전 사령관이) 여기 머물렀다는 건 전혀 몰랐다”며 “근처 롯데리아에서 만난 이유가 이해가 된다”고 했다. 또 다른 동네 주민 A씨는 “점집에 남자분이 있다는 건 알았는데 전직 사령관일줄은 꿈에도 몰랐다”며 “풍채가 있어 지나다니면서 (노 전 사령관이) 자주 눈에 띄었다”고 했다.&lt;br&gt;&lt;br&gt;주민들은 얼마 전까지만 해도 이곳 점집 건물 외벽에 ‘아기보살’이라는 현수막이 달려 있었지만, 노 전 사령관 관련 언론 보도가 쏟아져 나오자 철거됐다고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RW5JMT62T3POAKSYWWRXSLCU3I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;노상원 전 정보사령관&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한편 계엄 이틀 전 노 전 사령관과 함께 ‘롯데리아 계엄 회동’에 참여했던 문상호 정보사령관이 20일 구속됐다. 공조수사본부는 이들이 현직 대법관인 노태악 중앙선거관리위원장을 체포하는 계획을 세웠었다는 진술을 확보한 것으로 알려졌다. 이들은 노 위원장과 선관위 직원들을 케이블 타이로 묶고 두건을 씌우는 방안도 논의한 것으로 경찰은 파악하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“절 옆에 집 지어줄게”…1억여원 뜯은 사찰 주지, 징역 1년 6개월</title>
+      <link>https://www.chosun.com/national/regional/2024/12/21/GP7ARLQFYNC43LSLB2EIXP6NDU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/12/21/GP7ARLQFYNC43LSLB2EIXP6NDU/</guid>
+      <dc:creator>우정식 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 21 Dec 2024 00:56:36 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HO6TND4Q2XSQBDXD2M2XHVC5Q4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;춘천지법 /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;돈을 빌려주면 절 옆에 건물을 지어 노후를 보낼 수 있게 해주겠다며 지인에게 1억5000여만원을 받아 가로챈 주지 스님이 사기죄로 실형을 선고받았다.&lt;br&gt;&lt;br&gt;춘천지법 형사3단독 박성민 부장판사는 사기 혐의로 기소된 A(75)씨에게 징역 1년 6개월을 선고했다고 21일 밝혔다.&lt;br&gt;&lt;br&gt;춘천시 한 사찰의 주지 스님인 A씨는 2022년 2월 B씨에게 “돈을 빌려주면 절 옆 땅에 건물을 짓고 노후를 보낼 수 있도록 해주겠다”고 속여 1억5500만원을 받아 가로챈 혐의로 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;법원은 A씨가 B씨로부터 받은 돈 중 6800만원은 빚을 갚는 데 쓰고, 남은 금액으로 건물을 지을 능력이 있다고 보이지 않는 점 등을 근거로 사기죄가 인정된다고 판단했다.&lt;br&gt;&lt;br&gt;박 부장판사는 “피해가 전혀 회복되지 않았고, 합의되지 않은 점은 불리한 정상”이라며 “다만 피해자로부터 받은 돈 중 약 6300만원을 건축을 위한 토지 취득에 쓴 점과 동종 범죄로 처벌받은 전력이 없는 점을 유리한 정상으로 고려해 형을 정했다”고 밝혔다. A씨에게 실형을 선고하면서도 도주 또는 증거인멸 우려는 없다고 보고, 양 측이 합의할 기회를 주기 위해 법정 구속은 하지 않았다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“가족까지 협박”… 신세경 수년간 괴롭힌 악플러, 결국 체포됐다</title>
+      <link>https://www.chosun.com/national/national_general/2024/12/21/B6RJQYYK55GJFA6X7FNR5GZRQM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/21/B6RJQYYK55GJFA6X7FNR5GZRQM/</guid>
+      <dc:creator>박선민 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 21 Dec 2024 00:48:46 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XRXDH5ID2RLL3D4T7HJFR5QGIE.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;배우 신세경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;배우 신세경에게 수년간 악성 댓글을 달아 온 가해자가 체포됐다.&lt;br&gt;&lt;br&gt;신세경 소속사 더프레젠트컴퍼니는 20일 “신세경 배우에 대한 지속적인 사이버 괴롭힘을 자행한 가해자가 법적 절차에 의해 체포됐다”며 “가해자는 수년간 다양한 온라인 플랫폼에서 배우뿐만 아니라 배우의 팬, 가족, 그리고 주변인을 대상으로 협박, 악의적인 비방, 허위 사실 유포, 모욕적인 언행을 지속적으로 일삼아 왔다”고 했다.&lt;br&gt;&lt;br&gt;소속사는 “현재 가해자에 대한 법적 처벌 절차가 진행 중”이라며 “앞으로도 소속 아티스트와 임직원의 권익을 보호하기 위해 모든 법적 수단을 강구할 것”이라고 했다. “유사한 사례가 발생할 경우에도 예외 없이 강경하고 단호하게 대응할 것”이라고도 했다.&lt;br&gt;&lt;br&gt;법무법인 어센던트 율본의 김지애 변호사는 “현재 수사가 진행 중인 만큼, 추이를 지켜보고 있다”며 “소속사와 함께 재발 방지와 피해자 보호를 위해 끝까지 최선을 다할 계획”이라고 했다. 그러면서 “이번 사건을 통해 온라인상 악플도 추적이 가능하며 반드시 법적 책임을 지게 된다는 점이 널리 알려지길 바란다”고 했다.&lt;br&gt;&lt;br&gt;앞서 신세경 소속사는 작년 8월에도 배우를 향해 지속적으로 악플을 다는 이들에 대해 형사고소를 진행 중이라고 밝혔다. 소속사는 같은 해 2월 서울 강남 경찰서에 성명불상자 외 1명을 대상으로 모욕죄 혐의로 고소장을 제출했으며, 2021년 10월에도 성명불상자 외 43명을 같은 혐의로 고소했다고 했다.&lt;br&gt;&lt;br&gt;당시 소속사는 피고소인들에 대한 신원 확보에 어려움이 있다면서도 “피고소인들의 신상 확보를 위하여 추가적인 자료 확보를 계속해서 진행하고 있다”고 했다. 아울러 “다소 시일이 걸리더라도 피고소인들에 대한 신상이 추가로 확인되는 즉시 수사기관에 선처 없는 수사를 촉구하겠다”고 했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>아들 학교폭력 가해자 신상 적은 유인물 게시한 아버지 ‘무죄’</title>
+      <link>https://www.chosun.com/national/regional/2024/12/21/EV4ZDHKMJRA4NGDFHVU6MAXOIQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/12/21/EV4ZDHKMJRA4NGDFHVU6MAXOIQ/</guid>
+      <dc:creator>우정식 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 21 Dec 2024 00:32:41 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YFMERL2TVFH3ZOE3O53YGE6HOI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원 로고. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;초등학생 아들에게 학교폭력을 가한 학생들의 신상과 폭행 내용을 적은 유인물을 아파트 상가 등에 게시한 아버지에게 무죄가 선고됐다.&lt;br&gt;&lt;br&gt;전주지법 형사7단독 한지숙 판사는 명예훼손 혐의로 기소된 A(40)씨에게 무죄를 선고했다고 21일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난해 10월 15일 전주시의 한 아파트 상가와 전봇대 등에 ‘5학년 집단 따돌림 폭행 살인미수 사건 안내문’이라는 제목의 유인물을 부착한 혐의를 받고 있다. 유인물에는 학교폭력 가해자의 신상을 특정할 수 있는 정보와 폭행 사실이 상세하게 적혀 있었다.&lt;br&gt;&lt;br&gt;A씨는 유인물 부착 이틀 전인 지난해 10월 13일 아들의 담임 교사에게 ‘아이가 같은 반 학생들에게 학교폭력을 당했다’는 이야기를 듣고, 학교로 달려가 담임 교사, 경찰관과 함께 아들이 당한 폭력에 대한 사실관계를 확인했다. 남학생 여럿이 같은 달 11∼13일 아들을 들어 집어 던지거나 명치를 찍어 누르고 목을 조른 사실을 알게 됐다.&lt;br&gt;&lt;br&gt;A씨 아들은 가해 학생들이 자신을 눕힌 뒤 붙잡아 못 움직이게 하고 발로 밟거나 이리저리 끌고 다녔다고 했다. A씨는 아들의 고백을 토대로 유인물을 만들어 주민들이 볼 수 있는 곳에 붙였다. 하지만 이후 열린 학교폭력심의위원회에서 가해자로 지목된 학생 중 한 명인 B군이 가담자로 인정되지 않으면서 B군의 명예를 훼손한 혐의로 법정에 서게 됐다.&lt;br&gt;&lt;br&gt;A씨 아들은 B군도 자신을 폭행했다고 주장했으나, 학폭위는 ‘구체적 사실관계가 확인되지 않았고, 학교 폭력이 일어난 마지막 날인 10월 13일에 해당 학생이 결석했다’는 이유를 들어 이를 받아들이지 않았다.&lt;br&gt;&lt;br&gt;이에 대해 한 판사는 A씨의 명예훼손 혐의가 충분히 증명됐다고 보기는 어렵다고 판단했다. 한 판사는 “피고인이 유인물을 부착한 시점은 담임 교사로부터 같은 반 모든 남학생이 학교폭력을 저질러 사과했다는 사실을 전달받은 이후였다”며 “담임 교사가 B군이 결석했다는 사실을 말하지 않았으므로 피고인 입장에선 B군도 학교폭력을 저질러 함께 사과했다고 오인했을 가능성을 배제할 수 없다”고 밝혔다.&lt;br&gt;&lt;br&gt;그러면서 “형법상 명예훼손죄가 성립하려면 적시한 사실이 허위여야 할 뿐만 아니라 피고인도 그와 같은 사실이 허위라는 것을 인식해야 하며, 그것을 입증할 책임은 검사에게 있다”며 “검찰이 제출한 증거만으로는 피고인이 작성한 유인물 내용을 허위라고 인식하고 있었다는 점이 증명됐다고 볼 수 없다”고 판시했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>한라산에 55cm 눈...충청, 경북 등 내륙에 대설특보</title>
+      <link>https://www.chosun.com/national/transport-environment/2024/12/21/F3VNXYWDY5A7HL6BG7RCTMELKY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2024/12/21/F3VNXYWDY5A7HL6BG7RCTMELKY/</guid>
+      <dc:creator>선정민 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 21 Dec 2024 00:53:52 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JOSUQKJNNRMVVHDSZ5DBCRBLJQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;밤사이 눈이 내린 21일 오전 서울 종로구 청와대 뒤 북악산에 눈이 쌓여 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;21일 오전 경기 북동부와 강원 등 중부 내륙에 최대 10cm가량 눈이 쌓였다. 오전 9시 현재 내륙을 제외한 대부분 지역에서 눈은 소강 상태이지만, 충청과 경북, 전북, 강원, 제주 일부 지역에는 대설주의보가 발령됐다. &lt;br&gt;&lt;br&gt;기상청에 따르면, 밤새 내린 눈으로 이날 오전 9시 기준 경기도 포천 10.2cm, 가평 9.2cm, 동두천 8.1cm, 양평 7.2cm, 광주와 여주 각각 7.1cm의 눈이 쌓였다. 또 강원 평창에 11.5cm, 홍천 11.3cm가 내렸다. 서울도 2.3cm(송월동 기준)가 쌓였다. 제주 한라산에는 최고 55.9cm가 내려 입산이 전면 통제됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SFITFNFJLRF2PAFQI7W776PU74.png"&gt;&lt;figcaption&gt;&lt;small&gt;21일 오전 9시 현재 적설 현황/기상청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;오전 9시 현재 내륙 지역을 중심으로 계속 눈이 내리고 있다. 충남 예산에 10cm, 전북 무주 7.9cm, 충북 괴산 6.5cm, 경북 문경 6.1cm, 상주 4.5cm 등이 쌓인 가운데 이들 지역을 포함한 내륙 등지에 눈이 내리고 있다.&lt;br&gt;&lt;br&gt;현재 충북 북부와 충남 계룡, 전북 무주 진안 장수, 경북 상주 문경 영주 봉화와 제주 및 강원 산지 등에 대설주의보가 발령된 상태다. 대설주의보는 24시간 동안 쌓이는 눈이 5cm 이상 예상될 때 발령한다. &lt;br&gt;&lt;br&gt;기상청은 “오늘(21일) 오후까지 전국 대부분 지역에 비 또는 눈이 내리는 곳이 있겠고, 빙판길과 도로 살얼음이 나타나는 곳이 많겠다”고 밝혔다. 비 또는 눈은 오늘 오전에 수도권과 강원 북부에서 차차 그치기 시작해 오후에 대부분 그치겠지만, 호남 서해안과 제주, 충남 북부 내륙에는 밤이나 22일 아침까지 눈비가 이어질 수 있다.&lt;br&gt;&lt;br&gt;21일 예상 적설량은 수도권과 강원, 충청, 전남, 경북 내륙 1~5cm이며, 전북 동부는 3~8cm, 제주 산지는 5~15cm이다. 예상 강수량은 수도권과 강원, 충청, 전라, 경상에서 5mm 미만이다.&lt;br&gt;&lt;br&gt;기상청은 “22일은 아침 기온이 큰 폭으로 떨어져 춥겠다”고 예보했다. 22일 전국의 아침 최저기온은 영하 12도에서 영상 1도, 낮 최고기온은 0도에서 8도로 예상됐다. 23일에도 최저 영하 12도에서 0도, 최고 3~9도로 예보됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“딸이 운전했다”…사망사고 내고 운전자 바꿔치기한 60대, 2심서 감형</title>
+      <link>https://www.chosun.com/national/regional/2024/12/21/YP5IA3DWT5AONK5RAVCWV2JM6E/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/12/21/YP5IA3DWT5AONK5RAVCWV2JM6E/</guid>
+      <dc:creator>우정식 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 21 Dec 2024 00:05:58 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WOIPX7HDNFCOHOGTNKRO6EMBJA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원로고. /조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;무면허 운전하다 교통사고를 내고 응급조치를 하지 않고 운전자 바꿔치기를 시도하다 피해자를 결국 숨지게 한 60대가 항소심에서 감형됐다.&lt;br&gt;&lt;br&gt;춘천지검 강릉지원 형사1부(재판장 권상표)는 특정범죄가중법상 도주치사, 도로교통법상 무면허 운전, 범인도피교사, 보험사기방지 특별법 위반 혐의로 기소된 A(61)씨에게 징역 5년을 선고한 원심을 깨고 징역 2년 6개월을 선고했다고 21일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 1월 9일 오전 10시 30분쯤 강릉시 신석동에서 투싼 승용차를 운전하던 중 오토바이를 몰고 가던 B(78)씨를 치어 숨지게 한 혐의를 받고 있다. 사고 직후 A씨는 119에 신고하지 않은 채 B씨를 차에 태우고 딸을 만난 뒤, 딸에게 운전대를 맡겨 병원으로 향했다. 그러나 이미 골든타임을 놓친 탓에 B씨는 결국 숨졌다.&lt;br&gt;&lt;br&gt;A씨는 “딸이 운전했다”고 주장했으나 경찰이 방범카메라(CCTV)를 분석한 결과 운전자는 A씨로 드러났다. 음주운전으로 면허취소 상태였던 A씨는 큰 처벌을 피하기 위해 피해자 유족과 경찰, 보험사에 딸이 운전했다고 속였으나 경찰이 증거를 제시하며 추궁하자 범행을 시인했다.&lt;br&gt;&lt;br&gt;검찰은 A씨가 지난해 12월부터 무면허 운전을 일삼은 사실을 밝혀내고 A씨를 구속했다. 다만 범인은닉죄와 관련해 친족 또는 동거 가족이 범인을 은닉한 경우에는 처벌할 수 없다는 법규에 따라 딸은 처벌 대상에서 제외했다.&lt;br&gt;&lt;br&gt;1심은 “피해자 유족을 위해 1억원을 공탁했으나 무면허운전을 상습적으로 하다 피해자가 사망하는 돌이킬 수 없는 사고를 발생시켜 죄책이 매우 무겁다”며 징역 5년을 선고했다.&lt;br&gt;&lt;br&gt;1심 판결에 불복한 A씨는 “사고 후 피해자에게 심폐소생술(CPR)을 시도하고 병원으로 이송한 뒤 병원에서 경찰에게 인적 사항을 모두 제공했으므로 도주에 해당하지 않는다”고 주장했다.&lt;br&gt;&lt;br&gt;이에 대해 재판부는 “의식 없는 피해자를 싣고 곧바로 병원으로 이동하지 않고, 운전자를 바꾸기 위해 상당한 거리를 돌아 이동해 시간을 지체했다”며 “인적 사항도 ‘딸이 운전하는 차량에 타고 있던 동승자’라고 진술하며 연락처를 제공한 것에 불과했다”고 받아들이지 않았다. 다만 형사공탁에 이어 항소심 들어 피해자 유족에게 추가 합의금을 지급하는 등 피해 회복을 위해 노력한 점, 유족이 항소심에서 피고인과 합의해 처벌을 원하지 않는 점을 고려해 감경했다고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“예고편 비방 댓글 때문에”… 90세 어르신 ‘유퀴즈’ 방송 불발된 이유</title>
+      <link>https://www.chosun.com/national/national_general/2024/12/21/5VBFRHBDIJEMXEI6GDWMAJSFPU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/21/5VBFRHBDIJEMXEI6GDWMAJSFPU/</guid>
+      <dc:creator>박선민 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 20 Dec 2024 23:12:27 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OVF2NRBQJJBXPGYRRN53KLX37U.png"&gt;&lt;figcaption&gt;&lt;small&gt;90세 할아버지와 함께 여행 다니는 콘셉트의 영상을 주로 올리는 유튜버 황원씨가 유퀴즈 예고편에 출연한 모습. /유퀴즈 유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;90세 할아버지와 자유여행을 다니는 콘셉트의 영상을 올리는 유튜버가 할아버지와 토크 프로그램 ‘유 퀴즈 온 더 블럭’(유퀴즈)에 출연해 녹화까지 마쳤다가 예고편에 달린 한 비방 댓글로 방영이 연기됐다고 토로했다.&lt;br&gt;&lt;br&gt;유튜브 채널 ‘청춘이다’를 운영하는 황원씨는 18일 유튜브 커뮤니티를 통해 “오늘 (방송) 예정이었던 ‘유퀴즈’ 관련 공지를 드리기 위해 갑작스럽게 인사드린다”고 운을 뗐다.&lt;br&gt;&lt;br&gt;황씨는 “뜻밖에 좋은 기회가 생겨 ‘유퀴즈’라는 좋은 프로그램에 출연하게 됐는데, 예고편이 나가고 저에 대한 비방 댓글 하나가 달렸다고 한다”며 “내용을 요약하면 제가 초등학교 시절 일진으로 활동하며 학교폭력을 했다는 과장과 허위가 난무하는 내용이었다”고 했다.&lt;br&gt;&lt;br&gt;황씨는 “현재 시국이 시국인지라 진위와 관계없이 조금이라도 논란의 여지가 있는 건들에 대해선 방영을 미뤄야 한다는 방송국 내부 방침이 있다고 한다”며 “저는 이 부분에 대해서 방송과는 별개로 강력히 대응할 생각이다. 다소 시간이 걸리더라도 반드시 바로잡겠다”고 했다.&lt;br&gt;&lt;br&gt;실제로 황씨가 할아버지 두제희씨와 함께 출연한 유퀴즈 방송 예고편이 지난 12일 공개됐지만, 두 사람 모습은 지난 18일 본 방송에서는 찾아볼 수 없었다. 이에 황씨는 “기대하고 계셨을 할아버지 및 구독자들께 죄송하다는 말씀드린다”며 “추후 일정이 나오는 대로 또 공유해 드리겠다”고 했다.&lt;br&gt;&lt;br&gt;황씨는 1년 전쯤 올린 ‘193㎝ 한국인 네덜란드에 가면 생기는 일' 등 장신의 키를 활용한 영상이 알고리즘을 타며 화제를 모았고, 지난 6월에는 자신보다 60세 많은 할아버지와 단둘이 태국 여행을 가는 영상으로 또한번 이목을 끌었다. 태국 여행 영상은 현재 조회수가 124만회가 넘는다. 이후 황씨는 할아버지와 함께 국내는 물론 세계 곳곳을 여행하는 콘셉트의 영상을 올리고 있다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>日 최초 바에서 마신 덴키브랑… 문고판 읽는 남자 보며 찌르르</title>
       <link>https://www.chosun.com/national/weekend/2024/12/21/5XJ43CFU5BFOBCAURMS6VRMIGM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/weekend/2024/12/21/5XJ43CFU5BFOBCAURMS6VRMIGM/</guid>
@@ -659,15 +749,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DDS432FRJVE57EZSQNPGZGO3HQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;19일 삼성꿈장학재단 신임 이사장으로 선임된 김우승 한국공학교육인증원장. /삼성꿈장학재단&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;삼성꿈장학재단이 김우승 현 한국공학교육인증원 원장을 신임 이사장으로 선임했다고 19일 밝혔다.&lt;br&gt;&lt;br&gt;김 신임 이사장은 한양대 총장, 국가산학연협력위원회 민간 위원장 등을 역임했고, 현재 한국공학교육인증원 원장을 맡고 있다.&lt;br&gt;&lt;br&gt;재단 이사회는 “김우승 신임 이사장은 교육적으로 소외된 아이들에게 다양한 교육 기회를 제공한다는 재단의 철학을 누구보다 잘 이해하고 있는 분으로, 향후 삼성꿈장학재단을 더욱 발전시켜 나갈 적임자라고 판단했다”고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>‘서울역 노숙인 살해’ 30대男 1심 징역 20년</title>
-      <link>https://www.chosun.com/national/court_law/2024/12/20/EW3NAT77PFB4JLYVBENLTQZOSQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/20/EW3NAT77PFB4JLYVBENLTQZOSQ/</guid>
-      <dc:creator>박강현 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 20 Dec 2024 04:48:56 +0000</pubDate>
-      <content:encoded>환각에 사로잡혀 서울역 인근에서 노숙인을 흉기로 살해한 30대 남성이 1심에서 징역 20년을 선고 받았다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3FTGPTVCXJGOPCYLMP3UYTQ3YI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울중앙지법. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;20일 서울중앙지법 형사27부(재판장 우인성)는 살인 등 혐의로 기소된 백모(38)씨에 대한 선고기일을 열고 징역 20년 실형을 선고했다. 또 치료감호와 10년간 위치추적 전자장치 부착을 명령했다.&lt;br&gt;&lt;br&gt;백씨 측은 재판 과정에서 살인을 저지른 사실은 인정하면서도 “2017년부터 있던 조현병 증상으로 이 사건 범행 당시 심신상실로 인해 사물을 변별할 능력이 없었다”고 주장했지만, 재판부는 심신상실 주장은 받아들이지 않고 심신미약 상태만 인정했다.&lt;br&gt;&lt;br&gt;재판부는 “사람 생명은 무엇과도 바꿀 수 없는 고귀한 가치로, 백씨는 사회로부터 장기간 격리가 필요하다”면서도 “피고인이 범행을 모두 인정하고 오랜 기간 앓았던 정신질환이 발현돼 범행으로 이어진 것으로 보이는 등 책임 일부가 감경돼야 한다”고 지적했다.&lt;br&gt;&lt;br&gt;앞서 백씨는 지난 6월 6일 새벽 서울역 지하보도 입구에서 잠을 자고 있던 노숙인을 흉기로 여러 차례 찔러 살해한 혐의로 재판에 넘겨졌다. 그는 각종 전쟁을 멈추기 위해서는 노숙인을 살해해야 한다는 환각에 도취돼 이 같이 범행한 것으로 조사됐다. 백씨는 현장을 미리 답사하는 등 사전에 범행을 계획한 것으로도 파악됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[단독]MZ 사원들이 퍼트린 ‘종근당 하이파이브’ 사건</title>
       <link>https://www.chosun.com/national/welfare-medical/2024/12/20/RY5YO3XMGFFKDC3BDFQA34O6H4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/12/20/RY5YO3XMGFFKDC3BDFQA34O6H4/</guid>
@@ -684,18 +765,6 @@
       <description/>
       <pubDate>Fri, 20 Dec 2024 04:21:12 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FATS2UUMTNECHDSKA6I2XETPYA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;20일 경기 성남시 한 도로에서 발생한 차량 화재. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;신호대기 중이던 BMW 차량에서 화재가 발생해 소방당국이 화재 경위를 조사하고 있다. &lt;br&gt;&lt;br&gt;20일 경기도소방재난본부 등에 따르면 이날 오전 9시 38분쯤 경기도 성남시 분당구 궁내동 대왕판교로에서 신호대기 중이던 차량에서 원인을 알 수 없는 불이 났다.&lt;br&gt;&lt;br&gt;불이 난 차량은 BMW X3 가솔린 모델이었다. 차량 운전자는 즉시 대피해 다치지 않았다.&lt;br&gt;&lt;br&gt;신고를 받고 출동한 소방당국은 10여분 만에 진화를 완료했다.&lt;br&gt;&lt;br&gt;소방당국은 신호대기 중에 시동이 꺼지고 보닛에서 연기가 발생하면서 불이 시작됐다는 운전자 진술 등을 토대로 정확한 화재 경위를 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>경찰 특별수사단, 한덕수 권한대행 비공개 조사</title>
-      <link>https://www.chosun.com/national/2024/12/20/HWFGZCR6XZFPVLI6TAFATLWHQQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2024/12/20/HWFGZCR6XZFPVLI6TAFATLWHQQ/</guid>
-      <dc:creator>주형식 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 20 Dec 2024 01:49:39 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZYI5TQSDZVNJVMOYBUZIN34MFA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한덕수 대통령 권한대행 국무총리가 20일 서울 종로구 삼청동 총리공관에서 열린 고위당정협의회에서 발언하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰청 비상계엄 특별수사단은 “현재까지 비상계엄 발령 당시 국무회의 참석자 및 배석자 12명 가운데 윤석열 대통령, 김용현 전 국방부장관, 김영호 통일부장관을 제외한 9명을 조사했다”고 20일 밝혔다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “한덕수 대통령 권한대행은 최근 경찰 소환 조사를 받았다”고 밝혔다. 구체적인 조사 시점에 대해선 밝히지 않았다.&lt;br&gt;&lt;br&gt;경찰은 “김영호 통일부 장관은 경찰의 지속적인 출석요구에도 불구하고 검찰에 출석해서 조사를 받았다”며 “피고발인들에 대해서는 2차 소환조사를 검토하고 있다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/4HWBRIMMEIPHFJA2GPXVUPWGKM.jpg?width=720&amp;height=574&amp;auth=71590c18007eb395d797086b68d81ef54b2496d01978dea5fd567563293527a9&amp;smart=true" type="image/jpeg" height="574" width="720">
-        <media:description type="plain">국가첨단전략산업위원회 주재하는 한덕수 대통령 권한대행</media:description>
-      </media:content>
     </item>
     <item>
       <title>공조본, 尹 대통령에게 “25일 오전 10시까지 출석하라”</title>
@@ -724,19 +793,6 @@
       </media:content>
     </item>
     <item>
-      <title>토요일 광화문 탄핵 찬반 대규모 집회로 교통 혼잡</title>
-      <link>https://www.chosun.com/national/2024/12/20/MVP6XEJ5GZFBVDVZSCXFL27IF4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2024/12/20/MVP6XEJ5GZFBVDVZSCXFL27IF4/</guid>
-      <dc:creator>주형식 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 20 Dec 2024 02:40:31 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LYQMMASJLVNHDMYIQBEIFALIFM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울경찰청./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;토요일인 21일(내일) 광화문 일대에서 대규모 집회에 예정돼 교통 혼잡이 예상된다.&lt;br&gt;&lt;br&gt;서울경찰청에 따르면 21일 오후 3시부터 시민단체 퇴진비상행동 주최로 ‘윤석열 즉각 파면·처벌 사회대개혁 범국민 대행진’이 종로구 경복궁 동십자각 앞에서 열린다. 주최 측은 약 50만 명이 집회에 참석할 것으로 예측하고 있다.&lt;br&gt;&lt;br&gt;같은 날 오후 2시부터 서울 종로구 동화면세점부터 서울지하철 2호선 시청역 2번 출구 앞 편도 전 차로에서는 자유통일당이 주최하는 대통령 탄핵 반대 집회가 열린다. 경찰에 신고된 집회 인원은 2만 명이다.&lt;br&gt;&lt;br&gt;경찰은 집회와 행진 중에도 차량 통행을 위해 가변차로를 운영해 차량 소통을 최대한 유지할 방침이다. 집회 행진과 행사 구간 주변에는 교통 관리를 위해 교통경찰 170여 명이 배치된다. 경찰 관계자는 “세종대로, 사직로, 율곡로 등 집회 장소 일대에 차량 정체가 예상된다”며 “가급적 대중교통을 이용하고, 차량을 이용할 경우 교통정보를 미리 확인해야 한다”고 했다.&lt;br&gt;&lt;br&gt;집회 시간과 장소 등 자세한 교통상황은 서울경찰청 교통정보 안내 전화와 교통정보센터 홈페이지 등을 통해 확인할 수 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/LYQMMASJLVNHDMYIQBEIFALIFM.jpg?width=6000&amp;height=4000&amp;auth=edba4ca413ecb7d66eaad36004e149d3aa4389f03804d29048dde4578225fb75&amp;smart=true" type="image/jpeg" height="4000" width="6000">
-        <media:description type="plain">[서울=뉴시스] 정병혁 기자 = 비상계엄 사태를 수사 중인 경찰이 11일 서울 용산 대통령실, 경찰청, 서울지방경찰청, 국회경비대에 대한 압수수색에 착수했다. 국가수사본부 비상계엄 특별수사단은 계엄 선포 당시 경찰의 국회의원들의 국회 출입 통제 과정과 관련한 자료를 확보하고 있다. 사진은 11일 서울 종로구 서울경찰청. 2024.12.11. jhope@newsis.com</media:description>
-        <media:credit role="author" scheme="urn:ebu">jhope</media:credit>
-      </media:content>
-    </item>
-    <item>
       <title>오세훈, 출근길 직원들에게 커피 전달…”청렴도 1등급, 직원들 덕분”</title>
       <link>https://www.chosun.com/national/national_general/2024/12/20/5RIDXUOASVAKZGXCGZFGO2IYUQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/20/5RIDXUOASVAKZGXCGZFGO2IYUQ/</guid>
@@ -744,15 +800,6 @@
       <description/>
       <pubDate>Fri, 20 Dec 2024 02:10:49 +0000</pubDate>
       <content:encoded>서울시는 20일 오세훈 서울시장이 이날 오전 서울시청 청사 1층 로비에서 출근하는 서울시 직원들에게 커피와 다과를 전달했다고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OCMGMEECGNJUHCLZDAFW7MCJJQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;오세훈 서울시장이 20일 서울 중구 서울시청 본관 로비에서 '종합청렴도 1등급 달성 및 세계 도시경쟁력 지수 상승'을 기념해 출근길 직원에게 커피와 다과를 나눠주며 기념 촬영하고 있다. /서울시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 오 시장이 직원들에게 커피를 전달한 건 지난 19일 발표된 국민권익위원회의 ‘2024년도 공공기관 종합 청렴도 평가’에서 서울시가 1등급을 달성했기 때문이다. 서울시가 이 평가에서 1등급을 달성한 건 지난 2010년 이후 14년 만이다.&lt;br&gt;&lt;br&gt;앞서 지난 11일에는 일본 모리기념재단이 발표한 ‘세계 도시 종합 경쟁력 지수’에서 서울시가 6위를 차지하기도 했다. 서울시는 2017년 이후 7년 만에 다시 6위로 올라섰다.&lt;br&gt;&lt;br&gt;오 시장은 “서울시 모든 직원이 마음가짐을 새롭게 하고 노력해 준 덕분에 청렴도 1위를 차지할 수 있었다”며 “1년 만에 상상 이상의 성과를 달성한 서울시 직원들에게 감사하다”고 말했다.&lt;br&gt;&lt;br&gt;앞서 오 시장은 지난 19일 오전에 열린 비상경제회의에서도 “종합 청렴도 1등급과 도시 경쟁력 지수 상승은 서울시 공무원 모두가 함께 이뤄낸 결과”라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘의대생 교제 살인’ 1심 징역 26년… “무방비 피해자 무참히 살해”</title>
-      <link>https://www.chosun.com/national/court_law/2024/12/20/FZYDP2IQ5FE55BHDGHCEYRTH6A/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/20/FZYDP2IQ5FE55BHDGHCEYRTH6A/</guid>
-      <dc:creator>방극렬 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 20 Dec 2024 02:22:16 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5U6HK3JS6BILFDT5XUSSHQCCTM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;여자친구를 흉기로 찔러 살해한 혐의를 받는 의대생 최모씨가 지난 5월 14일 서울 서초구 서초경찰서에서 검찰로 송치되고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 강남역 인근 건물 옥상에서 연인을 흉기로 여러 차례 찔러 살해한 대학생 최모(25)씨가 1심에서 징역 26년을 선고받았다.&lt;br&gt;&lt;br&gt;서울중앙지법 형사27부(재판장 우인성)는 20일 살인 등 혐의로 기소된 최씨에게 징역 26년을 선고했다. 검찰은 앞서 최씨에게 사형을 구형했다.&lt;br&gt;&lt;br&gt;재판부는 “피해자는 최씨를 의지하고 신뢰했던 것으로 보인다. 최씨는 범행 계획에 대해 아무것도 모른 채 무방비 상태에 있던 피해자를 무참히 살해했다”며 “범행도구를 준비하고 청테이프까지 구입했던 것, 피해자를 여러 번 찌른 점 등에 비춰 살해 고의가 인정된다”고 했다.&lt;br&gt;&lt;br&gt;다만 재판부는 최씨에 대한 전자장치 부착 및 보호관찰 명령 청구는 받아들이지 않았다. 재판부는 “범행 이후 정황 등을 고려하면 장기간 실형을 선고하는 것을 넘어 집행 후 전자장치나 보호관찰을 할 정도로 동종 범죄를 저지를 개연성이 있다고 보이지 않는다”고 했다.&lt;br&gt;&lt;br&gt;최씨는 여자친구가 헤어지자고 하자 이 같은 범행을 저지른 것으로 조사됐다. 두 사람은 올해 4월 가족에게 알리지 않고 혼인 신고를 했는데, 피해자 부모가 이를 뒤늦게 알게 된 뒤 혼인 무효 소송을 종용한 것으로 조사됐다. 두 사람이 결별 문제 등으로 다투는 과정에서 최씨는 범행을 결심했다고 한다. 그는 과거 수능 만점을 받은 명문대 의대생으로 알려졌다.&lt;br&gt;&lt;br&gt;최씨는 재판 과정에서 공소 사실을 인정했다. 최씨 측은 범행 전 정신과 진단으로 복용한 약품이 불안장애·강박을 유발해 범행에 영향을 미쳤을 수 있다고 주장했다. 그러나 정신 감정 결과 범행 당시 심신 장애 상태에 있지 않은 것으로 나타났다.&lt;br&gt;&lt;br&gt;피해자 아버지는 “유족과 국민이 납득할 선고를 해달라고 했는데 판사가 무시했다”며 판결에 강하게 반발했다. 피해자 변호인은 “얼마나 더 잔혹하게 살해해야 이 사회에서 격리될 수 있는지, 사법부가 고민해야 한다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>16년째 나눔 실천하는 김영근 안경사</title>
@@ -764,15 +811,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FZUN4YWTQBFGFMFI7F7AMVUXBY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김영근 안경사.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;어떤 날은 1000원, 어떤 날은 3000원, 또 어떤 날엔 20만원이나 50만원. 그러다가 어떤 날엔 120만원까지 기부했다. 이곳 저곳의 숱한 복지재단과 단체에 기부해온 세월이 16년이다. 포털 사이트 네이버의 기부 프로그램인 해피빈을 통해서는 매일 1000원, 3000원씩 기부했다. 해외 출장을 가거나 불가피한 사정을 제외하곤 빠지지 않고 기부 버튼을 눌렀다. 아동복지전문기관인 초록우산, 어린이의약품지원본부, 대한적십자사, 비전케어 같은 곳에는 매월 20만~120만원씩 수년간 약정을 맺고 정기적으로 기부했다.&lt;br&gt;&lt;br&gt;케냐와 르완다의 어린이에게 수백만원씩 기부한 적도 있다. 온몸의 근육이 경직되는 난치병인 ‘근이영양증’을 앓는 배재국(28)씨를 휠체어에 태워 마라톤 풀코스 종주를 하는 아버지 배종훈(58)씨 사연을 듣고는 그들 부자에게 200만원 상당의 마라톤 고글을 기부했다. 그렇게 16년간 기부해온 누적 금액이 1억4000만원.&lt;br&gt;&lt;br&gt;이 사람보다 큰 금액을 기부한 사람은 부지기수일지 모른다. 그러나 이 사람보다 더 자주, 더 꾸준하게 기부해온 사람을 찾기는 쉽지 않다. 16년간 지속해온 기부를 횟수로 따지면 족히 3000~4000회에 달한다. 하루 1000원, 3000원씩 기부해온 해피빈 기부금액이 올해 12월5일까지 그야말로 티끌모아 태산인 2580만원에 이를 정도다.&lt;br&gt;&lt;br&gt;그는 큰 부자가 아니다. 서울 명동에서 ‘아이닥안경원’을 운영하는 안경사다. 김영근(58)씨는 2008년 3월부터 16년째 다양한 나눔을 실천해오고 있다. 안경원 운영이 순탄했던 것은 아니다. 그는 2000년 안경원을 개원했다. IMF 외환위기의 여파가 남아 있었던 때다. 안경원은 명동의 한 빌딩 11층에 있었다. 소비자들에겐 접근성이 매우 나쁜 위치였다. 그곳에 안경원이 있다는 걸 알기조차 힘들었다. 개원 후 몇 년 간은 압류를 걱정해야 할 정도로 경영난을 겪었다.&lt;br&gt;&lt;br&gt;그는 다양한 온라인 마케팅 방법으로 어려움을 헤쳐나왔다. 2001년 그는 안경 업계에서는 처음으로 안경, 선글라스, 스포츠글라스, 누진다초점렌즈 등 아이웨어 전문 사이트를 개설해 안경과 관련한 정보를 제공했다. 여러 포털 사이트에서 블로그를 운영하며 ‘11층 안경원’이라는 약점을 극복해나갔다. 네이버에서 시력이나 안경 정보와 관련한 ‘지식인’으로 활동하며 파워지식인에 선정되기도 했다. 이런 노력으로 품질이 보장된 안경을 찾는 소비자들을 11층 안경원으로 끌어올렸다.&lt;br&gt;&lt;br&gt;개원 24년이 넘은 지금의 ‘아이닥’은 업계에서 알아주는 안경원으로 성장했다. 국내 최초로 일본 3D 방식으로 계측해 개별 소비자 맞춤형으로 안경을 제작하는 아이메트릭스 시스템도 도입했다. 두상을 0.1mm 단위로 스캔해 소비자의 얼굴에 꼭 맞는 안경을 제작할 수 있는 시스템이다. 3D 계측을 통한 안경 제작 기술은 세계적으로 발전을 거듭하고 있지만, 아이메트릭스는 그 중에서 가장 선두에 있다고 평가를 받는다. 국내에서 유통되고 있는 소비자 맞춤형 안경 제작 시스템 중 안경테가 있는 안경과 안경테가 없는 무테 안경을 모두 제작할 수 있는 시스템은 아이메트릭스가 유일하다.&lt;br&gt;&lt;br&gt;아이닥은 이 같은 기술적인 기반 시스템을 갖춘 덕분에 2023년 NICE디앤비의 ‘유리 가공 및 시력 검안 기술 우수기술기업’ 인증을 받았다. 백화점 등 럭셔리 매장에서만 판매하려고 하는 콧대 높은 카르띠에와 같은 명품 브랜드의 러브콜도 이어지고 있다.&lt;br&gt;&lt;br&gt;김 원장은 “안경원을 아주 어렵게 일구어왔다”면서 “기업으로서는 아주 작은 규모이지만 그 과정에서 소비자를 통해 이익을 얻어왔으니 그 일부이나마 어려운 사람들과 나누고 싶었다”고 말했다.&lt;br&gt;&lt;br&gt;요즘 그가 가장 큰 몫의 기부를 하는 곳은 대한적십자사이다. 매월 50만원씩 정기기부를 하고 있다. 또 그가 운영하는 인터넷 카페 유리알속맑은세상 회원들과 함께 나눔활동을 지원하기도 한다.&lt;br&gt;&lt;br&gt;그는 “작은 일이라도 최선을 다하면 정성스럽게 되고 세상을 바꿀 수 있다는 중용23장을 좋아한다”며 “비록 작은 나눔일지라도 정성을 다해서 세상이 조금 더 밝아질 수 있도록 노력하고 싶다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[속보] 공조본, '롯데리아 회동' 문상호 정보사령관 구속영장 청구</title>
-      <link>https://www.chosun.com/national/court_law/2024/12/20/KCL35SOYUNGOFGR2EPJVUNRAKI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/20/KCL35SOYUNGOFGR2EPJVUNRAKI/</guid>
-      <dc:creator>이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 20 Dec 2024 02:03:52 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LKOFKWKCLFKHVGMKXGSAORGRVA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;문상호 정보사령관이 지난 10월 30일 오전 서울 여의도 국회에서 열린 정보위원회 국정감사에 출석해 자리하고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘12·3 비상계엄’ 사태를 수사하는 고위공직자범죄수사처·경찰 국가수사본부·국방부 조사본부 공조수사본부(공조본)는 이른바 ‘롯데리아 회동’에 참석하는 등 비상계엄을 사전에 기획한 혐의를 받는 문상호 정보사령관에 대한 구속영장을 중앙지역군사법원에 청구했다고 20일 밝혔다.&lt;br&gt;&lt;br&gt;공수처는 경찰 국가수사본부 특별수사단으로부터 문 사령관의 내란 혐의 관련 사건을 이첩 받았다. 지난 17일 체포영장을 발부 받았고, 18일 오후 12시 20분쯤 집행해 문 사령관의 신병을 확보했다. 지난 19일까지 그를 조사하고, 체포시한 만료 1시간 여를 앞두고 구속영장을 청구한 것이다.&lt;br&gt;&lt;br&gt;공조본은 이번 계엄과 관련해 정보사령부가 김용현 전 국방장관의 군 내 사(私)조직 역할을 했다고 보고 있다. 김 전 장관의 비화폰 통화 내역을 분석한 결과 계엄 선포 이전부터 문 전 사령관과 수차례 통화하며 계엄을 준비시킨 정황을 포착했다는 것이다.&lt;br&gt;&lt;br&gt;계엄 당일인 3일 밤 10시 31분쯤 중앙선관위에서 서버 등 내부 장비를 촬영한 계엄군도 정보사령부 소속이었다. 특수단 관계자는 “문 전 사령관은 김 전 장관 지시로 선관위 투입에, 정보사령부 산하 북파 공작부대(HID)에 국회의원 체포조 투입을 준비시키는 등 사실상 계엄의 실무 책임자 역할을 한 것으로 보인다”고 했었다.&lt;br&gt;&lt;br&gt;문 사령관이 김 전 장관의 비선으로 이번 비상계엄을 사실상 기획했다고 지목된 노상원 전 정보사령관(구속)과 지난 1일 만난 사실도 밝혀졌다. 경기 안산시의 패스트푸드점 ‘롯데리아’에서 노 전 사령관, 문 사령관과 정보사 소속 대령 2명이 계엄을 사전에 준비하는 취지의 모임을 가졌다는 것이다. 노 전 사령관은 지난 18일 구속됐다.&lt;br&gt;&lt;br&gt;이와 관련, 모임에 참석한 정모 대령의 변호사는 기자들에게 이날 ‘대국민 사과 및 자료 공개문’을 보내면서 “정 대령은 자신의 잘못을 인정하고 모든 분들께 사죄하고 있다”고 밝혔다. 그러면서 “최근 정 대령은 초반 입장과 달리 수사 과정에서 자신의 판단 및 행동에 대해 모든 사실을 자백했다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>‘전주 얼굴 없는 천사’ 올해도 나타났다…25년째 기부 이어가</title>
       <link>https://www.chosun.com/national/national_general/2024/12/20/KPIGKKG4PFHG5E2A6DIW77P6QE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/20/KPIGKKG4PFHG5E2A6DIW77P6QE/</guid>
@@ -782,42 +820,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WVEUOBH36ZDB7CLLLO5ZA7R5YI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전북 전주시 노송동 천사마을에 있는 '얼굴 없는 천사' 벽화의 모습. 전주시는 '얼굴 없는 천사'의 선행을 기리기 위해 천사마을을 조성하고, '얼굴없는 천사'와 나눔을 상징하는 이미지를 담은 벽화를 만들었다. /HD현대1%나눔재단&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;매년 연말 남몰래 선행을 베풀어 온 ‘전주 얼굴 없는 천사’가 올해도 찾아왔다. 천사의 방문은 올해로 25년째다. &lt;br&gt;&lt;br&gt;20일 전주시에 따르면 이날 오전 9시 26분쯤 전주시 노송동 주민센터에 ‘발신자 표시 제한’으로 전화가 걸려왔다. 주민센터 직원이 전화를 받자, 중년 남성은 “기자촌 한식뷔페 맞은편 탑차(트럭) 아래 놓았으니 불우한 이웃을 위해 써주세요”라는 말을 남긴 뒤 전화를 끊었다. &lt;br&gt;&lt;br&gt;올해도 어김없이 ‘전주 얼굴 없는 천사’가 나타난 것을 직감한 직원들은 곧바로 이 남성이 지목한 장소로 이동했다. 지난 2019년 성금을 도난당했던 사건이 있었던 터라 마음은 다급했다.&lt;br&gt;&lt;br&gt;직원들이 자리를 박차고 주민센터에서 240m쯤 떨어진 현장에 도착하니 남성이 말한 대로 A4 용지 상자가 놓여 있었다. 그 안에는 인쇄된 편지 1장과 5만원권 다발, 동전이 가득 든 빨간 돼지저금통 1개가 들어 있었다. 편지에는 ‘소년소녀 가장 여러분 따뜻한 한 해 보내시고 새해 복 많이 받으세요’라고 적혀 있었다. 노송동 주민센터는 현재 이 성금 액수를 확인하고 있다.&lt;br&gt;&lt;br&gt;이름도 직업도 알려지지 않은 얼굴 없는 천사의 선행은 지난 2000년 4월 한 초등학생을 통해 58만4000원이 든 돼지저금통이 전달된 것을 시작으로 올해까지 25년째 이어지고 있다. 천사는 지난해에도 “어려운 이웃을 위해 써달라”는 메시지와 함께 8006만3980원을 기부했다. 지난해까지 24년 동안 얼굴 없는 천사가 놓고 간 성금은 모두 9억6479만7670원에 달한다.&lt;br&gt;&lt;br&gt;지난 2019년에는 노송동 주민센터 인근에 놓고 간 6000여만원의 성금이 도난당하는 사건이 벌어지기도 했으나 천사의 선행은 멈추지 않았다. 전주시는 그의 뜻에 따라 보내준 성금을 사회복지공동모금회에 전달한 후 지역의 독거노인과 소년소녀가장 등 소외계층을 위해 사용한다. 지난해 HD현대1%나눔재단은 어려운 이웃을 위해 헌신하는 이들을 기리기 위해 만든 ‘HD현대아너상’ 첫 수상자로 얼굴 없는 천사를 선정하기도 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>中 알리 크리스마스 장난감에서 국내 기준치 215배 유해 물질 검출</title>
-      <link>https://www.chosun.com/national/national_general/2024/12/20/5VFE6MYUI5BHDEXJW35YVGVBDA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/20/5VFE6MYUI5BHDEXJW35YVGVBDA/</guid>
-      <dc:creator>김영우 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 20 Dec 2024 02:18:48 +0000</pubDate>
-      <content:encoded>중국의 온라인 직구 쇼핑몰 ‘알리익스프레스’에서 판매한 산타클로스 모양 장난감에서 국내 기준치의 215배가 넘는 프탈레이트계 첨가제가 검출됐다. 프탈레이트계 첨가제는 불임, 조산 등을 일으킬 수 있는 유해 물질이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2FQXZT3VMFEIJLFRLNRDYHJMDA.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;국내 기준치 215배의 유해 물질이 검출된 '알리익스프레스'의 산타클로스 장난감. /서울시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울시는 중국 온라인 쇼핑몰 알리익스프레스와 쉬인, 테무에서 판매한 크리스마스 어린이 장난감, 장식품 등 15개의 안전성을 검사한 결과, 6개 제품이 부적합 판정을 받았다고 20일 밝혔다.&lt;br&gt;&lt;br&gt;이 중 알리익스프레스에서 판매한 산타클로스 모양 장난감은 산타의 얼굴 부분에서 기준치의 214.6배가 넘는 프탈레이트계 첨가제가 나왔다. 벨트 부위에서는 기준치의 11배에 달하는 납이 나왔다. 서울시 관계자는 “프탈레이트계 첨가제와 납은 자주 접촉하면 암을 일으킬 수 있다”며 “아이가 직접 만지면 더 위험할 수 있어 주의해야 한다”고 했다.&lt;br&gt;&lt;br&gt;알리에서 판 스티커 제품 1개는 아이가 삼킬 수 있는 작은 부품이 떨어져 나왔지만, 이에 대한 경고 표시가 없어 부적합 판정을 받았다. 쉬인과 테무에서 판 비즈 장난감, 블럭 장난감 등 3개 제품은 끝이 날카로워 부적합 판정을 받았다. 서울시 관계자는 “아이들이 장난감을 가지고 놀다가 다칠 수 있다”고 말했다.&lt;br&gt;&lt;br&gt;서울시는 지난 4월부터 월 2회 해외 직구 제품에 대해 안전성 검사를 진행하고 있다. 서울시 관계자는 “앞으로도 어린이 제품에 대한 안전성 검사를 지속적으로 추진하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>아이들 성탄 선물인데…中 직구 완구, 유해물질 범벅이었다</title>
-      <link>https://www.chosun.com/national/national_general/2024/12/20/BMHVUSCQL5DHLGTMPOLXJIUO5M/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/20/BMHVUSCQL5DHLGTMPOLXJIUO5M/</guid>
-      <dc:creator>김명일 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 20 Dec 2024 01:52:47 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XOOJMQFABRATVJF66QGD7IZRQI.png"&gt;&lt;figcaption&gt;&lt;small&gt;중국 온라인 플랫폼에서 판매되는 크리스마스 어린이용 완구를 대상.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;중국 온라인 플랫폼에서 판매되는 크리스마스 어린이용 완구를 대상으로 안전성 검사를 실시한 결과 국내 기준치를 최대 215배 초과한 유해물질이 나왔다.&lt;br&gt;&lt;br&gt;20일 서울시는 테무, 쉬인, 알리익스프레스 등 중국 온라인 플랫폼에서 판매 중인 크리스마스 시즌 어린이용 완구·장식품 등 15개 제품에 대해 안전성 검사를 한 결과 6개 제품이 부적합 판정을 받았다고 밝혔다.&lt;br&gt;&lt;br&gt;특히 알리익스프레스에서 판매 중인 산타클로스 장식 완구 2종은 프탈레이트계 가소제(DEHP, DBP, DINP)가 국내 기준 대비 최대 215배, 납은 최대 11배 초과 검출돼 부적합 판정을 받았다.&lt;br&gt;&lt;br&gt;프탈레이트계 가소제는 내분비계 장애 물질로 정자 수 감소·불임·조산 등 생식기능에 영향을 미치며 접촉 시 눈, 피부 등에 자극을 일으킬 수 있다. 그중 DEHP(디에틸헥실프탈레이트)는 국제암연구소가 지정한 인체발암가능물질(2B등급)이다.&lt;br&gt;&lt;br&gt;‘납’은 안전기준 이상으로 노출되면 생식기능에 해를 끼칠 수 있고, 암 위험도 증가할 수 있다. 특히 임신 중에는 뇌 발달에 영향을 미치고, 아이 학습과 행동에 문제를 일으킬 수도 있다.&lt;br&gt;&lt;br&gt;부적합 판정을 받은 완구 제품 중 4개는 물리적 시험에서 국내 기준에 부합하지 못했다. ‘스티커 제품’ 1종은 시험 중 작은 부품이 떨어져 나왔으나 이에 대한 경고 표시가 없는 것으로 확인됐다.&lt;br&gt;&lt;br&gt;나머지 비즈완구 등 3개 제품은 끝부분이 날카로워 어린이가 사용하면서 상해를 입을 가능성이 있는 것으로 확인됐다.&lt;br&gt;&lt;br&gt;서울시는 지난 4월부터 국내 이용자 수가 많은 해외직구 플랫폼 제품에 대해 월 2회 안전성 검사를 진행하고 있다. 시는 시민들의 안전한 소비생활을 위해 시기별 구매 수요와 소비자 이슈 등을 고려해 해외직구 어린이 제품에 대한 안전성 검사를 지속적으로 실시할 계획이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>10명 사상 공군 부대 트럭 사고...경찰 사고 원인 조사 나서</title>
-      <link>https://www.chosun.com/national/regional/chungcheong/2024/12/20/VBTKTFDV2VC2FGU4SC3N54S6MQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2024/12/20/VBTKTFDV2VC2FGU4SC3N54S6MQ/</guid>
-      <dc:creator>신정훈 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 20 Dec 2024 02:10:13 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OQ4P577L3IL7LPN24GNOWZV3OQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;공군 로고/공군 홈페이지&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;1명이 숨지고 9명이 다친 공군 부대 트럭 사고와 관련해 경찰이 조사에 나섰다.&lt;br&gt;&lt;br&gt;충북 충주경찰서는 군용트럭을 몰던 중 가로수를 들이받아 10명의 사상자를 낸 혐의(교통사고처리 특례법상 업무상 과실치사상)로 공군 제19전투비행단 소속 20대 운전병 A씨를 불구속 입건했다고 20일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 전날 오후 6시 15분쯤 저녁 식사를 마친 병사들을 군용트럭에 태우고 생활관으로 이동하던 중 가로수를 들이받는 사고를 냈다. 사고 충격으로 화물칸에서 떨어진 20대 병사 2명을 민간병원으로 옮겼으나 1명은 숨지고, 1명은 이틀째 의식불명 상태다. 또 트럭에 타고 있던 병사 8명은 경상을 입어 충주 시내 2개 병원에서 치료받은 뒤 부대로 복귀했다.&lt;br&gt;&lt;br&gt;사고 당시 운전석에 A씨 등 3명이, 화물칸에는 12명이 타고 있었던 것으로 알려졌다.&lt;br&gt;&lt;br&gt;A씨는 경찰에서 “시속 30∼40㎞로 주행했는데 차량이 한쪽으로 쏠려 핸들을 틀었다”는 취지로 진술한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;경찰은 사고 원인 파악을 위해 국립과학수사연구원, 한국도로교통공단과 현장 합동감식을 진행할 방침이다. 또 사고 차량에 대한 보존 조치를 19전비에 요청했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>김용현 前국방, ‘탱크로 밀어버려’ 의혹 제기한 추미애·박범계·서영교·박선원 고소</title>
-      <link>https://www.chosun.com/national/court_law/2024/12/20/TGYKA2CPSZAQHNHL6VBA6ATQJU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/20/TGYKA2CPSZAQHNHL6VBA6ATQJU/</guid>
-      <dc:creator>이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 20 Dec 2024 01:49:51 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/I3ZWHETMKBL7XBZHR2OUU3EQAI.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;더불어민주당 윤석열 내란진상조사단 추미애 단장과 의원들이 19일 오전 서울 여의도 국회 소통관에서 12·3 내란 관련자들의 철저한 조사를 촉구하는 기자회견을 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김용현 전 국방장관 측은 ‘12·3 비상계엄’ 당일 오찬에서 김 전 장관이 “탱크로 밀어 버려”라고 발언했다는 의혹을 제기한 더불어민주당 추미애·박범계·서영교·박선원 의원을 고위공직자범죄수사처(공수처)에 고소한다고 20일 밝혔다.&lt;br&gt;&lt;br&gt;앞서 민주당 윤석열 내란 진상조사단은 전날(19일) 국회에서 기자회견을 열고 “김 전 장관은 ‘국회가 국방예산으로 장난질인데, 탱크로 확 밀어 버려’라는 취지의 발언을 한 바 있다고 한다”는 의혹을 제기했다. &lt;br&gt;&lt;br&gt;비상계엄 당일 K1A2 전차 등 탱크를 운용하는 육군 제2기갑여단의 구삼회 여단장이 정보사령부 사무실에 있었던 사실이 알려지면서 의혹이 더욱 커졌다.&lt;br&gt;&lt;br&gt;이에 대해 김 전 장관 측은 “허위 날조 사실”이라며 네 의원을 고소하겠다는 입장을 이날 밝힌 것이다. 김 전 장관의 변호인은 “전형적인 반국가세력의 거짓 선동 책략”이라며 “누구에게 들었는지 밝히지도 못할 것이며, 수사기관은 즉각 이들을 수사해 이들의 내란책동을 중단시켜야 할 것”이라고 했다.&lt;br&gt;&lt;br&gt;김 전 장관 측은 네 의원을 공수처에 형사고소하는 것 이외에도 손해배상 청구 및 국회의원 징계 청원 추진도 할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>“공무원이 뇌물 받았다”...탐정 고용 허위 신고한 40대 </title>
       <link>https://www.chosun.com/national/regional/gangwon/2024/12/20/YV7VSQPXCVCQFHGMVVNFPC4R3Q/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/gangwon/2024/12/20/YV7VSQPXCVCQFHGMVVNFPC4R3Q/</guid>
@@ -825,15 +827,6 @@
       <description/>
       <pubDate>Fri, 20 Dec 2024 01:57:37 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SRSHWXGQGXKCN4QOHGJXNH7SRQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;춘천지법 원주지원. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;사설탐정을 고용해 공무원을 미행하고 거짓으로 뇌물수수 혐의를 씌운 건설업체 대표가 징역형을 선고받았다.&lt;br&gt;&lt;br&gt;춘천지법 원주지원 형사3단독 황해철 판사는 20일 위치정보의 보호 및 이용 등에 관한 법률 위반과 무고 등의 혐의로 구속 기소된 건설업자 A(40)씨에게 징역 3년에 집행유예 5년을 선고했다고 밝혔다. 또 A씨가 고용한 탐정 B(36)씨에게는 징역 2년에 집행유예 3년을 선고했다. 또 이들에게 240시간의 사회봉사와 40시간의 스토킹 범죄 재범 예방 강의 수강도 명령했다.&lt;br&gt;&lt;br&gt;A씨는 지난 6월 14일 오전 10시 6분쯤 대포폰으로 ‘원주시청 상하수도사업소 공무원 C씨가 자신과 경쟁하는 공사업자로부터 룸살롱과 골프 향응, 뇌물을 받았다’고 경찰에 허위 진술을 하는 등 무고한 혐의로 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;A씨는 사설탐정 B씨를 고용해 ‘C씨가 비리 공무원이니 일거수일투족을 감시하며 뇌물 받는 장면을 포착하라’고 지시했고, 이에 B씨는 지난 6월 12일부터 같은 달 16일까지 모두 13차례에 걸쳐 C씨를 미행하는 등 스토킹을 했다.&lt;br&gt;&lt;br&gt;또 같은 달 13일 오후 9시 49분쯤 C씨가 대리운전을 통해 귀가했음에도 마치 음주운전을 한 것처럼 탐정인 B씨에게 지시해 허위 신고하게 한 혐의도 받는다. 같은 달 24일에는 C씨가 원주시의 식당에서 누군가로부터 돈 봉투를 받는 장면을 목격했다며 경찰에 허위 신고를 했다. 심지어 그는 C씨의 차량에 위치추적 장치도 부착해 개인 위치정보를 수집하기도 했다.&lt;br&gt;&lt;br&gt;A씨는 원주시 상하수도사업소가 발주한 ‘원주천 좌안 차집관로 개량사업’의 하도급을 맡은 시공사의 대표다. 그는 흙막이 설계 변경으로 시공단가를 올리려다 공무원 C씨의 반대로 무산되자 복수를 위해 이 같은 범행을 저지른 것으로 드러났다.&lt;br&gt;&lt;br&gt;재판부는 “관급공사를 관리·감독하는 공무원과 경쟁업체 대표에 앙심을 품고 사설탐정을 고용해 범행한 것으로 죄책이 무겁다”고 판시했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘남학생 제자 성폭행 혐의’ 초등 여교사, 구속 송치</title>
-      <link>https://www.chosun.com/national/regional/2024/12/20/TLK2YNHJFRGVDPUDZCW5YNP5XU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/12/20/TLK2YNHJFRGVDPUDZCW5YNP5XU/</guid>
-      <dc:creator>대전=우정식 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 19 Dec 2024 23:53:26 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4ROETED57FDFPGUG5CSYDINBNU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대전경찰청 전경. /조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대전의 한 초등학교 여교사가 남학생 제자를 성폭행한 혐의로 구속된 사실이 뒤늦게 드러났다.&lt;br&gt;&lt;br&gt;20일 대전경찰청에 따르면 대전의 모 초등학교 A교사를 미성년자 의제강간 혐의로 지난 9일 검찰로 구속 송치했다.&lt;br&gt;&lt;br&gt;학교 측이 성폭행 의혹을 먼저 인지해 경찰에 관련 내용을 신고하면서 수사가 시작됐다.&lt;br&gt;&lt;br&gt;지난달 12일 경찰로부터 수사 개시를 통보받은 대전교육청은 다음날 곧바로 A교사를 직위 해제한 상태다.&lt;br&gt;&lt;br&gt;피해 학생은 현재 해당 학교에 다니고 있다. 학교 측은 피해 학생에 대한 심리 안정 지원 등을 제공한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;대전교육청은 아직 인사위원회에서 A교사에 대한 징계 의결을 요구하지 않은 상태다.&lt;br&gt;&lt;br&gt;대전교육청 관계자는 “검찰의 기소 여부 등 처분 결과 통보서를 확인 후 징계 의결을 요구할 방침”이라고 밝혔다.&lt;br&gt;&lt;br&gt;경찰은 “구체적인 피해 내용과 신상 등에 대해선 밝히기 어렵다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>수면내시경 중 의식 잃은 40대, 끝내 사망…의료 과실 수사</title>
