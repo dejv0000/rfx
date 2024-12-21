@@ -13,6 +13,25 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>[이별전쟁] 전 부인에 재산 주고 변호사비 안주려는 의뢰인… 막을 수 있을까</title>
+      <link>https://www.chosun.com/national/court_law/2024/12/22/O3PIRRNMLRAETH5RR4RIW76JKI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/22/O3PIRRNMLRAETH5RR4RIW76JKI/</guid>
+      <dc:creator>법무법인 시작</dc:creator>
+      <description/>
+      <pubDate>Sat, 21 Dec 2024 20:30:00 +0000</pubDate>
+      <content:encoded>&lt;b&gt;편집자주: 이 기사는 이혼 소송 과정에서 필요한 법률 지식을 제공할 목적으로 제작됐습니다. 기사 내용은 실제 사례를 각색했습니다. 기사 내 언급되는 이름과 지명 등이 실제와 같은 경우가 있더라도 이는 우연에 의한 것임을 밝힙니다.&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;격주 토요일·일요일 연재.&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JQ4YS4FIYVAXXCNXMWBNJFI63I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IYFN2MJFHRHKZBFLTFGPFWRL3Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;[이별전쟁] 네버엔딩스토리 끝&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;&amp;lt;다른 회차 보기&amp;gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;[이별전쟁 14-1] 기다림&lt;br&gt;&lt;br&gt;&lt;a href="https://m.site.naver.com/1ypx3"&gt;https://m.site.naver.com/1ypx3&lt;/a&gt;&lt;br&gt;&lt;br&gt;[이별전쟁 14-2] 기다림&lt;br&gt;&lt;br&gt;&lt;a href="https://m.site.naver.com/1ypxi"&gt;https://m.site.naver.com/1ypxi&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/PGLWP3SS4RFEDJUM2YLVQHLDXI.png?width=1800&amp;height=1012&amp;auth=744235e9abc14077d8604b08ec28eacd1adbe50ec51f8db7d933a021dda58cb0&amp;smart=true" type="image/png" height="1012" width="1800"/>
+    </item>
+    <item>
+      <title>﻿‘트랙터 행진’ 전국농민회총연맹, 경찰과 대치 계속…”밤샘 농성할 것”</title>
+      <link>https://www.chosun.com/national/national_general/2024/12/21/MKPNS4XMFBATTISUNXVORZZM44/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/21/MKPNS4XMFBATTISUNXVORZZM44/</guid>
+      <dc:creator>이가영 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 21 Dec 2024 14:29:19 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EZS3JBMXXZLDJKERVV75GMT6H4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전국농민회총연맹 전봉준 투쟁단 농민들이 21일 윤석열 대통령 체포 등을 촉구하며 트랙터와 트럭 수십 대를 몰고 상경하던 중 서울 남태령 고개 인근에서 경찰에 가로막혀 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 대통령의 구속을 촉구하며 트랙터를 몰고 상경한 전국농민회총연맹(전농)과 경찰의 대치가 이어지고 있다.&lt;br&gt;&lt;br&gt;21일 경찰 등에 따르면 전농 측 트랙터 30여대와 화물차 50여대는 이날 낮 12시쯤 과천대로를 통해 서울에 진입하려다 서초구 남태령고개 인근에서 경찰에 저지됐다.&lt;br&gt;&lt;br&gt;경찰이 대형 버스 등을 동원해 이들의 서울 진입을 막자 한 운전자가 트랙터로 경찰버스를 들어 올리려고 시도했다. 경찰이 이 운전자를 끌어내리는 과정에서 트랙터 유리창이 깨지는 등 물리적 충돌이 빚어졌다. 아직 부상자나 연행자는 없는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;전농은 밤샘 농성을 이어갈 것으로 보인다. 광화문 시위를 마친 시민들이 합류하면서 이날 오후 11시 기준 경찰 추산 500여명(전농 추산 2000여명)이 집회에 참석했다.&lt;br&gt;&lt;br&gt;전농은 윤석열 대통령 퇴진을 요구하며 이날 서울 용산구 한남동 대통령 관저와 광화문 촛불집회 장소로 행진할 예정이었다. 하지만 서울경찰청은 트랙터 행진이 극심한 교통 불편을 야기할 수 있다는 이유로 ‘제한 통고’ 조처를 내렸다.&lt;br&gt;&lt;br&gt;전농 관계자는 “지난 닷새간 트랙터 모두 아무 문제 없이 올라왔는데 경찰이 집회 결사의 자유를 막고 있다”며 “길을 열어줄 때까지 떠나지 않을 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>﻿이적, 전람회 출신 故서동욱 추모 “모든 걸 나눴던 친구”</title>
       <link>https://www.chosun.com/national/people/2024/12/21/FKU4H6FECBFGFBQNXNSMXHFBHM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/people/2024/12/21/FKU4H6FECBFGFBQNXNSMXHFBHM/</guid>
@@ -785,15 +804,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MJFPYTN27NDJFGHE2OKPO4S4HE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2022년 10월 24일 국회 국정감사에서 ‘청담동 술자리 의혹’을 처음 공개 제기하는 김의겸 더불어민주당 의원. 왼쪽은 이 의혹이 거짓이었음이 밝혀진 후에 김 의원이 페이스북에 “심심한 유감을 표한다”고 밝힌 입장문이다. /뉴스1·그래픽=송윤혜&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이른바 ‘청담동 술자리 의혹’을 처음 제기한 김의겸 전 더불어민주당 의원이 명예훼손 사건 첫 재판에서 혐의를 전면 부인했다. 김 전 의원은 근거 없는 술자리 의혹을 제기해 윤석열 대통령과 당시 법무장관이던 한동훈 전 국민의힘 대표의 명예를 훼손한 혐의로 기소됐다.&lt;br&gt;&lt;br&gt;김 전 의원 변호인은 20일 서울중앙지법 형사13단독 이용제 판사 심리로 열린 첫 공판에서 “전체 공소사실을 부인한다”고 밝혔다. 함께 기소된 강진구 전 더탐사 대표 역시 혐의를 모두 인정하지 않았다.&lt;br&gt;&lt;br&gt;다만 김 전 의원 측은 검찰 증거 기록이 방대해 숙지가 안 됐다며 각 증거들에 관한 의견은 추후에 밝히기로 했다. 다른 피고인들도 같은 입장이라고 했다. 재판부는 다음 기일을 내년 2월 14일로 지정했다.&lt;br&gt;&lt;br&gt;김 전 의원은 지난 2022년 10월 국회 국정감사에서 윤 대통령과 한 전 대표가 김앤장 법률사무소 변호사 30여 명, 이세창 전 자유총연맹 총재 권한대행 등과 함께 청담동에서 심야 술자리를 가졌다는 의혹을 폭로했다. 당시 김 전 의원은 첼리스트 A씨가 전 남자 친구와 통화하며 “내가 술자리에서 윤석열과 한동훈을 봤다”고 말한 것을 근거로 들었다. 김 전 의원은 이 의혹을 폭로하는 과정에서 강 전 대표 등과 협업했다.&lt;br&gt;&lt;br&gt;하지만 두 사람이 제기한 의혹은 허위로 드러났다. A씨는 경찰 조사 등에서 “귀가가 늦은 이유를 남자친구에게 둘러대려고 거짓말했다” “윤 대통령과 한 대표를 본 적이 없다”고 밝혔다. 그러나 더탐사 등은 관련 의혹을 계속 제기했다.&lt;br&gt;&lt;br&gt;김 전 의원은 A씨 진술이 알려지자 “진술이 사실이라면 이 의혹을 공개적으로 처음 제기한 사람으로서 윤 대통령 등 관련된 분들에게 심심한 유감을 표한다”고 밝혔다.&lt;br&gt;&lt;br&gt;한 전 대표는 고소로 경찰이 수사에 착수했고, 경찰은 혐의를 인정하면서도 국회의원 면책 특권을 근거로 불송치했다. 그러나 한 전 대표 측이 이의 신청을 했고, 검찰은 지난 9월 김 전 의원을 정보통신망법상 명예훼손으로 기소했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>이영애, ‘김건희 여사 친분설’ 제기한 유튜버에 손배소 패소</title>
-      <link>https://www.chosun.com/national/national_general/2024/12/20/J2IQTB5DO5HVTFJKGUUQKDEVSA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/20/J2IQTB5DO5HVTFJKGUUQKDEVSA/</guid>
-      <dc:creator>구동완 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 20 Dec 2024 06:52:46 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OVUJRCD7P5A4JIKNPT4QSQGQGI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;배우 이영애. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;배우 이영애(53)씨가 자신의 이승만대통령기념재단 기부 사실을 놓고 김건희 여사와의 친분설을 제기한 유튜버를 상대로 낸 민사소송에서 패했다.&lt;br&gt;&lt;br&gt;서울서부지법 민사합의12부(재판장 김진영)는 20일 이씨가 유튜브 채널 열린공감TV의 정천수 전 대표를 상대로 2억5000만원을 배상하라며 제기한 손해배상 청구 소송에서 원고 패소로 판결했다. 재판부는 지난 10월 정 전 대표 측에 문제가 된 영상을 삭제할 것과 이씨와 김 여사의 친분 관련 내용의 방송 금지, 이씨의 정치적 성향을 방송할 때는 이씨 측 입장을 반영할 것 등을 제시하며 화해권고 결정을 내렸으나 양측 모두 이의신청을 해 재판이 진행됐다. 화해가 성립하면 확정판결과 같은 효력을 갖지만, 이의신청을 제기할 경우 재판을 통해 결론을 내야 한다.&lt;br&gt;&lt;br&gt;앞서 이씨는 작년 9월 이승만대통령기념관 건립에 써 달라며 재단에 5000만원을 기부했다. 이를 놓고 열린공감TV가 “이영애가 윤석열 대통령과 김건희 여사와 연관돼 있다”고 보도하자, 이씨는 용산경찰서에 정보통신망법 위반(명예훼손) 혐의로 정 전 대표를 고소하고 민사소송도 제기했다. 이후 형사 사건은 경기 양주경찰서로 이송돼 불송치 결정이 내려졌으나 이씨 측의 이의신청으로 검찰에 송치됐다. 하지만 사건을 넘겨받은 의정부지검이 지난 6월 불기소를 결정했다. 이씨 측은 이에 불복해 다시 항고했고, 서울고검이 사건을 맡아 지난 8월부터 직접 수사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>“조업 방해된다”...‘대왕고래 석유 시추 반대’ 포항 홍게어선들 해상 시위</title>
       <link>https://www.chosun.com/national/incident/2024/12/20/BBT6ONME3JCZVJV5MOILIBGRXE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/12/20/BBT6ONME3JCZVJV5MOILIBGRXE/</guid>
@@ -891,15 +901,6 @@
       <description/>
       <pubDate>Thu, 19 Dec 2024 15:30:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MBJOH2ESGVHPBK5JZ5JEV6DUQE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>출산축하금 1000만원에 사내 어린이집까지… 둘째도 낳을까 싶죠!</title>
-      <link>https://www.chosun.com/culture-life/culture_general/2024/12/20/XKE22L6HHBFFHNXWWM6CN7JMVA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/culture-life/culture_general/2024/12/20/XKE22L6HHBFFHNXWWM6CN7JMVA/</guid>
-      <dc:creator>강다은 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 19 Dec 2024 15:30:00 +0000</pubDate>
-      <content:encoded>“회사가 큰 액수의 출산축하금까지 챙겨주니 부모님이 나서서 주변에 회사 자랑을 엄청 하셨어요.”&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XZQJT3EHXJHZVK34CPGK57WJSU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;유한양행은 자녀 출산 시 지급하는 출산축하금 1000만원과 사내 어린이집을 비롯해 일과 가정 양립을 위한 다양한 제도와 시설을 운영하고 있다. 사진은 서울 대방동의 유한양행 본사 사내 어린이집에서 직원과 자녀들이 함께 밝게 웃고 있는 모습. /유한양행&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;유한양행 홍보팀 소속 박시은(33)씨는 지난해 8월 첫째 아들을 출산하고 출산축하금 1000만원을 받았다. 유한양행이 저출생 문제 해결에 동참하기 위해 자녀 출산 1명당 1000만원을 지원해주기로 했는데, 박씨가 ‘출산축하금 1호’가 됐다. 박씨는 “받은 격려금 1000만원은 아이의 이름으로 된 통장을 만들어 저축했다”며 “아이가 자라나서 이렇게 큰 축하를 받았다는 사실을 알면 기뻐할 것”이라고 했다. 2017년 유한양행으로 이직한 박씨는 축하금을 받았을 뿐 아니라 육아휴직과 출산휴가를 붙여 1년 4개월을 쉰 뒤, 지난 2일 복직했다. 아들 김강은군은 엄마보다 빠른 지난 9월부터 매일 아침 사내 어린이집에 다니고 있다. 박씨는 “회사가 돈도 주고, 쉬게도 해주고, 아이까지 키워주니 ‘둘째를 낳을 수도 있겠다’는 생각을 하고 있다”고 말했다.&lt;br&gt;&lt;br&gt;유한양행은 직원들이 일과 가정을 동시에 챙길 수 있도록 임신·출산·육아와 관련한 다양한 제도를 운영하고 있다. 특히 ‘기업의 소유주는 사회이다. 단지 그 관리를 개인이 할 뿐이다’라며 기업의 사회적 책임을 강조했던 창업주 고(故) 유일한 박사의 뜻을 이어 여성 직원들이 안심하고 출산·육아에만 전념할 수 있도록 했다. 유한양행은 1926년 설립돼 100주년을 앞둔 제약 회사다. 폐암 치료제 렉라자, 소염 진통제 안티푸라민 등으로 유명하다.&lt;br&gt;&lt;br&gt;유한양행의 일·가정 양립 정책은 임신, 출산부터 자녀의 대학 졸업 때까지 생애 주기별로 다양하다. 생애 주기별 맞춤 복지가 직원들의 근속과 ‘회사 장수’에도 관련된다고 보기 때문이다.&lt;br&gt;&lt;br&gt;법정 육아휴직을 보장하고, 출산축하금도 준다. 지난해 8월부터 출산 자녀 1명당 1000만원을 주고, 지난해 1~7월 출산한 직원에게는 500만원을 소급 지급했다. 쌍둥이의 경우 한 번에 2000만원을 받는다. 유한양행은 제도 시행 후 지난해 기준 82건, 총 6억4000만원을 출산 직원 가정에 전달했다. 국내 제약사 중 이 같은 통 큰 축하금 지원은 처음이었다고 한다. 이후 다른 제약사에서도 비슷한 제도를 만들었다. 유한양행 관계자는 “출산축하금 지급에 제약·바이오 업계의 여러 기업들이 동참하면서 우리 직원들이 자부심을 느꼈다고 했다”고 말했다.&lt;br&gt;&lt;br&gt;맞벌이 부부 직원을 위해 사내 어린이집도 운영 중이다. 2020년 서울 대방동 본사 1층에 ‘유한버들새싹어린이집’을 만들었다. 이전에는 직원들이 육아휴직 기간이 끝나가는데도 집 근처 어린이집에 자녀를 입소시키지 못하는 일이 많았다고 한다. 사내 어린이집에서 체육, 음악, 미술 등 특별 활동도 무료로 제공 중이다. 7살 아들을 4년째 어린이집에 맡기고 있는 임상통계팀의 심수진(35) 과장은 “집 근처 어린이집도 찾아봤는데, 차를 타고 한참 가야 하는 거리에 있었다”며 “야근을 할 경우 늦게까지 아이를 봐주기도 하니 안심이 된다”고 했다. 임상운영팀 이보경(37) 과장도 두 자녀를 사내 어린이집에 맡겼다. 이전엔 양육을 위해 친정 부모 도움을 받았는데, 직장 내 어린이집이 생기고 나서부터는 회사 근처로 이사해 남편과 두 아이 육아를 하고 있다고 한다. 이 과장은 “동료들과도 ‘회사에서 육아를 많이 도와주니 아이를 낳아도 된다’고 얘기한다”며 “어린이집 외에도 출산장려금, 자유로운 휴가 사용 같은 좋은 제도 덕분에 지난해 둘째도 낳게 됐다”고 했다.&lt;br&gt;&lt;br&gt;학생 자녀들을 위한 장학금 지원에도 신경 쓰고 있다. 자녀가 중·고등학생이 되면 학자금을 지원하고, 대학 등록금은 자녀 수에 상관없이 전액 지원해주고 있다. 대학교 이후 의약, 치의학전문대학원을 다닐 때도 학자금을 전액 지원한다. 지난해 자녀 장학금 지급은 총 378건, 12억7368만원에 달했다.&lt;br&gt;&lt;br&gt;생애 주기 맞춤형 지원으로 유한양행은 지난해 12월 산업통상자원부로부터 출산·육아 모범 수출 기업으로 선정되기도 했다. 2021년엔 여성가족부로부터 가족친화인증 기업으로 선정됐고, 2022년 남녀고용평등 우수기업 국무총리 표창을 받았다.&lt;br&gt;&lt;br&gt;일·가정 양립 문화 확산에도 힘쓰고 있다. 유한양행은 직원들에게 법정 연차보다 7일의 연차를 추가로 제공하고 있다. 직원들은 언제든 원할 때 휴가를 사용할 수 있다. 유연·단축 근무제와 함께, 재택근무도 활성화했다. 직원들은 “육아휴직을 마치고 복직 후에도 적응하는 데 불편함 없도록 살뜰하게 챙겨주는 문화가 있다”고 말한다.&lt;br&gt;&lt;br&gt;여름과 겨울에는 평일 5일씩의 ‘전사 휴무’ 기간을 뒀다. 이 기간을 포함해 언제든지 가족 단위로 이용할 수 있는 콘도와 하계·동계 휴양소를 운영하고 있다. 유한양행 측은 “직원 복지를 위해 언제든 사용할 수 있는 회사의 휴양소 및 콘도 운영도 점차 확대하고 있다”며 “회사 몰인 버들장터에서 이용할 수 있는 복지포인트의 지급도 검토 중”이라고 했다. 유한양행의 직원 평균 근속 연수는 업계 평균(5.2년)을 훌쩍 넘는 12년이다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>檢, 경찰 국수본 고위 관계자 2명 소환… ‘방첩사 체포조 지원’ 의혹</title>
