@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>광화문으로 모인 탄핵 찬반 집회… 일대 교통 혼잡</title>
+      <link>https://www.chosun.com/national/national_general/2024/12/21/72WLZOFQJRBXPK2LJ5TDLCMO3I/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/21/72WLZOFQJRBXPK2LJ5TDLCMO3I/</guid>
+      <dc:creator>고유찬 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 21 Dec 2024 04:08:44 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/C5IO6K3X3NLVJBUOJBR3ZLT2KM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 14일 오후 서울 종로구 동화면세점 앞에서 대한민국바로세우기국민운동본부(대국본) 등이 '자유 대한민국 수호 국민혁명대회'를 열고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;21일 광화문 일대에서 대규모 집회가 예정돼 교통 혼잡이 예상된다.&lt;br&gt;&lt;br&gt;서울경찰청에 따르면 이날 오후 3시부터 시민단체 퇴진비상행동 주최로 ‘윤석열 즉각 파면·처벌 사회대개혁 범국민 대행진’이 서울 광화문 동십자각 앞에서 열린다.&lt;br&gt;&lt;br&gt;전국민주노동조합총연맹(민노총)은 이날 오후 1시 30분부터 서울 중구 서울고용노동청에서 ‘내란수괴 윤석열 즉각 체포·구속 윤석열 반노동정책 폐기, 사회대개혁실현 민주노총 결의대회’를 열어 서울 광화문 동십자각 경복궁 교차로까지 행진한 뒤 비상행동 집회에 합류할 예정이다.&lt;br&gt;&lt;br&gt;윤 대통령 구속 등을 촉구하며 트랙터를 몰고 상경 중인 전국농민회총연맹(전농)은 이날 서울에 진입해 대통령 관저와 광화문 집회 장소까지 행진하겠다며 상경을 예고했으나, 오후 12시 10분쯤 과천대로 남태령고개 인근에서 경찰에 서울 진입을 저지당한 상태다.&lt;br&gt;&lt;br&gt;윤석열 퇴진 전국 대학생 시국회의도 이날 오후 1시 30분 서울 지하철 3호선 경복궁역 인근에서 집회를 열고 ‘윤석열 퇴진 3차 대학생 시국회의’를 개최한다. 이화여대 총학생회 및 성공회대 총학생회 비대위원회가 공동 주최한다.&lt;br&gt;&lt;br&gt;촛불행동도 이날 오후 4시 30분 서울 지하철 3호선 안국역 3번 출구에서 ‘120차 촛불문화제’를 연다.&lt;br&gt;&lt;br&gt;한편 같은 날 오후 1시 대한민국바로세우기국민운동본부(대국본)는 광화문 일대에서 윤 대통령 탄핵 반대와 한덕수 총리의 헌법재판관 추가 임명 저지를 촉구하는 대규모 맞불집회를 진행한다.&lt;br&gt;&lt;br&gt;대국본은 전광훈 국민혁명의장을 중심으로 대통령 찬성여론에 대해 비판적인 입장을 밝힐 것으로 보인다. 대국본 등은 지난 14일에도 광화문 일대에 모여 집회를 이어간 바 있다.&lt;br&gt;&lt;br&gt;경찰은 집회와 행진 중에도 차량 통행을 위해 가변차로를 운영해 남북간 동서간 교통소통을 최대한 유지할 예정이다. 또한 집회 행진 및 행사구간 주변에 대규모 경력을 배치해 차량 우회 등 집회관리에 나설 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>“의대 정원, 4000명으로 2031년까지” 민간 연구 결과</title>
       <link>https://www.chosun.com/national/welfare-medical/2024/12/21/HCKVZ6MZ2NHOVLCKG56F4PFKZI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/12/21/HCKVZ6MZ2NHOVLCKG56F4PFKZI/</guid>
@@ -800,15 +809,6 @@
       <description/>
       <pubDate>Fri, 20 Dec 2024 02:10:49 +0000</pubDate>
       <content:encoded>서울시는 20일 오세훈 서울시장이 이날 오전 서울시청 청사 1층 로비에서 출근하는 서울시 직원들에게 커피와 다과를 전달했다고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OCMGMEECGNJUHCLZDAFW7MCJJQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;오세훈 서울시장이 20일 서울 중구 서울시청 본관 로비에서 '종합청렴도 1등급 달성 및 세계 도시경쟁력 지수 상승'을 기념해 출근길 직원에게 커피와 다과를 나눠주며 기념 촬영하고 있다. /서울시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 오 시장이 직원들에게 커피를 전달한 건 지난 19일 발표된 국민권익위원회의 ‘2024년도 공공기관 종합 청렴도 평가’에서 서울시가 1등급을 달성했기 때문이다. 서울시가 이 평가에서 1등급을 달성한 건 지난 2010년 이후 14년 만이다.&lt;br&gt;&lt;br&gt;앞서 지난 11일에는 일본 모리기념재단이 발표한 ‘세계 도시 종합 경쟁력 지수’에서 서울시가 6위를 차지하기도 했다. 서울시는 2017년 이후 7년 만에 다시 6위로 올라섰다.&lt;br&gt;&lt;br&gt;오 시장은 “서울시 모든 직원이 마음가짐을 새롭게 하고 노력해 준 덕분에 청렴도 1위를 차지할 수 있었다”며 “1년 만에 상상 이상의 성과를 달성한 서울시 직원들에게 감사하다”고 말했다.&lt;br&gt;&lt;br&gt;앞서 오 시장은 지난 19일 오전에 열린 비상경제회의에서도 “종합 청렴도 1등급과 도시 경쟁력 지수 상승은 서울시 공무원 모두가 함께 이뤄낸 결과”라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>16년째 나눔 실천하는 김영근 안경사</title>
-      <link>https://www.chosun.com/national/people/2024/12/20/EVGDG6B7HNFF5GRGQHXVPBRMB4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/12/20/EVGDG6B7HNFF5GRGQHXVPBRMB4/</guid>
-      <dc:creator>김명일 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 20 Dec 2024 02:16:34 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FZUN4YWTQBFGFMFI7F7AMVUXBY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김영근 안경사.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;어떤 날은 1000원, 어떤 날은 3000원, 또 어떤 날엔 20만원이나 50만원. 그러다가 어떤 날엔 120만원까지 기부했다. 이곳 저곳의 숱한 복지재단과 단체에 기부해온 세월이 16년이다. 포털 사이트 네이버의 기부 프로그램인 해피빈을 통해서는 매일 1000원, 3000원씩 기부했다. 해외 출장을 가거나 불가피한 사정을 제외하곤 빠지지 않고 기부 버튼을 눌렀다. 아동복지전문기관인 초록우산, 어린이의약품지원본부, 대한적십자사, 비전케어 같은 곳에는 매월 20만~120만원씩 수년간 약정을 맺고 정기적으로 기부했다.&lt;br&gt;&lt;br&gt;케냐와 르완다의 어린이에게 수백만원씩 기부한 적도 있다. 온몸의 근육이 경직되는 난치병인 ‘근이영양증’을 앓는 배재국(28)씨를 휠체어에 태워 마라톤 풀코스 종주를 하는 아버지 배종훈(58)씨 사연을 듣고는 그들 부자에게 200만원 상당의 마라톤 고글을 기부했다. 그렇게 16년간 기부해온 누적 금액이 1억4000만원.&lt;br&gt;&lt;br&gt;이 사람보다 큰 금액을 기부한 사람은 부지기수일지 모른다. 그러나 이 사람보다 더 자주, 더 꾸준하게 기부해온 사람을 찾기는 쉽지 않다. 16년간 지속해온 기부를 횟수로 따지면 족히 3000~4000회에 달한다. 하루 1000원, 3000원씩 기부해온 해피빈 기부금액이 올해 12월5일까지 그야말로 티끌모아 태산인 2580만원에 이를 정도다.&lt;br&gt;&lt;br&gt;그는 큰 부자가 아니다. 서울 명동에서 ‘아이닥안경원’을 운영하는 안경사다. 김영근(58)씨는 2008년 3월부터 16년째 다양한 나눔을 실천해오고 있다. 안경원 운영이 순탄했던 것은 아니다. 그는 2000년 안경원을 개원했다. IMF 외환위기의 여파가 남아 있었던 때다. 안경원은 명동의 한 빌딩 11층에 있었다. 소비자들에겐 접근성이 매우 나쁜 위치였다. 그곳에 안경원이 있다는 걸 알기조차 힘들었다. 개원 후 몇 년 간은 압류를 걱정해야 할 정도로 경영난을 겪었다.&lt;br&gt;&lt;br&gt;그는 다양한 온라인 마케팅 방법으로 어려움을 헤쳐나왔다. 2001년 그는 안경 업계에서는 처음으로 안경, 선글라스, 스포츠글라스, 누진다초점렌즈 등 아이웨어 전문 사이트를 개설해 안경과 관련한 정보를 제공했다. 여러 포털 사이트에서 블로그를 운영하며 ‘11층 안경원’이라는 약점을 극복해나갔다. 네이버에서 시력이나 안경 정보와 관련한 ‘지식인’으로 활동하며 파워지식인에 선정되기도 했다. 이런 노력으로 품질이 보장된 안경을 찾는 소비자들을 11층 안경원으로 끌어올렸다.&lt;br&gt;&lt;br&gt;개원 24년이 넘은 지금의 ‘아이닥’은 업계에서 알아주는 안경원으로 성장했다. 국내 최초로 일본 3D 방식으로 계측해 개별 소비자 맞춤형으로 안경을 제작하는 아이메트릭스 시스템도 도입했다. 두상을 0.1mm 단위로 스캔해 소비자의 얼굴에 꼭 맞는 안경을 제작할 수 있는 시스템이다. 3D 계측을 통한 안경 제작 기술은 세계적으로 발전을 거듭하고 있지만, 아이메트릭스는 그 중에서 가장 선두에 있다고 평가를 받는다. 국내에서 유통되고 있는 소비자 맞춤형 안경 제작 시스템 중 안경테가 있는 안경과 안경테가 없는 무테 안경을 모두 제작할 수 있는 시스템은 아이메트릭스가 유일하다.&lt;br&gt;&lt;br&gt;아이닥은 이 같은 기술적인 기반 시스템을 갖춘 덕분에 2023년 NICE디앤비의 ‘유리 가공 및 시력 검안 기술 우수기술기업’ 인증을 받았다. 백화점 등 럭셔리 매장에서만 판매하려고 하는 콧대 높은 카르띠에와 같은 명품 브랜드의 러브콜도 이어지고 있다.&lt;br&gt;&lt;br&gt;김 원장은 “안경원을 아주 어렵게 일구어왔다”면서 “기업으로서는 아주 작은 규모이지만 그 과정에서 소비자를 통해 이익을 얻어왔으니 그 일부이나마 어려운 사람들과 나누고 싶었다”고 말했다.&lt;br&gt;&lt;br&gt;요즘 그가 가장 큰 몫의 기부를 하는 곳은 대한적십자사이다. 매월 50만원씩 정기기부를 하고 있다. 또 그가 운영하는 인터넷 카페 유리알속맑은세상 회원들과 함께 나눔활동을 지원하기도 한다.&lt;br&gt;&lt;br&gt;그는 “작은 일이라도 최선을 다하면 정성스럽게 되고 세상을 바꿀 수 있다는 중용23장을 좋아한다”며 “비록 작은 나눔일지라도 정성을 다해서 세상이 조금 더 밝아질 수 있도록 노력하고 싶다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>‘전주 얼굴 없는 천사’ 올해도 나타났다…25년째 기부 이어가</title>
