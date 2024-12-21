@@ -6,6 +6,15 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>(금주 법조계 주요일정) 12월 23~27일</title>
+			<description>&lt;b&gt;△23일(월)&lt;/b&gt;&lt;br /&gt;-한국법제연구원·한국법학원, 업무협약 체결식(오전 11시, 세종 반곡동 한국법제연구원 중회의실)&lt;br /&gt;-서울중앙지법, '뇌물수수 등' 혐의 홍인표 외 7명 4차 공판(오후 2시)&lt;br /&gt;&lt;b&gt;&lt;br /&gt;△24일(화)&lt;/b&gt;&lt;br /&gt;-대법원, 2부 선고(오전 10시)&lt;br /&gt;-서울고법, '공직선거법 위반 등 혐의' 송철호 전 울산시장 외 14명 14차 공판(오전 10시)&lt;br /&gt;-대법원, 3부 선고(오전 11시)&lt;br /&gt;-법무부, 제23회 법조봉사대상 시상식(오전 11시 30분, 대법원 무궁화홀)&lt;br /&gt;-서울고법, '공직선거법 위반 등 혐의' 송철호 전 울산시장 외 14명 15차 공판(오후 2시)&lt;br /&gt;&lt;br /&gt;&lt;b&gt;△25일(수)&lt;/b&gt;&lt;br /&gt;-성탄절&lt;br /&gt;&lt;br /&gt;&lt;b&gt;△26일(목)&lt;/b&gt;&lt;br /&gt;-대법원, 1부 선고(오전 10시)&lt;br /&gt;-대법원, 제21차 회생·파산위원회 정기회의(오전 10시30분, 서울 서초구 서초동 대법원 회의실)&lt;br /&gt;-대한변호사협회, 2024 북한인권백서(제10집) 발간 기념 보고회(오후 2시, 서울 서초구 서초동 대한변협회관 지하1층 세미나실 2)&lt;br /&gt;&lt;br /&gt;&lt;b&gt;△27일(금)&lt;/b&gt;&lt;br /&gt;-김상환 대법관 퇴임식(오전 10시, 서울 서초구 서초동 대법원 2층 중앙홀)&lt;br /&gt;-헌법재판소, '윤석열 대통령 탄핵(2024헌나8)' 사건 변론준비기일(오후 2시)&lt;br /&gt;-법무법인 세종·대한상공회의소, '통상임금 대법원 전원합의체 판결의 의미와 대응방안' 웨비나(오후 3시)</description>
+			<pubDate>Sat, 21 Dec 2024 22:10:06 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/204020</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/204020</guid>
+			<dc:creator>인터넷 기자</dc:creator>
+		</item>
+		<item>
 			<title>'햄버거집 계엄 2차 회동' 전직 정보사령부 대령 구속</title>
 			<description>&lt;p&gt;12·3 비상계엄 선포 당일, 한 햄버거 패스트푸드점에서 계엄을 모의한 혐의를 받는 정보사령부 출신 예비역 대령이 구속됐다.&lt;/p&gt;&lt;br /&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="7982"&gt;이훈재&amp;nbsp;&lt;/span&gt;서울중앙지법 영장당직 부장판사는 21일 내란실행 혐의를 받는 김용군 전 정보사 대령에 대해 "증거 인멸과 도망할 염려가 있다"며 구속영장을 발부했다.&lt;br /&gt;&lt;br /&gt;김 전 대령은 방어권 행사를 포기하고 이날 오후 구속영장실질심사에 불출석했다.&lt;br /&gt;&lt;br /&gt;김 전 대령은 3일 계엄 선포 전 경기 안산시에 있는 한 햄버거 패스트푸드점에서 노 전 사령관과 국방부 조사본부 소속 현직 장교 2명을 만나 계엄을 모의했다는 의혹을 받는다. 노 전 사령관은 1일 이 가게에서 문상호 정보사령관 등과 만났던 것으로 알려졌다.&lt;br /&gt;&lt;br /&gt;김 전 대령은 계엄 뒤 꾸려질 방첩사 합동수사단에 예비역 등 민간인이 참여하는 별도 수사단을 구성해 현역 요원들을 통제하려 했다는 의혹을 받는다.&lt;br /&gt;&lt;br /&gt;앞서 18일 경찰 국가수사본부 특별수사단과 고위공직자범죄수사처 등이 참여한 공조수사본부는 김 전 대령을 긴급체포하고 이튿날 구속영장을 신청했다.&lt;br /&gt;&lt;br /&gt;김 전 대령은 국방부 조사본부 수사단장을 지내던 2013년 국군사이버사령부의 댓글 공작 사건 수사를 축소·은폐한 혐의로 2018년 1월 구속돼 징역 10개월을 선고받았다.&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
 			<pubDate>Sat, 21 Dec 2024 11:03:38 -0000</pubDate>
@@ -232,16 +241,6 @@
 			<link>https://www.lawtimes.co.kr/news/204023</link>
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/204023</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/204023.jpg</media:thumbnail>
-			<dc:creator>조한주 기자</dc:creator>
-		</item>
-		<item>
-			<title>경기중앙변회, 노인 가구 김치 전달 위해 동절기 지원금 1000만원 기부</title>
-			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/thumb/180/204024.jpg" alt="204024.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;경기중앙지방변호사회(회장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="8505"&gt;윤영선&lt;/span&gt;)가 수원시 취약 가구의 동절기 필요 물품 지원 사업을 위해 지원금 1000만 원을 기부했다.&lt;br /&gt;&lt;br /&gt;경기중앙변회는 지난 17일 경기도 수원시 권선구 곡반정동에 위치한 수원시휴먼서비스센터에서 취약 가구를 위한 동절기 필요 물품 지원 사업에 사용될 지원금 1000만 원을 기부하고 전달식을 진행했다. 수원시휴먼서비스센터는 복지 사각지대 지원과 사례관리 기반 구축 등을 목적으로 수원시 조례에 따라 설립된 사회복지기관이다.&lt;br /&gt;&lt;br /&gt;전달식에는&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="8505"&gt;윤영선&lt;/span&gt;(57·사법연수원 24기) 경기중앙변회 회장과 백소영 휴먼서비스센터장 등 양 기관 관계자들이 참석했다.&lt;br /&gt;&lt;br /&gt;올해 기부된 지원금은 수원 지역 내 김치 공장과 협업해 김장김치를 담그는 데 사용될 예정이다. 이렇게 담근 김치는 10kg씩 총 230가구의 노인 가구에 전달될 계획이다.&lt;br /&gt;&lt;br /&gt;경기중앙변회는 매년 동절기 취약계층을 위한 나눔 활동을 이어오고 있다. 윤 회장은 “올해 배춧값 폭등으로 인해 김장이 어려운 가구가 많았을 것으로 생각된다”며 “앞으로도 꼭 필요한 곳에 지원금이 적절히 쓰일 수 있도록 기부를 이어가겠다”고 말했다.&lt;/p&gt;</description>
-			<pubDate>Fri, 20 Dec 2024 13:56:34 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/204024</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/204024</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/204024.jpg</media:thumbnail>
 			<dc:creator>조한주 기자</dc:creator>
 		</item>
 	</channel>
