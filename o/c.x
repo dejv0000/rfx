@@ -13,6 +13,24 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>‘검사 탄핵’ 해놓고 재판 ‘노 쇼’한 국회…뒤늦게 대리인 선임</title>
+      <link>https://www.chosun.com/national/court_law/2024/12/21/USS5L5L5INCCROAIR7DYPQJ26Y/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/21/USS5L5L5INCCROAIR7DYPQJ26Y/</guid>
+      <dc:creator>이슬비 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 21 Dec 2024 09:46:52 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KVK35AZ2IRC4TLR6CWWMZ36MUQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;5일 국회 본회의장에서 국민의힘이 불참한 가운데 최재해 감사원장, 이창수 서울중앙지검장, 조상원 4차장검사, 최재훈 반부패수사2부장에 대한 탄핵소추안이 통과됐다.  /이덕훈 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이창수 서울중앙지검장 등 검사 3명에 대한 헌법재판소의 탄핵심판 사건에서 국회 측이 뒤늦게 대리인을 선임한 것으로 나타났다. 국회는 더불어민주당 주도로 이 지검장 등 검사 3명에 대한 탄핵소추를 강행해놓고, 지난 18일 첫 변론 준비기일에는 ‘노 쇼’(No-Show)해 논란이 됐다.&lt;br&gt;&lt;br&gt;21일 법조계에 따르면, 국회 법제사법위원회는 최근 법무법인 커넥트를 이 지검장과 조상원 중앙지검 4차장, 최재훈 반부패2부장 탄핵 심판 사건의 대리인으로 선임했다고 헌재에 통보했다. 국회 측이 대리인을 선임하면서 내년 1월 8일로 예정된 2차 변론 준비 기일은 정상적으로 진행될 것으로 보인다.&lt;br&gt;&lt;br&gt;지난 18일 열린 첫 변론 준비기일은 불과 3분여 만에 끝났다. 탄핵 심판을 청구한 정청래 국회 법제사법위원장은 물론 대리인도 나오지 않았기 때문이다. 민주당은 이 지검장 등 검사 3명의 탄핵소추안을 지난 5일 국회 본회의에서 처리해놓고, 첫 변론 준비 기일인 18일까지도 대리인을 선임하지 않았다. 이 지검장과 최 부장검사는 지난 9일, 조 차장검사는 11일 각각 대리인을 선임했고, 변호사들은 모두 이날 재판에 출석했다.&lt;br&gt;&lt;br&gt;심리를 맡은 김복형 헌법재판관은 “재판부는 청구인에게 변론 준비 기일을 통지하면서 출석하도록 고지했으나 출석하지 않았고, 대리인도 선임하지 않았다”라며 “변론준비기일을 진행해야 할 상당한 사유가 있다고 보고 형사소송법 규정에 따라 변론준비기일을 다시 진행하겠다”고 했다.&lt;br&gt;&lt;br&gt;민주당은 검사 3명의 탄핵소추 이유로 ‘도이치모터스 주가조작’ 사건에서 김건희 여사에 대한 무혐의 처분을 들었다. 헌법상 탄핵소추는 ‘직무 집행에서 중대한 헌법·법률 위반’ 행위가 있어야 한다. 검찰 출신 한 변호사는 “결국 탄핵이 목적이 아니라 특정 검사의 직무를 정지시켜 수사를 못 하게 하는 것이 목적 아니냐”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>검찰, 박상우 국토부장관 조사...계엄 해제 국무회의 참석 </title>
+      <link>https://www.chosun.com/national/court_law/2024/12/21/UU6GC3GQOJFHFCKDYNQ4H6TCMU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/21/UU6GC3GQOJFHFCKDYNQ4H6TCMU/</guid>
+      <dc:creator>이슬비 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 21 Dec 2024 08:50:07 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Z4PT4LOSNZNULJ7K4XM2VUGLFU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;박상우 국토교통부 장관이 18일 세종시 정부세종청사에서 열린 기자간담회에서 질문에 답변하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘12·3 비상계엄 사태’를 수사하는 검찰이 21일 계엄 해제 국무회의에 참석했던 박상우 국토교통부 장관을 소환했다.&lt;br&gt;&lt;br&gt;검찰 비상계엄 특별수사본부(본부장 박세현 서울고검장)는 이날 박 장관을 참고인 신분으로 불러 계엄 당일 국무회의 관련 상황을 조사했다. 검찰은 박 장관에게 계엄 선포를 알게 된 시점, 계엄 전후 국무회의 관련 상황 등을 조사한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;박 장관은 윤석열 대통령이 지난 3일 비상계엄을 선포하기에 앞서 열린 국무회의에는 참석하지 않았다. 박 장관은 국회가 본회의를 열고 ‘비상계엄 해제 요구 결의안’을 가결한 이후인 4일 새벽 4시 30분쯤 열렸던 국무회의에 참석했다. 계엄 해제 요구안 심의를 위한 국무회의는 윤 대통령이 아니라 한덕수 국무총리가 주재했다.&lt;br&gt;&lt;br&gt;박 장관은 지난 18일 정부세종청사에서 열린 기자간담회에서 “(비상계엄 선포 당일) 만보를 채우려고 걷고 있는데 대통령실로부터 들어오라는 연락을 받고 택시를 타고 갔지만, 상황이 종료돼 있었다”라며 “어떤 의사 결정 과정에도 참여하지 않았다”고 했다. 이어 비상계엄 선포에 대해 “꿈에도 생각해본 적 없는 일”이라며 “국민의 한 사람으로 송구스럽고 안타깝게 생각한다”고 했다.&lt;br&gt;&lt;br&gt;검찰은 비상계엄 선포 전후 국무회의 참석자들을 차례로 불러 조사하고 있다. 지난 12일 조규홍 보건복지부 장관을 소환 조사한 데 이어 최근 김영호 통일부 장관을 조사했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>﻿“이제 나는 괜찮아, 다른 사람 챙겨줘” 쪽방촌 할머니가 남긴 비닐봉지</title>
       <link>https://www.chosun.com/national/national_general/2024/12/21/GX255SIORBDVFDRMIPFC3KQSU4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/21/GX255SIORBDVFDRMIPFC3KQSU4/</guid>
@@ -767,15 +785,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/M25FO326C5AMTJQAOIKJ43GEKE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;20일 경북 포항 앞바다에서 대왕고래 프로젝트에 반발하는 어민들이 시추선 주변을 어선으로 둘러싼 모습. /포항해경&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이른바 ‘대왕고래 프로젝트로’ 불리는 동해 심해 가스전 개발을 위한 시추 작업이 본격화되면서 시추 지점에서 홍게를 잡는 어민들이 해상 시위에 나섰다. 어민들은 “시추 기간이 조업 성수기와 겹쳐 피해가 크다”고 주장하고 있다.&lt;br&gt;&lt;br&gt;20일 경북 포항 구룡포항에선 ‘정부 사업 미명하에 어민들 죽이지 말라’ ‘산자부와 한국석유공사는 탐사시추를 즉각 중단하라’는 펼침막을 든 어민 50여 명이 몰려들었다. 포항 구룡포홍게선주협회 등 소속 어민들은 이날 구룡포항에서 어선 47척을 동원해 시추 지점까지 해상 시위에 나섰다.&lt;br&gt;&lt;br&gt;어민들은 어선으로 시추 지점인 포항 앞바다 40km 지점까지 이동한 뒤, 시추선인 웨스트카펠라호 주변을 포위하듯 원형으로 돌면서 시추 작업 반대 문구가 적힌 펼침막을 쳐들었다. 포항해경 측에선 어민들과 시추선의 안전을 위해 이날 미리 대형·중형 각 1척씩 경비함정을 배치했고, 별다른 충돌은 발생하지 않았다.&lt;br&gt;&lt;br&gt;포항해경 관계자는 “원래도 해당 해역은 경비구역이라 경비함정이 배치돼 있지만, 어민들의 해상 시위가 진행된다고 해 함정을 별도로 추가 배치한 것”이라고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/33ZUYYK345MADG47NEZFRVU2EE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;20일 오전 경북 포항시 남구 구룡포읍 구룡포항에서 구룡포연안홍게선주협회 어민들이 한국석유공사의 '대왕고래' 탐사 시추에 반발해 집회를 하고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한국석유공사에 따르면 시추선 웨스트카펠라호는 이날 새벽부터 탐사 시추에 돌입했다. 시추 작업은 앞으로 40~50일간 진행된다. 수심 1.2km 아래 해저면을 2km 가량 뚫고 들어가 시료를 채취하는 작업이다. 시추 작업에서 채취된 시료에 대한 분석 결과는 내년 5~6월쯤 알 수 있을 전망이다. 하지만 이 사업이 탄핵 정국과 맞물리면서 내년도 사업 예산이 98% 가량 삭감돼, 추가 예산 확보가 불투명한 상태다.&lt;br&gt;&lt;br&gt;어민들도 시추 작업을 하면 물고기가 달아난다며 피해 보상을 요구하고 있어 시추 작업이 난항을 겪을 가능성도 있다.&lt;br&gt;&lt;br&gt;김진만 포항구룡포홍게선주협회장은 “벌써 오늘 시위로 우리 어민들이 입은 조업 피해만 7억에 달한다”며 “적절한 보상이 이뤄질 때까지 시위에 나설 계획”이라고 했다.&lt;br&gt;&lt;br&gt;이에 앞서 한국석유공사 측은 어민들과 보상 논의를 했지만 보상금액에 대한 입장 차를 좁히지 못해 결렬됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>“몽유병 있어” 주장 안 통했다… 알몸으로 호텔 누빈 공무원 벌금형</title>
-      <link>https://www.chosun.com/national/national_general/2024/12/20/4PLJYWI7VVEAXLKTLE35LMG33Q/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/20/4PLJYWI7VVEAXLKTLE35LMG33Q/</guid>
-      <dc:creator>문지연 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 20 Dec 2024 06:47:39 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JHWE22LGVBCVHJU35XWRGTUTZU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 중앙지방법원 로비에 법원 마크가 밝게 빛나고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;알몸으로 호텔 복도를 돌아다니며 투숙객이 머무는 객실 문손잡이를 잡고 흔든 40대 공무원이 2심에서도 벌금형을 선고받았다. 그는 몽유병을 앓고 있다고 주장했으나 재판부는 받아들이지 않았다.&lt;br&gt;&lt;br&gt;춘천지법 제1형사부(부장판사 심현근)는 공연음란과 방실침입미수 혐의로 기소된 A(49)씨 항소심에서 원심과 같은 벌금 500만 원을 선고하고 40시간의 성폭력 치료 프로그램 이수를 명령했다고 20일 밝혔다.&lt;br&gt;&lt;br&gt;앞서 A씨는 작년 7월 24일 오후 11시17분쯤 강원 인제군 한 호텔 3층 복도를 나체로 돌아다니다가 여성 B(36)씨와 C(43)씨가 투숙 중인 객실 문손잡이를 여러 차례 흔들고 두드린 혐의로 재판에 넘겨졌다. 당시 A씨는 피해자가 “누구세요”라고 묻자 “죄송합니다”라고 답하면서도 재차 문을 열려고 했다. 이후에도 3층 복도 각 객실의 문손잡이를 당기며 돌아다녔다.&lt;br&gt;&lt;br&gt;A씨는 재판 과정에서 “몽유병이 있고 화장실을 가려고 했다”고 주장했다. 그러나 1심 재판부는 A씨가 몽유병으로 진료받은 기록이 없고, A씨 객실에 화장실이 있었음에도 운동화를 신고 나온 점, 만취 상태가 아니었고 의사소통이 원활했다는 경찰관 증언, A씨가 객실에서 음란행위를 한 흔적이 있던 점 등을 종합해 유죄로 판단했다.&lt;br&gt;&lt;br&gt;판결에 불복한 A씨는 항소했지만 2심 재판부도 “원심판결에 피고인의 주장처럼 사실을 오인하거나 법리를 오해해 판결에 영향을 미친 위법이 있다고 보기 어렵다”며 이를 기각했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>굴착기 결박에 전 남편 향한 증오로...1년 헬스 후 목 졸라 살해 </title>
       <link>https://www.chosun.com/national/2024/12/20/RPTDXUMXDNC5FDVYHH3N2R7EIE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/2024/12/20/RPTDXUMXDNC5FDVYHH3N2R7EIE/</guid>
@@ -855,15 +864,6 @@
       <description/>
       <pubDate>Thu, 19 Dec 2024 22:11:57 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3JLCSGEL7ZFLTPVWTDFNQ675SM.png"&gt;&lt;figcaption&gt;&lt;small&gt;내시경 자료사진. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;광주광역시의 한 병원에서 수면 내시경 검사를 받던 40대가 숨져 경찰이 수사에 나섰다.&lt;br&gt;&lt;br&gt;20일 광주경찰청 등에 따르면 수면내시경 검사 중이던 환자를 숨지게 한 혐의(업무상과실치사)로 광주 모 병원 의료진을 수사해 달라는 고소장이 최근 접수됐다.&lt;br&gt;&lt;br&gt;고소장에 따르면 40대 남성 A씨는 지난달 중순 해당 병원에서 위 수면내시경을 받던 중 의식불명 상태에 빠졌다. 대학병원으로 옮겨져 치료받았으나 13일 만에 숨졌다.&lt;br&gt;&lt;br&gt;경찰은 고소장 접수에 따른 수사 절차에 따라 의료진을 우선 업무상과실치사 혐의로 입건했다.&lt;br&gt;&lt;br&gt;A씨에 대한 부검 결과와 의료기록 검토, 법의학 감정 등을 거쳐 의료진의 과실 여부를 들여다볼 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘이화영과 공모 혐의’ 대북송금 재판… 李, 법관기피 신청</title>
-      <link>https://www.chosun.com/national/court_law/2024/12/20/LSVRJDL4UVCGNORCWJXSRIADSI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/20/LSVRJDL4UVCGNORCWJXSRIADSI/</guid>
-      <dc:creator>박강현 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 19 Dec 2024 15:55:00 +0000</pubDate>
-      <content:encoded>이화영 전 경기도 평화부지사는 19일 ‘쌍방울 대북 송금’ 사건 2심에서 징역 7년 8개월을 선고받았지만, 같은 사건으로 기소된 이재명 더불어민주당 대표의 ‘제3자 뇌물죄’ 사건은 아직 시작도 못한 채 멈춰있다. 최근 이 대표 측이 재판부 기피 신청을 했기 때문이다. 법조계에서는 “이 대표 측이 전형적인 ‘재판 지연’ 전술을 사용하고 있다”는 지적이 나온다.&lt;br&gt;&lt;br&gt;이 대표는 지난 13일 불법 대북 송금 사건을 심리하는 수원지법 형사11부(재판장 신진우)에 기피 신청서를 제출했다. ‘대북 송금’ 등으로 이 전 부지사에게 징역 9년 6개월을 선고한 1심 재판부였기 때문이다. 이 대표 측은 “판사가 유죄 심증을 가질 수 있다”고 했다. 기피 신청에 대한 판단은 항고와 재항고를 거쳐 대법원까지 간다면 약 2~3개월이 걸린다.&lt;br&gt;&lt;br&gt;앞서 이 대표는 지난 7월 이 사건을 서울중앙지법에서 진행 중인 ‘대장동 재판’에 합쳐달라고 신청해 대법원 판단이 나올 때까지 재판 절차는 2주가량 미뤄졌다. 이후 3차례 준비 기일에도 이 대표 측은 “기록을 다 못 봤다” “시간을 더 달라”고 요청하자 재판장은 “재판이 이렇게 지연되는 경우는 처음 본다”고 말하기도 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HCS76VK3M5FIJCQ4ZVGEASUNRM.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=백형선&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한편 이 대표의 공직선거법 위반 사건 2심을 담당하는 서울고법 형사6-2부(재판장 최은정)는 이날 이 대표 측이 전날 소송 기록 접수 통지서를 수령했다고 밝혔다. 법원 집행관이 직접 서류를 들고 이 대표 의원실로 찾아갔고, 이 대표 보좌진이 서류를 받은 것으로 전해졌다.&lt;br&gt;&lt;br&gt;이 대표는 그간 법원이 우편으로 보낸 통지서를 두 차례나 받지 않았다. 이 대표 측은 이에 대해 “배달 시점에 자택에 받을 사람이 없어 수령이 이뤄지지 않았을 뿐”이라며 재판 지연 의도가 없다고 해명했다.&lt;br&gt;&lt;br&gt;통지서를 받은 이 대표는 다음 달 7일까지 항소이유서를 제출해야 한다. 재판부는 통상 항소이유서가 제출된 후 재판 기일을 잡기 때문에 이 대표 재판은 일러야 내년 1월 중순 이후 열릴 전망이다. 이 대표는 이 외에도 위증교사 사건(2심), 대장동·백현동·위례·성남FC 사건(1심), 경기도 법인카드 유용 사건(1심) 등 모두 5건의 재판을 받고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>이화영 2심서도 “쌍방울이 이재명 방북비용 대납” 인정</title>
