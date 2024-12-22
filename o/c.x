@@ -13,6 +13,91 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>“폐암·실명으로 가는 길”...내일부터 담뱃갑 그림·문구 수위 높아져</title>
+      <link>https://www.chosun.com/national/national_general/2024/12/22/UTMMT5BA5JABHFANYFCVKK3N7A/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/22/UTMMT5BA5JABHFANYFCVKK3N7A/</guid>
+      <dc:creator>김명진 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 22 Dec 2024 08:08:53 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4D7H2RS5CVCQLHTMRABQSIRX5E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;제5기 담뱃갑 건강경고 그림·문구 예시. /보건복지부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;내일(23일)부터 담뱃갑 포장에 ‘폐암으로 가는 길’ ‘실명으로 가는 길’ 등 새로운 경고 문구와 그림이 들어간다. 지난 6월 담뱃갑 경고그림·문구의 수위를 대폭 높이기로 하고 고시 개정을 통해 최종 결정한 데 이은 조치다. &lt;br&gt;&lt;br&gt;일반 궐련 담뱃갑의 경고 그림은 모두 10종인데, 질병을 주제로 한 경고 그림이 기존 5종에서 7종으로 늘었다. 안질환·말초혈관질환에 대한 경고를 담은 그림 2종을 추가하는 대신 임부 흡연과 조기사망 등 구체적인 질병과 관련 없는 2종은 삭제했다.&lt;br&gt;&lt;br&gt;경고 문구는 단어형 표현에서 문장형 표기로 변경했다. ‘폐암’으로 표기하던 것을 ‘폐암으로 가는 길’로 바꾸는 식이다. 흡연으로 인한 질병 발생과 건강 위험을 비유적으로 표현하고자 했다는 것이 복지부 설명이다.&lt;br&gt;&lt;br&gt;궐련형·액상형 전자담배의 경우 그림의 주제를 1종에서 2종으로 늘리고, 문구는 현행 ‘니코틴 중독, 발암물질 노출’을 유지하기로 했다. 새롭게 바뀐 경고 그림과 문구는 앞으로 2년간 적용된다.&lt;br&gt;&lt;br&gt;담뱃갑 경고그림·문구는 흡연으로 병든 인체 사진·그림과 경고문을 갑에 그려넣어 흡연자의 금연을 유도하고 비흡연자의 흡연 예방을 도모하는 담배 규제 정책이다. 우리나라는 2016년 12월 흡연 경고그림 정책을 도입한 뒤 복지부가 2년마다 한번씩 경고 그림과 문구를 바꿔 고시하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>박진우 민주평통 교류·협력분과위원회 위원장, 국민훈장 모란장 수훈</title>
+      <link>https://www.chosun.com/national/regional/2024/12/22/DO6XYG7LP5COHGQACEUSPG5354/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/12/22/DO6XYG7LP5COHGQACEUSPG5354/</guid>
+      <dc:creator>대구=노인호 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 22 Dec 2024 08:02:55 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HVDMVZ3RS5FJLJRWKXR6CLBDH4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;자유민주 평화통일 기반조성에 기여한 공로를 인정받아 국민훈장 모란장을 받은 박진우 민주평통 교류·협력분과위원회 위원장(대구신용보증재단 이사장). /대구신용보증재단&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;박진우 민주평통 교류·협력분과위원회 위원장(대구신용보증재단 이사장)이 자유민주 평화통일 기반조성에 기여한 공로를 인정받아 ‘국민훈장 모란장’을 수훈했다.&lt;br&gt;&lt;br&gt;박 위원장은 2001년부터 민주평화통일 자문회의 위원회 활동 등을 통해 자유민주주의 가치 확산과 평화통일 기반조성을 위한 노력을 지속적으로 펼쳐온 공로를 인정받았다.&lt;br&gt;&lt;br&gt;국민훈장은 5등급으로 나눠지는데, 모란장은 무궁화장에 이어 상위 둘째 등급에 해당된다. 민주평통 진안순 운영위원, 안상국 천안시협의회장 등도 모란장을 받았다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[오늘의 운세]  12월 23일 월요일 (음력 11월 23일 辛酉)</title>
+      <link>https://www.chosun.com/national/national_general/2024/12/22/JBYCGL7ARRHBVIOE2KXZYVMHLQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/22/JBYCGL7ARRHBVIOE2KXZYVMHLQ/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Sun, 22 Dec 2024 08:00:00 +0000</pubDate>
+      <content:encoded>&lt;p&gt;&lt;div class="chosun_unse"&gt;&lt;iframe src="https://image.chosun.com/arc/unse_iframe.html" frameborder="0" scrolling="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;style&gt;.chosun_unse{position:relative;width:100%;height:350px;box-sizing:border-box}.chosun_unse&gt;iframe{position:absolute;top:0;left:0;width:100%;height:100%;overflow-y:hidden}@media all and (max-width:1024px){.chosun_unse{height:350px}}@media all and (max-width:1023px){.chosun_unse{height:350px}}@media all and (max-width:528px){.chosun_unse{height:270px}}@media all and (max-width:384px){.chosun_unse{height:190px}}&lt;/style&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;p&gt;&lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani01.gif"&gt;  	&amp;nbsp;	 36년생 동료와 의기투합이 좋은 결과 낳는다. 48년생 집 답답해도 밖 돌지 마라. 60년생 계획 변경 좋지 않으니 예정대로 추진하라. 72년생 춥다고 이불만 덮으면 더 춥다. 84년생 수탉은 다그쳐도 알 못 낳는다. 96년생 가벼운 운동과 취미 생활로 일상에 여유를.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt;  &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani02.gif"&gt;	&amp;nbsp;	 37년생 시작했다면 절반은 끝난 것. 49년생 칭찬과 격려는 큰 성과로 돌아온다. 61년생 무엇이든 하는 게 아무것도 안 하는 것보다 낫다. 73년생 호사다마니 삼가고 또 삼가도록. 85년생 끝날 때까진 끝난 게 아니다. 97년생 고운 사람 미운데 없고 미운 사람 고운 데 없다.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani03.gif"&gt;	&amp;nbsp;	 38년생 숫자 3, 8과 푸른색은 행운. 50년생 너무 멀게도 가깝게도 마라. 62년생 신수는 나쁘지 않은데 집안일로 근심스러운 하루. 74년생 고난과 위기 속 지혜 생기는 법. 86년생 침체기 벗어나 활기 찾기는 아직은 시기상조. 98년생 만만한 상황 아님을 직시하라.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani04.gif"&gt;	&amp;nbsp;	 27년생 하나를 보고 열을 판단하면 오산. 39년생 인내하면 못 갈 길 없다. 51년생 가보지 않은 길 가게 될 수도. 63년생 몸도 마음도 따뜻하게 보온 신경 쓰도록. 75년생 참을성 잃으면 되는 일 없다. 87년생 골치 아팠던 일이 일단락될 듯. 99년생 아끼는 게 버는 것.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani05.gif"&gt;	&amp;nbsp;	 28년생 차량, 계단 등 노상(路上)을 조심. 40년생 오랜 시간 속 진국은 우러난다. 52년생 화목한 가정에 만사 순성. 64년생 노력에 대한 보람 있을 듯. 76년생 새장 벗어난 새가 창공 나는구나. 88년생 서둘러 가는 길 넘어지기 마련. 00년생 억지로 만들려고 마라.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani06.gif"&gt;	&amp;nbsp;	 29년생 간절하기만 하면 꿈은 현실 된다. 41년생 금은보화가 건강만큼 귀할까. 53년생 할 수 있으면 지렛대 이용하도록. 65년생 행복은 평범한 일상 속에 있다. 77년생 성과와 결과가 좋아지는 시기. 89년생 인정받기 위해 최선을 다하도록. 01년생 쓸데없는 일에 시간 낭비 마라.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani07.gif"&gt;	&amp;nbsp;	 30년생 이해와 수용의 자세 견지하라. 42년생 뜻밖에 걱정 근심은 무난히 해결. 54년생 쳐다만 봐서는 정상 밟을 수 없다. 66년생 윗사람과의 갈등으로 답답. 78년생 백옥에도 티는 있는 법. 90년생 거래와 매매가 이뤄지는 시기. 02년생 주변 사람과의 사소한 언쟁을 삼가도록.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani08.gif"&gt;	&amp;nbsp;	 31년생 말 한마디에 공든 탑 무너질 수도. 43년생 순조롭게 진행돼 간다. 55년생 혈압과 심장 질환 있다면 사전에 주의. 67년생 타인에게 속내를 보이지 마라. 79년생 금전 대출은 이롭지 않다. 91년생 세상에 쓸모 없는 것은 없다. 03년생 송충이가 갈잎을 먹으면 떨어진다.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani09.gif"&gt;	&amp;nbsp;	 32년생 행동보다 말 앞서면 손해. 44년생 끈기 없으면 독기라도 품어야. 56년생 함께하려거든 의심 말아야. 68년생 아니 땐 굴뚝에 연기 날까. 80년생 두통이나 신경성 질환 주의. 92년생 생각했던 방향대로 일은 풀릴 듯. 04년생 언짢아도 별 수 있나 참고 가야지.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani10.gif"&gt;	&amp;nbsp;	 33년생 지키고 버티는 게 상책. 45년생 외출 이롭지 않으니 집 안 머물도록. 57년생 바깥일을 집 안에 갖고 오지 마라. 69년생 내부 사정을 남에게 말하지 마라. 81년생 천 마디 말보다 한 번 실천이 필요. 93년생 머리로는 계산 불가니 가슴으로 느껴라.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani11.gif"&gt;	&amp;nbsp;	 34년생 주관과 고집 필요한 시기. 46년생 한쪽 말만 들어선 송사 못 한다 했다. 58년생 원활한 진전 예상한 일이 꼬여만 가는구나. 70년생 침소봉대로 일 키우지 마라. 82년생 매매나 계약 관련이면 적극 추진하도록. 94년생 일거리 늘고 능률은 줄고.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani12.gif"&gt;	&amp;nbsp;	 35년생 꼭 필요치 않다면 버리거나 기부. 47년생 아랫사람 조언 따르면 무난. 59년생 귀인 도움으로 난관은 무난히 극복. 71년생 자기 처지와 능력을 객관적 평가해보도록. 83년생 자성과 반성 시간 필요한 시점. 95년생 너무 강하면 부러지거나 뽑히거나.	&lt;br&gt;
+&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;한소평 금오산방 강주  &lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;			&lt;/p&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/4MTFRYWHBJA7XOKKF7G7JPLX5U.png?width=800&amp;height=420&amp;auth=4651b5b20b5d4901424204d1456faee02e4b064ff509db23945deabf4404c8ef&amp;smart=true" type="image/png" height="420" width="800"/>
+    </item>
+    <item>
+      <title>‘군 복무 청년’ 기후동행카드 할인, 42세까지 연장</title>
+      <link>https://www.chosun.com/national/national_general/2024/12/22/FU3B7XBCI5HX5D2A4PA3YV3YV4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/22/FU3B7XBCI5HX5D2A4PA3YV3YV4/</guid>
+      <dc:creator>박진성 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 22 Dec 2024 07:57:41 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UFGJPXCHPFPKNK4O6P2VHCZJNI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;16일 서울 중구 지하철1호선 시청역에 기후동행카드 홍보 포스터가 붙어 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;내년 1월 3일부터 군대에 다녀온 서울 청년들은 기후동행카드 할인을 받을 수 있는 기간이 최장 3년 늘어난다.&lt;br&gt;&lt;br&gt;서울시는 이 같은 내용의 ‘서울특별시 청년기본 조례’ 개정안이 서울시의회를 통과함에 따라 내년 1월 3일부터 적용한다고 22일 밝혔다.&lt;br&gt;&lt;br&gt;기후동행카드 청년 할인은 원래 19∼39세에 적용된다. 해당 나이대 청년들은 30일권 기후동행카드를 7000원 할인된 5만5000원(따릉이 포함 시 5만8000원)에 이용할 수 있다.&lt;br&gt;&lt;br&gt;앞으로는 군 복무기간에 따라 길게는 42세까지 할인 혜택을 받는다.&lt;br&gt;&lt;br&gt;2년 이상 복무한 경우는 42세까지, 1년 이상 2년 미만은 41세, 1년 미만 복무한 경우는 40세까지 연장할 수 있다.&lt;br&gt;&lt;br&gt;청년할인 연장을 원하는 사람은 23일부터 이메일(helper@tmoneycsp.co.kr)로 신청하면 된다.&lt;br&gt;&lt;br&gt;서울시는 내년 3월부터는 티머니 앱과 홈페이지를 통해 신청할 수 있도록 변경할 계획이다.&lt;br&gt;&lt;br&gt;한편, 시는 서울청년 예비인턴, 미래 청년 일자리 등에 참여할 수 있는 기간도 의무복무 기간만큼 늘려주기로 했다.&lt;br&gt;&lt;br&gt;윤종장 서울시 교통실장은 “군 복무로 지원 혜택을 받지 못했던 제대군인들에게 공정한 기회를 제공하기 위한 것”이라고 말했다.&lt;br&gt;&lt;br&gt;기후동행카드는 월 6만2000원(청년은 5만5000원)에 서울 지하철과 버스를 무제한 이용할 수 있는 대중교통 이용권이다. 올 1월 출시한 이후 지난달까지 500만장 판매됐다. 평일 하루 이용자는 60만명 수준이다. 서울대공원, 서울식물원 등 입장료도 할인받을 수 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘도도맘 무고 종용’ 강용석, 집행유예 확정…4년간 변호사 못해</title>
+      <link>https://www.chosun.com/national/national_general/2024/12/22/AUUVQK4HT5FERC5LSEMZGBB5DA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/22/AUUVQK4HT5FERC5LSEMZGBB5DA/</guid>
+      <dc:creator>김명진 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 22 Dec 2024 06:29:19 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EOU6MYF7B64WN37OQ2IJ647X7M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;블로거 ‘도도맘’으로 알려진 김미나(왼쪽)씨와 강용석 변호사. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;블로거 ‘도도맘’으로 알려진 김미나씨에게 허위 고소를 종용해 무고 교사(敎唆) 혐의로 기소된 강용석 변호사에게 징역형의 집행유예가 확정됐다.&lt;br&gt;&lt;br&gt;22일 법조계에 따르면 대법원 2부는 지난 6일 강씨의 상고에 대해 상고기각 결정하고, 징역 6개월에 집행유예 2년을 선고한 원심판결을 확정했다.&lt;br&gt;&lt;br&gt;강씨는 과거 김씨가 증권사 임원 A씨를 상대로 강제추행 혐의 등으로 고소하도록 부추겼다는 혐의로 2021년 6월 불구속기소 됐다. 김씨는 2015년 A씨와 술을 마시다 말다툼 끝에 폭행을 당해 전치 2주 진단서를 발급받았는데, 이후 강씨가 김씨에게 ‘강간치상 혐의까지 더해 피해를 주장하자’고 종용했다는 것이다.&lt;br&gt;&lt;br&gt;2020년 2월 온라인 연예매체 ‘디스패치’가 강씨와 김씨 사이 오간 대화 메시지를 공개하며 이 같은 의혹이 불거졌다. 그러나 김씨는 이후 법정에서 강씨가 합의금을 목적으로 허위 고소를 종용했고, A씨에게 성폭행이나 강제추행을 당한 적이 없다고 증언했다.&lt;br&gt;&lt;br&gt;1심은 “피고인은 변호사로서 높은 수준의 도덕성과 윤리의식이 요구됨에도 합의금을 받아내기 위해 김씨에게 무고를 교사해 죄질이 좋지 않다”며 징역 6개월에 집행유예 2년을 선고했다. 항소심도 원심판결을 유지했다. 항소심 재판장은 선고 내용을 읽은 뒤 강씨에게 “피고인은 지식·경험·견문이 저희들보다 많을 것으로 보인다. 딱히 드릴 말씀이 없습니다만 계속 오점을 남기시면 좋지 않을 것 같다. 잘 생각해 보시길 바란다”라고 말하기도 했다.&lt;br&gt;&lt;br&gt;강씨는 앞으로 4년간 변호사 활동이 금지된다. 변호사법은 변호사가 금고형 이상의 형을 선고받을 경우, 집행유예 기간과 그 기간이 종료된 때부터 2년간 변호사 활동을 할 수 없도록 규정하고 있다. &lt;br&gt;&lt;br&gt;한편 강씨는 조국 전 조국혁신당 대표와 관련해 금융회사와의 정경유착 의혹을 제기한 혐의로 별도 기소돼 2심에서 벌금형을 받은 사건에서도 상고기각 결정을 받았다.&lt;br&gt;&lt;br&gt;대법원 3부는 지난 20일 정보통신망법상 명예훼손 혐의로 기소된 강씨에게 벌금 500만원을 선고한 원심판결을 확정했다.&lt;br&gt;&lt;br&gt;강씨는 2019년 자신의 유튜브 채널에서 조 전 대표 부부의 자산관리인인 한국투자증권 프라이빗뱅커(PB) 김경록씨가 한투증권 사주 일가의 친인척이라며 정경유착 의혹을 제기했다. 이에 한투증권 측은 “김씨는 오너가와 무관한 사이”라며 강씨를 고소했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>2조원 규모 불법 도박사이트 운영책 필리핀에서 체포 </title>
+      <link>https://www.chosun.com/national/court_law/2024/12/22/JHPOVG27MREMJKLK6JR3RACRQM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/22/JHPOVG27MREMJKLK6JR3RACRQM/</guid>
+      <dc:creator>유희곤 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 22 Dec 2024 06:06:39 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/M4IUEDCYSZF2VG2EWZSDGKMCYU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;검찰이 필리핀 현지에서 압수한 불법 도박사이트 도피사범의 부가티. /대검찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대검찰청 마약·조직범죄부(부장 노만석 검사장)는 필리핀 국가수사청(NBI), 이민청(BI)과 공조수사해 2조원 규모의 불법 도박사이트를 운영하며 호화 생활을 한 조직 총책을 검거했다고 22일 밝혔다.&lt;br&gt;&lt;br&gt;검찰에 따르면 A(35)씨는 2014년 12월부터 작년 3월까지 도박사이트 23개를 운영하며 2조원을 송금받고 범죄수익 2000억원을 은닉한 혐의(국민체육진흥법 및 범죄수익은닉법 위반)를 받는다. A씨는 도박사이트 수익금으로 부가티, 페라리 등 수퍼카와 스위스 최고급 시계 ‘리차드 밀’ 등을 구입한 것으로 조사됐다. A씨는 2019년 5월 필리핀으로 출국한 후 이듬해 2월 베네수엘라 국적을 취득했다.&lt;br&gt;&lt;br&gt;사건을 수사한 부산지검은 지난 1일 A씨와 관련된 여성이 필리핀으로 갔다는 정보를 현지에 파견된 수사관에게 전달했고, 파견 수사관은 해당 숙소를 확인해 지난 3일 필리핀 세부에서 A씨를 검거했다. A씨가 도망간 지 5년 6개월여 만이었다. A씨는 비쿠탄 외국인수용소(BDC)에 수감됐고, 검찰은 범죄인인도 절차를 진행하고 있다.&lt;br&gt;&lt;br&gt;필리핀 파견 검찰 수사관은 지난 9월 보이스피싱 범죄조직원도 검거했다. B(46)씨는 작년 2월 조직원들로부터 사기 피해금을 받아 필리핀 앙헬레스에서 페소(필리핀 통화)로 환전한 뒤 전달한 혐의(통신사기피해환급법 위반)를 받고 있다. 파견 수사관은 현지에서 관련 첩보를 수집해 국내 보이스피싱 합동수사단이 지난 3월 입건‧수배하도록 한 후, 4월부터 탐문과 추적에 나서 B씨를 붙잡았다.&lt;br&gt;&lt;br&gt;시가 4800만원 상당의 필로폰 480.85g(약 1만6030명 투약분)을 건망고 형태로 국내에 밀수입하도록 한 C(23)씨도 파견 수사관이 필리핀 마닐라에서 지난 9월 검거했다.&lt;br&gt;&lt;br&gt;대검은 2016년 3월 NBI와 업무협약을 체결하고, 2022년 6월부터 필리핀에 검찰수사관 2명을 파견하고 있다. 현지 검거 인원은 2022년 1명에서 작년 4명, 올해 15명으로 증가세를 나타냈다. 필리핀을 포함한 해외로 도피한 자유형 미집행자는 지난 9월 기준 1074명이다.&lt;br&gt;&lt;br&gt;검찰 관계자는 “국제공조 시스템을 더 확고히 정립‧운용해 해외에 거점을 둔 조직 범죄를 차단하고, 국가형벌권이 도피 사범에게도 미칠 수 있도록 노력하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“예약된 비행기표가 없습니다”…日 가려던 케이윌, 공항서 막힌 이유</title>
+      <link>https://www.chosun.com/national/national_general/2024/12/22/5ZL74LGKQ5AKJLBW54VLGA7CVM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/22/5ZL74LGKQ5AKJLBW54VLGA7CVM/</guid>
+      <dc:creator>김자아 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 22 Dec 2024 05:56:35 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AATNJK3WNBARTLRRGRPRKJGJU4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;공항에서 항공사 직원의 안내를 받고 있는 가수 케이윌./유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;가수 케이윌이 여행 플랫폼을 통해 구매한 항공권으로 일본 여행을 가려다 인천공항 항공사 체크인 카운터에서 예약 내역이 확인되지 않아 피해를 입은 사연이 전해졌다. 항공사가 여행 플랫폼으로부터 예약 내역을 전달받지 못한 것인데, 소비자인 케이윌이 피해를 고스란히 감당해 온라인상 공분을 사고 있다.&lt;br&gt;&lt;br&gt;케이윌은 지난 19일 자신의 유튜브 채널에 ‘일본 여행 당일 비행기 노쇼 상태 글로벌 여행사와 담판 지었다’는 제목의 영상을 올렸다.&lt;br&gt;&lt;br&gt;영상에서 케이윌은 “거짓말 같은 일이 벌어졌다. 여행 플랫폼에서 비행기표 결제를 했지만 항공사로 결제 내역이 안 넘어가서 비행기표 발권이 안됐다”며 “이미 비행기는 만석이라고 한다”고 했다.&lt;br&gt;&lt;br&gt;인천공항 체크인 카운터를 방문한 케이윌은 항공사 직원으로부터 “여행사에서 발권하면 (항공사로) 안 넘어오는 경우가 많다”는 이야기를 들었다.&lt;br&gt;&lt;br&gt;직원은 “일단 여기서 항공권을 결제하고 추후에 (여행플랫폼을 통해) 환불을 받아야 한다”며 “돌아오는 티켓은 현지에서 확인해야 한다. 편도로만 결제를 도와드릴 수 있다”고 안내했다. 다만 비행기가 만석인 상황이라 탑승하지 않는 노쇼 승객이 나올 경우만 재결제를 통해 티켓을 발권할 수 있었다.&lt;br&gt;&lt;br&gt;다행히 노쇼가 나와 티켓을 구매했지만 오사카까지 편도 항공권을 비싼 금액에 결제해야 했다. 케이윌은 “남은 자리가 생겨 편도 구매로 발권을 했다. 편도만 60만원이다. (여행 플랫폼에서 구매한) 왕복 비행기 값 만큼 발생했다”고 말했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NLXWKDHPSZHMDP2PFPFDJOLTQU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;여행플랫폼 직원과 통화 중인 가수 케이윌./유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;우여곡절 끝에 오사카에 도착한 케이윌은 다음날 오전 여행플랫폼과 전화로 현 상황에 대해 다퉜다. 5시간가량 통화를 했지만 만족스러운 답은 얻지 못했다.&lt;br&gt;&lt;br&gt;여행플랫폼 측 입장은 “전산 문제로 항공사에 예약 확정이 안 될 수 있다”는 것이었다. 그러면서 “회사 규정상 100% 환불은 어렵다”고 알렸다.&lt;br&gt;&lt;br&gt;케이윌은 “(구매 내역이) 실수로 전달이 안될 수 있다는 우려를 감수하고 누가 티켓을 구매하느냐. 확정 문자와 메일도 왔다. 티켓 무조건 구할 수 있다는 확답의 이미지를 심어 놓고 100% 환불은 못 해 드릴 수 있다는 확답은 왜 못하나”고 물었다.&lt;br&gt;&lt;br&gt;직원은 “중간에 발권 대행을 하는 업체가 있어 그쪽에서 최종적으로 항공사 시스템 환불 처리가 되어야 가능하다. 환불 총 금액은 확인 중이라 전액 환불에 대한 확답은 어렵다. 양해 부탁드린다”고 했다.&lt;br&gt;&lt;br&gt;케이윌이 답답함을 토로했지만 직원은 “정확한 금액이 규정에 명시되지 않아서 총환불 금액을 사전에 고지하기 어렵다. (대행 업체에서) 회신받는 대로 연락을 드리겠다”고 말했다.&lt;br&gt;&lt;br&gt;전화를 끊은 케이윌은 “이분이 잘못한 건 없지만 어이가 없다”며 “구독자 여러분들도 조심하길 바란다”고 말했다.&lt;br&gt;&lt;br&gt;이 영상은 여러 온라인커뮤니티 등을 통해 공유됐고, 온라인상에서는 비슷한 피해를 겪었다는 네티즌들의 경험담이 잇따라 올라왔다.&lt;br&gt;&lt;br&gt;네티즌들은 “비슷한 경험한 이후에 항공권은 무조건 공식 홈페이지에서만 예약한다” “비행기표는 아니고 호텔에서 이런 적 있어서 여행플랫폼은 절대 사용하지 않는다” “해외여행 하다가 호텔에서 이런 일 겪었다. 항공권은 웬만하면 공식 홈페이지에서 예약하고 호텔은 꼭 직접 확인 메일 보내서 확답 받는다” “여행플랫폼 시스템이랑 항공사 시스템이 실시간 연동되는 게 아니라 종종 여행플랫폼에서 결제한 항공권 좌석이 매진되면 발권 안 되는 경우가 있더라” 등의 댓글을 남겼다.&lt;br&gt;&lt;br&gt;글로벌 여행플랫폼을 통해 항공권이나 호텔을 예약하는 소비자들이 늘면서 이용자 피해도 증가하고 있는 것으로 나타났다.&lt;br&gt;&lt;br&gt;국회 정무위원회 소속 유동수 더불어민주당 의원이 한국소비자원으로부터 제출받은 자료에 따르면 2021년부터 올해 8월까지 총 2110 건의 글로벌 OTA 관련 피해구제 신청이 접수돼 처리된 것으로 확인됐다.&lt;br&gt;&lt;br&gt;피해 유형별로는 소비자가 예약을 취소하거나 변경할 때 과도한 위약금을 부과하는 계약·해제 위약금 문제로 인한 피해가 1073건(50.9%)으로 가장 많았고, 청약 철회 관련 피해는 412건(19.5%), 계약 불이행 사례는 300건(14.2%), 부당한 행위로 인한 피해는 109건(5.2%)이었다. 이중 환불처리된 건은 1083건으로 절반 수준에 불과했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>다시 찾아온 동장군...내일 영하12도 맹추위</title>
+      <link>https://www.chosun.com/national/transport-environment/2024/12/22/B4OZB4KAFFDNLLHGKTHNOZTLH4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2024/12/22/B4OZB4KAFFDNLLHGKTHNOZTLH4/</guid>
+      <dc:creator>박상현 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 22 Dec 2024 05:47:40 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JCMBUNERHRJBPIUMTQCJBQ23PA.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;한파가 찾아온 22일 서울 광화문광장에서 두터운 옷을 입은 시민들이 발걸음을 재촉하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;다음주 전국의 출근길 수은주가 영하 10도 내외로 뚝 떨어지면서 동장군이 기세를 떨칠 것으로 전망됐다. 찬 바람까지 강하게 불면서 ‘체감 한파(寒波)’는 더 심할 것으로 예상됐다.&lt;br&gt;&lt;br&gt;기상청에 따르면, 중국 쪽 대륙고기압의 확장으로 중부내륙을 중심으로 이번 주말까지 최저기온이 영하 10도를 밑돌 것으로 보인다. 한반도 상공 5㎞로 영하 20도의 한랭건조한 바람이 들어오면서 평년보다 추울 것으로 전망됐다.&lt;br&gt;&lt;br&gt;서울의 최저기온이 영하 6도까지 떨어지겠고, 체감기온은 영하 10도까지 내려가는 등 23일 기온은 최저 영하 12도에서 0도, 최고 2~10도의 분포를 보일 것으로 예보됐다. 이런 날씨가 주말까지 이어져 한주 내내 최저기온이 영하 10~11도 정도로 춥겠다. 바람의 영향으로 체감기온은 이보다 3~4도가량 더 낮을 것으로 보인다.&lt;br&gt;&lt;br&gt;22일 강원도 전 지역과 경기·충청 일부 지역에 발효된 한파특보는 23일 중부내륙을 중심으로 확대될 것으로 예상된다. 강원 철원·양구와 경기 연천에는 한파경보가 발효됐고, 나머지 강원 지역과 경기 북부·동부 일부 지역에는 한파주의보가 각각 내려졌다. 한파경보와 주의보는 각각 영하 15도, 영하 12도 이하의 최저기온이 이틀 이상 지속될 것으로 예상될 때 발령된다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>‘박사방 추적’ 디지털 장의사, 돈 받고 개인정보 캐다 벌금형</title>
       <link>https://www.chosun.com/national/incident/2024/12/22/ACVXBEH745E3BCAEKRQFWV6DU4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/12/22/ACVXBEH745E3BCAEKRQFWV6DU4/</guid>
@@ -725,37 +810,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VDZIEJTKE63QO375J37JOA3HAQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원 관련 이미지. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;음주운전 장면을 목격한 뒤 여성 운전자에게 성관계를 요구한 30대 남성이 징역형의 집행유예를 선고받았다.&lt;br&gt;&lt;br&gt;20일 춘천지법 형사3단독 박성민 부장판사는 공갈미수 혐의로 기소된 30대 남성 A씨에게 징역 1년에 집행유예 2년을 선고하고 사회봉사 160시간을 명령했다고 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 3월 늦은 밤 강원도 춘천시의 한 아파트 지하 주차장 입구에서 대리기사가 하차한 후 40대 여성 B씨가 운전대를 잡고 주차하는 모습을 목격했다.&lt;br&gt;&lt;br&gt;이를 본 A씨는 B씨에게 접근해 자신과 성관계를 해주지 않으면 음주운전으로 신고하겠다고 협박했다. 성관계를 하지 않을 거면 1000만원을 달라고 요구하기도 했다.&lt;br&gt;&lt;br&gt;A씨는 재판과정에서 공갈의 고의가 없었다는 취지로 주장했으나 재판부는 B씨가 피해 사실을 일관되게 진술하는 점, A씨가 B씨에게 1000만원을 달라는 말을 한 사실 자체는 인정하는 점 등을 근거로 유죄로 판단했다.&lt;br&gt;&lt;br&gt;박 부장판사는 “범행 경위에 비추어 죄질이 매우 좋지 않고 이해할 수 없는 변명으로 일관하면서 잘못을 전혀 반성하고 있지 않다”며 “피해자와 합의되지 않은 점 등을 종합해 판단했다”고 양형 이유를 설명했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>법원 “화물연대 업무개시명령 내린 法 조항, 위헌성 따져봐야”</title>
-      <link>https://www.chosun.com/national/court_law/2024/12/20/2TJ2PV5OOVD4TNH5QU4GDEDULI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/20/2TJ2PV5OOVD4TNH5QU4GDEDULI/</guid>
-      <dc:creator>방극렬 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 20 Dec 2024 09:00:08 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FSIRRYBQQJK5DJ2RVIMTZA7P7A.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;지난 2022년 12월 8일 국토교통부 관계자가 경북 포항시의 철강 공단에 멈춰서 있는 화물연대 소속 차량에 업무개시명령서와 불법주차단속을 알리는 스티커를 부착하고 있다. 윤석열 정부는 이날 화물연대 파업과 관련해 시멘트에 이어 철강·석유화학 등 분야에 추가 업무개시명령을 내렸다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정부가 지난 2022년 화물연대 총파업과 관련해 내린 ‘업무개시명령’의 근거 법조항에 대해 법원이 위헌 여부를 따져봐야 한다고 판단했다. 이에 따라 헌법재판소는 위헌법률심판을 열고 화물자동차 운수사업법(화물자동차법)의 업무개시명령 조항이 위헌인지 아닌지 결정할 전망이다.&lt;br&gt;&lt;br&gt;서울행정법원 행정6부(재판장 나진이)는 화물연대 조합원이 국토교통부 장관을 상대로 낸 업무개시명령 처분 취소 소송에서 20일 원고 측의 위헌법률심판 제청 신청 일부를 받아들이겠다고 결정했다. 재판부는 “화물자동차법 14조 1항과 4항이 정한 업무개시명령과 관련해 헌재의 심판을 받아볼 필요가 있다”고 밝혔다. 이에 따라 이날 예정돼있던 선고 기일은 심판 결과가 나올 때까지 연기됐다.&lt;br&gt;&lt;br&gt;화물자동차법 14조가 규정하는 업무개시명령은 운송 사업자나 운수 종사자가 정당한 사유 없이 집단으로 화물 운송을 거부해 국가 경제에 매우 심각한 위기를 불러오거나 초래할 우려가 있다고 인정할 만한 상당한 이유가 있을 때 국토교통부 장관이 업무에 복귀하도록 내리는 명령이다. 정당한 사유가 없으면 운수 종사자 등이 이 명령을 거부할 수 없다는 내용도 들어 있다.&lt;br&gt;&lt;br&gt;정부는 지난 2022년 11월 화물연대가 안전운임제(적정 운임 보장제) 영구 시행 등을 요구하며 총파업에 들어가자, 이 조항을 근거로 업무개시명령을 발동했다. 화물 운송 거부자들에게 우편(등기)이나 휴대전화 문자로 업무개시명령서를 보내 복귀하라고 한 것이다.&lt;br&gt;&lt;br&gt;정당한 이유 없이 업무 복귀를 거부하면 3년 이하 징역이나 3000만원 이하 벌금 등 형사처벌을 받을 수 있고, 화물 운송 사업자 면허가 30일 동안 정지(1차 처분) 또는 취소(2차 처분)될 수 있다. 정부는 명령에 불응한 기사를 경찰에 고발하고 운행 정지 등을 요청하기도 했다.&lt;br&gt;&lt;br&gt;이에 화물연대는 그해 12월 조합원 1명의 명의로 업무개시명령 취소 소송을 냈다. 이어 “화물자동차법 14조 등은 헌법이 보장한 화물노동자의 노동 기본권 등을 심각하게 침해한다”며 위헌법률심판 제청 신청도 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TSHM4YDFOFMDLEIZC5BIT4SCJA.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;지난 2022년 12월 19일 이봉주 화물연대본부 위원장이 서울 서초구 서울행정법원 앞에서 열린 화물노동자 업무개시명령 위헌법률심판 제청 신청 기자회견에서 생각에 잠겨 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2년여 간 이 사건을 심리하던 법원은 업무개시명령 조항의 위헌성을 따져보기로 했다. 단, 명령에 불응한 경우 처벌하는 조항에 대한 위헌법률심판 제청 신청은 각하했다. 헌재가 위헌성 여부를 판단한 후에야 재판은 재개될 전망이다.&lt;br&gt;&lt;br&gt;화물연대는 이날 성명을 내고 “업무개시명령은 노동권과 평등권 등을 침해하는 것”이라며 “재판부의 결정을 환영한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘마약 투약·협박’ 오재원, 2심서도 징역 2년 6개월</title>
-      <link>https://www.chosun.com/national/court_law/2024/12/20/RLKM6GPI2ZHLTDEKWVRY2UE3VU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/20/RLKM6GPI2ZHLTDEKWVRY2UE3VU/</guid>
-      <dc:creator>박강현 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 20 Dec 2024 08:47:35 +0000</pubDate>
-      <content:encoded>수차례 마약을 투약하고 이를 은폐하기 위해 자신을 신고하려는 지인을 협박한 혐의 등으로 구속 기소된 야구 국가대표 출신 오재원(39)씨가 2심에서도 실형을 선고 받았다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ME3D2NZRCIWIDMV2HHDJUFMHVY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;마약 투약 혐의 등을 받는 오재원씨. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;20일 서울고법 형사7부(재판장 이재권)는 마약류관리법 위반 및 보복협박 등 혐의로 기소된 오씨에게 징역 2년 6개월을 선고했다. 양측의 항소를 모두 기각하고 원심 판단을 유지했다.&lt;br&gt;&lt;br&gt;오씨는 2심 선고를 앞두고 50여 차례 반성문 및 약을 끊었다는 단약일지 등을 제출한 것으로 나타났지만, 형량과 관련해 재판부의 판단은 바뀌지 않았다.&lt;br&gt;&lt;br&gt;오씨는 지난 2022년 11월부터 지인 하모씨와 함께 약 1년간 총 11회에 걸쳐 필로폰을 투약하고 작년 4월 아파트 복도 소화전에 필로폰 약 0.4g을 보관한 혐의로 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;이 과정에서 자신의 필로폰 투약 신고를 막기 위해 망치로 하씨의 휴대전화를 부수고 그를 협박하며 멱살을 잡는 등 혐의도 있다.&lt;br&gt;&lt;br&gt;또 작년 1월부터 올해 3월까지 지인 9명으로부터 89차례에 걸쳐 수면제인 스틸녹스정 2242정을 수수하고, 다른 지인 명의를 도용해 스틸녹스정을 산 혐의도 받는다.&lt;br&gt;&lt;br&gt;오씨는 이외에도 지난 10월 필로폰 수수 혐의로 1심에서 징역 4개월에 집행유예 2년을 추가 선고 받고 항소한 상태다. 또 지난 12일에는 어린 후배 등을 동원해 수면제 대리 처방을 받은 혐의로 1심에서 징역 1년 6개월이 추가됐다.&lt;br&gt;&lt;br&gt;오씨는 2022년 은퇴할 때까지 16시즌을 프로야구 두산 베어스에서만 뛰며 총 3번(2015, 2016, 2019년) 한국시리즈 우승 트로피를 들어 올렸다. 2014년 인천 아시안게임 등에 태극마크를 달고 출전하기도 했다. 은퇴 이후엔 해설위원 등으로 활동했다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>치과치료 불만 품고 폭발물로 불 지르려한 70대, 징역 2년</title>
-      <link>https://www.chosun.com/national/regional/honam/2024/12/20/7RY35QEY3RB5TE5RNBRPHNTIQY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/honam/2024/12/20/7RY35QEY3RB5TE5RNBRPHNTIQY/</guid>
-      <dc:creator>광주광역시=조홍복 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 20 Dec 2024 08:40:16 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YPBI2RRXC2FTQ26TLQTVJ7TCQI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;광주 상무지구 한 치과에 폭발물을 투척한 70대 남성./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;치과 치료에 불만을 품고 해당 병원에 사제 폭발물을 터뜨려 불을 지르려 한 70대가 징역 2년을 선고받았다.&lt;br&gt;&lt;br&gt;광주지법 형사12부(재판장 박재성)는 20일 현주건조물 방화미수와 폭발성 물건파열 혐의로 구속 기소된 김모(79)씨에게 징역 2년을 선고했다.&lt;br&gt;&lt;br&gt;재판부는 “피고인의 범행 당시 피해 건물에는 130명가량이 머물고 있었고 유동 인구도 많아 피해가 확대될 우려가 컸다”며 “특히 폭발성 물건을 직접 제작해 범행을 저질러 실형 선고가 불가피하다”고 밝혔다.&lt;br&gt;&lt;br&gt;김씨는 지난 8월 22일 오후 1시 14분쯤 광주 서구 치평동 한 치과병원에서 부탄가스와 인화물질이 담긴 상자에 불을 붙여 터뜨린 혐의를 받고 있다. 인명피해는 발생하지 않았지만, 폭발과 함께 이어진 화재로 병원 내부 10㎡가 훼손되는 등 소방서 추산 141만원 상당의 재산 피해가 났다.&lt;br&gt;&lt;br&gt;김씨는 지난달 중순부터 다섯 차례 보철치료(크라운)를 받아오다 통증을 호소하며 항의하는 등 치과에 불만을 품고 범행을 저지른 것으로 조사됐다. 김씨는 주거지 인근에서 산 부탄가스와 인화물질을 묶은 폭발물을 직접 제작해 범행을 저지르고 도주했다가 2시간여 만에 자수했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/YPBI2RRXC2FTQ26TLQTVJ7TCQI.jpg?width=3059&amp;height=1894&amp;auth=dd6e3240ae540ce8bcb9eb2ff552924cff69527334e563ef2be1ab3ae69d6eed&amp;smart=true" type="image/jpeg" height="1894" width="3059">
-        <media:description type="plain">광주 상무지구 한 치과에 폭발물을 투척한 70대 남성이 23일 광주 서부경찰서 진술실에 들어가고 있다. 2024.8.23/뉴스1 ⓒ News1 이수민 기자</media:description>
-        <media:credit role="author" scheme="urn:ebu">뉴스1 ⓒ News1 이수민 기자</media:credit>
-      </media:content>
-    </item>
-    <item>
       <title>정의선 양궁협회장 6연임 확정…만장일치 찬성</title>
       <link>https://www.chosun.com/national/national_general/2024/12/20/ZEJ3B7HT4VGWZNGHAJISPUPFQE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/20/ZEJ3B7HT4VGWZNGHAJISPUPFQE/</guid>
@@ -763,15 +817,6 @@
       <description/>
       <pubDate>Fri, 20 Dec 2024 08:08:10 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BGMLESEWGZJA3BA7S57TI7BJ3U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;현대차그룹은 정의선 회장이 제14대 대한양궁협회 회장에 선임됐다고 20일 밝혔다. 사진은 정의선 회장이 2024 파리올림픽에서 여자 단체전 금메달을 따낸 대표팀과 함께 프랑스 파리 앵발리드에서 기념 촬영을 하고 있는 모습. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정의선 현대차그룹 회장(54)이 제14대 대한양궁협회 회장에 당선돼 4년 더 한국 양궁을 이끈다. 정 회장은 이로써 양궁협회장직을 6연임 하게 됐다.&lt;br&gt;&lt;br&gt;대한양궁협회는 20일 “제14대 회장 선거에 단독 출마한 정의선 회장이 만장일치로 추대됐다”며 선거운영위원회의 후보자 결격 사유 심사를 거쳐 최종 당선인으로 공고했다.&lt;br&gt;&lt;br&gt;대한체육회 규정에 따르면 회원종목단체 임원은 한 차례 연임이 가능하지만, 종목 발전에 대한 기여도가 명확한 경우 추가 연임할 수 있다.&lt;br&gt;&lt;br&gt;정 회장은 지난 2005년 5월 제9대 대한양궁협회 회장으로 부임했다. 14대 회장 임기는 2029년까지다.&lt;br&gt;&lt;br&gt;정 회장은 한국 양궁을 세계 최고 수준으로 올려놓는데 큰 역할을 했다는 평가를 받는다. 지난 7월 프랑스 파리 올림픽에서는 여자 양궁 대표팀이 단체전 10연패 기록을 세우기도 했다.&lt;br&gt;&lt;br&gt;현대차그룹은 올해로 40년째 한국 양궁을 후원하고 있다. 국내에서 기업이 단일 종목 스포츠협회를 후원한 사례 중 최장 기간이다.&lt;br&gt;&lt;br&gt;현대차그룹은 올림픽을 앞두고 파리대회 양궁경기장인 앵발리드 경기장과 똑같은 시설을 진천선수촌에 지었다. 경기장의 특성을 몸에 익히며 연습을 하기 위해서였다. 파리에서는 앵발리드 경기장에서 10여 km 떨어진 곳의 스포츠클럽을 통째로 빌려 양궁 국가대표팀만을 위한 전용 연습장을 마련했다. 그 덕분에 체계적인 훈련을 하고, 시차도 빠르게 적응할 수 있었다고 한다.&lt;br&gt;&lt;br&gt;한편 정 회장은 2005년 11월 제8대 아시아 양궁연맹(World Archery Asia) 회장으로 부임해 5선 연임 중이며 현대자동차그룹은 세계양궁연맹(World Archery Federation)의 최대 후원사로 스포츠 외교에도 앞장서고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘반도체 핵심 인력 중국 이직 알선’ 삼성전자 전 임원 구속 기소 </title>
-      <link>https://www.chosun.com/national/court_law/2024/12/20/X7PV5V56INF4LIEPXGIJZLDV3M/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/20/X7PV5V56INF4LIEPXGIJZLDV3M/</guid>
-      <dc:creator>유희곤 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 20 Dec 2024 08:10:38 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XP62V4T76LWNQ4HCMCTLV5KL6Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;삼성전자의 중국 시안 반도체 공장 전경./삼성전자 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국내 반도체 관련 핵심 인력이 중국 반도체 회사로 이직할 수 있도록 알선해주는 대가로 3억원을 받은 전 삼성전자 임원이 구속 기소됐다.&lt;br&gt;&lt;br&gt;서울중앙지검 정보기술범죄수사부(부장 안동건)는 20일 무등록 국외직업소개업체 대표 최모씨를 직업안정법 위반과 범죄수익은닉규제법 위반 혐의로 구속 기소했다고 밝혔다.&lt;br&gt;&lt;br&gt;앞서 검찰은 삼성전자 임원과 하이닉스반도체(현 SK하이닉스) 부사장을 지낸 최모 중국 청두가오전(CHJS) 대표를 산업기술보호법과 부정경쟁방지법 위반 등의 혐의로 지난 9월 구속 기소했다. 최 대표는 중국에 반도체 회사 ‘진세미’를 설립한 뒤, 청두시에서 약 4600억원을 투자받아 2020년 9월 합작회사 CHJS를 설립했다. 그는 삼성전자의 독자 기술인 20나노급(18나노·20나노) D램 반도체 생산에 필요한 온도, 압력 등 700여 단계 공정 핵심 정보를 중국으로 빼돌려 무단으로 사용한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;최씨는 진세미의 한국사무소 소속 고문으로 근무하면서 최 대표의 요청을 받아 삼성전자 출신 기술인력이 진세미 중국 본사로 이직하도록 알선하고, 그 대가로 이직자 연봉의 20%를 지급받은 것으로 조사됐다.&lt;br&gt;&lt;br&gt;검찰은 이번달 초 최씨 사건을 경찰에서 송치받아 최씨와 최 대표가 공모해 위장업체를 통해 알선 소개료를 받고 허위 전자세금계산서를 발급받은 사실을 확인했다고 설명했다. 이에 두 사람에게 범죄수익은닉규제법 위반 혐의를 적용하고, 국세청에 고발 의뢰도 했다.&lt;br&gt;&lt;br&gt;최씨는 국내 반도체 핵심 기술인력이 해외로 대거 이직하는 게 문제될까봐 직업 소개 업체 등록을 하지 않은 것으로 조사됐다.&lt;br&gt;&lt;br&gt;이번 사건은 기술유출 목적의 인력 유출 행위에 대해 사전구속영장이 발부된 최초 사례이다. 기술유출 소개·알선·유인 행위를 모두 처벌할 수 있는 산업기술보호법 개정안은 국회에 계류 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>성폭행범 혀 깨물어 징역형...최말자씨 60년만에 재심 길 열렸다</title>
@@ -790,35 +835,6 @@
       <description/>
       <pubDate>Fri, 20 Dec 2024 07:39:45 +0000</pubDate>
       <content:encoded>‘12·3 비상계엄’ 사태를 수사하는 고위공직자범죄수사처(공수처)가 김용현 전 국방장관의 최측근으로 지목된 민간인 양모씨를 소환한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/K4GWDH3HL6LSR6XEYPY6FW37II.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;공수처./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;20일 본지 취재를 종합하면, 공수처는 전날인 19일 양씨를 참고인으로 소환해 계엄 선포 당일 상황과 김 전 장관의 지시 사항 등을 조사했다. 앞서 더불어민주당은 양씨가 윤석열 대통령이 비상계엄을 선포한 지난 3일 김 전 장관을 관저에서 만나고, 그의 휴대전화를 맡아 보관한 최측근이라고 지목한 인물이다.&lt;br&gt;&lt;br&gt;민주당 윤석열내란진상조사단은 전날 국회에서 기자회견을 열고 “3일 새벽 김용현을 관저에서 만난 사람이 있다. 양모씨라는 민간인”이라며 수사가 필요하다고 주장했다. 진상조사단은 “김용현의 비서관 노릇을 하던 양씨는 소대장 시절 전령을 인연으로 경호처장 시절 이전부터 김용현의 공관에서 집사와 같은 역할을 해왔다”며 “중요 인사들에 대한 접객부터 이동 안내 및 수행 업무까지 다양한 임무를 수행했다”고 주장했다.&lt;br&gt;&lt;br&gt;그러면서 “세 사령관(여인형 전 방첩사령관·곽종근 전 특수전사령관·이진우 전 수도방위사령관)과 김용현의 회동 당시 차량을 이용해 사령관들을 데려온 이 역시 양씨로 추정된다”며 “김용현이 검찰에 자수하기 직전 휴대전화 등을 맡긴 인물이기도 한 만큼, 사건에 대한 증거를 인멸할 가능성이 크다”고도 했다.&lt;br&gt;&lt;br&gt;내란 혐의로 검찰에 구속된 김 전 장관은 수사 시작 이후 메신저 앱인 텔레그램을 탈퇴하고 휴대전화를 교체한 것으로 알려져 있다. 검찰은 김 전 장관의 휴대전화 포렌식을 마치고, 선별작업을 진행 중이라고 한다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>21일부터 대구 지하철 1호선 종점은 안심역 너머 ‘하양역’</title>
-      <link>https://www.chosun.com/national/national_general/2024/12/20/DES44BPI5VA5TP6BPIMFUN5VWI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/20/DES44BPI5VA5TP6BPIMFUN5VWI/</guid>
-      <dc:creator>이승규 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 20 Dec 2024 07:07:46 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EOZXZU2S6ZGLXLSKVC2RM6Z3WI.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=조선디자인랩 이민경&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대구 도시철도 1호선의 동부 지역 종점이 안심역에서 하양역으로 바뀔 전망이다. 안심역 개통 이후 26년만이다. 이에 따라 대구와 생활권이 같은 경북 경산 지역으로 이동하는 대학생과 직장인들의 교통 편의성이 높아질 전망이다.&lt;br&gt;&lt;br&gt;20일 경북 경산시 하양역에선 지역 주민 등 500여 명이 참석한 가운데 ‘대구 도시철도 1호선 안심~하양 연장 구간 개통식’이 열렸다. 이 사업은 기존의 1호선 종점이었던 대구 동구 안심역부터 경북 경산시 하양읍에 위치한 하양역까지 8.89km를 잇는 작업으로 총 사업비 3728억원이 투입됐으며, 2019년 4월 착공 이후 5년 8개월만에 준공됐다.&lt;br&gt;&lt;br&gt;안심역 다음으로 대구한의대병원역, 부호역(경일대·호산대), 하양역까지 총 3개 역이 새로 지어졌다. 연장 구간에는 개통식 다음날인 21일부터 지하철이 운행된다. 지하철은 오전 5시부터 자정까지, 출·퇴근 시간에는 10분 간격으로, 평소엔 16분 간격으로 평일 150회 가량 운행된다.&lt;br&gt;&lt;br&gt;연장 구간 신설을 통해 대구와 동일 생활권이었던 경북 경산시로 등·하교를 하거나 출·퇴근하는 대학생과 직장인들의 교통 편의성이 높아질 것으로 보인다.&lt;br&gt;&lt;br&gt;이와 별도로 경북도는 영천경마공원과 산업단지 등의 교통 수요를 감안해 영천시 금호읍까지 도시철도를 연장할 수 있도록 사업을 추진 중이다.&lt;br&gt;&lt;br&gt;이철우 경북도지사는 “앞으로도 도민들의 접근성 향상을 위해 노력하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>기초생활수급비 감액되자 공무원 폭행한 40대 입건</title>
-      <link>https://www.chosun.com/national/incident/2024/12/20/VGKLGAMT75AS7AUB25QAFLQ7SQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/12/20/VGKLGAMT75AS7AUB25QAFLQ7SQ/</guid>
-      <dc:creator>이승규 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 20 Dec 2024 07:51:48 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FE3KUYICB7VKTXCS2LIRIU4YFM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대구 동구청/연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;자활근로 참여로 기초생활수급자를 위한 지원금이 감액되자 공무원을 폭행한 40대 남성이 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;대구 동부경찰서는 공무집행방해 혐의로 A씨를 입건했다고 20일 밝혔다. A씨는 이날 오전 10시 40분쯤 대구 동구청 2층 상담실에서 공무원인 40대 여성 B씨의 머리채를 잡거나 주먹으로 폭행한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;A씨는 지난달 국가 자활근로 사업에 참여했고 이로 인해서 구에서 지급되는 생계 급여가 줄어들자 항의를 하다가 B씨를 폭행했다. A씨는 “니는 이 돈으로 살 수 있나. 경찰 불러라, 감옥 가면 된다”며 난동을 부린 것으로 조사됐다.&lt;br&gt;&lt;br&gt;결국 A씨는 다른 공무원의 신고로 출동한 경찰에게 붙잡혔다. B씨는 인근 병원에서 치료를 받고 심리 치료 상담을 고민 중인 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>에르메스 등 장애인 고용 의무 안 지킨 328개 업체 공개</title>
-      <link>https://www.chosun.com/national/labor/2024/12/20/JJRYQCCWFBFABA3XRA5QW4YXR4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/labor/2024/12/20/JJRYQCCWFBFABA3XRA5QW4YXR4/</guid>
-      <dc:creator>김아사 기자</dc:creator>
-      <description>정부가 장애인 고용 의무를 다하지 않은 사업체 328개 명단을 20일 공개했다.</description>
-      <pubDate>Fri, 20 Dec 2024 07:48:34 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NF3FSI4QTJGMDEJOLHWXDVLN5M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 2022년 현대백화점 판교점의 에르메스 쇼윈도/조선DB
-
-&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정부가 장애인 고용 의무를 다하지 않은 사업체 328개 명단을 20일 공개했다. 정부와 지자체, 공공기관의 경우 의무 고용률인 3.6% 미만, 민간 업체는 1.55% 미만이면 공개 대상이다.&lt;br&gt;&lt;br&gt;20일 고용노동부에 따르면, 올해 공개된 사업체 수는 전년에 비해 28% 감소했다. 그러나 여전히 장애인을 한 명도 고용하지 않거나 10년 이상 고용 의무를 다하지 않는 곳도 있었다. 대표적인 게 명품 업체 에르메스다. 405명의 상시 근로자를 고용한 에르메스코리아는 12명의 장애인 고용 의무가 있지만, 단 한 명도 고용하지 않았다. 까르띠에, 피아제, 몽블랑 등이 속한 리치몬트코리아는 1393명의 상시 근로자가 근무하지만, 장애인은 단 2명(0.14%)만 일하고 있다. 리치몬트코리아는 10년 이상 장애인 의무 고용 비율을 지키지 않는 업체 중 하나였다.&lt;br&gt;&lt;br&gt;지자체 중에선 충북 음성군·강원 화천군·전남 영암군 등이, 공공기관 및 출자·출연법인 중엔 한국기상산업기술원·재단법인전주문화재단·재단법인 남양주시복지재단 등이 이름을 올렸다. 민간에서는 제조업체인 더블유씨피(0%)와 신성통상(0.18%), 종근당(0.3%), 오케이저축은행(0.47%) 등이 장애인 고용 의무를 다하지 않은 것으로 나타났다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>반도 못 채운 ‘외국인 고용허가’ 쿼터</title>
@@ -864,15 +880,6 @@
       <description/>
       <pubDate>Fri, 20 Dec 2024 05:26:52 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Z6QPEFXGJNRPZ5XSGMLYBBG2IQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;창원지법. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이혼한 전 남편에 대한 증오심과 복수심으로 끝내 살인을 저지른 60대 여성에게 중형이 선고됐다.&lt;br&gt;&lt;br&gt;창원지법 형사2부(재판장 김성환)는 살인 혐의로 재판에 넘겨진 A(60)씨에게 징역 17년을 선고했다고 20일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 6월 경남 김해시 한 농장에서 전 남편 B(60대)씨를 목 졸라 살해한 혐의로 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;판결문에 따르면 A씨는 B씨와 1988년 결혼했다가 2003년 이혼한 사이다. 이혼 후에도 A씨는 가정의 대소사를 챙기면서 B씨의 집을 오갔다고 한다. 그러다 지난해 6월쯤 A씨는 B씨의 휴대전화에서 과거 이혼의 원인이 됐던 여성과 전 남편이 계속 연락을 주고받고 있던 사실을 알게 됐다.&lt;br&gt;&lt;br&gt;이런 이유로 A씨와 B씨는 크게 다퉜고, 한 달가량 A씨의 성화가 이어졌다. 결국 이를 참지 못한 B씨는 A씨를 김해 농장 야외에 있던 굴착기에 묶어버렸다. 이 일을 계기로 A씨는 B씨에 대한 복수심과 증오심을 갖게 됐다.&lt;br&gt;&lt;br&gt;뇌동맥류로 쓰러져 2차례 수술을 받고 회복한 A씨는 B씨를 살해하기로 마음먹고 1년간 헬스장을 다니면서 범행을 준비했다고 한다. 그러다 지난 6월 4일쯤 B씨를 살해할 것을 결심하고는 지인에게 “끝을 내야 할 듯, 개 쓰레기한테 받은 수모 돌려줘야지”라는 메시지를 보냈다.&lt;br&gt;&lt;br&gt;A씨는 지난 6월 8일 김해 농장에서 B씨에게 수면제를 몰래 타 잠들게 하고, 다음날 새벽잠에서 깬 B씨에게 과거 자신이 굴착기에 묶여 있던 일을 언급하면서 “너도 느껴봐라”고 똑같이 묶이라고 요구했다.&lt;br&gt;&lt;br&gt;계속된 A씨의 요구를 못 이겨 양손이 묶였던 B씨는 이후 이를 풀어달라며 저항하다가 A씨와 몸싸움을 벌이게 됐다. 이후 A씨는 인근에 있던 호스로 B씨의 목을 졸라 살해했다.&lt;br&gt;&lt;br&gt;재판부는 “살인죄는 어떠한 이유로도 정당화될 수 없는 중대한 범죄”라며 “자녀를 포함한 유족으로부터 용서받지 못했고, 피고인이 마약 수수 범행 집행유예 기간에 이 사건을 저지른 점, 정신·신체적 건강 상태가 좋지 않은 점 등을 종합해 형을 정했다”고 양형 이유를 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[속보] 헌재 “재판관 평의서 尹 송달, 변론 절차 논의”</title>
-      <link>https://www.chosun.com/national/court_law/2024/12/20/4JK7FJXFC5GAJADQXI2ZU6XZQI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/20/4JK7FJXFC5GAJADQXI2ZU6XZQI/</guid>
-      <dc:creator>방극렬 기자, 박강현 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 20 Dec 2024 05:03:29 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HFOPIHBITFPILFWBL7L4F3NNBY.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;지난 18일 서울 종로구 헌법재판소에서 헌재 깃발이 바람에 휘날리고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“윤석열 대통령 탄핵심판 서류 아직 미배달 상태”&lt;br&gt;&lt;br&gt;“재판관들, ’송달 간주’ 방법 종합적으로 검토”&lt;br&gt;&lt;br&gt;“오는 27일 예정된 변론 준비 기일, 일단 변동 없이 진행”&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>삼성꿈장학재단 신임 이사장에 김우승 한국공학교육인증원장</title>
