@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>‘박사방 추적’ 디지털 장의사, 돈 받고 개인정보 캐다 벌금형</title>
+      <link>https://www.chosun.com/national/incident/2024/12/22/ACVXBEH745E3BCAEKRQFWV6DU4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/12/22/ACVXBEH745E3BCAEKRQFWV6DU4/</guid>
+      <dc:creator>고양=김현수 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 22 Dec 2024 03:48:15 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FQVWXJYV67BKOZ7TGPCBHGYVQE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원 로고. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2020년 미성년자 성 착취물을 제작·유포한 ‘박사방’ 사건 당시 운영자 조주빈(28)을 추적해 주목받은 인터넷 기록 삭제 업체 대표가 돈을 받고 개인정보를 부정하게 수집한 혐의로 벌금형을 선고받았다.&lt;br&gt;&lt;br&gt;의정부지법 고양지원 형사4단독 예혁준 판사는 정보통신망법 위반 혐의로 기소된 A(43)씨에게 벌금 500만원을 선고했다고 22일 밝혔다. A씨는 인터넷에 떠도는 성범죄 피해 영상이나 다른 게시물 등을 대신 삭제해 주는 이른바 ‘디지털 장의업체’를 운영하며 ‘디지털 장의사’로 불렸다.&lt;br&gt;&lt;br&gt;재판부는 “피고인은 피해자를 속이는 행위로 정보를 수집한 것에 해당한다는 점에 의문이 없고, IP 정보 등은 피해자의 개인정보에 해당한다”고 설명했다. 이어 “수사기관도 아닌 피고인이 대가를 받고 속이는 방법으로 다른 사람의 정보를 수집해 주는 것이 자구행위나 정당행위가 될 수 없다”고 양형 이유를 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난해 1월 8일 유튜버 B씨에게 코인 사기를 당했다고 속여 허위 링크를 보내는 방식으로 개인정보를 빼낸 혐의로 불구속 기소됐다.&lt;br&gt;&lt;br&gt;B씨는 2022년 8월부터 지난해 4월까지 자신의 채널에 갈등 관계였던 유튜버 C씨와 관련된 동영상을 총 6차례 게시했다. 이에 C씨는 2022년 12월 A씨에게 B씨의 개인정보를 추적해 달라고 의뢰하며 수수료로 300만원을 지급했다. A씨는 텔레그램을 통해 B씨에게 피싱 링크를 보내 클릭을 유도한 뒤 IP, 통신사 정보, 휴대전화 기종, 주소지 정보 등 개인정보를 빼내 C씨에게 넘겼다.&lt;br&gt;&lt;br&gt;한편 A씨는 2018년 3∼6월 당시 회원 수 85만명을 보유한 국내 최대 음란사이트인 ‘○○티비’가 음란물이나 불법 촬영물을 유통하는 사실을 알고도 방조한 혐의 등으로 지난해 1월 1심과 이달 6일 항소심에서 징역 6개월에 집행유예 2년을 선고받았다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>마약 배달한 20대 ‘징역3년’...법원 “단순 배달책도 엄벌 불가피”</title>
       <link>https://www.chosun.com/national/court_law/2024/12/22/E2EIBLH645H2FF6IGRZ7QATXRY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/22/E2EIBLH645H2FF6IGRZ7QATXRY/</guid>
@@ -754,15 +763,6 @@
       <description/>
       <pubDate>Fri, 20 Dec 2024 08:08:10 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BGMLESEWGZJA3BA7S57TI7BJ3U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;현대차그룹은 정의선 회장이 제14대 대한양궁협회 회장에 선임됐다고 20일 밝혔다. 사진은 정의선 회장이 2024 파리올림픽에서 여자 단체전 금메달을 따낸 대표팀과 함께 프랑스 파리 앵발리드에서 기념 촬영을 하고 있는 모습. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정의선 현대차그룹 회장(54)이 제14대 대한양궁협회 회장에 당선돼 4년 더 한국 양궁을 이끈다. 정 회장은 이로써 양궁협회장직을 6연임 하게 됐다.&lt;br&gt;&lt;br&gt;대한양궁협회는 20일 “제14대 회장 선거에 단독 출마한 정의선 회장이 만장일치로 추대됐다”며 선거운영위원회의 후보자 결격 사유 심사를 거쳐 최종 당선인으로 공고했다.&lt;br&gt;&lt;br&gt;대한체육회 규정에 따르면 회원종목단체 임원은 한 차례 연임이 가능하지만, 종목 발전에 대한 기여도가 명확한 경우 추가 연임할 수 있다.&lt;br&gt;&lt;br&gt;정 회장은 지난 2005년 5월 제9대 대한양궁협회 회장으로 부임했다. 14대 회장 임기는 2029년까지다.&lt;br&gt;&lt;br&gt;정 회장은 한국 양궁을 세계 최고 수준으로 올려놓는데 큰 역할을 했다는 평가를 받는다. 지난 7월 프랑스 파리 올림픽에서는 여자 양궁 대표팀이 단체전 10연패 기록을 세우기도 했다.&lt;br&gt;&lt;br&gt;현대차그룹은 올해로 40년째 한국 양궁을 후원하고 있다. 국내에서 기업이 단일 종목 스포츠협회를 후원한 사례 중 최장 기간이다.&lt;br&gt;&lt;br&gt;현대차그룹은 올림픽을 앞두고 파리대회 양궁경기장인 앵발리드 경기장과 똑같은 시설을 진천선수촌에 지었다. 경기장의 특성을 몸에 익히며 연습을 하기 위해서였다. 파리에서는 앵발리드 경기장에서 10여 km 떨어진 곳의 스포츠클럽을 통째로 빌려 양궁 국가대표팀만을 위한 전용 연습장을 마련했다. 그 덕분에 체계적인 훈련을 하고, 시차도 빠르게 적응할 수 있었다고 한다.&lt;br&gt;&lt;br&gt;한편 정 회장은 2005년 11월 제8대 아시아 양궁연맹(World Archery Asia) 회장으로 부임해 5선 연임 중이며 현대자동차그룹은 세계양궁연맹(World Archery Federation)의 최대 후원사로 스포츠 외교에도 앞장서고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>허정무, ‘4선 도전’ 정몽규에 “출마 선언 이유, 궤변과 변명에 불과”</title>
-      <link>https://www.chosun.com/national/national_general/2024/12/20/7EBBIHDNMRDYTCDOTFMHN43ZCI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/20/7EBBIHDNMRDYTCDOTFMHN43ZCI/</guid>
-      <dc:creator>박선민 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 20 Dec 2024 08:04:32 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PLM74H4NHJBS7CJHCK3VW4OXGQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;제55대 대한축구협회장 선거에 출마한 허정무 전 축구국가대표팀 감독과 4선에 도전하는 정몽규 현 축구협회장. /뉴시스·뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제55대 대한축구협회장 선거에 출마한 허정무 전 축구국가대표팀 감독이 4선에 도전하는 정몽규 축구협회장을 향해 “궤변과 변명만 늘어놓았다”라며 공개토론을 거듭 제안했다. &lt;br&gt;&lt;br&gt;허정무 전 감독은 20일 보도자료를 통해 “전 국민의 따가운 눈총을 받는 정몽규 회장의 4선 도전 출마선언은 예상대로 논리에도 맞지 않고, 축구협회 현실에 대한 인식도 부족한 궤변과 변명의 나열에 불과했다”라고 했다. &lt;br&gt;&lt;br&gt;허 전 감독은 “개혁의 대상이 되는 정 회장이 과감한 개혁을 논하는 것 자체가 어불성설”이라며 “대한민국 축구의 위상을 추락시키고, 축구 외교의 비참한 참패를 가져다준 장본인이 국제경쟁력 제고를 논할 수 없다”고 했다. 그러면서 “과정보다 결과만 중요하다는 그릇된 생각이 축구협회를 망쳤고, 회장 선거 과정의 불공정, 불투명까지 초래했다”고 했다. &lt;br&gt;&lt;br&gt;허 전 감독은 정 회장이 4선 연임에 나선 이유 중 하나로 축구종합센터 완공을 꼽은 데 대해서는 “출마 선언을 위한 옹색하고 궁색한 궤변에 불과하다”고 했다. 그는 “대한민국 축구종합센터 완성을 위해 본인이 나서야 한다는 논리는 출마 선언을 위한 최소한의 꼬투리라도 만들어 보겠다는 것”이라며 “본인만이 완성할 수 있다는 생각 자체가 독단이고 아집”이라고 했다. &lt;br&gt;&lt;br&gt;허 전 감독은 정 회장을 향해 재차 공개토론을 제안했다. 허 전 감독은 “그나마 오늘 정 회장의 선언에서 긍정적인 것은 ‘얼마든지 공개토론 할 수 있다’는 발언”이라며 “빠른 시일 내 대한민국 축구발전을 위한 후보자들간의 진지하고 심도 있는 공개토론이 이루어지길 기대한다”고 했다. &lt;br&gt;&lt;br&gt;앞서 정 회장은 전날 서울 종로구 신문로 포니정재단빌딩에서 제55대 대한축구협회장 출마 기자회견을 열고 “국민의 신뢰를 회복하고 준비된 미래를 완성하겠다”라는 출사표를 올렸다.&lt;br&gt;&lt;br&gt;정 회장은 “지난 12년간 많은 분들과 같이 고민하며 대한민국 축구발전을 위해 노력했던 사람으로서 끝까지 책임을 다해야 한다고 생각한다”며 ▲과감한 개혁을 통한 축구협회 신뢰 회복 ▲한국 축구 국제 경쟁력 제고 ▲대한민국 축구종합센터 완성 ▲디비전 승강제 완성을 통한 축구 저변 확대 등 4가지 사항을 약속했다.&lt;br&gt;&lt;br&gt;정 회장은 “저와 축구협회가 미진했던 것들, 잘못한 것들에 대한 비판은 가감 없이 수용해 협회의 발전을 위한 자양분으로 삼겠다”라며 “누구보다 큰 책임감으로 결자해지의 굳은 각오로 한국 축구의 미래를 위해 힘을 쏟겠다”고 했다. &lt;br&gt;&lt;br&gt;그러면서 “당선되면 다음 축구협회장 후보를 양성하는 게 중요하다고 생각한다”며 “앞으로 축구협회장을 더할 가능성은 없을 것”이라고 했다. &lt;br&gt;&lt;br&gt;한편 제55대 축구협회장 선거는 내년 1월 8일 열린다. 정몽규 현 협회장, 허정무 전 축구대표팀 감독, 신문선 명지대 기록정보과학전문대학원 스포츠기록분석학과 초빙교수의 ‘3파전’으로 치러질 예정이다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>‘반도체 핵심 인력 중국 이직 알선’ 삼성전자 전 임원 구속 기소 </title>
