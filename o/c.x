@@ -13,6 +13,60 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>서해안고속도로 서평택 나들목서 유조차 전복 화재...양방향 통제</title>
+      <link>https://www.chosun.com/national/incident/2024/12/23/3MY5KESJTVGFTKU53ZWHRLF3NE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/12/23/3MY5KESJTVGFTKU53ZWHRLF3NE/</guid>
+      <dc:creator>평택=김현수 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 23 Dec 2024 14:04:54 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XAQXZ2C56NH2PKHKFNQ6JDPWVU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;23일 오후 9시 51분쯤 서해안고속도로 서평택 나들목 인근 목포 방향으로 달리던 유조차량에서 불이 났다. /경기도소방재난본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;23일 오후 9시 51분쯤 서해안고속도로 서평택 나들목 인근 목포 방향으로 달리던 유조차량에서 불이 나 소방당국이 진화작업을 벌이고 있다.&lt;br&gt;&lt;br&gt;소방당국은 유조차량이 가드레일을 박고 넘어져 화재가 난 것으로 추정하고 있다. 유조차량에서 유출된 등유에 불이 붙으면서 다량의 연기가 발생해 화재 신고가 잇따랐다. 유조차에는 등유 25t이 실린 것으로 파악됐다.&lt;br&gt;&lt;br&gt;소방당국은 서평택IC~서평택JCT 도로 양방향 통행을 차단하는 한편, 펌프차 등 31대와 대원 78명을 투입해 불길을 잡고 있다.&lt;br&gt;&lt;br&gt;경찰과 소방은 현재 인명 피해 여부를 확인하는 한편 정확한 사고 경위를 조사중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“나 공무원 시험 봐야 돼” 음주 측정 거부하며 욕한 30대, 결국…</title>
+      <link>https://www.chosun.com/national/national_general/2024/12/23/2BAEGGDRUZFMXLLA6YLO2ZYUII/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/23/2BAEGGDRUZFMXLLA6YLO2ZYUII/</guid>
+      <dc:creator>문지연 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 23 Dec 2024 13:41:59 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EXMXXGJ2TFJHPAMBFUKNAI6PRE.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;경찰이 지난 3일 밤 서울 관악구의 한 도로에서 연말연시 음주·약물운전 특별단속을 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;공무원 시험을 봐야 한다며 경찰의 음주 측정 요구를 거부한 30대 남성에게 법원이 징역형 집행유예를 선고했다.&lt;br&gt;&lt;br&gt;대전지법 형사10단독 김태현 판사는 도로교통법 위반(음주 측정 거부) 등 혐의로 기소된 A(30)씨에게 징역 1년에 집행유예 2년을 선고했다고 23일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 5월 1일 대전 유성구 한 도로에서 경찰의 음주 측정 요구에 응하지 않고 거부하며 욕설한 혐의로 재판에 넘겨졌다. 당시 A씨 차량은 고장나 길가에 정차해 있었고 이를 발견한 시민이 경찰에 신고한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;출동한 경찰은 A씨 말투가 어눌하고 몸조차 제대로 가누지 못하는 것을 보고 음주 측정을 요구했다. 그러나 A씨는 “공무원 시험을 봐야 한다” “증거를 가져오라”며 완강히 거부했다. 게다가 A씨는 이미 2019년 음주 운전으로 적발돼 벌금 150만원의 약식명령을 받았던 것으로 조사됐다.&lt;br&gt;&lt;br&gt;김 판사는 “피고인이 범행을 자백하고 반성하고 있다”면서도 “다만 과거 음주 운전으로 처벌받은 전력이 있고 경찰의 정당한 음주 측정 요구에 응하지 않은 점 등을 고려했다”고 했다.&lt;br&gt;&lt;br&gt;한편 금고 이상 형으로 집행유예를 선고받은 사람은 유예기간 종료 후 2년이 지나야 공무원 시험에 응시할 수 있다. A씨의 경우 이대로 형이 확정될 시 2년의 집행유예 기간이 끝나고 2년이 흐른 4년 뒤에야 시험을 볼 수 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>산청·함양 민간인 희생, 73년만에 첫 국가배상 판결</title>
+      <link>https://www.chosun.com/national/2024/12/23/6W4N2YMFGBE7DBCNRGS72DTQOY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2024/12/23/6W4N2YMFGBE7DBCNRGS72DTQOY/</guid>
+      <dc:creator>부산=김준호 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 23 Dec 2024 11:53:50 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QKEDTEDD7JJQHDY46L5BQQXHEU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;제37회 함양산청사건 양민희생자 합동위령제 및 추모식이 열린 지난 11월 1일 경남 산청군 산청·함양사건추모공원에서 한 유족이 묘역을 찾아 참배하고 있다. /함양군&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;6·25전쟁 당시 국군의 인민군 토벌 작전 과정에서 경남 산청·함양 지역 주민들이 희생된 사건과 관련해, 정부가 유족들의 정신적 피해를 배상해야 한다는 법원 판결이 나왔다. 사건이 발생한 지 73년 만에 정부의 배상 책임을 인정한 판결이 나온 것이다.&lt;br&gt;&lt;br&gt;부산고법 민사5부(재판장 김주호)는 ‘산청·함양 사건’ 피해자 유족 15명이 정부를 상대로 낸 손해배상 청구 소송에서 “정부는 유족들에게 총 18억2583만원을 지급하라”며 원고 승소 판결을 했다고 23일 밝혔다.&lt;br&gt;&lt;br&gt;이 사건은 6·25전쟁 중이던 1951년 2월 국군 제11사단이 지리산 일대의 북한 인민군과 빨치산을 소탕하는 과정에서 산청·함양 지역 주민 705명이 희생된 사건이다. 당시 경남 거창에서도 주민 719명이 희생됐다.&lt;br&gt;&lt;br&gt;유족들은 1996년 제정된 ‘거창 사건 등 명예 회복에 관한 특별 조치법’에 따라 희생자 유족으로 인정받았다.&lt;br&gt;&lt;br&gt;일부 유족은 작년 6월 정부를 상대로 손해배상 청구 소송을 냈다. 지난 1월 1심 재판부는 손해배상 청구권이 이미 소멸됐다는 이유로 정부의 손을 들어줬다. 민법상 불법행위에 대한 손해배상 청구권은 소멸시효가 3년이다. 손해와 가해자를 안 날로부터 3년 이내에 행사하지 않으면 사라진다는 뜻이다.&lt;br&gt;&lt;br&gt;1심 재판부는 ‘진실·화해를 위한 과거사 정리 위원회’가 활동을 끝낸 2010년 6월 30일을 기준으로 잡아도 소멸시효 3년이 지난 뒤 청구권을 행사한 게 된다고 판단했다. ‘진실·화해를 위한 과거사 정리 위원회’는 당시 국회와 대통령에게 6·25전쟁 전후 사건에 대한 배상 관련 특별법 제정을 건의했다.&lt;br&gt;&lt;br&gt;반면에 2심인 부산고법 재판부는 2022년 대법원 판결을 기준 시점으로 잡았다. 대법원은 2022년 11월 산청·함양 사건과 비슷한 거창 사건에 대해 “민간인 집단 희생 사건 같은 중대한 인권침해 사건에 대해서는 소멸시효가 적용되지 않는다”고 판단했다.&lt;br&gt;&lt;br&gt;부산고법 재판부는 “이 대법원 판결에 따르면 산청·함양 사건은 3년 소멸시효가 의미가 없게 된다”며 “이 대법원 판결 선고일을 손해배상 청구권을 행사할 수 있는 기준 시점으로 봐야 한다”고 했다.&lt;br&gt;&lt;br&gt;김재생 산청·함양 양민 희생자 유족 회장은 “1996년 당시 유족 732명 중 아직도 살아 있는 사람은 164명에 불과하다”며 “이제라도 정부가 적극적으로 나서 유족들의 고통을 달래줘야 한다”고 했다. 정부는 이번 판결에 불복해 대법원에 상고했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>법원, 이재명 ‘선거법 위반’ 2심 국선변호인 선정</title>
+      <link>https://www.chosun.com/national/court_law/2024/12/23/2JPSPKRI2VG4ROY27SK62LHQ2I/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/23/2JPSPKRI2VG4ROY27SK62LHQ2I/</guid>
+      <dc:creator>박강현 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 23 Dec 2024 11:06:02 +0000</pubDate>
+      <content:encoded>법원이 공직선거법 위반 사건 1심에서 의원직 상실형(징역 1년에 집행유예 2년)을 선고받은 이재명 더불어민주당 대표의 항소심에서 국선 변호인을 선정해 이 대표 측에 통보했다고 23일 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/36LPX5CNVBGT5BYU3H6HMXVQO4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이재명 더불어민주당 대표가 23일 국회에서 열린 최고위원회의에 참석하고 있다. /이덕훈 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;법조계에 따르면 이 사건을 심리하는 서울고법 형사6-2부(재판장 최은정)는 이날 국선변호인을 선정했다는 결정문을 이 대표 측과 국선변호인에게 보냈다.&lt;br&gt;&lt;br&gt;이 대표는 그간 법원이 우편으로 보낸 공직선거법 위반 항소심 관련 소송 기록 접수 통지서를 현재 주소를 확인할 수 없거나 문이 잠겨 있다는 등의 이유로 두 차례 받지 않았다.&lt;br&gt;&lt;br&gt;당시 이 대표는 변호인도 선임하지 않아 변호인에게 이를 대신 전달할 수도 없었다.&lt;br&gt;&lt;br&gt;이 때문에 법원은 지난 17일 이 대표 측에 세 번째로 소송 기록 접수 통지서와 함께 국선변호인 선정 고지서도 발송했다. 필요하면 국선변호인이라도 신청하라는 뜻이다.&lt;br&gt;&lt;br&gt;이 대표는 지난 18일 법원 집행관이 직접 소송 기록 접수 통지서 등 서류를 들고 이 대표 의원실로 찾아가자 그의 보좌진이 서류를 받은 것으로 전해졌다.&lt;br&gt;&lt;br&gt;이 같은 통지서를 받은 이 대표는 다음 달 7일까지 항소이유서를 제출해야 한다. 형사소송법에 따르면 피고인은 소송 기록 접수 통지서를 수령한 뒤 20일 이내에 항소이유서를 제출해야 한다.&lt;br&gt;&lt;br&gt;다만 국선변호인이 이 대표 측을 변호하는 게 확정된 것은 아니다. 만약 이 대표가 이 기간 안에 사선 변호인 선임계를 제출하면 국선 변호인 선정은 취소된다.&lt;br&gt;&lt;br&gt;재판부는 통상 항소이유서가 제출된 후 재판 기일을 잡기 때문에 이 대표의 공직선거법 위반 항소심 재판은 일러야 내년 1월 중순 이후 열릴 전망이다.&lt;br&gt;&lt;br&gt;앞서 이 대표는 지난 대선을 앞두고 고(故) 김문기 전 성남도시개발공사 처장을 성남시장 시절 알았으면서도 몰랐다고 하고, 국토교통부 협박으로 백현동 개발 부지 용도를 상향 조정했다고 허위 사실을 말한 혐의(선거법상 허위사실 공표)로 2022년 9월 기소돼 지난달 15일 1심에서 징역 1년에 집행유예 2년을 선고받았다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“자녀 취업” 미끼로 30명에 23억 받은 노조 대의원 수사중 사망</title>
+      <link>https://www.chosun.com/national/regional/2024/10/30/BGHFINQ4XZDBZCGTWWT5JCHS4Y/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/10/30/BGHFINQ4XZDBZCGTWWT5JCHS4Y/</guid>
+      <dc:creator>울산=김주영 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 30 Oct 2024 01:19:32 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TL74V77WQFHWQ7UYOTL2PV2DGQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;울산경찰청. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;울산의 한 대기업 전(前) 노조 간부가 지인들에게 자신이 다니는 회사에 자녀들을 정규직으로 취업시켜 주겠다며 수억 원을 받은 혐의로 경찰에 구속됐다. 그와 범행을 공모한 혐의를 받는 다른 대기업 노조 간부는 경찰 수사가 시작되자 극단적 선택을 했다.&lt;br&gt;&lt;br&gt;울산경찰청 반부패경제범죄수사대는 울산의 한 대기업 노조 간부였던 60대 A씨를 사기 혐의로 구속했다고 30일 밝혔다. 그는 지난 2020년 직장 동료들에게 접근해 자녀들을 자신이 다니는 회사의 정규직으로 취업시켜 주겠다고 속여 3명에게 5억 원을 받아 챙긴 혐의다.&lt;br&gt;&lt;br&gt;A씨는 자신이 회사 노조 대의원을 수차례 역임했다는 사실을 강조하며 피해자들에게 “노조 간부와 인사 부서 직원들을 잘 알고 있어 자녀들을 취업시킬 수 있다”고 속였다.&lt;br&gt;&lt;br&gt;A씨와 범행을 공모한 또 다른 노조 대의원 50대 B씨도 비슷한 수법으로 2017년 3월부터 지난 1월까지 피해자 30명에게 총 23억원을 받아 챙긴 혐의를 받는다. 이들은 피해자 1명당 수천만 원에서 1억여원이 넘는 돈을 받은 것으로 조사됐다.&lt;br&gt;&lt;br&gt;B씨는 지난 3월 경찰 출석 조사를 앞두고 극단적 선택을 한 것으로 확인됐다. 경찰 관계자는 “B씨가 숨지면서 ‘공소권 없음’으로 그에 대한 수사는 종결된 상황”이라고 말했다.&lt;br&gt;&lt;br&gt;수사 결과 A씨는 피해금 대부분을 주식에 탕진하고 B씨는 골프나 유흥에 사용한 것으로 조사됐다. 이들은 공개 채용이 자주 있지 않은 점을 악용해 “올해 안되면, 내년에 될 거다”며 차일피일 미뤄왔던 것으로 파악됐다.&lt;br&gt;&lt;br&gt;그러나 이들에게 청탁한 피해자들 중 이 회사의 정식 인사 제도를 통해 채용이 된 경우는 없는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰은 A씨가 피해액을 전혀 변제하지 못하고 있는 점, 범행을 부인하는 점 등을 고려해 지난 26일 구속영장을 신청했고, 법원은 이를 받아들여 영장을 발부했다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “지인이나 노조 간부의 추천으로 대기업 입사가 가능한 것처럼 주변 사람들을 속여 범행을 일삼는 사례가 여전히 많다”며 “피해를 입지 않도록 주의해야 한다”고 말했다.&lt;br&gt;&lt;br&gt;※ 우울감 등 말하기 어려운 고민이 있거나 주변에 이런 어려움을 겪는 가족·지인이 있을 경우 자살예방 상담전화(☎109)에서 24시간 전문가의 상담을 받을 수 있습니다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>울산 신한중공업서 50대 근로자, 지게차에 치여 숨져</title>
+      <link>https://www.chosun.com/national/regional/2024/12/23/MVBA2YQEVBHBLML6XZYQ5TLYOM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/12/23/MVBA2YQEVBHBLML6XZYQ5TLYOM/</guid>
+      <dc:creator>울산=김주영 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 23 Dec 2024 10:22:47 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/S547GAO6GSERK7M4QB3KSSV3BY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;23일 오전 8시쯤 울산 울주군 온산읍 신한중공업 3공장에서 50대 근로자 A씨가 지게차에 치여 숨지는 사고가 발생했다.&lt;br&gt;&lt;br&gt;경찰은 지게차 운전자가 크레인에 와이어를 거는 작업을 마친 후 후진하는 과정에서 뒤에 있던 A씨를 발견하지 못해 사고가 난 것으로 추정하고 있다. 사고 당시 현장에는 A씨와 지게차 운전자 등 4명이 함께 작업중이었던 것으로 전해졌다.&lt;br&gt;&lt;br&gt;A씨와 지게차 운전자 모두 사내 협력업체 소속 직원인 것으로 알려졌다. &lt;br&gt;&lt;br&gt;경찰은 목격자와 현장 안전 관리자 등을 상대로 정확한 사고 경위를 조사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>홍성서 LPG가스통 폭발해 주택 무너져… 70대 집주인 부상</title>
       <link>https://www.chosun.com/national/regional/chungcheong/2024/12/23/PVGCGDXUBFGIFKB6A3FXTSYHIY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2024/12/23/PVGCGDXUBFGIFKB6A3FXTSYHIY/</guid>
@@ -683,24 +737,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TTDSHDLNKZBDPDDF5VFSSPS5KU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 19일 대구 달서구의 한 아파트에서 1억원을 기부한 주부 권분자(72)씨가 한복을 곱게 차려입고 다과를 준비하고 있다. /김동환 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“평범하고 소박하게 사는 사람도 마음만 먹으면 1억원이라는 큰돈을 기부할 수 있다는 걸 널리 알리고 싶었어요.”&lt;br&gt;&lt;br&gt;지난 19일 대구 달서구 한 아파트에서 만난 권분자(72)씨는 이렇게 말했다. 권씨는 지난 9월 사랑의열매에 1억원을 기부해 고액 기부자 모임인 ‘아너 소사이어티’ 회원 명단에 이름을 올렸다. 특히 대구 지역 아너 소사이어티 회원 252명 가운데 가정주부는 권씨가 유일하다.&lt;br&gt;&lt;br&gt;권씨는 스물일곱 살, 당시 비교적 늦은 나이에 결혼했다. 아이를 임신하고 10여 년간 남편과 함께 대구의 여러 시장을 돌며 옷 장사를 했다. 쉬는 날 없이 새벽 일찍 일을 나갔다. 권씨는 “좁은 단칸방을 옮겨 다니며 아이들을 키웠다. 그때 참 힘들게 살았다”며 “옛날 생각하면 눈물이 날 정도”라고 했다. 아들이 초등학교 6학년, 딸이 4학년 되던 해인 1992년 권씨 부부는 그간 옷 장사를 하면서 모은 돈으로 대구의 24평짜리 아파트로 이사했다. 권씨 남편은 공인중개사 자격증을 따 중개소를 차렸다. 권씨는 아이 둘을 키우는 데 전념했다.&lt;br&gt;&lt;br&gt;그러다가 11년 전부터 ‘아름다운 이야기 할머니’ 사업에 참여했다. 이 사업은 여성 어르신이 유아 교육 기관을 정기적으로 방문해 어린이들에게 우리 옛이야기와 미담 등을 들려주는 활동이다. 권씨는 일주일에 세 번씩 어린이집, 유치원을 찾아 아이들에게 이야기를 들려줬다. 그가 하루에 받는 활동비는 3만원. 권씨는 이 돈을 한 번도 쓰지 않고 10년간 저축해 5000여 만원을 모았다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/M4E4QXYD3VGYDBXHE7OPQV5YTM.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;지난 19일 대구 달서구의 한 아파트에서 1억원을 기부한 주부 권분자씨가 한복을 곱게 차려입고 다과를 준비하고 있다. /김동환 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이 밖에 생활하면서 아낀 돈을 틈틈이 저축해 1억원을 모았다. 돈 관리를 위해 통장도 5개 이상 가지고 다녔다. 권씨는 “돈은 가지고 있으면 쓰기 십상”이라며 “‘낭비란 절대 없다’는 생각으로 알뜰살뜰하게 살았다”고 했다. 치약도 끝까지 쓰려고 끄트머리를 잘라 속에 남은 내용물이 없어질 때까지 3~4번은 더 썼다.&lt;br&gt;&lt;br&gt;권씨가 사랑의열매에 1억원을 기부하기 전엔 TV 광고를 보고 월 2만원씩 소액 기부를 했다. 그런데 이야기 할머니 활동 등을 통해 받은 돈을 꾸준히 저축하면서 나중에 의미 있는 곳에 기부하고 싶다는 생각이 들었다고 한다. 이야기 할머니 활동 마지막 해인 재작년에 기부하려 했지만, 그해엔 마땅한 기부처를 찾지 못했다. 그러다 딸이 사랑의열매를 소개해 줘 지난해 4월 기부 계약서를 작성했다. 계약 이후에도 가족들이 큰돈을 기부한다고 말릴까 봐 한동안 알리지 않았다. 권씨는 “살면서 자긍심, 자부심은 손톱만치도 없었는데 계약서를 작성하던 날만큼은 마음이 들떴다”고 했다.&lt;br&gt;&lt;br&gt;권씨가 그동안 모은 돈을 모두 기부할 것이라고 처음 주변에 알렸을 때 지인들은 놀랐다고 한다. ‘차라리 그 돈을 생활비에 보태라’거나 ‘나이 들어서 뭐 하러 기부를 하나, 그 돈으로 편하게 여행이나 다녀라’ 등의 반응을 보였다고 한다. 하지만 권씨는 “애초 돈을 벌려는 목적이었다면 차라리 장사를 했지, 소소하게 모은 돈을 허투루 버릴 생각은 없었다”며 “남편과 함께 번 돈이 아니라 내 힘으로 모은 돈을 의미 있는 곳에 쓰고 싶었다”고 했다. 그는 “언젠가 꼭 기부를 해봐야겠다고 꿈꿔왔는데 정말 이뤄내리라곤 생각 못 했다”며 “실제 기부해 보니 ‘나는 참 괜찮은 사람이구나’라는 생각이 들었다”고 했다.&lt;br&gt;&lt;br&gt;최근 권씨는 봉사 활동을 하며 제2의 삶을 살고 있다. “아너 소사이어티 회원이 된 이후 누군가의 배우자, 누군가의 엄마가 아닌 잊고 지냈던 나의 이름 석 자로 ‘제2의 인생’이 시작된 것 같다”고 했다. 지난해 10월엔 미혼모 시설을 방문해 아이들을 돌봤고, 올해 4월엔 중증 장애인 시설을 찾아 자신의 기부금이 어떻게 쓰이는지를 봤다. 권씨는 “젊었을 적 다양하게 기부 못 해본 게 아쉽다”며 “훗날 재산을 사후에 기부하는 ‘유산 기부’도 해보고 싶다”고 했다.&lt;br&gt;&lt;br&gt;/대구=오유진 기자&lt;br&gt;&lt;br&gt;&lt;b&gt;아너 소사이어티 가입문의 080-890-1212&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>비둘기 먹이 줬다간 과태료 최대 100만원 </title>
-      <link>https://www.chosun.com/national/national_general/2024/12/23/D3E3NX5SD5D2NBHGTVHOFLWBWM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/23/D3E3NX5SD5D2NBHGTVHOFLWBWM/</guid>
-      <dc:creator>박진성 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 22 Dec 2024 16:06:46 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/C2WPR6VYGFD2DGOG2RNMMVBSRQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 6월 13일 서울 종로구 종각역 앞 ‘비둘기에게 모이를 주지 말라’는 현수막 아래 비둘기들이 앉아 있다. /박상훈 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;내년 3월부터 서울 광화문광장과 한강공원, 서울숲 등에서 비둘기, 까치에게 먹이를 주다가 적발되면 최대 100만원의 과태료를 내야 한다.&lt;br&gt;&lt;br&gt;22일 서울시에 따르면, 시는 이러한 내용의 ‘유해 야생동물 먹이 주기 금지 구역’ 지정을 검토 중이다. 내년 2월까지 금지 구역을 확정해 3월부터 과태료를 부과한다는 계획이다. 서울시 내 한강공원 11곳, 종로구 광화문광장, 성동구 서울숲, 마포구 월드컵공원 등을 우선 검토하는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;처음 적발되면 20만원, 두 번째 적발되면 50만원, 세 번째부터는 100만원씩을 부과할 계획이다.&lt;br&gt;&lt;br&gt;과태료 부과 대상인 유해 야생동물은 야생 생물 보호 및 관리에 관한 법률 시행규칙에 규정된 비둘기, 까치, 까마귀, 참새, 꿩, 민물가마우지, 고라니, 멧돼지, 청설모, 두더지 등이다.&lt;br&gt;&lt;br&gt;서울시 관계자는 “특히 비둘기는 분변, 깃털로 건물이나 문화재를 훼손·부식시키고 시민 건강과 생활에도 피해를 주고 있다”고 했다. 까치와 까마귀는 전신주 등 시설과 농작물에 피해를 준다는 이유로 유해 야생동물로 포함됐다.&lt;br&gt;&lt;br&gt;서울시가 과태료까지 부과하려는 것은 시민 민원이 많이 접수되고 있기 때문이다. 서울시에 접수된 비둘기 관련 민원은 2020년 667건에서 지난해 1432건으로 3년 새 2배가 됐다. 서울뿐아니라 부산, 울산 등도 과태료 신설을 검토하고 있다.&lt;br&gt;&lt;br&gt;세계적으로도 비둘기 등에게 먹이를 주면 과태료를 부과하는 나라가 많다. 환경부에 따르면, 일본 도쿄 오타구는 비둘기, 까마귀에게 먹이를 주면 5000엔(약 4만6000원)을 부과하고 있다. 싱가포르는 500싱가포르달러(약 53만원)를 부과한다.&lt;br&gt;&lt;br&gt;이탈리아나 영국은 주요 관광지를 찍어서 규제한다. 이탈리아 베네치아 산마르코광장은 500유로(약 75만원), 영국 런던 트래펄가광장은 50파운드(약 9만원)를 부과한다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>동대구역 ‘박정희 동상’ 논란 끝에 오늘 제막식</title>
-      <link>https://www.chosun.com/national/national_general/2024/12/23/75S2DQTJWNBYBH6UQ6SMBE6IZA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/23/75S2DQTJWNBYBH6UQ6SMBE6IZA/</guid>
-      <dc:creator>대구=노인호 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 22 Dec 2024 16:06:26 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZCV2YRTA4VJIZHHGQ6DK53QQIQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;'박정희 우상화 반대 범시민운동본부'가 22일 동대구역 광장에 대구시가 설치한 박정희 전 대통령 동상 앞에서 경찰과 대치하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대구 동대구역 광장에 박정희 전 대통령 동상이 생긴다. 대구시는 “23일 오후 2시 동대구역 광장에서 박 전 대통령 동상 제막식을 연다”고 22일 밝혔다.&lt;br&gt;&lt;br&gt;대구시는 앞서 지난 8월 동대구역 광장의 이름을 ‘박정희 광장’으로 바꾸고 높이 5m 크기의 표지판을 설치했는데 동상도 세우는 것이다.&lt;br&gt;&lt;br&gt;동대구역 광장에 세우는 동상은 높이 3m 크기로 예산 6억원을 들였다. 대구시는 내년에 남구 대명동에 조성하는 ‘박정희 공원’에도 박 전 대통령 동상을 세우기로 했다.&lt;br&gt;&lt;br&gt;일부 시민 단체와 야당은 반발하고 있다. ‘박정희 우상화 반대 범시민운동본부’는 이날 오후 동대구역 광장에서 기자회견을 열고 “박정희 동상은 시대 정신을 거스르는 퇴행”이라고 주장했다. 참가자 70여 명은 동상을 둘러싼 경찰과 약 20분간 대치했다. 동상 주변 바닥에 분필로 ‘독재자’ 등 단어를 쓰기도 했다. 23일 오전에는 더불어민주당 대구시당이 동대구역 광장에서 동상 설치를 규탄하는 기자회견을 열 예정이다.&lt;br&gt;&lt;br&gt;동대구역을 운영하는 국가철도공단과 법적 분쟁도 진행 중이다. 국가철도공단은 지난 13일 대구지법에 동상 설치를 중지하라는 가처분 신청을 냈다. 반면에 대구시는 광장 관리 권한은 대구시에 있어 문제가 없다는 입장이다.&lt;br&gt;&lt;br&gt;최근 대구, 경북 지역에서 잇따라 박 전 대통령 동상이 설치되고 있다. 지난 10월 경북 경산에 있는 영남대가 교내에 대학 설립자인 박 전 대통령의 동상을 세운 데 이어 지난 5일에는 경북 안동 경북도청 앞에도 8m 크기의 박 전 대통령 동상이 들어섰다. 박 전 대통령은 경북 구미에서 태어나 대구사범학교를 졸업했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>경찰 ‘계엄 국무회의, 절차적·실체적 하자 있다’ 결론</title>
       <link>https://www.chosun.com/national/court_law/2024/12/23/5XEDBRAR5JGA3MT7M2O3BVIIMI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/23/5XEDBRAR5JGA3MT7M2O3BVIIMI/</guid>
@@ -726,42 +762,6 @@
       <description/>
       <pubDate>Sun, 22 Dec 2024 15:52:16 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HISNJFURJBJ6JGM3APY7ZC2QC4.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;전국 수련병원 레지던트 1년차 실기시험일인 지난 17일 서울의 한 대학병원에서 의료진이 이동하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;교육부는 “현재 진행 중인 입시에서 의대 수시 미충원 인원의 정시 이월 중단은 불가능하다”라는 입장이다. 교육 당국은 수험생들의 큰 혼란과 함께, 대규모 소송전 등도 우려하고 있다.&lt;br&gt;&lt;br&gt;의대 정원의 정시 이월 중단이 현실적으로 어려운 가장 큰 이유는 ‘입시 안정성’이다. 각 대학들은 지난 5월 2025학년도 의대 입시 요강을 확정했다. 이때 수시 추가 모집에도 정원이 채워지지 않을 경우, 정시로 이월한다는 방침을 정해 통보했다. 그런데 한창 수시 모집 합격자 발표가 이뤄지고 있는 상황에서 갑자기 방침을 바꾼다면, 정부와 대학에 대한 신뢰성 문제로 이어질 수 있다는 것이다. 교육계 관계자는 “한창 합격자 발표를 하고 있는 도중에 모집 정원이나 입시 관련 방침을 바꾸는 것은 전례가 없는 일”이라고 했다.&lt;br&gt;&lt;br&gt;이주호 사회부총리 겸 교육부 장관은 지난 18일 국회 교육위원회에서 “(관련 법규와 규정을) 여러 차례 점검하고 검토해봤지만, 소송 가능성 등을 고려하면 정부로서는 한 치의 조정도 할 수 없다”고 했다. 정부는 2025학년도 의대 정원에 손을 댈 경우 의료 개혁 자체가 무산되는 상황도 우려하는 것으로 알려졌다. 앞서 의료계는 수시의 정시 이월 제한을 비롯해 예비 합격자 규모 축소, 학교 측에 학습 능력이 현저히 떨어지는 학생 선발 제한권 부여 등도 제안했다.&lt;br&gt;&lt;br&gt;수험생들과 학부모들의 강한 반발도 예상된다. 의대 증원 확대 방침에 따라 입시를 준비해온 수험생과 학부모들은 불이익을 봤다며 대학이나 정부를 상대로 소송을 제기할 가능성도 크다. 법조계에서는 “이미 수시 합격자 발표가 이뤄지는 과정에서 입시 제도 변동으로 모집 규모가 줄어든다면, 입시에 실패한 수험생들은 ‘축구 경기가 한창 진행되는 도중에 골대 크기가 줄어든 격’이라며 대학과 정부를 상대로 손해배상 청구 소송을 할 수 있다”고 분석했다.&lt;br&gt;&lt;br&gt;이 때문에 국회에서도 2025학년도 정원 대신 2026학년도 정원 조정을 협의하자는 목소리가 우세한 상황이다. 더불어민주당은 현재 고2가 입시를 치르는 2026학년도의 의대 정원을 줄일 수 있도록 하는 내용의 법률 개정안을 발의했다. 법정 의사 단체인 대한의사협회(의협)와 사전 교감하에 만들어진 민주당 강선우 의원의 ‘보건 의료 인력 지원법 개정안’은 ‘전 학년도 증원 규모에 따른 사회적 부작용 등을 이유로 증원 규모의 조정이 필요할 때 이를 감원할 수 있다’는 특례 조항을 추가한 것이 특징이다. 이 법안이 통과될 경우, 2025학년도에 의대 정원이 1497명 늘어났지만 2026학년도엔 줄일 수도 있는 법적 근거가 마련된다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘미스터트롯 ‘이찬원, 데뷔 4년 만에 KBS 연예대상</title>
-      <link>https://www.chosun.com/national/people/2024/12/23/2EK5Z5UMHZABHKNRAOUK4JR5PU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/12/23/2EK5Z5UMHZABHKNRAOUK4JR5PU/</guid>
-      <dc:creator>최보윤 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 22 Dec 2024 15:45:08 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IZERQLCILJGKPP6NC67YF2LFBE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;KBS 연예 대상 이찬원/KBS&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;TV조선 경연 프로그램 ‘미스터트롯’ 출신 가수 이찬원이 ‘2024 KBS 연예대상’ 시상식에서 대상을 받았다. 이찬원은 지난 21일 밤 방송된 KBS2 ‘2024 KBS 연예대상’에서 올해의 예능인상과 대상을 동시에 받았다.&lt;br&gt;&lt;br&gt;‘미스터트롯1′(2020년) 출전 당시 “10년 뒤 (지상파) 방송 3사 연예 대상 받기’를 목표로 꼽았던 그는 데뷔 4년 만에 KBS 대상을 품에 안은 것이다. 이찬원은 KBS에서 ‘불후의 명곡’과 ‘신상출시 편스토랑’ 등의 프로그램에 출연하며 가수를 넘어 예능인과 방송인으로서 자질을 보여줬다. 특히 KBS 프로그램에 자주 출연해 ‘KBS의 아들’이란 별칭을 얻기도 했다. 이찬원은 이날 초대 가수로 ‘진또배기’를 불렀고, 이준·이영지와 호흡을 맞춰 MC를 보면서 시상식을 종횡무진했다. 이찬원은 “2008년 ‘전국노래자랑’이란 프로그램을 통해 처음 KBS에 발을 디디고 2020년 데뷔해 KBS에서 상을 주셨다”며 “앞으로도 건전한 웃음, 건강한 웃음을 드리겠다”고 말했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/N3GAHFA6HVGBNIX7DPQ46IX6FA.png"&gt;&lt;figcaption&gt;&lt;small&gt;KBS 연예대상 최우수상 장민호/KBS&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한편, 이날 KBS 연예대상에선 같은 미스터트롯 출신 가수 장민호가 최우수상을 받아 ‘미스터트롯’ 출신들의 인기를 실감케 했다. 장민호는 ‘신상출시 편스토랑’ ‘사장님귀는 당나귀귀’ 등의 KBS 프로그램에 출연해왔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[부음] ‘1세대 정치 평론가’ 유창선</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2024/12/23/CE3PPIGPWBELPMLPTKGUGFSK6M/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2024/12/23/CE3PPIGPWBELPMLPTKGUGFSK6M/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Sun, 22 Dec 2024 15:43:46 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WD4NSKH2OFFNPP4HFX7ZV66VFE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;정치 평론가 유창선 인터뷰&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘한국의 1세대 정치 평론가’로 불리는 유창선(64)씨가 22일 별세했다. 고인은 연세대 사회학과 졸업 후 민주화 운동에 투신했다. 1991년 ‘꼬마 민주당’에 입당했고, 이부영 의원의 보좌관을 지내며 여의도 정치에 발을 들였다. 정치 평론을 시작한 것도 이즈음이다. 2019년 뇌종양 수술을 받은 뒤 투병과 재활을 거쳐왔다. 빈소는 서울대학교병원, 발인 24일 오전 10시 20분. (02) 2072-2033&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[부음] 김선희씨 별세 외</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2024/12/23/E6W25NMSKZGXBEGQXNGIWEJ2AY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2024/12/23/E6W25NMSKZGXBEGQXNGIWEJ2AY/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Sun, 22 Dec 2024 15:44:36 +0000</pubDate>
-      <content:encoded>▲&lt;b&gt;김선희 &lt;/b&gt;별세, &lt;b&gt;서문갑 &lt;/b&gt;아내상, &lt;b&gt;서태건 &lt;/b&gt;게임물관리위원장·&lt;b&gt;서주영&lt;/b&gt;·&lt;b&gt;서원건 &lt;/b&gt;연세장례식장사업소장 모친상=21일6시20분 신촌세브란스병원, 발인 24일7시, (02)2227-7500&lt;br&gt;&lt;br&gt;▲&lt;b&gt;유창선 &lt;/b&gt;시사평론가 별세=22일11시46분 서울대병원, 발인 24일10시20분, (02)2072-2033&lt;br&gt;&lt;br&gt;▲&lt;b&gt;주충열 &lt;/b&gt;한양대 화학과 교수 별세, &lt;b&gt;양홍열 &lt;/b&gt;남편상, &lt;b&gt;주연호 &lt;/b&gt;서울아산병원 교수·&lt;b&gt;주소령 &lt;/b&gt;한국섬유산업연합회 상근부회장·&lt;b&gt;주연준 &lt;/b&gt;JK소재 대표 부친상, &lt;b&gt;조남익&lt;/b&gt; 서울대 전기전자공학부 교수 장인상, &lt;b&gt;박현아 &lt;/b&gt;인제대 의대 교수·&lt;b&gt;김선미 &lt;/b&gt;JK소재 이사 시부상, &lt;b&gt;주나현 &lt;/b&gt;김앤장 변호사·&lt;b&gt;주시현 &lt;/b&gt;PWC 컨설턴트·&lt;b&gt;주상현&lt;/b&gt;·&lt;b&gt;주태현 &lt;/b&gt;뷰노 연구원 조부상, &lt;b&gt;조예진 &lt;/b&gt;보잉코리아 연구원·&lt;b&gt;조수경 &lt;/b&gt;한국사회복지협의회 주임 외조부상=21일9시39분 서울아산병원, 발인 24일9시, (02)3010-2000&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문으로 배우는 실용한자] 노병(老兵)</title>
-      <link>https://www.chosun.com/national/nie/chinese_character/2024/12/23/VF6JS4EQ3NB4ZD4YO6TG3JPSDQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese_character/2024/12/23/VF6JS4EQ3NB4ZD4YO6TG3JPSDQ/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Sun, 22 Dec 2024 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OED3STTBZBHXNOZZDF77GWGQ5I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[오늘의 날씨] 2024년 12월 23일</title>
