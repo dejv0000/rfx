@@ -13,6 +13,44 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>홍성서 LPG가스통 폭발해 주택 무너져… 70대 집주인 부상</title>
+      <link>https://www.chosun.com/national/regional/chungcheong/2024/12/23/PVGCGDXUBFGIFKB6A3FXTSYHIY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2024/12/23/PVGCGDXUBFGIFKB6A3FXTSYHIY/</guid>
+      <dc:creator>홍성=김석모 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 23 Dec 2024 09:16:05 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7M6DFXSC2VJSZJL4OVWBZZ6JMM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;23일 오후 2시 44분쯤 충남 홍성군 광천읍 신진리 한 단독주택에서 LPG 가스통이 폭발했다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;충남 홍성군 한 주택에서 액화석유가스(LPG)통이 폭발해 건물 일부가 무너져 1명이 다쳤다.&lt;br&gt;&lt;br&gt;충남소방본부에 따르면 23일 오후 2시 44분쯤 홍성군 광천읍 신진리 한 단독주택에서 LPG 가스통 폭발 사고가 발생했다. 소방당국은 “이웃집에서 폭발하는 소리가 났다”는 신고를 받고 출동했다.&lt;br&gt;&lt;br&gt;119구조대가 현장에 도착했을 당시 주택의 지붕과 벽체 일부가 무너져 있었고, 집 안에는 A(70대)씨가 쓰러져 있었다고 한다. A씨는 3도 화상을 입고 병원으로 옮겨져 치료를 받고 있다.&lt;br&gt;&lt;br&gt;소방당국은 집 안에 있던 미사용 LPG통이 폭발했다는 A씨의 진술 등을 토대로 정확한 사고 원인을 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/7M6DFXSC2VJSZJL4OVWBZZ6JMM.jpg?width=1306&amp;height=602&amp;auth=ef2651109fd894aa4c6d123163f808c6e4a096a845da30f141347e871de5845e&amp;smart=true" type="image/jpeg" height="602" width="1306">
+        <media:description type="plain">&lt;YONHAP PHOTO-4186&gt; LP가스 폭발로 홍성 주택 붕괴
+    (홍성=연합뉴스) 23일 오후 2시 44분께 충남 홍성군 광천읍 신진리의 한 단독주택이 LP 가스 폭발 사고로 무너졌다. 2024.12.23 [충남소방본부 제공. 재판매 및 DB 금지]
+    coolee@yna.co.kr/2024-12-23 17:55:13/
+&lt;저작권자 ⓒ 1980-2024 ㈜연합뉴스. 무단 전재 재배포 금지, AI 학습 및 활용 금지&gt;</media:description>
+        <media:credit role="author" scheme="urn:ebu">대전충남취재본부</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>서초구, 2달 만에 또 성비위 발생…가해자 ‘직위해제’</title>
+      <link>https://www.chosun.com/national/national_general/2024/12/23/K46J54KPDZD3BFAIFAGYBIIBEQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/23/K46J54KPDZD3BFAIFAGYBIIBEQ/</guid>
+      <dc:creator>김영우 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 23 Dec 2024 09:10:47 +0000</pubDate>
+      <content:encoded>두 달 전 직원 3명이 강제추행 혐의로 직위해제됐던 서울 서초구에서 최근 또 다시 성추행 사건이 발생한 것으로 확인됐다. 서초구는 경찰의 수사 개시 통보를 받고 즉시 가해자를 직위해제했다고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KKC4ZYFC2S4FZXTI4UPMEGUWEU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서초구청 전경. /서초구&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;23일 서초구에 따르면, 구는 지난 18일 서울 중부경찰서로부터 과장급 공무원 A씨를 강제추행 혐의로 입건해 조사하고 있다는 통보를 받았다. A씨는 이달 초 회식 자리에서 같은 과 소속 여성 주무관의 신체 부위를 만진 혐의를 받는다.&lt;br&gt;&lt;br&gt;서초구는 ‘A씨를 수사하고 있다’는 경찰 통보를 받고 즉시 A씨를 직위해제했다고 밝혔다. 서초구 관계자는 “성 비위 무관용 원칙에 따른 것”이라고 말했다.&lt;br&gt;&lt;br&gt;앞서 지난 10월에도 서초구는 여성 직원을 성추행하고 방조한 혐의를 받는 서초구 소속 공무원 3명을 직위해제했다. 당시 서초구는 “사건이 재발하지 않도록 간부들을 대상으로 공직 기강 특별 교육을 실시했다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[단독] 노상원 계엄 수첩, ‘사살’ 단어도 적혀 있었다</title>
+      <link>https://www.chosun.com/national/national_general/2024/12/23/5HESL4MCUBEN7KI6QPSIVDY62A/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/23/5HESL4MCUBEN7KI6QPSIVDY62A/</guid>
+      <dc:creator>구아모 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 23 Dec 2024 08:18:14 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2KVKBQNC5QQ6SSHNN4PFA2ROSU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;우종수 경찰청 국가수사본부장이 23일 서울 여의도 국회에서 열린 행정안전위원회 전체회의에서 의원 질의에 답하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘12·3 비상계엄 사태’를 수사 중인 경찰이 노상원 전 정보사령관의 수첩에 ‘사살’이라는 표현이 적혀 있었다는 사실을 확인했다.&lt;br&gt;&lt;br&gt;우종수 경찰청 국가수사본부장은 23일 국회 행정안전위원회 현안질의에 출석해 ‘수첩에 정치인, 언론인, 종교인에 대해 수거 대상이라고 얘기했는데 사살이라는 표현이 있었냐’는 윤건영 더불어민주당 의원 질의에 “저희가 조사한 내용, 사실에 부합한다”고 답했다.&lt;br&gt;&lt;br&gt;우 본부장이 무엇이 사실과 부합한다고 명시적으로 대답하지는 않은 가운데, 경찰 관계자는 수첩에 ‘사살’이라는 표현도 적시됐다고 본지에 확인했다. 경찰이 확보한 손바닥 크기의 60~70페이지 분량의 수첩엔 ‘NLL에서 북의 공격을 유도’ ‘국회봉쇄’ 등의 표현도 적힌 것으로 파악됐다.&lt;br&gt;&lt;br&gt;이외에도 정치인, 언론인, 종교인, 노조, 판사, 공무원 등이 적혀있었고 이들을 ‘수거’하라는 표현도 적혀있었다. 경찰 관계자는 “수거는 체포를 의미한 것으로 보인다”고 했다. 대상자들을 체포한 이후 수용하고 처리할 것인지에 대한 메모도 수첩에 적혀있었다고 경찰은 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/RW5JMT62T3POAKSYWWRXSLCU3I.jpg?width=720&amp;height=402&amp;auth=2e1a1823de25fe115a175f56c7ad31411f1f435b5075f4c60c619d4226d4d3d5&amp;smart=true" type="image/jpeg" height="402" width="720">
+        <media:description type="plain">노상원 전 정보 사령관. /뉴시스</media:description>
+        <media:credit role="author" scheme="urn:ebu"/>
+      </media:content>
+    </item>
+    <item>
       <title>이기흥 “정부 고위 관료가 불출마 종용, 이대로 물러나는게 무책임” </title>
       <link>https://www.chosun.com/national/national_general/2024/12/23/6WNRZEUOUFDNFI4CRINVVX53O4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/23/6WNRZEUOUFDNFI4CRINVVX53O4/</guid>
@@ -715,33 +753,6 @@
       <description/>
       <pubDate>Sun, 22 Dec 2024 15:44:36 +0000</pubDate>
       <content:encoded>▲&lt;b&gt;김선희 &lt;/b&gt;별세, &lt;b&gt;서문갑 &lt;/b&gt;아내상, &lt;b&gt;서태건 &lt;/b&gt;게임물관리위원장·&lt;b&gt;서주영&lt;/b&gt;·&lt;b&gt;서원건 &lt;/b&gt;연세장례식장사업소장 모친상=21일6시20분 신촌세브란스병원, 발인 24일7시, (02)2227-7500&lt;br&gt;&lt;br&gt;▲&lt;b&gt;유창선 &lt;/b&gt;시사평론가 별세=22일11시46분 서울대병원, 발인 24일10시20분, (02)2072-2033&lt;br&gt;&lt;br&gt;▲&lt;b&gt;주충열 &lt;/b&gt;한양대 화학과 교수 별세, &lt;b&gt;양홍열 &lt;/b&gt;남편상, &lt;b&gt;주연호 &lt;/b&gt;서울아산병원 교수·&lt;b&gt;주소령 &lt;/b&gt;한국섬유산업연합회 상근부회장·&lt;b&gt;주연준 &lt;/b&gt;JK소재 대표 부친상, &lt;b&gt;조남익&lt;/b&gt; 서울대 전기전자공학부 교수 장인상, &lt;b&gt;박현아 &lt;/b&gt;인제대 의대 교수·&lt;b&gt;김선미 &lt;/b&gt;JK소재 이사 시부상, &lt;b&gt;주나현 &lt;/b&gt;김앤장 변호사·&lt;b&gt;주시현 &lt;/b&gt;PWC 컨설턴트·&lt;b&gt;주상현&lt;/b&gt;·&lt;b&gt;주태현 &lt;/b&gt;뷰노 연구원 조부상, &lt;b&gt;조예진 &lt;/b&gt;보잉코리아 연구원·&lt;b&gt;조수경 &lt;/b&gt;한국사회복지협의회 주임 외조부상=21일9시39분 서울아산병원, 발인 24일9시, (02)3010-2000&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[매일매일 중국어 한마디] 백업하다, 백업 파일</title>
-      <link>https://www.chosun.com/national/nie/chinese/2024/12/23/VX7E7QRXNJGBZIWXHKKPCB3K5M/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese/2024/12/23/VX7E7QRXNJGBZIWXHKKPCB3K5M/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Sun, 22 Dec 2024 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QEXFAIP3FZEQNED436NKGRND2Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[입에 착착 붙는 일본어] 서둘러 돌아가다</title>
-      <link>https://www.chosun.com/national/nie/japanese/2024/12/23/53JMN3J6TFHKJBT7LSMB2Y4HHM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/japanese/2024/12/23/53JMN3J6TFHKJBT7LSMB2Y4HHM/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Sun, 22 Dec 2024 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/P3I324J7VJCYXCVLZ3H4XYZTO4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[두근두근 뇌 운동] [2528] 돌려라 룰렛 계산기</title>
-      <link>https://www.chosun.com/national/nie/2024/12/23/QY4MATKYJZGP3AUO5GO7WG6ME4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/12/23/QY4MATKYJZGP3AUO5GO7WG6ME4/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Sun, 22 Dec 2024 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EYPM26HLRZFZJIBK6GPYY5PPU4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[신문으로 배우는 실용한자] 노병(老兵)</title>
