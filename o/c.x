@@ -13,6 +13,52 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>심장병 환자의 유일한 희망 ‘인공심장 수술’…삼성서울병원, 국내 첫 200건 달성</title>
+      <link>https://www.chosun.com/national/welfare-medical/2024/12/25/TDGQOCFZLBHFDFFD6BPH5ZCKZY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/12/25/TDGQOCFZLBHFDFFD6BPH5ZCKZY/</guid>
+      <dc:creator>오경묵 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 25 Dec 2024 04:48:07 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ABGFS2WQMJHIXFOYRWL5RELHIE.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;삼성서울병원에서 200번째로 '좌심실 보조장치' 수술을 받은 A(왼쪽 첫번째)씨가 주치의인 김다래(왼쪽 두번째) 순환기내과 교수, 수술을 집도한 조양현(왼쪽 세번째) 심장외과 교수, 최진오 중증심부전팀장(순환기내과 교수)에게 치료 결과를 듣고 있는 모습. /삼성서울병원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;삼성서울병원은 ‘인공심장’이라 불리는 좌심실 보조장치 수술 200례를 국내 최초로 돌파했다고 25일 밝혔다.&lt;br&gt;&lt;br&gt;좌심실 보조장치 수술은 말기 심부전으로 심장이식을 기다리기 어렵거나, 이식이 불가능한 경우 유일한 희망으로 꼽힌다. 삼성서울병원은 2012년 첫 수술을 시행한 후 2016년 국내에서 가장 먼저 인공심장 클리닉을 개설했고, 지난달 중순 200번째 수술을 마쳤다.&lt;br&gt;&lt;br&gt;200번째 수술 환자는 30대 남성 A씨로, 출생 직후 선천성 심장병 수술을 받았으나 수년 전 심부전(심장 기능 저하)이 발병했다. 올해 초 중증 심부전으로 악화해 11월 중순 수술을 받았다. 최근 외래 진료를 통해 건강 상태를 확인한 결과 일상생활이 가능할 만큼 안정적이었다.&lt;br&gt;&lt;br&gt;삼성서울병원 관계자는 “중증 심부전 환자 치료에서 좌심실 보조장치가 ‘게임체인저’로 자리매김한 것”이라고 했다.&lt;br&gt;&lt;br&gt;이 병원에서 좌심실보조장치 수술을 받은 환자 202명을 분석한 결과, 생존 퇴원율은 95%, 3년 생존율도 80%에 달했다. 심장이식 후 생존율과 큰 차이가 없다는 것이 삼성서울병원의 설명이다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>이름 표기 위치 정해 ‘짬짜미 투표’...안양시의회 민주당 의원들 항소심도 벌금형 </title>
+      <link>https://www.chosun.com/national/regional/2024/12/25/IYFXLOFL7VCPVNZTVRW2HEFYTQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/12/25/IYFXLOFL7VCPVNZTVRW2HEFYTQ/</guid>
+      <dc:creator>권상은 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 25 Dec 2024 04:43:58 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EJ2QOWUIYVCGJHRXCVBOE2CKI4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2020년 9월 14일 안양지역 시민단체가 안양시의회 앞에서 부정선거를 규탄하며 항의하고 있다. /안양시의회 의장선출 부정선거 시민사회단체 대책위원회&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 2020년 안양시의회 의장 선출 과정에서 이탈표를 막기 위해 사전에 약속한 투표용지 위치에 이름을 적는 방식으로 사실상 공개·기명투표를 공모한 더불어민주당 전·현직 시의원들이 파기환송심에서도 벌금형을 선고받았다.&lt;br&gt;&lt;br&gt;25일 법조계에 따르면 수원지법 형사항소6-3부(재판장 김은정)는 위계공무집행방해 혐의로 기소된 A씨 등 전·현직 시의원 3명에 대한 항소심에서 원심판결을 파기하고 각각 벌금 200만원을 선고했다. 이들은 1심에서는 벌금 300만원을 선고받았다.&lt;br&gt;&lt;br&gt;제8대 경기 안양시의회 민주당 시의원이던 A씨 등은 2020년 후반기 의장에 B시의원을 선출하기로 내정하고 투표용지에 상·하·좌·우 등 가상의 구획을 나눠 의원마다 기표할 위치를 미리 정해놓는 방법으로 투표한 혐의를 받는다. 또 약속을 지키지 않은 의원을 확인할 수 있도록 감표위원을 내정하기도 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5IU2GGIYVJGWZN7H4FU7GSTBVU.PNG"&gt;&lt;figcaption&gt;&lt;small&gt;2020년 7월 안양시의회 의장 선거 당시 투표용지. 1번과 2번(빨간색)을 제외하고는 모두 미리 약속한 위치에 달리 표기했다.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;1심은 A씨 등과 공모하지 않은 다른 당 소속 시의원들, 투·개표업무에 관여한 감표위원, 무기명투표 원칙에 따라 의장선거를 공정하게 진행하는 사무국장 등의 정당한 직무집행을 각각 방해한 것으로 판단해 벌금형을 선고했다.&lt;br&gt;&lt;br&gt;A씨 등은 1심 판결에 불복해 항소했으나 기각되자 대법원에 상고했고, 대법원은 “피고인들의 행위로 공모하지 않은 의원들에 대해서도 위계에 의한 공무집행방해죄가 성립한다고 판단한 것에 잘못이 있다”며 항소심 재판부로 파기 환송했다.&lt;br&gt;&lt;br&gt;이에 항소심 재판부는 “공모하지 않은 의원들은 본래의 의도대로 투표했을 뿐 피고인 등의 행위로 인하여 오인·착각·부지를 일으켜 그릇된 처분이나 행위를 했다고 보이지 않는다”며 공소사실 중 이 부분에 대한 공무집행방해죄는 무죄로 판단했다.&lt;br&gt;&lt;br&gt;그러면서 “이 사건은 시의원인 피고인들이 위계로써 민주주의의 근간을 이루는 선거와 관련한 공무를 방해한 것으로 죄질이 좋지 않다”며 “피고인들은 이 사건 이전에 형사처벌을 받은 전력이 없는 점은 유리한 정상”이라고 양형 이유를 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>성탄절 새벽 만취 10대가 몰던 오토바이에 ‘쾅’… 30대 남성 중태</title>
+      <link>https://www.chosun.com/national/incident/2024/12/25/S6A5MJ7OEFGVTJRVO7OAQBDK4E/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/12/25/S6A5MJ7OEFGVTJRVO7OAQBDK4E/</guid>
+      <dc:creator>강릉=정성원 기자</dc:creator>
+      <description>크리스마스인 25일 새벽 만취 상태의 10대가 몰던 오토바이에 30대 남성이 치여 중태에 빠졌다.이날 오전 1시 36분쯤 강릉시 입암동 한 아파트 인근 도로에서 만취상태로 오토바이를 몰던 10대 A군이 마주 오던 30대 B씨를 들이받았다.</description>
+      <pubDate>Wed, 25 Dec 2024 04:09:15 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HGAKBWAMQ3BN4KVHRVF4OLOEOA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;강릉경찰서 전경/뉴스1
+&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;크리스마스인 25일 새벽 만취 상태의 10대가 몰던 오토바이에 30대 남성이 치여 중태에 빠졌다.&lt;br&gt;&lt;br&gt;이날 오전 1시 36분쯤 강릉시 입암동 한 아파트 인근 도로에서 만취상태로 오토바이를 몰던 A군이 마주 오던 B씨를 들이받았다.&lt;br&gt;&lt;br&gt;이 사고로 B씨가 머리 등을 크게 다쳤다. B씨는 의식이 없는 상태로 원주의 한 대학병원으로 옮겨졌으며 현재까지 의식을 되찾지 못한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰은 현장에서 A군을 상대로 음주 측정을 진행한 결과, 혈중알코올농도는 면허 취소 수준인 0.08%를 넘어선 것으로 조사됐다.&lt;br&gt;&lt;br&gt;경찰은 A군을 교통사고처리특례법 위반 등 혐의로 붙잡아 조사를 하는 한편 목격자를 상대로 정확한 사고 경위를 조사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘2036 서울올림픽’ 사전타당성 조사 결과 “경제성 있다”</title>
+      <link>https://www.chosun.com/national/national_general/2024/12/25/Y66ZZQLEXFFAZEMQ5UTX5YBBDY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/25/Y66ZZQLEXFFAZEMQ5UTX5YBBDY/</guid>
+      <dc:creator>김영우 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 25 Dec 2024 03:41:58 +0000</pubDate>
+      <content:encoded>서울시는 지난 5~11월 진행한 ‘2036 서울올림픽 유치를 위한 사전타당성 조사’ 결과 편익/비용 비율(B/C)이 1.03으로 나타났다고 25일 밝혔다. B/C가 1을 넘기면 경제적 타당성을 확보했다는 것을 의미한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZQ34VNNYWZC5BCG6ZN6I2SVVMY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2036 서울올림픽이 열리게 될 서울 시내 경기장. /서울시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;조사 결과 올림픽 개최에 따른 총 비용은 5조833억원이 들 것으로 추산됐다. 경기 운영과 숙박, 문화행사 등 대회 운영비로 3조5405억원, 경기장 개보수와 임시 경기장 설치 등 시설비로 1조5428억원이 들 전망이다.&lt;br&gt;&lt;br&gt;서울시는 ‘1988 서울올림픽’ 경기장 재활용, 잠실주경기장 리모델링, 잠실 마이스 조성을 비롯해 광화문·한강 등에 임시 경기장을 설치하면 약 5조원으로도 대회 개최가 가능할 것으로 보고 있다. 경기, 인천, 부산, 강원 등 타 시·도에 있는 경기장도 공동으로 활용한다는 방침이다.&lt;br&gt;&lt;br&gt;서울시 관계자는 “올해 열린 파리올림픽은 12조3000억원이 들었던 것을 생각하면 절반도 안 되는 비용”이라고 말했다.&lt;br&gt;&lt;br&gt;올림픽 개최에 따른 총 편익은 4조4707억원으로 추산됐다. 마케팅이나 티켓 판매 수익 등 조직위원회 자체 수입 2조5400억원과 비시장적 편입 1조9307억원 등이 합산된 액수다.&lt;br&gt;&lt;br&gt;한편 타당성 조사의 일환으로 지난 7~8월 진행된 설문조사에서는 서울시민 500명 중 85.2%가 “올림픽 유치에 찬성한다”고 답했다. 또 93.8%는 “서울올림픽이 성공적으로 개최될 것”이라고 답했다.&lt;br&gt;&lt;br&gt;서울시는 올림픽 유치를 위해 지난달 12일 대한체육회에 ‘개최계획서’를 제출했다. 오는 26~27일 현장 실사를 앞두고 있다.&lt;br&gt;&lt;br&gt;오세훈 서울시장은 “2036 서울올림픽은 서울, 나아가 한국이 도약하는 발판이 될 것”이라며 “유치가 확정되면 모든 역량을 쏟겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>장안평 중고차매매센터, 36층 오피스텔로...서울시 건축 심의 통과</title>
+      <link>https://www.chosun.com/national/national_general/2024/12/25/AX5FYRFORFC3DKQONV3BRZVKHI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/25/AX5FYRFORFC3DKQONV3BRZVKHI/</guid>
+      <dc:creator>최연진 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 25 Dec 2024 03:51:00 +0000</pubDate>
+      <content:encoded>우리나라 최초의 중고차 시장인 장안평 중고차 매매센터가 최고 36층 높이의 오피스텔을 포함한 복합 상업 시설로 바뀔 전망이다.&lt;br&gt;&lt;br&gt;서울시는 건축위원회를 열고 장안평 중고차 매매센터 도시정비형 재개발사업 건축 심의안을 통과시켰다고 25일 밝혔다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PQXVH432DFA2HPIUSES2OHPCOM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;장안평 중고차매매센터 재개발 배치도/서울시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WQQPMUQ725CDNIMFLXVGYGNOII.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;장안평 중고차매매센터 재개발 조감도/서울시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;통과된 심의안은 장안평 중고차 매매센터가 있는 성동구 용답동 234번지 일대에 지하 8층, 지상 최고 36층 규모 오피스텔 527실과 자동차 관련 시설, 공공기여 시설, 판매시설, 근린생활시설 등을 건립한다는 내용이다. &lt;br&gt;&lt;br&gt;건축위원회는 개방감이 느껴지는 디자인을 통해 건물로 인한 단절감을 최소화하도록 했다. 또 도로변에서 접근이 쉬운 장소에 생태숲과 잔디마당, 수경시설을 계획했다. 중앙광장형 휴게 공간도 생긴다.&lt;br&gt;&lt;br&gt;한병용 서울시 주택실장은 “주변 환경과 조화를 이루는 건축물을 조성하기 위해 노력하겠다”고 했다.&lt;br&gt;&lt;br&gt;장안평 중고차 매매센터는 국내 최초의 중고차 시장이다. 1979년 도심에 산재한 중고차 매매업소와 정비업체를 한데 모아 조성했다. 2015년 도시재생 활성화 지역으로 선정됐고, 2020년 재개발 조합 설립 인가가 났다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>빨강·노랑 사과나무, 크리스마스 트리로 변신…사과나무를 분재 형태로 개발</title>
       <link>https://www.chosun.com/national/regional/2024/12/25/RIWNQTRDMNBV3PFUYVI6JBNQNY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/12/25/RIWNQTRDMNBV3PFUYVI6JBNQNY/</guid>
@@ -843,15 +889,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DM7DM7NOVJBOJLCSXKDMVPVD5E.png"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;헌법재판소는 탄핵심판 관련 서류 수령을 거부하고 있는 윤석열 대통령에 대해 서류가 송달된 것으로 간주하기로 결정했다고 23일 밝혔다. 윤 대통령의 탄핵심판 사건의 심리 절차가 본격적으로 시작된 것이다.&lt;br&gt;&lt;br&gt;천재현 헌재 부공보관은 이날 언론 브리핑에서 “윤 대통령의 탄핵심판 관련 서류는 지난 19일 ‘발송 송달’로 보냈고, 20일 관저에 도달했다”며 “발송 송달의 효력은 소송 서류가 도달된 때에 발생한다”고 말했다. 지난 20일 관저에 도달했으나 대통령 경호처가 수취를 거부했기 때문에 헌재는 그날 윤 대통령에게 송달된 것으로 간주하겠다는 것이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SL6WWU7DAJCWDFRBUETSDVFISA.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=김성규&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;◇헌재 “예정대로 27일 준비 기일 진행”&lt;/b&gt;&lt;br&gt;&lt;br&gt;이에 따라 윤 대통령은 서류 송달일로부터 7일 뒤인 오는 27일까지 헌재에 답변서를 제출해야 한다. 답변서 제출이 의무사항은 아니지만, 탄핵심판 관련 절차에 성실히 응하지 않았다는 사정이 윤 대통령 측에게 불리하게 작용할 수는 있다. 헌재는 이와 별도로 윤 대통령 측에 계엄 관련 국무회의록과 계엄 포고령 1호 등을 24일까지 제출하라고 명령했다. 윤 대통령은 이 역시 수령을 거부하는 중이다.&lt;br&gt;&lt;br&gt;헌재는 윤 대통령 측의 대응과 상관없이 27일 1차 변론 준비 기일을 진행하겠다고 밝혔다. 이날 헌재는 탄핵 사유를 쟁점별로 압축하고, 구체적인 입증 방법 등을 논의할 예정이다.&lt;br&gt;&lt;br&gt;이후 헌재는 다음 달 중순까지 한두 차례 추가로 변론 준비 기일을 더 개최할 것으로 보인다. 박근혜 전 대통령의 탄핵심판 사건 당시에도 헌재는 총 세 차례 변론 준비 기일을 진행했다. 노무현 전 대통령 탄핵 때는 변론 준비 기일을 생략했었다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇1월 중순쯤부터 정식 ‘변론 기일’ 열릴 듯&lt;/b&gt;&lt;br&gt;&lt;br&gt;변론 준비가 마무리되면 정식 변론 기일이 열린다. 탄핵 사유에 대한 본격적인 심리가 시작되는 것이다. 법조계에선 1월 중순쯤으로 예상하고 있다. 변론 기일에서는 국회가 탄핵사유로 들었던 비상계엄 요건의 충족 여부, 포고령의 위헌성, 형법상 내란죄 위반 여부 등이 주된 쟁점으로 다뤄질 전망이다.&lt;br&gt;&lt;br&gt;헌재는 대통령 탄핵심판 사건에서 주 2회가량 변론 기일을 열어왔다. 박 전 대통령 때는 주 2회씩 17차례를, 노 전 대통령 때는 총 7차례 변론 기일을 진행했다. 이번 사건은 박 전 대통령 때보다 사건 구조가 단순하지만, 윤 대통령이 적극 대응 의지를 보이고 있는 만큼 변론 기일이 최소 10회 이상은 열릴 것이라는 전망이 우세하다. 이럴 경우 변론에만 2~3개월이 걸릴 것으로 보인다.&lt;br&gt;&lt;br&gt;변론 기일에는 주요 증인들에 대한 신문도 진행된다. 이번 탄핵심판에는 김용현 전 국방부 장관을 비롯해 비상계엄에 가담했던 군경 지휘부, 비상계엄 전후 국무회의에 참석했던 국무위원 등이 증인으로 출석할 것으로 보인다.&lt;br&gt;&lt;br&gt;최종 변론기일에서는 윤 대통령 측과 국회 측의 최후 진술이 진행된다. 윤 대통령이 직접 출석해 입장을 밝힐 가능성도 있다. 박 전 대통령은 최후 변론 때 서면 입장문을 변호사가 대독했고, 노 전 대통령은 별도의 입장 공개 없이 변호인단이 최후 진술을 했다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇약 2주간 평의, 평결 거쳐 최종 선고&lt;/b&gt;&lt;br&gt;&lt;br&gt;변론이 종결되면 재판관들이 서로 의견을 나누는 평의, 결론을 정하는 평결이 차례로 이뤄진다. 평의와 평결은 비공개로 진행되고, 통상 2주가 걸린다.&lt;br&gt;&lt;br&gt;이후 최종 선고가 열린다. 선고의 법정 시한은 탄핵소추 의결서 접수일로부터 180일이 되는 내년 6월 11일이다. 그러나 법조계에선 문형배·이미선 헌법재판관이 퇴임하는 내년 4월 18일 이전에 선고가 날 것이라는 관측이 우세하다.&lt;br&gt;&lt;br&gt;한편 윤 대통령은 고위공직자범죄수사처(공수처)가 지난 16일에 이어 두 번째 보낸 출석 요구서도 수령을 거부한 것으로 알려졌다. 공수처는 이날 “대통령실 총무비서관실, 부속실에 발송한 출석요구서는 ‘수취인 불명’, 대통령 관저에 보낸 요구서는 ‘수취 거절’인 것으로 우체국 시스템상으로 확인된다”고 했다. 공수처 관계자는 “윤 대통령이 출석하지 않으면 새로 날짜를 정해 3차 출석요구서를 보낼지, 곧바로 체포영장을 청구할지 등을 검토하겠다”고 했다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇“계엄 하나로 수사에 탄핵까지... 尹, 답답하다 토로”&lt;/b&gt;&lt;br&gt;&lt;br&gt;이에 대해 윤 대통령을 돕고 있는 석동현 변호사는 “국가 장래에 중요한 영향을 미치고 앞으로 헌정 체계에 중요한 시금석이 될 수 있는 심판 절차에 대해 당사자인 대통령으로서 준비가 필요하다”면서 “(윤 대통령은) 절대 시간을 끌겠다거나 피하겠다는 생각이 아니라 충실한 탄핵 심판이 필요하다는 생각”이라고 말했다. 공수처 출석 요구에 대해선 “대통령은 (수사보다) 탄핵 심판 절차가 우선돼야 한다고 본다”고 했다.&lt;br&gt;&lt;br&gt;석 변호사는 또 “비상계엄 하나로 수사하고, 탄핵하고 한다면 대통령이 바보냐. 왜 계엄을 했겠는가”라며 “윤 대통령이 ‘굉장히 답답하다’고 토로했다”고 전했다.&lt;br&gt;&lt;br&gt;&lt;b&gt;☞발송 송달&lt;/b&gt;&lt;br&gt;&lt;br&gt;소송 당사자가 관련 서류 수령을 거부할 경우, 서류를 등기우편 등으로 발송하고 이를 송달된 것으로 간주하는 것이다. 대법원은 1998년 판례를 통해 보충(동거인 등에 대신 전달)·유치(집 등에 놓아두기) 송달이 어려울 경우 우편으로 보내 도착 장소에 도달하면 송달의 효력이 발생한다고 밝힌 바 있다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[매일매일 중국어 한마디] 알아채다, 눈치채다</title>
-      <link>https://www.chosun.com/national/nie/chinese/2024/12/24/WDICLDFONNDYVMR6FXDZFZXVEE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese/2024/12/24/WDICLDFONNDYVMR6FXDZFZXVEE/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Mon, 23 Dec 2024 15:45:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GM4SYB7FXVDRBBXFAWB6PMOOWE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[두근두근 뇌 운동] [2529] 칙칙폭폭 꼬리 잇기</title>
       <link>https://www.chosun.com/national/nie/2024/12/24/MDKQHP4AIRBAVIOIUVDW5TUGEU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/12/24/MDKQHP4AIRBAVIOIUVDW5TUGEU/</guid>
@@ -859,42 +896,6 @@
       <description/>
       <pubDate>Mon, 23 Dec 2024 15:45:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/J6PIW3DCC5GLZCBJKBY6EGEYXQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문으로 배우는 실용한자] 복간(復刊)</title>
-      <link>https://www.chosun.com/national/nie/chinese_character/2024/12/24/EXIM2AVI3RASHAD74E3ID7IM2U/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese_character/2024/12/24/EXIM2AVI3RASHAD74E3ID7IM2U/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Mon, 23 Dec 2024 15:45:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Y7HBBTOAZZE27NS7RQQDTLX5F4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[입에 착착 붙는 일본어] 크리스마스 이브는 연인과 보내다</title>
-      <link>https://www.chosun.com/national/nie/japanese/2024/12/24/DXGE4NNSMNEKZNXWXC55AIUURQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/japanese/2024/12/24/DXGE4NNSMNEKZNXWXC55AIUURQ/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Mon, 23 Dec 2024 15:45:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7BSZEQ3PLRCQNBRTMJGZOWJREQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>이기흥 3선 출마 선언</title>
-      <link>https://www.chosun.com/national/national_general/2024/12/24/QV5LHOMQSFCRLBUDK5ZLR5KUUM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/24/QV5LHOMQSFCRLBUDK5ZLR5KUUM/</guid>
-      <dc:creator>장민석 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 23 Dec 2024 15:36:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LZQFKJEIDZHFZBOQB3GJG46LXQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이기흥 대한체육회장. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이기흥(69) 대한체육회장이 결국 3선 도전에 나선다. 이 회장은 23일 서울 송파구 올림픽파크텔에서 기자회견을 열고 내년 1월 14일 예정된 42대 체육회장 선거에 나서겠다고 발표했다. 2016년 통합 체육회 선거를 통해 회장직에 처음 오른 그는 2021년 1월 재선에 성공했고, 이번에 3선을 노린다.&lt;br&gt;&lt;br&gt;이 회장은 이날 정부 고위 관계자가 회장 선거 불출마를 종용하고 다른 고위직을 제안했다고 거듭 주장했다. 그는 “문화체육관광부(문체부) 사람은 아니고, 우리나라 최고 기관 고위직 관료라고 보면 된다”면서 “올림픽이 끝나고 그분이 차기 체육회장으로 한 재벌 오너가 어떻겠느냐고 해서 ‘체육회장이 생활 체육 등 챙길 게 많아 회장직에 전념해야 하는데 기업인은 어려울 것 같다’는 입장을 밝혔다”고 전했다. 이 회장은 이어 “역으로 그 고위 관료에게 강창희 전 국회의장 등을 차기 체육회장으로 추천했으나 받아들여지진 않았다”며 “11월엔 ‘웬만하면 손 털고 (체육회에서) 나오라’고 얘기하는 걸 여러 루트로 전해 들었다”고 덧붙였다.&lt;br&gt;&lt;br&gt;3선 도전을 선언한 이 회장은 전방위적 압박을 받고 있다. 11월 국무조정실 정부합동 공직복무점검단이 대한체육회 비위 여부를 점검한 결과를 발표하며 직원 부정 채용, 물품 후원 요구 등 혐의로 8명을 수사 의뢰했다. 문체부는 국조실 점검단 발표를 근거로 이 회장 직무를 정지했다. 이 회장은 직무 정지 처분 효력을 중단해 달라고 법원에 신청했지만 기각됐다. 서울경찰청 반부패수사대는 지난 18일 대한체육회 사무실 등 8곳을 압수 수색했다. 지난달 말엔 감사원이 부당한 체육계 관행을 개선하겠다며 특별 감사에 착수했다.&lt;br&gt;&lt;br&gt;이 회장은 자신을 둘러싼 의혹에 대해 모두 사실이 아니라고 주장한 뒤 “대한민국 모든 권력기관이 체육회 조사에 나서고 있는 상황에서 정리를 반드시 해야겠다는 생각을 했다. 나를 ‘악마화’하고 있는데 물러서면 무책임하게 모든 걸 인정하게 되는 것”이라고 말했다. 그는 이어 “(체육회장은) 선출직으로 장관이 임명한 자리가 아니기 때문에 직무 정지를 시키려면 대의원 총회를 거쳐야 한다. 문체부 직무 정지는 잘못된 것”이라며 “무죄 추정 원칙은 지켜져야 한다. 수사기관 조사가 아직 끝나지 않았으니 더 지켜보자”고 덧붙였다.&lt;br&gt;&lt;br&gt;이 회장에 맞서 체육회장 출마를 선언한 박창범(55) 전 대한우슈협회장과 강신욱(68) 단국대 명예교수, 안상수(78) 전 인천시장, 강태선(75) 서울체육회장, 유승민(42) 전 대한탁구협회장 등은 단일화를 논의 중이지만 아직 합의에 이르지 못한 상태다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[인사] 국토교통부 외</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2024/12/24/TWJGIVNQTNAU5NYG65JPEAZ33E/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2024/12/24/TWJGIVNQTNAU5NYG65JPEAZ33E/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Mon, 23 Dec 2024 15:34:00 +0000</pubDate>
-      <content:encoded>▲&lt;b&gt;국토교통부&lt;/b&gt;▷공항정책과장 박문수▷홍보담당관 정천우▷운영지원과장 김기용▷혁신행정담당관 박정호▷도시정책과장 정진훈&lt;br&gt;&lt;br&gt;▲&lt;b&gt;인사혁신처&lt;/b&gt;▷인사관리국 성과급여과장 이석희&lt;br&gt;&lt;br&gt;▲&lt;b&gt;특허청&lt;/b&gt;▷한류상표우선심사과장 김종수▷국제지식재산연수원 국제교육과장 송석민&lt;br&gt;&lt;br&gt;▲&lt;b&gt;CBS&lt;/b&gt;◇본사▷미래혁신위원회 본부장 구용회▷콘텐츠본부장 도성해▷마케팅사업본부장 정재훈▷논설위원실장 이재웅▷선교TV본부 선교기획국장 김양선▷경인방송본부장 임미현◇지역본부▷대구방송본부장 방주화▷울산〃 이용문▷포항〃 이진백&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[오늘의 날씨] 2024년 12월 24일</title>
