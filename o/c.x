@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>﻿“애플워치 팔아요” 2억 가로챈 중고사기범, 성탄절 강제송환</title>
+      <link>https://www.chosun.com/national/national_general/2024/12/26/GGIL4QZYTFF4HBCBU5VX7RAFOE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/26/GGIL4QZYTFF4HBCBU5VX7RAFOE/</guid>
+      <dc:creator>이가영 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 25 Dec 2024 22:10:41 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GOZPNUHXBZE5RGXBTWX42HHWDU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;사기 혐의를 받는 20대 남성이 25일 인천국제공항을 통해 강제송환되고 있다. /경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;애플워치 등을 판다는 허위 글로 780명으로부터 2억원을 가로챈 상습 중고 사기범이 일본에서 강제 송환됐다. &lt;br&gt;&lt;br&gt;경찰청은 사기 혐의를 받는 20대 남성 A씨를 25일 인천국제공항을 통해 강제 송환했다고 밝혔다. &lt;br&gt;&lt;br&gt;A씨는 일본으로 건너가 지난해 7월부터 올해 4월까지 중고 거래 사이트와 X(옛 트위터) 등을 통해 사기 행각을 벌였다. 주로 유명 가수 콘서트나 애플워치 등을 판매한다면서 “거래대금을 선입금하면 택배로 물품을 보내겠다”고 속여 780명에게 약 2억원을 받아 챙겼다. &lt;br&gt;&lt;br&gt;신고를 접수한 경북 울진경찰서 등은 A씨를 수배했고, 경찰청은 국제형사경찰기구(인터폴) 적색수배서를 발부받은 뒤 ‘핵심’ 등급 도피 사범으로 지정해 집중 추적에 나섰다. &lt;br&gt;&lt;br&gt;때마침 일본 후쿠오카 경찰은 지난 7월 다른 사건으로 신고받고 출동한 현장에서 A씨를 발견했고, 인터폴 적색수배 사실을 확인한 후 즉시 검거했다. 경찰청은 A씨의 현지 형사재판이 종료된 25일 국내로 송환했다. &lt;br&gt;&lt;br&gt;경찰은 기존에 접수된 사건뿐 아니라 일본 입국 전 A씨가 국내에서 저지른 추가 범행 여부 등에 대해 수사를 이어 나갈 예정이다. &lt;br&gt;&lt;br&gt;경찰청은 “최근 급증하는 중고 거래 사기 등 민생 침해 악성 사기 범죄들은 국제공조 역량을 결집해 끝까지 쫓겠다”고 밝혔다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>무당 전성시대… 유튜브에 ‘예언 콘텐츠’ 쏟아지고, 점집엔 긴 줄</title>
       <link>https://www.chosun.com/national/national_general/2024/12/26/MYFNVV4VBFERXB4F4EQ34F2ETU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/26/MYFNVV4VBFERXB4F4EQ34F2ETU/</guid>
@@ -874,15 +883,6 @@
       <description/>
       <pubDate>Tue, 24 Dec 2024 06:41:39 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NRUDACGQ2NOWXAFR3OIEV6ZRBQ.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;송민호. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그룹 위너의 송민호가 사회복무요원 부실 복무 논란에 휩싸인 가운데, 오세훈 서울시장이 사회복무요원 실태 전수조사를 지시했다. &lt;br&gt;&lt;br&gt;오 시장은 24일 페이스북을 통해 “최근 사회복무요원으로 근무한 한 연예인의 복무 태만 논란이 제기됐다”며 “이에 저는 서울시 및 산하기관을 대상으로 하는 ‘사회복무요원 복무 실태 긴급 전수조사’를 지시했다”고 했다. &lt;br&gt;&lt;br&gt;오 시장은 “맡은 자리에서 시민의 일상을 지키며 성실히 병역 의무를 이행하는 요원이 대다수일 것”이라며 “일부의 복무 태만으로 인해 사회적 박탈감이 발생하고 병역 의무에 대한 반감이 커지는 일은 결코 있어서는 안 된다”고 했다. 그러면서 “조사 결과에 따라 엄중히 조치하고, 필요시 공정한 병역의무를 위한 제도개선도 병무청에 적극 건의하겠다”고 했다.&lt;br&gt;&lt;br&gt;앞서 디스패치는 서울 마포주민편익시설에서 사회복무요원으로 대체 복무 중인 송민호가 지난 10월 31일 미국 하와이로 5박 6일 여행을 떠났다 돌아온 이후 제대로 출근하지 않았다는 의혹을 제기했다. 매체는 ‘송민호가 3월 이후 제대로 출근하지 않는다’ ‘가끔 나타나 (출근) 사인을 몰아서 하고 사라진다’ 등의 제보를 토대로 11월부터 12월초까지 10차례 이상 마포편익시설을 방문했으나, 단한번도 송민호를 보지 못했다고 보도했다.&lt;br&gt;&lt;br&gt;소속사 YG 측이 “병가와 휴가는 규정에 맞춰 사용했다”고 해명했으나, 이전 근무지인 마포시설관리공단에서 송민호와 함께 일했던 사회복무요원들이 재차 송민호가 제대로 근무를 하지 않았다는 취지의 인터뷰를 하면서 논란은 이어졌다. &lt;br&gt;&lt;br&gt;이 가운데 송민호는 지난 23일 사회복무요원에서 소집해제 됐다. 연합뉴스 등에 따르면, 송민호는 근무 마지막 날에도 병가를 내고 출근하지 않은 것으로 전해졌다. &lt;br&gt;&lt;br&gt;병무청은 송민호의 복무 관련 의혹에 대해 조사 중인 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>자전거로 횡단보도 건너던 고교생, 우회전 차에 치여 숨져</title>
-      <link>https://www.chosun.com/national/regional/2024/12/24/7YXDASXIDVDHDJSH7PZSV7KECQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/12/24/7YXDASXIDVDHDJSH7PZSV7KECQ/</guid>
-      <dc:creator>안산=권상은 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 24 Dec 2024 06:19:54 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G4LGDWQ5DTHNP5P5PED23V6LRE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;24일 오전 8시 41분쯤 경기 안산시 상록구 본오동 한 사거리에서 우회전하던 쏘렌토 차량이 자전거를 타고 횡단보도를 건너던 고교생 A(17)군을 들이받고, 이어 우측 인도로 돌진해 B(16)양 등 여고생 2명을 들이받았다.&lt;br&gt;&lt;br&gt;A군은 구급대원들에 의해 심정지 상태로 인근 병원에 옮겨졌으나 숨졌다. B양 등 2명은 부상으로 치료를 받았으며 생명에 지장은 없는 상태이다. 피해자들은 당시 인근의 학교로 등교하던 길이었던 것으로 파악됐다.&lt;br&gt;&lt;br&gt;당시 차량 운전자인 50대 여성 C씨는 보행 신호에 따라 횡단보도를 건너던 A군을 미처 보지 못하고 사고를 낸 것으로 나타났다. 또 당황한 C씨가 브레이크가 아닌 가속 페달을 밟으면서 차량이 인도로 돌진했던 것으로 경찰은 보고 있다.&lt;br&gt;&lt;br&gt;경찰은 교통사고 처리 특례법 위반(치사상) 혐의로 C씨를 형사 입건해 조사할 방침이다. &lt;br&gt;&lt;br&gt;경찰 관계자는 “사거리에서 전방에 주행 신호를 받았을 경우 우회전을 하려면 보행자가 있는지 확인하고 서행해야 한다”며 “자세한 사고 경위를 조사할 예정”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>오세훈 “국무회의 무력화는 헌정파괴…李, 선거 없이 대통령 역할하겠다는 것인가”</title>
