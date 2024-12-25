@@ -13,6 +13,28 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>온라인서 음란욕설... 대법 “성적 수치심 줄 목적 아니면 처벌 곤란”</title>
+      <link>https://www.chosun.com/national/court_law/2024/12/25/F6RJOVEH2RCZRMAFGY7LI7TCGY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/25/F6RJOVEH2RCZRMAFGY7LI7TCGY/</guid>
+      <dc:creator>박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 25 Dec 2024 11:21:59 +0000</pubDate>
+      <content:encoded>온라인에서 음란한 욕설을 해도 ‘성적(性的) 욕망’을 유발하려는 목적이 없었다면 처벌이 어렵다는 대법원 판단이 나왔다.&lt;br&gt;&lt;br&gt;대법원 1부(주심 서경환 대법관)는 성폭력범죄의 처벌 등에 관한 특례법 위반(통신매체 이용 음란) 혐의로 기소된 여성 A씨에게 벌금 500만원을 선고한 원심을 파기하고 사건을 서울중앙지법으로 돌려보냈다고 25일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 2021년 3월 리그 오브 레전드 온라인 게임상에서 처음 만난 20대 여성 B씨와 팀을 이뤄 게임을 했다. 그러다 A씨가 B씨를 ‘게임을 망치고 있다’는 취지로 비난했고, 둘은 말다툼을 하게 됐다. A씨는 B씨 부모를 성적으로 비하하는 등 게임 내 채팅창을 통해 성적 욕설이 담긴 메시지를 다섯 차례 보낸 혐의로 기소됐다.&lt;br&gt;&lt;br&gt;1·2심은 A씨 혐의를 유죄로 판단했다. 1심은 “A씨가 B씨 부모에 대한 성적 조롱 등을 통해 성적 수치심 등을 주고 심리적 만족감을 얻으려는 욕망을 충족하려는 목적에서 메시지를 보낸 것”이라고 했다. 2심 판단도 같았다.&lt;br&gt;&lt;br&gt;그러나 대법원은 무죄 취지로 사건을 하급심으로 되돌려보냈다. 통신매체 이용 음란죄는 ‘자기 또는 다른 사람의 성적 욕망을 유발하거나 만족시킬 목적으로 통신매체를 통해 성적 수치심이나 혐오감을 일으키는 말 등을 상대방에게 한 사람’을 처벌하는 것이다. 대법원은 A씨가 성적 욕망을 유발하려는 목적을 갖고 욕설을 했다고 보긴 어렵다고 봤다. 대법원은 “다툼 과정에서 분노를 표출하는 게 주목적”이라며 “상대에게 성적 수치심을 줌으로써 심리적 만족을 얻으려는 욕망이 있었다고 인정하기 어렵다”고 했다. 대법원은 또 A·B씨가 일면식이 없는 동성(同性)인 점도 고려했다고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>장안평 중고차 매매센터, 36층 복합단지로 재개발 된다</title>
+      <link>https://www.chosun.com/national/national_general/2024/12/25/LLGJSPCPDNBHDJ4ATYJMEMZXEE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/25/LLGJSPCPDNBHDJ4ATYJMEMZXEE/</guid>
+      <dc:creator>최연진 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 25 Dec 2024 11:12:01 +0000</pubDate>
+      <content:encoded>우리나라 최초의 중고차 시장인 서울 성동구 ‘장안평 중고차 매매 센터’가 최고 36층 복합 단지로 재개발된다.&lt;br&gt;&lt;br&gt;서울시는 건축위원회를 열고 장안평 중고차 매매 센터의 ‘도시 정비형 재개발 사업 건축 심의안’을 통과시켰다고 25일 밝혔다. 심의안에 따르면, 낡은 중고차 매매 센터를 허물고 최고 36층 규모 복합 단지를 만든다. 중고차 매매 시설과 오피스텔 4동 527가구가 들어선다. 공공 시설도 조성할 계획이다. 서울시 관계자는 “어떤 공공 시설을 넣을지는 조합과 협의 중”이라고 했다. 생태숲과 잔디 마당 등 녹지도 곳곳에 조성하기로 했다.&lt;br&gt;&lt;br&gt;장안평 중고차 매매 센터는 1979년 문을 연 국내 최초 중고차 시장이다. 2만9883㎡ 부지에 지상 3층짜리 4동이 들어서 있다. 중고차 매매 업체와 정비·부품 업체 등 600여 곳이 모여 있다.&lt;br&gt;&lt;br&gt;1980년대 ‘중고차 메카’로 불릴 정도로 전성기를 누렸다. 1년에 1만대가 넘는 중고차가 거래됐고, 하루 유동 인구는 2만명에 달했다. 이후 온라인 거래가 활성화되고 대기업들이 중고차 사업에 뛰어들면서 침체에 빠졌다. 지은지 45년 된 건물은 비가 샐 정도로 낡았다.&lt;br&gt;&lt;br&gt;박원순 전 시장 시절인 2016년 서울시가 이 일대를 ‘도시 재생 활성화’ 지역으로 결정했으나 수익성이 떨어지고 조합원 간 이견도 있어 사업이 지지부진한 상태다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/PQXVH432DFA2HPIUSES2OHPCOM.jpg?width=2836&amp;height=1677&amp;auth=4e8cf2cf65ad83c2b81d2da911c3e63906334ac9e55f9ac64866582c4d6497ad&amp;smart=true" type="image/jpeg" height="1677" width="2836">
+        <media:description type="plain">장안평 중고차매매센터 재개발 배치도/서울시</media:description>
+        <media:credit role="author" scheme="urn:ebu">i ÄX</media:credit>
+      </media:content>
+    </item>
+    <item>
       <title>공조본 “尹대통령 측, 오후 6시 현재 연락 없어”...조사 무산</title>
       <link>https://www.chosun.com/national/court_law/2024/12/25/3WVNBGFVWBHPLEV53VBPSB4MKU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/25/3WVNBGFVWBHPLEV53VBPSB4MKU/</guid>
@@ -836,24 +858,6 @@
       <description/>
       <pubDate>Tue, 24 Dec 2024 02:57:30 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YJAC2KBEAVM27LGLSRVTRZSAUM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;크리스마스 이브 영하권 추위가 이어지고 있는 24일 한 외국인이 서울 청계광장을 걷고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;탁하고 흐린 크리스마스가 찾아올 것으로 예상됐다. 수도권을 중심으로 미세먼지 농도가 짙을 것으로 보인다.&lt;br&gt;&lt;br&gt;기상청에 따르면, 크리스마스인 25일 전국이 흐린 가운데 수도권을 중심으로 미세먼지 농도가 ‘나쁨’일 것으로 전망됐다. 다만 수도권 외 지역에선 미세먼지가 ‘좋음’~’보통’ 수준일 것으로 예상됐다.&lt;br&gt;&lt;br&gt;한파(寒波)가 이어지면서 25일에도 수은주가 영하 10도 아래로 내려가는 곳이 많겠다. 찬 바람까지 강하게 불면서 체감기온은 실제 예보된 기온보다 3~4도 가량 낮을 것으로 보인다. 25일 아침 최저기온은 영하 11도에서 영상 3도, 낮 최고기온은 3~11도로 예보됐다.&lt;br&gt;&lt;br&gt;맹추위는 26일 하루 잠시 소강상태를 보였다가, 우리나라가 중국 쪽 찬 대륙고기압 영향에 드는 27일에는 더 매서워질 것으로 보인다. 26일은 최저 영하 6도에서 영상 5도, 최고 영하 1도에서 영상 11도의 기온 분포를 보이겠으나, 27일에는 기온이 8도 가까이 뚝 떨어지면서 최저 영하 14도 수준을 보일 것으로 전망됐다.&lt;br&gt;&lt;br&gt;25일 밤부터 수도권과 강원·충청권에는 0,1㎜ 미만의 빗방울이나 0.1㎝ 내외의 눈이 날리는 곳이 있겠다. 제주도는 늦은 밤부터 1~5㎝의 눈이나 5㎜ 안팎의 비가 내리는 곳이 있겠다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“왜 시끄럽게 해” 소음 분쟁에 흉기 휘두른 60대, 징역 4년 </title>
-      <link>https://www.chosun.com/national/regional/yeongnam/2024/12/24/ULFN4KBK2RCVVGOHSKM2UTC3MU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/yeongnam/2024/12/24/ULFN4KBK2RCVVGOHSKM2UTC3MU/</guid>
-      <dc:creator>박주영 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 24 Dec 2024 02:07:35 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FVX2J24S5QA5IHHKMVWRVSWRKA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산지법 서부지원./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;소음에 항의하는 이웃 주민을 흉기로 찔러 죽이려 한 혐의로 재판에 넘겨진 60대 남성이 1심에서 징역 4년을 선고받았다.&lt;br&gt;&lt;br&gt;부산지법 서부지원 형사1부(재판장 이진재)는 살인미수로 혐의로 기소된 60대 남성 A씨에게 징역 4년을 선고했다고 24일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 8월 24일 오전 6시쯤 B씨가 찾아와 밤새도록 시끄럽게 한 것에 항의하는 데 격분, 흉기로 B씨의 머리와 손목 등을 찌르는 등 B씨를 살해하려 한 혐의로 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;재판부는 “가슴을 찌르려고 한 점과 B씨가 도망가자 쫓아간 점 등을 볼 때 A씨가 살인할 목적으로 흉기를 휘두른 것으로 판단됐다”며 “하지만 순간 격분하여 우발적으로 범행을 저지르고, 우울증 등이 사건에 일부 영향을 미친 것으로 보이는 점 등을 고려해 형을 결정했다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘이재명 불법 선거운동 혐의’ 안부수 아태협 회장, 대법서 무죄 확정</title>
-      <link>https://www.chosun.com/national/court_law/2024/12/24/N3MINSGL3JC23D5546RFKEHJCA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/24/N3MINSGL3JC23D5546RFKEHJCA/</guid>
-      <dc:creator>박혜연 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 24 Dec 2024 02:11:29 +0000</pubDate>
-      <content:encoded>지난 2022년 제20대 대통령선거 당시 이재명 더불어민주당 대표를 위해 불법 선거운동을 한 혐의로 기소된 안부수 아태평화교류협회(아태협) 회장의 무죄가 대법원에서 확정됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/A6MXYAQKP5CVHFLVQDR7JBIC64.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;안부수 아태협 회장 / 조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대법원 2부(주심 권영준 대법관)는 24일 공직선거법 위반 혐의로 기소된 안 회장 등 아태협 관계자 5명에게 무죄를 선고한 원심 판결을 확정했다.&lt;br&gt;&lt;br&gt;안 회장 등은 2022년 1월 이 대표(당시 민주당 대선 후보)를 당선시킬 목적으로 사조직을 설립하고, 대전·충청 지역에서 선거 운동을 담당하기로 모의한 혐의를 받는다. 이후 그해 3월까지 소셜미디어, 단체 카카오톡방 등에서 이 대표를 홍보하는 등 공식 선거운동 기간 이전에 불법으로 선거운동을 한 혐의도 받았다.&lt;br&gt;&lt;br&gt;1심과 2심은 안 회장을 비롯한 피고인 모두에게 무죄를 선고했다. 1심은 “선거운동을 위해 모임을 가진 건 맞지만 인터넷 대화방에서 정보를 나누고 지지하는 정도에 그쳤다”며  “사조직을 설치해 일부 이재명 후보 지지 발언을 했다고 해서 선거운동에 해당하는 정도에 이르렀다고 보기 어렵다”고 했다.&lt;br&gt;&lt;br&gt;2심도 “선거 목적으로 설립된 사조직으로도 보기 어려워 피고인들이 조직적 또는 집단적 (선거운동) 활동을 벌였다고도 판단하기 힘들다”고 봤다. 대법원 역시 “원심의 무죄 판단에 자유심증주의의 한계를 벗어나거나 공직선거법 위반죄의 법리를 오해한 잘못이 없다”며 상고를 기각했다.&lt;br&gt;&lt;br&gt;앞서 수원지검은 쌍방울 그룹의 횡령 혐의 등을 수사하며 압수물을 분석하는 과정에서 아태협 간부 A씨가 대전·충남 지역에서 이 후보를 당선시킬 목적으로 단체를 만들어 선거운동을 한 혐의를 발견, A씨를 2022년 9월 기소했다. 이후 대전지검은 A씨가 활동해온 사조직 설립을 주도한 안 회장 등 4명의 혐의를 추가로 파악해 기소했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>법원 “카카오 김범수 보석 취소할 이유 없다”…검찰 항고 기각</title>
