@@ -13,6 +13,54 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>빨강·노랑 사과나무, 크리스마스 트리로 변신…사과나무를 분재 형태로 개발</title>
+      <link>https://www.chosun.com/national/regional/2024/12/25/RIWNQTRDMNBV3PFUYVI6JBNQNY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/12/25/RIWNQTRDMNBV3PFUYVI6JBNQNY/</guid>
+      <dc:creator>의성=권광순 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 25 Dec 2024 02:49:34 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TCXTIZ3FKREOZANIX4VQDDD5M4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 19일 오후 경북 의성군 옥산면 한 과수원에서 경북 황금부사 농업법인 소속 작목반 농민들이 사과나무를 화분에 옮겨 심어 분재 형태로 만든 크리스마스 트리를 살펴보고 있다. /권광순 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 19일 오후 경북 의성군 옥산면 해발 220m 산자락에 둘러싸인 ‘선바우’ 마을. 약 4000㎡(1200여평) 과수원 입구에 도착하자 어디선가 크리스마스 캐럴송이 흘러나왔다.&lt;br&gt;&lt;br&gt;캐럴송이 울려 퍼진 진원지는 과수원 가장자리에 하늘 위로 곧게 뻗은 사과나무 한 그루. 높이 2.5m 원뿔형태의 사과나무에는 한 가지에 황금빛과 붉은빛 두 종류 빛깔의 사과가 주렁주렁 달려있었다.&lt;br&gt;&lt;br&gt;밭에 심겨진 게 아니라 분재 형태로 화분에 심어 놓은 사과나무에는 방울과 화환, 트리 조명 등 20여개의 크리스마스 장식품도 달렸다. 사과나무가 크리스마스 트리로 변신한 것이다.&lt;br&gt;&lt;br&gt;이곳에서 40여 년째 과수업을 이어 온 김창호(61)씨는 “사과나무를 분재 형태의 재배기술을 접목해 크리스마스 트리로 판매하고 있다”며 “한 그루당 과실만 수확하면 수익이 16만원쯤 되는데 분재 형태로 팔 경우 한 그루당 250만~300만원 정도 소득이 생긴다”고 말했다.&lt;br&gt;&lt;br&gt;김씨는 3년 전부터 의성지역 사과재배 농민 7명과 함께 작목반을 만들고 분재 형태의 사과나무 재배기술을 접목해 농업법인조합도 만들었다.&lt;br&gt;&lt;br&gt;이들은 한 그루의 사과나무에서 황금색과 빨간색의 사과가 동시에 열리는데 착안해 만든 황금부사를 ‘트윈플’(트윈과 애플 합성어)로 이름 짓고 브랜드화 했다. 트윈플은 천연 광물로 특수 재배한 사과다. ‘올라이트’라는 광물을 입힌 봉지를 여러 달 동안 씌워 키우는데, 햇볕을 차단해도 시들거나 마르지 않고 생육에 문제가 없다고 한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/K55EGS6XN5HPJE66GTC3MXE5U4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;화분에 옮겨 심은 황금부사 사과나무는 백화점과 호텔, 놀이공원 등에서 인기다. 최근 의성군청 입구에는 황금부사 사과나무로 만든 크리스마스 트리가 전시됐다. /권광순 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;농산물은 기후 환경 등 외부 요인에 따른 가격 등락 폭이 큰 편인 반면 크리스마스 트리로 활용 가능한 이 사과나무는 공산품처럼 책정된 가격에 팔 수 있다.&lt;br&gt;&lt;br&gt;조석제(60) 경북 황금부사 농업법인 대표는 “프랑스 현지에 출장을 갔다가 따먹을 수 있는 달린 포도나무로 트리를 만든 사례를 보고 황금부사에 접목하게 됐다”며 “앞으로 농가 수익 증대를 위해 지역 청년 농부들에게 재배 기술을 보급할 계획”이라고 말했다.&lt;br&gt;&lt;br&gt;화분에 옮겨 심은 황금부사 사과나무는 백화점과 호텔, 놀이공원 등에 살아있는 크리스마스 트리로 인기다. 최근 황금부사 사과나무는 의성군청 입구에도 크리스마스 트리 형태로 전시돼 있다.&lt;br&gt;&lt;br&gt;조 대표는 “올해 한정된 사과나무 분재 예약 발주는 서울 광진구 워커힐 호텔, 송파구 롯데백화점 등 300그루 모두 매진됐다”며 “내년에 시판할 분재형 사과나무를 1000그루 이상 확대할 예정”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/7OCWZXNJ25AITB4PR5E5WNU7MU.jpg?width=748&amp;height=561&amp;auth=cf947b7377781501c69954ccadaa861adec48322c6afc9b00d5c7bfe62993415&amp;smart=true" type="image/jpeg" height="561" width="748">
+        <media:description type="plain">지난 19일 오후 경북 의성군 옥산면 한 과수원에서 경북 황금부사 농업법인 소속 작목반 농민들이 사과나무를 화분에 옮겨 심어 분재 형태로 만든 크리스마스 트리를 살펴보고 있다. /권광순 기자</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>공수처 “尹 체포영장 너무 먼 단계… 아직 검토할 것 많아”</title>
+      <link>https://www.chosun.com/national/court_law/2024/12/25/4GCQEDSW4ZCTRK2MW7HF3TTHS4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/25/4GCQEDSW4ZCTRK2MW7HF3TTHS4/</guid>
+      <dc:creator>유종헌 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 25 Dec 2024 01:27:30 +0000</pubDate>
+      <content:encoded>윤석열 대통령이 25일 고위공직자범죄수사처의 2차 출석 요구에 응하지 않은 가운데, 공수처는 “윤 대통령에 대해 체포영장을 청구하는 것은 너무 먼 단계”라면서 “아직은 검토할 것이 많다”고 했다.&lt;br&gt;&lt;br&gt;공수처 관계자는 이날 ‘대통령에 대해 체포영장을 청구하는 방안을 검토 중이냐’는 질문에 이 같이 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/775TEUE72VP27OVVVOJ3JJZBEM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;고위공직자범죄수사처(공수처)가 윤석열 대통령에게 통보한 2차 소환일인 25일 오전 경기 정부과천청사 공수처 모습. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이 관계자는 “통상 일반 형사사범의 경우 3차례 소환 요구에 불응하면 강제 수사를 검토한다”면서도 “대통령의 경우 (탄핵심판 등) 고려해야 할 상황이 많다. 통상 절차에 따를 수도 있지만 그렇지 않을 수도 있다”고 했다.&lt;br&gt;&lt;br&gt;공수처는 일단 오늘까지 윤 대통령의 출석을 기다려본다는 입장이다. 공수처 관계자는 “현실적으로 대통령이 출석한다 해도 나 홀로 나올 수 있는 상황은 아니다”라면서도 “변호인이나 대리인이 (오늘 중) 다른 입장을 밝힐 수도 있고, 갑자기 선임계가 들어올 수도 있다”고 했다. 윤 대통령의 깜짝 출석을 포함해 발생할 수 있는 여러 변수를 두루 고려하겠다는 취지다.&lt;br&gt;&lt;br&gt;3차 소환 통보나 체포영장 청구 등 향후 윤 대통령 수사 방침에 대해선 “결정에 오래 걸리지는 않을 것”이라면서도 “오늘 결정하지는 않겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>공수처, 문상호 前 정보사령관 이르면 오늘 군검찰 이첩</title>
+      <link>https://www.chosun.com/national/court_law/2024/12/25/BKY5EYJK75DCHDJTSDNRA6A4YI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/25/BKY5EYJK75DCHDJTSDNRA6A4YI/</guid>
+      <dc:creator>유종헌 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 25 Dec 2024 02:35:27 +0000</pubDate>
+      <content:encoded>‘12·3 비상계엄' 사태를 수사하는 고위공직자범죄수사처가 이르면 오늘(25일) 문상호 전 정보사령관 신병을 군 검찰에 이첩한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RBCNUEAO4KCOBQZT75IPFWCJKA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;문상호 전 국군정보사령관. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;공수처는 검찰, 군 검찰 등과 논의한 결과 문 전 사령관을 검찰을 거치지 않고 바로 군검찰에 넘기기로 결정했다고 이날 밝혔다. 공수처 관계자는 “우리가 검찰로 이송한 다음 검찰이 다시 군검찰에 넘기는 방법도 있었다”면서도 “그렇게 되면 검토도 복잡해지고 시간이 많이 걸릴 것 같아 군검찰에 바로 넘기기로 했다”고 말했다.&lt;br&gt;&lt;br&gt;공수처는 현역 장성의 부패범죄에 대한 수사권은 있지만 기소권은 없다. 원래 공수처는 직접 기소권이 없는 사건을 서울중앙지검에 이첩하는데, 이번에는 현역 군인의 기소를 담당하는 군검찰로 바로 사건을 넘기기로 검찰·군검찰과 협의했다는 것이다.&lt;br&gt;&lt;br&gt;공수처는 전날 군사법원에 문 전 사령관의 구속기한 연장을 신청해 승인받았다. 앞서 공수처는 지난 18일 문 전 사령관을 체포한 데 이어 지난 20일 구속영장을 발부받아 수사를 이어왔다.&lt;br&gt;&lt;br&gt;문 전 사령관은 비상계엄 당시 북파공작부대(HID) 요원을 투입하고, 과천 중앙선관위에 정보사 요원을 출동시킨 혐의를 받는다. 또 비상계엄 선포 이틀 전인 지난 1일 노상원 전 정보사령관, 전·현직 정보사령부 간부들과 롯데리아에서 만나 비상계엄을 사전 논의했다는 의혹도 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>윤 대통령, 공수처 2차 출석요구 불응</title>
+      <link>https://www.chosun.com/national/court_law/2024/12/25/FEWYKUF5XNG4XCYCV6FMZQGTKA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/25/FEWYKUF5XNG4XCYCV6FMZQGTKA/</guid>
+      <dc:creator>유종헌 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 25 Dec 2024 01:03:58 +0000</pubDate>
+      <content:encoded>윤석열 대통령이 25일 오전 10시에 예정된 고위공직자범죄수사처(공수처)의 피의자 조사에 출석하지 않았다. 공수처는 이날 윤 대통령 출석을 더 기다려본다는 입장이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZM6EM4ULZFOYLBOSWNH52BMQQQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령이 지난 14일 본인의 탄핵소추안이 국회에서 가결된 뒤 한남동 관저에서 대국민담화를 하고 있다./ 연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;오동운 공수처장은 지난 24일 국회 법제사법위원회에 출석해 “조사는 내일 (오전) 10시로 정해져 있지만 저희는 시간을 좀 더 늘려서 기다린다는 심정”이라고 밝힌 바 있다. 주임 검사로 출석요구서를 보낸 차정현 부장검사는 윤 대통령 조사를 위해 계속 대기 중이다.&lt;br&gt;&lt;br&gt;공수처는 윤 대통령이 이날 출석하지 않을 경우 3차 출석 요구를 할지, 체포영장을 청구할지 검토할 예정이다. 윤 대통령은 12·3 비상계엄 사태와 관련해 내란 우두머리, 직권남용 혐의를 받는 피의자 신분이다.&lt;br&gt;&lt;br&gt;앞서 공수처와 경찰 국가수사본부, 국방부 조사본부로 구성된 공조수사본부는 지난 20일 윤 대통령에게 이날 오전 10시까지 정부과천청사에 출석하라고 통보했다. 하지만 윤 대통령은 출석요구서를 수령하지 않았다. 윤 대통령을 돕는 석동현 변호사는 지난 24일 “(공수처에) 출석하기는 어렵지 않나 그렇게 보고 있다”고 밝힌 바 있다. 윤 대통령은 아직 변호인단을 구성하지 않은 것으로 알려졌다. 윤 대통령 측이 공수처에 낸 변호사 선임계도 없다.&lt;br&gt;&lt;br&gt;공수처는 지난 16일에도 윤 대통령에게 18일에 조사받으라는 1차 출석요구서를 보냈지만, 윤 대통령은 응하지 않았다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>불법 도박장 개장, 배우 한소희 모친 ‘집유 2년’</title>
+      <link>https://www.chosun.com/national/court_law/2024/12/25/L3QHIK335RBVBLBDXOTHV4AMXU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/25/L3QHIK335RBVBLBDXOTHV4AMXU/</guid>
+      <dc:creator>춘천=정성원 기자</dc:creator>
+      <description>배우 한소희의 모친이 다수의 불법 도박장을 개설한 혐의로 법원으로부터 집행유예를 선고받았다.25일 법조계에 따르면 춘천지법 원주지원 형사1단독 김도형 부장판사는 도박장소개설 혐의로 기소된 신모(55)씨에게 징역 1년에 집행유예 2년을 선고했다.</description>
+      <pubDate>Wed, 25 Dec 2024 01:17:49 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DAQCEDPBADFZIHVF4AYOBIHZMQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;배우 한소희씨. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;배우 한소희의 모친이 다수의 불법 도박장을 개설한 혐의로 법원으로부터 집행유예를 선고받았다.&lt;br&gt;&lt;br&gt;25일 법조계에 따르면 춘천지법 원주지원 형사1단독 김도형 부장판사는 도박장소개설 혐의로 기소된 신모(55)씨에게 징역 1년에 집행유예 2년을 선고했다.&lt;br&gt;&lt;br&gt;신씨는 지난 2022년 1월부터 지난 8월까지 강원 원주와 경북 경주, 울산지역에서 7곳의 도박장을 개설, 운영한 혐의다. 신씨는 텔레그램을 통해 알게 된 불법 도박사이트 조직원으로부터 사이트 접속 코드와 매장 관리자 코드를 부여받은 뒤 이 사이트를 이용할 수 있도록 불법 도박장을 개설한 것으로 조사됐다. &lt;br&gt;&lt;br&gt;신씨는 수익 분배를 조건으로 일명 바지사장을 내세워 성인 PC게임장을 차리거나 PC게임장 운영자와 짜고 이 같은 범행을 저질렀다.&lt;br&gt;&lt;br&gt;앞서 신씨는 지난 2021년에도 게임산업진흥에 관한 법률 위반 혐의로 적발돼 지난해 500만원의 벌금형을 선고받은 전력이 있던 것으로 드러났다.&lt;br&gt;&lt;br&gt;김 부장판사는 “기록상 명확하게 나타나 있지 않지만 PC방의 영업구조와 이익분배율에 비춰 보면 이로 인해 피고인이 취득한 이익 역시 상당할 것으로 보인다”면서 “벌금형 전과가 있는 점 등을 양형에 참작했다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>2049년 노인 2000만명... 한국 초고령 속도 빠른 이유는</title>
       <link>https://www.chosun.com/national/national_general/2024/12/25/SGES43WDY5F4JEUJYPWYLY54HU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/25/SGES43WDY5F4JEUJYPWYLY54HU/</guid>
@@ -849,33 +897,6 @@
       <content:encoded>▲&lt;b&gt;국토교통부&lt;/b&gt;▷공항정책과장 박문수▷홍보담당관 정천우▷운영지원과장 김기용▷혁신행정담당관 박정호▷도시정책과장 정진훈&lt;br&gt;&lt;br&gt;▲&lt;b&gt;인사혁신처&lt;/b&gt;▷인사관리국 성과급여과장 이석희&lt;br&gt;&lt;br&gt;▲&lt;b&gt;특허청&lt;/b&gt;▷한류상표우선심사과장 김종수▷국제지식재산연수원 국제교육과장 송석민&lt;br&gt;&lt;br&gt;▲&lt;b&gt;CBS&lt;/b&gt;◇본사▷미래혁신위원회 본부장 구용회▷콘텐츠본부장 도성해▷마케팅사업본부장 정재훈▷논설위원실장 이재웅▷선교TV본부 선교기획국장 김양선▷경인방송본부장 임미현◇지역본부▷대구방송본부장 방주화▷울산〃 이용문▷포항〃 이진백&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[부음] 박계용씨 별세 외</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2024/12/24/JYDYHTE65RFQBJII3LT4QOPVRA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2024/12/24/JYDYHTE65RFQBJII3LT4QOPVRA/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Mon, 23 Dec 2024 15:33:25 +0000</pubDate>
-      <content:encoded>▲&lt;b&gt;박계용&lt;/b&gt; 별세, &lt;b&gt;김진배&lt;/b&gt; 前 영덕군귀농귀촌연합회 회장·&lt;b&gt;김은숙&lt;/b&gt;·&lt;b&gt;김명숙&lt;/b&gt; 前 대구 새론초등학교 교장·&lt;b&gt;김정희&lt;/b&gt; 모친상, &lt;b&gt;김무연&lt;/b&gt; 삼성전자 DS 설비아카데미 전임교수·&lt;b&gt;김서연&lt;/b&gt; 파이낸셜뉴스 생활경제부 차장 조모상=23일5시 경북 영덕제일요양병원, 발인 25일8시30분, (054)733-4440&lt;br&gt;&lt;br&gt;▲&lt;b&gt;양태조&lt;/b&gt; 前 월간중앙 주간 별세, &lt;b&gt;양진모&lt;/b&gt; 코레아나 클라시카 오케스트라 상임 지휘자 부친상=21일12시25분 삼성서울병원, 발인 25일13시30분, (02)3410-3151&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문은 선생님] [고전 이야기] 천주교 믿어 탄압받던 사람들 보며 ‘고통의 순간 신은 어딨나?’ 물었죠</title>
-      <link>https://www.chosun.com/national/nie/2024/12/24/MH2OT3TOM5DZXLZGU7IBIENJCY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/12/24/MH2OT3TOM5DZXLZGU7IBIENJCY/</guid>
-      <dc:creator>장동석 출판도시문화재단 사무처장</dc:creator>
-      <description/>
-      <pubDate>Mon, 23 Dec 2024 15:32:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VRCQFVLGINARBECWROK4QBM43Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;일본 작가 엔도 슈사쿠가 1966년 발표한 책 ‘침묵’ 표지. /아마존&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“이 바다의 무서운 적막함 위에서 저는 하나님의 침묵을 느꼈습니다. 비애에 빠진 인간들의 소리에 하나님이 아무런 응답도 없이 다만 말없이 침묵하고 계시는 듯한 그런 느낌을….”&lt;br&gt;&lt;br&gt;일본 작가 엔도 슈사쿠(1923~1996)가 1966년 발표한 ‘침묵’은 ‘고통의 순간에 신은 어디에 계시는가?’라는 심오한 문제를 다룬 역작이에요. 이 작품은 마틴 스코세이지 감독이 ‘사일런스’라는 제목의 영화로 만들면서 새롭게 조명되기도 했어요. 엔도 슈사쿠는 침묵 외에도 ‘사해 부근에서’ ‘깊은 강’ 등의 작품을 통해 인간과 종교에 대해 깊게 다뤄요. 그런 그는 “종교 소설과 세속 소설의 차이를 무너뜨린, 20세기 일본 문학의 거장”으로 평가받았고, 여러 차례 노벨문학상 후보로 거론되기도 했지요.&lt;br&gt;&lt;br&gt;1638년, 젊은 포르투갈 사제 세 명이 일본을 향해 출발해요. 이들의 이름은 ‘로드리고’ ‘마르타’ ‘가르페’로 신학교 동기였어요. 당시 일본은 천주교 선교사들을 가혹하게 탄압했어요. 그럼에도 이들이 일본에 가려는 이유는 스승인 페레이라 신부가 잔인한 고문 끝에 배교(背敎)했다는 사실을 자신들의 눈으로 직접 확인하기 위해서였어요. 인자한 스승이자 굳은 믿음의 소유자였던 페레이라 신부가 “눈부시게 순교했다면 몰라도” 신을 저버릴 거라고는 상상할 수 없었기 때문이죠.&lt;br&gt;&lt;br&gt;이들이 마카오에서 일본행 안내자로 소개받은 사람은 ‘기치지로’였어요. 한때는 신자였던 기치지로는 간사해 보였죠. 천신만고 끝에 일행이 도착한 일본은 도모기라는 작은 어촌 마을이었어요. 도모기는 다행히 주민 대부분이 가혹한 탄압 속에서도 신앙을 버리지 않았지요. 마을 사람들은 로드리고 신부 일행을 숨겨주며 정성을 다했어요. 하지만 얼마 못 가 로드리고 신부 일행의 행적이 밝혀지고, 본보기로 마을 사람 두 명이 잔혹한 고통 속에서 죽어갔어요. 이 모습을 로드리고 일행은 산속에서 지켜봐야만 했어요. 로드리고는 ‘사람들이 이토록 고통받을 때 신은 어디에 있는가’ 질문하기 시작해요.&lt;br&gt;&lt;br&gt;구사일생으로 살아났지만 로드리고는 간사한 기치지로의 신고로 관리들에게 잡히고 말아요. 하지만 관리들은 로드리고 신부를 고문하지 않아요. 대신 마을 사람들을 가혹하게 고문함으로써 로드리고의 배교를 강요했지요. 그러다 로드리고는 스승인 페레이라 신부를 만나게 됩니다. 페레이라는 배교하더라도 마을 사람들을 고문의 고통에서 덜어주는 것이 오히려 신의 뜻에 합당하다고 로드리고를 설득해요.&lt;br&gt;&lt;br&gt;결국 로드리고도 예수의 얼굴이 그려진 그림을 밟고 배교해요. 그때 로드리고는 신의 음성을 들어요. “밟아도 좋다… 나는 너희에게 밟히기 위해서 이 세상에 태어났고, 너희의 아픔을 나누기 위해 십자가를 짊어진 것이다.” 그리고 로드리고가 “당신이 언제나 침묵하고 계시는 것을 원망하고 있었다”고 하자 신은 이렇게 말합니다. “나는 침묵하고 있었던 게 아니다. 함께 고통을 나누고 있었을 뿐.”&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문은 선생님] [사소한 역사] 금 1온스 가격 35달러로 맞춰… 다른 나라 통화를 미국 달러로 교환했죠</title>
-      <link>https://www.chosun.com/national/nie/2024/12/24/RSNIAHJFIVGCRERWNNZPPF5P3U/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/12/24/RSNIAHJFIVGCRERWNNZPPF5P3U/</guid>
-      <dc:creator>황은하 상경중 역사 교사</dc:creator>
-      <description/>
-      <pubDate>Mon, 23 Dec 2024 15:31:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LLBE2MVW5BBCBOPPCTPIAUHY5I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;리디아 왕국이 만든 금화. 금은 황금빛 아름다움으로 모든 사람이 탐내던 광물이었기 때문에 화폐 역할을 하기 적합했어요. /영국박물관&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최근 치솟는 환율 때문에 우리나라 경제가 어려움을 겪고 있어요. 환율은 우리나라 돈과 다른 나라 돈의 교환 비율을 말하는데요. 현대 대부분의 국가는 미국 달러와 비교해 자국 화폐의 가치를 판단한답니다. 환율이 오른다는 것은 미국 1달러를 사는 데 이전보다 더 많은 원화를 지불해야 한다는 뜻이에요.&lt;br&gt;&lt;br&gt;환율이 오르면 원자재 수입 가격이 올라 우리나라의 전반적인 물가가 오르게 돼요. 또 유학생들에게 들어가는 학비와 생활비도 더욱 늘어나지요. 미국 달러에 대한 환율이 우리 삶에 큰 영향을 미치는 이유는 미국 달러가 ‘기축통화’이기 때문이에요. 기축통화는 국가 간 금융 거래 등에서 기준이 되는 화폐를 말해요. 과거에는 어떤 것들이 기축통화 역할을 했을까요?&lt;br&gt;&lt;br&gt;먼 옛날 사람들은 물건을 거래할 때 조가비(조개 껍데기), 고래 이빨, 동물 뼈 등을 사용했어요. 이것들을 일종의 화폐로 사용한 것이죠. 그러나 가장 안정적이고 보편적으로 인정받는 가치를 지녔던 기축통화는 금화였어요. 금은 황금빛 아름다움으로 모든 사람이 탐내던 광물이었기 때문에 화폐 역할을 하기에 가장 적합했다고 해요.&lt;br&gt;&lt;br&gt;최초의 금화는 기원전 6~7세기쯤 리디아 왕국(현재 튀르키예 지역)에서 만들어졌다고 알려져 있어요. 이후 페르시아, 로마 등 다른 국가들도 리디아의 금화처럼 자신들만의 고유한 화폐를 발행했어요. 특히 4세기 로마의 솔리두스 금화는 질이 좋아 넓은 지역에서 1000년에 걸쳐 사용됐다고 해요.&lt;br&gt;&lt;br&gt;중세 유럽 각국에서도 금화를 주조했는데요. 특히 이탈리아 피렌체에서 발행한 플로린 금화는 유럽 각지에서 사용됐답니다. 피렌체의 금융업 집안인 페루치 가문은 유럽 곳곳에 16개 지점을 내어 각국 왕실과 귀족들에게 금화를 빌려주고 이익을 냈어요. 하지만 영국 왕실과 나폴리 국왕에게 빌려준 플로린을 돌려받지 못해 결국 파산했다고 해요. 이러한 일이 발생할 정도로 금화는 기축통화로서 널리 사용됐답니다.&lt;br&gt;&lt;br&gt;19세기 초쯤 ‘금본위제도’가 시작됩니다. 이는 국가의 통화(通貨) 단위를 일정한 무게의 금으로 정하거나, 일정량의 금 가치에 연계하는 화폐 제도를 말해요. 금본위제를 도입했던 대표적인 나라는 영국입니다. 영국 중앙은행이 금을 보유하고, 금과 가치가 연계된 파운드화를 발행했어요. 영국 파운드화는 세계 무역의 60%를 장악하며 기축통화의 역할을 했답니다.&lt;br&gt;&lt;br&gt;금본위제에서 화폐는 국가가 보유한 금의 양에 따라 발행돼요. 하지만 제1차 세계대전으로 전쟁 비용을 마련해야 했던 각국은 돈을 많이 찍어냈고, 이는 영국도 다르지 않았어요. 결국 영국은 금본위제를 포기했습니다. 이후 어느 나라 화폐가 세계의 기축통화 역할을 맡을지 혼란이 생겼어요. 그러던 중 1944년 44국 연합 회의에서, 미국 달러를 금과 연동시키는 브레턴우즈 체제가 성립됐습니다. 이를 통해 금 1온스의 가격은 35달러로 고정되고, 다른 나라 통화는 미국 달러로 교환하는 체제가 시작됐습니다. 달러가 기축통화의 역할을 하게 된 거예요.&lt;br&gt;&lt;br&gt;하지만 미국도 베트남 전쟁 참전으로 대규모 재정 지출을 하게 되자 발행된 달러를 금으로 바꿔주는 것이 어려워졌어요. 결국 1971년 미국은 브레턴우즈 체제를 포기해요. 하지만 미국이 세계 경제 패권을 잡고 있기 때문에 여전히 미국 달러가 기축통화 역할을 하고 있어요. 최근엔 달러를 대체할 기축통화로 암호 화폐가 거론되기도 한답니다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[오늘의 날씨] 2024년 12월 24일</title>
       <link>https://www.chosun.com/national/national_general/2024/12/24/STOXASL7YRCJTD63OIXZ5CCJYM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/24/STOXASL7YRCJTD63OIXZ5CCJYM/</guid>
@@ -883,19 +904,6 @@
       <description/>
       <pubDate>Mon, 23 Dec 2024 15:31:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DQSZFV2GE5G37A57PN4EZ535YA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문은 선생님] [재미있는 과학] 태양 가스층 ‘코로나’… 한국산 망원경으로 관측한대요</title>
-      <link>https://www.chosun.com/national/nie/2024/12/24/YXR4HUYQJFHMXCXROJNYZ34X3E/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/12/24/YXR4HUYQJFHMXCXROJNYZ34X3E/</guid>
-      <dc:creator>이종현 조선비즈 기자, 기획·구성=오주비 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 23 Dec 2024 15:30:00 +0000</pubDate>
-      <content:encoded>지난달 12일, 대전 한국천문연구원에서는 박수와 함성이 터져 나왔어요. 우리 힘으로 만든 태양 코로나 관측 망원경이 국제우주정거장에 무사히 설치됐다는 소식이 전해졌거든요. 2016년 한국천문연구원과 미국 항공우주국(NASA)이 태양 코로나 관측 망원경을 함께 개발하기로 했는데, 8년 만에 성공적으로 설치가 마무리됐어요. 태양 코로나 관측 망원경은 이후 한 달 동안 시험 운영을 거쳤고, 내년 1월부터 본격적으로 임무를 수행하게 됩니다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HFSJDAYXONGHDHLYDGQA67MOIQ.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=진봉기&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;코로나 가열과 태양풍 가속의 비밀을 풀자&lt;/b&gt;&lt;br&gt;&lt;br&gt;그런데 ‘태양에 웬 코로나가 있지’라는 생각이 들지는 않나요. 무서운 감염병을 떠올리기 쉽지만, 태양의 ‘코로나’와 ‘코로나’ 바이러스는 단어만 같을 뿐 완전히 다른 개념입니다. 바이러스 표면의 모양이 태양 코로나와 비슷해, 코로나 바이러스라는 이름이 붙었다고 해요.&lt;br&gt;&lt;br&gt;태양의 코로나는 태양을 둘러싸고 있는 일종의 가스층이에요. 태양은 너무 밝게 빛나기 때문에 평소에는 이 가스층을 맨눈으로 볼 수가 없습니다. 특별한 관측 장비가 없던 시절에는 달이 태양을 가리는 일식 때만 코로나가 보였어요. 이 때문에 코로나가 달의 대기라고 오해하던 시절도 있었죠. 그러다 1842년에 천문학자들이 코로나가 달이 아닌 태양의 대기층이라는 사실을 밝혀냈고, 이후 태양의 코로나는 천문학자들의 오랜 연구 대상이 됐어요.&lt;br&gt;&lt;br&gt;과학자들이 태양 코로나를 연구하기 시작한 지 100년 가까이 지났지만, 여전히 풀지 못한 두 가지 수수께끼가 있어요. 바로 ‘코로나 가열’과 ‘태양풍 가속’의 비밀입니다. 일반적인 물리학 법칙상 열은 뜨거운 곳에서 차가운 곳으로 이동해요. 태양 가장 안쪽의 핵은 온도가 섭씨 1500만도나 됩니다. 태양의 표면으로 갈수록 온도가 낮아져서 태양 표면은 6000도 정도예요. 여기까지는 상식적이죠. 그런데 태양의 대기층인 코로나는 온도가 100만~500만도에 달해요. 태양 표면보다 핵에서 더욱 먼 대기층의 온도가 표면보다 훨씬 뜨거운 이유를 아직 과학자들은 찾지 못했어요.&lt;br&gt;&lt;br&gt;태양풍 가속의 비밀도 과학자들을 괴롭히는 수수께끼예요. 태양풍은 말 그대로 태양에서 불어오는 바람입니다. 태양 표면에선 전자나 양성자 같은 다양한 입자가 쏟아져 나와요. 이런 입자들이 태양풍에 실려 우주로 나오는데 태양 근처에서는 초속 수십km 정도의 속도입니다. 그런데 태양 근처를 벗어나면 태양풍이 빠르게 가속되면서 속도가 초속 200~750km로 빨라져요. 코로나의 자기장이 태양풍의 속도에 영향을 줄 것이라는 가설만 있을 뿐, 태양풍이 왜 태양에서 멀어질수록 오히려 빨라지는지도 정확한 이유를 알지 못합니다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DUPJF3BQKFGPJO7UDRG7DPJJ2E.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=진봉기&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;한국이 만든 망원경, 태양의 비밀 푼다&lt;/b&gt;&lt;br&gt;&lt;br&gt;내년부터 본격적으로 가동하는 태양 코로나 관측 망원경은 이런 태양 코로나의 비밀을 풀어줄 열쇠입니다. 코덱스(CODEX·Coronal Diagnostic Experiment)라 불리는 이 망원경은 태양의 코로나를 관측하기 위해 특별히 만든 것으로, 세계 최초로 코로나의 온도와 속도를 동시에 측정할 수 있어요.&lt;br&gt;&lt;br&gt;이름은 복잡하지만 기본 원리는 간단합니다. 달이 태양을 가리는 일식 때만 맨눈으로 태양 코로나를 볼 수 있다고 이야기했죠. 이 망원경도 마찬가지 원리예요. 일식이 일어난 것처럼 인공적으로 태양면을 가리고 코로나만 관측할 수 있게 만든 망원경이죠. 이런 장비를 코로나그래프라고 하는데, 한국이 만든 코덱스는 현존하는 코로나그래프 중에서도 가장 앞선 장비 중 하나입니다.&lt;br&gt;&lt;br&gt;지상에서도 코로나그래프로 태양 코로나를 관측할 수 있어요. 하지만 지구 대기권 때문에 관측 결과가 정확하지 않은 경우가 많습니다. 한국천문연구원과 NASA가 오랜 시간 공을 들여서 코덱스를 우주로 보낸 이유예요. 대형 풍선 기구에 코로나그래프를 싣고 대기권 위로 올려서 관측하는 방법도 있지만, 아무래도 국제우주정거장에 설치하는 것만큼 안정적이진 않죠.&lt;br&gt;&lt;br&gt;코덱스는 전체 무게가 220kg에 달합니다. 코로나를 관측하는 코로나그래프의 무게는 40kg 정도지만, 편광카메라와 필터휠, 구동 제어기, 태양 추적 장치 등 딸려 있는 여러 장치를 더하면 무게가 훌쩍 늘어나요. 이런 핵심 부품들을 모두 우리 과학자들이 직접 개발했답니다.&lt;br&gt;&lt;br&gt;&lt;b&gt;지구 통신·전력망 파괴하는 태양풍&lt;/b&gt;&lt;br&gt;&lt;br&gt;과학자들이 태양 코로나를 연구하는 이유는 지구에도 큰 영향을 끼치기 때문입니다. 태양은 11년마다 활동이 활발해지는 극대기와 활동이 뜸해지는 극소기를 반복해요. 11년에 한 번씩 태양의 자기극이 뒤집히는데 이 시기에 맞춰 태양 주기가 달라지는 겁니다. 마침 올해부터 태양 활동 극대기가 시작됐습니다. 북극에서나 볼 수 있던 오로라를 올해는 지구 곳곳에서 볼 수 있게 된 것도 태양 활동이 늘어난 덕분이에요.&lt;br&gt;&lt;br&gt;태양 활동이 증가하면 오로라처럼 낭만적인 변화만 있는 건 아닙니다. 태양에서는 전자나 양성자 같은 입자들이 수없이 방출되고 있어요. 태양 활동이 증가하면 이런 입자도 많이 방출되고 태양풍을 타고 지구까지 날아와 지자기 폭풍을 일으키기도 합니다.&lt;br&gt;&lt;br&gt;지자기 폭풍은 G1부터 G5까지 5단계로 강도를 나누는데, 강도에 따라 위성과 전력, 통신 인프라에 큰 타격을 줘요. 올해 5월에는 가장 강력한 G5 폭풍이 지구를 덮치기도 했습니다. 우리나라에서도 과학기술정보통신부가 우주전파재난 ‘주의’ 위기 경보를 발령해서 사람들이 깜짝 놀라기도 했죠. 태양 코로나는 이렇게 우리 삶에 직접적인 영향을 주지만, 아직까지 우리는 코로나에 대해 모르는 게 너무 많답니다. 과학자들이 코로나를 계속해서 연구하는 이유예요.&lt;br&gt;&lt;br&gt;&lt;b&gt;☞코로나&lt;/b&gt;&lt;br&gt;&lt;br&gt;태양 대기의 가장 바깥층을 구성하고 있는 부분. 태양은 중심에서 바깥으로 핵, 복사층, 대류층, 광구, 채층, 코로나로 이뤄져 있다. 중심부인 핵의 온도는 섭씨 1500만도, 태양 표면 온도는 6000도인 데 비해 코로나의 온도는 100만~500만도에 달한다. 코로나의 온도가 표면보다 뜨거운 이유는 아직 밝혀지지 않았다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/7WJGFQ75XJGCXEHFYULOGP4EG4.png?width=1800&amp;height=1012&amp;auth=21b110d6e0394beaf85a1739acfa1dd02bb7a56e39a4e1f3e43bf67969fe3b91&amp;smart=true" type="image/png" height="1012" width="1800">
-        <media:description type="plain">그래픽=진봉기</media:description>
-        <media:credit role="author" scheme="urn:ebu"/>
-      </media:content>
     </item>
     <item>
       <title>수천만원 ‘뇌물수수 의혹’… 민주당 전남 국회의원 보좌관 구속</title>
@@ -918,15 +926,6 @@
       <description/>
       <pubDate>Mon, 23 Dec 2024 14:04:54 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XAQXZ2C56NH2PKHKFNQ6JDPWVU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;23일 오후 9시 51분쯤 서해안고속도로 서평택 나들목 인근 목포 방향으로 달리던 유조차량에서 불이 났다. /경기도소방재난본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;23일 오후 9시 51분쯤 서해안고속도로 서평택 나들목 인근 목포 방향으로 달리던 유조차량에서 불이 나 소방당국이 진화작업을 벌이고 있다.&lt;br&gt;&lt;br&gt;소방당국은 유조차량이 가드레일을 박고 넘어져 화재가 난 것으로 추정하고 있다. 유조차량에서 유출된 등유에 불이 붙으면서 다량의 연기가 발생해 화재 신고가 잇따랐다. 유조차에는 등유 25t이 실린 것으로 파악됐다.&lt;br&gt;&lt;br&gt;소방당국은 서평택IC~서평택JCT 도로 양방향 통행을 차단하는 한편, 펌프차 등 31대와 대원 78명을 투입해 불길을 잡고 있다.&lt;br&gt;&lt;br&gt;경찰과 소방은 현재 인명 피해 여부를 확인하는 한편 정확한 사고 경위를 조사중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“나 공무원 시험 봐야 돼” 음주 측정 거부하며 욕한 30대, 결국…</title>
-      <link>https://www.chosun.com/national/national_general/2024/12/23/2BAEGGDRUZFMXLLA6YLO2ZYUII/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/23/2BAEGGDRUZFMXLLA6YLO2ZYUII/</guid>
-      <dc:creator>문지연 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 23 Dec 2024 13:41:59 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EXMXXGJ2TFJHPAMBFUKNAI6PRE.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;경찰이 지난 3일 밤 서울 관악구의 한 도로에서 연말연시 음주·약물운전 특별단속을 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;공무원 시험을 봐야 한다며 경찰의 음주 측정 요구를 거부한 30대 남성에게 법원이 징역형 집행유예를 선고했다.&lt;br&gt;&lt;br&gt;대전지법 형사10단독 김태현 판사는 도로교통법 위반(음주 측정 거부) 등 혐의로 기소된 A(30)씨에게 징역 1년에 집행유예 2년을 선고했다고 23일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 5월 1일 대전 유성구 한 도로에서 경찰의 음주 측정 요구에 응하지 않고 거부하며 욕설한 혐의로 재판에 넘겨졌다. 당시 A씨 차량은 고장나 길가에 정차해 있었고 이를 발견한 시민이 경찰에 신고한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;출동한 경찰은 A씨 말투가 어눌하고 몸조차 제대로 가누지 못하는 것을 보고 음주 측정을 요구했다. 그러나 A씨는 “공무원 시험을 봐야 한다” “증거를 가져오라”며 완강히 거부했다. 게다가 A씨는 이미 2019년 음주 운전으로 적발돼 벌금 150만원의 약식명령을 받았던 것으로 조사됐다.&lt;br&gt;&lt;br&gt;김 판사는 “피고인이 범행을 자백하고 반성하고 있다”면서도 “다만 과거 음주 운전으로 처벌받은 전력이 있고 경찰의 정당한 음주 측정 요구에 응하지 않은 점 등을 고려했다”고 했다.&lt;br&gt;&lt;br&gt;한편 금고 이상 형으로 집행유예를 선고받은 사람은 유예기간 종료 후 2년이 지나야 공무원 시험에 응시할 수 있다. A씨의 경우 이대로 형이 확정될 시 2년의 집행유예 기간이 끝나고 2년이 흐른 4년 뒤에야 시험을 볼 수 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>법원, 이재명 ‘선거법 위반’ 2심 국선변호인 선정</title>
