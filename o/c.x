@@ -13,6 +13,64 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>생후 10개월 유아에게 휴대전화 던진 20대 女 ‘구속’</title>
+      <link>https://www.chosun.com/national/incident/2024/12/26/XXBWL5QBNVEO5NC5TBVASUCO4U/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/12/26/XXBWL5QBNVEO5NC5TBVASUCO4U/</guid>
+      <dc:creator>인천=이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 26 Dec 2024 04:50:47 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/54FTUISTLZDHJELX6W5GW5V5XU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;생후 10개월 된 아기에게 휴대전화를 던져 다치게 한 20대 여성이 경찰에 구속됐다.&lt;br&gt;&lt;br&gt;인천 서부경찰서는 특수상해 혐의로 20대 여성 A씨를 구속해 수사하고 있다고 26일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 20일 오후 5시 10분쯤 인천시 서구 청라동을 지나던 시내버스 안에서 생후 10개월 된 B양에게 휴대전화를 던져 다치게 한 혐의를 받고 있다. B양은 A씨가 던진 휴대전화에 머리 부위를 심하게 다쳐 병원에서 입원 치료를 받고 있는 것으로 파악됐다.&lt;br&gt;&lt;br&gt;A씨는 “B양 엄마가 내 부모님을 욕하는 소리를 듣고 휴대전화를 던지려 했는데, B양이 잘못 맞았다”는 취지로 경찰에 진술한 것으로 알려졌다. A씨는 B양과 B양 엄마를 이날 처음 본 사이로, 정신 질환을 앓고 있는 것으로 전해졌다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “버스 내부 방범카메라(CCTV) 등을 토대로 범행 장면을 확인한 만큼, A씨를 조만간 검찰에 송치할 예정”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>오세훈 “국민 생명 소모품처럼 다루는 北 정권 심판받아야”</title>
+      <link>https://www.chosun.com/national/regional/seoul/2024/12/26/UHPGMQ5MG5AWPGUGKARWGMZ7FI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/seoul/2024/12/26/UHPGMQ5MG5AWPGUGKARWGMZ7FI/</guid>
+      <dc:creator>김영우 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 26 Dec 2024 04:46:52 +0000</pubDate>
+      <content:encoded>북한군의 러시아 파병에 대해 오세훈 서울시장이 26일 “국민 생명을 소모품처럼 다루는 북한 정권의 죄악은 반드시 심판받아야 한다”고 말했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/S3U3CAFAJ5C7BFN4X3EOCNHH5U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;오세훈 서울시장이 지난 7월 10일 서울시청 집무실에서 본지와 인터뷰를 갖고 있다. /김지호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;오 시장은 이날 페이스북에 ‘그도 ‘우리의 국민’입니다’라는 제목의 글을 올리고 “먼 타국에서 발견된 북한군 병사의 손편지가 우리에게 묵직한 질문을 던진다”며 이같이 말했다.&lt;br&gt;&lt;br&gt;오 시장은 “어머니·아버지의 품을 그리워하고, 친구의 생일을 축하하며 한 자 한 자 편지를 써내려갔던 청춘이 남의 땅에서 총알받이가 되어 생명을 잃었다”며 “이 병사는 헌법상 한반도와 그 부속 도서에 사는 ‘우리의 국민’”이라고 했다.&lt;br&gt;&lt;br&gt;이어 오 시장은 “비록 다른 정치 체제의 억압을 받고 있지만, 그의 삶과 죽음은 곧 우리의 아픔이기도 하다. 이미 북한군 병사 수천 명이 죽거나 다쳤다는 보도도 있다”며 “국민의 생명을 소모품처럼 다루는 북한 정권의 죄악은 하나하나 기록되어 반드시 심판받아야 한다”고 했다.&lt;br&gt;&lt;br&gt;오 시장은 “정치란 무엇인가 다시 생각한다”며 “정치는 인간의 생명과 존엄을 지키는 것이고, 이 단순한 진리를 잊는 순간 정치는 괴물로 변하고 만다”고 했다.&lt;br&gt;&lt;br&gt;그는 “민주당의 반대로 8년째 멈춰 선 북한인권재단의 설립은 더 이상 미룰 수 없는 과제”라며 “북한의 참혹한 인권 실태를 밝혀내고, 실질적 지원과 희망의 길을 열어야 한다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>수해복구 봉사 중 쓰러진 60대, 3명의 생명 살리고 떠나</title>
+      <link>https://www.chosun.com/national/national_general/2024/12/26/3YB32UV7TRAY7IEGGNGMPFV334/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/26/3YB32UV7TRAY7IEGGNGMPFV334/</guid>
+      <dc:creator>구동완 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 26 Dec 2024 04:38:50 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QLUXDWDY6RDB5MG6F7DAHHGKYM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 11월 20일 뇌사 장기기증으로 3명의 생명을 살리고 세상을 떠난 故 강석진씨. /한국장기조직기증원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;수해 복구작업 봉사활동 중 갑자기 쓰러진 60대가 뇌사 장기기증을 통해 3명의 생명을 살리고 세상을 떠났다.&lt;br&gt;&lt;br&gt;한국장기조직기증원은 지난달 20일 을지대학교병원에서 강석진(67)씨가 뇌사 상태에서 간과 좌우 신장을 각 3명에게 기증했다고 26일 밝혔다. 강씨는 지난달 2일 자택 인근 수해 피해지로 봉사활동을 나섰다가 작업하던 포크레인이 전복되면서 의식을 잃고 쓰러졌다. 급히 병원으로 이송돼 치료를 받았으나 의식을 회복하지 못해 뇌사 상태에 빠졌다.&lt;br&gt;&lt;br&gt;유족에 따르면 전남 나주시에서 7남매 중 여섯 째로 태어난 강씨는 평소 밝고 활동적이었으며, 사람들과 어울리는 것을 좋아했다고 한다. 또 운동을 좋아해서 40대 때부터 마라톤 등을 즐겼다. 젊어서는 건축일을 하다가 10년 전 충남 공주로 귀농해 농사를 시작했다. 그의 귀농생활은 주위의 모범이 돼 농업인의 날에 의장상을 받기도 했다.&lt;br&gt;&lt;br&gt;유족은 평소 나눔과 봉사를 실천하던 강씨의 뜻에 따라 장기기증을 결심했다고 한다. 강씨가 삶의 끝에서도 누군가를 도울 수 있다고 생각했기 때문이다. 강씨의 딸은 “아빠가 이렇게 갑자기 떠난 게 너무 속상하지만 아빠로 인해 다른 사람이 행복한 삶을 다시 살 수 있다는 생각에 자랑스럽다”며 “하늘나라에서는 일을 조금만 하고 행복하게 잘 지냈으면 좋겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>강기정 광주시장 “내년 확장재정으로 민생 살리고 시민 소비 그릇 키우겠다”</title>
+      <link>https://www.chosun.com/national/national_general/2024/12/26/U3RFKTBBV5A2TEQZFUTMCKLTYE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/26/U3RFKTBBV5A2TEQZFUTMCKLTYE/</guid>
+      <dc:creator>광주광역시=진창일 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 26 Dec 2024 04:35:46 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ENUIYJB62VNE5JQA2NHPPR2FTU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;강기정 광주시장이 26일 오전 광주 서구 광주광역시청에서 송·신년 기자회견을 열고 발언하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;강기정 광주광역시장이 확장재정을 통해 민생경제에 활력을 불어넣겠다는 내년 시정방향을 밝혔다.&lt;br&gt;&lt;br&gt;강 시장은 26일 광주시청에서 기자회견을 열고 “내년 확장재정으로 ‘민생 한파의 방파제’를 만들고 ‘소비 그릇’을 키워 경제에 활력을 불어넣는 전략을 집중 추진한다”고 밝혔다.&lt;br&gt;&lt;br&gt;광주시는 내년도 예산안으로 올해 대비 약 7000억원 증가한 7조6000억원의 본예산을 편성했다. 강 시장은 “이중 1082억원이 민생경제 회복 예산”이라며 “연말 공공배달앱 특별할인에 이어 내년 1월 상생카드 할인율을 기존 7%에서 10%로 확대하고 광주시민 대중교통 할인제도도 본격 시행된다”고 말했다.&lt;br&gt;&lt;br&gt;소상공인 경영부담을 완화하고 경쟁력 강화를 위한 특례보증 규모도 기존 1500억원에서 1700억원으로 늘린다. 중소금융권 대출이자 지원사업, 전통시장 및 상점가 특성화 등 사업도 신규 추진된다.&lt;br&gt;&lt;br&gt;저출생 예산으로는 2818억원이 투입된다. 광주시는 출생아 1인당 50만원 규모의 상생카드를 추가 지원하기 위해 복지부와 협의 중이다.&lt;br&gt;&lt;br&gt;문화, 예술, 스포츠 관광산업 정책도 추진된다. 강 시장은 “KIA 타이거즈, 광주FC를 통해 스포츠 관광을 활성화하고 한강 작가의 노벨상 수상을 계기로 도시 브랜드 강화 등 전략으로 ‘광주 방문의 해’를 추진해 나갈 것”이라고 말했다.&lt;br&gt;&lt;br&gt;이어 “AI(인공지능), 미래차, RE100은 광주 활력의 성장판”이라며 “AI 2단계 사업을 본격 추진하고, 자율주행 성능평가 인증 기반 등으로 미래 모빌리티 산업 집적화 토대 마련, 자율주행 실증 확대 및 신기술 고도화로 신산업 생태계를 조성을 추진하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/ENUIYJB62VNE5JQA2NHPPR2FTU.jpg?width=3996&amp;height=2669&amp;auth=9286bc00ad321d0488b2627c6c1cdef369646e839dc911c23147ea0b410f3143&amp;smart=true" type="image/jpeg" height="2669" width="3996">
+        <media:description type="plain">[광주=뉴시스] 류형근 기자 = 강기정 광주시장이 26일 오전 광주 서구 광주시청 브리핑룸에서 송·신년 기자회견을 하고 있다. 2024.12.26. hgryu77@newsis.com</media:description>
+        <media:credit role="author" scheme="urn:ebu">hgryu77</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>국수본부장, 검찰 압수수색에 “위법 행위”...준항고 제출</title>
+      <link>https://www.chosun.com/national/national_general/2024/12/26/IESFL5AZ7BCHXKVDDEJK4TZHYM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/26/IESFL5AZ7BCHXKVDDEJK4TZHYM/</guid>
+      <dc:creator>구아모 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 26 Dec 2024 04:12:32 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/27LJUY5DVFJZFJZO2MEQZKHZ2A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;우종수 경찰청 국가수사본부장이 23일 오전 서울 여의도 국회에서 열린 행정안전위원회 전체회의에서 의원질의에 답하고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;비상계엄 당시 ‘체포조’ 동원의혹을 받아 검찰 비상계엄 특별수사본부으로부터 압수수색을 당한 우종수 국가수사본부장 등 4명이 검찰의 압수수색에 불복하며 위법하다는 입장을 밝혔다.&lt;br&gt;&lt;br&gt;경찰청 국가수사본부는 우종수 본부장 등 4명이 법원에 준항고장을 제출했다고 26일 밝혔다. 준항고란 수사기관의 압수수색 등 처분을 당한 이가 불복할 때 법원에 취소나 변경을 청구하는 제도다.&lt;br&gt;&lt;br&gt;준항고 청구자는 우 본부장과 윤승영 국가수사본부 수사기획조정관, 전창훈 수사기획담당관, 이현일 경찰청 수사기획계장이다.&lt;br&gt;&lt;br&gt;국수본 관계자는 “피의자로 입건하지도 않고 참고인 신분으로 한 뒤 압수수색 집행을 했다”며 “피의자는 피의자로 권리 보장이 되는데, 참고인 압수수색은 영장 사본도 못받는다”고 했다.&lt;br&gt;&lt;br&gt;앞서 우종수 국가수사본부장은 23일 국회 행정안전위원회 전체 회의에 출석해 검찰의 휴대전화 압수와 관련 ‘참고인한테 압수수색 영장이 청구되는 경우가 흔치 않다’는 질의에 “이례적인 경우”라고 답했다.&lt;br&gt;&lt;br&gt;우 본부장은 “영장 발부 사유에는 ‘내란 혐의 관련해서 확인하기 위하여’라고 기재돼 있었는데 휴대전화 내에 추출할 전자정보 기간이나 내용이 구체적으로 특정돼 있지 않았기 때문에 통상의 영장과는 달랐다”고 했다.&lt;br&gt;&lt;br&gt;검찰 특수본은 윤석열 대통령이 비상계엄을 선포한 이후 국군방첩사령부(방첩사) 요청에 따라 주요 정치인 등을 체포하기 위한 체포조에 강력계 형사 10명을 지원했다는 의혹과 관련해 국수본과 영등포경찰서, 국방부 조사본부 등을 압수수색했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“강원랜드, 단속 요원입니다”… 성인PC방 불법 환전 협박범 붙잡혀</title>
+      <link>https://www.chosun.com/national/incident/2024/12/26/A5KM6VRZNFH6DBVODAAYKY4EL4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/12/26/A5KM6VRZNFH6DBVODAAYKY4EL4/</guid>
+      <dc:creator>춘천=정성원 기자</dc:creator>
+      <description>성인PC방의 불법 환전행위를 몰래 촬영한 뒤 업주를 협박해 금품을 뜯어낸 일당이 경찰에 붙잡혔다.강원경찰청 형사기동대는 공동공갈 혐의로 60대 A씨를 검찰에 구속 송치하고, 공범인 50대 B씨를 불구속 송치했다고 26일 밝혔다.</description>
+      <pubDate>Thu, 26 Dec 2024 04:11:29 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/54FTUISTLZDHJELX6W5GW5V5XU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;성인PC방의 불법 환전행위를 몰래 촬영한 뒤 업주를 협박해 금품을 뜯어낸 일당이 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;강원경찰청 형사기동대는 공동공갈 혐의로 60대 A씨를 검찰에 구속 송치하고, 공범인 50대 B씨를 불구속 송치했다고 26일 밝혔다.&lt;br&gt;&lt;br&gt;A씨 등은 지난 3월부터 6월까지 강원 강릉과 원주지역의 성인 PC방을 돌아다니며 불법 환전행위를 몰래 촬영한 뒤 이를 신고하겠다며 성인 PC방 업주 4명을 협박해 이들로부터 830만원을 가로챈 혐의다.&lt;br&gt;&lt;br&gt;또 이들은 같은 수법으로 다른 성인 PC방 업주 5명에게 1250만원을 뜯어내려다 미수에 그치기도 했다.&lt;br&gt;&lt;br&gt;이들은 강원랜드 또는 사행산업통합감독위원회에 불법 게임장을 신고하며 포상금이 지급된다는 사실을 알고 이 같은 범행을 저질렀다.&lt;br&gt;&lt;br&gt;특히 이들은 범행 과정에서 강원랜드 소속 단속 요원 행세를 하며 성인 PC방 업주들을 협박했고, 업주가 돈을 주면 더는 신고하지 않겠다는 확인서를 써주고 나서 동영상을 지워줬다. 이에 응하지 않은 업주에 대해선 실제로 강원랜드에 신고해 포상금을 타내기도 했다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “앞으로도 파파라치의 금품 갈취 등 불법행위에 대해 집중 단속을 벌여 나갈 계획”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>김용현 측 “비상계엄은 ‘정치 패악질’ 경종 울리고자 한 것”</title>
       <link>https://www.chosun.com/national/court_law/2024/12/26/X4PUIUTR3RHGXJE6FAO67DUKR4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/26/X4PUIUTR3RHGXJE6FAO67DUKR4/</guid>
@@ -872,24 +930,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LULM3SV5C5KT3GA3UGMIF7VU4Q.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;선우은숙의 친언니를 강제 추행한 혐의로 재판에 넘겨진 방송인 유영재가 지난달 12일 수원지법 성남지원에서 열린 첫 재판 후 법정 밖으로 나오고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰이 배우 선우은숙의 친언니를 강제추행한 혐의로 재판에 넘겨진 방송인 유영재(61)에게 징역형을 구형했다.&lt;br&gt;&lt;br&gt;24일 수원지법 성남지원 형사1부(재판장 허용구) 심리로 열린 결심 공판에서 검찰은 “피해자가 제출한 녹취록에서 피고인은 범행을 부인하지 않는데, 재판 진행 과정에서는 부인하는 등 죄질이 불량하다”며 징역 5년을 구형했다.&lt;br&gt;&lt;br&gt;검찰은 “피해자가 추행 사실을 일관되게 진술하고 증거에 비춰 거짓 진술을 할 이유도 없다”고 설명했다. 검찰은 성폭력 치료 프로그램 이수, 취업제한 명령도 내려달라고 재판부에 요청했다.&lt;br&gt;&lt;br&gt;유씨는 최후 진술에서 “이 일로 방송 생활 34년간 이룬 것을 잃었고, 일상도 멈춰 버렸다”며 “반성해야 할 부분과 잘못한 부분이 없는지 스스로 돌아보게 됐다”고 말했다. 그는 앞서 진행된 피고인 신문에서 강제추행 혐의를 거듭 부인했다.&lt;br&gt;&lt;br&gt;유씨는 2023년 3~10월 다섯차례에 걸쳐 선우은숙의 친언니를 강제추행한 혐의로 지난 10월 불구속 기소됐다. 그는 선우은숙과 2022년 결혼했으나 올해 4월 이혼했다. 유씨에 대한 선고공판은 내년 1월 23일 열릴 예정이다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>‘납품 청탁 명목’ 업체로부터 2억 금품...왕정홍 전 방사청장 구속기소</title>
-      <link>https://www.chosun.com/national/regional/2024/12/24/FECKJ3TQYRCRVI3W3OB6XXWRXE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/12/24/FECKJ3TQYRCRVI3W3OB6XXWRXE/</guid>
-      <dc:creator>안양=권상은 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 24 Dec 2024 08:50:46 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3EC5JT266RZGPN5SNSYR4ADRCU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;왕정홍 전 방위사업청장. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;방위사업청 사업 수주 관련 청탁을 명목으로 업체로부터 약 1억9000만원 상당의 금품 등을 받은 혐의로 왕정홍 전 방위사업청장이 구속 기소됐다.&lt;br&gt;&lt;br&gt;수원지검 안양지청 형사3부(부장 김희영)는 24일 왕 전 청장을 변호사법 위반, 범죄수익 은닉의 규제 및 처벌 등에 관한 법률 위반으로 구속 기소했다고 밝혔다.&lt;br&gt;&lt;br&gt;왕 전 청장은 2020년 방사청장을 퇴직한 이후 방위산업 관련 정보기술(IT) 업체 대표 A씨로부터 방위사업청 납품 관련 청탁 명목으로 1억1880만원을 받고, A씨가 소유한 비상장법인의 주식을 저가에 타인 명의로 매수해 7600만원 상당의 이익을 취득한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>인천시의원 음주운전... 차에서 자고 있었다</title>
-      <link>https://www.chosun.com/national/incident/2024/12/24/AMVO3UKVNNGH3J2QSQD2K5BINI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/12/24/AMVO3UKVNNGH3J2QSQD2K5BINI/</guid>
-      <dc:creator>인천=이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 24 Dec 2024 08:32:52 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/54FTUISTLZDHJELX6W5GW5V5XU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;현역 인천시의회 의원이 음주운전 혐의로 경찰에 입건됐다.&lt;br&gt;&lt;br&gt;인천 서부경찰서는 도로교통법상 음주운전 혐의로 인천시의회 소속 A의원을 불구속 입건했다고 24일 밝혔다.&lt;br&gt;&lt;br&gt;A의원은 이날 오전 0시 50분쯤 인천 서구의 한 아파트 지하 주차장에서 음주운전을 한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;“음주운전을 한 차량이 있다”는 신고를 받은 경찰은 현장으로 출동해 A의원을 적발했다. A의원은 적발 당시 차 안에 잠들어 있었던 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰의 음주 측정 결과, A의원의 혈중알코올농도는 면허 취소 수준인 0.08% 이상이었다.&lt;br&gt;&lt;br&gt;A의원은 “운전한 게 기억나지 않는다”는 취지로 경찰에 진술한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “조만간 일정을 잡고 피의자를 불러 정확한 음주운전 경위 등을 조사할 예정”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>충남선관위, 수능 격려품 나눠준 시장 등 공무원 3명 고발</title>
       <link>https://www.chosun.com/national/regional/chungcheong/2024/12/24/GIBHKNUPJVFGFPW4S63Y7FJUJA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2024/12/24/GIBHKNUPJVFGFPW4S63Y7FJUJA/</guid>
@@ -914,15 +954,6 @@
       </media:content>
     </item>
     <item>
-      <title>성탄절 이브에... 어린 자녀 2명, 부모 등 차량 안에서 숨진 채 발견</title>
-      <link>https://www.chosun.com/national/regional/2024/12/24/HHJGM27P35AGNGYMEV5D3KHVRA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/12/24/HHJGM27P35AGNGYMEV5D3KHVRA/</guid>
-      <dc:creator>양주=김현수 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 24 Dec 2024 04:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/54FTUISTLZDHJELX6W5GW5V5XU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;크리스마스이브인 24일 오전 경기 양주시에서 부모와 남녀 어린이 등 4명이 숨진 채 발견돼 경찰이 수사에 나섰다.&lt;br&gt;&lt;br&gt;24일 양주경찰서와 소방당국 등에 따르면 이날 오전 10시 15분쯤 양주시 회암동 회암사지 공터에 주차된 차량 안에서 40대 추정 남녀 2명과 남녀 어린이 등 모두 4명이 숨진 채 발견됐다. 이들은 부모와 자녀 등 한 가족으로 파악됐다.&lt;br&gt;&lt;br&gt;차량 안에는 유서로 보이는 채무를 비관하는 내용의 글과 함께 가연성 물질을 태운 흔적이 발견됐다. 경찰은 정확한 경위를 조사하고 있다.&lt;br&gt;&lt;br&gt;※ 우울감 등 말하기 어려운 고민이 있거나 주변에 이런 어려움을 겪는 가족·지인이 있을 경우 자살예방 상담전화 ☎109 또는 자살예방SNS상담 “마들랜”에서 24시간 전문가의 상담을 받을 수 있습니다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[속보] 尹 측 “내일 공수처 출석 어렵다고 봐”</title>
       <link>https://www.chosun.com/national/court_law/2024/12/24/O6SWXWOPRZDUJITMWLXXO7PX6Y/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/24/O6SWXWOPRZDUJITMWLXXO7PX6Y/</guid>
@@ -930,37 +961,6 @@
       <description/>
       <pubDate>Tue, 24 Dec 2024 02:22:12 +0000</pubDate>
       <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DM7DM7NOVJBOJLCSXKDMVPVD5E.png"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 대통령 측이 크리스마스로 예정된 고위공직자범죄수사처(공수처)의 피의자 조사에 출석하기 어렵다고 24일 밝혔다.&lt;br&gt;&lt;br&gt;윤 대통령의 변호인단 구성을 돕고 있는 석동현 변호사는 이날 서울 서초구 사무실에서 취재진에게 “내일(25일) 출석하기는 어렵지 않나 그렇게 보고 있다”고 말했다.&lt;br&gt;&lt;br&gt;공수처는 지난 20일 윤 대통령에게 25일 오전 10시에 정부과천청사의 공수처 사무실로 피의자 조사를 받으라고 2차 소환 통보했다. 윤 대통령의 범죄 혐의는 내란 우두머리(수괴) 및 직권남용이다.&lt;br&gt;&lt;br&gt;석 변호사는 “대통령은 헌법재판소 재판관과 국민 앞에 설명하는 게 우선이라는 입장”이라면서 “(12·3 비상계엄 선포가) 내란인지 아닌지 수사관에게 설명할 사안이 아니다”고 했다.&lt;br&gt;&lt;br&gt;그러면서도 “헌재 6인 체제는 불완전한 합의체”라고 했다. 오는 27일로 예정된 헌재 탄핵심판 첫 변론준비기일 출석 여부에 대해서도 “회피·불응·거부는 아니다”면서도 “이 자리에서 말할 수 없다“고 했다.&lt;br&gt;&lt;br&gt;석 변호사는 “헌재 심판과 관련해서 대통령과 변호인단이 성탄절 이후에 정리된 입장을 내놓을 것”이라고 말했다.&lt;br&gt;&lt;br&gt;변호인단 구성에 대해서도 즉답을 피한 채 “변호할 분들 많이 나올 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>헌재, 尹 탄핵 심판서류 받은 걸로 간주… 27일 첫 변론</title>
-      <link>https://www.chosun.com/national/court_law/2024/12/24/2OYQIAJFLZDMFA2L2VFA4RSC5I/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/24/2OYQIAJFLZDMFA2L2VFA4RSC5I/</guid>
-      <dc:creator>유종헌 기자, 이슬비 기자, 박혜연 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 23 Dec 2024 15:52:51 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DM7DM7NOVJBOJLCSXKDMVPVD5E.png"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;헌법재판소는 탄핵심판 관련 서류 수령을 거부하고 있는 윤석열 대통령에 대해 서류가 송달된 것으로 간주하기로 결정했다고 23일 밝혔다. 윤 대통령의 탄핵심판 사건의 심리 절차가 본격적으로 시작된 것이다.&lt;br&gt;&lt;br&gt;천재현 헌재 부공보관은 이날 언론 브리핑에서 “윤 대통령의 탄핵심판 관련 서류는 지난 19일 ‘발송 송달’로 보냈고, 20일 관저에 도달했다”며 “발송 송달의 효력은 소송 서류가 도달된 때에 발생한다”고 말했다. 지난 20일 관저에 도달했으나 대통령 경호처가 수취를 거부했기 때문에 헌재는 그날 윤 대통령에게 송달된 것으로 간주하겠다는 것이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SL6WWU7DAJCWDFRBUETSDVFISA.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=김성규&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;◇헌재 “예정대로 27일 준비 기일 진행”&lt;/b&gt;&lt;br&gt;&lt;br&gt;이에 따라 윤 대통령은 서류 송달일로부터 7일 뒤인 오는 27일까지 헌재에 답변서를 제출해야 한다. 답변서 제출이 의무사항은 아니지만, 탄핵심판 관련 절차에 성실히 응하지 않았다는 사정이 윤 대통령 측에게 불리하게 작용할 수는 있다. 헌재는 이와 별도로 윤 대통령 측에 계엄 관련 국무회의록과 계엄 포고령 1호 등을 24일까지 제출하라고 명령했다. 윤 대통령은 이 역시 수령을 거부하는 중이다.&lt;br&gt;&lt;br&gt;헌재는 윤 대통령 측의 대응과 상관없이 27일 1차 변론 준비 기일을 진행하겠다고 밝혔다. 이날 헌재는 탄핵 사유를 쟁점별로 압축하고, 구체적인 입증 방법 등을 논의할 예정이다.&lt;br&gt;&lt;br&gt;이후 헌재는 다음 달 중순까지 한두 차례 추가로 변론 준비 기일을 더 개최할 것으로 보인다. 박근혜 전 대통령의 탄핵심판 사건 당시에도 헌재는 총 세 차례 변론 준비 기일을 진행했다. 노무현 전 대통령 탄핵 때는 변론 준비 기일을 생략했었다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇1월 중순쯤부터 정식 ‘변론 기일’ 열릴 듯&lt;/b&gt;&lt;br&gt;&lt;br&gt;변론 준비가 마무리되면 정식 변론 기일이 열린다. 탄핵 사유에 대한 본격적인 심리가 시작되는 것이다. 법조계에선 1월 중순쯤으로 예상하고 있다. 변론 기일에서는 국회가 탄핵사유로 들었던 비상계엄 요건의 충족 여부, 포고령의 위헌성, 형법상 내란죄 위반 여부 등이 주된 쟁점으로 다뤄질 전망이다.&lt;br&gt;&lt;br&gt;헌재는 대통령 탄핵심판 사건에서 주 2회가량 변론 기일을 열어왔다. 박 전 대통령 때는 주 2회씩 17차례를, 노 전 대통령 때는 총 7차례 변론 기일을 진행했다. 이번 사건은 박 전 대통령 때보다 사건 구조가 단순하지만, 윤 대통령이 적극 대응 의지를 보이고 있는 만큼 변론 기일이 최소 10회 이상은 열릴 것이라는 전망이 우세하다. 이럴 경우 변론에만 2~3개월이 걸릴 것으로 보인다.&lt;br&gt;&lt;br&gt;변론 기일에는 주요 증인들에 대한 신문도 진행된다. 이번 탄핵심판에는 김용현 전 국방부 장관을 비롯해 비상계엄에 가담했던 군경 지휘부, 비상계엄 전후 국무회의에 참석했던 국무위원 등이 증인으로 출석할 것으로 보인다.&lt;br&gt;&lt;br&gt;최종 변론기일에서는 윤 대통령 측과 국회 측의 최후 진술이 진행된다. 윤 대통령이 직접 출석해 입장을 밝힐 가능성도 있다. 박 전 대통령은 최후 변론 때 서면 입장문을 변호사가 대독했고, 노 전 대통령은 별도의 입장 공개 없이 변호인단이 최후 진술을 했다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇약 2주간 평의, 평결 거쳐 최종 선고&lt;/b&gt;&lt;br&gt;&lt;br&gt;변론이 종결되면 재판관들이 서로 의견을 나누는 평의, 결론을 정하는 평결이 차례로 이뤄진다. 평의와 평결은 비공개로 진행되고, 통상 2주가 걸린다.&lt;br&gt;&lt;br&gt;이후 최종 선고가 열린다. 선고의 법정 시한은 탄핵소추 의결서 접수일로부터 180일이 되는 내년 6월 11일이다. 그러나 법조계에선 문형배·이미선 헌법재판관이 퇴임하는 내년 4월 18일 이전에 선고가 날 것이라는 관측이 우세하다.&lt;br&gt;&lt;br&gt;한편 윤 대통령은 고위공직자범죄수사처(공수처)가 지난 16일에 이어 두 번째 보낸 출석 요구서도 수령을 거부한 것으로 알려졌다. 공수처는 이날 “대통령실 총무비서관실, 부속실에 발송한 출석요구서는 ‘수취인 불명’, 대통령 관저에 보낸 요구서는 ‘수취 거절’인 것으로 우체국 시스템상으로 확인된다”고 했다. 공수처 관계자는 “윤 대통령이 출석하지 않으면 새로 날짜를 정해 3차 출석요구서를 보낼지, 곧바로 체포영장을 청구할지 등을 검토하겠다”고 했다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇“계엄 하나로 수사에 탄핵까지... 尹, 답답하다 토로”&lt;/b&gt;&lt;br&gt;&lt;br&gt;이에 대해 윤 대통령을 돕고 있는 석동현 변호사는 “국가 장래에 중요한 영향을 미치고 앞으로 헌정 체계에 중요한 시금석이 될 수 있는 심판 절차에 대해 당사자인 대통령으로서 준비가 필요하다”면서 “(윤 대통령은) 절대 시간을 끌겠다거나 피하겠다는 생각이 아니라 충실한 탄핵 심판이 필요하다는 생각”이라고 말했다. 공수처 출석 요구에 대해선 “대통령은 (수사보다) 탄핵 심판 절차가 우선돼야 한다고 본다”고 했다.&lt;br&gt;&lt;br&gt;석 변호사는 또 “비상계엄 하나로 수사하고, 탄핵하고 한다면 대통령이 바보냐. 왜 계엄을 했겠는가”라며 “윤 대통령이 ‘굉장히 답답하다’고 토로했다”고 전했다.&lt;br&gt;&lt;br&gt;&lt;b&gt;☞발송 송달&lt;/b&gt;&lt;br&gt;&lt;br&gt;소송 당사자가 관련 서류 수령을 거부할 경우, 서류를 등기우편 등으로 발송하고 이를 송달된 것으로 간주하는 것이다. 대법원은 1998년 판례를 통해 보충(동거인 등에 대신 전달)·유치(집 등에 놓아두기) 송달이 어려울 경우 우편으로 보내 도착 장소에 도달하면 송달의 효력이 발생한다고 밝힌 바 있다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[오늘의 날씨] 2024년 12월 24일</title>
-      <link>https://www.chosun.com/national/national_general/2024/12/24/STOXASL7YRCJTD63OIXZ5CCJYM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/24/STOXASL7YRCJTD63OIXZ5CCJYM/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Mon, 23 Dec 2024 15:31:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DQSZFV2GE5G37A57PN4EZ535YA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>수천만원 ‘뇌물수수 의혹’… 민주당 전남 국회의원 보좌관 구속</title>
-      <link>https://www.chosun.com/national/regional/honam/2024/12/23/OIAUYVZ7ERDPJBO4JHTF2AZRYU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/honam/2024/12/23/OIAUYVZ7ERDPJBO4JHTF2AZRYU/</guid>
-      <dc:creator>광주광역시=조홍복 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 23 Dec 2024 14:13:50 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2JH54QIOSVGRTHWN627RBN5R7E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;광주지방법원. /조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;뇌물수수 혐의로 검찰 수사를 받던 전남지역 모 국회의원 보좌관이 구속됐다.&lt;br&gt;&lt;br&gt;광주지법 최유신 영장 전담 부장판사는 23일 더불어민주당 국회의원 보좌관 A(50대)씨에 대해 뇌물수수 혐의로 검찰이 청구한 구속영장을 발부했다. 재판장은 “증거인멸과 도주 우려가 있다”며 영장 발부 사유를 밝혔다.&lt;br&gt;&lt;br&gt;민주당 소속 전남 모 지역구 의원 보좌관 A씨는 지역 업자에게서 수천만원의 뇌물을 받은 혐의를 받는 것으로 알려졌다. 국고 보조금 사업과 관련된 것으로 전해졌다.&lt;br&gt;&lt;br&gt;검찰은 지난달 7일 A씨에 대해 구속영장을 청구했으나 기각되자 보완 수사를 거쳐 영장을 재청구했다.&lt;br&gt;&lt;br&gt;검찰 관계자는 “수사가 진행 중인 사안에 대해 구체적으로 혐의를 확인해 줄 수 없다”고 밝혔다. 다만 검찰은 A씨를 둘러싼 뇌물수수 의혹과 관련한 추가 연루 의혹도 수사한다는 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/2JH54QIOSVGRTHWN627RBN5R7E.jpg?width=600&amp;height=400&amp;auth=19b88e41c9b1072ea4fdc209357e93969f261e7346c469ca8176a439018f5f6f&amp;smart=true" type="image/jpeg" height="400" width="600">
-        <media:description type="plain">광주지방법원. /조선DB</media:description>
-        <media:credit role="author" scheme="urn:ebu"/>
-      </media:content>
     </item>
     <item>
       <title>법원, 이재명 ‘선거법 위반’ 2심 국선변호인 선정</title>
