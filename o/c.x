@@ -13,6 +13,100 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>22년 전 사건에 불만 품고 1400건 고소·진정 70대 구속 송치</title>
+      <link>https://www.chosun.com/national/national_general/2024/12/26/22ASANBGOBCDLHAHLA6XXMWGDY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/26/22ASANBGOBCDLHAHLA6XXMWGDY/</guid>
+      <dc:creator>진창일 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 26 Dec 2024 13:12:13 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HIBFPNQK45T6XG44XYMTSW6W3E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산 사하경찰서 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;22년 전 종결된 사건에 대한 불만 때문에 경찰관에게 행패를 부리고 상습적으로 고소·진정을 제기한 70대가 검찰에 넘겨졌다.&lt;br&gt;&lt;br&gt;부산 사하경찰서는 26일 “경찰관 등을 협박하고 폭행한 혐의(공무집행방해 등)로 70대 A씨를 구속 송치했다”고 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 2002년 수사가 종결된 사건에 불만을 품고 수년 동안 일주일에 4~5차례 사하경찰서를 찾아 경찰관을 협박하거나 폭행한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;또 수년 동안 경찰관이나 검사 등을 상대로 1400여 건에 달하는 직무유기 혐의 등 고소와 진정을 제기한 혐의도 받고 있다. A씨는 이번 구속 송치에 앞서 수 차례 무고나 업무방해 등 혐의로 입건됐던 것으로 전해졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/HIBFPNQK45T6XG44XYMTSW6W3E.jpg?width=3872&amp;height=2592&amp;auth=0f6a061ee24b7e4fd21a8a22b0ca66ad4943cd195f7f63fef2313f6fa2a43c62&amp;smart=true" type="image/jpeg" height="2592" width="3872">
+        <media:description type="plain">부산 사하경찰서 전경.(사하서 제공) ⓒ News1</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>연세대 자연계열 수시합격 포기자 1046명... 의대 증원 여파</title>
+      <link>https://www.chosun.com/national/education/2024/12/26/2E5ZTISBKJE3TPKQOPBJ4DLFXI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/education/2024/12/26/2E5ZTISBKJE3TPKQOPBJ4DLFXI/</guid>
+      <dc:creator>오주비 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 26 Dec 2024 11:32:31 +0000</pubDate>
+      <content:encoded>26일 2025학년도 수시 전형 추가 합격자 발표가 모두 끝난 가운데, 연세대 자연계열 수시 전형에 합격한 이들 중 1046명이 등록을 포기한 것으로 나타났다. 이는 연세대 자연계열 수시 모집 인원(1047명)의 99.9%에 해당하는 규모다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TSTTBVVM2NISLJ3OQ4JFB7FQLI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서대문구 연세대학교 정문. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 종로학원이 연세대 수시 추가 합격 최종 현황을 분석한 결과, 연세대 자연계열 수시 1차(509명)·2차(286명)·3차(152명)·4차(99명) 추가 합격자는 총 1046명이었다. 이는 이날까지 합격 통보를 받은 연세대 자연계열 수시 지원자 중 1046명이 등록을 포기했다는 의미다. 801명의 추가 합격자가 나왔던 지난해보다 240여명 더 많은 숫자다.&lt;br&gt;&lt;br&gt;연세대 자연계열 수시에 합격했지만 등록하지 않은 이들은 의과대학이나 서울대 자연계열에 동시 합격한 경우로 입시 업계는 분석하고 있다. 내년도 의대 입학 정원이 수시에서 1166명 늘어난 만큼, 지난해보다 의대와 연세대 자연계열에 동시 합격한 수험생이 많았던 것이다.&lt;br&gt;&lt;br&gt;의예과도 지난해보다 추가 합격자가 많이 나왔다. 올해 연세대 의예과 수시 추가 합격자는 총 37명으로, 지난해(25명)보다 12명 늘었다. 연세대 의대 외에 서울대 의대 등에 동시 합격해 빠져나간 수험생이 지난해보다 많은 것이다.&lt;br&gt;&lt;br&gt;이날은 전국 모든 대학이 수시 추가 합격자를 발표하는 마지막 날이었다. 수험생은 27일 오후 10시까지 수시 원서를 접수한 대학들 중 합격 통보를 받은 곳에 등록해야 한다. 수시에 지원한 대학들 중 한 곳에서라도 합격 통보를 받으면, 정시 전형에 지원할 수 없다. 대학들은 27일 오후 10시 수험생 등록이 마감된 이후 발생한 미충원 인원은 정시로 이월해 선발한다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/TSTTBVVM2NISLJ3OQ4JFB7FQLI.jpg?width=6000&amp;height=4000&amp;auth=e09eef439f77e717bf39d0b761a8715371f1b77292906521af607d11d09d5252&amp;smart=true" type="image/jpeg" height="4000" width="6000">
+        <media:description type="plain">[서울=뉴시스] 고범준 기자 = 수시모집 자연 계열 논술 시험에서 유출 논란이 제기된 연세대학교가 논술 시험을 추가로 실시하기로 했다. 연세대는 지난달 12일 시행된 2025학년도 자연 계열 논술시험과 관련된 후속 조치로 오는 8일에 추가 시험(2차 시험)을 시행한다고 밝혔다. 
+
+사진은 1일 오전 서울 서대문구 연세대학교 정문 앞에 수시논술 차량통행 통제 관련 현수막이 설치되어 있다. 2024.12.01. bjko@newsis.com</media:description>
+        <media:credit role="author" scheme="urn:ebu">bjko</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>‘尹 탄핵 심판’ 첫 준비 재판에 2만명 방청 신청... 경쟁률 2251대1</title>
+      <link>https://www.chosun.com/national/court_law/2024/12/26/Y2U55AHNR5CRRDTZBTNZCVHSC4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/26/Y2U55AHNR5CRRDTZBTNZCVHSC4/</guid>
+      <dc:creator>박강현 기자, 박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 26 Dec 2024 10:59:44 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ESGBZQNWTNFFJKWLLG34SCL7W4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 종로구 헌법재판소. /전기병 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 대통령의 탄핵 심판 첫 재판을 보기 위해 시민 2만 여명이 방청 신청을 한 것으로 26일 나타났다.&lt;br&gt;&lt;br&gt;법조계에 따르면 27일 오후 2시에 열리는 윤 대통령 탄핵 심판 첫 변론 준비 기일을 지켜보기 위해 총 2만264명이 온라인으로 방청 신청을 했다.&lt;br&gt;&lt;br&gt;일반 방청인을 위한 자리는 총 18석이 배정됐는데, 이 가운데 온라인 추첨을 통해 배정한 좌석은 9석으로 최종 경쟁률은 ‘2251대1′을 기록했다. 나머지 9석은 현장에서 선착순으로 배분할 예정이다.&lt;br&gt;&lt;br&gt;방청 신청을 했다가 낙첨 고배를 마신 서울권 로스쿨 재학생 김모(27)씨는 “소셜미디어에서 변론 준비 기일 방청 신청을 할 수 있다는 사실을 접하고 바로 온라인에서 신청했다”며 “탄핵 심판이 어떻게 진행되는지 학생으로서 직접 보고 싶은 마음이 있었다. 다음에 또 신청해보려 한다”고 했다.&lt;br&gt;&lt;br&gt;변론 준비 기일에선 국회 측이 대통령 탄핵 사유를 뒷받침할 만한 증거 등 입증 자료를 제출하고, 재판부는 이에 대한 윤 대통령 측의 반박 의견 등을 참고해 향후 재판에서 어떤 일정·방식을 거쳐 증거 조사를 진행할지를 협의한다.&lt;br&gt;&lt;br&gt;또 사건 관련자 중 누구를, 몇 명이나 증인으로 부를 것인지도 준비 기일을 통해 가닥이 잡힌다.&lt;br&gt;&lt;br&gt;다만 변론 준비 기일에는 당사자인 윤 대통령의 출석 의무는 없다. 윤 대통령 대리인은 출석해야 한다.&lt;br&gt;&lt;br&gt;한편 단순 비교는 어렵지만, 박근혜 전 대통령 탄핵 심판 선고 기일 당시 방청을 신청한 인원은 총 1만9096명이었다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>尹대통령 서류 안 냈지만... 헌재, 내일 첫 기일 예정대로</title>
+      <link>https://www.chosun.com/national/court_law/2024/12/26/QWZDYQWCT5FBDD5236UEWA2KEA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/26/QWZDYQWCT5FBDD5236UEWA2KEA/</guid>
+      <dc:creator>이슬비 기자, 박강현 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 26 Dec 2024 11:59:46 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CCQWPZHCURNBZKCR3LN3HRZNO4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령 탄핵심판 첫 변론준비기일을 하루 앞둔 26일 서울 종로구 헌법재판소에 경찰이 근무를 서고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 대통령은 헌법재판소의 탄핵심판 첫 변론 준비 기일을 하루 앞둔 26일에도 헌재의 서류 제출 요구에 일절 응하지 않았다. 헌법재판관 6명 전원은 이날 오전 재판관 회의를 열고 27일 첫 변론 준비 기일은 예정대로 진행하기로 했다.&lt;br&gt;&lt;br&gt;이진 헌재 공보관은 이날 브리핑에서 “대통령 측에서 접수된 서면은 일절 없다”며 “지난 24일 국회 소추위원 측은 서증(증거로 내는 서류)과 증인 신청 등이 포함된 입증 계획과 증거 목록을 헌재에 제출했다”고 말했다. 헌재는 지난 16일부터 윤 대통령 측에 답변서와 국무회의 회의록, 포고령 등을 내라고 했지만, 윤 대통령 측은 우편 수령을 거부한 채 무응답하고 있다.&lt;br&gt;&lt;br&gt;이날 재판관 회의에선 변론 준비 절차를 담당하는 수명(受命) 재판관(이미선·정형식)들이 사건 진행 상황과 대응 방안을 보고하고, 전원 재판부도 관련 상황을 공유했다고 한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WYCK4JBFNNAGNBXQ44PUH3G7EQ.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=양인성&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;보통 본격적인 변론에 앞서 열리는 변론 준비 기일에는 수명 재판관들이 사건의 쟁점과 증거를 정리하지만, 윤 대통령 측이 출석하지 않아 절차가 공전할 가능성이 커졌다. 김형두 헌법재판관은 이날 “원래 한쪽이라도 불출석하면 진행할 수 없게 돼 있다”면서도 “수명 재판관이 준비 절차가 더 필요하다고 생각되면 한 번 더 기일을 지정할 것”이라고 했다.&lt;br&gt;&lt;br&gt;김 재판관은 또 “(국회 측에서) 제출된 자료를 가지고 재판을 준비하고 있다”며 “변론 준비 절차와 관계없이 재판 준비는 할 수 있다”고 했다. 국회 측이 제출한 포고령 등이 증거가 될 수 있다는 취지다. 김 재판관은 전날 부친상(喪)을 당했지만 이날 정상 출근해 재판관 회의에 참석했다.&lt;br&gt;&lt;br&gt;국회 측은 김용현 전 국방부 장관과 여인형 방첩사령관, 노상원 전 정보사령관 등 계엄 사건으로 구속된 피의자 9명을 증인으로 신청하겠다고 밝혔다. 윤 대통령 측은 이날 탄핵심판과 관련해 별다른 입장을 내놓지 않았다.&lt;br&gt;&lt;br&gt;한편, 27일 열리는 첫 변론 준비 기일에는 총 2만264명이 온라인으로 방청을 신청해 경쟁률 2251대1을 기록했다. 추첨 대상 좌석은 9석이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>강남 산후조리원 비싼 곳은 2주에 2900만원... 서울 평균 값은</title>
+      <link>https://www.chosun.com/national/national_general/2024/12/26/2JZ4MJGGIBF2TOLQOEEZMZAB7A/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/26/2JZ4MJGGIBF2TOLQOEEZMZAB7A/</guid>
+      <dc:creator>김영우 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 26 Dec 2024 12:20:09 +0000</pubDate>
+      <content:encoded>서울시 내 산후조리원을 이용하려면 평균 478만원(2주 기준)이 드는 것으로 조사됐다. 1박당 34만원꼴이다. 가장 비싼 산후조리원은 강남구 역삼동에 있는 A산후조리원으로 2주 요금이 2900만원이었다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LKNRFQCEH5KCJIOXYDRJZSDFFE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 2월 28일 오후 서울 시내 한 산후조리원 신생아실에서 간호사 등 관계자들이 신생아들을 돌보고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울시가 지난 7~9월 서울시 내 민간 산후조리원 110곳을 전수조사한 결과에 따르면, 평균 요금은 일반실 기준 478만원으로 집계됐다. 특실은 평균 764만원이었다.&lt;br&gt;&lt;br&gt;A산후조리원은 배우 손예진·이민정·한가인 등이 이용해 유명세를 탔다. 2016년에는 중국 베이징에도 지점을 냈다. 일반실보다 큰 특실 요금은 5040만원에 달했다. 하룻밤 360만원 수준이다.&lt;br&gt;&lt;br&gt;서울시 내 산후조리원 요금은 전국 평균보다 비싼 것으로 조사됐다. 일반실의 경우 전국 평균은 347만원인데 38% 비쌌다. 특실은 전국 평균(504만원)보다 51% 비싼 것으로 조사됐다.&lt;br&gt;&lt;br&gt;서울시 내에는 민간 산후조리원보다 요금이 싼 공공 산후조리원도 있지만 2곳(서대문구·송파구)에 불과했다. 공공 산후조리원은 민간 산후조리원의 절반 수준인 약 230만원에 이용할 수 있다.&lt;br&gt;&lt;br&gt;모자보건법에 따르면, 산후조리원은 요금을 홈페이지 등에 공개해야 하지만 실제로 공개하고 있는 산후조리원은 34.8%에 불과했다.&lt;br&gt;&lt;br&gt;서울시 관계자는 “조사 결과, 산후 조리 서비스에는 큰 차이가 없었다”며 “가격 거품이 심한 상황”이라고 했다. 이은희 인하대 소비자학과 명예교수는 “산모들이 요금을 비교하고 합리적으로 선택할 수 있도록 지자체나 정부가 더 철저하게 단속해야 한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>내년 설 열차 승차권, 1월 6~9일 예매</title>
+      <link>https://www.chosun.com/national/transport-environment/2024/12/26/5MOJ4KIDDZAYHPUMR36FJWNQOU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2024/12/26/5MOJ4KIDDZAYHPUMR36FJWNQOU/</guid>
+      <dc:creator>김아사 기자</dc:creator>
+      <description>한국철도공사는 다음 달 6일부터 9일까지 내년 설 열차 승차권 예매를 시작한다고 26일 밝혔다.</description>
+      <pubDate>Thu, 26 Dec 2024 11:51:55 +0000</pubDate>
+      <content:encoded>한국철도공사는 다음 달 6일부터 9일까지 내년 설 연휴 열차 승차권 예매를 시작한다고 26일 밝혔다. 예매 대상은 내년 1월 24일부터 2월 2일까지 운행하는 열차다.&lt;br&gt;&lt;br&gt;경로·장애인·국가유공자(교통 지원 대상) 등 교통 약자 예매는 내년 1월 6~7일 오전 9시부터, 일반 국민 예매는 1월 8~9일 오전 7시부터 진행된다. 코레일 홈페이지, 스마트폰 앱(코레일톡)을 이용하거나 전화(1544-8545)로 예매가 가능하다.&lt;br&gt;&lt;br&gt;코레일은 공석 운행을 줄이기 위해 설 연휴 기간 한시적으로 승차권 환불 위약금을 높인다. 출발 2일 전까지 취소는 무료였지만 이 기간엔 400원을 받고, 400원을 받던 1일 전까지 취소는 승차권 가격의 5%를 받는다. 출발 3시간 전까지 취소는 10%, 이후 출발까지 취소는 20%를 받는다. 출발 후 20분까지 위약금은 30%로 올라간다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>전세계 인플루언서 3500명, ‘서울콘’ DDP에 모인다</title>
+      <link>https://www.chosun.com/national/national_general/2024/12/26/HMQUKSW6EZDKRENY2GDAU47QGI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/26/HMQUKSW6EZDKRENY2GDAU47QGI/</guid>
+      <dc:creator>김영우 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 26 Dec 2024 11:51:14 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HUVM2Y4VZVGDDJQ3244FLJNB6M.png"&gt;&lt;figcaption&gt;&lt;small&gt;작년 12월 31일 서울 중구 동대문디자인플라자에서 열린 서울콘 카운트다운 행사의 모습. /서울경제진흥원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;올 연말 세계 50여 국 인플루언서 3500여 명이 서울 동대문디자인플라자(DDP)에 모여 새해 카운트다운 행사를 한다. 서울의 카운트다운 행사가 이들의 스마트폰을 타고 전 세계로 생중계될 것으로 보인다. 인플루언서는 팔로어(구독자)가 많아 사실상 ‘1인 미디어’로 활동하는 유명 유튜버, 틱토커 등을 말한다.&lt;br&gt;&lt;br&gt;서울경제진흥원(SBA)은 오는 28일부터 다음 달 1일까지 서울 중구 DDP에서 인플루언서 박람회 ‘2024 서울콘(SeoulCon)’을 연다고 26일 밝혔다. 올해 2회째로 인플루언서들을 초청해 서울의 문화를 알리는 행사다. 작년(3000명)보다 참가하는 인플루언서가 늘어났다.&lt;br&gt;&lt;br&gt;김현우 서울경제진흥원 대표는 “참가자들의 팔로어 수를 다 더하면 30억명에 달한다”며 “세계인들에게 서울을 알릴 수 있는 자리가 될 것”이라고 했다. 서울경제진흥원에 따르면, 지난해 참가한 인플루언서들이 만든 콘텐츠의 조회 수는 총 4억3000만회가 넘는다. 일부 인플루언서는 이미 입국해 서울의 맛집, K팝 등과 관련한 영상을 만들어 올리고 있다. 3698만 팔로어를 가진 중국의 쇼핑 인플루언서 ‘동선생’은 우리나라 화장품과 옷 등을 파는 쇼핑 방송을 할 예정이다.&lt;br&gt;&lt;br&gt;팔로어가 673만명인 인도의 뷰티 인플루언서 푸남 나루카와 국내에서 활동 중인 러시아 출신 모델 다샤 타란, 일본의 코미디언 우에쿠사 가즈히사, K팝 걸그룹 멤버로 데뷔한 인도네시아 인플루언서 아이린 수완디 등이 참가한다. 31일 밤 카운트다운 행사 외에 드라마, 게임 등 시상식과 K팝 콘서트도 열린다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>대법, 의대 증원 효력정지 가처분 최종 기각</title>
+      <link>https://www.chosun.com/national/court_law/2024/12/26/HBVVAMFGJ5AUDE7JVVAOATKPEY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/26/HBVVAMFGJ5AUDE7JVVAOATKPEY/</guid>
+      <dc:creator>박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 26 Dec 2024 10:57:48 +0000</pubDate>
+      <content:encoded>수험생과 의대생들이 한국대학교육협의회를 상대로 낸 의대 증원 효력 정지 가처분 소송에 대해 대법원이 최종 기각 결정을 내렸다. 의대 증원 관련 절차는 중단 없이 계속 이어지게 됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BN7CIOGSHFL37N2VZP3XTL6FMI.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;크리스마스를 하루 앞둔 24일 대구의 한 대학병원에 병원 관계자가 환자 침상을 밀어 검사실로 향하고 있다. 지난 2월 의대 증원 문제를 두고 시작된 정부와 의료계의 갈등은 탄핵 정국을 맞아 고스란히 해를 넘기게 됐다. 또 의료공백은 내년에도 계속될 전망이다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;26일 법조계에 따르면, 대법원 2부(주심 박영재 대법관)는 수험생·의예과 1학년생 등 8명이 제기했던 대입계획 변경승인 효력정지 가처분 신청을 지난 24일 심리불속행 기각 결정했다. 심리불속행 기각이란 원심 판결에 중대한 법령위반 등의 특별한 사유가 없으면 별도로 이유를 명시하지 않고 판결을 그대로 확정하는 것이다.&lt;br&gt;&lt;br&gt;이들은 지난 6월 대교협을 상대로 의대 정원 증원의 효력을 정지해달라는 가처분 신청을 냈다. 하지만 지난 7월 1심을 맡은 서울남부지법은 해당 가처분 신청을 기각했고, 2심을 맡은 서울고법도 지난 8월 항고 기각 결정을 내렸다.&lt;br&gt;&lt;br&gt;앞서 의료계에서는 의대 증원 이후 정부 등을 상대로 비슷한 가처분 신청을 여러 건 제기한 바 있다. 이번 사건을 제외한 대부분은 이미 기각된 상태고, 여러 본안 소송들은 아직 1심 결론도 나지 않았다.&lt;br&gt;&lt;br&gt;대법원이 이번 가처분 신청까지 최종 기각하면서 의대 증원 갈등을 사법부를 통해 해결하기는 어려워졌다는 반응이 나온다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘5명 사망·9명 실종’ 제주 해상 침몰 금성호 수색 47일 만에 종료</title>
+      <link>https://www.chosun.com/national/national_general/2024/12/26/MDNIPKT45ZDXRHQGLZHUJ4IDAQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/26/MDNIPKT45ZDXRHQGLZHUJ4IDAQ/</guid>
+      <dc:creator>진창일 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 26 Dec 2024 10:13:28 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ARYX4LAU4RO53O7IXQF3PU54BM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;해경 잠수사들이 지난달 19일 오전 제주 비양도 해상에서 '135금성호' 실종 선원 10명을 찾기 위해 수중 수색을 하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제주 해상에서 침몰해 5명의 사망자와 9명의 실종자가 발생한 ‘135금성호’ 침몰사고 실종자 수색이 47일 만에 종료됐다.&lt;br&gt;&lt;br&gt;제주해양경찰서는 “지난 24일 오후 6시를 기점으로 135금성호 침몰사고 실종자 수색을 종료했다”고 26일 밝혔다. 부산 선적 대형 선망 어선 135금성호(129t급)는 지난달 8일 오전 4시 31분쯤 제주 비양도 북서쪽 약 22㎞ 해상에서 배가 기울고 있다는 신고 후 완전히 침몰했다.&lt;br&gt;&lt;br&gt;이 사고로 승선원 27명(한국인 16명, 인도네시아인 11명) 중 한국인 선원 5명이 숨졌고, 한국인 선원 7명과 인도네시아인 선원 2명 등 9명이 실종 상태다.&lt;br&gt;&lt;br&gt;해경은 사고 직후부터 47일에 걸친 수색작업에 함선 1128척, 항공기 171대를 투입했다. 수중수색은 총 51차례 벌였고, 해안가 수색에는 해경·군·경찰·지자체·유관기관 등 1만2800여 명이 투입됐다.&lt;br&gt;&lt;br&gt;제주해경 관계자는 “아직까지 발견되지 않은 실종자가 있어 마음이 아프고, 유가족과 실종자 가족에게 깊은 위로의 말씀을 드린다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/ARYX4LAU4RO53O7IXQF3PU54BM.jpg?width=1280&amp;height=720&amp;auth=88a63b39798e24bae1a934c55c88ec59f4c3948f010369cc9673986d6b435dfd&amp;smart=true" type="image/jpeg" height="720" width="1280">
+        <media:description type="plain">[제주=뉴시스] 해경 잠수사들이 19일 오전 제주 비양도 해상에서 '135금성호' 실종 선원 10명을 찾기 위해 수중 수색을 하고 있다. (사진=제주지방해양경찰청 제공) 2024.11.19. photo@newsis.com 
+</media:description>
+      </media:content>
+    </item>
+    <item>
       <title>전태일 모친 故 이소선 여사, 43년 만에 계엄법 위반 무죄</title>
       <link>https://www.chosun.com/national/national_general/2024/12/26/NSPE3HNP6BHHXKN3QRGBGUV7YE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/26/NSPE3HNP6BHHXKN3QRGBGUV7YE/</guid>
@@ -733,15 +827,6 @@
       <content:encoded>‘12·3 비상계엄' 사태로 내란 혐의를 받는 윤석열 대통령이 25일 고위공직자범죄수사처(공수처)의 출석 요구에 불응하면서 조사가 무산됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/X4NOUC7UR2YD7TLFCE53UOLCCM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;고위공직자범죄수사처가 윤석열 대통령에게 통보한 2차 소환일인 25일 오전 경기 정부과천청사 공수처에서 취재진이 대기하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;공수처와 경찰 국가수사본부, 국방부 조사본부로 구성된 비상계엄 공조수사본부는 “오후 6시 현재 윤 대통령 측으로부터 연락은 없으며, 변호인 선임계도 제출되지 않았다”고 이날 밝혔다.&lt;br&gt;&lt;br&gt;앞서 공수처는 윤 대통령에게 이날 오전 10시까지 정부과천청사로 출석해 조사를 받으라고 통보했다. 윤 대통령이 지난 18일 1차 출석 요구에 응하지 않자 재차 출석을 요구한 것이다. 그러나 윤 대통령은 이날도 공수처에 출석하지 않았다.&lt;br&gt;&lt;br&gt;공수처는 당초 출석 요구 시간인 오전 10시가 지난 뒤에도 “오후에 윤 대통령이 출석할 가능성을 배제하지 않겠다”며 기다렸지만, 오후 6시까지 아무런 연락이 없자 조사가 무산된 것으로 판단했다.&lt;br&gt;&lt;br&gt;공수처는 윤 대통령에게 3차 소환을 요구할지, 곧바로 체포영장을 청구할지를 조만간 결정한다는 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>“그 무서운 벙커?”...충북에선 크리스마스 축제 열렸다.</title>
-      <link>https://www.chosun.com/national/regional/chungcheong/2024/12/25/2P3NS2TON5HKTJET5HVCBV3LWM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2024/12/25/2P3NS2TON5HKTJET5HVCBV3LWM/</guid>
-      <dc:creator>신정훈 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 25 Dec 2024 09:05:15 +0000</pubDate>
-      <content:encoded>계엄 사태 당시 주요 인사를 가두는 장소로 활용될 뻔 했던 벙커가 연일 입에 오르내리고 있다. 용도와 달리 계엄 사태로 인해 공포의 공간으로 인식되고 있는 벙커에서 크리스마스 공연이 열리는 등 시민들의 발걸음이 이어지고 있다.&lt;br&gt;&lt;br&gt;‘당산 생각의 벙커’는 1973년 충북도청에서 250m 떨어진 당산의 암반을 깎아 만든 전쟁 대비 군사시설이다. ‘당산 벙커’ ‘당산 터널’로 불리던 벙커는 전쟁이나 유사시 방공호 및 도청 공무원 비상근무를 위한 충무시설로 활용돼 왔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/M74M5VPFYJCSRN7OESTYIPWJAQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;충북도가 충무시설로 활용하던 당산 벙커./충북도&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이 벙커는 면적 2156㎡(652평), 길이 200m, 폭 4m, 높이 5.2m 정도의 아치형으로, 유사시 작은 화물차가 물자 등을 운반하기 위해 드나들 수있다. 터널 안엔 200㎡, 165㎡, 20~66㎡ 등 크고 작은 공간 14곳이 있다.&lt;br&gt;&lt;br&gt;유사시를 대비한 각종 훈련시 당산 벙커를 이용했던 충북도는 낡고 실내 습도 조절이 어려운 데다 안전점검에서 C등급 판정이 나오자 대체지를 마련해 충무시설을 이전했다.&lt;br&gt;&lt;br&gt;방치됐던 벙커는 김영환 충북지사가 취임하면서 일반에 공개하기로 결정했다.&lt;br&gt;&lt;br&gt;도는 당산 벙커를 보안구역에서 해제하면서 어두컴컴한 터널에 조명을 설치하고 각종 시설물을 보강했다. 보강공사를 마친 벙커는 전시·공연 등 문화 프로그램을 운영하는 복합문화공간으로 변신해 지난해 11월 일반에 개방됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MPJHJYCHVZHO5DEXJULUYYSTXE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 10월15일 충북도 충무시설인 당산 벙커(당산 생각의 벙커)가 전면 개방됐다. 사진은 개방식 행사 모습./충북도&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이름은 ‘당산 생각의 벙커’로 정했다. 벙커 활용을 위한 일반 아이디어 공모전도 했고, 전문가들 초청 간담회도 열었다.&lt;br&gt;&lt;br&gt;50년만에 빗장이 풀린 당산 생각의 벙커에서는 수시로 전시회가 열리고, 각종 행사가 펼쳐진다. 또 계절에 따라 각종 이벤트를 여는 등 시민들의 도심속 새로운 휴식 공간으로 자리 잡고 있다.&lt;br&gt;&lt;br&gt;25일 오후 당산 생각의 벙커에서는 ‘신나는 크리스마스 페스티벌’ 공연이 펼쳐졌다.&lt;br&gt;&lt;br&gt;이날 공연에는 아이와 부모 등 300여명이 찾아 잃어버린 크리스마스 분위기를 만끽했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/O75ZHA5B55DOZARTOAR4UEMBQU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;25일 오후 충북도의 옛 충무시설인 당산 생각의 벙커에서 올뮤지컬단이 크리스마스 캐럴 메들리 공연을 하고 있다/신정훈 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;공연을 찾은 성주영(43)씨 부부는 “요즘 크리스마스인지도 모르게 삭막해 아쉬움이 컸는데 무서울 것 같던 벙커에서 아이 함께 크리스마 축제를 즐길 수 있어 좋았다”고 말했다.&lt;br&gt;&lt;br&gt;이날 행사에 참여한 김영환 지사는 “앞으로도 많은 행사가 마련돼 있다”며 “가족·연인과 함께 당산 생각의 벙커를 찾아 따뜻한 연말, 새해를 맞이했으면 좋겠다”고 말했다.&lt;br&gt;&lt;br&gt;도는 지난 7일 국악풍 캐롤송 공연으로 시작한 ‘동굴 속 화이트 크리스마스’ 축제를 내년 1월 31일까지 이어간다.&lt;br&gt;&lt;br&gt;25일 크리스마스 축제에 이어 오는 27~28일에는 빵과 커피가 어우러지는 ‘빵·커’ 축제를 연다.&lt;br&gt;&lt;br&gt;축제에선 단양 명물 카페산과 바누아투과자점, 본정초콜릿, 흥덕제과, 굼드림 등 지역에서 내로라하는 제과·제빵·커피점이 참여한다. 빵을 무료 시식할 수 있고 업체 대표 메뉴도 맛볼 수 있다.&lt;br&gt;&lt;br&gt;또 하모니 체임버오케스트라, 재즈 앙상블 청울 등의 공연, 초콜릿 마스터 김동석 셰프 ‘월드 초콜릿 마스터셰프의 길’, 증강현실 체험 등도 진행된다.&lt;br&gt;&lt;br&gt;김주태 충북도 문화산업팀장은 “닫혔던 공간 벙커를 시민과 함께 나누려는 뜻에서 ‘빵커 축제’를 연다”며 “빵과 커피를 즐기면서 시민에게 열린 벙커의 매력을 누리길 기대한다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>대한체육회장 선거 ‘反이기흥' 단일화 일단 무산... 6명 입후보</title>
       <link>https://www.chosun.com/national/national_general/2024/12/25/WVGONPICKRCKLMB4RHLDEG56IA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/25/WVGONPICKRCKLMB4RHLDEG56IA/</guid>
@@ -751,20 +836,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CF74D2OWNBOO5AAZFOXHJ7AJIA.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;지난 23일 차기 대한체육회장 선거 출마 기자회견을 연 이기흥 현 체육회장. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;차기 대한체육회장 선거에서 ‘반(反) 이기흥’ 후보 단일화가 무산될 전망이다. 24~25일 후보자 등록 기간에 이기흥 현 회장을 비롯, 강태선 서울시체육회장, 강신욱 단국대 명예교수, 김용주 전 강원도체육회 사무처장, 오주영 대한세팍타크로협회장, 유승민 전 대한탁구협회장 등 6명이 입후보했다. 야권 후보 단일화가 사실상 불발되면서 체육회 산하 시·도 체육회와 각 종목 단체로부터 강한 지지를 받는 이기흥 회장의 3선 가능성이 높아졌다.&lt;br&gt;&lt;br&gt;강태선, 강신욱, 유승민, 안상수(전 인천시장), 박창범(전 대한우슈협회장) 등은 이 회장 연임 저지를 위해 단일화를 논의했으나 불발됐다. 단일화 필요성에는 공감하면서도 결국 단일 후보 선정과 조건에서 의견을 모으지 못했다. 박창범 후보와 강신욱 후보만 단일화를 이뤘다. 김용주, 오주영 후보는 단일화에 참여하지 않고 후보 등록을 마쳤다. 유승민 후보는 “각 후보자가 품고 있는 신념과 비전이 명확해 단일화 합의가 이뤄지지 않았다”고 했다. 강태선 후보는 “투표 전까지 (단일화의) 끈을 놓지는 않을 것”이라고 말했다.&lt;br&gt;&lt;br&gt;안상수 전 인천시장은 25일 “단일화 논의에 최선을 다했지만 체육인들 열망에 부응하지 못해 죄송하다”며 불출마를 선언했다. 안 전 시장은 강신욱 후보에게 지지를 보내면서 “모든 후보가 다시 단일화 협상 테이블에 앉길 촉구한다”고 했다. &lt;br&gt;&lt;br&gt;이 회장은 최근 여러 비위 혐의로 수사를 받고 문화체육관광부로부터 직무정지를 당하는 등 논란의 중심에 서 있다. 그의 사퇴를 요구하는 여론이 커졌지만, 체육계 내부에선 지방 체육회와 종목 단체 중심으로 지지층이 확고하다. 그를 이기려면 유력 후보들의 단일화가 필수적이었는데 후보가 난립하면서 이 회장만 웃는 상황이 펼쳐졌다. 2021년 선거에서도 강신욱 후보(득표율 25.7%)와 이종걸 후보(21.4%)가 단일화에 실패하면서 이 회장이 46.7% 득표율로 재선에 성공한 바 있다. 이번 선거는 다음 달 14일 선거인단 2300명 투표로 진행된다.&lt;br&gt;&lt;br&gt;대한축구협회장 선거에선 후보 등록 첫날인 25일 출마 의사를 밝혔던 정몽규 현 회장과 허정무 전 대표팀 감독, 신문선 명지대 교수가 모두 등록을 마쳤다. 정 회장 측은 “26일 공약 발표를 진행할 것”이라며 “후보자 공개 토론 제안도 수용한다. 일정과 방식은 타 후보들의 구체적 공약집이 나온 후 협의하겠다”고 했다. 앞서 신문선 후보가 천안 축구종합센터 건설, 문체부 감사 등에 관해 공개 토론을 제안한 바 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[단독] 크리스마스 이브 ‘3代가 분만실’에…딸 이어 손녀도 직접 받은 의사</title>
-      <link>https://www.chosun.com/national/2024/12/25/ZZBK2E7DD5HU7GWTCC3F36KFRY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2024/12/25/ZZBK2E7DD5HU7GWTCC3F36KFRY/</guid>
-      <dc:creator>창원=김준호 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 25 Dec 2024 08:31:47 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3T76EDFARFBDLANTCLLWM3SS7A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;크리스마스 이브인 지난 24일 오후 창원한마음병원 분만실에서 산부인과 전문의 장석용 교수(왼쪽)가 둘째 딸 보늬씨, 사위와 함께 갓 태어난 손녀를 살펴 보고 있다. /창원한마음병원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“응애, 응애”&lt;br&gt;&lt;br&gt;지난 24일 오후 6시11분 경남 창원한마음병원 분만실을 가득 채운 아기의 울음소리에 경력 30년이 넘는 산부인과 전문의 장석용 교수는 긴장을 풀고 안도의 한숨을 쉬었다. 아기를 낳은 산모에게는 “고생했다”고 말했다. 이날 장 교수는 둘째 딸 보늬씨의 주치의로서 분만실에 섰다. 그는 “딸의 첫 출산의 순간, 손녀가 세상과 처음 만나는 그 순간에 함께했다는 것은 그 누구도 하지 못할 경험이었다”면서 “지금껏 산부인과 전문의로 1만5000여명의 새 생명을 받은 베테랑인데, 산모가 딸이라 어쩔 수 없이 긴장했다”고 말했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KTKGTLNYANCFTFHNY72442PEDE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;크리스마스 이브인 지난 24일 오후 창원한마음병원 분만실에서 산부인과 전문의 장석용 교수(왼쪽)가 둘째 딸 보늬씨, 사위와 함께 갓 태어난 손녀를 살펴 보고 있다. /창원한마음병원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;크리스마스 이브였던 지난 24일 오후 창원한마음병원에서는 ‘3대(代)’가 분만실에 있는 특별한 장면이 연출됐다. 산모인 보늬씨의 아버지인 장석용 교수가 주치의로 손녀(강산하)를 직접 받았기 때문이다.&lt;br&gt;&lt;br&gt;장 교수와 보늬씨는 첫 만남부터 특별했다. 지난 1993년 4월 8일 보늬씨가 세상에 태어날 때 보늬씨를 처음 품었던 사람이 바로 장 교수였다. 그는 “첫째 딸이 태어날 무렵(1987년)에는 군의관 1년차라 산부인과 전공의가 아니었다”면서 “둘째 딸이 태어날 때가 부산대동병원에서 산부인과 전공의 3년차였는데, 동료 의사나 주임 교수에게 아내 출산을 부탁하지 않고 내가 직접 들어갔다”고 말했다.&lt;br&gt;&lt;br&gt;그렇게 태어난 둘째 딸 보늬씨가 30여년 뒤 아이를 갖고 장 교수에게 “아버지가 아이를 받아달라”고 했을 때 장 교수는 감회가 새로웠다고 한다. 보늬씨는 태어난 후 며칠 뒤 위장 입구가 막혀 모유와 분유를 소화하지 못하고 토하는 유문협착증으로 수술을 받았었다. 장 교수는 “태어나자 큰 수술을 받았던 아이가 건강하게 자라 자신의 아이를 낳을 준비를 하는 것을 보면서 표현하지 못할 감정을 느꼈다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NQI6URI7QRBKBJBSBMAZXX7RTY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;장석용 교수. /창원한마음병원 홈페이지 캡처&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;보늬씨는 자신의 첫 출산을 아버지인 장 교수에게 맡기는 데 전혀 고민이 없었다고 했다. 보늬씨는 “제 첫 아이를 출산하는 건데 아버지만큼 온 마음을 다해 신경 써 줄 의사가 대한민국에 또 누가 있겠느냐”며 “태어났을 때도 저를 받아주셨던 분이고, 자신의 일에 대한 자부심이 큰 분이라 임신했을 때부터 아버지를 생각했다”고 말했다. 특히 자연분만을 원하는 보늬씨와 평소 산모의 건강한 자연분만을 추구하는 장 교수의 생각도 맞아떨어졌다고 한다.&lt;br&gt;&lt;br&gt;보늬씨의 출산 과정은 생각보다 쉽지는 않았다고 한다. 1월1일이 예정일이었는데, 지난 23일 밤 양수가 터지면서 급히 출산 준비에 들어갔다. 24일 오전 7시쯤부터 본격적인 진통이 시작됐는데, 초산이라 자궁이 열리는 속도가 더뎠다고 한다. 중간 중간 아기의 심장 박동수도 떨어지는 위기의 순간도 있었다고 한다. 장 교수는 “진통이 길어지면서 산모의 아버지로서 또 의사로서 딜레마가 있었다”면서 “수많은 아기를 받았는데도 당시엔 ‘지금 내가 하는 게 맞는지, 평상시대로 하고 있는지’를 옆에 있는 수간호사에게 물어볼 정도였다”고 했다.&lt;br&gt;&lt;br&gt;12시간 진통 끝에 보늬씨는 2.85kg의 건강한 딸을 품에 안았다. 보늬씨는 “크리스마스 이브에 선물처럼 세상에 나와 준 딸이라 더 특별한 것 같다”면서 “아이를 좋아하는데 둘째, 셋째도 세상 가장 훌륭한 의사인 아버지께 맡기겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/KTKGTLNYANCFTFHNY72442PEDE.jpg?width=3504&amp;height=6229&amp;auth=0145588610919bfb2f15eb11c6676e33b57eb5f8f4d9a9dfb0ca094c892b69d1&amp;smart=true" type="image/jpeg" height="6229" width="3504">
-        <media:description type="plain">크리스마스 이브인 지난 24일 오후 창원한마음병원 분만실에서 산부인과 전문의 장석용 교수(왼쪽)가 둘째 딸 보늬씨, 사위와 함께 갓 태어난 손녀를 살펴 보고 있다. /창원한마음병원</media:description>
-        <media:credit role="author" scheme="urn:ebu">changwomhanhearthospital
-</media:credit>
-      </media:content>
-    </item>
-    <item>
       <title>성탄절 전날 60대 교회 목사 숨져…고속도로 갓길에 주차된 차량서 발견</title>
       <link>https://www.chosun.com/national/incident/2024/12/25/66LJGA4OA5FXDFVCI5EOB4MK4E/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/12/25/66LJGA4OA5FXDFVCI5EOB4MK4E/</guid>
@@ -772,76 +843,6 @@
       <description/>
       <pubDate>Wed, 25 Dec 2024 08:27:20 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/54FTUISTLZDHJELX6W5GW5V5XU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;성탄절을 하루 앞두고 고속도로 갓길에 세워진 승합차에서 60대 교회 목사가 숨진 채 발견됐다.&lt;br&gt;&lt;br&gt;25일 경기 고양경찰서에 따르면 지난 24일 오후 5시 10분쯤 고양 수도권 제1순환고속도로 일산IC 인근 갓길에 세워진 승합차에서 한 남성이 숨진 채 발견됐다.&lt;br&gt;&lt;br&gt;숨진 남성은 고속도로 순찰 중이던 경찰에 의해 발견됐으며, 흉기에 찔린 상태였다. 수사 결과 이 남성은 서울의 한 교회 목사인 A씨로 확인됐다. A씨는 경찰이 발견하기 약 12시간 전부터 고속도로 갓길에 주차 중이었던 것으로 파악됐다.&lt;br&gt;&lt;br&gt;당시 A씨 차량에는 신변을 비관하는 내용의 유서도 발견됐다. &lt;br&gt;&lt;br&gt;경찰은 유서 내용과 함께 A씨 몸에서 자해 행위 시 나타나는 주저흔이 있었던 만큼 타살 혐의가 없다고 판단, 시신 부검없이 사건을 종결하기로 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[오늘의 운세] 12월 26일 목요일 (음력 11월 26일 甲子)</title>
-      <link>https://www.chosun.com/national/national_general/2024/12/25/J4WNKDKJZRFQFP3D4LENOLOLME/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/25/J4WNKDKJZRFQFP3D4LENOLOLME/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 25 Dec 2024 08:00:00 +0000</pubDate>
-      <content:encoded>&lt;p&gt;&lt;div class="chosun_unse"&gt;&lt;iframe src="https://image.chosun.com/arc/unse_iframe.html" frameborder="0" scrolling="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;style&gt;.chosun_unse{position:relative;width:100%;height:350px;box-sizing:border-box}.chosun_unse&gt;iframe{position:absolute;top:0;left:0;width:100%;height:100%;overflow-y:hidden}@media all and (max-width:1024px){.chosun_unse{height:350px}}@media all and (max-width:1023px){.chosun_unse{height:350px}}@media all and (max-width:528px){.chosun_unse{height:270px}}@media all and (max-width:384px){.chosun_unse{height:190px}}&lt;/style&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;p&gt;&lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani01.gif"&gt;  	&amp;nbsp;	36년생 동분서주하지만 실속 없다. 48년생 말 고우면 비지 사러 왔다 두부 산다. 60년생 시비 구설수 염려되니 일언(一言)도 많다. 72년생 굽힐 때는 이마가 땅에 닿도록 굽히도록. 84년생 고대광실도 마음 편해야. 96년생 현상만 유지해도 절반의 성공.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt;  &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani02.gif"&gt;	&amp;nbsp;	37년생 비 지나가면 날씨는 갠다. 49년생 기다리지 말고 먼저 다가가라. 61년생 주변의 좋은 평판 있을 듯. 73년생 주변의 곱지 않은 시선으로 행동 제약 따를 듯. 85년생 바다로 나아가기 위해선 돛부터 올려라. 97년생 언행에 여운을 남기지 마라.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani03.gif"&gt;	&amp;nbsp;	38년생 제때 한 수는 때늦은 백 수보다 낫다. 50년생 주변인 관계에 약간의 갈등 예상. 62년생 서쪽 대문 이용하라. 운기 빛난다. 74년생 이성이나 금전 문제로 스트레스 받을 일이 있다. 86년생 자에 모자라거나 치에도 넉넉할 수 있다. 98년생 남의 상가(喪家)는 피하는 게 좋다.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani04.gif"&gt;	&amp;nbsp;	27년생 느긋하고 여유롭게 처신하도록. 39년생 속지 않는 게 이긴 것. 51년생 어렵게 생각하면 더 어렵다. 63년생 동북방으로는 발걸음도 마라. 75년생 자손으로 웃을 일. 87년생 지나친 호의는 도리어 역효과. 99년생 시비 전하는 사람이 시비하는 사람.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani05.gif"&gt;	&amp;nbsp;	28년생 칭송 아니면 포상 따를 듯. 40년생 원망은 잊고 은혜는 기억하라. 52년생 명예에 비해 실속이 없구나. 64년생 현장에 답이 있으니 직접 찾도록. 76년생 정확한 판단과 명석한 지략이 필요. 88년생 붉은색과 숫자 2, 7 행운. 00년생 송곳은 날카로워야 송곳.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani06.gif"&gt;	&amp;nbsp;	29년생 말 적을수록 후회도 적다. 41년생 돈이 중해도 노예는 되지 마라. 53년생 재물로 인한 상심이 염려. 65년생 과음과 과식은 탈 부른다. 77년생 목적이 분명하면 길은 있다. 89년생 마음속 참 소리를 들어야. 01년생 지성으로 기도하면 성취가 뒤따를 듯.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani07.gif"&gt;	&amp;nbsp;	30년생 남쪽에서 서기 감돈다. 42년생 저마다 가치관 다름을 인정하라. 54년생 대인관계에서는 신중에 신중을 기하도록. 66년생 본전도 못할 일은 시작도 말아야. 78년생 자신 있어도 과욕은 금물. 90년생 무조건 참고 견뎌라. 02년생 친구의 충고에 귀 기울여라.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani08.gif"&gt;	&amp;nbsp;	31년생 인심은 곳간에서 난다 했다. 43년생 요행이 있다면 횡액을 주의. 55년생 배우자와의 관계에 정성이 필요. 67년생 안질(眼疾)을 주의하라. 79년생 꿈에 꿀떡 맛보듯 하는구나. 91년생 역마가 발동하니 심사가 분망. 03년생 이해와 수용의 자세를 견지하도록.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani09.gif"&gt;	&amp;nbsp;	32년생 주변과 보조를 맞추도록. 44년생 낭떠러지와 벼랑 끝에서도 생명의 꽃은 핀다. 56년생 사소한 일이라고 소홀하면 후회막급. 68년생 시든 꽃에 봉접 신세. 80년생 굼벵이도 뒹구는 재주 있다. 92년생 내 집 귀한 줄 모른다더니. 04년생 정성껏 마음 다하라.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani10.gif"&gt;	&amp;nbsp;	33년생 멀리 보고 더불어 함께하라. 45년생 원숭이띠와 함께라면 못 할 것이 무엇. 57년생 맹수는 함부로 발톱 안 보인다. 69년생 신체적 과로보다 정신적 과로가 더 큰 문제. 81년생 드러낼 때와 감춰야 할 때를 구분하라. 93년생 안 하면 실패는 없지만 성과도 없다.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani11.gif"&gt;	&amp;nbsp;	34년생 분해도 웃고 넘겨라. 46년생 숫자 3, 8과 푸른색은 행운 부른다. 58년생 유력자의 한마디가 흐름 바꿀 수도. 70년생 문서와 계약서에 서명과 도장을 삼가라. 82년생 타인의 힘과 능력을 이용할 수 있어야. 94년생 여론에 움직이지 말고 여론을 조성하라.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani12.gif"&gt;	&amp;nbsp;	35년생 담대하고 과감해질 필요 있다. 47년생 주변을 보고 타산지석으로 삼도록. 59년생 아름다운 삶은 가꾸기 나름. 71년생 정체가 두렵지 지체는 두렵지 않다. 83년생 긍정의 힘으로 바꾸지 못할 것은 없다. 95년생 최선을 다하면 없던 길도 생긴다.	&lt;br&gt;
-&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;한소평 금오산방 강주  &lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;			&lt;/p&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/EFW5VLPQVRD4JBIM62AOUB7T74.png?width=800&amp;height=420&amp;auth=f876bee2d9088c1e7dd42d2a338651f47b84d7ce04e4bca3d9406604e1953adf&amp;smart=true" type="image/png" height="420" width="800">
-        <media:credit role="author" scheme="urn:ebu">이민경 </media:credit>
-      </media:content>
-    </item>
-    <item>
-      <title>“대립 조장” VS “사상검열”…이승환 콘서트 앞둔 김해서 찬반 논쟁</title>
-      <link>https://www.chosun.com/national/2024/12/25/FJD3GLR2TNF63KOM3GVSLQAVGA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2024/12/25/FJD3GLR2TNF63KOM3GVSLQAVGA/</guid>
-      <dc:creator>김해=김준호 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 25 Dec 2024 06:55:01 +0000</pubDate>
-      <content:encoded>최근 경북 구미시가 가수 이승환(59) 콘서트 공연장 대관을 취소해 논란인 가운데 오는 29일 이승환 콘서트가 열리는 경남 김해시에서 콘서트 개최 찬반 논쟁이 붙었다. 이승환의 정치 편향적 발언 등을 문제 삼아 안전을 위해 콘서트를 취소해야 한다는 의견과 현 시대에서는 상상할 수 없는 사상검열이라며 콘서트를 정상 개최해야 한다는 의견이 대립하고 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5UFD2ZGQF6UU6E76OZMPQ2K4FI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;가수 이승환. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;25일 오후 3시 현재 김해시 홈페이지 ‘시장에게 바란다’에는 이승환 콘서트와 관련해 57건의 글이 올라왔다.&lt;br&gt;&lt;br&gt;첫 글은 지난 23일 올라왔다. 글쓴이는 “(이승환이) 콘서트가 아니라 자신의 정치적 성향을 부각시켜 국민을 선동하고 싸움을 일으키고 있다”며 “혼란스러운 시국에 국민 평화를 침해하고 대립을 조장하는 사람의 콘서트를 취소해달라”고 썼다.&lt;br&gt;&lt;br&gt;글이 작성된 이날 경북 구미시는 25일 구미시 문화예술회관에서 개최할 예정이던 이승환 콘서트 공연장 대관을 취소한다고 발표했다. 구미시는 “관객과 보수 우익단체 간 물리적 충돌이 우려되는 상황에 안전상 이유”라고 했다. 윤석열 대통령 탄핵을 공개 찬성한 이승환이 구미에서 콘서트를 연다는 소식에 일부 보수단체가 콘서트 반대 집회를 열며 반발하자, 시민 안전을 이유로 공연장 대관을 취소하면서 사실상 공연도 취소된 셈이다. 이승환은 김장호 구미시장을 상대로 손해배상소송을 내겠다고 밝힌 상태다.&lt;br&gt;&lt;br&gt;이런 논란 이후 오는 29일 오후 5시 김해문화의전당 마루홀에서 예정된 이승환 콘서트와 관련해 반대 목소리가 나온 것이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IQUXBJ7UTVGHHNJLBV4FY4AYVM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;오는 29일 경남 김해에서 열리는 이승환 콘서트 개최를 반대하는 글. /김해시청 홈페이지 캡처&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이 글 이후 “시장님 콘서트 취소 부탁드린다” “시민안전이 걱정된다” “정치적 발언에 대한 제재사항이 있느냐”는 공연 반대 글이 이어졌다. 한 작성자는 “취소가 안 되면 정치발언금지 서약서를 받아달라”고도 했다.&lt;br&gt;&lt;br&gt;그러자 공연 찬성 글이 잇따라 올라왔다. 한 글쓴이는 “구미시가 이승환 콘서트를 취소하면서 많은 국민의 공분을 사고 있다”며 “현시대에서는 상상도 할 수 없는 사상검열이자, 대한민국 민주주의를 파탄 내려는 행동이다”고 주장했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/35OL74RSK5AKFGC2A3KHIC6Z3E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;오는 29일 경남 김해에서 열리는 이승환 콘서트를 정상 개최해야한다고 주장하는 글. /김해시청 홈페이지 캡처&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이어 “지금이 군사 독재 시절도 아니고 가수가 콘서트를 하는데 생각이 다르다는 이유로 공연 자체를 반대한다는 사실이 믿기지 않는다” “정치를 떠나 시민의 즐길 권리가 있다” “공연을 보기 위해 숙소 예약까지 했다” 등 공연은 정상 개최해야 한다는 글이 이어지고 있다.&lt;br&gt;&lt;br&gt;김해시 홈페이지 자유게시판과 공연이 열리는 김해문화의전당 홈페이지 게시판에도 찬반 글이 올라오고 있다. 이승환 공연과 관련한 글만 며칠 새 전체 약 100건에 달한다.&lt;br&gt;&lt;br&gt;이승환 콘서트가 열리는 김해문화의전당을 관리하는 김해문화재단 관계자는 “해당 공연은 김해문화의전당 운영 규정 및 공연장 대관 내규에 따라 지난 5월쯤 신청을 받아 심의를 거쳐 승인된 건으로, 12월 초 약 1200석이 매진됐다”면서 “상황은 예의주시하겠지만, 규정과 절차에 따라 원활한 공연 진행을 한다는 입장이다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>2000만원 ‘잘못된 송금’ 문자 받고도, 다 써버린 20대 벌금형</title>
-      <link>https://www.chosun.com/national/court_law/2024/12/25/UY3SM6B3E5AO5EOLJPZWLSVDUA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/25/UY3SM6B3E5AO5EOLJPZWLSVDUA/</guid>
-      <dc:creator>인천=이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 25 Dec 2024 05:24:36 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KFE3E6FZBMIAZOO7CJIC3M4MVM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원 로고. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;자신의 계좌로 잘못 송금된 돈을 생활비와 빚을 갚는 데 쓴 20대 남성에게 벌금형이 선고됐다.&lt;br&gt;&lt;br&gt;인천지법 형사11단독 김샛별 판사는 횡령 혐의로 기소된 A씨에 대해 벌금 500만원을 선고했다고 25일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 1월 16일 오후 2시 40분쯤 B씨로부터 잘못 송금된 2000만원을 돌려주지 않고 사용한 혐의로 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;A씨는 B씨가 송금을 잘못했다는 사실을 안내하는 금융기관 측 고객센터의 문자메시지를 받았음에도 개인 생활비와 채무를 갚는 데 돈을 사용한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;김 판사는 “범행 경위와 내용, 피해 정도 등을 볼 때 사안이 가볍지 않다”며 “피고인이 잘못을 인정하고 반성하는 점, 피해자에게 피해액을 변제하고 원만히 합의한 점, 피고인이 벌금형을 한 차례 선고 받은 외에 형사처벌 전력이 없는 점 등을 고려했다”고 양형 이유를 설명했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>경찰, ‘노상원 별동대’ 의혹 구삼회 2기갑여단장 소환</title>
-      <link>https://www.chosun.com/national/national_general/2024/12/25/4M7ZGQSBEFDB5EQDYM7KXNEPXI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/25/4M7ZGQSBEFDB5EQDYM7KXNEPXI/</guid>
-      <dc:creator>구아모 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 25 Dec 2024 06:29:40 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BVYFWX6JKVP653LHZJHFSKCWWU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;12·3 비상계엄 사태를 사전에 모의한 혐의를 받는 노상원 전 정보사령관이 24일 서울 은평구 서부경찰서에서 검찰로 송치되고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘12·3 비상계엄’ 사태를 수사 중인 경찰이 노상원 전 정보사령관 주도로 구성된 계엄사령부 비공식 조직 ‘수사2단’의 수뇌부로 지목된 구삼회 육군 제2기갑여단장(준장·육사 50기)을 소환해 조사하고 있다.&lt;br&gt;&lt;br&gt;경찰청 국가수사본부 비상계엄 특별수사단은 25일 오전부터 구 여단장을 소환해 관련 의혹을 집중 조사 중이라고 밝혔다. 구 여단장은 노 전 사령관이 육사 출신 인사들을 중심으로 사조직처럼 꾸린 것으로 알려진 ‘수사2단’에서 단장으로 내정된 인물로, 계엄 선포 이후 중앙선거관리위원회(선관위) 서버 확보를 주요 임무로 맡았던 것으로 전해졌다.&lt;br&gt;&lt;br&gt;구 여단장은 특히 지난 12월 3일 비상계엄 선포 당일 열린 ‘롯데리아 2차 회동’에 참석했다. 당시 구 여단장은 노 전 사령관, 김용군 예비역 대령 등과 만나 회의를 가진 뒤 경기 성남 판교의 정보사령부 100여단으로 이동한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;이와 관련해 내란 세력이 만일의 사태에 대비해 전방에 배치된 기갑부대까지 동원하려 했던 것 아니냐는 의혹도 제기되고 있다. 특히 구 여단장은 노 전 사령관이 과거 경호실 군사관리관으로 재직하던 시절, 수방사 1경비단에서 함께 근무하며 인연을 맺은 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰은 구 여단장을 상대로 롯데리아 회동의 구체적 경위와 수사2단의 구성 및 역할, 군부대 동원 계획 등을 조사할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/O4GVLKWLYVIUTK4EIQB2JCFDHY.JPG?width=4981&amp;height=3240&amp;auth=48d9b56d918d1f86e36db768fbc35849296d21bef21f7edef2129244fe767fac&amp;smart=true" type="image/jpeg" height="3240" width="4981">
-        <media:description type="plain">(안산=뉴스1) 김영운 기자 = '12·3 비상계엄 사태'를 앞두고 노상원 전 정보 사령관과 문상호 정보사령관이 안산의 한 햄버거집에서 만나 계엄을 사전에 모의했다는 진술이 나왔다. 
-
-사진은 18일 오후 ‘12·3 비상계엄’ 직전 전현직 정보사령관들이 계엄 직전 햄버거 프랜차이즈 롯데리아에서 비밀 회동을 가진 것으로 알려진 경기 안산시의 한 롯데리아 매장의 모습. 2024.12.18/뉴스1</media:description>
-        <media:credit role="author" scheme="urn:ebu">(안산=뉴스1) 김영운 기자</media:credit>
-      </media:content>
-    </item>
-    <item>
-      <title>산타클로스 1000명, 어려운 이웃에게 선물꾸러미 전달</title>
-      <link>https://www.chosun.com/national/regional/2024/12/25/BVCOLJPOT5EGXGONHRHL67WSGQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/12/25/BVCOLJPOT5EGXGONHRHL67WSGQ/</guid>
-      <dc:creator>인천=이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 25 Dec 2024 06:27:50 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3GUEJ3FO6JOERKBKRO3T2A3TWQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;25일 인천시 중구 상상플랫폼에서 열린 '2024 미추홀 산타클로스 축제'에서 산타복을 입은 참가자들이 기념사진을 찍고 있다./인천시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;1000명의 산타클로스가 생활 형편이 어려운 이웃들을 찾아 선물꾸러미를 전달하는 행사가 25일 인천에서 진행됐다.&lt;br&gt;&lt;br&gt;인천시는 이날 오후 1시 인천 중구 상상플랫폼에서 인천시교육청, 인천국제공항공사, (사)수와진의 사랑더하기 등과 함께 ‘2024 미추홀 산타클로스 축제’ 행사를 개최했다.&lt;br&gt;&lt;br&gt;이번 행사엔 유정복 인천시장과 도성훈 인천시교육감 등 내빈을 비롯해 자원봉사자로 구성된 산타클로스 1000명이 참석했다.&lt;br&gt;&lt;br&gt;이들 산타클로스는 행사에서 발대식을 가진 뒤, 인천지역 곳곳의 조손가정과 소년소녀가정, 한부모가정 등을 찾아 미리 준비한 선물꾸러미 2000개를 전달했다. 선물꾸러미는 겨울이불과 생활용품, 떡국 밀키트, 간식 등 20만원 상당의 물품으로 구성됐다.&lt;br&gt;&lt;br&gt;인천시 등 주최측은 앞서 인천 외에 살고 있는 생활 형편이 어려운 이웃에게 2000개의 선물꾸러미를 발송하기도 했다.&lt;br&gt;&lt;br&gt;인천시는 따뜻한 사회분위기 조성을 위해 이번 행사를 준비했다고 설명했다.&lt;br&gt;&lt;br&gt;유 시장은 “2010년 300여 가정을 대상으로 한 미추홀 산타클로스 축제가 어느덧 전국 4000여 가정에 사랑과 희망을 전하는 인천 대표 크리스마스 나눔 축제로 성장했다”며 “모두에게 잊지 못할 크리스마스 선물이 되길 바란다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/3GUEJ3FO6JOERKBKRO3T2A3TWQ.jpg?width=5370&amp;height=2994&amp;auth=da65d5deedc896bd9054b8cdd6e5c36d184c0a772c483fffb78897bdc8710d8b&amp;smart=true" type="image/jpeg" height="2994" width="5370">
-        <media:description type="plain">25일 인천시 중구 상상플랫폼에서 열린 '2024 미추홀 산타클로스 축제'에서 산타복을 입은 참가자들이 기념사진을 찍고 있다./인천시</media:description>
-        <media:credit role="author" scheme="urn:ebu">인천취재본부</media:credit>
-      </media:content>
     </item>
     <item>
       <title>국토부 "올해 가장 안전한 차, ‘벤츠 E클래스’"</title>
@@ -869,24 +870,6 @@
       <description/>
       <pubDate>Wed, 25 Dec 2024 05:31:20 +0000</pubDate>
       <content:encoded>대법원이 한덕수 대통령 권한대행이 신임 대법관을 임명하는 것이 헌법에 어긋나지 않는다고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UI7AQGVSOHHANZWAD2KGS6NLF4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대법원 전경./ 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;25일 백혜련 더불어민주당 의원실에 제출한 자료에 따르면, 대법원은 ‘대통령 권한대행이 국회의 동의가 이뤄진 대법관 후보자에 대한 임명권이 있는가’라는 질문에 이 같이 답했다.&lt;br&gt;&lt;br&gt;대법원은 “대법관은 최종적으로 대통령이 임명하나, 그 임명절차에는 대법원장 제청과 국회의 동의라는 사법부와 입법부 각각의 견제장치가 마련되어 있다”고 밝혔다.&lt;br&gt;&lt;br&gt;이어 “비록 대통령에 대한 탄핵소추안이 의결된 상태에서 대통령 권한 대행이 대법관을 임명하더라도, 탄핵소추안 의결 이전에 대법원장의 제청·대통령의 제청 수용 및 대통령의 인사청문 요청이 완료됐고 국회의 인사청문을 통한 동의 절차도 거쳤다면, 대법관 임명은 삼권분립 등 헌법상 원칙에 위배되지 않을 것으로 보인다”고 했다.&lt;br&gt;&lt;br&gt;대법원은 오는 27일 김상환 대법관의 퇴임을 앞두고 있다. 후임으로 마용주(55·사법연수원 23기) 후보자가 지명돼 26일 인사청문회를 앞두고 있다.&lt;br&gt;&lt;br&gt;이와 관련해 대법원은 “대법원장이 지난 11월 26일 (마용주) 후보자를 대법관으로 임명 제청했고, 대통령은 이를 수용하기로 해 국회에서 탄핵소추안이 의결되기 전인 12월 12일 국회에 인사청문을 요청했다”고 설명했다.&lt;br&gt;&lt;br&gt;즉, 윤석열 대통령의 탄핵소추안이 의결된 지난 14일 이전에 임명 제청 등 절차가 이미 진행된 점 등을 들어, 한덕수 대통령 권한대행이 신임 대법관을 임명하더라도 문제가 없음을 시사한 것이다.&lt;br&gt;&lt;br&gt;아울러 대법원은 “대법관 임명 절차가 지연되어 공백이 발생한다면 대법원의 재판이 지연될 우려가 있다”며 “그로 인해 국민들이 장기간 법적 분쟁에서 벗어나기 어려워질 수 있다는 점을 감안해주길 바란다”고 당부했다.&lt;br&gt;&lt;br&gt;앞서 헌법재판소도 대통령 권한대행이 신임 헌법재판관을 임명해도 헌법에 위배되지 않는다는 입장을 밝힌 바 있다. 이진 헌재 공보관은 대통령 권한대행에게 신임 헌법재판관 임명권이 있는지에 대해 “예전 황교안 권한대행 때 임명한 사례가 있는 것으로 안다”고 했다. 헌재 역시 재판관 3명이 공석인 상태에서 신임 재판관 임명을 앞두고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>이름 표기 위치 정해 ‘짬짜미 투표’...안양시의회 민주당 의원들 항소심도 벌금형 </title>
-      <link>https://www.chosun.com/national/regional/2024/12/25/IYFXLOFL7VCPVNZTVRW2HEFYTQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/12/25/IYFXLOFL7VCPVNZTVRW2HEFYTQ/</guid>
-      <dc:creator>권상은 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 25 Dec 2024 04:43:58 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EJ2QOWUIYVCGJHRXCVBOE2CKI4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2020년 9월 14일 안양지역 시민단체가 안양시의회 앞에서 부정선거를 규탄하며 항의하고 있다. /안양시의회 의장선출 부정선거 시민사회단체 대책위원회&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 2020년 안양시의회 의장 선출 과정에서 이탈표를 막기 위해 사전에 약속한 투표용지 위치에 이름을 적는 방식으로 사실상 공개·기명투표를 공모한 더불어민주당 전·현직 시의원들이 파기환송심에서도 벌금형을 선고받았다.&lt;br&gt;&lt;br&gt;25일 법조계에 따르면 수원지법 형사항소6-3부(재판장 김은정)는 위계공무집행방해 혐의로 기소된 A씨 등 전·현직 시의원 3명에 대한 항소심에서 원심판결을 파기하고 각각 벌금 200만원을 선고했다. 이들은 1심에서는 벌금 300만원을 선고받았다.&lt;br&gt;&lt;br&gt;제8대 경기 안양시의회 민주당 시의원이던 A씨 등은 2020년 후반기 의장에 B시의원을 선출하기로 내정하고 투표용지에 상·하·좌·우 등 가상의 구획을 나눠 의원마다 기표할 위치를 미리 정해놓는 방법으로 투표한 혐의를 받는다. 또 약속을 지키지 않은 의원을 확인할 수 있도록 감표위원을 내정하기도 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5IU2GGIYVJGWZN7H4FU7GSTBVU.PNG"&gt;&lt;figcaption&gt;&lt;small&gt;2020년 7월 안양시의회 의장 선거 당시 투표용지. 1번과 2번(빨간색)을 제외하고는 모두 미리 약속한 위치에 달리 표기했다.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;1심은 A씨 등과 공모하지 않은 다른 당 소속 시의원들, 투·개표업무에 관여한 감표위원, 무기명투표 원칙에 따라 의장선거를 공정하게 진행하는 사무국장 등의 정당한 직무집행을 각각 방해한 것으로 판단해 벌금형을 선고했다.&lt;br&gt;&lt;br&gt;A씨 등은 1심 판결에 불복해 항소했으나 기각되자 대법원에 상고했고, 대법원은 “피고인들의 행위로 공모하지 않은 의원들에 대해서도 위계에 의한 공무집행방해죄가 성립한다고 판단한 것에 잘못이 있다”며 항소심 재판부로 파기 환송했다.&lt;br&gt;&lt;br&gt;이에 항소심 재판부는 “공모하지 않은 의원들은 본래의 의도대로 투표했을 뿐 피고인 등의 행위로 인하여 오인·착각·부지를 일으켜 그릇된 처분이나 행위를 했다고 보이지 않는다”며 공소사실 중 이 부분에 대한 공무집행방해죄는 무죄로 판단했다.&lt;br&gt;&lt;br&gt;그러면서 “이 사건은 시의원인 피고인들이 위계로써 민주주의의 근간을 이루는 선거와 관련한 공무를 방해한 것으로 죄질이 좋지 않다”며 “피고인들은 이 사건 이전에 형사처벌을 받은 전력이 없는 점은 유리한 정상”이라고 양형 이유를 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘2036 서울올림픽’ 사전타당성 조사 결과 “경제성 있다”</title>
-      <link>https://www.chosun.com/national/national_general/2024/12/25/Y66ZZQLEXFFAZEMQ5UTX5YBBDY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/25/Y66ZZQLEXFFAZEMQ5UTX5YBBDY/</guid>
-      <dc:creator>김영우 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 25 Dec 2024 03:41:58 +0000</pubDate>
-      <content:encoded>서울시는 지난 5~11월 진행한 ‘2036 서울올림픽 유치를 위한 사전타당성 조사’ 결과 편익/비용 비율(B/C)이 1.03으로 나타났다고 25일 밝혔다. B/C가 1을 넘기면 경제적 타당성을 확보했다는 것을 의미한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZQ34VNNYWZC5BCG6ZN6I2SVVMY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2036 서울올림픽이 열리게 될 서울 시내 경기장. /서울시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;조사 결과 올림픽 개최에 따른 총 비용은 5조833억원이 들 것으로 추산됐다. 경기 운영과 숙박, 문화행사 등 대회 운영비로 3조5405억원, 경기장 개보수와 임시 경기장 설치 등 시설비로 1조5428억원이 들 전망이다.&lt;br&gt;&lt;br&gt;서울시는 ‘1988 서울올림픽’ 경기장 재활용, 잠실주경기장 리모델링, 잠실 마이스 조성을 비롯해 광화문·한강 등에 임시 경기장을 설치하면 약 5조원으로도 대회 개최가 가능할 것으로 보고 있다. 경기, 인천, 부산, 강원 등 타 시·도에 있는 경기장도 공동으로 활용한다는 방침이다.&lt;br&gt;&lt;br&gt;서울시 관계자는 “올해 열린 파리올림픽은 12조3000억원이 들었던 것을 생각하면 절반도 안 되는 비용”이라고 말했다.&lt;br&gt;&lt;br&gt;올림픽 개최에 따른 총 편익은 4조4707억원으로 추산됐다. 마케팅이나 티켓 판매 수익 등 조직위원회 자체 수입 2조5400억원과 비시장적 편입 1조9307억원 등이 합산된 액수다.&lt;br&gt;&lt;br&gt;한편 타당성 조사의 일환으로 지난 7~8월 진행된 설문조사에서는 서울시민 500명 중 85.2%가 “올림픽 유치에 찬성한다”고 답했다. 또 93.8%는 “서울올림픽이 성공적으로 개최될 것”이라고 답했다.&lt;br&gt;&lt;br&gt;서울시는 올림픽 유치를 위해 지난달 12일 대한체육회에 ‘개최계획서’를 제출했다. 오는 26~27일 현장 실사를 앞두고 있다.&lt;br&gt;&lt;br&gt;오세훈 서울시장은 “2036 서울올림픽은 서울, 나아가 한국이 도약하는 발판이 될 것”이라며 “유치가 확정되면 모든 역량을 쏟겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>공수처 “尹 체포영장 너무 먼 단계… 아직 검토할 것 많아”</title>
