@@ -13,6 +13,96 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>전태일 모친 故 이소선 여사, 43년 만에 계엄법 위반 무죄</title>
+      <link>https://www.chosun.com/national/national_general/2024/12/26/NSPE3HNP6BHHXKN3QRGBGUV7YE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/26/NSPE3HNP6BHHXKN3QRGBGUV7YE/</guid>
+      <dc:creator>김병권 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 26 Dec 2024 08:52:36 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XSQSI5R2ISUW732GDYLGYHKJPY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;1970년 11월 13일 분신한 전태일 열사의 모친 고 이소선씨가 아들의 장례식에서 영정을 껴안고 오열하는 모습./조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전태일 열사 모친 고(故) 이소선 여사와 남동생 전태삼(74)씨가 계엄법 위반 혐의로 실형을 선고받은 사건의 재심에서 무죄를 선고받았다. 지난 1981년 1심에서 유죄 판결을 받은 지 43년 만이다.&lt;br&gt;&lt;br&gt;26일 법조계에 따르면 서울동부지법 형사합의11부(재판장 강민호)는 계엄법 위반 등 혐의로 기소된 이 여사 등의 재심에서 지난 6일 무죄를 선고했다.&lt;br&gt;&lt;br&gt;이 여사, 전씨 등 5명은 전국연합노동조합 청계피복지부(청계피복노조)에서 활동하면서 지난 1981년 1월 6일 서울시장의 해산명령에도 즉시 노조를 해산하지 않고 같은 해 1월 18일 한 노조원의 집에서 대책을 논의한 혐의로 같은 해 3월 기소됐다. 당시 신군부는 1980년 5월 17일 비상계엄 포고령을 통해 비상계엄을 전국으로 확대하고 모든 정치활동을 금지한 바 있다.&lt;br&gt;&lt;br&gt;이로 인해 이 여사는 같은 해 7월 13일 징역 10개월, 전씨는 징역 3년의 실형을 선고받았다. 그러나 전씨 등은 지난 2021년 11월 서울동부지법에 이 사건의 재심을 청구했고, 이번에 그 결과가 나왔다.&lt;br&gt;&lt;br&gt;재판부는 “이 사건 계엄포고는 헌법과 법률에서 정한 요건을 갖추지 못한 채 발령되었고, 그 내용도 영장주의와 죄형법정주의의 명확성의 원칙에 위배되며, 표현의 자유, 학문의 자유 등 헌법상 보장된 국민의 기본권을 침해한다”며 “계엄 포고가 당초부터 위헌·무효인 이상 계엄 포고 위반을 전제로 한 피고인들에 대한 공소사실은 범죄에 해당하지 않는다”고 판시했다. 계엄 자체가 위헌이기 때문에 이로 인해 유죄 판결을 받은 것에 대해 무죄 판결을 내린다는 취지다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘쌍방울 대북송금’ 이화영, 대법 간다...2심 징역 7년 8개월 선고에 불복</title>
+      <link>https://www.chosun.com/national/incident/2024/12/26/A3I2VVHIDBA6ZCF5O5CLF2VYIY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/12/26/A3I2VVHIDBA6ZCF5O5CLF2VYIY/</guid>
+      <dc:creator>수원=김현수 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 26 Dec 2024 09:29:05 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3WLIHQ7GNFMZ7MZISSPVGYTFJ4.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;이화영 전 경기도 평화부지사. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;쌍방울 그룹의 800만달러 대북 송금에 관여한 혐의로 2심에서도 유죄 판결을 받은 이화영 전 경기도 평화부지사가 대법원에 상고했다.&lt;br&gt;&lt;br&gt;26일 법조계에 따르면 이 전 부지사 측은 특정범죄가중처벌법상 뇌물 및 정치자금법 위반, 외국환거래법 위반 등 혐의 사건의 항소심 선고 공판에서 징역 7년 8개월에 벌금 2억5000만원 및 추징금 3억2595만원을 선고한 항소심 판결에 법리 오해와 채증법칙 위반 등을 이유로 이날 법원에 상고장을 제출했다. 검찰도 지난 24일 함소심 판결의 법리 오해 및 채증법칙 위반 등을 이유로 상소했다.&lt;br&gt;&lt;br&gt;앞서 2심 재판부는 지난 19일 이 전 부지사에 징역 7년 8개월에 벌금 2억5000만원 및 추징금 3억2595만원을 선고했다. 이 전 부지사의 대북 송금 혐의는 1심과 마찬가지로 쌍방울이 경기도 스마트팜 사업 지원비와 도지사 방북비 등 경기도를 대신해 북한 인사에 지급했다는 사실이 인정됐다.&lt;br&gt;&lt;br&gt;2심 재판부는 공소사실에 대한 원심 판단을 모두 유지하면서도 “뇌물죄와 경합범 관계에 있는 정치자금법 위반죄 형과 나머지 범죄 형이 분리돼 선고된 사정을 고려해야 한다”며 피고인의 형량을 징역 7년 8개월로 1심보다 1년 10개월 감형했다.&lt;br&gt;&lt;br&gt;이 전 부지사의 대북송금과 관련한 해외 밀반출 불법 자금은 원심대로 800만달러 중 394만달러가 인정됐고, 뇌물 가액과 불법 정치자금도 일부 무죄가 유지됐다.&lt;br&gt;&lt;br&gt;1심은 지난 6월 이 전 부지사의 뇌물수수 혐의와 외화 밀반출 혐의 등을 인정해 징역 9년 6개월(정치자금법 위반 징역 1년 6개월·특가법상 뇌물 및 외국환거래법 위반 등 징역 8년) 및 벌금 2억5000만원, 추징금 3억2595만원을 선고했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[단독] ‘견민, 바퀴벌레’ 경찰 블라인드 글 논란…게시자 수사 착수  </title>
+      <link>https://www.chosun.com/national/national_general/2024/12/26/7I3COUEVRVHVZEXYUKNDQDDRBI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/26/7I3COUEVRVHVZEXYUKNDQDDRBI/</guid>
+      <dc:creator>구아모 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 26 Dec 2024 08:51:08 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2HPJJMGAEZAXRNJMMAYANU5MZA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰청 블라인드 캡쳐.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 주말 ‘남태령 시위’와 관련해 경찰청 직원으로 추정되는 이용자가 직장인 온라인 커뮤니티 블라인드에 모욕성 발언을 올린 것과 관련, 경찰이 작성자를 특정하기 위해 수사에 착수했다.&lt;br&gt;&lt;br&gt;서울경찰청 사이버수사대는 남태령 시위에 참여한 20·30 여성들을 비하하는 표현이 포함된 게시글 및 댓글 등에 대해 입건 전 조사(내사)에 착수했다고 26일 밝혔다.&lt;br&gt;&lt;br&gt;논란이 된 내용은 경찰청 직원 명의로 올라왔으며, ‘견민들 개 패고 싶다’, ‘바퀴벌레 같은 새끼들’, ‘쳐맞고 바닥에서 기어다닐 새끼들이’ ‘대갈통에 총알구멍 숭숭 뚫었을 텐데’ 등의 표현이 포함됐다. 이 글들은 국회 행정안전위원회에서도 여야의 질타를 받으며 논란이 커진 상황이다.&lt;br&gt;&lt;br&gt;블라인드는 각 회사의 이메일 주소를 인증해 가입할 수 있어 이런 글을 올린 작성자가 경찰일 것으로 추정된다. 이와 관련해 국회 행정안전위원회에서는 “여성 폄하”, “경찰관이 지금 시국에 그런 글을 기재한다는 걸 납득할 수 없다”는 비판이 이어졌다.&lt;br&gt;&lt;br&gt;한편, 과거 경찰청 블라인드에 ‘강남역에서 칼부림을 하겠다’는 글이 올라온 사건에서 작성자를 추적한 결과, 경찰청 블라인드 계정을 구매한 일반 직장인이었던 전례가 있다.&lt;br&gt;&lt;br&gt;경찰은 “해당 사건은 1대에서 진행한다”며 “표현에 따라 모욕 및 협박 등 혐의가 적용될 수 있으나, 현재는 작성자를 특정하는 단계”라고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>국회, ‘尹 탄핵심판’에 김용현·여인형·노상원 등 증인 신청</title>
+      <link>https://www.chosun.com/national/court_law/2024/12/26/XSCF3WM3WFAFLESLB47CBVVH5Q/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/26/XSCF3WM3WFAFLESLB47CBVVH5Q/</guid>
+      <dc:creator>박강현 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 26 Dec 2024 09:11:02 +0000</pubDate>
+      <content:encoded>국회 측이 윤석열 대통령의 탄핵 심판에 김용현 전 국방부 장관 등 ‘12·3 비상계엄 사태’ 관련 주요 인사들을 증인으로 신청했다고 26일 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PJBCRLO7DRE4JK3J7PEHWRUKJQ.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;김용현 전 국방부장관. /이덕훈 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;본지 취재를 종합하면 국회 탄핵소추단은 지난 24일 헌법재판소에 제출한 입증 계획서를 통해 김 전 장관과 여인형 전 국군방첩사령관, 노상원 전 국군정보사령관 등 이번 계엄을 기획한 것으로 지목된 이들을 증인으로 신청했다.&lt;br&gt;&lt;br&gt;국회가 1차로 신청한 증인은 이들을 포함해 총 10여명이다. 국회 탄핵소추단 측 황영민 변호사는 “아직 재판부에서 증인을 채택하기 전이라 정확한 숫자와 대상을 말씀드리긴 어렵다”면서도 “이 피의자들을 포함해 10여명 정도 신청했다”고 말했다.&lt;br&gt;&lt;br&gt;국회 탄핵소추단은 앞으로 변론 준비 기일 등의 절차를 통해 이들에 대한 증인 신문 필요성을 주장할 예정이다.&lt;br&gt;&lt;br&gt;변론 준비 기일에선 국회 측이 대통령 탄핵 사유를 뒷받침할 만한 증거 등 입증 자료를 제출하고, 재판부는 이에 대한 윤 대통령 측의 반박 의견 등을 참고해 향후 재판에서 어떤 일정·방식을 거쳐 증거 조사를 진행할지 협의한다.&lt;br&gt;&lt;br&gt;또 사건 관련자 중 몇 명이나 증인으로 부를 것인지도 준비 기일을 통해 윤곽이 잡힌다. 채택된 증인들에 대해선 정식 변론 기일에서 신문이 이뤄질 전망이다.&lt;br&gt;&lt;br&gt;윤 대통령에 대한 탄핵 심판 첫 변론 준비 기일은 오는 27일 오후 2시 헌재에서 열린다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘코인 상장 뒷돈’ 프로골퍼 안성현, 1심서 징역 4년 6개월 선고</title>
+      <link>https://www.chosun.com/national/national_general/2024/12/26/FIDZFJN2IZBIDOREJ33WTXES4U/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/26/FIDZFJN2IZBIDOREJ33WTXES4U/</guid>
+      <dc:creator>박정훈 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 26 Dec 2024 08:47:23 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VWQ5I2LDVV4HRU7ISYS2477PTU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;배우 성유리의 남편 프로골퍼 안성현 /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;코인을 상장해주는 대가로 수십억원의 뒷돈을 챙긴 프로골퍼 안성현(43)씨와 이상준(55) 전 빗썸홀딩스 대표가 1심에서 실형을 선고받았다. &lt;br&gt;&lt;br&gt;서울남부지법 형사합의11부(재판장 정도성)는 26일 특정경제범죄 가중처벌법상 사기 등 혐의를 받는 안씨에게 징역 4년6개월을 선고하고 고급시계를 몰수한다고 밝혔다. 또 가상화폐 상장 청탁 등 배임수재 혐의를 받는 이 전 대표에겐 징역 2년에 5002만5000원 추징을, 빗썸 실소유주로 알려진 강종현(42)씨에겐 징역 1년 6개월을 선고했다. &lt;br&gt;&lt;br&gt;이날 재판부는 주문에 앞서 “안씨의 진술은 일관되지 않고 신빙성이 없는 데 반해 강씨는 범행을 인정하고 당시 정황에 대한 진술이 상대적으로 일관돼 신빙성이 있다”며 “강씨의 말을 사실로 전제하고 재판을 진행하겠다”고 했다.&lt;br&gt;&lt;br&gt;이어 “강씨는 안씨와 이씨에게 코인 상장을 청탁했다”면서도 “이씨에게 현금 30억원이 전달됐다고 보기에는 어려워 안씨의 배임수증재 혐의는 입증하기 어렵다”고 했다. 다만 “50억원 중 20억원을 강씨에게 받아 취득하는 데 사용한 점은 인정돼 특정경제범죄 가중처벌법상 사기 혐의는 유죄로 보인다”며 “코인 상장 청탁을 명목으로 고급 레스토랑 멤버십 카드·시계·가방을 수수한 혐의도 유죄로 판단된다”고 했다. 재판부는 이씨와 강씨에 대해서도 코인 상장 청탁과 관련한 논의를 하고 금품을 교부한 부분이 인정된다고 봤다.&lt;br&gt;&lt;br&gt;이날 안씨 등 실형을 받은 피고인들은 법정 구속됐다.&lt;br&gt;&lt;br&gt;안씨는 2021년 9월부터 11월까지 강씨로부터 한 코인을 거래소 빗썸에 상장해달라는 청탁과 함께 현금 30억원, 합계 4억원 상당의 명품 시계 2개, 고급 레스토랑 멤버십 카드를 받은 혐의를 받는다. 강씨는 2022년 1월부터 3월까지 이씨에게 코인을 빨리 상장해달라고 부탁하며 합계 3000만원 상당의 가방 2개와 의류 등 총 4400만원가량의 명품을 건넨 것으로 파악됐다.&lt;br&gt;&lt;br&gt;검찰은 강씨가 상장을 청탁한 코인은 연계된 사업이 없을 뿐더러 실체가 불분명하다고 보고 작년 9월 안씨 등 4명을 재판에 넘겼다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘25개월 미숙아 딸 학대’ 숨지게 한 30대 아버지, 구속 송치</title>
+      <link>https://www.chosun.com/national/regional/2024/12/26/7UTSX7ZDTFCUHEEM3N3Y3RLXP4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/12/26/7UTSX7ZDTFCUHEEM3N3Y3RLXP4/</guid>
+      <dc:creator>대전=우정식 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 26 Dec 2024 08:42:52 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4ROETED57FDFPGUG5CSYDINBNU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대전경찰청 전경 /조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대전에서 생후 25개월 된 딸을 학대해 숨지게 한 30대 아버지가 구속 상태로 검찰에 넘겨졌다.&lt;br&gt;&lt;br&gt;대전경찰청은 아동학대치사 혐의로 아빠 A(30대)씨를 구속 송치했다고 26일 밝혔다. 엄마인 B(30대)씨는 현재 불구속 상태로 조사받고 있다. A씨 부부는 지난 16일 대전 서구 거주지에서 딸 C(2)양을 학대해 숨지게 한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;이들은 당시 새벽 시간에 “아기가 숨을 쉬지 않는다”고 119에 신고했고, 인근 대학병원으로 이송된 딸은 9시간여만에 사망 판정을 받았다.&lt;br&gt;&lt;br&gt;멍 자국 등을 보고 학대를 의심한 의료진의 신고로 수사에 착수한 경찰은 국립과학수사연구원 부검 결과 등을 토대로 학대 정황을 확인한 뒤, 지난 17일 A씨 부부를 긴급 체포했다. 국과수 부검 결과 C양은 두부 손상에 의한 뇌출혈로 사망에 이른 것으로 나타났다.&lt;br&gt;&lt;br&gt;A씨 부부는 경찰 조사에서 육아 스트레스 등을 겪어오다 딸을 학대한 사실을 시인한 것으로 전해졌다. 숨진 C양은 미숙아로 태어나 오랜 기간 병원 신세를 졌고, 퇴원 후 집에서 복부에 위루관을 삽입한 상태로 생활했던 것으로 확인됐다.&lt;br&gt;&lt;br&gt;경찰은 A씨 부부의 학대가 C양이 병원에서 퇴원한 지난 10월 이후 지속적으로 이뤄진 것으로 보고 있다. 이들은 C양이 사망하기 전 입양 기관과 구청에 병원 치료비 부담을 호소하며 입양을 문의하기도 한 것으로 파악됐다. 이들은 일정한 소득이 있는 일반 가정이어서 복지 대상자는 아니었다. 이들에게는 자녀 3명이 더 있는데 다른 자녀에 대한 학대 정황은 없는 것으로 조사됐다.&lt;br&gt;&lt;br&gt;경찰은 지난 18일 이들에 대해 구속영장을 신청했으나, 법원은 ‘도주 및 증거인멸 가능성이 없다’는 이유로 아내 B씨에 대한 구속영장을 기각하고 남편만 구속영장을 발부했다.&lt;br&gt;&lt;br&gt;경찰은 “조사를 마무리하는 대로 조만간 B씨도 검찰에 송치할 계획”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“1년간 모았어요.. 언니들 주세요” 6살 꼬마산타의 선물</title>
+      <link>https://www.chosun.com/national/regional/2024/12/26/B6SHZ3F24RHKJKC7UCICVQNZO4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/12/26/B6SHZ3F24RHKJKC7UCICVQNZO4/</guid>
+      <dc:creator>울산=김주영 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 26 Dec 2024 08:40:32 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KGYSLL2TDAAXVSC7HMDRAITQRI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;울산 북구 송정동 행정복지센터에 6살 '꼬마산타'가 지난 24일 크리스마스 선물로 보낸 위생용품 1056개가 상자에 담겨 놓여 있다. /울산 북구&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;6살 ‘꼬마 산타’가 보낸 크리스마스 선물이 울산 북구 송정동 행정복지센터에 배달됐다.&lt;br&gt;&lt;br&gt;26일 울산 북구 송정동 행정복지센터에 따르면 지난 24일 퇴근을 하던 직원들이 민원실 앞에서 종이상자 여러 개를 발견했다. 택배인 줄 알았지만 받는 사람도, 보내는 사람도 적혀 있지 않았고, 상자 위에는 편지 한 통만 놓여 있었다.&lt;br&gt;&lt;br&gt;귀여운 캐릭터의 편지지에는 ‘안녕하세요. 다은이입니다♡ 용돈을 모아서 선물을 샀어요. 필요한 언니들에게 나눠주세요. 메리크리스마스♡’라고 적혀 있었다. 또 다른 A4 용지에는 다은이의 부모가 쓴 메모가 있었다.&lt;br&gt;&lt;br&gt;메모에는 “딸이 1년 동안 칭찬스티커 용돈을 모아 선물을 준비했다. 6살 꼬마라 사고 싶고 먹고 싶은 것도 많았지만 크리스마스 산타가 돼 선물을 주기 위해 참고 또 참았다. 선물로 위생용품을 준비했는데 저소득층, 한부모가정 여성 청소년들에게 도움이 됐으면 한다”고 써 있었다.&lt;br&gt;&lt;br&gt;편지봉투 안에는 다은이가 1년 동안 모은 칭찬스티커도 함께 들어 있었다.&lt;br&gt;&lt;br&gt;송정동 행정복지센터 관계자는 “크리스마스 이브에 다은이가 보내준 선물 덕분에 행정복지센터 직원들의 마음도 훈훈해 졌다”며 “다은이가 한 것처럼 나눔과 배려의 가치를 실천하는 선한 영향력이 확산하기를 기대한다”고 말했다.&lt;br&gt;&lt;br&gt;송정동 행정복지센터는 지역 내 어려운 여성 청소년들에게 위생용품을 전달할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>신유빈, 사랑의열매에 1억원</title>
+      <link>https://www.chosun.com/national/people/2024/12/25/IW6JI3ZWBFBZ3HDTIDXELA5WI4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/12/25/IW6JI3ZWBFBZ3HDTIDXELA5WI4/</guid>
+      <dc:creator>장민석 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 24 Dec 2024 15:46:32 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/W4ZFDZESGYPL45F2ZYAIXI5U24.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;신유빈이 지난 20일 서울 중구 사랑의열매 회관에서 열린 기부금 전달식에 참석해 1억원을 기부했다. /사랑의 열매&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한국 여자 탁구 간판 신유빈(20·대한항공)이 1억원 이상을 공동모금회에 기부한 사람들의 모임인 ‘아너 소사이어티’에 가입했다. 신유빈의 매니지먼트사인 GNS는 신유빈이 지난 20일 서울 중구 사랑의열매 회관에서 열린 기부금 전달식에 참석해 1억원을 기부했다고 24일 밝혔다. 신유빈의 전달식은 신한금융그룹의 성금 전달식과 함께 진행됐는데 그는 신한금융 진옥동 회장의 주선으로 공동모금회 기부에 동참했다. 2024 파리 올림픽에서 동메달 2개를 따낸 신유빈은 생애 첫 월급으로 보육원 아이들에게 운동화를 선물한 것을 시작으로 다양한 기부 활동을 꾸준히 해오고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[오늘의 날씨] 2024년 12월 25일</title>
+      <link>https://www.chosun.com/national/national_general/2024/12/25/QMIUT72VXBD5ZOOC5HYCKSDESE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/25/QMIUT72VXBD5ZOOC5HYCKSDESE/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Tue, 24 Dec 2024 15:49:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RZDW6AAIP5FSFIMAITGLIUNURM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>허위서류 내고 300억 불법 대출…태양광발전 사업자 등 54명 기소</title>
+      <link>https://www.chosun.com/national/regional/2024/12/26/UCPGSWGJXZBD5LMNYC3XBIB3YI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/12/26/UCPGSWGJXZBD5LMNYC3XBIB3YI/</guid>
+      <dc:creator>대전=우정식 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 26 Dec 2024 08:19:52 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PE64B72Y3MMM5A3FUCNZKLP5IA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대전지검 청사. /연합&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대전지검 형사4부는 허위 공사계약서 등을 정부·금융기관에 제출해 305억원 상당의 불법 대출을 받은 혐의(특정 경제범죄 가중처벌 등에 관한 법률 위반) 등으로 태양광발전소 시공업자 31명과 발전사업자 23명 등 모두 54명을 불구속 기소했다고 26일 밝혔다.&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 시공업자 A씨는 2019년 10월부터 2022년 5월까지 금액을 대폭 부풀린 허위 태양광 발전소 공사계약서와 세금계산서를 한국에너지공단에 제출해 자금 추천서를 받았다. 이를 근거로 은행 등에서 공사비 99억1077만원을 빌리는 등 피고인 대부분이 이 같은 수법으로 최소 1억원대부터 수십억원대의 불법 대출을 받은 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;정부는 신재생에너지 산업 육성을 위해 태양광 발전 사업자에게 발전소 공사대금의 80%가량을 연이율 1.75∼2.0%의 저금리로 빌려주는 금융 지원사업을 진행 중인데, 피고인들이 이를 악용해 자금을 빌린 것으로 조사됐다. 이 사업은 국민의 전기요금 3.7%를 부담금으로 징수한 전력산업기반기금에서 운용된다.&lt;br&gt;&lt;br&gt;앞서 대전지검은 지난해 9월 국무조정실, 대검찰청의 의뢰로 수사에 착수해 국세청 압수수색 등을 거쳐 이들의 범죄 사실을 특정했다.&lt;br&gt;&lt;br&gt;검찰 관계자는 “국가 재정의 건전한 질서를 파괴하고 다수의 선량한 납세자에게 피해를 전가하는 민생범죄에 엄정 대응하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>[오늘의 운세] 12월 27일 금요일 (음력 11월 27일 乙丑)</title>
       <link>https://www.chosun.com/national/national_general/2024/12/26/A3QU2NGLWFC35CK4I6BWVQMX7Y/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/26/A3QU2NGLWFC35CK4I6BWVQMX7Y/</guid>
@@ -772,15 +862,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3GALNPSLBG5I2WTXP7AC7V4MKM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산 연제구 연산동 부산지방경찰청 전경./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산의 한 파출소에서 근무 중이던 50대 경찰관이 총상을 입고 숨진 채 발견됐다.&lt;br&gt;&lt;br&gt;25일 부산경찰청에 따르면 지난 24일 밤 10시쯤 부산의 한 파출소에서 근무하던 경찰관 A씨가 총상을 입은 채 숨져 있는 것을 동료 경찰관 2명이 발견했다. A씨와 같은 근무조인 이들 경찰관은 이날 관내 교통사고 신고를 받고 출동했다가 파출소로 복귀한 후 현장을 발견했다.&lt;br&gt;&lt;br&gt;A씨는 소지하고 있던 권총을 이용해 스스로 목숨을 끊은 것으로 알려졌다. 유서는 발견되지 않았다. &lt;br&gt;&lt;br&gt;경찰 관계자는 “방범카메라(CCTV) 영상 등으로 볼 때 출동 경찰관들이 복귀하기 10분 전 쯤 A씨가 숨진 것으로 파악됐다”며 “A 경찰관의 사망과 관련해 동기와 원인 등 정확한 사실관계를 확인 중”이라고 말했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>대구시, 박정희 동상 지키려고 공무원들 불침번…공무원노조 반발</title>
-      <link>https://www.chosun.com/national/regional/2024/12/25/6GMYWMYDSFCW5PXQCAO7ZEZTC4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/12/25/6GMYWMYDSFCW5PXQCAO7ZEZTC4/</guid>
-      <dc:creator>대구=노인호 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 25 Dec 2024 05:16:38 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZC4TTD3OIZEBNCD7VSROCOSOAE.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;23일 오후 대구 동구 동대구역 광장에서 열린 '박정희 대통령 동상 제막식' 현장에서 시민들이 동상을 바라보고 있다./김동환 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대구시가 동대구역에 설치한 박정희 전 대통령 동상 훼손 등을 막기 위해 공무원들을 동원해 야간 방호 업무에 나서기로 하자 공무원 단체가 “계획 철회”를 요구하며 반발하고 있다.&lt;br&gt;&lt;br&gt;대구시 공무원노동조합 중 한 곳인 ‘새공무원노동조합’은 25일 성명을 내고 “박정희 동상 불침번 근무 계획을 철회하라”고 주장했다.&lt;br&gt;&lt;br&gt;노조에 따르면, 대구시는 지난 24일부터 박 전 대통령 동상을 지키기 위해 공무원들을 야간 밤샘 근무에 동원하고 있다.&lt;br&gt;&lt;br&gt;노조 측은 “대구시민 대부분의 반대에도 불구하고, 대구시는 박정희 동상 제막식을 강행했다. 이어 동대구역 광장에 세운 6억원짜리 동상 지키려고 행정국 직원을 동원해 야간에 불침번 보초를 세운다고 한다”며 “연말연시 가족과 행복하게 보내야 할 시간에 동상 지키려고 근무 계획을 세운 대구시는 각성하고 계획을 즉시 철회해야 한다”고 목소리를 높였다.&lt;br&gt;&lt;br&gt;앞서 대구시는 예산 6억원을 들여 박 전 대통령 동상을 제작, 지난 23일 동대구역 광장에서 제막식을 가졌다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EKZASNR3YRHCJDXBS7AZZJSOZY.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;23일 오후 대구 동구 동대구역 광장에서 열린 '박정희 대통령 동상 제막식' 현장에 동상 건립을 반대하는 단체 회원들이 홍준표 시장에게 항의하고 있다./김동환 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이에 대해 대구시는 “시민 예산으로 설치한 재산을 지키는 것으로, 행정의 당연한 조치”라고 반박했다.&lt;br&gt;&lt;br&gt;대구시에 따르면, 동대구역 광장은 대구시의 위탁을 받은 공공시설관리공단이 관리 업무를 맡고 있는데 직원 퇴근 이후 동상 방호를 책임져줄 인력이 없는 상황이다. 이에 해당 직원을 구하는 내년 1월 3일까지 매일 오후 6시부터 다음날 오전 9시까지 행정국 직원 3명이 동상 주변에 주차 된 차량 안에서 밤샘근무를 서기로 했다고 한다.&lt;br&gt;&lt;br&gt;대구시 관계자는 “시민단체 등이 동상 설치를 반대하는 시위 등을 벌인 만큼 설치 초기 동상 보호가 필요하다는 판단에 따른 것”이라며 “밤샘 근무는 자원하는 인력을 우선으로 근무조 편성해 운영하고 있다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>대법 “대통령 권한대행이 대법관 임명해도 헌법상 문제 없다”</title>
       <link>https://www.chosun.com/national/court_law/2024/12/25/KREN66JR75H4LLFZE5SXZBMYBM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/25/KREN66JR75H4LLFZE5SXZBMYBM/</guid>
@@ -788,15 +869,6 @@
       <description/>
       <pubDate>Wed, 25 Dec 2024 05:31:20 +0000</pubDate>
       <content:encoded>대법원이 한덕수 대통령 권한대행이 신임 대법관을 임명하는 것이 헌법에 어긋나지 않는다고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UI7AQGVSOHHANZWAD2KGS6NLF4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대법원 전경./ 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;25일 백혜련 더불어민주당 의원실에 제출한 자료에 따르면, 대법원은 ‘대통령 권한대행이 국회의 동의가 이뤄진 대법관 후보자에 대한 임명권이 있는가’라는 질문에 이 같이 답했다.&lt;br&gt;&lt;br&gt;대법원은 “대법관은 최종적으로 대통령이 임명하나, 그 임명절차에는 대법원장 제청과 국회의 동의라는 사법부와 입법부 각각의 견제장치가 마련되어 있다”고 밝혔다.&lt;br&gt;&lt;br&gt;이어 “비록 대통령에 대한 탄핵소추안이 의결된 상태에서 대통령 권한 대행이 대법관을 임명하더라도, 탄핵소추안 의결 이전에 대법원장의 제청·대통령의 제청 수용 및 대통령의 인사청문 요청이 완료됐고 국회의 인사청문을 통한 동의 절차도 거쳤다면, 대법관 임명은 삼권분립 등 헌법상 원칙에 위배되지 않을 것으로 보인다”고 했다.&lt;br&gt;&lt;br&gt;대법원은 오는 27일 김상환 대법관의 퇴임을 앞두고 있다. 후임으로 마용주(55·사법연수원 23기) 후보자가 지명돼 26일 인사청문회를 앞두고 있다.&lt;br&gt;&lt;br&gt;이와 관련해 대법원은 “대법원장이 지난 11월 26일 (마용주) 후보자를 대법관으로 임명 제청했고, 대통령은 이를 수용하기로 해 국회에서 탄핵소추안이 의결되기 전인 12월 12일 국회에 인사청문을 요청했다”고 설명했다.&lt;br&gt;&lt;br&gt;즉, 윤석열 대통령의 탄핵소추안이 의결된 지난 14일 이전에 임명 제청 등 절차가 이미 진행된 점 등을 들어, 한덕수 대통령 권한대행이 신임 대법관을 임명하더라도 문제가 없음을 시사한 것이다.&lt;br&gt;&lt;br&gt;아울러 대법원은 “대법관 임명 절차가 지연되어 공백이 발생한다면 대법원의 재판이 지연될 우려가 있다”며 “그로 인해 국민들이 장기간 법적 분쟁에서 벗어나기 어려워질 수 있다는 점을 감안해주길 바란다”고 당부했다.&lt;br&gt;&lt;br&gt;앞서 헌법재판소도 대통령 권한대행이 신임 헌법재판관을 임명해도 헌법에 위배되지 않는다는 입장을 밝힌 바 있다. 이진 헌재 공보관은 대통령 권한대행에게 신임 헌법재판관 임명권이 있는지에 대해 “예전 황교안 권한대행 때 임명한 사례가 있는 것으로 안다”고 했다. 헌재 역시 재판관 3명이 공석인 상태에서 신임 재판관 임명을 앞두고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>심장병 환자의 유일한 희망 ‘인공심장 수술’…삼성서울병원, 국내 첫 200건 달성</title>
-      <link>https://www.chosun.com/national/welfare-medical/2024/12/25/TDGQOCFZLBHFDFFD6BPH5ZCKZY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/12/25/TDGQOCFZLBHFDFFD6BPH5ZCKZY/</guid>
-      <dc:creator>오경묵 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 25 Dec 2024 04:48:07 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ABGFS2WQMJHIXFOYRWL5RELHIE.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;삼성서울병원에서 200번째로 '좌심실 보조장치' 수술을 받은 A(왼쪽 첫번째)씨가 주치의인 김다래(왼쪽 두번째) 순환기내과 교수, 수술을 집도한 조양현(왼쪽 세번째) 심장외과 교수, 최진오 중증심부전팀장(순환기내과 교수)에게 치료 결과를 듣고 있는 모습. /삼성서울병원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;삼성서울병원은 ‘인공심장’이라 불리는 좌심실 보조장치 수술 200례를 국내 최초로 돌파했다고 25일 밝혔다.&lt;br&gt;&lt;br&gt;좌심실 보조장치 수술은 말기 심부전으로 심장이식을 기다리기 어렵거나, 이식이 불가능한 경우 유일한 희망으로 꼽힌다. 삼성서울병원은 2012년 첫 수술을 시행한 후 2016년 국내에서 가장 먼저 인공심장 클리닉을 개설했고, 지난달 중순 200번째 수술을 마쳤다.&lt;br&gt;&lt;br&gt;200번째 수술 환자는 30대 남성 A씨로, 출생 직후 선천성 심장병 수술을 받았으나 수년 전 심부전(심장 기능 저하)이 발병했다. 올해 초 중증 심부전으로 악화해 11월 중순 수술을 받았다. 최근 외래 진료를 통해 건강 상태를 확인한 결과 일상생활이 가능할 만큼 안정적이었다.&lt;br&gt;&lt;br&gt;삼성서울병원 관계자는 “중증 심부전 환자 치료에서 좌심실 보조장치가 ‘게임체인저’로 자리매김한 것”이라고 했다.&lt;br&gt;&lt;br&gt;이 병원에서 좌심실보조장치 수술을 받은 환자 202명을 분석한 결과, 생존 퇴원율은 95%, 3년 생존율도 80%에 달했다. 심장이식 후 생존율과 큰 차이가 없다는 것이 삼성서울병원의 설명이다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>이름 표기 위치 정해 ‘짬짜미 투표’...안양시의회 민주당 의원들 항소심도 벌금형 </title>
@@ -808,16 +880,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EJ2QOWUIYVCGJHRXCVBOE2CKI4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2020년 9월 14일 안양지역 시민단체가 안양시의회 앞에서 부정선거를 규탄하며 항의하고 있다. /안양시의회 의장선출 부정선거 시민사회단체 대책위원회&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 2020년 안양시의회 의장 선출 과정에서 이탈표를 막기 위해 사전에 약속한 투표용지 위치에 이름을 적는 방식으로 사실상 공개·기명투표를 공모한 더불어민주당 전·현직 시의원들이 파기환송심에서도 벌금형을 선고받았다.&lt;br&gt;&lt;br&gt;25일 법조계에 따르면 수원지법 형사항소6-3부(재판장 김은정)는 위계공무집행방해 혐의로 기소된 A씨 등 전·현직 시의원 3명에 대한 항소심에서 원심판결을 파기하고 각각 벌금 200만원을 선고했다. 이들은 1심에서는 벌금 300만원을 선고받았다.&lt;br&gt;&lt;br&gt;제8대 경기 안양시의회 민주당 시의원이던 A씨 등은 2020년 후반기 의장에 B시의원을 선출하기로 내정하고 투표용지에 상·하·좌·우 등 가상의 구획을 나눠 의원마다 기표할 위치를 미리 정해놓는 방법으로 투표한 혐의를 받는다. 또 약속을 지키지 않은 의원을 확인할 수 있도록 감표위원을 내정하기도 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5IU2GGIYVJGWZN7H4FU7GSTBVU.PNG"&gt;&lt;figcaption&gt;&lt;small&gt;2020년 7월 안양시의회 의장 선거 당시 투표용지. 1번과 2번(빨간색)을 제외하고는 모두 미리 약속한 위치에 달리 표기했다.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;1심은 A씨 등과 공모하지 않은 다른 당 소속 시의원들, 투·개표업무에 관여한 감표위원, 무기명투표 원칙에 따라 의장선거를 공정하게 진행하는 사무국장 등의 정당한 직무집행을 각각 방해한 것으로 판단해 벌금형을 선고했다.&lt;br&gt;&lt;br&gt;A씨 등은 1심 판결에 불복해 항소했으나 기각되자 대법원에 상고했고, 대법원은 “피고인들의 행위로 공모하지 않은 의원들에 대해서도 위계에 의한 공무집행방해죄가 성립한다고 판단한 것에 잘못이 있다”며 항소심 재판부로 파기 환송했다.&lt;br&gt;&lt;br&gt;이에 항소심 재판부는 “공모하지 않은 의원들은 본래의 의도대로 투표했을 뿐 피고인 등의 행위로 인하여 오인·착각·부지를 일으켜 그릇된 처분이나 행위를 했다고 보이지 않는다”며 공소사실 중 이 부분에 대한 공무집행방해죄는 무죄로 판단했다.&lt;br&gt;&lt;br&gt;그러면서 “이 사건은 시의원인 피고인들이 위계로써 민주주의의 근간을 이루는 선거와 관련한 공무를 방해한 것으로 죄질이 좋지 않다”며 “피고인들은 이 사건 이전에 형사처벌을 받은 전력이 없는 점은 유리한 정상”이라고 양형 이유를 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>성탄절 새벽 만취 10대가 몰던 오토바이에 ‘쾅’… 30대 남성 중태</title>
-      <link>https://www.chosun.com/national/incident/2024/12/25/S6A5MJ7OEFGVTJRVO7OAQBDK4E/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/12/25/S6A5MJ7OEFGVTJRVO7OAQBDK4E/</guid>
-      <dc:creator>강릉=정성원 기자</dc:creator>
-      <description>크리스마스인 25일 새벽 만취 상태의 10대가 몰던 오토바이에 30대 남성이 치여 중태에 빠졌다.이날 오전 1시 36분쯤 강릉시 입암동 한 아파트 인근 도로에서 만취상태로 오토바이를 몰던 10대 A군이 마주 오던 30대 B씨를 들이받았다.</description>
-      <pubDate>Wed, 25 Dec 2024 04:09:15 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HGAKBWAMQ3BN4KVHRVF4OLOEOA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;강릉경찰서 전경/뉴스1
-&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;크리스마스인 25일 새벽 만취 상태의 10대가 몰던 오토바이에 30대 남성이 치여 중태에 빠졌다.&lt;br&gt;&lt;br&gt;이날 오전 1시 36분쯤 강릉시 입암동 한 아파트 인근 도로에서 만취상태로 오토바이를 몰던 A군이 마주 오던 B씨를 들이받았다.&lt;br&gt;&lt;br&gt;이 사고로 B씨가 머리 등을 크게 다쳤다. B씨는 의식이 없는 상태로 원주의 한 대학병원으로 옮겨졌으며 현재까지 의식을 되찾지 못한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰은 현장에서 A군을 상대로 음주 측정을 진행한 결과, 혈중알코올농도는 면허 취소 수준인 0.08%를 넘어선 것으로 조사됐다.&lt;br&gt;&lt;br&gt;경찰은 A군을 교통사고처리특례법 위반 등 혐의로 붙잡아 조사를 하는 한편 목격자를 상대로 정확한 사고 경위를 조사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>‘2036 서울올림픽’ 사전타당성 조사 결과 “경제성 있다”</title>
       <link>https://www.chosun.com/national/national_general/2024/12/25/Y66ZZQLEXFFAZEMQ5UTX5YBBDY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/25/Y66ZZQLEXFFAZEMQ5UTX5YBBDY/</guid>
@@ -825,27 +887,6 @@
       <description/>
       <pubDate>Wed, 25 Dec 2024 03:41:58 +0000</pubDate>
       <content:encoded>서울시는 지난 5~11월 진행한 ‘2036 서울올림픽 유치를 위한 사전타당성 조사’ 결과 편익/비용 비율(B/C)이 1.03으로 나타났다고 25일 밝혔다. B/C가 1을 넘기면 경제적 타당성을 확보했다는 것을 의미한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZQ34VNNYWZC5BCG6ZN6I2SVVMY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2036 서울올림픽이 열리게 될 서울 시내 경기장. /서울시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;조사 결과 올림픽 개최에 따른 총 비용은 5조833억원이 들 것으로 추산됐다. 경기 운영과 숙박, 문화행사 등 대회 운영비로 3조5405억원, 경기장 개보수와 임시 경기장 설치 등 시설비로 1조5428억원이 들 전망이다.&lt;br&gt;&lt;br&gt;서울시는 ‘1988 서울올림픽’ 경기장 재활용, 잠실주경기장 리모델링, 잠실 마이스 조성을 비롯해 광화문·한강 등에 임시 경기장을 설치하면 약 5조원으로도 대회 개최가 가능할 것으로 보고 있다. 경기, 인천, 부산, 강원 등 타 시·도에 있는 경기장도 공동으로 활용한다는 방침이다.&lt;br&gt;&lt;br&gt;서울시 관계자는 “올해 열린 파리올림픽은 12조3000억원이 들었던 것을 생각하면 절반도 안 되는 비용”이라고 말했다.&lt;br&gt;&lt;br&gt;올림픽 개최에 따른 총 편익은 4조4707억원으로 추산됐다. 마케팅이나 티켓 판매 수익 등 조직위원회 자체 수입 2조5400억원과 비시장적 편입 1조9307억원 등이 합산된 액수다.&lt;br&gt;&lt;br&gt;한편 타당성 조사의 일환으로 지난 7~8월 진행된 설문조사에서는 서울시민 500명 중 85.2%가 “올림픽 유치에 찬성한다”고 답했다. 또 93.8%는 “서울올림픽이 성공적으로 개최될 것”이라고 답했다.&lt;br&gt;&lt;br&gt;서울시는 올림픽 유치를 위해 지난달 12일 대한체육회에 ‘개최계획서’를 제출했다. 오는 26~27일 현장 실사를 앞두고 있다.&lt;br&gt;&lt;br&gt;오세훈 서울시장은 “2036 서울올림픽은 서울, 나아가 한국이 도약하는 발판이 될 것”이라며 “유치가 확정되면 모든 역량을 쏟겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>장안평 중고차매매센터, 36층 오피스텔로...서울시 건축 심의 통과</title>
-      <link>https://www.chosun.com/national/national_general/2024/12/25/AX5FYRFORFC3DKQONV3BRZVKHI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/25/AX5FYRFORFC3DKQONV3BRZVKHI/</guid>
-      <dc:creator>최연진 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 25 Dec 2024 03:51:00 +0000</pubDate>
-      <content:encoded>우리나라 최초의 중고차 시장인 장안평 중고차 매매센터가 최고 36층 높이의 오피스텔을 포함한 복합 상업 시설로 바뀔 전망이다.&lt;br&gt;&lt;br&gt;서울시는 건축위원회를 열고 장안평 중고차 매매센터 도시정비형 재개발사업 건축 심의안을 통과시켰다고 25일 밝혔다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PQXVH432DFA2HPIUSES2OHPCOM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;장안평 중고차매매센터 재개발 배치도/서울시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WQQPMUQ725CDNIMFLXVGYGNOII.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;장안평 중고차매매센터 재개발 조감도/서울시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;통과된 심의안은 장안평 중고차 매매센터가 있는 성동구 용답동 234번지 일대에 지하 8층, 지상 최고 36층 규모 오피스텔 527실과 자동차 관련 시설, 공공기여 시설, 판매시설, 근린생활시설 등을 건립한다는 내용이다. &lt;br&gt;&lt;br&gt;건축위원회는 개방감이 느껴지는 디자인을 통해 건물로 인한 단절감을 최소화하도록 했다. 또 도로변에서 접근이 쉬운 장소에 생태숲과 잔디마당, 수경시설을 계획했다. 중앙광장형 휴게 공간도 생긴다.&lt;br&gt;&lt;br&gt;한병용 서울시 주택실장은 “주변 환경과 조화를 이루는 건축물을 조성하기 위해 노력하겠다”고 했다.&lt;br&gt;&lt;br&gt;장안평 중고차 매매센터는 국내 최초의 중고차 시장이다. 1979년 도심에 산재한 중고차 매매업소와 정비업체를 한데 모아 조성했다. 2015년 도시재생 활성화 지역으로 선정됐고, 2020년 재개발 조합 설립 인가가 났다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>빨강·노랑 사과나무, 크리스마스 트리로 변신…사과나무를 분재 형태로 개발</title>
-      <link>https://www.chosun.com/national/regional/2024/12/25/RIWNQTRDMNBV3PFUYVI6JBNQNY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/12/25/RIWNQTRDMNBV3PFUYVI6JBNQNY/</guid>
-      <dc:creator>의성=권광순 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 25 Dec 2024 02:49:34 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TCXTIZ3FKREOZANIX4VQDDD5M4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 19일 오후 경북 의성군 옥산면 한 과수원에서 경북 황금부사 농업법인 소속 작목반 농민들이 사과나무를 화분에 옮겨 심어 분재 형태로 만든 크리스마스 트리를 살펴보고 있다. /권광순 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 19일 오후 경북 의성군 옥산면 해발 220m 산자락에 둘러싸인 ‘선바우’ 마을. 약 4000㎡(1200여평) 과수원 입구에 도착하자 어디선가 크리스마스 캐럴송이 흘러나왔다.&lt;br&gt;&lt;br&gt;캐럴송이 울려 퍼진 진원지는 과수원 가장자리에 하늘 위로 곧게 뻗은 사과나무 한 그루. 높이 2.5m 원뿔형태의 사과나무에는 한 가지에 황금빛과 붉은빛 두 종류 빛깔의 사과가 주렁주렁 달려있었다.&lt;br&gt;&lt;br&gt;밭에 심겨진 게 아니라 분재 형태로 화분에 심어 놓은 사과나무에는 방울과 화환, 트리 조명 등 20여개의 크리스마스 장식품도 달렸다. 사과나무가 크리스마스 트리로 변신한 것이다.&lt;br&gt;&lt;br&gt;이곳에서 40여 년째 과수업을 이어 온 김창호(61)씨는 “사과나무를 분재 형태의 재배기술을 접목해 크리스마스 트리로 판매하고 있다”며 “한 그루당 과실만 수확하면 수익이 16만원쯤 되는데 분재 형태로 팔 경우 한 그루당 250만~300만원 정도 소득이 생긴다”고 말했다.&lt;br&gt;&lt;br&gt;김씨는 3년 전부터 의성지역 사과재배 농민 7명과 함께 작목반을 만들고 분재 형태의 사과나무 재배기술을 접목해 농업법인조합도 만들었다.&lt;br&gt;&lt;br&gt;이들은 한 그루의 사과나무에서 황금색과 빨간색의 사과가 동시에 열리는데 착안해 만든 황금부사를 ‘트윈플’(트윈과 애플 합성어)로 이름 짓고 브랜드화 했다. 트윈플은 천연 광물로 특수 재배한 사과다. ‘올라이트’라는 광물을 입힌 봉지를 여러 달 동안 씌워 키우는데, 햇볕을 차단해도 시들거나 마르지 않고 생육에 문제가 없다고 한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/K55EGS6XN5HPJE66GTC3MXE5U4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;화분에 옮겨 심은 황금부사 사과나무는 백화점과 호텔, 놀이공원 등에서 인기다. 최근 의성군청 입구에는 황금부사 사과나무로 만든 크리스마스 트리가 전시됐다. /권광순 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;농산물은 기후 환경 등 외부 요인에 따른 가격 등락 폭이 큰 편인 반면 크리스마스 트리로 활용 가능한 이 사과나무는 공산품처럼 책정된 가격에 팔 수 있다.&lt;br&gt;&lt;br&gt;조석제(60) 경북 황금부사 농업법인 대표는 “프랑스 현지에 출장을 갔다가 따먹을 수 있는 달린 포도나무로 트리를 만든 사례를 보고 황금부사에 접목하게 됐다”며 “앞으로 농가 수익 증대를 위해 지역 청년 농부들에게 재배 기술을 보급할 계획”이라고 말했다.&lt;br&gt;&lt;br&gt;화분에 옮겨 심은 황금부사 사과나무는 백화점과 호텔, 놀이공원 등에 살아있는 크리스마스 트리로 인기다. 최근 황금부사 사과나무는 의성군청 입구에도 크리스마스 트리 형태로 전시돼 있다.&lt;br&gt;&lt;br&gt;조 대표는 “올해 한정된 사과나무 분재 예약 발주는 서울 광진구 워커힐 호텔, 송파구 롯데백화점 등 300그루 모두 매진됐다”며 “내년에 시판할 분재형 사과나무를 1000그루 이상 확대할 예정”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/7OCWZXNJ25AITB4PR5E5WNU7MU.jpg?width=748&amp;height=561&amp;auth=cf947b7377781501c69954ccadaa861adec48322c6afc9b00d5c7bfe62993415&amp;smart=true" type="image/jpeg" height="561" width="748">
-        <media:description type="plain">지난 19일 오후 경북 의성군 옥산면 한 과수원에서 경북 황금부사 농업법인 소속 작목반 농민들이 사과나무를 화분에 옮겨 심어 분재 형태로 만든 크리스마스 트리를 살펴보고 있다. /권광순 기자</media:description>
-      </media:content>
     </item>
     <item>
       <title>공수처 “尹 체포영장 너무 먼 단계… 아직 검토할 것 많아”</title>
@@ -857,15 +898,6 @@
       <content:encoded>윤석열 대통령이 25일 고위공직자범죄수사처의 2차 출석 요구에 응하지 않은 가운데, 공수처는 “윤 대통령에 대해 체포영장을 청구하는 것은 너무 먼 단계”라면서 “아직은 검토할 것이 많다”고 했다.&lt;br&gt;&lt;br&gt;공수처 관계자는 이날 ‘대통령에 대해 체포영장을 청구하는 방안을 검토 중이냐’는 질문에 이 같이 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/775TEUE72VP27OVVVOJ3JJZBEM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;고위공직자범죄수사처(공수처)가 윤석열 대통령에게 통보한 2차 소환일인 25일 오전 경기 정부과천청사 공수처 모습. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이 관계자는 “통상 일반 형사사범의 경우 3차례 소환 요구에 불응하면 강제 수사를 검토한다”면서도 “대통령의 경우 (탄핵심판 등) 고려해야 할 상황이 많다. 통상 절차에 따를 수도 있지만 그렇지 않을 수도 있다”고 했다.&lt;br&gt;&lt;br&gt;공수처는 일단 오늘까지 윤 대통령의 출석을 기다려본다는 입장이다. 공수처 관계자는 “현실적으로 대통령이 출석한다 해도 나 홀로 나올 수 있는 상황은 아니다”라면서도 “변호인이나 대리인이 (오늘 중) 다른 입장을 밝힐 수도 있고, 갑자기 선임계가 들어올 수도 있다”고 했다. 윤 대통령의 깜짝 출석을 포함해 발생할 수 있는 여러 변수를 두루 고려하겠다는 취지다.&lt;br&gt;&lt;br&gt;3차 소환 통보나 체포영장 청구 등 향후 윤 대통령 수사 방침에 대해선 “결정에 오래 걸리지는 않을 것”이라면서도 “오늘 결정하지는 않겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>공수처, 문상호 前 정보사령관 이르면 오늘 군검찰 이첩</title>
-      <link>https://www.chosun.com/national/court_law/2024/12/25/BKY5EYJK75DCHDJTSDNRA6A4YI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/25/BKY5EYJK75DCHDJTSDNRA6A4YI/</guid>
-      <dc:creator>유종헌 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 25 Dec 2024 02:35:27 +0000</pubDate>
-      <content:encoded>‘12·3 비상계엄' 사태를 수사하는 고위공직자범죄수사처가 이르면 오늘(25일) 문상호 전 정보사령관 신병을 군 검찰에 이첩한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RBCNUEAO4KCOBQZT75IPFWCJKA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;문상호 전 국군정보사령관. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;공수처는 검찰, 군 검찰 등과 논의한 결과 문 전 사령관을 검찰을 거치지 않고 바로 군검찰에 넘기기로 결정했다고 이날 밝혔다. 공수처 관계자는 “우리가 검찰로 이송한 다음 검찰이 다시 군검찰에 넘기는 방법도 있었다”면서도 “그렇게 되면 검토도 복잡해지고 시간이 많이 걸릴 것 같아 군검찰에 바로 넘기기로 했다”고 말했다.&lt;br&gt;&lt;br&gt;공수처는 현역 장성의 부패범죄에 대한 수사권은 있지만 기소권은 없다. 원래 공수처는 직접 기소권이 없는 사건을 서울중앙지검에 이첩하는데, 이번에는 현역 군인의 기소를 담당하는 군검찰로 바로 사건을 넘기기로 검찰·군검찰과 협의했다는 것이다.&lt;br&gt;&lt;br&gt;공수처는 전날 군사법원에 문 전 사령관의 구속기한 연장을 신청해 승인받았다. 앞서 공수처는 지난 18일 문 전 사령관을 체포한 데 이어 지난 20일 구속영장을 발부받아 수사를 이어왔다.&lt;br&gt;&lt;br&gt;문 전 사령관은 비상계엄 당시 북파공작부대(HID) 요원을 투입하고, 과천 중앙선관위에 정보사 요원을 출동시킨 혐의를 받는다. 또 비상계엄 선포 이틀 전인 지난 1일 노상원 전 정보사령관, 전·현직 정보사령부 간부들과 롯데리아에서 만나 비상계엄을 사전 논의했다는 의혹도 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>윤 대통령, 공수처 2차 출석요구 불응</title>
       <link>https://www.chosun.com/national/court_law/2024/12/25/FEWYKUF5XNG4XCYCV6FMZQGTKA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/25/FEWYKUF5XNG4XCYCV6FMZQGTKA/</guid>
@@ -873,33 +905,6 @@
       <description/>
       <pubDate>Wed, 25 Dec 2024 01:03:58 +0000</pubDate>
       <content:encoded>윤석열 대통령이 25일 오전 10시에 예정된 고위공직자범죄수사처(공수처)의 피의자 조사에 출석하지 않았다. 공수처는 이날 윤 대통령 출석을 더 기다려본다는 입장이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZM6EM4ULZFOYLBOSWNH52BMQQQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령이 지난 14일 본인의 탄핵소추안이 국회에서 가결된 뒤 한남동 관저에서 대국민담화를 하고 있다./ 연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;오동운 공수처장은 지난 24일 국회 법제사법위원회에 출석해 “조사는 내일 (오전) 10시로 정해져 있지만 저희는 시간을 좀 더 늘려서 기다린다는 심정”이라고 밝힌 바 있다. 주임 검사로 출석요구서를 보낸 차정현 부장검사는 윤 대통령 조사를 위해 계속 대기 중이다.&lt;br&gt;&lt;br&gt;공수처는 윤 대통령이 이날 출석하지 않을 경우 3차 출석 요구를 할지, 체포영장을 청구할지 검토할 예정이다. 윤 대통령은 12·3 비상계엄 사태와 관련해 내란 우두머리, 직권남용 혐의를 받는 피의자 신분이다.&lt;br&gt;&lt;br&gt;앞서 공수처와 경찰 국가수사본부, 국방부 조사본부로 구성된 공조수사본부는 지난 20일 윤 대통령에게 이날 오전 10시까지 정부과천청사에 출석하라고 통보했다. 하지만 윤 대통령은 출석요구서를 수령하지 않았다. 윤 대통령을 돕는 석동현 변호사는 지난 24일 “(공수처에) 출석하기는 어렵지 않나 그렇게 보고 있다”고 밝힌 바 있다. 윤 대통령은 아직 변호인단을 구성하지 않은 것으로 알려졌다. 윤 대통령 측이 공수처에 낸 변호사 선임계도 없다.&lt;br&gt;&lt;br&gt;공수처는 지난 16일에도 윤 대통령에게 18일에 조사받으라는 1차 출석요구서를 보냈지만, 윤 대통령은 응하지 않았다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>불법 도박장 개장, 배우 한소희 모친 ‘집유 2년’</title>
-      <link>https://www.chosun.com/national/court_law/2024/12/25/L3QHIK335RBVBLBDXOTHV4AMXU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/25/L3QHIK335RBVBLBDXOTHV4AMXU/</guid>
-      <dc:creator>춘천=정성원 기자</dc:creator>
-      <description>배우 한소희의 모친이 다수의 불법 도박장을 개설한 혐의로 법원으로부터 집행유예를 선고받았다.25일 법조계에 따르면 춘천지법 원주지원 형사1단독 김도형 부장판사는 도박장소개설 혐의로 기소된 신모(55)씨에게 징역 1년에 집행유예 2년을 선고했다.</description>
-      <pubDate>Wed, 25 Dec 2024 01:17:49 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DAQCEDPBADFZIHVF4AYOBIHZMQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;배우 한소희씨. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;배우 한소희의 모친이 다수의 불법 도박장을 개설한 혐의로 법원으로부터 집행유예를 선고받았다.&lt;br&gt;&lt;br&gt;25일 법조계에 따르면 춘천지법 원주지원 형사1단독 김도형 부장판사는 도박장소개설 혐의로 기소된 신모(55)씨에게 징역 1년에 집행유예 2년을 선고했다.&lt;br&gt;&lt;br&gt;신씨는 지난 2022년 1월부터 지난 8월까지 강원 원주와 경북 경주, 울산지역에서 7곳의 도박장을 개설, 운영한 혐의다. 신씨는 텔레그램을 통해 알게 된 불법 도박사이트 조직원으로부터 사이트 접속 코드와 매장 관리자 코드를 부여받은 뒤 이 사이트를 이용할 수 있도록 불법 도박장을 개설한 것으로 조사됐다. &lt;br&gt;&lt;br&gt;신씨는 수익 분배를 조건으로 일명 바지사장을 내세워 성인 PC게임장을 차리거나 PC게임장 운영자와 짜고 이 같은 범행을 저질렀다.&lt;br&gt;&lt;br&gt;앞서 신씨는 지난 2021년에도 게임산업진흥에 관한 법률 위반 혐의로 적발돼 지난해 500만원의 벌금형을 선고받은 전력이 있던 것으로 드러났다.&lt;br&gt;&lt;br&gt;김 부장판사는 “기록상 명확하게 나타나 있지 않지만 PC방의 영업구조와 이익분배율에 비춰 보면 이로 인해 피고인이 취득한 이익 역시 상당할 것으로 보인다”면서 “벌금형 전과가 있는 점 등을 양형에 참작했다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>2049년 노인 2000만명... 한국 초고령 속도 빠른 이유는</title>
-      <link>https://www.chosun.com/national/national_general/2024/12/25/SGES43WDY5F4JEUJYPWYLY54HU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/25/SGES43WDY5F4JEUJYPWYLY54HU/</guid>
-      <dc:creator>최연진 기자, 김영우 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 24 Dec 2024 15:54:12 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VUCHMEPFCBBX3AGSE63B3PNX4A.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;지난 10월 17일 부산진구 부산시민공원 다솜관 일대에서 '2024 부산 50+일자리박람회' 사전 행사로 시니어모델 패션쇼가 열리고 있다. /김동환 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;우리나라 전체 인구에서 65세 이상 노인이 차지하는 비율이 처음 20%를 넘어섰다. 이제 국민 5명 중 1명이 노인인 ‘초고령 사회’에 들어선 것이다. 유엔은 65세 이상 인구 비율이 7% 이상이면 고령화 사회, 14% 이상이면 고령 사회, 20% 이상은 초고령 사회로 분류한다.&lt;br&gt;&lt;br&gt;24일 행정안전부 주민등록 인구 통계에 따르면, 우리나라의 65세 이상 인구는 1024만4550명으로 전체 인구(5122만1286명)의 20%를 넘은 것으로 집계됐다.&lt;br&gt;&lt;br&gt;문제는 속도다. 우리나라는 2000년 고령화 사회에 진입했고 2017년 8월 14.02%를 기록해 17년 만에 고령 사회에 접어들었다. 이후 고령화 속도가 더 빨라져 7년 만에 초고령 사회가 됐다. 통계청은 작년 9월 우리나라가 내년쯤 초고령 사회에 진입할 것이라고 했는데 정부 예상보다 빨리 도달했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4THW5CSBXFG4XNELWYZJAA2FOI.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=김현국&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인구 전문가들은 “지금 우리나라는 세계적으로 유례없는 초고속 고령화를 달리고 있는데 구체적인 대책이 보이지 않는다”고 지적했다. 초고령 사회가 되면 연금 고갈 시기가 당겨지고 복지·의료 비용이 늘어나 정부의 재정 부담이 커진다. ‘생산 가능 인구’가 줄고 소비가 위축돼 국가 경제가 저성장의 늪에 빠질 우려도 있다.&lt;br&gt;&lt;br&gt;정부는 고령화, 저출생 등 인구 문제를 총괄할 컨트롤타워로 부총리급인 ‘인구전략기획부’를 출범시키려고 했으나 ‘12·3 비상계엄 사태’ 이후 동력을 잃은 상황이다. 조영태 서울대 보건대학원 교수는 “현재 60세인 정년을 연장하는 등 우리나라의 노동, 복지, 의료 체계를 서둘러 재설계해야 한다”고 했다.&lt;br&gt;&lt;br&gt;우리나라의 고령화 속도는 세계적으로도 최고 수준이다. 고령화 사회에서 고령 사회로 가는 데 17년이 걸렸는데, 이는 노인 인구가 많은 일본보다도 7년 빠르다. 일본은 24년, 미국은 72년, 프랑스는 115년 걸렸다.&lt;br&gt;&lt;br&gt;우리나라는 이후 초고령 사회도 7년 만에 진입했다. 지난 7월 노인 인구가 1000만명을 돌파해 전체 인구의 19.5%를 차지한 데 이어 5개월 만에 20%도 넘겼다. 반면에 일본은 10년, 독일은 36년, 프랑스는 39년 만에 초고령 사회에 진입했다.&lt;br&gt;&lt;br&gt;주형환 저출산고령사회위원회 부위원장은 지난 11일 ‘인구 전략 공동 포럼’에서 “지금 같은 추세라면 2045년에는 노인 인구 비율이 37.3%로 세계 최고인 나라가 될 것”이라고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YS35LJMGC5FAVHONNVLACP54XM.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=양인성&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;고령화 속도는 더 빨라질 가능성이 크다. 1955~1963년에 태어난 1차 베이비붐 세대 712만명이 60대에 진입한 데 이어 2차 베이비붐 세대(1964~1974년생) 954만명이 곧 노인이 되기 때문이다. 인구 전문가들은 이들이 전부 65세 이상이 된 이후인 2049년에는 우리나라의 노인 인구가 2000만명에 달할 것으로 예상한다.&lt;br&gt;&lt;br&gt;우리나라의 고령화 속도가 특히 빠른 것은 세계 최저 수준의 출산율도 원인이다. 지난해 우리나라의 합계출산율(여성 1명이 평생 낳을 것으로 기대되는 평균 출생아 수)은 0.72명으로 홍콩, 마카오 등 도시국가를 빼면 세계에서 가장 적다. 새로 태어나는 인구가 적으니 노인 비율이 높아질 수밖에 없다.&lt;br&gt;&lt;br&gt;반면에 우리나라의 기대 수명은 2022년 기준 82.7세로 OECD(경제협력개발기구) 회원국 중 아홉째로 높다. 기대 수명은 그해 태어난 아이가 앞으로 살 것으로 예상되는 기간을 뜻한다.&lt;br&gt;&lt;br&gt;지역별로는 전국 시도 17곳 중 9곳이 초고령 사회에 진입한 것으로 나타났다. 노인 비율이 가장 높은 지역은 전남(27.2%)이었고, 이어 경북(26%), 강원(25.3%), 전북(25.2%), 부산(23.9%), 충남(22.2%) 등의 순으로 높았다. 대도시 중에선 부산과 대구(20.8%)가 이미 초고령 사회에 들어섰다. 서울은 19.4%로 초고령 사회 진입을 목전에 두고 있다. 가장 낮은 곳은 세종(11.6%)이었다.&lt;br&gt;&lt;br&gt;‘초고속 고령화’와 함께 혼자 사는 노인의 비율도 높아지고 있다. 2020년 19.8%였던 독거 노인 비율은 지난해 32.8%로 상승했다. 노인 3명 중 1명은 혼자 산다는 뜻이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>19개월 해솔이의 첫 크리스마스 선물</title>
-      <link>https://www.chosun.com/national/welfare-medical/2024/12/25/IP4GCXLQ5BBQPLPPTW2C7J54ZM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/12/25/IP4GCXLQ5BBQPLPPTW2C7J54ZM/</guid>
-      <dc:creator>안준용 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 24 Dec 2024 16:13:59 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5UIC6MTAQVHWTEACKB7LGI5KVA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 19일 서울 서대문구 세브란스병원 어린이병원 진료실에서 생후 19개월 여아 해솔이가 주치의 은호선 교수를 바라보며 미소 짓고 있다. 가운데 곰 인형은 병원 측에서 해솔이에게 크리스마스 선물로 준 것이다. 28주 이른둥이(910g)로 태어나 간경화 등으로 생사의 고비를 넘긴 해솔이는 1년간 이 병원 신생아집중치료실에서 치료받으며 극적으로 회복, 지난달 퇴원했다. /고운호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 19일 오후 1시, 서울 서대문구 세브란스병원 어린이병원 2층 진료실에서 콧줄(코위관)을 한 19개월 아기 해솔이가 자기 몸만 한 곰 인형을 향해 조그만 손을 뻗었다. 신기한 듯 인형과 한참 눈을 맞추던 해솔이에게 주치의인 신생아과 은호선 교수가 웃으며 말했다. “해솔이 눈싸움하는 거야? 태어나 처음 곰돌이 보고 깜짝 놀랐나 보네.”&lt;br&gt;&lt;br&gt;곰 인형은 세브란스병원 신생아집중치료실(NICU)에서 1년간 투병 후 최근 퇴원한 해솔이를 위해 병원 측이 준비한 작은 크리스마스 선물이다. 해솔이는 작년 5월 충청 지역 한 대학병원에서 910g으로 태어났다. 임신중독증(전자간증)을 앓은 엄마 김소망(33)씨가 임신 28주에 조산했다.&lt;br&gt;&lt;br&gt;해솔이는 바로 입원했지만, 간부전·간경화가 심각했다. 신부전으로 복수가 차 온몸이 퉁퉁 붓고 폐부종으로 호흡도 힘들어했다. 간 이식 수술을 받기엔 너무 어렸다. 반년 가까이 치료받다 ‘여기선 더 해줄 수 있는 게 없다’는 말에 김씨 부부는 서울의 큰 대학병원들을 수소문했다. 그중 딱 한 곳, 세브란스병원에서 “치료해보겠다”고 했다.&lt;br&gt;&lt;br&gt;김씨는 “너무나 감사했다”고 했다. 전북 완주에 살던 그는 작년 11월 해솔이를 입원시킨 뒤 인천의 동생 집으로 옮겨왔다. 하루 30분 해솔이 얼굴을 보기 위해 매일 지하철로 2시간 거리인 병원을 오갔다. 늘 “해솔이 보고 싶다”고 떼쓰던 언니 해나(6)도 함께였다.&lt;br&gt;&lt;br&gt;김씨는 “오늘은 어떤 표정으로 엄마와 언니를 맞아줄까 상상하면 긴 면회 길도 설레기만 했다”고 했다. 경기 오산의 건설 현장에서 일하던 아빠 김승철(39)씨도 지난 7월 서울 발령을 받아 가족이 함께 인천으로 이주했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GAYSZSO72FFW7POFSPPGZTJEDU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 19일 서울 서대문구 세브란스병원 어린이병원 진료실. 생후 19개월 여아 해솔이가 주치의 은호선 교수 앞에서 미소 짓고 있다. 가운데 곰 인형은 병원 측이 해솔이에게 크리스마스 선물로 준 것이다. 28주 이른둥이(910g)로 태어나 간경화 등으로 생사의 고비를 넘긴 해솔이는 1년간 이 병원 신생아집중치료실에서 치료받으며 극적으로 회복, 지난달 퇴원했다. /고운호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;치료는 난관의 연속이었다. 혈압이 갑자기 떨어져 심폐소생술(CPR)도 여러 번 받았다. 위장관 출혈도 심했다. 올 5~7월엔 다시 복수가 차고 간 상태도 더 나빠졌다. 은 교수는 “마음의 준비를 해야 할 상황이 올 수 있겠다 싶었다”고 했다. 의료진은 해솔이 치료에 필요한 특수약물의 건강보험 적용이 끊기는 상황에서도 병원 손해를 감수하며 약물, 복막 투석 등 치료를 이어갔다.&lt;br&gt;&lt;br&gt;은 교수는 “의정 갈등 사태에 모든 의료진이 함께 당직을 서며 해솔이와 신생아집중치료실의 다른 아이들을 돌봤다”면서 “살겠다는 해솔이 의지가 컸는지 7월부터 치료 효과가 극적으로 나타나기 시작했다”고 했다. 병원 측은 형편이 넉넉지 않은 해솔이 치료를 위해 1000만원을 지원했다.&lt;br&gt;&lt;br&gt;해솔이는 입원 1년 만인 지난달 4일 퇴원했다. 집으로 가는 길 내내 차창 밖 풍경에서 눈을 못 뗐다고 한다. 엄마 김씨는 “이런 날이 올 줄 몰랐는데…”라며 “덕분에 올해 크리스마스는 가족이 함께 보낼 수 있게 됐다”고 했다. 치료는 아직 끝나지 않았다. 간 이식을 해야 할 상황이 언제 다시 찾아올지 모른다. 하지만 그는 “지금껏 그래 온 것처럼 가족이 기도하고 훌륭한 의료진이 힘써주고 계시니 해솔이도 다른 건강한 아이들처럼 걷고 말하는 날이 곧 오리라 믿는다”고 했다.&lt;br&gt;&lt;br&gt;언니 해나는 작년 세브란스병원 로비에 있던 ‘크리스마스 소원 트리’에 “해솔아~ 같이 집에 가자. 얼른 나아”라는 소원 카드를 썼다. 올해는 소원 트리에 이런 카드를 남겼다. “해솔아, 우리한테 와줘서 정말 고마워.”&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>최태원 이혼 소송 취하… 재산 소송은 계속</title>
@@ -936,15 +941,6 @@
       <description/>
       <pubDate>Tue, 24 Dec 2024 16:04:57 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KKNYOTETGVJJ3KF6VQ7UBJEKGA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;검찰로 송치되는 노상원 前 정보사령관 - ‘12·3 비상계엄’ 내란 혐의로 구속된 노상원(오른쪽) 전 정보사령관이 24일 서울 은평구 서울서부경찰서 유치장에서 서울중앙지검으로 송치되고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;노상원 전 정보사령관이 12·3 비상계엄 사태의 논쟁적 인물로 떠오르고 있다. 노씨가 비상계엄에 어디까지 개입했는지를 놓고 검찰과 경찰이 서로 다른 해석을 내놓고 있기 때문이다.&lt;br&gt;&lt;br&gt;경찰이 확보한 노씨의 60페이지 분량 수첩에선 ‘국회 봉쇄’ ‘정치인 사살’ ‘NLL(북방한계선)에서 북한 공격 유도’ 등 문구가 나왔다. 경찰은 이 같은 정황을 바탕으로 노씨가 비상계엄을 주도적으로 기획하는 등 김용현 전 국방 장관에 이은 ‘계엄 2인자’ ‘참모장’ 역할을 수행했다고 본다. 반면, 검찰은 노씨가 계엄을 주도했다기보다는 김 전 장관을 밖에서 돕는 ‘비선’ ‘조언자’에 불과하다고 보는 것으로 전해졌다. 경찰은 24일 노씨를 검찰에 구속 상태로 송치했는데 검찰이 어떤 결론을 내릴지 관심이 모인다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/X5V4REUFDFDE5O253E3LDLG54A.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=양인성&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;◇경찰 “계엄 2인자” 검찰 “김용현 조언자”&lt;br&gt;&lt;br&gt;경찰이 노씨를 계엄 2인자로 보는 주된 근거는 노씨 수첩에서 계엄 정당성 확보를 위한 ‘북풍 공작’과 주요 정치인 체포 계획 등이 발견됐다는 것이다.&lt;br&gt;&lt;br&gt;경찰은 노씨가 ‘NLL에서 북한의 공격 유도한다’는 계획을 수첩에 적은 점, 비상계엄 당시 정보사가 북파 공작 부대(HID) 동원을 검토한 점 등을 북풍 공작을 뒷받침하는 정황이라고 본다. 경찰은 또 노씨가 수첩에 정치인·언론인 등에 대한 광범위한 체포 계획을 적으며 ‘사살’이란 문구까지 쓴 점도 주목하고 있다. 계엄 당시 방첩사의 정치인 체포 시도가 노씨 계획과 무관하지 않다는 것이다.&lt;br&gt;&lt;br&gt;반면 검찰은 군이 실제 북풍 공작을 계획했다는 증거가 없고, 정치인 ‘사살’을 시도한 정황도 아직은 없다고 보고 있다. 계엄 당시 여인형 전 방첩사령관이 주요 요인 14~15명 체포를 시도하긴 했지만, 이들에 대한 사살 지시가 있었다는 증언은 없었다. 검찰은 비상계엄 당시 군 병력을 국회와 중앙선거관리위원회 등에 동원한 방첩사·특전사·수방사 지휘관들의 역할이 노씨보다 크다고 보는 것으로 전해졌다. 검찰 관계자는 “내란죄 핵심은 폭동인데, 수첩에 아이디어를 메모한 것만으로 폭동이 있었다고 볼 수 있느냐”고 했다.&lt;br&gt;&lt;br&gt;◇경찰 “계엄 실행자” 검찰 “외부 지원 인력”&lt;br&gt;&lt;br&gt;경찰은 노씨가 계엄사령부 합동수사본부 내에 일종의 별동대 격으로 ‘수사2단’을 만들어 선관위 서버 확보와 직원 체포를 맡기려 하는 등 ‘실행자’ 역할을 했다고 보고 있다. 경찰은 국방부 압수 수색에서 60명의 수사2단 명단이 적힌 ‘인사 발령 문건’을 확보하기도 했다.&lt;br&gt;&lt;br&gt;하지만 검찰은 ‘수사2단’이 실제로 구성되지는 않은 점, 민간인인 노씨에게 병력 지휘권이 없는 점 등을 볼 때 노씨를 계엄의 ‘실행자’로 보기 어렵다고 판단한다. 대신 검찰은 정치인 체포에 실제 동원된 방첩사·경찰청 국가수사본부·국방부 조사본부 등에 수사력을 집중하고 있다. 검찰 관계자는 “노씨는 외부 지원 인력 정도로 보인다”고 했다.&lt;br&gt;&lt;br&gt;◇노씨가 계엄 날짜도 점지했을까&lt;br&gt;&lt;br&gt;일각에선 노씨가 계엄 날짜로 12월 3일을 점찍어 김 전 장관에게 알려주는 등 무속적인 조언을 했다는 의혹도 제기되고 있다. 노씨는 계엄 2~3달 전쯤 김 전 장관에게 “윤석열 대통령이 올해 운이 트이니까 시기를 놓치면 안 된다”고 조언한 것으로 알려졌다. 노씨가 계엄 날짜를 12월 3일로 정하는 데 역할을 했을 가능성이 있다는 것이다.&lt;br&gt;&lt;br&gt;다만 노씨를 직접 조사한 경찰, 계엄 관련자 다수를 조사한 검찰 모두 “노씨가 계엄 날짜를 점지했다는 진술은 없었다”는 입장이다. 한 법조인은 “검찰의 추가 조사로 밝혀야 할 부분”이라고 했다.&lt;br&gt;&lt;br&gt;◇‘검찰 선관위 장악 연루’ 놓고 검경 신경전&lt;br&gt;&lt;br&gt;한편 검찰과 경찰은 24일 계엄 당시 군의 선관위 장악 계획에 검찰이 포함됐는지를 놓고 신경전을 벌였다. 경찰은 이날 “계엄 당시 선관위에 투입됐던 일부 방첩사 관계자에게서 ‘검찰과 국정원이 갈 것이니 지원하라’는 명령을 받았다는 진술을 확보했다”고 밝혔다. 그러자 검찰은 “방첩사는 검찰에 계엄과 관련해 어떠한 요청도 한 사실이 없다”고 반박했다. 검찰은 계엄 당시 경찰청 국가수사본부가 방첩사의 체포조 지원 요청에 응했다는 정황을 포착하고 수사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>한규선 ‘보성언론인상’</title>
-      <link>https://www.chosun.com/national/people/2024/12/25/TC2AVAOYNVBYRBY2PYNKHDBHXQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/12/25/TC2AVAOYNVBYRBY2PYNKHDBHXQ/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Tue, 24 Dec 2024 15:47:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7EXACGWX2NFYDCABGHPTDQXPYE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;보성교우회(회장 여훈구)와 보성언론인회(회장 박상도)는 스포츠조선 한규선 대표에게 보성언론인상을 수여했다고 24일 밝혔다. 임철순 자유칼럼그룹 공동대표(전 한국일보 주필)는 반세기 현역 기자상을 받았다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>아들과 함께 출전한 골프대회서 우즈, 14년 전 이혼한 전처와 포옹</title>
