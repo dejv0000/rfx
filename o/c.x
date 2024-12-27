@@ -13,6 +13,33 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>삼성 ‘노조 와해’ 사건 손배소 2심서도 노조 측 일부승소</title>
+      <link>https://www.chosun.com/national/court_law/2024/12/27/ROS75GUOZJGKJGLBFTTEMYBNFY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/27/ROS75GUOZJGKJGLBFTTEMYBNFY/</guid>
+      <dc:creator>박강현 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 27 Dec 2024 04:57:54 +0000</pubDate>
+      <content:encoded>전국금속노동조합이 이른바 ‘삼성 노조 와해’ 사건과 관련해 활동 중 숨진 고(故) 염호석씨의 장례 과정에서 방해가 발생한 점 등에 대해서도 삼성 측이 배상해야 한다고 항소했지만, 법원이 재차 받아들이지 않았다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2CTGM24Z25EX3A2HETGLAQPMMU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울고법. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;27일 서울고법 민사38-3부(재판장 박성윤)는 금속노조가 에버랜드 협력업체인 CS모터스 등을 상대로 낸 손해배상 청구 소송 항소심에서 양측 항소를 기각하고 원고 일부 승소로 판결한 원심을 유지했다.&lt;br&gt;&lt;br&gt;‘삼성 노조 와해’ 사건은 지난 2011년 에버랜드, 2013년 삼성전자서비스에 각각 노조가 설립되자 삼성그룹 미래전략실 차원에서 조직적으로 노조 설립을 방해한 사건이다. 당시 한국경영자총협회도 삼성 요구대로 협력사들에 노조와의 단체교섭을 지연·불응하도록 한 것으로 조사됐다. 이 사건으로 기소된 삼성 전·현직 임원들은 2019년 12월 1심에서 유죄를 선고받았다.&lt;br&gt;&lt;br&gt;그러자 노조의 상급단체인 금속노조가 2020년 4월 10억원을 손해배상하라며 소송을 냈고, 여기엔 염씨의 사건에 대한 배상도 포함돼 있었다. 염씨는 2014년 5월 삼성전자서비스 노조 방해 등에 항의하는 과정에서 ‘노조장으로 치러달라’는 유서를 남기고 스스로 목숨을 끊었는데, 이후 염씨의 장례 절차에 경찰이 투입되고 시신 탈취에도 경찰과 삼성 측이 관여했다는 의혹이 제기됐다.&lt;br&gt;&lt;br&gt;앞서 1심은 지난 2월 삼성 측이 1억3300여만원의 배상금과 이에 따른 지연이자를 지급하라고 판결하면서도 염씨 부분에 대한 청구는 기각했다. 당시 삼성 측은 항소하지 않았다.&lt;br&gt;&lt;br&gt;이후 금속노조는 염씨 부분에 대해 항소했고, CS모터스 측도 마찬가지로 항소했지만 이날 법원은 양측의 항소를 모두 기각했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>경찰, 지하철서 삽으로 휴대전화 내리쳐 폭발사고 낸 60대男 입건</title>
+      <link>https://www.chosun.com/national/national_general/2024/12/27/ISEK3IO6YVCZTGYQU5HYOZE4NI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/27/ISEK3IO6YVCZTGYQU5HYOZE4NI/</guid>
+      <dc:creator>박정훈 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 27 Dec 2024 04:34:38 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4NY7FZSEVEKV6O4JT5WP4HWZE4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;6일 서울 양천구 양천경찰서의 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 지하철 열차 내에서 삽으로 자신의 휴대전화를 내리쳐 화재를 일으킨 60대 남성이 27일 경찰에 체포됐다.&lt;br&gt;&lt;br&gt;서울 양천경찰서는 이날 오전 60대 남성 A씨를 방화 및 업무방해 혐의로 입건했다고 밝혔다.&lt;br&gt;&lt;br&gt;경찰 등에 따르면 이날 오전 10시 30분쯤 서울 양천구 지하철 5호선 목동역을 지나던 하남검단산행 열차에서 연기가 발생한다는 신고가 접수됐다.&lt;br&gt;&lt;br&gt;A씨는 열차에서 본인이 가지고 있던 삽으로 휴대전화를 때렸고 이에 휴대전화에서 연기가 발생한 것으로 파악됐다. A씨는 근처에 있던 승객들에 의해 열차 밖으로 끌려나온 것으로 전해졌다. 다행히 인명 피해는 발생하지 않았다고 한다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “A씨가 음주 상태였는지, 정신질환이 있었는지 등을 포함해 구체적인 사건 경위를 수사할 계획”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>강제추행 등 혐의 김진하 양양군수 구속영장 청구</title>
+      <link>https://www.chosun.com/national/court_law/2024/12/27/Z4ELI2KIU5FTRJ5AEV75YRLRDI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/27/Z4ELI2KIU5FTRJ5AEV75YRLRDI/</guid>
+      <dc:creator>속초=정성원 기자</dc:creator>
+      <description>금품수수와 강제추행 등 의혹을 받는 김진하 강원 양양군수에 대한 구속영장이 청구됐다.춘천지검 속초지청은 청탁금지법 위반, 강제추행, 뇌물수수 등 혐의로 김진하 양양군수에 대한 구속영장을 청구했다고 2일 밝혔다.</description>
+      <pubDate>Fri, 27 Dec 2024 03:49:19 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YSGT5O3IKBNWVNM3MX7WVNGNEM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 6일 오후 김진하 강원 양양군수가 강원경찰청 강릉 별관에 출석해 소환 조사를 마친 뒤 나오고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;금품수수와 강제추행 등 의혹을 받는 김진하 강원 양양군수에 대한 구속영장이 청구됐다.&lt;br&gt;&lt;br&gt;춘천지검 속초지청은 청탁금지법 위반, 강제추행, 뇌물수수 등 혐의로 김진하 양양군수에 대한 구속영장을 청구했다고 27일 밝혔다.&lt;br&gt;&lt;br&gt;김 군수는 작년 12월 여성 민원인 A씨가 운영하는 카페에서 바지를 내리는 등 부적절한 행위를 하는 등의 혐의를 받고 있다.  또 민원 해결을 빌미로 A씨에게서 금품을 받은 혐의를 받고 있다. &lt;br&gt;&lt;br&gt;이와 관련 경찰은 지난 10월 양양군청과 김 군수의 자택 등을 압수수색했으며, 지난달 6일엔 김 군수를 소환해 조사를 벌였다.&lt;br&gt;&lt;br&gt;김 군수는 논란이 불거지자 지난 9월 소속 정당인 국민의힘에 ‘일신상의 이유’를 들어 탈당계를 제출했고, 국민의힘 강원도당은 곧 바로 탈당계를 처리했다. 한편 김 군수에 대한 구속 전 피의자 심문(영장실질심사)은 내년 1월 2일 열린다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>"기름값보다 싸잖아요"…성심당 딸기시루 3배 웃돈 붙여 되팔고, 사고</title>
       <link>https://www.chosun.com/national/people/2024/12/27/4KESOPC35RE27HHR55WG524G74/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/people/2024/12/27/4KESOPC35RE27HHR55WG524G74/</guid>
@@ -753,24 +780,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/54FTUISTLZDHJELX6W5GW5V5XU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;크리스마스이브인 24일 오전 경기 양주시에서 부모와 남녀 어린이 등 4명이 숨진 채 발견돼 경찰이 수사에 나섰다.&lt;br&gt;&lt;br&gt;24일 양주경찰서와 소방당국 등에 따르면 이날 오전 10시 15분쯤 양주시 회암동 회암사지 공터에 주차된 차량 안에서 40대 추정 남녀 2명과 남녀 어린이 등 모두 4명이 숨진 채 발견됐다. 이들은 한 가족으로 파악됐으며, 운전석에는 아버지, 뒷좌석에는 어머니와 아들(11), 딸(5)이 숨져 있었다.&lt;br&gt;&lt;br&gt;또 차량 안에서는 억대의 채무를 비관하는 내용을 담은 유서가 발견됐다. 경찰은 국과수에 부검을 의뢰하는 한편 사건 경위를 조사하고 있다.&lt;br&gt;&lt;br&gt;동네 주민의 신고로 발견된 차량은 지난 주말부터 한 자리에 주차돼 있었던 것으로 알려졌다. 목격자는 “평소에 못 보던 차가 21일부터 움직이지 않고 있었다”고 경찰에 진술한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;※ 우울감 등 말하기 어려운 고민이 있거나 주변에 이런 어려움을 겪는 가족·지인이 있을 경우 자살예방 상담전화 ☎109 또는 자살예방SNS상담 “마들랜”에서 24시간 전문가의 상담을 받을 수 있습니다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>“시내버스 현금요금함, 내년부턴 못 본다”… 인천시, ‘현금 없는 버스’ 전면 시행</title>
-      <link>https://www.chosun.com/national/regional/2024/12/26/THR3LBDKLBFF5H6JVSWUIDNPEM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/12/26/THR3LBDKLBFF5H6JVSWUIDNPEM/</guid>
-      <dc:creator>인천=이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 26 Dec 2024 05:58:37 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VE5ACG7FF6OHL7OT7R6GXHXVJA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;인천시청 전경./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천지역 시내버스에 설치된 현금요금함이 내년 1월 1일부터 모두 없어진다. 이날부터는 ‘교통카드’로 요금을 받는다.&lt;br&gt;&lt;br&gt;인천시는 2025년 1월 1일부터 ‘현금 없는 버스’를 전면 시행한다고 26일 밝혔다. 버스 준공영제가 적용되는 시내버스 194개 노선 버스 1962대가 시행 대상이다.&lt;br&gt;&lt;br&gt;‘현금 없는 버스’가 전면 시행되면 버스 요금은 교통카드로 지불해야 한다.&lt;br&gt;&lt;br&gt;교통카드가 없을 땐 버스에 비치된 교통카드를 구입해 이용하면 된다. 이 카드엔 2500원이 충전돼 있다. 카드 요금 2500원은 별도로, 교통카드 구입을 위해 버스 기사에게 내야 하는 비용은 총 5000원이다.&lt;br&gt;&lt;br&gt;버스 요금은 계좌 이체나 스마트폰 모바일 교통카드 발급 등의 방법으로도 낼 수 있다.&lt;br&gt;&lt;br&gt;인천시는 교통카드가 없는 승객들이 당황하지 않도록 이들 지불 방법을 안내할 예정이다.&lt;br&gt;&lt;br&gt;인천시는 현금요금함 운영‧관리에 필요한 연간 9억6000만원의 비용을 아끼고, 현금 결제 과정에서 발생할 수 있는 사고 위험과 운행 지연 예방 등을 위해 ‘현금 없는 버스’를 운행하게 됐다고 설명했다.&lt;br&gt;&lt;br&gt;인천시는 2022년부터 ‘현금 없는 버스’를 단계적으로 확대‧운영하고 있다. 최근까지 전체 시내버스 준공영제 노선의 75% 수준인 157개 노선의 버스 1446대를 ‘현금 없는 버스’로 운영해왔다. 올해 현금을 내고 버스를 이용한 승객은 전체의 0.086% 수준으로 파악됐다.&lt;br&gt;&lt;br&gt;인천시 관계자는 “처음 ‘현금 없는 버스’를 운영한 2022년엔 현금 승차 비율이 1.68% 수준이었으나 매년 감소하고 있는 것으로 확인됐다”며 “’현금 없는 버스’ 전면 시행에 따른 시민 혼란을 최소화하기 위해 철저히 준비하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>오세훈 “국민 생명 소모품처럼 다루는 北 정권 심판받아야”</title>
-      <link>https://www.chosun.com/national/regional/seoul/2024/12/26/UHPGMQ5MG5AWPGUGKARWGMZ7FI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/seoul/2024/12/26/UHPGMQ5MG5AWPGUGKARWGMZ7FI/</guid>
-      <dc:creator>김영우 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 26 Dec 2024 04:46:52 +0000</pubDate>
-      <content:encoded>북한군의 러시아 파병에 대해 오세훈 서울시장이 26일 “국민 생명을 소모품처럼 다루는 북한 정권의 죄악은 반드시 심판받아야 한다”고 말했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/S3U3CAFAJ5C7BFN4X3EOCNHH5U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;오세훈 서울시장이 지난 7월 10일 서울시청 집무실에서 본지와 인터뷰를 갖고 있다. /김지호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;오 시장은 이날 페이스북에 ‘그도 ‘우리의 국민’입니다’라는 제목의 글을 올리고 “먼 타국에서 발견된 북한군 병사의 손편지가 우리에게 묵직한 질문을 던진다”며 이같이 말했다.&lt;br&gt;&lt;br&gt;오 시장은 “어머니·아버지의 품을 그리워하고, 친구의 생일을 축하하며 한 자 한 자 편지를 써내려갔던 청춘이 남의 땅에서 총알받이가 되어 생명을 잃었다”며 “이 병사는 헌법상 한반도와 그 부속 도서에 사는 ‘우리의 국민’”이라고 했다.&lt;br&gt;&lt;br&gt;이어 오 시장은 “비록 다른 정치 체제의 억압을 받고 있지만, 그의 삶과 죽음은 곧 우리의 아픔이기도 하다. 이미 북한군 병사 수천 명이 죽거나 다쳤다는 보도도 있다”며 “국민의 생명을 소모품처럼 다루는 북한 정권의 죄악은 하나하나 기록되어 반드시 심판받아야 한다”고 했다.&lt;br&gt;&lt;br&gt;오 시장은 “정치란 무엇인가 다시 생각한다”며 “정치는 인간의 생명과 존엄을 지키는 것이고, 이 단순한 진리를 잊는 순간 정치는 괴물로 변하고 만다”고 했다.&lt;br&gt;&lt;br&gt;그는 “민주당의 반대로 8년째 멈춰 선 북한인권재단의 설립은 더 이상 미룰 수 없는 과제”라며 “북한의 참혹한 인권 실태를 밝혀내고, 실질적 지원과 희망의 길을 열어야 한다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>김용현 측 “비상계엄은 ‘정치 패악질’ 경종 울리고자 한 것”</title>
       <link>https://www.chosun.com/national/court_law/2024/12/26/X4PUIUTR3RHGXJE6FAO67DUKR4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/26/X4PUIUTR3RHGXJE6FAO67DUKR4/</guid>
@@ -787,15 +796,6 @@
       <description/>
       <pubDate>Thu, 26 Dec 2024 03:00:20 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/73OFZG7GO5LFFBL7LU6V4GB5MM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령의 탄핵 심판을 심리할 김형두 헌법재판관이 26일 서울 종로구 헌법재판소로 출근하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김형두(59·사법연수원 19기) 헌법재판관이 부친상에도 정상 출근해 재판관 회의에 참석하는 등 업무를 소화하고 있는 것으로 26일 나타났다. 헌법재판소는 27일 윤석열 대통령의 탄핵 심판 첫 변론 준비 기일도 차질 없이 준비한다는 계획이다.&lt;br&gt;&lt;br&gt;김 재판관은 이날 서울 종로구 헌재 출근길에 기자들과의 질의 응답에서 당일로 예정된 헌법재판관 회의 안건과 관련해 “원래 재판관 회의에선 행정에 관한 사항들이 많이 있었다”며 “(윤 대통령) 탄핵 사건에 대한 얘기도 조금 할 것 같다”고 말했다.&lt;br&gt;&lt;br&gt;윤석열 대통령의 탄핵 심판 변론 준비 기일 진행과 관련해선 “원래 한쪽이라도 불출석하면 진행할 수 없게 되어 있다”면서도 “수명재판관(이미선·정형식 재판관)이 적절히 판단해서 준비 절차가 더 필요하다고 생각되면 한 번 더 기일을 지정할 것으로 생각한다”고 내다봤다.&lt;br&gt;&lt;br&gt;헌재는 오는 27일 오후 2시에 윤 대통령의 탄핵 심판 첫 변론 준비 기일을 진행할 예정이다. 심판을 청구한 국회 소추위원과 피청구인인 윤 대통령 측이 마주하는 첫 자리가 될 전망이다. 준비 기일은 본격적인 변론이 시작되기 전에 당사자 측이 모여 쟁점을 정리하고, 향후 재판 진행 과정 등을 조율하는 절차다. 다만 아직 대리인 선임계를 제출하지 않은 윤 대통령 측이 불출석할 경우 절차가 공전할 가능성도 있다.&lt;br&gt;&lt;br&gt;헌재는 윤 대통령 측이 대리인단 선임과 각종 서류 등을 제출하지 않더라도 국회 측에서 제출한 계엄사령관 포고령 등의 증거를 통해 재판을 준비한다는 방침이다. 앞서 국회 측은 지난 24일 헌재에 비상계엄 관련 자료 등과 함께 당시 선포됐던 포고령 등도 제출한 것으로 알려졌다. 김 재판관은 “저희로서는 제출된 자료를 가지고 재판을 준비하고 있다”며 “변론 준비 절차 기일과 관계없이 재판 준비는 재판 준비대로 진행할 수 있다”고 설명했다.&lt;br&gt;&lt;br&gt;한편 김 재판관은 전날(25일) 부친상을 당한 것으로 확인됐다. 헌재 관계자는 “김 재판관의 일정 변동 등은 없을 예정이고, 오늘도 정상적으로 출근했다”고 전했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>이슬람 테러단체 자금지원 중앙아시아인 유학생 구속</title>
-      <link>https://www.chosun.com/national/regional/yeongnam/2024/12/26/OHN3G2HW4NG3FOCBAD7RVYRM7U/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/yeongnam/2024/12/26/OHN3G2HW4NG3FOCBAD7RVYRM7U/</guid>
-      <dc:creator>박주영 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 26 Dec 2024 02:22:09 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7U6MPSBKYZGMFHUZSGZRMD7FCY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산경찰청 경찰관들이 지난 13일 이슬람 테러단체에 지원금을 보낸 혐의 등으로 미국서 붙잡혀 국내로 강제송환된 중앙아시아인 유학생 A씨를 인천공항에서 호송하고 있다./부산경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산경찰청 안보수사과는 테러자금금금지법 위반 혐의로 중앙아시아인 20대 유학생 A씨를 붙잡아 검찰에 구속송치했다고 26일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 2022년 1월~2월 사이 시리아에 있는 UN지정 테러단체 KTJ(Khatiba al-tawhid wal-jihad) 소속 테러자금 모집책에 2차례에 걸쳐 77만원 상당의 가상화폐(USDT)를 테러자금으로 보내준 혐의를 받고 있다. 경찰은 “A씨가 지원한 77만원은 테러전투원 1인 무장비용에 해당된다”고 말했다.&lt;br&gt;&lt;br&gt;경찰 조사에 따르면 A씨는 2016년 8월~2022년 9월까지 부산의 한 대학에서 유학생으로 재학하던 중 서로 알고 지내다 시리아로 넘어가 테러단체 KTJ 조직원이 된 던 같은 대학 동일 국적 유학생에 의해 SNS를 통해 포섭된 뒤 테러자금을 보냈다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XRZAR472OBE7TAMCJB66BNGNNM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;시리아에서 활동 중인 테러단체 'KTJ'의 테러전투원 1인 무장비용 홍보물./부산경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2014년 중앙아시아 중심 지하디스트 그룹으로 설립된 KTJ는 2016년 키르기스스탄 중국대사관에 테러 공격을 해 2022년 3월 유엔으로부터 국제 테러단체로 지정됐다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “A씨는 KTJ 조직원 포섭과 함께 SNS를 통해 KTJ의 테러 선전·선동 영상물을 보고 극단주의 성향으로 발전한 것으로 추정된다”고 말했다.&lt;br&gt;&lt;br&gt;A씨는 테러자금을 KTJ 측에 보낸 직후인 2022년 9월 국내에서 뺑소니 교통사고를 내고 강제추방됐고 그 이듬해 2월 멕시코를 경유, 미국에 밀입국한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;경찰은 “테러단체 자금지원 사실을 파악, 추적 중이던 A씨가 미국 불법 체류 중인 사실을 확인하고 인터폴 적색수배와 미국 FBI 및 국토안보수사국(HSI) 등의 국제공조로 현지에서 체포, 지난 13일 A씨를 국내로 강제송환했다”며 “테러사범 외국인을 국내로 강제 송환한 사례는 이번이 처음”이라고 말했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>성탄절, 또래 여학생 살해한 10대...범행 현장엔 ‘도끼·휘발유’도 </title>
