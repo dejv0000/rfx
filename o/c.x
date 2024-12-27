@@ -13,6 +13,58 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>실수로 합격 통보 후 번복한 디지스트... 수험생 날벼락 맞아</title>
+      <link>https://www.chosun.com/national/education/2024/12/27/3H47T4X4RNEZ3IPV2ZO5IZJIYA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/education/2024/12/27/3H47T4X4RNEZ3IPV2ZO5IZJIYA/</guid>
+      <dc:creator>오주비 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 27 Dec 2024 09:59:01 +0000</pubDate>
+      <content:encoded>대구경북과학기술원(디지스트)이 수시 전형에서 불합격한 학생에게 실수로 합격을 통보한 후 번복하는 일이 발생했다. 해당 수험생은 아주대 이공계열에 합격해 등록을 마친 상태였는데, 디지스트 전화를 받고 아주대 등록을 취소하면서 결국 두 대학 어디에도 입학하지 못하게 됐다.&lt;br&gt;&lt;br&gt;27일 교육계와 디지스트 등에 따르면 경기도의 한 공립고 3학년 A군은 전날 오후 3시 40분쯤 디지스트로부터 합격 전화를 받았다. 수험생은 수시에 합격한 대학들 중 한 곳에만 입학 등록을 해야 한다. 이 때문에 디지스트에서 합격 전화를 받은 A군은 아주대에 수시 입학 등록을 취소했다.&lt;br&gt;&lt;br&gt;이후 A군은 디지스트에 등록을 하려 했지만 자신이 등록할 수 없는 것으로 나오자 입학처에 문의했고, 입학처는 담당자의 실수가 있었다며 다시 불합격을 통보했다고 한다. A군의 고등학교는 아주대 입학처에 A군의 등록 포기를 번복할 수 있는지 문의했지만 불가능하다는 답을 받은 것으로 전해졌다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OZKHHQZ5PPBVPX4JRG56QNZJ2E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대구경북과학기술원(DGIST)&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;A군은 아주대와 디지스트 모두 입학할 수 없는 상황이다. 디지스트 입학처는 입학처장 명의로 입장문을 내고 “본교의 부족함을 철저히 반성하고 개선하겠다. 유사한 상황이 재발하지 않도록 내부 시스템 및 절차도 개선하겠다”며 “이번 사건으로 큰 상처를 입은 지원자와 가족분께 진심으로 사과드린다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/OZKHHQZ5PPBVPX4JRG56QNZJ2E.jpg?width=720&amp;height=480&amp;auth=56379001161472e504e4f65f7f526378308a2004ed20ead3d053025ecf1c6cca&amp;smart=true" type="image/jpeg" height="480" width="720">
+        <media:description type="plain">대구경북과학기술원(DGIST)</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>윤 대통령, 공수처 3차 출석요구서도 수령 거절</title>
+      <link>https://www.chosun.com/national/court_law/2024/12/27/FWB6BLZBJJBCRCXLJ5Q4RUKRCE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/27/FWB6BLZBJJBCRCXLJ5Q4RUKRCE/</guid>
+      <dc:creator>유종헌 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 27 Dec 2024 08:19:54 +0000</pubDate>
+      <content:encoded>‘12·3 비상계엄’ 사태로 내란 혐의를 받는 윤석열 대통령이 고위공직자범죄수사처(공수처)의 3차 소환 요구서에 대해서도 우편물 수령을 거부한 것으로 27일 알려졌다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YRJUKZ6JPBCTVK5EB6GQ2K5N7Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령이 지난 12일 서울 용산 대통령실 청사에서 대국민 담화를 하고 있다. /대통령실&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;공수처와 경찰 등으로 꾸려진 공조수사본부는 이날 오후 “대통령실 총무비서관실, 부속실에 발송한 출석요구서는 ‘수취인 불명’, 대통령 관저는 ‘수취거절’인 것으로 현재 시점 우체국시스템상 확인된다”며 “전자공문도 미확인 상태”라고 밝혔다.&lt;br&gt;&lt;br&gt;공수처는 지난 26일 윤 대통령이 머무는 관저와 대통령실 총무비서관실, 부속실 등 세 곳에 특급 우편으로 ‘29일 오전 10시 정부과천청사에 있는 공수처로 출석하라’는 요구서를 보냈다. 대통령실 두 곳에는 전자 공문도 보냈다.&lt;br&gt;&lt;br&gt;윤 대통령이 지난 18일 1차 출석 요구, 25일 2차 출석 요구에 응하지 않자 다시 출석을 요구한 것이다. 사실상 마지막 소환 통보를 한 것이다. 공수처 요구에 따라 검찰이 지난 18일 윤 대통령 사건을 이첩하면서, 윤 대통령 수사는 공수처로 일원화됐다.&lt;br&gt;&lt;br&gt;공수처는 12·3 비상계엄 사태의 최종 책임자인 윤 대통령에 대한 대면 조사가 꼭 필요하다는 입장이다. 윤 대통령은 내란 우두머리(수괴), 직권남용 혐의를 받는 피의자 신분이다. 하지만 윤 대통령이 3차 출석요구서도 수령하지 않으면서 오는 29일 공수처 출석도 불투명해진 상황이다. 법조계에선 윤 대통령이 3차 소환에도 응하지 않을 경우 공수처가 체포영장 청구를 검토할 것이라는 전망이 나온다.&lt;br&gt;&lt;br&gt;이날 헌법재판소에서 열린 윤 대통령의 탄핵심판 첫 준비기일에 출석한 윤 대통령 측 윤갑근 변호사는 공수처의 3차 출석 요구에 대해 “여러 가지 문제점들을 내포하고 있어서 그것을 저희들이 종합적으로 검토한 후에 결정할 것”이라고 했다. 그는 “수사기관이 세 군데서 중복적으로 소환한 문제 등 여러 문제점이 많아 종합적으로 검토 후 대응 방안을 강구할 것”이라고 했다. 공수처의 체포영장 및 구속영장 청구 가능성에 대해선 “너무 앞서가는 것 같다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>김동연, “환율 쇼크, 내란 리스크 때문...신속 탄핵이 경제 살길”</title>
+      <link>https://www.chosun.com/national/national_general/2024/12/27/U3K7PZTSDJAWZBNQQJ53OCULPQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/27/U3K7PZTSDJAWZBNQQJ53OCULPQ/</guid>
+      <dc:creator>수원=김수언 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 27 Dec 2024 08:20:19 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TE2LFTNKTVN4HILJ5GH66EW4ZI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김동연 경기도지사가 지난 19일 오전 경기도 수원시 경기도청에서 경제 재건 제안을 위한 긴급 기자회견을 하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김동연 경기도지사는 27일 “환율 쇼크는 내란리스크 때문”이라며 “내란 수괴 즉각 체포, 헌재 정상화에 따른 신속한 탄핵심판만이 불확실성을 해소하고 경제를 살릴 수 있는 길”이라고 했다.&lt;br&gt;&lt;br&gt;김 지사는 이날 오후 자신의 페이스북에 글을 올리고 “환율 쇼크, 더 머뭇거릴 시간이 없다”며 이같이 밝혔다. 그는 “원 달러 환율이 한때 1480원까지 올랐다. 금융위기(2009.3.16. 1488.0원) 이후 15년 9개월 만에 최고치로 12.3 내란(1402.9원) 이후 무려 70원가량이나 급등했다”며 “끝나지 않는 내란, 이른바 ‘내란리스크’ 때문”이라고 했다.&lt;br&gt;&lt;br&gt;앞서 최상목 부총리 겸 기획재정부 장관은 이날 오전 정부서울청사에서 임시 국무위원 간담회를 주재하고 “국정 컨트롤타워의 부재는 우리 경제의 대외신인도·안보·국민경제·국정의 연속성에 심각한 타격을 입힐 것”이라며 “한덕수 대통령 권한대행 탄핵소추를 재고해달라”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>23년 장기미제 ‘안산 연립주택 강도살인’ 피의자 구속기소</title>
+      <link>https://www.chosun.com/national/national_general/2024/12/27/WXIG2J6KJFBXJPDQXV6GF663SE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/27/WXIG2J6KJFBXJPDQXV6GF663SE/</guid>
+      <dc:creator>전주=진창일 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 27 Dec 2024 08:25:33 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XPMPDAZAP5DEGYHNIZWE3ZJKN4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전주지방검찰청 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;23년 장기미제 사건으로 남았던 ‘안산 연립주택 강도살인’ 피의자가 DNA(유전자 정보) 분석기술의 진보로 검거돼 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;전주지검 형사3부(부장 한연규)는 27일 강도살인 혐의로 A(44)씨를 구속기소했다고 밝혔다. A씨는 지난 2001년 9월 경기 안산시 단원구의 한 연립주택에 침입해 B(37)씨를 살해하고 B씨의 아내를 다치게 한 뒤 현금 100만원을 훔쳐 달아난 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;A씨는 범행 당시 건물 외벽 가스 배관을 타고 올라가 연립주택에 침입했고 범행도구를 현장에 남겼지만, 당시 기술로는 DNA 검출이 불가능해 이 사건은 장기미제로 남았다.&lt;br&gt;&lt;br&gt;그러나 이 사건을 수사한 경찰이 지난 2020년 대검찰청과 국립과학수사연구원이 합동으로 구축한 ‘DNA 데이터베이스’를 이용한 범행도구 DNA 감정을 의뢰하면서 A씨 신원이 드러났다.&lt;br&gt;&lt;br&gt;A씨는 지난 2017년 성폭력 범죄로 징역 13년을 선고 받아 현재 전주교도소에서 복역 중인 것으로 파악됐다. 경찰로부터 사건을 넘겨받은 전주지검은 압수수색·계좌추적 등 보완수사를 통해 A씨를 재판에 넘겼다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/ZP3UEMBRGAJTZ64ZV62A5YAATM.jpg?width=560&amp;height=232&amp;auth=a1f447f65223457bf7c600a1a2df0ca677c5e33209912e284defbf5ec61d37ac&amp;smart=true" type="image/jpeg" height="232" width="560">
+        <media:description type="plain">전주지검 전경/뉴스1 DB</media:description>
+        <media:credit role="author" scheme="urn:ebu">뉴스1 DB</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>경찰, ‘부실복무’ 가수 송민호 근무지 압수수색</title>
+      <link>https://www.chosun.com/national/national_general/2024/12/27/ZAZ2EAR44BCJFN3V2FC7CYY73U/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/27/ZAZ2EAR44BCJFN3V2FC7CYY73U/</guid>
+      <dc:creator>박정훈 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 27 Dec 2024 08:54:47 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NIRFQZ72T737YZZVO5HM3Q4SGM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;가수 송민호 /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰이 사회복무요원으로 부실하게 근무했다는 의혹이 제기된 그룹 ‘위너’의 멤버 송민호(31)씨의 근무지에 대해 27일 강제수사에 나섰다.&lt;br&gt;&lt;br&gt;서울 마포경찰서는 이날 오후 1시 50분쯤 송씨의 근무지였던 마포구 마포주민편익시설을 압수수색했다고 밝혔다. 경찰은 이날 송씨 근무지의 폐쇄회로(CC)TV 등을 확보한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;앞서 병무청으로부터 송씨에 대한 수사의뢰서를 제출받은 경찰은 23일 송씨를 병역법 위반 혐의로 입건했다. 송씨는 지난 10월 31일 미국 하와이로 5박6일간 여행을 떠났고, 이후에도 출근 시간을 제대로 지키지 않는 등 복무 태도에 문제가 있었다는 의혹 등을 받는다. 병역 신체검사에서 4급 보충역 판정을 받은 송씨는 지난해 3월 서울 마포구시설관리공단에서 대체 복무를 시작해 올 3월 마포주민편익시설로 근무지를 옮겼고, 지난 23일부로 소집해제됐다. 송씨는 양극성 장애와 공황장애, 대인기피증 등을 앓고 있는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;송씨는 공무원과 ‘병무 거래’를 했다는 의혹도 받고 있다. 경찰은 지난 24일 송씨와 그가 사회복무요원으로 근무했던 마포주민편익시설 책임자 A씨 간 ‘병무거래’ 의혹을 수사해달라는 국민신문고를 접수해 함께 수사 중이다.&lt;br&gt;&lt;br&gt;한편 병무청은 경찰 수사에서 송씨가 복무 태도에 문제가 있었던 것으로 확인된다면, 소집이 해제됐더라도 해제 처분을 취소하고 문제 기간만큼 재복무해야 한다는 입장인 것으로 전해졌다. 병무청은 경찰에 수사를 의뢰한 만큼 자체 조사는 진행하지 않는다는 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>KBS “박서진, 합법적 군면제…도덕·법률적 문제 없다” </title>
       <link>https://www.chosun.com/national/national_general/2024/12/27/A6SJXDBGUBDPHNSTIQRDVNJYGY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/27/A6SJXDBGUBDPHNSTIQRDVNJYGY/</guid>
@@ -827,18 +879,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RZDW6AAIP5FSFIMAITGLIUNURM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>조폭은 모이기만 해도 처벌대상?…재판부 판단은 “폭력조직 활동은 유죄”</title>
-      <link>https://www.chosun.com/national/national_general/2024/12/26/PS5FMDR63NGEFMBO3CFXP3G7UE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/26/PS5FMDR63NGEFMBO3CFXP3G7UE/</guid>
-      <dc:creator>전주=진창일 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 26 Dec 2024 07:50:42 +0000</pubDate>
-      <content:encoded>&lt;br/&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RIFG3TNLCBHNFLVN75OUOVHNJE.png"&gt;&lt;figcaption&gt;&lt;small&gt;전주지법 청사 전경. /전주지법&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;상대 폭력조직원과 길거리에 붙은 시비 때문에 조직원들을 불러 모으라고 지시하고 집결한 폭력조직원들이 징역형을 선고받았다. 이들은 “지시에 따라 집결한 행위만으로는 처벌할 수 없다”고 주장했지만, 재판부는 이들이 속한 폭력조직의 행동강령을 근거로 ‘범법행위’라고 봤다.&lt;br&gt;&lt;br&gt;전주지법 형사12부(재판장 김도형)는 26일 폭력행위 등 처벌에 관한 법률 위반(단체 등의 구성·활동) 혐의로 기소된 폭력조직 소속 A(31)씨에게 징역 1년 6개월을 선고했다. 같은 혐의로 기소된 조직원 2명에게는 각각 징역 1년과 징역 1년에 집행유예 2년을 선고했다.&lt;br&gt;&lt;br&gt;A씨는 2021년 7월 9일 전북 전주시의 한 커피숍 앞에서 또다른 폭력조직원 B씨와 폭행 시비가 붙자 자신의 폭력조직원들을 모아 오라고 지시하고 나머지 2명의 조직원은 B씨와 적극적으로 대치하면서 폭력조직원으로써 위력을 과시한 혐의로 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;재판의 쟁점은 폭력조직원의 집결을 지시하고 모인 것만으로도 범죄단체 활동에 해당하는지 여부였다. A씨 등은 수사와 재판 과정에서 “적극적인 중재로 곧바로 현장에서 해산해 폭력사태로 이어지지 않았고 폭력조직원으로써 위력을 과시하지 않았다”는 취지의 진술을 해왔다.&lt;br&gt;&lt;br&gt;폭력조직 활동에 대한 처벌조항이 담긴 ‘폭력행위 등 처벌에 관한 법률’ 제4조 1항은 ‘이 법에 규정된 범죄를 목적으로 하는 단체 또는 집단을 구성하거나 그러한 단체 또는 집단에 가입하거나 그 구성원으로 활동한 사람은 각 호의 구분에 따라 처벌한다’고 규정하고 있다. 폭력을 행사하지 않았더라도 폭력조직 활동으로 인정된다면 처벌대상이 될 수 있다는 것이다.&lt;br&gt;&lt;br&gt;재판부는 A씨 등이 속한 폭력조직의 행동강령에 주목했다. 재판부가 판결문을 통해 적시한 A씨 등이 속한 폭력조직의 행동강령은 ‘선배의 말에 무조건 복종한다’ ‘선배 앞에서는 담배를 피우지 않고 선배 알기를 하늘과 같이 안다’ 등이다.&lt;br&gt;&lt;br&gt;재판부는 행동강령을 근거로 “피고가 속한 폭력조직은 상하간의 통솔에 따라 흉기를 사용해서라도 상대 폭력세력을 제압해 전주시 일원 폭력계의 주도권을 잡을 목적으로 조직된 범죄단체”라고 지적했다.&lt;br&gt;&lt;br&gt;이어 “행동강령에 따라 즉시 대항할 수 있도록 연락체계를 유지하다 집결했고, 폭력 사태로 더 나아가지 않았더라도 조직으로서 위세를 과시한 이상 범죄단체 구성원으로 활동했다고 봄이 타당하다”고 판시했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/RIFG3TNLCBHNFLVN75OUOVHNJE.png?width=512&amp;height=279&amp;auth=8d72362d1be426d414c6d575b44bb31b1768c01cc930513f8c8ba4e8b8081155&amp;smart=true" type="image/png" height="279" width="512">
-        <media:description type="plain">전주지법 청사 전경. /전주지법</media:description>
-      </media:content>
-    </item>
-    <item>
       <title>‘팝콘 구름’ 몰려온다… 주말 충청·전라 10㎝ 눈, 경기 한파특보</title>
       <link>https://www.chosun.com/national/transport-environment/2024/12/26/5UEPQUMRKVC2TBIIYHWREODBCE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2024/12/26/5UEPQUMRKVC2TBIIYHWREODBCE/</guid>
@@ -902,19 +942,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FVNHIHAMG5FKNDT2KY7ZKR4LTQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;성탄절인 지난 25일 오후 8시 30분쯤 경남 사천시 사천읍 한 도로에서 10대 A군이 미리 준비한 흉기로 10대 B양을 살해했다. 당시 현장 사진. /독자제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경남 사천경찰서는 또래 여학생에게 흉기를 휘둘러 숨지게 한 혐의(살인)로 10대 A군을 붙잡아 조사하고 있다고 26일 밝혔다.&lt;br&gt;&lt;br&gt;A군은 전날 오후 8시 53분쯤 사천시 사천읍 한 도로에서 흉기를 여러 차례 휘둘러 같은 10대 B양을 숨지게 한 혐의를 받고 있다. 이 과정에서 A군도 자해해 경상을 입었지만, 생명에는 지장이 없는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;본지 취재를 종합하면 A군과 B양은 온라인에서 알게 된 사이인 것으로 전해졌다. 범행이 있기 전까지는 실제로 만난 적은 없었으며, 강원도에 거주하고 있는 A군이 범행을 위해 사천으로 온 것으로 파악된다. A군은 현재 학교를 자퇴한 상태로 알려졌다. 다만 A군이 현재 입을 열지 않고 있어 정확한 범행 동기는 파악되지 않고 있다.&lt;br&gt;&lt;br&gt;범행 당시 A군은 B양 아파트 주변을 배회하면서 B양을 기다렸다가 미리 준비한 흉기로 범행한 것으로 파악됐다. A군을 긴급체포할 당시 A군이 소지한 가방에서는 손도끼와 휘발유도 함께 발견돼 경찰이 압수한 상태다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “수사 중인 내용에 대해서는 구체적으로 확인해 줄 수 없다”며 “A군과 피해 학생의 휴대전화를 포렌식해 사실 관계를 파악하고, 범행 동기 등을 확인할 예정이다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>경찰, ‘부실 복무’ 송민호 입건… 병역법 위반 혐의</title>
-      <link>https://www.chosun.com/national/national_general/2024/12/26/SCUKXVY5DZE7XCZTU3Z6UIN5EA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/26/SCUKXVY5DZE7XCZTU3Z6UIN5EA/</guid>
-      <dc:creator>구동완 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 26 Dec 2024 02:10:31 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RUTOFRVWTPLMCXTIN6DG7KC4XE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;가수 송민호. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰이 사회복무요원으로 부실하게 근무했다는 의혹이 제기된 그룹 위너의 송민호(31)에 대해 정식 수사에 착수했다.&lt;br&gt;&lt;br&gt;서울 마포경찰서는 송씨를 지난 23일 병역법 위반 혐의로 입건했다고 밝혔다.&lt;br&gt;&lt;br&gt;앞서 병무청은 같은날 송씨에 대해 경찰에 수사의뢰서를 제출했다. 병무청은 경찰 수사에서 송씨가 복무 태도에 문제가 있었던 것으로 확인될 경우 소집이 해제됐더라도 해제 처분을 취소하고 문제 기간만큼 재복무해야 한다는 입장인 것으로 전해졌다.&lt;br&gt;&lt;br&gt;송씨의 부실 복무 논란이 커지자 오세훈 서울시장도 “서울시 및 산하기관을 대상으로 하는 ‘사회복무요원 복무 실태 긴급 전수조사’를 지시했다”며 “조사 결과에 따라 엄중히 조치하고, 필요시 공정한 병역의무를 위한 제도개선도 병무청에 건의하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;한편 경찰은 지난 24일 송씨와 그가 사회복무요원으로 근무했던 마포주민편익 시설 책임자 A씨 간 ‘병무거래’ 의혹을 수사해달라는 수사의뢰서를 접수했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/MQ5SARWGRNBBNMQWMVFSJTH364.JPG?width=2194&amp;height=1234&amp;auth=da1af6b7feab95ee7ccfe5ad99d2ac87c374de6145f514ae65f88ecd0f1661d4&amp;smart=true" type="image/jpeg" height="1234" width="2194">
-        <media:description type="plain">(서울=뉴스1) 권현진 기자 = 위너(WINNER) 송민호가 7일 오후 서울 송파구 잠실 종합운동장 보조경기장에서 열린 2022 한국문화축제 더케이 콘서트(THE-K Concert)에서 손 타투를 자랑하며 화려한 무대를 선보이고 있다. 2022.10.8/뉴스1</media:description>
-        <media:credit role="author" scheme="urn:ebu">(서울=뉴스1) 권현진 기자</media:credit>
-      </media:content>
-    </item>
-    <item>
       <title>“심장이 안 돌아와요”…생존확률 단 1%, 낙뢰 맞고 살아난 교사</title>
       <link>https://www.chosun.com/national/national_general/2024/12/26/SCOV6IHQTZDFLHUY77DH4SSBIM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/26/SCOV6IHQTZDFLHUY77DH4SSBIM/</guid>
@@ -922,24 +949,6 @@
       <description/>
       <pubDate>Thu, 26 Dec 2024 01:14:21 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CPK4NG4UIBBFJM6FRKFPVFGBLA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;고등학교 국어 교사 김관행(오른쪽)씨와 조용수 전남대병원 응급의학과 교수./tvN&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;낙뢰를 맞고 1% 확률로 생존한 20대 교사가 기적적으로 살아난 사연이 소개됐다.&lt;br&gt;&lt;br&gt;지난 25일 방송된 tvN ‘유 퀴즈 온 더 블럭(이하 유퀴즈)’에는 낙뢰를 맞고 죽음의 문턱에서 살아온 고등학교 국어 교사 김관행(29)씨와 기적을 만든 조용수 전남대병원 응급의학과 교수가 출연했다.&lt;br&gt;&lt;br&gt;광주서석고등학교 교사로 재직 중인 김씨는 지난 8월5일 광주·전남지역에서 3000번에 가까운 낙뢰가 관측된 날, 광주의 한 대학교에서 연수를 받고 점심을 먹으러 가다가 쓰러졌다.&lt;br&gt;&lt;br&gt;창문을 닫으려던 사범대 조교들이 김씨를 1~2분 만에 발견해 119에 신고한 후 돌아가며 심폐소생술(CPR)을 실시했다. 김씨는 7분 만에 출동한 119에 실려 2~3분 거리의 조선대병원으로 실려갔다. &lt;br&gt;&lt;br&gt;병원에서 심정지 치료를 받은 끝에 심장은 다시 뛰었지만 이미 40분이 지난 뒤였다. 일반적으로 심장이 멎은 후 5분이 지나면 혈액과 산소가 공급 안돼 심장과 폐는 물론 뇌까지 문제가 생길 확률이 크다.&lt;br&gt;&lt;br&gt;의사인 김씨 아버지도 연락을 받고 급히 서울에서 광주로 이동했다. 함께 촬영장에 나온 김씨 아버지는 “12시에 낙뢰를 맞은 것 같고 연락받은 게 12시20분쯤이었다. 심폐소생술을 20분 넘게 하는데 심장이 돌아오지 않는다면서 언제쯤 올 수 있겠냐더라”며 “가족이 다 서울에 있는데 당장 내려갈 테니 열심히 해달라고 했다”고 떠올렸다.&lt;br&gt;&lt;br&gt;광주로 가는 SRT를 탄 김씨 아버지는 10분쯤 지나 “심장이 돌아왔다”는 연락을 받았다고 한다. 한시름 놓고 응급실에 들어간 아버지는 의식이 없는 채 몸에 기계를 달고 있는 아들을 마주했다.&lt;br&gt;&lt;br&gt;김씨 아버지는 “기관지 내 삽관 하고 의식 없고 몸에 기계를 다 걸어놨더라. 폐에 물이 많이 차서 산소 공급이 안 된다더라. 그 상태에서 버티면 사는 거고, 못 버티면 죽는 거라더라”며 “시간 지날수록 눈 앞에서 죽어가는 게 보였다”고 했다.&lt;br&gt;&lt;br&gt;상태가 악화된 김씨는 전국에서 유일하게 응급실에서도 에크모(ECMO·인공심폐기계) 치료가 가능한 전남대병원으로 이송됐다. &lt;br&gt;&lt;br&gt;조용수 교수는 “치료가 어려운 상황에서 치료해보겠다고 (환자를) 받았는데 상태가 몹시 안 좋더라. 자신있게 덤볐는데 10분 만에 ‘이 상태로는 안 되겠다’고 생각하고 에크모 치료를 했다”며 “거의 죽기 직전 상태가 아니면 잘 안 쓰는 기계”라고 설명했다.&lt;br&gt;&lt;br&gt;조 교수는 “심폐소생술을 40분 넘게 해서 심장이 멎은 시간이 너무 길었고 의식도 전혀 없었다. 혈압 올리는 약을 최대한 농도로 다 썼음에도 혈압이 정상인의 절반도 유지가 안됐고 인공호흡기를 썼는데도 저산소증이 심해 1~2시간 이내 사망할 수 있는 상황이었다”고 했다. 좌절감을 느꼈다는 조 교수는 김씨 가족들에게 미안해 피해다닐 정도였다고 고백했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7WL3RYUHUZCQPOAPGZWCU225TQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;고등학교 국어 교사 김관행(오른쪽)씨와 조용수 전남대병원 응급의학과 교수./전남대병원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;다행히 이틀째 김씨의 상태는 호전됐다. 의학적으로 낙뢰를 맞은 경우 사망률은 99%, 생존 확률은 단 1%였다.&lt;br&gt;&lt;br&gt;조 교수는 “사실 (생존률) 1%라고 말하는데 (김씨의 경우) 그것보다 낮았다. 낙뢰 맞고 심장이 멎은 사람은 30분 이상 심폐소생술을 안 하고 사망선고를 내린다”며 “회복할 수 없다고 생각했는데 그걸 (환자) 혼자 이겨낸 거다. 하늘이 도왔고 본인의 의지가 강해서 이겨냈다고 생각한다. 앞으로도 환자보다 먼저 의사가 포기하는 일은 없어야겠다는 생각을 했다”고 말했다.&lt;br&gt;&lt;br&gt;중환자실에서 집중치료를 받던 김씨는 입원 10일 만에 인공호흡기까지 떼고 회복했다.&lt;br&gt;&lt;br&gt;김씨는 전남대병원에 1000만원을 기부했다. 그는 “응급의학과에 기존에도 애정이 있었다. 아버지 친구분이신, 지금은 돌아가신 윤학덕 선생님이 계셔서 전국적으로 심폐소생술 교육이 잘 이뤄졌다고 생각한다. 모든 분들에게 감사한 마음이 있어 기부하게 됐다”고 말했다.&lt;br&gt;&lt;br&gt;기적적으로 살아난 이후 복권을 사라는 권유를 자주 받는다는 그는 “이것 자체가 로또 같다. 이미 (운을) 쓴 것 같아 안 사고 있다”며 “제일 재수없는 사람 중 재수 있었다고 생각한다. 발견, 이송 다 운이 좋았다. 나중에 다 찾아뵀다. 트라우마로 남을 장면을 보여드렸는데 이겨내고 살려주셔 감사드린다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>공수처 “尹 체포영장 너무 먼 단계… 아직 검토할 것 많아”</title>
-      <link>https://www.chosun.com/national/court_law/2024/12/25/4GCQEDSW4ZCTRK2MW7HF3TTHS4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/25/4GCQEDSW4ZCTRK2MW7HF3TTHS4/</guid>
-      <dc:creator>유종헌 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 25 Dec 2024 01:27:30 +0000</pubDate>
-      <content:encoded>윤석열 대통령이 25일 고위공직자범죄수사처의 2차 출석 요구에 응하지 않은 가운데, 공수처는 “윤 대통령에 대해 체포영장을 청구하는 것은 너무 먼 단계”라면서 “아직은 검토할 것이 많다”고 했다.&lt;br&gt;&lt;br&gt;공수처 관계자는 이날 ‘대통령에 대해 체포영장을 청구하는 방안을 검토 중이냐’는 질문에 이 같이 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/775TEUE72VP27OVVVOJ3JJZBEM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;고위공직자범죄수사처(공수처)가 윤석열 대통령에게 통보한 2차 소환일인 25일 오전 경기 정부과천청사 공수처 모습. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이 관계자는 “통상 일반 형사사범의 경우 3차례 소환 요구에 불응하면 강제 수사를 검토한다”면서도 “대통령의 경우 (탄핵심판 등) 고려해야 할 상황이 많다. 통상 절차에 따를 수도 있지만 그렇지 않을 수도 있다”고 했다.&lt;br&gt;&lt;br&gt;공수처는 일단 오늘까지 윤 대통령의 출석을 기다려본다는 입장이다. 공수처 관계자는 “현실적으로 대통령이 출석한다 해도 나 홀로 나올 수 있는 상황은 아니다”라면서도 “변호인이나 대리인이 (오늘 중) 다른 입장을 밝힐 수도 있고, 갑자기 선임계가 들어올 수도 있다”고 했다. 윤 대통령의 깜짝 출석을 포함해 발생할 수 있는 여러 변수를 두루 고려하겠다는 취지다.&lt;br&gt;&lt;br&gt;3차 소환 통보나 체포영장 청구 등 향후 윤 대통령 수사 방침에 대해선 “결정에 오래 걸리지는 않을 것”이라면서도 “오늘 결정하지는 않겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>윤 대통령, 공수처 2차 출석요구 불응</title>
-      <link>https://www.chosun.com/national/court_law/2024/12/25/FEWYKUF5XNG4XCYCV6FMZQGTKA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/25/FEWYKUF5XNG4XCYCV6FMZQGTKA/</guid>
-      <dc:creator>유종헌 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 25 Dec 2024 01:03:58 +0000</pubDate>
-      <content:encoded>윤석열 대통령이 25일 오전 10시에 예정된 고위공직자범죄수사처(공수처)의 피의자 조사에 출석하지 않았다. 공수처는 이날 윤 대통령 출석을 더 기다려본다는 입장이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZM6EM4ULZFOYLBOSWNH52BMQQQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령이 지난 14일 본인의 탄핵소추안이 국회에서 가결된 뒤 한남동 관저에서 대국민담화를 하고 있다./ 연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;오동운 공수처장은 지난 24일 국회 법제사법위원회에 출석해 “조사는 내일 (오전) 10시로 정해져 있지만 저희는 시간을 좀 더 늘려서 기다린다는 심정”이라고 밝힌 바 있다. 주임 검사로 출석요구서를 보낸 차정현 부장검사는 윤 대통령 조사를 위해 계속 대기 중이다.&lt;br&gt;&lt;br&gt;공수처는 윤 대통령이 이날 출석하지 않을 경우 3차 출석 요구를 할지, 체포영장을 청구할지 검토할 예정이다. 윤 대통령은 12·3 비상계엄 사태와 관련해 내란 우두머리, 직권남용 혐의를 받는 피의자 신분이다.&lt;br&gt;&lt;br&gt;앞서 공수처와 경찰 국가수사본부, 국방부 조사본부로 구성된 공조수사본부는 지난 20일 윤 대통령에게 이날 오전 10시까지 정부과천청사에 출석하라고 통보했다. 하지만 윤 대통령은 출석요구서를 수령하지 않았다. 윤 대통령을 돕는 석동현 변호사는 지난 24일 “(공수처에) 출석하기는 어렵지 않나 그렇게 보고 있다”고 밝힌 바 있다. 윤 대통령은 아직 변호인단을 구성하지 않은 것으로 알려졌다. 윤 대통령 측이 공수처에 낸 변호사 선임계도 없다.&lt;br&gt;&lt;br&gt;공수처는 지난 16일에도 윤 대통령에게 18일에 조사받으라는 1차 출석요구서를 보냈지만, 윤 대통령은 응하지 않았다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>‘공수처, 내란죄 직접 수사 가능한가’ 논란</title>
@@ -976,15 +985,6 @@
       <description/>
       <pubDate>Tue, 24 Dec 2024 15:45:12 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LOBQGTZANVC7HPQLLT5Z47WYU4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;타이거 우즈가 아들 찰리와 한 팀으로 출전한 PNC 챔피언십에서 전 아내 엘린 노르데그렌과 포옹하는 모습. /인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘골프 황제’ 타이거 우즈(49·미국)가 14년 전 이혼한 전 아내 엘린 노르데그렌(44·스웨덴)과 포옹하는 모습이 화제를 불렀다. 이혼 후 공개 석상에서 마주치는 모습이 포착된 적도 별로 없는 데다 이런 다정한 장면이 노출된 건 처음이다.&lt;br&gt;&lt;br&gt;지난 23일(한국 시각) 미국 플로리다주 리츠칼턴 골프클럽에서 우즈는 아들 찰리(15)와 한 팀으로 PNC 챔피언십 준우승을 차지했다. 선수와 가족이 한 팀을 이뤄 겨루는 이벤트 골프 대회였다. 우즈와 찰리가 경기를 마친 뒤 짐을 정리하고 있을 때 노르데그렌이 찾아와 우즈와 딸 샘(17), 아들 찰리와 차례로 포옹하는 영상이 소셜미디어에 올라왔다. 샘은 이 대회에서 아버지 우즈의 캐디를 맡았고, 노르데그렌은 현장에서 경기를 지켜봤다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NXNHI5KEORGQHOQEUCAO5OTIPY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;타이거 우즈, 엘린 노르데그렌&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;우즈와 노르데그렌은 2004년 결혼해 샘과 찰리를 낳았으나 2010년 이혼했다. 우즈의 불륜 사실이 밝혀지고 이후 우즈와 내연 관계라고 주장하는 여성들이 잇따라 등장한 게 화근이었다. 이후 노르데그렌은 2017년 NFL(미 프로풋볼) 선수 출신인 조던 캐머런(36·미국)과 교제를 시작해 현재 세 자녀를 뒀다. 이날도 어린 딸을 안고 왔다. SI(스포츠일러스트레이티드) 등 현지 매체들은 우즈와 노르데그렌이 이혼한 뒤에도 샘과 찰리에게 부모 역할을 다하기 위해 좋은 관계를 유지해왔다고 전했다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“이제 26학년도 의대 정원 논의를” 고개 드는 출구전략</title>
-      <link>https://www.chosun.com/national/education/2024/12/25/GIKMUXZ55VHSJA7UCPWJ42GLCQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2024/12/25/GIKMUXZ55VHSJA7UCPWJ42GLCQ/</guid>
-      <dc:creator>표태준 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 24 Dec 2024 16:10:42 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TKAIWZ3G5RM35PFJK2N2PLIZNQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2025학년도 대입 수시 미충원 인원 정시 이월 결정을 앞두고 의료계와 정부가 갈등을 이어가고 있는 23일 서울 시내 한 의과대학의 모습. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2025학년도 수시 최종 합격자 등록이 3일밖에 남지 않은 가운데, ‘2025학년도 의대 증원 백지화가 먼저’라고 주장하던 의료계에서도 올해 입시는 건드리지 말고 2026학년도 이후를 논의하자는 목소리가 나오고 있다. 여전히 교착 상태인 의정 갈등을 해결하기 위해선 의료계도 사회적으로 수용 가능한 ‘출구 전략’을 내놓아야 한다는 지적이 힘을 받고 있다는 분석이다.&lt;br&gt;&lt;br&gt;오주환 서울대 의대 교수는 24일 더불어민주당 보건의료특별위원회가 개최한 ‘의학 교육 정상화 토론회’에서 이제 실현 가능한 대책을 의료계와 정치권이 협의하자고 제안했다. 오 교수는 “2025학년도 모집 인원 조정은 이제 사회적으로 실기(失期)한 주장이 됐다”며 “국민적 관점에서 모두의 피해를 최소화할 대안을 찾아야 한다”고 했다.&lt;br&gt;&lt;br&gt;오 교수는 정부가 2000명을 증원하기로 한 2026학년도 의대 정원을 기존 정원(3113명) 이하로 조정할 수 있도록 논의를 시작하자고 했다. 그는 “의학 교육계는 교육 인프라를 확충하지 않은 현 상황에서 정상 교육이 가능한 의대 증원 규모를 300~400명으로 보는데 1497명이 증원됐다”며 “2026학년도 증원은 철회돼야 한다”고 했다. 오 교수는 “24·25·26학번 의대생이 교육에서 피해를 받는 것은 확실하므로 이 피해를 어떻게 분산할지 빨리 논의해야 한다”며 “교육부는 책임지고 내년 2월 입시 절차가 끝나기 전 대책을 수립해 발표해야 한다”고 했다.&lt;br&gt;&lt;br&gt;오 교수는 2026학년도 의대 증원은 중단하지만 2027학년도부터는 증원 논의를 시작하는 것은 맞는다고 주장했다. 그러면서 지난달 홍윤철 서울대 의대 교수 등 연구팀이 발표한 ‘미래 의사 수 추계’를 근거로 들었다. 연구에 따르면 2036년까지 의료 인력이 초과 공급되다 이듬해부터 공급 부족이 시작된다. 오 교수는 “의료 인력 양성 기간 10년(의대 6년·전공의 4년)을 고려하면 2027학년도에 의대 증원이 시작됐어야 했는데 정부가 성급하게 과도한 규모로 증원을 결정했다”며 “이번에 증원된 1497명을 고려해 2027학년도 의대 정원 조정도 같이 논의를 시작해야 한다”고 했다.&lt;br&gt;&lt;br&gt;의료계는 2025학년도 의대 모집 인원부터 줄여야 한다는 의견을 지금껏 고수했다. 그러나 수시 일정이 마무리돼 가며 오 교수처럼 현실적인 출구 전략을 내놓자는 얘기가 고개를 드는 상황이다. 지난 21일 의협회관에서 열린 의협 회장 후보자 토론회에서 ‘2025학년도 정원은 그대로 유지하고 2026학년도 정원을 이번에 증원된 만큼 줄일 경우 받아들이겠느냐’는 질의에 이동욱·최안나 후보가 찬성 의사를 밝히기도 했다. 최 후보는 “앞으로 의료계와 나아갈 길을 논의하는 자세로 정부가 사과하고 입장을 바꾸면 논의할 수 있다”며 “2026학년도 정원은 내년 5월 전에 결정돼야 해 시간이 없다. 의료 정상화와 의대 교육 파탄을 막을 방법으로 바로 협의할 것”이라고 했다.&lt;br&gt;&lt;br&gt;그러나 의료계에서는 2025학년도 의대 모집 인원부터 조정해야 한다는 목소리도 여전히 높다. 그래야 내년 전공의와 의대생이 복귀할 계기를 만들 수 있다는 것이다. 최석진 인제대 의대 학장은 전날 의대생들과 간담회를 갖고 ‘내년에는 복귀해 교육을 받아야 한다’고 호소했다고 한다. 그러나 학생들은 2025학년도 의대 정원이 조정되지 않는 현실에서는 복귀할 수 없다는 입장을 재차 밝혔다고 한다. 내년에도 휴학계를 낼 테니 수리해달라는 것이다. 최 학장은 “어떤 대안을 내놓든 전공의와 학생이 받아들이지 않는다면 소용이 없다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3NPMYNUTNZE4TFINCUQODZESHI.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=박상훈&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이 때문에 의료계에서는 수시 미충원 인원 ‘정시 이월 제한’이 어렵다면, 정시 모집 인원이라도 줄이자고 주장한다. 정시 모집에서 각 의대가 보통 3배수를 선발하는 정시 1차 서류 합격자를 1.5~2배만 발표하고 추가 모집을 중단하자는 것이다. 이 경우 이번에 의대 정원이 대폭 늘어난 지역 대학을 위주로 전체 정원이 수백 명 정도는 줄어들 수 있다는 것이다. 정원이 기존 49명에서 이번에 125명으로 늘어난 충북대 의대 채희복 교수는 “의대 정원이 늘지 않고 기존에 인프라가 탄탄한 서울 지역 의대는 내년 어떻게든 교육이 가능하겠지만 지역 대학은 사정이 다르다”며 “소규모 의대였던 우리가 이 혼란한 상황에서 내년에 갑자기 174명을 제대로 교육하는 건 불가능하다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
