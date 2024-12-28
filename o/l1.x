@@ -6,6 +6,25 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>(금주 법조계 주요일정) 12월 30~1월 4일</title>
+			<description>&lt;b&gt;△30일(월)&lt;/b&gt;&lt;br /&gt;-법무부, 서울 소재 최초 '사회통합프로그램 서울 컴퓨터 평가(CBT) 센터' 개소식 (오전 11시, 서울 종로구 백상빌딩 12층)&lt;br /&gt;&lt;b&gt;&lt;br /&gt;△31일(화)&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;&lt;b&gt;△1일(수)&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;&lt;b&gt;△2일(목)&lt;/b&gt;&lt;br /&gt;-대법원, 2025년 대법원 시무식(오전 10시)&lt;br /&gt;-법무법인 동인, 시무식 및 회의실 스마트보드 시연회(오전 10시, 서울 서초구 서초동 동인 17층 통합회의실)&lt;br /&gt;-법무법인 바른, 대표변호사 취임식 및 제7회 바른의인상 시상식(오전 10시 30분, 서울 강남구 대치동 바른빌딩 15층 강당)&lt;br /&gt;-한국법제연구원, 시무식 행사(오전 11시, 세종 반곡동 한국법제연구원 대회의실)&lt;br /&gt;-대한변호사협회, 제90회 변호사연수회(제주 서귀포시 색달동 제주 신라호텔)&lt;br /&gt;&lt;br /&gt;&lt;b&gt;△3일(금)&lt;/b&gt;&lt;br /&gt;-헌법재판소, '윤석열 대통령 탄핵(2024헌나8)' 사건 2차 변론준비기일(오후 2시)&lt;br /&gt;-법무법인 율촌, '통상임금 대법원 전원합의체 판결 해설, 예상되는 분쟁 및 기업의 대응방안' 웨비나(오후 3시, zoom)&lt;br /&gt;-대한변호사협회, 제90회 변호사연수회(제주 서귀포시 색달동 제주 신라호텔)&lt;br /&gt;&lt;br /&gt;&lt;b&gt;△4일(토)&lt;/b&gt;&lt;br /&gt;-대한변호사협회, 제90회 변호사연수회(제주 서귀포시 색달동 제주 신라호텔)</description>
+			<pubDate>Sat, 28 Dec 2024 22:08:38 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/204188</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/204188</guid>
+			<dc:creator>인터넷 기자</dc:creator>
+		</item>
+		<item>
+			<title>검찰, 김용현 휴대전화 30일 포렌식...변호인 "위법 압수"</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/204201.jpg" alt="204201.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;김용현 전 국방부 장관 《사진=연합뉴스》&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;12·3 비상계엄 사태를 수사하는 검찰이 내란에 가담한 혐의로 구속기소 된 김용현 전 국방부 장관의 휴대전화에 대한 포렌식 절차에 착수할 예정이다. 검찰은 임의제출 받은 김 전 장관의 휴대전화에 대한 압수수색 영장을 발부받았다.&lt;br /&gt;&lt;br /&gt;28일 법조에 따르면, 검찰 비상계엄 특별수사본부(본부장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="1054"&gt;박세현&amp;nbsp;&lt;/span&gt;서울고검장)는 30일 김 전 장관의 휴대전화 포렌식 선별작업을 진행하기로 하고 김 전 장관 측에 참관을 통보했다.&lt;br /&gt;&lt;br /&gt;검찰은 김 전 장관의 휴대전화에 대한 압수수색영장을 발부받은 뒤 26일 영장을 집행해 이 휴대전화를 재확보했다. 앞서 검찰은 김 전 장관이 8일 서울중앙지검에 자진 출석했을 때 휴대전화를 임의제출 받아 확보했지만, 이후 김 전 장관 측이 위법한 증거 수집이라고 주장해 포렌식 절차가 중단됐다.&lt;br /&gt;&lt;br /&gt;이에 검찰은 압수수색 영장을 통해 해당 휴대전화와 관련된 추가 자료 확보에 나섰다. 검찰은 김 전 장관의 휴대전화 압수수색을 통해 계엄 당시&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="8480"&gt;윤석열&amp;nbsp;&lt;/span&gt;대통령, 김 전 장관 등과 군 지휘관들 사이 어떤 지시가 오갔는지 등을 들여다볼 것으로 보인다.&lt;br /&gt;&lt;br /&gt;김 전 장관 측 변호인은 검찰이 불법으로 휴대전화를 압수했다며 27일 서울중앙지법에 준항고를 제기했다. 준항고는 수사기관의 구금·압수에 대해 불복할 때 법원에 취소나 변경을 청구하는 절차다.&lt;br /&gt;&lt;br /&gt;검찰은 같은 날 김 전 장관을 내란 중요임무 종사 및 직권남용 권리행사 방해 혐의로 구속기소 했다. 김 전 장관은 국회를 봉쇄하고 계엄 저지 의결을 방해하기 위해 수도방위사령부, 특전사령부 병력을 투입한 혐의를 받는다. 또 주요 인사 체포조를 편성해 체포와 구금을 지시하고 중앙선거관리위원회를 점거하고 서버 반출과 주요 직원 체포를 시도한 혐의도 있다.&lt;/p&gt;</description>
+			<pubDate>Sat, 28 Dec 2024 11:22:25 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/204201</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/204201</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/204201.jpg</media:thumbnail>
+			<dc:creator>임현경 기자</dc:creator>
+		</item>
+		<item>
 			<title>윤 대통령 측 "공수처, 내란죄 수사권 없다" 3차 소환 불출석 시사</title>
 			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;div class="cheditor-caption-wrapper"&gt;      &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;         &lt;img src="https://image.lawtimes.co.kr/thumb/180/204200.jpg" alt="204200.jpg" /&gt;         &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;《사진=연합뉴스》&lt;/figcaption&gt;      &lt;/figure&gt;      &lt;/div&gt;   &lt;p&gt;&amp;nbsp;&lt;/p&gt;   &lt;/div&gt;&lt;p&gt;   &lt;span style="font-weight: bold;" serial="8480"&gt;윤석열&amp;nbsp;&lt;/span&gt;대통령 측이 고위공직자범죄수사처가 요구한 윤 대통령의 3차 출석일을 하루 앞두고 수사권 관련 법적 문제를 제기하며 불출석을 시사했다.&lt;/p&gt;&lt;br /&gt;윤 대통령의 탄핵 심판 대리인단·수사 변호인단의 공보역을 맡은&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="8443"&gt;윤갑근&lt;/span&gt;(60·사볍연수원 19기) 변호사는 28일 공수처에 내란죄 수사권이 없다며 수사권 문제가 선결돼야 출석 여부를 결정할 수 있다는 입장을 냈다. 사실상 공수처의 3차 출석 요구에 응하지 않겠다는 뜻으로 해석된다. &lt;br /&gt;&lt;br /&gt;현행법상 공수처는 내란죄에 대해 수사할 수 없다. 윤 대통령 측이 문제 삼고 있는 부분도 이 점이다. 2021년 검·경 수사권 조정으로 내란죄가 검찰의 수사 개시 대상 범죄에서 빠지면서 내란죄에 대한 수사 권한은 경찰에게만 있다. &lt;br /&gt;&lt;br /&gt;하지만 공수처는 직권남용죄 관련 범죄로 수사할 수 있다는 입장이다. 공수처의 직접수사 대상 범죄에 내란죄가 포함돼 있지 않지만, 공수처법상 직권남용과 불법 체포 미수, 특수공용물손괴죄를 수사할 수 있고 관련 사건으로 내란죄 수사가 가능하다는 것이다. &lt;br /&gt;&lt;br /&gt;윤 대통령이 3차 출석도 사실상 거부하면서 공수처는 강제수사 여부 검토에 나설 것으로 보인다.&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="2045"&gt;오동운&lt;/span&gt;(55·27기) 공수처장은 국회 법사위에서 "상황이 된다면 긴급체포 또는 체포 영장에 의한 체포를 시도하도록 하겠다"고 말했다. &lt;br /&gt;&lt;br /&gt;공수처는 지난 26일 윤 대통령의 관저와 대통령실 총무비서관실, 부속실에 특급 우편으로 '29일 오전 10시 정부과천청사에 있는 공수처로 출석하라'는 내용의 3차 출석요구서를 보냈다. 윤 대통령 측은 이 3차 출석요구서도 우편물 수령을 거부했다. &lt;br /&gt;&lt;br /&gt;윤 대통령은 지난 18일과 25일에 조사받으라는 1·2차 출석 요구에 모두 불응한 바 있다.&lt;br /&gt;&lt;br /&gt;수사기관은 통상적으로 피의자가 세차례 출석 요구에 불응하면, 체포영장을 청구한다. 윤 대통령이 3차 출석 요구에도 불응하면 공수처는 강제수사 명분을 쌓게 된다. &lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
 			<pubDate>Sat, 28 Dec 2024 07:10:43 -0000</pubDate>
@@ -221,26 +240,6 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/204159</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/204159.jpg</media:thumbnail>
 			<dc:creator>이진영 기자</dc:creator>
-		</item>
-		<item>
-			<title>마용주 대법관 후보자 인사청문보고서 채택</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/204161.jpg" alt="204161.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: left; font-size:14px; line-height: 1.6em"&gt;마용주 대법관 후보자가 26일 오전 국회에서 열린 인사청문회에서 이춘석 인사청문특별위원장에게 선서문을 전달하고 있다. 《사진=연합뉴스》&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;국회 대법관 인사청문특별위원회는 26일&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="1308"&gt;마용주&amp;nbsp;&lt;/span&gt;대법관 후보자(55·사법연수원 23기)에 대한 인사청문회를 마친 후 인사청문 경과 보고서를 야당 단독으로 채택했다. 마 후보자에 대한 임명동의안은 27일 국회 본회의에 상정될 예정이다. &lt;br /&gt;&lt;br /&gt;헌법 제104조 제2항은 대법관은 대법원장의 제청으로 국회의 동의를 얻어 대통령이 임명하도록 규정하고 있다. 앞서 조희대 대법원장은 오는 27일 퇴임하는&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="3286"&gt;김상환&lt;/span&gt;(58·20기) 대법관의 후임으로 마 후보자를 지난달 26일 윤 대통령에게 임명을 제청했다. 야당은 마 후보자가 일부 답변은 회피하긴 했으나 대법관이 갖추어야 할 자질과 덕목을 갖추고 있다며 적격 의견을 냈다.&lt;br /&gt;&lt;br /&gt;이날 마 후보자는 윤석열 대통령 탄핵 심판 소추 사유에 대해 "중대한 위법성이 있고 대통령도 내란죄 주체가 될 수 있다"고 했다. 백혜련 더불어민주당 의원이 '박근혜의 뇌물죄·직권남용 탄핵 사유와 윤석열의 내란죄·직권남용 탄핵 사유 중 무엇이 더 위법이 중대한가'라고 묻자 "탄핵소추 사유 자체만 놓고 보면 위반된 법률 내용 등 모든 게 후자가 더 중하다"고 답했다.&lt;br /&gt;&lt;br /&gt;앞서 23일 열린&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="1379"&gt;마은혁&lt;/span&gt;(61·29기) 헌법재판관 후보자 인사청문회에서도&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="11428"&gt;민병덕&lt;/span&gt;(54·34기) 더불어민주당 의원이 노 전 대통령의 공직선거법 위반 혐의, 박 전 대통령의 뇌물죄 혐의, 윤 대통령의 내란죄 혐의를 비교하며 "어떤 (죄) 위반이 가장 중대하나고 보느냐"고 질문하자, 마은혁 후보자는 "각 행위를 비교하기는 어렵다"면서도 "법정형을 비교하면 내란죄가 가장 중하다"고 답한 바 있다.&lt;/p&gt;</description>
-			<pubDate>Thu, 26 Dec 2024 11:15:55 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/204161</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/204161</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/204161.jpg</media:thumbnail>
-			<dc:creator>김지현 기자</dc:creator>
-		</item>
-		<item>
-			<title>[판결] '전태일 어머니' 故 이소선 여사, 43년 만에 계엄법 위반 혐의 무죄</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/204158.jpg" alt="204158.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: left; font-size:14px; line-height: 1.6em"&gt;2011년 9월 7일 오후 경기도 남양주시 모란공원에서 열린 고(故) 이소선 여사 하관식에서 운구행렬이 이동하고 있다.《사진=연합뉴스》&lt;/figcaption&gt;   &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;전두환 신군부 시절 계엄법 위반 혐의로 징역형을 선고받았던 전태일 열사의 어머니 고(故) 이소선 여사와 남동생 전태삼 씨가 재심 끝에 43년 만에 무죄를 인정 받았다.&lt;br /&gt;&lt;br /&gt;서울동부지법 형사11부(재판장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="4530"&gt;강민호&amp;nbsp;&lt;/span&gt;부장판사)는 계엄법 위반 혐의로 기소됐던 이 여사 등의 재심사건(&lt;b&gt;2021재고합4&lt;/b&gt;)에서 6일 무죄를 선고했다. 당초 1980년 계엄포고가 위헌·무효였으므로 이 여사 등에게 선고된 계엄법 위반 혐의도 무죄라는 취지다.&lt;br /&gt;&lt;br /&gt;이 여사는 전국연합노동조합 청계피복지부에서 활동하며 1981년 1월 서울시장의 해산 명령을 어기고 노조 사무실 등에서 대책을 논의한 혐의로 같은 해 7월 13일 징역 10개월을 선고받았다.&lt;br /&gt;&lt;br /&gt;2021년 11월 5일 전태삼 씨 등이 서울동부지법에 재심을 청구하며 이 사건은 40년 만에 다시 심리가 이뤄졌다.&lt;br /&gt;&lt;br /&gt;재심 사건 재판부는 계엄법 위반 혐의와 관련 "이 사건 계엄 포고는 헌법과 법률에서 정한 요건을 갖추지 못한 채 발령됐고, 그 내용도 영장주의와 죄형법주의의 명확성의 원칙에 위배된다"며 "표현의 자유, 학문의 자유 등 헌법 상 보장된 국민의 기본권을 침해하므로, 이 사건 계엄 포고가 해제 또는 실효되기 이전부터 이미 유신헌법과 구 계엄법에 위배돼 위헌이고 위법해 무효"라고 판시했다.&lt;br /&gt;&lt;br /&gt;그러면서 "계엄 포고가 당초부터 위헌·무효인 이상, 이 사건 계엄 포고 제2항 가호를 위반했음을 전제로 한 피고인들에 대한 공소사실은 형사소송법 제325조 전단에서 정한 범죄로 되지 아니하는 때에 해당한다"고 밝혔다.&lt;br /&gt;&lt;br /&gt;계엄법 위반과 집회 및 시위에 관한 법률(집시법) 위반 등 혐의로 이 여사와 함께 기소돼 징역 3년을 선고받았던 전태삼 씨 등 3명에게도 계엄법 위반 혐의에 대해 무죄가 선고됐다. 재판부는 집시법 위반 혐의에 대해선 면소 판결을 선고했다.&lt;/p&gt;</description>
-			<pubDate>Thu, 26 Dec 2024 11:12:58 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/204158</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/204158</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/204158.jpg</media:thumbnail>
-			<dc:creator>홍윤지 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
