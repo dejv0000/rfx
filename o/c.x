@@ -13,6 +13,42 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>시동 걸자 승용차에서 불, 60대 운전자 화상</title>
+      <link>https://www.chosun.com/national/regional/2024/12/28/XHZ55D6VPVFXRFFHF3KA56JW6I/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/12/28/XHZ55D6VPVFXRFFHF3KA56JW6I/</guid>
+      <dc:creator>노인호 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 28 Dec 2024 09:56:43 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZFE4CDLLID2T4HT7IKELPKLIGI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;28일 오후 부산 사상구 삼락동에서 시동을 걸자 불이 난 SM5 승용차/부산소방재난본부 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;차량에 시동을 거는 순간 화재가 발생, 60대 운전자가 화상을 입었다.&lt;br&gt;&lt;br&gt;28일 부산소방재난본부에 따르면, 이날 오후 2시 58분쯤 부산 사상구 삼락동에서 주차되어 있던 SM5 승용차에서 불이 났다. 이 불로 운전자 A씨가 양쪽 손과 발에 3도 화상을 입고 병원에서 치료 받고 있다.&lt;br&gt;&lt;br&gt;불은 엔진룸 등을 태운 뒤 19분 만에 꺼졌다.&lt;br&gt;&lt;br&gt;소방당국은 차량에 탑승 후 시동을 거는 순간 화재가 발생했다는 운전자의 진술 등을 토대로 정확한 화재 원인을 조사하고 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“윤석열 즉각 퇴진” “이재명이 내란” 올 마지막 주말도 쪼개진 광화문</title>
+      <link>https://www.chosun.com/national/national_general/2024/12/28/AYJQZ7B3I5EB5NILRGWNBOOF7Q/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/28/AYJQZ7B3I5EB5NILRGWNBOOF7Q/</guid>
+      <dc:creator>고유찬 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 28 Dec 2024 08:42:22 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4UVVPXCXCBM2NNT5JVQKUM2BH4.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;28일 서울 종로구 세종대로에서 열린 대한민국바로세우기국민운동본부 주최 '자유민주주의 수호 광화문 국민혁명대회'에서 참가자들이 구호를 외치고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2024년 마지막 토요일인 28일 서울 광화문 일대에서는 윤석열 대통령 탄핵 찬반 집회가 동시에 열렸다.&lt;br&gt;&lt;br&gt;이날 서울경찰청에 따르면 대한민국바로세우기국민운동본부(대국본)와 자유통일당 등은 오후 1시부터 서울 종로구 세종대로 인근에서 윤석열 대통령 탄핵 반대 집회를 진행했다.&lt;br&gt;&lt;br&gt;이날 집회는 세종대로를 중심으로 서울 지하철 5호선 광화문역 2번 출구부터 서울시청 앞 광장까지 모든 차로가 막힌 채 진행됐다. 주최 측 추산 집회 참석 인원은 약 200만 명이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/T6DJ4QD6PJMF3BANJDHLJPBSNQ.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;28일 서울 종로구 세종대로에서 열린 대한민국바로세우기국민운동본부 주최 '자유민주주의 수호 광화문 국민혁명대회'에서 참가자들이 구호를 외치고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 무대에 오른 뮤지컬 배우 차강석씨는 “야당 대표는 본인의 재판은 밥 먹듯이 미루면서 (한 권한대행이) 나라 명운을 좌지우지하는 사안에 정당하게 거부권을 행사하고 양당 협의를 구하고 검토하고 신중하게 결정하려는 게 직무유기냐”며 “야당은 대한민국을 무정부 상태로 만들려는 시도를 그만하라”고 강조했다.&lt;br&gt;&lt;br&gt;집회 참가자들은 태극기와 성조기, ‘계엄 합법, 탄핵 무효’, ‘내란 수괴 이재명을 체포하라’ 등의 문구가 적힌 손팻말을 들고 무대 지시에 맞춰 “윤석열 대통령 화이팅” “대통령님 힘내세요” 등 구호를 외쳤다. 무대에서 ‘손에 손잡고’, ‘테스형’ 등 대중가요가 흘러나오자 참가자들 사이 분위기가 고조되기도 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/H4BGCOWOQVKBFHYUHD56VMTKWY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;28일 오후 서울 광화문 삼거리에서 윤석열즉각퇴진·사회대개혁 비상행동 주최 대통령 퇴진 집회가 열리고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 오후 4시부터는 전국민주노동조합총연맹(민노총)과 민주사회를 위한 변호사 모임(민변) 등 1500여개 시민사회단체로 구성된 ‘윤석열 즉각 퇴진·사회 대개혁 비상행동’이 서울 종로구 경복궁 동십자각 앞에서 집회를 열었다.&lt;br&gt;&lt;br&gt;주최 측 추산 집회 참석 인원은 약 5만 명이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QQQW47O42ZKFXLZTBB2AUW2IGM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;28일 오후 서울 광화문 삼거리에서 윤석열즉각퇴진·사회대개혁 비상행동 주최 대통령 퇴진 집회가 열리고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이들 시위대는 “수사 거부 윤석열을 즉각 체포하라” “헌재는 주권자의 명령대로 윤석열을 파면하라” “헌법파괴, 내란동조 국민의힘을 해체하라” 등의 구호를 외쳤다.&lt;br&gt;&lt;br&gt;이날 비상행동이 주최하는 집회에는 이재명 더불어민주당 대표와 박찬대 원내대표 등 민주당 의원들도 모습을 드러냈다. 다만 이 대표 등은 별도의 연설은 하지 않았다.&lt;br&gt;&lt;br&gt;민주당 관계자는 “의원들은 서울·경기·인천 시도당 소속 지역위원회 차원으로 참여했다”고 전했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KQXWHPSF7VJQTNM53IQKVYH3OM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;더불어민주당 이재명 대표가 28일 서울 종로구 경복궁 인근에서 윤석열즉각퇴진·사회대개혁 비상행동 주최로 열린 촛불 집회에 참석하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 오전부터 광화문 일대에 수많은 인파가 몰리자 일대에는 극심한 교통 체증이 빚어지고 있다. 이에 경찰은 가변차로를 운영하고 교통경찰 약 160명을 배치해 인근으로 몰리는 차량을 우회시키고 있다.&lt;br&gt;&lt;br&gt;행정안전부는 많은 인파가 몰릴 것으로 예상되는 광화문 인근 지하철 역사를 대상으로 무정차 통과 등 혼잡 완화 대책을 시행하겠다고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>환경부 X 계정 해킹...”로그인 불가, 즉시 신고 조치”</title>
+      <link>https://www.chosun.com/national/transport-environment/2024/12/28/ZC7BJ7NOX5AYFFES54GNCGBTGI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2024/12/28/ZC7BJ7NOX5AYFFES54GNCGBTGI/</guid>
+      <dc:creator>정해민 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 28 Dec 2024 09:34:15 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SFAXQZR4LZE5NADVKFULEVACSA.png"&gt;&lt;figcaption&gt;&lt;small&gt;/환경부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;28일 환경부 공식 엑스(X·옛 트위터) 계정이 해킹돼 정부가 관련 조치에 나섰다.&lt;br&gt;&lt;br&gt;이날 오전 환경부 엑스에 해커가 올린 것으로 추정되는 글이 올라왔다. 게시물 중 ‘North Korea is the best Korea’라는 문구도 포함된 것으로 알려졌다. 현재 해당 게시물은 삭제된 상태다.&lt;br&gt;&lt;br&gt;환경부는 “공식 X 계정이 해킹돼 현재 로그인이 불가한 상황”이라며 “이에 확인 후 즉시 신고 조치했으며 빠르게 복구될 수 있도록 최선을 다하겠다”고 밝혔다. 그러면서 “환경부 공식 X 사칭 메시지 및 해킹된 채널로 업로드되는 게시글로 인해 발생할 수 있는 피해에 각별히 주의해주시기 바란다”고 했다.&lt;br&gt;&lt;br&gt;지난달 환경부 공식 홈페이지는 분산서비스거부(DDoS·디도스) 공격을 받아 접속 장애를 보이기도 했다. 디도스 공격은 처리할 수 없을 정도의 과도한 트래픽을 순간으로 발생시켜 서버가 먹통이 되게 만드는 사이버 공격 기술이다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>올해 마지막 주말 강추위 기승...충청·호남·제주에 눈</title>
+      <link>https://www.chosun.com/national/transport-environment/2024/12/28/JQWI5GY5ONFVDEKRCYWDA3U3VA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2024/12/28/JQWI5GY5ONFVDEKRCYWDA3U3VA/</guid>
+      <dc:creator>정해민 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 28 Dec 2024 08:25:10 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GJCK3SSLMBPY7ITWSUHY7H6L6Y.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;28일 오후 대설주의보가 발효된 제주 한라산 성판악 입구에서 한 아이가 눈사람을 만들고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;28일 충남권과 전라권을 중심으로 비나 눈이 내렸으나, 오는 29일 오전 대부분 그치겠다. 29일 아침 최저 기온은 -13~3도로 예보됐다.&lt;br&gt;&lt;br&gt;기상청에 따르면, 이날 오전까지 전남 일부 지역에 최고 11cm의 눈이 쌓였다. 기상청은 이날 오후 약 2시간 동안 전남 영광군에 대설주의보를 내렸다. 대설주의보는 24시간 동안 쌓이는 눈이 5cm 이상 예상될 때 발령한다.&lt;br&gt;&lt;br&gt;29일에는 비나 눈이 대부분 그치겠으나, 일부 지역에 한파가 예상된다. 기온은 29일부터 평년보다 높아지지만, 경기 동부와 강원 내륙·산지의 아침 기온은 -10도 이하로 낮겠다. 중부 지방과 일부 남부 내륙 지방의 아침 기온도 -5도 가량으로 예상된다. 기상청은 “바람도 약간 강하게 불어 체감 온도는 더욱 낮아 매우 춥겠다”고 예보했다.&lt;br&gt;&lt;br&gt;오는 29일 아침까지 예상 적설량은 대전·세종·충남과 전북·광주·전남 1㎝ 내외, 울릉도·독도와 제주도 산지 1~5㎝이다. 또 29일 새벽까지 경기 남부 서해안과 충북 중·남부, 전남 동부 남해안, 경북 남부 내륙, 경남 서부 내륙 등 지역에 0.1㎝ 미만의 눈발이 날리겠다.&lt;br&gt;&lt;br&gt;기상청은 “지난 27일부터 내린 눈으로 전북과 전남 북부를 중심으로 많은 눈이 쌓여있는 가운데, 빙판길 및 도로 살얼음이 나타나는 곳이 많겠으니 차량 운행 시 반드시 감속하고 교통 안전에 각별히 유의하기 바란다”고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>‘탄핵 찬반 집회’ 광화문 일대 인파 급증… 행안부, 안전관리 강화</title>
       <link>https://www.chosun.com/national/national_general/2024/12/28/UNB3USQE4NAJVOVWUKKRVU3HZE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/28/UNB3USQE4NAJVOVWUKKRVU3HZE/</guid>
@@ -754,33 +790,6 @@
       <content:encoded>전국금속노동조합이 이른바 ‘삼성 노조 와해’ 사건과 관련해 활동 중 숨진 고(故) 염호석씨의 장례 과정에서 방해가 발생한 점 등에 대해서도 삼성 측이 배상해야 한다고 항소했지만, 법원이 재차 받아들이지 않았다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2CTGM24Z25EX3A2HETGLAQPMMU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울고법. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;27일 서울고법 민사38-3부(재판장 박성윤)는 금속노조가 에버랜드 협력업체인 CS모터스 등을 상대로 낸 손해배상 청구 소송 항소심에서 양측 항소를 기각하고 원고 일부 승소로 판결한 원심을 유지했다.&lt;br&gt;&lt;br&gt;‘삼성 노조 와해’ 사건은 지난 2011년 에버랜드, 2013년 삼성전자서비스에 각각 노조가 설립되자 삼성그룹 미래전략실 차원에서 조직적으로 노조 설립을 방해한 사건이다. 당시 한국경영자총협회도 삼성 요구대로 협력사들에 노조와의 단체교섭을 지연·불응하도록 한 것으로 조사됐다. 이 사건으로 기소된 삼성 전·현직 임원들은 2019년 12월 1심에서 유죄를 선고받았다.&lt;br&gt;&lt;br&gt;그러자 노조의 상급단체인 금속노조가 2020년 4월 10억원을 손해배상하라며 소송을 냈고, 여기엔 염씨의 사건에 대한 배상도 포함돼 있었다. 염씨는 2014년 5월 삼성전자서비스 노조 방해 등에 항의하는 과정에서 ‘노조장으로 치러달라’는 유서를 남기고 스스로 목숨을 끊었는데, 이후 염씨의 장례 절차에 경찰이 투입되고 시신 탈취에도 경찰과 삼성 측이 관여했다는 의혹이 제기됐다.&lt;br&gt;&lt;br&gt;앞서 1심은 지난 2월 삼성 측이 1억3300여만원의 배상금과 이에 따른 지연이자를 지급하라고 판결하면서도 염씨 부분에 대한 청구는 기각했다. 당시 삼성 측은 항소하지 않았다.&lt;br&gt;&lt;br&gt;이후 금속노조는 염씨 부분에 대해 항소했고, CS모터스 측도 마찬가지로 항소했지만 이날 법원은 양측의 항소를 모두 기각했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>경찰, 지하철서 삽으로 휴대전화 내리쳐 폭발사고 낸 60대男 입건</title>
-      <link>https://www.chosun.com/national/national_general/2024/12/27/ISEK3IO6YVCZTGYQU5HYOZE4NI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/27/ISEK3IO6YVCZTGYQU5HYOZE4NI/</guid>
-      <dc:creator>박정훈 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 27 Dec 2024 04:34:38 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4NY7FZSEVEKV6O4JT5WP4HWZE4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;6일 서울 양천구 양천경찰서의 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 지하철 열차 내에서 삽으로 자신의 휴대전화를 내리쳐 화재를 일으킨 60대 남성이 27일 경찰에 체포됐다.&lt;br&gt;&lt;br&gt;서울 양천경찰서는 이날 오전 60대 남성 A씨를 방화 및 업무방해 혐의로 입건했다고 밝혔다.&lt;br&gt;&lt;br&gt;경찰 등에 따르면 이날 오전 10시 30분쯤 서울 양천구 지하철 5호선 목동역을 지나던 하남검단산행 열차에서 연기가 발생한다는 신고가 접수됐다.&lt;br&gt;&lt;br&gt;A씨는 열차에서 본인이 가지고 있던 삽으로 휴대전화를 때렸고 이에 휴대전화에서 연기가 발생한 것으로 파악됐다. A씨는 근처에 있던 승객들에 의해 열차 밖으로 끌려나온 것으로 전해졌다. 다행히 인명 피해는 발생하지 않았다고 한다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “A씨가 음주 상태였는지, 정신질환이 있었는지 등을 포함해 구체적인 사건 경위를 수사할 계획”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>강제추행 등 혐의 김진하 양양군수 구속영장 청구</title>
-      <link>https://www.chosun.com/national/court_law/2024/12/27/Z4ELI2KIU5FTRJ5AEV75YRLRDI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/27/Z4ELI2KIU5FTRJ5AEV75YRLRDI/</guid>
-      <dc:creator>속초=정성원 기자</dc:creator>
-      <description>금품수수와 강제추행 등 의혹을 받는 김진하 강원 양양군수에 대한 구속영장이 청구됐다.춘천지검 속초지청은 청탁금지법 위반, 강제추행, 뇌물수수 등 혐의로 김진하 양양군수에 대한 구속영장을 청구했다고 2일 밝혔다.</description>
-      <pubDate>Fri, 27 Dec 2024 03:49:19 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YSGT5O3IKBNWVNM3MX7WVNGNEM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 6일 오후 김진하 강원 양양군수가 강원경찰청 강릉 별관에 출석해 소환 조사를 마친 뒤 나오고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;금품수수와 강제추행 등 의혹을 받는 김진하 강원 양양군수에 대한 구속영장이 청구됐다.&lt;br&gt;&lt;br&gt;춘천지검 속초지청은 청탁금지법 위반, 강제추행, 뇌물수수 등 혐의로 김진하 양양군수에 대한 구속영장을 청구했다고 27일 밝혔다.&lt;br&gt;&lt;br&gt;김 군수는 작년 12월 여성 민원인 A씨가 운영하는 카페에서 바지를 내리는 등 부적절한 행위를 하는 등의 혐의를 받고 있다.  또 민원 해결을 빌미로 A씨에게서 금품을 받은 혐의를 받고 있다. &lt;br&gt;&lt;br&gt;이와 관련 경찰은 지난 10월 양양군청과 김 군수의 자택 등을 압수수색했으며, 지난달 6일엔 김 군수를 소환해 조사를 벌였다.&lt;br&gt;&lt;br&gt;김 군수는 논란이 불거지자 지난 9월 소속 정당인 국민의힘에 ‘일신상의 이유’를 들어 탈당계를 제출했고, 국민의힘 강원도당은 곧 바로 탈당계를 처리했다. 한편 김 군수에 대한 구속 전 피의자 심문(영장실질심사)은 내년 1월 2일 열린다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>"기름값보다 싸잖아요"…성심당 딸기시루 3배 웃돈 붙여 되팔고, 사고</title>
-      <link>https://www.chosun.com/national/people/2024/12/27/4KESOPC35RE27HHR55WG524G74/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/12/27/4KESOPC35RE27HHR55WG524G74/</guid>
-      <dc:creator>김자아 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 27 Dec 2024 02:51:05 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ELRSTDAMQVIQNJCPG3RLOZXOLY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;25일 크리스마스를 맞아 대전지역 유명 빵집인 성심당 앞은 이른 아침부터 케이크를 사려는 고객들로 장사진을 이뤘다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대전 성싱담의 인기 케이크인 딸기시루를 구매한 뒤 웃돈을 붙여 파는 ‘되팔이’가 성행하고 있다.&lt;br&gt;&lt;br&gt;27일 온라인 커뮤니티 등에는 여러 중고거래 플랫폼에 올라온 ‘성심당 딸기시루 대리구매’ 관련 글이 공유됐다.&lt;br&gt;&lt;br&gt;한 판매자는 “정가 4만3000원에 톨게이트비와 주유비를 더한 교통비(6만 5000원), 수고비 3만원을 계산해 올린다”며 14만원에 케이크를 팔았다.&lt;br&gt;&lt;br&gt;이 밖에도 중고거래 플랫폼에는 수고비 3만5000원가량을 받고 딸기시루를 대신 구매해준다거나, 7만5000원의 웃돈을 얹어 배송까지 해주겠다는 글들이 올라왔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/T5ZQQJDICRCJ3G4FL3DVMA2JVM.png"&gt;&lt;figcaption&gt;&lt;small&gt;딸기시루 대리구매 관련 글./온라인커뮤니티&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;딸기시루 구매를 위해 새벽부터 줄을 서고 있다고 밝힌 또 다른 판매자는 예상 대기 시간만 7시간이라며 대리구매 시급을 5000원으로 매겼고, 타지에서 오면 기름값이 더 든다며 가격을 책정했다.&lt;br&gt;&lt;br&gt;일부 구매자들은 “딸기시루가 너무 먹고 싶다”며 수고비를 얹어 이를 구매하고 싶다는 글을 올리기도 했으며, 일부 거래 글에는 ‘예약중’ 또는 ‘판매완료’ 표시가 붙었다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6TJNLEJ5JVG77O5Y4MHAHBS6FY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;성심당 구매대행 금지 안내./성심당&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;성심당 딸기시루는 겨울철에만 나오는 한정메뉴로 크리스마스와 연말에 특히 수요가 몰린다. 성심당은 이달 2일 크리스마스 케이크 예약을 받기 시작해 지난 19일부터 판매에 들어갔다. 지난 23일부터는 별도 예약을 받지 않고 상시 판매 중이다.&lt;br&gt;&lt;br&gt;가격은 딸기시루(2.3㎏) 4만9000원, 작은 사이즈인 딸기시루 막내 4만3000원이다. 비싼 딸기 가격 대비 케이크 가격이 합리적이라는 입소문을 타면서 매년 전국에서 딸기시루를 구매하려는 인파가 대전으로 모여든다.&lt;br&gt;&lt;br&gt;지난해에도 온라인상에서 웃돈을 얹어 딸기시루를 되파는 사례가 다수 포착됐다.&lt;br&gt;&lt;br&gt;이에 성심당 측은 최근 홈페이지를 통해 “구매대행(3자 판매)시 법적 제재가 있을 수 있다”는 내용의 공지를 냈다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>친정엄마도 ‘산후도우미 정부 지원금’ 받는다</title>
       <link>https://www.chosun.com/national/welfare-medical/2024/12/27/2QBSMK3T2BGTDPROE5NRCGMIZM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/12/27/2QBSMK3T2BGTDPROE5NRCGMIZM/</guid>
@@ -806,15 +815,6 @@
       <description/>
       <pubDate>Fri, 27 Dec 2024 01:31:44 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RGWDRFYS2FL63CWHTPEEJU3KTE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;아침 기온이 영하권으로 떨어지며 추운 날씨를 보인 27일 오전 서울 종로구 광화문네거리에 두꺼운 옷차림을 한 시민들이 이동하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;토요일인 28일 아침 수은주가 영하 13도까지 떨어지며 한파(寒波)가 이어지겠다. 서해상에서 만들어진 눈구름대가 통과하는 충청·전라권에는 오전까지 눈발이 날릴 것으로 예상됐다.&lt;br&gt;&lt;br&gt;기상청에 따르면, 우리나라로 찬 바람을 불어넣는 중국 쪽 대륙고기압의 영향으로 28일 전국이 춥겠다. 28일 아침 최저기온은 영하 13도에서 0도, 낮 최고기온은 영하 2도에서 영상 6도로 예보됐다. 중부내륙을 중심으로 한낮 기온도 0도에 머무는 지역이 많겠고, 바람이 강하게 불면서 체감기온은 실제 예보된 기온보다 3~4도 가량 더 낮을 것으로 전망됐다.&lt;br&gt;&lt;br&gt;찬 바람이 서해상을 통과하며 만들어진 눈구름대는 충청과 전라권을 중심으로 28일 새벽까지 눈을 뿌리겠다. 27~28일 예상 적설량은 충청권 1~10㎝, 전라권 5~20㎝, 경남권 1~5㎝, 경기남부 1㎜ 내외, 제주도 5~10㎝ 등이다. 눈은 28일 오전 중에 대부분 그치겠으나, 충남북부에는 이날 오후에서 저녁 사이에 한때 눈이 오는 곳이 있겠다. 제주도는 29일 새벽까지 눈이 이어질 것으로 보인다.&lt;br&gt;&lt;br&gt;일요일인 29일에는 우리나라가 중국 상하이 부근에 위치한 고기압 가장자리에 들면서 기온이 소폭 오를 것으로 보이나, 아침에는 여전히 영하 10도를 밑도는 추위가 계속되겠다. 29일 기온은 최저 영하 11도에서 영상 2도, 최고 3~9도의 분포를 보이겠다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>66년된 국립중앙의료원, 美공병단부지에 776병상 규모로 신축</title>
-      <link>https://www.chosun.com/national/national_general/2024/12/27/B5Q6Z4YUUFDP5NZCMKF6PDEUNQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/27/B5Q6Z4YUUFDP5NZCMKF6PDEUNQ/</guid>
-      <dc:creator>최연진 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 27 Dec 2024 01:05:10 +0000</pubDate>
-      <content:encoded>준공한지 66년 된 서울동대문구 국립중앙의료원이 중앙 감염병 병원과 외상 센터를 갖춘 종합 의료시설로 개발된다.&lt;br&gt;&lt;br&gt;서울시는 도시·건축공동위원회를 열고 이 같은 내용이 담긴 ‘미 공병단 부지 특별계획구역 세부 개발계획’을 수정 가결했다고 27일 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RJ6ZHPVZR3SENGZXQY464G55XQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;국립중앙의료원 배치도 및 건축계획안&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;1958년 준공한 국립중앙의료원을 훈련원 공원 북측의 미 공병단 부지에 신축·이전하는 내용이 골자다. 미 공병단 부지는 2020년 미군이 반환했다.&lt;br&gt;&lt;br&gt;계획안에 따르면 새 국립중앙의료원은 지하 4층, 지상 15층에 연면적 약 20만㎡ 규모다.&lt;br&gt;&lt;br&gt;일반병동 526병상 이외에 감염병동 150병상, 외상병동 100병상 등 총 776병상을 갖춘다. 기존 국립의료원(500병상)보다 1.5배 더 많은 병상을 확보하는 것이다.&lt;br&gt;&lt;br&gt;부지 내 근대 건축 자산인 경성소학교(1923년 개교)는 보존해서 전시장과 카페로 활용한다.&lt;br&gt;&lt;br&gt;보건복지부가 신축하는 국립중앙의료원은 2025년 설계·건축심의를 완료하고 20206년 착공할 예정이다. 2028년 말 준공이 목표다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>尹 측 “배보윤 등 탄핵심판 대리인 선임...오늘 변론준비기일 출석”</title>
