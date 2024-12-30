@@ -13,6 +13,108 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>이재명, 위증교사 2심 변호인 선임...선거법 위반 2심은 아직</title>
+      <link>https://www.chosun.com/national/court_law/2024/12/30/WIKGFLFZIBDALE6GIRRPQREYWU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/30/WIKGFLFZIBDALE6GIRRPQREYWU/</guid>
+      <dc:creator>박강현 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 30 Dec 2024 09:15:39 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JOLYW2LABNKZFDL2SMLMJCRR7Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;더불어민주당 이재명 대표가 지난 27일 오전 서울 여의도 국회에서 한덕수 대통령 권한대행 국무총리 탄핵소추 등 정국 상황에 대한 입장을 발표하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;위증교사 혐의로 기소돼 1심에서 무죄를 선고 받은 이재명 더불어민주당 대표 측이 항소심(2심) 재판부에 변호인 선임계를 제출했다. 반면 의원직 상실형(징역 1년, 집행유예 2년)을 선고 받은 공직선거법 위반 사건 항소심에선 아직 별도 변호인 선임계를 제출하지 않아 법원은 국선변호인을 선정해 이 대표 측에 통보했다.&lt;br&gt;&lt;br&gt;30일 법조계에 따르면 이 대표 측 이승엽·정주희 변호사는 이날 위증교사 사건 항소심 재판부인 서울고법 형사3부(재판장 이창형)에 변호인 선임계를 냈다. 지난 16일 사건이 2심으로 넘어온 지 약 2주 만이다.&lt;br&gt;&lt;br&gt;앞서 서울고법 형사3부는 지난 18일 이 대표 측에 소송 기록 접수 통지서도 보냈지만, 이 대표 측은 아직 이를 수령하지 않은 것으로 나타났다. 형사소송법에 따르면, 피고인은 소송 기록 접수 통지를 받은 후 20일 내 항소이유서를 법원에 제출하도록 돼 있다. 통지서가 송달되지 않으면 이런 절차가 진행될 수 없게 된다.&lt;br&gt;&lt;br&gt;하지만 이날 변호인이 선임된 만큼 곧 소송 기록 접수 통지서를 받고 법률적 대응에 나설 것으로 보인다. 이 변호사와 정 변호사는 위증교사 사건 1심에서도 이 대표의 변호를 맡았다.&lt;br&gt;&lt;br&gt;위증교사 사건과는 별개로 이 대표 측은 공직선거법 위반 사건 항소심을 담당하는 서울고법 형사6-2부(재판장 최은정)엔 별도의 변호인 선임계를 내지 않고 있다. 이에 법원은 지난 23일 국선변호인을 선정해 이 대표 측에 통보했고, 지난 26일 이 대표 측에 이런 사실이 담긴 서류가 송달된 것으로 전해졌다. 만약 이 대표가 사선 변호사를 선임하면 국선변호인 선정은 취소된다.&lt;br&gt;&lt;br&gt;향후 이 대표의 정치적 명운을 가를 위증교사 사건과 공직선거법 위반 사건은 지난달 각각 1심 선고가 나왔다. 현재 2심이 진행 중이다. 법조계에선 항소이유서 제출 등 관련 절차를 거쳐 이 사건들에 대한 2심 첫 재판은 내년 1월 중순쯤 열릴 것으로 보고 있다. 특히 이른바 ‘선거법 6·3·3 원칙(1심 6개월 이내·2심 3개월·3심 3개월)’에 따라 내년 봄쯤 적어도 공직선거법 위반 사건 2심 선고가 나올 것으로 전망하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘무안공항 여객기 참사’ 光州 희생자 장례식장 안치</title>
+      <link>https://www.chosun.com/national/national_general/2024/12/30/4VZRBREMLJDIXHSS276PFVASOU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/30/4VZRBREMLJDIXHSS276PFVASOU/</guid>
+      <dc:creator>무안=진창일 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 30 Dec 2024 09:54:31 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/F3SAZTQFQROVNF2TCTGZ4ODRL4.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;30일 오전 전남 무안국제공항 제주항공 여객기 참사 현장에서 소방대원들이 대기하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;179명의 사망자가 발생한 무안국제공항 제주항공 여객기 참사 희생자 2명이 장례식장으로 안치됐다.&lt;br&gt;&lt;br&gt;광주광역시는 30일 “이날 광주지역 사망자 중 2명이 무안국제공항 임시 안치실에서 나와 장례식장으로 이송 중”이라고 밝혔다.&lt;br&gt;&lt;br&gt;지난 29일 오전 9시 3분쯤 무안공항에서 태국 방콕발 제주항공 7C2216편 여객기가 활주로에 착륙하던 중 활주로 외벽에 충돌해 179명이 사망했다.&lt;br&gt;&lt;br&gt;이중 광주지역 희생자는 총 81명으로 신원이 확인돼 장례식장으로 옮겨진 것은 이번이 처음이다. 구조당국은 사고 여객기가 동체착륙 뒤 충돌 여파로 수 차례 화염에 휩싸인 탓에 사망자들의 시신 훼손이 커 신원 확인에 어려움을 겪어 왔다.&lt;br&gt;&lt;br&gt;이날 오후 2시 30분 기준 신원이 확인된 사망자는 146명이다. 이진철 부산지방항공청장은 이날 “유가족이 확인된 사망자들은 지문감식을 통해 1차 신원 파악이 된 상황”이라고 설명했다.&lt;br&gt;&lt;br&gt;구조당국은 아직 신원이 파악되지 않은 33명 사망자와 유가족의 DNA 샘플을 이날 오전 11시쯤 헬기를 이용해 강원도 원주에 있는 국립과학수사연구원 본원으로 보내 분석 절차를 하고 있다. 이들에 대한 신원확인 결과는 오늘 중 나올 전망이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/S5D7BMTWSVPBJBYSISBZPT5P6I.JPG?width=4815&amp;height=3288&amp;auth=0a8e0f9fb7b91f97f48368dfef27913a47b6b716b2e411cac7fa248c73460e45&amp;smart=true" type="image/jpeg" height="3288" width="4815">
+        <media:description type="plain">(무안=뉴스1) 김성진 기자 = 30일 오전 전남 무안국제공항 제주항공 여객기 참사 현장에서 대기하는 소방대원 뒤로 여객기와의 충돌로 콘크리트 재질 방위각 시설이 파손돼 있다. 2024.12.30/뉴스1</media:description>
+        <media:credit role="author" scheme="urn:ebu">(무안=뉴스1) 김성진 기자</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>“잘생기고 말도 잘하던 우리 손주”... 첫 가족여행 세 식구 참변</title>
+      <link>https://www.chosun.com/national/national_general/2024/12/30/UXPWJWJY6BEGVAT7Z7NJGSQMKU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/30/UXPWJWJY6BEGVAT7Z7NJGSQMKU/</guid>
+      <dc:creator>강지은 기자, 구동완 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 30 Dec 2024 08:55:31 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/P3S4ZDWENRAVBBLFBGSM67B6ZQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 30일 오후 전북 무안국제공항 활주로 유도등 울타리 밖에 제주항공 7C2216편 희생자를 추모하기 위한 꽃이 놓여 있다. 지난 29일 오전 제주항공 7C2216편 항공기가 동체 착륙을 시도하던 중 활주로 끝 콘크리트 둔덕과 충돌하면서 181명 탑승객 가운데 179명이 사망했다. /장련성 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“잘생기고 말도 잘하던 우리 손주...”&lt;br&gt;&lt;br&gt;지난 29일 제주항공 여객기 사고가 발생한 지 약 13시간이 흐른 오후 10시 30분 전남 무안 국제공항. 탑승객 가족들이 밤새 머물 노란 임시 텐트(쉘터) 앞에서 만난 A씨는 허공을 바라보며 읊조렸다. 그는 비행기 탑승객 중 최연소인 고모(3)군의 할머니다. 이날 사고 소식을 듣고 서울에서 6시간 걸려 무안공항을 찾은 고씨의 누나도 “하나밖에 없는 동생네 가족을 일순간에 잃어 황망할 뿐”이라고 했다.&lt;br&gt;&lt;br&gt;고군과 아버지 고모(43)씨, 어머니 진모(37)씨 세 가족은 해외로 떠났던 첫 가족여행에서 돌아오는 길에 사고를 당했다. 고씨는 여행 중 소셜미디어에 올린 게시글에서 “처음 해외 가는 아들 여권에 첫 도장 쾅”이라고 적었다. 태국 현지 식당과 동물원에서 가족들과 찍은 사진도 있었다. 고씨는 생전 광주의 한 야구단에서 일했다. 그의 동료들은 “일을 똑부러지게 잘해 팀원 모두가 좋아했던 직원”이라고 고씨를 회상했다.&lt;br&gt;&lt;br&gt;본지가 확인한 탑승객 명단에는 같은 성을 가진 일가족으로 보이는 사람들이 많았다. 여객기에는 2010년대 출생자 등 비교적 어린 나이의 승객들도 다수 포함되어 있었으며, 올해 수능을 치렀을 법한 2005년 출생자도 있었다.&lt;br&gt;&lt;br&gt;정부는 사망자 신원을 확인하는 등 이틀째 사고 수습을 이어가고 있다. 오후 3시30분 기준 사망자 179명 중 신원이 확인된 시신은 146구다. 수습한 유해는 무안공항 격납고 등에 임시 안치된 상황이며, 신원확인과 검경 등 수사기관의 검시 등의 절차가 마무리된 뒤 유가족에게 인도될 예정이다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>참사 여객기 기장은 공군 출신 6800시간 비행 ‘베테랑’</title>
+      <link>https://www.chosun.com/national/national_general/2024/12/30/DFU6T7LKKZFTPKZIGJYTHXFOLM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/30/DFU6T7LKKZFTPKZIGJYTHXFOLM/</guid>
+      <dc:creator>무안=고유찬 기자, 무안=장윤 기자, 무안=김나연 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 30 Dec 2024 08:36:25 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JH6AHGXE35G5JFLTNGM6BBOZ5E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;30일 오후 전남 무안국제공항 활주로에 여객기가 추락해 사고 수습이 이뤄지고 있다. /장련성 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 29일 발생한 제주항공 참사 당시 여객기의 조종간을 잡은 한모(45)씨는 5년차 기장으로, 6800시간이 넘는 비행 경력을 보유한 공군 출신 베테랑이었던 것으로 나타났다.&lt;br&gt;&lt;br&gt;30일 국토교통부 등에 따르면 한 기장은 공군 학사장교 조종사 출신으로, 2014년 제주항공에 입사해 2019년 3월 기장으로 승급했다. 현재까지 총 비행시간은 6823시간이며, 지난 5년간 기장으로 비행한 시간은 2500시간 정도다.&lt;br&gt;&lt;br&gt;한 기장은 동료들 사이에서도 비행 실력이 좋다는 평가를 들어온 것으로 알려졌다. 그의 동료들은 그를 “안전에 대해서는 타협 없던 동료” “급박한 상황에서 마지막까지 최선을 다했을 사람”으로 기억하고 있었다.&lt;br&gt;&lt;br&gt;한 기장이 제주항공에 입사하기 전인 2012년부터 1년 넘게 그와 함께 비행 교관으로 근무했다는 이모씨는 “한 기장(당시 교관)을 규정과 절차를 잘 지키는 사람이고, 안전에 대해서는 절대 타협하지 않는 사람으로 기억하고 있다”고 말했다.&lt;br&gt;&lt;br&gt;이씨는 “29일 오전 사고 속보를 먼저 봤고, 나중에야 그 비행기를 한 기장이 몰았다는 걸 알았다”며 “정말이지 마음이 찢어지는 듯했다”고 했다.&lt;br&gt;&lt;br&gt;아울러 그는 “사고 조사가 본격적으로 시작돼야 밝혀지겠지만, 여러 최악의 조건들이 한 번에 겹쳐 사고가 일어난 것 같다”며 “국토교통부 항공철도사고조사위원회에서 어서 정확한 원인을 규명해주길 희망한다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WBFXXJJQOJIHBHMISNLADWMDRQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;30일 오전 전남 무안국제공항 제주항공 여객기 사고 현장에서 소방대원들이 수색작업을 하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한 기장과 함께 근무했다는 현직 기장 A씨는 “한 기장은 비행도 잘하고 성실하고 좋은 사람이었는데 안타깝다”며 “어제 비행 도중에 사고 소식을 접했는데 참담했다”고 했다.&lt;br&gt;&lt;br&gt;그는 “(사고 당시) 영상을 보니 한 기장은 마지막까지 컨트롤을 놓지 않은 것 같다”며 “감속을 위한, 역추진이라는 컨트롤이 있는데 (한 기장이) 끝까지 그걸 잡고 부딪힐 때까지 놓지 않은 것 같다”고 말했다. “마지막 순간 거기로 향할 때 (한 기장의) 심정을 생각하면 너무 가슴이 아프다”고도 했다.&lt;br&gt;&lt;br&gt;한편 A씨는 “방송 뉴스에서 사고 당시 퓨엘 덤핑(fuel dumping, 연료 버리기)을 왜 안 했는지를 두고 (한 기장을) 비난하는 내용을 봤다”며 “사고가 난 항공기는 해당 기능이 없는 기종이고, 나도 사고 기종과 같은 비행기를 운행해서 잘 안다”고 주장했다.&lt;br&gt;&lt;br&gt;한편 사고 당시 한 기장과 함께 비행기를 조종했던 부기장은 총 1650시간 비행 경험이 있으며, 지난해 2월부터 제주항공에서 부기장으로 근무해온 것으로 전해졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>무안공항 1층에 여객기 희생자 합동분향소 마련… 31일 운영</title>
+      <link>https://www.chosun.com/national/regional/honam/2024/12/30/R7GZKGAUGZA2TAODR4NKJWKFCY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/honam/2024/12/30/R7GZKGAUGZA2TAODR4NKJWKFCY/</guid>
+      <dc:creator>무안=조홍복 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 30 Dec 2024 08:51:48 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HD7NG4KKGRJ4ROQSEAHEKSRHLE.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;조문객이 30일 오후 전남 무안군 무안종합스포츠파크에 마련된 제주항공 여객기 사고 희생자 합동분향소에서 조문 중 큰절을 하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전남도는 전남 무안국제공항 1층에 제주항공 여객기 사고 희생자 179명을 추모하는 합동 분향소를 설치한다고 30일 밝혔다.&lt;br&gt;&lt;br&gt;전남도는 유가족의 요청에 따라 무안공항 내부에 합동분향소를 설치해 31일부터 운영에 들어가기로 했다. 앞서 국토교통부와 무안군이 마련한 합동 분향소는 무안공항에서 10여km 떨어진 무안 스포츠파크에 설치됐으나 공항에서 멀다는 지적이 제기됐다.&lt;br&gt;&lt;br&gt;전남도는 무안공항을 비롯해 전남도청에도 합동 분향소를 설치했다. 전남 22개 시·군도 내년 1월 4일까지 애도 기간으로 정하고 합동 분향소를 운영한다. 합동 분향소 운영 시간은 오전 8시~오후 8시.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/HD7NG4KKGRJ4ROQSEAHEKSRHLE.JPG?width=5495&amp;height=3652&amp;auth=0055c43e244dccb674c31b58cb6fc19e07575918bf420eb66751045799120392&amp;smart=true" type="image/jpeg" height="3652" width="5495">
+        <media:description type="plain">(무안=뉴스1) 김민지 기자 = 한 조문객이 30일 오후 전남 무안군 무안종합스포츠파크에 마련된 제주항공 여객기 사고 희생자 합동분향소에서 조문 중 큰절을 하고 있다. (공동취재) 2024.12.30/뉴스1</media:description>
+        <media:credit role="author" scheme="urn:ebu">(무안=뉴스1) 김민지 기자</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>부산시, 제주항공 사고 희생자 합동분향소 설치</title>
+      <link>https://www.chosun.com/national/regional/yeongnam/2024/12/30/PF64JFFIEBCNZF2AOSWBJMCOMA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/yeongnam/2024/12/30/PF64JFFIEBCNZF2AOSWBJMCOMA/</guid>
+      <dc:creator>박주영 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 30 Dec 2024 09:03:13 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VHL6FCZ2NZAVZF32JFGRZAYWLI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;박형준 부산시장 등 시 간부들이 30일 오후 부산시청 1층에 '제주항공 여객기 사고 희생자 합동분향소'를 찾아 조문하고 있다./ 부산시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산시는 30일 오후 부산 연제구 연산동 부산시청 1층에 ‘제주항공 여객기 사고 희생자 합동분향소’를 설치하고 운영에 들어갔다.&lt;br&gt;&lt;br&gt;박형준 부산시장과 이준승 행정부시장 등 부산시 간부들은 이날 분향소 설치 직후 희생자들을 위한 분향을 했다. 분향소는 정부의 국가 애도기간(29일~내년 1월4일)에 맞춰 운영된다. 시 측은 “분향을 하려는 시민과 단체들은 이 기간 매일 오전 8시부터 오후 10시까지 조문이 가능하다”고 말했다.&lt;br&gt;&lt;br&gt;시는 분향소를 찾는 조문객들이 불편하지 않도록 직원을 상시 배치해 분향 및 헌화를 안내하고 있다. 박형준 시장은 “이번 사고 소식에 충격과 비통함을 금할 수 없다”라며 “부산시민과 함께 희생자분들의 명복을 빌며 유가족들에게도 진심 어린 깊은 위로의 말씀을 드린다”고 말했다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>안유성 셰프, 김밥 200줄 싸서 달려왔다… 무안공항에 이어지는 온정</title>
+      <link>https://www.chosun.com/national/national_general/2024/12/30/PCJRM3TQ2JATFPQG7E2ARCGZYU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/30/PCJRM3TQ2JATFPQG7E2ARCGZYU/</guid>
+      <dc:creator>최혜승 기자 </dc:creator>
+      <description/>
+      <pubDate>Mon, 30 Dec 2024 08:52:02 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LRW2QPG7CBYFCR4X7RM5E2C5S4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;안유성 셰프가 30일 오후 전남 무안공항에서 기자들과 만나 '김밥 봉사'를 한 이유를 설명하고 있다. /조선비즈&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 29일 제주항공 여객기 참사가 발생한 전남 무안공항에는 유족을 돕기 위한 위로의 손길이 이어지고 있다.&lt;br&gt;&lt;br&gt;넷플릭스 ‘흑백요리사: 요리 계급 전쟁’ 출연자 안유성 셰프는 30일 전남 무안군 망운면 무안국제공항을 방문해 김밥 200인분과 물 등을 유족들에게 전달했다. 안 셰프는 대한민국 제16대 조리명장으로 광주광역시 서구에서 일식집을 운영하고 있다.&lt;br&gt;&lt;br&gt;안 셰프는 전날 주방에서 참사 소식을 들은 뒤 이날 새벽부터 직원들과 함께 김밥을 만들어 공항을 찾았다. 무안 지역 음식점인 ‘무안명가’에서도 김밥 500줄을 준비해온 것으로 알려졌다.&lt;br&gt;&lt;br&gt;안 셰프는 새해 첫날 조리사협회, 광주광역시와 함께 유족들을 위한 떡국 봉사에 나설 예정이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FQ3UGD6SPVD5JOK5GECJAMEVGI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전남 무안국제공항 2층 카페에 붙은 선결제 안내문./ 엑스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;공항 2층 카페에도 온정이 이어졌다. 소셜미디어 엑스에는 이날 공항 내 카페에 ‘봉사자 및 유가족은 아메리카노나 카페라테 드시길 바랍니다. 선결제 되셨어요’라는 안내문이 붙어있는 사진이 올라왔다. 익명의 기부자는 유족들과 봉사자를 위해 200여잔을 결제한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;이외에도 대한적십자사는 전날 오전부터 무안국제공항 1층에 간이부스를 설치해 생수, 담요, 핫팩 등을 유족들에게 제공하고 있다. 전남도는 무안국제공항 별관 2, 3층에 유족을 위한 식사 공간과 대기실을 별도로 마련했다. 심리 상담을 지원하는 상담사도 배치됐다.&lt;br&gt;&lt;br&gt;전남자원봉사센터에서 나온 자원봉사자 1000여명은 떡국 등 음식을 만들어 나눠줬으며 무안소방서 의용소방대원 등도 현장 작업자에게 빵, 물, 라면이 담긴 상자를 전달하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘무안공항 참사’ 146명 사망자 신원은 모두 지문으로 확인</title>
+      <link>https://www.chosun.com/national/national_general/2024/12/30/XX4Q7Q2KYRFG5PCLHU2UKZ5LMM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/30/XX4Q7Q2KYRFG5PCLHU2UKZ5LMM/</guid>
+      <dc:creator>무안=진창일 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 30 Dec 2024 08:54:37 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/APEIADQ554R6CINJ7Z2DOAFNLA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;30일 전남 무안군 무안국제공항 활주로에 전날 동체 착륙을 시도하다 충돌 후 폭발한 제주항공 여객기의 흔적과 잔해가 남아 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘무안공항 여객기 참사’ 179명 사망자 가운데 신원이 파악된 146명은 지문감식을 통해 1차 신원조회가 된 것으로 파악됐다.&lt;br&gt;&lt;br&gt;이진철 부산지방항공청장은 30일 오후 4시 브리핑을 열고 “유가족이 확인된 146명 사망자는 지문감식을 통해 신원이 확인된 상황”이라고 밝혔다.&lt;br&gt;&lt;br&gt;지난 29일 오전 9시 3분쯤 무안공항에서 태국 방콕발 제주항공 7C2216편 여객기가 활주로에 착륙하던 중 활주로 외벽에 충돌해 179명이 사망했다.&lt;br&gt;&lt;br&gt;구조당국은 사고 여객기가 수 차례 화염에 휩싸인 탓에 사망자들의 시신 훼손이 커 신원 확인에 어려움을 겪고 있다. 국토부는 지문 감식을 통해 1차 신원 확인을 마쳤더라도 혹시 모를 오류를 없애기 위해 DNA(유전자 정보) 감식 절차도 거치겠다는 방침이다.&lt;br&gt;&lt;br&gt;신원이 확인되지 않은 33명 사망자에 대한 신원 확인은 이날 오전 11시쯤 헬기를 이용해 강원도 원주에 있는 국립과학수사연구원 본원으로 사망자와 유가족의 DNA 샘플을 보내 절차를 밟는다.&lt;br&gt;&lt;br&gt;이 청장은 “국과수로 보낸 신원 미상 사망자 DNA 샘플은 총 35명분으로 신원 미상자 33명보다 많지만, 모든 유가족과 사망자에 대해 감식을 할 계획이기 때문에 숫자 차이에 큰 의미는 없다”고 설명했다. 이들에 대한 신원확인 결과는 오늘 중 나올 전망이다.&lt;br&gt;&lt;br&gt;제주항공 여객기가 사고 당시 북쪽에서 남쪽 방향인 19번 활주로로 시도한 동체 착륙은 조종사의 결정이었던 것으로 파악됐다.&lt;br&gt;&lt;br&gt;이 청장은 “비상상황에 해당하는 긴박한 상황에서는 관제사보다 조종사에게 결정권이 우선적으로 쥐어지고 관제사가 대응하는 형태”라며 “무안공항 소방대가 예상되는 사고지점에 미리 나가있지 않았던 이유도 조종사가 어느 쪽에 착륙할 지 결정한 뒤에 움직였기 때문”이라고 설명했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/APEIADQ554R6CINJ7Z2DOAFNLA.jpg?width=5000&amp;height=3333&amp;auth=f1de957fcbf6c3f799c9319e79a2ce1b4151314e4687a78ba9210e3d85dedcbe&amp;smart=true" type="image/jpeg" height="3333" width="5000">
+        <media:description type="plain">30일 전남 무안군 무안국제공항 활주로에 전날 동체 착륙을 시도하다 충돌 후 폭발한 제주항공 여객기의 흔적과 잔해가 남아 있다. /연합뉴스</media:description>
+        <media:credit role="author" scheme="urn:ebu">연합뉴스</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>법무부, 무안 여객기 사고 비상대책본부 구성…”피해자 신속 지원”</title>
+      <link>https://www.chosun.com/national/court_law/2024/12/30/BVMK7ZSGZBCJXCUVLNEQSTGUBE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/30/BVMK7ZSGZBCJXCUVLNEQSTGUBE/</guid>
+      <dc:creator>유종헌 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 30 Dec 2024 08:43:56 +0000</pubDate>
+      <content:encoded>법무부가 무안국제공항 제주항공 여객기 사고에 대해 비상대책본부를 구성해 피해자들을 신속히 지원하겠다고 30일 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FMIKU47EYKGMSS6GOW7EZGE2SI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기도 과천 법무부 청사 전경. / 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김석우 법무부 장관 직무대행은 이날 여객기 사고에 대해 “큰 충격과 슬픔을 겪고 있는 유가족에게 깊은 위로를 전한다”면서 “대다수 사망자가 가족 단위의 일반 국민인 만큼 법무부에 구성된 비상대책본부를 중심으로 관계기관과 긴밀히 협력해 피해자들의 신속한 보호·지원 등에 최선을 다하라”고 일선에 지시했다. &lt;br&gt;&lt;br&gt;법무부는 사상자와 유가족의 피해 복구를 위해 대한법률구조공단, 법률홈닥터, 마을변호사로 ‘중대재해 피해 법률지원단’을 구성하여 현장에서 법률지원을 실시하고 있다. 또 국가트라우마센터와 함께 스마일센터를 통해 심리치유 및 임시 안전숙소를 제공하고, 원스톱 솔루션 센터(1577-1701)와 범죄피해자지원센터를 통한 지원도 제공한다.&lt;br&gt;&lt;br&gt;전날 무안국제공항에서 발생한 여객기 사고로 탑승객 181명 중 179명이 사망했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>검찰, 김용현 前국방 ‘비변호인 접견금지’ 법원에 청구</title>
+      <link>https://www.chosun.com/national/court_law/2024/12/30/HMRVAVIBSRBMTHT3Z7ME5PGEVU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/30/HMRVAVIBSRBMTHT3Z7ME5PGEVU/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 30 Dec 2024 08:33:03 +0000</pubDate>
+      <content:encoded>검찰이 ‘12·3 비상계엄’ 사태를 주도한 혐의로 재판에 넘겨진 김용현 전 국방장관을 상대로 변호인이 아닌 자와의 접견·교통을 금지해달라고 청구한 것으로 30일 전해졌다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YPT3VRL55VL7PLGJ3NZ2HACIYY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김용현 전 국방장관이 지난달 8일 오전 서울 여의도 국회에서 열린 예산결산특별위원회 전체회의에서 의원 질문에 답변하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 검찰은 지난 27일 김 전 장관의 1심 재판을 맡은 서울중앙지법 형사25부(재판장 지귀연)에 ‘비변호인과의 접견·교통 금지’를 청구했다. 형사소송법 제91조에 따르면 법원은 도망 또는 증거 인멸의 우려가 있는 경우 직권 또는 검사의 청구에 의해 구속 피고인과 타인의 접견을 금지할 수 있다.&lt;br&gt;&lt;br&gt;검찰은 앞서 수사 단계에서도 김 전 장관에게 일반인 접견 금지, 편지 수·발신 금지를 결정했다. 김 전 장관이 변호인 이외의 인물을 만날 경우 진술을 사전에 맞추는 등 수사에 지장이 생길 수 있다는 우려가 있었다고 한다.&lt;br&gt;&lt;br&gt;그러나 검찰이 지난 27일 김 전 장관을 기소하면서, 김 전 장관의 신병도 검찰에서 법원으로 넘어갔다. 이에 따라 검찰이 김 전 장관의 사건을 배당 받은 서울중앙지법 형사25부에 일반인 접견 금지 조치와 같은 효력이 있는 ‘비변호인과의 접견·교통 금지’를 청구한 것이다. 해당 청구의 인용 여부와 상관 없이 변호인의 접견은 허용된다.&lt;br&gt;&lt;br&gt;검찰 비상계엄 특별수사본부(본부장 박세현 서울고검장)는 지난 27일 내란중요임무종사 및 직권남용 권리행사방해 혐의로 김 전 장관을 구속 기소했다. 비상계엄 사건 관련자가 기소된 것은 김 전 장관이 처음이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>“항공기 충돌 때 손상 최소한으로” 둔덕 설치 규정 있었다</title>
       <link>https://www.chosun.com/national/national_general/2024/12/30/7S2FM54PDJD7BL7DRLBJKF5PDA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/30/7S2FM54PDJD7BL7DRLBJKF5PDA/</guid>
@@ -826,15 +928,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SQW22IICJFLBTHJEJJ3BMAMECU.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;29일 전남 무안국제공항 활주로에 여객기가 추락해 사고 수습이 이뤄지고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;29일 179명이 숨진 무안국제공항 제주항공 여객기 참사 현장은 아수라장이었다. 공항 외벽을 들이받은 사고기는 동체 꼬리와 날개 부분 형체만 간신히 남아 있었다. 두 동강 난 기체 앞부분은 아예 산산조각이 나 있었다. 시신 수습에 나선 구조대원들조차 “이렇게 참혹한 현장은 난생처음”이라고 할 정도였다.&lt;br&gt;&lt;br&gt;기체 주변 곳곳에선 하얀 연기가 쉴 새 없이 피어올랐다. 화재는 오전에 진압됐지만 열기는 오후까지도 느껴질 정도로 강렬했다. 매캐한 냄새가 코를 찌르는 가운데 불에 그을린 비행기 파편과 파손된 여객기 좌석, 주인 잃은 탑승객들의 가방과 신발 등 소지품이 기체 주변에 널브러져 있었다. 사고 현장 인근의 전봇대와 철조망에는 산소마스크와 구명조끼가 여기저기 걸려 있었다. 한 소방대원은 “기체에서 200m 떨어진 곳까지 승객 소지품과 비행기 파편이 발견됐다”며 “어지럽게 뒤엉킨 파편 때문에 작업이 어려웠다”고 했다.&lt;br&gt;&lt;br&gt;공항 담벼락 밖에 취재진과 인근 주민들이 몰려온 가운데 사고기 부근에선 절단기 작업 소리가 들렸다. 한 구조대원은 “파손된 기체와 승객들의 신체가 서로 엉켜 있어 파손 부분을 하나하나 잘라내느라 구조에 난항을 겪고 있다”고 했다. 다른 구조대원은 “출동 당시 훼손된 시신이 뒤엉켜 있는 등 차마 눈으로 볼 수 없을 정도로 처참했다”고 했다. 당국은 형체를 알아볼 수 있는 시신 등 무참한 현장을 가리기 위해 현장 곳곳에 검은색 천막을 쳤다. 이후 시신을 임시 안치소로 운구한 뒤 지문 등으로 신원 확인 작업을 진행했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BWCPTE7KVZFHBGEMIO7TEATGJM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;29일 오후 소방대원들이 전남 무안 국제공항에 착륙 도중 외벽과 충돌해 폭발 사고가 난 제주항공 여객기 잔해를 수습하고 있다. 새까맣게 탄 여객기 좌석을 굴착기로 들어 올리고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 소셜미디어에 급속히 확산한 사고 영상에 많은 시민이 충격을 받았다. 바퀴를 내리지 못한 체 동체 착륙을 시도하던 사고기는 빠르게 달리다가 활주로 외벽과 충돌한 직후 거대한 화염을 일으키며 폭발한다. 인근 민가 등에서 다양한 각도로 불타고 있는 사고기나 검은 연기가 맹렬히 피어오르는 장면을 촬영한 동영상도 실시간으로 공유됐다. 시민들은 “불과 몇 초 전까지만 해도 살아있던 사람들인데” “이게 영화가 아니라 현실이라니” “당분간은 비행기를 못탈 것 같다” 같은 반응을 보였다.&lt;br&gt;&lt;br&gt;전라남도의사회와 광주시의사회는 이날 입장문에서 “사고 장면을 직접 목격하거나 영상으로 접한 사람은 2차 외상을 겪을 가능성이 매우 높다”며 “정신적 트라우마는 장기적으로 심리적 건강에 영향을 미칠 수 있다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>쏟아지는 탄핵소추… 헌재, 유례없는 ‘6인 체제 선고’ 기로</title>
-      <link>https://www.chosun.com/national/court_law/2024/12/30/GATUXMH7SVDHBJB4INQJQO2YTM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/30/GATUXMH7SVDHBJB4INQJQO2YTM/</guid>
-      <dc:creator>양은경 기자, 박강현 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 29 Dec 2024 15:50:00 +0000</pubDate>
-      <content:encoded>헌법재판관 3인이 결원인 상태에서 대통령 탄핵심판을 비롯해 대통령 권한대행 탄핵심판, 가처분 사건까지 겹친 헌법재판소가 ‘6인 체제’에서 심리뿐 아니라 선고까지 해야 할지 결정해야 하는 상황이 됐다. 법조계에선 현재의 혼란을 수습하기 위해서는 ‘6인 결정’도 불가피하다는 견해가 나온다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FRPL2WI3T5CZNNDV27TEQJWPKI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 종로구 헌법재판소 모습. /전기병 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;헌재는 지난 27일 한덕수 대통령 권한대행 국무총리의 탄핵소추안을 비롯해 이와 관련해 국민의힘 의원들이 낸 권한쟁의 심판 청구와 효력 정지 가처분 신청 사건도 잇따라 접수했다. 우원식 국회의장이 대통령 권한대행에 대한 탄핵 의결정족수를 대통령 탄핵 의결정족수(재적 의원 3분의 2인 200석)가 아닌 일반 국무위원 의결정족수(재적 의원 과반수인 151석)를 적용한 것이 국회의원들의 심의·표결권을 침해해 무효라는 주장이다.&lt;br&gt;&lt;br&gt;헌재에 계류 중인 탄핵심판 사건은 현재 10건에 달한다. 윤석열 대통령과 한덕수 권한대행을 비롯해 이진숙 방통위원장, 최재해 감사원장, 이창수 서울중앙지검장 등 올해에만 총 9건의 탄핵소추안이 접수됐고, 작년에 접수된 손준성 검사장 사건도 있다.&lt;br&gt;&lt;br&gt;헌재는 지난 10월 이종석 소장과 이영진·김기영 재판관이 퇴임한 뒤 6인 체제에서 심리를 이어가고 있다. 이진숙 방통위원장 사건에서 ‘심리에 7인 이상이 필요하다’는 헌법재판소법 규정에 대한 효력을 헌재 스스로가 정지한 임시 조치에 따른 것이다.&lt;br&gt;&lt;br&gt;그동안 헌재는 6인 체제에서 선고까지 내리는 데 대해선 신중한 입장이었다. 이론적으로는 6인 전원이 찬성하면 탄핵 인용도 가능하지만, 내부에서는 ‘6인 선고’에 부담이 있는 데다 늦어도 올 연말까지는 ‘국회 몫 3인’이 충원될 것을 기대했다고 한다.&lt;br&gt;&lt;br&gt;그러나 민주당이 ‘국회 몫 3인’의 임명을 거부했다는 이유로 한 권한대행을 탄핵한 데 이어 권한대행의 권한대행인 최상목 경제부총리 겸 기획재정부 장관 등 나머지 국무위원들도 ‘줄탄핵’을 예고하고 있어 심리만 계속하기는 어려운 상황에 몰린 것이다. 한 헌법 전문가는 “6인 체제에서 심리가 가능하다면 결정을 못 할 이유가 없다”고 했다. 헌재 관계자는 “아직 정해진 바가 없다”고 했다.&lt;br&gt;&lt;br&gt;법조계에서는 헌재가 윤 대통령 탄핵심판보다 여당 의원들이 낸 권한쟁의 심판에 대한 결론부터 빨리 내야 한다는 목소리가 나오고 있다. 권한대행의 탄핵 의결정족수 논란이 해소되지 않으면 같은 문제가 반복될 수밖에 없기 때문이다. 헌재 관계자는 “규정상 권한쟁의는 재판관 과반수의 찬성이 필요하기 때문에 6명 중 4명 이상의 의견에 따라 결정할 수 있다”면서도 “이렇게 결정한 전례는 없었다”고 말했다.&lt;br&gt;&lt;br&gt;&lt;b&gt;☞권한쟁의 심판&lt;/b&gt;&lt;br&gt;&lt;br&gt;국가기관 사이 업무·권한에 대해 헌법재판소가 그 책임과 권한을 가려달라고 제기하는 소송이다. 국민의힘 의원들은 우원식 국회의장이 한덕수 대통령 권한대행의 탄핵소추 과정에서 의결정족수 151명을 적용한 것은 심의·표결권 침해라며 권한쟁의 심판을 냈다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>마지막이 된 ‘성탄 가족여행’… 세살배기 등 미성년자도 14명</title>
       <link>https://www.chosun.com/national/national_general/2024/12/30/LR5EEJGU3BBEXJV4MLGJ644FAA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/30/LR5EEJGU3BBEXJV4MLGJ644FAA/</guid>
@@ -842,82 +935,6 @@
       <description/>
       <pubDate>Sun, 29 Dec 2024 15:55:00 +0000</pubDate>
       <content:encoded>희생자 179명을 낸 제주항공 7C2216 여객기는 지역의 한 중소 여행사에서 띄운 ‘크리스마스 전세기’였다. 성탄 연휴를 맞아 가족이나 친구의 손을 잡고 함께 여행을 떠난 이들을 영영 만날 수 없다는 소식에 29일 무안국제공항에 모인 유족들은 망연자실한 표정이었다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UNQ3GSVU5FDUNJ2USMM6KW4GGA.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;29일 태국을 출발한 제주항공 소속 여객기가 무안국제공항 착륙과정에서 사고가 발생 많은 인명피해가 났다. 유가족들도 사고현장을 찾았다./2024.12.29.김영근 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;탑승객 김모(50)씨는 위암 완치 기념으로 친구들과 태국 여행을 떠나 사고기에 탑승했다. 아들 김모(22)씨는 “10여 년 전 이혼 후 홀로 우리 남매를 키운 멋진 엄마였다”며 “이제 중3 여동생과 둘만 남았는데 엄마 없이 어떻게 살아야 할지 막막하다”고 했다. 이들의 아버지도 수년 전 세상을 떴다고 한다. “다니던 대학을 자퇴해야 할 것 같다”며 “어머니가 암 치료를 받는 동안 몸이 너무 야위었는데, 그 모습이 자꾸 떠오른다”고도 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KG2IVERTARBTHNOLYKCPHXW2UM.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=박상훈&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 오전 사고 소식을 듣고 광주광역시에서 급히 무안공항으로 왔다는 강성훈(60)씨는 사고기에 여동생 강성미(51)씨와 매제 정진철(55)씨가 타고 있었다고 했다. 여동생 강씨는 다섯 남매의 막냇동생으로, 언제나 집안의 궂은일을 도맡아 했다고 한다. 여행 가기 직전 87세 어머니 옷을 120만원어치 사서 드렸고, 이를 가족 단체 카카오톡방에 자랑했다고도 한다. 강씨는 “어머니에게 이 상황을 어떻게 설명해야 할지 할지 모르겠다”며 울먹였다.&lt;br&gt;&lt;br&gt;탑승자 조건영(35)씨의 어머니 장안숙(59)씨는 수영을 좋아했다던 아들이 너무 보고 싶다며 오열했다. 한 정부기관에서 근무했다던 아들은 1년 내내 열심히 일하다가 연말 여행에서 참변을 당했다고 했다. 장씨는 “내 아들, 내 새끼, 손 한 번 더 잡아줄걸. 얼마나 뜨겁게 아팠을까”라며 통곡했다.&lt;br&gt;&lt;br&gt;퇴직 공무원 정정애(62)씨도 가족 품으로 돌아오지 못했다. 아들 이훈희(39)씨는 “어머니가 최근 암이 완치돼 퇴직 공무원 동료들과 크리스마스 기념으로 여행을 떠났다”며 “잘 다녀오시라고 용돈도 드렸는데, 엄마 시신이 많이 훼손됐을 것 같아 슬프다”고 했다.&lt;br&gt;&lt;br&gt;아들이 사고기에 탑승했다는 손주택(66)씨는 텅 빈 눈빛으로 허공을 바라봤다. 손씨는 이날 아침 동료들이 모인 단체 카카오톡방에서 사고 소식을 듣고, 아들에게 전화를 걸었지만 연락이 닿지 않자 가족들과 공항으로 달려왔다. 손씨는 “37세에 얻은 늦둥이 아들은 29년간 단 한 번도 속을 썩이지 않은 효자였다”고 말했다. 3년 전 코레일에 입사한 아들 손씨는 이번 여행이 여자 친구와의 첫 여행이었다고 한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/V2XTFETA6JFMVITM4L347IAQCQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;주저앉은 유족 - 29일 오후 전남 무안국제공항에서 제주항공 여객기 참사 소식을 듣고 달려온 탑승객 가족들이 바닥에 쪼그리고 앉아 오열하고 있다. 이날 사고로 이 비행기 탑승자 181명 중 179명이 사망했다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;오인숙(54)씨는 동생 오인경(49)씨를 사고로 잃었다. 동생 오씨는 남편과 함께 연말 여행을 다녀오는 길이었다고 했다. 오씨는 “동생 부부는 결혼한 지 20년이 넘었고 늘 사이가 좋았다”며 “23세 조카가 이번에 비행기에 타지 않은 게 그나마 다행이라고 해야 할지… 홀로 남은 조카가 걱정된다”고 했다.&lt;br&gt;&lt;br&gt;눈시울이 붉힌 채 공항을 떠돌던 중년 남성은 ‘누구를 기다리느냐’는 기자 질문에 “우리 마누라… 마누라가”라며 말을 잇지 못했다. 한 노년 여성은 “큰며느리가 비행기에 탔는데, 도착 시간(29일 오전 9시)이 넘어도 연락이 없길래 공항으로 왔다”고 했다. 이어 “며느리가 평생 고생만 하다가 처음 해외여행을 갔는데 이렇게 됐다”고 했다.&lt;br&gt;&lt;br&gt;이날 오전까지만 해도 유족들은 ‘혹시나’ 하는 듯한 눈빛이었다. 그러나 “항공기 전체가 전소(全燒)됐다” “179명 사망으로 추정된다”는 소방 당국 발표에 가족들은 일제히 통곡했다. 한 가족이 “생존자는 아예 없는 것이냐”고 묻자 이정현 전남 무안소방서장은 고개를 푹 숙인 채 “안타깝지만 그렇게 보고 있다”고 했다.&lt;br&gt;&lt;br&gt;한 여성은 손을 들고 “가족들이 희생자를 더 빨리 찾으니 우리를 사고 현장으로 보내달라”고 관계자에게 간청했다. 한 가족은 “아무리 타버렸어도, 내 새끼는 내가 보면 안다”고 했다. 그러나 민간인 출입이 금지된 구역인 탓에 출입 요청이 받아들여지지 않아 공항 관계자들에게 거세게 항의하기도 했다.&lt;br&gt;&lt;br&gt;광주광역시의 한 여행사가 ‘무안 출발! 3박 5일 방콕 나들이’라는 이름으로 출시한 139만원짜리 상품에 사고기 여정이 포함돼 있었다. 당초 25일 무안에서 방콕으로 출발, 26일 오전 8시 30분 착륙이 예정돼 있었다. 항공사에 따르면 사고 비행기에는 승객이 총 175명 탑승했는데 연령대는 50대가 40명으로 최다였고 이어 60대(40명), 40대(32명), 70대(23명) 순이었다. 10세 미만(5명)·10대(9명)도 총 14명이었다. 최연소 탑승객은 2021년생으로 올해 세 살이다. 탑승자 상당수가 같은 성을 가진 일가족으로 추정됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>마지막이 된 ‘성탄 가족여행’…세살배기 등 미성년자도 14명</title>
-      <link>https://www.chosun.com/national/national_general/2024/12/29/MZ7Q6YYODBBFNIISSET3MFY2TE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/29/MZ7Q6YYODBBFNIISSET3MFY2TE/</guid>
-      <dc:creator>무안=박정훈 기자, 무안=안준현 기자, 무안=장윤 기자, 무안=김지혜 기자, 구아모 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 29 Dec 2024 12:59:47 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IF7YGBCCZFCGRMKLBPBNUQP7OQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;29일 무안국제공항에 모인 제주공항 여객기 참사 유족들이 눈물을 흘리고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;희생자 179명을 낸 제주항공 7C2216 여객기는 지역의 한 중소 여행사에서 띄운 ‘크리스마스 전세기’였다. 성탄 연휴를 맞아 가족이나 친구의 손을 잡고 함께 여행을 떠난 이들을 영영 만날 수 없다는 소식에 29일 무안국제공항에 모인 유족들은 망연자실한 표정이었다.&lt;br&gt;&lt;br&gt;탑승객 김모(50)씨는 위암 완치 기념으로 친구들과 태국 여행을 떠나 사고기에 탑승했다. 아들 김모(22)씨는 “10여 년 전 이혼 후 홀로 우리 남매를 키운 멋진 엄마였다”며 “이제 중3 여동생과 둘만 남았는데 엄마 없이 어떻게 살아야 할지 막막하다”고 했다. 이들의 아버지도 수년 전 세상을 떴다고 한다. “다니던 대학을 자퇴해야 할 것 같다”며 “어머니가 암 치료를 받는 동안 몸이 너무 야위었는데, 그 모습이 자꾸 떠오른다”고도 했다.&lt;br&gt;&lt;br&gt;이날 오전 사고 소식을 듣고 광주광역시에서 급히 무안공항으로 왔다는 강성훈(60)씨는 사고기에 여동생 강성미(51)씨와 매제 정진철(55)씨가 타고 있었다고 했다. 여동생 강씨는 다섯 남매의 막냇동생으로, 언제나 집안의 궂은일을 도맡아 했다고 한다. 여행 가기 직전 87세 어머니 옷을 120만원어치 사서 드렸고, 이를 가족 단체 카카오톡방에 자랑했다고도 한다. 강씨는 “어머니에게 이 상황을 어떻게 설명해야 할지 할지 모르겠다”며 울먹였다.&lt;br&gt;&lt;br&gt;탑승자 조건영(35)씨의 어머니 장안숙(59)씨는 수영을 좋아했다던 아들이 너무 보고 싶다며 연신 오열했다. 한 정부기관에서 근무했다던 아들은 1년 내내 열심히 일하다가 연말 여행에서 참변을 당했다고 했다. 장씨는 “내 아들, 내 새끼, 손 한 번 더 잡아줄걸. 얼마나 뜨겁게 아팠을까”라며 통곡했다.&lt;br&gt;&lt;br&gt;퇴직 공무원 정정애(62)씨도 가족 품으로 돌아오지 못했다. 아들 이훈희(39)씨는 “어머니가 최근 암이 완치돼 퇴직 공무원 동료들과 크리스마스 기념으로 여행을 떠났다”며 “잘 다녀오시라고 용돈도 드렸는데, 엄마 시신이 많이 훼손됐을 것 같아 슬프다”고 했다.&lt;br&gt;&lt;br&gt;아들이 사고기에 탑승했다는 손주택(66)씨는 텅 빈 눈빛으로 허공을 바라봤다. 손씨는 이날 아침 동료들이 모인 단체 카카오톡방에서 사고 소식을 듣고, 아들에게 전화를 걸었지만 연락이 닿지 않자 가족들과 공항으로 달려왔다. 손씨는 “37세에 얻은 늦둥이 아들은 29년간 단 한 번도 속을 썩이지 않은 효자였다”고 말했다. 3년 전 코레일에 입사한 아들 손씨는 이번 여행이 여자 친구와의 첫 여행이었다고 한다.&lt;br&gt;&lt;br&gt;오인숙(54)씨는 동생 오인경(49)씨를 사고로 잃었다. 동생 오씨는 남편과 함께 연말 여행을 다녀오는 길이었다고 했다. 오씨는 “동생 부부는 결혼한 지 20년이 넘었고 늘 사이가 좋았다”며 “23세 조카가 이번에 비행기에 타지 않은 게 그나마 다행이라고 해야 할지… 홀로 남은 조카가 걱정된다”고 했다.&lt;br&gt;&lt;br&gt;눈시울이 붉힌 채 공항을 떠돌던 중년 남성은 ‘누구를 기다리느냐’는 기자 질문에 “우리 마누라… 마누라가”라며 말을 잇지 못했다. 이 남성은 공항 안내판에 홀로 선 채 얼굴을 묻고 오열했다. 한 노년 여성은 “큰며느리가 비행기에 탔는데, 도착 시간(29일 오전 9시)이 넘어도 연락이 없길래 공항으로 왔다”고 했다. 이어 “며느리가 평생 고생만 하다가 처음 해외여행을 갔는데 이렇게 됐다”고 했다.&lt;br&gt;&lt;br&gt;사고기는 광주광역시의 한 여행사가 ‘무안 출발! 3박 5일 방콕 나들이’라는 이름으로 출시한 139만원짜리 상품이었다. 당초 25일 무안에서 방콕으로 출발, 26일 오전 8시 30분 착륙이 예정돼 있었다. 항공사에 따르면 사고 비행기에는 승객이 총 175명 탑승했는데 연령대는 50대가 40명으로 최다였고 이어 60대(40명), 40대(32명), 70대(23명) 순이었다. 10세 미만(5명)·10대(9명)도 총 14명이었다. 최연소 탑승객은 2021년생으로 올해 세 살이다. 탑승자 상당수가 같은 성을 가진 일가족으로 추정됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>사고 11시간만에 현장 온 제주항공 대표... 유가족 격렬 항의</title>
-      <link>https://www.chosun.com/national/national_general/2024/12/29/YB5J65USFRFDJJOUSFSHZMYUVI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/29/YB5J65USFRFDJJOUSFSHZMYUVI/</guid>
-      <dc:creator>무안=장윤 기자, 무안=고유찬 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 29 Dec 2024 12:39:32 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3LY6UAWW4VJO7GQT2VGKZA2EZU.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;김이배 제주항공 대표이사(왼쪽)가 29일 전남 무안군 무안국제공항에서 유가족들을 만나 사과하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김이배 제주항공 대표가 여객기 참사 현장을 찾아 유가족에 사과했다. 유가족들은 “왜 이제야 나타났냐”며 항의했다.&lt;br&gt;&lt;br&gt;김 대표는 29일 오후 8시쯤 무안국제공항을 방문했다. 사고 발생 11시간 만이었다. 그는 “이번 사고로 희생된 분들께 비통한 심정으로 애도와 조의의 말씀을 드린다”고 했다.&lt;br&gt;&lt;br&gt;또한 “관계 당국 조사 지원에 적극 협조하고 피해자분들 (목소리에) 귀를 기울이고 최대한 지원하겠다”며 “다시 한번 유가족과 국민 여러분께 깊이 사죄드린다”고 말했다.&lt;br&gt;&lt;br&gt;하지만 유가족들은 격하게 항의했다. 김 대표의 발언이 채 끝나기도 전에 “딸을 살려내라”고 울부짖거나 “이게 뭐 하는 짓이냐”고 소리치기도 했다.&lt;br&gt;&lt;br&gt;유가족 대표는 “제주항공 관계자를 쫓아다니고 수소문했다”며 “빨리 올 수 있는데 왜 오지 않았나”라고 목소리를 높였다.&lt;br&gt;&lt;br&gt;한 유가족은 자리에서 일어나 “서울에서 이곳까지 오는데 1시간 40분이면 된다”며 “본인의 가족, 피붙이가 죽었어도 이런 식으로 행동했을 것이냐”고 비난했다.&lt;br&gt;&lt;br&gt;그러면서 “지원을 언제, 어떤 방식으로 할 것인지 구체적으로 설명해달라”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“엄마, 암 완치 기념 여행였는데... 이제 중3 동생과 어떻게 살아요”</title>
-      <link>https://www.chosun.com/national/national_general/2024/12/29/POMUJJJC7BE53MM6GU4YOWY3ZU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/29/POMUJJJC7BE53MM6GU4YOWY3ZU/</guid>
-      <dc:creator>무안=김도연 기자, 무안=장윤 기자, 무안=고유찬 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 29 Dec 2024 09:12:09 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/S6IJUJBNYBJ5JNHFEWZOCANK24.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;29일 오후 전남 무안군 무안국제공항에서 제주항공 여객기 폭발사고 유가족이 오열하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;29일 오후 전남 무안공항에서 만난 김모(22)씨는 중학교 3학년 여동생(15)과 함께 공항 창가에서 덤덤하게 자리를 지키고 있었다.&lt;br&gt;&lt;br&gt;그는 이날 오전 발생한 무안공항 사고 비행기의 탑승자 중 한 명인 김모(50)씨의 아들이다.&lt;br&gt;&lt;br&gt;김씨에 따르면, 어머니 김씨는 지난해 가을 위암 3기를 진단받고 수술을 받았고, 1년만의 투병생활 끝에 지난 11월 완치 판정을 받았다고 했다. 건강을 되찾은 김씨는 이를 기념해 패키지 여행으로 친구들과 태국 여행을 떠났다고 했다.&lt;br&gt;&lt;br&gt;김씨는 “어머니가 암 치료를 받는 동안 몸이 너무 야위셨는데, 그 모습이 자꾸 머릿속을 맴돈다”고 했다.&lt;br&gt;&lt;br&gt;어머니 김씨는 약 10년 전 남편과 이혼하고 자녀 둘을 홀로 키워왔다고 했다. 수학 학원을 차렸다가 최근에는 한 연구소에서 일하며 자녀들에 대한 지원을 아끼지 않았다고 한다. 이런 어머니의 지원에 힘입어 여동생은 꿈에 그리던 예술고등학교에 올해 합격해, 내년 봄에 입학할 예정이었다고 했다.&lt;br&gt;&lt;br&gt;아들 김씨가 어머니와 마지막으로 연락을 주고 받은 것은 어제 저녁이었다. 집에 도착한 택배가 잘 돌아왔는지 묻는 연락이었다고 한다. 아들 김씨는 어머니를 “늘 강인했던 사람, 어려운 환경에서도 우리를 이끌어주던 멋진 어머니”라고 했다.&lt;br&gt;&lt;br&gt;이들의 아버지 또한 양육비를 지원했으나 2~3년 전쯤 세상을 떠났다. 그는 “중3 여동생과 둘만 남았는데 앞으로 어떻게 살아야 할지 막막하다”며 “다니던 대학을 자퇴해야겠다는 생각이 든다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IAPOYPN3WNAZFBUPYKZHUK7AMM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;강성미씨가 가족 단체카톡방에 남긴 카톡. /독자 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 오전 뉴스를 보고 광주광역시에서 급히 무안공항을 찾았다는 강성훈(60)씨는 사고 비행기에 여동생 강성미(51)씨와 매제 정진철(55)씨가 타고 있었다고 했다.&lt;br&gt;&lt;br&gt;여동생 강씨는 다섯 남매의 막내동생으로, 언제나 집안의 궂은 일을 도맡아 했다고 한다. 여행 가기 직전 87세 된 어머니 옷을 120만원어치 사서 드렸고, 이를 가족 단체 카카오톡방에 자랑했다고도 한다.&lt;br&gt;&lt;br&gt;강씨는 “어머니에게 이 상황을 도저히 어떻게 설명드려야 할지 모르겠다”며 울먹였다.&lt;br&gt;&lt;br&gt;그는 “여동생이 태국으로 여행을 떠나기 직전 ‘다음에는 오빠도 같이 해외여행을 가자’고 나한테 전화를 했었다”며 연신 눈물을 훔쳤다. “동생과 매제의 시신이 아직 확인되지 않았으니 아직은 포기하지 않을 것”이라고도 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/IF7YGBCCZFCGRMKLBPBNUQP7OQ.jpg?width=4849&amp;height=3466&amp;auth=434d7c505bed40d5bac157b1ebbb8536f62df9163fa545f7e5bef4369aa1214f&amp;smart=true" type="image/jpeg" height="3466" width="4849">
-        <media:description type="plain">29일 오후 전남 무안군 무안국제공항에서 제주항공 여객기 폭발사고 유가족이 오열하고 있다. /연합뉴스</media:description>
-        <media:credit role="author" scheme="urn:ebu"/>
-      </media:content>
-    </item>
-    <item>
-      <title>10년간 급격한 고령화에… 심근경색 50% 늘고 뇌졸중도 10% 증가</title>
-      <link>https://www.chosun.com/national/welfare-medical/2024/12/30/7DKVTLK52VAU7AOBIG2ZWZJX6Q/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/12/30/7DKVTLK52VAU7AOBIG2ZWZJX6Q/</guid>
-      <dc:creator>조백건 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 29 Dec 2024 15:55:00 +0000</pubDate>
-      <content:encoded>지난 10년간 심근경색증 입원 환자는 50%, 뇌졸중 입원 환자는 10% 가까이 증가한 것으로 나타났다. 심근경색증 환자의 경우 100명 중 16명이, 뇌졸중 환자의 경우 100명 중 20명이 1년 내 사망한 것으로 조사됐다. 의료계에선 “둘 다 노인들이 많이 걸리는 질환으로, 우리나라의 급격한 고령화를 반영한다”는 분석이 나온다.&lt;br&gt;&lt;br&gt;질병관리청은 29일 ‘2022년 심뇌혈관질환 발생 통계’ 발표를 통해 “2022년 한 해 심근경색증은 3만4969건, 뇌졸중은 11만574건 발생했다”며 “심근경색증은 10년 전인 2012년(2만3509건)보다 48.7%, 뇌졸중은 같은 기간 9.8% 증가했다”고 했다.&lt;br&gt;&lt;br&gt;심근경색증은 심장 근육에 산소를 공급하는 혈관이 막혀 심장마비 등을 유발하는 중증 질환이다. 뇌졸중은 뇌혈관이 막히거나 찢어지면서 심각한 뇌손상을 부르는 질환이다. 모두 빠르게 치료하지 않으면 사망하거나, 살아도 언어·운동 장애 등 큰 후유증이 남는다. 두 질환 모두 혈관 탄력성 등이 떨어지는 노인에게서 많이 생긴다.&lt;br&gt;&lt;br&gt;실제 2022년 인구 10만 명당 심근경색증 발생률은 80세 이상이 327.5명으로 가장 높았고, 70대 213.3명, 60대 132.5명, 50대 79.2명 순이다. 뇌졸중은 80세 이상이 10만 명당 1515.7명으로 가장 많았다. 다음은 70대 743.2명, 60대 355.7명, 50대 178.6명이었다.&lt;br&gt;&lt;br&gt;여자보다 남자의 발생률이 높았다. 심근경색증 발생률은 남성이 여성의 2.9배, 뇌졸중은 남성이 여성의 1.3배였다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>올해 마지막 주말, 스케이트 타며 ‘추억 스케치’</title>
-      <link>https://www.chosun.com/national/national_general/2024/12/30/NDI6ABYRWZF3TLRI7KOABXPYQE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/30/NDI6ABYRWZF3TLRI7KOABXPYQE/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Sun, 29 Dec 2024 15:50:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MTTBPYA2ZFGFBEW5G4QKDWQ2OQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2024년의 마지막 일요일인 29일 오후 서울 중구에 위치한 서울광장 스케이트장에서 시민들이 스케이트를 타며 즐거워하고 있다. 지난 20일 개장한 서울광장 스케이트장은 내년 2월 9일까지 운영된다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[오늘의 판결] “항공 마일리지 약관 유효기간 10년 적법”</title>
-      <link>https://www.chosun.com/national/court_law/2024/12/30/7I3GS6E7RRHVXAGQ6DDZR7E2KE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/30/7I3GS6E7RRHVXAGQ6DDZR7E2KE/</guid>
-      <dc:creator>박강현 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 29 Dec 2024 15:50:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4YFOMWCKLRHULCJDPPWRDOCXDQ.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초동 대법원. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;항공 마일리지 유효기간을 10년으로 정한 현행 항공사 약관은 적법하다는 대법원 판단이 나왔다. 마일리지를 소진시킬 사업상 필요가 있고 고객들에게 마일리지 소멸 시점 등을 수시로 안내한 점 등을 고려해야 한다는 것이다.&lt;br&gt;&lt;br&gt;29일 법조계에 따르면 대법원 2부는 최근 소비자단체 ‘소비자주권시민회의(소비자주권)’가 대한항공과 아시아나항공을 상대로 낸 마일리지 지급 청구 소송에서 원고가 패소한 원심 판결을 그대로 확정했다.&lt;br&gt;&lt;br&gt;대한항공과 아시아나항공은 당초 유효기간이 없던 마일리지를 운영했으나 2008년 ‘유효기간 제도’를 도입했다. 처음엔 5년에서 2010년부터는 10년으로 늘렸다. 이에 따라 2019년 1월 1일부터 마일리지를 소진시켰다. 다만 2008년 이전에 쌓은 마일리지는 유효기간 무제한을 유지했고, 2008년 이후 쌓은 마일리지에만 유효기간 10년을 적용했다. 이에 소비자주권은 2019년 유효기간 만료로 소멸된 마일리지에 대해 ‘재산권 침해’를 주장하며 소송을 냈다.&lt;br&gt;&lt;br&gt;이 사건의 쟁점은 마일리지 소멸 약관 조항이 ‘신의성실의 원칙(권리 행사와 의무 이행은 신의에 따라 성실해야 한다는 원칙)’을 위반해 무효인지 여부였다. 대법원은 “유효기간 도입으로 항공사가 얻은 이익에 상응할 만큼 고객 이익이 보장됐다고 보기엔 미흡하다”면서도 “고객들 마일리지가 늘어날수록 항공사는 부채가 늘어 재무구조의 건전성이 악화되기 때문에 적정한 기간 내에 마일리지를 소진시킬 사업상의 필요가 있다”고 했다. 또 “항공사들은 마일리지 유효기간을 관련 법령 등에 비춰 비교적 장기간인 약 10년으로 정했고, 다양한 마일리지 활용 방안을 두고 있다. 수시로 고객들에게 소멸 시점도 안내하고 있다”고 했다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[부음] 권성여 별세 외</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2024/12/30/KWH7AJDT75FZFCII7L4DQ3XW7Y/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2024/12/30/KWH7AJDT75FZFCII7L4DQ3XW7Y/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Sun, 29 Dec 2024 15:35:00 +0000</pubDate>
-      <content:encoded>▲&lt;b&gt;권성여&lt;/b&gt; 별세, &lt;b&gt;김태흠&lt;/b&gt; 충남지사 모친상=29일9시 충남 보령 웅천장례식장, 발인 31일11시, (070)8852-4448&lt;br&gt;&lt;br&gt;▲&lt;b&gt;김유성&lt;/b&gt; 김유성 이비인후과의원 원장 별세, &lt;b&gt;김정준&lt;/b&gt; 김유성 이비인후과의원 부원장·&lt;b&gt;김효준&lt;/b&gt; 퍼스트골프앤피팅 대표·&lt;b&gt;김준희&lt;/b&gt;·&lt;b&gt;김연희&lt;/b&gt; 부친상=28일1시58분 신촌세브란스병원, 발인 31일6시, (02)2227-7500&lt;br&gt;&lt;br&gt;▲&lt;b&gt;이순경&lt;/b&gt; 별세, &lt;b&gt;노명자&lt;/b&gt;·&lt;b&gt;노영상&lt;/b&gt; 실천신학대학원대학교 총장 모친상, &lt;b&gt;한정숙&lt;/b&gt; 시모상=28일20시25분 서울아산병원, 발인 31일9시40분, (02)3010-2000&lt;br&gt;&lt;br&gt;▲&lt;b&gt;이인수&lt;/b&gt; 前 샘물교회 협동목사 별세, &lt;b&gt;송영숙&lt;/b&gt; 샘물교회 권사 남편상, &lt;b&gt;이경미&lt;/b&gt;·&lt;b&gt;이동원&lt;/b&gt; 김앤장법률사무소 세무사·&lt;b&gt;이윤경&lt;/b&gt; 부친상, &lt;b&gt;공병종&lt;/b&gt; 진일산업 대표 장인상, &lt;b&gt;조윤정&lt;/b&gt; 시부상=29일5시 삼성서울병원, 발인 31일6시, (02)3410-3151&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[인사] 고용노동부 외</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2024/12/30/ILM2OXFF3JBC5PDBGGHO62IQLE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2024/12/30/ILM2OXFF3JBC5PDBGGHO62IQLE/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Sun, 29 Dec 2024 15:35:00 +0000</pubDate>
-      <content:encoded>▲고용노동부◇국장급 전보▷서울지방고용노동청장 권태성&lt;br&gt;&lt;br&gt;▲문화체육관광부◇과장급 전보▷콘텐츠정책국 문화기술투자과장 진재영&lt;br&gt;&lt;br&gt;▲산업통상자원부◇과장급 전보▷산업인공지능혁신과장 고상미▷국가기술표준원 무역기술장벽협상과장 정병락&lt;br&gt;&lt;br&gt;▲국토교통부◇실장급 임용▷중앙토지수용위원회 상임위원 김상문◇국장급 전보▷모빌리티자동차국장 김홍목▷부산지방국토관리청장 전형필&lt;br&gt;&lt;br&gt;▲법제처◇과장급 전보▷행정법제국 법제관 손문수◇과장급 파견▷국회 법제사법위원회 박상균&lt;br&gt;&lt;br&gt;▲예술의전당▷경영지원부장 정현근▷시설관리부장 박기성&lt;br&gt;&lt;br&gt;▲산업연구원◇보직(임)▷경영부원장 이준▷감사실장 김대영▷기획예산실장 권영국▷경영지원실장 정진수▷전산회계실장 구한모▷대외협력실장 황경인▷기획예산실 기획팀장 이현▷예산팀장 이경우▷경영지원실 인사팀장 이동길▷전산회계실 회계팀장 유수영▷대외협력실 홍보팀장 김진영▷대외협력실 출판자료팀장 정경희&lt;br&gt;&lt;br&gt;▲한국산업기술기획평가원◇본부장 승진▷기업성장 조용곤▷탄소중립기업성장 이시형▷조선방산항공 박효준▷재난안전사업 이기영▷감사본부장 류준일▷글로벌협력TF 박성환◇실장 전보▷기획예산 이영훈▷사업총괄 신우영&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>“암기 교육 시대는 끝… AI 활용한 미래 인재 양성, 공교육이 책임져야”</title>
@@ -937,15 +954,6 @@
       <description/>
       <pubDate>Sun, 29 Dec 2024 15:30:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NBDZLG3BKNG7HJUJ5DLKKC5OKY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[두근두근 뇌 운동] [2532] 따르릉 글자교환소</title>
-      <link>https://www.chosun.com/national/nie/2024/12/30/UFRJMCONSVEYFME4EYGIC5RELM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/12/30/UFRJMCONSVEYFME4EYGIC5RELM/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Sun, 29 Dec 2024 15:30:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/COFQCBZBUFBQRLGSG7ES7LGYIE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>무안공항 제주항공기 사고에 광주·전남 지자체 해맞이 행사 취소</title>
