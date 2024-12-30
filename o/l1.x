@@ -6,6 +6,26 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>[단독] 조지호·김봉식 청장 구속기한 연장...다음달 8일까지</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/204214.jpg" alt="204214.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;김봉식 서울경찰청장과 조지호 경찰청장 《사진=연합뉴스》&lt;/figcaption&gt;   &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;12·3 비상계엄 사태와 관련해 내란 혐의를 받는 조지호 경찰청장과 김봉식 서울경찰청장의 구속기한이 연장됐다. &lt;br /&gt;&lt;br /&gt;30일 법조에 따르면, 검찰 비상계엄 특별수사본부(본부장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="1054"&gt;박세현&amp;nbsp;&lt;/span&gt;서울고검장)는 서울중앙지법에 조 청장과 김 청장에 대한 구속기한 연장을 신청하고 법원은 이를 받아들였다. 이에 따라 이들에 대한 구속기한은 내달 8일까지로 연장됐다. &lt;br /&gt;&lt;br /&gt;이들은 3일 비상계엄 사태 당시 국회 전면 출입통제 조치를 일선 경찰에 하달하는 등 계엄 해제 표결을 하기 위해 국회로 가는 국회의원, 보좌관 등의 출입을 방해한 혐의를 받는다.&lt;br /&gt;&lt;br /&gt;조 청장과 김 청장은 이날 비상계엄이 발표되기 전인 오후 7시께 서울 종로구 삼청동 대통령 안전가옥에서 윤 대통령을 만나 계엄 관련 지시사항이 담긴 문건을 각각 받았다고 한다. 이 문건은 체포자 명단이 담긴 A4 용지로 알려졌다.&lt;br /&gt;&lt;br /&gt;경찰 국가수사본부 특별수사단은 20일 조 청장과 김 청장을 형법상 내란 중요임무 종사 혐의로 검찰에 구속 송치했다.&lt;/p&gt;</description>
+			<pubDate>Mon, 30 Dec 2024 02:23:29 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/204214</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/204214</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/204214.jpg</media:thumbnail>
+			<dc:creator>임현경 기자</dc:creator>
+		</item>
+		<item>
+			<title>공조수사본부, 윤석열 대통령 '내란 혐의' 체포영장 청구</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/204216.jpg" alt="yoon3.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;《사진=연합뉴스》&lt;/figcaption&gt;   &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;   &lt;span style="font-weight: bold;" class="lawmanlink" serial="8480"&gt;윤석열(64·사법연수원 23기)&amp;nbsp;&lt;/span&gt;대통령의 내란 혐의를 수사하고 있는 공조수사본부가 30일 윤 대통령의 체포영장을 청구했다. &lt;br /&gt;&lt;br /&gt;고위공직자범죄수사처와 경찰 등으로 꾸려진 공조수사본부는 이날 오전 서울서부지방법원에 윤 대통령에 대한 체포영장을 청구했다고 밝혔다. &lt;br /&gt;&lt;br /&gt;현직 대통령에 대한 체포영장 청구가 이뤄진 것은 헌정 사상 처음이다.&lt;br /&gt;&lt;br /&gt;앞서 공수처는 내란 우두머리와 직권남용 권리행사 방해 혐의로 윤 대통령에게 세 차례 출석을 요구했으나 윤 대통령은 불출석했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;윤 대통령 측은 공수처에 내란죄 수사권이 없다고 주장하고 있다. 윤 대통령 측 변호인 윤갑근(60·19기) 변호사는 이날 "수사 권한이 없는 기관의 청구"라며 공식 대응을 할 것이라는 입장을 냈다.&amp;nbsp;&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;윤 대통령 변호인단 자문을 맡은 석동현(64·15기) 변호사는도 법무법인 사무실에서 공수처와 검찰 모두 내란죄를 수사할 권한이 없다며 "법체계 혼란"이라고 말했다.&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;또 수사기관에 변호사 선임계를 제출하지 않았다는 지적에 대해서는 "수사에 응할 때 낼 수 있을 것"이라고 덧붙였다.&lt;/p&gt;</description>
+			<pubDate>Mon, 30 Dec 2024 02:09:40 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/204216</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/204216</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/204216.jpg</media:thumbnail>
+			<dc:creator>우빈 기자</dc:creator>
+		</item>
+		<item>
 			<title>【오늘의 국회일정】 2024년 12월 30일</title>
 			<description>&lt;b&gt;&lt;/b&gt;&lt;b&gt;&lt;span style="font-size: 14px;"&gt;&lt;/span&gt;&lt;/b&gt;&lt;p&gt;   &lt;b&gt;◇국회사무총장&lt;/b&gt;&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;08:20 주간업무보고(종합상황실)&lt;/p&gt;&lt;p&gt;   &lt;b&gt;&lt;br /&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;   &lt;b&gt;◇의원실 세미나&lt;/b&gt;&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;14:00 이건태 의원실 등, (민주연구원 긴급토론회) 대통령 권한대행의 국정운영에 대한 법리적 쟁점과 국회와의 협력적 국정운영 방식에 대한 토론회(본관 201호)&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;15:00 김용태 의원실, (핵심전략광물 자원안보와 지역순환경제 국회포럼) 석탄재 희토류 사업화 성과공유 및 방향 모색(의원회관 제6간담회의실)&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;16:00 노종면 의원실, 지하철 7호선 급행 도입을 위한 국회의원 간담회(의원회관 제2간담회의실)&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;   &lt;b&gt;◇소통관 기자회견&lt;/b&gt;&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;09:00 양문석 의원, [나무위키 정보삭제 관련 배후 내란세력 추적 촉구 기자회견]&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;09:20 정혜경 의원, [한화오션 파업투쟁 명태균 씨 개입 녹취록 공개에 대한 규탄 기자회견]&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;09:40 임미애 의원, [국회 농림축산식품해양수산위원회 소속 더불어민주당 위원 일동, 윤상현 국회의원 징계안 요구 기자회견]&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;11:00 성소미 공보기획관, [1월 1주차 국회 정례브리핑]&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;11:40 이용우 의원, [인천 청라시티타워 원안 높이 관철 관련 기자회견]&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;13:00 박홍배 의원, [통상임금 관련 근로기준법 개정안 발의 기자회견]&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;13:20 박주민 의원, [집회의 자유 관련 시민사회 기자회견]&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;14:00 윤종오 의원, [화물노동자 회사간 노예계약 규탄 기자회견]&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;   &lt;b&gt;&lt;br /&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;   &lt;b&gt;&lt;span style="font-size: 14px;"&gt;※ 상기 일정은 사정에 따라 변경될 수 있습니다.&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;</description>
 			<pubDate>Sun, 29 Dec 2024 22:37:40 -0000</pubDate>
@@ -221,25 +241,6 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/204183</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/204183.jpg</media:thumbnail>
 			<dc:creator>인터넷 기자</dc:creator>
-		</item>
-		<item>
-			<title>경찰, 삼청동 안가·대통령 경호처 압수수색…CCTV 확보 목적</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/204181.jpg" alt="204181.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;《사진=연합뉴스》&lt;/figcaption&gt;   &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;12·3 비상계엄 사태를 수사하는 경찰 국가수사본부 특별수사단이 27일 서울 삼청동 소재 대통령 안전가옥과 용산 대통령 경호처를 압수수색 중이다. &lt;br /&gt;&lt;br /&gt;경찰은 이날 "삼청동 안가 CCTV 자료 확보를 위한 압수수색"이라고 밝혔다. 앞서 경찰은 안가 압수수색 영장을 신청했지만 법원에서 한 차례 기각됐고, 이후 재신청해 19일 발부받았다. &lt;br /&gt;&lt;br /&gt;삼청동 안가는 계엄 전&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="8480"&gt;윤석열&amp;nbsp;&lt;/span&gt;대통령이 김용현 전 국방부장관과 조지호 경찰청장, 김봉식 서울경찰청장을 불러 계엄을 모의했다고 지목된 곳이다. &lt;br /&gt;&lt;br /&gt;또 계엄이 해제된 지난 4일에는 박성재 법무부장관과 이상민 전 행정안전부장관,이완규 법제처장 등이 안가에서 회동을 가진 것으로 알려졌다.&lt;br /&gt;&lt;br /&gt;경찰은 영상을 확보한 뒤 계엄 전후로 누가 출입했는지 확인하고, 윤 대통령을 비롯해 윤 대통령과 회동했던 인물들의 동선 등을 파악할 것으로 보인다.&lt;br /&gt;&lt;br /&gt;경찰은 용산 대통령 경호처에 대한 압수수색도 시도 중이다. 그러나 경호처가 경찰 수사관들의 진입을 막으며 대치가 이뤄지고 있는 것으로 전해졌다.&lt;/p&gt;</description>
-			<pubDate>Fri, 27 Dec 2024 07:00:11 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/204181</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/204181</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/204181.jpg</media:thumbnail>
-			<dc:creator>우빈 기자</dc:creator>
-		</item>
-		<item>
-			<title>'노상원과 햄버거 회동' 김용군 전 대령, 내란실행 혐의로 구속 송치</title>
-			<description>경찰이 노상원 전 정보사령관과 계엄을 사전 모의한 혐의를 받는 예비역 대령을 검찰에 넘겼다.&lt;br /&gt;&lt;br /&gt;경찰 국가수사본부 특별수사단은 27일 국방부 조사본부 수사본부장을 지낸 김용군 전 대령을 내란실행 및 직권남용 혐의로 구속 송치했다고 밝혔다.&lt;br /&gt;&lt;br /&gt;김 전 대령은 계엄 당일인 지난 3일 경기 안산시 롯데리아에서 노 전 사령관과 구삼회 2기갑여단장 등과 만나 계엄을 사전 모의한 혐의를 받는다.&lt;br /&gt;&lt;br /&gt;이들은 계엄 이후 꾸려질 방첩사령부 합동수사단 안에 노 전 사령관의 사조직 격인 '수사 2단'을 만들려 했다는 의혹을 받고 있다.&lt;br /&gt;&lt;br /&gt;고위공직자범죄수사처 등이 참여한 공조수사본부는 지난 18일 김 전 대령을 긴급체포해 21일 구속했다.&lt;br /&gt;&lt;br /&gt;김 전 대령은 2013∼2014년 국방부 조사본부에서 수사본부장으로 근무하면서 이명박 정부 국군사이버사령부의 '댓글 공작 사건'을 축소·은폐한 혐의로 2018년 구속기소 돼 불명예 전역했다. &lt;br /&gt;&lt;br /&gt;한편 국방부는 '햄버거집 회동' 멤버인 구 여단장과 방정환 국방부 전작권전환TF장을 직무정지 시키고 수도권 부대에서 대기하도록 조치했다.</description>
-			<pubDate>Fri, 27 Dec 2024 05:59:39 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/204178</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/204178</guid>
-			<dc:creator>우빈 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
