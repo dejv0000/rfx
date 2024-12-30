@@ -6,6 +6,26 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>태평양, ‘국제중재’ 전문 크리스 테일러 A&amp;O 영국변호사 영입</title>
+			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/thumb/180/204238.jpg" alt="204238.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;법무법인 태평양(대표변호사&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="8313"&gt;이준기&lt;/span&gt;)이 글로벌 로펌 앨런앤오버리(Allen &amp; Overy, A&amp;O) 출신의 크리스 메인웨어링 테일러(Chris Mainwaring-Taylor) 영국변호사(잉글랜드·웨일스)를 영입했다. A&amp;O는 '매직서클' 소속 로펌으로, 런던에 본사를 둔 영국의 정상급 5대 로펌을 지칭하는 비공식 용어다. 테일러 영국변호사는 태평양의 싱가포르와 서울 사무소를 오가며 업무를 수행할 예정이다.&lt;br /&gt;&lt;br /&gt;테일러 영국변호사는 A&amp;O의 국제중재그룹에서 약 25년간 활동하며 12년 동안 파트너로 일했다. 그는 싱가포르, 파리, 두바이, 런던 등 주요 국제중재 허브에서 건설, 에너지, 천연자원, 인프라 등 다양한 분야의 분쟁을 다뤘다. 챔버스(Chambers)와 리걸500(Legal 500) 등 글로벌 로펌 평가 기관에서 중재 전문가로 선정된 바 있다.&lt;br /&gt;&lt;br /&gt;그는 국제형사재판소(ICC), 런던국제중재법원(LCIA), 싱가포르국제중재센터(SIAC), 국제투자분쟁해결센터(ICSID), 두바이국제중재센터(DIAC), 유엔국제상거래법위원회(UNCITRAL) 등 다양한 국제중재기관에서 활동하며 실무 경험을 쌓았다. 최근에는 아시아 지역에서 제조 장비 공급 및 설치와 관련된 사건을 다루는 ICC 국제중재재판소의 의장으로 활동하며 중재인으로서 역량을 입증했다.&lt;br /&gt;&lt;br /&gt;태평양 관계자는 "국내 대형 로펌이 영국 대형 로펌의 25년 경력 파트너 변호사를 영입한 것은 이번이 처음"이라며 "대규모 국제분쟁 사건에서 주로 영국법이 적용되는 경우가 많다. 테일러 변호사의 합류로 복잡한 국제분쟁에 보다 효과적으로 대응할 수 있을 것"이라고 밝혔다.&lt;/p&gt;</description>
+			<pubDate>Mon, 30 Dec 2024 06:23:05 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/204238</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/204238</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/204238.jpg</media:thumbnail>
+			<dc:creator>조한주 기자</dc:creator>
+		</item>
+		<item>
+			<title>윤 대통령 측, 공수처 체포영장 청구에 "의견서 제출"</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/204229.jpg" alt="204229.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;탄핵심판 입장하는 윤 대통령 법률대리인 《사진=연합뉴스》&lt;/figcaption&gt;   &lt;/figure&gt;&lt;/div&gt;&lt;p&gt;   &lt;span style="font-weight: bold;" class="lawmanlink" serial="8480"&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="8480"&gt;윤석열&lt;/span&gt;(64·사법연수원 23기) 대통령 측&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="8443"&gt;윤갑근&lt;/span&gt;(60·19기) 변호사가 30일 고위공직자범죄수사처와 경찰 등으로 꾸려진 공조수사본부가 청구한 체포영장에 대한 의견서를 이날 오후 서울서부지법에 제출할 예정이라고 밝혔다.&lt;br /&gt;&lt;br /&gt;윤 변호사는 이와 함께 변호인 선임계도 함께 제출한다고 말했다.&lt;br /&gt;&lt;br /&gt;윤 대통령 측은 그동안 공수처의 수사 대상 범죄에 내란죄는 해당하지 않는다며 수사 권한이 없다고 주장해왔다. 의견서에도 이 같은 주장을 담을 것으로 알려졌다. &lt;br /&gt;&lt;br /&gt;앞서 공수처는 내란 우두머리와 직권남용 권리행사 방해 혐의로 윤 대통령에게 세 차례 출석을 요구했으나 윤 대통령은 불출석했다.&lt;/p&gt;</description>
+			<pubDate>Mon, 30 Dec 2024 05:30:27 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/204229</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/204229</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/204229.jpg</media:thumbnail>
+			<dc:creator>우빈 기자</dc:creator>
+		</item>
+		<item>
 			<title>[단독] 조지호·김봉식 청장 구속기한 연장...다음달 8일까지</title>
 			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/204214.jpg" alt="204214.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;김봉식 서울경찰청장과 조지호 경찰청장 《사진=연합뉴스》&lt;/figcaption&gt;   &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;12·3 비상계엄 사태와 관련해 내란 혐의를 받는 조지호 경찰청장과 김봉식 서울경찰청장의 구속기한이 연장됐다. &lt;br /&gt;&lt;br /&gt;30일 법조에 따르면, 검찰 비상계엄 특별수사본부(본부장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="1054"&gt;박세현&amp;nbsp;&lt;/span&gt;서울고검장)는 서울중앙지법에 조 청장과 김 청장에 대한 구속기한 연장을 신청하고 법원은 이를 받아들였다. 이에 따라 이들에 대한 구속기한은 내달 8일까지로 연장됐다. &lt;br /&gt;&lt;br /&gt;이들은 3일 비상계엄 사태 당시 국회 전면 출입통제 조치를 일선 경찰에 하달하는 등 계엄 해제 표결을 하기 위해 국회로 가는 국회의원, 보좌관 등의 출입을 방해한 혐의를 받는다.&lt;br /&gt;&lt;br /&gt;조 청장과 김 청장은 이날 비상계엄이 발표되기 전인 오후 7시께 서울 종로구 삼청동 대통령 안전가옥에서 윤 대통령을 만나 계엄 관련 지시사항이 담긴 문건을 각각 받았다고 한다. 이 문건은 체포자 명단이 담긴 A4 용지로 알려졌다.&lt;br /&gt;&lt;br /&gt;경찰 국가수사본부 특별수사단은 20일 조 청장과 김 청장을 형법상 내란 중요임무 종사 혐의로 검찰에 구속 송치했다.&lt;/p&gt;</description>
 			<pubDate>Mon, 30 Dec 2024 02:23:29 -0000</pubDate>
@@ -221,26 +241,6 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/204185</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/204185.jpg</media:thumbnail>
 			<dc:creator>김지현 기자</dc:creator>
-		</item>
-		<item>
-			<title>[판결] 신화 이민우 속여 26억 가로챈 방송작가 징역형 원심 파기환송…"피해액 다시 판단"</title>
-			<description>&lt;p style="text-align: center;"&gt;&amp;nbsp;&lt;img src="https://image.lawtimes.co.kr/thumb/180/204184.jpg" alt="204184.jpg" /&gt;&lt;/p&gt;&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;신화 출신 가수 이민우 《사진=연합뉴스》&lt;/figcaption&gt;   &lt;/figure&gt;&lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;그룹 신화 출신 가수 이민우 씨를 상대로 26억 원을 뜯어낸 방송작가에게 중형을 선고한 원심을 파기했다. 이 씨에게 편취한 금액을 다시 산정해야 한다는 취지다.&lt;br /&gt;&lt;br /&gt;대법원 형사2부(주심&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="3286"&gt;김상환&amp;nbsp;&lt;/span&gt;대법관)는 지난달 28일 특정경제범죄 가중처벌 등에 관한 법률 위반(사기), 변호사법 위반 혐의로 기소된 A 씨(변호인 법무법인 황앤씨, 김상준·이인경 변호사)에게 징역 9년을 선고한 원심 판결을 깨고 사건을 서울고법으로 돌려보냈다(&lt;b&gt;2024도11691&lt;/b&gt;).&lt;br /&gt;&lt;br /&gt;A 씨는 2년간 이 씨를 속여 이 씨로부터 총 26억3600만 원과 고가의 가방과 지갑 200여 개를 뜯어낸 혐의를 받는다. &lt;br /&gt;&lt;br /&gt;이 씨는 2019년 6월 강제추행 혐의로 입건됐다. 이 씨와 친분이 있던 A 씨는 "검찰 내부에 인맥이 있으니 무혐의 처분을 받을 수 있도록 도와주겠다"며 청탁 대가 명목으로 돈을 요구했다. 하지만 A 씨는 검사들과의 친분이 없었으며 받은 돈을 검사들에게 전달할 의사나 능력 또한 없었다. 그럼에도 A 씨는 이 씨로부터 13회에 걸쳐 13억6000여만 원을 편취했다.&lt;br /&gt;&lt;br /&gt;같은 해 12월 이 씨가 무혐의(증거불충분)로 불기소 처분을 받자 A 씨는 다시 이 씨에게 접근해 "돈을 받은 검사들이 불기소 처분에 대한 언론 보도를 보고 화가 나 처분을 번복하려고 한다. 사건 수습을 위해 검사들에게 추가로 돈을 지급해야 한다"고 속인 뒤 이 씨로부터 계좌 비밀번호 등을 전달받고 추가로 2억9100만 원을 뜯어냈다.&lt;br /&gt;&lt;br /&gt;2020년 5월에는 "검사들에게 지급할 돈이 모자란다"며 이 씨가 주택 담보 대출을 받도록 해 대출금의 처분권한을 부여받아 재차 7억4000만 원을 편취했다. 같은 해 7월에는 이 씨 소유의 명품을 현금화해 돈을 마련해주면 검사들에게 지급할 돈에 충당하겠다고 속여 이 씨로부터 명품 가방, 벨트, 지갑 등 218개를 전달받은 것으로 조사됐다. 이 씨는 재판과정에서 A 씨로부터 심리적 지배(가스라이팅)를 당했다고 호소하기도 했다.&lt;br /&gt;&lt;br /&gt;1심과 2심은 A 씨에게 징역 9년을 선고하고 추징 26억 원을 명령했다. 1심 재판부는 "A 씨는 이 씨와 오랫동안 쌓아온 신뢰관계를 악용해 피해자를 기망하는 등의 방법으로 2년 이상의 기간 동안 합계 26억3600만 원에 달하는 거액의 돈과 218개에 이르는 물품을 편취해 죄질이 매우 좋지 않다"며 "납득할 수 없는 변명으로 범행 전부를 부인하고 있고 전혀 반성하는 태도를 찾을 수 없다"고 밝혔다.&lt;br /&gt;&lt;br /&gt;하지만 대법원은 원심 판단과 달랐다. 대법원은 원심이 인정한 편취 액수 26억 원 중 일부 금액이 중복 계산됐다고 봤다. A 씨가 2020년 5월 이 씨에게 대출을 받도록 해 대출금 처분권한을 받는 방식으로 뜯어낸 7억4000만 원 중 일부 금액이 문제가 됐다. A 씨가 취득한 이 일부 금액은 이 씨의 다른 계좌를 거쳐 A 씨 또는 제3자의 계좌로 이체되기도 했는데, 대법원은 원심이 이 돈을 대출금이 아닌 별도의 금액으로 보고 A 씨의 범죄 행위 성립 여부에 대해서도 심리했어야 한다고 판단했다.&lt;/p&gt;</description>
-			<pubDate>Fri, 27 Dec 2024 07:41:14 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/204184</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/204184</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/204184.jpg</media:thumbnail>
-			<dc:creator>홍윤지 기자</dc:creator>
-		</item>
-		<item>
-			<title>한화비전, 2025년 주요 영상보안 트렌드 전망 발표</title>
-			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/thumb/180/204183.jpg" alt="204183.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;글로벌 비전 솔루션 기업 한화비전(대표 안순홍)이 2025년 영상보안 산업의 주요 트렌드를 발표했다. 이번 발표에서는 생성형 AI와 클라우드 기술의 발전, AI 생태계 확장, 개인정보보호 강화 등 영상보안 시장의 변화 방향이 중점적으로 다뤄졌다.&lt;br /&gt;&lt;br /&gt;한화비전은 생성형 AI의 활용 범위가 클라우드 기반에서 엣지 AI(Edge AI) 디바이스까지 확대될 것으로 전망했다. 현재 생성형 AI는 VSaaS(Video Surveillance as a Service) 등 클라우드 기반 솔루션에서 자연어 명령을 통해 데이터를 분석하는 데 주로 활용되고 있다. 예를 들어, “어제 오후 3시쯤 빨간 옷을 입은 사람이 로비에서 만난 영상을 찾아줘”와 같은 요청을 입력하면, 저장된 데이터를 분석해 관련 장면을 제공하는 방식이다.&lt;br /&gt;&lt;br /&gt;앞으로는 엣지 AI 카메라가 독자적으로 상황을 이해하고 판단하는 수준까지 발전할 것으로 기대된다. 침입 감지의 경우 기존에는 지정된 구역의 출입만 단순히 인식했으나, 이제는 사람의 행동 패턴을 분석해 의도를 판단하고 실시간 알람을 제공할 수 있는 단계로 나아간다. 뛰어오는 행동, 배회, 담을 넘는 행위 등을 분석해 침입 가능성을 판단하는 식이다. 이러한 기술 발전은 영상보안 시스템이 단순 모니터링을 넘어 사용자를 대신해 실질적인 작업을 수행하는 AI 에이전트로 진화하고 있음을 보여준다.&lt;br /&gt;&lt;br /&gt;AI 생태계의 확장도 영상보안 시장의 주요 변화로 주목받고 있다. 과거 독자적인 기술 개발 경쟁이 중심이었다면, 이제는 개방형 생태계를 통해 다양한 AI 솔루션을 통합하고 이를 쉽게 활용할 수 있는 방식으로 전환되고 있다. 한화비전은 AI 박스와 같은 솔루션을 통해 기존 보안 카메라에 객체 감지 및 영상 분석 기능을 추가하는 방식을 제시했다. 이로써 기존 인프라를 유지하면서도 고급 AI 기능을 손쉽게 적용할 수 있다. 최근 출시된 4채널 AI PTRZ 멀티디렉셔널 카메라는 AI 앱 생태계를 통해 다양한 기능을 추가할 수 있으며, 고객은 이를 활용해 리테일 매장부터 스마트 팩토리까지 맞춤형 솔루션을 구축할 수 있다.&lt;br /&gt;&lt;br /&gt;클라우드 기술의 중요성도 한층 강조됐다. 대규모 데이터를 효율적으로 처리하고 분석하는 클라우드 기반 시스템은 도시, 리테일, 제조 등 다양한 산업에서 점점 더 필수적인 요소로 자리 잡고 있다. 한화비전은 데이터 기반 의사결정을 지원하는 클라우드 솔루션 ‘사이트마인드(SightMind)’를 고도화하며 이러한 흐름에 대응하고 있다. 리테일 분야에서는 고객의 이동 경로나 상품 관심도, 체류 시간 데이터를 분석해 매대 배치를 최적화하거나 구매 가능성이 높은 고객을 타겟으로 한 마케팅 전략을 세우는 데 활용할 수 있다.&lt;br /&gt;&lt;br /&gt;마지막으로, 투명성 확보는 영상보안 시장에서 가장 중요한 이슈 중 하나로 떠오르고 있다. SBOM(Software Bill of Materials)을 도입해 소프트웨어 공급망의 투명성을 높이고, 설계 초기 단계부터 개인정보보호를 고려하는 PbD(Privacy by Design) 철학을 실천하는 등 각 기업은 사이버 보안 강화와 고객 신뢰 확보에 총력을 기울이고 있다.&lt;br /&gt;&lt;br /&gt;한화비전 디바이스개발센터장 이상원 전무는 "투명성 확보는 기업의 생존을 위한 필수 전략"이라며 "이를 통해 고객의 신뢰를 얻고 지속 가능한 성장을 이어갈 수 있겠지만, 실패한 기업은 시장에서 도태될 위험에 직면할 수 있다"고 강조했다.</description>
-			<pubDate>Fri, 27 Dec 2024 07:10:42 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/204183</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/204183</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/204183.jpg</media:thumbnail>
-			<dc:creator>인터넷 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
