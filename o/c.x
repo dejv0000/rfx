@@ -13,6 +13,88 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>38조 규모 경기도 내년 예산안 통과...올해보다 2조 6011억원, 7.2% 늘어</title>
+      <link>https://www.chosun.com/national/regional/2024/12/30/G3MUVYNJWFAO3E5QBFCPD4NXAQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/12/30/G3MUVYNJWFAO3E5QBFCPD4NXAQ/</guid>
+      <dc:creator>수원=권상은 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 30 Dec 2024 05:10:51 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FO5CALL3MVLQ3GGJ3XIFERAEW4.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;30일 오전 경기도의회 본회의장에서 열린 제381회 임시회 제1차 본회의에 앞서 의원들이 제주항공 여객기 참사 희생자를 애도하는 묵념을 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기도의회는 30일 원포인트 임시회 본회의를 열어 38조7221억원 규모의 내년도 경기도 본예산안을 의결했다. 이는 경기도가 제출한 38조7081억원보다 140억원(0.03%), 올해 본예산 36조1210억원보다 2조6011억원(7.2%)이 늘어난 규모이다.&lt;br&gt;&lt;br&gt;내년 예산에는 기후위성, 기후보험, 기후펀드, 기후행동 기회소득 등 기후위기 대응 관련 4개 사업이 대부분 원안대로 반영되면서 김동연 도지사의 역점 사업도 탄력을 받게 됐다.&lt;br&gt;&lt;br&gt;신규 사업으로 예정된 기후위성 발사·운용(45억원), 기후보험 지원(34억원)은 원안대로 예산이 편성됐고 재생에너지 이익공유제(26억원) 사업은 5억원이 감액됐다. 또 올해 본예산(36억원)보다 464억원을 증액해 500억원으로 제출된 기후행동 기회소득 사업은 150억원이 감액돼 350억원으로 결정됐다.&lt;br&gt;&lt;br&gt;이 밖에 기회소득 사업도 장애인 기회소득(140억원), 예술인 기회소득(113억원), 농어민 기회소득(755억원)이 모두 원안대로 편성됐고, 체육인 기회소득(65억원)만 15억원가량 감액됐다. 지역화폐 발행 지원 예산은 올해 본예산 954억원보다 늘어난 1010억원으로 편성됐다. 경기 북부지역 교통불편 해소 등을 위한 북부 국지도·지방도 도로 확포장 공사와 북부 지방하천 정비사업 등 북부 SOC사업에 2040억원, 킨텍스 제3전시장 건립에 430억원 등이 확정됐다.&lt;br&gt;&lt;br&gt;김동연 지사는 “지금은 무너진 경제를 재건하고 민생을 회복하기 위해 재정의 역할이 어느 때보다 중요하다”며 “새해 예산은 1410만 도민 삶과 경제를 살릴 수 있도록 유례없이 신속하게 집행하는 것은 물론 조기 추경도 적극적으로 검토하겠다. 모든 역량을 총동원해 민생과 경제를 지켜내겠다”고 말했다.&lt;br&gt;&lt;br&gt;이날 경기도의회가 내년도 경기도 예산안을 의결하면서 준예산 사태는 피할 수 있게 됐다. 경기도의회는 지난 27일 원포인트 임시회에서 예산안을 처리할 예정이었으나 김종석 의회사무처장 해임 촉구 결의안이 부결되자 국민의힘 의원들이 안건 심의를 거부해 무산됐다. 그러나 김 처장이 29일 사직서를 제출하면서 다시 원포인트 임시회가 성사됐다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[속보]헌재 “6인 체제 선고 가능 여부, 논의에 속도 내는 중” </title>
+      <link>https://www.chosun.com/national/court_law/2024/12/30/W3CCITK5ERDEFCFJZ7GQNPIFXE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/30/W3CCITK5ERDEFCFJZ7GQNPIFXE/</guid>
+      <dc:creator>박강현 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 30 Dec 2024 05:08:30 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IBHADGB44VJK7JIFRFUQDDQ5HA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;30일 서울 서울 종로구 헌법재판소 모습./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;[속보]헌재 “6인 체제 선고 가능 여부, 논의에 속도 내는 중”&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>尹측 “서부지법에 체포영장 의견서·변호인 선임계 낼 것”</title>
+      <link>https://www.chosun.com/national/court_law/2024/12/30/YBJM6ZMMN5HVVK44JGFWOPX55U/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/30/YBJM6ZMMN5HVVK44JGFWOPX55U/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 30 Dec 2024 03:51:25 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7FQFT2DZ6NRXDUSZV2HHICT6VE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령 측 대리인인 윤갑근 변호사가 지난 27일 서울 종로구 헌법재판소 소심판정에서 열린 윤석열 대통령 탄핵 심판 첫 변론준비기일에 출석 한 뒤 취재진의 질문에 답하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘12·3 비상계엄’ 사태로 체포영장이 청구된 윤석열 대통령 측이 “법원에 의견서를 제출할 계획”이라는 입장을 30일 밝혔다. 윤 대통령을 수사하고 있는 고위공직자범죄수사처(공수처)는 이날 0시 윤 대통령에 대해 체포영장을 청구했다고 밝혔다.&lt;br&gt;&lt;br&gt;윤 대통령을 변호하는 윤갑근 변호사는 이날 언론공지를 통해 “금일 오후 1시 30분에서 2시 사이쯤 서울서부지법에 체포영장 청구에 대한 의견서를 제출할 예정”이라고 했다. 변호인 선임계도 함께 제출할 것으로 전해졌다.&lt;br&gt;&lt;br&gt;앞서 공수처는 이날 오전 10시 30분 “금일 0시 서울서부지법에 윤 대통령에 대한 체포영장을 청구했다”고 언론에 공지했다. 공수처는 세 차례에 걸친 출석요구에 윤 대통령이 불응한 점을 주요 체포 사유로 들었다고 한다. 윤 대통령은 세 차례 모두 출석요구서 수령을 거부했고, 변호인 선임계 제출과 일정 조율을 위한 연락도 하지 않았다고 한다.&lt;br&gt;&lt;br&gt;공수처는 마지막 출석 통보일인 지난 29일에도 윤 대통령이 불출석하자 체포영장 청구를 유력하게 검토해왔다. 피의자가 정당한 사유 없이 출석 요구에 불응하거나 불응할 우려가 있는 경우 수사기관은 법원으로부터 체포영장을 발부받아 강제로 신병을 확보할 수 있다. 현직 대통령에 대한 체포영장 청구는 헌정사상 처음이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title> “하늘에 있니 땅에 있니” “왜 전화가 안돼”...지워지지 않는 ‘1′</title>
+      <link>https://www.chosun.com/national/national_general/2024/12/30/GAEPKPBLG5HYVF4QE67OZCMGMY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/30/GAEPKPBLG5HYVF4QE67OZCMGMY/</guid>
+      <dc:creator>장윤 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 30 Dec 2024 04:41:58 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BNYAA2GFWZEJ7DKBM7XUOTREAA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;무안공항 사고기 탑승자 조선영씨가 어머니 장안숙씨와 마지막으로 나눈 카톡 내용./독자 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G7EDPYCAXBAO5A2J7J4QHUYYKQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;무안공항 사고기 탑승자 조선영씨가 어머니 장안숙씨와 마지막으로 나눈 카톡 내용./독자 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“하늘 위에 있니, 땅에 있니”&lt;br&gt;&lt;br&gt;아들 조건영(35)씨가 사고기에 탑승한 장안숙(59)씨는 지난 29일 오전 9시 24분 조씨에게 “하늘 위에 있어? 땅에 있어?”라는 메시지를 보냈다. 사고기는 오전 8시 30분에 도착할 예정이었다. 장씨의 휴대전화에 조씨는 ‘작은 왕자님’으로 저장되어 있다. 정씨는 귀국 전날인 28일 “컨디션 괜찮냐” “구경 안 나갔냐”는 어머니의 메시지에 곧바로 “한숨 잤더니 컨디션이 좋다” “밥 먹으러 돌아다니는 중”이라고 답하는 살가운 아들이었다.&lt;br&gt;&lt;br&gt;장씨는 지난 29일 무안 공항에서 “내가 60살 먹으면 파티하자더니 어디갔어, 내 새끼”라며 가슴을 붙잡고 울었다. 장씨는 “왜 엄마 버리고 먼저 갔니. 손 한번 더 잡아 줄 걸. 얼마나 뜨겁고 아팠을까”라며 아들과 마지막으로 나눈 메시지를 거듭 들여다봤다. 광주에 거주하는 20대 A씨는 사고 직전 여객기 안에 있던 어머니와 카톡을 주고받았다고 한다. A씨의 어머니는 오전 9시에 “새가 날개에 껴서 착륙 못 하는 중”이라며 상황을 전했다. A씨가 “언제부터 그랬느냐”고 되묻자 어머니는 오전 9시 1분 “방금, 유언해야 하나”라며 마지막 메시지를 보냈다. A씨는 곧바로 “어쩐대”라며 걱정하는 메시지를 보냈고 오전 9시37분 “왜 전화가 안돼”냐는 메시지를 다시 보냈지만 답을 받을 수 없었다.&lt;br&gt;&lt;br&gt;김경학(61)씨는 “29일 오전 9시 48분 ‘OO(딸 이름) 도착했는가?’라는 톡을 남겼지만 답이 없다. 숫자 1이 사라지지 않는다”고 했다. 김씨는 “연락이 없어서 딸에게 전화를 수십 통 했는데 받지 않았다”며 “이후 속보가 떴고 가슴이 무너졌다”고 했다. 김씨의 휴대전화에 조씨는 ‘OO공주’로 저장돼 있다. 김씨는 “딸이 어제 비행기를 타고 간다면서 연락했다”면서 “우리 집사람한테는 비행기를 타기 전 공항에서 찍은 사진을 보내주기도 했다”고 말했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GGXK3KX5YBCTRA6BD6GL2CYMM4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;무안항공 사고기 탑승자 강성미씨가 가족 단체카톡방에 남긴 메시지./독자 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3SDFNZ3RGRG7PAQZJ62MDCWULY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;무안항공 사고기 탑승자 강성미씨가 가족 단체카톡방에 남긴 메시지./독자 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;강성훈(60)씨는 동생 강성미(51)씨가 여행 직전 가족 단체카톡방에 “어머니 옷을 사드렸다”며 자랑한 메시지를 보며 눈물지었다. 동생 강씨는 “마실 다닐 때 입고 다니라고 샀다, 엄마가 옷이 예쁘다며 만족하해셨다”고 했다. 강성미씨는 다섯 남매의 막냇동생으로, 집안의 궂은일을 도맡아 했다고 한다. 오빠 강씨는 “맏아들인 내게는 딸같은 동생”이라며 “여행을 가던 당일에도 동생이 ‘다음에는 오빠도 같이 해외여행을 가자’며 전화가 왔다”며 눈물을 훔쳤다.&lt;br&gt;&lt;br&gt;1년간의 암 투병을 이겨내고 건강이 좋아져 친구들과 태국으로 여행을 떠난 50대 어머니는 태국에 도착한 후에도 “아들 필요한 거 있니?”라는 메시지를 보내며 한국에 남은 남매를 살뜰히 챙겼다. 어머니 김씨는 자녀들에게 집에 도착한 ‘택배 정리’ 등을 부탁하기도 했다. 아들 김모(22)씨와 그의 동생(15)은 “어머니가 오랜 투병생활로 고생하셨고, 여행사에서 ‘크리스마스 방콕 여행 패키지’가 출시돼 친구들과 여행을 떠났다”면서 “여행 중에도 틈틈이 안부 등을 나눴었는데, 갑작스럽게 들려오는 사고 소식이 믿어지지 않는다”고 말했다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/YVNQ2VTMRNORZK55DSVGQXGI2I.jpg?width=8256&amp;height=5504&amp;auth=fb07b0f136b027459c5463a14370d2ff176eff914a677169ad3053adfe50d7d6&amp;smart=true" type="image/jpeg" height="5504" width="8256">
+        <media:description type="plain">[무안=뉴시스] 이영환 기자 = 30일 오전 무안국제공항에서 제주항공 여객기 사고 탑승객 유가족들이 눈물을 흘리고 있다. (공동취재) 2024.12.30. photo@newsis.com</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>대리기사와 다툰 뒤 직접 운전대 잡은 50대 ‘벌금형’</title>
+      <link>https://www.chosun.com/national/court_law/2024/12/30/UAUR4AZHEVHJTCNFJEFMWYSM74/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/30/UAUR4AZHEVHJTCNFJEFMWYSM74/</guid>
+      <dc:creator>인천=이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 30 Dec 2024 04:57:49 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DIFCM6SLNAHDVQCVYEALRBEWNU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원 로고./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대리 운전기사와 다툰 뒤, 술에 취한 상태에서 운전대를 잡은 50대 남성에게 벌금형이 선고됐다.&lt;br&gt;&lt;br&gt;인천지법 형사 17단독 김은혜 판사는 도로교통법상 음주운전 혐의로 기소된 A(51)씨에 대해 벌금 1000만원을 선고했다고 30일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 2022년 8월 27일 오후 10시 39분쯤 인천시 연수구의 한 도로에서 술에 취한 채 승용차를 200m 정도 운전한 혐의로 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;당시 A씨는 시비가 붙은 대리 운전기사 B씨가 차량을 멈추고 내리자 직접 운전해 사무실까지 이동한 것으로 파악됐다. 당시 A씨의 혈중알코올농도는 면허 취소 수치인 0.159%인 것으로 조사됐다.&lt;br&gt;&lt;br&gt;B씨는 경찰 조사에서 “목적지가 도로로 (내비게이션에) 표시돼 뒤에 앉은 피고인을 깨웠더니, 피고인이 화를 내며 ‘좌회전 하라’고 했다”며 “’유턴만 되는 곳이라 좌회전이 안 되는 곳’이라고 말했더니 욕을 하며 주먹을 쥐면서 나를 때리려고 해 도중에 내리게 됐다”고 했다.&lt;br&gt;&lt;br&gt;이어 “트렁크에 있던 전동휠을 꺼내려 했는데, 꺼내기 전에 피고인이 트렁크 문이 열린 채로 출발해 버렸다”며 “차량을 뒤쫓아 사무실까지 뛰어갔더니 욕을 하면서 ‘내 사유재산에 손대면 알아서 하라’고 해 경찰에 신고했다”고 했다.&lt;br&gt;&lt;br&gt;김 판사는 “이 사건 범행 전반의 경위 등을 비추어 볼 때 죄질이 좋지 않고, 과거 같은 범죄로 벌금형을 선고받기도 했다”며 “피고인이 잘못을 반성하지 않는 점, 음주운전을 한 거리가 짧은 점 등을 고려했다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>참사 키운 콘크리트 둔덕…美규정은 “단단한 구조물 안돼”</title>
+      <link>https://www.chosun.com/national/national_general/2024/12/30/4VNPYNBWSVFEXP2TFP5DYNNGHI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/30/4VNPYNBWSVFEXP2TFP5DYNNGHI/</guid>
+      <dc:creator>무안=박정훈 기자, 무안=안준현 기자, 무안=김보경 기자, 무안=김지혜 기자, 무안=현정민 기자, 무안=이민경 기자, 무안=한영원 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 30 Dec 2024 03:33:55 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PM6GVI24O5MP7KJVNVIEOWX5LY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;30일 전남 무안군 무안국제공항 활주로 인근의 방위각 시설(로컬라이저)이 전날 제주항공 여객기와의 충돌 여파로 파손돼 있다. 방위각 시설은 공항의 활주로 진입을 돕는 역할을 하는 일종의 안테나로, 흙으로 된 둔덕 상부에 있는 콘크리트 기초 위에 안테나가 서 있는 구조다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;181명 중 179명의 목숨을 앗아가면서 1997년 229명이 숨진 대한항공 괌 추락 사고에 이어 27년만의 대형 항공 참사로 기록된 무안공항 참사의 피해규모가 이토록 커진 데에는 다양한 원인이 있지만 그중에서도 단단한 콘크리트 구조의 로컬라이저(착륙 유도 안전시설)를 무시할 수 없다는 분석이 나온다. &lt;br&gt;&lt;br&gt;국토교통부는 여수공항 등을 예로 들며 구조물처럼 둔덕에 설치된 형태도 있다며 정형화된 로컬라이저 형태는 없다는 식으로 해명했지만, 미국연방항공청 기준에 따르면 활주로 너머에 설치하는 로컬라이저 안테나를 위해 부러지지 않는 탑(tower)을 쌓아선 안 되는 것으로 파악됐다.&lt;br&gt;&lt;br&gt;미국연방항공청(FAA)에 따르면 항행안전구역에서 접근지시등과 로컬라이저 안테나를 위해 부러지지 않는 탑(tower)을 쌓아선 안 된다. 부러지지 않는 탑은 항공기에 심각한 위험으로 작용하기에 로컬라이저 안테나를 위한 시설을 설치하더라도 견고한 콘크리트가 아닌 부러지거나 저항이 작은 구조물을 설치해야 한다는 것이다.&lt;br&gt;&lt;br&gt;또 미 국방부 UFC(통합시설기준)는 “(로컬라이즈 등) 항법보조시설(NAVAID)을 포함한 활주로 근처에 위치한 모든 물체는 항공기 운항에 위험을 초래할 수 있다”며 “항법보조시설이 특정 기능을 수행하기 위해 특정 위치에 있어야 하는 경우를 제외하고 그 위치를 제한할 필요성이 있음을 인정하고 있으며 이 시설은 필요시 활주로 등 항공기의 비행을 안전하게 보장하기 위해 정의된 구역에 위치할 수 있다”고 명시하고 있다.&lt;br&gt;&lt;br&gt;또 활주로 주변 보호구역에 위치한 항법보조시설은 “항공기가 충돌할 경우 피해를 최소화할 수 있도록 파손 가능한(frangible) 구조로 지지되어야 한다”라고 규정하고 있다. 활주로 인근에 단단한 구조물이 있어선 안 된다는 것이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GSFBENFEARLOTKNTJ5NB77JUII.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;주종완 국토교통부 항공정책실장이 30일 정부세종청사에서 무안 제주항공 여객기 참사 브리핑을 하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;로컬라이저 둔덕의 위치 또한 활주로로부터 충분한 안전거리를 확보하지 못한 것 아니냐는 지적이 나온다. 국제민간항공기구(ICAO) 부칙 10조에서도 “로컬라이저는 활주로 시단으로부터 약 300m 지점에 설치하여아 한다”고 적혀 있다. 미국 연방항공국(FAA)도 공항에 설치되는 로컬라이저에 대해 활주로 시단과 로컬라이저 안테나까지의 최적 거리가 305m여야 하며, 최소 거리는 91.4m에서 183m까지를 기준으로 제시한다. 300m 정도의 거리가 권장되고 있다는 것이다. 그러나 사고가 발생한 무안국제공항의 로컬라이저는 활주로 끝에서 약 251m에 불과한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;무안공항의 로컬라이저 위치는 국내 다른 주요 공항과 비교해서도 유독 짧다는 분석이 나온다. 본지가 국내 주요 공항들의 활주로 끝과 로컬라이저 사이의 거리를 비교한 결과, 인천공항은 활주로 4개에 설치된 로컬라이저와 활주로 끝 간 거리가 290~300m 정도, 김포공항은 310여m로 분석됐다. 제주와 김해, 청주, 대구, 양양 등 그 외 국제공항도 모두 300m 이상으로 기록됐지만 무안공항만은 유독 안전거리가 짧았다.&lt;br&gt;&lt;br&gt;윤석준 세종대 기계항공우주과 전 교수는 “로컬라이저 때문에 사고가 발생했다고 할 순 없다”면서도 “활주로가 더 길었다면 미끄러지면서 속도가 보다 줄어들 수도 있었을 테니 피해가 커지게 했다고는 볼 수 있다”고 했다. 또 다른 전문가는 “로컬라이저 구조물이 콘크리트로 된 것이 (참사를 키운) 문제인 건 맞는다”고 했다.&lt;br&gt;&lt;br&gt;한편 본인을 ‘한국 무안공항에 착륙한 항공기(보잉737-800기)와 같은 기체를 모는 기장’이라고 밝힌 우크라이나 파일럿 유튜버 데니스 다비도브(Denys Davydov)도 무안공항 참사의 원인으로 로컬라이저 구조를 언급했다. 그는 “기체 상황 관련 요소도 파악해야 하지만 기체가 로컬라이저가 마련된 콘크리트 벽에 충돌해 참극이 발생한 사실에 주목해야 한다”며 “(사고 당시) 영상이 많이 흔들렸지만 날개 하단이 깔끔한 걸 보면 플랩(flap·날개 뒤에 설치된, 중력과 같은 방향의 힘을 유도하는 장치)이 펼쳐지지 않은 걸로 보인다”고 했다.&lt;br&gt;&lt;br&gt;이어 “그 상태로 비행기가 활주로를 미끄러지다가 로컬라이저 안테나와 충돌한 걸로 보이는데, 이 안테나가 이렇게 설치된 영문을 모르겠다”고도 했다. 공항 활주로 끝(threshold•한계점)에 위치한 로컬라이저는 통상 지상(ground level)에 안테나를 설치하는데 무안공항처럼 견고한 형태로 짓지는 않는다는 것이다. 해당 영상은 게시 9시간 만에 조회수 130만회를 넘겼다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>국토부 “무안공항 사고 여객기 왼쪽 엔진 이상 여부도 확인 대상”</title>
+      <link>https://www.chosun.com/national/national_general/2024/12/30/HMJGRSKFNBEAFLUEAJXAPUGQRA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/30/HMJGRSKFNBEAFLUEAJXAPUGQRA/</guid>
+      <dc:creator>무안=진창일 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 30 Dec 2024 04:11:24 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RGREIFO3KNL5TMLT4P45NJC4FA.JPG"&gt;&lt;figcaption&gt;&lt;small&gt; 30일 오전 전남 무안국제공항에 콘크리트 재질 방위각 시설이 전날 제주항공 여객기와의 충돌 여파로 파손돼 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;179명의 사망자를 낸 ‘무안공항 여객기 참사’와 관련해 국토교통부가 육안으로 이상현상이 목격된 오른쪽 엔진뿐만 아니라 왼쪽 엔진의 이상 여부에 대해서도 조사한다.&lt;br&gt;&lt;br&gt;국토교통부와 국토부 산하 부산지방항공청은 30일 전남 무안군 무안국제공항에서 브리핑을 열고 “사고 기체에서 고장 난 엔진이 (오른쪽) 한 곳인지 양쪽인지는 확인해야 할 사항”이라고 밝혔다.&lt;br&gt;&lt;br&gt;지난 29일 오전 9시 3분쯤 무안공항에서 태국 방콕발 제주항공 7C2216편 여객기가 활주로에 착륙하던 중 활주로 외벽에 충돌해 179명이 사망했다.&lt;br&gt;&lt;br&gt;사고 여객기가 무안공항에 착륙하려고 활주로에 접근하던 모습이 담긴 영상에서는 여객기 오른쪽 엔진에서 폭발과 함께 연기가 뿜어져 나오는 모습이 확인됐다. 왼쪽 엔진은 육안상 문제가 두드러지지 않았던 모습이었다.&lt;br&gt;&lt;br&gt;국토부는 참사 이후 “한쪽 엔진이 꺼져도 남은 엔진만으로도 여객기 운항이 가능하다”고 말했다. 이상현상이 확인된 오른쪽 엔진뿐만 아니라 왼쪽 엔진을 비롯해 제기된 기체 결함설에 대한 답변으로 이같이 밝힌 것이다.&lt;br&gt;&lt;br&gt;국토부 등은 여객기가 바퀴를 내리지 못하고 몸통으로 착륙할 당시 마찰계수를 높이고 폭발로 인한 화염을 냉각하기 위해 활주로 바닥에 뿌리는 이른바 ‘폼’이라는 물질을 살포하지 않아 사고를 키웠지 않느냐는 주장에 대해서도 해명했다.&lt;br&gt;&lt;br&gt;국토부는 “폼이라는 물질은 여객기 비상착륙에 대비해 뿌릴 경우 오히려 기체가 미끄러지는 경우가 있고, 환경오염 등 문제 때문에 지금은 사용하지 않는다”고 했다.&lt;br&gt;&lt;br&gt;무안공항 관제탑이 무안공항 소방대에 출동을 요청한 시점은 사고 당일 오전 9시 2분 34초였던 것으로 확인됐다. 실제 출동은 17초 뒤인 오전 9시 2분 55초에 이뤄졌고 소방차 3대가 사고 현장으로 갔다.&lt;br&gt;&lt;br&gt;국토부는 “관제탑에서 출동을 요청하기 이전 시점에 여객기 이상정보를 미리 전달했기 때문에 빠른 시간 내에 소방대 출동이 이뤄진 것”이라고 설명했다.&lt;br&gt;&lt;br&gt;국토부는 바람의 영향에 따른 여객기 착륙 규정에 대해서도 설명했다. 사고 당시 여객기는 남쪽에서 북쪽방향인 01번 활주로에 착륙하려 했지만, 실패한 뒤 반대로 북쪽에서 남쪽 방향인 19번 활주로로 동체착륙을 시도했다.&lt;br&gt;&lt;br&gt;기상청에 따르면 당시 무안공항은 남동쪽에서 북서쪽으로 향하는 ‘남동풍’이 불고 있었다고 한다.&lt;br&gt;&lt;br&gt;국토부는 “사고 당시 무안공항에는 5노트(초속 2.52m) 속도의 바람이 불고 있었다”며 “3노트 이하 바람이면 남과 북 어느 쪽 방향에서 착륙해도 문제 없지만, 3노트(초속 1.54m)를 넘어서면 맞바람을 맞으며 착륙하는 것이 규정”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/RGREIFO3KNL5TMLT4P45NJC4FA.JPG?width=5871&amp;height=3192&amp;auth=329582d1f5d9403b52e147f0ab12b7f212c35e6d97829dad5d1c43cf50821497&amp;smart=true" type="image/jpeg" height="3192" width="5871">
+        <media:description type="plain">(무안=뉴스1) 김성진 기자 = 30일 오전 전남 무안국제공항에 콘크리트 재질 방위각 시설이 전날 제주항공 여객기와의 충돌 여파로 파손돼 있다.
+
+국토교통부는 제주항공 여객기 사고의 피해 규모를 키운 것으로 지적되는 활주로 인근의 콘크리트 재질 둔덕과 관련해 "다른 국내 공항에도 설치된 것"이라고 설명했다. 2024.12.30/뉴스1</media:description>
+        <media:credit role="author" scheme="urn:ebu">(무안=뉴스1) 김성진 기자</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>‘5명 사망’ 양양 헬기 추락 원인은 “꼬리 회전날개 기능 이상”</title>
+      <link>https://www.chosun.com/national/incident/2024/12/30/DWARC2AWJBGKROJFQ44F2I7DLM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/12/30/DWARC2AWJBGKROJFQ44F2I7DLM/</guid>
+      <dc:creator>양양=정성원 기자</dc:creator>
+      <description>지난 2022년 강원도 양양군에서 산림 계도 방송을 위해 비행 중이던 헬기가 추락해 기장 등 탑승자 5명 전원이 숨진 사고의 원인이 기체 불량에 따른 것으로 확인됐다.30일 국토교통부 산하 항공철도사고조사위원회의 항공사고조사보고서에 따르면 사고 헬기는 이륙 후 76분 정도 산불 예방을 위한 안내방송 등 계도 비행 중 사고지점에 도달해 속도가 줄어들고 오른쪽으로 4회 정도 회전하면서 추락했다.</description>
+      <pubDate>Mon, 30 Dec 2024 03:25:19 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4KX3E6PO4VCSTN7ZBOAL4GVJCY.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;지난 2022년 11월 강원 양양군 현북면 어성전리 명주사 인근 야산에서 S-58T 기종 헬기가 추락하는 사고가 발생, 소방 당국이 구조 작업을 벌이고 있다.
+&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 2022년 강원도 양양군에서 산림 계도 방송을 위해 비행 중이던 헬기가 추락해 기장 등 탑승자 5명이 전원 숨진 사고의 원인이 기체 불량으로 확인됐다.&lt;br&gt;&lt;br&gt;30일 국토교통부 산하 항공철도사고조사위원회의 항공사고조사보고서에 따르면, 사고 헬기는 이륙 후 76분 정도 산불 예방을 위한 안내방송 등 계도 비행 도중 사고지점에서 속도가 줄어들고 오른쪽으로 4회 정도 회전하면서 추락했다.&lt;br&gt;&lt;br&gt;항공철도사고조사위원회는 추락 전 헬기가 비정상적으로 우측으로 회전한 현상은 헬리콥터 비행 원리상 회전날개 계통의 이상으로 인한 전형적인 현상으로 판단, 사고 원인으로 꼬리회전날개의 회전 기능 또는 날개 각 조절 기능 이상을 지목했다.&lt;br&gt;&lt;br&gt;미국 국가교통안전위원회(NTSB)에 의뢰한 음향 스펙트럼 연구에서도 “꼬리 회전날개는 주 회전날개로부터 동력이 연결돼 횡적 흐름을 상쇄하는 기능을 하는데 추락에 앞서 꼬리 회전날개의 기능이 멈춘 것으로 보인다”는 결과를 받았다.&lt;br&gt;&lt;br&gt;조사위는 엔진 잔해 분석 결과 엔진과 기계적 작동엔 문제가 없었고, 사용된 연료 역시 규격에 적합했다고 밝혔다. 기장의 조정 자격이나 건강상태에서도 이상 요소가 발견되지 않았고, 사고 헬기는 규정된 승인 절차에 따라 정비가 이뤄진 것으로 파악됐다.&lt;br&gt;&lt;br&gt;조사위는 이 결과를 토대로 사고 헬기 업체와 서울지방항공청, 강원도에 관리 감독 강화 등을 권고 또는 요청했다.&lt;br&gt;&lt;br&gt;이 사고는 2022년 11월 27일 오전 10시 49분 강원 양양군 현북면 어성전리 명주사 인근 야산에서 발생했다. 사고 헬기는 속초시와 양양·고성군이 산불 계도 방송과 진화용으로 운용하던 S-58T헬기로, 산불 계도 방송을 하던 중 추락했다. 사고로 헬기에 타고 있던 기장 A(71)씨와 정비사 B(54)씨 등 5명이 숨졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>사고 현장 백팩 안엔 태국 기념품 빼곡... 피묻은 구명조끼 봉투도</title>
       <link>https://www.chosun.com/national/national_general/2024/12/30/YUDHKKB2TZEN5BHSUKSC4TEV6A/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/30/YUDHKKB2TZEN5BHSUKSC4TEV6A/</guid>
@@ -904,88 +986,6 @@
       <description>29일 사고가 발생한 무안~방콕 노선은 제주항공이 이달 8일부터 운항이 시작된 신규 노선이다.</description>
       <pubDate>Sun, 29 Dec 2024 04:03:17 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VRRLOBIPDBLQTOAVUFVFLEQI3A.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;29일 전남 무안국제공항에서 승객과 승무원 181명이 탑승한 여객기가 추락해 불길이 치솟고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;29일 사고가 발생한 무안~방콕 노선은 제주항공이 이달 8일부터 운항이 시작된 신규 노선이다. 이는 제주항공이 국토교통부에 한시적 겨울 정기노선을 신청한 결과로, 이에 따라 무안공항은 17년만에 국제선 정기노선을 운영했다. 항공업계에서는 무리하게 정기 국제노선을 도입했다가 사고가 난 것 아니냐는 비판도 나온다.&lt;br&gt;&lt;br&gt;항공업계에 따르면 제주항공은 이번에 사고가 발생한 ‘7C 2216′편과 ‘7C 2215′편 두 개 여객기로 방콕과 무안을 오갔다. 서남권 관광객 유입과 늘어나는 해외 여행 수요를 흡수하려는 취지였다. 한 항공업계 관계자는 “무안공항은 국내선 운영이 많지도 않았던 곳”이라며 “갑자기 노선 일정이 빡빡하게 들어찬 것”이라고 했다.&lt;br&gt;&lt;br&gt;이번 사고에선 다소 짧은 무안공항 활주로도 영향을 줬다는 분석이 나온다. 무안공항의 활주로 길이는 약 2.8㎞로, 인천공항(3.7㎞), 김포공항(3.6㎞) 등과 비교해 800~900m 짧다. 활주로 길이가 길면 속도를 제어할 수 있는 여유가 더 확보되는 셈이지만, 그렇지 못했다는 것이다.&lt;br&gt;&lt;br&gt;사고가 난 기체는 미국 보잉사에서 제작한 보잉737-800기종으로 2009년 제작됐다. 제주항공은 중고 기체를 2017년 2월 임차 방식으로 도입해서 운영해 왔다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“속도 제어 못한 ‘동체 착륙’, 짧은  활주로 등이 사고 키운 듯”</title>
-      <link>https://www.chosun.com/national/transport-environment/2024/12/29/V22PR43ZKFFTJKKK64RRQDX43M/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2024/12/29/V22PR43ZKFFTJKKK64RRQDX43M/</guid>
-      <dc:creator>김아사 기자</dc:creator>
-      <description>29일 무안공항 활주로에서 사고가 난 제주항공 항공기는 바퀴를 통해 착륙하는 방식이 아니라, 항공기의 기체를 통해 착륙하는 ‘동체 착륙’을 시도했다. 동체 착륙은 항공기의 비상 상황 발생 시 이뤄지는 착륙법이기 때문으로 ‘추락’으로 보기는 어렵다는 게 전문가들의 견해다. 동체 착륙을 시도했음에도 사고가 난 이유에 대해 고현일 한국공항공사 항행장비센터 센터장은 “동체 착륙 시 속도 제어가 되지 않은 것 같다”고 했다.</description>
-      <pubDate>Sun, 29 Dec 2024 03:34:27 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Q7NO5DIZSNLXZCUFJWAFZ6LQY4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;29일 오전 전남 무안국제공항에서 착륙 중이던 항공기가 활주로를 이탈해 울타리 외벽을 충돌했다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;29일 무안공항 활주로에서 사고가 난 제주항공 항공기는 바퀴를 통해 착륙하는 방식이 아니라, 항공기의 기체를 통해 착륙하는 ‘동체 착륙’을 시도했다. 동체 착륙은 항공기의 비상 상황 발생 시 이뤄지는 착륙법이기 때문에 ‘추락’으로 보기는 어렵다는 게 전문가들의 견해다.&lt;br&gt;&lt;br&gt;동체 착륙을 시도했음에도 사고가 난 이유에 대해 고현일 한국공항공사 항행장비센터 센터장은 “동체 착륙 시 속도 제어가 되지 않은 것 같다”고 했다. 기체 결함 등을 이유로 날개 접힘 등이 제대로 이뤄지지 않는 탓에 속도가 제대로 줄지 않았다는 것이다. 실제 동체 착륙을 시도한 항공기는 활주로 끝단에 이를 때까지 속도를 줄이지 못하고, 공항 끝단 구조물과 충격 후 동체가 파손돼 화재가 발생한 것으로 추정되고 있다.&lt;br&gt;&lt;br&gt;다소 짧은 무안공항 활주로도 사고에 영향을 줬다는 분석이 나온다. 무안공항의 활주로 길이는 약 2.8㎞로, 인천공항(3.7㎞), 김포공항(3.6㎞) 등과 비교해 800~900m 짧다. 활주로 길이가 길면 속도를 제어할 수 있는 여유가 더 확보되는 셈이지만, 그렇지 못했다는 것이다.&lt;br&gt;&lt;br&gt;착륙을 돕는 랜딩 장치 외 기체의 다른 장치에 문제가 생겼을 가능성도 크다. 착륙 전 항공기의 우측 날개 쪽에서 불과 연기를 내뿜는 영상이 공개되기도 했다. 이에 대해 제주항공 측은 조류 충돌 가능성을 제기하고 있다.&lt;br&gt;&lt;br&gt;이번 사고가 난 제주항공 여객기는 미국 보잉사가 제작한 보잉737-800모델이다. 사고 기종은 189좌석을 갖춘 737-8AS로 2009년 8월 제작됐다. 비행기 기령은 15년으로, 비교적 신형에 속한다. 여객기 노후화로 인한 사고 가능성은 낮다는 게 전문가들의 공통된 견해다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[속보] 소방당국 “승객 동체 밖으로 쏟아져 다수 사망”</title>
-      <link>https://www.chosun.com/national/incident/2024/12/29/KNZ5XYZNHJBBVFA5MHIGVFU254/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/12/29/KNZ5XYZNHJBBVFA5MHIGVFU254/</guid>
-      <dc:creator>무안=김현수 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 29 Dec 2024 03:56:04 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G3QZXW6H4PLJZABA7V5GKTII7M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;29일 오전 전남 무안국제공항 활주로에 여객기가 추락해 사고 수습이 이뤄지고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>탑승객, 가족과 카톡에 “새가 날개에 꼈어... 유언 해야 하나”</title>
-      <link>https://www.chosun.com/national/national_general/2024/12/29/TXLXH45SSZFBXLFYRJ5KVBIV7A/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/29/TXLXH45SSZFBXLFYRJ5KVBIV7A/</guid>
-      <dc:creator>이가영 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 29 Dec 2024 02:51:41 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EJ6TH2ZXNJEELOHV6QCG3WMO34.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;29일 전남 무안국제공항 활주로에서 충돌 사고가 난 여객기에 탄 탑승객이 가족에게 보낸 메시지. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전남 무안국제공항 활주로에 착륙 중 여객기가 충돌‧화재가 난 원인을 두고 버드스트라이크(조류 충돌) 가능성이 거론된다.&lt;br&gt;&lt;br&gt;뉴스1에 따르면 한 사고 여객기 탑승객은 29일 오전 9시쯤 가족에게 “새가 날개에 껴서 착륙을 못하는 중”이라는 문자메시지를 보냈다. 이어 ‘언제부터 그랬느냐’는 물음에 “방금. 유언해야 하나”라고 답한 뒤 연락이 끊겼다. 무안공항 주변은 논과 습지가 많아 조류 활동이 활발한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;이날 오전 무안공항 인근 바닷가에서 낚시하던 정모(50)씨는 연합뉴스에 “사고 여객기가 활주로에 착륙하려고 하강하던 중 반대편에서 날아온 새 무리와 정면으로 충돌했다”며 “일부 새가 엔진으로 빨려 들어간 듯 2~3차례 ‘펑’하는 소리와 함께 오른쪽 엔진에서 불길이 보였다”고 말했다. 여객기가 다시 상승했지만 높이 오르지는 못했다고 정씨는 전했다.&lt;br&gt;&lt;br&gt;사고 후 구조된 승무원은 소방본부에 “한쪽 엔진에서 연기가 난 뒤 ‘펑’ 소리와 함께 폭발했다”고 진술한 것으로 확인됐다. 이 생존자는 목포의 한 병원으로 옮겨져 치료를 받고 있다.&lt;br&gt;&lt;br&gt;또 다른 사고 목격자는 SBS에 “비행기가 낮게 날더라. 후미 쪽에서 불꽃이 보였고 ‘쾅’ 소리가 들리더니 무안 공항을 지나쳐서 다시 한 바퀴를 돌고 내려오다 추락한 것 같다”고 했다.&lt;br&gt;&lt;br&gt;사고 직전 촬영된 영상에서는 비행기 오른쪽 엔진 부분에서 화염이 일어나는 모습이 포착되기도 했다. 지상으로 내려온 여객기는 속도 제어를 하지 못하고 빠르게 활주로를 달리다 담을 들이받고 폭발했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KVTHVVUJNZB6XPLQ2CA5NJVLPA.gif"&gt;&lt;figcaption&gt;&lt;small&gt;29일 전남 무안국제공항에서 충돌 사고가 난 비행기가 착륙하기 전 오른쪽 엔진에서 화염이 발생한 모습이 포착됐다. /X(옛 트위터)@tepalzoa&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;여객기는 조류 충돌로 엔진과 유압계통에 고장이 발생했고, 그 여파로 랜딩기어가 작동하지 않자 동체 착륙을 시도하다 속도를 줄이지 못한 채 활주로 담벼락에 충돌하며 폭발과 화재가 발생한 것으로 추정된다.&lt;br&gt;&lt;br&gt;소방청에 따르면, 이날 오전 9시 3분쯤 태국 방콕발 제주항공 7C2216편 항공기가 무안국제공항 활주로로 착륙을 시도하던 중 충돌했다는 신고가 접수됐다. 사고가 난 기종은 B737-800으로, 승객 175명과 승무원 6명 등 총 181명이 타고 있었다. 한국인 승객이 173명, 나머지 2명은 태국인으로 전해졌다.&lt;br&gt;&lt;br&gt;항공기 기체는 꼬리 칸을 제외하면 형체가 남지 않을 정도로 불에 탔다. 소방, 항공 당국은 인명 구조 및 사상자 확인 작업과 함께 블랙박스 데이터를 토대로 활주로 주변 조류 흔적을 분석해 정확한 원인을 조사할 계획이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>무안공항 사고 목격자 “여객기 착륙 중 새 떼 충돌 후 엔진서 화재”</title>
-      <link>https://www.chosun.com/national/national_general/2024/12/29/HS3SH7WX4VFJFHFQ4M32AFBAWY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/29/HS3SH7WX4VFJFHFQ4M32AFBAWY/</guid>
-      <dc:creator>무안=조홍복 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 29 Dec 2024 02:51:39 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/T7RKI4NPXFP5LLAKPICZ4HNTCE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;29일 오전 9시 3분께 전남 무안국제공항에서 태국 방콕발 제주항공 7C2216편이 착륙 중 활주로를 이탈해 폭발해 소방대원들이 구조 작업을 벌이고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;29일 전남 무안국제공항 활주로 착륙 중 충돌·화재 사고가 발생한 여객기가 새 떼와 충돌 후 엔진에 이상이 생긴 것으로 보였다는 목격담이 나왔다.&lt;br&gt;&lt;br&gt;이날 오전 무안공항 인근 바닷가에서 낚시하던 정모(50)씨는 사고 여객기는 활주로에 착륙하려고 하강하던 중 반대편에서 날아온 새 무리와 정면으로 충돌했다고 연합뉴스 인터뷰에서 말했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EMDKTMMGEBCCRH7L3XRUIA4TFQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;29일 오전 사고가 발생한 여객기가 전남 무안국제공항 활주로에 착륙하기 전 오른쪽 엔진에서 불길이 일어나는 모습이 포착됐다. /이근영씨 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;일부 새가 엔진으로 빨려 들어간 듯 2∼3차례 ‘펑’ 하는 소리와 함께 오른쪽 엔진에서 불길이 보였다고 정씨는 설명했다. 여객기는 다시 상승했지만 높이 오르지 못했다고도 전했다.&lt;br&gt;&lt;br&gt;여객기가 저공비행으로 선회해 애초 착륙하려던 방향의 반대편에서 다시 착륙을 시도했다는 것으로 정씨는 추정했다. 정씨는 “착륙 과정에서 여객기가 머리 위를 지나갔는데 맨눈으로 봤을 때 랜딩기어(바퀴)는 내려와 있는 상태였다”고 말했다.&lt;br&gt;&lt;br&gt;지상으로 내려온 여객기는 속도 제어를 하지 못하고 빠르게 활주로를 달리다 담을 들이받고 폭발했다. 여객기는 승객 175명과 승무원 6명 등 181명이 탑승 중이었고 현재까지 3명이 구조됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/JHTZ6SRWKVCUXCS6FWKFMAMY7M.JPG?width=1160&amp;height=652&amp;auth=817dcd0e177ad72ab2e4f8c6042d4e549b4521e0bf9a9fc7dbf23f80d7e52e82&amp;smart=true" type="image/jpeg" height="652" width="1160">
-        <media:description type="plain">29일 전남 무안국제공항에서 승객과 승무원 181명이 탑승한 여객기가 추락해 불길이 치솟고 있다. /무안소방서 제공=뉴스1</media:description>
-        <media:credit role="author" scheme="urn:ebu">무안소방서 제공=뉴스1</media:credit>
-      </media:content>
-    </item>
-    <item>
-      <title>제주항공기, 동체 끌고 활주로 달리다 외벽 ‘쾅’... 무안공항 사고 상황</title>
-      <link>https://www.chosun.com/national/national_general/2024/12/29/3O2GTWML3VEVRFPTX5FN5ZHQ34/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/29/3O2GTWML3VEVRFPTX5FN5ZHQ34/</guid>
-      <dc:creator>이가영 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 29 Dec 2024 01:30:52 +0000</pubDate>
-      <content:encoded>&lt;br/&gt;&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QWOKP4A7KRJ5FMGFGDS7ZS3RNM.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;29일 전남 무안국제공항에서 승객과 승무원 181명이 탑승한 여객기가 추락해 불길이 치솟고 있다. (무안소방서 제공) 2024.12.29/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전남 무안국제공항에서 승객 175명과 승무원 6명 등 총 181명을 태운 항공기가 착륙 도중 활주로를 이탈해 울타리 외벽을 충돌했다.&lt;br&gt;&lt;br&gt;29일 한국공항공사와 전남소방본부 등에 따르면 이날 오전 9시 7분쯤 태국 방콕발 제주항공 7C2216편 항공기가 무안국제공항 활주로로 착륙을 시도하던 중 사고가 발생했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2STE7BVGSRE3LLWOVMF4NHNWHA.png"&gt;&lt;figcaption&gt;&lt;small&gt;29일 오전 9시 7분쯤 태국 방콕발 제주항공 7C2216편 항공기가 무안국제공항 활주로로 착륙을 시도하던 중 활주로를 이탈해 외벽과 충돌, 화재가 발생했다. /MBC 캡처&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;당시 상황이 담긴 영상을 보면, 비행기는 바퀴 없이 땅에 기체를 끌며 빠르게 달리다가 활주로 외벽과 충돌했다. 항공기 앞부분이 부서졌고, 이내 화재가 발생했다.&lt;br&gt;&lt;br&gt;사고가 발생한 곳에서 검은 연기가 하늘로 치솟는 장면을 찍은 영상이 온라인에 다수 올라왔다. 영상에서는 사이렌 소리가 계속 울리고, 촬영자는 “어떡해”라며 울먹였다.&lt;br&gt;&lt;br&gt;현재 착륙 장치 고장으로 인해 비행기 랜딩기어가 제대로 내려오지 않은 것으로 추정되고 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/T76VYYHUDNGQ7G2HGGXY7VYHIE.gif"&gt;&lt;figcaption&gt;&lt;small&gt;29일 무안공항에서 제주항공 7C2216편 항공기가 외벽 충돌 후 화재가 발생해 검은 연기가 피어오르고 있다. /X (옛 트위터) @gongboobooss&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰과 소방당국은 항공기 화재를 초기 진화하고 기체 후미부터 구조 작업을 진행 중이다. 현재까지 승객 1명과 승무원 1명이 구조됐으며 28명이 숨진 것으로 파악됐다. 기체 앞부분과 중간 탑승객가지 합치면 사상자는 더 많을 것으로 예상된다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/CWSIK67TCVGG5H53TSC74CN5EM.JPG?width=5251&amp;height=2954&amp;auth=442b49f0a8bedbc3de158527dd8f857b55e4c88995ea40c38b55b7054ca1a74e&amp;smart=true" type="image/jpeg" height="2954" width="5251">
-        <media:description type="plain">(무안=뉴스1) 김태성 기자 = 29일 오전 전남 무안국제공항 활주로에 여객기가 추락해 사고 수습이 이뤄지고 있다. 
-
-이날 오전 9시 7분쯤 승객과 승무원 181명을 태운 태국발 제주항공 7C2216편 항공기가 무안공항 착륙을 시도하던 중 활주로 외벽에 부딪혀 폭발했다. 2024.12.29/뉴스1</media:description>
-        <media:credit role="author" scheme="urn:ebu">(무안=뉴스1) 김태성 기자</media:credit>
-      </media:content>
-    </item>
-    <item>
-      <title>국토부, 무안 항공기사고 사고수습대책본부 설치 </title>
-      <link>https://www.chosun.com/national/transport-environment/2024/12/29/GWMMTLZDQJAEVNMHCDUAKE2UXY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2024/12/29/GWMMTLZDQJAEVNMHCDUAKE2UXY/</guid>
-      <dc:creator>김아사 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 29 Dec 2024 01:35:39 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TOBPQTOLF5JFZBFM47DCWMB7VY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;29일 오전 9시 7분 전남 무안군 망운면 무안국제공항 활주로에서 방콕발 무안행 제주항공 여객기가 착륙 과정에 불시착, 항공·소방 당국이 불을 끄고 있다/뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국토교통부는 전남 무안국제공항 항공기 추락 사고 대응을 위해 중앙사고수습대책본부 설치했다고 29일 밝혔다. 국토부는 항공철도사고조사위원회 조사관 7명, 항공기술과장, 감독관 등이 현장에 급파 했다고 전했다.&lt;br&gt;&lt;br&gt;국토부와 전남소방본부 등에 따르면 이날 오전 9시 7분쯤 태국 방콕발 제주항공 7C2216편 항공기가 무안국제공항에 착륙하던 중 착륙 장치가 제대로 작동하지 않아 활주로를 이탈해 외벽과 충돌하는 사고가 발생했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>소방청 “무안공항 사고 43분만에 초진, 대원 80명 투입”</title>
-      <link>https://www.chosun.com/national/national_general/2024/12/29/4T4YK6TN4JGJ7BA4T6AA3C3LWE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/29/4T4YK6TN4JGJ7BA4T6AA3C3LWE/</guid>
-      <dc:creator>박진성 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 29 Dec 2024 01:45:56 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GD2VWLAEU5PFDDEFOD42ZA7TOU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;29일 오전 9시 7분께 전남 무안국제공항에서 착륙 중이던 항공기가 활주로를 이탈해 울타리 외벽과 충돌했다. 사고 현장에서 소방대원들이 화재 진압과 인명 구조를 하고 있는 모습./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;29일 오전 9시쯤 전남 무안국제공항에서 착륙 중이던 항공기가 활주로를 이탈해 울타리 외벽과 충돌한 사고에 대해 소방청이 사고 발생 43분만에 초진을 완료했다고 밝혔다.&lt;br&gt;&lt;br&gt;소방청에 따르면 9시 3분 사고가 접수됐다. 소방 당국이 현장에 도착한 시각은 11분 뒤인 9시 14분이다. 소방 당국은 9시 16분 소방 대응 최고 단계인 ‘대응 3단계’를 발령했다. 9시 46분 초진을 마치고 기체 후미부터 구조 작업을 진행하고 있다.&lt;br&gt;&lt;br&gt;소방청 등에 따르면 사고가 난 제주항공 7C2216편에는 승무원 6명과 한국인 승객 173명, 태국인 승객 2명 등 총 181명이 탄 것으로 확인됐다.&lt;br&gt;&lt;br&gt;10시 기준 사망자는 총 28명이다. 승객 1명과 승무원 1명을 구조했다. 추가 사상자를 확인 중이다.&lt;br&gt;&lt;br&gt;소방은 현재까지 소방차 등 장비 32대와 소방인력 80명을 투입해 진화와 구조 작업을 진행 중이다. 중앙119구조본 호남대와 영남대, 전북소방항공대, 전남소방항공대 등에서 소방헬기도 투입됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>정부, 무안 사고 관련 중대본 가동</title>
-      <link>https://www.chosun.com/national/national_general/2024/12/29/NR44VQ66BFBVPDHNPOVZTXR5CE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/29/NR44VQ66BFBVPDHNPOVZTXR5CE/</guid>
-      <dc:creator>박진성 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 29 Dec 2024 02:31:47 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SOCA37BPHNLFTKOKBXE75MGGIA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;29일 오전 전남 무안국제공항에서 착륙 중이던 항공기가 활주로를 이탈해 울타리 외벽에 충돌했다. 소방 당국이 사고 수습 작업을 하고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정부가 29일 9시 3분쯤 전남 무안국제공항에서 착륙 중이던 항공기가 활주로를 이탈해 울타리 외벽을 충돌한 사고와 관련해 중앙재난안전대책본부를 가동했다.&lt;br&gt;&lt;br&gt;중대본부장은 최상목 대통령·국무총리 권한대행이 맡았다. 보통 중대본부장은 행정안전부 장관이 맡는다. 국무총리가 중대본부장을 맡은 사례는 핼러윈 참사, 전공의 집단 행동 등이 있다.&lt;br&gt;&lt;br&gt;최 권한대행은 각 부처에 범정부적 역량을 총동원해 신속한 대응 및 피해 수습방안을 강구하라고 지시했다.&lt;br&gt;&lt;br&gt;박상우 국토교통부 장관이 중대본 1차장, 고기동 행안부 장관 대행이 중대본 2차장을 맡는다.&lt;br&gt;&lt;br&gt;2차장인 고 대행은 사고 수습 지원을 위해 현장상황관리관을 파견했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>침묵 깬 문가비 “정우성에 결혼 요구 한 적 없어…아이 탄생 실수 아닌 축복”</title>
