@@ -6,6 +6,34 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>[속보] 법원, 윤 대통령 '내란혐의' 체포영장 발부</title>
+			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/204263.jpg" alt="yoon3.jpg" /&gt;&lt;/p&gt;&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;《사진=연합뉴스》&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;12·3 비상계엄 사태와 관련해 내란 등 혐의를 받는&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="8480"&gt;윤석열&amp;nbsp;&lt;/span&gt;대통령에 대한 체포영장이 발부됐다.&lt;br /&gt;&lt;br /&gt;서울서부지법은 31일 내란과 직권남용 혐의를 받는 윤 대통령에 대한 체포영장을 발부했다.&lt;br /&gt;&lt;br /&gt;현직 대통령에 대한 체포영장이 발부된 것은 헌정 사상 처음이다.&lt;br /&gt;&lt;br /&gt;공수처와 경찰 등으로 꾸려진 비상계엄 공조수사본부(공조본)는 30일 오전 0시 서울서부지법에 윤 대통령의 체포영장을 청구했다. 앞서 공수처는 윤 대통령에게 세 차례 출석을 요구했으나 윤 대통령은 아무 대응 없이 불출석했다.&lt;/p&gt;</description>
+			<pubDate>Tue, 31 Dec 2024 00:29:43 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/204263</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/204263</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/204263.jpg</media:thumbnail>
+			<dc:creator>임현경 기자</dc:creator>
+		</item>
+		<item>
+			<title>【오늘의 법조】 2024년 12월 31일</title>
+			<description>&lt;p style="text-align: center;"&gt;&lt;b&gt;[오늘의 PICK]&lt;/b&gt;&lt;/p&gt;&lt;p style="text-align: left;"&gt;&lt;b&gt;&lt;br /&gt;&lt;/b&gt;&lt;/p&gt;&lt;b&gt;▷ 공조수사본부, 윤석열 대통령 '내란 혐의' 체포영장 청구&lt;/b&gt;&lt;br /&gt;윤석열 대통령의 내란 혐의를 수사하고 있는 공조수사본부가 30일 윤 대통령의 체포영장을 청구했다. 현직 대통령에 대한 체포영장 청구가 이뤄진 것은 헌정 사상 처음이다. 앞서 공수처는 내란 우두머리와 직권남용 권리행사 방해 혐의로 윤 대통령에게 세 차례 출석을 요구했으나 윤 대통령은 불출석했다.&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p style="text-align: center;"&gt;&lt;a href="https://www.lawtimes.co.kr/news/204216" target="_blank"&gt;&lt;span style="color: #994c00; background-color: #ffe5cc;"&gt;&lt;b&gt;☞ 기사보기 ☜&lt;/b&gt;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;p style="text-align: center;"&gt;&lt;br /&gt;&lt;/p&gt;&lt;p style="text-align: left;"&gt;&lt;b&gt;▷ 조지호·김봉식 청장 구속기한 연장...다음달 8일까지&lt;/b&gt;&lt;/p&gt;&lt;p style="text-align: left;"&gt;검찰 비상계엄 특별수사본부(본부장 박세현 서울고검장)가 서울중앙지법에 조 청장과 김 청장에 대한 구속기한 연장을 신청하고 법원은 이를 받아들였다. 이에 따라 두 사람에 대한 구속기한은 내달 8일까지로 연장됐다. 이들은 3일 비상계엄 사태 당시 국회 전면 출입통제 조치를 일선 경찰에 하달하는 등 계엄 해제 표결을 하기 위해 국회로 가는 국회의원, 보좌관 등의 출입을 방해한 혐의를 받는다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p style="text-align: center;"&gt;&lt;a href="https://www.lawtimes.co.kr/news/204214" target="_blank"&gt;&lt;span style="color: #994c00; background-color: #ffe5cc;"&gt;&lt;b&gt;☞ 기사보기 ☜&lt;/b&gt;&lt;/span&gt;&lt;/a&gt;&lt;br /&gt;&lt;/p&gt;</description>
+			<pubDate>Mon, 30 Dec 2024 22:39:32 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/204257</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/204257</guid>
+			<dc:creator>인터넷 기자</dc:creator>
+		</item>
+		<item>
+			<title>【오늘의 국회일정】 2024년 12월 31일</title>
+			<description>&lt;b&gt;◇국회의장&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;10:00 12월 29일 여객기 사고 희생자 국회 합동분향소 조문(국회 정문 해태상 부근)&lt;br /&gt;&lt;br /&gt;14:00 본회의(본회의장)&lt;br /&gt;&lt;br /&gt;&lt;b&gt;◇국회사무총장&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;14:00 본회의(본회의장)&lt;br /&gt;&lt;br /&gt;◇본회의 및 상임위원회&lt;br /&gt;&lt;br /&gt;14:00 본회의(본회의장)&lt;br /&gt;&lt;br /&gt;10:00 국정조사특별위원회 전체회의(본관 245호)&lt;br /&gt;&lt;br /&gt;11:00 국회운영위원회 전체회의(본관 319호)&lt;br /&gt;&lt;br /&gt;&lt;b&gt;◇의원실 세미나&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;10:00 최형두 의원실 등, 대한민국 AI G3 도약, 무엇을 할 것인가? : (특강) 차상균 전 서울대 데이터사이언스대학원장(의원회관 제8간담회의실)&lt;br /&gt;&lt;br /&gt;&lt;b&gt;◇소통관 기자회견&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;10:40 윤종오 의원, [노예계약 강요하는 LX판토스·대명물류 규탄 기자회견]&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;b&gt;&lt;span style="font-size: 14px;"&gt;※ 상기 일정은 사정에 따라 변경될 수 있습니다.&lt;/span&gt;&lt;/b&gt;</description>
+			<pubDate>Mon, 30 Dec 2024 22:39:24 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/204260</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/204260</guid>
+			<dc:creator>인터넷 기자</dc:creator>
+		</item>
+		<item>
 			<title>"행동하는 회장이 되겠다" 조순열 변호사, 서울변회장 선거 후보 등록</title>
 			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/204261.jpg" alt="111.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;span style="font-weight: bold;" serial="10599"&gt;조순열&lt;/span&gt;(52·사법연수원 33기) 변호사가 내년 1월 20일 치러지는 서울지방변호사회 제98대 회장 선거 후보 등록을 마쳤다. 조 후보는 30일 오후 서울 서초동 서울지방변호사회관에서 가장 먼저 후보 등록을 마치고, "행동하는 회장이 되겠다"고 밝혔다.&lt;br /&gt;&lt;br /&gt;조 후보는 주요 공약으로 △변호사 직역 수호 △네트워크 로펌 규제 △변호사 배출 수 감축 △형사 성공보수 부활 △변호사와 의뢰인 간 비밀유지권(ACP) 도입 △불법 법률플랫폼 근절 △부가세 폐지 등을 제시하며 강력한 추진 의지를 밝혔다. 그는 대한변호사협회와 서울지방변호사회 집행부가 추진해온 핵심 과제들을 계승해 완수하겠다는 다짐과 함께, "세대와 출신을 넘어 다양한 목소리를 아우르는 법조 화합의 가교 역할을 하고 싶다"고 했다.&lt;br /&gt;&lt;br /&gt;조 후보는 변협에 대한 공정위의 과징금 부과를 취소로 이끈 경험을 가장 의미 있는 성과로 꼽으며, "앞으로도 변호사 직역을 침해하려는 시도에 강력히 맞서겠다"고 강조했다.&lt;br /&gt;&lt;br /&gt;네트워크 로펌 문제와 관련해서는 "사태를 엄중히 인식하고 있으며, 광고 규정 강화 등 다양한 대책을 검토해 법조 질서를 흔드는 행위에 적극 대응하겠다"고 밝혔다.&lt;br /&gt;&lt;br /&gt;마지막으로 그는 "걸어온 길을 보면 앞으로 걸어갈 길이 보인다"며, "회원들의 권익을 지키고 증진하는 개혁을 완수할 수 있도록, 가장 어려운 현장에서 치열하게 일할 기회를 달라"고 지지를 호소했다.&lt;/p&gt;</description>
 			<pubDate>Mon, 30 Dec 2024 10:35:20 -0000</pubDate>
@@ -211,36 +239,6 @@
 			<link>https://www.lawtimes.co.kr/news/204188</link>
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/204188</guid>
 			<dc:creator>인터넷 기자</dc:creator>
-		</item>
-		<item>
-			<title>검찰, 김용현 휴대전화 30일 포렌식...변호인 "위법 압수"</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/204201.jpg" alt="204201.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;김용현 전 국방부 장관 《사진=연합뉴스》&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;12·3 비상계엄 사태를 수사하는 검찰이 내란에 가담한 혐의로 구속기소 된 김용현 전 국방부 장관의 휴대전화에 대한 포렌식 절차에 착수할 예정이다. 검찰은 임의제출 받은 김 전 장관의 휴대전화에 대한 압수수색 영장을 발부받았다.&lt;br /&gt;&lt;br /&gt;28일 법조에 따르면, 검찰 비상계엄 특별수사본부(본부장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="1054"&gt;박세현&amp;nbsp;&lt;/span&gt;서울고검장)는 30일 김 전 장관의 휴대전화 포렌식 선별작업을 진행하기로 하고 김 전 장관 측에 참관을 통보했다.&lt;br /&gt;&lt;br /&gt;검찰은 김 전 장관의 휴대전화에 대한 압수수색영장을 발부받은 뒤 26일 영장을 집행해 이 휴대전화를 재확보했다. 앞서 검찰은 김 전 장관이 8일 서울중앙지검에 자진 출석했을 때 휴대전화를 임의제출 받아 확보했지만, 이후 김 전 장관 측이 위법한 증거 수집이라고 주장해 포렌식 절차가 중단됐다.&lt;br /&gt;&lt;br /&gt;이에 검찰은 압수수색 영장을 통해 해당 휴대전화와 관련된 추가 자료 확보에 나섰다. 검찰은 김 전 장관의 휴대전화 압수수색을 통해 계엄 당시&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="8480"&gt;윤석열&amp;nbsp;&lt;/span&gt;대통령, 김 전 장관 등과 군 지휘관들 사이 어떤 지시가 오갔는지 등을 들여다볼 것으로 보인다.&lt;br /&gt;&lt;br /&gt;김 전 장관 측 변호인은 검찰이 불법으로 휴대전화를 압수했다며 27일 서울중앙지법에 준항고를 제기했다. 준항고는 수사기관의 구금·압수에 대해 불복할 때 법원에 취소나 변경을 청구하는 절차다.&lt;br /&gt;&lt;br /&gt;검찰은 같은 날 김 전 장관을 내란 중요임무 종사 및 직권남용 권리행사 방해 혐의로 구속기소 했다. 김 전 장관은 국회를 봉쇄하고 계엄 저지 의결을 방해하기 위해 수도방위사령부, 특전사령부 병력을 투입한 혐의를 받는다. 또 주요 인사 체포조를 편성해 체포와 구금을 지시하고 중앙선거관리위원회를 점거하고 서버 반출과 주요 직원 체포를 시도한 혐의도 있다.&lt;/p&gt;</description>
-			<pubDate>Sat, 28 Dec 2024 11:22:25 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/204201</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/204201</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/204201.jpg</media:thumbnail>
-			<dc:creator>임현경 기자</dc:creator>
-		</item>
-		<item>
-			<title>윤 대통령 측 "공수처, 내란죄 수사권 없다" 3차 소환 불출석 시사</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;div class="cheditor-caption-wrapper"&gt;      &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;         &lt;img src="https://image.lawtimes.co.kr/thumb/180/204200.jpg" alt="204200.jpg" /&gt;         &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;《사진=연합뉴스》&lt;/figcaption&gt;      &lt;/figure&gt;      &lt;/div&gt;   &lt;p&gt;&amp;nbsp;&lt;/p&gt;   &lt;/div&gt;&lt;p&gt;   &lt;span style="font-weight: bold;" serial="8480"&gt;윤석열&amp;nbsp;&lt;/span&gt;대통령 측이 고위공직자범죄수사처가 요구한 윤 대통령의 3차 출석일을 하루 앞두고 수사권 관련 법적 문제를 제기하며 불출석을 시사했다.&lt;/p&gt;&lt;br /&gt;윤 대통령의 탄핵 심판 대리인단·수사 변호인단의 공보역을 맡은&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="8443"&gt;윤갑근&lt;/span&gt;(60·사볍연수원 19기) 변호사는 28일 공수처에 내란죄 수사권이 없다며 수사권 문제가 선결돼야 출석 여부를 결정할 수 있다는 입장을 냈다. 사실상 공수처의 3차 출석 요구에 응하지 않겠다는 뜻으로 해석된다. &lt;br /&gt;&lt;br /&gt;현행법상 공수처는 내란죄에 대해 수사할 수 없다. 윤 대통령 측이 문제 삼고 있는 부분도 이 점이다. 2021년 검·경 수사권 조정으로 내란죄가 검찰의 수사 개시 대상 범죄에서 빠지면서 내란죄에 대한 수사 권한은 경찰에게만 있다. &lt;br /&gt;&lt;br /&gt;하지만 공수처는 직권남용죄 관련 범죄로 수사할 수 있다는 입장이다. 공수처의 직접수사 대상 범죄에 내란죄가 포함돼 있지 않지만, 공수처법상 직권남용과 불법 체포 미수, 특수공용물손괴죄를 수사할 수 있고 관련 사건으로 내란죄 수사가 가능하다는 것이다. &lt;br /&gt;&lt;br /&gt;윤 대통령이 3차 출석도 사실상 거부하면서 공수처는 강제수사 여부 검토에 나설 것으로 보인다.&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="2045"&gt;오동운&lt;/span&gt;(55·27기) 공수처장은 국회 법사위에서 "상황이 된다면 긴급체포 또는 체포 영장에 의한 체포를 시도하도록 하겠다"고 말했다. &lt;br /&gt;&lt;br /&gt;공수처는 지난 26일 윤 대통령의 관저와 대통령실 총무비서관실, 부속실에 특급 우편으로 '29일 오전 10시 정부과천청사에 있는 공수처로 출석하라'는 내용의 3차 출석요구서를 보냈다. 윤 대통령 측은 이 3차 출석요구서도 우편물 수령을 거부했다. &lt;br /&gt;&lt;br /&gt;윤 대통령은 지난 18일과 25일에 조사받으라는 1·2차 출석 요구에 모두 불응한 바 있다.&lt;br /&gt;&lt;br /&gt;수사기관은 통상적으로 피의자가 세차례 출석 요구에 불응하면, 체포영장을 청구한다. 윤 대통령이 3차 출석 요구에도 불응하면 공수처는 강제수사 명분을 쌓게 된다. &lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
-			<pubDate>Sat, 28 Dec 2024 07:10:43 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/204200</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/204200</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/204200.jpg</media:thumbnail>
-			<dc:creator>우빈 기자</dc:creator>
-		</item>
-		<item>
-			<title>검찰, '계열사 부당지원' 삼표산업·홍성원 전 대표 기소</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/204198.jpg" alt="203791_YH.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;《사진=연합뉴스》&lt;/figcaption&gt;   &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p style="text-align: left;"&gt;레미콘 원자재를 비싸게 구입하는 방식으로 '총수 2세' 회사를 부당지원한 혐의를 받는 삼표산업과 홍성원 전 대표가 재판에 넘겨졌다.&lt;/p&gt;&lt;br /&gt;서울중앙지검 공정거래조사부(&lt;span style="font-weight: bold;" class="lawmanlink" serial="11311"&gt;김용식&amp;nbsp;&lt;/span&gt;부장검사)는 27일 삼표산업과 홍 전 대표를 공정거래법 위반 혐의로 기소했다고 밝혔다. 양벌규정에 따라 법인과 대표자가 함께 포함됐다.&lt;br /&gt;&lt;br /&gt;삼표산업은 총수 2세인 정대현 부회장이 최대주주로 있는 레미콘 원자재 업체 에스피네이처를 삼표그룹 모회사로 만들 목적으로 2016∼2019년 약 75억 원의 부당이익을 몰아준 혐의를 받는다.&lt;br /&gt;&lt;br /&gt;검찰은 삼표산업이 에스피네이처에 유리한 조건으로 레미콘 원료가 되는 시멘트 대체재인 분체를 구입했다고 본다.&lt;br /&gt;&lt;br /&gt;검찰은 홍 전 대표의 횡령·배임 등 잔여 혐의는 추가 수사한다는 방침이다.&lt;br /&gt;&lt;br /&gt;공정거래위원회는 지난 8월 삼표산업을 고발했다. 수사에 착수한 검찰은 지난 9~10일 삼표그룹, 에스피네이처 등 10여 곳을 압수수색했다. &lt;br /&gt;&lt;br /&gt;공정위는 삼표산업이 건설 경기 부진으로 매출과 영업이익이 감소한 상황에서도 에스피네이처로부터 시세보다 높은 가격으로 분체를 구입해 모든 거래에서 시세 대비 4%의 이득을 챙긴 것으로 보고 있다.&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
-			<pubDate>Fri, 27 Dec 2024 10:18:57 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/204198</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/204198</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/204198.jpg</media:thumbnail>
-			<dc:creator>우빈 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
