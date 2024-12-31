@@ -13,6 +13,18 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>새해 첫날 0시 동시 탄생…‘푸른 뱀의 해’ 첫둥이 남아 3명 </title>
+      <link>https://www.chosun.com/national/national_general/2025/01/01/5TMTZB65CBG4HGEFX27ENL36BM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/01/5TMTZB65CBG4HGEFX27ENL36BM/</guid>
+      <dc:creator>최혜승 기자 </dc:creator>
+      <description/>
+      <pubDate>Tue, 31 Dec 2024 21:19:35 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UZGGMBGUPJMG5PJWAB7XUAQQ4E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2025년 을사년(乙巳年) 새해 첫날인 1일 오전 경기도 고양시 일산차병원에서 강우석 씨와 부인 구슬기 씨 사이에서 태어난 남아 딩굴이(이하 태명·오른쪽부터), 이효영 씨와 부인 구라겸 씨 사이에서 태어난 남아 꼬물이, 박준수 씨와 부인 이승현 씨 사이에서 태어난 남아 니케가 간호사 품에 안겨 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2025년 을사년(乙巳年) 첫날 0시 0분에 맞춰 3명의 아기가 동시에 첫울음을 터뜨렸다.&lt;br&gt;&lt;br&gt;일산차병원은 1일 0시에 3명의 산모가 각각 건강한 아들을 출산했다고 밝혔다. 세 명의 남자 아기 모두 자연분만으로 세상에 나왔다.&lt;br&gt;&lt;br&gt;푸른 뱀의 해 첫둥이 주인공은 산모 구슬기(35)씨와 남편 강우석(41)씨 사이에서 태어난 ‘딩굴이’(태명), 산모 구라겸(27)씨와 남편 이효영(38)씨 사이에서 태어난 ‘꼬물이’, 산모 이승현(33)씨와 남편 박준수(36)씨 사이에서 태어난 ‘니케’다.&lt;br&gt;&lt;br&gt;딩굴이는 3.29㎏, 꼬물이 3.12㎏, 니케 3.1㎏으로 태어났다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VZL4H3OK6JN7ZGXNWSTHISY4BM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;새해 첫날인 1일 0시 경기 고양시 일산차병원에서 엄마 이승현 씨와 아빠 박준수 씨 사이에서 태어난 태명 니케(왼쪽부터), 엄마 구라겸 씨와 아빠 이효영 씨 사이에서 태어난 꼬물이, 엄마 구슬기 씨와 아빠 강우석 씨 사이에서 태어난 딩굴이가 아빠 품에 안겨 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;딩굴이는 결혼 10년 만에 찾아온 선물이다. 구슬기씨 부부는 2022년부터 2년 넘게 난임 치료를 받다가 자연임신에 성공했다. 아빠 강씨는 “결혼한 지 10년이 되는 해 딩굴이가 새해 첫 아이로 태어나서 뜻깊다”고 했다. 그는 딩굴이라는 태명에 대해 “엄마 뱃속에서 뒹굴뒹굴하면서 잘 있다가 나오라고 지었다”고 했다.&lt;br&gt;&lt;br&gt;꼬물이 아빠 이씨는 아내에게 “나이 차가 많이 나는 나랑 결혼해서 고생 많이 했는데 무사히 낳았으니까 잘 키워보자”고 했다. 이씨는 “꼬물이가 하고 싶은 것을 할 수 있게 최대한 지원해 줄 테니 건강하게만 자라줬으면 좋겠다”고 했다.&lt;br&gt;&lt;br&gt;니케 아빠 박씨는 “경이롭고 감사하다. 아이한테 바라는 점은 없고 건강하고 최대한 바르게 정직하게 자랄 수 있게 최선을 다하겠다”며 아내에게 “지금까지 본 모습 중 가장 용기 있고 멋있었다. 승현아 너 정말 멋있다. 사랑해”라고 말했다.&lt;br&gt;&lt;br&gt;김의혁 일산 차병원 산부인과 교수는 “어렵고 힘든 시기지만 태어나는 모든 아기가 대한민국에 새 희망을 전할 수 있길 바란다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/MMOZHPX3BNF2XOLOLSLLF7JCMM.jpg?width=1600&amp;height=900&amp;auth=b0fc15cfdc5aea40e307d8b53be3df873b72311f1be746c94f69f8d044e7c320&amp;smart=true" type="image/jpeg" height="900" width="1600">
+        <media:description type="plain">2025년 새해 대한민국 첫 아기들이 탄생했다. 1월 1일 0시 0분 경기도 일산 차병원 분만실에서 자연분만으로 태어난  세 아기. 왼쪽은  엄마 이승현(33)씨와 아빠 박준수(36)씨 사이에서 태어난 남아 니케(태명·3.1kg) , 가운데는 엄마 구라겸(27)씨와 아빠 이효영(38)씨 사이에서 태어난 남아 꼬물이(태명ㆍ3.12kg), 오른쪽은 엄마 구슬기(35)씨와 아빠 강우석(41)씨 사이에서 태어난 남아 딩굴이(태명ㆍ3.29kg)/ 전기병 기자</media:description>
+      </media:content>
+    </item>
+    <item>
       <title>부산서 강릉까지 기차 타고 가요</title>
       <link>https://www.chosun.com/national/transport-environment/2025/01/01/MDEWVHSOHZF6JLSQIJ42XOLRNI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/01/01/MDEWVHSOHZF6JLSQIJ42XOLRNI/</guid>
@@ -835,18 +847,6 @@
       <description/>
       <pubDate>Tue, 31 Dec 2024 00:53:44 +0000</pubDate>
       <content:encoded>오세훈 서울시장이 31일 오전 서울 중구 서울시청 본관 앞에 마련된 제주항공 참사 희생자 합동분향소를 찾아 조문했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KKY73PNFOZFG7BWRJZKVUKDVSE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;31일 오전 오세훈 서울시장이 서울 중구 서울시청 본관 앞에 마련된 제주항공 참사 희생자 합동분향소를 찾아 조문하고 있다. /서울시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울시는 이날 오전 8시 오 시장을 비롯한 서울시 간부들이 합동분향소를 찾아 희생자를 추모했다고 밝혔다. 합동분향소를 찾은 오 시장은 헌화 후 묵념으로 희생자를 기렸다.&lt;br&gt;&lt;br&gt;오 시장은 “많은 시민들이 마음을 모아 고인들의 명복을 빌고, 유가족 여러분들에게 깊은 위로의 마음을 전했으면 한다”고 말했다.&lt;br&gt;&lt;br&gt;서울시는 이날부터 오는 1월 4일까지 5일간 시민들이 희생자들을 추모할 수 있도록 서울시청 본관 정문 옆에 합동분향소를 운영한다. 서울시 관계자는 “시민들은 매일 오전 8시부터 오후 10시까지 분향소를 찾아 조문할 수 있다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>美 메트로폴리탄 미술관서 프랑스 여인과 사랑에 빠지다 [윤평중의 지천하 15]</title>
-      <link>https://www.chosun.com/national/weekend/2024/11/09/DXK4N547ORHZLE2L3HIW2JIRA4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/weekend/2024/11/09/DXK4N547ORHZLE2L3HIW2JIRA4/</guid>
-      <dc:creator>윤평중·한신대 철학과 명예교수</dc:creator>
-      <description/>
-      <pubDate>Fri, 08 Nov 2024 15:30:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/I47MTI3M7RA6THU7JPCHQSDAXQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;‘브롤리 공작 부인’의 주인공 폴린 /메트로폴리탄 미술관&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;프랑스 여인 폴린을 만난 곳은 미국 메트로폴리탄 미술관(‘메트’)이다. 20년 전 연구년 때다. 메트, 뉴욕현대미술관(‘모마’), 구겐하임을 활보하던 매주 토요일, 메트가 ‘홈그라운드’였다. 축구장 25개 크기에 세계 3대 미술관의 하나인 메트는 200여 전시실과 300만 점 넘는 소장품으로 온종일 지내기에 안성맞춤이다.&lt;br&gt;&lt;br&gt;미술관은 신앙 없는 현대인의 성당이다. 1년간의 미술관 순례는 ‘행복의 충격’이었다. 명작들의 향연에 처음엔 흥분했지만 메트, 루브르, 영국 박물관은 너무 크고 붐빈다. 적절한 동선과 쉴 곳을 찾아야만 ‘그림 읽기’가 중노동이 되지 않는다.&lt;br&gt;&lt;br&gt;메트에선 이집트관 덴두르 신전이 호젓하다. 센트럴파크를 바라보며 7000년 이집트 문명의 허망함을 곱씹게 된다. 로마 황제 아우구스투스가 이집트 점령기인 기원전 15년쯤 이시스 여신을 기리기 위해 세운 덴두르 신전은 이집트 유적치곤 최신(?) 유물이다.&lt;br&gt;&lt;br&gt;메트는 미로처럼 복잡하다. 1년 회원권을 구매하고 도시락을 꾸려 평일에도 수십 번 드나들며 전체 구조를 익혔다. 그때 만난 이가 폴린이다. 프랑스 신고전주의 화가 앵그르의 ‘브롤리 공작 부인’의 주인공이다.(1853년작)&lt;br&gt;&lt;br&gt;끝없이 이어진 전시실을 헤매다 홀연히 ‘갤러리 957′을 만난 기억이 생생하다. 브롤리 공작 알베르의 부인 폴린(Pauline de Broglie·1825~1860)이 있는 방은 관람객이 없었다. 전시실 공기가 달랐다. 기묘한 신비와 정적으로 둘러싸인 폴린 앞에 홀린 듯 못 박혔다. 시간이 멈추는 절대 몰입이었다.&lt;br&gt;&lt;br&gt;현대미술에서 고전적 초상화는 낡은 장르다. 지금은 바나나 한 개를 테이프로 벽에 붙인 ‘개념미술’(M. 카텔란, 2019년작)이 14억~21억원 경매로 나오는 시대다. 예술과 비(非)예술의 경계는 무너졌다. 비엔날레엔 충격적인 작품이 넘쳐난다. 예술 창작은 ‘예술이란 무엇인가’에 대한 질문으로 대체되었다. ‘아름다운 재현’은 더 이상 예술의 목표가 아니다.&lt;br&gt;&lt;br&gt;그럼에도 나는 폴린의 아름다움에 매혹되었다. 브롤리 공작 부인 초상화는 폴린의 지성과 감성을 온전히 담아낸 수작이다. 앵그르 화풍 전신사조(傳神寫照·인물의 내면을 보여주는) 그림이다. 미술, 문학, 음악 등 예술 체험에선 한 작품에 몰입하면 사랑의 대상이 고구마 줄기처럼 뻗어나간다.&lt;br&gt;&lt;br&gt;메트나 모마엔 더 유명하고 비싼 작품이 발에 차일 만큼 많다. 하지만 현대미술의 논리대로 예술의 중심이 부재하고 예술과 비예술의 경계가 없다면 ‘미술 전문가의 안목이 보통 사람보다 낫다’는 근거도 사라진다. 다빈치 ‘모나리자’와 뭉크 ‘절규’ 앞에서도 난 무덤덤했다. 메트는 폴린으로, 모마는 ‘크리스티나의 세계’(앤드루 와이어스, 1948년작)로 기억하곤 했다.&lt;br&gt;&lt;br&gt;벽에 붙인 바나나를 ‘예술 작품’으로 만드는 건 비평계, 작가, 화랑, 경매 회사로 구성된 예술 제도다. 그러나 해설이 현란할수록 작품은 왜소해진다. 작가의 명성과 해설을 떠나 작품 자체와 대면해야 한다. 예술 체험의 핵심은 예술 작품과 우리 내면의 만남에 있다. 미술관 기행은 미술 전문가들의 장광설과 겨룰 수 있는 마음의 근력을 키워준다.&lt;br&gt;&lt;br&gt;폴린의 초상화 완성엔 4년이나 걸렸다. 극도로 내성적인 폴린이 다섯 아이와 미완의 기독교 역사서를 남긴 채 35세에 결핵으로 사망하자 남편 알베르는 무너진다. 그는 80세를 살면서 프랑스 제3공화정 수상까지 됐으나 평생 재혼하지 않았다. 요절한 아내를 차마 바라볼 수 없었던 알베르는 폴린의 초상화를 저택 응접실 커튼으로 가려 놓았다.&lt;br&gt;&lt;br&gt;초상화에 묘사된 폴린의 장신구가 10여 년 전 경매에 나왔을 땐 내 마음이 아팠다. 예술 체험엔 누구나 자신만의 성소(聖所)가 있다. 폴린은 ‘환상 속의 그대’였다. 사랑하면 알게 되고 알면 사랑하게 된다. 그게 바로 예술의 존재 이유다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/I47MTI3M7RA6THU7JPCHQSDAXQ.jpg?width=2229&amp;height=3008&amp;auth=284888d0f7a0acef40016864947834adea6e42f8580510e82ad5d1b48285cf7d&amp;smart=true" type="image/jpeg" height="3008" width="2229">
-        <media:description type="plain">‘브롤리 공작 부인’의 주인공 폴린 /메트로폴리탄 미술관</media:description>
-      </media:content>
     </item>
     <item>
       <title>법원, ‘내란 혐의’ 윤석열 대통령 체포영장 발부... 현직 처음</title>
