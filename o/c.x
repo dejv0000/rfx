@@ -13,6 +13,97 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>“외로운 사투, 넌 이미 훌륭했어” 기장 형이 남긴 손편지 </title>
+      <link>https://www.chosun.com/national/national_general/2024/12/31/FTKTID2LXVBHFDEEYBLCBN2LS4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/31/FTKTID2LXVBHFDEEYBLCBN2LS4/</guid>
+      <dc:creator>정아임 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 31 Dec 2024 10:37:52 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/U3P2H2ESLFDHLKJC6JJHD3FGEE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;31일 전북 무안국제공항 활주로에 제주항공 7C2216편 희생자를 추모하기 위한 추모글이 걸려 있다. / 장련성 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전남 무안국제공항 사고 현장에 추모객들의 발걸음이 이어지고 있는 가운데, 사고 당시 제주항공 여객기를 몰았던 기장의 형이 쓴 손 편지가 포착됐다.&lt;br&gt;&lt;br&gt;31일 전남 무안군 무안국제공항 활주로 인근 철조망에는 사고 여객기를 몰았던 기장의 형이 쓴 자필 편지가 김밥, 핫팩과 함께 놓여있었다.&lt;br&gt;&lt;br&gt;편지에는 “우리 왔다. 외로이 사투를 벌였을 것을 생각하니 마음이 너무 아프다”며 “너는 이미 너무나 훌륭했고 충분히 잘했으니 이젠 따뜻한 곳에서 행복했음 좋겠다. 고마웠고 그리고 미안하다”고 적혀있었다.&lt;br&gt;&lt;br&gt;제주항공 참사 여객기의 기장은 6800시간이 넘는 비행 경력을 가진 ‘공군 출신 베테랑’이었던 것으로 알려졌다. 공군 학사장교 조종사 출신으로 2014년 제주항공에 입사해 2019년 3월 기장으로 승급했으며, 그의 비행시간은 총 6823시간이며 기장 비행 경력은 2500시간 이상이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/POKBXT2AP5FPZIPSECJIKY7YJA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;31일 전북 무안국제공항제주항공에서 발생한 제주항공 7C2216편 사고 현장에 놓인 고인을 추모하기 위한 꽃과 물품들. / 장련성 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이외에도 철조망 곳곳에는 국화꽃을 비롯해 핫팩, 술, 음료, 빵과 김밥 등 희생자를 추모하는 물건들도 있었다.&lt;br&gt;&lt;br&gt;한 시민은 사고 직전 동체 착륙을 시도한 기장과 부기장에게 애도의 마음을 담은 손 편지를 남기고 갔다. 이 편지에는 “승객을 살리고자 최선을 다하셨을 기장님, 부기장님, 그리고 승무원들 정말 감사합니다”, “탑승객 모두가 좋은 곳에 가셔서 편하게 영면하셨으면 한다”고 쓰여있었다.&lt;br&gt;&lt;br&gt;한편, 정부는 내년 1월 4일까지 국가애도기간으로 정하고 서울, 세종 등 전국 17개 시도와 무안국제공항 사고 현장에 합동분향소를 설치했다. 분향소에는 시민 누구나 찾아 조문할 수 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/U3P2H2ESLFDHLKJC6JJHD3FGEE.jpg?width=4104&amp;height=2736&amp;auth=1132ec18bef78020f09a9a39ad06b2f689878bb3c754b8b5214e250adaa951c5&amp;smart=true" type="image/jpeg" height="2736" width="4104">
+        <media:description type="plain">31일 전북 무안국제공항 활주로에 제주항공 7C2216편 희생자를 추모하기 위한 추모글이 걸려 있다. / 장련성 기자</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>이범호 감독도 양현종도 조문...KIA선수단 80명, 동료에 마지막 인사</title>
+      <link>https://www.chosun.com/national/national_general/2024/12/31/VB5IVQWCAZDKRLWO5TEG7OPPM4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/31/VB5IVQWCAZDKRLWO5TEG7OPPM4/</guid>
+      <dc:creator>정아임 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 31 Dec 2024 13:28:32 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YFAE6JTAVBLUHJTPMKJMU6CVQY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;31일 오후 프로야구 기아 타이거즈 임직원과 선수단이 광주 동구 5·18민주광장에 마련된 제주항공 참사 합동분향소를 찾아 희생자를 추모하고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;무안국제공항 제주항공 여객기 참사로 기아타이거즈 홍보팀에서 일하던 A(43)씨가 세상을 떠난 가운데, 구단 임직원과 선수단이 광주 동구 합동분향소를 찾아 희생자들을 추모했다.&lt;br&gt;&lt;br&gt;31일 최준영 기아타이거즈 대표이사와 심재학 단장, 이범호 감독, 양현종 선수 등 80여 명이 5·18 민주광장에 마련된 분향소를 찾아 희생자들을 애도했다. 이들은 10여 분간의 묵념 후 분향소를 떠난 것으로 전해졌다. &lt;br&gt;&lt;br&gt;지난 29일 전남 무안군 무안국제공항에서 발생한 제주항공 여객기 참사로 희생된 179명 중 기아타이거즈 홍보팀 소속 팀장인 A씨와 아내 B(37)씨, 세 살배기 아들이 포함된 것으로 알려졌다. 이들은 함께 첫 해외여행을 떠났다가 돌아오는 길에 사고를 당한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;A씨의 부고 소식을 접한 기아타이거즈 내야수 김선빈 선수는 지난 30일 자신의 인스타그램에 “십여 년 넘게 함께한 나의 듬직한 동료이자 언제나 믿고 의지할 수 있었던 형. 하늘에서 형수랑 아들과 걱정 없이 행복한 시간 보내고 있어”라며 “다음 생애가 있다면 그때도 좋은 인연으로 만나 못다 한 약속 꼭 지키자”라고 글을 남겼다.&lt;br&gt;&lt;br&gt;기아 타이거즈도 공식 홈페이지와 인스타그램을 통해 “사고 희생자 분들께 깊은 조의를 표한다. 사고 희생자를 추모하며 유가족분들께 온 마음을 다해 깊은 위로와 애도를 표한다. 삼가 고인의 명복을 빈다”며 애도했다.&lt;br&gt;&lt;br&gt;정부는 내년 1월 4일까지 국가애도기간으로 정하고 서울, 세종 등 전국 17개 시도와 무안국제공항 사고 현장에 합동분향소를 설치했다. 분향소에는 시민 누구나 찾아 조문할 수 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>70대 운전 승용차, 시장 골목 40m 돌진... 상인 등 13명 다쳤다</title>
+      <link>https://www.chosun.com/national/incident/2024/12/31/W7YTTUYNOZAULNWVRCAPVJFE5A/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/12/31/W7YTTUYNOZAULNWVRCAPVJFE5A/</guid>
+      <dc:creator>강지은 기자, 이영준 기자, 최하연 기자, 김도균 기자, 조은서 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 31 Dec 2024 13:23:34 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4AYI72ZIB5LDFLGSM7B4FGVQUY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;31일 오후 4시18분께 서울 양천구 목동 깨비시장에서 70대 남성이 모는 승용차가 돌진해 다수의 부상자가 발생했다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;70대 남성이 몰던 승용차가 재래시장 골목에 돌진, 13명이 다치는 사고가 발생했다. 31일 오후 3시 53분쯤 서울 양천구 목동깨비시장에서 김모(74)씨가 운전하던 검은색 에쿠스 차량이 행인과 상점 등을 덮쳐 4명이 중상을 입고 9명이 경상을 당했다. 40대 중상자는 의식을 잃고 중태에 빠졌다. 김씨는 경찰 조사에서 “급발진은 아니었다”고 진술했다. 이날 현장에서 만난 시민들은 “계엄 사태에 비행기 참사까지 겹쳐 가뜩이나 침통한 연말인데 이런 사고까지 발생하다니 믿을 수가 없다”고 했다.&lt;br&gt;&lt;br&gt;사고 직후 119엔 “시장에서 차량이 사람을 치고 갔다” “인명 피해가 많을 것 같다”는 다급한 신고가 빗발쳤다. 소방은 현장에 차량 20여 대, 인력 60여 명을 투입했다. 경찰·소방 조사와 목격자 진술을 종합하면, 이날 오후 운전자 김씨가 운전하던 검은색 에쿠스 차량은 깨비시장 후문 사거리에서 앞서가던 버스를 앞지르다 가속해 시장 내부로 돌진, 약 40m를 질주했다.&lt;br&gt;&lt;br&gt;이 사고로 시장 과일 가게 직원과 견과류 상인, 장을 보던 시민들이 사고를 당했다. 사고 당시 모습이 담긴 폐쇄회로(CC)TV 영상을 보면 차량이 쏜살같이 지나가고, 시장은 수 초만에 아수라장이 된다. 이날 본지 기자가 찾은 시장 바닥에는 과일 상자가 널브러져 있었고, 딸기·귤 등 과일 수백 개가 바닥에 으깨져 있었다. 여기저기 산산조각 난 플라스틱 박스도 나뒹굴고 있었다.&lt;br&gt;&lt;br&gt;최초 신고자 황연도(33)씨는 “펑 하는 소리가 나고 과일들이 길바닥에 나뒹굴길래 가게 밖으로 나가봤더니 골목 입구에 있던 과일 가게 직원이 30m 떨어진 정육점 앞까지 날아가 있더라”고 했다. 당시 거리를 지나던 한 여성은 “제가 간호사예요”라고 말하고 응급 처치를 했다고 한다.&lt;br&gt;&lt;br&gt;반찬 가게를 운영 중인 김강래(47)씨는 “차에 치인 사람이 바닥에 쓰러지고, 온 바닥이 피로 뒤덮이는 등 시장은 삽시간에 아비규환이 됐다”고 말했다. 황모(54)씨는 신발에 묻은 피를 닦으며 “가게 앞에 신발을 진열해 뒀던 게 다 쏟아져 급하게 나와봤더니 사람이 숨도 못 쉬고 길거리에 쓰러져 있어 내가 급하게 응급 처치를 했다”고 했다.&lt;br&gt;&lt;br&gt;건어물 가게 업주 안영규(66)씨는 “시장 골목에 머리 부상을 입은 사람들이 흩어져 있어 우리 상인들은 차마 비명도 못 지르고 있었다”며 “운전자도 놀랐는지 시동도 안 끄고 있길래 상인들이 나서서 빨리 시동 끄라고 말했다”고 했다. 이불 가게 업주 윤재선(57)씨도 “사고가 난 후 약 6분 가까이 운전자가 밖으로 나오지 않았고, 행인들이 나오라 해도 나오지 않다가 경찰이 부르니 나오더라”며 “자신이 저지른 일을 믿을 수 없어 하는 것 같았다”고 했다.&lt;br&gt;&lt;br&gt;함께 일하던 동료와 이웃이 변을 당하자 상인들은 충격에 휩싸였다. 과일 가게 직원인 남성 B씨와 견과류 가게를 운영하던 여성 C씨가 골목 근처에서 일을 하다 변을 당했다고 한다. B씨와 10년 동안 함께 일했다는 업주는 B씨가 이송된 병원에서 걸려 온 전화를 받으며 “못 깨어났대. 어떡해”라며 오열했다.&lt;br&gt;&lt;br&gt;B씨가 근무하던 과일 가게 단골이라는 한 60대 여성은 “사고 30분 전에 언니(C씨)와 새해 복 많이 받으라고 가게 앞에서 인사를 나눴는데 어떻게 이런 일이 있을 수 있느냐”며 “평소엔 가게 안에 들어가서 일하더니 왜 그때 길거리에 나와서…”라며 말을 잇지 못했다. 떡집을 운영하는 김정애(50)씨는 “차가 지나가며 매대에 있던 떡 상자가 땅으로 떨어졌다. 가게 앞에 손님이 서 있었다면 분명 차에 치였을 텐데 아찔했다”며 “바로 옆집에서 장사하던 동료가 사고를 당해 마음이 안 좋다”고 했다.&lt;br&gt;&lt;br&gt;서울 양천경찰서는 이날 운전자 김씨를 교통사고처리특례법 위반(치상) 혐의로 입건, 정확한 사고 경위를 조사 중이다. 사고 당시 김씨가 음주를 하거나 약물 복용 상태는 아니었던 것으로 조사됐다. 김씨는 경찰 조사에서 “급발진은 없었으며, 차를 오랫동안 주차장에 세워놨던 터라 방전이 걱정돼 오랜만에 끌고 나왔다가 사고가 났다”고 진술했다. “앞서 가던 차량을 피해 가속하던 중 시장 가판대 앞에서 브레이크를 밟았는데 이후론 잘 기억이 안 난다”고도 말했다. 경찰은 CCTV 영상을 토대로 정확한 사고 원인을 조사 중이다.&lt;br&gt;&lt;br&gt;지난해 7월 시청역 참사가 발생한 지 5개월 만에 고령 운전자 교통사고가 발생하자 고령자 운전에 대한 경각심을 고취해야 한다는 지적도 나온다. 도로교통공단 통계를 보면 만 65세 이상 노인 운전자가 낸 교통사고는 해마다 증가하고 있다. 2020년 3만1072건에서 2023년 3만9614건으로 3년 새 27.5%(8542건) 증가했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>흥국생명 본사서 화재 오인 신고 “옥상 수증기로 확인돼 철수”</title>
+      <link>https://www.chosun.com/national/national_general/2024/12/31/HFYQC3T625DK3D3WY6LWK5JUKI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/31/HFYQC3T625DK3D3WY6LWK5JUKI/</guid>
+      <dc:creator>김병권 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 31 Dec 2024 11:19:28 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NITHJNURIZKY7PU5QID72WYH24.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 종로구 흥국생명 본사 모습. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 종로구에 위치한 흥국생명 본사 건물에서 화재 발생 신고가 접수돼 소방당국이 출동했으나 결국 오인 신고로 드러나 철수했다. 이는 한 시민이 해당 건물 옥상에 있던 항온항습기에서 발생한 수증기를 화재 연기로 오인해 신고한 것이라고 한다.&lt;br&gt;&lt;br&gt;종로소방서에 따르면, 이날 오후 8시 7분쯤 흥국생명 건물에서 불이 났다는 신고가 접수됐다. 소방당국은 신고 6분 만인 오후 8시 13분쯤 현장에 도착했고, 현장 조사를 거쳐 “화재가 아닌 옥상 수증기”라는 결론을 내렸다고 한다. 소방당국은 이후 현장에서 철수했다.&lt;br&gt;&lt;br&gt;종로소방서 관계자는 “도심 고층 빌딩에서 화재가 발생했다는 신고가 접수돼 차량 21대, 인원 75명을 출동시켰으나 결국 오인 신고로 드러났다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>7080 추억의 교외선, 20년 만에 경기북부 가로지른다</title>
+      <link>https://www.chosun.com/national/national_general/2024/12/31/FACWRMBWTRFLRM3TNSGLLOIC54/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/31/FACWRMBWTRFLRM3TNSGLLOIC54/</guid>
+      <dc:creator>고양=김현수 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 31 Dec 2024 11:37:36 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OLLL4Q3WPVBNDO5IHWPRRHVK3M.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=이철원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 고양~의정부를 잇는 교외선 철도가 20년 만에 재개통한다.&lt;br&gt;&lt;br&gt;경기도는 오는 11일 오전 6시부터 교외선 운행을 시작한다고 31일 밝혔다. 당초 12월 28일 개통할 예정이었으나 12월 초 철도 파업 여파로 2주가량 지연됐다.&lt;br&gt;&lt;br&gt;교외선은 1963년 개통한 길이 30.3㎞ 수도권 철도다. 1970~80년대 교외선이 통과하는 양주 장흥 등이 나들이·MT(엠티) 명소로 인기를 끌면서 주말마다 붐볐다. 당시에는 통일호 열차가 달렸다. 이후 도로망이 확충되면서 적자가 쌓였고 2004년 운행을 중단했다.&lt;br&gt;&lt;br&gt;20년 만에 재개통하는 교외선은 정차 역을 12개에서 6개로 줄인다. 대곡역·원릉역·일영역·장흥역·송추역·의정부역만 운영한다. 원릉역·장흥역·송추역은 역무원이 근무하지 않는 무인역으로 운영할 예정이다.&lt;br&gt;&lt;br&gt;여기에 객차 2량짜리 무궁화호 디젤 열차를 하루에 20회 운행한다. 승차 정원은 136명이다.&lt;br&gt;&lt;br&gt;요금은 전 구간 2600원이다. 개통 후 한 달간은 1000원에 탈 수 있다.&lt;br&gt;&lt;br&gt;경기도 관계자는 “지금은 고양에서 의정부까지 버스로 1시간 30분 정도 걸리는데 교외선을 이용하면 50분이면 갈 수 있게 된다”며 “교외선을 타고 출퇴근하는 시민도 많을 것”이라고 했다. 양주·의정부 등 경기 북부 지역의 경제가 활성화하는 효과도 기대하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“넌 이미 훌륭했어” 유족의 손편지</title>
+      <link>https://www.chosun.com/national/national_general/2024/12/31/PEFYRW3HFNCN5GMSKACHMWDXMY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/31/PEFYRW3HFNCN5GMSKACHMWDXMY/</guid>
+      <dc:creator>김도연 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 31 Dec 2024 10:15:19 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SVFWD767HJIZFOVEU4XC6MITRY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;31일 전남 무안군 무안국제공항 제주항공 여객기 참사 현장에 기장의 가족이 쓴 것으로 추정되는 추모 메시지가 붙어 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“너는 이미 너무나 훌륭했어”&lt;br&gt;&lt;br&gt;제주항공 참사가 벌어진 지 사흘째 되던 31일, 전남 무안국제공항 철조망에는 이 문구가 담긴 편지가 붙어 있었다. 이번 참사 희생자의 유족이 쓴 편지였다.&lt;br&gt;&lt;br&gt;“우리 왔다”로 시작하는 이 편지에는 “외로이 사투를 벌였을 것을 생각하니 마음이 너무 아프다”며 “너는 이미 너무나 훌륭했고 충분히 잘했으니 이젠 따뜻한 곳에서 행복했음 좋겠다”고 적혀 있었다.&lt;br&gt;&lt;br&gt;이어 “고마웠고 그리고 미안하다”는 말이 담겼고 ‘형’이라는 한 글자가 편지의 끝을 맺었다. 편지 앞에는 김밥과 과자 등이 놓여 있었다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KE4UEI3VXRI7FOVLUYL2TNSS7Q.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;31일 오후 179명이 사망한 제주항공 여객기 참사 사고현장 인근인 무안국제공항 철조망에 추모쪽지가 붙어 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이 외에도 사고 지점 인근의 철조망에는 술과 음료, 빵, 핫팩 등이 놓여 있었다. 유족과 추모객들이 희생자를 애도하며 놓고 간 물품들이었다.&lt;br&gt;&lt;br&gt;철조망에는 추모객들이 희생자에게 남긴 편지들이 여럿 붙어 있었다. 한 추모객은 “살리고자 최선을 다하셨을 기장님, 부기장님 그리고 승무원들. 너무 정말 감사합니다”라며 “좋은 곳 가셔서 편하게 영면하시길 바랍니다”라는 내용의 편지를 남기고 갔다.&lt;br&gt;&lt;br&gt;항공 관련 직종에 종사하는 이들이 남기고 간 편지도 있었다. ‘한국교통대학교 비행훈련원 정비팀 일동’이라고 밝힌 작성자는 “안타까운 죽음, 평생 기억하겠습니다”라며 “좋은 곳에서 편안히 쉬길 기도하겠습니다”라고 적었다. 그 옆에는 하얀 국화 두 송이가 놓여 있었다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7QXFLWVGGVN3NLQX6WZLWDK7CI.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;31일 오후 179명이 사망한 제주항공 여객기 참사 사고현장 인근인 무안국제공항 철조망에 추모쪽지가 붙어 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/KMGL6XC6BRBPFJWDXN74CGNZOI.jpg?width=3494&amp;height=1966&amp;auth=bae7baf44ef5752fa3154b375808079f11b5f24c6ff9cf244e7d5afe58f5e717&amp;smart=true" type="image/jpeg" height="1966" width="3494">
+        <media:description type="plain"> 참사 현장에 붙은 손편지
+    (무안=연합뉴스) 김성민 기자 = 31일 전남 무안군 무안국제공항 제주항공 여객기 참사 현장에 기장의 가족이 쓴 것으로 추정되는 추모 메시지가 붙어 있다. 해당 메시지에는 '외로이 사투를 벌였을 것을 생각하니 마음이 너무 아프다. 너는 이미 너무나 훌륭했고 충분히 잘했으니 이젠 따뜻한 곳에서 행복했으면 좋겠다. 고마웠고 미안하다. 형이…'라고 적혀 있다. 2024.12.31
+    ksm7976@yna.co.kr/2024-12-31 18:01:06/
+&amp;lt;저작권자 ⓒ 1980-2024 ㈜연합뉴스. 무단 전재 재배포 금지, AI 학습 및 활용 금지&amp;gt;</media:description>
+        <media:credit role="author" scheme="urn:ebu">김성민</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>검찰 특수본, ‘계엄 국무회의 참석’ 송미령 농식품장관 참고인 조사</title>
+      <link>https://www.chosun.com/national/court_law/2024/12/31/TQLOOD4MY5DC3M5OL62BJ5TAGM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/31/TQLOOD4MY5DC3M5OL62BJ5TAGM/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 31 Dec 2024 11:16:52 +0000</pubDate>
+      <content:encoded>‘12·3 비상계엄’ 사태를 수사하는 검찰 특별수사본부(본부장 박세현 서울고검장)가 계엄 선포 전후 국무회의에 참석한 송미령 농림축산식품부 장관을 최근 참고인 신분으로 소환해 조사한 것으로 31일 알려졌다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VITHMABG45O7HFV6TBADS37B64.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;송미령 농림축산식품부 장관이 지난 19일 오전 서울 종로구 정부서울청사에서 열린 양곡관리법 개정안에 대한 재의요구권(거부권) 행사와 관련 브리핑을 마친 후 인사하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;송 장관은 비상계엄 선포 전 5분 동안 열린 국무회의에 참석한 국무위원 11명 중 한 명이다. 이와 관련, 송 장관은 지난 6일 정부세종청사에서 취재진과 만나 “국민께 송구하다”는 입장을 밝혔었다. 계엄을 선포하기 위한 국무회의인 줄 알지 못했고, 알았다면 참석하지 않았을 것이라는 것이다. 그러면서 윤석열 대통령의 계엄 선포에 대해 “혼란스러웠고 아주 깊이 우려했으며, 동의한 적은 없다”며 “찬성이냐, 반대냐를 묻는 자리는 아니었다”고 했다.&lt;br&gt;&lt;br&gt;송 장관은 계엄 선포 당일 이상민 행안장관과 함께 울산에서 중앙지방정책협의회에 참석했다. 이후 오후 9시 30분쯤 김포공항에 내려 대통령실 연락을 받고 오후 10시 10분쯤 국무회의 도중에 참석했다는 것이다. 송 장관은 지난 4일 새벽 열린 계엄 해제 국무회의에도 참석했다.&lt;br&gt;&lt;br&gt;계엄 선포 당시 국무회의에는 윤석열 대통령과 한덕수 국무총리, 최상목 부총리 겸 기획재정부 장관을 비롯해 김영호 통일장관과 조태열 외교부 장관, 박성재 법무부 장관, 김용현 전 국방부 장관, 이상민 전 행정안전부 장관, 조규홍 보건복지부 장관, 오영주 중소벤처기업부 장관 등이 참석했다. 검찰 특수본은 지난 12일 조규홍 장관을 시작으로 19일 김영호 장관, 20일 최상목 부총리, 21일 박상우 장관, 22일 조태용 국정원장을 조사했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>새해 첫날 선명한 일출... 지역별  해돋이 시간은</title>
+      <link>https://www.chosun.com/national/transport-environment/2024/12/31/R2H6QWWB3JAEZOSKUAYHFU7GKI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2024/12/31/R2H6QWWB3JAEZOSKUAYHFU7GKI/</guid>
+      <dc:creator>박상현 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 31 Dec 2024 11:43:09 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZJTZVNOKWZO6JLIBU65EIEMUDE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 27일 오전 경남 남해군 창선면 당저마을 인근에서 바라본 바다 위로 힘찬 태양이 구름을 헤치고 솟아오르고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;새해 처음으로 떠오르는 태양은 그 모습을 선명하게 드러낼 것으로 보인다. 1일 전국이 맑은 가운데 동해안과 서해안은 구름 한 점 없이 하늘이 깨끗하겠고, 남해안과 제주에선 구름 사이로 해가 떠오를 것으로 예상됐다.&lt;br&gt;&lt;br&gt;기상청에 따르면, 1일 우리나라는 중국 산둥반도 부근에서 동쪽으로 이동하는 고기압의 가장자리에 들면서 대체로 맑겠다. 1일 아침 최저기온은 영하 8도에서 영상 1도, 낮 최고기온은 6~10도로 예보돼 평년 기온을 웃돌겠다. 다만 경기북동부 일부 지역과 강원도는 아침 기온이 영하 10도 아래로 떨어지는 곳이 있어 춥겠다.전국적으로 바람이 강하게 불면서 체감기온은 예보된 기온보다 3~4도가량 낮을 수 있다.&lt;br&gt;&lt;br&gt;맑은 하늘 덕에 해돋이 보기는 좋을 전망이다. 31일도 우리나라는 중국 북부지방에 위치한 고기압의 영향권에 놓이며 해넘이 보기가 좋았다. 2024년 마지막 해넘이는 구름이 거의 끼지 않은 채 바다로 잠기는 붉은 태양의 모습이 또렷하게 보였다.&lt;br&gt;&lt;br&gt;1일 해돋이 시각은 서울 오전 7시 47분, 강릉 오전 7시 40분, 대전·청주 오전 7시 42분, 광주 오전 7시 41분, 대구 오전 7시 36분, 부산 오전 7시 32분, 제주 오전 7시 38분 등으로 예보됐다. 전국적으로 구름이 거의 없을 것으로 예상되나, 호남권과 제주에선 구름 사이로 해가 떠오르는 모습을 볼 수도 있다. 1일 늦은 새벽 강원 산지에는 약한 눈발이 흩날릴 것으로 예상됐다.&lt;br&gt;&lt;br&gt;겨울 한복판인 1월에 들어섰지만 새해 첫 주는 예년보다 포근할 것으로 전망됐다. 우리나라가 1일 산둥반도 쪽 고기압에 이어 2~4일에도 중국 북부지방에서 남동쪽으로 이동하는 고기압 영향권에 들면서 한랭 건조한 북쪽 바람이 들어오지 못하기 때문이다.&lt;br&gt;&lt;br&gt;일요일인 5일 오후부터는 눈구름대를 동반한 기압골의 영향으로 중부지방을 중심으로 하늘이 차차 흐려지겠다. 5일 수도권과 강원영서에는 눈이나 비가 내리겠다. 강수는 6일 중부지방 곳곳으로 확대돼 오전까지 수도권과 강원영서, 충청권에 눈이나 비를 뿌리겠다. 제주도엔 약한 비가 내릴 것으로 보인다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>尹 대리인단 “체포영장은 무효” 헌재에 심판청구·가처분 신청</title>
+      <link>https://www.chosun.com/national/court_law/2024/12/31/WC762QGPSVBL7OCHTVE7R37QVE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/31/WC762QGPSVBL7OCHTVE7R37QVE/</guid>
+      <dc:creator>방극렬 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 31 Dec 2024 10:21:50 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HF3EMPLRRBA3TEI6C6XQLODD64.png"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 대통령 측이 31일 법원이 발부한 체포영장에 불복해 헌법재판소에 권한쟁의 심판과 체포영장 효력정지 가처분을 신청했다고 밝혔다.&lt;br&gt;&lt;br&gt;윤 대통령의 탄핵심판 대리인단은 이날 “윤 대통령에 대한 체포영장 청구와 발부는 대통령의 비상계엄 선포 권한 등을 침해해 무효라는 것을 확인해달라”는 권한쟁의 심판을 청구했다. 아울러 윤 대통령에 대한 체포영장의 효력을 정지해달라는 가처분도 함께 신청했다.&lt;br&gt;&lt;br&gt;권한쟁의 심판이란 국가기관 사이의 업무·권한에 대해 헌재가 그 책임과 권한을 가려달라고 제기하는 소송이다. 윤 대통령 측은 체포·수색영장을 청구한 고위공직자범죄수사처(공수처)와 영장을 발부한 법원이 대통령의 권한을 침해했다는 입장이다.&lt;br&gt;&lt;br&gt;윤 대통령 측은 취재진에 배포한 자료에서 “수사권이 없는 공수처가 권한 없이 영장을 청구했고, 법원은 대통령의 고유 권한인 비상계엄 선포에 대해 내란죄로 체포영장을 발부해 대통령의 헌법수호와 비상계엄 선포 권한을 침해했다”고 주장했다.&lt;br&gt;&lt;br&gt;대리인단은 “공수처의 수사는 수사기관 적격성, 수사권의 존부(存否) 등 문제가 있어 법원이 영장 발부에 신중할 것으로 생각했지만, 유감스럽게도 영장이 발부됐다”며 “권한쟁의 심판을 통해 법원의 사법 개입에 대한 기준과 한계를 정리할 필요가 있다고 판단했다”고 말했다.&lt;br&gt;&lt;br&gt;그러면서 “윤 대통령은 수사를 피하는 것이 아니라, 사법체계 근간을 근본적으로 훼손할 나쁜 선례를 남기지 않아야 한다는 책임감을 갖고 있다”고 했다.&lt;br&gt;&lt;br&gt;이순형 서울서부지법 영장전담 부장판사는 이날 오전 공수처가 청구한 윤 대통령 체포영장과 한남동 대통령 관저에 대한 수색 영장을 함께 발부하면서 “윤 대통령이 정당한 사유 없이 출석 요구에 응하지 않을 우려가 있고, 죄를 범했다고 의심할 만한 상당한 이유가 있다”고 밝혔다. 대표 죄목으로 ‘내란 수괴’ 혐의가 적시된 체포영장의 기한은 2025년 1월 6일이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>지방공무원, 내년부터 육아휴직 기간 전부 경력 인정받는다</title>
       <link>https://www.chosun.com/national/national_general/2024/12/31/5PKIBM4UTRFQXJKR324E2XHIT4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/31/5PKIBM4UTRFQXJKR324E2XHIT4/</guid>
@@ -819,87 +910,6 @@
       <description/>
       <pubDate>Mon, 30 Dec 2024 15:54:10 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OYTKMX5RI4VP5GLGCWWZLYPO2Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령이 3일 밤 서울 용산 대통령실 청사에서 긴급 대국민 특별 담화를 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘12·3 비상계엄’ 사태를 수사하는 고위공직자범죄수사처(공수처)가 윤석열 대통령에 대해 30일 체포영장을 청구했다. 현직 대통령에게 체포영장이 청구된 것은 헌정 사상 처음이다.&lt;br&gt;&lt;br&gt;공수처와 경찰 국가수사본부, 국방부 조사본부로 구성된 공조수사본부(공조본)는 이날 0시 서울서부지방법원에 윤 대통령에 대한 체포영장을 청구했다고 밝혔다. 공조본은 체포영장에 내란 우두머리(수괴), 직권남용 혐의를 적시했다. 또 한남동 대통령 관저에 대한 수색 영장도 함께 청구했다. 관저를 수색해 윤 대통령을 체포하겠다는 취지다.&lt;br&gt;&lt;br&gt;앞서 공수처는 18일과 25일, 29일 등 세 차례 윤 대통령에게 출석을 요구했지만 윤 대통령은 모두 응하지 않았다. 출석요구서 등 우편 수령을 거부했고, 조사 일정 조율도 하지 않았다.&lt;br&gt;&lt;br&gt;체포 영장이 청구되자 윤 대통령은 검찰 선배인 김홍일 전 방송통신위원장과 윤갑근 변호사를 변호사로 선임했다. 윤 변호사는 이날 서울서부지법에 선임계를 제출하며 ‘공수처는 체포영장 청구 권한이 없고, 형사소송법상 체포 요건에도 맞지 않다’는 내용의 체포영장 의견서를 제출했다고 밝혔다. 공수처는 내란죄를 수사할 권한이 없기 때문에 체포영장은 기각돼야 한다는 것이다.&lt;br&gt;&lt;br&gt;이에 대해 공수처는 고위공직자의 직권남용 혐의를 수사하면서 관련 범죄로 내란죄도 함께 수사할 수 있다는 입장이다.&lt;br&gt;&lt;br&gt;체포영장 발부 여부는 이르면 31일 결정된다. 법원은 공수처에 윤 대통령의 내란 혐의에 대한 수사권이 있는지도 따져볼 예정이다.&lt;br&gt;&lt;br&gt;만약 체포영장이 발부될 경우, 공조본은 윤 대통령이 거주 중인 한남동 대통령 관저에서 영장 집행을 시도할 방침이다. 영장 집행 과정에서 대통령경호처와 충돌이 일어날 수 있다는 우려도 있다.&lt;br&gt;&lt;br&gt;한편 경찰은 이날 한덕수 국무총리에게 2차 출석 요구서를 발송했다. 경찰은 또 이날 정진석 대통령비서실장에게 출석을 요구했지만, 정 실장은 출석하지 않았다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[인사] 헌법재판소 외</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2024/12/31/WA6F2CN3PVAOVHZDLFHTUFBSAQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2024/12/31/WA6F2CN3PVAOVHZDLFHTUFBSAQ/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Mon, 30 Dec 2024 15:44:33 +0000</pubDate>
-      <content:encoded>▲&lt;b&gt;헌법재판소&lt;/b&gt;◇선임헌법연구관▷공보관 겸임 천재현 ▷도서총괄심의관 겸임 김인숙◇국장 전보▷국제협력국장 신승훈◇부이사관 전보▷심판지원총괄과장 조윤영 ▷국립외교원 파견 이진석◇부이사관 승진▷재정기획과장 박재은▷인사과장 김신일◇과장 전보▷국제과장 이두형▷자료조사과장 박용화▷기획행정과장 조기영▷통일교육원 파견 이영준&lt;br&gt;&lt;br&gt;▲&lt;b&gt;동아일보&lt;/b&gt;◇본부장▷콘텐츠기획본부장 김창덕▷AD본부장 박형준▷문화사업본부장 고기정(미디어솔루션본부장 겸직)◇국장▷경영지원국장 이종기◇센터장▷지식서비스센터장 김희균(사료연구실장 겸직)◇논설위원▷윤완준▷장원재◇편집국▷정치부장 문병기▷산업1부장 유재동▷산업2부장 김기용▷경제부장 김현수▷정책사회부장 이상훈▷스포츠부장 이헌재▷문화부장 정양환&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[부음] 김양배 前 보건복지부 장관 별세 외</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2024/12/31/AKYK7RRN4RCFDLS6TPWJMTZ52Q/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2024/12/31/AKYK7RRN4RCFDLS6TPWJMTZ52Q/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Mon, 30 Dec 2024 15:44:04 +0000</pubDate>
-      <content:encoded>▲&lt;b&gt;김양배&lt;/b&gt; 前 보건복지부 장관 별세, &lt;b&gt;김영희&lt;/b&gt; 남편상, &lt;b&gt;김수진&lt;/b&gt;·&lt;b&gt;김수연&lt;/b&gt; 부친상, &lt;b&gt;이태규&lt;/b&gt; 의정부성모병원 부원장·&lt;b&gt;박경륜&lt;/b&gt; 미래에셋 상무 장인상=29일11시28분 서울성모병원, 발인 1일5시30분, (02)2258-5961&lt;br&gt;&lt;br&gt;▲&lt;b&gt;노미대자&lt;/b&gt; 별세, &lt;b&gt;정진옥·정현희&lt;/b&gt; 모친상, &lt;b&gt;이대희&lt;/b&gt; 조선일보 CS서간석센터 대표·&lt;b&gt;박영보&lt;/b&gt; 장모상, &lt;b&gt;이효령·이루리&lt;/b&gt; 조모상=30일15시 이대목동병원, 발인 1일12시, (02)2650-5121&lt;br&gt;&lt;br&gt;▲&lt;b&gt;윤하정&lt;/b&gt; 前 외교부 차관 별세, &lt;b&gt;김인기&lt;/b&gt; 남편상, &lt;b&gt;윤석주&lt;/b&gt;·&lt;b&gt;윤여화&lt;/b&gt; 前 코리아헤럴드 기자·&lt;b&gt;윤경화&lt;/b&gt; 프랑스자산공사 근무 부친상, &lt;b&gt;이희설&lt;/b&gt; 3Q인터내셔널 대표·&lt;b&gt;이상혁&lt;/b&gt; 폴리티코 유럽담당기자 장인상=29일21시 강동성심병원, 발인 31일8시40분, (02)2224-2193&lt;br&gt;&lt;br&gt;▲&lt;b&gt;이종갑&lt;/b&gt; 별세, &lt;b&gt;이승수&lt;/b&gt; 국세청 개인납세국장 부친상, &lt;b&gt;김용화&lt;/b&gt; 서울시향 근무 시부상=29일22시30분 서울성모병원, 발인 1일9시40분, (02)2258-5940&lt;br&gt;&lt;br&gt;▲&lt;b&gt;한갑종&lt;/b&gt; 前 전주 화산초 교사 별세, &lt;b&gt;한인욱&lt;/b&gt;·&lt;b&gt;한인순&lt;/b&gt; 미국 미네소타대 교수·&lt;b&gt;한정욱&lt;/b&gt; 삼성화재 프로·&lt;b&gt;한민욱&lt;/b&gt; 동학농민혁명기념재단 기념사업부장 부친상, &lt;b&gt;김건수&lt;/b&gt; 장인상, &lt;b&gt;김정애&lt;/b&gt; 前 관악구의원·&lt;b&gt;송경아&lt;/b&gt;·&lt;b&gt;박인영&lt;/b&gt; 시부상, &lt;b&gt;한병훈&lt;/b&gt;·&lt;b&gt;한병도&lt;/b&gt;·&lt;b&gt;한은지&lt;/b&gt;·&lt;b&gt;한승범&lt;/b&gt;·&lt;b&gt;한수연&lt;/b&gt;·&lt;b&gt;한연우&lt;/b&gt; 조부상, &lt;b&gt;김성빈&lt;/b&gt;·&lt;b&gt;김지연&lt;/b&gt;·&lt;b&gt;이태양&lt;/b&gt;·&lt;b&gt;이하늘&lt;/b&gt; 외조부상=30일1시55분 전북대병원, 발인 2일9시, (063)250-1443&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[매일매일 중국어 한마디] 이불 속</title>
-      <link>https://www.chosun.com/national/nie/chinese/2024/12/31/ASIBATUTWRAEFNXDMDECRDR34I/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese/2024/12/31/ASIBATUTWRAEFNXDMDECRDR34I/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Mon, 30 Dec 2024 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JX2PTL7K35HQNA2H2SEVMPEI3I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[스피킹이 강해지는 영어] made for each other</title>
-      <link>https://www.chosun.com/national/nie/english/2024/12/31/EKJNQ7SNAJACNLWBB7U77PQRC4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/english/2024/12/31/EKJNQ7SNAJACNLWBB7U77PQRC4/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Mon, 30 Dec 2024 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SPFSZKBUW5C7ZD4ANHOGBKJFHQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[두근두근 뇌 운동] [2533] 손가락 낭독회</title>
-      <link>https://www.chosun.com/national/nie/2024/12/31/BPYGUE5M2BG2RPDSGZOGLBUTMM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/12/31/BPYGUE5M2BG2RPDSGZOGLBUTMM/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Mon, 30 Dec 2024 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CDUHGKBPFFEZDPAWJQEA26HO2Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[입에 착착 붙는 일본어] 좋은 새해를 맞이하세요</title>
-      <link>https://www.chosun.com/national/nie/japanese/2024/12/31/UJUIRSKOO5C5RMUGSBTZ5IUDUQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/japanese/2024/12/31/UJUIRSKOO5C5RMUGSBTZ5IUDUQ/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Mon, 30 Dec 2024 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ETPB7757TNDBVEJ7UEMTL43F5M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문으로 배우는 실용한자] 국운(國運)</title>
-      <link>https://www.chosun.com/national/nie/chinese_character/2024/12/31/IYLDX3AU65EYPBEVMJSCPMPUAA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese_character/2024/12/31/IYLDX3AU65EYPBEVMJSCPMPUAA/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Mon, 30 Dec 2024 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/U6D3QUAEYRHR3CQ7ZRFANTS3MY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문은 선생님] [사소한 역사 18세기 나폴리서 지금 형태로 발전… 까다로운 규정 지켜야 ‘정통’ 피자로 인정받아요</title>
-      <link>https://www.chosun.com/national/nie/2024/12/31/LV52IRAZFZEQ5HIFQBLDSN5H7Y/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/12/31/LV52IRAZFZEQ5HIFQBLDSN5H7Y/</guid>
-      <dc:creator>김현철 서울 영동고 역사 교사</dc:creator>
-      <description/>
-      <pubDate>Mon, 30 Dec 2024 15:31:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CLB6DD52Y5EKTJOROOUHJ6UZKA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;‘나폴리 피자’의 대표적 종류인 마르게리타 피자. 도우가 얇고, 높은 온도에서 1분 30초 정도만 굽는 것이 특징입니다. /브리태니커&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최근 소셜 미디어에서 ‘다이어트 피자’가 화제가 되고 있어요. 밀가루 대신 양배추로 도우를 만들고, 기름진 육류 대신 각종 채소와 닭가슴살 등을 이용해 만드는 피자인데요. 체중 감량 중에도 피자를 포기할 수 없는 많은 사람이 조리법을 공유하고 있답니다. ‘피자맛 과자’ ‘피자맛 호빵’이 있을 정도로 피자는 우리에게 익숙한 음식인데요. 사람들은 언제부터 피자를 만들어 먹은 걸까요?&lt;br&gt;&lt;br&gt;피자의 어원으로 추정되는 단어는 다양합니다. 동그랗고 납작한 빵을 의미하는 그리스어 피타(pitta)에서 유래되었다는 설, 고대 로마어에서 ‘파이’라는 뜻의 피체아(picea)에서 나왔다는 주장 등이 있죠. 확실한 것은 피자가 그리스와 로마 등 지중해 세계에서 매우 오래전부터 먹은 음식이라는 것입니다. 학자들은 고대 지중해 세계의 군대에서 빵을 구운 뒤 접시처럼 만들어 그 위에 마늘이나 양파, 치즈 같은 토핑을 얹어 먹었던 것으로 추정해요.&lt;br&gt;&lt;br&gt;이 음식은 훗날 그리스인들에 의해 빵 반죽에 토핑을 올려 함께 구워 먹는 음식으로 발전했는데, 이를 플라쿤토스(plakuntos)라고 불렀다고 해요. 이 음식이 이탈리아 지방으로 전해지면서 피자가 됐다는 설이 가장 유력합니다. 특히 서기 79년 화산 폭발로 인해 멸망한 폼페이 유적에서도 당시 피자를 만든 것으로 보이는 가게들이 남아 있다고 해요.&lt;br&gt;&lt;br&gt;현재 우리가 먹는 피자 같은 형태는 18세기에 만들어집니다. 이탈리아 나폴리 지역에서 당도 높은 토마토를 재배하면서 토마토를 피자에 올렸고, 안초비 소스나 올리브 오일을 뿌리기도 했대요. 흔히 나폴리는 ‘피자의 고장’으로 알려져 있는데, 이는 나폴리 왕국의 왕비가 특히 피자를 좋아했기 때문이었다고 해요. 당시 피자는 서민의 음식으로 여겨졌는데 왕비가 그런 피자를 좋아하는 것이 못마땅했던 왕이 왕실에 어울릴 만한 피자 레시피를 개발했대요. 그러자 귀족들도 덩달아 피자를 만들어 먹으면서 나폴리 지역에서 피자가 발전했다고 합니다.&lt;br&gt;&lt;br&gt;이탈리아 피자는 대서양을 건너 변주를 거칩니다. 19세기 후반 돈을 벌기 위해 미국으로 이민 간 이탈리아인들이 늘어났는데요. 이들이 거기서 피자를 만들어 팔면서 미국에도 피자가 흔해지게 된 거죠. 피자는 금세 미국인들의 입맛을 사로잡았고, 점점 미국인 입맛에 맞는 토핑이 올라가기 시작합니다. 그러면서 피자 소스, 재료 등에 많은 변화가 생긴 것이죠.&lt;br&gt;&lt;br&gt;이후 미국의 피자 업체들은 세계에 다양한 피자를 전파하게 됩니다. 그러자 이탈리아인들은 피자의 원형이 훼손되는 것을 막기 위해 1984년 ‘나폴리피자협회’를 설립했어요. 온갖 ‘변종’들로부터 정통 피자를 보호하려고 한 거죠. 정통 나폴리 피자로 인증을 받기 위해서는 화덕의 종류와 도우의 형태 등 까다로운 규정을 준수해야 한다고 합니다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문은 선생님] [철학·인문학 이야기] 이슬람과 타협해 예루살렘 되찾은 황제… 교황에겐 이단으로 몰려 파문당했죠</title>
-      <link>https://www.chosun.com/national/nie/2024/12/31/CJQEMH2YUFAVDIRI4Z55TX4NFM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/12/31/CJQEMH2YUFAVDIRI4Z55TX4NFM/</guid>
-      <dc:creator>안광복 중동고 철학 교사</dc:creator>
-      <description/>
-      <pubDate>Mon, 30 Dec 2024 15:31:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EKIW7QAIL5D4HJ7V54YRWNNF4E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/브리태니커&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;신성로마제국 황제였던 프리드리히 2세(1194~1250)는 현실적인 사람이었어요. 당시 유럽의 기독교인들에게 성지(聖地) 예루살렘을 이슬람 세력으로부터 되찾는 일은 신이 내린 의무였습니다. 프리드리히 2세는 제6차 십자군을 이끌었던 황제였어요. 그는 차분하게 오랜 세월에 걸쳐 군사와 장비를 마련했습니다. 그러나 전쟁터에 다다랐을 때는 정작 전투를 벌이지 않았어요.&lt;br&gt;&lt;br&gt;당시 상대편이던 이슬람 측 지도자는 술탄 알 카밀입니다. 그 역시 현실 정치에 밝았던 인물이지요. 황제와 술탄은 길고 긴 협상을 벌였습니다. 마침내 둘은 합의에 이릅니다. 예루살렘의 성역(聖域)은 기독교인들에게 돌려준다. 그리고 이곳에 오는 유럽 순례자들의 안전도 보장한다.&lt;br&gt;&lt;br&gt;‘황제 프리드리히 2세의 생애’라는 평전을 쓴 시오노 나나미에 따르면, 이는 합리적인 타협이었습니다. 기독교도들은 오랫동안 원하던 성지를 얻게 되었고, 이슬람 측 입장에서는 십자군이 예루살렘을 되찾겠다며 자기들 땅에 다시 쳐들어올 명분이 사라졌으니까요. 이제 이슬람과 기독교 세계는 평화롭게 지내게 되었습니다.&lt;br&gt;&lt;br&gt;하지만 정작 로마의 교황은 황제 프리드리히 2세를 파문해 버립니다. 교황의 눈에는 황제가 십자군 원정을 떠나기 위해 너무 오래 준비한 것이 성전을 피하려고 꼼수를 부린 것으로 보였고, 이교도(이슬람)와 타협했다는 사실 자체도 견딜 수 없었기 때문이에요. 교황은 진정한 신앙인이라면 마땅히 성스러운 땅을 피를 흘려 되찾아야 한다고 생각했던 거예요. 이슬람 측에서도 술탄의 협상을 수치로 여겼다고 합니다. 예루살렘은 이슬람교에서도 성지이기 때문입니다.&lt;br&gt;&lt;br&gt;하지만 파문을 당했어도 프리드리히 2세는 강력한 황제였습니다. 이후로 황제와 교황 사이에 날카로운 대결이 이어졌지요. 프리드리히는 ‘황제의 것은 황제에게, 신의 것은 신에게’라는 성경의 가르침을 앞세웠습니다. 말하자면 정치와 종교의 분리를 주장했던 셈이지요. 반면, 당시 기독교는 ‘교황이 태양이라면 황제는 달’이라는 표현처럼 교회가 세상의 모든 권력 위에 있음을 강조했습니다.&lt;br&gt;&lt;br&gt;프리드리히 2세는 고대 로마제국처럼 권력을 중앙에 집중시켜 안정된 제국을 다시 만들려고 했습니다. 반면 교황은 모든 권위는 오직 신에게서 나오며, 황제의 권력은 교회를 넘어서면 안 된다며 강하게 맞섰지요. 그 결과 황제는 세 번이나 파문을 당하며 이단으로 몰리고 말았습니다.&lt;br&gt;&lt;br&gt;황제와 교황 가운데 누구의 말이 맞았을까요? 황제가 죽은 후 중동의 평화는 깨졌습니다. 십자군이 중동 지역에 세운 국가들은 최후를 맞았고, 교황의 권위도 땅에 떨어지고 말지요. 혼란한 시대, 프리드리히 2세 시대의 정치 현실을 살펴보며 우리에게 필요한 혜안을 얻으면 좋겠습니다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[오늘의 날씨] 2024년 12월 31일</title>
