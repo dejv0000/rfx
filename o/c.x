@@ -13,6 +13,64 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>지방공무원, 내년부터 육아휴직 기간 전부 경력 인정받는다</title>
+      <link>https://www.chosun.com/national/national_general/2024/12/31/5PKIBM4UTRFQXJKR324E2XHIT4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/31/5PKIBM4UTRFQXJKR324E2XHIT4/</guid>
+      <dc:creator>김영우 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 31 Dec 2024 09:07:54 +0000</pubDate>
+      <content:encoded>내년 1월부터 지방공무원은 육아휴직 기간 전부를 경력으로 인정받을 수 있게 된다. 성범죄 피해를 입은 공무원에 대한 보호 조치와 저연차 공무원에 대한 지원은 강화된다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AJ4W55VRLGZNGNHKBSAQ5KQVCM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;행정안전부 청사 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;행정안전부는 이 같은 내용을 담은 ‘지방공무원 임용령’, ‘지방 연구직 및 지도직 공무원의 임용 등에 관한 규정’, ‘지방공무원 보수 규정’, ‘지방공무원 수당 등에 관한 규정’이 31일 국무회의에서 의결됐다고 밝혔다.&lt;br&gt;&lt;br&gt;우선 지방공무원은 육아휴직 기간 전부를 경력으로 인정받을 수 있게 됐다. 정부는 현재 첫째 자녀에 대한 육아휴직 기간은 최대 1년, 둘째 이후부터는 전부를 경력으로 인정해주고 있다. 행안부 관계자는 “육아휴직 기간을 경력으로 인정할 때 자녀를 구분할 이유가 없다는 점을 고려했다”고 말했다.&lt;br&gt;&lt;br&gt;또 공무원이 자녀 양육을 위해 다른 지자체 공무원과 자리를 옮길 땐 전출 제한 기간 내에도 전출을 허용한다. 현재는 공개채용으로 임용된 공무원은 3년, 경력채용으로 임용된 공무원은 4~5년간 전출을 제한하고 있다.&lt;br&gt;&lt;br&gt;성범죄 등 피해를 입은 공무원은 전출 기간 내에도 본인이 원하면 다른 지자체로 전출할 수 있게 된다. 기존엔 지자체 내에서만 파견 또는 전보가 가능했다. 저연차 공무원이 역량 개발 기회를 가질 수 있도록 1년 내에서 사용할 수 있는 무급 휴직인 ‘자기개발휴직’은 재직 요건을 5년에서 3년으로 줄였다.&lt;br&gt;&lt;br&gt;한편 내년 지방공무원 보수는 올해보다 3% 오른다. 다만 저연차 공무원의 인상률이 더 높도록 인상률을 차등화했다. 행안부 관계자는 “9급 1호봉 기준 6.6%까지 인상된다”고 말했다.&lt;br&gt;&lt;br&gt;행안부는 민원이나 사서직 등의 업무 기피 현상을 해소하기 위해 최고 월 3만원 수준의 ‘민원업무수당 가산금’을 신설하고, 사서직 공무원 수당은 월 1만원씩 인상하기로 했다. 육아휴직수당은 최대 150만원에서 최대 250만원까지 100만원 늘린다. 현재 첫째 3만원, 둘째 7만원, 셋째 이후 11만원인 가족수당도 첫째 5만원, 둘째 8만원, 셋째 이후 12만원으로 인상하기로 했다.&lt;br&gt;&lt;br&gt;이날 국무회의에서 의결된 법령 개정안들은 내년 1월 초부터 시행될 예정이다. 행안부 관계자는 “앞으로도 공무원들의 육아 여건 개선과 공무원에 대한 보호·지원을 강화하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>참사 희생자 장례 절차 시작…유족들 “마지막 순간 얼마나 아팠을까”</title>
+      <link>https://www.chosun.com/national/national_general/2024/12/31/P67A24E3KNHPZGAK5HQNFIWL44/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/31/P67A24E3KNHPZGAK5HQNFIWL44/</guid>
+      <dc:creator>무안=박정훈 기자, 영광=고유찬 기자, 무안=김도연 기자, 광주광역시=장윤 기자, 광주광역시=양인성 기자, 광주광역시=김지혜 기자, 무안=김혜민 기자, 무안=조민희 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 31 Dec 2024 08:26:41 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SK3WWLQOXJLVRAT2KT6JRDDQYE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;제주항공 여객기 참사 이튿날인 30일 오후 광주 지역 참사 희생자의 시신이 첫 안치된 광주 광산구 한 장례식장에 추모 현수막이 붙어있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;탑승 인원 181명 중 179명이 사망하며 1997년 대한항공 괌 추락 사고 이후 최악의 항공기 사고로 기록된 제주항공 참사 희생자들에 대한 장례 절차가 참사 사흘째인 31일 시작됐다. 또한 여객기 참사의 원인을 규명하기 위한 합동 사고조사 감식도 이날 시작됐다.&lt;br&gt;&lt;br&gt;국토교통부와 경찰 등 수습당국은 제주항공 참사 희생자 179명 중 5명을 제외한 174명의 시신에 대한 신원을 확인했다고 이날 밝혔다. 전남경찰청 관계자는 “DNA 감식에서 유족과 희생자의 관계를 확인할 필요가 있고 모계인지 부계인지, 1촌인지 3촌인지 등을 확인하느라 5명의 신원 확인 통보가 늦어졌다”며 “신원 확인이 되지 않은 5구의 시신에 대해서는 정밀 검사를 진행해 오늘 중에 신원 확인을 마칠 수 있도록 하겠다”고 했다. 희생자들은 이날 새벽 설치된 냉동 컨테이너 11대에 각각 나뉘어 안치돼 있다.&lt;br&gt;&lt;br&gt;이날 새벽 신원 확인이 추가로 된 27명 탑승객의 유족들은 31일 오전 10시부터 순차적으로 시신을 확인하러 임시 안치소를 다녀왔다. 막내 여동생 부부가 골프여행을 갔다가 사고를 당했다는 강모(60)씨는 30일 새벽 시신 확인을 했지만, 온전한 시신 확인을 하고 싶어 아직 공항에 머물고 있다.&lt;br&gt;&lt;br&gt;강씨는 “형제들과 어머니는 모두 오늘 철수했다”며 “많이 지치고 힘들어 나가고 싶다. 벌써 며칠째인가”라고 했다. 조카를 잃은 김모(56)씨는 “파편 조금이라도 더 보태서 최대한 온전하게 보내주는 게 맞는다”며 “장례 절차 다 들어가고 나서 나중에 일부분 찾게 되면 그거는 어떻게 돌려받겠나”라고 했다.&lt;br&gt;&lt;br&gt;시부모를 잃은 A씨는 “매일 보던 시부모님인데 이제 없는 게 상상이 안가고, 계속 연락이 올 것만 같다”고 했다. 유족 대표단에서는 “시신 훼손 정도가 상당하니 심약한 분들은 제발 가지 않길 권한다. 우리도 트라우마에 시달리고 있다”고 권고했다.&lt;br&gt;&lt;br&gt;사망자 신원 확인이 막바지에 접어듦에 따라 당국은 시신 인도 절차에 착수했다. 수습당국은 이날 오후부터 검안·검시, 신원 확인, DNA 감식 등 모든 절차가 끝난 28구의 시신을 유족의 뜻에 따라 인도 절차를 밟도록 할 예정이다. 당국은 “국과수에서 시신 606편(片)에 대한 DNA 감식을 내달 3일까지 마칠 예정”이라며 “다만 3일에 바로 인도는 어렵고 시신 수습 작업을 더 거쳐 내달 6일까지는 모든 시신에 대한 인도 절차가 가능하도록 최선을 다하겠다”고 했다.&lt;br&gt;&lt;br&gt;이날 무안국제공항에도 유가족들의 요구에 따라 합동분향소가 차려졌다. 또 공항 인근에는 참사 추모공원과 위령탑을 건립할 것을 논의 중이기도 하다. 박상우 국토교통부 장관은 “수습되지 않은 시신 일부가 뒤늦게 수습되면 이를 모아 합동 장례를 치를 생각도 있다”며 “적절한 장소에 추모공원을 마련해 모실 수도 있다”고 했다.&lt;br&gt;&lt;br&gt;상대적으로 훼손 정도가 덜한 5구의 시신은 광주(4구)와 서울(1구) 등으로 운구돼 장례 절차가 시작됐다. 태국에 전남편과의 사이에서 낳은 자녀들과 아버지를 만나러 고향에 갔다가 참변을 당한 태국인 두엉마니종락(45)씨 빈소는 광주 광산구에 꾸려졌다.&lt;br&gt;&lt;br&gt;두엉마니종락씨는 지난 2018년 한국에 입국해 지난 2019년 한국인 남편 A씨와 결혼했다. A씨는 “아내가 비행기를 탈 때 ‘내일 아침에 보자’고 했다”며 “아내 친구가 많이 있는데 연락할 방법이 없다. 다 오고 싶어할 텐데”라고 했다. 광주 서구의 장례식장에도 희생자 채모(67)씨의 시신이 인도돼 장례가 열렸다. 상주인 아들은 “아직 수많은 유가족들이 공항에 남아있고 시신이 수습되지 않았다”며 “조용히 장례를 치르고 싶다”고 했다.&lt;br&gt;&lt;br&gt;광주 북구에선 이모(48)씨의 빈소가 마련됐다. 이씨의 시신은 아직 인도되지 않았으나 유족들의 요청에 따라 우선 장례가 치러지고 있다. 전날 만난 이씨의 남편 나모(52)씨는 “시신을 보니 많이 다쳤더라”며 “원래 겁이 많은 사람인데 그동안 얼마나 무섭고 고통스러웠을까 생각하니 가슴이 미어졌다”고 했다. 이어 “무섭고 고통스러웠을텐데 가는 길이라도 가족들끼리 조용하고 편하게 지내자 해서 빈소를 차렸고, 절차가 끝나는대로 시신을 가져오려고 한다”고 했다.&lt;br&gt;&lt;br&gt;이번 참사의 희생자 대부분이 광주·전남 지역에서 나온 만큼 이곳에서의 안타까운 소식들도 이어졌다. 이번 희생자 중 최고령자인 배모(78)씨는 내년 팔순을 앞두고 아내와 두 딸의 가족 등 9명과 함께 태국으로 여행을 갔다 돌아오는 길에 일가족 모두가 참변을 당했다. 배씨의 생애 처음으로 간 해외여행이었다고 했다.&lt;br&gt;&lt;br&gt;한편 이날 제주항공 참사의 유이한 생존자 중 한 명인 제주항공 승무원 구모(25)씨 측은 병원 측에 “트라우마 때문에 당분간은 안정을 취하고 싶다”는 뜻을 전해왔다. 구씨는 지난 29일 오후 목포중앙병원에서 서울아산병원으로 이송됐다. 구씨는 머리와 발 등을 다쳤으나 생명에는 지장이 없는 상태다. 또 다른 생존자인 승무원 이모(33)씨는 이대서울병원에서 회복 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>신세계백화점 광고판도 껐다...송년 행사·지역 축제 줄취소</title>
+      <link>https://www.chosun.com/national/national_general/2024/12/31/BBLBHXTQXBHT7GZULOHURM7B7M/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/31/BBLBHXTQXBHT7GZULOHURM7B7M/</guid>
+      <dc:creator>김병권 기자, 김영우 기자, 이민경 기자, 조은서 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 31 Dec 2024 08:47:55 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VGFVDAKEX5MGZIGCOJ6TB7DEXU.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;31일 오후 경기 수원시 팔달구 여민각 인근에 송년·신년 행사 취소를 알리는 현수막이 붙어있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;179명이 숨진 제주항공 참사로 지난달 29일부터 4일까지 1주일간 ‘국가 애도 기간’이 진행 중이다. 지방자치단체들은 연말·연시 축제를 잇따라 취소했고 유통·관광·게임 업계도 각종 이벤트를 거둬들였다. 정계·관계·재계에선 회식 취소가 속출했고 시민들 역시 연말 송년회나 신년 모임을 미루고 있다.&lt;br&gt;&lt;br&gt;광주광역시는 31일 제야의 종 타종식과 새해 첫날 무등산 해돋이 행사를 취소했다. 전남 장흥군도 다음 달 1일 정남진 전망대에서 예정돼 있던 해맞이 행사를 없던 일로 했다. 서울시도 31일 오후 11시부터 종로구 보신각에서 진행하기로 했던 ‘제야의 종 타종 행사’를 축소하기로 했다. 당초 예정돼 있던 K팝 공연과 조명 쇼 등이 취소됐고, 시민 대표 등 민간 인사만 참석한 가운데 타종 행사를 진행할 계획이다. 크리스마스와 연말 분위기의 상징이던 서울 중구 신세계백화점의 LED 조명도 꺼졌다. 넥슨 등 게임 업계까지 계획했던 행사 및 게임 이벤트 등을 취소하거나 보류했다.&lt;br&gt;&lt;br&gt;새해 해맞이 행사도 도미노처럼 취소됐다. 간절곶이 있는 울산 울주군은 해맞이 행사를 취소했다. 드론 조명 쇼, 불꽃 쇼 등 행사가 무산됐고, 해맞이객을 위한 셔틀버스 운영 등도 중단하기로 했다. 정동진이 위치한 강원 강릉시도 새해를 맞아 정동진 모래시계 공원에서 진행하려던 불꽃놀이를 하지 않기로 했다.&lt;br&gt;&lt;br&gt;‘지역 축제 줄취소’에 지역 상인들은 자포자기한 분위기다. 대도시가 아닌 지방 도시들은 비수기인 겨울에 연말연시 지역 행사를 통해 유치한 관광객으로 경제를 유지하는데, 이번에 축제가 대거 취소됐기 때문이다. 지역 자영업자들은 “계엄 선포로 소비 심리가 얼어붙었는데, 이제는 제주항공 참사로 지역 축제까지 취소되니 할 말이 없다”고 했다. 설상가상으로 국가 애도 기간 공무원 회식마저 금지된 상황이다. 12·3 계엄 여파에서 벗어났다고 생각했던 자영업자들은 “이젠 뭐라고 말할 힘도 없다”고 한다.&lt;br&gt;&lt;br&gt;겨울 휴가를 계획하던 시민들도 여행을 취소하고 있다. 내년 2월 독일 여행을 계획 중이었다던 직장인 김모(54)씨는 “탄핵 국면에 유로 환율이 급등해서 여행을 가야 하나 고민하고 있었는데, 수십 년에 한 번 있을까 말까 한 초대형 여객기 사고까지 터지니 진지하게 취소를 고민 중”이라고 했다.&lt;br&gt;&lt;br&gt;한 패키지 여행 업계 관계자도 “사고 다음 날인 지난 30일에만 평소의 약 2배인 4500명이 예약을 취소하고, 신규 예약은 반 토막이 났다”며 “1, 2월은 설 연휴에 대학생 겨울방학이 있어 대목인데 계엄, 탄핵에 이어 비행기 참사까지 터지니 걱정될 따름”이라고 했다.&lt;br&gt;&lt;br&gt;예년 같으면 신년 맞이로 들떴을 전국의 거리는 애도 분위기로 가라앉았다. 31일 서울광장과 여의도 국회를 비롯, 전국 각지에 마련된 제주항공 희생자 추모 분향소에 시민 발길이 잇따랐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>부산서 강릉까지 환승 없이 열차로 간다…동해선 1월 1일 개통</title>
+      <link>https://www.chosun.com/national/national_general/2024/12/31/3RZXCZ6CQ5GY5C2BZ572LTEIIQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/31/3RZXCZ6CQ5GY5C2BZ572LTEIIQ/</guid>
+      <dc:creator>박주영 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 31 Dec 2024 08:39:02 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6JJTQPTLQ5LZLDJSK6PD4UN5OA.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;동해선 철도를 운행할 ITX-마음 열차가 지난 29일 경북 포항시 북구 흥해읍 구간에서 시범 운행을 하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산과 강릉을 잇는 동해선이 개통된다. 이로써 부산서 강원도 강릉까지 환승 없이 열차를 타고 갈 수 있게 된다.&lt;br&gt;&lt;br&gt;한국철도공사 부산경남본부는 “내년 1월 1일부터 ITX-마음이 부전(부산)~강릉(강원도) 구간을 하루 8차례 운행한다”고 31일 밝혔다. 종전엔 강릉∼동해(45km), 포항∼부전(142.2km) 구간만 운영됐으나 중간의 삼척∼포항(166.3km) 구간이 개통되며 강릉~부전 간 전 구간이 연결됐다.&lt;br&gt;&lt;br&gt;신형 새마을호인 ‘ITX-마음’은 시속 150km로 달린다. 부산서 강릉까지 4시간 50분~5시간 20분 가량 소요된다. 내년 말부터 시속 260km인 KTX-이음이 투입되면 소요시간이 4시간 초반대로 줄어들 전망이다.&lt;br&gt;&lt;br&gt;철도공사 측은 “부전~강릉 간 동해선이 개통되면서 동해 생활권인 강원도, 경상도는 일일생활권으로 연결될 것”이라며 “철도를 타고 강릉 경포대, 양양 낙산사, 삼척 죽서루, 울진 성류굴, 경주 양남 주상절리, 포항 호미반도 등 자연경관을 즐기며 여행할 수 있다”고 말했다.&lt;br&gt;&lt;br&gt;부산 부전역을 출발하는 열차는 매일 오전 5시33분이 첫차, 오후 4시28분이 막차다. 운임은 부전~강릉 기준 3만4900원으로 책정됐다.&lt;br&gt;&lt;br&gt;동해선은 향후 더 확장된다. &lt;br&gt;&lt;br&gt;현재는 동해남부선(부전~경주), 동해중부선(포항~삼척)이 개통됐고 현재 동해북부선 제진(고성)∼강릉 111.0km, 춘천∼속초 구간 93.7km 구간 공사가 진행되고 있다. 동해북부선은 이르면 2028년쯤 완공될 예정이다. 동해북부선 공사가 끝나면 부산서 최북단 고성까지 열차로 갈 수 있게 된다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>인권위 “국방부, 자해 사망 병사 유족 위로금 권고 불수용”</title>
+      <link>https://www.chosun.com/national/national_general/2024/12/31/F2MRGKIAMFGP5ITIKO5CA5SGIM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/31/F2MRGKIAMFGP5ITIKO5CA5SGIM/</guid>
+      <dc:creator>한영원 기자, 김병권 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 31 Dec 2024 08:37:06 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2X23SKYZQPHEG4DWJ3I2ALLEQA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;국가인권위원회 건물/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국가인권위원회(인권위)는 군 복무 중 자해로 숨진 병사의 유가족에게 전사⋅순직한 병사와 동일한 액수의 위로금을 줘야 한다는 작년 9월의 권고를 국방부가 받아들이지 않았다고 31일 밝혔다.&lt;br&gt;&lt;br&gt;지금껏 전사하거나 순직한 병사는 1억3000만~3억2600만원의 ‘사망보상금’과 1억원의 ‘전우사랑 위로금’을 받아온 반면, 자해로 숨진 병사는 ‘약 3천만원의 사망위로금’만 수령해왔는데, 인권위는 이 금액을 맞출 것을 권고했던 것이다. &lt;br&gt;&lt;br&gt;인권위는 “설령 직무수행과 사망 간의 상당 인과관계가 인정되지 않은 일반 사망자에게까지 사망보상금을 지급하는 것은 다소 무리가 있다고 하더라도 적어도 군 복무 중 목숨을 잃은 군인의 유가족에게 지급되는 위로금의 액수는 동일해야 할 것”이라며 위로금 차등 지급은 불합리하다고 판단했으나 국방부가 수용하지 않았다고 한다.&lt;br&gt;&lt;br&gt;인권위는 군인 사망사고 지원 제도와 관련해 국방부에 6가지, 국가보훈부에 5가지를 권고했으나 국방부는 이 중 3가지, 보훈부는 전부를 수용하지 않았다고도 밝혔다. 특히 국방부는 순직자의 국가유공자 등록 절차 간소화하라는 권고도 받아들이지 않았다고 한다. 이는 사망 장병이 국방부에서 순직 등을 판정받으면 유족이 별도로 보훈부에 국가유공자 등록을 할 필요를 없애자는 취지였다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/XCYDINT5XCVFXB4X4ZJ3IUBW5Y.jpg?width=553&amp;height=434&amp;auth=872e10552e997a37418d99912f6e46c65629dac5569cfc37622cb5a79a99fbab&amp;smart=true" type="image/jpeg" height="434" width="553">
+        <media:description type="plain">국가인권위원회ⓒ 뉴스1</media:description>
+        <media:credit role="author" scheme="urn:ebu"/>
+      </media:content>
+    </item>
+    <item>
+      <title>대구 군위군서 산불...산불대응 1단계 발령 후 진화중</title>
+      <link>https://www.chosun.com/national/incident/2024/12/31/F3G6LWMXMRD7ZGG2RZUCRDM7PQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/12/31/F3G6LWMXMRD7ZGG2RZUCRDM7PQ/</guid>
+      <dc:creator>이승규 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 31 Dec 2024 08:36:02 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/L6DO6TO7KNLGHMVT7ZRH5GLNJA.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;31일 오후 2시15분쯤 대구 군위군 삼국유사면 화북리의 야산에서 화재가 발생해 소방·산림 당국이 헬기를 투입해 진화작업을 하고 있다. /대구소방안전본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대구 군위군의 한 야산에서 불이 나 산림당국이 진화 중이다.&lt;br&gt;&lt;br&gt;31일 산림청 중앙산불방지대책본부·대구소방안전본부 등에 따르면 이날 오후 2시 15분쯤 군위군 삼국유사면 화북리의 한 야산에서 불이 났다.&lt;br&gt;&lt;br&gt;산림청은 산불 피해를 받았거나 받을 수 있는 산불영향구역이 10ha(3만 250평)에 달하는 것으로 보고 오후 4시 30분 산불대응 1단계를 발령했다. 산불대응 1단계는 예상 피해면적이 30ha(9만 750평)미만, 진화(예상)시간이 8시간 미만일 경우 산림청장이 발령한다. 해당 지역 진화대원 전체와 관할기관 산불진화 헬기 전체가 동원되며, 인접기관의 헬기 자원 50%, 드론진화대 50%가 투입된다.&lt;br&gt;&lt;br&gt;현재 산림청은 현장에 산불진화헬기 18대, 진화차량 55대, 진화 인력 372명을 투입했다. 산불 현장에는 초속 5m 정도의 바람이 불고 있다. 진화율은 35% 정도다.&lt;br&gt;&lt;br&gt;산불 지점에서 500m 떨어진 지점에는 과거 승려 일연이 삼국유사를 집필했다는 사찰 인각사가 위치해있다. 다만 산불 진행 방향이 인각사 방면이 아닌데다, 중간에 계곡이 있어 산불 피해를 입을 가능성은 낮다고 산림청은 보고 있다. 산불 지점과 민가는 2~4km 떨어져 있으며, 군위군에서 인근 주민 30여명을 대피 조치해둔 상태다. &lt;br&gt;&lt;br&gt;산림청 관계자는 “소나무 숲과 경사가 급한 지형이라 진화에 어려움을 겪고 있으나 일몰 전까지 큰 불을 잡을 계획”이라며 “산불이 꺼지는 즉시 산불조사를 실시해 정확한 원인과 피해 면적 등을 조사하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>[속보] 서울 목동깨비 시장에서 차량 돌진… 11명 부상 중 4명 중상</title>
       <link>https://www.chosun.com/national/national_general/2024/12/31/OHZXCLRJBBATZAQBGHGHLGWVFE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/31/OHZXCLRJBBATZAQBGHGHLGWVFE/</guid>
@@ -835,15 +893,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CLB6DD52Y5EKTJOROOUHJ6UZKA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;‘나폴리 피자’의 대표적 종류인 마르게리타 피자. 도우가 얇고, 높은 온도에서 1분 30초 정도만 굽는 것이 특징입니다. /브리태니커&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최근 소셜 미디어에서 ‘다이어트 피자’가 화제가 되고 있어요. 밀가루 대신 양배추로 도우를 만들고, 기름진 육류 대신 각종 채소와 닭가슴살 등을 이용해 만드는 피자인데요. 체중 감량 중에도 피자를 포기할 수 없는 많은 사람이 조리법을 공유하고 있답니다. ‘피자맛 과자’ ‘피자맛 호빵’이 있을 정도로 피자는 우리에게 익숙한 음식인데요. 사람들은 언제부터 피자를 만들어 먹은 걸까요?&lt;br&gt;&lt;br&gt;피자의 어원으로 추정되는 단어는 다양합니다. 동그랗고 납작한 빵을 의미하는 그리스어 피타(pitta)에서 유래되었다는 설, 고대 로마어에서 ‘파이’라는 뜻의 피체아(picea)에서 나왔다는 주장 등이 있죠. 확실한 것은 피자가 그리스와 로마 등 지중해 세계에서 매우 오래전부터 먹은 음식이라는 것입니다. 학자들은 고대 지중해 세계의 군대에서 빵을 구운 뒤 접시처럼 만들어 그 위에 마늘이나 양파, 치즈 같은 토핑을 얹어 먹었던 것으로 추정해요.&lt;br&gt;&lt;br&gt;이 음식은 훗날 그리스인들에 의해 빵 반죽에 토핑을 올려 함께 구워 먹는 음식으로 발전했는데, 이를 플라쿤토스(plakuntos)라고 불렀다고 해요. 이 음식이 이탈리아 지방으로 전해지면서 피자가 됐다는 설이 가장 유력합니다. 특히 서기 79년 화산 폭발로 인해 멸망한 폼페이 유적에서도 당시 피자를 만든 것으로 보이는 가게들이 남아 있다고 해요.&lt;br&gt;&lt;br&gt;현재 우리가 먹는 피자 같은 형태는 18세기에 만들어집니다. 이탈리아 나폴리 지역에서 당도 높은 토마토를 재배하면서 토마토를 피자에 올렸고, 안초비 소스나 올리브 오일을 뿌리기도 했대요. 흔히 나폴리는 ‘피자의 고장’으로 알려져 있는데, 이는 나폴리 왕국의 왕비가 특히 피자를 좋아했기 때문이었다고 해요. 당시 피자는 서민의 음식으로 여겨졌는데 왕비가 그런 피자를 좋아하는 것이 못마땅했던 왕이 왕실에 어울릴 만한 피자 레시피를 개발했대요. 그러자 귀족들도 덩달아 피자를 만들어 먹으면서 나폴리 지역에서 피자가 발전했다고 합니다.&lt;br&gt;&lt;br&gt;이탈리아 피자는 대서양을 건너 변주를 거칩니다. 19세기 후반 돈을 벌기 위해 미국으로 이민 간 이탈리아인들이 늘어났는데요. 이들이 거기서 피자를 만들어 팔면서 미국에도 피자가 흔해지게 된 거죠. 피자는 금세 미국인들의 입맛을 사로잡았고, 점점 미국인 입맛에 맞는 토핑이 올라가기 시작합니다. 그러면서 피자 소스, 재료 등에 많은 변화가 생긴 것이죠.&lt;br&gt;&lt;br&gt;이후 미국의 피자 업체들은 세계에 다양한 피자를 전파하게 됩니다. 그러자 이탈리아인들은 피자의 원형이 훼손되는 것을 막기 위해 1984년 ‘나폴리피자협회’를 설립했어요. 온갖 ‘변종’들로부터 정통 피자를 보호하려고 한 거죠. 정통 나폴리 피자로 인증을 받기 위해서는 화덕의 종류와 도우의 형태 등 까다로운 규정을 준수해야 한다고 합니다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[신문은 선생님] [재미있는 과학] 맞춤 여행 계획도 짜주는 ‘AI 비서’… 사람처럼 스스로 추론해요</title>
-      <link>https://www.chosun.com/national/nie/2024/12/31/NZ4DSAPRUVAGBL77ZLQ6QU2MCA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/12/31/NZ4DSAPRUVAGBL77ZLQ6QU2MCA/</guid>
-      <dc:creator>김형자 과학칼럼니스트, 기획·구성=윤상진 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 30 Dec 2024 15:31:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MXYATOZIKBCR5J3SWUT7YZQZSQ.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=유재일&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최근 정보기술 산업계에서 가장 뜨거운 분야를 꼽으라면 단연 ‘AI 에이전트’일 거예요. 2~3년 전까지만 해도 생소했던 AI 에이전트는 이제 인공지능(AI) 분야의 핵심이라고 여겨질 만큼 관심을 받고 있지요. AI 에이전트는 인간이 요구하는 다양한 업무를 처리해줘 일명 ‘AI 비서’로 불린답니다. 인간과 인공지능의 사랑을 다룬 영화 ‘그녀(HER)’에 나오는 개인형 비서 ‘서맨사’와 비슷한 AI 운영 체계인 거죠. 오늘은 AI 에이전트는 무엇이고, 어떤 일을 하는지 알아보도록 하겠습니다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QCWQQFNH5JHMVA64LBNSBFNXZU.png"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5VDMCXN74ZACRFFM5FISQ26TY4.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=유재일&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;생성형 AI와 달리 ‘맞춤형 답변’해줘요&lt;/b&gt;&lt;br&gt;&lt;br&gt;AI 에이전트란 사람이 할 일을 대신해 자율적으로 작업을 수행하는 AI 시스템을 말해요. 에이전트(Agent)는 영어로 ‘대리인’이라는 뜻이랍니다.&lt;br&gt;&lt;br&gt;운동선수나 연예인들이 연봉이나 광고 출연 협상을 에이전트에게 맡기는 것처럼, AI 에이전트는 사람을 대신해 많은 일을 해요. 하지만 AI 에이전트가 기존의 AI 챗봇들과 다른 점은 단순히 정해주는 일만 하는 게 아니라는 거예요. 예를 들어, 사용자가 AI 에이전트에게 “내일 친구랑 정동진에서 아침 일출을 보고 싶어. 전망 좋은 장소를 알려줘”라고 하면 AI 에이전트는 웹을 검색해서 일출 명소를 알려줄 뿐 아니라 일출 시간, 그곳으로 가는 최적의 이동 동선, 예상 소요 시간까지 계산해 알려줘요. 또 일출을 본 뒤 근처를 둘러볼 수 있다고 판단해 어느 식당에 가면 좋은지 등 여행 계획을 짜줄 수 있죠. 상황을 이해하고 스스로 판단해서 일을 처리하는 거예요.&lt;br&gt;&lt;br&gt;사용자마다 맞춤 답변을 제공하는 것도 AI 에이전트의 특징이에요. 예를 들어 사용자가 “로밍 요금제를 비교해서 알려달라”고 하면 기존 AI 챗봇은 단순한 답변만 하거나 상담이 필요한 경우 상담사를 연결해줘요. 반면 AI 에이전트는 사용자에 대한 다양한 정보를 분석해 답변을 내놓습니다. 예컨대, 방문 예정 국가와 기간, 과거 로밍 사용 내역 등 정보를 바탕으로 “가장 저렴한 요금제는 A지만, 고객님은 비즈니스 출장이 많으니 데이터 사용량이 넉넉한 B 요금제가 좋을 것 같아요”라고 대답하는 거예요.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7NY4ELHNHNGJRF53BVFFHVHPVQ.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=유재일&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;중앙 엔진이 수백만 번 분석&lt;/b&gt;&lt;br&gt;&lt;br&gt;AI 에이전트는 어떻게 이런 능력을 발휘하는 걸까요? AI 에이전트의 두뇌 역할을 하는 ‘중앙 처리 엔진’이 수집된 정보를 바탕으로 상황을 판단하고 적절한 행동을 결정하기 때문이에요. 이 엔진은 대형 언어 모델(LLM)을 기반으로 구축된 시스템입니다. LLM은 방대한 텍스트 데이터를 학습한 언어 모델인데요. AI가 인간 언어를 이해하는 것을 넘어서서 말의 맥락과 문장 내 단어 간의 관계까지 파악할 수 있어요. 따라서 사용자가 원하는 답변을 할 가능성이 높아지는 거예요. 또 AI 에이전트는 수백만 개 층으로 구성된 ‘인공 신경망’을 통해 정보의 정확도를 높이죠. 하나의 정보를 찾아내기 위해 수백만 번의 분석을 하는 겁니다.&lt;br&gt;&lt;br&gt;AI 에이전트는 ‘챗GPT’처럼 사용자의 요청을 받는 대로 곧장 학습된 데이터에 뛰어들어 정보를 탐색하지 않아요. 사용자가 제시한 목표를 달성하기 위해 사용자의 의도를 파악한 후 실행 계획을 세우죠. 업무 처리 과정을 여러 단계로 잘게 나누고, 어떤 업무부터 처리할지 중요도를 부여해 우선순위를 정한답니다. 단순한 검색 엔진이 아니라, 인간의 의도를 파악해 업무를 처리하는 알고리즘을 갖고 있는 거예요.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BXYQHHQGTZFOZNGDA52RO6JYK4.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=유재일&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;결과물 재검토 후 수정하기도&lt;/b&gt;&lt;br&gt;&lt;br&gt;AI 에이전트의 다른 핵심 기능은 ‘추론’이에요. 예를 들어 볼게요. 사용자가 “11월 수입과 지출 보고서 만들어줘”라고 요청해요. 그럼 에이전트는 이것이 ‘11월의 수입과 지출 데이터를 분석하고, 보고서 형식으로 정리해서 제공해달라’는 의미라는 걸 이해해요. ‘보고서 작성’이라는 복잡한 작업을 ‘데이터베이스에서 수입·지출 정보 가져오기’, ‘주요 지표 계산하기’. ‘그래프 생성하기’, ‘보고서 형식으로 정리하기’ 등 작은 단계들로 나누고, 각 단계에서 문제 해결을 위한 최적의 방법은 무엇인지 추론하는 거죠.&lt;br&gt;&lt;br&gt;이렇게 단계별 계획을 세웠으니 이제 행동에 나설 차례입니다. 행동을 실행할 땐 외부 도구(프로그램)도 함께 사용해요. 이를 테면 ‘데이터베이스’에서 수입･지출 정보를 가져온 뒤 보고서에 필요한 추가 정보를 찾기 위해 ‘웹 브라우저’에서 검색을 하는 거죠. 또 데이터 분석 앱을 이용해 계산을 하고, ‘차트 생성 앱’으로 그래프를 만드는 식입니다. 심지어 다른 AI 모델이나 챗봇도 사용해요. AI지만 마치 사람처럼 마우스 커서를 움직이고, 버튼을 클릭하고, 텍스트를 스스로 입력해 업무를 처리하죠.&lt;br&gt;&lt;br&gt;작업이 모두 끝나면 AI 에이전트는 사용자가 제시한 목표를 달성했는지 결과물을 검토해요. 여기서 만약 문제를 발견하면 처음으로 다시 돌아가 수정해요. 이런 과정을 반복해 만족스러운 결과를 얻으면 그때 비로소 사용자에게 결과물을 전달합니다. 놀랍게도 이런 복잡한 과정을 거쳐 결과물을 내놓기까지 1분도 채 걸리지 않아요.&lt;br&gt;&lt;br&gt;현재 여러 국내외 기업이 AI 에이전트 개발에 나선 상황이랍니다. 문자나 음성뿐 아니라 이미지도 인식할 수 있는 기능을 탑재하거나, 답변 시간을 줄이는 노력들이 이어지고 있죠.&lt;br&gt;&lt;br&gt;전문가들은 수년 내에 일반 사무실에서도 AI 에이전트를 이용해 업무를 처리하는 비중이 늘어날 것이라고 전망하고 있어요. 이제 사람 대신 AI 에이전트가 문서 작성이나 그래프 제작 같은 업무를 도맡을 수도 있어요. 특히 방대한 양의 의료 기록과 환자 데이터를 분석해야 하는 의료 분야에선 AI 에이전트가 핵심적인 역할을 할 것으로 보고 있답니다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[신문은 선생님] [철학·인문학 이야기] 이슬람과 타협해 예루살렘 되찾은 황제… 교황에겐 이단으로 몰려 파문당했죠</title>
       <link>https://www.chosun.com/national/nie/2024/12/31/CJQEMH2YUFAVDIRI4Z55TX4NFM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/nie/2024/12/31/CJQEMH2YUFAVDIRI4Z55TX4NFM/</guid>
@@ -860,15 +909,6 @@
       <description/>
       <pubDate>Mon, 30 Dec 2024 15:30:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6YOBDFGQE5AYNFS53M6QOBSXVE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>서해 어선 ‘서해호’ 전복에...최상목 권한대행 “가용 자원 총동원해 수색”</title>
-      <link>https://www.chosun.com/economy/economy_general/2024/12/30/DPWZ6T3UDBDUPH4SS56ISCTD4Y/</link>
-      <guid isPermaLink="true">https://www.chosun.com/economy/economy_general/2024/12/30/DPWZ6T3UDBDUPH4SS56ISCTD4Y/</guid>
-      <dc:creator>김희래 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 30 Dec 2024 13:33:27 +0000</pubDate>
-      <content:encoded>충남 서산 고파도리 인근에서 발생한 ‘서해호’ 전복 사고와 관련해 최상목 대통령 권한대행 부총리 겸 기획재정부 장관은 “해양경찰청을 중심으로 국방부, 해양수산부 등 관계부처는 현장의 가용 자원과 인력을 총동원해 인명 수색 및 구조에 총력을 다하고, 해당 해역의 조류가 강한 점, 야간 수색인 점을 고려해 구조대원의 안전에도 유의해 달라”고 30일 지시했다. 해수부는 이 사고와 관련해 위기경보 ‘경계’를 발령했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UQO2QSEECVNITF65QJNXZPU6YQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;30일 충남 서산시 팔봉면 가파도 인근 해상에서 83t급 차도선이 전복돼 2명이 구조되고 5명이 실종돼 현재 해경과 소방당국, 조업중인 어선들이 야간 수색 작업을 벌이고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;해양경찰청에 따르면, 이날 오후 18시 26분쯤 충남 서산 고파도리 남방 인근 해상에서 어선 서해호(83t)가 전복되는 사고가 발생했다. 태안 선적의 서해호에는 사고 당시 7명이 승선해 있었다. 오후 19시 40분 기준 위기경보 ‘경계’가 발령됐고, 오후 20시 기준 2명이 구조된 이후 5명은 수색 중이다.&lt;br&gt;&lt;br&gt;강도형 해수부 장관은 해당 사고를 보고를 받은 후 해경과 어업관리단에 “인명구조와 수색에 최선을 다해 달라”며 “특히 야간 수색 시에는 수색자들의 안전에도 만전을 다해달라”고 말했다. 현재 해경 함정과 인근 어선 등은 주변 해역을 수색중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>“술자리후 엉켜 넘어져…” 태권도 스타 폭행 논란 해프닝 일단락될 듯</title>
@@ -893,18 +933,6 @@
       </media:content>
     </item>
     <item>
-      <title>서산 고파도서 선박 1척 침몰… 2명 구조, 5명 수색중</title>
-      <link>https://www.chosun.com/national/regional/chungcheong/2024/12/30/QFOCNHXVS5FZDHXU7AX5JDUJOU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2024/12/30/QFOCNHXVS5FZDHXU7AX5JDUJOU/</guid>
-      <dc:creator>서산=김석모 기자, 진창일 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 30 Dec 2024 11:23:25 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LDZIZOXMK5FDFDOIY5FQ6CZL2A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;30일 오후 6시 26분쯤 충남 서산시 팔봉면 고파도 인근 해상에서 83t급 선박이 전복됐다. /태안해양경찰서&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;충남 서산 앞바다에서 선박 1척이 침몰하는 사고가 발생했다. 구조 작업에 나선 해경은 선원 2명을 구조하고 나머지 5명의 선원에 대한 수색 작업을 벌이고 있다.&lt;br&gt;&lt;br&gt;30일 태안해양경찰서에 따르면 이날 오후 6시 26분쯤 서산시 고파도 인근 해상에서 A호(83t)가 전복됐다. 구조 신고를 받은 해경은 경비함정과 항공기, 해경구조대 등을 투입해 인명 구조에 나섰다.&lt;br&gt;&lt;br&gt;해당 선박에는 총 7명이 승선하고 있던 것으로 알려졌다.&lt;br&gt;&lt;br&gt;해경은 현재(오후 7시 기준) 선원 2명을 구조하고, 다른 선원 5명에 대한 수색작업을 벌이고 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UUOKMFVHSJG25OF5OSVACRRLGY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;30일 충남 서산시 팔봉면 고파도 인근에서 발생한 선박 침몰사고 위치도. /태안해양경찰서&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전복된 선박은 바다환경 정비사업 업체가 운영하는 것으로 고기잡이 배가 아닌 차량·화물 등을 실어 나르는 차도선(車渡船)인 것으로 확인됐다.&lt;br&gt;&lt;br&gt;이 선박은 이날 우도 어촌뉴딜사업 공사를 마치고 작업자들이 돌아오던 길에 사고가 난 것으로 전해졌다.&lt;br&gt;&lt;br&gt;해경 관계자는 “가용 가능한 인원을 동원해 수색 작업을 벌이고 있다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/LDZIZOXMK5FDFDOIY5FQ6CZL2A.jpg?width=1400&amp;height=1050&amp;auth=c2480df69b392667dbe6f79a363866813f11e6f908637580933b72e665219c72&amp;smart=true" type="image/jpeg" height="1050" width="1400">
-        <media:description type="plain">30일 오후 6시 26분쯤 충남 서산시 팔봉면 고파도 인근 해상에서 83t급 선박이 전복됐다. /태안해양경찰서</media:description>
-      </media:content>
-    </item>
-    <item>
       <title>“계엄에 항공기 참사까지”... 혼란과 우울에 짓눌린 연말</title>
       <link>https://www.chosun.com/national/national_general/2024/12/30/NH3IDZQW5BA7LFPUFNRXZTDLKY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/30/NH3IDZQW5BA7LFPUFNRXZTDLKY/</guid>
@@ -921,15 +949,6 @@
       <description/>
       <pubDate>Mon, 30 Dec 2024 12:00:26 +0000</pubDate>
       <content:encoded>2025학년도 대입 정시 모집 원서 접수가 31일 시작되는 가운데, 올해 의대 증원 여파로 수시에서 모집 인원을 다 채우지 못해 정시로 이월한 인원이 작년의 3배로 늘어난 것으로 나타났다.&lt;br&gt;&lt;br&gt;30일 전국 39개 의대가 공개한 정시 이월 현황에 따르면, 이번 입시 이월 인원은 총 105명으로 작년 규모(33명)보다 크게 늘어난 것으로 나타났다. 대구가톨릭대가 17명으로 작년(2명)보다 15명 늘었다. 충남대와 건국대(충주)의 이월 인원이 각각 11명, 부산대 10명, 고신대 8명, 전북대 7명, 인제대 5명, 조선대 4명 등 대부분 지역 대학이 작년에 비해 이월 규모가 2배 이상 늘었다.&lt;br&gt;&lt;br&gt;의대 증원으로 중복 합격자가 다수 발생하며 지역 대학을 위주로 수시 모집에서 인원 충원에 애를 먹은 것으로 분석된다. 수시 원서는 6장 쓸 수 있고 여러 군데 동시 합격해도 1곳만 등록할 수 있다. 학생들이 선호하는 수도권 의대는 대부분 수시에서 모집 인원을 충원했다. 서울대·연세대·성균관대·가천대 등 대부분 의대의 이월 인원이 ‘0명’이었다. 작년 이월 인원이 8명에 달했던 고려대도 올해 1명에 그쳤다.&lt;br&gt;&lt;br&gt;정치권과 의료계는 지금껏 수시 모집 미충원 인원을 정시로 이월하는 것을 제한해 내년도 의대 모집 인원을 줄이자고 주장했다. 그러나 이날 정시 이월 인원이 수험생과 학부모에게 공표되며 이러한 주장이 실현되긴 어려워졌다.&lt;br&gt;&lt;br&gt;의료계에서는 이제 2026학년도 의대 모집 인원 조정을 빠르게 협의해야 한다는 얘기가 힘을 얻고 있다. 정부는 2026학년도 의대 정원을 2000명 증원한 5058명으로 정했지만, 정치권과 의료계는 의학 교육 정상화를 위해 2000명 전부를 증원하긴 어렵다는 입장이다. 기존 의대 정원(3058명)만큼 뽑자는 주장과 기존 정원의 절반(1500명)만 뽑는 안, 아예 뽑지 않는 안 등 여러 얘기가 나오고 있다.&lt;br&gt;&lt;br&gt;교육계에서는 “속도가 문제”라는 얘기가 나온다. 각 대학이 조정된 2026학년도 의대 정원을 심의받고, 학칙을 개정하고, 수험생과 학부모에게 대입 시행 계획을 발표하려면 일정상 내년 2월 초까지 2026학년도 의대 정원이 확정돼야 한다. 앞으로 약 40일밖에 남지 않았다. 교육계에선 논의가 당장 시작돼도 일정을 맞추기 벅차다는 의견이 많다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>식약처 “투신한 청년인턴, 직장 내 괴롭힘 있었다”</title>
-      <link>https://www.chosun.com/national/welfare-medical/2024/12/30/WG5W35BLIFAO5PFNZRPNHQRT54/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/12/30/WG5W35BLIFAO5PFNZRPNHQRT54/</guid>
-      <dc:creator>안준용 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 30 Dec 2024 11:59:53 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SKCQZXBEUT3A4ZPUXZN3RUXVQY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;식품의약품안전처 오송 본부. /식약처&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;식품의약품안전처(식약처)는 지난 9월 청사에서 투신해 숨진 청년 인턴이 부서 상사로부터 직장 내 괴롭힘을 당한 정황을 확인했다고 30일 밝혔다. 앞서 식약처에서 일하던 청년 인턴 30대 A씨는 지난 9월 10일 식약처 행정동 5층에서 투신해 숨졌다. 이후 A씨 유족 신고에 따라 고용노동부가 식약처에 직장 내 괴롭힘 조사를 요청했다.&lt;br&gt;&lt;br&gt;식약처 관계자는 이날 “자체 조사 결과, 상사 B씨로부터 직장 내 괴롭힘으로 보이는 언행이 있었다는 점을 확인해 지난 13일 고용노동부에 통보했다”고 했다. 다만 “B씨 언행이 인턴 직원의 사망과 직접적인 인과관계가 있는지는 밝히지 못했다”고 했다.&lt;br&gt;&lt;br&gt;식약처는 청년 인턴이었던 A씨가 근무한 부서 2곳의 직원을 대상으로 조사한 결과, 상사 B씨의 비속어 등이 포함된 언행이 직장 내 괴롭힘에 해당한다고 판단했다. 유족이 제출한 통화 녹음과 컴퓨터 저장 메모 등도 직장 내 괴롭힘을 판단하는 근거가 됐다.&lt;br&gt;&lt;br&gt;식약처는 조사 결과를 고용노동부에 통보한 뒤 B씨를 인사위원회에 회부한 상태다. 인사위원회 개최 시기는 아직 확정되지 않았다. 식약처 측은 “인사위에서 당사자 소명 등을 듣고 최종 징계 수위가 결정될 예정”이라고 했다. B씨는 “업무 과정에서 훈계를 위해 한 말”이라고 해명한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;앞서 식약처는 7월 실시한 ‘내부 직원이 생각하는 조직문화 설문조사’ 대상에서 인턴 직원들을 제외해 논란이 되기도 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>이재명, 위증교사 2심 변호인 선임...선거법 위반 2심은 아직</title>
@@ -960,24 +979,6 @@
       <media:content url="https://www.chosun.com/resizer/v2/YVNQ2VTMRNORZK55DSVGQXGI2I.jpg?width=8256&amp;height=5504&amp;auth=fb07b0f136b027459c5463a14370d2ff176eff914a677169ad3053adfe50d7d6&amp;smart=true" type="image/jpeg" height="5504" width="8256">
         <media:description type="plain">[무안=뉴시스] 이영환 기자 = 30일 오전 무안국제공항에서 제주항공 여객기 사고 탑승객 유가족들이 눈물을 흘리고 있다. (공동취재) 2024.12.30. photo@newsis.com</media:description>
       </media:content>
-    </item>
-    <item>
-      <title>공수처, 尹대통령 내란혐의 체포영장... 현직으론 헌정사 처음</title>
-      <link>https://www.chosun.com/national/court_law/2024/12/30/3HVJPUGA35C3PA2FDYEAZ7FNFY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/30/3HVJPUGA35C3PA2FDYEAZ7FNFY/</guid>
-      <dc:creator>유종헌 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 30 Dec 2024 01:30:32 +0000</pubDate>
-      <content:encoded>‘12·3 비상계엄’ 사태를 수사하는 고위공직자범죄수사처가 윤석열 대통령에 대한 체포영장을 청구했다. 현직 대통령에 대해 체포영장이 청구된 것은 헌정 사상 처음이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IHLFQGHC35DSDAKT4EUWN2OV4I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;공수처와 경찰, 국방부 조사본부로 구성된 공조수사본부는 이날 “30일 자정 서울서부지방법원에 윤 대통령에 대한 체포영장을 청구했다”고 밝혔다.&lt;br&gt;&lt;br&gt;공수처는 앞서 3차례 윤 대통령에 대해 내란 우두머리(수괴) 및 직권남용 혐의 피의자 신분으로 출석해 조사받으라고 통보했지만, 윤 대통령은 모두 응하지 않았다. 윤 대통령은 세 차례 모두 출석요구서 수령을 거부했고, 변호인 선임계 제출과 일정 조율을 위한 연락도 하지 않았다고 한다.&lt;br&gt;&lt;br&gt;공수처는 마지막 출석 통보일인 지난 29일에도 윤 대통령이 불출석하자 체포영장 청구를 유력하게 검토해왔다. 피의자가 정당한 사유 없이 출석 요구에 불응하거나 불응할 우려가 있는 경우 수사기관은 법원으로부터 체포영장을 발부받아 강제로 신병을 확보할 수 있다.&lt;br&gt;&lt;br&gt;윤 대통령 측은 “수사보다 헌법재판소 탄핵 심판 대응이 먼저이고, 검찰·경찰·공수처 등 수사기관 간 수사권 논란이 먼저 해결돼야 한다”라며 당장 공수처에 출석하지 않겠다는 입장을 밝혔다. 윤 대통령의 변호인단 구성을 도운 석동현 변호사는 30일 취재진에 “공수처는 내란죄 수사권이 없다”고 했다.&lt;br&gt;&lt;br&gt;법원이 체포영장을 발부하면 공조본은 윤 대통령 체포를 시도할 것으로 보인다. 윤 대통령은 현재 한남동 대통령 관저에 칩거하고 있다. 이 경우 관저를 경호하는 대통령 경호처와 마찰을 빚을 수 있다.&lt;br&gt;&lt;br&gt;한편 공수처가 윤 대통령을 체포할 경우, 48시간 이내에 구속영장 청구 여부를 결정해야 한다. 구속영장이 발부되면 기소 전까지 최대 20일 간 구속이 가능하다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>태권도 올림픽 메달리스트, 테니스 前 국가대표 폭행 혐의로 입건</title>
-      <link>https://www.chosun.com/national/national_general/2024/12/29/3GZUQBYIAFFSBABREWFAUN24TY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/29/3GZUQBYIAFFSBABREWFAUN24TY/</guid>
-      <dc:creator>장민석 기자, 안준현 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 29 Dec 2024 03:59:09 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PODMGVEKJ3L3I6F4X7WK4M2VKY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 강남경찰서 전경./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;태권도 올림픽 메달리스트 A씨가 전 테니스 국가대표 B씨를 폭행한 혐의로 입건돼 조사를 받고 있다.&lt;br&gt;&lt;br&gt;강남경찰서는 29일 “태권도 선수 출신 A씨가 테니스 선수 출신 B씨를 폭행한 혐의로 입건해 조사하고 있다”며 “28일 오후 11~12시 서울 강남구 역삼동에서 술에 취해 서로 말다툼을 하다 폭행한 혐의”라고 밝혔다. B씨는 병원으로 이송됐으나 특별히 다친 곳이 없어 귀가했으며, A씨는 임의동행 후 추후 수사 예정이다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “A씨가 사건 당시 만취 상태라 현장에서 제대로 조사를 하지 못했다”고 했다.&lt;br&gt;&lt;br&gt;A씨는 태권도 올림픽 메달리스트로, 수많은 국제 대회에서 우승한 경력이 있다. B씨는 테니스 국가대표를 지낸 뒤 지도자로 활동하고 있다. 두 사람은 예능 프로그램에 함께 출연했던 사이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
