@@ -13,6 +13,43 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>유가족에 떡국 대신 전복죽 1000그릇 대접한 안유성 셰프</title>
+      <link>https://www.chosun.com/national/people/2025/01/01/BQ244CMFZFEI5ETB3SZCKWK6JE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/01/01/BQ244CMFZFEI5ETB3SZCKWK6JE/</guid>
+      <dc:creator>이혜진 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 01 Jan 2025 08:39:26 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6J4C7QICAVOW5HSJRATYSTHNL4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;새해 첫날인 1일 전남 무안군 무안국제공항에서 넷플릭스 요리 프로그램 '흑백요리사'의 안유성 셰프(왼쪽)가 제주항공 여객기 참사 유가족들을 위해 음식봉사를 하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;무안공항참사 현장을 찾아 유가족에게 김밥 200줄을 제공했던 명장 안유성 셰프가 새해 첫날, 유가족들을 위해 전복죽을 준비했다.&lt;br&gt;&lt;br&gt;안 셰프는 1일 오전 11시45분쯤 무안공항에서 전복죽 1000인분, 김밥 200인분, 샌드위치 200인분을 준비해 유가족에 제공했다고 밝혔다. 안 셰프는 대한민국 제16대 조리명장으로 광주광역시 서구에서 일식집을 운영하고 있다.&lt;br&gt;&lt;br&gt;당초 떡국을 준비할 예정이었으나 유가족들의 상황을 고려해 메뉴를 변경했다고 한다. 그는 SBS 라디오 프로그램을 통해 “새해 첫날 떡국도 의미가 있겠지만 유가족들은 지금 현실적으로 너무 지쳐 계시고 힘들어하신다”며 “음식 하나 목으로 넘기기 힘든 상황이라 조금이나마 기력 회복에 도움이 되길 바라는 마음으로 전복죽을 준비했다”고 했다.&lt;br&gt;&lt;br&gt;이번 봉사에는 ‘흑백요리사’ 프로그램에 함께 출연했던 최지형 셰프, 방기수 셰프를 비롯해 여러 요리사들이 가게 문을 닫고 동참했다. 안 셰프는 “요리하는 셰프들의 기본 마음은 나눔”이라며 “저희가 음식 봉사 하는 소식을 듣고 너도나도 할 것 없이 (봉사하러) 내려오고 계신다”고 전했다.&lt;br&gt;&lt;br&gt;지역민인 안 셰프는 사고 발생 직후인 지난달 30일에도 김밥 200줄을 준비해 현장을 찾았다. 그는 “사고 소식에 먹먹하고 답답한 마음에 일이 손에 잡히지 않았다”며 “공항 상황이 어떤지 제가 도울 일이 무엇인지도 잘 모르지만 일단 가보자는 마음으로 김밥을 얼른 말아서 준비해왔다”고 회상했다. 그는 “희생자 중에는 지역민들과 단골 고객, 함께 방송했던 PD도 있었다”며 “한 다리 건너면 아는 분들이어서 더욱 가슴 아프다”고 했다.&lt;br&gt;&lt;br&gt;안 셰프는 유가족이 공항에 머무는 동안 계속 음식 봉사를 할 계획이다. 그는 “샌드위치 등 기력 회복에 도움이 되는 음식을 계속 찾아보겠다”며 “조금이라도 도움이 될 음식을 찾으며 계속 곁에 있으려 한다”고 했다. 그는 “(유가족이) 지쳐 계신 와중에도 김밥 한 점을 드시면서 ‘맛있네요’라고 힘없이 말씀해 주시는 모습에 많이 뭉클했다”며 “음식 만드는 재주밖에 없어서 이 재능이라도 기부하면서 곁에서 슬픔을 함께하고 싶다고 마음 먹었다”고 했다.&lt;br&gt;&lt;br&gt;그는 또 “큰 사고를 견디기 힘든 분들의 이야기를 들어보면 주위의 따뜻한 격려와 지속적인 애정으로 버틸 수 있었다고 한다”며 “국민들의 지속적인 관심과 애정이 절실히 필요한 때”라고 강조했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/VKGG36A4YVCRLN3PMLD2APHBGQ.jpg?width=4567&amp;height=2569&amp;auth=ef0eec655b6cc15037b004d9fe7590330c82784604f9e5c46157093c61759d67&amp;smart=true" type="image/jpeg" height="2569" width="4567">
+        <media:description type="plain">&lt;YONHAP PHOTO-3529&gt; 음식봉사하는 안유성 셰프
+    (무안=연합뉴스) 이성민 기자 = 새해 첫날인 1일 전남 무안군 무안국제공항에서 넷플릭스 요리 프로그램 '흑백요리사'의 안유성 셰프(왼쪽)가 제주항공 여객기 참사 유가족들을 위해 음식봉사를 하고 있다. 2025.1.1
+    chase_arete@yna.co.kr/2025-01-01 15:30:41/
+&lt;저작권자 ⓒ 1980-2025 ㈜연합뉴스. 무단 전재 재배포 금지, AI 학습 및 활용 금지&gt;</media:description>
+        <media:credit role="author" scheme="urn:ebu">이성민</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>항공참사로 희생된 치과의사… 동료 의사들이 무료 후속 진료</title>
+      <link>https://www.chosun.com/national/national_general/2025/01/01/E25WXDOLTNF5RHJBM2YPHYGAWU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/01/E25WXDOLTNF5RHJBM2YPHYGAWU/</guid>
+      <dc:creator>광주광역시=진창일 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 01 Jan 2025 08:43:53 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2BAJQY2RRZFXTBXC2RV5QSEVJU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;광주에서 치과를 운영하던 한 원장이 제주항공 여객기 참사로 숨졌다는 소식이 담긴 안내문이 병원 건물 승강기에 붙어있다./스레드&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제주항공 참사로 동료 치과의사가 희생된 소식이 알려지자 동료 의사들이 대신해 무료로 후속 진료에 나섰다.&lt;br&gt;&lt;br&gt;1일 광주시치과의사회에 따르면 광주광역시 광산구 일대 치과의사들이 이번 참사로 숨진 동료 치과의사 A씨를 추모하기 위해 지난달 30일부터 무료 진료를 하고 있다.&lt;br&gt;&lt;br&gt;광주시 광산구 흑성동에 있는 A씨의 치과에는 ‘제주항공 여객기 사고로 진료를 중단한다’는 내용의 공지문이 붙어 있다. A씨의 안타까운 사고로 해당 치과에서 교정 및 신경치료를 받아왔던 환자들이 후속치료를 받지 못할 것을 걱정해 무료진료에 나선 것이다.&lt;br&gt;&lt;br&gt;의사회 차원의 집단행동은 아니지만, A씨와 같은 학교를 졸업했거나 연고가 같은 치과의사들 혹은 A씨가 운영하던 치과 인근 의사들이 무료 진료에 동참하고 있는 것으로 전해졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/2BAJQY2RRZFXTBXC2RV5QSEVJU.jpg?width=1170&amp;height=863&amp;auth=0e010f1cf695fa2de2db4a2a9c48d7cbc6302a0117a803f427bc76ec11252624&amp;smart=true" type="image/jpeg" height="863" width="1170">
+        <media:description type="plain">광주에서 치과를 운영하던 한 원장이 제주항공 여객기 참사로 숨졌다는 소식이 담긴 안내문이 병원 건물 승강기에 붙어있다./스레드</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>“월급날에 허무하게 떠나”... 깨비시장 사고로 10년지기 동료 잃은 상인들</title>
+      <link>https://www.chosun.com/national/national_general/2025/01/01/4K4UDG3XYJH4DPWAJ4OX2VHYCI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/01/4K4UDG3XYJH4DPWAJ4OX2VHYCI/</guid>
+      <dc:creator>강지은 기자, 최하연 기자, 김도균 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 01 Jan 2025 08:52:03 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4AYI72ZIB5LDFLGSM7B4FGVQUY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;31일 오후 3시 53분쯤 서울 양천구 목동 깨비시장에서 70대 남성이 모는 승용차가 돌진해 1명이 사망하고 12명이 부상을 당했다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“월급날 이렇게 허무하게 떠날 줄은 몰랐다”&lt;br&gt;&lt;br&gt;1일 서울 양천구 목동깨비시장에서 만난 과일 가게 업주의 눈시울이 붉어졌다. 그는 지난 31일 발생한 차량 돌진 사고로 숨진 40대 남성 A씨가 근무하던 가게의 주인이다. 사고 당일은 A씨의 월급날이었다고 한다. 그는 “어제 낮에 (A씨에게) 월급을 주려다 손님이 몰려 조금 있다 줘야겠다고 생각했는데 그것도 못 주고...”라며 말끝을 흐렸다.&lt;br&gt;&lt;br&gt;A씨는 약 10년 전부터 깨비시장 과일 가게에서 일했다. 가게는 오전 9시에 문을 열지만, 매일 아침 상하차 작업까지 수행하느라 오전 6시에 일어나 7시면 집을 나섰다고 한다. 그렇게 12시간 넘게 일하고 오후 9시 30분쯤 집에 돌아오면 소주 몇 잔 마시다 유튜브를 보며 잠드는 게 유일한 낙이었다.&lt;br&gt;&lt;br&gt;공휴일도 없이 일하며 일주일에 딱 1번, 수요일마다 쉬었다. 올해는 새해 첫 날이 수요일이라 몇 년 만에 1월 1일에 푹 쉬어본다며 좋아했다고 한다.&lt;br&gt;&lt;br&gt;시장 상인들이 기억하는 A씨는 “시장에서 가장 성실하던 사람”이다. 상인 김모(52)씨는 “손님 한 명이라도 더 잡으려 시장이 다 울릴 정도로 열심히 ‘과일 사라’고 외쳤는데, 그 목소리가 아직도 생생하다”고 했다. 정육점 업주 서모(57)씨는 “그 사람 너무 일만 하다 갔다”며 “아침 일찍 출근해 밤 늦게 퇴근하며 가게 주인처럼 성실하게 일했다”고 했다. 시장을 찾은 단골들은 “매일 보던 사람이 이젠 없다”며 눈시울을 붉혔다.&lt;br&gt;&lt;br&gt;이날 강서구의 한 대학병원에 그의 빈소가 차려졌다. 갑작스러운 사고에 제대로 된 영정사진도 없었다. 가족들은 급하게 A씨가 메신저 프로필로 사용하던 사진을 캡쳐해 영정사진으로 사용했다. A씨의 남동생(40)은 “가족이 다같이 살았지만 형은 일하느라 바빠서 얼굴 제대로 보기 어려웠다”며 “얼굴 보고 제대로 대화를 나눴던 게 한 달도 더 된 것 같아 많이 후회가 된다”고 했다.&lt;br&gt;&lt;br&gt;지난 31일 오후 3시 53분쯤 서울 양천구 목동깨비시장에 김모(74)씨가 운전하던 검은색 에쿠스 차량이 행인과 상점 등을 덮쳐 13명이 사상했다. 김씨가 운전하던 검은색 에쿠스 차량은 깨비시장 후문 사거리에서 앞서가던 버스를 앞지르다 가속해 시장 내부로 돌진, 약 40m를 질주했다.&lt;br&gt;&lt;br&gt;운전자 김씨는 치매 진단을 받은 전력이 있는 것으로 밝혀졌다. 경찰 조사에서 김씨는 “앞서 가던 차량을 피해 가속하던 중 시장 가판대 앞에서 브레이크를 밟았는데 이후론 잘 기억이 안 난다”고 진술했다. 경찰은 확보한 CC(폐쇄회로)TV 영상을 토대로 정확한 사고 원인을 조사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>[오늘의 운세]  1월 2일 목요일 (음력 12월 3일 辛未)</title>
       <link>https://www.chosun.com/national/national_general/2025/01/01/HLGKLJJBRFAOTAFQECIWYCUHZY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/01/HLGKLJJBRFAOTAFQECIWYCUHZY/</guid>
@@ -816,24 +853,6 @@
       <content:encoded>‘12·3 비상계엄' 사태를 수사하는 검찰이 31일 여인형 전 국군방첩사령관과 이진우 전 수도방위사령관을 구속기소했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5JIE4GTBKFAIXEZ3SVF4Y22LAU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;여인형 국군방첩사령관, 이진우 수도방위사령관. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰 비상계엄 특별수사본부(본부장 박세현 서울고검장)는 이날 두 사령관을 내란 중요 임무 종사, 직권남용 혐의로 재판에 넘겼다. 두 사람은 현역 군인 신분이어서 검찰과 합동 수사 중인 군검찰이 중앙지역군사법원에 기소했다.&lt;br&gt;&lt;br&gt;여 전 사령관은 비상계엄 상황에서 주요 요인 체포조 편성·운영을 주도하고, 중앙선거관리위원회 장악과 전산자료 확보를 시도한 혐의를 받는다. &lt;br&gt;&lt;br&gt;그는 김용현 전 국방부 장관으로부터 우원식 국회의장, 이재명 더불어민주당 대표, 한동훈 전 국민의힘 대표 등 10여명의 체포를 지시받고 조지호 경찰청장에게 안보수사요원 100명 지원 및 체포대상자 위치 추적을 요청한 것으로 조사됐다. 또 박헌수 국방부 조사본부 본부장에게도 조사본부 수사관 100명을 지원해달라고 요청했다.&lt;br&gt;&lt;br&gt;여 전 사령관은 김대우 방첩사 수사단장에게 이들을 신속히 체포해 수방사 B1벙커 구금 시설로 이송하라고 지시했다. 그러나 국회의 비상계엄 해제요구안 가결이 임박하자 김 전 장관은 여 전 사령관에게 ‘이재명, 우원식, 한동훈 이 3명부터 잡아라’고 지시하고, 여 전 사령관은 김 단장에게 이 같은 명령을 하달했다.&lt;br&gt;&lt;br&gt;여 전 사령관 휴대전화에선 체포조 운용, 계엄사령부 합동수사본부 운영 등 비상계엄 대비 계획 관련 메모가 나왔던 것으로 확인됐다. 일부 메모는 계엄 이틀 전인 지난 1일 작성됐다.&lt;br&gt;&lt;br&gt;이 전 사령관은 수방사 병력을 동원해 국회를 봉쇄하려 하고 국회의 계엄해제 의결 방해를 시도한 혐의를 받는다.&lt;br&gt;&lt;br&gt;그는 계엄 하루 전인 지난 2일 김 전 장관에게 “대통령 담화가 전파되는 시점에 전 장병 휴대폰 통합 보관, 마스크 착용·태극기 부착·공포탄 불출 등을 시행하겠다”고 보고한 것으로 조사됐다. 이 전 사령관은 이 같은 보고 직후 휴대전화로 ‘국회해산이 가능한가요’ ‘대통령 국회 해산권 있나요’ 등을 검색하기도 했다.&lt;br&gt;&lt;br&gt;한편 이 전 사령관은 국회에 출동해 수방사 병력을 지휘하는 과정에서 윤석열 대통령으로부터 수차례 전화를 받았다. 김 전 장관도 이 전 사령관에게 수시로 전화해 ‘왜 못 들어가냐’고 말한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>오세훈 서울시장 신년사 “세계로부터 존경받는 서울 만들 것”</title>
-      <link>https://www.chosun.com/national/national_general/2024/12/31/FT5PSHM4FNEB3KE73KNTYLLG2Q/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/31/FT5PSHM4FNEB3KE73KNTYLLG2Q/</guid>
-      <dc:creator>김영우 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 31 Dec 2024 03:17:40 +0000</pubDate>
-      <content:encoded>오세훈 서울시장이 2025년 새해를 맞아 “위기를 극복해내고 세계로부터 존경받는 서울을 만들어 갈 것”이라고 말했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/REB2ZZYMQVF3BH77RNYWYLHLWY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;오세훈 서울 시장이 지난 7월 10일 서울시청 집무실에서 본지와 인터뷰를 갖고 있다. /김지호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;오 시장은 31일 발표한 신년사에서 “정치적 혼란, 대외신인도 위기, 경제적 불확실성 같은 중대한 도전에 직면해 있지만 서울은 언제나 위기를 기회로 전환해 온 도시”라며 이같이 말했다.&lt;br&gt;&lt;br&gt;오 시장은 민선 8기 서울시장 취임 이후 성과로 저소득층에게 소득을 지원하는 ‘디딤돌소득’, 저소득층 학생 대상 무료 인터넷 강의 서비스 ‘서울런’, 신혼부부 장기전세주택인 ‘미리내집’ 등을 꼽았다.&lt;br&gt;&lt;br&gt;또 100만명 이상이 이용한 것으로 나타난 기후동행카드, 손목닥터9988, 서울야외도서관, 서울국제정원박람회 등도 주요 성과로 제시했다.&lt;br&gt;&lt;br&gt;오 시장은 “시민 여러분이 매일 편안함을 느끼고 삶 속에서 작은 행복을 누릴 수 있는 것이 서울을 위대하게 만드는 힘”이라며 “서울시민이 살맛 나게 하는 게 저의 일”이라고 했다.&lt;br&gt;&lt;br&gt;이날 오 시장은 본격적으로 규제 철폐를 추진하겠다는 입장도 발표했다. 오 시장은 “규제는 ‘최소한이 최선’”이라며 “규제 권한의 절반을 덜어낸다는 각오로 규제와의 전쟁을 추진하겠다”고 했다. 오 시장은 또 “국회도 법안 숫자를 늘리는 것을 성과로 착각하지 말고 법안 늘리기 경쟁이라는 ‘잘못된 행진’을 멈춰야 한다”며 “역사적으로 규제를 줄여 번영한 사례는 많지만, 규제를 늘려 성공한 국가는 없다”고 말했다.&lt;br&gt;&lt;br&gt;오 시장은 인공지능(AI), 바이오, 로봇 등 미래 산업에 대한 투자 의사도 밝혔다. 오 시장은 “내일의 열매를 위해선 오늘 사과나무를 심어야 한다”며 “세계의 인재가 서울에 모여들고, 연구비가 충분히 투자될 수 있어야 한다”고 했다. &lt;br&gt;&lt;br&gt;마지막으로 오 시장은 “우리 모두 함께 손을 맞잡고 협력할 때 서울은 더 단단해지고 높이 비상할 것”이라며 “우리가 함께 맞이할 서울의 내일을 기대한다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[속보] 尹측 “적법하면 당당히 응할 것…현재 체포영장은 불법”</title>
-      <link>https://www.chosun.com/national/court_law/2024/12/31/R5SM5GGCZJHOHCDGVWY7FKAXH4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/31/R5SM5GGCZJHOHCDGVWY7FKAXH4/</guid>
-      <dc:creator>유종헌 기자, 이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 31 Dec 2024 02:37:15 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VC4O6OAFONNQPG2WSU4ZQX7NMM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령을 변호하는 윤갑근 변호사가 31일 서울 서초구 서울고등검찰청 앞에서 윤 대통령 체포영장 발부에 대한 입장을 밝히고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;尹측 “적법하면 당당히 응할 것…현재 체포영장은 불법”&lt;br&gt;&lt;br&gt;“법원, 권한 없는 수사기관 청구한 영장 발부해 유감”&lt;br&gt;&lt;br&gt;“위법사항 해소되지 않는 한, 대통령 수사 응하기 어려워”&lt;br&gt;&lt;br&gt;“尹, 적절한 시기에 직접 의견 낼 것... 헌재, 한 번 아니라 두 번이라도 나갈 생각”&lt;br&gt;&lt;br&gt;“수사기관 출석 요구 무시 아냐... 권력자여서 특혜 아닌 피해 봐”&lt;br&gt;&lt;br&gt;“공조수사본부, 근거 없는 불법기구... 공수처 검사 통한 우회 영장 청구 의심”&lt;br&gt;&lt;br&gt;“구속영장 청구되면 실질심사 받겠다... 사실 당당히 밝힐 것”&lt;br&gt;&lt;br&gt;“향후 절차, 권한 있는 수사기관 의해 정상 진행된다면 당당히 응하겠다”&lt;br&gt;&lt;br&gt;“2·3차 계엄 모의, 있을 수 없는 황당한 이야기라고 생각”&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>외벽 충돌 후 화재까지 판박이…1년 전 무안공항 훈련 영상 재조명</title>
       <link>https://www.chosun.com/national/national_general/2024/12/31/4SXRBNLB6JD2XKIQEFX2HPLM4I/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/31/4SXRBNLB6JD2XKIQEFX2HPLM4I/</guid>
@@ -859,19 +878,6 @@
       <description/>
       <pubDate>Tue, 31 Dec 2024 02:02:57 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3L4GTRYCSZET7DPPW4OYA6HTHQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김동연 경기도지사가 31일 오전 수원역에 마련된 제주항공 희생자 합동분향소를 찾아 조문하고 있다. /경기도&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김동연 경기도지사가 31일 김성중 행정1부지사, 고영인 경제부지사, 조선호 소방재난본부장, 주요 실국장들과 수원역에 마련된 제주항공 여객기 사고 희생자 합동분향소를 방문해 희생자들을 추도했다.&lt;br&gt;&lt;br&gt;김 지사는 이날 방명록에 ‘우리 모두의 아픔입니다. 끝까지 함께 하겠습니다. 희생자분들의 명복을 빕니다’라고 적은 뒤 대표로 헌화했다.&lt;br&gt;&lt;br&gt;조문을 마친 김동연 지사는 취재진에게 “경기도 희생자분들과 유가족들에게 경기도가 할 수 있는 최선을 다해서 위로할 수 있도록 하겠다”며 “오늘 2024년 마지막 날인데 참담하지만 경기도가 할 수 있는 모든 지원을 하겠다”고 말했다.&lt;br&gt;&lt;br&gt;경기도는 지난 29일 사고 발생 이후 희생자 운구 이송을 위한 119구급차 6대를 현장으로 보냈으며 경기도 쉼터버스와 방한물품, 식료품 등 구호물품을 지원했다.&lt;br&gt;&lt;br&gt;수원역 로비 인근과 의정부역 광장에 마련된 합동분향소는 1월 10일까지 운영한다. 한편 지난 29일 발생한 제주항공 여객기 사고 희생자 중 경기도민은 5명으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>尹측 “체포영장, 법 위반해 불법·무효... 발부 납득 어려워”</title>
-      <link>https://www.chosun.com/national/court_law/2024/12/31/YZPGDHFHI5H77HMFYHJ4RIY4JY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/31/YZPGDHFHI5H77HMFYHJ4RIY4JY/</guid>
-      <dc:creator>유종헌 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 31 Dec 2024 01:42:36 +0000</pubDate>
-      <content:encoded>31일 법원이 윤석열 대통령에 대한 체포영장을 발부하자, 윤 대통령 측은 “수사권이 없는 수사기관에서 청구해 발부된 체포영장은 법을 위반해 불법·무효”라는 입장을 냈다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OCGUZGLD6BHA3DEBII5Y46PNOY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령이 지난 3일 밤 서울 용산 대통령실 청사에서 긴급 대국민 특별 담화를 하고 있다. /대통령실&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤 대통령을 대리하는 윤갑근 변호사는 이날 “(내란죄) 수사권 없는 공수처에서 청구한 체포영장이 발부된 것이 놀랍고 도저히 받아들이기 어렵다”는 입장을 냈다.&lt;br&gt;&lt;br&gt;윤 변호사는 “본안 재판이 예상되는 서울중앙지법이 아닌 서부지방법원에 체포영장을 청구한 것은 원칙과 전례에 반하는 일”이라며 “대단히 유감스럽게 생각한다”고 했다.&lt;br&gt;&lt;br&gt;또 “현직 대통령으로서 수사권한 문제 등 불출석에 정당한 사유가 있음에도 체포영장이 발부된 것을 납득하기 어렵다”고 했다.&lt;br&gt;&lt;br&gt;이순형 서울서부지법 영장전담 부장판사는 이날 윤 대통령에 대한 체포영장과 관저 수색영장을 발부했다. 앞서 공수처는 윤 대통령에 대해 내란 우두머리(수괴) 등 혐의로 체포영장을 청구했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/LDF7ZVEKZVDT5DQ7HPCBYGBRKE.jpg?width=4174&amp;height=3130&amp;auth=6b03e723376fb342cc822ebeb30c2c68dd44eb9fadd5bf3b009139d7b4731510&amp;smart=true" type="image/jpeg" height="3130" width="4174">
-        <media:description type="plain">윤석열 대통령./뉴스1</media:description>
-        <media:credit role="author" scheme="urn:ebu">뉴스1</media:credit>
-      </media:content>
     </item>
     <item>
       <title>공수처 “尹 체포영장 기한 1월 6일까지... 집행이 원칙”</title>
