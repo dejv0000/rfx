@@ -13,6 +13,91 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>[오늘의 운세]  1월 2일 목요일 (음력 12월 3일 辛未)</title>
+      <link>https://www.chosun.com/national/national_general/2025/01/01/HLGKLJJBRFAOTAFQECIWYCUHZY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/01/HLGKLJJBRFAOTAFQECIWYCUHZY/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Wed, 01 Jan 2025 08:00:00 +0000</pubDate>
+      <content:encoded>&lt;p&gt;&lt;div class="chosun_unse"&gt;&lt;iframe src="https://image.chosun.com/arc/unse_iframe.html" frameborder="0" scrolling="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;style&gt;.chosun_unse{position:relative;width:100%;height:350px;box-sizing:border-box}.chosun_unse&gt;iframe{position:absolute;top:0;left:0;width:100%;height:100%;overflow-y:hidden}@media all and (max-width:1024px){.chosun_unse{height:350px}}@media all and (max-width:1023px){.chosun_unse{height:350px}}@media all and (max-width:528px){.chosun_unse{height:270px}}@media all and (max-width:384px){.chosun_unse{height:190px}}&lt;/style&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;p&gt;&lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani01.gif"&gt;  	&amp;nbsp;	36년생 문제 생기면 내면의 자신에게 되물어라. 48년생 현재 자기 일을 사랑하도록. 60년생 욕심만 안 부리면 만사 순조. 72년생 부유하다고 다 행복한 건 아니다. 84년생 문서는 주는 것도 받는 것도 이롭지 않다. 96년생 감사와 고마움은 마음속 깊이 간직하도록.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt;  &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani02.gif"&gt;	&amp;nbsp;	37년생 보상이나 보답을 기대하지 마라. 49년생 천만 변화 있어도 내부 단결이 성패를 좌우. 61년생 어둡던 쥐구멍에도 볕 들 때 있다. 73년생 어제보다 내일 위한 미래지향적 사고 가져야. 85년생 용띠와의 거래에 각별한 주의 필요. 97년생 만사여의하니 삶의 여유가 절로.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani03.gif"&gt;	&amp;nbsp;	38년생 배수진 치는 자세로 임해야 결판난다. 50년생 자기 처지와 상황을 정확하게 인지하라. 62년생 너무 강하면 부러지기 마련. 74년생 핑계만 찾지 말고 타개책 모색하라. 86년생 겉치레 신경 쓰다 본질 놓칠 수도. 98년생 주어진 책임이면 소홀히 말고 최선 다하라.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani04.gif"&gt;	&amp;nbsp;	27년생 기대했던 결과가 불투명. 39년생 질러가나 둘러가나 가기만 하면 그만. 51년생 이동수나 장거리 출장. 63년생 옛 추억으로 심란한 하루. 75년생 서쪽에서 온 길손을 경계. 87년생 욕심대로면 하늘엔들 집 못 지을까. 99년생 동남방을 피하는 게 상책.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani05.gif"&gt;	&amp;nbsp;	28년생 친한 사람과의 거래는 피하도록. 40년생 잘나갈 때 숨어 있는 복병을 조심. 52년생 확신이 섰다면 진행해도 좋을 듯. 64년생 남이 보지 못한 곳을 삼가라. 76년생 남 일에 참견 마라. 내 코가 석자. 88년생 느릿느릿 걸어도 황소걸음. 00년생 술로 인한 실수를 조심.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani06.gif"&gt;	&amp;nbsp;	29년생 복이 엷으면 계란에도 뼈가 든다. 41년생 석양이 아름다워도 그저 황혼일 뿐. 53년생 조금 늦더라도 여럿이 함께. 65년생 부귀영화는 풀잎 위에 이슬. 77년생 활동력이 축소되는 시기. 89년생 기회는 다시 오니 포기 마라. 01년생 새롭고 미개척 분야에도 관심 갖도록.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani07.gif"&gt;	&amp;nbsp;	30년생 소화기계통 질환을 주의. 42년생 심신이 피곤하니 원기 충전에 힘써야. 54년생 장거리 출장이나 여행은 피하는 것이 상책. 66년생 개띠는 최고의 파트너. 78년생 결정할 일이 있다면 나중으로 미루도록. 90년생 일 처리가 지연되는 상황. 02년생 상승의 기운이 예상.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani08.gif"&gt;	&amp;nbsp;	31년생 어차피 할 일이라면 즐겁고 기쁘게. 43년생 문제도 해답도 아랫사람에게. 55년생 실행하기 전에 계획은 서있어야. 67년생 결자해지 자세로 임하라. 79년생 소소한 소망은 이룰 수 있을 듯. 91년생 주위사람에게 친절 베풀도록. 03년생 청춘은 한순간의 꽃.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani09.gif"&gt;	&amp;nbsp;	32년생 무엇보다 실리가 판단의 기준. 44년생 투자한 시간만큼 보람 있는 하루. 56년생 가는 떡 커야 오는 떡 크지. 68년생 중단만 하지 않으면 끝은 있다. 80년생 명예를 얻었다면 실리는 포기. 92년생 빠르다고 다 좋은 건 아니다. 04년생 멀리 보고 깊게 생각하라.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani10.gif"&gt;	&amp;nbsp;	33년생 용서와 포용의 아량을 먼저 보여라. 45년생 병환은 차도 있을 때 더욱 조심. 57년생 포근하고 따뜻한 말 한마디가 관계의 유연제. 69년생 먼저 다가가 따뜻하게 배려하라. 81년생 명분만 있으면 결과는 의도대로 될 듯. 93년생 차라리 포기가 마음 편할 수도.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani11.gif"&gt;	&amp;nbsp;	34년생 예상 밖 고전 있으나 해결은 될 듯. 46년생 장애 만나도 물러서지 말고 돌파하라. 58년생 백전노장도 검을 들어야 위엄 있다. 70년생 움직이며 생각해도 늦지 않다. 82년생 순풍에 돛 다니 천리가 순식간. 94년생 지식은 말하고자 하나 지혜는 말이 없다.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani12.gif"&gt;	&amp;nbsp;	35년생 기존의 일에 약간 변화 줘도 좋을 듯. 47년생 화해와 소통 열쇠는 나에게 있다. 59년생 제사엔 뜻 없고 젯밥에만 마음 두어 쓰나. 71년생 제3자의 힘을 이용하라. 83년생 높일 것은 고상한 인격. 95년생 생선 먹고 싶거든 그물 먼저 짜라.	&lt;br&gt;
+&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;한소평 금오산방 강주  &lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/p&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/4MTFRYWHBJA7XOKKF7G7JPLX5U.png?width=800&amp;height=420&amp;auth=4651b5b20b5d4901424204d1456faee02e4b064ff509db23945deabf4404c8ef&amp;smart=true" type="image/png" height="420" width="800"/>
+    </item>
+    <item>
+      <title>국토부 “사고 블랙박스, 국내서 자료 추출 불가 미국 보낸다”</title>
+      <link>https://www.chosun.com/national/transport-environment/2025/01/01/PBCXSVK7GBHJDPKUSIW752NL3U/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/01/01/PBCXSVK7GBHJDPKUSIW752NL3U/</guid>
+      <dc:creator>김아사 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 01 Jan 2025 06:05:09 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/H6VQ663JBRDMZMFGTTOZHJJWWU.png"&gt;&lt;figcaption&gt;&lt;small&gt;음성파일로의 전환 작업이 시작된 제주항공 사고여객기 블랙박스 음성기록장치(CVR) 모습/국토교통부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국토교통부는 지난달 29일 발생한 제주항공 항공기 사고 원인 규명의 핵심인 ‘블랙박스’를 미국으로 보내기로 결정했다고 1일 밝혔다.&lt;br&gt;&lt;br&gt;항공기 블랙박스는 음성기록장치(CVR)와 비행기록장치(FDR)로 나뉘는데, 핵심은 비행기록장치다. 그러나 사고 과정에서의 외부 충격으로 비행기록장치와 분석 장치를 연결하는 커넥터가 분실됐고, 이 때문에 분석이 불가능한 것으로 최종 결정된 것이다. 커넥터는 정보 송수신 등을 위해 특수하게 제작된 형태여서 다른 장비로 대체하는 게 어려운 것으로 전해졌다. 이 경우 최소 6개월 이상의 기간이 소요될 것이라는 게 전문가들의 견해다.&lt;br&gt;&lt;br&gt;다만, 음성기록장치에서의 자료 추출은 마쳤다고 국토부는 밝혔다. 국토부는 “자료 추출을 마치고 이를 음성 파일 형태로 전환하는 작업을 오늘 시작했다”며 “이틀 정도 소요될 것”이라고 했다. 당시 기장, 부기장 간의 대화나 관제탑과의 교신 내용이 사고 원인을 밝힐 열쇠가 될 것으로 보인다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“디자인 혁신하면 용적률 20~30% 상향”…부산시 ‘주거정비계획’ 1일부터 시행  </title>
+      <link>https://www.chosun.com/national/regional/yeongnam/2025/01/01/REZ5X34SCRCNBAW66NPAUK4UII/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/yeongnam/2025/01/01/REZ5X34SCRCNBAW66NPAUK4UII/</guid>
+      <dc:creator>박주영 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 01 Jan 2025 06:30:03 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SNRDDUJWHVQKARSUENEYCS23S4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산 연제구 연산동 부산시청 전경./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;올해부터 재개발·재건축 등 부산의 주거지 및 도시 정비 관련 사업을 할 때 지역 건설업체를 쓰거나 건물 디자인을 혁신하는 경우 용적률 상향 등 인센티브가 종전보다 더 많이 주어진다. &lt;br&gt;&lt;br&gt;부산시는 1일 새로운 ‘2030 부산시 도시·주거환경 정비 기본계획’을 본격 시행함에 따라 지역 업체들과 함께 하는 경우 부여하는 하도급 인센티브를 기존 6%에서 최대 15%로 2배 이상 확대한다고 밝혔다. &lt;br&gt;&lt;br&gt;경관 및 주거관리, 주거정비 구역에서 재개발재개발·재건축 등 정비사업을 하면서 건물 등의 디자인을 혁신할 경우 적용 용적률을 기준보다 각각 20% 더 상향, 최대 220~250%로 올리고 개발유도구역은 디자인 혁신 시 30%의 용적률 인센티브가 부여된다. &lt;br&gt;&lt;br&gt;하성태 부산시 주택건축국장은 “새 정비기본계획은 지역 건설산업의 활력 회복과 주민 생활환경 개선에 초점을 맞추고 있다”며 “‘15분 도시’ 실현을 위한 생활 사회기반시설 확충과 보행 친화적인 가로환경 조성을 강화하고, 건축디자인 혁신으로 ‘살고 싶은 도시, 부산’을 만들어 나갈 계획”이라고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>제주항공 승무원 “우린 대놓고 울 수 없어...최선 다했을 동료들 존경”</title>
+      <link>https://www.chosun.com/national/national_general/2025/01/01/DLVJTN2O5RGSTPBX7ESEYX4OAA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/01/DLVJTN2O5RGSTPBX7ESEYX4OAA/</guid>
+      <dc:creator>최혜승 기자 </dc:creator>
+      <description/>
+      <pubDate>Wed, 01 Jan 2025 06:23:01 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AJTAXHQYT5PEPMFYSWKJARPFBM.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;1일 전남 무안군 무안국제공항 제주항공 여객기 참사 현장에 희생자들을 추모하는 국화꽃이 놓여져 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“저희는 대놓고 울 수도 없습니다. 비행이 끝나야, 손님이 하기해야 그제야 참았던 눈물을 흘립니다.”&lt;br&gt;&lt;br&gt;현직 제주항공 승무원 A씨는 지난 12월 31일 직장인 익명 커뮤니티 ‘블라인드’에 추락사고 희생자를 추모하는 글을 올리며 이렇게 전했다.&lt;br&gt;&lt;br&gt;그는 “항상 마주하던 동료를 잃었다. 그리고 승객을 잃었다”며 “어떤 게 원인인지 정확히 밝혀지지는 않았지만 우리 모두는 현 상황이 쉬이 정신을 차릴 수 없을 만큼 힘들고 가슴 아프다”고 운을 뗐다. 그러면서 “슬픔이란 말로는 표현이 되지 않아서 그 슬픔이 어떤 건지 대체할 수 있는 단어가 없다”고 했다.&lt;br&gt;&lt;br&gt;이어 “그럼에도 오늘도 승객을 맞이한다”며 “조금만 건드려도 주저앉아 울 것 같지만 이를 악물고 이 상황에도 저희를 믿고 비행기에 탑승한 승객을 위해 그 어느 때보다 최선을 다한다. 정비사님들은 내 소중한 동료들이 탑승하기에 여느 때처럼 최선을 다한다”고 했다.&lt;br&gt;&lt;br&gt;그는 또한 “정비사님들이 너무 힘들어하시는 것 보니 가슴이 아프다. 늘 최선을 다하셨다. 우리는 정비사님들을 믿고 탑승한다”며 “기장님들이 그 무거운 책임을 가지고 다시 조종실로 들어간다. 기장님들의 선택을 믿고 존중한다”고 했다. 이어 “저희는 최선을 다했고 다하고 있다. 앞으로도 소홀함이 없을 것”이라고 했다.&lt;br&gt;&lt;br&gt;그는 끝으로 “떠나신 기장님의 최선을 저희는 믿는다. 마지막까지 승객을 안심시키며 탈출 준비를 했을 내 동료들을 존경한다”고 했다. 그러면서 “동료들의 마지막이 존중되길 바란다”며 언론에 “정제된 기사를 써달라”고 했다.&lt;br&gt;&lt;br&gt;지난달 29일 전남 무안국제공항에서 동체 착륙을 시도하던 태국 방콕발 제주항공 7C2216편 여객기가 활주로를 넘어 공항 구조물과 충돌해 폭발했다. 이 사고로 탑승자 181명 가운데 179명이 현장에서 사망했고, 승무원 2명이 구조됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>승진대가 뇌물받은 부산항운노조 간부 2심도 징역형</title>
+      <link>https://www.chosun.com/national/regional/yeongnam/2025/01/01/RPJQGPPZVJD6VJB4C6YY3CQ77Q/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/yeongnam/2025/01/01/RPJQGPPZVJD6VJB4C6YY3CQ77Q/</guid>
+      <dc:creator>박주영 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 01 Jan 2025 06:10:49 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QZJ55AZDUJGV3K6KO6YUOREPFY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산 연제구 거제동 부산지법 등 법원 전경./조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;승진을 대가로 조합원으로부터 돈을 받은 부산항운노조 간부가 항소심에서도 징역형의 집행유예를 선고받았다.&lt;br&gt;&lt;br&gt;부산지법 형사항소1부(재판장 성금석)는 배임수재 혐의로 재판에 넘겨진 부산항운노조 사무장 A씨의 항소를 기각하고 징역 1년에 집행유예 2년인 원심 형량을 유지한다고 1일 밝혔다. A씨에게 승진 대가 뇌물을 준(배임증재) 혐의로 기소된 조합원 B씨에게도 1심과 같은 징역 6개월에 집행유예 1년을 선고했다.&lt;br&gt;&lt;br&gt;A씨는 지난 2022년쯤 부산항운노조의 모 지부장을 보좌하는 사무장 지위를 이용해 조합원 B씨로부터 반장 승진 대가로 2000만원을 받아 챙긴 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;A씨 등은 1심에서 징역 1년에 집행유에 2년 등 유죄를 선고받자 항소했다. 항소심 재판부는 “원심의 판단은 정당하다”며 이들의 항소를 받아들이지 않았다.&lt;br&gt;&lt;br&gt;부산항운노조는 A씨 등과 같은 취업·승진 등을 둘러싼 비리기 오래 전부터 끊이지 않자 지난해 3월 46년간 독점하던 부산항 상용부두 정규직원 채용 추천권을 없애고, 노조 규약에도 인사 비리로 금고 이상 실형을 받은 직원의 영구 제명, 독립적인 감찰부서 신설 등을 명문화했다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“목동 깨비시장 돌진 운전자, 2년 전 치매 진단 받아”</title>
+      <link>https://www.chosun.com/national/national_general/2025/01/01/TVIWA623N5F57BRD4WVD6PZUOQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/01/TVIWA623N5F57BRD4WVD6PZUOQ/</guid>
+      <dc:creator>구동완 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 01 Jan 2025 05:37:47 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4AYI72ZIB5LDFLGSM7B4FGVQUY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 31일 오후 3시 53분쯤 서울 양천구 목동 깨비시장에서 70대 남성이 몰던 승용차가 돌진해 다수의 사상자가 발생했다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울의 한 재래시장 골목에 승용차가 돌진한 사고를 수사하는 경찰이 ‘운전자가 치매 진단을 받은 적 있다’는 취지의 진술을 확보한 것으로 파악됐다.&lt;br&gt;&lt;br&gt;서울 양천경찰서는 전날 운전자 김모(74)씨 측을 조사해 그가 2년 전쯤 치매 진단을 받은 뒤 약을 복용한 적이 있다는 진술을 확보했다고 1일 밝혔다. 경찰은 지병(치매)과 사고와의 연관성, 사고 당일 그가 약을 복용했는지 여부 등을 함께 살펴보고 있다. 다만 김씨는 치매 진단을 받고서도 과거 운전한 전력이 있는 것으로 파악됐다.&lt;br&gt;&lt;br&gt;김씨는 지난 31일 오후 3시 53분쯤 검은색 에쿠스를 몰고 양천구 양동중학교에서 목동 깨비시장으로 직진하다 버스를 앞질러 가속해 그대로 시장으로 돌진했다. 김씨의 승용차가 행인과 상점 등을 덮쳐 40대 남성 1명이 숨지고 12명이 부상했다. 경찰은 같은 날 김씨를 교통사고처리특례법 위반(치사) 혐의로 입건했다.&lt;br&gt;&lt;br&gt;김씨는 경찰 조사에서 “차를 오랫동안 주차장에 세워놔 방전이 걱정돼 오랜만에 끌고 나왔다”며 “앞서가던 버스를 피해 가속하다가 시장 가판대 앞에서 브레이크를 밟았는데 이후로는 기억이 잘 안 난다”고 진술했다. 급발진을 주장하지는 않은 것으로 전해졌다.&lt;br&gt;&lt;br&gt;경찰은 현장 주변 폐쇄회로(CC)TV 영상 등을 분석해 차량의 후미 브레이크 등이 정상 작동한 것으로 파악했고, 운전자 측 진술을 함께 고려하여 사고 원인으로 차량 결함보다는 운전자 과실에 무게를 두고 있는 것으로 알려졌다. 경찰 관계자는 “김씨가 현재도 치매 증상을 보이는지, 약을 여전히 복용하는지 등을 추가로 확인하는 중”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>경기도, 기초생활수급자·차상위계층에 난방비 5만원 긴급지원</title>
+      <link>https://www.chosun.com/national/regional/2025/01/01/NYRQQYY4N5AYROEC4OLL7BNMBM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/01/01/NYRQQYY4N5AYROEC4OLL7BNMBM/</guid>
+      <dc:creator>수원=권상은 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 01 Jan 2025 05:19:52 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2EFAHEQ46BLVL73W7X72FF2Y3Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기도청 전경. /경기도&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기도는 기초생활보장 수급자와 차상위계층 등 취약계층 30만 가구에 1월 한달 난방비 5만원을 긴급 지원한다고 1일 밝혔다. 지원 대상은 일반 기초생활보장 수급자 25만3160가구, 차상위계층 5만5441가구 등 30만8601가구이다. &lt;br&gt;&lt;br&gt;경기도내 기초생활보장 수급자는 모두 34만여 가구이나, 정부의 에너지바우처 사업과 자치단체의 지원 등으로 한달에 최대 약 80만원의 난방비를 지원받고 있는 노인·장애인 등 9만여 가구는 긴급 지원 대상에서 제외된다.&lt;br&gt;&lt;br&gt;경기도는 차상위계층은 조손·모자·부자 가족 등으로 이들에 대한 난방비 지원은 처음이라고 밝혔다. 난방비는 이달 말까지 대상자 계좌로 입금되며, 필요한 재원 154억3000만원은 전액 도비로 재해구호기금에서 충당된다. &lt;br&gt;&lt;br&gt;경기도는 취약계층 난방비 긴급 지원은 지난달 17일 열린 도·시군 긴급 민생안정대책회의에서 나온 건의를 김동연 도지사가 수용하면서 실행됐다고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>대구 군위군 산불, 산림 4만평 태우고 19시간만에 진화</title>
+      <link>https://www.chosun.com/national/incident/2025/01/01/BNB624YM25BPRFYHVX33WFCCHI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/01/01/BNB624YM25BPRFYHVX33WFCCHI/</guid>
+      <dc:creator>이승규 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 01 Jan 2025 05:14:59 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PVK4FWAJ7VPC5KXICU6DIGD35Q.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;1일 오전 대구 군위군 삼국유사면 화북리 산불 현장에서 산불진화용 헬기가 진화작업을 벌이고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난달 31일 대구 군위군의 한 야산에서 발생한 산불이 19시간 만에 꺼졌다.&lt;br&gt;&lt;br&gt;산림청 중앙산불방지대책본부는 “1일 오후 9시 20분쯤 군위군 삼국유사면 화북리의 한 야산의 산불을 진화 완료했다”고 밝혔다. 이 산불은 전날 오후 2시 15분쯤 발생했으며, 산불 피해를 받았거나 받을 수 있는 산불영향구역이 14.5ha(4만 3862평)에 달하는 것으로 추정됐다.&lt;br&gt;&lt;br&gt;산림청은 전날 오후 4시 30분 산불대응 1단계를 발령했다. 산불대응 1단계는 예상 피해면적이 30ha(9만 750평)미만, 진화(예상)시간이 8시간 미만일 경우 산림청장이 발령한다. 해당 지역 진화대원 전체와 관할기관 산불진화 헬기 전체가 동원되며, 인접기관의 헬기 자원 50%, 드론진화대 50%가 투입된다.&lt;br&gt;&lt;br&gt;산림청은 1일 오전 해가 뜨자마자 현장에 산불진화헬기 19대, 진화차량 52대, 진화 인력 308명을 투입해 불길을 잡았다. 산불 지점에서 500m 떨어진 지점엔 과거 승려 일연이 삼국유사를 집필했다는 사찰 인각사가 위치해있었고, 2~4km 지점엔 민가가 있었지만 모두 별다른 피해는 없었다. 앞서 고로문화회관으로 대피했던 인근 주민 24명도 전원 귀가했다.&lt;br&gt;&lt;br&gt;이번 산불은 소나무 군락지에서 발생했으며, 순간 풍속이 초속 12m에 달해 순식간에 산 정상으로 확산됐다. 산불 현장 또한 급경사 지형이라 진화 여건이 좋지 않았으나 산불재난특수진화대와 대구시 산림재해기동대 등이 야간 산불 확산을 막아내 19시간만에 불을 끌 수 있었다.&lt;br&gt;&lt;br&gt;산림청 관계자는 “산불조사감식반을 통해 산불발생 원인과 정확한 피해면적 등을 조사할 계획”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>수색영장에 ‘형사소송법 110조 예외’ 명시... 尹측 “사법 신뢰 침해”</title>
       <link>https://www.chosun.com/national/court_law/2025/01/01/G2QYVQMCC5DULAF47MG4KK7BA4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/01/01/G2QYVQMCC5DULAF47MG4KK7BA4/</guid>
@@ -704,54 +789,6 @@
 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제주도가 무안공항 제주항공 참사로 희생된 제주도민 부부 유가족에게 도민안전보험금과 재난지원금을 지급한다.&lt;br&gt;&lt;br&gt;제주도는 31일 무안공항에서 발생한 제주항공 여객기 사고로 숨진 제주도민 유가족에게 도민안전보험금 최대 2000만원과 재난지원금 최대 3500만원(장례비 1500만원, 구호금 최대 2000만원) 등 최대 5000만원을 지원할 계획이라고 밝혔다.&lt;br&gt;&lt;br&gt;이번 사고로 제주도민 A(71)씨와 B(69)씨 부부가 숨졌다.&lt;br&gt;&lt;br&gt;도민안전보험은 제주에 주민등록을 둔 도민이면 사유 발생일로부터 3년 내 청구 가능하다. 제주도는 재난지원금에 대해서는 중앙사고수습본부의 재난 복구계획이 시달되는 즉시 지급 절차를 이행할 예정이다.&lt;br&gt;&lt;br&gt;제주도개발공사도 유가족 지원에 나섰다. 개발공사는 제주삼다수 500㎖짜리 2240병과 2L짜리 576병을 무안공항 내 유가족들에게 지원할 계획이다.&lt;br&gt;&lt;br&gt;제주도는 사고 당일인 지난달 29일 중앙협력본부 세종사무소 직원을 무안공항에 급파해 유가족 지원 업무를 시작했고, 공항확충지원단과 사회재난과 직원 2명도 투입해 유가족을 지원하고 있다. 또 제주에서 장례를 치르길 희망하는 유족들과 장례 절차를 협의 중이며, 유족 대표단과 당국 간 의견 조율을 거쳐 장례를 진행할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>안현모·최혜선·전종서까지…애도기간 인스타 글에 ‘시끌’</title>
-      <link>https://www.chosun.com/national/national_general/2024/12/31/QPNB5ZUUPRAI3EBB2CKQ52Z5VE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/31/QPNB5ZUUPRAI3EBB2CKQ52Z5VE/</guid>
-      <dc:creator>김가연 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 31 Dec 2024 05:20:56 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SDMEH2QHKDWHXRQXS2MD2ZWRUM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;방송인 안현모, 그가 30일 인스타그램에 올린 게시물. /뉴시스·인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제주항공 참사로 전국이 슬픔에 빠진 가운데, 소셜미디어 게시물을 잘못 올린 일부 유명인들이 여론의 뭇매를 맞고 있다.&lt;br&gt;&lt;br&gt;넷플릭스 ‘솔로지옥3′, 웨이브 ‘피의 게임’ 등에 출연한 인플루언서 최혜선은 31일 자신의 인스타그램에 “고인분들의 명복을 빕니다”라는 짤막한 추모글을 적었다. 문제가 된 건 그가 함께 올린 영상이다. 이 영상에는 제주항공 여객기의 사고 당시 장면이 담겼다.&lt;br&gt;&lt;br&gt;이후 네티즌들 사이에서는 “사고 영상이 유가족뿐 아니라 대중들에게 트라우마를 줄 수 있다. 영상 공유는 부적절하다”라는 지적이 잇달았다. 이들은 최혜선이 165만 팔로워를 보유한 점을 언급하며, 그만큼 영향력이 클 수 있다는 의견도 냈다.&lt;br&gt;&lt;br&gt;논란이 일자 최혜선은 문제의 게시물을 삭제하고 “제가 생각이 정말 짧았다. 상처받으신 모든 분께 진심으로 죄송하다”라고 사과했다.&lt;br&gt;&lt;br&gt;방송인 안현모의 추모글도 도마 위에 올랐다. 그는 30일 자신의 인스타그램에 공항에서 찍은 것으로 보이는 사진을 올리고 “금요일에도 토요일에도 그리고 오늘도 며칠째 비행기에 오르지만 날고 내리는 모든 것이 운이었음을. 모든 것이 감사한 일이었음을. 생각할수록 들숨도 날숨도 비통할 수 있음을”이라고 적었다.&lt;br&gt;&lt;br&gt;참사에 대한 비통한 심경을 드러낸 것으로 추측되나, 네티즌들은 표현이 부적절했다며 이를 지적하고 나섰다. 온라인상에서는 “많은 사람이 죽은 참사를 두고 운이라니” “본인은 운 좋아서 감사하다는 말이 지금 할 말인가” “다소 공감능력이 부족해 보이는 표현” 등 반응이 나왔다. 반면 일부 네티즌들은 “무슨 말인지는 알겠다. 다만 다른 식으로 표현했으면 좋았을 듯” “이런 것까지 문제 삼는 건 과도한 것 같다” 등 의견을 내기도 했다. 비판이 이어지자 안현모는 댓글 창을 폐쇄했다가, 결국 글을 삭제했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/X2LVDB7BD5GP5A6LBMDQYIZ7RM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전종서. /인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;배우 전종서는 셀카를 올려 구설에 올랐다. 앞선 사례처럼 부적절한 방식으로 추모글을 올렸다가 비판의 대상이 된 건 아니다.&lt;br&gt;&lt;br&gt;그는 자신의 인스타그램에 “오늘도 촬영”이라는 글과 함께 여러 장의 사진을 올렸다. 이중에는 차량 안에서 찍은 셀카도 포함됐다.&lt;br&gt;&lt;br&gt;이를 두고 네티즌들은 갑론을박을 벌였다. “참사 이후 국가애도기간에 이 같은 사진을 올리는 것이 경솔하다” “문제는 없지만 실망스럽긴 하다”라는 의견과 “문제의 소지가 없는 일상 사진까지 검열하면 안 된다”라는 의견이 맞붙었다.&lt;br&gt;&lt;br&gt;댓글창에서 갑론을박이 계속 이어지자, 전종서는 결국 게시글을 삭제했다.&lt;br&gt;&lt;br&gt;한편 정부는 희생자들을 기리기 위해 29일부터 내달 4일까지 7일간을 국가 애도기간으로 정하고, 서울, 세종 등 전국 17개 시도와 무안국제공항 사고 현장에 합동분향소를 설치했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>인천공항 터미널에서 휴대전화 등 1000만원 상당 금품 훔친 60대 ‘집유’</title>
-      <link>https://www.chosun.com/national/court_law/2024/12/31/Y6C4M62RLJGBNCH3W7HP6QO6KM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/31/Y6C4M62RLJGBNCH3W7HP6QO6KM/</guid>
-      <dc:creator>인천=이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 31 Dec 2024 05:16:39 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/E7T5CKKUQ67WAWVUY63UCNLB74.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원 로고./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천공항에서 탑승을 기다리던 여행객들의 휴대전화 등 1000여만원 상당의 금품을 훔친 60대 남성에게 징역형의 집행유예가 선고됐다.&lt;br&gt;&lt;br&gt;인천지법 형사 1단독 김태업 판사는 절도 혐의로 기소된 A씨에 대해 징역 6개월에 집행유예 2년을 선고했다고 31일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 8월 21일부터 22일까지 인천 중구 인천국제공항 제1여객터미널 내에서 8차례에 걸쳐 여행객들의 휴대전화와 여행용 가방 등 총 1191만5000원 상당의 금품을 훔친 혐의로 기소됐다.&lt;br&gt;&lt;br&gt;A씨는 공항 터미널에서 비행기를 기다리다 잠이 든 승객이 물건을 노린 것으로 파악됐다.&lt;br&gt;&lt;br&gt;A씨는 터미널 내 한 렌터카 영업점에서 40만원 상당의 태블릿 PC를 훔치기도 한 것으로 조사됐다. 그는 당시 영업점 직원이 자리를 비운 사이 범행한 것으로 파악됐다.&lt;br&gt;&lt;br&gt;김 판사는 “공항 여객터미널에서 탑승을 기다리는 여행객 등의 물건을 훔친 것으로, 범행의 방법이나 횟수, 피해 규모 등에 비춰볼 때 죄질이 몹시 좋지 않다”며 “반성하는 점, 피해품이 반환된 것으로 보이는 점 등을 고려했다”고 양형 이유를 설명했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>무안 출신 박나래, 사랑의열매에 제주항공 참사 희생자 추모 성금 전달</title>
-      <link>https://www.chosun.com/national/people/2024/12/31/T767BPEBRZFDREURG43QDTZD4Q/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2024/12/31/T767BPEBRZFDREURG43QDTZD4Q/</guid>
-      <dc:creator>김병권 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 31 Dec 2024 05:12:44 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/B4ROTSXJI5B4TP3RPHN7AAMDSQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;코미디언 박나래씨/조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;사랑의열매는 지난 30일 코미디언 박나래씨가 제주항공 참사 희생자들을 추모하기 위해 성금을 기부했다고 31일 밝혔다. 다만, 사랑의열매는 박씨 측의 의사에 따라 성금 규모는 공개하지 않기로 했다고 한다.&lt;br&gt;&lt;br&gt;전남 무안 출신인 박씨는 “사랑하는 가족들을 잃고 비탄에 잠긴 유가족분들께 깊은 애도와 위로를 전한다”며 “추운 날씨에 현장에서 힘써주시는 모든 분들께도 진심으로 감사하다”고 전했다.&lt;br&gt;&lt;br&gt;한편, 박씨는 지난 2020년 코로나 피해지원성금으로 5000만원을 사랑의열매에 기부하고 국제구호개발NGO, 병원 등에 마스크 1만 장, 소아·청소년 환자 지원을 위한 성금을 기부하는 등 나눔을 꾸준히 실천해왔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/B4ROTSXJI5B4TP3RPHN7AAMDSQ.jpg?width=522&amp;height=520&amp;auth=85c7109fb0a57f1895d17e56836f1320d0509df625ac67e0a74a164bf822999c&amp;smart=true" type="image/jpeg" height="520" width="522">
-        <media:description type="plain">박나래/JDB 엔터테인먼트</media:description>
-      </media:content>
-    </item>
-    <item>
-      <title>“재판 공정성에 심각한 도전”… 국민재판 배심원 위협 첫 기소, 징역형 선고 </title>
-      <link>https://www.chosun.com/national/court_law/2024/12/15/SAPBPMSXWNAGLPVSBIC7GQHMAA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/15/SAPBPMSXWNAGLPVSBIC7GQHMAA/</guid>
-      <dc:creator>박주영 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 15 Dec 2024 03:07:49 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QZJ55AZDUJGV3K6KO6YUOREPFY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산 연제구 거제동 부산지법 등 법원 전경./조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;자신의 사건을 다루는 국민참여재판 배심원에게 전화하거나 문자메시지를 보내 위협한 혐의로 재판에 넘겨진 피고인이 징역형의 집행유예를 선고받았다.&lt;br&gt;&lt;br&gt;부산지법 형사5단독 김태우 부장판사는 국민의 형사재판 참여에 대한 법률 위반 혐의(배심원 위협죄)로 기소된 40대 A씨에게 징역 6개월에 집행유예 2년을 선고하고 80시간의 사회봉사를 명령했다고 15일 밝혔다. A씨는 2008년 국민참여재판 시행 이후 배심원 위협 혐의 첫 사례로 지난 8월 기소됐다.&lt;br&gt;&lt;br&gt;지난 5월 13일 경찰관을 밀쳐 폭행한 사건 피고인으로 부산지법에서 열린 국민참여재판에 참석한 A씨는 자신 사건의 배심원 B씨에게 전화를 걸고 “검사의 심문 내용이 억울하다”고 항변하고 재차 문자메시지를 보내 불안감을 조성하는 등 위협 행위를 한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;A씨는 이날 재판에서 변론을 마치고 대기하던 중 법원 주차장에 있는 차량에 적힌 전화번호를 보고 무작위로 전화를 걸다가 우연히 배심원 B씨와 연락이 닿아 통화하고 문자 등을 보낸 것으로 조사됐다.&lt;br&gt;&lt;br&gt;A씨는 지난 2022년 6월 폭행 사건 신고를 받고 출동한 경찰관과 실랑이를 벌이다가 자신을 밀친 경찰관을 다시 민 행동이 정당방위로 무죄라고 주장하며 국민참여 재판을 신청했다. A씨는 이날 국민참여재판에서 폭행죄 혐의가 인정돼 벌금 50만원을 선고받았다.&lt;br&gt;&lt;br&gt;김 부장판사는 판결에서 “누구든지 국민참여재판에 영향을 미치거나 배심원이 직무상 취득한 비밀을 알아낼 목적으로 접촉해서는 안 된다”며 “그러나 A씨는 전화 통화와 문자메시지로 재판 절차 관련 불만을 배심원에게 토로하는 행위를 했고, 이는 재판의 공정성, 민주성에 대한 심각한 도전”이라고 말했다.&lt;br&gt;&lt;br&gt;김 부장판사는 이어 “A씨의 행위로 인해 해당 배심원이 심각한 불안함을 호소해 선고 절차에서 피고인이 배심원들을 볼 수 없도록 가림막까지 설치해야 했다”며 “전화, 편지 등의 방법으로 겁을 주거나 불안감을 조성하는 위협행위를 하면 2년 이하의 징역 또는 500만원 이하의 벌금에 처하도록 돼있다”고 말했다.&lt;br&gt;&lt;br&gt;김 판사는 “다만 정제되지 않은 표현으로 재판 절차에 대한 억울함을 표현한 것이지 직접적으로 무죄 평결이나 유리한 양형 평결을 요구하지는 않은 점 등을 고려, 양형했다”고 말했다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>부산 ‘수영하수처리장 지하화’ 속도 붙는다</title>
-      <link>https://www.chosun.com/national/regional/yeongnam/2024/12/23/GQYJEISGRJGZXDBPNGXRIHTJHU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/yeongnam/2024/12/23/GQYJEISGRJGZXDBPNGXRIHTJHU/</guid>
-      <dc:creator>박주영 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 23 Dec 2024 06:17:40 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GZVEJS6P7ZF7ZP4GY6IP4ULJ7I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산 수영하수처리장 전경./부산시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산 최대 규모인 수영하수처리장 지하화가 본격화한다.&lt;br&gt;&lt;br&gt;부산시는 “수영하수처리장 현대화사업이 한국개발연구원(KDI)이 주관한 민간투자사업 적격성 조사를 통과, 시설 지하화에 속도가 붙게 됐다”고 23일 밝혔다. 민자적격성 조사는 민간 자본으로 사업을 추진해도 문제가 없고 민자사업이 재정사업보다 효과적이라는 것을 검증하는 절차다.&lt;br&gt;&lt;br&gt;시는 수영하수처리장 현대화 사업의 적격성 심사 통과에 따라 2025년 상반기 민자사업 추진에 대한 시의회 동의와 우선협상대상자 선정 등 후속 절차를 거쳐 2026년 착공에 들어갈 계획이다.&lt;br&gt;&lt;br&gt;이병석 부산시 환경물정책실장은 “수영하수처리장이 지하화하면 고질적인 악취발생 문제가 근원적으로 해결된다”며 “또 상부공간에는 어린이 야외 복합문화공간, 잔디광장, 파크골프장, 전망카페 등 도심 속 테마공원을 조성, 시민의 삶의 질을 향상시키도록 할 것”이라고 말했다.&lt;br&gt;&lt;br&gt;이 사업에 드는 비용은 국비 136억원과 민간자본 5819억원을 합쳐 총 5955억원으로 추산됐다. 사업은 손익공유형 민간투자사업(BTO-a)으로 추진된다. 연차적으로 시설을 지하화해 2034년 5월 전체 준공을 목표로 하고 있다. 민간사업자는 준공 후 30년간 이 시설을 운영한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/46OQMFTF4VAHLPJDRI2ZYPLESI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산 수영하수처리장 현대화 사업 조감도./부산시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이병석 실장은 “수영하수처리장 현대화사업으로 인한 하수도 요금 인상은 없고 부산환경공단 노조와 협의를 통해 기존 인력 고용을 최대한 보장할 계획”이라고 말했다.&lt;br&gt;&lt;br&gt;수영하수처리장은 88올림픽을 앞두고 요트 경기장 주변 수영만의 수질을 개선하기 위해 1988년 부산 최초로 지어졌다. 이어 1998년, 2012년 등 단계별로 하루 55만t(톤) 하수 처리 규모까지 시설을 확대했고 현재 수영구·동래구·연제구·금정구·해운대구 등 5개구 수영강·온천천 계통의 하루 45만2000t의 하수를 정화 처리하고 있다.&lt;br&gt;&lt;br&gt;수영하수처리장은 15만125㎡ 부지에 들어서 있으며 부산의 14개 하수처리장 중 규모가 가장 크다. 현대화된 새 시설은 하수처리 방식을 현재의 활성 슬러지 공법 등에서 생물 여과막 공법으로 바꿔 수질 정화 효과를 더 높일 계획이다.&lt;br&gt;&lt;br&gt;한편 수영하수처리장은 현재 전국적으로 추진되고 있는 대전, 성남, 춘천시 등의 하수처리장 지하화 사례 중 대전(하루 60만t 처리)에 이어 2번째 규모다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[속보] 헌재 “한덕수 권한대행 탄핵심판, 변론 준비 절차 회부”</title>
       <link>https://www.chosun.com/national/court_law/2024/12/31/WMLI6JSG2FHWVB7S7V3CLL33ZM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/31/WMLI6JSG2FHWVB7S7V3CLL33ZM/</guid>
@@ -779,24 +816,6 @@
       <content:encoded>‘12·3 비상계엄' 사태를 수사하는 검찰이 31일 여인형 전 국군방첩사령관과 이진우 전 수도방위사령관을 구속기소했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5JIE4GTBKFAIXEZ3SVF4Y22LAU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;여인형 국군방첩사령관, 이진우 수도방위사령관. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰 비상계엄 특별수사본부(본부장 박세현 서울고검장)는 이날 두 사령관을 내란 중요 임무 종사, 직권남용 혐의로 재판에 넘겼다. 두 사람은 현역 군인 신분이어서 검찰과 합동 수사 중인 군검찰이 중앙지역군사법원에 기소했다.&lt;br&gt;&lt;br&gt;여 전 사령관은 비상계엄 상황에서 주요 요인 체포조 편성·운영을 주도하고, 중앙선거관리위원회 장악과 전산자료 확보를 시도한 혐의를 받는다. &lt;br&gt;&lt;br&gt;그는 김용현 전 국방부 장관으로부터 우원식 국회의장, 이재명 더불어민주당 대표, 한동훈 전 국민의힘 대표 등 10여명의 체포를 지시받고 조지호 경찰청장에게 안보수사요원 100명 지원 및 체포대상자 위치 추적을 요청한 것으로 조사됐다. 또 박헌수 국방부 조사본부 본부장에게도 조사본부 수사관 100명을 지원해달라고 요청했다.&lt;br&gt;&lt;br&gt;여 전 사령관은 김대우 방첩사 수사단장에게 이들을 신속히 체포해 수방사 B1벙커 구금 시설로 이송하라고 지시했다. 그러나 국회의 비상계엄 해제요구안 가결이 임박하자 김 전 장관은 여 전 사령관에게 ‘이재명, 우원식, 한동훈 이 3명부터 잡아라’고 지시하고, 여 전 사령관은 김 단장에게 이 같은 명령을 하달했다.&lt;br&gt;&lt;br&gt;여 전 사령관 휴대전화에선 체포조 운용, 계엄사령부 합동수사본부 운영 등 비상계엄 대비 계획 관련 메모가 나왔던 것으로 확인됐다. 일부 메모는 계엄 이틀 전인 지난 1일 작성됐다.&lt;br&gt;&lt;br&gt;이 전 사령관은 수방사 병력을 동원해 국회를 봉쇄하려 하고 국회의 계엄해제 의결 방해를 시도한 혐의를 받는다.&lt;br&gt;&lt;br&gt;그는 계엄 하루 전인 지난 2일 김 전 장관에게 “대통령 담화가 전파되는 시점에 전 장병 휴대폰 통합 보관, 마스크 착용·태극기 부착·공포탄 불출 등을 시행하겠다”고 보고한 것으로 조사됐다. 이 전 사령관은 이 같은 보고 직후 휴대전화로 ‘국회해산이 가능한가요’ ‘대통령 국회 해산권 있나요’ 등을 검색하기도 했다.&lt;br&gt;&lt;br&gt;한편 이 전 사령관은 국회에 출동해 수방사 병력을 지휘하는 과정에서 윤석열 대통령으로부터 수차례 전화를 받았다. 김 전 장관도 이 전 사령관에게 수시로 전화해 ‘왜 못 들어가냐’고 말한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>“로컬라이저, 종단안전구역 밖이라 규정 위반 아니다” 국토부 거짓말 논란</title>
-      <link>https://www.chosun.com/national/national_general/2024/12/31/IIBYCOTUERE6DG7THQ7IQXDXBU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/31/IIBYCOTUERE6DG7THQ7IQXDXBU/</guid>
-      <dc:creator>강지은 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 31 Dec 2024 03:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UQZ6HEWGFRGITHNWC7QOFY3IHM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 30일 전남 무안군 무안국제공항 활주로에 전날 동체 착륙을 시도하다 충돌 후 폭발한 제주항공 여객기의 흔적과 잔해가 남아 있다. 앞쪽은 사고를 키운 부서진 외벽을 임시로 막아 놨다. /장련성 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제주항공 참사의 피해를 키운 원인으로 활주로 주변에 있던 착륙유도장치(로컬라이저)의 콘크리트 구조물이 지목되고 있는 가운데, 국토교통부는 “해당 구조물은 활주로 종단안전구역 밖에 설치돼 규정 위반 사항이 없다”고 입장을 밝혔다. 하지만 이런 국토교통부 설명과는 달리&lt;b&gt; &lt;/b&gt;“로컬라이저가 설치되는 지점까지가 종단안전구역”이라는 국토교통부 고시 규정을 들어&lt;b&gt; &lt;/b&gt;콘크리트 구조물이 위법한 게 아니냐는 지적이 여전히 제기되고 있다&lt;br&gt;&lt;br&gt;31일 국토교통부는 예규를 근거로 들며 “장애물로 간주되는 설치물은 부러지기 쉬운 받침대에 장착해야 한다는 규정은 활주로 종단안전구역 등의 내에 위치하는 경우에만 적용되는 것이라 무안공항에는 해당 규정이 적용되지 않는다”고 밝혔다. 활주로 종단 안전 구역은 항공기가 착륙 후 제때 멈추지 못하고 활주로 끝부분을 지나쳤을 경우 항공기의 손상을 줄이기 위해 착륙대 종단 이후에 설정된 구역을 말한다.&lt;br&gt;&lt;br&gt;그러나 국토교통부 고시인 공항･비행장시설 및 이착륙장 설치기준 제21조 제4항에 따르면, 정밀접근활주로의 경우에는 방위각제공시설(LLZ)이 설치되는 지점까지 활주로 종단안전구역을 연장해야 한다. 항공정보포털시스템을 보면 작년 12월 기준으로 무안국제공항 활주로는 정밀접근활주로(CAT-1)에 해당한다. 해당 콘크리트 둔덕은 지난해 재설치됐다.&lt;br&gt;&lt;br&gt;“국토부의 브리핑 내용과 고시 규정이 충돌한다”는 비판이 제기되자 국토교통부는 이날 브리핑에서 “무안공항의 활주로는 한시적으로 정밀접근활주로가 아니다”라고 해명했다. 활주로를 정밀접근활주로로 운영하지 않게 된 시점과 로컬라이저 재설치의 정확한 시점에 대해서는 “확인 중”이라는 입장이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘의료계 블랙리스트’ 제작·유포한 사직 전공의… 檢, 구속 기소</title>
-      <link>https://www.chosun.com/national/court_law/2024/12/31/IGQAYQMDA5APLL5OBS43XVNGWY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/31/IGQAYQMDA5APLL5OBS43XVNGWY/</guid>
-      <dc:creator>이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 31 Dec 2024 03:53:26 +0000</pubDate>
-      <content:encoded>서울중앙지검 공공수사3부(부장 김태훈)는 의료계 집단행동에 동참하지 않은 의사·의대생의 신상 정보가 담긴 ‘블랙리스트’를 해외사이트에서 제작·유포한 혐의를 받는 사직 전공의 류모씨를 스토킹처벌법위반 등 혐의로 구속 기소했다고 31일 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7RYENMQQFNPIJIVYHHWFIDEO2M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울중앙지검 청사./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;류씨는 서울 소재 ‘빅5 병원’의 영상의학과 3년차 전공의였다. 지난 8~9월 전공의 집단 사직, 의대생 집단 휴학에 동참하지 않은 2900여명의 명단을 수집해 해외 사이트 ‘페이스트빈’ 등에 게시한 혐의를 받는다.&lt;br&gt;&lt;br&gt;류씨는 해당 블랙리스트에 의사·의대생의 성명, 나이, 소속 기관 등 개인정보와 피해자들에 대해 확인되지 않은 인신공격성 글을 함께 올린 것으로 조사됐다.&lt;br&gt;&lt;br&gt;서울중앙지법 신영희 영장전담 부장판사는 지난 3일 류씨에게 증거인멸 우려가 있다며 구속영장을 발부했고, 서울경찰청 사이버수사대는 지난 12일 류씨를 구속 송치했다.&lt;br&gt;&lt;br&gt;서울중앙지검 관계자는 “검찰은 향후에도 경찰과 협력하여 국민의 생명과 건강을 위해 노력하는 의료진을 사이버상에서 집단적으로 조롱, 멸시하는 범행에 엄정 대응할 예정”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>오세훈 서울시장 신년사 “세계로부터 존경받는 서울 만들 것”</title>
       <link>https://www.chosun.com/national/national_general/2024/12/31/FT5PSHM4FNEB3KE73KNTYLLG2Q/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/31/FT5PSHM4FNEB3KE73KNTYLLG2Q/</guid>
@@ -804,15 +823,6 @@
       <description/>
       <pubDate>Tue, 31 Dec 2024 03:17:40 +0000</pubDate>
       <content:encoded>오세훈 서울시장이 2025년 새해를 맞아 “위기를 극복해내고 세계로부터 존경받는 서울을 만들어 갈 것”이라고 말했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/REB2ZZYMQVF3BH77RNYWYLHLWY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;오세훈 서울 시장이 지난 7월 10일 서울시청 집무실에서 본지와 인터뷰를 갖고 있다. /김지호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;오 시장은 31일 발표한 신년사에서 “정치적 혼란, 대외신인도 위기, 경제적 불확실성 같은 중대한 도전에 직면해 있지만 서울은 언제나 위기를 기회로 전환해 온 도시”라며 이같이 말했다.&lt;br&gt;&lt;br&gt;오 시장은 민선 8기 서울시장 취임 이후 성과로 저소득층에게 소득을 지원하는 ‘디딤돌소득’, 저소득층 학생 대상 무료 인터넷 강의 서비스 ‘서울런’, 신혼부부 장기전세주택인 ‘미리내집’ 등을 꼽았다.&lt;br&gt;&lt;br&gt;또 100만명 이상이 이용한 것으로 나타난 기후동행카드, 손목닥터9988, 서울야외도서관, 서울국제정원박람회 등도 주요 성과로 제시했다.&lt;br&gt;&lt;br&gt;오 시장은 “시민 여러분이 매일 편안함을 느끼고 삶 속에서 작은 행복을 누릴 수 있는 것이 서울을 위대하게 만드는 힘”이라며 “서울시민이 살맛 나게 하는 게 저의 일”이라고 했다.&lt;br&gt;&lt;br&gt;이날 오 시장은 본격적으로 규제 철폐를 추진하겠다는 입장도 발표했다. 오 시장은 “규제는 ‘최소한이 최선’”이라며 “규제 권한의 절반을 덜어낸다는 각오로 규제와의 전쟁을 추진하겠다”고 했다. 오 시장은 또 “국회도 법안 숫자를 늘리는 것을 성과로 착각하지 말고 법안 늘리기 경쟁이라는 ‘잘못된 행진’을 멈춰야 한다”며 “역사적으로 규제를 줄여 번영한 사례는 많지만, 규제를 늘려 성공한 국가는 없다”고 말했다.&lt;br&gt;&lt;br&gt;오 시장은 인공지능(AI), 바이오, 로봇 등 미래 산업에 대한 투자 의사도 밝혔다. 오 시장은 “내일의 열매를 위해선 오늘 사과나무를 심어야 한다”며 “세계의 인재가 서울에 모여들고, 연구비가 충분히 투자될 수 있어야 한다”고 했다. &lt;br&gt;&lt;br&gt;마지막으로 오 시장은 “우리 모두 함께 손을 맞잡고 협력할 때 서울은 더 단단해지고 높이 비상할 것”이라며 “우리가 함께 맞이할 서울의 내일을 기대한다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>20여년 전 설계 단계부터 계획된 ‘죽음의 벽’, “염분 견딜 수 있는 내구성 강한 재료 쓸 것”</title>
-      <link>https://www.chosun.com/national/national_general/2024/12/31/E6ZSA2K7TJDTLO6KREMYXN6OOE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/31/E6ZSA2K7TJDTLO6KREMYXN6OOE/</guid>
-      <dc:creator>무안=고유찬 기자, 무안=김도연 기자, 무안=안태민 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 31 Dec 2024 02:38:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JH6AHGXE35G5JFLTNGM6BBOZ5E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2024년 12월 30일 오후 전북 무안국제공항 활주로에 제주항공 7C2216편이 남긴 것으로 추정되는 자국이 선명한 모습. 지난 29일 오전 제주항공 7C2216편 항공기가 동체 착륙을 시도하던 중 활주로 끝 콘크리트 둔덕과 충돌하면서 181명 탑승객 가운데 179명이 사망했다. /장련성 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 29일 발생한 제주항공 참사의 규모를 키운 원인으로 지목되고 있는 둔덕이 20여년 전 무안국제공항 설계 당시부터 계획됐던 것으로 확인됐다.&lt;br&gt;&lt;br&gt;앞서 무한공항 측은 해당 둔덕에 대해 “항공기 착륙을 안전하게 유도하기 위한 시설”이라며 “지난해 내구연한인 15년이 끝나 규정대로 기초를 보강하고 새로 설치한 것”이라 밝힌 바 있다.&lt;br&gt;&lt;br&gt;31일 본지 취재를 종합한 결과 전남 무안국제공항의 로컬라이저를 지탱하고 있던 둔덕은 지난 2007년 무안국제공항 개항 당시 이미 설치돼 있었던 것으로 파악됐다.&lt;br&gt;&lt;br&gt;국토교통부 관계자는 “2000년대 신공항 건설을 추진하는 과정에서 국토교통부와 부산지방항공청의 발주로 금호컨소시엄이 낙찰을 받아 설계와 시공을 맡았다”고 밝혔다.&lt;br&gt;&lt;br&gt;국토교통부 등에 따르면, 무안국제공항의 설계 및 시공에 대한 입찰은 1998년 12월 시작돼 이듬해인 1999년 12월 금호건설이 주도하는 금호컨소시엄이 낙찰을 받았다고 한다.&lt;br&gt;&lt;br&gt;입찰 경쟁에는 현대컨소시엄과 삼성컨소시엄도 참여했다. 설계 심사 단계에서는 현대컨소시엄이 1위, 삼성컨소시엄이 2위를 차지했지만, 최저가를 제시했던 금호컨소시엄이 결국 최종 낙찰자로 선정됐다고 한다.&lt;br&gt;&lt;br&gt;무안공항 여객기 추락 사고를 두고 전문가와 업계에서는 로컬라이저를 지탱하고 있는 둔덕이 사고 규모를 키웠다고 지적하고 있다. 둔덕 속에 있던 콘크리트 구조물이 충돌 당시 충격을 키워 폭발을 일으켰다는 주장이다.&lt;br&gt;&lt;br&gt;당시 공항 시설에 대한 설계 및 시공의 주요 지침 중 하나는 “해안 지역의 염분에 견딜 수 있는 내구성이 강한 재료를 사용하라”는 취지의 내용이었다고 한다.&lt;br&gt;&lt;br&gt;국제민간항공기구(ICAO)는 활주로 끝 300미터 이내에는 충격을 흡수하거나 쉽게 파손될 수 있는 구조물을 설치할 것을 권고하고 있다. 하지만 무안공항의 해당 구조물은 단단한 콘크리트로 만들어져 항공기 충돌 시 충격을 흡수하지 못했다는 지적이 나온다.&lt;br&gt;&lt;br&gt;항공 전문가들은 “일반적으로 로컬라이저는 활주로 주변 바닥에 설치하는데 무안공항의 콘크리트 구조물은 이례적인 경우”라고 했다. 전문가들은 “이 구조물이 없었다면 인명 피해가 크지 않았을 것”이라고 입을 모았다.&lt;br&gt;&lt;br&gt;전문가들은 설계와 시공을 맡았던 건설사 이외에도, 발주처인 국토교통부와 부산지방항공청 또한 이번 사고의 책임에서 자유로울 수 없다고 했다.&lt;br&gt;&lt;br&gt;한 전문가는 “(당국은) 공항의 설계와 시공 과정에서 안전 기준 준수 여부를 감독했어야 하며, 이 과정에서 국제 기준 위반 여부를 제대로 살피지 않았다면 큰 문제”라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[속보] 尹측 “적법하면 당당히 응할 것…현재 체포영장은 불법”</title>
