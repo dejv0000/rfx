@@ -13,6 +13,88 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>“尹 체포하라” “저지하라”... 밤까지 관저 앞 집회, 충돌 우려</title>
+      <link>https://www.chosun.com/national/2025/01/02/26H2DHPTERFZDDYBFVQ2ISEGSY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2025/01/02/26H2DHPTERFZDDYBFVQ2ISEGSY/</guid>
+      <dc:creator>주형식 기자, 유종헌 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 02 Jan 2025 11:36:31 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/H2CJGC77HBK5LEHXPMK5P65CFA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2일 서울 용산구 한남동 대통령 관저 입구에서 경찰이 해산 요구에 불응한 윤석열 대통령 지지자들을 강제 해산시키고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 대통령에게 발부된 체포영장 집행 시한(6일)이 나흘 앞으로 다가온 2일, 서울 용산구 한남동 대통령 관저 앞은 친윤(親尹) 단체 1만1000명(오후 4시 기준 경찰 비공식 추산)이 경찰과 대치하며 긴장이 고조됐다. 윤 대통령이 지난 1일 자신을 지지하는 시위대에게 ‘끝까지 싸우자’는 취지의 메시지를 전달한 만큼, 경찰은 시위대가 고위공직자범죄수사처(공수처)의 윤 대통령 체포 영장 집행을 물리적으로 저지할 가능성이 있다고 보고 대비 중이다. 이날 민주노총 지도부는 “윤석열 체포를 위해 한남동으로 모이자”는 지침을 조합원들에게 전파하면서, 극심한 진영 대결로 사실상 내전 상태로 치달을 수 있다는 우려가 나온다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LXJDNHK4ARBY7EIYP7IIZUCY2Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2일 저녁 서울 용산구 한남동 대통령 관저 앞에서 윤석열 대통령 지지자들이 공수처의 체포 영장 집행에 반대하는 집회를 열고 있다. /고운호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2일 윤 대통령 관저에서 약 200m 떨어진 한남대로에서는 영하의 추운 날씨에도 친윤 시민단체 1만1000명이 운집해 체포영장 집행 저지를 위한 집회를 이어갔다. 전날 집회엔 6000여명이 모였는데, 이날 집회엔 윤 대통령 메시지로 참가자가 두 배 가까이 늘었다. 신자유연대 등 단체들은 새해 첫날인 전날 낮 12시부터 관저 앞 집회를 시작해 철야 대기조까지 운영하면서 관저 앞을 지켰다. 경찰은 저지선을 뚫고 관저 정문 앞까지 진입해 도로 위에 누워 농성을 벌이던 30명에 대해 5차례 해산 명령을 내렸고, 이후 이들의 팔다리를 잡고 한명씩 끌어냈다. 또 친윤 집회 참가자 2명은 반윤(反尹) 단체가 관저 인근에 설치한 농성 텐트를 찾아가 난동을 부리고 이를 말리는 경찰을 폭행한 혐의(공무집행방해)로 체포됐다. 유튜버들 수십여명도 “윤석열 체포” “이재명 구속” 등 구호를 외치며 서로 밀치고 삿대질하는 등 이날 관저 일대는 아수라장이 됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7M7UTOOSIFBXZA4JSEQK4QGTPY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2일 저녁 서울 용산구 한남동 대통령 관저 인근에서 민주노총 등 윤석열 대통령에 대한 체포영장 집행을 촉구하는 집회 참가자들이 구호를 외치며 행진하고 있다. /고운호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;친윤, 반윤 단체 간 설전이 벌어지면서 한때 분위기가 격화되기도 했다. 퇴진비상행동, 민주노총 등 반윤 단체 1000명은 ‘반란수괴 즉시 탄핵’ 등 문구가 쓰인 피켓을 들고 “윤석열 체포” 구호를 외쳤다. 친윤, 반윤 두 세력은 폭 100m쯤 되는 도로를 사이에 두고 “그렇게 살면 좋으냐” 등 욕설과 비방을 주고받았다. 민노총은 3일부터는 1박 2일간 관저 인근에서 노숙 집회를 예고했다. 경찰은 민노총 가세로 친윤, 반윤 단체 간 대치가 물리적 충돌로 이어질 가능성이 높다고 보고, 현재 기동대 30개 부대(2000명)을 관저 인근에 배치했다.&lt;br&gt;&lt;br&gt;한편 윤석열 대통령 변호인단은 이날 서울서부지법에 윤 대통령에 대한 체포 및 압수 수색 영장 집행에 대해 이의 신청을 했다고 밝혔다. 윤 대통령을 변호하는 윤갑근 변호사는 “서울서부지법이 발부한 지난달 31일 체포 및 압수 수색영장은 형사소송법 및 헌법에 반해 집행할 수 없으므로 집행을 불허한다는 재판을 구한다”고 했다. 윤 대통령 측은 법원이 한남동 대통령 관저 수색영장에 ‘형사소송법 110조와 111조 적용을 예외로 한다’고 적시한 것을 문제라고 보고 있다. 윤 변호사는 “경찰기동대가 영장 집행에 나서려면 과거 검찰과 같이 공수처 검사에게 경찰 수사지휘권이 있어야 가능하다”면서 “만일 경찰기동대가 혼잡 경비활동을 넘어 공수처를 대신해 체포·수색영장 집행에 나선다면 직권남용 및 공무집행방해죄 현행범으로 경호처는 물론 시민 누구에게나 체포될 수 있다”고 했다. 경찰청 국가수사본부 특별수사단은 “공수처와 충분한 법적 검토와 협의를 통해 집행 과정상에 위법성 문제가 제기되지 않도록 하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;공수처는 윤 대통령을 체포하면 정부과천청사 5동 공수처 3층에 마련된 영상조사실로 인치해 조사할 예정이다. 이대환 수사3부장과 차정현 수사4부장이 직접 조사를 맡기로 했다. 두 부장검사는 100페이지가 넘는 질문지를 준비한 것으로 알려졌다. 공수처는 윤 대통령을 체포하면 48시간 이내에 구속영장 청구 여부를 결정해야 한다. 만약 구속영장이 발부되면 수사기관은 기소 전까지 총 20일간 윤 대통령을 조사할 수 있다. 공수처는 윤 대통령을 직접 기소할 권한이 없는 만큼 10일쯤 뒤 검찰에 윤 대통령 신병을 넘기고, 검찰이 마무리 조사 뒤 기소하게 된다. 반면 체포영장 유효기간인 6일까지 집행이 여의치 않을 경우 법원 허가를 거쳐 유효기간을 연장하거나, 다시 체포영장을 청구할 수 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/JUVIEWFY7FFEXACW2KADLO6TGU.gif?width=1400&amp;height=788&amp;auth=503e3045a3534f88694c51b93e85b5dd029ff67792da9fcdb2fa3387119813fb&amp;smart=true" type="image/jpeg" height="788" width="1400">
+        <media:description type="plain">용산-GIF-5</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>일가족 9명 모두 잃고 혼자 남은 ‘푸딩이’... 새 주인 찾는다</title>
+      <link>https://www.chosun.com/national/national_general/2025/01/02/VHKCO6BRRVCBPPCKV2AUFBHVQU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/02/VHKCO6BRRVCBPPCKV2AUFBHVQU/</guid>
+      <dc:creator>안준현 기자, 서일원 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 02 Jan 2025 13:10:05 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GFYMSHKFRJD3W6F2ZX4AWEATZU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;동물권 단체 '케어'는 공식 인스타그램에 무안공항에서 일어난 제주항공 참사로 일가족 9명이 사망하면서 홀로 남겨진 반려견 '푸딩이'를 구조했다고 밝했다./케어 인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제주항공 참사로 가족 9명을 동시에 잃고 돌봐줄 사람 없이 떠돌던 반려견 ‘푸딩이’가 한 동물권 보호 단체에 구조됐다. 유족 동의 절차를 거쳐 조만간 다른 가정에 입양될 것으로 2일 알려졌다.&lt;br&gt;&lt;br&gt;푸딩이는 제주항공 참사 희생자 중 최고령자인 배모(78)씨 일가족이 키우던 반려견이다. 전남 영광군 군남면에 살던 배씨 일가족 9명은 지난달 25일 3박 5일 일정으로 태국으로 성탄 연휴 여행을 떠났다가 변을 당했다. 사고 직후인 지난달 31일 본지가 영광에서 발견한 푸딩이는 마을 어귀에 우두커니 서서 돌아오지 않는 가족들을 기다리고 있었다. 자동차나 오토바이 소리가 들릴 때마다 귀를 쫑긋거리고, 배씨가 생전 자주 찾은 마을 회관을 오가는 모습을 보여 마을 주민들의 안타까움을 샀다.&lt;br&gt;&lt;br&gt;동물권 단체 케어는 지난 1일 영광 현지로 가서 푸딩이를 구조했다고 밝혔다. 케어 측은 “마을 회관 밖에서 조용히 앉아 가족들을 기다리는 푸딩이를 만났다”며 “우리를 보자마자 반갑게 달려오는 모습이 영락없이 가족을 기다렸다는 생각이 들게 했다”고 말했다. 그러나 푸딩이는 자기가 찾는 가족이 아니라고 생각했는지 바로 도망갔다고 한다.&lt;br&gt;&lt;br&gt;케어 측은 푸딩이가 목줄 없이 방치되고 있었던 점과 구조 당시 토사물에서 김치, 닭뼈 등이 나온 점을 고려해 푸딩이를 구조하기로 결정했다고 밝혔다. 푸딩이는 보호소로 가는 차 안에서도 제대로 밥을 먹지 못했다고 한다. 서울 도착 후 한 동물병원에 입원해 검진을 받았고 건강에는 문제가 없다는 결과가 나왔다.&lt;br&gt;&lt;br&gt;케어 측은 유족과 협의해 향후 보호자가 정해질 때까지 푸딩이를 서울 강남구의 한 활동가 집에 임시 보호하기로 했다. 케어 측은 “주말 유족들과 만나 입양 절차를 밟을 예정”이라고 밝혔다. 유족들도 입양을 원하는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/UC6QKZ7LUBDKBL2PZGDDSNSTWQ.jpg?width=355&amp;height=266&amp;auth=ba5ca7efc9768b3e736a24687f462fa2f561ba1ab697fc3ef1028678546a6681&amp;smart=true" type="image/jpeg" height="266" width="355">
+        <media:description type="plain">[서울=뉴시스] 1일 동물권 단체 '케어'는 공식 인스타그램에 무안공항에서 일어난 제주항공 참사로 일가족 9명이 사망하면서 홀로 남겨진 반려견 '푸딩이'를 구조했다고 전했다. (사진=인스타그램 갈무리) 2025.1.2.?photo@newsis.com</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>영동대로 환승센터 내달 착공... 2028년 삼성역서 GTX-A로 출근</title>
+      <link>https://www.chosun.com/national/national_general/2025/01/02/JJMGEQEPYNH7DIC76QF44NEK3A/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/02/JJMGEQEPYNH7DIC76QF44NEK3A/</guid>
+      <dc:creator>박진성 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 02 Jan 2025 13:11:27 +0000</pubDate>
+      <content:encoded>서울 강남구 삼성역 일대에 GTX(수도권광역급행철도)-A 등 복합환승센터를 짓는 공사가 다음 달 첫 삽을 뜬다. 서울시는 다음 달 ‘영동대로 복합환승센터 2공구 건설공사’를 시작한다고 2일 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VVSQELAKDBG4JGMATJTFZ2UG2U.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=양인성&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울시는 그동안 사업자 모집 공고가 여섯 차례 유찰되는 등 복합환승센터 건축 공사를 할 업체를 찾지 못해 애를 먹었다. 건축 공사가 지연되면서 2028년 GTX-A 완전 개통도 늦어지는 것 아니냐는 우려가 나왔었다. 사업비를 2928억원에서 3600억원으로 672억원 증액한 끝에 작년 7월 현대건설 컨소시엄이 공사를 맡았다.&lt;br&gt;&lt;br&gt;이 공사가 지연되면서 현재 GTX-A 노선은 파주 운정중앙~서울역(지난달 28일)과 수서~화성 동탄(작년 3월) 구간만 개통한 상태다. 삼성역 일대 영동대로를 굴착하는 공사는 2021년 먼저 시작해 진행 중이다.&lt;br&gt;&lt;br&gt;서울시는 “공사를 최대한 서둘러 2028년까지 GTX-A가 완전 개통할 수 있도록 할 계획”이라고 했다. GTX-A 선로 공사를 먼저 서둘러 내년까지 끊어진 GTX-A 노선을 잇는다는 계획이다. 서울시 관계자는 “삼성역을 무정차 통과하는 방식으로 운정중앙~동탄 구간에 열차를 운행할 수 있게 된다”고 했다.&lt;br&gt;&lt;br&gt;복합환승센터는 영동대로 삼성역 사거리~코엑스 사거리 지하에 약 21만㎡ 규모로 만든다. 서울 지하철 2·9호선과 GTX-A, GTX-C, 위례신사선 경전철이 지난다. 지상 도로는 지하화해 녹지를 조성한다. 서울시는 “혼잡한 삼성역 일대가 대규모 지하 개발을 통해 첨단 대중교통 허브(hub)로 거듭날 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>안현모, 공항사진 올리고 “모든 것이 운”…비판 쏟아지자 사과</title>
+      <link>https://www.chosun.com/national/people/2025/01/02/X7JSWE3FV5H5DD7CNSXVYBF7TQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/01/02/X7JSWE3FV5H5DD7CNSXVYBF7TQ/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 02 Jan 2025 11:57:58 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JBE7NGIB7JCLDBDMFRZREHKTLI.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;방송인 안현모. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;방송인 안현모(42)가 제주항공 참사 이후 공항에서 찍은 사진과 함께 ‘모든 것이 운’라는 내용의 글을 올렸다가 논란이 일자 사과했다.&lt;br&gt;&lt;br&gt;안현모는 1일 자신의 소셜미디어를 통해 “애통한 마음을 전하려 함에 저의 부족함이 있었다”며 “제주항공 참사로 비통한 마음을 누를 길이 없다. 이번 일로 큰 고통을 받으셨을 유가족 분들께 진심 어린 애도의 뜻을 전한다. 돌아가신 분들의 명복을 빈다”고 사과했다.&lt;br&gt;&lt;br&gt;안현모는 지난달 30일 자신의 소셜미디어를 통해 공항에서 찍은 사진을 올리고 “금요일에도 토요일에도 그리고 오늘도 며칠째 비행기에 오르지만 날고 내리는 모든 것이 운이었음을. 모든 것이 감사한 일이었음을. 생각할수록 들숨도 날숨도 비통할 수 있음을”이라고 했다. 제주항공 참사 희생자들을 위한 추모글로 해석됐다. &lt;br&gt;&lt;br&gt;하지만 안현모의 글에 대해 일부 네티즌들은 제주항공 참사가 벌어진 상황에서 비행기에서 내리는 것이 ‘운’이라고 언급한 것은 부적절하다고 비판했다. 안현모는 비판이 쏟아지자 소셜미디어 댓글 창을 폐쇄했다가, 결국 글을 삭제했다.&lt;br&gt;&lt;br&gt;앞서 지난달 29일 전남 무안국제공항에서 제주항공 소속 여객기가 동체 비상착륙 중 공황 외벽과 충돌해 폭발했다. 사고 여객기에는 승객 175명, 승무원 6명 등 모두 181명이 탑승해 있었는데 승무원 2명을 제외한 나머지 탑승객 전원이 사망했다.&lt;br&gt;&lt;br&gt;SBS 기자 출신인 안현모는 2016년 SBS에서 퇴사한 뒤 프리랜서 방송인 겸 통역사로 활동하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“아빠 보고 사기꾼이래”... 항공참사 유족 두 번 울린 악성 댓글</title>
+      <link>https://www.chosun.com/national/national_general/2025/01/02/4SPYUXZVKFELDNP6U5FZRK7O3I/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/02/4SPYUXZVKFELDNP6U5FZRK7O3I/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 02 Jan 2025 13:05:38 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/B7FN73APL5NV7N4YQQ73ATQEI4.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;박한신 제주항공 참사 유가족협의회대표가 2일 오후 전남 무안국제공항에 마련된 '제주항공 여객기 참사 희생자 합동분향소'에서 기자회견 중 눈물을 닦고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;무안국제공항 제주항공 참사 유족들이 각종 루머와 악성 댓글로 고통을 받고 있다며 대책 마련을 촉구했다.&lt;br&gt;&lt;br&gt;유족대표단 박한신 대표는 2일 기자회견을 열고 “사고로 희생된 분들에 대한 악의적인 표현들을 제발 좀 멈춰주시길 바란다”라며 “남은 가족들에 대한 근거 없는 비방 역시 즉시 멈춰주시기 바란다. 관계 당국에선 강력하게 처벌해 주시길 부탁드린다”고 했다.&lt;br&gt;&lt;br&gt;박한신 대표는 “새해를 맞아 전국의 분향소를 찾아주신 국민 여러분과 공항까지 찾아오셔서 가족들을 위로해 주신 모든 조문객들에게 다시 한번 감사 인사를 드린다”며 “우리 가족들은 국민 여러분 위로와 관심 덕에 버티고 있다”고 했다.&lt;br&gt;&lt;br&gt;그러면서 “현재 과제는 가족들과 함께 집으로 돌아가 장례를 치르는 것이지만, 사고 수습 과정이 길고 어려운 상황이다 보니 가족들의 공허함을 채울 수 있도록 전국에 있는 합동분향소의 운영을 연장해 줄 것을 간곡히 부탁드린다”고 했다.&lt;br&gt;&lt;br&gt;앞서 지난달 31일 박한신 대표의 딸이라고 밝힌 A씨는 자신의 소셜미디어를 통해 각종 루머에 대해 해명했다.&lt;br&gt;&lt;br&gt;A씨는 박한신 대표가 가짜 유가족이라는 루머에 대해 “작은 아버지께서 이번 사고로 세상을 떠나셨다”며 작은 아버지의 이름이 담긴 탑승객 명단을 공개했다.&lt;br&gt;&lt;br&gt;A씨는 아버지(박 대표)와 통화한 음성 녹음도 공개했다. A씨는 울먹이며 “아빠 꼭 그거(유족 대표) 해야 돼? 안 하면 안 돼? 막 사기꾼이라 그런다”고 말렸지만, 박 대표는 “악성댓글 때문에 내 동생 가는 길을… 할 수 있는 만큼 아빠가 할 거야 힘들어도”라고 답했다.&lt;br&gt;&lt;br&gt;최상목 대통령 권한대행 부총리 겸 기획재정부 장관은 이날 “사법당국은 모니터링을 통해 희생자와 유가족의 명예를 훼손하는 사안에 대해 엄중한 법적 조치를 취해달라”고 지시했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>옥택연·서현 출연 드라마 촬영중 세계문화유산 훼손… KBS 공식사과</title>
+      <link>https://www.chosun.com/national/national_general/2025/01/02/BGP3IOB4CRAXFEDIAHXIGG5ZZM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/02/BGP3IOB4CRAXFEDIAHXIGG5ZZM/</guid>
+      <dc:creator>김명일 기자, 정아임 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 02 Jan 2025 11:07:24 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BP4YCSB45JCQTJHD24FP5R3DKM.png"&gt;&lt;figcaption&gt;&lt;small&gt;KBS2 새 드라마 ‘남주의 첫날밤을 가져버렸다’ 제작진이 유네스코 세계문화유산인 경북 안동시 병산서원에  못질을 했다는 주장이 제기됐다./페이스북&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;옥택연과 서현이 주연을 맡은 드라마 촬영팀이 유네스코 세계문화유산으로 등재된 병산서원을 훼손한 사실이 알려져 KBS가 공식 사과했다.&lt;br&gt;&lt;br&gt;KBS는 2일 사과문을 통해 “해당 사건으로 시청자 여러분께 심려를 끼쳐드린 점 진심으로 송구스럽게 생각한다”며 “제작진은 지난 연말 안동병산서원에서 사전 촬영 허가를 받고, 소품을 설치하는 과정에서 현장 관람객으로부터 문화재에 어떻게 못질을 하고 소품을 달수 있느냐는 내용의 항의를 받았다”고 설명했다.&lt;br&gt;&lt;br&gt;이어 “이유 불문하고 현장에서 발생한 상황에 대해 KBS는 사태의 심각성을 깨닫고 송구스럽게 생각한다”며 “현재 정확한 사태 파악과 복구할 수 있는 최선의 방법이 무엇인지 논의 중에 있다. 당시 상황과 관련해 해당 드라마 관계자는 병산서원 관계자들과 현장 확인을 하고 복구를 위한 절차를 협의 중에 있다”고 전했다.&lt;br&gt;&lt;br&gt;KBS는 “앞으로 재발 방지 대책과 추가로 발생할 수 있는 피해 상황에 대해서도 적극적으로 논의할 것”이라며 “드라마 촬영과 관련한 이 모든 사태에 대해 KBS는 모든 분들께 다시 한번 진심으로 머리 숙여 사과드린다”고 재차 사과의 뜻을 밝혔다.&lt;br&gt;&lt;br&gt;앞서 건축가 민서홍 씨는 지난달 30일 자신의 페이스북을 통해 KBS2 새 드라마 ‘남주의 첫날밤을 가져버렸다’ 제작진이 유네스코 세계문화유산에 등재된 병산서원의 기둥에 못질하는 등 문화재를 훼손했다고 주장했다.&lt;br&gt;&lt;br&gt;민 씨에 따르면 작업을 진행하고 있던 스태프들은 항의하는 시민들에게 ‘이미 안동시의 허가를 받았다’며 ‘궁금하시면 시청에 문의하면 되지 않겠느냐. 허가받았다고 도대체 몇 번이나 설명해야 하는 거냐’고 대응했다.&lt;br&gt;&lt;br&gt;병산서원은 사적 제260호이자 유네스코 세계문화유산에 등재된 문화재다.&lt;br&gt;&lt;br&gt;안동시와 병산서원 측은 당일 오후 4시쯤 상황을 파악하고 KBS 제작진에 원상 복구를 요청했다고 2일 밝혔다. 안동시 문화유산과 관계자는 “촬영 허가는 했으나 문화재에 어떠한 설치를 한다는 건 협의가 이뤄진 바가 없다”며 “촬영 허가 조건으로 문화유산에 훼손 행위를 금한다고 명시했다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/XTNZSJ44F5FK3DYCQN45PV5ZGQ.png?width=730&amp;height=411&amp;auth=f9dd6d29c48e2abe3489436629f6e835ce8ace8fe8567956ee6f8b7c1b6011fb&amp;smart=true" type="image/png" height="411" width="730">
+        <media:description type="plain">KBS2 새 드라마 ‘남주의 첫날밤을 가져버렸다’ 제작진이 유네스코 세계문화유산인 경북 안동시 병산서원에  못질을 했다는 주장이 제기됐다./페이스북</media:description>
+        <media:credit role="author" scheme="urn:ebu"/>
+      </media:content>
+    </item>
+    <item>
+      <title>현직 판사, ‘형소법 적용 배제’ 尹영장에 “판사가 입법하면 안 돼”</title>
+      <link>https://www.chosun.com/national/court_law/2025/01/02/WWNXUSXSANC27E4T3NEEQ6PIQI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/01/02/WWNXUSXSANC27E4T3NEEQ6PIQI/</guid>
+      <dc:creator>방극렬 기자, 박강현 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 02 Jan 2025 11:08:52 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7PU6EKYW3JOWXHFSNJVAMDQOXI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2일 오후 서울 용산구 한남동 대통령 관저 모습. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;법원이 윤석열 대통령의 체포 영장과 함께 발부한 수색영장에 형사소송법 적용을 제한하는 내용을 담은 것이 알려지자, 현직 부장판사가 “판사가 입법을 하면 안 된다”며 비판하는 글을 올렸다. 앞서 법조계에서 “수색 대상과 방식이 아닌 특정 법률을 배제하라는 수색영장은 법의 테두리를 벗어난 것”이라는 지적이 나온데 이어 법원 내부에서도 같은 비판이 나온 것이다.&lt;br&gt;&lt;br&gt;2일 법조계에 따르면, 성금석 부산지법 부장판사는 이날 법원 내부망인 ‘코트넷’에 “형사소송법 제110조·111조의 적용 예외를 명기한 체포(수색) 영장이 발부된 것이 사실인지, 확인 및 진상 규명과 적법한 조치를 희망한다”는 글을 썼다.&lt;br&gt;&lt;br&gt;성 부장판사는 “판사는 법을 지켜야 하는 공직자일 뿐 재판을 하면서 법 위에 서거나 법률 위에 군림해서는 결단코 안 된다”며 “판사와 법원은 입법을 하면 안 된다”고 주장했다. 이어 “법원은 피의자, 피고인이 그 누구라고 할지라도 무죄 추정의 원칙을 부인, 훼손해서는 안 된다”고 했다.&lt;br&gt;&lt;br&gt;앞서 이순형 서울서부지법 영장전담 부장판사는 지난달 31일 고위공직자범죄수사처(공수처)가 청구한 대통령 관저 수색영장을 발부하며 ‘형사소송법 110조와 111조 적용을 예외로 한다’고 적시했다. 군사상·공무상 비밀에 관한 곳은 책임자 등이 허락해야 수사기관의 압수수색이 가능하다고 규정하는 조항들이다. 대통령경호처가 해당 조항을 근거로 공수처의 체포를 거부하는 것을 막기 위해 이 같은 영장을 발부한 것으로 해석됐다.&lt;br&gt;&lt;br&gt;이에 대해 법조계에서는 “법에 근거해 영장을 발부하는 판사가 특정 법 조항을 배제하겠다고 한 것은 전례를 찾기 어렵다” “사법부의 역할 범위를 벗어난 것”이라는 비판이 나왔다. 윤 대통령 측 윤갑근 변호사는 “형사소송법 어디에도 판사에게 그런 권한을 부여하지 않는다”며 대법원에 진상 조사와 이 부장판사의 징계를 요구했다. 또 “법률적 근거가 없는 영장 청구와 발부로 대통령의 권한이 침해됐다”며 헌법재판소에 권한 쟁의 심판도 냈다.&lt;br&gt;&lt;br&gt;다만 이 같은 지적이 법원의 재판 독립을 침해하는 것이라는 반론이 나온다. 류영재 의정부지법 남양주지원 판사는 코트넷의 성 부장판사 글에 답글을 달고 “판사의 재판 당부에 대해 사법부가 별도의 방식으로 확인, 진상규명, 조치 등을 취할 수 있다는 발상은 재판의 독립에 대한 침해일 수밖에 없다”고 반박했다.&lt;br&gt;&lt;br&gt;체포 영장에 대한 윤 대통령과 대통령경호처의 반발이 예상되는 상황에서, 집행의 실효성을 담보하기 위해 법원이 이례적인 내용의 영장을 발부할 수밖에 없었다는 시각도 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“이재명 대표 살해협박 전화 걸려왔다”...유튜버 신고에 경찰 수사</title>
+      <link>https://www.chosun.com/national/regional/2025/01/02/7N5Y5RZ46NCOROYDL4MRG735HI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/01/02/7N5Y5RZ46NCOROYDL4MRG735HI/</guid>
+      <dc:creator>과천=권상은 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 02 Jan 2025 10:57:13 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/S547GAO6GSERK7M4QB3KSSV3BY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;더불어민주당 이재명 대표를 살해하겠다는 협박 전화가 걸려 왔다는 유튜버의 신고가 접수돼 경찰이 수사에 나섰다.&lt;br&gt;&lt;br&gt;2일 경기 과천경찰서에 따르면 이날 오후 3시쯤 민주당 지지자이자 유튜버인 A씨에게 발신자 표시 제한이 된 상태로 “이 대표를 살해하겠다”는 내용의 전화가 걸려 왔다. 발신자는 짧게 한마디를 하고 바로 전화를 끊은 것으로 전해졌다.&lt;br&gt;&lt;br&gt;당시 정부과천청사에 머물고 있던 A씨는 곧바로 112에 신고했고, 경찰은 A씨를 상대로 전화가 걸려 온 경위 등을 파악한 뒤 발신자를 추적하고 있다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>[단독] 정신질환 앓던 40대 남성, 경찰차 4대 연쇄 추돌하고 40여분만에 붙잡혀</title>
       <link>https://www.chosun.com/national/incident/2025/01/02/L3NQUERKP5B3BK46P3IB2BIDWY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/01/02/L3NQUERKP5B3BK46P3IB2BIDWY/</guid>
@@ -842,111 +924,6 @@
         <media:description type="plain">(무안=뉴스1) 김민지 기자 = 1일 전남 무안군 무안국제공항에서 추모객들이 공항 내부에 마련된 제주항공 여객기 참사 희생자 합동분향소에서 추모를 하기 위해 줄을 서고 있다. (공동취재) 2025.1.1/뉴스1</media:description>
         <media:credit role="author" scheme="urn:ebu">(무안=뉴스1) 김민지 기자</media:credit>
       </media:content>
-    </item>
-    <item>
-      <title>“오빠, 나 왔어” “화해못해 후회”... 공항 철조망 눈물의 편지</title>
-      <link>https://www.chosun.com/national/national_general/2025/01/01/QYQTP42OINGOLCMKOZ5EZMIBJI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/01/QYQTP42OINGOLCMKOZ5EZMIBJI/</guid>
-      <dc:creator>무안=조홍복 기자, 무안=진창일 기자, 무안=김병권 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 01 Jan 2025 12:04:45 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FEY77DCPOJH6LI7IOK2TPT653Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 1일 전남 무안공항에는 참사 현장인 활주로 앞 철조망, 대합실 계단 등 곳곳에 제주항공 참사 희생자들을 추모하는 메시지가 붙었다. 희생자들을 추모하기 위한 꽃과 술, 음식 등도 놓였다. /뉴스1·연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘당연하게 생각했던 모든 것이 결코 당연한 게 아니었음을 평생 잊지 않고 살아갈게’ ‘사랑하는 내 친구 네 예쁜 얼굴 절대 잊지 않을게’.&lt;br&gt;&lt;br&gt;‘제주항공 참사’가 발생한 전남 무안공항 활주로 옆 철조망. 사고 현장에서 500m, 가장 가까운 곳이다. 철조망 너머로 완전히 불타버린 기체가 보였다.&lt;br&gt;&lt;br&gt;참사 나흘째인 1일 오후, 이곳에는 희생자를 추모하는 손편지 19장이 매달려 있었다. 전날만 해도 3장밖에 없었는데 하루 새 철조망 곳곳에 내걸렸다. 그 아래엔 하얀 국화와 김밥, 콜라, 황태포, 배, 사과, 초코파이, 소주, 커피, 빵 등이 놓였다. 희생자의 가족, 친구 등이 남긴 쪽지에는 그리움이 가득했다. 해 질 녘 쪽지는 바람에 흔들려 물결처럼 보였다. 2022년 ‘핼러윈 참사’ 때도 참사가 일어난 이태원 지하철역 출구에 국화와 쪽지가 놓였었다.&lt;br&gt;&lt;br&gt;철조망 너머 사고 현장을 멍하니 쳐다보던 김정민(58·전남 목포)씨는 “얼마나 아팠을까, 제 마음도 너무 아프다”라고 했다. 그는 철조망 아래에 준비해온 국화 한 송이를 내려놨다. 돌아서는 김씨 눈에 눈물이 흘렀다.&lt;br&gt;&lt;br&gt;‘누군가에게 한없이 소중한 이들, 원한과 슬픔을 나눠 가질 터이니, 부디 좋은 곳으로 인도하소서’ ‘부디 편안하게 영면하세요! 이승에서 못다 이룬 꿈을 그곳에서라도 꼭 이루시길 기원합니다!’라고 쓴 쪽지도 보였다. 저마다 사연은 달랐지만 쪽지마다 펜으로 꾹꾹 눌러쓴 흔적이 보였다.&lt;br&gt;&lt;br&gt;광주광역시에서 왔다는 한 추모객은 “새해 첫날인데도 슬픔에 빠져 있을 유가족들이 안타까워서 찾았다”고 했다. 전남 순천에서 온 한 추모객은 “멀리서 검게 그을린 기체만 봤는데도 희생자들이 얼마나 고통스러웠을지 눈물이 난다”고 했다.&lt;br&gt;&lt;br&gt;사고 당시 상황이 조금씩 드러나면서 기장과 승무원들을 애도하는 쪽지도 속속 걸리기 시작했다. 사고기는 새 떼와 충돌한 뒤 ‘동체 착륙’을 시도했지만 활주로 너머에 있던 콘크리트 둔덕과 충돌한 뒤 폭발했다.&lt;br&gt;&lt;br&gt;사고기 기장의 형으로 추정되는 사람이 매단 쪽지도 보였다. ‘외로이 사투를 벌였을 것을 생각하니 마음이 너무 아프다. 너는 이미 너무나 훌륭했고 충분히 잘했으니 이젠 따뜻한 곳에서 행복했으면 좋겠다. 고마웠고 그리고 미안하다. 형이’. 이 쪽지 아래에는 소주 2병과 김밥 2줄, 과자 1봉지, 우유 1개, 핫팩 1개가 놓여 있었다.&lt;br&gt;&lt;br&gt;유족들이 머무는 무안공항 대합실 계단에는 난간을 따라 쪽지 1000여 장이 붙었다. 이날 아침에 300여 장이 붙어 있었는데 하루 새 난간을 꽉 채웠다. ‘언니야 어디에 있어? 언니가 있는 그곳이 평안했으면, 더는 안 아팠으면… 기억할게 미안해, 사랑해’ ‘사랑하는 이모들 새해복 많이 받아. 함께하는 새해는 아니지만 항상 함께하니까!’라고 쓴 쪽지가 눈에 띄었다.&lt;br&gt;&lt;br&gt;무안공항 1층에 마련된 합동분향소에는 추모객들이 몰렸다. 대기줄이 600m까지 이어졌다. 공항 직원들은 ‘질서를 유지해 주세요’라고 쓴 손팻말을 들고 추모객을 안내했다.&lt;br&gt;&lt;br&gt;추모객들이 몰리자 무안군은 낮 12시 27분쯤 ‘애도를 표하고자 하는 추모객은 무안스포츠파크 분향소로 방문해주시길 바란다’는 안전 문자를 보내기도 했다. 전남도는 공항 근처 무안스포츠파크에도 분향소를 운영하고 있다.&lt;br&gt;&lt;br&gt;광주광역시에서 쌍둥이 아들, 아내와 함께 분향소를 찾은 임정관(46)씨는 “우리 아들만 한 아이들도 못 돌아와서 눈물이 난다”며 “다음 생에서는 아프지 말았으면 하는 마음에 분향소를 찾았다”고 했다. 임씨의 아들 아준·여준(9)군은 ‘행복하게 하늘나라로 가셔 달라’는 손편지를 써 합동분향소 앞 계단에 붙였다.&lt;br&gt;&lt;br&gt;이날 오전 유족들은 사고 후 처음 활주로 현장을 찾아 고인을 추모했다. 산산조각이 난 기체 앞에 과일과 떡국 등을 놓고 추모식을 열었다. 유족들은 활주로 바닥에 엎드려 통곡했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/EOBTS5SWXZDLLJSCMOM7PV3UH4.jpg?width=1600&amp;height=900&amp;auth=2d152f7e31924b8b52b70d011140a8a4b3d40b91f7afe3ca56e676214d5e1881&amp;smart=true" type="image/jpeg" height="900" width="1600">
-        <media:description type="plain">지난 1일 전남 무안공항에는 참사 현장인 활주로 앞 철조망, 대합실 계단 등 곳곳에 제주항공 참사 희생자들을 추모하는 메시지가 붙었다. 희생자들을 추모하기 위한 꽃과 술, 음식 등도 놓였다. /뉴스1·연합뉴스</media:description>
-      </media:content>
-    </item>
-    <item>
-      <title>“화해 못한 거 후회해” “나 철들었는데 못보네”... 유가족이 하늘에 전한 진심</title>
-      <link>https://www.chosun.com/national/national_general/2025/01/01/A4QZ2SSHTNA7HLLYBDMYUJ2DQE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/01/A4QZ2SSHTNA7HLLYBDMYUJ2DQE/</guid>
-      <dc:creator>이혜진 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 01 Jan 2025 11:01:44 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7RHCM6WQBBPCFCXH65DCSE7X54.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;제주항공 참사 발생 나흘째인 1일 무안국제공항 청사 1층과 2층을 잇는 계단에서 유가족과 시민들이 추모 손편지를 작성하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난달 29일 발생한 전남 무안국제공항 제주항공 여객기 사고 희생자들을 추모하는 손편지들이 공항 계단 난간을 가득 채워 보는 이들을 눈물짓게 했다. &lt;br&gt;&lt;br&gt;1일 오전부터 무안국제공항 1층과 2층을 잇는 계단에서 유가족과 시민들이 포스트잇에 애도의 메시지를 적으며 희생자들을 추모했다. 포스트잇에 적힌 문구를 보며 눈물을 흘리거나 사진을 찍어가는 이들도 있었다.&lt;br&gt;&lt;br&gt;포스트잇 하나하나에는 유가족들의 깊은 그리움과 아픔이 고스란히 담겨있었다. 한 포스트잇에는 희생자로 보이는 이의 이름과 함께 “후회된다, 화해 못 하고 가서. 늦었지만 보고 싶었다, 많이”라는 메시지가 쓰였다. 고등학교 3학년이 된 한 유가족이 어머니에게 남긴 편지도 있었다. 그는 “엄마 나 이제 고3이야. 이제 좀 철도 들고 정신도 차렸는데 못 보여주게 됐네”라며 “계속 나 지켜봐 주고 새집도 같이 데리고 갈 테니까 친구들한테 자랑 많이 하고. 사랑해”라는 말로 편지를 마무리했다. 다른 유가족은 “어머니 새해가 밝았네요. 천국에서도 새해 복 많이 받으시고..”라는 내용의 편지를 남겼다. 다른 포스트잇에는 “여보 너무 보고 싶어요”라는 글귀가 적혀있었다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/I5ZL2L22G5J5BGS4GBV4V2ZTHU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;새해 첫날인 1일 전남 무안군 무안국제공항 계단에 제주항공 여객기 참사 희생자를 애도하는 메시지가 붙어 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이밖에도 ‘삼가 고인의 명복을 빕니다’ ‘좋은 세상에서 다시 태어나 만나기를 바랍니다’ ‘천국에선 안식하시길 바랍니다’ ‘너무 슬프고, 무서웠을 걸 생각하면 가슴이 미어집니다’ ‘이곳에서 편안하지 못했지만 부디 이젠 편히 쉬소서’ ‘2024년 무안의 겨울을 잊지 마십시오’ 등 시민들이 남기고 간 추모 메시지도 있었다.&lt;br&gt;&lt;br&gt;‘추모의 계단’ 만들기에 나선 이근호 손편지운동본부 대표는 이날 계단을 오가는 시민들에게 포스트잇과 펜을 나눠줬다. 30년 전 초등학교 4학년이던 아들을 사고로 잃은 경험이 있는 이 대표는 세월호 참사와 이태원 참사 당시에도 현장을 찾아 추모객들의 편지를 모아 유가족들에게 전달해왔다. 이 대표는 “자식을 잃은 아픔을 딛고 타인의 눈물을 보듬는 삶을 살겠다고 아들과 약속했다”며 “유가족들과 온 국민이 상처를 회복하고 2025년도에는 이런 슬픔이 반복되지 않길 바란다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/I5ZL2L22G5J5BGS4GBV4V2ZTHU.jpg?width=5799&amp;height=3667&amp;auth=cca84a7e3cefe42cc0c76622cb645878190d3c32597b6cd847bec931014588da&amp;smart=true" type="image/jpeg" height="3667" width="5799">
-        <media:description type="plain">&lt;YONHAP PHOTO-3435&gt; 희생자 애도하는 메시지
-    (무안=연합뉴스) 조남수 기자 = 새해 첫날인 1일 전남 무안군 무안국제공항 계단에 제주항공 여객기 참사 희생자를 애도하는 메시지가 붙어 있다. 2025.1.1 
-    iso64@yna.co.kr/2025-01-01 15:08:00/
-&lt;저작권자 ⓒ 1980-2025 ㈜연합뉴스. 무단 전재 재배포 금지, AI 학습 및 활용 금지&gt;</media:description>
-        <media:credit role="author" scheme="urn:ebu">이예림</media:credit>
-      </media:content>
-    </item>
-    <item>
-      <title>충북 증평군 야산서 불…1시간 40여분 만에 진화</title>
-      <link>https://www.chosun.com/national/incident/2025/01/01/UC42WOYMTBDMVKFYOU64IH7WCY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/01/01/UC42WOYMTBDMVKFYOU64IH7WCY/</guid>
-      <dc:creator>이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 01 Jan 2025 10:59:43 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MHVNB2B2WJHGXODIDACQLHGZVI.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;119 소방 로고./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;충북 증평군의 한 야산에서 산불이 발생해 산림 등을 태우고 1시간 40여분 만에 꺼졌다.&lt;br&gt;&lt;br&gt;1일 충북소방본부에 따르면 이날 오후 3시 44분쯤 충북 증평군 도안면 송정리의 한 야산에서 화재가 발생했다.&lt;br&gt;&lt;br&gt;이 불로 산림 0.2㏊와 폐축사 3개동, 비닐하우스 1개동, 컨테이너 1개동 등이 탔다. 인명피해는 없었다.&lt;br&gt;&lt;br&gt;“산에 불이 났다”는 신고를 받고 출동한 소방 당국은 헬기 2대와 소방차 등 장비 22대, 소방관 등 73명을 투입해 오후 5시 25분쯤 불을 껐다.&lt;br&gt;&lt;br&gt;소방 당국은 정확한 화재 원인을 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>유가족에 떡국 대신 전복죽 1000그릇 대접한 안유성 셰프</title>
-      <link>https://www.chosun.com/national/people/2025/01/01/BQ244CMFZFEI5ETB3SZCKWK6JE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/01/01/BQ244CMFZFEI5ETB3SZCKWK6JE/</guid>
-      <dc:creator>이혜진 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 01 Jan 2025 08:39:26 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6J4C7QICAVOW5HSJRATYSTHNL4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;새해 첫날인 1일 전남 무안군 무안국제공항에서 넷플릭스 요리 프로그램 '흑백요리사'의 안유성 셰프(왼쪽)가 제주항공 여객기 참사 유가족들을 위해 음식봉사를 하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;무안공항참사 현장을 찾아 유가족에게 김밥 200줄을 제공했던 명장 안유성 셰프가 새해 첫날, 유가족들을 위해 전복죽을 준비했다.&lt;br&gt;&lt;br&gt;안 셰프는 1일 오전 11시45분쯤 무안공항에서 전복죽 1000인분, 김밥 200인분, 샌드위치 200인분을 준비해 유가족에 제공했다고 밝혔다. 안 셰프는 대한민국 제16대 조리명장으로 광주광역시 서구에서 일식집을 운영하고 있다.&lt;br&gt;&lt;br&gt;당초 떡국을 준비할 예정이었으나 유가족들의 상황을 고려해 메뉴를 변경했다고 한다. 그는 SBS 라디오 프로그램을 통해 “새해 첫날 떡국도 의미가 있겠지만 유가족들은 지금 현실적으로 너무 지쳐 계시고 힘들어하신다”며 “음식 하나 목으로 넘기기 힘든 상황이라 조금이나마 기력 회복에 도움이 되길 바라는 마음으로 전복죽을 준비했다”고 했다.&lt;br&gt;&lt;br&gt;이번 봉사에는 ‘흑백요리사’ 프로그램에 함께 출연했던 최지형 셰프, 방기수 셰프를 비롯해 여러 요리사들이 가게 문을 닫고 동참했다. 안 셰프는 “요리하는 셰프들의 기본 마음은 나눔”이라며 “저희가 음식 봉사 하는 소식을 듣고 너도나도 할 것 없이 (봉사하러) 내려오고 계신다”고 전했다.&lt;br&gt;&lt;br&gt;지역민인 안 셰프는 사고 발생 직후인 지난달 30일에도 김밥 200줄을 준비해 현장을 찾았다. 그는 “사고 소식에 먹먹하고 답답한 마음에 일이 손에 잡히지 않았다”며 “공항 상황이 어떤지 제가 도울 일이 무엇인지도 잘 모르지만 일단 가보자는 마음으로 김밥을 얼른 말아서 준비해왔다”고 회상했다. 그는 “희생자 중에는 지역민들과 단골 고객, 함께 방송했던 PD도 있었다”며 “한 다리 건너면 아는 분들이어서 더욱 가슴 아프다”고 했다.&lt;br&gt;&lt;br&gt;안 셰프는 유가족이 공항에 머무는 동안 계속 음식 봉사를 할 계획이다. 그는 “샌드위치 등 기력 회복에 도움이 되는 음식을 계속 찾아보겠다”며 “조금이라도 도움이 될 음식을 찾으며 계속 곁에 있으려 한다”고 했다. 그는 “(유가족이) 지쳐 계신 와중에도 김밥 한 점을 드시면서 ‘맛있네요’라고 힘없이 말씀해 주시는 모습에 많이 뭉클했다”며 “음식 만드는 재주밖에 없어서 이 재능이라도 기부하면서 곁에서 슬픔을 함께하고 싶다고 마음 먹었다”고 했다.&lt;br&gt;&lt;br&gt;그는 또 “큰 사고를 견디기 힘든 분들의 이야기를 들어보면 주위의 따뜻한 격려와 지속적인 애정으로 버틸 수 있었다고 한다”며 “국민들의 지속적인 관심과 애정이 절실히 필요한 때”라고 강조했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/VKGG36A4YVCRLN3PMLD2APHBGQ.jpg?width=4567&amp;height=2569&amp;auth=ef0eec655b6cc15037b004d9fe7590330c82784604f9e5c46157093c61759d67&amp;smart=true" type="image/jpeg" height="2569" width="4567">
-        <media:description type="plain">&lt;YONHAP PHOTO-3529&gt; 음식봉사하는 안유성 셰프
-    (무안=연합뉴스) 이성민 기자 = 새해 첫날인 1일 전남 무안군 무안국제공항에서 넷플릭스 요리 프로그램 '흑백요리사'의 안유성 셰프(왼쪽)가 제주항공 여객기 참사 유가족들을 위해 음식봉사를 하고 있다. 2025.1.1
-    chase_arete@yna.co.kr/2025-01-01 15:30:41/
-&lt;저작권자 ⓒ 1980-2025 ㈜연합뉴스. 무단 전재 재배포 금지, AI 학습 및 활용 금지&gt;</media:description>
-        <media:credit role="author" scheme="urn:ebu">이성민</media:credit>
-      </media:content>
-    </item>
-    <item>
-      <title>항공참사로 희생된 치과의사… 동료 의사들이 무료 후속 진료</title>
-      <link>https://www.chosun.com/national/national_general/2025/01/01/E25WXDOLTNF5RHJBM2YPHYGAWU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/01/E25WXDOLTNF5RHJBM2YPHYGAWU/</guid>
-      <dc:creator>광주광역시=진창일 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 01 Jan 2025 08:43:53 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2BAJQY2RRZFXTBXC2RV5QSEVJU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;광주에서 치과를 운영하던 한 원장이 제주항공 여객기 참사로 숨졌다는 소식이 담긴 안내문이 병원 건물 승강기에 붙어있다./스레드&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제주항공 참사로 동료 치과의사가 희생된 소식이 알려지자 동료 의사들이 대신해 무료로 후속 진료에 나섰다.&lt;br&gt;&lt;br&gt;1일 광주시치과의사회에 따르면 광주광역시 광산구 일대 치과의사들이 이번 참사로 숨진 동료 치과의사 A씨를 추모하기 위해 지난달 30일부터 무료 진료를 하고 있다.&lt;br&gt;&lt;br&gt;광주시 광산구 흑성동에 있는 A씨의 치과에는 ‘제주항공 여객기 사고로 진료를 중단한다’는 내용의 공지문이 붙어 있다. A씨의 안타까운 사고로 해당 치과에서 교정 및 신경치료를 받아왔던 환자들이 후속치료를 받지 못할 것을 걱정해 무료진료에 나선 것이다.&lt;br&gt;&lt;br&gt;의사회 차원의 집단행동은 아니지만, A씨와 같은 학교를 졸업했거나 연고가 같은 치과의사들 혹은 A씨가 운영하던 치과 인근 의사들이 무료 진료에 동참하고 있는 것으로 전해졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/2BAJQY2RRZFXTBXC2RV5QSEVJU.jpg?width=1170&amp;height=863&amp;auth=0e010f1cf695fa2de2db4a2a9c48d7cbc6302a0117a803f427bc76ec11252624&amp;smart=true" type="image/jpeg" height="863" width="1170">
-        <media:description type="plain">광주에서 치과를 운영하던 한 원장이 제주항공 여객기 참사로 숨졌다는 소식이 담긴 안내문이 병원 건물 승강기에 붙어있다./스레드</media:description>
-      </media:content>
-    </item>
-    <item>
-      <title>“월급날에 허무하게 떠나”... 깨비시장 사고로 10년지기 동료 잃은 상인들</title>
-      <link>https://www.chosun.com/national/national_general/2025/01/01/4K4UDG3XYJH4DPWAJ4OX2VHYCI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/01/4K4UDG3XYJH4DPWAJ4OX2VHYCI/</guid>
-      <dc:creator>강지은 기자, 최하연 기자, 김도균 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 01 Jan 2025 08:52:03 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4AYI72ZIB5LDFLGSM7B4FGVQUY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;31일 오후 3시 53분쯤 서울 양천구 목동 깨비시장에서 70대 남성이 모는 승용차가 돌진해 1명이 사망하고 12명이 부상을 당했다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“월급날 이렇게 허무하게 떠날 줄은 몰랐다”&lt;br&gt;&lt;br&gt;1일 서울 양천구 목동깨비시장에서 만난 과일 가게 업주의 눈시울이 붉어졌다. 그는 지난 31일 발생한 차량 돌진 사고로 숨진 40대 남성 A씨가 근무하던 가게의 주인이다. 사고 당일은 A씨의 월급날이었다고 한다. 그는 “어제 낮에 (A씨에게) 월급을 주려다 손님이 몰려 조금 있다 줘야겠다고 생각했는데 그것도 못 주고...”라며 말끝을 흐렸다.&lt;br&gt;&lt;br&gt;A씨는 약 10년 전부터 깨비시장 과일 가게에서 일했다. 가게는 오전 9시에 문을 열지만, 매일 아침 상하차 작업까지 수행하느라 오전 6시에 일어나 7시면 집을 나섰다고 한다. 그렇게 12시간 넘게 일하고 오후 9시 30분쯤 집에 돌아오면 소주 몇 잔 마시다 유튜브를 보며 잠드는 게 유일한 낙이었다.&lt;br&gt;&lt;br&gt;공휴일도 없이 일하며 일주일에 딱 1번, 수요일마다 쉬었다. 올해는 새해 첫 날이 수요일이라 몇 년 만에 1월 1일에 푹 쉬어본다며 좋아했다고 한다.&lt;br&gt;&lt;br&gt;시장 상인들이 기억하는 A씨는 “시장에서 가장 성실하던 사람”이다. 상인 김모(52)씨는 “손님 한 명이라도 더 잡으려 시장이 다 울릴 정도로 열심히 ‘과일 사라’고 외쳤는데, 그 목소리가 아직도 생생하다”고 했다. 정육점 업주 서모(57)씨는 “그 사람 너무 일만 하다 갔다”며 “아침 일찍 출근해 밤 늦게 퇴근하며 가게 주인처럼 성실하게 일했다”고 했다. 시장을 찾은 단골들은 “매일 보던 사람이 이젠 없다”며 눈시울을 붉혔다.&lt;br&gt;&lt;br&gt;이날 강서구의 한 대학병원에 그의 빈소가 차려졌다. 갑작스러운 사고에 제대로 된 영정사진도 없었다. 가족들은 급하게 A씨가 메신저 프로필로 사용하던 사진을 캡쳐해 영정사진으로 사용했다. A씨의 남동생(40)은 “가족이 다같이 살았지만 형은 일하느라 바빠서 얼굴 제대로 보기 어려웠다”며 “얼굴 보고 제대로 대화를 나눴던 게 한 달도 더 된 것 같아 많이 후회가 된다”고 했다.&lt;br&gt;&lt;br&gt;지난 31일 오후 3시 53분쯤 서울 양천구 목동깨비시장에 김모(74)씨가 운전하던 검은색 에쿠스 차량이 행인과 상점 등을 덮쳐 13명이 사상했다. 김씨가 운전하던 검은색 에쿠스 차량은 깨비시장 후문 사거리에서 앞서가던 버스를 앞지르다 가속해 시장 내부로 돌진, 약 40m를 질주했다.&lt;br&gt;&lt;br&gt;운전자 김씨는 치매 진단을 받은 전력이 있는 것으로 밝혀졌다. 경찰 조사에서 김씨는 “앞서 가던 차량을 피해 가속하던 중 시장 가판대 앞에서 브레이크를 밟았는데 이후론 잘 기억이 안 난다”고 진술했다. 경찰은 확보한 CC(폐쇄회로)TV 영상을 토대로 정확한 사고 원인을 조사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[오늘의 운세]  1월 2일 목요일 (음력 12월 3일 辛未)</title>
-      <link>https://www.chosun.com/national/national_general/2025/01/01/HLGKLJJBRFAOTAFQECIWYCUHZY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/01/HLGKLJJBRFAOTAFQECIWYCUHZY/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 01 Jan 2025 08:00:00 +0000</pubDate>
-      <content:encoded>&lt;p&gt;&lt;div class="chosun_unse"&gt;&lt;iframe src="https://image.chosun.com/arc/unse_iframe.html" frameborder="0" scrolling="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;style&gt;.chosun_unse{position:relative;width:100%;height:350px;box-sizing:border-box}.chosun_unse&gt;iframe{position:absolute;top:0;left:0;width:100%;height:100%;overflow-y:hidden}@media all and (max-width:1024px){.chosun_unse{height:350px}}@media all and (max-width:1023px){.chosun_unse{height:350px}}@media all and (max-width:528px){.chosun_unse{height:270px}}@media all and (max-width:384px){.chosun_unse{height:190px}}&lt;/style&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;p&gt;&lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani01.gif"&gt;  	&amp;nbsp;	36년생 문제 생기면 내면의 자신에게 되물어라. 48년생 현재 자기 일을 사랑하도록. 60년생 욕심만 안 부리면 만사 순조. 72년생 부유하다고 다 행복한 건 아니다. 84년생 문서는 주는 것도 받는 것도 이롭지 않다. 96년생 감사와 고마움은 마음속 깊이 간직하도록.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt;  &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani02.gif"&gt;	&amp;nbsp;	37년생 보상이나 보답을 기대하지 마라. 49년생 천만 변화 있어도 내부 단결이 성패를 좌우. 61년생 어둡던 쥐구멍에도 볕 들 때 있다. 73년생 어제보다 내일 위한 미래지향적 사고 가져야. 85년생 용띠와의 거래에 각별한 주의 필요. 97년생 만사여의하니 삶의 여유가 절로.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani03.gif"&gt;	&amp;nbsp;	38년생 배수진 치는 자세로 임해야 결판난다. 50년생 자기 처지와 상황을 정확하게 인지하라. 62년생 너무 강하면 부러지기 마련. 74년생 핑계만 찾지 말고 타개책 모색하라. 86년생 겉치레 신경 쓰다 본질 놓칠 수도. 98년생 주어진 책임이면 소홀히 말고 최선 다하라.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani04.gif"&gt;	&amp;nbsp;	27년생 기대했던 결과가 불투명. 39년생 질러가나 둘러가나 가기만 하면 그만. 51년생 이동수나 장거리 출장. 63년생 옛 추억으로 심란한 하루. 75년생 서쪽에서 온 길손을 경계. 87년생 욕심대로면 하늘엔들 집 못 지을까. 99년생 동남방을 피하는 게 상책.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani05.gif"&gt;	&amp;nbsp;	28년생 친한 사람과의 거래는 피하도록. 40년생 잘나갈 때 숨어 있는 복병을 조심. 52년생 확신이 섰다면 진행해도 좋을 듯. 64년생 남이 보지 못한 곳을 삼가라. 76년생 남 일에 참견 마라. 내 코가 석자. 88년생 느릿느릿 걸어도 황소걸음. 00년생 술로 인한 실수를 조심.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani06.gif"&gt;	&amp;nbsp;	29년생 복이 엷으면 계란에도 뼈가 든다. 41년생 석양이 아름다워도 그저 황혼일 뿐. 53년생 조금 늦더라도 여럿이 함께. 65년생 부귀영화는 풀잎 위에 이슬. 77년생 활동력이 축소되는 시기. 89년생 기회는 다시 오니 포기 마라. 01년생 새롭고 미개척 분야에도 관심 갖도록.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani07.gif"&gt;	&amp;nbsp;	30년생 소화기계통 질환을 주의. 42년생 심신이 피곤하니 원기 충전에 힘써야. 54년생 장거리 출장이나 여행은 피하는 것이 상책. 66년생 개띠는 최고의 파트너. 78년생 결정할 일이 있다면 나중으로 미루도록. 90년생 일 처리가 지연되는 상황. 02년생 상승의 기운이 예상.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani08.gif"&gt;	&amp;nbsp;	31년생 어차피 할 일이라면 즐겁고 기쁘게. 43년생 문제도 해답도 아랫사람에게. 55년생 실행하기 전에 계획은 서있어야. 67년생 결자해지 자세로 임하라. 79년생 소소한 소망은 이룰 수 있을 듯. 91년생 주위사람에게 친절 베풀도록. 03년생 청춘은 한순간의 꽃.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani09.gif"&gt;	&amp;nbsp;	32년생 무엇보다 실리가 판단의 기준. 44년생 투자한 시간만큼 보람 있는 하루. 56년생 가는 떡 커야 오는 떡 크지. 68년생 중단만 하지 않으면 끝은 있다. 80년생 명예를 얻었다면 실리는 포기. 92년생 빠르다고 다 좋은 건 아니다. 04년생 멀리 보고 깊게 생각하라.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani10.gif"&gt;	&amp;nbsp;	33년생 용서와 포용의 아량을 먼저 보여라. 45년생 병환은 차도 있을 때 더욱 조심. 57년생 포근하고 따뜻한 말 한마디가 관계의 유연제. 69년생 먼저 다가가 따뜻하게 배려하라. 81년생 명분만 있으면 결과는 의도대로 될 듯. 93년생 차라리 포기가 마음 편할 수도.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani11.gif"&gt;	&amp;nbsp;	34년생 예상 밖 고전 있으나 해결은 될 듯. 46년생 장애 만나도 물러서지 말고 돌파하라. 58년생 백전노장도 검을 들어야 위엄 있다. 70년생 움직이며 생각해도 늦지 않다. 82년생 순풍에 돛 다니 천리가 순식간. 94년생 지식은 말하고자 하나 지혜는 말이 없다.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani12.gif"&gt;	&amp;nbsp;	35년생 기존의 일에 약간 변화 줘도 좋을 듯. 47년생 화해와 소통 열쇠는 나에게 있다. 59년생 제사엔 뜻 없고 젯밥에만 마음 두어 쓰나. 71년생 제3자의 힘을 이용하라. 83년생 높일 것은 고상한 인격. 95년생 생선 먹고 싶거든 그물 먼저 짜라.	&lt;br&gt;
-&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;한소평 금오산방 강주  &lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/p&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/4MTFRYWHBJA7XOKKF7G7JPLX5U.png?width=800&amp;height=420&amp;auth=4651b5b20b5d4901424204d1456faee02e4b064ff509db23945deabf4404c8ef&amp;smart=true" type="image/png" height="420" width="800"/>
-    </item>
-    <item>
-      <title>국토부 “사고 블랙박스, 국내서 자료 추출 불가 미국 보낸다”</title>
-      <link>https://www.chosun.com/national/transport-environment/2025/01/01/PBCXSVK7GBHJDPKUSIW752NL3U/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/01/01/PBCXSVK7GBHJDPKUSIW752NL3U/</guid>
-      <dc:creator>김아사 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 01 Jan 2025 06:05:09 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/H6VQ663JBRDMZMFGTTOZHJJWWU.png"&gt;&lt;figcaption&gt;&lt;small&gt;음성파일로의 전환 작업이 시작된 제주항공 사고여객기 블랙박스 음성기록장치(CVR) 모습/국토교통부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국토교통부는 지난달 29일 발생한 제주항공 항공기 사고 원인 규명의 핵심인 ‘블랙박스’를 미국으로 보내기로 결정했다고 1일 밝혔다.&lt;br&gt;&lt;br&gt;항공기 블랙박스는 음성기록장치(CVR)와 비행기록장치(FDR)로 나뉘는데, 핵심은 비행기록장치다. 그러나 사고 과정에서의 외부 충격으로 비행기록장치와 분석 장치를 연결하는 커넥터가 분실됐고, 이 때문에 분석이 불가능한 것으로 최종 결정된 것이다. 커넥터는 정보 송수신 등을 위해 특수하게 제작된 형태여서 다른 장비로 대체하는 게 어려운 것으로 전해졌다. 이 경우 최소 6개월 이상의 기간이 소요될 것이라는 게 전문가들의 견해다.&lt;br&gt;&lt;br&gt;다만, 음성기록장치에서의 자료 추출은 마쳤다고 국토부는 밝혔다. 국토부는 “자료 추출을 마치고 이를 음성 파일 형태로 전환하는 작업을 오늘 시작했다”며 “이틀 정도 소요될 것”이라고 했다. 당시 기장, 부기장 간의 대화나 관제탑과의 교신 내용이 사고 원인을 밝힐 열쇠가 될 것으로 보인다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>수색영장에 ‘형사소송법 110조 예외’ 명시... 尹측 “사법 신뢰 침해”</title>
