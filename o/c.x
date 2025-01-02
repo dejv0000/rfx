@@ -13,6 +13,60 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>검찰, ‘비상계엄’ 신원식 국가안보실장 참고인 조사</title>
+      <link>https://www.chosun.com/national/court_law/2025/01/02/T3RRBHYM4RGTRBK272S6UIFOLY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/01/02/T3RRBHYM4RGTRBK272S6UIFOLY/</guid>
+      <dc:creator>유종헌 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 02 Jan 2025 05:07:42 +0000</pubDate>
+      <content:encoded>‘12·3 비상계엄 사태’를 수사하는 검찰이 2일 신원식 국가안보실장을 조사하고 있다.&lt;br&gt;&lt;br&gt;검찰 비상계엄 특별수사본부(본부장 박세현 서울고검장)는 이날 오전 신 실장을 참고인 신분으로 불러 조사 중이다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/35CPY2SALD4TNGW35DQ5KFP32M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;신원식 국가안보실장. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰은 신 실장을 상대로 윤석열 대통령이 처음 비상계엄을 언급한 시점, 비상계엄 선포 전 국무회의 상황 등을 묻고 있는 것으로 알려졌다. &lt;br&gt;&lt;br&gt;신 실장은 국방부 장관 시절이던 지난해 3월 말~4월 초 삼청동 대통령 안가에서 윤 대통령이 비상계엄을 암시하는 말을 들은 것으로 조사됐다. 당시 회동에는 신 실장 외에도 김용현 당시 대통령 경호처장(전 국방부 장관), 여인형 전 국군방첩사령관, 조태용 국가정보원장이 참석했다. &lt;br&gt;&lt;br&gt;여 전 사령관은 검찰에서 “신 실장이 대통령 회동 당시 계엄에 반대한다는 입장을 밝혔고, 회동 이후 김용현 처장과 나를 따로 불러 대응 방안을 논의했다”는 취지로 진술한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;검찰은 신 실장이 2023년 11월 곽종근·이진우·여인형 소장을 중장으로 진급시킨 뒤 각각 특수전사령관과 수도방위사령관, 국군방첩사령관으로 발령 낸 것이 비상계엄과 관련 있는지 여부도 조사할 방침이다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>”국민의힘 당사에 폭발물 설치“ 협박 팩스···경찰특공대 출동</title>
+      <link>https://www.chosun.com/national/national_general/2025/01/02/L3LKFUQGPZCUFMI5UDB7QM4TRU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/02/L3LKFUQGPZCUFMI5UDB7QM4TRU/</guid>
+      <dc:creator>김도연 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 02 Jan 2025 03:55:29 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CNFW2AUMH5PWVAGNHYWOXOXGXQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 여의도 국민의힘 중앙당사. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국민의힘 당사에 “폭발물을 설치하겠다”는 내용의 협박성 팩스가 와 경찰이 수색 작업에 나섰다.&lt;br&gt;&lt;br&gt;서울 영등포경찰서는 2일 서울 영등포구 여의도 국민의힘 중앙당사에 “폭발물을 설치해 폭파시키겠다”는 팩스가 왔다는 신고를 받고 출동했다.&lt;br&gt;&lt;br&gt;경찰은 경찰특공대와 소방 등을 동원해 이날 오전 11시 50분쯤부터 폭발물 설치 여부 등을 확인 중이다. 또한 경찰은 팩스의 발신자 정보 등도 파악하고 있다.&lt;br&gt;&lt;br&gt;수색 중인 경찰 관계자는 “아직까지 당사에서 특별한 사항은 발견되지 않았다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[속보] 국토부, "음성기록장치(CVR) 음성파일로 전환 완료"</title>
+      <link>https://www.chosun.com/national/transport-environment/2025/01/02/VM2C3UEVJNAKHI5S2WO5JH2CZQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/01/02/VM2C3UEVJNAKHI5S2WO5JH2CZQ/</guid>
+      <dc:creator>김아사 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 02 Jan 2025 05:05:01 +0000</pubDate>
+      <content:encoded>&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[속보] 헌재 “재판관 임명 부작위 헌법소원도 신속 심리”</title>
+      <link>https://www.chosun.com/national/court_law/2025/01/02/PGJ2R2R65RHGFADQHWBWBMPFDY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/01/02/PGJ2R2R65RHGFADQHWBWBMPFDY/</guid>
+      <dc:creator>방극렬 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 02 Jan 2025 05:03:10 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5KZGOVHWIBKIRBLWLPGZOZKHFI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령 탄핵심판이 진행 중인 2일 서울 종로구 헌법재판소 앞에서 경찰들이 대기하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;헌재 “재판관 임명 부작위 헌법소원, 신속 심리”&lt;br&gt;&lt;br&gt;“신임 조한창·정계선 재판관, (탄핵심판) 즉시 투입”&lt;br&gt;&lt;br&gt;“재판관 공석 여전히 해소 안 돼… 조속히 완성해야”&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“돈 많으세요?” 어르신에 무례 범한 제작진... 시청자 게시판 폭주</title>
+      <link>https://www.chosun.com/national/national_general/2025/01/02/3U42FDKDLZEL7A4EW2OQA4LROM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/02/3U42FDKDLZEL7A4EW2OQA4LROM/</guid>
+      <dc:creator>정아임 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 02 Jan 2025 04:48:53 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7FAWBXNJJBDI5C72VIMBZ7VUQY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;MBC 교양 프로그램 ‘오늘N’ 코너 ‘좋지 아니한가 방송 화면./MBC&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;MBC 시사교양 프로그램 제작진이 고령의 출연자에게 무례한 태도를 보여 시청자들의 비판에 직면했다.&lt;br&gt;&lt;br&gt;지난 1일 방송된 MBC ‘오늘N’ 코너 ‘좋지 아니한가(家)’에는 제작진이 경북 포항시의 한 오지 산골에 집을 3채나 지은 고령의 남성을 방문한 내용이 방영됐다. 방송에서 ‘도시피디’라고 불린 한 스태프는 올해 69세라는 주인공을 향해 “그런데 이렇게 장작을 잘 패는 거냐” “시골 사는데 눈썹 문신을 했냐”고 말했다. 또 산골에 집 3채를 짓고 생활 중인 주인공을 향해 “돈이 좀 있으신가 보다. 돈이 많으세요?”라고 질문했다.&lt;br&gt;&lt;br&gt;이외에도 주인공이 “방에서 안 잔다. 황토방에서 불 때서 자는 게 훨씬 낫다. 따뜻하고 건강에 좋고. 황토 찜질하러 많이 가지 않나”라고 하자, 스태프는 “저는 잘 안 가는데. 저는 아직 황토방이 좋을 나이는 아니라서”라고 했다.&lt;br&gt;&lt;br&gt;주인공이 직접 키운 느타리버섯을 챙겨주겠다면서 “서울에서 구경 못 하지 않나. 서울 갈 때 싸주겠다”고 하자, 스태프는 “서울 마트에 다 있다. 뭐가 다른가”라고 답했다. 이어 주인공이 “서울에서 오셨으니 맛있는 닭 한 마리 잡아드리려고 한다”라며 닭을 숯불에 굽자 스태프는 “저 닭은 치킨만 좋아한다. 튀긴 것만 좋아한다”고 했다. 다만 이후 이 스태프는 주인공이 마련한 닭요리를 김치와 함께 먹으며 만족해했다.&lt;br&gt;&lt;br&gt;이후 ‘오늘N’ 시청자 게시판에는 제작진의 태도가 불편하다는 반응이 잇따랐다. ‘PD의 태도가 불쾌하다’ ‘PD의 언행이 무례하고 예의가 없다’ ‘PD 교체 원한다’ 등의 글이 쏟아지고 있다. 프로그램 측은 아직 이와 관련한 입장을 밝히지 않았다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“의대생 자식이 죄인, 벌은 부모가”…의사·의대생 커뮤니티서 참사 유가족 조롱</title>
+      <link>https://www.chosun.com/national/welfare-medical/2025/01/02/INN2IKWEUVGZ3M5WTUFPEWO2TA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/01/02/INN2IKWEUVGZ3M5WTUFPEWO2TA/</guid>
+      <dc:creator>오경묵 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 02 Jan 2025 03:13:51 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OAGE7YKMMAWKGP4HQ5KUW5GC44.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;의사·의대생 익명 커뮤니티 '메디스태프'에 올라온 '제주항공 참사' 유족 모욕 글. 해당 커뮤니티 이용자가 다른 커뮤니티에 폭로했다. /에펨코리아&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;의사나 의대생만 가입할 수 있는 익명 온라인 커뮤니티에 제주항공 여객기 참사 유족인 의대생을 조롱하는 글이 올라온 것으로 알려졌다. 해당 커뮤니티의 다른 이용자가 폭로한 것이다.&lt;br&gt;&lt;br&gt;1일 한 온라인 커뮤니티에는 ‘제주항공 여객기 참사에 대한 의사 커뮤니티의 끔찍한 인기글’이라는 제목의 글이 올라왔다. 작성자 A씨는 “‘메디스태프’라는 앱에 대해 들어보신 분도 있고 처음 들으신 분도 있을 것”이라며 “의사 혹은 의대생만 가입할 수 있는 폐쇄적인 커뮤니티”라고 설명했다. 이어 “도저히 눈뜨고 볼 수 없어서 내부 폭로를 결심하게 됐다”며 “저런 인간들이 의사로서 진료를 본다는 게 너무 끔찍하다. 제발 널리 퍼트려서 범인을 잡을 수 있게 도와달라”고 했다.&lt;br&gt;&lt;br&gt;A씨는 무안 제주항공 참사로 어머니를 잃은 20대 남성의 인터뷰 기사가 포함된 한 게시글을 언급했다. 이 남성은 수도권 의대 4학년으로 오는 9일 의사 국가고시(국시)를 앞두고 있다. 그는 언론 인터뷰에서 “시험을 제대로 치르지 못해 1년 더 공부하기를 (어머니는) 원치 않으실 것”이라며 가족 재난 텐트 안에서 시험공부를 한다고 했다.&lt;br&gt;&lt;br&gt;메디스태프의 해당 게시글에는 이 20대 남성을 조롱하는 댓글이 연달아 달렸다. A씨가 올린 사진을 보면 “자식이 죄인인데 벌은 부모가 받았네” “콩심은 데 콩 나고 팥 심은 데 팥 나는 것” 등의 댓글이 달렸다. “감귤 평균” “역시 감귤 존경스럽다” “감귤 낳은 게 이미 죄인 아니겠냐” 등의 댓글도 있었다. ‘감귤’은 휴학하지 않은 의대생, 사직 전공의 등을 비하하는 단어다. 의대 증원에 반발해 대다수 의대생이 학교를 떠난 상황에서, 국시를 준비하는 의대생을 원색적으로 비난한 것이다. 일부 이용자들이 “조롱하지 말자” 등 자제를 당부했지만, “저 ○○는 고인이 아닌데 왜 욕하면 안 되느냐” 등 악성 댓글이 이어졌다.&lt;br&gt;&lt;br&gt;해당 폭로를 접한 네티즌들은 “소름돋는다” “애도는 못할 망정 부모 모독을 하다니” 등의 반응을 보였다.&lt;br&gt;&lt;br&gt;메디스태프에는 지난해 의료계 집단행동에 동참하지 않은 의사·의대생의 신상 정보가 담긴 이른바 ‘의료계 블랙리스트’가 올라오기도 했다. 경찰은 관련 수사 끝에 게시자 5명을 특정해 검찰에 송치했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>“부부도 20년 살기 힘들어”...박진영이 준 ‘입사 20주년’ 선물</title>
       <link>https://www.chosun.com/national/national_general/2025/01/02/JYLNVY4D2VCOJGZFMJ3FW5FAQA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/02/JYLNVY4D2VCOJGZFMJ3FW5FAQA/</guid>
@@ -864,51 +918,6 @@
       <content:encoded>▲&lt;b&gt;교육부&lt;/b&gt;▷교육자치안전정책관 전진석▷학생건강정책국장 이해숙▷부산광역시 교육개혁지원관 파견 이강복▷인재정책기획관 전담 직무대리 이주희▷의대교육지원관 전담 직무대리 김홍순▷고등직업교육정책과장 최보영▷기초학력진로교육과장 정윤경▷운영지원과 지원근무 김태경▷운영지원과 지원근무 김진형▷장관 비서실장 최민호▷홍보담당관 차영아▷예산담당관 김아영▷혁신행정담당관 유희승▷인재양성지원과장 구본억▷지역혁신대학지원과장 안주란▷대학경영혁신지원과장 이홍복▷평생학습지원과장 이진영▷의대교육지원과장 최현석▷의대교육기반과장 윤혜준▷학부모정책과장 황지혜▷인성체육예술교육과장 김효신▷학생건강정책과장 김새봄▷디지털소통팀장 박현정▷교육데이터기반성과분석팀장 박형식▷이주배경학생지원팀장 강현▷교원양성연수과장 이종원▷영유아교원지원과장 이병승▷교육시설담당관 최문태▷글로벌교육정책담당관실 김수정▷운영지원과 지원근무 최윤정▷한국체육대학교 최경▷경상국립대학교 배정익&lt;br&gt;&lt;br&gt;▲&lt;b&gt;통일부&lt;/b&gt;◇과장급 전보▷기획조정실 기획재정담당관 마경조▷통일협력국 통일협력기획과장 김영일▷국립통일교육원 교육총괄과장 오미희▷〃 한반도통일미래센터장 박상돈&lt;br&gt;&lt;br&gt;▲&lt;b&gt;행정안전부&lt;/b&gt;〈조직개편〉◇디지털정부정책국▷지역디지털협력과장 정준우◇공공지능데이터국▷공공지능데이터국장 배일권▷공공지능데이터정책과장 전한성▷공공지능데이터분석과장 조아라▷공공데이터관리과장 임재진▷지능정부기반과장 심진홍◇공공서비스국▷행정정보공유과장 이택길◇재난안전정보통신국▷재난안전정보통신국장 이세영▷재난정보통신과장 신승인▷재난안전통신망과장 오영석▷재난안전데이터과장 이일령◇재난관리정책국▷기후재난관리과장 김진희◇자연재난대응국▷재난경감과장 강성희◇국가기록원▷성남분원장 이승억▷부산분원장 조이현▷대전분원장 박지태◇국가재난안전교육원▷국가재난안전교육원장 문영훈▷기획협력과장 강지인▷재난안전교육과장 김영성▷ 민방위비상대비교육과장 윤동현▷스마트복지안전공동체추진단 파견근무 노정훈▷한국보건복지인재원 인사교류(파견) 박미라&lt;br&gt;&lt;br&gt;▲&lt;b&gt;보건복지부&lt;/b&gt;◇과장급▷사회서비스정책관실 사회서비스사업과장 이지은▷보건의료정책관실 의료기관정책과장 권민정▷기획조정실 기획조정담당관 오상윤▷〃국제협력담당관 이현주▷복지정책관실 복지정책과장 박재만▷〃자활정책과장 김수환▷복지행정지원관실 지역복지과장 우경미▷사회서비스정책관실 사회서비스정책과장 설예승▷보건의료정책관실 의료자원정책과장 김승일▷건강정책국 건강정책과장 임은정&lt;br&gt;&lt;br&gt;▲&lt;b&gt;국토교통부&lt;/b&gt;▷건설정책국장 남영우▷항공교통과장 박준수&lt;br&gt;&lt;br&gt;▲&lt;b&gt;중소벤처기업부&lt;/b&gt;▷전통시장과장 서정언▷상생협력정책과장 이청일▷소상공인경영안정과장 안원호▷소상공인손실보상과장 남정령▷대구경북지방중소벤처기업청 성장지원과장 길동&lt;br&gt;&lt;br&gt;▲&lt;b&gt;공정거래위원회&lt;/b&gt;◇국장급 전보▷경제협력개발기구(OECD) 대한민국정책센터 파견 정창욱&lt;br&gt;&lt;br&gt;▲&lt;b&gt;개인정보보호위원회&lt;/b&gt;▷조사조정국 조사2과장 이정은&lt;br&gt;&lt;br&gt;▲&lt;b&gt;법제처&lt;/b&gt;◇고위공무원 전보▷경제법제국 법제심의관 서보경◇과장급 전보▷법제지원국 행정규칙심사정비팀장 서기관 조연경▷기획조정관실 법제정보담당관 서기관 안병준▷법제정책국 법제혁신지원과장 서기관 김종훈▷행정법제국 법제관 부이사관 윤길준▷경제법제국 법제관 부이사관 김태현▷사회문화법제국 법제관 서기관 진정용◇과장급 파견▷대한무역투자진흥공사(KOTRA) 서기관 서장원◇서기관 전보▷법제정책국 법제혁신지원과 최혜경▷경제법제국 고주석▷사회문화법제국 박광균▷법제지원국 법제교육과 남영주&lt;br&gt;&lt;br&gt;▲&lt;b&gt;조달청&lt;/b&gt;▷공공물자국 해외물자과장 문호림&lt;br&gt;&lt;br&gt;▲&lt;b&gt;특허청&lt;/b&gt;▷특허심판원 수석심판장 김기범▷국제특허출원심사1팀장 양인수▷국제특허출원심사2팀장 여덕호▷자율주행심사팀장 이백수▷이차전지설계심사팀장 신주철▷운송기계심사과장 최진석▷특허심판원 심판장 박시영 이상돈&lt;br&gt;&lt;br&gt;▲&lt;b&gt;질병관리청&lt;/b&gt;◇국장급 직위 승진▷국립보건연구원 국립감염병연구소 공공백신개발지원센터장 김도근◇과장급 전보▷국립군산검역소장 김진숙▷수도권질병대응센터 만성질환사업과장 권상희▷국립평택검역소 이종곤▷운영지원과장 박지영&lt;br&gt;&lt;br&gt;▲&lt;b&gt;기상청&lt;/b&gt;◇고위공무원단 전보▷관측기반국장 신동현▷기후과학국장 김현경▷기상서비스진흥국장 정현숙▷지진화산국장 연혁진▷수도권기상청장 이미선◇3급 전보▷제주지방기상청장 유승협&lt;br&gt;&lt;br&gt;▲&lt;b&gt;언론중재위원회&lt;/b&gt;▷기획팀장 최은진▷운영지원팀장 박혜진▷조정정책팀장 안백수▷접수상담팀장 이진아▷홍보협력팀장 윤치경▷선거기사심의팀장 남승균▷부산사무소장 최명진▷광주사무소장 김태호&lt;br&gt;&lt;br&gt;▲&lt;b&gt;BBS불교방송&lt;/b&gt;▷BBS부산불교방송 사장 원허 스님&lt;br&gt;&lt;br&gt;▲&lt;b&gt;KBS&lt;/b&gt;▷부산방송총국장 박진현▷창원방송총국장 하태석▷광주방송총국장 김한석▷대전방송총국장 박재용▷청주방송총국장 백성철▷춘천방송총국장 신중헌▷제주방송총국장 이재홍▷울산방송국장 김진문▷진주방송국장 최재훈▷안동방송국장 김준우▷포항방송국장 이진관▷목포방송국장 김광진▷순천방송국장 최석준▷충주방송국장 김도환▷강릉방송국장 김정택▷원주방송국장 남범수&lt;br&gt;&lt;br&gt;▲&lt;b&gt;서울신문&lt;/b&gt;◇선임▷부산·울산·경남본부장 구형모◇부국장급▷인사팀장 이태성▷편집국 부국장 겸 전국부장 유영규▷산업부장 김경두▷편집1부 조두천▷사업2팀장 문창호&lt;br&gt;&lt;br&gt;▲&lt;b&gt;아리랑TV&lt;/b&gt;▷감사담당관 이택수▷홍보심의실장 김형곤▷TV편성팀장 황응기▷보도센터장 권태철▷TV제작팀장 박지원▷라디오팀장 강민웅▷기술센터장 박용식▷콘텐츠유통팀장 박현선▷기획예산팀장 홍종호▷인재경영센터장 강지윤▷글로벌콘텐츠협력센터장 최한영▷안전관리팀장 홍찬▷경영혁신팀장 김태원▷데이터정보화팀장 이헌준&lt;br&gt;&lt;br&gt;▲&lt;b&gt;그린포스트코리아&lt;/b&gt;▷편집인 신경훈&lt;br&gt;&lt;br&gt;▲&lt;b&gt;조선일보&lt;/b&gt;▷편집국 시사문화 에디터 김광일▷국제부 주워싱턴특파원 박국희&lt;br&gt;&lt;br&gt;▲&lt;b&gt;조선A&amp;amp;B&lt;/b&gt;▷대표 김재명&lt;br&gt;&lt;br&gt;▲&lt;b&gt;조선뉴스프레스&lt;/b&gt;〈승진〉◇부장대우▷월간조선본부 취재팀 김태완◇차장▷주간조선부 온라인팀장 박혁진&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[부음] 신정하 한국YFU 회장 별세 외</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2025/01/01/JCEBE6SCVJFVTOILHFMTRXBAHM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2025/01/01/JCEBE6SCVJFVTOILHFMTRXBAHM/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Tue, 31 Dec 2024 15:37:55 +0000</pubDate>
-      <content:encoded>▲&lt;b&gt;신정하&lt;/b&gt; 한국YFU회장 별세, &lt;b&gt;신규철&lt;/b&gt; 토펙엔지니어링 부사장·&lt;b&gt;신규민&lt;/b&gt; 前 NH투자증권 이사·&lt;b&gt;신지은&lt;/b&gt; 부친상=31일2시22분 분당서울대병원, 발인 3일7시30분, (031)787-1500&lt;br&gt;&lt;br&gt;▲&lt;b&gt;이춘자&lt;/b&gt; 별세, &lt;b&gt;임길종&lt;/b&gt; 조선일보 CS남천센터 대표 장모상=30일17시40분 대전성모병원, 발인 1일9시, (042)220-9870&lt;br&gt;&lt;br&gt;▲&lt;b&gt;차동열&lt;/b&gt; 예비역 육군준장 별세, &lt;b&gt;차학수&lt;/b&gt;·&lt;b&gt;차학봉&lt;/b&gt; 땅집고 미디어본부장·&lt;b&gt;차준환&lt;/b&gt; 前 현대백화점 전무 부친상=31일17시 서울아산병원, 발인 3일7시, (02)3010-2000&lt;br&gt;&lt;br&gt;▲&lt;b&gt;채영현&lt;/b&gt; 금융감독원 팀장 별세=30일15시22분 경찰병원, 발인 1일13시30분, (02)431-4400&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>임연수 명지대 13대 총장</title>
-      <link>https://www.chosun.com/national/people/2025/01/01/OWMWLKEJW5BB3KURFD37IJOQPA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/01/01/OWMWLKEJW5BB3KURFD37IJOQPA/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Tue, 31 Dec 2024 15:36:58 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TFW3SHO46FPG7FZ3COFVPQ556Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;명지대 임연수 신임 총장./명지대학교&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;학교법인 명지학원은 임연수 교수를 명지대학교 제13대 총장으로 선임했다. 임기는 내년 1일부터 3년이다. 임 신임 총장은 서울대 공과대학을 졸업하고, 미국 클렘슨대학교에서 공학 석·박사 학위를 취득했다. 1995년 명지대 공과대학 신소재공학과 교수로 임용된 이후 대학원 교학처장, 대학혁신지원사업운영위원회 위원장, 교육지원처장, 교학부총장 등을 역임했다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문은 선생님] [숨어있는 세계사] 54년 이어진 독재정권, ‘아랍의 봄’ 이후 내전으로 무너졌죠</title>
-      <link>https://www.chosun.com/national/nie/2025/01/01/S7MMRAWGOZEF3O23KZRN5NBRTA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2025/01/01/S7MMRAWGOZEF3O23KZRN5NBRTA/</guid>
-      <dc:creator>박현도 서강대 유로메나연구소 교수, 기획·구성=윤상진 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 31 Dec 2024 15:32:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3N3R2YW6BVAV3HQFIHRMROL5YA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2024년 12월 8일(현지 시각) 시리아 반군이 수도 다마스쿠스를 점령하고 아사드 정권이 붕괴했다는 소식이 전해지자 스웨덴 스톡홀름시티역 광장에 모인 시리아인들이 환호하고 있어요. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최근 시리아 반정부군이 수도 다마스쿠스를 점령하면서 54년 동안 부자 세습을 하며 시리아를 통치했던 아사드 독재 정권이 무너졌어요. 시리아 내전은 2011년에 발발했는데, 13년 만에 반군이 승리하게 된 것이죠.&lt;br&gt;&lt;br&gt;시리아 내전은 아사드 정권이 민주주의를 요구하는 시민들을 무력 진압하면서 발생했는데요. 시간이 지나며 종교·민족·지정학적 이해관계가 복잡하게 얽히게 됐죠. 이 때문에 독재 정권이 무너진 이후에도 갈등이 계속되고 있습니다. 오늘은 시리아 내전이 왜 발생했는지 알아보겠습니다.&lt;br&gt;&lt;br&gt;&lt;b&gt;제국들의 땅, 시리아&lt;/b&gt;&lt;br&gt;&lt;br&gt;먼저 시리아가 어떤 곳인지 알아볼까요. 시리아라는 이름은 기원전 21세기에 문명을 이루기 시작한 도시국가 ‘아수르’에서 유래했어요. 그리스인들이 이를 시리아로 부르면서 현재까지 전해지고 있죠.&lt;br&gt;&lt;br&gt;시리아는 여러 제국의 발자취가 남아있는 지역입니다. 아시리아 제국, 바빌로니아 제국, 페르시아 제국에 이어 알렉산드로스 대왕도 시리아 지역을 정복했고, 이후엔 로마와 비잔티움 제국이 들어섰죠. 636년 아랍 이슬람 제국이 시리아를 점령한 뒤엔 차례대로 튀르크인과 아랍인의 손을 거쳤습니다. 1516년부터 1918년까지는 오스만튀르크 제국이 지배했어요. 제1차 세계대전 이후엔 프랑스 위임통치령이 됐다가 1946년 시리아 아랍 공화국으로 독립했죠.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QRBAVHUGM5EJBLWZQK5DV3E4MA.png"&gt;&lt;figcaption&gt;&lt;small&gt;유럽과 중동을 잇는 시리아 지역은 전략적 요충지로 여겨져요. /그래픽=김하경&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;‘아랍의 봄’ 이후 내전 발발&lt;/b&gt;&lt;br&gt;&lt;br&gt;독립 이후 얼마 되지 않아 시리아엔 독재 체제가 들어섭니다. 아랍민족주의 이념 등을 내세운 바트(Baath)당에 의해 1963년 일당 독재가 시작됩니다. 1970년엔 국방 장관이었던 하페즈 알아사드가 당내에서 권력을 잡고는 1971년에 대통령이 됐어요. 그는 2000년에 사망할 때까지 철권통치를 이어갔습니다. 비밀경찰을 곳곳에 심어 자신을 조금이라도 비판하는 사람들을 쥐도 새도 모르게 잡아 입을 막았죠. “시리아의 개는 국경을 넘어가야만 짖는다”는 말이 있을 정도로 무시무시한 독재가 이어졌어요. 심지어는 1982년 이슬람주의자들이 반정부 시위를 벌이자 무력으로 이를 진압했는데, 최대 4만명에 이르는 사람들이 목숨을 잃습니다.&lt;br&gt;&lt;br&gt;하페즈 사후엔 그의 아들 바샤르가 대통령을 이어받았어요. 시리아는 원래 40세부터 대통령에 출마할 수 있었는데요. 당시 34세였던 바샤르를 대통령에 앉히려고 헌법까지 바꿨답니다. 바샤르는 안과 의사였어요. 그는 의사가 병을 고치듯 시리아의 문제점을 고치겠다고 말했습니다. 이 때문에 시리아 국민은 아버지 시대보다 더 자유로운 세상에 살 수 있겠다는 희망을 품었어요. 하지만 달라진 것은 없었습니다. 언론 역시 여전히 통제됐죠.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YSPPEXWMQZHD7FRETYJC77W6PE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2013년 시리아 다마스쿠스에서 반정부군 병사들이 태블릿PC를 이용해 박격포 공격 지점을 설정하고 있어요. /로이터 연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그런데 뜻하지 않은 바람이 이웃 국가에서 불어옵니다. 2011년 ‘아랍의 봄’이라고 불리는 민주화 시위가 튀니지에서 시작해 주변 국가로 번진 거예요. 수십 년 동안 군림했던 튀니지와 이집트의 독재 정권이 잇달아 무너졌어요.&lt;br&gt;&lt;br&gt;시리아에서도 대규모 민주화 시위가 일어납니다. “의사 선생, 다음은 당신 차례야!”라는 반정부 구호도 등장했죠. 그러다 민주화 시위에 참가했다가 경찰에 잡혀간 13세 소년이 사망하는 사건이 벌어져요. 이후 반정부 시위는 걷잡을 수 없이 번져 결국 정부군과 반정부군간의 내전으로 비화됩니다.&lt;br&gt;&lt;br&gt;문제는 내전 과정에서 다른 국가들까지 개입했다는 것이었어요. 시리아가 중동과 유럽을 잇는 전략적 요충지이기 때문이죠. 시리아 정부군은 러시아와 이란이 도왔어요. 러시아는 시리아의 타르투스항에 해군기지를 운영하고 있었기 때문에 시리아를 놓쳐서는 안 됐죠. 이란은 레바논에 있는 친(親)이란 무장 단체 헤즈볼라를 도우려면 반드시 시리아를 같은 편에 둬야 했어요. 헤즈볼라에 무기 등 물자를 지원하려면 시리아를 통해야 했거든요.&lt;br&gt;&lt;br&gt;반면 반정부군은 미국과 영국, 튀르키예, 사우디아라비아, 아랍에미리트 등이 도왔죠. 러시아·이란과 적대 관계에 있는 국가들이 도와준 거죠. 미국과 영국은 독재 정권을 무너뜨려 민주주의를 가져와야 한다는 명분을 내세웠어요. 튀르키예와 다른 아랍 산유 왕정국가들은 이란에 대항하기 위해 반정부군을 지원합니다. 전쟁이 나자 시리아 국민들은 고향을 등지고 떠났어요. 이웃 국가 튀르키예로 약 360만명, 유럽으로 약 100만명의 난민이 몰렸죠.&lt;br&gt;&lt;br&gt;&lt;b&gt;국제전이 된 시리아 내전&lt;/b&gt;&lt;br&gt;&lt;br&gt;이처럼 시리아 내전은 외국이 깊숙이 관여하는 국제전이 되어 쉽게 끝날 수 없었죠. 더욱이 반군이 하나로 뭉치지도 못했어요. 독재 정권을 무너뜨려야 한다는 데에는 의견이 일치했지만, 독재 정권이 무너진 시리아의 미래가 어떤 모습인지를 두고 의견이 달랐죠. 이슬람교 원칙에 따라 다스려야 한다는 이슬람주의자, 세속적이고 다양한 종교를 존중하는 사회를 꿈꾸는 민주주의자, 시리아 정부의 억압에서 벗어나 자신들만의 나라를 세우고 싶은 쿠르드 독립주의자 등으로 나뉘어 있었어요.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NVSSIEUAVVEJXMEQT55U4YY4EY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;알아사드(왼쪽) 시리아 전 대통령과 블라디미르 푸틴(오른쪽) 러시아 대통령이 2017년 시리아에서 열린 군사 행진을 지켜보고 있어요. 아사드 정권은 러시아에서 군사 지원을 받았습니다. /AP 연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;13년간 이어진 내전은 최근 1~2년 사이 새로운 국면을 맞습니다. 우선 러시아·우크라이나 전쟁이 길어지면서 러시아는 예전처럼 시리아를 지원할 수 없었어요. 또 이스라엘이 레바논의 헤즈볼라를 공격하면서 헤즈볼라 역시 시리아 정부군을 돕기 어려워졌죠. 이란의 지원도 줄어들었고요. 이처럼 정부군이 약해지자 2024년 11월 튀르키예가 지원하는 반군 세력 중 극단주의 단체인 HTS(시리아 해방 기구)가 시리아 제2의 도시 알레포를 장악했고, 12월엔 수도 다마스쿠스까지 점령하며 54년 아사드 집안의 부자 세습 독재 체제가 무너진 거죠.&lt;br&gt;&lt;br&gt;이제 시리아 국토 대부분은 튀르키예의 후원 아래 HTS를 중심으로 뭉친 SNA(시리아 국민군)가 차지하고 있어요. 그러나 북동부는 또 쿠르드 반군 세력인 SDF(시리아 민주군)가 세력을 유지하고 있어요. 그런데 튀르키예는 SDF를 몰아내려고 해요. 튀르키예 내 쿠르드 독립운동 조직과 SDF가 연계되어 있다고 믿기 때문이죠. HTS는 반군끼리 힘을 합치자며 SDF에 무기를 내려놓으라고 요구했지만 SDF는 응하지 않고 있어요. 독재 정권 축출 이후에도 시리아에 긴장감이 감돌고 있는 이유입니다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문은 선생님] [알립니다] 조선일보 뉴지엄 미디어스퀘어 전시회 개최</title>
-      <link>https://www.chosun.com/national/nie/2025/01/01/CAV75A6VT5ECZIUARMLLXN5E64/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2025/01/01/CAV75A6VT5ECZIUARMLLXN5E64/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Tue, 31 Dec 2024 15:32:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DK2ZCGHUK5FN5NMBAFQBNEE6DM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;어린이조선일보에서 주최한 2024년 ‘글로벌 미술대회’ 출품작과 루브르 박물관 전시 신청작을 감상할 수 있는 특별 전시를 개최합니다. 국내 전시는 흑석동 조선일보 뉴지엄에서 진행되며, 프랑스 루브르 박물관에서도 전시를 관람할 수 있습니다. 스크린에서 원하는 그림을 터치하고 확대해 작품 디테일까지 감상할 수 있는 ‘몰입형 전시’입니다. 자세한 내용은 어린이조선일보 홈페이지(&lt;a href="https://kid.chosun.com/" target="_blank"&gt;kid.chosun.com&lt;/a&gt;)를 참고하세요.&lt;br&gt;&lt;br&gt;▲&lt;b&gt;장소&lt;/b&gt;: 흑석동 조선일보 뉴지엄·프랑스 루브르 박물관&lt;br&gt;&lt;br&gt;▲&lt;b&gt;일정&lt;/b&gt;: 2025년 2월 7일(금)~9일(일)·박물관별 상이&lt;br&gt;&lt;br&gt;▲&lt;b&gt;내용&lt;/b&gt;: 글로벌 미술대회 및 루브르 박물관 전시 신청 작품 특별 전시&lt;br&gt;&lt;br&gt;▲&lt;b&gt;문의&lt;/b&gt;: 02-724-7831&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문은 선생님] [동물 이야기] 하천 생태계 최고 포식자… 1968년 이후 우리나라서 서식 안 한대요</title>
-      <link>https://www.chosun.com/national/nie/2025/01/01/UL2TGMXUKZDSVPBXTCIJU6O2TU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2025/01/01/UL2TGMXUKZDSVPBXTCIJU6O2TU/</guid>
-      <dc:creator>정지섭 기자, 도움말=국립생태원 복원연구실 최진 박사</dc:creator>
-      <description/>
-      <pubDate>Tue, 31 Dec 2024 15:32:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6VTPGQOCB5HYVF45XGPYBSWDOY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;먹황새는 이름처럼 먹같이 어두운 색 깃털로 덮여 있어요. 어릴 땐 부리와 다리가 녹회색·녹황색이지만, 어른이 되면 붉은색으로 변한답니다. /국립생태원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국립생태원이 1968년을 마지막으로 우리나라에서 서식하지 않는 먹황새를 복원하는 작업을 시작한대요. 우리나라에 겨울을 나러 왔다가 굶주려 탈진한 상태로 2012년 구조된 먹황새 한 마리와 올해 일본에서 들여온 여섯 마리를 통해 점차 개체를 증식시키겠다는 거죠. 먹황새는 말 그대로 먹처럼 검은 색을 한 황새예요.&lt;br&gt;&lt;br&gt;먹황새는 온몸이 어두컴컴한 색깔일 것 같지만 자세히 보면 화려한 구석도 있답니다. 우선 목덜미와 등쪽의 깃털을 보면 자주색과 초록색 광택으로 빛난답니다. 눈 주위와 부리, 그리고 두 발은 선명한 붉은 색을 띠고 있고요. 배 부분은 눈처럼 흰 깃털로 덮여 있어요. 그래서 하늘을 날아가는 모습을 아래에서 올려다보면 붉은 부리와 다리, 검은 날개, 하얀 배가 한눈에 들어온답니다.&lt;br&gt;&lt;br&gt;어린 새의 경우에는 눈 주위와 부리는 녹회색이고 다리는 녹황색이에요. 그러니까 빨강은 먹황새에게 어른을 상징하는 색이죠. 먹황새의 몸길이는 95~100㎝로 황새보다는 조금 작아요. 하지만 이름에서 알 수 있듯 몸의 대부분이 흰색 깃털인 황새와 아주 가까운 친척뻘이에요. 하지만 황새보다 더 경계심이 많은 성격이라서 인적이 드물고 우거진 숲속, 절벽, 물가 등에 주로 살고 있답니다. 수심이 30㎝ 정도로 얕은 물에서 물고기·개구리·곤충 등을 사냥하는데, 황새나 왜가리와 마찬가지로 목을 단숨에 쭉 뻗어 먹잇감을 잡은 다음 꿀꺽 삼켜버리죠. 물속에서 마땅한 먹잇감을 찾지 못할 경우 작은 포유동물이나 새를 사냥하기도 해요. 먹황새는 자연에서는 천적이 거의 없는 하천 생태계 최고의 포식자랍니다.&lt;br&gt;&lt;br&gt;하지만 우리나라에서는 그간 수난을 겪었어요. 먹황새는 원래는 사계절 내내 볼 수 있는 텃새예요. 주로 경상북도 일대에 많이 살았어요. 15~18세기 조선시대에 쓰인 여러 문헌에는 검은 학이라는 뜻의 현학(玄鶴) 또는 푸른 학이라는 의미의 청학(靑鶴)이라는 이름으로 등장하죠. 하지만 급격한 도시화에 따라 녹지가 사라지고 수질이 오염되는 일이 잦아지면서 점차 숫자가 줄어들었어요. 벌목 과정에서 둥지가 훼손되는 일도 잇따랐고요. 특히 경북 안동 도산면 가송리에 있던 절벽에서 1938년부터 1968년까지 번식해 왔으나 서식지 절벽이 무너진 뒤 자취를 감췄어요. 중국이나 러시아에서 번식을 한 뒤 겨울에 이따금씩 우리나라에 잠깐 들르는 모습이 발견될 뿐이었죠.&lt;br&gt;&lt;br&gt;우리나라에서 사라진 새들을 다시 볼 수 있도록 과학자들과 지방자치단체들이 힘을 모아 복원에 나서는 사례는 먹황새가 처음은 아니에요. 황새의 경우 1971년 텃새로 남아 있던 마지막 한 쌍 중 수컷이 밀렵꾼에게 희생되고 홀로 남은 암컷은 1994년 서울대공원 동물원에서 죽는 안타까운 일이 벌어졌는데요. 이후 충북 청주에 황새복원연구원이 만들어지고 외국에서 새와 알을 들여오며 번식 작업이 시작돼 지금은 황새들을 꾸준히 야생으로 방사하고 있답니다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[신문은 선생님] [예쁜 말 바른 말] [376] ‘지새다’와 ‘지새우다’</title>
       <link>https://www.chosun.com/national/nie/2025/01/01/Z4IFEF622ZGUDEXDI5ZBAXJSXE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/nie/2025/01/01/Z4IFEF622ZGUDEXDI5ZBAXJSXE/</guid>
@@ -916,15 +925,6 @@
       <description/>
       <pubDate>Tue, 31 Dec 2024 15:32:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HD32UZJITBEJBAYX6JEAPZHM3M.png"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;*“긴 밤 지새우고 풀잎마다 맺힌 진주보다 더 고운 아침이슬처럼~”&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;*국민들은 온 새벽을 지새며 국회 상황을 지켜봤다.&lt;/b&gt;&lt;br&gt;&lt;br&gt;두 문장을 보세요. 같은 뜻으로 쓰이는 말이 ‘지새다’와 ‘지새우다’로 다르게 쓰이고 있습니다. 무엇이 맞는 표현일까요?&lt;br&gt;&lt;br&gt;‘지새다’는 자동사로 ‘달이 사라지면서 밤이 새다’. ‘밤이 지나 날이 밝아오다’는 뜻이에요. ‘우리는 밤이 지새도록 이야기를 나누었다’와 같이 쓰지요. 반면에 ‘지새우다’는 타동사로 ‘(사람이 밤을) 고스란히 새우다’라는 뜻이에요. ‘그 사람 생각에 지새운 밤이 몇 날 며칠이다’와 같이 쓸 수 있지요.&lt;br&gt;&lt;br&gt;자동사와 타동사 차이를 구별하지 못해 ‘지새우다’를 써야 할 곳에 ‘지새다’를 쓰는 일이 많지만, 목적어가 들어가면 ‘지새우다’를 써야 함을 알아두세요.&lt;br&gt;&lt;br&gt;따라서 첫째 문장에 목적어 ‘밤’이 있으므로 ‘지새우고’가 맞는 것처럼 둘째 문장도 ‘지새며’를 ‘지새우며’로 고쳐 써야 합니다.&lt;br&gt;&lt;br&gt;&lt;b&gt;[예문]&lt;/b&gt;&lt;br&gt;&lt;br&gt;-“길이 너무 어두우니 날이 지새면 천천히 떠나도록 해라.”&lt;br&gt;&lt;br&gt;-소비자들은 회사 근처 공터에 텐트를 치고 밤을 지새우며 시위를 이어갔다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>서울 목동깨비시장 차량 사고로 중태 빠졌던 40대 남성 사망</title>
-      <link>https://www.chosun.com/national/national_general/2024/12/31/4RK2AW4UVVGTRAWMZXPS2J2SZM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/31/4RK2AW4UVVGTRAWMZXPS2J2SZM/</guid>
-      <dc:creator>강지은 기자, 이영준 기자, 조은서 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 31 Dec 2024 14:56:08 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FFVXXRZKLVZZZKUOSRYWGEPVKA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;31일 오후 서울 양천구 목동깨비시장에서 차량 사고가 발생해 과일 가게 직원 40대 남성이 사망하고 12명이 부상했다.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;31일 서울 양천구 목동깨비시장에서 발생한 차량 사고로 의식을 잃고 중태에 빠졌던 40대 남성 A씨가 결국 사망했다. A씨는 시장에 있던 과일 가게에서 일하던 직원이다.&lt;br&gt;&lt;br&gt;서울 양천경찰서는 이날 발생한 차량 사고로 인근 대학병원에서 치료를 받던 A씨가 오후 9시 46분쯤 사망 판정을 받았다고 밝혔다. 피해자가 사망함으로써 사고를 낸 운전자 김모(74)씨는 교통사고처리 특례법 위반(치사) 혐의로 경찰에 입건됐다.&lt;br&gt;&lt;br&gt;시장 상인들은 A씨를 “아침 8시쯤 출근해 저녁 9시쯤 퇴근하며 주인처럼 성실하게 일하기로 정평이 난 사람”이라고 했다. 인근 상인 김모(51)씨는 “손님 한 명이라도 더 잡으려 시장이 다 울릴 정도로 열심히 ‘과일 사라’고 외쳤는데, 그 목소리가 아직도 쟁쟁하다”고 했다. 그와 함께 10년 가량 함께 일한 과일 가게 업주는 “월급날이었는데 오늘따라 손님이 몰려 저녁 중 줘야겠다고 미뤘는데 이렇게 가버렸다”며 눈시울을 붉혔다.&lt;br&gt;&lt;br&gt;이날 오후 3시 53분쯤 서울 양천구 목동깨비시장에 김씨가 운전하던 검은색 에쿠스 차량이 행인과 상점 등을 덮쳐 13명이 사상했다. 1명은 사망하고 3명은 중상을, 9명은 경상을 입었다. 김씨가 운전하던 검은색 에쿠스 차량은 깨비시장 후문 사거리에서 앞서가던 버스를 앞지르다 가속해 시장 내부로 돌진, 약 40m를 질주했다.&lt;br&gt;&lt;br&gt;김씨는 경찰 조사에서 “급발진은 없었으며, 차를 오랫동안 주차장에 세워놨던 터라 방전이 걱정돼 오랜만에 끌고 나왔다가 사고가 났다”고 진술했다. “앞서 가던 차량을 피해 가속하던 중 시장 가판대 앞에서 브레이크를 밟았는데 이후론 잘 기억이 안 난다”고도 말했다. 경찰은 확보한 CC(폐쇄회로)TV 영상을 토대로 정확한 사고 원인을 조사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>“외로운 사투, 넌 이미 훌륭했어” 기장 형이 남긴 손편지 </title>
