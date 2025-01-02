@@ -13,6 +13,225 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>“부부도 20년 살기 힘들어”...박진영이 준 ‘입사 20주년’ 선물</title>
+      <link>https://www.chosun.com/national/national_general/2025/01/02/JYLNVY4D2VCOJGZFMJ3FW5FAQA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/02/JYLNVY4D2VCOJGZFMJ3FW5FAQA/</guid>
+      <dc:creator>김자아 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 02 Jan 2025 03:08:25 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/J467KNVBF6I6YK7FVITXGTQGXM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2PM 준케이(왼쪽), 가수 박진영./유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;JYP엔터테인먼트를 이끄는 가수 박진영이 입사 20주년을 맞이한 그룹 2PM 멤버 준케이에게 스위스행 비행기 티켓을 선물했다.&lt;br&gt;&lt;br&gt;유튜브 채널 ‘2PM’에는 최근 ‘JUN. K의 스위스 여행기 1편 | ※JYP 아티스트 시청 요망※ 장기근속하면 벌어지는 일’이라는 제목의 영상이 올라왔다. 영상에는 박진영이 입사 20주년을 맞이한 준케이와 인사를 나누는 모습이 담겼다.&lt;br&gt;&lt;br&gt;준케이는 팬미팅 일정을 앞두고 2PM 멤버들과 함께 안무 연습 중이었다. 이때 JYP엔터테인먼트의 대표 프로듀서이자 선배 가수인 박진영이 연습실에 깜짝 방문했다. &lt;br&gt;&lt;br&gt;멤버들과 근황 이야기를 주고받던 박진영은 준케이만 따로 불러 어딘가로 데려갔다. 갑작스러운 호출에 당황한 준케이는 “카메라가 따라오는 걸 보니 방송용 같다. 이게 무슨 일이냐”며 의심했다. &lt;br&gt;&lt;br&gt;박진영은 “무슨 일이냐면 준케이 입사 20주년 됐다”며 박수를 보냈다. 준케이는 “알고 계셨냐. 갑자기 무슨 일인가 했다”며 그제서야 안도의 미소를 지었다.&lt;br&gt;&lt;br&gt;JYP엔터테인먼트는 20년 근속한 직원들에게 표창을 해온 것으로 알려졌다. &lt;br&gt;&lt;br&gt;준케이가 표창장을 기다리자 박진영은 “(준케이가) 평상시에 하고 싶었는데 못했던 걸 준비했다”며 하고 싶은 일을 물었다. 이에 준케이는 “여행을 많이 안 가봐서 여행 가고 싶다. 팬들은 다 알고 있다. 스위스를 가고 싶다”고 답했다.&lt;br&gt;&lt;br&gt;박진영은 준케이의 소망을 미리 알고 있었다는 듯 ‘가평 스위스 테마파크 이용권’을 내밀었다. 실망한 준케이에게 “완전히 스위스를 그대로 재현해 놨다”며 “20주년 됐으면 회사에서 이 정도는 해줘야 한다”고 했다.&lt;br&gt;&lt;br&gt;곧이어 박진영은 스위스행 항공권을 건넸다. 박진영은 “테마파크를 다녀왔다가 진짜 가라”며 “네 스케줄까지 딱 갈 수 있도록 예매했다”고 말했다. &lt;br&gt;&lt;br&gt;그러면서 “20년은 정말 대단하다. 부부도 20년 동안 살기 힘들다”며 “20년을 나와 우리 회사와 함께해준 게 정말 소중하고 감사하고 특별한 것 같다”고 했다. 준케이는 연습실로 돌아가며 “JYP에 20년 있으면 스위스도 갈 수 있다”며 감사의 마음을 표했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>경찰 “대통령 체포영장 집행 지원, 위법성 문제 없도록 할 것”</title>
+      <link>https://www.chosun.com/national/2025/01/02/HIYU32OHURC4ZCGSZISHMAWYZA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2025/01/02/HIYU32OHURC4ZCGSZISHMAWYZA/</guid>
+      <dc:creator>주형식 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 02 Jan 2025 03:00:14 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JDEUEZWPYNLV3EB42KHPNEBSWQ.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;2일 서울 용산구 윤석열 대통령 관저 입구 인근에서 경찰이 근무하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 대통령에 대한 체포영장 집행을 경찰이 지원하는 것과 관련해, 비상계엄 사태를 수사하는 경찰 특별수사단은 위법성 문제 제기가 없도록 법적 검토하겠다고 2일 밝혔다.&lt;br&gt;&lt;br&gt;국가수사본부 비상계엄 특별수사단은 이날 공지를 통해 “고위공직자범죄수사처의 체포영장 집행 지원과 관련한 여러 의견이 있는 점을 충분히 인지하고 있다”고 밝혔다.&lt;br&gt;&lt;br&gt;그러면서 “공수처와 충분한 법적 검토와 협의를 통해 집행 과정상에 위법성 문제가 제기되지 않도록 하겠다”고 덧붙였다.&lt;br&gt;&lt;br&gt;앞서 윤 대통령 변호인 측은 대통령에 대한 체포영장 집행과 관련해 “공수처가 경찰기동대 지원을 받아 대통령 체포 및 용산 관저 수색을 시도하려고 하나 이는 법적 근거가 없는 위법행위”라고 밝혔다. 윤 대통령 변호인 측은 “경찰기동대가 영장 집행에 나서려면 과거 검찰과 같이 공수처 검사에게 경찰 수사지휘권이 있어야 가능하지만, 공수처법은 경찰에 대한 공수처의 포괄적 수사지휘권을 규정하고 있지 않다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/JDEUEZWPYNLV3EB42KHPNEBSWQ.JPG?width=4537&amp;height=3036&amp;auth=c1916ad07bf22dbaffa384a1ee19785f4e18bc4ef20dd39be7efcb493bb478ed&amp;smart=true" type="image/jpeg" height="3036" width="4537">
+        <media:description type="plain">(서울=뉴스1) 박세연 기자 = 2일 서울 용산구 윤석열 대통령 관저 입구 인근에서 경찰이 근무하고 있다.
+
+공수처는 '12·3 비상계엄 사태'로 내란 혐의를 받는 윤석열 대통령 체포영장을 유효기간인 6일 이내에 집행하겠다고 밝혔다. 2025.1.2/뉴스1</media:description>
+        <media:credit role="author" scheme="urn:ebu">(서울=뉴스1) 박세연 기자</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>검정고시, 대학 합격…하루 15시간 ‘쓰리잡’하던 10대 가장 용일군 근황</title>
+      <link>https://www.chosun.com/national/national_general/2025/01/02/DFCAQ4BF3FEUVHETI2BOXF3OII/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/02/DFCAQ4BF3FEUVHETI2BOXF3OII/</guid>
+      <dc:creator>박선민 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 02 Jan 2025 02:45:18 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/E7MGN73D2RGJPNM7BSH4QEWJEA.png"&gt;&lt;figcaption&gt;&lt;small&gt;고등학교 진학 대신 생계를 책임지던 용일군. /월드비전 유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;아픈 아버지와 할아버지를 대신해 고등학교 진학을 포기한 채 하루 15시간씩 일하던 이용일(18)군이 검정고시 합격 후 대학에 진학하게 됐다는 소식이 전해졌다.&lt;br&gt;&lt;br&gt;2일 국제구호개발 비정부기구(NGO) 월드비전과 YTN에 따르면, 용일군은 최근 고졸 검정고시 합격 후 대학 응급구조학과 합격 통지서까지 받았다. 생계를 책임지느라 고등학교는 진학하지 못했지만, 되레 또래보다 1년 일찍 대학 생활을 시작할 수 있게 된 것이다.&lt;br&gt;&lt;br&gt;앞서 용일군의 사연은 2023년 9월 월드비전이 공개한 영상을 통해 처음 알려지게 됐다.&lt;br&gt;&lt;br&gt;용일군은 16세 나이에도 불구하고 파킨슨병과 암 투병을 겪는 할아버지와 교통사고 이후 뇌출혈을 겪고 지적장애를 얻은 아버지를 대신해 일터에 나섰다. 세 식구의 생계를 책임지기 위해 중학교 2학년 2학기 때부터 일을 시작했기 때문에 고등학교는 진학하지 못했다. 용일군의 하루는 새벽 3시 택배 배달 아르바이트를 시작으로 낮에는 식당 아르바이트, 밤에는 야간 경비까지 하루 꼬박 15시간을 일하고 나서야 끝났다. 이외에도 선팅 업체, 물류 창고 관리, 편의점 알바 등 어린 나이에 할 수 있는 일은 모든 해왔다고 한다.&lt;br&gt;&lt;br&gt;이 가운데 무거운 소식도 전해졌다. 용일군 아버지는 작년 11월 생계에 보탬이 되고자 배달 오토바이에 올랐다가 사고로 세상을 떠났다고 한다. 이에 용일군은 YTN에 “일을 하다가 가끔 쉬는 시간이 되면 ‘남들은 이제 고등학교에 입학해서 막 재미있게 놀고 있을 거고 축제를 즐기고 있을 건데, 왜 나한테만 이러지?’라는 생각을 했던 적도 있었다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SESJKVZSBRDVJL5HXCZM4QD7GM.png"&gt;&lt;figcaption&gt;&lt;small&gt;용일군이 지난달 공개된 월드비전과의 인터뷰에서 검정고시 합격 소식을 전하고 있다. /월드비전 유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이처럼 막막한 현실 속에서도 용일군은 응급구조사의 꿈을 꿨다. 이번 응급구조학과 합격으로 꿈에 한발짝 다가서게 된 것이다. 용일군은 “(응급구조사가) 영웅 같아 보였다”며 “아무리 몸이 힘들고 아파도 그분들만 있으면 전 언제든 병원에 갈 수 있었다”고 했다. 그러면서 “내가 대학도 가고, 원하는 목표를 이루면 이 밑바닥에서 벗어날 수 있지 않을까”라고 했다.&lt;br&gt;&lt;br&gt;용일군은 지난달 3일 공개된 월드비전과의 인터뷰에서는 “거의 3년만에 학교에 다시 발을 들이는 거라서 ‘내가 잘 할 수 있을까’라는 생각이 들긴 한다”면서도 “그래도 원하는 길이고, 지금까지 쫓아왔던 길이니 후회 없이 한번 도전해보고 싶다”고 했다.&lt;br&gt;&lt;br&gt;아울러 “작년과 재작년 바쁘게 살 때는 미래를 생각 안 했다. 비관적인 생각도 많았는데, 전혀 생각지도 못했던 꿈을 꾸게 되고, 또 그 꿈을 쫓아가게 됐다”며 “어떨 때는 ‘결혼해서 가정을 꾸렸겠거니’, 또 언젠가는 ‘소방관이 되었겠거니’라는 생각을 해보기도 한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>윤 대통령 체포·조사 대비하는 공수처…과천청사 통제 강화</title>
+      <link>https://www.chosun.com/national/court_law/2025/01/02/YUP2YCPWYJA6FLQT3IWVDZGLBU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/01/02/YUP2YCPWYJA6FLQT3IWVDZGLBU/</guid>
+      <dc:creator>이슬비 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 02 Jan 2025 02:46:40 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QGPZ5PWOXVLO7GLYQPPYZIVGXE.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;고위공직자범죄수사처가 있는 정부과천청사 출입구에 취재진이 대기하고 있다. 사진은 공수처가 윤 대통령에게 2차 소환을 통보한 지난 25일이다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;고위공직자범죄수사처(공수처)가 윤석열 대통령의 체포영장 집행을 앞두고 정부과천청사 통제를 강화한다고 공지했다.&lt;br&gt;&lt;br&gt;공수처는 2일 기자들에게 “3일부터는 전날 대변인실이 출입관리시스템에 등록한 인원만 출입 조치하기로 했다”며 “출입을 원할 경우 전날 양식에 따라 신청해달라”고 했다.&lt;br&gt;&lt;br&gt;공수처는 “선별 출입에 대해서도 논의했으나 현재 사정상 어려운 관계로 전날 등록에 대해서만 당일 출입이 가능한 걸로 과천청사 관리소와 협의했다”고 설명했다.&lt;br&gt;&lt;br&gt;공수처는 지난달 20일부터 건물 주변 주차 제한 등을 시행했다. 윤 대통령의 체포영장 집행이 임박한 만큼 경호 차원에서 주변 통제를 강화하는 것으로 해석된다. 공수처는 이런 출입 통제 방식을 발부받은 체포영장 유효 기간인 6일 이후에도 당분간 지속할 예정이라고 밝혔다.&lt;br&gt;&lt;br&gt;공수처가 윤 대통령을 체포할 경우 정부과천청사 공수처에서 조사한 뒤 서울구치소에 구금할 계획이다. 일단 체포하면 48시간 이내에 구속영장을 청구하거나 영장을 청구하지 않으면 석방해야 하는 만큼, 고강도 조사를 벌인 뒤 구속영장을 청구할 것으로 예상된다.&lt;br&gt;&lt;br&gt;앞서 공수처는 윤 대통령이 세 차례 출석요구에 불응하자 내란과 직권남용 혐의로 법원에 체포영장과 수색영장을 청구해 지난달 31일 발부받았다. 공수처는 이르면 이날 서울 용산구 한남동 관저에 검사와 수사관을 보내 영장을 집행할 전망이다. 다만 대통령 경호처 등이 협조하지 않으면 집행이 불발될 가능성도 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>尹 체포영장 이르면 오늘 집행...관저 앞 지지자들 “몸으로 저지”</title>
+      <link>https://www.chosun.com/national/national_general/2025/01/02/5HWIXV4KDRCCZI2KHTDQPWLG6U/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/02/5HWIXV4KDRCCZI2KHTDQPWLG6U/</guid>
+      <dc:creator>고유찬 기자, 김보경 기자, 한영원 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 02 Jan 2025 00:43:10 +0000</pubDate>
+      <content:encoded>12·3 비상계엄 사태에서 내란 우두머리 혐의를 받는 윤석열 대통령에 대한 체포영장이 발부되며 한남동 관저 인근에서는 일촉즉발의 긴장감이 고조되고 있다.&lt;br&gt;&lt;br&gt;이미 체포영장 발부 사흘째에 접어든 만큼, 이르면 이날 윤 대통령에 대한 체포영장이 집행될 가능성도 제기된다. 이에 관저 앞 윤 대통령 지지자들은 “맨몸으로라도 막겠다”며 사실상 ‘결사항전’을 예고해 물리적 충돌이 우려된다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BJNGB2DTDNPJPAMCTMDKIXBZEA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;1일 오후 서울 용산구 대통령 관저 입구가 통제되고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2일 오전 7시쯤 서울 용산구 한남동 대통령 관저 정문 앞에는 약 35m 길이의 폴리스라인이 설치되어 있었다. 라인 안쪽과 바깥쪽에서 각각 경호처 직원과 사복경찰 10여 명이 폴리스라인을 지키고 서 있었다.&lt;br&gt;&lt;br&gt;관저 정문이 위치한 인도 양옆 명봉빌딩부터 한남초등학교 사이 약 500m 거리에는 수십명의 사복경찰과 제복경찰이 뒤섞여 배치됐다. 기동대 버스 수십 대가 정차해 있고, 유사시를 대비해 관저 양옆 육교와 곳곳에는 폴리스라인도 대기 중이다.&lt;br&gt;&lt;br&gt;지난 밤 관저 앞에서는 윤 대통령 지지자 50여명이 꼬박 밤을 새웠다. 물과 음식을 서로 나눠주는 모습도 보였다. 한 중년 남성은 “어제(1일) 오전 3시에 충남 천안에서 올라와 집회 현장을 지킨 지 24시간이 되어간다”면서 “체력 되는 한 3일까지는 버텨볼 예정”이라고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MFZY2JAYCZJU7FOCBCKK64ZSUQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;1일 서울 용산구 대통령 관저 인근에 모인 윤석열 대통령 지지자들이 영장 집행을 반대하는 구호를 외치고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 관저 앞에서 본지 기자와 만난 회사원 이지현(32)씨는 “민주당이 탄핵을 남발해 대행의 대행 체제까지 오는 등 사실상 무정부상태”라며 “이 나라와 자유민주주의를 지키기 위해 나왔다”고 했다. 영등포구 주민 최모(73)씨는 “탄핵을 남발하는 야당이 내란세력이자 반국가세력”이라며 “대통령을 지키기 위해 몸으로라도 막겠다”고 했다.&lt;br&gt;&lt;br&gt;지난 1일 윤 대통령의 자필 서명이 담긴 편지가 공개되며 관저 앞에 윤 대통령 지지자들이 속속 결집하고 있다. 대학생 윤모(24)씨는 “어제 공개된 대통령 편지를 보고 관저 앞으로 나와야겠다는 마음이 들었다”며 “어제(1일) 오후 10시 30분쯤 경기도 본가에서 출발해 관저 앞에서 꼬박 밤을 샜다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TY5YY3FESNBQJPJYMGN5PUKKQM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2일 오전 서울 용산구 한남동 대통령관저 앞에 설치된 폴리스라인. /이민경 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤 대통령은 새해 첫날 자필 서명이 담긴 메시지를 통해 지지층 결집을 시도했다. 그는 “여러분과 함께 이 나라를 지키기 위해 끝까지 싸울 것”이라고 밝힌 바 있다.&lt;br&gt;&lt;br&gt;이날 오전 6시 30분쯤에는 국민의힘 윤상현 의원이 관저 앞을 방문하자 지지자들은 윤 의원의 이름을 연호하며 환호하기도 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MHLIZBJ6OBKQTBHCCF3MN2BMTE.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;1일 윤석열 대통령이 관저 앞에 모인 지지자들을 향해 쓴 편지. "여러분과 함께 이 나라를 지키기 위해 끝까지 싸울 것"이라는 내용이 담겼다 /뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;공수처가 이날 윤 대통령에 대한 체포영장을 실제로 집행할 경우, 지지자들이 크게 반발하며 물리적 충돌로 이어질 수 있다는 우려가 나오고 있다.&lt;br&gt;&lt;br&gt;공수처는 체포영장 집행을 막는 사람들 역시 공무집행방해 혐의로 체포한다는 방침이라, 양측 간 충돌이 예상된다.&lt;br&gt;&lt;br&gt;한편, 윤석열퇴진운동비상본부와 전국민주노동조합총연맹(민노총) 등은 윤 대통령에 맞서 ‘내란 수괴에 대한 체포 투쟁을 벌이겠다’며 관저 진입을 예고한 상태다.&lt;br&gt;&lt;br&gt;민노총은 지난달 31일 “윤 대통령에 대한 체포에 직접 나서겠다”며 “1월 3일까지 전국의 조합원들을 한남동 관저로 집결시킬 것”이라고 했다.&lt;br&gt;&lt;br&gt;경찰은 만일의 사태에 대비해 관저 주변의 기동대 인원을 늘려 통제를 강화하고, 관저 진입로 등을 확보한다는 계획이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>제주 관광객 1378만명 넘었다</title>
+      <link>https://www.chosun.com/national/regional/2025/01/02/7N7IJGBNH5HTHNLXS3RMQUYMBM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/01/02/7N7IJGBNH5HTHNLXS3RMQUYMBM/</guid>
+      <dc:creator>제주=오재용 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 02 Jan 2025 02:38:09 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NWRE5FDBVNITLMSRB2RRB7KXNQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;새해 첫날인 1일 제주도 동쪽 끝 해돋이 명소인 서귀포시 성산읍 광치기해변을 찾은 도민과 관광객이 수평선 위로 떠오르는 일출을 바라보고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난해 제주를 찾은 관광객 수가 1378만명을 넘어섰다.&lt;br&gt;&lt;br&gt;2일 제주도관광협회에 따르면 지난해 제주 방문 누적 관광객 수는 잠정 1378만3911명으로, 2022년과 2023년에 이어 3년 연속 1300만명을 넘어섰다.&lt;br&gt;&lt;br&gt;이는 2023년 1338만9501명과 비교해 2.9%로 증가한 수치다. 다만 올해 초 제주도가 목표로 삼았던 1400만명에는 미치지 못했다.&lt;br&gt;&lt;br&gt;지난해 제주를 찾은 내국인 관광객은 전체의 86%를 차지하는 1187만6303명으로, 전년 1268만1999명보다 6.4% 줄었다. 대신 지난해 외국인 관광객은 190만7608명으로 전년(70만7502명)과 비교해 약 2.7배 늘었다.&lt;br&gt;&lt;br&gt;관광업계는 지난해 비계 삼겹살과 바가지 논란 등 부정적 이미지 확산과 비상계엄과 탄핵 등 혼란스러운 정치 상황, 제주를 연결하는 국내선 항공편 좌석 수 감소 등으로 내국인 관광객이 줄어든 것으로 분석했다.&lt;br&gt;&lt;br&gt;반면 제주와 다른 나라를 오가는 항공편과 크루즈가 늘고, ‘웰컴투 삼달리’와 ‘우리들의 블루스’ 등 제주를 소재로 한 온라인동영상서비스(OTT) 영상물이 해외에서 인기를 얻으면서 외국인 관광객이 늘어난 것으로 보고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>인터넷 커뮤니티에 최상목 권한대행 살해협박 글 올라…경찰 수사 나서</title>
+      <link>https://www.chosun.com/national/regional/yeongnam/2025/01/02/VQUGMNCYWNHI3BATAPXVKIJVEI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/yeongnam/2025/01/02/VQUGMNCYWNHI3BATAPXVKIJVEI/</guid>
+      <dc:creator>박주영 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 02 Jan 2025 02:42:23 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/54FTUISTLZDHJELX6W5GW5V5XU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인터넷 커뮤니티에 최상목 대통령 권한대행 부총리 겸 기획재정부 장관의 살해 협박 글이 올라와 경찰이 수사에 나섰다.&lt;br&gt;&lt;br&gt;부산 부산진경찰서는 “지난 12월 31일 오후 7시43분쯤 인터넷 커뮤니티에 ‘최 권한대행을 살해하겠다’는 협박글이 올라왔다는 신고가 접수돼 조사 중”이라고 2일 밝혔다. 경찰은 또 최 권한대행이 거주하는 서울경찰청 112에 이같은 사실을 알리고 공조 수사를 요청했다.&lt;br&gt;&lt;br&gt;수사를 맡은 부산진서 형사2과는 “서울청과 공조하며 해당 인터넷 사이트에 올라온 글의 주소(IP) 등을 추적하는 등 수사를 하고 있다”고 말했다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>달려든 맹견에 넘어진 40대 전치 14주 진단… 견주 ‘벌금형’</title>
+      <link>https://www.chosun.com/national/court_law/2025/01/02/RVG2NZVRYZFM7GP67L23JGQ6TM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/01/02/RVG2NZVRYZFM7GP67L23JGQ6TM/</guid>
+      <dc:creator>인천=이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 02 Jan 2025 02:36:42 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KFE3E6FZBMIAZOO7CJIC3M4MVM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원 로고. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;자신이 기르던 맹견을 제대로 관리하지 않아 행인을 다치게 한 60대 견주에게 벌금형이 선고됐다.&lt;br&gt;&lt;br&gt;인천지법 형사 3단독 이동호 판사는 동물보호법 위반, 과실치상 등 혐의로 기소된 A(65)씨에 대해 벌금 600만원을 선고했다고 2일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난해 6월 15일 오후 6시 17분쯤 인천시 남동구의 한 주택 마당에서 자신이 기르던 맹견을 관리하지 않아 B(여‧45)씨를 다치게 한 혐의로 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;A씨의 개는 이탈리아 견종인 ‘카네코르소’였던 것으로 파악됐다. 이 개는 근육질인 데다 힘이 좋고 빨라, 경비‧경호견으로 유명한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;B씨는 당시 A씨 집 마당에서 대문 밖으로 뛰어나온 이 개가 달려들자 바닥으로 넘어져 팔꿈치 등을 다쳤고 급성 스트레스 장애 등으로 전치 14주 진단을 받았다.&lt;br&gt;&lt;br&gt;A씨 개는 당시 목줄이 없었고, 입마개도 착용하지 않았다.&lt;br&gt;&lt;br&gt;이 판사는 “피고인은 등록대상 동물을 기르는 곳에서 벗어나지 않도록 관리해야 하는 의무를 위반했다”며 “피해자가 엄벌을 탄원하고 있는 점, 피고인이 범행을 인정하며 잘못을 반성하는 점, 재범하지 않겠다고 다짐하는 점 등을 고려했다”고 양형 이유를 설명했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“테니스가 정말 건강에 좋으냐고요? 저를 보세요”… 70대에도 1등 먹는 회장님</title>
+      <link>https://www.chosun.com/national/people/2025/01/02/WKHFPRCZANDIDGWY3HROJAN6DI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/01/02/WKHFPRCZANDIDGWY3HROJAN6DI/</guid>
+      <dc:creator>민학수 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 02 Jan 2025 01:12:48 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PXKNCCAIKFFKNCT3TSQGKWA3SM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2024년 동호인 베테랑부 랭킹 1위에 오른 성기춘 KATA 회장. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;창설 30주년을 맞은 한국테니스진흥협회(KATA)가 지난해 연 동호인 테니스 대회는 46개로 대회 기간이 200일이 넘는다. 연 5만명 넘는 인원이 KATA 주관 동호인 대회에 출전하고 신청을 받기 시작하면 10초 만에 다 마감될 정도로 인기가 높다. 연령층도 많이 젊어지고, 여성 참가자 수도 크게 늘어 남녀노소에게 모두 사랑받는다는 것을 보여준다.&lt;br&gt;&lt;br&gt;테니스의 건강 효과를 보여주는 실험이 있다. 덴마크 코펜하겐에 사는 성인 8477명을 25년간 추적 조사해 발표한 일명 ‘코펜하겐조사(2018년)’다. 테니스를 즐기는 사람들은 평균 수명보다 9.7년을 더 오래 살았고, 그다음은 배드민턴(6.2년), 축구(4.7년) 순이었다. 테니스는 순발력이 필요한 빠르게 움직이는 동작과 밸런스를 잡으며 기회를 기다리는 시간이 교차해 인터벌 트레이닝 효과가 높은데다, 동료와 서로 담소를 나누면서 소통하며 시간을 보내고, 사회적 소속감을 갖게 되면서 건강해지는 구기 종목의 효과를 고루 갖추고 있다.&lt;br&gt;&lt;br&gt;올해 75세를 맞은 ‘동호인 테니스의 전설’ 성기춘 KATA 회장은 테니스의 효과를 상징적으로 보여주는 산 증인이자 전도사다.&lt;br&gt;&lt;br&gt;그는 지난해 동호인 대회 우승 3번, 준우승 2번을 차지하며 베테랑부(55세 이상) 동호인 순위 1위로 시즌을 마쳤다. 2012년 이후 12년 만이다. 25세 이상들도 나오는 오픈부 순위로도 30위권에 해당한다. 그는 실제로 만 25세 이상 출전이 가능한 오픈부에서도 아들뻘, 손자뻘 선수들과 실력을 겨뤄 지난해 11월 충주사과배에서 우승하는 기염을 토하기도 했다. 나이 드신 ‘회장님’이라고 상대 선수들이 봐줄 것 같지만 천만의 말씀이다. 바쁜 일상에서 시간을 내 참가하는 동호인들은 프로 못지않게 경기에 전력을 다하고, 워낙 오랫동안 많은 우승을 차지한 베테랑 회장님을 이기는 것 자체가 큰 목표가 되기 때문에 다른 경기보다 더 이를 악문다고 한다.&lt;br&gt;&lt;br&gt;세월은 가도 녹슬지 않는 실력의 비결은 무엇일까? 성 회장은 “아침에 일어나 매일 20분씩 걷고 평소 쓰는 라켓보다 조금 무거운 것으로 스윙 훈련을 포핸드 150번, 백핸드 150번씩 한다. 1주일에 세 번 정도는 개인지도를 받으러 간다”고 말했다.&lt;br&gt;&lt;br&gt;그에게 테니스는 삶의 활력을 되찾아 준 청춘 스포츠다. 6·25가 발발한 1950년생인 그는 30대 초반 급성 간염으로 6개월 넘게 입원하며 사경을 헤맸다.&lt;br&gt;&lt;br&gt;그는 37세가 돼서야 처음 테니스 라켓을 잡았다. 중·고교 시절 탁구 선수로 활약한 경력 덕에 남들보다 비교적 빠르게 테니스에 적응할 수 있었지만, 더 큰 비결은 투병 후 술·담배를 일절 끊고 40년 가까이 하루도 거르지 않는 철저한 훈련과 자기 관리에 있다. 하루 8시간 이상 수면과 세끼를 꼬박꼬박 챙기는 그는 40년 전과 마찬가지로 키 170㎝, 몸무게 67㎏의 체격을 유지하고 있다. KATA 회장으로서 대회 후원을 받기 위해 전국을 뛰어다니며 많은 사람과 좋은 인연을 맺는다.&lt;br&gt;&lt;br&gt;성 회장은 “많이 걷고 뛰니 오래 사는 것 같다”며 “좋은 사람들하고 열심히 오랫동안 테니스를 치고 싶다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/YDVPTFVVKZF7RPWN3TRQR2462U.jpg?width=647&amp;height=364&amp;auth=454508e76c6adc835a1de022260caddebd432a7aa203399b4edc9cda50d53993&amp;smart=true" type="image/jpeg" height="364" width="647">
+        <media:description type="plain">2024년 동호인 베테랑부 랭킹 1위에 오른 성기춘 KATA 회장. /연합뉴스</media:description>
+        <media:credit role="author" scheme="urn:ebu"/>
+      </media:content>
+    </item>
+    <item>
+      <title>조한창·정계선 헌법재판관 취임…“권력의 자의적 지배 배격해야”</title>
+      <link>https://www.chosun.com/national/court_law/2025/01/02/KPPGCMQWPJAKXKRT7MHBMEQY54/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/01/02/KPPGCMQWPJAKXKRT7MHBMEQY54/</guid>
+      <dc:creator>박강현 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 02 Jan 2025 01:15:24 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2ITCUV5EERJBPP2QFOWKWOMDCQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;조한창(왼쪽) 및 정계선 신임 헌법재판관이 2일 오전 서울 종로구 헌법재판소에서 열린 취임식 및 시무식에서 국기에 경례하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;조한창(60·사법연수원 18기)·정계선(56·27기) 신임 헌법재판관이 2일 서울 종로구 헌법재판소 취임식에서 각각 “권력의 자의적 지배를 배격해야 한다” “난국을 수습하겠다”며 약속하고 본격적인 업무에 착수했다. 헌법재판소는 종전 ‘6인 체제’에서 ‘8인 체제’가 돼 향후 각종 심판 심리·선고를 차질 없이 진행할 수 있게 됐다.&lt;br&gt;&lt;br&gt;조 재판관은 이날 취임사에서 “정치적 영역에서 해결되어야 할 다수의 문제가 민주적 정당성을 지닌 기관들의 합의를 통해 해결되지 못한 채 사건화되는 정치의 사법화 현상 등으로 어려운 일들이 많이 늘어나고 있는 것으로 알고 있다”며 최근 잇따르는 탄핵심판 등을 언급했다. 헌재엔 현재 윤석열 대통령 및 한덕수 대통령 권한대행 국무총리 사건 등 총 10건의 탄핵심판이 계류 중이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SVJ5HQGRVJJI5EEPZA5WGT6RII.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;조한창 신임 헌법재판관이 2일 오전 서울 종로구 헌법재판소에서 열린 취임식에서 취임사를 하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이어 “대한민국 헌법이 추구하는 헌법적 가치는 권력의 자의적 지배를 배격하는 법치주의를 통해 국민의 기본적 권리를 보장하는 것이라고 생각한다”며 “편향되지 않고 오로지 ‘헌법과 법률에 의해 양심에 따라 독립해’ 재판하겠다”고 했다.&lt;br&gt;&lt;br&gt;조 재판관은 남아프리카공화국의 초대 헌법재판관 알비 삭스의 책 ‘블루 드레스’를 인용하며 “’국가가 실험대에 올랐을 때 판결을 통해 나라가 근본적으로 무엇을 위해 존재하는지 말하지 않는다면 판사로서의 소명을 다하지 못한 것이다’라는 문구를 마음에 깊이 새기겠다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CEJMBBUYJVNYJOZ53XDVFJKSMM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;정계선 신임 헌법재판관이 2일 오전 서울 종로구 헌법재판소에서 열린 취임식에서 취임사를 하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정 재판관은 “우리는 격랑 한가운데 떠있다. 헌재는 지금 연이은 초유의 사태와 사건이 파도처럼 몰려와도, 침착하게 중심을 잡고 오로지 헌법과 법률에 기대어 신속하게 헤쳐 나가야 하는 어려운 과제에 직면해 있다”며 “대한민국의 헌정질서를 수호하고 국민의 기본권을 보장해야 하는 헌재의 사명이 그 어느 때보다 무겁다”고 말했다.&lt;br&gt;&lt;br&gt;그러면서 “난국을 수습하고 희망을 찾는 위대한 여정에 동행할 수 있도록 혼신의 힘을 다하겠다”며 “최선을 다해 민주주의와 법치주의를 받치는 지혜의 한 기둥이 되고 국민의 신뢰를 받는 든든한 헌법재판소의 한 구성원이 되도록 노력하겠다”고 했다.&lt;br&gt;&lt;br&gt;정 재판관은 취임사 말미에 즉흥적으로 “재판관 3인이 임명될 줄 알고 취임사를 짧게 준비했다”며 “빨리 한 자리의 공석이 메워지길 바란다”고도 덧붙였다.&lt;br&gt;&lt;br&gt;조·정 재판관은 이날 취임식 뒤 즉시 윤 대통령 탄핵 심판을 심리 중인 전원재판부 등에 합류하고, 예정된 재판관 회의에 참석할 예정이다.&lt;br&gt;&lt;br&gt;앞서 최상목 대통령 권한대행 경제부총리는 지난달 31일 공석인 헌법재판관 3명 가운데 2명을 임명했다. 최 권한대행은 3명 가운데 야당(더불어민주당)이 추천한 정 재판관과 여당(국민의힘)이 추천한 조 재판관을 임명했지만 마은혁(야당 추천) 후보자에 대해선 여야 합의가 이뤄지지 않은 이유로 임명을 보류했다. 두 재판관의 임기는 2030년 12월 31일까지다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KRJX7G3V7BP3BEEDK6JZXX3ZY4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;정형식(오른쪽 세 번째부터), 김형두, 정계선, 문형배, 조한창, 이미선, 정정미, 김복형 헌법재판관 등이 2일 오전 서울 종로구 헌법재판소에서 열린 취임 및 시무식에서 기념 촬영을 하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;◇조한창 재판관 취임사 전문&lt;/b&gt;&lt;br&gt;&lt;br&gt;존경하고 사랑하는 헌법재판소 재판관님, 그리고 헌법재판소 가족 여러분!&lt;br&gt;&lt;br&gt;국가적으로 엄중하고 비통한 시기임에도 저를 축하하고 격려해 주시기 위해 귀중한 시간을 내어 이 자리에 참석해 주신 여러분께 깊이 감사드립니다.&lt;br&gt;&lt;br&gt;아울러 무안국제공항 사고 희생자분들의 명복을 빌며, 유가족분들께 심심한 위로의 말씀을 드립니다.&lt;br&gt;&lt;br&gt;저는 오늘 헌법재판소 재판관으로 새로운 출발을 하게 되었습니다. 영광스러운 자리이지만, 그보다는 대한민국의 현 상황에서 헌법재판소에 대한 국민들의 시대적 요구와 헌법적 가치에 따르는 책임감과 사명감으로 마음이 무겁고 두렵기까지 합니다.&lt;br&gt;&lt;br&gt;인간으로서의 천부적 권리를 확인하고 이를 부당한 권력으로부터 보호하는 과정에서 ‘헌법’이 탄생하고 발전해왔기 때문에, 저는 우리 대한민국의 헌법이 추구하는 헌법적 가치 역시 기본적으로는 권력의 자의적 지배를 배격하는 법치주의를 통해 국민의 기본적 권리를 보장하는 것이라고 생각합니다.&lt;br&gt;&lt;br&gt;우리 헌법재판소는 1988년 설립된 이래 민주주의와 법치주의를 근간으로 하여 실질적 자유와 평등을 실현하기 위한 많은 노력을 통해 헌법적 가치를 수호해 왔습니다. 그 결과 헌법재판소는 국민의 기본권을 보장하고 헌법질서를 수호하는 최후의 보루로서 국민들로부터 많은 신뢰와 사랑을 받는 기관으로 우뚝 섰습니다. 이는 선배 재판관님들을 비롯해 전·현직 헌법재판소 가족 여러분들이 묵묵히 그 사명을 다 해오셨기 때문입니다. 그 모든 분들께 경의를 표합니다.&lt;br&gt;&lt;br&gt;사회가 고도로 분화되고 발전하면서 다양한 가치관의 충돌과 갈등이 나타나고 있고, 이로 인해 국민들의 기본권 침해 역시 새로운 형태로 나타나고 있습니다. 즉, 지역·성별·세대 간 갈등뿐만 아니라 극심한 정치적·이념적 대립, 저출생과 고령화 문제, 기후위기 등으로 인한 인간으로서의 존엄과 가치가 침해되는 일들이 빈번해 지고 있습니다. 헌법재판소 역시 새로운 유형의 복잡한 사건들로 인한 심리지연이나 정치적 영역에서 해결되어야 할 다수의 문제가 민주적 정당성을 지닌 기관들의 합의를 통해 해결되지 못한 채 사건화되는 정치의 사법화 현상 등으로 어려운 일들이 많이 늘어나고 있는 것으로 알고 있습니다.&lt;br&gt;&lt;br&gt;헌법재판소 가족 여러분,&lt;br&gt;&lt;br&gt;저는 이번 인사청문회 과정에서 헌법재판관이 되면 제일 먼저 헌법재판소 경내의 백송 앞에서 재판관으로서 ‘정의’와 ‘공정’을 준수하겠다는 다짐을 하겠다고 하였습니다. 이에 더해 저는 헌법적 가치를 수호하고 국민의 기본권을 보장하며 우리 사회가 앞으로 나아갈 방향을 제시하고 사회적 공감대를 이끌어내는 것이 바로 헌법재판소가 해야 할 일이고 헌법재판관의 소명과 책무라는 각오로 앞으로 6년 동안 혼신의 노력을 다 하겠다는 약속을 하겠습니다.&lt;br&gt;&lt;br&gt;인간으로서의 존엄과 가치가 보장되어야 한다는 것이 무엇인지, 자유민주적 기본질서를 수호하고 법치주의를 통한 기본권 보장이 어떻게 실현되어야 하는지 항상 고민하겠습니다. 배려와 공감을 기본으로 시대적 요구를 반영할 수 있는 유연한 사고를 통해 우리 사회가 나아갈 방향에 대해 고민하고 미래를 위한 이정표를 제시하겠습니다. 저의 생각에만 매몰되지 않고 설득과 포용의 자세로 선배·동료 재판관님들과 많은 대화를 하겠습니다. 무엇보다도 편향되지 않고 오로지 ‘헌법과 법률에 의해 양심에 따라 독립해’ 재판하겠습니다.&lt;br&gt;&lt;br&gt;헌법재판소 재판관의 자리가 얼마나 영광스럽고 얼마나 무거운 자리인지 잘 알고 있습니다. 저에게 주어진 소임을 다 할 수 있도록 많이 배우고 노력하겠습니다. 애정어린 조언과 가르침, 부탁드립니다.&lt;br&gt;&lt;br&gt;끝으로, 오래 전에 읽은 남아프리카공화국의 초대 헌법재판관이었던 알비 삭스의 ‘블루 드레스’라는 책 중에서 “국가가 실험대에 올랐을 때 판결을 통해 나라가 근본적으로 무엇을 위해 존재하는지를 말하지 않는다면 판사로서의 소명을 다하지 못한 것이다” ”우리는 우리 자신의 판결에 책임을 져야 하고, 우리 자신의 목소리로 말하기를 두려워해서는 안된다”는 문구를 마음에 깊이 새기며 제 각오를 다시 한 번 더 굳게 다지는 것으로 취임사를 마치겠습니다.&lt;br&gt;&lt;br&gt;이러한 제 스스로의 다짐의 자리에 함께 해 주신 여러분께 다시 한 번 감사드립니다. 이 자리에 계신 모든 분들의 건강과 안녕을 기원합니다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇정계선 재판관 취임사 전문&lt;/b&gt;&lt;br&gt;&lt;br&gt;존경하는 문형배 헌법재판소장 권한대행님, 헌법재판관님, 그리고 헌법재판소 구성원 여러분!&lt;br&gt;&lt;br&gt;비통함을 금할 수 없는 상황에서, 귀한 시간을 내어 이 자리에 참석해 주셔서 진심으로 감사드립니다.&lt;br&gt;&lt;br&gt;우리는 지금 격랑 한 가운데 떠 있습니다. 연이은 초유의 사태와 사건이 파도처럼 몰려와도, 침착하게 중심을 잡고 오로지 헌법과 법률에 기대어 신속하게 헤쳐 나가야 하는 어려운 과제에 직면해 있습니다. 이익을 생각하지 않고, 잘 보고 골고루 듣고 중지를 모아 헌법이 가리키는 방향을 제시함으로써, 대한민국의 헌정질서를 수호하고 국민의 기본권을 보장해야 하는 헌법재판소의 사명이 그 어느 때보다 무겁습니다.&lt;br&gt;&lt;br&gt;저는 오늘 우여곡절 끝에 헌법재판관으로 이 자리에 서게 되었습니다. 부족한 제가 이 힘든 상황에서 소임을 다 할 수 있을까 두려움이 앞섭니다만, 이 자리에 계신 여러분이 계셔서 헤쳐 나갈 수 있으리라는 믿음을 가지고, 출발하려 합니다.&lt;br&gt;&lt;br&gt;최선을 다해 저는, 민주주의와 법치주의를 받치는 지혜의 한 기둥, 국민의 신뢰를 받는 든든한 헌법재판소의 한 구성원, 끊임없이 소통하고 도움을 주고받으면서 함께 나아가는 믿음직한 동료가 되도록 노력하겠습니다. 슬픈 난국을 수습하고 희망을 찾는 위대한 여정에 동행할 수 있도록 혼신의 힘을 다해 따라가겠습니다.&lt;br&gt;&lt;br&gt;이 자리를 빌려, 깊은 애도와 위로의 마음을 전합니다. 우리 모두에게 늘 건강과 행운이 함께 하길, 이 인사가 평범하게 들리는 일상이 하루 빨리 회복되길 기원합니다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>경찰, 무안공항·제주항공 서울 사무소 압수수색</title>
+      <link>https://www.chosun.com/national/national_general/2025/01/02/TVXZERBK2BFPHLW6BU7UP66F5A/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/02/TVXZERBK2BFPHLW6BU7UP66F5A/</guid>
+      <dc:creator>김병권 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 02 Jan 2025 01:10:39 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XIRSIJ3ARDJORSEWON6VRTGY5M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰이 탑승자 179명이 사망한 제주항공 참사와 관련해 강제 수사에 착수했다.&lt;br&gt;&lt;br&gt;전남경찰청은 이날 오전 9시부터 무안공항 사무실, 부산지방항공청 무안출장소, 제주항공 서울 사무소 등 3곳에 대해 압수수색을 진행 중이라고 2일 밝혔다.&lt;br&gt;&lt;br&gt;전남청은 사고가 난 항공기의 운행, 정비 등에 대한 자료들을 압수수색하고 있다고 한다.&lt;br&gt;&lt;br&gt;경찰의 강제수사는 참사 5일 만에 이뤄졌다. 지난달 29일 오전 9시 3분쯤 전남 무안국제공항 활주로에서는 승객과 승무원 총 181명을 태운 태국 방콕발 무안행 제주항공 7C2216편 여객기가 동체 착륙 도중 활주로를 벗어나 콘크리트 구조물과 충돌했다. 이 사고로 승무원 2명을 제외한 탑승자 179명이 모두 사망했다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “법과 원칙에 따라 신속하고 엄정하게 이번 사고의 원인과 책임을 규명할 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/YZ3CHT4ONZN2TA3XGEHQTSSEQQ.JPG?width=3205&amp;height=1926&amp;auth=86f18e51eb0b766bc6f3c5d3b749264092276877859ec3559589424084406d58&amp;smart=true" type="image/jpeg" height="1926" width="3205">
+        <media:description type="plain">(무안=뉴스1) 김진환 기자 = 1일 전남 무안국제공항 제주항공 여객기 참사 현장에 사고 여객기와 충돌로 부서진 방위각 시설(로컬라이저), 대형크레인 등이 보이고 있다. 2025.1.1/뉴스1</media:description>
+        <media:credit role="author" scheme="urn:ebu">(무안=뉴스1) 김진환 기자</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>범죄자 친부 숨겨준 혼외자… 대법 “친족 처벌 X, 혼외자 처벌 O”</title>
+      <link>https://www.chosun.com/national/court_law/2025/01/02/5OWQ2LVIRNADFBLQA52EE4YCTQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/01/02/5OWQ2LVIRNADFBLQA52EE4YCTQ/</guid>
+      <dc:creator>방극렬 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 02 Jan 2025 01:39:36 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FB4DSGH6RG2ASHLC5CJA7VU3W4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 대법원 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;범죄를 저지른 생부를 도피시킨 혼외(婚外) 자녀를 처벌할 수 있을까. 친족(親族)이나 같이 사는 가족은 범죄자인 가족을 숨겨주더라도 처벌하지 않는 형법상 ‘친족 간 특례 조항’이 적용된다. &lt;br&gt;&lt;br&gt;하지만 대법원은 이 조항을 법률상 친자가 아닌 혼외자에게는 적용할 수 없다고 판단했다. 혼외자에게는 친족 간 특례 조항이 적용되지 않는다는 첫 대법 판결이다.&lt;br&gt;&lt;br&gt;대법원 2부(주심 권영준 대법관)는 범인도피 혐의로 기소된 혼외자 A씨에게 무죄를 선고한 원심 판결을 파기하고 사건을 광주고법으로 돌려보냈다고 2일 밝혔다. &lt;br&gt;&lt;br&gt;A씨는 호남 지역 폭력 조직 국제PJ파의 부두목 B씨의 혼외자다. A씨는 2019년 7월부터 이듬해 2월까지 강도치사죄를 저지르고 도망 중인 친부 B씨에게 여러 차례 800만원 상당의 도피 자금과 숨어 지낼 장소, 대포폰 등을 제공한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;A씨의 도움으로 도망을 이어가던 B씨는 결국 붙잡힌 후 징역 15년을 선고받았다. 검찰은 A씨에게 범인도피 혐의를 적용해 기소했다.&lt;br&gt;&lt;br&gt;재판의 쟁점은 A씨에게 형법상 친족이 범죄자를 숨겨줬을 때 처벌하지 않는 특례 조항을 적용할 수 있는지였다 형법 151조 2항은 ‘친족이나 동거하는 가족이 본인을 위해 범인도피죄를 범한 때에는 처벌하지 않는다’고 규정한다. A씨와 같은 혼외자는 부친의 ‘인지’ 절차를 거쳐야 법률상 친자가 될 수 있는데, A씨는 이에 해당하지 않았다.&lt;br&gt;&lt;br&gt;1심은 A씨에게 무죄를 선고했다. A씨가 법률상 친자는 아니지만 친아들이 맞는 만큼, 생부를 숨겨준 행위에 대해 친족 간 특례 조항을 적용해야 한다는 것이다. 1심 재판부는 “서로 피를 나눈 사이에는 인간의 본성에 비춰 아무리 중한 범죄를 저지른 범인임을 알고 있더라도, 가족을 숨겨주거나 도망하는 것을 돕는 행위를 하지 않을 것을 기대할 수 없다”고 했다. 2심도 동일하게 판단했다.&lt;br&gt;&lt;br&gt;그러나 대법원은 법 조항을 임의로 유추적용해서는 안 된다며 원심을 뒤집었다. 대법원은 “입법자는 (법률상) ‘친족 또는 동거 가족’에 한해서만 처벌하지 않는다는 의사를 분명히 한 것”이라며 “생부가 인지하지 않아 법률상 친자 관계가 발생하지 않은 경우에까지 친족 간 특례 조항을 유추적용할 수는 없다”고 밝혔다. 친족과 달리 혼외자가 범죄자인 가족을 도피시킨 경우에는 처벌해야 한다는 취지다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>국토부 “유류품 200여 점 소유자 확인... 오늘 참사 유가족에 인계”</title>
+      <link>https://www.chosun.com/national/national_general/2025/01/02/E5T73ZELRZBFHMR7N7XQSYRXTQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/02/E5T73ZELRZBFHMR7N7XQSYRXTQ/</guid>
+      <dc:creator>김병권 기자, 현정민 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 02 Jan 2025 00:38:11 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LB7ORP2JDNNMTARNIIEOA5PIC4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 31일 오전 전남 무안군 무안국제공항 제주항공 여객기 참사 현장에서 특수전사령부 전문재난구조부대 대원들이 유류품 등 수색 작업을 하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;여권 등 제주항공 참사 유류품 200여 점의 소유자가 확인돼 2일 유가족에게 인계될 예정이다.&lt;br&gt;&lt;br&gt;박상우 국토교통부 장관은 이날 오전 9시 30분쯤 전남 무안국제공항 공항동 2층에서 열린 유가족 대표단 정례 브리핑에서 이같이 밝혔다.&lt;br&gt;&lt;br&gt;박 장관은 “유류품 중 일부만 소유자가 확인됐는데, 확인된 200여 점은 이미 소유자별로 분류를 마쳤다”며 “이날 오후 12시부터 직계 가족에게 먼저 유류품을 인계하는 식으로 진행할 것”이라고 했다.&lt;br&gt;&lt;br&gt;이날 유류품 인계는 여권 등 소유자가 명확히 확인된 것에 대해서만 이뤄질 것이라는 게 국토부 설명이다. 또한, 유류품이 잘못 인계될 것을 우려해 직계 가족부터 사고 현장으로 이동해 유가족이 확인 후 인수받는다고 한다.&lt;br&gt;&lt;br&gt;아직 소유자가 확인되지 않은 유류품은 경찰이 추가 조사를 통해 소유자를 확인한 이후 유가족이 찾아갈 수 있도록 한다는 게 국토부 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>갯바위에 고립됐던 10대 청소년 2명... 해경에 구조</title>
+      <link>https://www.chosun.com/national/incident/2025/01/02/2KJ536Y2VNDZJLCZ7LNDD4XSEU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/01/02/2KJ536Y2VNDZJLCZ7LNDD4XSEU/</guid>
+      <dc:creator>인천=이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 02 Jan 2025 01:16:59 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5DND6DYRIUS5LTSSTPKOCEBYOU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;인천 중구 을왕리해수욕장 인근 갯바위에 고립된 10대 청소년 2명. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천 을왕리해수욕장 인근 갯바위에 고립됐던 10대 청소년 2명이 무사히 구조됐다.&lt;br&gt;&lt;br&gt;2일 인천해양경찰서 등에 따르면 지난 1일 오후 3시 46분쯤 인천 중구 을왕리해수욕장 인근 갯바위에 A(15)군과 B(15)양이 고립됐다는 신고가 119에 접수됐다.&lt;br&gt;&lt;br&gt;해경은 소방 당국으로부터 신고 내용을 전달 받고, 고무보트를 투입해 20여분 만에 이들을 무사히 구조했다. A군과 B양은 걸어선 갯바위에 들어갔다가 불어난 밀물에 고립된 것으로 파악됐다.&lt;br&gt;&lt;br&gt;해경 관계자는 “구조된 2명 모두 건강 상태엔 문제가 없었다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>尹측 “경찰기동대 투입해 대통령 체포·수색하면 불법”</title>
+      <link>https://www.chosun.com/national/court_law/2025/01/02/KXFQACHDC5BD5PBCF6F6SUOEU4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/01/02/KXFQACHDC5BD5PBCF6F6SUOEU4/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 02 Jan 2025 01:12:57 +0000</pubDate>
+      <content:encoded>고위공직자범죄수사처(공수처)가 이르면 2일 윤석열 대통령의 체포영장을 집행할 것이라는 전망이 나오는 가운데, 윤 대통령 측이 “공수처가 경찰기동대 지원을 받아 대통령 체포 및 용산 관저 수색을 시도하려고 하나 이는 법적 근거가 없는 위법행위”라는 입장을 이날 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YNRPJ2YM4NGTBB5QEHCDSDRWZY.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;지난 1일 오후 서울 용산구 한남동 대통령 관저 인근에서 윤석열 대통령 지지자들이 윤 대통령에 대한 법원의 체포영장 발부 규탄 집회를 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤 대통령을 변호하는 윤갑근 변호사는 이날 언론 공지를 통해 “경찰기동대가 영장 집행에 나서려면 과거 검찰과 같이 공수처 검사에게 경찰 수사지휘권이 있어야 가능하다”며 “공수처법에는 공수처의 경찰에 대한 포괄적 수사지휘권을 규정하고 있지 않다”고 지적했다.&lt;br&gt;&lt;br&gt;윤 변호사는 “경찰기동대의 주 임무는 다중범죄진압, 재해경비, 혼잡경비, 대간첩작전이고, 지원 임무는 교통지도단속, 방범활동 및 각종 범죄단속, 경호경비, 기타 시도경찰청장이 필요하다고 인정하는 업무”라며 “경찰기동대는 특정한 타 수사기관의 수사지휘를 받아 강제수사 활동을 하는 것을 임무로 하지 않는다”고 했다. 공수처가 인력 지원을 요청해 경찰기동대 인력을 체포영장 집행에 투입하는 것은 경찰기동대 임무 범위를 넘어선다는 취지다.&lt;br&gt;&lt;br&gt;윤 변호사는 “체포·수색영장은 공수처 검사와 수사관이 직접 집행해야 한다”며 “경찰기동대가 이를 대신 집행하거나 집행에 밀접한 행위를 할 법적근거가 없다. 경찰기동대의 직접적인 체포 및 수색은 헌법상 영장주의와 형사소송법, 공수처법에 위반된다”고 주장했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>경기 양주 정신병원 불...227명 대피 소동</title>
+      <link>https://www.chosun.com/national/incident/2025/01/02/AENTBFL275D5NO3PFFT4IWOVUQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/01/02/AENTBFL275D5NO3PFFT4IWOVUQ/</guid>
+      <dc:creator>양주=김현수 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 02 Jan 2025 01:15:24 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3PPJMHVNIJGE3D6Z2LP6YQ73OE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 1일 불이 난 경기 양주 정신병원 1층 조리실. /경기북부소방재난본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 1일 오후 1시 40분쯤 경기 양주시 장흥면의 한 정신병원에서 불이 났다.&lt;br&gt;&lt;br&gt;이 불로 50대 여성 직원 1명이 양손에 1도 화상을 입고, 227명이 대피하는 소동이 빚어졌다. 불은 1층 직원 식당에서 조리 중 시작돼 20분 만에 꺼졌다.&lt;br&gt;&lt;br&gt;경찰과 소방당국은 정확한 화재 원인을 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>요양급여 부당 청구한 병·의원... 신고한 9명에 4억6600만원 포상금</title>
+      <link>https://www.chosun.com/national/welfare-medical/2025/01/02/UM2XMVW3KJHR3DMAJGDDXYMTSM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/01/02/UM2XMVW3KJHR3DMAJGDDXYMTSM/</guid>
+      <dc:creator>정해민 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 02 Jan 2025 00:52:29 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/F35PO6ILWFMZLEYKR5QV46AXGU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;국민건강보험공단 종로지사. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;수가(건보공단이 병원에 주는 돈)를 거짓·부당 청구한 의료 기관을 신고한 9명에게 총 4억 6600만원의 포상금이 지급된다.&lt;br&gt;&lt;br&gt;국민건강보험공단은 지난달 30일 열린 ‘2024년도 제1차 건강보험 신고 포상심의위원회’에서 요양 급여 비용을 거짓·부당 청구한 14개 요양 기관을 신고한 9명에게 총 4억 6600만원의 포상금을 지급하기로 결정했다고 2일 밝혔다.&lt;br&gt;&lt;br&gt;건보공단에 따르면, 14개 요양 기관에서 거짓·부당 청구한 것으로 적발된 금액은 총 66억 1000만원에 달한다. 포상금 최고 금액인 1억 3100만원을 받게 될 신고자는 요양 기관 관련자라고 한다. 비의료인이 의료인을 고용해 운영하는 불법 병원(사무장 병원)을 제보했다.&lt;br&gt;&lt;br&gt;해당 신고자는 치과 의사가 의사 면허를 빌려 문을 연 A 의원을 신고했다. 치과 의사는 치과 병·의원만 개설할 수 있다. A 의원은 건보공단에 수가를 총 24억 1000만원 청구해 지급 받았다.&lt;br&gt;&lt;br&gt;부당 청구 요양 기관 신고 포상금 제도는 2005년부터 시행하고 있다. 요양 기관 관련자의 경우 최고 20억원, 일반 신고인의 경우 최고 500만원까지 포상금을 받을 수 있다. 신고는 건보공단 홈페이지(www.nhis.or.kr)나 모바일 앱 ‘The건강보험’ 등을 통해 온라인으로 가능하다. 건보공단 방문이나 우편을 통해서도 신고할 수 있다. 신고인의 신분은 철저하게 보호된다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>서울시, 광역 서울사랑상품권 750억원 조기 발행</title>
+      <link>https://www.chosun.com/national/national_general/2025/01/02/KYAQLGPVZBHBNHB47C3SE5EM7E/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/02/KYAQLGPVZBHBNHB47C3SE5EM7E/</guid>
+      <dc:creator>최연진 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 02 Jan 2025 01:07:59 +0000</pubDate>
+      <content:encoded>서울시는 서울 시내 25개 자치구 어디에서나 사용할 수 있는 ‘광역 서울사랑상품권’ 750억원을 이달 8일부터 발행한다고 2일 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XT3HF3FBKAUCRITSZYUY2CZ42E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울시청 전경 /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;올해 예정액 1500억원 중 절반을 연초부터 발행하는 것이다. 서울시는 “소상공인을 지원하고 지역 경제를 활성화하기 위한 조치”라고 설명했다.&lt;br&gt;&lt;br&gt;광역 서울사랑상품권은 상품권 가맹점 어디에서나 쓸 수 있다.&lt;br&gt;&lt;br&gt;오는 8일부터 서울페이플러스(서울Pay+) 앱에서 액면가 대비 5% 할인된 금액으로 구매 가능하다. 주민등록번호 둘째 자리를 기준으로 출생 연도가 홀수면 8일 오전 10시~오후 2시, 짝수면 오후 3~7시에 살 수 있다. 동시 접속자가 몰리는 것을 막기 위해 시간대를 나눴다.&lt;br&gt;&lt;br&gt;1인당 구매 한도는 월 30만원이다. 보유 한도는 100만원이다. 구매일로부터 5년 이내에 사용하면 된다. 현금으로 산 경우 60% 이상 썼다면 잔액을 환불받을 수 있다. 신용카드로 산 경우엔 환불이 안 된다. &lt;br&gt;&lt;br&gt; &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>깨비시장 돌진 운전자, 10개월간 치매 치료약 복용 안 했다</title>
+      <link>https://www.chosun.com/national/national_general/2025/01/02/7F4MHVIYVVA7XLE2ZK5VJPOVJI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/02/7F4MHVIYVVA7XLE2ZK5VJPOVJI/</guid>
+      <dc:creator>김도연 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 02 Jan 2025 00:42:44 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TPFLMLOELRFPFBITJZ45NUP6IM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 31일 오후 70대 남성이 몰던 승용차가 서울 양천구 목동깨비시장을 덮쳤다. 이 사고로 40대 남성 1명이 사망했고 12명이 다쳤다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;사망자 1명, 부상자 12명이 발생한 지난달 31일 서울 양천구 목동깨비시장 차량 돌진 사고를 낸 운전자가 최근 9개월 동안 치매 치료 약물을 복용하지 않은 것으로 조사됐다.&lt;br&gt;&lt;br&gt;서울 양천경찰서는 교통사고처리 특례법상 치사 혐의를 받는 운전자 김모(75)씨가 최근 9개월 동안 치매 치료 약물을 복용하지 않았다고 2일 밝혔다.&lt;br&gt;&lt;br&gt;경찰에 따르면 김씨는 지난 2022년 2월 양천구 관내 보건소에서 치매 소견을 보여 치료를 권고 받았다.&lt;br&gt;&lt;br&gt;김씨가 서울 소재 병원에서 치매 진단을 받은 것은 권고를 받은 지 1년 넘게 지난 2023년 11월이었다. 김씨는 진단을 받은 후 3개월 간 치매 약물을 복용했다.&lt;br&gt;&lt;br&gt;하지만 김씨는 약이 떨어진 지난해 2월 이후에는 가족들의 권유에도 불구하고 약을 복용하지 않은 것으로 조사됐다.&lt;br&gt;&lt;br&gt;경찰은 김씨의 사고 차량을 압수하고 김씨의 1종 보통 면허를 취소하는 절차를 밟고 있다. 경찰 관계자는 “김씨에 대한 정신 감정 의뢰 계획은 현재까지 없다”고 했다.&lt;br&gt;&lt;br&gt;김씨는 지난달 31일 승용차를 몰고 서울 양천구 양동중학교에서 목동 깨비시장 방면으로 직진하다 버스를 앞질러 가속해 그대로 시장으로 돌진했다. 경찰은 이날 교통사고처리 특례법상 치사 혐의로 김씨를 입건했다.&lt;br&gt;&lt;br&gt;김씨는 “차를 오랫동안 주차장에 세워놔 방전이 걱정돼 오랜만에 끌고 나왔다”고 진술한 것으로 조사됐다. 경찰은 차량의 후미 브레이크 등이 정상 작동한 것으로 파악하고 사고 원인으로 차 결함보다는 운전자 과실에 무게를 두고 있는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>'월세 1만원' 동작구 신혼부부 임대주택 입주자 발표…이달 중 입주 예정</title>
+      <link>https://www.chosun.com/national/national_general/2025/01/02/JA6QBPC3UNFWFGHWGBI577DXWM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/02/JA6QBPC3UNFWFGHWGBI577DXWM/</guid>
+      <dc:creator>김영우 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 02 Jan 2025 00:43:21 +0000</pubDate>
+      <content:encoded>서울 동작구가 월세 1만원에 살 수 있는 신혼부부 임대주택의 최종 입주자를 선정해 지난달 27일 발표했다고 2일 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/O5QCRADZRLTPGZG54LS3WOAAT4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;동작구청 전경. /동작구&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;동작구는 앞서 지난해 10월 중위소득 120% 이하인 19~39세 무주택 신혼부부를 대상으로 임대주택 입주자를 모집했다. 노량진동, 상도동, 흑성동, 사당동 등 동작구 내 주택 7곳의 임대인과 동작구가 전세 계약을 맺고 입주자로 선정된 신혼부부에게 재임대하는 방식이다. 동작구 관계자는 “7가구 모집에 100여 명이 몰려 경쟁률이 14대1을 넘어설 정도로 관심이 많았다”고 했다.&lt;br&gt;&lt;br&gt;이번에 입주자로 선정된 신혼부부는 최장 4년까지 이곳에 입주해 살 수 있다. 보증금은 입주하게 될 집의 원래 전세 보증금의 5%이고, 월세는 1만원이다. 동작구가 이달 중 입주자에게 주택을 선보이고 계약을 맺으면, 신혼부부들이 본격적인 입주에 들어갈 예정이다.&lt;br&gt;&lt;br&gt;동작구는 작년 4월 상도동에 청년 임대주택을 마련해 월평균 소득 50% 이하인 무주택 청년들이 월세 1만원에 살 수 있게 하고 있다. 이번 신혼부부 임대주택은 청년 임대주택에 이은 2번째 ‘월세 1만원 주택’이다.&lt;br&gt;&lt;br&gt;박일하 동작구청장은 “앞으로도 청년들이 머물고 싶은 동작구를 만들기 위해 다방면으로 지원을 아끼지 않겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>소방당국 “생존자 2명은 남녀 승무원...꼬리 부분서 구조돼”</title>
+      <link>https://www.chosun.com/national/regional/2024/12/29/NMRRVR6UINDLPAQP6OZJYMBXOI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2024/12/29/NMRRVR6UINDLPAQP6OZJYMBXOI/</guid>
+      <dc:creator>오재용 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 29 Dec 2024 04:05:32 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3GJ7OYFNYJFANFGFWRAFEPNI7I.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;29일 전남 무안국제공항에서 승객과 승무원 181명이 탑승한 여객기가 추락해 불길이 치솟고 있다. /무안소방서&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;소방청은 29일 무안공항 제주여객기 사고에서 구조된 2명은 남자(22) 승무원과 여자(25) 승무원이라고 밝혔다.&lt;br&gt;&lt;br&gt;이들은 항공기 꼬리부분에서 구조된 것으로 알려졌다. 남자 승무원은 현재 목포한국병원에 입원중이나 가족 뜻에 따라 서울 이대병원으로 이송될 예정이다. 또 여성 승무원은 목포중앙병원으로 이송된 상태다. 이들은 생명에는 지장이 없는 상태로, 중경상을 입은 것으로 알려졌다.&lt;br&gt;&lt;br&gt;여객기 사고가 난 항공기 기체 밖, 기체 내 등 3개 구역으로 나눠 실종자 수색 중이라고 29일 밝혔다.&lt;br&gt;&lt;br&gt;소방 관계자는 “승객들이 충돌 충격에 의해 활주로 부분으로 이탈해 시신 훼손이 심각한 상태”라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/XCHHU4BE5RNW7JO2RXA5MEMGYU.jpg?width=4428&amp;height=2911&amp;auth=e2c6b847f66c0111b1fcb5a678c96a6820f035363199725b53cba3af0c82bb79&amp;smart=true" type="image/jpeg" height="2911" width="4428">
+        <media:description type="plain">&lt;YONHAP PHOTO-1925&gt; 이대서울병원으로 이송되는 무안 제주항공 참사 생존 승무원
+    (서울=연합뉴스) 이정훈 기자 = 무안 제주항공 참사 생존 승무원 이모씨가 29일 서울 강서구 이대서울병원으로 이송되고 있다. 2024.12.29 
+    uwg806@yna.co.kr/2024-12-29 16:21:46/
+&lt;저작권자 ⓒ 1980-2024 ㈜연합뉴스. 무단 전재 재배포 금지, AI 학습 및 활용 금지&gt;</media:description>
+        <media:credit role="author" scheme="urn:ebu">이정훈</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>경기 군포 아파트 13층서 화재...주민 1명 심정지</title>
+      <link>https://www.chosun.com/national/regional/2025/01/02/3TI2HKX275A7VG6QQ4MWERMYZA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/01/02/3TI2HKX275A7VG6QQ4MWERMYZA/</guid>
+      <dc:creator>군포=권상은 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 01 Jan 2025 23:33:15 +0000</pubDate>
+      <content:encoded>&lt;br/&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7BBN2UKUENHVZGEIS6JXS4FJVE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2일 새벽 화재가 발생한 경기 군포시 아파트 현장. /경기도소방재난본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2일 오전 5시 15분쯤 경기도 군포시 금정동의 26층 아파트 13층에서 불이 났다.&lt;br&gt;&lt;br&gt;아파트에 연기가 보인다는 신고를 받고 출동한 소방당국은 인력 120명, 장비 41대를 투입해 오전 6시5분쯤 불을 모두 껐다.&lt;br&gt;&lt;br&gt;소방당국은 불이 난 가구에서 거주하던 50대 여성이 전신 화상을 입고 심정지 상태로 쓰러져 있던 것을 발견해 병원으로 옮겼다. 또 13·14층 거주자 3명도 연기를 흡입해 병원으로 이송됐다.&lt;br&gt;&lt;br&gt;경찰과 소방당국은 화재 원인을 조사하고 있다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>“尹영장 판사, 자의적으로 법 적용 막아… 전형적 사법 과잉”</title>
       <link>https://www.chosun.com/national/court_law/2025/01/02/IPABFJGPEVCYHEI6KCITVIVCW4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/01/02/IPABFJGPEVCYHEI6KCITVIVCW4/</guid>
@@ -708,18 +927,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FFVXXRZKLVZZZKUOSRYWGEPVKA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;31일 오후 서울 양천구 목동깨비시장에서 차량 사고가 발생해 과일 가게 직원 40대 남성이 사망하고 12명이 부상했다.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;31일 서울 양천구 목동깨비시장에서 발생한 차량 사고로 의식을 잃고 중태에 빠졌던 40대 남성 A씨가 결국 사망했다. A씨는 시장에 있던 과일 가게에서 일하던 직원이다.&lt;br&gt;&lt;br&gt;서울 양천경찰서는 이날 발생한 차량 사고로 인근 대학병원에서 치료를 받던 A씨가 오후 9시 46분쯤 사망 판정을 받았다고 밝혔다. 피해자가 사망함으로써 사고를 낸 운전자 김모(74)씨는 교통사고처리 특례법 위반(치사) 혐의로 경찰에 입건됐다.&lt;br&gt;&lt;br&gt;시장 상인들은 A씨를 “아침 8시쯤 출근해 저녁 9시쯤 퇴근하며 주인처럼 성실하게 일하기로 정평이 난 사람”이라고 했다. 인근 상인 김모(51)씨는 “손님 한 명이라도 더 잡으려 시장이 다 울릴 정도로 열심히 ‘과일 사라’고 외쳤는데, 그 목소리가 아직도 쟁쟁하다”고 했다. 그와 함께 10년 가량 함께 일한 과일 가게 업주는 “월급날이었는데 오늘따라 손님이 몰려 저녁 중 줘야겠다고 미뤘는데 이렇게 가버렸다”며 눈시울을 붉혔다.&lt;br&gt;&lt;br&gt;이날 오후 3시 53분쯤 서울 양천구 목동깨비시장에 김씨가 운전하던 검은색 에쿠스 차량이 행인과 상점 등을 덮쳐 13명이 사상했다. 1명은 사망하고 3명은 중상을, 9명은 경상을 입었다. 김씨가 운전하던 검은색 에쿠스 차량은 깨비시장 후문 사거리에서 앞서가던 버스를 앞지르다 가속해 시장 내부로 돌진, 약 40m를 질주했다.&lt;br&gt;&lt;br&gt;김씨는 경찰 조사에서 “급발진은 없었으며, 차를 오랫동안 주차장에 세워놨던 터라 방전이 걱정돼 오랜만에 끌고 나왔다가 사고가 났다”고 진술했다. “앞서 가던 차량을 피해 가속하던 중 시장 가판대 앞에서 브레이크를 밟았는데 이후론 잘 기억이 안 난다”고도 말했다. 경찰은 확보한 CC(폐쇄회로)TV 영상을 토대로 정확한 사고 원인을 조사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>콘크리트로 된 둔덕…규정엔 “항공기 손상 최소한으로 설치”</title>
-      <link>https://www.chosun.com/national/national_general/2024/12/30/7S2FM54PDJD7BL7DRLBJKF5PDA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/30/7S2FM54PDJD7BL7DRLBJKF5PDA/</guid>
-      <dc:creator>안준현 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 30 Dec 2024 07:15:10 +0000</pubDate>
-      <content:encoded>181명 중 179명의 목숨을 앗아간 제주항공 무안공항 참사의 피해규모가 이토록 커진 데에는 다양한 원인이 있지만 단단한 콘크리트 구조의 로컬라이저(착륙 유도 안전시설)를 무시할 수 없다는 분석이 나오고 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/H7S7C6PGMRH6XIP5HMSECLPDFM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;30일 오후 전북 무안국제공항에서 제주항공 7C2216편 항공기가 동체 착륙을 시도하던 중 활주로 끝 콘크리트 둔덕과 충돌하면서 181명 탑승객 가운데 179명이 사망했다. 관계자들이 둔덕을 조사하고 있다. / 장련성 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국토교통부는 해외 언론과 전문가들의 “콘크리트 둔덕이 사고 규모를 키웠다”는 주장에 대해 30일 아침 브리핑부터 오후 브리핑까지 “파악 중”이라는 말만 되풀이했다. 그러나 국토교통부예규 항공장애물 관리세부지침에는 로컬라이저 설치에 관한 규정이 있었다. 예규란 관청에서 내부의 사무에 관한 기준을 보이기 위해 정한 규칙이다.&lt;br&gt;&lt;br&gt;국토교통부예규 항공장애물 관리세부지침 제25조에 따르면, 로컬라이저 안테나 등 장애물이 될 수 있는 공항장비와 설치물의 종류는 항공기가 충돌했을 때 최소한의 손상만을 입히도록 돼있다. 즉 평상시에는 구조적 통합성·견고성을 유지하되, 그 이상의 충격이 가해지면 항공기에 최소한의 위험만을 가하게끔 해야 한다는 것이다.&lt;br&gt;&lt;br&gt;그러나 국토교통부는 30일 아침부터 오후 브리핑에서도 로컬라이저 관련한 설치 규정을 묻는 질문에 “저희가 사실은 지금 근거 규정이나 해외 어떤 내용들을 파악 중에 있고, 파악이 되는 대로 자료를 제공하겠다”는 말만 되풀이했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OSVM3J5K3BDVBG6LMD4I6T3W4U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;30일 오후 전북 무안국제공항에서 제주항공 7C2216편 항공기가 동체 착륙을 시도하던 중 활주로 끝 콘크리트 둔덕과 충돌하면서 181명 탑승객 가운데 179명이 사망했다. 한 소방관이 항공기 주변을 수색하고 있다. / 장련성 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;또, 무안공항의 로컬라이저 위치는 국내 다른 주요 공항과 비교해서도 유독 짧다는 분석도 있다. 본지가 국내 주요 공항들의 활주로 끝과 로컬라이저 사이의 거리를 비교한 결과, 인천공항은 활주로 4개에 설치된 로컬라이저와 활주로 끝 간 거리가 290~300m 정도, 김포공항은 310여 m로 분석됐다.&lt;br&gt;&lt;br&gt;제주와 김해·청주·대구·양양 등 그 외 국제공항도 모두 300m 이상으로 기록됐지만 무안공항은 251m에 불과하다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/H7S7C6PGMRH6XIP5HMSECLPDFM.jpg?width=4104&amp;height=2736&amp;auth=7bc993f0532666929e950790ac3dd5072fc9d2beb9fb861739ca978ab0c5fbbc&amp;smart=true" type="image/jpeg" height="2736" width="4104">
-        <media:description type="plain">2024년 12월 30일 오후 전북 무안국제공항에서 제주항공 7C2216편 항공기가 동체 착륙을 시도하던 중 활주로 끝 콘크리트 둔덕과 충돌하면서 181명 탑승객 가운데 179명이 사망했다. 관계자들이 둔덕을 조사하고 있다. / 장련성 기자</media:description>
-      </media:content>
-    </item>
-    <item>
       <title>“외로운 사투, 넌 이미 훌륭했어” 기장 형이 남긴 손편지 </title>
       <link>https://www.chosun.com/national/national_general/2024/12/31/FTKTID2LXVBHFDEEYBLCBN2LS4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/31/FTKTID2LXVBHFDEEYBLCBN2LS4/</guid>
@@ -732,15 +939,6 @@
       </media:content>
     </item>
     <item>
-      <title>이범호 감독도 양현종도 조문...KIA선수단 80명, 동료에 마지막 인사</title>
-      <link>https://www.chosun.com/national/national_general/2024/12/31/VB5IVQWCAZDKRLWO5TEG7OPPM4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/31/VB5IVQWCAZDKRLWO5TEG7OPPM4/</guid>
-      <dc:creator>정아임 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 31 Dec 2024 13:28:32 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YFAE6JTAVBLUHJTPMKJMU6CVQY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;31일 오후 프로야구 기아 타이거즈 임직원과 선수단이 광주 동구 5·18민주광장에 마련된 제주항공 참사 합동분향소를 찾아 희생자를 추모하고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;무안국제공항 제주항공 여객기 참사로 기아타이거즈 홍보팀에서 일하던 A(43)씨가 세상을 떠난 가운데, 구단 임직원과 선수단이 광주 동구 합동분향소를 찾아 희생자들을 추모했다.&lt;br&gt;&lt;br&gt;31일 최준영 기아타이거즈 대표이사와 심재학 단장, 이범호 감독, 양현종 선수 등 80여 명이 5·18 민주광장에 마련된 분향소를 찾아 희생자들을 애도했다. 이들은 10여 분간의 묵념 후 분향소를 떠난 것으로 전해졌다. &lt;br&gt;&lt;br&gt;지난 29일 전남 무안군 무안국제공항에서 발생한 제주항공 여객기 참사로 희생된 179명 중 기아타이거즈 홍보팀 소속 팀장인 A씨와 아내 B(37)씨, 세 살배기 아들이 포함된 것으로 알려졌다. 이들은 함께 첫 해외여행을 떠났다가 돌아오는 길에 사고를 당한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;A씨의 부고 소식을 접한 기아타이거즈 내야수 김선빈 선수는 지난 30일 자신의 인스타그램에 “십여 년 넘게 함께한 나의 듬직한 동료이자 언제나 믿고 의지할 수 있었던 형. 하늘에서 형수랑 아들과 걱정 없이 행복한 시간 보내고 있어”라며 “다음 생애가 있다면 그때도 좋은 인연으로 만나 못다 한 약속 꼭 지키자”라고 글을 남겼다.&lt;br&gt;&lt;br&gt;기아 타이거즈도 공식 홈페이지와 인스타그램을 통해 “사고 희생자 분들께 깊은 조의를 표한다. 사고 희생자를 추모하며 유가족분들께 온 마음을 다해 깊은 위로와 애도를 표한다. 삼가 고인의 명복을 빈다”며 애도했다.&lt;br&gt;&lt;br&gt;정부는 내년 1월 4일까지 국가애도기간으로 정하고 서울, 세종 등 전국 17개 시도와 무안국제공항 사고 현장에 합동분향소를 설치했다. 분향소에는 시민 누구나 찾아 조문할 수 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>70대 운전 승용차, 시장 골목 40m 돌진... 상인 등 13명 다쳤다</title>
       <link>https://www.chosun.com/national/incident/2024/12/31/W7YTTUYNOZAULNWVRCAPVJFE5A/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/12/31/W7YTTUYNOZAULNWVRCAPVJFE5A/</guid>
@@ -750,94 +948,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4AYI72ZIB5LDFLGSM7B4FGVQUY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;31일 오후 4시18분께 서울 양천구 목동 깨비시장에서 70대 남성이 모는 승용차가 돌진해 다수의 부상자가 발생했다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;70대 남성이 몰던 승용차가 재래시장 골목에 돌진, 13명이 다치는 사고가 발생했다. 31일 오후 3시 53분쯤 서울 양천구 목동깨비시장에서 김모(74)씨가 운전하던 검은색 에쿠스 차량이 행인과 상점 등을 덮쳐 4명이 중상을 입고 9명이 경상을 당했다. 40대 중상자는 의식을 잃고 중태에 빠졌다. 김씨는 경찰 조사에서 “급발진은 아니었다”고 진술했다. 이날 현장에서 만난 시민들은 “계엄 사태에 비행기 참사까지 겹쳐 가뜩이나 침통한 연말인데 이런 사고까지 발생하다니 믿을 수가 없다”고 했다.&lt;br&gt;&lt;br&gt;사고 직후 119엔 “시장에서 차량이 사람을 치고 갔다” “인명 피해가 많을 것 같다”는 다급한 신고가 빗발쳤다. 소방은 현장에 차량 20여 대, 인력 60여 명을 투입했다. 경찰·소방 조사와 목격자 진술을 종합하면, 이날 오후 운전자 김씨가 운전하던 검은색 에쿠스 차량은 깨비시장 후문 사거리에서 앞서가던 버스를 앞지르다 가속해 시장 내부로 돌진, 약 40m를 질주했다.&lt;br&gt;&lt;br&gt;이 사고로 시장 과일 가게 직원과 견과류 상인, 장을 보던 시민들이 사고를 당했다. 사고 당시 모습이 담긴 폐쇄회로(CC)TV 영상을 보면 차량이 쏜살같이 지나가고, 시장은 수 초만에 아수라장이 된다. 이날 본지 기자가 찾은 시장 바닥에는 과일 상자가 널브러져 있었고, 딸기·귤 등 과일 수백 개가 바닥에 으깨져 있었다. 여기저기 산산조각 난 플라스틱 박스도 나뒹굴고 있었다.&lt;br&gt;&lt;br&gt;최초 신고자 황연도(33)씨는 “펑 하는 소리가 나고 과일들이 길바닥에 나뒹굴길래 가게 밖으로 나가봤더니 골목 입구에 있던 과일 가게 직원이 30m 떨어진 정육점 앞까지 날아가 있더라”고 했다. 당시 거리를 지나던 한 여성은 “제가 간호사예요”라고 말하고 응급 처치를 했다고 한다.&lt;br&gt;&lt;br&gt;반찬 가게를 운영 중인 김강래(47)씨는 “차에 치인 사람이 바닥에 쓰러지고, 온 바닥이 피로 뒤덮이는 등 시장은 삽시간에 아비규환이 됐다”고 말했다. 황모(54)씨는 신발에 묻은 피를 닦으며 “가게 앞에 신발을 진열해 뒀던 게 다 쏟아져 급하게 나와봤더니 사람이 숨도 못 쉬고 길거리에 쓰러져 있어 내가 급하게 응급 처치를 했다”고 했다.&lt;br&gt;&lt;br&gt;건어물 가게 업주 안영규(66)씨는 “시장 골목에 머리 부상을 입은 사람들이 흩어져 있어 우리 상인들은 차마 비명도 못 지르고 있었다”며 “운전자도 놀랐는지 시동도 안 끄고 있길래 상인들이 나서서 빨리 시동 끄라고 말했다”고 했다. 이불 가게 업주 윤재선(57)씨도 “사고가 난 후 약 6분 가까이 운전자가 밖으로 나오지 않았고, 행인들이 나오라 해도 나오지 않다가 경찰이 부르니 나오더라”며 “자신이 저지른 일을 믿을 수 없어 하는 것 같았다”고 했다.&lt;br&gt;&lt;br&gt;함께 일하던 동료와 이웃이 변을 당하자 상인들은 충격에 휩싸였다. 과일 가게 직원인 남성 B씨와 견과류 가게를 운영하던 여성 C씨가 골목 근처에서 일을 하다 변을 당했다고 한다. B씨와 10년 동안 함께 일했다는 업주는 B씨가 이송된 병원에서 걸려 온 전화를 받으며 “못 깨어났대. 어떡해”라며 오열했다.&lt;br&gt;&lt;br&gt;B씨가 근무하던 과일 가게 단골이라는 한 60대 여성은 “사고 30분 전에 언니(C씨)와 새해 복 많이 받으라고 가게 앞에서 인사를 나눴는데 어떻게 이런 일이 있을 수 있느냐”며 “평소엔 가게 안에 들어가서 일하더니 왜 그때 길거리에 나와서…”라며 말을 잇지 못했다. 떡집을 운영하는 김정애(50)씨는 “차가 지나가며 매대에 있던 떡 상자가 땅으로 떨어졌다. 가게 앞에 손님이 서 있었다면 분명 차에 치였을 텐데 아찔했다”며 “바로 옆집에서 장사하던 동료가 사고를 당해 마음이 안 좋다”고 했다.&lt;br&gt;&lt;br&gt;서울 양천경찰서는 이날 운전자 김씨를 교통사고처리특례법 위반(치상) 혐의로 입건, 정확한 사고 경위를 조사 중이다. 사고 당시 김씨가 음주를 하거나 약물 복용 상태는 아니었던 것으로 조사됐다. 김씨는 경찰 조사에서 “급발진은 없었으며, 차를 오랫동안 주차장에 세워놨던 터라 방전이 걱정돼 오랜만에 끌고 나왔다가 사고가 났다”고 진술했다. “앞서 가던 차량을 피해 가속하던 중 시장 가판대 앞에서 브레이크를 밟았는데 이후론 잘 기억이 안 난다”고도 말했다. 경찰은 CCTV 영상을 토대로 정확한 사고 원인을 조사 중이다.&lt;br&gt;&lt;br&gt;지난해 7월 시청역 참사가 발생한 지 5개월 만에 고령 운전자 교통사고가 발생하자 고령자 운전에 대한 경각심을 고취해야 한다는 지적도 나온다. 도로교통공단 통계를 보면 만 65세 이상 노인 운전자가 낸 교통사고는 해마다 증가하고 있다. 2020년 3만1072건에서 2023년 3만9614건으로 3년 새 27.5%(8542건) 증가했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>흥국생명 본사서 화재 오인 신고 “옥상 수증기로 확인돼 철수”</title>
-      <link>https://www.chosun.com/national/national_general/2024/12/31/HFYQC3T625DK3D3WY6LWK5JUKI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/31/HFYQC3T625DK3D3WY6LWK5JUKI/</guid>
-      <dc:creator>김병권 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 31 Dec 2024 11:19:28 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NITHJNURIZKY7PU5QID72WYH24.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 종로구 흥국생명 본사 모습. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 종로구에 위치한 흥국생명 본사 건물에서 화재 발생 신고가 접수돼 소방당국이 출동했으나 결국 오인 신고로 드러나 철수했다. 이는 한 시민이 해당 건물 옥상에 있던 항온항습기에서 발생한 수증기를 화재 연기로 오인해 신고한 것이라고 한다.&lt;br&gt;&lt;br&gt;종로소방서에 따르면, 이날 오후 8시 7분쯤 흥국생명 건물에서 불이 났다는 신고가 접수됐다. 소방당국은 신고 6분 만인 오후 8시 13분쯤 현장에 도착했고, 현장 조사를 거쳐 “화재가 아닌 옥상 수증기”라는 결론을 내렸다고 한다. 소방당국은 이후 현장에서 철수했다.&lt;br&gt;&lt;br&gt;종로소방서 관계자는 “도심 고층 빌딩에서 화재가 발생했다는 신고가 접수돼 차량 21대, 인원 75명을 출동시켰으나 결국 오인 신고로 드러났다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>7080 추억의 교외선, 20년 만에 경기북부 가로지른다</title>
-      <link>https://www.chosun.com/national/national_general/2024/12/31/FACWRMBWTRFLRM3TNSGLLOIC54/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/31/FACWRMBWTRFLRM3TNSGLLOIC54/</guid>
-      <dc:creator>고양=김현수 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 31 Dec 2024 11:37:36 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OLLL4Q3WPVBNDO5IHWPRRHVK3M.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=이철원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 고양~의정부를 잇는 교외선 철도가 20년 만에 재개통한다.&lt;br&gt;&lt;br&gt;경기도는 오는 11일 오전 6시부터 교외선 운행을 시작한다고 31일 밝혔다. 당초 12월 28일 개통할 예정이었으나 12월 초 철도 파업 여파로 2주가량 지연됐다.&lt;br&gt;&lt;br&gt;교외선은 1963년 개통한 길이 30.3㎞ 수도권 철도다. 1970~80년대 교외선이 통과하는 양주 장흥 등이 나들이·MT(엠티) 명소로 인기를 끌면서 주말마다 붐볐다. 당시에는 통일호 열차가 달렸다. 이후 도로망이 확충되면서 적자가 쌓였고 2004년 운행을 중단했다.&lt;br&gt;&lt;br&gt;20년 만에 재개통하는 교외선은 정차 역을 12개에서 6개로 줄인다. 대곡역·원릉역·일영역·장흥역·송추역·의정부역만 운영한다. 원릉역·장흥역·송추역은 역무원이 근무하지 않는 무인역으로 운영할 예정이다.&lt;br&gt;&lt;br&gt;여기에 객차 2량짜리 무궁화호 디젤 열차를 하루에 20회 운행한다. 승차 정원은 136명이다.&lt;br&gt;&lt;br&gt;요금은 전 구간 2600원이다. 개통 후 한 달간은 1000원에 탈 수 있다.&lt;br&gt;&lt;br&gt;경기도 관계자는 “지금은 고양에서 의정부까지 버스로 1시간 30분 정도 걸리는데 교외선을 이용하면 50분이면 갈 수 있게 된다”며 “교외선을 타고 출퇴근하는 시민도 많을 것”이라고 했다. 양주·의정부 등 경기 북부 지역의 경제가 활성화하는 효과도 기대하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“넌 이미 훌륭했어” 유족의 손편지</title>
-      <link>https://www.chosun.com/national/national_general/2024/12/31/PEFYRW3HFNCN5GMSKACHMWDXMY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/31/PEFYRW3HFNCN5GMSKACHMWDXMY/</guid>
-      <dc:creator>김도연 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 31 Dec 2024 10:15:19 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SVFWD767HJIZFOVEU4XC6MITRY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;31일 전남 무안군 무안국제공항 제주항공 여객기 참사 현장에 기장의 가족이 쓴 것으로 추정되는 추모 메시지가 붙어 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“너는 이미 너무나 훌륭했어”&lt;br&gt;&lt;br&gt;제주항공 참사가 벌어진 지 사흘째 되던 31일, 전남 무안국제공항 철조망에는 이 문구가 담긴 편지가 붙어 있었다. 이번 참사 희생자의 유족이 쓴 편지였다.&lt;br&gt;&lt;br&gt;“우리 왔다”로 시작하는 이 편지에는 “외로이 사투를 벌였을 것을 생각하니 마음이 너무 아프다”며 “너는 이미 너무나 훌륭했고 충분히 잘했으니 이젠 따뜻한 곳에서 행복했음 좋겠다”고 적혀 있었다.&lt;br&gt;&lt;br&gt;이어 “고마웠고 그리고 미안하다”는 말이 담겼고 ‘형’이라는 한 글자가 편지의 끝을 맺었다. 편지 앞에는 김밥과 과자 등이 놓여 있었다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KE4UEI3VXRI7FOVLUYL2TNSS7Q.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;31일 오후 179명이 사망한 제주항공 여객기 참사 사고현장 인근인 무안국제공항 철조망에 추모쪽지가 붙어 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이 외에도 사고 지점 인근의 철조망에는 술과 음료, 빵, 핫팩 등이 놓여 있었다. 유족과 추모객들이 희생자를 애도하며 놓고 간 물품들이었다.&lt;br&gt;&lt;br&gt;철조망에는 추모객들이 희생자에게 남긴 편지들이 여럿 붙어 있었다. 한 추모객은 “살리고자 최선을 다하셨을 기장님, 부기장님 그리고 승무원들. 너무 정말 감사합니다”라며 “좋은 곳 가셔서 편하게 영면하시길 바랍니다”라는 내용의 편지를 남기고 갔다.&lt;br&gt;&lt;br&gt;항공 관련 직종에 종사하는 이들이 남기고 간 편지도 있었다. ‘한국교통대학교 비행훈련원 정비팀 일동’이라고 밝힌 작성자는 “안타까운 죽음, 평생 기억하겠습니다”라며 “좋은 곳에서 편안히 쉬길 기도하겠습니다”라고 적었다. 그 옆에는 하얀 국화 두 송이가 놓여 있었다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7QXFLWVGGVN3NLQX6WZLWDK7CI.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;31일 오후 179명이 사망한 제주항공 여객기 참사 사고현장 인근인 무안국제공항 철조망에 추모쪽지가 붙어 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/KMGL6XC6BRBPFJWDXN74CGNZOI.jpg?width=3494&amp;height=1966&amp;auth=bae7baf44ef5752fa3154b375808079f11b5f24c6ff9cf244e7d5afe58f5e717&amp;smart=true" type="image/jpeg" height="1966" width="3494">
-        <media:description type="plain"> 참사 현장에 붙은 손편지
-    (무안=연합뉴스) 김성민 기자 = 31일 전남 무안군 무안국제공항 제주항공 여객기 참사 현장에 기장의 가족이 쓴 것으로 추정되는 추모 메시지가 붙어 있다. 해당 메시지에는 '외로이 사투를 벌였을 것을 생각하니 마음이 너무 아프다. 너는 이미 너무나 훌륭했고 충분히 잘했으니 이젠 따뜻한 곳에서 행복했으면 좋겠다. 고마웠고 미안하다. 형이…'라고 적혀 있다. 2024.12.31
-    ksm7976@yna.co.kr/2024-12-31 18:01:06/
-&amp;lt;저작권자 ⓒ 1980-2024 ㈜연합뉴스. 무단 전재 재배포 금지, AI 학습 및 활용 금지&amp;gt;</media:description>
-        <media:credit role="author" scheme="urn:ebu">김성민</media:credit>
-      </media:content>
-    </item>
-    <item>
-      <title>검찰 특수본, ‘계엄 국무회의 참석’ 송미령 농식품장관 참고인 조사</title>
-      <link>https://www.chosun.com/national/court_law/2024/12/31/TQLOOD4MY5DC3M5OL62BJ5TAGM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/31/TQLOOD4MY5DC3M5OL62BJ5TAGM/</guid>
-      <dc:creator>이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 31 Dec 2024 11:16:52 +0000</pubDate>
-      <content:encoded>‘12·3 비상계엄’ 사태를 수사하는 검찰 특별수사본부(본부장 박세현 서울고검장)가 계엄 선포 전후 국무회의에 참석한 송미령 농림축산식품부 장관을 최근 참고인 신분으로 소환해 조사한 것으로 31일 알려졌다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VITHMABG45O7HFV6TBADS37B64.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;송미령 농림축산식품부 장관이 지난 19일 오전 서울 종로구 정부서울청사에서 열린 양곡관리법 개정안에 대한 재의요구권(거부권) 행사와 관련 브리핑을 마친 후 인사하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;송 장관은 비상계엄 선포 전 5분 동안 열린 국무회의에 참석한 국무위원 11명 중 한 명이다. 이와 관련, 송 장관은 지난 6일 정부세종청사에서 취재진과 만나 “국민께 송구하다”는 입장을 밝혔었다. 계엄을 선포하기 위한 국무회의인 줄 알지 못했고, 알았다면 참석하지 않았을 것이라는 것이다. 그러면서 윤석열 대통령의 계엄 선포에 대해 “혼란스러웠고 아주 깊이 우려했으며, 동의한 적은 없다”며 “찬성이냐, 반대냐를 묻는 자리는 아니었다”고 했다.&lt;br&gt;&lt;br&gt;송 장관은 계엄 선포 당일 이상민 행안장관과 함께 울산에서 중앙지방정책협의회에 참석했다. 이후 오후 9시 30분쯤 김포공항에 내려 대통령실 연락을 받고 오후 10시 10분쯤 국무회의 도중에 참석했다는 것이다. 송 장관은 지난 4일 새벽 열린 계엄 해제 국무회의에도 참석했다.&lt;br&gt;&lt;br&gt;계엄 선포 당시 국무회의에는 윤석열 대통령과 한덕수 국무총리, 최상목 부총리 겸 기획재정부 장관을 비롯해 김영호 통일장관과 조태열 외교부 장관, 박성재 법무부 장관, 김용현 전 국방부 장관, 이상민 전 행정안전부 장관, 조규홍 보건복지부 장관, 오영주 중소벤처기업부 장관 등이 참석했다. 검찰 특수본은 지난 12일 조규홍 장관을 시작으로 19일 김영호 장관, 20일 최상목 부총리, 21일 박상우 장관, 22일 조태용 국정원장을 조사했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>새해 첫날 선명한 일출... 지역별  해돋이 시간은</title>
-      <link>https://www.chosun.com/national/transport-environment/2024/12/31/R2H6QWWB3JAEZOSKUAYHFU7GKI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2024/12/31/R2H6QWWB3JAEZOSKUAYHFU7GKI/</guid>
-      <dc:creator>박상현 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 31 Dec 2024 11:43:09 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZJTZVNOKWZO6JLIBU65EIEMUDE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 27일 오전 경남 남해군 창선면 당저마을 인근에서 바라본 바다 위로 힘찬 태양이 구름을 헤치고 솟아오르고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;새해 처음으로 떠오르는 태양은 그 모습을 선명하게 드러낼 것으로 보인다. 1일 전국이 맑은 가운데 동해안과 서해안은 구름 한 점 없이 하늘이 깨끗하겠고, 남해안과 제주에선 구름 사이로 해가 떠오를 것으로 예상됐다.&lt;br&gt;&lt;br&gt;기상청에 따르면, 1일 우리나라는 중국 산둥반도 부근에서 동쪽으로 이동하는 고기압의 가장자리에 들면서 대체로 맑겠다. 1일 아침 최저기온은 영하 8도에서 영상 1도, 낮 최고기온은 6~10도로 예보돼 평년 기온을 웃돌겠다. 다만 경기북동부 일부 지역과 강원도는 아침 기온이 영하 10도 아래로 떨어지는 곳이 있어 춥겠다.전국적으로 바람이 강하게 불면서 체감기온은 예보된 기온보다 3~4도가량 낮을 수 있다.&lt;br&gt;&lt;br&gt;맑은 하늘 덕에 해돋이 보기는 좋을 전망이다. 31일도 우리나라는 중국 북부지방에 위치한 고기압의 영향권에 놓이며 해넘이 보기가 좋았다. 2024년 마지막 해넘이는 구름이 거의 끼지 않은 채 바다로 잠기는 붉은 태양의 모습이 또렷하게 보였다.&lt;br&gt;&lt;br&gt;1일 해돋이 시각은 서울 오전 7시 47분, 강릉 오전 7시 40분, 대전·청주 오전 7시 42분, 광주 오전 7시 41분, 대구 오전 7시 36분, 부산 오전 7시 32분, 제주 오전 7시 38분 등으로 예보됐다. 전국적으로 구름이 거의 없을 것으로 예상되나, 호남권과 제주에선 구름 사이로 해가 떠오르는 모습을 볼 수도 있다. 1일 늦은 새벽 강원 산지에는 약한 눈발이 흩날릴 것으로 예상됐다.&lt;br&gt;&lt;br&gt;겨울 한복판인 1월에 들어섰지만 새해 첫 주는 예년보다 포근할 것으로 전망됐다. 우리나라가 1일 산둥반도 쪽 고기압에 이어 2~4일에도 중국 북부지방에서 남동쪽으로 이동하는 고기압 영향권에 들면서 한랭 건조한 북쪽 바람이 들어오지 못하기 때문이다.&lt;br&gt;&lt;br&gt;일요일인 5일 오후부터는 눈구름대를 동반한 기압골의 영향으로 중부지방을 중심으로 하늘이 차차 흐려지겠다. 5일 수도권과 강원영서에는 눈이나 비가 내리겠다. 강수는 6일 중부지방 곳곳으로 확대돼 오전까지 수도권과 강원영서, 충청권에 눈이나 비를 뿌리겠다. 제주도엔 약한 비가 내릴 것으로 보인다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>尹 대리인단 “체포영장은 무효” 헌재에 심판청구·가처분 신청</title>
-      <link>https://www.chosun.com/national/court_law/2024/12/31/WC762QGPSVBL7OCHTVE7R37QVE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/31/WC762QGPSVBL7OCHTVE7R37QVE/</guid>
-      <dc:creator>방극렬 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 31 Dec 2024 10:21:50 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HF3EMPLRRBA3TEI6C6XQLODD64.png"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 대통령 측이 31일 법원이 발부한 체포영장에 불복해 헌법재판소에 권한쟁의 심판과 체포영장 효력정지 가처분을 신청했다고 밝혔다.&lt;br&gt;&lt;br&gt;윤 대통령의 탄핵심판 대리인단은 이날 “윤 대통령에 대한 체포영장 청구와 발부는 대통령의 비상계엄 선포 권한 등을 침해해 무효라는 것을 확인해달라”는 권한쟁의 심판을 청구했다. 아울러 윤 대통령에 대한 체포영장의 효력을 정지해달라는 가처분도 함께 신청했다.&lt;br&gt;&lt;br&gt;권한쟁의 심판이란 국가기관 사이의 업무·권한에 대해 헌재가 그 책임과 권한을 가려달라고 제기하는 소송이다. 윤 대통령 측은 체포·수색영장을 청구한 고위공직자범죄수사처(공수처)와 영장을 발부한 법원이 대통령의 권한을 침해했다는 입장이다.&lt;br&gt;&lt;br&gt;윤 대통령 측은 취재진에 배포한 자료에서 “수사권이 없는 공수처가 권한 없이 영장을 청구했고, 법원은 대통령의 고유 권한인 비상계엄 선포에 대해 내란죄로 체포영장을 발부해 대통령의 헌법수호와 비상계엄 선포 권한을 침해했다”고 주장했다.&lt;br&gt;&lt;br&gt;대리인단은 “공수처의 수사는 수사기관 적격성, 수사권의 존부(存否) 등 문제가 있어 법원이 영장 발부에 신중할 것으로 생각했지만, 유감스럽게도 영장이 발부됐다”며 “권한쟁의 심판을 통해 법원의 사법 개입에 대한 기준과 한계를 정리할 필요가 있다고 판단했다”고 말했다.&lt;br&gt;&lt;br&gt;그러면서 “윤 대통령은 수사를 피하는 것이 아니라, 사법체계 근간을 근본적으로 훼손할 나쁜 선례를 남기지 않아야 한다는 책임감을 갖고 있다”고 했다.&lt;br&gt;&lt;br&gt;이순형 서울서부지법 영장전담 부장판사는 이날 오전 공수처가 청구한 윤 대통령 체포영장과 한남동 대통령 관저에 대한 수색 영장을 함께 발부하면서 “윤 대통령이 정당한 사유 없이 출석 요구에 응하지 않을 우려가 있고, 죄를 범했다고 의심할 만한 상당한 이유가 있다”고 밝혔다. 대표 죄목으로 ‘내란 수괴’ 혐의가 적시된 체포영장의 기한은 2025년 1월 6일이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>지방공무원, 내년부터 육아휴직 기간 전부 경력 인정받는다</title>
-      <link>https://www.chosun.com/national/national_general/2024/12/31/5PKIBM4UTRFQXJKR324E2XHIT4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/31/5PKIBM4UTRFQXJKR324E2XHIT4/</guid>
-      <dc:creator>김영우 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 31 Dec 2024 09:07:54 +0000</pubDate>
-      <content:encoded>내년 1월부터 지방공무원은 육아휴직 기간 전부를 경력으로 인정받을 수 있게 된다. 성범죄 피해를 입은 공무원에 대한 보호 조치와 저연차 공무원에 대한 지원은 강화된다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AJ4W55VRLGZNGNHKBSAQ5KQVCM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;행정안전부 청사 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;행정안전부는 이 같은 내용을 담은 ‘지방공무원 임용령’, ‘지방 연구직 및 지도직 공무원의 임용 등에 관한 규정’, ‘지방공무원 보수 규정’, ‘지방공무원 수당 등에 관한 규정’이 31일 국무회의에서 의결됐다고 밝혔다.&lt;br&gt;&lt;br&gt;우선 지방공무원은 육아휴직 기간 전부를 경력으로 인정받을 수 있게 됐다. 정부는 현재 첫째 자녀에 대한 육아휴직 기간은 최대 1년, 둘째 이후부터는 전부를 경력으로 인정해주고 있다. 행안부 관계자는 “육아휴직 기간을 경력으로 인정할 때 자녀를 구분할 이유가 없다는 점을 고려했다”고 말했다.&lt;br&gt;&lt;br&gt;또 공무원이 자녀 양육을 위해 다른 지자체 공무원과 자리를 옮길 땐 전출 제한 기간 내에도 전출을 허용한다. 현재는 공개채용으로 임용된 공무원은 3년, 경력채용으로 임용된 공무원은 4~5년간 전출을 제한하고 있다.&lt;br&gt;&lt;br&gt;성범죄 등 피해를 입은 공무원은 전출 기간 내에도 본인이 원하면 다른 지자체로 전출할 수 있게 된다. 기존엔 지자체 내에서만 파견 또는 전보가 가능했다. 저연차 공무원이 역량 개발 기회를 가질 수 있도록 1년 내에서 사용할 수 있는 무급 휴직인 ‘자기개발휴직’은 재직 요건을 5년에서 3년으로 줄였다.&lt;br&gt;&lt;br&gt;한편 내년 지방공무원 보수는 올해보다 3% 오른다. 다만 저연차 공무원의 인상률이 더 높도록 인상률을 차등화했다. 행안부 관계자는 “9급 1호봉 기준 6.6%까지 인상된다”고 말했다.&lt;br&gt;&lt;br&gt;행안부는 민원이나 사서직 등의 업무 기피 현상을 해소하기 위해 최고 월 3만원 수준의 ‘민원업무수당 가산금’을 신설하고, 사서직 공무원 수당은 월 1만원씩 인상하기로 했다. 육아휴직수당은 최대 150만원에서 최대 250만원까지 100만원 늘린다. 현재 첫째 3만원, 둘째 7만원, 셋째 이후 11만원인 가족수당도 첫째 5만원, 둘째 8만원, 셋째 이후 12만원으로 인상하기로 했다.&lt;br&gt;&lt;br&gt;이날 국무회의에서 의결된 법령 개정안들은 내년 1월 초부터 시행될 예정이다. 행안부 관계자는 “앞으로도 공무원들의 육아 여건 개선과 공무원에 대한 보호·지원을 강화하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>참사 희생자 장례 절차 시작…유족들 “마지막 순간 얼마나 아팠을까”</title>
-      <link>https://www.chosun.com/national/national_general/2024/12/31/P67A24E3KNHPZGAK5HQNFIWL44/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/31/P67A24E3KNHPZGAK5HQNFIWL44/</guid>
-      <dc:creator>무안=박정훈 기자, 영광=고유찬 기자, 무안=김도연 기자, 광주광역시=장윤 기자, 광주광역시=양인성 기자, 광주광역시=김지혜 기자, 무안=김혜민 기자, 무안=조민희 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 31 Dec 2024 08:26:41 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SK3WWLQOXJLVRAT2KT6JRDDQYE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;제주항공 여객기 참사 이튿날인 30일 오후 광주 지역 참사 희생자의 시신이 첫 안치된 광주 광산구 한 장례식장에 추모 현수막이 붙어있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;탑승 인원 181명 중 179명이 사망하며 1997년 대한항공 괌 추락 사고 이후 최악의 항공기 사고로 기록된 제주항공 참사 희생자들에 대한 장례 절차가 참사 사흘째인 31일 시작됐다. 또한 여객기 참사의 원인을 규명하기 위한 합동 사고조사 감식도 이날 시작됐다.&lt;br&gt;&lt;br&gt;국토교통부와 경찰 등 수습당국은 제주항공 참사 희생자 179명 중 5명을 제외한 174명의 시신에 대한 신원을 확인했다고 이날 밝혔다. 전남경찰청 관계자는 “DNA 감식에서 유족과 희생자의 관계를 확인할 필요가 있고 모계인지 부계인지, 1촌인지 3촌인지 등을 확인하느라 5명의 신원 확인 통보가 늦어졌다”며 “신원 확인이 되지 않은 5구의 시신에 대해서는 정밀 검사를 진행해 오늘 중에 신원 확인을 마칠 수 있도록 하겠다”고 했다. 희생자들은 이날 새벽 설치된 냉동 컨테이너 11대에 각각 나뉘어 안치돼 있다.&lt;br&gt;&lt;br&gt;이날 새벽 신원 확인이 추가로 된 27명 탑승객의 유족들은 31일 오전 10시부터 순차적으로 시신을 확인하러 임시 안치소를 다녀왔다. 막내 여동생 부부가 골프여행을 갔다가 사고를 당했다는 강모(60)씨는 30일 새벽 시신 확인을 했지만, 온전한 시신 확인을 하고 싶어 아직 공항에 머물고 있다.&lt;br&gt;&lt;br&gt;강씨는 “형제들과 어머니는 모두 오늘 철수했다”며 “많이 지치고 힘들어 나가고 싶다. 벌써 며칠째인가”라고 했다. 조카를 잃은 김모(56)씨는 “파편 조금이라도 더 보태서 최대한 온전하게 보내주는 게 맞는다”며 “장례 절차 다 들어가고 나서 나중에 일부분 찾게 되면 그거는 어떻게 돌려받겠나”라고 했다.&lt;br&gt;&lt;br&gt;시부모를 잃은 A씨는 “매일 보던 시부모님인데 이제 없는 게 상상이 안가고, 계속 연락이 올 것만 같다”고 했다. 유족 대표단에서는 “시신 훼손 정도가 상당하니 심약한 분들은 제발 가지 않길 권한다. 우리도 트라우마에 시달리고 있다”고 권고했다.&lt;br&gt;&lt;br&gt;사망자 신원 확인이 막바지에 접어듦에 따라 당국은 시신 인도 절차에 착수했다. 수습당국은 이날 오후부터 검안·검시, 신원 확인, DNA 감식 등 모든 절차가 끝난 28구의 시신을 유족의 뜻에 따라 인도 절차를 밟도록 할 예정이다. 당국은 “국과수에서 시신 606편(片)에 대한 DNA 감식을 내달 3일까지 마칠 예정”이라며 “다만 3일에 바로 인도는 어렵고 시신 수습 작업을 더 거쳐 내달 6일까지는 모든 시신에 대한 인도 절차가 가능하도록 최선을 다하겠다”고 했다.&lt;br&gt;&lt;br&gt;이날 무안국제공항에도 유가족들의 요구에 따라 합동분향소가 차려졌다. 또 공항 인근에는 참사 추모공원과 위령탑을 건립할 것을 논의 중이기도 하다. 박상우 국토교통부 장관은 “수습되지 않은 시신 일부가 뒤늦게 수습되면 이를 모아 합동 장례를 치를 생각도 있다”며 “적절한 장소에 추모공원을 마련해 모실 수도 있다”고 했다.&lt;br&gt;&lt;br&gt;상대적으로 훼손 정도가 덜한 5구의 시신은 광주(4구)와 서울(1구) 등으로 운구돼 장례 절차가 시작됐다. 태국에 전남편과의 사이에서 낳은 자녀들과 아버지를 만나러 고향에 갔다가 참변을 당한 태국인 두엉마니종락(45)씨 빈소는 광주 광산구에 꾸려졌다.&lt;br&gt;&lt;br&gt;두엉마니종락씨는 지난 2018년 한국에 입국해 지난 2019년 한국인 남편 A씨와 결혼했다. A씨는 “아내가 비행기를 탈 때 ‘내일 아침에 보자’고 했다”며 “아내 친구가 많이 있는데 연락할 방법이 없다. 다 오고 싶어할 텐데”라고 했다. 광주 서구의 장례식장에도 희생자 채모(67)씨의 시신이 인도돼 장례가 열렸다. 상주인 아들은 “아직 수많은 유가족들이 공항에 남아있고 시신이 수습되지 않았다”며 “조용히 장례를 치르고 싶다”고 했다.&lt;br&gt;&lt;br&gt;광주 북구에선 이모(48)씨의 빈소가 마련됐다. 이씨의 시신은 아직 인도되지 않았으나 유족들의 요청에 따라 우선 장례가 치러지고 있다. 전날 만난 이씨의 남편 나모(52)씨는 “시신을 보니 많이 다쳤더라”며 “원래 겁이 많은 사람인데 그동안 얼마나 무섭고 고통스러웠을까 생각하니 가슴이 미어졌다”고 했다. 이어 “무섭고 고통스러웠을텐데 가는 길이라도 가족들끼리 조용하고 편하게 지내자 해서 빈소를 차렸고, 절차가 끝나는대로 시신을 가져오려고 한다”고 했다.&lt;br&gt;&lt;br&gt;이번 참사의 희생자 대부분이 광주·전남 지역에서 나온 만큼 이곳에서의 안타까운 소식들도 이어졌다. 이번 희생자 중 최고령자인 배모(78)씨는 내년 팔순을 앞두고 아내와 두 딸의 가족 등 9명과 함께 태국으로 여행을 갔다 돌아오는 길에 일가족 모두가 참변을 당했다. 배씨의 생애 처음으로 간 해외여행이었다고 했다.&lt;br&gt;&lt;br&gt;한편 이날 제주항공 참사의 유이한 생존자 중 한 명인 제주항공 승무원 구모(25)씨 측은 병원 측에 “트라우마 때문에 당분간은 안정을 취하고 싶다”는 뜻을 전해왔다. 구씨는 지난 29일 오후 목포중앙병원에서 서울아산병원으로 이송됐다. 구씨는 머리와 발 등을 다쳤으나 생명에는 지장이 없는 상태다. 또 다른 생존자인 승무원 이모(33)씨는 이대서울병원에서 회복 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>신세계백화점 광고판도 껐다...송년 행사·지역 축제 줄취소</title>
-      <link>https://www.chosun.com/national/national_general/2024/12/31/BBLBHXTQXBHT7GZULOHURM7B7M/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/31/BBLBHXTQXBHT7GZULOHURM7B7M/</guid>
-      <dc:creator>김병권 기자, 김영우 기자, 이민경 기자, 조은서 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 31 Dec 2024 08:47:55 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VGFVDAKEX5MGZIGCOJ6TB7DEXU.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;31일 오후 경기 수원시 팔달구 여민각 인근에 송년·신년 행사 취소를 알리는 현수막이 붙어있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;179명이 숨진 제주항공 참사로 지난달 29일부터 4일까지 1주일간 ‘국가 애도 기간’이 진행 중이다. 지방자치단체들은 연말·연시 축제를 잇따라 취소했고 유통·관광·게임 업계도 각종 이벤트를 거둬들였다. 정계·관계·재계에선 회식 취소가 속출했고 시민들 역시 연말 송년회나 신년 모임을 미루고 있다.&lt;br&gt;&lt;br&gt;광주광역시는 31일 제야의 종 타종식과 새해 첫날 무등산 해돋이 행사를 취소했다. 전남 장흥군도 다음 달 1일 정남진 전망대에서 예정돼 있던 해맞이 행사를 없던 일로 했다. 서울시도 31일 오후 11시부터 종로구 보신각에서 진행하기로 했던 ‘제야의 종 타종 행사’를 축소하기로 했다. 당초 예정돼 있던 K팝 공연과 조명 쇼 등이 취소됐고, 시민 대표 등 민간 인사만 참석한 가운데 타종 행사를 진행할 계획이다. 크리스마스와 연말 분위기의 상징이던 서울 중구 신세계백화점의 LED 조명도 꺼졌다. 넥슨 등 게임 업계까지 계획했던 행사 및 게임 이벤트 등을 취소하거나 보류했다.&lt;br&gt;&lt;br&gt;새해 해맞이 행사도 도미노처럼 취소됐다. 간절곶이 있는 울산 울주군은 해맞이 행사를 취소했다. 드론 조명 쇼, 불꽃 쇼 등 행사가 무산됐고, 해맞이객을 위한 셔틀버스 운영 등도 중단하기로 했다. 정동진이 위치한 강원 강릉시도 새해를 맞아 정동진 모래시계 공원에서 진행하려던 불꽃놀이를 하지 않기로 했다.&lt;br&gt;&lt;br&gt;‘지역 축제 줄취소’에 지역 상인들은 자포자기한 분위기다. 대도시가 아닌 지방 도시들은 비수기인 겨울에 연말연시 지역 행사를 통해 유치한 관광객으로 경제를 유지하는데, 이번에 축제가 대거 취소됐기 때문이다. 지역 자영업자들은 “계엄 선포로 소비 심리가 얼어붙었는데, 이제는 제주항공 참사로 지역 축제까지 취소되니 할 말이 없다”고 했다. 설상가상으로 국가 애도 기간 공무원 회식마저 금지된 상황이다. 12·3 계엄 여파에서 벗어났다고 생각했던 자영업자들은 “이젠 뭐라고 말할 힘도 없다”고 한다.&lt;br&gt;&lt;br&gt;겨울 휴가를 계획하던 시민들도 여행을 취소하고 있다. 내년 2월 독일 여행을 계획 중이었다던 직장인 김모(54)씨는 “탄핵 국면에 유로 환율이 급등해서 여행을 가야 하나 고민하고 있었는데, 수십 년에 한 번 있을까 말까 한 초대형 여객기 사고까지 터지니 진지하게 취소를 고민 중”이라고 했다.&lt;br&gt;&lt;br&gt;한 패키지 여행 업계 관계자도 “사고 다음 날인 지난 30일에만 평소의 약 2배인 4500명이 예약을 취소하고, 신규 예약은 반 토막이 났다”며 “1, 2월은 설 연휴에 대학생 겨울방학이 있어 대목인데 계엄, 탄핵에 이어 비행기 참사까지 터지니 걱정될 따름”이라고 했다.&lt;br&gt;&lt;br&gt;예년 같으면 신년 맞이로 들떴을 전국의 거리는 애도 분위기로 가라앉았다. 31일 서울광장과 여의도 국회를 비롯, 전국 각지에 마련된 제주항공 희생자 추모 분향소에 시민 발길이 잇따랐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>부산서 강릉까지 환승 없이 열차로 간다…동해선 1월 1일 개통</title>
       <link>https://www.chosun.com/national/national_general/2024/12/31/3RZXCZ6CQ5GY5C2BZ572LTEIIQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/31/3RZXCZ6CQ5GY5C2BZ572LTEIIQ/</guid>
@@ -845,46 +955,6 @@
       <description/>
       <pubDate>Tue, 31 Dec 2024 08:39:02 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6JJTQPTLQ5LZLDJSK6PD4UN5OA.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;동해선 철도를 운행할 ITX-마음 열차가 지난 29일 경북 포항시 북구 흥해읍 구간에서 시범 운행을 하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산과 강릉을 잇는 동해선이 개통된다. 이로써 부산서 강원도 강릉까지 환승 없이 열차를 타고 갈 수 있게 된다.&lt;br&gt;&lt;br&gt;한국철도공사 부산경남본부는 “내년 1월 1일부터 ITX-마음이 부전(부산)~강릉(강원도) 구간을 하루 8차례 운행한다”고 31일 밝혔다. 종전엔 강릉∼동해(45km), 포항∼부전(142.2km) 구간만 운영됐으나 중간의 삼척∼포항(166.3km) 구간이 개통되며 강릉~부전 간 전 구간이 연결됐다.&lt;br&gt;&lt;br&gt;신형 새마을호인 ‘ITX-마음’은 시속 150km로 달린다. 부산서 강릉까지 4시간 50분~5시간 20분 가량 소요된다. 내년 말부터 시속 260km인 KTX-이음이 투입되면 소요시간이 4시간 초반대로 줄어들 전망이다.&lt;br&gt;&lt;br&gt;철도공사 측은 “부전~강릉 간 동해선이 개통되면서 동해 생활권인 강원도, 경상도는 일일생활권으로 연결될 것”이라며 “철도를 타고 강릉 경포대, 양양 낙산사, 삼척 죽서루, 울진 성류굴, 경주 양남 주상절리, 포항 호미반도 등 자연경관을 즐기며 여행할 수 있다”고 말했다.&lt;br&gt;&lt;br&gt;부산 부전역을 출발하는 열차는 매일 오전 5시33분이 첫차, 오후 4시28분이 막차다. 운임은 부전~강릉 기준 3만4900원으로 책정됐다.&lt;br&gt;&lt;br&gt;동해선은 향후 더 확장된다. &lt;br&gt;&lt;br&gt;현재는 동해남부선(부전~경주), 동해중부선(포항~삼척)이 개통됐고 현재 동해북부선 제진(고성)∼강릉 111.0km, 춘천∼속초 구간 93.7km 구간 공사가 진행되고 있다. 동해북부선은 이르면 2028년쯤 완공될 예정이다. 동해북부선 공사가 끝나면 부산서 최북단 고성까지 열차로 갈 수 있게 된다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>인권위 “국방부, 자해 사망 병사 유족 위로금 권고 불수용”</title>
-      <link>https://www.chosun.com/national/national_general/2024/12/31/F2MRGKIAMFGP5ITIKO5CA5SGIM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/31/F2MRGKIAMFGP5ITIKO5CA5SGIM/</guid>
-      <dc:creator>한영원 기자, 김병권 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 31 Dec 2024 08:37:06 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2X23SKYZQPHEG4DWJ3I2ALLEQA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;국가인권위원회 건물/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국가인권위원회(인권위)는 군 복무 중 자해로 숨진 병사의 유가족에게 전사⋅순직한 병사와 동일한 액수의 위로금을 줘야 한다는 작년 9월의 권고를 국방부가 받아들이지 않았다고 31일 밝혔다.&lt;br&gt;&lt;br&gt;지금껏 전사하거나 순직한 병사는 1억3000만~3억2600만원의 ‘사망보상금’과 1억원의 ‘전우사랑 위로금’을 받아온 반면, 자해로 숨진 병사는 ‘약 3천만원의 사망위로금’만 수령해왔는데, 인권위는 이 금액을 맞출 것을 권고했던 것이다. &lt;br&gt;&lt;br&gt;인권위는 “설령 직무수행과 사망 간의 상당 인과관계가 인정되지 않은 일반 사망자에게까지 사망보상금을 지급하는 것은 다소 무리가 있다고 하더라도 적어도 군 복무 중 목숨을 잃은 군인의 유가족에게 지급되는 위로금의 액수는 동일해야 할 것”이라며 위로금 차등 지급은 불합리하다고 판단했으나 국방부가 수용하지 않았다고 한다.&lt;br&gt;&lt;br&gt;인권위는 군인 사망사고 지원 제도와 관련해 국방부에 6가지, 국가보훈부에 5가지를 권고했으나 국방부는 이 중 3가지, 보훈부는 전부를 수용하지 않았다고도 밝혔다. 특히 국방부는 순직자의 국가유공자 등록 절차 간소화하라는 권고도 받아들이지 않았다고 한다. 이는 사망 장병이 국방부에서 순직 등을 판정받으면 유족이 별도로 보훈부에 국가유공자 등록을 할 필요를 없애자는 취지였다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/XCYDINT5XCVFXB4X4ZJ3IUBW5Y.jpg?width=553&amp;height=434&amp;auth=872e10552e997a37418d99912f6e46c65629dac5569cfc37622cb5a79a99fbab&amp;smart=true" type="image/jpeg" height="434" width="553">
-        <media:description type="plain">국가인권위원회ⓒ 뉴스1</media:description>
-        <media:credit role="author" scheme="urn:ebu"/>
-      </media:content>
-    </item>
-    <item>
-      <title>대구 군위군서 산불...산불대응 1단계 발령 후 진화중</title>
-      <link>https://www.chosun.com/national/incident/2024/12/31/F3G6LWMXMRD7ZGG2RZUCRDM7PQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2024/12/31/F3G6LWMXMRD7ZGG2RZUCRDM7PQ/</guid>
-      <dc:creator>이승규 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 31 Dec 2024 08:36:02 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/L6DO6TO7KNLGHMVT7ZRH5GLNJA.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;31일 오후 2시15분쯤 대구 군위군 삼국유사면 화북리의 야산에서 화재가 발생해 소방·산림 당국이 헬기를 투입해 진화작업을 하고 있다. /대구소방안전본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대구 군위군의 한 야산에서 불이 나 산림당국이 진화 중이다.&lt;br&gt;&lt;br&gt;31일 산림청 중앙산불방지대책본부·대구소방안전본부 등에 따르면 이날 오후 2시 15분쯤 군위군 삼국유사면 화북리의 한 야산에서 불이 났다.&lt;br&gt;&lt;br&gt;산림청은 산불 피해를 받았거나 받을 수 있는 산불영향구역이 10ha(3만 250평)에 달하는 것으로 보고 오후 4시 30분 산불대응 1단계를 발령했다. 산불대응 1단계는 예상 피해면적이 30ha(9만 750평)미만, 진화(예상)시간이 8시간 미만일 경우 산림청장이 발령한다. 해당 지역 진화대원 전체와 관할기관 산불진화 헬기 전체가 동원되며, 인접기관의 헬기 자원 50%, 드론진화대 50%가 투입된다.&lt;br&gt;&lt;br&gt;현재 산림청은 현장에 산불진화헬기 18대, 진화차량 55대, 진화 인력 372명을 투입했다. 산불 현장에는 초속 5m 정도의 바람이 불고 있다. 진화율은 35% 정도다.&lt;br&gt;&lt;br&gt;산불 지점에서 500m 떨어진 지점에는 과거 승려 일연이 삼국유사를 집필했다는 사찰 인각사가 위치해있다. 다만 산불 진행 방향이 인각사 방면이 아닌데다, 중간에 계곡이 있어 산불 피해를 입을 가능성은 낮다고 산림청은 보고 있다. 산불 지점과 민가는 2~4km 떨어져 있으며, 군위군에서 인근 주민 30여명을 대피 조치해둔 상태다. &lt;br&gt;&lt;br&gt;산림청 관계자는 “소나무 숲과 경사가 급한 지형이라 진화에 어려움을 겪고 있으나 일몰 전까지 큰 불을 잡을 계획”이라며 “산불이 꺼지는 즉시 산불조사를 실시해 정확한 원인과 피해 면적 등을 조사하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[속보] 서울 목동깨비 시장에서 차량 돌진… 11명 부상 중 4명 중상</title>
-      <link>https://www.chosun.com/national/national_general/2024/12/31/OHZXCLRJBBATZAQBGHGHLGWVFE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/31/OHZXCLRJBBATZAQBGHGHLGWVFE/</guid>
-      <dc:creator>강지은 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 31 Dec 2024 07:29:36 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4AYI72ZIB5LDFLGSM7B4FGVQUY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;31일 오후 4시18분께 서울 양천구 목동 깨비시장에서 70대 남성이 모는 승용차가 돌진해 다수의 부상자가 발생했다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 양천구의 전통시장에서 차량 돌진사고가 발생해 부상자가 발생했다.&lt;br&gt;&lt;br&gt;경찰과 소방에 따르면 31일 오후 4시 18분에 서울 양천구 목동깨비시장 후문에서 70대 남성 A씨가 운전하던 에쿠스 차량 1대가 돌진하는 사고가 발생했다. 현재까지 파악된 부상자는 11명이다. 이중 4명은 중상을 입었고, 나머지 7명은 경상을 입은 것으로 파악됐다.&lt;br&gt;&lt;br&gt;A씨는 현재 경찰 조사 중으로, 음주 정황은 발견되지 않았다. 경찰은 A씨를 상대로 약물 투약 여부를 비롯해 구체적인 사고 경위를 조사 중이다.&lt;br&gt;&lt;br&gt;한 목격자는 “시장에서 일하는 데 ‘뻥’하는 소리가 나서 보니, 과일가게에서 일하던 상인이 차에 튕겨져 날아가 소방에 신고했다”고 했다.&lt;br&gt;&lt;br&gt;경찰과 소방은 “현장 수습 중이고 인명 피해 현황을 파악 중”이라고 했다. 사고 당시 119 신고에는 “차량이 사람을 치고 지나갔다” “피해가 많을 것 같다” 내용이 있었던 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>검찰, ‘선관위 점거 시도’ 국방부 조사본부 등 압수수색</title>
-      <link>https://www.chosun.com/national/court_law/2024/12/31/CZIYPYNCYJAIZBZYQJM6OAYNLI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/31/CZIYPYNCYJAIZBZYQJM6OAYNLI/</guid>
-      <dc:creator>유종헌 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 31 Dec 2024 07:34:40 +0000</pubDate>
-      <content:encoded>‘12·3 비상계엄' 사태를 수사하는 검찰이 31일 국방부 조사본부 등에 대한 강제 수사에 착수했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MRMMTGSVVAXAKUR2HKCZM5IWZA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 서울중앙지검 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰 비상계엄 특별수사본부(본부장 박세현 서울고검장)는 이날 국방부 조사본부, 제2기갑여단 관계자의 사무실 및 주거지 등을 압수수색 하고 있다고 밝혔다. 조사본부 차장 김모 대령과 구삼회 제2기갑여단장 등도 압수수색 대상에 포함된 것으로 알려졌다.&lt;br&gt;&lt;br&gt;이날 압수수색은 계엄사령부 합동수사본부 내부에 꾸려지려 했던 ‘제2수사단’과 관련 있는 것으로 알려졌다. 검찰은 비상계엄 당시 노상원 전 정보사령관이 부정선거 의혹 수사를 담당할 제2수사단을 구상했고, 여기에 국방부 조사본부와 제2기갑여단이 관련 있다고 보고 있다. 제2수사단은 선관위를 장악해 서버를 탈취하고, 직원 30여명을 체포해 심문하려는 계획을 세운 것으로 조사됐다.&lt;br&gt;&lt;br&gt;실제 작성됐던 제2수사단 인사명령에는 국방부 조사본부 소속 군 수사관이 상당수 포함돼 있던 것으로 전해졌다. 구 여단장이 제2수사단의 수사단장을 맡고, 조사본부 차장 김 대령은 1·2·3대 중 1대장을 맡기로 돼있었다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>일가족 9명 모두 세상 떠나… 다섯살 손녀가 키우던 ‘푸딩이’ 홀로 남았다</title>
@@ -905,59 +975,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NXLF4ATB4VUNIFP3LWDCMZSEFI.png"&gt;&lt;figcaption&gt;&lt;small&gt;국가인권위원회 전경. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전국금융산업노동조합이 산하 기관 연구원에게 육아휴직급여를 지급하라는 국가인권위원회의 권고를 받아들이지 않았다.&lt;br&gt;&lt;br&gt;국가인권위원회(인권위)는 노조 위원장에게 산하 기관 연구원 A씨의 육아휴직급여를 지급하도록 권고했지만 불수용했다고 31일 밝혔다. 앞서 노조 산하 연구소 연구위원 A씨는 작년 1월 육아휴직급여를 신청했으나, ‘연구소에 미혼 여성이 많아 선례가 되면 향후 재정적으로 부담된다”는 이유로 거부당했다며 인권위에 진정을 제기했다.&lt;br&gt;&lt;br&gt;이에 인권위는 “재정적 부담 때문에 급여를 지급하지 않는다는 것은 남성보다 여성이 육아휴직을 많이 사용하고, 전원 여성으로 구성된 연구소 직원들이 가까운 장래에 출산 및 육아를 해야 하는 시기를 앞두고 있음을 전제로 연구소 직원의 육아휴직 사용 가능성이 높다는 성차별적 인식에 근거한 것”이며 “재정적 부담의 사유가 성별이 아닌 다른 사유에 해당하지 않으므로 이는 성별을 이유로 한 차별 행위”라고 보고 지난 7월 육아휴직급여 지급을 권고했다.&lt;br&gt;&lt;br&gt;그러나 노조 위원장은 지난 10월 “노조와 연구소는 별개의 법인격”이라며 “연구소에도 인권위 결정 내용을 전달했고, 저출생 문제 해결 및 자녀 양육 환경 조성을 위해 노조의 육아휴직 관련 보수 규정을 선제적으로 개정해 연구소에도 적용하도록 했다”고 회신했다.&lt;br&gt;&lt;br&gt;인권위는 이날 “노조와 연구소가 별개의 조직으로 보기 어렵기 때문에 A씨에게 육아휴직급여를 지급하라고 권고했는데, 노조 측은 인권위 권고 취지를 제대로 인식하지 못하고 기존 태도를 고수하고 있다”고 지적했다. 인권위 권고는 구속력은 없지만, 대상 기관 등이 이행하지 않는 경우 해당 내용을 공표할 수 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>제주항공 참사 생존자 “트라우마 때문에 안정 취하고 싶다”</title>
-      <link>https://www.chosun.com/national/national_general/2024/12/31/ZWTS7OCZRZBBDAOZGGXB2ACQPU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/31/ZWTS7OCZRZBBDAOZGGXB2ACQPU/</guid>
-      <dc:creator>서일원 조선비즈 기자, 김병권 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 31 Dec 2024 07:06:17 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KPEUIJ4FOJPY3NJARACFE4UF24.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;제주항공 참사의 유이한 생존자인 여성 승무원 구모씨가 지난 29일 오후 서울 송파구 아산병원에 도착해 응급실로 이동하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 29일 오전 발생한 제주항공 참사의 생존자 중 한 명인 승무원 구모(25)씨 측이 “트라우마 때문에 당분간은 안정을 취하고 싶다”는 뜻을 전했다. 구씨는 도합 179명의 사망자를 낸 이 참사의 유이한 생존자 중 한 명이다. 생존자들은 여객기 후미에서 승객 서비스를 맡았던 이들로, 사고기 충돌 과정에서 동체 꼬리 부분이 떨어져 나가면서 목숨을 건졌다.&lt;br&gt;&lt;br&gt;구씨는 사고로 발목과 머리 등을 다쳤으나 생명에는 지장이 없는 상태다. 상대방과 대화가 가능한 상황인 구씨는 현재 보호자의 보살핌을 받고 있다고 한다.&lt;br&gt;&lt;br&gt;구씨는 구조 직후 목포중앙병원에서 봉합 치료와 정밀 검사 등을 받았고, 사고 당일 저녁 서울 송파구 서울아산병원으로 옮겨졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/KPEUIJ4FOJPY3NJARACFE4UF24.JPG?width=1400&amp;height=1050&amp;auth=a7a4c57ea2e93534b64418330878f84284d741168541c14ae0d1853089a88e59&amp;smart=true" type="image/jpeg" height="1050" width="1400">
-        <media:description type="plain">(서울=뉴스1) = '무안공항 추락사고' 극적 생존자인 20대 여성 승무원이 29일 오후 서울 광진구 아산병원에 도착해 응급실로 이동하고 있다. 2024.12.29/뉴스1</media:description>
-        <media:credit role="author" scheme="urn:ebu">(서울=뉴스1)</media:credit>
-      </media:content>
-    </item>
-    <item>
-      <title>50대 이상 “적정 노후생활비는 월 297만원, 69세부터 노인”</title>
-      <link>https://www.chosun.com/national/welfare-medical/2024/12/31/GOQ2EPM5VRFWTETAKVJ7DJP66I/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2024/12/31/GOQ2EPM5VRFWTETAKVJ7DJP66I/</guid>
-      <dc:creator>안준용 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 31 Dec 2024 07:04:02 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/B6I3IMM3GVOMBARYYW5HJGATDQ.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;지난 5일 대구 중구노인복지관에서 열린 '2024 태평마을축제'에서 알뜰장터를 찾은 어르신들이 겨울 외투를 살펴보고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;50대 이상 중고령자들이 생각하는 ‘적정 노후 생활비’는 부부 기준 월 297만원, 개인 기준 192만원인 것으로 31일 나타났다. 국민연금연구원이 작년 8~11월 전국 5331가구, 8736명을 대상으로 실시해 이날 공개한 ‘제10차 국민 노후보장패널조사’ 결과다. 직전 조사인 2021년 조사에선 부부 277만원, 개인 177만원이었는데, 각각 20만원, 15만원 오른 것이다.&lt;br&gt;&lt;br&gt;조사 결과에 따르면, 중고령자들이 예상하는 은퇴 시점은 평균 67세였다. 스스로 노인이 된다고 인식하는 시점은 평균 69세였다. 노인복지법상 노인 연령 기준(65세)보다 4세 높았다. 70대부터는 대부분 스스로 노인이라고 인식한다는 뜻이다. 노인이 된다고 인식하는 계기로는 ‘기력이 떨어지기 시작’(56.4%), ‘근로 활동 중단’(23.8%), ‘공적연금 지급’(12.1%) 등을 꼽았다. 50대 이상 중고령자의 고용률은 60.7%로, 2021년 49.9% 대비 10.8%포인트 증가했다. 중고령자의 경제활동 참여가 크게 늘어났다는 뜻이다.&lt;br&gt;&lt;br&gt;건강하다고 전제했을 때 노후에 필요한 ‘최소 생활비’는 약 136만원(개인 기준), 표준적인 생활을 하는 데 만족할 만한 ‘적정 생활비’는 약 192만원(개인 기준)이라고 응답했다. 2021년(최소 생활비 약 124만원, 적정 생활비 약 177만원)보다 각각 12만원, 15만원 올랐다.&lt;br&gt;&lt;br&gt;부부 기준으로는 최소 생활비 217만원, 적정 생활비는 297만원이었다. 2021년(최소 생활비 199만원, 적정 생활비 277만원) 대비 18만원, 20만원씩 올랐다. 연구원은 “물가상승률(2022년 5.1%, 2023년 3.6%)을 고려하면 최소 생활비와 적정 생활비는 큰 변동 없이 비슷한 수준을 유지하고 있다”고 했다.&lt;br&gt;&lt;br&gt;중고령자 가구의 월평균 가계 소득은 383만원, 가계지출은 272만원이었다. 평균 순자산은 3억9498만원, 부채를 포함한 총자산은 4억2617만원이었다.&lt;br&gt;&lt;br&gt;스스로 평가하는 신체적 건강 상태는 평균 3.38점(5점 만점), 정신적 건강 상태는 평균 3.59점, 전반적인 건강 상태는 평균 3.49점, 삶의 만족도는 3.51점이었다. 2021년(신체적 건강 상태 3.24점, 정신적 건강 상태 3.52점, 전반적인 건강 상태, 3.39점, 삶의 만족도 3.46점)보다 점수가 소폭 올랐다.&lt;br&gt;&lt;br&gt;국민연금연구원이 2005년부터 2년마다 실시하는 ‘국민 노후보장패널조사’는 중고령자 소득 수준과 노후소득 보장제도 관련 기초 자료를 구축하는 데 쓰인다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>GGM 노조 파업 가시화…쟁의행위 찬반 투표 88.9% 가결</title>
-      <link>https://www.chosun.com/national/national_general/2024/12/31/ORMN3FMDGFCB5LLS3HBNTUF2HY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/31/ORMN3FMDGFCB5LLS3HBNTUF2HY/</guid>
-      <dc:creator>광주광역시=진창일 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 31 Dec 2024 06:25:36 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CC6UWDPHQVB25GDMDLWHKZWRIA.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;광주 글로벌모터스(GGM) 전기차 '캐스퍼' 생산라인. /김영근 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;광주글로벌모터스(GGM) 노조의 파업이 가시화되고 있다.&lt;br&gt;&lt;br&gt;전국금속노동조합 광주전남지부 GGM 노조는 31일 “전날부터 이날까지 조합원 225명 전원이 참여한 쟁의행위 찬반투표 결과 찬성 200명(88.9%), 반대 25명(11.1%)로 쟁의행위 조건을 확보했다”고 밝혔다.&lt;br&gt;&lt;br&gt;GGM 노조는 “지난 10월에 했던 쟁의행위 찬반투표 찬성률 85.9%보다 3%p 높은 결과로 쟁의행위가 결정된 것”이라며 “이는 격려금 차별지급 결정에 따른 불만, 회사와 주주단이 노동3권을 부정하면서 노조를 대화상대를 인정하지 않는 태도를 보였기 때문”이라고 했다.&lt;br&gt;&lt;br&gt;GGM 주주단은 지난 26일 기자회견을 열고 “노조 파업 등으로 회사 운영에 심각한 피해가 발생한다면 주주단은 파업으로 인한 손해와 손실에 대한 법적 대응은 물론, 투자지분 회수 등 모든 수단을 강구하겠다”고 밝힌 바 있다.&lt;br&gt;&lt;br&gt;GGM 노조는 지난 10월부터 이어진 사측과 교섭 과정에서 월 급여 7%(15만9200원) 인상과 상여금 300%, 호봉제 도입, 자유로운 노조활동 보장을 요구했다고 한다.&lt;br&gt;&lt;br&gt;하지만 사측은 “협정서에 따라 임금인상은 물가 상승분까지만 가능하다”는 입장을 유지하면서 교섭이 결렬됐다. GGM 노조는 간부회의를 열고 쟁의행위 일정과 세부방침을 세울 계획이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/RJ4NOZRZX5DPJEKL6UNJAY2M6Q.JPG?width=4648&amp;height=3114&amp;auth=9bd521a760aaad6a518b97a3610e0190e047d4b17faf0df017353c09b9d26fe1&amp;smart=true" type="image/jpeg" height="3114" width="4648">
-        <media:description type="plain">광주 글로벌모터스(GGM) 전기차 '캐스퍼' 생산라인./2024.8.23. 김영근 기자</media:description>
-        <media:credit role="author" scheme="urn:ebu">김영근 기자</media:credit>
-      </media:content>
-    </item>
-    <item>
-      <title>[속보] 공조본, 국군방첩사령부 압수 수색</title>
-      <link>https://www.chosun.com/national/court_law/2024/12/31/EFGHTIYIHNGKTMFK3DBLKWVFTA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/31/EFGHTIYIHNGKTMFK3DBLKWVFTA/</guid>
-      <dc:creator>이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 31 Dec 2024 06:21:15 +0000</pubDate>
-      <content:encoded>[속보] 공조본, 국군방첩사령부 압수 수색&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YXAG5YIVABNM7LZF6ZBS6ZOZA4.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;'12·3 비상계엄' 사태를 수사 중인 검찰 비상계엄 특별수사본부가 국군 방첩사령부를 압수수색 중인 것으로 알려진 지난 9일 오후 경기 과천에 위치한 방첩사령부에서 근무자가 출입문을 지키고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>콘크리트 둔덕이 사고 키웠나....경찰 본격 수사 착수</title>
-      <link>https://www.chosun.com/national/national_general/2024/12/31/UTRH3WY7WJBKJJYECCVZRTJFF4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/12/31/UTRH3WY7WJBKJJYECCVZRTJFF4/</guid>
-      <dc:creator>구아모 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 31 Dec 2024 05:20:22 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2H6MSG437JM5DDFWVFWOEMBPEM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;31일 전남 무안군 무안국제공항 제주항공 여객기 참사 현장에서 경찰 과학수사대와 국과수가 현장 조사를 하고 있다. 여객기 참사 원인으로 부상한 콘크리트 둔덕과 로컬라이저(방위각 시설)가 처참히 부서져 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰이 179명이 사망한 ‘제주항공 참사’ 관련 수사에 31일 본격 착수했다. 경찰은 참사 피해를 키운 원인으로 지목된 무안공항 활주로 주변에 있던 착륙 유도 장치(로컬라이저)의 콘크리트 구조물의 설치 적정성 여부를 조사할 방침이다.&lt;br&gt;&lt;br&gt;사고 당시 영상을 보면, 바퀴를 내리지 못한 채 ‘동체 착륙’한 사고기는 활주로를 벗어나 약 250m를 더 나아간 뒤 콘크리트 구조물과 충돌했다. 구조물과 충돌한 직후 항공기는 폭발하며 산산조각 났고 60m 떨어진 공항 외벽까지 깨뜨렸다.&lt;br&gt;&lt;br&gt;경찰은 무안공항의 로컬라이저는 다른 공항과 달리 콘크리트 구조물 위에 설치돼 피해를 키웠는 지, 시설물 설치 경위 등을 조사할 방침이라고 밝혔다. 제주항공 측의 항공기 정비 상태 여부 등에 대한 조사도 한다.&lt;br&gt;&lt;br&gt;앞서 경찰은 지난 29일 전남경찰청 나원오 수사부장(경무관)을 본부장으로 264명 규모의 수사규모를 꾸렸다. 경찰 수사본부는 사고 수습 및 사망자 신원 확인에 집중하고 있지만, 국토부 항공철도사고조사위원회와 함께 참사 원인도 규명할 방침이다. 전국 과학수사요원 및 검시조사관도 현장에서 신원 확인 등 작업에 투입됐다.&lt;br&gt;&lt;br&gt;경찰은 사고 수습 및 사망자 신원 확인을 마치는 대로 국토부 조사 결과 등을 참고하며 수사를 진행할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[속보] 헌재 “한덕수 권한대행 탄핵심판, 변론 준비 절차 회부”</title>
       <link>https://www.chosun.com/national/court_law/2024/12/31/WMLI6JSG2FHWVB7S7V3CLL33ZM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/31/WMLI6JSG2FHWVB7S7V3CLL33ZM/</guid>
@@ -965,24 +982,6 @@
       <description/>
       <pubDate>Tue, 31 Dec 2024 05:02:03 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LSBYF624HBJKFH6PAZJUOHQ5UQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 30일 서울 종로구 헌법재판소 전경. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“한 권한대행 탄핵심판, 수명 재판관에 김형두·김복형”&lt;br&gt;&lt;br&gt;“재판관 공석 보충돼야 정상적 사건 진행… 헌재의 조속한 완성 촉구”&lt;br&gt;&lt;br&gt;“윤석열 대통령 탄핵심판, 최우선 처리 방침은 유지”&lt;br&gt;&lt;br&gt;“대통령 탄핵 사건 진행 본격화, 2025년 1월 1일부터 헌재 경호와 보안 강화 예정”&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[속보] 尹측 "헌재에 체포영장 권한쟁의·효력정지 가처분 신청 예정"</title>
-      <link>https://www.chosun.com/national/court_law/2024/12/31/FEI7B3J72JAHLOQO344CNZPNJI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/31/FEI7B3J72JAHLOQO344CNZPNJI/</guid>
-      <dc:creator>이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 31 Dec 2024 04:08:08 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OCGUZGLD6BHA3DEBII5Y46PNOY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령이 지난 3일 밤 서울 용산 대통령실 청사에서 긴급 대국민 특별 담화를 하고 있다. /대통령실&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 대통령 측은 31일 법원이 체포영장을 발부한 데 대해 헌법재판소에 권한쟁의 심판과 체포영장 효력정지 가처분을 신청할 예정이라고 밝혔다.&lt;br&gt;&lt;br&gt;윤 대통령을 변호하는 윤갑근 변호사는 이날 오후 취재진에게 이 같이 공지했다. 서울서부지법이 이날 오전 윤 대통령에 대해 체포영장을 발부한 데 대해 유감을 표명한 뒤, 체포영장을 고위공직자범죄수사처(공수처)가 집행하지 못하도록 대응에 나선 것이다.&lt;br&gt;&lt;br&gt;윤 변호사는 이날 오전 서울고검 청사에서 취재진과 만나 “권한이 없는 수사기관에서 청구한 영장이 발부된 데 대해 상당히 유감스럽다고 생각한다”고 했다. 공수처는 내란 혐의에 대한 수사 권한이 없어, 공수처가 체포영장을 청구한 것은 위법하다는 취지다. 윤 변호사는 이어 “위법사항이 해소되지 않는 한 대통령으로서는 (수사에) 응하기 어렵다고 생각한다”며 “(수사기관이) 법에 정해진 절차에 따라야 한다”고 주장했다.&lt;br&gt;&lt;br&gt;윤 변호사는 “정당한 권한을 가진 수사기관에서 정상적인 절차에 따라 (수사를) 진행한다면 그 절차에는 응하겠다”고 했다. 그러나 해당 절차가 어떤 것인지 묻는 취재진 질의엔 “가이드라인을 제시한다는 오해를 살 수 있다”며 말을 아꼈다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[속보] 검찰, ‘비상계엄’ 여인형·이진우 前 사령관 구속기소</title>
-      <link>https://www.chosun.com/national/court_law/2024/12/31/PRTT36WSYFFC3BPUOSYL3FMOVA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2024/12/31/PRTT36WSYFFC3BPUOSYL3FMOVA/</guid>
-      <dc:creator>유종헌 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 31 Dec 2024 04:33:43 +0000</pubDate>
-      <content:encoded>‘12·3 비상계엄' 사태를 수사하는 검찰이 31일 여인형 전 국군방첩사령관과 이진우 전 수도방위사령관을 구속기소했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5JIE4GTBKFAIXEZ3SVF4Y22LAU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;여인형 국군방첩사령관, 이진우 수도방위사령관. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰 비상계엄 특별수사본부(본부장 박세현 서울고검장)는 이날 두 사령관을 내란 중요 임무 종사, 직권남용 혐의로 재판에 넘겼다. 두 사람은 현역 군인 신분이어서 검찰과 합동 수사 중인 군검찰이 중앙지역군사법원에 기소했다.&lt;br&gt;&lt;br&gt;여 전 사령관은 비상계엄 상황에서 주요 요인 체포조 편성·운영을 주도하고, 중앙선거관리위원회 장악과 전산자료 확보를 시도한 혐의를 받는다. &lt;br&gt;&lt;br&gt;그는 김용현 전 국방부 장관으로부터 우원식 국회의장, 이재명 더불어민주당 대표, 한동훈 전 국민의힘 대표 등 10여명의 체포를 지시받고 조지호 경찰청장에게 안보수사요원 100명 지원 및 체포대상자 위치 추적을 요청한 것으로 조사됐다. 또 박헌수 국방부 조사본부 본부장에게도 조사본부 수사관 100명을 지원해달라고 요청했다.&lt;br&gt;&lt;br&gt;여 전 사령관은 김대우 방첩사 수사단장에게 이들을 신속히 체포해 수방사 B1벙커 구금 시설로 이송하라고 지시했다. 그러나 국회의 비상계엄 해제요구안 가결이 임박하자 김 전 장관은 여 전 사령관에게 ‘이재명, 우원식, 한동훈 이 3명부터 잡아라’고 지시하고, 여 전 사령관은 김 단장에게 이 같은 명령을 하달했다.&lt;br&gt;&lt;br&gt;여 전 사령관 휴대전화에선 체포조 운용, 계엄사령부 합동수사본부 운영 등 비상계엄 대비 계획 관련 메모가 나왔던 것으로 확인됐다. 일부 메모는 계엄 이틀 전인 지난 1일 작성됐다.&lt;br&gt;&lt;br&gt;이 전 사령관은 수방사 병력을 동원해 국회를 봉쇄하려 하고 국회의 계엄해제 의결 방해를 시도한 혐의를 받는다.&lt;br&gt;&lt;br&gt;그는 계엄 하루 전인 지난 2일 김 전 장관에게 “대통령 담화가 전파되는 시점에 전 장병 휴대폰 통합 보관, 마스크 착용·태극기 부착·공포탄 불출 등을 시행하겠다”고 보고한 것으로 조사됐다. 이 전 사령관은 이 같은 보고 직후 휴대전화로 ‘국회해산이 가능한가요’ ‘대통령 국회 해산권 있나요’ 등을 검색하기도 했다.&lt;br&gt;&lt;br&gt;한편 이 전 사령관은 국회에 출동해 수방사 병력을 지휘하는 과정에서 윤석열 대통령으로부터 수차례 전화를 받았다. 김 전 장관도 이 전 사령관에게 수시로 전화해 ‘왜 못 들어가냐’고 말한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>김동연 경기도지사, 제주항공 참사 희생자 합동분향소 조문</title>
