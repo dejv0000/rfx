@@ -13,6 +13,66 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>[속보] 공수처, 尹 체포영장 집행 중지…“대치 계속돼 불가능 판단”</title>
+      <link>https://www.chosun.com/national/court_law/2025/01/03/VKC6VLSULNCW5KFAW5JYKS6FDQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/01/03/VKC6VLSULNCW5KFAW5JYKS6FDQ/</guid>
+      <dc:creator>이민준 기자, 주형식 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 03 Jan 2025 04:36:56 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JK7QSMDJDNIWFGCSQJSXQ4H344.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;고위공직자범죄수사처가 윤석열 대통령의 체포영장 집행에 나선 3일 서울 용산구 한남동 대통령 관저 경내에서 공수처 수사관과 경찰 병력 등이 내려오고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;3일 윤석열 대통령 체포영장 집행에 나선 고위공직자범죄수사처(공수처)가 이날 오후 1시 30분 체포영장 집행을 중지했다고 밝혔다. 영장 집행을 시작한 지 5시간 30여 분 만이다. 도보로 관저 경내에 진입했던 체포팀은 발길을 돌려 철수했고, 오후 2시 5분쯤 관저를 떠났다. &lt;br&gt;&lt;br&gt;공수처와 경찰, 국방부 조사본부로 구성된 공조수사본부는 이날 오후 1시 36분 언론 공지를 통해 이 같이 밝혔다. 공조본은 “계속된 대치상황으로 사실상 체포영장 집행이 불가능하다고 판단했다”며 “집행 저지로 인한 현장 인원들 안전이 우려돼 오후 1시 30분쯤 집행을 중지했다”고 설명했다. 그러면서 “향후 조치는 검토 후 결정할 예정”이라며 “법에 의한 절차에 응하지 않은 피의자의 태도에 심히 유감을 표한다”고 했다.&lt;br&gt;&lt;br&gt;공수처는 이날 오전 6시 13분쯤 차량 5대에 검사와 수사관 등 체포팀 30명을 태워 윤 대통령 체포영장 집행에 나섰다. 오전 7시 18분쯤 한남동 대통령 관저 앞에 도착한 체포팀은 경찰 측 지원 인력 120명과 함께 관저 진입을 시도했고, 오전 8시 2분쯤 체포팀 80명가량이 정문을 통과해 관저 경내로 진입했다.&lt;br&gt;&lt;br&gt;그러나 관저 정문으로부터 수 백 m가량 떨어진 지점에서 경호처 측의 수색 불허로 대치가 이어졌다. 체포팀이 영장을 제시하고 협조를 요청했지만 박 처장은 “대통령경호법상 경호구역”이라며 “수색을 불허한다”는 입장을 밝혔다고 한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QMYOXCSR4NIEDBPAATFSQANKZQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;고위공직자범죄수사처(공수처)가 3일 윤석열 대통령 체포영장 집행을 시도한 가운데 서울 용산구 관저 앞에 경호처 직원들이 경계 근무를 서고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한편, 이날 오전 국민의힘 윤상현 의원, 윤 대통령을 변호하는 김홍일·윤갑근 변호사도 대통령 관저로 들어간 상태다.&lt;br&gt;&lt;br&gt;윤 의원은 이날 오전 11시쯤 본지 통화에서 “상황 중재를 위해 공수처 측 현장책임자와 대화하려고 관저 안으로 들어왔다”면서 “공수처 관계자들에게 ‘이것은 국격에도 맞지 않으니 일단은 물러나라’고 설득했고, 공수처 측에서도 처음에는 납득하는 것 같았지만 자기네끼리 얘기하더니 ‘오늘 (체포영장을) 집행하겠다고 하고 있다’”고 했었다. 윤 의원은 대치 상황과 관련해서 윤 의원은 “물리적인 충돌은 전혀 없다”고 전했다.&lt;br&gt;&lt;br&gt;김홍일·윤갑근 변호사 등 윤 대통령 변호인단은 관저 내부에서 윤 대통령 체포영장 집행에 대한 대응 방안을 논의한 것으로 전해졌다. 앞서 변호인단은 이날 입장문을 내고 “내란죄 수사 권한이 없는 공수처의 영장 청구는 위법으로, 영장 발부는 위헌·위법적 행위로 원천 무효”라며 “이를 집행하는 것은 위법”이라 주장했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QXKF4LXX7BKTXL6D4YWDFNMN6Q.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;공수처가 윤석열 대통령에 대한 체포영장 집행에 나선 3일 서울 용산구 한남동 대통령 관저 주변에 보수단체 회원과 윤석열 대통령 지지자들이 집결해 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/EOZX7BOKFRFB5MR7OQVSSSVRMU.jpg?width=2794&amp;height=1572&amp;auth=24f7eff2eac67cd12ecef0f9e102421e7d6c2b85b74eecd264e79ac57e0f73ef&amp;smart=true" type="image/jpeg" height="1572" width="2794">
+        <media:description type="plain"> 공수처, 체포영장 집행 불가능 판단…집행 중지
+    (서울=연합뉴스) 이진욱 기자 = 고위공직자범죄수사처가 윤석열 대통령의 체포영장 집행에 나선 3일 서울 용산구 한남동 대통령 관저 경내에서 공수처 수사관과 경찰 병력 등이 내려오고 있다. 2025.1.3
+    cityboy@yna.co.kr/2025-01-03 13:41:49/Media Only
+&amp;lt;저작권자 ⓒ 1980-2025 ㈜연합뉴스. 무단 전재 재배포 금지, AI 학습 및 활용 금지&amp;gt;</media:description>
+        <media:credit role="author" scheme="urn:ebu">이진욱</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>법원, 尹 대통령 체포영장 이의신청 검토 착수</title>
+      <link>https://www.chosun.com/national/national_general/2025/01/03/7UDCVFZYCJBJXMCMIMIUERR3LQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/03/7UDCVFZYCJBJXMCMIMIUERR3LQ/</guid>
+      <dc:creator>강지은 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 03 Jan 2025 04:45:55 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NYHXF66HPVJSDAQQAZH6P3BYVE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;고위공직자범죄수사처가 윤석열 대통령의 체포영장 집행에 나선 3일 서울 한남동 대통령 관저 입구에 윤 대통령 측 김홍일(오른쪽), 윤갑근 변호사가 도착한 모습./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;법원이 윤석열 대통령 측에서 제기한 체포·수색영장 이의신청에 대한 검토에 착수했다.&lt;br&gt;&lt;br&gt;서울서부지법은 윤 대통령 측이 제출한 체포·수색영장 이의신청을 재판부에 배당했다고 3일 밝혔다.&lt;br&gt;&lt;br&gt;지난 2일 윤 대통령의 법률대리인 윤갑근 변호사는 “지난달 31일에 발부된 체포·압수수색 영장은 형사소송법 및 헌법에 반해 집행할 수 없다”며 이의 신청을 제기했다. ‘검사 또는 사법경찰관의 구금·압수 등에 관한 처분에 불복이 있으면 관할 법원에 취소 또는 변경을 청구할 수 있다’는 형사소송법 417조를 근거로 들었다.&lt;br&gt;&lt;br&gt;이날 서울 용산구 한남동 대통령 관저에는 윤 대통령을 체포하기 위해 고위공직자범죄수사처(공수처)에서 30명, 경찰 특수단에서 120명이 투입됐다. 경호처 직원 및 군부대와 약 2시간동안 대치하던 체포조는 저지선을 뚫고 이날 오전 10시쯤 윤 대통령 관저 앞에 도착했다.&lt;br&gt;&lt;br&gt;그러나 공조수사본부는 “계속된 대치상황으로 사실상 체포영장 집행이 불가능하다고 판단하고 집행 저지로 인한 현장 인원들 안전이 우려된다”며 오후 1시 30분쯤 체포 영장 집행을 중지했다.&lt;br&gt;&lt;br&gt;앞서 지난달 31일 서울서부지법 이순형 영장전담 부장판사는 공수처가 청구한 대통령 체포영장 및 관저 수색영장을 발부했다. 그러면서 ‘군사상 비밀이나 공무원 직무상 비밀에 관한 곳은 책임자 등이 허락해야 수사기관의 압수수색이 가능하다’고 규정한 형사소송법 110조와 111조 적용을 예외로 한다고 적시했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>경찰 “관저 진입 과정서 수방사 군인과 몸싸움...입건 여부 검토”</title>
+      <link>https://www.chosun.com/national/2025/01/03/KMJPB5OQJ5GDZPXRAX7WCEAZDY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2025/01/03/KMJPB5OQJ5GDZPXRAX7WCEAZDY/</guid>
+      <dc:creator>주형식 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 03 Jan 2025 03:13:48 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PXIMHJ4SMRLLRA5VCY3YO4H6SM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령에 대한 체포 영장 집행을 시도한 3일 공조수사본부 관계자들이 관저에서 이동하고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;운석열 대통령에 대한 체포 영장 집행에 나선 공조수사본부(고위공직자범죄수사처·경찰)가 2일 대통령 관저로 진입하는 과정에서 수도방위사령부(수방사) 산하 55경비단 군인들과 몸싸움을 벌인 것으로 파악됐다. 경찰은 몸싸움을 벌인 군인들에 대해 특수공무집행방해 혐의로 입건을 검토한다는 방침이다.&lt;br&gt;&lt;br&gt;공수처 30명, 경찰 특수단 120명 등 150명이 이날 오전 8시쯤 체포영장 집행을 위해 서울 용산구 한남동 대통령 관저 정문 내에 진입했다. 경호처는 소형 버스 등으로 차벽을 세워 이들의 진입을 막았다.&lt;br&gt;&lt;br&gt;육군 수방사 55경비단 수십여명도 영장 집행을 막아섰다. 경찰에 따르면 이 과정에서 경찰이 군인들과 몸싸움을 벌였다. 윤 대통령 관저 외곽 경비는 수도방위사령부 산하 55경비단 등이 담당하고 있다. 수방사 소속이지만 작전통제권은 수방사령관이 아닌 경호처장이 가지고 있다.&lt;br&gt;&lt;br&gt;현장에서 체포된 인원은 없는 것으로 전해졌다. 경찰 지휘를 받으며 관저에서 근접 경호를 하는 서울경찰청 202경비단은 체포영장 집행 저지에 나서지 않은 것으로 전해졌다.&lt;br&gt;&lt;br&gt;경찰은 카메라로 확보한 채증 자료를 바탕으로 향후 이들에 대한 입건을 검토한다는 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/BQ6KIHEV55IP3O5Q422PSAGVX4.jpg?width=5502&amp;height=3437&amp;auth=65523402e71de8b479322997fa233acee38594dc30a4c5a3abdeb754beb101a6&amp;smart=true" type="image/jpeg" height="3437" width="5502">
+        <media:description type="plain">[서울=뉴시스] 최동준 기자 = 고위공직자범죄수사처(공수처)가 윤석열 대통령 체포영장 집행을 시도한 3일 서울 용산구 관저 입구에서 공수처 관계자들이 이동하고 있다. 2025.01.03. photocdj@newsis.com</media:description>
+        <media:credit role="author" scheme="urn:ebu">photocdj</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>오세훈 “무안 사고 아픔 함께할 것…필요한 모든 지원 하겠다"</title>
+      <link>https://www.chosun.com/national/regional/seoul/2024/12/29/JYUYMWUVT5F6BPSU2EA4UY2R7Y/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/seoul/2024/12/29/JYUYMWUVT5F6BPSU2EA4UY2R7Y/</guid>
+      <dc:creator>박진성 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 29 Dec 2024 02:06:13 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KYWYSCUV4FOYXCHFUKN2ONXEIM.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;제주항공 여객기 참사 닷새째인 지난 2일 오후 전남 무안국제공항 사고 현장의 여객기 기체 꼬리 동체 절단부 주변 잔해물 더미에서 화재가 발생해 검은 연기가 피어오르고 있다. 화재는 1분여 만에 진압돼 인명피해는 없으나 잔해물 일부가 타거나 그을렸다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;오세훈 서울시장은 29일 발생한 전남 무안공항 여객기 활주로 이탈 사고와 관련해 “서울시는 국민의 아픔에 함께하며 필요한 모든 지원을 다 할 것을 약속드린다”고 말했다.&lt;br&gt;&lt;br&gt;오 시장은 이날 페이스북 글을 통해 이같이 말했다.&lt;br&gt;&lt;br&gt;오 시장은 “사고에 깊은 유감을 표하며 피해를 입은 분들과 가족들께 진심 어린 위로를 전한다”고 했다.&lt;br&gt;&lt;br&gt;또 오 시장은 “신속한 구조활동과 구조대원의 안전을 최우선으로 삼아 대응할 것을 당부드린다”며 “모두가 힘을 모아 이 위기를 극복할 수 있도록 함께하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>제주항공 참사 철야 압수수색 26시간 만에 종료…운항·시설 자료 확보</title>
+      <link>https://www.chosun.com/national/national_general/2025/01/03/X5EJEJHNC5DCFOYKVY7PIAJCKY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/03/X5EJEJHNC5DCFOYKVY7PIAJCKY/</guid>
+      <dc:creator>무안=진창일 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 03 Jan 2025 04:01:18 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/66FQKZNDWNNINL7WZLEE5PRGTA.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;제주항공 여객기 참사 엿새째인 3일 오후 전남 무안국제공항 참사 현장에서 국과수 관계자들이 여객기 잔해를 살펴보고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제주항공 참사 원인 규명과 책임자 처벌을 위한 증거자료를 확보하는 경찰 압수수색이 철야작업 끝에 마무리됐다.&lt;br&gt;&lt;br&gt;전남경찰청 제주항공 여객기 사고 수사본부는 3일 오전 10시 40분쯤 무안국제공항 사무실 등을 대상으로 한 압수수색을 모두 마쳤다.&lt;br&gt;&lt;br&gt;수사본부는 전날 오전 9시 무안공항과 부산지방항공청 무안출장소, 제주항공 서울사무소 등 3곳을 대상으로 압수수색을 벌였다.&lt;br&gt;&lt;br&gt;부산지방항공청과 제주항공 서울사무소 등을 대상으로 한 압수수색은 각각 전날 오후 2시와 오후 7시쯤 마쳤지만, 무안공항은 영상과 서류 복사 등 물리적 시간이 필요해 약 26시간 동안 진행됐다.&lt;br&gt;&lt;br&gt;경찰은 이번 압수수색을 통해 사고 여객기의 이동경로와 상황을 확인할 수 있는 활주로 인근 방범카메라(CCTV) 영상, 사고기 운항·정비 이력, 시설 관련 기록 등을 확보한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;수사본부는 확보한 증거물 분석을 통해 참사 피해를 키운 원인으로 지목된 로컬라이저(착륙 유도 시설) 설치 위치의 적정성, 조류 충돌 경고 전후 관제탑과 조종사 교신 내용 등을 따져볼 것으로 전망된다.&lt;br&gt;&lt;br&gt;경찰은 앞서 제주항공 김이배 대표 등 관계자 2명을 중요 참고인으로 판단해 출국 금지 조처도 내렸다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/66FQKZNDWNNINL7WZLEE5PRGTA.JPG?width=5328&amp;height=3381&amp;auth=d3b17089683f14ad3323fcd5603c575e0d40ee05c9b42a55570f8e8926624552&amp;smart=true" type="image/jpeg" height="3381" width="5328">
+        <media:description type="plain">(무안=뉴스1) 오대일 기자 = 제주항공 여객기 참사 엿새째인 3일 오후 전남 무안국제공항 참사 현장에서 국과수 관계자들이 여객기 잔해를 살펴보고 있다.. 2025.1.3/뉴스1</media:description>
+        <media:credit role="author" scheme="urn:ebu">(무안=뉴스1) 오대일 기자</media:credit>
+      </media:content>
+    </item>
+    <item>
       <title>“최고의 동체착륙이었다”…같은 기종 몰아본 파일럿이 반박한 의문점 넷</title>
       <link>https://www.chosun.com/national/national_general/2025/01/03/Q6Z6DWGO7JFSJMXRGUQQ7WHZ7A/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/03/Q6Z6DWGO7JFSJMXRGUQQ7WHZ7A/</guid>
@@ -886,24 +946,6 @@
       <content:encoded>오세훈 서울시장이 2일 “규제를 철폐해 사회·경제의 활력을 되살리는 것은 선택의 문제가 아닌 필수적 과제”라며 “규제 철폐를 선도해 시민의 숨통을 틔우고 미래를 열어가겠다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/S3U3CAFAJ5C7BFN4X3EOCNHH5U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;오세훈 서울시장이 작년 7월 서울시청 집무실에서 본지와 인터뷰를 갖고 있다. /김지호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;오 시장은 이날 페이스북에 ‘올해 첫 회의에서도 ‘규제 철폐’가 ‘민생 살리기’임을 강조했습니다’라는 제목의 글을 올리고 “올해 서울시정의 화두는 ‘규제 철폐’”라며 이같이 말했다.&lt;br&gt;&lt;br&gt;이어 오 시장은 “규제 개혁보다 한층 강력한 의지를 담아 직접 ‘규제 철폐’라는 이름을 붙인 것”이라며 “‘개혁’이 기존 제도를 손보는 수준이라면 ‘철폐‘는 불필요한 제도를 과감히 없애는 더욱 적극적인 태도를 의미한다”고 말했다.&lt;br&gt;&lt;br&gt;오 시장은 “오늘 아침 열린 올해 첫 간부회의에서 규제 철폐는 이벤트가 아니라는 점을 분명히 했다”며 “모든 부서와 직원들이 창의제안 방식으로 규제 철폐 아이디어를 제안하도록 했다”고 했다. “일선 창구 공무원들의 규제 개선 아이디어를 활성화하는 보상 체계도 가동하겠다”고 덧붙였다.&lt;br&gt;&lt;br&gt;또 오 시장은 “시민이 인허가 과정에서 겪는 불확실성, 특히 실무진의 위험 회피형 소극 행정이 민생의 가장 큰 적”이라며 “현재 민생의 어려움, 경제적 불확실성을 고려할 때, 규제를 철폐하여 사회·경제적 활력을 되살리는 것은 선택의 문제가 아니라 필수적인 과제”라고 했다.&lt;br&gt;&lt;br&gt;그는 “서울시가 규제 철폐를 선도하며 시민의 숨통을 틔우고 미래를 열어 가겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>제주행 비행기서 선물 건넨 아이…그렁그렁 눈물 맺힌 승무원이 건넨 답장엔</title>
-      <link>https://www.chosun.com/national/national_general/2025/01/02/BRAAX774ZRHTRJP2CA52D6GSTM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/02/BRAAX774ZRHTRJP2CA52D6GSTM/</guid>
-      <dc:creator>김자아 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 02 Jan 2025 05:55:45 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DOQRRGAUPJC35E5O5N7KI72ELI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;제주행 비행기에 탑승한 어린이 승객이 건넨 편지에 승무원이 쓴 답장./스레드&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제주항공 여객기 참사 이후 제주에 사는 가족 방문을 위해 비행기를 탄 어린이 승객이 승무원들에게 편지와 간식을 준비한 사연이 전해졌다.&lt;br&gt;&lt;br&gt;1일 소셜미디어(SNS) 스레드에는 ‘두 딸과 함께 친정 제주로 가는 길’이라는 내용의 글이 올라왔다.&lt;br&gt;&lt;br&gt;작성자는 “딸들이 비행기를 타고 제주도에 간다고 했다가 친구들에게 안 좋은 이야기를 들었다더라”고 운을 뗐다.&lt;br&gt;&lt;br&gt;이어 “큰딸이 그 말에 흔들리지 않고 승무원 언니들에게 전해줄 편지를 준비했다”며 “우리를 안전하게 보살펴 주셔서 감사하다는 내용을 썼더라”고 했다.&lt;br&gt;&lt;br&gt;작성자의 딸은 비행기에 탑승하면서 미리 준비한 편지와 과자 한 봉지를 검표하는 승무원에게 건넸다. 아이에게 선물을 받은 승무원은 비행기 이륙 전 답장과 사탕 등이 담긴 선물 꾸러미를 들고 이들 좌석으로 찾아왔다고 한다.&lt;br&gt;&lt;br&gt;작성자는 “답장과 선물을 건네주는 승무원의 눈이 그렁그렁했다”며 “나도 울컥했는데 승무원들은 오죽했을까 하는 생각이 들었다”고 했다.&lt;br&gt;&lt;br&gt;작성자는 딸이 받은 편지도 공개했다. 승무원은 국내 한 저비용항공사(LCC) 로고가 찍힌 메모지에 “어린이 손님 선물 고마워요. 예쁜 마음에 이모, 삼촌들이 정말 감동받았어요. 가족들과 행복한 여행 되고, 내년에도 즐거운 날들만 가득하길 바라요”라고 적었다. 말미에는 행운을 상징하는 네잎클로버 그림도 그려 넣었다.&lt;br&gt;&lt;br&gt;사연을 접한 네티즌들은 “내가 다 울컥한다” “사고 이후에 마음이 마음이 아닌데 아무 상관없는 나도 위로받은 기분이다” “승무원들 정말 감동했겠다” 등의 반응을 보였다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“서른 생일 맞아…” 뭉칫돈 1500만원 자선냄비에 넣고 사라진 여성</title>
-      <link>https://www.chosun.com/national/national_general/2025/01/02/GB3ZZT5UQJCLJHWW7BGI6M7NUU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/02/GB3ZZT5UQJCLJHWW7BGI6M7NUU/</guid>
-      <dc:creator>최혜승 기자 </dc:creator>
-      <description/>
-      <pubDate>Thu, 02 Jan 2025 06:39:48 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CSXBXS3TMVDURI5JWRPPME6VVA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;자선냄비에 찾아와 익명으로 전달한 1500만원과 편지/ 연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울에서 한 30대 여성이 구세군 자선냄비에 1500만원을 익명으로 기부하고 사라져 감동을 주고 있다.&lt;br&gt;&lt;br&gt;2일 구세군대한본영(구세군)에 따르면, 지난달 29일 서울 경복궁역 내 자선냄비에 한 젊은 여성이 찾아와 5만원권 돈다발 세 뭉치와 자필로 쓴 편지 한 통을 전달했다. 구세군이 이후 확인해 보니 여성이 두고 간 기부금은 총 1500만원으로 ‘한국은행’이라고 적힌 띠지에 빳빳한 5만원권이 100장씩 3묶음이 담겨 있었다.&lt;br&gt;&lt;br&gt;자필로 쓰여진 편지에는 “30살 생일을 맞이해 이렇게 기부할 수 있게 되어 기쁘다”며 “지난 30년간 하나님의 은혜와 사랑을 아무 자격 없는 제가 넘치도록 받아 왔다. 앞으로 남은 생은 제가 받은 사랑을 나누며 살고 싶다”고 적혀 있었다.&lt;br&gt;&lt;br&gt;이어 “불안하고 갈등이 많은 이 시대에 가장 힘들게 사는 이들을 먼저 보살피는 따뜻한 한국 사회가 되길 기도한다”며 “기부자들과 도움이 필요한 이웃들 사이에 다리가 되어주는 구세군 직원분들께 감사 인사를 전한다”고 했다.&lt;br&gt;&lt;br&gt;편지 말미에는 ‘2024년 12월 29일 서울에서’라고 적혀 있었으며 빨간 하트가 그려져 있었다. 기부자는 신원이 알려지길 원하지 않는다는 바람을 구세군에 전한 것으로 알려졌다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2FDWKRFD25JSZBKAZXXWTKWMGU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt; 3일 오후 대구 중구 동성로에서 구세군 관계자가 자선냄비 모금 활동을 하고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한편 구세군은 제주항공 여객기 참사가 발생한 무안국제공항에서 지난달 31일부터 식당차를 보내 유족을 위해 하루 1000명분의 음식을 제공하고 있다. 이 식당차는 오는 4일까지 운영될 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[속보] 헌재 “재판관 임명 부작위 헌법소원도 신속 심리”</title>
       <link>https://www.chosun.com/national/court_law/2025/01/02/PGJ2R2R65RHGFADQHWBWBMPFDY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/01/02/PGJ2R2R65RHGFADQHWBWBMPFDY/</guid>
@@ -920,33 +962,6 @@
       <description/>
       <pubDate>Wed, 01 Jan 2025 15:50:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/475YTQG4KRARHEZSYF7RBFXVUQ.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=조선디자인랩 이민경&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;올해부터 65세 노인 가운데 혼자 사는 단독 가구는 월 소득 228만원 이하면 기초연금을 받을 수 있다. 지난해엔 213만원 이하여야 받을 수 있었는데, 기초연금 선정 기준이 7% 정도 완화된 것이다.&lt;br&gt;&lt;br&gt;1일 보건복지부는 2025년 기초연금 선정 기준액을 발표했다. 기준액은 단독 가구는 228만원, 부부 가구는 364만8000원이다. 부부 가구의 선정 기준액도 지난해(340만8000원)보다 7%가량 올랐다.&lt;br&gt;&lt;br&gt;기초연금은 65세 이상 노인 가운데 소득 하위 70%에게 지급한다. 노인 가구의 월 소득 인정액(근로소득과 재산 등을 합산한 금액)이 선정 기준액보다 적으면 받을 수 있다.&lt;br&gt;&lt;br&gt;올해 선정 기준액이 오른 것은 65세 이상 노인의 소득이 늘어난 영향이 크다. 지난해 노인 근로소득은 전년보다 11.4%, 공적 연금 소득은 12.5%씩 상승했다. 다만 선정 기준액의 인상률(7%)이 소득 증가율에 미치지 못하는 이유는 노인들이 소유한 건물, 토지 등 자산 가치가 각각 4.1%, 0.9% 하락했기 때문이다.&lt;br&gt;&lt;br&gt;정부는 올해부터 노인이 같이 살지 않는 자녀들에게 교육비나 의료비를 지원해 주기 위해 큰돈을 통장에서 뽑아 쓴 경우 재산 규모가 줄어든 것으로 인정해주기로 했다. 작년까지는 소득을 산정하는 과정에서 이런 경우가 발견되면 기초연금을 받으려고 재산을 일부러 줄이려는 시도로 보고 인정해주지 않았다.&lt;br&gt;&lt;br&gt;기초연금은 본인이 직접 신청을 해야 받을 수 있다. 올해 65세가 되는 어르신은 생일이 있는 달의 이전 달부터 전국 읍·면·동 행정복지센터나 국민연금공단 지사를 방문하거나 인터넷 ‘복지로’ 홈페이지(www.bokgiro.go.kr)에서 신청할 수 있다. 기존에 기초연금을 받던 어르신은 추가 신청을 하지 않아도 된다. 대부분 월 34만3510원(단독 가구 기준)을 받지만, 월소득이 선정 기준액(228만원) 근처인 노인은 차액만큼만 기초연금을 받는다. 예컨대 월소득이 200만원이면 기초연금을 28만원만 받는다. 또 국민연금을 기초연금의 1.5배 이상 받는 경우에도 기초연금이 일부 깎인다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>공수처장 “尹 체포영장 원칙따라 권한 행사…기한 내 집행”</title>
-      <link>https://www.chosun.com/national/court_law/2025/01/01/O77DGZGN3RACJGTXGBCICYKWXQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/01/01/O77DGZGN3RACJGTXGBCICYKWXQ/</guid>
-      <dc:creator>이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 31 Dec 2024 23:57:07 +0000</pubDate>
-      <content:encoded>오동운 고위공직자범죄수사처장은 윤석열 대통령 체포영장에 대해 “공수처는 원칙에 따라 권한을 행사할 예정”이라며 “기한 내에 (영장을) 집행할 것”이라고 1일 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GCL755JRRBPHNKDUM6QDBBXLXA.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;오동운 고위공직자범죄수사처(공수처) 처장이 1일 오전 경기도 과천시 공수처로 출근하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;오 처장은 새해 첫날 출근길에 취재진과 만나 이 같은 입장을 밝혔다. 오 처장은 ‘대통령경호처가 체포영장 집행을 방해하면 특수공무집행방해로 입건할 수 있다는 경고 공문을 보냈느냐’는 취재진 질문엔 “이미 그 공문을 보냈다”며 “직권남용죄, 특수공무집행방해죄로 입건할 수 있음을 엄히 경고했다”고 답했다.&lt;br&gt;&lt;br&gt;구체적으로 오 처장은 “바리케이드 (설치하거나), 그 다음에 철문 등을 잠그고 우리 체포영장 집행에 응하지 않는 것 자체가 공무집행방해라고 인식하고 있다”고 강조했다.&lt;br&gt;&lt;br&gt;다만 오 처장은 상세한 체포영장 집행 시기에 대해서는 말을 아꼈다. 그는 “정해진 (체포영장) 집행 날짜는 없지만 기한 내에 집행할 것”이라고 했다. 공수처가 지난달 31일 법원으로부터 발부받은 체포영장의 집행 기한은 오는 6일이다.&lt;br&gt;&lt;br&gt;윤 대통령의 내란 혐의에 대한 수사 권한이 없는 공수처가 체포·수색영장을 청구해 발부 받은 것은 무효라는 윤 대통령 측의 반발에 대해 오 처장은 “수사 권한에 대한 논의는 법원의 영장 발부 결정으로 종식됐다고 저는 인식하고 있다”고 했다. 윤 대통령 측 변호인단이 체포영장 효력 정지 가처분 등을 신청한 데 대해선 “적법한 권리 구제 절차가 아닌 것으로 알고 있다”고 했다.&lt;br&gt;&lt;br&gt;오 처장은 “저희들은 엄정하게 법을 집행할 뿐”이라며 “대통령에 대해 너무 과도한 비난이 나오거나 적법 절차에 의하지 않는 행위가 일어나지 않도록 특별히 수사진에 당부도 했다”고 했다. 그러면서 “엄정한 법 집행은 하되 예의는 지킬 것이니 우리 공수처의 소환에 응하기를 바라는 마음”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>헌재 “대통령 탄핵 사건 최우선 처리 방침 유지”</title>
-      <link>https://www.chosun.com/national/court_law/2025/01/01/OAAHR25ZJNEXZGKC7Y2MKIUP6E/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/01/01/OAAHR25ZJNEXZGKC7Y2MKIUP6E/</guid>
-      <dc:creator>방극렬 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 31 Dec 2024 16:00:21 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IHLFQGHC35DSDAKT4EUWN2OV4I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령. /대통령실&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;헌법재판소가 탄핵 심판 사건 10건 가운데 윤석열 대통령 탄핵 사건을 최우선으로 처리하는 방침을 유지하겠다고 31일 밝혔다. 헌재는 또 최근 접수된 한덕수 대통령 권한대행의 탄핵 심판 심리도 시작했다.&lt;br&gt;&lt;br&gt;이진 헌재 공보관은 이날 브리핑에서 “대통령 탄핵 사건을 최우선으로 처리한다는 방침은 그대로 유지한다”고 밝혔다. 윤 대통령과 한 권한대행, 이진숙 방통위원장, 최재해 감사원장 등 탄핵 사건 10건 중 사안의 중대성을 고려해 대통령 탄핵 심판을 최우선으로 심리하겠다는 취지다.&lt;br&gt;&lt;br&gt;이 공보관은 또 “한 권한대행의 탄핵 사건을 변론 준비 절차에 회부했다”며 “(재판 준비를 담당하는) 수명(受命) 재판관에 김형두·김복형 재판관을 지정했다”고 말했다. 국민의힘이 지난 27일 국회가 한 권한대행에 대한 탄핵을 소추하며 대통령 탄핵 의결정족수인 200석이 아닌 일반 국무위원 의결정족수 151석을 적용한 데 대해 권한 쟁의 심판을 청구한 사건도 심리를 시작했다. 두 사건의 주심은 김형두 재판관이 맡는 것으로 전해졌다.&lt;br&gt;&lt;br&gt;한편, 최상목 대통령 권한대행 겸 경제부총리가 이날 공석이던 국회 몫 재판관 3명 중 2명(조한창·정계선)을 임명하면서 헌재는 8명 체제가 됐다. ‘7인 이상 심리’를 요건으로 하는 헌법재판소법을 충족하게 된 것이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>공수처 ‘서부지법 영장 청구’ 논란… 법조계 “발부 유리하게 판사 쇼핑”</title>
-      <link>https://www.chosun.com/national/court_law/2025/01/01/K67R4HMMDZGGVJYFSMLUZ2HT2A/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/01/01/K67R4HMMDZGGVJYFSMLUZ2HT2A/</guid>
-      <dc:creator>이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 31 Dec 2024 15:59:58 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SJBE5KZ52NOEDNZVU6SZBOFDJQ.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;경기 과천시 과천정부청사 고위공직자범죄수사처(공수처)의 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;고위공직자범죄수사처(공수처)가 지난 30일 내란 등 혐의를 받는 윤석열 대통령에 대한 체포영장을 서울중앙지법이 아닌 서울서부지법에 청구한 것을 두고 논란이다. 공수처는 윤 대통령이 머무르는 서울 용산구 한남동 관저의 관할 법원이 서부지법인 점을 고려했다는 입장이다. 그러나 법조계에선 “영장 발부에 유리한 판사를 찾은 것 아니냐”는 말이 나온다.&lt;br&gt;&lt;br&gt;법에는 수사 단계에서 영장을 청구할 때는 관할 법원 판사에게 청구하라고 돼 있다. 다만 공수처는 검찰과 달리 관할 법원이 불분명하다. 공수처법이 공수처 검사가 기소한 사건의 1심 재판은 중앙지법이 관할하도록 규정할 뿐이다.&lt;br&gt;&lt;br&gt;하지만 윤 대통령 사건은 공수처에 기소권조차 없다. 수사 후 사건을 서울중앙지검으로 보내 기소를 요구하게 돼 있다. 이때 중앙지검의 관할 법원은 중앙지법이 되는 것이다. 윤 대통령 측 윤갑근 변호사는 31일 “공수처는 이례적으로 윤 대통령 체포영장만 서부지법에 청구했다”며 “영장 쇼핑”이라고 했다.&lt;br&gt;&lt;br&gt;최근 중앙지법은 내란 혐의를 받는 김용현 전 국방 장관의 구속 영장을 발부하면서 “검찰청법 4조 1항에 의해 검사가 수사를 개시할 수 있는 범죄의 범위 내에 해당한다”고 했었다. 이는 경찰공무원의 범죄는 혐의에 상관없이 검찰이 수사할 수 있다는 조항이다. 내란 혐의로 구속된 조지호 경찰청장 등과 공범이기 때문에 검찰에 수사권이 있다는 것이다. 그러나 공수처는 현재 수사 중인 경찰공무원이 없어서 논란이 생긴 것이다.&lt;br&gt;&lt;br&gt;공수처가 영장 발부에 유리한 판사를 찾아 이른바 ‘판사 쇼핑’을 했다는 말도 나온다. 민주당이 헌법재판관 후보로 추천한 정계선 법원장과 마은혁 부장판사가 모두 서부지법 출신이기 때문이다. 또 영장을 발부한 이순형 영장 전담 부장판사는 진보 성향 판사 모임인 우리법연구회 출신으로 전해졌다.&lt;br&gt;&lt;br&gt;검찰 출신 김종민 변호사는 “공수처는 피의자 주거지 및 범죄지가 대통령실이라는 이유로 서부지법에 관할이 있다고 주장하겠지만 꼼수일 뿐”이라며 “수사기관이 편법으로 영장 판사 쇼핑을 하는 것이라면 형사 사법 제도가 붕괴될 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>공수처 “법대로 집행” 경호처 “법대로 경호” 충돌 우려</title>
