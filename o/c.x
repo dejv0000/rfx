@@ -13,6 +13,106 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>참사에 연차 쓰고 무안 찾은 공보의 한의사들...무안군에도 기부금 쏟아져</title>
+      <link>https://www.chosun.com/national/national_general/2025/01/03/NAMUA4Q5MJFWVDZUO2VDJ76JLA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/03/NAMUA4Q5MJFWVDZUO2VDJ76JLA/</guid>
+      <dc:creator>김병권 기자, 김도균 기자, 현정민 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 03 Jan 2025 14:01:24 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2JGN7AQIDZEIFMBRGDAVOBLM3Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 2일 무안공항 1층 화장실 옆 4평 남짓한 공간에서 한의사가 환자를 진료하고 있다. /김병권 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘제주항공 참사’가 발생한 전남 무안공항 1층 화장실 옆. 작은 ‘한의 진료실’ 간판이 내걸렸다. 지난 2일 오후 흰색 가운을 입은 한의사가 4평 남짓한 자리에 테이블을 하나 놓고 유족의 맥을 짚고 있었다. 옆 침대에는 허리에 침을 맞은 다른 유족이 누워 있었다.&lt;br&gt;&lt;br&gt;“가슴이 너무 답답하고 속이 아파요.” “원래 혈압약 드시죠? 식사는 드셨어요? 이 약 한번 드셔보세요. 힘드시더라도 밥 꼭 챙겨드시고요.”&lt;br&gt;&lt;br&gt;한의사 A씨가 한약이 든 봉지를 건네자 60대 유족의 눈시울이 붉어졌다. 그는 “이번 사고로 형을 잃어 5일째 여기서 울다 말다 하는데 한의사 선생님이 약까지 챙겨주시니 참 고맙다”며 “원래 몸이 안 좋은데 한의사 선생님이 계셔서 마음이 놓인다”고 했다.&lt;br&gt;&lt;br&gt;무안공항 작은 한의 진료실은 새해 첫날인 지난 1일 문을 열었다. 전국의 한의사 공중보건의 14명이 연차나 출장을 내고 달려왔다.&lt;br&gt;&lt;br&gt;희생자 수습이 길어지면서 환자도 늘어나고 있다. 첫날 77명, 둘째날 143명이 진료실을 찾았다. 이날도 유족과 자원봉사자들이 줄을 섰다.&lt;br&gt;&lt;br&gt;한의사 조옥현(56)씨는 “유족들이 추운 날씨에 공항 대합실 텐트에서 쪽잠을 자고 있다”며 “그래서 감기 몸살이나 근육통을 호소하는 경우가 많다”고 했다. 불면증으로 오는 유족도 많다고 한다. 경북 예천에서 왔다는 박성주(28)씨는 “수시로 화가 나서 죽을 것 같다는 유족도 많다”고 했다.&lt;br&gt;&lt;br&gt;유족들이 몰리면서 진료실은 24시간 운영 중이다. 한의사들이 교대로 진료실을 지킨다. 한의사 박씨는 “밥도 제대로 못 먹고 있지만 유족분들이 고맙다고 손을 잡는데 오길 잘했다 싶다”고 했다.&lt;br&gt;&lt;br&gt;참사 이후 전남 무안군에는 기부금이 쏟아지고 있다. 행정안전부는 지난달 30~31일 이틀간 무안군에 ‘고향 사랑 기부금’ 1만1000건, 총 11억원이 모였다고 밝혔다. 고향 사랑 기부는 자기 고향 등 지방자치단체에 기부금을 내고 특산품 등을 답례로 받는 제도다. 지난해 무안군의 모금액은 지난달 29일 사고 전까지 4억4000만원(3000건)이었는데 이틀 만에 그 2.5배가 모인 것이다. 행안부 관계자는 “온라인 커뮤니티 등에 ‘고향 사랑 기부를 통해 무안을 돕자’는 게시물이 잇따라 올라오면서 전국에서 기부금이 쏟아졌다”고 했다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>尹체포팀 진입 불허하자...경찰, 경호처장 현행범 체포하려 했다</title>
+      <link>https://www.chosun.com/national/national_general/2025/01/03/DGVZJIBPEBGNNJJETAACHGJJQU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/03/DGVZJIBPEBGNNJJETAACHGJJQU/</guid>
+      <dc:creator>고유찬 기자, 장윤 기자, 한영원 기자, 조민희 기자, 이호준 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 03 Jan 2025 13:09:29 +0000</pubDate>
+      <content:encoded>윤석열 대통령 체포팀은 3일 오전 7시 18분 서울 용산구 한남동 공관 구역 정문에 도착했다. 윤 대통령 관저와 국회의장·대법원장, 군 수뇌부 공관이 밀집한 구역이다. 오전 6시 13분 경기 과천에서 출발한 공수처 검사·수사관 30여 명에 경찰 100여 명이 합류했다. 투입 인원과 체포 계획을 점검한 뒤 오전 8시 4분 공관 구역 정문을 통과해 초유의 현직 대통령 체포 영장 집행을 개시했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BV4RDBMI5BCU7JL4IVUDALGNYM.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=이철원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;공관 구역 정문에서 윤 대통령 관저 건물까지는 500m가량 언덕을 올라가야 한다. 하지만 입구에 들어서자마자 체포팀 앞을 대형 버스 1대가 가로막았다. 대통령 경호처가 이들의 진입을 저지하기 위해 설치한 1차 저지선이었다. 경호처 직원 50여 명과 군인들이 체포팀을 기다리고 있었다는 것이 공수처 설명이다. 체포팀은 윤 대통령 체포 영장을 제시했다. 김성훈 경호차장은 “우리는 경호법에 따라 경호만 할 뿐이고 영장은 우리가 판단하기 어려우니 변호사와 상의하라”고 했다. 하지만 체포팀은 그대로 관저로 진입을 시도했고 이 과정에서 몸싸움이 벌어졌다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BEMFFL5XEVHIZDK6CPHW2IGZCM.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=이철원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;1차 저지선을 돌파하는 데 50분가량이 걸렸다. 체포팀이 언덕을 100~150m쯤 올라가자 소형 버스와 육군 수도방위사령부 군사경찰단의 소형 전술 차량으로 구축된 2차 방어선이 또 나타났다. 오전 9시쯤이었다. 이 주변을 역시 경호처 직원과 군인들이 지키고 있었다. 체포팀은 또 돌파를 시도했고, 공관 구역 정문 바깥에서 대기 중이던 경찰 인력 30여 명을 추가로 투입했다.&lt;br&gt;&lt;br&gt;40여 분에 걸친 돌파 시도 끝에 체포팀은 2차 저지선을 뚫고 150m가량을 더 전진, 대통령 관저 정문에서 200m 지점까지 진입하는 데 성공했다. 대통령 관저 진입로는 좁은 굽잇길이다. 체포팀 일부는 산길을 타고 관저 진입을 시도하기도 했다. 하지만 오전 9시 50분쯤, 이들 앞에 3차 저지선이 또 나타났다.&lt;br&gt;&lt;br&gt;공수처 관계자는 “이번엔 대형 버스나 승용차 등 10대 이상이 진입로를 완전히 막고 있었다”며 “경호처 직원과 군인들 200여 명이 겹겹이 벽을 쌓고 있어 도저히 뚫고 가기가 불가능한 상황이었다”고 했다. 1·2차 저지선에서 대기하던 경호처와 군 병력이 올라와 팔짱을 끼고 ‘인간 바리케이드’를 쳐서 체포팀을 막아섰다는 것이다.&lt;br&gt;&lt;br&gt;양측은 한동안 대치했고, 경호처는 일단 공수처 검사 3명만 관저 정문까지 진입하는 것을 허용했다. 윤 대통령이 있는 관저에서 50m가량 떨어진 지점이다. 검사들은 여기서 미리 대기 중이던 윤 대통령 변호인단을 만나 윤 대통령 체포 영장을 제시했다. 변호인단은 “내란죄 수사권이 없는 기관인 공수처가 청구한 영장을 받아들일 수 없다”며 거부했다고 한다. 검사들은 박종준 경호처장에게도 영장을 보여줬으나 박 처장 역시 “대통령 경호법상 경호 구역을 이유로 수색을 불허한다”고 거부했다.&lt;br&gt;&lt;br&gt;이 과정에서 체포팀 일부는 진입을 불허하는 박 처장 등 경호처 관계자들을 특수공무집행방해 혐의로 현행범 체포하려 했던 것으로 알려졌다. 하지만 공수처는 유혈 사태를 우려해 이를 불허했다. 공수처 관계자는 당시 상황과 관련, 실탄 휴대 여부는 확인하지 못했지만 일부 경호처 직원이 개인 화기를 휴대하고 있었다고 밝혔다.&lt;br&gt;&lt;br&gt;체포팀은 오후 1시 30분쯤 더는 영장 집행이 불가능하다고 판단, 5시간 26분 만에 철수를 결정했다. 공수처 관계자는 “체포팀보다 많은 인원이 집결한 상황에서 안전 우려가 커서 집행을 중지했다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/333CNQHZ7JG27LITZXOYE4SVZM.png?width=1200&amp;height=675&amp;auth=a3bbb52e8840bb1b628bec61684534e0db59da066c82c314f92a5c14343f21bf&amp;smart=true" type="image/png" height="675" width="1200">
+        <media:description type="plain">그래픽=이철원</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>尹 체포 저지에 병사 동원 논란...경호처 “사실 무근” 공조본 “채증됐다”</title>
+      <link>https://www.chosun.com/national/2025/01/03/O5UMKJBB4ZFX7HMRR7CPAWP55M/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2025/01/03/O5UMKJBB4ZFX7HMRR7CPAWP55M/</guid>
+      <dc:creator>주형식 기자, 이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 03 Jan 2025 11:59:36 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/O6EYOOAYTJKNRPQR4YG4EDOJLY.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;공조본이 3일 서울 용산구 한남동 대통령 관저에 진입하자 대통령경호처, 군인 등이 이를 가로막고 있는 모습./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대통령경호처는 3일 윤석열 대통령에 대한 체포 영장 집행을 저지하는 과정에서 병역 의무 이행을 위해 입대한 병사들을 동원했다는 의혹을 받고 있다. 이와 관련해 경호처는 “사실이 아니다”라고 밝혔다. 반면 고위공직자범죄수사처(공수처), 경찰, 국방부 조사본부로 구성된 공조본은 “병사들이 동원된 것으로 보고 있다”는 입장이다.&lt;br&gt;&lt;br&gt;경호처는 이날 공지에서 “일부 언론에서 의무복무 병사들인 55경비단이 체포영장 집행 과정에 동원된 것으로 보도했으나 이는 사실이 아니다”라고 말했다. 경호처는 “관저 지역은 군사 보호시설로 평시 해당 병사들이 근무하고 있으나, 공수처 도착 시 대치가 격화될 것을 대비하여 경호처 직원들로 교체하였고, 병사들은 후방 근무로 전환했다”고 설명했다. 육군 수도방위사령부 소속 55경비단은 대통령 관저 외곽 경호를 담당하는 경호부대로, 경호처의 지휘·통제를 받는다.&lt;br&gt;&lt;br&gt;반면 공조본은 당시 현장에 병사가 출동한 것으로 판단할 만한 정황을 확보한 것으로 전해졌다. 경찰 관계자는 “채증으로 확보된 여러 정황들이 있다”고 했다. 공수처 관계자는 “당시 현장에 출동했던 수사관들 말을 종합하면 당시 체포 영장 집행 저지 과정에서 의무 복무 사병이 투입됐던 것으로 판단하고 있다”고 밝혔다. 경찰은 55경비단장에게 참고인 출석 요구를 한 것으로 파악됐다. 55경비단이 윤 대통령 체포영장 집행을 저지하기 위해 동원됐다는 의혹 등에 대해 조사할 예정이다. 경찰 관계자는 “55경비단장은 아직까지 참고인 신분이기 때문에 현재까지는 혐의가 없는 상태로, 당시 체포 영장 집행 과정에서 55경비단이 어떤 역할을 수행했는지에 대해 조사할 예정”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/UMF5QWHUIBJENJXWEALSQPR3ME.JPG?width=2318&amp;height=1545&amp;auth=21e1c7b10f3e73ed30b1338d78c1535e55ae91d020cd23a4a0218356d19c33e6&amp;smart=true" type="image/jpeg" height="1545" width="2318">
+        <media:description type="plain">(서울=뉴스1) 신웅수 기자 = 3일 오후 서울 용산구 한남동 대통령 관저에서 고위공직자범죄수사처(공수처) 수사관들이 윤석열 대통령 체포영장 집행을 중지한 후 군용 차량이 관내를 이동하고 있다. 2025.1.3/뉴스1</media:description>
+        <media:credit role="author" scheme="urn:ebu">(서울=뉴스1) 신웅수 기자</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>설악산 낙상자 구조하던 30대 헬기 대원, 25m 상공서 추락해 숨져</title>
+      <link>https://www.chosun.com/national/incident/2025/01/03/4Y4WVGXJAFGCVCTXBL332WXZAE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/01/03/4Y4WVGXJAFGCVCTXBL332WXZAE/</guid>
+      <dc:creator>정성원 기자</dc:creator>
+      <description>3일 오후 1시 8분쯤 강원 인제군 북면 설악산 수렴동계곡 인근에서 산림청 소속 구조대원 A(32)씨가 헬기 구조 활동 중 25m 상공에서 추락했다.</description>
+      <pubDate>Fri, 03 Jan 2025 12:38:01 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/32OQHGXUQ2EUYDIIXZ7IRI2AEY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;3일 오후 강원 인제군 북면 설악산 수렴동계곡 인근에서 산림청 소속 구조대원 A(32)씨가 헬기 구조 활동 중 25m 상공에서 추락, 소방대원이 구조 활동을 벌이고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;3일 오후 1시 8분쯤 강원 인제군 북면 설악산 수렴동계곡 인근에서 산림청 소속 구조대원 A(32)씨가 헬기 구조 활동 중 25m 상공에서 추락해 숨졌다. A씨는 낙상환자를 구조한 뒤 밧줄을 타고 헬기에 오르던 중 안전벨트 역할을 하는 하네스가 풀리면서 사고를 당한 것으로 알려졌다. A씨는 심정지 상태로 경기도 한 대형병원으로 옮겨졌으나 끝내 숨졌다.&lt;br&gt;&lt;br&gt;경찰 등은 목격자 등을 상대로 정확한 사고 경위를 조사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>野 “내란죄 빼자” 尹탄핵심판 속도전...與 “그럼 재의결 필요” </title>
+      <link>https://www.chosun.com/national/court_law/2025/01/03/TJ6XF5BNCFGGVMYLV2D7MOQSXQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/01/03/TJ6XF5BNCFGGVMYLV2D7MOQSXQ/</guid>
+      <dc:creator>박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 03 Jan 2025 11:03:24 +0000</pubDate>
+      <content:encoded>윤석열 대통령의 탄핵 심판에서 국회 측이 ‘내란죄 혐의’를 탄핵소추 사유에서 제외하겠다고 밝혔다.&lt;br&gt;&lt;br&gt;당초 야당의 주도로 국회에서 통과된 탄핵소추안에는 ‘내란죄 혐의’가 탄핵의 첫 번째 이유로 명시됐는데, 탄핵 심판에 이르자 국회 측이 이를 철회한 것이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5OO3BFRXB7FDMERD6D2RNRHWQE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;정형식(왼쪽), 이미선 헌법재판관이 3일 오후 서울 종로구 헌법재판소 소심판정에서 열린 윤석열 대통령 탄핵심판 2회 변론준비기일을 진행하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;헌법재판소는 3일 윤 대통령의 탄핵 심판 2차 변론 준비 기일을 진행했다. 이날 윤 대통령 측과 국회 측은 탄핵 사유에 ‘내란죄 혐의’를 포함시켜야 하는지를 두고 공방을 벌였다.&lt;br&gt;&lt;br&gt;이날 정형식 재판관이 국회 측에 “비상계엄 관련 위반 행위가 형법상 내란죄 등에 해당한다는 주장을 철회한다는 취지냐”고 묻자, 국회 측은 “사실상 철회한다는 것”이라고 답했다.&lt;br&gt;&lt;br&gt;탄핵 심판은 헌법 위반을 다루는 재판인 만큼, 내란죄 등 형법 위반에 대해서는 따지지 않고 헌법 위반에 포섭해 다루겠다는 취지다. 당초 국회 측은 윤 대통령의 탄핵소추 사유를 내란죄 등 ‘형법 위반’과 계엄 선포 요건을 위반하고 입법권을 침해했다는 ‘헌법 위반’으로 구분했다.&lt;br&gt;&lt;br&gt;국회 측 대리인 김진한 변호사는 “내란 범죄 사실은 여전히 있는 거고, 형사 법정에서 유무죄 여부가 판단될 것”이라며 “다만 형사 소송처럼 내란죄를 다루다간 탄핵 심판이 길어질 수밖에 없기 때문에 대통령의 위법·위헌한 행위를 내란이 아니라 헌법 위반으로 구성하겠다는 것”이라고 설명했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UIW3ET2SKJOJJMX2APT5HCFREQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령의 법률대리인 배보윤(왼쪽), 배진한 변호사가 3일 오후 서울 종로구 헌법재판소에서 윤석열 대통령 탄핵심판 2회 변론준비기일에 참석하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이에 대해 윤 대통령 측 대리인은 “(국회는) 내란죄 성립을 토대로 탄핵 심판에 이른 것인데, 형법상 내란죄가 성립되지 않은 것이라면 탄핵소추는 잘못된 것”이라고 강하게 반박했다.&lt;br&gt;&lt;br&gt;또 “그동안 내란죄를 외쳐온 국회가 막상 심판이 개시되고 나니 이를 철회하는 것은 그동안 국민을 기망해 왔다는 것을 스스로 인정하는 것”이라​며 “도저히 이해할 수 없는 태도이며 청구인 대리인들이 일방적으로 할 게 아니라 국회 의결을 거쳐야 한다”고 지적했다.&lt;br&gt;&lt;br&gt;윤 대통령 측은 “비상계엄 선포는 원칙적으로 대통령의 통치 행위에 해당하므로 적법하다”며 “내란 혐의를 탄핵소추 사유에서 빼버리면 문제될 게 하나도 없다”고 밝혔다.&lt;br&gt;&lt;br&gt;한편 국민의힘 소속 홍준표 대구시장은 이날 페이스북을 통해 “탄핵소추 심판 사건에서 내란죄 부분을 민주당이 철회한다는데, 그렇게 하려면 변경된 내용으로 또다시 국회 의결을 받아야 한다”고 했다. 이어 “박근혜 (전 대통령) 탄핵 때는 그런 절차를 거치지 않고 우격다짐으로 엉터리 헌재 판결을 했는데, 이번에 한 번 두고 보겠다”고 했다.&lt;br&gt;&lt;br&gt;국민의힘 법률자문위원장인 주진우 의원도 이날 페이스북에서 “재판부 권유로 탄핵 사유에서 ‘내란죄’를 철회한다니 이런 황당한 진행도 있나”라며 “내란죄를 빼고 나머지만으로 최대한 빨리 탄핵함으로써, 이재명 대표 사법 리스크를 피해 보려는 것이다. 명백한 꼼수”라고 주장했다. 주 의원은 “핵심 탄핵사유가 철회됐다면, 국회의 새로운 결의가 필요하다는 헌법상 지적이 나올 수 밖에 없다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>서강대 13년 만에 등록금 인상... “오랜 동결로 학교 재정난”</title>
+      <link>https://www.chosun.com/national/education/2025/01/03/4IDMZC4XLNC7PJGSZLO4ZPC6RM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/education/2025/01/03/4IDMZC4XLNC7PJGSZLO4ZPC6RM/</guid>
+      <dc:creator>표태준 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 03 Jan 2025 12:16:21 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2D4PYSTJGZCI7EGBIFHV5A34EA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 신수동 서강대학교 정문. /전기병 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서강대가 13년 만에 2025학년도 등록금을 인상하기로 결정했다. 주요 대학이 정부의 등록금 동결 압박에 등록금을 올리지 못하는 가운데, 서강대가 인상을 결정하며 다른 대학에도 영향을 줄지 관심이 쏠린다.&lt;br&gt;&lt;br&gt;3일 서강대에 따르면, 서강대는 지난달 26일 등록금 심의 위원회를 열고 2025학년도 등록금을 4.85% 인상하는 안을 의결했다. 심의위에서 학교 측은 오랜 등록금 동결이 대학 운영에 심각한 지장을 초래하고 있다고 주장했다. 한 교직위원은 심의위에서 “등록금 동결로 대학 시설 수준이 초·중·고교 수준보다 못하다”며 “대학 시설이 학생들에게 감동은커녕 오히려 초라한 느낌을 주는 실정”이라고 했다.&lt;br&gt;&lt;br&gt;다른 교직위원도 “기업에서 근무 중인 인공지능(AI) 분야 전문가를 교원으로 초빙하려 했으나 큰 임금 차이로 거절당했다”며 “대학들이 AI 인재를 경쟁적으로 데려오려 하고 있으나 어려운 점이 많다”고 토로했다. 한 학생위원이 “학교 시설이 너무 열악해 학교 가기 싫다고 하는 학생도 있을 정도”라며 학교 입장에 공감하기도 했다.&lt;br&gt;&lt;br&gt;교육부는 2009년부터 각 대학에 등록금을 동결하도록 권고했다. 2012년 이후엔 등록금 인상 대학을 국가 장학금 지원 대상에서 제외하는 방식으로 사실상 동결을 강제했다. 한 교육계 인사는 “최근 몇 년 새 재정 부담을 견디지 못하고 지역 사립대가 등록금을 올리기 시작했다”며 “서울 주요 대학도 이제는 등록금 동결에 한계를 느끼는 분위기”라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>이름값 하는 小寒... 내일 아침 최저 영하 12도 </title>
+      <link>https://www.chosun.com/national/transport-environment/2025/01/03/WXRC2KH5E5B2PNVPYYXP4PEAT4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/01/03/WXRC2KH5E5B2PNVPYYXP4PEAT4/</guid>
+      <dc:creator>박상현 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 03 Jan 2025 12:05:56 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TNRMHTFDRNLKZCR2ITRULGHAUI.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;경기 북부 내륙과 강원 내륙·산지를 중심으로 한파특보가 발효된 3일 오전 서울 도심 빌딩들이 난방을 가동하며 수증기를 뿜어내고 있다. 기상청은 경기 북부 내륙과 강원 내륙·산지를 중심으로 아침 기온이 영하 10도 이하를 기록하면서 강풍이 불어 체감온도는 더욱 떨어질 전망이라고 예보했다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;토요일인 4일 한파(寒波)가 닥칠 것으로 전망됐다. 소한(小寒)인 5일에는 중부지방을 중심으로 폭설이 예고됐다.&lt;br&gt;&lt;br&gt;우리나라는 연중 해가 가장 짧은 동지(冬至·작년 12월 21일)부터 한 달 정도를 가장 추운 ‘한겨울’로 본다. 특히 동지에서 3주 정도 지난 소한과 대한(大寒·올해 1월 20일) 사이가 가장 춥다. 이에 다음 주 찾아올 한파가 올겨울 들어 가장 매서울 것으로 전망된다.&lt;br&gt;&lt;br&gt;기상청에 따르면, 중국 쪽 대륙고기압이 우리나라로 한랭 건조한 바람을 불어넣으며 4일 전국이 추울 것으로 보인다. 4일 전국의 아침 최저기온은 영하 12도에서 영상 1도, 낮 최고기온은 3~8도로 예보됐다. 한파특보가 발효된 경기 북부와 강원도를 중심으로 기온이 영하 10도를 밑돌며 춥겠다. 바람이 강하게 불면서 체감기온은 실제 기온보다 3~4도가량 낮을 것으로 예상됐다.&lt;br&gt;&lt;br&gt;5일에는 따뜻한 남서풍이 불어들면서 우리나라 상공을 덮고 있던 찬 공기와 충돌, 큰 눈구름대가 형성될 것으로 보인다. 눈은 5일 새벽부터 중부지방을 중심으로 내리기 시작해, 눈구름대를 동반한 저기압이 우리나라 상공을 본격적으로 통과하는 이날 저녁 눈발이 가장 거셀 것으로 전망됐다. 5일 예상 적설량은 수도권 1~8㎝, 강원도 3~10㎝, 충청권 1~5㎝, 전라·경상권 1㎝ 내외다. 눈구름대는 6일 오전까지 수도권과 강원영서·충청권에 눈을 더 뿌린 후 우리나라를 빠져나가겠다.&lt;br&gt;&lt;br&gt;남서풍의 영향으로 5~6일 잠시 한파가 꺾일 것으로 예상됐다. 5일은 최저 영하 7도에서 영상 2도, 최고 3~10도의 기온 분포를 보이겠다. 월요일인 6일에는 최저 영하 4도에서 영상 5도, 최고 3~12도로 전날보다 기온이 소폭 더 오르겠다.&lt;br&gt;&lt;br&gt;그러나 7일부터는 다시 중국 쪽 대륙고기압이 확장하며 한파가 더욱 매서워질 것으로 보인다. 한랭 건조한 북서풍이 우리나라로 거세게 불어들면서 서울의 수은주가 영하 5도까지 떨어지는 등 전국적으로 최저 영하 14도까지 기온이 크게 떨어지겠다. 또 8~9일에는 찬 북서풍이 따뜻한 서해상을 지나며 큰 눈구름대가 생기겠고, 이 구름대가 주로 호남에 눈을 뿌릴 것으로 전망됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>조종사 대화 담긴 블랙박스 분석 시작... 동체 착륙 원인 밝혀질 듯</title>
+      <link>https://www.chosun.com/national/transport-environment/2025/01/03/NVMTIGXTCNAFFCOUEZFKS6GMRQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/01/03/NVMTIGXTCNAFFCOUEZFKS6GMRQ/</guid>
+      <dc:creator>곽래건 기자, 김민기 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 03 Jan 2025 12:09:30 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/T33CGDMTORPM3DTNAYAJK2DYEY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;3일 전남 무안군 무안국제공항 제주항공 참사 현장에서 관계자들이 조사를 위해 크레인으로 사고기의 엔진을 들어올리고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;무안 제주항공 참사 경위를 밝힐 핵심 열쇠인 블랙박스 분석이 본격 시작됐다. 국토교통부는 3일 브리핑을 열고 “항공철도사고조사위원회(사조위)가 음성 기록 장치(CVR)에서 음성 파일을 추출하는 작업을 완료하고, 현재 녹취록을 작성 중”이라고 밝혔다.&lt;br&gt;&lt;br&gt;음성 기록 장치는 비행기에 설치된 두 가지 블랙박스 중 하나다. 조종사끼리 나눈 대화 등 조종석 안 각종 소리들이 녹음돼 있어 사고 당시 기내 상황을 알 수 있다. 어떤 상황 때문에 조종사들이 동체 착륙이라는 최후 수단을 썼는지에 대한 의문을 풀어줄 핵심 단서다.&lt;br&gt;&lt;br&gt;또 다른 블랙박스인 비행기록장치(FDR)는 사고 충격으로 손상돼 미국 국가교통안전위원회(NTSB)로 보내 분석할 방침이다. 시간대별 항공기의 위치와 속도, 각종 장치의 상태가 데이터 형태로 담겨 있다. 국토부는 “사조위 조사관 2명이 오는 6일 미국으로 FDR을 가져갈 예정”이라고 했다.&lt;br&gt;&lt;br&gt;사고 조사는 이 두 가지 블랙박스에 저장된 음성·자료와 현장의 증거 등을 조합하는 형태로 진행된다. 핵심 쟁점 중 하나는 사고기가 정확히 어떤 상태에서 복행(復行·Go-around)했는지다. 복행이란 항공기가 착륙을 포기하고 고도와 속도를 높여 하늘로 다시 올라가는 것을 뜻한다. 국토부에 따르면 당시 사고기 조종사들은 관제탑과의 교신에서 긴급 신호인 “메이데이”와 함께 복행하겠다는 의사를 밝혔고, 그 이유로 “버드 스트라이크(조류 충돌)”를 들었다. 사고기가 ADS-B(항공기 위치 탐지 시스템)를 통해 내보낸 고도·속도 데이터 등을 보면 사고 약 5분 전인 지난달 29일 오전 8시 57분 30초쯤부터 기체 방향이 흔들린다. 조류 경보 즈음 조류와 충돌했을 가능성이 있다.&lt;br&gt;&lt;br&gt;활주로 접근 고도가 낮았다는 지적도 나온다. ADS-B에 따르면 제주항공 여객기는 활주로를 약 9km 남긴 지점에서의 고도가 419m(1375피트)였다. 활주로를 이 정도 남겨놓고 있을 때의 가장 이상적인 접근 높이인 약 518m(1700피트)에 다소 못 미쳤다. 엔진, 랜딩기어 등이 정상적으로 작동했을 가능성이 높은 1차 착륙 시도 중간에도 활주로 접근 고도가 낮았다는 것이다. 다만 국토부 관계자는 “ADS-B 데이터는 참고용일 뿐, 블랙박스 데이터만큼 신뢰할 수는 없다”고 했다.&lt;br&gt;&lt;br&gt;엔진과 착륙 바퀴인 ‘랜딩기어’ 등을 작동시키는 각종 유압 시스템이 사고 당시 어떤 상태였고, 왜 문제가 생겼는지도 풀어야 할 주요 숙제다. 항공전문가들은 엔진 두 개에 모두 문제가 생겼을 가능성에 무게를 두고 있다. 엔진이 하나라도 작동했다면 메이데이 선언 후 활주로 방향까지 바꿔가며 불과 3분 만에 동체 착륙할 이유가 없기 때문이다. 현직 정비사들 역시 사고 영상에서 해당 항공기의 외부 등이 하나도 켜져 있지 않았다며 전원이 나간 상태라고 지적했다. 국토부는 “정확한 사고 경위는 사조위가 블랙박스를 분석해봐야만 알 수 있다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>성동구 건물 엘리베이터 점검하던 20대 남성 작업자 사망</title>
+      <link>https://www.chosun.com/national/national_general/2025/01/03/ORANCYDYYBHJTHXD5UMSI5OTTA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/03/ORANCYDYYBHJTHXD5UMSI5OTTA/</guid>
+      <dc:creator>김병권 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 03 Jan 2025 10:19:20 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HXKFET6XUFFNVD2PJBIUSYCNX4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 성동경찰서. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 성동구의 한 건물에서 엘리베이터를 점검하던 20대 남성 작업자가 사망했다.&lt;br&gt;&lt;br&gt;서울 성동경찰서는 이날 오후 4시 10분쯤 서울 성동구의 한 건물 엘리베이터를 점검하던 작업자 A(27)씨가 사망한 사건을 조사 중이라고 3일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 사고 당시 엘리베이터에 소음이 난다는 의뢰를 받고 점검 중이었다고 한다. 그러던 중 엘리베이터의 무게추가 내려오면서 A씨의 머리가 끼었고, 이를 같이 작업하던 동료가 발견하고 경찰에 신고했다.&lt;br&gt;&lt;br&gt;A씨는 즉시 병원으로 후송됐으나 사망했다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “현재 사고 경위 등은 수사 중”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/KJZ2ZPQTCZFKVGIPW2R4GCOOT4.jpg?width=647&amp;height=364&amp;auth=c9a1b424db847358cb5cbb52ef581f0f9edeb2b88190f2857c9b2a7f0bab4411&amp;smart=true" type="image/jpeg" height="364" width="647">
+        <media:description type="plain">서울 성동경찰서/연합뉴스</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>용인 플라스틱 제조공장 창고서 불… ‘대응 1단계’ 발령</title>
+      <link>https://www.chosun.com/national/incident/2025/01/03/X46W5OSME5F2JD3ISZAGWF6WIM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/01/03/X46W5OSME5F2JD3ISZAGWF6WIM/</guid>
+      <dc:creator>정성원 기자</dc:creator>
+      <description>3일 오후 6시 52분쯤 경기도 용인시 처인구 한 플라스틱 제조공장의 창고에서 불이 났다. 소방당국은 불이 나자 인근 공장으로 불이 번질 것을 우려해 대응 1단계를 발령하고 진화 작업을 벌이고 있다.</description>
+      <pubDate>Fri, 03 Jan 2025 11:32:45 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JKEBAZ2ZABFZZLFRM7UN7TZLIQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;3일 오후 경기도 용인시 처인구 한 플라스틱 제조공장 창고에서 불이 나자 소방당국이 진화 작업을 벌이고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;3일 오후 6시 52분쯤 경기도 용인시 처인구 한 플라스틱 제조공장의 창고에서 불이 났다.&lt;br&gt;&lt;br&gt;소방당국은 불이 나자 인근 공장으로 불이 번질 것을 우려해 대응 1단계를 발령하고 진화 작업을 벌이고 있다. 대응 1단계는 3~7개 소방서에서 31~50대의 장비를 동원하는 경보령이다. 이번 불로 인한 인명 피해는 없는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;한편 용인시는 이번 불로 많은 연기가 발생하자 인근 주민들에게 “창문을 닫는 등 안전에 유의해 달라”는 재난 문자를 발송하기도 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>[속보] 분당 야탑동 8층 상가 건물 화재...지하 고립자 전원 구조</title>
       <link>https://www.chosun.com/national/regional/2025/01/03/7YAWAIGPF5GO5OY53AHOL6INMA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/01/03/7YAWAIGPF5GO5OY53AHOL6INMA/</guid>
@@ -646,42 +746,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LPJRHPAG6RCQBASWSHM3VOTVOE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[신문으로 배우는 실용한자] 금상첨화(錦上添花)</title>
-      <link>https://www.chosun.com/national/nie/chinese_character/2025/01/03/C2D5NOUFIJDN7FFHZFJJEPFHTA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese_character/2025/01/03/C2D5NOUFIJDN7FFHZFJJEPFHTA/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 02 Jan 2025 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JR246F2ROBFPDKN67UU6OF76XA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[입에 착착 붙는 일본어] 뜻밖의 공명, 요행</title>
-      <link>https://www.chosun.com/national/nie/japanese/2025/01/03/AVDLK4LRBBBCXBKX7UURNQGZ74/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/japanese/2025/01/03/AVDLK4LRBBBCXBKX7UURNQGZ74/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 02 Jan 2025 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ND3THOW3OZDLPLODWCWBD2SNBA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[두근두근 뇌 운동] [2535] 얼굴 삼행시</title>
-      <link>https://www.chosun.com/national/nie/2025/01/03/LVJBPTLI6ZGRLA7I3VTGEI72YM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2025/01/03/LVJBPTLI6ZGRLA7I3VTGEI72YM/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 02 Jan 2025 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NVWRA64QFRDQHELFAKKPJ33QXQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[스피킹이 강해지는 영어] name ~ after …</title>
-      <link>https://www.chosun.com/national/nie/english/2025/01/03/3SQL7RWR6FGWXJXJHTYQZMZXPE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/english/2025/01/03/3SQL7RWR6FGWXJXJHTYQZMZXPE/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 02 Jan 2025 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FEIGWLEAKVFUVHMNNTCPGI2EOE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>“결혼이민·외국인 취업자 위한 학부 신설… 다문화 사회 한국 이끄는 인재 만들 것”</title>
       <link>https://www.chosun.com/national/education/2025/01/03/EGL6N2K52REITPJ6LEXHPZFDTY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/education/2025/01/03/EGL6N2K52REITPJ6LEXHPZFDTY/</guid>
@@ -718,15 +782,6 @@
       <content:encoded>자녀가 둘 이상인 ‘다자녀 가구’는 ‘K패스’로 쓴 교통비의 최대 50%까지 환급받을 수 있게 됐다. K패스는 월 15회 이상 지하철, 버스, 철도 등을 타면 다음 달에 이용 금액의 20%(일반인 기준)를 돌려받을 수 있는 교통카드다. 환급받을 수 있는 한도는 월 최대 60회다. 국토교통부가 작년 5월 도입했는데 전국에서 265만명이 이용하고 있다.&lt;br&gt;&lt;br&gt;국토부 대도시권광역교통위원회는 K패스에도 다자녀 가구 우대 제도를 신설했다고 2일 밝혔다. 저출생 문제가 심각한 가운데 다자녀 가구의 교통비 부담을 덜어주자는 취지다. 구체적으로 자녀가 2명이면 30%, 3명 이상이면 50%를 돌려받을 수 있다.&lt;br&gt;&lt;br&gt;예를 들어 자녀가 셋인 아빠가 요금 1500원인 대중교통을 60회 이용하면 이용 금액(9만원)의 절반(4만5000원)을 다음 달에 돌려받을 수 있게 된다. 예전에는 자녀가 셋이라도 20%에 해당하는 1만8000원만 돌려받을 수 있었는데 2만7000원을 더 돌려받을 수 있게 되는 것이다. 다자녀 혜택을 보려면 K패스 홈페이지나 앱에서 인증을 거쳐야 한다.&lt;br&gt;&lt;br&gt;국토부는 K패스 사업을 계속 확대하고 있다. 올해부터 K패스를 이용할 수 있는 지방자치단체는 189곳에서 210곳으로 늘어난다. 전북 김제, 경북 문경, 강원 속초 등이 추가로 참여했다.&lt;br&gt;&lt;br&gt;K패스 사업에 참여하는 카드사도 11곳에서 13곳으로 늘어난다. 국토부에 따르면, 작년 5월 K패스를 도입한 이후 이용자들은 평균 1만8000원을 환급받은 것으로 나타났다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>고향기부금 모아… 꿀벌 호텔 짓고 시골 꿈나무 후원</title>
-      <link>https://www.chosun.com/national/2025/01/03/ZMPMA5UUFJACPCFBBS65WZ6ZAM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2025/01/03/ZMPMA5UUFJACPCFBBS65WZ6ZAM/</guid>
-      <dc:creator>창원=김준호 기자, 청양=김석모 기자, 김영우 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 02 Jan 2025 15:33:00 +0000</pubDate>
-      <content:encoded>‘4월이 되어도 새하얀 벚꽃 터널도, 꽃비도 볼 수 없다면… 여러분의 작은 관심이 쓰러져가는 벚나무를 일으켜 세웁니다! 꽃은 다시 피고 추억은 이어지도록 따뜻한 고향을 만들겠습니다.’&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IL5YDBECSVDN5KFZEGPWYK4P4Q.png"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 1일 행정안전부의 ‘고향 사랑 기부제’ 사이트인 ‘고향 사랑 e음’에 ‘벚꽃 소생 프로젝트: 진해의 희망을 피우다!’라는 제목의 글이 올라왔다. 늙고 병든 벚나무에 수액을 놓기 위해 기부금을 모으고 있다는 내용이었다. 이 글은 ‘진해 군항제’로 유명한 경남 창원시가 올렸다. 창원시 관계자는 “진해에 있는 벚나무 36만 그루 중 14만 그루가 60살이 넘어 자꾸 죽고 예전만큼 꽃을 피우지 못하고 있다”며 “특별 관리가 필요한데 예산이 부족해 애향심(고향을 사랑하는 마음)에 호소하게 됐다”고 했다. 창원시는 2027년까지 5억원을 모금한다는 계획이다.&lt;br&gt;&lt;br&gt;고향 사랑 기부제는 자기 고향 등에 기부하면 특산품을 답례로 주는 제도다. 기부자는 연말에 세액공제 혜택도 받을 수 있다. 지역 경제를 활성화하자는 취지로 2023년 도입됐다.&lt;br&gt;&lt;br&gt;작년 6월부터 지역의 특정 사업에도 기부할 수 있게 문호를 개방하면서 지자체마다 다양한 사업을 시도하고 있다. 전남의 한 지자체 관계자는 “예전에는 기부금을 유치하기 위해 어떤 답례품을 줄지 고민했는데 이젠 기부자들의 관심을 모으고 애향심을 자극할 사업을 구상하고 있다”고 했다.&lt;br&gt;&lt;br&gt;행정안전부에 따르면, 지난해 전국 243개 지자체가 고향 사랑 기부제로 모금한 돈은 총 892억원이다. 2023년(650억원)보다 37% 증가했다.&lt;br&gt;&lt;br&gt;올해는 1인당 연간 기부 한도가 500만원에서 2000만원으로 4배가 돼 더 늘어날 것으로 보인다.&lt;br&gt;&lt;br&gt;창원시 관계자는 “요즘 지자체들은 정부의 긴축 재정 기조와 불경기 때문에 죽을 맛”이라며 “안 그래도 살림이 팍팍한 지자체들 입장에선 새로운 수입원이 생긴 것”이라고 했다.&lt;br&gt;&lt;br&gt;충남 청양군은 작년 6월 청양 정산 초·중·고의 탁구부를 후원해달라는 모금을 벌였다. 넉넉지 않은 예산 탓에 탁구채 하나 제때 바꿔주지 못했기 때문이다. 청양군 관계자는 “우리 고향의 아이들이 탁구 국가대표의 꿈을 이어갈 수 있게 도와달라고 호소했다”며 “전국 각지에 살고 있는 청양 출신들이 불같이 참여해 두 달 만에 목표액 5000만원을 넘겼다”고 했다. 청양군은 지난달 18일부터 2차 모금에 나섰다.&lt;br&gt;&lt;br&gt;전북 부안군은 고향 사랑 기부금 7900만원을 모아 작년 11월 국립 새만금 간척 박물관에 ‘꿀벌 호텔’을 설치했다. 부안군은 우수한 꿀벌 품종을 길러 내는 ‘꿀벌 격리 육종장’이 있는 꿀벌의 고장이다. 하지만 최근 이상기후 현상 등으로 꿀벌이 사라지면서 인공 서식지인 ‘꿀벌 호텔’ 조성에 나섰다.&lt;br&gt;&lt;br&gt;서울 은평구는 독거노인 등에게 보약을 지어 드리기 위해 고향 사랑 기부제를 활용했다. 작년 7월부터 5개월 만에 목표한 1000만원이 모였다. 은평구 관계자는 “이 돈으로 은평구에 사는 어르신 20명에게 50만원 상당의 보약을 지어드릴 계획”이라고 했다. 은평구는 대형 프로젝트 대신 소소한 사업을 잇따라 성공시키고 있다. 고향 사랑 기부금을 모아 은평구에 사는 소아암 환자들에게 가발(총 2000만원)을 사주고 폐지를 수집하는 노인들에게 식사권(총 1000만원)을 지급했다.&lt;br&gt;&lt;br&gt;행안부 관계자는 “내 고향에 기부해 특산품도 받고 세금 혜택도 보자는 취지에서 시작했는데 이제는 지역의 문제를 함께 해결하는 플랫폼 역할도 하고 있는 것”이라고 했다.&lt;br&gt;&lt;br&gt;반면에 호응이 적어 울상인 곳도 있다. 경기 안성시가 작년 12월 “폭설 피해를 당한 주민들을 도와 달라”면서 시작한 모금에는 현재까지 1400여 만원이 모였다. 올 2월까지 5억원을 모으겠다고 했는데 2.7%밖에 모이지 않은 것이다.&lt;br&gt;&lt;br&gt;기부자를 위한 답례품은 다양해지고 있다. 청년층이 떠나 ‘지역 소멸’ 위기에 놓인 전남 영암군은 고향에 사는 부모님의 일상을 촬영, 편집해 전송해주는 ‘부모님 일상 영상’을 답례품으로 내놨다. 경남 합천군은 ‘벌초 대행 도우미 할인권’, 부산시는 ‘공공 텃밭 분양권’을 준다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>윤준 서울고법원장 등 고법 판사 잇따라 사표</title>
       <link>https://www.chosun.com/national/court_law/2025/01/03/TRS4BPTSBBD6DFGEW2KJJPWUFM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/01/03/TRS4BPTSBBD6DFGEW2KJJPWUFM/</guid>
@@ -754,42 +809,6 @@
       <content:encoded>올해 기아차 EV6를 사면 국비 보조금으로 580만원을 받지만, 테슬라 모델Y를 사면 보조금이 170만원에 그친다.&lt;br&gt;&lt;br&gt;2일 환경부가 발표한 올해 전기차 보조금 개편안에 따르면, 전기 승용차 구매 시 받는 국비 보조금은 최대 580만원으로 확정됐다. 작년 최대 금액인 650만원보다 70만원 줄어들었다. 차 기본 가격이 5300만원 미만이면 보조금 전액, 5300만원 이상 8500만원 이하면 반액을 지급한다. 작년부터 중국산 리튬인산철(LFP) 배터리보다 재활용이 용이한 국산 니켈·코발트·망간(NCM) 배터리를 장착한 전기차에 더 많은 보조금을 주면서 국산차와 수입차의 보조금 격차가 커졌다.&lt;br&gt;&lt;br&gt;이번 보조금 개편안의 가장 큰 변화는 ‘안전계수’를 도입한 것이다. 작년 9월 인천 청라국제도시 아파트 지하 주차장에서 발생한 전기차 화재를 계기로 마련된 대책 중 하나다. 오는 6월 말까지 책임보험에 가입하지 않거나, 12월 말까지 충전량 정보를 제공하지 않는 브랜드의 차량은 보조금이 아예 지급되지 않는다. 현재 책임보험에 가입되지 않은 곳은 테슬라와 BMW 두 곳이다. 테슬라는 기한까지 보험에 가입하겠다는 계획을 환경부에 밝혔으나 BMW는 아직 의사를 밝히지 않은 것으로 전해졌다.&lt;br&gt;&lt;br&gt;주차 중 이상 감지와 알림 기능이 있는 ‘배터리 관리 시스템(BMS)’ 업데이트가 불가능한 전기차를 폐차하고 새 전기차를 사면 내년 말까지 20만원을 추가로 지원한다. 이 역시 전기차 안전을 강화하는 차원이다. 과거 출시된 쉐보레의 볼트EV와 르노삼성 SM3 등이 BMS 업데이트가 되지 않는 차량으로 파악된다.&lt;br&gt;&lt;br&gt;다자녀 가구의 경우 자녀가 둘이면 100만원, 셋이면 200만원, 넷 이상이면 300만원을 추가로 지원한다.&lt;br&gt;&lt;br&gt;올해 전기차 보조금 개편안은 이날부터 열흘간 행정예고된 뒤 확정된다. 이르면 이달 하순부터 보조금 신청이 가능할 전망이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[부음] 김동찬 前 대구 수성구 동장 별세 외</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2025/01/03/AVVZFRYZJ5HPRLGFV4BQY4ENUU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2025/01/03/AVVZFRYZJ5HPRLGFV4BQY4ENUU/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 02 Jan 2025 15:31:00 +0000</pubDate>
-      <content:encoded>▲&lt;b&gt;김동찬&lt;/b&gt; 前 대구 수성구 동장 별세, &lt;b&gt;김태운&lt;/b&gt; 경북대 행정학부 교수·&lt;b&gt;김태옥&lt;/b&gt; 부친상, &lt;b&gt;구우경&lt;/b&gt; 인피니언로지스코리아 상무 장인상, &lt;b&gt;권주희&lt;/b&gt; 대구대 교무처 교양교육센터 근무 시부상=31일6시 대구 수성요양병원, 발인 4일8시30분, (053)766-4444&lt;br&gt;&lt;br&gt;▲&lt;b&gt;김진란&lt;/b&gt; 별세, &lt;b&gt;최기주&lt;/b&gt; 아주대 총장·&lt;b&gt;최병주&lt;/b&gt; 모친상, &lt;b&gt;이미혜&lt;/b&gt; 시모상, &lt;b&gt;최원영&lt;/b&gt;·&lt;b&gt;최윤영&lt;/b&gt; 조모상=1일18시20분 경기 수원 아주대병원, 발인 4일7시, (031)219-4591&lt;br&gt;&lt;br&gt;▲&lt;b&gt;백일진&lt;/b&gt; 前 스포츠조선 편집부장 별세, &lt;b&gt;백승한&lt;/b&gt; 비알아이티 부장·&lt;b&gt;백재연&lt;/b&gt; 부친상, &lt;b&gt;강성준&lt;/b&gt; 장인상, &lt;b&gt;여신&lt;/b&gt; 강원대 글로벌융합학과 교수 시부상=1일22시 고려대안암병원, 발인 4일6시, (02)923-4442&lt;br&gt;&lt;br&gt;▲&lt;b&gt;이면승&lt;/b&gt; 별세, &lt;b&gt;장영임&lt;/b&gt; 남편상, &lt;b&gt;이유진&lt;/b&gt;·&lt;b&gt;이동영&lt;/b&gt; 제너시스 BBQ 커뮤니케이션실장·&lt;b&gt;이수영&lt;/b&gt; 서울금천경찰서 경감 부친상, &lt;b&gt;안삼기&lt;/b&gt; 삼광의료재단 근무 장인상=2일0시8분 경기 중앙대광명병원, 발인 4일5시, 1811-7800&lt;br&gt;&lt;br&gt;▲&lt;b&gt;이연재&lt;/b&gt; 前 현대삼호중공업 사장 별세, &lt;b&gt;이정민&lt;/b&gt; 미국 일리노이주 아시아·태평양 무역 담당 스페셜리스트·&lt;b&gt;이정화&lt;/b&gt; 미국 노스웨스턴대 교수 부친상, &lt;b&gt;이성복&lt;/b&gt; 미국 놀스전자 수석 책임 엔지니어 장인상=31일22시50분 서울아산병원, 발인 3일6시30분, (02)3010-2000&lt;br&gt;&lt;br&gt;▲&lt;b&gt;정승환&lt;/b&gt; 前 한불제약 대표 별세, &lt;b&gt;이경자&lt;/b&gt; 남편상, &lt;b&gt;정효현&lt;/b&gt;·&lt;b&gt;정혜욱&lt;/b&gt; 미국 보스턴대 교수·&lt;b&gt;정성엽&lt;/b&gt; 프랑스 파리 에꼴 노르말 음악원 교수·&lt;b&gt;정재엽&lt;/b&gt; 넥사노바 대표 부친상, &lt;b&gt;박수빈&lt;/b&gt; 법무법인 로뎀 대표변호사·&lt;b&gt;박성원&lt;/b&gt; 삼성쑥쑥성장클리닉 원장 시부상=1일9시 서울성모병원, 발인 4일7시, (02)2258-5940&lt;br&gt;&lt;br&gt;▲&lt;b&gt;홍선옥&lt;/b&gt; 문화체육관광부 사무관 별세, &lt;b&gt;서병준&lt;/b&gt;·&lt;b&gt;서정은&lt;/b&gt;·&lt;b&gt;서정현&lt;/b&gt; 모친상=2일15시19분 서울성모병원, 발인 5일7시, (02)2258-5940&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>제주항공 참사 희생자·유가족에 한국전력, 성금 8억원 기부</title>
-      <link>https://www.chosun.com/national/people/2025/01/03/ZSPDOJHT7FHA7LBF3BEXAHLWOA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/01/03/ZSPDOJHT7FHA7LBF3BEXAHLWOA/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 02 Jan 2025 15:31:00 +0000</pubDate>
-      <content:encoded>한국전력은 무안공항 여객기 참사 피해자와 유가족을 위해 써달라며 사회복지공동모금회에 그룹사 공동으로 성금 8억원을 기부했다고 2일 밝혔다. 김동철 한전 사장은 “현장 복구 활동과 유가족 지원에 최선을 다하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[인사] 기획재정부 외</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2025/01/03/YK4HANKY4FDRXJPCGOJ6GKLKOU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2025/01/03/YK4HANKY4FDRXJPCGOJ6GKLKOU/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 02 Jan 2025 15:31:00 +0000</pubDate>
-      <content:encoded>▲기획재정부▷지속가능경제과장 전보람&lt;br&gt;&lt;br&gt;▲국민권익위원회▷행정심판국장 김기선▷행정심판심의관 박미영◇과장급 임용▷민원정보분석과장 박은령&lt;br&gt;&lt;br&gt;▲동북아역사재단▷교육홍보실장 겸 동북아·독도교육연수원장 남상구▷연구정책실장 이성제▷한중연구소장 이장욱&lt;br&gt;&lt;br&gt;▲고려대◇부처장 임명▷기획예산처 부처장 겸 예산팀 부장 박태용▷총무처 부처장 겸 재정팀 부장 장일기◇부장 전보▷안암학사행정팀 부장 장성표▷문과대학행정팀 부장 겸 인문사회디지털융합인재양성사업단 부장 박성종▷Student Success Center 부장 겸 현장실습지원센터 부장 이강봉▷학생지원팀 부장 겸 ONE-STOP서비스센터 부장 이장욱&lt;br&gt;&lt;br&gt;▲상지대학교▷대외협력처장 박기관&lt;br&gt;&lt;br&gt;▲경향신문◇부국장▷편집국 정치부문장 구혜영▷논설위원실 논설위원 안홍욱▷문화부장 박경은▷교열부장 김선경▷미디어전략실 기술개발팀장 박광수▷공무국 윤전1팀장 신재선▷사진부 선임기자 정지윤▷사진부 선임기자 서성일▷콘텐츠편집부 선임기자 서영찬▷콘텐츠편집부 선임기자 정진호▷콘텐츠편집부 콘텐츠편집1팀 선임기자 이승규▷교열부 선임기자 김숙자◇부장▷국제부장 최희진▷정책사회부장 이윤주▷엔터테인먼트부장 강주일▷경제부 임지선▷전국사회부 박미라▷전국사회부 송진식▷스포츠부 김은진▷경영지원국 시설관리팀 김창호▷공무국 윤전1팀 고용우&lt;br&gt;&lt;br&gt;▲에너지경제신문▷사장 정선구&lt;br&gt;&lt;br&gt;▲OBS경인TV▷경영인프라국 인프라팀장 배효식▷〃 콘텐츠기술팀장 장수영▷편성제작국 제작영상팀장 김선욱▷콘텐츠전략국 콘텐츠제작팀장 공태희&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[알립니다] 우리 아이 출생 소식 액자에 담아 간직하세요</title>
-      <link>https://www.chosun.com/special/announcement/2025/01/03/4H23GEGMOBE2LE2QWWIF64V4TI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/special/announcement/2025/01/03/4H23GEGMOBE2LE2QWWIF64V4TI/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 02 Jan 2025 15:30:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4JOIUFFO5VHI5GC3P24IYAQSZY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;조선일보에 실린 우리 아기 출생 소식, 본인이나 지인의 인터뷰·사진 기사를 영원히 추억으로 간직하세요. 조선일보는 독자가 원하는 신문 지면을 그대로 고급 액자에 담아 드리는 ‘조선일보 리프린트’ 서비스를 합니다. 매주 ‘아이가 행복입니다’ 지면에 소개된 한 가족을 추첨해 리프린트를 선물로 드립니다. 지난해 12월 27일 ‘우리 아기가 태어났어요’ 코너에 실린 이희오&amp;lt;사진&amp;gt;양이 이번 주 주인공입니다. 자세한 내용은 홈페이지(&lt;a href="http://reprint.chosun.com/" target="_blank"&gt;reprint.chosun.com&lt;/a&gt;)에서 확인할 수 있습니다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[우리 아이 튼튼하게] 영유아 시기 필수 예방접종 ‘혼합 백신’으로 횟수 줄여요</title>
       <link>https://www.chosun.com/culture-life/culture_general/2025/01/03/4DNEYCEMSRCKHMHS37WMBMVXJE/</link>
       <guid isPermaLink="true">https://www.chosun.com/culture-life/culture_general/2025/01/03/4DNEYCEMSRCKHMHS37WMBMVXJE/</guid>
@@ -806,15 +825,6 @@
       <description/>
       <pubDate>Thu, 02 Jan 2025 15:30:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QCF4IT5FA5HLHMQ33M7V3FXFEA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>기간 제한 없는 ‘육아기 근로시간 단축’… “아이와 저녁 더 보내 행복”</title>
-      <link>https://www.chosun.com/culture-life/culture_general/2025/01/03/MNWQWSGWD5DWDLNKHIXNCJK27A/</link>
-      <guid isPermaLink="true">https://www.chosun.com/culture-life/culture_general/2025/01/03/MNWQWSGWD5DWDLNKHIXNCJK27A/</guid>
-      <dc:creator>오주비 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 02 Jan 2025 15:30:00 +0000</pubDate>
-      <content:encoded>취업 교육 및 컨설팅, 직업 상담 회사 ‘K·Jobs’(케이잡스)에선 육아기 근로시간 단축 제도를 사용할지 여부를 놓고 고민하는 직원이 없다고 한다. 육아기 근로시간 단축 제도는 만 8세 이하 또는 초등학교 2학년 이하 자녀의 양육을 위해 주당 근로시간을 15~35시간으로 단축할 수 있는 법정 제도다. 하지만 이 제도 사용 기간이 1년(육아휴직 미사용 시 최대 2년)으로 정해져 있다 보니, 근로 단축 기간이 끝나면 일·가정 병행에 어려움을 겪는 워킹맘과 워킹대디가 많다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3LM2F6B3SNGBBBWA46TTBYOUUM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 31일 서울 용산구 케이잡스 본사에서 직원들이 자녀들과 함께 웃고 있다. 직원 80명의 중소기업인 케이잡스는 기간 제한 없는 육아기 근로시간 단축과 유연한 휴가 사용 등 가족 친화 제도를 적극 도입했다. /김지호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;케이잡스는 이 제도의 법정 사용 기간이 끝난 이후에도 자녀의 나이가 만 8세 이하 또는 초등학교 2학년 이하라면 기간 제한 없이 주당 근로시간을 15~35시간으로 단축할 수 있는 제도를 운영하고 있다. 이 회사 경영전략기획부에서 회계재무를 총괄하는 김정은(41) 이사는 작년 8월부터 오후 4시에 퇴근해 다섯 살 아들의 유치원 하원을 챙기고 있다. 작년 7월 법으로 보장된 육아기 근로시간 단축 사용이 끝나 오후 5시에 퇴근해야 하지만, 회사 제도로 근로시간 단축을 계속 이어가고 있다. 김씨는 “워킹맘이다보니 아이가 늦게 하원해야 하고, 엄마와 함께 보내는 시간이 적어 항상 미안한데, 회사 제도를 통해 하원을 직접 챙기면서 조금이라도 더 저녁 시간을 같이 보낼 수 있어 행복하다”고 했다.&lt;br&gt;&lt;br&gt;이 회사의 전남 순천지사에서 일하는 서수정(34) 팀장도 2022~2023년 법으로 보장된 육아기 근로시간 단축 기간을 모두 사용했다. 이어 지난해에도 단축 근무를 사용해 초등학교에 입학한 둘째 아이의 적응을 도왔다. 서씨는 육아기 근로시간 단축이 끝나면 일하며 아이들을 챙기기 어려울 것 같아 퇴사까지 고민했다고 한다. 퇴사를 한 이후 다시 직장을 가질 수 있을지 등 경력 단절에 대한 두려움으로 힘든 시간을 보냈다. 서씨는 “회사로부터 근로시간 단축을 더 할 수 있다는 얘기를 들었을 때 너무 기뻤다”며 “덕분에 일과 육아 병행 부담이 크게 줄었고, 아이 돌보미를 구하지 않아도 돼 경제적으로도 많은 도움이 됐다”고 말했다.&lt;br&gt;&lt;br&gt;2014년에 설립된 케이잡스는 직원 80명의 중소기업이다. 하지만 이 같은 가족 친화 제도를 적극적으로 도입해 직원들이 일과 육아 사이에서 갈등하지 않도록 돕고 있다. ‘직원의 행복이 회사 성장의 촉진제’라는 경영 철학을 실천하기 위해서다. 두 자녀를 둔 김우진 케이잡스 대표는 잠을 줄여가며 일과 육아를 병행한 ‘워킹맘 선배’다. 워킹맘의 고충을 누구보다 잘 알기에, 김 대표는 전체 직원의 80%를 차지하는 여성 직원이 행복하기 위해서는 일·육아 병행의 부담을 회사가 함께 나눠야 한다는 생각이 컸다.&lt;br&gt;&lt;br&gt;케이잡스 직원들이 만족해하는 또 다른 가족 친화 제도는 유연한 휴가 제도다. 상당수 기업에서는 휴가가 연차와 반차(4시간)로 돼 있다. 케이잡스도 직원들이 연차나 반차만 쓸 수 있었다. 그런데 이 경우 육아를 위해 잠깐 시간을 내야 할 때도 반차나 연차를 써야 해 아깝다는 의견이 나왔다. 회사는 이를 수용해 작년 4월부터 반반차(2시간) 휴가를 새로 만들었다. 나아가 개인 연차를 모두 소진한 직원에게는 3일 유급 연차를 추가 지급하기로 했다.&lt;br&gt;&lt;br&gt;8세 딸과 4세 아들을 키우는 오태우(44) 미래전략사업부 본부장은 “부모가 되어 보니 초등학교나 어린이집 학부모 상담 및 참관 수업, 아이 병원 진료 등을 위해 조금 늦게 출근하거나 조금 일찍 퇴근해야 하는 상황이 많더라”며 “그때마다 황금 같은 연차나 반차를 사용하게 되면 정말 아까운데, 반반차로 휴가도 아끼고 육아도 할 수 있어 좋다”고 말했다.&lt;br&gt;&lt;br&gt;이 외에도 케이잡스에는 숙박 앱 ‘여기어때’와 제휴를 맺고 직원들이 최대 19% 할인된 가격으로 숙소를 이용하는 제도도 마련돼 있다. 또 직원들이 할인된 가격으로 문화 생활 상품을 구매할 수 있는 회사 자체 복지 쇼핑몰을 운영 중이다. 케이잡스 관계자는 “직원들이 가족과 더 많이 놀러 가고, 문화 생활을 즐길 수 있도록 돕기 위해 이 같은 복지 제도를 마련했다”고 설명했다. 명절 휴일 시작 전날엔 2~6시간 일찍 퇴근하는 사내 문화도 형성돼 있다.&lt;br&gt;&lt;br&gt;케이잡스는 현재 운영 중인 가족 친화 제도에 더해 육아휴직 유급 변경을 추진하고 있다. 법정 육아휴직 급여는 월 최대 250만원으로, 정부가 고용보험 기금으로 지급한다. 회사가 따로 월급을 주지 않는다. 이때 육아휴직 급여가 기존에 받던 월급보다 적을 수 있는데, 케이잡스는 이 부족분만큼을 지급해주는 것을 검토하고 있다.&lt;br&gt;&lt;br&gt;또 장기 근속자와 우수 직원, 가족 돌봄 필요 직원 등을 대상으로 최소 1개월에서 최대 1년까지 안식년을 가지는 제도 도입도 검토 중이다. 케이잡스 관계자는 “이 기간 동안 직원들이 가족에게 온전히 집중할 수 있도록 안식년을 추진 중”이라고 말했다.&lt;br&gt;&lt;br&gt;-&lt;br&gt;&lt;br&gt;중소기업중앙회와 조선일보가 공동 기획합니다. 저출생 완화를 위해 일·가정 양립과 남녀 고용 평등에 앞장선 기업의 사례를 소개합니다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[법없이도 사는법] ‘형소법 적용 배제’ 尹영장 논란</title>
