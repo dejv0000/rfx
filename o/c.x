@@ -13,6 +13,28 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>의협회장 선거 김택우·주수호 맞대결로… 7∼8일 결선 투표</title>
+      <link>https://www.chosun.com/national/welfare-medical/2025/01/04/UOLNU2ZU5NFN7BISC4S5HT7YPY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/01/04/UOLNU2ZU5NFN7BISC4S5HT7YPY/</guid>
+      <dc:creator>오유진 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 04 Jan 2025 10:36:15 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ED4ALQ24JROFHKRA5AHE2F5TME.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;의사 단체 대표를 뽑는 투표가 시작된 지난 2일 서울 용산구 대한의사협회(의협) 회관 모습. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대한의사협회(의협) 신임 회장을 뽑는 투표에서 김택우 전국시도의사협의회장과 주수호 전 의협 회장이 각각 1위와 2위를 차지했다. 이에 따라 두 후보는 오는 7∼8일 이틀간 결선에 진출하게 됐다.&lt;br&gt;&lt;br&gt;4일 의협에 따르면, 지난 2일부터 4일까지 사흘간 이어진 회장 선거 투표에서 총 유효 투표수 2만9295표(투표율 56.45%) 중 김택우 후보가 8103표(27.66%), 주수호 후보가 7666표(26.17%)를 얻었다. 이어 최안나 의협 대변인 5543표(18.92%), 이동욱 경기도의사회장 4595표(15.69%), 강희경 서울의대 교수 3388표(11.57%) 순이었다.&lt;br&gt;&lt;br&gt;이날 1차 투표에서 과반을 득표한 후보가 나오지 않음에 따라 1·2위가 결선 투표를 치른다. 결선 투표는 오는 7~8일 전자 투표로 진행된다.&lt;br&gt;&lt;br&gt;이번 선거는 지난해 5월 취임한 임현택 전 회장이 각종 막말 논란과 함께 6개월 만에 탄핵되면서 치러졌다. 당선인은 곧바로 취임해 2027년 4월 30일까지인 임현택 전 회장의 잔여 임기 동안 의협 회장직을 맡으며 14만여 명 의사들을 대표하게 된다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“尹 체포하라” “대통령 지키자”… 둘로 갈라진 한남동 관저 앞</title>
+      <link>https://www.chosun.com/national/2025/01/04/BKYHKRFSJRDU5MQLIEK6OAWVLA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2025/01/04/BKYHKRFSJRDU5MQLIEK6OAWVLA/</guid>
+      <dc:creator>주형식 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 04 Jan 2025 11:30:14 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GTPGEW5H4BI67G74WCUMNHSWKI.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;4일 서울 용산구 대통령 관저 인근에서 열린 윤석열 대통령 체포·탄핵 찬반 집회로 한남대로 양방향이 통제되고 있다.뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;주말인 4일 대통령 관저가 있는 서울 용산구 한남동에선 내란 혐의로 수사를 받는 윤석열 대통령 체포를 놓고 대규모 찬반 집회가 열렸다. 양측은 서로를 향해 욕설, 고성을 지르며 실랑이를 벌였고, 경찰은 차벽과 울타리를 설치해 만일의 상황에 대비했다.&lt;br&gt;&lt;br&gt;전광훈 목사가 주축인 대한민국바로세우기국민운동본부(대국본)는 이날 오후 1시부터 광화문에서 집회를 열었다. 그러다가 대국본은 오후 4시 30분쯤 집회 장소를 광화문에서 한남동으로 옮기겠다고 밝혔다. 연단에 선 전 목사는 “민주노총이 대통령 관저에 진입하려고 시도한다. 광화문 집회를 중지한다”며 지지자들에게 한남동으로 이동하라고 외쳤다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6MEPQ3Y5VRFX2YYG4ZTQKJ5URU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;4일 집회 인파가 몰린 관저 인근 한강진역./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;광화문에서 열린 집회 참가자들이 한남동으로 장소를 옮기면서 찬반 집회 간 거리도 가까워져 긴장이 고조되는 양상을 보였다. 경찰 비공식 추산 3만5000여명의 집회 참가자들 중 상당수가 지하철과 버스 등을 타고 한남동으로 이동하면서 일대엔 교통혼잡이 빚어졌다. 집회 현장으로 들어가는 길목인 한강진역 2번 출구부터 육교까지 150m가량 긴 줄이 늘어서기도 했다. 이 역을 통과하는 6호선 지하철 열차는 오후 5시 21분부터 20분간 무정차 통과했다. 대국본은 한남동 관저 인근 국제루터교회 앞에서 집회를 열었다. 뒤늦게 밀려든 윤 대통령 지지자들은 “차선을 열어달라”고 외쳤고, 사회자는 지지자들에게 차로 안으로 들어오라고 유도했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZT6K342QS5NSNIFYGHSFQPYNOM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;민주노총 등이 4일 서울 용산구 한남동 대통령 관저 인근에서 윤석열 대통령 체포를 주장하는 집회를 하고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;친윤 단체 집회와 약 400m 떨어진 곳에선 반윤 성향의 전국민주노동조합총연맹(민주노총)이 주관하는 집회가 열렸다. 이들은 전날 오후부터 이날까지 한남동 관저 인근 한강진혀역 앞에서 1박2일 밤샘 투쟁을 진행 중이다. 민노총은 이날 정오쯤 대통령 관저 앞으로 행진을 시도하는 과정에혀서 경찰과 대치하다 조합원 2명이 경찰 폭행(공무집행방해) 혐의로 체포되기도 했다. 오후 4시가 되자 참가자들이 몰려들면서 경찰 바리케이드가 무너지고 1개 차로를 제외한 한남대로 전 차선이 점거됐다. 이후 나머지 차선도 막혀 전 차선이 통제됐다. 용산경찰서는 민노총에 도로 점거를 멈추라며 해산 경고 방송을 내보내기도 했다. 경찰 비공식 추산 2만7000여명이 모였다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/GTPGEW5H4BI67G74WCUMNHSWKI.JPG?width=6000&amp;height=4000&amp;auth=1b5da0314679d701c535fb5eb17ab7e3f4dd165aeb328e0ff7e5cad5f95ea1f2&amp;smart=true" type="image/jpeg" height="4000" width="6000">
+        <media:description type="plain">(서울=뉴스1) 임세영 기자 = 4일 서울 용산구 대통령 관저 인근에서 열린 윤석열 대통령 체포·탄핵 찬반 집회로 한남대로 양방향이 통제되고 있다. 2025.1.4/뉴스1</media:description>
+        <media:credit role="author" scheme="urn:ebu">(서울=뉴스1) 임세영 기자</media:credit>
+      </media:content>
+    </item>
+    <item>
       <title>애도기간에 계열사 ‘경품 뽑기’ 행사… 애경그룹 유족에 사죄</title>
       <link>https://www.chosun.com/national/national_general/2025/01/04/O7UELEEYU5AMRBYVUMLHCVCBEE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/04/O7UELEEYU5AMRBYVUMLHCVCBEE/</guid>
@@ -908,24 +930,6 @@
       <description/>
       <pubDate>Fri, 03 Jan 2025 00:50:31 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AHZHXDJ6QNJAFOC5GI5I376VVQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;홍준표 대구시장. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;홍준표 대구시장이 3일 페이스북에 더불어민주당 등의 잇따른 탄핵소추권 발동을 비판하는 취지의 글을 올렸다.&lt;br&gt;&lt;br&gt;홍 시장은 “대통령의 비상 계엄권 남용엔 전국민이 들고 일어서는데 이재명의 탄핵소추권 남용엔 왜들 침묵하는가”라며 “비상계엄권 남용이 국헌문란이라면 탄핵소추권 남용도 국헌문란 아니냐. 대통령 탄핵소추 외에 28건의 탄핵소추 남용에 이유가 있었나”라고 말했다.&lt;br&gt;&lt;br&gt;홍 시장은 또 “비상계엄권 남용으로 나라가 혼란해졌다면 탄핵소추권 남용으로 나라는 무정부상태로 가고 있다”며 “적대적 공생관계로 나라를 이끈지 2년 6개월이 됐는데 한쪽은 처벌돼야한다고 난리고 한쪽은 권력을 잡겠다고 마지막 몸부림을 치고 있다. 이게 정상적인 나라인가”라고 말했다.&lt;br&gt;&lt;br&gt;지난 2년 사이에 민주당이 발의한 탄핵안은 윤 대통령 건을 제외하면 28건으로, 대장동·백현동 비리 의혹과 대북 송금 등 이 대표 관련 사건을 수사한 검사들을 상대로 발의한 탄핵안, 감사원장 탄핵안 등이 포함돼 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[속보] 尹측 “법원 체포·수색영장 이의신청”</title>
-      <link>https://www.chosun.com/national/court_law/2025/01/02/TC7AEYHPGJDWFP6FKV5JHNZQLA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/01/02/TC7AEYHPGJDWFP6FKV5JHNZQLA/</guid>
-      <dc:creator>유희곤 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 02 Jan 2025 09:24:17 +0000</pubDate>
-      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RU52N5TQCJO3PHB3A6J3R4LUTU.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령의 법률대리인 윤갑근 변호사가 지난달 31일 서울 서초구 서울고검 앞에서 윤 대통령에 대한 법원의 체포영장 발부 관련 입장을 밝히고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 대통령 변호인단은 2일 서울서부지법에 윤 대통령에 대한 체포 및 압수 수색 영장 집행에 대해 이의 신청을 했다고 밝혔다.&lt;br&gt;&lt;br&gt;윤갑근 변호사는 “서울서부지법이 발부한 지난달 31일 체포 및 압수 수색영장은 형사소송법 및 헌법에 반해 집행할 수 없으므로 집행을 불허한다는 재판을 구한다”고 했다.&lt;br&gt;&lt;br&gt;변호인단은 서울서부지법이 수색 영장에 ‘군사상·공무상 비밀 장소는 책임자 또는 기관 승낙 없이는 수색하지 못한다’는 형사소송법 제110조와 제111조를 적용하지 않는다는 내용이 담긴 것을 문제삼았다. &lt;br&gt;&lt;br&gt;윤 변호사는 “대통령은 국군 통수권자로서 그 자체로 군사상 비밀에 해당하고, 대통령실과 관저 등도 책임자 승낙 없이 압수 수색할 수 없다”고 했다. 또한 “대통령이 소지 또는 보관하는 물건은 고도의 직무상 비밀에 해당하고 이것이 노출되는 것은 국가의 중대한 이익을 해하는 것”이라고 했다.&lt;br&gt;&lt;br&gt;윤 변호사는 “어떤 법률에도 법원이 형사소송법 110·111조를 임의로 배제할 수 있다는 근거가 없는만큼 발부된 영장은 위법·무효”라고 주장했다. 그러면서 검사 또는 사법경찰관의 ‘구금에 관한 처분’에 불복하면 법원에 그 처분의 취소 또는 변경을 청구할 수 있다는 ‘준항고’ 규정(형사소송법 제417조)에 따라 이의 신청을 한다고 했다.&lt;br&gt;&lt;br&gt;형사소송법 제417조가 정한 준항고는 수사기관 처분에 대한 불복 절차이다. 법조계 관계자는 “(수색, 체포 등) 아직 처분이 이뤄지지 않은 상태에서 준항고가 가능한지 의문”이라고 했다. 법원 관계자도 “일단 법원에서 영장이 발부되면 효력이 있는 것이고, 이에 대한 이의신청 제도는 없다”고 했다.&lt;br&gt;&lt;br&gt;이와 관련해 윤 변호사는 “이례적으로 공수처 체포영장 청구 및 발부 사실과 영장 적시 내용까지 공개되고 있고, 공수처가 영장 집행을 예고까지 하고 있는 만큼 (현재는) 집행을 받은 것과 같은 정도”라면서 “(체포 등) 집행 전이라 하더라도 (발부된) 영장에 기반한 공수처의 집행을 불허해 달라는 취지”라고 했다.&lt;br&gt;&lt;br&gt; &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>공수처 “尹체포영장 집행 협조를”…최상목·대통령실·총리실에 공문</title>
-      <link>https://www.chosun.com/national/court_law/2025/01/02/VL4KW7ZJKBDGLEIQ3QDYH2UVPM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/01/02/VL4KW7ZJKBDGLEIQ3QDYH2UVPM/</guid>
-      <dc:creator>이슬비 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 02 Jan 2025 09:11:38 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CQQ6PWUXVBLH7LWVCVDB4CZRXA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;최상목(오른쪽) 대통령 권한대행 부총리 겸 기획재정부 장관과 정진석 대통령 비서실장이 2025년 을사년 새해 첫날인 1일 서울 동작구 국립서울현충원을 찾아 현충탑 참배 뒤 대화를 나누고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;고위공직자범죄수사처(공수처)가 “윤석열 대통령에 대한 체포영장 집행에 협조해달라”는 내용의 공문을 최상목 대통령 권한대행과 정진석 대통령 비서실장, 방기선 국무조정실장에게 각각 보낸 것으로 전해졌다.&lt;br&gt;&lt;br&gt;2일 법조계에 따르면, 공수처는 지난 1일 “체포영장 집행에 협조해달라”는 전자공문을 최 권한대행과 정 실장, 방 실장에게 각각 발송했다. 공수처가 체포영장 집행을 앞두고 경호처, 대통령비서실 지휘 권한이 있는 3명에게 사전 협조를 요청하는 차원에서 보낸 것이다.&lt;br&gt;&lt;br&gt;최 권한대행은 대통령 권한대행으로서 경호처에 대한 지휘 권한이 있다. 정 실장은 대통령의 최고위 보좌진으로서 비서실 공무원을 지휘 감독할 권한을 가지고 있고, 방 실장은 최 권한대행을 보좌하는 역할을 하고 있다. 최 권한대행 등은 공문에 회신하지는 않은 것으로 전해졌다.&lt;br&gt;&lt;br&gt;앞서 이순형 서울서부지법 영장 전담 부장판사는 지난달 31일 윤 대통령 체포영장과 한남동 대통령 관저 수색영장을 함께 발부하면서 “윤 대통령이 정당한 사유 없이 출석 요구에 응하지 않을 우려가 있고, 죄를 범했다고 의심할 만한 상당한 이유가 있다”고 했다. 대표 죄목으로 ‘내란 수괴’ 혐의가 적시된 체포영장의 기한은 오는 6일이다.&lt;br&gt;&lt;br&gt;공수처는 체포영장의 유효 기한인 6일까지 영장을 집행하겠다는 방침을 세우고 집행 시기를 내부적으로 조율하고 있다. 윤 대통령 측은 “불법·무효”라고 반발하고 있다. 공수처가 윤 대통령 체포를 시도할 때 이를 막는 대통령경호처와 물리적 마찰이 생길 수 있다는 우려가 나온다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>‘한덕수 탄핵하면 민주당사 폭파’ 예고글 쓴 60대 검거 </title>
