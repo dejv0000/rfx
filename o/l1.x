@@ -6,6 +6,54 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>동인 시무식 “법치주의 실현 최선”</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/204434.jpg" alt="204434.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;《사진=백성현 기자》&lt;/figcaption&gt;   &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;2일 오전 서울 서초구 서초동 법무법인 동인 회의실에서 진행된 시무식에서 임직원들이 제주항공 여객기 참사 희생자들을 애도하며 묵념하고 있다. 이날 시무식에서&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="4550"&gt;황윤구&lt;/span&gt;(63·사법연수원 19기) 동인 대표변호사는 “2025년은 헌법 최고 가치 중 하나인 법치주의가 더욱 굳건히 뿌리내리는 한 해가 되기를 소망한다”며 “동인은 법치주의의 가치를 실현하기 위해 매 순간 최선을 다할 것” 이라고 밝혔다.&lt;/p&gt;</description>
+			<pubDate>Mon, 06 Jan 2025 01:21:40 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/204434</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/204434</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/204434.jpg</media:thumbnail>
+			<dc:creator>백성현 기자</dc:creator>
+		</item>
+		<item>
+			<title>[단독] 육성권 전 공정위 조사관리관, 법무법인 지음 상임고문 합류</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/204427.jpg" alt="204427.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;육성권 전 공정거래위원회 조사관리관 《사진=연합뉴스》&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;육성권(58) 전 공정거래위원회 조사관리관(1급)이 지난해 12월 31일 법무법인 지음(대표변호사&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="11189"&gt;김설이&lt;/span&gt;)에 상임고문으로 합류했다. &lt;br /&gt;&lt;br /&gt;육 전 관리관은 서울대 법학과를 졸업하고, 미국 위스콘신대학교에서 법학 석사, KDI국제정책대학원에서 공공정책학 석사 과정을 수료한 뒤 약 27년간 공직에 몸담아왔다.&lt;br /&gt;&lt;br /&gt;그는 1996년 제39회 행정고시에 합격해 사무처장, 시장감시국장, 기업집단국장, 기업거래정책국장 등을 역임하며 주요 직책을 두루 거쳤다.&lt;br /&gt;&lt;br /&gt;그는 기업거래정책국장 재직 당시 대우조선해양의 부당 하도급대금 결정 행위를, 시장감시국장 시절에는 이동통신 3사의 5G 속도 허위·기만 광고를 제재했다. 기업집단국장으로서는 삼성웰스토리 부당지원 사건과 SK(주)의 특수관계인에 대한 실트론 주식 인수 사업기회 제공 행위 등을 처리했다. &lt;br /&gt;&lt;br /&gt;공정위 조사관리관은 공정위의 조사 업무를 총괄하는 핵심 보직이다. 육 전 관리관의 합류는 법무법인 지음이 경쟁법 자문 전문성과 공정위 주요 사건 소송대리 역량을 강화하기 위한 전략적 영입으로 분석된다. 지음은 공정위 소송대리 분야에 특화된 로펌으로 알려져 있다.&lt;/p&gt;</description>
+			<pubDate>Mon, 06 Jan 2025 00:16:13 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/204427</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/204427</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/204427.jpg</media:thumbnail>
+			<dc:creator>안현 기자</dc:creator>
+		</item>
+		<item>
+			<title>공수처, 경찰에 윤석열 대통령 체포영장 집행 일임</title>
+			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/thumb/180/204433.jpg" alt="yoon3.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;고위공직자범죄수사처(공수처)가&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="8480"&gt;윤석열&amp;nbsp;&lt;/span&gt;대통령에 대한 체포영장 집행을 경찰에 일임했다. &lt;br /&gt;&lt;br /&gt;공수처는 5일 밤 경찰 국가수사본부에 윤 대통령에 대한 체포영장 집행을 일임하는 내용의 공문을 발송했다고 6일 밝혔다. &lt;br /&gt;&lt;br /&gt;경찰은 공수처로부터 이같은 내용의 협조 요청 공문을 받아 내부적으로 법률 검토 중이다. &lt;br /&gt;&lt;br /&gt;공수처는 법원에 윤 대통령에 대한 체포영장 기간 연장을 신청할 것으로 전망된다. 윤 대통령의 체포영장 유효기한은 6일까지다.&lt;br /&gt;&lt;br /&gt;앞서 공수처와 경찰 등으로 꾸려진 공조수사본부는 3일 윤 대통령에 대한 체포영장을 함께 집행했지만, 집행을 막아선 대통령 경호처와 5시간 30분가량 대치하다 결국 철수했다.&lt;br /&gt;&lt;br /&gt;당시 경찰은 현장에서 박종준 경호처장 등을 특수공무집행방해 혐의 등으로 현행범 체포하려고 했으나, 공수처가 이를 불허했던 것으로 알려졌다.&lt;/p&gt;</description>
+			<pubDate>Mon, 06 Jan 2025 00:07:39 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/204433</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/204433</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/204433.jpg</media:thumbnail>
+			<dc:creator>임현경 기자</dc:creator>
+		</item>
+		<item>
+			<title>【오늘의 법조】 2025년 1월 6일</title>
+			<description>&lt;p style="text-align: center;"&gt;   &lt;b&gt;[법원]&lt;/b&gt;&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;b&gt;▷'특정범죄가중처벌등에관한법률위반(뇌물) 등 혐의' 유동규 외 4명 160차 공판&lt;/b&gt;&lt;br /&gt;-오전 10시, 서울중앙지법&lt;br /&gt;&lt;br /&gt;&lt;hr style="border-right: 0px dashed lightgray; border-bottom: 0px dashed lightgray; border-left: 0px dashed lightgray; border-top-style: dashed; border-top-color: lightgray;" /&gt;&lt;p style="text-align: center;"&gt;&amp;nbsp;&lt;/p&gt;&lt;p style="text-align: center;"&gt;   &lt;b&gt;[로펌]&lt;/b&gt;&lt;/p&gt;&lt;p&gt;   &lt;b&gt;&lt;br /&gt;&lt;/b&gt;&lt;/p&gt;&lt;b&gt;▷법무법인 태평양, '고정성 제외로 달라진 통상임금 범위: 무엇이 달라지고 어떻게 대응해야 하나?' 웨비나&lt;/b&gt;&lt;br /&gt;-오후2시&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;hr style="border-width: 2px 0px 0px; border-color: lightgray;" /&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p style="font-weight: 700; text-align: center;"&gt;   &lt;b&gt;[오늘의 PICK]&lt;/b&gt;&lt;/p&gt;&lt;p&gt;   &lt;b&gt;&lt;br /&gt;&lt;/b&gt;&lt;/p&gt;&lt;b&gt;▷대법원, '쟁점-판단' 위주 판결서 적정화 시범 실시 재판부 예시 분석…중간보고 발표&lt;/b&gt;&lt;br /&gt;대법원은 지난해에 이어 올해에도 판결서 적정화 시범 실시를 이어간 뒤 내년부터 적정화에 기여한 재판부에 대해 인센티브 등을 제공할 수 있도록 검토 중이다. 법조에서는 쉬운 판결서 작성 확대로 당사자가 판결서를 쉽게 이해하고, 신속한 분쟁 해결로까지 이어질 수 있을지 주목하고 있다.&lt;p style="text-align: center;"&gt;&amp;nbsp;&lt;/p&gt;&lt;p style="text-align: center;"&gt;   &lt;a href="https://www.lawtimes.co.kr/news/204393" target="_blank"&gt;&lt;span style="color: #994c00; background-color: #ffe5cc;"&gt;&lt;b&gt;☞ 기사보기 ☜&lt;/b&gt;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;p style="text-align: center;"&gt;&amp;nbsp;&lt;/p&gt;&lt;b&gt;▷[이인용 칼럼] 판사, 검사, 기자와 '탈진실'&lt;/b&gt;&lt;br /&gt;사실을 재구성해 진실에 다가가는 것이 판사, 검사, 기자업의 본질&lt;br /&gt;투키디데스의 고민 '라쇼몽'의 서사처럼 진실을 찾는 길은 언제나 험난&lt;br /&gt;사실보다 감정 앞서는 '탈진실'의 시대 판사, 검사, 기자가 오르내리는 이유는 &lt;br /&gt;본업을 등지고 진실을 외면한 이들 때문 아닌가&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p style="text-align: center;"&gt;   &lt;a href="https://www.lawtimes.co.kr/opinion/204342" target="_blank"&gt;&lt;span style="color: #994c00; background-color: #ffe5cc;"&gt;&lt;b&gt;☞ 기사보기 ☜&lt;/b&gt;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;p style="text-align: center;"&gt;&amp;nbsp;&lt;/p&gt;</description>
+			<pubDate>Sun, 05 Jan 2025 22:36:09 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/204417</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/204417</guid>
+			<dc:creator>인터넷 기자</dc:creator>
+		</item>
+		<item>
+			<title>【오늘의 국회일정】 2025년 1월 6일</title>
+			<description>&lt;b&gt;◇국회의장&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;11:00 「마틴 보스마」 네덜란드 하원의장, 우원식 국회의장 접견(의장접견실)&lt;br /&gt;&lt;br /&gt;&lt;b&gt;◇국회사무총장&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;08:20 주간업무보고(종합상황실)&lt;br /&gt;&lt;br /&gt;11:00 「마틴 보스마」 네덜란드 하원의장, 우원식 국회의장 접견(의장접견실)&lt;br /&gt;&lt;br /&gt;&lt;b&gt;◇상임위원회&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;09:00 과학기술정보방송통신위원회 정보통신방송법안심사소위원회(본관 628호)&lt;br /&gt;&lt;br /&gt;10:00 법제사법위원회 법안심사제1소위원회(본관 406호)&lt;br /&gt;&lt;br /&gt;10:30 과학기술정보방송통신위원회 전체회의(본관 627호)&lt;br /&gt;&lt;br /&gt;&lt;b&gt;◇의원실 세미나&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;10:00 강유정 의원실 등, 계엄, 저항, 그리고 응원봉의 문화정치 토론회(의원회관 제9간담회의실)&lt;br /&gt;&lt;br /&gt;&lt;b&gt;◇소통관 기자회견&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;10:00 안철수 의원, [현안 관련 기자회견]&lt;br /&gt;&lt;br /&gt;11:00 성소미 공보기획관, [1월 2주차 국회 정례브리핑]&lt;br /&gt;&lt;br /&gt;11:40 민병덕 의원, [전국교수연구자 1만명 시국선언 기자회견]&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;b&gt;&lt;span style="font-size: 14px;"&gt;※ 상기 일정은 사정에 따라 변경될 수 있습니다.&lt;/span&gt;&lt;/b&gt;&lt;br /&gt;</description>
+			<pubDate>Sun, 05 Jan 2025 22:36:05 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/204425</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/204425</guid>
+			<dc:creator>인터넷 기자</dc:creator>
+		</item>
+		<item>
 			<title>[판결] 계획에 없던 아파트 입구 구조물, 조망권 침해 될까?</title>
 			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/thumb/180/204403.jpg" alt="e.jpg" /&gt;&lt;/p&gt;&lt;br /&gt;&lt;b&gt;[사실관계] &lt;/b&gt;&lt;br /&gt;원고(피상고인)는 김○○ 등 8명(소송대리인 법무법인 도시와사람&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="230"&gt;이승태&lt;/span&gt;,&lt;span style="font-weight: bold;" class="lawmanlink" serial="31547"&gt;이희원&lt;/span&gt;,&lt;span style="font-weight: bold;" class="lawmanlink" serial="26862"&gt;주덕&amp;nbsp;&lt;/span&gt;변호사)이고, 피고(상고인)는 응암제2구역주택재개발정비사업조합이다(법무법인 세강&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="13612"&gt;김철기&lt;/span&gt;,이일우 변호사).&lt;p&gt;&amp;nbsp; &lt;br /&gt;원고들은 녹번역e편한세상 109동과 114동 2~3층을 분양받은 소유주들로 피고가 입주자 모집 당시 예정돼 있지 않은 문주(아파트 단지 입구의 큰 구조물)를 109동과 114동 사이 진입로에 설치해 조망권을 침해당했고, 당초 109동 앞에 설치하려던 경비실을 114동 앞으로 이동 설치하는 등 피고가 분양계약상 채무를 불이행했다며 손해배상을 청구했다.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;[쟁점]&lt;/b&gt;&lt;br /&gt;조합이 분양계약에 없었던 문주를 설치한 것이 분양계약상의 채무를 불이행한 것으로 손해배상이 인정되는지 여부가 쟁점이 됐다.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;[1, 2심 결과]&lt;/b&gt;&lt;br /&gt;1심은 문주 설치로 인해 조망권이 제한된다고 인정했지만 경비실 위치 변경 주장은 배척했다. 조망권 제한으로 인해 해당 세대의 가격 하락이 인정되나, 감정인이 손해액을 산정할 수 없다고 회신해 정확한 재산상 손해액을 확정할 수 없었고, 이를 고려해 위자료를 500만~1000만 원으로 산정했다(서울서부지방법원 &lt;b&gt;2020가단280930&lt;/b&gt;).&lt;br /&gt;2심도 "문주 설치로 인해 원고들 소유 아파트의 가치가 하락해, 피고가 하락분을 보전해 주는 것이 손해의 공평부담 원칙에 부합"이라며 원고일부승소 판결했다(서울서부지방법원 &lt;b&gt;2023나45016&lt;/b&gt;).&lt;br /&gt;&lt;br /&gt;&lt;b&gt;[대법원 판단] &lt;/b&gt;&lt;br /&gt;파기환송했다. 대법원은 "아파트 분양계약 체결 후 설계변경으로 아파트 단지 내에 추가로 구조물 등이 설치되고, 그러한 설치로 아파트 각 동·세대의 환경에 일정 부분 변화가 있더라도 수분양자가 예상할 수 있는 범위 내에 있다면 이를 두고 아파트가 분양계약의 목적물로서 거래상 통상 갖추어야 하거나 당사자의 특약에 의해 보유해야 할 품질이나 성질을 갖추지 못한 경우에 해당한다고 볼 수 없다"며 "원고들 세대 시야에서 이 사건 문주와 경비실이 보이는 비율도 최대 20% 정도에 불과해 시야 제한이 중대하다고 보기는 어렵고, 교환가치가 하락했다고 볼만한 사정도 없다"고 판단했다. 그러면서 "원심판단에는 아파트 분양계약상의 채무불이행책임에 관한 법리를 오해한 잘못이 있다"고 밝혔다.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;[소송대리인 의견] &lt;/b&gt;&lt;br /&gt;원고소송대리인&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="230"&gt;이승태&lt;/span&gt;(56·사법연수원 30기) 도시와사람 대표변호사는 "기본 건축 계획과 다른 설계 변경이 예상 범위를 벗어났는지가 중요한 판단 기준인데, 이번 사건에서 문주 설치는 분양 계약 후 2년 6개월 뒤에 이루어진 것으로, 예상 범위를 벗어난 사례임에도 대법원이 예상 범위 내로 판단한 것은 현실과 동떨어진 결정"이라며 "원심에서는 현장 검증을 통해 재판부를 설득하려 했으나 받아들여지지 않았는데, 파기환송심에서는 현장검증을 다시 신청해 문주 설치로 인해 입주자들이 어떤 피해를 봤는지 더 다퉈볼 것"이라고 말했다.&lt;/p&gt;</description>
 			<pubDate>Sun, 05 Jan 2025 21:09:23 -0000</pubDate>
@@ -192,55 +240,6 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/204399</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/204399.jpg</media:thumbnail>
 			<dc:creator>홍윤지 기자</dc:creator>
-		</item>
-		<item>
-			<title>[기억과 추모] ‘공공 안전 수호’ 외길 걸은 다감한 원칙주의자 - 최상엽 전 법무부장관</title>
-			<description>&lt;p style="text-align: center;"&gt;&amp;nbsp;&lt;img src="https://image.lawtimes.co.kr/thumb/180/204416.jpg" alt="204416.jpg" /&gt;&lt;/p&gt;&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;1997년 3월 10일 국회 법제사법위원회에 출석해 인사하는 최상엽 전 장관.&lt;/figcaption&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;《사진=연합뉴스》&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p style="text-align: center;"&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;   &lt;b&gt;“한 마디로 다정다감한 분. 모든 말에 귀 기울이고 후배들에게 한없이 따뜻하고 자상했던 분”,&lt;/b&gt;&lt;/p&gt;&lt;p&gt;   &lt;b&gt;“험한 세상 살면서도 그 많은 사건을 처리한 사람.”&lt;/b&gt;&lt;/p&gt;&lt;p&gt;   &lt;b&gt;&amp;nbsp;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;법조인들의 기억 속에 최상엽 전 법무부장관은 공명정대하고 온화한 사람이었다. 후배의 존경을 받았던 최상엽 전 장관이 3일 숙환으로 별세했다. 향년 88세.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;경상북도 포항에서 태어난 고인은 포항고, 서울대 법대를 졸업했다. 1961년 고등고시 사법과(13회)와 행정과에 동시 합격했다. 법무부 검찰 1·2 과장, 서울지검 특수2부장과 대검찰청 형사2부장·공안부장·차장검사 등을 역임했다. 1982년부터 1987년까지 대검 공안부장으로 재직했는데 검사장으로는 일선을 거치지 않고 대검에만 근무한 이력이 특이하다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;1990년 대검 차장검사에서 제16대 법제처장으로 부임했다. 고인은 법제업무에 깊은 애정을 가지고 특유의 기획능력과 조직장악력을 보여줬다. ‘일을 제대로 하려면 조직과 예산이 뒷받침 돼야 한다’며 예산과 정원 확보에 힘썼다. 처장으로 있던 1년 반 동안 인원은 22% 늘리고 예산은 83% 증액시켰다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;또 북한의 법제도를 전반적으로 연구해 ‘북한법제개요’를 발간했다. 당시 국내외 모두 북한실정법에 관한 자료가 없었는데, 고인은 직원들을 일본, 미국, 독일 등지에 파견해 자료를 수집했다. 집필진도 경험 많은 법제관으로 구성하고 감수한 뒤에도 원고를 일일이 읽었다고 한다. 이 책은 북한법연구에 대한 최초의 종합적, 체계적인 연구서가 되었고 북한법제연구를 질적으로 한 차원 높인 책이라는 평가를 받았다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;이 경험으로 한국법제연구원 이사장직을 맡기도 했으며, 1997년 김영삼 정부의 네 번째 법무부장관으로 임명됐다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;고인의 검찰 후배였던 한 원로 법조인은 “보기 드물게 인품이 훌륭했는데 공안으로 시작해 공안으로 끝나다시피 한 분”이라며 “어려운 시절 공안 사건을 전담하면서 마다하지않고 모두 처리했다”고 기억했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;   &lt;span style="font-weight: bold;" serial="163"&gt;송종의&lt;/span&gt;(83·1회) 전 법제처장은 “어려운 결정을 하면서도 아랫사람의 이야기를 귀담아듣고, ‘네’ 하고 수용하는 포용력이 있었다”며 “후배들이 ‘이건 안 됩니다’라고 하면 ‘아, 그래?’ 하며 자기 생각을 바꾸기도 하는 포용력 있는 사람이었다”고 말했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;   &lt;span style="font-weight: bold;" serial="8681"&gt;이귀남&lt;/span&gt;(73·12기) 전 법무부장관은 “국가관이 투철한 분이었다. 일할 때는 원칙을 강조하는 원칙주의자였지만, 다정다감한 성품을 지녔다”며 “후배들에게 따뜻하고 자상해 모두 그를 따랐다. 검찰에서 존경받는 참 법조인, 참 어른이었다”고 회고했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;이 전 장관은 “같은 동네에 사는 검사들끼리 모임을 만들어 자주 교류했다. 나도 그 모임에 참여했는데, 항상 좋은 말씀을 많이 해주었다. 검찰을 떠난 후에도 가까이 지냈지만, 최근 아프신 뒤에는 잘 모이지 못했다”며 “충고와 조언을 아끼지 않으면서도 후배들의 마음을 잘 다독여 주었던 어른이었다”고 말했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;유족은 부인과 1녀. 빈소는 삼성서울병원 장례식장 6호실, 발인 6일 오전 8시 30분.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;   &lt;b&gt;우빈 기자(wb0604@lawtimes.co.kr)&lt;/b&gt;&lt;/p&gt;&lt;p&gt;   &lt;b&gt;임현경 기자(hylim@lawtimes.co.kr)&amp;nbsp;&lt;/b&gt;&lt;/p&gt;</description>
-			<pubDate>Fri, 03 Jan 2025 20:10:09 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/204416</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/204416</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/204416.jpg</media:thumbnail>
-			<dc:creator>우빈 기자</dc:creator>
-		</item>
-		<item>
-			<title>경력 검사 올해도 필기 없이 면접만으로</title>
-			<description>&lt;p&gt;법무부가 2025년도 경력 검사를 선발한다. 2024년 필기 시험을 과감하게 생략하고 서류와 면접만으로 경력 검사를 임용했던 법무부는 이번에도 무필기전형으로 인재를 뽑기로 했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;이번 임용에는 사법연수원을 수료했거나 제12회 또는 그 이전 변호사시험에 합격한 사람 중 올해 7월 31일 기준으로 법조경력 2년 이상인 사람이 지원할 수 있다. 단 군법무관·공익법무관으로 의무복무한 기간은 법조경력에 산입하지 않는다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;공공영역에서 수사·재판·조사·감사 등 검찰 유관 업무에 종사한 실무경력자, 공인회계사, 의사, 약사, 변리사, 세무사, 공인노무사 등 금융·증권, 조세·기업회계, 공정거래, 무역·외사, 컴퓨터·IT, 지식재산권, 의료·약학 등 전문분야에 자격·면허를 소지하면 선발시 우대한다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;인터넷 접수 기간은 6일부터 13일 오후 6시까지다. 지원서류 방문제출은 15일 오전 10시부터 17일 오후 5시까지 가능하다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;법무부는 2월 하순경 서류전형 합격자를 발표하고 4~5월 사이 직무 및 발표표현 역량평가, 조직역량평가를 진행할 계획이다. 조직역량 평가가 끝난 뒤 5~6월 법무부 홈페이지에 임용예정자 명단을 게시한다. 이를 통해 절차적 투명성을 높이고 검사로서의 자격 유무에 대한 각계 의견을 수렴하겠다는 취지다. 최종 경력 검사 임용자는 6월에 발표된다. 임용은 8월이다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;문의는 법무부 검찰과 검사 인사 담당(02-2110-4204)으로 하면 된다.&lt;/p&gt;</description>
-			<pubDate>Fri, 03 Jan 2025 20:10:07 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/204408</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/204408</guid>
-			<dc:creator>우빈 기자</dc:creator>
-		</item>
-		<item>
-			<title>59조 손실 ‘테라·루나’ 권도형, 8일 미국 뉴욕서 재판 시작</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/204394.jpg" alt="t.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;몬테네그로에서 소환되는 권도형. 《사진=연합뉴스》&lt;/figcaption&gt;   &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;가상화폐 ‘테라·루나’ 폭락 사태의 주범 권도형 씨가 미국으로 송환돼 재판을 받게 됐다. 미국 법무부는 권 씨를 사기, 자금세탁 공모 혐의 등 9건의 범죄 혐의로 기소하면서 모든 혐의가 유죄로 인정될 경우 최대 130년형에 처할 수 있다고 밝혔다. 권 씨는 형량이 낮은 한국에서 재판받기를 원했고 이를 위한 법률적 방어를 준비했지만, 개별 범죄마다 형을 매겨 합산해 선고하는 미국에서 재판을 받게 된 것이다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;미 법무부는 2일(현지시간) ‘400억 달러(약 59조 원)의 손실을 초래한 사기 혐의로 몬테네그로에서 인도된 권도형, 사기 혐의로 기소’라는 제목의 보도자료를 냈다. 미 법무부는 “권 씨는 테라폼의 가상화폐가 폭락한 이후 광범위한 사기에 연루되고 범죄 수익금을 세탁했으며, 범죄를 은폐하려 했다”고 설명했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;미국 뉴욕 남부연방지검은 2023년 3월 권 씨가 몬테네그로에서 검거된 직후 권 씨에 대해 △증권 사기 △통신망을 이용한 사기 △상품 사기 △시세조종 공모 등 총 8개 혐의를 적용해 기소했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;미 법무부는 자금세탁 공모 혐의 1건을 추가해 공소장을 변경했다. 이에 따라 권 씨는 총 9개의 혐의를 받게 됐다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;미 법무부는 혐의 중 △상품사기 2건은 각 최고 10년 △증권사기 2건은 각 최고 20년 △통신망을 이용한 사기 2건은 각 최고 20년 △상품 사기와 증권사기, 통신망을 이용한 사기 공모 2건은 각 최고 5년 △자금세탁 혐의 1건은 최고 20년의 징역형이 선고될 수 있다고 설명했다. 미 법무부는 “권 씨의 혐의가 모두 유죄로 인정되면 최대 130년형에 처해질 수 있다”고 밝혔다. 미국은 개별 범죄마다 형을 매겨 합산하고 있기 때문에 이를 모두 더한다면 130년형이 나온다는 설명이다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;지난해 3월 권 씨를 체포한 몬테네그로는 지난달 31일 권 씨의 신병을 미국으로 인도했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;한국 정부도 권 씨의 신병을 확보하기 위해 범죄인인도를 청구했다. 권 씨도 미국 대신 한국에서 재판받는 것을 희망했다. 병과주의를 채택한 미국은 100년 이상의 징역형도 가능하지만, 한국은 가장 무거운 죄에 내리는 형벌의 절반까지 가중해 처벌하는 가중주의를 채택하고 있어 내려질 수 있는 최고 형량이 훨씬 낮기 때문이다. 이 때문에 권 씨가 몬테네그로 현지는 물론, 국내 최고 로펌에서 활동 중인 변호사들을 중심으로 변호인단을 꾸려 한국행을 위해 노력했고 국내 송환 뒤 필요한 법률 방어를 위해 준비한 것으로 알려졌다. 이들 가운데는 지검장 출신 등 전직 검찰 고위 간부가 대거 포함된 것으로 전해졌다. 테라 사태에 연루된 다른 핵심 인물들도 김·장 법률사무소 소속 변호사 등 전관 변호사를 대거 선임하면서 권 씨의 변호인단에도 관심이 쏠렸다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;몬테네그로 법원 결정에 따라 권 씨의 한국 송환이 결정되기도 했지만 현지 검찰이 불복했고, 지난해 9월 몬테네그로 대법원은 “범죄인인도 청구가 경합하는 경우, 범죄인이 송환될 국가는 법무부 장관이 결정해야 한다”며 최종 판단을 내렸다. 이후 몬테네그로 법무부 장관은 권 씨를 미국 법무부에 인도했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;권 씨는 2일 뉴욕 남부연방법원에서 열린 기소인부 심리에 출석했다. 이 자리에서 권 씨 측은 무죄를 주장했다. 권 씨의 재판은 오는 8일 열린다. 이 사건은 뉴욕 남부연방법원의 존 크로넌 판사가 담당한다.&lt;/p&gt;</description>
-			<pubDate>Fri, 03 Jan 2025 20:09:59 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/204394</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/204394</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/204394.jpg</media:thumbnail>
-			<dc:creator>한수현 기자</dc:creator>
-		</item>
-		<item>
-			<title>엘박스 이진 대표·김유승 이사, 법률신문사 방문</title>
-			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/thumb/180/204413.jpg" alt="3.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;3일 리걸테크 기업 엘박스의&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="16136"&gt;이진&lt;/span&gt;(42·사법연수원 38기) 대표와 김유승 이사가 서울 서초구 법률신문사를 방문해 경영진과 환담했다.&lt;br /&gt;&lt;br /&gt;엘박스는 판결문 등 법률 데이터를 종합적으로 리서치할 수 있는 서비스 ‘엘박스’와 생성형 AI 서비스 ‘엘박스 AI’ 등을 제공하고 있다. 현재 엘박스의 변호사 회원 수는 2만여 명에 달하며, 김·장 법률사무소 등 주요 로펌과 삼성전자 등 대기업 법무팀, 법무부, 경찰청 등을 고객으로 두고 있다.&lt;br /&gt;&lt;br /&gt;이진 대표는 “엘박스는 2025년에도 법률 전문가의 업무 생산성을 획기적으로 높이기 위해 다양한 노력을 기울이겠다”며 “국내 1위 리걸테크 기업으로서의 입지를 더욱 공고히 하겠다”고 말했다.&lt;/p&gt;</description>
-			<pubDate>Fri, 03 Jan 2025 12:05:09 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/204413</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/204413</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/204413.jpg</media:thumbnail>
-			<dc:creator>조한주 기자</dc:creator>
-		</item>
-		<item>
-			<title>법무법인 대륜, 의료제약그룹 대폭 강화</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/204412.jpg" alt="2.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;(왼쪽 위에서부터 시계방향) 박정규, 김경환, 이서형, 이일형, 홍승표, 김진주, 윤소영 변호사.&lt;/figcaption&gt;   &lt;/figure&gt;&lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;법무법인 대륜(대표변호사&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="3573"&gt;김국일&lt;/span&gt;·&lt;span style="font-weight: bold;" class="lawmanlink" serial="37425"&gt;고병준&lt;/span&gt;)이 의료분쟁에 대응하기 위해 의료제약그룹을 대폭 강화했다고 3일 밝혔다.&lt;br /&gt;&lt;br /&gt;그룹장은 수원지법 부장판사 출신&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="691"&gt;박정규&lt;/span&gt;(57·사법연수원 28기) 변호사가 맡았다. 이밖에 의료 실무 경험을 갖춘 의료진 출신 변호사들과 셀트리온 사내 변호사 출신의&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="34437"&gt;이일형&lt;/span&gt;(34·변호사시험 7회) 변호사 등 전문가들을 영입해 전문성을 강화했다.&lt;br /&gt;&lt;br /&gt;박 변호사는 “의료 행위는 실제 의료계에 종사했던 사람이 아니면 알기 힘든 부분이 있다. 관련 분쟁 발생 시 오랜 시일이 걸리는 이유도 이 때문”이라며 “이뿐만 아니라 빅데이터, 인공지능(AI) 등 새로운 기술의 적용에 따라 급속도로 발전 중인 디지털 헬스케어 분야와 관련한 법적 문제도 발생하고 있다”라고 설명했다.&lt;br /&gt;&lt;br /&gt;이어 “대륜은 급변하는 디지털 헬스케어와 의료 시장에 대응할 수 있는 시스템을 구축했다”며 “앞으로도 고객이 원하는 결과를 이끌어내기 위해 노력하겠다”고 밝혔다.&lt;/p&gt;</description>
-			<pubDate>Fri, 03 Jan 2025 12:03:20 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/204412</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/204412</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/204412.jpg</media:thumbnail>
-			<dc:creator>조한주 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
