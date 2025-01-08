@@ -13,6 +13,54 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>[속보] 尹 측 “기소나 구속영장 청구해라...그러면 재판 응할 것”</title>
+      <link>https://www.chosun.com/national/court_law/2025/01/08/VZKXSGE5D5BP3NCFQUFOCB3E2U/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/01/08/VZKXSGE5D5BP3NCFQUFOCB3E2U/</guid>
+      <dc:creator>최하연 기자, 유희곤 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 08 Jan 2025 04:49:29 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PHB22DYLJFL37KQFPIAQDJ47PM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령 측 변호인인 윤갑근 변호사가 8일 서울 서초구 한국컨퍼런스센터에서 기자간담회를 열고 발언하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤 대통령 측 변호인인 윤갑근 변호사는 8일 서울 서초구 한국컨퍼런스센터에서 기자간담회를 열고 “윤 대통령은 (고위공직자범죄수사처가) 기소를 하거나 구속영장을 청구하면 법원 재판에 응할 것이라는 입장”이라고 말했다.&lt;br&gt;&lt;br&gt;또한 윤 대통령 도피설에 대해서는 “거짓 선전·선동”이라면서 “어제도 관저에서 대통령을 뵙고 왔다”고 했다.&lt;br&gt;&lt;br&gt;윤 대통령의 헌법재판소 탄핵심판 출석에 대해서는 “(국회 측이) 탄핵 사유에서 내란죄를 철회한 부분 등 혼란스러운 부분이 어느정도 정리되어 대통령이 가서 말할 수 있는 여건이 됐을 때 갈 것”이라고 했다. “출석 횟수에 제한을 두지 않겠다”고도 말하면서도 “경호나 신변 보호 문제가 해결돼야 한다”고 했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>불법 체류 태국인 5명, 강남 클럽서 마약하다 검거</title>
+      <link>https://www.chosun.com/national/national_general/2025/01/08/4QNTQPZDWZCSFEWKFS6DLRBG5Q/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/08/4QNTQPZDWZCSFEWKFS6DLRBG5Q/</guid>
+      <dc:creator>조민희 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 08 Jan 2025 04:49:57 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/F5HWAIWGE6RSYMTKGTNK2CEVNE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 강남경찰서/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 강남의 한 클럽에서 마약류인 케타민을 투약한 혐의로 태국인 불법체류자 5명이 경찰에 붙잡혔다. &lt;br&gt;&lt;br&gt;서울 강남경찰서는 이들을 마약류관리법·출입국관리법 위반 혐의로 체포해 조사 중이라고 8일 밝혔다. &lt;br&gt;&lt;br&gt;피의자들은 지난달 29일 오전 5시쯤 서울 강남구 압구정동 인근의 한 클럽에서 케타민을 투약하고 한국에 불법 체류한 혐의를 받고 있다. 이들은 여행비자와 단기취업비자로 한국에 들어온 20~30대 청년들로 확인됐다.&lt;br&gt;&lt;br&gt;‘외국인들이 클럽에서 마약을 투약하고 있다’는 신고를 받고 출동한 경찰은 현장에서 도주하려던 이들을 검문검색을 통해 검거했다고 한다. 경찰은 피의자들이 여권을 가지고 있지 않다는 사실을 확인해 출입국관리법 위반 혐의로 현행범 체포했고, 이후 마약류 검사를 통해 이들이 케타민을 투약한 혐의를 추가로 입증했다.&lt;br&gt;&lt;br&gt;경찰은 이들의 신병을 출입국관리사무소로 인계한 뒤 수사를 이어가고 중이고, 마약류관리법 위반 혐의에 대해서는 조만간 검찰에 송치할 예정이다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “구속영장 신청 계획은 없다”며 “이는 곧 출국 정지 조치도 없다는 뜻”이라고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/F5HWAIWGE6RSYMTKGTNK2CEVNE.jpg?width=4000&amp;height=2252&amp;auth=8914ae2a711fb46de079747e187fdbe6d7d715bc72d00b8ab29b2cf52ddae5c6&amp;smart=true" type="image/jpeg" height="2252" width="4000">
+        <media:description type="plain">서울 강남경찰서 ⓒ News1 이비슬 기자</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>'카카오 김범수' 구속기소한 부장검사, 사의 표명</title>
+      <link>https://www.chosun.com/national/national_general/2025/01/08/FL2JHPIGWFFUZB2NIKJCRNFEMI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/08/FL2JHPIGWFFUZB2NIKJCRNFEMI/</guid>
+      <dc:creator>김도연 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 08 Jan 2025 05:08:43 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3O5OJHRDDWRRFQR7HGTTNOYOR4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 양천구 서울남부지검./조선비즈&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;SM엔터테인먼트(SM) 시세 조종 혐의로 카카오 창업주 김범수 경영쇄신위원장을 구속기소했던 부장검사가 최근 사의를 표명했다.&lt;br&gt;&lt;br&gt;서울남부지검은 금융조사2부를 이끌고 있는 장대규(45·사법연수원 37기) 부장검사가 최근 사의를 표명했다고 8일 밝혔다.&lt;br&gt;&lt;br&gt;검찰 내에서 장 부장검사는 증권·금융 분야에서 ‘블루벨트’(대검 공인전문검사 2급)를 수상할 만큼 금융 범죄 수사에 능한 것으로 알려졌다. &lt;br&gt;&lt;br&gt;과거 장 부장검사는 롯데그룹비리 수사단 파견, 대우조선해양 분식회계 수사팀, 이스타항공 사건 수사팀 등 굵직한 기업 사건에 주로 투입됐고 지난 2016년에는 국정농단 특별수사본부에 파견된 바 있다. &lt;br&gt;&lt;br&gt;장 부장검사는 2022년 7월부터 남부지검 금융증권범죄 합동수사부에서 부부장 검사로 일했고 금융위원회의 법률자문관 파견을 마친 지난해 6월 남부지검 금조2부장으로 부임했다.&lt;br&gt;&lt;br&gt;장 부장검사는 그간 카카오모빌리티의 ‘콜 몰아주기’ 의혹 등을 수사했고, 지난해 8월에는 SM 시세 조종 혐의를 받는 카카오 김범수 경영쇄신위원장을 구속기소했다.&lt;br&gt;&lt;br&gt;김 위원장의 보석 청구가 인용되자 장 부장검사는 김 위원장의 보석을 취소해달라는 항고장을 제출하는 등 김 위원장의 구속 수사를 이끈 바 있다.&lt;br&gt;&lt;br&gt;경북대 법대를 졸업하고 2005년 제47회 사법시험에 합격한 장 부장검사는 사법연수원을 37기로 수료했다. 이후 2008년 남부지검에서 검사 생활을 시작했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>의사 못 구한 서귀포 ‘민관’ 협력의원, 우여곡절 끝에 ‘공공’으로 개원</title>
+      <link>https://www.chosun.com/national/regional/2025/01/08/JVF4ELC6FRHQZAHB72UUPUEONQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/01/08/JVF4ELC6FRHQZAHB72UUPUEONQ/</guid>
+      <dc:creator>제주=오재용 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 08 Jan 2025 04:42:33 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OHLI2FSMBZGLHIZEJ4R54QR3UI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;제주 서귀포시 대정읍 상모리 일대에 들어선 ‘서귀포 365 민관협력의원’. 지자체가 시설을 제공하고, 민간이 운영하는 전국 최초 민관협력의원이다. /오재용 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;농어촌 의료취약지 주민의 의료 접근성 강화를 위해 건립된 서귀포시 365 민관협력의원이 ‘서귀포공공협력의원’으로 명칭을 변경해 오는 23일 개원한다. 민간에 맡겨 운영할 계획이었지만, 운영자를 구하지 못해 결국 서귀포의료원에 위탁 운영을 맡기기로 한 것이다.&lt;br&gt;&lt;br&gt;8일 서귀포시에 따르면 서귀포의료원은 의료취약지인 모슬포 등지의 주민 불편 해소를 위해 서귀포공공협력의원 개원 준비에 속도를 내고 있다. 지난달 의료인력채용 모집공고를 통해 가정의학과 전문의 2명의 채용을 확정했다. 또한 간호사와 간호조무사, 물리치료사 등 진료를 보조할 인력 모집에 나서고 있다.&lt;br&gt;&lt;br&gt;서귀포 공공협력의원은 23일 개원식을 시작으로 27일부터 본격적인 진료에 들어갈 계획이다. 진료시간은 평일과 주말 오전 9시부터 오후 8시까지이고, 매주 수요일은 휴진할 계획이다. 오는 4월부터는 건강검진도 실시한다.&lt;br&gt;&lt;br&gt;당초 서귀포 ‘365민관협력’의원은 2021년부터 42억 8000만원의 예산을 투입해 서귀포시 대정읍 상모리 일대에 의원동 885㎡과 약국동 80㎡의 건물과 시설을 건립했다. 1층에 진료실과 처치실, 방사선실, 검진실, 물리치료실과 주사실로 이뤄져 있고, 흉부방사선, 위·대장 내시경, 복부초음파, 물리치료장비 등 의료장비 15종 46대가 설치돼 있다.&lt;br&gt;&lt;br&gt;서귀포시가 부지와 시설, 고가 의료 장비에 투자해 이를 소유하고 민간 의사와 약사에게 장기 임대를 통해 자율적으로 운영하도록 하는 모형으로, 전국에서 처음으로 시도된 것이다.&lt;br&gt;&lt;br&gt;하지만 그동안 민관협력의원을 운영할 의사를 구하기 위해 무려 6차례에 걸쳐 입찰을 실시했지만 모두 유찰돼 4년 가까이 개원하지 못했다. 결국 공기관 대행에 관한 조례에 의해 서귀포의료원이 위탁·운영을 맡으면서 명칭도 ‘공공협력의원’으로 변경됐다.&lt;br&gt;&lt;br&gt;서귀포의료원 관계자는 “공공협력의원을 운영하면서 가장 알맞은 진료 방식을 찾아가겠다”며 “휴일과 야간진료를 통해 의료취약지역 주민의 불편을 해소하는데 최대한 노력하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>심폐소생술로 살아난 30대, 병원 22곳서 ‘NO’... 100km 떨어진 병원으로</title>
+      <link>https://www.chosun.com/national/regional/chungcheong/2025/01/08/M3ITWTXLCBEFLKUK22F7M5ZXKY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2025/01/08/M3ITWTXLCBEFLKUK22F7M5ZXKY/</guid>
+      <dc:creator>신정훈 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 08 Jan 2025 03:24:45 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WRLP7PKFBJGAVF5P2GEG3KQNPM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;119 구급차/신정훈 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;충북 청주에서 심정지 상태였다가 심폐소생술로 호흡이 돌아온 30대 여성이 이송할 병원을 찾지 못해 3시간 반 만에 경기 수원의 병원으로 옮겨졌다.&lt;br&gt;&lt;br&gt;8일 소방당국 등에 따르면 전날 오전 2시 13분쯤 청주시 청원구 오창읍의 한 상가에서 “여자친구가 숨을 쉬지 않는다”는 119 신고가 접수됐다.&lt;br&gt;&lt;br&gt;30대 여성 환자 A씨는 당시 남자친구 B씨와 함께 술을 마시다가 갑자기 심정지 상태에 빠졌던 것으로 전해졌다.&lt;br&gt;&lt;br&gt;B씨는 신고한 후 곧바로 심폐소생술을 했고, 구급대가 현장에 도착했을 때는 다행히 A씨는 호흡이 돌아온 상태였다고 한다.&lt;br&gt;&lt;br&gt;구급대는 호흡은 돌아왔지만, 의식이 명료하지 않았던 A씨를 충북 유일 상급종합병원인 충북대 병원을 비롯해 충청권, 수도권 등 22곳 병원에 이송하려 했지만 진료과 부재 등의 이유로 이송이 불가한 상태였다.&lt;br&gt;&lt;br&gt;결국 신고 3시간30여분 만인 오전 5시46분쯤 100km가량 떨어진 경기도 수원의 한 종합병원으로 이송돼 치료를 받을 수 있었다.&lt;br&gt;&lt;br&gt;소방관계자는 “당시 환자는 호흡이 돌아왔지만, 의식이 명료하지 않아 이송이 필요한 상태였다”며 “병원마다 상황이 여의치 않아 이송이 불가했던 상황이었고 다행히 수원에 치료 가능한 병원이 있어 이송할 수 있었다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>공금 5억 빼돌려 BJ 별풍선에 ‘펑펑’… 30대 병원 직원 실형</title>
       <link>https://www.chosun.com/national/national_general/2025/01/08/54TLAAJQHZDDDDR3DPVFIAG3AY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/08/54TLAAJQHZDDDDR3DPVFIAG3AY/</guid>
@@ -817,15 +865,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WOIPX7HDNFCOHOGTNKRO6EMBJA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원 로고. /조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;아파트 관리사무소에 층간소음 문제를 항의한 이웃의 집에 흉기를 들고 찾아가 협박한 40대 여성에게 징역형의 집행유예가 선고됐다.&lt;br&gt;&lt;br&gt;인천지법 형사14단독 공진우 판사는 특수협박 혐의로 기소된 A(여‧45)씨에 대해 징역 3개월에 집행유예 1년을 선고했다고 7일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난해 1월 29일 오후 10시 45분쯤 인천시 서구의 한 아파트에서 이웃집 주민 B(40)씨와 B씨의 아내를 흉기로 협박한 혐의로 기소됐다.&lt;br&gt;&lt;br&gt;A씨는 B씨 부부가 층간소음이 발생한다고 관리사무소에 항의했다는 이유로 화가 나 범행한 것으로 파악됐다.&lt;br&gt;&lt;br&gt;A씨는 집에 있던 흉기를 들고나와 B씨 부부 집의 현관문을 여러 차례 발로 걷어차고, “나와라” “너를 죽이고 나도 죽는다” “층간소음이 뭔지 제대로 보여줄까”라고 소리치며 협박한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;공 판사는 “협박의 정도가 가볍지 않고 범행 후의 정황도 좋지 않다”며 “피해자와 합의해 피고인의 처벌을 원하지 않는 점, 초범인 점 등을 고려했다”고 양형 이유를 설명했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>‘얼차려 훈련병 사망’ 중대장·부중대장, ‘징역 5년·징역 3년’</title>
-      <link>https://www.chosun.com/national/court_law/2025/01/07/RBC3HGVOI5G5FC7HCEJJVO5NEE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/01/07/RBC3HGVOI5G5FC7HCEJJVO5NEE/</guid>
-      <dc:creator>춘천=정성원 기자</dc:creator>
-      <description>규정 위반 군기훈련(얼차려)을 지시해 훈련병을 숨지게 한 중대장과 부중대장에게 법원이 징역형을 선고했다.춘천지법 형사2부(재판장 김성래)는 학대치사와 직권남용 가혹행위 혐의로 기소된 중대장 강모(28)씨와 부중대장 남모(26)씨에게 징역 5년과 징역 3년을 각각 선고했다고 7일 밝혔다.</description>
-      <pubDate>Tue, 07 Jan 2025 05:59:52 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WNXS45552GTKKNS6VOCRM3SQJM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;육군 12사단 '훈련병 사망' 사건과 관련해 규정을 어긴 군기훈련(얼차려)을 지시한 혐의를 받는 중대장이 지난해 5월 강원도 춘천지법에서 열린 영장실질심사(구속 전 피의자 심문)를 마치고 나서고 있다. /뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;규정 위반 군기훈련(얼차려)을 지시해 훈련병을 숨지게 한 중대장과 부중대장에게 법원이 징역형을 선고했다.&lt;br&gt;&lt;br&gt;춘천지법 형사2부(재판장 김성래)는 학대치사와 직권남용 가혹행위 혐의로 기소된 중대장 강모(28)씨와 부중대장 남모(26)씨에게 징역 5년과 징역 3년을 각각 선고했다고 7일 밝혔다.&lt;br&gt;&lt;br&gt;앞서 검찰은 지난해 11월 강씨에게 징역 10년을, 남씨에겐 징역 7년을 구형한 바 있다.&lt;br&gt;&lt;br&gt;강씨와 남씨는 지난해 5월 23일 강원 인제군 육군 12사단 신병훈련소에서 숨진 훈련병 박모(21)씨 등 훈련병 6명에게 규정 위반의 군기훈련을 지시했고, 이 과정에서 박씨를 숨지게 한 혐의다.&lt;br&gt;&lt;br&gt;남씨는 지난해 5월 22일 취침 점호 이후 숨진 박씨 등이 떠들었다는 이유로 다음날인 23일 강씨에게 구두 보고 이후 승인을 받아 군기훈련을 진행했다. 그러나 훈련 대상자들에게 해명할 기회를 주지 않는 등 절차를 위반했고, 보급품을 모두 지급받지 못한 훈련병들에게 군장의 빈 공간을 책으로 채우게 하는 등 비정상적으로 완전군장을 지시했다. 완전군장 상태에선 걷기만 가능하다는 군기훈련 규정도 무시한 채 뜀 걸음과 팔굽혀 펴기 등을 시키기도 했다.&lt;br&gt;&lt;br&gt;이들은 또 박씨가 쓰러진 위급 상황에서도 이를 제대로 인지하지 못해 응급처리를 지체했다. 박씨는 결국 이틀 뒤인 5월 25일 숨졌다.&lt;br&gt;&lt;br&gt;재판부는 “중대장과 부중대장이 훈련병들에게 지시한 얼차려는 정당한 훈련을 넘어선 가혹 행위이며 학대의 고의성도 인정된다”면서 “피고인들의 행위와 사망의 인과관계가 있다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[속보] 헌재 "양심에 따라 독립해 심판…여야 떠나 국민만 바라볼 것"</title>
       <link>https://www.chosun.com/national/court_law/2025/01/07/QYT5HF2FG5GCLDAZ5IWEO3ALYE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/01/07/QYT5HF2FG5GCLDAZ5IWEO3ALYE/</guid>
@@ -871,19 +910,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CXK6OW7YTBD6BBVJQU352U7WY4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;제주지역 향토기업인 (주)한라산이 선보인 증류소주 '오늘도 부드럽게 오름' 제품./(주)한라산&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제주 대표 주류기업인 ㈜한라산이 신제품 ‘오늘도 부드럽게 오름’을 출시했다고 7일 밝혔다.&lt;br&gt;&lt;br&gt;‘오늘도 부드럽게 오름’은 희석식 소주가 아닌 10년 숙성된 100% 국산 쌀 증류원액으로 만든 16도의 저도수 소주로 부드러운 맛이 특징이다.&lt;br&gt;&lt;br&gt;소주병이 녹색인 것도 눈길을 끈다. ㈜한라산은 “과거 녹색병 소주를 판매할 당시 ‘하얀거 줍써(주세요의 제주어)’, ‘파란거 줍써’라는 말로 주문하던 주민들의 향수를 반영했다”고 설명했다.&lt;br&gt;&lt;br&gt;라벨 디자인은 제주에 있는 368개의 오름 중 윗세오름의 산세와 그 사이에 솟아 오른 영실을 표현했다. 라벨 전면에는 ‘농협과 함께하는 우리 농산물 소비 촉진 캠페인’ ‘100% 국내쌀 증류원액 블렌딩’ 문구도 넣었다. 황금빛 벼를 상징하는 금색 뚜껑에는 QR코드를 삽입해 각종 이벤트와 지하수 수질 관리 결과 등을 확인할 수 있도록 했다.&lt;br&gt;&lt;br&gt;㈜한라산 관계자는 “지속되는 경기 침체로 어려운 시기에 75년간 제주와 함께 성장하며 희로애락(喜怒哀樂)을 함께해 온 한라산 소주가 주민과 제주의 밝은 희망을 함께 나누고자 하는 소망을 담아 신제품을 출시했다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>경찰에 체포영장 집행 일임? 法을 모르는 공수처</title>
-      <link>https://www.chosun.com/national/court_law/2025/01/07/4JVAQU6LMNFQDEZXV4TJVIJQ5A/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/01/07/4JVAQU6LMNFQDEZXV4TJVIJQ5A/</guid>
-      <dc:creator>유희곤 기자, 이민준 기자, 구아모 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 06 Jan 2025 15:59:40 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/V5GNTRI5RJGULD3YOAG73TURQE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 2024년 12월 25일 오전 경기도 과천 고위공직자범죄수사처의 모습. /장련성 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;내란죄 혐의를 받는 윤석열 대통령의 체포 영장 집행에 한 차례 실패한 고위공직자범죄수사처(공수처)가 체포 영장 기한(6일)을 하루 앞두고 경찰청 국가수사본부(국수본)에 체포 영장 집행을 떠넘기려고 공문을 보냈다가 경찰이 “법적 결함이 있다”며 거부하자 철회했다. 경찰은 “현행법에 따르면 공수처가 발부받은 영장은 경찰이 대신 집행할 수 없다”고 했다. 법조계에선 “법 해석도 못하는 공수처”라는 말이 나왔다. 한 법조계 인사는 “공수처가 수사 욕심에 성급하게 사건을 이첩받더니 성과는커녕 혼란만 키우고 있다”고 했다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇공수처 “영장 집행 경찰에 일임 가능”&lt;/b&gt;&lt;br&gt;&lt;br&gt;이재승 공수처 차장은 이날 “경찰 국수본에 윤 대통령 체포 영장 집행을 지휘했다”고 했다. 윤 대통령을 체포하는 일을 경찰에 맡겼다는 뜻이다. 그러면서 “공수처의 역할은 영장 제시, 피의 사실 요지 등의 고지와 신병 인수에 그칠 것”이라고 했다. 공수처는 이런 내용의 공문을 경찰에 보내면서 사전 협의도 거치지 않았다고 한다.&lt;br&gt;&lt;br&gt;공수처는 경찰에 영장 집행을 일임하는 근거로 형사소송법에 나오는 ‘영장은 검사의 지휘에 의해 경찰이 집행할 수 있다’는 조항을 들었다. 공수처 검사도 ‘검사’인 만큼 영장 집행 시 경찰을 지휘할 수 있다는 것이다. 그러나 경찰 국수본 관계자는 “검찰이 발부받은 영장도 경찰이 대신 집행한 적은 없다”면서 “공수처의 공문은 법률적 논란이 있다고 판단했다”고 말했다. 일선 경찰서 한 관계자는 “영장 제시, 범죄 고시 등 폼 나는 건 검사가 하고, 경호처와 대치하며 몸으로 부딪치는 건 경찰이 하라는 거냐”며 “공수처의 발상 자체가 검사스럽다”고 했다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇법조계 “공수처엔 경찰 지휘권 없어”&lt;/b&gt;&lt;br&gt;&lt;br&gt;검찰도 공수처가 법 해석을 잘못했다는 반응이다. 검찰 한 관계자는 “공수처가 근거로 든 ‘검찰청법 준용 규정’에는 오히려 공수처 검사가 체포 영장 집행을 지휘할 수 없도록 명시돼 있다”며 “공수처가 이 부분을 놓친 것 같다”고 했다. 검찰도 수사권 조정 이후 경찰 지휘권이 대부분 없어졌다. 다만 체포 영장 집행 등 일부분에 한해서 법에 따라 경찰을 지휘할 수 있게 돼 있는데, 공수처법에는 그런 규정이 없다는 것이다.&lt;br&gt;&lt;br&gt;법조계에서도 “공수처는 경찰에 대한 수사 지휘권이 없다”고 했다. 차장검사 출신인 김종민 변호사는 “공수처 논리대로면 경찰은 검찰과 공수처 지휘에 모두 응해야 한다는 것인데, ‘검수완박’ 이후 검사의 수사 지휘도 받지 않는 경찰이 받아들이겠느냐”고 했다. 부장판사 출신 변호사는 “지금까지 어떤 수사기관도 직접 발부받은 영장을 다른 기관에 맡겨 집행하는 사례는 못 봤다”며 “공수처 검사는 공수처 수사관만 지휘할 수 있다”고 했다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇‘내란죄’ 수사 내내 논란 부른 공수처&lt;/b&gt;&lt;br&gt;&lt;br&gt;논란이 커지자 공수처는 하루 만에 영장 집행 일임 방침을 거둬들였다. 공수처는 이날 “중대한 사건 수사에 작은 논란의 소지도 남기지 않아야 한다는 점에서 국수본과 의견을 같이 한다”고 했다. 앞서 지난 3일 윤 대통령에 대한 체포 영장을 집행할 때처럼 공수처 검사들이 직접 집행하고, 경찰에선 지원만 받겠다는 이야기다.&lt;br&gt;&lt;br&gt;윤 대통령 사건 초기부터 수사권을 주장한 공수처는 지난달 중순 경찰과 검찰로부터 사건을 넘겨받았지만 줄곧 논란이 있었다. 내란죄의 경우, 공수처는 검찰과 마찬가지로 직접 수사권이 없는데도, 직권남용과 관련된 범죄로 수사할 수 있다고 주장했다. 이 때문에 윤 대통령은 소환 조사도, 체포 영장 집행에도 불응하고 있다.&lt;br&gt;&lt;br&gt;공수처는 또 윤 대통령의 체포 영장을 법에서 정한 관할 법원(서울중앙지법)을 피해 서울서부지법에 청구했다가 ‘판사 쇼핑’ 논란을 불렀다. 지난달 31일 법원은 영장을 발부하며 ‘군사상‧공무상 비밀 관련 장소는 책임자 등의 승낙이 필요하다’는 형사소송법 110·111조 배제를 적시해 또 다른 논란이 일었다.&lt;br&gt;&lt;br&gt;한편 공수처는 이날 법원에 윤 대통령 체포 영장을 재청구했다. 경찰은 2차 체포 영장 집행 시 경호처가 막으면 경호처 직원을 특수공무집행방해 혐의로 체포하는 방안을 검토 중이라고 했다. 윤 대통령 측도 이날 오동운 공수처장, 우종수 국수본부장 등 11명을 특수공무집행방해 등 혐의로 검찰에 고발했다.&lt;br&gt;&lt;br&gt;&lt;b&gt;☞오동운 공수처장&lt;/b&gt;&lt;br&gt;&lt;br&gt;작년 5월 두 번째 고위공직자범죄수사처장에 임명됐다. 1998년 판사로 임관해 울산지법 부장판사, 수원지법 성남지원 부장판사 등을 거쳐 2017년 퇴직했다. 인사 청문 과정에서 법무법인 재직 시절, 아내를 운전기사로 채용해 5년간 급여 2억여 원을 주고 스무 살 딸에게 돈을 빌려줘 자기 소유의 재개발 예정지를 사도록 해 ‘편법 증여’ 의혹을 받았는데, 모두 사과했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/5YZJ6MIEMJH6NMZ3JPBK3BVR2Y.jpg?width=3242&amp;height=1824&amp;auth=4631839df2af577ddc78d89876374d4e8970c26cdc91cb033229e24ef71c357f&amp;smart=true" type="image/jpeg" height="1824" width="3242">
-        <media:description type="plain">2024년 12월 25일 오전 경기도 과천 고위공직자범죄수사처의 모습. 이날 12.3 비상계엄 선포로 내란 우두머리 혐의를 받고 있는 윤석열 대통령이 공수처의 2차 출석 요구에 불응했다. /장련성 기자</media:description>
-        <media:credit role="author" scheme="urn:ebu"/>
-      </media:content>
-    </item>
-    <item>
       <title>부산 다대포의 변신… 1조 들여 해양레저도시 만든다</title>
       <link>https://www.chosun.com/national/regional/yeongnam/2025/01/07/644FJEC42BB3VGEI6GGJYOGZRY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/yeongnam/2025/01/07/644FJEC42BB3VGEI6GGJYOGZRY/</guid>
@@ -891,33 +917,6 @@
       <description/>
       <pubDate>Mon, 06 Jan 2025 16:13:10 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IEU6I37JG5HEVL6JGE7LOONOYM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;해질녘 다대포해수욕장 전경. 부산시는 이 해수욕장과 주변 다대소각장 등 부지에 '복합 해양레저관광도시' 조성을 추진 중이다./부산시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산시가 사하구 다대포 일대에 1조원을 투자해 ‘복합 해양 레저 관광도시’를 조성한다는 계획을 발표했다. 다대포 해수욕장 일대에 5성급 호텔과 요트 등을 댈 수 있는 마리나 시설, 인공 서핑장, 해수 풀장, 해양 치유센터 등을 짓는다.&lt;br&gt;&lt;br&gt;부산시는 6일 사하구, 민간 투자자 엘튼과 업무 협약을 체결하고 이런 계획을 발표했다. 개발 대상 터는 다대 소각장 등 132만㎡다. 호텔·리조트는 엘튼이 6000억원을 투자해 398실 규모로 지을 예정이다. 엘튼은 부산 지역의 중견 건설사인 지원건설이 설립한 민간 투자 법인이다.&lt;br&gt;&lt;br&gt;필요한 사업비 1조원 중 8000억원은 민자로 조달하고, 2000억원은 정부 공모 사업 등으로 확보한다는 계획이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TSHEONQEWB5WEH5FNX37J3TRDI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;다대포 복합 해양레저관광도시 구상안&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산시 관계자는 “그동안 다대포 등 서부산 지역은 상대적으로 발전이 더뎠다”며 “일몰이 아름답고 김해국제공항, 가덕도신공항과 가까워 관광 명소가 될 잠재력이 풍부하다”고 했다. 부산시는 다대포를 해운대·송정, 북항처럼 해양 관광 중심지로 육성한다는 구상이다.&lt;br&gt;&lt;br&gt;다대포 일대에서는 옛 한진중공업 부지 재개발 사업도 진행 중이어서 시너지를 낼 수 있을 것이라고 부산시는 기대한다. 옛 한진중공업 터 재개발 사업은 17만9000㎡에 최고 48층 아파트 3000여 가구를 짓는 사업이다.&lt;br&gt;&lt;br&gt;1995년 준공한 다대 소각장은 시설 노후화 등으로 2013년 가동을 중단했다. 부산시는 소각장을 철거하고 호텔 개발을 추진했으나 번번이 실패했다. 2021년 부산시의 ‘제1호 장기 표류 사업’으로 선정될 정도였다. 6차례 매각 공고가 유찰된 끝에 작년 11월 엘튼이 소각장 부지를 매입하면서 사업이 가시화되고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>쓰레기·고성방가… 집회가 집어삼킨 한남동</title>
-      <link>https://www.chosun.com/national/national_general/2025/01/07/LDYA2YQN2JEGZE555G6EXTRCCQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/07/LDYA2YQN2JEGZE555G6EXTRCCQ/</guid>
-      <dc:creator>김보경 기자, 조은서 기자, 김지혜 기자, 이영준 기자, 김정은 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 06 Jan 2025 16:12:29 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4IVBLQVFQVAYPO3YUSCULAV5TM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;쓰레기장이 된 한남동 편의점 앞 - 지난 5일 밤 윤석열 대통령의 관저가 있는 서울 용산구 한남동의 한 편의점 앞. 버려진 컵라면 용기 130여 개가 쌓여 있다. 이 주변에는 매일 수백 명이 몰려 윤 대통령 탄핵 찬반 시위를 벌이고 있다. /김정은 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 5일 밤 윤석열 대통령 탄핵 찬반 집회가 열렸던 서울 용산구 한남동의 한 편의점. 컵라면 용기 수십 개가 1m 가까이 쌓여 있었다. 쓰레기 봉투 20여 개가 편의점 입구에 한가득 쌓여 있었고, 종이 박스와 컵라면 용기가 어지럽게 널려 있었다.&lt;br&gt;&lt;br&gt;윤 대통령 체포 영장 발부 이후 대통령 관저가 있는 한남동 일대는 조용한 주택가에서 ‘대한민국 시위 1번지’로 변모했다. 지난달 31일 발부 당일부터 6일까지 한남동에 몰려온 친윤·반윤 시위대 연인원은 15만명(경찰 추산). 그간 시위대가 몰려오던 서울 광화문·여의도는 광장형 평지인 데다 넓은 도로가 정돈된 구역이다.&lt;br&gt;&lt;br&gt;하지만 한남동은 한남대교에서 남산 기슭에 이르는 한남대로를 제외하면 모두 좁고 굽은 골목이다. 인적이 거의 없던 주택가에 광화문·여의도 광장에나 몰려 오던 대형 시위대가 몰려 오자 주민과 상인들은 소음과 쓰레기 공해를 호소하고 있다.&lt;br&gt;&lt;br&gt;6일 본지 기자들이 둘러본 한남동 일대 편의점이나 카페 문에는 ‘공공 시설 아닙니다’ ‘화장실 무단 사용 금지’ ‘한강진역 화장실 이용하세요’ 같은 안내문이 붙어 있었다. 카페 업주 김모(50)씨는 “막무가내로 화장실을 안내해달라는 사람들에게 주문 손님 전용 화장실이라고 말해도 소용이 없다”며 “카페 외벽에 노상 방뇨를 하는 사람들도 있다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PVZC4J2DYBCYRIJ773LBVRM4VE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;5일 오후 한남동 집회 장소 인근 한 편의점 앞에 쓰레기봉투가 쌓여 있다. /김영준 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;편의점 직원 김모(25)씨는 “집회 때문에 쓰레기 양이 평소보다 20배는 늘어났다”며 “손님들이 야외 테이블에 앉아 술도 많이 마신다”고 했다. 그는 라면 용기 130여 개를 보여줬다. 이 편의점에서 조금 더 걸어가자 골목 어귀마다 시위대가 삼삼오오 모여 담배를 피웠다. 눈살을 찌푸리며 담배 연기를 피해 걸어가는 주민들 모습이 보였다.&lt;br&gt;&lt;br&gt;다른 골목엔 ‘주차 금지’ 팻말이 붙어 있었지만 차량이 10여 대 주차돼 있었다. 차량 창문엔 ‘불법 주차’ 경고장이 붙었다. 주민 김윤희(38)씨는 “소음 때문에 못 살겠다”며 “밤 11시까지 확성기 소리 때문에 쉴 수가 없다”고 했다. 이헌기(65)씨는 “아이들도 지나다니는데 시위대가 온갖 욕설과 상스러운 말을 해서 걱정이 된다”고 했다.&lt;br&gt;&lt;br&gt;한남파출소 업무는 마비됐다. ‘집회 소음이 너무 시끄러운데 제재해달라’ ‘길이 너무 막히는데 해결해달라’ ‘시위대를 해산시켜달라’ ‘왜 윤석열을 체포하지 않느냐’ 같은 종잡을 수 없는 민원 전화가 몇 초에 하나씩 오는 상황이다. 경찰은 “무슨 전쟁이라도 터진 것 같다”고 했다.&lt;br&gt;&lt;br&gt;대통령 관저를 조망할 수 있는 고층 빌딩이나 아파트에 고성능 카메라를 들고 몰려오는 유튜브들도 골치다. 한 빌딩 경비원은 “옥상 올라가도 되느냐고 묻는 유튜버들 때문에 골치가 아프다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>헌재 “국회측에 내란죄 빼라고 권유한 적 없어”</title>
-      <link>https://www.chosun.com/national/court_law/2025/01/07/SKSHSSWC7ZG2ZHBJ26VTZAJTJY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/01/07/SKSHSSWC7ZG2ZHBJ26VTZAJTJY/</guid>
-      <dc:creator>박강현 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 06 Jan 2025 16:01:59 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FV5F5H6X5YKAT7U656RY55BFAI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;헌법재판소 '8인 체제' 구성 이후 첫 재판관 회의가 열리는 6일 서울 종로구 헌법재판소. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;헌법재판소가 윤석열 대통령의 탄핵 심판 소추 사유 가운데 ‘내란죄’를 철회하라고 국회 측에 권유했다는 정치권 주장에 대해 사실이 아니라고 6일 밝혔다. 헌재는 또 탄핵 사유 변경에 대해 “재판부가 판단할 사항”이라고 했고, 국회의 재의결이 필요한지에 대해선 “명문 규정은 없다”고 했다.&lt;br&gt;&lt;br&gt;천재현 헌재 공보관은 이날 ‘여당 등 정치권에서 국회 측 대리인단이 내란죄를 철회하겠다고 한 것을 두고 헌재의 권유가 있었다는 주장이 나오는데 맞느냐’는 질문에 “그런 사실은 없다”고 답했다. 앞서 지난 3일 열린 윤 대통령 탄핵 심판 두 번째 변론 준비 기일에서 국회 측은 “내란죄를 탄핵소추 사유에서 철회하겠다”고 했다. 윤 대통령의 형법상 내란죄 여부는 다투지 않고, 탄핵 여부를 가를 헌법 위반에만 집중하겠다는 것이었다. 탄핵을 주도한 야당이 탄핵 심판 속도를 앞당기려는 전략이라는 게 법조계 해석이다.&lt;br&gt;&lt;br&gt;헌재는 국회 측에 관련 의견서를 추가 제출하라고 했다. 이에 윤 대통령 측 대리인은 “이번 탄핵 심판은 내란죄 성립을 토대로 한 것인데, 내란죄가 성립하지 않는다면 탄핵소추 자체가 잘못된 것”이라며 반발했다. 이에 대해 주진우 국민의힘 의원은 “재판부가 직접 철회를 권유했다는 것은 ‘탄핵 인용’이라는 예단을 내비친 것으로 읽힌다”고 주장했다. 권성동 국민의힘 원내대표는 헌재를 항의차 방문해 “내란죄를 뺀다면 탄핵소추는 성립할 수 없다. 국회의 재의결이 필요하다”고 했다.&lt;br&gt;&lt;br&gt;국회가 내란죄를 철회한다고 해서 헌재가 곧바로 탄핵 심판 대상에서 내란죄를 빼는 것은 아니다. 헌재 관계자는 “재판부가 당사자의 철회 여부와 상관없이 법 규정 등의 적용에 대해 판단할 수 있다”며 “향후 변론 기일에서 재판부가 내란죄를 철회한다는 국회 측 주장을 받아들일지 정리하게 될 것”이라고 했다. 국회 측은 이날까지 내란죄 철회 관련 추가 의견서를 제출하지는 않았다고 한다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>文정부의 ‘검수완박’, 尹대통령 수사 혼란 불렀다</title>
-      <link>https://www.chosun.com/national/court_law/2025/01/07/6YIGXUWRXNDH7LAN7JLPQ76STQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/01/07/6YIGXUWRXNDH7LAN7JLPQ76STQ/</guid>
-      <dc:creator>유종헌 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 06 Jan 2025 16:00:01 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KJMJJ73ODZGEBOSI6PAUKKOUXA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령에 대한 체포영장 집행에 나선 고위공직자범죄수사처 수사관들이 지난 3일 서울 한남동 대통령 관저 입구에서 경호처와 대치중이다. /김지호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘12·3 비상계엄’ 사태 수사 과정에서 드러난 고위공직자범죄수사처(공수처)의 갈지자 행보는 문재인 정부가 졸속으로 설치한 공수처의 태생적 한계 때문이라는 평가가 법조계에서 나온다. 다른 수사기관과의 업무 구분이 명확하지 않은 데다 공수처법에도 공백이 많아 주요 수사마다 논란이 끊이지 않았다. 윤석열 대통령 내란죄 수사에서도 수사권 논란부터 체포 영장 집행 일임 논란까지 터져 수사의 걸림돌이 되고 있다.&lt;br&gt;&lt;br&gt;공수처는 문재인 정부의 핵심 과제였던 ‘검찰 개혁’의 일환으로 탄생했다. 공수처는 대통령과 국회의원, 판사·검사, 경무관 이상 경찰관, 장성급 장교 등을 대상으로 직무와 관련된 범죄에 대해 수사권을 갖는다. 수사 범위가 검찰·경찰과 일부 겹치는 탓에 수시로 주도권 경쟁이 일어났고, 그 과정에서 법의 허점도 여러 번 드러났다.&lt;br&gt;&lt;br&gt;공수처는 직접 기소권이 없는 사건의 경우, 검찰에 보내게 돼 있다. 그런데 검찰이 공수처에 보완 수사 요구를 할 수 있는지에 대한 규정이 없다. ‘감사원 3급 간부 뇌물 사건’의 경우 검찰이 “보완 수사하라”며 사건을 반송했지만, 공수처는 “검찰이 자체 보강 수사하라”며 접수를 거부했다. 약 1년간의 신경전 끝에 검찰이 자체 수사하기로 결정했다.&lt;br&gt;&lt;br&gt;공수처 검사가 경찰의 신청을 받아 영장을 청구할 수 있는지도 불분명하다. 공수처는 2021년 5월 사건사무규칙을 만들며 “경찰이 구속·체포 영장 등을 공수처에 신청할 수 있다”고 했다가 논란이 되자 구속·체포 영장은 빼고 압수수색·통신 영장만 남겨놨다. 지금도 공수처가 법률에 근거 없는 권한을 행사한다는 논란이 남아 있다.&lt;br&gt;&lt;br&gt;한편 공수처의 인력 부족과 수사 역량도 늘 논란거리다. 2021년 출범 이래 작년 6월까지 8785건의 사건을 접수했지만 직접 기소한 사건은 4건뿐이다. 구속 영장도 5번 청구해 모두 기각됐다가 지난달 문상호 정보사령관 구속영장이 처음으로 발부됐다.&lt;br&gt;&lt;br&gt;공수처의 검사 정원은 25명으로 검찰의 일선 지청 수준인데 검사들의 집단 사직으로 그마저도 채우지 못하고 있다. 현재 공수처 검사는 처·차장 포함 14명이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[오늘의 날씨] 2025년 1월 7일</title>
