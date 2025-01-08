@@ -13,6 +13,19 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>100세 스키어의 은빛 질주... 설원 위에서 나이를 잊었다</title>
+      <link>https://www.chosun.com/national/people/2025/01/09/262JO3KUBFDLJININFERYXF6YY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/01/09/262JO3KUBFDLJININFERYXF6YY/</guid>
+      <dc:creator>정병선 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 08 Jan 2025 22:00:00 +0000</pubDate>
+      <content:encoded>100세 할아버지의 활강 모습이다.&lt;br&gt;&lt;br&gt;한국원로스키인회와 대한스키스노보드협회는 지난 5일 99세 생일을 맞은 이근호 설해장학재단 이사장을 위한 특별한 행사를 가졌다.&lt;br&gt;&lt;br&gt;이른바 ‘백수(白壽·아흔아홉살)시대 스키 기념행사’였다. 이 이사장의 생일 이틀 전 마련한 행사는 강원도 평창군 모나용평(용평리조트) 스키 슬로프에서 개최됐다.&lt;br&gt;&lt;br&gt;이날 안전요원과 함께 스키장에 모습을 드러낸 이 이사장은 슬로프를 따라 활강하며 국내 스키 사상 ‘100세 스키어’라는 한 획을 그었다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZT7UAZCKT5EZ7EIDQNWI5YI5LM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이근호 이사장(왼쪽에서 여섯번째)이 활강 후 원로스키인들과 모나용평관계자들의 환영을 받고 있다./모나용평&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;현재 대한스키지도자연맹 명예회장을 맡고 있는 이 이사장은 1926년1월 7일생으로 만 99세를 넘겼다. 매년 스키 시즌이 되면 모나용평 슬로프를 찾아 스키를 즐겨왔다.&lt;br&gt;&lt;br&gt;스키를 타본 적 없는 이 이사장은 1983년 김재현 대한스키협회 회장(전 쌍용그룹 부회장·2013년 작고)의 권유로 협회 부회장을 맡은 뒤 60세가 다 돼 처음 스키를 배웠다. 이후 1급 지도자 자격증까지 취득할 정도로 스키에 대한 열정을 보이며 지금까지 스키 인생을 살아왔다.&lt;br&gt;&lt;br&gt;이번 행사는 우리 나이 100세를 맞은 이근호 설해장학재단 이사장의 스키와 함께한 여정을 기념하고, 그의 스키에 대한 열정과 헌신을 되새기는 자리였다. 한편으론 장수를 축하하기 위한 분위기였다. 이날 행사에는 스키계 전·현직 인사들이 함께하며 뜻깊은 자리가 됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MV5J2SORWRFKDDUTV2BPU52RNU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이근호 이사장이 활강을 마치고 스키인들과 모나용평 관계자들로부터 환영받는 모습./모나용평&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이 이사장은 “남녀노소 건강을 위한 인생 습관이 중요하다. 건강한 습관은 건강한 사고를 하게 한다”며 “내 경험상 스키는 건강을 위해 꼭 권하고 싶은 운동이다”고 했다.&lt;br&gt;&lt;br&gt;해운업에 종사하던 이 이사장은 2003년 자신의 호(설해·雪海)를 딴 장학재단을 설립해 스키 선수들을 지원해왔다. 국내 스키 유망주와 각종 국제대회 메달리스트에게 매년 5000만원의 격려금을 전달하는데 이미 10억원을 넘겼다.&lt;br&gt;&lt;br&gt;신달순 모나용평 대표는 “스키인 뿐만 아니라 스키장의 자랑이다”며 “이 이사장께서 스키 타는 동안 안전 요원을 동반시켜 특히 신경 쓰고 있다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/PY335AMS6BA3VFFQMUPUV66ZYQ.jpg?width=2402&amp;height=1351&amp;auth=1900fdd45d4e229fc6d8aa727ce93f9000d57afbd483eb49832e9062329b70e9&amp;smart=true" type="image/jpeg" height="1351" width="2402">
+        <media:description type="plain">이근호 이사장(왼쪽에서 여섯번째)이 활강 후 원로스키인들과 모나용평관계자들의 환영을 받고 있다./모나용평</media:description>
+        <media:credit role="author" scheme="urn:ebu"/>
+      </media:content>
+    </item>
+    <item>
       <title>신임 의협회장 “2026학년도 의대정원 반으로 줄여도 수용 못해”</title>
       <link>https://www.chosun.com/national/welfare-medical/2025/01/09/VCE3NTJ4ZVHR7BDI34JD5DFA4Y/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/01/09/VCE3NTJ4ZVHR7BDI34JD5DFA4Y/</guid>
@@ -759,15 +772,6 @@
       <description/>
       <pubDate>Wed, 08 Jan 2025 00:03:55 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CUVCW4OOENDG3LLV2E6ERXQFRM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;9일부터 절정의 강추위가 예고된 가운데 7일 오후 서울 명동 거리에서 외국인 관광객들이 중무장을 한채 걸어가고 있다. /박상훈 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;동장군이 올겨울 가장 매서운 모습을 보이는 가운데 8일 서울의 한낮 체감기온이 영하권에 맴도는 등 전국이 꽁꽁 얼 것으로 전망됐다. 이번 추위는 10일 아침 절정에 달했다가 차츰 풀릴 것으로 보인다.&lt;br&gt;&lt;br&gt;기상청에 따르면, 8일 강원 철원과 경기 파주의 아침 기온이 각각 영하 17도, 영하 16.5도를 기록하는 등 강추위가 이어졌다. 이날 서울의 낮 기온이 0도, 체감기온은 영하 3도를 밑도는 등 최고 영하 3도에서 영상 9도 사이에 머물며 한낮에도 추울 것으로 예상됐다.&lt;br&gt;&lt;br&gt;이번 추위는 9일부터 10일 아침까지가 절정일 것으로 전망됐다. 9일은 최저 영하 18도에서 영하 4도, 최고 영하 10도에서 영상 3도의 기온 분포를 보이겠고, 10일은 최저기온이 영하 19도까지 떨어지겠다. 여기에 지붕이 날아갈 정도인 순간풍속 시속 55㎞ 안팎의 강풍이 전국적으로 불면서 체감기온을 3~4도가량 끌어내리겠다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XJ7JTVIYOVHPXPBNFRI3HSHIFM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;7일 오후 대전 유성구 충남대정문 오거리에서 시민들이 눈을 맞으며 빠른 걸음으로 걷고 있다. /신현종 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;간밤 많은 눈이 내린 충남과 호남에는 10일까지 눈이 더 올 것으로 예보됐다. 8일 오전 서해상에서 만들어진 눈구름대가 유입되면서 충남과 호남에 다시 많은 눈이 오겠다. 두 지역과 제주산지엔 9일까지 시간당 3~5㎝의 폭설이 쏟아질 때가 있겠다.&lt;br&gt;&lt;br&gt;8일 오전 8시 기준 전북 순창군 복흥면 15.4㎝, 부안군 줄포면 12.1㎝, 전주 11.6㎝, 충남 계룡산과 서천 각각 11.0㎝와 10.4㎝, 전남 곡성군 옥과면 8.7㎝ 등 충남과 호남엔 최고 10㎝ 안팎의 눈이 쌓인 상태다. 10일까지 더 내릴 눈의 양은 전북과 제주산지·울릉도·독도 10~30㎝, 충남·광주·전남 5~20㎝, 충청·경남 3~8㎝, 경기 1㎝ 안팎이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>대전 계곡서 SUV 추락 후 화재... 1명 사망</title>
-      <link>https://www.chosun.com/national/regional/2025/01/08/3Z7XZZ3G6JFUPGA6HJUGWT22VM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/01/08/3Z7XZZ3G6JFUPGA6HJUGWT22VM/</guid>
-      <dc:creator>대전=우정식 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 07 Jan 2025 23:49:29 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EFQM4O5DO5BPNBDOJV23DJMWNE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;119구급대 /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;7일 오후 10시 6분쯤 대전 동구 하소동의 한 계곡에서 SUV 1대가 추락한 뒤 불이나면서 차량 탑승자 1명이 숨졌다.&lt;br&gt;&lt;br&gt;인근 도로를 지나던 시내버스 기사가 계곡 아래 쪽에서 불길이 올라오는 것을 발견해 119에 신고했다.&lt;br&gt;&lt;br&gt;신고를 받고 출동한 119 대원들이 53분 만에 차량에 난 불을 껐지만, 차 안에서 신원 미상의 탑승객 1명이 숨진 채 발견됐다.&lt;br&gt;&lt;br&gt;경찰과 소방 당국은 사망자의 신원 확인과 구체적인 사고 경위 등을 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>﻿“전액 장학금도 포기” 동덕여대 학생들, F학점 인증 릴레이</title>
