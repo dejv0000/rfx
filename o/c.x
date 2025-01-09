@@ -13,6 +13,133 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>‘송파 창고 현금 절도 사건’ 피해자, 주식 사기로 재판 받아</title>
+      <link>https://www.chosun.com/national/incident/2025/01/09/CYBJ6SX2CBAMHHGJONBB4UDUPE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/01/09/CYBJ6SX2CBAMHHGJONBB4UDUPE/</guid>
+      <dc:creator>이호준 기자(조선비즈), 안준현 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 09 Jan 2025 09:39:19 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KEFJKTD4WJODJIOC5VN7LGQEEQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰이 지난해 심씨가 갖고 있던 현금 40억1700만원을 압수한 모습 /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난해 9월 서울 송파구 잠실역 인근의 한 무인 창고에 창고 관리자 40대 심모씨가 보관돼 있던 현금 수십억 원을 훔쳐 달아난 사건이 있었다. 심씨는 검거돼 재판을 받고 있는데, 9일 열린 1심 공판에서 현금 주인(창고 임차인) B씨의 변호인 측이 “피해자가 주식 리딩방 사기로 재판을 받은 전적이 있다”고 말했다. 또 일각에서 제기되는 ‘범죄 수익금설(說)’에 대해서도 “억울하다”는 입장을 내비쳤다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇무인 창고에서 사라진 현금의 행방&lt;/b&gt;&lt;br&gt;&lt;br&gt;서울동부지법 형사9단독 김예영 판사는 9일 오전 11시쯤 야간방실침입절도 등 혐의로 기소된 40대 남성 심모씨에 대한 첫 공판기일을 열었다. &lt;br&gt;&lt;br&gt;이 사건은 창고 중간 관리자로 일하던 심씨가 지난해 9월 12일~13일 창고에 있던 5만원권 현금을 여행 가방 6개에 담아 경기 부천의 한 건물에 은닉한 사건이다. 심씨는 범행을 완료하고 현금 보관 창고에 “내가 누군지 알아도 모른 척하라. 그러면 나도 아무 말도 하지 않을 것”이라는 메모를 남겼다.&lt;br&gt;&lt;br&gt;이날 재판에서 심씨 측은 현금 절도 혐의를 인정하면서도 “68억원을 훔쳤다는 공소사실과 달리 약 42억원을 훔친 것만 인정한다”고 주장했다. 또, 비밀번호를 이미 알았기 때문에 방실침입 혐의도 성립되지 않는다고 주장했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AS3OPUWO7RPLFFBUJ3LN62A4NY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt; 임대형 창고에 보관된 현금 수십억 원을 훔쳐 달아났다 붙잡힌 창고 관리직원 심모씨가 지난해 10월 11일 오전 서울 송파구 송파경찰서에서 검찰로 송치되고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;◇檢 “왜 B씨는 한국에 없느냐?” B씨 측 “주식 리딩방 사기로 재판 받아서 심적 부담”&lt;/b&gt;&lt;br&gt;&lt;br&gt;그런데 이날 재판에서 검사 측이 B씨(창고 임차인) 측에 “왜 한국에 입국하지 않느냐”는 질문을 던졌다. 변호인은 이에 “수사 기관에서 절도를 당한 자금의 출처를 수사 중이고, 지난해 피해자가 한 중견 기업의 주식 리딩방 사기로 재판을 받은 적이 있어 부담스러워 한다”고 말했다. &lt;br&gt;&lt;br&gt;경찰은 지난해 경기 부천에서 심씨가 훔쳐 달아난 현금을 확보한 뒤 이를 B씨에게 돌려주지 않고 있다. B씨 측은 이에 환부 신청(법원으로부터 돈을 돌려달라고 하는 것)을 했다. 현재 서울 송파경찰서는 B씨가 창고에 보관한 자금의 출처를 내사(입건 전 조사)하고 있다. 범죄 수익금의 일부일 가능성을 놓고 조사를 하는 것이다. 이 밖에도 피해자의 여자친구인 30대 여성 C씨도 이번 사건의 공범으로 보고 입건해 조사 중이다.&lt;br&gt;&lt;br&gt;이어 검사 측은 “B씨의 증언이 필요한 데 입국 계획이 없느냐”고 물었고, 변호인은 “왜 증언이 필요한 지는 모르겠지만 검사나 판사가 출석 권유를 하면 우리도 권고를 하겠다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DGNCWVBEEKWK7EOTNB2MSHKASI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 송파경찰서는 보관 서비스 업체에 맡긴 수십억원 현금을 훔쳐 달아난 직원 40대 남성 A 씨를 지난 5일 구속했다고 10일 밝혔다. 피해 신고 금액은 68억원에 이른다. /송파경찰서&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;◇B씨 측 “베트남에서 사채업 준비…주식 리딩방 사기도 무죄"&lt;/b&gt;&lt;br&gt;&lt;br&gt;이날 재판 후 B씨 측 변호인은 기자들에게 “B씨가 원래 베트남에서 사채업을 준비했는데 지금은 어디서 체류하고 있는지는 모른다”고 했다. 이어 “B씨는 외국에서 현지인들을 상대로 장사를 하는 사람인데, 지난해 우연히 입국을 했다가 주식 리딩방 사기 주범으로 지목돼 6개월 이상 구속 수사와 재판을 받았다”고 했다. “결과적으로는 증언들의 신빙성이 떨어져 무죄를 선고 받았다”고 덧붙였다.&lt;br&gt;&lt;br&gt;이어 “언론에서는 피해 금액을 범죄 수익금이라고 말하지만, 사실이 아니라 억울하다”며 “물론 B씨가 주식 리딩방 주범으로 몰린 것을 보면 범죄와 전혀 어울리지 않았다고 할 수는 없다. 그러나 대부분이 현금 장사인 대부업을 하기 위해 마련한 현금일 뿐, 범죄 행위로 얻은 자금은 아니다”라고 말했다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇68억? 42억? 변호인들의 주장은&lt;/b&gt;&lt;br&gt;&lt;br&gt;한편, 사건 발생 초기부터 문제가 됐던 정확한 현금 액수도 이날 재판의 쟁점 중 하나였다. 검사측과 피해자측은 약 68억원을, 피고인은 약 42억을 주장하고 있다. 그러나 68억원이라는 주장도 피해자측의 단순 주장일 뿐, 이를 증명할 단서나 증거는 없는 실정이다.&lt;br&gt;&lt;br&gt;이날 재판에서 피해자 측 변호인은 “분명 피고인이 어딘가에 은닉했을 것”이라며 “나머지 사라진 금액의 행방이 피고인의 형량에 중요한 쟁점이 될 것”이라고 말했다. 피고인 측은 “훔친 금액은 약 42억원이 맞는다”고 맞섰다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/KEFJKTD4WJODJIOC5VN7LGQEEQ.jpg?width=1179&amp;height=855&amp;auth=207f343a496ef3418d3bac701e15f29bcaf3d0c5f97ad0786daa9e7d2f60818b&amp;smart=true" type="image/jpeg" height="855" width="1179">
+        <media:description type="plain">경찰이 지난해 심씨가 갖고 있던 현금 40억1700만원을 압수한 모습 /연합뉴스</media:description>
+        <media:credit role="author" scheme="urn:ebu">이미령</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>강풍‧한파주의보 내려진 인천… 대형 고드름‧한랭질환자 발생 등 피해</title>
+      <link>https://www.chosun.com/national/incident/2025/01/09/EUPGMAZ3VRGRHHQH4Z5CIB2MXI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/01/09/EUPGMAZ3VRGRHHQH4Z5CIB2MXI/</guid>
+      <dc:creator>인천=이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 09 Jan 2025 09:48:49 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UMQUCUOVJVELFOKU4HQXFQW2MI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;9일 인천 서구의 한 빌라에 매달린 고드름./인천소방본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;강풍‧한파주의보가 내려진 인천에서 대형 고드름이 맺히고 한랭 질환자가 발생하는 등 피해가 발생했다.&lt;br&gt;&lt;br&gt;9일 인천소방본부 등에 따르면 이날 오후 5시 기준 한파와 강풍 관련 피해 신고가 6건 접수됐다.&lt;br&gt;&lt;br&gt;오전 11시 49분쯤 인천시 서구 연희동의 한 빌라에선 대형 고드름이 달렸다는 신고가 들어와 소방 당국이 출동해 안전 조치를 했다. 비슷한 시각 부평구 청천동의 한 건물에서도 고드름 낙하 우려 신고가 접수돼 소방 당국이 제거했다.&lt;br&gt;&lt;br&gt;오전 11시 9분쯤엔 연수구 옥련동 한 빌딩에선 강한 바람으로, 노래연습장 간판이 떨어지기도 했다.&lt;br&gt;&lt;br&gt;전날 오후 8시 10분쯤엔 강화군에서 80대 남성이 저체온증으로 인근 병원으로 옮겨지기도 했다.&lt;br&gt;&lt;br&gt;인천은 전날 오후 9시 한파주의보가 발효됐다. 한파주의보는 아침 최저기온이 이틀 이상 -12도를 밑돌거나 급격히 기온이 떨어져 피해가 예상될 때 내려진다.&lt;br&gt;&lt;br&gt;강화군 양도면은 영하 12.2도, 서구 금곡동은 영하 11.1도, 중구 을왕동은 영하 11도, 중구 전동은 영하 10.6도 등을 기록했다.&lt;br&gt;&lt;br&gt;강풍주의보는 전날 오후 8시부터 발효됐다.&lt;br&gt;&lt;br&gt;인천시는 전날 오후 6시부터 특보 상황에 대응하기 위한 비상근무를 하고 있다. 또 돌봄 인력 1099명을 투입해 취약 노인과 쪽방 주민 등 1만5925명명의 안부를 확인하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/UMQUCUOVJVELFOKU4HQXFQW2MI.jpg?width=2157&amp;height=3029&amp;auth=7438cad1327e064b434164abab01d640af98032b4d41ff52b508a07891c64368&amp;smart=true" type="image/jpeg" height="3029" width="2157">
+        <media:description type="plain">9일 인천 서구의 한 빌라에 매달린 고드름./인천소방본부</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>영하 12도 혹한에도 계속되는 관저 앞 친윤 집회…2030 청년들도 나왔다</title>
+      <link>https://www.chosun.com/national/national_general/2025/01/09/SXXYIS3P6BE6ROIJU5YZD7TT5I/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/09/SXXYIS3P6BE6ROIJU5YZD7TT5I/</guid>
+      <dc:creator>장윤 기자, 고유찬 기자, 김관래 기자, 한영원 기자, 조은서 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 09 Jan 2025 09:38:05 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EM4YM6LVVNPQJDRDI6ICTBRDAU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt; 9일 오후 서울 용산구 한남동 대통령 관저 인근에서 윤석열 대통령 지지 집회가 열리고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;9일 서울 최저기온이 영하 12도를 기록하는 가운데 한남동 대통령 관저 앞에서는 친윤 집회가 이어지고 있다. 집회 참가자들은 추운 날씨로 인해 난방버스를 동원하고 은박지를 몸에 두르기도 했다.&lt;br&gt;&lt;br&gt;이날 오후 5시 30분 기준 신자유연대 등이 주최하는 친윤 집회에는 경찰 추산인원 4000명이 모였다. 이들은 인도를 포함해 상행선 4차선 중 3개 차로를 점거하고 있으며, BMW센터부터 한남초등학교 정문까지 약 400m 구간의 차량 통행이 통제됐다. 집회 참가자들은 ‘애국 청년 일어나라’ ‘STOP THE STEAL’ ‘부정선거 OUT’ ‘반국가세력 일거척결’ ‘CCP 공산당 OUT’ ‘부정선거가 내란이다’ 등의 문구가 쓰인 피켓을 들었다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/E5KKHNRVHNPKBHF4ZN5U47YDNE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;9일 오후 서울 용산구 한남동 대통령 관저 인근에서 열린 윤석열 대통령 지지 집회에서 청년 참가자가 피켓을 들고 있다.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 집회에 참여한 중학생 김모(15)군은 “헌법을 위반한 탄핵이 잘못됐다”며 “이재명 민주당 대표가 대통령에 당선되면 연방제 통일을 비롯한 악법들이 통과될까봐 걱정”이라고 했다. 김군은 “문재인 전 대통령 때의 차별금지법처럼 이름만 좋은 법들이 통과되면 국민 피해가 엄청날 것”이라며 “나는 젊어서 추위를 덜 타는데 어르신들이 걱정된다”고 했다. 충남 당진에서 왔다는 김군은 “어젯밤 사랑제일교회에서 자고 오늘 오전 8시에 왔다”고 했다.&lt;br&gt;&lt;br&gt;대학생 고준(27·대전광역시)씨는 “날이 춥지만, 나라가 위험에 처했는데 춥다는 이유로 안 구하러 가겠느냐”고 했다. “나는 정치색이 없는 사람”이라는 고씨는 “공수처법 등 민주당 정권 때 밀어붙인 법령이 와해되는 게 가당치 않다고 생각해 집회에 참여했다”고 했다. 외국인 학생이 90%인 대학에 재학 중이라는 고씨는 외국인 친구들이 ‘왜 권한대행까지 속수무책으로 탄핵되는거냐, 한국은 완전히 망했냐’고 한다”고 말했다.&lt;br&gt;&lt;br&gt;패딩조끼, 패딩 등 외투를 두 겹으로 껴입은 취업준비생 곽주훈(25·광주광역시)씨는 “부모님이 ‘대신 나가 싸워줘 고맙다’고 했다”며 “관저 앞 집회에 참여하는 건 오늘이 두 번째인데 앞으로 매주 참여할 것”이라고 밝혔다. 곽씨는 “윤 대통령이 계엄을 선포한 이유는 선관위의 부정선거를 조사하기 위해서였다”며 “이재명 민주당 대표는 대선을 앞두고 있어서 탄핵을 급하게 추진한 것”이라고 했다.&lt;br&gt;&lt;br&gt;한편 이날 친윤 집회에 참여한 청년들은 “우리는 무장 투쟁이 아닌 평화 시위를 하러 나왔다”며 “‘백골단’은 탄핵을 반대하는 2030을 대표하지 않는다”고 말했다. 일부 윤 대통령 지지자들은 300명 가량의 ‘민간 수비대’를 조직했으며, 이 가운데 20~30대 남성 30여 명으로 자칭 ‘백골단’을 조직했다. 이들은 하얀색 헬멧과 ‘멸공봉’으로 불리는 경광봉, 보호대 등을 갖췄다.&lt;br&gt;&lt;br&gt;백골단은 1980~1990년대 시위대를 진압하고 체포했던 경찰 부대를 일컫는 별칭이다. 일반 전투 경찰과 구분되는 하얀 헬멧을 착용해서 이같은 이름이 붙었다. 시위대를 무자비하게 구타하고 연행하는 것으로 유명했고, 명지대생 강경대 사망 사건, 한진중공업 박창수 노조위원장 시신 탈취 사건 등에 개입해 민주화운동 탄압의 상징이 됐다.&lt;br&gt;&lt;br&gt;경기 광명시에서 온 30대 A씨는 “폭력시위를 조장하는 집단이 있다”며 “집회에 모인 청년들끼리는 서로 ‘그런 세력에 현혹되지 말자’고 하고 있다”고 했다. 대학생 차모(20)씨는 “이전에 ‘백골단’이 벌인 일을 생각하면 어떻게 그런 이름을 붙일 수 있는지 모르겠다”고 했다. 차씨는 “우리는 애국심 때문에 이 추운 날에도 모였다”며 “폭력과 결부될 마음은 추호도 없다”고 했다. 대학생 이모(25)씨도 “우리는 무장 투쟁이 아니라 평화 시위를 하러 나왔다”며 “백골단, 반공청년단 같은 조직 좀 안 만들었으면 좋겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[단독] 정부, 육아휴직 기업 지원 사후지급 폐지 추진</title>
+      <link>https://www.chosun.com/national/labor/2025/01/09/R5QGJBJP45CIDM5CVUJWVZBUIU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/labor/2025/01/09/R5QGJBJP45CIDM5CVUJWVZBUIU/</guid>
+      <dc:creator>곽래건 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 09 Jan 2025 09:46:54 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QOSL5JHNUNN45I5GZYF77URPUY.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;작년 11월 20일 서울에서 한 엄마가 아이를 데리고 어린이집으로 가고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정부가 직원에게 육아휴직 등을 쓰게 해 준 중소기업에게 지원금을 줄 때, 지원금의 절반을 나중에 주는 ‘사후지급제’ 폐지를 추진하고 있다.&lt;br&gt;&lt;br&gt;9일 본지 취재를 종합하면 고용노동부 등은 육아휴직, 육아기 근로시간 단축, 대체인력 고용 등 출산·육아 관련 지원금에 대한 사후지급제 폐지를 추진 중이다.&lt;br&gt;&lt;br&gt;중소기업이 직원에게 육아휴직을 쓰게 하거나 육아를 이유로 근로시간을 줄여주면, 정부는 해당 직원 1명당 월 30만원(아이가 만 12개월 미만일 경우 첫 3개월은 월 200만원)의 지원금을 회사에게 준다. 육아휴직을 쓴 근로자가 받는 육아휴직급여와 별개로, 정부가 회사에 주는 지원금이다. 중소기업에서 육아휴직이나 육아기 근로시간 단축을 쓰기 쉽도록 회사 측에도 인센티브를 준다는 취지의 돈이다.&lt;br&gt;&lt;br&gt;문제는 지원금 중 절반만 일단 주고, 나머지 절반은 해당 근로자 복직 뒤 6개월이 지나야 준다는 것이다. 만약 육아휴직을 쓴 직원이 복직하지 않거나, 6개월을 채우지 않고 그만두면 회사는 나중에 받기로 한 지원금을 전혀 받을 수 없게 된다.&lt;br&gt;&lt;br&gt;근로자가 받는 육아휴직 급여에도 비슷한 ‘사후지급제’가 있었다. 보통 월 150만원인 육아휴직 급여의 75%(월 112만5000원)을 먼저 받고, 나머지 25%(월 37만5000원)는 복직 6개월 이후에야 받을 수 있었다. 육아휴직 급여만 받고 복직은 하지 않는 경우를 막겠다는 취지였다. 그러나 실효성이 없다는 지적을 받고 올해부터 폐지됐다.&lt;br&gt;&lt;br&gt;‘재계 관계자는 “근로자에 대한 사후지급금이 폐지된 상황에서, 기업에 대한 사후지급금도 폐지되는 것이 맞다고 본다”고 했다. 작년 11월 중소기업중앙회가 ‘일·가정 양립 위원회’를 출범시킬 때 ‘직원이 개인 사정으로 퇴사해도 지원금 전액을 받을 수 있게 해 달라’는 건의가 나오기도 했다. 정부 관계자는 “회사에 책임이 없는 경우까지 지원금 절반을 아예 안 주는 것은 문제가 있다는 데 공감한다”고 했다.&lt;br&gt;&lt;br&gt;정부는 출산휴가·육아휴직자의 빈자리를 채우기 위해 대체인력을 뽑은 중소기업에게 1명당 월 120만원의 지원금도 주고 있는데, 이에 대한 사후지급제 역시 없애는 것을 추진한다고 한다. &lt;br&gt;&lt;br&gt;관련 지원금은 급증하고 있다. 고용부에 따르면 육아휴직, 근로시간 단축, 대체인력 등에 대한 지원금은 2022년 약 1495억원, 2023년 약 1706억원, 2024년 약 2923억원으로 빠르게 늘고 있다. 지난해 지원 인원은 8만5460여명이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>尹 대통령 측 “‘체포영장 집행’ 150명 신원 확인 정보공개 청구”</title>
+      <link>https://www.chosun.com/national/court_law/2025/01/09/AETXD3VUYZBM3PTYFQARZF32JI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/01/09/AETXD3VUYZBM3PTYFQARZF32JI/</guid>
+      <dc:creator>유종헌 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 09 Jan 2025 09:39:42 +0000</pubDate>
+      <content:encoded>윤석열 대통령 측이 1차 체포영장 집행에 동원된 고위공직자범죄수사처(공수처) 검사와 수사관, 경찰 등 150명의 신원 확인을 위해 정보공개를 청구했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JTWJCP5LBF2B63C7ES6ZJKCL6A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;고위공직자범죄수사처(공수처)가 지난 3일 서울 용산구 한남동 대통령 관저 검문소에 진입해 윤석열 대통령에 대한 체포영장을 집행하려 하자 육군 수도방위사령부 55경비단 병력이 수사관들을 둘러싸 저지하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤 대통령 측 변호인단은 이날 “성명불상의 공수처 검사와 수사관 30명, 경찰 특수단 120명 등 모두 150여명에 대해 신원과 소속을 명확히 특정하기 위해 정보공개를 청구했다”고 했다.&lt;br&gt;&lt;br&gt;윤 대통령 측은 “공수처와 경찰청 특수단은 지난 3일 불법 무효인 체포 영장을 집행한다는 명목으로 침입해 경호처 경호관들의 정당한 공무집행을 방해하고 상해를 가했다”고 밝혔다. 그러면서 이들의 체포영장 집행 행위가 특수공무집행방해 및 치상, 특수건조물침입, 공용물건손상, 군사기지및군사시설보호법위반, 군용물등범죄에관한특별조치법위반, 직무유기, 직권남용 등에 해당한다고 주장했다.&lt;br&gt;&lt;br&gt;윤 대통령 변호인단은 지난 6일 오동운 공수처장, 이호영 경찰청 차장, 김선호 국방부 차관 등 11명을 특수공무집행방해치상 등 혐의로 서울중앙지검에 고발했었다.&lt;br&gt;&lt;br&gt;윤 대통령 측은 “경찰로부터 정보공개 청구를 통해 확인한 공수처 검사 및 수사관, 경찰 특수단의 신원과 가담정보 등을 고려하여 추가 고발조치 등 예정이다”라고 했다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>변협, ‘한동훈 명예훼손’ 황희석 징계…과태료 500만원</title>
+      <link>https://www.chosun.com/national/court_law/2025/01/09/7YIG5HNC6VFBRFHYUUS4KMVHUM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/01/09/7YIG5HNC6VFBRFHYUUS4KMVHUM/</guid>
+      <dc:creator>박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 09 Jan 2025 09:12:19 +0000</pubDate>
+      <content:encoded>한동훈 전 국민의힘 대표의 명예를 훼손한 혐의로 대법원에서 벌금형을 확정받은 황희석 변호사(전 열린민주당 최고위원)에게 대한변호사협회(변협)가 징계 처분을 내렸다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QLZA3C6Y2AXDPGH5RZPKMY4AFY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;황희석 변호사가 2020년 3월 서울 여의도 국회 본청 계단에서 열린 열린민주당 비례대표 후보 경선 참가자 공개 기자회견에서 인사말을 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;9일 법조계에 따르면, 변협은 지난 3일 황 변호사에게 과태료 500만원의 징계 처분 결과를 통보했다.&lt;br&gt;&lt;br&gt;앞서 황 변호사는 한 전 대표가 대검찰청 반부패강력부장이던 시절 총선에 영향을 미치기 위해 노무현재단 계좌를 추적했다는 취지로 발언해 명예훼손 혐의로 기소됐고, 대법원에서 벌금 500만원이 확정됐다.&lt;br&gt;&lt;br&gt;그는 2021년 11월 TBS 유튜브에 출연해 “(검찰이) 2019년 9~10월 노무현재단 계좌 추적으로 거래 내역을 다 열어봤다”며 “그 과정에서 유시민 전 이사장을 잡으려고 기자와 정보를 공유하는 ‘검언 유착’을 했다”고 주장했다. 한 대표는 계좌를 추적한 적이 없다며 2021년 12월 황 변호사를 경찰에 고소했다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘국회 봉쇄’ 혐의 警수뇌부 재판, ‘김용현 사건’ 재판부가 맡는다</title>
+      <link>https://www.chosun.com/national/court_law/2025/01/09/RBBUM5DKIRAKXBM47MGK43AC3U/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/01/09/RBBUM5DKIRAKXBM47MGK43AC3U/</guid>
+      <dc:creator>박강현 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 09 Jan 2025 08:52:57 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BC7WT2NYPRMHLAXEPMEVCWZ5MQ.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;김봉식 서울경찰청장(맨 왼쪽)과 조지호 경찰청장(왼쪽에서 두 번째)이 지난달 5일 오전 서울 여의도 국회에서 열린 비상계엄 관련 행정안전위원회 전체회의에 굳은 표정으로 출석해 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘12·3 비상계엄 사태’ 당시 국회 진입을 막는 등 내란 중요임무 종사 등 혐의로 기소된 조지호 경찰청장과 김봉식 서울경찰청장이 서울중앙지법 형사25부(재판장 지귀연)에서 관련 재판을 받는다. 이 재판부는 같은 혐의로 먼저 기소된 김용현 전 국방장관 사건도 담당하고 있다.&lt;br&gt;&lt;br&gt;9일 법조계에 따르면 서울중앙지법 형사25부는 전날(8일) 조·김 청장 사건을 접수했다. 두 사람은 계엄 당시 경찰을 동원해 국회를 봉쇄하고, ‘정치인 체포조’ 운영에 관여한 혐의를 받는다. 또 중앙선거관리위원회 과천청사 등에 경찰을 보내 청사를 점거하고, 서버 탈취를 시도한 혐의도 받는다.&lt;br&gt;&lt;br&gt;앞서 이 재판부는 지난달 27일엔 김 전 국방장관 사건도 접수했다. 비상계엄 사태 관련 군경(軍警) 주요 인사들이 같은 재판부에서 재판을 받게 된 것이다.&lt;br&gt;&lt;br&gt;서울중앙지법은 ‘법관 등의 사무분담 및 사건배당에 관한 예규’에 따라 이 같이 사건을 배당했다고 밝혔다. 서울중앙지법 관계자는 이날 “예규 18조 2항 3호를 보면 ‘먼저 배당된 사건의 관련사건이 접수된 경우에는 먼저 배당된 사건을 담당하는 재판부에 배정할 수 있다’고 돼 있다”며 “각 사건 쟁점이 비슷하니 이렇게 배당된 걸로 알고 있다”고 설명했다.&lt;br&gt;&lt;br&gt;이러한 예규에 따르면 이번 비상계엄 사태에 연루된 민간인 신분인 노상원 전 정보사령관과 김용군 전 국방부 조사본부 수사본부장 등의 사건도 조만간 형사25부로 배당될 수 있을 것으로 보인다.&lt;br&gt;&lt;br&gt;이론적으로 윤석열 대통령 사건도 고위공직자범죄수사처(공수처) 수사 등을 거쳐 검찰이 넘겨받아 기소하면 형사25부로 보내질 수 있다. 다만 서울중앙지법 관계자는 “상황을 봐서 업무 부담이 너무 과중해지면 자동 배당할 수도 있다”고 예측했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>공수처장 “尹 체포 막는 국회의원, 현행범 체포 가능”</title>
+      <link>https://www.chosun.com/national/court_law/2025/01/09/AY3Q3SWPGJFR7JUCIHOHYBUNYE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/01/09/AY3Q3SWPGJFR7JUCIHOHYBUNYE/</guid>
+      <dc:creator>이슬비 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 09 Jan 2025 08:48:51 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EMNYCIN6EFJ6ZJTQJS3Y3DPA3E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;오동운 고위공직자범죄수사처장이 9일 오후 서울 여의도 국회에서 열린 ‘윤석열 대통령 위헌적 비상계엄 선포 내란혐의 및 제주항공 여객기 참사 진상규명 관련 긴급현안질문'에서 의원들 질의를 듣고 있다. /뉴시스 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;오동운 고위공직자범죄수사처(공수처) 처장은 9일 국회의원들이 윤석열 대통령 체포영장 집행을 막아설 경우 현행범으로 체포할 수 있다고 밝혔다.&lt;br&gt;&lt;br&gt;오 처장은 이날 국회에서 열린 ‘윤석열 대통령 위헌적 비상계엄 선포 내란 혐의 관련 긴급현안질문’에서 “만약 영장 집행할 때 의원들이 다수로 가서 스크럼을 짜고 막으면 공무집행방해에 해당하느냐”는 박주민 더불어민주당 의원의 질문에 “영장 집행업무를 방해할 시 공무집행방해와 마찬가지로 적용된다”고 답했다.&lt;br&gt;&lt;br&gt;오 처장은 “의원들도 현행범으로 체포가 가능하냐”는 박 의원 질문에 “마찬가지로 현행범 체포가 된다는 점에서는 이론이 없다”고 했다. 국회의원은 헌법 44조에 따라 불체포 특권이 있어 국회에서 체포동의안이 통과돼야 체포·구금할 수 있다. 하지만 현행범인 경우에는 제외된다는 점을 강조한 것이다.&lt;br&gt;&lt;br&gt;이어 박 의원이 “국민의힘 의원님들은 21대 국회 때 집단적으로 불체포특권을 포기한다는 각서를 썼다. 따라서 만약에 스크럼을 짜고 집단적으로 영장 집행을 방해한다면 국회의원이라고 해서 봐줄 것 없이 체포하시면 된다. 아시겠느냐”라고 하자, 오 처장은 “잘 알겠다”고 답했다.&lt;br&gt;&lt;br&gt;오 처장은 이날 윤 대통령의 도주 우려를 재차 제기했다. 오 처장은 “체포영장 집행에 대해 경호권을 발동해 막는 것 자체가 도주 염려를 증가시키는 것”이라고 했다. 오 처장은 “대통령 도피 의혹설의 진원지가 공수처장이다. 이 부분에 대해서 사과할 의향이 없느냐”는 조은희 국민의힘 의원의 질문에 “전혀 없다”고 답했다.&lt;br&gt;&lt;br&gt;앞서 오 처장은 지난 7일 국회 법사위원회 전체회의에서 윤 대통령의 도주 우려를 제기했다. 당시 오 처장은 “대통령이 관저에 있느냐”는 박범계 민주당 의원 질문에 “지금 그런 부분은 정확하게 보고받은 것은 없고 말씀드릴 수도 없다”고 확답하지 않았고, 박 의원이 “여러 가능성 중에 숨거나 도주했을 가능성도 있다고 보는 것이냐”고 묻자 “맞다”고 했다.&lt;br&gt;&lt;br&gt;오 처장은 이날 최상목 대통령 권한대행이 체포영장 집행을 막는 경호처장 등에 대해 아무런 조처를 하지 않는다고 지적하면서 “인사권자로서 적절한 조치를 취할 적극적 의무가 있다고 생각한다”고도 했다. 오 처장은 최 대행을 향해 “(최 권한대행이) 서울경찰청 소속 101경비단과 202경비단에게 대통령 관저 방어 업무를 수행할 것을 지시했다는 의혹이 언론에 보도되고 있다”며 “대단히 부적절한 언사라고 생각한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>서울시 규제 철폐 3·4호 발표…재개발·재건축 공공 기여 부담 완화</title>
+      <link>https://www.chosun.com/national/national_general/2025/01/09/YWS7JBOUAZE5VNNP4AERADBTYY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/09/YWS7JBOUAZE5VNNP4AERADBTYY/</guid>
+      <dc:creator>김영우 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 09 Jan 2025 08:44:03 +0000</pubDate>
+      <content:encoded>서울시가 재개발·재건축 사업의 공공 기여 부담을 줄여주는 내용의 규제 완화 방안을 발표했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2LS5HVWQQBL5ZLAJE2Z3BWI5IM.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;오세훈 서울시장이 9일 오전 서울 중구 서울시청에서 열린 '경제규제 철폐 정례 간부회의'에서 모두발언을 하고 있다. /서울시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;9일 서울시에 따르면, 재개발·재건축 사업지 주변에 문화재나 학교 등이 있어 건물을 높게 올리지 못할 경우 그만큼 공공 기여 부담을 줄여주기로 했다. 예를 들어 용적률 250%가 적용되는 사업지에서 높이 규제 때문에 건물을 용적률 220%밖에 올리지 못한다면 250% 대신 220%를 기준으로 공공 기여 부담을 계산하겠다는 것이다. 현재는 높이 규제와 상관없이 일률적으로 공공 기여를 매긴다. 서울시는 동작구 흑석10구역, 성북구 정릉2구역 등의 사업성이 올라갈 것이라고 예상했다. 용적률은 대지 면적 대비 건물의 연면적을 말한다. 용적률이 높으면 더 높은 건물을 지을 수 있게 된다.&lt;br&gt;&lt;br&gt;아울러 앞으로는 재건축 통합 심의 대상에 소방·재해 심의도 포함하기로 했다. 서울시는 재개발·재건축에 걸리는 시간을 줄여주기 위해 작년 1월부터 교통, 환경 등 심의를 한 번에 하는 ‘통합 심의 제도’를 운영 중인데 여기에 소방, 재해 심의도 포함한다는 것이다. 서울시 관계자는 “재개발·재건축에 걸리는 기간이 2개월 이상 단축될 것으로 보인다”고 했다.&lt;br&gt;&lt;br&gt;서울시는 오세훈 시장이 지난달 “시민과 기업의 자유로운 경제활동을 가로막는 불필요한 규제를 과감하게 철폐해 경제를 활성화하겠다”고 밝힌 뒤 잇따라 규제 완화 방안을 발표하고 있다. 지난 5일에는 주상복합을 지을 때 지켜야 하는 상가 비율 규제를 완화하기로 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“외출은 두 달에 한번”...자녀 학대 50대 친모에 실형 선고</title>
+      <link>https://www.chosun.com/national/regional/gangwon/2025/01/09/BDWG3PTST5CPHNNIM2P4JKEQEY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/gangwon/2025/01/09/BDWG3PTST5CPHNNIM2P4JKEQEY/</guid>
+      <dc:creator>신정훈 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 09 Jan 2025 08:29:39 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OEP23TEMYVH2ZDUPWL7E4R6IAA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원 로고. /조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;10대 아들에게 외출은 두 달에 한 번만 시키는 등 장기간 학대를 한 50대 친모가 실형을 선고받았다.&lt;br&gt;&lt;br&gt;춘천지법 형사3단독 박성민 부장판사는 9일 아동복지법상 아동학대와 무고 등의 혐의로 기소된 A(53)씨에게 징역 1년 6개월과 벌금 100만원을 선고했다. 또 아동학대 치료프로그램 40시간 이수와 5년간 아동·청소년 관련 기관 등에 취업제한을 명령했다.&lt;br&gt;&lt;br&gt;A씨는 지난해 4월 아들인 10대 B군이 1주일에 2시간의 TV 시청 시간제한을 어겼다는 이유로 뺨을 여러 차례 때리고, 이튿날 새벽 자고 있던 B군을 깨워 또다시 뺨을 십여회 때리는 등의 혐의로 구속돼 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;A씨는 B군을 두 달에 한 번 외출시키고, 초등학교 2학년 때부터는 홈스쿨링을 하는 등 폐쇄적인 환경에서 키운 것으로 조사됐다. B군이 검정고시로 중학교에 입학했지만, A씨는 학교도 보내지 않았다.&lt;br&gt;&lt;br&gt;또 B군이 5세일 때 방을 치우지 않는다는 이유로 때리기 시작해 10년 가까이 신체적 학대를 일삼고, “엄마만 믿어야 한다”며 가스라이팅(심리적 지배)을 하는 등 학대한 것으로 나타났다.&lt;br&gt;&lt;br&gt;박 부장판사는 “피고인은 잘못된 훈육 방법으로 피해 아동을 때리고 학대했다”며 “이같은 학대는 신체적 고통과 함께 정신적으로도 심한 모멸감을 느끼게 하는 행위”라고 지적했다.&lt;br&gt;&lt;br&gt;그러면서 “정신과 치료까지 받은 아이는 피고인을 용서하지 않고 분리해서 생활하기를 원했는데도 피고인은 반복적으로 접근했다”며 “다만 일부 행위가 훈육의 성질로 이뤄졌다고 보이는 점 등을 참작했다”고 양형 이유를 설명했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>도축장 가던 젖소가 탈출해 도로 활보…마취총 쏴 포획</title>
+      <link>https://www.chosun.com/national/national_general/2025/01/09/2NJWUWYH3NBNXHZW5FQJZXNCEQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/09/2NJWUWYH3NBNXHZW5FQJZXNCEQ/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 09 Jan 2025 08:22:36 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HOVGHIVD6NHOVB76WRVVRP3ZAU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;9일 오전 평택 도로 위를 돌아다닌 젖소. /온라인 커뮤니티&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;도축장으로 향하는 트럭에 타고 있던 젖소가 도로 위로 탈출했다가 포획돼 주인에게 인계됐다.&lt;br&gt;&lt;br&gt;9일 경기 평택경찰서 등에 따르면 이날 오전 9시 20분쯤 평택시 모곡동 일대에서 젖소 한 마리가 도로 위를 돌아다니고 있다는 신고가 접수됐다.&lt;br&gt;&lt;br&gt;신고를 받고 출동한 경찰과 소방당국은 왕복 8차로 도로 위를 돌아다니는 젖소를 발견하고 도로 바깥쪽으로 유인한 뒤 마취총을 쏴 포획했다.&lt;br&gt;&lt;br&gt;경찰은 젖소 소유주를 확인해 오후 1시 20분쯤 인계 조치했다.&lt;br&gt;&lt;br&gt;경찰에 따르면 해당 젖소는 트럭에 실려 도축장으로 향하던 중 도로 위로 탈출한 것으로 파악됐다. 젖소 포획 과정에서 차량 및 시민 피해는 발생하지 않았다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/7X5K72MRHZD5NLVQ5IXJPSAIXQ.jpg?width=863&amp;height=485&amp;auth=8baa5416d7e67f9235c1b9a1e7451c75d87b3a5ef1ff725e0c8df15bbdc38e58&amp;smart=true" type="image/jpeg" height="485" width="863">
+        <media:description type="plain">9일 오전 평택 도로 위를 돌아다닌 젖소. /온라인 커뮤니티</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>눈길 서해안고속도로서 차량 20여대 추돌…1명 중상 </title>
+      <link>https://www.chosun.com/national/incident/2025/01/09/DUCZTM4CCZENFE4L3AUZNQ7FTA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/01/09/DUCZTM4CCZENFE4L3AUZNQ7FTA/</guid>
+      <dc:creator>부안=김정엽 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 09 Jan 2025 08:37:33 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3XEZWUGJ6RIH3LMV5ZBBRRLTRM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전북 부안에 대설경보가 내려진 9일 오후 3시 29분쯤 부안군 줄포면 서해안고속도로 서울 방향 줄포나들목 인근에서 차량 여러 대가 부딪히는 사고가 났다. 이 사고로 5t 트럭 운전자가 다쳐 병원으로 이송됐다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;9일 오후 3시 29분쯤 전북 부안군 줄포면 서해안고속도로 서울 방향 94.9㎞ 지점에서 차량 20여대가 부딪히는 사고가 발생했다.&lt;br&gt;&lt;br&gt;이 사고로 5t 트럭을 운전하던 30대 남성이 의식장애와 다리 부상 등으로 병원으로 옮겨졌다.&lt;br&gt;&lt;br&gt;부안에는 이날 오전 8시 40분을 기해 대설경보가 내려진 상황이다. 경찰은 눈길에 연쇄 추돌사고가 난 것으로 보고 정확한 사고 원인을 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘강풍 특보’ 내린 제주, 항공편 무더기 결항</title>
+      <link>https://www.chosun.com/national/regional/2025/01/09/TGZFWB26ONDQPPQ7KG6NQCYPUM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/01/09/TGZFWB26ONDQPPQ7KG6NQCYPUM/</guid>
+      <dc:creator>제주=오재용 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 09 Jan 2025 08:25:15 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BWLIBYLJJNJKHA2WR77EVPB6MY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;제주지역에 대설·강풍특보가 내려진 9일 오후 제주국제공항에서 여객기가 이륙하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;9일 제주에 강풍이 불면서 항공편이 무더기 결항했다.&lt;br&gt;&lt;br&gt;기상청에 따르면 이날 오후 4시 현재 제주공항엔 최대순간풍속 초속 22.2m의 강한 바람이 불고 있고, 급변풍 특보와 강풍 특보가 발효 중이다. 여기에다 김포공항에는 강풍 특보, 광주공항에는 저시정 특보가 발표되는 등 다른 공항에도 악천후가 이어져 하늘길 운행에 차질을 빚고 있다.&lt;br&gt;&lt;br&gt;국토교통부 항공정보포털시스템에 따르면 이날 오후 4시 15분 현재까지 제주를 기점으로 운항 예정이던 항공편 396편 중 138편(국내선 132편, 국제선 6편)이 결항했다.&lt;br&gt;&lt;br&gt;한국공항공사 제주공항은 강풍과 눈이 당분간 계속될 것으로 전망돼 이날 잔여 항공편 70여편도 결항될 가능성이 클 것으로 예상했다.&lt;br&gt;&lt;br&gt;이날 제주 곳곳에선 바람이 순간풍속 초속 20~30m를 기록하며 매우 강하게 불고 있다. 또 제주도 산지를 중심으로 이날 밤부터 10일 아침 사이 시간당 3~5㎝의 많은 눈이 내리고, 해안에도 눈이 쌓일 것으로 보인다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>‘군 면제’ 나인우 “4급 판정 이유 말하기 어려워… 있는 그대로 봐달라” </title>
       <link>https://www.chosun.com/national/national_general/2025/01/09/CNKDCH67GJAJ5PNQPYTKRO3ATY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/09/CNKDCH67GJAJ5PNQPYTKRO3ATY/</guid>
@@ -804,15 +931,6 @@
       </media:content>
     </item>
     <item>
-      <title>“홀트, 美 불법체류자 된 입양인에 배상 책임 없다” 2심서 뒤집혀…홀트 승소</title>
-      <link>https://www.chosun.com/national/court_law/2025/01/08/RPFXZXOCQNDIRK23IZJWRLOGNU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/01/08/RPFXZXOCQNDIRK23IZJWRLOGNU/</guid>
-      <dc:creator>박혜연 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 08 Jan 2025 11:35:16 +0000</pubDate>
-      <content:encoded>국내 입양 기관 홀트아동복지회가 미국으로 입양을 보냈다가 불법 체류자가 된 입양인에 대해 손해배상 책임을 져야 한다는 판단이 2심에서 뒤집혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LDKO53ONWCAMWP3KT3UJGAYJUI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울고법 전경./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울고법 민사3-2부(재판장 최현종)는 8일 신성혁(40·미국명 애덤 크랩서)씨가 홀트아동복지회와 국가를 상대로 낸 손해배상 소송 2심에서 원심을 뒤집고 원고 패소로 판결했다.&lt;br&gt;&lt;br&gt;재판부는 “홀트의 보호의무 위반과 신성혁씨의 손해 간 인과관계가 인정되지 않는다”며 홀트의 손을 들어줬다.&lt;br&gt;&lt;br&gt;신씨는 네 살 때인 1979년 홀트를 통해 누나와 함께 미국 미시간주의 한 가정으로 입양됐다. 신씨 남매는 6년간 양부모로부터 폭행과 학대를 당하다 파양됐고, 다른 집으로 입양이 됐는데도 학대를 당했다. &lt;br&gt;&lt;br&gt;결국 신씨는 12살에 다시 파양돼 노숙 생활을 했다. 양부모가 신씨에 대한 시민권 신청도 해주지 않아 불법 체류자로 살았고, 2015년 미국 영주권 신청 과정에서 과거 범죄 경력이 문제가 되면서 한국으로 추방됐다.&lt;br&gt;&lt;br&gt;이후 신씨는 지난 2019년 홀트와 국가를 상대로 손해배상 소송을 제기했다. 홀트·국가가 신씨를 미국으로 입양을 보낸 뒤 시민권 취득 여부 확인 등 기본적인 사후 관리를 하지 않아 37년간 불법 체류자로 살아야 했다며, 배상 책임을 물은 것이다.&lt;br&gt;&lt;br&gt;앞서 1심은 입양기관 홀트의 손해배상 책임을 인정, 홀트가 신씨에게 위자료 1억원을 지급해야 한다고 판단했다. 이는 1970~1980년대 성행했던 해외 입양의 불법성에 대한 배상 책임을 인정한 첫 판결로 화제를 모았다. 다만 1심은 국가에 대한 손해배상 청구는 기각했다.&lt;br&gt;&lt;br&gt;그러나 2심은 홀트가 신씨에게 배상할 책임이 없다고 봤다. 신씨가 미국 시민권이 없었지만 영주권은 있었던 점, 신씨의 범죄 전력을 이유로 한국으로 추방된 점, 신씨가 성인이 되고도 10여년간 시민권을 취득하지 않은 점 등을 근거로 들었다.&lt;br&gt;&lt;br&gt;또 2심은 “해외 입양의 특성상 국내에서는 양친을 조사하기 어렵다는 특수성이 있고, 이에 홀트는 미국 미시간주에 보호의무를 위임했다”며 “미시간주는 가정조사를 다수 실시하는 등 일정 의무를 다했다”고 했다.&lt;br&gt;&lt;br&gt;2심은 1심과 마찬가지로 국가의 배상 책임을 인정하지 않았다. 2심은 “당시 보건복지부의 대응과 입양 제도에 다소 미흡한 부분이 있었다고 해도, 공무원의 고의 또는 과실이라 보긴 어렵다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>신동엽 “신인 때 선배한테 뺨 수십대 맞아…화장실서 울었다”</title>
       <link>https://www.chosun.com/national/people/2025/01/08/RLNEYFBUWRH3VIVTA45RMHZPEI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/people/2025/01/08/RLNEYFBUWRH3VIVTA45RMHZPEI/</guid>
@@ -828,39 +946,6 @@
       </media:content>
     </item>
     <item>
-      <title>“왜 더치페이 안 하냐” 술자리 동석 여성 마구 때린 남성 구속</title>
-      <link>https://www.chosun.com/national/national_general/2025/01/08/P46BK7DN5NAQBK6AMDT3EV7SLA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/08/P46BK7DN5NAQBK6AMDT3EV7SLA/</guid>
-      <dc:creator>김명일 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 08 Jan 2025 10:55:30 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/X4WX55AXSBGOJAEPHUXGIU3CIA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 관련 이미지. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;함께 마신 술값을 나눠 내지 않는다는 이유로 술자리에 동석했던 여성을 때려 다치게 한 20대 남성이 구속됐다.&lt;br&gt;&lt;br&gt;8일 광주 서부경찰서는 술자리에서 우연히 만난 20대 여성을 폭행해 다치게 한 혐의(상해)로 20대 남성 A씨를 구속했다고 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난달 1일 오전 7시쯤 광주 서구의 한 상가에서 20대 여성 B씨를 주먹으로 여러 차례 때려 전치 8주의 상해를 입힌 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;A씨는 당시 상가 안 호프집에서 B씨와 합석해 술을 마신 후 더치페이를 요구했다가 거절당하자 폭행을 한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;시민 신고를 받은 경찰이 출동하자 A씨는 현장을 벗어나 달아났다. 경찰은 방범카메라 등을 토대로 신원을 특정해 A씨를 검거했다.&lt;br&gt;&lt;br&gt;경찰은 도주 우려 등을 고려해 A씨에 대한 구속영장을 신청했고 법원으로부터 영장을 발부받았다. 경찰은 A씨를 상대로 정확한 사건 경위를 조사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“추워서 불 피우다가”…산불 내고 도망친 40대 검거</title>
-      <link>https://www.chosun.com/national/regional/chungcheong/2025/01/08/OOYIFKAXWNBIHEFM6WJDBQGSBY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2025/01/08/OOYIFKAXWNBIHEFM6WJDBQGSBY/</guid>
-      <dc:creator>천안=김석모 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 08 Jan 2025 09:21:06 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5UBM6VSEG3LQRO34TZNCDDRTSQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 4일 충남 천안시 쌍용동 봉서산에서 발생한 산불. /천안서북경찰서&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;추위를 피하려 산 중턱에서 불을 피우다 산불을 내고 도주한 40대 남성이 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;충남 천안서북경찰서는 산림보호법 위반 혐의로 A씨를 현행범으로 체포했다고 8일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 4일 오후 9시30분쯤 천안 쌍용동 봉서산 중턱에서 산불을 내고 달아난 혐의를 받는다.&lt;br&gt;&lt;br&gt;화재 신고를 접수하고 출동한 경찰은 소방당국이 도착하기 전에 소화기 등을 동원해 화재 진압에 나서 큰 불로 번지는 것을 막았다. 이날 산불로 산림 16.5㎡, 나무 15그루가 탔다.&lt;br&gt;&lt;br&gt;경찰은 주변을 수색하던 중 산 정상 방향으로 도주하는 A씨를 발견하고 현장에서 붙잡았다. A씨의 소지품에서는 라이터가 나왔다. A씨는 경찰 조사에서 “추워서 나뭇가지에 불을 붙였다”고 진술했다.&lt;br&gt;&lt;br&gt;경찰 조사결과 A씨는 일정한 주거지 없이 일용직 근로를 하며 노숙해오던 것으로 밝혀졌다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “건조한 날씨에 자칫 대형 산불로 번질 수 있었는데 신속한 대응으로 불길을 잡았다”면서 “A씨 사건은 산림특별사법경찰에 넘겨 조사가 이뤄지고 있다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/5UBM6VSEG3LQRO34TZNCDDRTSQ.jpg?width=720&amp;height=540&amp;auth=aafaf2faad010e03aab0d0a50fee39e03a8ad90c203fb5c2901c20854de76a57&amp;smart=true" type="image/jpeg" height="540" width="720">
-        <media:description type="plain">천안서북경찰 화재 진화</media:description>
-      </media:content>
-    </item>
-    <item>
-      <title>‘술자리 맥주병 폭행’ 前 야구선수 정수근, 징역 2년 법정구속</title>
-      <link>https://www.chosun.com/national/national_general/2025/01/08/7KOKBGMJ7VFEHABR3ZQV337QAU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/08/7KOKBGMJ7VFEHABR3ZQV337QAU/</guid>
-      <dc:creator>남양주=김현수 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 08 Jan 2025 08:59:32 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VSYNMHQWQZBNDOZOIGDZZLTFSY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전직 프로야구 선수 정수근씨. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지인 소개로 만난 남성과 술을 마시다 맥주병으로 폭행한 혐의로 재판에 넘겨진 전직 야구선수 정수근(48)씨가 실형을 선고받았다.&lt;br&gt;&lt;br&gt;의정부지법 남양주지원 형사2단독 최영은 판사는 8일 특수상해와 음주운전 혐의로 불구속기소 된 피고인 정씨에게 징역 2년을 선고하고 법정구속했다.&lt;br&gt;&lt;br&gt;재판부는 “피고인의 행위가 매우 위험하고 피해자와 합의가 이뤄지지 못했다”며 “누범기간 범행을 반복하고 음주운전과 폭력 행위로 인한 동종 전과가 있는데도 성행을 고치지 않고 재범한 점 등을 고려해 양형했다”고 밝혔다.&lt;br&gt;&lt;br&gt;정씨는 2023년 12월 21일 오후 경기 남양주시 호평동의 유흥주점에서 함께 술을 마시던 남성 A씨의 머리를 맥주병으로 내리쳐 상해를 입힌 혐의로 재판에 넘겨졌다. A씨는 머리 부위가 찢기는 부상을 입었다.&lt;br&gt;&lt;br&gt;정씨는 재판 기간인 지난해 9월 술을 만취한 채 승용차를 약 500ｍ 운전한 혐의도 추가됐다. 당시 정씨의 혈중알코올농도 0.064%으로 면허취소 수준이었다.&lt;br&gt;&lt;br&gt;정씨는 과거에도 음주전과가 있는 것으로 드러났다. 2004년부터 2022년까지 음주운전으로 5차례 적발돼 벌금형, 집행유예, 실형 등을 선고받았다. 2022년에는 옥살이까지 했다.&lt;br&gt;&lt;br&gt;검찰은 지난달 4일 결심 공판에서 “피고인이 폭행 외에도 여러 차례 음주운전으로 처벌받았고 누범기간 범행했다”며 징역 3년을 구형했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/DIO7SZJK3ZCVFPW5AGFYG3622I.jpg?width=520&amp;height=390&amp;auth=002d19ab98f43864c744039830e2d2d38488a92664f739172b04078100384c4b&amp;smart=true" type="image/jpeg" height="390" width="520">
-        <media:description type="plain">정수근. 스포츠조선DB</media:description>
-      </media:content>
-    </item>
-    <item>
       <title>尹 측 “민주당·경찰·법원 3각 내란 커넥션 밝혀야”</title>
       <link>https://www.chosun.com/national/court_law/2025/01/08/R7ML2J3QCZFXXMCCSMKLYEAPSU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/01/08/R7ML2J3QCZFXXMCCSMKLYEAPSU/</guid>
@@ -868,64 +953,6 @@
       <description/>
       <pubDate>Wed, 08 Jan 2025 08:57:05 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QVDXOHVWHFGV5MUTROPQQA5CFI.png"&gt;&lt;figcaption&gt;&lt;small&gt;이상식 더불어민주당 의원이 지난 7일 블로그에 올린 글. /이 의원 블로그&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 대통령 변호인단 소속인 윤갑근 변호사가 ‘당과 국가수사본부(국수본)의 메신저 역할을 하고 있다’고 한 이상식 더불어민주당 의원과 관련해 8일 “민주당과 경찰, 법원 사이의 내란 커넥션을 밝힐 것을 촉구한다”고 했다.&lt;br&gt;&lt;br&gt;이 의원은 지난 7일 오후 3시 57분 자신의 블로그에 “(윤 대통령) 체포영장 만기를 하루 앞두고 저희 당과 국수본 간의 메신저 역할을 하느라 전화기에 불이 났다”면서 “내일(8일)은 내란 특검 재표결 주말경은 체포영장 재집행을 앞두고 있다”고 썼다. 이어 “오늘 저녁이나 내일 체포영장이 나오면 다시 폭풍 같은 날이 이어질 것”이라며 “국수본과 경찰 후배들을 격려하고 응원하고 조언해서 내란수괴 윤석열을 반드시 체포할 것”이라고 했다.&lt;br&gt;&lt;br&gt;이 의원은 첫 글을 작성하고 4분 뒤인 오후 4시 1분 ‘주말경 체포영장 재집행을 앞두고 있다’는 문장을 삭제하고 “오늘 저녁쯤 체포영장이 다시 나오고 내일 내란 특검 재표결이 진행되면 다시 폭풍 같은 날들이 이어질 것”이라고 했다.&lt;br&gt;&lt;br&gt;윤 변호사는 이 의원의 ‘메신저 역할’에 대해 “부산경찰청장 출신인 이 의원이 민주당과 경찰의 내통 사실을 실토했다”면서 “이후 해당 문구를 삭제한 것은 경찰이 민주당의 지휘를 받은 청탁 수사를 해왔다는 점을 증명한다”고 주장했다.&lt;br&gt;&lt;br&gt;또한 윤 변호사는 “도대체 어떻게 ‘오늘 저녁쯤 체포영장이 다시 나온다’는 사실을 미리 알았다는 것인가? 민주당이 법원과 내통하고 있었다는 점에서, 국민들은 판사가 민주당의 지휘 아래 영장을 발부한 것은 아닌지 질문한다”고 했다. 고위공직자범죄수사처(공수처)의 윤 대통령에 대한 두 번째 체포영장 발부 소식은 이 의원이 해당 글을 쓴 지 약 3시간 후인 당일 오후 7시가 넘어 알려졌다.&lt;br&gt;&lt;br&gt;윤 변호사는 이 의원이 변호사법 위반과 직권남용을 했고, 특수공무집행방해 및 공무상 비밀누설의 공범이라고 주장했다. 경찰이 민주당 지휘와 이 의원의 청탁대로 경찰 특공대를 투입해 윤 대통령 체포영장을 집행하려고 한다면 직권남용죄가 될 수 있다고도 했다.&lt;br&gt;&lt;br&gt;윤 변호사는 “법원은 민주당과 내통하는 영장 발부 하청 기지로, 경찰은 수사권 독립은커녕 부패한 민주당의 수사 하청 기지로 전락했다”며 “경찰의 폭력을 동원해 현직 대통령의 권력을 전복하려는 내란”이라는 주장도 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>2시간 17분 늦게 뜬 항공기... 승객들, 항의 대신 박수를 쳤다</title>
-      <link>https://www.chosun.com/national/transport-environment/2025/01/06/55QZRPUEWBF5VCDX3QY6MHHUIA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/01/06/55QZRPUEWBF5VCDX3QY6MHHUIA/</guid>
-      <dc:creator>곽래건 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 06 Jan 2025 07:04:44 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZC7ELUOSMFFSZOSUYCT6V6ZZXQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 3일 저녁 김포공항에서 제주공항으로 가려던 진에어 531편이 정비 문제로 2시간 17분 지연됐음에도 승객들 중 한 명도 항의하지 않았다. /박고은씨 제공(인스타그램 woouda)&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 3일 저녁 김포공항에서 제주공항으로 가려던 진에어 531편이 정비 문제로 2시간 17분 지연됐다. 하지만 항공사 직원에게 항의하거나 화 낸 승객이 단 한 명도 없었다고 한다. 승객 일부는 오히려 “너무 죄송하다”는 직원에게 박수를 쳤다.&lt;br&gt;&lt;br&gt;6일 본지 취재를 종합하면 해당 항공편은 승객 169명을 태우고 당초 3일 저녁 7시 55분 김포공항에서 이륙할 예정이었다. 만석까진 아니었지만 금요일 밤이라 자리 대부분이 찬 상태였다.&lt;br&gt;&lt;br&gt;그런데 승객들이 타기 전 기체 점검 과정에서 공기압력 장치 관련 문제가 발견됐다. 이 여파로 당초보다 출발이 약 35분 늦어졌다. 점검 결과 운행에 큰 문제는 없었지만, 혹시 모를 상황을 위해 대체 항공기가 투입됐다고 한다. 이로 인해 1시간 40분 가량 추가로 늦어졌다. 해당 항공편은 결국 예정보다 2시간 17분 늦은 밤 10시 12분에야 김포에서 이륙했다. 제주공항 게이트에 도착한 것은 밤 10시 59분이었다.&lt;br&gt;&lt;br&gt;이 과정에서 게이트도 두 차례 바뀌었다. 하지만 항의하거나 화 낸 승객이 단 한 명도 없었다고 한다. 항공사 지상직 직원이 “저희는 지금 안전하게 승객들을 모시는 것에 중점을 두고 있다”며 상황을 설명할 때도 대체로 차분한 분위기였다고 한다. 승객 일부는 직원들에게 “지연돼도 상관 없으니 안전하게만 가 달라” “스트레스 받지 말고 안전하게 가 달라”고 했다.&lt;br&gt;&lt;br&gt;담당 직원은 이륙 직전 기내에 들어가 “이 비행기에 계신 고객 한 분도 항의하거나 화 내시는 분이 안 계셔 책임자인 제가 너무 죄송하다”고 했다. 승객들은 화를 내는 대신 일부는 오히려 박수를 쳤다.&lt;br&gt;&lt;br&gt;진에어 김포공항지점 변모씨는 본지에 “공항 근무가 13년이 넘었지만, 지연에 대해 따지거나 보상을 요구하는 승객이 한 명도 없던 적은 이번이 처음”이라며 “기내에서 다시 ‘죄송하다’고 할 때 ‘이륙해야하니 빨리 내려라’라고 하실 수도 있었는데 오히려 박수를 쳐 주셔서 마음이 울컥했다”고 말했다.&lt;br&gt;&lt;br&gt;이런 내용은 승객이었던 박고은(39)씨가 영상을 찍어 SNS에 올리면서 알려졌다. 박씨는 방학이라 제주도 친정에 있던 아이들을 데리러 가는 길이었다. 해당 영상은 6일 오후 4시 현재 244만 명이 넘게 본 상태다. 약 1만 7000명이 ‘좋아요’를 눌렀다.&lt;br&gt;&lt;br&gt;박씨는 본지 통화에서 “계속되는 지연 안내에도 사람들이 왜인지 조용했다”며 “무안 사고에 대해 승객 모두가 애도하는 분위기였던 것 같다”고 했다. 이어 “다들 상처가 깊은데 위로가 됐으면 하는 마음에 영상을 만들었는데, 너무 많은 사람이 봐서 놀랐다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/UMEEON4EVVCZVM3J3MDRAG4ZAI.jpg?width=1080&amp;height=739&amp;auth=10508ca60f659f57a362e4224f4a35a56b2941681fbef939656fa450ebcf3064&amp;smart=true" type="image/jpeg" height="739" width="1080">
-        <media:description type="plain">/승객 박고은씨 제공.</media:description>
-        <media:credit role="author" scheme="urn:ebu">곽래건 기자</media:credit>
-      </media:content>
-    </item>
-    <item>
-      <title>길 가던 중학생 추행…경찰, 60대 男 검거</title>
-      <link>https://www.chosun.com/national/incident/2025/01/08/65RFGB23VNBPDLGZIZKLQHOGUI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/01/08/65RFGB23VNBPDLGZIZKLQHOGUI/</guid>
-      <dc:creator>인천=이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 08 Jan 2025 07:58:58 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MVVE6P376C5SBHUCG7AOGLBTME.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;인천 서부경찰서. /조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;길 가던 중학생을 추행한 혐의로 60대 남성이 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;인천 서부경찰서는 강제추행 혐의로 A씨를 붙잡아 조사하고 있다고 8일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 6일 오후 2시 55분쯤 인천시 서구 마전동의 한 길가에서 중학생 B양을 성추행한 혐의를 받고 있다. A씨는 당시 길을 가던 B양의 신체를 만지고 달아난 것으로 파악됐다.&lt;br&gt;&lt;br&gt;B양의 얘기를 들은 부모는 경찰에 신고 했고, 경찰은 현장 감시카메라(CCTV) 영상 등을 토대로 추적해 사건 현장 인근에서 A씨를 검거했다.&lt;br&gt;&lt;br&gt;A씨는 “B양과 스치기는 한 것 같은데, 일부러 그런 건 아니다”라고 진술한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “A씨를 상대로 정확한 사건 경위를 조사한 뒤, 신병 처리 여부를 결정할 방침”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘저주토끼’ 정보라 작가, 연세대에 퇴직금 소송 승소</title>
-      <link>https://www.chosun.com/national/national_general/2025/01/08/ZJ6XKWV5WRBW5ACFS6XE6JJSWY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/08/ZJ6XKWV5WRBW5ACFS6XE6JJSWY/</guid>
-      <dc:creator>구동완 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 08 Jan 2025 07:47:48 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FTPWM57R4NHLDFZD6MUAPCL42M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;정보라 작가가 2022년 3월 29일 서울 중구 조선일보사에서 인터뷰를 하고 있다.  /김연정 객원기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;소설집 ‘저주토끼’로 영국 부커상 인터내셔널 부문 최종후보에 올랐던 정보라 작가가 10여년 동안 시간강사로 근무한 연세대로부터 퇴직금 등 3300여만원을 지급받을 수 있게 됐다.&lt;br&gt;&lt;br&gt;서울서부지법 민사3단독 강지현 판사는 8일 정 작가가 연세대를 상대로 제기한 퇴직금과 주휴·연차휴가·노동절휴가 수당 청구소송에서 “피고는 3350만9000여원을 지급하고, 소송 비용은 원고와 피고가 절반씩 부담하라”라며 원고 일부 승소로 판결했다.&lt;br&gt;&lt;br&gt;재판부는 대학교 시간강사가 강의 준비 등 수반 업무를 하는 데 들이는 시간까지 포함해 수당 지급 여부를 결정해야 한다는 지난해 7월 대법원 판례를 언급하며, 강의 시수의 3배에 해당하는 시간을 소정 근로시간으로 판단했다. 이에 따라 정 작가가 한 주에 15시간 미만으로 일하는 초단시간 근로자에 해당하지 않고 퇴직금 청구권도 있다고 봤다. 다만 2010년 1, 2학기는 강의 시수의 3배를 해도 15시간이 되지 않는다며 이 기간을 제외하고 퇴직금을 산정했다. 또, 주휴수당과 연차휴가 수당, 노동절 휴가 수당의 경우 정 작가를 단시간 근로자로 보고 근로기준법상 산정식에 따라 산정한다고 밝혔다.&lt;br&gt;&lt;br&gt;당초 재판의 쟁점은 정 작가의 실 근로시간이었다. 근로기준법은 일주일에 15시간 미만인 근로자를 ‘초단기 근로자’로 분류, 고용주가 퇴직금과 주휴수당 등을 지급할 의무가 없다고 규정한다. 정 작가는 연세대 노어노문학과에서 2010년 3월부터 2021년 12월까지 학기당 평균 6~9학점, 월 24~36시간을 강의해왔다. 그러나 정 작가는 “강의 준비 등을 고려하면 초단기 근로자로 볼 수 없다”며 “학교 측으로부터 퇴직금이나 연차·주휴 수당 등에 대한 안내를 받지 못했다”고 소송을 제기했다. 이에 연세대는 시간강사에게도 퇴직금을 지급하도록 규정한 ‘강사법’(고등교육법 개정안) 시행 시점인 2019년 8월부터 근로 시간을 계산해 퇴직금을 지급하겠다고 주장했다.&lt;br&gt;&lt;br&gt;정 작가는 이날 판결 뒤 “초단시간 근로자가 아니라는 것은 반가운 말씀이지만, 단시간 근로자라는 데에도 이의를 제기했기 때문에 수당을 청구하는 방향으로 청구취지를 변경했었다”며 아쉬움을 표했다. 그는 “수업 준비 시간 등이 환경에 따라 매우 다른데 기계적으로 3배를 해 근로시간을 산정하는 것도 현실에는 맞지 않는다고 생각한다”고 했다. 앞서 법원은 지난해 10월 화해 권고 결정을 내렸지만 정 작가 측은 이의 신청을 제기했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>정몽규 “재판부 결정 존중...선거에 변함없이 매진” </title>
-      <link>https://www.chosun.com/national/national_general/2025/01/08/YGBKIABMUVDT5IPHUQCCMH4AKQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/08/YGBKIABMUVDT5IPHUQCCMH4AKQ/</guid>
-      <dc:creator>김명진 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 08 Jan 2025 07:28:15 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5XWEFVGVL3GKBIYKFUKL7PJIG4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;제55대 대한축구협회장 선거를 통해 4선에 도전하는 정몽규 후보가 지난달 26일 오전 서울 종로구 축구회관에서 공약을 발표하고 있다. /스포츠조선&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정몽규 현 대한축구협회 회장은 8일 법원의 차기 축구협회장 선거 금지 가처분 신청 인용 결정과 관련해 “재판부의 결정을 존중하며, 제기된 절차상 하자를 보완해 조속히 선거가 실시되기를 선거운영위원회에 요청드린다”라고 했다.&lt;br&gt;&lt;br&gt;정 회장은 이날 입장문을 내고 “금일 예정됐던 제55대 대한축구협회장 선거는 회장선거금지 가처분 인용으로 열리지 못했다”며 이같이 밝혔다.&lt;br&gt;&lt;br&gt;정 회장은 이어 “저 또한 향후 선거운영위원회에서 결정하는 방법과 일정에 따라 규정을 준수하고 선거에 변함없이 매진하겠다”면서 “멀리서 선거에 참여하기 위해 어제 출발하신 분들을 비롯해, 오늘을 위해 일정을 조정했던 많은 분이 불편을 겪으신 데 대해 후보자의 한 사람으로서 죄송한 마음”이라고 했다.&lt;br&gt;&lt;br&gt;정 회장은 “많은 축구인 여러분의 지지에 감사드린다. 앞으로도 변함없는 지지와 응원을 부탁드린다”면서 “어려울 때일수록 우리는 축구로 하나가 됐다. 축구인들이 다시 원팀이 되고, 상황이 안정을 찾을 수 있도록 모든 노력을 다하겠다”고 했다.&lt;br&gt;&lt;br&gt;이번 축구협회장 선거에는 정몽규 현 회장과 허정무 전 대전 하나시티즌 이사장, 신문선 명지대학교 기록정보과학전문대학원 교수가 출마했다.&lt;br&gt;&lt;br&gt;허 후보는 지난달 30일 선거 관리·운영위원회 위원 명단이 공개되지 않은 점, 선수와 감독 21명이 선거인단 명부에서 누락된 점 등을 들어 법원에 선거 금지 가처분 신청을 냈고, 서울중앙지법 민사합의50부(임해지 부장판사)는 전날(7일) 이를 인용했다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;다음은 정몽규 현 대한축구협회장 입장문 전문&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;[정몽규 후보 입장문]&lt;br&gt;&lt;br&gt;묵묵히 한국 축구의 발전을 위해 정진하겠습니다&lt;br&gt;&lt;br&gt;금일(1월 8일) 예정되었던 제55대 대한축구협회장 선거가 회장선거금지 가처분 인용으로 열리지 못했습니다.&lt;br&gt;&lt;br&gt;재판부의 결정을 존중하며, 제기된 절차상 하자를 보완하여 조속히 선거가 실시되기를 선거운영위원회에 요청드립니다. 저 또한 향후 선거운영위원회에서 결정하는 방법과 일정에 따라 규정을 준수하며 선거에 변함없이 매진하겠습니다.&lt;br&gt;&lt;br&gt;멀리서 선거에 참여하기 위해 어제 출발하신 분들을 비롯해, 오늘을 위해 일정을 조정하셨던 많은 분들이 불편을 겪으신데 대해 후보자의 한 사람으로서 죄송한 마음입니다. 많은 축구인 여러분의 지지에 감사드리며, 앞으로도 변함없는 지지와 응원 부탁드립니다.&lt;br&gt;&lt;br&gt;어려울 때일수록 우리는 축구로 하나가 되었습니다. 축구인들이 다시 원팀이 되고 상황이 안정화될 수 있도록 모든 노력을 다하겠습니다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;끝.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[속보] 검찰,  조지호 경찰청장·김봉식 서울청장 구속 기소</title>
-      <link>https://www.chosun.com/national/court_law/2025/01/08/4YLN7SFRSNH7TGEUY3NS2J4NYQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/01/08/4YLN7SFRSNH7TGEUY3NS2J4NYQ/</guid>
-      <dc:creator>이슬비 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 08 Jan 2025 08:08:03 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZFPDLN3KDJOT7HLLUOD4JCWRVU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;조지호 경찰청장이 지난 12월 13일 서울 서초구 서울중앙지방법원에서 열린 12·3 비상계엄 사태에 동조한 혐의 관련 영장실질심사(구속 전 피의자 심문)를 마친 뒤 법원을 나서고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘12·3 비상계엄’ 사태를 수사하는 검찰 특별수사본부(본부장 박세현 서울고검장)는 8일 조지호 경찰청장과 김봉식 서울경찰청장을 내란 중요 임무 종사 등의 혐의로 구속 기소했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“투자하면 4배 수익”...노인들 노후자금 57억원 뜯은 일당 구속</title>
-      <link>https://www.chosun.com/national/2025/01/08/4CAEHNXLDBEXJOFHXI24DE7GOQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2025/01/08/4CAEHNXLDBEXJOFHXI24DE7GOQ/</guid>
-      <dc:creator>부산=김준호 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 08 Jan 2025 08:06:48 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/K5OI7WGGWA6XS3DVPXVDB2H56I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산경찰청. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;도박 사이트 베팅에 투자하면 최대 4배 수익을 주겠다고 속여 노인들의 노후자금 50억여원을 가로챈 일당이 경찰에게 붙잡혔다.&lt;br&gt;&lt;br&gt;부산경찰청 형사기동대는 특정경제범죄 가중처벌 등에 관한 법률 위반(사기) 혐의 등으로 총책 40대 A씨와 모집책 50대 B씨, 70대 C씨를 구속했다고 8일 밝혔다.&lt;br&gt;&lt;br&gt;A씨 등은 지난 2021년 7월부터 2023년 6월까지 부산의 한 오피스텔에 사무실을 차리고 나서 60대 이상 피해자들을 상대로 “투자금을 맡기면 파워볼 등 외국 인터넷 도박사이트에 베팅해 월 100~400% 수익을 주겠다”고 속여 49명으로부터 57억원 상당을 뜯어낸 혐의를 받는다.&lt;br&gt;&lt;br&gt;이들은 피해자들에게 다른 투자자를 데려오면 투자액의 3~5%를 소개비로 준다며 범행을 확대했다.&lt;br&gt;&lt;br&gt;경찰 조사 결과 A씨 등은 피해자들을 사무실로 불러 모으고 실제 도박 사이트에서 베팅해 수익을 내는 모습을 직접 보여주는 수법으로 피해자들을 안심시켰다. 하지만 실제로는 투자금을 받고 나서 약속한 수준의 이익을 얻지 못하자, 뒷순위 투자자의 돈을 앞선 투자한 이들에게 주는 돌려막기식 범행을 저지른 것으로 드러났다.&lt;br&gt;&lt;br&gt;최고령 피해자는 74세였고, 1인 최고 피해액은 10억원에 달하는 것으로 확인됐다.&lt;br&gt;&lt;br&gt;A씨 등은 피해자들로부터 가로챈 돈을 생활비나 유흥비로 전부 탕진한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;윤성환 부산경찰청 형사기동대 4팀장은 “피의자들은 일정한 수입원이 없는 고령의 피해자에게 안정적인 수익을 낼 수 있다고 속여 접근했다”며 “고수익을 보장한다는 투자 권유에 대해 의심하고 조심해야 한다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>“대통령 지키자” 관저앞 백골단 수십명 몰려왔다 </title>
@@ -937,15 +964,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Q2OM35P3EJCDZICX4APQWQSOQQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;6일 오전 4시 친윤 시위대 측이 조직한 '백골단' 대원들이 서울 용산구 대통령 관저 앞 한남초등학교 인근에서 길목을 지키고 있다. /양인성 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 대통령에 대한 체포영장이 재발부된 다음 날인 8일 서울 용산구 한남동 대통령 관저 인근에는 추운 날씨에도 많은 시민들이 모여든 가운데, 친윤 시위대는 ‘관저 사수’를 위해 위해 이른바 ‘백골단’까지 조직한 것으로 이날 확인됐다.&lt;br&gt;&lt;br&gt;백골단은 1980~1990년대 시위대를 진압하고 체포했던 경찰부대를 일컫는 별칭이다. 일반 전투경찰과 구분되는 하얀 헬멧 때문에 백골단이란 별명이 붙은 바 있다.&lt;br&gt;&lt;br&gt;관저 앞 친윤 집회를 공동 주관하고 있는 백서스정책연구소 김정현(42) 소장은 이날 본지와 만나 “8일 기준 300명 가량의 윤 대통령 민간수비대를 조직했다”고 밝혔다. 김 소장은 “현재 수비대원 대부분은 남성이고, 여성들은 양말이나 티슈, 핫팩 등의 보급품 관리와 집회 소식 전달 등의 업무를 맡고 있다”고 했다.&lt;br&gt;&lt;br&gt;그는 “이들 대통령 수비대의 핵심 중 핵심은 하얀 헬멧을 쓴 백골단 대원들”이라며 “현재 2030 남성 30명 정도로 백골단을 구성했다”고 했다. 김 소장에 따르면, 이들 백골단은 전국민주노동조합총연맹(민노총)이 주도하는 반윤 집회에 맞서 조직됐다고 한다.&lt;br&gt;&lt;br&gt;김 소장은 “민노총이 과격 시위를 이어 나가고 있는데도 경찰이 적극적으로 대처하고 있지 않다”며 “민노총이 워낙 폭력적인 조직으로 유명하니까 우리에게 가할 테러를 대비해 자체 무장을 한 것”이라고 주장했다.&lt;br&gt;&lt;br&gt;일각에서 제기된 “돈을 주고 사람을 모으는 것 아니냐”는 의혹에는 극구 부인했다. 김 소장은 “모두 자원한 사람들로, 지금의 백골단은 2030 직장인이 절대 다수”라며 “퇴근하고 나서 바로 관저 앞으로 왔다가 밤새 백골단 활동을 하고 돌아간다”고 했다.&lt;br&gt;&lt;br&gt;김 소장에 따르면, 백골단이 필수로 착용해야 하는 장비는 하얀색 헬멧과 팔꿈치·무릎보호대, 그리고 이른바 ‘멸공봉’으로 불리는 붉은 경광봉이다. 김 소장은 백골단 조직을 위해 하얀색 헬멧 50여개 등을 직접 구입했고, 보호대는 각자 알아서 챙겨와야 한다고 했다. 그는 “최근 경찰특공대가 투입된다는 소문이 돌면서 최루탄에 대비해 방독면도 구비할 것”이라고 밝혔다.&lt;br&gt;&lt;br&gt;백골단 대원 중에는 특전사나 의무경찰로 복무했던 인원도 있다고 한다. 이들은 민간수비대 300여 명의 훈련 조교를 맡고 있다고 한다. 앞에 있는 인원이 대치하고 있는 반윤 측 시위대에 의해 끌려 나가거나 밀려 넘어지지 않기 위한 기초적인 ‘방어벽 교육’을 진행하고 있다고 했다.&lt;br&gt;&lt;br&gt;“이러한 활동에 불법 소지는 없느냐”는 본지 질문에, 김 소장은 “비록 공권력은 없지만 이른바 ‘자경단(自警團)’으로서 감시 활동과 채증 정도는 할 수 있을 것이라 생각해 (백골단을) 조직한 것”이라고 설명했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>헌재 “권성동 방문 후 최재해·한덕수 탄핵심판 개시? 사실과 전혀 달라”</title>
-      <link>https://www.chosun.com/national/court_law/2025/01/08/LGDF567HJBDLZLZUZ5GQEDDIME/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/01/08/LGDF567HJBDLZLZUZ5GQEDDIME/</guid>
-      <dc:creator>박강현 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 08 Jan 2025 06:09:13 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YENZMKW26FA5FAAQBT7CW7AFVY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 종로구 헌법재판소. /전기병 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;헌법재판소가 8일 “권성동 국민의힘 원내대표가 헌재를 방문하자 헌재가 다른 탄핵심판 절차를 개시했다는 주장은 사실과 전혀 다르다”고 공지했다. 최근 더불어민주당 등 야권에선 윤석열 대통령에 대한 탄핵심판을 지연시키기 위해 여권이 다른 탄핵심판 사건 기일을 서둘러 지정하라고 압박했다는 의혹을 제기했는데, 이를 반박한 것이다.&lt;br&gt;&lt;br&gt;김용민 더불어민주당 의원(경기 남양주시병)은 이날 ‘김어준의 뉴스공장’에 출연해 권 원내대표가 지난 6일 오전 헌재를 항의차 방문해 사무처장(김정원 사무처장)을 만났고, 그 자리에서 ‘감사원장, 국무총리, 검사 3명에 대한 탄핵(심판)을 빨리 진행하라’고 요구하자 헌재가 곧바로 이들의 탄핵심판 절차를 개시한다는 입장을 발표했다는 취지의 주장을 했다.&lt;br&gt;&lt;br&gt;또 “권 원내대표가 항의 방문했고 헌재가 그날 바로 화답해 일정을 만들어 사무처장이 일정표를 보고하러 어제(7일) 국회에 온 것”이라고도 말했다.&lt;br&gt;&lt;br&gt;이에 대해 헌재는 “최재해 감사원장과 검사 탄핵의 8일자 변론준비기일은 각각 지난달 17일, 18일 1차 변론준비기일에서 이미 고지됐다”면서 “한덕수 국무총리 탄핵 사건의 변론준비기일도 지난 2일 기일통지가 이미 됐다”고 반박했다. 권 원내대표가 헌재를 방문하기 이전부터 기일 날짜가 정해져 있었다는 것이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UPXMTRLZTZAFRA54J5FUVL6NTI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;권성동 국민의힘 원내대표와 국회 법제사법위원회 소속 의원 등이 지난 6일 서울 종로구 헌법재판소에 윤석열 대통령 탄핵심판 관련 항의 방문을 마친 뒤 발언하고 있다. /박상훈 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;앞서 권 원내대표는 국민의힘 의원들과 지난 6일 헌재를 방문해 김정원 헌재 사무처장 등과 면담을 한 후 기자들과의 질의 응답에서 “지금 헌재에 계류 중인 탄핵 심판 사건이 10건이 있는데, 먼저 접수가 된 중앙지검장 등 검사들과 감사원장 또 국무위원 등에 대한 탄핵 심판은 진행이 제대로 안 되고 있다”며 “헌재에 ‘8명의 헌법재판관 체제’가 완성이 된 만큼 여기에 대해서 언제 어떻게 헌법재판을 진행할 건지 일정을 밝혀달라고 요구를 했다”고 말했다. 권 원내대표는 지난 7일엔 헌재를 방문한 적이 없다고 한다. 김 처장은 지난 7일엔 국회 법제사법위원회 전체회의 현안질의에 출석해 발언했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>‘불법 정치자금 수수’ 송영길, 1심 징역 2년…법정 구속</title>
       <link>https://www.chosun.com/national/court_law/2025/01/08/CMI3FHQVGBGE3DZP6I3NW2LPCI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/01/08/CMI3FHQVGBGE3DZP6I3NW2LPCI/</guid>
@@ -953,24 +971,6 @@
       <description/>
       <pubDate>Wed, 08 Jan 2025 06:09:11 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/H4WNRR7Q3VLXLI6V4ZTPPJ4MLI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;민주당 전당대회 돈봉투 살포 사건으로 기소된 송영길 전 민주당 대표(현 소나무당 대표). /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘민주당 전당대회 돈봉투 살포 의혹’ 등으로 구속 기소된 송영길 전 더불어민주당 대표(현 소나무당 대표)가 8일 1심에서 징역 2년을 선고받고 법정구속됐다.&lt;br&gt;&lt;br&gt;서울중앙지법 형사21부(재판장 허경무)는 이날 정당법·정치자금법 위반 등 혐의로 기소된 송 전 대표에게 징역 2년을 선고했다. 작년 5월 보석을 허가받아 풀려난 송 전 대표는 이날 실형을 선고받고 다시 구속됐다.&lt;br&gt;&lt;br&gt;1심 법원은 송 전 대표가 받고 있는 ‘돈봉투 살포 혐의’ ‘불법 정치자금 수수 혐의’ 중 불법 정치자금 수수 혐의만 유죄로 인정했다. 재판부는 “송 전 대표는 비영리법인 지정기부금단체 등 법적 제도를 정치자금법의 규제를 회피하기 위한 수단으로 사용했다”며 “이 사건 범행으로 정치자금과 관련한 부정 방지와 민주정치의 건전한 발전에 기여하려는 정치자금법의 입법 취지가 크게 훼손됐다”고 밝혔다.&lt;br&gt;&lt;br&gt;그러나 송 전 대표가 정점으로 지목된 민주당 돈봉투 살포 의혹에 대해서는 무죄를 선고했다. 돈봉투 살포 사건의 핵심 증거인 이른바 ‘이정근 녹취록’이 위법하게 수집된 증거라며 증거 능력을 인정하지 않았기 때문이다. 검찰은 이정근 전 민주당 사무부총장의 개인 비리 혐의에 대한 수사 과정에서 이씨 휴대전화 등을 임의 제출받았고, 여기에서 나온 녹음파일 3만 여개에 돈봉투 살포 정황이 담겨 있어 수사에 착수했다.&lt;br&gt;&lt;br&gt;이에 대해 재판부는 “‘이정근 녹취록’ 등 수집에 대한 절차적 위법의 본질은 ‘압수수색 영장을 받지 않은 채 임의 제출이라는 명목 하에 과잉압수를 진행한 것”이라고 지적했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>한파에도 밤샘 집회, 친윤 시위대 수천명 몰려와</title>
-      <link>https://www.chosun.com/national/national_general/2025/01/08/6W6VOMTJGBD4NKLKLLHNEHL3LI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/08/6W6VOMTJGBD4NKLKLLHNEHL3LI/</guid>
-      <dc:creator>김혜민 기자, 이영준 기자, 김도연 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 08 Jan 2025 07:24:13 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/I7RD52LMONPHJGGNIZO6ZJ3DTQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원이 윤석열 대통령에 대한 체포영장을 재발부해 공조수사본부 차원의 영장 2차 집행 시도가 초읽기에 들어간 8일 오후 서울 용산구 한남동 대통령 관저 인근에서 친윤 단체가 주최한 탄핵 반대 집회에서 참가자들이 체포 반대 구호를 외치고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 7일 윤석열 대통령에 대한 체포영장이 재발부되자 서울 용산구 한남동 대통령 관저 인근에는 수백명의 친윤 시위대가 몰려와 밤샘 집회를 이어갔다. 8일 오후가 되자 시위대 규모는 수천명 규모로 늘어났다.&lt;br&gt;&lt;br&gt;기온이 영하 6도까지 떨어진 8일 오전 6시쯤 한남대로에는 600여명의 집회 참가자들이 천막과 텐트에 박스를 깔고 은박 비닐, 현수막 등을 두른 채 동이 트길 기다리고 있었다.&lt;br&gt;&lt;br&gt;전광훈 목사가 주축인 대한민국바로세우기국민운동본부와 신자유연대 등을 중심으로 한 친윤 시위대였다. 이들은 태극기와 성조기, 붉은 경광봉을 흔들며 “지금은 전쟁 상태” “대한민국을 지켜라”고 외쳤다.&lt;br&gt;&lt;br&gt;8일 오후에는 친윤 시위대의 규모가 8100여명(경찰 비공식 추산)까지 늘어났다. 인도에만 있던 시위대는 도로까지 밀려와 2개 차로를 점거했다.&lt;br&gt;&lt;br&gt;오후 3시에는 반윤 단체 50여명이 한남대로를 찾아 “내란수괴 윤석열 즉각 체포하라”고 외치며 맞불 집회를 이어갔다. 찬반 양측 집회 참가자들이 바리케이드를 두고 욕설과 고성을 주고 받기도 했으나 충돌은 발생하지 않았다.&lt;br&gt;&lt;br&gt;시위대가 “관저 앞을 막지 말라”며 항의하거나 반윤 시위대가 친윤 시위대를 경찰에 신고하는 혼란도 있었다. 경찰은 이날 한남초교 육교 앞부터 관저 입구 인근의 통행을 제한했다. 이에 50여명의 친윤 시위대가 경찰에 “관저 앞을 막지 말라” “공산 국가에서 살고 싶은 거냐”며 거세게 항의했다.&lt;br&gt;&lt;br&gt;반윤 단체 회원으로 보이는 한 남성은 집회 현장에 수레를 버리고 간 다음 “친윤 시위대가 내 물건을 빼앗았다”며 경찰에 신고했다. 한 집회 참가자는 “지난 밤부터 집회를 하지 못하게 꼼수를 쓰는 상대 측 시위대가 있다”고 했다.&lt;br&gt;&lt;br&gt;한편 서울에 한파주의보가 발령된 이날, 시위대들을 추위로부터 지키려는 물품 후원이 끊이질 않았다. 한남초 인근 골목에는 라면, 핫팩 등이 들은 택배 박스가 수십개 쌓여 있었고, 자원봉사자들은 라면을 끓여 시위대에게 나눠줬다. 커피 차, 분식 트럭, 난방 버스 등도 동원됐다.&lt;br&gt;&lt;br&gt;한 친윤 단체에서는 “밤 동안 카페를 대관했으니 몸 녹이며 시위하라”며 “다만 우파만 검열하니 좌파는 오지 말라”고 공지했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YV33SUK6EVMLNGKJYIOY7BQOTM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원이 내란 우두머리(수괴) 혐의를 받는 윤석열 대통령에 대한 체포영장을 재발부하면서 체포영장 기한이 연장된 가운데 8일 서울 용산구 대통령 관저 출입구 인근에 경찰 기동대 버스가 정차되어 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대통령 관저는 여전히 경계 태세를 유지하고 있었다. 지난 3일 체포 시도가 무산된 뒤 관저 입구에는 철조망이 설치됐고, 관저 출입을 막던 차벽도 늘었다. 관저 입구에는 정문에 1대, 문 안쪽으로 3대 이상의 버스가 주차돼있다.&lt;br&gt;&lt;br&gt;한편 경찰은 관저 입구를 포함해 한남대로에는 20여대의 버스를 차벽 형태로 배치했다. 앞서 체포 시도가 이뤄진 지난 3일에는 150여대의 버스가 배치됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>尹측 “선임계 내러 공수처 갔으나 출입 못해” …공수처 “거부한 적 없어”</title>
-      <link>https://www.chosun.com/national/court_law/2025/01/08/OKIYCGNQDNDSJO7ZT5HG55RLQY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/01/08/OKIYCGNQDNDSJO7ZT5HG55RLQY/</guid>
-      <dc:creator>이슬비 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 08 Jan 2025 07:30:34 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GLFC5RQ24VP4ZAWMTX2RYRQQY4.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령의 변호인들이 8일 오후 서울 서초구 한국컨퍼런스센터에서에서 열린 기자간담회에서 발언하고 있다. 왼쪽부터 송진호·윤갑근·배보윤 변호사. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 대통령 변호인들은 8일 윤 대통령을 내란·직권남용 혐의로 수사하는 고위공직자범죄수사처(공수처)에 선임계를 내러 갔으나 출입을 거절당해 돌아왔다고 8일 주장했다. 반면 공수처는 “변호인 측이 면담을 요구해 먼저 선임계를 제출하라고 했으나, 내지 않고 돌아갔다”고 반박했다.&lt;br&gt;&lt;br&gt;윤 대통령 측 윤갑근 변호사는 이날 오후 서울 서초구의 한 사무실에서 기자 간담회를 열고 “오늘 변호인 선임계를 공수처에 제출하고 오늘부터 논의하려고 했는데 잘 안됐다”며 “그쪽에서 반응이 없어 돌아왔다”고 말했다.&lt;br&gt;&lt;br&gt;윤갑근·배보윤·송진호 변호사는 오전 10시쯤 공수처를 방문해 직접 세 사람의 선임계를 제출하려고 했다고 한다. 윤 변호사는 “선임계를 내려고 했는데 민원실에 맡겨놓고 오라고 해서 그냥 돌아왔다”고 했다. 윤 변호사는 “일반 전화로 공수처장하고 부장검사 쪽에 메모를 전달하고 필요하면 우리에게 전화해달라고 메모를 남겼는데 전화가 안 왔다”면서 “30분 이상 기다렸는데 그래도 전화가 안 와서 온 것”이라고 주장했다. 윤 변호사는 ‘공수처 출입을 거부당했다는 말이냐’는 질문에는 “네”라고 답했다.&lt;br&gt;&lt;br&gt;공수처는 정부과천청사 5동에 있다. 출입증이 없는 방문객이 건물에 들어가려면 먼저 청사 민원동에서 신분증을 제시하고 공수처 담당자 확인을 거쳐 방문증을 받아야 한다. 방문증 발급 절차에 공수처가 협조하지 않아 선임계를 내지 못했다는 게 윤 대통령 측 입장이다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇공수처 “오늘 신임 검사 면접 일정…선임계부터 내야”&lt;/b&gt;&lt;br&gt;&lt;br&gt;이에 대해 공수처 관계자는 “선임계를 거부한 게 아니라 저희한테 접수가 안 됐다”고 반박했다. 이 관계자는 “수사팀에 전화로 면담을 요청해 온 것은 맞지만, 면담할 상황이 아니고 선임계를 낸 다음에 면담이 가능하다는 절차를 설명하니 그냥 돌아간 것”이라고 했다. &lt;br&gt;&lt;br&gt;공수처는 이날 신임 검사 임용을 위한 면접 일정으로 면담을 하지 못했다고 설명했다. 공수처는 “하루 종일 신임 검사 면접 일정이 있어서 (면담할) 상황 자체가 안됐다”고 했다. 이어 “사건 관련 논의는 변호인과 해야 하는데, 선임계가 접수돼야 변호인이 누구인지 아는 것”이라며 “변호인이 누구인지 모르는데, 변호인 아닌 사람과 이야기할 수는 없다”고 했다. &lt;br&gt;&lt;br&gt;공수처는 선임계는 민원실에 내거나 우편으로 제출하면 된다는 입장이다. 공수처 관계자는 “아직 민원실에도 접수된 게 아무것도 없다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>‘살림남’ 이희철 7일 사망… 유족 “건강했는데 심근경색으로” </title>
