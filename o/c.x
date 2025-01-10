@@ -13,6 +13,63 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>신문선 “축구협회, 정몽규 자격 잃기 전에 선거하려 서둘러”</title>
+      <link>https://www.chosun.com/national/national_general/2025/01/10/GL6H3YOQRFGHRKH3KGVLKCGKZE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/10/GL6H3YOQRFGHRKH3KGVLKCGKZE/</guid>
+      <dc:creator>김영준 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 10 Jan 2025 04:48:02 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3HRHCCT7JZJXJFKHQNBVEPBEGU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;신문선 대한축구협회장 선거 후보가 10일 서울 종로구 축구회관 앞에서 기자회견을 열었다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 8일 예정됐던 대한축구협회장 선거가 법원의 선거 금지 가처분 인용으로 이달 23일로 미뤄진 가운데, 현 정몽규 회장에 맞서는 신문선·허정무 후보가 일제히 반대 뜻을 내비쳤다.&lt;br&gt;&lt;br&gt;신문선 후보는 10일 오전 서울 종로구 축구회관 앞에서 기자회견을 열고 “23일을 선거 기일로 공지한 현 축구협회 선거운영위원회 판단을 인정할 수 없다”고 했다. 그는 축구협회가 문화체육관광부로부터 자격정지 이상 중징계 요구를 받은 정 회장이 후보 자격을 잃기 전에 선거를 빨리 치르려 한다고 주장했다. 그는 “2월 2일이 문체부가 정한 정 회장 징계 시한이다. 이 기일 내에 자격정지 징계가 내려지면 정 후보는 후보 자격을 잃게 된다”며 “이런 상황에 내몰린 정 후보와 축구협회는 이성을 상실한 듯 막무가내 행동을 하고 있다”고 말했다. 축구협회 정관은 자격정지 이상 징계 처분을 받은 사람은 협회 임원이 될 수 없다고 규정하고 있다.&lt;br&gt;&lt;br&gt;신 후보는 또 선거를 23일에 치르려면 현 선거운영위를 해체해야 한다고도 했다. 현 선거운영위는 정몽규 회장 집행부에서 선임했는데, 정 회장 임기가 이달 21일 종료돼 선거일인 23일엔 현 선거운영위가 선거를 운영할 권한이 없어진다고 주장했다. 신 후보는 “편파적이고 불공정한 상황에서 경쟁한다는 것은 인정할 수 없다”고 말했다. 다만, 축구협회 회장선거관리 규정에는 “선거운영위는 설치된 날부터 선거일 후 60일까지 존속하되, 필요시 이사회 의결로 연장할 수 있다”고 돼 있다.&lt;br&gt;&lt;br&gt;신 후보는 “선거 중지를 위한 법적 조치에 더해 정몽규 회장의 후보 자격에 대해서도 법적 조치를 검토하고 있다”며 가처분 신청을 할 수 있다는 뜻을 시사했다.&lt;br&gt;&lt;br&gt;허정무 후보도 전날 새 선거일이 공지되지마자 가처분 신청을 검토하겠다고 한 데 이어 이날 보도자료를 내고 재차 반발했다. 그는 “선거운영위의 구성과 업무 범위는 회장선거관리규정 제4조에 정하고 있는데, 규정 어디를 찾아봐도 선거운영위가 선거일을 결정한다는 내용은 없다”고 했다.&lt;br&gt;&lt;br&gt; &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>오세훈 “내란 특검법에 외환 혐의 넣은 野, 안보를 정쟁 도구로 삼아”</title>
+      <link>https://www.chosun.com/national/regional/seoul/2025/01/10/P5IJ2IAV3JAZPLPIKQORBP64GE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/seoul/2025/01/10/P5IJ2IAV3JAZPLPIKQORBP64GE/</guid>
+      <dc:creator>김영우 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 10 Jan 2025 04:44:28 +0000</pubDate>
+      <content:encoded>윤석열 대통령의 외환 혐의를 포함한 민주당의 ‘내란 특검법’ 재발의에 대해, 오세훈 서울시장이 10일 “안보를 정쟁의 도구로 삼는 민주당의 ‘고질병‘이 대한민국의 존립을 심각하게 위협하고 있다”고 말했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/S3U3CAFAJ5C7BFN4X3EOCNHH5U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;오세훈 서울시장이 작년 7월 서울 중구 서울시청 집무실에서 본지와 인터뷰를 갖고 있다. /김지호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;오 시장은 이날 페이스북에 ‘북이 도발해도 우리는 잠자코 있어야 하는가’라는 제목의 글을 올리고 이 같이 말했다.&lt;br&gt;&lt;br&gt;오 시장은 “민주당이 ‘내란 특검법’을 재발의하며 대북 확성기 가동, 대북 전단 살포까지 ‘외환 혐의‘ 수사 대상에 넣었다”며, 이는 “북한이 수시로 서울을 위협하고 무인기는 물론 오물 풍선까지 무차별로 투입하며 도발하는 상황에서 우리 정부의 정당한 대응까지 ‘전쟁 유발 행위’로 규정하는 것”이라고 했다.&lt;br&gt;&lt;br&gt;이어 오 시장은 “북이 입에 담지 못할 욕설을 하고, 우리 혈세로 지은 건물을 폭파해도 문재인 전 대통령처럼 침묵하거나 중국에는 그저 ‘셰셰’하면 된다는 이재명 대표처럼 처신해야 한다는 의미냐”며 “국가적 혼란을 수습하고 경제 불확실성을 해소해야 할 중차대한 시기에 민주당은 외교·안보 문제마저 정쟁화하며 국내 정치에 이용하고 있다”고 했다.&lt;br&gt;&lt;br&gt;그는 “민주당은 앞서도 1차 탄핵소추안에서 난데없이 ‘북·중·러를 적대시하고, 일본 중심의 기이한 외교정책을 고집했다’는 내용을 끼워 넣었다가 논란이 일자 스스로 2차 탄핵소추안에서는 삭제했다”며 “국민의 생명과 안전을 지키기 위한 안보를 정쟁의 도구로 삼는 것은 정치가 가장 하지 말아야 할 일이고, 민주당의 이런 ‘고질병’이야말로 대한민국의 존립을 심각하게 위협하고 있다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>제주, 2035년까지 ’푸드 테크’ 기업 5곳 상장 추진 </title>
+      <link>https://www.chosun.com/national/regional/2025/01/10/Y5JQJ3T2D5FXXF7ACY6SRSWRAU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/01/10/Y5JQJ3T2D5FXXF7ACY6SRSWRAU/</guid>
+      <dc:creator>제주=오재용 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 10 Jan 2025 04:45:04 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TKZEAHJUQ5EBDDZ5RUGX3OVQLI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;제주도가 추진하는 푸드테크 기업 육성 그래픽./제주도&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제주도가 재생에너지 100%(RE100) 식품 생산 기업 50곳을 육성한다.&lt;br&gt;&lt;br&gt;제주도는 10일 이 같은 내용의 푸드테크 육성을 위한 ‘제주 그린+푸드테크 생태계 조성 전략’을 발표했다. 푸드테크는 식품(food)과 기술(technology)의 합성어로, 식품 생산부터 유통, 소비까지 전반에 AI, 사물인터넷(IoT), 바이오 기술(BT) 등 첨단기술을 결합한 신산업을 말한다.&lt;br&gt;&lt;br&gt;제주도는 이번 전략에서 2035년까지 매출 50억원 이상 K-RE100 기업 50곳 육성, 푸드테크 상장기업 5곳 배출, 도내 식품산업 매출 확대, 수출액 5000만 달러 달성, 신규 일자리 500개 창출을 목표로 내걸었다.&lt;br&gt;&lt;br&gt;이를 위해 먼저 제주의 청정 특화자원을 활용한 맞춤형 전략식품을 개발한다. 제주도는 국제슬로푸드협회의 ‘맛의 방주’에 등재된 제주 전통 식품 31개 품목과 월동 작물 등을 활용해 특화 제품을 만들고 개인 건강정보에 맞춘 식단설계 기반도 구축할 계획이다. &lt;br&gt;&lt;br&gt;또 2027년까지 제주개발공사와 공동으로 인공지능(AI) 기술을 활용해 감귤 농축액 자율 제조공정을 도입한다. 스마트 가공센터도 건립해 월동채소 식재료를 식자재 시장에 연중 공급할 방침이다.&lt;br&gt;&lt;br&gt;아울러 AI 기반 맞춤형 관광·식품 정보 서비스를 개발하고 먹거리 통합지원센터를 통해 지역 식자재를 안정적으로 공급할 예정이다. 이와 함께 제주 첨단과학기술단지에 ‘그린바이오 벤처캠퍼스’와 ‘푸드테크 연구지원센터’ 등 혁신 기반 시설을 조성할 계획이다.&lt;br&gt;&lt;br&gt;제주도는 이날 지역내 대학 3곳과 정부 기관·단체 6곳, 푸드테크 선도기업 9곳 등과 업무협약을 맺어 푸드테크 생태계 조성을 위해 협력해 나가기로 했다.&lt;br&gt;&lt;br&gt;오영훈 제주지사는 “제주지역 식품제조업체(1064개)의 90%가 10인 미만 영세업체인 현실을 극복하고, 제주의 청정 자원과 국제관광도시 경쟁력을 활용한 혁신을 추구한다”며 “친환경 에너지 기반의 스마트 제조부터 맞춤형 건강식품 개발까지 전 과정의 생태계를 구성해 글로벌 푸드테크 중심지로 도약해 나가겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>행안부 장관 대행·시도지사協 “민생안정 위해 중앙-지방협력”</title>
+      <link>https://www.chosun.com/national/national_general/2025/01/10/XHYOBZ4APFFYFPX3AB2EGLB7RU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/10/XHYOBZ4APFFYFPX3AB2EGLB7RU/</guid>
+      <dc:creator>박진성 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 10 Jan 2025 04:39:43 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XUXOTEBYKJBE5L7CGZS4D2KHOQ.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;고기동(오른쪽) 행정안전부 장관 직무대행이 10일 오전 인천시청에서 대한민국시도지사협의회장인 유정복 인천시장과 악수하고 있다./행정안전부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;고기동 행정안전부 장관 직무대행은 10일 인천시청을 찾아 제18대 대한민국시도지사협의회장으로 선출된 유정복 인천시장을 만나 지역민생 안정을 위해 중앙과 지방간 긴밀한 협력을 요청했다.&lt;br&gt;&lt;br&gt;고 대행은 이 자리에서 “대내외 불확실성이 큰 시기에 지자체가 지역민생 안정을 위해 제 역할과 책임을 다해 주고 있는데 감사를 표한다”고 했다.&lt;br&gt;&lt;br&gt;또 고 대행은 “주민들이 안심하고 일상생활을 할 수 있도록 민생 경제 회복, 취약계층 지원, 재난안전 관리체계 등 여러 분야에 있어 중앙과 지방이 더욱 견고하게 협력해나가길 바란다”고 했다.&lt;br&gt;&lt;br&gt;유 회장은 “지방정부는 국민과 가장 가까운 곳에서 실질적인 행정을 담당하며 국가 위기 상황에서도 주민들의 안정적인 삶을 유지하는 데 핵심적인 역할을 하고 있다”라며 “이런 시기일수록 중앙-지방정부가 상호 신뢰와 협력을 바탕으로 함께 나아가야 한다”고 말했다.&lt;br&gt;&lt;br&gt;협의회는 이번 면담을 계기로 중앙-지방 간의 정례적인 소통 채널을 활성화하고, 지방정부의 역량 강화를 위한 정책적 지원을 적극적으로 모색해 나갈 계획이라고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“핸드폰만 9시간 써”... ‘5세 수학천재’, 6년 새 망가진 이유는</title>
+      <link>https://www.chosun.com/national/national_general/2025/01/10/K7B3DW57FJGDRJH6OEZ24NTXWE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/10/K7B3DW57FJGDRJH6OEZ24NTXWE/</guid>
+      <dc:creator>박선민 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 10 Jan 2025 03:24:42 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GL275AIMBRFTFJOT34J327ORNM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2019년 영재 프로그램 출연 당시 이군이 팩토리얼 개념을 정리하고 있다. /SBS '영재발굴단'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;6년 전 영재들의 모습을 관찰하는 예능 프로그램에서 ‘수학을 사랑하는 꼬마’로 얼굴을 알린 어린이 출연자가 “이제 수학에 별로 흥미를 느끼지 못한다”며 직접 근황을 털어놨다. &lt;br&gt;&lt;br&gt;2019년 1월 SBS ‘영재발굴단’에 출연한 이모(11)군은 지난 6일 유튜브를 통해 “저에 대해서 수학을 엄청나게 잘한다고 생각하지 말아 주셨으면 좋겠다. 전 사실 5세 때부터 무슨 이유인지는 몰라도 발전이 거의 없고 문제를 만나면 회피하려는 행동만 계속하고 있다”며 이같이 말했다. &lt;br&gt;&lt;br&gt;이군은 “점점 인터넷 세계로 빠져들고, 잠도 늦게 자며 제 인생은 점점 나빠지고 있다”며 “휴대전화 (사용) 시간이 9시간씩 찍혀있는 제가 한심하게 느껴진다”고 했다. 그러면서 “그래도 끊을 수 없다는 사실이 저를 더욱 비참하게 만든다”고 했다. &lt;br&gt;&lt;br&gt;이군은 “마인드의 변화가 없던 것은 아니었다. 한창 공부만 하고 운동도 열심히 하는 시기가 있었다”면서도 “그러나 여러 안 좋은 일들이 겹치면서 지금 저의 상태는 최악”이라고 했다. &lt;br&gt;&lt;br&gt;이어 “혹여나, 제가 가끔 이해 안 되는 행동들을 해도 이해하려고 노력해 주시길 바란다”며 “그때쯤 되면 이미 정상이 아니게 될 것”이라고 했다. 아울러 “망가지고 있어서 죄송하다. 기대에 미치지 못해 죄송하다”며 “언젠간 다시 정상으로 되돌아오도록 만들겠다”라고 했다. &lt;br&gt;&lt;br&gt;이군은 6년 전 만 5세 나이에 영재발굴단에 출연하며 얼굴을 알렸다. 이군은 방송에서 미적분과 3차 방정식 등 고등수학은 물론, 일반적으로 자연수에서만 정의되는 팩토리얼을 접한 뒤 자신만의 ‘마이너스 팩토리얼’이라는 개념을 정리하는 모습까지 보여줬다. 방송에서 공개된 이군의 전체 지능은 142로, 상위 0.3% 수준이었다. 당시 이군의 검사를 진행한 아동발달 심리전문가는 “개념에 대한 이해가 빠르고, 구조화하고 개념화하는 능력이 상당히 좋았다”고 평가했다. &lt;br&gt;&lt;br&gt;이외에도 이군은 개인 유튜브를 통해 수학 문제를 풀이하는 콘텐츠를 지속해서 올려 왔다. 특히 2017년 9월 평가원 모의고사 수학영역 가형에 출제된 ‘킬러문항’ 21번을 푸는 영상 조회 수는 현재 기준 173만회가 넘는다. 고등수학 수준의 문제를 푸는 것에 그치지 않고 오일러 공식 증명, 라플라스 변환 기초 과정 등 대학수학 수준의 내용도 소화하는 영상을 올리기도 했다.또 북미 대학생들을 대상으로 하는 퍼트넘 수학경시대회, 미국 MIT 적분대회에 출제된 문제도 풀어냈다. &lt;br&gt;&lt;br&gt;2020년에는 KBS 뉴미디어 채널인 유튜브 ‘크랩(KLAB)’에 출연해 서울대 전기정보공학부 학생과 수능 기출 문제 풀이 대결을 하기도 했다. 당시 이군은 서울대 학생도 중간에 포기한 문제의 답을 도출해내는 모습으로 화제를 모았다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“계약서 쓰는데 갑자기 가격 올려”…김숙, 압구정 현대 세 번 놓친 이유</title>
+      <link>https://www.chosun.com/national/national_general/2025/01/10/PZFHW7R4LBDKJJYEJHRHBPCGIM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/10/PZFHW7R4LBDKJJYEJHRHBPCGIM/</guid>
+      <dc:creator>김자아 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 10 Jan 2025 03:54:02 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/V4MQE46OHNB37HDFHPL2MQLYNM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;개그우먼 김숙./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;개그우먼 김숙이 20여 년 전부터 서울 강남의 압구정 현대아파트를 매입하려다 번번이 실패했다고 밝혔다. 집주인이 계약서를 작성하는 현장에서 가격을 올린 것인데, 여전히 이 아파트 매매 계약 시에 비슷한 상황이 벌어지고 있는 것으로 전해졌다.&lt;br&gt;&lt;br&gt;김숙은 지난 9일 방송된 MBC ‘구해줘! 홈즈’에 출연해 강남 고급 아파트의 시초인 압구정 현대아파트 매물을 둘러보면서 “나는 여기를 생각하면 눈물이 난다”며 이같이 밝혔다.&lt;br&gt;&lt;br&gt;압구정 현대아파트는 과거 방송인 유재석과 노홍철이 ‘무한도전’ 출연 당시 거주하던 곳으로 방송에도 여러 차례 소개됐다. 김숙은 “요즘 홍현희도 이사 왔다고 하고 이지혜, 오상진, 김희애 아파트로도 유명하다”고 했다.&lt;br&gt;&lt;br&gt;김숙은 “20대 때 아파트 사러 왔다가 너무 비싸서 집을 구매 못 했다”며 “돈 벌어서 다시 왔는데 또 못 샀다”고 했다. &lt;br&gt;&lt;br&gt;이어 “그 자리에서 (매매가를) 5000만원, 1억원씩 올리더라. 5억원이라고 해서 (부동산에) 갔는데 6억원이 됐다”며 “‘집주인이 갑자기 올렸어요’ 이런 식이다. 세 번 정도 부동산 갔다가 못 산 곳이 여기(압구정 현대아파트)”라고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TDRSKQ2VE5CNZLMWPTQEXX3MKE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;개그우먼 김숙이 압구정 현대아파트를 매입하려다 실패한 사연을 털어놨다./MBC&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김숙은 당시 매물을 알아 봐줬던 공인중개사를 부동산에서 만나 “10억원이면 10억원이어야지 왜 (계약서 쓰러) 오면 금액을 올리느냐”고 토로했다. 그러자 중개사는 “지난주는 계약서 쓰다가 자리에서 2억5000만원을 올렸다”고 했다.&lt;br&gt;&lt;br&gt;곧 이 아파트 실제 매물을 보러 갔다. 입장하자마자 뻥 뚫린 한강이 내려다보이는 커다란 창이 설치된 집이었다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WRIOG2HJ2VHTJERTTCDZYUVSEQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;리모델링으로 한강 조망을 확보한 압구정 현대아파트 매물./MBC&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김숙은 “옛날 아파트들은 향(向)을 많이 따졌다. 북향이라 하면 치를 떨었다. 무조건 남향, 동향이었다. 여긴 강남이라 다용도실을 (북향인) 한강 쪽에 한 것”이라며 “요즘은 리모델링하면서 (남향인데도) 한강을 볼 수 있게 한다더라”고 설명했다. 실제로 이 집은 메인 베란다 창이 남향으로 나 있지만, 평면도상 반대쪽에 있던 다용도실을 트면서 북향으로 한강을 볼 수 있다. &lt;br&gt;&lt;br&gt;전용면적 196㎡(약 65평)로 알려진 이 매물의 매매가는 90억원이었다. 전세가는 25억원, 월세는 보증금 5억원에 800만원 수준이었다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JR2BTUDPEUMF56532OSCVLZVBM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 강남구 압구정 현대아파트 단지의 모습./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;압구정 현대아파트 중 가장 처음 지어진 1·2차는 1976년 준공됐다. 40여 년이 지난 아파트지만 여전히 강남을 대표하는 아파트 단지로 평가받는다.&lt;br&gt;&lt;br&gt;특히 재건축 사업에 속도를 내면서 지난해 8월 현대1·2차 전용면적 196㎡(65평)는 83억원에 거래돼 신고가를 썼다. 직전 최고가는 53억9000만원(2021년 1월 거래)이었다. &lt;br&gt;&lt;br&gt;지난해 기준 3.3㎡당 시세 상위권도 이 아파트 단지들이 휩쓸었다. 1위는 압구정 현대 14차로, 1억5120만원이다. 3위도 압구정동 현대 4차로 1억4141만원, 4위도 압구정 현대 5차로 1억3489만원을 기록했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/V4MQE46OHNB37HDFHPL2MQLYNM.jpg?width=2217&amp;height=1663&amp;auth=2c4d58195a970c07d6cde91cf2410f100139780280de679e42aa015f52215465&amp;smart=true" type="image/jpeg" height="1663" width="2217">
+        <media:description type="plain">개그우먼 김숙./뉴스1</media:description>
+      </media:content>
+    </item>
+    <item>
       <title>검찰, “이상직 중진공 이사장 내정 사실, 文에게도 보고”… 조현옥 공소장에 적시</title>
       <link>https://www.chosun.com/national/court_law/2025/01/10/OKKTHCPDYZHS5DHVZT7FYCBLWQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/01/10/OKKTHCPDYZHS5DHVZT7FYCBLWQ/</guid>
@@ -833,15 +890,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UFRQG6TO3JBCPOR5OQJJCXHMXU.png"&gt;&lt;figcaption&gt;&lt;small&gt;9일 오후 1시 30분 서울 여의도 국회 소통관에서 김민전 국민의힘 의원과 윤석열 대통령 관저를 사수하는 2030 청년단인 '백골단'이 반공청년단 출범 기자회견을 진행하고 있다. /유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;하얀 헬멧을 쓰고 윤석열 대통령 관저 인근에서 ‘백골단’이라 불리며 관저 사수 집회를 벌였던 반공청년단이 9일 서울 여의도 국회 소통관에서 반공청년단 공식 출범 기자회견을 열었다.&lt;br&gt;&lt;br&gt;반공청년단은 이날 오후 국회 소통관에서 기자회견을 열고 “조직의 공식 명칭을 반공청년단으로 부르기로 결정했다”며 “백골단은 반공청년단의 예하 조직으로 운영될 것”이라고 밝혔다.&lt;br&gt;&lt;br&gt;이날 기자회견은 김민전 국민의힘 의원 소개로 진행됐고, 단원들은 백골단의 상징인 ‘하얀 헬멧’을 지참했다.&lt;br&gt;&lt;br&gt;백골단은 1980~1990년대 시위대를 진압하고 체포했던 경찰 부대를 일컫는 별칭이다. 일반 전투 경찰과 구분되는 하얀 헬멧을 착용해서 이같은 이름이 붙었다. 시위대를 무자비하게 구타하고 연행하는 것으로 유명했고, 명지대생 강경대 사망 사건, 한진중공업 박창수 노조위원장 시신 탈취 사건 등에 개입해 민주화운동 탄압의 상징이 됐다.&lt;br&gt;&lt;br&gt;최근 윤석열 대통령 관저 인근에서 하얀 헬멧을 쓰고 관저 사수 시위를 벌인 이들은 “백골단은 반공청년단의 예하 조직”이라며 “윤 대통령을 지키고 대한민국 헌정 질서를 수호하기 위해 노력을 다할 것”이라고 밝혔다.&lt;br&gt;&lt;br&gt;반공청년단 단장을 맡고 있다고 밝힌 백서스정책연구소 김정현(42) 소장은 이날 기자회견에서 자신들이 전국민주노동조합총연맹(민노총)의 관저 진입 시도에 대응해 조직됐다면서 “경찰특공대의 무리한 윤 대통령 체포 시도를 즉각 중단해야 한다”고 강조했다.&lt;br&gt;&lt;br&gt;또한 “대한민국은 법치가 무너지고, 헌법 가치를 근거로 민주적 절차를 따르는 게 아니라 목소리 큰 사람, 약육강식 세계가 됐다”며 “대한민국을 지키기 위해 강력한 수단을 동원해야 하고, 강한 이미지를 가진 백골단이 적절하다고 생각한다”고 설명했다.&lt;br&gt;&lt;br&gt;‘백골단을 긍정적으로 생각하는 것인가’라는 질문에는 “같은 편으로는 긍정적 효과를 낼 수 있지만, 평화적인 시위에 백골단을 투입하는 것은 매우 부정적이기에 긍정적, 부정적 요소를 둘 다 가지고 있다”고 평가했다.&lt;br&gt;&lt;br&gt;반공청년단 측은 이날 오후 6시 30분 서울 용산구 한남동 대통령 관저 앞에서 반공청년단 공식 출범식 및 도열 시위를 진행할 예정이라고 밝혔다.&lt;br&gt;&lt;br&gt;최근 일부 강성 윤 대통령 지지자들은 300명 가량의 ‘민간 수비대’를 조직했으며, 이 가운데 20~30대 남성 30여 명으로 자칭 ‘백골단’을 조직했다. 이들은 하얀색 헬멧과 멸공봉으로 불리는 경광봉, 보호대 등을 갖췄다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>제주도, 제주항공 참사 유가족 지원 위해 1억 기탁</title>
-      <link>https://www.chosun.com/national/regional/2025/01/09/TYWC6VCAPNDMZLDW4TQYZECPEA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/01/09/TYWC6VCAPNDMZLDW4TQYZECPEA/</guid>
-      <dc:creator>제주=오재용 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 09 Jan 2025 05:54:58 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NEL3VPPVHFEX5EWJI3ULJCTVIY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;제주도청 정문./조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제주도는 무안공항 제주항공 여객기 참사 유가족을 위해 재해구호기금 1억원을 지원한다고 9일 밝혔다. 성금은 10일 대한적십자사를 통해 지정 기탁한다.&lt;br&gt;&lt;br&gt;이번 지원은 지난해 12월 29일 무안공항에서 발생한 제주항공 여객기 사고 유가족들의 생활 안정을 돕기 위해 결정됐다.&lt;br&gt;&lt;br&gt;제주도 재해구호기금은 1984년 설치된 이후 재해 발생 시 신속한 응급구호와 이재민 생활 안정 보호를 위한 재원으로 활용되고 있다.&lt;br&gt;&lt;br&gt;오영훈 제주지사는 “갑작스러운 사고로 소중한 생명을 잃은 도민과 모든 희생자에 대한 깊은 애도를 전한다”며 “이번 성금이 유가족들께 제주도민들의 마음을 전하는 작은 위로가 되기를 바란다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>‘은퇴설’ 깨고 돌아온 원빈 근황...세월 무색한 외모</title>
       <link>https://www.chosun.com/national/people/2025/01/09/NHEUEBBEARE3FIXHSDTZWOIHYI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/people/2025/01/09/NHEUEBBEARE3FIXHSDTZWOIHYI/</guid>
@@ -859,15 +907,6 @@
       <description/>
       <pubDate>Thu, 09 Jan 2025 05:03:17 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SHVHI2VTSNIRLAX3F6AODFQUZQ.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;천재현 헌법재판소 공보관이 지난 6일 오후 서울 종로구 헌법재판소에서 윤석열 대통령 탄핵심판 사건 관련 브리핑을 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;헌재 ‘권성동 압박으로 심판 영향’ 野 주장에 “명백히 사실 반해”&lt;br&gt;&lt;br&gt;“사실 기반하지 않은 논평...우려 표해”&lt;br&gt;&lt;br&gt;“윤 대통령 측 2차 체포영장 권한쟁의 심판 접수돼”&lt;br&gt;&lt;br&gt;“1차 체포영장 권한쟁의 심판, 적법요건 심리 중”&lt;br&gt;&lt;br&gt;“尹 탄핵심판, 경찰청·서울중앙지검 등서 일부 자료 받아"&lt;br&gt;&lt;br&gt;“尹 탄핵심판이 이례적으로 빠르다고 보기 어려워"&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>11개월 조카 24층서 던져 살해한 고모…항소심도 징역 15년</title>
-      <link>https://www.chosun.com/national/national_general/2025/01/09/WG2A4QMRCNAW3OD42NRVB4VDYI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/09/WG2A4QMRCNAW3OD42NRVB4VDYI/</guid>
-      <dc:creator>김명일 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 09 Jan 2025 05:05:19 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VDZIEJTKE63QO375J37JOA3HAQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원 관련 이미지. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;생후 11개월인 조카를 아파트 고층에서 내던져 살해한 40대 고모에게 항소심에서도 중형이 선고됐다.&lt;br&gt;&lt;br&gt;9일 대구고법 형사1부(정성욱 부장판사)는 조카를 살해한 혐의로 기소된 고모 A(43·여)씨에 대한 항소심에서 검사와 피고인의 항소를 모두 기각하고 원심 형량인 징역 15년을 유지했다.&lt;br&gt;&lt;br&gt;A씨는 어버이날이었던 지난해 5월8일 남동생 부부가 사는 대구 달서구의 한 아파트 24층에서 생후 11개월 된 조카 B군을 베란다 밖으로 던져 숨지게 한 혐의로 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;A씨는 당시 가방에 흉기를 넣어 갔지만 흉기로 범행하면 발각돼 실패할 수 있다고 생각해 범행 방법을 바꿨다.&lt;br&gt;&lt;br&gt;A씨는 자신의 어머니 C씨에게 “나도 안아보고 싶다”며 B군을 건네받은 후 C씨가 자리를 비운 사이 방문을 잠그고 범행을 한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;A씨는 반사회적 성격장애(사이코패스) 성향과 우울증 등으로 입원 치료를 받은 전력이 있었다. A씨는 퇴원한 후 가족들이 조카를 고통스럽게 죽일 것이라는 망상에 빠져 범행을 한 것으로 나타났다.&lt;br&gt;&lt;br&gt;재판부는 “피고인은 잘못을 인정하고 반성하고 있으며, 우울증 등 심신미약 상태이며 초범이기도 하지만 방어 능력이 전혀 없었던 생후 11개월에 불과한 피해자를 아파트 24층 밖으로 던져서 잔혹하게 살해하는 범행을 저질렀다”며 “여러 사정들을 감안하면 원심이 선고한 형이 너무 무겁거나 가벼워서 부당하다고 볼 수 없다”고 양형 이유를 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[속보] 尹측 "2차 체포영장에도 헌재에 권한쟁의·가처분 신청"</title>
@@ -900,15 +939,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GV7ZE42QP556J6XK6L2TYLOYVQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 강북경찰서./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;무허가 화물 운송이 적발되자 중국어로 말을 맞추던 중국인들이 대화 내용을 알아챈 중국 유학생 출신 경찰관에게 붙잡혔다.&lt;br&gt;&lt;br&gt;서울 강북경찰서는 A(24)씨 등 중국인 2명을 운수사업법 및 출입국관리법 위반 혐의로 입건해 조사 중이라고 9일 밝혔다.&lt;br&gt;&lt;br&gt;강북경찰서 수유3파출소 소속 이기택(37) 경사는 지난달 24일 오전 11시 10분께 ‘허가 없이 돈을 받고 화물 운송이 이뤄지고 있다’는 신고를 받고 출동해 트렁크가 열려있는 A씨의 스타렉스 차량을 발견했다. 현행법은 자가용 화물자동차의 유상 화물 운송·제공을 금하고 있으며, 이를 어길 시 2년 이하의 징역 또는 2000만원 미만의 벌금에 처하고, 6개월 이내 차량 사용이 제한된다.&lt;br&gt;&lt;br&gt;A씨는 “친구 집에 놀러 와 의자를 옮겨줬을 뿐”이라며 한국어로 혐의를 부인했다. 이 경사의 추궁이 계속되자 A씨는 동업자 B(25)씨에게 전화를 걸어 중국어로 “대가 없이 한다고 말하자”고 말을 맞췄다. 그러나 현장에 출동한 이 경사는 대학 재학 중 약 4년 동안 중국에 유학했고 경찰 입직 후에도 4년 6개월간 외사과에서 근무할 만큼 중국어에 능통한 인물이었다.&lt;br&gt;&lt;br&gt;피의자들은 유학비자(D-2)를 받고 한국에 들어와 무허가 화물운송업을 한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>무주덕유산리조트 곤돌라 30분 멈춰…승객들 공중서 ‘벌벌’ </title>
-      <link>https://www.chosun.com/national/incident/2025/01/09/YDBEB6WVGVACJPGFKCGQ2C6AKU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/01/09/YDBEB6WVGVACJPGFKCGQ2C6AKU/</guid>
-      <dc:creator>무주=김정엽 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 09 Jan 2025 04:23:02 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Z2VPNVQMMPKDFUQJJZE7BCOVQI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전북 무주군 설천면 무주덕유산리조트에 있는 관광 곤돌라에서 승객들이 줄을 서고 있는 모습. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;9일 오전 10시 25분쯤 전북 무주군 무주덕유산리조트에서 리조트와 설천봉 사이를 운행하는 곤돌라가 멈춰서는 사고가 발생했다. 이 사고로 승객들은 30분 동안 공중에 갇혔다.&lt;br&gt;&lt;br&gt;무주덕유산리조트 측은 10시 59분쯤 비상 엔진을 가동해 곤돌라에 탑승한 승객들을 하차시켰다.&lt;br&gt;&lt;br&gt;이번 운행 중단으로 다친 사람은 현재까지 없는 것으로 알려졌다. 리조트 측은 피해 승객을 대상으로 병원 이송과 환불 조치 등을 진행할 예정이다. 또 기계 점검을 이유로 곤돌라 운행을 전면 중단했다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>검찰, 오송참사 이범석 청주시장 기소...중대재해처벌법 첫 사례</title>
       <link>https://www.chosun.com/national/regional/chungcheong/2025/01/09/ENYCKWCQ5RHJLLU5ULE3JW4YXE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2025/01/09/ENYCKWCQ5RHJLLU5ULE3JW4YXE/</guid>
@@ -916,15 +946,6 @@
       <description/>
       <pubDate>Thu, 09 Jan 2025 03:06:03 +0000</pubDate>
       <content:encoded>&lt;br/&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Q5NY5ZYRCI2XC7DWHFXWIAU3G4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2023년 7월 16일 미호천 제방 유실로 침수된 충북 청주시 오송읍 궁평2지하차도에서 소방당국이 구조작업을 진행하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;14명이 사망한 청주 오송지하차도 참사와 관련해 이범석 청주시장이 중대재해처벌법 위반 혐의로 불구속 기소됐다. 자치단체장으로 첫 사례다.&lt;br&gt;&lt;br&gt;청주지검은 9일 이범석 청주시장, 이상래 전 행정중심복합도시건설청장을 중대재해처벌법상 중대시민재해 혐의로 불구속 기소했다고 9일 밝혔다.&lt;br&gt;&lt;br&gt;검찰은 이들이 공중이용시설인 미호강 임시제방을 제대로 관리하지 않아 이번 사고를 초래했다고 판단했다.&lt;br&gt;&lt;br&gt;이 시장은 국가하천 관리 위임 주체로서 제방의 유지·보수의 책임이 있는데도 안전관리에 필요한 예산과 인력 현황을 점검하지 않아 담당 공무원들의 위법·부실한 업무수행을 초래한 혐의를 받는다.&lt;br&gt;&lt;br&gt;이 전 청장은 제방 안전점검 주체로서 공사 현장을 중대시민재해 예방 대상에 포함하지 않고, 안전관리 실태를 점검·개선하지 않고 방임한 혐의가 적용됐다.&lt;br&gt;&lt;br&gt;검찰은 시공사 전 대표 A씨와 법인도 같은 혐의로 기소했다.&lt;br&gt;&lt;br&gt;검찰은 “피고인들의 의무 위반이 결합돼 불법·훼손된 임시제방이 부실한 안전관리체계 아래 방치됨으로써 30명(14명 사망·16명 부상)의 사상자를 내는 재해가 초래됐다”고 지적했다.&lt;br&gt;&lt;br&gt;검찰의 기소 결정으로 이범석 청주시장은 2022년 1월 27일부터 중대재해처벌법이 시행된 이래 중대산업재해가 아닌 중대시민재해로 기소되는 첫 사례가 됐다. 또 이상래 전 청장과 시공사 전 대표 또한 첫 사례로 기록됐다.&lt;br&gt;&lt;br&gt;중대시민재해는 공중이용시설 또는 공중교통수단의 설계·제조·설치·관리상 결함으로 사망자가 1명 이상 발생한 재해로, 법 위반시 1년 이상의 징역 또는 10억원 이하의 벌금에 처하도록 한다.&lt;br&gt;&lt;br&gt;검찰은 오송지하차도 관리 주체인 충북도의 수장인 김영환 충북지사는 처벌 대상에서 제외했다.&lt;br&gt;&lt;br&gt;오송 지하차도 참사는 2023년 7월 15일 오전 8시 40분쯤 발생했으며, 청주시 흥덕구 오송읍 궁평2지하차도 인근 미호강 제방이 터지면서 하천이 지하차도로 유입돼 시내버스 등 차량 17대가 침수되고 14명이 숨졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>경찰, ‘尹 체포방해’ 경호처에 26명 신원 확인 요청 공문</title>
-      <link>https://www.chosun.com/national/national_general/2025/01/09/GZXNPXPWEZBIRDH2KPRW2HHFMQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/09/GZXNPXPWEZBIRDH2KPRW2HHFMQ/</guid>
-      <dc:creator>구아모 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 09 Jan 2025 02:48:03 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EAFB2GP5KZ2DSJF5LDJ47X7YOI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;내란수괴 혐의를 받는 윤석열 대통령에 대한 체포영장이 재발부된 가운데 9일 오전 서울 용산구 한남동 대통령 관저에서 차벽을 세우기 위해 동원된 버스 차량 옆으로 경호처 등 관계자들이 이동하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘12·3 비상계엄’을 수사하는 경찰 국가수사본부 특별수사단이 윤석열 대통령에 대한 체포영장 집행당시 이를 저지한 경호처 직원들을 대상으로 추가 피의자 입건을 위한 절차에 나섰다.&lt;br&gt;&lt;br&gt;9일 경찰은 윤석열 대통령에 대한 체포영장 집행 당시의 채증자료 분석을 통해 현장에서 체포를 저지한 경호처 직원 26명에 대한 신원 확인 요청 공문을 경호처로 지난 8일 발송했다고 밝혔다.&lt;br&gt;&lt;br&gt;경찰은 체포 당시 불법행위 가담 정도 및 향후 불법행위 여부를 종합적으로 고려해 입건여부를 결정할 예정이다. 또 채증자료 판독 결과에 따라 추가로 신원확인을 할 계획이다. 경찰은 “공무집행 방해 정황이 있는 사람들 위주로 1차 선별해 공문을 보낸 것”이라고 했다.&lt;br&gt;&lt;br&gt;경찰이 경호처 수뇌부에 대한 압박은 물론 및 현장 직원들까지 압박을 가해 2차 영장 시도를 위한 포석을 깔고 있다는 분석이 나온다. 앞서 경찰은 특수공무집행방해 혐의로 입건된 박종준 경호처장에게 10일 오전 10시까지 경찰에 출석하라는 3차 출석요구서를 발송한 바 있다. 3차 출석요구까지 불응할 경우, 경찰은 그간의 관례에 따라 체포영장을 신청해 박 처장의 신병을 확보할 전망이다.&lt;br&gt;&lt;br&gt;이 밖에도 김성훈 경호처 차장, 이진하 경비안전본부장 등 경호처 간부도 관저 진입을 방해한 혐의로 입건됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>‘송파 무인창고서 수십억 원 절도’ 40대 男...첫 재판서 혐의 일부 인정</title>
@@ -939,15 +960,6 @@
       </media:content>
     </item>
     <item>
-      <title>대법 “‘세월호 7시간’ 청와대 문서 목록 비공개 결정, 다시 판단하라”</title>
-      <link>https://www.chosun.com/national/court_law/2025/01/09/Y7HZH46RZJBS7MEFORK5W7CCBA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/01/09/Y7HZH46RZJBS7MEFORK5W7CCBA/</guid>
-      <dc:creator>박강현 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 09 Jan 2025 02:58:47 +0000</pubDate>
-      <content:encoded>‘세월호 참사’ 당일 박근혜 정부 청와대가 생산하거나 접수한 문서의 목록이 ‘대통령지정기록물’이라며 비공개한 것은 적법하다는 원심 판단에 대해 대법원이 다시 심리해야 한다고 9일 밝혔다. 목록을 당장 공개해야 한다기 보단 적법하게 대통령지정기록물로 지정됐는지 더 살펴봐야 하다는 취지의 판단이다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4YFOMWCKLRHULCJDPPWRDOCXDQ.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초동 대법원. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대법원 3부(주심 이흥구 대법관)는 이날 민주사회를 위한 변호사 모임(민변)의 송기호 변호사가 대통령기록관장을 상대로 낸 정보 비공개 처분 취소 청구 소송 상고심에서 원고 패소로 판결한 2심 판결을 깨고 사건을 서울고법으로 돌려보냈다.&lt;br&gt;&lt;br&gt;대법원은 “원심의 판단에는 이 문서에 대한 대통령지정기록물 지정행위의 적법 여부에 관한 판단을 누락하거나, 필요한 심리를 다하지 않아 판결에 영향을 미친 잘못이 있다”며 “원심은 피고에 대해 이 문서가 대통령기록물법 제17조 제1항 각 호 중 어느 사유에 해당하는지 구체적으로 내용을 살펴보고, 적법하게 대통령지정기록물로 지정되고 보호기간이 정해졌는지에 관한 심리를 거쳐 판단했어야 한다”고 지적했다.&lt;br&gt;&lt;br&gt;앞서 송 변호사는 2017년 5월 대통령기록관장에게 ‘대통령 권한대행이 보호기간을 정해 국가기록원에 이관한 대통령지정기록물 중 세월호 참사가 발생한 2014년 4월 16일 대통령비서실, 대통령경호실, 국가안보실에서 세월호 승객을 구조하기 위한 공무 수행을 위해 생산하거나 접수한 문서의 목록’에 대한 정보 공개를 청구했다.&lt;br&gt;&lt;br&gt;하지만 대통령기록관장은 같은 달 해당 문건이 대통령기록물법 제17조에서 정한 대통령지정기록물로서 정보공개법상 비공개대상 정보에 해당한다며 송 변호사의 청구를 받아들이지 않았다. 이에 송 변호사는 2017년 6월 행정소송을 냈다.&lt;br&gt;&lt;br&gt;1심은 “정보 공개 청구 대상은 대통령비서실 등이 공무 수행을 위해 생산한 문건 목록에 불과하다”면서 “관련 법상 지정기록물의 요건을 갖추지 못했다”고 판단하며 원고 승소로 판결했다.&lt;br&gt;&lt;br&gt;그러나 2심은 “원고가 공개를 구하고 있는 이 문서는 보호기간을 정해 국가기록원에 이관된 ‘대통령지정기록물’임을 전제로 하고 있다”며 “이 사건 청구가 대통령기록물법 제17조 제4항에서 정한 예외적인 경우에 해당한다고 인정할 자료는 없으므로, 대통령기록물법에 따라 원고의 공개 청구를 거부한 피고의 행위에 어떠한 위법이 있다고 할 수 없다”며 판단을 뒤집었다. &lt;br&gt;&lt;br&gt;하지만 이날 대법원은 파기환송 판결을 내리며 다시 살펴봐야 한다고 결론을 내렸다. 대법원 관계자는 “이 판결은 대통령에게 높은 수준의 재량이 인정되는 행위라고 하더라도, 그것이 국회가 제정한 법률에 근거해 이루어지는 행위인 이상 사법심사의 대상에서 제외될 수 없다는 헌법상 권력분립의 원칙을 재확인한 결과”라며 “국민의 재판청구권 보장을 위해 대통령기록물법의 적용범위를 제한했다는 의의도 있다”고 설명했다. &lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>‘신도 성폭행’ JMS 정명석, 징역 17년 확정</title>
       <link>https://www.chosun.com/national/court_law/2025/01/09/7R5TXYJMRRG6VHROT2TQEPIP5I/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/01/09/7R5TXYJMRRG6VHROT2TQEPIP5I/</guid>
@@ -955,15 +967,6 @@
       <description/>
       <pubDate>Thu, 09 Jan 2025 01:20:53 +0000</pubDate>
       <content:encoded>여신도를 성폭행한 혐의 등으로 기소된 JMS(기독교복음선교회) 총재 정명석씨가 대법원에서 징역 17년을 확정받았다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YY6NG2YJ45CLNAXQ3FFQQXJ3IM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;정명석 기독교복음선교회(JMS) 총재. /SNS&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대법원 2부(주심 오경미 대법관)는 준강간, 강제추행 등 혐의로 구속 기소된 정씨에게 징역 17년을 선고한 원심을 9일 확정했다.&lt;br&gt;&lt;br&gt;대법원은 “원심의 유죄판단에 자유심증주의의 한계를 벗어나거나 법리 등을 오해해 판결에 영향을 미친 잘못이 없다”고 밝혔다.&lt;br&gt;&lt;br&gt;정씨는 2018년 2월~2021년 9월 충남 금산군 진산면 월명동 수련원 등에서 17차례에 걸쳐 홍콩 국적의 여신도 메이플(30)씨를 추행·성폭행 하고, 호주 국적의 여신도를 5차례 강제추행한 혐의 등으로 기소됐다.&lt;br&gt;&lt;br&gt;정씨는 자신을 ‘메시아’로 부르며 신도들을 세뇌한 상태에서 마치 종교적 행위인 것처럼 범행을 저지른 것으로 조사됐다.&lt;br&gt;&lt;br&gt;메이플씨가 지난 2022년 3월 기자회견을 하면서 정씨의 성폭행 사실이 세상에 알려졌다. 이듬해 3월 넷플릭스 다큐멘터리 ‘나는 신이다: 신이 배신한 사람들’을 통해 메이플씨의 피해 내용이 공개되면서, 정씨에 대한 사회적 공분이 일어나기도 했다. &lt;br&gt;&lt;br&gt;앞서 1심은 정씨에게 징역 23년을 선고했다. 1심은 “정씨는 스스로를 메시아로 칭하며 절대적인 권력을 갖고 있었으며, 피해자들이 성적 자기결정권을 온전히 행사할 수 없는 상황에서 범행을 저질렀다”고 했다.&lt;br&gt;&lt;br&gt;그러나 2심은 “1심 판결은 대법원 양형위원회의 양형 기준에 따라 산출된 권고형의 합리적 범위를 벗어났다”며 징역 17년으로 감형했다.&lt;br&gt;&lt;br&gt;한편 검찰은 정씨가 다른 여신도 2명, 8명에 대해 성폭행을 저지른 혐의로 각각 추가 기소했다. 두 사건은 병합돼 대전지법에서 1심 재판이 진행 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“대통령 관저 지키자” 2030 ‘백골단’ 등장… 국방부 “수방사 병력 尹 방어땐 임무 취소”</title>
-      <link>https://www.chosun.com/national/national_general/2025/01/09/XNGHGFTVX5H63ODM7DPEB7XEBM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/09/XNGHGFTVX5H63ODM7DPEB7XEBM/</guid>
-      <dc:creator>양지호 기자, 고유찬 기자, 김도연 기자, 양인성 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 08 Jan 2025 15:55:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Q2OM35P3EJCDZICX4APQWQSOQQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;일부 친윤 시위대는 300명가량 윤 대통령 ‘민간 수비대’를 조직했다고 주장했다. /양인성 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;야권에서 윤석열 대통령 ‘도주설’을 제기한 가운데 윤 대통령 추정 인물이 8일 한남동 관저 구역에서 포착됐다. 이날 오후 12시 53분쯤 관저에서 200m가량 떨어진 3차 저지선 인근에서 윤 대통령 추정 인물이 경호원으로 보이는 3~4명과 함께 걸어오는 장면이 오마이TV에서 공개됐다. 경호원들에게 뭔가를 지시하는 손짓을 하는 이 남성은 체격과 신체 비례가 윤 대통령과 흡사했다. 양팔과 다리를 넓게 벌리고 걷는 모습도 평소 윤 대통령 행동과 비슷했다.&lt;br&gt;&lt;br&gt;윤 대통령이 관저 밖으로 모습을 드러냈다면 이 같은 야권의 ‘도주설’을 불식시키고 지지층을 결집시키려는 의도로 해석된다. 민주당 박지원 의원은 페이스북에서 “걸음걸이, 제스처가 딱 윤석열”이라며 “철저히 계산된 행보”라고 했다. 이날 한남동에 집결한 8000여 명(경찰 추산) 친윤 시위대는 “대통령 도주설을 퍼뜨리는 민주당이야말로 반국가 세력”이라고 했다.&lt;br&gt;&lt;br&gt;국방부는 이날 경호처에 파견된 육군 수도방위사령부 예하 55경비단, 33군사경찰대 병력이 윤 대통령 체포 영장 2차 집행 저지에 투입된다면 파견 임무 자체를 취소할 수 있다고 밝혔다. 국방부는 “해당 부대의 주임무는 외곽 지역 경계”라며 “국방부 장관은 원 소속 기관장으로서 위법하거나 부당할 때 해당 부대의 임무를 취소하거나 정지시킬 수 있다”고 했다. 국방부 장관 직무를 대행 중인 김선호 차관은 지난 3일 1차 집행 무산 때 “군 병력 투입이 맞지 않다”고 했었다.&lt;br&gt;&lt;br&gt;경호처에 파견된 수방사 병력은 500여 명이다. 이들은 경호처장 지휘를 받는다. 하지만 국방부는 “해당 부대가 공수처의 체포 영장 집행을 막는 데 운용되는 것은 부대에 부여된 본연의 임무를 벗어나는 것”이라고 했다. 경호처에 서울청 직할 202경비단을 파견한 경찰도 영장 집행 저지에 경찰을 투입하지 않겠다는 입장이다. 순수 경호처 소속 요원은 750여 명으로 알려져 있다.&lt;br&gt;&lt;br&gt;한편 일부 친윤 시위대는 300명가량 윤 대통령 ‘민간 수비대’를 조직했다고 주장했다. 이 중 30명가량은 하얀색 헬멧으로 무장한 ‘백골단’이라고 백서스정책연구소 김정현(42) 소장은 주장했다. 백골단은 모두 2030 남성으로, 민노총의 폭력 집회에 맞서 자체 무장을 했다고 김 소장은 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
