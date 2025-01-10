@@ -13,6 +13,118 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>검찰, “이상직 중진공 이사장 내정 사실, 文에게도 보고”… 조현옥 공소장에 적시</title>
+      <link>https://www.chosun.com/national/court_law/2025/01/10/OKKTHCPDYZHS5DHVZT7FYCBLWQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/01/10/OKKTHCPDYZHS5DHVZT7FYCBLWQ/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 10 Jan 2025 02:57:51 +0000</pubDate>
+      <content:encoded>문재인 정부 청와대가 이상직 전 더불어민주당 의원을 중소벤처기업진흥공단(중진공) 이사장에 임명하는 과정에서 조현옥 전 인사수석이 문 전 대통령에게 이 전 의원의 내정 사실을 보고한 정황을 검찰이 확보한 것으로 10일 전해졌다. 검찰은 지난달 12일 조 전 수석을 불구속 기소하면서 이 전 의원 내정 전후의 상세한 정황을 공소장에 적시했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XMKFNHDK4NIYRBJWKR645NRRSE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;조현옥 전 청와대 인사수석./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;법무부가 이날 국민의힘 유상범 의원실에 제출한 조 전 수석의 공소장에 따르면, 이 전 의원은 지난 2017년 12월 13일 청와대에서 임종석 대통령비서실장 주재로 열린 ‘대통령비서실 인사추천위원회 간담회’에서 차기 중진공 이사장으로 사전 내정됐다. 다만 검찰은 이 전 의원을 내정하라고 지시한 자가 누구인지는 공소장에 적지 않았다. &lt;br&gt;&lt;br&gt;간사로 회의에 참석한 조 전 수석이 그달 16~18일 사이 내정 사실을 문 전 대통령에게 보고했다는 것이 검찰 조사 결과다. 이 무렵 조 전 수석은 이 전 의원에게도 내정 사실을 알려 중진공 이사장 공모 절차에 참여하도록 했다고 한다. 그러면서 조 전 수석은 인사수석실을 통해 중기부 운영지원과 측에 이 전 의원의 내정 사실을 알리고 이사장 선임 절차에 착수하라고 지시한 것으로 조사됐다. 이때 “내정자가 정상적으로 임명될 수 있도록 이 전 의원에게 공모 절차를 안내하고 필요한 자료와 서비스 등을 제공해 달라”고 조 전 수석이 말했다는 것이다.&lt;br&gt;&lt;br&gt;중기부 간부들은 회의를 거쳐 중진공을 통해 이 전 의원에게 자료를 전달하기로 결정한 것으로 조사됐다. 중기부에서 직접 이 전 의원을 지원하는 것은 위험할 수 있다는 이유에서다. 이에 중기부 측은 2017년 12월 26일 중진공 인재경영실에 이 전 의원 내정 사실을 전달하며 이사장 선임 절차를 개시하도록 지시했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AXTXOJRJ4OM2S26E5PY36UO3FM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이상직 전 민주당 의원./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이듬해 1월 10일 중기부 운영지원과 측은 중진공 인재경영실 관계자들을 만나 “이스타항공 측 전화를 잘 받아달라”는 취지로 말하며 “이 전 의원이 중진공 이사장에 지원하면 협조를 했으면 좋겠다”고 말한 것으로 조사됐다. 이에 중진공 측에서 이스타항공 측에 전임 이사장의 직무수행계획서 등을 전달하는 등 이 전 의원의 지원 과정에서 편의를 봐줬다고 검찰은 보고 있다. 조 전 수석은 이러한 진행 상황을 보고 받았다고 한다.&lt;br&gt;&lt;br&gt;중진공으로부터 이사장 내정자 3명에 대한 면접심사 결과를 보고받은 조 전 수석이 통상 절차와 달리 이 전 의원에 대한 인사검증만 진행하도록 요청했다는 것이 검찰 시각이다. 면접심사를 통과한 후보자를 추천받은 뒤 인사검증을 진행해 온 이전과는 다르게, 인사검증부터 먼저 진행하도록 조 전 수석이 중진공 측에 지시했다는 것이다. 2018년 2월 13일 대통령비서실 인사추천위원회에서 이 전 의원은 중진공 이사장으로 최종 확정됐고, 그달 28일 최종 임명됐다.&lt;br&gt;&lt;br&gt;전주지검 형사3부(부장 한연규)는 조 전 수석이 대통령의 인사권을 보좌하는 권한을 남용해 대통령비서실 인사비서관실과 중기부 운영지원과 소속 공무원들을 통해 이 전 의원의 중진공 이사장 임명을 사전 지원한 혐의로 지난달 12일 서울중앙지법에 불구속 기소했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>주말에도 한파…최저 영하 18도 강추위</title>
+      <link>https://www.chosun.com/national/transport-environment/2025/01/10/G4DTBUUS3VAJZCET2WHR4HYLME/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/01/10/G4DTBUUS3VAJZCET2WHR4HYLME/</guid>
+      <dc:creator>박상현 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 10 Jan 2025 02:43:44 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UCUTCIBEQRKDJJNRUB65466OCU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울의 아침 기온이 영하 12도까지 떨어지는 등 전국 대부분 지역에 한파 특보가 내려진 10일 서울 종로구 세종대로 사거리에서 시민들이 두꺼운 옷을 입고 횡단보도를 건너고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;주말에도 한파(寒波)가 이어질 것으로 전망됐다.&lt;br&gt;&lt;br&gt;기상청에 따르면, 주말인 11~12일 우리나라는 고기압 영향권에 들면서 최근 한파를 견인했던 한랭건조한 바람으로부터 벗어날 것으로 예상됐다. 다만 한반도 내륙이 찬 공기로 덮여 있어 추위는 한동안 이어질 것으로 보인다. &lt;br&gt;&lt;br&gt;11일 아침 최저기온은 영하 18도에서 영하 2도, 낮 최고기온은 영하 3도에서 영상 5도로 예보됐다. 12일에도 최저 영하 15도에서 영하 1도, 최고 영하 1도에서 7도로 여전히 춥겠다.&lt;br&gt;&lt;br&gt;강수 구름대를 동반한 기압골의 영향으로 11~12일 충청·호남에는 1~5㎝의 눈이 내리는 곳이 있겠고, 울릉도·독도와 제주에는 5~20㎝의 많은 눈이 내리겠다.&lt;br&gt;&lt;br&gt;최저 영하 15도 내외의 추위는 월요일인 13일까지 이어지다가, 화요일인 14일 기온이 최저 영하 5도 수준까지 10도 가량 급격하게 오르며 잠시 풀릴 것으로 보인다. &lt;br&gt;&lt;br&gt;그러나 15일부터 중국 쪽 대륙고기압이 확장하면서 우리나라로 찬 바람이 불어오기 시작해 하루 만에 기온이 영하 15도 수준으로 다시 크게 떨어질 것으로 예측됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>尹측, 경찰 박종준 조사에 “국가 안보에 중대한 위해 자초”</title>
+      <link>https://www.chosun.com/national/court_law/2025/01/10/25ZWQCGMRRD73E4ZIJBN4DK3ZA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/01/10/25ZWQCGMRRD73E4ZIJBN4DK3ZA/</guid>
+      <dc:creator>유종헌 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 10 Jan 2025 02:27:17 +0000</pubDate>
+      <content:encoded>윤석열 대통령 측은 경찰이 박종준 대통령 경호처장 등 경호처 관계자에게 연이어 출석을 요구하는 데 대해 “국가 안보에 중대한 위해를 자초하는 것”이라고 비판했다.&lt;br&gt;&lt;br&gt;윤갑근 변호사 등 윤 대통령 변호인단은 10일 박 처장이 경찰에 출석한 직후 낸 입장문에서 이 같이 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TPPVPBZY2JDCHHKIR3PBSHJ2GQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령에 대한 고위공직자범죄수사처의 체포영장 집행을 저지한 박종준 대통령 경호처장이 10일 오전 서울 서대문구 국수본으로 출석하고 있다. /조인원 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대리인단은 “작금의 상황은 자신의 임무를 다하는 이들에 대해 그 소임을 저버리도록 하는 것이며 국가안보마저 개의치 않겠다는 비정상적인 행위”라고 주장했다.&lt;br&gt;&lt;br&gt;윤 대통령 측은 “대통령의 절대 안전은 안정적인 국정운영을 위한 필수조건”이라면서 “불법 체포 영장의 집행을 거부하고, 군사상 비밀 장소에 대한 수색을 거부하는 것은 법치주의와 법률에 근거한 당연한 조치”라고 했다. 이어 “경찰은 자신들의 위법한 공무집행에 불구하고 이를 저지한 경호처 간부들에 대한 소환을 통보하고 있다”고 했다.&lt;br&gt;&lt;br&gt;이어 “경호처 간부들에 대한 소환 목적은 경호처 지휘부를 붕괴시켜 불법적으로 대통령을 체포하려는 것”이라며 “수사권을 남용한 꼼수 소환을 중단하라”고 했다.&lt;br&gt;&lt;br&gt;윤 대통령 측은 검찰을 향해서도 “공수처의 불법 영장 집행에 대해 이미 특수공무집방해 등의 혐의로 고발되었음에도 검찰은 공수처 간부를 소환했다는 소식이 전혀 없다”면서 “정치적 중립성과 공정성을 의심받지 않기 위해서라도 즉시 공수처에 대한 소환 일정을 통보해야 할 것”이라고 했다.&lt;br&gt;&lt;br&gt;박 처장은 지난 3일 윤 대통령에 대한 체포 영장 집행을 방해한 혐의로 경찰에 입건됐고, 이날 경찰에 출석해 조사를 받고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>헌재, 尹 탄핵 사건 방청권 ‘현장 배부’ 안한다… 온라인 신청만 가능</title>
+      <link>https://www.chosun.com/national/court_law/2025/01/10/OKTV2LXF7ZEZHLF6DUQ2EHJ7LY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/01/10/OKTV2LXF7ZEZHLF6DUQ2EHJ7LY/</guid>
+      <dc:creator>박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 10 Jan 2025 02:26:44 +0000</pubDate>
+      <content:encoded>헌법재판소는 윤석열 대통령 탄핵 심판 사건 방청권의 현장 선착순 배부를 중단하기로 했다. 대신 온라인으로 방청 신청을 받기로 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IERZOGD2TKZPEDSD3ECBFJDX3I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령 탄핵심판 정식 변론을 닷새 앞둔 9일 오전 서울 종로구 헌법재판소 모습. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;헌재는 10일 “선고·변론기일 당일 현장에서 선착순 배부하는 방청권을 대통령 탄핵 사건에 한해 중단하기로 했다”고 밝혔다. 이는 “최근 탄핵 찬반 집회 등 청사 정문 주변에 극심한 혼잡이 발생해 시민 안전을 위해 단행한 조치”라고 설명했다.&lt;br&gt;&lt;br&gt;앞으로 방청을 원하는 시민은 온라인 신청을 통해 좌석을 배부받을 수 있다. 윤 대통령 탄핵 심판은 방청석 104석 규모의 대심판정에서 진행된다. 헌재는 취재진, 사건 관계자에게 배분된 좌석 외에 남은 좌석에 한해 온라인 신청을 받을 계획이다. 헌재 홈페이지에서 방청을 신청하면, 변론 전날 오후 5시에 추첨 결과가 문자로 전송된다.&lt;br&gt;&lt;br&gt;헌재는 윤 대통령 탄핵 심판 외 다른 사건들의 방청권 현장 배부는 기존대로 진행한다고 밝혔다. 재판 방청을 원하는 시민들은 변론 시작 1시간 전부터 정문에서 방청권을 선착순 배부 받을 수 있다.&lt;br&gt;&lt;br&gt;윤 대통령 탄핵 심판 사건의 첫 정식 변론 기일은 오는 14일 열린다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>경찰 출석한 경호처장 “정부기관 간 유혈 사태 안 돼”</title>
+      <link>https://www.chosun.com/national/2025/01/10/OJSDJVOLMBFOHN36XVME4LNMYM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2025/01/10/OJSDJVOLMBFOHN36XVME4LNMYM/</guid>
+      <dc:creator>주형식 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 10 Jan 2025 01:09:46 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TDZAMQ3IRNOGRD37ZHMMFG2O6Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령에 대한 고위공직자범죄수사처의 체포영장 집행을 저지한 박종준 대통령 경호처장이 10일 오전 서울 서대문구 국가수사본부로 출석하고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 3일 윤석열 대통령에 대한 체포 영장 집행을 방해한 혐의(특수공무집행방해)로 입건된 박종준 경호처장이 10일 경찰에 출석했다. 앞서 두 차례 출석에 불응했던 박 처장은 이날 세 번째 출석 요구에 응했다.&lt;br&gt;&lt;br&gt;박 처장은 이날 경찰에 출석하면서 “우선 현재 정부기관들끼리 충돌하고 대치하는 상황에 대해서 많은 국민들께서 걱정이 크실것으로 알고 있다”고 했다.&lt;br&gt;&lt;br&gt;그러면서 “현직 대통령의 신분에 걸맞은 수사절차가 진행되어야 한다고 생각한다”며 “현재와 같은 체포영장 집행 방식, 절차는 아니라고 생각한다. 우리나라 국격에 맞게 대통령에게 적정한 수사절차가 진행되었으면 하는 바람”이라고 밝혔다.&lt;br&gt;&lt;br&gt;박 처장은 “저는 어떠한 경우에도 물리적인 충돌이나 유혈사태가 일어나면 안된다는 생각으로 이런 사태를 방지하기 위해서 그동안 최상목 대행에게 여러 차례 전화를 드려서 정부기관 간 중재를 건의드렸고, 대통령 변호인단에게도 제3의 대안을 요청한 바가 있다”며 “그러나 그에 맞는 답을 얻지는 못했다”고 했다.&lt;br&gt;&lt;br&gt;그는 그동안 경찰 출석 요구에 불응했던 이유에 대해 “경찰 조사에는 처음부터 응하기로 마음 먹었고 다만 변호인단 선임이 다소 늦어졌다”고 했다.&lt;br&gt;&lt;br&gt;“경찰이 친정인 제가 경찰의 소환을 거부하고 수사를 받지 않는다면 국민 누가 경찰의 수사를 받겠냐”며 “수사기관으로서의 경찰 위상을 저는 존중해야 한다고 생각한다”고 밝혔다. 박 전 차장은 충남 공주 출신으로 경찰대 행정학과(2기)를 수석 졸업했고, 제29회 행정고시에 최연소로 합격했다. 서울지방경찰청 수사부장과 충남지방경찰청장, 경찰청 기획조정관, 경찰청 차장(치안정감)을 거쳤고 박근혜 정부 때인 2013년 청와대 경호처 차장에 임명됐다. 박 전 차장은 2012년 19대 총선 때 새누리당 후보로 공주 선거구에 출마했고, 2016년 20대 총선 때는 새누리당 후보로 세종시에 출마한 적이 있다.&lt;br&gt;&lt;br&gt;그는 특수공무집행방해 혐의에 대해 인정하냐는 질문에 “구체적인 내용은 제가 수사과정에서 상세히 소명하겠다”고 답했다.&lt;br&gt;&lt;br&gt;윤 대통령에 대한 체포 영장이 발부된 상황에서 공수처, 경찰의 관저 진입을 막은 이유에 대해선 “여러가지로 법리적으로 이론이 있기 때문에 수사과정에서 말씀드리겠다”고 했다.&lt;br&gt;&lt;br&gt;윤 대통령 측에서 체포영장 이의신청을 했지만 기각됐다는 취재진 지적엔 “3일 (윤 대통령에 대한) 체포 영장 집행 후 법원이 이의신청(5일)을 기각했다. 그때(3일 체포 영장 집행)까지는 그런 내용이 없었다”고 답했다.&lt;br&gt;&lt;br&gt;윤 대통령에 대한 체포영장이 적법한지를 묻는 질문엔 “수사 과정에서 서로 법리적인 논쟁이 있을 수 있다고 생각한다”고 박 처장은 밝혔다.&lt;br&gt;&lt;br&gt;경찰의 체포 영장 신청 가능성을 고려해 이날 출석한 것 아니냐는 질문에는 “그것은 상관없다. 처음부터 경찰 소환에 응해서 제가 조사에 응하려고 했었고, 소환장이 사건 바로 다음날에 1차가 있었고 변호인을 선임할 시간이 없었다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/J4OEDNWVC5FXLICQAQIQKE4DHQ.JPG?width=4077&amp;height=2293&amp;auth=8a50e4b9ca9999813ac9c6b02a9c0a6cae88575ee8a46162f82e0beae9055820&amp;smart=true" type="image/jpeg" height="2293" width="4077">
+        <media:description type="plain">(서울=뉴스1) 이승배 기자 = 윤석열 대통령에 대한 체포영장 집행을 방해한 혐의(특수공무집행방해)로 입건된 박종준 대통령 경호처장이 10일 오전 서울 서대문구 국가수사본부로 출석하고 있다. (공동취재) 2025.1.10/뉴스1</media:description>
+        <media:credit role="author" scheme="urn:ebu">(서울=뉴스1) 이승배 기자</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>김용현 前국방 측 “내란죄 수사가 실질적 내란…공소장은 오답노트”</title>
+      <link>https://www.chosun.com/national/court_law/2025/01/10/VIG7SISG75CE3P3NSCSXILYYFA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/01/10/VIG7SISG75CE3P3NSCSXILYYFA/</guid>
+      <dc:creator>최하연 기자, 이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 10 Jan 2025 02:18:15 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AAVVN4NWWVOL7MGOATCNZRFHOY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김용현 전 국방부 장관 변호인단인 유승수, 이하상(왼쪽) 변호사가 10일 오전 서울 서초구 한 공유오피스에서 기자간딤회를 하고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김용현 전 국방부 장관 변호인단은 10일 기자회견을 열고 “내란죄 수사가 윤석열 대통령을 정치적으로 제거하려는 정치세력이 주도한 실질적 내란”이라며 “검찰의 공소장은 내란의 주체를 윤 대통령이라고 잘못 기재한 오답노트일 뿐”이라고 주장했다.&lt;br&gt;&lt;br&gt;김 전 장관을 변호하는 유승수 변호사는 “전체 83쪽인 공소장 내용 중 단 1페이지인 직권남용 관련 공소사실만이 검찰에 수사 권한이 있는 부분”이라며 “억지로 직권남용 공소사실을 끼워 넣어 전체 수사의 불법을 은폐하고 있다”고 주장했다. 그러면서 “검찰 공소사실에 대통령이 수십차례 등장하는 것은 김 전 장관의 혐의에 대한 증거가 없음을 의미한다”며 “대통령에 대한 피의사실을 공표하고 누명을 씌워 여론재판을 하려는 치졸한 의도”라고 반발했다.&lt;br&gt;&lt;br&gt;유 변호사는 검찰의 공소사실에 모순이 있다고도 주장했다. 체포조를 언급하지만, 체포 조직인 합동수사본부가 구성되지 않았다고 검찰은 공소사실에서 자백하고 있다는 것이다. 유 변호사는 “대통령의 발포지시가 있었던 듯 기재했지만 실탄은 휴대하지 않고 병력이 이동했다며 앞뒤가 모순되는 내용을 기재했다”고 했다.&lt;br&gt;&lt;br&gt;검찰이 김 전 장관을 긴급체포한 데 대해 유 변호사는 “수사기관에 임의 출석하면 출석한 기회에 수사기관이 영장 없이 체포하고, 이후 법원은 체포의 불법성을 감싸주듯 예외 없이 구속영장을 발부하고 있다”며 “특정 정치세력의 지휘를 받아 법원과 수사기관이 결탁해 일사불란하게 움직이고 있는 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>﻿개그맨 안상태, 층간 소음 논란 4년 후 근황 “1년 수익 32만원”</title>
+      <link>https://www.chosun.com/national/people/2025/01/10/CDZRIES34JE5HBA35VM2AHXA34/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/01/10/CDZRIES34JE5HBA35VM2AHXA34/</guid>
+      <dc:creator>이가영 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 10 Jan 2025 01:34:09 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/E4NKAMJ5JJFX3PTNBQCMM4FPEQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;개그맨 안상태. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;4년 전 층간 소음 가해자로 지목된 뒤 한동안 모습을 감췄던 개그맨 안상태가 영화감독으로 변신한 근황을 전했다. &lt;br&gt;&lt;br&gt;9일 방송된 MBN ‘특종세상’에 출연한 안상태는 과거 층간 소음 논란에 대해 “그때 난리 났었다. 제 기억에는 집을 못 나갈 정도로 죄인이 됐었다”며 “꼼짝없이 (아랫집) 그분 말이 맞는 것처럼 됐었다”고 말했다. 이어 “’신체 한 부분을 잘라라’ 등 딸에 대한 잔인한 악플들이 있었다”며 “마음이 굉장히 아팠다. 밥도 못 먹으러 나가겠더라”고 당시를 회상했다. &lt;br&gt;&lt;br&gt;안상태는 “법정에서 (아랫집) 그분을 만나서 ‘한 번도 저를 본 적이 없는데 왜 그런 글을 쓰셨냐?’고 했더니 ‘애 키우느라 스트레스 때문에 그랬다’고 하더라”며 억울한 마음을 표현했다. &lt;br&gt;&lt;br&gt;안상태는 현재 단편영화를 제작하고 있다고 했다. 감독, 각본, 촬영, 조명, 편집, 소품 담당은 물론 연기까지 직접 했다. 적은 제작비 탓에 배우 섭외가 어려워 개그맨 동료들이 출연하며 도움을 주고 있었다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FCMBT6VSZJ5LCUC36ZEZ52T2BY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;개그맨 안상태가 영화 제작으로 얻은 1년 수익이 32만원이라고 말했다. /MBN&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;안상태는 영화로 인한 수익을 묻자 “1년 수익이 32만원”이라고 말하며 쑥스러운 듯 웃었다. 한 달에 2만8000원 정도다. 안상태는 “(영화를) 만들고 나서 (관객들이) 많이 보지는 않는데 제가 상상한 이야기를 공감해 주고 같이 이야기해 주는 게 되게 행복하더라. 그 기분에 하는 것 같다”고 했다. &lt;br&gt;&lt;br&gt;앞서 2021년 1월 안상태의 아랫집에 살던 A씨는 온라인 커뮤니티에 “밤낮 구분 없이 울려대는 물건 던지는 소리, 뛰는 소리가 들려 스트레스를 많이 받았다”며 “정중하게 아기가 뛰냐고 물었는데 윗집에서는 ‘이렇게 찾아오는 건 불법이다’ ‘그럼 아이를 묶어놓냐’고 대응했다”고 주장해 논란이 일었다.&lt;br&gt;&lt;br&gt;비판이 쏟아지자 집을 이사한 안상태는 그해 4월 A씨를 상대로 소송을 제기했다. 안상태 측은 “해당 아파트에서 5년 넘게 거주하는 동안 단 한 번도 아랫집으로부터 층간 소음 항의를 받은 적 없었다”며 “아랫집 분의 폭로는 대부분 허위다. 안상태와 가족은 처음 겪는 엄청난 비난과 욕설 때문에 극심한 두려움과 고통 속에 힘든 날을 보내고 있다”고 했다. &lt;br&gt;&lt;br&gt;2022년 6월 안상태 측은 “1년 넘게 진행된 민사소송에서 진실이 밝혀졌다”며 “층간 소음 피해자라고 주장하며 인터넷에 글을 게시한 A씨는 안상태가 층간 소음 방지를 위해 노력한 사실을 인정하고 정중히 사과했으며 자신이 작성한 글까지 모두 삭제했다”고 밝혔다. 이어 “이로써 그간 잘못 알려졌던 사실관계가 바로잡혔다”며 “폭로 글에 대한 사실을 제대로 알지 못하고 무분별하게 안상태와 가족을 모욕하는 댓글을 단 자들에 대해서는 모두 벌금형 등 처벌이 내려졌다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>환자 몸 위에 올라타 폭행한 요양보호사, 징역 8개월 ‘법정 구속’</title>
+      <link>https://www.chosun.com/national/court_law/2025/01/10/VSUIRBXVKVDEZHQFECT7PB77BE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/01/10/VSUIRBXVKVDEZHQFECT7PB77BE/</guid>
+      <dc:creator>인천=이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 10 Jan 2025 01:41:54 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SKAPAZQXV5KJNHCV3TRZZGHAV4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원 로고. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;장애가 있는 환자를 폭행한 30대 요양보호사가 실형을 선고받고 법정 구속됐다.&lt;br&gt;&lt;br&gt;인천지법 형사 5단독 홍준서 판사는 10일 장애인복지법 위반 등 혐의로 기소된 요양보호사 A(37)씨에 대해 징역 8개월과 벌금 300만원을 선고하고, 법정 구속했다.&lt;br&gt;&lt;br&gt;홍 판사는 “실형을 선고해 법정구속 한다”며 “도주할 우려가 있다는 게 구속 사유”라고 했다.&lt;br&gt;&lt;br&gt;A씨는 지난 2023년 1월 인천의 한 정신병원에서 지적장애가 있는 50대 여성 B씨를 여러 차례 폭행한 혐의로 기소됐다.&lt;br&gt;&lt;br&gt;병원 감시카메라(CCTV) 영상엔 A씨가 B씨 몸 위에 올라타 폭행하고, 복부를 발로 걷어차거나 빗자루로 목을 누르는 모습이 담긴 것으로 조사됐다. A씨는 B씨가 자신의 통제에 따르지 않는다는 이유로 폭행한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;B씨 가족은 부실한 관리에 책임이 있다며 병원 측도 함께 고소했으나 검찰은 불기소 처분했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>정부, 제주항공 참사 유가족 긴급생계비 300만원 오늘 지급</title>
+      <link>https://www.chosun.com/national/national_general/2025/01/10/C45L6ETG7ZHWFDMGFSQR73MJOM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/10/C45L6ETG7ZHWFDMGFSQR73MJOM/</guid>
+      <dc:creator>박진성 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 10 Jan 2025 01:26:23 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AYBCOKGFPH3ZSICAB4Q2HIM23I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;10일 오전 고기동 행정안전부장관 직무대행이 제주항공 여객기 사고 중앙안전재난안전본부회의를 주재하며 발언하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정부가 제주항공 참사 유가족들에 긴급생계비 300만원을 지급한다. 사고 원인 중 하나로 지목되고 있는 둔덕형 방위각 시설(로컬라이저)이 설치된 공항에는 운항 경험이 많은 조종사 위주로 운항하도록 할 방침이다.&lt;br&gt;&lt;br&gt;고기동 행정안전부 장관 직무대행은 10일 정부세종청사에서 ‘제주항공 여객기 사고 중앙재난안전대책본부 회의’를 열고 이같이 밝혔다.&lt;br&gt;&lt;br&gt;고 대행은 “공항과 항공사에 대한 특별안전점검을 통해 개선과제를 도출하고 가능한 것은 즉시 조치하겠다”며 “전국 13개 공항의 항행 안전시설에 대한 특별점검을 지난 8일 완료해 점검결과를 분석하고 있다”고 말했다. &lt;br&gt;&lt;br&gt;그러면서 “우선 국내 11개 모든 항공사를 대상으로 둔덕 형태의 로컬라이저가 설치된 공항에 취항하는 경우, 운항 경험이 많은 조종사 위주로 운항하고 운항 시마다 특별교육을 하도록 긴급 안전조치를 시행했다”며 “구조적인 개선방안도 조속히 마련토록 하겠다”고 말했다. 콘크리트 둔덕 형태의 로컬라이저 구조물은 제주항공 여객기 사고 피해를 키운 원인으로 지목된 시설이다. &lt;br&gt;&lt;br&gt;유가족 생계비 지원도 시작한다. 고 대행은 제주항공 참사 유가족 관련해 “국민 성금 모금 기간이 끝나지 않았지만, 오늘 일차적으로 긴급생계비 300만원을 지급한다”고 밝혔다. 이어 고 대행은 “긴급돌봄은 개별적인 상황을 고려해 도움이 될 수 있도록 지원 한도와 대상을 확대해 탄력적으로 적용하고 있다”며 “유가족별로 지정된 전담 공무원을 유지하며 필요한 사항을 세심히 파악해 지원하고 있다”고 말했다. &lt;br&gt;&lt;br&gt;또, 기본적으로 6개월간 보관되던 유류품에 대해서는 유가족 요청이 있을 경우 이를 반영해 보관 기간을 연장하기로 했다. 이 외에도 보험, 상속 등 유가족 지원 사항을 정리한 안내서를 11일 유가족 총회에서 배부할 계획이다. &lt;br&gt;&lt;br&gt;사고 원인을 규명하기 위한 조사도 진행 중이다. 고 대행은 “사고조사위원회는 사고 현장에서 엔진, 착륙장치, 조종계통과 전자계통의 부품 등 사고 항공기 잔해를 확보해 분석하고 있다”며 “비행기록장치(FDR)는 미국 교통안전위원회와 함께 어제부터 자료를 추출하고 있다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[신문은 선생님] [동물 이야기] 차 막아서서 과일 받아가는 ‘톨게이트 코끼리’… 종교 의식에도 동원된대요</title>
+      <link>https://www.chosun.com/national/nie/2025/01/08/T77IXHZTDZERRPWLAPVHXDFVJY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/2025/01/08/T77IXHZTDZERRPWLAPVHXDFVJY/</guid>
+      <dc:creator>정지섭 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 07 Jan 2025 15:31:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/W6OW5LF73FBFJHCVP5TG54K544.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;스리랑카 남부 카타라가마 인근 도로에서 한 스리랑카코끼리가 버스에 다가가 코를 들고 있어요. 이 코끼리는 버스를 막았다가 사람들이 먹을 걸 주면 길을 비켜줘 ‘톨게이트 코끼리’라는 별명을 얻었답니다. /AFP 연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;요즘 인도양의 섬나라 스리랑카에서는 독특한 습성을 가진 코끼리가 화제를 모으고 있어요. 차도를 막아서고 있다가 운전자나 승객이 주는 과일을 받은 다음에 비켜줘요. 그래서 이 코끼리에게는 ‘톨게이트(요금소) 코끼리’라는 별명까지 붙었어요.&lt;br&gt;&lt;br&gt;코끼리는 서식 지역에 따라 크게 아프리카코끼리와 아시아코끼리로 나뉘어요. 동남아시아·남아시아에 사는 아시아코끼리는 아프리카코끼리보다 덩치도 왜소하고, 귀도 작고, 성질도 온순한 게 특징인데요. 아시아코끼리는 다시 인도코끼리·수마트라코끼리·스리랑카코끼리로 나뉜답니다.&lt;br&gt;&lt;br&gt;이 중에 가장 덩치가 큰 종류가 스리랑카코끼리예요. 전 세계 야생 코끼리 5만여 마리 중 7000여 마리가 스리랑카코끼리예요. 지도를 보면 알겠지만 스리랑카는 면적이 한반도의 3분의 1도 되지 않는 작은 섬이랍니다. 그래서 스리랑카는 아시아 다른 지역보다 코끼리 서식 밀도가 월등히 높아요.&lt;br&gt;&lt;br&gt;그 때문에 ‘톨게이트 코끼리’처럼 사람과 코끼리가 마주치는 일이 종종 일어난답니다. 스리랑카코끼리는 다 자란 수컷을 기준으로 어깨높이는 3.5m이고, 몸무게는 5500㎏까지 나간답니다. 아프리카코끼리만큼은 아니어도 엄청난 거구죠.&lt;br&gt;&lt;br&gt;스리랑카코끼리는 아시아코끼리 중에서 가장 짙은 피부색을 하고 있어요. 그런데 귀와 코, 얼굴, 배 부분에 군데군데 분홍색 또는 흰색 피부를 볼 수 있죠. 피부색이 탈색된 건데요. 유전자와 영양 상태, 서식지 등 여러 가지 요소 때문에 이런 피부 색깔이 나타나는 것으로 추정되고 있어요.&lt;br&gt;&lt;br&gt;코끼리 하면 떠오르는 게 기다랗게 뻗은 엄니(상아)인데요. 그런데 스리랑카코끼리는 암컷, 수컷 모두 엄니를 보기가 어려워요. 이들이 이렇게 된 건 인간의 영향이 있다고 얘기해요. 엄니를 노린 인간의 사냥을 피하려다 보니 아예 엄니를 없애는 쪽으로 진화를 하게 됐다는 것이죠.&lt;br&gt;&lt;br&gt;여느 코끼리 무리와 마찬가지로 스리랑카코끼리도 나이 많고 경험이 풍부한 암컷이 다른 암컷과 어린 새끼들로 구성된 무리를 이끌어요. 여덟 살이 넘어 성숙한 수컷들은 따로 무리를 이뤄서 살고요.&lt;br&gt;&lt;br&gt;코끼리는 스리랑카 문화와 역사에서도 상당히 중요하게 여겨져요. 불교나 힌두교 의식 때 화려하게 치장을 한 코끼리가 등장하기도 하죠. 밀렵으로 숫자가 급감하자 스리랑카 정부는 코끼리를 죽일 경우 최대 사형에 처할 수 있도록 하는 등 코끼리 보호에 적극적으로 나섰어요.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/P6Y2Y2FZYNBGZLSHUASMRUMDNY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울대공원 동물원에 살고있는 스리랑카 코끼리 '희망이'예요. /서울대공원 동물원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;스리랑카코끼리는 우리나라와도 아주 인연이 깊답니다. 2010년 스리랑카 정부에서 기증한 암컷 ‘수겔라’와 수컷 ‘가자바’가 경기도 과천 서울대공원에 들어왔어요. 그로부터 6년 뒤 둘 사이에서 아기 코끼리 ‘희망이’가 태어났어요. 무려 22년 만에 우리나라 동물원에서 태어난 코끼리였답니다. 아빠 가자바는 2018년 안타깝게도 세상을 떠났지만 희망이는 엄마 수겔라의 보살핌을 받으며 무럭무럭 자라고 있답니다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘국가중요시설 최고등급’ 제주공항 몰래 드론 촬영한 중국인</title>
+      <link>https://www.chosun.com/national/regional/2025/01/10/BUFWOOU2V5CJXHGQD6S3JUKROY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/01/10/BUFWOOU2V5CJXHGQD6S3JUKROY/</guid>
+      <dc:creator>제주=오재용 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 10 Jan 2025 01:00:18 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2RM5MDOSZFIXJE6D6OEL4V5KYU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;제주지역 기상이 악화한 지난 9일 오후 제주국제공항에 강한 눈이 내리자 활주로 노면 결빙 상태를 파악하기 위해 한국공항공사  차량이 이동하고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국가중요시설 최고 등급인 제주국제공항 주변에 드론을 띄워 무단 촬영한 중국인이 경찰에 붙잡혔다. &lt;br&gt;&lt;br&gt;제주경찰청은 항공안전법 위반 혐의로 중국인 관광객 A씨를 붙잡아 조사하고 있다고 10일 밝혔다. A씨는 지난달 31일 낮 제주공항 활주로 약 2㎞ 외곽에서 승인받지 않은 드론을 띄워 공항을 촬영한 혐의를 받는다.&lt;br&gt;&lt;br&gt;경찰은 국정원, 한국공항공사 등과 함께 A씨를 상대로 테러나 대공 용의점이 있는지 등에 대해 수사하고 있다. 국가보안 ‘가급’ 시설인 제주공항 반경 9.3㎞ 이내 지역은 드론 비행 금지 구역이다.&lt;br&gt;&lt;br&gt;지난해에도 제주공항에서 드론으로 의심되는 물체가 발견되면서 항공기 운항이 중단돼 공항 이용객들이 불편을 겪기도 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>온라인 배송 닭가슴살 샐러드 13종서 대장균 검출</title>
+      <link>https://www.chosun.com/national/national_general/2025/01/10/4JPGBXEVJZEMZFD65L3EKYLRPY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/10/4JPGBXEVJZEMZFD65L3EKYLRPY/</guid>
+      <dc:creator>최혜승 기자 </dc:creator>
+      <description/>
+      <pubDate>Fri, 10 Jan 2025 00:46:52 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IR6DWRKGGVKGZJAZMXZPUAIYTM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;9일 오전 서울 송파구 한국소비자원 서울강원지원에서 열린 간편식 샐러드 안전실태조사 결과 브리핑에서 관계자가 부적합 제품을 취재진에게 설명하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;온라인에서 판매되는 정기 배송 닭가슴살 샐러드 제품 13개에서 기준치를 초과한 대장균이 검출됐다. 저염·저열량을 강조한 일부 제품도 기준에 맞지 않는 것으로 나타났다.&lt;br&gt;&lt;br&gt;한국소비자원은 온라인에서 정기 배송 닭가슴살 샐러드 30종을 작년 7월 22일부터 8월 21일까지 배송받아 안전 실태를 조사한 결과 13개(43.3%) 제품에서 기준치를 초과한 대장균이 검출됐다고 9일 밝혔다.&lt;br&gt;&lt;br&gt;대장균이 검출된 닭가슴살 샐러드를 판매한 업체는 딜리셔스샐러드, 마법 같은 샐러드, 모닝푸드, 바스락다이어트, 바오프레쉬, 비티랩, 샐그램, 샐러드유, 슬림쿡, 윤식단, 잇라이킷, 팔팔식단연구소, 프레시코드 등 13개다. 딜리셔스샐러드 등 4개 업체는 해당 상품 판매를 중단했고, 9개 업체는 품질을 개선하겠다는 입장을 밝혔다.&lt;br&gt;&lt;br&gt;살모넬라와 장출혈성대장균, 황색포도상구균 등 식중독균은 전 제품에서 검출되지 않았다.&lt;br&gt;&lt;br&gt;소비자원은 “닭가슴살 샐러드는 별도로 조리하지 않고 먹는 식품으로, 가공하지 않은 농산물 재료의 비중이 높아 철저한 위생 관리가 필요하다”고 했다.&lt;br&gt;&lt;br&gt;저염식과 저열량 등 특정 영양 성분을 강조한 제품 6개 중 5개는 표시 기준에 부적합했다. 식품 등의 표시기준에 따르면 저염식은 소금 305㎎/100g 미만, 저열량은 40㎉/100g인 경우를 뜻하는데 부적합 판정을 받은 5개 제품 모두 이 기준을 초과했다.&lt;br&gt;&lt;br&gt;조사 대상 30개 제품 중 영양 성분을 표시한 17개 제품의 영양 성분 함량을 조사한 결과, 6개 제품이 기준에서 정한 오차 범위를 벗어났다. 특히 지방은 표시 대비 최대 185% 많이 함유된 것으로 나타났다.&lt;br&gt;&lt;br&gt;아울러 30개 중 12개 제품은 ‘당뇨 등 만성 질환 예방’ ‘체중 감량 목적’ ‘15㎏ 감량’ 등 소비자가 오인할 수 있는 광고를 온라인 판매 페이지에 게시해 개선이 필요했다. 식품 등의 표시·광고에 관한 법률은 식품에 질병 예방의 효과가 있다고 오인되거나 건강기능식품과 혼동될 수 있는 표시 및 광고를 금지하고 있다.&lt;br&gt;&lt;br&gt;소비자원 관계자는 “대장균이 검출된 제품과 영양 성분 등 표시·광고가 부적합한 제품을 제조·판매한 사업자에게 시정 권고를 했고, 모두 판매 중단·품질 및 표시 개선 등을 완료했다”며 “소비자들은 꼼꼼하게 영양 성분 함량을 확인하고 온라인 구입 시 배송받은 제품은 반드시 냉장 보관해 가급적 빠른 시일 내 섭취할 것을 당부드린다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>“딸이 납치됐다”…편의점 점주가 받은 의문의 쪽지</title>
       <link>https://www.chosun.com/national/national_general/2025/01/10/RLY6BQWBHFDZZGAZQSBQTRFJSY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/10/RLY6BQWBHFDZZGAZQSBQTRFJSY/</guid>
@@ -779,19 +891,6 @@
       </media:content>
     </item>
     <item>
-      <title>강기정 광주시장 “제주항공 참사 특별법·피해자 치유공간 추진”</title>
-      <link>https://www.chosun.com/national/national_general/2025/01/09/4KE7Y2LALVEXJMI6WESA5IWKAQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/09/4KE7Y2LALVEXJMI6WESA5IWKAQ/</guid>
-      <dc:creator>광주광역시=진창일 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 09 Jan 2025 04:33:30 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JBKPIELMKN2OX7GJM5DS6USDCE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;7일 오후 전남 무안국제공항 참사 현장에서 경찰과 군인들이 수색 작업을 펼치고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;광주광역시가 ‘제주항공 참사’ 희생자와 유가족들의 아픔을 달래기 위한 특별법 마련과 자조(自助) 공간 조성에 나선다.&lt;br&gt;&lt;br&gt;강기정 광주시장은 9일 “참사 추모와 피해 지원의 근거가 될 제주항공 여객기 참사 피해 지원 특별법에 담길 구체적인 내용을 준비하고 있다”고 밝혔다.&lt;br&gt;&lt;br&gt;광주시가 마련하고 있는 제주항공 참사 특별법에는 유가족 등 참사 피해자의 일상 회복을 위한 치유 지원, 진상규명과 대책 마련을 위한 내용이 담길 전망이다.&lt;br&gt;&lt;br&gt;광주시는 참사 피해자들이 심리적 안정을 찾고 서로를 치유해나갈 자조공간은 참사가 일어난 날을 기리기 위한 뜻을 담은 ‘12·29 마음센터’(가칭)라는 이름으로 동구 금남로 전일빌딩245 공간에 마련하는 방안을 유가족과 협의하고 있다.&lt;br&gt;&lt;br&gt;광주시는 이번 참사로 타격을 입은 지역 관광업계를 대상으로 피해 접수창구를 마련하고 50억원 규모의 소상공인 특례 보증도 지원한다. 시는 지역 관광업체들이 모집해 온 무안국제공항 출발 여행상품 취소 사례가 잇따르는 것으로 잠정 파악하고 있다.&lt;br&gt;&lt;br&gt;강 시장은 “제가 생각하는 애도는 참사 재발 방지를 위해 노력하고 유가족과 심리·경제적 타격을 입은 시민들의 일상 회복을 돕는 것”이라며 “유가족과 시민을 위로하기 위한 추모와 치유의 문화제도 유가족과 협의해 준비할 생각이다”라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/JBKPIELMKN2OX7GJM5DS6USDCE.jpg?width=6000&amp;height=4000&amp;auth=6f9086fd34ffdf9ba0810c386bb946539725af8543db2c04cc8d8a3ed180ef29&amp;smart=true" type="image/jpeg" height="4000" width="6000">
-        <media:description type="plain">7일 오후 전남 무안국제공항 참사 현장에서 경찰과 군인들이 수색 작업을 펼치고 있다. 2025.1.7/뉴스1 ⓒ News1 김태성 기자</media:description>
-        <media:credit role="author" scheme="urn:ebu">뉴스1 ⓒ News1 김태성 기자</media:credit>
-      </media:content>
-    </item>
-    <item>
       <title>중국어로 말 맞추다...中 유학파 경찰에 덜미</title>
       <link>https://www.chosun.com/national/incident/2025/01/09/NGPAKZZT7ZASNOYRBHY24WTUVM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/01/09/NGPAKZZT7ZASNOYRBHY24WTUVM/</guid>
@@ -810,33 +909,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Z2VPNVQMMPKDFUQJJZE7BCOVQI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전북 무주군 설천면 무주덕유산리조트에 있는 관광 곤돌라에서 승객들이 줄을 서고 있는 모습. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;9일 오전 10시 25분쯤 전북 무주군 무주덕유산리조트에서 리조트와 설천봉 사이를 운행하는 곤돌라가 멈춰서는 사고가 발생했다. 이 사고로 승객들은 30분 동안 공중에 갇혔다.&lt;br&gt;&lt;br&gt;무주덕유산리조트 측은 10시 59분쯤 비상 엔진을 가동해 곤돌라에 탑승한 승객들을 하차시켰다.&lt;br&gt;&lt;br&gt;이번 운행 중단으로 다친 사람은 현재까지 없는 것으로 알려졌다. 리조트 측은 피해 승객을 대상으로 병원 이송과 환불 조치 등을 진행할 예정이다. 또 기계 점검을 이유로 곤돌라 운행을 전면 중단했다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>모르는 여성 성폭행하려다 흉기로 찌른 20대 군인 검거</title>
-      <link>https://www.chosun.com/national/regional/2025/01/09/7GLLJMFC5VDJPDM5RDQ7RGRKQE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/01/09/7GLLJMFC5VDJPDM5RDQ7RGRKQE/</guid>
-      <dc:creator>대전=우정식 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 09 Jan 2025 03:57:45 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4ROETED57FDFPGUG5CSYDINBNU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대전경찰청 전경. /조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;일면식 없던 여성을 성폭행하려다 실패하자 흉기로 찌른 뒤 도망친 현역 군인이 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;대전경찰청은 성폭력범죄의 처벌 등에 관한 특례법 위반(강간 등 상해) 혐의로 20대 군인 A씨를 붙잡아 조사하고 있다고 9일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 8일 오후 3시 30분쯤 대전 중구 문화동의 한 건물 여자 화장실에서 피해 여성을 성폭행하려다가 미수에 그치자 흉기로 찌르고 도망친 혐의를 받는다. 피해 여성은 병원에서 응급 수술을 받았으나 생명에 지장은 없는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;신고를 받고 출동한 경찰은 근처 아파트 옥상에서 A씨를 발견, 현행범으로 체포했다. 또 범행 장소 근처에서 범행에 쓴 흉기 1점도 회수했다.&lt;br&gt;&lt;br&gt;경찰 조사 결과, A씨는 휴가를 나온 현역 군인으로 피해자와는 모르는 사이인 것으로 나타났다. 범행에 사용한 흉기는 미리 구입해 챙겨간 것으로 확인됐다.&lt;br&gt;&lt;br&gt;경찰은 A씨를 상대로 범행 동기 등 사건 경위를 조사한 뒤 구속영장을 신청할 방침이다. 경찰 관계자는 “수사 중인 사안이라 동종 범죄 여부 등 자세한 내용은 밝히기 어렵다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>택시만 노려 고의사고 내고 합의금 뜯은 전직 택시기사, 구속 송치</title>
-      <link>https://www.chosun.com/national/regional/2025/01/09/N257S3WV3VGAJCUBJ7IXHHC2RQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/01/09/N257S3WV3VGAJCUBJ7IXHHC2RQ/</guid>
-      <dc:creator>대전=우정식 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 09 Jan 2025 03:40:24 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/54FTUISTLZDHJELX6W5GW5V5XU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대전중부경찰서는 택시기사들을 상대로 상습적으로 고의사고를 낸 뒤 합의금 수백만원을 받아 챙긴 혐의(상습사기, 보험사기 등)로 60대 A씨를 구속 송치했다고 9일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난해 12월 27일 오후 2시30분쯤 대전 중구 중촌동의 한 횡단보도에서 자전거를 타고 가다 일부러 택시와 충돌한 뒤 운전자에게 치료비와 합의금을 요구하는 등 2016년 10월 15일부터 지난해 12월 27일까지 모두 27회에 걸쳐 고의사고를 내고 합의금과 보험금으로 500여만원을 편취한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;경찰 조사에 따르면 3년간 택시기사로 일한 경력이 있는 A씨는 신호등이 없는 횡단보도 등에서 자전거를 타고 대기하다 택시와 일부러 충돌하거나, 승용차를 몰다 중앙선 침범 또는 불법 유턴을 시도하는 차가 보이면 고의로 부딪는 수법으로 보험금을 타냈다. 그는 택시기사들이 횡단보도에서 사고를 낼 경우 형사처벌, 행정처분, 보험료 상승을 우려해 적극적으로 신고하지 않는다는 점을 악용했다.&lt;br&gt;&lt;br&gt;A씨는 경찰 조사에서 “돈이 부족할 때마다 고의로 사고를 냈다”며 “사고 1건당 5만∼25만원 정도 합의금을 받아 생활비로 썼다”고 진술했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[단독] 서주석 前안보실 차장 압수수색…文정부 ‘사드 기밀 누설’ 의혹</title>
-      <link>https://www.chosun.com/national/court_law/2025/01/09/UF7CDHMR6ZAB7FA7DYPGR6XLLM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/01/09/UF7CDHMR6ZAB7FA7DYPGR6XLLM/</guid>
-      <dc:creator>유희곤 기자, 이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 09 Jan 2025 01:08:19 +0000</pubDate>
-      <content:encoded>서울중앙지검 공공수사3부(부장 김태훈)는 9일 경북 성주 사드(THAAD·고고도 미사일 방어 체계) 기지 반대 단체 사무실 등에 대한 압수 수색을 진행하고 있다고 밝혔다. 압수 수색 대상엔 서주석 전 국가안보실 1차장 주거지도 포함된 것으로 전해졌다. 감사원은 문재인 정부가 사드 배치를 고의로 지연했다는 의혹과 관련해 정의용 전 국가안보실장 등 문 정부 청와대 고위 관계자 4명의 직권남용 혐의를 포착해 검찰에 수사를 의뢰한 바 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IKUXVHJ4OFCSNO7TUYS5T3L2SM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 2017년 9월 7일 사드 발사대 4기를 추가로 배치하기 위해 이송 차량들이 경북 성주군 소성리 마을회관 앞을 지나는 모습. 당시 성주군 주민 수십 명이 도로에 뛰어들거나 참외와 물병 등을 던지며 사드를 실은 차량을 막아 세우기도 했다. /조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;감사원 감사 결과에 대한 본지 취재를 종합하면, 문 정부 청와대는 사드의 한국 정식 배치를 늦추기 위해 사드 미사일 교체 관련 한미 군사작전 일정 등을 사드 배치에 반대하는 시민 단체에 유출한 것으로 알려졌다. 또 중국과의 외교 관계를 이유로 사전 설명 차원에서 주한 중국 대사관 소속 국방 무관(武官)에게 사드 미사일 교체 작전명과 작전 일시, 작전 내용 등을 사전에 알려준 혐의도 있다고 한다.&lt;br&gt;&lt;br&gt;이와 관련, 감사원은 수사가 필요하다고 판단해 지난해 10월 중 정의용 전 국가안보실장, 서주석 전 안보실 1차장, 정경두 전 국방부 장관, 이기헌(현 더불어민주당 의원) 전 대통령비서실 시민참여비서관 등 4명을 군사기밀보호법 위반과 직권남용 등의 혐의로 대검찰청에 수사 요청한 것이다.&lt;br&gt;&lt;br&gt;앞서 지난 2022년 7월 전직 군 장성 모임인 대한민국수호예비역장성단은 ‘문재인 정부가 2019년 12월 문 전 대통령의 중국 방문을 앞두고, 사드 정식 배치를 위한 환경영향평가를 의도적으로 지연시킨 의혹이 있다’며 감사원에 공익감사를 청구했다. 감사원은 장성단의 청구 가운데 일부가 사실일 가능성이 있다고 보고, 그해 10월부터 특별조사국을 투입해 국방부·외교부 등 11개 기관을 대상으로 감사를 진행해 군사기밀 유출 혐의를 포착한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BWCMR2CBR5DGPAZ5KRD5TI7EYI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2017년 9월 6일 사드(고고도 미사일 방어체계) 발사대 추가배치가 임박한 가운데 경북 성주군 초전면 소성리 사드기지에서 미군들이 배치된 사드 주변에 모여 있다. /조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;사드는 미국 록히드마틴이 개발한 탄도 미사일 요격 체계로, 북한의 핵·탄도 미사일 위협에 대응하는 주한 미군의 핵심 무기 체계다. 레이더와 포대, 지대공 미사일 등으로 구성된다. 중국은 사드 레이더가 자국의 탄도 미사일 발사를 조기에 탐지하는 데 사용될 수 있다며 사드 한국 배치에 강력 반발해 왔다. 유사시 중국이 발사하는 대륙간탄도미사일(ICBM)을 사드가 조기에 탐지할 경우 미·중 간 핵 균형이 깨질 수 있다는 것이다. 한‧미 양국은 박근혜 정부 때인 2016년 사드의 한국 배치를 결정했고, 2017년 4월 경북 성주군 소성리 골프장에 임시 배치했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>검찰, 오송참사 이범석 청주시장 기소...중대재해처벌법 첫 사례</title>
       <link>https://www.chosun.com/national/regional/chungcheong/2025/01/09/ENYCKWCQ5RHJLLU5ULE3JW4YXE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2025/01/09/ENYCKWCQ5RHJLLU5ULE3JW4YXE/</guid>
@@ -853,15 +925,6 @@
       <description/>
       <pubDate>Thu, 09 Jan 2025 02:48:03 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EAFB2GP5KZ2DSJF5LDJ47X7YOI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;내란수괴 혐의를 받는 윤석열 대통령에 대한 체포영장이 재발부된 가운데 9일 오전 서울 용산구 한남동 대통령 관저에서 차벽을 세우기 위해 동원된 버스 차량 옆으로 경호처 등 관계자들이 이동하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘12·3 비상계엄’을 수사하는 경찰 국가수사본부 특별수사단이 윤석열 대통령에 대한 체포영장 집행당시 이를 저지한 경호처 직원들을 대상으로 추가 피의자 입건을 위한 절차에 나섰다.&lt;br&gt;&lt;br&gt;9일 경찰은 윤석열 대통령에 대한 체포영장 집행 당시의 채증자료 분석을 통해 현장에서 체포를 저지한 경호처 직원 26명에 대한 신원 확인 요청 공문을 경호처로 지난 8일 발송했다고 밝혔다.&lt;br&gt;&lt;br&gt;경찰은 체포 당시 불법행위 가담 정도 및 향후 불법행위 여부를 종합적으로 고려해 입건여부를 결정할 예정이다. 또 채증자료 판독 결과에 따라 추가로 신원확인을 할 계획이다. 경찰은 “공무집행 방해 정황이 있는 사람들 위주로 1차 선별해 공문을 보낸 것”이라고 했다.&lt;br&gt;&lt;br&gt;경찰이 경호처 수뇌부에 대한 압박은 물론 및 현장 직원들까지 압박을 가해 2차 영장 시도를 위한 포석을 깔고 있다는 분석이 나온다. 앞서 경찰은 특수공무집행방해 혐의로 입건된 박종준 경호처장에게 10일 오전 10시까지 경찰에 출석하라는 3차 출석요구서를 발송한 바 있다. 3차 출석요구까지 불응할 경우, 경찰은 그간의 관례에 따라 체포영장을 신청해 박 처장의 신병을 확보할 전망이다.&lt;br&gt;&lt;br&gt;이 밖에도 김성훈 경호처 차장, 이진하 경비안전본부장 등 경호처 간부도 관저 진입을 방해한 혐의로 입건됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>한남동 집회 계속되는 용산, 1일 쓰레기 8t 증가...서울시 “청소차량·인력 지원"</title>
-      <link>https://www.chosun.com/national/national_general/2025/01/09/QSIORJV2FVDIHOIHDNBIZPUHDY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/09/QSIORJV2FVDIHOIHDNBIZPUHDY/</guid>
-      <dc:creator>최연진 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 09 Jan 2025 00:26:44 +0000</pubDate>
-      <content:encoded>서울시는 대규모 집회가 장기화하고 있는 용산구 한남동 일대에 쓰레기 처리 차량과 인력을 투입하고 비용을 지원한다고 9일 밝혔다.&lt;br&gt;&lt;br&gt;대규모 집회가 시작된 이후 용산구 1일 쓰레기 수거량은 하루 평균 593t에서 601t으로 8t가량 늘었다.&lt;br&gt;&lt;br&gt;이에 따라 서울시는 우선 용산구 소속 청소인력 334명과 청소 장비 58대 등 가용 자원을 상황에 맞게 투입할 계획이다. 환경공무관 근무 시간이 아닌 오후 3시∼10시에는 청결기동대 10명을 투입할 수 있도록 서울시에서 운영비를 지원한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZLPHBVPN4NP7VFMKN2HFMSEY4E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;8일 오후 서울 용산구 한남동 대통령 관저 인근에서 보수단체가 주최한 탄핵 반대 집회가 열리고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;쓰레기 처리비용도 용산구에 지원한다. 대규모 집회가 발생하는 종로구 등 다른 자치구에도 필요시 비용을 지원할 계획이다.&lt;br&gt;&lt;br&gt;서울시는 집회 장기화로 폐기물이 계속 늘어난 점을 고려해 ‘생활폐기물 반입량 관리제’를 완화하는 방안도 검토하고 있다. 생활폐기물 반입량 관리제는 자치구별 쓰레기 감량 목표를 정하고 목표 달성 자치구에는 인센티브, 미달성 자치구에는 페널티를 부과하는 제도다.&lt;br&gt;&lt;br&gt;서울시는 “대규모 집회가 지속될 것으로 예상되는 만큼 집회 인파로 인해 인근 주민들이 불편과 고통을 겪지 않도록 노력하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>‘송파 무인창고서 수십억 원 절도’ 40대 男...첫 재판서 혐의 일부 인정</title>
@@ -885,56 +948,6 @@
       <content:encoded>‘세월호 참사’ 당일 박근혜 정부 청와대가 생산하거나 접수한 문서의 목록이 ‘대통령지정기록물’이라며 비공개한 것은 적법하다는 원심 판단에 대해 대법원이 다시 심리해야 한다고 9일 밝혔다. 목록을 당장 공개해야 한다기 보단 적법하게 대통령지정기록물로 지정됐는지 더 살펴봐야 하다는 취지의 판단이다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4YFOMWCKLRHULCJDPPWRDOCXDQ.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초동 대법원. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대법원 3부(주심 이흥구 대법관)는 이날 민주사회를 위한 변호사 모임(민변)의 송기호 변호사가 대통령기록관장을 상대로 낸 정보 비공개 처분 취소 청구 소송 상고심에서 원고 패소로 판결한 2심 판결을 깨고 사건을 서울고법으로 돌려보냈다.&lt;br&gt;&lt;br&gt;대법원은 “원심의 판단에는 이 문서에 대한 대통령지정기록물 지정행위의 적법 여부에 관한 판단을 누락하거나, 필요한 심리를 다하지 않아 판결에 영향을 미친 잘못이 있다”며 “원심은 피고에 대해 이 문서가 대통령기록물법 제17조 제1항 각 호 중 어느 사유에 해당하는지 구체적으로 내용을 살펴보고, 적법하게 대통령지정기록물로 지정되고 보호기간이 정해졌는지에 관한 심리를 거쳐 판단했어야 한다”고 지적했다.&lt;br&gt;&lt;br&gt;앞서 송 변호사는 2017년 5월 대통령기록관장에게 ‘대통령 권한대행이 보호기간을 정해 국가기록원에 이관한 대통령지정기록물 중 세월호 참사가 발생한 2014년 4월 16일 대통령비서실, 대통령경호실, 국가안보실에서 세월호 승객을 구조하기 위한 공무 수행을 위해 생산하거나 접수한 문서의 목록’에 대한 정보 공개를 청구했다.&lt;br&gt;&lt;br&gt;하지만 대통령기록관장은 같은 달 해당 문건이 대통령기록물법 제17조에서 정한 대통령지정기록물로서 정보공개법상 비공개대상 정보에 해당한다며 송 변호사의 청구를 받아들이지 않았다. 이에 송 변호사는 2017년 6월 행정소송을 냈다.&lt;br&gt;&lt;br&gt;1심은 “정보 공개 청구 대상은 대통령비서실 등이 공무 수행을 위해 생산한 문건 목록에 불과하다”면서 “관련 법상 지정기록물의 요건을 갖추지 못했다”고 판단하며 원고 승소로 판결했다.&lt;br&gt;&lt;br&gt;그러나 2심은 “원고가 공개를 구하고 있는 이 문서는 보호기간을 정해 국가기록원에 이관된 ‘대통령지정기록물’임을 전제로 하고 있다”며 “이 사건 청구가 대통령기록물법 제17조 제4항에서 정한 예외적인 경우에 해당한다고 인정할 자료는 없으므로, 대통령기록물법에 따라 원고의 공개 청구를 거부한 피고의 행위에 어떠한 위법이 있다고 할 수 없다”며 판단을 뒤집었다. &lt;br&gt;&lt;br&gt;하지만 이날 대법원은 파기환송 판결을 내리며 다시 살펴봐야 한다고 결론을 내렸다. 대법원 관계자는 “이 판결은 대통령에게 높은 수준의 재량이 인정되는 행위라고 하더라도, 그것이 국회가 제정한 법률에 근거해 이루어지는 행위인 이상 사법심사의 대상에서 제외될 수 없다는 헌법상 권력분립의 원칙을 재확인한 결과”라며 “국민의 재판청구권 보장을 위해 대통령기록물법의 적용범위를 제한했다는 의의도 있다”고 설명했다. &lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>10대 ‘묻지마 살인’ 박대성 1심서 무기징역…살인예비 혐의도 ‘유죄’ 판단</title>
-      <link>https://www.chosun.com/national/regional/2025/01/09/M6W3CHPP6VCWRAWEW2CNYQMYLM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/01/09/M6W3CHPP6VCWRAWEW2CNYQMYLM/</guid>
-      <dc:creator>순천=진창일 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 09 Jan 2025 01:36:31 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YO4MZQXLBNOF3ACFJHGIKHNSOM.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;전남 순천 도심에서 일면식도 없는 10대 여성을 살해한 박대성이 작년 10월 4일 오전 순천경찰서 중앙 현관 앞에서 취재진의 질문에 묵묵부답하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;심야에 길을 걷던 10대 여성을 흉기로 찔러 살해한 혐의로 재판에 넘겨진 박대성(31)이 1심에서 무기징역을 선고받았다.&lt;br&gt;&lt;br&gt;광주지법 순천지원 형사1부(재판장 김용규)는 9일 오전 살인 및 살인예비 혐의로 구속 기소된 박대성에게 무기징역을 선고하고 20년간 전자장치 부착을 명령했다.&lt;br&gt;&lt;br&gt;박씨는 지난달 26일 0시42분쯤 전남 순천시 조례동의 한 거리에서 A(17)양을 살해한 혐의로 재판에 넘겨졌다. 박씨는 범행 직전인 0시32분쯤 A양을 자신의 가게 앞에서 발견하고 약 800m를 쫓아가 살해한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;박씨는 A양을 상대로 범행을 저지른 뒤 같은 날 0시50분부터 오전 1시45분까지 흉기를 들고 방문한 노래방과 주점 업주를 살해하려 한 혐의도 받고 있다. 검찰은 지난달 10일 열린 결심공판에서 박씨에게 법정최고형인 사형을 구형했었다.&lt;br&gt;&lt;br&gt;재판부는 “집안의 외동딸이자 사회 첫 발을 내디딜 준비를 하던 피해자는 꿈을 제대로 펼치지도 못하고 어린 나이에 숨졌다”며 “갑작스럽게 공격당한 피해자의 공포심과 무력감은 말로 설명이 어렵고, 유가족은 크나큰 정신적 고통과 상처를 치유하고 일상으로 복귀하기 쉽지 않아 보인다”고 지적했다.&lt;br&gt;&lt;br&gt;박씨는 재판 과정에서 자신의 살인 혐의는 인정했지만, 노래방과 주점 업주를 대상으로 한 추가 살인예비 혐의에 대해서는 “술에 취해 기억나지 않는다”고 부인해왔다. 하지만 재판부는 살인예비 혐의에 대해 ‘유죄’ 판단을 내렸다.&lt;br&gt;&lt;br&gt;재판부는 “(술집과 노래방이) 늦은 시간에도 영업하고 주변에 사람이 없다는 공통점 등으로 미뤄 추가 살인이 용이한 대상을 물색했다가 다른 손님이 있는 등 우연한 사정으로 단념한 것으로 보인다”고 판시했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/5JGII56DCJJKVM6REDRTZIXGII.jpg?width=4566&amp;height=3044&amp;auth=6973c6ab8e204c170936344e8e765a4e22d8eef33c3547cd0530144c61e35ba9&amp;smart=true" type="image/jpeg" height="3044" width="4566">
-        <media:description type="plain">&lt;YONHAP PHOTO-3723&gt; 10대 여성 청소년 살인 박대성 검찰 송치
-    (순천=연합뉴스) 정다움 기자 = 살인 혐의를 받는 박대성(30) 씨가 4일 오전 전남 순천경찰서에서 검찰로 송치되고 있다. 경찰은 전남 순천시 조례동에서 길을 걷던 10대 여성 청소년을 흉기로 여러 차례 찔러 살해한 혐의를 받는 박 씨의 신상 정보를 국민의 알권리·수단의 잔인성 등을 고려해 지난달 30일 공개하기로 결정했다. 2024.10.4
-    daum@yna.co.kr/2024-10-04 10:02:37/
-&lt;저작권자 ⓒ 1980-2024 ㈜연합뉴스. 무단 전재 재배포 금지, AI 학습 및 활용 금지&gt;</media:description>
-        <media:credit role="author" scheme="urn:ebu">정다움</media:credit>
-      </media:content>
-    </item>
-    <item>
-      <title>‘MBC 블랙리스트 의혹’ 최승호 前 사장, 벌금 800만원</title>
-      <link>https://www.chosun.com/national/national_general/2025/01/09/3FEVEUGNWZEINAKQSESTGGFANY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/09/3FEVEUGNWZEINAKQSESTGGFANY/</guid>
-      <dc:creator>구동완 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 09 Jan 2025 01:57:56 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G6SFRLOGVQLMWDUEW6F4BRAZR4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;최승호 전 MBC 사장. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2017년 MBC 파업 당시 참여하지 않은 기자들을 취재 업무에서 배제한 혐의를 받는 최승호(64) 전 MBC 사장 등 간부 4명에게 1심에서 벌금형이 선고됐다.&lt;br&gt;&lt;br&gt;서울서부지법 형사10단독 성준규 판사는 9일 노동조합 및 노동관계조정법 위반 혐의로 재판에 넘겨진 최 전 MBC 사장에게 벌금 800만원을 선고했다. 같은 혐의를 받는 박성제 당시 취재센터장과 정형일 보도본부장은 벌금 600만원, 한정우 보도국장은 벌금 500만원을 선고받았다. 앞서 검찰은 최 전 사장에게 징역 1년 6개월을, 나머지 3명에게는 징역 1년을 구형했다.&lt;br&gt;&lt;br&gt;이날 재판부는 “피고들의 주장처럼 공정방송 실현을 위한 능력과 의지는 취재기자의 중요한 자질로, 당시 노조나 소속 조합원들 간 갈등을 고려한다면 회사 전체 조직의 통합에 기여할 수 있도록 공정하고 합리적 의사결정 구조를 마련했어야 한다”며 “최 전 사장이 대표로 취임하고 불과 일주일도 지나지 않았는데 시급히 인사를 낼 필요성이 있다고 볼만한 뚜렷한 이유를 찾아보기 어렵다”고 지적했다.&lt;br&gt;&lt;br&gt;그러면서 “피고인들이 공영방송의 경영진으로 인사권을 부적절하게 행사하거나 이런 행위에 가담함으로써, 취재 업무에서 배제된 조합원들과 노조가 입었을 유·무형의 피해가 적지 않았을 것”이라며 “취재 배제 대상, 인사 규모나 인사조치가 유지된 기간 등에 비춰 죄질이 가볍다고 볼 수 없다”고 양형 이유를 밝혔다.&lt;br&gt;&lt;br&gt;최 전 사장 측은 즉각 항소 의사를 밝혔다. 재판을 마친 최 전 사장 측은 “오늘 판결은 사실 납득하기 어렵다”며 “법리적으로 사실 관계에 있어 다시 다퉈 항소심의 판단을 받겠다”고 말했다.&lt;br&gt;&lt;br&gt;최 전 사장은 2017년 파업에 참여한 민주노총 산하 언론노조 MBC본부(제1노조) 소속 기자에게만 취재 업무를 맡기고 제3노조 소속 또는 비노조원은 취재에서 배제한 혐의로 재판에 넘겨졌다. 이에 MBC 제3노조 측은 2021년 2월과 2022년 7월 두 차례에 걸쳐 고용노동부 서울서부지청에 최 전 사장 등 간부 4명에 대한 고소장을 제출했다. 고용노동부는 2022년 11월 이들에 대한 조사를 마치고 일부 기소의견으로 검찰에 송치했다.&lt;br&gt;&lt;br&gt;제3노조는 2012년 김재철 당시 사장 퇴진을 요구한 총파업 이후 제1노조에서 탈퇴한 기자들이 이듬해 3월 설립한 보수 성향의 소수 노조다. 2012년 파업 이후 채용된 경력직 기자 상당수도 가입한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“도망치면 딸 고아원 보낸다” 성매매 강요한 일당 징역형</title>
-      <link>https://www.chosun.com/national/incident/2025/01/09/MOZCMUY3HNBZLOKO56HVY2YMVY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/01/09/MOZCMUY3HNBZLOKO56HVY2YMVY/</guid>
-      <dc:creator>이승규 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 09 Jan 2025 02:14:32 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YOTJAFW564LNBUZB7GIQI46QEU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대구지법. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;가출한 여성들을 폭행·협박해 성매매를 강요한 뒤 대금 1억원을 가로챈 부부 등 4명에게 실형이 선고됐다.&lt;br&gt;&lt;br&gt;대구지법 형사11부(재판장 이종길)는 성매매 처벌법 위반 등 혐의로 구속 기소된 20대 여성 A씨에게 징역 10년을 선고하고, A씨의 남편 등 남성 3명에게는 징역 3~7년형을 각각 선고했다.&lt;br&gt;&lt;br&gt;A씨 등은 지난 2022년 9월부터 지난해 8월까지 대구 일대 아파트에서 20대 여성 B씨와 C씨 등에게 성매매를 강요하고 대금 1억여 원을 갈취한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;A씨 등은 식당에서 일하던 B씨 등과 친분을 쌓은 뒤, 이들의 경제적 여건이 어렵다는 점을 이용해 “숙식을 제공할테니 집에 와서 일을 해달라”고 했다. 이후 A씨 등은 집에 찾아온 B씨 등을 폭행·협박하며 성매매를 강요했다.&lt;br&gt;&lt;br&gt;C씨가 함께 데려온 딸도 A씨의 인질이 됐다. A씨는 C씨에게 “도망치면 네 딸 고아원으로 보낸다”며 협박했고, 혹시라도 모녀가 함께 도망치지 못하도록 밤마다 C씨 딸과 함께 잠들었다.&lt;br&gt;&lt;br&gt;A씨는 또 신혼부부 전세자금 대출 등을 위해 공범인 남성과 피해 여성의 혼인 신고를 종용한 것으로도 파악됐다.&lt;br&gt;&lt;br&gt;재판부는 “A씨 등은 피해자들을 장기간 감시하고 심리적으로 지배하며 성매매 등 온갖 반인륜적 범죄를 저질렀다”며 “현재까지 피해자들에게 용서받지도 못했고, 피해를 회복하려는 노력도 하지 않은만큼 엄벌이 필요하다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>경찰, ‘제주항공 참사’ 희생자 모욕글 올린 30대 검거</title>
-      <link>https://www.chosun.com/national/national_general/2025/01/09/C3DH2RDV3NDBZEQRZTWGZ46D5A/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/09/C3DH2RDV3NDBZEQRZTWGZ46D5A/</guid>
-      <dc:creator>무안=진창일 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 09 Jan 2025 02:26:39 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7Y7WWPEI2NIIJHBFFFPBDU7PE4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;제주항공 여객기 참사 12일째인 9일 전남 무안군 무안국제공항 참사 기체와 로컬라이저 둔덕에 눈이 쌓이고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘제주항공 참사’ 희생자를 모욕하는 글을 올린 30대가 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;전남경찰청 사이버수사대는 9일 인터넷 커뮤니티에 참사 희생자를 모욕하는 게시글을 올린 혐의(사자명예훼손)로 30대 A씨를 붙잡아 조사 중이다.&lt;br&gt;&lt;br&gt;경찰에 따르면 A씨는 지난달 31일 사고 여객기 기장에 대한 모욕성 게시글을 올린 혐의를 받고 있다. A씨는 경찰 조사에서 “개인적인 스트레스를 받다 글을 올렸다”는 취지의 진술을 한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;전남경찰청은 참사 희생자와 유가족 등을 대상으로 한 명예훼손 게시글 17건에 대한 수사를 하고 있다. 305건은 삭제·차단 조치했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/7Y7WWPEI2NIIJHBFFFPBDU7PE4.jpg?width=6000&amp;height=4000&amp;auth=666105da35c34cca8e1af39377e248f91733ec25352e951f8a408b474ab0f2e8&amp;smart=true" type="image/jpeg" height="4000" width="6000">
-        <media:description type="plain">&lt;YONHAP PHOTO-3477&gt; 방수포 덮인 제주항공 참사 여객기
-    (무안=연합뉴스) 김혜인 기자 = 제주항공 여객기 참사 12일째인 9일 전남 무안군 무안국제공항 참사 기체와 로컬라이저 둔덕에 눈이 쌓이고 있다. 2025.1.9 
-    in@yna.co.kr/2025-01-09 10:54:59/
-&lt;저작권자 ⓒ 1980-2025 ㈜연합뉴스. 무단 전재 재배포 금지, AI 학습 및 활용 금지&gt;</media:description>
-        <media:credit role="author" scheme="urn:ebu">김혜인</media:credit>
-      </media:content>
-    </item>
-    <item>
       <title>‘신도 성폭행’ JMS 정명석, 징역 17년 확정</title>
       <link>https://www.chosun.com/national/court_law/2025/01/09/7R5TXYJMRRG6VHROT2TQEPIP5I/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/01/09/7R5TXYJMRRG6VHROT2TQEPIP5I/</guid>
@@ -944,15 +957,6 @@
       <content:encoded>여신도를 성폭행한 혐의 등으로 기소된 JMS(기독교복음선교회) 총재 정명석씨가 대법원에서 징역 17년을 확정받았다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YY6NG2YJ45CLNAXQ3FFQQXJ3IM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;정명석 기독교복음선교회(JMS) 총재. /SNS&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대법원 2부(주심 오경미 대법관)는 준강간, 강제추행 등 혐의로 구속 기소된 정씨에게 징역 17년을 선고한 원심을 9일 확정했다.&lt;br&gt;&lt;br&gt;대법원은 “원심의 유죄판단에 자유심증주의의 한계를 벗어나거나 법리 등을 오해해 판결에 영향을 미친 잘못이 없다”고 밝혔다.&lt;br&gt;&lt;br&gt;정씨는 2018년 2월~2021년 9월 충남 금산군 진산면 월명동 수련원 등에서 17차례에 걸쳐 홍콩 국적의 여신도 메이플(30)씨를 추행·성폭행 하고, 호주 국적의 여신도를 5차례 강제추행한 혐의 등으로 기소됐다.&lt;br&gt;&lt;br&gt;정씨는 자신을 ‘메시아’로 부르며 신도들을 세뇌한 상태에서 마치 종교적 행위인 것처럼 범행을 저지른 것으로 조사됐다.&lt;br&gt;&lt;br&gt;메이플씨가 지난 2022년 3월 기자회견을 하면서 정씨의 성폭행 사실이 세상에 알려졌다. 이듬해 3월 넷플릭스 다큐멘터리 ‘나는 신이다: 신이 배신한 사람들’을 통해 메이플씨의 피해 내용이 공개되면서, 정씨에 대한 사회적 공분이 일어나기도 했다. &lt;br&gt;&lt;br&gt;앞서 1심은 정씨에게 징역 23년을 선고했다. 1심은 “정씨는 스스로를 메시아로 칭하며 절대적인 권력을 갖고 있었으며, 피해자들이 성적 자기결정권을 온전히 행사할 수 없는 상황에서 범행을 저질렀다”고 했다.&lt;br&gt;&lt;br&gt;그러나 2심은 “1심 판결은 대법원 양형위원회의 양형 기준에 따라 산출된 권고형의 합리적 범위를 벗어났다”며 징역 17년으로 감형했다.&lt;br&gt;&lt;br&gt;한편 검찰은 정씨가 다른 여신도 2명, 8명에 대해 성폭행을 저지른 혐의로 각각 추가 기소했다. 두 사건은 병합돼 대전지법에서 1심 재판이 진행 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>올해 첫 한파특보에 멈춰선 의정부 경전철...1시간 만에 재운행</title>
-      <link>https://www.chosun.com/national/national_general/2025/01/09/NI24JPPX6JGEDMUXTGZMV5OQNQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/09/NI24JPPX6JGEDMUXTGZMV5OQNQ/</guid>
-      <dc:creator>의정부=김현수 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 09 Jan 2025 01:40:37 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MNHJAPQDDBGHFFMJE7S2OMZN34.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기 의정부 경전철. /의정부시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;올해 첫 한파특보가 발효된 9일 오전 의정부경전철이 1시간 운행이 중단돼 승객들이 불편을 겪었다.&lt;br&gt;&lt;br&gt;경기 의정부시에 따르면 이날 오전 8시 49분쯤 경전철 효자역 인근에서 운행되던 전동차가 갑자기 멈춰섰다.&lt;br&gt;&lt;br&gt;경전철 측은 다른 전동차를 투입해 멈춘 전동차를 역까지 끌고 온 후 안내방송을 내보내 승객들을 하차시켰다. 10분 만에 고장열차를 견인했지만, 고장의 여파로 발곡행 방향 전동차 운행이 오전 9시 50분까지 약 1시간 중단됐다.&lt;br&gt;&lt;br&gt;순환 노선을 무인으로 운행하는 의정부경전철은 전동차 1대가 선로에 멈춰서면 전 구간의 전동차가 모두 운행을 중단한다. &lt;br&gt;&lt;br&gt;경전철 측은 동력 변환 등에 사용되는 인버터 장치에 절연이 발생한 것으로 보고 원인을 조사하고 있다. 의정부경전철은 과거에서 한파 등으로 인해 여러 차례 멈춤 사고가 발생한 이력이 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>“대통령 관저 지키자” 2030 ‘백골단’ 등장… 국방부 “수방사 병력 尹 방어땐 임무 취소”</title>
       <link>https://www.chosun.com/national/national_general/2025/01/09/XNGHGFTVX5H63ODM7DPEB7XEBM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/09/XNGHGFTVX5H63ODM7DPEB7XEBM/</guid>
@@ -960,24 +964,6 @@
       <description/>
       <pubDate>Wed, 08 Jan 2025 15:55:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Q2OM35P3EJCDZICX4APQWQSOQQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;일부 친윤 시위대는 300명가량 윤 대통령 ‘민간 수비대’를 조직했다고 주장했다. /양인성 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;야권에서 윤석열 대통령 ‘도주설’을 제기한 가운데 윤 대통령 추정 인물이 8일 한남동 관저 구역에서 포착됐다. 이날 오후 12시 53분쯤 관저에서 200m가량 떨어진 3차 저지선 인근에서 윤 대통령 추정 인물이 경호원으로 보이는 3~4명과 함께 걸어오는 장면이 오마이TV에서 공개됐다. 경호원들에게 뭔가를 지시하는 손짓을 하는 이 남성은 체격과 신체 비례가 윤 대통령과 흡사했다. 양팔과 다리를 넓게 벌리고 걷는 모습도 평소 윤 대통령 행동과 비슷했다.&lt;br&gt;&lt;br&gt;윤 대통령이 관저 밖으로 모습을 드러냈다면 이 같은 야권의 ‘도주설’을 불식시키고 지지층을 결집시키려는 의도로 해석된다. 민주당 박지원 의원은 페이스북에서 “걸음걸이, 제스처가 딱 윤석열”이라며 “철저히 계산된 행보”라고 했다. 이날 한남동에 집결한 8000여 명(경찰 추산) 친윤 시위대는 “대통령 도주설을 퍼뜨리는 민주당이야말로 반국가 세력”이라고 했다.&lt;br&gt;&lt;br&gt;국방부는 이날 경호처에 파견된 육군 수도방위사령부 예하 55경비단, 33군사경찰대 병력이 윤 대통령 체포 영장 2차 집행 저지에 투입된다면 파견 임무 자체를 취소할 수 있다고 밝혔다. 국방부는 “해당 부대의 주임무는 외곽 지역 경계”라며 “국방부 장관은 원 소속 기관장으로서 위법하거나 부당할 때 해당 부대의 임무를 취소하거나 정지시킬 수 있다”고 했다. 국방부 장관 직무를 대행 중인 김선호 차관은 지난 3일 1차 집행 무산 때 “군 병력 투입이 맞지 않다”고 했었다.&lt;br&gt;&lt;br&gt;경호처에 파견된 수방사 병력은 500여 명이다. 이들은 경호처장 지휘를 받는다. 하지만 국방부는 “해당 부대가 공수처의 체포 영장 집행을 막는 데 운용되는 것은 부대에 부여된 본연의 임무를 벗어나는 것”이라고 했다. 경호처에 서울청 직할 202경비단을 파견한 경찰도 영장 집행 저지에 경찰을 투입하지 않겠다는 입장이다. 순수 경호처 소속 요원은 750여 명으로 알려져 있다.&lt;br&gt;&lt;br&gt;한편 일부 친윤 시위대는 300명가량 윤 대통령 ‘민간 수비대’를 조직했다고 주장했다. 이 중 30명가량은 하얀색 헬멧으로 무장한 ‘백골단’이라고 백서스정책연구소 김정현(42) 소장은 주장했다. 백골단은 모두 2030 남성으로, 민노총의 폭력 집회에 맞서 자체 무장을 했다고 김 소장은 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>尹 측 “구속영장 청구하거나 기소하면 출석”</title>
-      <link>https://www.chosun.com/national/court_law/2025/01/09/6XV2BMR42BAKVJNJ5EEGJO6MUI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/01/09/6XV2BMR42BAKVJNJ5EEGJO6MUI/</guid>
-      <dc:creator>유종헌 기자, 최하연 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 08 Jan 2025 15:55:00 +0000</pubDate>
-      <content:encoded>&lt;br/&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GLFC5RQ24VP4ZAWMTX2RYRQQY4.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령의 탄핵심판 법률대리인인 윤갑근 변호사가 8일 오후 서울 서초구 한국컨퍼런스센터에서에서 열린 기자간담회에서 발언하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 대통령 측이 고위공직자범죄수사처(공수처)를 향해 “기소를 하거나 구속 영장을 청구하라. 그러면 법원 재판에 응하겠다”고 8일 밝혔다. 다만 “(공수처의) 관할이 없는 서부지법에 영장 청구되면 수용할 수 없다”며 “분명 공수처의 관할은 서울중앙지법”이라고 했다. 공수처가 서울중앙지법에 구속 영장을 청구하거나 기소하면 재판 절차에 응하겠다는 것이다.&lt;br&gt;&lt;br&gt;공수처와 대통령경호처가 윤 대통령 체포 영장 집행 문제를 놓고 ‘강 대 강’ 대치를 이어가는 상황에서 윤 대통령 측이 충돌을 피할 수 있는 대안을 제시한 것으로 보인다.&lt;br&gt;&lt;br&gt;윤 대통령을 대리하는 윤갑근 변호사 등 변호인단은 이날 서초구 한국컨퍼런스센터에서 간담회를 열고 “공수처에 수사 권한이 없다는 입장은 변함이 없다”면서 “더 이상 국민을 불편하게 하고 공무원이 희생하는 것을 볼 수 없어 법원에서 진행되는 절차에는 응하겠다는 것이 (윤 대통령의) 입장”이라고 했다. 그러면서 “(공수처는) 더 이상 공무원들 고생하게 만들지 말고 다른 방안을 찾으라”며 체포 영장 집행에 응하지 않겠다는 입장을 재차 강조했다.&lt;br&gt;&lt;br&gt;그러나 천대엽 법원행정처장은 전날 국회에서 “적법한 절차에 따라 이뤄진 재판 결과(체포 영장)에 대해선 일단 승복하는 것이 법치주의를 지탱하는 근본 동인”이라고 했다. 공수처가 서울서부지법에서 받은 체포 영장이 적법하다는 취지다.&lt;br&gt;&lt;br&gt;법조계 한 인사는 “법원이 두 차례나 윤 대통령의 체포 영장을 발부한 상황에서 공수처와 경찰이 강제 집행을 거듭 시사하자, 윤 대통령이 지지층 결집을 위해 이런 안을 제시한 것 같다”고 했다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇”대통령이 불법 수사에 응하면 나쁜 선례 될 우려”&lt;/b&gt;&lt;br&gt;&lt;br&gt;윤갑근 변호사는 이날 “대통령은 법을 수호할 책무가 있는데, 불법적인 수사나 사법 절차에 응하는 것은 나쁜 선례와 나쁜 역사가 될 수 있다”고 했다. 공수처는 내란죄 수사권이 없으므로 공수처의 체포 영장 집행 시도에는 응할 수 없다는 것이다. 윤 변호사는 이어 “전 국민 투표로 선출된 최고 대의 기관인 대통령을 불법을 자행하면서 체포하려는 것이 바로 내란”이라면서 “경찰 특공대나 기동대를 동원하는 것도 반란, 내란”이라고도 했다.&lt;br&gt;&lt;br&gt;이에 대해 공수처는 “적법 절차에 따라 발부된 체포 영장에 따라 시한 내에 집행하는 시도를 계속하겠다는 방침”이라고 밝혔다. 공수처 한 관계자는 “피의자인 윤 대통령이 중앙지법에 구속 영장을 청구하라고 요구하는 게 오히려 ‘법원 쇼핑’ 아니냐”며 “(윤 대통령 측 주장은) 납득하기 어렵다”고 했다.&lt;br&gt;&lt;br&gt;윤 대통령에 대한 체포 영장 시한이 연장되면서 공수처와 경찰은 2차 집행을 준비 중이다. 경찰은 박종준 경호처장을 특수공무집행방해 혐의로 입건해 오는 10일 3차 출석 요구한 상태다. 이날도 박 처장이 불응한다면 체포 영장을 신청할 방침이다. 박 처장 등 경호처 간부들에 대한 강제수사가 시작되면 윤 대통령 체포를 막는 경호처의 힘을 뺄 수 있다는 관측이 나온다.&lt;br&gt;&lt;br&gt;윤 대통령 측은 공수처의 체포 영장 집행 시도에 대해 “유명 정치인들이 조사받으면서 진술 거부권을 행사해 피의자 조사가 아무런 의미가 없었던 경우가 많다”고 했다. 공수처가 윤 대통령을 강제로 체포해 조사하더라도 협조하지 않겠다는 것으로 읽힌다.&lt;br&gt;&lt;br&gt;윤 변호사는 헌법재판소의 탄핵 심판에 대해 “윤 대통령의 출석이 필요할 경우 횟수에 제한을 두지 않고 출석할 것”이라고 말했다. 다만 “현재 ‘내란죄 철회’ 부분 등 ‘게임의 룰’이라 할 수 있는 증거 법칙 문제, 기일 일괄 지정 문제 등이 혼란스럽게 제기되고 있다”면서 “이 부분이 먼저 어느 정도 정리돼야 한다”고 했다. 헌재가 윤 대통령 측의 체포 영장 효력 정지 가처분 신청을 접수하고도 결론을 내지 않고 있는 데 대해서도 “틀린 것은 바로잡아야 한다”며 “나쁜 선례가 될 것”이라고 했다.&lt;br&gt;&lt;br&gt;이에 대해 헌재 관계자는 “(윤 대통령이 낸 가처분 신청은) 재판부가 여러 상황을 모두 고려해 결정할 것”이라고 했고, 변론기일 일괄 지정에 대해선 “재판부 결정 사항”이라고 했다.&lt;br&gt;&lt;br&gt;한편 윤 변호사는 이날 오전 공수처를 방문해 선임계를 내겠다며 수사팀과의 면담을 요청했지만 받아들여지지 않았다. 윤 변호사는 “민원실에 선임계를 맡길 수 없어 그냥 돌아왔다”고 했다. 공수처 관계자는 “선임계를 먼저 낸 다음에 면담 얘기를 하자고 한 것”이라면서 “신임 검사 면접 일정이 있어서 면담할 수 있는 상황이 아니었다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[단독] 공수처, 尹 체포 시도 때 김밥 120줄 싸갔다</title>
-      <link>https://www.chosun.com/national/court_law/2025/01/08/L5S6GKNC3JFLTCJL6WYBYBTWQY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/01/08/L5S6GKNC3JFLTCJL6WYBYBTWQY/</guid>
-      <dc:creator>이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 08 Jan 2025 02:04:02 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/34UPZOTHHJPKBOCDZLFL4BLESQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;8일 경기 과천시 고위공직자범죄수사처에 직원들이 드나들고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 3일 윤석열 대통령의 체포영장 집행을 시도했던 고위공직자범죄수사처(공수처)가 서울 용산구 한남동 관저로 체포팀 30여 명을 보내면서 김밥 120줄을 챙겨간 것으로 8일 전해졌다. 1인당 4줄 가량의 김밥을 사간 것을 두고 법조계에선 “수사 경험이 부족한 공수처의 현주소가 드러났다”는 반응이 나온다.&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 공수처는 지난 3일 윤 대통령 체포영장을 집행할 당시 박스 2개에 김밥 120줄을 나눠 담아 차량에 실은 뒤 관저로 이동했다. 정부과천청사에 있는 공수처 청사에서 도보로 10분 거리에 있는 김밥집에서 산 것으로 전해졌다. 공수처가 주문한 김밥의 한 줄당 가격은 4500원이었다.&lt;br&gt;&lt;br&gt;첫 체포영장 집행 당시 관저로 출동한 공수처 인원은 30여 명으로 알려졌다. 공수처 인원에 한정해 나눠줄 목적이었다면 성인 남성을 기준으로 할 때 2~3끼 이상 먹을 수 있는 분량을 공수처가 준비했던 셈이다. 공수처는 체포팀이 탄 차량 5대에 500ml 생수 묶음 8~9개 가량도 나눠 실었다. 쿠키‧초콜릿바 등의 간식도 따로 챙긴 것으로 전해졌다. 체포영장 집행이 일몰 이후까지 늦어질 가능성을 사전에 대비했던 것이다.&lt;br&gt;&lt;br&gt;공수처는 그러나 집행을 시작한 지 5시간 30여 분 만인 오후 1시 30분쯤 집행을 중지하고 물러섰다. 관저로 챙겨갔던 김밥과 간식, 생수 등도 거의 먹지 않은 채 그대로 청사로 가져온 것으로 전해졌다.&lt;br&gt;&lt;br&gt;법조계에선 “공수처의 수사 경험 부족이 빚은 촌극”이라는 반응이 나왔다. 한 현직 부장검사는 “잠복수사 등 대기 시간이 길 경우 식사를 미리 준비하는 경우는 있다”면서도 “상하기 쉬운 김밥을 1인당 4줄씩 나눌 수 있을 만큼 한 번에 사간 것은 현장 상황을 잘못 예측했다는 것”이라고 했다. &lt;br&gt;&lt;br&gt;한 법조계 관계자도 “관저 상황을 정확히 분석했다면, 김밥을 과도하게 사 예산을 낭비하는 일은 없었을 것”이라고 지적했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
