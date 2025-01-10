@@ -13,6 +13,67 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>尹측 “국방부, 본연 임무 충실하라… 관저 경비 포기, 안보 위해 행위”</title>
+      <link>https://www.chosun.com/national/court_law/2025/01/10/EUOO76CFP5AJLGEPE5S3BXMGCA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/01/10/EUOO76CFP5AJLGEPE5S3BXMGCA/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 10 Jan 2025 10:01:02 +0000</pubDate>
+      <content:encoded>윤석열 대통령 변호인단은 10일 입장문을 내고 국방부를 향해 “본연의 임무에 충실하라”고 주장했다. 용산구 한남동의 대통령 관저 경비를 포기하는 것은 안보 위해(危害) 행위라는 것이다. 지난 3일 공조수사본부 측의 1차 체포영장 집행 당시 대통령경호처가 육군 수도방위사령부 예하 55경비단 병력을 투입시킨 것과 관련해 국방부는 장관 직무대행 권한으로 이를 취소하거나 정지시키겠다는 방침을 세운 것으로 알려졌다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6M5G2ZRMNVJQNCLROOK5I2SM24.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령을 변호하는 윤갑근 변호사가 지난 8일 오후 서울 서초구 한국컨퍼런스센터에서에서 열린 기자간담회에서 발언하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤 대통령을 변호하는 윤갑근 변호사는 언론 공지를 통해 이 같은 입장을 밝혔다. 관저를 경비하는 55경비단의 임무는 국가보안시설이자 군사기밀보호구역인 대통령 관저의 외곽을 경비하는 것이니, 대통령경호처의 지휘를 받아 외부인의 무단침입이나 공격에 대해서 방어하고 보호해야 한다는 것이다. 윤 변호사는 “현재 고위공직자범죄수사처와 경찰청 국가수사본부가 공무집행을 가장해 불법 영장을 무력으로 집행하려고 하는 긴박한 상황”이라며 “대통령과 대통령 관저에 대한 경호와 경비 업무는 그 어느 때보다 강화되어야 한다”고 주장했다.&lt;br&gt;&lt;br&gt;윤 변호사는 김선호 국방장관 직무대행이 지난 4일 밝힌 입장이 “자신에게 주어진 책무를 수행하지 않겠다는 선언이나 다름없다”고 지적했다. 김 대행은 ‘체포영장 집행 과정에서 군 장병 투입 및 경찰과의 대치 논란 사실 관계에 대한 국방부 입장’을 밝히면서 경호처에 “공수처의 체포영장 집행을 저지하는 데 군 병력을 투입하는 것은 맞지 않다”는 입장을 전달했다고 밝힌 바 있다.&lt;br&gt;&lt;br&gt;윤 변호사는 “대한민국의 군사기밀과 보호시설을 무방비상태로 방치하는 것이다. 군사기밀보호법과 형사소송법의 명문 법규를 위반하는 것”이라며 “이를 지시한 국방부 최고 책임자는 엄정한 법적 책임을 져야 할 것”이라고 했다. 이어 “국방부는 위법하고 부당한 지시를 즉각 철회해야 할 것이며, 경비 병력 역시 위법하고 부당한 지시를 따를 의무가 없으며, 본연의 임무에 충실하게 임해야 함을 밝힌다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DKEDBNRJIHFXUKNJINQU5EB5TE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령 체포영장 집행을 방해한 혐의(특수공무집행방해)로 입건된 박종준 대통령 경호처장이 10일 오전 서울 서대문구 국가수사본부로 출석하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한편, 박종준 전 대통령경호처장은 이날 오전 경찰청에 출석해 조사를 받고 있다. 출석 전 최상목 대통령 권한대행에게 사표를 냈고, 최 대행은 이를 수리했다. 관저 경호는 김성훈 경호처 차장이 맡게 됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>국토부 “‘제주항공 여객기 참사’로 불러야, 무안공항 참사 아니다”</title>
+      <link>https://www.chosun.com/national/regional/2025/01/10/HYQ2BBI2J5CE5FSLSI4EDRSXHU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/01/10/HYQ2BBI2J5CE5FSLSI4EDRSXHU/</guid>
+      <dc:creator>무안=조홍복 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 10 Jan 2025 09:40:55 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WCWUWKD6RFMDZCRSDMAKIQP46I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;제주항공 여객기 참사 13일째인 10일 낮 전남 무안군 무안국제공항 활주로에 눈이 쌓여있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국토교통부는 지난달 29일 전남 무안국제공항에서 발생한 여객기 사고의 공식 명칭은 유가족과 협의한 끝에 ‘12·29 제주항공 여객기 참사’로 결정했다고 10일 밝혔다.&lt;br&gt;&lt;br&gt;신광호 국토부 국장은 이날 오후 무안공항에서 열린 정례 브리핑에서 “이번 사고를 두고 일각에서는 ‘무안공항 참사’라고 잘못 표현하고 있다”며 이같이 말했다. 그는 “그릇되게 불리는 것에 대한 지역의 우려가 있다”며 “공식 명칭은 ‘제주항공 여객기 참사’”라고 재차 강조했다.&lt;br&gt;&lt;br&gt;박한신 희생자 가족협의회 대표도 “언론매체와 사람마다 언급하는 명칭이 다르다”며 “국토부가 오늘 발표한 명칭대로 표현해주길 바란다”고 말했다.&lt;br&gt;&lt;br&gt;참사 발생 13일째인 이날 활주로 사고 현장에서 179명 희생자의 신체 일부가 추가로 수습됐다. 또 장례 절차를 마친 유가족 42명은 무안공항 대합실 2층에 마련된 임시 텐트 27동에 흩어져 들어갔다. 현재 임시 텐트 110동이 설치돼 있다.&lt;br&gt;&lt;br&gt;국토부는 오는 11일 무안공항에서 열리는 유가족 총회와 관련해 유가족에게 불편함이 없도록 언론에 협조를 요청했다.&lt;br&gt;&lt;br&gt;신광호 국장은 “비공개로 열리는 총회이고, 유가족이 현장 촬영과 취재를 힘들어하니 언론 등의 협조를 부탁한다”며 “국토부는 장례를 마친 유가족을 위한 안내 책자를 배포하고 상담 등의 지원을 이어나갈 방침”이라고 말했다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>경호처 넘버2가 저지 지휘… “공수처, 尹체포작전 변경 불가피”</title>
+      <link>https://www.chosun.com/national/2025/01/10/JYQ6L3KKP5CRBMPD4OTMH7BXC4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2025/01/10/JYQ6L3KKP5CRBMPD4OTMH7BXC4/</guid>
+      <dc:creator>주형식 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 10 Jan 2025 08:29:46 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4DACKNK5ZKHNCYQYRVRDZCTZQM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령에 대한 체포영장 집행을 방해한 혐의(특수공무집행방해)로 입건된 박종준 대통령 경호처장이 10일 오전 서울 서대문구 국가수사본부로 출석하며 입장을 밝히고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 대통령에 대한 체포영장 집행을 저지한 혐의(특수공무집행방해) 등으로 입건된 박종준 대통령경호처장이 10일 오전 경찰에 출석했다. 이에 앞서 박 처장은 최상목 대통령 권한대행 부총리에게 사직서를 제출했고, 최 대행은 사직서를 수리했다고 밝혔다. 윤 대통령에 대한 영장 재집행에 앞서 경호처 수뇌부부터 체포해 경호처의 저지 동력을 빼려고 했던 경찰, 고위공직자범죄수사처(공수처)의 체포 작전 변경이 불가피하다는 관측이 나온다.&lt;br&gt;&lt;br&gt;박 처장은 이날 오전 10시5분쯤 서울 서대문구 경찰청 국수본 중대범죄수사과 조사실에 출석해 소환조사에 응했다. 박 처장은 그간 두 차례 경찰 소환 조사에 응하지 않았다. 앞서 1차와 2차 불응 때엔 각각 “경호 업무와 관련해 자리를 비울 수 없다”, “변호인 선임이 안 됐다”는 이유를 들었다. 박 처장은 그간 국가수사본부 조사가 비공개 소환 방식으로 이뤄졌던 것과 달리 출석 여부와 시간을 30분 전쯤 언론에 알렸다. 그는 조사에 앞서 “어떤 경우에도 물리적 충돌이나 유혈사태가 일어나선 안 된다는 생각으로 그동안 최상목 대통령 권한대행에게 정부기관 간 중재를 건의했다”며 “윤 대통령 변호인단에도 (대통령 조사에 대한) 제3의 대안을 요청했지만 그에 맞는 답을 얻지 못했다”고 했다. 당초 경찰은 박 처장이 3번째 출석 요구도 불응할 가능성이 크다고 보고 체포영장 신청을 유력하게 검토하고 있던 상황이었다. 하지만 박 처장이 예정된 출석 시간에 등장하자 허를 찔린 게 아니냐는 평가도 나온다.&lt;br&gt;&lt;br&gt;박 처장이 경찰 조사에 응한 것은 윤 대통령 지지층의 결집을 노린 것이라는 분석이 나온다. 박 처장은 이날 “현직 대통령 신분에 걸맞은 수사절차가 진행돼야 한다”며 “현재와 같은 체포영장 집행 방식은 아니라고 생각한다. 우리나라 국격에 맞게 대통령에게 적정한 수사 절차가 진행되길 바란다”고 했다. 박 처장이 조사에 응하면서 긴급체포 또는 조사 후 구속영장 신청·집행 가능성이 거론되고 있다. 윤 대통령 변호인단은 박 처장이 경찰에 출석한 직후 낸 입장문에서 “경호처 간부들에 대한 소환 목적은 경호처 지휘부를 붕괴시켜 불법적으로 대통령을 체포하려는 것”이라며 “수사권을 남용한 꼼수 소환을 중단하라”고 했다.&lt;br&gt;&lt;br&gt;박 처장 사직으로 대통령경호처는 김성훈 경호차장이 대행하는 체제로 운영된다. 김성훈 차장도 특수공무집행방해 혐의로 입건돼 11일 3차 출석 요구를 받았지만, 불응하겠다는 방침을 세운 것으로 전해졌다. 이광우 대통령경호처 경호본부장 역시 이날 출석 요구에 불응했다. 대통령경호처는 관저 구역을 차벽과 철조망 같은 장애물로 겹겹이 둘러싸고 ‘공성전’ 방어 태세에 들어갔다.&lt;br&gt;&lt;br&gt;서울 용산구 한남동 관저 인근 긴장감도 높아지고 있다. 이날 경찰은 영장 재집행시 관저에 투입될 지휘관들을 소집해 체포 시나리오를 점검했다. 경찰은 지난 3일 형사·수사관 120여 명을 공수처에 지원했는데, 이번에는 8배 이상인 1000명 이상 경찰력을 한남동 관저에 투입하겠다는 계획이다. 지난 3일 1차 영장 집행에 한 차례 실패했던 공수처와 경찰은 이르면 12일 오전 영장 재집행에 나설 것으로 전망된다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/GTA3EMJDOJNRZHXSRFN6PCOVDA.jpg?width=3784&amp;height=2612&amp;auth=47d041e25c6c531afb7a88ebe9084ac8b5f4095bbe24e1a880580b6a123fb176&amp;smart=true" type="image/jpeg" height="2612" width="3784">
+        <media:description type="plain">&lt;YONHAP PHOTO-4615&gt; 버스로 가로막힌 한남동 관저 정문 진입로
+    (서울=연합뉴스) 김성민 기자 = 법원이 윤석열 대통령에 대한 체포영장을 재발부해 공조수사본부 차원의 영장 2차 집행 시도가 초읽기에 들어간 9일 오후 서울 용산구 한남동 대통령 관저 정문이 대형버스로 가로막혀 있다. 2025.1.9
+    ksm7976@yna.co.kr/2025-01-09 15:00:03/
+&lt;저작권자 ⓒ 1980-2025 ㈜연합뉴스. 무단 전재 재배포 금지, AI 학습 및 활용 금지&gt;</media:description>
+        <media:credit role="author" scheme="urn:ebu">김성민</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>“임시공휴일 27일 아닌 31일로 해야”… 성동구청장 제안에 네티즌 와글와글</title>
+      <link>https://www.chosun.com/national/national_general/2025/01/10/CJ332R6OJFAVHNDBAASNJN4N7U/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/10/CJ332R6OJFAVHNDBAASNJN4N7U/</guid>
+      <dc:creator>박선민 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 10 Jan 2025 08:45:36 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HHJ5K652PBO3THV3J3FOSIVZKI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;10일 서울 동대문구 청량리시장에서 시민들이 장을 보고 있다. 정부는 올해 설 명절을 맞아 전통시장에서 사용하는 온누리상품권 환급 규모를 270억원까지 늘려 이날부터 한 달간 디지털 온누리상품권 할인율을 10%에서 15%로 상향한다. 이 기간 디지털 결제액의 15%를 1인당 최대 8만원까지 디지털 상품권으로 환급해준다. /연합뉴스 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;정부가 설 연휴 직전 월요일인 27일을 임시 공휴일로 지정하는 방안을 검토하기로 한 것과 관련, 정원오 성동구청장이 “(금요일인) 31일이 더욱 효과적”이라는 의견을 내놨다. 이에 온라인상에서는 임시공휴일을 어느 날로 하는 게 더 좋은지를 두고 갑론을박이 벌어졌다. &lt;br&gt;&lt;br&gt;정 구청장은 정부와 여당이 지난 8일 고위 당정 협의회에서 27일을 임시 공휴일로 지정하기로 발표한 직후 페이스북을 통해 “정부가 발표한 27일보다는 31일이 임시공휴일로 지정되는 게 더욱 효과적”이라는 내용의 글을 올렸다. &lt;br&gt;&lt;br&gt;정 구청장은 “명절 일정을 마치고 주말까지 휴식을 취하며 가족끼리 외식을 하거나 짧은 외출을 다녀올 가능성도 그만큼 커질 것이기 때문에 소비를 촉진해 내수를 진작하겠다는 정부의 취지에도 더욱 맞아떨어질 것”이라고 했다. 또 “이에 더해 많은 기혼 여성에게는 27일 임시공휴일 지정이 오히려 명절 가사 노동 부담 가중으로 이어질 수 있다”며 “31일에 몰려 있을 업무를 처리해야 할 사무직 노동자들의 부담도 커질 수 있다는 점을 함께 고려해야 한다”고 했다. &lt;br&gt;&lt;br&gt;정 구청장은 “경기 부양과 내수 진작을 위해서라도, 더 많은 국민이 일상으로 돌아올 재충전의 시간을 온전히 누리기 위해서라도, 임시공휴일을 지정한다면 아무래도 27일보다는 31일”이라며 글을 마쳤다. &lt;br&gt;&lt;br&gt;정 구청장의 제안이 알려지자 온라인에서는 월요일인 27일과 금요일인 31일 중 어느 날을 임시공휴일로 지정하는 게 더 나았는지를 두고 갑론을박이 벌어졌다. &lt;br&gt;&lt;br&gt;31일 임시공휴일에 찬성하는 네티즌들은 “연휴가 뒤에 연결되는 게 심리적으로 편안하다” “주부로서 설 끝나고 하루 더 쉬는 게 마음 편하기 때문에 31일 쉬는 게 더 좋다” “지방에서 올라와서 쉴 시간이 필요하다. 27일 임시공휴일은 달갑지 않다” 등 의견을 내놨다. &lt;br&gt;&lt;br&gt;반대하는 네티즌들은 “31일 쉰다고 해서 회사에서 해야 하는 업무가 사라지는 게 아니다. 27일이 더 낫다” “한 달 벌어 직원들 월급 주는 회사들은 31일에 마감해야 한다. 27일이 더 합리적” “31일을 임시공휴일로 지정하면 설 끝나고 다들 해외여행을 가 되레 내수 경기 진작 목적에 맞지 않을 것” “월요일 출근이 심리적으로 더 힘들기 때문에 27일 임시공휴일이 더 좋다”고 했다. &lt;br&gt;&lt;br&gt;이외에도 “조삼모사 아니냐” “27일이나 31일이나 어차피 하루 연차 쓰면 일주일 내내 쉴 수 있다” “어느 날 쉬는 게 무슨 상관이냐. 하루 임시공휴일이 더 생겼다는 것만으로도 좋다” 등 임시공휴일 날짜는 크게 중요하지 않다는 네티즌도 있었다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>시위대, 경호처장 경찰 출석에 한남동 재집결...참가자간 물리적 충돌도</title>
+      <link>https://www.chosun.com/national/national_general/2025/01/10/MPP4T4UHLZARHODRA4R7KJIISI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/10/MPP4T4UHLZARHODRA4R7KJIISI/</guid>
+      <dc:creator>김보경 기자, 김병권 기자, 김도균 기자, 한영원 기자, 서일원 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 10 Jan 2025 08:32:22 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UFTH66OWLVM63NSJ6563RLRISQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원이 윤석열 대통령에 대한 체포영장을 재발부해 공조수사본부 차원의 영장 2차 집행 시도가 초읽기에 들어간 10일 오후 서울 용산구 한남동 대통령 관저 인근에서 보수단체가 주최한 탄핵 반대 집회가 열리고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;박종준 대통령경호처장이 10일 오전 경찰에 출석했다는 소식이 알려지자 서울 용산구 한남동 일대엔 다시 시위대가 집결했다. 친윤 시위대가 모인 루터 교회 앞에는 ‘대통령 경호처를 믿고 지지합니다’ ‘박종준 처장은 대한민국의 자랑입니다!’ 등 경호처를 응원하는 문구가 적힌 화환 15개가 늘어서 있었다. 친윤 집회에 참가한 70대 여성 김모씨는 “대통령 지키는 게 대통령 경호처 아니냐”며 “경호처가 따라야 할 최우선 명령이 대통령 명령인데 지금 경호처장을 데려다가 조사하는 건 뭐하는 짓인지 모르겠다” 고 했다.&lt;br&gt;&lt;br&gt;볼보빌딩 앞에 자리 잡은 반윤 시위대도 “박종준 경호처장 구속” “내란수괴 윤석열 체포를 가로막은 박종준도 내란 공범”을 외치며 친윤 시위대와 대치했다. 반윤 집회 참가자 신모(56·인천 연수구)씨는 “박종준 경호처장이 경찰의 3차 출석 요구만에 출석한 건 시간 끌기에 불과하다”며 “경호처장 뿐만 아니라 정당한 체포영장 집행을 막아선 경호인력 모두 감옥에 가야 한다”고 주장했다.&lt;br&gt;&lt;br&gt;양측 인원이 늘어나고 집회가 과열되면서 양측이 충돌하기도 했다. 이날 오후 2시 50분쯤 반윤 집회 참가자 한 명이 눈 부분에 소주병을 붙인 윤 대통령 가면을 쓰고 수갑 모양 장구류를 양손에 낀 채 인도에 드러눕자 ‘윤석열 대통령과 함께 싸우겠습니다’라는 피켓을 들고 지나가던 60대 남성이 그의 가면을 벗기고 주먹으로 얼굴을 한 대 가격하는 일이 벌어졌다. 그러자 반윤 시위대 5명이 “체포 안 하고 뭐 하냐”며 달려들고, 길을 지나던 친윤 집회 참가자 4명도 합세하면서 일시적으로 소요사태가 발생했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>법원 “‘마포구 소각장’ 입지 결정 취소해야”…서울시 “항소하겠다”</title>
+      <link>https://www.chosun.com/national/national_general/2025/01/10/L2K5HIV6CJG4RNDGGHAY3MTSCE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/10/L2K5HIV6CJG4RNDGGHAY3MTSCE/</guid>
+      <dc:creator>김영우 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 10 Jan 2025 08:17:16 +0000</pubDate>
+      <content:encoded>서울 마포구에 신규 쓰레기 소각장을 짓기로 한 서울시 결정을 취소해야 한다는 법원 판단이 나왔다. 서울시는 항소 의사를 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CT5HJSJDFBFKLE7YVJWZ7D4AJM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 2022년 12월 서울 마포구 상암동 월드컵경기장에서 마포소각장 주민설명회가 열리면서 상암동 주민들이 반대 집회를 갖고 있다. /장련성 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울행정법원 행정11부(재판장 김준영)는 마포구민 1850명이 서울시장을 상대로 제기한 광역자원회수시설 입지결정고시 처분 취소 소송에서 10일 원고 승소 판결을 내렸다.&lt;br&gt;&lt;br&gt;앞서 서울시는 지난 2023년 8월 신규 생활 폐기물 소각장 건립지로 마포구 상암동을 최종 선정했다. 이러한 서울시의 결정에 같은 해 11월 마포구 주민들은 “주민 동의 없이 서울시가 소각장 건립을 밀어붙였다”며 고시 취소를 요구하는 소송을 냈다.&lt;br&gt;&lt;br&gt;10일 법원의 결정에 대해 서울시는 항소하겠다는 입장을 발표했다. 서울시 관계자는 “15일쯤 판결문을 받는 대로 내용을 분석해 2월 초 항소장을 제출하겠다”고 말했다. 서울시는 항소와 연계해 소각장 건립 관련 향후 대책도 추가로 마련한다는 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>경찰, 김주현 민정수석 소환 조사…계엄 법률 검토 의혹</title>
       <link>https://www.chosun.com/national/2025/01/10/CISCKRABXBDC7CV23ARI5KVEDE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/2025/01/10/CISCKRABXBDC7CV23ARI5KVEDE/</guid>
@@ -872,27 +933,6 @@
       <content:encoded>서울시가 재개발·재건축 사업의 공공 기여 부담을 줄여주는 내용의 규제 완화 방안을 발표했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2LS5HVWQQBL5ZLAJE2Z3BWI5IM.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;오세훈 서울시장이 9일 오전 서울 중구 서울시청에서 열린 '경제규제 철폐 정례 간부회의'에서 모두발언을 하고 있다. /서울시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;9일 서울시에 따르면, 재개발·재건축 사업지 주변에 문화재나 학교 등이 있어 건물을 높게 올리지 못할 경우 그만큼 공공 기여 부담을 줄여주기로 했다. 예를 들어 용적률 250%가 적용되는 사업지에서 높이 규제 때문에 건물을 용적률 220%밖에 올리지 못한다면 250% 대신 220%를 기준으로 공공 기여 부담을 계산하겠다는 것이다. 현재는 높이 규제와 상관없이 일률적으로 공공 기여를 매긴다. 서울시는 동작구 흑석10구역, 성북구 정릉2구역 등의 사업성이 올라갈 것이라고 예상했다. 용적률은 대지 면적 대비 건물의 연면적을 말한다. 용적률이 높으면 더 높은 건물을 지을 수 있게 된다.&lt;br&gt;&lt;br&gt;아울러 앞으로는 재건축 통합 심의 대상에 소방·재해 심의도 포함하기로 했다. 서울시는 재개발·재건축에 걸리는 시간을 줄여주기 위해 작년 1월부터 교통, 환경 등 심의를 한 번에 하는 ‘통합 심의 제도’를 운영 중인데 여기에 소방, 재해 심의도 포함한다는 것이다. 서울시 관계자는 “재개발·재건축에 걸리는 기간이 2개월 이상 단축될 것으로 보인다”고 했다.&lt;br&gt;&lt;br&gt;서울시는 오세훈 시장이 지난달 “시민과 기업의 자유로운 경제활동을 가로막는 불필요한 규제를 과감하게 철폐해 경제를 활성화하겠다”고 밝힌 뒤 잇따라 규제 완화 방안을 발표하고 있다. 지난 5일에는 주상복합을 지을 때 지켜야 하는 상가 비율 규제를 완화하기로 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>“외출은 두 달에 한번”...자녀 학대 50대 친모에 실형 선고</title>
-      <link>https://www.chosun.com/national/regional/gangwon/2025/01/09/BDWG3PTST5CPHNNIM2P4JKEQEY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/gangwon/2025/01/09/BDWG3PTST5CPHNNIM2P4JKEQEY/</guid>
-      <dc:creator>신정훈 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 09 Jan 2025 08:29:39 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OEP23TEMYVH2ZDUPWL7E4R6IAA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원 로고. /조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;10대 아들에게 외출은 두 달에 한 번만 시키는 등 장기간 학대를 한 50대 친모가 실형을 선고받았다.&lt;br&gt;&lt;br&gt;춘천지법 형사3단독 박성민 부장판사는 9일 아동복지법상 아동학대와 무고 등의 혐의로 기소된 A(53)씨에게 징역 1년 6개월과 벌금 100만원을 선고했다. 또 아동학대 치료프로그램 40시간 이수와 5년간 아동·청소년 관련 기관 등에 취업제한을 명령했다.&lt;br&gt;&lt;br&gt;A씨는 지난해 4월 아들인 10대 B군이 1주일에 2시간의 TV 시청 시간제한을 어겼다는 이유로 뺨을 여러 차례 때리고, 이튿날 새벽 자고 있던 B군을 깨워 또다시 뺨을 십여회 때리는 등의 혐의로 구속돼 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;A씨는 B군을 두 달에 한 번 외출시키고, 초등학교 2학년 때부터는 홈스쿨링을 하는 등 폐쇄적인 환경에서 키운 것으로 조사됐다. B군이 검정고시로 중학교에 입학했지만, A씨는 학교도 보내지 않았다.&lt;br&gt;&lt;br&gt;또 B군이 5세일 때 방을 치우지 않는다는 이유로 때리기 시작해 10년 가까이 신체적 학대를 일삼고, “엄마만 믿어야 한다”며 가스라이팅(심리적 지배)을 하는 등 학대한 것으로 나타났다.&lt;br&gt;&lt;br&gt;박 부장판사는 “피고인은 잘못된 훈육 방법으로 피해 아동을 때리고 학대했다”며 “이같은 학대는 신체적 고통과 함께 정신적으로도 심한 모멸감을 느끼게 하는 행위”라고 지적했다.&lt;br&gt;&lt;br&gt;그러면서 “정신과 치료까지 받은 아이는 피고인을 용서하지 않고 분리해서 생활하기를 원했는데도 피고인은 반복적으로 접근했다”며 “다만 일부 행위가 훈육의 성질로 이뤄졌다고 보이는 점 등을 참작했다”고 양형 이유를 설명했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>도축장 가던 젖소가 탈출해 도로 활보…마취총 쏴 포획</title>
-      <link>https://www.chosun.com/national/national_general/2025/01/09/2NJWUWYH3NBNXHZW5FQJZXNCEQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/09/2NJWUWYH3NBNXHZW5FQJZXNCEQ/</guid>
-      <dc:creator>김명일 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 09 Jan 2025 08:22:36 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HOVGHIVD6NHOVB76WRVVRP3ZAU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;9일 오전 평택 도로 위를 돌아다닌 젖소. /온라인 커뮤니티&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;도축장으로 향하는 트럭에 타고 있던 젖소가 도로 위로 탈출했다가 포획돼 주인에게 인계됐다.&lt;br&gt;&lt;br&gt;9일 경기 평택경찰서 등에 따르면 이날 오전 9시 20분쯤 평택시 모곡동 일대에서 젖소 한 마리가 도로 위를 돌아다니고 있다는 신고가 접수됐다.&lt;br&gt;&lt;br&gt;신고를 받고 출동한 경찰과 소방당국은 왕복 8차로 도로 위를 돌아다니는 젖소를 발견하고 도로 바깥쪽으로 유인한 뒤 마취총을 쏴 포획했다.&lt;br&gt;&lt;br&gt;경찰은 젖소 소유주를 확인해 오후 1시 20분쯤 인계 조치했다.&lt;br&gt;&lt;br&gt;경찰에 따르면 해당 젖소는 트럭에 실려 도축장으로 향하던 중 도로 위로 탈출한 것으로 파악됐다. 젖소 포획 과정에서 차량 및 시민 피해는 발생하지 않았다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/7X5K72MRHZD5NLVQ5IXJPSAIXQ.jpg?width=863&amp;height=485&amp;auth=8baa5416d7e67f9235c1b9a1e7451c75d87b3a5ef1ff725e0c8df15bbdc38e58&amp;smart=true" type="image/jpeg" height="485" width="863">
-        <media:description type="plain">9일 오전 평택 도로 위를 돌아다닌 젖소. /온라인 커뮤니티</media:description>
-      </media:content>
-    </item>
-    <item>
       <title>‘강풍 특보’ 내린 제주, 항공편 무더기 결항</title>
       <link>https://www.chosun.com/national/regional/2025/01/09/TGZFWB26ONDQPPQ7KG6NQCYPUM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/01/09/TGZFWB26ONDQPPQ7KG6NQCYPUM/</guid>
@@ -900,45 +940,6 @@
       <description/>
       <pubDate>Thu, 09 Jan 2025 08:25:15 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BWLIBYLJJNJKHA2WR77EVPB6MY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;제주지역에 대설·강풍특보가 내려진 9일 오후 제주국제공항에서 여객기가 이륙하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;9일 제주에 강풍이 불면서 항공편이 무더기 결항했다.&lt;br&gt;&lt;br&gt;기상청에 따르면 이날 오후 4시 현재 제주공항엔 최대순간풍속 초속 22.2m의 강한 바람이 불고 있고, 급변풍 특보와 강풍 특보가 발효 중이다. 여기에다 김포공항에는 강풍 특보, 광주공항에는 저시정 특보가 발표되는 등 다른 공항에도 악천후가 이어져 하늘길 운행에 차질을 빚고 있다.&lt;br&gt;&lt;br&gt;국토교통부 항공정보포털시스템에 따르면 이날 오후 4시 15분 현재까지 제주를 기점으로 운항 예정이던 항공편 396편 중 138편(국내선 132편, 국제선 6편)이 결항했다.&lt;br&gt;&lt;br&gt;한국공항공사 제주공항은 강풍과 눈이 당분간 계속될 것으로 전망돼 이날 잔여 항공편 70여편도 결항될 가능성이 클 것으로 예상했다.&lt;br&gt;&lt;br&gt;이날 제주 곳곳에선 바람이 순간풍속 초속 20~30m를 기록하며 매우 강하게 불고 있다. 또 제주도 산지를 중심으로 이날 밤부터 10일 아침 사이 시간당 3~5㎝의 많은 눈이 내리고, 해안에도 눈이 쌓일 것으로 보인다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘군 면제’ 나인우 “4급 판정 이유 말하기 어려워… 있는 그대로 봐달라” </title>
-      <link>https://www.chosun.com/national/national_general/2025/01/09/CNKDCH67GJAJ5PNQPYTKRO3ATY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/09/CNKDCH67GJAJ5PNQPYTKRO3ATY/</guid>
-      <dc:creator>박선민 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 09 Jan 2025 08:10:26 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XQIQNITZSJLE5KYXDS7J3JLBFY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;배우 나인우가 9일 오후 서울 마포구 MBC 골든마우스홀에서 열린 MBC 새 금토드라마 '모텔 캘리포니아' 제작발표회에서 군 면제 관련 질문에 답하고 있다. /연합뉴스 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;4급 보충역 판정을 받고 사회복무요원 소집을 기다리다가 군 면제 처분을 받은 배우 나인우(30)가 직접 이와 관련한 입장을 밝혔다. &lt;br&gt;&lt;br&gt;나인우는 9일 서울 마포구 상암동 MBC 사옥에서 진행된 MBC 드라마 ‘모텔 캘리포니아’ 제작발표회에서 군 면제에 대한 질문을 받고 “먼저 이 자리에서 (이런 질문을 받게 돼) 죄송하다는 말씀부터 드린다”며 “드라마 팀, 선배님, 동료분들께 죄송하단 말씀 드리겠다”고 운을 뗐다. &lt;br&gt;&lt;br&gt;이어 “촬영 중 첫 기사가 나왔는데, 경황없는 상태에서 촬영 끝나고 연락받았다”며 “민감한 문제인 만큼 빠르게 결단해야 했고, 침묵을 선택한 건 제가 맞다”고 했다. &lt;br&gt;&lt;br&gt;앞서 지난달 14일 나인우 소속사는 “나인우가 4급 보충역 판정을 받고 병무청으로부터 연락을 기다리고 있었으나, 3년이 지나 면제 대상자가 됐다는 통보를 받았다”고 밝혔다. 4급 보충역 판정을 받고 입소를 기다리고 있던 상황이었는데, 3년 동안 소집되지 않아 병역 면제 처분을 받았다는 것이다. 2019년 이후 매년 1만명 이상이 이 같은 사유로 병역면제 처분을 받은 것으로 알려졌다. &lt;br&gt;&lt;br&gt;다만 나인우 측이 4급 판정을 받게 된 사유 등에서는 언급하지 않으면서, 온라인상에서 여러 의혹이 제기됐다. 병역 면제가 된 과정 자체는 위법이 아니지만, 그간 나인우가 각종 예능 프로그램과 드라마에서 건강한 모습으로 활동을 계속해온만큼 4급 판정이 이해되지 않는다는 취지였다. 한 네티즌은 국민신문고를 통해 “나인우는 신장이 190cm 가까울 만큼 체격이 좋은 편이며, 시력도 2.0에 가까울 정도로 매우 좋고, 예능 프로그램에서 바닷물 입수도 거리낌 없이 할 만큼 건강상 문제도 없어 보인다”며 민원을 접수했다고 밝히기도 했다. &lt;br&gt;&lt;br&gt;이와 관련, 나인우는 제작발표회에서 “많은 분이 저를 봐주시고 좋아해 주시는 것 중 하나가 밝고 에너제틱한 모습이라고 생각했다”며 “아무리 아프고 힘들다고 한들 보여드릴 수가 없어서 더 밝게 어필하려고 노력했던 것 같다”고 했다.&lt;br&gt;&lt;br&gt;나인우는 4급 판정 이유에 대해서는 답하지 않았다. 나인우는 “개인 사유, 병명은 말씀드리기 어렵다”며 “저를 있는 그대로 바라봐주셨으면 좋겠다는 마음에 솔직하게 말씀드렸다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘승진청탁 대가’ 금품 받은 전직 치안감 징역 1년 2개월</title>
-      <link>https://www.chosun.com/national/incident/2025/01/09/6KHLXAYX75CQTGNFORBGYU4CMI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/01/09/6KHLXAYX75CQTGNFORBGYU4CMI/</guid>
-      <dc:creator>이승규 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 09 Jan 2025 08:09:36 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/U2PXWAYDCBMYPDYMINACHGVG4Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;퇴직 이후 경찰관들의 인사 청탁을 들어주는 대가로 금품을 수수했다는 의혹을 받고 있는 전직 치안감이 지난해 7월 5일 대구지법에서 열린 영장실질심사(구속 전 피의자심문)를 마친 후 취재진의 질문에 답하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰관들의 인사 청탁을 들어주는 대가로 수천만원을 받은 전직 경북경찰청장 A(62)씨에게 실형이 선고됐다.&lt;br&gt;&lt;br&gt;대구지법 형사5단독 안경록 판사는 제3자뇌물취득 혐의로 구속 기소된 전 치안감 A씨에게 징역 1년 2개월을 선고하고 3400만원 추징을 명령했다. A씨와 경찰관들 사이에서 브로커 역할을 한 전직 경찰간부 B(63)씨에게도 징역 1년 6개월이 선고됐다.&lt;br&gt;&lt;br&gt;A씨는 경찰에서 퇴직한 이후인 2021년 12월부터 2022년 12월 중 경찰관들의 인사 청탁을 들어주는 대가로 브로커 B씨에게 3500만원 상당을 받은 혐의를 받고 기소됐다.&lt;br&gt;&lt;br&gt;재판부는 “A씨가 30년 이상 경찰 공무원으로 근무했으면서도, 퇴직 후 경찰관들의 인사에 개입해 3000만원이 넘는 금품을 받는 등 경찰 인사에 대한 국민 신뢰를 저버렸다”고 밝혔다.&lt;br&gt;&lt;br&gt;A씨 등과 함께 기소된 경찰관 5명에게 대한 선고도 이날 진행됐다. 브로커 B씨에게 1000만원씩 제공한 경찰관 3명 중 1명은 벌금 1500만원을, 2명은 무죄를 선고받았다. 재판부는 무죄를 받은 경찰관 2명에 대해 “(피고인들이)승진 이후 전직 치안감에게 돈을 전달한다는 정도로 인식했고, 현직 경찰 간부에게 현금을 준다고 인식했다고 볼 증거가 없다”고 했다.&lt;br&gt;&lt;br&gt;이들과 별도로 재직 중 인사 청탁 대가로 현금 1050만원을 받은 전 총경 C(57)씨에겐 징역 1년에 집행유예 2년이 선고됐으며, C씨에게 돈을 준 D(58)씨에겐 징역 10개월에 집행유예 1년이 선고됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘여제자 추행’ 경찰 출신 유명 프로파일러 법정구속 </title>
-      <link>https://www.chosun.com/national/court_law/2025/01/09/INWBGCTVRBCMJLNUPEVJH2PNBU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/01/09/INWBGCTVRBCMJLNUPEVJH2PNBU/</guid>
-      <dc:creator>군산=김정엽 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 09 Jan 2025 07:57:57 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DIFCM6SLNAHDVQCVYEALRBEWNU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원 로고. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;방송에 출연하며 유명 프로파일러로 활동한 전직 경찰관이 여제자를 성추행한 혐의 등으로 실형을 선고받고 법정구속됐다.&lt;br&gt;&lt;br&gt;전주지법 군산지원 형사2단독 강동원 부장판사는 9일 강제추행, 자격기본법 위반 등 혐의로 기소된 A씨에게 징역 1년 6개월을 선고하고 법정구속했다. 또 성폭력 치료 프로그램 40시간 이수와 아동·청소년·장애인 관련 기관 5년간 취업제한도 명령했다.&lt;br&gt;&lt;br&gt;A 씨는 지난 2019년 6월부터 2021년 1월까지 최면 심리 등을 공부하는 민간학회를 운영하면서 학회 회원이자 사제 관계인 피해자들을 성추행한 혐의(강제추행)로 기소됐다. 그는 2012년부터 2021년 2월까지 정식으로 등록되지 않은 ‘임상최면사’ 민간 자격증을 임의로 발급한 혐의(자격기본법 위반)도 받고 있다.&lt;br&gt;&lt;br&gt;A 씨는 검·경의 조사와 재판 과정에서 “강제 추행한 사실이 없다. 민간 자격증 학회도 운영하지 않았다”며 혐의를 전면 부인했지만 재판부는 모두 유죄로 판단했다.&lt;br&gt;&lt;br&gt;강 부장판사는 “경찰로 재직하면서 방송에 출연하는 등 외부에 알려진 것을 이용해 나이가 어리거나 정신이 취약한 피해자 다수를 상대로 범죄를 저질렀다”며 “피해자들의 수가 적지 않고 피해 복구가 되지 않은 점, 공소사실을 전면 부인하는 등 반성의 자세를 보이지 않은 점 등을 토대로 실형 선고가 불가피하다”고 판시했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>의약품 리베이트로 거액 받은 병원장 부부, 실형 선고</title>
-      <link>https://www.chosun.com/national/regional/gangwon/2025/01/09/72NGK22IHFAH3GALZHNY6BSZ6Y/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/gangwon/2025/01/09/72NGK22IHFAH3GALZHNY6BSZ6Y/</guid>
-      <dc:creator>김석모 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 09 Jan 2025 07:20:01 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HCDT4QJ6XJREDBHVZI4V6URJK4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원 로고. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;특정 제약사의 의약품을 사용하는 대가로 수십억원의 리베이트를 받아 챙긴 병원장 부부에게 실형이 선고됐다.&lt;br&gt;&lt;br&gt;춘천지법 속초지원 형사1단독 배다헌 판사는 배임수재 및 의료법 위반 혐의로 구속기소 된 강원도의 한 병원장 A씨와 그의 아내 B씨에게 징역 4년과 징역 2년을 각각 선고했다고 9일 밝혔다. 또 A씨에게는 10억여원, B씨에게는 9억여원의 추징금을 부과했다.&lt;br&gt;&lt;br&gt;A씨는 2019년 9월부터 2023년 5월까지 의약품 도매업자 C씨로부터 특정 제약사의 의약품을 사용하는 대가로 구매 대금의 일정 비율을 현금으로 상납받거나 신용카드를 제공받아 사용한 혐의를 받는다. A씨는 또 병원 인수 등의 목적으로 20억원을 무이자로 빌려쓰기도 했다.&lt;br&gt;&lt;br&gt;A씨의 아내 B씨는 병원 재무 이사로 자금 및 회계 등을 관리하며 A씨와 범행을 공모한 혐의를 받는다.&lt;br&gt;&lt;br&gt;A씨 부부에게 리베이트를 제공한 의약품 도매업자 C씨에게는 징역 2년에 집행유예 3년이 선고됐다.&lt;br&gt;&lt;br&gt;배 판사는 “의료계에서 의약품 처방의 대가로 리베이트를 받는 행위는 사회에 미치는 해악이 매우 크다”면서 “리베이트 금액이 많고 기간도 상당해 그에 상응하는 처벌이 불가피하다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/HCDT4QJ6XJREDBHVZI4V6URJK4.jpg?width=655&amp;height=676&amp;auth=8adeeb9bd4879d45d7ab41480154de67a2d58c28efc75c8430aeb18525c7fd49&amp;smart=true" type="image/jpeg" height="676" width="655">
-        <media:description type="plain">대한민국법원 로고 마크 ⓒ News1</media:description>
-      </media:content>
     </item>
     <item>
       <title>현관문 “담배 냄새 난다” 쪽지에…윗집 찾아가 폭행한 50대 ‘집유’</title>
