@@ -13,6 +13,42 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>‘尹 체포 저지’ 이진하 경호처 경비안전본부장 경찰 출석</title>
+      <link>https://www.chosun.com/national/national_general/2025/01/11/YG5VH2D3ABG75KNSQ6COK7SIEM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/11/YG5VH2D3ABG75KNSQ6COK7SIEM/</guid>
+      <dc:creator>구아모 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 11 Jan 2025 05:05:17 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6WU4PKYFWJKVDPYE4Z73AXSLSE.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;공수처와 경찰의 윤석열 대통령 2차 체포영장 집행 시도가 임박한 가운데 11일 오전 차벽이 세워진 서울 용산구 한남동 대통령 관저 안에서 경호 인력이 겹겹이 펜스를 치고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이진하 대통령 경호처 경비안전본부장이 11일 오후 1시 55분쯤 서울 서대문구 미근동 경찰청사에 피의자 신분으로 조사를 받기 위해 출석했다. &lt;br&gt;&lt;br&gt;이날 이 본부장은 ‘1차 소환조사에 불응했는데 2차 소환조사에 응한 이유는 무엇인가’ ‘체포 영장 집행 방해했다는 혐의 인정하나’ 등 취재진의 질문에 대답하지 않은 채 경찰청 국가수사본부 남관 쪽문으르 들어갔다.&lt;br&gt;&lt;br&gt;경찰은 윤석열 대통령 체포를 저지한 혐의를 받는 박종준 전 대통령 경호처장, 김성훈 대통령 경호 차장 등을 지난 3일 피의자 신분으로 입건했다. 이후 체포 영장 방해를 저지한 것으로 추가 혐의를 포착한 뒤 이진하 본부장과, 이광우 경호본부장 등도 같은 혐의로 입건됐다.&lt;br&gt;&lt;br&gt;이날 박 전 경호처장은 오전 9시쯤 경찰에 출석해 2차 소환 조사를 받고 있다. 김성훈 처장은 오전 10시로 출석이 예정됐으나, 경찰의 3차 소환 요구에도 불응했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>한밤 중 목포 유흥주점에서 화재…3명 중상</title>
+      <link>https://www.chosun.com/national/incident/2025/01/11/B4GZFFTEXNE6HGF2ZY3VPMWTQQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/01/11/B4GZFFTEXNE6HGF2ZY3VPMWTQQ/</guid>
+      <dc:creator>이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 11 Jan 2025 04:53:27 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MHVNB2B2WJHGXODIDACQLHGZVI.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;119 소방 로고&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;11일 오전 2시 29분쯤 전남 목포시 보광동의 한 4층짜리 건물 1층에 있는 유흥주점에서 화재가 발생했다.&lt;br&gt;&lt;br&gt;이 불로 유흥주점에 있던 50대 남성 2명과 40대 여성 1명 등 3명이 화상으로 중상을 입고 병원으로 이송돼 치료를 받고 있다.&lt;br&gt;&lt;br&gt;건물에 있던 10명이 소방 당국에 의해 구조됐고, 5명은 자력 대피했다.&lt;br&gt;&lt;br&gt;불은 오전 2시 56분쯤 진화됐다.&lt;br&gt;&lt;br&gt;소방 당국은 합동 감식 등을 진행해 정확한 화재 경위를 조사할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>채팅으로 만난 여중생 성 착취한 중등교사, 대법서 징역 8년 확정</title>
+      <link>https://www.chosun.com/national/court_law/2025/01/11/M3RIXIPOHNCUTETUOPHRXUJABQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/01/11/M3RIXIPOHNCUTETUOPHRXUJABQ/</guid>
+      <dc:creator>박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 11 Jan 2025 04:52:07 +0000</pubDate>
+      <content:encoded>채팅으로 만난 여중생을 수 년간 성 착취한 혐의로 기소된 중학교 교사가 대법원에서 징역 8년을 확정받았다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VS5TGFHKGAMKE3A3JMPBZQR6ZM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대법원 전경. / 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;11일 법조계에 따르면, 대법원은 아동·청소년의 성 보호에 관한 법률 위반(강간) 등 혐의로 기소된 A씨에게 징역 8년을 선고한 원심 판결을 최근 확정했다.&lt;br&gt;&lt;br&gt;중학교 교사였던 A씨는 랜덤 채팅을 통해 만난 여중생을 2년에 걸쳐 여러 차례 간음하는 등 지속적으로 성 착취한 혐의로 기소됐다.&lt;br&gt;&lt;br&gt;1심은 A씨에게 징역 8년을 선고했다. A씨는 1심에서 5000만원을 형사 공탁했고, 2심에서는 피해자에 3500만원을 지급해 합의했다. &lt;br&gt;&lt;br&gt;또 A씨는 피해자로부터 ‘처벌을 원치 않는다’는 합의서를 받아 재판부에 냈다. 반성문을 20여 차례 제출하기도 했다.&lt;br&gt;&lt;br&gt;그러나 2심은 A씨의 항소를 기각, 원심 판결을 유지했다. 2심은 “성적 가치관이 확립되지 않은 피해자를 대상으로 성 착취를 저질렀고, 피해자는 현재까지 극심한 정신적 고통과 후유증에 시달리고 있어 온전한 피해 회복이 곤란해 보인다”고 했다.&lt;br&gt;&lt;br&gt;이어 “미성년자의 처벌불원 의사가 결정적인 감형 이유가 되긴 어렵다”며 “피해자와 합의한 점 등을 피고인에게 유리한 사정으로 고려하더라도 징역 8년은 양형기준 권고형 범위 내에 있어 무겁다고 보이지 않는다”고 했다. &lt;br&gt;&lt;br&gt;2심에 불복한 A씨는 상고했지만, 대법원은 원심 판결이 타당하다 보고 상고를 기각했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>의장 선거 때 ‘기표지 인증샷’…성남시의회 국민의힘 의원들 기소</title>
+      <link>https://www.chosun.com/national/national_general/2025/01/11/7TILOZ4FONDYHJDS6DVTKZHEVI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/11/7TILOZ4FONDYHJDS6DVTKZHEVI/</guid>
+      <dc:creator>이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 11 Jan 2025 04:05:21 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/D7XZNX66ZBENLLDW4TRFDROZGY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기 성남시의회 더불어민주당 의원들이 지난해 8월 시의회 의장 선출 과정의 부정 행위를 규탄하는 기자회견을 갖고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 성남시의회 의장 선거과정에서 비밀투표 원칙을 어긴 혐의를 받는 국민의힘 의원들이 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;수원지검 성남지청은 위계에 의한 공무집행 방해 혐의로 성남시의회 국민의힘 정용한 의원을 불구속기소 했다고 11일 밝혔다.&lt;br&gt;&lt;br&gt;검찰은 또 같은 혐의를 받는 성남시의회 국민의힘 소속 의원 15명에 대해 벌금형으로 약식기소 했다.&lt;br&gt;&lt;br&gt;정 의원 등 성남시의회 국민의힘 의원 16명은 지난해 6월 26일 후반기 의장 선거 당시 기표지를 스마트폰으로 촬영한 뒤 메신저 단체 채팅방에 올리는 등 비밀 투표의 원칙을 어긴 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;당시 성남시의회는 의장에 3선인 국민의힘 이덕수 의원을, 부의장엔 재선의 국민의힘 안광림 의원을 각각 선출했다.&lt;br&gt;&lt;br&gt;성남시의회 더불어민주당 의원들은 지난해 7월 “국민의힘 의원들이 의장 선출 과정에서 담합해 특정 후보에게 투표하도록 강요하고, 기표지를 휴대전화로 촬영해 메신저를 통해 인증샷을 요구하는 등 비밀투표의 원칙을 위반했다”며 경찰에 고발했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>박종준 전 경호처장, 경찰 2차 출석</title>
       <link>https://www.chosun.com/national/national_general/2025/01/11/RVOSUSXLOVD3HMDSUOTPLNV5WI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/11/RVOSUSXLOVD3HMDSUOTPLNV5WI/</guid>
@@ -940,46 +976,6 @@
       <description/>
       <pubDate>Thu, 09 Jan 2025 15:51:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LF5IJKYYXVAWRF7SWWC4QRMRJQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이수만&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경복동창회(회장 지창훈)는 2025년 경복동문대상 수상자로 이수만 A2O엔터테인먼트 총괄 프로듀서를 선정했다고 9일 밝혔다. 이수만 프로듀서는 1995년 K팝의 선구적 연예 기획사인 SM엔터테인먼트를 창립해 글로벌 음악시장에 한국 대중음악을 전파하고 엔터테인먼트 산업의 혁신적 미래를 연 공로를 인정받아 수상자로 선정됐다. 시상식은 15일 오후 6시 서울 더프라자호텔 그랜드볼룸에서 정기총회 및 신년하례회와 함께 열린다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>퇴임 앞둔 바이든, 증조할아버지 됐다</title>
-      <link>https://www.chosun.com/national/people/2025/01/10/RRGTECSF2NDODA7GJ5BBBBVG44/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/01/10/RRGTECSF2NDODA7GJ5BBBBVG44/</guid>
-      <dc:creator>서보범 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 09 Jan 2025 15:51:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/75MYFEFTD53PR2CJ6LHULLE4HM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;8일(현지시각) 미국 로스앤젤레스(LA)의 한 병원에서 갓 태어난 증손주 윌리엄을 품에 안아보고 있는 조 바이든(오른쪽) 미 대통령과 부인 질 바이든 여사. /질 바이든 여사 인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;조 바이든 미국 대통령이 증손자를 얻었다. 오는 20일 역대 최고령(만 82세) 대통령으로 퇴임하는 바이든은 현직 미국 대통령 최초로 증조할아버지가 됐다. 이번에 태어난 증손자는 차남 헌터의 장녀 나오미 바이든 닐이 출산한 아들이다.&lt;br&gt;&lt;br&gt;8일 캘리포니아주 로스앤젤레스(LA) 산불 현장을 찾은 바이든은 샌타모니카 소방서에서 진행된 브리핑 말미에 “여러 가지 이유로 오늘을 기억하게 될 것”이라며 “단 한 가지 좋은 소식이 있다. 오늘부로 증조할아버지가 됐다”고 밝혔다. 바이든은 이날 오전 나오미가 제왕절개를 통해 아들을 출산한 LA 시더스-시나이 병원을 약 40분간 방문했다고 한다. 바이든은 브리핑에서 “증손녀(baby girl)”라고 했다가 “증손자(baby boy)”라고 곧바로 정정하기도 했다. 바이든의 배우자 질 바이든 여사는 인스타그램에 증손자를 안은 사진을 올리고 아이의 이름이 ‘윌리엄 브래넌 닐 4세’라고 소개했다.&lt;br&gt;&lt;br&gt;바이든은 사별한 첫 배우자 사이에서 딸과 두 아들, 재혼한 질 바이든 여사 사이에 딸을 뒀다. 첫 배우자와 장녀, 장남이 교통사고와 병으로 세상을 떠나 현재는 1남 1녀만 남았다. 차남의 딸인 나오미는 버락 오바마 행정부 백악관 인턴 출신인 피터 닐과 2022년 11월 백악관에서 결혼했다. 현직 대통령의 손녀가 백악관에서 결혼식을 올린 건 유례가 없는 일이다. 나오미는 현재 대형 로펌에서 변호사로 근무하는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;초대형 산불로 인명·재산 피해가 커지는 현장에서 개인적 소식을 전하며 기쁨을 드러낸 것이 부적절하다는 비판도 나왔다. 소셜미디어에선 “수만 명이 이재민이 된 상황인데 타이밍이 부적절했다” “재난 현장에서 경조사는 중요하지 않다”는 등 지적이 나왔다. 바이든은 불법 총기 소지와 탈세 등 혐의로 유죄 평결을 받은 헌터를 지난달 사면했을 때도 “아들을 사면하지 않겠다는 약속을 깨고 대통령의 사면권을 남용했다”는 비판을 받았다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[오늘의 날씨] 2025년 1월 10일</title>
-      <link>https://www.chosun.com/national/national_general/2025/01/10/33INMUGIOFDM7ODS63B7NTQF3E/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/10/33INMUGIOFDM7ODS63B7NTQF3E/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 09 Jan 2025 15:50:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CFHLYRWZ7ZBKJGYGMV3YFAC7NQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[고수 아빠의 육아 비결] 종이 찢어 붙여 만든 길로 아이와 ‘탐험 놀이’ 해보세요</title>
-      <link>https://www.chosun.com/culture-life/culture_general/2025/01/10/DV7VGAKACZH23PLS63TM5JY7JM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/culture-life/culture_general/2025/01/10/DV7VGAKACZH23PLS63TM5JY7JM/</guid>
-      <dc:creator>황성한 ‘기적의 아빠 육아’ 저자</dc:creator>
-      <description/>
-      <pubDate>Thu, 09 Jan 2025 15:50:00 +0000</pubDate>
-      <content:encoded>단순한 행동으로도 아이와 함께라면 상상 이상의 재미를 발견할 수 있습니다. 종이를 찢을 때 나는 경쾌한 소리가 주는 짜릿함을 아이와 느껴보세요. 준비물은 신문지나 A4 용지만 있으면 된답니다.&lt;br&gt;&lt;br&gt;먼저 신문지나 A4 용지 몇 장, 그리고 가위와 풀을 준비합니다. 아빠가 먼저 종이를 길고 얇게 찢는 모습을 보여주세요. 종이를 길게 찢으면서 아이에게 시범을 보입니다. “이 소리 들어봐! 쫘악 하는 소리가 재미있지?”라며 찢을 때 나는 소리에 집중할 수 있도록 해주세요. 아이가 흥미를 느낄 수 있도록 “누가 더 길게 찢을 수 있을까?”라고 하면서 시합을 해보세요. 종이를 찢으며 느껴지는 촉감과 바스락거리는 소리가 아이에게 새로운 즐거움을 주지요.&lt;br&gt;&lt;br&gt;길게 찢은 종이는 동그란 고리 모양으로 만듭니다. 그리고 고리 사이에 다른 종이를 끼워 넣고 사슬처럼 이어 붙여주세요. 하나씩 이어지며 점점 길어지는 사슬을 보면서 “우리가 만든 사슬이 어디까지 이어질까?”라고 말하며 놀이를 더 재미있게 만들어 보세요. 사슬이 길어질수록 아이가 성취감을 느낄 수 있지요. 사슬을 만들기 전에 종이를 색연필로 칠하거나 종이에 아이가 좋아하는 동물이나 캐릭터를 그리면 집중도도 높아지는데요. 이렇게 하면 단순히 종이 사슬 만들기에 그치는 것이 아니라 아빠와 아이만의 미술 작품이 되지요.&lt;br&gt;&lt;br&gt;종이를 길게 찢었다면 종이의 끝을 풀로 붙여 기다란 선을 만들어 보세요. 길게 연결한 종이를 바닥에 배치해 철길이나 도로처럼 길을 만들어 보는 거예요. 여기에 장난감 자동차를 종이 길 위로 이동시키는 놀이를 해 보세요. 종이를 일자로 연결해도 좋고, 방향을 이리저리 꺾어도 좋아요. 출발점과 도착점을 정한 뒤 자동차나 작은 인형을 이용해 길을 따라가 보는 탐험 놀이를 해 보세요.&lt;br&gt;&lt;br&gt;놀이가 끝난 후엔 완성한 사슬을 벽에 걸어 작품으로 남겨 보세요. 아빠와 아이가 함께 만든 창작물을 전시하는 거예요. 이 종이 사슬 놀이는 아이의 창의력을 길러줄 뿐만 아니라 아이와 아빠의 교감도 담기지요. 오늘 바로 종이를 꺼내 아이와 함께 종이를 찢고 이어 붙이면서 즐거운 시간을 보내세요.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>원래는 결혼 관심 없었지만 이제는 ‘출산 전도사’ 됐어요</title>
-      <link>https://www.chosun.com/culture-life/culture_general/2025/01/10/WKAXWWJJEJCUFO47TJFEMVWOV4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/culture-life/culture_general/2025/01/10/WKAXWWJJEJCUFO47TJFEMVWOV4/</guid>
-      <dc:creator>윤상진 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 09 Jan 2025 15:50:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Y7D7ZFFM2VET5H76N6CHJFLOFU.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;지난해 11월 본지 주최 ‘아이가 행복입니다. 부산’ 행사의 주요 이벤트인 ‘31초 우리 가족 행복 담기 영상제’에서 최우수상을 받은 김미영씨 가족이 지난 3일 부산 동래구 수민어울공원에 나란히 서 있다. 사진 위쪽부터 남편 신상현씨, 아내 김씨, 첫째 딸 예림, 둘째 아들 예준. /김동환 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“아이들에게서 얻는 행복이 이루 말할 수 없이 커요. 애들아, 너무너무 사랑한다. 진짜!”&lt;br&gt;&lt;br&gt;지난해 11월 1일 부산 해운대구 영화의전당에서 열린 본지 저출생 극복 캠페인 ‘아이가 행복입니다’ 행사. 주요 이벤트인 ‘31초 우리 가족 행복 담기 영상제’에서 최우수상을 받은 김미영(43)씨는 출품 영상의 주인공인 첫째 신예림(10)양과 둘째 신예준(5)군을 향해 이 같은 수상 소감을 남겼다. 김씨는 “영상을 만들면서 말 그대로 ‘아이가 행복이다’라는 것을 느꼈다”며 “원래 결혼 생각이 없었는데, 이젠 주변에 ‘아이가 주는 행복감이 정말 크다’며 ‘전도’까지 하게 됐다”고 말했다.&lt;br&gt;&lt;br&gt;부산 동래구에 사는 김씨 가족이 만든 영상 제목은 ‘다섯살 차이 예림 예준’. 제목처럼 누나와 동생이 함께 시간을 보내는 모습이 담겨 있다. 집, 공원, 카페, 놀이동산, 식당, 전시회장…. 10여 개의 영상 장면을 이어붙여 만든 작품엔 어디서든 손을 맞잡고 웃고 있는 남매의 모습이 보인다. 동생을 껴안고, 때론 업기도 하며 장난을 치는 누나. 영상은 그런 남매를 흐뭇하게 바라보는 엄마의 시선으로 촬영됐다.&lt;br&gt;&lt;br&gt;김씨는 지난 3일 전화 인터뷰에서 “제가 가족으로 인해 이렇게 행복함을 느끼게 될 줄은 몰랐다”고 말했다. 김씨는 ‘비혼주의’까지는 아니어도, 20대 때는 ‘꼭 결혼을 해야 하는지’ 시큰둥했다고 한다. 아이를 낳겠다는 생각도 해본 적 없었다. 혼자 지내는 삶에 만족했기 때문에 결혼과 출산의 필요성에 공감하지 못했다는 것이다.&lt;br&gt;&lt;br&gt;김씨의 가족관이 달라지기 시작한 것은 2010년 남편 신상현(46)씨를 만나면서부터였다. 김씨는 서비스업에 종사하는 신씨의 고객이었다고 한다. 둘은 곧 연인 관계로 이어졌고, 신씨의 다정다감한 모습에 김씨는 ‘결혼을 해도 괜찮을 수 있겠다’는 생각을 하게 됐다. 연애 기간 동안 신씨는 일주일에 2~3번씩 김씨에게 편지를 써줬다고 한다. 종이, 영수증, 티슈…. 펜과 무언가를 쓸 수 있는 물건만 있으면 미루지 않고 마음을 표현했다. 업무 특성상 외부 고객과 미팅이 잦지만, 술 한 방울 입에 대지 않는 신씨의 철저한 모습을 보며 김씨는 자연스럽게 결혼까지 이어지게 됐다고 한다.&lt;br&gt;&lt;br&gt;김씨 가족에게 더 큰 행복은 결혼 후에 찾아왔다. 결혼 이듬해인 2015년에 첫째 예림양이 태어난 것이다. 김씨는 “남들이 다 힘들다고 하는 육아지만, 딸과 함께 시간을 보내는 것이 너무 즐거웠다”고 했다. 육아는 주로 재택근무를 하며 의류 사업을 하는 김씨가 맡았다. 예림양과 더 많은 시간을 보내고 싶어 다섯 살이 되어서야 어린이집에 보냈다. 김씨는 지금도 일주일에 2~3번씩 어린 딸과 함께 자신이 좋아하는 미술 전시나 예술 공연을 보러 다닌다고 한다.&lt;br&gt;&lt;br&gt;예림양이 가장 좋아하는 공간은 부산 기장군에 있는 ‘롯데월드 어드벤처 부산’. 2022년 개장 이후 일주일에 한 번씩은 꼭 이곳에 방문해 퍼레이드를 본다. 이제 동선과 안무를 다 외울 정도다. 어려서부터 춤에 관심이 많았던 첫째 딸은 지금은 아역 배우로도 활동하고 있다. 부산에 있는 방송국에서 주최하는 캠페인 광고에 출연한 것도 이미 수차례다.&lt;br&gt;&lt;br&gt;김씨는 밝고 활동적인 성격의 첫째를 보며 “모든 순간을 기록해놔야겠다는 생각이 들었다”고 했다. 김씨의 가장 소중한 보물 중 하나는 아이들의 사진과 영상이 들어 있는 외장 메모리. 네 가족의 추억을 잊지 않기 위해 개인 소셜미디어 계정에 올린 게시물만 1만6000개다. 스마트폰은 항상 가장 큰 저장 용량을 가진 모델을 구매하고, 이마저도 부족해 지금까지 구입해 사용한 외장 메모리(2TB)만 5개다.&lt;br&gt;&lt;br&gt;둘째 예준군을 가졌을 때는 걱정도 있었다. 그만큼 첫째에게 신경을 쓸 시간이 줄어들지도 모른다는 생각이었다. 하지만 지금은 예림양만큼 동생과 잘 놀아주는 사람이 없을 정도라고 한다. 누나의 일과는 남동생과 놀아주는 것으로 시작하고 끝난다. 동생과 함께 역할 놀이도 하고, 같이 그림을 그리거나 숨바꼭질도 한다. 남편 신씨는 “남매가 서로 잘 지내는 모습을 볼 때 느끼는 뿌듯함은 말로 표현하기 어렵다”고 했다.&lt;br&gt;&lt;br&gt;최근 김씨 가족은 주변 부부들에게 출산을 권하는 ‘전도사’가 됐다. 결혼은 했는데 아이 낳기를 고민하거나, 첫째는 있지만 둘째 갖는 것을 망설이는 부부들에게 “낳았을 때 기쁨이 더 크다”라고 설명하는 것이다. 최근엔 “첫째가 이미 여섯 살이라 둘째 낳기엔 좀 늦지 않았느냐”라는 지인 부부의 고민 상담이 들어왔다. 김씨는 “아이가 주는 행복에 비하면 걱정은 별것 아니다”라며 둘째 예준군을 예로 들었다고 한다. “둘째는 말썽을 부려도 귀엽고, 혼자보단 아이 둘이서 놀 때 든든해요. 먼 미래를 생각해 봤을 때 둘이 의지를 할 수 있는 것도 장점이에요.” 김씨 가족의 화목한 모습을 지켜본 지인 부부도 결국 둘째 아이를 갖게 됐다고 한다.&lt;br&gt;&lt;br&gt;우애 좋은 남매지만, 김씨는 때론 첫째 딸과 둘만의 시간을 보낸다는 규칙을 만들고 꼭 지킨다고 한다. “아이가 말로 표현하지 않아도, 동생에게 신경 쓰는 시간이 많아지면 서운해할 수 있다”는 것이다. 활동적인 모녀와 달리 아빠와 아들은 집에 있는 것을 좋아하는 ‘집돌이’라고 한다. 그동안 동생 예준군은 아빠와 함께 집에서 휴식을 하거나 인근 공원에서 공놀이와 산책을 즐긴다.&lt;br&gt;&lt;br&gt;김씨 부부는 “아이들이 잘 지내니 부부 관계도 더 돈독해졌다”고 했다. 아이들이 있으니 화날 일이 있어도 한 번 더 참게 되고, 부부가 각자 아이들과 함께 보낸 시간을 서로 공유하면서 끝없이 대화가 이어지기도 한다는 것이다. 신씨는 “네 가족이 함께 시간을 보내는 순간순간 행복함을 느낀다”며 “아이 자체가 ‘사랑’이라는 것을 출산을 고민하는 다른 부부들이 꼭 알았으면 좋겠다”라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/Y3I26KBKLFHLVAORJ2WRLK6OPI.JPG?width=2690&amp;height=1513&amp;auth=5ba79645326fc55480d1a102dec498d9501c585d1d1cffea1df80fbaa3e21c87&amp;smart=true" type="image/jpeg" height="1513" width="2690">
-        <media:description type="plain">3일 오후  비혼주의에서 출산 전도사가 된 김미영 씨가 가족들과 함께 부산 동래구 수민어울공원에서 본지 인터뷰에 앞서 포즈를 취했다./2025.01.03 김동환 기자</media:description>
-        <media:credit role="author" scheme="urn:ebu">김동환 기자</media:credit>
-      </media:content>
     </item>
     <item>
       <title>“고춧가루·참기름 팔아요”… 방앗간 홍보에 동원된 사이버트럭 화제</title>
