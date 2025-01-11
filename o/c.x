@@ -13,6 +13,69 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>박종준 전 경호처장, 경찰 2차 출석</title>
+      <link>https://www.chosun.com/national/national_general/2025/01/11/RVOSUSXLOVD3HMDSUOTPLNV5WI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/11/RVOSUSXLOVD3HMDSUOTPLNV5WI/</guid>
+      <dc:creator>구아모 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 11 Jan 2025 00:48:05 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3LB6KM5A75CH7ESJTM644V62DM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령 체포 저지를 주도한 박종준 전 대통령 경호처장이 10일 밤 서울 서대문구 경찰청 국가수사본부에서 조사를 마친 뒤 청사를 나서고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 대통령 체포 저지를 주도한 혐의를 받는 박종준 전 대통령 경호처장이 11일 오전 9시쯤 서울 서대문구 미근동 경찰청에 2차 출석했다. 박 전 처장은 전날 1차 출석 당시 13시간의 강도 높은 조사를 받고 밤 11시쯤 귀가했다.&lt;br&gt;&lt;br&gt;12·3 비상계엄 사태를 수사하는 경찰 특별수사단은 앞서 2차례 소환에 불응한 박 전 처장을 긴급체포하는 방안도 검토했지만, 무리한 강제 수사에 나설 필요는 없다고 판단했다.&lt;br&gt;&lt;br&gt;박 전 처장은 전날 1차 조사를 받는 도중 사표를 내 조사 도중 전직 신분이 됐다. 조사 도중인 10일 오후 4시 50분쯤 사직서가 수리됐다. 박 전 처장의 사직서 수리로 김성훈 경호처 차장과 이진하 경비안전본부장이 대통령 경호 책임자가 됐다.&lt;br&gt;&lt;br&gt;박 전 처장은 경찰에 첫 출석할 당시 “우리나라 국격에 맞게 대통령에게 적정한 수사 절차가 진행되길 바란다”며 윤 대통령에 대한 체포 시도가 부당하다고 주장하기도 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>술 취해 운전하다 사고 내고, 달아나다 또 사고…4명 다치게 한 60대 운전자</title>
+      <link>https://www.chosun.com/national/incident/2025/01/11/57FTRZDPBRCGBKJXKJ2RW24DNE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/01/11/57FTRZDPBRCGBKJXKJ2RW24DNE/</guid>
+      <dc:creator>이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 11 Jan 2025 02:25:41 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CZB3BR7Y7VMFXLNGIHKOPD3VTU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;10일 오후 부산 동래구 사직동 음주운전 교통사고 현장. /동래경찰서&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;술에 취해 운전하다 사고를 내 4명을 다치게 한 60대 운전자가 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;부산 동래경찰서는 특정범죄가중처벌법상 도주 치상, 도로교통법상 음주운전 등 혐의로 60대 A씨를 입건했다고 11일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 전날 오후 7시 20분쯤 부산 동래구 사직동의 한 교차로에서 술을 마시고 운전하다 사고를 내 40대 오토바이 운전자와 승용차 운전자를 다치게 한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;A씨는 사고 직후 100m 정도를 달아나다 신호 대기 중이던 다른 오토바이와 승용차를 차례로 추돌해 승용차 운전자 등 2명을 다치게 한 혐의도 받는다.&lt;br&gt;&lt;br&gt;신고를 받고 출동한 경찰에 붙잡힌 A씨의 혈중알코올농도는 면허 취소 수준(0.08%)인 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰은 A씨를 상대로 정확한 범행 경위를 조사하고, 구속영장을 신청할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>김성훈 경호처 차장, 경찰 3차 출석 요구 불응</title>
+      <link>https://www.chosun.com/national/national_general/2025/01/11/D35KVJSJPRHN7JFNUF4EUXJ5XI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/11/D35KVJSJPRHN7JFNUF4EUXJ5XI/</guid>
+      <dc:creator>구아모 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 11 Jan 2025 01:18:16 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GPQ5MY23YILOULZA2RJ7B4DRAA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김성훈 대통령경호처 차장이 작년 11월 19일 오후 서울 여의도 국회에서 열린 운영위원회 전체회의에 출석해 의원 질의에 답변하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰청 비상계엄 특별수사단은 11일 오전 10시까지 출석하라는 3차 출석 요구서를 김성훈 대통령 경호처 차장에게 발송했으나 현재까지 김 차장이 경찰에 출석하지 않았다고 밝혔다. &lt;br&gt;&lt;br&gt;경찰은 앞서 지난 4일과 8일 김 차장에게 출석 요구를 했지만 김 차장은 소환에 응하지 않았다. 경찰은 11일 오후 2시에 이진하 경비안전본부장에게는 2차 출석요구서를 보낸 상태다.&lt;br&gt;&lt;br&gt;현재 경호처는 김성훈 경호차장 직무대행 체제로 운영되고 있다. 전날 박종준 대통령 경호처장이 경찰의 3차 소환 요구에 응하는 과정에서 사직하면서다. 박 처장을 대신해 경호처를 당분간 이끌 김성훈 차장과 이진하 경비안전본부장은 경호처 공무원이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>출소 4개월 만에 “무시한다”며 또다시 스토킹… 방화까지 시도한 50대 ‘징역형’</title>
+      <link>https://www.chosun.com/national/court_law/2025/01/11/EBI55KREQJBY7OOOQIQ2ESDNJI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/01/11/EBI55KREQJBY7OOOQIQ2ESDNJI/</guid>
+      <dc:creator>이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 11 Jan 2025 01:48:14 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2NXDPNN5BNM2Y4MQCTVXGHGWMA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;춘천지법 영월지원. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;자신이 스토킹했던 상대를 교도소 출소 후 다시 찾아 “날 무시한다”며 스토킹 하고, 불까지 지르려 한 50대 남성에게 징역형이 선고됐다.&lt;br&gt;&lt;br&gt;11일 법조계에 따르면 춘천지법 영월지원 형사 1단독 강명중 판사는 현주건조물방화예비, 주거침입, 스토킹범죄의 처벌 등에 관한 법률위반 등 혐의로 구속기소 된 A(57)씨에 대해 징역 3년 6개월을 선고했다. 또 80시간의 스토킹 치료 프로그램 이수를 명령했다.&lt;br&gt;&lt;br&gt;A씨는 지난해 10월 9일 오전 2시 16분쯤 강원 평창군에 사는 지인 B씨에게 전화해 ‘네가 날 개무시해? 내가 또라이 같은 짓거리 해볼까’라고 말한 뒤, B씨 집을 찾아 현관문을 두드리며 스토킹한 혐의로 기소됐다.&lt;br&gt;&lt;br&gt;A씨는 차에 있던 휘발유를 B씨 집 현관문과 공용 복도 등에 뿌리고 라이터로 불을 붙이려고 한 혐의도 받았다.&lt;br&gt;&lt;br&gt;A씨는 2023년 12월 B씨에 대한 스토킹 등으로 징역 10개월을 선고받고 복역한 뒤, 지난해 6월 형 집행이 종료돼 출소했다.&lt;br&gt;&lt;br&gt;A씨는 사건 며칠 전 B씨로부터 ‘잘 지내고 싶은 마음 절대 없다’는 말을 들어, B씨가 자신의 연락이나 접근을 원하지 않는다는 사실을 알면서도 범행한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;강 판사는 “출소한 지 4개월 만에 또다시 같은 피해자를 상대로 스토킹을 하고 피해자 주거지에 임의로 들어가 불을 지르려 했다”며 “죄질이 매우 불량하다”고 했다.&lt;br&gt;&lt;br&gt;이어 “피해자가 극심한 정신적 고통을 겪었을 것으로 보이고 피해자로부터 용서받지 못한 점, 범행을 자백한 점 등을 고려했다”고 양형 이유를 설명했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>전남 나주시 빛가람동 일대 정전… 3200여가구 피해</title>
+      <link>https://www.chosun.com/national/incident/2025/01/11/JEA3WGT3LNFHRMHZRLHHUX3SFA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/01/11/JEA3WGT3LNFHRMHZRLHHUX3SFA/</guid>
+      <dc:creator>이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 11 Jan 2025 00:45:17 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FMIS7GLFU2DYYHVLCWYDY65H4Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한국전력 본사. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;11일 오전 5시 14분쯤 전남 나주시 빛가람동과 금천면, 산포면 일대에 전기 공급이 끊기는 사고가 발생했다.&lt;br&gt;&lt;br&gt;이 사고로 3230여가구가 정전 피해를 입은 것으로 파악됐다.&lt;br&gt;&lt;br&gt;한전 측은 오전 5시 16분쯤 전력공급을 재개했다고 했으나, 일부 아파트에선 전기 공급 등을 위한 자체 설비가 재가동되는 데까지 시간이 걸려 상당시간 불편을 겪은 것으로 알려졌다.&lt;br&gt;&lt;br&gt;한전 측은 지중 케이블이 훼손되면서 정전이 발생한 것으로 보고 정확한 사고 경위를 확인할 계획이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>인천 송도 아파트 화재로 정전…엘리베이터 갇혔던 8명 구조</title>
+      <link>https://www.chosun.com/national/incident/2025/01/11/3CIX3CW3BRETZAW7PQINTSR57M/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/01/11/3CIX3CW3BRETZAW7PQINTSR57M/</guid>
+      <dc:creator>이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 11 Jan 2025 00:03:17 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RMV4V2DY5ADFHD45NUBJLOCS4I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;119 소방 로고. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천 송도국제도시의 한 아파트에서 발생한 화재로 정전이 발생해 주민 8명이 엘리베이터에 갇혔다가 구조됐다.&lt;br&gt;&lt;br&gt;11일 인천소방본부 등에 따르면 전날 오후 6시 56분쯤 인천 연수구 송도국제도시의 46층짜리 아파트 7층에 있는 유수검지 장치실에서 화재가 발생했다.&lt;br&gt;&lt;br&gt;이 불로 아파트 단지 8개동 가운데 4개동에 전기공급이 끊겼다. 당시 엘리베이터에 타고 있던 주민 8명도 갇혔다.&lt;br&gt;&lt;br&gt;소방 당국은 소방관 등 인력 50여명과 펌프차 등 장비 18대를 투입해 신고 접수 10분 만인 오후 7시 6분쯤 불을 끄고, 엘리베이터에 갇힌 주민들을 모두 구조했다.&lt;br&gt;&lt;br&gt;화재로 인한 인명피해는 없었다. 전기공급은 오후 8시 40분쯤 재개됐다.&lt;br&gt;&lt;br&gt;소방 당국은 자세한 화재원인과 피해 규모를 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>경기 동두천 사찰 화재… 70대 승려 1명 사망</title>
+      <link>https://www.chosun.com/national/incident/2025/01/11/DAYGMXGRXVHSRAWWZBRO2MGYUI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/01/11/DAYGMXGRXVHSRAWWZBRO2MGYUI/</guid>
+      <dc:creator>이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 10 Jan 2025 23:47:30 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MHVNB2B2WJHGXODIDACQLHGZVI.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;119 소방 로고./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 동두천의 한 사찰에서 화재가 발생해 승려 1명이 숨졌다.&lt;br&gt;&lt;br&gt;11일 경기북부소방재난본부 등에 따르면 전날 오전 8시 15분쯤 경기 동두천시 생연동의 한 사찰에서 화재가 발생했다.&lt;br&gt;&lt;br&gt;이 화재로 70대 승려 1명이 숨지고, 51㎡ 면적의 목조건물과 집기류 등이 불에 타 소방서 추산 4800만원 상당의 재산 피해가 발생했다.&lt;br&gt;&lt;br&gt;숨진 승려는 사찰 안 다락방 입구에서 발견된 것으로 알려졌다.&lt;br&gt;&lt;br&gt;소방 당국은 장비 22대와 인력 59명을 투입해 약 7시간 만에 불을 껐다.&lt;br&gt;&lt;br&gt;소방 당국은 다락방에 있던 화목 난로에서 불이 시작된 것으로 보고, 정확한 화재 원인을 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>오상욱·신유빈·에드워드 리 ‘제21회 한국 이미지상’ 수상</title>
       <link>https://www.chosun.com/national/people/2025/01/11/H4HSFLAJANACDNP3GO75CCKJBU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/people/2025/01/11/H4HSFLAJANACDNP3GO75CCKJBU/</guid>
@@ -797,42 +860,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/E4NKAMJ5JJFX3PTNBQCMM4FPEQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;개그맨 안상태. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;4년 전 층간 소음 가해자로 지목된 뒤 한동안 모습을 감췄던 개그맨 안상태가 영화감독으로 변신한 근황을 전했다. &lt;br&gt;&lt;br&gt;9일 방송된 MBN ‘특종세상’에 출연한 안상태는 과거 층간 소음 논란에 대해 “그때 난리 났었다. 제 기억에는 집을 못 나갈 정도로 죄인이 됐었다”며 “꼼짝없이 (아랫집) 그분 말이 맞는 것처럼 됐었다”고 말했다. 이어 “’신체 한 부분을 잘라라’ 등 딸에 대한 잔인한 악플들이 있었다”며 “마음이 굉장히 아팠다. 밥도 못 먹으러 나가겠더라”고 당시를 회상했다. &lt;br&gt;&lt;br&gt;안상태는 “법정에서 (아랫집) 그분을 만나서 ‘한 번도 저를 본 적이 없는데 왜 그런 글을 쓰셨냐?’고 했더니 ‘애 키우느라 스트레스 때문에 그랬다’고 하더라”며 억울한 마음을 표현했다. &lt;br&gt;&lt;br&gt;안상태는 현재 단편영화를 제작하고 있다고 했다. 감독, 각본, 촬영, 조명, 편집, 소품 담당은 물론 연기까지 직접 했다. 적은 제작비 탓에 배우 섭외가 어려워 개그맨 동료들이 출연하며 도움을 주고 있었다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FCMBT6VSZJ5LCUC36ZEZ52T2BY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;개그맨 안상태가 영화 제작으로 얻은 1년 수익이 32만원이라고 말했다. /MBN&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;안상태는 영화로 인한 수익을 묻자 “1년 수익이 32만원”이라고 말하며 쑥스러운 듯 웃었다. 한 달에 2만8000원 정도다. 안상태는 “(영화를) 만들고 나서 (관객들이) 많이 보지는 않는데 제가 상상한 이야기를 공감해 주고 같이 이야기해 주는 게 되게 행복하더라. 그 기분에 하는 것 같다”고 했다. &lt;br&gt;&lt;br&gt;앞서 2021년 1월 안상태의 아랫집에 살던 A씨는 온라인 커뮤니티에 “밤낮 구분 없이 울려대는 물건 던지는 소리, 뛰는 소리가 들려 스트레스를 많이 받았다”며 “정중하게 아기가 뛰냐고 물었는데 윗집에서는 ‘이렇게 찾아오는 건 불법이다’ ‘그럼 아이를 묶어놓냐’고 대응했다”고 주장해 논란이 일었다.&lt;br&gt;&lt;br&gt;비판이 쏟아지자 집을 이사한 안상태는 그해 4월 A씨를 상대로 소송을 제기했다. 안상태 측은 “해당 아파트에서 5년 넘게 거주하는 동안 단 한 번도 아랫집으로부터 층간 소음 항의를 받은 적 없었다”며 “아랫집 분의 폭로는 대부분 허위다. 안상태와 가족은 처음 겪는 엄청난 비난과 욕설 때문에 극심한 두려움과 고통 속에 힘든 날을 보내고 있다”고 했다. &lt;br&gt;&lt;br&gt;2022년 6월 안상태 측은 “1년 넘게 진행된 민사소송에서 진실이 밝혀졌다”며 “층간 소음 피해자라고 주장하며 인터넷에 글을 게시한 A씨는 안상태가 층간 소음 방지를 위해 노력한 사실을 인정하고 정중히 사과했으며 자신이 작성한 글까지 모두 삭제했다”고 밝혔다. 이어 “이로써 그간 잘못 알려졌던 사실관계가 바로잡혔다”며 “폭로 글에 대한 사실을 제대로 알지 못하고 무분별하게 안상태와 가족을 모욕하는 댓글을 단 자들에 대해서는 모두 벌금형 등 처벌이 내려졌다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>환자 몸 위에 올라타 폭행한 요양보호사, 징역 8개월 ‘법정 구속’</title>
-      <link>https://www.chosun.com/national/court_law/2025/01/10/VSUIRBXVKVDEZHQFECT7PB77BE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/01/10/VSUIRBXVKVDEZHQFECT7PB77BE/</guid>
-      <dc:creator>인천=이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 10 Jan 2025 01:41:54 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SKAPAZQXV5KJNHCV3TRZZGHAV4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원 로고. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;장애가 있는 환자를 폭행한 30대 요양보호사가 실형을 선고받고 법정 구속됐다.&lt;br&gt;&lt;br&gt;인천지법 형사 5단독 홍준서 판사는 10일 장애인복지법 위반 등 혐의로 기소된 요양보호사 A(37)씨에 대해 징역 8개월과 벌금 300만원을 선고하고, 법정 구속했다.&lt;br&gt;&lt;br&gt;홍 판사는 “실형을 선고해 법정구속 한다”며 “도주할 우려가 있다는 게 구속 사유”라고 했다.&lt;br&gt;&lt;br&gt;A씨는 지난 2023년 1월 인천의 한 정신병원에서 지적장애가 있는 50대 여성 B씨를 여러 차례 폭행한 혐의로 기소됐다.&lt;br&gt;&lt;br&gt;병원 감시카메라(CCTV) 영상엔 A씨가 B씨 몸 위에 올라타 폭행하고, 복부를 발로 걷어차거나 빗자루로 목을 누르는 모습이 담긴 것으로 조사됐다. A씨는 B씨가 자신의 통제에 따르지 않는다는 이유로 폭행한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;B씨 가족은 부실한 관리에 책임이 있다며 병원 측도 함께 고소했으나 검찰은 불기소 처분했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>정부, 제주항공 참사 유가족 긴급생계비 300만원 오늘 지급</title>
-      <link>https://www.chosun.com/national/national_general/2025/01/10/C45L6ETG7ZHWFDMGFSQR73MJOM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/10/C45L6ETG7ZHWFDMGFSQR73MJOM/</guid>
-      <dc:creator>박진성 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 10 Jan 2025 01:26:23 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AYBCOKGFPH3ZSICAB4Q2HIM23I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;10일 오전 고기동 행정안전부장관 직무대행이 제주항공 여객기 사고 중앙안전재난안전본부회의를 주재하며 발언하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정부가 제주항공 참사 유가족들에 긴급생계비 300만원을 지급한다. 사고 원인 중 하나로 지목되고 있는 둔덕형 방위각 시설(로컬라이저)이 설치된 공항에는 운항 경험이 많은 조종사 위주로 운항하도록 할 방침이다.&lt;br&gt;&lt;br&gt;고기동 행정안전부 장관 직무대행은 10일 정부세종청사에서 ‘제주항공 여객기 사고 중앙재난안전대책본부 회의’를 열고 이같이 밝혔다.&lt;br&gt;&lt;br&gt;고 대행은 “공항과 항공사에 대한 특별안전점검을 통해 개선과제를 도출하고 가능한 것은 즉시 조치하겠다”며 “전국 13개 공항의 항행 안전시설에 대한 특별점검을 지난 8일 완료해 점검결과를 분석하고 있다”고 말했다. &lt;br&gt;&lt;br&gt;그러면서 “우선 국내 11개 모든 항공사를 대상으로 둔덕 형태의 로컬라이저가 설치된 공항에 취항하는 경우, 운항 경험이 많은 조종사 위주로 운항하고 운항 시마다 특별교육을 하도록 긴급 안전조치를 시행했다”며 “구조적인 개선방안도 조속히 마련토록 하겠다”고 말했다. 콘크리트 둔덕 형태의 로컬라이저 구조물은 제주항공 여객기 사고 피해를 키운 원인으로 지목된 시설이다. &lt;br&gt;&lt;br&gt;유가족 생계비 지원도 시작한다. 고 대행은 제주항공 참사 유가족 관련해 “국민 성금 모금 기간이 끝나지 않았지만, 오늘 일차적으로 긴급생계비 300만원을 지급한다”고 밝혔다. 이어 고 대행은 “긴급돌봄은 개별적인 상황을 고려해 도움이 될 수 있도록 지원 한도와 대상을 확대해 탄력적으로 적용하고 있다”며 “유가족별로 지정된 전담 공무원을 유지하며 필요한 사항을 세심히 파악해 지원하고 있다”고 말했다. &lt;br&gt;&lt;br&gt;또, 기본적으로 6개월간 보관되던 유류품에 대해서는 유가족 요청이 있을 경우 이를 반영해 보관 기간을 연장하기로 했다. 이 외에도 보험, 상속 등 유가족 지원 사항을 정리한 안내서를 11일 유가족 총회에서 배부할 계획이다. &lt;br&gt;&lt;br&gt;사고 원인을 규명하기 위한 조사도 진행 중이다. 고 대행은 “사고조사위원회는 사고 현장에서 엔진, 착륙장치, 조종계통과 전자계통의 부품 등 사고 항공기 잔해를 확보해 분석하고 있다”며 “비행기록장치(FDR)는 미국 교통안전위원회와 함께 어제부터 자료를 추출하고 있다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문은 선생님] [동물 이야기] 차 막아서서 과일 받아가는 ‘톨게이트 코끼리’… 종교 의식에도 동원된대요</title>
-      <link>https://www.chosun.com/national/nie/2025/01/08/T77IXHZTDZERRPWLAPVHXDFVJY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2025/01/08/T77IXHZTDZERRPWLAPVHXDFVJY/</guid>
-      <dc:creator>정지섭 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 07 Jan 2025 15:31:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/W6OW5LF73FBFJHCVP5TG54K544.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;스리랑카 남부 카타라가마 인근 도로에서 한 스리랑카코끼리가 버스에 다가가 코를 들고 있어요. 이 코끼리는 버스를 막았다가 사람들이 먹을 걸 주면 길을 비켜줘 ‘톨게이트 코끼리’라는 별명을 얻었답니다. /AFP 연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;요즘 인도양의 섬나라 스리랑카에서는 독특한 습성을 가진 코끼리가 화제를 모으고 있어요. 차도를 막아서고 있다가 운전자나 승객이 주는 과일을 받은 다음에 비켜줘요. 그래서 이 코끼리에게는 ‘톨게이트(요금소) 코끼리’라는 별명까지 붙었어요.&lt;br&gt;&lt;br&gt;코끼리는 서식 지역에 따라 크게 아프리카코끼리와 아시아코끼리로 나뉘어요. 동남아시아·남아시아에 사는 아시아코끼리는 아프리카코끼리보다 덩치도 왜소하고, 귀도 작고, 성질도 온순한 게 특징인데요. 아시아코끼리는 다시 인도코끼리·수마트라코끼리·스리랑카코끼리로 나뉜답니다.&lt;br&gt;&lt;br&gt;이 중에 가장 덩치가 큰 종류가 스리랑카코끼리예요. 전 세계 야생 코끼리 5만여 마리 중 7000여 마리가 스리랑카코끼리예요. 지도를 보면 알겠지만 스리랑카는 면적이 한반도의 3분의 1도 되지 않는 작은 섬이랍니다. 그래서 스리랑카는 아시아 다른 지역보다 코끼리 서식 밀도가 월등히 높아요.&lt;br&gt;&lt;br&gt;그 때문에 ‘톨게이트 코끼리’처럼 사람과 코끼리가 마주치는 일이 종종 일어난답니다. 스리랑카코끼리는 다 자란 수컷을 기준으로 어깨높이는 3.5m이고, 몸무게는 5500㎏까지 나간답니다. 아프리카코끼리만큼은 아니어도 엄청난 거구죠.&lt;br&gt;&lt;br&gt;스리랑카코끼리는 아시아코끼리 중에서 가장 짙은 피부색을 하고 있어요. 그런데 귀와 코, 얼굴, 배 부분에 군데군데 분홍색 또는 흰색 피부를 볼 수 있죠. 피부색이 탈색된 건데요. 유전자와 영양 상태, 서식지 등 여러 가지 요소 때문에 이런 피부 색깔이 나타나는 것으로 추정되고 있어요.&lt;br&gt;&lt;br&gt;코끼리 하면 떠오르는 게 기다랗게 뻗은 엄니(상아)인데요. 그런데 스리랑카코끼리는 암컷, 수컷 모두 엄니를 보기가 어려워요. 이들이 이렇게 된 건 인간의 영향이 있다고 얘기해요. 엄니를 노린 인간의 사냥을 피하려다 보니 아예 엄니를 없애는 쪽으로 진화를 하게 됐다는 것이죠.&lt;br&gt;&lt;br&gt;여느 코끼리 무리와 마찬가지로 스리랑카코끼리도 나이 많고 경험이 풍부한 암컷이 다른 암컷과 어린 새끼들로 구성된 무리를 이끌어요. 여덟 살이 넘어 성숙한 수컷들은 따로 무리를 이뤄서 살고요.&lt;br&gt;&lt;br&gt;코끼리는 스리랑카 문화와 역사에서도 상당히 중요하게 여겨져요. 불교나 힌두교 의식 때 화려하게 치장을 한 코끼리가 등장하기도 하죠. 밀렵으로 숫자가 급감하자 스리랑카 정부는 코끼리를 죽일 경우 최대 사형에 처할 수 있도록 하는 등 코끼리 보호에 적극적으로 나섰어요.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/P6Y2Y2FZYNBGZLSHUASMRUMDNY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울대공원 동물원에 살고있는 스리랑카 코끼리 '희망이'예요. /서울대공원 동물원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;스리랑카코끼리는 우리나라와도 아주 인연이 깊답니다. 2010년 스리랑카 정부에서 기증한 암컷 ‘수겔라’와 수컷 ‘가자바’가 경기도 과천 서울대공원에 들어왔어요. 그로부터 6년 뒤 둘 사이에서 아기 코끼리 ‘희망이’가 태어났어요. 무려 22년 만에 우리나라 동물원에서 태어난 코끼리였답니다. 아빠 가자바는 2018년 안타깝게도 세상을 떠났지만 희망이는 엄마 수겔라의 보살핌을 받으며 무럭무럭 자라고 있답니다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘국가중요시설 최고등급’ 제주공항 몰래 드론 촬영한 중국인</title>
-      <link>https://www.chosun.com/national/regional/2025/01/10/BUFWOOU2V5CJXHGQD6S3JUKROY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/01/10/BUFWOOU2V5CJXHGQD6S3JUKROY/</guid>
-      <dc:creator>제주=오재용 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 10 Jan 2025 01:00:18 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2RM5MDOSZFIXJE6D6OEL4V5KYU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;제주지역 기상이 악화한 지난 9일 오후 제주국제공항에 강한 눈이 내리자 활주로 노면 결빙 상태를 파악하기 위해 한국공항공사  차량이 이동하고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국가중요시설 최고 등급인 제주국제공항 주변에 드론을 띄워 무단 촬영한 중국인이 경찰에 붙잡혔다. &lt;br&gt;&lt;br&gt;제주경찰청은 항공안전법 위반 혐의로 중국인 관광객 A씨를 붙잡아 조사하고 있다고 10일 밝혔다. A씨는 지난달 31일 낮 제주공항 활주로 약 2㎞ 외곽에서 승인받지 않은 드론을 띄워 공항을 촬영한 혐의를 받는다.&lt;br&gt;&lt;br&gt;경찰은 국정원, 한국공항공사 등과 함께 A씨를 상대로 테러나 대공 용의점이 있는지 등에 대해 수사하고 있다. 국가보안 ‘가급’ 시설인 제주공항 반경 9.3㎞ 이내 지역은 드론 비행 금지 구역이다.&lt;br&gt;&lt;br&gt;지난해에도 제주공항에서 드론으로 의심되는 물체가 발견되면서 항공기 운항이 중단돼 공항 이용객들이 불편을 겪기도 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[단독] 검찰, 김용현만 빼고 ‘계엄 국무회의’ 참석자 무혐의 검토</title>
       <link>https://www.chosun.com/national/court_law/2025/01/10/R2KFQANQCFCDXI3PRHQBXUSDUY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/01/10/R2KFQANQCFCDXI3PRHQBXUSDUY/</guid>
@@ -859,18 +886,6 @@
       <pubDate>Thu, 09 Jan 2025 15:55:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/F2UK4A7PJJB4LL2UYB4QK4TC5Y.png"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ALDRMMS6BRFILJZH7WTXCZNWSA.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=김현국&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“빨리, 숨 쉬기 힘들어. 주사 좀.”&lt;br&gt;&lt;br&gt;백발의 70대 할아버지가 손수건으로 입을 막은 채 병원으로 들어와 바로 진료실 문을 열고 의사에게 고함쳤다. 의사는 청진기를 환자 등과 가슴 등에 댄 뒤 “가래가 심하세요”라고 했다. 이 환자는 주사를 맞고 호흡기 치료를 받은 뒤 병상에 누워 안정을 취했다. 9일 오전 11시 30분, 서울 강남구 일원동의 한 소아과. 대기실의 좌석 17개는 남녀노소 환자들로 꽉 차 있었고 기침 소리가 끊이지 않았다. 병원 문 앞에도 엄마들이 아이를 안거나 업은 채로 진료 순서를 기다렸다.&lt;br&gt;&lt;br&gt;이날 오후 2시, 서울 구로구의 소아·청소년 전문 병원인 우리아이들병원. 고열에 시달려 우는 딸을 안고 있는 아빠와 콜록거리는 남매 둘을 데려온 엄마 등으로 대기실은 꽉 차 있었다. 이날 아침 9시부터 오후 3시까지 6시간 만에 환자 411명이 다녀갔다.&lt;br&gt;&lt;br&gt;발열·기침을 일으키는 급성 호흡기 바이러스 질환이 동시에 유행하고 있다. 독감은 8년 만에 최대 유행 중이고 영유아에게 특히 위험한 RSV(호흡기 세포 융합 바이러스) 환자도 가파르게 늘고 있다. 여기에 코로나, 사람 메타뉴모 바이러스(HMPV)의 확산세까지 겹쳐, 호흡기 바이러스 질환 4개가 동시에 유행하고 있다. 전문가들은 “독감 등이 정점을 찍을 것으로 예상되는 이달 말이 고비”라며 “특히 이 시기에 민족 대명절인 설까지 겹쳐 호흡기 바이러스의 폭발적 확산이 우려된다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JUFPBLQCOBHE3M5K2WFQ4FG2NU.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=이철원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;◇독감 입원 한달새 10배, RSV 환자 9주째 증가 “봄까지 유행 이어질수도”&lt;/b&gt;&lt;br&gt;&lt;br&gt;정재훈 고려대 의대 예방의학과 교수는 “여러 호흡기 바이러스 질환이 전보다 훨씬 큰 규모로 유행하고 있다”며 “코로나 시기에 상대적으로 눌려 있던 다른 호흡기 감염병들이 다시 올라왔다고 봐야 한다”고 했다.&lt;br&gt;&lt;br&gt;감염 속도가 가장 빠른 건 독감(인플루엔자 바이러스)이다. 9일 질병관리청에 따르면 지난해 마지막 주(12월 22~28일) 전국의 병의원 300곳을 찾은 통원 환자 중 독감 환자는 1000명당 73.9명이었다. 불과 일주일 전 31.3명에서 2.4배로 뛴 것이다. 이어 올해 첫째 주 집계(12월 29일~1월 4일)에서도 독감 환자가 99.8명으로 전주 대비 1.4배로 또 늘었다. 질병청 관계자는 “2016년 관련 통계 집계 이후 사상 최고치”라고 했다.&lt;br&gt;&lt;br&gt;RSV(호흡기 세포 융합 바이러스) 입원 환자 수도 9주 연속 증가했다. 질병청에 따르면, 이 질환 표본 환자는 지난해 10월부터 급증하기 시작해 지난달 마지막 주엔 603명으로 급증했다. 전주(503명)보다 20% 늘었다. RSV는 어린아이들을 둔 부모 사이에선 ‘공포의 바이러스’로 불린다. 기침·고열 등을 동반하는 이 바이러스는 특히 영유아에게 폐렴이나 모세기관지염을 일으킬 수 있어 위험하다. 정재훈 교수는 “독감과 RSV는 심할 경우 아이들이 사망할 수 있는 질환”이라고 했다.&lt;br&gt;&lt;br&gt;코로나도 지난달 마지막 주 입원 환자가 113명이었다. 일주일 만에 71% 뛰었다. 여기에 중국에서 대유행하고 있는 사람 메타뉴모 바이러스(HMPV)의 국내 환자도 증가세를 보이고 있다. 이 바이러스는 주로 영유아에게 감염된다. 발열과 가래, 쌕쌕거림 증세가 나타나고 폐렴으로 이어지기도 한다. 질병청은 “환자 수는 11월부터 지난달 마지막 주까지 6주가량 계속 늘었다”며 “지난달 마지막 주 입원 환자 수는 183명으로 2주 만에 2.2배로 뛰었다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FBEU6AFDS5BG3IZCP6NBJVFRTA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대다수 전문가는 “여러 바이러스가 동시 유행하는 피크(정점)는 아직 오지 않았다”고 했다. 김홍빈 분당서울대병원 감염내과 교수는 “예년엔 코로나 유행으로 다른 호흡기 바이러스가 유행하지 않거나 지금보다 작은 규모였는데, 올해는 12~1월에 (동시에) 급격히 늘고 있다”고 했다. 그는 “이런 추세가 몇 주는 지속될 것”이라고 했다. 정용필 서울아산병원 감염내과 교수는 “이달 말 설 연휴가 변수”라며 “올해는 호흡기 바이러스 질환자 수가 내려앉았다가 설 연휴에 다시 올라가서 정점을 찍을 수 있다”고 했다. 유행이 더 오래갈 수 있다는 뜻이다.&lt;br&gt;&lt;br&gt;의료계에선 작년 2월부터 1년 가까이 이어진 의정 갈등이 이 같은 상황의 강도와 기간을 가르는 주요 변수가 될 수 있다는 관측이 많다. 작년 2월, 24시간 응급실과 입원실을 지키던 전공의(인턴·레지던트)가 집단 이탈하면서 서울의 대형 병원 수술·입원은 크게 줄었다. 남아 있는 의사 중 번아웃(극도의 피로)을 호소하는 사람도 많다. 정용필 교수는 “독감 등 감염자가 워낙 많다 보니 중증 환자들이 계속 응급실을 찾고 있다”며 “중증 환자 치료에 대한 의료진 부담이 많이 늘고 있다”고 했다. 허약해진 우리나라의 의료 시스템이 밀려드는 호흡기 질환 환자들을 감당 못 해, 이 같은 상황이 봄까지 이어질 수 있다는 지적도 나오고 있다.&lt;br&gt;&lt;br&gt;최원석 고대안산병원 감염내과 교수는 “고령자와 영유아는 독감에 걸리면 중증으로 진행될 가능성이 다른 연령대보다 훨씬 높기 때문에 독감 백신을 지금이라도 맞는 것이 좋다”며 “마스크를 꼭 착용하고, 외출 후 돌아왔을 때는 손을 30초 이상 씻는 등 기본적인 위생 수칙을 잘 지키는 것이 중요하다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
       <media:content url="https://www.chosun.com/resizer/v2/2LQPNSES2BBAXNMMIPDKVLD23E.png?width=1600&amp;height=900&amp;auth=a1cd077a838169f1448c7cd2b416feb18b5076592dc5ae87bc48788dd0838255&amp;smart=true" type="image/png" height="900" width="1600"/>
-    </item>
-    <item>
-      <title>[데스크에서] 소년과 의사</title>
-      <link>https://www.chosun.com/opinion/desk/2025/01/10/GJEDB46BDBBKBN75HNKUBCS45Q/</link>
-      <guid isPermaLink="true">https://www.chosun.com/opinion/desk/2025/01/10/GJEDB46BDBBKBN75HNKUBCS45Q/</guid>
-      <dc:creator>안준용 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 09 Jan 2025 15:06:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SZMYCRU3KZEWVEEFFFTU7BUICU.png"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=조선디자인랩·Midjourney&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;6·25전쟁 중 대구로 피란한 열세 살 소년 이야기다. 이따금 멀리서 쿵쿵 하는 포성이 들리던 1951년의 깜깜한 밤, 소년은 온 동네를 헤매고 있었다. 집에서 쓰러진 어머니를 동생에게 맡겨둔 채 의사를 찾아나선 것이다. 한참 헤맨 끝에 의원 한 곳을 찾았고, “제발 좀 도와달라”며 닫힌 문을 두드렸다. 중년의 의사가 자초지종을 들은 뒤 왕진 가방을 들고 따라나섰다. 이사 온 지 이틀밖에 안 된 소년은 집도 못 찾고 발만 동동 굴렀다. 의사는 “골목에 뭐가 있었느냐. 대문은 무슨 색이냐” 물으며 함께 집을 찾았다.&lt;br&gt;&lt;br&gt;어머니를 진찰한 뒤 주사를 놔준 의사 선생님. 곧 괜찮아지실 거란 말에도 아이는 눈물만 흘렸다. “선생님. 조금만 더 계셔주세요.” 소년이 애원하자, 막 일어나려던 의사가 웃으며 다시 앉았다. “몇 살이야? 어디서 왔어?” 그렇게 한참을 더 어머니 곁을 함께했다. 의사는 소년을 다시 의원으로 데려가 약을 챙겨주면서 약값도 받지 않았다. “피란살이도 어려운데 됐다. 가서 어머니만 잘 보살펴”라고 덧붙이면서. 소년은 약 봉투를 들고 집에 오는 내내 울면서 ‘나도 꼭 이런 의사가 돼야겠다’고 다짐했다고 한다.&lt;br&gt;&lt;br&gt;74년 전 그 소년이 김동건 아나운서다. 그는 “이후 ‘의사’란 말만 들으면 늘 그분이 떠올랐다”며 “80년 넘게 살면서 그런 훌륭한 의사를 많이 만났고, 그분들을 존경한다”고 했다.&lt;br&gt;&lt;br&gt;흘러간 옛이야기가 아니다. 지금도 많은 이에게 의사는 그런 존재다. 태어나자마자 한 달 넘게 신생아 중환자실에서 치료받은 필자의 세 살배기 딸에게도 마찬가지다. 많은 의사는 여전히 “진료실에서 환자의 회복을 지켜보며 가장 큰 보람과 행복감을 느낀다”고 말한다. 사람은 일생에서 수많은 만남과 헤어짐을 반복하지만, 몸을 맡기고 생명을 구해주는 의사와 환자의 관계는 특별하다. 이들의 관계를 받쳐주는 것은 ‘신뢰’다. ‘라포(rapport)’라고도 하는 그 신뢰 관계가 정서적 유대를 넘어 치료의 결과까지 좌우한다.&lt;br&gt;&lt;br&gt;그런데 1년 가까이 이어진 의정 갈등으로 그 신뢰가 깨지고 있다. 최근 의사들을 대상으로 한 설문에선 ‘환자들이 본인(의사)을 신뢰한다고 생각하느냐’는 물음에 ‘그렇다’는 응답이 54.6%로, 2년 전보다 12.8%포인트나 떨어졌다. ‘신뢰하지 않는다고 생각한다’는 응답은 2.4%에서 8.0%로 급증했다. 눈엔 보이지 않는 소중한 사회적 자본이 훼손된 것이다.&lt;br&gt;&lt;br&gt;일부 의사의 도 넘은 막말과 전공의 블랙리스트, 의사 집단 전체를 향한 비난 댓글은 의사와 환자 간 불신에 큰 영향을 미쳤다. 하지만 고개를 조금만 돌리면 지금도 수술실을 지키는 의사, 그들에게 고맙다며 연신 고개 숙이는 환자들을 본다. 감정은 추스르고 눈앞의 의사와 환자를 봐야 한다. 한번 무너진 신뢰는 다시 회복하기 어렵고, 그 피해는 환자, 의사, 나아가 국민의 몫으로 불어나기 때문이다. 신뢰를 지켜내는 것이 의정 사태 해결만큼 중요한 이유다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/FDPLRM5MECVA747LFX4HAQOPIQ.jpg?width=135&amp;height=175&amp;auth=aa1ee552d27d52778692387e2c2c29f4845d06ea786df236411b5754d7501193&amp;smart=true" type="image/jpeg" height="175" width="135">
-        <media:description type="plain">안준용 정치부 기자</media:description>
-      </media:content>
     </item>
     <item>
       <title>세계가 콜록콜록… 美 올겨울 독감 환자 530만명, 中·인도선 HMPV 급증</title>
@@ -978,24 +993,6 @@
         <media:description type="plain">한 방앗간 업주가 테슬라 후면에 방앗간 홍보 문구를 붙여 화제가 됐다. /인스타그램</media:description>
         <media:credit role="author" scheme="urn:ebu"/>
       </media:content>
-    </item>
-    <item>
-      <title>경찰, 尹 체포 영장 재집행 위해 1000명 동원령</title>
-      <link>https://www.chosun.com/national/national_general/2025/01/09/KR5HHFANZZDTNBGGBB6ZWUWZNA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/09/KR5HHFANZZDTNBGGBB6ZWUWZNA/</guid>
-      <dc:creator>주형식 기자, 구아모 기자, 이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 09 Jan 2025 12:28:09 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/J5SHWDNSP4JJBL6H7T72ULOBAQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원이 내란 우두머리(수괴) 혐의를 받는 윤석열 대통령의 체포영장을 재발부한 가운데 지난 8일 서울 용산구 한남동 대통령 관저 출입구 앞에 버스가 세워져 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰청 12·3 비상계엄 특별수사단은 윤석열 대통령 체포 영장 재집행을 위해 서울 등 수도권 4개청 광역수사단·안보수사대에 수사관을 동원하라는 공문을 보낸 것으로 9일 확인됐다. 경찰은 지난 3일 형사·수사관 120여 명을 공수처에 지원했는데, 이번에는 8배 이상인 1000명 이상 경찰력을 한남동 관저에 투입할 수 있다는 것이다.&lt;br&gt;&lt;br&gt;경찰청은 지난 8일 서울·경기남부·경기북부·인천 등 4개청에 “체포 영장 집행 때 투입될 수 있으니 준비하라”는 취지의 공문을 보냈다. 흉악범·마약사범 검거 등 강력 범죄 수사에 특화된 베테랑 형사를 포함한 사실상 경찰 주력을 총동원하겠다는 의미다. 경찰은 “공수처와 인력 투입 규모 등 체포 작전 세부 내용을 계속 협의 중”이라고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UQGRQIULN5LRBFZWFX4UKLW6AU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;흰색 헬멧을 쓴 ‘반공청년단’ 단원들이 지난 3일 서울 용산구 한남동 대통령 관저 인근에서 집회를 열고 있다. 윤석열 대통령에 대한 체포 영장 집행에 반대했다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;하지만 경찰 지도부는 이 같은 대규모 경찰력이 경호처 정예 요원들과 정면 충돌한다면 인명 피해가 발생할 가능성도 우려하고 있다. 이 때문에 박종준 처장, 김성훈 차장 등 경호처 수뇌부에 대한 체포 영장을 발부받아 다음 주부터 영장 집행을 진행하는 장기전 시나리오도 거론되고 있다. 윤 대통령과 경호처 수뇌부를 동시에 체포할 수 있다는 것이다.&lt;br&gt;&lt;br&gt;경찰은 이미 박 처장을 특수공무집행 방해 혐의로 입건, 10일까지 출석하라는 요구서를 보낸 상태다. 이번이 3차 요구다. 경찰 관계자는 “박 처장이 출석하면 긴급 체포하고, 3차 출석까지 거부하면 체포 영장을 발부받아 공관 구역 내에서 체포할 수 있다”고 했다. 실제 현행법상 경호원들이 경호하는 대상은 대통령과 그 가족이므로, 처장·차장의 체포까지 경호원들이 저지할 법적 근거는 없다는 것이다. 이런 식으로 경호처 수뇌부부터 ‘정밀 타격’해 경호처의 저지 동력을 빼겠다는 의도로 해석됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/A3JI3FHW3NEOXOB4CRULSPGIW4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령과 박종준 대통령경호처장. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰은 지난 3일 윤 대통령 체포 영장 1차 집행을 방해한 경호처 관계자 26명에 대한 신원 확인 요청을 경호처에 보낸 상태다. 경찰 관계자는 “특수공무집행 방해 혐의로 사법 처리를 받게 된 경호원은 향후 인사 불이익뿐 아니라 연금까지 박탈될 수 있다”고 했다. 실제 경호처 내부에 상당 부분 동요하는 분위기도 있는 것도 알려졌다. 결국 2차 집행 저지에 소극적일 수밖에 없다는 것이다.&lt;br&gt;&lt;br&gt;경호처 수뇌부는 소환·긴급체포 등으로 제압하고 휘하 경호원들의 저항 의지도 채증·신원확인 요청 등으로 꺾어 지휘 체계를 와해시키면, 윤 대통령을 체포할 수 있다고 경찰은 보고 있다. 국방부가 경호처에 파견한 육군 수도방위사령부 예하 55경비단, 33군사경찰대 병력 500여 명은 2차 집행 저지에 투입되지 않을 것으로 예상된다.&lt;br&gt;&lt;br&gt;경찰청 산하 대테러부대인 경찰특공대 투입은 일단 보류한 것으로 알려졌다. 우종수 경찰청 국가수사본부장은 이날 경찰청을 항의 방문한 국민의힘 의원들에게 “경찰특공대와 장갑차, 헬기 동원은 전혀 검토한 바 없고 소설 같은 얘기”라고 말했다고 여당 의원들은 밝혔다.&lt;br&gt;&lt;br&gt;다만 경찰은 정치권의 ‘내란 특검’ 진행과는 무관하게 영장 집행에 착수한다는 방침이다. 이호영 경찰청장 직무대행은 이날 국회에 출석, 윤 대통령 체포영장 집행을 저지하는 경호처 직원을 비롯해 국회의원까지 현행범으로 체포할 수 있다고 밝혔다. 여당 의원이 체포를 저지하더라도 체포할 수 있다는 의미다. 경찰 관계자는 “일단 법원이 재발부한 체포 영장은 집행할 수밖에 없다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>대설과 한파... 항공기 136편 결항, 여객선 77척 통제</title>
-      <link>https://www.chosun.com/national/national_general/2025/01/09/EBLUIJ7YMBCH5DYQOPCG2QASI4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/09/EBLUIJ7YMBCH5DYQOPCG2QASI4/</guid>
-      <dc:creator>김영우 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 09 Jan 2025 13:13:11 +0000</pubDate>
-      <content:encoded>충청남도와 전라권을 중심으로 대설이 내리면서 9일 오후 6시까지 항공기 136편이 결항되고, 여객선 77척의 운항이 통제된 것으로 나타났다. 다만 대설과 한파로 인한 인명 피해는 없었다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CF6ZVZSJ2FNFBDJCGFHBW4BZWI.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;광주광역시와 전남지역에 대설주의보가 내려진 9일 광주광역시 서구 김대중컨벤션 앞에서 내리는 눈 사이로 시민이 걷고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;9일 행정안전부 중앙재난안전대책본부에 따르면, 이날 오후 5시 기준 전북 6곳과 전남 2곳에 대설 경보가 내려져 있고, 전남·전북·충남·광주광역시·울릉도·독도 등에는 대설주의보가 내려져 있다.&lt;br&gt;&lt;br&gt;전날 오후 5시부터 24시간 동안 전북 고창에 전국에서 가장 많은 17.2㎝의 눈이 내렸고, 전북 순창(15.9㎝)과 김제(15.2㎝) 등이 뒤를 이었다. 제주도에도 24시간 동안 12.3㎝의 눈이 내렸다.&lt;br&gt;&lt;br&gt;이날 공항에서는 대설로 항공기 결항이 잇따랐다. 제주공항에서 항공기 68편이 결항됐고, 김포공항 31편, 광주공항 15편 등 전국 공항에서 총 136편의 비행이 취소됐다. 제주공항은 오후 2시 45분부터 체류객 지원 ‘주의’ 단계를 발령하고 구호 물품 지원 준비에 나섰다. 체류객 지원 ‘주의’ 단계는 결항 항공편 예약 인원이 3000명을 넘어서는 경우 발령되는 조치다.&lt;br&gt;&lt;br&gt;여객선은 62개 항로 총 77척의 배가 기상 악화로 운항이 통제됐고, 충남 3곳, 전남 7곳, 경남 3곳 등 전국 도로 13곳도 통행이 제한됐다. 철도 역시 경부고속선이 시속 230㎞ 이하의 속도로 운행하고 있다.&lt;br&gt;&lt;br&gt;한편 이번 대설로 인한 인명 피해는 나타나지 않은 것으로 집계됐다. 행안부 관계자는 “안전 조치나 낙상으로 인한 소방 활동은 44건이 있었지만, 부상이나 사망으로 이어진 사례는 없었다”고 말했다.&lt;br&gt;&lt;br&gt;행안부는 지난 8일 오후 6시 중대본 1단계를 가동하고 대설 위기경보 수준을 ‘관심’에서 ‘주의’ 단계로 격상해 대응하고 있다. 행안부 관계자는 “늦은 밤까지 충남권과 충북 중·남부에 눈이 내릴 것으로 예보된 만큼 안전에 유의해줄 것을 당부한다”고 말했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
