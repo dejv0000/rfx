@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>고교 축제서 동덕여대 시위 비하 논란…학교 측 사과</title>
+      <link>https://www.chosun.com/national/national_general/2025/01/12/C7XQOQDM5JFBXKQZ72ZCE3GCG4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/12/C7XQOQDM5JFBXKQZ72ZCE3GCG4/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 11 Jan 2025 22:44:45 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZRIGWEDPUJFJDCQW6VMEEXBNEI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;당시 축제에서 출제됐던 문제. /온라인커뮤니티&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 부천의 한 고등학교가 축제에서 동덕여대 ‘남녀공학 전환’ 반대 시위를 비하하는 것으로 해석될 수 있는 퀴즈 문제를 출제했다가 논란이 일자 사과했다.&lt;br&gt;&lt;br&gt;12일 부천 모 고등학교 등에 따르면 해당 학교는 지난 8일 축제에서 퀴즈쇼를 진행했다.&lt;br&gt;&lt;br&gt;답변하기 곤란한 질문을 던진 뒤 반응을 즐기는 방식이었던 퀴즈쇼에서는 ‘가장 쓸모없다고 생각하는 운동을 고르시오’라는 문제가 출제됐다.&lt;br&gt;&lt;br&gt;보기는 3·1운동, 흑인 인권 운동, 페미니즘 운동, 촛불 시위 운동, 동덕여대 공학 반대 시위 운동 등 5개가 제시됐다.&lt;br&gt;&lt;br&gt;이후 축제 퀴즈쇼 내용은 온라인상에서 화제가 됐다. 동덕여대 시위와 페미니즘 운동 등을 쓸모없다고 비하한 것 아니냐는 비판이 나왔다.&lt;br&gt;&lt;br&gt;논란이 일자 해당 고교는 학교 인터넷 홈페이지에 올린 입장문을 통해 사과의 뜻을 전했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XCBYSJYHWBHCBLBB3ERD7O7NLA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;학교 측 입장문. /부천 모 고등학교 홈페이지&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;학교 측은 “본교 축제 행사 중 일부 퀴즈쇼로 인해 마음의 상처를 입으신 분들과 동덕여대 학생 여러분께 유감을 밝힌다”며 “축제 준비과정에서 담당 교사가 해당 코너에 대해 사전 검토를 하려고 했으나 질문이 사전에 알려질 경우 재미가 반감된다는 이유를 존중해 사전 검토가 이뤄지지 않았다”고 했다.&lt;br&gt;&lt;br&gt;학교 측은 “담당 교사가 사회·정치적으로 민감한 주제는 다루지 말라는 의견을 여러 차례 (학생들에게) 제시했다”며 “해당 내용이 특정 운동이나 동덕여대 학생들을 비난하거나 비하하려는 목적이 절대 아니었다”고 했다.&lt;br&gt;&lt;br&gt;그러면서 “학교 모든 구성원을 대상으로 양성평등 교육, 성인지 감수성 교육, 혐오 표현 금지 교육 등을 지속해서 진행할 예정”이라며 “다시 한번 이번 사안으로 상처를 입으신 분들께 유감의 말씀을 드린다”라고 했다.&lt;br&gt;&lt;br&gt;한편 동덕여대 재학생들은 최근 남녀공학 전환에 반대하며 캠퍼스를 점거하고 기물을 파손하는 시위를 해 논란이 됐었다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>﻿‘14명 사망’ 오송 참사, 사상 첫 시장 기소…제주항공 참사는?</title>
       <link>https://www.chosun.com/national/national_general/2025/01/12/N2HAM3PABJARLH6UKUEEF4PQEE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/12/N2HAM3PABJARLH6UKUEEF4PQEE/</guid>
@@ -958,15 +967,6 @@
       <description/>
       <pubDate>Fri, 10 Jan 2025 02:43:44 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UCUTCIBEQRKDJJNRUB65466OCU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울의 아침 기온이 영하 12도까지 떨어지는 등 전국 대부분 지역에 한파 특보가 내려진 10일 서울 종로구 세종대로 사거리에서 시민들이 두꺼운 옷을 입고 횡단보도를 건너고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;주말에도 한파(寒波)가 이어질 것으로 전망됐다.&lt;br&gt;&lt;br&gt;기상청에 따르면, 주말인 11~12일 우리나라는 고기압 영향권에 들면서 최근 한파를 견인했던 한랭건조한 바람으로부터 벗어날 것으로 예상됐다. 다만 한반도 내륙이 찬 공기로 덮여 있어 추위는 한동안 이어질 것으로 보인다. &lt;br&gt;&lt;br&gt;11일 아침 최저기온은 영하 18도에서 영하 2도, 낮 최고기온은 영하 3도에서 영상 5도로 예보됐다. 12일에도 최저 영하 15도에서 영하 1도, 최고 영하 1도에서 7도로 여전히 춥겠다.&lt;br&gt;&lt;br&gt;강수 구름대를 동반한 기압골의 영향으로 11~12일 충청·호남에는 1~5㎝의 눈이 내리는 곳이 있겠고, 울릉도·독도와 제주에는 5~20㎝의 많은 눈이 내리겠다.&lt;br&gt;&lt;br&gt;최저 영하 15도 내외의 추위는 월요일인 13일까지 이어지다가, 화요일인 14일 기온이 최저 영하 5도 수준까지 10도 가량 급격하게 오르며 잠시 풀릴 것으로 보인다. &lt;br&gt;&lt;br&gt;그러나 15일부터 중국 쪽 대륙고기압이 확장하면서 우리나라로 찬 바람이 불어오기 시작해 하루 만에 기온이 영하 15도 수준으로 다시 크게 떨어질 것으로 예측됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>尹측, 경찰 박종준 조사에 “국가 안보에 중대한 위해 자초”</title>
-      <link>https://www.chosun.com/national/court_law/2025/01/10/25ZWQCGMRRD73E4ZIJBN4DK3ZA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/01/10/25ZWQCGMRRD73E4ZIJBN4DK3ZA/</guid>
-      <dc:creator>유종헌 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 10 Jan 2025 02:27:17 +0000</pubDate>
-      <content:encoded>윤석열 대통령 측은 경찰이 박종준 대통령 경호처장 등 경호처 관계자에게 연이어 출석을 요구하는 데 대해 “국가 안보에 중대한 위해를 자초하는 것”이라고 비판했다.&lt;br&gt;&lt;br&gt;윤갑근 변호사 등 윤 대통령 변호인단은 10일 박 처장이 경찰에 출석한 직후 낸 입장문에서 이 같이 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TPPVPBZY2JDCHHKIR3PBSHJ2GQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령에 대한 고위공직자범죄수사처의 체포영장 집행을 저지한 박종준 대통령 경호처장이 10일 오전 서울 서대문구 국수본으로 출석하고 있다. /조인원 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대리인단은 “작금의 상황은 자신의 임무를 다하는 이들에 대해 그 소임을 저버리도록 하는 것이며 국가안보마저 개의치 않겠다는 비정상적인 행위”라고 주장했다.&lt;br&gt;&lt;br&gt;윤 대통령 측은 “대통령의 절대 안전은 안정적인 국정운영을 위한 필수조건”이라면서 “불법 체포 영장의 집행을 거부하고, 군사상 비밀 장소에 대한 수색을 거부하는 것은 법치주의와 법률에 근거한 당연한 조치”라고 했다. 이어 “경찰은 자신들의 위법한 공무집행에 불구하고 이를 저지한 경호처 간부들에 대한 소환을 통보하고 있다”고 했다.&lt;br&gt;&lt;br&gt;이어 “경호처 간부들에 대한 소환 목적은 경호처 지휘부를 붕괴시켜 불법적으로 대통령을 체포하려는 것”이라며 “수사권을 남용한 꼼수 소환을 중단하라”고 했다.&lt;br&gt;&lt;br&gt;윤 대통령 측은 검찰을 향해서도 “공수처의 불법 영장 집행에 대해 이미 특수공무집방해 등의 혐의로 고발되었음에도 검찰은 공수처 간부를 소환했다는 소식이 전혀 없다”면서 “정치적 중립성과 공정성을 의심받지 않기 위해서라도 즉시 공수처에 대한 소환 일정을 통보해야 할 것”이라고 했다.&lt;br&gt;&lt;br&gt;박 처장은 지난 3일 윤 대통령에 대한 체포 영장 집행을 방해한 혐의로 경찰에 입건됐고, 이날 경찰에 출석해 조사를 받고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>﻿개그맨 안상태, 층간 소음 논란 4년 후 근황 “1년 수익 32만원”</title>
