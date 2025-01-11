@@ -13,6 +13,35 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>사고조사위 “블랙박스 마지막 4분 저장 안 돼... 원인 파악할 계획”</title>
+      <link>https://www.chosun.com/national/national_general/2025/01/11/OV3M6FUVP5HELP2D7XEQZNP7XE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/11/OV3M6FUVP5HELP2D7XEQZNP7XE/</guid>
+      <dc:creator>오주비 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 11 Jan 2025 05:55:15 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5F4OLIOBMFI27DMBG7GXYFAEUM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;제주항공 참사 2주째인 11일 오전 무안국제공항에서 소방대원들이 사고 현장 인근에서 수색 작업을 펼치고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제주항공 사고기의 블랙박스에 충돌 전 마지막 4분간의 기록이 저장되지 않은 것으로 확인됐다.&lt;br&gt;&lt;br&gt;11일 무안 제주항공 참사 원인을 조사하는 항공·철도사고조사위원회(사조위)는 “미국 교통안전위원회(NTSB)에서 항공기 음성기록장치(CVR)와 비행자료기록장치(FDR)를 분석한 결과, 항공기가 로컬라이저에 충돌하기 약 4분 전부터 두 장치 모두에 자료 저장이 중단된 것으로 파악됐다”고 밝혔다. 사조위는 자료가 저장되지 않은 원인을 파악할 계획이다.&lt;br&gt;&lt;br&gt;이어 사조위는 “CVR과 FDR 자료는 사고 조사에 중요한 자료이나, 사고 조사는 다양한 자료에 대한 조사와 분석 등을 통해서 이루어진다”며 “정확한 사고원인 규명을 위해 최선을 다할 계획”이라고도 했다.&lt;br&gt;&lt;br&gt;사조위는 지난 6일 CVR과 FDR을 워싱턴의 NTSB로 보내 분석을 의뢰했다. FDR은 전원과 자료저장 유닛 간 커넥터가 손상돼 국내에서 자료 추출이 어려웠고, CVR은 교차 검증을 통한 신뢰성 확보를 위해 함께 미국으로 이송했다고 사조위는 설명했다. 원래는 FDR만 미국으로 보낸 것으로 알려졌으나, 사조위는 CVR도 함께 이송한 사실을 추가로 공개했다. 이들 장치는 사조위 조사관 2명의 입회하에 지난 7일부터 11일까지 자료 인출과 분석이 이뤄졌다.&lt;br&gt;&lt;br&gt;사조위는 “향후 현장조사 완료 시점, 공청회, 그 외에 필요한 경우 유가족 등을 대상으로 공개할 수 있는 범위 내에서 최대한 정보를 제공할 계획”이라며 “공정하고 투명한 사고 조사를 위해 노력하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/5F4OLIOBMFI27DMBG7GXYFAEUM.jpg?width=6000&amp;height=4000&amp;auth=0b5003276b27f46f4ecb65165a7853a9e6796009e6f9ead9dc95488fc1e2f014&amp;smart=true" type="image/jpeg" height="4000" width="6000">
+        <media:description type="plain">&lt;YONHAP PHOTO-2430&gt; 2주째 이어지는 수색 작업
+    (무안=연합뉴스) 김혜인 기자 = 제주항공 참사 2주째인 11일 오전 무안국제공항에서 소방대원들이 사고 현장 인근에서 수색 작업을 펼치고 있다. 2025.1.11
+    in@yna.co.kr/2025-01-11 11:48:00/
+&lt;저작권자 ⓒ 1980-2025 ㈜연합뉴스. 무단 전재 재배포 금지, AI 학습 및 활용 금지&gt;</media:description>
+        <media:credit role="author" scheme="urn:ebu">김혜인</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>고려대·한국외대도 등록금 인상되나... 학부 등록금 인상안 제시</title>
+      <link>https://www.chosun.com/national/education/2025/01/11/LN76UZVZ6ZB2PICVDSQUVAJXAI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/education/2025/01/11/LN76UZVZ6ZB2PICVDSQUVAJXAI/</guid>
+      <dc:creator>오주비 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 11 Jan 2025 05:22:09 +0000</pubDate>
+      <content:encoded>서강대와 국민대가 2025학년도 학부 등록금을 인상한 가운데 고려대와 한국외대도 등록금 인상을 검토하고 있다.&lt;br&gt;&lt;br&gt;11일 고려대와 한국외대 학생회에 따르면 고려대는 5.49% 인상안을, 한국외대는 5% 인상안을 학생 대표들에게 제시했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WIZHJQCDSNBEVEW6HKYCN475BA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;고려대. /고려대 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;고등교육법에 따르면 대학들은 직전 3년간 평균 소비자 물가 상승률의 1.5배 이내에서 등록금을 인상할 수 있다. 올해 법정 상한은 5.49%다. 고려대는 법적으로 가능한 최대치로 등록금 인상을 고려하고 있고, 한국외대도 그에 준하는 인상을 준비하고 있는 것이다.&lt;br&gt;&lt;br&gt;현재 서울 주요 대학들 중 등록금 인상을 결정한 곳은 서강대와 국민대 두 곳이다. 서강대와 국민대는 올해 등록금을 각각 4.85%, 4.97% 인상했다. 이외에 연세대와 경희대도 5.49% 인상을 학생 대표 측에 제시했고, 성균관대와 한양대도 등록금 인상의 필요성을 학생들에게 설명하고 있다.&lt;br&gt;&lt;br&gt;이처럼 서울 주요 대학들이 잇따라 등록금 인상에 나서는 것은 16년간 정부 정책 때문에 등록금이 동결되면서 재정난이 심해졌기 때문이다.&lt;br&gt;&lt;br&gt;한국사립대학총장협의회(사총협)가 지난 7일 발표한 ‘대학 현안 조사 분석 결과’에 따르면, 설문에 응답한 사립대 총장 90명 중 75.9%가 시급한 대학 현안 1순위로 ‘대학 등록금 인상’을 꼽았다. 또 등록금 동결로 인해 대다수의 사립대가 ‘첨단 실험실습 기자재 확충 및 개선’(97.8%)과 ‘우수 교직원 채용 및 충원’(96.6%) 등의 어려움을 겪는다고 답했다.&lt;br&gt;&lt;br&gt;한편 거점국립대 총장들은 올해 등록금을 인상하지 않기로 지난 10일 결정했다. 거점국립대총장협의회(협의회)는 부산대, 충북대 등 전국 10개 거점국립대 총장들의 모임이다.&lt;br&gt;&lt;br&gt;협의회는 “16년간 등록금이 동결돼 교육과 연구에 재정적 어려움이 매우 큰 상황에서 등록금 동결이라는 어려운 결정을 했다”고 밝혔다. 이어 “현재 고환율과 고물가로 고통받고 있는 국민과 학생들의 고통을 분담한다는 대승적 결단”이라고 설명했다.&lt;br&gt;&lt;br&gt;이에 따라 충북대, 강원대, 경북대, 경상국립대, 부산대, 전남대, 전북대, 제주대, 충남대의 올해 등록금은 인상 없이 동결되지만, 협의회는 “등록금이 동결되더라도 교육과 연구의 질적 저하가 없도록 대학들은 각고의 예산 절감 노력을 병행하기로 했다”고 밝혔다. 서울대는 올해 등록금을 동결하기로 지난달에 이미 결정한 바 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/WIZHJQCDSNBEVEW6HKYCN475BA.jpg?width=1200&amp;height=660&amp;auth=dd58d44d1015135c64b50cd0587e35a86726858499964776dac7dc128c7b5a8a&amp;smart=true" type="image/jpeg" height="660" width="1200">
+        <media:description type="plain">고려대는 정보대학 내에 AI 학과를 신설하는 등 AI와 상호 협업해 문제를 해결해 나갈 수 있는 인재를 양성하고 있다.
+/고려대 제공</media:description>
+      </media:content>
+    </item>
+    <item>
       <title>‘尹 체포 저지’ 이진하 경호처 경비안전본부장 경찰 출석</title>
       <link>https://www.chosun.com/national/national_general/2025/01/11/YG5VH2D3ABG75KNSQ6COK7SIEM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/11/YG5VH2D3ABG75KNSQ6COK7SIEM/</guid>
@@ -931,24 +960,6 @@
       <description/>
       <pubDate>Thu, 09 Jan 2025 15:55:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/R25VEQR4LOHLMPTF2QWKFXWYFM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 6일 중국 항저우의 한 병원에 마스크를 쓴 어린이들이 진료를 위해 대기하고 있다. 중국에서는 호흡기 바이러스의 일종인 HMPV가 유행하고 있다. /AFP 연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;미국, 중국, 인도 등 해외에서는 여러 전염병이 동시에 유행하고 있다. 코로나, 인플루엔자(독감), RSV(호흡기 세포 융합 바이러스), HMPV(사람 메타뉴모 바이러스)와 노로 바이러스 등이 동시 다발적으로 유행하고 있어 각국 보건 당국이 촉각을 기울이고 있다.&lt;br&gt;&lt;br&gt;9일 CNN 등 외신에 따르면, 올겨울 들어 미국에서는 최소 530만명의 독감 환자가 보고됐고 이 가운데 6만3000명이 입원했다. 독감으로 인한 사망자는 2700명에 달한다. 코로나와 RSV, 노로바이러스도 유행하고 있다. 여러 바이러스가 동시에 확산하는 상황인 것이다.&lt;br&gt;&lt;br&gt;중국에서는 HMPV 감염자가 급증하고 있다. 2001년에 발견된 HMPV는 영유아 위주로 감염자가 발생하며, 폐렴이나 발열 등 급성 호흡기 증상이 나타난다. 증상 면에서는 인플루엔자와 유사해 구분하기 어렵다. 백신과 항바이러스제가 없어 해열제와 수액 등으로 대증치료를 하는 것이 일반적이다.&lt;br&gt;&lt;br&gt;중국 현지 매체에는 지난해 12월 27일 상하이의 한 병원에 응급실이나 입원실에 들어가지 못한 환자 수십 명이 대기실로 보이는 곳에 앉은 채로 링거를 맞는 모습이 공개되기도 했다. 중국 내 HMPV 감염자 규모에 대한 정확한 자료는 공개되지 않았다. 다만 지난 2일 중국 질병통제예방센터가 공개한 자료를 보면 지난해 12월 23~29일 중국의 외래 및 응급 인플루엔자 유사 사례 상위 1~3위 가운데 HMPV가 북부 지역에서는 2위, 남부에서는 3위를 차지했다. 인도에서도 최근 며칠 새 HMPV 환자가 늘고 있다.&lt;br&gt;&lt;br&gt;HMPV가 중국 등에서 확산하면서 “코로나 악몽이 떠오른다”는 얘기도 나온다. 다만 세계보건기구(WHO)는 “HMPV는 겨울에서 봄 사이에 많은 국가에서 유행하는 흔한 바이러스”라고 했다. 질병관리청도 “국내에서는 HMPV와 관련해 큰 유행이 감지되지 않고 있다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘건진법사’ 구속영장, 법원서 또 기각 당해</title>
-      <link>https://www.chosun.com/national/national_general/2025/01/10/U5U2NNIYUFADLI6KGQEPOFKTAI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/10/U5U2NNIYUFADLI6KGQEPOFKTAI/</guid>
-      <dc:creator>박정훈 기자, 김정은 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 09 Jan 2025 15:54:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DKQKMECXEFLVHN22EGMEBUS2WM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2018년 지방 선거 과정에서 억대의 불법 정치자금을 수수한 혐의를 받는 '건진법사' 전영배 씨가 9일 서울 양천구 서울남부지방법원에서 열린 영장실질심사(구속 전 피의자심문)에 출석하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2018년 경북 영천시장 지방선거에 관여해 억대의 불법 정치 자금을 수수한 혐의를 받는 ‘건진법사’ 전성배(65)씨에 대한 구속영장 청구가 또 기각됐다. 서울남부지법 정원 영장전담 부장판사는 이날 정치자금법 위반 혐의를 받는 전씨에 대한 영장실질심사를 진행한 뒤 검찰의 영장 청구를 기각한다고 밝혔다.&lt;br&gt;&lt;br&gt;정 부장판사는 “정치인이 아닌 사람이 자신의 정치 활동과는 상관없이 단지 다른 정치인에게 전달한다는 명목으로 정치자금을 기부받은 경우에도 정치자금법 위반죄의 단독 정범이 될 수 있는지에 대해선 법리상 다툼의 여지가 있다”며 “수사 과정에 드러난 피의자의 여러 행적을 고려하더라도 현 단계에서는 피의자에 대한 구속의 필요성이나 상당성을 인정하기 어렵다”고 했다.&lt;br&gt;&lt;br&gt;남부지법은 지난달 19일 전씨 영장 심사 때도 “전씨가 금원(金員·돈의 액수)을 받은 날짜, 금액, 방법이 명확히 확인되지 않았다”며 청구를 기각했다. 당시 재판부는 “검찰이 의심하는 것처럼 전씨가 정치권에 해당 금원을 그대로 전달했다면 전씨의 죄질을 달리 볼 여지가 있는 점, 수사 기관의 출석 요구에 성실히 응하겠다고 진술하는 점 등을 고려하여 이 사건 구속영장 청구를 기각한다”고 했었다.&lt;br&gt;&lt;br&gt;검찰이 전씨 구속에 연거푸 실패하면서 수사 동력이 떨어지는 것 아니냐는 지적이 나온다. 법원은 1차 심사 땐 전씨가 받았다는 돈과 관련한 기초적인 사실관계가 제대로 확인되지 않았다고, 2차 심사에선 정치인이 아닌 무속인인 전씨에게 정치자금법을 적용하는 법리 적용 문제를 지적했다. 법조계 관계자는 “검찰 수사가 난관에 부닥칠 수 있다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>인천 경제, 부산 추월… 국내 2위 도시 노린다</title>
-      <link>https://www.chosun.com/national/national_general/2025/01/10/ONQFY63B75ECNA5BB2U43N2NOQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/10/ONQFY63B75ECNA5BB2U43N2NOQ/</guid>
-      <dc:creator>인천=이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 09 Jan 2025 15:54:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/U2ZNKZABQJFPRND2KGOTNQZ5N4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;인천 송도 국제 도시의 인천 스타트업 파크에 밤늦게까지 불이 환하게 켜져 있다. 바이오 등 첨단산업 기업 86곳이 입주해 있다. /인천경제자유구역청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지역내총생산(GRDP) 등 주요 경제 지표에서 인천이 부산을 처음 앞지른 것으로 나타났다. 10년 전 60만명이 넘었던 두 도시의 인구 격차도 25만명 수준으로 줄었다. 인천의 급성장에 ‘대한민국 2위’ 도시를 지켜온 부산의 입지가 흔들리고 있다는 분석이 나온다.&lt;br&gt;&lt;br&gt;통계청이 최근 발표한 ‘2023년 지역소득’ 결과에 따르면, 전국 대도시 중 지역내총생산 2위는 부산이 아니라 인천이었다. 2023년 인천의 지역내총생산은 116조8630억원으로 부산(114조1650억원)을 처음 앞지른 것으로 집계됐다. 2022년 대비 인천이 3.2% 성장한 반면 부산은 0.3% 성장하는 데 그쳤다. GRDP는 지역의 경제력을 보여주는 대표적인 지표다. GDP(국내총생산)와 비슷한 개념이다. 1위는 2022년 대비 3.6% 성장한 서울(547조6177억원)이었다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/M7Z5JYFNYZCBZJNHPOTABLBD5I.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=이진영&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경제활동인구도 이번에 인천(178만명)이 부산(173만2000명)을 처음 추월했다. 경제활동인구는 15세 이상 인구 중 취업 중이거나 구직 활동 중인 사람을 합친 것이다. 경제활동인구가 많으면 그만큼 지역 경제가 활기를 띠고 있다는 뜻이다. 전문가들은 “경제력으로 따지면 이제 대한민국 2위 도시는 부산이 아니라 인천으로 봐야 한다”고 했다.&lt;br&gt;&lt;br&gt;도시 순위를 따질 때 전통적으로 많이 거론하는 인구수는 해마다 격차가 줄어들고 있다. 인천은 기업이 늘어나고 검단신도시 등의 입주가 시작되면서 인구가 유입되고 있는 반면, 부산은 청년층 인구의 유출이 심각해서다. 2014년 62만명이었던 부산과 인천의 인구 격차는 작년 11월 기준 25만명으로 줄었다.&lt;br&gt;&lt;br&gt;1990년대 390만명에 달했던 부산 인구가 327만명으로 줄어든 반면 인천 인구는 300만명을 넘어섰다. 통계청 관계자는 “지금 추세대로라면 인구도 2031년쯤 역전될 것으로 예상된다”고 했다. 청년 인구(19~39세)는 인천이 2023년 82만5900명을 기록해 이미 부산(82만3300명)을 앞지른 상태다.&lt;br&gt;&lt;br&gt;부산은 65세 이상 노인 인구 비율이 23.9%로 대도시 중 가장 높다. 시민 4명 중 1명이 노인이라는 뜻이다. 인천은 17.6%였다.&lt;br&gt;&lt;br&gt;인천이 부산을 빠르게 추격하고 있는 핵심 동력은 기업이다. 부산상공회의소에 따르면, 매출액 기준 우리나라 1000대 기업 중 인천에 본사를 두고 있는 기업은 37곳이었다. 반면 부산은 31곳이다. 100대 기업으로 범위를 좁히면 인천에는 현대제철, 한국GM, SK인천석유화학 등 3곳이 본사를 두고 있다. 부산에는 100대 기업이 한 곳도 없다.&lt;br&gt;&lt;br&gt;최병호 부산대 경제학부 교수는 “인천은 바이오·반도체 등 첨단 산업 투자가 활발하고 인천국제공항과 인천항이 물류 허브(hub)로 시너지를 내고 있는 반면, 부산은 전통 산업 위주의 산업구조를 빠르게 바꾸지 못하고 있다”고 했다.&lt;br&gt;&lt;br&gt;문화·체육 인프라는 부산이 더 풍부한 것으로 나타났다. 미술관은 부산이 9곳, 인천이 5곳이었다. 김창수 인하대 대학원 문화경영학과 초빙교수는 “문화, 예술 등 삶의 질은 인천이 부산보다 낮은 편”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>검찰, 이재명 ‘위증교사’ 사건 항소 “음주운전을 음주·운전 나눠 무죄로”</title>
