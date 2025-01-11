@@ -13,6 +13,33 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>경찰, 정진석 대통령 비서실장 소환조사...대통령 참모진 줄소환</title>
+      <link>https://www.chosun.com/national/national_general/2025/01/11/VZCXPIC2FRAZ5FE6C5CRDKAIYE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/11/VZCXPIC2FRAZ5FE6C5CRDKAIYE/</guid>
+      <dc:creator>구아모 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 11 Jan 2025 09:29:10 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/37LADIP6GBKEKOWRZ7N2PP3CM4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;정진석 대통령 비서실장이 작년 12월 5일 서울 용산 대통령실 청사에서 인사 브리핑을 하고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;12·3 비상계엄을 수사하는 경찰청 국가수사본부 특별수사단이 11일 오전 정진석 대통령 비서실장을 피의자 신분으로 소환 조사를 마쳤다고 밝혔다.&lt;br&gt;&lt;br&gt;이날 경찰은 정 비서실장을 상대로 윤석열 대통령이 선포한 12·3 비상계엄과 관련해 전후 행적을 집중 추궁한 것으로 전해졌다. 경찰은 “시민단체들이 정 비서실장을 내란 혐의로 고발했다”고 했다.&lt;br&gt;&lt;br&gt;경찰은 최근 대통령실 참모들 수사에 박차를 가하고 있다. 경찰은 지난 8일 김주현 대통령실 민정수석을 내란 혐의로 입건해 지난 8일 피의자 신분으로 조사했고, 지난 7일 신원식 국가안보실장도 피고발인 신분으로 조사했다.&lt;br&gt;&lt;br&gt;김 수석은 윤석열 대통령의 계엄 선포 다음 날인 지난달 4일 이상민 전 행정안전부 장관과 대통령 안전가옥(안가)에 모여 계엄 관련 법률 검토를 했다는 의혹을 받는다.&lt;br&gt;&lt;br&gt;신 실장은 지난달 4일 국회에서 비상계엄 해제 요구 결의안이 통과된 뒤, 국방부 지하 합동참모본부 전투 통제실 내부의 별도의 보안시설인 ‘결심지원실’ 대책회의 참여했다. 경찰은 이 회의 내용을 캐물은 것으로 전해진다.&lt;br&gt;&lt;br&gt;경찰 특수단이 계엄 관련 수사하는 대상자는 현재까지 50명이다. 입건된 50명은 대통령실·경호처·당정 관계자 26명, 군 관계자 19명, 경찰 5명 등이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘윤 체포영장 재발부’ 첫 주말...“탄핵 찬성” “탄핵 반대” 도심 집회</title>
+      <link>https://www.chosun.com/national/national_general/2025/01/11/VVSLPJ4PC5FFPPRY35BYBMZLPY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/11/VVSLPJ4PC5FFPPRY35BYBMZLPY/</guid>
+      <dc:creator>구아모 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 11 Jan 2025 09:16:38 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LDNDPBS3E22VKVVQZKDLYKX5UM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;공수처와 경찰의 윤석열 대통령 2차 체포영장 집행 시도가 임박한 가운데 11일 오후 서울 용산구 한남동 대통령 관저 인근에서 열린 탄핵 반대 집회에서 윤석열 대통령 지지자들이 피켓을 들고 구호를 외치고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 대통령 체포영장 재발부 이후 첫 주말인 11일 서울 광화문과 대통령 관저가 있는 한남동 일대에서 탄핵 찬반 단체들의 대규모 집회가 였렸다.&lt;br&gt;&lt;br&gt;윤석열 즉각 퇴진·사회 대개혁 비상행동(비상행동)은 이날 오후 4시부터 광화문 동십자각에서, 전광훈 목사가 주축인 대한민국바로세우기국민운동본부(대국본) 등은 오후 1시부터 광화문 동화면세점 앞과 한남동 일대에서 동시다발로 집회를 열었다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WXL5RI2U45JMZKKB6RJSG6JWDE.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 즉각퇴진 사회대개혁 비상행동 6차 시민대행진이 진행된 11일 서울 경복궁역 인근에 조국 전 조국혁신당 대표가 받은 영치금으로 운영되는 커피트럭이 운영되고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 오후 4시 기준 비상행동 집회 참가자는 경찰 비공식 추산으로 1만5000명이다. 이수진·전현희·추미애 더불어민주당 의원 등도 집회에 참석했다. 헌법재판소 인근 안국역 1번출구 앞에서는 촛불행동이 집회를 열었다. 광화문에 모인 윤 대통령 지지자는 오후 3시 기준 3만2000명(경찰 비공식 추산)이다.&lt;br&gt;&lt;br&gt;이날 경복궁역 인근에는 서울구치소에 수감된 조국 조국혁신당 전 대표가 지지자들로부터 받은 영치금으로 집회 참가자에게 커피를 나눠주는 커피차를 운영하기도 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/H7O4TRBJC5NWVAUVGQ72TG3OJA.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;11일 오후 서울 용산구 한남동 대통령 관저 인근에서 열린 탄핵 반대 집회에서 윤석열 대통령 지지자들이 피켓을 들고 구호를 외치고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한남동 볼보빌딩 앞에서는 촛불행동의 ‘대통령 탄핵 촉구’ 집회가, 근처 루터교회 앞에서는 신자유연대 주최로 열린 ‘탄핵 기각 촉구’ 집회가 열렸다.&lt;br&gt;&lt;br&gt;이날 친윤 단체의 한남동 집회에는 황교안 전 미래통합당 대표, 윤 대통령의 40년 지기인 석동현 변호사 등이 참석했다. 석 변호사는 이날 “공수처, 경찰, 한 줌도 안 되는 자식들이 정신 없이 날뛰는데 여러분이 지켜줄 것이라 믿는다”고 격한 어조로 말했다. 그러면서 “윤 대통령과 함께 싸우겠다”고 외쳤다.&lt;br&gt;&lt;br&gt;윤상현 국민의힘 의원도 이날 오전 집회를 찾아 “저는 윤석열 대통령에게 ‘이미 배지를 버릴 각오를 했다’고 말했다”며 “대한민국 자유민주주의 체제를 지키기 위해 끝까지 노력하겠다”고 외쳤다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘감초 배우’ 이윤희, 갑작스러운 사망…평소 지병 없어</title>
+      <link>https://www.chosun.com/national/national_general/2025/01/11/JS3DF4YFFRHJJDPY5RT7NAXDII/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/11/JS3DF4YFFRHJJDPY5RT7NAXDII/</guid>
+      <dc:creator>김자아 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 11 Jan 2025 08:56:55 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZQ3QOXRAVZEEDJQRZANX4FFEUE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;배우 이윤희./범엔터테인먼트&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;감초 연기의 대가 배우 이윤희(64)가 갑작스럽게 세상을 떠났다.&lt;br&gt;&lt;br&gt;11일 소속사 범엔터테인먼트에 따르면 이윤희는 이날 오전 숨졌다. 고인은 평소 지병이 없었던 것으로 전해졌다.&lt;br&gt;&lt;br&gt;범엔터테인먼트는 “배우 이윤희님의 안타까운 별세 소식을 전하게 돼 무거운 마음을 전한다”며 “고인의 마지막 가는 길에 깊은 애도를 표한다”고 밝혔다.&lt;br&gt;&lt;br&gt;1960년 1월28일 태어난 고인은 1985년 연극 ‘국물 있사옵니다’로 데뷔했다.&lt;br&gt;&lt;br&gt;2007년 영화 ‘밀양’에서 ‘강 장로’ 역을 맡아 매체 연기를 시작한 고인은 ‘아부의 왕(2012)’ ‘극비수사(2015)’ ‘특별시민(2017)’ ‘하로동선(2022)’ 등 영화에서 조연으로 활약했다.&lt;br&gt;&lt;br&gt;또 ‘구해줘2(2019)’ ‘블랙독(2019)’ ‘편의점 샛별이(2020)’ ‘모범택시(2021)’ ‘십시일반(2020)’ ‘살인자의 쇼핑목록(2022)’ ‘도적, 칼의 소리(2023)’ ‘선산(2024)’ ‘세작, 매혹된 자들(2024)’ 등 드라마에 출연해 감초 역할을 해왔다.&lt;br&gt;&lt;br&gt;고인은 지난달 새 소속사인 범엔터테인먼트와 전속 계약을 맺고 활발한 활동을 펼칠 예정이었다.&lt;br&gt;&lt;br&gt;빈소는 울산병원 장례식장에 마련됐으며 발인은 오는 13일 오전 8시다. 장지는 울산하늘공원이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>사고조사위 “블랙박스 마지막 4분 저장 안 돼... 원인 파악할 계획”</title>
       <link>https://www.chosun.com/national/national_general/2025/01/11/OV3M6FUVP5HELP2D7XEQZNP7XE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/11/OV3M6FUVP5HELP2D7XEQZNP7XE/</guid>
@@ -934,15 +961,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FIVPBMGYNRAZNAC63LPNQPHC3Y.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;김용현 전 국방부장관. /이덕훈 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘12‧3 비상계엄’ 사태를 수사 중인 검찰 특별수사본부(본부장 박세현 서울고검장)가 김용현 전 국방부 장관(구속 기소)을 제외한 비상계엄 국무회의 참석자들을 무혐의 처분하는 방안을 검토 중인 것으로 9일 전해졌다.&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 검찰은 윤석열 대통령의 비상계엄 선포가 위헌적이고 위법한 이유 중 하나로 국무회의 소집 절차가 제대로 지켜지지 않았기 때문이라고 보고 있다고 한다. 지난달 3일 밤 열린 국무회의에서는 비상계엄 선포 안건이 의안으로 제출되지 않았고, 윤 대통령의 일방적인 통보만 있었던 데다 회의록 작성도 없었다는 것이다.&lt;br&gt;&lt;br&gt;검찰은 당시 국무회의에서 실질적인 논의도 못 한 채 대통령의 통보만 받은 국무위원과 배석자들에게 내란 책임을 묻는 것은 무리하다고 판단하고 있는 것으로 알려졌다. 그날 국무회의에는 김 전 장관과 한덕수 국무총리, 최상목 대통령 권한대행 부총리, 조태열 외교부 장관, 김명호 통일부 장관, 박성재 법무부 장관, 이상민 전 행정안전부 장관, 송미령 농림축산식품부 장관, 조규홍 보건복지부 장관, 오영주 중소벤처기업부 장관이 참석했다. 또 조태용 국가정보원장과 신원식 국가안보실장, 정진석 대통령비서실장이 배석했다고 한다.&lt;br&gt;&lt;br&gt;검찰은 지난달부터 최 권한대행과 김명호 장관, 송미령 장관, 신원식 실장 등을 불러 조사했다. 최 권한대행은 “윤 대통령이 비상계엄 선포 후 국회 관련 자금 완전 차단, 국가 비상 입법 기구 관련 예산 편성 등이 적힌 문건을 건넸다”고 진술한 것으로 전해졌다. 송 장관은 지난달 11일 국회에 나가 “(윤 대통령은) 누군가와 의논하지 않았다”고 말했다. 일방적으로 통보했다는 취지였다.&lt;br&gt;&lt;br&gt;다만 수사팀은 검찰 수사와 별개로 한 총리와 국무위원 등을 입건한 경찰, 이상민 전 행정안전부 장관 사건을 이첩받은 고위공직자범죄수사처의 수사 결과도 참고해 최종 결론을 낼 것으로 보인다. 한 총리와 박성재 장관 등은 앞서 경찰 조사를 받았다.&lt;br&gt;&lt;br&gt;앞서 기소된 김용현 전 장관 등의 공소장을 보면, 윤 대통령과 김 전 장관의 당초 비상계엄 선포 계획 시간은 지난달 3일 오후 10시였다. 윤 대통령은 당일 점심부터 오후 9시 33분까지 국무위원들과 국정원장에게 이유는 알리지 않고 대통령실로 들어오라고 지시했다. 먼저 도착해 비상계엄 계획을 들은 한 총리와 최 권한대행은 “경제가 아주 어려워진다” “대외 신인도 하락이 우려된다”고 만류했고, 조태열 장관은 “70년 동안 대한민국이 쌓은 성취를 무너뜨리는 것”이라고 반대했다. 그럼에도 윤 대통령은 “나라가 이래서 되겠느냐”며 뜻을 굽히지 않았다.&lt;br&gt;&lt;br&gt;윤 대통령은 오후 10시 17분쯤 국무회의 정족수인 11명이 모이자 “대통령의 결단이다. 국무회의 심의를 했고 발표를 해야 하니 나는 간다”고 말하고 회의실을 나갔다고 한다. 이후 김 전 장관과 함께 자리를 옮겨 6분 만인 오후 10시 23분 대국민 담화문을 발표하고 비상계엄을 선포했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>“헌재, 내란죄 판단이 원칙... 대통령 방어권 보장도 중요”</title>
-      <link>https://www.chosun.com/national/court_law/2025/01/10/JWJIPGWVHNF2XMMUBDGQQEKH5Q/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/01/10/JWJIPGWVHNF2XMMUBDGQQEKH5Q/</guid>
-      <dc:creator>방극렬 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 09 Jan 2025 15:55:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BJYHGBCRQNB5XAIVTG2H7XCCLE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;9일 서울 서초구의 한 카페에서 본지와 인터뷰하고 있는 이황희 성균관대 법학전문대학원 교수. /조인원 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;법조계와 정치권에서 논란이 되고 있는 윤석열 대통령 탄핵소추 사유의 ‘내란죄 철회’ 문제에 대해 헌법연구관 출신 이황희(48) 성균관대 법학전문대학원 교수는 “원칙적으로 헌재는 탄핵소추 의결서에 적힌 대로 형법상 내란죄 여부를 판단하는 게 맞는다”고 했다.&lt;br&gt;&lt;br&gt;9일 본지와 만난 이 교수는 “탄핵심판은 신속히 진행해야 하기 때문에 재판부가 형법이 아닌 헌법 위반만 판단할 수 있지만, 그럴수록 결정의 정당성을 위해 윤 대통령의 방어권을 충실하게 보장해야 한다”고 말했다.&lt;br&gt;&lt;br&gt;이 교수는 2017년 박근혜 전 대통령 탄핵심판 때 헌재에서 근무하며 TF(태스크포스)에 참여했다. 당시 느꼈던 문제의식을 바탕으로 2021년 ‘대통령 탄핵심판 제도상의 딜레마’라는 논문을 썼다. 논문에서 이 교수는 “헌재가 탄핵소추 사유 일부에 대해 판단을 회피한다면, 결정의 정당성이 약화되는 일은 피할 수 없다”고 강조했다.&lt;br&gt;&lt;br&gt;-탄핵 사유에서 ‘내란죄’를 빼는 문제가 논란이다.&lt;br&gt;&lt;br&gt;“헌재는 탄핵소추서에 적힌 대로 내란죄 성립 여부를 판단하는 것이 원칙이다. 소추서는 의원 200명 이상이 동의해 의결한 문서다. 탄핵 사유로 내란죄가 명시됐으니, 헌재가 이를 존중하는 것이 바람직하다.”&lt;br&gt;&lt;br&gt;-헌재는 ‘재판부가 판단할 사항’이라는 입장이다.&lt;br&gt;&lt;br&gt;“헌재는 그동안 대통령 탄핵심판의 심리 대상과 사유를 어떻게 정리할지는 전적으로 재판부 고유 권한이라고 밝혀왔다. 대통령 직무 정지 상태로 인한 불안정과 혼란을 빨리 해소하기 위해 내란죄는 판단하지 않을 가능성이 커 보인다. 형법 위반을 따지려면 심리가 길어질 수밖에 없기 때문이다. 만약 헌재가 윤 대통령의 비상계엄 선포가 파면에 이를 정도로 중대한 헌법 위반이라고 본다면 내란죄는 심리에서 생략할 것이다. 문형배·이미선 재판관이 오는 4월 퇴임하는 점도 변수다.”&lt;br&gt;&lt;br&gt;-윤 대통령 측은 ‘빨리 탄핵시키려는 전략’이라고 반발한다.&lt;br&gt;&lt;br&gt;“국가 비상사태인 대통령의 직무 정지 상태를 해결하기 위해 탄핵심판은 기본적으로 신속하게 재판하는 것이 중요하다. 무고한 탄핵이라면 빨리 기각해서 대통령직에 복귀하게 해야 하고, 반대로 탄핵 사유가 있다면 파면해서 혼란을 정리해야 한다. 다만 국민이 선출한 대통령의 방어권은 최대한 보장해 줘야 한다. 주 2~3회씩 집중 심리를 해서 윤 대통령 측이 요구하는 핵심 증인은 심판정에 불러 따져볼 수 있게 해야 한다. 속도전만 강조하다가는 최종 결정의 정당성이 약해지고, 한국 사회에 후유증이 크게 남을 것이다.”&lt;br&gt;&lt;br&gt;-탄핵 심판이 정쟁의 대상이 되는 분위기다.&lt;br&gt;&lt;br&gt;“양측 모두 불필요한 논란을 만드는 건 자제하고 헌재 판단에 따라야 한다. 가령 윤 대통령 측은 헌재가 수사 기록을 확보하는 과정이나 송달 문제 등을 일일이 문제 삼으며 ‘나쁜 재판’을 하는 것처럼 정쟁화하고 있다. ‘재판관이 내란죄 철회를 권유했다’는 식의 의혹 제기도 불필요한 오해를 불렀다. 이런 일이 반복되면 탄핵심판 자체에 대한 국민의 신뢰가 떨어질 것이다. 헌재가 법대로 신속하게 심리하면서도 윤 대통령의 방어권을 충분히 보장해 모두가 수긍할 수 있게 해야 한다.”&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>독감 입원 한달새 10배... 4대 호흡기질환 설 연휴 최대 고비</title>
       <link>https://www.chosun.com/national/welfare-medical/2025/01/10/A7YJZNPUX5HSNHPX75KHNN6CBM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/01/10/A7YJZNPUX5HSNHPX75KHNN6CBM/</guid>
@@ -960,24 +978,6 @@
       <description/>
       <pubDate>Thu, 09 Jan 2025 15:55:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/R25VEQR4LOHLMPTF2QWKFXWYFM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 6일 중국 항저우의 한 병원에 마스크를 쓴 어린이들이 진료를 위해 대기하고 있다. 중국에서는 호흡기 바이러스의 일종인 HMPV가 유행하고 있다. /AFP 연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;미국, 중국, 인도 등 해외에서는 여러 전염병이 동시에 유행하고 있다. 코로나, 인플루엔자(독감), RSV(호흡기 세포 융합 바이러스), HMPV(사람 메타뉴모 바이러스)와 노로 바이러스 등이 동시 다발적으로 유행하고 있어 각국 보건 당국이 촉각을 기울이고 있다.&lt;br&gt;&lt;br&gt;9일 CNN 등 외신에 따르면, 올겨울 들어 미국에서는 최소 530만명의 독감 환자가 보고됐고 이 가운데 6만3000명이 입원했다. 독감으로 인한 사망자는 2700명에 달한다. 코로나와 RSV, 노로바이러스도 유행하고 있다. 여러 바이러스가 동시에 확산하는 상황인 것이다.&lt;br&gt;&lt;br&gt;중국에서는 HMPV 감염자가 급증하고 있다. 2001년에 발견된 HMPV는 영유아 위주로 감염자가 발생하며, 폐렴이나 발열 등 급성 호흡기 증상이 나타난다. 증상 면에서는 인플루엔자와 유사해 구분하기 어렵다. 백신과 항바이러스제가 없어 해열제와 수액 등으로 대증치료를 하는 것이 일반적이다.&lt;br&gt;&lt;br&gt;중국 현지 매체에는 지난해 12월 27일 상하이의 한 병원에 응급실이나 입원실에 들어가지 못한 환자 수십 명이 대기실로 보이는 곳에 앉은 채로 링거를 맞는 모습이 공개되기도 했다. 중국 내 HMPV 감염자 규모에 대한 정확한 자료는 공개되지 않았다. 다만 지난 2일 중국 질병통제예방센터가 공개한 자료를 보면 지난해 12월 23~29일 중국의 외래 및 응급 인플루엔자 유사 사례 상위 1~3위 가운데 HMPV가 북부 지역에서는 2위, 남부에서는 3위를 차지했다. 인도에서도 최근 며칠 새 HMPV 환자가 늘고 있다.&lt;br&gt;&lt;br&gt;HMPV가 중국 등에서 확산하면서 “코로나 악몽이 떠오른다”는 얘기도 나온다. 다만 세계보건기구(WHO)는 “HMPV는 겨울에서 봄 사이에 많은 국가에서 유행하는 흔한 바이러스”라고 했다. 질병관리청도 “국내에서는 HMPV와 관련해 큰 유행이 감지되지 않고 있다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>검찰, 이재명 ‘위증교사’ 사건 항소 “음주운전을 음주·운전 나눠 무죄로”</title>
-      <link>https://www.chosun.com/national/court_law/2025/01/10/UN5ZW7L7KFDX5E2GFKREV5CSBQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/01/10/UN5ZW7L7KFDX5E2GFKREV5CSBQ/</guid>
-      <dc:creator>유희곤 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 09 Jan 2025 15:54:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WDK7QHYJ3ZCXXELOFFNHYHI5J4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 2024년 12월 법정으로 들어서는 이재명 더불어민주당 대표. /전기병 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이재명 더불어민주당 대표의 ‘위증 교사’ 사건에서 이 대표에게 무죄를 선고한 1심 판결을 두고 검찰이 항소를 제기하며 “음주운전을 ‘음주’와 ‘운전’으로 나눠 죄가 없다고 한 것”이라고 지적한 것으로 9일 전해졌다. 서울중앙지검은 지난 7일 이런 내용을 담은 항소장을 서울고법 형사3부(재판장 이창형)에 제출했다고 한다.&lt;br&gt;&lt;br&gt;작년 11월 이 사건 1심 재판부는 이 대표의 요청을 받고 위증을 한 전 성남시장 수행비서 김진성씨에게는 유죄(벌금 500만원)를 선고했지만, 이 대표에게는 무죄를 선고해 논란을 불렀다. 김씨의 증언을 6개로 나누고 이 중 4개가 거짓이라고 판단하면서도 “김씨는 스스로의 기억에 따라 증언한 것이고, 이 대표가 김씨와 직접 통화할 때는 김씨가 증언을 할지, 어떤 내용을 말할지 몰라 위증 교사의 고의를 인정할 수 없다”고 했다.&lt;br&gt;&lt;br&gt;이에 대해 검찰은 1심 재판부가 유기적으로 연결된 위증 내용과 교사 행위를 분해해 판단했다고 지적했다. 술을 마시는 것(음주)과 운전 자체는 죄가 아닌 만큼, ‘음주운전’도 범죄라고 볼 수 없다는 식으로 결론을 내려 “법리와 상식에 맞지 않는다”는 것이다. 이 대표에게 위증 교사의 고의성이 없었다는 부분에 대해서도 “물건을 훔치라고는 했지만 절도범이 어떤 수법을 사용할지는 몰랐으니 교사범은 무죄라는 식”이라고 했다.&lt;br&gt;&lt;br&gt;검찰은 “김씨가 이 대표의 요청을 받고 이 대표 측 변호사로부터 받은 내용을 그대로 답변하거나 진술서를 작성했다”며 “성공한 위증과 위증 교사는 처벌할 수 없다는 논리다”라고 지적했다. 이 대표는 김씨가 거짓 증언을 했던 2018년 공직선거법 사건에서 무죄를 확정받고, 대선에 출마할 수 있었다.&lt;br&gt;&lt;br&gt;또 “당시 경기도지사이던 이 대표의 비서실장과 김씨가 법정 진술서 등을 주고받고, 이런 사실이 이 대표에게 보고됐는데도 재판부가 ‘이 대표는 김씨의 진술서 작성 등에 관여하지 않았다’고 판단한 것도 문제”라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>전국 최저 영하 25도… 한파 뚫는 빙벽 타기</title>
-      <link>https://www.chosun.com/national/national_general/2025/01/10/CYGEMKMQUJBRHMVLIA5GN7MN2E/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/10/CYGEMKMQUJBRHMVLIA5GN7MN2E/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 09 Jan 2025 15:54:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3BVTNAKHMRGBPLNTXTU2IQEFBY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/장련성 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;9일 강원도 원주시 판대 아이스파크에서 등반객이 빙벽을 오르고 있다. 이날 강원 설악산의 아침 기온이 영하 25도까지 떨어지는 등 올겨울 들어 가장 추웠다. 기상청은 “이번 한파는 10일 아침 절정에 다다른 뒤 11일 낮부터 점차 풀릴 것”이라고 예보했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>이수만 ‘2025 경복동문대상’</title>
