@@ -13,6 +13,24 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>“출산 사실 알게될까 두려워”... 갓난 아기 숨지게 한 20대 친모 집행유예</title>
+      <link>https://www.chosun.com/national/regional/chungcheong/2025/01/12/LZ7RRHXX2BDLNN4SOY7ZJO5ALQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2025/01/12/LZ7RRHXX2BDLNN4SOY7ZJO5ALQ/</guid>
+      <dc:creator>신정훈 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 12 Jan 2025 03:13:59 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NEB72YMFAVHRJKGS7DXJM5DJ5A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원 로고. /조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;갓 태어난 아이를 숨지게 한 20대 친모가 징역형을 선고받았다.&lt;br&gt;&lt;br&gt;청주지법 충주지원 제1형사부(재판장 김룡)는 갓 태어난 아기의 얼굴을 다리를 올려 질식해 숨지게 한 혐의(살인)로 미혼모 A씨에게 징역 3년에 집행유예 5년을 선고했다고 12일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난해 6월 5일 오전 5시 40분쯤 충주시 연수동의 한 아파트에서 혼자 아이를 낳고서 우는 아기 얼굴에 다리를 올린 채 그대로 잠들어 아이가 숨지게 한 혐의를 받는다.&lt;br&gt;&lt;br&gt;A씨는 지인에게 출산과 아이가 숨진 사실을 알렸고, 이야기를 들은 지인은 곧바로 경찰에 신고했다.&lt;br&gt;&lt;br&gt;경찰이 현장에 도착했을 때는 아이는 탯줄이 붙은 채 숨져 있었다.&lt;br&gt;&lt;br&gt;A씨는 전 연인과 헤어진 뒤 임신 사실을 뒤늦게 알게 됐고, 가족에게도 이 사실을 숨겨왔다. 그러다 출산을 하고 아이가 울자 가족들에게 들킬까봐 범행을 저지른 것으로 드러났다.&lt;br&gt;&lt;br&gt;재판부는 “스스로를 지킬 힘이 전혀 없는 갓 태어난 아기를 살해했다는 점에서 이유를 떠나 비난 가능성이 크다”며 “아이는 인간으로서 누려야 할 기본적인 권리를 아무것도 경험해 보지 못한 채 고통을 겪으며 생을 마감했다”고 지적했다.&lt;br&gt;&lt;br&gt;다만 “범행을 인정하고 반성하며 약 6개월 동안 구속돼 잘못을 반성할 시간을 가졌다”며 “또 자식을 살해했다는 죄책감으로 정신적 고통을 받았고, 이를 평생 짊어지고 살아가야 하는 점을 고려해 형을 정했다”고 판시했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>尹측 “14일 헌재 변론 출석할 수 없다... 신변 안전 우려”</title>
+      <link>https://www.chosun.com/national/court_law/2025/01/12/XF5A527Q6RCH7JWS4CBOKIJ3DI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/01/12/XF5A527Q6RCH7JWS4CBOKIJ3DI/</guid>
+      <dc:creator>이민준 기자, 방극렬 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 12 Jan 2025 02:07:39 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OCGUZGLD6BHA3DEBII5Y46PNOY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령이 지난달 3일 밤 서울 용산 대통령실 청사에서 긴급 대국민 특별 담화를 하고 있다. /대통령실&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 대통령 변호인단은 “오는 14일 헌법재판소에서 열릴 탄핵 심판 변론 기일에 출석할 수 없다”는 입장을 12일 밝혔다. 헌재에선 14일 첫 정식 변론이 열릴 예정이다.&lt;br&gt;&lt;br&gt;윤 대통령 변호인단은 이날 오전 언론 공지를 통해 이 같은 입장을 밝혔다. 변호인단은 “대통령이 헌법재판에 출석하기 위해서는 신변안전과 경호문제가 해결돼야 한다”며 “고위공직자범죄수사처와 경찰청 국가수사본부가 불법무효인 체포영장을 계속 집행하려고 시도하고 있어 신변 안전과 불상사가 우려된다”고 했다. 그러면서 “안전문제가 해결되면 언제든 출석할 예정”이라고 했다.&lt;br&gt;&lt;br&gt;헌법재판소법 52조는 ‘당사자가 탄핵 심판 변론 기일에 출석하지 않으면 다시 기일을 정해야 한다’고 규정한다. 당사자가 다시 정한 기일에도 나오지 않으면 출석 없이 심리할 수 있다. 헌재도 윤 대통령의 불출석을 고려해 오는 16일 2차 변론 기일을 지정한 상황이다. 이 밖에도 헌재는 21일과 23일, 2월 4일을 변론 기일로 지정했다.&lt;br&gt;&lt;br&gt;앞서 박근혜 전 대통령 탄핵심판 때는 첫 변론 기일에 박 전 대통령이 출석하지 않아 재판이 9분 만에 종료됐었다. 당시 박 전 대통령도 불출석 방침을 미리 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>고교 축제서 동덕여대 시위 비하 논란…학교 측 사과</title>
       <link>https://www.chosun.com/national/national_general/2025/01/12/C7XQOQDM5JFBXKQZ72ZCE3GCG4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/12/C7XQOQDM5JFBXKQZ72ZCE3GCG4/</guid>
@@ -921,15 +939,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TKZEAHJUQ5EBDDZ5RUGX3OVQLI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;제주도가 추진하는 푸드테크 기업 육성 그래픽./제주도&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제주도가 재생에너지 100%(RE100) 식품 생산 기업 50곳을 육성한다.&lt;br&gt;&lt;br&gt;제주도는 10일 이 같은 내용의 푸드테크 육성을 위한 ‘제주 그린+푸드테크 생태계 조성 전략’을 발표했다. 푸드테크는 식품(food)과 기술(technology)의 합성어로, 식품 생산부터 유통, 소비까지 전반에 AI, 사물인터넷(IoT), 바이오 기술(BT) 등 첨단기술을 결합한 신산업을 말한다.&lt;br&gt;&lt;br&gt;제주도는 이번 전략에서 2035년까지 매출 50억원 이상 K-RE100 기업 50곳 육성, 푸드테크 상장기업 5곳 배출, 도내 식품산업 매출 확대, 수출액 5000만 달러 달성, 신규 일자리 500개 창출을 목표로 내걸었다.&lt;br&gt;&lt;br&gt;이를 위해 먼저 제주의 청정 특화자원을 활용한 맞춤형 전략식품을 개발한다. 제주도는 국제슬로푸드협회의 ‘맛의 방주’에 등재된 제주 전통 식품 31개 품목과 월동 작물 등을 활용해 특화 제품을 만들고 개인 건강정보에 맞춘 식단설계 기반도 구축할 계획이다. &lt;br&gt;&lt;br&gt;또 2027년까지 제주개발공사와 공동으로 인공지능(AI) 기술을 활용해 감귤 농축액 자율 제조공정을 도입한다. 스마트 가공센터도 건립해 월동채소 식재료를 식자재 시장에 연중 공급할 방침이다.&lt;br&gt;&lt;br&gt;아울러 AI 기반 맞춤형 관광·식품 정보 서비스를 개발하고 먹거리 통합지원센터를 통해 지역 식자재를 안정적으로 공급할 예정이다. 이와 함께 제주 첨단과학기술단지에 ‘그린바이오 벤처캠퍼스’와 ‘푸드테크 연구지원센터’ 등 혁신 기반 시설을 조성할 계획이다.&lt;br&gt;&lt;br&gt;제주도는 이날 지역내 대학 3곳과 정부 기관·단체 6곳, 푸드테크 선도기업 9곳 등과 업무협약을 맺어 푸드테크 생태계 조성을 위해 협력해 나가기로 했다.&lt;br&gt;&lt;br&gt;오영훈 제주지사는 “제주지역 식품제조업체(1064개)의 90%가 10인 미만 영세업체인 현실을 극복하고, 제주의 청정 자원과 국제관광도시 경쟁력을 활용한 혁신을 추구한다”며 “친환경 에너지 기반의 스마트 제조부터 맞춤형 건강식품 개발까지 전 과정의 생태계를 구성해 글로벌 푸드테크 중심지로 도약해 나가겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>행안부 장관 대행·시도지사協 “민생안정 위해 중앙-지방협력”</title>
-      <link>https://www.chosun.com/national/national_general/2025/01/10/XHYOBZ4APFFYFPX3AB2EGLB7RU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/10/XHYOBZ4APFFYFPX3AB2EGLB7RU/</guid>
-      <dc:creator>박진성 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 10 Jan 2025 04:39:43 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XUXOTEBYKJBE5L7CGZS4D2KHOQ.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;고기동(오른쪽) 행정안전부 장관 직무대행이 10일 오전 인천시청에서 대한민국시도지사협의회장인 유정복 인천시장과 악수하고 있다./행정안전부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;고기동 행정안전부 장관 직무대행은 10일 인천시청을 찾아 제18대 대한민국시도지사협의회장으로 선출된 유정복 인천시장을 만나 지역민생 안정을 위해 중앙과 지방간 긴밀한 협력을 요청했다.&lt;br&gt;&lt;br&gt;고 대행은 이 자리에서 “대내외 불확실성이 큰 시기에 지자체가 지역민생 안정을 위해 제 역할과 책임을 다해 주고 있는데 감사를 표한다”고 했다.&lt;br&gt;&lt;br&gt;또 고 대행은 “주민들이 안심하고 일상생활을 할 수 있도록 민생 경제 회복, 취약계층 지원, 재난안전 관리체계 등 여러 분야에 있어 중앙과 지방이 더욱 견고하게 협력해나가길 바란다”고 했다.&lt;br&gt;&lt;br&gt;유 회장은 “지방정부는 국민과 가장 가까운 곳에서 실질적인 행정을 담당하며 국가 위기 상황에서도 주민들의 안정적인 삶을 유지하는 데 핵심적인 역할을 하고 있다”라며 “이런 시기일수록 중앙-지방정부가 상호 신뢰와 협력을 바탕으로 함께 나아가야 한다”고 말했다.&lt;br&gt;&lt;br&gt;협의회는 이번 면담을 계기로 중앙-지방 간의 정례적인 소통 채널을 활성화하고, 지방정부의 역량 강화를 위한 정책적 지원을 적극적으로 모색해 나갈 계획이라고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>“핸드폰만 9시간 써”... ‘5세 수학천재’, 6년 새 망가진 이유는</title>
       <link>https://www.chosun.com/national/national_general/2025/01/10/K7B3DW57FJGDRJH6OEZ24NTXWE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/10/K7B3DW57FJGDRJH6OEZ24NTXWE/</guid>
@@ -958,15 +967,6 @@
       <description/>
       <pubDate>Fri, 10 Jan 2025 02:57:51 +0000</pubDate>
       <content:encoded>문재인 정부 청와대가 이상직 전 더불어민주당 의원을 중소벤처기업진흥공단(중진공) 이사장에 임명하는 과정에서 조현옥 전 인사수석이 문 전 대통령에게 이 전 의원의 내정 사실을 보고한 정황을 검찰이 확보한 것으로 10일 전해졌다. 검찰은 지난달 12일 조 전 수석을 불구속 기소하면서 이 전 의원 내정 전후의 상세한 정황을 공소장에 적시했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XMKFNHDK4NIYRBJWKR645NRRSE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;조현옥 전 청와대 인사수석./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;법무부가 이날 국민의힘 유상범 의원실에 제출한 조 전 수석의 공소장에 따르면, 이 전 의원은 지난 2017년 12월 13일 청와대에서 임종석 대통령비서실장 주재로 열린 ‘대통령비서실 인사추천위원회 간담회’에서 차기 중진공 이사장으로 사전 내정됐다. 다만 검찰은 이 전 의원을 내정하라고 지시한 자가 누구인지는 공소장에 적지 않았다. &lt;br&gt;&lt;br&gt;간사로 회의에 참석한 조 전 수석이 그달 16~18일 사이 내정 사실을 문 전 대통령에게 보고했다는 것이 검찰 조사 결과다. 이 무렵 조 전 수석은 이 전 의원에게도 내정 사실을 알려 중진공 이사장 공모 절차에 참여하도록 했다고 한다. 그러면서 조 전 수석은 인사수석실을 통해 중기부 운영지원과 측에 이 전 의원의 내정 사실을 알리고 이사장 선임 절차에 착수하라고 지시한 것으로 조사됐다. 이때 “내정자가 정상적으로 임명될 수 있도록 이 전 의원에게 공모 절차를 안내하고 필요한 자료와 서비스 등을 제공해 달라”고 조 전 수석이 말했다는 것이다.&lt;br&gt;&lt;br&gt;중기부 간부들은 회의를 거쳐 중진공을 통해 이 전 의원에게 자료를 전달하기로 결정한 것으로 조사됐다. 중기부에서 직접 이 전 의원을 지원하는 것은 위험할 수 있다는 이유에서다. 이에 중기부 측은 2017년 12월 26일 중진공 인재경영실에 이 전 의원 내정 사실을 전달하며 이사장 선임 절차를 개시하도록 지시했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AXTXOJRJ4OM2S26E5PY36UO3FM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이상직 전 민주당 의원./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이듬해 1월 10일 중기부 운영지원과 측은 중진공 인재경영실 관계자들을 만나 “이스타항공 측 전화를 잘 받아달라”는 취지로 말하며 “이 전 의원이 중진공 이사장에 지원하면 협조를 했으면 좋겠다”고 말한 것으로 조사됐다. 이에 중진공 측에서 이스타항공 측에 전임 이사장의 직무수행계획서 등을 전달하는 등 이 전 의원의 지원 과정에서 편의를 봐줬다고 검찰은 보고 있다. 조 전 수석은 이러한 진행 상황을 보고 받았다고 한다.&lt;br&gt;&lt;br&gt;중진공으로부터 이사장 내정자 3명에 대한 면접심사 결과를 보고받은 조 전 수석이 통상 절차와 달리 이 전 의원에 대한 인사검증만 진행하도록 요청했다는 것이 검찰 시각이다. 면접심사를 통과한 후보자를 추천받은 뒤 인사검증을 진행해 온 이전과는 다르게, 인사검증부터 먼저 진행하도록 조 전 수석이 중진공 측에 지시했다는 것이다. 2018년 2월 13일 대통령비서실 인사추천위원회에서 이 전 의원은 중진공 이사장으로 최종 확정됐고, 그달 28일 최종 임명됐다.&lt;br&gt;&lt;br&gt;전주지검 형사3부(부장 한연규)는 조 전 수석이 대통령의 인사권을 보좌하는 권한을 남용해 대통령비서실 인사비서관실과 중기부 운영지원과 소속 공무원들을 통해 이 전 의원의 중진공 이사장 임명을 사전 지원한 혐의로 지난달 12일 서울중앙지법에 불구속 기소했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>주말에도 한파…최저 영하 18도 강추위</title>
-      <link>https://www.chosun.com/national/transport-environment/2025/01/10/G4DTBUUS3VAJZCET2WHR4HYLME/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/01/10/G4DTBUUS3VAJZCET2WHR4HYLME/</guid>
-      <dc:creator>박상현 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 10 Jan 2025 02:43:44 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UCUTCIBEQRKDJJNRUB65466OCU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울의 아침 기온이 영하 12도까지 떨어지는 등 전국 대부분 지역에 한파 특보가 내려진 10일 서울 종로구 세종대로 사거리에서 시민들이 두꺼운 옷을 입고 횡단보도를 건너고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;주말에도 한파(寒波)가 이어질 것으로 전망됐다.&lt;br&gt;&lt;br&gt;기상청에 따르면, 주말인 11~12일 우리나라는 고기압 영향권에 들면서 최근 한파를 견인했던 한랭건조한 바람으로부터 벗어날 것으로 예상됐다. 다만 한반도 내륙이 찬 공기로 덮여 있어 추위는 한동안 이어질 것으로 보인다. &lt;br&gt;&lt;br&gt;11일 아침 최저기온은 영하 18도에서 영하 2도, 낮 최고기온은 영하 3도에서 영상 5도로 예보됐다. 12일에도 최저 영하 15도에서 영하 1도, 최고 영하 1도에서 7도로 여전히 춥겠다.&lt;br&gt;&lt;br&gt;강수 구름대를 동반한 기압골의 영향으로 11~12일 충청·호남에는 1~5㎝의 눈이 내리는 곳이 있겠고, 울릉도·독도와 제주에는 5~20㎝의 많은 눈이 내리겠다.&lt;br&gt;&lt;br&gt;최저 영하 15도 내외의 추위는 월요일인 13일까지 이어지다가, 화요일인 14일 기온이 최저 영하 5도 수준까지 10도 가량 급격하게 오르며 잠시 풀릴 것으로 보인다. &lt;br&gt;&lt;br&gt;그러나 15일부터 중국 쪽 대륙고기압이 확장하면서 우리나라로 찬 바람이 불어오기 시작해 하루 만에 기온이 영하 15도 수준으로 다시 크게 떨어질 것으로 예측됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>﻿개그맨 안상태, 층간 소음 논란 4년 후 근황 “1년 수익 32만원”</title>
