@@ -13,6 +13,45 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>尹측, 공수처에 “불법 체포영장 집착 말고 기소하라” 재요구</title>
+      <link>https://www.chosun.com/national/court_law/2025/01/12/4Y4FL6YALBEADLLIQMZGFCDNCY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/01/12/4Y4FL6YALBEADLLIQMZGFCDNCY/</guid>
+      <dc:creator>유희곤 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 12 Jan 2025 09:00:29 +0000</pubDate>
+      <content:encoded>&lt;br/&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UOIS54DFSZSB4HJKB3OLUQX4DM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령의 탄핵심판 법률대리인인 윤갑근 변호사가 지난 8일 오후 서울 서초구 한국컨퍼런스센터에서에서 열린 기자간담회에서 발언하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 대통령 측이 2차 체포영장 집행을 준비 중인 고위공직자범죄수사처(공수처)에 12일 “불법·무효인 체포영장 집행에 집착하지 말고 기소하라”고 다시 요구했다.&lt;br&gt;&lt;br&gt;윤 대통령 변호인단 소속인 윤갑근 변호사는 이날 공수처에 변호인 선임계를 낸 후 기자단에 보낸 입장문에서 이같이 밝혔다.&lt;br&gt;&lt;br&gt;변호인단은 입장문에서 “공수처는 (공조 수사 중인) 경찰을 통해 경호처 간부들을 줄소환하면서 경호처를 무력화해 국가 안보에 중대한 위해를 초래하려 하고 있다“면서 ”더 이상 불법·무효인 체포영장 집행을 고집해 강추위에 고생하는 국민들과 공무원들을 힘들게 하지 말고 불상사가 없도록 (윤 대통령을) 관할인 서울중앙지법에 기소하거나 사전구속영장을 청구하라“고 했다.&lt;br&gt;&lt;br&gt;이어 “대통령은 이미 비상계엄 선포에 관한 담화문 및 변호인단 설명을 통해 충분히 의견과 입장을 밝혔고, 사건 관련자들은 대부분 구속 기소돼 대통령 조사만 남은 상태일 것”이라면서 “현 상태에서 (공수처가) 대통령의 입장을 듣거나 추가 증거확보를 위한 조사가 필요치 않으며, 따라서 체포영장을 집행할 필요성은 전혀 없다”고 주장했다. 그러면서 “굳이 추가 조사가 필요하다면 서울중앙지법에 구속영장을 청구하든 기소하라는 것”이라고 했다. 공수처의 체포영장 집행 고집이 “윤 대통령에 대한 망신주기 목적의 무리한 소환 강행”이라는 주장도 했다.&lt;br&gt;&lt;br&gt;윤 변호사는 지난 8일 기자회견에서도 공수처가 윤 대통령을 기소하거나 사전구속영장을 청구하면 재판(영장실질심사)에서 대응하겠다고 했다. 공수처가 내란죄 수사 권한이 없고, 관할 법원이 아닌 서울서부지법에서 발부받은 체포 및 관저 수색영장은 불법·무효라면서도 더 이상의 갈등이 있어서는 안 되고 국민과 공무원들이 더 고생해서도 안 된다며 기소 또는 구속영장 청구를 ‘대안’으로 제시했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>서울 마포 소각장 “건립 취소” 판결문 살펴보니 “입지선정委 구성 등에 절차적 하자"</title>
+      <link>https://www.chosun.com/national/national_general/2025/01/12/IFY6IHKFKNHL3NYDTI4F35NMVY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/12/IFY6IHKFKNHL3NYDTI4F35NMVY/</guid>
+      <dc:creator>최연진 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 12 Jan 2025 08:49:29 +0000</pubDate>
+      <content:encoded>서울시가 마포구 상암동에 쓰레기 소각장을 짓기로 했다가 법원에서 “결정을 취소해야 한다”는 1심 판결을 받은 가운데, 법원은 ‘소각장 입지선정위원회 구성과 타당성 조사 전문연구기관 선정 과정에 절차적 하자가 있다’고 판단해 서울시에 패소 판결을 내린 것으로 나타났다.&lt;br&gt;&lt;br&gt;앞서 10일 서울행정법원 행정11부(재판장 김준영)는 마포구 주민 1850명이 서울시를 상대로 낸 ‘마포 광역자원회수시설(소각장) 입지 결정 고시 처분 취소 청구 소송에서 원고 일부 승소 판결을 내렸다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/O7W6FJENQPND46U6TBJHM6IZ4U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;마포소각장추가백지화투쟁본부 회원들이 작년 11월 서울 마포구 월드컵경기장에서 열린 마포소각장 주민설명회에서 소각장 설치 반대 피켓을 들고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;12일 본지가 입수한 판결문에 따르면, 법원은 우선 입지선정위원회 구성 절차에 문제가 있다고 판단했다.&lt;br&gt;&lt;br&gt;서울시는 ‘폐기물시설촉진법 시행령(구 시행령)’에 따라 2020년 4월 20일 입지선정위원회 구성·운영 계획을 수립했다. 그해 12월4일 ‘입지선정위원회 위원 위촉 및 1차 회의개최 계획’을 수립했고, 사흘 뒤인 12월7일 위원 위촉 대상자들(10명)에게 ‘12월15일 위촉식 및 회의’에 참석해달라는 공문을 보냈다. 실제 위원들은 이날 회의에서 위촉장을 받았다.&lt;br&gt;&lt;br&gt;이에 대해 마포구민 측은 “2020년 12월10일 폐기물시설촉진법 시행령이 개정됐는데, 이 시행령을 따르지 않고 구 시행령을 따랐기 때문에 위원회 구성이 위법하다”고 주장했다. 12월10일 이후 위원회가 구성됐기 때문에 법령을 잘못 적용했다는 것이다.&lt;br&gt;&lt;br&gt;이에 대해 법원은 마포구민들의 손을 들어줬다. 위원회가 ‘설치’됐다고 보려면 위원회 위원이 구성이 완료돼야 하는데, 2020년 12월15일 위원을 위촉해 법적 구성이 완료됐기 때문에 개정된 시행령을 따라야 한다는 취지다. 재판부는 “서울시는 2020년 12월 4일에 위원회 설치가 완료됐다는 취지로 주장하지만, (이때는) 위원으로 내정된 것에 불과하다”고 했다.&lt;br&gt;&lt;br&gt;재판부는 입지 후보지에 대한 타당성 조사를 위해 전문 연구기관을 선정하는 절차에서도 문제가 있었다고 판단했다.&lt;br&gt;&lt;br&gt;입지선정위원회는 2020년 12월15일 회의에서 타당성 조사 전문연구기관 선정을 공개경쟁입찰 방식으로 한다고 결정했고, 2021년 1월 서울시는 타당성 조사 용역 입찰을 공고했다. 2021년 3월 서울시는 단독 응찰한 한국종합기술·동해종합기술공사 컨소시엄과 수의계약을 체결했다. &lt;br&gt;&lt;br&gt;이에 대해 마포구민 측은 “입지선정위원회가 전문연구기관 선정을 심의·의결해야 하는데, 당시 공개경쟁입찰이라는 방식만 결정했고 심의·의결은 하지 않았기 때문에 문제가 있다”는 취지로 주장했다.&lt;br&gt;&lt;br&gt;재판부는 “입지 후보지 타당성 조사 결과는 차후 의사결정에 중대한 영향을 미치므로 공정성, 전문성 등을 참작해 폐기물 처리시설 설치기관(서울시)이 아닌 입지선정위원회가 전문 연구기관을 선정하도록 한 것”이라며 “위원회는 공개경쟁입찰 방식만 의결했을 뿐, 전문연구기관을 직접 선정하지 않았다”고 했다. 입찰 방식만 의결한 것으로는 전문연구기관 심의·의결해 직접 선정했다고 볼 수 없다는 것이다. &lt;br&gt;&lt;br&gt;재판부는 “서울시는 컨소시엄이 단독 입찰해 유찰되자 곧바로 수의계약 체결 절차에 나섰다”며 “전문연구기관 선정을 위한 심의·의결 권한을 입지선정위원회에 준 법령의 취지에 반한 것”이라고 했다. &lt;br&gt;&lt;br&gt;재판부는 다만 서울시가 주민 의견 수렴절차를 제대로 지키지 않았고, 환경영향평가도 제대로 진행되지 않았다는 원고 측의 다른 주장은 받아들이지 않았다.&lt;br&gt;&lt;br&gt;서울시는 2023년 8월 새 쓰레기 소각장 부지로 마포구 상암동을 최종 선정했다. 2026년부터 수도권에서 생활 폐기물 직매립(쓰레기를 소각하지 않고 그대로 땅에 묻는 것)이 금지되기 때문에 하루에 쓰레기 1000t을 소각할 수 있는 소각장 건립을 추진한 것이다. 이에 반발한 마포구 주민들은 행정법원에 소송을 제기했다. 서울시는 판결문을 분석해 2월 초 항소장을 제출한다는 방침이다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“목숨 던져 시민 지킨 군인 정신, 이 시국에 더 빛나”</title>
+      <link>https://www.chosun.com/national/national_general/2025/01/12/JPUDID6QHRAPDFHGPWSTAF6N5I/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/12/JPUDID6QHRAPDFHGPWSTAF6N5I/</guid>
+      <dc:creator>대구광역시=양인성 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 12 Jan 2025 08:35:56 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QDQOBVCYCZDE3AP4HB6TFB4JKM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;11일 오후 대구광역시 수성구 능인고등학교에서 故 심정민 소령 순직 3주기 추모식이 열린 가운데, 심 소령 흉상 앞에서 능인고 학생들과 교사들이 헌화를 한 후 묵념을 하고 있다. /양인성 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2022년 1월 11일 심정민(추서·1993년생·공사 64기) 소령이 몰던 F-5E 전투기가 경기 화성의 한 야산에 추락했다. 심 소령은 현장에서 순직했다. 그는 ‘이젝션(탈출)’을 관제탑에 두 번 외쳤고 10여 초간 비상 탈출을 할 여유가 있었지만 그러지 않았다. 추락 지점은 인근 아파트·대학·요양병원 등과 불과 100m 거리. 블랙박스엔 비상 탈출 손잡이를 당기는 소리 대신 마지막까지 조종간을 잡은 채 가쁜 호흡을 한 정황이 기록돼 있었다. 최후 순간까지 국민의 생명과 안전을 지키는 군인이자 조종사의 본분을 다했다고 공군은 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PV5VJWLUKRDPLBEHAIY56H6TTM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;故 심정민 소령의 가족사진. /독자제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 11일 심 소령 3주기 추모식이 고인의 모교 대구 능인고에서 열렸다. 유족과 주호영 국회부의장, 능인고 동문 등 100여 명이 참석했다. 주 부의장은 이날 추모사에서 “시간이 흘렀지만 그의 고귀한 의식과 희생정신은 여전히 우리 가슴 속에 남아있다”며 “그는 언제까지나 전투기 조종사로 살고 싶다는 말을 입버릇처럼 외치고, 하늘과 조국을 지킨다는 자부심으로 가득 찬 사람이었다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NSBZ4FVANNAQ7GQQMAVHEYOMQQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;故 심정민 소령(왼쪽에서 두 번째)이 공군사관학교 재학 당시 찍은 사진. /독자제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;1978년 능인고를 졸업한 주 부의장은 심 소령의 능인고 34년 선배다. 그는 “무엇보다 그는 자신의 생명보다 국민의 안전을 먼저 생각했던 사람이었다”며 “추락 위기 순간에서도 자신을 위한 선택을 하지 않고 국민의 생명과 재산을 지키기 위해 끝까지 조종간을 붙들었다”고 했다. 추모객들은 “국가와 군이 어려운 시기에 처한 요즘, 심 소령 같은 고귀한 군인이 있었음에 감사한다”고 했다.&lt;br&gt;&lt;br&gt;학교 정문 근처 교훈탑 앞에는 조종복을 입고 있는 심 소령의 흉상이 서 있었다. 심 소령 순직 1주년을 기념해 능인고에서 설치한 흉상이다. 흉상 앞에 놓인 화분에는 2022년 사고 당시 능인고 2학년 학생들이 쓴 편지가 꽂혀있었다. 편지에는 “하늘의 별이 된 영웅, 당신의 숭고한 희생으로 선물받은 삶이 당신이 꿈꾸던 삶이 되도록 살아가겠습니다”라는 내용이 적혀 있었다.&lt;br&gt;&lt;br&gt;오후 2시 능인고 홍은표 교장은 “매일 아침 등굣길에서 후배들이 심 소령의 정신과 함께하고 있다”며 “심 소령의 헌신과 희생을 영원히 기억하겠다”고 추모사를 했다. 추모식 맨 앞자리에 앉은 심 소령의 유족들은 중간중간 주먹을 쥐거나 바닥을 봤다. 아버지 심길태(68)씨는 입을 꾹 다물고 눈을 붉혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RJDI3KZWJBHFLKDV5YEHZE76LA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;11일 오후 대구광역시 수성구 능인고등학교에서 故 심정민 소령 순직 3주기 추모식에 참석한 심 소령의 능인고 후배들. /양인성 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;심 소령은 1남 2녀 중 막내다. 위로는 첫째 누나 심정희(41)씨와 둘째 누나 심은정(39)씨가 있다. 하지만 누나가 고민이 있으면 다 들어주는 오빠 같은 동생이었다. 심 소령의 작은 누나 심은정(39)씨는 “정민이가 개인적인 욕심만 생각했으면 다른 사람이 피해를 보든 말든 본능에 따라 본인이 살려고 했을 것”이라며 “정민이는 늘 맡은 바 책임을 다하려 한 아이였고, 군인으로서 가진 사명감으로 행동한 것”이라고 했다.&lt;br&gt;&lt;br&gt;이날 ‘심정민 소령 장학금’ 100만원도 모교 후배 1명에게 전달됐다. 지난해 심 소령 이름으로 장학금이 처음 마련된 뒤 두 번째 수여식이다. 장학금을 받은 문모(18)군은 사회복지사가 되는 게 꿈이라고 알려줬다. 그는 “나도 다른 누군가를 위해 생명을 내놓을 수 있을까 되돌아보는 계기가 됐다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/RSLN4GIAYZBWBDBZS7RT2Y3LP4.jpg?width=3264&amp;height=1836&amp;auth=c70f815da6a1079fbe75bcce4e8bc623502ab414dca1a55ed7688d28fcd0fca8&amp;smart=true" type="image/jpeg" height="1836" width="3264">
+        <media:credit role="author" scheme="urn:ebu"/>
+      </media:content>
+    </item>
+    <item>
+      <title>‘尹 체포영장’ 집행 앞둔 공수처, 경호처에 구상권·손해배상 청구 검토</title>
+      <link>https://www.chosun.com/national/court_law/2025/01/12/R5HB32PJRZBBVBNSSA7TVL3YVQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/01/12/R5HB32PJRZBBVBNSSA7TVL3YVQ/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 12 Jan 2025 08:21:28 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OQJKHO2XFVMCROIFPLFLXZRJ2Y.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령 2차 체포영장 집행을 앞두고 12일 경기도 정부과천청사 고위공직자범죄수사처(공수처)에서 직원들이 분주하게 움직이고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 대통령의 체포영장을 받아둔 고위공직자범죄수사처(공수처)는 2차 체포영장을 집행할 때 대통령경호처와 대치 상황이 발생할 경우 경호처 측에 구상권과 손해배상을 청구하는 방안을 검토 중인 것으로 12일 전해졌다.&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 공수처는 체포영장 집행 시기를 경찰 국가수사본부 특별수사단과 조율하면서 이 같은 대응 방안도 내부적으로 검토하고 있다. 우선 대형버스, 윤형 철조망 등으로 겹겹이 구성된 경호처의 차단벽을 뚫는 과정에서 발생할 것으로 예상되는 비용에 대해 경호처에 구상권을 청구하는 방안을 공수처는 검토 중인 것으로 알려졌다. 경호처의 차단벽이 두터울 것으로 추정되는 만큼, 체포팀 인력만으로는 돌파가 어려울 것으로 공수처는 보고 있다고 한다. &lt;br&gt;&lt;br&gt;이 밖에도 공수처는 대치 과정에서 체포팀 인원들이 상해를 입을 경우 손해배상을 청구하는 방안도 논의하는 것으로 전해졌다. 또 공수처는 지시에 불복해 체포영장 집행을 막지 않는 경호처 직원들을 선처하는 방안도 검토 중이라고 한다.&lt;br&gt;&lt;br&gt;공수처는 체포영장 재발부 6일 차인 이날까지 2차 집행에 나서지 않았다. 대신 경찰 측과 구체적인 체포영장 집행 계획을 논의하고 있는 것으로 전해졌다. 윤 대통령 변호인단은 이날 오후 공수처 민원실을 찾아 선임계를 제출했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>[오늘의 운세] 1월 13일 월요일(음력 12월 14일 壬午)</title>
       <link>https://www.chosun.com/national/national_general/2025/01/12/QVZYBDDT5NAC7BLFCU2WC6M5FE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/12/QVZYBDDT5NAC7BLFCU2WC6M5FE/</guid>
@@ -872,19 +911,6 @@
       <content:encoded>서울 마포구에 신규 쓰레기 소각장을 짓기로 한 서울시 결정을 취소해야 한다는 법원 판단이 나왔다. 서울시는 항소 의사를 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CT5HJSJDFBFKLE7YVJWZ7D4AJM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 2022년 12월 서울 마포구 상암동 월드컵경기장에서 마포소각장 주민설명회가 열리면서 상암동 주민들이 반대 집회를 갖고 있다. /장련성 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울행정법원 행정11부(재판장 김준영)는 마포구민 1850명이 서울시장을 상대로 제기한 광역자원회수시설 입지결정고시 처분 취소 소송에서 10일 원고 승소 판결을 내렸다.&lt;br&gt;&lt;br&gt;앞서 서울시는 지난 2023년 8월 신규 생활 폐기물 소각장 건립지로 마포구 상암동을 최종 선정했다. 이러한 서울시의 결정에 같은 해 11월 마포구 주민들은 “주민 동의 없이 서울시가 소각장 건립을 밀어붙였다”며 고시 취소를 요구하는 소송을 냈다.&lt;br&gt;&lt;br&gt;10일 법원의 결정에 대해 서울시는 항소하겠다는 입장을 발표했다. 서울시 관계자는 “15일쯤 판결문을 받는 대로 내용을 분석해 2월 초 항소장을 제출하겠다”고 말했다. 서울시는 항소와 연계해 소각장 건립 관련 향후 대책도 추가로 마련한다는 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>경찰, 김주현 민정수석 소환 조사…계엄 법률 검토 의혹</title>
-      <link>https://www.chosun.com/national/2025/01/10/CISCKRABXBDC7CV23ARI5KVEDE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2025/01/10/CISCKRABXBDC7CV23ARI5KVEDE/</guid>
-      <dc:creator>주형식 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 10 Jan 2025 06:35:25 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/M64SJO7LMZO7HG2JDQBUW2T32I.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;김주현 대통령실 민정수석./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;12·3 비상계엄 사태를 수사하는 경찰이 최근 김주현 대통령실 민정수석을 내란 혐의로 입건해 조사했다. 경찰은 지난 7일 신원식 국가안보실장을 조사하는 등 대통령실 참모들 수사에 박차를 가하고 있다.&lt;br&gt;&lt;br&gt;경찰에 따르면 경찰청 국가수사본부 비상계엄 특별수사단(특수단)은 김 수석을 내란 혐의로 입건하고 지난 8일 피의자 신분으로 불러 조사했다.&lt;br&gt;&lt;br&gt;김 수석은 윤석열 대통령의 계엄 선포 다음 날인 지난달 4일 이상민 전 행정안전부 장관과 대통령 안전가옥(안가)에 모여 계엄 관련 법률 검토를 했다는 의혹을 받는다.&lt;br&gt;&lt;br&gt;김 수석이 입건되면서 특수단 계엄 사태 수사 대상자는 기존 49명에서 50명으로 늘었다. 입건된 50명은 당정 관계자 26명, 군 관계자 19명, 경찰 5명 등이다. 경찰은 정진석 대통령 비서실장에 대해서도 출석 일정을 조율하고 있다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/M64SJO7LMZO7HG2JDQBUW2T32I.JPG?width=2027&amp;height=1472&amp;auth=c6d592b08512c2521e2046d869283ee998ef4a854c5c27f81a5a9927ba1de4ac&amp;smart=true" type="image/jpeg" height="1472" width="2027">
-        <media:description type="plain">(서울=뉴스1) 오대일 기자 = 신임 민정수석비서관에 임명된 김주현 전 법무부 차관이 7일 용산 대통령실 청사에서 임명 소감을 밝히고 있다. 2024.5.7/뉴스1</media:description>
-        <media:credit role="author" scheme="urn:ebu">(서울=뉴스1) 오대일 기자</media:credit>
-      </media:content>
-    </item>
-    <item>
       <title>‘내란 주요 임무’ 조지호·김봉식 경찰 수뇌부, 2월 6일 재판 시작</title>
       <link>https://www.chosun.com/national/court_law/2025/01/10/6HXTDC24RVFFBBGJ32KVS2RODM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/01/10/6HXTDC24RVFFBBGJ32KVS2RODM/</guid>
@@ -912,15 +938,6 @@
       <content:encoded>치매에 걸린 70대 아내를 4년간 간호하다 목 졸라 살해한 80대 남편에게 대법원이 징역 3년형을 확정했다.&lt;br&gt;&lt;br&gt;10일 법조계에 따르면, 대법원 1부(주심 노경필 대법관)는 살인 혐의로 기소된 정모씨에게 징역 3년을 선고한 원심 판결을 확정했다.&lt;br&gt;&lt;br&gt;정씨는 2023년 9월 경기도 수원시 집에서 아내의 목을 졸라 살해한 혐의로 재판에 넘겨졌다. 정씨는 2020년 알츠하이머병 진단을 받은 아내를 혼자 간호해왔다. 자녀가 있었지만 경제적으로 도움을 받지 못한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;2022년 3월 아내의 상태가 악화되자 정씨는 아내를 죽이기로 마음먹었다. 쥐약을 먹여 살해하려고 했으나 아내가 죽지 않자 결국 직접 손으로 목 졸라 숨지게 한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;정씨는 범행 직후 쥐약을 먹고 자살하려고 했으나 실패했다.&lt;br&gt;&lt;br&gt;정씨는 자녀들에게 ‘엄마 건강 악화로 나도 더 이상 살고 싶지 않다. 내가 자진해 엄마를 하늘나라로 모시고자 한다’ ‘자손에게 피해 없이 혼자 떠나야겠다’는 문자 메시지를 보낸 것으로 파악됐다.&lt;br&gt;&lt;br&gt;1심은 “자신과 60여 년을 함께 산 배우자를 살해한 건 중대한 범죄”라면서도 “고령으로 심신이 쇠약한 정씨가 피해자를 돌보다 한계에 도달했던 것으로 보이고, 자녀들도 정씨의 선처를 원하고 있다”며 징역 3년을 선고했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>경찰, 美 대사관 찾아가 무단 집회 벌인 대진연 회원 12명 연행</title>
-      <link>https://www.chosun.com/national/national_general/2025/01/10/LQB5SXERGNCQZEKIS3X3WU2IJM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/10/LQB5SXERGNCQZEKIS3X3WU2IJM/</guid>
-      <dc:creator>김보경 기자, 조은서 기자, 김지혜 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 10 Jan 2025 07:08:01 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/H4VI5SL2PZJ4PCUFM4PHSPSVHQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;10일 한국대학생진보연합(대진연) 대학생들이 서울 종로구 주한미국대사관 앞에서 기습시위를 하던 중 경찰에 연행되고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;미국대사관 앞에 찾아가 무단으로 집회를 벌인 대학생진보연합(대진연) 회원 12명이 경찰에 연행됐다.&lt;br&gt;&lt;br&gt;10일 서울 종로경찰서는 서울 종로구 주한미국대사관 앞에서 기습 시위를 벌인 한국대학생진보연합(대진연) 회원 12명을 집회 및 시위에 관련 법률(집시법)을 위반한 현행범으로 체포했다고 밝혔다.&lt;br&gt;&lt;br&gt;당시 대진연 회원들은 미국을 규탄하며 관계자 면담을 요청하는 시위를 벌였다. 미국대사관저 인근 100m는 집회 및 시위가 금지된 구역이다.&lt;br&gt;&lt;br&gt;대진연은 미국대사관 앞에서 집회를 벌이며 유튜브 생방송을 하기도 했다. 오후 1시 30분쯤 모인 이들은 “누가 한덕수를 지지하고 있습니까. 네, 미국입니다. 이걸 가만히 두고 볼 수 있겠습니까” “미국은 자기나라 국민들이나 생각하라” 외쳤다. 또 “미국대사관 관리자가 나올 때까지 이 자리에서 구호를 외치도록 하겠다”면서 “내란대행 한덕수 지지한 미국은 사죄하라”고 구호를 외쳤다.&lt;br&gt;&lt;br&gt;현장에 나타난 경찰이 미신고 집회라고 안내하며 만류하자 이들은 팔짱을 끼고 스크럼을 짠 뒤 길에 드러누웠다. 한 여성 회원은 경찰을 향해 “손대지 마세요. 여자 몸에 어디 손을 대. 손 떼세요”라고 연이어 외쳤다. 이들은 연행되는 순간까지도 생방송을 종료하지 않았다.&lt;br&gt;&lt;br&gt;경찰은 호송한 이들을 종로서, 중부서, 혜화서에서 나누어 조사할 예정이다. 경찰은 “구체적 혐의사실 및 수사 진행 상황은 답변할 수 없다”면서 “구속 여부를 결정할 방침”이라고 밝혔다.&lt;br&gt;&lt;br&gt;대진연 회원 17명은 지난 2019년 10월 18일 미국대사관저의 담장을 사다리를 타고 넘어 기습적으로 침입해 집회를 벌인 혐의로 지난해 9월 2일 징역형 집행유예 선고를 받기도 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>거점국립대 총장들 “2025학년도 등록금 동결”</title>
       <link>https://www.chosun.com/national/education/2025/01/10/PMHDSZBEDBC3HC5J6QPZCZALXA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/education/2025/01/10/PMHDSZBEDBC3HC5J6QPZCZALXA/</guid>
@@ -935,24 +952,6 @@
 &lt;저작권자 ⓒ 1980-2025 ㈜연합뉴스. 무단 전재 재배포 금지, AI 학습 및 활용 금지&gt;</media:description>
         <media:credit role="author" scheme="urn:ebu">류효림</media:credit>
       </media:content>
-    </item>
-    <item>
-      <title>지갑 속 ‘이 번호’ 찍힌 5000원권 있다면 위조 지폐… 작년 74장 발견</title>
-      <link>https://www.chosun.com/national/national_general/2025/01/10/PLJTCH2IQVDVXKMFO4QFU3CVAQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/10/PLJTCH2IQVDVXKMFO4QFU3CVAQ/</guid>
-      <dc:creator>박선민 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 10 Jan 2025 06:57:58 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5JJAIEDP5BHADJBKJO7V5NGPZQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;5000원권 뒷면. /한국은행&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;작년 총 193만원에 달하는 위조 지폐 143장이 발견됐다. 이 가운데 2013년 검거된 대량 위조범이 제작한 기번호 ’77246’ 위폐가 74장 발견돼 여전히 일부 유통된 것으로 파악됐다. 다만 연도별 적발 규모에 비하면 작년 발견된 위조 지폐 수는 역대 최저 수준으로 나타났다. &lt;br&gt;&lt;br&gt;9일 한국은행이 발간한 ’2024년 중 위조 지폐 발견 현황’에 따르면, 작년 화폐 취급 과정에서 발견했거나 금융기관 또는 개인이 발견해 한은에 신고한 위조 지폐는 총 143장으로 전년 197장 대비 54장(27.4%) 감소했다. &lt;br&gt;&lt;br&gt;이는 관련 통계를 발표하기 시작한 1998년 이후 가장 적은 수준이다. 위조 지폐 발견 수가 2023년 대면 거래 정상화로 6년 만에 늘었으나, 작년 들어서 다시 역대 최저 수준으로 떨어진 것이다. 한은은 이 같은 배경에 대해 “비현금 지급 수단 이용 활성화에 따른 대면 상거래 목적의 화폐 사용이 줄었고, 국민들의 위폐 식별 능력도 향상됐다”고 했다. &lt;br&gt;&lt;br&gt;권종별로는 5000원권이 75장으로 가장 많았다. 특히 ‘77246’의 위조 지폐가 74장으로 대부분을 차지했다. 기번호 ‘77246’ 위조 지폐는 2013년 6월 검거된 대량 위조범이 제작한 것으로, 이 위조범은 2005년 3월부터 검거 직전까지 약 8년 동안 5만여 장에 달하는 5000원권을 위조해 유통한 것으로 조사됐다. 티가 덜 나고 걸릴 위험성이 상대적으로 낮을 것으로 생각해 5000원권을 위조 대상으로 삼은 것으로 알려졌다. &lt;br&gt;&lt;br&gt;이외에도 1만원권이 40장, 5만원권이 23장, 1000원권이 5장 발견됐다. &lt;br&gt;&lt;br&gt;금융기관이 132장을 발견했고, 한은(7장), 개인(4장) 순이었다. 주로 금융기관의 화폐 취급 과정에서 위조 사실이 드러났다. &lt;br&gt;&lt;br&gt;아울러 한은은 지난달 30일 화폐 위조범 검거에 공로가 많은 경북 김천경찰서에 총재 포상을 하고 소정의 포상금을 수여했다고 밝혔다. 김천서는 작년 9월 탐문, 추적, 잠복 등의 수사 활동을 펼쳐 위조범을 검거했다고 한다. 이 위조범은 다른 사람으로부터 건네받은 위조 5만원권 252장을 주유소, 소매점 등에서 사용한 이후 피해자들로부터 거스름돈을 받은 혐의를 받는다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>축구협회장 선거운영위원 전원 사퇴... 선거 일정 또 취소</title>
-      <link>https://www.chosun.com/national/national_general/2025/01/10/F7HRJF3MNJCN3ODJJDY7B55III/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/10/F7HRJF3MNJCN3ODJJDY7B55III/</guid>
-      <dc:creator>김영준 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 10 Jan 2025 07:00:56 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Y5G3LGWLBRMN3MQMZNRTFCQRI4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 종로구 축구회관 전경. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;법원의 선거 금지 가처분 신청 인용으로 제동이 걸린 대한축구협회장 선거가 더욱 미궁에 빠졌다. 이달 23일로 새로 일정을 정한 것에 대해 신문선·허정무 후보 측이 반발하고 나서자, 선거를 주관하는 축구협회 선거운영위원회 위원들이 전원 사퇴했다. 이에 따라 향후 선거 일정이 전면 취소됐다.&lt;br&gt;&lt;br&gt;선거운영위는 10일 언론 공지를 통해 “선거운영위는 이번 선거와 관련된 모든 절차를 공정하고 객관적으로 수행했다. 법원도 선거운영위 선정 절차나 구성 자체를 문제 삼지는 않았다”며 “그럼에도 불구하고 선거 기간 동안 여러 차례 근거 없는 비난과 항의가 제기됐다”고 했다. &lt;br&gt;&lt;br&gt;그러면서 “특히 법원 결정 취지를 존중하면서 선거의 원활한 진행을 위해 후보자 측에 의견 수렴 노력을 했지만 악의적인 비방만 지속되고 있다”며 “이러한 상황에 대해 깊은 유감을 표하며, 위원회가 정상적으로 맡은 바 책임을 다하는 것이 불가능하다고 판단해 심사숙고 끝에 위원 전원의 사퇴를 결정했다”고 밝혔다. 이어 “이번 선거를 계기로 향후 축구계에 보다 성숙한 선거 문화가 정착되기를 바란다”고 했다.&lt;br&gt;&lt;br&gt;축구협회 정관에는 선거운영위는 협회와 관계 없는 외부 위원이 전체 3분의 2 이상이어야 한다는 규정이 있다. 하지만 이번 선거에서 위원 명단을 공개하지 않아 위원회가 규정에 맞게 구성됐는지 확인할 수 없다는 지적이 일었고, 허정무 후보가 낸 선거 금지 가처분 신청에서 법원도 “위원회가 규정에 부합하게 구성된 것인지 확인할 수 없었다”고 지적했다. 축구협회는 당초 예정됐던 선거일인 8일 하루 전인 지난 7일에서야 법원에 명단을 제출했다. 위원은 언론인 1명, 교수 3명, 변호사 4명으로 구성됐는데, 건설·부동산 분야 전문 변호사들이 포함돼 있어 HDC현대산업개발 회장인 정몽규 후보와 가까운 인사들이 선거운영위에 포진됐다는 주장도 제기됐다.&lt;br&gt;&lt;br&gt;신문선 후보는 이날 위원 사퇴 공지에 앞서 기자회견을 열고 “선거운영위가 자격정지 이상 중징계 요청을 받은 정몽규 회장이 후보 자격을 잃기 전에 선거를 서두르려 한다”고 비판했고, 허정무 후보도 “선거운영위가 선거일을 결정할 수 있다는 규정은 없다”며 반발했다.&lt;br&gt;&lt;br&gt;선거운영위원회가 해체됨에 따라 23일로 다시 잡혔던 선거 일정도 취소됐다. 축구협회는 “선거운영위 재구성 문제를 포함해 추후 회장 선거 진행 관련 사항을 논의해 다음주 중 알리겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>검찰, ‘비상계엄 사전 모의’ 노상원 구속 기소</title>
