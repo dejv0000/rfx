@@ -13,6 +13,64 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>충북 보은서 화재...공장 4곳 태우고 4시간 40여 분만에 초진</title>
+      <link>https://www.chosun.com/national/incident/2025/01/12/BHA32NJAFJFAJDNH62QGGYJNBI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/01/12/BHA32NJAFJFAJDNH62QGGYJNBI/</guid>
+      <dc:creator>이승규 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 12 Jan 2025 13:56:39 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ISUYJZXB6Z63S7JBAYTQEXAWGQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;12일 오후 3시 47분쯤 충북 보은군 삼승면 산업단지에서 난 화재가 4시간 40여분 만에 큰불이 잡혔다./보은소방서&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;충북 보은군의 필름 제조 공장에서 화재가 발생해 인근 공장 등 4곳을 태우고 4시간 40여분만에 큰 불이 잡혔다.&lt;br&gt;&lt;br&gt;12일 충북소방본부에 따르면 이날 오후 3시 45분쯤 보은군 삼승면의 한 난방 필름 제조 공장에서 불이 났다. 불은 인근에 있는 농업용 비료 생산 공장 등 3개 공장에도 옮겨 붙었다.&lt;br&gt;&lt;br&gt;소방당국은 관할 소방서 인력과 장비가 모두 출동하는 대응 1단계를 발령해 소방 인력 159명과 장비 67대를 투입해 오후 8시 30분쯤 큰 불을 잡았다.&lt;br&gt;&lt;br&gt;이 불로 난방 필름 제조 공장이 모두 불에 탔고, 나머지 공장도 일부 화재 피해를 입었으나 인명 피해는 없었다. 난방 필름 제조 공장이 불에 약한 샌드위치 패널로 지어졌고, 보은군에 초속 7m에 이르는 강풍이 불면서 화재 진압에 시간이 걸렸다.&lt;br&gt;&lt;br&gt;경찰과 소방당국은 잔불이 모두 꺼지는대로 정확한 화재 원인을 조사할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>김종민, 11세 연하 비연예인과 4월 결혼... 1부 사회는 유재석</title>
+      <link>https://www.chosun.com/national/people/2025/01/12/RUTUKUYWHRE55HBSUZ2JARRYZU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/01/12/RUTUKUYWHRE55HBSUZ2JARRYZU/</guid>
+      <dc:creator>정아임 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 12 Jan 2025 13:51:58 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QQJUUFMORRPTZBEZVBVXKW65TM.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;그룹 코요태 멤버 김종민/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그룹 코요태 멤버 김종민(46)이 11세 연하 여자친구와 오는 4월 결혼한다고 밝혔다.&lt;br&gt;&lt;br&gt;12일 방송된 KBS 2TV ‘1박2일 시즌4′(1박2일)에서 김종민은 “바로 그날이 오늘이 될 줄 몰랐다. 저 김종민 장가갑니다”라며 공식적으로 결혼 소식을 알렸다.&lt;br&gt;&lt;br&gt;그는 멤버들과 2025년 새해 인사를 전한 후 “이날인가 고민을 많이 했다. 믿기지 않는다. ‘이렇게 흘러가는 건가’ 이런 생각도 든다. 오늘이 그날이 될 줄 몰랐다”며 “정확하게 날짜를 발표하겠다. 4월 20일이다. 시간대는 오후 6시”라고 말했다.&lt;br&gt;&lt;br&gt;이 소식을 들은 멤버 조세호(43)는 “김종민씨가 결혼에 대한 확신을 갖고, 저와 굉장히 많은 이야기를 나눴다. 제 결혼 때 담당했던 웨딩플래너를 소개해 줬다”고 부연했다.&lt;br&gt;&lt;br&gt;특히 김종민은 사회자가 누구냐는 질문에 “1부 2부 나뉘어 있다. 1부는 유재석씨다”라고 밝혔다. 이어 “2부 사회는 문세윤씨와 조세호씨”라며 “너무나 감사하게도 해주신다고 했다”고 덧붙였다.&lt;br&gt;&lt;br&gt;앞서 김종민은 11세 연하인 비연예인 여자친구와 열애 중이라며 “(여자친구는) 사업을 하고 있다. 대표님이시다”라고 밝힌 바 있다.&lt;br&gt;&lt;br&gt;김종민은 지난 2000년 코요태의 객원 멤버로 합류한 후 2001년부터 코요태의 정규 멤버가 돼 활동을 이어오고 있다. 김종민은 가수 활동을 겸하며 KBS 2TV 예능 프로그램 ‘1박 2일’ 등 다양한 예능 프로그램에서 활약하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“月 450, 후회 안 해”…대학 중퇴 후 버스 기사된 20대 청년</title>
+      <link>https://www.chosun.com/national/national_general/2025/01/12/WOVE2XH5SFDSHF5XY5JPNEZHBA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/12/WOVE2XH5SFDSHF5XY5JPNEZHBA/</guid>
+      <dc:creator>정아임 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 12 Jan 2025 12:39:33 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DK77URL7CFCY5HPA7QI3IZWZEA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;인천의 한 시내버스 기사 서기원씨./유튜브 채널 '탐구생활 - 돈이 되는 삶의 이야기'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;28살 나이에 시내버스 기사가 된 한 청년의 사연이 뒤늦게 알려져 눈길을 끌고 있다.&lt;br&gt;&lt;br&gt;최근 여러 온라인 커뮤니티에는 인천의 시내버스 기사 서기원씨의 인터뷰 영상이 뒤늦게 확산하고 있다. 이 영상은 지난 9월 유튜브 채널 ‘탐구생활 - 돈이 되는 삶의 이야기’에 올라왔다. &lt;br&gt;&lt;br&gt;A씨는 20대 초반 군 복무를 마치고 버스 기사 일을 시작했다. 대학교를 중퇴한 이유는 비싼 등록금을 내면서까지 대학교에 다닐 필요가 없다고 느꼈기 때문이다.&lt;br&gt;&lt;br&gt;그는 “원래는 별다른 꿈이 없었다. 아르바이트만 전전하는 삶이었는데 아버지가 딱히 뭘 해야 할지 모르겠다는 제게 ‘버스 기사를 해보라’고 권유하셨다. 태권도 사범님이었던 아버지 지인 중에 현직 버스 기사분이 있었다”고 했다.&lt;br&gt;&lt;br&gt;서씨는 대형면허와 버스운전종사자 자격증을 취득했다. 이후 경기도 용인 에버랜드 동물원에서 1년간 셔틀버스를 몰며 경험을 쌓다가 2년 전쯤 시내버스 기사로 취업했다.&lt;br&gt;&lt;br&gt;서씨는 “처음에는 저도 버스 운전에 대해 좋은 시선이 아니었다. 버스 기사라고 하면 운전 난폭하게 하고, 성격 나쁘고, 할 게 없는 사람들이 한다고 생각했다”며 “그런데 알아보니 그건 다 옛날 말이었다. 지금은 성격 좋은 기사님도 많고 월급도 많이 주더라”고 했다.&lt;br&gt;&lt;br&gt;그는 버스 기사로 근무하면서 받는 월급도 공개했다. 서씨는 “여긴 처음 들어오고 6개월, 1년, 2년 단위로 월급이 올라간다. 세후 기준으로 보통 처음엔 270~275만원을 받는다. 6개월 차엔 300만~310만원을 받는다”고 밝혔다.&lt;br&gt;&lt;br&gt;이어 “2년부터가 진짜인데, 2년이 딱 넘어가면 400만원은 무조건 받는다. 그다음 추석이나 설날 등 공휴일에 일하면 특근수당이 붙어 430만~450만원까지 받을 수 있다”면서도 “2년을 넘어가면 오르긴 오르는데 매년 5만~6만원 수준”이라고 설명했다.&lt;br&gt;&lt;br&gt;서씨는 자신의 직업에 대한 주변 반응에 대해 “어른들은 말렸다. 왜 그 젊은 나이에 버스 기사를 하냐, 많은 도전을 하고 나이가 많아지면 그때 해도 늦지 않는다고 했다”며 “그런데 저는 버스 기사를 하면서 단 한 번도 이 길을 선택한 데 대해 후회한 적 없다”고 말했다.&lt;br&gt;&lt;br&gt;그러면서 “인생의 갈림길에 설 때마다 제 등대가 돼주신 분이 아버지인데, 이 길도 아버지가 알려주셨고, 또 제 취미와 특기가 이런 것에 적합하다 보니 매 순간 이 일에 자부심을 느낀다”며 “이 큰 차를 제가 핸들을 잡고 변속하면서, 액셀을 밟으면서 시민의 발이 되어준다는 자부심으로 일한다”고 전했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>라스베이거스 첨단 CES에 ‘부산 어묵’이 왜 나와</title>
+      <link>https://www.chosun.com/national/national_general/2025/01/12/JWQGSOSKINA7VPMT7PRZJLJXUY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/12/JWQGSOSKINA7VPMT7PRZJLJXUY/</guid>
+      <dc:creator>라스베이거스=박주영 기자, 김주영 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 12 Jan 2025 11:49:16 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NTVYGJSNYFEWVITBN4D45SEBC4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 9일(현지 시각) 미국 라스베이거스에서 열린 'CES 2025' 박람회에 차려진 '삼진어묵' 부스에서 외국인 참관객들이 삼진어묵이 자체 개발한 생선살로 만든 단백질 파우더 '블루 미트'로 만든 핫바, 피자 등을 맛보고 있다. /박주영 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 9일(현지 시각) 미국 라스베이거스 ‘CES 2025′ 현장. 세계 최대 IT(정보 기술)·가전 박람회장에 부산 어묵집이 부스를 차렸다. ‘삼진어묵 SAMJIN AMOOK’ 간판 아래로 ‘셀카봉’을 든 외국인 유튜버 등 10여 명이 몰렸다. 시식용으로 내놓은 어묵 피자를 맛보고는 “어메이징(놀라워)” “딜리셔스(맛있어)”를 연달아 외쳤다.&lt;br&gt;&lt;br&gt;삼진어묵이 CES에 부스를 낸 건 이번이 처음이다. 박용준 대표는 “부산 어묵의 ‘푸드 테크놀로지(음식 기술)’를 세계에 알리기 위해 참가했다”고 말했다. 그가 말하는 푸드 테크놀로지는 이날 해외시장에 최초로 공개한 ‘블루 미트 파우더’였다.&lt;br&gt;&lt;br&gt;바다의 고기 가루라는 뜻으로 생선살을 밀가루처럼 곱게 갈아 10㎏짜리 포대에 담았다. 박 대표는 “물을 부어 반죽을 만든 뒤 튀기면 부산에서 먹을 수 있는 어묵이 된다”며 “어묵 빵이나 어묵 피자, 면, 수제비도 만들 수 있다”고 했다.&lt;br&gt;&lt;br&gt;밀가루처럼 만들어 보관하기 편하고 오래 두고 먹을 수 있다. 부산을 찾은 외국인 관광객들이 집에서도 어묵 요리를 만들어 먹고 싶다고 해 개발했다고 한다.&lt;br&gt;&lt;br&gt;박 대표는 “CES에서 만난 외국인 바이어들이 ‘생선을 먹는 혁신적인 방식’이라고 놀라워하더라”며 “대량 생산해 수출할 계획”이라고 했다.&lt;br&gt;&lt;br&gt;삼진어묵은 2013년 프랜차이즈 제과점 같은 어묵 매장을 열고 고추튀김어묵, 통새우말이어묵 등 어묵 제품을 잇따라 출시해왔다.&lt;br&gt;&lt;br&gt;이번 CES에는 기업뿐 아니라 지방자치단체들도 홍보관을 내고 지역 기업을 소개했다. 서울, 부산, 인천, 대구, 경기, 경북, 충남 등 전국 17개 광역 단체가 전부 참가해 각축전을 벌였다.&lt;br&gt;&lt;br&gt;부산은 삼진어묵 등 지역 기업 24곳이 부스를 열었다. 이 중 6곳이 이번 CES에서 ‘혁신상’을 받았다. 접을 수 있는 휴대용 기타를 만든 ‘짐’과 해상 내비게이션을 개발한 ‘맵시’ 등이다. 부산시는 이 기업들이 이번 CES에서 1200만달러(약 177억원) 규모의 수출 계약을 체결했다고 12일 밝혔다.&lt;br&gt;&lt;br&gt;CES 부산관을 찾은 박형준 시장은 “부산 기업들이 독창적인 기술을 선보여 흐뭇하다”며 “혁신 기업들이 기술을 상용화하고 수출까지 할 수 있게 계속 지원하겠다”고 했다. 박 시장은 워싱턴주를 찾아 마이크로소프트(MS)와 업무협약도 체결했다. 부산에 데이터센터 아카데미를 설립하는 내용이다.&lt;br&gt;&lt;br&gt;서울시는 강남구, 관악구, 금천구, 서울경제진흥원(SBA) 등과 함께 통합관을 열었다. 여기서 104개 기업을 홍보했다. 서울경제진흥원은 서울 지역 스타트업들이 해외 매체 앞에서 자기 기술을 소개할 수 있는 자리인 ‘서울이노베이션 포럼’도 개최했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/GLPESGAIGFFHFN7TYNHDXSRXAA.jpg?width=1000&amp;height=1334&amp;auth=cd65fa5ed4963e3999d24e4df17d1c68e165f41cced9d2578db82df78635c731&amp;smart=true" type="image/jpeg" height="1334" width="1000">
+        <media:description type="plain">지난 8일(현지 시각) 미국 라스베이거스에서 열린 'CES 2025' 박람회에 차려진 '삼진어묵' 부스에서 외국인 참관객들이 삼진어묵이 자체 개발한 생선살로 만든 단백질 파우더 '블루 미트'로 만든 핫바, 피자 등을 맛보고 있다. /삼진어묵</media:description>
+        <media:credit role="author" scheme="urn:ebu"/>
+      </media:content>
+    </item>
+    <item>
+      <title>용인 플라스틱 제조공장 화재 3시간 만에 진화...인명 피해 없어</title>
+      <link>https://www.chosun.com/national/incident/2025/01/12/L5F45GIYUJARPEX7VWG6H52TMQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/01/12/L5F45GIYUJARPEX7VWG6H52TMQ/</guid>
+      <dc:creator>이승규 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 12 Jan 2025 12:22:26 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CJVF2W7XX3AHGGD63HZUNLPNCU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;용인 플라스틱 제조 공장 화재/경기도소방재난본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 용인시의 한 플라스틱 제조공장에서 발생한 불이 3시간여 만에 꺼졌다.&lt;br&gt;&lt;br&gt;12일 경기도소방재난본부 등에 따르면 이날 오후 3시 47분 용인시 처인구의 플라스틱 제품 제조공장에서 발생한 화재가 오후 7시 8분쯤 완전히 진화됐다. 이 불로 3층 규모로 된 공장 건물 4개동(연면적 2698㎡) 중 1개동이 완전히 불에 탔다. 공장이 가동되지 않아 화재 당시 근로자는 없었고, 외부 기숙사에 있던 20여 명도 대피해 별다른 인명 피해는 없었다.&lt;br&gt;&lt;br&gt;소방당국은 “공장에서 불이 났다”는 신고를 접수한 뒤 확대 가능성이 있다고 보고 관할 소방서 인력이 전부 출동하는 대응 1단계를 발령해 소방 인력 120명과 장비 40대를 동원했다. 용인시에서도 주민들에게 재난 문자를 보냈다.&lt;br&gt;&lt;br&gt;경찰과 소방당국은 정확한 화재 원인을 조사할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>사찰 불전함 속에 청테이프 넣어 현금 훔친 40대 실형</title>
+      <link>https://www.chosun.com/national/incident/2025/01/12/7RX5EQNCQNBV3O5B62IHOETQJQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/01/12/7RX5EQNCQNBV3O5B62IHOETQJQ/</guid>
+      <dc:creator>이승규 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 12 Jan 2025 10:45:52 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XUP4T2JKLN452C5WRPIQP3KSEU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;의정부지법 남양주지원/뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;사찰의 불전함에 들어있는 현금 수백만원을 훔친 40대 남성에게 실형이 선고됐다.&lt;br&gt;&lt;br&gt;의정부지법 남양주지원 형사1단독 최치봉 판사는 절도 혐의로 기소된 A(44)씨에게 징역 2년 2개월을 선고했다고 12일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난해 1월부터 11월까지 경기 구리시의 한 사찰 법당에서 불전함 틈에 청테이프를 길게 늘어뜨렸다 회수하는 방식으로 585만원 상당의 금품을 훔친 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;A씨는 절도죄로 징역 2년형을 받고 출소한 지 한달 여 만에 또다시 같은 범죄를 저지른 것으로 조사됐다. 2001년, 2005년, 2019년에도 A씨는 절도 등 혐의로 실형을 선고받았다.&lt;br&gt;&lt;br&gt;최 판사는 “A씨가 배고픔과 경제적 어려움에 처해 범행에 이른 점이 있으나 동종 범죄로 여러 번 처벌 받았음에도 누범 기간 중 범행을 저질렀고, 피해가 대부분 회복되지 않았다”면서도 “일부 피해자들이 처벌을 원치 않는 점 등을 고려했다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>尹측, 공수처에 “불법 체포영장 집착 말고 기소하라” 재요구</title>
       <link>https://www.chosun.com/national/court_law/2025/01/12/4Y4FL6YALBEADLLIQMZGFCDNCY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/01/12/4Y4FL6YALBEADLLIQMZGFCDNCY/</guid>
@@ -884,42 +942,6 @@
       </media:content>
     </item>
     <item>
-      <title>“임시공휴일 27일 아닌 31일로 해야”… 성동구청장 제안에 네티즌 와글와글</title>
-      <link>https://www.chosun.com/national/national_general/2025/01/10/CJ332R6OJFAVHNDBAASNJN4N7U/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/10/CJ332R6OJFAVHNDBAASNJN4N7U/</guid>
-      <dc:creator>박선민 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 10 Jan 2025 08:45:36 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HHJ5K652PBO3THV3J3FOSIVZKI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;10일 서울 동대문구 청량리시장에서 시민들이 장을 보고 있다. 정부는 올해 설 명절을 맞아 전통시장에서 사용하는 온누리상품권 환급 규모를 270억원까지 늘려 이날부터 한 달간 디지털 온누리상품권 할인율을 10%에서 15%로 상향한다. 이 기간 디지털 결제액의 15%를 1인당 최대 8만원까지 디지털 상품권으로 환급해준다. /연합뉴스 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;정부가 설 연휴 직전 월요일인 27일을 임시 공휴일로 지정하는 방안을 검토하기로 한 것과 관련, 정원오 성동구청장이 “(금요일인) 31일이 더욱 효과적”이라는 의견을 내놨다. 이에 온라인상에서는 임시공휴일을 어느 날로 하는 게 더 좋은지를 두고 갑론을박이 벌어졌다. &lt;br&gt;&lt;br&gt;정 구청장은 정부와 여당이 지난 8일 고위 당정 협의회에서 27일을 임시 공휴일로 지정하기로 발표한 직후 페이스북을 통해 “정부가 발표한 27일보다는 31일이 임시공휴일로 지정되는 게 더욱 효과적”이라는 내용의 글을 올렸다. &lt;br&gt;&lt;br&gt;정 구청장은 “명절 일정을 마치고 주말까지 휴식을 취하며 가족끼리 외식을 하거나 짧은 외출을 다녀올 가능성도 그만큼 커질 것이기 때문에 소비를 촉진해 내수를 진작하겠다는 정부의 취지에도 더욱 맞아떨어질 것”이라고 했다. 또 “이에 더해 많은 기혼 여성에게는 27일 임시공휴일 지정이 오히려 명절 가사 노동 부담 가중으로 이어질 수 있다”며 “31일에 몰려 있을 업무를 처리해야 할 사무직 노동자들의 부담도 커질 수 있다는 점을 함께 고려해야 한다”고 했다. &lt;br&gt;&lt;br&gt;정 구청장은 “경기 부양과 내수 진작을 위해서라도, 더 많은 국민이 일상으로 돌아올 재충전의 시간을 온전히 누리기 위해서라도, 임시공휴일을 지정한다면 아무래도 27일보다는 31일”이라며 글을 마쳤다. &lt;br&gt;&lt;br&gt;정 구청장의 제안이 알려지자 온라인에서는 월요일인 27일과 금요일인 31일 중 어느 날을 임시공휴일로 지정하는 게 더 나았는지를 두고 갑론을박이 벌어졌다. &lt;br&gt;&lt;br&gt;31일 임시공휴일에 찬성하는 네티즌들은 “연휴가 뒤에 연결되는 게 심리적으로 편안하다” “주부로서 설 끝나고 하루 더 쉬는 게 마음 편하기 때문에 31일 쉬는 게 더 좋다” “지방에서 올라와서 쉴 시간이 필요하다. 27일 임시공휴일은 달갑지 않다” 등 의견을 내놨다. &lt;br&gt;&lt;br&gt;반대하는 네티즌들은 “31일 쉰다고 해서 회사에서 해야 하는 업무가 사라지는 게 아니다. 27일이 더 낫다” “한 달 벌어 직원들 월급 주는 회사들은 31일에 마감해야 한다. 27일이 더 합리적” “31일을 임시공휴일로 지정하면 설 끝나고 다들 해외여행을 가 되레 내수 경기 진작 목적에 맞지 않을 것” “월요일 출근이 심리적으로 더 힘들기 때문에 27일 임시공휴일이 더 좋다”고 했다. &lt;br&gt;&lt;br&gt;이외에도 “조삼모사 아니냐” “27일이나 31일이나 어차피 하루 연차 쓰면 일주일 내내 쉴 수 있다” “어느 날 쉬는 게 무슨 상관이냐. 하루 임시공휴일이 더 생겼다는 것만으로도 좋다” 등 임시공휴일 날짜는 크게 중요하지 않다는 네티즌도 있었다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>시위대, 경호처장 경찰 출석에 한남동 재집결...참가자간 물리적 충돌도</title>
-      <link>https://www.chosun.com/national/national_general/2025/01/10/MPP4T4UHLZARHODRA4R7KJIISI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/10/MPP4T4UHLZARHODRA4R7KJIISI/</guid>
-      <dc:creator>김보경 기자, 김병권 기자, 김도균 기자, 한영원 기자, 서일원 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 10 Jan 2025 08:32:22 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UFTH66OWLVM63NSJ6563RLRISQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원이 윤석열 대통령에 대한 체포영장을 재발부해 공조수사본부 차원의 영장 2차 집행 시도가 초읽기에 들어간 10일 오후 서울 용산구 한남동 대통령 관저 인근에서 보수단체가 주최한 탄핵 반대 집회가 열리고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;박종준 대통령경호처장이 10일 오전 경찰에 출석했다는 소식이 알려지자 서울 용산구 한남동 일대엔 다시 시위대가 집결했다. 친윤 시위대가 모인 루터 교회 앞에는 ‘대통령 경호처를 믿고 지지합니다’ ‘박종준 처장은 대한민국의 자랑입니다!’ 등 경호처를 응원하는 문구가 적힌 화환 15개가 늘어서 있었다. 친윤 집회에 참가한 70대 여성 김모씨는 “대통령 지키는 게 대통령 경호처 아니냐”며 “경호처가 따라야 할 최우선 명령이 대통령 명령인데 지금 경호처장을 데려다가 조사하는 건 뭐하는 짓인지 모르겠다” 고 했다.&lt;br&gt;&lt;br&gt;볼보빌딩 앞에 자리 잡은 반윤 시위대도 “박종준 경호처장 구속” “내란수괴 윤석열 체포를 가로막은 박종준도 내란 공범”을 외치며 친윤 시위대와 대치했다. 반윤 집회 참가자 신모(56·인천 연수구)씨는 “박종준 경호처장이 경찰의 3차 출석 요구만에 출석한 건 시간 끌기에 불과하다”며 “경호처장 뿐만 아니라 정당한 체포영장 집행을 막아선 경호인력 모두 감옥에 가야 한다”고 주장했다.&lt;br&gt;&lt;br&gt;양측 인원이 늘어나고 집회가 과열되면서 양측이 충돌하기도 했다. 이날 오후 2시 50분쯤 반윤 집회 참가자 한 명이 눈 부분에 소주병을 붙인 윤 대통령 가면을 쓰고 수갑 모양 장구류를 양손에 낀 채 인도에 드러눕자 ‘윤석열 대통령과 함께 싸우겠습니다’라는 피켓을 들고 지나가던 60대 남성이 그의 가면을 벗기고 주먹으로 얼굴을 한 대 가격하는 일이 벌어졌다. 그러자 반윤 시위대 5명이 “체포 안 하고 뭐 하냐”며 달려들고, 길을 지나던 친윤 집회 참가자 4명도 합세하면서 일시적으로 소요사태가 발생했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>법원 “‘마포구 소각장’ 입지 결정 취소해야”…서울시 “항소하겠다”</title>
-      <link>https://www.chosun.com/national/national_general/2025/01/10/L2K5HIV6CJG4RNDGGHAY3MTSCE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/10/L2K5HIV6CJG4RNDGGHAY3MTSCE/</guid>
-      <dc:creator>김영우 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 10 Jan 2025 08:17:16 +0000</pubDate>
-      <content:encoded>서울 마포구에 신규 쓰레기 소각장을 짓기로 한 서울시 결정을 취소해야 한다는 법원 판단이 나왔다. 서울시는 항소 의사를 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CT5HJSJDFBFKLE7YVJWZ7D4AJM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 2022년 12월 서울 마포구 상암동 월드컵경기장에서 마포소각장 주민설명회가 열리면서 상암동 주민들이 반대 집회를 갖고 있다. /장련성 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울행정법원 행정11부(재판장 김준영)는 마포구민 1850명이 서울시장을 상대로 제기한 광역자원회수시설 입지결정고시 처분 취소 소송에서 10일 원고 승소 판결을 내렸다.&lt;br&gt;&lt;br&gt;앞서 서울시는 지난 2023년 8월 신규 생활 폐기물 소각장 건립지로 마포구 상암동을 최종 선정했다. 이러한 서울시의 결정에 같은 해 11월 마포구 주민들은 “주민 동의 없이 서울시가 소각장 건립을 밀어붙였다”며 고시 취소를 요구하는 소송을 냈다.&lt;br&gt;&lt;br&gt;10일 법원의 결정에 대해 서울시는 항소하겠다는 입장을 발표했다. 서울시 관계자는 “15일쯤 판결문을 받는 대로 내용을 분석해 2월 초 항소장을 제출하겠다”고 말했다. 서울시는 항소와 연계해 소각장 건립 관련 향후 대책도 추가로 마련한다는 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘내란 주요 임무’ 조지호·김봉식 경찰 수뇌부, 2월 6일 재판 시작</title>
-      <link>https://www.chosun.com/national/court_law/2025/01/10/6HXTDC24RVFFBBGJ32KVS2RODM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/01/10/6HXTDC24RVFFBBGJ32KVS2RODM/</guid>
-      <dc:creator>박혜연 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 10 Jan 2025 08:08:44 +0000</pubDate>
-      <content:encoded>비상계엄 당시 국회 진입을 막는 등 내란 주요임무 종사 등 혐의로 기소된 전현직 경찰 수뇌부의 재판이 오는 2월 6일 본격 시작된다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/I237PSFZQLOHUW72K655SDHXGY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김봉식 전 서울경찰청장(왼쪽)과 조지호 경찰청장 /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;10일 법조계에 따르면 서울중앙지법 형사25부(재판장 지귀연)는 내달 6일 오전 10시 조지호 경찰청장과 김봉식 전 서울경찰청장의 첫 공판 준비 기일을 연다.&lt;br&gt;&lt;br&gt;준비 기일은 정식 재판에 앞서 범죄 혐의에 관한 피고인의 입장을 확인하고 증거 조사 계획 등을 잡는 절차로, 피고인이 법정에 출석할 의무는 없다.&lt;br&gt;&lt;br&gt;두 사람은 비상계엄 당시 경찰을 동원해 국회를 봉쇄하고, 이른바 ‘체포조’ 운영에 관여한 혐의 등으로 지난 8일 구속 기소됐다. 또 중앙선거관리위원회 과천청사 등에 경찰을 보내 청사를 점거하고, 서버 반출을 시도한 혐의도 받는다.&lt;br&gt;&lt;br&gt;검찰은 이들의 행위가 국헌 문란을 목적으로 폭동을 일으키고, 직무상 권한을 남용해 의무 없는 일을 하게 한 것에 해당한다고 보고 있다.&lt;br&gt;&lt;br&gt;앞서 이 재판부는 지난달 27일엔 김용현 전 국방부 장관 사건도 접수했다. 비상계엄 사태 관련 군경(軍警) 주요 인사들이 같은 재판부에서 재판을 받게 된 것이다. 김 전 국방부 장관의 첫 공판 준비 기일은 오는 16일 오전 10시 이 재판부에서 열린다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>전공의 복귀땐 수련·입영 특례...의대 정원 제로 베이스에서 논의</title>
       <link>https://www.chosun.com/national/welfare-medical/2025/01/10/4S5LO26PTJFJNDB32OH4WQVVDM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/01/10/4S5LO26PTJFJNDB32OH4WQVVDM/</guid>
@@ -927,31 +949,6 @@
       <description/>
       <pubDate>Fri, 10 Jan 2025 07:31:20 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4FEJIJKMABI3BHNKF6VKL5ZM3E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이주호 사회부총리 겸 교육부 장관이 10일 오전 서울 종로구 정부서울청사 별관에서 2025년도 교육부 주요업무 추진계획 사전 브리핑을 하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정부가 수련 병원에 복귀하는 전공의들에게 수련·입영 특례를 적용키로 했다.&lt;br&gt;&lt;br&gt;이주호 사회부총리 겸 교육부 장관은 10일 오후 정부서울청사에서 열린 ‘부총리-보건복지부 장관 합동 브리핑’에서 이 같이 밝혔다. 주제는 ‘의료계와 의학 교육계에 드리는 말씀’이었다. 이날 브리핑에는 이 부총리와 조규홍 보건복지부 장관 등이 참석했다.&lt;br&gt;&lt;br&gt;이 부총리는 ‘12·3 비상 계엄 사태’ 당시 계엄사령부 포고령에 들어간 ‘전공의 처단’ 문구에 대해서 “전공의를 비롯한 의료계에 대한 비상 계엄 포고령 내용은 정부의 방침과는 전혀 다르다”며 “포고령 내용으로 상처를 받은 전공의 분들과 의료진 여러분께 진심 어린 유감과 위로의 말씀을 드린다”고 했다.&lt;br&gt;&lt;br&gt;지난달 3일 비상 계엄 선포 당시 계엄사령부 포고령에는 “전공의를 비롯하여 파업 중이거나 의료 현장을 이탈한 모든 의료인은 48시간 내에 본업에 복귀하고, 위반 시 계엄법에 따라 처단한다”는 내용이 담긴 바 있다.&lt;br&gt;&lt;br&gt;최상목 대통령 권한대행 부총리 겸 기획재정부 장관은 앞서 이날 정부서울청사에서 ‘주요 현안 해법 회의’를 주재하면서 “사회부총리를 중심으로 보건복지부와 병무청 등 관계 부처는 전공의 선생님들과 의대생들이 복귀할 수 있도록 관련 조치를 적극 검토해주시기 바란다”고 밝혔다.&lt;br&gt;&lt;br&gt;정부는 사직 전공의가 복귀했을 때 수련 특례와 입영 특례를 적용키로 했다. 이 부총리는 “현행 전공의 수련 규정은 사직 후 1년 내 복귀를 제한하고 있으나, 전공의가 사직 전 수련한 병원과 전문 과목으로 복귀하는 경우에는 수련 특례 조치를 통해 이러한 규정을 적용하지 않도록 하겠다”고 했다.&lt;br&gt;&lt;br&gt;현행 전공의 수련 규정에 따르면, 수련 병원에서 사직한 전공의가 복귀할 경우 원래 수련 받던 진료 과목과 연차에는 1년 동안 응시할 수 없다. 이러한 수련 특례는 지난해 하반기 전공의 모집 시 정부가 이미 한 차례 내밀었던 카드다.&lt;br&gt;&lt;br&gt;이 부총리는 “사직한 의무사관 후보생이 수련에 복귀하면, 수련을 마친 후 의무 장교 등으로 입영할 수 있도록 최대한 조치할 예정”이라고도 했다. 전공의는 의무사관 후보생이기 때문에 일반병으로는 병역을 이행할 수 없고 군의관이나 공중보건의사(공보의)로 입영해야 한다.&lt;br&gt;&lt;br&gt;지난해 2월 정부의 의료 정책에 반발해 사직한 전공의들 중 군 미필 전공의 3000여명이 올해 초 한꺼번에 입대를 신청할 것에 대비해 정부는 의무 장교 선발 대상자 중 일부를 ‘입영 대기자’로 분류해 관리하는 방안을 추진 중이었다. 복귀 시 입영 특례를 적용해 ‘입영 불확실성’을 해소해주고 일부 사직 전공의들의 복귀를 유도하겠다는 것이다.&lt;br&gt;&lt;br&gt;의대 교육 문제에 대해서는 “2025년에는 의대 교육 지원을 위한 교육부 전담 조직을 신설했고 교원 증원과 시설·기자재 확충, 의대 교육 혁신 지원 등 의학 교육 여건 개선에 총 6062억원을 투자한다”며 “현재 각 대학에서 면접 등 교원 채용 절차를 진행 중이며 올해 2월까지 절차가 마무리될 예정”이라고 했다.&lt;br&gt;&lt;br&gt;이 부총리는 “금년에는 2024, 2025학년도 신입생 7500여명이 동시에 수업을 받는 어려운 여건이지만, 정부는 학생이 복귀만 한다면 대학과 협력해 대학 전체 자원을 활용하고 행정·재정적으로 지원해 정상적으로 수업을 받을 수 있도록 적극 지원하겠다”고 했다.&lt;br&gt;&lt;br&gt;그러면서 “2026학년도 의대 정원 확대 규모도 의료 인력 수급 전망과 함께 대다수의 학생들이 2024년에 수업에 참여하지 못한 점, 각 학교 현장의 교육 여건까지 감안하여 제로 베이스(원점)에서 유연하게 협의할 수 있을 것”이라고 말했다.&lt;br&gt;&lt;br&gt;수련 병원을 떠난 사직 전공의들을 향해서 이 부총리는 “수련 현장을 떠나 고민하고 이는 여러분들에게 안타깝고 미안한 마음”이라며 “여러분들과 함께 머리를 맞대고 수련 환경 개선을 위한 협의의 장도 만들어 나가고 싶다”고 했다.&lt;br&gt;&lt;br&gt;의대생들에게는 “교육부 장관으로서 미래를 향한 꿈과 열정으로 가득해야 할 중요한 시기에 학업을 멈추고 불확실한 상황 속에서 고민하고 계실 여러분을 생각하면 마음이 무겁다”며 “이제는 학교로 돌아와 처음 입학했을 때 마음가짐 그대로 학업에 매진해 국민의 생명을 지키는 훌륭한 의료인으로 성장해 나갈 수 있기를 바란다”고 했다.&lt;br&gt;&lt;br&gt;한편 사직 전공의 모집은 오는 14일 모집 공고를 시작으로 올해 1~2월 중 진행될 예정이다. 모집 규모는 지난해 임용 대상자 1만3531명 중 사직자인 1만2187명(90.1%)다. 이 중 인턴은 2967명, 레지던트는 9220명이다.&lt;br&gt;&lt;br&gt;수련·입영 특례 적용 대상은 지난해 사직하거나 임용 포기한 전공의 중 원래 수련 받던 병원과 진료과에 복귀하는 경우다. 다만 지난달 레지던트 1년차 모집 등으로 정원 초과 합격자가 발생했을 때는 ‘사후 정원’을 적용해 사직 전공의들의 복귀 기회를 최대한 보장하겠다는 방침이다.&lt;br&gt;&lt;br&gt;이번 모집 이후 결원 발생 시 다음 달 중 추가 모집이 예정돼있다. 그러나 추가 모집으로 복귀한 사직 전공의는 입영 특례를 받을 수 없다. 정부는 추가 모집 대상과 자격, 특례에 대해 별도 안내할 예정이라고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“돌봄 한계 도달했다”...치매 아내 간호하다 살해한 80대 징역 3년 확정</title>
-      <link>https://www.chosun.com/national/court_law/2025/01/10/H3WE4XI4QFFBFLIH6YAHXRRVB4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/01/10/H3WE4XI4QFFBFLIH6YAHXRRVB4/</guid>
-      <dc:creator>박강현 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 10 Jan 2025 06:30:10 +0000</pubDate>
-      <content:encoded>치매에 걸린 70대 아내를 4년간 간호하다 목 졸라 살해한 80대 남편에게 대법원이 징역 3년형을 확정했다.&lt;br&gt;&lt;br&gt;10일 법조계에 따르면, 대법원 1부(주심 노경필 대법관)는 살인 혐의로 기소된 정모씨에게 징역 3년을 선고한 원심 판결을 확정했다.&lt;br&gt;&lt;br&gt;정씨는 2023년 9월 경기도 수원시 집에서 아내의 목을 졸라 살해한 혐의로 재판에 넘겨졌다. 정씨는 2020년 알츠하이머병 진단을 받은 아내를 혼자 간호해왔다. 자녀가 있었지만 경제적으로 도움을 받지 못한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;2022년 3월 아내의 상태가 악화되자 정씨는 아내를 죽이기로 마음먹었다. 쥐약을 먹여 살해하려고 했으나 아내가 죽지 않자 결국 직접 손으로 목 졸라 숨지게 한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;정씨는 범행 직후 쥐약을 먹고 자살하려고 했으나 실패했다.&lt;br&gt;&lt;br&gt;정씨는 자녀들에게 ‘엄마 건강 악화로 나도 더 이상 살고 싶지 않다. 내가 자진해 엄마를 하늘나라로 모시고자 한다’ ‘자손에게 피해 없이 혼자 떠나야겠다’는 문자 메시지를 보낸 것으로 파악됐다.&lt;br&gt;&lt;br&gt;1심은 “자신과 60여 년을 함께 산 배우자를 살해한 건 중대한 범죄”라면서도 “고령으로 심신이 쇠약한 정씨가 피해자를 돌보다 한계에 도달했던 것으로 보이고, 자녀들도 정씨의 선처를 원하고 있다”며 징역 3년을 선고했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>거점국립대 총장들 “2025학년도 등록금 동결”</title>
-      <link>https://www.chosun.com/national/education/2025/01/10/PMHDSZBEDBC3HC5J6QPZCZALXA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2025/01/10/PMHDSZBEDBC3HC5J6QPZCZALXA/</guid>
-      <dc:creator>오주비 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 10 Jan 2025 07:38:30 +0000</pubDate>
-      <content:encoded>거점국립대 총장들이 2025학년도 등록금을 인상하지 않기로 10일 결정했다. 거점국립대총장협의회(협의회)는 부산대, 충북대 등 전국 10개 거점국립대 총장들의 모임이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MULWLWWVAVLSTDW4QY4CJC6OZQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;오석환 교육부 차관이 8일 서울 여의도 한국교육시설안전원에서 국가거점국립대학총장협의회와 화상 간담회를 진행하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;협의회는 “16년간 등록금이 동결돼 교육과 연구에 재정적 어려움이 매우 큰 상황에서 등록금 동결이라는 어려운 결정을 했다”고 밝혔다. 이어 “현재 고환율과 고물가로 고통받고 있는 국민과 학생들의 고통을 분담한다는 대승적 결단”이라고 설명했다.&lt;br&gt;&lt;br&gt;이에 따라 충북대, 강원대, 경북대, 경상국립대, 부산대, 전남대, 전북대, 제주대, 충남대의 올해 등록금은 인상 없이 동결되지만, 협의회는 “등록금이 동결되더라도 교육과 연구의 질적 저하가 없도록 대학들은 각고의 예산 절감 노력을 병행하기로 했다”고 밝혔다. 서울대는 올해 등록금을 동결하기로 지난달에 이미 결정한 바 있다.&lt;br&gt;&lt;br&gt;이어 협의회는 “거점 국립대 총장들은 지역 대학이 지역 균형 발전에 이바지하고, 글로벌 수준의 경쟁력을 확보할 수 있도록 학생 1인당 교육비를 서울대 수준으로 현실화하는 정부의 정책적·재정적 지원을 요구하기로 했다”고 말했다. 만약 추후 관련 지원이 이뤄지지 않는다면 내년부터 등록금 인상이 불가피하다고 했다.&lt;br&gt;&lt;br&gt;교육부는 거점국립대 9곳의 올해 등록금 동결에 대해 “재정적 어려움에도 모범을 보여준 거점국립대의 결단에 감사드린다”며 “앞으로도 대학과 지속적으로 소통하며 현장 맞춤형 행재정 정책이 이뤄질 수 있도록 하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/MULWLWWVAVLSTDW4QY4CJC6OZQ.jpg?width=4200&amp;height=2800&amp;auth=055ce4233a8e992a0f72a34f018c340db2342e127ebea725ec27607db8dd1c60&amp;smart=true" type="image/jpeg" height="2800" width="4200">
-        <media:description type="plain">&lt;YONHAP PHOTO-3799&gt; 오석환 교육부 차관, 지방 국립대 총장들과 등록금 관련 화상간담회
-      (서울=연합뉴스) 류효림 기자 = 오석환 교육부 차관이 8일 서울 여의도 한국교육시설안전원에서 국가거점국립대학총장협의회(국총협)와 화상 간담회를 진행하고 있다. 2025.1.8
-    ryousanta@yna.co.kr/2025-01-08 14:29:39/
-&lt;저작권자 ⓒ 1980-2025 ㈜연합뉴스. 무단 전재 재배포 금지, AI 학습 및 활용 금지&gt;</media:description>
-        <media:credit role="author" scheme="urn:ebu">류효림</media:credit>
-      </media:content>
     </item>
     <item>
       <title>검찰, ‘비상계엄 사전 모의’ 노상원 구속 기소</title>
