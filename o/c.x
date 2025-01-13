@@ -13,6 +13,104 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>‘혈액암’ 조지호 경찰청장, 법원에 보석 청구</title>
+      <link>https://www.chosun.com/national/court_law/2025/01/13/FKDMD36DGFCLTFAZUFHOHOS6TU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/01/13/FKDMD36DGFCLTFAZUFHOHOS6TU/</guid>
+      <dc:creator>박강현 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 13 Jan 2025 05:07:15 +0000</pubDate>
+      <content:encoded>‘12·3 비상계엄 사태’ 당시 국회 진입을 막는 등 내란 중요임무 종사 등 혐의로 구속 기소된 조지호 경찰청장이 첫 재판을 앞두고 법원에 불구속 재판을 받게 해달라고 요청했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WTJ7DINKVBLWLLNWGM4YOG2RUA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;조지호 경찰청장. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;13일 법조계에 따르면 조 청장은 이날 이 사건을 심리하는 서울중앙지법 형사25부(재판장 지귀연)에 보석(保釋)을 청구했다. 보석은 구속된 피고인에게 보증금을 받거나 보증인을 세워놓고 거주지와 사건 관련인 접촉 제한 및 재판 출석 등 일정한 조건 아래 풀어주는 제도다.&lt;br&gt;&lt;br&gt;조 청장은 지난해 초 혈액암 2기 판정을 받은 것으로 알려졌다. 이에 조 청장 측은 검찰 송치 후 혈액암이 악화하고 폐렴 등 합병증까지 와 병원 치료가 필요하다는 이유 등으로 검찰에 구속집행정지를 요청했지만 최근 검찰이 이를 받아들이지 않은 것으로 전해졌다. 법원 보석 청구도 이와 비슷한 취지에서 낸 것으로 보인다.&lt;br&gt;&lt;br&gt;앞서 서울중앙지법 형사25부는 지난 8일 조 청장과 김봉식 전 서울경찰청장 사건을 접수했다. 두 사람은 계엄 당시 경찰을 동원해 국회를 봉쇄하고, ‘정치인 체포조’ 운영에 관여한 혐의를 받는다. 또 중앙선거관리위원회 과천청사 등에 경찰을 보내 청사를 점거하고, 서버 탈취를 시도한 혐의도 받는다.&lt;br&gt;&lt;br&gt;조 청장과 김 전 청장에 대한 첫 공판준비기일은 다음 달 6일 열린다. 준비 기일은 정식 재판에 앞서 범죄 혐의에 관한 피고인의 입장을 확인하고 증거 조사 계획 등을 잡는 절차로, 피고인이 법정에 출석할 의무는 없다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>韓유학생 ‘망치 난동’에 흉흉해진 日대학가…“혐한 여론 걱정”</title>
+      <link>https://www.chosun.com/national/incident/2025/01/13/Y46YCFQQMZA6DFCIAEWOVTR57Y/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/01/13/Y46YCFQQMZA6DFCIAEWOVTR57Y/</guid>
+      <dc:creator>조민희 기자, 안준현 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 13 Jan 2025 04:40:37 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QD3VL72QMNA6RMZ3XPG24JSQYY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;일본 도쿄 호세이(法政) 대학 다마 캠퍼스의 한 강의실에서 망치를 휘둘러 8명을 다치게 한 한국인 A씨가 경찰에 호송되고 있다./FNN&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 10일 일본 도쿄의 호세이(法政)대 다마캠퍼스에서 한국인 여학생이자 이 대학 사회학과 2학년에 재학 중이던 유주현(22)씨가 수업 도중 망치를 휘둘러 학생 10명이 부상을 입는 사건이 발생했다. 유씨는 상해 혐의로 그 자리에서 체포됐다.&lt;br&gt;&lt;br&gt;이 사건 이후 호세이대뿐 아니라 도쿄대·와세다대 등 기타 일본 대학에 재학 중인 한국인 유학생들은 모두 “혐한(嫌韓) 여론이 들끓어 학교를 다니기 어려워질까 걱정된다”고 말했다. 호세이대는 도쿄에 위치한 사립대로, 이른바 5대 명문사립대학(MARCH)의 일원이다. 전직 일본 총리 스가 요시히데가 이곳 출신이다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇유학생들이 기억하는 유씨…“사건 한 달 전에도 페트병 난동”&lt;/b&gt;&lt;br&gt;&lt;br&gt;호세이대에 재학 중인 한국 유학생으로 유씨와 유학생 대상 일어 수업을 같이 들었다는 A(22)씨는 “유씨가 경찰에 따돌림을 당해 이같은 일을 벌였다고 진술했다는데, 다른 방법으로 풀 수 있지 않았을까 싶다”며 “같은 유학생이자 한국인으로서 피해를 입을까 불안하다”고 말했다. A씨는 “일본인 학생들은 이 사건 이후 계속 무섭다 같은 말을 되풀이하고 있다”고 했다.&lt;br&gt;&lt;br&gt;유씨와 같이 수업을 들은 학생들은 유씨를 “항상 혼자 있는 사람”으로 회상했다. 한 학생은 “주로 혼자 다녔는데, 그렇다고 해서 위축돼있기 보다는 도리어 당당한 느낌”이었다며 한 일화를 소개했다.&lt;br&gt;&lt;br&gt;유씨는 지난 학기 시험 종료 직후 교수가 “시험이 끝났으니 펜을 내려놓으라”고 말했는데, 아랑곳하지 않고 끝까지 펜을 잡고 있어서 지적을 받았다고 한다. 이번 학기 기말 과제에 대해서도 본인 스스로 납득이 되지 않았는지 교수가 질문에 답해줘도 똑같은 질문을 집요하게 해 학생들 사이에서 ‘자기 위주로 생각하는 사람’이라는 평을 받았다고 한다.&lt;br&gt;&lt;br&gt;다른 유학생 B(22)씨는 “망치 난동 소식을 듣자마자 피의자가 유씨라는 생각을 했다”며 “사건 한 달 전에도 페트병으로 책상을 내리치며 옆 사람에게 화를 내던 일이 있었다”고 말했다. 유씨는 이어 학생들에게 “너희들이 아니라고?”를 반복했다고 한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WAV5FHZJZG25QQ4HVL2ZV7SE4Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;10일 일본 마치다시 호세이대 캠퍼스에서 발생한 상해 사건 현장 모습./ NHK 보도 화면 캡처&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;◇韓유학생들 “왜 하필 한국인” 日학생들 “역시 한국인”&lt;/b&gt;&lt;br&gt;&lt;br&gt;유학생들은 사건 소식을 들은 후 “하필 피의자가 한국인 유학생일까”라는 생각이 들었다고 말했다. 앞으로의 대학 생활이 걱정된다는 이도 있었다. 한국 유학생들 사이에선 “한동안 학교에서 한국어를 쓰지 말자” 등의 말도 나왔다. 일본 학생들은 대놓고 이 사건과 관련해 한국인 학생들에게 욕설이나 감정을 드러내지는 않지만, 다들 걱정과 우려를 보이고 있다고 한다.&lt;br&gt;&lt;br&gt;한 일본인 학생은 “한국인 유학생들은 항상 일어 공부와 대학 전공 공부, 동아리 활동 모두 열심히 하는 모범생이었다”며 “이 사건을 계기로 한국인 유학생을 다시 보게 됐다”고 말했다. 한 호세이대 재학생은 “한국 여자가 확실히 기가 세다는 얘기는 들었지만 이렇게 수업 시간에 무기로 폭행할 줄은 몰랐다”며 “처음에 소식을 듣고 무섭다고 생각했는데, 한국인이 범인이라는 소리를 듣고 ‘역시나’라는 말이 나왔다”고 말했다.&lt;br&gt;&lt;br&gt;다른 일본인 학생들 사이에선 “한국인 유학생이 이런 일을 벌이다니, 학교 측에서 유학생 지원을 줄여야 한다” “한국인 유학생은 다른 나라 유학생보다 엄격한 잣대로 입학 허가를 내줘야 한다” 등의 반응도 나왔다고 한다. 한 일본 네티즌은 “반드시 호세이대 교수들이 ‘다케시마(독도)’가 일본 땅임을 강의하도록 해야 한다” “일본에 한국인 들이지 말라”는 혐한 여론 조성 댓글도 달았다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SMQVIXYWQJC7LOHKDISVR654YQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;호세이대 망치 난동 사건에 사용된 것으로 추정되는 망치 /일본 NHK뉴스 캡쳐&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;◇예상 형량은…“초범이라 집행유예 유력”&lt;/b&gt;&lt;br&gt;&lt;br&gt;한편 이 같은 ‘망치 난동’ 이후 일본 내 형법 전문가들 사이에선 유씨에 대한 형량을 두고 논의가 이뤄지고 있다. 일본 오사카대 로스쿨 시마오카 마나 교수는 “일본 형법 제204조에 따라 상해죄는 징역 15년 이하 구금 또는 50만엔 이하 벌금형이 선고되지만, 현재로서는 집행유예를 받을 가능성도 있다”며 “피해자들이 다친 정도에 따라 민법 상 불법행위에 의한 손해배상을 지게 될 경우 높은 배상액을 물 것”이라고 말했다.&lt;br&gt;&lt;br&gt;일본 법무성이 발간한 ‘2023 범죄백서’에 따르면, 상해죄로 3년 이상 형량을 받는 경우는 7%, 3년 이하는 93%다. 유씨에 대한 형량은 초범 여부와 사용한 무기(망치)를 종합적으로 고려해 결정될 가능성이 높다.&lt;br&gt;&lt;br&gt;일본 형법은 ‘속지주의(행위자의 국적을 불문하고 자국 형법을 적용하는 것)’를 채택했기 때문에, 유씨는 일본에서 재판을 받고 만약 징역형을 선고 받아도 일본의 여자 형무소에 수용될 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>오세훈, 민주당 ‘카톡검열’ 논란에 “반민주적 행태...당명서 ‘민주’ 빼라”</title>
+      <link>https://www.chosun.com/national/national_general/2025/01/12/ONFXNNLGEJB6JA2YWQ3EE2JRFY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/12/ONFXNNLGEJB6JA2YWQ3EE2JRFY/</guid>
+      <dc:creator>최연진 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 12 Jan 2025 03:54:01 +0000</pubDate>
+      <content:encoded>오세훈 서울시장은 더불어민주당 전용기 의원이 ‘카카오톡으로 내란 선동 관련 가짜 뉴스를 퍼뜨리면 내란 선동죄로 고발하겠다’고 밝힌 것과 관련, “국가보안법은 표현의 자유라며 폐지하자는 사람들이 국민의 사적 대화까지 검열하겠다는 것”이라며 “지독한 ‘이중기준’”이라고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4GTQGLJYNOEZWDVREWTNUEXIYE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;오세훈 서울시장. /서울시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;오 시장은 12일 페이스북 글에서 “김어준을 국회에 불러 가짜뉴스 유포의 장을 마련해준 야당이 오히려 일반인의 카카오톡을 가짜뉴스로 매도하며 고발하겠다고 한다”며 이같이 밝혔다.&lt;br&gt;&lt;br&gt;오 시장은 “지난 정권 당시 문재인 대통령은 자신을 비판하는 전단지를 배포했다는 이유로 30대 청년을 모욕죄로 고소했다”며 “앞에서는 선량한 얼굴로 표현의 자유를 외치고, 뒤에서는 입에 재갈을 물리는 반민주적 행태가 민주당의 DNA냐”고 했다.&lt;br&gt;&lt;br&gt;오 시장은 또 “탄핵 심판에서 검사 역할을 할 야당 소속 법사위원장은 절차가 진행되기도 전에 ‘대통령 사형 선고’를 운운하고 있다”며 “대통령은 ‘유죄추정’, 민주당 대표는 1심 판결 후에도 ‘무죄추정’을 주장한다. 민주당의 ‘인권’은 아전인수식 인권”이라고 했다.&lt;br&gt;&lt;br&gt;그는 “이쯤되면 조선민주주의인민공화국에 민주주의가 없듯이, 민주당에도 민주주의는 없다”며 “이러니 이재명 정권이 탄생하면 신(新)공안 통치가 일상이 될 것을 걱정하는 것”이라고 했다.&lt;br&gt;&lt;br&gt;이어 “‘너는 용공 분자’라고 낙인찍고 처벌하는 시대가 가니 ‘너는 내란 선전자’라며 딱지를 붙이는 세상이 도래했다”며 “민주당은 당명에서 ‘민주’를 빼든지, ‘민주공안당’으로 개명하라”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>서울시 “한남동 집회 인근에 이동형 화장실 2동 설치”</title>
+      <link>https://www.chosun.com/national/national_general/2025/01/12/F5JXBO5OEJAH5HYJSUDT6RKVVE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/12/F5JXBO5OEJAH5HYJSUDT6RKVVE/</guid>
+      <dc:creator>최연진 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 12 Jan 2025 03:26:03 +0000</pubDate>
+      <content:encoded>서울시는 용산구 한남동 일대에서 벌어지는 탄핵 관련 집회가 장기화함에 따라 화장실 부족 문제를 해소하기 위해 이동형 화장실을 설치했다고 12일 밝혔다.&lt;br&gt;&lt;br&gt;서울시는 “집회 주최 측이 이동형 화장실을 설치했지만 참여 인원에 비해 수용 규모가 협소하다”며 “집회 장소에서 가장 가까운 공중화장실은 6호선 한강진역과 고가차도 인근에 있는데, 거리가 멀고 이마저도 찾는 사람이 많아 이용이 쉽지 않은 상황”이라고 했다.&lt;br&gt;&lt;br&gt;또 “인근에 민간 개방 화장실은 2곳 정도 있으나 이곳들 역시 시설에 비해 수요를 감당할 수 없어 관리의 어려움을 호소하고 있다”며 “공공에 개방되지 않은 일반 상가까지 화장실 관련 문제를 겪고 있어 시 차원에서 해결책을 마련했다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3442PZ74GNASDAJKMUG72ABGME.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울시가 한남동 블루스퀘어 주차장에 설치한 이동형 화장실./서울시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울시가 설치한 신규 이동형 화장실은 한남동 집회 장소 주변 2곳에 1동씩 총 2개동이다. 집회 장소 북쪽에 있는 블루스퀘어 주차장에 1개 동을, 중간 지점인 한남동 730 주차장 인근에 1개 동을 각각 둔다.&lt;br&gt;&lt;br&gt;서울시는 향후 집회 참여 인원과 현장 상황에 따라 탄력적으로 이동형 화장실 운영 방향을 결정하기로 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>尹측 “14일 헌재 변론 출석할 수 없다... 신변 안전 우려”</title>
+      <link>https://www.chosun.com/national/court_law/2025/01/12/XF5A527Q6RCH7JWS4CBOKIJ3DI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/01/12/XF5A527Q6RCH7JWS4CBOKIJ3DI/</guid>
+      <dc:creator>이민준 기자, 방극렬 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 12 Jan 2025 02:07:39 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OCGUZGLD6BHA3DEBII5Y46PNOY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령이 지난달 3일 밤 서울 용산 대통령실 청사에서 긴급 대국민 특별 담화를 하고 있다. /대통령실&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 대통령 변호인단은 “오는 14일 헌법재판소에서 열릴 탄핵 심판 변론 기일에 출석할 수 없다”는 입장을 12일 밝혔다. 헌재에선 14일 첫 정식 변론이 열릴 예정이다.&lt;br&gt;&lt;br&gt;윤 대통령 변호인단은 이날 오전 언론 공지를 통해 이 같은 입장을 밝혔다. 변호인단은 “대통령이 헌법재판에 출석하기 위해서는 신변안전과 경호문제가 해결돼야 한다”며 “고위공직자범죄수사처와 경찰청 국가수사본부가 불법무효인 체포영장을 계속 집행하려고 시도하고 있어 신변 안전과 불상사가 우려된다”고 했다. 그러면서 “안전문제가 해결되면 언제든 출석할 예정”이라고 했다.&lt;br&gt;&lt;br&gt;헌법재판소법 52조는 ‘당사자가 탄핵 심판 변론 기일에 출석하지 않으면 다시 기일을 정해야 한다’고 규정한다. 당사자가 다시 정한 기일에도 나오지 않으면 출석 없이 심리할 수 있다. 헌재도 윤 대통령의 불출석을 고려해 오는 16일 2차 변론 기일을 지정한 상황이다. 이 밖에도 헌재는 21일과 23일, 2월 4일을 변론 기일로 지정했다.&lt;br&gt;&lt;br&gt;앞서 박근혜 전 대통령 탄핵심판 때는 첫 변론 기일에 박 전 대통령이 출석하지 않아 재판이 9분 만에 종료됐었다. 당시 박 전 대통령도 불출석 방침을 미리 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>박종준 전 경호처장 2차 조사 14시간 20여분만에 종료 </title>
+      <link>https://www.chosun.com/national/national_general/2025/01/11/G5QO2DO6SBBVBFI66JC2C27VUQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/11/G5QO2DO6SBBVBFI66JC2C27VUQ/</guid>
+      <dc:creator>구아모 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 11 Jan 2025 14:31:10 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WBHQE4K4QVZG5ZC75GOKAYOH6I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령에 대한 체포영장 집행을 방해한 혐의(특수공무집행방해)로 입건된 박종준 대통령 경호처장이 10일 오전 서울 서대문구 국가수사본부로 출석하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 대통령 체포 저지를 주도한 혐의(특수 공무집행방해)를 적용받는 박종준 전 대통령 경호처장이 14시간 20여분의 경찰 피의자 조사를 받고 귀가했다.&lt;br&gt;&lt;br&gt;박 전 처장은 11일 오후 11시 25분쯤 서대문 경찰청 국가수사본부 청사에서 조사를 마친뒤 취재진에 “(조사에) 성실하게 임했다”고 말했다. 그는 ‘어떤 부분 위주로 소명했나’ ‘계엄 당시 관저에 있었나’ ‘사병 동원하라는 지시 있었나’ 등 질문에 답하지 않고 차에 올라 청사를 떴다.&lt;br&gt;&lt;br&gt;경찰은 지난 3일 윤 대통령 체포를 저지할 당시 경호처 직원들이 ‘인간 띠’를 만든 것과, 군 경호부대 의무복부 병사 등을 동원한 것과 관련해 조사한 것으로 전해졌다. 박 전 처장은 전날인 10일에도 13시간이 넘는 고강도 조사를 받았다.&lt;br&gt;&lt;br&gt;이날 이진하 경비안전본부장도 11일 오후 11시 1분쯤 조사를 받고 나오면서 취재진에 “성실하게 조사에 임했다”고 답했다. 이 본부장은 조사에 협조적이었던 것으로 전해졌다. 이 본부장이 체포 영장 집행 저지를 주도적으로 지시하지 않았다는 취지로 진술한 것으로도 알려졌다.&lt;br&gt;&lt;br&gt;경찰은 현재까지 대통령 경호처 간부 4명을 특수공무집행방해 혐의로 입건했는데, 현재까지 박 전 처장과 이 본부장만 경찰 조사에 응했다. 경호처장 직무대행을 맡게 된 김성훈 경호차장은 이날 오전 10시까지 국수본에 출석하라는 3차 소환조사 통보를 받았으나 응하지 않았다.&lt;br&gt;&lt;br&gt;경찰은 “현재까지는 김 차장에 대한 체포 영장을 신청하지 않았다”고 밝혔다. 다만 김 차장이 소환 조사에 응하지 않을 경우 체포영장도 조만간 신청할 방침인 것으로 전해졌다.&lt;br&gt;&lt;br&gt;이광우 경호본부장은 전날 오후 2시까지 2차 출석 요구를 받았으나 응하지 않았다. 경찰은 이광우 경호본부장에게 오는 13일 오전 10시까지 출석하라는 내용의 3차 출석 요구서를 발송했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>김동연 “설 연휴 전 50조 수퍼 추경을...” 비상경영 3대 조치 촉구</title>
+      <link>https://www.chosun.com/national/regional/2025/01/13/MWNHHVGIZ5DE3FXIVLRRW62UJ4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/01/13/MWNHHVGIZ5DE3FXIVLRRW62UJ4/</guid>
+      <dc:creator>수원=권상은 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 13 Jan 2025 04:09:45 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/R3XTDC6EUBNLXOYGZHMQNJO4SU.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;김동연 경기도지사가 13일 경기 수원시 팔달구의 한 음식점에서 신년 기자 간담회를 하고 있다. /사진공동취재단
+&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;김동연 경기도지사는 13일 “벼랑 끝 민생 살리기를 위해 설 명절 전에 50조원 규모의 슈퍼추경을 추진해야 한다”고 주장했다. 김 지사는 이를 포함해 트럼프 2기 대응 비상체제 가동, 기업 기 살리기 등 ‘비상 경영 3대 조치’를 제안했다.&lt;br&gt;&lt;br&gt;김 지사는 이날 열린 신년 기자단담회에서 “경제 성장률, 수출 증가율, 민간소비 증가율이 모두 트리플 1%로 ‘1% 경제’와 ‘경제 퍼펙트스톰’이 현실화했고, 여기에 더해 ‘윤석열 쇼크’와 ‘트럼프 쇼크’가 우리 경제를 덮쳤다”며 “이를 잘 대응하지 못하면 대한민국은 10년 안에 세계 경제지도에서 사라질지 모른다”고 밝혔다.&lt;br&gt;&lt;br&gt;김 지사는 “지금 이 순간 우리 경제의 가장 큰 리스크는 불법 계엄, 내란, 탄핵이 만든 정치적 불확실성으로, 이를 조속히 제거하지 않고는 백약이 무효”라며 “가장 먼저 내란을 종식시키는 동시에 대한민국 비상 경영을 해야 한다”고 주장했다.&lt;br&gt;&lt;br&gt;김 지사는 비상 경영 3대 조치로 우선 ‘50조 슈퍼 추경’을 제시하며 소상공인·자영업자 등 민생 경제에 최소 15조 원 이상, 민생회복지원금에 최소 10조 원 이상, 미래 먹거리에 최소 15조 원 이상을 투자해야 한다고 밝혔다. 이를 위해 여·야·정 국정협의체에 민생 슈퍼추경을 첫 과제로 다뤄달라고 촉구했다.&lt;br&gt;&lt;br&gt;김 지사는 또 ‘트럼프 2기 대응 비상체제’의 즉시 가동을 주장했다. 그는 여·야·정이 합의해 통상·투자를 포함한 대외 경제문제를 책임질 ‘대한민국 경제 전권대사’를 임명하는 방식으로 우리 측 대표를 지정해 트럼프 2기 정부를 상대해야 한다고 밝혔다. 또 수출용 원자재의 수입 관세 한시적 폐지, 수출 중소·중견기업의 무역보험·환변동보험 지원한도 폐지, 주요 수출 전략 산업의 첨단 생산설비와 연구개발(R&amp;amp;D) 투자에는 외투기업에 준하는 보조금을 지원 등을 제시했다.&lt;br&gt;&lt;br&gt;김 지사는 이와 함께 기업 투자심리 제고를 위한 ‘기업 기 살리기’를 위해 임시 투자세액 공제제도 재도입, 기업 투자 관련 인·허가 신속 처리, 기업 세무조사 한시 유예 등의 대책도 제시했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>제주 최대 축제 ‘들불축제’, 불놓기 대신 ‘미디어아트’로 연출</title>
+      <link>https://www.chosun.com/national/regional/2025/01/13/QVGVMDSS7FCT5NUKURW7TIHFHY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/01/13/QVGVMDSS7FCT5NUKURW7TIHFHY/</guid>
+      <dc:creator>제주=오재용 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 13 Jan 2025 04:07:28 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DT4RZKN5QBCATNZWL3L64GRPWE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;제주시 애월읍 새별오름에서 열리는 제주 지역 최대 축제인 들불 축제 참가자들이 '오름 불 놓기'를 실시하고 있다. '오름 불 놓기'는 새별오름 26만㎡를 태우는 것으로, 축제의 백미다. 오름 불 놓기 당일에만 15만명이 찾을 정도로 인기를 끌면서 문화체육관광부 지정 유망 축제, 최우수 축제, 문화 관광 축제 등으로 선정됐다./제주시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;올해 제주들불축제에서 디지털 기술을 활용한 ‘오름 불놓기’가 연출된다.&lt;br&gt;&lt;br&gt;제주시는 오는 3월 14~16일 제주시 애월읍 새별오름 일대에서 ‘2025 제주들불축제’를 개최한다고 13일 밝혔다. 올해 축제에서는 하이라이트인 ‘새별오름 불놓기’를 실제 불을 놓지 않고 미디어 아트로 연출한다.&lt;br&gt;&lt;br&gt;제주시는 ‘오름에 불을 놓는 행위가 기후 위기 시대에 맞지 않고 산불 위험성이 크다’는 이유로 ‘오름 불놓기’에 반대, 작년엔 제주들불축제를 개최하지 않았다. 이전에는 축제 하이라이트인 ‘오름 불놓기’ 행사를 해발 519ｍ의 새별오름 남쪽 경사면 26만㎡ 억새밭에 불을 놓고, 동시에 2000발의 불꽃을 터트리는 방식으로 진행했다.&lt;br&gt;&lt;br&gt;올해 축제의 경우 실제 오름 불놓기는 폐지하되, 축제의 상징성을 유지하는 차원에서 달집태우기와 횃불 대행진, 불꽃 쇼는 진행하기로 했다.&lt;br&gt;&lt;br&gt;올해 축제 첫날인 14일에는 삼성혈에서 희망 불씨 채화를 시작으로 희망 기원제가 열린다. 축제 개막식에선 희망불 안치 퍼포먼스와 ‘희망, 틔우다’를 주제로 한 공연이 펼쳐진다.&lt;br&gt;&lt;br&gt;이어 15일에는 오름에 실제로 불을 놓지 않고 디지털 기술을 활용해 오름 불놓기를 연출하기로 했다. 세계적 음악가 양방언 등 아티스트들의 퍼포먼스도 진행된다. 16일에는 ‘희망, 잇다’를 주제로 한 청소년가요제, 새 희망 묘목 나눠주기, 들불큰장(특산물할인프로그램)이 진행된다.&lt;br&gt;&lt;br&gt;아울러 제주시는 올해 축제 기간 과거 축제 때 오름 불놓기를 위해 통제했던 새별오름을 개방하고, 해넘이 트래킹과 나이트 트래킹 등 오름 이색 등반프로그램을 운영하기로 했다.&lt;br&gt;&lt;br&gt;김완근 제주시장은 “제주의 정체성과 생태 가치를 지키고, 시민참여 축제로 만들어 나가기 위해 축제의 완성도를 높여나가겠다””고 말했다.&lt;br&gt;&lt;br&gt;한편 제주들불축제는 소와 말 등 가축 방목을 위해 해묵은 풀을 없애고 해충을 구제하기 위해 마을별로 불을 놨던 제주의 옛 목축문화 ‘방애’를 재해석한 축제를 만들자는 의미로 지난 1997년 시작됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>尹측, 행안장관 대행에 “경찰의 불법 영장 집행, 중단시키라”</title>
+      <link>https://www.chosun.com/national/court_law/2025/01/13/GOKWS4LELFDXVPUK4OCLKQVWGE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/01/13/GOKWS4LELFDXVPUK4OCLKQVWGE/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 13 Jan 2025 03:34:06 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5LYYWF7VSP5GPXVWMOOSANFWNE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 대통령 변호인단은 13일 고기동 행안장관 직무대행을 향해 “경찰의 불법 영장 집행을 중단시킬 의무가 있다”며 “경찰청장 직무대행에 대한 지휘·감독권을 행사하라”고 요구했다.&lt;br&gt;&lt;br&gt;윤 대통령 변호인단은 이날 오후 입장문을 내고 “경찰의 무소불위 행태가 거세다”며 이 같이 밝혔다. 변호인단은 “(경찰은) 지난 3일 대통령에 대한 1차 체포 영장 집행 과정에서 최상목 대통령 권한대행의 경호 인력 투입 지시를 거부하며, 고위공직자범죄수사처(공수처)의 시녀가 되어 불법 체포 영장 집행의 최선두에 서려 하고 있다”며 “일부 정치경찰의 잘못된 줄서기가 경찰 조직 전체의 위상을 무너뜨리고 있는 것”이라고 했다.&lt;br&gt;&lt;br&gt;변호인단은 입장문에서 “고 직무대행은 경찰이 법률상 근거 없는 공수처의 수사지휘에 따르지 말 것, 공수처의 불법 영장 집행에 나서지 말 것을 지시하여야 할 것”이라며 “정당한 직무상 지시를 이행하지 않는 경우 지위고하를 막론하고 엄중한 징계를 하여 그 책임을 물어야 할 것”이라고 했다. 그러면서 “대통령 권한대행과 법원행정처장이 체포 영장 집행과 관련한 불상사에 대해 우려하고 있는 상황에서 경찰이 불법의 최우선에 서려는 것은 경찰의 사명과 임무에 비추어 묵과할 수 없는 일”이라고 했다.&lt;br&gt;&lt;br&gt;그러면서 변호인단은 경찰을 향해선 “대통령 권한대행과 행안장관 대행의 적법한 직무 지시를 철저히 준수하여야 할 것”이라고 했다.&lt;br&gt;&lt;br&gt;한편, 공수처는 지난 12일 밤 대통령경호처와 국방부에 체포영장 집행에 협조하라고 요청하는 공문을 보냈다고 이날 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>AI 교과서 발행사들 “예정대로 교과서 지위 유지·전면 도입돼야”</title>
+      <link>https://www.chosun.com/national/education/2025/01/13/TN4LOUCYTZB6XJIQUM2YM5NAUY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/education/2025/01/13/TN4LOUCYTZB6XJIQUM2YM5NAUY/</guid>
+      <dc:creator>오주비 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 13 Jan 2025 03:26:09 +0000</pubDate>
+      <content:encoded>교육부가 올해 1년간 AI(인공지능) 디지털 교과서를 원하는 학교만 자율적으로 쓰도록 하겠다고 발표하자, AI 교과서 발행사들이 이에 반대하는 기자회견을 열었다. 이들은 AI 교과서가 교육자료가 아닌 교과서로 지위가 유지돼야 하고, 전면 도입도 이뤄져야 한다고 밝혔다. 전면 도입이 되지 않을 경우 행정 소송을 진행할 수밖에 없다고 주장했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4HJEGWJBA5MJVPXPC6MXKUHWJ4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;13일 서울 여의도 이룸센터에서 AI 교과서 발행사들이 AI 교과서 교과서 지위 유지 및 전면 도입 기자회견을 열고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;13일 AI 교과서 발행사들은 서울 여의도에서 기자회견을 열고 “초중등교육법 개정안을 백지화해야 하며, AI 교과서가 원안대로 학교 현장에 도입돼야 한다”고 했다. 이날 기자회견에 참여한 곳은 와이비엠, 에누마, 천재교과서, 아이헤이트플라잉버그스, 구름 등이다.&lt;br&gt;&lt;br&gt;천재교과서 박정과 대표는 “AI 교과서는 2023년 2월 교육부의 ‘디지털 기반 교육 혁신 방안’에 따라 2025년에 수학과 영어, 정보 과목부터 초·중·고교에 도입하기로 했고 현재 학교 현장의 선정만을 앞두고 있는데, ‘교육자료’로 격하되는 개정안으로 인해 2년에 걸쳐 진행해 온 일련의 개발 과정이 모두 무위로 돌아갈 상황에 처했다”고 밝혔다.&lt;br&gt;&lt;br&gt;이어 “교육자료가 되면 시도 교육청의 입장과 학교 예산, 교사 선택 등에 따라 AI 교과서를 사용하는 학생과 그렇지 못한 학생이 생기고 이에 따른 교육 격차가 발생하게 될 것”이라며 “원안대로 학교 현장에 도입해 지역과 학교에 따라 차등 없이 학생들이 교육 받을 권리가 보장돼야 한다”고 강조했다.&lt;br&gt;&lt;br&gt;이날 기자회견에 참석한 AI 교과서 발행사들은 AI 교과서가 예정대로 전면 도입되지 않을 경우 소송을 진행할 것이라는 입장을 밝혔다.&lt;br&gt;&lt;br&gt;이재상 천재교과서 상무는 “AI 발행사들은 1년간 AI 교과서 자율 선정이 이뤄질 경우 이것의 불법성을 다투는 행정 소송을 제기할 수 있고, 발행사들에 발생한 실질적 손해에 대해서도 2차 소송을 검토하게 될 것”이라고 했다.&lt;br&gt;&lt;br&gt;박찬용 아이헤이트플라잉버그스 대표는 “AI가 추천해주는 보완 학습을 집에서 혼자 공부할 수 있도록 개발된 장점이 있는데, 학교와 교사의 선택에 따라 누구는 사용할 수 있고 누구는 그렇지 못하는 상황이 발생하는 게 아쉽다”며 “AI 교과서로 모두에게 맞춤형 공부 기회를 제공해준다는 취지가 훼손되는 것 같아 유감이다”고 밝혔다.&lt;br&gt;&lt;br&gt;원래 교육부는 오는 3월부터 모든 초3·4(영어·수학), 중1·고1(영어·수학·정보)에 AI 교과서를 적용하기로 했다. 이를 위해 작년 11월 검정 심사를 통과한 AI 교과서 76종을 발표했고, 각 학교들에 서책 교과서와 별도로 AI 교과서를 선정하도록 안내했다.&lt;br&gt;&lt;br&gt;하지만 지난달 야당 주도로 AI 교과서를 교육자료로 격하하는 초중등교육법 개정안이 국회를 통과했다. 교육부는 이에 대한 재의 요구를 최상목 대통령 권한대행에게 건의한 상황이다. 그러나 교육부는 재의 요구가 받아들여져 AI 교과서가 교과서 지위를 얻는다 해도 AI 교과서에 대한 현장 우려가 있는 만큼, 올해 1년은 학교들이 자율적으로 사용하도록 한다는 방침을 세우고 지난 9일 발행사들에 안내했다.&lt;br&gt;&lt;br&gt;이 외에도 AI 발행사들은 AI 교과서가 교육자료가 되면 구독료가 인상되는 문제가 있다는 점도 지적했다. 신동희 YBM 부장은 “참고서는 가격이 교과서보다 많게는 20~30배 비싸다”며 “교과서가 아닌 교육자료가 됐을 때 구독료가 자연스레 인상될 수밖에 없는 구조”라고 밝혔다.&lt;br&gt;&lt;br&gt;또 교과서는 데이터 보호와 학습 효과성 등 정부의 엄격한 내용 및 기술 심사를 통과해야 하는데, 교육자료가 되면 이를 통과하지 못한 AI 교과서도 학교에서 사용할 수 있게 되고 그 피해는 학생들에게 돌아가게 될 것이라고도 지적했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/4HJEGWJBA5MJVPXPC6MXKUHWJ4.jpg?width=4200&amp;height=1957&amp;auth=e4e0ec4fe67780f2fbcd70180036bebf9f84da9a4d3efa3a683d8c63c6625bdf&amp;smart=true" type="image/jpeg" height="1957" width="4200">
+        <media:description type="plain">&lt;YONHAP PHOTO-2426&gt; AI 디지털교과서의 교과서 지위 유지 촉구하는 AI교과서 발행사 임직원들
+     (서울=연합뉴스) 류효림 기자 = 김형준 구름 이사(앞줄 왼쪽부터), 신동희 YBM 부장, 이재상 천재교과서 상무, 박정과 천재교과서 대표, 조희석 천재교과서 이사, 박찬용 아이헤이트플라잉버그스 대표, 전윤택 에누마 코리아 대표가 13일 서울 여의도 이룸센터에서 열린 AI 디지털교과서의 교과서 지위 유지 촉구 공동 기자회견에서 발언하고 있다. 2025.1.13
+    ryousanta@yna.co.kr/2025-01-13 10:35:11/
+&lt;저작권자 ⓒ 1980-2025 ㈜연합뉴스. 무단 전재 재배포 금지, AI 학습 및 활용 금지&gt;</media:description>
+        <media:credit role="author" scheme="urn:ebu">류효림</media:credit>
+      </media:content>
+    </item>
+    <item>
       <title>경찰 “영장 집행 방해시 현행범 체포...서울 유치장 분산 호송도 검토”</title>
       <link>https://www.chosun.com/national/national_general/2025/01/13/X3OFKV3H2VFINEITZFFIGMA3GM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/13/X3OFKV3H2VFINEITZFFIGMA3GM/</guid>
@@ -634,24 +732,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WILZNAW4FNBDVNGTFMNLLKVAIY.png"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=이진영&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;두꺼운 겨울 옷이 잘 마르지 않을 때엔 마른 수건을 겹쳐서 함께 널어보자. 수건이 물기를 흡수해 건조 시간이 짧아지고 쉰내도 나지 않게 된다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>충북 보은서 화재...공장 4곳 태우고 4시간 40여 분만에 초진</title>
-      <link>https://www.chosun.com/national/incident/2025/01/12/BHA32NJAFJFAJDNH62QGGYJNBI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/01/12/BHA32NJAFJFAJDNH62QGGYJNBI/</guid>
-      <dc:creator>이승규 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 12 Jan 2025 13:56:39 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ISUYJZXB6Z63S7JBAYTQEXAWGQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;12일 오후 3시 47분쯤 충북 보은군 삼승면 산업단지에서 난 화재가 4시간 40여분 만에 큰불이 잡혔다./보은소방서&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;충북 보은군의 필름 제조 공장에서 화재가 발생해 인근 공장 등 4곳을 태우고 4시간 40여분만에 큰 불이 잡혔다.&lt;br&gt;&lt;br&gt;12일 충북소방본부에 따르면 이날 오후 3시 45분쯤 보은군 삼승면의 한 난방 필름 제조 공장에서 불이 났다. 불은 인근에 있는 농업용 비료 생산 공장 등 3개 공장에도 옮겨 붙었다.&lt;br&gt;&lt;br&gt;소방당국은 관할 소방서 인력과 장비가 모두 출동하는 대응 1단계를 발령해 소방 인력 159명과 장비 67대를 투입해 오후 8시 30분쯤 큰 불을 잡았다.&lt;br&gt;&lt;br&gt;이 불로 난방 필름 제조 공장이 모두 불에 탔고, 나머지 공장도 일부 화재 피해를 입었으나 인명 피해는 없었다. 난방 필름 제조 공장이 불에 약한 샌드위치 패널로 지어졌고, 보은군에 초속 7m에 이르는 강풍이 불면서 화재 진압에 시간이 걸렸다.&lt;br&gt;&lt;br&gt;경찰과 소방당국은 잔불이 모두 꺼지는대로 정확한 화재 원인을 조사할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>김종민, 11세 연하 비연예인과 4월 결혼... 1부 사회는 유재석</title>
-      <link>https://www.chosun.com/national/people/2025/01/12/RUTUKUYWHRE55HBSUZ2JARRYZU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/01/12/RUTUKUYWHRE55HBSUZ2JARRYZU/</guid>
-      <dc:creator>정아임 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 12 Jan 2025 13:51:58 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QQJUUFMORRPTZBEZVBVXKW65TM.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;그룹 코요태 멤버 김종민/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그룹 코요태 멤버 김종민(46)이 11세 연하 여자친구와 오는 4월 결혼한다고 밝혔다.&lt;br&gt;&lt;br&gt;12일 방송된 KBS 2TV ‘1박2일 시즌4′(1박2일)에서 김종민은 “바로 그날이 오늘이 될 줄 몰랐다. 저 김종민 장가갑니다”라며 공식적으로 결혼 소식을 알렸다.&lt;br&gt;&lt;br&gt;그는 멤버들과 2025년 새해 인사를 전한 후 “이날인가 고민을 많이 했다. 믿기지 않는다. ‘이렇게 흘러가는 건가’ 이런 생각도 든다. 오늘이 그날이 될 줄 몰랐다”며 “정확하게 날짜를 발표하겠다. 4월 20일이다. 시간대는 오후 6시”라고 말했다.&lt;br&gt;&lt;br&gt;이 소식을 들은 멤버 조세호(43)는 “김종민씨가 결혼에 대한 확신을 갖고, 저와 굉장히 많은 이야기를 나눴다. 제 결혼 때 담당했던 웨딩플래너를 소개해 줬다”고 부연했다.&lt;br&gt;&lt;br&gt;특히 김종민은 사회자가 누구냐는 질문에 “1부 2부 나뉘어 있다. 1부는 유재석씨다”라고 밝혔다. 이어 “2부 사회는 문세윤씨와 조세호씨”라며 “너무나 감사하게도 해주신다고 했다”고 덧붙였다.&lt;br&gt;&lt;br&gt;앞서 김종민은 11세 연하인 비연예인 여자친구와 열애 중이라며 “(여자친구는) 사업을 하고 있다. 대표님이시다”라고 밝힌 바 있다.&lt;br&gt;&lt;br&gt;김종민은 지난 2000년 코요태의 객원 멤버로 합류한 후 2001년부터 코요태의 정규 멤버가 돼 활동을 이어오고 있다. 김종민은 가수 활동을 겸하며 KBS 2TV 예능 프로그램 ‘1박 2일’ 등 다양한 예능 프로그램에서 활약하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>“月 450, 후회 안 해”…대학 중퇴 후 버스 기사된 20대 청년</title>
       <link>https://www.chosun.com/national/national_general/2025/01/12/WOVE2XH5SFDSHF5XY5JPNEZHBA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/12/WOVE2XH5SFDSHF5XY5JPNEZHBA/</guid>
@@ -674,54 +754,6 @@
       </media:content>
     </item>
     <item>
-      <title>용인 플라스틱 제조공장 화재 3시간 만에 진화...인명 피해 없어</title>
-      <link>https://www.chosun.com/national/incident/2025/01/12/L5F45GIYUJARPEX7VWG6H52TMQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/01/12/L5F45GIYUJARPEX7VWG6H52TMQ/</guid>
-      <dc:creator>이승규 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 12 Jan 2025 12:22:26 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CJVF2W7XX3AHGGD63HZUNLPNCU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;용인 플라스틱 제조 공장 화재/경기도소방재난본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 용인시의 한 플라스틱 제조공장에서 발생한 불이 3시간여 만에 꺼졌다.&lt;br&gt;&lt;br&gt;12일 경기도소방재난본부 등에 따르면 이날 오후 3시 47분 용인시 처인구의 플라스틱 제품 제조공장에서 발생한 화재가 오후 7시 8분쯤 완전히 진화됐다. 이 불로 3층 규모로 된 공장 건물 4개동(연면적 2698㎡) 중 1개동이 완전히 불에 탔다. 공장이 가동되지 않아 화재 당시 근로자는 없었고, 외부 기숙사에 있던 20여 명도 대피해 별다른 인명 피해는 없었다.&lt;br&gt;&lt;br&gt;소방당국은 “공장에서 불이 났다”는 신고를 접수한 뒤 확대 가능성이 있다고 보고 관할 소방서 인력이 전부 출동하는 대응 1단계를 발령해 소방 인력 120명과 장비 40대를 동원했다. 용인시에서도 주민들에게 재난 문자를 보냈다.&lt;br&gt;&lt;br&gt;경찰과 소방당국은 정확한 화재 원인을 조사할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>사찰 불전함 속에 청테이프 넣어 현금 훔친 40대 실형</title>
-      <link>https://www.chosun.com/national/incident/2025/01/12/7RX5EQNCQNBV3O5B62IHOETQJQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/01/12/7RX5EQNCQNBV3O5B62IHOETQJQ/</guid>
-      <dc:creator>이승규 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 12 Jan 2025 10:45:52 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XUP4T2JKLN452C5WRPIQP3KSEU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;의정부지법 남양주지원/뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;사찰의 불전함에 들어있는 현금 수백만원을 훔친 40대 남성에게 실형이 선고됐다.&lt;br&gt;&lt;br&gt;의정부지법 남양주지원 형사1단독 최치봉 판사는 절도 혐의로 기소된 A(44)씨에게 징역 2년 2개월을 선고했다고 12일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난해 1월부터 11월까지 경기 구리시의 한 사찰 법당에서 불전함 틈에 청테이프를 길게 늘어뜨렸다 회수하는 방식으로 585만원 상당의 금품을 훔친 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;A씨는 절도죄로 징역 2년형을 받고 출소한 지 한달 여 만에 또다시 같은 범죄를 저지른 것으로 조사됐다. 2001년, 2005년, 2019년에도 A씨는 절도 등 혐의로 실형을 선고받았다.&lt;br&gt;&lt;br&gt;최 판사는 “A씨가 배고픔과 경제적 어려움에 처해 범행에 이른 점이 있으나 동종 범죄로 여러 번 처벌 받았음에도 누범 기간 중 범행을 저질렀고, 피해가 대부분 회복되지 않았다”면서도 “일부 피해자들이 처벌을 원치 않는 점 등을 고려했다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“목숨 던져 시민 지킨 군인 정신, 이 시국에 더 빛나”</title>
-      <link>https://www.chosun.com/national/national_general/2025/01/12/JPUDID6QHRAPDFHGPWSTAF6N5I/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/12/JPUDID6QHRAPDFHGPWSTAF6N5I/</guid>
-      <dc:creator>대구광역시=양인성 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 12 Jan 2025 08:35:56 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QDQOBVCYCZDE3AP4HB6TFB4JKM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;11일 오후 대구광역시 수성구 능인고등학교에서 故 심정민 소령 순직 3주기 추모식이 열린 가운데, 심 소령 흉상 앞에서 능인고 학생들과 교사들이 헌화를 한 후 묵념을 하고 있다. /양인성 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2022년 1월 11일 심정민(추서·1993년생·공사 64기) 소령이 몰던 F-5E 전투기가 경기 화성의 한 야산에 추락했다. 심 소령은 현장에서 순직했다. 그는 ‘이젝션(탈출)’을 관제탑에 두 번 외쳤고 10여 초간 비상 탈출을 할 여유가 있었지만 그러지 않았다. 추락 지점은 인근 아파트·대학·요양병원 등과 불과 100m 거리. 블랙박스엔 비상 탈출 손잡이를 당기는 소리 대신 마지막까지 조종간을 잡은 채 가쁜 호흡을 한 정황이 기록돼 있었다. 최후 순간까지 국민의 생명과 안전을 지키는 군인이자 조종사의 본분을 다했다고 공군은 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PV5VJWLUKRDPLBEHAIY56H6TTM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;故 심정민 소령의 가족사진. /독자제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 11일 심 소령 3주기 추모식이 고인의 모교 대구 능인고에서 열렸다. 유족과 주호영 국회부의장, 능인고 동문 등 100여 명이 참석했다. 주 부의장은 이날 추모사에서 “시간이 흘렀지만 그의 고귀한 의식과 희생정신은 여전히 우리 가슴 속에 남아있다”며 “그는 언제까지나 전투기 조종사로 살고 싶다는 말을 입버릇처럼 외치고, 하늘과 조국을 지킨다는 자부심으로 가득 찬 사람이었다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NSBZ4FVANNAQ7GQQMAVHEYOMQQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;故 심정민 소령(왼쪽에서 두 번째)이 공군사관학교 재학 당시 찍은 사진. /독자제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;1978년 능인고를 졸업한 주 부의장은 심 소령의 능인고 34년 선배다. 그는 “무엇보다 그는 자신의 생명보다 국민의 안전을 먼저 생각했던 사람이었다”며 “추락 위기 순간에서도 자신을 위한 선택을 하지 않고 국민의 생명과 재산을 지키기 위해 끝까지 조종간을 붙들었다”고 했다. 추모객들은 “국가와 군이 어려운 시기에 처한 요즘, 심 소령 같은 고귀한 군인이 있었음에 감사한다”고 했다.&lt;br&gt;&lt;br&gt;학교 정문 근처 교훈탑 앞에는 조종복을 입고 있는 심 소령의 흉상이 서 있었다. 심 소령 순직 1주년을 기념해 능인고에서 설치한 흉상이다. 흉상 앞에 놓인 화분에는 2022년 사고 당시 능인고 2학년 학생들이 쓴 편지가 꽂혀있었다. 편지에는 “하늘의 별이 된 영웅, 당신의 숭고한 희생으로 선물받은 삶이 당신이 꿈꾸던 삶이 되도록 살아가겠습니다”라는 내용이 적혀 있었다.&lt;br&gt;&lt;br&gt;오후 2시 능인고 홍은표 교장은 “매일 아침 등굣길에서 후배들이 심 소령의 정신과 함께하고 있다”며 “심 소령의 헌신과 희생을 영원히 기억하겠다”고 추모사를 했다. 추모식 맨 앞자리에 앉은 심 소령의 유족들은 중간중간 주먹을 쥐거나 바닥을 봤다. 아버지 심길태(68)씨는 입을 꾹 다물고 눈을 붉혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RJDI3KZWJBHFLKDV5YEHZE76LA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;11일 오후 대구광역시 수성구 능인고등학교에서 故 심정민 소령 순직 3주기 추모식에 참석한 심 소령의 능인고 후배들. /양인성 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;심 소령은 1남 2녀 중 막내다. 위로는 첫째 누나 심정희(41)씨와 둘째 누나 심은정(39)씨가 있다. 하지만 누나가 고민이 있으면 다 들어주는 오빠 같은 동생이었다. 심 소령의 작은 누나 심은정(39)씨는 “정민이가 개인적인 욕심만 생각했으면 다른 사람이 피해를 보든 말든 본능에 따라 본인이 살려고 했을 것”이라며 “정민이는 늘 맡은 바 책임을 다하려 한 아이였고, 군인으로서 가진 사명감으로 행동한 것”이라고 했다.&lt;br&gt;&lt;br&gt;이날 ‘심정민 소령 장학금’ 100만원도 모교 후배 1명에게 전달됐다. 지난해 심 소령 이름으로 장학금이 처음 마련된 뒤 두 번째 수여식이다. 장학금을 받은 문모(18)군은 사회복지사가 되는 게 꿈이라고 알려줬다. 그는 “나도 다른 누군가를 위해 생명을 내놓을 수 있을까 되돌아보는 계기가 됐다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/RSLN4GIAYZBWBDBZS7RT2Y3LP4.jpg?width=3264&amp;height=1836&amp;auth=c70f815da6a1079fbe75bcce4e8bc623502ab414dca1a55ed7688d28fcd0fca8&amp;smart=true" type="image/jpeg" height="1836" width="3264">
-        <media:credit role="author" scheme="urn:ebu"/>
-      </media:content>
-    </item>
-    <item>
-      <title>경찰, 경호처 김신 가족부장 14일 소환 통보 </title>
-      <link>https://www.chosun.com/national/national_general/2025/01/12/SOLFMUTDJ5CK5F6JT7KLTXTBWU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/12/SOLFMUTDJ5CK5F6JT7KLTXTBWU/</guid>
-      <dc:creator>구아모 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 12 Jan 2025 07:38:12 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ESYGBRMGMRLV7OKCAYAAADGXBE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령에 대한 공수처와 경찰의 2차 체포영장 집행 시도가 임박한 12일 서울 용산구 한남동 대통령 관저에서 전술복과 헬멧을 착용한 경호처 관계자들이 이동하고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰청 국가수사본부 특별수사단이 김신 대통령경호처 가족부장에 대해 오는 14일 피의자 신분으로 출석하라고 통보했다.&lt;br&gt;&lt;br&gt;경찰은 김 부장에게 특수공무집행방해 혐의로 14일 오전 10시 출석 요구서를 통보했다고 12일 밝혔다. 김 부장은 지난 3일 고위공직자범죄수사처와 경찰의 윤석열 대통령에 대한 체포영장 집행 시도를 저지한 혐의를 받는다. 김 부장은 야권에서 경호처 내부 ‘김건희 라인’으로 지목된 인물이다.&lt;br&gt;&lt;br&gt;경찰은 이와 함께 경찰 조사에 2차례 출석한 박종준 전 경호처장으로부터 휴대전화를 임의제출 받아 분석 중이라고 밝혔다. 박 전 처장은 지난 10일과 11일 이틀 연속으로 경찰에 출석해 고강도 조사를 받았다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>보이스피싱 일당 자금세탁 도운 60대 승려 …징역형</title>
-      <link>https://www.chosun.com/national/regional/2025/01/12/5CGRQOFTFRGEJE3XNMBBAGCU5Y/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/01/12/5CGRQOFTFRGEJE3XNMBBAGCU5Y/</guid>
-      <dc:creator>대구=노인호 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 12 Jan 2025 07:46:56 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5JJGGBZ5LRWPRPAVRRFWFFUQOU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대구지법./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;종교단체 명의 통장을 만들어 보이스피싱 범죄집단의 자금세탁을 도운 승려에게 징역형이 선고됐다. &lt;br&gt;&lt;br&gt;대구지법 형사2단독 김석수 부장판사는 범죄수익은닉규제법 위반 협의로 기소된 60대 A씨에게 징역 2년을 선고했다고 12일 밝혔다. 판결문에 따르면, A씨는 2021년 7월 대구에서 보이스피싱 조직원들로부터 “불법자금을 세탁하는 작업이 있다. 계좌로 입금되는 돈을 찾아 전달하면 대가를 주겠다”는 제안을 받은 후 종교 단체 명의로 통장을 개설해 전달했으며 이후 보이스피싱 조직원들은 이 통장을 이용해 8000만원이 넘는 범죄수익금을 거래했다. 또 A씨는 지인을 통해 이 통장에서 2000만원을 현금으로 찾아 보이스피싱 일당에게 전달한 것으로 드러났다. &lt;br&gt;&lt;br&gt;앞서 A씨는 사기죄, 강간죄 혐의로 징역형을 선고받아 현재 구치소에 수감 중인 것으로 알려졌다.&lt;br&gt;&lt;br&gt;재판부는 “피고인이 지인을 범행에 끌어들인 점, 강간죄 등의 경합범 관계에 있는 점 등을 고려했다”고 양형 이유를 설명했다. &lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>전문가도 “정말 드문 일”...블랙박스서 사라진 마지막 4분, 왜?</title>
       <link>https://www.chosun.com/national/transport-environment/2025/01/12/SWEYTVYU6RG77HNMFDKI3GS4DU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/01/12/SWEYTVYU6RG77HNMFDKI3GS4DU/</guid>
@@ -738,33 +770,6 @@
       <description/>
       <pubDate>Sun, 12 Jan 2025 06:11:48 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PW43LZA2LFO35KAO5C5N32FCGA.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;눈으로 덮힌 울릉도./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;코로나 특수가 사라지면서 경북 울릉도를 찾은 관광객이 2년 연속 줄어들었다. &lt;br&gt;&lt;br&gt;12일 경북 울릉군에 따르면 지난해 울릉을 찾은 관광객은 38만522명으로, 2023년(40만8204명)보다 6.78% 감소했다. 정점을 기록했던 2022년(46만1375명)과 비교해서는 18%나 감소했다. 울릉도를 찾는 관광객이 줄면서 독도에 상륙했거나 배로 돌아본 독도 관광객도 2022년 28만312명, 2023년 23만2380명, 2024년 20만594명으로 줄어들고 있다. . 울릉군을 찾은 관광객은 2016년 33만2150명으로 30만명대로 올라선 뒤 코로나 발생한 이후인 2020년 17만6151명으로 떨어졌다. 이후 2021년 27만1901명으로 회복세를 기록하다 2022년 정점에 달했다. &lt;br&gt;&lt;br&gt;이처럼 울릉군 관광객이 감소한 이유는 코로나 이후 국외여행이 늘면서 국내 관광객 전체 수가 줄었기 때문으로 울릉군은 분석했다. &lt;br&gt;&lt;br&gt;울릉군 관계자는 “코로나 이후 일상회복으로 국내 여행지를 찾는 관광객이 줄면서 울릉도도 그 영향을 받고 있는 것 같다”며 “울릉공항이 개항하면 관광객이 다시 늘어날 것으로 기대하고 있다”고 말했다. &lt;br&gt;&lt;br&gt;한편 2020년 11월 공사를 시작한 울릉공항은 현재 공사진행률 60%로, 2028년 상반기 개항 예정이다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>흉기 들고 반윤 집회 난입한 50대 남성 현행범 체포</title>
-      <link>https://www.chosun.com/national/national_general/2025/01/12/FFDLVDTZYJBSBK764ND5XZXWUA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/12/FFDLVDTZYJBSBK764ND5XZXWUA/</guid>
-      <dc:creator>고유찬 기자, 김나연 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 12 Jan 2025 04:59:59 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/X4WX55AXSBGOJAEPHUXGIU3CIA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 마크. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한남동 대통령 관저 인근에서 흉기를 들고 집회 현장에 난입한 남성이 경찰에 현행범 체포됐다.&lt;br&gt;&lt;br&gt;12일 서울 용산경찰서는 특수협박 혐의를 받는 50대 남성 A씨를 현행범 체포했다고 이날 밝혔다.&lt;br&gt;&lt;br&gt;경찰은 이날 오후 12시 25분쯤 서울 용산구 한남동 대통령 관저 인근 집회 현장에서 “흉기를 든 남성이 있다”는 내용의 신고를 접수했다.&lt;br&gt;&lt;br&gt;경찰 등에 따르면, A씨는 관저 앞 반윤 집회 현장에 난입해 반윤 시위대에 시비를 걸며 도발하던 중, 외투 주머니 있던 커터칼을 꺼내 협박한 혐의를 받는다.&lt;br&gt;&lt;br&gt;경찰은 A씨를 상대로 자세한 사건 경위를 조사 중이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SG5PHSR6OZI2ZF35X7K3UVCMJY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;10일 오후 서울 용산구 한남동 대통령 관저 인근에서 열린 윤석열 대통령 체포 촉구 집회 참가자 앞으로 윤 대통령 지지자가 지나가고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한편, 경찰은 지난 4일 행진 도중 경찰에게 부상을 입힌 전국민주노동조합총연맹(민노총) 소속 B씨를 입건했다.&lt;br&gt;&lt;br&gt;12일 서울경찰청은 지난 4일 오후 12시 30분쯤 서울 용산구 대통령 관저 앞 시위 행진 중 경찰을 폭행한 혐의를 받는 민노총 조합원 1명을 공무집행방해 혐의로 입건했다고 밝혔다.&lt;br&gt;&lt;br&gt;당시 민노총은 서울 용산구 한남대로 일대에서 윤석열 대통령 체포 촉구 집회를 열고 양방향 전(全)차로를 점거한 뒤 관저 방향으로 행진했다.&lt;br&gt;&lt;br&gt;경찰이 행진을 막아서면서 경찰과 집회 참가자들 간 몸싸움이 벌어졌는데, 이 과정에서 한 민노총 조합원이 경찰의 무전기를 빼앗아 던지면서 경찰이 부상을 입었다.&lt;br&gt;&lt;br&gt;부상당한 경찰은 이마에 3~4cm 가량 상처를 입고 봉합 수술을 받은 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>제주항공 참사 유족 “우리는 나랏돈 축내는 벌레 아냐... 악성 댓글 너무나 큰 상처”</title>
-      <link>https://www.chosun.com/national/national_general/2025/01/12/RNRSWPPXPNDMJLUOHDSTW6TQRQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/12/RNRSWPPXPNDMJLUOHDSTW6TQRQ/</guid>
-      <dc:creator>장윤 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 12 Jan 2025 04:56:18 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VQHPVJ2TCZGDBN7W5JJHZ6VMKQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 29일 제주항공 참사로 사망한 오인경·박승호씨 부부의 유골함. 아들 박근우씨에 따르면 오씨의 신원은 지난 30일, 박씨의 신원은 지난 31일 확인됐다./독자 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부모를 제주항공 참사로 잃은 유족이 “‘사고 보상금을 노린다’는 악성 댓글에 유족들은 너무 큰 상처를 받고 있다”며 “사고 보상금이 들어온다 한들 부모님 목숨 값인데 펑펑 쓰고 싶은 마음이나 들겠느냐”는 글을 소셜미디어에 올렸다.&lt;br&gt;&lt;br&gt;지난 11일 밤 대학생 박근우(23·광주광역시)씨는 페이스북에 “저는 이번 제주항공 참사로 사랑하는 어머니와 아버지를 잃었다”고 썼다. 지난달 29일 태국 여행을 마치고 돌아오기로 예정된 부모님을 기다리던 박씨는 “‘새가 비행기 날개에 끼어 착륙을 못한다, 유언해야 하는 거 아니냐’는 어머니의 메시지에도 설마하고 있었다”며 “그러던 중 날아든 청천벽력같은 사고 소식에 광주광역시 광천동에서 무안공항까지 30분만에 달려왔다”고 했다. 박씨는 “무안광주고속도로에는 미친 듯이 엑셀을 밟는 사람들이 나 말고도 더 있었다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JZ6RWHAKMFGLVEGK6BSPSSJTCM.png"&gt;&lt;figcaption&gt;&lt;small&gt;박근우씨와 어머니 오인경씨가 마지막으로 나눈 카카오톡 메시지./독자 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;박씨는 “하루아침에 고아가 됐지만, 아직 부모님의 죽음을 제대로 슬퍼할 틈도 없었다”고 했다. 박씨는 “지난 10일까지만 해도 부모님 사업을 정리하느라 세무사와 통화하고 세금계산서를 끊고 폐업준비를 알아봐야 했다”며 “광주 안에서만 차로 100km를 이동했다”고 한다. 박씨는 “앞으로의 걱정에 지금 깔려 죽어버릴 것 같고 당장 어디로든 도망치고 싶다”고 한다.&lt;br&gt;&lt;br&gt;박씨는 “그런 중에 ‘정부가 제주항공 참사 유족에 긴급생계비 300만원을 지급했다’는 기사가 보도되자 유족을 향한 악성댓글들이 달렸다”며 “설령 사고 보상금이 들어온다 한들 부모님 목숨 값인데 펑펑 쓰고 싶은 마음이나 들겠느냐”고 했다. 박씨는 “우리는 나랏돈을 축내는 벌레가 아니며, 돈 벌자고 무안 공항에 앉아있는 게 아니다”라고 했다.&lt;br&gt;&lt;br&gt;박씨는 “우리는 이번 사고가 잊혀 소중한 사람들의 죽음이 흐지부지 억울한 죽음이 될까봐 무안 공항에 나와있다”고 썼다. 박씨는 “사고 원인이 뭔지 아직 밝혀지지 않았다”며 “정상적인 정비가 이루어지지 않았다면 제주항공의 잘못일 것이고, 새를 제 때에 쫓지 않고 방치했다면 무안공항의 잘못일 것이며 로컬라이저를 콘크리트 덩어리 위에 설치한 것은 항공청과 공항공사의 잘못일 것”이라고 했다. 박씨는 “앞으로 이 여러 주체들 간의 책임 떠넘기기와 정치권의 숟가락 얹기가 이어질 것”이라며 “일련의 과정에서 유가족들은 고통받고 또 고통받을 것”이라고 했다. 박씨는 “이 모든 과정이 마무리 될 때까지 제주항공 참사를 잊지 말아달라”고 썼다.&lt;br&gt;&lt;br&gt;한편 지난달 30일에 어머니 31일에 아버지의 시신을 확인했다는 박씨는 “수많은 분들의 도움 덕에 부모님의 시신을 잘 찾고 모실 수 있었다”고 했다. 박씨는 “다른 사망자들의 신원이 확인될 때마다 ‘우리 부모님은 얼마나 숯검정이 됐기에, 얼마나 갈기갈기 찢어졌기에 시신 확인이 이렇게 오래 걸리나’ 싶어 미칠 것 같았다”고 한다. 박씨는 “소방관분들, 경찰관분들, 시·도·군 공무원 분들, 전국 각지에서 달려오신 수많은 자원봉사자분들, 유가족협의회 대표단 분들 덕에 부모님을 모실 수 있었고 이 모든 분들께는 앞으로도 빚을 갚아 나가고 싶다”고 한다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>교사노조 위원장 89년생 이보미 당선...3대 교원단체 수장 모두 최연소</title>
-      <link>https://www.chosun.com/national/education/2025/01/12/Y6R3TPIQGNBFJFC3TB3WLPEECA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2025/01/12/Y6R3TPIQGNBFJFC3TB3WLPEECA/</guid>
-      <dc:creator>김민기 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 12 Jan 2025 04:59:24 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TSMYNHNQ75KXLD3SX7A55B4YQU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;11일 열린 교사노동조합연맹 제3대 위원장 보궐선거 개표 및 당선증 교부식에서 당선된 이보미 위원장(오른쪽)·장세린 사무총장 후보가 꽃다발을 들고 포즈를 취하고 있다./교사노동조합연맹&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;교사노동조합연맹(교사노조)은 제3대 위원장 선거 결과 이보미(36) 후보가 당선됐다고 12일 밝혔다. 교사노조 역대 최초 30대 위원장이다.&lt;br&gt;&lt;br&gt;교사노조에 따르면, 전날 진행된 교사노조 제3대 위원장 보궐 선거에서 이보미·장세린(사무총장) 후보가 52.25% 지지를 얻어 박소영·정혜영 후보를 이겼다. 이들의 임기는 내년 1월 31일까지다.&lt;br&gt;&lt;br&gt;대구교사노조 위원장인 이 당선인은 1989년생이다. 교사노조 역대 최연소 위원장이 된다. 이 당선인은 “30대 초등교사 출신 위원장으로서 교사노조를 잘 이끌겠다”고 당선 소감을 밝혔다. 사무총장으로 당선된 장세린씨는 1994년생으로, 역시 역대 최연소 사무총장이다.&lt;br&gt;&lt;br&gt;이로써 국내 주요 교원 단체들이 나란히 30대 수장을 배출했다. 강주호 한국교원단체총연합회(교총) 회장은 1986년생으로 30대이며, 1985년생인 박영환 전국교직원노동조합(전교조) 위원장은 30대이던 작년 당선됐다. 교원 단체에서 이처럼 세대교체 바람이 부는 건 재작년 ‘서이초 교사 사망’ 이후 젊은 교사들의 변화에 대한 열망이 반영된 것이란 분석도 나온다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>尹 측 “민주당의 ‘카톡 검열’ 국민 입 틀어막겠단 노골적 협박”</title>
