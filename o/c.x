@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>경기 고양에서 빙판길 연쇄 추돌 잇따라...도로 통제</title>
+      <link>https://www.chosun.com/national/incident/2025/01/14/GSTNMDKBW5FH5P4OZCUSFQX2H4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/01/14/GSTNMDKBW5FH5P4OZCUSFQX2H4/</guid>
+      <dc:creator>고양=김현수 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 13 Jan 2025 22:39:10 +0000</pubDate>
+      <content:encoded>&lt;br/&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZIYVHWN5FFAHXNN6TDT2F2MQWI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;14일 오전 5시 16분쯤 경기 고양시 일산서구 자유로 구산IC 인 파주 방향 도로에서 다중 추돌사고가 발생해 도로가 통제되고 있다. /경기도북부소방재난본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;14일 오전 5시 16분쯤 경기 고양시 일산서구 자유로 구산IC 인 파주 방향 도로에서 다중 추돌사고가 발생했다.&lt;br&gt;&lt;br&gt;경찰과 소방당국에 따르면 도로결빙으로 6중 추돌사고 4건, 3중 추돌 1건, 2중 추돌 6건, 단독 사고 5건이 연쇄적으로 일어나며 총 44대가 빙판길에 미끄러져 사고가 났다. 이 사고로 화물차 운전자 40대 남성이 경상을 입고, 사고 지점 후방 3km가량 정체가 빚어졌다.&lt;br&gt;&lt;br&gt;경찰과 소방 당국은 사고 수습을 위해 구산IC부터 이산포IC까지 도로 전체를 전면 통제하고 정리 작업을 벌이고 있다.&lt;br&gt;&lt;br&gt;이어 이날 오전 5시 50분쯤 고양 서울문산고속도로에서도 다중 추돌사고가 발생해 9명이 다쳐 병원으로 옮겨졌다. 사고 차량은 43대로 확인됐다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>흥신소 “졸업앨범 50만원에 급구”… 어디 쓰려고?</title>
       <link>https://www.chosun.com/national/national_general/2025/01/14/6HPYD2BJJJG4ZDOPDUB42E5MDM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/14/6HPYD2BJJJG4ZDOPDUB42E5MDM/</guid>
@@ -698,15 +707,6 @@
       <description/>
       <pubDate>Sun, 12 Jan 2025 04:59:59 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/X4WX55AXSBGOJAEPHUXGIU3CIA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 마크. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한남동 대통령 관저 인근에서 흉기를 들고 집회 현장에 난입한 남성이 경찰에 현행범 체포됐다.&lt;br&gt;&lt;br&gt;12일 서울 용산경찰서는 특수협박 혐의를 받는 50대 남성 A씨를 현행범 체포했다고 밝혔다.&lt;br&gt;&lt;br&gt;경찰은 이날 오후 12시 25분쯤 서울 용산구 한남동 대통령 관저 인근 집회 현장에서 “흉기를 든 남성이 있다”는 취지의 신고를 연달아 2건 접수했다.&lt;br&gt;&lt;br&gt;경찰에 따르면 A씨는 이날 오후 12시 25분쯤 용산구 한남동 대통령 관저 인근 집회 현장에서 보수 집회 참가자들이 더불어민주당 이재명 대표를 욕하는 것에 화가 나 자신의 외투 주머니에 있던 커터칼을 꺼내 허공에 휘두른 혐의를 받는다.&lt;br&gt;&lt;br&gt;A씨는 촛불승리전환행동(촛불행동)이 주최한 윤 대통령 탄핵 찬성 집회 참가자로 전해졌다.&lt;br&gt;&lt;br&gt;경찰은 A씨를 상대로 자세한 사건 경위를 조사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>교사노조 위원장 89년생 이보미 당선...3대 교원단체 수장 모두 최연소</title>
-      <link>https://www.chosun.com/national/education/2025/01/12/Y6R3TPIQGNBFJFC3TB3WLPEECA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2025/01/12/Y6R3TPIQGNBFJFC3TB3WLPEECA/</guid>
-      <dc:creator>김민기 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 12 Jan 2025 04:59:24 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TSMYNHNQ75KXLD3SX7A55B4YQU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;11일 열린 교사노동조합연맹 제3대 위원장 보궐선거 개표 및 당선증 교부식에서 당선된 이보미 위원장(오른쪽)·장세린 사무총장 후보가 꽃다발을 들고 포즈를 취하고 있다./교사노동조합연맹&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;교사노동조합연맹(교사노조)은 새 위원장으로 1989년생 이보미(36) 대구감천초등학교 교사가 당선됐다고 12일 밝혔다. 한국교원단체총연합회(교총), 전국교직원노동조합(전교조)에 이어 교사노조도 새 수장으로 30대 젊은 교사가 뽑혔다.&lt;br&gt;&lt;br&gt;전날 열린 보궐선거 결과 이보미·장세린(사무총장) 후보 조는 52.25%로 과반 지지를 얻어 당선됐다. 이들의 임기는 내년 1월까지다. 이 당선인은 2012년 첫 교편을 잡은 젊은 초등교사다. 직전 김용서 위원장은 1964년생이다.&lt;br&gt;&lt;br&gt;2017년 창립된 교사노조는 전교조에서 이탈한 이들이 결성한 노조로, 교총, 전교조와 더불어 3대 교원 단체다. 강주호 교총 회장은 1986년생으로 30대이며, 1985년생인 박영환 전교조 위원장도 30대이던 작년 당선됐다. 교원 단체·노조의 세대교체 바람은 재작년 ‘서이초 교사 사망’ 이후 젊은 교사들의 변화에 대한 열망이 반영된 것이란 분석이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>‘혈액암’ 조지호 경찰청장, 법원에 보석 청구</title>
