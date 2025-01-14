@@ -13,6 +13,96 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>[속보] 헌재, 尹측 정계선 재판관 기피 신청 기각</title>
+      <link>https://www.chosun.com/national/court_law/2025/01/14/XIMVSV55BJBQ3EH2AKLZTVFD5E/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/01/14/XIMVSV55BJBQ3EH2AKLZTVFD5E/</guid>
+      <dc:creator>박혜연 기자, 방극렬 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 14 Jan 2025 05:01:53 +0000</pubDate>
+      <content:encoded>헌법재판소가 윤석열 대통령 측이 신청한 헌법재판관 기피 신청을 14일 기각했다. 또한 헌재의 일괄 기일 지정이 문제가 없다고 판단했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ICYFOSYA6TOX7ARQVWYVIWPY6Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 종로구 헌법재판소./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;헌재는 14일 오후 윤 대통령의 탄핵심판 첫 변론 기일을 열고 이 같이 밝혔다. 이는 이날 오전 진행한 재판관 회의에 따른 것이다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>경호처 ‘강경파’ 김신 가족부장, 경찰 1차 소환 불출석</title>
+      <link>https://www.chosun.com/national/national_general/2025/01/14/5U7IEFGCTZA4HILSJAKB3AHYL4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/14/5U7IEFGCTZA4HILSJAKB3AHYL4/</guid>
+      <dc:creator>구아모 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 14 Jan 2025 05:10:23 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/H2JIFMVVGVJPZCCBOBSB5G5QH4.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령에 대한 고위공직자범죄수사처(공수처)의 2차 체포영장 집행이 임박한 가운데 14일 서울 용산구 한남동 대통령 관저 내에서 경비 인원이 순찰을 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 대통령 체포영장 집행을 방해한 혐의를 받는 김신 대통령경호처 가족부장이 경찰의 1차 출석 요구에 응하지 않았다.&lt;br&gt;&lt;br&gt;경찰청 국가수사본부 비상계엄 특별수사단은 14일 오후 “김 부장이 아직 출석하지 않았다”고 밝혔다. 경찰은 지난 12일 김 부장에게 이날 오전 10시까지 특수공무집행 방해 혐의 조사를 위해 피의자 신분으로 출석하라고 요구한 상태다.&lt;br&gt;&lt;br&gt;김 부장은 경호처 내에서 김성훈 경호차장과 이광우 경호본부장과 함께 ‘강경파’로 분류된다. 김 차장, 이 본부장은 경찰의 세 차례 출석 요구에 응하지 않았다. 경찰은 김 차장과 이 본부장의 신병을 확보한다는 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[속보] 尹 탄핵심판 첫 변론 4분 만에 종료…"피청구인 불출석"</title>
+      <link>https://www.chosun.com/national/court_law/2025/01/14/DTUXSX52CVG2VHR6NI3CFDAZCU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/01/14/DTUXSX52CVG2VHR6NI3CFDAZCU/</guid>
+      <dc:creator>방극렬 기자, 박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 14 Jan 2025 05:08:39 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QNOX6JD7SNPUBAILRXAXNBKC24.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;14일 서울 종로구 헌법재판소의 모습./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>父 사망 후 새엄마에 넘어간 건물…자식들, 소유권 주장 못하는 이유는?</title>
+      <link>https://www.chosun.com/national/national_general/2025/01/14/4L3K5RHORNCJ7EORSL66N5AEKY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/14/4L3K5RHORNCJ7EORSL66N5AEKY/</guid>
+      <dc:creator>김가연 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 14 Jan 2025 05:02:32 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HZPGAOQ5OBC6BK3MKBB4G5EVYI.png"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=조선디자인랩 정다운&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;어렸을 때 가정을 떠난 아버지가 남긴 부동산에 대해 자녀들이 소유권을 주장할 수 있을까? 최근 이러한 고민을 하고 있다는 A씨의 사연이 13일 YTN 라디오 ‘조인섭 변호사의 상담소’를 통해 전해졌다.&lt;br&gt;&lt;br&gt;A씨에 따르면, A씨가 어렸을 때 아버지는 여러 번 외도를 했다. 어머니는 남편의 외도로 힘들어하다가 이혼했고, A씨 남매를 홀로 힘들게 키웠다. A씨는 부모님의 이혼 후 아버지와 연락을 하지 않았으며, 어머니가 암으로 돌아가신 후에도 아버지에게 알리지 못했다고 말했다.&lt;br&gt;&lt;br&gt;A씨는 한참 세월이 흐른 뒤, 친척으로부터 아버지의 소식을 들었다고 한다. 여든이 넘은 아버지는 건강이 좋지 않았고, 그에겐 15년 재혼해 살고 있는 아내가 있다는 얘기였다. 얼마 뒤 A씨는 ‘새어머니’로부터 “아버지가 A씨 남매를 보고싶어 하는데 와줄 수 있느냐”는 연락을 받았다.&lt;br&gt;&lt;br&gt;A씨는 새어머니가 좋은 분으로 느껴졌고, 아버지를 만날 수 있는 마지막 기회인 것 같아 찾아갔다고 했다. 그때 새어머니는 A씨 남매에게 “아버지가 소유한 30억원 상당의 상가가 있다”며 “나는 욕심이 없고 훗날 알아서 챙겨 주겠다”라고 얘기했다고 한다.&lt;br&gt;&lt;br&gt;A씨는 “아버지가 돌아가신 뒤 상가 등기부를 열람했다”면서 “‘공유’가 아닌 ‘합유’ 등기로 되어 있었다”라고 했다. 그러면서 “저와 오빠가 상속인에 해당하니 그 여자분(새어머니)과 함께 상가를 소유하는 것이 맞느냐”라며 법률 조언을 구했다.&lt;br&gt;&lt;br&gt;이에 대해 임경미 법무법인 신세계로 변호사는 “A씨는 아버지가 사망했다고 해도 상가 자체에 대한 소유를 주장할 수는 없다”고 판단했다.&lt;br&gt;&lt;br&gt;임 변호사가 이렇게 판단한 이유는 상가가 ‘합유 등기’로 돼 있기 때문이다. 임 변호사는 “일반적인 공유등기에서는 지분의 해당자가 사망하면 상속인들이 자연스럽게 사망자의 지분을 소유하게 된다”라며 “하지만 합유 등기의 경우 2인이 합유의 형태로 소유하고 있다가 1인이 사망하면 그 사망자의 소유 부분은 나머지 1인의 단독 소유가 된다”고 설명했다. 아버지가 사망했으므로 건물이 새어머니 단독 소유가 됐다는 설명이다.&lt;br&gt;&lt;br&gt;다만 임 변호사는 “상가에 대해서는 새어머니가 단독으로 등기할 수 있지만, 아버지의 몫에 대해서는 A씨 남매에게 금전으로 정산해줘야 한다”라고 했다.&lt;br&gt;&lt;br&gt;그러면서 “새어머니도 아버지 사망 당시 혼인한 배우자이기 때문에 자신의 상속분을 주장할 수 있다”라며 “결국 새어머니는 시세가 오르는 상가를 완전히 소유하게 되고, 아버지 정산금에 대해서도 자신의 상속분을 주장할 수 있게 되는 것”이라고 덧붙였다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“6초 만에 두달반치 월급”…1억뷰 찍은 펀치 영상, 수익 보니</title>
+      <link>https://www.chosun.com/national/national_general/2025/01/14/WPUIIDYCSFGX3DIWZJIQVU7FKA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/14/WPUIIDYCSFGX3DIWZJIQVU7FKA/</guid>
+      <dc:creator>김자아 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 14 Jan 2025 04:34:04 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VWYWQH7D5BHCDHSOHSTN36BLDE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;보디빌더 A씨가 인스타그램에서 1억회 이상 조회된 영상(왼쪽)으로 얻은 수익을 공개했다./인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;1억회 이상의 조회수를 기록한 릴스(인스타그램 숏폼 영상)의 수익이 공개돼 화제다.&lt;br&gt;&lt;br&gt;14일 여러 온라인커뮤니티에는 ‘인스타그램 릴스 1억뷰 수익’이라는 제목으로 최근 한 보디빌더 인플루언서 A씨가 공개한 자료가 공유됐다.&lt;br&gt;&lt;br&gt;앞서 구독자 약 14만명을 보유한 A씨는 지난해 11월10일 인스타그램에 “남자 회식 후 국룰”이라며 오락실 펀치머신에 주먹을 날리는 영상을 올렸다.&lt;br&gt;&lt;br&gt;영상 속 남성은 운동으로 잘 단련된 팔을 빙빙 돌려 풀더니 스텝을 밟으며 펀치머신 쪽으로 다가갔다. “쉐이”라는 짧은 기합을 넣은 그는 단 두 발자국 스텝을 끝으로 힘껏 펀치머신을 때렸다. 펀치머신 점수판은 끝없이 올라갔지만 끝내 점수는 공개되지 않았다.&lt;br&gt;&lt;br&gt;약 6초 분량의 이 짧은 영상은 인스타그램에서 1억회 이상 조회되며 인기를 끌었다. 네티즌들은 “꽉 찬 근육, 펀치 전 디딤 발, 펀치 후 서 있는 자세, 쉐이라는 기합까지 중독 요소가 가득하다” “움직임이 철권(격투 게임) 캐릭터 같다” “점수 몇점 나왔는지 궁금하다” 등의 반응을 보였다.&lt;br&gt;&lt;br&gt;이후 A씨는 지난 12일 “1억뷰 펀치 영상으로 얼마를 벌었을까”의 영상을 통해 앞선 영상에서 공개하지 않은 펀치 점수와 인스타그램 측으로 부터 입금된 결제대금 내역을 공개했다. 먼저 점수판이 멈춘 숫자는 9447점이었다.&lt;br&gt;&lt;br&gt;이어 공개된 입금 내역에 따르면 A씨는 지난해 12월9일 531.61달러를 받은 것을 시작으로 같은달 20일 2966.82 달러, 이달 7일에는 1189.34달러의 대금을 지급 받아 지금까지 총 4687.77달러(약 685만원)를 벌었다. 결제대금은 모두 모회사인 메타의 대표 소셜미디어(SNS)인 페이스북 이름으로 지급됐다.&lt;br&gt;&lt;br&gt;네티즌들은 “내 두달 반치 월급이다” “6초 영상 하나에 700만원이면 장난 아니다” “릴스는 광고도 없는데 순수 조회수 만으로도 돈이 되는구나” 등의 반응을 보이고 있다.&lt;br&gt;&lt;br&gt;인스타그램은 사용자들이 올린 콘텐츠에 대한 감사 표시로 수익금을 지급하는 ‘보너스’ 제도를 운영하고 있다. 릴스 뿐 아니라 모든 사진 게시물도 대상이 된다.&lt;br&gt;&lt;br&gt;다만 아직 시범 운영 단계라 한국, 미국, 일본에 거주하는 일부 사용자만 보너스를 받을 수 있다. 보너스를 신청할 수 있는 자격 조건은 개인 계정이 아닌 프로페셔널(비지니스 또는 크리에이터) 계정이어야 하며, 인스타그램의 파트너 수익화 정책을 준수해야 한다.&lt;br&gt;&lt;br&gt;정확한 수익금 정산 기준은 공개하지 않았으나, 인스타그램 측은 “재생 회수와 게시물 조회수가 높을 수록 더 많은 수익을 올릴 수 있다”고 안내하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>손정은 前 MBC 아나, 5년 전 이혼 고백… “항상 밝은 척, 힘들었다”</title>
+      <link>https://www.chosun.com/national/national_general/2025/01/14/QYFH3XXK7NADRDCXPI5NASM2UU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/14/QYFH3XXK7NADRDCXPI5NASM2UU/</guid>
+      <dc:creator>박선민 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 14 Jan 2025 03:11:10 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WGTB2OXZ3WS3NJMD4HBWRXQ6O4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;손정은 아나운서. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;MBC 아나운서 출신 방송인 손정은(44)이 5년 전 이혼한 사실을 고백했다.&lt;br&gt;&lt;br&gt;손정은은 13일 방송된 KBS Joy ‘무엇이든 물어보살’에 출연해 “프리를 선언한 지 3년이 됐다”며 “6년 전에 아버지가 돌아가셨고, 그다음 해에 이혼하게 됐다”고 밝혔다. 그러면서 “회사를 매일 다니며 방송하는데, 항상 웃으면서 밝은 척하다 보니 정신적으로 힘들어지더라. 마음이 공허하기도 했다”고 했다.&lt;br&gt;&lt;br&gt;프리랜서를 선택한 이유에 대해서는 “이제는 솔직한 본모습을 보여주고 싶어서”라고 했다.&lt;br&gt;&lt;br&gt;앞서 2006년 MBC 26기 공채 아나운서로 입사한 손정은은 2021년 15년 만에 퇴사했다. 1년 휴직을 마치고 복직한 뒤 사직서를 제출한 것으로 알려졌다. 당시 손정은은 “새로운 환경에서 새롭게 도전해 보고 싶다는 마음이 들었다”며 “향후 무슨 일을 할지는 구체적으로 정해지지 않았다. 여러 방면을 고민해 볼 것”이라고 했다.&lt;br&gt;&lt;br&gt;손정은은 이날 방송에서 MBC에서 근무했던 시절을 떠올리며 “거의 뉴스 앵커만 했다. 아주 좋았지만, 남들이 봤을 때 이미지는 틀에 박히고 딱딱하고 차갑고 냉정한 느낌이었다”고 했다. 그러면서 “저는 밝고 긍정적이고 허당이기도 하다”면서 아나운서국 후배들이 뽑은 ‘방송과 실제가 다른 사람 1위’라고 밝혔다.&lt;br&gt;&lt;br&gt;손정은은 휴직 기간을 언급하며 “쉬는 동안 저에 대해 고민했다. 1년 정도 지나니까 조금은 마음이 치유되면서 ‘MBC를 관둬야겠다’ 용기가 넘치더라”라고 했다. 이어 “그때도 대책은 없었다. 선배들이 다 말렸다. ‘그 이미지로 나가면 할 수 있는 게 없다’는 거다”라며 “그런데 제가 ‘새로운 길을 찾아보겠습니다’라며 그만뒀다”라고 했다.&lt;br&gt;&lt;br&gt;아울러 “그렇게 프리 선언을 하고 3년 동안은 스스로 성장을 한 시간이었다”며 “이제는 세상에 뛰어들어서 뭐든 다 할 수 있다는 생각이 들었다”고 했다.&lt;br&gt;&lt;br&gt;한편 손정은은 서강대 정치외교학과 및 신문방송학과 졸업 후 2006년 MBC 26기 공채 아나운서로 입사했다. ‘PD수첩’ ‘우리말 나들이’ ‘MBC 뉴스투데이’ ‘뉴스데스크’ ‘탐나는 TV’ 등 MBC의 주요 보도, 시사·교양 프로그램의 앵커 및 진행을 맡으며 간판 아나운서로 활약했다. 2011년 한 살 연상의 사업가와 결혼했었다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>방산업체 대체복무하던 20대, 필로폰 투약 혐의로 구속</title>
+      <link>https://www.chosun.com/national/national_general/2025/01/14/2PBCMNPQFFDIFHYNATUAIGSOGI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/14/2PBCMNPQFFDIFHYNATUAIGSOGI/</guid>
+      <dc:creator>장윤 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 14 Jan 2025 04:20:27 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QIJBW5LQSQ5FA2Z6DEHWOO4E2I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 노원경찰서./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;방위산업체에서 군 대체 복무 중인 남성이 마약을 하다 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;14일 서울 노원경찰서는 20대 남성 A씨를 마약 투약 혐의로 지난 11일 서울 중랑구에서 긴급체포했다고 밝혔다. 경찰에 따르면 A씨는 필로폰을 투약했다.&lt;br&gt;&lt;br&gt;A씨는 구속 상태로 수사 받고 있으며 현재까지 공범은 없는 것으로 조사됐다.&lt;br&gt;&lt;br&gt;경찰은 자세한 범죄 경위 등에 대해 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>尹측 “영장 집행 막는 경호처 권한 행사 정당... 침입 땐 모두 처벌 대상”</title>
+      <link>https://www.chosun.com/national/court_law/2025/01/14/OOCBKLMHAVH75D3KXMSVIBKNAE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/01/14/OOCBKLMHAVH75D3KXMSVIBKNAE/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 14 Jan 2025 04:10:40 +0000</pubDate>
+      <content:encoded>윤석열 대통령 변호인단은 14일 언론 공지를 통해 “체포영장 집행을 막는 대통령경호처의 권한 행사는 정당하다”는 입장을 밝혔다. 그러면서 “불법‧위헌 영장으로 관저에 침입하는 경찰들은 모두 특수공무집행방해 및 군사시설보호법 위반으로 처벌의 대상이 된다”고 주장했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/E4PE4H4K2NLUDMC7LXF7EY2E2Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령에 대한 체포영장 2차 집행이 임박했다는 전망이 나오는 가운데 14일 오전 서울 용산구 한남동 대통령 관저에서 경호처 소속으로 추정되는 직원이 경내를 순찰하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;변호인단은 “대통령경호법 제5조는 경호업무를 하며 검문·검색, 출입통제, 질서유지 등 위해 방지에 필요한 활동을 할 수 있도록 규정하며, 동법 제9조는 누구든지 허가를 득하지 않고 군사기지 및 군사시설에 출입하는 것을 금지하고 있다”며 이 같은 입장을 밝혔다. 대통령 관저는 군사시설 보호구역에 해당하는데, 법에 의해 책임자의 허가를 받지 않고 출입할 수 없다는 것이다.&lt;br&gt;&lt;br&gt;체포영장 집행을 위해 관저에 진입하는 경찰들을 경호처 직원들이 체포할 수 있다는 주장도 변호인단은 제시했다. 대통령경호법 17조에 따라 경호처 직원들은 업무 수행 중 범죄에 대해 사법경찰관리 직무를 수행할 수 있다는 것이다. 변호인단은 “천대엽 법원행정처장은 지난 13일 국회 법제사법위원회 전체회의에 출석해 ‘책임자의 승낙 없이 군사 비밀 장소에 강제로 들어가는 것이 적법한가’라는 유상범 의원의 질의에 ‘적법하지 않을 수 있다’고 답변했다. 영장 집행을 막는 시도에 대해선 ‘적법하다는 해석이 가능하다’고 답했다”며 “공무원 자격 상실 및 재임용 제한, 공무원 연금 수령 제한 등 불이익을 면하지 못할 것이라는 점을 경고한다”고 했다.&lt;br&gt;&lt;br&gt;변호인단은 “우리는 다수의 경찰이 어쩔 수 없는 상황에 내몰려 원하지 않는 대통령 체포 작전에 투입되었음을 알고 있다”며 “명령을 거부해야 할 쪽은 정당한 업무를 수행하는 경호처 직원들이 아니라, 불법적 명령을 받은 경찰관들”이라고 했다. 그러면서 “경찰관 여러분이야말로 명령을 거부하더라도 어떠한 피해를 받지 않을 것이며, 대통령과 국민이 여러분을 끝까지 보호할 것임을 분명히 말씀드린다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>검찰, ‘새만금 태양광 비리’ 관련 군산시청 추가 압수수색</title>
+      <link>https://www.chosun.com/national/national_general/2025/01/14/IBYNVNV3DRHFHI5FABWOWVZW5A/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/14/IBYNVNV3DRHFHI5FABWOWVZW5A/</guid>
+      <dc:creator>고유찬 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 14 Jan 2025 03:52:30 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/D64YJF23UM2GO2EMQHRMY6EQDU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;군산시청 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;새만금 태양광 발전사업 비리 의혹을 수사 중인 검찰이 군산시청에 대한 추가 압수수색에 나섰다.&lt;br&gt;&lt;br&gt;서울북부지검 국가재정범죄합동수사단(단장 이일규)은 14일 오전 전북 군산시청 새만금에너지과에 수사관을 보내 관련 자료를 확보하고 있다고 이날 밝혔다.&lt;br&gt;&lt;br&gt;검찰은 태양광 발전사업 비리에 연루된 군산시청 공무원 A씨의 사무실을 압수수색 하는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;검찰은 2023년 7월에도 군산시청 시장실 등을 압수수색한 바 있다. 군산시가 우선협상 대상자 선정 과정에서 시장과의 학연을 바탕으로 특혜를 줬다는 의혹을 수사하기 위해서였다.&lt;br&gt;&lt;br&gt;앞서 감사원은 2022년 10월 시작한 ‘신재생에너지 사업 추진 실태’ 감사를 통해 군산시 태양광 발전사업 수주 과정에서 뒷돈이 오간 정황을 포착하고 검찰에 수사를 의뢰한 바 있다.&lt;br&gt;&lt;br&gt;검찰은 이 사업의 인허가 청탁 명목으로 금품을 수수한 공사 브로커, 공사 수주 명목으로 금품을 받은 신영대 더불어민주당 의원의 전 보좌관 정모씨를 지난해 6월 구속 기소한 바 있다.&lt;br&gt;&lt;br&gt;정씨는 지난 달 13일 1심 선고에서 징역 1년 2개월과 추징금 2000만원을 선고받았다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>신임 의협회장 “정부가 의대교육 정상화 방안 내놔야 정원 논의”</title>
+      <link>https://www.chosun.com/national/welfare-medical/2025/01/14/P5ZBX3GMFNEB7NTYXWZIVQZRIU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/01/14/P5ZBX3GMFNEB7NTYXWZIVQZRIU/</guid>
+      <dc:creator>오유진 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 14 Jan 2025 03:19:56 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WGIOFWP4SNJ3BIR3W77RJ5J2H4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;14일 오전 김택우 대한의사협회(의협) 신임 회장이 서울 용산구 의협 회관 지하 1층 대강당에서 열린 취임식에서 취임사를 하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김택우 대한의사협회(의협) 신임 회장이 정부의 수련 특례·입영 연기 등을 두고 “후속 조치에 불과하다”며 “정부는 올해 의대 교육 마스터플랜을 제시해야 한다”고 재차 강조했다.&lt;br&gt;&lt;br&gt;김 회장은 14일 서울 용산구 의협 회관에서 열린 취임식에서 “제43대 집행부는 현 사태를 해결하고 대한민국 의료 환경의 정상화를 위해 전력을 다하겠다”며 “국민 건강과 생명을 책임져야 할 정부는 더 이상 시간 끌기식의 안이하고 무책임한 대응을 중단하고, 문제를 일으킨 당사자가 결자해지한다는 마음으로 (사태 해결에) 접근해야 할 것”이라고 밝혔다.&lt;br&gt;&lt;br&gt;그는 “여전히 정부와 여당은 사태 해결을 위한 구체적인 계획 없이 후속 조치에 불과한 전공의 수련·입영 특례 방침을 내세우고, 이미 실패했던 여의정 협의체를 재개하자고 말한다”며 “분명히 밝히지만 현 상태로는 의대 교육이 도저히 불가능하다는 사실을 정부 스스로 인정하고, 2025년 의대 교육이 제대로 이뤄질 수 있도록 임시방편이 아닌 제대로 된 의학 교육 마스터플랜을 제시해야 한다”고 했다.&lt;br&gt;&lt;br&gt;이어 “정부가 우선 사태 해결과 의대 교육 정상화를 위한 뚜렷한 계획과 명확한 방침을 내놔야만 의료계 역시 2026년 의대 정원 문제를 비롯한 의대 교육 계획 역시 논의하고 대화할 수 있다”고 했다. 정부가 사직 전공의들에게 적용키로 한 수련 특례·입영 연기, 의학 교육 여건 개선을 위한 예산 투입만으로는 전공의와 의대생이 복귀하기 어렵다는 의미다.&lt;br&gt;&lt;br&gt;그러면서 “과거와 같이 정부 정책에 끌려가는 게 아니라, 정책을 먼저 생산하고 선도하는 의료 전문가 단체로서의 역할과 기능에 충실하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>“남편 문제 공정성 우려” 尹이 기피신청 낸 정계선, 법원서도 논란</title>
       <link>https://www.chosun.com/national/court_law/2025/01/14/TGZKQI3ACZDOJPKNQ4GNZ26OMQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/01/14/TGZKQI3ACZDOJPKNQ4GNZ26OMQ/</guid>
@@ -761,16 +851,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OEP23TEMYVH2ZDUPWL7E4R6IAA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원 로고. /조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;군사시설에 불법으로 들어가 2시간 넘게 돌아다니며 휴대전화로 내부를 불법 촬영한 50대가 징역형을 선고받았다.&lt;br&gt;&lt;br&gt;13일 법조계에 따르면 대전지법 형사9단독 고영식 부장판사는 군사기지 및 군사시설 보호법 위반 등의 혐의로 기소된 50대 A씨에게 징역 1년 6개월을 선고했다.&lt;br&gt;&lt;br&gt;A씨는 지난해 4월 28일 적법하게 허가받지 않고 경북 포항 남구에 있는 포항특정경비지역 군사기지·군사시설에 들어간 혐의로 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;포항특정경비지역에는 동해안의 최대 산업지역인 포항과 경주 일대 제철소, 항구, 원자력발전소 등 국가 중요시설이 있다. 해병대 1사단을 비롯한 경주·포항에 주둔하는 해군과 해병대가 포항특정경비지역사령부에 소속돼 있다. 당시 차를 타고 2시간 20여분 동안 군사시설을 돌아다닌 A씨는 자동차 블랙박스로 촬영하고 휴대전화로 사진 56장을 찍었다.&lt;br&gt;&lt;br&gt;조사 결과 그는 기지 입구 초소 근무자들에게 ‘방첩사 근무자’라고 속여 위병소를 통과할 수 있었다고 한다.&lt;br&gt;&lt;br&gt;이에 대해 A씨는 “방첩사 근무자라는 말은 하지 않았고, 방첩사를 전역했다. 동기를 만나러 왔다’는 말을 했는데 근무자들이 문을 열어줬을 뿐 허가 없이 들어가려는 고의성은 없었다”고 주장했다. 하지만 재판부는 초소 근무자들의 증언 등을 토대로 A씨의 고의성을 인정했다.&lt;br&gt;&lt;br&gt;한 초소 근무자는 “당시 A씨가 사이렌을 울리고 경광등을 켠 차를 운전하며 ‘나 방첩사에서 왔어. 빨리 문 열어’라고 말했다”고 증언했다.&lt;br&gt;&lt;br&gt;법원은 피고인이 초소 근무자에게 방첩사령부 소속으로 오인하게 만들어 적법 절차 없이 출입 허가를 받으려는 내심의 의사가 있었던 것으로 판단했다.&lt;br&gt;&lt;br&gt;A씨는 또 해당 사건의 재판이 진행 중이던 지난해 5월 10일 오후 7시 45분쯤 술을 마시고 대전 중구에서 유성구까지 9.6㎞를 운전하다 적발됐다. 적발 당시 혈중알코올농도는 0.098%로 면허취소 수치가 나왔다.&lt;br&gt;&lt;br&gt;고 부장판사는 “허가 없이 군사기지·군사시설을 출입하고 휴대전화기로 사진을 촬영했다”며 “재판 도중 음주운전을 하는 등 경위와 수법, 범행 내용을 보면 죄질이 좋지 않다”고 양형 이유를 밝혔다.&lt;br&gt;&lt;br&gt;1심 판결에 불복한 A씨는 법원에 항소했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[데스크에서] 소년과 의사</title>
-      <link>https://www.chosun.com/opinion/desk/2025/01/10/GJEDB46BDBBKBN75HNKUBCS45Q/</link>
-      <guid isPermaLink="true">https://www.chosun.com/opinion/desk/2025/01/10/GJEDB46BDBBKBN75HNKUBCS45Q/</guid>
-      <dc:creator>안준용 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 09 Jan 2025 15:06:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SZMYCRU3KZEWVEEFFFTU7BUICU.png"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=조선디자인랩·Midjourney&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;6·25전쟁 중 대구로 피란한 열세 살 소년 이야기다. 이따금 멀리서 쿵쿵 하는 포성이 들리던 1951년의 깜깜한 밤, 소년은 온 동네를 헤매고 있었다. 집에서 쓰러진 어머니를 동생에게 맡겨둔 채 의사를 찾아나선 것이다. 한참 헤맨 끝에 의원 한 곳을 찾았고, “제발 좀 도와달라”며 닫힌 문을 두드렸다. 중년의 의사가 자초지종을 들은 뒤 왕진 가방을 들고 따라나섰다. 이사 온 지 이틀밖에 안 된 소년은 집도 못 찾고 발만 동동 굴렀다. 의사는 “골목에 뭐가 있었느냐. 대문은 무슨 색이냐” 물으며 함께 집을 찾았다.&lt;br&gt;&lt;br&gt;어머니를 진찰한 뒤 주사를 놔준 의사 선생님. 곧 괜찮아지실 거란 말에도 아이는 눈물만 흘렸다. “선생님. 조금만 더 계셔주세요.” 소년이 애원하자, 막 일어나려던 의사가 웃으며 다시 앉았다. “몇 살이야? 어디서 왔어?” 그렇게 한참을 더 어머니 곁을 함께했다. 의사는 소년을 다시 의원으로 데려가 약을 챙겨주면서 약값도 받지 않았다. “피란살이도 어려운데 됐다. 가서 어머니만 잘 보살펴”라고 덧붙이면서. 소년은 약 봉투를 들고 집에 오는 내내 울면서 ‘나도 꼭 이런 의사가 돼야겠다’고 다짐했다고 한다.&lt;br&gt;&lt;br&gt;74년 전 그 소년이 김동건 아나운서다. 그는 “이후 ‘의사’란 말만 들으면 늘 그분이 떠올랐다”며 “80년 넘게 살면서 그런 훌륭한 의사를 많이 만났고, 그분들을 존경한다”고 했다.&lt;br&gt;&lt;br&gt;흘러간 옛이야기가 아니다. 지금도 많은 이에게 의사는 그런 존재다. 태어나자마자 한 달 넘게 신생아 중환자실에서 치료받은 필자의 세 살배기 딸에게도 마찬가지다. 많은 의사는 여전히 “진료실에서 환자의 회복을 지켜보며 가장 큰 보람과 행복감을 느낀다”고 말한다. 사람은 일생에서 수많은 만남과 헤어짐을 반복하지만, 몸을 맡기고 생명을 구해주는 의사와 환자의 관계는 특별하다. 이들의 관계를 받쳐주는 것은 ‘신뢰’다. ‘라포(rapport)’라고도 하는 그 신뢰 관계가 정서적 유대를 넘어 치료의 결과까지 좌우한다.&lt;br&gt;&lt;br&gt;그런데 1년 가까이 이어진 의정 갈등으로 그 신뢰가 깨지고 있다. 최근 의사들을 대상으로 한 설문에선 ‘환자들이 본인(의사)을 신뢰한다고 생각하느냐’는 물음에 ‘그렇다’는 응답이 54.6%로, 2년 전보다 12.8%포인트나 떨어졌다. ‘신뢰하지 않는다고 생각한다’는 응답은 2.4%에서 8.0%로 급증했다. 눈엔 보이지 않는 소중한 사회적 자본이 훼손된 것이다.&lt;br&gt;&lt;br&gt;일부 의사의 도 넘은 막말과 전공의 블랙리스트, 의사 집단 전체를 향한 비난 댓글은 의사와 환자 간 불신에 큰 영향을 미쳤다. 하지만 고개를 조금만 돌리면 지금도 수술실을 지키는 의사, 그들에게 고맙다며 연신 고개 숙이는 환자들을 본다. 감정은 추스르고 눈앞의 의사와 환자를 봐야 한다. 한번 무너진 신뢰는 다시 회복하기 어렵고, 그 피해는 환자, 의사, 나아가 국민의 몫으로 불어나기 때문이다. 신뢰를 지켜내는 것이 의정 사태 해결만큼 중요한 이유다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/6IFG7WJ7RFCVDEFI3MVO2B2ZU4.png?width=500&amp;height=500&amp;auth=2e0481bef0104cd1de7dcd06a5cfea2e78c7e8de2ebcf22e62dd05ad4c1c1a06&amp;smart=true" type="image/png" height="500" width="500"/>
-    </item>
-    <item>
       <title>‘혈액암’ 조지호 경찰청장, 법원에 보석 청구</title>
       <link>https://www.chosun.com/national/court_law/2025/01/13/FKDMD36DGFCLTFAZUFHOHOS6TU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/01/13/FKDMD36DGFCLTFAZUFHOHOS6TU/</guid>
@@ -863,20 +943,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/H3PFKC6AO5CTTDO6E7FJYF6PPE.gif"&gt;&lt;figcaption&gt;&lt;small&gt;뉴욕 지하철 승강장에서 한 남성이 승객을 선로 밑으로 밀쳐 넘어뜨리고 있다. 피해자는 골절 등의 부상을 입고 병원으로 이송됐다. /X&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최근 승강장 안전문이 없는 뉴욕 지하철에서 이른바 ‘묻지마 밀치기’ 범죄 발생 후 승강장 벽에 붙어 열차를 기다리는 뉴요커의 모습이 국내에서 화제가 되면서, 국내 서울 전역 지하철에 설치된 스크린도어가 재조명되고 있다.&lt;br&gt;&lt;br&gt;11일 서울시에 따르면, 승강장 안전문은 국내 지자체 중 서울시가 처음 도입했다. 2006년부터 2009년까지 지하철 1∼8호선의 262개 전 역사에 승강장 안전문을 설치됐고, 현재는 9호선과 우이신설선 등을 포함해 총 345개 역사가 승강장 안전문을 갖췄다.&lt;br&gt;&lt;br&gt;이 결과 승강장 안전문 설치 전인 2001∼2009년 연평균 37.1명이던 지하철 사고 사망자 수는 2010년 이후 0.4명(0∼2명)으로 크게 준 것으로 파악됐다. 스크린도어 설치 이전에는 선로에 갑자기 뛰어들거나, 열차를 기다리는 시민을 밀쳐 숨지게 하는 일이 벌어졌던 것으로 알려졌다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IFMYKOE24BFB5PA252LTUXDAPQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 지하철 7호선 청담역 승강장 스크린 도어./장련성 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지하철 스크린도어 설치 사업은 이명박 전 시장 재임 기간이었던 2005년 시작돼 오 시장이 시정을 이끌던 2010년 마무리됐다. 오 시장은 “승강장 안전문이 없을 때는 사고 발생이 잦아 맨 앞에 서서 기다리는 사람들은 늘 불안했다”며 시장 취임 후 시민 안전을 최우선으로 해 안전문 설치를 서둘렀다고 밝혔다.&lt;br&gt;&lt;br&gt;승객 안전뿐만 아니라, 미세먼지와 소음 감소 등 승강장 환경 개선에도 기여했다는 평가가 나온다. 안전문 설치 전 미세먼지 농도는 기준치(100㎍/㎥)를 넘는 106.7㎍/㎥였으나, 설치 후엔 86.5㎍/㎥로 20%가량 낮아졌다. 승강장 소음 역시 설치 전 78.3㏈에서 설치 후 72.1㏈로 약 7.9% 줄었다. 냉방효율도 30%가량 늘어 하루 6억원에 달하던 전력비용이 약 4억2500만원으로 절감됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OCAVUD34QBGOJGMLJBSI3XOZQM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;승강장 벽에 붙어 열차를 기다리는 뉴욕 시민들. /X&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울시 지하철 스크린도어는 최근 뉴욕 지하철에 열차가 진입하는 순간 승객을 선로로 밀쳐버리는 ‘서브웨이 푸싱’(subway pushing) 범죄가 발생하면서 재조명됐다. 당시 스크린도어 등 안전장치가 하나도 없는 상태에서 검정 후드티를 뒤집어쓴 용의자가 열차를 기다리던 남성을 갑자기 밀쳤고, 남성은 속수무책으로 선로 아래로 추락했다. 이 같은 모습은 인근 방범카메라 영상에 고스란히 담겼고, 뉴욕 시장까지 나서 “이런 무작위적인 폭력 행위는 뉴욕 시민들을 불안하게 만든다”고 지적했다.&lt;br&gt;&lt;br&gt;국내 온라인상에서도 “왜 뉴욕은 스크린도어 설치를 안 하냐” “이런 사건 꽤 많이 일어난 걸로 아는데 안전장치 설치 안 하는 이유가 궁금하다” “세계 최대 1위 도시 지하철에 스크린도어가 없다니” 등의 반응이 나왔다.&lt;br&gt;&lt;br&gt;이 일 이후 엑스(X) 등 소셜미디어에서는 뉴욕 지하철의 한 승강장에서 모든 시민이 선로에서 최대한 멀리 떨어져 벽에 등을 기댄 모습이 담긴 사진이 확산하기도 했다. ‘묻지마 밀치기’ 범죄 대상이 되지 않기 위한 행동으로 해석됐다. 사진은 수백만 조회수를 기록했으며, 네티즌은 “누가 끔찍한 일을 저지를지 알 수 없다” 등의 댓글을 남겼다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[단독] “술값 3000만원 쓴 손흥민” 헛소문 낸 강남 클럽MD들 檢 송치</title>
-      <link>https://www.chosun.com/national/national_general/2025/01/13/HJS6RNAWKZEIHP5QZWMSQZYY6Q/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/13/HJS6RNAWKZEIHP5QZWMSQZYY6Q/</guid>
-      <dc:creator>김병권 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 13 Jan 2025 01:42:10 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FIABGQGCWZ6OWUPZXPUPOU6H7Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;국가대표 축구선수 손흥민씨/연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;축구 선수 손흥민(32)씨가 강남 클럽에서 술값 3000만원을 썼다는 내용의 거짓 정보를 소셜미디어에 올린 영업 직원들이 검찰에 넘겨졌다.&lt;br&gt;&lt;br&gt;서울 강남경찰서는 이와 같은 허위 사실을 퍼뜨린 영업 직원 5명을 이날 명예훼손 혐의로 검찰에 불구속 송치했다고 13일 밝혔다.&lt;br&gt;&lt;br&gt;이 직원들은 작년 8월 3일 서울 마포구 서울월드컵경기장에서 벌어진 토트넘 홋스퍼와 바이에른 뮌헨의 친선경기가 끝난 뒤 소셜미디어에 “손흥민이 경기 후 강남 클럽에 뮌헨 선수들과 방문해서 술값으로 3000만원을 냈다”는 내용을 올린 혐의를 받고 있다. 이후 클럽을 찾은 손씨의 행적을 비난하는 댓글들이 이어졌다.&lt;br&gt;&lt;br&gt;이에 손흥민의 소속사인 ‘손앤풋볼리미티드’ 측은 이들을 명예 훼손, 업무 방해 등 혐의로 작년 8월 8일 서울 강남경찰서에 고소장을 제출한 바 있다. 당시 손앤풋볼리미티드 관계자는 “손흥민 선수의 클럽방문 및 결제 사실은 결코 없었으며 이는 명백한 허위사실임을 알려드린다”며 “선수의 모범적인 이미지에 손상을 주고, 손흥민의 이미지 제고를 통해 쌓은 명성, 브랜드 가치를 기반으로 광고 및 마케팅을 하는 소속사의 업무를 방해했다”고 밝힌 바 있다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “명예훼손 고발 건에 대해서는 검찰 송치, 업무 방해 고소 건은 불송치했다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/FIABGQGCWZ6OWUPZXPUPOU6H7Y.jpg?width=700&amp;height=561&amp;auth=37975c3f5805049dea7654bbcedfdc94d2190677cb75ab9c87cd2c0bc53383a8&amp;smart=true" type="image/jpeg" height="561" width="700">
-        <media:description type="plain">손흥민
-
-&lt;저작권자(c) 연합뉴스, 무단 전재-재배포, AI 학습 및 활용 금지&gt;</media:description>
-      </media:content>
-    </item>
-    <item>
       <title>‘北 방송’ 논란되자 2년 전 허가 공무원 찾아 ‘정직’ 징계...법원 “위법”</title>
       <link>https://www.chosun.com/national/court_law/2025/01/13/N6DCMB2UIFFC5FLN76GSOHGNXE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/01/13/N6DCMB2UIFFC5FLN76GSOHGNXE/</guid>
@@ -895,41 +961,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/54FTUISTLZDHJELX6W5GW5V5XU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;임상병리사나 방사선사 등 의료기사가 해야 할 업무를 자격이 없는 간호사에게 시킨 어린이병원장이 검찰에 넘겨졌다.&lt;br&gt;&lt;br&gt;인천 연수경찰서는 의료기사 등에 관한 법률 위반 혐의로 모 어린이병원 원장 40대 남성 A씨를 불구속 입건해 검찰에 송치했다고 13일 밝혔다.&lt;br&gt;&lt;br&gt;경찰은 또 의료기사 면허 없이 엑스레이(X-Ray) 촬영 등 업무를 한 간호사 20대 여성 B씨 등 5명도 A씨와 함께 검찰에 넘겼다.&lt;br&gt;&lt;br&gt;A씨는 2023년 인천 연수구에서 어린이병원을 운영하면서 혈액‧소변 검사나 엑스레이(X-Ray) 촬영 등 업무를 하라고 지시한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;경찰에 따르면, 의료기사법은 이들 업무를 임상병리사나 방사선사 등 의료기사가 하도록 규정하고 있다.&lt;br&gt;&lt;br&gt;경찰은 지난해 1월 관련 고소장을 접수해 수사를 해당 병원장 등을 상대로 수사를 진행했다.&lt;br&gt;&lt;br&gt;경찰은 병원 측이 간호사나 간호조무사가 아닌 일반인에게도 진료 보조 업무를 맡겨왔다며 의료법 위반 혐의를 적용해야 한다는 고소 내용에 대해서도 수사했으나, 의료기사법 위반 혐의만 인정된다고 보고 검찰에 송치했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>이광우 경호본부장, 경찰 불출석…체포영장 신청할 듯</title>
-      <link>https://www.chosun.com/national/incident/2025/01/13/LWMP4ZM7F5GWPOHBQZOYOVCKQY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/01/13/LWMP4ZM7F5GWPOHBQZOYOVCKQY/</guid>
-      <dc:creator>안준현 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 13 Jan 2025 02:02:35 +0000</pubDate>
-      <content:encoded>지난 3일 윤석열 대통령의 체포 저지를 주도한 혐의(특수공무집행방해)를 받는 이광우 대통령경호처 경호본부장이 13일 경찰의 세 번째 소환 통보에도 불출석했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4GAKLDMCRZNOJLKGM3VEPMG3SU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 국가수사본부 특별수사단이 대통령경호처 이광우 경호본부장에게 특수공무집행방해 혐의로 출석해 조사받으라고 요구한 13일 오전 서울 서대문구 국수본 모습. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;12·3 비상계엄을 수사 중인 경찰 국가수사본부 특별수사단은 이 본부장에게 이날 오전 10시까지 경찰 출석을 요구했으나 이 본부장은 또 다시 응하지 않은 것으로 알려졌다.&lt;br&gt;&lt;br&gt;이 본부장은 박종준 경호처장의 사임으로 경호처장 직무대행을 맡은 김성훈 경호처 차장과 함께 강경파로 꼽힌다. 야당 일각에선 이 본부장이 지난해 2월 한 카이스트 졸업생의 ‘입틀막 사건’ 당시, 입을 막은 당사자라는 주장도 나왔다.&lt;br&gt;&lt;br&gt;한편 김 차장도 앞선 경찰의 출석 요구에 세 차례 불응했다. 김 차장은 윤 대통령에 대한 2차 체포영장 집행 저지 계획을 주도하는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰 측은 “세 차례 소환 통보에도 불출석해 체포 영장 신청 등 신병 확보 방안을 강구하고 있다”고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/T57FZ7SAKZNB7OMCG64EEKUROM.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령 체포 저지를 주도한 박종준 전 대통령 경호처장이 13일 오전 서울 서대문구 경찰청 국가수사본부에서 조사를 받기 위해 출석하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 10일 경찰에 출석한 박종준 전 경호처장은 13일 오전 9시 52분쯤 서울 서대문구 국가수사본부에 출석했다. 박 전 처장은 지난 10~11일 두 차례 경찰 조사를 받았다. 박 전 차장은 조사에 들어가며 취재진에게 “수사에 성실히 임하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/T57FZ7SAKZNB7OMCG64EEKUROM.JPG?width=4440&amp;height=2960&amp;auth=26b41888e714aee1a761570a0fb0bcfba0c9b60b862bc286c666a17dd190dfef&amp;smart=true" type="image/jpeg" height="2960" width="4440">
-        <media:description type="plain">윤석열 대통령 체포 저지를 주도한 박종준 전 대통령 경호처장이 13일 오전 서울 서대문구 경찰청 국가수사본부에서 조사를 받기 위해 출석하고 있다. /뉴스1</media:description>
-        <media:credit role="author" scheme="urn:ebu">(서울=뉴스1) 황기선 기자</media:credit>
-      </media:content>
-    </item>
-    <item>
-      <title>中서 건너와 20년 봉사… 황설매씨, 4명에 새 삶 주고 하늘로</title>
-      <link>https://www.chosun.com/national/national_general/2025/01/13/6BUSHYXPPZEGBMYFKXSFOLFQSA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/13/6BUSHYXPPZEGBMYFKXSFOLFQSA/</guid>
-      <dc:creator>김명일 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 13 Jan 2025 02:06:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BDFF4BUW4VFI7EQY25EFEEZTXI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;고(故) 황설매씨. /한국장기조직기증원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;중국에서 태어나 한국으로 건너온 후 20여 년간 봉사활동을 해온 50대 여성이 뇌사장기기증으로 4명에게 생명을 나눠주고 하늘로 떠났다.&lt;br&gt;&lt;br&gt;13일 한국장기조직기증원은 작년 11월 28일 예수병원에서 황설매(55)씨가 뇌사장기기증으로 4명에게 생명을 나눠주고, 인체조직기증으로 백여 명의 환자에게 희망을 전달한 후 하늘의 천사가 되어 떠났다고 밝혔다.&lt;br&gt;&lt;br&gt;황씨는 같은 달 19일 머리가 아프다며 쓰러져 병원으로 이송됐으나, 의식을 회복하지 못하고 뇌사 상태가 됐다.&lt;br&gt;&lt;br&gt;가족들은 평소 어려운 사람을 돕길 좋아하는 황씨의 성격이라면 삶의 끝에서 다른 생명을 살리는 선택을 했을 거라고 생각해 장기 기증을 결심했다.&lt;br&gt;&lt;br&gt;황씨는 중국 흑룡강성 목단강시에서 1남 1녀 중 막내로 태어났으며 활발하고 배려심이 많았다. 어려운 사람을 보면 먼저 다가가는 마음씨가 따뜻한 사람이었다.&lt;br&gt;&lt;br&gt;중국에서 고등학교를 졸업한 후 직장 생활을 하다가 24세에 한국에 와서 식당 일을 했다.&lt;br&gt;&lt;br&gt;현재의 남편을 만나 30세에 결혼해 한국 국적을 취득했으며, 이후 20여 년간 아침을 굶고 등교하는 아이들에게 도시락을 배달해 주는 급식 지원 사업과 교회 봉사활동 등에 참여해왔다.&lt;br&gt;&lt;br&gt;황씨의 남편 이대원씨는 “다른 사람은 몰라도 당신은 천국에 갔을 거라고 생각해. 갑작스럽게 떠나서 식구들이 힘든 시간을 보내고 있지만, 하늘에서 잘 지내고 있을 거라고 생각할게. 우리는 잘 지내고 있으니 걱정하지 말고, 하늘에서 편히 잘 지내고 있어. 고맙고 사랑해”라고 마지막 인사를 전했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/OLV62EJAPBBA3JNXM5NVMTDC2M.jpg?width=490&amp;height=368&amp;auth=7bdaf2669e2de2ee727e0b5deafc64d5f78590362341d826fe5419f5e90630f2&amp;smart=true" type="image/jpeg" height="368" width="490">
-        <media:description type="plain">고(故) 황설매씨. /한국장기조직기증원</media:description>
-        <media:credit role="author" scheme="urn:ebu"/>
-      </media:content>
-    </item>
-    <item>
-      <title>尹 측 “경찰, 체포영장 집행한다면 신분증 패용·얼굴 공개해야"</title>
-      <link>https://www.chosun.com/national/court_law/2025/01/13/YTELC7F7SJHZVM62OQWAYCHNHQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/01/13/YTELC7F7SJHZVM62OQWAYCHNHQ/</guid>
-      <dc:creator>유종헌 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 13 Jan 2025 00:25:08 +0000</pubDate>
-      <content:encoded>윤석열 대통령 측이 경찰의 윤 대통령 체포영장 집행은 불법이라고 거듭 주장하면서 그럼에도 경찰이 영장 집행에 나설 경우 공무원 신분증을 패용하고 얼굴을 공개하라고 요구했다.&lt;br&gt;&lt;br&gt;윤갑근 변호사 등 윤 대통령 측 변호인단은 이날 낸 입장문에서 “경찰이 법적 근거 없이 고위공직자범죄수사처(공수처)의 영장 집행에 나설 경우 형법상 불법체포감금죄, 직권남용에 해당한다”면서 이 같이 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G7ZKECEITQ4QK4A4TBEHJRZSDA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령 대리인단인 윤갑근(오른쪽), 석동현 변호사가 지난 9일 서울 서초구 석동현 변호사 사무실에서 외신기자 대상으로 열린 기자회견에 참석해 입장을 밝히고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤 변호사는 “수사권 없는 수사기관(공수처)이 관할권 없는 법원(서부지법)으로부터 발부 받은 영장은 그 자체로 불법 무효”라면서 “공수처가 경찰을 지휘해서 경찰이 영장을 집행할 법적 근거가 없으므로 처음부터 경찰력을 동원할 수 없다”고 했다. 또 “온갖 위헌 위법적 요소가 망라된 불법 무효 영장을 집행하겠다고 경찰이 나서고 있는 것”이라고 주장했다.&lt;br&gt;&lt;br&gt;경찰이 경찰 기동대와 마약범죄수사대 동원까지 검토하는 것에 대해서는 “민생치안을 지켜야 할 일선 경찰들, 마약범죄를 소탕해야 할 수사대까지 대통령 체포 작전에 투입하는 것은 그 자체로 경찰의 기본적인 책무를 망각한 국민 배신행위”라고 말했다.&lt;br&gt;&lt;br&gt;윤 변호사는 “사태가 이러함에도 경찰이 기어코 공수처의 지휘에 따라 불법 영장 집행에 나선다면, 최소한의 법적 의무라도 지켜야 할 것”이라면서 공무원 신분증을 패용하고 동일인 여부 확인을 위해 마스크 등을 착용하지 말 것을 요구했다.&lt;br&gt;&lt;br&gt;윤 변호사는 “국가인권위원회는 경찰공무원에게 이해관계인의 신분 확인 요구가 있을 경우 신분 확인에 응할 의무가 있다고 지적했다”면서 “폭도들이 경찰관을 가장해 국가 기밀시설에 침입하는 것을 막기 위해서도 반드시 필요한 조치”라고 주장했다.&lt;br&gt;&lt;br&gt;그러면서 “공수처의 수사지휘에 따를 의무가 없는 경찰이 스스로 공수처의 시녀가 되어 불법 집행의 행동대원이 되는 우를 범하지 말 것을 강력하게 촉구한다”고 강조했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>안전모 없이 전동킥보드 타던 50대 여성, 차량에 치어 숨져</title>
       <link>https://www.chosun.com/national/regional/2025/01/13/J6JITZHBCNCTVHVQ2RJLOWSTTI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/01/13/J6JITZHBCNCTVHVQ2RJLOWSTTI/</guid>
@@ -937,15 +968,6 @@
       <description/>
       <pubDate>Mon, 13 Jan 2025 01:54:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5GT7HGZDJZC2PGHRM34R3HXIUY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /조선일보 DB.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;안전모를 쓰지 않은 채 전동킥보드를 타고 무단횡단하던 50대 여성이 차량에 치어 숨졌다.&lt;br&gt;&lt;br&gt;13일 경북 구미경찰서에 따르면 전날인 12일 오전 7시 33분쯤 구미시 도량동 왕복 6차선 도로 한 횡단보도에서 전동킥보드를 타고 길을 건너던 A씨가 주행중이던 쏘울 승용차에 치여 인근 병원으로 옮겨졌으나 숨졌다.&lt;br&gt;&lt;br&gt;경찰조사 결과, 사고 당시 A씨는 안전모를 착용하지 않았고, 보행신호를 위반해 무단횡단을 하던 중이었던 것으로 파악됐다.&lt;br&gt;&lt;br&gt;경찰은 승용차를 몰던 20대 운전자를 도로교통법 위반 혐의로 불구속 입건하고 목격자 등을 상대로 자세한 사고 경위를 조사 중이다.&lt;br&gt;&lt;br&gt;한편 경북경찰청은 지난해 8월 1일부터 12월 11일까지 전동킥보드등 개인형 이동장치(PM) 집중단속을 진행한 결과 3462건의 교통법규위반 행위를 적발했다. 이중 안전모 미착용이 2479건으로 71%이상을 차지했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“조항 뜯어보자”… 계엄·탄핵이 만든 ‘헌법 필사’ 열풍</title>
-      <link>https://www.chosun.com/national/national_general/2025/01/13/44LDQ7AXLZDBHDKMGQK6FLPTGM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/13/44LDQ7AXLZDBHDKMGQK6FLPTGM/</guid>
-      <dc:creator>강지은 기자, 김혜민 기자, 최하연 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 12 Jan 2025 15:54:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WGHCBZ6IEJDLZHT2S2OVJ4FNII.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;12·3 비상계엄 사태 이후 ‘헌법 필사(筆寫)’ 열풍이 불고 있다. 윤석열 대통령이 당시 정국 혼란이 헌법 77조에 계엄 선포 요건으로 명시된 ‘전시·사변 또는 이에 준하는 국가 비상사태’라고 판단했기에 계엄을 선포했다고 주장하거나, 거대 야당이 대통령 권한대행 국무총리마저 탄핵하며 초유의 ‘대통령 권한대행 부총리’가 탄생하는 이례적 사례가 이어지자 시민들은 “헌법 조항을 일일이 뜯어보며 민주주의 정신과 삼권분립의 근간을 알고 싶다”고 말하고 있다.&lt;br&gt;&lt;br&gt;경기 과천에 사는 직장인 김모(31)씨는 요즘 ‘헌법 전문(前文)’을 공책에 손글씨로 옮겨 적고 있다고 한다. 김씨는 “계엄 이후 뉴스에서 위헌 여부를 두고 논쟁이 벌어지는 걸 보고 헌법을 제대로 알고 싶어 필사를 시작했다”며 “매일 틈틈이 짬을 내 모든 조항을 직접 손으로 써보며 곱씹을 계획”이라고 했다. 경남 거창에 사는 30대 이모씨는 지난달 말부터 헌법 조문을 필사한 종이를 촬영해 소셜미디어에 올리고 있다. 이씨는 “헌법에 명시돼 있는 것들이 왜 지켜지지 않는지 의문이 들어 필사를 시작했다”며 “헌법 조문을 필사하면서 다른 사람이 하는 말에 휩쓸리지 않고 내 시각으로 현재 사안을 판단할 수 있게 됐다”고 했다.&lt;br&gt;&lt;br&gt;헌법 필사가 인기를 끌자 ‘헌법 필사 책’ 판매량도 늘었다. 12일 교보문고에 따르면, 헌법 필사 도서 판매는 계엄 전주(11월 27일~12월 3일)에 비해 계엄 직후(12월 4일~10일) 183%, 지난주(1월 1~7일) 5325% 증가했다. 지난 7일에는 헌법 필사 도서가 교보문고와 알라딘에서 각각 일간 베스트셀러 1위와 2위를 차지했다. 헌법 필사 도서 구매 후기에는 “비상계엄 선포 후 국민은 헌법을 봐야 함을 깨달았다. 필사하며 새기겠다” “혼동의 시대를 살고 있는 현재, 정신을 집중하기 위해 책을 샀다”는 반응이 주를 이루고 있다. 이처럼 헌법 전반에 대한 관심이 높아지며 지난달 4일부터 24일까지 3주간 알라딘에서 팔린 헌법 분야 도서는 2023년 같은 기간과 비교했을 때 1158% 늘었다. 출판 업계는 “법학 분야 도서가 베스트셀러 상위권을 차지하고, 이처럼 몇 주 새 판매량이 폭증한 건 이례적”이라는 반응이다.&lt;br&gt;&lt;br&gt;이은희 인하대 소비자학과 교수는 “정치적으로 불안정한 상황에서 국민들이 국가의 최고법인 헌법을 공부하며 바람직한 국가의 이상향을 고민함으로써 불안을 해소하고 있는 것”이라고 해석했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[단독] 수뇌부 조여가는 경찰… 관저서 버티는 경호처</title>
@@ -964,42 +986,6 @@
       <description/>
       <pubDate>Sun, 12 Jan 2025 20:02:00 +0000</pubDate>
       <content:encoded>지역 국립대들이 의대 증원에 대비해 동시다발로 대규모 전임교수 채용을 진행하고 있다. 현재까지 최소 100명 넘는 국립대 의대 전임교수가 선발된 것으로 나타났다. 올해 1학기 개학을 앞두고 ‘강의 펑크’가 나지 않도록 교수 충원에 속도를 내고 있는 것이다. 반면 지역 사립대는 국립대가 교수 인력을 빨아들이며 구인난을 겪고 있다.&lt;br&gt;&lt;br&gt;12일 본지 취재를 종합하면, 국립대 4곳(전남대·충북대·강원대·전북대)은 최근 의대 전임교수 총 103명을 선발했다. 정부가 의대 증원에 대비해 올해 국립대 의대 9곳 전임교수 330명을 추가 채용하기로 결정했는데, 목표치의 30% 이상을 이미 채운 것이다. 대학별로는 전남대(48명 모집)가 47명을 선발해 가장 많았다. 39명 모집 공고를 낸 충북대는 27명을, 강원대는 26명 모집에 23명을 선발한 상황이다. 전북대는 작년 공고를 내 이미 6명을 선발했고 2차 모집을 진행하고 있다. 다른 국립대도 이달 안에 1차 전임교수 모집 절차를 끝낸다는 계획이다. 대학들은 우선 1학기 대비 교수 채용을 마친 후 남은 증원분은 2학기 임용을 목표로 추가 절차를 밟을 예정이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/N6I3KBJOLRGSVJERPZL5C3UOAE.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=김의균&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난해 교육부는 올해 의대 교육 여건 개선에 4877억원을 투입하겠다고 밝히며, 교수 증원을 핵심 과제로 꼽았다. 수업 거부 중인 의대생이 올해 복귀하고 신입생이 들어오면 전국 의대에 1학년 학생만 약 7500명이 된다. 늘어난 의대 정원에 집단 휴학까지 겹쳐 의료계에서는 부실 교육에 대한 우려 목소리가 컸다. 특히 지역 국립대는 전임교수 1명당 학생 수가 평균 2.4명으로 전체 사립대(1.3명)의 두 배 가까이에 달했기 때문에 더욱 교수 선발에 전력을 다하고 있다.&lt;br&gt;&lt;br&gt;지역 국립대는 교수 충원 목표치를 어느 정도 채우고 있지만, 지역 사립대는 교수 인력이 여전히 부족한 상황이다. 대부분 지역 사립대는 규모·시설 면에서 국립대, 수도권 사립대에 비해 열악해 전임교수를 구하기 쉽지가 않다. 게다가 정부는 국립대에 전임교수 증원 등을 위한 비용을 직접적으로 투입하지만, 사립대는 저금리 융자(올해 예산 1728억원) 지원 외에는 별다른 지원이 없는 실정이다.&lt;br&gt;&lt;br&gt;A사립대는 작년 말 전임교수 42명 모집을 목표로 첫 공고를 내고 이후 추가 공고까지 냈는데도 현재 3명만 선발한 상황이다. 이 대학 관계자는 “지방 사립대 의대들이 전임교수 채용에 어려움을 겪는 건 맞지만 평년의 경우 절반 안팎으로는 채용을 했다”면서 “이 정도는 아니었다”고 했다. B사립대도 작년 말 80명 모집을 목표로 공고를 냈지만 10명 선발에 그쳤다. 이 대학 관계자는 “국립대가 인력을 다 빨아들이며 교수가 부족해 강의 펑크를 걱정하는 상황”이라며 “처우 인상 등으로 최소한의 인력 확보라도 할 수 있도록 정부 차원의 지원과 대책이 필요하다”고 했다.&lt;br&gt;&lt;br&gt;강의실 등 물리적인 인프라 부족도 큰 문제로 꼽힌다. 각 대학은 서둘러 신관·강의실 공사에 나섰지만 준공이 당장 가능한 게 아니니 대체 강의실 편성 등 방법을 찾는 중이다. 7500명 대상으로 수업이 이뤄져야 한다면 물리적 공간이 부족해 “2부제를 편성해야 하는 것 아니냐” “천막 수업을 해야 할 판”이라는 우려의 목소리도 나오고 있다.&lt;br&gt;&lt;br&gt;이처럼 대학들이 골머리를 앓는 교수 채용, 인프라 확충에 관한 문제는 당장 휴학 중인 학생들이 돌아온다는 걸 전제로 삼는다. 앞서 전국 40개 의대 학생회 단체 대한의과대학·의학전문대학원학생협회(의대협)는 오는 3월 개학 때도 강의실에 돌아가지 않는 방법으로 투쟁을 이어가겠다고 밝혔지만, 의대생들 사이에선 “2년 연속 휴학은 너무 부담된다”는 목소리도 적지 않다. 교육계에선 “의대생들이 계속 돌아오지 않으면 점점 더 많은 인원이 동시에 수업을 받는 불상사가 발생하게 된다”며 “올 3월에는 의대생들이 복귀해야 한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>尹측 “신변안전 우려”… 내일 첫 탄핵 재판 불출석 통보</title>
-      <link>https://www.chosun.com/national/court_law/2025/01/13/AC5TT7CRRFBL5K7ZRW5UC7425Y/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/01/13/AC5TT7CRRFBL5K7ZRW5UC7425Y/</guid>
-      <dc:creator>방극렬 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 12 Jan 2025 15:55:00 +0000</pubDate>
-      <content:encoded>윤석열 대통령이 오는 14일 헌법재판소에서 열리는 탄핵 심판 첫 변론 기일에 출석하지 않기로 했다. 고위공직자범죄수사처(공수처)의 윤 대통령 체포 시도가 계속되는 상황에서 심판정에 나갈 수 없다는 것이다.&lt;br&gt;&lt;br&gt;윤 대통령 대리인단은 12일 “공수처와 경찰 국가수사본부가 불법·무효인 (윤 대통령에 대한) 체포 영장을 계속 집행하려고 시도하고 있다”며 “(윤 대통령의) 신변 안전과 불상사가 우려돼 14일 재판에는 출석할 수 없다”고 밝혔다.&lt;br&gt;&lt;br&gt;윤 대통령 측은 “대통령이 헌법 재판에 출석하기 위해서는 신변 안전과 경호 문제가 해결돼야 한다”며 “안전 문제가 해결되면 언제든 출석할 예정”이라고 했다. 헌재는 오는 14일을 포함해 16일, 21일, 23일, 다음 달 4일 등 다섯 차례 정식 변론 기일을 미리 정해 공지했다.&lt;br&gt;&lt;br&gt;공수처는 서울서부지법에서 발부받은 윤 대통령의 체포 영장 1차 집행에 실패한 뒤 영장 시한을 연장해 2차 집행을 준비 중이다. 윤 대통령 측은 수사 권한이 없는 공수처의 체포 영장은 무효라서 집행에 응할 수 없다는 입장이다. 윤 대통령 측은 헌재에 공수처가 발부받은 1·2차 체포 영장에 대한 권한 쟁의 심판과 효력 정지 가처분 신청을 접수시켰다. 헌재 관계자는 “윤 대통령에 대한 체포 영장이 적법한지 요건을 검토하고 있다”고 했다.&lt;br&gt;&lt;br&gt;헌재는 윤 대통령이 14일 변론 기일에 출석하지 않을 경우, 윤 대통령 없이 이후 재판에서 심리를 진행할 것으로 보인다. 헌법재판소법(52조)은 당사자가 탄핵 심판 변론기일에 출석하지 않으면 다시 기일을 정하되, 다시 정한 기일에도 나오지 않으면 불출석으로 심리할 수 있다고 돼 있다. 헌재는 다섯 개 기일을 미리 공지하며 “2차 기일(16일)은 윤 대통령 본인이 1차 기일(14일)에 나오지 않을 것에 대비해 잡았다”고 했다. 기일을 다시 잡는 과정 등을 줄여 재판 속도를 당기겠다는 취지다.&lt;br&gt;&lt;br&gt;이에 따라 14일 예정된 탄핵 심판 첫 변론 기일은 윤 대통령의 불출석을 확인하고, 향후 변론 계획을 논의한 뒤 일찍 종료될 가능성이 높아졌다. 헌재는 앞서 노무현·박근혜 전 대통령 탄핵 심판 때도 당사자 출석 없이 재판을 진행했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>KAL 007편 격추 사고에도… 블랙박스는 당시 상황 고스란히 기록</title>
-      <link>https://www.chosun.com/national/transport-environment/2025/01/13/476H3QQ22VBFLP2ZKDK5KZ7BJA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/01/13/476H3QQ22VBFLP2ZKDK5KZ7BJA/</guid>
-      <dc:creator>강다은 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 12 Jan 2025 15:55:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YARHXPCVLNDT5LBVZQJA5CL32M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;무안공항 사고 현장에서 수거한 제주항공기 블랙박스. 속도·고도 등이 기록된 비행 기록 장치(FDR·Flight Data Recorder)는 전원-자료 저장 유닛 간 커넥터(위쪽 사진 그을린 부분)가 일부 손상됐다. 조종실 대화·지상과 교신 등이 담긴 음성 기록 장치(CVR·Cockpit Voice Recorder)는 외관은 온전했지만 FDR과 마찬가지로 둔덕 충돌 폭발 약 4분 전부터 자료 저장이 중단됐다(아래사진)./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;주요 항공사고에서 블랙박스는 사고의 진실을 밝히는 데 결정적 역할을 해왔다. 항공사고 특성상 생존자나 목격자가 없는 대형사고로 이어지는 경우가 많고, 타국이나 상공에서 사고가 나 원인 규명이 어려울 때도 있기 때문이다.&lt;br&gt;&lt;br&gt;블랙박스가 중요한 역할을 한 대표적 사건으로는 ‘대한항공(KAL) 007편 격추 사건’이 있다. 1983년 9월 1일 미국 뉴욕에서 서울로 향하던 도중 소련 영공을 침범했다는 이유로 해당 비행기는 소련군 전투기에 격추됐다. 이로 인해 승객과 승무원 269명 전원이 사망했다. 국제사회의 비판이 이어지자 당시 소련은 “비행기가 고의로 영공을 침범했다”고 주장했다. 그러나 소련 해체 후 1991년 블랙박스 기록이 공개됐고, 해당 항공기는 조종사 실수와 항법 장비 오작동으로 항로를 이탈해 소련 영공에 들어갔던 것으로 나타났다. 소련의 주장과 달리 고의 침범이 아니었던 것이다.&lt;br&gt;&lt;br&gt;1997년 8월 6일 254명 중 228명이 사망한 대한항공 여객기 괌 추락 사고 때도 블랙박스 분석을 통해 조종사의 과실과 기상 조건, 괌 공항의 지상 관제 레이더 부족 문제가 복합적 원인이라는 점이 밝혀진 바 있다. 해외 항공사고도 마찬가지다. 2015년 독일 저먼윙스 9525편은 비행 중 알프스산에 추락해 150명이 사망했고, 원인에 대해선 ‘테러다’ ‘기체 결함이다’ 등 추측만 난무했다. 그러나 음성 기록 장치(CVR) 분석을 통해 우울증을 앓던 부기장이 고의로 항공기를 추락시켰다는 사실이 밝혀졌다. 2009년엔 브라질 리우데자네이루에서 프랑스 파리로 향하던 에어프랑스 447편이 대서양 상공에서 실종되는 사고가 있었는데, 블랙박스가 없어 원인 규명을 못 하다가 2년 뒤 블랙박스가 심해에서 발견돼 조종사 과실이 주요 원인이었다는 점이 알려졌다.&lt;br&gt;&lt;br&gt;블랙박스를 통해 명확히 사고 원인을 규명해야 재발 방지도 가능하다. 2002년 4월 15일 중국국제항공 여객기가 부산 김해공항에 착륙을 시도하다가 산악 지역에 충돌해 129명이 사망하고 37명이 생존한 사고가 있었다. 당시 블랙박스를 분석한 결과 조종사가 나쁜 기상 조건에서 착륙하려다 실수한 것이 원인으로 밝혀졌다. 이후 김해공항은 ‘기상 상태가 나쁜 경우 착륙 불가능’ ‘사고 활주로에 선회 접근할 경우, 시계비행(조종사가 육안으로 외부 지형지물을 참조하면서 비행)을 한다’ 등 착륙 과정에서의 안전 절차를 강화했다. 2023년 김포공항 대한항공 여객기 활주로 정지선 침범 사고에서도 블랙박스 조사를 통해 조종사·관제사 간 영어 발음 차이가 원인이었다는 점을 밝혀내 관제사 재훈련 등 재발 방지책이 마련됐다.&lt;br&gt;&lt;br&gt;&lt;b&gt;☞주황색인데 왜 블랙박스일까&lt;/b&gt;&lt;br&gt;&lt;br&gt;항공기 사고 원인을 밝히기 위해 탑재하는 비행 자동 기록 장치. 속도·고도·엔진 상태 등 비행 데이터를 기록하는 비행 기록 장치(FDR)와 조종실 내 대화, 지상과의 교신 내용 등을 담은 음성 기록 장치(CVR)가 있다. 섭씨 1100도에서 30분, 수심 6000여ｍ 압력에서 한 달을 버틸 수 있도록 제작한다. 명칭(블랙)과 달리 발견하기 쉽도록 주황색 등으로 칠한다. 블랙박스라는 이름은 20세기 중반 항공기에 탑재했던 검은색 박스 모양의 항법 보조 장치를 지칭하는 데 처음 사용됐는데, 이후 의미가 변했다는 설이 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘내란죄 수사’ 검·경 기록, 헌재가 탄핵심판에 써도 되나</title>
-      <link>https://www.chosun.com/national/court_law/2025/01/13/X4OMPIWRV5BQVOV6CXUJ2DO7VY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/01/13/X4OMPIWRV5BQVOV6CXUJ2DO7VY/</guid>
-      <dc:creator>양은경 기자, 방극렬 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 12 Jan 2025 15:54:00 +0000</pubDate>
-      <content:encoded>윤석열 대통령 탄핵심판을 심리 중인 헌법재판소가 ‘12·3 비상계엄’에 연루된 군과 경찰 지휘부에 대한 내란죄 수사 기록을 검찰 등에서 받고 있는데 대해 윤 대통령 측이 반발하고 있다. 윤 대통령 측은 “헌재가 수사기관의 일방적인 기록을 바탕으로 심증을 갖고 판단할 수 있다”는 입장이다.&lt;br&gt;&lt;br&gt;특히 민주당이 주도하는 국회 탄핵소추위원 측 대리인단이 최근 윤 대통령의 탄핵소추 사유에서 ‘형법상 내란죄를 빼겠다’고 한 상황이어서, 헌재의 수사 기록 요청 문제는 더 논란이 뜨거워질 전망이다. 법조계에선 “군경 지휘부의 수사 기록을 근거로 윤 대통령 탄핵 여부가 결정되면 향후 정당성 문제가 제기될 것”이라는 우려가 나온다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/I26EESJKZNHTTAPFUTHWHE3BBM.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=김성규&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;◇尹 측 “수사기록 받는 건 헌재법 위반”&lt;/b&gt;&lt;br&gt;&lt;br&gt;국회 측 대리인단은 지난달 27일 열린 윤 대통령 탄핵심판 첫 변론준비기일에서 검찰·군(軍)검찰·경찰로부터 내란죄 수사를 받은 김용현 전 국방장관 등 군경 지휘부의 피의자신문조서, 증거목록, 공소장 등을 받아달라고 요청했고, 헌재도 이를 받아들였다.&lt;br&gt;&lt;br&gt;이에 윤 대통령 측은 지난 3일 헌재에 낸 답변서에서 “헌법재판소법 32조에 따라 재판·수사가 진행 중인 사건 기록을 헌재가 받아 보면 안 된다”며 “수사기관이 작성한 수사 기록에 의존해 탄핵 심판을 하면 헌재가 초기부터 유죄 심증을 형성하게 된다”고 주장했다. 내란 혐의를 받는 군경 간부들의 진술에 대한 윤 대통령의 반대 신문이 보장되지 않았다는 것이다. 윤 대통령 측은 같은 날 열린 2차 변론 준비 기일에서도 “(국회 측에서) 내란죄 부분에 대해서는 빼겠다고 하면서 수사 기록에 대한 송부를 요청하는 것은 적법하지 않다”고 강조했다. 헌재법 32조는 ‘재판부는 재판·소추 또는 범죄 수사가 진행 중인 사건의 기록에 대해서는 송부를 요구할 수 없다’고 규정하고 있기 때문이다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇헌재 “소추 사유와 밀접, 심리에 필요”&lt;/b&gt;&lt;br&gt;&lt;br&gt;하지만 변론 준비 기일을 진행한 이미선 헌법재판관은 “헌재법 다른 조항과 헌재 심판 규칙에 따라 검찰 등에서 수사 기록을 받는 데 문제가 없다”고 했다. 그러면서 “청구인(국회) 측에서 신청한 수사 기록은 소추 사유와 밀접한 관련이 있고, 심리에 필요한 자료들로서 받아 볼 필요가 있다고 판단된다”고 했다. 헌재는 앞서 2016년 박근혜 전 대통령 탄핵 심판에서도 최서원(개명 전 최순실)씨 등에 대한 수사 기록을 받아 봤었다.&lt;br&gt;&lt;br&gt;헌재법 32조에 대한 법조계 해석은 엇갈린다. 헌재 연구관 출신 법조인은 “헌재법 32조는 수사 기록 ‘원본’ 제출을 금지하는 것으로 규칙에 따라 복사본 제출은 가능한 것으로 보인다”고 했다. 하지만 이호선 국민대 법학부 교수(헌법학)는 “당사자의 반대신문권을 보장하는 조항으로 수사 기록의 무차별 제출은 원본이든 복사본이든 안 된다”고 했다.&lt;br&gt;&lt;br&gt;법조계 관계자는 “향후 윤 대통령 탄핵심판 과정에서 다른 사람들의 수사 기록을 증거로 채택하는 문제가 큰 논란을 부를 것으로 예상된다”고 했다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇헌재의 ‘형법 위반’ 판단, 사건마다 달라&lt;/b&gt;&lt;br&gt;&lt;br&gt;헌재는 그동안 탄핵 심판에서 내란죄 같은 형법 위반이 인정되는지 여부에 대해 사건마다 다르게 판단했다. 헌재는 2004년 노무현 전 대통령 탄핵 심판에서 노 전 대통령의 총선 관련 발언 등이 헌법 위반에 해당되는지 뿐만 아니라 공직선거법상 부정선거운동죄에도 해당되는지에 대해 심리했다. 당시 헌재는 “노 전 대통령의 발언이 특정 후보자를 당선 또는 낙선시킬 의도로 능동적·계획적으로 선거 운동을 한 것으로는 보기 어렵다”며 죄가 되지 않는다고 판단했다.&lt;br&gt;&lt;br&gt;반면, 박근혜 전 대통령 탄핵 심판 때는 탄핵소추 사유에 뇌물죄가 포함됐지만 헌재는 별도로 판단하지 않았다. 당시 국회 측이 뇌물 수수 등 형법 위반 부분을 탄핵소추 사유에서 제외하고 판단해달라고 요구했고, 헌재가 이를 받아들인 것이다.&lt;br&gt;&lt;br&gt;윤 대통령 탄핵 사건에서 내란죄 성립 여부를 판단할지도 결국 재판부의 결정에 달려있다. 법원 한 관계자는 “일반 법원 재판과 달리, 헌재 재판은 소추 사유 변경 등에 대한 절차 규정이 따로 없어서 내란죄를 판단할지, 안 할지를 밝히지 않고 진행할 수도 있다”고 말했다. 헌재가 내란죄를 핵심 사유라고 본다면, 증인 신문 등을 통해 내란죄 성립 여부를 심리하겠지만, 윤 대통령의 비상계엄 선포 등 행위 자체가 대통령직에서 파면할 만큼 중대한 헌법 위반으로 판단되면 형법 위반 심리를 생략할 수도 있다는 것이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“시민 지킨 군인 정신… 이 시국에 더 빛나”</title>
-      <link>https://www.chosun.com/national/national_general/2025/01/13/EDOS5RPVCJFU5JH5L7JOOVBBMU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/13/EDOS5RPVCJFU5JH5L7JOOVBBMU/</guid>
-      <dc:creator>대구=양인성 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 12 Jan 2025 15:54:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3JTCTM3TSJD7PHP4O525XUWVK4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;고(故) 심정민 소령(추서·1993년생·공사 64기)의 3주기 추모식이 지난 11일 고인의 모교 대구 능인고에서 열렸다. 심 소령은 2022년 1월 11일 F-5E 전투기를 몰던 중 경기 화성의 한 야산에 추락해 순직했다. 탈출 기회가 있었지만 인근 아파트 등 민가에 추락하지 않으려 끝까지 조종간을 놓지 않았다.&lt;br&gt;&lt;br&gt;추모식엔 유족과 주호영 국회부의장, 동문 등 100여 명이 참석했다. 능인고 동문이기도 한 주 부의장은 추모사에서 “시간이 흘렀지만 그의 고귀한 의식과 희생정신은 여전히 우리 가슴속에 남아 있다”며 “그는 언제까지나 전투기 조종사로 살고 싶다는 말을 입버릇처럼 외치고, 하늘과 조국을 지킨다는 자부심으로 가득 찬 사람이었다”고 했다.&lt;br&gt;&lt;br&gt;주 부의장은 “무엇보다 그는 자신의 생명보다 국민의 안전을 먼저 생각했던 사람이었다”며 “추락 위기 순간에서도 자신을 위한 선택을 하지 않고 국민의 생명과 재산을 지키기 위해 끝까지 조종간을 붙들었다”고 했다. 추모객들은 “국가와 군이 어려운 시기에 처한 요즘, 심 소령 같은 고귀한 군인이 있었음에 감사한다”고 했다.&lt;br&gt;&lt;br&gt;추도식에서 심 소령 아버지 심길태(68)씨는 입을 꾹 다물고 눈을 붉혔다. 심 소령은 1남 2녀 중 막내다. 위로는 첫째 누나 심정희(41)씨와 둘째 누나 심은정(39)씨가 있다. 은정씨는 “정민이는 늘 맡은 바 책임을 다하려 한 아이였고, 군인으로서 가진 사명감으로 행동한 것”이라고 했다. ‘심정민 소령 장학금’ 100만원도 모교 후배에게 전달됐다. 장학금을 받은 문모(18)군은 “사회복지사가 되는 게 꿈”이라며 “나도 타인을 위해 생명을 내놓을 수 있을까 되돌아보게 된다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
