@@ -13,6 +13,91 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>[속보] ‘경호처 파견’ 55경비단, 공수처·경찰 대통령 관저 출입 허가</title>
+      <link>https://www.chosun.com/national/court_law/2025/01/14/63KDOF7GCZBWDFYS4FACVDWULE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/01/14/63KDOF7GCZBWDFYS4FACVDWULE/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 14 Jan 2025 09:39:30 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SGJXZCR7PCXJAJRWBZ6XGCTWSY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 13일 서울 용산구 한남동 대통령 관저에서 소총이 들은 것으로 추정되는 배낭을 멘 대통령경호처 요원이 오가고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 대통령이 머무르는 용산구 한남동 관저의 외곽 경비를 맡은 수도방위사령부 55경비단은 고위공직자범죄수사처(공수처)와 경찰청 국가수사본부 특별수사단, 국방부 조사본부 수사관들의 출입을 14일 허가했다. 55경비단은 대통령경호처에 배속돼 경호처의 지휘를 따른다.&lt;br&gt;&lt;br&gt;공수처는 이날 오후 언론 공지를 통해 “금일 오후 55경비단에 ‘체포영장 집행을 위해 공수처 소속 검사와 경찰, 국방부 조사본부 수사관 등의 출입을 요청하는 공문을 보냈다”며 “55경비단은 ‘요청 대상 주소지에 대한 출입을 허가함’이라고 회신했다”고 밝혔다.&lt;br&gt;&lt;br&gt;앞서 공수처는 이날 오전 8시 경호처, 경찰과 3자 회동을 갖고 ‘평화적인 영장 집행 협조’를 요청했다고 밝혔다. 경호처 측은 회동에서 명시적인 입장을 밝히진 않았었다고 한다. 그러나 이날 오후 경호처 측에서 ‘출입 목적과 출입 대상자의 신원을 보내달라’는 취지의 공문을 공수처에 보냈고, 공수처는 이에 따라 공문을 보낸 것이다. 관저 외곽을 지키는 55경비단이 체포팀 출입을 허가하면서, 공수처와 경찰의 영장 집행도 한결 쉬워졌다는 분석이 법조계에서 나온다.&lt;br&gt;&lt;br&gt;공수처와 경찰은 이르면 15일 새벽 윤 대통령 체포영장 집행에 나설 것으로 전망된다. 공수처는 이날 청사로 고출력 확성기, 소형 액션캠 ‘고프로’ 충전기 및 여분 배터리, 액션캠 전용 셀카봉 등을 배송받아 구비했다. 영장 집행 과정에서 물리적 충돌이 발생할 경우 채증을 위한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;영장 집행을 앞두고 경찰 국수본 특별수사단과 서울·경기남부·경기북부·인천청 형사기동대장 등 광역수사단 지휘부는 이날 오전 10시부터 체포영장 집행과 관련한 3차 작전 회의를 열고 구체적인 관저 진입 계획 등을 거듭 논의했다. 이 회의에는 공수처 차정현 수사4부장을 비롯한 공수처 검사들도 참석한 것으로 파악됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>미포국가산단 내 경동이엔에스서 배관 공업용수 분출해 1명 중상 </title>
+      <link>https://www.chosun.com/national/regional/2025/01/14/WVHQZVKGJVGFNF626C37CLNMWA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/01/14/WVHQZVKGJVGFNF626C37CLNMWA/</guid>
+      <dc:creator>울산=김주영 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 14 Jan 2025 09:50:41 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KHHU7VF6C5HTLLBWXVW4ICTBXY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;14일 오후 울산 남구 미포국가산업단지 내 가스복합발전소인 울산지피에스(GPS) 내 경동이앤에스에서 고압의 공업용수가 분출해 1명이 다쳤다. /울산소방본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;14일 오후 3시 20분쯤 울산 남구 고사동 미포국가산업단지에 있는 가스복합 발전소 울산지피에스(GPS) 내 플랜트 시공 업체인 경동이앤에스에서 고압의 공업용수가 분출해 작업자 1명이 중상을 입었다.&lt;br&gt;&lt;br&gt;울산소방본부에 따르면 이 사고로 경동이앤에스 협력업체 소속 작업자 1명이 배관 파열로 분출한 공업용수 등에 맞아 부상을 입고 심정지 상태로 병원으로 이송됐으나, 맥박이 돌아와 치료중이다. 현재까지 의식은 없는 상태로 알려졌다.&lt;br&gt;&lt;br&gt;사고 당시 작업자들은 배관 누수 확인을 위해 공기 주입 작업을 하고 있었던 것으로 알려졌다. &lt;br&gt;&lt;br&gt;경찰과 소방당국은 이 과정에서 배관 내 남아있던 공업용수가 분출한 것으로 추정하고 있다.&lt;br&gt;&lt;br&gt;소방당국은 사고로 인한 유해화학물질 누출은 없는 것으로 파악됐다고 밝혔다.&lt;br&gt;&lt;br&gt;경찰과 소방당국은 자세한 사고 경위를 조사중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“너 내가 죽인다”...종점까지 쫓아가 버스 기사 보복 폭행한 20대 집유</title>
+      <link>https://www.chosun.com/national/incident/2025/01/14/NYC4TNV3LBCSBCHYRBGPTI3MDM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/01/14/NYC4TNV3LBCSBCHYRBGPTI3MDM/</guid>
+      <dc:creator>이승규 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 14 Jan 2025 09:28:22 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DIAQJS2PX3CMTVPYWVGLSSCC6I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대구지법, 고법/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;자신과 다툰 버스 기사에게 보복하기 위해 차고지까지 따라가 기사를 폭행한 대학생에게 징역형의 집행유예가 선고됐다.&lt;br&gt;&lt;br&gt;대구지법 형사 12부(재판장 어재원)는 보복폭행 등 혐의로 기소된 A(21)씨에 대해 징역 1년에 집행유예 2년을 선고하고 40시간의 사회봉사를 명령했다고 14일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 작년 5월 1일 오후 9시 40분쯤 대구의 한 버스 차고지에서 버스 운전 기사 B(49)씨의 허리를 발로 차고 주먹으로 B씨를 때린 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;A씨와 B씨의 악연은 일주일 전으로 거슬러 올라간다. 지난해 4월 24일 A씨는 시내버스 안에서 버스 좌석에 다리를 올렸다가 B씨와 말다툼을 벌였고, 이후 버스 노선의 종점인 차고지에서 쌍방 폭행으로 경찰 조사를 받았다. 당시엔 A씨와 B씨 모두 ‘서로 처벌을 원치 않는다’고 의사를 표시해 해당 사건은 공소권 없음으로 불송치 결정됐다.&lt;br&gt;&lt;br&gt;하지만 이 과정에서 B씨에게 분이 풀리지 않은 A씨가 차고지를 찾아가 B씨를 폭행한 것이다. A씨는 B씨를 폭행하기 전 미리 차고지를 방문해 2시간 정도 머무르면서 버스에서 하차하는 기사들의 얼굴을 일일이 확인하고 다른 기사에게 버스 운행 시간, 교대근무 방법 등을 물어보는 등 B씨를 폭행할 계획을 세웠던 것으로 조사됐다.&lt;br&gt;&lt;br&gt;결국 작년 5월 1일 A씨는 버스에서 내리는 B씨에게 다가가 “야, 나 기억 안 나? 너 내가 죽인다”며 주변의 만류에도 불구, B씨를 수차례 폭행했다.&lt;br&gt;&lt;br&gt;재판부는 “A씨는 B씨 때문에 억울하게 폭행 사건에 연루됐다고 생각하고 보복할 목적으로 B씨를 폭행하는 등 죄질이 매우 불량하다”면서도 “서로 원만히 합의한 점, A씨 가족이 선도를 다짐하면서 선처를 탄원한 점 등을 참작했다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘쌍방울 불법 대북송금’ 김성태 항소심 시작...“사실관계 인정”</title>
+      <link>https://www.chosun.com/national/court_law/2025/01/14/H7ONBRZ2SZGKTESEQKH7PSZ4SY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/01/14/H7ONBRZ2SZGKTESEQKH7PSZ4SY/</guid>
+      <dc:creator>수원=김수언 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 14 Jan 2025 09:26:16 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Y5BIGUCPXFNMBKNYZ5JQH7ZCTM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김성태 전 쌍방울 그룹 회장. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이재명 더불어민주당 대표가 경기도지사로 재임할 당시 방북비용 등 800만 달러를 불법으로 북한에 전달하고, 이화영 전 경기도 평화부지사에게 수억원 대 뇌물을 준 혐의로 1심서 징역 징역 3년 6월이 선고된 김성태 전 쌍방울그룹 회장의 2심 재판이 14일 시작됐다.&lt;br&gt;&lt;br&gt;수원고법 형사2-2부(재판장 김종우)는 이날 오후 김 전 회장의 뇌물공여 및 정치자금법 위반, 외국환거래법 위반, 남북교류협력법 위반 등의 사건에 대한 항소심 첫 재판을 열었다. 작년 7월 12일 1심 선고 후 6개월 만이다.&lt;br&gt;&lt;br&gt;이날 김 전 회장 측 변호인은 “(혐의에 대한)사실관계는 인정한다”면서도 “새로 선임돼 사건 기록 검토를 다 마치지 못했다”며 구체적인 입장을 밝히진 않았다. 변호인은 “서류 검토를 마친 다음 필요한 양형 자료를 제출하고, 필요하면 양형 증인을 신청할 여지가 있다”고 했다.&lt;br&gt;&lt;br&gt;검찰은 “공범 관계에 있는 이 전 부지사에 대한 항소심 판결문 등을 추가 증거로 제출할 예정”이라고 했다. 대북송금과 쌍방울 뇌물 수수 혐의를 받는 이 전 부지사는 지난헤 12월 19일 2심서 유죄를 인정받아 징역 7년8개월이 선고됐다. 이 전 부지사는 같은해 6월 1심에선 9년6개월을 선고받았었다. 이날 재판은 향후 일정 조율 등만 마치고 26분 만에 끝났다.&lt;br&gt;&lt;br&gt;김 전 회장은 2018년 7월부터 2022년 7월까지 4년 동안 이 전 부지사에게 쌍방울 그룹의 법인카드와 법인차량을 제공하고, 이 전 부지사의 측근에게 허위 급여를 지급하는 방법으로 3억3400여만원의 정치자금 및 뇌물(2억5900여만원)을 공여한 혐의를 받는다.&lt;br&gt;&lt;br&gt;그는 또 이 전 부지사의 부탁을 받고 2019년 경기도가 내야 할 스마트팜 사업비 500만 달러와 이재명 경기도지사의 방북비용 300만 달러를 대신 북한에 전달한 혐의(외국환거래법·남북교류협력법 위반)도 받는다. 그는 지난 2023년 1월 구속기소 됐다가 작년 1월 보석 석방됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5DQRE2NL45F5VOHXNEF56NHVQA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2019년 1월 이화영(맨오른쪽) 전 경기도 평화부지사와 김성태(왼쪽에서 둘째) 전 쌍방울 회장이 중국 선양에서 북한 조선아태위 송명철(오른쪽에서 둘째) 부실장, 국내 민간 대북 단체인 아태평화교류협회 안부수(맨왼쪽) 회장 등과 술자리를 하고 있는 모습. /독자 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;1심 재판부는 김 전 회장의 불법 대북 송금, 뇌물 등 혐의를 인정하고 징역 3년 6월을 선고했다. 정치자금법 위반에 대해서는 징역 1년에 집행유예 2년, 뇌물 공여 등 나머지 혐의에 대해서는 징역 2년 6월을 선고했다. 다만 재판부는 “증거 인멸 우려가 없고, 재판에 성실하게 임한 태도를 고려했다”며 법정 구속은 하지 않았다.&lt;br&gt;&lt;br&gt;재판부는 2019년 김 전 회장이 이 전 부지사의 부탁을 받고 경기도의 대북 스마트팜 사업비 500만달러, 이재명 당시 경기도지사의 방북 비용 300만달러 등 총 800만달러를 북한 측에 대신 전달했다는 사실을 모두 인정했다.&lt;br&gt;&lt;br&gt;재판부는 이 가운데 스마트팜 사업비 164만달러와 방북 비용 230만달러 등 총 394만달러가 대납 목적으로 무단 유출돼 외국환거래법을 어겼다고 판결했다. 스마트팜 사업비 500만달러에 대해서는 통일부 장관의 승인을 받지 않고 협력 사업을 시행해 남북교류협력법을 위반했다고 판단했다. 또 김 전 회장이 이 전 부지사에게 2억1800만원의 정치자금(그중 1억700만원은 뇌물)을 준 사실도 인정했다.&lt;br&gt;&lt;br&gt;한편, 김 전 회장은 이 대표와 함께 대북송금 사건과 관련한 제3자 뇌물 혐의로 추가 기소돼 1심 재판 중이다. 그는 또 경찰관인 지인의 승진 청탁을 명목으로 이 전 부지사에게 3000만원의 뇌물을 준 혐의, 쌍방울 임직원 명의로 세운 5개 페이퍼 컴퍼니 자금 538억원을 횡령하고, 그룹 계열사에 약 11억원을 부당하게 지원하도록 한 혐의(배임)등으로 각각 수원지법에서 재판을 받고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>서울 고1, 10명 중 4명은 수포자</title>
+      <link>https://www.chosun.com/national/education/2025/01/14/QL4R5DX3MNB3PBUWL4T6LJESBE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/education/2025/01/14/QL4R5DX3MNB3PBUWL4T6LJESBE/</guid>
+      <dc:creator>오주비 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 14 Jan 2025 09:25:23 +0000</pubDate>
+      <content:encoded>지난해 서울의 고등학교 1학년 학생 10명 중 4명은 수리력에서 기초 미달 혹은 기초 수준으로, 이른바 ‘수포자(수학 포기자)’인 것으로 나타났다.&lt;br&gt;&lt;br&gt;서울시교육청은 지난해 11월 서울시 초4·6, 중2, 고1 학생 9만4000여 명을 대상으로 실시해 이 같은 문해력·수리력 진단 검사 결과를 14일 발표했다. 서울시교육청은 동주민센터 안내문, 서울시 공원 통계 등 일상생활과 관련 있는 지문과 그래프를 활용해 문제를 출제했다. 이 검사는 코로나 사태를 겪으며 학생들의 기초학력이 낮아졌다는 지적에 따라 2023년 처음 도입됐다.&lt;br&gt;&lt;br&gt;초4의 문해력과 수리력 평균 점수는 각각 1452.77점, 1433.33점으로, 전년보다 12.75점, 34.26점씩 떨어졌다. 교육청 관계자는 “코로나 시기 휴대전화로 짧은 영상을 많이 시청한 영향이 지금까지도 학생들의 문해력에 부정적으로 작용하는 것으로 보인다”고 했다.&lt;br&gt;&lt;br&gt;고등학생은 문해력보다 수리력에서 어려움을 겪는 이가 많았다. 고1의 41.3%가 수리력 기초 미달·기초에 해당했다. 문해력에서 기초 미달·기초를 받은 고1(20%)보다 2배 이상이다.&lt;br&gt;&lt;br&gt;또 학급이 올라갈수록 수학을 어려워하는 학생이 많아졌다. 수리력 기초 미달·기초 비율이 초4와 초6에선 20% 안팎이었지만, 중2(32.5%)와 고1(41.3%)에선 급격하게 늘었다. 서울시교육청은 “중학교에서 문자와 식, 고등학교에서 2·3차 함수 등이 나오면서 학생들이 수리에 벽을 느끼는 것 같다”며 “수포자에 대한 일대일 맞춤형 지원을 강화하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘탁구 영웅’ 유승민 체육회장 당선...이기흥 꺾고 대이변</title>
+      <link>https://www.chosun.com/national/national_general/2025/01/14/RJ3I5BK3JZEYFFFSWONDEZZH4I/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/14/RJ3I5BK3JZEYFFFSWONDEZZH4I/</guid>
+      <dc:creator>김영준 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 14 Jan 2025 09:16:12 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UT2AOKB3NJMDTDSPZCDAM43EWA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;제42대 대한체육회장 선거에 출마한 유승민 후보가 14일 서울 송파구 올림픽공원 올림픽홀에서 열린 투표에 앞서 소견 발표를 하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2004 아테네 올림픽 탁구 금메달리스트 유승민(43) 전 대한탁구협회장이 제42대 대한체육회장에 당선됐다. 유 당선인은 14일 서울 송파구 올림픽공원 올림픽홀에서 진행된 선거에서 선거인단 2244명, 투표 수 1209표 중 417표를 받아 379표를 획득한 이기흥 현 회장을 제쳤다.&lt;br&gt;&lt;br&gt;당초 이번 선거에서 이기흥 현 회장이 3연임에 성공할 것이란 전망이 많았다. 이 회장이 자녀 친구 부정 채용, 후원 물품 횡령 등 비위 혐의로 문화체육관광부로부터 직무 정지를 당하고 사법 당국 수사를 받아 비판 여론이 컸지만, 역대 최다 인원인 6명이 회장 선거에 입후보하고 ‘반(反) 이기흥' 단일화를 이루지 못해 이 회장 당선 가능성이 컸다.&lt;br&gt;&lt;br&gt;하지만 체육인들 선택은 달랐다. 이 회장은 38표 차로 이긴 유 당선인은 “체육인들의 변화에 대한 열망이 컸기 때문에 당선될 수 있었다”며 “그래서 부담이 된다. 화답하기 위해 열심히 뛰겠다”고 말했다. &lt;br&gt;&lt;br&gt;그는 이 회장 체제에서 촉발된 대한체육회와 문체부 사이 갈등에 대해 “부드럽게 잘 풀릴 것”이라며 “지금 체육 현장에 있는 현안들을 해결하는 게 우선이다. 그게 정부와 대화로 해결될 수 있다면 빠르게 대화하겠다”고 말했다.&lt;br&gt;&lt;br&gt;유 당선인 임기는 다음달 28일부터 4년이다. 임기 동안 2026 밀라노-코르티나 담페초 동계 올림픽, 2026 아이치-나고야 아시안게임, 2028 로스앤젤레스(LA) 올림픽 등 굵직한 국제 대회에 한국 선수단을 이끌고 나선다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/UT2AOKB3NJMDTDSPZCDAM43EWA.jpg?width=4272&amp;height=3104&amp;auth=d0d0f27a19e5c0d563c0856171e22ef94546f2664c23bce5fe360c53f4795e84&amp;smart=true" type="image/jpeg" height="3104" width="4272">
+        <media:description type="plain">제42대 대한체육회장 선거에 출마한 유승민 후보가 14일 서울 송파구 올림픽공원 올림픽홀에서 열린 투표에 앞서 소견 발표를 하고 있다. /연합뉴스</media:description>
+        <media:credit role="author" scheme="urn:ebu">한종찬</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>대통령 경호처, ‘관저 기밀 유출’ 국수본 관계자 고발</title>
+      <link>https://www.chosun.com/national/court_law/2025/01/14/LUBN7N5QGNA5JC42OGK3CC7PQA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/01/14/LUBN7N5QGNA5JC42OGK3CC7PQA/</guid>
+      <dc:creator>유종헌 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 14 Jan 2025 09:16:58 +0000</pubDate>
+      <content:encoded>대통령 경호처 간부가 경찰 국가수사본부(국수본) 관계자를 만나 관저 내부 경로 등을 전달했다는 의혹과 관련, 경호처가 기밀 유출에 관여한 국수본 관계자 3명을 검찰에 고발했다고 14일 밝혔다.&lt;br&gt;&lt;br&gt;윤석열 대통령 법률대리인단인 윤갑근 변호사는 이날 “국수본 안보수사심의관, 국수본 안보수사1과장 및 이들로부터 군사기밀을 전달 받고 군사 시설에 대한 불법 침입 회의를 주도한 성명불상자를 군사기밀보호법위반 혐의로 고발했다”고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JFOXZA33VBSTWXGBI7GBJBWII4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;공수처와 경찰의 윤석열 대통령 2차 체포영장 집행 시도가 임박한 가운데 14일 서울 용산구 한남동 대통령 관저 정문 앞에서 경호처 관계자들이 이동하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤 변호사는 “이들은 오로지 불법 무효 영장의 집행을 위해 대통령 경호처 소속 간부를 서울 중구 소재 모 호텔로 불러내어 군사 시설, 경호 시설 등에 대한 정보를 수집했다”면서 “경비 관련 중요 사항인 차량 바리케이트 장비의 위치와 해제 방법, 통신실 위치, 근무 병력 및 지휘자의 성향 등에 대한 정보까지 파악했다”고 했다.&lt;br&gt;&lt;br&gt;이어 “이 같은 행위는 대통령의 경호에 관한 핵심적인 사항일 뿐 아니라 군사시설보호구역 내의 군사기밀에 관한 사항으로서 일반에 유출될 경우 국가안전보장에 중대한 위해를 가져오는 것”이라면서 “관계자들에 대한 철저한 수사와 엄벌을 촉구한다”고 했다.&lt;br&gt;&lt;br&gt;앞서 대통령 경호처가 경호3부장을 대기발령 조치한 사실이 언론 보도로 알려졌다. 경호처는 대기발령 이유에 대해 “1월 모일 모 호텔에서 국수본 관계자 2명을 만나 (대통령 관저 등) 군사 주요 시설물 위치 등 내부 정보를 전달한 사실이 확인됐다”고 전날 밝혔다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>초등생 유괴 살해범 “중학교 때 성추행당했다”… 옥중 소송 패소</title>
+      <link>https://www.chosun.com/national/national_general/2025/01/14/NRS4Y5CY6BDNXDO6HZDWHUZ3LA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/14/NRS4Y5CY6BDNXDO6HZDWHUZ3LA/</guid>
+      <dc:creator>문지연 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 14 Jan 2025 08:24:47 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EPETADDNBJEHPP57PR6ELSHLWU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;인천 초등학생 유괴 살인 사건 주범 김모씨(왼쪽)와 공범 박모씨가 2017년 12월10일 서울 서초구 서울중앙지방법원에서 열린 살인방조 등 항소심 선고 공판에 출석하던 모습. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;8년 전 인천에서 발생한 초등학생 유괴 살인사건의 주범이 과거 중학생 시절 학원 강사에게 성추행당했다며 민사소송을 제기했으나 패소했다.&lt;br&gt;&lt;br&gt;인천지법 민사21단독 박진영 판사는 14일 초등생 유괴 살인사건 주범인 여성 김모(25)씨가 전 학원 강사인 A씨를 상대로 낸 손해배상 소송에서 원고 패소 판결을 내렸다. 박 판사는 “원고의 청구를 기각한다”며 “소송 비용은 원고가 부담한다”고 했다. 다만 구체적인 판결 이유는 설명하지 않았다.&lt;br&gt;&lt;br&gt;앞서 김씨는 2022년 교도소에 수감된 상태에서 A씨를 상대로 위자료 3000만원을 요구하는 손해배상 소송을 냈다. 그는 중학생이던 2013~2015년쯤 자신이 다닌 학원에서 강사인 A씨에게 여러 차례 성추행을 당했다고 주장한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;김씨는 민사소송 제기 3개월 뒤 A씨를 아동·청소년의 성보호에 관한 법률과 아동복지법 위반 혐의로 경찰에 고소하기도 했다. 그러나 경찰로부터 사건을 넘겨받은 검찰은 2023년 8월 성추행 증거가 충분하지 않다며 A씨에게 ‘혐의 없음’으로 불기소 처분을 내렸다.&lt;br&gt;&lt;br&gt;한편 김씨는 2017년 3월 29일 인천시 연수구 한 공원에서 발생한 초등생 유괴 살인사건의 주범이다. 그는 초등학교 2학년생이던 B(사망 당시 8살)양을 자기 집으로 유괴해 살해한 뒤 시신을 잔혹하게 훼손하고 유기했다.&lt;br&gt;&lt;br&gt;17세로 고등학교를 자퇴한 상태였던 김씨는 이듬해 대법원에서 징역 20년형 확정판결을 받고 지금까지 복역 중이다. 김씨와 함께 살인 혐의 등으로 기소됐던 공범 박모(27·여)씨는 범행 방조 사실만 인정돼 징역 13년을 선고받았다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘6명 참변’ 의암댐 선박 전복 사고… 과실치사 혐의 공무원 전원 무죄</title>
+      <link>https://www.chosun.com/national/court_law/2025/01/14/HFIP57UAEVB53IYTEY4ZZZUKEI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/01/14/HFIP57UAEVB53IYTEY4ZZZUKEI/</guid>
+      <dc:creator>춘천=정성원 기자</dc:creator>
+      <description>8명의 사상자를 낸 강원도 춘천 의암댐 선박 전복 사고와 관련해 안전조치 의무를 소홀히 한 혐의로 기소된 공무원들이 1심에서 무죄를 선고받았다.춘천지법 형사1단독 신동일 판사는 업무상 과실치사상 혐의로 기소된 춘천시 공무원 7명에게 무죄를 선고했다고 14일 밝혔다.</description>
+      <pubDate>Tue, 14 Jan 2025 08:31:01 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2QU5COQ23ZQYPSGE5VSJO6NKNU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 2020년 8월 발생한 춘천 의암댐 선박 전복 사고와 관련, 사고 이후 의암댐 인근 신연교 교각에 떠내려 온 수초섬이 걸려 있는 모습. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;8명의 사상자를 낸 강원도 춘천 의암댐 선박 전복 사고와 관련해 안전조치 의무를 소홀히 한 혐의로 기소된 공무원들이 1심에서 무죄를 선고받았다.&lt;br&gt;&lt;br&gt;춘천지법 형사1단독 신동일 판사는 업무상 과실치사상 혐의로 기소된 춘천시 공무원 7명에게 무죄를 선고했다고 14일 밝혔다. 또 수초섬 제작 업체 관계자 1명에게도 무죄를 선고했다.&lt;br&gt;&lt;br&gt;이 사고는 지난 2020년 8월 6일 오전 11시 30분쯤 의암댐 상류 500m 지점에서 발생했다. 당시 의암호 수질 정화를 위해 설치한 인공 수초섬이 급류에 떠내려가자 경찰정과 행정선, 고무보트 등 3척이 고박 작업에 나섰고, 이 과정에서 3척의 배가 수상 통제선(표류 방지용 와이어)에 걸려 전복돼 5명이 숨지고 2명이 구조됐다. 실종자 1명은 대대적인 수색작업에도 끝내 발견되지 않았다.&lt;br&gt;&lt;br&gt;수사 당국은 악천후와 댐 방류 상황에서 작업 중단 등의 조치를 취하지 않아 발생한 인재라고 판단, 2022년 5월 이들을 불구속 기소했다.&lt;br&gt;&lt;br&gt;재판부는 이번 사고의 직접적인 원인이 인공 수초섬이 아닌 의암댐에 설치된 수상 통제선이라고 판단했다. 재판부는 “수초섬 임시 계류, 부유물 제거 작업, 수초섬 유실 등은 사고와 무관하다고 판단된다”면서 “검사가 제출한 증거만으로는 피고인들이 사고 방지의 업무상 주의의무를 위반했다고 인정하기 어렵다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>대구시, 박정희 전 대통령 동상 추가 설치 잠정 보류</title>
       <link>https://www.chosun.com/national/regional/2025/01/14/XUHW3QZXXBHMRI33TDIXHWRKNY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/01/14/XUHW3QZXXBHMRI33TDIXHWRKNY/</guid>
@@ -791,33 +876,6 @@
       </media:content>
     </item>
     <item>
-      <title>교육부, 성균관대·인하대 등 8개 사립대에 “등록금 동결 당부”</title>
-      <link>https://www.chosun.com/national/education/2025/01/13/G77N454PZFBUDJGYVPMB2UTDGE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2025/01/13/G77N454PZFBUDJGYVPMB2UTDGE/</guid>
-      <dc:creator>오주비 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 13 Jan 2025 09:55:11 +0000</pubDate>
-      <content:encoded>교육부가 사립대 총장들에게 등록금 동결을 당부했다.&lt;br&gt;&lt;br&gt;13일 오후 교육부는 오석환 차관 주재로 사립대 총장들과 영상 간담회를 열고, “등록금 결정 과정에서 학생들의 입장을 최우선적으로 고려해줄 것을 당부했다”고 밝혔다. 간담회에는 성균관대와 인하대 등 수도권 사립대 총장 5명, 지방 사립대 총장 3명이 참석했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5RPROPUL6ZK6TOT7IGSDNFFUQM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;연세대에 이어 고려대도 법정 최대 상한선인 5.49% 등록금 인상을 추진하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 간담회는 사립대들에서 등록금 인상 움직임이 나타나자, 교육부가 등록금 동결을 당부하기 위해 만들어진 자리다. 최근 서강대와 국민대는 2025학년도 등록금을 각각 4.85%, 4.97% 인상하기로 결정했고 연세대와 고려대 등도 학생들에게 5.49% 인상안을 제시하고 논의 중이다.&lt;br&gt;&lt;br&gt;사립대 총장들은 이날 교육부에 장기간의 등록금 동결로 대학들이 겪고 있는 재정난에 대해 설명한 것으로 나타났다. 교육부는 “대학들은 우수 교원 충원 및 교육 여건 투자의 한계와 공공요금 물가 상승 등의 어려움을 호소했다”고 밝혔다.&lt;br&gt;&lt;br&gt;교육부는 사립대 총장들에게 등록금 동결을 당부하는 대신, “2023년 고등평생교육지원 특별회계를 신설해 3년간 고등교육 예산이 약 3.5조원 증가했고, 이 특별회계 연장 및 확충을 위해 대학과 함께 적극 노력하겠다”고 설명했다.&lt;br&gt;&lt;br&gt;또 교육부는 “재정 지원 사업에서 예산 집행 칸막이를 낮춰 대학의 집행 자율성을 높이기 위해 노력하고, 대학이 수익을 다각화할 수 있도록 관련 규제를 개선하겠다”고도 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/5RPROPUL6ZK6TOT7IGSDNFFUQM.jpg?width=1796&amp;height=824&amp;auth=e6f02e4f73b0916f93fe6e9efe3613fb1550d844d5ee20a8ef726683eb53cca7&amp;smart=true" type="image/jpeg" height="824" width="1796">
-        <media:description type="plain">[서울=뉴시스] 전신 기자 = 서울 연세대에 이어 고려대도 법정 최대 상한선인 등록금 5.49% 인상을 추진하는 것으로 파악됐다. 13일 대학가에 따르면 고려대는 지난 10일 학생들과 가진 첫 등록금심의위원회(등심위)에서 올해 학부 등록금을 전년 대비 5.49% 올리겠다는 방침을 통지했다.
-
-사진은 이날 오후 서울 성북구 고려대학교 모습. 2025.01.13. photo1006@newsis.com</media:description>
-        <media:credit role="author" scheme="urn:ebu">photo1006</media:credit>
-      </media:content>
-    </item>
-    <item>
-      <title>“교도소로 돌아갈래”…차량·ATM 부수고 난동부린 50대 구속</title>
-      <link>https://www.chosun.com/national/national_general/2025/01/13/XLKOX5VJ7JGK5N2I3BXNZ4C6ZA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/13/XLKOX5VJ7JGK5N2I3BXNZ4C6ZA/</guid>
-      <dc:creator>광주광역시=진창일 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 13 Jan 2025 09:46:36 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WALUFMVAA2LOB4JGZCYTC4WASM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;광주 서부경찰서 전경&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;누범 기간에 “다시 교도소에 보내달라”며 차량과 현금자동입출금기(ATM)를 부수고 난동을 부린 50대가 구속됐다.&lt;br&gt;&lt;br&gt;광주 서부경찰서는 13일 “차량과 ATM 기기를 파손한 혐의(재물손괴)로 50대 A씨를 구속했다”고 밝혔다.&lt;br&gt;&lt;br&gt;경찰에 따르면 A씨는 지난 11일 오후 5시쯤 광주광역시 서구 양동의 한 주차장에 주차된 차량을 발로 차고, 플라스틱 판자를 던지는 등 파손한 혐의를 받고 있다. 또 지난 9일에는 광주 서구 양동의 한 도로에서 ATM 기기에 의자를 던져 파손한 혐의도 받고 있다.&lt;br&gt;&lt;br&gt;A씨는 최근 교도소에서 출소해 누범기간 중 범행을 저지른 것으로 파악됐다.&lt;br&gt;&lt;br&gt;A씨는 경찰 조사에서 “교도소로 돌아가고 싶어 범행을 저질렀다”는 취지의 진술을 한 것으로 전해졌다. 경찰은 A씨가 누범기간인 점을 고려해 구속영장을 신청했고, 법원은 구속영장을 발부했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/WALUFMVAA2LOB4JGZCYTC4WASM.jpg?width=720&amp;height=393&amp;auth=5e810b51db194deb65fb6a5a9f485f126910d88a3abf5ff195a38f0b9ac06912&amp;smart=true" type="image/jpeg" height="393" width="720">
-        <media:description type="plain">광주 서부경찰서 전경</media:description>
-      </media:content>
-    </item>
-    <item>
       <title>“내란 피의자도 인권 있다” 尹방어권 놓고 아수라장 된 인권위</title>
       <link>https://www.chosun.com/national/national_general/2025/01/13/LMTAAWP5AZECFN36FJWTHWZIUM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/13/LMTAAWP5AZECFN36FJWTHWZIUM/</guid>
@@ -825,19 +883,6 @@
       <description/>
       <pubDate>Mon, 13 Jan 2025 09:35:25 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BJQPJDSHQROPRB77BUUINNNWQM.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;인권위 직원과 공무원 노조원들이 13일 서울 중구 국가인권위에서 제1차 전원위 회의를 앞두고 안창호 국가인권위원장의 사퇴를 촉구하며 구호를 외치고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;3일 ‘윤석열 대통령 방어권 보장’ 안건이 상정될 예정이었던 국가인권위원회 전원위원회 회의가 시민단체와 국회 운영위원회 야당 의원들의 항의로 파행했다.&lt;br&gt;&lt;br&gt;인권위는 이날 오후 3시 서울 중구 인권위 건물에서 전원위 회의를 열고 ‘계엄 선포로 야기된 국가적 위기 극복 대책 권고의 건’을 상정해 이를 심의할 예정이었다. 지난 9일 김용원 상임위원과 한석훈·김종민·이한별·강정혜 비상임위원 등 5명이 발의해 안창호 인권위원장이 전원위 상정을 결정한 이 안건은 윤 대통령의 방어권 보장과 한덕수 국무총리에 대한 탄핵소추 철회 및 대통령 권한대행 복귀 등을 권고하는 내용이 골자다.&lt;br&gt;&lt;br&gt;이 안건에는 각 기관에 대해 권고하고자 하는 내용이 구체적으로 언급됐다. 검찰·경찰·공수처장에게는 ‘윤 대통령에 대해 무죄 추정의 원칙에 기초한 불구속수사를 할 것’, 헌법재판소장에게는 ‘윤 대통령의 방어권을 보장하고 심판 기간인 180일에 얽매이지 말 것’, 국회의장에게는 ‘한 총리에 대한 탄핵소추를 철회해 대통령 권한대행직을 수행하도록 하라’고 권고하는 식이다.&lt;br&gt;&lt;br&gt;이날 전원위 회의는 안건 상정에 반대하는 시민단체와 국회 운영위원회 야당 의원들의 항의로 열리지 못했다. 국가인권위원회 바로잡기 공동행동, 전국공무원노조 등은 이날 오전부터 인권위 건물 앞에서 ‘윤 대통령 방어권 보장’ 안건을 상정한 위원들과 안 위원장의 사퇴를 촉구하는 집회를 벌였다. 이들은 기자회견을 열고 “인권을 짓밟는 내란 세력을 옹호하는 안건이 상정돼선 안 된다”고 촉구했다. 고민정·양문석 민주당 의원과 천하람 개혁신당 의원 등도 인권위에 방문해 항의했다.&lt;br&gt;&lt;br&gt;이들은 이날 오후 2시부터는 전원위 회의가 열리는 인권위 건물 14층에서 인권위 위원들과 위원장의 입장을 막아섰다. 회의 시간에 맞춰 회의장 앞에 도착한 안 위원장은 회의장에 진입하지 못한 채 복귀했고, 김 상임위원은 “내가 탄핵하지 말자고 했느냐”며 “‘내란 수괴’ 피의자도 인권이 있다”며 2시간 동안 언쟁을 벌이다가 발걸음을 돌렸다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“아내 퇴직금으로 갚을게”...동료 교수 속여 3억 가로챈 교수 징역 1년</title>
-      <link>https://www.chosun.com/national/incident/2025/01/13/DSZ6ET6JUREC5ELEISSK6FTEZI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/01/13/DSZ6ET6JUREC5ELEISSK6FTEZI/</guid>
-      <dc:creator>이승규 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 13 Jan 2025 09:28:56 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/I25KOJKUFLIMGTWA6XJ7KYHICE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대구지법, 고법 청사/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;아내의 퇴직금으로 돈을 갚겠다며 동료 교수를 속여 3억원을 빌리고 차용금 대부분을 갚지 않은 사립대 교수에게 실형이 선고됐다.&lt;br&gt;&lt;br&gt;대구지법 형사8단독 김미경 판사는 사기 혐의로 기소된 교수 A(65)씨에게 징역 1년을 선고했다. 재판부는 A씨가 동료 교수 B씨에게 돈을 갚을 시간을 주기 위해 법정 구속은 하지 않았다.&lt;br&gt;&lt;br&gt;A씨는 지난 2021년 3월부터 이듬해 8월까지 동료 B씨에게 3억 1000만원을 가로챈 혐의를 받고 재판에 넘겨졌다. A씨는 “돈을 빌려주면 아내의 퇴직금으로 변제하겠다”며 B씨에게 돈을 빌렸다.&lt;br&gt;&lt;br&gt;하지만 A씨는 이미 주택 담보 대출금과 신용대출금, 사채 등 4억 1000만원 상당의 채무가 있었다. 매달 지급해야하는 이자도 300만원에 달했다. 또 A씨가 대학에서 받는 급여도 대출 상환금이 공제돼 실수령액은 30만~140만원 정도였다.&lt;br&gt;&lt;br&gt;A씨 아내도 갚아야 할 학자금 대출과 카드대출금 등이 있어 퇴직금을 받더라도 남편이 B씨에게 빌린 돈을 대신 변제할 수 없었던 것으로 조사됐다.&lt;br&gt;&lt;br&gt;A씨는 법정에서 “B씨에게 6000만원 정도를 갚은 만큼 B씨를 속이려고 한 의도는 없었다”고 주장했으나 재판부는 이를 받아들이지 않았다.&lt;br&gt;&lt;br&gt;김 판사는 “수입과 채무 등을 고려하면 A씨는 B씨에 대한 확실한 변제 계획이 없었고, 갚은 돈도 돌려막기 방식에 불과했다”며 “회복되지 않은 피해액이 2억 5000만원으로 적지 않은 점, 초범인 점 등을 참작했다”고 판시했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/VCTERGHSYM44JE7ROBC45SRXM4.jpg?width=601&amp;height=347&amp;auth=86a29fc77209eecaf0517afa18205522689307d62aba7669ea9ab78e3ac48fa3&amp;smart=true" type="image/jpeg" height="347" width="601">
-        <media:description type="plain">대구지방법원과 대구고등법원 전경.</media:description>
-        <media:credit role="author" scheme="urn:ebu">뉴시스</media:credit>
-      </media:content>
     </item>
     <item>
       <title>檢, ‘SKY 마약 동아리’ 회장 1심 판결에 불복해 항소</title>
@@ -874,15 +919,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MFJZTNT3AFICBHZEL3KF6K2DQU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울중앙지법. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;KT가 IPTV(인터넷TV) 서비스 프로그램 가운데 북한 미화 등으로 논란이 된 ‘통일TV’의 송출을 일방적으로 중단한 것은 위법해 손해를 배상할 의무가 있다고 법원이 판단했다.&lt;br&gt;&lt;br&gt;13일 법조계에 따르면 서울중앙지법 민사30부(재판장 정찬우)는 통일TV가 KT를 상대로 낸 계약이행청구 등 소송에서 KT가 약 2663만원을 지급하라며 지난 9일 원고 일부 승소로 판결했다.&lt;br&gt;&lt;br&gt;KT는 2022년 8월부터 자사 IPTV 서비스 ‘지니TV’를 통해 통일TV 방송 콘텐츠를 공급했는데, 이듬해 1월 “콘텐츠의 상당 부분이 조선중앙TV가 제작한 북한 영상물로 구성됐고, 그 내용과 전달 방식 등에 비춰 국가보안법에 의해 제작, 소지 등이 금지되는 이적표현물에 해당한다”며 계약 해지를 통보하고 송출을 중단했다.&lt;br&gt;&lt;br&gt;통일TV가 북한의 활동에 대해 긍정적으로 평가하는 취지 등의 방송을 내보내 ‘북한 미화 방송’으로 논란이 된 것에 따른 조치였다.&lt;br&gt;&lt;br&gt;이처럼 방송 송출이 중단된 건 계약기간이 2023년 12월까지 자동 연장된 직후였는데 이에 통일TV는 계약 해지가 위법하다며 2023년 8월에 1억원을 청구하는 소송을 냈다. KT 측은 재판 과정에서 이적표현물 방송 중단 등 관련 법령상 의무 이행을 위해 이 같은 조치를 내렸다는 취지로 주장했다.&lt;br&gt;&lt;br&gt;하지만 재판부는 “피고의 주장만으론 통일TV가 송출한 콘텐츠 전체 또는 상당 부분이 국가보안법상 이적표현물에 해당한다거나, 통일TV가 이 같은 이적표현물을 제공함으로써 이 사건 공급계약을 중대하게 위반했다고 인정하기 부족하다”며 “피고는 원고에게 위법한 계약해지 통보로 인한 손해를 배상할 의무가 있다”고 지적했다.&lt;br&gt;&lt;br&gt;그러면서 “피고는 원고가 작성한 공급제안서를 검토한 뒤 계약을 체결해 이 같은 정보가 송출될 수 있음은 계약 체결부터 당사자들이 예정한 것”이라며 “통일TV 프로그램들의 일부 내용엔 북한의 활동 등에 대해 북한방송의 아나운서가 이를 긍정적으로 평가하는 취지의 내용이 포함돼 있는 것으로 보이지만, 이에 대해 통일TV 스스로 해당 영상 또는 영상에서 드러난 북한의 실상이나 활동 등에 대해 무비판적으로 찬양·고무·선전한다는 취지의 표현까지 포함돼 있거나, 그와 같은 표현이 프로그램 전체의 내용을 ‘이적표현물’로 평가하게 할 정도에 이르렀다고 단정하긴 어렵다”고 설명했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>새마을금고 앱 전산 장애로 일부 접속 불가…"오늘 중 복구 마무리"</title>
-      <link>https://www.chosun.com/national/national_general/2025/01/13/APEWIF5PFREWZOKLXNW2CT5RPM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/13/APEWIF5PFREWZOKLXNW2CT5RPM/</guid>
-      <dc:creator>김영우 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 13 Jan 2025 08:24:17 +0000</pubDate>
-      <content:encoded>새마을금고의 스마트폰 앱 ‘MG더뱅킹’이 13일 한때 전산 장애로 접속이 되지 않아 고객들이 불편을 겪은 것으로 나타났다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6K56ZVXE4UIGUDUN5XK2U7A3SA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울시내의 한 새마을금고. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;새마을금고중앙회에 따르면, 새마을금고는 이날 오전 0~6시 기존 스마트폰 앱들을 통합하고 업그레이드하는 작업을 진행했다. 작업 완료 이후 오전부터 일부 고객들로부터 ‘앱에 접속할 수 없다’는 민원이 제기됐다.&lt;br&gt;&lt;br&gt;새마을금고 관계자는 “앱 통합 이후 앱을 업그레이드하려는 사람들이 몰려 지연 현상이 발생한 것으로 보인다”며 “오늘 중 복구를 마무리할 예정”이라고 말했다.&lt;br&gt;&lt;br&gt;새마을금고중앙회는 이날 긴급 안내문을 내고 “현재 전산 장애로 정상적인 거래가 진행되지 못 하고 있다”며 “고객님께 불편을 드린 점 진심으로 사과드린다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>'백골단 기자회견' 주선한 김민전, 검찰 고발 당해</title>
       <link>https://www.chosun.com/national/national_general/2025/01/13/YRS53IAE5RD3XOPWNJVQLAJON4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/13/YRS53IAE5RD3XOPWNJVQLAJON4/</guid>
@@ -890,33 +926,6 @@
       <description/>
       <pubDate>Mon, 13 Jan 2025 09:05:34 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UFRQG6TO3JBCPOR5OQJJCXHMXU.png"&gt;&lt;figcaption&gt;&lt;small&gt;지난 9일 서울 여의도 국회 소통관에서 김민전 국민의힘 의원과 윤석열 대통령 관저를 사수하는 2030 청년단인 '백골단'이 합동 기자회견을 진행하고 있다./유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국민의힘은 10일 당 소속 김민전 의원이 ‘백골단’을 자처한 단체(반공청년단)의 국회 기자회견을 주선한 것과 관련, 시민단체가 김 의원을 검찰에 고발했다.&lt;br&gt;&lt;br&gt;시민단체 서민민생대책위원회(서민위)는 지난 12일 김 의원을 명예훼손, 직권남용 등의 혐의로 김 의원을 서울남부지검에 고발했다고 13일 밝혔다.&lt;br&gt;&lt;br&gt;김순환 서민위 사무총장은 김 의원에 대해 “윤 대통령 관저 사수 집회를 벌이는 백골단 ‘반공청년단’을 미화하는 내용의 국회 기자회견을 마련한 부적절한 행위는 1980년대 당시 ‘백골단’으로 인해 피해를 봤던 학내 시위자들과 시위 군중들의 명예훼손뿐만 아니라 직권남용에 해당된다”고 설명했다.&lt;br&gt;&lt;br&gt;앞서 김 의원은 지난 9일 윤석열 대통령 관저 인근에서 흰 헬멧을 쓰고 ‘백골단’을 자처하며 윤 대통령 체포 반대 집회를 연 단체의 국회 기자회견을 주선했다.&lt;br&gt;&lt;br&gt;백골단은 1980~1990년대 시위대를 진압하고 체포하기 위해 구성된 사복 경찰 부대의 별칭이다. 일반 전투 경찰과 달리 하얀 헬멧을 착용해 이같은 이름이 붙었다.&lt;br&gt;&lt;br&gt;시위대를 무자비하게 구타하고 연행하는 것으로 유명했고 이승만 정부 때 자유당이 조직한 정치 깡패와도 같은 이름이라 한국 현대사에서 악명이 높다.&lt;br&gt;&lt;br&gt;백골단은 명지대생 강경대 사망 사건, 한진중공업 박창수 노조위원장 시신 탈취 사건 등에 개입해 민주화 운동 탄압의 상징이 됐다.&lt;br&gt;&lt;br&gt;한편 논란이 일자 김 의원은 회견 4시간 뒤에 “윤 대통령을 지지하는 청년들을 조금이라도 돕겠다는 마음으로 기자회견을 주선한 것이 사달이 돼 마음이 무겁다”고 사과했다.&lt;br&gt;&lt;br&gt;이어 10일에는 박수민 국민의힘 원내대변인이 논평에서 “정확한 정보와 배경을 파악하지 못한 채 우리 당 의원이 기자회견을 주선한 것에 대해 당 차원에서도 사과드린다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>91세 송삼수·87세 박정애의 중학교 졸업식… 노부부 도전은 아름다웠다</title>
-      <link>https://www.chosun.com/national/regional/2025/01/13/MF6C34VFIRADZDCHNVUNLADALY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/01/13/MF6C34VFIRADZDCHNVUNLADALY/</guid>
-      <dc:creator>고흥=조홍복 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 13 Jan 2025 08:27:18 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TQ3YP2DSD6MULXKONOV2E7X7KI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;송삼수, 박정애 부부가 중학교 졸업장을 받고 기뻐하고 있다./고흥 남양중 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 10일 전남 고흥군 남양중 강당에서 만학도 노부부의 졸업식이 열렸다. 송삼수(91)·박정애(87)씨 부부가 주인공. 이들이 졸업장을 받기 위해 단상에 오르자 전교생과 교직원 모두가 힘찬 박수를 보냈다. 자녀와 손주 등 20여명의 가족도 자리에서 일어나 축하의 함성을 내질렀다.&lt;br&gt;&lt;br&gt;13일 전남교육청에 따르면, 이 부부는 초등학교 졸업 후 한국전쟁 발발 탓에 배움의 시기를 놓쳤다. 가정을 꾸리고 네 남매를 키우기 위해 바쁘게 살아온 이들은 한때 접었던 배움의 꿈을 2022년 다시 시작했다. 3년간의 꾸준한 학습과 성실한 학교생활로 ‘졸업’이라는 결실을 봤다.&lt;br&gt;&lt;br&gt;학교가 마련한 고령의 학생을 위한 맞춤형 교육과정은 학습에 대한 흥미와 열정을 북돋웠다. 산수에 강했던 두 노인은 수학 시간 논리 퍼즐과 창의적 활동에도 도전했다고 한다. 영어 수업에선 알파벳과 간단한 실생활 표현을 익혔다. 시 쓰기 수업에서도 숨은 재능을 발휘했다.&lt;br&gt;&lt;br&gt;박씨는 뛰어난 암기력과 학습 정리 능력을 발휘했다. 또 정성이 가득 담긴 시 작품을 선보였다. 송씨는 출중한 그림 실력과 손재주로 학생들과 함께 작품을 만들며 소통했다. &lt;br&gt;&lt;br&gt;이중호 교장은 “학교 전체에 긍정적인 변화를 불러왔고 3년 동안 학교폭력이 전혀 없었다”며 “배움의 열정과 나눔 배려의 자세는 학교는 물론 지역사회 전체에 큰 울림을 줬고, 우리에게 깊은 교훈을 남겼다”고 말했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>변협회장 선거 안병희·금태섭 단일화…安-김정욱 ‘2파전’</title>
-      <link>https://www.chosun.com/national/court_law/2025/01/13/JIWVIP3WFNB3ZCO34OXDZBICW4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/01/13/JIWVIP3WFNB3ZCO34OXDZBICW4/</guid>
-      <dc:creator>박강현 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 13 Jan 2025 08:57:16 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/V4ISAJ7NR725LDNDX53RFIIEEI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;53대 대한변협회장 선거에 출마한 안병희(왼쪽부터) ·금태섭·김정욱 변호사. /각 후보자 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;재야 법조 수장을 뽑는 제53대 대한변호사협회(변협) 회장 선거를 앞두고 안병희(63·군법무관 7회)·금태섭(58·사법연수원 24기) 변호사가 안 변호사로 후보 단일화를 했다고 13일 밝혔다. 변협 회장 선거는 오는 20일 열린다. &lt;br&gt;&lt;br&gt;안 변호사 측은 이날 관련 보도자료를 내고 “13일 후보 단일화 합의문에 서명하면서, 특정 세력에 의한 협회 사유화를 저지하겠다는 대의 아래 두 후보간 대승적 결단을 내려 안 후보로 단일화 후보를 결정했다”고 공지했다.&lt;br&gt;&lt;br&gt;안 변호사는 “어려운 결정을 내려주신 금 후보에 감사드린다”며 “선거에 반드시 승리해 집행부 교체를 이뤄내고, 절박한 처지에 몰려 있는 변호사들의 복지와 안녕을 증진시키기 위해 혼신의 노력을 다하겠다”고 말했다.&lt;br&gt;&lt;br&gt;금 변호사는 페이스북에 “제가 부족해 여기서 선거운동이 멈추게 돼 송구스럽다”면서도 “안 후보가 본선에서 꼭 이겨 변협을 잘 이끌길 진심으로 바란다”고 했다.&lt;br&gt;&lt;br&gt;변협 회장은 전국 변호사 3만여 명을 대표하며, 차기 회장의 임기는 3년이다. 대법관, 검찰총장, 고위공직자범죄수사처장 등 법조계 주요 인사 후보 추천권도 갖고 있다.&lt;br&gt;&lt;br&gt;이로써 이번 선거에서 변협 회장 자리를 놓고 안 변호사와 김정욱(46·변호사시험 2회) 변호사가 맞붙게 됐다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>경찰, 尹 대통령 탄핵 심판 관련 헌법재판관 전원 경호팀 배치</title>
-      <link>https://www.chosun.com/national/national_general/2025/01/13/A6K6DWIA7VHR3GYEO5BRQZ7AHA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/13/A6K6DWIA7VHR3GYEO5BRQZ7AHA/</guid>
-      <dc:creator>구아모 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 13 Jan 2025 08:23:23 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FQSLCW7AMCD4CWJPLFUKWLR7LI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이호영 경찰청장 직무대행(차장)이 13일 서울 여의도 국회 행정안전위원회에 출석해 현안 질의에 답하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰이 윤석열 대통령 탄핵심판 심리가 본격화되는 것을 앞두고 헌법재판관 전원에 대한 경호를 강화했다고 밝혔다.&lt;br&gt;&lt;br&gt;이호영 경찰청장 직무대행은 13일 국회 행정안전위원회 현안 질의에 출석해 “헌법재판관 전원에 대해 현재 자택 안전관리를 하고 전담 경호팀을 배치해 운영하고 있다”라고 밝혔다.&lt;br&gt;&lt;br&gt;경찰은 2014년 통합진보당 해산심판, 2017년 박근혜 전 대통령 탄핵 심판 당시에도 헌법재판관에 대한 개별 경호를 강화한 바 있다.&lt;br&gt;&lt;br&gt;경찰은 정당 대표에 대한 안전관리도 강화하겠다는 방침이다. 더불어민주당 이해식 의원이 ‘이재명 대표에 대한 테러 예고가 있었다’라는 질의와 관련, 이 직무대행은 “위험 상황에 따라 당 측과 계속 연락하고 있다”며 “현재는 자택 순찰 등을 통해 안전 관리를 하고 있다”고 했다. 이어 “신변 보호 요청이 오면 적극적으로 검토하겠다”고 답했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[단독] 민주당 ‘민주파출소’ 경찰에 고발당해... “업무 모방, 경범죄 급”</title>
@@ -935,24 +944,6 @@
       <description/>
       <pubDate>Mon, 13 Jan 2025 06:50:10 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NEIUVBQD4RJDIQOMYN2LYVIHH4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전주지법 전경./전주지법&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;남편이 평소 즐겨 먹던 들기름에 살충제를 타 먹이려 하다 미수에 그친 60대 여성이 집행유예를 선고받았다.&lt;br&gt;&lt;br&gt;전주지법 형사7단독 한지숙 판사는 특수상해미수 혐의로 기소된 A(64)씨에게 징역 8개월에 집행유예 1년을 선고했다고 13일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난해 4월 23일 전북 임실군의 자택에서 남편 B(66)씨가 평소 자주 먹는 들기름에 액체로 희석한 살충제를 넣은 혐의로 기소됐다. A씨는 B씨가 복용하는 약에도 살충제를 넣은 것으로 조사됐다. &lt;br&gt;&lt;br&gt;당시 B씨는 들기름으로 밥을 비벼 먹다가 이상한 냄새가 나자 뱉었고, 약은 복용하지 않았다. 조사결과 A씨는 평소 B씨가 자신에 대해 험담을 하고 다닌다는 이유로 이 같은 범행을 저지른 것으로 드러났다. &lt;br&gt;&lt;br&gt;재판부는 죄질이 좋지 않고 B씨와 합의를 하지 못했다고 지적하면서도 A씨에게 실형을 선고하지는 않았다.&lt;br&gt;&lt;br&gt;한지숙 판사는 “이 사건의 범행은 미수에 그쳤고 수사기관의 조사 결과 들기름 등에 넣은 살충제는 치사량에 못 미친 것으로 드러났다”며 “피고인은 피해자로부터 가정폭력 등 부당한 대우에 장기간 노출됐고 심리적으로 불안한 상태에서 충동적으로 범행한 것으로 보인다. 피고인의 자녀들이 선처를 탄원하는 점 등을 고려해 형을 정했다”고 판시했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>건진법사에 불법 정치자금 건넨 지방선거 예비후보도 재판行</title>
-      <link>https://www.chosun.com/national/national_general/2025/01/13/FBSW6RYB5ZE2FDAH4JLETDGBIE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/13/FBSW6RYB5ZE2FDAH4JLETDGBIE/</guid>
-      <dc:creator>김도연 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 13 Jan 2025 07:13:40 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BSQ5S3XWMRNXPE37S36AZPCBWI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2018년 지방 선거 과정에서 억대의 불법 정치자금을 수수한 혐의를 받는 '건진법사' 전영배 씨가 9일 서울 양천구 서울남부지방법원에서 열린 영장실질심사(구속 전 피의자심문)에 출석하고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 2018년 지방선거 당시 공천을 대가로 불법 정치자금을 수수한 ‘건진법사’ 전성배(65)씨와 관련해, 그에게 정치자금을 건넨 예비후보 또한 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;서울남부지검 가상자산범죄합동수사단(단장 박건욱)은 지난달 27일 정치자금법 위반 혐의로 정모씨를 불구속 기소했다고 13일 밝혔다.&lt;br&gt;&lt;br&gt;검찰에 따르면 정씨는 2018년 지방선거 당시 경북 영천시장에 자유한국당(국민의힘 전신) 후보로 출마하고자 전씨에게 1억원이 넘는 금품을 건넨 혐의를 받는다.&lt;br&gt;&lt;br&gt;검찰은 배우 배용준씨의 투자 참여 사실을 앞세워 이른바 ‘욘사마 코인’으로 불렸던 스캠 코인(사기 암호화폐) ‘퀸비 코인’을 수사하던 과정에서 관련 사실을 확인했다.&lt;br&gt;&lt;br&gt;전씨에게 정씨를 소개해준 퀸비코인 업자 이모씨 또한 정치자금법 위반 방조 혐의로 함께 기소됐다. 정씨가 전씨에게 정치 자금을 건넬 목적을 가졌다는 점을 알고도 이씨는 이들을 소개해준 것으로 알려졌다.&lt;br&gt;&lt;br&gt;욘사마 코인과 관련해 구속 상태로 재판을 받고 있던 이씨는 지난 6일 보석으로 풀려났다.&lt;br&gt;&lt;br&gt;앞서 검찰은 지난 10일 전씨 또한 정치자금법 위반 혐의로 불구속 기소했다. 전씨는 수사 과정에서 정씨가 공천에서 떨어진 뒤 돈을 돌려줬다고 주장한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;검찰은 지난달 18일과 지난 6일 두 차례에 걸쳐 전씨에 대해 구속영장을 청구했으나 법원은 “전씨가 금원(金員·돈의 액수)을 받은 날짜, 금액, 방법이 명확히 확인되지 않았다” “정치인이 아닌 사람이 자신의 정치 활동과는 상관없이 단지 다른 정치인에게 전달한다는 명목으로 정치자금을 기부받은 경우에도 정치자금법 위반죄의 단독 정범이 될 수 있는지에 대해선 법리상 다툼의 여지가 있다”며 모두 기각했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘혈액암’ 조지호 경찰청장, 법원에 보석 청구</title>
-      <link>https://www.chosun.com/national/court_law/2025/01/13/FKDMD36DGFCLTFAZUFHOHOS6TU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/01/13/FKDMD36DGFCLTFAZUFHOHOS6TU/</guid>
-      <dc:creator>박강현 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 13 Jan 2025 05:07:15 +0000</pubDate>
-      <content:encoded>‘12·3 비상계엄 사태’ 당시 국회 진입을 막는 등 내란 중요임무 종사 등 혐의로 구속 기소된 조지호 경찰청장이 첫 재판을 앞두고 법원에 불구속 재판을 받게 해달라고 요청했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WTJ7DINKVBLWLLNWGM4YOG2RUA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;조지호 경찰청장. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;13일 법조계에 따르면 조 청장은 이날 이 사건을 심리하는 서울중앙지법 형사25부(재판장 지귀연)에 보석(保釋)을 청구했다. 보석은 구속된 피고인에게 보증금을 받거나 보증인을 세워놓고 거주지와 사건 관련인 접촉 제한 및 재판 출석 등 일정한 조건 아래 풀어주는 제도다.&lt;br&gt;&lt;br&gt;조 청장은 지난해 초 혈액암 2기 판정을 받은 것으로 알려졌다. 이에 조 청장 측은 검찰 송치 후 혈액암이 악화하고 폐렴 등 합병증까지 와 병원 치료가 필요하다는 이유 등으로 검찰에 구속집행정지를 요청했지만 최근 검찰이 이를 받아들이지 않은 것으로 전해졌다. 법원 보석 청구도 이와 비슷한 취지에서 낸 것으로 보인다.&lt;br&gt;&lt;br&gt;앞서 서울중앙지법 형사25부는 지난 8일 조 청장과 김봉식 전 서울경찰청장 사건을 접수했다. 두 사람은 계엄 당시 경찰을 동원해 국회를 봉쇄하고, ‘정치인 체포조’ 운영에 관여한 혐의를 받는다. 또 중앙선거관리위원회 과천청사 등에 경찰을 보내 청사를 점거하고, 서버 탈취를 시도한 혐의도 받는다.&lt;br&gt;&lt;br&gt;조 청장과 김 전 청장에 대한 첫 공판준비기일은 다음 달 6일 열린다. 준비 기일은 정식 재판에 앞서 범죄 혐의에 관한 피고인의 입장을 확인하고 증거 조사 계획 등을 잡는 절차로, 피고인이 법정에 출석할 의무는 없다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>선로로 사람 ‘퍽’…뉴욕 밀치기 범죄에 재조명된 서울 지하철, 왜 </title>
