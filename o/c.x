@@ -13,6 +13,158 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>[속보] 경찰, 사다리 통해 차벽 넘어 공관 내부 진입... 2차 저지선도 통과</title>
+      <link>https://www.chosun.com/national/national_general/2025/01/15/OEXDQVDTURDEPPFJPDFQYLU7JE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/15/OEXDQVDTURDEPPFJPDFQYLU7JE/</guid>
+      <dc:creator>박정훈 기자, 고유찬 기자, 구동완 기자, 김보경 기자, 김나연 기자, 양인성 기자, 조은서 기자, 최하연 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 14 Jan 2025 22:33:57 +0000</pubDate>
+      <content:encoded>15일 오전 7시 25분쯤 윤석열 대통령 2차 체포영장 집행을 시도 중인 경찰이 사다리를 통해 경호처에서 설치해둔 차벽을 넘고 공관 내부에 진입하는 데 성공하면서 경호처의 1차 저지선이 뚫렸다.&lt;br&gt;&lt;br&gt;7시 34분쯤까지 경찰 체포조 50여명이 이 같은 방식으로 공관 내부 진입에 성공했다.&lt;br&gt;&lt;br&gt;경찰 수십명이 내부에 진입함에 따라 공관입구에 경호처가 세운 버스 차벽도 7시 37분쯤 빠졌다.&lt;br&gt;&lt;br&gt;1차 저지선을 통과한 경찰 100여명은 7시 40분쯤 대오를 갖춰 2차 저지선을 향해 빠른 걸음으로 이동했다.&lt;br&gt;&lt;br&gt;이윽고 2차 저지선에 도착한 경찰 체포조 200여명은 경호처가 세워둔 버스 차벽 옆 우회로를 통해 이 또한 돌파했다. 2차 저지선 돌파 시각 7시 48분쯤이었다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/34XOLBIYVBLJFOAYHNQWQY3NP4.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;고위공직자범죄수사처(공수처)가 윤석열 대통령 2차 체포영장 집행에 나선 15일 오전 서울 용산구 한남동 대통령 관저로 공수처 관계자 및 경찰이 진입하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/OVDIVH5VBZBF7LHV6KJDFXJVHU.gif?width=500&amp;height=341&amp;auth=e3f0e50354ce2b75e214ace6ace39ef420285de813fcc8f3f5e78e66fdb0d50e&amp;smart=true" type="image/jpeg" height="341" width="500">
+        <media:description type="plain">고위공직자범죄수사처(공수처)와 경찰이 윤석열 대통령에 대한 2차 체포영장 집행에 나선 15일 서울 용산구 한남동 대통령 관저 입구에서 경찰이 사다리로 차벽을 넘고 있다./연합뉴스</media:description>
+        <media:credit role="author" scheme="urn:ebu">연합뉴</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>尹측 “55경비단의 ‘관저 출입 승인’ 공문, 공수처·경찰이 관인 찍어 위조”</title>
+      <link>https://www.chosun.com/national/court_law/2025/01/15/LLCMP4OHAJAZ7HV6GREE326C5I/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/01/15/LLCMP4OHAJAZ7HV6GREE326C5I/</guid>
+      <dc:creator>이슬비 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 14 Jan 2025 23:05:09 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GHKJGBDXDPZY5N4LZF4G2KELXY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;고위공직자범죄수사처(공수처)가 윤석열 대통령 2차 체포영장 집행에 나선 15일 오전 서울 용산구 한남동 대통령 관저로 관계자 및 형사들이 올라가고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 대통령 측은 고위공직자범죄수사처(공수처)가 관저 근접 경호를 맡고 있는 수도방위사령부 55경비단으로부터 ‘대통령 관저 출입을 허가한다’는 공문을 받았다고 한데 대해 “55경비단장의 관인을 탈취해 만든 ‘셀프 승인 공문’으로 드러났다”고 15일 주장했다.&lt;br&gt;&lt;br&gt;윤 대통령 측 석동현 변호사는 이날 기자단에 보낸 입장문에서 “경찰 국가수사본부는 55경비단장에게 추가 조사할 것이 있으니 출석하라고 요구했고, 이에 55경비단장 14일 오후 국수본에 출석했다”라며 “그러나 막상 55경비단장에게 요구한 것은 추가 조사가 아닌 관저 출입 승인이었다”고 했다. &lt;br&gt;&lt;br&gt;공수처와 비상계엄 공조수사본부를 꾸린 경찰 국가수사본부는 전날 추가 조사를 명목으로 국수본 55경비단장에게 출석을 요구한 것으로 알려졌다. 이 자리에서 “관저 출입을 승인해달라”는 요구가 있었다는 것이다.&lt;br&gt;&lt;br&gt;석 변호사는 “공수처, 경찰, 국방부 서기관 등 3인은 55경비단장에게 ‘관저 출입을 승인해달라’고 요구했고, 55경비단장은 ‘출입 승인 권한이 없다’며 여러 차례 거부했음에도 국수본 수사관은 ‘관인을 가지고 오라’고 강요했다”고 주장했다. 석 변호사는 “이에 55경비단장은 어쩔 수 없이 부대원에게 관인을 가져 올 것을 지시했고, 관인이 도착하자 수사관은 자신들이 보낸 공문을 출력해 와 그곳에 승인 내용이 적힌 쪽지를 붙이고 수사관이 직접 관인을 찍었다”고 했다.&lt;br&gt;&lt;br&gt;공수처가 전날 오후 2시 25분쯤 55경비단으로부터 수신한 것이라며 언론에 공개한 공문 사진에는 ‘군사기지법 제9조 및 같은 법 시행령 제8조에 따라 요청 대상 주소지에 대한 출입을 허가한다. 주둔지 부대장 제55경비단장 대령’이라는 쪽지가 덧붙여져 있다. 쪽지에는 경비단장의 직인이 찍혀 있다.&lt;b&gt;&amp;lt;사진&amp;gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/U7B5MMLFFJF4RIVI6YDWVK3B4M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;공수처가 지난 14일 2시 25분쯤 55경비단으로부터 수신한 것이라며 공개한 공문 사진. '군사기지법 제9조 및 같은 법 시행령 제8조에 따라 요청 대상 주소지에 대한 출입을 허가한다. 주둔지 부대장 제55경비단장 대령'이라는 쪽지가 덧붙여져 있고, 여기에 경비단장의 직인이 찍혀 있다. /공수처 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;공수처는 윤 대통령 측 주장에 대해 입장을 내지 않고 있다. 공수처가 이번에 발부받은 수색영장에는 지난달 31일 발부된 첫 영장과 달리 ‘형사소송법 110·111조가 적용되지 않는다’는 문구가 적히지 않은 것으로 파악됐다. 해당 조항은 ‘군사·공무상 비밀을 요하는 장소나 물건은 책임자의 승낙 없이 압수·수색할 수 없다’는 내용이다. 이에 법조계에서는 “압수·수색의 정당성을 확보를 위해 55경비단장의 허가 공문이 필요했던 것 아니냐”는 지적이 나온다.&lt;br&gt;&lt;br&gt;공수처는 전날 55경비단으로부터 영장 집행을 위한 출입 허가를 받았다고 언론에 공지했다. 그러나 국방부와 경호처는 모두 “사실이 아니다”라고 밝혔다. 이에 공수처는 “2시 25분쯤 ‘출입 허가’를 공문을 받았다가 4시 24분쯤 ‘추가 출입 승인이 필요하다’는 공문을 다시 받은 것”이라고 해명했다. 결국 출입 승인을 받지 못해 놓고 언론에 거짓 공지를 한 셈이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[속보] 2차 저지선 돌파한 경찰, 관저 앞 3차 저지선 접근</title>
+      <link>https://www.chosun.com/national/national_general/2025/01/15/FRMIZGWLRFGAFF7WOXGOWNL5HY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/15/FRMIZGWLRFGAFF7WOXGOWNL5HY/</guid>
+      <dc:creator>박정훈 기자, 고유찬 기자, 안태민 기자, 현정민 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 14 Jan 2025 23:01:48 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ACKPFXA2RNJUREOREVVISXV5IY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;고위공직자범죄수사처(공수처)와 경찰이 윤석열 대통령에 대한 2차 체포영장 집행에 나선 15일 용산구 한남동 대통령 관저에서 경찰 병력이 2차 저지선을 넘어 진입하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;15일 새벽부터 윤석열 대통령 2차 체포영장 집행을 하고 있는 공수처와 경찰이 2차 저지선을 돌파한 뒤 관저 앞 3차 저지선으로 올라가기 시작했다. &lt;br&gt;&lt;br&gt;이날 7시 48분쯤 2차 저지선을 돌파한 경찰과 공수처는 7시 55분쯤 200~300여명이 대오를 맞춰 관저 앞 3차 저지선 쪽으로 올라가기 시작했다. 이들은 8시쯤 3차 저지선 앞에 도착한 것으로 파악됐다. &lt;br&gt;&lt;br&gt;다만 3차 저지선을 뚫는다 하더라도 관저 내부에 4차, 5차 저지선이 또 있을지에 대해서는 알 수가 없는 상황이다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[속보] 경찰, 철조망 제거 때 저지하는 경호처 직원 없어...관저 내부 진입</title>
+      <link>https://www.chosun.com/national/national_general/2025/01/15/XKBURZK6WBDE7DT66PYASMZKVM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/15/XKBURZK6WBDE7DT66PYASMZKVM/</guid>
+      <dc:creator>이가영 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 14 Jan 2025 22:30:32 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TKV74UU5R6I4NEUWFYDWDAUKWA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;고위공직자범죄수사처(공수처)와 경찰이 윤석열 대통령에 대한 2차 체포영장 집행에 나선 15일 서울 용산구 한남동 대통령 관저 입구에서 경찰 병력이 사다리를 들고 이동하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 대통령에 대한 2차 체포영장 집행에 나선 고위공직자범죄수사처(공수처)와 경찰이 15일 4시간 가량의 대치 끝에 서울 한남동 대통령 관저에 진입했다.&lt;br&gt;&lt;br&gt;공수처와 경찰은 1차 저지선이었던 철조망을 제거한 뒤 사다리를 이용해 차벽을 넘어 관저에 진입했다. 이 과정에서 저지하는 경호처 직원은 없었다.&lt;br&gt;&lt;br&gt;1차 저지선을 통과한 공수처와 경찰은 대열을 정비한 후 관저 안쪽을 향해 대거 이동했다.&lt;br&gt;&lt;br&gt;1차 영장 집행 때도 공수처와 경찰은 1, 2차 저지선을 무난하게 통과했으나 3차 저지선을 뚫지 못하고 철수했다. 경찰은 인원을 계속 추가 투입하며 경호처 저지에 대비하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[속보] 경찰·공수처, 차벽 옆 우회로로 2차 저지선 통과</title>
+      <link>https://www.chosun.com/national/national_general/2025/01/15/FA6L3X47MFBR3DER5LKKMPZWZ4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/15/FA6L3X47MFBR3DER5LKKMPZWZ4/</guid>
+      <dc:creator>이가영 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 14 Jan 2025 22:54:50 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SAV67W2MJSJDQRMIF4GVYTPIWE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;고위공직자범죄수사처(공수처)가 윤석열 대통령 2차 체포영장 집행에 나선 15일 오전 서울 용산구 한남동 대통령 관저로 공수처 관계자 및 경찰이 진입하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 대통령에 대한 2차 체포영장 집행에 나선 고위공직자범죄수사처(공수처)와 경찰이 15일 오전 7시 48분쯤 서울 용산구 한남동 대통령 관저 내부 2차 저지선을 통과했다.&lt;br&gt;&lt;br&gt;2차 저지선에는 버스 차벽이 설치됐으나 공수처와 경찰은 버스 차벽을 우회해 통과했다. 이때까지 경호처의 별다른 저지가 없어 1차 저지선 통과 때보다 속도를 낸 것으로 전해졌다. 관저 내부의 길을 막고 있던 차벽도 이동하는 모습이 포착됐다.&lt;br&gt;&lt;br&gt;앞서 이날 오전 7시 25분쯤 경찰 체포조 50여명은 4시간가량의 대치 끝에 철조망과 차벽 등으로 이뤄진 1차 저지선을 통과했다. 경찰은 절단기로 철조망을 끊고, 사다리를 이용해 차벽을 넘었다.&lt;br&gt;&lt;br&gt;1차 영장 집행 때도 1, 2차 저지선은 무난하게 통과했으나 3차&amp;nbsp;저지선을&amp;nbsp;뚫지&amp;nbsp;못하고&amp;nbsp;철수했다. 경찰은 인원을 계속 추가 투입하며 경호처 저지에 대비하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[속보] 공수처·경찰, 2차 저지선 접근…차벽 우회해 통과</title>
+      <link>https://www.chosun.com/national/national_general/2025/01/15/4BCC4OI5YBDJRBQJO6FKAW6SQY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/15/4BCC4OI5YBDJRBQJO6FKAW6SQY/</guid>
+      <dc:creator>이가영 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 14 Jan 2025 22:41:50 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VAUJOAOHQ4C2OR3K2ETHN5JJCQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;고위공직자범죄수사처(공수처)가 윤석열 대통령 2차 체포영장 집행에 나선 15일 오전 서울 용산구 한남동 대통령 관저로 관계자들이 차벽을 넘어 진입하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열&amp;nbsp;대통령에&amp;nbsp;대한&amp;nbsp;2차&amp;nbsp;체포영장&amp;nbsp;집행에&amp;nbsp;나선&amp;nbsp;고위공직자범죄수사처(공수처)와&amp;nbsp;경찰이&amp;nbsp;15일&amp;nbsp;오전&amp;nbsp;7시&amp;nbsp;40분쯤&amp;nbsp;서울&amp;nbsp;용산구&amp;nbsp;한남동&amp;nbsp;대통령&amp;nbsp;관저&amp;nbsp;내부&amp;nbsp;2차&amp;nbsp;저지선에&amp;nbsp;접근한 후 8분 뒤 이를 통과했다. &lt;br&gt;&lt;br&gt;이날&amp;nbsp;오전&amp;nbsp;7시&amp;nbsp;25분쯤&amp;nbsp;경찰&amp;nbsp;체포조&amp;nbsp;50여명은&amp;nbsp;4시간가량의&amp;nbsp;대치&amp;nbsp;끝에&amp;nbsp;철조망과&amp;nbsp;차벽&amp;nbsp;등으로&amp;nbsp;이뤄진&amp;nbsp;1차&amp;nbsp;저지선을&amp;nbsp;통과했다.&amp;nbsp;경찰은&amp;nbsp;절단기로&amp;nbsp;철조망을&amp;nbsp;끊고,&amp;nbsp;사다리를&amp;nbsp;이용해&amp;nbsp;차벽을&amp;nbsp;넘었다.&lt;br&gt;&lt;br&gt;2차&amp;nbsp;저지선에도&amp;nbsp;버스&amp;nbsp;차벽이&amp;nbsp;설치됐으나&amp;nbsp;공수처와&amp;nbsp;경찰은&amp;nbsp;버스&amp;nbsp;차벽을&amp;nbsp;우회해&amp;nbsp;통과한&amp;nbsp;것으로&amp;nbsp;전해졌다.&lt;br&gt;&lt;br&gt;이&amp;nbsp;과정에서&amp;nbsp;경호처&amp;nbsp;직원들의&amp;nbsp;제지는&amp;nbsp;없던&amp;nbsp;것으로&amp;nbsp;알려졌다.&amp;nbsp;1차&amp;nbsp;영장&amp;nbsp;집행&amp;nbsp;때도&amp;nbsp;1,&amp;nbsp;2차&amp;nbsp;저지선은&amp;nbsp;무난하게&amp;nbsp;통과했으나&amp;nbsp;3차&amp;nbsp;저지선에서&amp;nbsp;집행이&amp;nbsp;막혔다.&amp;nbsp;경찰은&amp;nbsp;인원을&amp;nbsp;계속&amp;nbsp;추가&amp;nbsp;투입하며&amp;nbsp;경호처&amp;nbsp;저지에&amp;nbsp;대비하고&amp;nbsp;있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>오동운 공수처장, 7시 30분 출근… ‘집행 못 하면 어떡할 거냐’ 질문에 묵묵부답</title>
+      <link>https://www.chosun.com/national/court_law/2025/01/15/DIHF67NM75E2VB5JNMBNJOHWFM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/01/15/DIHF67NM75E2VB5JNMBNJOHWFM/</guid>
+      <dc:creator>김정은 기자, 이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 14 Jan 2025 22:37:46 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DXRGKSBD6VNZXHLL6PFVFBFJ2I.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;오동운 공수처장이 15일 오전 경기 과천시 정부과천청사 고위공직자범죄수사처(공수처)로 출근하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;오동운 고위공직자범죄수사처장은 윤석열 대통령 2차 체포영장 집행을 시도 중인 15일 오전 7시 30분 정부과천청사 내 공수처 청사로 출근했다. 보안구역 바깥에서 대기하던 취재진을 그대로 지나친 뒤 관용차에서 내린 오 처장은 ‘오늘 집행 못 할 경우 대체 계획이 있으시냐’ ‘집행 완수하실 거냐’ ‘몇 일까지 집행 시도하실 거냐’ 등 질문에 모두 답하지 않고 청사로 들어갔다.&lt;br&gt;&lt;br&gt;오 처장이 청사에 도착한 시각은 이날 오전 5시 40분쯤 공수처와 경찰청 국가수사본부 특별수사단으로 구성된 체포팀이 영장 집행 시도에 착수한 지 1시간 50분이 지난 시점이다. 이에 앞서 이재승 공수처 차장은 오전 3시 57분쯤 개인 차량을 이용해 청사로 출근했다. 청사 바깥에서 대기하던 체포팀 차량 2대는 오전 4시 10분쯤 한남동 대통령 관저에 도착했고, 비슷한 시각 45인승 대형버스에 탑승한 공수처 체포팀 인원 40여 명도 관저 앞에 도착했다.&lt;br&gt;&lt;br&gt;한편, 이날 오전 7시 25분쯤 경찰 일부 인원이 사다리를 통해 경호처에서 설치해둔 차벽을 넘어 관저 내부로 진입하는 데 성공했다. 7시 34분쯤까지 경찰 체포조 50여명이 이 같은 방식으로 관저에 진입했다. 체포팀은 경호처의 2차 저지선에 도착해 버스로 세운 차벽과 대치하고 있다고 한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QB4VH3PV2ZLDVGSDQE7L7EVLR4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;고위공직자범죄수사처(공수처)와 경찰이 윤석열 대통령에 대한 2차 체포영장 집행에 나선 15일 서울 용산구 한남동 대통령 관저 입구에서 경찰이 사다리로 차벽을 넘고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[속보] ‘尹체포조’ 일부 경찰, 매봉산 등산로 쪽으로 관저 진입 시도</title>
+      <link>https://www.chosun.com/national/2025/01/15/NAOEYS4HGJFFTPUCC55HFSX3LI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2025/01/15/NAOEYS4HGJFFTPUCC55HFSX3LI/</guid>
+      <dc:creator>주형식 기자, 김보경 기자, 구동완 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 14 Jan 2025 21:17:05 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/E5H6722HQFM2JCU7LYQQNBIOFM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;고위공직자범죄수사처(공수처)와 경찰이 윤석열 대통령에 대한 2차 체포영장 집행에 나선 15일 서울 용산구 한남동 대통령 관저 인근 매봉산 등산로 입구에서 형사기동대원들이 현장을 살피고 있다./연합뉴스
+    superdoo82@yna.co.kr/2025-01-15 07:36:09/
+&lt;저작권자 ⓒ 1980-2025 ㈜연합뉴스. 무단 전재 재배포 금지, AI 학습 및 활용 금지&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;15일 윤석열 대통령에 대한 체포 영장 재집행에 나선 경찰이 서울 용산구 한남동 관저 인근 매봉산 등산로를 통해 대통령 관저 진입을 시도하고 있다. 대통령경호처 경호관 일부가 매봉산 쪽에도 배치된 것으로 알려져, 양측 간 충돌 가능성이 커지고 있다는 전망이 나온다.&lt;br&gt;&lt;br&gt;체포팀으로 추정되는 수사관들은 이날 새벽 6시쯤 매봉산 등산로에 집결했다. 관저 앞에서는 공수처와 경찰이 체포·수색영장을 제시하고 진입을 시도하고 있지만, 국민의힘 의원들과 윤 대통령 변호인단등이 가로막아 1시간 넘게 대치 중이다. 이러한 상황에서 경찰이 우회로 진입도 착수한 것으로 보인다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/E5H6722HQFM2JCU7LYQQNBIOFM.jpg?width=4256&amp;height=2910&amp;auth=d40fe6004e1037d0fd5d29187a878ad9de0e9428d40094aa792f34dffa11773f&amp;smart=true" type="image/jpeg" height="2910" width="4256">
+        <media:description type="plain">&lt;YONHAP PHOTO-2411&gt; 현장 살피는 형사기동대
+    (서울=연합뉴스) 김도훈 기자 = 고위공직자범죄수사처(공수처)와 경찰이 윤석열 대통령에 대한 2차 체포영장 집행에 나선 15일 서울 용산구 한남동 대통령 관저 인근 매봉산 등산로 입구에서 형사기동대원들이 현장을 살피고 있다. 2025.1.15
+    superdoo82@yna.co.kr/2025-01-15 07:36:09/
+&lt;저작권자 ⓒ 1980-2025 ㈜연합뉴스. 무단 전재 재배포 금지, AI 학습 및 활용 금지&gt;</media:description>
+        <media:credit role="author" scheme="urn:ebu">김도훈</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>김기현 “불법적 체포영장 집행 즉각 중단하라”</title>
+      <link>https://www.chosun.com/national/national_general/2025/01/15/XBBOAGR7PJHXZJIB2IMA5KHJUA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/15/XBBOAGR7PJHXZJIB2IMA5KHJUA/</guid>
+      <dc:creator>박정훈 기자, 구동완 기자, 조은서 기자, 양인성 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 14 Jan 2025 22:19:54 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BPRT7YHWOFJTBNIO6LBXXXYW7E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;고위공직자범죄수사처(공수처)와 경찰이 윤석열 대통령에 대한 2차 체포영장 집행에 나선 15일 서울 용산구 한남동 대통령 관저 입구에서 국민의힘 김기현 의원이 입장발표를 하고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;고위공직자범죄수사처(공수처)의 윤석열 대통령 2차 체포영장 집행을 시도하면서 서울 용산구 한남동 공관입구 인근에서 몸싸움이 일어나는 등 대치가 계속되는 가운데 이를 규탄하기 위해 현장에 나온 김기현 국민의힘 의원이 체포영장 집행을 즉각 중단하라고 주장하고 나섰다. &lt;br&gt;&lt;br&gt;이날 김기현 의원은 한남동 공관입구 앞에서 “공수처와 경찰 국가수사본부의 불법적 체포영장 집행을 즉각 중단하라”며 준비한 성명문을 읽어나갔다. 나경원, 윤상현, 박수영, 장동혁 의원 등 다른 국민의힘 의원들도 함께했다. 김 의원은 “이미 국격이나 대통령에 대한 예의 같은 것은 내팽개쳐진 지 오래”라며 “민주당은 1심 법원에서 징역형 집행유예 판결을 받고 15개 범죄혐의에 대한 재판을 받고 있는 자기 당 대표는 거룩한 성인인 양 수령 아버지로 떠받들며 방탄을 일삼으면서 피의자에 불과한 현직 대통령에 대해선 온갖 모욕을 주고 있다”고 했다. 그러면서 “(윤 대통령에 대한) ‘인간사냥’을 해대고 있는 그 내로남불 작태에 분노를 금할 수 없다”고 했다. &lt;br&gt;&lt;br&gt;한편 김 의원이 발언을 할 때마다 근처에 있던 반윤 시위대는 “체포영장이 불법이 아니라 계엄령이 불법이다” “이러려고 정치하시나” “아무도 안 다치게 대통령 스스로 내려오게 하라” 등 소리를 질러대기도 했다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[속보] 경찰 “김성훈 경호차장·이광우 경호본부장 체포영장 함께 집행” </title>
+      <link>https://www.chosun.com/national/2025/01/15/S7YRNLBW5BFO5KMAZI3SMCSYEQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2025/01/15/S7YRNLBW5BFO5KMAZI3SMCSYEQ/</guid>
+      <dc:creator>주형식 기자, 고유찬 기자, 최하연 기자, 구동완 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 14 Jan 2025 21:53:50 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CL76GQUASFMBHJDCWWO2N6PGNE.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;고위공직자범죄수사처(공수처)가 윤석열 대통령 2차 체포영장 집행에 나선 15일 오전 서울 용산구 한남동 대통령 관저로 형사들이 이동하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;15일 윤석열 대통령에 대한 체포 영장 재집행에 나선 경찰은 김성훈 대통령경호처 차장과 이광우 경호본부장에 대한 체포영장도 함께 집행하고 있다&lt;br&gt;&lt;br&gt;경찰 특별수사단은 “김성훈 경호처 차장에 대한 체포영장(13일)뿐 아니라 이광우 경호본부장에 대한 체포영장이 어제(14일) 밤에 발부됐다”고 밝혔다.&lt;br&gt;&lt;br&gt;현재 경찰은 관저로 진입하는 정문을 차벽으로 가로막은 대통령경호처를 향해 “출입문을 개방하라”는 경고 방송을 하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/E67OWGC33NJGPE65SFLDJIXFSQ.jpg?width=4000&amp;height=6000&amp;auth=25f21018c8f6c0a6fac92230087e48f59062b4e635230cad9c4d25dfc43892ce&amp;smart=true" type="image/jpeg" height="6000" width="4000">
+        <media:description type="plain">[서울=뉴시스] 황준선 기자 = 고위공직자범죄수사처와 경찰이 윤석열 대통령에 대한 체포영장 집행에 나선 15일 오전 서울 용산구 윤석열 대통령 관저 진입로에 경호처 직원들이 대기하고 있다. 2025.01.15. hwang@newsis.com</media:description>
+        <media:credit role="author" scheme="urn:ebu">황준선</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>尹 대통령 수색영장에 ‘사저와 안전가옥도 수색 필요’</title>
+      <link>https://www.chosun.com/national/2025/01/15/57C3V6P3YJFA3AMNNHMLTIRTFY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2025/01/15/57C3V6P3YJFA3AMNNHMLTIRTFY/</guid>
+      <dc:creator>이가영 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 14 Jan 2025 21:49:44 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4IWK5NG5VZIMRLCGGRU3VCX5C4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;고위공직자범죄수사처(공수처)와 경찰이 윤석열 대통령에 대한 2차 체포영장 집행에 나선 15일 오전 서울 용산구 한남동 대통령 관저 입구에서 경찰이 관저 진입을 시도하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;고위공직자범죄수사처(공수처)가 법원으로부터 윤석열 대통령의 2차 체포영장을 발부받으면서 위치 추적이 불가능한 점을 고려해 관저와 사저, 안전가옥 등의 수색영장을 함께 발부받은 것으로 확인됐다.&lt;br&gt;&lt;br&gt;15일 윤 대통령 측이 공개한 수색영장에 따르면, 서울서부지법 신한미 영장전담 부장판사는 지난 7일 체포‧수색영장을 발부하면서 윤 대통령이 소재할 개연성이 높은 관저, 사저, 안전가옥 등의 장소를 수색할 필요가 있다고 기재했다.&lt;br&gt;&lt;br&gt;체포영장을 집행하기 위해서는 피의자의 소재지를 파악해야 하나 현직 대통령의 신분을 유지하고 있어 대통령경호처나 대통령실을 통해 동선 등을 확인하는 것이 불가능하다는 점을 이유로 설명했다.&lt;br&gt;&lt;br&gt;또한 윤 대통령이 사용하고 있는 비화폰은 통신사실확인자료 제공 요청을 통해 실시간 발신 기지구 위치를 제공받는 것을 기대하기 어려운 점, 윤 대통령이 대통령 재직 이전에 사용한 휴대전화에 대해 발신기지국 위치 제공을 신청했으나 개인 명의 휴대전화는 꺼져있는 점 등도 위치 자료 확보가 어려운 사유로 제시됐다.&lt;br&gt;&lt;br&gt;이번 수색영장에는 지난달 31일 발부된 첫 영장과 달리 ‘형사소송법 1110‧111조가 적용되지 않는다’는 문구가 적혀있지 않았다. 해당 조항은 군사‧공무상 비밀을 요하는 장소나 물건은 책임자나 공무소의 승낙 없이 압수‧수색할 수 없다는 내용이다.&lt;br&gt;&lt;br&gt;하지만 공수처는 체포를 위한 수색에는 그런 조항이 적용되지 않는 것이 당연한 법리라며 수색영장 집행에 문제가 없다는 입장으로 전해졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[속보]경찰, 관저 입구 쪽에 사다리 투입…진입 시도</title>
+      <link>https://www.chosun.com/national/national_general/2025/01/15/6VPI2U5XAVDZTCEFRLQTFG3E6Q/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/15/6VPI2U5XAVDZTCEFRLQTFG3E6Q/</guid>
+      <dc:creator>이가영 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 14 Jan 2025 21:57:12 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4OTISLEZLZM7PNWZTA4THQ32YY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;고위공직자범죄수사처(공수처)와 경찰이 윤석열 대통령에 대한 2차 체포영장 집행에 나선 15일 서울 용산구 한남동 대통령 관저 입구에서 경찰 병력이 사다리를 들고 이동하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;고위공직자범죄수사처(공수처)와 경찰이 윤석열 대통령에 대한 2차 체포영장 집행에 나선 15일 서울 용산구 한남동 대통령 관저 입구에서 경찰 병력이 사다리를 들고 이동했다. 본격적으로 관저 진입을 시도하는 것으로 해석된다.&lt;br&gt;&lt;br&gt;경찰은 동시에 김성훈 경호처 차장과 이광우 경호본부장에 대한 체포영장 집행에도 나섰다. 경찰은 “김 차장과 이 본부장에 대한 체포영장을 집행할 것”이라며 “출입문을 개방하고 영장집행에 협조하라”고 경고 방송을 통해 알렸다. 경호처 내 ‘강경파’로 분류되는 김 차장과 이 본부장을 체포해 윤 대통령 체포 전 경호처를 해산할 전망이다.&lt;br&gt;&lt;br&gt;앞서 김 차장과 이 본부장은 지난 3일 윤 대통령 체포영장을 저지한 혐의(특수공무집행방해)로 입건됐다. 이들은 경찰의 3차 출석요구에 모두 불응하며 체포영장이 발부된 상태다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>尹체포 반대 집회로 한남대로 양방향 통제 중</title>
+      <link>https://www.chosun.com/national/national_general/2025/01/15/M3P2VGCARZCHRDJBJQWGE7UEUU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/15/M3P2VGCARZCHRDJBJQWGE7UEUU/</guid>
+      <dc:creator>김가연 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 14 Jan 2025 21:47:54 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/W2BBHURZ7FU27VMPLVODXAZDP4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;고위공직자범죄수사처(공수처)가 윤석열 대통령 2차 체포영장 집행에 나선 15일 오전 서울 용산구 대통령 관저 인근에 경찰 기동 버스가 차도를 막고 있다. /뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;고위공직자범죄수사처(공수처)가 15일 윤석열 대통령 2차 체포 시도에 나선 가운데, 관저 주변인 서울 용산구 한남대로 양방향이 전면 통제됐다.&lt;br&gt;&lt;br&gt;서울교통정보(TOPIS)에 따르면, 이날 오전 4시58분부터 한남대로 한남오거리~북한남삼거리 구간 양방향이 전면 통제 중이다.&lt;br&gt;&lt;br&gt;용산구청은오전 5시24분 안전안내문자를 통해 “한강진역 인근 대규모 집회로 인해 해당 구간 양방향 통제 중이니 인근 통행시 우회하시기 바란다”라고 안내했다.&lt;br&gt;&lt;br&gt;관저 인근에서는 공수처의 2차 체포영장 집행에 반대하는 윤 대통령 지지자들의 밤샘 시위가 이어지고 있다. 경찰에 따르면 집결 인원은 6000명을 넘어서는 것으로 추산된다.&lt;br&gt;&lt;br&gt;경찰은 시위대와 충돌 등에 대비하며 관저 인근에 기동대 54개 부대(약 3200명), 기동대 버스 160대를 투입했다.&lt;br&gt;&lt;br&gt;한편 2관저 앞에서는 공수처와 경찰이 체포·수색영장을 제시하고 진입을 시도하고 있지만, 국민의힘 의원 30여명과 윤 대통령 변호인단이 가로막으며 대치 중이다. 이러한 상황에서 경찰과 공수처 수사관들은 매봉산 등산로를 통해 한남동 관저 우회 진입을 시도하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[속보] 한남동 관저 앞 소방대원 출동… 대치 속 부상자 발생 가능성</title>
+      <link>https://www.chosun.com/national/national_general/2025/01/15/IOOSKQBYCBBAPMG2V6ZIXSCJYU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/15/IOOSKQBYCBBAPMG2V6ZIXSCJYU/</guid>
+      <dc:creator>박정훈 기자, 고유찬 기자, 김나연 기자, 최하연 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 14 Jan 2025 21:42:15 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UR5MRHIFLVCETPVCUBE7O4NNTU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령 2차 체포영장 집행이 시도되고 있는 15일 오전 6시 40분쯤 서울 용산구 한남동 공관구역 입구에서 공수처와 윤 대통령 측 사이 몸싸움이 발생해 부상자가 발생했다. 이에 소방대원이 출동해 응급조치를 한 것으로 파악됐다. /김나연 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;고위공직자범죄수사처(공수처)의 윤석열 대통령 2차 체포영장 집행 시도가 시작된 15일 오전 6시 35분쯤 서울 용산구 한남동 대통령 관저 인근에 소방대원이 출동했다.&lt;br&gt;&lt;br&gt;체포영장을 집행하려는 공수처와 경찰, 이를 저지하려는 윤 대통령 변호인단과 국민의힘 의원·당직자 사이에 몸싸움이 벌어졌는데 해당 과정에서 부상자가 발생했을 가능성 등이 제기된다.&lt;br&gt;&lt;br&gt;6시 40분쯤 소방대원은 현장에서 응급처치를 마친 뒤 병원 이송을 준비하고 있다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[속보] 공수처·경찰, 관저 입구 앞 지지자 등 강제해산 시작</title>
+      <link>https://www.chosun.com/national/national_general/2025/01/15/X6LBVFXGBZE7JLEU7YTP2MSUG4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/15/X6LBVFXGBZE7JLEU7YTP2MSUG4/</guid>
+      <dc:creator>이가영 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 14 Jan 2025 21:44:38 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TYUOFM3SN5PCPLHO5OMG3YKY2I.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;고위공직자범죄수사처(공수처)가 윤석열 대통령 2차 체포영장 집행에 나선 15일 오전 서울 용산구 한남동 대통령 관저 앞에 김기현 의원을 비롯한 국민의힘 의원들이 집결해 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 대통령에 대한 2차 체포영장 집행에 나선 고위공직자범죄수사처와 경찰이 15일 오전 영장 집행을 막아선 국민의힘 의원과 법률대리인 등에 대한 해산 조치에 나섰다.&lt;br&gt;&lt;br&gt;공수처와 경찰은 서울 한남동 대통령 관저 앞에서 체포·수색영장을 제시하고, 막아서는 국민의힘 국회의원과 당 관계자 등을 한 명씩 끌어내며 강제 해산하고 있다. 동시에 윤 대통령 측에서 설치한 바리케이트를 제거하면서 관저 진입을 시도하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>공수처, 체포영장 제시하며 “집행하겠다” 尹 변호인단 “불법”</title>
       <link>https://www.chosun.com/national/national_general/2025/01/15/GTVQMPQDLBFEZJLL6GSP3H67QI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/15/GTVQMPQDLBFEZJLL6GSP3H67QI/</guid>
@@ -738,42 +890,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ABANOMSGUZIN3MPEKGSRCPRZBE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;검찰이 14일 인천지법 형사15부(재판장 류호중) 심리로 열린 결심 공판에서 공직선거법 위반 혐의로 기소한 박용철 강화군수에게 벌금 100만원을 구형했다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰이 지난해 총선을 앞두고 불법 선거운동을 한 혐의로 기소한 박용철(61) 인천 강화군수에게 당선 무효형을 구형했다.&lt;br&gt;&lt;br&gt;인천지법 형사15부(재판장 류호중)는 14일 공직선거법 위반 혐의로 기소된 박용철 군수에 대한 결심공판을 진행했다.&lt;br&gt;&lt;br&gt;검찰은 이날 법정에서 박 군수에게 벌금 100만원을 구형했다. 구형 이유는 구체적으로 밝히지 않았다. 공직선거법상 선출직 공직자가 100만원 이상의 벌금형을 확정받으면 지위를 잃게 된다.&lt;br&gt;&lt;br&gt;박 군수 측 변호인은 최후 변론에서 “인천시의원 신분으로, 배준영 국회의원 선거후보 대책 위원회에서 일하면서, 배준영의 당선을 위해 노력하자는 의미에서 호별 방문을 한 것”이라고 했다. 이어 “병문안을 하는 등 통상적인 정당 활동이었고, 이게 선거운동해 해당하는지는 살펴봐 달라”며 “무죄를 선고해 주시길 요청한다”고 했다.&lt;br&gt;&lt;br&gt;박 군수는 최후 진술에서 “시의원으로서 정당활동을 한 것”이라며 “선처해주시길 바란다”고 했다. 박 군수는 제22대 국회의원 총선을 앞둔 지난해 3월 6일부터 4월 6일까지 5차례에 걸쳐 유권자들의 집을 방문하면서 선거운동을 한 혐의로 기소됐다.&lt;br&gt;&lt;br&gt;당시 인천시의회 의원이던 박 군수는 지난 10월 인천 강화군수 보궐선거에 국민의힘 후보로 출마해 당선됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>50년 넘게 ‘김씨’였는데 “친부 아니다”… 아버지 성씨 쓸 수 있을까?</title>
-      <link>https://www.chosun.com/national/national_general/2025/01/14/RITVCT7K4JGAPCMEMOEJDXL6VY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/14/RITVCT7K4JGAPCMEMOEJDXL6VY/</guid>
-      <dc:creator>최혜승 기자 </dc:creator>
-      <description/>
-      <pubDate>Tue, 14 Jan 2025 05:25:22 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/U6Z2CPKMHZF7JCPKBDGRQY6BL4.png"&gt;&lt;figcaption&gt;&lt;small&gt;/일러스트=조선디자인랩 정다운&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;아버지의 친자가 아니라는 판결에 따라 50년 만에 어머니의 성(姓)과 본(本)을 따라야 했던 남성이 법률구조공단의 도움으로 원래의 성과 본을 되찾았다.&lt;br&gt;&lt;br&gt;14일 대한법률구조공단에 따르면, 50대 A씨는 아버지 김씨와 어머니 이씨 사이에서 태어난 자녀로 아버지의 호적에 올랐다. 그러나 지난해 A씨와 김씨 사이의 친생자관계 부존재 확인 사건에서 두 사람은 친생자 관계가 존재하지 않는다는 판결이 선고됐다.&lt;br&gt;&lt;br&gt;이 판결로 A씨의 가족관계등록부는 자동으로 폐쇄됐다. 어머니 이씨는 이미 사망해 A씨에 대한 새로운 출생신고를 할 수 없는 상황이었다. 새로 가족관계등록부를 창설해야 했던 A씨는 ‘부를 알 수 없는 자는 모의 성과 본을 따른다’는 민법 제781조 제3항에 따라 어머니 이씨의 성과 본으로 바뀌게 됐다.&lt;br&gt;&lt;br&gt;50년 넘게 김씨로 살아오다 하루아침에 이씨가 된 A씨는 일상에서 혼란을 겪었다. 성과 본이 바뀌면서 금융 거래에 큰 불편을 겪었고 기존에 지급받던 복지 혜택을 받지 못했다. 50년 이상 맺어온 수많은 사회적 관계를 유지하는 일도 쉽지 않았다. 무엇보다 A씨가 이씨로 바뀌면서 그의 자녀들도 자동으로 성이 변경돼 피해를 받았다.&lt;br&gt;&lt;br&gt;이에 A씨는 법률구조공단을 찾아 도움을 요청했고 공단은 A씨를 대리해 기존의 성과 본으로 다시 변경해 달라고 요청하는 심판을 청구했다. 창원지방법원은 작년 11월 A씨에게 “성과 본을 기존의 성과 본으로 변경할 것을 허가한다”고 결정했다.&lt;br&gt;&lt;br&gt;A씨를 대리해 소송을 진행한 공단 소속 이민우 변호사는 “아버지와의 친생자관계 부존재확인 판결로 수많은 성과 본으로 강제적으로 변경돼 개인의 존엄성과 행복추구권, 인격권이 침해받는 사례가 많다”면서 “법률구조제도는 이런 어려움을 겪는 사람의 권리 보호에 도움을 주고 있다”고 했다.&lt;br&gt;&lt;br&gt;공단은 A씨의 자녀들에 대해서도 성·본 변경허가 심판 청구를 대리해 진행하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>국회 앞 스타벅스에 트럭 돌진 사고…1명 경상</title>
-      <link>https://www.chosun.com/national/national_general/2025/01/14/CLHBD6AKZFBE3HL4ARGDZ4CXAY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/14/CLHBD6AKZFBE3HL4ARGDZ4CXAY/</guid>
-      <dc:creator>김명일 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 14 Jan 2025 05:16:48 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QCPGNUKY6GKK243AYSQHFPLZH4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;14일 오전 서울 영등포구 국회대로 인근 건물 1층으로 돌진한 1톤 트럭의 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 여의도 국회 앞 도로변 스타벅스에 1톤 트럭이 돌진하는 사고가 발생했다.&lt;br&gt;&lt;br&gt;14일 경찰 등에 따르면 이날 오전 8시10분쯤 서울 영등포구 여의도 국회 앞 국회대로에서 블랙아이스(도로 결빙)로 인해 차량들이 미끄러지면서 1톤 트럭이 스타벅스로 돌진하는 사고가 발생했다.&lt;br&gt;&lt;br&gt;1톤 트럭은 승용차 2대를 들이받고 스타벅스로 돌진해 외부 유리창 등을 파손시켰다.&lt;br&gt;&lt;br&gt;다행히 이 사고로 사망자나 중상자 등은 발생하지 않았고, 한 승용차 운전자인 50대 남성이 경상을 입어 병원으로 이송됐다.&lt;br&gt;&lt;br&gt;경찰은 현재 구체적인 사고 경위를 파악 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>HD현대중 울산조선소서 트레일러, 오토바이 추돌.. 1명 숨져</title>
-      <link>https://www.chosun.com/national/regional/2025/01/14/H6HLHOZTJJBUVPKTTTVX4M6A4I/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/01/14/H6HLHOZTJJBUVPKTTTVX4M6A4I/</guid>
-      <dc:creator>울산=김주영 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 14 Jan 2025 05:12:31 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UFFKZORMVLMLLWDRH5QWS2X644.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;HD현대중공업 울산조선소 전경. / HD현대중공업&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;14일 오전 10시 30분쯤 울산시 동구 HD현대중공업 울산조선소 내 도로에서 트레일러와 오토바이가 부딪치는 사고가 났다.&lt;br&gt;&lt;br&gt;이 사고로 오토바이를 몰던 회사 직원 A(50대)씨가 크게 다쳐 병원으로 이송됐으나 숨졌다.&lt;br&gt;&lt;br&gt;경찰은 트레일러가 우회전하던 중 같은 방향으로 가고 있던 오토바이를 보지 못하고 사고가 난 것으로 보고 정확한 사고 경위를 조사 중이다.&lt;br&gt;&lt;br&gt;HD현대중공업은 “사내 도로에서 오토바이 운행 사고로 고귀한 생명을 잃어 참담한 마음이다”며 “고인의 명복을 빌며 유가족께 깊은 애도를 표한다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>제주 향토 한라산 소주, ‘오늘도 부드럽게 오름’ 10년 숙성 소주 출시</title>
-      <link>https://www.chosun.com/national/regional/2025/01/07/73IAVL3ZG5HORPEF6ERHVEJW5I/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/01/07/73IAVL3ZG5HORPEF6ERHVEJW5I/</guid>
-      <dc:creator>오재용 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 07 Jan 2025 02:07:26 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CXK6OW7YTBD6BBVJQU352U7WY4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;제주지역 향토기업인 (주)한라산이 선보인 증류소주 '오늘도 부드럽게 오름' 제품./(주)한라산&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제주 대표 주류기업인 ㈜한라산이 신제품 ‘오늘도 부드럽게 오름’을 출시했다고 7일 밝혔다.&lt;br&gt;&lt;br&gt;‘오늘도 부드럽게 오름’은 10년 숙성된 100% 국산 쌀 증류원액으로 만든 16도의 저도수 소주로 부드러운 맛이 특징이다.&lt;br&gt;&lt;br&gt;소주병이 녹색인 것도 눈길을 끈다. ㈜한라산은 “과거 녹색병 소주를 판매할 당시 ‘하얀거 줍써(주세요의 제주어)’, ‘파란거 줍써’라는 말로 주문하던 주민들의 향수를 반영했다”고 설명했다.&lt;br&gt;&lt;br&gt;라벨 디자인은 제주에 있는 368개의 오름 중 윗세오름의 산세와 그 사이에 솟아 오른 영실을 표현했다. 라벨 전면에는 ‘농협과 함께하는 우리 농산물 소비 촉진 캠페인’ ‘100% 국내쌀 증류원액 블렌딩’ 문구도 넣었다. 황금빛 벼를 상징하는 금색 뚜껑에는 QR코드를 삽입해 각종 이벤트와 지하수 수질 관리 결과 등을 확인할 수 있도록 했다.&lt;br&gt;&lt;br&gt;㈜한라산 관계자는 “지속되는 경기 침체로 어려운 시기에 75년간 제주와 함께 성장하며 희로애락(喜怒哀樂)을 함께해 온 한라산 소주가 주민과 제주의 밝은 희망을 함께 나누고자 하는 소망을 담아 신제품을 출시했다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[속보] 헌재, 尹측 정계선 재판관 기피 신청 기각</title>
       <link>https://www.chosun.com/national/court_law/2025/01/14/XIMVSV55BJBQ3EH2AKLZTVFD5E/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/01/14/XIMVSV55BJBQ3EH2AKLZTVFD5E/</guid>
@@ -810,42 +926,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HZPGAOQ5OBC6BK3MKBB4G5EVYI.png"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=조선디자인랩 정다운&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;어렸을 때 가정을 떠난 아버지가 남긴 부동산에 대해 자녀들이 소유권을 주장할 수 있을까? 최근 이러한 고민을 하고 있다는 A씨의 사연이 13일 YTN 라디오 ‘조인섭 변호사의 상담소’를 통해 전해졌다.&lt;br&gt;&lt;br&gt;A씨에 따르면, A씨가 어렸을 때 아버지는 여러 번 외도를 했다. 어머니는 남편의 외도로 힘들어하다가 이혼했고, A씨 남매를 홀로 힘들게 키웠다. A씨는 부모님의 이혼 후 아버지와 연락을 하지 않았으며, 어머니가 암으로 돌아가신 후에도 아버지에게 알리지 못했다고 말했다.&lt;br&gt;&lt;br&gt;A씨는 한참 세월이 흐른 뒤, 친척으로부터 아버지의 소식을 들었다고 한다. 여든이 넘은 아버지는 건강이 좋지 않았고, 그에겐 15년 재혼해 살고 있는 아내가 있다는 얘기였다. 얼마 뒤 A씨는 ‘새어머니’로부터 “아버지가 A씨 남매를 보고싶어 하는데 와줄 수 있느냐”는 연락을 받았다.&lt;br&gt;&lt;br&gt;A씨는 새어머니가 좋은 분으로 느껴졌고, 아버지를 만날 수 있는 마지막 기회인 것 같아 찾아갔다고 했다. 그때 새어머니는 A씨 남매에게 “아버지가 소유한 30억원 상당의 상가가 있다”며 “나는 욕심이 없고 훗날 알아서 챙겨 주겠다”라고 얘기했다고 한다.&lt;br&gt;&lt;br&gt;A씨는 “아버지가 돌아가신 뒤 상가 등기부를 열람했다”면서 “‘공유’가 아닌 ‘합유’ 등기로 되어 있었다”라고 했다. 그러면서 “저와 오빠가 상속인에 해당하니 그 여자분(새어머니)과 함께 상가를 소유하는 것이 맞느냐”라며 법률 조언을 구했다.&lt;br&gt;&lt;br&gt;이에 대해 임경미 법무법인 신세계로 변호사는 “A씨는 아버지가 사망했다고 해도 상가 자체에 대한 소유를 주장할 수는 없다”고 판단했다.&lt;br&gt;&lt;br&gt;임 변호사가 이렇게 판단한 이유는 상가가 ‘합유 등기’로 돼 있기 때문이다. 임 변호사는 “일반적인 공유등기에서는 지분의 해당자가 사망하면 상속인들이 자연스럽게 사망자의 지분을 소유하게 된다”라며 “하지만 합유 등기의 경우 2인이 합유의 형태로 소유하고 있다가 1인이 사망하면 그 사망자의 소유 부분은 나머지 1인의 단독 소유가 된다”고 설명했다. 아버지가 사망했으므로 건물이 새어머니 단독 소유가 됐다는 설명이다.&lt;br&gt;&lt;br&gt;다만 임 변호사는 “상가에 대해서는 새어머니가 단독으로 등기할 수 있지만, 아버지의 몫에 대해서는 A씨 남매에게 금전으로 정산해줘야 한다”라고 했다.&lt;br&gt;&lt;br&gt;그러면서 “새어머니도 아버지 사망 당시 혼인한 배우자이기 때문에 자신의 상속분을 주장할 수 있다”라며 “결국 새어머니는 시세가 오르는 상가를 완전히 소유하게 되고, 아버지 정산금에 대해서도 자신의 상속분을 주장할 수 있게 되는 것”이라고 덧붙였다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>“6초 만에 두달반치 월급”…1억뷰 찍은 펀치 영상, 수익 보니</title>
-      <link>https://www.chosun.com/national/national_general/2025/01/14/WPUIIDYCSFGX3DIWZJIQVU7FKA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/14/WPUIIDYCSFGX3DIWZJIQVU7FKA/</guid>
-      <dc:creator>김자아 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 14 Jan 2025 04:34:04 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VWYWQH7D5BHCDHSOHSTN36BLDE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;보디빌더 A씨가 인스타그램에서 1억회 이상 조회된 영상(왼쪽)으로 얻은 수익을 공개했다./인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;1억회 이상의 조회수를 기록한 릴스(인스타그램 숏폼 영상)의 수익이 공개돼 화제다.&lt;br&gt;&lt;br&gt;14일 여러 온라인커뮤니티에는 ‘인스타그램 릴스 1억뷰 수익’이라는 제목으로 최근 한 보디빌더 인플루언서 A씨가 공개한 자료가 공유됐다.&lt;br&gt;&lt;br&gt;앞서 구독자 약 14만명을 보유한 A씨는 지난해 11월10일 인스타그램에 “남자 회식 후 국룰”이라며 오락실 펀치머신에 주먹을 날리는 영상을 올렸다.&lt;br&gt;&lt;br&gt;영상 속 남성은 운동으로 잘 단련된 팔을 빙빙 돌려 풀더니 스텝을 밟으며 펀치머신 쪽으로 다가갔다. “쉐이”라는 짧은 기합을 넣은 그는 단 두 발자국 스텝을 끝으로 힘껏 펀치머신을 때렸다. 펀치머신 점수판은 끝없이 올라갔지만 끝내 점수는 공개되지 않았다.&lt;br&gt;&lt;br&gt;약 6초 분량의 이 짧은 영상은 인스타그램에서 1억회 이상 조회되며 인기를 끌었다. 네티즌들은 “꽉 찬 근육, 펀치 전 디딤 발, 펀치 후 서 있는 자세, 쉐이라는 기합까지 중독 요소가 가득하다” “움직임이 철권(격투 게임) 캐릭터 같다” “점수 몇점 나왔는지 궁금하다” 등의 반응을 보였다.&lt;br&gt;&lt;br&gt;이후 A씨는 지난 12일 “1억뷰 펀치 영상으로 얼마를 벌었을까”의 영상을 통해 앞선 영상에서 공개하지 않은 펀치 점수와 인스타그램 측으로 부터 입금된 결제대금 내역을 공개했다. 먼저 점수판이 멈춘 숫자는 9447점이었다.&lt;br&gt;&lt;br&gt;이어 공개된 입금 내역에 따르면 A씨는 지난해 12월9일 531.61달러를 받은 것을 시작으로 같은달 20일 2966.82 달러, 이달 7일에는 1189.34달러의 대금을 지급 받아 지금까지 총 4687.77달러(약 685만원)를 벌었다. 결제대금은 모두 모회사인 메타의 대표 소셜미디어(SNS)인 페이스북 이름으로 지급됐다.&lt;br&gt;&lt;br&gt;네티즌들은 “내 두달 반치 월급이다” “6초 영상 하나에 700만원이면 장난 아니다” “릴스는 광고도 없는데 순수 조회수 만으로도 돈이 되는구나” 등의 반응을 보이고 있다.&lt;br&gt;&lt;br&gt;인스타그램은 사용자들이 올린 콘텐츠에 대한 감사 표시로 수익금을 지급하는 ‘보너스’ 제도를 운영하고 있다. 릴스 뿐 아니라 모든 사진 게시물도 대상이 된다.&lt;br&gt;&lt;br&gt;다만 아직 시범 운영 단계라 한국, 미국, 일본에 거주하는 일부 사용자만 보너스를 받을 수 있다. 보너스를 신청할 수 있는 자격 조건은 개인 계정이 아닌 프로페셔널(비지니스 또는 크리에이터) 계정이어야 하며, 인스타그램의 파트너 수익화 정책을 준수해야 한다.&lt;br&gt;&lt;br&gt;정확한 수익금 정산 기준은 공개하지 않았으나, 인스타그램 측은 “재생 회수와 게시물 조회수가 높을 수록 더 많은 수익을 올릴 수 있다”고 안내하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>尹측 “영장 집행 막는 경호처 권한 행사 정당... 침입 땐 모두 처벌 대상”</title>
-      <link>https://www.chosun.com/national/court_law/2025/01/14/OOCBKLMHAVH75D3KXMSVIBKNAE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/01/14/OOCBKLMHAVH75D3KXMSVIBKNAE/</guid>
-      <dc:creator>이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 14 Jan 2025 04:10:40 +0000</pubDate>
-      <content:encoded>윤석열 대통령 변호인단은 14일 언론 공지를 통해 “체포영장 집행을 막는 대통령경호처의 권한 행사는 정당하다”는 입장을 밝혔다. 그러면서 “불법‧위헌 영장으로 관저에 침입하는 경찰들은 모두 특수공무집행방해 및 군사시설보호법 위반으로 처벌의 대상이 된다”고 주장했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/E4PE4H4K2NLUDMC7LXF7EY2E2Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령에 대한 체포영장 2차 집행이 임박했다는 전망이 나오는 가운데 14일 오전 서울 용산구 한남동 대통령 관저에서 경호처 소속으로 추정되는 직원이 경내를 순찰하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;변호인단은 “대통령경호법 제5조는 경호업무를 하며 검문·검색, 출입통제, 질서유지 등 위해 방지에 필요한 활동을 할 수 있도록 규정하며, 동법 제9조는 누구든지 허가를 득하지 않고 군사기지 및 군사시설에 출입하는 것을 금지하고 있다”며 이 같은 입장을 밝혔다. 대통령 관저는 군사시설 보호구역에 해당하는데, 법에 의해 책임자의 허가를 받지 않고 출입할 수 없다는 것이다.&lt;br&gt;&lt;br&gt;체포영장 집행을 위해 관저에 진입하는 경찰들을 경호처 직원들이 체포할 수 있다는 주장도 변호인단은 제시했다. 대통령경호법 17조에 따라 경호처 직원들은 업무 수행 중 범죄에 대해 사법경찰관리 직무를 수행할 수 있다는 것이다. 변호인단은 “천대엽 법원행정처장은 지난 13일 국회 법제사법위원회 전체회의에 출석해 ‘책임자의 승낙 없이 군사 비밀 장소에 강제로 들어가는 것이 적법한가’라는 유상범 의원의 질의에 ‘적법하지 않을 수 있다’고 답변했다. 영장 집행을 막는 시도에 대해선 ‘적법하다는 해석이 가능하다’고 답했다”며 “공무원 자격 상실 및 재임용 제한, 공무원 연금 수령 제한 등 불이익을 면하지 못할 것이라는 점을 경고한다”고 했다.&lt;br&gt;&lt;br&gt;변호인단은 “우리는 다수의 경찰이 어쩔 수 없는 상황에 내몰려 원하지 않는 대통령 체포 작전에 투입되었음을 알고 있다”며 “명령을 거부해야 할 쪽은 정당한 업무를 수행하는 경호처 직원들이 아니라, 불법적 명령을 받은 경찰관들”이라고 했다. 그러면서 “경찰관 여러분이야말로 명령을 거부하더라도 어떠한 피해를 받지 않을 것이며, 대통령과 국민이 여러분을 끝까지 보호할 것임을 분명히 말씀드린다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>검찰, ‘새만금 태양광 비리’ 관련 군산시청 추가 압수수색</title>
-      <link>https://www.chosun.com/national/national_general/2025/01/14/IBYNVNV3DRHFHI5FABWOWVZW5A/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/14/IBYNVNV3DRHFHI5FABWOWVZW5A/</guid>
-      <dc:creator>고유찬 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 14 Jan 2025 03:52:30 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/D64YJF23UM2GO2EMQHRMY6EQDU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;군산시청 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;새만금 태양광 발전사업 비리 의혹을 수사 중인 검찰이 군산시청에 대한 추가 압수수색에 나섰다.&lt;br&gt;&lt;br&gt;서울북부지검 국가재정범죄합동수사단(단장 이일규)은 14일 오전 전북 군산시청 새만금에너지과에 수사관을 보내 관련 자료를 확보하고 있다고 이날 밝혔다.&lt;br&gt;&lt;br&gt;검찰은 태양광 발전사업 비리에 연루된 군산시청 공무원 A씨의 사무실을 압수수색 하는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;검찰은 2023년 7월에도 군산시청 시장실 등을 압수수색한 바 있다. 군산시가 우선협상 대상자 선정 과정에서 시장과의 학연을 바탕으로 특혜를 줬다는 의혹을 수사하기 위해서였다.&lt;br&gt;&lt;br&gt;앞서 감사원은 2022년 10월 시작한 ‘신재생에너지 사업 추진 실태’ 감사를 통해 군산시 태양광 발전사업 수주 과정에서 뒷돈이 오간 정황을 포착하고 검찰에 수사를 의뢰한 바 있다.&lt;br&gt;&lt;br&gt;검찰은 이 사업의 인허가 청탁 명목으로 금품을 수수한 공사 브로커, 공사 수주 명목으로 금품을 받은 신영대 더불어민주당 의원의 전 보좌관 정모씨를 지난해 6월 구속 기소한 바 있다.&lt;br&gt;&lt;br&gt;정씨는 지난 달 13일 1심 선고에서 징역 1년 2개월과 추징금 2000만원을 선고받았다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>신임 의협회장 “정부가 의대교육 정상화 방안 내놔야 정원 논의”</title>
-      <link>https://www.chosun.com/national/welfare-medical/2025/01/14/P5ZBX3GMFNEB7NTYXWZIVQZRIU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/01/14/P5ZBX3GMFNEB7NTYXWZIVQZRIU/</guid>
-      <dc:creator>오유진 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 14 Jan 2025 03:19:56 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WGIOFWP4SNJ3BIR3W77RJ5J2H4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;14일 오전 김택우 대한의사협회(의협) 신임 회장이 서울 용산구 의협 회관 지하 1층 대강당에서 열린 취임식에서 취임사를 하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김택우 대한의사협회(의협) 신임 회장이 정부의 수련 특례·입영 연기 등을 두고 “후속 조치에 불과하다”며 “정부는 올해 의대 교육 마스터플랜을 제시해야 한다”고 재차 강조했다.&lt;br&gt;&lt;br&gt;김 회장은 14일 서울 용산구 의협 회관에서 열린 취임식에서 “제43대 집행부는 현 사태를 해결하고 대한민국 의료 환경의 정상화를 위해 전력을 다하겠다”며 “국민 건강과 생명을 책임져야 할 정부는 더 이상 시간 끌기식의 안이하고 무책임한 대응을 중단하고, 문제를 일으킨 당사자가 결자해지한다는 마음으로 (사태 해결에) 접근해야 할 것”이라고 밝혔다.&lt;br&gt;&lt;br&gt;그는 “여전히 정부와 여당은 사태 해결을 위한 구체적인 계획 없이 후속 조치에 불과한 전공의 수련·입영 특례 방침을 내세우고, 이미 실패했던 여의정 협의체를 재개하자고 말한다”며 “분명히 밝히지만 현 상태로는 의대 교육이 도저히 불가능하다는 사실을 정부 스스로 인정하고, 2025년 의대 교육이 제대로 이뤄질 수 있도록 임시방편이 아닌 제대로 된 의학 교육 마스터플랜을 제시해야 한다”고 했다.&lt;br&gt;&lt;br&gt;이어 “정부가 우선 사태 해결과 의대 교육 정상화를 위한 뚜렷한 계획과 명확한 방침을 내놔야만 의료계 역시 2026년 의대 정원 문제를 비롯한 의대 교육 계획 역시 논의하고 대화할 수 있다”고 했다. 정부가 사직 전공의들에게 적용키로 한 수련 특례·입영 연기, 의학 교육 여건 개선을 위한 예산 투입만으로는 전공의와 의대생이 복귀하기 어렵다는 의미다.&lt;br&gt;&lt;br&gt;그러면서 “과거와 같이 정부 정책에 끌려가는 게 아니라, 정책을 먼저 생산하고 선도하는 의료 전문가 단체로서의 역할과 기능에 충실하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>“남편 문제 공정성 우려” 尹이 기피신청 낸 정계선, 법원서도 논란</title>
       <link>https://www.chosun.com/national/court_law/2025/01/14/TGZKQI3ACZDOJPKNQ4GNZ26OMQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/01/14/TGZKQI3ACZDOJPKNQ4GNZ26OMQ/</guid>
@@ -864,62 +944,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EI7N52NHDNCZXMMJL4XCOOVGLY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;(왼쪽부터) 김동필 넥스팜코리아 회장, 이규용 나자인 회장, 권태진 변호사. /성균관대&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;성균관대학교 총동창회(회장 김성집)는 ‘2024년 자랑스러운 성균인상’ 수상자로 김동필 넥스팜코리아 회장, 이규용 나자인 회장, 권태진 변호사 등 총 3명을 선정했다고 14일 밝혔다. 시상식은 15일 서울 광진구 그랜드워커힐호텔 비스타홀에서 열리는 총동창회 신년인사회에서 진행된다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>헌재 “오후 2시 尹 탄핵 심판 전, 정계선 재판관 기피 여부 결론 예상”</title>
-      <link>https://www.chosun.com/national/court_law/2025/01/14/S6LBTVJHXVG7BNYUJEZCUUGYWQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/01/14/S6LBTVJHXVG7BNYUJEZCUUGYWQ/</guid>
-      <dc:creator>박혜연 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 14 Jan 2025 02:05:21 +0000</pubDate>
-      <content:encoded>윤석열 대통령 탄핵심판의 첫 변론 기일이 14일 오후 2시부터 진행되는 가운데, 헌법재판소는 이날 오전 재판관 회의를 열고 윤 대통령의 헌법재판관 기피 신청에 관해 논의 중이라고 밝혔다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XUM2NCQJANVIT3SEOAZZF7QJNM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령의 탄핵심판 첫 변론 기일이 열리는 14일 오전 서울 종로구 헌법재판소 정문에서 경찰이 경계근무를 서고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;천재현 헌재 공보관은 이날 브리핑에서 “오전 10시부터 재판관 회의 소집되어 윤 대통령 측이 전날 제기한 정계선 헌법재판관에 대한 기피 신청과 이의신청 등에 관해 논의 중”이라고 밝혔다.&lt;br&gt;&lt;br&gt;헌재법에 따라 기피 신청이 접수되면 소송 절차가 정지되는 게 원칙이다. 천 공보관은 “(윤 대통령의 변론이 시작되는) 오후 2시 전에는 결론이 나올 것”이라고 했다. &lt;br&gt;&lt;br&gt;이어 천 공보관은 “재판관 기피 신청이 인용되는 경우 해당 재판관은 변론에 참석하지 않고 변론이 진행될 수 있다”면서도 “여태까지 재판관 기피 신청이 인용된 경우는 한 번도 없었다. 대부분 각하나 기각 결정이 내려졌다”고 설명했다.&lt;br&gt;&lt;br&gt;재판관 회의에 정 재판관이 참석했냐는 기자의 질문에는 “어떠한 재판관이 참석했는지는 지금은 밝히기 어렵다”고 답했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/K3SYQCWI7BD3XGVYINMCU76YTQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;정계선 헌법재판관이 지난 2일 오전 서울 종로구 헌법재판소에서 열린 취임식에서 취임사를 하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;앞서 윤 대통령 측은 전날 정 재판관에 대해 “공정한 심판을 기대하기 어렵다”며 기피 신청을 한 바 있다. 헌재법 24조는 당사자가 재판관에 대한 기피 신청을 할 수 있는 유일한 사유로 재판의 공정성이 우려되는 경우를 규정한다.&lt;br&gt;&lt;br&gt;이밖에 윤 대통령 측은 헌재가 5회 변론기일까지 일괄 지정한 것, 증거 채부 결정을 한 것 등과 관련해 총 3건의 이의신청을 헌재에 제기했다.&lt;br&gt;&lt;br&gt;헌재에 따르면 국회 측은 전날 홍장원 전 국가정보원 1차장, 조지호 경찰청장, 곽종근 특수전사령관, 이진우 수도방위사령관, 여인형 방첩사령관 등 5명을 증인으로 신청했다. 당초 국회 측이 준비 기일에 제출한 입증계획서에는 증인으로 15명이 거론됐지만, 3분의 1 규모로 줄어든 것이다.&lt;br&gt;&lt;br&gt;천 공보관은 윤 대통령이 고위공직자범죄수사처(공수처)의 체포영장에 불응해 낸 권한쟁의심판과 관해 “재판관 회의에서 다 같이 검토하고 있는 것으로 안다”며 “사건의 심리·결정의 속도에 대해서는 재판부에서 전적으로 결정할 사안”이라고 밝혔다.&lt;br&gt;&lt;br&gt;아울러 오는 16일 예정된 탄핵심판 2차 변론 기일에 윤 대통령이 직접 출석할지 여부에 대해 천 공보관은 “출석과 관련한 별도의 협조 요청이 들어오지 않은 상태”라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>김동현 “코인 때문에 장모님 집까지 팔아...생지옥이었다”</title>
-      <link>https://www.chosun.com/national/people/2025/01/14/QD2S2EJKORBIHI53RWMS3RMLUE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/01/14/QD2S2EJKORBIHI53RWMS3RMLUE/</guid>
-      <dc:creator>정아임 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 14 Jan 2025 02:41:06 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/W4OJ4JQY4KUVSRKCTTP23ALVNA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;종합격투기선수 출신 방송인 김동현이 11일 유튜브 채널에 출연해 자신의 투자 경험담에 대해 이야기하고 있다. /유튜브 '지편한세상'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;종합격투기선수 출신 방송인 김동현이 과거 장모님의 주택까지 팔아 가상화폐에 투자한 경험을 털어놨다.&lt;br&gt;&lt;br&gt;지난 12일 방송인 지석진의 유튜브 채널 ‘지편한세상’에는 김동현이 출연해 투자와 선수 시절 경험담 등에 대해 이야기를 나눴다.&lt;br&gt;&lt;br&gt;2022년 가상화폐 투자를 시작했다는 김동현은 “거의 생지옥이었다. (방송을) 촬영하다가도 (내가 투자한 가상화폐가) 뚝 떨어지더라”며 “집만 판 게 아니라 (투자금이) 다 거기 들어갔다”고 당시를 떠올렸다.&lt;br&gt;&lt;br&gt;김동현은 “처음에는 게임처럼 (가상화폐 투자를) 시작하게 됐는데, 돈이 너무 많이 들어가 있었다”며 “정신 차려 보니 너무 많이 손해를 봤더라. 아이들이 아무것도 모르고 뛰어놀고 있는데 정신이 번쩍 들었다. 이러다 길바닥 가겠다 싶어서 투자 공부를 시작했다”고 말했다.&lt;br&gt;&lt;br&gt;이어 “그때 (손실이) 70~80%였는데, 다 팔고 비트코인을 샀다”며 “바보처럼 손해를 봤지만, 이게 1억이 되면 본전을 찾겠더라. 그때 (비트코인) 한 개에 2000만원쯤 할 때였다. 어느 정도 가격이 오르면 이제는 너무 힘들어서 욕심 안 부리고 돈 뺄 것”이라고 했다.&lt;br&gt;&lt;br&gt;김동현은 당시 장모님 주택까지 팔아 투자했다고도 전했다. 그는 “그때 장모님 집까지 팔고 (비트코인을) 샀다가, 집 가격은 오르고 코인 가격은 내려가 민망하더라”라며 “지금은 다행히 회복됐지만, 쉽지 않았다”고 덧붙였다. 14일 오전 11시 30분 기준 코인거래소 빗썸에 따르면 1비트코인의 가격은 약 1억4250만원이다.&lt;br&gt;&lt;br&gt;앞서 김동현은 지난해 유튜브 방송 ‘아침먹고가2′에서 “한남더힐의 작은 평수에서 잠깐 살다가 그걸 팔고 코인을 했다”고 밝히기도 했다. 당시 그는 주택을 처분한 뒤로는 무주택자로 살고 있으며, 서울 서초구 반포동 80평대 아파트를 반전세로 얻었다고 했다.&lt;br&gt;&lt;br&gt;김동현은 2008년 한국인 최초로 UFC에 데뷔했다. 그는 13승이라는 한국인 최다승 기록을 남겼다. 그는 은퇴 후 여러 예능 프로그램에 나오며 새 삶을 살고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>GGM 두 번째 부분파업 돌입…노조 간부 등 70여 명 나설 듯</title>
-      <link>https://www.chosun.com/national/national_general/2025/01/14/2F3JUXYGDBD3FEFBU5WQBQK2WI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/14/2F3JUXYGDBD3FEFBU5WQBQK2WI/</guid>
-      <dc:creator>광주광역시=진창일 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 14 Jan 2025 02:26:41 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OKCOQRTFX6ZO4GK45F3X6THDSI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전국금속노조 광주글로벌모터스지회(GGM 노조)가 지난 10일 오후 광주 서구 광주시청 앞에서 연 '파업선포 기자회견'에서 구호를 외치고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;광주글로벌모터스(GGM) 노조가 두 번째 파업에 돌입한다. 노조 간부를 포함한 70여 명이 4시간 동안 부분파업에 나설 것으로 예상된다.&lt;br&gt;&lt;br&gt;14일 GGM 등에 따르면 이날 낮 12시 20분부터 오후 4시 20분까지 4시간 동안 GGM 노조 소속 품질관리부서 인원과 노조 간부 등 70여 명이 파업을 한다.&lt;br&gt;&lt;br&gt;‘금속노조 광주글로벌모터스지회’는 지난 10일 첫 파업을 했고, 이번 파업은 두 번째다. 노조 파업은 지난 2021년 9월 공장 가동으로부터 3년 4개월 만이다.&lt;br&gt;&lt;br&gt;첫 파업은 노조 간부 20명이 참여해 낮 12시 20분부터 오후 4시 20분까지 4시간 동안 진행됐다. 노조는 첫 파업 당시 광주광역시청 앞에서 기자회견을 열고 “사용자와 광주시, 주주단이 노조와 상생의 길을 포기했다”며 “노조를 대화 상대로 인정하지 않고 있다”고 주장했다.&lt;br&gt;&lt;br&gt;GGM은 지난 2019년 광주광역시와 현대자동차, 한국노총, 시민단체 등이 참여한 노·사·민·정(勞使民政) 대타협을 통해 적정임금, 적정노동, 무(無)노조 경영을 표방하며 ‘광주형 일자리’ 핵심사업으로 출범했다. 현대차와 위·수탁 계약을 맺어 경형 SUV ‘캐스퍼’를 생산해왔다.&lt;br&gt;&lt;br&gt;노·사·민·정 대타협을 통해 체결된 ‘노사상생발전협정서’에는 노조 대신 사측 대표 6명, 근로자 대표 6명이 참여하는 ‘상생노사발전협의회(상생협의회)’를 구성해 누적 차량 생산 35만대 달성까지 노사 문제를 논의하기로 했다. GGM은 공장 가동 이후 지금까지 16만여대의 차량을 생산했다.&lt;br&gt;&lt;br&gt;GGM 노조는 지난해 1월 처음 기업노조가 설립돼 현재 220여 명이 민주노총 금속노조 광주전남지부에 가입한 것으로 전해졌다. GGM 전체 근로자 숫자는 690명이다.&lt;br&gt;&lt;br&gt;노조는 지난해 10월부터 이어진 사측과 임금·단체협약 교섭 과정부터 월 급여 7%(15만9200원) 인상과 상여금 300%, 호봉제 도입, 자유로운 노조활동 보장을 요구하고 있다.&lt;br&gt;&lt;br&gt;반면 사측은 “협정서에 따라 임금협상은 상생협의회를 통해서만 가능하고, 임금인상은 물가 상승분까지만 가능하다”는 입장을 유지하면서 교섭이 결렬됐다.&lt;br&gt;&lt;br&gt;GGM 주주단은 지난달 26일 기자회견을 열고 “노조 파업 등으로 회사 운영에 심각한 피해가 발생한다면 주주단은 파업으로 인한 손해와 손실에 대한 법적 대응은 물론, 투자지분 회수 등 모든 수단을 강구하겠다”고 경고했었다.&lt;br&gt;&lt;br&gt;노조 측은 “상생 협정서 어디에도 ‘무노조·무파업’ 문구가 없는데 마치 이를 전제로 회사가 설립된 것처럼 (노조를) 협박하고 있다”며 “파업이 곧 상생 협정 위반이라는 주장은 반헌법적 주장일 뿐”이라는 입장이다.&lt;br&gt;&lt;br&gt;GGM 사측은 노조의 부분파업에 대해 대체인력을 투입할 계획이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/OKCOQRTFX6ZO4GK45F3X6THDSI.jpg?width=6720&amp;height=4480&amp;auth=b78cec520885a803a7445478eb15ba37d9e792026ec85e473ee61f64df4299fa&amp;smart=true" type="image/jpeg" height="4480" width="6720">
-        <media:description type="plain">전국금속노조 광주글로벌모터스지회(GGM 노조)가 10일 오후 광주 서구 광주시청 앞에서 연 '파업선포 기자회견'에서 구호를 외치고 있다. 2025.1.10/뉴스1 ⓒ News1 박지현 기자</media:description>
-        <media:credit role="author" scheme="urn:ebu">뉴스1 ⓒ News1 박지현 기자</media:credit>
-      </media:content>
-    </item>
-    <item>
-      <title>경호처 만난 공수처 “체포 집행 변함 없다... 방문 조사 검토 안해”</title>
-      <link>https://www.chosun.com/national/court_law/2025/01/14/XJ3F6HEVW5BLPMZ6TYOKTMUNDQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/01/14/XJ3F6HEVW5BLPMZ6TYOKTMUNDQ/</guid>
-      <dc:creator>이민준 기자, 김정은 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 14 Jan 2025 01:19:55 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RXI4DCGXPJK3HDX5JPAC56OW4Y.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;대통령경호처와 경찰, 고위공직자범죄수사처(공수처)가 윤석열 대통령 체포영장 집행과 관련해 3자 회동을 진행한 14일 오전 경기도 정부과천청사 고위공직자범죄수사처(공수처)에서 직원들이 분주하게 움직이고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 대통령 체포영장 집행과 관련해 경찰청 국가수사본부 특별수사단, 대통령경호처와 3자 회동을 가진 고위공직자범죄수사처(공수처) 측은 14일 “경호처와의 회동이 체포영장 집행 계획에 영향을 미치진 않는다”는 입장을 밝혔다. 이날 3자 회동에서 공수처와 경찰은 경호처 측에 ‘안전하고 평화적인 영장 집행을 위한 협조’를 요청했으나, 경호처 측이 이에 대해 명시적인 답변을 내놓진 않았다고 한다.&lt;br&gt;&lt;br&gt;공수처 관계자는 이날 취재진과 만나 “(회동에 참석한 공수처 관계자는) 의견을 주로 들었다”며 “영장 집행을 위해 협조해달라는 정도의 의견이 오고 갔다”고 밝혔다. 2차 체포영장 집행 시기를 연기할 지 여부 등에 대한 언급은 없었다고 한다. 공수처와 경찰은 경호처 측의 회신을 기다리고 있는데, 정해진 답변 시한은 없다는 것이 이 관계자 설명이다.&lt;br&gt;&lt;br&gt;공수처 관계자는 체포영장 집행이라는 원칙에 변동은 없다고 다시 강조했다. 체포영장 집행 계획도 계속해서 논의 중이라는 것이다. ‘이르면 15일 새벽 집행한다는 계획이 유출되지 않았느냐’는 취재진 질의에는 “전면 재검토는 아니라고 이해해달라”고 답했다. ‘경호처 측의 답변 내용에 따라 집행 계획이 변동될 수 있느냐’는 질문엔 “지금 답변드리기엔 어렵다”며 말을 아꼈다.&lt;br&gt;&lt;br&gt;한편, 정진석 대통령비서실장이 이날 오전 대국민 호소문을 발표하고 제3장소 또는 관저 방문 조사를 제안한 데 대해 공수처 관계자는 “검토 대상이 아니다”라며 선을 그었다. 선임계를 제출한 변호인단을 통해 정식으로 전달된 요청이 아니고, 공수처도 언론 보도를 통해 접한 수준이라는 것이다. 이와 관련, 윤 대통령 측 변호인단은 “변호인단과 상의하지 않은 내용”이라는 입장이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/TEW35KZ3F5LG5IZOPCMJNO7NCI.jpg?width=2706&amp;height=1848&amp;auth=e28409d5d1728614a18d5cba1b717fd7e19a70e606c9c16f9de7b4fd4ba66502&amp;smart=true" type="image/jpeg" height="1848" width="2706">
-        <media:description type="plain"> 관저 철조망 쪽문 돌아보는 경호처 관계자들
-    (서울=연합뉴스) 서대연 기자 = 윤석열 대통령에 대한 체포영장 2차 집행이 임박했다는 전망이 나오는 가운데 14일 오전 서울 용산구 한남동 대통령 관저 쪽문 앞에서 경호처 관계자 등이 대화를 나누고 있다. 2025.1.14
-    dwise@yna.co.kr/2025-01-14 09:07:16/
-&amp;lt;저작권자 ⓒ 1980-2025 ㈜연합뉴스. 무단 전재 재배포 금지, AI 학습 및 활용 금지&amp;gt;</media:description>
-        <media:credit role="author" scheme="urn:ebu">서대연</media:credit>
-      </media:content>
-    </item>
-    <item>
-      <title>尹측 “대통령비서실장 ‘제3의 장소 조사’ 제안 상의·검토 안 해" </title>
-      <link>https://www.chosun.com/national/court_law/2025/01/14/TQVVIGJXIVFDJJJQF2IO647MFY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/01/14/TQVVIGJXIVFDJJJQF2IO647MFY/</guid>
-      <dc:creator>유희곤 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 14 Jan 2025 02:28:24 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JDYJZJ4CSZLUNOWGG3LS6SYEHQ.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령 변호인단인 윤갑근 변호사가 지난 8일 오후 서울 서초구 한국컨퍼런스센터에서에서 열린 기자간담회에서 발언하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 대통령 변호인단은 14일 정진석 대통령비서실장이 ‘윤 대통령에 대한 제3의 장소 조사나 방문조사 등을 고위공직자범죄수사처(공수처)와 협의할 수 있다’고 한 데 대해 “상의나 검토한 적이 없다”고 밝혔다.&lt;br&gt;&lt;br&gt;윤 대통령 변호인단인 윤갑근 변호사는 이날 정 실장이 낸 ‘대국민 호소문’에 대해 “(정 실장과) 미리 상의하거나 (공수처 조사를) 검토한 바 없다”고 했다. 윤 변호사는 “정 실장이 (대통령경호처와 공수처·경찰의) 충돌을 피해야 한다는 절박한 심정에서 개인적으로 의견을 낸 것 같다”면서 “오늘은 헌법재판소의 윤 대통령 탄핵 심판에 집중할 것”이라고 했다.&lt;br&gt;&lt;br&gt;정 실장은 이날 대국민 호소문에서 윤 대통령의 자기 방어권 보장이 필요하다며 “대통령실은 경찰, 공수처와 협의할 준비가 돼 있다. 제3의 장소에서 조사 또는 방문 조사 등을 모두 검토할 수 있다”고 밝혔다. “윤 대통령에게 특례를 달라고 요구하는 것이 아니다”라면서 “사실을 호도하는 정파적 선동, 수사기관의 폭압으로 자연인 윤석열의 입을 틀어막아서는 안 된다”고 했다.&lt;br&gt;&lt;br&gt;이는 공수처와 경찰의 윤 대통령 2차 체포영장 집행이 임박한 상황에서 정 실장은 강제수사를 막아야 한다는 입장인 반면, 윤 대통령 변호인단은 체포영장은 물론 공수처의 피의자 조사에도 응할 수 없다는 의견 차를 드러낸 것으로 보인다.&lt;br&gt;&lt;br&gt;윤 대통령 변호인단은 공수처의 체포영장 집행이 불법이고 무효라고 주장해 왔다. 전날에는 윤 대통령 측 석동현 변호사가 “지난 12일 공수처에 체포영장 집행 유보를 요청했다”고 하기도 했다. 변호인단은 대신 공수처가 관련법상 관할 법원인 서울중앙지법에 윤 대통령 구속영장을 청구하거나 윤 대통령을 기소하면 영장심사나 재판에서 대응하겠다는 입장이다. &lt;br&gt;&lt;br&gt;윤 변호사는 전날 헌재에 정계선 헌법재판관 기피 신청 등을 한 데 대해 “이의 신청을 해 놓은 상태라 (윤 대통령은) 오늘 헌재에 출석할 수 없는 상황”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>바다 등에 골분 뿌리는 ‘산분장’, 이달 24일부터 가능해진다</title>
       <link>https://www.chosun.com/national/welfare-medical/2025/01/14/HNXXGYQRZJFRLKEH5YYI7AYSM4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/01/14/HNXXGYQRZJFRLKEH5YYI7AYSM4/</guid>
@@ -927,24 +951,6 @@
       <description/>
       <pubDate>Tue, 14 Jan 2025 01:58:38 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3PUXO2AU6VH4TDKXDB7MBMHMDU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기도 수원시 영통구 수원시연화장의 야외 벽면에 설치된 봉안 시설. /고운호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;바다 등에 화장한 유골의 골분(骨粉)을 뿌리는 ‘산분장(散紛葬)’을 이달 24일부터 공식적으로 할 수 있게된다.&lt;br&gt;&lt;br&gt;보건복지부는 장사 등에 관한 법률(장사법) 시행령 개정안이 14일 국무회의에서 의결됐다고 밝혔다. &lt;br&gt;&lt;br&gt;골분을 뿌려서 장사를 지내는 산분장은 그간 관련법이 없어 합법도, 불법도 아닌 상태였다. 장사법에는 매장, 화장, 자연장(수목장)만 규정돼 있고 산분장과 관련한 규정은 없었기 때문이다. 정부는 산분장을 제도화하기로 하고, 장사법을 개정해 지난해 1월 공포했다.&lt;br&gt;&lt;br&gt;개정법은 자연장에 산분장을 포함했다. 골분을 뿌릴 수 있는 장소 등은 대통령령으로 정하도록 했다. 이날 개정된 시행령은 산분장이 가능한 장소를 ‘육지의 해안선에서 5㎞ 이상 떨어진 해양’과 ‘골분을 뿌릴 수 있는 시설 또는 장소가 마련된 묘지·화장시설·봉안시설·자연장지 등으로 구체화했다. 다만 해안선 5㎞ 밖이라도 환경관리해역이나 해양보호구역 등에서는 할 수 없다.&lt;br&gt;&lt;br&gt;산분의 구체적인 방법도 명시했다. 바다에서 산분할 때는 뼛가루가 흩날리지 않도록 수면 가까이에서 뿌려야 한다. 다른 선박의 항행이나 어로행위, 수산동식물의 양식 등을 방해하지 않아야 한다. 유골과 생화(生花)만 뿌릴 수 있고, 다른 용기나 유품은 바다로 버려서는 안 된다. 장사시설에서도 산분이 가능한 별도의 장소에서 골분을 뿌린 후 잔디를 덮거나, 골분을 깨끗한 흙과 함께 섞어 뿌린 후 땅에 잘 흡수될 수 있도록 충분한 물을 뿌리도록 했다.&lt;br&gt;&lt;br&gt;임을기 복지부 노인정책관은 “산분장 제도 도입으로 장지 마련 등 유가족들의 유골 관리 비용이 절감되고 후대에 국토를 보다 효율적으로 이용할 수 있는 기회도 제공할 것으로 기대된다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>﻿母는 지적장애, 父는 교도소에…8남매는 생애 첫 ‘가스보일러’에 감격했다</title>
-      <link>https://www.chosun.com/national/national_general/2025/01/14/PD2VWPLQ6RH7DHP5U5INGXWF2A/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/14/PD2VWPLQ6RH7DHP5U5INGXWF2A/</guid>
-      <dc:creator>이가영 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 14 Jan 2025 01:53:52 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5AI62ECWSVCETGRRLYJV2SMUJY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;다시 함께 살게 된 어머니 서정화(40·가명)씨와 8남매의 모습. /이랜드복지재단&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;아버지는 가정폭력으로 수감됐고, 유일한 보호자인 어머니는 지적장애를 앓고 있다. 도움을 받아 새 집을 얻게 된 8남매는 한겨울에도 마음껏 따뜻한 물을 쓸 수 있게 됐다며 가스보일러에 “설렌다”고 했다. &lt;br&gt;&lt;br&gt;14일 이랜드복지재단에 따르면, 최근 지적장애 판정을 받은 서정화(40‧가명)씨는 8남매를 홀로 키우고 있다. 어쩌면, 세상의 눈으로 보기에 서씨의 지난 삶은 이해하기 힘들 수도 있다. &lt;br&gt;&lt;br&gt;서씨는 미혼모다. 법적으로 혼인신고를 하지 않은 채 한 남자와 8남매를 낳았다. 서씨가 두 아이를 낳았을 무렵, 아이들의 생부 A씨는 같은 지역에서 새로운 가정을 꾸렸다. A씨는 서씨 때와는 달리 이번에는 법적으로 자신의 가정을 꾸렸고, 아이들도 낳았다. &lt;br&gt;&lt;br&gt;하지만 A씨는 서씨를 계속 찾았다. 그렇게 서씨는 8남매를 낳게 됐다. 그럼에도 A씨는 양육 지원은 전혀 하지 않았다. 그러다 가정폭력 혐의로 A씨가 교정시설에 수감되는 사태가 벌어졌다. &lt;br&gt;&lt;br&gt;A씨의 수감 후, 서씨의 아이들은 새로운 어려움을 맞닥뜨리게 됐다. A씨가 꾸린 새 가정의 자녀들이 서씨의 집 근처에서 아이들을 위협하는 일이 잦아졌던 것이다. &lt;br&gt;&lt;br&gt;법적으로 A씨의 자녀인 이 아이들은 아버지가 자꾸 서씨의 집에 머무르는 것을 이상하게 여겼고, 어떤 상황인지 대충 알고 있었다고 한다. 그러다 A씨가 수감되자 그 화풀이 대상으로 서씨의 자녀들을 선택한 것으로 보인다. 셋째 아이부터는 비슷한 또래였던 이들은 같은 동네에 살아 등하굣길에도 마주치는 일이 많았다. 서씨의 아이들은 늘 불안에 시달렸다. &lt;br&gt;&lt;br&gt;설상가상으로 서씨가 몸에 이상을 느껴 찾은 병원에서 부신에 종양이 있다는 진단을 받고 수술까지 받게 됐다. 홀로 8남매를 돌보는 상황에서 충분한 회복은 불가능했다. 수술 후유증으로 일상생활조차 힘든 상황에서 자녀들을 돌보는 것은 더욱 어려워졌다. &lt;br&gt;&lt;br&gt;결국 한 지붕 아래서 생활하던 8남매는 흩어지게 됐다. 서씨는 어린 자녀 4명과 함께 아동 임시보호소에 입소했고, 좀 더 나이가 많은 4명의 자녀는 다른 보호시설로 옮겨졌다. 서씨는 아픈 몸이지만 어린 자녀들을 품어야 한다는 일념으로 선택한 차선책이라고 했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2ZLHVDTWMBCFBIL3OD2D3YIURY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;내려앉은 천장과 빗물로 얼룩진 벽지가 있는 방에 아이들의 잠자리가 마련되어 있다. /이랜드복지재단&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이때 지역 봉사자들이 서씨 가정을 발견하고 이랜드복지재단의 ‘SOS 위고’ 사업을 소개했다. 이전에 서씨와 8남매가 살던 곳은 보증금 400만원에 월세 30만원의 집이었다. 아홉 사람이 생활하기에는 턱없이 부족했다. 비가 오면 천장 곳곳에서 물이 새고, 벽면의 곰팡이는 아이들의 건강을 위협했다. 겨울이면 창틀 사이로 들어오는 찬바람 탓에 아이들은 한데 모여 잠을 청해야 했다. &lt;br&gt;&lt;br&gt;기름보일러가 있었지만, 이들에게는 사치였다. 월세마저 5개월째 밀려 보증금에서 차감되던 상황에서 기름값을 감당할 수는 없었다. 낡은 전등 몇 개만이 어두운 실내를 간신히 밝혔고, 주방에서는 싱크대 하수구가 자주 역류해 악취가 올라왔다. &lt;br&gt;&lt;br&gt;불행 중 다행으로 어렵사리 ‘다자녀 전세임대주택’ 대상자로 선정됐고, 재단은 입주 부담금을 지원했다. 깨끗한 아파트에 입주하게 된 가족의 달라진 생활환경은 새로운 활력이 됐다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UF6YKISZ4JBJRBQ3QZ2KQQ4CQM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;9가족이 이사하게 된 새로운 보금자리. /이랜드복지재단&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;첫째와 둘째는 “이제 학교에 가도 마음이 편하다”며 재단에 감사 편지를 보냈다. 이들은 “저희집은 기름보일러를 사용했는데 도시가스 보일러를 사용한다고 하니 올겨울은 따뜻하게 지낼 수 있어 설렌다”며 “정말 이런 좋은 집에 갈 수 있어서 감사드린다. 진심으로 이사를 도와주셔서 감사하다”고 했다. &lt;br&gt;&lt;br&gt;재단 측은 앞으로도 SOS위고 사업을 통해 위기가정이 안정적인 삶의 기반을 마련할 수 있도록 지원을 이어갈 예정이다. 재단 관계자는 “적절한 시기의 주거 지원이 한 가정의 붕괴를 막고 새로운 희망을 만들 수 있다”며 “앞으로도 사각지대에 있는 위기가정을 적극적으로 발굴하고 지원하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/P5VVJNXE6VDD3LX4MRHCTGZF2M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서씨의 첫째와 둘째 자녀가 보낸 감사 편지. /이랜드복지재단&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[두근두근 뇌 운동] [2542] 로꾸거 암송클럽</title>
-      <link>https://www.chosun.com/national/nie/2025/01/14/DRTZVVTEFJGCZC3K7FUNWHN7Q4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2025/01/14/DRTZVVTEFJGCZC3K7FUNWHN7Q4/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Mon, 13 Jan 2025 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WFESLOM5B5DL3GYZPV3H4A75GA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>한파속 실종된 시각장애인, 반려견 끌어 안고 7시간 버텼다</title>
