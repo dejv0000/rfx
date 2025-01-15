@@ -13,6 +13,37 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>尹, 건강 이유로 오전조사 연기 요청... 공수처, 오후 2시 재조사</title>
+      <link>https://www.chosun.com/national/court_law/2025/01/16/6USQYGKATBATHMZPAKDAPO3NKA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/01/16/6USQYGKATBATHMZPAKDAPO3NKA/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 15 Jan 2025 22:26:49 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YDCV4POQOZB5NHIT2DL7UR7VEM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;15일 오후 윤석열 대통령이 경기도 과천 공수처에서 조사를 받고 구치소로 가기위해 경호 차량에 탑승해 있다./ 장련성 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 15일 윤석열 대통령을 체포해 조사한 고위공직자범죄수사처(공수처)는 16일 오후 2시 윤 대통령을 소환해 조사를 이어간다고 밝혔다. 윤 대통령 측이 건강상 이유를 들며 조사 일정을 늦춰달라고 요청해, 오전 조사는 쉬어가는 것으로 전해졌다.&lt;br&gt;&lt;br&gt;윤 대통령은 지난 15일 오후 9시 40분쯤 공수처 조사가 끝나자, 조사 종료 뒤 조서 열람과 서명·날인을 거부하고 곧바로 퇴장했다고 한다. 피의자의 날인이 없는 조서는 향후 재판에서 활용될 수 없다.&lt;br&gt;&lt;br&gt;윤 대통령은 오전 11시 조사가 시작된 직후부터 조사가 끝날 때까지 10시간 40분 간 줄곧 진술을 거부했다. 공수처 관계자는 “‘진술 거부권을 행사하겠다’는 말조차 하지 않고 아예 입을 열지 않았다”고 했다. 여기에 조사가 종료된 뒤 조서도 보지 않고 나가버린 것이다.&lt;br&gt;&lt;br&gt;이는 “공수처의 수사는 불법·무효”라는 윤 대통령 측 판단에 따른 것으로 해석된다. 다만 한 변호인단 관계자는 “(무조건적인) 진술거부는 아니다”라면서 “공수처에 내란죄 수사권이 없어 조사에 응할 필요가 없지만, 향후 의견서 등의 형식으로 입장을 밝힐 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/GHAMXVPKCBYJZJBGOALNBWXSBQ.jpg?width=2184&amp;height=1584&amp;auth=c24bfe9a3d61210afb8342479c82354eb051dd8879ecd43f8694a430d3ddc784&amp;smart=true" type="image/jpeg" height="1584" width="2184">
+        <media:description type="plain">내란 우두머리 혐의로 체포된 윤석열 대통령이 15일 오전 경기 과천 고위공직자범죄수사처(공수처)에 도착해 조사실로 향하고 있다.(공동취재) 2025.1.15/뉴스1 ⓒ News1 김영운 기자</media:description>
+        <media:credit role="author" scheme="urn:ebu">뉴스1 ⓒ News1 김영운 기자</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>독감보다 더 무섭다…“소아 감염병 창궐 아비규환될 것” 의사들 경고</title>
+      <link>https://www.chosun.com/national/national_general/2025/01/16/SRN5RIFO4BE7HLVZY2HEVWCGRQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/16/SRN5RIFO4BE7HLVZY2HEVWCGRQ/</guid>
+      <dc:creator>김자아 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 15 Jan 2025 22:36:22 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TNSJCCT3GZMRRFDMPPJMBJVU5A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;10일 오전 경기 용인시 기흥구의 한 소아과에 호흡기 질환 환자 증감 추이가 적힌 안내판이 붙어 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;독감(인플루엔자)이 8년 만에 최대 규모로 유행하는 가운데, 소아·청소년 환자 진료의 최일선에 있는 의사들이 올해 소아 감염병 환자 증가를 전망했다. 특히 올해 가장 유행할 것으로 보이는 감염병으로는 독감이 아닌 사람 메타뉴모바이러스(HMPV)를 꼽았다.&lt;br&gt;&lt;br&gt;대한소아청소년병원협회는 지난 15일 서울 마포구 대한병원협회 대회의실에서 기자회견을 열고 전국 120곳 회원 병원 대표원장을 대상으로 이달 9일부터 13일까지 조사한 ‘올해 소아 감염병 발병 인식’ 설문 결과를 공개했다.&lt;br&gt;&lt;br&gt;설문에 참여한 응답자 43명 중 38명(85%)은 올해 각종 소아 감염병이 증가할 것이라고 답했다. 이들 중 46%는 증가 폭이 작년보다 20% 이상 뛸 것이라고 예상했다.&lt;br&gt;&lt;br&gt;올해 가장 유행할 것으로 보이는 소아 감염병은 사람 메타뉴모바이러스(HMPV) 질환이라는 응답(13명·30%)이 가장 많았다. 이어 인플루엔자 6명(13%), 마이코플라즈마 5명(12%), 아데노바이러스 4명(9%) 순이었다.&lt;br&gt;&lt;br&gt;최용재 협회장은 “메타뉴모바이러스는 신종 감염병은 아니지만 (현재 유행 중인) 중국이 워낙 가까워 국내에서도 증가할 우려가 있다”며 “독감이나 마이코플라즈마 등은 과거와 큰 차이가 없을 것으로 본다”고 말했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6BJ7HE6H5RP7LJ2657HSV2JXC4.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;독감 환자 숫자가 8년 만에 최고치를 기록한 가운데, 13일 서울의 한 어린이병원을 찾은 어린이 환자와 보호자가 진료를 받기 위해 대기하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최 회장은 “소아 감염병의 창궐을 막기 위한 상시 대응체계 구축이 절실하다”며 “정부는 소아 감염병 유행이 늘어날 수 있다는 의료진의 전망을 심각하게 받아들여야 한다”고 강조했다.&lt;br&gt;&lt;br&gt;이어 “올해의 소아의료체계는 지난해 발발한 소청과 전공의 사직과 지속된 전공의 기피 현상으로 더욱 심각해져 소아의료 현장은 감염병 창궐과 맞물려 아비규환이 될 것”이라고 우려했다.&lt;br&gt;&lt;br&gt;그러면서 “소아청소년병원 대표원장들이 소아감염병 증가를 크게 우려하고 올해에도 소아감염병 대폭 증가가 예상된다고 답한 부분은 정부 당국이 심각하게 받아들여 더 이상 우리 아이들이 소아감염병으로부터 고통을 받지 않도록 신년초부터 정책의 고삐를 세게 당겨야 한다”고 말했다.&lt;br&gt;&lt;br&gt;소아청소년과 의사들이 우려한 메타뉴모바이러스는 최근 중국과 인도를 중심으로 확산하는 바이러스로, 면역력이 약한 영유아들 위주로 발병하는 게 특징이다. 현재 보건당국은 국내 유행 양상에 대해 면밀히 살펴보고 있다.&lt;br&gt;&lt;br&gt;질병관리청에 따르면 메타뉴모바이러스는 전 세계적으로 흔한 바이러스다. 국내에선 2014년부터 제4급 급성호흡기감염증 표본감시 대상이다.&lt;br&gt;&lt;br&gt;이 바이러스는 호흡기 비말을 통해 직접 전파되거나 감염된 사람의 분비물 또는 오염된 물건 접촉으로도 전파된다. 감염되면 발열, 기침, 가래, 콧물, 코막힘 등 감기와 유사한 증세를 보이고 심한 경우 세기관지염, 폐렴 등 하기도 감염을 일으킬 수 있다. 예방백신이나 항바이러스제는 없어 해열제 등으로 대증 치료한다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>﻿“다른 손님 안전 때문에…” 다이소에서 장애인 앵커가 당한 차별</title>
+      <link>https://www.chosun.com/national/national_general/2025/01/16/262DWACEIZAU3OLN4UTEAA5HJ4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/16/262DWACEIZAU3OLN4UTEAA5HJ4/</guid>
+      <dc:creator>이가영 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 15 Jan 2025 22:44:34 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/A6A24PD76JGCHB5HFI4FIDF34U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;KBS 장애인 앵커 허우령씨는 지난 13일 유튜브에 올린 영상에서 경북 경주의 한 다이소 매장을 찾았다가 직원으로부터 안내견 출입을 거절당했다고 밝혔다. /유튜브 '우령의 유디오'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경북 경주의 한 다이소 매장에서 시각장애인 안내견의 출입을 막아 논란이 되고 있다. &lt;br&gt;&lt;br&gt;KBS 장애인 앵커이자 구독자 17만명을 보유한 유튜버 허우령씨는 지난 13일 자신의 유튜브에 ‘제가 뭘 들은 거죠? 안내견과 온 경주에서 겪은 돌발상황’ 영상을 올렸다. &lt;br&gt;&lt;br&gt;안내견 하얀이와 경주 여행에 나선 허씨는 관광 명소와 시장, 식당 등을 방문한 후 필요한 물건을 사러 다이소 매장에 들렀다. &lt;br&gt;&lt;br&gt;해당 매장의 직원은 안전상의 이유로 안내견 출입을 제지했다. 허씨가 “안전과 안내견 출입은 상관없지 않나요?”라고 항의했으나 직원은 “저희는 다른 손님들 안전도 생각해야 한다”며 입장을 거부했다. &lt;br&gt;&lt;br&gt;허씨가 “저희 다이소 다른 곳도 가 봤고, 안내견이 들어올 수 있다”고 알려줬지만 직원은 계속해서 하얀이가 들어오는 것을 꺼렸다. 이에 허씨의 동행은 “안전 여부는 저희가 결정하는 것”이라고 했고, 허씨는 “저희 여기서 안 넘어진다”며 직원을 안심시키려고 했다. 그럼에도 직원은 “여기 물건이 많고, 넘어지시거나 할까봐…”라며 끝까지 안내견을 데리고 나갈 것을 재촉했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/35STOAZFGZCOLJGKOBIXYWBUSU.jpeg"&gt;&lt;figcaption&gt;&lt;small&gt;KBS 장애인 앵커 허우령씨와 안내견 하얀이. /KBS&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;장애인복지법과 장애인 차별 금지법에 따르면 장애인 보조견은 어느 곳이든 출입할 수 있다. 반려견 출입이 제한된 국‧공립 수목원과 자연농원도 마찬가지다. 항공사도 장애인 보조견에 대해서는 예외적으로 편의를 제공하고 있다. &lt;br&gt;&lt;br&gt;현행법은 보조견 표지를 붙인 안내견 동반 장애인, 안내견 훈련자 및 자원봉사자의 출입을 정당한 사유 없이 거부해서는 안 된다. 이를 위반하면 300만원 이하의 과태료가 부과된다. &lt;br&gt;&lt;br&gt;한편, 14살 때 시각장애를 갖게 된 허씨는 2023년 3월 KBS 장애인 앵커 7기로 선발되어 ‘KBS뉴스12′와 ‘생활뉴스’ 코너를 맡아 진행하고 있다. 안내견 하얀이와 매일 출퇴근길을 함께하고 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>경호처 간부, 부하에 “알아서 해라”… 이후 3개 방어선 36분만에 뚫려</title>
       <link>https://www.chosun.com/national/national_general/2025/01/16/AK2L3XLOXFCUZMUDVAMR6WHBW4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/16/AK2L3XLOXFCUZMUDVAMR6WHBW4/</guid>
@@ -951,15 +982,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ACKPFXA2RNJUREOREVVISXV5IY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;고위공직자범죄수사처(공수처)와 경찰이 윤석열 대통령에 대한 2차 체포영장 집행에 나선 15일 용산구 한남동 대통령 관저에서 경찰 병력이 2차 저지선을 넘어 진입하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;15일 새벽부터 윤석열 대통령 2차 체포영장 집행을 하고 있는 공수처와 경찰이 2차 저지선을 돌파한 뒤 관저 앞 3차 저지선으로 올라가기 시작했다. &lt;br&gt;&lt;br&gt;이날 7시 48분쯤 2차 저지선을 돌파한 경찰과 공수처는 7시 55분쯤 200~300여명이 대오를 맞춰 관저 앞 3차 저지선 쪽으로 올라가기 시작했다. 이들은 8시쯤 3차 저지선 앞에 도착한 것으로 파악됐다. &lt;br&gt;&lt;br&gt;다만 3차 저지선을 뚫는다 하더라도 관저 내부에 4차, 5차 저지선이 또 있을지에 대해서는 알 수가 없는 상황이다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[속보] 경찰, 철조망 제거 때 저지하는 경호처 직원 없어...관저 내부 진입</title>
-      <link>https://www.chosun.com/national/national_general/2025/01/15/XKBURZK6WBDE7DT66PYASMZKVM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/15/XKBURZK6WBDE7DT66PYASMZKVM/</guid>
-      <dc:creator>이가영 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 14 Jan 2025 22:30:32 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TKV74UU5R6I4NEUWFYDWDAUKWA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;고위공직자범죄수사처(공수처)와 경찰이 윤석열 대통령에 대한 2차 체포영장 집행에 나선 15일 서울 용산구 한남동 대통령 관저 입구에서 경찰 병력이 사다리를 들고 이동하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 대통령에 대한 2차 체포영장 집행에 나선 고위공직자범죄수사처(공수처)와 경찰이 15일 4시간 가량의 대치 끝에 서울 한남동 대통령 관저에 진입했다.&lt;br&gt;&lt;br&gt;공수처와 경찰은 1차 저지선이었던 철조망을 제거한 뒤 사다리를 이용해 차벽을 넘어 관저에 진입했다. 이 과정에서 저지하는 경호처 직원은 없었다.&lt;br&gt;&lt;br&gt;1차 저지선을 통과한 공수처와 경찰은 대열을 정비한 후 관저 안쪽을 향해 대거 이동했다.&lt;br&gt;&lt;br&gt;1차 영장 집행 때도 공수처와 경찰은 1, 2차 저지선을 무난하게 통과했으나 3차 저지선을 뚫지 못하고 철수했다. 경찰은 인원을 계속 추가 투입하며 경호처 저지에 대비하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[속보] 경찰·공수처, 차벽 옆 우회로로 2차 저지선 통과</title>
       <link>https://www.chosun.com/national/national_general/2025/01/15/FA6L3X47MFBR3DER5LKKMPZWZ4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/15/FA6L3X47MFBR3DER5LKKMPZWZ4/</guid>
@@ -985,24 +1007,6 @@
       <description/>
       <pubDate>Tue, 14 Jan 2025 22:37:46 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DXRGKSBD6VNZXHLL6PFVFBFJ2I.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;오동운 공수처장이 15일 오전 경기 과천시 정부과천청사 고위공직자범죄수사처(공수처)로 출근하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;오동운 고위공직자범죄수사처장은 윤석열 대통령 2차 체포영장 집행을 시도 중인 15일 오전 7시 30분 정부과천청사 내 공수처 청사로 출근했다. 보안구역 바깥에서 대기하던 취재진을 그대로 지나친 뒤 관용차에서 내린 오 처장은 ‘오늘 집행 못 할 경우 대체 계획이 있으시냐’ ‘집행 완수하실 거냐’ ‘몇 일까지 집행 시도하실 거냐’ 등 질문에 모두 답하지 않고 청사로 들어갔다.&lt;br&gt;&lt;br&gt;오 처장이 청사에 도착한 시각은 이날 오전 5시 40분쯤 공수처와 경찰청 국가수사본부 특별수사단으로 구성된 체포팀이 영장 집행 시도에 착수한 지 1시간 50분이 지난 시점이다. 이에 앞서 이재승 공수처 차장은 오전 3시 57분쯤 개인 차량을 이용해 청사로 출근했다. 청사 바깥에서 대기하던 체포팀 차량 2대는 오전 4시 10분쯤 한남동 대통령 관저에 도착했고, 비슷한 시각 45인승 대형버스에 탑승한 공수처 체포팀 인원 40여 명도 관저 앞에 도착했다.&lt;br&gt;&lt;br&gt;한편, 이날 오전 7시 25분쯤 경찰 일부 인원이 사다리를 통해 경호처에서 설치해둔 차벽을 넘어 관저 내부로 진입하는 데 성공했다. 7시 34분쯤까지 경찰 체포조 50여명이 이 같은 방식으로 관저에 진입했다. 체포팀은 경호처의 2차 저지선에 도착해 버스로 세운 차벽과 대치하고 있다고 한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QB4VH3PV2ZLDVGSDQE7L7EVLR4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;고위공직자범죄수사처(공수처)와 경찰이 윤석열 대통령에 대한 2차 체포영장 집행에 나선 15일 서울 용산구 한남동 대통령 관저 입구에서 경찰이 사다리로 차벽을 넘고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>김기현 “불법적 체포영장 집행 즉각 중단하라”</title>
-      <link>https://www.chosun.com/national/national_general/2025/01/15/XBBOAGR7PJHXZJIB2IMA5KHJUA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/15/XBBOAGR7PJHXZJIB2IMA5KHJUA/</guid>
-      <dc:creator>박정훈 기자, 구동완 기자, 조은서 기자, 양인성 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 14 Jan 2025 22:19:54 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BPRT7YHWOFJTBNIO6LBXXXYW7E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;고위공직자범죄수사처(공수처)와 경찰이 윤석열 대통령에 대한 2차 체포영장 집행에 나선 15일 서울 용산구 한남동 대통령 관저 입구에서 국민의힘 김기현 의원이 입장발표를 하고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;고위공직자범죄수사처(공수처)의 윤석열 대통령 2차 체포영장 집행을 시도하면서 서울 용산구 한남동 공관입구 인근에서 몸싸움이 일어나는 등 대치가 계속되는 가운데 이를 규탄하기 위해 현장에 나온 김기현 국민의힘 의원이 체포영장 집행을 즉각 중단하라고 주장하고 나섰다. &lt;br&gt;&lt;br&gt;이날 김기현 의원은 한남동 공관입구 앞에서 “공수처와 경찰 국가수사본부의 불법적 체포영장 집행을 즉각 중단하라”며 준비한 성명문을 읽어나갔다. 나경원, 윤상현, 박수영, 장동혁 의원 등 다른 국민의힘 의원들도 함께했다. 김 의원은 “이미 국격이나 대통령에 대한 예의 같은 것은 내팽개쳐진 지 오래”라며 “민주당은 1심 법원에서 징역형 집행유예 판결을 받고 15개 범죄혐의에 대한 재판을 받고 있는 자기 당 대표는 거룩한 성인인 양 수령 아버지로 떠받들며 방탄을 일삼으면서 피의자에 불과한 현직 대통령에 대해선 온갖 모욕을 주고 있다”고 했다. 그러면서 “(윤 대통령에 대한) ‘인간사냥’을 해대고 있는 그 내로남불 작태에 분노를 금할 수 없다”고 했다. &lt;br&gt;&lt;br&gt;한편 김 의원이 발언을 할 때마다 근처에 있던 반윤 시위대는 “체포영장이 불법이 아니라 계엄령이 불법이다” “이러려고 정치하시나” “아무도 안 다치게 대통령 스스로 내려오게 하라” 등 소리를 질러대기도 했다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[속보]경찰, 관저 입구 쪽에 사다리 투입…진입 시도</title>
-      <link>https://www.chosun.com/national/national_general/2025/01/15/6VPI2U5XAVDZTCEFRLQTFG3E6Q/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/15/6VPI2U5XAVDZTCEFRLQTFG3E6Q/</guid>
-      <dc:creator>이가영 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 14 Jan 2025 21:57:12 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4OTISLEZLZM7PNWZTA4THQ32YY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;고위공직자범죄수사처(공수처)와 경찰이 윤석열 대통령에 대한 2차 체포영장 집행에 나선 15일 서울 용산구 한남동 대통령 관저 입구에서 경찰 병력이 사다리를 들고 이동하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;고위공직자범죄수사처(공수처)와 경찰이 윤석열 대통령에 대한 2차 체포영장 집행에 나선 15일 서울 용산구 한남동 대통령 관저 입구에서 경찰 병력이 사다리를 들고 이동했다. 본격적으로 관저 진입을 시도하는 것으로 해석된다.&lt;br&gt;&lt;br&gt;경찰은 동시에 김성훈 경호처 차장과 이광우 경호본부장에 대한 체포영장 집행에도 나섰다. 경찰은 “김 차장과 이 본부장에 대한 체포영장을 집행할 것”이라며 “출입문을 개방하고 영장집행에 협조하라”고 경고 방송을 통해 알렸다. 경호처 내 ‘강경파’로 분류되는 김 차장과 이 본부장을 체포해 윤 대통령 체포 전 경호처를 해산할 전망이다.&lt;br&gt;&lt;br&gt;앞서 김 차장과 이 본부장은 지난 3일 윤 대통령 체포영장을 저지한 혐의(특수공무집행방해)로 입건됐다. 이들은 경찰의 3차 출석요구에 모두 불응하며 체포영장이 발부된 상태다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
