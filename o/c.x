@@ -13,6 +13,55 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>채팅서 만난 남성 폰 ‘슬쩍’… 가상화폐 7억 털어갔다</title>
+      <link>https://www.chosun.com/national/regional/2025/01/16/LXAEOCYQ2RHGZG332POWBMXDIY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/01/16/LXAEOCYQ2RHGZG332POWBMXDIY/</guid>
+      <dc:creator>제주=오재용 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 16 Jan 2025 04:06:54 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/B6RDWPWZOBBUVD6GZVMRUPYLYE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰/조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;온라인 채팅을 통해 만난 남성의 가상화폐 7억원 상당을 몰래 훔친 40대 여성이 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;제주동부경찰서는 특정경제범죄 가중처벌 등에 관한 법률(특경법) 상 사기와 절도 혐의로 40대 여성 A씨를 구속했다고 16일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 7일 밤 사회관계망(SNS) 오픈 채팅방에서 만난 남성 B씨의 제주시 빌라에서 휴대전화를 훔쳐 7억원 상당의 암호화폐를 자신의 계좌로 몰래 이체해 도주한 혐의를 받는다.&lt;br&gt;&lt;br&gt;A씨는 B씨의 휴대전화 잠금 패턴과 주민등록번호 등을 미리 알아낸 뒤 피해자가 잠든 사이 범행을 저지르고 다음 날 아침 첫 비행기로 제주를 떠난 것으로 조사됐다. B씨의 신고를 받은 경찰은 지난 9일 경북 구미시의 한 모텔에 숨어 있던 A씨를 긴급체포했다.&lt;br&gt;&lt;br&gt;A씨는 빚을 갚기 위해 일주일 전부터 범행을 계획했다고 진술한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[속보] 법원, 尹 체포적부심 심사 앞두고 청사 보안 강화</title>
+      <link>https://www.chosun.com/national/court_law/2025/01/16/OA5LFU7TGFGB7C7SLFAVYYFHDU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/01/16/OA5LFU7TGFGB7C7SLFAVYYFHDU/</guid>
+      <dc:creator>박혜연 기자, 박강현 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 16 Jan 2025 04:43:05 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/E3BFXN2F2RYBZN26DOJBLEWCUM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울중앙지법 전경./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 대통령이 고위공직자범죄수사처(공수처)의 체포 영장 발부·집행이 부당하다며 낸 체포 적부(適否)심 심문이 16일 오후 5시 서울중앙지법에서 열리는 가운데 서울중앙지법·서울고법 등이 있는 서울법원종합청사가 이를 앞두고 법정 보안을 강화한다.&lt;br&gt;&lt;br&gt;서울고법은 이날 법원 청사 인근에 인파가 몰릴 가능성에 대비해 오후 1시 반부터 출입문 보안을 보강하고 본관에 출입할 시 검문·검색을 강화한다고 16일 밝혔다. 또 오후엔 일부 출입구가 폐쇄될 예정이라 차량을 이용한 방문 자제도 요청했다. 그러면서 “구체적인 내용은 피의자 출석 여부에 따라 변동될 수 있다”고 설명했다.&lt;br&gt;&lt;br&gt;앞서 서울중앙지법은 윤 대통령이 낸 체포 적부 심사를 형사32단독 소준섭 판사에 배당하고 심리에 착수했다고 밝혔다. 체포 적부 심사란 체포·구속 영장의 발부가 법률에 위반되는 등의 경우 기소 전 관할 법원에 심사를 청구할 수 있는 제도로 윤 대통령 측은 전날 밤 서울중앙지법에 심사를 청구했다.&lt;br&gt;&lt;br&gt;윤 대통령 측은 공수처가 당초 중앙지법이 아닌 서울서부지법에 체포 영장을 청구해 발부 받은 것은 전속관할권 위반이고, 공수처에 내란죄 수사권도 없는 만큼 체포 영장이 불법·무효라고 주장하고 있다.&lt;br&gt;&lt;br&gt;법원은 청구가 접수된 뒤 48시간 이내 심문해야 하고, 윤 대통령이 이미 헌법재판소에서 탄핵심판을 받고 있는 점 등을 고려해 신속하게 심문 일정을 잡은 것으로 풀이된다. 소 판사는 이날 심사를 진행하고 윤 대통령 체포의 필요성, 적법성 등을 따져볼 것으로 보인다. 심문 이후 24시간 내 석방 여부를 결정해야 해 내일 결과가 나올 전망이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘총수 일가 골프장 일감 몰아주기’ 미래에셋 계열사들, 1심서 무죄</title>
+      <link>https://www.chosun.com/national/court_law/2025/01/16/QTA5OZHA55FMBCXYHMDXAYBEIM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/01/16/QTA5OZHA55FMBCXYHMDXAYBEIM/</guid>
+      <dc:creator>박강현 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 16 Jan 2025 04:17:01 +0000</pubDate>
+      <content:encoded>총수 일가가 운영하는 골프장에 일감을 몰아준 혐의로 기소된 미래에셋그룹 계열사들이 1심에서 무죄를 선고받았다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3FTGPTVCXJGOPCYLMP3UYTQ3YI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울중앙지법. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;16일 서울중앙지법 형사15단독 현경훈 판사는 독점규제 및 공정거래에 관한 법률 위반 혐의로 재판에 넘겨진 미래에셋자산운용과 미래에셋생명보험에게 각각 무죄를 선고했다.&lt;br&gt;&lt;br&gt;현 판사는 “골프장 거래로 인해 미래에셋컨설팅에 매출액이 발생하고 결과적으로 이익이 귀속된 사실은 인정된다”면서도 “수익의 극대화 방식을 취하지 않고 거래를 통해 매출이 발생한 사실만 놓고 특수관계인에게 부당이익을 귀속시키려 했다는 의도로 보기 어렵다”고 판단했다.&lt;br&gt;&lt;br&gt;미래에셋자산운용과 미래에셋생명보험은 지난 2015년 1월부터 2016년 12월까지 박현주 회장 일가가 지분 91.86%를 보유한 미래에셋컨설팅이 운영하는 골프장에 가격이나 거래조건 등에 관한 합리적 고려나 다른 사업자와의 비교 없이 거래를 몰아준 혐의를 받는다. &lt;br&gt;&lt;br&gt;검찰은 약 240억원 상당의 이익을 해당 골프장에 몰아준 것으로 파악해 당초 미래에셋자산운용과 미래에셋생명보험을 공정거래법 위반 혐의로 각각 벌금 3000만원에 처해달라며 약식기소했고, 법원도 벌금 3000만원의 약식명령을 내렸다. 그러나 미래에셋 측이 불복하고 정식재판을 청구해 재판이 시작됐다.&lt;br&gt;&lt;br&gt;앞서 공정거래위원회는 2020년 5월 이 같은 부당 내부거래 행위에 대한 시정 명령을 내리고, 미래에셋자산운용에 6억400만원, 미래에셋생명보험에 5억5700만원 등의 과징금 처분을 내리기도 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘북한강 토막 살인’ 양광준, 계획 아닌 우발 범행 주장</title>
+      <link>https://www.chosun.com/national/court_law/2025/01/16/TNJZING7XJA45D4C45N7QPHOWE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/01/16/TNJZING7XJA45D4C45N7QPHOWE/</guid>
+      <dc:creator>춘천=정성원 기자</dc:creator>
+      <description>같이 근무하던 여성 군무원을 살해한 뒤 시신을 훼손해 강원 화천군 북한강에 유기한 육군 소령 양광준(39)이 자신의 범행은 계획 범행이 아닌 우발 범행이라고 주장했다.양광준은 16일 춘천지법 형사2부 심리로 열린 두번째 공판에서 검찰의 공소 사실 중 사건 경위 일부는 사실과 다르다고 주장했다.</description>
+      <pubDate>Thu, 16 Jan 2025 03:39:59 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MVU42KQTNBBHFAORLOG5H7NYJY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;양광준 화천 북한강 토막살인범/강원경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;같이 근무하던 여성 군무원을 살해한 뒤 시신을 훼손해 강원 화천군 북한강에 유기한 육군 소령 양광준(39)이 자신의 범행은 계획 범행이 아닌 우발 범행이라고 주장했다.&lt;br&gt;&lt;br&gt;양광준은 16일 춘천지법 형사2부 심리로 열린 두번째 공판에서 검찰의 공소 사실 중 사건 경위 일부는 사실과 다르다고 주장했다. 양광준 측은 이날 공소사실을 인정하면서도 계획 범행을 부인하며 “우발 범행이므로 양형에 참작해달라”고 했다.&lt;br&gt;&lt;br&gt;또 “경찰에서 네 차례 양광준을 조사한 내용을 정리한 피의자 신문조서는 증거로 인정할 수 없다”고 밝혔다.&lt;br&gt;&lt;br&gt;양은 지난달 첫 공판 이후 재판부에 총 3차례 반성문을 제출했으며, 이날 재판에선 피해자 측에 보상할 의사가 있음을 밝혀 합의를 위한 재판 속행을 요청했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5GYWR2EU5VF7RNLOOUCMKCIRRU.png"&gt;&lt;figcaption&gt;&lt;small&gt;양광준 화천 북한강 토막살인범/강원경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;양은 지난해 10월 25일 같은 부대에 근무하던 군무원 A(33)씨를 살해하고 시신을 훼손해 강원 화천군 북한강 일원에 유기한 혐의를 받고 있다. 양은 A씨와 교제하던 부적절한 관계가 밝혀지는 것을 막기 위해 이 같은 범행을 저지른 것으로 조사됐다. 양은 훼손된 시신을 담은 비닐봉지가 떠오르는 것을 막기 위해 비닐봉지에 돌을 함께 넣었으며, 위조 차량 번호판을 범행에 이용하는 등 계획적으로 범행을 벌였다. 범행을 은폐하기 위해 A씨를 살해한 이후에도 A씨의 휴대전화를 이용해 가족 등에게 문자메시지를 보내기도 했다.&lt;br&gt;&lt;br&gt;다음 공판은 오는 3월 6일 열린다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>국립아시아문화전당 개관 10주년…누적 방문객 1900만 기록</title>
+      <link>https://www.chosun.com/national/national_general/2025/01/16/QW4NDNZ4QBBLXCNQCJZZOMNQ4Q/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/16/QW4NDNZ4QBBLXCNQCJZZOMNQ4Q/</guid>
+      <dc:creator>광주광역시=진창일 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 16 Jan 2025 04:00:47 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MTZYN5YNXLGAXPPIUJ2PLKSDGY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;국립아시아문화전당. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;개관 10주년을 맞은 국립아시아문화전당(ACC)이 누적 방문객 1900만명을 기록했다. 지난해에는 개관 이래 최대 규모인 320만명이 찾았다.&lt;br&gt;&lt;br&gt;ACC는 16일 “2015년 11월 개관부터 지난해 말까지 누적 방문객 1900만명을 기록하면서 아시아 문화예술 가치를 창출하는 열린 복합문화공간으로 자리매김했다”고 밝혔다.&lt;br&gt;&lt;br&gt;ACC가 현재까지 구축한 공연·전시 등 문화 콘텐츠는 총 1910건이다. ACC는 “이중 66%인 1255건 콘텐츠를 직접 창‧제작했다”고 설명했다. ACC가 지난해 말부터 선보이고 있는 ‘디어 바바뇨냐: 해항 도시 속 혼합문화’, ‘이음지음’ 전시는 각각 관람객 수 20만명을 넘기는 호평을 받고 있다. 개별 전시 콘텐츠의 20만명 관람객 돌파는 ACC 개관 이후 처음이다.&lt;br&gt;&lt;br&gt;지난해 운영한 ‘사유정원, 상상너머를 거닐다’, ‘몰입미감-디지털로 본 미술 속 자연과 휴머니즘’, ‘원초적 비디오 본색’ 등 전시도 10만~18만명의 관람객을 기록했다.&lt;br&gt;&lt;br&gt;ACC는 문화예술과 디지털 기술이 결합된 다양한 형태의 융복합예술 연구도 추진 중이다. 국내외 작가들이 연구하고 실험을 통해 창의력을 발휘할 수 있도록 레지던시 프로그램과 창‧제작 스튜디오, 융복합 연구개발 실험실(Lab) 등을 운영하고 있다.&lt;br&gt;&lt;br&gt;문화예술 전문가 양성 교육과정은 지난 2016년부터 현재까지 3530명의 국내외 인재를 배출했다. ACC는 “전문 인력 양성교육 참여자의 70% 이상이 서울을 비롯한 타 지역 출신으로 ACC의 교육과정이 지역 소재 기관의 한계를 극복하고 전국적으로 큰 관심을 받고 있기 때문”이라고 설명했다.&lt;br&gt;&lt;br&gt;ACC는 5‧18민주화운동 당시 최후 항쟁지였던 옛 전남도청 부지에 설립된 만큼, 5‧18 희생자 및 가족의 사연을 담은 ‘오월어머니의 노래’ 공연을 제작하는 등 오월 정신 공유에도 앞장서고 있다.&lt;br&gt;&lt;br&gt;ACC는 올해 개관 10주년을 맞아 광주를 대표하는 세계적인 미디어 아티스트 이이남 작가의 ‘지역작가 전시’와 ‘The Next Steppe, 초원의 바람’ 전시를 계획하고 있다. 오는 5월에는 서커스, 무용, 음악이 어우러진 해외 우수 초청 공연 ‘더 펄스(The Pulse)’를 무대에 올린다. ACC가 서커스를 결합한 작품을 소개하는 것은 이번이 처음이다.&lt;br&gt;&lt;br&gt;이강현 ACC 전당장은 “ACC는 더 크고 넓은 비전을 가지고 새로운 10년을 향해 나갈 것”이라며 “아시아와 세계를 잇는 허브 역할을 지속하고 다양한 문화적 경험 향유를 통해 더욱 풍성하고 다채로운 미래를 만들어 가겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/MTZYN5YNXLGAXPPIUJ2PLKSDGY.jpg?width=3000&amp;height=1052&amp;auth=6c220c35475c12632d99231faa523a54f5daa524bc756117d08e35bfa83e229c&amp;smart=true" type="image/jpeg" height="1052" width="3000">
+        <media:description type="plain">국립아시아문화전당(ACC) (국립아시아문화전당 제공) 2021.2.1/뉴스1</media:description>
+        <media:credit role="author" scheme="urn:ebu">뉴스1</media:credit>
+      </media:content>
+    </item>
+    <item>
       <title>주행 차량 사이드미러에 고의로 팔 부딪쳐...합의금 뜯은 50대</title>
       <link>https://www.chosun.com/national/regional/2025/01/16/XEOOTYYJDFFGXGJAVZOPTY45QA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/01/16/XEOOTYYJDFFGXGJAVZOPTY45QA/</guid>
@@ -899,51 +948,6 @@
       <description/>
       <pubDate>Wed, 15 Jan 2025 05:44:23 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XKT47ERKFVCCHLKOCLGSYIJJMI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;오세훈 서울시장과 김철주 생명보험협회 회장이 15일 오전 서울시-생명보험협회 손목닥터 9988 공동협력 업무협약식에서 협약서를 들고 기념촬영을 하고 있다./서울시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울시가 생명보험협회와 손잡고 취약계층의 ‘손목닥터 9988′이용을 돕는다.&lt;br&gt;&lt;br&gt;서울시는 15일 오전 생명보험협회와 ‘손목닥터 9988′ 공동협력 업무협약을 맺었다.&lt;br&gt;&lt;br&gt;손목닥터 9988은 하루 8000보 이상 걸으면 현금처럼 쓸 수 있는 포인트를 주는 서울시의 건강관리 앱이다.&lt;br&gt;&lt;br&gt;생명보험협회는 앞으로 3년간 손목닥터9988 서비스 확대에 쓰일 사회공헌기금 20억원을 지원한다.&lt;br&gt;&lt;br&gt;취약계층이 손목닥터 9988을 쓸 수 있게끔 스마트 워치 보급 등에 활용한다. 손목닥터 9988의 건강 개선 효과를 연구하는 데에도 쓴다.&lt;br&gt;&lt;br&gt;서울시는 초고령사회 진입, 만성질환 증가 등에 대응하고 건강관리 습관 형성을 돕기 위해 이번 협약을 추진하게 됐다고 설명했다.&lt;br&gt;&lt;br&gt;오세훈 시장은 “서울시는 장수를 넘어 건강하게 나이 들어가는 건강 수명을 늘리는 것을 목표로 삼고 손목닥터9988을 계속 추진해 나갈 것”이라며 “서비스와 시스템을 업그레이드해 손목닥터9988을 ‘시민 건강데이터 플랫폼’으로도 활용할 수 있게 하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>애터미 회장 부부, 10억원 이상 고액기부자 클럽에 나란히 가입...전국 최초 부부 회원</title>
-      <link>https://www.chosun.com/national/people/2025/01/15/HMI5NNR46FERHN7KZCRV2SKMEA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/01/15/HMI5NNR46FERHN7KZCRV2SKMEA/</guid>
-      <dc:creator>장윤 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 15 Jan 2025 05:24:47 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/L5NK4Q5V2JB3XDDTWTPSQEE7UU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;도경희 애터미 부회장이 15일 오전 세종시청에서 열린 아너 소사이어티 오플러스 가입식에서 인사말을 하고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;애터미 회장 부부가 10억원 이상 고액기부자 클럽인 ‘사랑의 열매 아너 소사이어티 오플러스’에 가입하며 전국 최초 부부 회원이 됐다.&lt;br&gt;&lt;br&gt;도경희 애터미 부회장은 15일 오전 세종시를 찾아 사랑의 열매 세종사회복지공동모금회에 10억원을 기부했다. 이 기부금은 취약계층, 장애인시설, 정신요양시설 등 30여 곳에 배분될 예정이다. &lt;br&gt;&lt;br&gt;도 부회장의 남편인 박한길 애터미 회장은 지난 2023년 11월 사랑의 열매 사회복지공동모금회에 10억원을 기부하며 전국 최초로 ‘아너 소사이어티 오플러스’에 가입한 바 있다. 아너 소사이어티 오플러스 부부 회원은 박 회장 부부가 전국에서 최초다. &lt;br&gt;&lt;br&gt;도 부회장은 “나눔은 특별한 것이 아니라 일상의 한 부분”이라며 “가족 모두가 기부에 동참하고 있다는 사실에 자부심을 느낀다”고 했다. 이들 부부의 아들·며느리·손자 등도 1억원씩 기부하며 이들 가족은 ‘3대 패밀리 아너 회원’으로 가입됐다. “처음에는 20만원도 없는 돈을 겨우 끌어모아 어려운 이웃을 도왔다”는 도 부회장은 “앞으로도 나누는 삶을 살도록 노력하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>138억원 전세사기 벌인 일당, 1심서 징역 10년</title>
-      <link>https://www.chosun.com/national/national_general/2025/01/15/LNTRJNRLC5GLRC5QI5RWPYUPFA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/15/LNTRJNRLC5GLRC5QI5RWPYUPFA/</guid>
-      <dc:creator>강지은 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 15 Jan 2025 06:26:30 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4CLTTVXP6Z5566DGKWTBCIIZYU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울남부지법./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘깡통전세’와 ‘동시진행’ 수법으로 서울에서 130억원대의 전세사기를 벌인 일당이 1심에서 실형을 선고받았다.&lt;br&gt;&lt;br&gt;15일 서울남부지법 형사12단독 서영우 판사는 사기 등 혐의로 구속 기소된 무자본 임대업자 구모(55)씨와 변모(54)씨에게 각각 징역 10년과 6년을 선고했다. 이들은 2017년 2월부터 2023년 10월까지 서울 영등포구, 금천구 등에서 피해자 155명으로부터 전세보증금 135억원과 전세자금 대출금 3억원을 가로챈 혐의를 받는다.&lt;br&gt;&lt;br&gt;재판부는 “대다수의 사람들에게 전세보증금은 가장 중요한 재산이고 기본적인 의식주와 막대한 관련이 있어 관련 범죄를 엄단할 필요가 있다”며 “자본주의 사회에서 주택은 투자사업의 대상이 될 수 있지만 사람이 거주하는 곳이므로 투자 사업에는 책임이 수반된다”고 양형 이유를 밝혔다. 그러면서 “특히 무자본 갭투자 방식은 타인의 비용과 위험부담으로 자기 재산을 증식시키고, 부동산 가액이 하락하면 피해를 임차인에게 고스란히 전가한다는 점에서 엄격한 책임을 물을 필요가 있다”고 했다.&lt;br&gt;&lt;br&gt;이들은 건물 가격보다 비싸게 전세 계약을 맺는 이른바 ‘깡통 전세’를 내놓거나, 신축 건물을 매수하는 동시에 전세를 놓아 자본 투입 없이 세입자들로부터 받은 보증금으로 매매대금을 충당하는 ‘동시 진행’ 수법을 사용한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;구씨 측은 “범행에 사용된 건물 한 채에 대해서는 변씨에게 소유권을 이전하고 자신은 계약 체결에 관여한 바가 없다”고 주장하고, 변씨 측은 “구씨의 가족으로서 도운 것일 뿐 정확한 인식이 없어 범행을 공모한 것은 아니다”라고 항변했으나 재판부는 이를 받아들이지 않았다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>댐 짓는 지자체, ‘최대 700억원’ 추가로 지원받는다</title>
-      <link>https://www.chosun.com/national/transport-environment/2025/01/15/3ZNEUEU6PFBTFJDXDGIPBZBJZE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/01/15/3ZNEUEU6PFBTFJDXDGIPBZBJZE/</guid>
-      <dc:creator>박상현 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 15 Jan 2025 03:26:11 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YGQHQJC6LZOQRAXSFDX5SF6NQI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지역의 요구로 건설된 첫 댐으로 꼽히는 원주천댐 준공식이 작년 10월 31일 판부면 신촌리 댐 하류 공원 내 풋살장에서 열렸다. 사진은 드론 촬영을 통해 확인된 원주천댐의 모습. /원주시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;앞으로 댐을 짓는 지자체에 정비사업 명목으로 최대 700억원이 추가로 지원된다. 기존 지원액에서 2배 늘어나는 것이다.&lt;br&gt;&lt;br&gt;환경부는 댐 주변지역 정비사업 재원 중 ‘추가금액’ 상한을 200억원에서 700억원으로 상향하는 댐건설관리법 시행령 개정안을 16일 입법예고한다고 15일 밝혔다. 댐 주변 지역에는 도로·교량·상하수도 등 공공시설을 놓거나, 진료소·체육시설·공원·시장·토산품 판매장 등 생산·복지시설을 조성할 수 있다.&lt;br&gt;&lt;br&gt;정비사업 재원은 국가가 댐을 건설할 경우 국가가 90%, 지방자치단체가 10%를 분담한다. 지자체가 댐을 짓는 경우 정비사업 재원도 전액 지자체가 부담한다.&lt;br&gt;&lt;br&gt;환경부가 작년 7월 발표한 신규 댐 후보 14곳 중 수입천·지천·동복천·아미천·단양천·운문천댐은 국가가 건설하는 댐에 해당한다 감천·고현천·용두천·옥천·산기천·화양강·병영천·가례천댐은 지자체가 짓는 댐이다.&lt;br&gt;&lt;br&gt;정비사업은 ‘기초금액’과 ‘추가금액’을 합한 재원 내에서 실시해야 한다. 기초금액은 총저수량이 1억5000만t(톤) 이상이면 400억원, ‘1억5000만t 미만 2000만t 이상’이면 300억원이다. 추가금액은 ‘상한액’에 총저수량, 저수 면적, 수몰 세대 수, 개발수요 등을 반영해 산출한다. 이번 시행령 개정안은 이 상한액을 200억원에서 700억원으로 올리는 것이 골자다.&lt;br&gt;&lt;br&gt;환경부는 수입천·지천·동복천·아미천·단양천댐 등 5개 댐의 경우 개정안을 기준으로 정비사업 재원을 산출하면 약 600억∼800억원으로 기존(300억∼400억원)보다 약 2배로 늘어난다고 밝혔다. 댐별 개정안에 따른 정비사업 재원은 수입천댐 790억원, 지천댐 770억원, 동복천댐 720억원, 아미천댐 670억원, 단양천댐 650억원이다.&lt;br&gt;&lt;br&gt;개정안에는 총저수량이 2000만t 미만인 댐도 총저수량이 10만t 이상이고 환경부 장관이 필요하다고 인정하면 주변지역 정비사업을 추진할 수 있도록 하는 내용도 담겼다. 개정안이 시행되면 신규 댐 후보 중 현행 규정으로는 주변지역 정비사업 대상이 아닌 9곳도 정비사업을 벌일 수 있게 된다.&lt;br&gt;&lt;br&gt;개정안은 스마트팜·헬스케어센터·생태관광시설 조성과 마을조합 수익사업도 댐 주변지역 정비사업으로 추진할 수 있도록 했다.&lt;br&gt;&lt;br&gt;이번 개정안은 3월 중 공포될 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>오세훈 “尹 수사 불구속이 바람직…공수처 손 떼야"</title>
-      <link>https://www.chosun.com/national/regional/seoul/2025/01/15/6K33IM5MHJAA7F62PDQRSWM4RU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/seoul/2025/01/15/6K33IM5MHJAA7F62PDQRSWM4RU/</guid>
-      <dc:creator>박진성 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 15 Jan 2025 04:38:20 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/S3U3CAFAJ5C7BFN4X3EOCNHH5U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;오세훈 서울 시장이 2024년 7월 10일 서울시청 집무실에서 본지와 인터뷰를 갖고 있다. /김지호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;오세훈 서울시장이 “대통령 수사는 공수처가 손을 떼고 불구속 상태에서 하는 것이 바람직하다”고 말했다.&lt;br&gt;&lt;br&gt;오 시장은 15일 ‘대통령 수사, 이제라도 적법 절차대로 해야합니다’는 제목의 페이스북 글을 통해 이같이 말했다.&lt;br&gt;&lt;br&gt;오 시장은 “사상 초유의 현직 대통령 체포를 보며 무거운 책임감을 느낀다”고 했다.&lt;br&gt;&lt;br&gt;공수처에 대해서 오 시장은 “수사 과정에서 숱한 위법, 불법 논란으로 국론을 분열시키고 있다”며 “이제부터라도 국민들이 동의할 수 있는 적법 절차가 중요하다”고 했다.&lt;br&gt;&lt;br&gt;또 오 시장은 “(대통령은) 도주 우려도 없고 관련자 대부분의 신병도 확보된 상태”라고 했다.&lt;br&gt;&lt;br&gt;이어 오 시장은 “오늘 경호처도 체포 인력의 진입을 막지 않았다”며 “‘망신주기’ 말고는 무리하게 신병을 확보할 하등의 이유가 없다”고 했다.&lt;br&gt;&lt;br&gt;아울러 오 시장은 “지금이라도 수사기관은 민주당의 압박에 휘둘리지 말고 적법 절차를 따라야 한다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YOTZGNE2ZJA73K5TGNP6KIRMJA.png"&gt;&lt;figcaption&gt;&lt;small&gt;15일 오세훈 서울시장의 페이스북 게시물&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>임실 ‘얼굴 없는 삼계 천사’, 5년간 20억원 기부</title>
-      <link>https://www.chosun.com/national/national_general/2025/01/15/ETPKP6QY65GQVIL6XKMQHH3EJ4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/15/ETPKP6QY65GQVIL6XKMQHH3EJ4/</guid>
-      <dc:creator>임실=김정엽 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 15 Jan 2025 03:48:29 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MKELKTJM4PCK4CNH6MZR4D45MM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전북 임실군청 전경./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전북 임실군의 ‘얼굴 없는 삼계 천사’가 올해도 4억원이 넘는 거액을 기부했다. 15일 임실군에 따르면 인적사항을 밝히지 않은 A씨는 지난 6일 사회복지공동모금회를 통해 4억1060만원을 맡겼다.&lt;br&gt;&lt;br&gt;임실군 삼계면이 고향으로 알려진 A씨는 2021년부터 올해까지 5년간 모두 20억9100만원을 고향의 어려운 이웃을 위해 기부했다. A씨는 “어려운 경제적 상황 속에서 자녀를 키우는 분들께 도움이 되기를 바란다”며 “고향인 임실이 이웃 간에 돕고 사는 따뜻한 고장이 되기를 바란다”는 말을 남겼다.&lt;br&gt;&lt;br&gt;임실군은 A씨의 뜻에 따라 기부금을 지역 저소득층 1178세대에 전달할 예정이다. 지원은 자녀 수에 따라 1명 30만원, 2명 40만원, 3명 이상 50만원씩 앞으로 5개월간 같은 날짜에 대상자 계좌에 직접 입금하는 방식으로 이뤄진다. 자녀가 없는 저소득층에겐 일시금으로 20만원을 지원한다. 임실군 관계자는 “기부금 전달은 가능한 설 명절 이전에 이뤄지도록 할 것”이라고 했다.&lt;br&gt;&lt;br&gt;심민 임실군수는 “5년 동안 한결같은 마음으로 자신을 드러내지 않고, 어려운 이웃을 생각해 기부한 ‘얼굴 없는 삼계 천사’의 소중한 뜻에 큰 감사를 드린다”며 “기부금은 지역의 어렵고 힘든 이웃들에게 빠짐없이 전달하도록 하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[속보] 공수처, 尹 대통령 조사 11시 시작... 이재승 차장 담당</title>
