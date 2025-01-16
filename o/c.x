@@ -13,6 +13,27 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>자녀 셋 모두 서울대 보낸 양소영 변호사…“이적 어머니께 감사” 왜?</title>
+      <link>https://www.chosun.com/national/national_general/2025/01/17/PYTMM4ABVRA4FBVIHNEJFQMS6Y/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/17/PYTMM4ABVRA4FBVIHNEJFQMS6Y/</guid>
+      <dc:creator>김자아 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 16 Jan 2025 22:31:16 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TCHTEQFXOBAIVK7WWAL2JWNAEA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;양소영 변호사./유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;양소영 변호사(53)가 세 자녀를 모두 서울대에 보냈다고 밝히며 가수 이적의 어머니를 감사한 분으로 꼽았다.&lt;br&gt;&lt;br&gt;최근 소셜미디어(SNS) 등에는 양소영 변호사가 지난달 27일 유튜브 채널 ‘양담소’에 ‘그대로 실천해 자녀 셋 서울대 보낸 그 책 공개’라는 제목으로 올린 영상 내용이 공유됐다.&lt;br&gt;&lt;br&gt;이 영상에서 양 변호사는 아이들 학원 픽업에 대해 묻자 “저 졸업했다. 막내까지 대학을 갔다. 그리고 우등 졸업을 했다. 큰 애, 둘째, 셋째 다 서울대 합격을 했다”고 했다. 이어 “딸 둘은 서울대 경영학과, 막내는 전기·정보공학부 합격을 했다”며 “대치동 졸업해서 좋고, 픽업도 안하고 돈이 안 들어서 좋다”고 했다.&lt;br&gt;&lt;br&gt;고마운 사람에 대해 묻자 양 변호사는 “아이 셋키우고 정말 힘들었을 때 저에게 한줄기 빛처럼 다가온 박혜란 교수님”이라고 밝혔다. 여성학자이자 작가로 활동 중인 박혜란 교수는 가수 이적의 모친이다. 이적을 포함한 박 교수의 세 아들 모두 서울대를 나왔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EZ6LPGOPB5HVFMRZPKHJRXTVBI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;박혜란 교수./유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;양 변호사는 박 교수에게 영상 편지를 띄워 “교수님이 저를 아실지 모르겠지만 제가 방송을 하는데도 이적씨와 방송할 기회가 없었다”며 “교수님께 감사한 마음을 늘 갖고 아이들을 키웠는데 오늘 드디어 정식으로 영상 편지를 전한다”고 했다.&lt;br&gt;&lt;br&gt;이어 “교수님 책을 다시 한번 샀다”며 “2006년 애를 낳고 어떻게 키울지 불안함에 휩싸여 있을 때 한 줄기 빛처럼 다가온 책이 바로 교수님의 쓰신 ‘믿는 만큼 자라는 아이들’이었다”고 했다.&lt;br&gt;&lt;br&gt;워킹맘으로 힘들었던 시기를 떠올리며 눈물을 흘린 그는 “(일하는 엄마를 둔) 아이들은 늘 주위에서 불쌍한 아이, 엄마 손에 못 크는 아이라는 시선이 많았다”고 했다. &lt;br&gt;&lt;br&gt;그러면서 “애 셋을 키우는 과정에서 큰 애를 낳자마자 어떻게 씻기는 지도 몰라서 애 목욕시키는 책을 봐야 할 정도였는데 교수님 책을 보면서 굉장히 위안을 얻었다”고 했다. 박 교수의 책을 본 양 변호사는 “열심히 키우지 않아도 사랑과 믿음으로 아이들을 키운다면 나도 잘 키울 수 있겠구나”라는 용기가 생겼다고 한다.&lt;br&gt;&lt;br&gt;양 변호사는 “이번에 막내까지 서울대를 가서 교수님처럼 애 셋을 다 서울대에 보냈다”며 “다시 한번 최근에 교수님의 책을 읽으니까 제가 왜 용기를 얻고 희망을 발견했는지 이해가 되더라. 정말 감사하다는 말씀 드린다”고 했다.&lt;br&gt;&lt;br&gt;이화여자대학교 법학과를 졸업한 양소영 변호사는 이혼·상속 등 가사 전문 변호사로 다양한 매체에서도 활동 중이다. 현재는 양육비 미지급 성폭력 피해자를 위한 공익활동을 하고 있으며, 최근 FT아일랜드 멤버 최민환과 양육권 소송 중인 걸그룹 라붐 출신 율희의 법률대리인을 맡았다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/TCHTEQFXOBAIVK7WWAL2JWNAEA.jpg?width=948&amp;height=556&amp;auth=ae2ca79a60d9101f73e12fb321d025a1f0eaca27e3d89395a76fa1cfcbb5ebe3&amp;smart=true" type="image/jpeg" height="556" width="948">
+        <media:description type="plain">양소영 변호사./유튜브</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>[속보] 공수처 “尹 체포적부심 제출 기록, 0시 35분 반환”</title>
+      <link>https://www.chosun.com/national/court_law/2025/01/17/DG54CFLJYRAB5M3QRXB67SICKA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/01/17/DG54CFLJYRAB5M3QRXB67SICKA/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 16 Jan 2025 22:19:56 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EHPMTV3NVLFLZ7QFX7UZLOTHMY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기도 과천시 공수처 앞에 포토라인이 설치돼 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 대통령 측이 청구한 체포 적부 심사가 기각된 뒤, 고위공직자범죄수사처(공수처)는 적부 심사에 제출한 수사 자료를 17일 오전 0시 35분에 돌려받았다고 밝혔다. 전날 오후 2시 3분 법원에 자료가 접수된 것을 기준으로 할 때, 윤 대통령의 체포 기간은 10시간 32분이 늘어난 이날 오후 9시 5분까지다. 공수처는 이날 오전 10시까지 출석해 조사 받으라고 윤 대통령 측에 통보했는데, 출석 여부와 상관 없이 구속영장을 청구할 계획인 것으로 전해졌다.&lt;br&gt;&lt;br&gt;수사기관은 피의자를 체포할 경우 최대 48시간 이내에 구속영장 청구 여부 등을 결정해야 한다. 구속영장을 청구할 수 없다고 판단할 경우엔 피의자를 석방해야 한다. 다만 피의자가 체포 적부 심사를 청구할 경우 수사기관은 법원에 관련 자료를 제출하도록 돼 있다.&lt;br&gt;&lt;br&gt;이 자료들이 법원에 접수된 시각부터 심사를 마친 뒤 법원에서 자료를 돌려받을 때까지 걸린 시간은 체포 기간인 48시간에 포함되지 않는다. 지난 15일 오전 10시 33분 체포된 윤 대통령은 법원에 공수처 수사 자료가 접수된 16일 오후 2시 3분까지 27시간 30분 동안 체포돼 있었다. 체포 적부 심사를 마치고 법원이 수사 자료를 공수처에 반환한 시점부터 20시간 30분 이내에 공수처는 구속 영장 청구 여부를 결정해야 한다. 이날 오후 9시 5분 체포기간이 만료되기 전 구속영장을 청구하겠다는 것이 공수처 계획이라고 한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Q6ASGZWED5GLBB7HRVPUAUQY3Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령 측 석동현 변호사가 16일 오후 서울 서초구 서울중앙지법에서 열린 체포적부심사에 참석하기 위해 법정으로 향하고 있다. /박성원 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지법 형사32단독 소준섭 판사는 지난 16일 오후 11시쯤 “이 사건 청구는 이유 없다고 인정되므로 형사소송법 제214조의2 제4항에 의하여 이를 기각한다”고 밝혔다. 소 판사는 16일 오후 5시부터 7시까지 약 2시간 동안 체포 적부 심사를 열고 양측의 주장을 검토했다. 체포 적부 심사는 영장에 의해 체포·구속된 피의자에 대해 법원이 적법한지 심사해 석방 여부를 판단하는 제도다.&lt;br&gt;&lt;br&gt;윤 대통령 측에선 배진한·석동현·김계리 변호사가, 공수처에선 주임검사인 차정현 부장검사를 포함해 검사 3명이 각각 참석했다. 윤 대통령은 경호 문제 등으로 직접 나오지 않았다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>집세가 만원·천원, 신혼부부만 오세요</title>
       <link>https://www.chosun.com/national/national_general/2025/01/17/7DM4CKI4CNDUZIOL7LCUELUFME/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/17/7DM4CKI4CNDUZIOL7LCUELUFME/</guid>
@@ -825,19 +846,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MVU42KQTNBBHFAORLOG5H7NYJY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;양광준 화천 북한강 토막살인범/강원경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;같이 근무하던 여성 군무원을 살해한 뒤 시신을 훼손해 강원 화천군 북한강에 유기한 육군 소령 양광준(39)이 자신의 범행은 계획 범행이 아닌 우발 범행이라고 주장했다.&lt;br&gt;&lt;br&gt;양광준은 16일 춘천지법 형사2부 심리로 열린 두번째 공판에서 검찰의 공소 사실 중 사건 경위 일부는 사실과 다르다고 주장했다. 양광준 측은 이날 공소사실을 인정하면서도 계획 범행을 부인하며 “우발 범행이므로 양형에 참작해달라”고 했다.&lt;br&gt;&lt;br&gt;또 “경찰에서 네 차례 양광준을 조사한 내용을 정리한 피의자 신문조서는 증거로 인정할 수 없다”고 밝혔다.&lt;br&gt;&lt;br&gt;양은 지난달 첫 공판 이후 재판부에 총 3차례 반성문을 제출했으며, 이날 재판에선 피해자 측에 보상할 의사가 있음을 밝혀 합의를 위한 재판 속행을 요청했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5GYWR2EU5VF7RNLOOUCMKCIRRU.png"&gt;&lt;figcaption&gt;&lt;small&gt;양광준 화천 북한강 토막살인범/강원경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;양은 지난해 10월 25일 같은 부대에 근무하던 군무원 A(33)씨를 살해하고 시신을 훼손해 강원 화천군 북한강 일원에 유기한 혐의를 받고 있다. 양은 A씨와 교제하던 부적절한 관계가 밝혀지는 것을 막기 위해 이 같은 범행을 저지른 것으로 조사됐다. 양은 훼손된 시신을 담은 비닐봉지가 떠오르는 것을 막기 위해 비닐봉지에 돌을 함께 넣었으며, 위조 차량 번호판을 범행에 이용하는 등 계획적으로 범행을 벌였다. 범행을 은폐하기 위해 A씨를 살해한 이후에도 A씨의 휴대전화를 이용해 가족 등에게 문자메시지를 보내기도 했다.&lt;br&gt;&lt;br&gt;다음 공판은 오는 3월 6일 열린다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>국립아시아문화전당 개관 10주년…누적 방문객 1900만 기록</title>
-      <link>https://www.chosun.com/national/national_general/2025/01/16/QW4NDNZ4QBBLXCNQCJZZOMNQ4Q/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/16/QW4NDNZ4QBBLXCNQCJZZOMNQ4Q/</guid>
-      <dc:creator>광주광역시=진창일 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 16 Jan 2025 04:00:47 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MTZYN5YNXLGAXPPIUJ2PLKSDGY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;국립아시아문화전당. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;개관 10주년을 맞은 국립아시아문화전당(ACC)이 누적 방문객 1900만명을 기록했다. 지난해에는 개관 이래 최대 규모인 320만명이 찾았다.&lt;br&gt;&lt;br&gt;ACC는 16일 “2015년 11월 개관부터 지난해 말까지 누적 방문객 1900만명을 기록하면서 아시아 문화예술 가치를 창출하는 열린 복합문화공간으로 자리매김했다”고 밝혔다.&lt;br&gt;&lt;br&gt;ACC가 현재까지 구축한 공연·전시 등 문화 콘텐츠는 총 1910건이다. ACC는 “이중 66%인 1255건 콘텐츠를 직접 창‧제작했다”고 설명했다. ACC가 지난해 말부터 선보이고 있는 ‘디어 바바뇨냐: 해항 도시 속 혼합문화’, ‘이음지음’ 전시는 각각 관람객 수 20만명을 넘기는 호평을 받고 있다. 개별 전시 콘텐츠의 20만명 관람객 돌파는 ACC 개관 이후 처음이다.&lt;br&gt;&lt;br&gt;지난해 운영한 ‘사유정원, 상상너머를 거닐다’, ‘몰입미감-디지털로 본 미술 속 자연과 휴머니즘’, ‘원초적 비디오 본색’ 등 전시도 10만~18만명의 관람객을 기록했다.&lt;br&gt;&lt;br&gt;ACC는 문화예술과 디지털 기술이 결합된 다양한 형태의 융복합예술 연구도 추진 중이다. 국내외 작가들이 연구하고 실험을 통해 창의력을 발휘할 수 있도록 레지던시 프로그램과 창‧제작 스튜디오, 융복합 연구개발 실험실(Lab) 등을 운영하고 있다.&lt;br&gt;&lt;br&gt;문화예술 전문가 양성 교육과정은 지난 2016년부터 현재까지 3530명의 국내외 인재를 배출했다. ACC는 “전문 인력 양성교육 참여자의 70% 이상이 서울을 비롯한 타 지역 출신으로 ACC의 교육과정이 지역 소재 기관의 한계를 극복하고 전국적으로 큰 관심을 받고 있기 때문”이라고 설명했다.&lt;br&gt;&lt;br&gt;ACC는 5‧18민주화운동 당시 최후 항쟁지였던 옛 전남도청 부지에 설립된 만큼, 5‧18 희생자 및 가족의 사연을 담은 ‘오월어머니의 노래’ 공연을 제작하는 등 오월 정신 공유에도 앞장서고 있다.&lt;br&gt;&lt;br&gt;ACC는 올해 개관 10주년을 맞아 광주를 대표하는 세계적인 미디어 아티스트 이이남 작가의 ‘지역작가 전시’와 ‘The Next Steppe, 초원의 바람’ 전시를 계획하고 있다. 오는 5월에는 서커스, 무용, 음악이 어우러진 해외 우수 초청 공연 ‘더 펄스(The Pulse)’를 무대에 올린다. ACC가 서커스를 결합한 작품을 소개하는 것은 이번이 처음이다.&lt;br&gt;&lt;br&gt;이강현 ACC 전당장은 “ACC는 더 크고 넓은 비전을 가지고 새로운 10년을 향해 나갈 것”이라며 “아시아와 세계를 잇는 허브 역할을 지속하고 다양한 문화적 경험 향유를 통해 더욱 풍성하고 다채로운 미래를 만들어 가겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/MTZYN5YNXLGAXPPIUJ2PLKSDGY.jpg?width=3000&amp;height=1052&amp;auth=6c220c35475c12632d99231faa523a54f5daa524bc756117d08e35bfa83e229c&amp;smart=true" type="image/jpeg" height="1052" width="3000">
-        <media:description type="plain">국립아시아문화전당(ACC) (국립아시아문화전당 제공) 2021.2.1/뉴스1</media:description>
-        <media:credit role="author" scheme="urn:ebu">뉴스1</media:credit>
-      </media:content>
-    </item>
-    <item>
       <title>주행 차량 사이드미러에 고의로 팔 부딪쳐...합의금 뜯은 50대</title>
       <link>https://www.chosun.com/national/regional/2025/01/16/XEOOTYYJDFFGXGJAVZOPTY45QA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/01/16/XEOOTYYJDFFGXGJAVZOPTY45QA/</guid>
@@ -881,15 +889,6 @@
       <description/>
       <pubDate>Thu, 16 Jan 2025 02:05:40 +0000</pubDate>
       <content:encoded>헌법재판소가 윤석열 대통령 측이 낸 탄핵심판 2차 변론기일 연기 신청을 받아들이지 않은 이유에 대해 “기일 변경 사유가 아니라고 봤다”고 설명했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VZDMJ2I74ZMH7BKCQMY6LDVWY4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령 탄핵 심판의 2차 변론 기일인 16일 서울 종로구 헌법재판소 앞에서 경찰이 경계근무를 서고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;천재현 헌재 공보관은 이날 브리핑에서 “재판관 8인 전원이 기일 변경에 대해 논의했고, 윤 대통령 측에 오전 중 전화로 기일 변경 신청을 받아들이지 않는다고 알렸다”고 했다.&lt;br&gt;&lt;br&gt;윤 대통령은 전날 “고위공직자범죄수사처(공수처)에 의해 체포되면서 출석이 어렵다”며 변론 기일을 연기해 달라는 신청서를 낸 바 있다.&lt;br&gt;&lt;br&gt;기일 지정은 별도의 각하·기각 결정을 내리는 절차 없이 재판부가 직권으로 판단할 수 있다. 재판부 판단에 따라 이날 오후 2시로 예정된 2차 변론 기일은 윤 대통령 출석 없이 열리게 됐다.&lt;br&gt;&lt;br&gt;헌재에 따르면 윤 대통령 측은 지난 15일 변호인 선임계를 추가로 제출했다. 조대현 전 헌법재판관, 정상명 전 검찰총장, 김홍일 전 방송통신위원장, 송해은 전 검사장, 송진호·이동찬 변호사 등 6명이 새로 합류했다. 이로써 윤 대통령 측 탄핵심판 대리인단은 총 14명이 됐다.&lt;br&gt;&lt;br&gt;조 전 재판관은 2003년 고 노무현 전 대통령의 사법연수원 7기 동기 친목 모임 ‘8인회’ 멤버로, 노 전 대통령 탄핵 사건의 변호인을 맡았던 인물이다. 당시 열린우리당 추천으로 2005년부터 2011년까지 헌재 재판관을 지냈다.&lt;br&gt;&lt;br&gt;정 전 총장은 윤 대통령의 멘토로 알려져 있다. 윤 대통령의 결혼식 주례를 설 정도로 각별한 사이다. 정 전 총장은 2019년 윤 대통령이 검찰총장으로 임명될 때 검찰총장 후보추천위원장을 맡았다.&lt;br&gt;&lt;br&gt;아울러 천 공보관은 “서울중앙지검이 지난 15일 수사기록 일부를 추가 회신했다”며 “윤 대통령 2차 체포 영장 관련 효력 정지 가처분·권한 쟁의 심판 등은 재판부 검토 중”이라고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>화물차에 숨어 제주 몰래 빠져나가려던 베트남인 11명 적발</title>
-      <link>https://www.chosun.com/national/regional/2025/01/16/ARFFWMBSZBFQTPYAGT4QZPQQLY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/01/16/ARFFWMBSZBFQTPYAGT4QZPQQLY/</guid>
-      <dc:creator>제주=오재용 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 16 Jan 2025 02:05:56 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CEUI2M2HSZAHDBX5NB3FPZ4FLY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;해경 등이 무사증으로 입국한 뒤 무단이탈을 시도한 베트남인들을 적발하고 있다./제주해양경찰서&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;관광객으로 제주를 찾은 베트남인들이 배를 이용해 몰래 다른 지역으로 이동하려다가 적발됐다.&lt;br&gt;&lt;br&gt;16일 제주해양경찰서는 ‘제주특별자치도 설치 및 국제자유도시 조성을 위한 특별법’ 위반 혐의 등으로 베트남인 A씨 등 11명(남성 7명, 여성 4명)과 한국인 운반책 1명 등 12명을 적발해 조사 중이라고 밝혔다.&lt;br&gt;&lt;br&gt;해양경찰에 따르면 A씨 등은 지난 15일 오후 6시 54분쯤 화물 탑차(5톤) 화물칸 안에 숨은 뒤 제주에서 완도로 가는 선박으로 이동하던 중 적발됐다.&lt;br&gt;&lt;br&gt;탑차 안에 숨은 뒤 교묘히 위장도 했다. 화물칸 문을 열면 내부가 보이지 않게 종이상자들로 채워 넣었다. 화물칸 안쪽 공간은 베트남인이 숨을 수 있게 공간을 만들었다.&lt;br&gt;&lt;br&gt;해경은 “베트남인들은 타지역에서 일할 목적으로 이탈을 시도한 것으로 확인됐다”면서 “제주에 무비자로 들어온 시기와 브로커 관계는 현재 조사 중”이라고 말했다. 그러면서 “해상을 통한 밀항·밀입국·제주 무사증 이탈 등 국제범죄가 의심되는 외국인을 발견하면 신고를 바란다”고 했다.&lt;br&gt;&lt;br&gt;제주는 관광산업 활성화를 위해 외국인이 비자 없이 30일간 체류할 수 있도록 하는 무사증 입국제도를 시행 중이다. 무사증 제도로 입국한 외국인은 관광 목적으로 제주에 체류할 수 있지만 제주 외 다른 지역으로 이동할 수 없다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>공수처 “尹측서 조사 입장 전달 못 받아... 2시까지 기다려볼 것"</title>
