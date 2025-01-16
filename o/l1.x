@@ -6,6 +6,16 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>법원, 윤석열 대통령 체포적부심 기각</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/204836.jpg" alt="yoon10.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;서울구치소 향하는 윤석열 대통령 《사진=연합뉴스》&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;법원이&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="8480"&gt;윤석열&amp;nbsp;&lt;/span&gt;대통령이 청구한 체포적부심을 기각했다. 법원 결정에 따라 윤 대통령의 체포 상태는 유지된다.&lt;br /&gt;&lt;br /&gt;서울중앙지법 형사32단독&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="27646"&gt;소준섭&amp;nbsp;&lt;/span&gt;판사는 16일 윤 대통령의 체포적부심을 진행한 뒤 "이 사건 청구는 이유 없다고 인정된다"며 기각 결정을 내렸다. &lt;br /&gt;&lt;br /&gt;체포적부심은 수사기관 체포가 적법한지 법원이 심사해 부당하다고 판단하면 체포된 피의자를 석방하는 제도다. &lt;br /&gt;&lt;br /&gt;법원이 윤 대통령에 대한 고위공직자범죄수사처(공수처)의 체포영장 집행이 적법하다고 인정한 것이다. 서울서부지법에서 체포영장을 발부한 것이 관할 위반이라는 윤 대통령 측의 주장도 받아들여지지 않은 것으로 보인다. &lt;br /&gt;&lt;br /&gt;이날 윤 대통령의 체포적부심은 오후 5시부터 2시간 동안 비공개로 열렸다. 윤 대통령은 경호상 문제 등으로 심사에 출석하지 않았다. 심사에는 윤 대통령의 변호인인&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="5974"&gt;석동현&lt;/span&gt;·&lt;span style="font-weight: bold;" class="lawmanlink" serial="316"&gt;배진한&lt;/span&gt;·&lt;span style="font-weight: bold;" class="lawmanlink" serial="22000"&gt;김계리&amp;nbsp;&lt;/span&gt;변호사가 출석했다. 윤 대통령에 대한 조사를 진행하는 공수처에선&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="14137"&gt;차정현&amp;nbsp;&lt;/span&gt;부장검사와 평검사 2명이 참석했다. &lt;br /&gt;&lt;br /&gt;15일 윤 대통령은 공수처의 첫 조사가 끝난 뒤 불법체포를 주장하며 서울중앙지법에 체포적부심을 청구했다. 윤 대통령 측은 "수사권 없는 공수처는 관할권 없는 법원으로부터 발부받은 불법 체포영장으로 대통령 관저에 불법 침입해 기어이 대통령에 대한 체포를 감행했다"고 밝혔다.&lt;/p&gt;</description>
+			<pubDate>Thu, 16 Jan 2025 15:10:13 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/204836</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/204836</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/204836.jpg</media:thumbnail>
+			<dc:creator>임현경 기자</dc:creator>
+		</item>
+		<item>
 			<title>윤 대통령 변호인단, 공수처장·국수본부장 내란 혐의 고발</title>
 			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/204831.jpg" alt="234253.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;2차 변론기일 출석한 윤 대통령 측 변호인단 《사진=연합뉴스》&lt;/figcaption&gt;   &lt;/figure&gt;&lt;/div&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;   &lt;span style="font-weight: bold;" class="lawmanlink" serial="8480"&gt;윤석열&amp;nbsp;&lt;/span&gt;대통령의 변호인단이&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="2045"&gt;오동운&lt;/span&gt;&amp;nbsp;고위공직자범죄수사처장, 우종수 경찰 국가수사본부장 등을 내란 혐의로 서울중앙지검에 고발했다.&lt;br /&gt;&lt;br /&gt;변호인단은 16일 "공수처가 서울서부지법에 청구해 발부 받은 체포영장은 불법이며 공수처와 경찰이 위조한 공문서로 대통령 관저를 불법 침입했다"며 고발 사유를 밝혔다. &lt;br /&gt;&lt;br /&gt;변호인단은 "수사권 없는 공수처는 관할권 없는 법원으로부터 발부받은 불법 체포영장으로 지난 15일 대통령 관저에 불법 침입해 대통령을 체포했다"며 "공수처와 국수본이 대통령 체포를 위해 군사기밀을 탐지·수집·누설하고 공문서까지 위조한 뒤 3700명 이상의 인력을 동원해 국가원수를 체포감금했다"고 주장했다. &lt;br /&gt;&lt;br /&gt;변호인단은 "이들은 경호처 간부를 몰래 불러내 군사기밀보호법상 군사기밀인 대통령 관저 시설과 체포를 대비해 구축할 방어시설, 그리고 이를 해체할 수 있는 방법까지 수집해 관저 침입을 도모했고, 55경비단장의 관인을 이용해 생전 처음 보는 쪽지 공문을 위조했다"고도 밝혔다. &lt;br /&gt;&lt;br /&gt;그러면서 변호인단은 "3700명 이상의 경찰 인력을 동원해 대통령 관저 침입을 시도했다"며 "이번 영장 집행에는 적용되어야 할 형사소송법 제110조, 제111조까지 무시하며 아무런 승인을 받지도 않은 채로 군사시설에 침입해 대통령을 체포한 것"이라고 말했다. &lt;br /&gt;&lt;br /&gt;변호인단은 오 처장과 우 본부장을 가리켜 "이들이야말로 국가권력을 배제한 내란죄에 해당한다. 그 과정에서 특수공무집행방해, 직권남용권리행사방해, 군사기밀보호법위반, 군사기지법위반 등 무수히 많은 범죄를 자행했다"며 "이는 법치주의를 무너뜨리는 공권력의 행사이자 헌정질서를 문란하게 한 중대 범죄"라고 부연했다.&lt;/p&gt;</description>
 			<pubDate>Thu, 16 Jan 2025 10:25:55 -0000</pubDate>
@@ -232,16 +242,6 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/204772</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/204772.jpg</media:thumbnail>
 			<dc:creator>우빈 기자</dc:creator>
-		</item>
-		<item>
-			<title>박희돈 대한항공 전무, 부사장 승진</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 375px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/204768.jpg" alt="34536.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;박희돈 대한항공 전무&lt;/figcaption&gt;   &lt;/figure&gt;&lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;박희돈 대한항공 전무가 2025년 정기 임원인사에서 부사장으로 승진했다.&lt;p&gt;&amp;nbsp;   &lt;/p&gt;&lt;p&gt;서울대 법학과를 졸업한 박 부사장은 1991년 대한항공에 입사해 2014년부터 법무실장을 지냈다. 2021년 법무담당 겸 경영지원실장 및 기업결합 TF 부문 임원(법무)을 지냈으며, 지난해 경영전략본부장 겸 경영지원실장을 역임했다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;박 부사장은 대한항공과 아시아나항공의 합병 과정에서 복잡한 법률적 문제를 잘 풀어낸 공로를 인정받은 것으로 전해졌다.&lt;/p&gt;</description>
-			<pubDate>Wed, 15 Jan 2025 10:59:02 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/204768</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/204768</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/204768.jpg</media:thumbnail>
-			<dc:creator>한수현 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
