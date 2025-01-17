@@ -13,6 +13,102 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>가짜 공문 보내 “외상 해달라”...당진서도 軍간부 사칭 기승</title>
+      <link>https://www.chosun.com/national/incident/2025/01/17/KTPF3IEHNNEITMQB4MTPXBVT6A/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/01/17/KTPF3IEHNNEITMQB4MTPXBVT6A/</guid>
+      <dc:creator>김현수 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 17 Jan 2025 11:23:56 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WPMC2OCCMUFAWQ5EUB5YQW33UE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;군 간부 사칭 신원미상자가 제출한 가짜 공문. /당진시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최근 인천에 이어 충남 당진에서도 군 간부를 사칭해 철물점에 대금을 지급하기로 약속하고 물품 납품을 요구하는 사기 사건이 잇따라 주의가 요구된다.&lt;br&gt;&lt;br&gt;17일 당진시에 따르면 전날과 이날 지역 군부대 간부라는 남성이 철물점 2곳에 대금 지급을 약속하고 드릴 공구 세트 등 약 100만원 상당의 물품을 요청했다.&lt;br&gt;&lt;br&gt;이 남성은 철물점 주인 휴대전화로 부대명과 담당자 명칭 등이 담긴 부대 물품 공급 결재 확약서와 올해 부대정비 소모품 구매 승인서 등 공문서 사진도 보냈다.&lt;br&gt;&lt;br&gt;하지만 이를 수상히 여긴 철물점 주인이 군에 연락해 공문에 적힌 이름의 간부는 없다는 사실을 확인해 피해가 발생하지 않았다.&lt;br&gt;&lt;br&gt;시 관계자는 “현재 군부대와 협력해 즉각 연락망을 구축했다”며 “만약 군부대 관계자라고 밝히고 외상거래 요청을 해올 경우 시청 재난안전상황실에 연락해 사실관계를 확인해 달라”고 당부했다.&lt;br&gt;&lt;br&gt;지난해 12월 인천에서도 유사한 사기 사건이 발생한 바 있다. 당시 인천 소재 철물점 주인 2명이 각각 1600만원과 800만원의 피해를 본 것으로 알려졌다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>대학 측 합격 번복으로 ‘강제 재수’... 날벼락 맞은 수험생의 결말은</title>
+      <link>https://www.chosun.com/national/national_general/2025/01/17/HZVJVLUHVBB6DEAZVZPGXHTEWE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/17/HZVJVLUHVBB6DEAZVZPGXHTEWE/</guid>
+      <dc:creator>박선민 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 17 Jan 2025 12:45:56 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WSJDMSL3EVBI7GLASPHAQRG5PY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/대구경북과학기술원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;수시 전형에서 불합격한 학생에게 실수로 합격 통보를 하고, 이를 번복해 논란이 일었던 대구경북과학기술원(디지스트)이 결국 이 학생을 최종 합격 처리하기로 했다. 이 학생은 디지스트 실수로 다른 대학 등록을 취소해 어디에도 입학하지 못하는 상황에 놓였었지만, 우여곡절 끝에 대학 생활을 할 수 있게 됐다. &lt;br&gt;&lt;br&gt;17일 교육계와 연합뉴스에 따르면, 디지스트는 이날 경기지역 고등학교 3학년 A군에게 불합격 결정을 취소하고 합격 처리했다고 통보했다. &lt;br&gt;&lt;br&gt;앞서 A군은 지난달 26일 디지스트로부터 ‘합격 전화’를 받고, 대학 중복 합격 시 한 곳만 선택해야 하는 규정에 따라 이미 합격한 상태이던 아주대 이공계열을 포기했다. 이후 디지스트에 등록하려 했지만, 홈페이지 합격자 명단에 자신의 이름이 뜨지 않아 대학 측에 문의했고, 이 과정에서 담당자 실수로 잘못 합격 처리됐다는 사실을 알게 됐다. 아주대는 이미 등록을 포기해 어디에도 입학할 수 없는 상황이 된 것이다. 당시 A군 문의에 디지스트는 “담당자가 합격생 수험번호를 입력하는 과정에서 실수가 있었다”며 “입학은 불가능하지만 법적 책임은 지겠다”고 답한 것으로 알려졌다. &lt;br&gt;&lt;br&gt;이런 내용을 알게 된 임태희 경기도교육감이 교육부와 과기부 등 관계 부처와 협의해 해결책을 모색했다. 임 교육감은 “디지스트가 피해 학생에게 한 ‘법적으로 책임지겠다’는 답변은 대학이 학생에게 해서는 안 되는, 학생을 중심에 두지 않은 무책임한 답변”이라고 했다. &lt;br&gt;&lt;br&gt;결국 디지스트는 입학 관리위원회를 열어 A군을 입학시키기로 했다. &lt;br&gt;&lt;br&gt;임 교육감은 디지스트가 A군을 최종 합격 처리하기로 한 결정이 내려진 이후 자신의 페이스북을 통해 “오늘 A군과 통화를 했다”며 “그동안 마음 졸이며 고생 많았을 텐데, 원만히 해결된 것을 축하한다”고 했다. 아울러 “경기도 학생은 약 166만 명, ‘한 학생쯤이야…’하면서 모른척 넘기는 일이 있어선 안 된다”며 “백사장의 모래알 하나처럼 여겨질 수 있는 일이, 한 학생에게는 인생이 걸린 문제일 수 있기 때문”이라고도 했다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>尹측 “‘선거연수원서 중국인 체포’ 보도 있다” 선관위 “가짜뉴스”</title>
+      <link>https://www.chosun.com/national/court_law/2025/01/17/7TADLDPN2VA2BPVR5LMPFQTJTM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/01/17/7TADLDPN2VA2BPVR5LMPFQTJTM/</guid>
+      <dc:creator>방극렬 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 17 Jan 2025 11:17:22 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UPTC4JQTSFC4DKNY4JMJVTUKGU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 16일 서울 종로구 헌법재판소 대심판정에서 열린 윤석열 대통령 탄핵 심판 두 번째 변론 기일에 윤 대통령의 대리인단이 출석해 있다. /김지호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 대통령 측은 16일 헌법재판소 탄핵 심판에서 이른바 ‘부정선거 의혹’을 제기하며 “계엄 당일 중국인들이 선거연수원에서 체포됐다”는 인터넷 기사를 인용했다. 12·3 비상계엄 선포의 정당성을 뒷받침하기 위해 부정선거 의혹을 다룬 뉴스를 거론한 것이다. 그러나 중앙선거관리위원회는 “보도는 전혀 사실이 아니다”며 정정보도 청구 등 조치에 나서겠다는 입장이다.&lt;br&gt;&lt;br&gt;이 이야기는 윤 대통령 대리인단의 배진한 변호사가 16일 열린 2차 변론 기일에서 꺼냈다. 배 변호사는 윤 대통령이 계엄을 선포한 첫 번째 이유를 부정선거 의혹으로 꼽으면서 “부정선거에 대한 제보를 워낙 많이 받았다”고 했다. 이어 “윤 대통령은 이 부분(부정선거)에 대해서 굉장히 의심을 품었다”며 “의혹을 밝히는 것은 대통령의 당연한 책무”라고 주장했다.&lt;br&gt;&lt;br&gt;배 변호사는 또 “탄핵 심판의 증거 조사에서 부정선거 의혹에 대해 많은 내용이 나올 것”이라며 “주류 언론 매체는 아니지만, 오늘 아침에도 수원 (선관위) 선거연수원에 있던 중국인 90여 명이 미군부대 시설에 가서 조사를 받았다고 부정선거에 대해 자백했다는 내용이 신문에 나왔다”고 말했다.&lt;br&gt;&lt;br&gt;배 변호사가 언급한 것은 한 일간지가 16일 보도한 ‘선거연수원 체포 중국인 99명 주일미군기지 압송됐다’는 제목의 기사다. 지난달 3일 계엄 선포 당시 계엄군과 미군이 선거연수원을 급습해 중국인 99명의 신병을 확보했고 미군이 데려가 조사했다는 내용으로, 중국이 한국 선거에 개입하고 있다는 취지다. 이 매체는 지난달 말에도 “윤 대통령이 선거연수원의 중국인 90명 해커 부대가 누군지 밝힐 것”이라는 칼럼을 실었다. 극우 유튜버들이 이 보도를 확대· 재생산하며 관련 영상들은 유튜브에서 조회수 수십 만회를 기록하고 있다.&lt;br&gt;&lt;br&gt;그러나 선관위는 전날 ‘중국인 체포’ 보도 직후 입장문을 통해 “보도는 전혀 사실이 아니다”고 밝혔다. 선관위는 “계엄 당시 선관위 공무원을 대상으로 교육 중이었고 공무원 88명과 외부 강사 8명 등 96명이 연수원에 머무르고 있었다”며 “계엄군은 선거연수원 청사 내로 진입도 하지 않았다”고 했다. 계엄군 급습, 중국인 체포 등이 모두 가짜 뉴스라는 것이다.&lt;br&gt;&lt;br&gt;선관위 관계자는 “근거 없는 허위 사실에 기반한 보도에 대해 정정보도 청구 등 법적 대응을 검토 중”이라며 조치에 나설 예정이라고 말했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZBX3KI3DSJHYFOGJEQ3JYXAKO4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령 탄핵 심판 두 번째 변론 기일이 진행된 16일 오후 서울 종로구 헌법재판소 대심판정. 왼쪽부터 정계선, 김복형, 정정미, 이미선, 문형배, 김형두, 정형식, 조한창 헌법재판관. /김지호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;앞서 윤 대통령 측은 부정선거 의혹을 밝히겠다며 헌재에 지난 2020년 21대 총선 기간 선거연수원에 체류한 중국인 투표사무원 명단 등을 확인해달라고 신청했다. 부정선거 정황을 근거로 계엄 선포의 정당성을 입증하겠다는 전략이다. 헌재는 윤 대통령 측이 신청한 자료를 선관위에서 받아보기로 했다. 한 부장판사 출신 법조인은 “윤 대통령 측의 핵심 주장인 부정선거 의혹을 일정 부분 검증해 탄핵 여부를 판단하겠다는 취지”라고 해석했다.&lt;br&gt;&lt;br&gt;그러나 윤 대통령 대리인단의 이 같은 전략이 헌재에 통할 가능성은 낮다는 것이 법조계의 지배적인 평가다. 21대 총선과 관련해 법원에 제기된 선거·당선 무효 관련 소송 126건은 모두 기각·각하·소 취하 등으로 종결됐다. 국민의힘이 추천한 조한창 헌법재판관은 지난달 국회 인사청문회 과정에서 부정선거 의혹 관련 질문에 “여러 사건을 통해 근거가 없는 것으로 드러났다”고 답하기도 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>후배에게 “이 XX는 사람도 아니다”… 대법 “모욕죄 아냐”</title>
+      <link>https://www.chosun.com/national/court_law/2025/01/17/CD6ZOQKCUNEUJA75IHDXZZ7MSM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/01/17/CD6ZOQKCUNEUJA75IHDXZZ7MSM/</guid>
+      <dc:creator>박강현 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 17 Jan 2025 11:48:54 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/N5BGHLJ7INCJFHGRI7COETXTW4.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초동 대법원. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;여러 사람이 함께 있는 자리에서 후배에게 “이 XX는 사람 XX도 아니다”라고 말한 것은 모욕죄에 해당하지 않는다는 대법원 판단이 나왔다. 상대방의 외부적 명예를 해칠 만한 경우가 아니라면 거친 언사를 했다는 것만으로 모두 처벌할 수는 없다는 취지다.&lt;br&gt;&lt;br&gt;대법원 1부(주심 노태악 대법관)는 최근 모욕죄로 기소된 대위 이모씨에게 벌금 100만원을 선고한 원심을 깨고 사건을 서울고법으로 돌려보냈다고 17일 밝혔다.&lt;br&gt;&lt;br&gt;이씨는 지난 2021년 9월 말에서 10월 중순 사이 남수단에 있는 남수단재건지원단 생활관에서 군 후배인 피해자를 향해 “이 XX는 사람 XX도 아니다. 나는 사람 한번 아니면 아니다. 나 한국 돌아가면 저 XX 가만 안 둔다”는 발언을 해 모욕 혐의로 재판에 넘겨졌다. 재판에선 이씨의 발언 내용이 ‘모욕’에 해당하는지가 쟁점이 됐다.&lt;br&gt;&lt;br&gt;1심과 2심은 모욕에 해당한다고 보고 이씨에게 벌금 100만원을 선고했다. 2심은 “해당 발언은 피해자를 비하하고 경멸하는 욕설 섞인 표현으로 피해자의 선배 및 후배 장교들에게 피해자의 인격적 가치에 대한 평가를 저하시킬 위험이 있어 모욕에 해당한다”고 했다.&lt;br&gt;&lt;br&gt;그러나 대법원은 사건을 다시 심리해야 한다며 파기 환송했다. 대법원은 “어떤 표현을 듣고 기분이 나쁜지 등을 기준으로 판단할 게 아니라 객관적인 사정에 비춰 상대방의 외부적 명예를 침해할 만한 기준인지를 엄격하게 판단해야 한다”며 “해당 발언은 사회적 평가를 저하시키거나 인격을 허물어뜨릴 정도로 모멸감을 주는 혐오스러운 표현이라기보다는 피해자의 입장에서 불쾌함을 느낄 정도의 부정적·비판적 의견이나 불편한 감정을 나타낸 정도의 표현으로 보인다. 객관적으로 피해자의 인격적 가치에 대한 사회적 평가를 저하할 만한 모욕적 언사에 해당하지 않는다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘담배 소송’ 11년째... 흡연 질환에 쓴 진료비는 그새 2배로</title>
+      <link>https://www.chosun.com/national/welfare-medical/2025/01/17/OUXJSFOHPFGYJD2ROJIC4VMYLQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/01/17/OUXJSFOHPFGYJD2ROJIC4VMYLQ/</guid>
+      <dc:creator>오유진 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 17 Jan 2025 11:39:06 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5LAE3WSYIMAQRFEMNCSPGWX6MU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국민건강보험공단과 주요 담배 회사들 간의 소송전이 11년째 이어지는 가운데, 그동안 흡연 관련 건강보험 진료비는 2배 이상으로 불어난 것으로 나타났다.&lt;br&gt;&lt;br&gt;17일 건보공단에 따르면, 흡연 관련 질환으로 건강보험에서 지출된 총진료비는 2014년 약 1조7000억원에서 2023년 약 3조8000억원으로 늘었다. 또 최근 6년간(2018~2023년) 흡연으로 지출된 총진료비를 모두 합하면 20조원을 넘는 것으로 나타났다. 건보공단은 세계보건기구(WHO) 발표와 선행 연구를 통해 폐암·후두암 등 흡연과 관련성이 있다고 보고된 56개 질병군을 선별하고, 그중에서도 인과관계가 큰 45개 질환을 뽑아 진료비를 산정했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5YLJAZH255FFVOXXD74Y7PRXGA.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=이진영&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;건보공단은 이 같은 사실을 지난 15일 담배 회사들을 상대로 낸 손해배상 소송 항소심 법정에서 공개했다. 이 재판은 건보공단이 2014년 4월 KT&amp;amp;G·한국필립모리스·BAT코리아 등을 상대로 “흡연으로 인한 질병 치료에 들어간 진료비를 배상하라”며 533억원의 손해배상을 청구해 시작됐다. 2020년 나온 1심은 흡연과 질병의 인과관계가 인정되지 않는다는 이유로 건보공단이 패소했다. 건보공단은 항소해 현재 항소심이 진행 중이다.&lt;br&gt;&lt;br&gt;건보공단은 이날 재판에서 ‘흡연과 암 사이의 인과관계’를 입증하는 새로운 연구 논문을 법원에 제출했다고 밝혔다. 건보공단과 연세대 보건대학원이 2004년부터 2013년까지 전국 18개 건강검진센터에서 검진받은 14만1679명을 약 13년간 추적 조사한 것으로 3가지 암(폐암 중 소세포암과 편평세포암, 후두암 중 편평세포암)과 하루 한 갑씩 20년 이상 담배를 피운 흡연자 간의 관련성을 분석했다.&lt;br&gt;&lt;br&gt;연구에 따르면 하루 한 갑씩 20년 이상 담배를 피우고 있는 흡연자는 폐암 중 소세포암 발생 위험이 비흡연자에 비해 최대 41.2배 높았다. 폐암 중 편평세포암은 최대 28.4배, 후두암 중 편평세포암은 최대 6.8배 높게 나타났다. 이를 이용해 계산하면, 흡연을 한 소세포 폐암 환자의 암 발병 원인이 담배 때문일 확률이 97.5%, 편평세포 폐암은 96.4%, 후두암은 85.3%로 나타났다. 법원은 이를 증거로 채택했다.&lt;br&gt;&lt;br&gt;반면, 담배 회사들은 흡연자가 아닌 건보공단이 손해를 봤다고 소송을 거는 것은 법리적으로 납득할 수 없다고 주장한다. 또 질병 발생 원인이 흡연으로 인한 것인지 인과관계를 명확히 밝혀야 한다는 입장이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>음주운전 신고당하자 조수석으로 내린 여성…CCTV에 딱 걸렸다</title>
+      <link>https://www.chosun.com/national/national_general/2025/01/17/EKDFIUKAERCVLHKBRTOHQVRRPA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/17/EKDFIUKAERCVLHKBRTOHQVRRPA/</guid>
+      <dc:creator>박선민 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 17 Jan 2025 11:53:16 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/I3UJPZNYM5DF5DHWJSQ3AOWHNE.gif"&gt;&lt;figcaption&gt;&lt;small&gt;음주운전을 한 운전자가 운전석에서 내려 조수석으로 자리를 옮기고 있다. /경찰청 유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;음주운전을 들키지 않기 위해 조수석에서 내린 뒤 경찰에 운전하지 않았다고 거짓 진술을 하던 여성 운전자가 인근에 설치된 방범카메라(CCTV)에 덜미가 잡혔다. &lt;br&gt;&lt;br&gt;경찰청은 17일 공식 유튜브에 올린 ‘조수석에서 내리면 모를 줄 아셨죠? 다 지켜봤습니다’라는 제목의 영상에서 이 같은 사건을 상세히 전했다. &lt;br&gt;&lt;br&gt;이에 따르면, 지난달 29일 오전 2시쯤 서울의 한 골목길에서 음주운전 의심 신고가 들어왔다. 차량 한대가 골목을 누비며 주차된 다른 차량과 오토바이 등을 치고도 그냥 지나가자, 이를 목격한 한 시민이 경찰에 신고한 것이다. 당시 영상을 보면, 음주운전 차량은 사고 충격으로 너덜거리던 범퍼까지 떨어뜨린 채 현장 이탈을 시도했다. &lt;br&gt;&lt;br&gt;음주 상태였던 여성 운전자 A씨는 음주운전 혐의를 피하고자 조수석에서 내려 경찰에 운전을 하지 않았다고 진술했다. 다만 경찰이 관제센터를 통해 방범카메라 영상을 확인한 결과, A씨가 운전석에서 내려 조수석으로 자리를 옮겨 타는 모습이 고스란히 담겼다. 발뺌하던 A씨는 경찰이 방범카메라 영상을 보여주며 추궁한 끝에 음주운전 사실을 시인했다. &lt;br&gt;&lt;br&gt;음주 측정 결과, A씨 혈중알코올농도는 면허 취소 수준인 것으로 파악됐다. 결국 A씨는 도로교통법 위반으로 검거됐다. &lt;br&gt;&lt;br&gt;한편 경찰은 각 시도 자치경찰위원회와 협조해 연말연시 음주운전을 집중 단속 중이다. 경찰청 주관으로 매주 목요일, 각 시도경찰청 주관으로 주 2회 이상 시도별 일제 단속을 하고 지역별로 상시·수시 단속을 병행한다. 단속 효과를 높이기 위해 불시에 장소를 계속 옮기면서 실시하는 이동식 단속도 벌인다. &lt;br&gt;&lt;br&gt;특히 올해는 ‘마약운전’ 단속도 처음으로 함께 실시한다. 음주 의심이 드는데도 불구하고 음주 감지가 되지 않거나, 클럽과 유흥주점 근처에서 단속되는 경우 등에는 마약 투약 가능성을 확인하는 것이다. 과속·난폭 운전이나 지그재그 운전 등 비정상적인 운전 행태, 눈동자의 충혈 정도, 차에서 내리는 동작 등을 자세히 관찰해 마약운전 의심이 들 때는 운전자 동의를 받아 타액을 이용한 마약 간이검사를 적극적으로 할 예정이다. 운전자 동의가 없더라도 마약운전 정황이 확실하면 영장을 발부받아 정밀검사를 할 방침이다.&lt;br&gt;&lt;br&gt;경찰청 통계에 따르면, 작년 음주운전 단속 적발 건수는 면허정지 수치 3만9255건, 면허취소 수치 9만895건 등 총 13만150건으로 2년 전보다 12% 증가했다. 음주 교통사고는 1만3042건 발생했으며, 이 가운데 159명이 숨지고 2만628명이 다쳤다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[단독] “치료 성과 좋은 병원, 규모 작아도 수가 높게”</title>
+      <link>https://www.chosun.com/national/welfare-medical/2025/01/13/LMIZIUIPFNFONDJR2FIJOUFKNI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/01/13/LMIZIUIPFNFONDJR2FIJOUFKNI/</guid>
+      <dc:creator>오유진 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 12 Jan 2025 20:06:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5VLT7CKYJZNHTOE4FOFG4XAZP4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 30일 오후 서울 여의도 국민건강보험공단 서울강원지역본부에서 열린 대통령 직속 의료개혁특별위원회 '지역 병원 육성 및 일차 의료 활성화 방안 토론회'에서 박민수 보건복지부 2차관이 인사말을 하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;같은 뇌졸중 수술을 해도 대형 병원 수술 수가(건보공단이 병원에 주는 돈)를 더 많이 쳐주는 ‘종별(규모별) 가산제’가 폐지될 것으로 12일 알려졌다. 정부는 그 대신 중증·응급 환자의 예후가 좋을수록 수가를 더 주는 ‘성과 가산제’의 도입을 추진 중이다. 정부는 이런 내용을 담은 ‘2차 병원 및 의원급 구조 전환’ 방안을 이달 중 발표할 예정이다.&lt;br&gt;&lt;br&gt;종별 가산은 수술·진료 수가를 책정할 때 병원은 5%, 종합병원은 10%, 상급종합병원은 15% 더 올려주는 방식이다. 1977년 도입돼 올해로 48년간 시행됐다. 규모가 클수록 중증 환자를 더 많이 보기 때문에 이렇게 해왔다. 하지만 우리나라 대형 병원 환자의 절반가량은 경증이다. 경증 진료로 작지 않은 가산 수가를 받고 있는 셈이다.&lt;br&gt;&lt;br&gt;정부 관계자는 “반면 고난도 심장 질환 수술만 하는 전문 병원은 규모가 작다는 이유만으로 가산 비율이 상급종합병원의 3분의 1 수준이었다”며 “일부 암이나 심혈관 질환 등의 치료 성과가 좋은 병원은 규모에 상관없이 높은 가산 수가를 받게 하자는 취지”라고 했다.&lt;br&gt;&lt;br&gt;정부는 화상·분만 등 전문 병원에 대한 보상을 강화하기 위해 전문 병원의 전문성을 고려한 별도 평가 기준을 마련하기로 했다. 현재는 뇌 수술 전문 병원들도 정부 지원금 기준을 맞추기 위해 불필요한 분만실을 만들기도 한다.&lt;br&gt;&lt;br&gt;이와 함께 정부는 대형 병원 수준의 인프라를 구축하고 있는 종합병원을 ‘지역 포괄 2차 병원’(가칭)으로 두고, 이 병원의 중증 응급 수술과 중환자실 수가를 인상할 방침이다. 보건복지부 관계자는 “24시간 진료 지원을 하거나 당직을 서는 의료 인력에게 보상이 돌아가도록 대기 비용 등을 고려한 별도의 정책 수가를 적용할 예정”이라고 했다.&lt;br&gt;&lt;br&gt;이 밖에 ‘의원급 구조 전환’ 방안에는 전문 과목, 전문의·일반의 여부 등을 표시하도록 하는 내용이 담겼다. 정부는 전문의 여부와 경력 등 의료 인력 정보를 공개하는 포털도 만들 계획이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[단독] 군의관 충원 위해 보냈는데… 응급의학·외과 선택은 20%뿐</title>
+      <link>https://www.chosun.com/national/welfare-medical/2025/01/13/7Z46JGI7ABDL3ARFHNOZSMERGE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/01/13/7Z46JGI7ABDL3ARFHNOZSMERGE/</guid>
+      <dc:creator>오유진 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 12 Jan 2025 20:04:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5BVKQGV52VPFFPBNPSAH4FCDF4.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;작년 9월 서울의 한 대학 병원에서 의료진이 지나가고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난해 군 병원 필수 진료과를 선택한 의과대학 군 위탁 교육생이 전체의 20%에 불과한 것으로 12일 확인됐다. 중증 외상·응급 후송 환자를 치료하는 장기 군의관을 양성하고자 도입된 ‘의대 군 위탁 교육’ 제도의 취지가 퇴색되고 있다는 지적이 나온다.&lt;br&gt;&lt;br&gt;의대 군 위탁 교육은 만성적인 군의관 부족 문제를 해결하기 위해 도입됐다. 현역 장교인 육해공군 사관생도 가운데 성적 우수자를 군 위탁 교육생으로 임명해 의대에 편입학하도록 한 후, 9년간의 위탁 교육을 통해 전문의 자격을 취득하도록 한다. 이후 10년간 군의관으로 의무 복무해야 한다. 이들은 군 내부 전형과 의대 면접 등 간소화된 절차로 의대에 편입하고, 위탁 교육 기간 급여와 입학금, 등록금 일체를 국가에서 지원받는다.&lt;br&gt;&lt;br&gt;군 병원의 필수 과목은 ‘외과’와 ‘응급의학과’다. 총상이나 화상 등을 입은 군 장병, 중증 외상·응급 후송 환자를 치료하기 위해서다. 하지만 정작 군 위탁생들이 선택하는 진료과 대부분은 ‘군 밖에서의 인기과’로 편중돼 있다.&lt;br&gt;&lt;br&gt;본지가 국방부에서 받은 자료에 따르면, 지난해 전공의 수련 중인 군 위탁생 가운데 외과·응급의학과는 7명으로, 전체(35명)의 20%에 불과했다. 군 병원 필수 과목을 선택하는 군 위탁생이 5명 중 1명인 셈이다. 반면 정신건강의학과·정형외과는 각각 5명, 마취과 3명, 안과·영상의학과·이비인후과 2명 등으로 집계됐다. 기간을 확대해도 결과는 비슷했다. 지난 2010년부터 2023년까지 10여 년간 응급의학과를 선택한 군 위탁생은 총 8명, 외과는 14명에 그쳤다. 전체 졸업생(126명)의 약 17% 수준이다. 이 기간 정형외과(17명), 내과(16명), 정신건강의학과(15명)를 선택한 군 위탁생이 더 많았다.&lt;br&gt;&lt;br&gt;필수 의료 기피뿐 아니라, 전공의 수료 후 의무 복무 기간 10년을 채우지 않고 곧바로 전역해 민간 병원에 취직하는 이른바 ‘먹튀’ 군인도 문제점으로 제기된다. 이들의 전역 사유 대부분은 ‘심신 장애’다. 실제로 한 군의관은 전공의 수련을 마친 뒤 ‘우울증’이 있다며 조기 전역해 정신건강의학과 전문의로 일하고 있다. 이처럼 의무 복무 기간을 채우지 않고 전역하는 사례도 지난 2011년부터 2023년까지 12건 발생했다.&lt;br&gt;&lt;br&gt;이를 두고 “장기 군의관 양성이라는 제도의 본래 목적이 희석됐다”는 지적이 나온다. 간소화된 절차로 의대에 진학해 인기과 전문의 자격증을 따기 위한 ‘편법 루트’로 전락했다는 것이다. 의료계 관계자는 “급여, 등록금 지원 등에 많은 혜택을 받고 있는 군 위탁생이 당초 도입 취지에 맞게 운영될 수 있도록 더 엄격하게 관리·감독해야 한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/5BVKQGV52VPFFPBNPSAH4FCDF4.JPG?width=3633&amp;height=2266&amp;auth=db8a66348abcb2441877fe89c6168cb1410f43aa9d96e401d999fced2174a662&amp;smart=true" type="image/jpeg" height="2266" width="3633">
+        <media:description type="plain">(서울=뉴스1) 임세영 기자 = 의사 부족에 따른 응급실 의료대란에 정부가 군의관을 추가 투입하기로 한 9일 서울 시내의 한 대학병원에서 의료진이 지나가고 있다. 
+
+추석 연휴를 앞두고 응급실을 둘러싼 불안감이 커지고 있는 가운데 정부는 오늘 추가로 군의관 235명을 응급의료를 중심으로 인력이 필요한 의료기관에 배치한다. 2024.9.9/뉴스1</media:description>
+        <media:credit role="author" scheme="urn:ebu">(서울=뉴스1) 임세영 기자</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>빅5마다 레지던트 지원 10명 안팎...모집기간 이틀 연장</title>
+      <link>https://www.chosun.com/national/welfare-medical/2025/01/17/IFTSS2A4QVEGLPIU3BAKM5LUAI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/01/17/IFTSS2A4QVEGLPIU3BAKM5LUAI/</guid>
+      <dc:creator>오경묵 기자, 강다은 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 17 Jan 2025 11:38:06 +0000</pubDate>
+      <content:encoded>오는 3월부터 전국 병원에서 수련을 시작하는 상반기 레지던트 모집 결과, 전공의들의 지원이 저조한 것으로 나타났다. 서울 주요 병원의 경우 전공의 공백에 따라 많게는 500~600명씩을 선발해야 하는데, 병원에 따라 지원자는 10명 안팎에 불과한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;17일 보건복지부와 의료계에 따르면, 전국 221개 수련 병원이 지난 15일부터 이날까지 레지던트를 모집한 결과 실제 지원은 미미했다. 정부가 전공의 복귀를 기대했던 주요 대형 병원도 지원율이 낮았다. 세브란스병원은 570여 명 모집에 11명이 지원했다. 1년 차 신규가 1명, 사직 전공의가 10명이다. 서울아산병원은 지원자 수가 한 자릿수에 그쳤다. 각각 레지던트 수백 명씩을 모집하는 서울대병원과 삼성서울병원, 서울성모병원 등도 비슷한 상황인 것으로 알려졌다. 일부 지방 병원에서는 지원자가 아예 없는 경우도 있었다. 의료계에서는 “1년 가까이 이어져 온 전공의 공백 사태가 장기화될 우려가 있다”는 말이 나온다. 정부가 파악 중인 사직 레지던트는 총 9220명인데, 이들 가운데 절반 이상은 다른 병의원에 재취업한 상태다.&lt;br&gt;&lt;br&gt;정부는 이번 레지던트 모집을 앞두고 복귀를 유도하기 위해 수련·입영 특례를 내세웠다. 사직 전공의가 1년 이내 동일 과목·동일 연차로 복귀할 수 없는 제한 규정을 적용하지 않기로 했고, 복귀를 원하는 전공의의 경우 수련을 모두 마치고 병역 의무를 이행할 수 있도록 입영도 연기해 주기로 했다.&lt;br&gt;&lt;br&gt;하지만 이 같은 당근책에도 사직 전공의들이 움직이지 않은 것이다. ‘의대 정원 문제가 그대로인 상황에서 복귀할 이유가 없다’는 기존 입장을 고수한 셈이다. 정부는 애초 이날 마감할 예정이었던 각 병원의 레지던트 모집 결과 제출 기한을 19일로 변경했다. 복지부 관계자는 “면접 등 후속 절차를 연기하지 않는 범위에서 제출 기한을 주말까지 연장해 달라는 수련 병원장들의 요청에 따라 19일까지 제출할 수 있도록 조치한 것”이라고 했다. 최근 대한의사협회 새 지도부 출범에 맞춰 정부는 2026학년도 의대 정원 원점 재검토 의사를 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>尹, 영장심사 불출석...중앙지법 아닌 서부지법 심사엔 불응 입장</title>
+      <link>https://www.chosun.com/national/court_law/2025/01/17/Q7GMZB37CBFFPCC2RDYQEY7Z4M/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/01/17/Q7GMZB37CBFFPCC2RDYQEY7Z4M/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 17 Jan 2025 11:02:20 +0000</pubDate>
+      <content:encoded>‘12·3 비상계엄’ 사태와 관련해 내란 우두머리(수괴) 및 직권남용권리행사방해 혐의로 구속영장이 청구된 윤석열 대통령이 오는 18일 오후 2시 서울서부지법에서 열리는 구속영장 실질심사에 출석하지 않는 것으로 전해졌다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JBKVMIMQQNDQTCT7JGYGTBDPPA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;17일 본지 취재를 종합하면, 윤 대통령은 서울서부지법 차은경 부장판사 심리로 열리는 실질심사에 불출석한다. 윤 대통령 측은 그간 공수처의 재판관할이 인정되는 서울중앙지법에 구속영장을 청구하면 영장실질심사에 응하겠다는 입장을 유지해왔다. 그러나 공수처는 체포영장을 청구, 발부 받은 서울서부지법에 윤 대통령에 대한 구속영장을 청구했고, 윤 대통령은 이에 응할 수 없다는 입장인 것으로 전해졌다.&lt;br&gt;&lt;br&gt;실질심사에는 윤 대통령 없이 변호인단만 참석할 예정이다. 변호인단의 참석 규모는 정해지지 않은 것으로 알려졌다. 공수처가 이날 오후 5시 40분쯤 구속영장을 청구한 만큼, 변호인단은 아직 구속영장 청구서를 받아보지 못했다고 한다.&lt;br&gt;&lt;br&gt;공수처는 이날 150여 쪽 분량의 구속영장 청구서를 법원에 냈다. 부장검사 1명을 포함, 검사 6~7명가량이 법정에 나가 윤 대통령의 구속 필요성을 설명할 계획이다. 공수처는 윤 대통령을 지난 15일 체포해 한 차례 조사했지만, 검찰과 경찰로부터 관련자 수사기록 등을 제공받아 윤 대통령의 혐의를 입증하는 데엔 무리가 없다고 보고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>[속보] 尹 대통령 영장실질심사, 18일 오후 2시... 차은경 부장판사 심리</title>
       <link>https://www.chosun.com/national/court_law/2025/01/17/Q3CHXKBNXBGBHPMQYK4FXQ2HFA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/01/17/Q3CHXKBNXBGBHPMQYK4FXQ2HFA/</guid>
@@ -785,46 +881,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KL6QPMRI5423IQ3D4LFOFDDD24.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;내란 우두머리 혐의로 체포된 윤석열 대통령이 15일 오후 경기 과천 고위공직자범죄수사처(공수처)에서 조사를 마치고 차량으로 서울구치소로 이동하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 대통령이 고위공직자범죄수사처(공수처)의 체포 영장 발부·집행이 부당하다며 낸 체포 적부(適否)심 청구가 기각됐다. 이에 따라 윤 대통령은 서울구치소에 계속 구금돼 있을 예정이며 체포적부심 청구와 함께 중단됐던 체포영장 시한 48시간도 재개된다.&lt;br&gt;&lt;br&gt;윤 대통령의 체포적부심 심사를 담당한 서울중앙지법 형사32단독 소준섭(36·사법연수원 44기) 판사는 16일 오후 11시쯤 “이 사건 청구는 이유 없다고 인정되므로 형사소송법 제214조의2 제4항에 의하여 이를 기각한다”며 석방을 불허했다. 이 조항은 법원이 체포적부 심사 청구서가 접수된 때부터 48시간 이내에 체포된 피의자를 심문하고 수사 관계 서류와 증거물을 조사해 청구가 이유 없다고 인정한 경우에는 결정으로 기각하도록 규정한다.&lt;br&gt;&lt;br&gt;앞서 소 판사는 이날 오후 5시부터 7시까지 약 2시간 동안 체포적부심 심사를 열고 양측의 주장을 검토했다. 체포적부심은 영장에 의해 체포·구속된 피의자에 대해 법원이 적법한지 심사해 석방 여부를 판단하는 제도다.&lt;br&gt;&lt;br&gt;윤 대통령 측에선 배진한·석동현·김계리 변호사가, 공수처에선 주임검사인 차정현 부장검사를 포함해 검사 3명이 각각 참석했다. 윤 대통령은 경호 문제 등으로 직접 나오지 않았다.&lt;br&gt;&lt;br&gt;윤 대통령은 지난 15일 공수처에 내란을 주도한 혐의로 체포돼 10여시간 조사를 받았다. 윤 대통령 측은 조사 종료 직후 공수처의 체포영장 집행이 부당하다며 체포적부심을 청구했다.&lt;br&gt;&lt;br&gt;공수처가 당초 서울중앙지법이 아닌 서울서부지법에 체포영장을 청구해 발부받은 것은 전속관할권 위반이고, 공수처에 내란죄 수사권도 없는 만큼 체포영장 자체가 불법·무효라는 취지다. 반면 공수처는 공수처법에 근거해 직권남용 혐의와 관련된 내란 혐의를 당연히 수사할 수 있고, 윤 대통령의 주거지 관할 법원인 서부지법에 영장을 청구한 것도 문제가 없다고 반박했다.&lt;br&gt;&lt;br&gt;이날 법원은 “공수처가 서울서부지법에서 발부받아 집행한 체포영장은 무효”라는 윤 대통령 주장을 받아들이지 않았다. 체포적부심에 대한 결론은 심문 종료 후 24시간 안에 내야 하는데, 심문 종료 후 약 4시간 만에 결론이 났다. 이번 결정으로 윤 대통령의 내란 혐의에 대한 공수처 수사도 탄력을 받을 전망이다.&lt;br&gt;&lt;br&gt;공수처는 체포적부심 심사를 위해 법원에 제출했던 수사 자료를 17일 반환받은 뒤 이르면 17일 중으로 윤 대통령에 대한 구속영장 청구 여부를 결정할 방침이다. 공수처가 서류를 법원에 제출한 시간부터 체포적부심 결과가 나온 뒤 서류들을 반환받기까지 시간은 체포 시한인 48시간에서 제외되기 때문에 공수처에 남은 시간은 20시간 30분 정도다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>최민환 “하루 20시간 수면, 가출 20번” 폭로… 율희 “반박할 가치 없어” </title>
-      <link>https://www.chosun.com/national/national_general/2025/01/16/KWN65H6LPFCIBCH7FMAIURVKAI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/16/KWN65H6LPFCIBCH7FMAIURVKAI/</guid>
-      <dc:creator>박선민 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 16 Jan 2025 00:58:14 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KGNTHSAJWRAQ3BEZAHTOPB36HU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;FT아일랜드 멤버 최민환이 라붐 출신인 전 아내 율희에 대해 “율희의 잦은 가출과 수면 습관 탓에 이혼했다”고 주장하자, 율희가 “반박할 가치가 없다”는 입장을 밝혔다.&lt;br&gt;&lt;br&gt;율희 측은 14일 스타뉴스에 최민환의 폭로가 일방적 주장이라 반박할 가치가 없다고 판단했다고 밝혔다. 율희 측은 “율희는 양육권에만 집중하고 싶어 한다”며 “아이들을 생각해서라도 공식 입장문을 내기보단 법정에서 얘기하기로 정리했다”고 했다.&lt;br&gt;&lt;br&gt;앞서 최민환은 지난 13일 공개된 디스패치와의 인터뷰에서 이혼이 자신의 유흥업소 출입 때문이 아니라, 율희의 비정상적인 수면 습관과 잦은 가출 때문이라고 주장했다. 율희가 하루에 18~20시간씩 낮잠을 자고 밤에 나가 놀며 육아에 소홀했고, 길게는 10일 정도의 가출을 결혼 생활 중 20회 넘게 했다는 것이다.&lt;br&gt;&lt;br&gt;이에 율희 측은 “(20시간씩 잠을 잤다면) 4시간만 활동했다는 건데, 상식적으로 말이 안 되는 이야기”라고 했다. ‘가출’ 주장에 대해서도 “최민환과 불화로 아이를 데리고 친정에 간 것을 두고 ‘가출’이라는 표현을 쓴 것도 이해하기 어렵다”고 했다.&lt;br&gt;&lt;br&gt;율희 측은 최민환의 폭로 이후 반박문을 곧바로 준비했으나, 대중의 피로도를 높이는 여론전은 더는 하고 싶지 않다는 율희 의견에 별다른 입장을 내지 않은 것으로 알려졌다.&lt;br&gt;&lt;br&gt;한편 최민환과 율희는 지난 2018년 결혼해 슬하에 1남 2녀를 뒀지만, 2023년 12월 이혼을 발표했다. 세 아이의 양육권은 최민환이 가졌다.&lt;br&gt;&lt;br&gt;그러나 작년 10월 율희가 최민환이 결혼 기간 유흥업소에 출입했다며 관련 녹취를 공개하면서 두 사람의 이혼 배경 등이 관심을 끌었다. 당시 이 여파로 최민환은 자녀들과 출연 중이던 육아 프로그램에서 하차했고, 성매매 업소 출입 의혹과 아내 강제추행 혐의로 고발당하기도 했다. 다만 고발 건은 증거불충분으로 불송치됐다.&lt;br&gt;&lt;br&gt;율희는 최민환을 상대로 서울가정법원에 양육권자 변경 및 위자료·재산분할 청구에 대한 조정신청을 접수한 상태다. 재산분할은 협의 이혼이 완료된 상태라 해도 이혼신고일로부터 2년 이내, 위자료는 3년 이내 청구 가능하다. 율희는 작년 11월 TV조선 ‘이제 혼자다’에 출연해 변호사와 상담받는 모습을 공개하기도 했다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/KHXWALMNUA2MKB4ANMHHMA3B2E.jpg?width=600&amp;height=442&amp;auth=1a2f5f82e56365ded6022eff5b4b70ec349ea044b3ebed677386d89e588b4c04&amp;smart=true" type="image/jpeg" height="442" width="600">
-        <media:description type="plain">2023년 12월 이혼한 최민환과 율희. /연합뉴스 </media:description>
-        <media:credit role="author" scheme="urn:ebu">연합뉴스</media:credit>
-      </media:content>
-    </item>
-    <item>
-      <title>강원 모 지방의회 의장 40대 아들…상해 혐의로 입건</title>
-      <link>https://www.chosun.com/national/incident/2025/01/16/QUHMJ6GYFZAJDNH2EH7JNCFYCE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/01/16/QUHMJ6GYFZAJDNH2EH7JNCFYCE/</guid>
-      <dc:creator>이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 16 Jan 2025 14:01:13 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UWW7P7Q4AJZQ3FRXL7GWORX6HM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;강원 춘천경찰서./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;강원지역 한 지방의회 의장 아들로 알려진 40대 남성이 술을 마시고 식당 주인 등을 폭행해 경찰에 붙잡혔다. &lt;br&gt;&lt;br&gt;16일 경찰 등에 따르면 강원 춘천경찰서는 A(42)씨를 상해 혐의로 입건해 조사하고 있다. &lt;br&gt;&lt;br&gt;A씨는 지난해 12월 16일 오전 6시 13분쯤 강원 춘천시 효자동의 한 시장 식당에서 술을 마시고 식당 사장과 손님 등 3명을 폭행한 혐의를 받고 있다. &lt;br&gt;&lt;br&gt;A씨는 강원지역 한 지방의회 의장의 아들인 것으로 알려졌다. &lt;br&gt;&lt;br&gt;경찰은 A씨를 상대로 자세한 사건 경위를 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>전남 광양에서 승합차 전복… 11명 부상</title>
-      <link>https://www.chosun.com/national/incident/2025/01/16/DBFBJ2K6UNERHIUK5ORR4BB5AQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/01/16/DBFBJ2K6UNERHIUK5ORR4BB5AQ/</guid>
-      <dc:creator>이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 16 Jan 2025 13:53:21 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OJWDRVHDFMLMKDSBKESYZ3BZMI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;119 구급차. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전남 광양시의 한 도로에서 승합차가 전복돼 11명이 다쳤다. &lt;br&gt;&lt;br&gt;16일 광양소방서 등에 따르면 이날 오후 9시 10분쯤 전남 광양시 광양읍의 한 도로에서 승합차가 가로수를 들이받는 사고가 발생했다. &lt;br&gt;&lt;br&gt;이 사고로 차량이 뒤집어지면서, 운전자 등 탑승객 11명이 다쳐 119 구급대에 의해 병원으로 옮겨졌다. 다행히 생명에 지장은 없는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰은 운전자 진술 등을 토대로 정확한 사고 경위를 조사할 방침이다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>홍준표, 트럼프 취임식 간다... 美 공식 초청</title>
-      <link>https://www.chosun.com/national/regional/2025/01/16/XYHB4MW6WFBR3J2J7VG2R5SSOQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/01/16/XYHB4MW6WFBR3J2J7VG2R5SSOQ/</guid>
-      <dc:creator>대구=노인호 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 16 Jan 2025 06:59:24 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GJ6FGRO4TFLRBIG26CQUN2BFTU.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;오는 20일 미국 도널드 트럼프 미국 대통령 취임식에 참석하는 홍준표 대구시장./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;홍준표 대구시장이 오는 20일 미국 워싱턴DC에서 열리는 도널드 트럼프 제47대 미국 대통령 취임식에 참석한다. 이번 취임식 참석은 미국 60차 대통령 취임위원회 공식 초청으로 이뤄졌다고 대구시는 밝혔다.&lt;br&gt;&lt;br&gt;16일 대구시에 따르면, 홍 시장은 오는 19일 워싱턴으로 출국해 20일 트럼프 미국 대통령 취임식에 참석해 취임퍼레이드, 대통령 만찬, ‘Make America Great Again’ 승리 집회 등에 함께 할 예정이다. 이후 주미대사 오찬, 미주한인회 초청 간담회 등 정계 인사들을 만난 뒤 23일 귀국할 예정이다.&lt;br&gt;&lt;br&gt;홍 시장은 “정국 상황이 혼란하지만 우리는 국민들의 힘으로 수많은 위기를 슬기롭게 헤쳐 나갔고, 지금의 혼란도 조속히 정상화되고 질서가 회복될 것으로 본다”며 “5000만 국민들의 생명과 재산을 지키기 위해 트럼프 2기 주요 인사들에게 미국의 대 한국 정책에 대해 설명하고 돌아오겠다”고 말했다&lt;br&gt;&lt;br&gt;한편 홍 시장은 지난 7일 서울에서 2016년 미국 대선 당시 트럼프 대통령의 대선 캠프 선대본부장이었던 폴 매너포트와 비공개 회동을 가졌다. 이 자리에서 홍시장은 남북 핵 균형론을 강조하며 대한민국의 독자적인 핵무장 필요성에 대한 의견을 피력했다고 대구시는 밝혔다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>“尹은 헌법의 적” “정권 뺏으려 탄핵”... 헌재서 200분 공방</title>
       <link>https://www.chosun.com/national/court_law/2025/01/16/XDK43NTE6BA67IW3YFEV7FI5RA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/01/16/XDK43NTE6BA67IW3YFEV7FI5RA/</guid>
@@ -858,24 +914,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HWHEOVXLOYE54AARRYWUUXQDUU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령에 대한 체포영장이 집행된 15일 오후 고위공직자범죄수사처(공수처)가 있는 경기 과천시 정부과천청사 부근에서 남성 1명이 분신해 경찰과 소방이 현장조사를 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 대통령 체포 후 고위공직자범죄수사처(공수처)가 있는 경기 과천시 정부과천청사 부근에서 분신한 남성이, 같은 날 용산구 한남동 관저 인근에서도 분신을 시도했던 것으로 밝혀졌다.&lt;br&gt;&lt;br&gt;16일 경찰 등에 따르면 A(59)씨는 윤 대통령에 대한 체포영장 집행 직전인 지난 15일 오전 6시쯤 관저 인근 한남초 부근에서 옷에 라이터로 불을 붙이려다 경찰 기동대에 의해 저지됐다.&lt;br&gt;&lt;br&gt;인근 파출소에 인계된 A씨는 왜 불을 붙이려 했냐는 질문에 “더불어민주당 이재명 대표는 체포를 안 하는데 왜 현직 대통령을 체포하려고 하나. 화가 나서 그랬다”는 취지로 답한 것으로 파악됐다.&lt;br&gt;&lt;br&gt;A씨는 윤 대통령의 탄핵에 반대하는 집회에 참석하기 위해 대전에서 상경한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “이름과 생년월일, 주소 등 인적사항을 확인한 후 집회가 마치면 대전 집으로 운전해서 간다고 해 귀가조치했다”며 “그 과정에서 차량에 인화물질이 없는 것을 확인했다”고 말했다.&lt;br&gt;&lt;br&gt;A씨는 이후 오후 8시 5분쯤 공수처가 있는 정부과천청사 인근 녹지에서 가연성 물질을 이용해 분신했다.&lt;br&gt;&lt;br&gt;그는 전신에 3도 화상을 입고 인근 대학병원으로 이송돼 수술받았으나 아직 의식을 되찾지 못한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>수원 상가 건물에서 화재... 20여분만에 초진</title>
-      <link>https://www.chosun.com/national/incident/2025/01/16/TMJXXT5FHVBJNNODD5Z7PQIOQM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/01/16/TMJXXT5FHVBJNNODD5Z7PQIOQM/</guid>
-      <dc:creator>이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 16 Jan 2025 12:35:56 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/M6GLQ5AU5VGCTM2F2SNSAZO5UE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;16일 오후 8시 6분쯤 경기 수원시 팔달구 인계동의 한 상가 건물에서 불이나 소방 당국이 진화에 나섰다. /경기도소방재난본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;16일 오후 8시 6분쯤 경기 수원시 팔달구 인계동의 한 상가 건물에서 화재가 발생했다.&lt;br&gt;&lt;br&gt;“옥상에서 검은 연기가 보인다”는 신고를 받고 출동한 소방 당국은 펌프차 등 장비 28대와 소방관 등 70명을 투입해 진화에 나섰고, 오후 8시 28분쯤 불길을 잡았다.&lt;br&gt;&lt;br&gt;현재까지 인명피해는 없는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;불이 난 건물은 지하 1층, 지상 4층 규모로, 내부엔 식당과 당구장 등이 있는 것으로 파악됐다. 옥상엔 사무용 컨테이너 2개동도 설치돼 있었다.&lt;br&gt;&lt;br&gt;소방 당국은 불을 완전히 끈 뒤, 정확한 화재 경위 등을 조사할 방침이다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘라돈 침대’ 손해배상 소송 7년만에...소비자들 1심 일부 승소</title>
-      <link>https://www.chosun.com/national/court_law/2025/01/16/QRE7TDSVRVHO3H7WBJZOO4EBTI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/01/16/QRE7TDSVRVHO3H7WBJZOO4EBTI/</guid>
-      <dc:creator>박강현 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 16 Jan 2025 10:52:50 +0000</pubDate>
-      <content:encoded>암을 유발하는 방사성 물질 라돈이 검출된 침대를 구입한 소비자들에게 이 침대를 판 회사가 손해를 배상할 의무가 있다고 법원이 판단했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZYW56QFHN5ASRDOAYV7U5TDR6Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울중앙지법. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;16일 서울중앙지법 민사30부(재판장 정찬우)는 김모씨 등 72명이 대진침대와 정부 등을 상대로 낸 손해배상 청구 소송에서 대진침대가 한 명을 제외하고 개인 당 약 130만원 ~ 270만원 등 총 1억2993만원을 지급하라며 원고 일부 승소로 판결했다. 인정된 위자료는 1인당 100만원이다. 이들이 2018년 9월 소송을 낸 지 약 7년 만에 나온 1심 판결로 관련 손배소 첫 판결은 아니다.&lt;br&gt;&lt;br&gt;재판부는 “대진침대는 사람이 일상적으로 사용하는 침대 매트리스를 제조하면서 보건위생상의 위해와 생활환경의 피해를 방지해야 할 의무가 있었음에도 인체에 유해한 방사능 물질인 라돈 등을 사용해 안전성을 결여한 매트리스를 제조·판매한 것은 위법하다”며 “원고 등은 수년간 자신의 의사에 반해 인체에 유해한 방사능에 피폭되는 피해를 입었다”고 지적했다.&lt;br&gt;&lt;br&gt;다만 “정부 산하 원자력안전위원회가 고의 또는 과실로 법령에 위반해 직무를 집행해 원고 등에게 손해를 가했다고 인정하긴 부족하다”고 덧붙였다.&lt;br&gt;&lt;br&gt;앞서 ‘라돈 방출 침대’ 논란은 2018년 5월 “대진침대에서 1급 발암물질 라돈이 대량 검출됐다”는 언론 보도가 발단이 됐다. 라돈은 WHO(세계보건기구)가 1급 발암물질로 규정한 무색무취의 기체 형태 방사성 물질로 폐암 발병의 주요 원인으로 여겨진다.&lt;br&gt;&lt;br&gt;이후 원자력안전위원회가 대진침대 제품의 방사선 피폭량이 기준치를 최대 9배까지 초과했다고 발표하면서 논란은 더 커졌다. 결국 정부는 라돈이 검출된 대진침대 전량을 수거하겠다고 발표했다.&lt;br&gt;&lt;br&gt;앞서 다른 소비자들도 유사한 취지의 소송을 여러 건 제기했으나 잇따라 패소했다. 하지만 서울고법은 지난달 6일 소비자 600여명이 제기한 손배소 항소심에서 원심을 깨고 대진침대의 배상 책임을 인정했다. 당시에도 1인당 위자료가 100만원 수준이었다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>김용현 첫 재판서 ‘계엄은 대통령 권한’ ‘사법 심사 대상’ 공방</title>
       <link>https://www.chosun.com/national/court_law/2025/01/16/AO4IPCWQI5B5HKHTQPNBJJA5XU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/01/16/AO4IPCWQI5B5HKHTQPNBJJA5XU/</guid>
@@ -892,24 +930,6 @@
       <description/>
       <pubDate>Thu, 16 Jan 2025 11:13:00 +0000</pubDate>
       <content:encoded>&lt;br/&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SJ7CAL3X6BHCDCIQ3XIP6M3QTI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;왼쪽부터 조대현, 정상명 변호사&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 대통령 탄핵심판 대리인단으로 조대현(73) 전 헌법재판관과 정상명(74) 전 검찰총장이 합류했다. 두 사람은 노무현 전 대통령의 사법연수원 7기 동기 친목 모임인 ‘8인회’의 일원으로 알려져 있다.&lt;br&gt;&lt;br&gt;16일 헌법재판소에 따르면 두 사람을 비롯해 김홍일 전 방송통신위원장과 송해은 전 검사장, 송진호·이동찬 변호사가 전날 윤 대통령 측 대리인으로 헌재에 소송 위임장을 제출했다. 이에 따라 윤 대통령의 탄핵심판 대리인단은 배보윤·윤갑근·배진한·최거훈·서성건·도태우·김계리·차기환 변호사에 이어 총 14명으로 늘어났다. 야당이 주도하는 국회 측 대리인단 17명과 맞먹는 규모다.&lt;br&gt;&lt;br&gt;그동안 윤 대통령 측은 국회 측보다 대리인단 구성이 늦어지면서 상대적으로 변론 대응에 밀리고 있다는 평가를 받아왔다.&lt;br&gt;&lt;br&gt;국회 측은 탄핵심판 변론 절차를 시작하기도 전에 김이수 전 헌법재판관과 이광범 법무법인 LKB 대표 변호사 등으로 법률대리인단 17명을 꾸린 반면, 윤 대통령 측은 첫 변론준비기일 당일에서야 변호인 3명을 겨우 선임했었다. 당시에는 다들 고사해 변호사를 구하는 데 애를 먹고 있다고 알려지기도 했다.&lt;br&gt;&lt;br&gt;이날 합류한 조 전 재판관은 서울민사지법 판사로 임관해 2004년 서울고법 부장판사를 끝으로 법원을 떠났다. 그해 노 전 대통령 탄핵심판에서 대통령 측 변호인을 맡아 탄핵 기각을 이끌어 냈다. 이후 조 전 재판관은 열린우리당 추천으로 2005년부터 2011년까지 헌재 재판관을 지냈다. 재직 중 여러 사건에서 소수 의견을 내 ‘Mr. 소수 의견’ 이라는 별명으로 불렸다.&lt;br&gt;&lt;br&gt;정 전 총장은 ‘윤 대통령의 멘토’로 통하는 인물이다. 그는 1994년 대구지검 초임 검사였던 윤 대통령의 첫 부장검사였고, 윤 대통령의 결혼식 주례를 맡기도 했다. 윤 대통령이 검사 시절 사직 의사를 밝혔을 때 만류한 것도 정 전 총장이라고 알려져 있다. 정 전 총장은 법무부 차관, 대구고검장, 대검 차장 등을 거쳐 2005~2007년 검찰총장을 지냈다.&lt;br&gt;&lt;br&gt;한편 윤 대통령에 대한 공수처 수사에는 윤갑근·배보윤·배진한·석동현·송진호·이길호·송해은·배의철·김계리·이동찬 등 대리인 10명이 대응하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘롯데 신동주 불법자문’ 민유성 前 산업은행장 1심 징역 3년 </title>
-      <link>https://www.chosun.com/national/court_law/2025/01/16/CSMCKTLWMRCLNMBWP5LO5JGPDM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/01/16/CSMCKTLWMRCLNMBWP5LO5JGPDM/</guid>
-      <dc:creator>박혜연 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 16 Jan 2025 10:47:16 +0000</pubDate>
-      <content:encoded>롯데그룹 경영권 분쟁 과정에서 변호사가 아님에도 법률 자문을 한 혐의로 기소된 민유성(71) 전 산업은행장이 1심에서 실형을 선고 받았다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2FBVOYTDXUWTO3Z2K4VIQJA7Z4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;민유성 전 산업은행장./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지법 형사21단독 정재용 판사는 16일 변호사법 위반 혐의로 기소된 민 전 행장에게 징역 3년과 198억원 추징을 선고했다.&lt;br&gt;&lt;br&gt;재판부는 “이 사건은 법 질서의 원활한 운용 등을 도모하려는 변호사 제도 취지에 반해 엄히 처벌할 필요가 있다”고 했다.&lt;br&gt;&lt;br&gt;민 전 행장은 2015년 10월~2017년 8월 변호사가 아닌데도 당시 신동빈 롯데 회장과 경영권을 다투던 신동주 전 부회장(현 에스디제이 회장)의 법률 사무를 봐주고 198억원을 받은 혐의로 기소됐다. 민 전 행장은 재판 과정에서 혐의를 전면 부인했다.&lt;br&gt;&lt;br&gt;검찰은 민 전 행장이 롯데그룹 관련 형사·행정 사건의 계획을 미리 세우고 변호사 선정 등 각종 소송업무를 총괄했다고 보고 재판에 넘겼다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>헌재, 김용현 등 탄핵심판 증인 채택…2월 6·11·13일도 재판</title>
-      <link>https://www.chosun.com/national/court_law/2025/01/16/D5HAHI3OGNAJVJOFTUPZAMMKSI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/01/16/D5HAHI3OGNAJVJOFTUPZAMMKSI/</guid>
-      <dc:creator>방극렬 기자, 박혜연 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 16 Jan 2025 08:04:25 +0000</pubDate>
-      <content:encoded>헌법재판소가 비상계엄과 관련된 김용현 전 국방부 장관과 군·경찰 관계자들을 윤석열 대통령 탄핵심판의 증인으로 채택했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/I3JERPVFO3UUVSGXNHZYQV24YQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령 탄핵심판 2차 변론기일이 진행된 16일 오후 서울 종로구 헌법재판소 심판정에서 변론기일이 진행되고 있다. 왼쪽부터 정계선, 김복형, 정정미, 이미선, 문형배, 김형두, 정형식, 조한창 재판관. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;문형배 헌재소장 권한대행은 16일 오후 열린 윤 대통령 탄핵심판 2차 변론에서 윤 대통령 측이 신청한 김 전 장관을 증인으로 채택했다.&lt;br&gt;&lt;br&gt;또 홍장원 전 국가정보원 1차장, 조지호 경찰청장, 곽종근 육군 특수전사령관, 이진우 육군 수도방위사령관, 여인형 국군방첩사령관 등 국회 측 증인 5명을 채택했다.&lt;br&gt;&lt;br&gt;헌재는 곽 사령관과 조 청장은 오는 23일, 이진우·여인형 사령관 및 홍 전 차장은 다음 달 4일 증인으로 불러 신문할 예정이다. 신문 시간은 한 명당 90분이다.&lt;br&gt;&lt;br&gt;헌재는 김용현 전 장관을 다음 달 6일 증인으로 부르려 했지만, 윤 대통령 측이 강하게 항의하면서 내일 평의에서 소환 일정을 다시 논의하기로 했다.&lt;br&gt;&lt;br&gt;윤 대통령 측은 “김 전 장관 이후 다른 증인들을 부르는 게 실체적 진실을 밝히는 데 합당해보인다”고 했다. 윤 대통령 측은 김 전 장관의 증인 신문을 통해 포고령 작성 경위 등에 대해 밝힐 계획이다.&lt;br&gt;&lt;br&gt;윤 대통령 측은 김현태 육군특수전사령부 707특수임무단장도 증인으로 신청했으나, 헌재는 추후 논의를 통해 채택 여부를 결정하겠다고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4I7N36NQIBPGNPEVES6NN3LIS4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령 탄핵심판 사건의 2차 변론기일인 16일 오후 서울 종로구 헌법재판소 대심판정에서 정청래 국회 탄핵소추단장(왼쪽), 국회 측 법률대리인 공동 대표 송두환 전 인권위원장(가운데)과 윤석열 대통령 법률대리인에 합류한 조대현 변호사가 인사하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 변론에서 윤 대통령 측은 부정선거 의혹이 확산되면서, 대통령이 이를 조사하기 위한 최후의 수단 중 하나로 계엄을 선포했다고 주장했다. 윤 대통령 측 배진한 변호사는 “대통령이 부정선거 제보를 너무 많이 받았고, 부정선거를 밝히는 것은 대통령의 책무”라고 밝혔다.&lt;br&gt;&lt;br&gt;윤 대통령 측은 이를 입증하기 위해 경기 수원의 선관위 연수원에 체류한 중국인 명단 등에 대한 사실조회를 신청했고, 재판부는 이를 채택했다.&lt;br&gt;&lt;br&gt;아울러 재판부는 국회 측이 제시한 계엄 당시 국회와 중앙선거관리위원회, 국회의장 공관 등을 촬영한 CCTV 영상을 증거로 채택했다.&lt;br&gt;&lt;br&gt;앞서 윤 대통령 측은 헌재가 국회 회의록을 증거로 채택한 결정에 대해 이의 신청했지만, 문 권한대행은 “헌재법을 따른 것으로 위법이 없다”며 이를 받아들이지 않았다.&lt;br&gt;&lt;br&gt;재판부는 향후 변론기일 일정을 6차 2월 6일, 7차 11일, 8차 13일로 추가 지정했다. 설 연휴를 제외하고, 오는 2월 중순까지 주 2회씩 변론을 여는 것이다.&lt;br&gt;&lt;br&gt;이날 변론을 마친 뒤 윤 대통령 측 차기환 변호사는 “현대 사회에서 전시·사변에 준하는 비상사태는 전면전만을 뜻하는 게 아니다”라며 “야당의 무차별 탄핵과 예산 삭감, 부정선거 의혹 등으로 국가 기능이 마비되는 상황이 비상이라고 (대통령이) 판단한 것”이라고 했다.&lt;br&gt;&lt;br&gt;반면 국회 측 김진한 변호사는 “비상계엄 선포와 국헌 문란 행위가 이 사건 심판 대상이지 부정 선거는 직접 관련이 없다”며 “부정 선거 근거도 없지만, 근거가 있다 해도 군 동원해서 계엄 선포하고 국회 침입하는 게 상식적으로 말이 안된다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>尹 변호인단, 공수처장·국수본부장 내란 혐의 고발</title>
@@ -960,15 +980,6 @@
       </media:content>
     </item>
     <item>
-      <title>尹대통령, 양복 입고 첫날 밤… 경호처, 구치소 외곽 경호 중</title>
-      <link>https://www.chosun.com/national/court_law/2025/01/16/UB42DHFLRFFXTNNB35ZGD4Y6VY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/01/16/UB42DHFLRFFXTNNB35ZGD4Y6VY/</guid>
-      <dc:creator>유종헌 기자, 이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 16 Jan 2025 09:15:08 +0000</pubDate>
-      <content:encoded>지난 15일 고위공직자범죄수사처(공수처)에 체포돼 10시간 40분 동안 조사를 받은 윤석열 대통령은 서울구치소 보안청사에 있는 구인 피의자 대기실에 구금돼 하룻밤을 보냈다. 검은 양복에 흰색 셔츠를 입고 넥타이를 매지 않은 옷차림으로 체포된 윤 대통령은 구치소에서 제공하는 생활복으로 갈아입지 않고, 양복 차림 그대로 잠자리에 들었다고 한다. 양복 재킷은 벗었던 것으로 전해졌다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/O6CJSSGECSXSCRVFXDEOKX22KQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령이 15일 오후 고위공직자범죄수사처에서 조사를 마치고 대통령경호처 차량에 타 서울구치소로 이동하고 있다./ 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;16일 본지 취재를 종합하면, 구치소에서 윤 대통령이 머무르는 대기실은 6~7평 정도인 것으로 알려졌다. 영장실질심사나 조사를 기다리는 피의자들이 여러 명일 경우에 대비해 마련된 공간이어서 3평 정도인 독거실보다 넓은 편이다. 내부에는 이불과 밥상, TV가 있고 화장실에는 변기와 샤워기 등이 갖춰져 있다. 유사 상황을 대비해 구치소 중앙통제실에서 24시간 감시할 수 있는 CC(폐쇄회로)TV도 설치돼 있다. 다만 중앙통제실이 경호처 직원들은 출입할 수 없는 주벽 안쪽 보안청사에 있어서, CCTV를 경호처 직원들이 볼 수는 없다고 한다.&lt;br&gt;&lt;br&gt;구치소는 16일 아침 식사로 시리얼‧삶은 달걀‧하루견과‧우유 등을 윤 대통령에게 제공했다. 서울구치소의 다른 수용자들과 같은 식단이다. 윤 대통령은 아침 식사를 했지만, 절반 가까이 남긴 것으로 전해졌다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RUYEQDUJ6RL7HGMJX3KWSOOK3U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;16일 오전 경기도 의왕시 서울구치소에서 대통령경호처 소속 차량이 이동하고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대통령경호처와 서울구치소는 윤 대통령 경호를 두고 계속해서 협의 중이다. 윤 대통령이 구금된 만큼 경호구역을 나누는 것에 대한 협의는 마친 상태다. 주벽이라고 불리는 서울구치소 내부 담장을 기준으로 정문 바깥 구역을 경호처가 경호하고 있다. 내부 경호는 서울구치소 소속 교도관들이 맡고 있다. 전날 조사를 마친 윤 대통령과 함께 구치소로 온 경호처 직원들은 주벽 바깥에 있는 사무청사 내부에 차려진 별도 사무실에서 밤새 대기한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;윤 대통령은 구금 기간 동안 공수처 조사 등을 이유로 구치소를 떠날 경우엔 법무부 교정본부 소속 차량을 이용하게 된다. 윤 대통령이 탑승할 별도 차량을 지정하지 않고, 윤 대통령이 이동할 때 사용 가능한 대형버스, 승합차 등을 상황에 맞게 배정해 이용할 방침이다. 경호처 소속 차량들이 교정본부 차량 앞뒤로 대열을 만들어 경호할 것으로 전해졌다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MO4W23JC5VL3XL73BPIDZ5ZT7I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;16일 오후 법무부 교정본부 소속 호송버스가 경기 의왕 서울구치소 정문을 통과하고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>“노동자 코로나 감염 사실 안 알린 쿠팡, 300만원 배상”</title>
       <link>https://www.chosun.com/national/incident/2025/01/16/JZDK4YDILNFOVOE7GVD3IURCGM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/01/16/JZDK4YDILNFOVOE7GVD3IURCGM/</guid>
@@ -1000,15 +1011,6 @@
       <description/>
       <pubDate>Thu, 16 Jan 2025 00:30:03 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FKMM3SFZYZCR3GHJEHG6O3BU5A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;15일 오후 경기도 과천 공수처에서 조사를 받은 윤석열 대통령이 서울 구치소로 가기 위해 경호 차량에 탑승하고 있다/ 장련성 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 대통령이 고위공직자범죄수사처(공수처)의 체포 영장 발부·집행에 반발하며 낸 체포 적부(適否)심 심문이 16일 오후 5시 서울중앙지법에서 열린다.&lt;br&gt;&lt;br&gt;앞서 서울중앙지법은 윤 대통령이 낸 체포 적부 심사를 형사32단독 소준섭 판사에 배당하고 심리에 착수했다고 밝혔다. 체포 적부 심사란 체포·구속 영장의 발부가 법률에 위반되는 등의 경우 기소 전 관할 법원에 심사를 청구할 수 있는 제도다. 윤 대통령 측은 전날 밤 서울중앙지법에 심사를 청구했다.&lt;br&gt;&lt;br&gt;법원은 청구가 접수된 뒤 48시간 이내 심문해야 한다. 소 판사는 이날 심사를 진행하고 윤 대통령 체포의 필요성, 적법성 등을 따져볼 것으로 보인다. 심문 이후 24시간 내 석방 여부를 결정해야 해 내일 결과가 나올 예정이다.&lt;br&gt;&lt;br&gt;윤 대통령 측은 공수처가 중앙지법이 아닌 서울서부지법에 체포 영장을 청구해 발부받은 것은 전속관할권 위반이고, 공수처에 내란죄 수사권도 없는 만큼 체포 영장이 불법·무효라고 주장하고 있다. 윤 대통령 측은 체포 적부 심사에서도 이 같은 입장을 밝힐 전망이다.&lt;br&gt;&lt;br&gt;한편, 윤 대통령이 체포 적부 심사를 받는 동안은 수사기관이 피의자를 체포한 때로부터 48시간 이내에 구속 영장을 청구해야 한다는 ‘48시간 제한’ 기간에서 제외된다. 체포 적부 심사가 접수돼 법원 결정 후 서류가 반환될 때까지 구금이 연장되는 셈이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>4세 친구가 밀어 치아 부러지자 3000만원 소송...결말은?</title>
-      <link>https://www.chosun.com/national/national_general/2025/01/16/6AR6CBJY4VHE7HGO57SEVKZN3U/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/16/6AR6CBJY4VHE7HGO57SEVKZN3U/</guid>
-      <dc:creator>이혜진 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 16 Jan 2025 01:38:05 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZQXVI7L26JBQNLL6QDENUQOE7E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원 관련 이미지. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;어린이집에서 친구를 화장실에서 밀쳐 치아를 부러뜨린 네 살 아이에 대해 부모가 배상해야 한다는 판결이 나왔다. &lt;br&gt;&lt;br&gt;인천지법 부천지원 민사2단독(김재향 판사)은 어린이집에서 발생한 유아 간 사고와 관련해 피해 아동인 A군과 그의 부모가 가해 아동인 B군의 부모를 상대로 낸 3000만원 손해배상 소송에서 일부 승소 판결을 했다고 16일 밝혔다. 재판부는 A군 측이 요구한 3000만원 중 120만원만 지급하라고 B군 측에 명령했다. 또 소송 비용 90%를 A군 측이 부담하라고 했다. &lt;br&gt;&lt;br&gt;지난 2023년 2월 당시 네 살이던 A군은 어린이집 화장실에서 또래 친구 B군에게 밀려 넘어지는 사고를 당했다. 이 사고로 A군은 송곳니 끝부분이 부러지고 아랫입술이 찢어지는 부상을 입었다. 사고 당시 화장실에는 보안 카메라(CCTV)가 설치되어 있지 않았으며 보육교사들도 이를 직접 목격하지 못했다. 보육교사가 사고 경위를 물어보자 A군 옆에 있던 B군은 “내가 그랬다”고 말했다. 보육교사는 즉시 두 아이의 부모에게 연락해 사고 사실을 알렸다. &lt;br&gt;&lt;br&gt;B군의 어머니는 곧바로 A군의 어머니에게 사과 문자를 보냈다. B군의 부모는 사고 발생 5일 후 피해 변상을 위해 A군의 부모를 만나 치료비와 선물을 전달하려 했으나 A군의 부모는 이를 거절했다. &lt;br&gt;&lt;br&gt;A군의 부모는 3개월 후인 같은 해 5월 법원에 손해배상 소장을 제출했다. A군의 부모는 소송을 통해 A군에게 2000만원, 부모에게 각각 500만원씩 총 3000만원의 배상을 요구했다. &lt;br&gt;&lt;br&gt;이에 대해 재판부는 판결문에서 “B군 부모는 자녀가 이번 사고를 일으켰다는 사실을 다투지 않았다”며 “어린이집 안전공제회에 제출된 보고서를 봐도 B군의 가해 행위로 이번 사고가 발생했다고 봐야 한다”고 했다. 이어 “B군은 당시 만 4세로 법률상 책임 능력이 없었으며 민법에 따라 손해배상 책임은 B군의 부모에게 있다”고 밝혔다. &lt;br&gt;&lt;br&gt;하지만 재판부는 A군 부모가 요구한 배상금이 과하다고 판단했다. 재판부는 “손상된 치아가 유치였고 이후 변색이나 신경 손상 등이 발생하지 않는 등 실제 피해는 그리 크지 않았다”며 “사고 후 B군 부모가 사과 의사를 보이고 손해배상금을 마련해 전달하려 했다”고 했다. 재판부는 또 B군 부모가 사과와 배상 의사를 보였음에도 A군 부모가 거절하고 과다한 손해배상을 요구해 소송을 제기한 점을 고려했다고 덧붙였다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
