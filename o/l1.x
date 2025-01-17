@@ -6,6 +6,35 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>"형소법 110조 폐지해야"…한국법령정책연구원·한국법학교수회, '12·3 사태의 형사법적 쟁점' 공동학술대회 성료</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/204827.jpg" alt="204827.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;《사진=백성현 기자》&lt;/figcaption&gt;   &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;"군사상 비밀 장소에 관한 압수수색 제한을 규정한 형사소송법 제110조는 전근대적 규정으로 이미 제111조를 통해 그 목적을 충분히 달성할 수 있어 폐지해야 합니다. 실무상 피의자를 체포할 때는 체포수색영장을 청구·발부해 원활하게 체포영장을 집행할 수 있도록 해야 합니다."&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;군사상 비밀과 압수를 규정하고 있는 형사소송법 제110조를 폐지해야 한다는 주장이 나왔다.&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="18874"&gt;이종수&lt;/span&gt;(40·사법연수원 40기) 서강대 로스쿨 교수는 '군사상 비밀'은 형사소송법 제111조가 정하는 '공무상 비밀'에 포함되는 개념으로 이해할 수밖에 없다고 주장했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp; &lt;br /&gt;한국법령정책연구원(원장 오영근)은 한국법학교수회(회장 최봉경)와 공동으로 15일 서울 서초구 서초동 한국법령정책연구원 대회의실에서 12·3 사태의 형사법적 쟁점 학술대회를 개최했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;이 교수는 "현직 대통령의 초헌법적 비상계엄 선포로 인해 우리의 법치주의는 한순간 중대한 위기 상황을 맞게 됐다"며 "법치주의적 형사 사법시스템은 헌법을 유린한 피의자에 대해도 적법절차라는 테두리 안에서 엄정하고도 신속하게 발동해 실체적 진실을 발견하는 한편, 범죄행위에 상응하는 형사처벌이 이뤄지도록 해야 한다"고 강조했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp; &lt;br /&gt;학술대회는 '압수수색 제한 규정의 형소법상 의의 및 피의자 수색에서의 적용 여부'를 중심 주제로 논의했다.&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="8480"&gt;윤석열&lt;/span&gt;&amp;nbsp;대통령에 대한 체포영장의 집행과 관련해 피의자 수색행위가 형사소송법 제110조의 규정의 적용대상이 되는지 여부다. 사회는&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="1421"&gt;노수환&lt;/span&gt;(59·사법연수원 24기) 성균관대 로스쿨 교수가 맡았다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;노 교수는 "체포영장이 발부된 피의자를 체포하기 위해 타인의 건물에 들어가려면 원칙적으로 그 건물에 들어갈 수 있는 별도의 영장이 필요한데 그것이 피의자수색을 위한 영장"이라며 "이는 건물에 들어가 피의자를 체포하는 것에 불과하므로 일반적인 압수수색과 달리 침해되는 군사상 기밀이 있을 수 없어 형소법 제110조 규정은 당연히 적용 대상이 아니다"라고 말했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;   &lt;span style="font-weight: bold;" class="lawmanlink" serial="7909"&gt;이주원&lt;/span&gt;(60·21기) 고려대 로스쿨 교수는 '헌법유린과 법치주의의 위기'라는 주제로 기조발제를 진행했다. 그는 "실질적 의미의 법치주의는 '헌법적' 법치주의이고 법치주의를 법률주의(legalism)와 혼동해서는 안된다"며 "12·3 사태의 헌법유린이야말로 법치주의의 대지를 황폐하게 만드는 행위"라고 설명했다. 이어 "권력을 가진 사람은 무엇보다도 법의 자기겸손성에 관한 자각이 필요하다"고 전했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;이 교수는 법치주의의 위기로 △36년간 일제강점기와 40년간 권위주의 체제의 잔재 △법집행기관의 권위주의와 정치적 편향성 △새로운 위험의 속출 △이익집단 또는 법 종사자의 막무가내식 자기주장 △이데올로기화의 위험 △법학과 법학교육의 위기 등을 꼽기도 했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;토론에는 고명수 서울대 로스쿨 교수, 박혜림 서원대 경찰행정학부 교수,&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="19124"&gt;승이도&lt;/span&gt;(47·41기) 건국대 로스쿨 교수,&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="31004"&gt;이상훈&lt;/span&gt;(47·변호사시험 3회) 한양대 로스쿨 교수가 참여했다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;오영근 원장은 "12·3 비상계엄사태로 인해 우리 사회는 법치주의에 대한 큰 도전에 직면해 있고 현재 진행형"이라며 "이번 학술대회가 우리나라의 헌법질서와 법치주의의 수호와 법률문화 향상에 기여할 수 있는 학술대회가 되기를 바란다"고 말했다.&lt;/p&gt;</description>
+			<pubDate>Fri, 17 Jan 2025 02:30:01 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/204827</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/204827</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/204827.jpg</media:thumbnail>
+			<dc:creator>안현 기자</dc:creator>
+		</item>
+		<item>
+			<title>변협, 법무법인 대륜 'AI법률상담 서비스' 징계 검토 착수</title>
+			<description>&lt;p&gt;대한변호사협회(협회장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="2700"&gt;김영훈&lt;/span&gt;)는 17일 법무법인 대륜의 24시간 무료 인공지능(AI) 법률상담 서비스 '대륜AI'에 대한 징계 검토에 착수했다고 밝혔다. 변협은 이 서비스가 변호사법 및 광고 규정을 위반했는지 조사 중이다.&lt;br /&gt;&lt;br /&gt;변협 관계자는 "아직 대륜AI의 구체적인 서비스 방식을 확인 중"이라며 "사실관계를 철저히 조사한 뒤 적절한 조치를 취할 계획"이라고 밝혔다.&lt;br /&gt;&lt;br /&gt;대륜AI는 24시간 운영되며, 이용자의 질문을 분석해 법률 정보와 판례를 제공하고 필요시 대륜 소속 변호사와의 상담을 연결하는 방식으로 운영된다. 이 서비스는 대륜의 리걸테크 개발팀이 참여해 개발됐다.&lt;br /&gt;&lt;br /&gt;한편, 지난해 11월 법무법인 대륙아주가 출시한 'AI대륙아주'는 변협으로부터 변호사법 위반을 이유로 500만~1000만 원의 과태료 징계를 받은 바 있다. 대륙아주는 이에 불복해 법무부에 이의 신청을 제출한 상태다.&lt;br /&gt;&lt;br /&gt;변협은 AI 기반 법률 서비스가 변호사법 및 개인정보 보호법 위반 소지가 있다고 보고 있다.&lt;/p&gt;</description>
+			<pubDate>Fri, 17 Jan 2025 02:07:28 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/204839</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/204839</guid>
+			<dc:creator>이진영 기자</dc:creator>
+		</item>
+		<item>
+			<title>"韓기업, 우크라이나 재건사업 참여로 경제 도약 가능할 것"…대륙아주 우크라이나 재건 세미나 성료</title>
+			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/204835.jpg" alt="204835_1.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p style="text-align: left;"&gt;법무법인 대륙아주(대표변호사&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="8690"&gt;이규철&lt;/span&gt;)는 16일 서울 강남구 역삼동 동훈타워 12층 대륙아주 대회의실에서 '우크라이나 재건 시 우리 기업의 진출 방안' 세미나를 개최했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p style="text-align: center; "&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/204835.jpg" alt="204835_2.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;변지현 대륙아주 고문이 '우크라이나 정세 및 우리 기업 진출의 당위성'을, 대륙아주와 업무제휴를 맺고 있는 글로벌 로펌인 테일러 베싱(Taylor Wessing) 우크라이나 사무소의 바실 폽-스타시브(Vasyl Pop-Stasiv) 변호사가 '우크라이나 진출 시 유의사항'을 주제로 발표했다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;변지현 고문은 "우크라이나는 넓은 영토, 많은 인구, 풍부한 자원, 서방의 재건지원 강도 측면에서 가장 이상적인 재건 대상 국가라고 할 수 있다"며 "한국 기업들은 재건 사업 참여를 통해 우리 경제를 한 단계 도약시킬 수 있을 것"이라고 강조했다. 그러면서 "20일 트럼프 취임을 계기로 러-우 접경지역에 유럽방위군 배치를 조건으로 영토협상을 시작할 것"이라고 전망하며 국제 정세 변화를 짚었다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;바실 폽 스타시브 변호사는 "우크라이나 정부와 대통령 역시 가능한 빨리 국가를 재건하려는 강력한 정치적 의지를 갖고 있다"며 "우크라이나 정부는 외국인 투자 유치를 막는 인·허가 요건을 간소화하고 다양한 투자에 대한 인센티브를 마련하고 있다"고 말했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;이어 김석민 대륙아주 외국변호사가 '유럽 현지에서의 한국 기업에 대한 지원 방안'을, 정순길 한국수력원자력 SMR사업부 부장이 'i-SMR 소개 및 한수원의 해외진출 방안'을, 송인록 한국수자원공사 해외사업본부 차장이 '우크라이나 산업도시 계획 및 인도적 식수 지원'을 주제로 발표했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;대륙아주는 2014년 테일러 베싱과 업무협약을 맺고 한국과 유럽에서 다양한 공동 프로젝트를 진행하며 협력 관계를 이어오고 있다.&lt;/p&gt;&lt;p&gt;&amp;nbsp; &lt;br /&gt;이날 세미나에서는 대우건설, 동부건설, 삼성전자 등 국내외 기업 임직원 70여 명이 참석했다.&lt;/p&gt;</description>
+			<pubDate>Fri, 17 Jan 2025 01:57:08 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/204835</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/204835</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/204835.jpg</media:thumbnail>
+			<dc:creator>안현 기자</dc:creator>
+		</item>
+		<item>
 			<title>윤 대통령, 공수처 오전 10시 조사 불응...체포영장 시한 오후 9시 5분까지</title>
 			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/204838.jpg" alt="yoon10.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;서울구치소 향하는 윤석열 대통령 《사진=연합뉴스》&lt;/figcaption&gt;   &lt;/figure&gt;&lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;내란 혐의로 체포된&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="8480"&gt;윤석열&amp;nbsp;&lt;/span&gt;대통령이 17일 고위공직자범죄수사처(공수처) 조사에 출석하지 않기로 했다.&lt;br /&gt;&lt;br /&gt;공수처는 윤 대통령에게 "이날 오전 10시까지 출석해 조사받으라"고 통보했다. 하지만 윤 대통령 측은 언론에 공수처가 통보한 조사에 출석하지 않겠다는 입장이다. &lt;br /&gt;&lt;br /&gt;윤 대통령 측&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="5974"&gt;석동현&lt;/span&gt;&amp;nbsp;변호사는 이날 “대통령은 오늘 공수처에 출석하지 않는다”며 “첫날 공수처 조사자에게 충분히 기본 입장을 밝혔고 일문일답식 신문에 답할 이유나 필요성이 없다고 보기 때문”이라고 밝혔다.&lt;br /&gt;&lt;br /&gt;전날인 16일 서울중앙지법은 "이 사건 청구는 이유 없다"며 윤 대통령의 체포적부심 청구를 기각했다. 체포적부심 과정으로 윤 대통령의 체포시한은 이날 오후 9시 5분까지로 늦춰졌다.&lt;br /&gt;&lt;br /&gt;형사소송법에 따라 체포 후 48시간 안에 구속영장을 청구해야 한다. 다만 법원에서 체포적부심사를 진행하는 동안은 48시간에서 제외된다.&lt;br /&gt;&lt;br /&gt;공수처는 이날 윤 대통령에 대한 구속영장을 청구할 것으로 보인다.&lt;/p&gt;</description>
 			<pubDate>Fri, 17 Jan 2025 01:05:18 -0000</pubDate>
@@ -212,35 +241,6 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/204770</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/204770.jpg</media:thumbnail>
 			<dc:creator>김지현 기자</dc:creator>
-		</item>
-		<item>
-			<title>대륙아주, 우크라이나 재건 시 기업 진출 방안 세미나 16일 개최</title>
-			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/thumb/180/204756.jpg" alt="11.jpg" style="opacity: 0;" height="10px" /&gt;&lt;/p&gt;&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/thumb/180/204756.jpg" alt="22.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;법무법인 대륙아주(대표변호사&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="8690"&gt;이규철&lt;/span&gt;)는 16일 오후 3시 서울 강남구 역삼동 법무법인 대륙아주 12층 대회의실에서 '우크라이나 재건 시 우리 기업의 진출 방안' 세미나를 연다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;우크라이나 재건 사업에 소요되는 비용은 1200조~1500조 원 규모로 추산되고 있다. 이번 세미나는 러시아의 우크라이나 침공이 막바지 국면에 들어갈 것으로 예상되는 가운데, 국내외 기업들이 재건 사업에 적극 참여할 수 있는 방안을 모색하고 관련 정보를 제공하기 위해 마련됐다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;이날 세미나에서는 △우크라이나 정세 및 우리 기업 진출의 당위성 △우리 기업의 우크라이나 진출 시 유의사항 △유럽 현지에서의 한국 기업에 대한 지원 방안 △i-SMR 소개 및 한국수력원자력의 해외 진출 방안 △우크라이나 산업도시 계획 및 인도적 식수 지원 등을 다룬다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;대륙아주 우크라이나 재건팀이 주관하는 이번 행사에는 대륙아주와 협력 관계에 있는 테일러 웨싱(Taylor Wessing)의 우크라이나 사무소, 해외건설협회, 한국수력원자력, 한국수자원공사 등도 참여해 다양한 관점을 공유할 계획이다.&lt;/p&gt;</description>
-			<pubDate>Thu, 16 Jan 2025 02:39:49 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/204756</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/204756</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/204756.jpg</media:thumbnail>
-			<dc:creator>안현 기자</dc:creator>
-		</item>
-		<item>
-			<title>[단독] '국회 봉쇄' 김봉식, 계엄 전 국회 통제 기동대 재차 확인..."국회로 보낼 수 있는 기동대 더 있는지 확인해라"</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/204784.jpg" alt="204784.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: left; font-size:14px; line-height: 1.6em"&gt;'12·3 비상계엄 사태'에 관여한 혐의로 구속된 김봉식 서울경찰청장이 지난달 20일 오전 서울 남대문경찰서에서 검찰로 송치되고 있다. 《사진=연합뉴스》&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;김봉식 전 서울경찰청장이 계엄 선포를 앞두고 국회 통제를 위해 경찰 기동대 출동 준비를 재차 확인하며 준비한 것으로 확인됐다.&lt;br /&gt;&lt;br /&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="13701"&gt;김용민&lt;/span&gt;(48·사법연수원 35기) 더불어민주당 의원실이 16일 법무부로 제출받은 조지호 경찰청장과 김봉식 전 서울청장의 공소장에 따르면, 지난달 3일 오후 9시 16분쯤 서울 광화문에 있던 기동대를 오후 10시까지 국회로 조용히 이동시킬 것을 지시하며, 비상계엄 선포 직후에 국회출입을 통제할 경찰 기동대의 준비를 마쳤던 것으로 파악됐다.&lt;br /&gt;&lt;br /&gt;공소장에 따르면, 앞서 김 전 청장은 서울경찰청 경비부장에게 "야간에 국회로 보낼 수 있는 가용 기동대가 더 있는지 확인해서 준비시켜라"고 지시하며 이후 9시 50분쯤 김 전 청장은 서울경찰청 경비부장에게 국회 인근 승차대기 여부와 복장을 점검하도록 추가 지시했다. &lt;br /&gt;&lt;br /&gt;이어 "아마 상황이 조금 늦어질 수도 있다고 하는데 나중에 상황이 발생하면 그때 움직이면 될 것"이라고 출동시점을 지시하는 등 비상 계엄 선포 후 국회 출입을 통제할 경찰 기동대 대비태세를 재차 확인했다. 계엄 당시 경찰이 기동대 이동 등 사전 준비를 끝내고 이후 국회 출입을 통제한 것이다.&lt;br /&gt;&lt;br /&gt;앞서 검찰 비상계엄 특별수사본부(본부장&lt;span style="font-weight: bold;" class="lawmanlink" serial="1054"&gt; 박세현&lt;/span&gt;&amp;nbsp;서울고검장)는 지난 9일 내란중요임무종사 및 직권남용권리행사방해 혐의를 받는 조 청장과 김 청장을 구속기소 했다.&lt;br /&gt;&lt;/p&gt;</description>
-			<pubDate>Thu, 16 Jan 2025 02:05:32 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/204784</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/204784</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/204784.jpg</media:thumbnail>
-			<dc:creator>김지현 기자</dc:creator>
-		</item>
-		<item>
-			<title>【오늘의 국회일정】 2025년 1월 16일</title>
-			<description>&lt;b&gt;◇국회의장&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;10:00 최봉경 신임 한국법학교수회 회장 접견(의장집무실)&lt;br /&gt;&lt;br /&gt;11:10 「조셉 윤」 주한미국대사대리 접견(의장집무실)&lt;br /&gt;&lt;b&gt;&lt;br /&gt;◇상임위원회&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;10:00 문화체육관광위원회 문화예술법안심사소위원회(본관 508호)&lt;br /&gt;&lt;br /&gt;10:00 12.29 여객기 참사 진상규명과 피해자 및 유가족 피해구제를 위한 특별위원회 전체회의(본관 220호)&lt;br /&gt;&lt;br /&gt;10:40 국토교통위원회 전체회의(본관 529호)&lt;br /&gt;&lt;b&gt;&lt;br /&gt;◇의원실 세미나&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;10:00 황운하 의원실 등, 민생경제 회복! 추경예산 대토론회(의원회관 제3세미나실)&lt;br /&gt;&lt;br /&gt;10:00 박희승 의원실, 항생제 다제내성균 요로감염의 효과적 통합 대응체계 구축을 위한 정책토론회(의원회관 제2세미나실)&lt;br /&gt;&lt;br /&gt;13:00 전진숙 의원실 등, 더불어민주당 보육특별위원회 발대식 및 정책토론회(국회도서관 강당)&lt;br /&gt;&lt;br /&gt;13:30 김현정 의원실 등, 배달앱 생태계와 수수료 민간 자율에만 맡겨도 되나 : 배달앱 수수료 공정화를 위한 정책토론회(의원회관 제6간담회의실)&lt;br /&gt;&lt;br /&gt;14:00 이언주 의원실 등, (경제는 민주당) 트럼프 2.0 시대 핵심 수출기업의 고민을 듣는다 : 2차 전지 산업(의원회관 정책위회의실)&lt;br /&gt;&lt;br /&gt;14:00 채현일 의원실 등, 제2의 친위쿠데타와 내란 방지를 위한 정책 토론회(의원회관 제4간담회의실)&lt;br /&gt;&lt;br /&gt;14:00 노종면 의원실, 지하철 7호선 급행 도입을 위한 국회의원 간담회(의원회관 제2간담회의실)&lt;br /&gt;&lt;br /&gt;15:00 민병덕 의원실 등, 지속가능성 공시와 검·인증 의무화를 위한 법안 제정 방향 간담회 : 국제기준과의 정합성 및 실효성 담보방안 모색(의원회관 제10간담회의실)&lt;br /&gt;&lt;b&gt;&lt;br /&gt;◇소통관 기자회견&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;11:00 김동아 의원, [민주파출소 긴급 기자회견]&lt;br /&gt;&lt;br /&gt;13:00 강유정 의원, [현안 관련 기자회견]&lt;br /&gt;&lt;br /&gt;13:20 정을호 의원, [사립대학교 등록금 인상 관련 기자회견]&lt;br /&gt;&lt;br /&gt;15:00 주진우 의원, [더불어민주당 카톡 검열 고발 관련 기자회견]&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;b&gt;&lt;span style="font-size: 14px;"&gt;※ 상기 일정은 사정에 따라 변경될 수 있습니다.&lt;/span&gt;&lt;/b&gt;&lt;br /&gt;</description>
-			<pubDate>Wed, 15 Jan 2025 22:39:28 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/204769</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/204769</guid>
-			<dc:creator>인터넷 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
