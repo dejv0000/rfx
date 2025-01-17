@@ -13,6 +13,132 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>[속보] ‘尹 탄핵심판’ 헌재, 김현태 707특임단장 증인 채택... 김용현 증인 신문은 23일</title>
+      <link>https://www.chosun.com/national/court_law/2025/01/17/YZFXA3MQRJED7LXDKCISTDMZAY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/01/17/YZFXA3MQRJED7LXDKCISTDMZAY/</guid>
+      <dc:creator>박강현 기자, 이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 17 Jan 2025 05:06:02 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HIFXXVQ3PZKO3PEDO6RRULRTIA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령 탄핵 심판의 두번째 변론기일인 16일 오후 서울 종로구 헌법재판소에 정계선(왼쪽부터), 김복형, 정정미, 이미선, 문형배, 김형두, 정형식, 조한창 헌재 재판관들이 심판정에 앉아 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;[속보] ‘尹 탄핵심판’ 헌재, 김현태 707특임단장 증인 채택... 김용현 증인 신문은 23일&lt;br&gt;&lt;br&gt;“구속된 피고인들, 정당한 사유 없이 출석하지 않으면 헌재법 따라 벌금형”&lt;br&gt;&lt;br&gt;헌재, 국정원 등 문서송부촉탁… 선관위 보안점검 보고서 요청&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“엄마, 정치 유튜브 좀 그만 봐”...부모님 유튜브 계정 정리하겠다는 자녀들</title>
+      <link>https://www.chosun.com/national/national_general/2025/01/17/GYI6ZNXBMRHNVHKFAUDI2BDIUM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/17/GYI6ZNXBMRHNVHKFAUDI2BDIUM/</guid>
+      <dc:creator>김나연 기자, 강지은 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 17 Jan 2025 05:03:54 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OMPVKDKEIRGCDAOSKYCGSILXME.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2020년 12월 16일 오후 서울 중구 조선일보 미술관에서 본지 산업부 기자들이 스마트폰 12대를 이용해 유튜브의 정치 콘텐츠 알고리즘을 조사하고 있다. 기사 내용과 관련 없음./이태경 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 고양시에 사는 대학생 전모(25)씨는 윤석열 대통령에 대한 탄핵소추안이 가결된 후 틈틈이 부모님의 유튜브 구독 목록에 들어가 정치 유튜버 구독을 취소하고 있다. 전씨는 “유튜버들이 ‘믿거나 말거나’ 식으로 제기하는 의혹과 선동을 그대로 믿고 욕설이 난무하는 영상에 빠져드는 부모님이 걱정됐다”며 “거짓 정보가 담긴 영상이 알고리즘에 의해 계속 추천되는 악순환을 끊기 위해 나라도 나선 것”이라고 했다.&lt;br&gt;&lt;br&gt;부모를 ‘거짓 정보(disinformation)’에서 지키겠다며 ‘유튜브 알고리즘 정화’에 나서는 자녀들이 늘고 있다. 검증되지 않은 사실을 말하거나 사회적 현안에 대해 극단적인 주장을 펼치는 유튜버들이 많기 때문이다. 비상계엄·탄핵 정국으로 정치 사안에 대한 국민적 관심도가 높아지자 조회수를 높이기 위한 각종 유언비어와 거짓 정보가 판치고 있다. 2023년 한국언론진흥재단의 설문조사에서 응답자의 53%가 ‘유튜브로 뉴스를 본다’고 응답하는 등 유튜브가 뉴스 소비의 주요 플랫폼인 만큼, 유튜브를 통해 거짓 정보에 노출될 가능성이 커진 상황이다.&lt;br&gt;&lt;br&gt;실제 최근 유튜브에서 확산된 유언비어가 거짓 정보라는 사실이 확인되기도 했다. 지난 16일 한 온라인 매체가 “계엄 당일 선거관리연수원에서 99명의 중국인 간첩이 체포돼 주일미군기지로 압송됐다”고 주장했다. 이 의혹은 유튜버들에 의해 확대·재생산됐다. 그러나 중앙선거관리위원회는 해당 의혹이 가짜 뉴스라며 “계엄군은 선거연수원 청사 내로 진입도 하지 않았다”며 “계엄 당시 선관위 공무원을 대상으로 교육 중이었고 공무원 88명과 외부 강사 8명 등 96명이 머물렀다”고  했다.&lt;br&gt;&lt;br&gt;또 지난 14일 열린 국회 ‘내란 진상 규명 국정조사 특위’에 출석한 군인들은 유튜버 김어준씨가 제기한 ‘북한군 위장’ 의혹에 “터무니 없다”고 반박하기도 했다. 김씨는 “계엄 당시 북한 인민군으로 위장한 병력이 매복해 작전을 펼치려 했다는 제보를 받았다”며 군 측이 계엄을 북한군 소행으로 조작하려 했다는 주장을 펼쳐왔다.&lt;br&gt;&lt;br&gt;소셜미디어를 중심으로 ‘부모님 유튜브 알고리즘 정화하는 법’을 정리한 글도 공유되고 있다. 해당 게시글에는 “부모님 계정으로 로그인해 이상한 영상에 관심 없음 버튼을 누른다” “(언론사) 뉴스 채널을 구독해놓는다” “부모님이 잘 보지 않는 평화로운 영상들을 찾아 시청해두고 재생 기록에서 지워둔다” 등 알고리즘 정화 노하우가 자세히 설명돼 있다. 서울 노원구에 사는 직장인 이모(25)씨는 지난달 말 친구로부터 ‘알고리즘 정화’ 노하우를 공유 받은 후 몇 시간 동안 부모님 휴대폰으로 강아지와 고양이가 나오는 영상을 시청했다. 이씨는 “처음에는 부모님을 속이는 것 같아 죄송한 마음도 들었지만, 정치 영상이 아닌 유머 영상을 시청하며 웃는 아버지의 얼굴을 보니 뿌듯했다”고 했다.&lt;br&gt;&lt;br&gt;김춘식 한국외대 미디어커뮤니케이션학과 교수는 “50대 이상 중장년층은 정치에 대한 관심이 커 젊은층이 예능을 보듯 뉴스를 소비한다”며 “알고리즘의 영향으로 비슷한 콘텐츠에만 노출돼 편향된 생각이 고착화할 가능성이 크므로 방송과 같은 수준의 심의 및 규제를 유튜브에도 적용할 필요가 있다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title> 경북 청송에서 ‘빙벽 등반’ 매력 즐기세요</title>
+      <link>https://www.chosun.com/national/regional/2025/01/17/ZB2VWL23Y5FU3MWBH2M67YIOYY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/01/17/ZB2VWL23Y5FU3MWBH2M67YIOYY/</guid>
+      <dc:creator>청송=노인호 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 17 Jan 2025 05:03:33 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HJMNCBEZ73OVGAT7EPGLPIGMOY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;청송 아이스클라이밍 경기장./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘2025 청송 전국 아이스클라이밍 선수권대회 &amp;amp; 청송 아이스클라이밍 페스티벌’이 오는 18~19일 경북 청송군 주왕산면 아이스클라이밍 월드컵 경기장에서 열린다.&lt;br&gt;&lt;br&gt;17일 청송군에 따르면, 18일에는 국내 최고 기량의 아이스클라이머 100여명이 참가해 월드컵 국가대표 선발을 위해 열띤 경쟁을 벌인다. 19일 열리는 아이스클라이밍 페스티벌에서는 선수 등록 여부와 관계 없이 누구나 빙벽 등반을 즐길 수 있다.&lt;br&gt;&lt;br&gt;애초 지난 4∼5일 열릴 예정이었지만 제주항공 여객기 참사로 국가애도기간이 지정되면서 행사가 연기됐다.&lt;br&gt;&lt;br&gt;한편 경북 청송군은 최근 국제산악연맹(UIAA), 대한산악연맹과 관련 협약을 체결해 오는 2030년까지 아이스클라이밍 월드컵을 개최하기로 했다. 청송군은 코로나 사태 기간을 제외하고 지난 2011년부터 올해까지 매년 아이스클라이밍 월드컵을 주관해 왔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>부산 일신기독병원서 울려 퍼진 ‘30만번째 아기 울음’</title>
+      <link>https://www.chosun.com/national/regional/2025/01/17/OVOA3RZOKRFFBKCX7KJTG5G5TA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/01/17/OVOA3RZOKRFFBKCX7KJTG5G5TA/</guid>
+      <dc:creator>부산=김주영 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 17 Jan 2025 04:58:23 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GXCPMG2LJZFFTHPRRY47F4BDOQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 달 13일 부산 첫 여성·영유아병원인 부산 동구 일신기독병원에서 이 병원의 '30만번째 출생아'로 태어난 아이와 가족이 웃고 있다. /일신기독병원.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산 최초의 여성·영유아병원인 일신기독병원에서 30만 번째 아기가 태어난 것을 기념하는 행사가 열린다.&lt;br&gt;&lt;br&gt;부산시는 오는 18일 오후 동구청 대강당에서 일신기독병원 30만명 출생 기념행사를 연다고 17일 밝혔다.&lt;br&gt;&lt;br&gt;일신기독병원은 지난 1952년 호주 장로교 선교사이자 의료인인 맥켄지 자매(매혜란·매혜영)가 설립했다. 6·25전쟁으로 의료기관이 없었던 부산에 ‘일신부인병원’으로 시작한 부산 최초의 여성·영유아병원이다. 2022년에는 부산 시민의 의료생활과 관련된 기억과 발전상을 공유하는 부산 미래유산에 선정됐다.&lt;br&gt;&lt;br&gt;일신기독병원에서 30만번째로 출생한 아기는 지난해 12월 13일 태어난 남아로, 출생 당시 키 47.5cm, 몸무게 3.06kg으로 건강하게 태어났다. 산모 역시 건강한 상태다.&lt;br&gt;&lt;br&gt;이번 행사에는 일신기독병원에서 태어난 5만둥이, 10만둥이, 20만둥이, 25만둥이, 쌍둥이, 다둥이가족 등도 초청해 30만명 출생을 함께 축하한다.&lt;br&gt;&lt;br&gt;1982년생인 10만둥이 박모씨는 3명의 자녀를 모두 일신기독병원에서 출산했다. 1994년 20만둥이로 태어난 신모씨는 서울 상계백병원에서 소아과 의사로 일하며 어린이들을 진료하고 있다. 현재는 만삭이라 행사에 참여하지는 못하는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4GED3W7ROBE3LF2DX23SFI2CLY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;30만둥이를 낳은 산모와 남편(가운데), 분만을 담당한 산부인과 문은정 과장(오른쪽 세번째)과 홍경민 병원장(오른쪽 두번째), 병원 관계자들이 기념촬영을 하고 있다. /일신기독병원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;또 ‘경남 의령군 10남매’ 가족으로 알려진 박성용(51)·이계정(49)씨 부부 역시 10남매 중 3째부터 9째까지 7명을 이곳에서 분만했다.&lt;br&gt;&lt;br&gt;일신기독병원은 설립 이후 73년간 간호조산사 교육생 2649명을 배출했다. 이는 국내 전체 조산사의 3분의 1 수준이다.&lt;br&gt;&lt;br&gt;현재는 ‘고위험 산모 클리닉’과 ‘국가지정 신생아 중환자실’을 운영하며 안전한 분만 진료를 이어가고 있다.&lt;br&gt;&lt;br&gt;홍경민 일신기독병원 병원장은 “부산의 1개 구(區) 인구 수에 달하는 30만명의 소중한 생명이 저희 병원에서 탄생하게 돼 병원 가족 모두 기뻐하고 있다”며 “출산과 육아는 힘들지만 삶을 풍요롭게 하는 가치 있는 일인 만큼 앞으로도 여성, 영유아 병원으로서 역할해 나갈 것”이라고 말했다.&lt;br&gt;&lt;br&gt;박설연 부산시 여성가족국장은 “부산 뿐 아니라 전국적으로 출산율이 낮아지고 인구 감소가 가속화되는 시점에 일신기독병원 30만번째 출생아의 울음소리는 부산에 희망과 기쁨을 전하는 신호”라며 “출산·양육 친화적 환경을 조성하기 위해 노력하겠다”고 말했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4GEBN4L5XDN7NCRI4J7WPLT73I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;1952년 9월 17일, 부산 일신기독병원 임시병동 개원 당시 찍은 기념사진. 왼쪽부터 유경순, 매혜영, 매혜란, 방필수씨. 호주인인 매혜영, 매혜란 자매는 일신기독병원 설립자다. /조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>檢, 건국대 ‘마스코트 거위’ 100여 대 때린 남성에 징역형 집유 구형</title>
+      <link>https://www.chosun.com/national/national_general/2025/01/17/FPBNVLAE6ZH6FBKHH5M2GAXNXM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/17/FPBNVLAE6ZH6FBKHH5M2GAXNXM/</guid>
+      <dc:creator>김병권 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 17 Jan 2025 04:56:49 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7BWRGDSOJJH33LSJXUQDV2OGCM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;잔디밭에 앉아 있는 거위들의 모습/신현종 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰이 건국대의 마스코트 거위로 알려진 ‘건구스’를 때린 혐의를 받는 60대 남성에게 징역형의 집행유예를 구형했다.&lt;br&gt;&lt;br&gt;서울동부지법 형사7단독 조아람 판사는 17일 오전 10시쯤 동물보호법 위반 혐의로 기소된 김모(67)씨에 대한 결심공판을 진행했다.&lt;br&gt;&lt;br&gt;이날 검찰은 피고인에게 징역 6개월에 집행유예 2년을 선고해달라고 재판부에 요청했다. 검찰은 “죄질이 상당히 불량하고 이 사건으로 수사를 받는 중임에도 작년 5월 11일 같은 동물에 대해 가혹 행위를 했다”며 “재범의 우려가 있어 엄단할 필요가 있다”고 지적했다.&lt;br&gt;&lt;br&gt;김씨 측은 혐의를 인정한다면서 재판부에 선처를 호소했다. 김씨의 변호인은 “피고인의 동물 반복 학대 행위는 여지 없이 잘못된 행동”이라면서도 “다리 한 쪽을 잃고 고시원에서 어렵게 혼자 생활하는 독거 노인인 만큼 최대한 선처해달라”고 했다.&lt;br&gt;&lt;br&gt;녹색 수의를 입고 휠체어를 탄 채 법정에 나온 김씨는 최후진술을 하라는 재판부의 말에 “없습니다”라고 답했다.&lt;br&gt;&lt;br&gt;김씨는 작년 4월 11일 오후 건국대 호수 ‘일감호’에 서식하는 ‘건구스’를 100여 차례 때린 혐의를 받고 있다. 건구스는 건국대의 ‘건’과 거위를 뜻하는 ‘구스(goose)’를 합친 ‘건구스’로 불리며 학생들과 시민들에게 많은 사랑을 받았다. 당시 건구스는 부리에 피가 나는 상처를 입었는데, 김씨는 한달 후인 5월 11일에도 같은 장소에서 거위 두 마리를 폭행한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;한편, 배타성과 지능이 높은 것으로 알려진 거위는 주인을 잘 따라 애완용으로 키우는 경우도 많다. 실제로 거위에 목줄을 걸고 동네 산책을 하는 경우도 심심치 않게 찾아볼 수 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/7BWRGDSOJJH33LSJXUQDV2OGCM.jpg?width=5226&amp;height=3583&amp;auth=0e3e4eee1d3a07a82fba06335d701d5cd5b5a305871fd161f49aa8d6d2e7ad78&amp;smart=true" type="image/jpeg" height="3583" width="5226">
+        <media:description type="plain">온화한 봄 날씨를 보인 15일 대전 카이스트(KAIST) 잔디밭에서 거위들이 따스한 햇살을 맞으며 낮잠을 즐기고 있다. /신현종 기자</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>“아침밥 안 차려주는 아내, 바람피울 듯”…기안84 발언 논란</title>
+      <link>https://www.chosun.com/national/national_general/2025/01/17/757JU7XCGVEIVKNR3GTQA6IL3A/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/17/757JU7XCGVEIVKNR3GTQA6IL3A/</guid>
+      <dc:creator>김자아 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 17 Jan 2025 04:47:36 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LWEYQ5YBEBESBG2VC5TLQGMHMI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;웹툰작가 기안84./유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;웹툰 작가 겸 방송인 기안84(본명 김희민·40)가 “남편 아침밥을 차려주지 않는 아내는 바람을 피울 것 같다”고 말해 구설에 올랐다. &lt;br&gt;&lt;br&gt;기안84는 지난 16일 유튜브 채널을 통해 배우 이시언의 아내 서지승과 만난 모습을 공개했다. &lt;br&gt;&lt;br&gt;서지승과 함께 버스를 타고 이동하던 기안84는 “시언이 형이 아침밥을 해주느냐”고 물었다. 서지승은 “일이 없으면 해준다”고 답했고, 기안84는 “혹시 시언이 형이 ‘아침밥, 밥상 차려’ 그러는 거 아니냐”고 다시 물었다. 서지승은 “아니다. 차라리 말해 줬으면 좋겠다. 내일 뭐 먹고 싶다고 얘기해주면 좋겠다”고 답했다.&lt;br&gt;&lt;br&gt;기안84는 “남자들이 집착하는 게 아침밥”이라며 “왜 그렇게 아침밥에 집착하냐고 하는데 밥이 문제가 아니고 내가 보호받고 있다는 느낌이 든다”고 말했다.&lt;br&gt;&lt;br&gt;그러면서 “아침밥을 안 해주는 여자를 만나면 왠지 수영장에 가서 근육질 총각이랑 바람이 나거나 헬스장 가서 젊은 트레이너랑 (바람 날 것 같다)”이라고 했다.&lt;br&gt;&lt;br&gt;서지승은 “누가 그런 적 있느 냐”고 되물었고, 기안84는 “인터넷에서 흉흉한 기사들을 많이 보니까”라고 답했다. 서지승은 “그런 마음을 먹으면 그런 사람을 만난다”며 “그렇게 부정적 생각 걷어내야 한다”고 말했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GB3DTRM57ZHMRMN3AHYX5SBOK4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;배우 서지승(왼쪽)과 기안84(오른쪽)./유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이 영상이 공개되자 온라인에선 ‘기안84가 아내에게 아침밥을 원하는 이유’ 등의 제목으로 그의 발언이 공유됐고, 일부 네티즌들은 기안84의 여성관이 시대착오적이라는 비판을 제기했다. &lt;br&gt;&lt;br&gt;이들은 “여자가 밥을 차려야 된다는 마인드는 언제적 마인드냐” “웹툰 작가라 상상력이 좋다고 해도 어떻게 아침밥이랑 바람까지 연결을 지을 수가 있나” “흉흉한 기사가 바람 난 여자 기사라는 것도 이상하다” “너무 구시대적인 마인드” 등의 의견을 냈다.&lt;br&gt;&lt;br&gt;앞서 기안84는 2020년에도 자신의 작품에 왜곡된 여성관을 그려냈다는 비판을 받았다. 당시 그는 웹툰 ‘복학왕’ 작품에서 여성 캐릭터가 40대 대기업 임원과 부적절한 관계를 맺어 입사하는 장면을 그렸다. 논란이 일자 기안84는 “작품에서의 부적절한 묘사로 심려를 끼쳐드려 정말 죄송하다”며 관련 장면을 수정했다. 또 출연 중인 MBC TV 예능프로그램 ‘나 혼자 산다’에서 잠시 하차했다가 5주 만에 복귀했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/LWEYQ5YBEBESBG2VC5TLQGMHMI.jpg?width=756&amp;height=482&amp;auth=f107d15b955f36be5901e389ddaf1bf9cba2857f041d559635c06e4fcc9da1c2&amp;smart=true" type="image/jpeg" height="482" width="756">
+        <media:description type="plain">웹툰작가 기안84./유튜브</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>SNT에너지, 사우디공장 2차 증설…현지 수출시스템 확장</title>
+      <link>https://www.chosun.com/national/regional/2025/01/17/XGBKRD3EDJHIBEOXGVZSQSGTDQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/01/17/XGBKRD3EDJHIBEOXGVZSQSGTDQ/</guid>
+      <dc:creator>창원=김준호 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 17 Jan 2025 03:21:26 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IIN7POXF4OKUCRZIUJXUWRJY6E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;사우디아라비아와 SNT에너지 고위 관계자들이 SNT걸프 공장 2차 증설 기념식에서 테이프 커팅을 하고 있다. /SNT에너지.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;SNT에너지는 100% 자회사인 사우디아라비아 현지법인 SNT걸프(Gulf)가 생산공장 2차 증설을 마무리했다고 17일 밝혔다.&lt;br&gt;&lt;br&gt;SNT에너지는 현지시각 16일 오후 2시 사우디 담맘(Dammam)에서 사우디아라비아 국영 석유회사인 아람코와 발전산업 건설사 등 120여명이 참석한 가운데 공장 증설 기념식을 열었다. 이번 증설로 SNT걸프의 생산능력은 2012년 설립 당시보다 3배로 늘었다.&lt;br&gt;&lt;br&gt;SNT걸프는 이를 기반으로 에어쿨러와 배열회수보일러(HRSG), 원자력발전 설비 핵심부품인 복수기(Condensor) 등 주요 발전 설비 생산을 확대할 방침이다. 또 사우디를 비롯한 중동, 동유럽 지역의 사업 수주와 현지 기반 수출 시스템도 확장해 나갈 방침이다.&lt;br&gt;&lt;br&gt;SNT에너지 관계자는 “공장 증설을 계기로 중동지역의 신규 원자력 및 복합화력발전 플랜트 설비 사업 수주를 확대해 나갈 것”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>강정혜 인권위원, ‘尹 방어권’ 안건 공동 발의 철회</title>
+      <link>https://www.chosun.com/national/national_general/2025/01/17/Y6LHZJY7XBHT3BAWYHAHREMWHQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/17/Y6LHZJY7XBHT3BAWYHAHREMWHQ/</guid>
+      <dc:creator>김보경 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 17 Jan 2025 04:41:45 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/COEQN4CIOJJOVNCIFCHISGLT6U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;13일 오후 서울 중구 인권위에서 열린 국가인권위원회 전원위원회에 참석하기 위해 회의장으로 향하던 안창호 인권위원장이 규탄 시위에 가로막혀 발길을 돌리고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국가인권위원회(인권위) ‘대통령 방어권 보장’ 안건에 공동 발의자로 이름을 올렸던 강정혜 비상임위원이 철회 의사를 밝혔다.&lt;br&gt;&lt;br&gt;17일 인권위에 따르면 강 비상임위원은 이날 오전 인권위에 해당 안건에 대한 안건 철회서를 제출했다. 강 비상임위원은 철회서를 제출하면서 안건에 대해 숙고하고 종합적인 상황을 고려했다고 밝힌 걸로 전해졌다.&lt;br&gt;&lt;br&gt;강 비상임위원이 공동 발의에 참여한 안건은 ‘계엄 선포로 야기된 국가의 위기 극복 대책 권고의 건’이다. 윤석열 대통령의 사법적 방어권을 보장하라는 취지의 내용이 포함됐다. 지난 13일 인권위 전원위원회에 해당 안건이 상정됐는데, 시민단체와 야권 인사들이 반발하며 인권위원들의 출입을 막아 전원위가 열리지 못했다.&lt;br&gt;&lt;br&gt;지난 12일 강 비상임위원이 법학전문대학원 교수로 재직하는 서울시립대에서는 강 비상임위원의 사퇴를 촉구하는 졸업생 및 재학생 성명서도 나왔다. 이들은 “(해당 안건) 제출자 명단에 교수님 이름이 포함된 것을 보고 큰 충격을 받았다”면서 “이번 안건에 대해 교수님은 대한민국 법의 시대정신을 심각하게 왜곡한 것”이라고 했다.&lt;br&gt;&lt;br&gt;강 비상임위원이 철회서를 제출하면서 안건 공동 발의자 5명 중 3명만이 남은 상태다. 앞서 김종민 비상임위원이 16일 오전 인권위에 사직서를 제출했다. 인권위에 따르면 김 비상임위원의 사직서는 아직 수리되지 않았다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>오세훈 “갈등으로 입지 다지고 팬덤으로 세력 키운 이재명, 정치적 청산 대상”</title>
+      <link>https://www.chosun.com/national/regional/seoul/2025/01/17/HYMRNJB3H5CQZHQ5VYKRI3OM7Y/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/seoul/2025/01/17/HYMRNJB3H5CQZHQ5VYKRI3OM7Y/</guid>
+      <dc:creator>김영우 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 17 Jan 2025 04:40:06 +0000</pubDate>
+      <content:encoded>오세훈 서울시장이 17일 이재명 더불어민주당 대표에 대해 “갈등과 대립으로 정치적 입지를 다지고 맹목적 팬덤으로 세력을 키워온 이 대표는 정치적 청산의 대상”이라고 말했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/X7362MKG4ZF23CXWOLYPFRP3OA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;오세훈 서울시장이 지난 2023년 서울시청 청사 시장실에서 본지와 인터뷰를 갖고 있다. /김지호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;오 시장은 이날 페이스북에 ‘이재명 대표, 청산 대상입니다’라는 제목의 글을 올리고 이 같이 말했다.&lt;br&gt;&lt;br&gt;오 시장은 “극심한 위법 논란 속에서 현직 대통령이 체포되는 초유의 사태 뒤에는 이재명식 ‘비정상 정치’가 있다”며 “이 대표가 경제 행보를 하고 있지만, 대부분의 국민은 이를 진정성 없는 보여주기에 불과하다는 것을 잘 알고 있다”고 했다.&lt;br&gt;&lt;br&gt;이어 오 시장은 “이 대표 일극 체제의 민주당은 그간 국가 근간을 흔들어 왔다”며 “감사원장, 방통위원장, 장관은 물론 이 대표를 수사한 검사까지 무차별 탄핵을 저지르며 정부를 사실상 기능 정지 상태로 만들었고, 정파적 이익에 집중해 예산안 야당 단독 처리나 대통령 권한대행 탄핵 등 헌정사에 유례없는 비정상을 일상적으로 저질렀다”고 했다.&lt;br&gt;&lt;br&gt;또 오 시장은 “그러면서도 (이 대표) 자신은 법치주의의 칼날을 피하기 위해 온갖 꼼수를 쓰고 있다”며 “민주당이 계엄 정국을 이용해 만들려는 나라가 ‘현직 대통령이 체포되는 마당에 야당 대표의 방탄과 재판 지연은 한없이 통하는 나라’, ‘국민 분열을 이용하면 여러 개의 대형 범죄 혐의조차 얼마든지 덮을 수 있는 나라’, 이렇듯 ‘이재명에게만 좋은 나라’라면 이를 막기 위해 국민과 함께 싸우지 않을 수 없다”고 했다.&lt;br&gt;&lt;br&gt;그는 “갈등과 대립을 토양 삼아 정치적 입지를 다지고 맹목적 팬덤으로 세력을 키워온 이재명 대표는 이미 정치적 청산의 대상일 뿐”이라며 “합리와 상식을 회복하는 것이 정치의 ‘새로운 물결’이고 국민의 바람에 응답하는 길”이라고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2LCJGU46DRGTZOVZBXJZVCMAE4.png"&gt;&lt;figcaption&gt;&lt;small&gt;오세훈 서울시장이 17일 페이스북에 올린 글. /페이스북 캡처&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘전두환 비상계엄’에 2년간 신입생 못 받은 한신대... 진실화해위 “중대한 인권침해”</title>
+      <link>https://www.chosun.com/national/national_general/2025/01/14/ACLZU2GOG5AB3KYFOZP5QCDXHU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/14/ACLZU2GOG5AB3KYFOZP5QCDXHU/</guid>
+      <dc:creator>양인성 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 14 Jan 2025 11:25:13 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZRBCPPT2YZKQ7OCZAUKXGMZJFI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;14일 오후 박선영 진실·화해를 위한 과거사 위원회(진실화해위) 위원장이 95차 위원회에서 발언하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전두환 신군부가 5·18 민주화 운동 진상규명 시위를 벌인 한국신학대학(한신대) 측에 신입생 모집 중단을 강제하고 탄압한 건 중대한 인권침해라는 국가기관의 판단이 나왔다.&lt;br&gt;&lt;br&gt;진실·화해를위한과거사정리위원회(진실화해위)는 14일 열린 제95차 위원회에서 ‘전두환 신군부의 대학의 자율성 침해사건(한신대 및 한신대 학생들)’에 대해 중대한 인권침해로 판단했다고 밝혔다.&lt;br&gt;&lt;br&gt;이 사건은 전두환 신군부가 1980년 5월 17일 비상계엄 전국 확대 조치 이후 같은 해 10월 8일 한신대 학생들이 교내에서 5·18 진상규명 시위를 벌이자 관련자들을 형사 처벌하고, 신학과 신입생 모집을 2년간 중지한 사건이다.&lt;br&gt;&lt;br&gt;이 조치로 대학 측은 1981년부터 이듬해까지 신학 교육을 임시 편성해 운영하는 등 정상적인 학사 운영이 불가능해졌다.&lt;br&gt;&lt;br&gt;당시 전두환 대통령이 엄중 조치를 지시했으며, 이에 국군보안사령부, 국무총리, 문교부 등 국가기관이 총동원됐다.&lt;br&gt;&lt;br&gt;진실화해위는 “전두환 신군부가 위법한 공권력을 행사해 헌법이 보장한 한신대와 한신대 학생들의 학문의 자유, 교육받을 권리, 교육의 자주성 및 대학의 자율성을 침해한 중대한 인권 침해 사건에 해당한다”고 판단했다.&lt;br&gt;&lt;br&gt;그러면서 국가가 한신대와 학생들에게 사과하고, 그들의 명예와 피해를 회복하기 위한 적절한 조처를 할 것을 권고했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>박상돈 천안시장, 파기환송심서 ‘징역형 집유’…당선 무효 위기</title>
+      <link>https://www.chosun.com/national/regional/2025/01/17/IH6D5HHNWZDKRBV4AFIMHX7L3U/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/01/17/IH6D5HHNWZDKRBV4AFIMHX7L3U/</guid>
+      <dc:creator>대전=우정식 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 17 Jan 2025 04:18:09 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YWJJRB7UIVM4CVGBRIUE6SW7EU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;박상돈 충남 천안시장. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;공직선거법 위반 혐의를 받는 국민의힘 소속 박상돈 충남 천안시장이 파기환송심에서 징역형의 집행유예가 선고돼 당선 무효 위기에 놓였다.&lt;br&gt;&lt;br&gt;대전고법 형사1부(재판장 박진환)는 17일 박 시장에 대한 공직선거법 위반 혐의 사건 파기환송심에서 징역 6개월에 집행유예 2년을 선고했다. 선출직 공직자는 공직선거법 위반으로 벌금 100만원 이상의 형이 확정되면 그 직을 잃는다.&lt;br&gt;&lt;br&gt;박 시장은 2022년 지방선거 당시 공무원 조직을 이용해 선거 홍보 영상물을 제작한 후 개인 유튜브에 올리는 등 선거운동을 한 혐의로 기소됐다. 또 예비 후보자 홍보물과 선거 공보물에 천안시 고용률이 전국 2위, 실업률이 전국 최저라고 기재해 허위 사실을 공표한 혐의도 받았다. 이 순위는 인구 50만명 이상의 지자체를 대상으로 한 것이었지만, 기준을 누락해 마치 전국 228개 지자체 중 순위인 것처럼 표기했다는 것이다.&lt;br&gt;&lt;br&gt;앞서 1심은 박 시장에 무죄를 선고했지만, 2심은 이를 뒤집고 징역 1년에 집행유예 2년을 선고했다. 2심은 “박 시장은 공보물에 인구 50만 기준이 누락됐다는 위법을 미필적으로나마 인식하고 있었던 것으로 보인다”며 “선거의 공정성을 도모하고 공무원들로 하여금 정치적 중립성을 준수하도록 해야 할 지자체장의 지위에 있음에도, 오히려 지위를 이용해 콘텐츠를 제작하게 해 관권선거를 조장했다”고 했다.&lt;br&gt;&lt;br&gt;하지만 작년 11월 대법원은 “미필적 고의가 있다고 하기 위해선 적어도 박 시장이 홍보물과 공보물에 대도시(인구 50만명 이상) 기준이 누락됐다는 점을 인지하고 있었어야 하는데 이를 모르고 있었다”며 “범죄사실의 발생 가능성에 대한 인식 자체가 없으므로 미필적 고의가 인정될 수 없다”며 허위사실 공표 혐의의 일부를 무죄로 봤다.&lt;br&gt;&lt;br&gt;다만 공무원 지위를 이용한 선거운동에 대한 원심의 유죄 판단은 그대로 유지했는데, 원심이 허위사실 공표 혐의까지 합쳐 하나의 형을 선고했기 때문에 원심 판결을 파기하고 사건을 대전고법에 돌려보냈다.&lt;br&gt;&lt;br&gt;파기환송심에서 2심이 선고한 징역 1년에 집행유예 2년보다는 감형됐지만, 징역형의 집행유예를 피하진 못했다.&lt;br&gt;&lt;br&gt;파기환송심 재판부는 쟁점이었던 허위 사실 공표 부분에 대해 1심과 마찬가지로 무죄를 인정했다. 선거 공보·홍보물에서 고용률과 실업률을 설명하면서 ‘50만명 대도시 기준’이 빠진 사실을 박 시장이 미필적으로 인식했을 가능성과 이 부분을 고의로 악용했을 가능성에 대해 검사가 제출한 증거만으로 충분히 입증되지 못했다고 판단했다.&lt;br&gt;&lt;br&gt;이번 파기환송심에서 박 시장의 또다른 혐의인 공무원 조직을 활용한 선거운동은 심리 대상에 제외됐다. 이미 해당 혐의에 대한 2심 선고 결과가 대법원에서 확정력을 인정받았기 때문이다.&lt;br&gt;&lt;br&gt;박 시장은 선고 후 법정 밖에서 “실체적 진실과 법리상 다소 괴리가 있는 것처럼 느껴진다. 논의해서 대법원 상고 여부 등을 검토해야 할 것 같다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>尹 체포영장 대치 6시간 째…시위대 갈등 최고조</title>
+      <link>https://www.chosun.com/national/incident/2025/01/15/E4VZA2B2UFHAXDQTMUYBUNX6SQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/01/15/E4VZA2B2UFHAXDQTMUYBUNX6SQ/</guid>
+      <dc:creator>안준현 기자, 양인성 기자, 조은서 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 14 Jan 2025 23:39:43 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JEAT53YRLNFUHI4OSMMUW3OXRY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령에 대한 2차 체포 영장 집행이 진행 중인 15일 오전 서울 용산구 한남동 관저 앞에 모인 친윤 시위대 /조은서 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;12·3 비상계엄을 수사 중인 공수처와 경찰이 15일 새벽 4시 30분부터 윤석열 대통령에 대한 2차 체포 영장 집행을 진행하는 가운데, 서울 용산구 한남동 대통령 관저 앞 친윤과 반윤 시위대 간의 갈등이 최고조에 이르고 있다.&lt;br&gt;&lt;br&gt;현재 서울 용산구 루터교회와 한남초 인근에 모여 있는 친윤 시위대는 경찰 추산 약 8700여 명이 있다. 이들은 “대통령과 함께 싸우겠다” “이재명 구속” 등을 외치고 있다. 이들 중에는 시위를 통제하는 경찰과 싸우는 이도 있었다. 집회 사회자는 “경찰과 싸우지 말라”며 말리기도 했다. 한 참가자는 “경찰이 관저 앞에 도착했다”는 기사를 보며 “이제 끝났다. 저지선이 다 뚫렸대요”라며 울먹였다.&lt;br&gt;&lt;br&gt;시간이 흐르면서 친윤 시위대 간의 내홍도 있었다. “경찰과 싸우지 말라”는 지시를 놓고 “왜 싸우면 안 되느냐”는 입장과 “싸우면 안 된다”는 입장으로 갈린 것이다. 친윤 시위대는 이날 오전 8시 36분 “윤 대통령이 관저로 나올 것”이라는 보도가 나오자 관저로 향했고, 이를 제지하던 경찰과 몸싸움을 하기도 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KY4HENON25CUBI6U54GLIZL3JQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령에 대한 2차 체포 영장 집행이 진행 중인 15일 오전 서울 용산구 한남동 관저 앞에 모인 반윤 시위대 /양인성 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;반면 한남동 관저촌 입구 옆 볼보빌딩에 250여 명(경찰 추산)이 모인 반윤 시위대는 ‘내란수괴 윤석열·특급 범죄자 김건희 측각 체포’를 외쳤다. 이들은 시위를 제지하는 경찰을 응원하면서 반윤 시위대를 향해 “체포 영장 집행 방해 말라”고 외쳤다. 관저 앞에 모인 국민의힘 의원들을 향해서도 야유를 날렸다.&lt;br&gt;&lt;br&gt;이들은 “역사적인 순간을 직관하게 됐다”며 “지긋지긋했던 윤석열, 체포되면 다시는 만날 일 없다”고 했다. 한 참가자는 “바로 구치소로 입소해라”고 외쳤다. 대통령 경호처가 준비한 1·2·3차 저지선이 연이어 뚫리고, 김성훈 경호처장과 이광우 경호본부장이 체포됐다는 보도가 나오자 환호하며 박수를 치는 이도 있었다. 이들은 노래 ‘질풍가도’ ‘힘내’ 등을 틀며 분위기를 띄웠다.&lt;br&gt;&lt;br&gt;경찰은 혹시 모를 양 진영 간의 유혈 사태에 대비해 기동대 54개 부대(약 3200여 명)를 배치했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/JEAT53YRLNFUHI4OSMMUW3OXRY.jpg?width=4032&amp;height=3024&amp;auth=0fc0643f4f90282de6cc11f5008f63e2d9cbc56c1c94bd7bfce53b93f1ba8f74&amp;smart=true" type="image/jpeg" height="3024" width="4032">
+        <media:description type="plain">윤석열 대통령의 2차 체포 영장 집행이 진행 중인 15일 오전 서울 용산구 한남동 관저 앞에 모인 친윤 시위대 /조은서 기자</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>서울 서초 방배신동아아파트, 35층 843가구 규모 단지로 재탄생</title>
+      <link>https://www.chosun.com/national/national_general/2025/01/17/GLSXIJSUERBYFPM3F3U2BHRCDM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/17/GLSXIJSUERBYFPM3F3U2BHRCDM/</guid>
+      <dc:creator>김영우 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 17 Jan 2025 04:00:47 +0000</pubDate>
+      <content:encoded>지난 1982년 지어진 방배신동아아파트가 최고 35층 높이 843가구 규모 단지로 재탄생할 전망이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JSW344RMCFCVVAGUF4TDI3J534.png"&gt;&lt;figcaption&gt;&lt;small&gt;35층 높이 843가구 규모 단지로 재건축될 예정인 방배신동아아파트의 조감도. /서울시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울시는 지난 16일 제1차 정비사업 통합심의위원회를 열고 이 같은 내용을 담은 ‘방배신동아아파트 재건축정비사업 심의안’을 통과시켰다고 17일 밝혔다.&lt;br&gt;&lt;br&gt;이번에 통과된 심의안에 따르면, 방배신동아아파트는 최고 35층 높이 843가구 규모의 단지로 재건축된다. 이 중 109가구는 임대주택이다.&lt;br&gt;&lt;br&gt;단지를 남북으로 관통하는 공공보행통로도 짓는다. 서울시 관계자는 “지역 주민들이 버스 정류장을 편리하게 이용할 수 있게 된다”고 말했다. 이외에 단지 남쪽에는 6층 높이 공공도서관도 지어질 예정이다.&lt;br&gt;&lt;br&gt;최진석 서울시 주택실장은 “앞으로도 재건축을 신속하게 추진할 수 있도록 지원하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>김성훈 경호차장 “대통령 절대 안전 위해 경호 업무 수행, 사병 폄훼 부적절”</title>
       <link>https://www.chosun.com/national/national_general/2025/01/17/PGE2QNKCZBDRNKP7E26Q5SD5RU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/17/PGE2QNKCZBDRNKP7E26Q5SD5RU/</guid>
@@ -842,123 +968,6 @@
       <description/>
       <pubDate>Thu, 16 Jan 2025 06:47:14 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FNICCK74OVL3HAFYHG3MRASRKI.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;노연홍 의료개혁특별위원회 위원장이 지난 9일 오후 서울 중구 프레스센터에서 열린 비급여 관리‧실손보험 개혁방안 정책토론회에서 인사말을 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;의료분쟁조정중재원의 ‘의료사고 감정위원단’ 풀을 기존 300명에서 1000명으로 늘리고, 사망·중상해 사건은 의료인 2명 이상이 감정위원으로 참여토록 하는 방안이 추진된다. 또 정부가 신설할 예정인 의료사고심의위원회에서 수사 당국이 확보한 의무기록과 CCTV 등을 공유하는 방안도 검토된다.&lt;br&gt;&lt;br&gt;대통령 직속 의료개혁특별위원회는 16일 ‘의료사고안전망 전문위원회’ 16차 회의를 열고 이 같은 내용을 논의했다고 밝혔다. 회의에선 의료사고 감정 절차 개선, 의료사고심의위원회 운영 등 의료사고 안전망 강화 방안이 논의됐다.&lt;br&gt;&lt;br&gt;현재 의료사고 감정 등을 맡는 의료분쟁조정중재원의 의료사고 감정단은 의료인, 법조인, 환자·소비자 등 감정위원 300명으로 구성된다. 특위는 이 위원단을 1000명 규모로 확대하고, 사망‧중상해 같은 중요 사건은 의료인 2명 이상이 감정에 참여해 신뢰성‧객관성을 높이는 방안을 구체화하고 있다고 밝혔다. 현재 의료사고 조정·중재 시 중재원에서 구성하는 ‘감정부’는 의료인인 위원장 외에 의료인 1명, 법조인 2명, 소비자 위원 1명으로 구성되는데, 법 개정을 거쳐 의료인을 2명으로 늘리겠다는 것이다. 이렇게 되면 위원장을 포함할 경우 총 6명의 위원 중 3명이 의료인이 된다.&lt;br&gt;&lt;br&gt;이날 특위는 향후 신설 예정인 의료사고심의위원회 심의 절차와 운영 방안, 법적 보호가 필요한 필수의료 범위와 중과실 중심 기소 체계 전환 방향도 논의했다. 정부, 의료계, 환자·시민사회, 법조계 등으로 구성될 의료사고심의위는 필수의료 분야 의료사고 시 의료 감정 결과를 토대로 의료진의 중대 과실 여부를 판단한다. 의사들의 필수의료 기피 원인인 사법 리스크(위험) 완화를 위한 것이다.&lt;br&gt;&lt;br&gt;의료분쟁조정중재원 산하인 ‘의료사고 감정위’의 감정 결과가 주로 민사상 분쟁 해결에 활용된다면, ‘의료사고심의위’ 심의 결과는 형사 수사·기소 과정에서 의료사고의 중대한 과실 여부를 수사기관이 판단하는 데 직접적인 참고 자료로 활용된다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/V2EL2W7HISVC4V6IANQTTOOZUI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;정경실 보건복지부 의료개혁추진단장이 작년 9월 27일 서울 종로구 정부서울청사에서 의료개혁 추진 상황을 브리핑하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;심의위는 수사기관에 사건이 접수되면, 의료분쟁조정원의 의료사고 감정 결과를 바탕으로 필수의료인지 여부와 의료진 중대 과실이 있었는지를 판단해 수사기관에 의견을 제시한다. 중대한 과실이 있는 경우에만 수사·기소가 필요하다는 의견을 내고, 단순 과실이면 배상 조정 권고, 의료진 과실이 없는 불가항력 사고는 국가 보상을 권고하는 방향이 될 것으로 보인다. 중대 과실만 책임을 묻고, 단순 과실이나 불가항력 사고는 수사·소송 등을 최소화하자는 취지다.&lt;br&gt;&lt;br&gt;특위는 이날 의료사고심의위의 심의 진행을 위해 수사 당국에 제출된 의무기록, CCTV 자료를 공유할 수 있는 방안 등도 논의했다.&lt;br&gt;&lt;br&gt;노연홍 특위 위원장은 “의료분쟁 해결의 첫걸음은 의료사고 원인과 결과에 대한 객관적이고 전문적인 조사·감정”이라며 “의료감정이 공정하고 전문적으로 진행될 때 민·형사적 조정도 원만히 해결 가능하다”고 했다. 그러면서 “공정한 의료감정 체계 구축과 함께 신속하고 효율적인 의료사고 심의 절차를 확립해 환자, 의료인 모두 장기간 민·형사 소송 없이 분쟁을 해결할 수 있는 체계를 만들어 갈 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>지난해 대구·경북 마약사범 785명 적발...146명 구속</title>
-      <link>https://www.chosun.com/national/regional/2025/01/16/F4F6URRZVFBRDDBWNBPE3A6WRA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/01/16/F4F6URRZVFBRDDBWNBPE3A6WRA/</guid>
-      <dc:creator>대구=노인호 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 16 Jan 2025 06:43:31 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/26XDBOVM2BCLVIH4QFTD726KDI.png"&gt;&lt;figcaption&gt;&lt;small&gt;어린이용 책가방 안에 장난감과 함께 숨겨진 마약류./대구지검&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대구지검 강력범죄수사부는 지난해 대구경찰청·대구본부세관과 협력해 마약사범 785명을 적발해 이중 146명을 구속했다고 16일 밝혔다. 이 과정에서 필로폰 3218g, 대마 6649g, 케타민 325g, 야바 12만9219정을 압수했다. 적발한 마약 종류는 과거부터 밀수입되던 필로폰, 대마 등 전통적인 마약류에서 야바(YABA), MDMA(엑스터시), 사일로신(환각버섯 추출 물질) 등으로 다양해졌다고 검찰 측은 밝혔다.&lt;br&gt;&lt;br&gt;지난해 대구와 경북지역으로 밀수입된 마약류 대부분은 국제우편, 국제 특송화물 등을 통해 반입됐으며, 일부는 유통책이 대구국제공항을 통해 직접 밀반입을 시도한 것으로 확인됐다&lt;br&gt;&lt;br&gt;대구지검 관계자는 “마약류의 검색 및 구입이 쉬워진데다 종전의 대면거래 방식이 아니라 SNS 등을 통해 유통 및 매매의 전 과정이 비대면으로 이뤄져 단속과 수사가 어려워지고 있다”고 말했다.&lt;br&gt;&lt;br&gt;이런 탓에 지역 내 마약사범도 큰 폭으로 늘어났다.&lt;br&gt;&lt;br&gt;대구지검에 따르면, 2023년 단속된 마약사범은 대구 1118명, 경북 1137명으로 5년 전인 2019년 대비 각각 94.4%와 83.9% 증가했다. 또 마약사범 중 10대 청소년은 2019년 5명에서 2023년 67명으로 13.4배 증가했으며, 외국인도 같은 기간 102명에서 215명으로 2.1배 증가했다.&lt;br&gt;&lt;br&gt;대구지검 관계자는 “경찰, 세관 등과 협력해 마약류의 수입·유통 구조를 원천 차단하고, 발생한 범죄에 대해서는 끝까지 추적해 엄단하는 동시에 마약 투약자의 치료·재활에도 힘을 쓰겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>서울시, 취업난에 일자리 예산 역대최대 2.7조 투입</title>
-      <link>https://www.chosun.com/national/national_general/2025/01/16/VCJTZ7Q3JNGCBFRNBHFSLUYQVQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/16/VCJTZ7Q3JNGCBFRNBHFSLUYQVQ/</guid>
-      <dc:creator>박진성 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 16 Jan 2025 06:48:52 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/M4K7ZQD36ZCQVOUGUFM5CDGM5U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난해 11월 서울 종로구 종각역 태양의정원에서 2024 서울시 일자리 박람회 '잡(JOB)다(多)'에서 구직자들이 일자리를 알아보고 있다./박성원 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울시가 올해 2조7000억원을 투입해 직·간접 일자리 41만개를 만들 계획이다. 작년보다 1000억원 늘어 역대 최대 예산이다.&lt;br&gt;&lt;br&gt;경기침체와 취업난이 이어지며 청년부터 중·장년, 취약계층까지 아우르는 일자리 대책을 만들겠다는 취지다.&lt;br&gt;&lt;br&gt;서울시는 이같은 내용의 일자리 대책을 16일 발표했다.&lt;br&gt;&lt;br&gt;41만개 목표 중 80% 가량인 33만개 일자리를 상반기 중에 공급할 방침이다. 경제 여건이 어려운 와중 노동시장 안정화를 당기겠다는 취지다.&lt;br&gt;&lt;br&gt;구체적으로 노인 일자리 9만2000개, 여성 취·창업 지원 3만개, 어린이집 보육 교직원 1만 3000개 등을 만든다.&lt;br&gt;&lt;br&gt;청년취업과 관련해서는 IT 등 직무 교육을 진행하는 ‘청년 취업사관학교’ 5곳을 올해 만들 예정이다. 청년들이 민간기업에서 인턴십을 할 수 있는 프로그램 등도 운영한다.&lt;br&gt;&lt;br&gt;한편 서울시는 일·생활 균형 조직문화, 고용 안정성, 복지 혜택이 우수한 ‘서울형 강소기업’ 50개를 새로 선정해 지원한다.&lt;br&gt;&lt;br&gt;서울형 강소기업에 선정되면 서울 거주 18∼39세 청년을 정규직으로 채용할 때 1인당 최대 1500만원씩, 기업당 3명까지 총 4500만원의 ‘근무환경개선금’을 받을 수 있다.&lt;br&gt;&lt;br&gt;취업 박람회와 면접 정장 무료 대여 사업 ‘취업날개 서비스’도 운영한다.&lt;br&gt;&lt;br&gt;서울시가 올해 시민에게 제공하는 일자리 관련 자세한 내용은 서울일자리포털에서 확인할 수 있다. 서울시 일자리센터 직업 상담사에 문의해도 된다.&lt;br&gt;&lt;br&gt;주용태 서울시 경제실장은 “청년 인재를 양성하는 동시에 어려움을 겪는 중·고령층, 소상공인의 재기를 돕는 촘촘한 고용 안전망을 마련해 일하고 싶은 시민 누구나 일할 수 있도록 지원하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>살해 후 뺏은 돈 370만원...‘파타야 살인’ 주범 무기징역</title>
-      <link>https://www.chosun.com/national/2025/01/16/VSC6PW5ARNGTTBYB62LEUJ6QOA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2025/01/16/VSC6PW5ARNGTTBYB62LEUJ6QOA/</guid>
-      <dc:creator>창원=김준호 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 16 Jan 2025 05:59:07 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BQKCBWSGA5BHLCGXJOF3EZDJJQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난해 5월 11일 태국 파타야의 한 저수지에서 태국 경찰이 시멘트로 채워진 플라스틱 드럼통을 건져 올리고 있다. 이 드럼통 안에서 한국인 관광객 A(34)씨의 시신이 나왔다. /파타야 뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;태국의 유명 휴양지 파타야에서 돈을 빼앗을 목적으로 한국인 관광객을 납치해 살해하고, 시신을 훼손한 뒤 유기한 일당에게 재판부가 중형을 선고했다. 이들이 일면식도 없는 피해자를 상대로 살인을 저지르면서 손에 넣은 돈은 370만원이었다.&lt;br&gt;&lt;br&gt;창원지법 형사4부(재판장 김인택)는 16일 오후 강도살인과 시체은닉 등의 혐의로 기소된 이모(28)씨에게 무기징역을, 김모(40)씨와 또 다른 공범 이모(27)씨에게는 각각 징역 30년과 25년을 선고했다. 이들에게는 10년간 위치추적 장치 부착도 명령했다. 앞서 검찰은 이씨와 김씨에게는 사형을, 나이가 어린 이씨에게는 무기징역을 구형했었다.&lt;br&gt;&lt;br&gt;이씨 등은 지난해 5월 3일 태국 방콕의 한 클럽에서 만난 경남에서 온 30대 한국인 관광객 A씨에게 수면제를 탄 술을 먹인 뒤 “숙소에 데려다 주겠다”며 차에 태워 납치하고, 반항하는 피해자의 목을 조르거나 폭행해 살해했다. 이후 시신을 드럼통에 넣어 파타야 소재 한 저수지에 유기한 혐의를 받는다. 특히 이씨와 김씨는 범행을 숨기기 위해 A씨의 손가락을 모두 절단한 것으로 드러났다. 또 두 사람은 A씨로부터 뺏은 휴대전화를 통해 계좌에서 370만원을 불법 이체하고, 유족에게는 이미 숨진 A씨를 마치 살해할 것처럼 협박한 후 1억원을 요구해 미수에 그친 혐의도 받는다.&lt;br&gt;&lt;br&gt;수사 결과 이씨 등은 태국에서 보이스피싱 등 불법적인 방법으로 생계를 유지해오다 기대한 것보다 수익이 나질 않자, 한국인 관광객을 대상으로 금품을 뺏는 범행을 모의했다. 이후 카카오톡 오픈 채팅방을 통해 해외여행 정보를 공유하는 한국인 관광객 중 경제적으로 여유가 있어 보이는 A씨를 범행 대상으로 정한 것으로 드러났다.&lt;br&gt;&lt;br&gt;범행 직후 이들은 태국을 떠나 도주 행각을 벌였다. 나이가 가장 어린 이씨가 지난해 5월 12일 전북 정읍에서 가장 먼저 검거됐다. 또 다른 이씨는 지난해 7월 10일 캄보디아에서 붙잡혔고, 김씨는 9월 24일 베트남에서 체포돼 국내로 송환됐다.&lt;br&gt;&lt;br&gt;재판 과정에서 이들은 혐의를 부인하거나, 공범에게 혐의가 있다고 주장하면서 책임을 회피하는 모습을 보였다. 하지만 재판부는 이들의 주장을 모두 받아들이지 않았다.&lt;br&gt;&lt;br&gt;김인택 부장판사는 “피고인들은 해외에 체류하면서 돈벌이가 여의치 않자 한국인 관광객을 상대로 금품을 강취할 것을 계획·공모해 일면식도 없는 피해자를 범행 대상으로 삼아 무자비하게 목을 조르고 구타해 사망에 이르게 했다. 폭행은 차량 이동 시간 55분간 이어졌고, 차량 천장에 피가 튈 정도 였다”면서 “범행이 발각될까 우려해 피해자 시신을 고무통에 넣고 시멘트를 발라 저수지에 빠트려 숨기기까지 했다”고 지적했다.&lt;br&gt;&lt;br&gt;이어 “피해자의 아버지는 피고인들로부터 협박받을 당시 항암치료를 받으러 가는 길이었고, 결국 지난해 11월 사망하는 등 피해자 가족들은 충격으로 외상 후 스트레스 장애에 시달리고 있다”면서 “그럼에도 피고인들은 진지한 반성은커녕 다른 피고인에게 책임을 전가하거나, 납득하기 어려운 변명으로 일관해 책임을 회피하는 태도를 보이고 있어 엄벌이 불가피하다”고 했다.&lt;br&gt;&lt;br&gt;이 판사는 이씨를 주범으로 보고 무기징역을 선고하면서 “이미 4차례나 징역형의 실형을 받은 전과가 있는데다 누범기간에 보이스피싱 범죄를 저지르러 외국으로 출국해 이 사건 범행을 저질렀다”면서 “공범들에게 범행을 제안하고 적극적으로 피해자를 물색한 점, 가장 먼저 피해자의 목을 조르고 때리는 등 강도살인 범행을 주도한 점, 피해자 사망 후 돈을 이체하고, 시신의 손가락을 절단하는 등 반사회적이고 패륜적인 성향을 보인 점 등을 봤을 때 사회로부터 영구히 격리할 필요가 있다”고 양형 이유를 밝혔다.&lt;br&gt;&lt;br&gt;재판 직후 A씨의 누나는 법정 밖 취재진 앞에서 “34살에 불과했던 동생이 죽고 나서 아버지는 충격에 밥도 제대로 못 드시다 돌아가시고 어머니는 제정신이 아니다”며 “피고인들의 형량이 끔찍하게 살해된 동생의 죽음과 비교해 충분하지 않다고 생각한다. 검사와 상의해 항소할 것이다”고 했다.&lt;br&gt;&lt;br&gt;이어 “특정중대범죄사건의 경우 재판중이더라도 피고인의 신상정보를 공개할 수 있도록 법 개정이 필요하다”고 주장했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“안내견 안 돼요” 시각장애인 출입 거부 논란에... 경주시 조사 나서</title>
-      <link>https://www.chosun.com/national/national_general/2025/01/16/V545NASLTBBA5NGXCI2XDEZQRY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/16/V545NASLTBBA5NGXCI2XDEZQRY/</guid>
-      <dc:creator>정아임 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 16 Jan 2025 06:37:29 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/A6A24PD76JGCHB5HFI4FIDF34U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;KBS 장애인 앵커 허우령씨는 지난 13일 유튜브에 올린 영상에서 경북 경주의 한 다이소 매장을 찾았다가 직원으로부터 안내견 출입을 거절당했다고 밝혔다. /유튜브 '우령의 유디오'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경북 경주의 한 다이소 매장에서 시각장애인 안내견 출입을 막아 논란이 일자, 경주시가 해당 매장을 상대로 사실관계 확인에 나섰다.&lt;br&gt;&lt;br&gt;16일 연합뉴스에 따르면 경주시는 문제가 된 매장과 본사를 대상으로 조사해 위법 사항이 확인되면 관련 법령에 따라 조처할 방침이라고 밝혔다.&lt;br&gt;&lt;br&gt;앞서 KBS 장애인 앵커이자 구독자 17만 명을 보유한 유튜버 허우령씨는 지난 13일 자신의 유튜브에 ‘제가 뭘 들은 거죠? 안내견과 온 경주에서 겪은 돌발상황’이라는 영상을 올렸다.&lt;br&gt;&lt;br&gt;영상에서 허씨는 안내견 하얀이와 함께 경주 여행을 하던 중 생활용품 판매점인 다이소 매장에 들렀다. 해당 매장의 직원은 “다른 손님 안전을 생각해야 한다”며 안내견 출입을 제지했다. 이어 “여긴 물건이 많다” “넘어질까 걱정된다”며 허씨에게 안내견을 데리고 나갈 것을 재촉했다.&lt;br&gt;&lt;br&gt;장애인복지법 제40조는 장애인 보조견이 대중교통과 공공장소에 출입하는 것을 금지할 수 없도록 규정하고 있다. 이를 위반하면 과태료 300만 원이 부과된다.&lt;br&gt;&lt;br&gt;시 관계자는 “이번 사건은 시민 인권과 장애인 권리에 대한 중요한 문제로 신속하고 철저한 조사를 통해 법적 절차를 이행할 계획”이라며 “지역 내 공공기관과 상업시설을 대상으로 장애인복지법 준수와 인권 교육을 강화하겠다”고 말했다.&lt;br&gt;&lt;br&gt;한편, 허씨는 2023년 3월 KBS 장애인 앵커 7기로 선발되어 ‘KBS뉴스12′와 ‘생활뉴스’ 코너를 맡아 진행하고 있다. 14살 때 시각장애를 갖게 된 허씨는 안내견 하얀이와 매일 출퇴근길을 함께하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘횡령·배임’ 최신원 前 SK네트웍스 회장 2심서 징역 2년 6개월...법정 구속</title>
-      <link>https://www.chosun.com/national/court_law/2025/01/16/3J3XKC6VPZDOZFLOOKLP4SV2PM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/01/16/3J3XKC6VPZDOZFLOOKLP4SV2PM/</guid>
-      <dc:creator>박강현 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 16 Jan 2025 05:48:48 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G67DVSWGHFKQZMV6VNY32D43WQ.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;'2200억대 횡령·배임' 혐의로 재판에 넘겨진 최신원 전 SK네트웍스 회장이 16일 오후 서울 서초구 서울고등법원에서 열린 항소심에 출석하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2000억원대 회삿돈을 횡령·배임한 혐의 등으로 재판에 넘겨진 최신원(73) 전 SK네트웍스 회장이 항소심에서 실형을 선고받고 법정구속됐다.&lt;br&gt;&lt;br&gt;16일 서울고법 형사13부(재판장 백강진)는 특정경제범죄 가중처벌 등에 관한 법률 위반(횡령) 등 혐의로 기소된 최 전 회장에게 1심과 같이 징역 2년 6개월을 선고하고 “증거인멸 및 도망의 우려가 있다”며 법정구속했다. 앞서 검찰은 징역 12년을 구형했다.&lt;br&gt;&lt;br&gt;재판부는 “과거로부터 우리 사회에선 기업 대주주 일가가 기업 재산을 사적으로 이용해 자신의 이익을 추구하는 것에 대해 많은 비판이 있었고, 이젠 이런 행위가 쉽게 용인되어선 안 된다는 사회적 공감대가 충분히 형성돼 있다”며 “그간 피고인이 이뤄온 사회적 및 경제적 공헌을 고려하더라도 위법 행위에 대해선 엄중한 처벌이 필요하다는 측면 또한 부인할 수 없다”고 했다. &lt;br&gt;&lt;br&gt;앞서 1심은 일부 혐의만 유죄로 인정했고, 최 전 회장에게 징역 2년 6개월의 실형을 선고하면서도 “도주 염려가 없어 보이고 증거인멸 우려가 해소됐다”며 그를 법정 구속하진 않았다. 하지만 2심 판단은 달랐다.&lt;br&gt;&lt;br&gt;법정구속 전에 하고 싶은 말이 있느냐는 재판부 질문에 최 전 회장은 “저의 잘못도 있겠지만, 선처를 할 것이라는 기대를 하고 왔다”고 항변했다. 그러나 재판부는 “피고인 말씀은 충분히 경청할 가치가 있지만, 실형을 선고했고 구속 사유가 있다고 판단했다”고 지적했다.&lt;br&gt;&lt;br&gt;함께 재판에 넘겨진 조대식 전 SK수펙스추구협의회의장, 조경목 전 SK에너지 대표이사, 안승윤 전 SK텔레시스 대표, 최모 SKC 전 경영지원본부장에 대해선 1심과 마찬가지로 무죄를 선고받았다.&lt;br&gt;&lt;br&gt;최 전 회장은 부도 위기에 처한 SK텔레시스가 2012년과 2015년 유상증자 할 당시 SKC로 하여금 총 900억원가량을 투자하도록 해 SKC에 손해를 입힌 혐의(배임)를 받는다.&lt;br&gt;&lt;br&gt;이밖에도 자신이 운영하던 회사 6곳에서 개인 골프장 사업 추진, 가족·친인척 등 허위 급여, 호텔 빌라 거주비, 개인 유상증자 대금 납부, 부실 계열사 자금 지원 등 명목으로 총 약 2235억원을 횡령·배임한 혐의를 받는다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“사비로 밥 샀다” 공무원 ‘간부 모시는 날’ 뭐길래</title>
-      <link>https://www.chosun.com/national/national_general/2025/01/16/JOA5QTXHC5AONL6E3IV2JCHX7M/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/16/JOA5QTXHC5AONL6E3IV2JCHX7M/</guid>
-      <dc:creator>김명일 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 16 Jan 2025 06:30:16 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AJ4W55VRLGZNGNHKBSAQ5KQVCM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;행정안전부 청사 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;공직 사회에서 공무원들이 순번을 정해 사비로 간부에게 식사를 대접하는 ‘간부 모시는 날’ 관행이 여전한 것으로 나타났다.&lt;br&gt;&lt;br&gt;16일 행정안전부는 작년 11월 인사혁신처와 합동으로 실시한 실태 조사 결과 최근 1년 내 간부 모시는 날을 경험한 공무원은 18.1%(중앙 10.1%, 지자체 23.9%)에 달한다고 밝혔다.&lt;br&gt;&lt;br&gt;이번 실태 조사는 공직 사회 내 불합리한 관행을 개선해야 한다는 문제 인식이 커짐에 따라, 객관적으로 현황을 파악하고 개선 방안을 마련하기 위해 추진됐다.&lt;br&gt;&lt;br&gt;중앙·지자체 공무원을 대상으로 ‘e사람’(중앙) 및 ‘인사랑’(지자체) 시스템을 통한 설문조사 방식으로 실태 조사가 이뤄졌으며, 총 15만4317명(중앙 6만4968명, 지자체 8만9349명)이 참여했다.&lt;br&gt;&lt;br&gt;전체 응답자 중 91%는 ‘간부 모시는 날’이 필요하지 않다고 답했고, 간부 모시는 날 근절을 위해서는 ‘간부 공무원의 인식 개선(37.4%)’이 필요하다고 답했다.&lt;br&gt;&lt;br&gt;‘간부 모시는 날’ 경험 빈도는 중앙행정기관의 경우 월 1~2회가 46.1%로 가장 많았고, 지자체의 경우 주 1~2회가 45.9%인 것으로 나타났다.&lt;br&gt;&lt;br&gt;간부의 직급은 부서장(과장급)이 57.0%로 가장 많았고, 간부 모시는 날이 지속되고 있는 원인으로는 ‘기존부터 지속되던 관행이기 때문(37.8%)’을 지적한 응답자가 가장 많았다.&lt;br&gt;&lt;br&gt;설문조사 결과에 따라 행정안전부는 인사혁신처·국민권익위원회와 함께 중앙·지자체 조직문화 담당 부서를 대상으로 ‘간부 모시는 날’ 근절 관련 대책회의(영상)를 개최한다고 밝혔다.&lt;br&gt;&lt;br&gt;또한, 간부 모시는 날을 신속하게 근절하기 위해 우선 기관장을 비롯한 간부들의 인식 개선을 추진하고, 계도 기간을 거쳐서 추후 다시 실태 조사를 실시할 계획이다.&lt;br&gt;&lt;br&gt;황명석 정부혁신국장은 “이번 실태 조사로 ‘간부 모시는 날’이 아직도 일부 조직에서 관행처럼 남아있는 것을 파악할 수 있었다”며 “관계 기관과 함께 현시점에 맞지 않는 잘못된 관행을 적극 개선하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>공무원 5명 중 1명 “사비로 간부에게 식사 대접” 정부 실태조사 결과 발표</title>
-      <link>https://www.chosun.com/national/national_general/2025/01/16/6HRMNX7ULFD4DPUTMUESZWPIGU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/16/6HRMNX7ULFD4DPUTMUESZWPIGU/</guid>
-      <dc:creator>최연진 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 16 Jan 2025 06:32:25 +0000</pubDate>
-      <content:encoded>공무원 5명 중 1명은 최근 1년 내 직원 사비로 간부에게 식사를 대접하는 관행인 일명 ‘간부 모시는 날’을 경험한 것으로 나타났다.&lt;br&gt;&lt;br&gt;행정안전부는 지난해 11월 인사혁신처와 공동으로 실시한 ‘간부 모시는 날’ 실태조사 분석 결과를 16일 발표했다.&lt;br&gt;&lt;br&gt;중앙행정기관 및 지방자치단체 공무원을 대상으로 조사했다. 중앙 6만4968명, 지자체 8만9349명 등 총 15만4317명의 공무원이 조사에 참여했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FI6C6Z3XKUIHPIGJFF2GPMZVUE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한 공무원 시험 학원 앞 모습./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전체 응답자 중 18.1%는 ‘최근 1년 내 간부 모시는 날을 경험한 적이 있다’고 답했다. 중앙이 10.1% 지자체 23.9%로 지자체에 간부 모시는 날 관행이 더 많이 남아있었다.&lt;br&gt;&lt;br&gt;간부 모시는 날 경험 빈도는 ‘주 1~2회’가 41.5%로 가장 많았다. 월 1~2회(40.0%), 분기별 1~2회(12.6%), 연 1~2회(5.8%)가 뒤를 이었다. 기관별로 보면 중앙은 월 1~2회(46.1%)가 가장 많았고, 지자체는 주 1~2회(45.9%)가 많았다.&lt;br&gt;&lt;br&gt;식사를 대접한 간부의 직급은 ‘부서장(과장급)’이 57.0%로 가장 많았다. 이어 국장급(33.6%), 팀장급(5.5%), 실장급 이상(3.9%) 순이다.&lt;br&gt;&lt;br&gt;간부 모시는 날 관행이 지속되는 이유에 대해서는 37.8%가 ‘기존부터 지속되던 관행이기 때문’이라고 했다. ‘간부가 인사 및 성과 평가 등의 주체이기 때문(26.2%)’, ‘대화와 소통의 기회로 삼으려는 목적(19.3%)’, ‘간부가 혼자 식사하는 것을 어려워하기 때문(12.5%)’이 뒤를 이었다.&lt;br&gt;&lt;br&gt;전체 응답자의 91%는 ‘간부 모시는 날이 필요하지 않다’고 했다. 간부 모시는 날 근절을 위해선 37.4%가 ‘간부 공무원의 인식 개선’이 필요하다고 봤다. ‘기관장의 강한 근절 의지(29.2%)’가 뒤를 이었다.&lt;br&gt;&lt;br&gt;행안부는 실태조사 결과에 따라 이날 인사처, 국민권익위원회와 함께 중앙과 지자체 조직문화 담당 부서를 대상으로 간부 모시는 날 근절 관련 대책 회의를 진행했다. 또 간부 모시는 날을 신속하게 없애기 위해 우선 기관장을 비롯한 간부들의 인식 개선을 추진하고, 계도 기간을 거쳐 추후 다시 실태 조사를 실시할 계획이다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>尹, 2차 조사 불출석...공수처 “구속영장, 적부심사 결과 보고 결정”</title>
-      <link>https://www.chosun.com/national/court_law/2025/01/16/T7NGDDQWYJALJGQ5URXBCCBUAM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/01/16/T7NGDDQWYJALJGQ5URXBCCBUAM/</guid>
-      <dc:creator>이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 16 Jan 2025 05:24:28 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XTR6B73URJNSHHEY6QGTASWEEM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;체포된 윤석열 대통령 측이 16일 고위공직자범죄수사처의 재조사에 응하지 않겠다고 밝혔다. 사진은 이날 오전 경기도 정부과천청사 공수처 앞에 마련된 포토라인./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 15일 오전 10시 33분 윤석열 대통령을 체포한 뒤 한 차례 조사한 고위공직자범죄수사처(공수처)는 16일 오후 2시 21분 “윤 대통령측은 변호인을 통해 공수처에 오후 1시 50분쯤 ‘입장에 변화가 없다’는 취지로 불출석 의사를 밝혀왔다”고 언론에 공지했다.&lt;br&gt;&lt;br&gt;공수처는 15일 오전 11시부터 오후 9시 40분까지 10시간 40분동안 윤 대통령을 조사한 뒤, 이날 오전부터 조사를 재개할 예정이었다고 앞서 밝혔다. 그러나 윤 대통령 측에서 건강상 이유를 들어 조사를 미뤄달라고 요청해 오후 2시까지 출석하라고 요구했다는 것이 공수처 설명이다.&lt;br&gt;&lt;br&gt;그러나 윤 대통령 변호인단은 이날 오전 “공수처의 2차 조사에 출석하지 않겠다”는 의사를 밝혔다. 윤갑근 변호사는 이날 “윤 대통령의 건강이 좋지 않고 어제 충분히 입장을 얘기했기 때문에 더 이상 조사받을 게 없다”고 했다.&lt;br&gt;&lt;br&gt;전날 조사에서 비상계엄의 정당성과 내란죄가 성립하지 않는 이유에 대해 개괄적 입장을 밝혔으므로 추가 조사를 받지 않겠다는 취지다.&lt;br&gt;&lt;br&gt;공수처는 이날 오전 브리핑에서 “변호인을 통해 들어온 의견은 없다”는 취지로 공지했는데, 출석을 요구한 시간을 10분가량 앞두고 불출석 의사를 밝힌 것이다.&lt;br&gt;&lt;br&gt;공수처는 오후 5시 서울중앙지법 형사32단독 소준섭 판사 심리로 체포 적부 심사가 열리는 점, 1차 조사 당시 준비한 200쪽 이상 질문을 모두 물어보지 못한 점 등을 고려해 구속영장을 바로 청구하는 등의 강수를 두지는 않을 것으로 전망된다. 공수처 관계자는 “체포 적부 심사 결과를 지켜본 뒤 향후 절차를 결정할 것”이라고 했다.&lt;br&gt;&lt;br&gt;한편, 서울중앙지법은 윤 대통령의 체포 적부 심사를 앞두고 청사 주변 보안을 강화하고 있다고 이날 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“여친이 자해했다” 거짓 신고...살인 혐의 20대 ‘무기징역’</title>
-      <link>https://www.chosun.com/national/court_law/2025/01/16/WD2I2Z73UBCRVDYVS5GJUNR47Y/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/01/16/WD2I2Z73UBCRVDYVS5GJUNR47Y/</guid>
-      <dc:creator>성남=김수언 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 16 Jan 2025 05:24:09 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FM7RFHHPM3AQSALLMNF4ATCEQU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;수원지법 성남지원. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;여자친구를 흉기로 찔러 살해한 후 “여자친구가 자해했다”고 거짓 신고를 한 혐의를 받는 20대 남성에게 16일 무기징역이 선고됐다.&lt;br&gt;&lt;br&gt;수원지법 성남지원 형사1부(재판장 허용구)는 이날 살인 등 혐의로 구속기소 된 김모(27)씨에게 무기징역을 선고하고, 20년간 위치추적 전자장치 부착을 명령했다.&lt;br&gt;&lt;br&gt;김씨는 지난해 8월 3일 오전 12시 15분쯤 경기 하남시에 있는 주거지에서 피해 여성인 20대 A씨를 흉기로 가슴 부위를 찔러 살해한 혐의를 받는다.&lt;br&gt;&lt;br&gt;김씨는 당시 “여자친구가 칼로 가슴을 찔러 자해했다”고 신고했다. A씨는 현장에 출동한 구급대원에 의해 인근 병원으로 옮겨졌으나 결국 숨졌다. A씨에 대한 부검결과, 타살 의심 소견이 나오자 경찰은 김씨를 체포했다. 김씨는 혐의를 부인했으나, 검찰은 살해 혐의를 적용해 그를 재판에 넘겼다.&lt;br&gt;&lt;br&gt;이날 재판부는 “피고인은 19일간 교제하던 피해자와 말다툼하다가 피해자의 가슴을 흉기로 강하게 찔러 그 자리에서 사망하게 했다”고 판시했다. 이어 “살해 과정이 일반인이 상상하기 어려울 정도로 잔혹하다”며 “이런데도 피고인은 범행 후 정상적인 생활을 영위하고 새 여성을 만나기도 해 죄질이 나쁘고 사회적 비난 가능성이 매우 크다”고 했다.&lt;br&gt;&lt;br&gt;다만 “폭력 관련한 처벌 전력이 없는 점, 이 사건 전 우울증 치료 병력이 있는 점 등은 유리한 정상으로 고려했다”고 했다.&lt;br&gt;&lt;br&gt;재판부는 “피고인은 술에 취해 당시 상황이 기억나지 않는다고 진술하면서도 유리한 정황에 대해서는 이해할 수 없는 주장을 반복하며 혐의를 부인하고, 자신의 잘못을 전혀 반성하지 않고 죄책감도 나타내지 않고 있다”며 “모든 양형 사정을 종합해보면 평생 잘못을 참회하고 속죄하는 마음으로 수감생활을 하도록 하는 것이 타당하다”고 판시했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>동방신기 출신 김준수 협박해 8억 뜯은 여성 BJ에 징역 7년 구형</title>
-      <link>https://www.chosun.com/national/national_general/2025/01/16/YQYXB5SL5JDADJBQLY33547CDQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/16/YQYXB5SL5JDADJBQLY33547CDQ/</guid>
-      <dc:creator>김명일 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 16 Jan 2025 05:10:56 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7LESUH6GNZPUDA7SEM2YHTIERM.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;가수 김준수. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그룹 동방신기 출신 가수 겸 뮤지컬 배우 김준수(과거 활동명 시아준수)를 협박해 8억원 상당의 금품을 가로챈 온라인 동영상 플랫폼 숲(옛 아프리카TV) 여성 BJ에게 검찰이 징역 7년을 구형했다.&lt;br&gt;&lt;br&gt;16일 의정부지법 제11형사부(오창섭 부장판사) 심리로 진행된 재판에서 검찰은 특정경제범죄가중처벌법상 공갈 혐의로 구속기소 된 30대 여성 A씨에 대해 징역 7년을 선고해달라고 재판부에 요청했다.&lt;br&gt;&lt;br&gt;검찰은 공소사실에서 “피고인은 소셜미디어로 피해자를 협박하며 돈을 요구하는 방법으로 피해자로부터 총 101회에 걸쳐 합계 약 8억4000만원을 갈취했다”고 설명했다.&lt;br&gt;&lt;br&gt;A씨 측 변호인은 “A씨가 프로포폴에 중독돼 이성적 판단 능력이 떨어졌다”며 “이 사건 공소사실을 모두 인정하고 깊이 반성하고 있다”고 했다.&lt;br&gt;&lt;br&gt;A씨는 지난 2019년 김준수를 알게 된 뒤 그와의 대화 및 음성을 녹음해왔다. 이후 해당 녹음 파일을 온라인에 유포할 것처럼 협박하고 이를 막는 대가로 김준수에게서 금품을 받은 것으로 알려졌다.&lt;br&gt;&lt;br&gt;김준수 소속사 팜트리아일랜드는 사건이 알려진 후 입장문을 통해 “A씨가 ‘연예인은 사실이 아닌 기사 하나만 나와도 이미지가 실추된다. 자신은 잃을 것이 없다’고 협박을 했다”며 “이번 사건에서 김준수는 명백한 피해자임을 분명히 말씀드린다”고 밝혔다.&lt;br&gt;&lt;br&gt;A씨에 대한 선고공판은 2월 6일 열릴 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[속보] 법원, 尹 체포적부심 심사 앞두고 청사 보안 강화</title>
-      <link>https://www.chosun.com/national/court_law/2025/01/16/OA5LFU7TGFGB7C7SLFAVYYFHDU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/01/16/OA5LFU7TGFGB7C7SLFAVYYFHDU/</guid>
-      <dc:creator>박혜연 기자, 박강현 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 16 Jan 2025 04:43:05 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/E3BFXN2F2RYBZN26DOJBLEWCUM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울중앙지법 전경./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 대통령이 고위공직자범죄수사처(공수처)의 체포 영장 발부·집행이 부당하다며 낸 체포 적부(適否)심 심문이 16일 오후 5시 서울중앙지법에서 열리는 가운데 서울중앙지법·서울고법 등이 있는 서울법원종합청사가 이를 앞두고 법정 보안을 강화한다.&lt;br&gt;&lt;br&gt;서울고법은 이날 법원 청사 인근에 인파가 몰릴 가능성에 대비해 오후 1시 반부터 출입문 보안을 보강하고 본관에 출입할 시 검문·검색을 강화한다고 16일 밝혔다. 또 오후엔 일부 출입구가 폐쇄될 예정이라 차량을 이용한 방문 자제도 요청했다. 그러면서 “구체적인 내용은 피의자 출석 여부에 따라 변동될 수 있다”고 설명했다.&lt;br&gt;&lt;br&gt;앞서 서울중앙지법은 윤 대통령이 낸 체포 적부 심사를 형사32단독 소준섭 판사에 배당하고 심리에 착수했다고 밝혔다. 체포 적부 심사란 체포·구속 영장의 발부가 법률에 위반되는 등의 경우 기소 전 관할 법원에 심사를 청구할 수 있는 제도로 윤 대통령 측은 전날 밤 서울중앙지법에 심사를 청구했다.&lt;br&gt;&lt;br&gt;윤 대통령 측은 공수처가 당초 중앙지법이 아닌 서울서부지법에 체포 영장을 청구해 발부 받은 것은 전속관할권 위반이고, 공수처에 내란죄 수사권도 없는 만큼 체포 영장이 불법·무효라고 주장하고 있다.&lt;br&gt;&lt;br&gt;법원은 청구가 접수된 뒤 48시간 이내 심문해야 하고, 윤 대통령이 이미 헌법재판소에서 탄핵심판을 받고 있는 점 등을 고려해 신속하게 심문 일정을 잡은 것으로 풀이된다. 소 판사는 이날 심사를 진행하고 윤 대통령 체포의 필요성, 적법성 등을 따져볼 것으로 보인다. 심문 이후 24시간 내 석방 여부를 결정해야 해 내일 결과가 나올 전망이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘총수 일가 골프장 일감 몰아주기’ 미래에셋 계열사들, 1심서 무죄</title>
-      <link>https://www.chosun.com/national/court_law/2025/01/16/QTA5OZHA55FMBCXYHMDXAYBEIM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/01/16/QTA5OZHA55FMBCXYHMDXAYBEIM/</guid>
-      <dc:creator>박강현 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 16 Jan 2025 04:17:01 +0000</pubDate>
-      <content:encoded>총수 일가가 운영하는 골프장에 일감을 몰아준 혐의로 기소된 미래에셋그룹 계열사들이 1심에서 무죄를 선고받았다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3FTGPTVCXJGOPCYLMP3UYTQ3YI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울중앙지법. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;16일 서울중앙지법 형사15단독 현경훈 판사는 독점규제 및 공정거래에 관한 법률 위반 혐의로 재판에 넘겨진 미래에셋자산운용과 미래에셋생명보험에게 각각 무죄를 선고했다.&lt;br&gt;&lt;br&gt;현 판사는 “골프장 거래로 인해 미래에셋컨설팅에 매출액이 발생하고 결과적으로 이익이 귀속된 사실은 인정된다”면서도 “수익의 극대화 방식을 취하지 않고 거래를 통해 매출이 발생한 사실만 놓고 특수관계인에게 부당이익을 귀속시키려 했다는 의도로 보기 어렵다”고 판단했다.&lt;br&gt;&lt;br&gt;미래에셋자산운용과 미래에셋생명보험은 지난 2015년 1월부터 2016년 12월까지 박현주 회장 일가가 지분 91.86%를 보유한 미래에셋컨설팅이 운영하는 골프장에 가격이나 거래조건 등에 관한 합리적 고려나 다른 사업자와의 비교 없이 거래를 몰아준 혐의를 받는다. &lt;br&gt;&lt;br&gt;검찰은 약 240억원 상당의 이익을 해당 골프장에 몰아준 것으로 파악해 당초 미래에셋자산운용과 미래에셋생명보험을 공정거래법 위반 혐의로 각각 벌금 3000만원에 처해달라며 약식기소했고, 법원도 벌금 3000만원의 약식명령을 내렸다. 그러나 미래에셋 측이 불복하고 정식재판을 청구해 재판이 시작됐다.&lt;br&gt;&lt;br&gt;앞서 공정거래위원회는 2020년 5월 이 같은 부당 내부거래 행위에 대한 시정 명령을 내리고, 미래에셋자산운용에 6억400만원, 미래에셋생명보험에 5억5700만원 등의 과징금 처분을 내리기도 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>보건의료인 꿈꾸던 17세 고교생, 5명에 새 삶 주고 하늘로</title>
-      <link>https://www.chosun.com/national/national_general/2025/01/16/TA6JFTIBBNGMXGHILNXUZS6UE4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/16/TA6JFTIBBNGMXGHILNXUZS6UE4/</guid>
-      <dc:creator>정아임 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 16 Jan 2025 02:29:15 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ECHNPPR7TRB7NEHCQGZ4KXBK2A.png"&gt;&lt;figcaption&gt;&lt;small&gt;고(故) 엄태웅 군./울산대병원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;뇌사 상태에 빠진 고교생이 장기 기증으로 5명에게 생명을 나눠주고 하늘로 떠났다.&lt;br&gt;&lt;br&gt;16일 울산대학교병원에 따르면 효청보건고 학생 엄태웅(17)군은 지난 5일 뇌출혈로 갑자기 쓰러졌다.&lt;br&gt;&lt;br&gt;경북 포항의 한 병원에서 치료받던 엄군은 지난 7일 울산대병원으로 옮긴 지 이틀 뒤인 9일 뇌사 상태에 빠졌다. 이후 의료진으로부터 회복이 어렵다는 판단을 받았다. 이에 엄군의 부모는 아들의 생전 뜻에 따라 장기 기증을 결정했다.&lt;br&gt;&lt;br&gt;엄군은 보건 계열로 장래를 희망했던 만큼 장기 기증에 관심이 많았고, 가족에게 장기 기증 뜻을 여러 차례 한 것으로 전해졌다. 엄군은 심장, 폐, 간, 좌우 신장 등 5개 장기를 기증했고, 피부 등 조직도 기증했다.&lt;br&gt;&lt;br&gt;엄군 부모는 “아이가 평소 장기 기증에 대해 강한 의지를 보여주었고 우리도 그 뜻을 존중하기로 했다”며 “사랑하는 자녀를 볼 수도 만질 수도 없지만 다른 이들의 몸에서 아이가 살아 숨 쉬고 있다는 사실이 큰 위로가 될 것”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>중앙지법, 尹 체포적부심 오후 5시 심사...이르면 내일 석방 여부 결정  </title>
