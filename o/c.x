@@ -13,6 +13,48 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>[속보] 尹 대통령 영장실질심사 6시 50분 종료</title>
+      <link>https://www.chosun.com/national/court_law/2025/01/18/BM56XTFZAFBPBLZCNKQHU463RA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/01/18/BM56XTFZAFBPBLZCNKQHU463RA/</guid>
+      <dc:creator>유종헌 기자, 고유찬 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 18 Jan 2025 09:54:40 +0000</pubDate>
+      <content:encoded>윤석열 대통령의 구속 여부를 결정할 영장실질심사가 18일 오후 6시 50분 종료됐다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SPO2ECOFOV4SLDKGBS5KB4H3RQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령이 탄 법무부 호송차량이 18일 경기 서울 의왕구치소를 나서 서울서부지법으로 향하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 서울서부지법 차은경 부장판사 심리로 열린 윤 대통령 영장실질심사는 오후 2시 8분쯤 시작해 휴정 시간 포함 약 4시간 42분간 진행됐다. 고위공직자범죄수사처(공수처) 검사와 윤 대통령 변호인단은 비상계엄 선포가 내란죄에 해당하는지, 윤 대통령에게 도주와 증거인멸 우려 등 구속 사유가 있는지 등을 놓고 치열하게 맞붙었다. &lt;br&gt;&lt;br&gt;윤 대통령도 이날 영장실질심사에 참여했다. 윤 대통령은 오후 4시 35분쯤 직접 발언 기회를 얻어 40분간 발언했고, 심사 종료 전에도 5분 간 직접 최종 발언을 했다고 윤 대통령 측 석동현 변호사는 전했다.&lt;br&gt;&lt;br&gt;이 사건 주임검사인 차정현 부장검사 등 공수처 검사 6명은 심사 종료 직후 아무 말 없이 법정을 떠났다.&lt;br&gt;&lt;br&gt;윤 대통령 측 윤갑근 변호사는 “사실관계나 증거, 법리 문제에 대해 성실하게 설명하고 답변했다”면서 “재판부의 결정을 기다리겠다”고 했다. &lt;br&gt;&lt;br&gt;영장실질심사 결과는 이르면 이날 밤 나올 전망이다. 윤 대통령은 결과가 나올 때까지 서울구치소에서 대기한다. &lt;br&gt;&lt;br&gt;구속영장이 기각되면 윤 대통령은 즉시 석방된다. 반면 영장이 발부되면 정식으로 구치소 입소 절차를 밟아 기소 전까지 최장 20일간 수감된다. &lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/TGSGH4D23BEZREA2APC5REXLXA.gif?width=1400&amp;height=808&amp;auth=f5987ec6a44d025e6623614a39c43eeca17a9f2dbc62bf4524308b5724fb613b&amp;smart=true" type="image/jpeg" height="808" width="1400">
+        <media:description type="plain">서부지법-gif4</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>서부지법 담 넘어 들어온 尹 지지자 17명 현행범 체포</title>
+      <link>https://www.chosun.com/national/national_general/2025/01/18/F2G6EVEX7NFITN3IEJEFVQCHOE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/18/F2G6EVEX7NFITN3IEJEFVQCHOE/</guid>
+      <dc:creator>고유찬 기자, 양인성 기자, 서일원 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 18 Jan 2025 08:44:52 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AXTJXJXR4FFXHBCYSEZ6O6PKG4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령을 지지하는 남성 1명이 윤 대통령에 대한 구속 전 피의자 심문(영장실질심사)가 진행 중인 서울서부지법 담장을 넘어 침입했다가 경찰에 현행범으로 체포됐다. /양인성 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 대통령 지지자로 추정되는 시위대 17명이 윤 대통령에 대한 구속 전 피의자 심문(영장실질심사)가 진행 중인 서울서부지법 담장을 넘어 침입하다가 경찰에 현행범으로 체포됐다.&lt;br&gt;&lt;br&gt;18일 서울 마포경찰서는 이날 오후 5시 26분쯤 서울 마포구 서울서부지법 인근에서 남성 1명을 건조물침입 혐의로 체포했다고 밝혔다. 이 남성은 서부지법 후문 쪽 담벼락을 넘어 법원으로 진입하려다 현행범으로 체포됐다. 이 남성은 경찰에 끌려나가며 취재진을 향해 “빨갱이를 처단하겠다”며 “나라가 절체절명의 위기에 빠졌다”고 소리쳤다.&lt;br&gt;&lt;br&gt;오후 6시쯤에는 역시 담을 넘어 법원 내부로 진입하려던 남성 14명과 여성 2명 등 16명이 경찰에 붙잡혀 추가로 연행됐다. 이들 중 2명은 “압사할 것 같아 담을 넘었다”고 경찰에 진술했고, 1명은 “뒤에서 밀어서 담을 넘었다”고 했다. 경찰이 이들을 한 곳에 집합시키는 과정에서 남성 1명이 도주를 시도하다가 경찰에 다시 붙잡히기도 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GGOYKKWEM5G5FCFUDU23A54VDM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;18일 오후 서울 마포구 서울서부지법 인근에서 월담을 시도한 남성이 경찰에 현행범으로 체포되고 있다. /서일원 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 오후 5시 기준 서울 마포구 서부지법 일대에는 경찰 비공식 추산 4만여 명이 모였다. 이들 시위대는 오후 3시쯤부터는 서울 지하철 2호선 아현역에서 마포경찰서에 이르는 마포대로 약 1㎞ 구역 10개 차로를 모두 점거하고 시위를 이어가고 있다. “위조 공문” “불법 체포” “윤석열을 즉각 석방하라” “탄핵 무효” 등의 구호를 외치고 있다.&lt;br&gt;&lt;br&gt;일부 시위대는 경찰 저지선을 뚫고 법원 정문 진입을 시도하고 있다. 이들은 “법원 정문을 열어라”, “내가 대통령 얼굴을 봐야겠다”며 법원을 향해 소리치기도 했다. 경찰은 시위대가 법원 내부로 난입할 것을 대비해 법원 안에 철제 펜스 등을 설치하고 경비를 강화한 상태다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/H5XFWRA5GBGURDHT6KHFEX6IJI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;18일 오후 서울 마포구 서울서부지법 인근에서 일부 시위대가 월담을 시도하고 있다. /양인성 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PVISTNYTSJBBHNYP7QGGKNWNFQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;18일 오후 서울 마포구 서울서부지법 인근에서 월담을 시도하다 현행범으로 체포된 시위대. /양인성 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>경찰, ‘尹 체포적부심 기각 판사 살해’ 협박글 작성자 검거</title>
+      <link>https://www.chosun.com/national/national_general/2025/01/18/6CCYZVQNDVBUDG6TLR5LPPMBNI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/18/6CCYZVQNDVBUDG6TLR5LPPMBNI/</guid>
+      <dc:creator>고유찬 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 18 Jan 2025 08:39:03 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/X4WX55AXSBGOJAEPHUXGIU3CIA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 마크. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 대통령의 체포적부심사 청구를 기각한 판사를 살해하겠다는 글을 올린 네티즌이 경찰에 검거됐다.&lt;br&gt;&lt;br&gt;18일 서울경찰청 사이버수사대는 소준섭 서울중앙지법 현사32단독 판사를 살해하겠다는 협박 글을 올린 피의자를 검거해 수사하고 있다고 밝혔다.&lt;br&gt;&lt;br&gt;피의자는 17일 변호사를 통해 경찰에 자수 의사를 표시했고, 18일 자진 출석한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰은 지난 16일 밤 11시 42분쯤 온라인 커뮤니티 디시인사이드의 ‘국민의힘 마이너 갤러리’에는 ‘소준섭 (판사) 출퇴근길에 잡히면 참수한다’는 제목의 글이 올라오면서 수사에 나섰다.&lt;br&gt;&lt;br&gt;이 게시글이 올라온 직후 서울 금천경찰서 112치안종합상황실에 협박 글이 올라왔다는 신고가 접수됐다.&lt;br&gt;&lt;br&gt;서울경찰청 사이버수사대는 금철경찰서의 초동 조치가 마무리된 뒤 사건을 넘겨받아 조사를 이어왔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>尹, 영장실질심사서 40분간 직접 발언...휴정 뒤 5시 40분 재개</title>
+      <link>https://www.chosun.com/national/court_law/2025/01/18/3EYNFHD2UZEPVLY3EXVDKCH2AU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/01/18/3EYNFHD2UZEPVLY3EXVDKCH2AU/</guid>
+      <dc:creator>유종헌 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 18 Jan 2025 08:33:06 +0000</pubDate>
+      <content:encoded>윤석열 대통령이 18일 영장실질심사에서 발언기회를 얻어 40분간 직접 발언했다. 오후 2시 8분쯤 시작된 영장실질심사는 5시 20분부터 20분 간 휴정한 뒤 5시 40분 재개됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/W3VLQFKV7HLQCTV745AZJQ3Y6M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령이 탑승한 호송차량이 18일 오후 서울 마포구 서울서부지방법원에 도착하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 서울서부지법 차은경 부장판사 심리로 열린 윤 대통령 영장실질심사에서 공수처와 윤 대통령 변호인단은 비상계엄의 내란죄 성립 여부, 윤 대통령 구속 필요성 등을 놓고 치열하게 맞붙었다.&lt;br&gt;&lt;br&gt;먼저 공수처에서 사건 주임검사인 차정현 부장검사 등이 2시 15분부터 70분에 걸쳐 PPT로 윤 대통령 구속영장이 발부돼야 한다고 주장했다. 차 부장검사는 비상계엄 이후 윤 대통령의 발언 등에 비춰봤을 때 탄핵심판이 기각되면 윤 대통령이 다시 비상계엄을 선포하는 등 재범할 우려가 있다고 강조한 것으로 알려졌다. 또 윤 대통령이 비상계엄 전 텔레그램을 탈퇴하고 휴대전화를 바꾼 점, 1차 체포영장 집행 당시 윤 대통령이 탄 것으로 추정되는 차량이 다른 공관으로 이동한 정황이 포착된 점 등을 들어 증거인멸과 도주 우려가 있다고 밝힌 것으로 알려졌다.&lt;br&gt;&lt;br&gt;윤 대통령 측 김홍일·송해은 변호사는 3시 25분부터 약 70분간 PPT로 공수처 주장을 반박했다. 변호인단은 비상계엄은 대통령의 고유권한이어서 사법 심사의 대상이 될 수 없고, 공수처는 내란죄 수사권도 없다고 강조한 것으로 알려졌다. 변호인단은 또 윤 대통령이 현직 대통령이고 주거가 일정해 도주 우려가 없고, 주요 사건 관계인이 대부분 구속 상태여서 증거인멸 우려도 없다는 입장이다.&lt;br&gt;&lt;br&gt;윤 대통령은 4시 35분쯤 발언 기회를 얻어 직접 변론에 나섰다. 윤 대통령은 40분간 비상계엄을 선포한 이유와 이를 내란죄로 처벌할 수 없다는 입장을 밝힌 것으로 전해졌다.&lt;br&gt;&lt;br&gt;영장실질심사는 차 부장판사의 요청으로 5시 20분부터 약 20분간 휴정했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/TGSGH4D23BEZREA2APC5REXLXA.gif?width=1400&amp;height=808&amp;auth=f5987ec6a44d025e6623614a39c43eeca17a9f2dbc62bf4524308b5724fb613b&amp;smart=true" type="image/jpeg" height="808" width="1400">
+        <media:description type="plain">서부지법-gif4</media:description>
+      </media:content>
+    </item>
+    <item>
       <title>尹지지자 마포대로 10차로 점거… 광화문집회도 “서부지법 가자”</title>
       <link>https://www.chosun.com/national/national_general/2025/01/18/7TIZKELOYBAA5M4QU7UZSHZKNM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/18/7TIZKELOYBAA5M4QU7UZSHZKNM/</guid>
@@ -881,28 +923,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RHLNXJRIOFC2FJWOIVXSD63NRY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령의 탄핵심판 2차 변론기일인 2025년 1월 16일 국회탄핵소추위원단장인 정청래 국회법사위원장 등 국회탄핵소위원들이 서울 종로구 헌법재판소 심판정으로 들어가고 있다./김지호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국회가 내란죄를 탄핵소추 사유에서 철회한 것을 두고 정청래 법제사법위원장이 검찰에 고발됐다.&lt;br&gt;&lt;br&gt;서민민생대책위원회(서민위)는 지난 16일 정 위원장을 직권남용·업무방해 혐의로 서울남부지검에 고발했다고 17일 밝혔다.&lt;br&gt;&lt;br&gt;이날 본지가 입수한 고발장에서 서민위는 “이달 열린 탄핵소추 심의에서 정 위원장은 탄핵소추 표결에서 가장 중요하게 다룬 ‘내란죄’ 부분을 뺐다“며 ”이는 본회의 표결에 참여한 여야 국회의원을 기만하고, 중요한 사항에 대해 권리를 이양한 국민의 주권을 침해한 직권남용에 해당한다”고 했다.&lt;br&gt;&lt;br&gt;지난 3일 헌재에서 열린 윤 대통령의 탄핵 심판 두 번째 변론 준비 기일에서 국회 측 대리인단은 “내란죄를 탄핵소추 사유에서 철회하겠다”며 “내란 혐의의 유무죄 판단은 형사 법정에서 진행되고 입증될 것”이라고 했다. 고위공직자범죄수사처가 수사 중인 윤 대통령의 내란 혐의를 탄핵 사유에서 빼고, 비상계엄의 헌법 위반 여부에만 집중해 탄핵 심판 심리를 신속하게 진행하겠다는 취지다. 국회가 지난달 14일 통과시킨 윤 대통령 탄핵소추 의결서에는 탄핵소추의 핵심 사유로 내란죄가 명시됐다. 이에 윤 대통령 측은 “이번 탄핵 심판은 내란죄 성립을 토대로 한 것인데, 내란죄가 성립되지 않는다면 탄핵소추 자체가 잘못된 것”이라며 반발했다.&lt;br&gt;&lt;br&gt;또 서민위는 ”정 위원장은 그동안 헌법재판소 재판관을 제때 임명하지 않아 신속하고 공정한 재판을 추구하는 헌법재판소의 업무를 방해했다”면서 업무방해 혐의에 대한 수사도 요청했다. 지난해 3명의 헌법 재판관이 퇴임을 앞두고도 더불어민주당이 “다수당이 재판관 2명을 추천해야 한다”고 주장해 재판관 선출이 미뤄졌다. 당시 퇴임을 앞뒀던 이종석 헌재소장과 이영진·김기영 재판관의 후임은 국회가 선출해야 할 몫이었다. 통상 여야가 1명씩 추천하고 나머지 1명은 여야 합의를 통해 선출해왔지만, 민주당이 관행을 깨는 주장을 했던 것이다. 세 명의 재판관이 퇴임한 후 6인 체제를 지속하던 헌법재판소는 해를 넘긴 지난 2일 조한창·정계선 재판관이 취임함으로써 종전 ‘6인 체제’에서 ‘8인 체제’가 됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[오늘의 운세]  1월 18일 토요일 (음력 12월 19일 丁亥)</title>
-      <link>https://www.chosun.com/national/national_general/2025/01/17/PLRQOF7FHNHTFPZ73XRQSWFMRU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/17/PLRQOF7FHNHTFPZ73XRQSWFMRU/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Fri, 17 Jan 2025 08:00:00 +0000</pubDate>
-      <content:encoded>&lt;p&gt;&lt;div class="chosun_unse"&gt;&lt;iframe src="https://image.chosun.com/arc/unse_iframe.html" frameborder="0" scrolling="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;style&gt;.chosun_unse{position:relative;width:100%;height:350px;box-sizing:border-box}.chosun_unse&gt;iframe{position:absolute;top:0;left:0;width:100%;height:100%;overflow-y:hidden}@media all and (max-width:1024px){.chosun_unse{height:350px}}@media all and (max-width:1023px){.chosun_unse{height:350px}}@media all and (max-width:528px){.chosun_unse{height:270px}}@media all and (max-width:384px){.chosun_unse{height:190px}}&lt;/style&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;p&gt;&lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani01.gif"&gt;  	&amp;nbsp;	36년생 성격 조급하면 구설수 예상. 48년생 선택 기로에서 생각 많을 수밖에. 60년생 이것저것 따지지 말고 우직하게 밀고 가는 게 답. 72년생 합리적 판단과 객관성 유지하라. 84년생 자존심 버리고 유연하게 대처하라. 96년생 눈에 보이지 않는 것에도 관심과 애정을.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt;  &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani02.gif"&gt;	&amp;nbsp;	37년생 행복 다할 때까진 행복 모르는 법. 49년생 다방면의 사람과 교류해보면 좋을 듯. 61년생 난관 만났다면 해답은 배우자에게. 73년생 숫자 2, 7과 붉은색은 행운 부른다. 85년생 내가 안 변하고서 남 변화시킬 수 있을까. 97년생 예의는 언제나 누구에게나 한결같아야.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani03.gif"&gt;	&amp;nbsp;	38년생 잃으면 얻고 얻으면 잃는 것이 인생살이. 50년생 바람 등진 백로 날갯짓이 수월하다. 62년생 소비 지출 심한 시기, 절약과 절제가 필요. 74년생 마음처럼 간사한 게 있을까. 86년생 다른 분야에 눈 돌려봐도 나쁘지 않을 듯. 98년생 분수 알면 윗사람에게 신임 얻는다.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani04.gif"&gt;	&amp;nbsp;	27년생 각오와 다짐 새롭게 하라. 39년생 여유롭되 느슨하진 말아야. 51년생 사람 관계에 권태기 느낄 수도. 63년생 오늘을 지배하면 내일은 내 세상. 75년생 옷차림도 마음가짐만큼 중요. 87년생 입이 밥 빌지 밥이 입 빌러 올까. 99년생 양띠와 협력은 결실 크다.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani05.gif"&gt;	&amp;nbsp;	28년생 상처 주지 않는 것이 사람에 대한 예의. 40년생 성과는 아랫사람에게 돌리라. 52년생 뒤끝이 무르면 결과가 반토막. 64년생 미리 생각하고 대비하라. 76년생 소문에 비해 실속 없다. 88년생 안달 나도 꾹 참고 기다려라. 00년생 흡족도 아니고 부족도 아니고.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani06.gif"&gt;	&amp;nbsp;	29년생 득실(得失)은 가족 간에도 있는 법. 41년생 오랜 벗일수록 경계 늦추지 마라. 53년생 매사가 순조로울 듯. 65년생 능력에 비해 과분한 목표는 옳지 않다. 77년생 반성하되 자학은 마라. 89년생 칭찬할 일 있으면 공개적으로 하라. 01년생 묵묵히 조금씩 개선해 가도록.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani07.gif"&gt;	&amp;nbsp;	30년생 고독해 봐야 더불어 사는 법을 안다. 42년생 가면 뒤 진실을 살필 줄 알아야. 54년생 이해를 구하였으나 오해를 샀구나. 66년생 경험과 연륜은 못 속이는 법. 78년생 의중 파악 전까진 거리 유지하도록. 90년생 신중하기를 태산처럼. 02년생 의지와 열정이 밑천이다.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani08.gif"&gt;	&amp;nbsp;	31년생 양손에 떡을 쥐었구나. 43년생 부탁할 일이 있다면 지금이 기회. 55년생 겸손에서 덕(德)이 생긴다. 67년생 운기가 좋으니 무리 없이 성사될 듯. 79년생 봉사 활동에 수고로움을 아끼지 마라. 91년생 내 삶 바꿀 수 있는 건 바로 나 자신. 03년생 애정운은 상승.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani09.gif"&gt;	&amp;nbsp;	32년생 불화는 재앙의 씨앗, 양보가 필요. 44년생 한적한 곳보다 번화한 곳이 유리. 56년생 작은 명예는 있을 듯. 68년생 타협과 협상이 필요한 시점. 80년생 입이 아닌 실천으로 말하라. 92년생 수입보다 지출이 많은 시기. 04년생 시도해보지 않았다면 단정도 짓지 마라.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani10.gif"&gt;	&amp;nbsp;	33년생 임기응변으론 문제 해결 어렵다. 45년생 질환은 북쪽 의사에게 진료. 57년생 부질없는 생각 말고 잠시 한가로움을 만끽하라. 69년생 여리고 소심한 성향 나타날 수도. 81년생 주관과 고집 없으면 휩쓸리기 쉬운 하루. 93년생 연합과 동조로 지원군 확보해야.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani11.gif"&gt;	&amp;nbsp;	34년생 사람은 추억을 먹고 산다 했던가. 46년생 지금 바로 시행하지 않으면 기회는 날아갈 수도. 58년생 곪은 환부면 아프더라도 과감하게 짜내야. 70년생 자존심 버리고 주위 사람에게 도움 청하라. 82년생 지금 포기는 다 된 밥에 김 빼는 격. 94년생 조심스러운 진행은 후환이 없다.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani12.gif"&gt;	&amp;nbsp;	35년생 근·골격계 질환 주의. 47년생 금전 문제로 갈등 겪을 수 있으니 슬기롭게 대처하라. 59년생 복은 검소함에서 생김을 명심. 71년생 화해와 용서 할 수 있어야 진정한 강자. 83년생 내면적 갈등 일어날 수 있는 시기. 95년생 투자는 시기상조 여유 갖고 검토하라.	&lt;br&gt;
-&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;한소평 금오산방 강주  &lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;	&lt;/p&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/4MTFRYWHBJA7XOKKF7G7JPLX5U.png?width=800&amp;height=420&amp;auth=4651b5b20b5d4901424204d1456faee02e4b064ff509db23945deabf4404c8ef&amp;smart=true" type="image/png" height="420" width="800"/>
-    </item>
-    <item>
       <title>하반신 마비 박위, 두 발로 우뚝 일어섰다...무슨 일?</title>
       <link>https://www.chosun.com/national/people/2025/01/17/IGQPO7E7HREDRPQJYTHOPFP2UA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/people/2025/01/17/IGQPO7E7HREDRPQJYTHOPFP2UA/</guid>
@@ -914,15 +934,6 @@
         <media:description type="plain">유튜버 박위가 스스로 일어서 걷는 영상을 공개했다./인스타그램</media:description>
         <media:credit role="author" scheme="urn:ebu"/>
       </media:content>
-    </item>
-    <item>
-      <title>‘여학생 감금·성폭행’ 라이브방송도 한 고교생...2심도 중형</title>
-      <link>https://www.chosun.com/national/regional/2025/01/17/3OY4GGYU2VB35EAVRC5ZKAWRSU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/01/17/3OY4GGYU2VB35EAVRC5ZKAWRSU/</guid>
-      <dc:creator>대전=우정식 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 17 Jan 2025 07:40:30 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NEB72YMFAVHRJKGS7DXJM5DJ5A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원 로고. /조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;또래 여학생을 모텔에 감금한 채 성폭행하고 소셜미디어(SNS)에 실시간 방송까지 한 고교생이 항소심에서도 중형을 선고받았다.&lt;br&gt;&lt;br&gt;대전고법 형사1부(재판장 박진환)는 17일 아동·청소년 성 보호에 관한 법률 위반(강간 등 치상), 폭행 등 혐의로 기소된 A(17)군에게 1심 형량과 같은 징역 장기 10년, 단기 7년을 유지했다.&lt;br&gt;&lt;br&gt;A군은 지난 2023년 10월 14일 새벽 대전 중구의 한 모텔에서 또래인 B양을 다른 공범과 함께 감금한 채 집단 구타하고  성폭행을 저지른 혐의로 재판에 넘겨졌다. A군은 이 과정을 SNS 라이브 방송으로 중계했고, 다른 여학생을 강제로 추행한 혐의도 받고 있다.&lt;br&gt;&lt;br&gt;2심 재판부는 “피고인이 항소한 추행 부분을 보면 충분히 유죄가 인정된다”면서 “1심 판단을 살펴보면 피해자 진술이 신빙성이 없거나 부당하다고 인정할 사정이 없고, 객관적이며 신빙성이 있어 보인다”고 말했다.&lt;br&gt;&lt;br&gt;이어 “양형 역시 1심 판단이 제출된 증거로 판단했으며, 형을 정함에 있어 합리적 한계를 벗어났다고 보기 어렵다”고 밝혔다.&lt;br&gt;&lt;br&gt;앞서 1심은 “다수의 공범과 피해자를 감금해 집단 구타하고 변태적인 성범죄를 저질러 죄질이 매우 불량하다”며 A군에게 징역 장기 10년, 단기 7년 형을 선고했다. 또 성폭력 치료 프로그램 이수 40시간, 아동·청소년 및 장애인 관련 기관 취업 제한 10년을 명령했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>가족갈등 유발하는 문제 1위는 ‘건강’</title>
@@ -963,27 +974,6 @@
       <description/>
       <pubDate>Fri, 17 Jan 2025 05:57:55 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6MWSY3JYMZDUPPNCSI3A6UGB4M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;외국인인 척 택시에 탑승한 한 유튜버가 택시 기사에게 요금으로 현금 2만원을 내고 있다./유튜브 ‘찰스 알레’&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한 유튜버가 외국인인 척하며 택시를 탔다가 바가지요금을 낸 데 이어 현금 결제까지 했다는 사연이 전해졌다.&lt;br&gt;&lt;br&gt;지난 15일 유튜브 채널 ‘찰스알레’에는 ‘공항에서 외국인인 척 택시를 타면 정말 사기를 칠까?’라는 제목의 영상이 올라왔다. 이 유튜버는 “과거 한국 택시 기사님들이 외국인들을 상대로 바가지를 많이 씌웠다고 하는데 현재는 어떨지 궁금하다”며 인천국제공항에서 가상의 국적을 설정하고 택시에 탔다.&lt;br&gt;&lt;br&gt;그는 기사에게 인천 중구의 한 호텔로 가달라고 한 뒤 요금을 물었다. 기사는 “2만 원”이라고 말했다. 출발 전 유튜버가 택시 앱으로 확인한 요금은 1만 2300원 정도였다. 유튜버가 미터기로 요금을 측정해달라고 부탁하자, 기사는 “미터기가 안 된다”며 미터기를 켜는 것을 거절했다. 미터기에 ‘현금 결제’ 처리를 누른 후 꺼버렸다고 유튜버 측은 주장했다.&lt;br&gt;&lt;br&gt;유튜버가 요금을 깎아달라고 하자, 기사는 “안 돼. 여기서 다시 공항으로 가야 한다”고 말했다. 목적지에 도착한 유튜버가 “현금 아니면 카드도 되냐? 카드는 안 되냐?”고 영어로 묻자, 기사는 영어를 제대로 못 알아들은 채 현금만 된다고 했다.&lt;br&gt;&lt;br&gt;이후 택시에서 내린 유튜버는 “외국인들은 모르고 그냥 갈 거 아니냐”며 “그리고 왜 현금만 받는 거냐. 택시는 10분밖에 안 탔는데 2만 원은 너무 비싸다”고 말했다. 그러면서 “기사님 한 분이 모든 기사님을 대변할 순 없다”면서도 “저 기사님만의 문제일 것이다”라고 말했다.&lt;br&gt;&lt;br&gt;반면, 정직하게 운전하는 택시 기사들도 있었다. 인천국제공항으로 돌아간 그는 다시 한번 외국인인 척하며 택시를 타고 김포공항으로 향했다. 해당 택시 기사는 미터기를 켜고 운전했다. 가격도 택시 앱에 찍힌 그대로 나왔다. 이후 유튜버는 김포공항에서 마곡나루역으로 가는 택시를 또 탔다. 그는 택시 앱보다 가격이 덜 나왔다며 기뻐하기도 했다.&lt;br&gt;&lt;br&gt;한편, 외국인을 대상으로 한 택시의 바가지요금을 요구하는 경우는 종종 발생해 왔다. 지난해 9월 외국인 손님에게 상습적으로 바가지요금을 받으면서 ‘팁(tip·봉사료)’이라고 주장한 택시 기사 A씨의 택시 운전 자격 취소 처분이 정당하다는 법원의 판단이 나오기도 했다.&lt;br&gt;&lt;br&gt;A씨는 2022년 4월과 8월, 2023년 2월 총 세 차례 부당 요금을 받았다가 적발됐다. 1차 적발 때 경고, 2차 적발 때 자격정지 30일을 받은 A씨는 세 번째 적발로 택시 운전 자격이 취소됐다. 택시발전법과 시행령에 따라 부당 요금 징수가 세 번 적발되면 자격이 취소된다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[속보] ‘尹 탄핵심판’ 헌재, 김현태 707특임단장 증인 채택... 김용현 증인 신문은 23일</title>
-      <link>https://www.chosun.com/national/court_law/2025/01/17/YZFXA3MQRJED7LXDKCISTDMZAY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/01/17/YZFXA3MQRJED7LXDKCISTDMZAY/</guid>
-      <dc:creator>박강현 기자, 이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 17 Jan 2025 05:06:02 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HIFXXVQ3PZKO3PEDO6RRULRTIA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령 탄핵 심판의 두번째 변론기일인 16일 오후 서울 종로구 헌법재판소에 정계선(왼쪽부터), 김복형, 정정미, 이미선, 문형배, 김형두, 정형식, 조한창 헌재 재판관들이 심판정에 앉아 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;[속보] ‘尹 탄핵심판’ 헌재, 김현태 707특임단장 증인 채택... 김용현 증인 신문은 23일&lt;br&gt;&lt;br&gt;“구속된 피고인들, 정당한 사유 없이 출석하지 않으면 헌재법 따라 벌금형”&lt;br&gt;&lt;br&gt;헌재, 국정원 등 문서송부촉탁… 선관위 보안점검 보고서 요청&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“아침밥 안 차려주는 아내, 바람피울 듯”…기안84 발언 논란</title>
-      <link>https://www.chosun.com/national/national_general/2025/01/17/757JU7XCGVEIVKNR3GTQA6IL3A/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/17/757JU7XCGVEIVKNR3GTQA6IL3A/</guid>
-      <dc:creator>김자아 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 17 Jan 2025 04:47:36 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LWEYQ5YBEBESBG2VC5TLQGMHMI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;웹툰작가 기안84./유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;웹툰 작가 겸 방송인 기안84(본명 김희민·40)가 “남편 아침밥을 차려주지 않는 아내는 바람을 피울 것 같다”고 말해 구설에 올랐다. &lt;br&gt;&lt;br&gt;기안84는 지난 16일 유튜브 채널을 통해 배우 이시언의 아내 서지승과 만난 모습을 공개했다. &lt;br&gt;&lt;br&gt;서지승과 함께 버스를 타고 이동하던 기안84는 “시언이 형이 아침밥을 해주느냐”고 물었다. 서지승은 “일이 없으면 해준다”고 답했고, 기안84는 “혹시 시언이 형이 ‘아침밥, 밥상 차려’ 그러는 거 아니냐”고 다시 물었다. 서지승은 “아니다. 차라리 말해 줬으면 좋겠다. 내일 뭐 먹고 싶다고 얘기해주면 좋겠다”고 답했다.&lt;br&gt;&lt;br&gt;기안84는 “남자들이 집착하는 게 아침밥”이라며 “왜 그렇게 아침밥에 집착하냐고 하는데 밥이 문제가 아니고 내가 보호받고 있다는 느낌이 든다”고 말했다.&lt;br&gt;&lt;br&gt;그러면서 “아침밥을 안 해주는 여자를 만나면 왠지 수영장에 가서 근육질 총각이랑 바람이 나거나 헬스장 가서 젊은 트레이너랑 (바람 날 것 같다)”이라고 했다.&lt;br&gt;&lt;br&gt;서지승은 “누가 그런 적 있느 냐”고 되물었고, 기안84는 “인터넷에서 흉흉한 기사들을 많이 보니까”라고 답했다. 서지승은 “그런 마음을 먹으면 그런 사람을 만난다”며 “그렇게 부정적 생각 걷어내야 한다”고 말했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GB3DTRM57ZHMRMN3AHYX5SBOK4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;배우 서지승(왼쪽)과 기안84(오른쪽)./유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이 영상이 공개되자 온라인에선 ‘기안84가 아내에게 아침밥을 원하는 이유’ 등의 제목으로 그의 발언이 공유됐고, 일부 네티즌들은 기안84의 여성관이 시대착오적이라는 비판을 제기했다. &lt;br&gt;&lt;br&gt;이들은 “여자가 밥을 차려야 된다는 마인드는 언제적 마인드냐” “웹툰 작가라 상상력이 좋다고 해도 어떻게 아침밥이랑 바람까지 연결을 지을 수가 있나” “흉흉한 기사가 바람 난 여자 기사라는 것도 이상하다” “너무 구시대적인 마인드” 등의 의견을 냈다.&lt;br&gt;&lt;br&gt;앞서 기안84는 2020년에도 자신의 작품에 왜곡된 여성관을 그려냈다는 비판을 받았다. 당시 그는 웹툰 ‘복학왕’ 작품에서 여성 캐릭터가 40대 대기업 임원과 부적절한 관계를 맺어 입사하는 장면을 그렸다. 논란이 일자 기안84는 “작품에서의 부적절한 묘사로 심려를 끼쳐드려 정말 죄송하다”며 관련 장면을 수정했다. 또 출연 중인 MBC TV 예능프로그램 ‘나 혼자 산다’에서 잠시 하차했다가 5주 만에 복귀했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/LWEYQ5YBEBESBG2VC5TLQGMHMI.jpg?width=756&amp;height=482&amp;auth=f107d15b955f36be5901e389ddaf1bf9cba2857f041d559635c06e4fcc9da1c2&amp;smart=true" type="image/jpeg" height="482" width="756">
-        <media:description type="plain">웹툰작가 기안84./유튜브</media:description>
-      </media:content>
     </item>
     <item>
       <title>오세훈 “갈등으로 입지 다지고 팬덤으로 세력 키운 이재명, 정치적 청산 대상”</title>
