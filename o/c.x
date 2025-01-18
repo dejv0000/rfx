@@ -13,6 +13,67 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>尹지지자 마포대로 10차로 점거… 광화문집회도 “서부지법 가자”</title>
+      <link>https://www.chosun.com/national/national_general/2025/01/18/7TIZKELOYBAA5M4QU7UZSHZKNM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/18/7TIZKELOYBAA5M4QU7UZSHZKNM/</guid>
+      <dc:creator>고유찬 기자, 양인성 기자, 서일원 기자, 이호준 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 18 Jan 2025 07:14:20 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FG4AZXWDUFLBZPNBRJVTWOZ26M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;18일 서울 마포구 서울서부지법 앞에서 윤 대통령 지지자들이 법원 앞 도로를 점거하고 집회를 하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;18일 오후 윤 대통령 지지자들이 서울서부지법 인근 마포대로 10개 차로를 점거하고 시위를 진행하고 있다. 윤 대통령이 구속 전 피의자 심문(영장실질심사)에 직접 출석하자 지지자들이 집결하며 시위대 규모가 계속 늘어나고 있다. 광화문에서 열리던 ‘탄핵 반대’ 집회 참석 인원도 서부지법 앞으로 속속 모여들고 있다.&lt;br&gt;&lt;br&gt;이날 오후 5시 기분 기준 서울 마포구 서부지법 일대에는 경찰 비공식 추산 4만여 명이 모였다. 이들은 경찰 차벽과 바리케이드 등을 밀며 도로로 진입하기 시작했다. 곳곳에서 지지자들과 경찰이 밀치고 소리 지르며 ‘아수라장’이 펼쳐졌고, 결국 경찰 저지가 뚫렸다.&lt;br&gt;&lt;br&gt;이들 시위대는 오후 3시쯤부터는 서울 지하철 2호선 아현역에서 마포경찰서에 이르는 마포대로 약 1㎞ 구역 10개 차로를 모두 점거했다. “위조 공문” “불법 체포” “윤석열을 즉각 석방하라” “탄핵 무효” 등의 구호를 외치고 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZGXHUS7CFNLZ3CHUO4ACDE7L34.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;18일 서울 마포구 서울서부지법 앞에서 윤 대통령 지지자들이 법원 앞 도로를 점거하고 집회를 하고 있다. / 고운호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤 대통령 지지자들은 서부지법 주변도 둘러싸고 있는 상태다. 법원을 둘러싼 지지자들은 애국가를 부르고 “대한민국 만세”를 외쳤다. 부부젤라를 부는 지지자도 있었다. 일부 시위대는 “법원을 포위하자”고 외치며 법원 인근 골목길로 들어가고 있다.&lt;br&gt;&lt;br&gt;일부 시위대는 경찰 저지선을 뚫고 법원 정문 진입을 시도하고 있다. 이들은 “법원 정문을 열어라”, “내가 대통령 얼굴을 봐야겠다”며 법원을 향해 소리치기도 했다. 경찰은 시위대가 법원 내부로 난입할 것을 대비해 법원 안에 철제 펜스 등을 설치하는 중이다.&lt;br&gt;&lt;br&gt;서부지법 인근에 많은 인파가 몰려들면서, 이날 오후 4시쯤에는 서울 지하철 5호선 애오개역 상하선 열차가 한때 무정차 통과하기도 했다. 경찰 관계자는 “서부지법 앞에 기동대 4300여명을 투입했으며, 만일의 사태에 대비해 경력을 추가 배치할 예정”이라고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BLXU7ZUMEVJYJNALNKQZWU5NCE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;18일 서울 마포구 서울서부지법 앞에서 윤 대통령 지지자들이 법원 앞 도로를 점거하고 집회를 하고 있다. /고운호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>尹지지자들, 태극기 흔들며 도로로… 대통령 호송차 막아서기도</title>
+      <link>https://www.chosun.com/national/national_general/2025/01/18/RUNJEKB3CFH4LHX7HHRRTRKKUA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/18/RUNJEKB3CFH4LHX7HHRRTRKKUA/</guid>
+      <dc:creator>고유찬 기자, 이호준 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 18 Jan 2025 05:32:15 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MIRX33L24BKJTN64A4GNMO6CQM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령이 구속 전 피의자심문(영장실질심사)에 출석한 18일 서울 마포구 서울서부지법 앞에서 윤 대통령 지지자들이 시위하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;18일 오후 윤석열 대통령이 구속 전 피의자 심문(영장실질심사) 출석을 위해 서울서부지법에 출석한 가운데, 법원 앞에는 수많은 윤 대통령 지지자들이 몰려들었다. 윤 대통령의 차량 행렬이 법원 인근에 모습을 드러내자 격앙된 지지자들이 도로까지 내려가는 아찔한 상황도 연출됐다.&lt;br&gt;&lt;br&gt;이날 오전 윤 대통령 출석 소식이 전해지자 법원 앞에 모여든 지지자들은 윤 대통령 이름을 연호하는 등 크게 고무된 모습이었다. 윤 대통령 지지자들이 속속 법원 앞으로 모여들며 급격히 인파가 몰리며 긴장감이 고조됐다. 경찰이 기동대 버스를 동원해 차벽을 세우자 지지자들은 “차 빼라” “열어라” “내란 경찰 반역 경찰 물러가라” 등의 구호를 외쳤다.&lt;br&gt;&lt;br&gt;오후 1시 50분쯤 윤 대통령을 태운 차량 행렬이 서울 마포구 서울서부지법 인근에 도착하자, 흥분한 윤 대통령 지지자들 중 일부가 도로까지 내려가 호송 행렬을 막아서는 모습도 목격됐다. 한 중년 여성은 대통령 차량 행렬 맨 앞의 경찰차를 가로막고 태극기와 성조기를 10초 가량 흔들기도 했다. 이 여성은 결국 경찰과 경호처 직원들에 의해 인도 쪽으로 끌려나갔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IHPXYQZKLNMM3EYFSDVQCTTZLM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;18일 서울 마포구 서울서부지법 앞에서 윤 대통령 지지자들이 법원 앞 도로를 점거한 채 집회를 하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;법원 근처에 몰려 있던 지지자들은 윤 대통령 이름을 연호하며 격한 반응을 보였다. 이들은 “즉각 석방”, “영장 무효”, “불법 구금 중단하라”를 구호를 외쳤다. 환호하는 지지자들도 있었고, 눈물을 보이거나 소리 내어 오열하는 지지자들의 모습도 보였다. 경기도 군포시 주민 한모(70)씨는 “이 나라의 헌법 질서와 법치가 무너지는 것을 막기 위해 어제부터 밤새 법원 앞을 지키고 있다”고 했다.&lt;br&gt;&lt;br&gt;이날 오후 5시 기준 경찰 비공식 추산 4만 명이 서부지법 앞에 모였다. 이들은 기습적으로 서부지법 앞 도로를 점거하고 “영장 기각하라” “대통령님 힘내십시오” “탄핵 무효” “공수처 폭파” “민주당 해체” 등의 구호를 외치고 있다. 이에 경찰은 도로를 전면 통제하고 차량을 우회시키고 있다.&lt;br&gt;&lt;br&gt;일부 지지자들은 경찰 저지선을 뚫고 법원 정문 진입을 시도하고 있다. 일부 시위대는 “법원을 포위하자”고 외치며 서부지법 인근 골목길로 향했다. 일부는 법원 안으로 들어가기 위해 담장을 넘으려 시도하고 있다. 경찰 관계자는 “법원 앞에 기동대 4300여명을 투입했으며, 만일의 사태에 대비해 경력을 추가 배치하고 있다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/FG4AZXWDUFLBZPNBRJVTWOZ26M.jpg?width=5940&amp;height=3960&amp;auth=893f7b08f6f784252760203b3fbb56de018794d42ecdd2c2f06cecb74516e091&amp;smart=true" type="image/jpeg" height="3960" width="5940">
+        <media:description type="plain">&lt;YONHAP PHOTO-3937&gt; 서부지법 앞으로 모인 윤 대통령 지지자들
+    (서울=연합뉴스) 황광모 기자 = 내란 우두머리 혐의로 체포된 윤석열 대통령의 구속 전 피의자심문(영장실질심사)이 열린 18일 서울 마포구 서울서부지방법원 앞에서 윤 대통령 지지자들이 집회를 하고 있다. 2025.1.18 [공동취재]
+    hkmpooh@yna.co.kr/2025-01-18 15:53:31/
+&lt;저작권자 ⓒ 1980-2025 ㈜연합뉴스. 무단 전재 재배포 금지, AI 학습 및 활용 금지&gt;</media:description>
+        <media:credit role="author" scheme="urn:ebu">사진부공용</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>‘주류 면세 2병 폐지’ 소식에도 애주가, 주류 수입업계는 와글와글...왜?</title>
+      <link>https://www.chosun.com/national/national_general/2025/01/18/GJ2DJAAAHVD5NATVZ4U2IGYO3E/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/18/GJ2DJAAAHVD5NATVZ4U2IGYO3E/</guid>
+      <dc:creator>김병권 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 18 Jan 2025 08:00:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UMZI2PZ3EJAHTLUZKOJYPUWTOU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;롯데면세점 호주 브리즈번 공항점에 잭 다니엘 위스키 등 각종 주류가 진열되어 있다./롯데면세점 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난달 정부가 올해 1분기부터 면세 주류 반입 2병 제한을 없애겠다고 밝혔음에도 국민들과 주류 수입업계, 면세업계는 대체로 시큰둥한 반응을 보이고 있다. 전체 용량과 금액 제한 완화되지 않아 실효성이 없다는 의견과 병 수 제한이 사라지면서 기존에도 면세 한도를 넘겨 주류를 해외에서 가져오던 이들의 심리적 저지선만 없어진다는 주장이 분출하고 있는 것이다.&lt;br&gt;&lt;br&gt;기획재정부는 지난달 23일 면세점 활성화를 위해 “내년부터 면세 주류 반입 2병 제한을 없애겠다”고 밝힌 바 있다. 현재 해외 여행자는 술을 총 2L 이하, 400달러 미만에 한해 2병까지만 면세로 들여올 수 있다. 정부는 이 중에서 병 수 제한만 올해 3월쯤 완화하겠다는 계획이다.&lt;br&gt;&lt;br&gt;그러나 소비자들은 “해외에서 사오는 주류 대부분이 700ml 이상이기 때문에 규제 완화 이후에도 사실상 2병 제한이 존재한다”며 볼멘소리를 내고 있다. 업무상 이유로 해외 출장이 잦다는 직장인 김모(63)씨는 “해외에서 들어올 때 선물용으로 주로 와인이나 위스키, 보드카를 구매하는데 이런 술들은 주로 용량이 700ml~1L 수준”이라며 “그래서 집에서 마시거나 선물할 용도로 2병 정도만 사왔는데 이번 정부 발표를 보면 규제 완화 이후에도 사실상 2병 제한이 존재하는 것이라 무슨 의미가 있나 싶다”고 했다. 대체로 700ml인 주류의 용량 때문에 3병을 사면 용량 제한(2L)에 걸린다는 것이다. 애주가들이 모여 있던 주류 커뮤니티에서도 누리꾼들은 “용량과 한도를 늘려줘야 되는데 사실상 큰 의미는 없는 거 같다”며 불만을 드러내고 있다.&lt;br&gt;&lt;br&gt;면세업계도 비슷한 분위기다. 한 면세업계 관계자는 “정부가 분명히 업계를 배려해준 건 맞지만, 용량 제한을 그대로 둔 상황에서는 병 수 제한을 풀어도 매출 상승에 영향이 미미할 것”이라고 했다.&lt;br&gt;&lt;br&gt;면세 주류 병 수 제한 폐지로 지금도 공공연하게 이뤄지고 있는 밀수가 더 심화될 수 있다는 지적도 나왔다. 주류 수입업계 관계자는 “지금도 해외에서 술을 한 번에 10병씩 가지고 들어오는 이들이 있는데, 2병 제한마저 사라지면 이러한 범법이 더 늘어날 것이 우려된다”며 “오히려 이러한 방향보다는 근본적으로 주류에 부과되는 세금을 종가세(從價稅)에서 종량세(從量稅)로 손 볼 필요가 있다”고 밝혔다.&lt;br&gt;&lt;br&gt;실제로 국회 기획재정위원회 소속 임광현 의원실이 관세청으로부터 제출받은 자료에 따르면, 작년 주류 관세 포탈 금액은 지난 10월 기준 63억4000만원인데, 이는 지난 2023년 26억7800만원과 비교해 136.7%(36억6300만원) 늘어난 수치다. 지난 2020년 2억7800만원 수준이던 것을 감안하면 4년새 30배가량 증가한 것이기도 하다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IJVYUNQMJ2DOIIOKIMAGWIDJIU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;인천공항세관 전경/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정부의 이러한 정책에 불만을 나타내는 의견이 우세했지만, “용량이 작은 술을 좋아하면 이득을 볼 수도 있겠다”며 반기는 이들도 있었다. 1년에 1~2번 정도 해외여행을 다녀온다는 이모(29)씨는 “귀국할 때 위스키로 2병은 기본에, 미니어처(한 잔 분량의 작은 병 술)로 여러 병을 가져오면서 내심 찝찝했던 게 사실”이라며 “한 번 맛 정도만 보고 싶었던 술은 이제 조금이나마 병 수 걱정 없이 편하게 살 수 있을 것 같다”고 했다. 애주가 커뮤니티에도 “500ml짜리 중국술(바이주)이나 맥주, 미니어처는 좀 더 가져올 수도 있겠다”는 의견이 일부 있었다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>전남 담양 육용 오리 농장서 AI항원 검출… 오리 1만2000여 마리 살처분</title>
+      <link>https://www.chosun.com/national/regional/2025/01/18/3O5T5A75LJBMXHN3BBJ2GWV4LM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/01/18/3O5T5A75LJBMXHN3BBJ2GWV4LM/</guid>
+      <dc:creator>정성원 기자</dc:creator>
+      <description>전남 담양군 육용 오리 농장에서 H5형 조류인플루엔자(AI) 항원이 검출됐다.전남도는 담양군 무정면 한 육용 오리 농장에서 H5형 조류인플루엔자 항원이 검출돼 초동방역을 진행했다고 18일 밝혔다.</description>
+      <pubDate>Sat, 18 Jan 2025 07:58:33 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UKLPBV4C6PWJVUNV6W7ADX255M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;담양 육용 오리 농장 입구 방역./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전남 담양군 육용 오리 농장에서 H5형 조류인플루엔자(AI) 항원이 검출됐다.&lt;br&gt;&lt;br&gt;전남도는 담양군 무정면 한 육용 오리 농장에서 H5형 조류인플루엔자 항원이 검출돼 초동방역을 진행했다고 18일 밝혔다.&lt;br&gt;&lt;br&gt;이 농장엔 육용 오리 1만 2000여 마리가 사육 중이며, 고병원성 여부는 농림축산검역본부에서 정밀 검사를 거쳐 1~3일 내 밝혀질 전망이다.&lt;br&gt;&lt;br&gt;전남도는 해당 농장의 출입을 통제하고 소독 등 방역 조치를 진행하는 한편, 추가 확산 방지를 위해 선제적으로 살처분을 진행했다. 또 발생 농장 반경 10km 이내를 방역 지역으로 정해 이동 제한 조치를 취했다.&lt;br&gt;&lt;br&gt;전남도 관계자는 “가금농장에선 출입 차량과 사람의 철저한 통제, 소독 등 기본 방역 수칙을 지켜달라”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘尹지지’ JK김동욱, ‘외국인 정치활동 금지’ 고발에…“표현의 자유 억압”</title>
+      <link>https://www.chosun.com/national/national_general/2025/01/18/7S7AS5QKD5DSLE4A7YBRSDU6NI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/18/7S7AS5QKD5DSLE4A7YBRSDU6NI/</guid>
+      <dc:creator>김가연 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 18 Jan 2025 07:16:39 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MH6WLN7VSJFVTJEZDJ77Y2JSGU.png"&gt;&lt;figcaption&gt;&lt;small&gt;가수 JK김동욱. /인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 대통령에 대한 지지 발언을 이어가고 있는 가수 JK김동욱이 ‘외국인 정치활동금지’ 위반으로 고발된 데 대해 “표현의 자유 억압”이라고 반발했다.&lt;br&gt;&lt;br&gt;JK김동욱은 17일 인스타그램에 자신이 고발당했다는 내용이 담긴 기사를 올리면서 “생에 첫 고발당했다”라고 밝혔다.&lt;br&gt;&lt;br&gt;이어 “3일에 내가 대규모 집회를 개최(했다고)? 잘못 쓴 거겠죠”라며 “대한민국 집회에 수많은 중국인들이 출몰했던 거 다들 생생하게 기억하죠? 그분들 다들 안녕하신가 모르겠네”라고 했다. 그러면서 “언제부터 자유대한민국이 표현의 자유를 억압하는 나라였나”라고 했다.&lt;br&gt;&lt;br&gt;그는 또 자신의 출생 및 성장 배경에 대해 “서울 강북구 삼양동에서 태어나 공연초등학교, 하계중학교, 대진고 2학년 자퇴, 캐나다 이민이다”라고 덧붙였다.&lt;br&gt;&lt;br&gt;앞서 이날 한 누리꾼은 온라인커뮤니티에 JK김동욱에 대한 고발장 사진을 올렸다. 이 누리꾼은 “JK김동욱 피고발 예정. 외국인 정치활동금지 위반 사유로”라며 “JK김동욱은 과거 한국 국적을 포기하고 캐나다 국적을 취득한 외국인이다. 출입국관리법 제 17조에 따르면 한국에 체류 중인 외국인은 정치활동을 할 수 없고 이를 위반할 경우 처벌 대상이 될 수 있다”고 주장했다.&lt;br&gt;&lt;br&gt;그러면서 “JK김동욱이 개인 SNS를 통해 윤석열 대통령 탄핵에 대한 반대 의견을 여러 차례 공개적으로 게시했다”며 “지난 3일, 대통령 관저 인근에서 대규모 집회를 개최하고 그 내용을 SNS에 게재했으며 이후에도 지속적으로 정치적 발언을 게시했다”고 말했다.&lt;br&gt;&lt;br&gt;JK김동욱은 연일 윤 대통령 탄핵 반대 입장을 표명해오고 있다. 그는 지난 3일 고위공직자범죄수사처가 윤 대통령에 대한 1차 체포 영장을 집행하려 했을 때에는 “대통령을 지키는 게 나라를 지키는 길”이라는 글을 올렸다.&lt;br&gt;&lt;br&gt;윤 대통령이 체포된 지난 15일에는 “이성을 잃고 법을 무작위로 어기는 종북세력과 반대로 법치주의 국가에서 법의 테두리 안에서 법을 지키며 자유를 수호하는 우리 애국시민들의 뜻은 전 세계를 울릴 것이며 대통령의 안타깝지만, 현명한 결정을 믿어 의심치 않고 이 사태는 미친 듯이 치솟고 있는 지지율에 반드시 반영될 것”이라고 적었다.&lt;br&gt;&lt;br&gt;그는 또 “종북 세력들 정신 승리하고 있는 모습 상상하니 조금 웃기네. 법치주의 국가에서 심지어 법을 어기고 침입한 자들에게 어떤 무력 사태도 없이 순순히 공수처로 향하는 모습에 정신 승리하는 거 보면서 국민들은 누가 진정한 내란 세력인지 알게 될 것”이라고도 했다.&lt;br&gt;&lt;br&gt;한편 출입국관리법 제17조(외국인의 체류 및 활동범위)는 “대한민국에 체류하는 외국인은 이 법 또는 다른 법률에서 정하는 경우를 제외하고는 정치활동을 하여서는 아니 된다”고 규정하고 있다. 이에 따르면, 법무부장관은 대한민국에 체류하는 외국인이 정치활동을 하였을 때에는 그 외국인에게 서면으로 그 활동의 중지명령이나 그 밖에 필요한 명령을 할 수 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[부음]권광순 조선일보 대구경북취재본부 기자 모친상</title>
+      <link>https://www.chosun.com/national/obituary-personnel/2025/01/18/4Z7ONITXQNHLNJRRDWW5VU6QME/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2025/01/18/4Z7ONITXQNHLNJRRDWW5VU6QME/</guid>
+      <dc:creator>정성원 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 18 Jan 2025 05:22:19 +0000</pubDate>
+      <content:encoded>▲한말여 별세, 권명순·권기순 영주시 문수면장·권광순 조선일보 대구경북취재본부 기자 모친상, 박미희 예미정 대표·조낭 영주시 소수서원관리사무소장·안저희 시모상, 권용재 안동간고등어 대표·권용훈 한국경제신문 기자·권용대·권지은 조모상, 황선영 TV조선 기자 시조모상=18일12시55분 안동성소병원 장례식장 6호실, 발인 20일 오전 8시, (054)821-4404&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>가해 차량 찾고도 뺑소니 내사 종결한 경찰관, 항소심서 ‘무죄’</title>
       <link>https://www.chosun.com/national/court_law/2025/01/18/AGFGB3JXCVF65KHYGB7YLAA6FA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/01/18/AGFGB3JXCVF65KHYGB7YLAA6FA/</guid>
@@ -895,36 +956,6 @@
       </media:content>
     </item>
     <item>
-      <title>‘연인 살해’ 김레아...항소심서도 “계획적 살인 아냐” 주장</title>
-      <link>https://www.chosun.com/national/incident/2025/01/17/5335ZVI6UBBJLHIXAGMLUX2T7Y/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/01/17/5335ZVI6UBBJLHIXAGMLUX2T7Y/</guid>
-      <dc:creator>수원=김현수 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 17 Jan 2025 06:22:23 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/A7EC5QKKURARVBDSYR5B3XJD2A.png"&gt;&lt;figcaption&gt;&lt;small&gt;이별을 통보한 여자친구를 살해하고, 여자친구의 어머니에게도 흉기를 휘둘러 중상을 입힌 혐의로 신상이 공개된 김레아(26). /수원지검&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이별을 통보한 여자친구를 흉기로 살해하고 그의 어머니도 다치게 한 혐의로 1심에서 무기징역형을 선고받은 김레아(28)가 항소심에서 계획적인 살인이 아니었다고 주장했다.&lt;br&gt;&lt;br&gt;17일 수원고법 형사1부(재판장 문주형)는 김레아의 살인 및 살인미수 혐의 사건의 항소심 첫 재판을 진행했다.&lt;br&gt;&lt;br&gt;김레아 측 변호인은 “재판에서 계획적 살인이 아니며, 자수 부분에 대해 인정받지 않은 것은 사실 오인 및 법리 오해 잘못이 있다”고 주장했다.&lt;br&gt;&lt;br&gt;김레아 측은 범행 도구로 사용된 흉기에 대한 지문감정 신청 의견도 냈다. 앞서 김레아 측은 피해자 어머니가 먼저 흉기를 잡아 이를 저지하다가 범행에 이르게 된 것이라는 취지로 주장해왔다.&lt;br&gt;&lt;br&gt;피해자 어머니는 1심 재판과 수사기관에서 일관되게 “제가 칼을 잡은 적이 없다. 피고인이 과도를 집어 들고 와 저와 딸을 여러 차례 찔렀다”고 진술했고, 1심 재판부는 피해자 어머니의 진술이 타당하다고 판단했다.&lt;br&gt;&lt;br&gt;김레아는 지난해 3월 25일 오전 9시 35분쯤 경기 화성시 봉담읍 자신의 오피스텔에서 여자친구 A씨와 그의 어머니 B씨에게 과도를 휘둘러 A씨를 살해하고, B씨에게 전치 10주 이상의 중상을 입힌 혐의(살인 및 살인미수)로 기소됐다. 이후 지난해 10월 1심에서 무기징역형을 선고받았다.&lt;br&gt;&lt;br&gt;조사에 따르면, 김레아는 A씨에게 강하게 집착하는 경향을 보였다. A씨를 같은 대학에서 만난 김레아는 평소 A씨의 휴대전화를 수시로 확인하며 남자 관계를 의심했던 것으로 파악됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[단독] ‘尹방어권’ 주장 원명스님 인권위원 사의... 불교계 “조계종 압박 때문”</title>
-      <link>https://www.chosun.com/national/national_general/2025/01/17/II633KOMNJF4HJLZ47OKVCHIJQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/17/II633KOMNJF4HJLZ47OKVCHIJQ/</guid>
-      <dc:creator>고유찬 기자, 현정민 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 17 Jan 2025 05:17:12 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WYER32MR32LGBTX43UVXZSSD2M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대한불교조계종 직영 사찰인 봉은사 사찰관리인(주지) 원명 스님./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국가인권위원회(인권위) 비상임위원으로 활동하던 원명스님(속명 김종민)이 지난 16일 인권위 비상임위원직 사의를 밝힌 배경에 조계종 종단 지도부의 압박이 있었다는 주장이 17일 제기됐다.&lt;br&gt;&lt;br&gt;원명스님은 서울 강남구 봉은사 사찰관리인(주지)이다. 2022년 11월 22일 인권위 비상임위원으로 임명됐고, 3년 임기 중 약 10개월을 남겨둔 상태였다. 그는 지난 9일 김용원 인권위 상임위원을 비롯한 위원 4명과 함께 윤석열 대통령의 방어권을 보장하라는 취지의 안건을 발의했다. “내란 옹호 아니냐” 같은 비판이 이어지는 상황에서 원명스님은 지난 16일 오전 비상임위원직 사의를 표명했다.&lt;br&gt;&lt;br&gt;불교계 관계자는 사의 표명 배경을 두고 “조계종 내에서 (해당 안건을 발의한) 원명스님에 대한 강력한 비판이 있었다”며 “조계종 내부에서 원명스님을 향해 ‘인권위 비상임위원직을 사퇴하든지, 봉은사 주지 자리를 내려놓든지 하나를 선택하라’는 압력이 있었다”고 밝혔다.&lt;br&gt;&lt;br&gt;이 관계자는 “특히 조계종 총무원장인 진우스님이 ‘이번 비상계엄은 역사의 후퇴’라고 성명까지 낸 상황에서, 해당 안건을 발의한 원명스님이 종단 지도부에 밉보인 것으로 안다”고 주장했다. 조계종 총무원장 진우스님은 윤석열 대통령의 비상계엄 선포 이틀 뒤인 지난달 5일 ‘비상계엄 사태에 대한 대한불교조계종 입장문’을 발표하고 비상계엄 선포 사태에 대해 “국민 누구도 공감할 수 없는 역사의 후퇴”라고 했다. 이어 “세계 속 대한민국의 위상을 실추시키고, 국민의 민주적 자부심에 큰 상흔을 남긴 이번 사태를 현명한 지혜로 바로잡아야 한다”며 “이번 사태에 대한 철저한 법적 판단이 있어야 한다”고 했다.&lt;br&gt;&lt;br&gt;조계종 총무원장은 종단 인사와 예산을 관장하는 최고 행정 책임자다. 봉은사는 종단 소속 일반 사찰이었다가 2010년 11월 조계종 총무원이 직접 운영하는 직영 사찰로 전환된 바 있다.&lt;br&gt;&lt;br&gt;원명스님의 인권위원 사의 표명에 종단 지도부 압박이 있었다는 주장과 관련, 조계종 측은 “공식적으로 파악하고 있는 바도 없고, 해당 문제는 원명스님의 개인 활동에 대한 것이기 때문에 따로 의견을 줄 수 없다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/GBDQJF7TXVG4VBDDCD7O6G7XMU.jpg?width=682&amp;height=745&amp;auth=0e9bf146db778829ce2436407b9110ec20b8d1df8108c765d5261d3d57f1daa1&amp;smart=true" type="image/jpeg" height="745" width="682">
-        <media:description type="plain">대한불교조계종 직영 사찰인 봉은사 사찰관리인(주지) 원명 스님@뉴스1 DB</media:description>
-      </media:content>
-    </item>
-    <item>
-      <title>돈보다 더 심각한 문제 ‘이것’… 가족 갈등 부르는 원인 1위는</title>
-      <link>https://www.chosun.com/national/national_general/2025/01/17/HIDBVM5GMBDS3L57MRHX3FLMIE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/17/HIDBVM5GMBDS3L57MRHX3FLMIE/</guid>
-      <dc:creator>문지연 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 17 Jan 2025 06:12:34 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JVVTYON6PZC67AXYDFH2F2AA2Q.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;최근 독감(인플루엔자) 유행이 급격하게 확산하고 있는 가운데 지난 5일 서울의 한 어린이병원을 찾은 어린이 환자와 보호자가 진료를 받기 위해 대기하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;가족 간 갈등을 유발하는 가장 큰 원인으로 ‘가족 구성원의 건강 문제’가 꼽혔다.&lt;br&gt;&lt;br&gt;한국보건사회연구원과 서울대 사회복지연구소는 17일 ‘2024년 한국복지패널 조사·분석 보고서’를 통해 이 같은 결과를 발표했다. 연구팀은 작년 2월 26일부터 4개월간 응답을 완료한 7499가구를 대상으로, 가족 내 발생한 문제와 갈등 대처 방법 등을 조사해 분석했다.&lt;br&gt;&lt;br&gt;그 결과 참여 가구의 구성원들은 최근 1년간 가족 사이 근심과 갈등을 초래하는 요인이 무엇이냐는 질문에 ‘가구원의 건강’(54.85%)을 가장 많이 선택했다. 뒤이어 부채 또는 카드 빚 문제 같은 ‘경제적 어려움’이 18.19%로 2위를 차지했다. 3위는 ‘가구원의 취업 및 실업’(8.34%)이었다.&lt;br&gt;&lt;br&gt;그다음은 ‘자녀 교육 혹은 행동’(4.7%) ‘주거 관련 문제’(4.15%) ‘자녀의 결혼 문제’(3.74%) ‘가구원 간 관계’(2.92%) ‘기타’(2.17%) ‘가구원의 알코올 문제’(0.79%) ‘가족 내 폭력’(0.08%) ‘가구원의 가출’(0.07%) 등의 순이었다.&lt;br&gt;&lt;br&gt;같은 질문에 대한 대답을 소득별로 구분해 살펴봤을 때, 저소득 가구(중위소득 60% 이하)의 61.12%가 ‘가구원의 건강’ 문제를 가장 큰 요인으로 꼽아 일반 가구(43.39%)와 다소 차이를 보였다. ‘경제적 어려움’이라는 응답 역시 저소득 가구는 20.17%로 일반 가구(16.93%)보다 높았다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>외국인인 척 택시 탔더니 미터기 끄고 “현금 2만원” 바가지요금</title>
       <link>https://www.chosun.com/national/national_general/2025/01/17/RQH546VUYVF4DGF5N5SL4YTP5Q/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/17/RQH546VUYVF4DGF5N5SL4YTP5Q/</guid>
@@ -941,24 +972,6 @@
       <description/>
       <pubDate>Fri, 17 Jan 2025 05:06:02 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HIFXXVQ3PZKO3PEDO6RRULRTIA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령 탄핵 심판의 두번째 변론기일인 16일 오후 서울 종로구 헌법재판소에 정계선(왼쪽부터), 김복형, 정정미, 이미선, 문형배, 김형두, 정형식, 조한창 헌재 재판관들이 심판정에 앉아 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;[속보] ‘尹 탄핵심판’ 헌재, 김현태 707특임단장 증인 채택... 김용현 증인 신문은 23일&lt;br&gt;&lt;br&gt;“구속된 피고인들, 정당한 사유 없이 출석하지 않으면 헌재법 따라 벌금형”&lt;br&gt;&lt;br&gt;헌재, 국정원 등 문서송부촉탁… 선관위 보안점검 보고서 요청&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“엄마, 정치 유튜브 좀 그만 봐”...부모님 유튜브 계정 정리하겠다는 자녀들</title>
-      <link>https://www.chosun.com/national/national_general/2025/01/17/GYI6ZNXBMRHNVHKFAUDI2BDIUM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/17/GYI6ZNXBMRHNVHKFAUDI2BDIUM/</guid>
-      <dc:creator>김나연 기자, 강지은 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 17 Jan 2025 05:03:54 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OMPVKDKEIRGCDAOSKYCGSILXME.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2020년 12월 16일 오후 서울 중구 조선일보 미술관에서 본지 산업부 기자들이 스마트폰 12대를 이용해 유튜브의 정치 콘텐츠 알고리즘을 조사하고 있다. 기사 내용과 관련 없음./이태경 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 고양시에 사는 대학생 전모(25)씨는 윤석열 대통령에 대한 탄핵소추안이 가결된 후 틈틈이 부모님의 유튜브 구독 목록에 들어가 정치 유튜버 구독을 취소하고 있다. 전씨는 “유튜버들이 ‘믿거나 말거나’ 식으로 제기하는 의혹과 선동을 그대로 믿고 욕설이 난무하는 영상에 빠져드는 부모님이 걱정됐다”며 “거짓 정보가 담긴 영상이 알고리즘에 의해 계속 추천되는 악순환을 끊기 위해 나라도 나선 것”이라고 했다.&lt;br&gt;&lt;br&gt;부모를 ‘거짓 정보(disinformation)’에서 지키겠다며 ‘유튜브 알고리즘 정화’에 나서는 자녀들이 늘고 있다. 검증되지 않은 사실을 말하거나 사회적 현안에 대해 극단적인 주장을 펼치는 유튜버들이 많기 때문이다. 비상계엄·탄핵 정국으로 정치 사안에 대한 국민적 관심도가 높아지자 조회수를 높이기 위한 각종 유언비어와 거짓 정보가 판치고 있다. 2023년 한국언론진흥재단의 설문조사에서 응답자의 53%가 ‘유튜브로 뉴스를 본다’고 응답하는 등 유튜브가 뉴스 소비의 주요 플랫폼인 만큼, 유튜브를 통해 거짓 정보에 노출될 가능성이 커진 상황이다.&lt;br&gt;&lt;br&gt;실제 최근 유튜브에서 확산된 유언비어가 거짓 정보라는 사실이 확인되기도 했다. 지난 16일 한 온라인 매체가 “계엄 당일 선거관리연수원에서 99명의 중국인 간첩이 체포돼 주일미군기지로 압송됐다”고 주장했다. 이 의혹은 유튜버들에 의해 확대·재생산됐다. 그러나 중앙선거관리위원회는 해당 의혹이 가짜 뉴스라며 “계엄군은 선거연수원 청사 내로 진입도 하지 않았다”며 “계엄 당시 선관위 공무원을 대상으로 교육 중이었고 공무원 88명과 외부 강사 8명 등 96명이 머물렀다”고  했다.&lt;br&gt;&lt;br&gt;또 지난 14일 열린 국회 ‘내란 진상 규명 국정조사 특위’에 출석한 군인들은 유튜버 김어준씨가 제기한 ‘북한군 위장’ 의혹에 “터무니 없다”고 반박하기도 했다. 김씨는 “계엄 당시 북한 인민군으로 위장한 병력이 매복해 작전을 펼치려 했다는 제보를 받았다”며 군 측이 계엄을 북한군 소행으로 조작하려 했다는 주장을 펼쳐왔다.&lt;br&gt;&lt;br&gt;소셜미디어를 중심으로 ‘부모님 유튜브 알고리즘 정화하는 법’을 정리한 글도 공유되고 있다. 해당 게시글에는 “부모님 계정으로 로그인해 이상한 영상에 관심 없음 버튼을 누른다” “(언론사) 뉴스 채널을 구독해놓는다” “부모님이 잘 보지 않는 평화로운 영상들을 찾아 시청해두고 재생 기록에서 지워둔다” 등 알고리즘 정화 노하우가 자세히 설명돼 있다. 서울 노원구에 사는 직장인 이모(25)씨는 지난달 말 친구로부터 ‘알고리즘 정화’ 노하우를 공유 받은 후 몇 시간 동안 부모님 휴대폰으로 강아지와 고양이가 나오는 영상을 시청했다. 이씨는 “처음에는 부모님을 속이는 것 같아 죄송한 마음도 들었지만, 정치 영상이 아닌 유머 영상을 시청하며 웃는 아버지의 얼굴을 보니 뿌듯했다”고 했다.&lt;br&gt;&lt;br&gt;김춘식 한국외대 미디어커뮤니케이션학과 교수는 “50대 이상 중장년층은 정치에 대한 관심이 커 젊은층이 예능을 보듯 뉴스를 소비한다”며 “알고리즘의 영향으로 비슷한 콘텐츠에만 노출돼 편향된 생각이 고착화할 가능성이 크므로 방송과 같은 수준의 심의 및 규제를 유튜브에도 적용할 필요가 있다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>부산 일신기독병원서 울려 퍼진 ‘30만번째 아기 울음’</title>
-      <link>https://www.chosun.com/national/regional/2025/01/17/OVOA3RZOKRFFBKCX7KJTG5G5TA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/01/17/OVOA3RZOKRFFBKCX7KJTG5G5TA/</guid>
-      <dc:creator>부산=김주영 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 17 Jan 2025 04:58:23 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GXCPMG2LJZFFTHPRRY47F4BDOQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 달 13일 부산 첫 여성·영유아병원인 부산 동구 일신기독병원에서 이 병원의 '30만번째 출생아'로 태어난 아이와 가족이 웃고 있다. /일신기독병원.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산 최초의 여성·영유아병원인 일신기독병원에서 30만 번째 아기가 태어난 것을 기념하는 행사가 열린다.&lt;br&gt;&lt;br&gt;부산시는 오는 18일 오후 동구청 대강당에서 일신기독병원 30만명 출생 기념행사를 연다고 17일 밝혔다.&lt;br&gt;&lt;br&gt;일신기독병원은 지난 1952년 호주 장로교 선교사이자 의료인인 맥켄지 자매(매혜란·매혜영)가 설립했다. 6·25전쟁으로 의료기관이 없었던 부산에 ‘일신부인병원’으로 시작한 부산 최초의 여성·영유아병원이다. 2022년에는 부산 시민의 의료생활과 관련된 기억과 발전상을 공유하는 부산 미래유산에 선정됐다.&lt;br&gt;&lt;br&gt;일신기독병원에서 30만번째로 출생한 아기는 지난해 12월 13일 태어난 남아로, 출생 당시 키 47.5cm, 몸무게 3.06kg으로 건강하게 태어났다. 산모 역시 건강한 상태다.&lt;br&gt;&lt;br&gt;이번 행사에는 일신기독병원에서 태어난 5만둥이, 10만둥이, 20만둥이, 25만둥이, 쌍둥이, 다둥이가족 등도 초청해 30만명 출생을 함께 축하한다.&lt;br&gt;&lt;br&gt;1982년생인 10만둥이 박모씨는 3명의 자녀를 모두 일신기독병원에서 출산했다. 1994년 20만둥이로 태어난 신모씨는 서울 상계백병원에서 소아과 의사로 일하며 어린이들을 진료하고 있다. 현재는 만삭이라 행사에 참여하지는 못하는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4GED3W7ROBE3LF2DX23SFI2CLY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;30만둥이를 낳은 산모와 남편(가운데), 분만을 담당한 산부인과 문은정 과장(오른쪽 세번째)과 홍경민 병원장(오른쪽 두번째), 병원 관계자들이 기념촬영을 하고 있다. /일신기독병원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;또 ‘경남 의령군 10남매’ 가족으로 알려진 박성용(51)·이계정(49)씨 부부 역시 10남매 중 3째부터 9째까지 7명을 이곳에서 분만했다.&lt;br&gt;&lt;br&gt;일신기독병원은 설립 이후 73년간 간호조산사 교육생 2649명을 배출했다. 이는 국내 전체 조산사의 3분의 1 수준이다.&lt;br&gt;&lt;br&gt;현재는 ‘고위험 산모 클리닉’과 ‘국가지정 신생아 중환자실’을 운영하며 안전한 분만 진료를 이어가고 있다.&lt;br&gt;&lt;br&gt;홍경민 일신기독병원 병원장은 “부산의 1개 구(區) 인구 수에 달하는 30만명의 소중한 생명이 저희 병원에서 탄생하게 돼 병원 가족 모두 기뻐하고 있다”며 “출산과 육아는 힘들지만 삶을 풍요롭게 하는 가치 있는 일인 만큼 앞으로도 여성, 영유아 병원으로서 역할해 나갈 것”이라고 말했다.&lt;br&gt;&lt;br&gt;박설연 부산시 여성가족국장은 “부산 뿐 아니라 전국적으로 출산율이 낮아지고 인구 감소가 가속화되는 시점에 일신기독병원 30만번째 출생아의 울음소리는 부산에 희망과 기쁨을 전하는 신호”라며 “출산·양육 친화적 환경을 조성하기 위해 노력하겠다”고 말했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4GEBN4L5XDN7NCRI4J7WPLT73I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;1952년 9월 17일, 부산 일신기독병원 임시병동 개원 당시 찍은 기념사진. 왼쪽부터 유경순, 매혜영, 매혜란, 방필수씨. 호주인인 매혜영, 매혜란 자매는 일신기독병원 설립자다. /조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>“아침밥 안 차려주는 아내, 바람피울 듯”…기안84 발언 논란</title>
@@ -1001,15 +1014,6 @@
       <media:content url="https://www.chosun.com/resizer/v2/TCHTEQFXOBAIVK7WWAL2JWNAEA.jpg?width=948&amp;height=556&amp;auth=ae2ca79a60d9101f73e12fb321d025a1f0eaca27e3d89395a76fa1cfcbb5ebe3&amp;smart=true" type="image/jpeg" height="556" width="948">
         <media:description type="plain">양소영 변호사./유튜브</media:description>
       </media:content>
-    </item>
-    <item>
-      <title>최신원 前SK네트웍 회장 2심도 징역형, 법정 구속</title>
-      <link>https://www.chosun.com/national/court_law/2025/01/17/SXNJ3I5WKRFYZO5FKTAA2CO3NU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/01/17/SXNJ3I5WKRFYZO5FKTAA2CO3NU/</guid>
-      <dc:creator>박강현 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 16 Jan 2025 15:53:00 +0000</pubDate>
-      <content:encoded>2000억원대 회삿돈을 횡령·배임한 혐의 등으로 재판에 넘겨진 최신원(73) 전 SK네트웍스 회장이 항소심에서 실형을 선고받고 법정구속됐다.&lt;br&gt;&lt;br&gt;서울고법 형사13부(재판장 백강진)는 16일 특정경제범죄 가중처벌법 위반(횡령) 등 혐의로 기소된 최 전 회장에게 1심과 같이 징역 2년6개월을 선고하고, “증거인멸 및 도망의 우려가 있다”며 법정구속했다. 재판부는 “횡령·배임으로 인한 피해금액이 560억원이 넘는다. 피고인이 이뤄온 사회적·경제적 공헌을 고려하더라도 위법 행위에 대해서는 엄중한 처벌이 필요하다”고 했다.&lt;br&gt;&lt;br&gt;최 전 회장은 SK텔레시스 대표로 있을 때 회사가 부도 위기에 처하자, 2012년과 2015년 유상증자를 실시하며 또다른 계열사인 SKC로부터 900억원가량을 투자하도록 해 SKC 측에 손해를 입힌 혐의(배임)를 받고 있다. 또 SKC 등 계열사 6곳에서 개인 골프장 사업, 가족과 친인척 등의 급여, 호텔과 빌라 등의 사용료, 개인 유상증자 대금 등의 명목으로 약 2235억원을 횡령·배임한 혐의를 받는다.&lt;br&gt;&lt;br&gt;재판부는 이 가운데 ▲골프장 사업 추진을 위해 SK텔레시스로부터 자금 약 155억원을 대여한 혐의 ▲SK텔레시스 자금 약 281억원을 최 전 회장 개인의 유상증자 대금 등으로 쓴 혐의 ▲가족과 친인척에 대한 허위 급여, 호텔 사용료 등에 회삿돈 128억여 원을 쓴 혐의 ▲외국환거래법 위반 및 금융실명법 위반 등 혐의를 각각 유죄로 판단했다.&lt;br&gt;&lt;br&gt;함께 재판에 넘겨진 조대식 전 SK수펙스추구협의회 의장, 조경목 전 SK에너지 대표, 안승윤 전 SK텔레시스 대표, 최모 전 SKC 경영지원본부장 등은 1심과 마찬가지로 무죄를 선고받았다. 최 전 회장의 지시에 따랐을 뿐이라고 판단한 것이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
