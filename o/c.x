@@ -13,6 +13,28 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>“판사X 나와라” “다 죽여버려” 경찰, 서부지법 난동 전담 수사팀 구성</title>
+      <link>https://www.chosun.com/national/national_general/2025/01/19/SYX47INAENF3PA6G2DPUVGVA7I/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/19/SYX47INAENF3PA6G2DPUVGVA7I/</guid>
+      <dc:creator>주형식 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 18 Jan 2025 22:53:28 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4HAYUBGVJBNBPD6RPVRSROQQKQ.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;19일 새벽 서울 마포구 서울서부지방법원에 윤석열 대통령에 대한 구속영장 발부 소식에 격분한 윤 대통령 지지자들이 난입해 유리창과 법원 건물 벽면 등을 부쉈다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰은 19일 새벽 윤석열 대통령이 구속되자 서울 마포구 서부지법에 난입, 법원 외벽과 창문을 부수고 내부 집기를 파손한 혐의를 받는 난동자들에 대한 전담 수사팀을 구성한다고 밝혔다.&lt;br&gt;&lt;br&gt;이들은 법원에 난입, 영장을 발부한 판사를 찾아다니며 “판사X 나와라”고 외치거나 “다 죽여버려”라고 하기도 했다. 경찰 바리케이트를 탈취해 길을 막거나, 경찰 방패를 탈취해 경찰이나 취재진을 위협한 난동자도 있었던 것으로 알려졌다. 부상을 당해 고통스러워하는 경찰도 현장에서 목격됐고, 일부 취재진은 “시위대 위협 때문에 안전한 곳으로 이동해 보도하겠다”고 생중계 현장에서 말하기도 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/644F7AAT7FOT5CIBHUDLARC25E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;19일 서부지법 난동 진압 과정에서 부상을 입은 것으로 보이는 경찰이 쓰러져 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;영장실질심사를 마치고 돌아가는 공수처 검사들이 탄 검은색 SUV(스포츠유틸리티) 차량 2대를 서울지하철 5호선 공덕역 인근에서 훼손한 혐의를 받는 10명은 각각 관악경찰서(3명), 구로경찰서(3명), 양천경찰서(4명) 등으로 이송됐다.&lt;br&gt;&lt;br&gt;법원을 침입해 건조물 침입 혐의를 받는 22명은 각각 강남경찰서(4명), 강서경찰서(4명), 동작경찰서(4명), 마포경찰서(5명), 서초경찰서(5명)로 이송됐다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>경찰 “서부지법 불법행위 교사·방조한 이들 끝까지 추적"</title>
+      <link>https://www.chosun.com/national/2025/01/19/D722YBOWH5BF3N3ZEVEAOZXJN4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2025/01/19/D722YBOWH5BF3N3ZEVEAOZXJN4/</guid>
+      <dc:creator>주형식 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 18 Jan 2025 22:55:09 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MQ32ZTAMQJLMFBVEED4YV7OZCU.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;19일 새벽 윤석열 대통령에 대한 구속영장 발부 소식에 서울 서부지법에 지지자들이 진입해 난동을 부려 경찰이 이를 진압하기 위해 집결하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울경찰청은 19일 “지난 이틀간 서부지법에서 벌어진 불법행위에 대해 철저히 수사 하여 엄정 사법처리할 계획”이라고 밝혔다.&lt;br&gt;&lt;br&gt;경찰에 따르면 18일부터 19일까지 서부지법 앞 집단불법행위로 총 86명을 연행해, 18개 경찰서에 분산 조사 중이다.&lt;br&gt;&lt;br&gt;경찰은 서울청 수사부장을 팀장으로 하는 수사전담팀을 편성했다. 18일 서부지법 앞에서 공무집행방해, 월담행위, 공수처 차량방해 등 혐의로 연행한 40명에 대해서는 서울 내 11개서 수사과에서 전담 수사하고 있다.&lt;br&gt;&lt;br&gt;또 19일 새벽부터 서부지법에 집단적으로 침입해 기물을 파손하는 등 혐의로 연행한 46명에 대해서는 7개서 형사과에서 전담 수사 중이다.&lt;br&gt;&lt;br&gt;서울청은 “형기대 1개팀을 전담팀으로 지정, 채증자료 분석 등을 통해 추가 불법 행위자 및 교사·방조한 자들에 대해서도 끝까지 추적할 예정”이라며 “지난 이틀간 서부지법에서 벌어진 불법행위에 대해 철저히 수사 하여 엄정 사법처리할 계획”이라고 밝혔다.&lt;br&gt;&lt;br&gt;현재 경찰 기동대 17개 부대를 서부지법 주변에 배치해 마포대로 양방 전차로 교통 소통을 확보한 상태다.&lt;br&gt;&lt;br&gt;한편 경찰청은 오전 9시 경찰청 무궁화회의실에서 ‘서울서부지법 등 전국적인 집단 불법폭력시위’ 관련 대책 논의를 위한 긴급 화상회의를 개최할 예정이다. &lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/MQ32ZTAMQJLMFBVEED4YV7OZCU.JPG?width=6000&amp;height=4000&amp;auth=eeb9a2fbed0ff0a79445fc27eab0bcf706ac7c285f0c19704194d429cc00c749&amp;smart=true" type="image/jpeg" height="4000" width="6000">
+        <media:description type="plain">19일 새벽 윤석열 대통령에 대한 구속영장 발부 소식에 서울 서부지법에 지지자들이 진입해 난동을 부려 경찰이 이를 진압하기 위해 집결하고 있다./뉴스1</media:description>
+        <media:credit role="author" scheme="urn:ebu">(서울=뉴스1) 민경석 기자</media:credit>
+      </media:content>
+    </item>
+    <item>
       <title>尹 지지자들 서부지법 내부 진입해 기물 파손…경찰, “40명 현행범 체포”</title>
       <link>https://www.chosun.com/national/national_general/2025/01/19/BCIPORMHQVERTDODZDNF7GBOO4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/19/BCIPORMHQVERTDODZDNF7GBOO4/</guid>
@@ -856,15 +878,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5LAE3WSYIMAQRFEMNCSPGWX6MU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국민건강보험공단과 주요 담배 회사들 간의 소송전이 11년째 이어지는 가운데, 그동안 흡연 관련 건강보험 진료비는 2배 이상으로 불어난 것으로 나타났다.&lt;br&gt;&lt;br&gt;17일 건보공단에 따르면, 흡연 관련 질환으로 건강보험에서 지출된 총진료비는 2014년 약 1조7000억원에서 2023년 약 3조8000억원으로 늘었다. 또 최근 6년간(2018~2023년) 흡연으로 지출된 총진료비를 모두 합하면 20조원을 넘는 것으로 나타났다. 건보공단은 세계보건기구(WHO) 발표와 선행 연구를 통해 폐암·후두암 등 흡연과 관련성이 있다고 보고된 56개 질병군을 선별하고, 그중에서도 인과관계가 큰 45개 질환을 뽑아 진료비를 산정했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5YLJAZH255FFVOXXD74Y7PRXGA.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=이진영&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;건보공단은 이 같은 사실을 지난 15일 담배 회사들을 상대로 낸 손해배상 소송 항소심 법정에서 공개했다. 이 재판은 건보공단이 2014년 4월 KT&amp;amp;G·한국필립모리스·BAT코리아 등을 상대로 “흡연으로 인한 질병 치료에 들어간 진료비를 배상하라”며 533억원의 손해배상을 청구해 시작됐다. 2020년 나온 1심은 흡연과 질병의 인과관계가 인정되지 않는다는 이유로 건보공단이 패소했다. 건보공단은 항소해 현재 항소심이 진행 중이다.&lt;br&gt;&lt;br&gt;건보공단은 이날 재판에서 ‘흡연과 암 사이의 인과관계’를 입증하는 새로운 연구 논문을 법원에 제출했다고 밝혔다. 건보공단과 연세대 보건대학원이 2004년부터 2013년까지 전국 18개 건강검진센터에서 검진받은 14만1679명을 약 13년간 추적 조사한 것으로 3가지 암(폐암 중 소세포암과 편평세포암, 후두암 중 편평세포암)과 하루 한 갑씩 20년 이상 담배를 피운 흡연자 간의 관련성을 분석했다.&lt;br&gt;&lt;br&gt;연구에 따르면 하루 한 갑씩 20년 이상 담배를 피우고 있는 흡연자는 폐암 중 소세포암 발생 위험이 비흡연자에 비해 최대 41.2배 높았다. 폐암 중 편평세포암은 최대 28.4배, 후두암 중 편평세포암은 최대 6.8배 높게 나타났다. 이를 이용해 계산하면, 흡연을 한 소세포 폐암 환자의 암 발병 원인이 담배 때문일 확률이 97.5%, 편평세포 폐암은 96.4%, 후두암은 85.3%로 나타났다. 법원은 이를 증거로 채택했다.&lt;br&gt;&lt;br&gt;반면, 담배 회사들은 흡연자가 아닌 건보공단이 손해를 봤다고 소송을 거는 것은 법리적으로 납득할 수 없다고 주장한다. 또 질병 발생 원인이 흡연으로 인한 것인지 인과관계를 명확히 밝혀야 한다는 입장이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>음주운전 신고당하자 조수석으로 내린 여성…CCTV에 딱 걸렸다</title>
-      <link>https://www.chosun.com/national/national_general/2025/01/17/EKDFIUKAERCVLHKBRTOHQVRRPA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/17/EKDFIUKAERCVLHKBRTOHQVRRPA/</guid>
-      <dc:creator>박선민 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 17 Jan 2025 11:53:16 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/I3UJPZNYM5DF5DHWJSQ3AOWHNE.gif"&gt;&lt;figcaption&gt;&lt;small&gt;음주운전을 한 운전자가 운전석에서 내려 조수석으로 자리를 옮기고 있다. /경찰청 유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;음주운전을 들키지 않기 위해 조수석에서 내린 뒤 경찰에 운전하지 않았다고 거짓 진술을 하던 여성 운전자가 인근에 설치된 방범카메라(CCTV)에 덜미가 잡혔다. &lt;br&gt;&lt;br&gt;경찰청은 17일 공식 유튜브에 올린 ‘조수석에서 내리면 모를 줄 아셨죠? 다 지켜봤습니다’라는 제목의 영상에서 이 같은 사건을 상세히 전했다. &lt;br&gt;&lt;br&gt;이에 따르면, 지난달 29일 오전 2시쯤 서울의 한 골목길에서 음주운전 의심 신고가 들어왔다. 차량 한대가 골목을 누비며 주차된 다른 차량과 오토바이 등을 치고도 그냥 지나가자, 이를 목격한 한 시민이 경찰에 신고한 것이다. 당시 영상을 보면, 음주운전 차량은 사고 충격으로 너덜거리던 범퍼까지 떨어뜨린 채 현장 이탈을 시도했다. &lt;br&gt;&lt;br&gt;음주 상태였던 여성 운전자 A씨는 음주운전 혐의를 피하고자 조수석에서 내려 경찰에 운전을 하지 않았다고 진술했다. 다만 경찰이 관제센터를 통해 방범카메라 영상을 확인한 결과, A씨가 운전석에서 내려 조수석으로 자리를 옮겨 타는 모습이 고스란히 담겼다. 발뺌하던 A씨는 경찰이 방범카메라 영상을 보여주며 추궁한 끝에 음주운전 사실을 시인했다. &lt;br&gt;&lt;br&gt;음주 측정 결과, A씨 혈중알코올농도는 면허 취소 수준인 것으로 파악됐다. 결국 A씨는 도로교통법 위반으로 검거됐다. &lt;br&gt;&lt;br&gt;한편 경찰은 각 시도 자치경찰위원회와 협조해 연말연시 음주운전을 집중 단속 중이다. 경찰청 주관으로 매주 목요일, 각 시도경찰청 주관으로 주 2회 이상 시도별 일제 단속을 하고 지역별로 상시·수시 단속을 병행한다. 단속 효과를 높이기 위해 불시에 장소를 계속 옮기면서 실시하는 이동식 단속도 벌인다. &lt;br&gt;&lt;br&gt;특히 올해는 ‘마약운전’ 단속도 처음으로 함께 실시한다. 음주 의심이 드는데도 불구하고 음주 감지가 되지 않거나, 클럽과 유흥주점 근처에서 단속되는 경우 등에는 마약 투약 가능성을 확인하는 것이다. 과속·난폭 운전이나 지그재그 운전 등 비정상적인 운전 행태, 눈동자의 충혈 정도, 차에서 내리는 동작 등을 자세히 관찰해 마약운전 의심이 들 때는 운전자 동의를 받아 타액을 이용한 마약 간이검사를 적극적으로 할 예정이다. 운전자 동의가 없더라도 마약운전 정황이 확실하면 영장을 발부받아 정밀검사를 할 방침이다.&lt;br&gt;&lt;br&gt;경찰청 통계에 따르면, 작년 음주운전 단속 적발 건수는 면허정지 수치 3만9255건, 면허취소 수치 9만895건 등 총 13만150건으로 2년 전보다 12% 증가했다. 음주 교통사고는 1만3042건 발생했으며, 이 가운데 159명이 숨지고 2만628명이 다쳤다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>빅5마다 레지던트 지원 10명 안팎...모집기간 이틀 연장</title>
       <link>https://www.chosun.com/national/welfare-medical/2025/01/17/IFTSS2A4QVEGLPIU3BAKM5LUAI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/01/17/IFTSS2A4QVEGLPIU3BAKM5LUAI/</guid>
@@ -881,15 +894,6 @@
       <description/>
       <pubDate>Fri, 17 Jan 2025 10:04:37 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MGGSGIYMTGWYNH7XMTCA3HUUY4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;오는 18일 윤석열 대통령에 대한 영장실질심사가 열릴 서울 마포구 서울서부지방법원./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 대통령의 구속영장 실질심사가 18일 오후 2시 서울서부지법에서 열린다. 당직법관인 차은경 부장판사가 심리를 맡는다. 앞서 윤 대통령에 대한 체포·수색영장을 각각 발부했던 이순형·신한미 영장전담 부장판사는 실질심사가 주말에 열리며 심리를 맡지 않게 됐다.&lt;br&gt;&lt;br&gt;서울서부지법 민사1-3부의 재판장을 맡고 있는 차 부장판사는 1968년 인천광역시에서 태어나 인천 인일여고, 이화여대 경제학과를 졸업했다. 2001년 사법연수원을 30기로 수료한 뒤 법무법인 세종 변호사를 거쳐 2006년 수원지법 판사로 임관했다. 이후 부산지법, 대구가정법원, 인천지법, 서울중앙지법 등에서 부장판사를 지냈다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>尹 구속영장 청구... 현직 대통령 첫 구속 기로</title>
-      <link>https://www.chosun.com/national/court_law/2025/01/17/GIQTDVUZPVEYHMDHGVNPTDILZ4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/01/17/GIQTDVUZPVEYHMDHGVNPTDILZ4/</guid>
-      <dc:creator>이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 17 Jan 2025 08:48:23 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WELRP2QMZF7AXF2DBZCBXQAUHU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령이 지난 15일 오후 경기 과천 고위공직자범죄수사처(공수처)에서 조사를 마치고 차량으로 서울구치소로 이동하고 있다. /장련성 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;고위공직자범죄수사처(공수처)가 17일 윤석열 대통령에 대한 구속영장을 청구했다. 현직 대통령에 대해 구속영장이 청구된 것은 헌정 사상 처음이다. ‘12·3 비상계엄’ 사태 발생 45일만, 윤 대통령이 체포된 지 이틀 만이다.&lt;br&gt;&lt;br&gt;공수처는 이날 오후 5시 40분쯤 내란 우두머리(수괴)와 직권남용권리행사방해 혐의로 윤 대통령에 대한 사후구속영장을 서울서부지법에 청구했다고 밝혔다. 공수처 관계자는 “범죄 중대성과 재범 우려를 고려해 구속영장을 청구했다”고 설명했다. 공수처는 이날 150여 쪽 분량의 청구서를 법원에 제출했다고 한다. 이 청구서엔 경찰 국가수사본부 특별수사단 측이 준비했던 윤 대통령 조사시 질문지 내용을 비롯해 검찰 비상계엄 특별수사본부(본부장 박세현 서울고검장)의 계엄군 핵심 지휘부 5명의 피의자 신문 조서 내용 등이 반영된 것으로 전해졌다.&lt;br&gt;&lt;br&gt;이르면 내일 열릴 것으로 전망되는 구속영장 실질심사에는 공수처 부장검사 등 6~7명 검사가 참석할 예정이다. 다만 공수처 관계자는 ‘두 부장검사(이대환 수사3부장·차정현 수사4부장) 중 누가 참석하느냐’고 묻는 취재진 질문에는 “말씀드리기 어렵다”고 했다. 지난 16일 서울중앙지법에서 열린 윤 대통령 체포 적부 심사에는 차 부장검사가 참석했었다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DVIKDR4HUVAT5LSDOSKODDUSIU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열대통령에 대한 공수처의 구속영장 청구가 예상되는 서울 서부지방법원 앞에는 윤대통령 지지자들이 보내온 조화가 법원 앞에 놓여 있다 . 2025. 1. 17/ 조인원 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;공수처는 지난 15일 윤 대통령을 체포해 조사했다. 윤 대통령은 지난 16일과 이날 공수처의 소환 통보에 모두 불응해, 공수처는 준비한 질문지 200여 쪽을 모두 물어보지는 못한 상태다. 그러나 공수처 관계자는 “구속영장을 청구하는 데 큰 무리는 없다”며 “경찰과 검찰에서 보낸 자료 등을 참고해 상세히 준비했다”고 밝혔다.&lt;br&gt;&lt;br&gt;한편, 서울서부지법은 앞서 윤 대통령에 대한 체포·수색영장을 두 차례 발부했다. 1차 영장은 이순형 영장전담 부장판사가, 2차 영장은 신한미 영장전담 부장판사가 각각 발부했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>尹 대통령 옥중 편지 “국민 여러분 뜨거운 애국심에 감사” [전문]</title>
