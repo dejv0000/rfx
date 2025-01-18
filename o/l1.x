@@ -6,6 +6,16 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>윤석열 대통령, 구속영장심사 출석하기로 "계엄 정당성 직접 설명"</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/204874.jpg" alt="yoon8.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;윤석열 대통령 《사진=연합뉴스》&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="8480"&gt;윤석열&lt;/span&gt;(64·사법연수원 23기) 대통령이 18일 오후 2시 서울서부지법에서 열리는 영장실질심사에 출석해 비상계엄의 정당성과 내란죄가 성립되지 않는 이유를 직접 설명하기로 했다. &lt;br /&gt;&lt;br /&gt;윤 대통령의 변호인&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="8443"&gt;윤갑근&lt;/span&gt;(60·19기) 변호사는 "법정에 직접 출석해 당당하게 대응하는게 좋다는 변호인들의 건의를 받아들여 (윤 대통령이) 출석하기로 결심했다"고 밝혔다. &lt;br /&gt;&lt;br /&gt;윤 변호사는 "특히 대통령의 명을 받아 계엄업무를 수행하거나 질서유지 업무를 수행한 장관, 사령관등 장군들, 경찰청장등이 구속된 것을 너무 안타깝게 생각한다"며 "법정과 헌법재판소에서 비상계엄의 정당성과 내란죄가 성립되지 않는다는 것을 직접 설명해 명예를 회복시켜야 한다는 마음에서 출석하기로 했다"고 말했다. &lt;br /&gt;&lt;br /&gt;고위공직자범죄수사처는 전날 12·3 비상계엄 선포로 내란 우두머리 혐의를 받는&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="8480"&gt;윤석열&amp;nbsp;&lt;/span&gt;대통령에 대한 구속영장을 청구했다. &lt;br /&gt;&lt;br /&gt;공수처는 지난 15일 윤 대통령을 체포한 이후 한 차례 밖에 피의자 조사를 하지 못했다. 윤 대통령은 첫 조사에서 계엄의 정당성을 설명한 뒤 모든 진술을 거부했고 건강상의 이유와 충분히 답했다는 이유로 이틀 연속 조사에 불응했다. &lt;br /&gt;&lt;br /&gt;공수처는 경찰 국가수사본부와 검찰이 보내온 자료를 토대로 탄탄하게 준비해 영장을 청구했다는 입장이다. 공수처는 자료 등을 포함해 150여 쪽 분량의 구속영장청구서를 법원에 제출했다. &lt;br /&gt;&lt;br /&gt;구속영장 청구 직후 윤 대통령은 변호인단을 통해 편지를 공개했다. 윤 대통령은 편지에 "조금 불편하기는 하지만 저는 구치소에서 잘 있습니다"라며 "대통령 취임사부터 3.1절, 광복절 기념사, 대국민 담화 등 그동안 국민들께 드렸던 말씀들을 다시 읽으며 마음을 가다듬고 지나온 국정을 되돌아보고 있습니다"라고 했다.&lt;br /&gt;&lt;br /&gt;이어 "많은 국민들께서 추운 거리로 나와 나라를 위해 힘을 모아주고 계신다고 들었습니다"라며 "국민 여러분의 뜨거운 애국심에 감사드립니다"라고 밝혔다.&lt;/p&gt;</description>
+			<pubDate>Sat, 18 Jan 2025 02:39:24 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/204874</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/204874</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/204874.jpg</media:thumbnail>
+			<dc:creator>우빈 기자</dc:creator>
+		</item>
+		<item>
 			<title>【오늘의 국회일정】 2025년 1월 18일</title>
 			<description>&lt;b&gt;◇국회의장&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;11:00 12.29 제주항공 여객기 사고 희생자 합동추모식(무안공항)&lt;br /&gt;&lt;br /&gt;&lt;b&gt;◇소통관 기자회견&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;10:20 윤상현 의원, [현안 관련 기자회견]&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;b&gt;&lt;span style="font-size: 14px;"&gt;※ 상기 일정은 사정에 따라 변경될 수 있습니다.&lt;/span&gt;&lt;/b&gt;</description>
 			<pubDate>Fri, 17 Jan 2025 22:37:20 -0000</pubDate>
@@ -233,16 +243,6 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/204862</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/204862.jpg</media:thumbnail>
 			<dc:creator>우빈 기자</dc:creator>
-		</item>
-		<item>
-			<title>"SM인수는 시세조종 아닌 정상적 절차"...김범수 비서실장 황태선 법정서 주장</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/204860.jpg" alt="204860.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;김범수 카카오 경영쇄신위원장 《사진=연합뉴스》&lt;/figcaption&gt;   &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;김범수 카카오 경영쇄신위원장이 SM엔터테인먼트(SM) 인수 과정에서 시세를 조종한 혐의를 받아 진행되는 재판에서 비서실장격인 황태선 카카오 CA협의체 총괄대표가 증인으로 출석해 김 위원장의 혐의를 전면 부인했다.&lt;br /&gt;&lt;br /&gt;서울남부지법 형사15부(재판장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="2130"&gt;양환승&amp;nbsp;&lt;/span&gt;부장판사)는 17일 자본시장법 위반 혐의로 기소된 김범수 위원장 공판을 열고, 황태선 총괄의 증인신문을 진행했다. &lt;br /&gt;&lt;br /&gt;황 총괄은 이날 SM 인수 과정에서 이뤄진 투자테이블 운영 방식과 의사결정 과정에 대해 상세히 증언하면서 "투자테이블은 참석자들의 자유로운 의견 개진을 통해 컨센서스를 도출하는 방식으로 진행됐다"며 "김범수 의장이 찬성해도 진행되지 않거나, 반대해도 진행된 경우가 있었다"고 말했다.&lt;br /&gt;&lt;br /&gt;특히 황 총괄은 김 위원장이 SM 경영권 인수에 대해 일관되게 부정적 입장을 보였다고 주장했다. 그는 "김 위원장은 '대주주 뜻을 거슬러 적대적으로 하는 것은 반대'라는 입장을 고수했고, 하이브와 싸우면서 인수하는 것을 싫어했다"고 말했다.&lt;br /&gt;&lt;br /&gt;황 총괄은 SM 인수를 둘러싼 주요 의사결정 과정도 증언했다. 황 총괄은 1월 30일 첫 투자테이블에서 김 위원장을 포함한 홍은택, 김기홍 등 주요 임원이 부정적 의견을 제시했으며, 2월 24일 하이브의 적대적 M&amp;A 선언 후에야 사업협력 유지를 위한 지분매입 필요성에 공감대가 형성됐다고 주장했다. 그는 "배재현 총괄이 김범수 의장과 단독으로 SM 투자를 결정할 수 없는 구조"라며 "투자테이블이 여러 차례 열린 것은 지속적인 고민과 상황 변화 때문"이라고 말했다.&lt;br /&gt;&lt;br /&gt;김 위원장은 SM 인수 과정에서 경쟁사인 하이브의 공개매수를 방해하기 위해 원아시아파트너스 등과 공모해 시세를 조종한 혐의로 지난해 8월 구속기소됐다. SM 지분 5% 이상을 보유하고도 금융당국에 보고하지 않아 공시 의무를 어긴 혐의도 있다.&lt;br /&gt;&lt;br /&gt;하이브는 당시 주당 12만 원에 SM 주식을 공개매수하려 했지만 주가가 12만 원 이상으로 올라 실패했다. 검찰은 카카오가 2400억 원을 동원해 553회에 걸쳐 SM 주식을 매수하며 주가를 조작했다고 의심한다.&lt;br /&gt;&lt;br /&gt;김 위원장은 지난해 10월 31일 보석 신청이 인용돼 불구속 상태로 재판을 받고 있다. 법원은 보석 조건으로 서약서 제출과 주거 제한, 보증금 3억 원 납부, 소환 시 출석, 출국 및 3일 이상 여행 시 법원에 사전 신고, 증인·참고인 접촉 금지 등을 부과했다.&lt;/p&gt;</description>
-			<pubDate>Fri, 17 Jan 2025 08:50:37 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/204860</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/204860</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/204860.jpg</media:thumbnail>
-			<dc:creator>안재명 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
