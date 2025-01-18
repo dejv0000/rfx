@@ -13,6 +13,88 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>尹 지지자들 서부지법 내부 진입해 기물 파손…경찰, “40명 현행범 체포”</title>
+      <link>https://www.chosun.com/national/national_general/2025/01/19/BCIPORMHQVERTDODZDNF7GBOO4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/19/BCIPORMHQVERTDODZDNF7GBOO4/</guid>
+      <dc:creator>고유찬 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 18 Jan 2025 18:04:19 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CXMRQ2TH7FIB3IQMHMNOR34VFM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;내란 우두머리 혐의를 받는 윤석열 대통령이 구속된 가운데 19일 오전 서울 마포구 서울서부지방법원 현판이 떨어져 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 대통령의 구속영장 발부 소식이 전해지자 지지자들이 서울서부지법의 창문을 깨고 내부에 진입하는 등 난동을 부렸다. 경찰은 경찰은 기동대 등 총 1400여 명을 투입해 시위대를 진압 중이다. 이 과정에서 시위대 40명이 현행범으로 체포됐다.&lt;br&gt;&lt;br&gt;서울서부지법 차은경 부장판사는 이날 오전 3시쯤 “피의자가 증거를 인멸할 염려가 있다”며 구속영장을 발부했다.&lt;br&gt;&lt;br&gt;이 같은 소식이 전해지자 법원 앞에 모여있던 수백 명의 윤 대통령 지지자들은 “말도 안 된다”며 오열했다. 결과를 믿을 수 없다는 듯 울음을 터뜨리거나, ‘으아아아’ 괴성을 지르는 사람도 있었다. 법원을 향해 거칠게 욕설을 퍼붓는 지지자들도 보였다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DXCB2H6FINCNVIHP3PQZG5JO7Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 마포구 서울서부지방법원에서 18일 윤석열 대통령이 구속 전 피의자 심문(영장실질심사)을 받고 있는 가운데 지지자들이 법원 담장 너머에서 시위를 하고 있다. /고운호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;영장 발부 소식에 흥분한 시위대는 법원 정문 방향으로 달려가 경찰과 대치했다.&lt;br&gt;&lt;br&gt;이들은 “길 막지 마라” “불법 경찰 물러가라” “이건 내전이다” “판사X 나와라” 등의 구호를 외치며 거칠게 항의했다. 일부는 법원을 향해 벽돌 등을 던지기도 했다.&lt;br&gt;&lt;br&gt;경찰에 정문 진입을 막히자 일부 시위대는 법원 옆 골목길로 들어갔다. 이들 중 일부는 담을 넘어 법원 내부로 들어갔다. 일부는 법원 후문으로 몰려갔다.&lt;br&gt;&lt;br&gt;시위대가 밀려들며 윤 대통령 지지자들은 법원 후문의 경찰 저지선을 뚫고 법원 경내로 진입했다. 수백 명의 인파가 법원 경내로 들어가 이곳을 지키던 경찰과 뒤섞이며 아비규환의 상황이 연출됐다.&lt;br&gt;&lt;br&gt;이들은 경찰 바리케이드를 부수거나 법원 유리와 외벽을 깨는 등 기물 파손 행위를 이어갔다.&lt;br&gt;&lt;br&gt;일부 시위대는 경찰을 향해 소화기도 난사했다. 들고 있던 경광봉으로 경찰을 폭행하는 모습도 목격됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NSPXVZS5TNPJDHFYVCIWYEL2HY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;내란 우두머리 혐의로 윤석열 대통령이 구속된 19일 윤 대통령 지지자들이 서울서부지법 창문을 깨고 내부로 진입하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 새벽 3시 21분쯤 법원 후문으로 몰려간 일부 시위대는 유리창과 유리문을 깨고 건물 셔터를 올린 뒤 법원 내부로 들어갔다. 일부 시위대는 법원 안에서 큰 소리로 윤 대통령 이름을 연호했고, 영장 발부 판사를 찾는 이들도 보였다.&lt;br&gt;&lt;br&gt;이들을 건물 내부의 물건들을 닥치는 대로 집어던지고, 경광봉 등으로 각종 시설들을 파괴했다. 법원 내 TV를 비롯한 각종 전자기기와 음료수 자판기, 현금 자동 입출금기(ATM) 등도 모두 부서졌다.&lt;br&gt;&lt;br&gt;경찰에 따르면, 이들은 법원 청사 여러 층을 옮겨 다니며 집기를 파손하는 등 난동을 부렸다. 일부는 한때 법원 3층까지 진입했던 것으로 알려졌다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FAYTM7NJFJJDHI4ZWR25PKXX4M.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;19일 새벽 윤석열 대통령에 대한 구속영장이 발부되자 서울서부지법에 지지자들이 진입해 난동을 부리고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;시위대 난입 11분 만인 3시 32분쯤부터 경찰은 법원 내부로 경찰 병력을 투입해 시위대 강제 진압에 나섰다.&lt;br&gt;&lt;br&gt;법원 경내에서 난동을 부리던 지지자들은 오전 4시쯤 경찰에 의해 대부분 법원 바깥으로 끌려나온 상태다. 이들 중 상당수는 이미 경찰에 연행됐다.&lt;br&gt;&lt;br&gt;시위대 난입 장면을 모두 생중계로 찍던 한 유튜버는 자신이 현행범 체포되는 장면마저 실시간 중계했다. 경찰에 검거되자 자신은 “딸려 들어왔다”고 했다.&lt;br&gt;&lt;br&gt;시위대와 경찰 사이에 충돌이 격화되며 부상자도 속출하고 있다. 법원 앞에는 부상자 이송을 위해 다수의 구급차가 오가는 모습도 보였다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WPPR5PXECFNHRPFDVK7M626JJ4.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;19일 새벽 윤석열 대통령에 대한 구속영장이 발부되자 서울 서부지법에 지지자들이 진입해 난동을 부리고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;오전 5시 기준 경찰은 법원 내부로 진입한 지지자들을 모두 진압한 상태다. 하지만 법원 후문 쪽에서는 경찰과 지지자들이 여전히 대치 중인 것으로 확인됐다. 법원 인근 도로와 골목길에서도 시위대와 경찰의 충돌이 이어지고 있다.&lt;br&gt;&lt;br&gt;경찰은 기동대 등 총 1400여 명을 투입해 시위대를 진압 중이다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “이날 현재까지 건조물침입 혐의 및 공무집행방해 혐의 등으로 시위대 40명을 현행범으로 체포했다”고 밝혔다. &lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/E5LP2GP3CGNPXGI223JMQBGUTY.jpg?width=4032&amp;height=3024&amp;auth=56c86abd44cd8ca5bd7d16e8b0b933d7dbbd9359ddf3dbbcb2168905b89743dc&amp;smart=true" type="image/jpeg" height="3024" width="4032">
+        <media:description type="plain">19일 오전 3시쯤 윤석열 대통령에 대한 구속영장 발부 직후 서울서부지법에 지지자들이 진입해 난동을 부리고 있다. 2025.1.19/뉴스1 ⓒ News1 김민수 기자</media:description>
+        <media:credit role="author" scheme="urn:ebu">뉴스1 ⓒ News1 김민수 기자</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>尹대통령 구속…법원 “증거 인멸 우려”</title>
+      <link>https://www.chosun.com/national/national_general/2025/01/19/RM7YN5YIDRHA5CU3BDC7X4KWGM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/19/RM7YN5YIDRHA5CU3BDC7X4KWGM/</guid>
+      <dc:creator>고유찬 기자, 유종헌 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 18 Jan 2025 17:59:57 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3YEWI6BGD5EMXAU3YONLRIMI6A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 15일 헌정 사상 처음 현직 대통령 신분으로 체포된 윤석열 대통령이 고위공직자범죄수사처(공수처) 조사를 받은 후 경호처 차량을 타고 경기 의왕 서울구치소로 향하고 있다. /장련성 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 대통령이 19일 구속됐다. 현직 대통령이 구속된 건 대한민국 헌정 역사상 최초다.&lt;br&gt;&lt;br&gt;서울서부지법 차은경 부장판사는 전날 오후 2시 윤석열 대통령에 대한 구속 전 피의자 심문(영장실질심사)을 열고 이날 오전 “증거인멸의 우려가 있다”며 구속영장을 발부했다. 앞서 고위공직자범죄수사처(공수처)는 지난 15일 윤 대통령을 내란 우두머리와 직권남용 혐의로 체포한 데 이어 지난 17일 구속영장을 청구했다. &lt;br&gt;&lt;br&gt;윤 대통령은 지난달 3일 위헌·위법한 비상계엄을 선포하고, 군경을 국회와 중앙선거관리위원회에 투입하는 등 국헌 문란을 목적으로 폭동을 일으킨 혐의를 받는다. 국회의 정치활동을 금지하는 위법한 계엄 포고령을 발령하고, 이를 근거로 국회를 봉쇄해 비상계엄 해제 의결을 방해했다는 것이다. 또 우원식 국회의장, 이재명 더불어민주당 대표, 한동훈 전 국민의힘 대표 등 주요 인사와 선관위 직원들을 체포·구금하려 했다는 혐의도 있다. &lt;br&gt;&lt;br&gt;공수처는 150여쪽의 구속영장에서 윤 대통령을 ‘전형적인 확신범’으로 칭하며 탄핵심판이 기각되면 윤 대통령이 비상계엄 등 극단적 수단을 다시 동원할 가능성이 있다고 주장한 것으로 전해졌다. &lt;br&gt;&lt;br&gt;법원이 구속영장을 발부한 배경에는 윤 대통령이 받는 내란 우두머리 혐의가 최대 사형에 해당하는 중범죄라는 점이 작용한 것으로 보인다. 범죄의 중대성이 크다고 본 것이다. 또 윤 대통령 지시로 비상계엄을 실행한 김용현 전 국방부 장관 등 관계자 10명이 모두 구속돼 재판에 넘겨진 점도 고려된 것으로 해석된다.&lt;br&gt;&lt;br&gt;공수처는 윤 대통령이 비상계엄 전 휴대전화를 교체하고 텔레그램을 탈퇴한 점을 보면 증거를 인멸할 우려가 있다고 강조했는데 법원은 이 역시 받아들인 것으로 보인다.&lt;br&gt;&lt;br&gt;반면 윤 대통령 측은 비상계엄은 사법심사의 대상이 될 뿐만 아니라 공수처에는 내란죄 수사권도 없고, 공수처가 서울중앙지법이 아닌 서부지법을 택한 것은 전속 관할권 위반이라고 주장했지만 받아들여지지 않았다. 앞서 체포적부심 심사를 맡은 서울중앙지법도 이 같은 주장을 받아들이지 않았었다.&lt;br&gt;&lt;br&gt;공수처는 지난달부터 윤 대통령에게 세 차례 출석을 요구했지만 출석하지 않자 서울서부지법에서 체포영장을 발부받아 지난 15일 윤 대통령을 체포했다. 윤 대통령은 체포 당일 조사에서 진술 거부권을 행사했고, 16일과 17일에는 조사 자체를 거부했다. 그러자 공수처는 더 이상 조사는 무의미하다고 보고 17일 구속영장을 청구했다.&lt;br&gt;&lt;br&gt;한편 이날 구속영장이 발부됨에 따라 윤 대통령은 정식으로 구치소 입소 절차를 거쳐 경기 의왕 서울구치소 내 미결수 수용동에 수감된다.&lt;br&gt;&lt;br&gt;일반 수용자들과 같이 이름과 주민등록번호, 주소 등 인적 사항을 확인하고 간단한 신체검사를 받아야 한다. 미결수용 수의(囚衣)를 입어야 하고, 수용자 번호를 달고 이른바 머그샷(수용기록부 사진)도 찍게 된다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[이별전쟁] “이혼만 하자”는 남편 “못해준다” 아내, 결론은 났지만… </title>
+      <link>https://www.chosun.com/national/court_law/2025/01/19/PEMFJS3NANHZLJOCMH4SOY4JVE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/01/19/PEMFJS3NANHZLJOCMH4SOY4JVE/</guid>
+      <dc:creator>법무법인 시작</dc:creator>
+      <description/>
+      <pubDate>Sat, 18 Jan 2025 20:30:00 +0000</pubDate>
+      <content:encoded>&lt;b&gt;편집자주: 이 기사는 이혼 소송 과정에서 필요한 법률 지식을 제공할 목적으로 제작됐습니다. 기사 내용은 실제 사례를 각색했습니다. 기사 내 언급되는 이름과 지명 등이 실제와 같은 경우가 있더라도 이는 우연에 의한 것임을 밝힙니다.&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;격주 토요일·일요일 연재.&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4JU64GBGMVAPDICKGWXBGXRQ5E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6HAOEKH7KBDJVLP63O73P5NFEA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/V4FLDBMCJVDNTNNVZKXLFO5DDM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2LTUY6NBIVEWXK2R6S3QOUE3OM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WQ6EEMMLYJCL3DTKYOBTFFDDMU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/46K47LHP3BHSVIFPZYKTH3DGUE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/32QIUFFB6ZACTODXSGDFX3LFBY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;[이별전쟁] 거짓말을 하지 맙시다 끝&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;&amp;lt;다른 회차 보기&amp;gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;[이별전쟁] 수학과 결혼했어요①&lt;br&gt;&lt;br&gt;&lt;a href="https://m.site.naver.com/1A1wr"&gt;https://m.site.naver.com/1A1wr&lt;/a&gt;&lt;br&gt;&lt;br&gt;[이별전쟁] 수학과 결혼했어요②&lt;br&gt;&lt;br&gt;&lt;a href="https://m.site.naver.com/1A1wx"&gt;https://m.site.naver.com/1A1wx&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/CEBYJKZ2MZFS3N25KZ7AWAVYTA.png?width=1800&amp;height=1012&amp;auth=05b426f768d500c4ba6c69a1cbdbfc331449c36b721998bbae4c5a4e8816114d&amp;smart=true" type="image/png" height="1012" width="1800"/>
+    </item>
+    <item>
+      <title>사상 첫 대통령 구속, 경호는 어떻게?…담장 경계가 기준</title>
+      <link>https://www.chosun.com/national/court_law/2025/01/19/CGMSCPFV5BE5FFF2LDYIRSQLYA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/01/19/CGMSCPFV5BE5FFF2LDYIRSQLYA/</guid>
+      <dc:creator>유종헌 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 18 Jan 2025 20:25:58 +0000</pubDate>
+      <content:encoded>윤석열 대통령이 19일 구속됐지만, 현직 대통령 신분을 유지하고 있는 만큼 대통령 경호처의 경호는 계속되게 된다. 다만 윤 대통령은 구치소 내부에서 생활할 때는 교도관들의 계호·경호를 받을 예정인 것으로 알려졌다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LSDQEPIWTMWUVFV6QXIKUG4NXU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령이 15일 고위공직자범죄수사처(공수처) 조사를 마친 후 경기도 의왕시 서울구치소에 도착하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대통령경호법에는 대통령이 구속될 경우 어느 수준까지 경호가 제공돼야 할지 규정돼 있지 않다. 대통령 경호처는 윤 대통령이 체포된 지난 15일부터 서울구치소와 경호 방식과 범위 등에 대해 논의해 왔다. 당초 대통령 경호처는 구치소 전체를 경호구역으로 지정해야 한다는 입장을 밝혔지만, 현행법상 수용자들에 대한 계호 권한이 교도관들에 있다는 이유 등으로 받아들여지지 않은 것으로 전해졌다. &lt;br&gt;&lt;br&gt;지금까지는 경호처가 서울구치소 내부 담장(주벽)을 기준으로 정문 바깥 구역 경호만 맡았다. 수용자들이 생활하는 담장 안까지 들어오지 않은 것이다. 담장 안 경호·계호는 교도관들이 담당했고, 경호처는 윤 대통령이 조사나 영장실질심사 출석 등을 위해 외부로 이동할 때만 경호를 맡았다.&lt;br&gt;&lt;br&gt;다만 체포 시한이 48시간인 데 비해 구속 기한은 기소 전 최장 20일·기소 후 6개월로 상대적으로 길고, 앞으로는 윤 대통령이 일반 수용자들이 수용되는 수용동에 수감되기 때문에 경호처가 다시 경호 문제를 구치소와 논의할 가능성이 있다. 윤 대통령은 지금까지는 수용동과 다른 건물에 위치한 구인 피의자 대기실에 머물렀다. &lt;br&gt;&lt;br&gt;교정본부는 윤 대통령이 독거실에 수감될 예정이고, 교정시설은 애당초 외부인 출입이 차단되는 만큼 경호처 직원이 수용동 내부에서까지 경호할 필요성은 적다고 보고 있다. 이명박·박근혜 전 대통령 등 대통령 경호처의 경호 대상인 인물이 수감됐을 때도 경호처는 담장 밖에서만 경호 업무를 맡았다. &lt;br&gt;&lt;br&gt;구속 이후 윤 대통령이 피의자 조사나 탄핵심판 출석 등을 위해 밖으로 이동할 때는 법무부 호송차를 이용하게 된다. 호송차 주변에 경호차가 동행하는 방식의 경호가 계속 이뤄질 전망이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>尹 구속 상태서 내달 초까지 수사...2월 4일쯤 기소될 듯</title>
+      <link>https://www.chosun.com/national/court_law/2025/01/19/MHCXMPAFIFETVNJI653LXZSFEA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/01/19/MHCXMPAFIFETVNJI653LXZSFEA/</guid>
+      <dc:creator>유종헌 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 18 Jan 2025 19:58:26 +0000</pubDate>
+      <content:encoded>19일 윤석열 대통령에 대한 구속영장이 발부되면서, 고위공직자범죄수사처(공수처)의 윤 대통령 내란 우두머리 혐의 수사에도 다시 속도가 붙게 됐다.&lt;br&gt;&lt;br&gt;윤 대통령은 서울구치소에 그대로 머물면서 체포 기한을 포함해 최장 20일간 구속 상태로 수사를 받게 된다. 다만 체포적부심에 걸린 시간은 이 기간에서 제외된다. 윤 대통령은 지난 15일 체포된 뒤 체포적부심을 청구했지만 이튿날 기각된 바 있다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/C6ITDEUFZNUDO6CQVF3IYJLSJQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령이 15일 오후 경기 과천 고위공직자범죄수사처(공수처)에서 조사를 마치고 차량으로 서울구치소로 이동하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤 대통령의 경우 공수처에 기소권이 없어, 공수처가 사건을 검찰에 이첩한 뒤 검찰이 보강 수사를 거쳐 기소해야 한다. 공수처와 검찰은 20일의 구속 기한을 절반씩 나눠쓰기로 협의한 상태다. 이 경우 공수처가 1월 25일쯤 윤 대통령을 검찰에 넘기고, 검찰이 2월 4일쯤 윤 대통령을 기소할 것으로 보인다.&lt;br&gt;&lt;br&gt;공수처는 지난 15일 윤 대통령을 10시간 40분간 조사했지만, 윤 대통령이 진술 거부권을 행사하면서 별다른 답을 듣지 못했다. 윤 대통령은 16일과 17일 조사는 거부했다. 윤 대통령 측은 “윤 대통령의 건강이 좋지 않고 첫 조사에서 충분히 입장을 이야기했기 때문에 더 이상 조사받을 게 없다”는 입장이다.&lt;br&gt;&lt;br&gt;공수처는 남은 일주일간 윤 대통령을 추가로 소환해 조사를 이어나간다는 방침이다. 만약 윤 대통령이 계속 조사를 거부할 경우, 별도의 체포영장을 발부받아 윤 대통령을 조사실로 강제 구인하는 방안도 검토할 전망이다. &lt;br&gt;&lt;br&gt;공수처는 “법과 절차에 따라 이 사건 수사를 진행할 예정”이라고 했다. &lt;br&gt;&lt;br&gt;한편 윤 대통령은 공수처가 2021년 1월 출범한 이후 두번째로 구속한 피의자다. 공수처는 비상계엄 사태 이전까지 구속영장을 5번 청구해 모두 기각당했다가, 이번 사건을 수사하며 문상호 전 정보사령관을 처음으로 구속했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>정장 입고 있던 尹, 수형복으로...미결수 수용동 수감된다</title>
+      <link>https://www.chosun.com/national/national_general/2025/01/19/MFDVZTVLJRALZPBAAVLF4TNLEI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/19/MFDVZTVLJRALZPBAAVLF4TNLEI/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 18 Jan 2025 19:37:45 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TYNKKDE2DNNY3GSJI66FMDQD2Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령의 구속 전 피의자 심문(영장실질심사)이 종료된 18일 서울 마포구 서울서부지방법원에서 윤 대통령이 탑승한 호송차량이 법원을 나와 서울구치소로 향하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울서부지법이 19일 새벽 윤석열 대통령에 대한 구속영장을 발부함에 따라 윤 대통령은 미결 수용자 대우를 받게 됐다.&lt;br&gt;&lt;br&gt;윤 대통령은 정식으로 구치소 입소 절차를 거쳐 경기 의왕 서울구치소 내 미결수 수용동에 수감된다. 윤 대통령은 지난 15일 체포된 이후 서울구치소 내 구인 피의자 대기실에 머물러왔다.&lt;br&gt;&lt;br&gt;윤 대통령은 일반 수용자들과 같이 이름과 주민등록번호, 주소 등 인적 사항을 확인하고 간단한 신체검사를 받아야 한다.&lt;br&gt;&lt;br&gt;윤 대통령은 그동안 정장을 착용해왔지만 이제부턴 미결수용 수형복을 입어야 하고 수용자 번호를 달고 이른바 머그샷(수용기록부 사진)도 찍게 된다.&lt;br&gt;&lt;br&gt;윤 대통령은 현직 대통령 신분이기 때문에 수용동에서 독방을 쓰게 될 것으로 전망된다. 독방 내부에는 매트리스, 책상 겸 밥상, 관물대, TV, 변기와 세면대 등이 구비돼 있다.&lt;br&gt;&lt;br&gt;앞서 박근혜 전 대통령은 탄핵으로 파면된 후 구속돼 2017년 3월 서울구치소 내 3.04평 면적의 독방에 수감된 바 있다. 또 이명박 전 대통령도 임기를 마친 후인 2018년 3월 구속돼 서울동부구치소 내 3.95평 면적의 독방에서 수감 생활을 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>공수처, 尹대통령 구속에 “법·절차에 따라 수사 진행”</title>
+      <link>https://www.chosun.com/national/national_general/2025/01/19/IIE3PGKC7ZESBJEEVXVR2A2PMU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/19/IIE3PGKC7ZESBJEEVXVR2A2PMU/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 18 Jan 2025 19:05:51 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KCFIPYF5IJPPPAE4SBPS35UU2M.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;내란 우두머리 혐의로 체포된 윤석열 대통령이 18일 오후 서울 마포구 서울서부지방법원에서 영장실질심사를 받았다./고운호 기자
+
+윤 대통령에 대한 영장심사가 끝난 뒤 호송차량을 비롯한 경호차량들이 법원을 빠져나가고 있다.(공동취재) 2025.1.18/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;고위공직자범죄수사처(공수처)는 19일 새벽 윤석열 대통령에 대한 구속영장이 발부된 것과 관련해 “법과 절차에 따라 이 사건 수사를 진행할 예정”이라고 밝혔다.&lt;br&gt;&lt;br&gt;공수처와 경찰 등으로 꾸린 비상계엄 공조수사본부는 이날 언론 공지를 통해 “공수처는 금일 오전 2시 50분쯤 피의자 윤OO에 대한 구속영장을 발부받았다. 발부 사유는 ‘증거인멸 우려’”라며 이같이 전했다.&lt;br&gt;&lt;br&gt;앞서 공수처는 윤석열 대통령에 대해 지난 17일 구속 영장을 청구했다. 150여 쪽 분량 구속영장엔 내란 우두머리, 직권남용 혐의가 적시됐다.&lt;br&gt;&lt;br&gt;공수처는 일단 원론적인 입장만 밝히며 신중한 모습을 보였다. 공수처는 윤 대통령에 대한 구속영장이 발부된 만큼 조만간 대면 조사를 진행할 방침이다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>경찰 폭행·법원 침입까지… 서부지법 시위자 40명 연행</title>
+      <link>https://www.chosun.com/national/national_general/2025/01/19/FHC6L7DGQRD3LDRWU3A5TUNWRY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/19/FHC6L7DGQRD3LDRWU3A5TUNWRY/</guid>
+      <dc:creator>고유찬 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 18 Jan 2025 15:03:31 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GLMO6YRXHNJTDOHDOL36SL3VNU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령의 구속 전 피의자심문(영장실질심사)이 종료된 18일 서울 마포구 서부지법 인근 공덕오거리에서 윤 대통령 지지자들이 경찰과 몸싸움을 벌이고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;18일 윤석열 대통령의 구속 전 피의자 심문(영장실질심사)이 열린 서울서부지법 주변 시위에서 총 40명이 체포된 것으로 파악됐다.&lt;br&gt;&lt;br&gt;경찰에 따르면, 서울 마포경찰서는 이날 경찰관을 폭행한 혐의(공무집행방해)를 받는 7명을 현행범으로 체포했다. 이 중 1명은 차량을 이용해 경찰을 폭행해 특수공무집행방해 혐의가 적용됐다.&lt;br&gt;&lt;br&gt;또 영장실질심사가 열린 서부지법 담장을 넘어 청사 부지로 침입한 혐의(건조물 침입)를 받는 22명과 고위공직자범죄수사처(공수처) 차량을 공격한 혐의(공무집행방해 등)를 받는 10명, 취재진을 폭행한 혐의를 받는 1명도 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;경찰은 체포된 이들을 인근 마포경찰서를 비롯, 서울 시내 일선 경찰서에 분산해 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/Q5UOFPP7FJAZFA6B6YXVRCMN2U.jpg?width=5680&amp;height=3787&amp;auth=38f253e48bbbd67a762a256a12c6fe84dce4c1dd60040d84cddb17a5a635d750&amp;smart=true" type="image/jpeg" height="3787" width="5680">
+        <media:description type="plain">서울 마포구 서울서부지방법원에서 18일 윤석열 대통령이 구속 전 피의자 심문(영장실질심사)을 받고 있는 가운데 지지자들이 법원 담장 너머에서 시위를 하고 있다. 2025.01.18  / 고운호 기자</media:description>
+      </media:content>
+    </item>
+    <item>
       <title>[속보] 경찰, ‘尹체포 저지’ 김성훈 경호차장 구속영장 신청</title>
       <link>https://www.chosun.com/national/national_general/2025/01/18/7ITSG6O2TFEYHLP237Q2BI3HCI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/18/7ITSG6O2TFEYHLP237Q2BI3HCI/</guid>
@@ -783,30 +865,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/I3UJPZNYM5DF5DHWJSQ3AOWHNE.gif"&gt;&lt;figcaption&gt;&lt;small&gt;음주운전을 한 운전자가 운전석에서 내려 조수석으로 자리를 옮기고 있다. /경찰청 유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;음주운전을 들키지 않기 위해 조수석에서 내린 뒤 경찰에 운전하지 않았다고 거짓 진술을 하던 여성 운전자가 인근에 설치된 방범카메라(CCTV)에 덜미가 잡혔다. &lt;br&gt;&lt;br&gt;경찰청은 17일 공식 유튜브에 올린 ‘조수석에서 내리면 모를 줄 아셨죠? 다 지켜봤습니다’라는 제목의 영상에서 이 같은 사건을 상세히 전했다. &lt;br&gt;&lt;br&gt;이에 따르면, 지난달 29일 오전 2시쯤 서울의 한 골목길에서 음주운전 의심 신고가 들어왔다. 차량 한대가 골목을 누비며 주차된 다른 차량과 오토바이 등을 치고도 그냥 지나가자, 이를 목격한 한 시민이 경찰에 신고한 것이다. 당시 영상을 보면, 음주운전 차량은 사고 충격으로 너덜거리던 범퍼까지 떨어뜨린 채 현장 이탈을 시도했다. &lt;br&gt;&lt;br&gt;음주 상태였던 여성 운전자 A씨는 음주운전 혐의를 피하고자 조수석에서 내려 경찰에 운전을 하지 않았다고 진술했다. 다만 경찰이 관제센터를 통해 방범카메라 영상을 확인한 결과, A씨가 운전석에서 내려 조수석으로 자리를 옮겨 타는 모습이 고스란히 담겼다. 발뺌하던 A씨는 경찰이 방범카메라 영상을 보여주며 추궁한 끝에 음주운전 사실을 시인했다. &lt;br&gt;&lt;br&gt;음주 측정 결과, A씨 혈중알코올농도는 면허 취소 수준인 것으로 파악됐다. 결국 A씨는 도로교통법 위반으로 검거됐다. &lt;br&gt;&lt;br&gt;한편 경찰은 각 시도 자치경찰위원회와 협조해 연말연시 음주운전을 집중 단속 중이다. 경찰청 주관으로 매주 목요일, 각 시도경찰청 주관으로 주 2회 이상 시도별 일제 단속을 하고 지역별로 상시·수시 단속을 병행한다. 단속 효과를 높이기 위해 불시에 장소를 계속 옮기면서 실시하는 이동식 단속도 벌인다. &lt;br&gt;&lt;br&gt;특히 올해는 ‘마약운전’ 단속도 처음으로 함께 실시한다. 음주 의심이 드는데도 불구하고 음주 감지가 되지 않거나, 클럽과 유흥주점 근처에서 단속되는 경우 등에는 마약 투약 가능성을 확인하는 것이다. 과속·난폭 운전이나 지그재그 운전 등 비정상적인 운전 행태, 눈동자의 충혈 정도, 차에서 내리는 동작 등을 자세히 관찰해 마약운전 의심이 들 때는 운전자 동의를 받아 타액을 이용한 마약 간이검사를 적극적으로 할 예정이다. 운전자 동의가 없더라도 마약운전 정황이 확실하면 영장을 발부받아 정밀검사를 할 방침이다.&lt;br&gt;&lt;br&gt;경찰청 통계에 따르면, 작년 음주운전 단속 적발 건수는 면허정지 수치 3만9255건, 면허취소 수치 9만895건 등 총 13만150건으로 2년 전보다 12% 증가했다. 음주 교통사고는 1만3042건 발생했으며, 이 가운데 159명이 숨지고 2만628명이 다쳤다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[단독] “치료 성과 좋은 병원, 규모 작아도 수가 높게”</title>
-      <link>https://www.chosun.com/national/welfare-medical/2025/01/13/LMIZIUIPFNFONDJR2FIJOUFKNI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/01/13/LMIZIUIPFNFONDJR2FIJOUFKNI/</guid>
-      <dc:creator>오유진 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 12 Jan 2025 20:06:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5VLT7CKYJZNHTOE4FOFG4XAZP4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 30일 오후 서울 여의도 국민건강보험공단 서울강원지역본부에서 열린 대통령 직속 의료개혁특별위원회 '지역 병원 육성 및 일차 의료 활성화 방안 토론회'에서 박민수 보건복지부 2차관이 인사말을 하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;같은 뇌졸중 수술을 해도 대형 병원 수술 수가(건보공단이 병원에 주는 돈)를 더 많이 쳐주는 ‘종별(규모별) 가산제’가 폐지될 것으로 12일 알려졌다. 정부는 그 대신 중증·응급 환자의 예후가 좋을수록 수가를 더 주는 ‘성과 가산제’의 도입을 추진 중이다. 정부는 이런 내용을 담은 ‘2차 병원 및 의원급 구조 전환’ 방안을 이달 중 발표할 예정이다.&lt;br&gt;&lt;br&gt;종별 가산은 수술·진료 수가를 책정할 때 병원은 5%, 종합병원은 10%, 상급종합병원은 15% 더 올려주는 방식이다. 1977년 도입돼 올해로 48년간 시행됐다. 규모가 클수록 중증 환자를 더 많이 보기 때문에 이렇게 해왔다. 하지만 우리나라 대형 병원 환자의 절반가량은 경증이다. 경증 진료로 작지 않은 가산 수가를 받고 있는 셈이다.&lt;br&gt;&lt;br&gt;정부 관계자는 “반면 고난도 심장 질환 수술만 하는 전문 병원은 규모가 작다는 이유만으로 가산 비율이 상급종합병원의 3분의 1 수준이었다”며 “일부 암이나 심혈관 질환 등의 치료 성과가 좋은 병원은 규모에 상관없이 높은 가산 수가를 받게 하자는 취지”라고 했다.&lt;br&gt;&lt;br&gt;정부는 화상·분만 등 전문 병원에 대한 보상을 강화하기 위해 전문 병원의 전문성을 고려한 별도 평가 기준을 마련하기로 했다. 현재는 뇌 수술 전문 병원들도 정부 지원금 기준을 맞추기 위해 불필요한 분만실을 만들기도 한다.&lt;br&gt;&lt;br&gt;이와 함께 정부는 대형 병원 수준의 인프라를 구축하고 있는 종합병원을 ‘지역 포괄 2차 병원’(가칭)으로 두고, 이 병원의 중증 응급 수술과 중환자실 수가를 인상할 방침이다. 보건복지부 관계자는 “24시간 진료 지원을 하거나 당직을 서는 의료 인력에게 보상이 돌아가도록 대기 비용 등을 고려한 별도의 정책 수가를 적용할 예정”이라고 했다.&lt;br&gt;&lt;br&gt;이 밖에 ‘의원급 구조 전환’ 방안에는 전문 과목, 전문의·일반의 여부 등을 표시하도록 하는 내용이 담겼다. 정부는 전문의 여부와 경력 등 의료 인력 정보를 공개하는 포털도 만들 계획이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[단독] 군의관 충원 위해 보냈는데… 응급의학·외과 선택은 20%뿐</title>
-      <link>https://www.chosun.com/national/welfare-medical/2025/01/13/7Z46JGI7ABDL3ARFHNOZSMERGE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/01/13/7Z46JGI7ABDL3ARFHNOZSMERGE/</guid>
-      <dc:creator>오유진 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 12 Jan 2025 20:04:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5BVKQGV52VPFFPBNPSAH4FCDF4.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;작년 9월 서울의 한 대학 병원에서 의료진이 지나가고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난해 군 병원 필수 진료과를 선택한 의과대학 군 위탁 교육생이 전체의 20%에 불과한 것으로 12일 확인됐다. 중증 외상·응급 후송 환자를 치료하는 장기 군의관을 양성하고자 도입된 ‘의대 군 위탁 교육’ 제도의 취지가 퇴색되고 있다는 지적이 나온다.&lt;br&gt;&lt;br&gt;의대 군 위탁 교육은 만성적인 군의관 부족 문제를 해결하기 위해 도입됐다. 현역 장교인 육해공군 사관생도 가운데 성적 우수자를 군 위탁 교육생으로 임명해 의대에 편입학하도록 한 후, 9년간의 위탁 교육을 통해 전문의 자격을 취득하도록 한다. 이후 10년간 군의관으로 의무 복무해야 한다. 이들은 군 내부 전형과 의대 면접 등 간소화된 절차로 의대에 편입하고, 위탁 교육 기간 급여와 입학금, 등록금 일체를 국가에서 지원받는다.&lt;br&gt;&lt;br&gt;군 병원의 필수 과목은 ‘외과’와 ‘응급의학과’다. 총상이나 화상 등을 입은 군 장병, 중증 외상·응급 후송 환자를 치료하기 위해서다. 하지만 정작 군 위탁생들이 선택하는 진료과 대부분은 ‘군 밖에서의 인기과’로 편중돼 있다.&lt;br&gt;&lt;br&gt;본지가 국방부에서 받은 자료에 따르면, 지난해 전공의 수련 중인 군 위탁생 가운데 외과·응급의학과는 7명으로, 전체(35명)의 20%에 불과했다. 군 병원 필수 과목을 선택하는 군 위탁생이 5명 중 1명인 셈이다. 반면 정신건강의학과·정형외과는 각각 5명, 마취과 3명, 안과·영상의학과·이비인후과 2명 등으로 집계됐다. 기간을 확대해도 결과는 비슷했다. 지난 2010년부터 2023년까지 10여 년간 응급의학과를 선택한 군 위탁생은 총 8명, 외과는 14명에 그쳤다. 전체 졸업생(126명)의 약 17% 수준이다. 이 기간 정형외과(17명), 내과(16명), 정신건강의학과(15명)를 선택한 군 위탁생이 더 많았다.&lt;br&gt;&lt;br&gt;필수 의료 기피뿐 아니라, 전공의 수료 후 의무 복무 기간 10년을 채우지 않고 곧바로 전역해 민간 병원에 취직하는 이른바 ‘먹튀’ 군인도 문제점으로 제기된다. 이들의 전역 사유 대부분은 ‘심신 장애’다. 실제로 한 군의관은 전공의 수련을 마친 뒤 ‘우울증’이 있다며 조기 전역해 정신건강의학과 전문의로 일하고 있다. 이처럼 의무 복무 기간을 채우지 않고 전역하는 사례도 지난 2011년부터 2023년까지 12건 발생했다.&lt;br&gt;&lt;br&gt;이를 두고 “장기 군의관 양성이라는 제도의 본래 목적이 희석됐다”는 지적이 나온다. 간소화된 절차로 의대에 진학해 인기과 전문의 자격증을 따기 위한 ‘편법 루트’로 전락했다는 것이다. 의료계 관계자는 “급여, 등록금 지원 등에 많은 혜택을 받고 있는 군 위탁생이 당초 도입 취지에 맞게 운영될 수 있도록 더 엄격하게 관리·감독해야 한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/5BVKQGV52VPFFPBNPSAH4FCDF4.JPG?width=3633&amp;height=2266&amp;auth=db8a66348abcb2441877fe89c6168cb1410f43aa9d96e401d999fced2174a662&amp;smart=true" type="image/jpeg" height="2266" width="3633">
-        <media:description type="plain">(서울=뉴스1) 임세영 기자 = 의사 부족에 따른 응급실 의료대란에 정부가 군의관을 추가 투입하기로 한 9일 서울 시내의 한 대학병원에서 의료진이 지나가고 있다. 
-
-추석 연휴를 앞두고 응급실을 둘러싼 불안감이 커지고 있는 가운데 정부는 오늘 추가로 군의관 235명을 응급의료를 중심으로 인력이 필요한 의료기관에 배치한다. 2024.9.9/뉴스1</media:description>
-        <media:credit role="author" scheme="urn:ebu">(서울=뉴스1) 임세영 기자</media:credit>
-      </media:content>
-    </item>
-    <item>
       <title>빅5마다 레지던트 지원 10명 안팎...모집기간 이틀 연장</title>
       <link>https://www.chosun.com/national/welfare-medical/2025/01/17/IFTSS2A4QVEGLPIU3BAKM5LUAI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/01/17/IFTSS2A4QVEGLPIU3BAKM5LUAI/</guid>
@@ -814,15 +872,6 @@
       <description/>
       <pubDate>Fri, 17 Jan 2025 11:38:06 +0000</pubDate>
       <content:encoded>오는 3월부터 전국 병원에서 수련을 시작하는 상반기 레지던트 모집 결과, 전공의들의 지원이 저조한 것으로 나타났다. 서울 주요 병원의 경우 전공의 공백에 따라 많게는 500~600명씩을 선발해야 하는데, 병원에 따라 지원자는 10명 안팎에 불과한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;17일 보건복지부와 의료계에 따르면, 전국 221개 수련 병원이 지난 15일부터 이날까지 레지던트를 모집한 결과 실제 지원은 미미했다. 정부가 전공의 복귀를 기대했던 주요 대형 병원도 지원율이 낮았다. 세브란스병원은 570여 명 모집에 11명이 지원했다. 1년 차 신규가 1명, 사직 전공의가 10명이다. 서울아산병원은 지원자 수가 한 자릿수에 그쳤다. 각각 레지던트 수백 명씩을 모집하는 서울대병원과 삼성서울병원, 서울성모병원 등도 비슷한 상황인 것으로 알려졌다. 일부 지방 병원에서는 지원자가 아예 없는 경우도 있었다. 의료계에서는 “1년 가까이 이어져 온 전공의 공백 사태가 장기화될 우려가 있다”는 말이 나온다. 정부가 파악 중인 사직 레지던트는 총 9220명인데, 이들 가운데 절반 이상은 다른 병의원에 재취업한 상태다.&lt;br&gt;&lt;br&gt;정부는 이번 레지던트 모집을 앞두고 복귀를 유도하기 위해 수련·입영 특례를 내세웠다. 사직 전공의가 1년 이내 동일 과목·동일 연차로 복귀할 수 없는 제한 규정을 적용하지 않기로 했고, 복귀를 원하는 전공의의 경우 수련을 모두 마치고 병역 의무를 이행할 수 있도록 입영도 연기해 주기로 했다.&lt;br&gt;&lt;br&gt;하지만 이 같은 당근책에도 사직 전공의들이 움직이지 않은 것이다. ‘의대 정원 문제가 그대로인 상황에서 복귀할 이유가 없다’는 기존 입장을 고수한 셈이다. 정부는 애초 이날 마감할 예정이었던 각 병원의 레지던트 모집 결과 제출 기한을 19일로 변경했다. 복지부 관계자는 “면접 등 후속 절차를 연기하지 않는 범위에서 제출 기한을 주말까지 연장해 달라는 수련 병원장들의 요청에 따라 19일까지 제출할 수 있도록 조치한 것”이라고 했다. 최근 대한의사협회 새 지도부 출범에 맞춰 정부는 2026학년도 의대 정원 원점 재검토 의사를 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>尹, 영장심사 불출석...중앙지법 아닌 서부지법 심사엔 불응 입장</title>
-      <link>https://www.chosun.com/national/court_law/2025/01/17/Q7GMZB37CBFFPCC2RDYQEY7Z4M/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/01/17/Q7GMZB37CBFFPCC2RDYQEY7Z4M/</guid>
-      <dc:creator>이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 17 Jan 2025 11:02:20 +0000</pubDate>
-      <content:encoded>‘12·3 비상계엄’ 사태와 관련해 내란 우두머리(수괴) 및 직권남용권리행사방해 혐의로 구속영장이 청구된 윤석열 대통령이 오는 18일 오후 2시 서울서부지법에서 열리는 구속영장 실질심사에 출석하지 않는 것으로 전해졌다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JBKVMIMQQNDQTCT7JGYGTBDPPA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;17일 본지 취재를 종합하면, 윤 대통령은 서울서부지법 차은경 부장판사 심리로 열리는 실질심사에 불출석한다. 윤 대통령 측은 그간 공수처의 재판관할이 인정되는 서울중앙지법에 구속영장을 청구하면 영장실질심사에 응하겠다는 입장을 유지해왔다. 그러나 공수처는 체포영장을 청구, 발부 받은 서울서부지법에 윤 대통령에 대한 구속영장을 청구했고, 윤 대통령은 이에 응할 수 없다는 입장인 것으로 전해졌다.&lt;br&gt;&lt;br&gt;실질심사에는 윤 대통령 없이 변호인단만 참석할 예정이다. 변호인단의 참석 규모는 정해지지 않은 것으로 알려졌다. 공수처가 이날 오후 5시 40분쯤 구속영장을 청구한 만큼, 변호인단은 아직 구속영장 청구서를 받아보지 못했다고 한다.&lt;br&gt;&lt;br&gt;공수처는 이날 150여 쪽 분량의 구속영장 청구서를 법원에 냈다. 부장검사 1명을 포함, 검사 6~7명가량이 법정에 나가 윤 대통령의 구속 필요성을 설명할 계획이다. 공수처는 윤 대통령을 지난 15일 체포해 한 차례 조사했지만, 검찰과 경찰로부터 관련자 수사기록 등을 제공받아 윤 대통령의 혐의를 입증하는 데엔 무리가 없다고 보고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[속보] 尹 대통령 영장실질심사, 18일 오후 2시... 차은경 부장판사 심리</title>
@@ -859,15 +908,6 @@
       <description>설악산 ‘권금성 산장’의 털보 산장지기로 유명한 산악인 유창서씨가 향년 87세로 별세했다. 유씨의 가족은 지난 16일 유씨가 강원도 속초 자택에서 숨졌다고 17일 밝혔다.</description>
       <pubDate>Fri, 17 Jan 2025 09:31:32 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SCCDXAVEZPS3XGBFEK37LGMOE4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;설악산 권금성 산장지기였던 고(故) 유창서씨/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;설악산 ‘권금성 산장’의 털보 산장지기로 유명한 산악인 유창서씨가 87세로 별세했다. 유족은 지난 16일 유씨가 강원도 속초 자택에서 숨졌다고 17일 밝혔다.&lt;br&gt;&lt;br&gt;고인은 1938년 10월 서울 종로에서 태어났다. 1954년 배재중에 다닐 때 암벽 등반에 입문했고, 동국대에 들어가 산악부 초기 회원으로 활약했다. 1963년 도봉산 선인봉 측면 등반에 성공했으며, 1969년 설악산 토왕성폭포 첫 등반을 시도했다.&lt;br&gt;&lt;br&gt;1969년 한국산악회의 ‘설악산 죽음의 계곡 10동지 조난사고’ 수습에 나섰으며, 1976년 대한적십자사 설악산 산악구조대 초대 대장을 지냈다. 고인은 1971년부터 2009년까진 설악산 권금성 산장을 운영하며 설악산과 인연을 맺었다. 2009년 권금성 산장이 철거될 때까지 설악산 일대에서 산악 인명 구조 활동을 펼치며 권금성 털보 산장지기라는 별명을 얻기도 했다.&lt;br&gt;&lt;br&gt;빈소는 속초의료원 3층 특실. 발인은 18일 오전 6시다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘베트남전 민간인 학살’ 손배소, 항소심도 국가 배상 판결</title>
-      <link>https://www.chosun.com/national/court_law/2025/01/17/2ZPSU6M2VFF6NBOHSDOHBLRQ7I/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/01/17/2ZPSU6M2VFF6NBOHSDOHBLRQ7I/</guid>
-      <dc:creator>방극렬 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 17 Jan 2025 09:10:37 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RLUPH53WDJMCFHY4XQROKDRBC4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;베트남전 당시 한국군의 민간인 학살로 가족을 잃은 피해자 응우옌 티탄씨가 17일 오후 서울 서초구 서울중앙지방법원에서 열린 국가배상소송 2심에서 승소한 뒤 영상 통화로 베트남 현지에서 소감을 밝히고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;베트남전 당시 한국군의 민간인 학살로 피해를 입은 베트남인에 대해 1심에 이어 2심도 한국 정부의 배상 책임을 인정했다.&lt;br&gt;&lt;br&gt;서울중앙지법 민사항소3-1부(재판장 이중민)는 17일 응우옌 티탄(65)씨가 한국 정부를 상대로 낸 손해배상 소송에서 1심처럼 “원고에게 3000만100원과 지연손해금을 지급하라”고 판결했다. 응우옌씨는 지난 2020년 4월 민주사회를위한변호사회(민변)를 대리인으로 세워 한국 법정에 소송을 냈다.&lt;br&gt;&lt;br&gt;베트남 꽝남성 퐁니 마을에서 태어난 응우옌씨는 “1968년 2월 한국군 청룡부대 제1대대 제1중대가 마을을 공격했다. 소속 군인들이 총을 쏴 엄마와 형제 등 가족 3명이 죽고, 나와 오빠는 총상을 입었다”며 한국 정부에 위자료를 청구했다.&lt;br&gt;&lt;br&gt;정부 측은 “한국군으로 위장한 북한군이 공격했을 가능성이 있고, 이미 사건으로부터 수십 년이 지나 손해배상 시효도 지났다”며 “1965년 베트남과 체결한 군사실무 약정서에 따라 국민 개개인이 한국에 소를 제기할 수 없다”고 주장했다.&lt;br&gt;&lt;br&gt;그러나 법원은 응우옌씨의 손을 들어줬다. 1심은 베트남전 민간인 학살과 관련해 처음으로 한국 정부의 배상 책임을 인정했다. 2심 재판부는 “퐁니 마을 주민과 소속 부대원의 진술 등을 고려하면 제1중대의 공격 사실이 인정된다. 당시 8세에 불과하던 응우옌씨가 한국에 소송을 제기하기는 어려웠을 것”이라며 “양국의 군사실무 약정서에는 응우옌씨의 손해배상 청구권을 배제하는 내용도 없다”고 했다.&lt;br&gt;&lt;br&gt;베트남에 있던 응우옌씨는 이날 선고 후 열린 기자회견에서 영상 통화로 “재판부 승소 판결에 진심으로 감사하다. 그날 희생된 원혼들이 위로를 받았을 것”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>“공수처는 내란죄 수사권 있나” 법원 내부서도 논란</title>
@@ -919,15 +959,6 @@
       </media:content>
     </item>
     <item>
-      <title>가족갈등 유발하는 문제 1위는 ‘건강’</title>
-      <link>https://www.chosun.com/national/welfare-medical/2025/01/17/I5N4T7ZI65AMVIH7PAECVVUMDQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/01/17/I5N4T7ZI65AMVIH7PAECVVUMDQ/</guid>
-      <dc:creator>강다은 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 17 Jan 2025 06:58:06 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HQU5YL62F5IHBFOA3FYZGS3AB4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;15일 서울의 한 대학병원에서 의료진이 이동하고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;가족 갈등을 유발하는 가장 큰 원인을 조사한 결과 가족의 건강 문제가 꼽혔다. 2위는 경제적 어려움이었다.&lt;br&gt;&lt;br&gt;17일 한국보건사회연구원과 서울대 사회복지연구소의 ‘2024년 한국복지패널 조사·분석 보고서’에 따르면 조사에 참여한 가구의 가구원들은 최근 1년간 가족 간 근심과 갈등을 초래하는 요인으로 ‘가구원의 건강’을 가장 많이 들었다. 이 조사는 지난해 2월부터 4개월간 7499가구를 대상으로 했다. ‘2023년 1년간 가족 내에서 발생한 문제와 가족 갈등 대처 방법’에 대해 물었다.&lt;br&gt;&lt;br&gt;그 결과 문제가 발생해 어려움을 겪었다고 응답한 가구에서 원인의 1순위로 ‘가구원의 건강’(54.9%)을 꼽았다. 부채나 카드 빚 등 ‘경제적 어려움’(18.2%)이 둘째로 많았고, ‘가구원의 취업 및 실업’(8.3%), ‘자녀 교육 혹은 행동’(4.7%), ‘주거 관련 문제’(4.2%) 등이 뒤를 이었다.&lt;br&gt;&lt;br&gt;가구원의 건강 문제는 저소득층 가구에서 더 많은 갈등의 원인이 되고 있었다. 소득 수준별로 보면 중위소득 60% 이하 저소득층 가구의 61.1%가 ‘가구원의 건강’을 갈등 요인으로 꼽았다. 이는 일반 가구(43.3%)에 비해 높았다.&lt;br&gt;&lt;br&gt;건강과 관련해 전체 가구원의 19.8%는 담배를 피우는 것으로 나타났다. ‘최근 1년 동안 담배를 끊고자 하루 이상 금연한 적이 있는지’에 대해선 21.1%가 그렇다고 밝혔다. 음주와 관련, 전체 가구원의 13%는 ‘월 1회 이하’, 21.9%는 ‘월 2~4회’, 13.2%는 ‘주 2~3회’라고 답했다. 45.8%는 ‘전혀 마시지 않는다’고 했다. ‘가족 등이 음주를 걱정하거나 술을 줄이도록 권한 적이 있느냐’는 질문에는 음주자 중 85.16%가 ‘전혀 없다’고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>“잡아 족치면 부정선거 확인”...야구방망이·케이블타이 준비시킨 ‘버거 보살’</title>
       <link>https://www.chosun.com/national/national_general/2025/01/17/WI6HU2AIVBBXVEB7RUAHIVJUYM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/17/WI6HU2AIVBBXVEB7RUAHIVJUYM/</guid>
@@ -948,33 +979,6 @@
         <media:description type="plain">윤석열 대통령은 25일 국민희망대표들을 용산 대통령실로 초청해 취임 후 최초로 제작한 대통령 기념시계를 선물하고 감사의 마음을 전달했다.  (대통령실 제공) 2022.5.25/뉴스1 ⓒ News1 오대일 기자</media:description>
         <media:credit role="author" scheme="urn:ebu">뉴스1 ⓒ News1 오대일 기자</media:credit>
       </media:content>
-    </item>
-    <item>
-      <title>외국인인 척 택시 탔더니 미터기 끄고 “현금 2만원” 바가지요금</title>
-      <link>https://www.chosun.com/national/national_general/2025/01/17/RQH546VUYVF4DGF5N5SL4YTP5Q/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/17/RQH546VUYVF4DGF5N5SL4YTP5Q/</guid>
-      <dc:creator>정아임 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 17 Jan 2025 05:57:55 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6MWSY3JYMZDUPPNCSI3A6UGB4M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;외국인인 척 택시에 탑승한 한 유튜버가 택시 기사에게 요금으로 현금 2만원을 내고 있다./유튜브 ‘찰스 알레’&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한 유튜버가 외국인인 척하며 택시를 탔다가 바가지요금을 낸 데 이어 현금 결제까지 했다는 사연이 전해졌다.&lt;br&gt;&lt;br&gt;지난 15일 유튜브 채널 ‘찰스알레’에는 ‘공항에서 외국인인 척 택시를 타면 정말 사기를 칠까?’라는 제목의 영상이 올라왔다. 이 유튜버는 “과거 한국 택시 기사님들이 외국인들을 상대로 바가지를 많이 씌웠다고 하는데 현재는 어떨지 궁금하다”며 인천국제공항에서 가상의 국적을 설정하고 택시에 탔다.&lt;br&gt;&lt;br&gt;그는 기사에게 인천 중구의 한 호텔로 가달라고 한 뒤 요금을 물었다. 기사는 “2만 원”이라고 말했다. 출발 전 유튜버가 택시 앱으로 확인한 요금은 1만 2300원 정도였다. 유튜버가 미터기로 요금을 측정해달라고 부탁하자, 기사는 “미터기가 안 된다”며 미터기를 켜는 것을 거절했다. 미터기에 ‘현금 결제’ 처리를 누른 후 꺼버렸다고 유튜버 측은 주장했다.&lt;br&gt;&lt;br&gt;유튜버가 요금을 깎아달라고 하자, 기사는 “안 돼. 여기서 다시 공항으로 가야 한다”고 말했다. 목적지에 도착한 유튜버가 “현금 아니면 카드도 되냐? 카드는 안 되냐?”고 영어로 묻자, 기사는 영어를 제대로 못 알아들은 채 현금만 된다고 했다.&lt;br&gt;&lt;br&gt;이후 택시에서 내린 유튜버는 “외국인들은 모르고 그냥 갈 거 아니냐”며 “그리고 왜 현금만 받는 거냐. 택시는 10분밖에 안 탔는데 2만 원은 너무 비싸다”고 말했다. 그러면서 “기사님 한 분이 모든 기사님을 대변할 순 없다”면서도 “저 기사님만의 문제일 것이다”라고 말했다.&lt;br&gt;&lt;br&gt;반면, 정직하게 운전하는 택시 기사들도 있었다. 인천국제공항으로 돌아간 그는 다시 한번 외국인인 척하며 택시를 타고 김포공항으로 향했다. 해당 택시 기사는 미터기를 켜고 운전했다. 가격도 택시 앱에 찍힌 그대로 나왔다. 이후 유튜버는 김포공항에서 마곡나루역으로 가는 택시를 또 탔다. 그는 택시 앱보다 가격이 덜 나왔다며 기뻐하기도 했다.&lt;br&gt;&lt;br&gt;한편, 외국인을 대상으로 한 택시의 바가지요금을 요구하는 경우는 종종 발생해 왔다. 지난해 9월 외국인 손님에게 상습적으로 바가지요금을 받으면서 ‘팁(tip·봉사료)’이라고 주장한 택시 기사 A씨의 택시 운전 자격 취소 처분이 정당하다는 법원의 판단이 나오기도 했다.&lt;br&gt;&lt;br&gt;A씨는 2022년 4월과 8월, 2023년 2월 총 세 차례 부당 요금을 받았다가 적발됐다. 1차 적발 때 경고, 2차 적발 때 자격정지 30일을 받은 A씨는 세 번째 적발로 택시 운전 자격이 취소됐다. 택시발전법과 시행령에 따라 부당 요금 징수가 세 번 적발되면 자격이 취소된다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>오세훈 “갈등으로 입지 다지고 팬덤으로 세력 키운 이재명, 정치적 청산 대상”</title>
-      <link>https://www.chosun.com/national/regional/seoul/2025/01/17/HYMRNJB3H5CQZHQ5VYKRI3OM7Y/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/seoul/2025/01/17/HYMRNJB3H5CQZHQ5VYKRI3OM7Y/</guid>
-      <dc:creator>김영우 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 17 Jan 2025 04:40:06 +0000</pubDate>
-      <content:encoded>오세훈 서울시장이 17일 이재명 더불어민주당 대표에 대해 “갈등과 대립으로 정치적 입지를 다지고 맹목적 팬덤으로 세력을 키워온 이 대표는 정치적 청산의 대상”이라고 말했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/X7362MKG4ZF23CXWOLYPFRP3OA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;오세훈 서울시장이 지난 2023년 서울시청 청사 시장실에서 본지와 인터뷰를 갖고 있다. /김지호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;오 시장은 이날 페이스북에 ‘이재명 대표, 청산 대상입니다’라는 제목의 글을 올리고 이 같이 말했다.&lt;br&gt;&lt;br&gt;오 시장은 “극심한 위법 논란 속에서 현직 대통령이 체포되는 초유의 사태 뒤에는 이재명식 ‘비정상 정치’가 있다”며 “이 대표가 경제 행보를 하고 있지만, 대부분의 국민은 이를 진정성 없는 보여주기에 불과하다는 것을 잘 알고 있다”고 했다.&lt;br&gt;&lt;br&gt;이어 오 시장은 “이 대표 일극 체제의 민주당은 그간 국가 근간을 흔들어 왔다”며 “감사원장, 방통위원장, 장관은 물론 이 대표를 수사한 검사까지 무차별 탄핵을 저지르며 정부를 사실상 기능 정지 상태로 만들었고, 정파적 이익에 집중해 예산안 야당 단독 처리나 대통령 권한대행 탄핵 등 헌정사에 유례없는 비정상을 일상적으로 저질렀다”고 했다.&lt;br&gt;&lt;br&gt;또 오 시장은 “그러면서도 (이 대표) 자신은 법치주의의 칼날을 피하기 위해 온갖 꼼수를 쓰고 있다”며 “민주당이 계엄 정국을 이용해 만들려는 나라가 ‘현직 대통령이 체포되는 마당에 야당 대표의 방탄과 재판 지연은 한없이 통하는 나라’, ‘국민 분열을 이용하면 여러 개의 대형 범죄 혐의조차 얼마든지 덮을 수 있는 나라’, 이렇듯 ‘이재명에게만 좋은 나라’라면 이를 막기 위해 국민과 함께 싸우지 않을 수 없다”고 했다.&lt;br&gt;&lt;br&gt;그는 “갈등과 대립을 토양 삼아 정치적 입지를 다지고 맹목적 팬덤으로 세력을 키워온 이재명 대표는 이미 정치적 청산의 대상일 뿐”이라며 “합리와 상식을 회복하는 것이 정치의 ‘새로운 물결’이고 국민의 바람에 응답하는 길”이라고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2LCJGU46DRGTZOVZBXJZVCMAE4.png"&gt;&lt;figcaption&gt;&lt;small&gt;오세훈 서울시장이 17일 페이스북에 올린 글. /페이스북 캡처&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>공수처 “尹, 10시 조사 불출석…구속영장 서부지법 청구 가능성”</title>
-      <link>https://www.chosun.com/national/court_law/2025/01/17/FFY23TJBNZBG5EHVTDENF4PXDA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/01/17/FFY23TJBNZBG5EHVTDENF4PXDA/</guid>
-      <dc:creator>이민준 기자, 유희곤 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 17 Jan 2025 01:36:02 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4PN3LJKJLJ6SZLA4SLB4BNQRTE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;내란 우두머리 혐의로 체포된 윤석열 대통령이 지난 15일 오전 경기 과천 고위공직자범죄수사처(공수처)에 도착해 조사실로 향하고 있다./조인원 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;고위공직자범죄수사처(공수처)는 17일 서울구치소에 구금된 윤석열 대통령을 오전 10시부터 조사할 예정이었으나 윤 대통령이 출석하지 않았고, 나오지 않겠다는 통보도 없었다고 밝혔다. 공수처 관계자는 “(오후 9시 5분인) 체포 시한을 고려하면 윤 대통령을 다시 부르는 것은 현실적으로 어렵다”고 했다.&lt;br&gt;&lt;br&gt;또한 공수처는 이날 윤 대통령의 구속영장을 청구한다면 앞서 체포영장을 발부받았던 서울서부지법에 할 가능성이 크다고 했다. 공수처는 체포 시한 전에 윤 대통령에 대한 사후구속영장을 청구하거나 윤 대통령을 석방해야 한다.&lt;br&gt;&lt;br&gt;공수처 관계자는 ‘구속영장이 발부될 경우 10일 이내에 검찰에 사건을 이첩할 수 있는지’ ‘구속영장 발부 후에도 윤 대통령이 조사에 불응할 경우 강제구인해 조사하는지’ ‘서울구치소 방문 조사도 고려하는지’ 등 질문엔 모두 “답하기 어렵다”며 말을 아꼈다. 우선 이날 중 청구할 구속영장 실질심사에 집중하겠다는 것이다. 공수처 관계자는 “구속영장 청구 준비는 거의 마무리됐다”고 밝혔다. 공수처는 이날 서울서부지법을 직접 방문해 구속영장청구서를 제출할 전망이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VZPSKV33C5BHFOKLFJSRC4KA6Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;왼쪽부터, 박안수 전 육군참모총장,이진우  전 수도방위사령관,곽종근 전 특수전사령관/뉴스1·연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한편, 공수처는 지난 16일 검찰 비상계엄 특별수사본부(본부장 박세현 서울고검장)가 수사, 구속 기소한 박안수 전 계엄사령관, 곽종근 전 특수전사령관, 여인형 전 국군방첩사령관, 이진우 전 수도방위사령관, 문상호 전 정보사령관 5명의 피의자 신문 조서 등 수사 자료를 검찰로부터 제공받았다고 밝혔다. 이들 5명의 공소장에는 윤 대통령의 비상계엄 선포 전후 행적과 발언 등이 상세히 담겨 있는 만큼, 피의자 신문 조서에 한층 구체적인 윤 대통령의 지시 등 정황이 담긴 것으로 법조계는 보고 있다. 공수처가 윤 대통령 구속영장을 청구할 때에도 관련 자료로 포함될 가능성이 높다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>자녀 셋 모두 서울대 보낸 양소영 변호사…“이적 어머니께 감사” 왜?</title>
