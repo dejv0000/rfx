@@ -13,6 +13,116 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>尹, 구속 후 첫 조사 불응... “공수처에 더 할 말 없다”</title>
+      <link>https://www.chosun.com/national/court_law/2025/01/19/JSSQFITNGJHPPOVGKE7B263H5Y/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/01/19/JSSQFITNGJHPPOVGKE7B263H5Y/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 19 Jan 2025 04:01:42 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JVJ5E2ZDYV4D2KKSQA32BUQ4WM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령이 15일 오후 경기 과천 고위공직자범죄수사처(공수처)에서 조사를 마치고 차량으로 서울구치소로 이동하고 있다./장련성 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;고위공직자범죄수사처(공수처)가 윤석열 대통령에게 19일 오후 2시까지 청사로 나와 조사 받으라고 통보했지만, 윤 대통령이 출석하지 않을 것으로 확인됐다.&lt;br&gt;&lt;br&gt;윤 대통령을 변호하는 윤갑근 변호사는 이날 ‘공수처에 출석해 조사 받느냐’는 취재진 질문에 “어렵습니다”라며 “공수처에서는 더 말할 것이 없다”고 했다. 윤 변호사는 “조사와 (체포)적부심을 거쳤다”는 사유를 들었다. 지난 15일 공수처 첫 조사 당시 윤 대통령이 자신의 입장을 밝혔고, 체포 적부 심사에서도 공수처 수사가 위법해 응할 수 없다는 취지의 입장을 밝혔다는 취지다.&lt;br&gt;&lt;br&gt;공수처는 지난 17일 서울서부지법에 윤 대통령에 대한 구속영장을 청구했다. 18일 오후 2시부터 4시간 50분 동안 차은경 부장판사 심리로 영장실질심사가 열렸고, 법원은 19일 오전 2시 56분 구속영장을 발부했다.&lt;br&gt;&lt;br&gt;체포영장에 이어 구속영장까지 발부되자, 공수처는 윤 대통령의 내란 우두머리(수괴)·직권남용권리행사방해 혐의가 상당 부분 입증됐다고 보고 추가 조사를 이어가기 위해 이날 오후 2시까지 공수처 청사로 출석하라고 요구한 것이다. 다만 공수처 관계자는 앞서 이날 오전 브리핑에서 ‘윤 대통령이 출석 요구에 불응할 경우 강제 인치나 구치소 방문 조사를 하느냐’는 질문엔 “지금 시점에서 말씀드리기 어렵다”며 “일단은 기다려보자는 입장”이라고 했었다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/3YEWI6BGD5EMXAU3YONLRIMI6A.jpg?width=4314&amp;height=2565&amp;auth=f708edf1c2e9b26e513177f176563b5d197a20f139e88a6d5b032baa18baf569&amp;smart=true" type="image/jpeg" height="2565" width="4314">
+        <media:description type="plain">2025년 1월 15일 헌정사상 처음 현직 대통령 신분으로 체포된 윤석열 대통령이 경기도 과천 공수처에서 조사를 받은 후 서울 구치소로 가기 위해 경호 차량에 탑승해 있다./장련성 기자</media:description>
+        <media:credit role="author" scheme="urn:ebu"/>
+      </media:content>
+    </item>
+    <item>
+      <title>서울의대 학생 23% “올해는 휴학 이어가기 어려워”</title>
+      <link>https://www.chosun.com/national/welfare-medical/2025/01/19/5NFDYEYDHZFAZK7JNWDAGTUSVE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/01/19/5NFDYEYDHZFAZK7JNWDAGTUSVE/</guid>
+      <dc:creator>정해민 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 19 Jan 2025 04:52:12 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GGMN4MPQZNNYRLHEXNXA5BMXLI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 7일 서울의 한 의과대학 강의실이 비어 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울대 의대 학생의 23%가 올해 집단 휴학에 참여하기 어렵다는 의견을 낸 것으로 나타났다.&lt;br&gt;&lt;br&gt;19일 의료계에 따르면, 서울대 의대 학생들은 지난해에 이어 올해도 집단 휴학을 이어갈 시 동참 여부에 대한 설문을 지난 10~13일 진행했다. 이번 설문에는 학생 696명이 참여했다. 이 중 올해도 휴학할 의사가 있다는 학생이 76.8%(535명), 휴학을 이어가지 않겠다는 학생이 23.1%(161명)이었다.&lt;br&gt;&lt;br&gt;지난해 2월 서울대 의대 학생회가 휴학 등 단체 행동 참여 여부를 조사했을 때 반대 의견은 약 17%였다. 이번에 6%포인트 늘어났다. 아직 집단 휴학을 이어가야 한다는 의견이 더 많지만, 2년째 휴학을 이어가기는 어렵다는 의견이 점점 생기고 있는 것이다.&lt;br&gt;&lt;br&gt;1년 동안 휴학이 지속되며 일부 의대생들 사이에서는 미래에 대한 불안감이 커지고 있는 것으로 알려졌다. 최근 의료계를 향한 정부의 공식 사과와 복귀하는 사직 전공의에 대한 수련·입영 특례 발표, 2026학년도 정원 원점 재검토 논의 제안 등이 영향을 미쳤다는 분석도 나온다.&lt;br&gt;&lt;br&gt;서울대 의대 학생회는 이번 투표 결과에 대해 “2025학년도에도 상당수의 서울의대 학생이 투쟁을 이어나갈 의사가 있음을 확인했다”며 “학생회는 서울의대 총의에 따라 학생 여러분과 함께 2025학년도 투쟁을 추진하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“尹 불법 구속 중단” 친윤 시위대 불법 행진</title>
+      <link>https://www.chosun.com/national/incident/2025/01/19/VSUT5W7NVJGQDLGKS6CKDO4IF4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/01/19/VSUT5W7NVJGQDLGKS6CKDO4IF4/</guid>
+      <dc:creator>이민경 기자, 안태민 기자, 김도연 기자, 안준현 기자, 서일원 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 19 Jan 2025 04:50:52 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2XTNHKWCONCDFLMHXQMTPP7PT4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;19일 오후 윤석열 대통령의 구속영장에 반발하는 친윤 시위대가 서울서부지법 앞에서 행진을 하고 있다. /안태민 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 대통령 지지자 약 1500여 명이 19일 오후 1시부터 서울서부지법 앞에서 서울 종로구 재동 헌법재판소까지 행진을 하고 있다. 경찰은 “사전에 신고가 안 돼 불법 집회를 하고 있다”며 시위 중단을 요구하고 있다.&lt;br&gt;&lt;br&gt;이날 오후 1시쯤 서울서부지법 옆 공덕소공원에 모여 있던 친윤 시위대 1500여 명(경찰 비공식 추산)은 헌법재판소 방향으로 행진을 시도하고 있다.&lt;br&gt;&lt;br&gt;이들은 ‘대통령 석방’ ‘애국 청년 석방’ ‘통행권 보장’등의 구호를 외치며 서부지법 건너편 마포경찰서 앞을 지나갔다. 경찰은 이들에게 “미신고 불법 집회를 하고 있다”며 경고 방송을 한 뒤, 이들의 행진을 저지하기 위한 바리케이드를 설치했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3GXDMOIL7BGPHN2VIIKOUKMCWY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;19일 오후 윤석열 대통령의 구속영장에 반발하는 친윤 시위대가 서울서부지법 앞에서 행진을 하고 있다. /안태민 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;일부 참가자는 “법이 없어진 상황에서 무슨 불법 집회냐” “부정선거나 검증하라”며 이를 가로막는 경찰과 몸싸움을 벌이기도 했다. 참가자들은 “이대로 헌법재판소까지 가겠다”고 했다. 서울서부지법과 헌법재판소까지의 거리는 약 5㎞다.&lt;br&gt;&lt;br&gt;앞서 이들은 법원이 윤 대통령에 대한 구속영장을 발부하자 서울서부지법부터 헌법재판소까지 ‘대국민저항군 도보대행진’을 연다고 밝혔다. 주최 측은 “대한민국의 최고 헌법 기관인 헌법재판소는 윤 대통령의 기본 인권과 방어권을 보장하지 않았다”며 “서울서부지방법원과 서울중앙지방법원은 국민이 선출한 대통령을 ‘불법 체포’했고 국민의 대리인인 윤 대통령에 대한 신변 보호도 보장하지 않았다”고 행진의 취지를 설명했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/2XTNHKWCONCDFLMHXQMTPP7PT4.jpg?width=4000&amp;height=3000&amp;auth=f1410afbaa8c82d04a8edd1dd8375c35ebf49f33f698d572c2df932f1615fe7c&amp;smart=true" type="image/jpeg" height="3000" width="4000">
+        <media:description type="plain">19일 오후 윤석열 대통령의 구속영장에 반발하는 친윤 시위대가 서울서부지법 앞에서 행진을 하고 있다. /안태민 기자</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>새해 첫날 0시, 남아 3명 동시에 ‘첫 울음’</title>
+      <link>https://www.chosun.com/national/welfare-medical/2025/01/02/WQBO7YWHLVGUFJUPGZHUPUQW6Q/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/01/02/WQBO7YWHLVGUFJUPGZHUPUQW6Q/</guid>
+      <dc:creator>안준용 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 01 Jan 2025 15:50:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/O5MT5AJS3ZGHJBGPMFACVEKCU4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2025년 새해 대한민국 첫 아기들이 탄생했다. 1월 1일 0시 0분 경기도 일산 차병원 분만실에서 자연분만으로 태어난 세명의 아기들이 간호사에 안겨 있다. 뒤쪽은 아기 아빠들. 오른쪽부터,  엄마 구슬기(35)씨와 아빠 강우(41)씨 사이에서 태어난 남아 딩굴이(태명), 엄마 구라겸(27)씨와 아빠 이효영(38세)씨 사이에서 태어난 남아 꼬물이(태명), 엄마 이승현(33)씨와 아빠 박준수(36)씨 사이에서 태어난 남아 니케(태명)./ 전기병 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;을사년(乙巳年) 새해 첫날인 1일 0시, 경기 고양시 일산동구 일산차병원에서 세 아기가 동시에 첫 울음을 터뜨렸다.&lt;br&gt;&lt;br&gt;차의과대 일산차병원은 이날 “0시 정각에 세 명의 산모가 각각 건강한 아들을 출산했다”고 밝혔다. 세 아기 모두 자연분만으로 세상에 나왔다. 산모 구슬기(35)씨와 남편 강우석(41)씨 사이에 태어난 ‘딩굴이’(이하 태명), 산모 구라겸(27)씨와 남편 이효영(38)씨 사이에 태어난 ‘꼬물이’, 산모 이승현(33)씨와 남편 박준수(36)씨 사이에 태어난 ‘니케’다. 딩굴이는 3.29㎏, 꼬물이와 니케는 각각 3.12㎏, 3.1㎏으로 태어났다.&lt;br&gt;&lt;br&gt;딩굴이는 구씨 부부가 결혼한 지 10년 만에 찾아왔다. 이들은 2022년부터 2년 넘게 난임 치료를 받은 끝에 자연임신에 성공했다. 남편 강씨는 “엄마 배 속에서 뒹굴뒹굴하며 잘 있다가 나오라고 태명을 ‘딩굴이’라고 지었는데, 결혼한 지 10년이 되는 해에 새해 첫 아이로 태어나서 더욱 특별하다”고 했다.&lt;br&gt;&lt;br&gt;꼬물이 아빠 이효영씨는 아내 구라겸씨와 11살 차이다. 그는 “아내가 나이 차 많이 나는 나와 결혼해 고생을 많이 했는데, 꼬물이가 건강하게만 자라줬으면 좋겠다”고 했다.&lt;br&gt;&lt;br&gt;니케 아빠 박준수씨도 “경이롭고 감사할 따름”이라며 “니케가 건강하고 바르게 자랄 수 있도록 최선을 다하겠다”고 했다.&lt;br&gt;&lt;br&gt;김의혁 일산차병원 산부인과 교수는 “다들 어렵고 힘든 시기이지만 새해에 태어난 새 생명들이 대한민국에 새 희망을 전할 수 있길 바란다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>검찰 “서부지법 불법 폭력 사태 가담자 전원 구속 수사” </title>
+      <link>https://www.chosun.com/national/court_law/2025/01/19/OZAQDQNYXFHQHELQJ44SIHSUFY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/01/19/OZAQDQNYXFHQHELQJ44SIHSUFY/</guid>
+      <dc:creator>유희곤 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 19 Jan 2025 03:17:45 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6QJA5ICJKPKXWF53GYP4AVHXGU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;19일 새벽 윤석열 대통령에 대한 구속영장이 발부되자 윤 대통령 지지자들이 서울서부지법 청사에 진입해 난동을 부리고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰이 윤석열 대통령 구속영장 발부와 관련한 불법 폭력 시위 가담자 전원을 구속 수사하겠다고 19일 밝혔다.&lt;br&gt;&lt;br&gt;대검찰청은 지난 18일 밤부터 19일 사이에 서울 마포구 서울서부지법 청사와 인근에서 발생한 불법 폭력 점거 시위를 수사할 전담수사팀 구성을 지시했다고 밝혔다. &lt;br&gt;&lt;br&gt;수사팀은 신동원 서울서부지검 차장검사를 팀장으로 검사 9명으로 구성된다. 검찰은 “이번 사태는 법치주의와 사법체계를 전면으로 부정하는 매우 중대한 범죄”라면서 “가담자를 전원 구속 수사하는 등 경찰과 긴밀히 협력해 엄정하게 수사를 진행하고, 재판에서 중형을 구형하는 등 범죄에 상응하는 처분이 내려질 수 있도록 최선을 다할 예정”이라고 했다.&lt;br&gt;&lt;br&gt;경찰청도 이날 이호영 경찰청장 직무대행 주재로 전국 지휘부 긴급회의를 열고 주동자 포함 불법행위자 전원을 구속 수사하겠다고 밝혔다. 경찰은 “도저히 묵과할 수 없는 일련의 불법 폭력 사태가 발생했다”며 “법치주의에 대한 중대한 도전으로 간주하고 법과 원칙에 따라 엄정하게 대처할 것”이라고 했다. 경찰은 지난 18일부터 19일까지 이틀 동안 불법·폭력 시위를 한 86명을 현행범으로 체포해 18개 경찰서에서 수사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/Y6L7TE6HJBKVTMBGR3LK4NHM3Y.JPG?width=5756&amp;height=3838&amp;auth=8443d97359275c8b6554a59fc5b50ceb8791c43a1706810df36e56586d6a375e&amp;smart=true" type="image/jpeg" height="3838" width="5756">
+        <media:description type="plain">(서울=뉴스1) 민경석 기자 = 19일 새벽 서울 마포구 서울서부지방법원에 윤석열 대통령에 대한 구속영장 발부 소식에 격분한 윤 대통령 지지자들이 난입해 유리창과 법원 건물 벽면 등을 파손한 흔적이 남아 있다. 2025.1.19/뉴스1</media:description>
+        <media:credit role="author" scheme="urn:ebu">(서울=뉴스1) 민경석 기자</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>독감 유행에 ‘4일장’ 속출..서울시 화장장 연장·확대 운영</title>
+      <link>https://www.chosun.com/national/national_general/2025/01/19/WFVBI6PX6JHNLHBMP42WSFI6EY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/19/WFVBI6PX6JHNLHBMP42WSFI6EY/</guid>
+      <dc:creator>박진성 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 19 Jan 2025 04:22:28 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VMYFFUV3WLUN2RQMINGHT2O75Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울추모공원 전경. /서울시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최근 독감과 폐렴 환자가 늘며 화장장을 예약하지 못해 불가피하게 ‘4일장’을 치르거나 멀리 화장하러 가는 ‘원정 화장’ 문제가 생겨나자 서울시가 대책을 마련했다.&lt;br&gt;&lt;br&gt;서울시는 서울시립승화원과 서울추모공원 화장장을 2시간 연장 운영한다고 19일 밝혔다.&lt;br&gt;&lt;br&gt;기존에 저녁 7시 30분 종료했던 서울시립승화원은 9시 30분까지, 서울추모공원은 저녁 9시까지 화장장을 이용할 수 있다. 평상시 가동하지 않는 정비 화장로 2기도 가동한다.&lt;br&gt;&lt;br&gt;하루 평균 180건을 처리했던 화장장 두 곳은 앞으로 223건을 처리할 수 있게 된다.&lt;br&gt;&lt;br&gt;서울시립승화원에 화장 시간을 20분 단축해 주는 ‘스마트 화장로’ 도입을 추진하고 있다. 현재 10기가 교체됐고 내년까지 전량 교체된다.&lt;br&gt;&lt;br&gt;서울추모공원은 오는 7월 화장로 4기가 늘어난다. 화장장을 새로 건립하는 것이 아닌 공원 안에 마련한 빈 공간에 추가로 화장로를 넣는다. 서울시 관계자는 “지난 2008년 공원 설계 당시 오세훈 서울시장이 미래 화장 수요가 늘어날 것을 예측하고 공원 안에 빈 공간을 확보해 둔 것을 활용했다”고 말했다.&lt;br&gt;&lt;br&gt;증설이 완료되면 11기였던 서울추모공원 화장로는 15기로 확대된다.&lt;br&gt;&lt;br&gt;한편, ‘장사 등에 관한 법 시행령’ 개정으로 매장, 화장, 자연장(수목장)으로만 규정됐던 장묘 방식에 산이나 바다 등에 골분을 뿌려 장사를 지내는 ‘산분장’(散粉葬)이 오는 24일부터 추가된다.&lt;br&gt;&lt;br&gt;서울시는 향후 서울시립승화원 등에 산분장 공간을 제공할 계획이다.&lt;br&gt;&lt;br&gt;윤종장 서울시 복지실장은 “유족들이 가족을 보낸 슬픔을 참아내며 4일장을 치르거나 화장장을 찾아 먼 거리 이동하는 일이 없도록 차질 없이 시설을 확충하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>추돌사고 수습 현장을 음주 차량이 또 덮쳐 4명 부상</title>
+      <link>https://www.chosun.com/national/incident/2025/01/19/XX7ERXBUMBF6HLKZCOOCC23I3Q/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/01/19/XX7ERXBUMBF6HLKZCOOCC23I3Q/</guid>
+      <dc:creator>이승규 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 19 Jan 2025 03:28:23 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KDRIFNNOU32B5DVCPPYA6WWJUQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;19일 오전 2시23분쯤 경북 포항 용흥동에서 3중 추돌 사고가 발생하면서 차량이 보행자를 덮쳐 4명이 중경상을 입었다./경북소방본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;음주운전 차량이 추돌사고 수습 중이던 현장을 덮쳐 4명이 부상을 입고 병원으로 이송됐다.&lt;br&gt;&lt;br&gt;19일 경북소방본부 등에 따르면 이날 오전 2시 23분쯤 포항시 북구 용흥동 한 도로에서 20대 남성 A씨가 몰던 승용차가 추돌사고를 수습하던 택시 기사와 승객, 차량 등을 들이받았다.&lt;br&gt;&lt;br&gt;이 사고로 택시기사인 50대 남성 B씨가 중상을 입었고 택시 승객 등 3명도 경상을 입고 병원으로 이송됐다.&lt;br&gt;&lt;br&gt;이 사고에 앞서 또 다른 운전자인 60대 C씨가 몰던 차량이 B씨의 택시를 뒤에서 들이받았다. B씨와 C씨 및 승객 등이 이를 수습하던 중에 A씨 차량이 2차 사고를 낸 것으로 조사됐다.&lt;br&gt;&lt;br&gt;경찰 조사 결과 A씨와 C씨 모두 음주 상태였던 것으로 파악됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>설 연휴 서울 대중교통 막차 새벽 2시로 연장</title>
+      <link>https://www.chosun.com/national/national_general/2025/01/19/AY6CLCZBDJCK5JJSWDMKJ3A7JU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/19/AY6CLCZBDJCK5JJSWDMKJ3A7JU/</guid>
+      <dc:creator>박진성 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 19 Jan 2025 04:07:14 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BPMC2N2LMAVI2VHSYR4NU5WIRE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;작년 2월 광주 송정역에서 귀성객들의 모습/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;귀성객이 집중되는 설 당일과 그다음 날, 서울 지하철과 시내버스 막차 시간이 새벽 2시까지 연장된다. 문 여는 병·의원과 약국은 하루 평균 1700곳이다.&lt;br&gt;&lt;br&gt;서울시는 이같은 내용의 설 종합대책을 시행한다고 19일 밝혔다.&lt;br&gt;&lt;br&gt;오는 29일과 30일 서울 대중교통 막차 시간이 연장된다. 지하철 1∼9호선, 우이신설선, 신림선 마지막 열차가 다음 날 새벽 2시에 종착역에 도착하도록 1일 총 118회 증회 운행한다.&lt;br&gt;&lt;br&gt;시내버스는 주요 기차역 5개소(서울역, 청량리역, 영등포역, 용산역, 수서역)와 터미널 3개소(서울고속터미널, 동서울터미널, 남부터미널)에서 종점 방향으로 가는 막차가 새벽 2시에 통과하도록 연장된다.&lt;br&gt;&lt;br&gt;오는 24일부터 다음 달 3일까지 서울발 고속·시외버스를 평상시보다 20% 증차 운행한다. 하루 654회를 증편해 평시 대비 33% 많은 1만9000명을 더 태울 수 있게 된다.&lt;br&gt;&lt;br&gt;망우리와 용미리 시립묘지의 경우 묘지를 경유하는 시내버스를 설 당일과 그다음 날 총 92회 늘린다. 용미리 묘지의 경우 무료 순환버스도 운행한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YL4ZZRYHXZK2TGZAT6YJ63HCJQ.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;15일 서울 시내 한 전통시장에서 한 상인이 설 명절 선물세트를 포장하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;병의원과 약국은 연휴 기간인 25일부터 30일까지 하루 평균 1700여곳(약국 1000곳, 병의원 700곳) 문을 연다. 연휴 기간 문 여는 병의원과 약국 정보는 서울시 홈페이지 ’2025 설 연휴 종합정보’나 응급의료포털에서 확인할 수 있다.&lt;br&gt;&lt;br&gt;시내 응급의료기관 49곳과 응급실 운영병원 21곳 모두 평소처럼 24시간 운영된다. 응급 소아 환자를 위해 ‘우리아이 안심병원’ 8곳과 ‘우리아이 전문응급센터’ 3곳도 24시간 돌아간다.&lt;br&gt;&lt;br&gt;전통시장에서 국내산 농축산물과 수산물을 온누리상품권으로 구매하면 최대 30%를 환급해주는 행사도 연다.&lt;br&gt;&lt;br&gt;행사에 참여하는 전통시장은 노량진 수산시장, 가락시장 등 서울 주요 전통시장 47곳이다. 참여 시장은 지난해 설(23곳) 대비 2배 이상으로 늘었다.&lt;br&gt;&lt;br&gt;연휴 기간에도 60세 이상 저소득 어르신과 결식 우려 아동에게 무료 급식이 중단 없이 진행된다. 기초생활수급가구에는 가구당 3만원의 위문비를 지급한다.&lt;br&gt;&lt;br&gt;설 관련 자세한 생활정보는 ’2025 설 연휴 종합 정보’와 내손안의서울 홈페이지에서 확인할 수 있다.&lt;br&gt;&lt;br&gt;송광남 서울시 정책기획관은 “시민들의 건강과 안전을 확보하는 것은 물론 경기를 살리기 위해 체감할 수 있는 대책과 지원을 추진하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>삼성전자 반도체 세정장비 기술 중국에 유출 시도한 일당 구속기소</title>
+      <link>https://www.chosun.com/national/court_law/2025/01/19/7AGJA5EHVFFCLF3MAJZJDIOEAU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/01/19/7AGJA5EHVFFCLF3MAJZJDIOEAU/</guid>
+      <dc:creator>수원=김수언 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 19 Jan 2025 03:54:10 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/R43QMFOC4U6CPXSOOV5BPB725U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;A사의 경기 평택시 세정장비 개발 사무실 개소 행사 사진. A사는 B씨 등을 여입하고 이 사무실을 개소했다. /수원지검&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;삼성전자 자회사인 세메스의 반도체 세정 장비 제조 기술을 도용해 만든 장비를 중국에 수출하려고 한 전 삼성전자 엔지니어 등이 구속 상태로 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;수원지검 방위사업·산업기술범죄수사부(부장 박경택)는 산업기술보호법 위반, 부정경쟁방지 및 영업비밀보호에 관한 법률 위반(영업비밀국외누설 등) 등 혐의로 중국계 A회사 대표 B(55)씨와 설계팀장 C(43)씨 등 2명을 구속 기소했다고 19일 밝혔다. 또 A회사 등 법인 3곳과 회사 직원 등 관련자 9명을 같은 혐의로 불구속 기소했다.&lt;br&gt;&lt;br&gt;검찰에 따르면 B씨 등은 2021년 10월부터 지난해 4월까지 삼성전자 자회사인 세메스 출신 퇴사자로부터 확보한 세정장비 도면과 공정 레시피 등을 활용해 장비를 제작해 중국에 수출하려고 한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;B씨 등은 세정장비 챔버부(장비 내에 구성된 세정 작업이 실제로 진행되는 부분) 도면을 구한 다음, 이를 기초로 새로운 수출용 장비 챔버부를 제작하고 또 세정장비 이송로봇 도면을 도용해 새 로봇을 설계, 제작한 혐의를 받고 있다. 삼성전자의 세정공정 레시피(장비 구동 세부 절차와 방법을 정리한 문서)를 활용해 새 레시피를 작성한 혐의도 있다.&lt;br&gt;&lt;br&gt;반도체 세정기술은 공정 중 발생하는 머리카락 1만 분의 1굵기의 이물질을 정밀하게 제거하는 초고난도 핵심기술로 꼽힌다. 이는 정부에서 지정한 국가핵심기술이기도 하다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2XZ47ZQ7GJA7DPBFDAL25I6SJU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;반도체 세정장비 기술 유출 범행 개요도. /수원지검&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰은 “삼성전자와 세메스가 30여년간 약 2188억원의 막대한 자본과 인력을 들여 개발한 이 기술을 피고인들이 유출, 부정사용했다”며 “만약 이 기술이 그대로 유출돼 동일한 품질의 설비가 대량 생산됐다면 국내 반도체 산업에 회복 불가능한 손해가 발생했을 것”이라고 밝혔다.&lt;br&gt;&lt;br&gt;검찰은 지난해 1월 국가정보원으로부터 정보를 입수해 수사에 착수했다. 수사 결과, B씨는 지난 2018년 삼성전자 등 반도체 업체에 근무한 엔지니어들을 영입해, 세정장비 관련 사업을 목적으로 하는 업체를 설립했다. 이후 중국 반도체 장비업체의 직접 투자를 받기로 하고, 78억2000만원 규모 계약을 체결한 후 모든 인력과 기술을 이 중국 회사의 국내 법인사에 양도하기로 한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;A사에 영입된 엔지니어들은 각 근무 업체에서 퇴사할 무렵 불법 유출한 자료 등을 수집했고, 이를 바탕으로 세정장비 개발에 착수한 것으로 검찰은 파악했다. 이렇게 제작된 시제품 1대가 중국으로 실제 수출됐다. 2대의 양산장비 제작 중 검찰의 압수수색으로 범행이 발각돼 중단됐다.&lt;br&gt;&lt;br&gt;B씨 등은 “자체 개발한 것”이라고 범행을 부인했지만, 검찰은 포렌식 기법을 활용해 자료에 남겨진 ‘디지털 지문(해시값)’을 확인, 기술이 도용된 사실을 밝혀냈다고 설명했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YWGM3NCWAZG57CKCKOZDTB6KGI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;A회사에서 압수한 제작 중인 반도체 세정장비, /수원지검&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이들은 평소 수사에 대비해 가명을 사용하거나, 간판도 없이 회사를 운영하고, 도면과 레시피 등 자료를 베끼고 난 뒤에는 이를 삭제하기도 한 것으로 파악됐다. 또 중국에 수출된 시제품을 동종업계 종사자들이 우연히 목격해 신고하려 한다는 소문을 듣자, 단체로 휴대전화를 교체하기도 했다고 한다.&lt;br&gt;&lt;br&gt;검찰 관계자는 “과거 기술유출은 대부분 외국 기업이 고액 연봉을 내세워 엔지니어들을 스카우트하는 방식이었는데, 이번 수사로 외국 기업이 직접 한국에 기술 유출 거점업체를 설립해 운영하며 국가핵심기술을 유출한 범행이 확인 됐다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>대법 “서부지법 현장, 영상보다 20배 참혹…심각한 중범죄"</title>
+      <link>https://www.chosun.com/national/court_law/2025/01/19/5BPI5UK7JBFW7PJD7Q2WAUXEWE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/01/19/5BPI5UK7JBFW7PJD7Q2WAUXEWE/</guid>
+      <dc:creator>안태민 기자, 박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 19 Jan 2025 03:41:03 +0000</pubDate>
+      <content:encoded>천대엽 대법원 법원행정처장이 19일 윤석열 대통령 지지자들이 난입한 서울서부지법 현장에 방문해 “참담한 중범죄”라며 “오후까지 상황을 보고 추가 계획을 마련할 것”이라고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/F7AU2BVVBBOURP57AINAPUXI4Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;천대엽 법원행정처장이 19일 윤석열 대통령 지지자들이 난입한 서울서부지방법원을 방문해 점검을 마친 뒤 취재진 질문에 답변하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;천 처장은 이날 낮 12시쯤 서울 마포구 서부지법 정문 앞에서 “TV에서 봤던 것보다 10~20배 참혹한 현장을 확인했다. 30년 간 판사 생활하면서 이런 상황 예상할 수 없었고 일어난 바도 없다”며 “법치주의에 대한 부정행위이자 형사상 중범죄”라고 말했다.&lt;br&gt;&lt;br&gt;이어 “비상계엄부터 탄핵까지 국민 여론이 분열된 상황인 건 안다”면서 “모든 것은 헌법이 정한 사법 절차 내에서 해소돼야만 우리나라를 지킬 수 있다. 깊은 이해를 부탁한다”고 당부했다.&lt;br&gt;&lt;br&gt;또 “이번 일로 많은 분들이 고생하고 충격받았을 것”이라며 “모든 상황이 정상으로 빨리 돌아와 우리 법치주의가 굳건하게 작동할 수 있길 바란다”고 강조했다. &lt;br&gt;&lt;br&gt;아울러 “다행히 법원 직원의 인명 피해는 아직 확인된 바 없다”며 “여러 경찰들께서 다친 데 대해선 깊은 유감을 표하며 위로 말씀을 드린다”고 했다. &lt;br&gt;&lt;br&gt;이날 건물 내부를 살펴 본 천 처장은 “법원 내 기물 파손 등이 생각했던 것보다 훨씬 심각하다”며 “법원 1층 접수층 뿐만 아니라 여러 층에 시위대가 들어온 흔적이 있다”고 했다. 천 처장은 판사실과 민사·형사과 사무실이 있는 5~6층까지도 피해가 있다고 밝혔다. &lt;br&gt;&lt;br&gt;윤 대통령에 대한 구속 영장을 발부한 차은경 부장판사의 신변 보호와 관련해서는 “여러 조치를 강구하고 있다”고 했다. 현재까지 차 부장판사의 건강에는 문제가 없는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;천 처장은 이날 오후까지 상황을 지켜본 뒤, 서부지법의 정상 업무 진행 여부나 추가 조치 등을 발표할 예정이라고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>너클 낀 주먹으로 시민 폭행하고 공무원에 소화기 휘두른 20대 집유</title>
+      <link>https://www.chosun.com/national/incident/2025/01/19/GSUGUWCQNZCQ5GA3AF3HUKANVA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/01/19/GSUGUWCQNZCQ5GA3AF3HUKANVA/</guid>
+      <dc:creator>이승규 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 19 Jan 2025 03:41:29 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HMP6R5XU3F4MAHT2FBEBTNYEYI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대구고등·지방법원./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지하철에서 처음 보는 시민을 폭행하고 공무원을 소화기로 때릴듯이 위협한 20대 남성에게 징역형이 선고됐다.&lt;br&gt;&lt;br&gt;대구지법 형사3단독 박태안 판사는 특수상해 등 혐의로 기소된 A(28)씨에게 징역 1년 4개월에 집행유예 2년을 선고했다고 19일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난해 10월 5일 대구 도시철도 1호선에서 처음 보는 지하철 승객에게 시비를 건 뒤 주먹에 끼는 무기인 플라스틱제 너클로 이용객을 폭행해 코뼈를 부러뜨린 혐의로 재판에 넘겨졌다. &lt;br&gt;&lt;br&gt;A씨는 그 전날엔 경북 경산시청 복지정책과 상담실에서 “기초생활수급비가 제대로 지급되지 않았다”며 비치돼 있던 소화기를 들어 공무원을 위협한 혐의도 받고 있다.&lt;br&gt;&lt;br&gt;박 판사는 “A씨의 죄질이 나쁘지만 피해자들 모두 A씨를 용서하고 선처를 탄원한 점, A씨가 범행을 인정한 점 등을 종합했다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>공수처, 尹에 오후 2시 출석 통보... “법치 부정 입장문 유감”</title>
       <link>https://www.chosun.com/national/court_law/2025/01/19/NMYDARCUSNEX5FAQLBIXHB2OWM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/01/19/NMYDARCUSNEX5FAQLBIXHB2OWM/</guid>
@@ -730,24 +840,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GBDQJF7TXVG4VBDDCD7O6G7XMU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;원명 스님./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국가인권위원회(인권위) 비상임위원이었던 원명스님(속명 김종민)이 지난 16일 위원직 사의를 밝힌 배경에 조계종 종단 지도부의 압박이 있었다는 주장이 17일 제기됐다.&lt;br&gt;&lt;br&gt;원명스님은 서울 강남구 봉은사 사찰관리인(주지)이다. 2022년 11월 인권위 비상임위원으로 임명됐고, 3년 임기 중 약 10개월을 남겨둔 상태였다. 그는 지난 9일 김용원 인권위 상임위원 등과 함께 12·3 계엄 사태 내란 혐의 수사를 받는 윤석열 대통령의 방어권을 보장하라는 취지의 안건을 발의했다. “내란 옹호 아니냐” 같은 비판이 이어지는 상황에서 원명스님은 지난 16일 오전 비상임위원직 사의를 표명했다.&lt;br&gt;&lt;br&gt;불교계 관계자는 17일 본지 통화에서 원명스님 사의 표명 배경을 두고 조계종 내부에서 원명스님에게 ‘인권위 비상임위원직을 사퇴하든지, 봉은사 주지 자리를 내려놓든지 하나를 선택하라’는 압력이 있었다고 밝혔다. 이 관계자는 “특히 조계종 총무원장인 진우스님이 ‘이번 비상계엄은 역사의 후퇴’라고 성명까지 낸 상황에서, 해당 안건을 발의한 원명스님이 종단 지도부에 밉보인 것으로 안다”고 주장했다. 조계종 총무원장 진우스님은 지난달 5일 입장문에서 비상계엄 사태에 대해 “국민 누구도 공감할 수 없는 역사의 후퇴”라고 했었다.&lt;br&gt;&lt;br&gt;원명스님의 인권위원 사의 표명에 종단 지도부 압박이 있었다는 주장과 관련, 조계종 측은 “공식적으로 파악하고 있는 바도 없고, 해당 문제는 원명스님의 개인 활동에 대한 것이기 때문에 따로 의견을 줄 수 없다”고 했다.&lt;br&gt;&lt;br&gt;한편, 인권위에서 강정혜 비상임위원은 해당 안건 발의를 철회하겠다고 17일 밝혔다. 강 비상임위원은 “형사법의 대원칙인 무죄추정의 원칙 등 안건의 전반적인 취지에는 동의했다”면서도 “해외 출장 중이어서 안건의 구체적인 내용을 제대로 검토하지 못했다”고 했다.&lt;br&gt;&lt;br&gt;윤 대통령 방어권을 보장하라는 안건을 공동 발의한 5명 중 2명이 사퇴하거나 철회한 상황이다. 하지만 인권위는 오는 20일 전원위원회에서 안건 상정 여부를 논의할 계획이다. 인권위 관계자는 “인권위 안건은 발의자 과반이 철회해야 폐기된다”며 “현 상황에서 인권위원장을 비롯한 총 10명 위원 중 과반(6명 이상)이 찬성하면 안건이 채택될 수 있다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>“尹 체포적부심 기각 판사 참수할 것” 살해 협박 글</title>
-      <link>https://www.chosun.com/national/national_general/2025/01/18/GGUCNAVCJZFS7BCGMECNAPH56Y/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/18/GGUCNAVCJZFS7BCGMECNAPH56Y/</guid>
-      <dc:creator>김병권 기자, 한영원 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 17 Jan 2025 15:54:00 +0000</pubDate>
-      <content:encoded>서울경찰청 사이버수사대는 서울중앙지법 형사32단독 소준섭 판사를 살해하겠다는 협박 글이 인터넷에 올라왔다는 신고를 받고 작성자를 추적하고 있다고 17일 밝혔다. 소 판사는 지난 16일 윤석열 대통령 체포적부심을 “이유 없다”며 기각한 당사자다.&lt;br&gt;&lt;br&gt;법원의 기각 결정이 이뤄진 직후인 16일 밤 11시 42분쯤 온라인 커뮤니티 디시인사이드 ‘국민의힘 마이너 갤러리’에는 ‘소준섭 (판사) 출퇴근길에 잡히면 참수한다’는 내용의 글 등이 올라왔다. 이후 서울 금천경찰서에 관련 신고가 접수됐다. 금천서는 디시인사이드에 게시글 보존 요청 등 초동 조치를 하고 다음 날 서울청에 사건을 이관했다.&lt;br&gt;&lt;br&gt;서울중앙지법을 관할하는 서울 서초경찰서는 지난 16일 소 판사에게 신변 보호가 필요한지 물었다. 이에 소 판사는 “걱정은 되지만, 당장은 신변 보호가 필요하다고 생각하지 않는다”며 “구체적으로 불안, 위협이 체감되면 그때 신변 보호를 요청하겠다”고 했다.&lt;br&gt;&lt;br&gt;한편 17일 오후 5시 40분쯤 고위공직자범죄수사처(공수처) 차량이 윤 대통령에 대한 구속영장을 청구하기 위해 서울서부지법에 도착하자 윤 대통령 지지자들은 법원 밖에서 “이재명 구속” 등을 외쳤다. 이들은 “법은 국민만 지키고 대법관은 법을 어겨도 되냐” 등 팻말을 들기도 했다. 법원 정문에서 우측으로 100m 정도 되는 거리엔 ‘판사 쇼핑 불법 영장 발부’ ‘법치주의는 서부지법에서 사망하다’와 같은 내용이 적힌 근조 화환 50여 개가 일렬로 세워져 있었다. 서부지법은 주차장 전체를 통제했고 경찰도 기동대를 투입해 법원 경비를 강화했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“뻥이요~!” 추억의 뻥튀기</title>
-      <link>https://www.chosun.com/national/national_general/2025/01/18/G2KZKH3KOJC5LBH37KJWFZXA3E/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/18/G2KZKH3KOJC5LBH37KJWFZXA3E/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Fri, 17 Jan 2025 15:54:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LHH2B7BPRVADNLNZOAXECATPW4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;설 연휴 시작을 일주일 앞둔 17일 대구 중구 번개시장에서 한 상인이 쌀·콩 등 강정 재료를 ‘뻥’ 소리와 함께 튀겨내고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>北에 軍 기밀 유출 코인거래소 운영자 징역 4년, 법정 구속</title>
       <link>https://www.chosun.com/national/court_law/2025/01/18/BDGLDQ4FONDTFKN6NZNYXOYQK4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/01/18/BDGLDQ4FONDTFKN6NZNYXOYQK4/</guid>
@@ -773,72 +865,6 @@
       <description/>
       <pubDate>Fri, 17 Jan 2025 15:54:00 +0000</pubDate>
       <content:encoded>“오케이알(OKR·Objective and Key Results·목적과 핵심 목표) 싱크(Sync·동기화)는 최대한 아삽(ASAP·As Soon As Possible·가능한 한 빨리)으로 진행합시다(이번 업무의 핵심 목표 달성과 관련한 상황 공유·최신화는 최대한 빨리 합시다).”&lt;br&gt;&lt;br&gt;취업준비생 황준혁(26)씨는 최근 경기 성남 판교의 한 IT스타트업 회사에서 인턴을 시작한 뒤 한동안 의사소통을 할 수 없었다. 한국어와 영어가 뒤섞인 정체 불명의 언어가 공용어로 통용되고 있었다. “작업 마치면 핑(ping·연락) 주세요” “해당 이슈(issue·문제)는 로컴(low communication·소극적인 대응)으로 갑시다”라는 말이 난무했다. 황씨는 “뭘 하라는 건지 당혹스러웠다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/T45QHTBYCNBLZHZNCXWXWBZMEU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=이철원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;IT 업계에선 이 같은 언어를 ‘판교 사투리’라고 부른다. 판교에 밀집한 IT 분야 기업·스타트업에서 사용하는 언어를 가리킨다. 한국어는 조사나 어미만 활용하고 핵심 명사·동사는 대부분 개발·경영 분야 영어 단어를 쓰는 것이 특징이다. 판교 직장인들은 이런 언어를 업무뿐 아니라 일상에서도 사용한다. “감기 이슈로(감기 때문에) 늦었어” “그런 재밌는 일은 아삽(가능한 한 빨리) 팔로업(후속 조치)해줘”라는 식이다.&lt;br&gt;&lt;br&gt;‘판교 직장인’이 되려는 취업준비생들은 이 같은 판교 사투리 공부에 열중하고 있다. 판교의 한 IT 회사에서 인턴 후 정규직 취업을 준비하는 정모(25)씨는 “판교에서 정규직으로 일하려면 ‘판교 사투리’를 미리 알아둬야 한다”며 “나 혼자 ‘판교 사투리 코칭 AI(인공지능)’도 만들었다”고 했다. 취준생들은 “판교 생활에 잘 적응할 인재라는 것을 면접이나 채용 전환형 인턴에서 보여주고 싶은데, 그 시작이 업무 용어를 숙지하는 것이라 생각한다” “상사에게 용어 질문하는 것이 실례일 수 있으니 미리 공부한다”고 말한다.&lt;br&gt;&lt;br&gt;인터넷에는 ‘판교어 번역기’ ‘판교 사투리 사전’까지 등장했다. ‘허슬(hustle·어려운 상황에서도 노력한다는 뜻)’ ‘시레벨(Chief level·경영진)’ 등 판교에서 자주 사용하는 용어의 뜻과 예문 300개를 표로 정리한 파일을 5000원에 판매하는 곳도 있다.&lt;br&gt;&lt;br&gt;판교에 밀집한 기업은 대부분 고연봉에 사내 복지가 우수하고 재택근무가 활성화된 곳도 많아 취준생 인기가 높다. 판교 직장인들은 “과도한 경쟁 때문에 판교 사투리의 효용성이 부풀려진 측면도 있다”고 했다. IT 업계 6년 차인 박모(32)씨는 “취업준비생은 남들이 한다고 하면 따라 해야 할 것 같고, (경쟁력이) 하나라도 더 있어야 한다는 마음에 업계 은어까지 예습하는 것 같아 안타깝다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[부음] 설악산 ‘털보 산장지기’ 유창서씨 별세</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2025/01/18/32R4NWDVZZHNNGWDHGMWWC4LYI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2025/01/18/32R4NWDVZZHNNGWDHGMWWC4LYI/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Fri, 17 Jan 2025 15:52:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ADJIHU5ZYNFSVCBFGUUQQQEVZU.jpeg"&gt;&lt;figcaption&gt;&lt;small&gt;16일 별세한 설악산 지킴이 유창서씨(권금성 산장관리인)./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;설악산 권금성 산장의 ‘털보 지기’로 유명한 산악인 유창서(87)씨가 16일 별세했다. 고인은 1969년 2월 한국산악회의 ‘설악산 죽음의 계곡 10동지 조난사고’ 수습에 나선 것을 계기로 같은 해 가을 서울 생활을 청산하고 설악산으로 들어갔다. 1976년 대한적십자사 설악산 산악구조대를 창설해 초대 대장이 됐다. 이후 수백 명이 넘는 조난자를 구조한 공로로 국민훈장 석류장을 받았다. 빈소는 속초의료원. 발인은 18일 오전 6시. (033)630-6016&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[부음] 김정규 별세 외</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2025/01/17/ZYZ7OZHAOBE4BBTQQAILB7OWW4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2025/01/17/ZYZ7OZHAOBE4BBTQQAILB7OWW4/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Fri, 17 Jan 2025 15:52:00 +0000</pubDate>
-      <content:encoded>▲&lt;b&gt;김정규&lt;/b&gt; 별세, &lt;b&gt;김성진&lt;/b&gt; 前 조달청장 모친상=17일2시47분 서울성모병원, 발인 20일8시30분, (02)2258-5940&lt;br&gt;&lt;br&gt;▲&lt;b&gt;서송자&lt;/b&gt; 별세, &lt;b&gt;박수현&lt;/b&gt; 더불어민주당 국회의원 모친상=16일23시40분 계룡농협장례식장, 발인 20일9시30분, (041)853-4444&lt;br&gt;&lt;br&gt;▲&lt;b&gt;윤정순&lt;/b&gt; 별세, &lt;b&gt;백기억&lt;/b&gt; IBK투자증권 분당센터 영업이사 모친상=16일22시25분 분당서울대병원, 발인 19일8시30분, (031)787-1513&lt;br&gt;&lt;br&gt;▲&lt;b&gt;최일섭&lt;/b&gt; 前 포스코인재창조원장 별세, &lt;b&gt;이옥자&lt;/b&gt; 남편상, &lt;b&gt;최재천&lt;/b&gt; 이화여대 석좌교수·&lt;b&gt;최재국&lt;/b&gt;·&lt;b&gt;최재송&lt;/b&gt;·&lt;b&gt;최재호&lt;/b&gt; 부친상, &lt;b&gt;채현경&lt;/b&gt;·&lt;b&gt;이미영&lt;/b&gt;·&lt;b&gt;박수영&lt;/b&gt;·&lt;b&gt;허지응&lt;/b&gt; 시부상=15일10시 신촌세브란스병원, 발인 19일6시20분, (02)2227-7500&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>73년간 태어난 아기 30만명… 2代가 같은 병원서 출산도</title>
-      <link>https://www.chosun.com/national/regional/2025/01/18/RMPAUZKURRGGBCO63EIDRZHKDM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/01/18/RMPAUZKURRGGBCO63EIDRZHKDM/</guid>
-      <dc:creator>부산=김주영 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 17 Jan 2025 15:52:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/S7J24O7FQFHZ5OYJK4CXW5NHOY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 13일 부산 동구 일신기독병원에서 태어난 오모(1)군과 엄마·아빠가 기념 촬영을 하고 있다. 오군은 이 병원에서 태어난 30만번째 아기다. 부산시는 18일 오군의 탄생을 축하하는 행사를 연다./일신기독병원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;설립한 지 73년 된 부산 최초의 여성·영유아병원 일신기독병원에서 지난달 30만 번째 아기가 태어났다. 20만 번째 아기가 태어난 지 30년 만의 기록이다. 이를 축하하기 위해 이 병원에서 10만 번째로 태어난 10만둥이, 20만둥이를 낳은 어머니, 다둥이 가족 등이 한자리에 모인다.&lt;br&gt;&lt;br&gt;부산시는 18일 오후 동구청 대강당에서 일신기독병원 30만명 출생 기념행사를 연다고 17일 밝혔다. 지난해 12월 13일 태어난 30만 번째 아기 오모(1)군 가족을 비롯해 이 병원에서 태어났거나 출산한 사람들이 모여 오군의 탄생을 기념하는 것이다.&lt;br&gt;&lt;br&gt;일신기독병원은 1952년 호주 선교사이자 의료인인 맥켄지 자매(한국 이름 매혜란·매혜영)가 설립했다. 6·25전쟁 이후 여성 전문 병원이 아예 없었던 부산에 ‘일신부인병원’이란 이름으로 처음 문을 열었다. 부산에서 가장 유명한 분만 병원으로 꼽힌다. 2022년엔 70년간 여성·아동 진료에 힘쓴 점을 인정받아 부산 미래 유산에 선정되기도 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/A5YRYSYLORBC7ASNTOSYZXJUPA.png"&gt;&lt;figcaption&gt;&lt;small&gt;1952년 9월 부산 일신기독병원 개원 당시 찍은 기념사진. 왼쪽에서 2·3번째가 병원 설립자인 매혜영·매혜란씨 자매./조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이번 행사에 참석하는 10만둥이 허윤희씨는 1982년도에 이 병원에서 태어나, 현재 부산시의회에서 근무하고 있다. 허씨도 중학교 3학년, 초등학교 5·6학년인 세 자녀를 이 병원에서 낳았다. 2대(代)째 같은 병원에서 출산을 한 것이다. 허씨의 어머니 박순홍씨는 본지 통화에서 “손주 3명까지 이 병원에서 태어나 지금까지 소아과도 다니고 있다”며 “앞으로 손주들도 이 병원에서 아이를 낳고 부산에서 자자손손 살았으면 좋겠다”고 했다. 박씨는 “내가 출산한 병원에서 30만명째 아이가 태어난 것이 너무 대단한 일이라고 생각해 행사에도 딸(허씨)과 함께 참석할 것”이라고 했다.&lt;br&gt;&lt;br&gt;20만둥이는 1994년 태어난 신민원씨다. 현재 서울 상계백병원에서 소아과 의사로 일하며 어린이들을 진료하고 있다. 신씨는 현재 만삭이라 이번 행사엔 신씨의 어머니 김소임씨가 참석한다. 김씨는 33년 전 신씨의 언니를 이 병원에서 낳은 데 이어 둘째인 신씨를 낳았다고 한다. 김씨는 “제가 아이들을 낳았을 때만 해도 온 동네에서 아이들이 태어났는데, 요즘은 그렇지 않아 안타깝다”며 “다복한 우리 집 기운을 받아서 부산이 다시 아이들로 북적한 도시가 됐으면 좋겠다”고 했다.&lt;br&gt;&lt;br&gt;1982년 10만둥이 허씨가 태어나고 1994년 20만둥이 신씨가 태어나기까지 12년이 걸렸다. 그런데 30만둥이 오군이 태어나기까진 꼬박 30년이 걸렸다. 출산율 감소가 30만둥이 탄생 시점을 늦춘 셈이다. 병원 관계자는 “우리 병원에서 아이가 가장 많이 탄생한 1992년엔 하루에 46명이 나오기도 했는데, 요즘엔 한 달에 40~50명 수준”이라며 “병원 식구들끼리 ‘다음 40만둥이는 언제쯤 태어날지 까마득하다’는 얘기를 나누곤 한다”고 했다. 산부인과와 소아청소년과에 집중했던 병원은 저출생으로 경영이 악화하자 내과, 외과, 영상의학과 등으로 진료 과목을 넓혔다고 한다. 30만둥이 탄생 축하 행사가 뜻깊은 이유다.&lt;br&gt;&lt;br&gt;홍경민 병원장은 “부산 1개 구(區) 인구수에 달하는 소중한 30만명이 우리 병원에서 탄생해 병원 가족 모두 기뻐하고 있다”며 “출산율이 나날이 떨어지고 있지만, 우리는 여성과 영유아를 위해 끝까지 역할을 해 나갈 것”이라고 했다. 박설연 부산시 여성가족국장은 “이번 30만 번째 아기의 울음소리는 ‘지방 소멸’ 위험에 처해 있는 부산에 희망과 기쁨을 전하는 신호”라며 “출산·양육에 더욱 친화적인 도시를 만들기 위해 모든 수단을 동원할 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>김태익 인천시립박물관장</title>
-      <link>https://www.chosun.com/national/people/2025/01/18/ZXC6AZKFFBGTFFKJHJVDZACYU4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/01/18/ZXC6AZKFFBGTFFKJHJVDZACYU4/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Fri, 17 Jan 2025 15:52:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LINP76C3UNEK7IT4XFECC7QVGI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김태익 전 조선일보 논설위원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김태익 전 조선일보 논설위원이 17일 인천시립박물관장에 임명됐다. 임기는 2년.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[인사] 기획재정부 외</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2025/01/18/EGLKLXRXLRCX3FSUSQXPKEXGUE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2025/01/18/EGLKLXRXLRCX3FSUSQXPKEXGUE/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Fri, 17 Jan 2025 15:52:00 +0000</pubDate>
-      <content:encoded>▲&lt;b&gt;기획재정부&lt;/b&gt;◇과장급 전보▷홍보담당관 강준모▷기획재정담당관 박경찬▷경제구조개혁총괄과장 권재관&lt;br&gt;&lt;br&gt;▲&lt;b&gt;법무부&lt;/b&gt;◇고위공무원 승진▷법무부(국립외교원) 이희정▷인천구치소장 김재술◇고위공무원 전보▷법무부(국가공무원인재개발원) 한태환◇서기관 전보▷법무부(통일교육원) 김희곤▷강원북부교도소장 김성열▷수원구치소 평택지소장 이희동&lt;br&gt;&lt;br&gt;▲&lt;b&gt;공정거래위원회&lt;/b&gt;◇국장급 전보▷기획조정관 선중규◇과장급 승진▷정보화담당관 박동수▷서울지방공정거래사무소 건설하도급과장 김창완◇과장급 전보▷내부거래감시과장 김상윤▷대전지방공정거래사무소장 임선정◇과장급 파견▷고용노동부 파견(인사교류) 김동명&lt;br&gt;&lt;br&gt;▲&lt;b&gt;KBS&lt;/b&gt;▷콘텐츠전략본부 드라마센터 CP 윤재혁▷콘텐츠전략본부 예능센터 CP 김상미&lt;br&gt;&lt;br&gt;▲&lt;b&gt;경향신문&lt;/b&gt;▷편집국장 김준기▷사회경제연구원장 오관철&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>本紙 김지호·장련성·김동환 기자 이달의 보도사진상 수상</title>
-      <link>https://www.chosun.com/national/people/2025/01/18/3DRFDXWA5VC4PD6RVBWXCNPHLE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/01/18/3DRFDXWA5VC4PD6RVBWXCNPHLE/</guid>
-      <dc:creator>고운호 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 17 Jan 2025 15:52:00 +0000</pubDate>
-      <content:encoded>한국사진기자협회는 2024년 하반기 이달의 보도사진상 수상작을 16일 발표했다. 제262회 뉴스 부문 우수상에 본지 장련성 기자의 ‘광화문 하늘엔 헬기, 땅엔 장갑차’가 선정됐고, 제263회 네이처 부문 최우수상에 김동환 기자의 ‘잿빛으로 변해 버린 산’이 선정됐다. 제264회 뉴스 부문 최우수상에는 계엄군 병력이 국회에 진입하려고 본관 정문 앞을 점령한 김지호 기자의 ‘다시 보고 싶지 않은 서울의 밤’이 선정됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JTXTJA56QBGLDMYOU3ADX2CFD4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;제264회 이달의 보도사진상 - 최우수상&gt;
-계엄군이 4일 새벽 국회 본관 정문 앞에서 국회 사무처 직원, 보좌진 등과 대치하고 있다. 계엄군은 정문이 막히자 사무실 유리창을 깨고 건물에 진입했지만, 의원들이 계엄 해제 요구안 표결을 위해 모인 본회의장에 들어가지는 않았다. 이날 국회에 투입된 병력은 약 280명으로 추정된다. / 김지호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5YHNYGZABVC3DIXAZU74CDWY6U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;제263회 이달의보도사진상 - 최우수상&gt;
-2024년 11월 21일 오후 경남 밀양시 상남면의 소나무 숲 곳곳이 붉은색과 회색으로 변했다. 소나무재선충병이 덮쳐 소나무가 말라 죽은 현장이다. 최근 영남 지역을 중심으로 소나무재선충병이 확산돼 산림 당국에 비상이 걸렸다. / 김동환 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PRL5R6AMXNAGHEBKIQD36B27FE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;제262회 이달의보도사진상 - 우수상&gt;
-제76주년 국군의 날인 1일 오후 육군 'AH-64E 아파치' 헬기가 서울 세종대로 상공을 가르며 장비 부대를 엄호하고 있다. '강한 국군, 국민과 함께!'라는 주제로 열린 이날 시가행진에는 병력 3000여 명과 80여 대의 장비가 참여했다. / 장련성 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[오늘의 날씨] 2025년 1월 18일</title>
-      <link>https://www.chosun.com/national/national_general/2025/01/18/QAMLCIAEVFBQXACVC6MT4I66QY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/18/QAMLCIAEVFBQXACVC6MT4I66QY/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description>전국 대체로 맑음</description>
-      <pubDate>Fri, 17 Jan 2025 15:50:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/O24T6PX2XVAPXLEUMGDLTDAFIU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>“911을 불러주세요!” 뉴욕 버스 안에서 응급 상황</title>
@@ -938,24 +964,6 @@
       <description/>
       <pubDate>Fri, 17 Jan 2025 11:23:56 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WPMC2OCCMUFAWQ5EUB5YQW33UE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;군 간부 사칭 신원미상자가 제출한 가짜 공문. /당진시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최근 인천에 이어 충남 당진에서도 군 간부를 사칭해 철물점에 대금을 지급하기로 약속하고 물품 납품을 요구하는 사기 사건이 잇따라 주의가 요구된다.&lt;br&gt;&lt;br&gt;17일 당진시에 따르면 전날과 이날 지역 군부대 간부라는 남성이 철물점 2곳에 대금 지급을 약속하고 드릴 공구 세트 등 약 100만원 상당의 물품을 요청했다.&lt;br&gt;&lt;br&gt;이 남성은 철물점 주인 휴대전화로 부대명과 담당자 명칭 등이 담긴 부대 물품 공급 결재 확약서와 올해 부대정비 소모품 구매 승인서 등 공문서 사진도 보냈다.&lt;br&gt;&lt;br&gt;하지만 이를 수상히 여긴 철물점 주인이 군에 연락해 공문에 적힌 이름의 간부는 없다는 사실을 확인해 피해가 발생하지 않았다.&lt;br&gt;&lt;br&gt;시 관계자는 “현재 군부대와 협력해 즉각 연락망을 구축했다”며 “만약 군부대 관계자라고 밝히고 외상거래 요청을 해올 경우 시청 재난안전상황실에 연락해 사실관계를 확인해 달라”고 당부했다.&lt;br&gt;&lt;br&gt;지난해 12월 인천에서도 유사한 사기 사건이 발생한 바 있다. 당시 인천 소재 철물점 주인 2명이 각각 1600만원과 800만원의 피해를 본 것으로 알려졌다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘담배 소송’ 11년째... 흡연 질환에 쓴 진료비는 그새 2배로</title>
-      <link>https://www.chosun.com/national/welfare-medical/2025/01/17/OUXJSFOHPFGYJD2ROJIC4VMYLQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/01/17/OUXJSFOHPFGYJD2ROJIC4VMYLQ/</guid>
-      <dc:creator>오유진 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 17 Jan 2025 11:39:06 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5LAE3WSYIMAQRFEMNCSPGWX6MU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국민건강보험공단과 주요 담배 회사들 간의 소송전이 11년째 이어지는 가운데, 그동안 흡연 관련 건강보험 진료비는 2배 이상으로 불어난 것으로 나타났다.&lt;br&gt;&lt;br&gt;17일 건보공단에 따르면, 흡연 관련 질환으로 건강보험에서 지출된 총진료비는 2014년 약 1조7000억원에서 2023년 약 3조8000억원으로 늘었다. 또 최근 6년간(2018~2023년) 흡연으로 지출된 총진료비를 모두 합하면 20조원을 넘는 것으로 나타났다. 건보공단은 세계보건기구(WHO) 발표와 선행 연구를 통해 폐암·후두암 등 흡연과 관련성이 있다고 보고된 56개 질병군을 선별하고, 그중에서도 인과관계가 큰 45개 질환을 뽑아 진료비를 산정했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5YLJAZH255FFVOXXD74Y7PRXGA.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=이진영&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;건보공단은 이 같은 사실을 지난 15일 담배 회사들을 상대로 낸 손해배상 소송 항소심 법정에서 공개했다. 이 재판은 건보공단이 2014년 4월 KT&amp;amp;G·한국필립모리스·BAT코리아 등을 상대로 “흡연으로 인한 질병 치료에 들어간 진료비를 배상하라”며 533억원의 손해배상을 청구해 시작됐다. 2020년 나온 1심은 흡연과 질병의 인과관계가 인정되지 않는다는 이유로 건보공단이 패소했다. 건보공단은 항소해 현재 항소심이 진행 중이다.&lt;br&gt;&lt;br&gt;건보공단은 이날 재판에서 ‘흡연과 암 사이의 인과관계’를 입증하는 새로운 연구 논문을 법원에 제출했다고 밝혔다. 건보공단과 연세대 보건대학원이 2004년부터 2013년까지 전국 18개 건강검진센터에서 검진받은 14만1679명을 약 13년간 추적 조사한 것으로 3가지 암(폐암 중 소세포암과 편평세포암, 후두암 중 편평세포암)과 하루 한 갑씩 20년 이상 담배를 피운 흡연자 간의 관련성을 분석했다.&lt;br&gt;&lt;br&gt;연구에 따르면 하루 한 갑씩 20년 이상 담배를 피우고 있는 흡연자는 폐암 중 소세포암 발생 위험이 비흡연자에 비해 최대 41.2배 높았다. 폐암 중 편평세포암은 최대 28.4배, 후두암 중 편평세포암은 최대 6.8배 높게 나타났다. 이를 이용해 계산하면, 흡연을 한 소세포 폐암 환자의 암 발병 원인이 담배 때문일 확률이 97.5%, 편평세포 폐암은 96.4%, 후두암은 85.3%로 나타났다. 법원은 이를 증거로 채택했다.&lt;br&gt;&lt;br&gt;반면, 담배 회사들은 흡연자가 아닌 건보공단이 손해를 봤다고 소송을 거는 것은 법리적으로 납득할 수 없다고 주장한다. 또 질병 발생 원인이 흡연으로 인한 것인지 인과관계를 명확히 밝혀야 한다는 입장이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>빅5마다 레지던트 지원 10명 안팎...모집기간 이틀 연장</title>
-      <link>https://www.chosun.com/national/welfare-medical/2025/01/17/IFTSS2A4QVEGLPIU3BAKM5LUAI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/01/17/IFTSS2A4QVEGLPIU3BAKM5LUAI/</guid>
-      <dc:creator>오경묵 기자, 강다은 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 17 Jan 2025 11:38:06 +0000</pubDate>
-      <content:encoded>오는 3월부터 전국 병원에서 수련을 시작하는 상반기 레지던트 모집 결과, 전공의들의 지원이 저조한 것으로 나타났다. 서울 주요 병원의 경우 전공의 공백에 따라 많게는 500~600명씩을 선발해야 하는데, 병원에 따라 지원자는 10명 안팎에 불과한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;17일 보건복지부와 의료계에 따르면, 전국 221개 수련 병원이 지난 15일부터 이날까지 레지던트를 모집한 결과 실제 지원은 미미했다. 정부가 전공의 복귀를 기대했던 주요 대형 병원도 지원율이 낮았다. 세브란스병원은 570여 명 모집에 11명이 지원했다. 1년 차 신규가 1명, 사직 전공의가 10명이다. 서울아산병원은 지원자 수가 한 자릿수에 그쳤다. 각각 레지던트 수백 명씩을 모집하는 서울대병원과 삼성서울병원, 서울성모병원 등도 비슷한 상황인 것으로 알려졌다. 일부 지방 병원에서는 지원자가 아예 없는 경우도 있었다. 의료계에서는 “1년 가까이 이어져 온 전공의 공백 사태가 장기화될 우려가 있다”는 말이 나온다. 정부가 파악 중인 사직 레지던트는 총 9220명인데, 이들 가운데 절반 이상은 다른 병의원에 재취업한 상태다.&lt;br&gt;&lt;br&gt;정부는 이번 레지던트 모집을 앞두고 복귀를 유도하기 위해 수련·입영 특례를 내세웠다. 사직 전공의가 1년 이내 동일 과목·동일 연차로 복귀할 수 없는 제한 규정을 적용하지 않기로 했고, 복귀를 원하는 전공의의 경우 수련을 모두 마치고 병역 의무를 이행할 수 있도록 입영도 연기해 주기로 했다.&lt;br&gt;&lt;br&gt;하지만 이 같은 당근책에도 사직 전공의들이 움직이지 않은 것이다. ‘의대 정원 문제가 그대로인 상황에서 복귀할 이유가 없다’는 기존 입장을 고수한 셈이다. 정부는 애초 이날 마감할 예정이었던 각 병원의 레지던트 모집 결과 제출 기한을 19일로 변경했다. 복지부 관계자는 “면접 등 후속 절차를 연기하지 않는 범위에서 제출 기한을 주말까지 연장해 달라는 수련 병원장들의 요청에 따라 19일까지 제출할 수 있도록 조치한 것”이라고 했다. 최근 대한의사협회 새 지도부 출범에 맞춰 정부는 2026학년도 의대 정원 원점 재검토 의사를 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>화장 수요 급증…대구 명복공원, 화장로 확대 운영</title>
