@@ -13,6 +13,86 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>尹측 “서신 금지 반인권적...현 상태론 공수처 조사 어려워”</title>
+      <link>https://www.chosun.com/national/court_law/2025/01/21/MIG7ZMFDHJDPXESU623CGGBOF4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/01/21/MIG7ZMFDHJDPXESU623CGGBOF4/</guid>
+      <dc:creator>이슬비 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 21 Jan 2025 10:03:27 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3LQ2A6JZGBCDVPMAVB66MJLMRA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령의 법률대리인단인 윤갑근 변호사가 21일 오후 서울 종로구 헌법재판소 심판정에서 열린 윤석열 대통령 탄핵 심판 3차 변론기일에 참석하며 기자들의 질문에 답하고 있다. /김지호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 대통령 측 윤갑근 변호사는 21일 고위공직자범죄수사처(공수처)의 수사 방식에 대해 “현재와 같은 상태로는 조사 진행이 어렵다”고 했다. 공수처가 서울구치소를 찾아 6시간에 걸쳐 강제구인을 시도하고, ‘증거 인멸 우려’를 이유로 가족 면회를 차단한 데 이어 서신 수·발신까지 금지하자 강하게 반발한 것이다.&lt;br&gt;&lt;br&gt;윤 변호사는 이날 헌법재판소 탄핵심판 변론이 끝나고 기자들과 만나 공수처가 서신 수·발신을 금지한 것에 대해 “있어서는 안 될 일”이라고 비판했다. 이어 “아무리 직무가 정지됐어도 현직 대통령”이라며 “증거 인멸 우려가 있다는 확정적 증거 없이 서신을 금지하는 것은 반인권적 행위”라고 했다.&lt;br&gt;&lt;br&gt;윤 변호사는 공수처의 강제구인 시도에 대해 “변호인 접견 중에 공수처에서 (구인하러) 나온 것”이라며 “접견은 계속 이어졌지만, 방해받았다”라고 했다. 방어권 보장을 위해 대통령이 변호인을 접견하는 시간까지 공수처가 침해했다는 취지다. 윤 변호사는 “구속영장이 발부돼 집행되면 모든 권한은 구치소가 갖고 있고, 공수처가 함부로 인치할 권한이 없다”며 “그런 부분에서 (구인이) 제대로 집행 안 된 것”이라고 설명했다.&lt;br&gt;&lt;br&gt;윤 변호사는 공수처가 윤 대통령 사건을 검찰로 송부할 경우 조사에 응할 것이냐는 질문엔 “검찰로 이송되면 그때그때 상황을 보고 말씀드리겠다”고 답했다. ‘검찰 수사에 응하겠다는 입장을 유보한 것이냐’는 물음엔 “그런 발언을 한 적이 없고, 유보하는 태도를 취한 것도 없다”며 “수사 상황이 급변하니 그때 가서 판단하겠다는 것”이라고 했다.&lt;br&gt;&lt;br&gt;윤 대통령에 대한 서신 수·발신 금지와 변호인 외 접견 금지 조치는 기소 전까지 적용된다. 그때까지 윤 대통령은 김건희 여사를 비롯한 가족, 외부인들과 접견은 물론 서신도 주고받을 수 없다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>尹, 헌재서 병원 갔는데... 또 강제구인하러 구치소 간 공수처</title>
+      <link>https://www.chosun.com/national/court_law/2025/01/21/ZMKCYO6Q6BGKDBK5XEVSFREI6E/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/01/21/ZMKCYO6Q6BGKDBK5XEVSFREI6E/</guid>
+      <dc:creator>이슬비 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 21 Jan 2025 08:57:33 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/COK3BBRP5HPIY7QAWEQBENW64A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령이 21일 서울 종로구 헌법재판소에서 열린 탄핵심판 3차 변론기일에 출석해 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 대통령이 21일 헌법재판소 탄핵심판에 출석해 변론을 마친 뒤 서울구치소가 아닌 국군서울지구병원으로 이동한 것으로 전해졌다. 같은 시각, 고위공직자범죄수사처(공수처)는 윤 대통령에 대한 강제 구인을 다시 시도하기 위해 서울구치소를 찾았다.&lt;br&gt;&lt;br&gt;윤 대통령을 태운 법무부 호송차는 이날 오후 4시 42분쯤 서울 종로구 헌법재판소를 출발해 국군서울지구병원으로 이동한 것으로 알려졌다. 서울구치소로 복귀 하기 전에 병원을 찾은 구체적 사유는 아직 확인되지 않았다.&lt;br&gt;&lt;br&gt;공수처 검사와 수사관 6명은 윤 대통령 보다 먼저 구치소에 도착했다. 공수처 차량은 이날 오후 5시 47분쯤 서울구치소 내부로 들어갔다.&lt;br&gt;&lt;br&gt;공수처는 윤 대통령이 병원에 들렀다 구치소로 복귀하면 강제구인을 다시 시도할 것으로 보인다. 공수처 관계자는 “강제 구인 뿐 아니라 대면 조사(옥중 조사)도 고려하고 있다”고 했다.&lt;br&gt;&lt;br&gt;공수처는 전날에도 윤 대통령 강제구인을 시도했지만, 윤 대통령 측이 거부하면서 6시간 만에 철수했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/O2JJVUBYHVKC7GDMPZEMKS42OI.jpg?width=3133&amp;height=2124&amp;auth=e629b79143d3768f47bdeb88d132f38d314b762cc0c59a7c1fe2d4c1bb7c8412&amp;smart=true" type="image/jpeg" height="2124" width="3133">
+        <media:description type="plain">[서울=뉴시스] 정병혁 기자 = 윤석열 대통령에 대한 3차 변론기일이 진행된 21일 서울 종로구 헌법재판소에서 윤석열 대통령이 탑승한 호송차량이 나오고 있다. 2025.01.21. jhope@newsis.com</media:description>
+        <media:credit role="author" scheme="urn:ebu">jhope</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>검찰, ‘주호민 자폐아들 학대’ 혐의 특수교사에 항소심서도 징역형 구형</title>
+      <link>https://www.chosun.com/national/court_law/2025/01/21/YL6VNPQP5NEP5KF44T4EUCFNJM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/01/21/YL6VNPQP5NEP5KF44T4EUCFNJM/</guid>
+      <dc:creator>수원=김수언 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 21 Jan 2025 09:37:46 +0000</pubDate>
+      <content:encoded>&lt;br/&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NWNMZVDTFE77JLJTKBC5ZYK6IM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;웹툰작가 주호민이 지난해 2월 1일 오전 경기 수원시 영통구 수원지방법원에서 취재진의 질문에 답하고 있다. 이날 '주호민 아들 아동학대' 혐의로 기소된 특수교사가 1심에서 벌금 200만원 선고유예를 받았다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;웹툰작가 주호민씨의 자폐 아들을 학대한 혐의로 1심에서 벌금 200만원의 선고유예를 받은 특수교사에게, 검찰이 2심서도 징역 10월을 구형했다.&lt;br&gt;&lt;br&gt;21일 수원지법 형사항소6부(재판장 신우정) 심리로 진행된 특수교사 A씨의 아동학대 범죄의 처벌 등에 관한 특례법 위반 혐의 사건 항소심 결심 공판에서 검찰은 “피고인에게 유죄 판결을 해달라”며 A씨에게 원심 구형량과 같은 징역 10월에 취업제한 3년을 선고해달라고 재판부에 요청했다.&lt;br&gt;&lt;br&gt;검찰은 “아동학대 범죄 신고 의무자인 피고인이 학대를 한 사건으로, 범죄 일체를 부인하며 진지한 반성 태도를 보이고 있지 않고 피해아동의 피해 회복을 위한 실질적 노력을 기울이지 않고 있다”며 “피해아동과 부모는 아직도 피해를 호소하고 있고, 용서 받지 못했다. 이런 사정을 모두 참작해달라”고 했다.&lt;br&gt;&lt;br&gt;A씨의 변호인은 “유일한 증거인 녹음파일은 증거능력이 없고, 녹음의 구체적 경위를 보면 정당행위로 볼 수 없으며, 피고인의 행위를 학대로도 볼 수 없다”며 “원심 판결을 파기하고 무죄를 선고해달라”고 했다.&lt;br&gt;&lt;br&gt;이 사건은 2022년 9월 당시 9세이던 주씨의 아들이 다니던 경기도 용인의 한 초등학교 특수 학급 교실에서 벌어졌다. 평소와 달리 주씨의 아들이 불안 증세 등을 보이자, 주씨 아내가 아들의 외투에 녹음기를 넣어 학교에 보냈다.&lt;br&gt;&lt;br&gt;녹음기에는 교사가 주씨 아들에게 “버릇이 고약하다. 너를 얘기하는 거야” “아유 싫어. 싫어 죽겠어. 너 싫다고. 정말 싫어” 등으로 말한 내용이 담겼다. 이후 주씨가 교사를 아동 학대 혐의로 고소했고 같은해 12월 검찰이 교사를 기소했다. 이 사건은 2023년 7월 알려지면서 논란이 됐다. 당시 ‘서이초’ 사건 등과 맞물려 교권 추락이 이슈가 됐고, 주씨의 무리한 기소라는 여론이 모이며 주씨를 비판하는 목소리가 높았다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KVKX7QOH25LHFKCYMDF4LCY2NA.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;웹툰 작가 주호민씨 아들을 학대한 혐의로 1심에서 벌금 200만원 선고유예를 받은 특수교사 A씨가 지난해 2월 6일 오전 경기 수원시 영통구 수원지방법원에서 기자회견을 마치고 인사를 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;1·2심 재판에서는 대법원의 ‘몰래 녹음은 증거로 쓸 수 없다’는 판결에 따라 교사 몰래 한 녹음이 증거로 쓰일 수 있는지가 쟁점이 됐다. 1심 재판부는 “정당한 행위에 해당한다”며 증거 능력을 인정했다. 검찰과 A씨 측은 항소심에서도 녹음파일의 증거 능력 여부를 놓고 다퉜다.&lt;br&gt;&lt;br&gt;이날 검찰은 “피해아동은 중증 자폐성 장애아동으로 스스로 방어할 능력이 극히 미약해 아동의 모친은 녹음하는 것 외에 마땅한 방법을 찾기 어려웠을 것으로, 동기나 목적의 정당성이 있다고 보기 상당하다”며 “피고인의 사생활과 관련한 내용이 녹음되지 않아, 학대를 보호하기 위한 이익이 더 크다”고 했다. 또 “피고인의 반복적인 부정적 표현은 정서적 아동학대 행위에 해당한다”며 “제 4살 아들 역시 ‘싫어’ ‘미워’ 등이 부정적인 표현인걸 다 안다”고도 했다.&lt;br&gt;&lt;br&gt;변호인 측은 “녹음 이외에도 다른 학부무와 정보를 공유하거나, 교사와의 소통, 상담 등 다른 수단이 있었고, 긴박한 사정도 없었다”며 “교육 현장에서 일어나는 일을 몰래 녹음하는 행위를 정당행위에 해당한다고 허용해 주고 합법화해 줄 경우 사회적 파급력이 너무나 크다”고 했다. 변호인은 “1심 재판부가 (녹음이)정당행위에 해당한다는 것(법리)을 무리하게 적용했고, 구체적인 경위를 보면 정당행위로 볼 수도 없다”고 했다.&lt;br&gt;&lt;br&gt;최후 진술에 나선 A씨는 “교직생활 20년을 돌아보면 부끄러운 교사는 아니었다. 1000만 번을 생각해도 전 아동학대범이 아니다. 장애를 가진 아이들이 다른 사람들과 더불어 살아가는 방법을 가르치려 노력했던 특수교사일 뿐”이라며 “제가 일상을 살아갈 수 있도록 간곡히 부탁드린다”고 했다.&lt;br&gt;&lt;br&gt;한편, 2심 선고는 다음달 18일 오후 3시 30분에 진행된다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>외국인 노동자 불법 검문에 체포까지…'자국민보호연대’ 대표 등 징역형</title>
+      <link>https://www.chosun.com/national/regional/2025/01/21/TBRBJV6NAZBD7HYVWQGSKDLBGM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/01/21/TBRBJV6NAZBD7HYVWQGSKDLBGM/</guid>
+      <dc:creator>대구=노인호 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 21 Jan 2025 08:25:32 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2ILF2GDGPTTQLBTDCPX3SO3XO4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대구지법과 고법 청사. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;불법체류가 의심된다는 이유로 아무런 권한없이 외국인을 검문하고 체포한 단체 대표와 회원 등에게 징역형이 선고됐다.&lt;br&gt;&lt;br&gt;대구지법 형사11단독 전명환 판사는 21일 폭력행위 등 처벌에 관한 법률 위반 등의 혐의로 재판에 넘겨진 ‘자국민보호연대’ 대표 A씨에게 징역 1년 2개월, 회원 B씨에게 징역 1년을 각각 선고했다. 다만 두 사람이 재판 기일에 충실히 출석했고 도주 위험이 없다고 판단해 법정 구속은 하지 않았다.&lt;br&gt;&lt;br&gt;전 판사는 또 함께 기소된 회원 C씨 등 4명에게 징역 6~10월에 집행유예 2년을, D씨 등 3명에게 벌금 500만~800만원을 각각 선고했다.&lt;br&gt;&lt;br&gt;이들은 지난해 2~3월 성서공단 등 외국인 밀집지역에서 아무런 권한 없이 출·퇴근 중인 외국인이나 번호판을 달지 않은 오토바이를 운행하는 외국인에게 신분증을 요구하고, 물리력을 동원해 이들을 체포한 혐의로 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;전 판사는 “피고인들에게 불심검문을 할 권한이 없으며, 체포된 외국인의 불법 체류가 확인됐다고 해서 이들의 사적 체포에 정당성을 부여할 수 없다”며 “피고인들은 불법임을 고지받았음에도 같은 방법으로 외국인을 체포하고 폭행한 점을 고려하면 유죄로 인정된다”고 양형 이유를 설명했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘서부지법 판사실 침입’ 40대 남성 구속영장 신청</title>
+      <link>https://www.chosun.com/national/2025/01/21/R35L6YPJQNHMHHLLMJPVLHXXPY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2025/01/21/R35L6YPJQNHMHHLLMJPVLHXXPY/</guid>
+      <dc:creator>주형식 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 21 Jan 2025 09:32:47 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JV3ZT565HYKB2FDCYR5B5U7KCU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 19일 새벽 윤석열 대통령에 대한 구속영장이 발부되자 서울 마포구 서울서부지법에 지지자들이 진입해 난동을 부리고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰이 지난 19일 서울서부지법 판사실에 침입한 혐의를 받는 40대 남성을 전날 긴급체포해 구속영장을 신청했다.&lt;br&gt;&lt;br&gt;서울경찰청은 서울서부지법 7층 판사실 출입문 손괴 및 침입 등 혐의로 40대 남성 A씨를 긴급체포했다고 21일 밝혔다. 경찰은 법원 내 방범카메라·채증자료·유튜브 등 영상 분석자료를 토대로 피의자 조사를 한 뒤 이날 구속영장을 신청했다.&lt;br&gt;&lt;br&gt;또 서울서부지법에 침입한 혐의를 받는 피의자 2명을 입건해 불구속 수사 중이다. 이들은 지난 19일과 전날에 각각 ‘서부지법에 불법 침입했다’며 경찰에 자수한 것으로 파악됐다.&lt;br&gt;&lt;br&gt;경찰은 휴대전화·채증영상 등 영상자료와 현장 감식을 통해 확보한 자료 등을 분석해 불법행위자를 특정하고 엄정하게 수사하겠다고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/JV3ZT565HYKB2FDCYR5B5U7KCU.jpg?width=4032&amp;height=3024&amp;auth=51432da215d73d95b3e18ff35d8e3f4a2ad25dba6d46468619733415484b4b3d&amp;smart=true" type="image/jpeg" height="3024" width="4032">
+        <media:description type="plain">지난 19일 새벽 윤석열 대통령에 대한 구속영장이 발부되자 서울 마포구 서울서부지법에 지지자들이 진입해 난동을 부리고 있다./뉴스1</media:description>
+        <media:credit role="author" scheme="urn:ebu">뉴스1 ⓒ News1 김민수 기자</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>대구 군부대 이전 후보지, 군위군·상주시·영천시로 좁혀져</title>
+      <link>https://www.chosun.com/national/national_general/2025/01/21/A33IKMBAV5HSBKILNZP5HGKZ24/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/21/A33IKMBAV5HSBKILNZP5HGKZ24/</guid>
+      <dc:creator>이승규 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 21 Jan 2025 09:36:02 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LDLQ4QPOCBEK7TW3VTOF3PXBRY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대구시청 산격청사./대구시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대구시의 군부대 5곳이 이전할 후보지 3곳이 결정됐다.&lt;br&gt;&lt;br&gt;21일 대구시에 따르면 국방부가 전날 ‘대구 군부대 이전 예비후보지 선정 심의위원회’를 통해 후보지로 대구 군위군, 경북 상주시와 영천시를 선정했다.&lt;br&gt;&lt;br&gt;대구 군부대 이전 사업은 대구시내 육군 제2작전사령부, 제50사단사령부, 제5군수지원사령부, 공군 제1미사일방어여단, 방공포병학교 등 5개 부대를 다른 지역으로 옮기는 일이다. 지난 2022년 9월 대구시가 군부대 유치를 희망하는 지자체를 공모했고, 이듬해 12월 국방부와 업무협약을 체결하며 본격 추진됐다.&lt;br&gt;&lt;br&gt;당시 군위군, 상주시, 영천시 외에 경북 의성군과 칠곡군 등 5개 지자체가 유치 신청을 했다. 그러다 작년 9월 칠곡군이 “국방부와 대구시가 계획에도 없던 군부대 부지보다 넓은 공용화기 사격장 부지를 요구했다”며 유치 활동을 중단하면서 남은 4개 지자체가 유치전을 벌였다.&lt;br&gt;&lt;br&gt;대구시와 국방부는 2단계에 걸쳐 이전 후보지를 선정한다. 1단계에선 국방부가 지자체별 후보지에서의 임무수행가능성 및 정주환경 평가를 맡았고, 이번에 결과를 발표한 것이다. 국방부 관계자는 “평가 결과 군위군, 상주시, 영천시가 임무 수행이 용이하고 훈련 효과를 발휘하기에 적합한 후보지인 것으로 평가됐다”고 했다.&lt;br&gt;&lt;br&gt;대구시는 국방부가 선정한 예비후보지의 사업성 및 수용성을 검토하는 2단계 평가를 진행해 최종 이전 후보지를 결정할 방침이다.&lt;br&gt;&lt;br&gt;대구시 관계자는 “국방부 선정 결과를 토대로 차질 없이 군부대 이전 사업을 추진할 수 있도록 하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“피부 나이 10살 어려져요”… 이런 표현, 이제 못 쓴다</title>
+      <link>https://www.chosun.com/national/national_general/2025/01/21/FQ37RFJLRFE2JIOGUDVQAMYX7A/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/21/FQ37RFJLRFE2JIOGUDVQAMYX7A/</guid>
+      <dc:creator>박선민 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 21 Jan 2025 08:36:49 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HRSVCQHURNOJRAQGQK644RYW3U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 6일 서울의 한 대형마트에서 관계자가 화장품을 고르고 있다. /연합뉴스 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;식품의약품안전처가 화장품에 사용하는 표시 및 광고 금지 표현을 확대했다. 이에 따라 ‘피부 나이 n세 감소’ 등의 표현도 화장품 광고 금지 표현이 될 예정이다. &lt;br&gt;&lt;br&gt;식약처는 21일 화장품 허위·과대 광고로 적발된 사례를 분석해 위반 시 사용한 문구를 금지 표현으로 추가하는 등 ‘화장품 표시·광고 관리 지침’(민원인 안내서)을 개정했다고 밝혔다. &lt;br&gt;&lt;br&gt;개정된 사항은 ▲의약 전문가 지정·추천(병원용 등) 표현 금지 ▲인체 유래 성분(엑소좀 등) 표현 금지 ▲제품 사용 방법의 사실오인(마이크로니들 등) 표현 금지 ▲피부 나이 n세 감소(피부 나이 5세 어려짐 등) 표현 금지 등이다. 이 같은 표현은 이날부터 금지된다. &lt;br&gt;&lt;br&gt;식약처는 각각의 개정 사유에 대해선 의료기관&lt;u&gt; 및&lt;/u&gt; 약국에서 지정 및 사용하는 것으로 소비자가 오인할 가능성이 있고, 인체 유래 성분은 ‘식물 엑소좀’ 등으로 명확하게 표현할 필요성이 있으며, 화장품 범위를 벗어나는 사용 방법을 표현하지 않도록 하기 위해서라고 했다. 또 피부 나이 n세 감소의 표현을 금지한 이유는 소비자가 오인할 수 있기 때문이라며, 대체 표현으로 ‘피부노화지수’ 등을 사용할 것을 권고했다. &lt;br&gt;&lt;br&gt;식약처는 “앞으로도 화장품 영업자가 표시·광고 업무에 참고할 수 있도록 주의사항과 금지 표현을 구체적으로 안내할 예정”이라며 “소비자가 화장품을 구매하면서 허위·과대 광고에 현혹되지 않도록 해달라”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>서울 의대생 30% 복귀...‘복귀자 블랙리스트’ 떠돌고 도넘은 인신공격까지</title>
+      <link>https://www.chosun.com/national/welfare-medical/2025/01/21/F67JVR5AQVAQFBRXLIDLP3D6II/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/01/21/F67JVR5AQVAQFBRXLIDLP3D6II/</guid>
+      <dc:creator>강다은 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 21 Jan 2025 08:55:05 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VVGVYHZX6PJH5OPXOXHTEX4LZE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 30일 서울의 한 의과대학 부속 건물 앞으로 시민들이 오가고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울의대 본과 3·4학년생 일부가 강의실로 복귀하자 의사·의대생 전용 커뮤니티에 ‘복귀자 실명 블랙리스트’가 유포됐다. 복귀생들을 향한 욕설과 비난 등 온라인상의 폭력이 이어지고 있는 것이다.&lt;br&gt;&lt;br&gt;21일 의료계에 따르면 전날 개강한 서울의대 본과 3학년 ‘임상 추론’ 과목의 세부 강의에는 전체의 약 30% 수준인 40여 명이 출석했다. 이날 본과 4학년을 대상으로 한 ‘인간·사회·의료’ 과목의 세부 강의에도 30여 명이 왔다.&lt;br&gt;&lt;br&gt;이런 사실이 알려지자, 의사·의대생 신분을 인증해야 활동이 가능한 온라인 커뮤니티 메디스태프에는 복귀생들의 학년과 실명이 표기된 명단이 곧바로 유포됐다. ‘서울대 본4 여러분 이름 기억할게요’라며 수십명의 실명을 나열하거나, 좌표를 찍듯 복귀생의 소셜미디어를 공개했다. 그러면서 댓글 등을 통해 ‘병신’ ‘매국노’ ‘친일파’와 같은 악의적 비난을 퍼부었다. 일부 이용자들은 ‘(복귀자들을) 잡아 족쳐야’ ‘돌아간 30%를 빨리 잘라내고 고립시켜야’라고 했다.&lt;br&gt;&lt;br&gt;특히 과대표 등 학생 간부들의 복학 소식이 알려지면서 이들에 대한 인신공격과 성희롱성 게시글도 이어졌다.&lt;br&gt;&lt;br&gt;또 학생회가 만들어 서울의대생들이 모여 있는 카카오톡 익명 채팅방에는 타 대학생이나 전공의로 추정되는 수십명이 난입해 폐쇄되는 일까지 있었다. 메디스태프에 이 채팅방에 입장할 수 있는 링크와 비밀번호, 아이디 설정 방법 등을 담은 글이 게시되자, 서울의대생이 아닌 사람들이 채팅방에 들어온 것이다. 이들은 ‘언제까지 투쟁을 방해할 것이냐’ ‘복귀자 비율이 많은 것은 이기적인 사람이 많아서 그렇다’ 등의 글을 쏟아내며 복귀자들을 압박했다. 이후 채팅방은 개설자에 의해 폐쇄됐다.&lt;br&gt;&lt;br&gt;일부 복귀자들은 학교 측에 도움을 요청하거나, 개인적인 법적 조치도 검토하고 있는 것으로 알려졌다. 한 복귀생은 “스토킹 처벌법 위반 등의 혐의로 법적 조치할 수 있을지 변호사에게 문의했다는 복귀생들도 있다”며 “학장단에 정식으로 상황을 설명하고 도움을 구해야 한다는 말도 나온다”고 말했다.&lt;br&gt;&lt;br&gt;한편 서울의대 3·4학년 학생들의 복귀는 다른 학년과 타 대학 복귀 분위기에도 영향을 줄 것으로 보인다. 서울대는 지난 20일 본과 3·4학년이 개강했고, 2학년은 2월, 1학년은 3월 각각 개강한다. 연세대 의대도 지난 13~20일 본과 3·4학년을 대상으로 1차 복학 신청을 받은 결과, 일부 학생들이 복귀 의사를 밝혔다. 가톨릭의대 등 타 의대도 오는 3월 복학할 학생들의 신청을 받고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>형제복지원 아동 해외 입양도… 진실화해위 자료 통해 첫 확인</title>
       <link>https://www.chosun.com/national/national_general/2025/01/21/4CTNWAXHFVEUZFZJH4VQR7AOOU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/21/4CTNWAXHFVEUZFZJH4VQR7AOOU/</guid>
@@ -658,15 +738,6 @@
 김 대장은 "2023년 남극점 도달 당시보다 이번 남극대륙 원정은 두려움보다는 자신감 고통보다는 편안한 여정이었다"고 했다. /김영미(노스페이스 애슬리트팀) 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김 대장은 지난해 11월 8일(현지 시각) 남극 대륙 허큘리스 인렛(남위 80°)에서 대장정에 나선 뒤 49일 3시간 만인 12월 27일 오후 6시 44분 남위 90도 남극점에 도달한 데 이어 69일 8시간 31분 만인 1월 17일(현지시각) 오전 12시 13분 약 1700km 거리의 남극 대륙 단독 횡단에 성공했다.&lt;br&gt;&lt;br&gt;2023년 ‘남극점 무보급 단독 도달’이라는 쾌거를 이룬 김 대장은 “재작년 남극점 단독 도달에 성공하니 또 하나의 목표가 생겼는데 이게 남극 대륙 횡단이었다”며 “남극점 도달 당시는 외롭고 고통스러운 과정이었다면 이번 남극 대륙 횡단은 더 편하고 자신감 있는 여정이었다”고 행복감을 전했다.&lt;br&gt;&lt;br&gt;김 대장은 국내 최연소 7대륙 최고봉 완등, 암푸 1봉 세계 첫 등정 및 2017년 시베리아 바이칼 호수 단독 종단 등 괄목한 만한 등정과 탐험을 계속해왔다.&lt;br&gt;&lt;br&gt;김 대장은 지난 2014년 조선일보 주최 ‘원코리아 뉴라시아 자전거 평화대장정’에 유일한 여성 대원으로 참가, 독일 브란덴부르크에서 러시아 블라디보스토크까지 1만5000㎞를 100일 동안 자전거로 달린 바 있는 철녀이다.&lt;br&gt;&lt;br&gt;강원도 평창 출신으로 강릉대 산악부 때부터 탁월한 깡과 체력을 과시해온 그는 평소 틈만 나면 설악산과 백두대간 종주를 해왔으며, 비박을 즐겨 ‘비박소녀’로 통한다. 2020년에는 국가 체육 발전에 기여한 공적을 인정받아 체육훈장 거상장을 수훈한 바 있다.&lt;br&gt;&lt;br&gt;그는 “산악인으로 남성·여성을 구분하는 것은 의미가 없다”며 “혹독한 야생의 대자연을 탐험하고 인간의 의지를 내보인다는 데 의미가 있다”고 했다.&lt;br&gt;&lt;br&gt;대한산악연맹(회장 손중호)은 “김 대장은 2023년 남극점 도달에 이어 남극 단독 횡단에 성공하면서 국내 극지 탐험사에 길이 남을 위대한 업적을 완수해냈다”고 평가했다.&lt;br&gt;&lt;br&gt;김 대장은 현지에서 체력 회복에 나선 뒤 다음 달 초순에 인천국제공항을 통해 귀국할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>설빔 잘 어울리죠?</title>
-      <link>https://www.chosun.com/national/national_general/2025/01/21/W7WCKB7LBVCKZFWDWORL7QBEZY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/21/W7WCKB7LBVCKZFWDWORL7QBEZY/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Mon, 20 Jan 2025 16:16:15 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YNHOACUS2RAP3DPFJITBM6JPAM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/박성원 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;20일 오전 서울 종로구 광장시장의 한복집에서 어린이가 한복을 차려 입고 즐거워하는 모습. 이날 시장은 설빔을 준비하려는 손님들로 북적였다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>설 상차림 비용 비교하니… 사과는 대형마트, 배는 시장이 저렴</title>
       <link>https://www.chosun.com/national/national_general/2025/01/21/7VC6FBCTSREQ7L4VSEOKCOKF2I/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/21/7VC6FBCTSREQ7L4VSEOKCOKF2I/</guid>
@@ -724,24 +795,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/X2SA5ICV5RF7PBF275G7KVPTZA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;12·3 비상계엄 사태를 주도한 혐의로 구속 기소된 김용현 전 국방부 장관. 작년 8월 국방부 장관에 내정된 직후 대통령실 브리핑룸에서 찍은 사진이다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김용현 전 국방부 장관의 변호인단은 20일 윤석열 대통령이 ‘12·3 비상계엄’ 당시 최상목 대통령 권한대행에게 건넨 ‘비상 입법 기구’ 쪽지에 대해 “김 전 장관이 썼다”고 밝혔다. 검찰은 계엄 포고령 1호의 초안도 김 전 장관이 작성한 것으로 보고 있어, 이번 비상계엄 사태의 핵심 물적 증거 두 개를 모두 김 전 장관이 작성한 셈이 됐다.&lt;br&gt;&lt;br&gt;김 전 장관 변호인단은 이날 언론에 문자 메시지를 보내 “비상입법기구는 헌법 제76조 제1항에 있는 긴급재정입법권 수행을 위해 기획재정부 내 준비 조직 구성 및 예산 확보를 대통령에게 건의한 것”이라며 “국회를 대체하는 것과는 전혀 무관하다”고 했다. 입법부인 국회를 다른 기구로 대체하려는 것이 목적이 아니었기 때문에 국헌 문란 목적이 성립하지 않는다는 취지다.&lt;br&gt;&lt;br&gt;변호인단은 이어 “김 전 장관은 국회가 완전 삭감한 행정 예산으로 인해 국정 기능을 회복하기 위한 재원 마련을 위해 ‘긴급명령 및 긴급재정입법 권한’ 행사를 대통령에게 건의했고, 대통령이 최상목 기획재정부 장관에게 이를 준비하고 검토하라고 준 것”이라고 했다.&lt;br&gt;&lt;br&gt;앞서 지난 18일 윤 대통령이 서울서부지법에서 열린 구속영장 실질심사에 출석해 이 쪽지와 관련한 판사의 질문에 “내가 쓴 것인지, 김용현 전 국방부 장관이 쓴 것인지 기억이 확실하지 않다. 메모의 취지도 잘 기억나지 않는다”고 답했었다.&lt;br&gt;&lt;br&gt;또 하나의 핵심 증거는 비상계엄 당시 선포된 ‘계엄 포고령 1호’다. 여기에 대해선 윤 대통령과 김 전 장관의 주장이 엇갈리고 있다.&lt;br&gt;&lt;br&gt;검찰 특별수사본부(본부장 박세현 서울고검장)는 김 전 장관을 조사하며 포고령 1호 초안을 작성했다는 취지의 진술을 확보해 그의 공소장에 담았다. 포고령 1호 1조는 ‘국회와 지방의회, 정당의 활동과 정치적 결사, 집회, 시위 등 일체의 정치 활동을 금한다’고 돼 있다.&lt;br&gt;&lt;br&gt;이에 대해 윤 대통령 측은 탄핵심판이 진행 중인 헌법재판소에 낸 답변서에서 “김 전 장관이 과거 대통령에게 국회해산권이 있을 당시 예문을 그대로 베껴온 것으로, 윤 대통령은 문구의 잘못을 부주의로 간과한 것”이라고 했다. 김 전 장관의 실수라는 취지다.&lt;br&gt;&lt;br&gt;그러나 김 전 장관은 검찰 조사에서 “윤 대통령이 포고령 작성 과정에서 관련 법전을 찾아봤다”고 진술했고, 자신이 초안을 작성한 것은 맞지만 윤 대통령이 직접 검토하고 야간 통행금지 등 일부 조항을 삭제·보완하도록 지시도 했다는 입장이다. 김 전 장관 측은 윤 대통령이 김 전 장관의 실수를 언급한 데 대해 “기존 입장에 변함이 없다”고 했다.&lt;br&gt;&lt;br&gt;한편 경찰청 국가수사본부 특별수사단은 20일 계엄 문건과 폐쇄회로(CC)TV 등을 확보하기 위해 서울 종로구 삼청동의 대통령 안전가옥과 대통령경호처에 대한 압수 수색을 시도했으나 경호처 반발로 무산됐다. 경찰은 윤 대통령이 지난 10일 경호처 부장단 오찬에서 “총을 쏠 수는 없느냐”고 물었고 김성훈 경호처 차장이 “네. 알겠습니다”라고 답했다는 진술을 확보한 것으로 전해졌다. 또 경찰은 이광우 경호본부장이 영장 집행에 대비해 기관단총 2정과 실탄 80발을 무기고에서 꺼내 대통령 관저 안으로 옮겨두라고 지시했다는 진술도 확보했다.&lt;br&gt;&lt;br&gt;이에 대해 윤 대통령 측 윤갑근 변호사는 “총기 사용 검토 지시는 사실이 아니다”라며 “해당 오찬에선 물리력을 사용해서는 안 되고, 마찰 없이 대응하라고 했다”고 반박했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[신문은 선생님] [철학·인문학 이야기] 프랑스 법관이 본 미국의 민주주의… 독재보다 무서운 ‘다수의 횡포’ 경고</title>
-      <link>https://www.chosun.com/national/nie/2025/01/21/32HTJKC6ZRD6LLMGYKUE4V3H2Y/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2025/01/21/32HTJKC6ZRD6LLMGYKUE4V3H2Y/</guid>
-      <dc:creator>안광복 중동고 철학 교사</dc:creator>
-      <description/>
-      <pubDate>Mon, 20 Jan 2025 15:41:27 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UNAIY224DNABVDKZ46UMXYPUIQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;1838년 간행된 알렉시 드 토크빌의 ‘미국의 민주주의’ 표지. /위키피디아&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;1789년부터 1848년까지 유럽은 ‘혁명의 시대’였습니다. 프랑스대혁명으로 왕이 사라진 세상. 사람들은 이제 시민 모두가 주인인 시대가 펼쳐지리라 기대했어요. 하지만 민주주의는 쉽게 자리 잡지 못했습니다. 정치는 혼란스러워졌고, 그때마다 독재자가 등장하거나 왕이 다시 세워지곤 했으니까요. 프랑스의 법관이었던 알렉시 드 토크빌(1805~1859)은 미국에 눈길을 돌렸습니다. 영국으로부터 갓 독립한 미국은 경제적으로도 약하고 정부와 행정도 제대로 갖춰지지 못한 상태였습니다. 그래도 안정적으로 민주주의를 꾸려나갔습니다. 어떻게 이럴 수 있었을까요?&lt;br&gt;&lt;br&gt;1831년, 토크빌은 그 이유를 찾기 위해 미국 여행에 나섭니다. 이렇게 해서 나온 책이 ‘미국의 민주주의’예요. 그는 미국을 ‘유년기 없이 바로 청년이 된 사람’에 빗댑니다. 미국 사람들에게는 왕의 다스림을 받았던 기억이 없었습니다. 그래서 미국 사회에는 시민들끼리 모든 것을 논의하고 결정짓는 습성이 쉽게 뿌리를 내렸습니다. 게다가 미국은 청교도들이 세운 나라이지요. 이들은 교회의 가르침에 무작정 따르기보다, 스스로 자기 행동을 책임지며 도덕적으로 삶을 가꾸려고 노력합니다. 그만큼 개인주의 색채도 강했어요.&lt;br&gt;&lt;br&gt;토크빌은 미국의 민주주의가 흔들리지 않는 이유를 미국인들의 습성과 도덕성에서 짚어냅니다. 프랑스대혁명 이후 유럽은 미국 같은 민주주의의 풍습이 없었기에 엄청난 혼란을 겪어야 했습니다. 이 점에서 토크빌은 미국을 아주 부러워했어요. 하지만 그는 미국의 민주주의가 품고 있는 위험도 정확하게 진단합니다.&lt;br&gt;&lt;br&gt;민주주의에서는 ‘다수의 지배’를 당연하게 여기지요. 그러나 다수가 언제나 옳지는 않아요. 토크빌은 정의롭지 못한 다수가 권력을 잡을 때, 여느 독재보다 훨씬 잔인하고 무서운 ‘민주적 전제’(democratic despotism)가 펼쳐진다고 걱정합니다. 1812년, 캐나다 영토를 둘러싸고 미국과 영국은 전쟁을 벌였어요. 정치인들은 영국에 대한 적대감을 한껏 부추겨 미국을 싸움으로 몰아넣었습니다. 한 신문이 이런 정치인들이 문제라고 지적하자 화가 난 군중들은 신문사를 습격해 직원들을 폭행합니다. ‘민주적인’ 재판을 담당한 배심원들마저 사회 분위기에 휩쓸려 폭행범들을 풀어주지요. 입법과 행정, 사법이 모두 다수의 손에 들어갔기에 가능했던 결과입니다. 하지만 전쟁은 서로에게 큰 손실만 남긴 채 흐지부지 끝나고 말았습니다.&lt;br&gt;&lt;br&gt;토크빌은 민주주의를 지켜나가려면 독재에 대해서만이 아니라, 다수의 횡포를 막을 방법도 고민해야 한다고 충고합니다. 산업이 발전하고 사회가 복잡해질수록 시민들은 강력하고 효율적인 정부를 바라게 됩니다. 그러한 정부를 견제받지 않는 다수가 차지할 때, 민주주의는 그 어떤 독재보다도 무서운 전체주의로 빠질 수 있어요. 이를 막으려면 민주적인 풍습과 도덕이 사회에 건강하게 살아 있어야 합니다. ‘미국의 민주주의’는 이 점에 대해 깊게 고민하게 합니다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문은 선생님] [사소한 역사] 비단 주머니에 담아 팔던 찻잎, 그대로 물 부은 고객 덕에 티백 탄생했대요</title>
-      <link>https://www.chosun.com/national/nie/2025/01/21/X2X2H5WUKZA5NENTJASPX5CKGA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2025/01/21/X2X2H5WUKZA5NENTJASPX5CKGA/</guid>
-      <dc:creator>김현철 서울 영동고 역사 교사</dc:creator>
-      <description/>
-      <pubDate>Mon, 20 Jan 2025 15:40:37 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7J4RG66SZBDEREHMIRRECP4TTE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;간편하게 차를 마실 수 있는 티백. 영국에서 처음 발명됐지만, 대중화된 건 미국이에요. 영국 사람들은 티백 발명 후에도 주전자에서 찻잎을 우리는 전통 방식을 더 선호했대요. /위키피디아&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;추운 겨울 날씨, 틈틈이 티백을 우려 차를 마시는 분들이 많을 거예요. 그런데 최근 티백을 우려낼 때 많은 미세 플라스틱이 배출된다는 연구 결과가 나왔어요. 연구팀은 미세 플라스틱을 피하려면 티백이 아니라 찻잎 자체를 우려내서 마시는 게 좋다고 권고했죠. 따뜻한 차(茶)를 마시는 것은 동양권에서 예전부터 이어져온 문화인데요. 찻잎을 넣은 종이나 천 주머니를 의미하는 티백은 언제부터 사용했을까요?&lt;br&gt;&lt;br&gt;차는 인도와 중국을 중심으로 한 아시아 문화권에서 일찍부터 마시기 시작했고, 역사학자들은 한반도에선 늦어도 7세기쯤부터 차를 마시기 시작한 것으로 보고 있어요. 9세기 통일신라 흥덕왕 때에는 차를 직접 재배하기도 했습니다.&lt;br&gt;&lt;br&gt;서양에서는 15~16세기 본격적인 차 수입이 시작된 이후부터 차를 마시는 문화가 발달했어요. 특히 영국 왕실엔 차가 없어서는 안 될 물품이 됐죠. 왕실에 차를 유행시킨 것은 포르투갈 출신 왕비인 캐서린 브라간자라고 알려졌는데요. 차 애호가인 왕비 덕분에 차 마시는 풍습이 왕실과 귀족층에서 점차 인기를 끌게 됐다고 해요. 특히 오후에 차와 간단한 음식을 즐기는 다과 문화인 ‘애프터눈 티’는 영국 사회의 중요한 사교 의식으로 자리 잡게 됩니다.&lt;br&gt;&lt;br&gt;‘티백’ 역시 영국에서 시작됐답니다. 영국의 한 사업가가 1896년에 찻잎을 천으로 싼 ‘티 볼’(tea ball)을 개발한 것이 티백의 시초라고 볼 수 있어요. 하지만 티백이 대중화된 것은 미국이었는데요. 20세기 초 뉴욕의 차 상인 토머스 설리번은 조그마한 비단 주머니에 찻잎을 포장해서 고객들에게 팔았어요. 그런데 성질 급한 고객 몇몇이 주머니를 뜯지도 않은 채 뜨거운 물을 부어 차를 우려냈고, 나중엔 설리번에게 비단은 구멍이 너무 작아서 차가 잘 우려지지 않는다고 불만을 제기했죠. 이에 설리번은 비단 대신 거즈를 이용해 티백을 만들었습니다. 이 티백은 1902년에 특허를 받고 1908년에 상품화되어 많은 인기를 끌었다고 해요. 이후 티백은 거즈 대신 종이를 사용하거나, 뜨거운 물에 넣고 꺼내기 쉽게 끈을 다는 등 다양한 변화를 거쳤어요.&lt;br&gt;&lt;br&gt;하지만 티 볼이 처음 개발된 영국에선 정작 티백 문화가 발달하지 않았어요. 2차 세계대전 이후인 1953년에 미국의 한 차 회사가 영국에 티백을 소개한 후에야 영국에서도 티백이 팔리게 됐다고 합니다. 영국 사람들은 여전히 주전자에 찻잎을 넣고 우려내는 전통적인 방식을 선호했대요. 간편하고 저렴한 티백은 고급스럽지 않은 것으로 여겨진 것이죠. 티백에 사용된 차의 품질이 낮았던 것도 이유 중 하나였고요.&lt;br&gt;&lt;br&gt;하지만 20세기 중반부터 고품질 티백들이 나오며 영국에서도 티백이 대중화되기 시작했답니다. 지금은 차에 대해 가장 보수적인 영국 사람들조차도 대부분 티백 형태로 차를 마실 정도로 없어서는 안 될 물건이 됐죠.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>술 항아리 제작만 1년… 진시황도 즐긴 ‘4대 명주’</title>
       <link>https://www.chosun.com/national/national_general/2025/01/21/HHOOFLEW7FB75NDA7QR5CUUFIA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/21/HHOOFLEW7FB75NDA7QR5CUUFIA/</guid>
@@ -750,51 +803,6 @@
       <pubDate>Mon, 20 Jan 2025 15:33:00 +0000</pubDate>
       <content:encoded>“이 술 한 방울이 중국 역사의 절반이라고 해도 과언이 아닙니다.”&lt;br&gt;&lt;br&gt;지난달 4일 중국 산시(陝西)성에 있는 서봉주(西鳳酒) 공장. 안내하는 가이드가 들려준 말이다. 버스에서 내려 공장에 발을 딛자 간장을 끓이는 듯한 쿰쿰한 향이 공장 안에 가득했다. 누룩이 발효 과정에서 뿜어내는 향이라고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EYRKKBBNUFEF5CN6HILVIYJEG4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서봉주를 숙성하는 용기, 주해를 만드는 모습. 싸리나무를 항아리 모양으로 엮어 만든다. 안에는 달걀흰자 등으로 적신 면포를 겹겹이 붙이고 겉엔 유채 기름을 발라 밀봉한다.
 /화강주류&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서봉주는 중국에서 문서 기록이 남은 가장 오래된 술 중 하나라고 한다. 1924년 3000년 전 고대 청동기가 발견됐는데, 여기에 ‘음진음(飮秦飮)’이라는 글자가 적혀 있었다. ‘진나라에서 만든 술을 마신다’는 뜻으로, 진나라 백성들이 진시황에게 바친 술이 바로 서봉주였다. 양귀비가 밤마다 현종을 기다리며 마신 술로도 알려졌다.&lt;br&gt;&lt;br&gt;서봉주는 중국 ‘4대 명주’ 중 하나로도 꼽힌다. 중화인민공화국 성립 직후인 1952년 국가 주류 품평회가 열렸는데, 당시 출품된 술 103종 중에서 마오타이주(茅台酒)와 펀주(汾酒), 노주노교주(瀘州老窖酒)와 함께 금장을 받은 술이 서봉주였다. 이후 4번의 품평회에서 서봉주는 금장을 세 번 더 받았다.&lt;br&gt;&lt;br&gt;서봉주는 주해(酒海)라는 숙성 용기에서 발효된다. 주해는 싸리나무를 항아리 모양으로 엮어 만든다. 내벽에 두부를 발라 틈새를 메우고, 면포에 찹쌀풀과 계란 흰자, 동물 피를 발라 벽면에 붙인다. 이 작업을 100번 이상 반복한 뒤 겉면에 유채 기름을 둘러 밀봉한다. 이런 주해에 술을 담아 발효시키면 술의 잡냄새가 사라진다. 청나라 시대 만들어진 전통 주해는 국가 유물로도 지정됐다. 최소 숙성 기간은 3년. 10년·20년(24만원)·30년(33만원) 숙성 제품과 최고급품(100만원)도 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문으로 배우는 실용한자] 필사(筆寫)</title>
-      <link>https://www.chosun.com/national/nie/chinese_character/2025/01/21/73MYGHKSU5EBTNCXFQTDNAHF2A/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese_character/2025/01/21/73MYGHKSU5EBTNCXFQTDNAHF2A/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Mon, 20 Jan 2025 15:33:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/74KR2D5K7JBR3LXAKNHW7MWIJY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[매일매일 중국어 한마디] 따다, 떼다, 벗다</title>
-      <link>https://www.chosun.com/national/nie/chinese/2025/01/21/3QQBLMMNQNCY5GI6YE3LVSTFFU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese/2025/01/21/3QQBLMMNQNCY5GI6YE3LVSTFFU/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Mon, 20 Jan 2025 15:33:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GXEC7GSORFH35AGFZDK4GMV34I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[입에 착착 붙는 일본어] 손색이 없다</title>
-      <link>https://www.chosun.com/national/nie/japanese/2025/01/21/4Y3EICZJ3ZAXJPAE4S7RRBVZEE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/japanese/2025/01/21/4Y3EICZJ3ZAXJPAE4S7RRBVZEE/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Mon, 20 Jan 2025 15:33:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LA74NGB7LBBGHP673U4IT7OHPM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[스피킹이 강해지는 영어] put someone off ~</title>
-      <link>https://www.chosun.com/national/nie/english/2025/01/21/KTHMYIAJ7VFLPHFO4NJZE2D3SU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/english/2025/01/21/KTHMYIAJ7VFLPHFO4NJZE2D3SU/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Mon, 20 Jan 2025 15:33:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Q77LC3M5UFDATHZ4X5NLKEOEJU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[두근두근 뇌 운동] [2547] 바꿔 부르기</title>
-      <link>https://www.chosun.com/national/nie/2025/01/21/5VUGNMMWJVG5NFWW72GN2R7LIE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2025/01/21/5VUGNMMWJVG5NFWW72GN2R7LIE/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Mon, 20 Jan 2025 15:33:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2WOPIQJKSJA23DOKU4JYS6MOVQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[오늘의 날씨] 2025년 1월 21일</title>
