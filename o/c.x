@@ -13,6 +13,113 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>[속보] 尹대통령 “자유민주주의 신념 하나로 살아…헌재가 잘 살펴달라”</title>
+      <link>https://www.chosun.com/national/court_law/2025/01/21/MMVGTXFMYBFVDFMV6XK5EONAOQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/01/21/MMVGTXFMYBFVDFMV6XK5EONAOQ/</guid>
+      <dc:creator>방극렬 기자, 박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 21 Jan 2025 05:00:59 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YKRSXW5RURLOTPALNOBT7GKEAE.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령이 21일 서울 종로구 헌법재판소에서 열린 탄핵심판 3차 변론기일에 출석해 있다. 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“尹, 헌재서 “자유민주주의 신념 하나로 살아…잘 살펴달라”&lt;br&gt;&lt;br&gt;”尹, 빨간 넥타이에 정장 입고 헌재 입정... 직접 변론할 듯"&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>가짜 뉴스 돈벌이 유튜버 ‘탈덕수용소’…검찰  “형량 낮다” 항소</title>
+      <link>https://www.chosun.com/national/court_law/2025/01/21/SEQB4LFIOZFR7EKOPFB7SBHXFM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/01/21/SEQB4LFIOZFR7EKOPFB7SBHXFM/</guid>
+      <dc:creator>인천=이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 21 Jan 2025 05:08:03 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6GQIRJOOVGJ4DERCUOF5V5GQWE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;인천지방검찰청./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰이 K팝 그룹 아이브 멤버 장원영 등 유명인들에 대한 가짜 뉴스를 퍼트린 혐의로 기소된 여성 유튜버에 대해 징역형의 집행유예를 선고한 1심 판결에 불복해 항소했다.&lt;br&gt;&lt;br&gt;인천지검은 최근 정보통신망 이용촉진 및 정보보호 등에 관한 법률상 명예훼손과 모욕 등 혐의로 징역 2년에 집행유예 3년, 추징금 2억1000만원과 120시간의 사회봉사를 선고받은 A(36)씨의 1심 판결에 불복해 법원에 항소장을 제출했다고 21일 밝혔다. &lt;br&gt;&lt;br&gt;1심 재판 과정에서 징역 4년을 구형한 검찰은 A씨에게 더 무거운 형이 선고될 필요가 있다며 항소 배경을 설명했다. &lt;br&gt;&lt;br&gt;검찰은 “피고인은 적극적으로 허위 내용의 영상을 제작하고 배포해 피해자들에게 회복하기 어려운 피해를 입힌 중대한 범죄를 저질렀다”고 강조했다. &lt;br&gt;&lt;br&gt;이어 “피고인이 이 사건 범행으로 2억원을 넘는 상당한 수익을 얻었고, 다수의 피해자로부터 용서받지도 못했다”고 했다. &lt;br&gt;&lt;br&gt;검찰 관계자는 “악성 콘텐츠 게시 범행에 엄정하게 대응할 방침”이라고 했다. &lt;br&gt;&lt;br&gt;A씨는 지난 2021년 10월부터 지난해 6월까지 장원영 등 유명인 7명에 대한 허위 영상을 23차례에 걸쳐, 자신이 운영한 유튜브 채널 ‘탈덕수용소’에 올려 명예를 훼손한 혐의로 기소됐다. &lt;br&gt;&lt;br&gt;A씨는 이 중 5명에 대해선 모욕적 영상을 19회 올리고, 피해자 소속사의 업무를 방해한 혐의도 받았다. &lt;br&gt;&lt;br&gt;A씨는 “장원영이 질투해 동료 연습생의 데뷔가 무산됐다” “다른 유명인들도 성매매나 성형수술을 했다”는 등 내용의 허위 영상을 만들어 유포한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;당시 A씨의 유튜브 채널 구독자는 6만명 정도로, A씨가 이 채널 운영을 통해 거둔 수익은 2억5000만원인 것으로 알려졌다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘500억대 친인척 불법대출’ 손태승 前 우리금융 회장 재판行</title>
+      <link>https://www.chosun.com/national/national_general/2025/01/21/77GVABK5RRAXPLR7X5Q3IITDLU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/21/77GVABK5RRAXPLR7X5Q3IITDLU/</guid>
+      <dc:creator>박정훈 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 21 Jan 2025 05:02:25 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OTUE5OYN23PT4KLTQTEZ3TXM2E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;손태승 전 우리금융지주 회장./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;친인척에 500억원대 불법대출을 해준 의혹을 받는 손태승(65) 전 우리금융지주 회장이 21일 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;서울남부지검 금융조사1부(부장 김수홍)는 특정경제범죄 가중처벌법상 배임, 업무방해 등 혐의로 손 전 회장과 강모(54) 우리은행 본부장을 불구속 기소했다고 이날 밝혔다. 또한 검찰은 이미 불법대출 의혹에 연루돼 구속기소된 성모(60) 전 여신부행장과 임모(58) 전 센터장, 대출브로커 역할을 한 손 전 회장의 처남 김모(67)씨에 대해서도 추가 기소했다.&lt;br&gt;&lt;br&gt;검찰에 따르면 손 전 회장은 처남이자 대출 브로커인 김씨가 운영하는 회사 등에 23회에 걸쳐 총 517억원의 불법대출을 해준 혐의를 받는다. 손 전 회장은 김씨와 수십억원의 돈 거래를 하며 고가의 승용차를 제공받거나 수십억원대의 건물 매각 차익을 얻는 등 경제적 이익을 취해왔다. 또한 손 전 회장은 김씨의 요청에 따라 성 전 부행장과 임 전 센터장을 우리은행 대출 관련 핵심 보직인 여신지원그룹장 및 선릉금융센터장 등으로 승진발령하기도 했다.&lt;br&gt;&lt;br&gt;손 전 회장은 이 과정에서 승진추천위원회 심사결과 및 징계전력 등을 이유로 임씨의 본부장 승진을 반대하는 권모 당시 우리은행장을 압박해 임씨를 승진시키는 등 인사권을 남용한 혐의도 받는다. 검찰 수사 결과 우리은행 임원들은 손 전 회장과 김씨의 눈에 들기 위해 실무자들의 반대를 무릅쓰고 거액의 불법대출을 실행했고, 결국 우리은행에 433억원의 부실이 발생하는 데 이른다. 임씨는 대출 관련 편의를 봐준 대가로 김씨로부터 현금 2억원을 받기도 한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;검찰 관계자는 “약 13조원의 공적자금이 투입된 우리은행의 내부통제절차가 무력화되고, 소상공인들에게 돌아갔어야 하는 수백억원의 대출금이 손 전 회장과 그 처남의 사적 목적을 위해 사용됐으며, 피의자는 이를 위해 지주회장으로써 인사권을 전횡하는 모습까지 보였다”며 “시중은행을 비롯한 금융기관 임직원들이 사익추구를 위해 자행하는 불법대출이나 자금 유용 등 금융범죄에 엄정히 대응해 나가겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>尹대통령, 헌재 도착… 탄핵심판서 직접 변론할 듯</title>
+      <link>https://www.chosun.com/national/court_law/2025/01/21/KU7QITMAERGPNLSAAVAIPJ7IAM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/01/21/KU7QITMAERGPNLSAAVAIPJ7IAM/</guid>
+      <dc:creator>이민준 기자, 양인성 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 21 Jan 2025 03:54:10 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KM74YXMXMNPSZGIC462TN7GC24.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;21일 오후 경기도 의왕시 서울구치소에서 윤석열 대통령이 탄 법무부 호송차량이 대통령경호처 호송을 받으며 헌법재판소로 출발하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 대통령이 21일 오후 12시 48분 탄핵 심판 변론 기일에 출석하기 위해 서울구치소를 출발했다. 이날 윤 대통령이 헌법재판소로 가는 길엔 법무부 교정본부 소속 차량 2대와 대통령경호처 소속 차량 10대가 동원됐다. 윤 대통령은 출발 23분 만인 오후 1시 11분쯤 헌재에 도착했다.&lt;br&gt;&lt;br&gt;선두엔 경호처 소속 캐딜락 에스컬레이드 SUV 1대가 행렬을 이끌고, 그 뒤로 법무부 교정본부 소속 검은색 산타페 SUV가 뒤따랐다. 윤 대통령이 탑승한 교정본부 소속 파란색 긴급호송 차량은 행렬 세 번째에 자리했다. 지난 18일 서울서부지법에서 열린 구속영장 실질심사에 참석할 때 탑승한 차량과 같다. 그 뒤로는 경호처 차량 9대가 따라 붙었다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OCUJNUBTNZOJFDUMUUAOOJLW7Y.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;21일 오후 경기도 의왕시 서울구치소에서 윤석열 대통령이 탄 법무부 호송차량이 대통령경호처 경호를 받으며 헌법재판소로 출발하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울구치소 정문 앞 주차장에 모여 있던 윤 대통령 지지자 40여명은 차량 행렬이 모두 서울구치소를 빠져나가자 바로 해산했다.&lt;br&gt;&lt;br&gt;윤 대통령은 이날 오후 2시 헌재에서 열리는 자신의 탄핵 심판 3차 변론 기일에 직접 출석한다. 전날 오후 9시 55분쯤 변론에 출석하겠다는 의사를 헌재에 밝혔다고 한다. 헌재는 사상 처음으로 탄핵 심판에 출석하는 윤 대통령에게 발언 기회를 부여하고 신문도 할 전망이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/W43ZEXZ4ZZXVEJQ7OGPJKVN2FY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;21일 서울 종로구 헌법재판소 앞에 경찰들이 배치되고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤 대통령 호송 행렬은 출발 23분 만인 오후 1시 11분쯤 헌재에 도착했다. 윤 대통령이 탄 법무부 호송차량은 포토라인에 서지 않고 헌재 지하주차장으로 곧바로 향했다. 윤 대통령은 지하 통로를 이용해 법정으로 곧바로 향하는 것으로 전해졌다.&lt;br&gt;&lt;br&gt;윤 대통령의 직접 출석 소식이 알려지면서, 헌재 앞은 이른 아침부터 긴장감이 맴돌고 있다. 경찰은 헌재 근처에 기동대 4000여 명을 배치해 대비하고 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VVW7AXZSDZITHBZSHLVZTK65AA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령의 탄핵심판 3차 변론이 열리는 21일 서울 종로구 헌법재판소 앞 안국역 사거리 일대에서 경찰이 출입을 통제하고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/QICGAYRFK5AJXEQAMLI6I64A5I.jpg?width=5075&amp;height=2855&amp;auth=78e2593b636014fc53b46bb98a21429559ab7e4373fffe33190acb891e6db762&amp;smart=true" type="image/jpeg" height="2855" width="5075">
+        <media:description type="plain">[서울=뉴시스] 정병혁 기자 = 21일 서울 종로구 헌법재판소로 윤석열 대통령이 탑승한 호송차량이 들어서고 있다. 2025.01.21. jhope@newsis.com</media:description>
+        <media:credit role="author" scheme="urn:ebu">jhope</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>“간 손바닥만큼 떼어냈다”… 권상우가 언급한 ‘간 혈관종’, 뭐길래 </title>
+      <link>https://www.chosun.com/national/national_general/2025/01/21/XPN6RRLPDRBZNAJ3HWZ4VUD47I/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/21/XPN6RRLPDRBZNAJ3HWZ4VUD47I/</guid>
+      <dc:creator>박선민 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 21 Jan 2025 04:58:56 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/33UPVDCUZZGDXDJQE7UA77N2G4.png"&gt;&lt;figcaption&gt;&lt;small&gt;권상우가 간 혈관종 제거 수술을 받았다고 이야기하고 있다. /유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;배우 권상우가 간 혈관종 제거 수술을 받았다고 밝혔다. 간 혈관종은 양성 종양으로 암을 이루는 조직과는 달리 정상 세포로 이뤄져 있지만, 크기에 따라 복통 등의 증상을 유발할 수 있다. &lt;br&gt;&lt;br&gt;권상우는 20일 유튜브 채널 ‘짠한형 신동엽’에 출연해 “오늘 처음 고백하는 건데 간에 혈관종이 생겼다”고 털어놨다. &lt;br&gt;&lt;br&gt;권상우는 아버지가 간암으로 일찍 돌아가셨다고 밝히며 “의사가 저더러 ‘10㎝ 이상 커지면 개복해야 하는데, 현재는 6㎝ 정도니까 혹시 스케줄이 되면 제거하라’고 하셨다”고 했다. 그러면서 “가족들이 미국에 있으니까 별거 아니라고 생각하고 혼자 수술했다”고 했다. &lt;br&gt;&lt;br&gt;권상우는 한손을 들어 올려 보이며 이 정도 크기의 간을 떼어냈다고 했다. 권상우는 “6㎝ 정도라고 했는데...”라며 “의사 선생님이 제 간이 되게 커서 서 30%를 떼어내도 일반인 간 크기라고 하더라”라고 했다. 이어 “그때 병원에서 꽤 오래 있었는데 가족들은 외국에 있고 혼자 있는데 많이 외로웠다”고 했다. &lt;br&gt;&lt;br&gt;서울대병원 의학정보 등에 따르면, 간 혈관종은 간에 생기는 흔한 양성 종양이다. 정상 세포로 이뤄졌기 때문에 악성 종양(암)으로 진행하지 않고, 건강을 해치거나 생명에 영향을 미치는 경우도 드물다. 대부분 작고 증상이 없어 건강검진 등의 초음파 검사에서 우연히 발견되는 경우가 많다. 권상우 역시 매년 하던 종합검진을 받던 중 간 혈관종을 발견했다고 한다. &lt;br&gt;&lt;br&gt;다만 혈관종이 발생하는 원인은 구체적으로 밝혀지지 않았다. 여성 호르몬이 혈관종의 발생 혹은 성장과 관련이 있을 것이라는 추측이 있으나, 이들의 직접적인 관계에 대해 뚜렷하게 밝혀진 바는 없다.&lt;br&gt;&lt;br&gt;크기가 4㎝가 넘을 경우 거대 혈관종으로 분류되는데, 이때는 복통 혹은 복부 불편감이 가장 흔하게 나타난다. 식사를 조금만 해도 배가 부르거나 구역질이 나는 등이다. 종양 안에 있는 혈관 내부에서 혈액이 응고하는 혈전이나, 혈관벽이 손상돼 혈액이 혈관 밖으로 새어 나가는 출혈이 발생해 급작스러운 복통이 발생할 수도 있다. 대부분 간 혈관종은 치료하지 않아도 되지만, 크기가 크고 이 같은 불편 증상이 이어지면 제거하거나 크기를 줄여야 한다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>尹측, “비상입법기구란 것 없다…대통령 직접 헌재서 소명할 것"</title>
+      <link>https://www.chosun.com/national/court_law/2025/01/21/UFGM2RJVBVDDVJLWLE4Y3MBQT4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/01/21/UFGM2RJVBVDDVJLWLE4Y3MBQT4/</guid>
+      <dc:creator>박혜연 기자, 장윤 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 21 Jan 2025 05:00:21 +0000</pubDate>
+      <content:encoded>윤석열 대통령 측 변호인은 21일 탄핵심판 3차 변론기일에 출석하면서 “헌법재판소 출석은 대통령의 의지”라고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XRRYRXD3ZOSBC7RVG7IJHVC52A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;내란 우두머리 혐의로 체포된 윤석열 대통령의 법률대리인 윤갑근 변호사가 18일 오후 서울 마포구 서울서부지방법원에서 열린 윤 대통령에 대한 영장실질심사가 종료된 뒤 법원을 떠나며 취재진의 질문에 답하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤 대통령 측 대리인단 윤갑근 변호사는 이날 오후 1시 20분쯤 윤 대통령 탄핵심판 변론을 위해 헌법재판소에 출석했다. 윤 대통령의 헌재 출석 경위에 대해 묻는 기자의 질문에 윤 변호사는 “대통령의 의지”라고 밝혔다.&lt;br&gt;&lt;br&gt;이어 ‘헌재에 대통령이 직접 출석하는 이유에는 지지자 결집의 의도가 깔려있는 게 아니냐’는 기자의 질문에는 “정치적인 질문에는 답변하지 않겠다”고 했다.&lt;br&gt;&lt;br&gt;윤 대통령이 포토라인에서 입장을 밝히는지를 묻자 “안 서는 것으로 알고 있다”며 “대통령께서 (헌재 심판정에서) 본인의 입장을 말씀하실 것”이라고 했다.&lt;br&gt;&lt;br&gt;또 비상입법기구에 대해 묻는 기자의 질문에는 “비상입법기구가 무엇이냐”고 반문했다. 이어 “비상입법기구라는 것은 없다”고 답했다.&lt;br&gt;&lt;br&gt;윤 대통령 지지자들의 서울서부지법 난입과 관련해 책임을 느끼냐는 질문에는 “이상한 말씀 말라. 헌법재판 관련해 왔으니 끝나고 말씀드리겠다”고 말한 뒤 심판정 안으로 들어갔다. &lt;br&gt;&lt;br&gt;이날 윤 대통령은 역대 대통령 최초로 탄핵심판 출석을 위해 헌법재판소를 찾았다. 윤 대통령은 이날 낮 12시 47분쯤 법무부 호송차를 타고 경호차량, 전파방해차량 등의 경호를 받으며 서울구치소를 떠났다. 헌법재판소에는 이날 오후 1시 11분쯤 도착했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>검찰, 도박자금 사기 혐의 임창용에 징역 1년6월 구형</title>
+      <link>https://www.chosun.com/national/national_general/2025/01/21/NJVGTLHUMFDY5D7OAKYS5T4QEA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/21/NJVGTLHUMFDY5D7OAKYS5T4QEA/</guid>
+      <dc:creator>광주광역시=진창일 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 21 Jan 2025 04:34:52 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PCOP5ZU46JJK7NPAILJIVUWMPQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난해 6월 11일 오전 광주 동구 광주지법 앞에서 전직 프로야구 선수 임창용 씨가 도박자금 관련 사기 혐의로 재판을 받은 뒤 취재진의 질문에 답하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰이 도박자금을 빌린 뒤 갚지 않은 혐의를 받는 전직 야구선수 임창용(49)씨에게 징역형을 구형했다.&lt;br&gt;&lt;br&gt;광주지법 형사11단독 김성준 부장판사는 21일 임씨에 대한 사기 혐의 결심공판을 열었다. 검찰은 이날 결심공판에서 임씨에 대해 1년 6개월 징역형을 구형했다.&lt;br&gt;&lt;br&gt;검찰은 “피고인이 수사·재판 과정에서 변호인 조력을 받고 한 진술조차 번복하며 범행을 반성하지 않고 있다”며 “피해자가 엄벌을 탄원하는 점을 고려해달라”고 구형 이유를 밝혔다.&lt;br&gt;&lt;br&gt;임씨는 지난 2019년 12월 필리핀 마닐라 현지에서 만난 A씨로부터 1억5000만원을 빌렸다가 7000만원만 갚은 혐의로 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;임씨는 첫 재판 당시 기자들과 만나 “A씨와는 필리핀에서 처음 봤던 사이로 도박장 관계자였다”며 “채권 채무는 현금이 아닌 도박장 칩으로 오갔고 (빌린 금액은) 충분히 갚았다”고 말했다.&lt;br&gt;&lt;br&gt;임씨 측 변호인도 재판 과정에서 “빌린 도박 칩 액수로 추정되는 7000만원을 모두 갚아 사기죄가 성립되지 않는다”고 무죄를 주장했다. 임씨에 대한 선고 공판은 오는 3월 27일에 열린다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/PCOP5ZU46JJK7NPAILJIVUWMPQ.jpg?width=3435&amp;height=2290&amp;auth=0efea683d36bf2bad5d92b25204d1c3dbfd8462da4a3a17ee500eb79f86e0757&amp;smart=true" type="image/jpeg" height="2290" width="3435">
+        <media:description type="plain">지난해 6월 11일 오전 광주 동구 광주지법 앞에서 전직 프로야구 선수 임창용 씨가 도박자금 관련 사기 혐의로 재판을 받은 뒤 취재진의 질문에 답하고 있다. /연합뉴스</media:description>
+        <media:credit role="author" scheme="urn:ebu">천정인</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>도보 여행자 쉼터 제주올레 ‘간세스테이션’, 서귀포 도심에 들어섰다</title>
+      <link>https://www.chosun.com/national/regional/2025/01/21/I55D5NRTS5H4HFF5VMOQB4OVUU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/01/21/I55D5NRTS5H4HFF5VMOQB4OVUU/</guid>
+      <dc:creator>제주=오재용 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 21 Jan 2025 04:55:33 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ITN23HC2IWQIR2BSDP6CGJEO4Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서귀포시 중정로에 들어선 간세스테이션. 원도심에서 40여년 영업하던 5층짜리 숙박업소를 리모델링 했다. /(사)제주올레&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제주도 서귀포시 원도심에 도보여행자를 위한 복합 휴양공간인 제주올레 ‘간세스테이션’이 완공됐다. 이 간세스테이션은 서귀포시 원도심에서 40여년 영업하던 5층짜리 숙박업소를 역사성과 친환경적 가치를 부여해 리모델링했다. ‘간세’는 제주 방언으로 ‘느릿느릿, 게으름’이라는 뜻을 담고 있다.&lt;br&gt;&lt;br&gt;(사)제주올레는 21일 도보여행자와 서귀포시민을 위한 커뮤니티 공간, 공유서가(올레서가), 장애인과 노약자 등 여행 약자를 위한 유니버설 디자인을 적용한 호텔형 숙소(올레스테이)로 구성한 간세스테이션을 본격적으로 운영한다고 밝혔다.&lt;br&gt;&lt;br&gt;이곳은 신발 관리 장비, 족욕기, 야외용 스크린, 안마의자 등 도보여행자를 위한 각종 편의시설을 갖췄다. 지역주민이 올레길을 안내하며 함께 걷는 시작올레, 매일 오전 올레길 시작점으로 태워다 주는 무료 셔틀 서비스 등 도보여행자를 위한 맞춤형 프로그램도 제공한다.&lt;br&gt;&lt;br&gt;간세스테이션을 위탁 운영하는 예비 사회적 기업 ㈜간세는 개장 기념으로 ‘2025 올레 캠프-올레에서 일주일 살기 이벤트’도 진행한다. 간세스테이션에서 6박7일간 진행되며, 지역 주민과 함께 올레길을 걸어보고 서귀포 원도심 곳곳을 탐방하며 고유의 음식과 문화를 체험하는 프로그램으로 구성됐다.&lt;br&gt;&lt;br&gt;1차 올레 캠프는 2월 1∼8일, 2차 올레 캠프는 2월 23일부터 3월 1일까지 진행된다. 제주올레 홈페이지 공지사항에서 신청 방법을 확인할 수 있다.&lt;br&gt;&lt;br&gt;간세스테이션 조성에는 농협중앙회 제주본부, 제주은행, 서귀포매일올레상가조합, LG전자, 카카오 등 기업과 배우 류승룡을 비롯한 200여명의 후원자가 후원·모금·크라우드펀딩 방식으로 참여했다.&lt;br&gt;&lt;br&gt;서명숙 제주올레 이사장은 “서귀포시 원도심은 개발 경쟁에서 뒤처지면서 낙후 지역으로 전락했지만 오히려 고유한 문화자원이 잘 보존됐다”며 “간세스테이션을 통해 모든 도보 여행자에게 서귀포 원도심의 매력을 알릴 수 있기를 바란다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>외부 노출 없이 지하주차장으로 진입</title>
+      <link>https://www.chosun.com/national/court_law/2025/01/21/LIP2SGJ225HITJPCL5IN7FJILE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/01/21/LIP2SGJ225HITJPCL5IN7FJILE/</guid>
+      <dc:creator>박혜연 기자, 이민경 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 21 Jan 2025 04:16:32 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/V2BFROGSHFNYRPSTYHJE6JXBCU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;21일 서울 종로구 헌법재판소로 윤석열 대통령이 탑승한 호송차량이 들어서고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;21일 오후 2시 헌법재판소에서 열리는 탄핵 심판 변론 기일에 참석하는 윤석열 대통령은 이날 오후 1시 11분 서울 종로구 헌법재판소에 도착했다. 윤 대통령이 탑승한 법무부 호송차량이 헌재 지하주차장으로 진입해, 포토라인엔 서지 않게 됐다. 대신 지하에 마련돼 있는 내부 통로를 이용해 법정으로 이동하게 된다고 한다.&lt;br&gt;&lt;br&gt;윤 대통령은 이날 재판에서 발언권을 얻어 직접 변론에 나설 전망이다. 그간 대국민 담화 등을 통해 밝혀 왔던 ‘12·3 비상계엄’의 선포 배경을 비롯해, 비상계엄이 위헌·위법하지 않다는 취지의 주장을 펼칠 것으로 보인다. 앞서 윤 대통령 측은 “윤 대통령이 탄핵 심판 변론에 출석해서 필요한 진술을 할 수 있도록 최선을 다할 것”이라고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OWQRH32KSRJC3EJCO7D47ZTNMQ.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령이 탑승한 법무부 호송차량이 21일 윤 대통령 탄핵 심판 변론 기일이 열리는 서울 종로구 헌법재판소로 향하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;천재현 헌재 공보관은 이날 오전 기자단 브리핑에서 “심판정 내에서 윤 대통령에게 발언 기회가 부여될 것으로 보인다”며 “재판장의 신문도 이뤄질 수 있다”고 밝혔다. 윤 대통령 측은 전날 오후 9시 55분쯤 변론에 출석하겠다는 뜻을 헌재에 전달했다고 한다.&lt;br&gt;&lt;br&gt;국회에서 탄핵소추된 대통령이 탄핵 심판에 직접 나오는 것은 이번이 처음이다. 윤 대통령은 비상계엄 선포 이후 공개 석상에 처음 모습을 보이게 됐다. &lt;br&gt;&lt;br&gt;윤 대통령의 출석 동선, 경호 계획 등에 대해 천 공보관은 “구체적 내용은 보안 사항이라 밝힐 수 없다”고 말했다. 윤 대통령이 현재 탄핵 심판 피청구인이자 구속 피의자이지만, 현직 대통령 신분이기에 보안과 경호 조치 등을 고려한 것으로 보인다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SK3HQIDAFBOQ3PEHTENIIDZY54.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령의 탄핵심판 3차 변론기일인 21일 오후 서울 종로구 헌법재판소 앞에 윤 대통령 지지 화환이 놓여 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘황의조 수사정보 유출’ 경찰관, 1심 무죄…“의심 들지만 범죄 사실 증명 없어”</title>
+      <link>https://www.chosun.com/national/court_law/2025/01/21/2ZZWARQZRNA75AYSYZGF2QVKKU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/01/21/2ZZWARQZRNA75AYSYZGF2QVKKU/</guid>
+      <dc:creator>박강현 기자, 양인성 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 21 Jan 2025 03:17:53 +0000</pubDate>
+      <content:encoded>국가대표 출신 축구선수 황의조(33·튀르키예 알란야스포르)씨의 수사 정보를 유출한 혐의로 재판에 넘겨진 현직 경찰관이 1심에서 무죄를 선고받았다. 범죄 사실이 충분히 증명됐다고 보기 어렵다는 취지의 판단이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3FTGPTVCXJGOPCYLMP3UYTQ3YI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울중앙지법. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;21일 서울중앙지법 형사3단독 이종민 판사는 공무상비밀누설 혐의로 기소된 경감 조모(45)씨에게 무죄를 선고했다.&lt;br&gt;&lt;br&gt;이 판사는 “스스로 의심을 살만한 행동을 하는 등 조씨가 범죄를 저질렀다는 의심은 든다”면서도 “법관으로 하여금 확신에 이를 정도로 범죄 사실을 증명했다고 보기 어렵다”고 지적했다.&lt;br&gt;&lt;br&gt;이어 “누설된 내용을 보더라도 피고인이 누설했다고 보기에는 석연치 않다”며 “이 사건 공소사실은 범죄 사실의 증명이 없는 사건에 해당해 무죄를 선고한다”고 했다.&lt;br&gt;&lt;br&gt;조씨는 작년 1월 서울경찰청 사이버수사대에서 근무하면서 한 변호사에게 불법 촬영 혐의와 관련해 황씨의 수사·압수수색 정보 등을 유출한 혐의로 그해 7월 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;해당 정보는 여러 단계를 거쳐 황씨 측에 전달된 것으로 조사됐다. 이에 황씨 측은 한 브로커가 수사 무마를 대가로 금전을 요구하며 황씨에게 접근해 압수수색 장소와 일시 등을 알려줬다고 주장하며 작년 2월 경찰에 수사관 기피 신청서를 내기도 했다. 다만 조씨는 수사 정보에 대한 대가로 금품 등을 받지는 않은 것으로 파악됐다.&lt;br&gt;&lt;br&gt;당초 구속 기소됐던 조씨는 작년 12월 보석(保釋)으로 풀려났다.&lt;br&gt;&lt;br&gt;한편 황씨는 2022년 6~9월 상대 여성의 동의 없이 성관계 영상을 불법 촬영한 혐의로 작년 7월 기소됐다. 이 사건에 대한 1심 선고는 다음 달 14일에 나온다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>오세훈 “민주당, ‘카톡계엄’ 이어 ‘여론조사 계엄’…민심 돌아선 원인 민주당에 있어”</title>
+      <link>https://www.chosun.com/national/national_general/2025/01/21/ACOVTNWRMREYDD4F2TC2G4J3W4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/21/ACOVTNWRMREYDD4F2TC2G4J3W4/</guid>
+      <dc:creator>최연진 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 21 Jan 2025 03:38:24 +0000</pubDate>
+      <content:encoded>오세훈 서울시장은 최근 각종 여론조사에서 여야 지지율 격차가 좁혀진 것과 관련해 “민심이 돌아선 원인은 민주당(더불어민주당) 자신에게 있다”고 했다. &lt;br&gt;&lt;br&gt;오 시장은 21일 페이스북 글에서 “국가적 혼란 중에도 민생 안정 대신 정쟁과 위법 논란, 이재명 방탄에 주력한 결과로 여야 지지율이 역전됐는데, 그 원인을 왜 밖에서 찾으려 하느냐”며 이같이 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AML5WFDNK5EP7OYJ6RAK5VAKLA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;오세훈 서울시장. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;오 시장은 민주당이 여론조사를 검증하고 제도 개선을 추진하는 특별위원회를 구성하기로 한 데 대해 “국민의 사적 대화까지 검열하겠다며 ‘카톡 계엄’을 하더니, 이번엔 여론조사 검증을 운운하며 ‘여론조사 계엄’에 나섰다”고 했다. &lt;br&gt;&lt;br&gt;이어 “자신에게 유리할 땐 가만히 있다 불리해지니 편향적 조사라며 문제 삼고, 심지어 여론조사 기관 사무실까지 찾아가겠다고 협박한다”며 “민심마저 검열하려 드는 ‘오만함’, 여론조사 기관 탓만 하는 ‘책임 회피’, 이재명 방탄만을 위한 ‘소아적 정치’”라고 했다. &lt;br&gt;&lt;br&gt;오 시장은 “우리당이 민주당을 반면교사로 삼아야 할 때”라며 “여론조사 반등을 오롯이 당에 대한 지지로 착각하거나 오독하는 일은 절대 있어서는 안 된다”했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>“그런 집 딸인 줄도 몰랐다”…심영순이 본 ‘요리 제자’ 이부진</title>
       <link>https://www.chosun.com/national/national_general/2025/01/21/FFPTJTXFYJAQRDUX3ZDZTNZVB4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/21/FFPTJTXFYJAQRDUX3ZDZTNZVB4/</guid>
@@ -713,55 +820,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MWGMZXW2UHHPFDCW2KKPRD524Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대구지검, 고검 청사 전경./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난해 대구지검에 적발된 위증사범은 41명으로, 한 해 전보다 70%늘어난 것으로 집계됐다. 또 최근 3년 간 위증사범은 꾸준히 증가한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;대구지검 공판제1·2부는 지난 한해 동안 위증 사범을 집중적으로 단속해 총 41명을 적발해 이중 40명을 기소하고, 1명을 지명수배했다고 20일 밝혔다. 검찰에 따르면, 지역에서 적발된 위증사범은 2022년 11명, 2023년에는 29명, 지난해 41명으로 3년 연속 늘어났다.&lt;br&gt;&lt;br&gt;2022년 9월 ‘검사의 수사 개시 범죄 범위에 관한 규정’ 개정으로 검사가 수사를 직접 개시할 수 있는 중요 범죄에 위증죄가 포함됐다. 이에 근거해 대구지검은 지난해 11월 최근 2년간 대구고등법원과 대구지방법원에서 선고·재판 중인 형사사건을 전수조사해 묻힐뻔한 위증사범 총 21명을 찾아냈다.&lt;br&gt;&lt;br&gt;대구지검 관계자는 “사법질서 저해사범에 대해서는 ‘무관용의 원칙’을 적용해 ‘법정에서 거짓말하면 반드시 처벌받는다’는 사회적 경각심이 제대로 자리잡힐 수 있도록 온 힘을 다하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>현직 부장검사 “부정선거 의혹 수사해 음모인지, 합리적 의혹인지 밝혀야” 첫 공개 주장</title>
-      <link>https://www.chosun.com/national/court_law/2025/01/20/QQ2CUGMFMJFD5BWP2KYIOYZP2Q/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/01/20/QQ2CUGMFMJFD5BWP2KYIOYZP2Q/</guid>
-      <dc:creator>이슬비 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 20 Jan 2025 06:05:38 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IRDDK2IKMVA2DHIE4SOJVYGKJQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 15일 체포된 윤석열 대통령이 오후 경기도 과천 공수처에서 수사를 마치고 서울 구치소로 가기 위해 경호 차량에 탑승해있다. / 장련성 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;현직 부장검사가 “윤석열 대통령이 계엄의 근거로 제기한 ‘부정선거 의혹’을 수사해봐야 한다”라고 주장했다. 검찰 내부에서 부정선거 의혹을 수사하자는 목소리가 공개적으로 나온 것은 처음이다.&lt;br&gt;&lt;br&gt;20일 본지 취재를 종합하면, 수원지검 장모 부장검사는 이날 ‘내란과 부정선거’라는 제목의 글을 검찰 내부망 이프로스에 올리고 “과연 윤 대통령이 주장하는 부정선거 의혹이 합리적인 의심이 들 정도로 상당한 것이었는지에 대한 수사가 필요하다”고 주장했다.&lt;br&gt;&lt;br&gt;장 부장검사는 “대통령은 기밀정보를 누구보다 긴밀하게 확인할 수 있고, 검찰 특수통으로서 검찰총장까지 지낸 바 있는 대통령이 부정선거 의혹에 상당한 의심을 하고 있었다면 이는 일각에서 제기하는 음모론으로만 치부할 수는 없다”라며 “특히 사형, 무기징역, 무기금고의 법정형밖에 없는 내란죄의 중대성을 고려하면, 음모론을 믿고 현직 대통령이 부정선거 의혹을 밝히기 위해 비상계엄을 선포했다는 주장은 더욱 납득하기 어렵다”고 했다.&lt;br&gt;&lt;br&gt;이어 “부정선거 의혹에 관한 실체 규명은 비상계엄에 의한 선관위의 무력 진입 등에 대한 법적 평가에 어떤 형태로든 중요한 영향을 미친다”라며 “내란죄 규명에 있어 그 동기와 동기의 진위 여부는 매우 중요한 요소”라고 했다.&lt;br&gt;&lt;br&gt;이에 장 부장검사는 “과연 대통령이 주장하는 부정선거 의혹이 합리적인 의심이 들 정도로 상당한 것이었는지, 그리고 비상계엄 외의 방식으로는 부정선거 의혹을 밝히기 곤란한 상황이었는지에 대한 수사가 전제로 이루어져야 한다”고 했다.&lt;br&gt;&lt;br&gt;장 부장검사는 지금까지 검찰이 부정선거 관련 수사를 어느 정도 했는지에 대해서도 의문을 표했다. 장 부장검사는 “2020년 총선에서 사전투표지에 대한 개표과정 오류가 발생해 재검표 결과 1,2위 득표자가 바뀌는 상황이 발생했다”라며 “이와 관련해 전자개표기 오류 원인 분석을 위한 디지털포렌식이 이뤄진 적이 있는지, 다른 개표기에서도 이런 오류가 발생했는지 등에 대한 전수 조사가 이뤄진 적이 있는지 궁금하다”고 했다. 2020년 부정선거 의혹이 제기됐을 당시 수사를 통한 명확한 실체 규명이 이뤄지지 못했고, 지금까지 의혹이 계속되고 있다는 취지다.&lt;br&gt;&lt;br&gt;장 부장검사는 “대통령이 자신의 직을 걸고 내란죄의 처벌 위험을 감수하고 위와 같은 부정선거 의혹을 밝히기 위해 비상계엄을 선포했다는 주장이 알려지면서 부정선거 의혹은 더욱 확산되고 있다”라며 “이것이 음모인지, 합리적인 의혹인지에 대한 명확한 실체가 규명되지 않는다면 국민적 의혹은 더욱 커질 것”이라고 했다.&lt;br&gt;&lt;br&gt;이날 오후 게시된 해당 글에는 “공감한다”는 취지의 댓글이 여러건 달린 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[단독] 검찰, ‘尹 사건’ 빨리 넘겨 받나... 공수처에 송부 협의 요청</title>
-      <link>https://www.chosun.com/national/court_law/2025/01/20/QC6C4DFKOJGQZNOQPUD4NT6HWI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/01/20/QC6C4DFKOJGQZNOQPUD4NT6HWI/</guid>
-      <dc:creator>유희곤 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 20 Jan 2025 05:29:18 +0000</pubDate>
-      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JCYOMUEZEHBX2IUZVYWRVIZ2RQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;내란 우두머리(수괴) 혐의로 체포된 윤석열 대통령이 지난 15일 오전 경기 과천 고위공직자범죄수사처(공수처)에 도착해 조사실로 향하고 있다. /조인원 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰이 고위공직자범죄수사처(공수처)에 내란 수괴(우두머리) 혐의를 받는 윤석열 대통령(구속) 사건 송부 일정을 협의하자고 공식 요청한 것으로 20일 전해졌다.&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 대검찰청은 이날 공수처에 윤 대통령 사건 송부와 관련한 논의를 하자고 통보한 후 답변을 기다리고 있는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;검찰은 공수처가 지난 15일 윤 대통령을 체포하고 19일 구속했지만, 기소 및 공소 유지는 검찰이 책임져야 하는 만큼, 윤 대통령을 조사할 시간을 최대한 확보해야 한다며 공수처에 윤 대통령 사건을 다시 보내달라고 요청한다는 방침인 것으로 전해졌다. 검찰은 공수처 요청에 따라 지난달 18일 윤 대통령과 이상민 전 행정안전부 장관 사건을 이첩했다.&lt;br&gt;&lt;br&gt;형사소송법상 피의자 구속 기간은 경찰 최대 10일, 검사는 최대 20일이지만 공수처에 대해서는 별다른 규정이 없다. 공수처가 지난달 20일 출범 후 처음으로 문상호 전 전보사령관을 구속하면서 구속 기간 문제가 불거졌다.&lt;br&gt;&lt;br&gt;공수처는 공수처 검사도 검찰청 검사와 동일한 규정을 적용받는다는 입장인데 문제는 공수처가 기소할 수 있는 대상이 판사·검사·경무관 이상 경찰공무원 등으로 한정돼 있다는 것이다. 공수처가 수사는 할 수 있지만 기소는 할 수 없는 피의자는 검찰이 기소 여부를 결정하고 재판(공소유지)도 맡는다. 이에 검찰과 공수처는 ‘12·3 비상계엄' 사태 관련 피의자들의 구속 기간을 최장 20일로 하고, 두 기관이 기간을 절반씩 나눠 피의자를 수사하기로 했다.&lt;br&gt;&lt;br&gt;공수처에 따르면 윤 대통령의 1차 구속 기한은 오는 28일이고, 법원에 구속 기간 연장을 신청하면 다음 달 7일까지 늘어난다. 검찰은 현직 대통령인 윤 대통령 사건의 중요성을 고려하면 공수처에서 최대한 빨리 사건을 넘겨받아야 한다는 입장이다.&lt;br&gt;&lt;br&gt;서울구치소에 수감 중인 윤 대통령은 이날도 공수처의 출석 요구에 불응했다. 공수처는 윤 대통령 강제구인(강제인치)을 검토하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“헌법재판소에 불 지르자” 온라인 게시글 수사</title>
-      <link>https://www.chosun.com/national/regional/2025/01/20/33VUVCYI3FF6NM46GHFHSPBKDM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/01/20/33VUVCYI3FF6NM46GHFHSPBKDM/</guid>
-      <dc:creator>권상은 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 20 Jan 2025 05:21:56 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5GT7HGZDJZC2PGHRM34R3HXIUY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /조선일보 DB.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 대통령의 탄핵 심판을 진행하고 있는 헌법재판소를 테러하겠다는 내용의 글이 온라인 커뮤니티에 올라와 경찰이 수사에 나섰다.&lt;br&gt;&lt;br&gt;20일 경기남부경찰청 사이버수사대에 따르면 온라인 커뮤니티 디시인사이드의 한 갤러리에 “헌법재판소에 불을 지르자”는 취지의 게시물을 쓴 작성자에 대한 입건 전 조사(내사)에 착수했다고 20일 밝혔다.&lt;br&gt;&lt;br&gt;경찰은 지난 19일 오후 8시쯤 온라인에 이 같은 내용의 게시물이 있다는 112 신고를 접수한 뒤 조사를 시작했다. 경찰 관계자는 “게시자가 특정되면 관련 법규를 적용해 처벌할 방침”이라고 말했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[오늘의 운세] 1월 21일 화요일 (음력 12월 22일 庚寅)</title>
-      <link>https://www.chosun.com/national/national_general/2025/01/20/DFP6NAAYVJBM7GNDDSKNXYXPWM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/20/DFP6NAAYVJBM7GNDDSKNXYXPWM/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Mon, 20 Jan 2025 08:10:38 +0000</pubDate>
-      <content:encoded>&lt;p&gt;&lt;div class="chosun_unse"&gt;&lt;iframe src="https://image.chosun.com/arc/unse_iframe.html" frameborder="0" scrolling="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;style&gt;.chosun_unse{position:relative;width:100%;height:350px;box-sizing:border-box}.chosun_unse&gt;iframe{position:absolute;top:0;left:0;width:100%;height:100%;overflow-y:hidden}@media all and (max-width:1024px){.chosun_unse{height:350px}}@media all and (max-width:1023px){.chosun_unse{height:350px}}@media all and (max-width:528px){.chosun_unse{height:270px}}@media all and (max-width:384px){.chosun_unse{height:190px}}&lt;/style&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;p&gt;&lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani01.gif"&gt;  	&amp;nbsp;	36년생 상황 바뀌어도 기본 지키면 결실 있다. 48년생 치밀하고 꼼꼼하게. 60년생 덩치 큰 코끼리는 작은 쥐가 제일 무섭다. 72년생 짧은 두레박줄로는 깊은 물 못 긴다. 84년생 가족과 전문가 도움 필요할 듯. 96년생 실행 전 한번 더 생각하고 추진하라.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt;  &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani02.gif"&gt;	&amp;nbsp;	37년생 속 깊은 정 느껴지게 마음 다하라. 49년생 수습 불가능할 만큼 벌이진 마라. 61년생 아랫사람 고언을 수용 가능해야. 73년생 딸은 귀하게, 아들은 천하게 키워라. 85년생 실물(失物)수 있으니 사전 예방. 97년생 옳고 그름 구분할 줄 아는 게 지혜.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani03.gif"&gt;	&amp;nbsp;	38년생 감언이설은 허상일 뿐. 50년생 옆에 귀인 두고 누굴 찾는가. 62년생 목표점 놓치면 방향 잃을 수도. 74년생 오만하고 경솔한 태도를 경계. 86년생 동쪽에 사기(邪氣) 감도니 근처에 얼씬도 마라. 98년생 옳다고 판단했으면 주저 말고 밀고 나가도록.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani04.gif"&gt;	&amp;nbsp;	27년생 인심 얻으면 권위는 저절로. 39년생 벙어리 3년, 귀머거리 3년. 51년생 나무 마르면 오던 새도 아니 온다. 63년생 변수 생겨도 밀고 가라. 75년생 세 치 혀를 조심 또 조심. 87년생 작은 일은 결과 볼 수 있을 듯. 99년생 절약·절제로 후일을 도모.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani05.gif"&gt;	&amp;nbsp;	28년생 지나친 의욕은 더 큰 손해를 초래. 40년생 아랫길도 윗길도 못 가겠다. 52년생 당초에 어부지리는 없다. 64년생 노상(路上)에 사람과 차를 주의. 76년생 꽃 피자 임이 온다. 88년생 윗사람과 동료의 도움이 필요할 듯. 00년생 원칙을 지켜야 뒤탈 없다.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani06.gif"&gt;	&amp;nbsp;	29년생 붉은 옷 입은 사람을 경계. 41년생 손재가 오히려 전화위복. 53년생 소금 팔러 나서니 비가 오는구나. 65년생 집중력도 필요하지만 이해력은 더 중요. 77년생 실행에 앞서 계획을 철저히. 89년생 금전 거래는 다음으로 미뤄라. 01년생 경제적 여유는 언제나 오려나.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani07.gif"&gt;	&amp;nbsp;	30년생 성공은 위험을 무릅쓸 때 오는 것. 42년생 눈 소식 있다면 천재일우(千載一遇)의 기회. 54년생 지름길이 더 막힐 수도. 66년생 웃을 일 없어도 웃어라. 78년생 자손으로 인한 행복한 하루. 90년생 순조롭고 평탄한 하루. 02년생 마무리할 것도 생각하면서 시작하라.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani08.gif"&gt;	&amp;nbsp;	31년생 돈으로 때우든, 몸으로 때우든. 43년생 산속 절에 가서 젓국 달라는 격. 55년생 생각을 바꾸면 길이 열린다. 67년생 사소한 언쟁이 큰일을 그르칠 수도. 79년생 옆집 진수성찬 내 집 간장만 하랴. 91년생 일상에 완급 조절하도록. 03년생 숫자 3, 8과 푸른색은 피하라.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani09.gif"&gt;	&amp;nbsp;	32년생 주변의 지혜를 빌려봄이 좋을 듯. 44년생 주위 사람에게 미루지 마라. 56년생 걷기도 전에 뛰기가 되겠나. 68년생 지나친 욕심이 화를 부를 수도. 80년생 정신적 스트레스가 가중될 시기. 92년생 귀에 거슬려도 잘 새겨 들어야. 04년생 도장 찍을 일 있다면 오늘이 적기.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani10.gif"&gt;	&amp;nbsp;	33년생 금전적 거래는 가급적 피하라. 45년생 소띠와 동업은 이익도 크다. 57년생 공개할 것과 은밀히 할 것 구분하라. 69년생 하고픈 일 미루지 말고 실행해 봐도. 81년생 남 돈 천 냥 내 돈 서푼만 못하다. 93년생 백리 밖은 보면서 코앞은 놓치기 쉽다.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani11.gif"&gt;	&amp;nbsp;	34년생 자기 주장만 고집 마라. 46년생 뜻밖의 즐거움, 소득은 일단 의심하라. 58년생 보고도 들어도 모른 채. 70년생 문서로 근심하니 도장과 서명 주의. 82년생 세 잎으로 집을, 천 냥으론 이웃 산다. 94년생 어제 그리워 말고 내일을 두려워 마라.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani12.gif"&gt;	&amp;nbsp;	35년생 뜻밖의 문서는 분명 희소식. 47년생 뱁새가 황새 따라가려면 다리 찢긴다. 59년생 배우자와 언쟁은 손재의 전조. 71년생 확률 반반이면 하는 게 상책. 83년생 앞면만 말고 뒷면도 볼 줄 알아야. 95년생 큰 고기 낚으려면 작은 미끼 아끼지 마라.	&lt;br&gt;
-&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;한소평 금오산방 강주  &lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;			&lt;/p&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/4MTFRYWHBJA7XOKKF7G7JPLX5U.png?width=800&amp;height=420&amp;auth=4651b5b20b5d4901424204d1456faee02e4b064ff509db23945deabf4404c8ef&amp;smart=true" type="image/png" height="420" width="800"/>
-    </item>
-    <item>
       <title>[속보] “공수처 검사, 尹 조사 위해 서울구치소 도착"</title>
       <link>https://www.chosun.com/national/court_law/2025/01/20/NKBKPMNVRVADZFFEBV2T6K4YCQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/01/20/NKBKPMNVRVADZFFEBV2T6K4YCQ/</guid>
@@ -778,15 +836,6 @@
       <description/>
       <pubDate>Mon, 20 Jan 2025 07:54:32 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3EBG7AAVIZJJPN5SGL257CYEPM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;최상목 대통령 권한대행이 20일 정부세종청사에서 열린 '민생 정책 신속집행 점검 회의'에 참석해 발언하고 있다. /대통령실통신사진기자단&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최상목 대통령 권한대행이 마은혁 재판관 후보자 임명 보류에 관한 권한쟁의 사건에서 “재판관 임명권은 대통령에게 부여돼있고, 임명에 관한 재량이 있다”고 밝힌 것으로 전해졌다. 그러면서 “국회의 재판관 선출은 여야 합의로 이뤄져야 하는데, 마 후보자에 대해서는 합의가 있는지 알 수 없다”며 마 후보자 임명 보류가 정당하다고 강조했다.&lt;br&gt;&lt;br&gt;20일 본지 취재를 종합하면, 최 권한대행 측 대리인단은 지난 17일 헌법재판소에 낸 답변서에서 이같이 주장한 것으로 전해졌다. 앞서 야당이 주도하는 국회 측은 최 권한대행이 국회가 선출한 헌법재판관 3명 중 2명(조한창·정계선)만 임명하자 헌재에 권한 쟁의 심판을 청구하고 효력 정지 가처분도 신청했다. 헌재는 오는 22일 최 권한대행과 국회의 권한 쟁의 심판 첫 변론을 진행할 예정이다.&lt;br&gt;&lt;br&gt;최 권한대행 측은 “헌법상 대통령의 재판관 임명권은 대통령의 국가원수 지위에서 인정되는 것”이라며 “국회의 재판관 후보자 3인의 선출권은 인사권으로 볼 수 없고, 대통령에게 재판관 임명에 관한 재량이 존재한다”고 주장했다고 한다. 이어 “국회가 선출한 재판관 후보자를 대통령이 무조건 임명해야 한다고 해석할 경우, 국회 스스로 재판관 임명을 행사하는 것과 다름없어 대통령의 재량권을 완전히 박탈한다”고 강조했다. 그러면서 최 권한대행 측은 프랑스, 스페인 등의 외국 재판관 임명 사례 등을 근거로 제시했다고 한다.&lt;br&gt;&lt;br&gt;앞서 국회 측은 “최 권한대행의 헌법재판관 선별 임명은 위헌”이라고 주장했다. 국회가 선출한 재판관 후보자들에 대한 대통령의 임명권은 형식적인 권한에 불과하기 때문에 추천한 후보자들을 모두 임명해야 한다는 뜻이다. 이에 대해 최 권한대행 측은 대통령의 재판관 임명권이 실질적 권한이라고 반박한 셈이다.&lt;br&gt;&lt;br&gt;최 권한대행 측은 또 “국회의 재판관 선출은 여야 합의에 의해 이뤄져야 한다. (마 후보자에 대한) 양당 원내대표의 합의문 등을 확인할 수 없는 만큼 확인 절차가 필요하다”고 주장한 것으로 전해졌다. 반면 야당 주도 국회 측은 “조한창·정계선·마은혁 재판관 3인의 임명은 여야가 합의한 사항”이라는 입장이다.&lt;br&gt;&lt;br&gt;최 권한대행 측 대리인단에는 이동흡 전 헌법재판관과 임성근 전 서울고법 부장판사 등이 이름을 올렸다. 임 전 부장과 최 권한대행은 서울대 법대 82학번 동기로 막역한 사이인 것으로 전해졌다. 국회 측은 참여연대 출신 양홍석 법무법인 이공 변호사 등이 대리하는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>음주측정 요구 거절…차에서 자던 30대男 징역형</title>
-      <link>https://www.chosun.com/national/court_law/2025/01/20/FL2WGLBDZFGTPPZIINVVZ6KSTI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/01/20/FL2WGLBDZFGTPPZIINVVZ6KSTI/</guid>
-      <dc:creator>인천=이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 20 Jan 2025 07:50:48 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SKAPAZQXV5KJNHCV3TRZZGHAV4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원 로고. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰의 음주측정 요구를 3차례에 걸쳐 거절해 재판에 넘겨진 30대 남성에게 징역형이 선고됐다.&lt;br&gt;&lt;br&gt;인천지법 형사5단독 홍준서 판사는 도로교통법상 음주측정 거부 혐의로 기소된 A(35)씨에 대해 징역 10개월을 선고했다고 20일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난해 8월 8일 오전 6시쯤 인천시 서구의 한 도로에서 경찰의 음주측정을 거부한 혐의로 재판에 넘겨졌다. 경찰은 당시 차에서 자고 있던 A씨에게 3차례에 걸쳐 음주측정을 요구했지만, A씨는 이를 받아들이지 않았다.&lt;br&gt;&lt;br&gt;경찰은 A씨에게 술 냄새가 나고, A씨의 눈이 충혈돼 있는 등 술에 취한 상태에서 운전했다고 인정할 만한 이유가 있어 음주측정을 요구했던 것으로 파악됐다.&lt;br&gt;&lt;br&gt;A씨는 지난 2014년과 2020년, 음주운전 혐의로 기소돼 징역형의 집행유예를 선고받기도 했다.&lt;br&gt;&lt;br&gt;홍 판사는 “피고인은 과거 음주운전 처벌 전력이 있다”며 “실형 전과는 없는 점, 음주측정 거부죄의 최소 양형 기준이 징역 8개월인 점 등을 고려했다”고 양형 이유를 설명했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>오세훈 “트럼프 복귀는 위대한 한미동맹의 강력한 재확인”</title>
@@ -861,27 +910,6 @@
       <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NSCYL32IYVIVO3CN2RZRALELXE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2025학년도 수능이 열린 작년 11월 14일 한 수험생이 시험을 보고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;오는 3월 고1이 되는 학생들이 치를 2028학년도 대학수학능력시험(수능)부터 국어·수학·탐구 영역의 선택 과목이 폐지된다. 수능 문제 수와 시험 시간도 늘어난다.&lt;br&gt;&lt;br&gt;교육부는 20일 이런 내용의 ‘2028학년도 수능 시험 및 점수 체제’를 발표했다. 교육부는 재작년 10월 대입 개편안을 발표하면서 2028학년도부터 수능 선택과목을 폐지한다고 밝힌 바 있다. 이날 과목별 문항 수와 시험 시간 등 세부 내용을 확정해 발표했다.&lt;br&gt;&lt;br&gt;국어, 수학 영역의 선택 과목은 2027학년도 수능까지만 유지되고, 이듬해 폐지된다. 그간 수험생들은 국어에선 화법과작문, 언어와매체 중 하나를, 수학에선 확률과통계, 미적분, 기하 중 하나를 골라 시험을 쳤다. 문과 학생들은 주로 확률과통계, 이과 학생들은 미적분 혹은 기하를 택한다. 하지만 2028학년도부터는 선택 과목이 사라지고, 모든 수험생들이 같은 시험을 치게 된다.&lt;br&gt;&lt;br&gt;탐구 과목에서도 기존 선택과목은 모두 사라지고 ‘통합사회’, ‘통합과학’이 도입된다. 현재 수험생들은 사회(9과목)·과학탐구(8과목) 총 17과목 중 최대 2과목을 선택하는데, 통상 문과는 사회탐구만, 이과는 과학탐구만 고른다. 하지만 올해 고1이 되는 학생들부터는 모든 수험생이 ‘통합사회’ ‘통합과학’ 두 과목을 모두 봐야 한다. 통합사회, 통합 과학은 기존 선택과목에서 다루던 내용들을 두루 다룬다. &lt;br&gt;&lt;br&gt;기존 탐구 선택과목들은 각 20개 문항이었는데, 통합사회·통합과학은 각 25문항이다. 학생들이 쳐야 하는 문항 수가 40개에서 50개로 늘어나는 셈이다. 이에 따라 시험시간도 과목별 30분에서 40분으로 10분 늘어난다. 탐구 과목의 문제별 배점도 기존 2,3점에서 1.5점, 2점, 2.5점 3가지로 바뀐다. 탐구 시험시간이 늘어남에 따라 수능 최종 종료 시각도 오후 5시45분에서 오후 6시5분으로 20분 늦춰졌다.&lt;br&gt;&lt;br&gt;교육부가 수능 체제를 바꾼 것은 ‘문·이과 장벽’을 허물고 융합형 인재를 키우기 위해서다. 일각에선 수험생 부담이 커진다는 불만도 있다. 예컨대, 현재 인문계 학과에 진학할 수험생들은 탐구에서 ‘한국지리’ ‘사회·문화’를 공부하면 된다. 그런데 앞으론 사회, 과학 전 과목을 공부해야 하기 때문이다. 교육부 관계자는 “통합사회, 통합과학은 일반적으로 고1 수준으로 출제해 학생 부담과 사교육이 늘어나지 않도록 하겠다”고 밝혔다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[속보] 헌재 “서부지법 난동 사태 관련 심판정 보안 강화, 외곽 경비 강화 요청”</title>
-      <link>https://www.chosun.com/national/court_law/2025/01/20/D2GANY3DPFEETDKCYM775YXDRA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/01/20/D2GANY3DPFEETDKCYM775YXDRA/</guid>
-      <dc:creator>박혜연 기자, 박강현 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 20 Jan 2025 05:05:23 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/42D7EBHTQJHE7OJ2NQBJ3M55EI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 종로구 헌법재판소. /전기병 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>망치로 ‘쾅쾅’…무인점포 털던 중학생, 주인 목소리에 놀라 줄행랑</title>
-      <link>https://www.chosun.com/national/national_general/2025/01/20/JM2KS42T7BD53BXTGDQASYAUVE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/20/JM2KS42T7BD53BXTGDQASYAUVE/</guid>
-      <dc:creator>최혜승 기자 </dc:creator>
-      <description/>
-      <pubDate>Mon, 20 Jan 2025 05:03:22 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JD7DLKL46VBABLQNJXSCC2YFF4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;망치로 무인점포 터는 A군./대전경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;망치로 무인점포 키오스크 자물쇠를 부수다 발각되자 도주한 중학생들이 검찰에 넘겨졌다.&lt;br&gt;&lt;br&gt;대전중부경찰서는 특수절도미수 및 재물손괴 혐의로 A(15)군을 불구속 송치하고 특수절도미수 혐의로 B(15)양 등 2명도 송치했다고 20일 밝혔다.&lt;br&gt;&lt;br&gt;A군 등은 2024년 12월 9일 오전 12시 53분쯤 대전 중구 태평동 한 무인 아이스크림 가게에서 미리 챙겨간 망치로 무인 기기 자물쇠를 부수고 현금 등을 훔치려다 실패하자 도망친 혐의를 받는다.&lt;br&gt;&lt;br&gt;A군은 훔치는 역할을 맡았고, B양 등 나머지 2명은 가게 주변에서 망을 봤던 것으로 확인됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/H57HL6PQEJEOVMXZ2SFRPJLQKA.gif"&gt;&lt;figcaption&gt;&lt;small&gt;무인점포 키오스크를 망치로 부수는 A군./ 대전경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;범행 당시 영상을 보면, 택시를 타고 가게 인근에서 내린 이들 무리는 주변을 두리번거리며 역할을 분담했다. A군은 일행이 망을 보는 틈을 타 가게 안으로 들어간 뒤 미리 챙겨온 망치를 꺼내 키오스크 자물쇠들을 내리치며 부쉈다. &lt;br&gt;&lt;br&gt;내부 방범카메라로 이 장면을 보고 있던 업주가 스피커를 통해 “지금 뭐하시는 거냐?”고 경고하자 A군과 망을 보던 일행은 깜짝 놀라 도망쳤다.&lt;br&gt;&lt;br&gt;신고를 받고 출동한 경찰은 수색 작업 중 업주로부터 받은 인상착의 사진과 동일한 A군을 발견했다. 경찰은 도로 8차선을 넘어 위험하게 도망치던 A군을 300m가량 추격한 끝에 체포했다. A군을 통해 다른 공범들도 차례대로 붙잡았다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/L6ABQB353NC4DIVQC3TWREKYNA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;무인점포를 털다 주인 경고에 놀라 달아나는 중학생들. /대전경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이들은 범행에 사용한 망치를 전날 미리 구입하는 등 사전에 철저하게 계획한 것으로 드러났다. A군 일행은 경찰 조사에서 “돈이 필요해서 그랬다”고 진술한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;이들 모두 대전 지역 학생들로 학교 밖 청소년은 아닌 것으로 알려졌다.&lt;br&gt;&lt;br&gt;A군 일행은 범죄소년(만14세 이상 19세 미만)에 해당돼 성인과 동일하게 형사처벌을 받을 수 있다. 경찰은 “미성년자라 하더라도 강력 범죄의 경우 법에 따라 처벌되고 반드시 검거되니 절대 따라 하지 말라”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/H57HL6PQEJEOVMXZ2SFRPJLQKA.gif?width=1164&amp;height=661&amp;auth=292566da976afa1156bf9b4d5c8f84827d25bcc6c99c4ef233f8431438a3e5c3&amp;smart=true" type="image/jpeg" height="661" width="1164">
-        <media:description type="plain">무인점포 키오스크를 망치로 부수는 A군./ 대전경찰청</media:description>
-      </media:content>
-    </item>
-    <item>
       <title>[속보] 경찰, 삼청동 안전가옥 압수수색 “CCTV·계엄 문건 확보 목적”</title>
       <link>https://www.chosun.com/national/national_general/2025/01/20/3GPLGONATVGGJGBR6S7A2BADA4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/20/3GPLGONATVGGJGBR6S7A2BADA4/</guid>
@@ -903,15 +931,6 @@
       </media:content>
     </item>
     <item>
-      <title>前 프로축구 선수가 1조원대 불법 도박사이트 자금세탁 총책 </title>
-      <link>https://www.chosun.com/national/regional/yeongnam/2025/01/20/OGBQTJOEGJCZFL6VIEA5AMKSKA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/yeongnam/2025/01/20/OGBQTJOEGJCZFL6VIEA5AMKSKA/</guid>
-      <dc:creator>박주영 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 20 Jan 2025 03:40:01 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LZUC6UGCFREOJFN5FEWYHBNXMI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;불법 도박사이트 자금세탁 조직이 허위 코인매매 사이트 운영 등에 이용한 켬퓨터 서버./부산경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;승부조작에 가담해 영구제명 당한 전 프로축구 선수가 총책인 1조원대 불법 도박사이트 자금 세탁 조직이 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;부산경찰청 사이버범죄수사대는 국민체육진흥법 위반, 도박 장소 등 개설 혐의로 전 프로축구 선수 A씨와 사이트 개발자 B씨 등 8명을 구속하고 11명을 불구속 입건했다고 20일 밝혔다.&lt;br&gt;&lt;br&gt;경찰에 따르면 A씨 등은 지난 2022년 1월부터 작년 9월까지 국내에서 허위 코인 매매 사이트를 개설한 뒤 불법 도박사이트 112곳의 회원 6만6802명으로부터 1조1000억원 상당의 도박자금을 입금받아 세탁해준 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;이들은 대포통장 업자로부터 200여개의 대포통장을 산 뒤 이를 이용해 수천개의 가상계좌를 발급받아 도박자금을 주고받으면서 허위 코인 매매 사이트로 연결, 자금을 세탁하는 수법을 쓴 것으로 조사됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FAK6KXSVVJGOBA46YDE6NHH6RU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;불법 도박사이트 자금세탁 조직이 운영한 사이트의 충전·환전 화면./부산경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰은 “이들은 불법 도박자나 대포통장 명의자가 수사기관에 출석 요구를 받으면 정상적인 코인 거래를 한 것처럼 거래내역을 출력해 주며 수사망을 피하려 했다”고 말했다.&lt;br&gt;&lt;br&gt;경찰 조사 결과, 전직 프로축구 선수 A씨는 과거 K리그 승부조작 사건 브로커 혐의로 영구 제명됐던 인물로 이 사건에서 범행 기획, 관리 등 총책 역할을 한 것으로 드러났다. &lt;br&gt;&lt;br&gt;경찰은 “A씨 등은 도박자금 세탁액의 1%인 100억원대의 부당이득을 챙겨 생활비나 유흥비, 또 다른 불법 도박사이트 운영 자금 등으로 사용했다”고 말했다.&lt;br&gt;&lt;br&gt;경찰은 남은 범죄수익 7억3000만원에 대해 국세청에 조세 탈루 통보하는 한편 이들에게 자금 세탁을 연계한 불법 도박사이트 112곳을 방송통신심의위원회에 차단 요청했다.&lt;br&gt;&lt;br&gt;부산경찰청 사이버범죄수사대 관계자는 “불법 도박을 하려고 자금을 보낸 청소년 80명을 적발, 선도심사위원회에 넘겼다”며 “이들 청소년은 이들의 연예인 얼굴 합성 딥페이크 홍보 영상을 보고 불법 도박사이트에 회원으로 가입한 것으로 확인됐다”고 말했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>‘尹 집회서 할머니 때렸다’ 루머에…MBC 아나운서 “사실 아냐”</title>
       <link>https://www.chosun.com/national/national_general/2025/01/20/G5PKHVO3KBBMDNL75DY5YWQD5U/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/20/G5PKHVO3KBBMDNL75DY5YWQD5U/</guid>
@@ -919,24 +938,6 @@
       <description/>
       <pubDate>Mon, 20 Jan 2025 02:54:02 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Q42YGBZZ55BKXHW4O6KMGBRSS4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;박소영 MBC 아나운서. /소셜미디어&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;박소영 MBC 아나운서는 자신이 윤석열 대통령 구속영장 발부 관련 집회에 참석해 집회 참가자를 때렸다는 루머에 대해 사실이 아니라고 일축했다.&lt;br&gt;&lt;br&gt;박 아나운서는 19일 자신의 소셜미디어를 통해 “저는 집회에 참석한 적이 없으며, 저와 관련된 집회 현장 내용은 모두 사실이 아님을 명확하게 밝힌다”며 “소셜미디어를 포함한 온라인상의 허위사실 유포, 무분별한 인신공격 등을 멈춰주시길 부탁드린다”고 했다.&lt;br&gt;&lt;br&gt;앞서 한 네티즌은 “MBC 박소영이라는 여기자가 할머니를 때려서 할머니가 피를 흘리며 쓰러졌다”며 “경찰들이 (박 아나운서를) 경찰차에 태운 다음에 기동대 2~3부대가 와서 보호하고 내보냈다”는 글을 올렸다.&lt;br&gt;&lt;br&gt;하지만 현재 온라인상에서 박소영이라는 이름의 MBC 기자는 검색되지 않는다. 이에 일부 네티즌은 박소영 기자라고 지목된 인물이 박소영 MBC 아나운서가 아니냐는 의혹을 제기했다.&lt;br&gt;&lt;br&gt;격분한 네티즌들은 박소영 아나운서 소셜미디어 등에 몰려가 해명을 요구하며 악플을 남겼다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>경찰 “尹 특수공무집행 방해 고발당해...경호처 수뇌부 휴대폰 제출 안해”</title>
-      <link>https://www.chosun.com/national/national_general/2025/01/20/HHTACAN2WZGWFHSFJ6LRSEDLPM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/20/HHTACAN2WZGWFHSFJ6LRSEDLPM/</guid>
-      <dc:creator>구아모 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 20 Jan 2025 03:09:27 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OACHDSECR6VNQRBDOICXSOYKAQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;내란 우두머리 혐의로 체포된 윤석열 대통령이 15일 고위공직자범죄수사처(공수처)의 수사를 마친 후 경기도 의왕시 서울구치소에 도착하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 대통령이 특수공무집행방해 혐의로 경찰에 입건됐다. 경찰청 국가수사본부 비상계엄 특별수사단은 20일 정례 브리핑에서 “지난 3일 조국혁신당의 고발에 따라 수사에 착수했다”고 밝혔다.&lt;br&gt;&lt;br&gt;야권에서는 2차 체포를 앞두고 윤 대통령이 경호처 간부들에게 “총은 안 되더라도 칼이라도 휴대해 무조건 막으라”고 했다는 주장까지 나온 바 있다. 다만 윤 대통령 측은 해당 주장에 대해서는 “허위사실”이라고 반박했다. 경호처 수뇌부 역시 “인적 피해가 있어선 안된다는 것이 대통령의 지시”라고 주장했다. 경찰은 현재 윤 대통령에 대한 외환 관련 혐의도 수사 중이다. &lt;br&gt;&lt;br&gt;앞서 체포됐다가 석방된 김성훈 대통령 경호처 차장과 이광우 경호본부장은 경찰 조사에서 혐의를 부인한 것으로 알려졌다. 경찰 관계자는 “두 사람 모두 전반적으로 혐의를 부인하고 있으며, 추가 소환 여부는 아직 결정되지 않았다”고 했다.&lt;br&gt;&lt;br&gt;김 차장과 이 본부장은 경찰 조사에서 휴대폰을 소지하지 않았다고도 경찰은 전했다. 경찰 관계자는 “김성훈 차장, 이광우 경호본부장, 김신 가족부장 모두 경찰 조사에서 휴대폰을 소지하지 않고 있었다”며 “휴대폰을 폐기한 건 아니나 임의제출 받지 못했다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[속보] 대법관들 “법치주의 무시 일상화되면 나라 존립 할 수 없다”</title>
-      <link>https://www.chosun.com/national/court_law/2025/01/20/XYO6GIKGVNC6TLK6W5X2NFMNYQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/01/20/XYO6GIKGVNC6TLK6W5X2NFMNYQ/</guid>
-      <dc:creator>박혜연 기자, 김관래 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 20 Jan 2025 02:19:28 +0000</pubDate>
-      <content:encoded>대법관들은 지난 19일 윤석열 대통령 지지자들이 서울서부지법에 난입한 사건과 관련해 “법치주의의 심각한 위기”라며 우려를 표했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QGAOK2S32FN2PHATRRGNIUEBQ4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;20일 윤석열 대통령 지지 시위대의 서울서부지법 청사 불법 진입 및 난동 사태와 관련한 긴급 현안질의가 열린 국회 법제사법위원회 전체회의에 출석한 천대엽 법원행정처장(왼쪽)이 의원 질의에 답변하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;천대엽 대법원 법원행정처장은 20일 국회 법제사법위원회 현안 질의에 출석해 이날 오전 조희대 대법원장 주재로 진행된 긴급 대법관 회의에서 논의된 내용을 보고했다.&lt;br&gt;&lt;br&gt;천 처장은 “오전 회의에서 대법관들이 모여 다같이 걱정을 나눴다. 30년 이상 법관 생활을 하면서 (처음) 본 초유의, 미증유 사태라는 데 큰 충격을 받았다”고 했다. &lt;br&gt;&lt;br&gt;이어 “독립된 헌법 기관인 법관 개인과 재판에 대한 테러 시도는 법치주의에 대한 전면 부정일 뿐 아니라 사법부·국회·정부 등 모든 헌법기관 자체에 대한 부정행위일 수 있다”며 “굉장히 심각한 사안으로 봐야 한다는 말씀들이 있었다”고 강조했다.&lt;br&gt;&lt;br&gt;또 “법조인이든 비법조인이든 헌법 토대 위에서 생활하는 모든 사람이 유념하고 절제하고 자제하며 법치주의를 존중해야 한다”며 “불법적 난입과 폭력은 결코 성공할 수 없다는 분명한 메시지를 전체 헌법 기관에 종사하는 분들이 한목소리로 이야기해주실 필요가 있다는 말씀도 있었다”고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/36SEJDNR27UT4VRFK2LZCC6XDI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;20일 대법관회의 내용 보고하는 천대엽 법원행정처장/뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;천 처장은 “서부지법 시설에 대한 물적 피해만 현재 6억 내지 7억 정도로 보인다”고 했다. “전날 행정처 간부들과 서부지법 현장을 둘러봤는데, 발바닥을 디딜 틈도 없이 유리가 파편화되어 굴러다니는 모습을 보고 큰 충격을 받았다”고 참담한 심정을 드러냈다.&lt;br&gt;&lt;br&gt;이어 천 처장은 사법부도 반성할 필요가 있다고 언급했다. 천 처장은 “(재판에 대해) 일부라도 국민이 신뢰하지 못하는 게 있다면 사법부가 좀 더 반성하고 노력해야 하지 않겠냐는 지적이 많았다”고 했다.&lt;br&gt;&lt;br&gt;아울러 대법관들은 판사 한 명이 영장 발부를 결정하는 현행 제도 대신, 유연한 구속영장 발부 제도인 ‘조건부 구속영장제’를 고려해야 한다는 의견을 나눴다고 한다.&lt;br&gt;&lt;br&gt;천 처장은 “영장 재판 하나가 모든 재판 전체를 결정하는 것처럼 중차대한 부담을 영장판사 개인에게 지우고 그렇게 일반에게 받아들여지는 사법 시스템은 수정할 필요가 있다”고 전했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>경찰들 “지휘부, 기동대를 몸빵 취급… 난동 조짐에도 대비 안해”</title>
@@ -950,15 +951,6 @@
         <media:description type="plain">19일 새벽 윤석열 대통령에 대한 구속영장이 발부되자 서울 서부지법에 지지자들이 진입해 난동을 부리자 경찰이 이를 진압하고 있다. /뉴스1</media:description>
         <media:credit role="author" scheme="urn:ebu">뉴스1 ⓒ News1 김민수 기자</media:credit>
       </media:content>
-    </item>
-    <item>
-      <title>오세훈 “이재명 대선용 특검 멈춰야”</title>
-      <link>https://www.chosun.com/national/regional/seoul/2025/01/20/EFXKY6A7AVCUDM6AGN33NBU7KM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/seoul/2025/01/20/EFXKY6A7AVCUDM6AGN33NBU7KM/</guid>
-      <dc:creator>박진성 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 20 Jan 2025 02:45:10 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WAZ62R274RGK5BTM64BK2BGIVA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;오세훈 서울 시장이 작년 7월 서울시청 집무실에서 본지와 인터뷰를 갖고 있다./김지호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;오세훈 서울시장이 20일 페이스북을 통해 “이재명 대선용 특검은 멈춰야 한다”고 했다.&lt;br&gt;&lt;br&gt;오 시장은 “현직 대통령이 이미 구속됐고 주요 관련자도 대부분 구속기소된 상황”이라며 “조만간 공수처가 수사를 마치고 검찰이 기소하면 재판이 진행될 텐데, 여기에 또 특검을 꾸린다는 것은 민주당 자신들도 이해 못 할 모순일 것”이라고 했다.&lt;br&gt;&lt;br&gt;오 시장은 그 이유로 “여론의 관심이 범죄 피고인인 이재명 대표의 당선무효형 항소심이 아니라 특검에 쏠리게 하려는 것”이라며 “조기 대선이 치러질 경우 수개월짜리 특검은 ‘선거운동’ 그 자체가 될 것”이라고 했다.&lt;br&gt;&lt;br&gt;또 오 시장은 “이것이 바로 이재명을 위한 ‘대선용 특검’의 실체”라며 “민주당은 이제라도 방탄쇼를 멈추고 차분하게 국정 수습에 협조해야 할 때”라고 했다.&lt;br&gt;&lt;br&gt;앞서 국회는 더불어민주당 등 야당이 지난 17일 본회의에서 일방 처리한 내란 특검 법안을 18일 정부로 이송했다. 정부는 15일 이내인 오는 2월 2일까지 이 법안을 공포하거나 국회에 재의(再議)를 요구해야 한다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>尹 4차례 조사 거부... 공수처, 강제구인 검토</title>
