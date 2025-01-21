@@ -13,6 +13,24 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>﻿설 연휴 214만명 몰리는데…”3시간 전 가도 빠듯” 인천공항 여행객 불만</title>
+      <link>https://www.chosun.com/national/national_general/2025/01/22/7BTFBT5H3RF3RCLUEZRVEORU6Q/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/22/7BTFBT5H3RF3RCLUEZRVEORU6Q/</guid>
+      <dc:creator>이가영 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 21 Jan 2025 23:03:26 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UOGVVA22DFMXLHR3QI7QMMTO2Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;여행객들로 붐비는 인천국제공항 제1터미널 출국장 모습. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;올 설 연휴에 인천국제공항을 찾는 이들이 역대 최다를 기록할 것으로 예상되는 가운데, 비행기를 탈 때 시간이 너무 오래 걸린다는 불만이 이어지고 있다. &lt;br&gt;&lt;br&gt;22일 소셜미디어에는 “출발 3시간 전에 도착했는데도 빠듯했다”는 내용의 글이 많다. 한 네티즌은 “요즘 인천공항에 사람 정말 많다”며 “3시간 일찍 왔는데도 이륙 30분 전까지 출국 심사대를 통과 못 해서 따로 들어가고 난리였다”고 했다. &lt;br&gt;&lt;br&gt;보안 검색 줄이 끝도 없이 늘어선 모습의 영상도 올라왔다. 지난해 인천공항은 승객의 95%가 체크인 데스크에서 탑승권을 발권한 뒤 출국장으로 진입해 보안 검색과 여권 확인을 마치는 데까지 30분 41초면 된다고 홍보했지만, 이용객들은 “이전보다 시간이 더 오래 걸린다”고 입을 모았다. &lt;br&gt;&lt;br&gt;인천국제공항공사는 “연말연시, 학생 방학 등 여행 성수기여서 승객이 늘어났다”며 “겨울철이라 두꺼운 옷을 입은 여객이 많아 보안 검색 때 옷을 벗는 시간도 소요된다”고 설명했다. 지난달 말 강화된 보안 검색 규정에 따라 굽 3.5㎝ 이상의 신발을 신은 사람은 신발을 벗어야 해 시간이 좀 더 걸리는 탓도 있다. &lt;br&gt;&lt;br&gt;현장에서는 인력 부족을 이유로 꼽았다. 자회사 소속 보안검색요원은 지난해 세 차례 채용 공고를 통해 370명을 뽑았지만, 236명이 퇴직했다고 한다. 인천공항공사 측은 “인력 부족 해소를 위해 약 110명의 보안 검색요원을 신규 투입할 예정”이라며 “현재 교육하고 있고, 2월 초 투입 예정”이라고 밝혔다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/F6GICKMD4FIH3PRLW6VRKTYUAM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;여행객들로 붐비는 인천국제공항. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;◇역대급 인파 예상되는 설 연휴, 특별교통대책 시행&lt;/b&gt;&lt;br&gt;&lt;br&gt;문제는 이번 설 연휴에 최장 7일 이상의 황금연휴도 가능할 것으로 보여 해외여행을 떠나는 승객이 더 늘어날 것으로 전망된다는 점이다. 인천공항공사는 오는 24일부터 다음 달 2일까지 10일간 총 214만1000명, 일평균 21만4000명의 여객이 인천공항을 이용할 것으로 전망된다고 밝혔다. 공항 개항 이후 설 연휴 기준 일평균 여객 최대치다. &lt;br&gt;&lt;br&gt;공사는 관계기관과 합동으로 특별 교통 대책을 시행한다. 우선, 출입국장을 30분 조기에 열어 운영시간을 확대하고 보안검색대를 기존보다 확대 운영해 터미널 혼잡을 완화한다는 방침이다. 또 체크인 안내‧지원 인력을 평상시보다 117명 늘려 배치하고, 자원봉사 안내소 4곳도 추가로 운영한다. &lt;br&gt;&lt;br&gt;이 외에도 불법 주정차 단속을 강화해 혼잡을 관리하고, 임시주차장 개방과 수요에 따른 주차장 탄력 운영도 진행한다. 다만 공사 측은 ‘여객이 많이 몰릴 수 있는 만큼 가급적 대중교통을 이용해 달라”고 당부했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>영하 15도에 내복만 입고 헤맨 치매 어르신…발견한 시민이 보인 행동</title>
+      <link>https://www.chosun.com/national/national_general/2025/01/22/AGM3RUPLWVA7BNRZWH7GU66AZ4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/22/AGM3RUPLWVA7BNRZWH7GU66AZ4/</guid>
+      <dc:creator>김자아 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 21 Jan 2025 22:33:48 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JJNDMT6AZ5CQRB5WADQL33ZYYY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 10일 서울의 한 편의점 앞에서 내복 차림으로 길을 헤매던 어르신을 발견한 여성이 자신의 외투를 벗어주고 따뜻한 음료를 건네고 있다./유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;영하의 날씨에 내복만 입고 돌아다니는 치매 노인을 발견한 시민이 자신의 외투를 벗어주고 보호해준 사연이 전해졌다. &lt;br&gt;&lt;br&gt;22일 경찰청 유튜브 채널에는 ‘치매 어르신을 발견한 시민의 놀라운 선택(감동)’이라는 제목의 영상이 올라왔다. 여기엔 지난 10일 오전 7시쯤 서울의 한 편의점 앞에서 벌어진 상황이 담겼다.&lt;br&gt;&lt;br&gt;당시 편의점 앞 감시카메라(CCTV)에는 한 여성이 누군가와 대화를 나누고 있는 모습이 포착됐다. 체감온도가 영하 15도까지 떨어진 매우 추운 날씨였지만 이 여성은 외투를 입지 않은 모습이었다.&lt;br&gt;&lt;br&gt;잠시 뒤 이 여성이 편의점 안으로 들어가자 여성의 것으로 보이는 외투를 입은 어르신이 뒤따라 들어갔다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/U3UGY6E4WFAOPDNX4PXR3AZ2EQ.gif"&gt;&lt;figcaption&gt;&lt;small&gt;지난 10일 서울의 한 편의점 앞에서 내복 차림으로 길을 헤매던 어르신을 발견해 자신의 외투를 벗어준 여성이 어르신과 함께 편의점 안으로 들어가고 있다./유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;알고보니 이 어르신은 내복 차림으로 집을 나와 1시간이 넘도록 길을 헤맨 상태였다. 영상 속 여성은 이 어르신을 발견해 자신의 외투를 벗어주고 따뜻한 음료를 건넸다.&lt;br&gt;&lt;br&gt;이 여성은 경찰에 신고한 뒤 경찰이 올 때까지 곁에서 어르신을 지켰다고 한다.&lt;br&gt;&lt;br&gt;현장으로 출동한 경찰은 인적사항을 확인해 가족에게 인계하려 했지만 어르신은 아무것도 기억하지 못했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LXDLXMQVNZDBFEKVNP6LUM4FTU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰이 지난 10일 서울의 한 편의점 앞에서 내복 차림으로 길을 헤매던 어르신의 인적사항을 확인하고 있다./유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이에 경찰은 어르신과 함께 지구대로 복귀해 인적사항 확인에 나섰다. 그 순간 ‘어머니가 사라졌다’는 신고가 접수됐고, 신고자와의 통화를 통해 실종자가 지구대에 있는 어르신과 동일인임을 확인했다.&lt;br&gt;&lt;br&gt;곧 소식을 들은 어르신의 딸이 한달음에 달려왔다. 딸은 안도의 눈물을 쏟으며 경찰관들에게 감사 인사를 전했다.&lt;br&gt;&lt;br&gt;경찰은 “어르신을 보호해준 시민분께 진심으로 감사드린다”며 “도움을 드릴 수 있어 다행”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>尹 ‘최상목 쪽지·군경 진술’ 증거 부인… 헌재, 내란 판단 난항 겪을 듯</title>
       <link>https://www.chosun.com/national/court_law/2025/01/22/G7KKLEARWZC4TGKDL66WJQUNWI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/01/22/G7KKLEARWZC4TGKDL66WJQUNWI/</guid>
@@ -826,15 +844,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IR7EFS2BGNP3IEPSBHTGEXR2XA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;19일 새벽 윤석열 대통령에 대한 구속영장이 발부되자 서울 서부지법에 지지자들이 진입해 난동을 부리고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 19일 새벽 윤석열 대통령에 대한 구속영장이 발부된 뒤 이에 반발해 서울서부지법에 난입해 폭력 사태를 저지른 46명 전원이 구속 기로에 놓였다.&lt;br&gt;&lt;br&gt;서울서부지검은 ‘서부지법 난동 사태’ 당시 서부지법 내부로 난입한 혐의(건조물침입, 공용물건손상죄 등)로 체포된 46명 전원에 대해 20일 구속영장을 청구했다고 21일 밝혔다. 이들 46명은 윤 대통령 지지자들로 연령을 보면 30대가 19명으로 가장 많았고, 50대 11명, 20·40대 각 6명, 60대 3명, 10대 1명 등이다.&lt;br&gt;&lt;br&gt;구속영장이 청구된 46명은 경찰 조사 등에서 “누군가 선동해 우발적으로 휩쓸렸다”고 진술하고 있다. 당시 정문 앞에서 서부지법 내부로 침입을 유도하는 이들의 선동 장면이 경찰의 채증 자료에도 포착됐다고 한다. 19일 새벽 3시쯤 윤 대통령의 구속영장 발부 소식이 전해질 때 윤 대통령 지지자들은 대부분은 정문 쪽에 몰려 있었는데, 누군가 “여러분 후문 뚫렸대요” “후문이 난리 났다. 다들 가보자”라고 외쳤다는 것이다. 이에 수십 명이 정문에서 150m 거리에 있는 후문으로 순식간에 몰려들었고, 후문을 막고 있던 경찰 수십 명을 밀기 시작해 5분 만에 경찰은 계속 밀려났다.&lt;br&gt;&lt;br&gt;검찰은 앞서 고위공직자범죄수사처(공수처) 차량을 가로막거나 경찰관을 폭행하는 등 공무집행을 방해하고 서부지법 담을 넘어 침입한 인원 등 17명에 대해서도 구속영장을 청구했다. 이에 ‘서부지법 난동 사태’로 구속영장이 청구된 인원은 총 63명으로 늘었다.&lt;br&gt;&lt;br&gt;경찰은 ‘서부지법 난동 사태’로 체포된 86명 중 66명에 대해 구속영장을 신청했지만 검찰은 이중 3명에 대해선 보완 수사가 필요하다고 보고 이들에 대해선 이번엔 영장 청구를 하지 않았다.&lt;br&gt;&lt;br&gt;서울서부지법 신한미 영장전담 부장판사는 18일 낮시간대 서부지법 인근에서 경찰 지시에 불응하고 경찰을 폭행해 공무집행방해 혐의를 받는 5명 중 2명에 대해 20일 “도주 우려가 있다”는 이유로 구속영장을 발부했다. 다만 나머지 3명에 대해선 증거인멸 염려가 없다는 점, 주거가 일정하다는 점, 폭행 정도가 비교적 경미하다는 점 등을 들어 영장을 기각했다. 이들 3명에 대해선 각각 초범, 고령자, 생업 종사 중이라는 부분도 고려됐다고 한다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>“말 안 듣는다” 11세 아들 때려 숨지게 한 아버지 구속</title>
-      <link>https://www.chosun.com/national/incident/2025/01/21/5ZPFPILI75C4RBW5GAGEGD4JLY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/01/21/5ZPFPILI75C4RBW5GAGEGD4JLY/</guid>
-      <dc:creator>인천=이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 21 Jan 2025 02:26:58 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/E7KOZXCZMGGKKVT6PF7URJSCTY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;인천경찰청./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;말을 안 듣는다는 이유로 11세 초등학생 아들을 온몸에 멍이 들 정도로 때려 숨지게 한 40대 남성이 경찰에 구속됐다.&lt;br&gt;&lt;br&gt;인천경찰청 여성청소년범죄수사계는 아동학대 범죄의 처벌 등에 관한 특례법상 아동학대 치사 혐의로 40대 남성 A씨를 구속했다고 21일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 16일 오후 인천 연수구의 한 아파트에서 아들 B(11)군을 둔기로 때려 숨지게 한 혐의를 받고 있다. 온몸에 멍이 든 B군은 119구급대에 의해 인근 병원으로 옮겨졌으나 끝내 숨졌다.&lt;br&gt;&lt;br&gt;A씨는 “아들이 숨을 쉬지 않는다”며 소방 당국에 신고했고, 소방 당국의 공동대응 요청을 받은 경찰은 학대 정황이 있는 것으로 보고 A씨를 긴급 체포했다.&lt;br&gt;&lt;br&gt;A씨는 경찰에 “아들이 말을 안 들어 훈계하기 위해 때렸다”고 진술한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;국립과학수사연구원은 B군을 부검해 “외상과 사망 사이에 인과관계가 있다”는 구두 소견을 경찰에 전달했다.&lt;br&gt;&lt;br&gt;경찰은 B군의 어머니인 40대 C씨도 아동복지법 위반 혐의로 입건하고, 남편의 범행을 방조했는지 여부 등을 수사하고 있다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “A씨 부부의 휴대전화 등을 분석해 과거에도 B군을 학대했는지에 대해 수사할 방침”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>“사회적 고립·외로움, 흡연·음주만큼 노년층에 해로워”</title>
       <link>https://www.chosun.com/national/national_general/2025/01/21/CYADVOF35NA6VATPJ7WJWTGL6A/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/21/CYADVOF35NA6VATPJ7WJWTGL6A/</guid>
@@ -842,15 +851,6 @@
       <description/>
       <pubDate>Tue, 21 Jan 2025 02:01:05 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5RPROPUL6ZK6TOT7IGSDNFFUQM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 성북구 고려대학교 모습. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;고려대학교 연구팀이 최근 사회적 고립과 외로움이 흡연이나 음주와 같은 건강 위험 못지 않게 노년층에 육체적, 정신적으로 해를 미친다는 사실을 규명했다.&lt;br&gt;&lt;br&gt;21일 고려대 측은 보도자료를 내고, 고려대 연구팀이 미국 위스콘신-메디슨대학교와 공동으로 국내 노년층의 사회적 고립과 외로움의 변화를 다각도로 분석해 이들이 인지 기능에 미치는 영향을 규명했다고 밝혔다. 이 연구는 지난해 12월 세계적 학술지 ‘The Journals of Gerontology: Series B’에 게재됐다.&lt;br&gt;&lt;br&gt;연구에 따르면, 사회적 고립과 주관적 외로움이 증가할수록 노년층의 인지 기능이 점차 저하되는 경향을 보였다. 특히 가족이나 가까운 지인과의 교류가 줄어들 때 인지 기능이 더 큰 폭으로 떨어지는 것으로 확인됐다.&lt;br&gt;&lt;br&gt;반면 조직 활동과 같은 공식적인 사회 활동 참여는 노년층의 인지 기능을 보호하고 향상하는 데 중요한 역할을 하는 것으로 나타났다.&lt;br&gt;&lt;br&gt;고려대 측은 “이번 연구는 사회적 관계의 양적 측면 뿐만 아니라 주관적 외로움이 인지 기능에 미치는 영향을 강조했다는 점에서 의미가 크다”며 “이러한 연구 결과는 노년층의 인지 기능을 보호하고 증진하기 위한 실질적인 대책 마련에 기여할 수 있을 것으로 보인다”고 밝혔다.&lt;br&gt;&lt;br&gt;연구를 주도한 김진호 교수는 “노년기 사회적 고립과 외로움은 인지 기능에 다양한 영향을 미치기 때문에 이를 해결하기 위한 정책적 개입이 필수적”이라고 했다. 이어 “노년층이 고립에서 벗어날 수 있도록 노인 복지관이나 커뮤니티 센터 활동 참여를 적극적으로 지원해야 하며, 사회적 고립과 외로움을 예방할 수 있는 구체적인 대책을 마련해야 한다”고 강조했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>멍키스패너로 차량 10대 유리창 파손한 50대...경찰 순찰차도 피해</title>
-      <link>https://www.chosun.com/national/regional/2025/01/21/XWFC6BAVUFAYHEHA4GVQLW2ASI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/01/21/XWFC6BAVUFAYHEHA4GVQLW2ASI/</guid>
-      <dc:creator>김포=권상은 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 21 Jan 2025 01:34:49 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UTF5DUSBP73HDJQYKEDHKTPHBY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김포경찰서. /경기남부경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰 순찰차를 포함해 차량 10대의 유리창을 부순 50대 남성이 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;경기 김포경찰서는 특수재물손괴와 공용물건손상 혐의로 50대 A씨를 체포해 조사하고 있다고 21일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 전날인 20일 오전 7시부터 약 30분 동안 김포시 사우동 풍무역세권 도시개발구역 일대에서 차량 10대의 유리창, 공인중개업소 사무실 유리창·집기류 등을 파손한 혐의를 받고있다.&lt;br&gt;&lt;br&gt;그는 약 30cm 길이의 멍키스패너를 소지하고 걸어다니며 이같은 행위를 한 것으로 파악됐다. 그는 신고를 받고 출동한 경찰 순찰차의 앞 유리도 파손했다. &lt;br&gt;&lt;br&gt;A씨는 경찰 조사에서 횡설수설하면서 구체적인 범행 동기를 진술하지 못한 것으로 파악됐다. 그는 약 20년 동안 정신질환으로 치료를 받아온 것으로 알려졌다. 경찰은 A씨에 대해 구속영장을 신청할 방침이다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>농구교실 자금 횡령‧배임 혐의…강동희 전 감독, 징역 2년 구형</title>
