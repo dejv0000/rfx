@@ -13,6 +13,235 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>[단독] 공조본 뒤에 숨은 국수본… 수사 대상이 되레 ‘수사 완장’</title>
+      <link>https://www.chosun.com/national/court_law/2025/01/23/RHBVIC3FIZCITMBXY6Z3AFWV4Q/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/01/23/RHBVIC3FIZCITMBXY6Z3AFWV4Q/</guid>
+      <dc:creator>유종헌 기자, 유희곤 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 22 Jan 2025 20:02:00 +0000</pubDate>
+      <content:encoded>경찰 국가수사본부(국수본)는 ‘12·3 비상계엄’ 당시 방첩사령부의 주요 인사 체포조 운영을 지원했다는 의혹으로 검찰 수사를 받고 있다. 국수본 주요 간부들은 “군 체포조 안내를 위해 형사들을 보냈을 뿐, 체포 대상이 누군지도 몰랐다”며 검찰 수사에 협조하지 않고 있지만, 검찰은 조지호 경찰청장으로부터 “국수본 간부로부터 ‘한동훈 체포조’를 요청받았다는 보고를 받았다”는 진술을 확보했다.&lt;br&gt;&lt;br&gt;이런 내용은 조 청장의 공소장에 그대로 담겨 있다. 국수본 지휘부들이 방첩사의 여야 대표 등 체포 계획을 알면서도 영등포경찰서 형사 10명 명단을 보내 체포조를 지원했다는 게 검찰 시각이다.&lt;br&gt;&lt;br&gt;조 청장 공소장을 보면, 지난달 3일 밤 이현일 국수본 수사기획계장은 방첩사 구인회 수사조정과장으로부터 체포 인력 지원을 요청받고 “도대체 누구를 체포하는 거냐”고 물었다. 구 과장은 “이재명, 한동훈”이라고 답했다. 검찰은 이 같은 내용이 전창훈 수사기획담당관과 윤승영 수사기획조정관을 거쳐 우종수 국수본부장과 조 청장에게 각각 보고됐다고 보고 있다.&lt;br&gt;&lt;br&gt;윤 조정관 등 국수본 간부들은 국회, 언론 등에 “방첩사로부터 체포 대상 이름을 들은 적 없다”고 의혹을 부인했다. 그러나 조 청장은 검찰에서 “윤 조정관이 관련 내용을 대면 보고할 때 ‘방첩사가 한동훈 체포조 지원을 요청했다’고 했다”고 진술했다고 한다.&lt;br&gt;&lt;br&gt;검찰은 국수본 간부들이 말을 맞춘 것 아닌지 확인하기 위해 지난달 19일 우 본부장 등 이들의 휴대전화를 압수했다. 그러나 1명을 제외하고는 모두 한 달이 넘도록 비밀번호를 알려주지 않아 디지털포렌식을 못 하고 있다. 우 본부장 측은 법원에 “압수수색 절차가 잘못됐다”면서 준항고를 냈다가 기각당하자 최근 또 재항고했다.&lt;br&gt;&lt;br&gt;검찰 안팎에선 “윤 대통령 수사를 사실상 지휘하는 국수본이 공조수사본부 뒤에 숨어 자신들의 의혹을 감추고 있는 모습”이라는 말이 나온다. 검찰 한 관계자는 “사실 관계만 파악하면 혐의를 벗을 텐데 증거 조사조차 못 하게 준항고 등 이의 제기를 계속하니까 더 의심스럽다”고 했다.&lt;br&gt;&lt;br&gt;국수본 관계자는 “방첩사에서 체포 대상 이름을 들은 적 없다는 게 국수본의 일관된 입장”이라고 했다. 휴대전화 비밀번호를 알려주지 않는 데 대해선 “각종 수사 지시 등 민감한 내용이 있어서 그렇지 무언가를 숨기는 것이 아니다”라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>얼음 헤치고… 수난 사고 대비 구조 훈련</title>
+      <link>https://www.chosun.com/national/national_general/2025/01/23/QQQFKPXM5RCTVP6MIKYGMDVS2U/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/23/QQQFKPXM5RCTVP6MIKYGMDVS2U/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Wed, 22 Jan 2025 20:00:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MZ2VHQAPSRDXRDQ2XTXCB7V4TA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;22일 대구 달성군 하빈저수지에서 대구강서소방서 119 구조대원들이 물에 빠진 사람을 구조하는 훈련을 하고 있다. 저수지 표면의 얼음이 깨져 사람이 물에 빠진 상황을 가정해 실시됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>점조직 마약 활개… 수사관이 판매·구매자로 위장해 잡는다</title>
+      <link>https://www.chosun.com/politics/goverment/2025/01/23/UBS7E77ZZVBMLAIFRTE3AJAGDI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/politics/goverment/2025/01/23/UBS7E77ZZVBMLAIFRTE3AJAGDI/</guid>
+      <dc:creator>김경필 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 22 Jan 2025 15:54:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QZOIFJNM5ZLEBOA6ZFEWESKWOU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2024년 11월 21 서울경찰청 광역수사단 마약범죄수사대가 나이지리아에 거점을 두고 해외 3개국 마약상들과 연계해 국내에 대량의 필로폰을 밀반입한 해외 마약 총책과 국내 유통책 등 마약 사범 총 18명을 검거해 입건 및 구속했다고 밝혔다. 사진은 압수한 마약과 증거물./ 연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정부가 점조직 형태의 마약 유통망 적발을 위해 수사관이 신분을 숨기고 수사하는 ‘위장 수사’를 제도화하고 수사에 협조한 마약 사범의 형량을 줄여주는 ‘사법 협조자 형벌 감면 제도’를 도입하기로 했다. 정부는 또 입대 신체검사 때 마약 검사를 도입하고 특정 장소에 마약을 두면 구매자가 찾아가는 일명 ‘던지기’ 수법에 대응하기 위해 감시 카메라 영상 분석에 인공지능(AI) 기술을 활용하기로 했다. 텔레그램 등 해외 메신저 서비스 기업들과 수사 공조도 추진된다.&lt;br&gt;&lt;br&gt;정부는 22일 정부서울청사에서 최상목 대통령 권한대행 주재로 국정 현안 관계 장관 회의를 열고 이런 내용을 담은 제1차 마약류 관리 기본 계획을 채택했다. 마약류 단속을 위해 정부 차원에서 마련한 첫 중장기 계획이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CTI3E3BEWZBLHASDZ6EVLMOQ24.png"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=김성규&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정부는 올해부터 2029년까지 5년간 시행하는 이 계획에 따라, 온라인 마약 유통 전담 수사팀을 보강하고 텔레그램 등 온라인 메신저 운영사들과 공조해 온라인 마약 유통망 해체에 나선다. 수사관이 마약 판매자나 구매자로 위장해 수사할 수 있도록 하고, 마약 범죄 제보자 보상금도 현행 5000만원에서 최대 3억원으로 늘리기로 했다. 수사에 협조한 마약 사범에게는 형벌을 감면해주기로 했다. 정부는 또 온라인 메신저 채널과 다크 웹(특정 프로그램으로만 접속할 수 있는 비밀 사이트)을 상시 감시해 마약 광고를 잡아내고, 마약 광고 사이트 접속 차단을 위해 방송통신심의위원회 심의 절차를 간소화하기로 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6IFYYZBO2JJ35NGB6ZE25IEGTY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;강선봉 서울경찰청 마약범죄수사2계장이 2024년 10월 31일 서울 마포구 서울경찰청 광역수사단에서 열린 유흥업소에서 엑스터시, 케타민 판매 실운영자 등 마약류 유통, 투약 사범 검거 관련 브리핑에서 검거 장면을 공개하고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;해외 마약류 반입을 막기 위해 내·외국인 입국 단계에서 AI 기술을 활용해 마약 소지 가능성이 큰 대상을 추려내 집중 검사하는 제도도 도입된다. 국내로 들어오는 화물·우편물에 대해서도 투사 검색기 같은 장비를 도입해 검사한다. 국내로 마약을 많이 발송하는 국가에 대해선 수사관을 파견해 현지 단속에 나서고, 마약 단속 국제 작전에도 한국 수사기관이 적극 참여하기로 했다. 마약을 투약하고 운전하는 것으로 의심되는 사람에 대한 경찰의 현장 단속 권한은 음주 운전 단속 권한과 같은 수준으로 강화한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AFOHPI5ELJFIRJHVF7ZXUOZZTA.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=김성규&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정부는 의료용 마약류 오남용을 막기 위해 의사가 환자에게 마약류를 처방하기 전에 기존 마약 투약 이력을 폭넓게 확인할 수 있도록 하고, 오남용이 우려되는 경우에는 처방을 거부할 수 있게 한다. 의사가 자기에게 마약성 마취제를 처방하는 것도 제한한다.&lt;br&gt;&lt;br&gt;정부는 마약중독 상담 센터도 24시간 가동하기로 했다. 또 마약중독 여부를 익명으로 검사받을 수 있게 한다. 정부는 중증 마약중독자는 권역별 치료 보호 기관에서, 경증 중독자는 의원급 정신 의료 기관에서 치료받을 수 있도록 했다. 또 치료 보호 기관과 재활 기관을 연계해, 치료 보호를 받은 사람이 이후에도 재활 기관에서 지속적으로 전문 상담사의 관리를 받을 수 있도록 할 계획이다. 마약중독자 공동 입소 시설을 설치해, 중독자들이 함께 생활하면서 치료를 받을 수 있게 하는 방안도 추진된다.&lt;br&gt;&lt;br&gt;정부는 또 초·중·고등학교 마약 예방 교육을 강화하고, 대학에도 신입생 오리엔테이션에서 마약 예방 교육을 하도록 권고할 예정이다. 군인에 대해서는 훈련소와 교육기관에서 마약 예방 교육을 의무적으로 받게 하기로 했다. 또 군에 마약이 확산하는 것을 막기 위해, 병역 판정 검사와 입영 판정 검사에서 마약류 검사를 진행하기로 했다. 휴가·외출을 나갔다가 돌아오는 군인들에 대해선 반입 물품을 대상으로 마약류 여부를 집중적으로 검사하기로 했다.&lt;br&gt;&lt;br&gt;정부는 의료용 마약류를 경험했다가 마약중독에 빠지지 않도록 미성년자에 대한 의료용 마약류 처방 기준을 별도로 마련하기로 했다. 미성년자가 마약류 투약 사범이 된 경우에는 의무적으로 치료 보호를 받도록 할 계획이라고 정부는 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘빈손’ 공수처, 3일 연속 보여주기식 강제 구인 쇼</title>
+      <link>https://www.chosun.com/national/court_law/2025/01/23/M3NUJJ5DU5AVRK3HBN3B657XFU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/01/23/M3NUJJ5DU5AVRK3HBN3B657XFU/</guid>
+      <dc:creator>이슬비 기자, 유종헌 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 22 Jan 2025 15:55:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3EGPQSKI5FDWXGX7PLPNMWH5NE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;오동운 고위공직자범죄수사처(공수처) 처장이 22일 경기 정부과천청사에 있는 공수처로 출근하고 있다. 이날 공수처는 서울구치소에 수감된 윤석열 대통령에 대한 강제 구인을 시도했으나 실패했다. 대통령 관저와 대통령실에 대한 압수수색도 시도했으나 무산됐다. 공수처가 ‘수사쇼’를 하고 있다는 비판이 나왔다./ 고운호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;고위공직자범죄수사처(공수처)가 22일 내란 우두머리 등 혐의로 서울구치소에 구속 수감된 윤석열 대통령을 공수처 조사실로 데려가겠다며 사흘 연속 강제 구인을 시도했다. 그러나 윤 대통령의 거듭된 조사 거부로 강제 구인, 방문 조사 모두 하지 못하고 5시간 만에 철수했다. 공수처는 이날 대통령 관저와 대통령실에 대한 압수수색도 시도했지만, 대통령실과 경호처가 승인하지 않아 무산됐다. 법조계에선 “공수처는 대통령이 정당한 사법 절차에 응하지 않는다는 ‘이미지’를 만들기 위해 ‘수사쇼’를 하고 있다”는 비판이 나왔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Q3TGH7PAH5GUHJZUQQ4EVRKSCM.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=김현국&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;◇공수처장 “사법부 결정 존중해야”&lt;/b&gt;&lt;br&gt;&lt;br&gt;오동운 공수처장은 22일 출근길에 기자들을 만나 “소환에 불응해 불가피하게 오늘 중 최대한 강제 구인을 하겠다”고 했다. 그러면서 “대통령 측도 사법부 결정을 존중할 필요가 있다”며 “이의가 있다면 법 테두리 내에서 불복 절차를 따르면 된다”고 했다. 윤 대통령이 사법 절차를 지키지 않고 있다는 듯한 발언이다.&lt;br&gt;&lt;br&gt;이에 윤 대통령 변호인단은 “위법한 수사, 인권침해로 법을 위반한 건 공수처”라고 반박했다. 사법부 결정을 존중하라고 하기 전에 현직 대통령의 인권도 존중해야 한다는 것이다. 윤 대통령 측은 “강제 구인은 헌법이 보장하는 진술거부권을 침해해 진술을 강요하는 것으로 위법하다”며 “방어권 보장을 위한 필수불가결한 권리인 변호인 접견을 강제로 중지하고 구인하려는 것은 또 다른 불법행위”라고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FT4N2GCSGX7BQIOQJLYIRXZW5Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령이 21일 서울 종로구 헌법재판소에서 열린 탄핵심판 3차 변론기일에 출석해 있다./김지호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;공수처는 윤 대통령에 대해 변호인 외 접견 금지, 서신 수·발신 금지 조치도 내린 상태다. 차장검사 출신 김종민 변호사는 “잡범도 출정을 거부하면 검사들이 구인하지 않는다”며 “구인해도 진술거부권을 행사하면 아무런 수사 실익이 없지 않으냐”고 했다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇법조계 “尹 불응 이미지 쌓기 여론전”&lt;/b&gt;&lt;br&gt;&lt;br&gt;공수처는 이날 오전 10시 30분부터 관저와 대통령실에 대한 압수수색도 시도했지만 6시간여 만에 무산됐다. 이번 압수수색은 비화폰 서버를 확보하기 위한 것으로 알려졌다. 불과 이틀 전(22일) 경찰 특별수사단도 같은 목적으로 대통령실 등에 대한 압수수색을 시도했지만 무산됐었다. 이를 두고 법조계에선 “윤 대통령이 불응하고 있다는 이미지를 쌓기 위해 무리한 수사를 이어가고 있다”는 지적이 나온다.&lt;br&gt;&lt;br&gt;장영수 고려대 교수는 “공수처가 단계적인 수사를 하지 않고, 대통령을 체포·구속만 하면 모든 것이 해결될 것처럼 성급하게 몰아붙이더니 결국 아무런 성과가 없다”면서 “수사 목적이 꼭 ‘대통령 망신 주기’ 같은 느낌이 든다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OXJFJRQ3ZRNS5H5KS56QI4MCVI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt; 윤석열 대통령에 대한 강제구인을 시도한 고위공직자범죄수사처 직원들이 20일 서울구치소에서 경기도 과천 공수처로 복귀하고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;◇병원行 알고도 강제 구인하러 구치소에&lt;/b&gt;&lt;br&gt;&lt;br&gt;공수처는 윤 대통령이 지난 21일 헌법재판소의 탄핵 심판 변론 기일을 마치고 병원에 갔다는 사실을 알고도 강제 구인하겠다며 서울구치소를 찾은 사실도 드러났다. 법무부는 이날 오후 “서울구치소는 공수처 수사관에게 대통령의 진료 일정이 있다는 점, 구치소 복귀 시점은 알 수 없다는 점을 미리 알렸는데, 공수처는 이를 통지받은 뒤 구치소를 방문해 대기했다”고 밝혔다. 결국 공수처가 윤 대통령의 구치소 복귀가 늦어질 것이라는 사실을 알고도 강제 구인을 할 것처럼 시늉만 한 셈이 됐다. 검사장 출신 한 변호사는 “체포는 경찰이 하고, 수사 기록은 검찰에서 받고, 기소도 검찰이 한다”며 “공수처는 아무것도 할 수 있는 게 없으니 언론 플레이나 하고 있는 것 같다”고 했다.&lt;br&gt;&lt;br&gt;한편, 윤 대통령은 21일에 이어 23일에도 헌법재판소 탄핵 심판 변론에 출석한다. 이날은 김용현 전 국방장관의 증인신문이 진행된다. 이 때 법률가인 윤 대통령이 직접 김 전 장관에게 질문할 가능성도 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/3EGPQSKI5FDWXGX7PLPNMWH5NE.jpg?width=5000&amp;height=3333&amp;auth=d3269889ea8d04ec3b56f22e84dfd19aedc6955b3706ca5979d828efdde56ef2&amp;smart=true" type="image/jpeg" height="3333" width="5000">
+        <media:description type="plain">오동운 고위공직자범죄수사처(공수처) 처장이 22일 경기 정부과천청사에 있는 공수처로 출근하고 있다. 이날 공수처는 서울구치소에 수감된 윤석열 대통령에 대한 강제 구인을 시도했으나 실패했다. 대통령 관저와 대통령실에 대한 압수수색도 시도했으나 무산됐다. 공수처가 ‘수사쇼’를 하고 있다는 비판이 나왔다./ 고운호 기자</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>‘서부지법 난입’ 58명 무더기 구속… 시국 사건으론 16년 만에 최다</title>
+      <link>https://www.chosun.com/national/national_general/2025/01/23/R3GBZ5M4ZVDZVMOI7TTKVKPBYQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/23/R3GBZ5M4ZVDZVMOI7TTKVKPBYQ/</guid>
+      <dc:creator>박정훈 기자, 구동완 기자, 강지은 기자, 김도균 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 22 Jan 2025 15:55:00 +0000</pubDate>
+      <content:encoded>지난 18~19일 서울서부지법에서 난동을 벌이다 입건된 56명이 22일 구속됐다. 이틀 전 구속영장이 발부된 2명까지 포함, 이번 사태로 구속된 난동자는 58명이다. 경찰은 19일 새벽 법원 내부에 난입한 100여 명을 전원 구속 수사한다는 방침이어서 구속자 숫자는 늘어날 가능성이 있다. 64명이 구속된 2009년 쌍용차 사태 이후 16년 만에 최다 인원이 구속된 시국 사건이다.&lt;br&gt;&lt;br&gt;서부지법 형사4단독 홍다선 판사와 형사9단독 강영기 판사는 21일 검찰이 구속영장을 청구한 서부지법 난동자 58명에 대한 구속 전 피의자 심문(영장실질심사)을 진행하고 그중 56명에 대해 “도주 우려가 있다”며 구속영장을 발부했다. 앞서 서부지법 신한미 영장 전담 부장판사는 앞서 20일 2명에게 구속영장을 발부했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RBJZAQVN3FAZ7IF4FFSARUXZL4.png"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;22일 구속된 56명을 혐의별로 살펴보면 폭력 행위 등 처벌에 관한 법률 위반(공동 주거 침입) 39명, 특수 공무 집행 방해 12명, 공용 건물 손상 1명, 공용 건물 손상 미수 1명, 특수 폭행 1명, 건조물 침입 1명, 공무 집행 방해 1명으로 나뉜다. 20일 구속된 2명은 공무 집행 방해 혐의를 받는다.&lt;br&gt;&lt;br&gt;경찰이 21일 구속영장을 신청한 40대 이모씨는 과거 전광훈 목사의 사랑제일교회 ‘특임전도사’였던 것으로 알려졌다. 이씨는 사태 당시 법원 7층 판사실 문을 발로 차는 등 사태 주동자 중 하나로 지목되고 있다.&lt;br&gt;&lt;br&gt;시국 사건에서 50명 이상이 구속된 사건은 2009년 쌍용차 사태(64명 구속) 이후 16년 만이다. 2003년 11월엔 민주노총이 서울시청 앞에서 전국 노동자 대회를 열면서 경찰을 향해 화염병 700여 개를 투척하고 보도블록을 깨 투척전까지 벌여 시위 주동자 53명이 구속됐다. 2006년 평택 대추리 사태 때는 541명이 입건됐으나 20명만 구속됐다. 2006년 포스코 사태 땐 노조원 58명이 구속됐다.&lt;br&gt;&lt;br&gt;2009년 용산 참사 때는 농성자 5명, 경찰 1명이 숨졌다. 구속자는 8명이었다. 같은 해 쌍용차 사태 때는 64명이 구속됐다. 이는 1997년 100여 명이 구속된 한총련 출범식 사태 이후 12년 만에 최대 공안 사건이었다.&lt;br&gt;&lt;br&gt;2015년 11월 민주노총 폭력 시위 때는 경찰관 90여 명이 부상했다. 당시 검찰은 한상균 위원장에게 특수 공무 집행 방해 치상과 집회 시위법 위반 등 혐의를 적용했고 20명이 구속됐다.&lt;br&gt;&lt;br&gt;이번 서부지법 사태 입건자는 90여 명으로 과거 시국 사건과 비교하면 크게 많지 않다. 그럼에도 구속자 숫자가 상당한 이유는 집단으로 국가기관을 습격한 죄질을 무겁게 봤다는 것이 경찰의 설명이다.&lt;br&gt;&lt;br&gt;전국법관대표회의는 22일 이번 사태에 대해 “사법부의 기능을 침해하고 헌법 질서의 근간을 훼손하는 행위로 결코 용인될 수 없다”고 했다. 정태호 경희대 교수는 “헌법기관을 폭력으로 파괴하는 행위에 사회적 경종을 울려야 한다”고, 장영수 고려대 교수는 “국가 삼권 중 하나인 사법부라는 ‘시스템’을 공격한 것으로, 민주주의·법치주의를 파괴해 무정부 상태로까지 치달을 수 있는 중범죄”라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>사법 불신 출발점은… 文정부 때 ‘사법부 적폐 수사’</title>
+      <link>https://www.chosun.com/national/court_law/2025/01/23/YGHT7AKVVNCYJL2B7P4RJJL57I/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/01/23/YGHT7AKVVNCYJL2B7P4RJJL57I/</guid>
+      <dc:creator>방극렬 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 22 Jan 2025 15:55:00 +0000</pubDate>
+      <content:encoded>법조계에서는 서울서부지법 난동 사태의 배경이 된 ‘사법 불신’은 지난 2018년 불거진 이른바 ‘사법 행정권 남용’ 사태가 계기가 됐다는 평가가 나온다. 양승태 전 대법원장과 박병대·고영한 전 대법관을 비롯한 고위 법관 14명은 ‘재판 개입’ ‘판사 블랙리스트’ ‘법관 비위 은폐’ 등 혐의로 기소됐다.&lt;br&gt;&lt;br&gt;당시 문재인 대통령이 대법원을 찾아 “의혹이 규명돼야 한다”고 주문하고, 김명수 전 대법원장이 “협조하겠다”고 답하면서 수사는 시작됐다. 서울중앙지검장이던 윤석열 대통령 지휘 아래 검찰은 법원행정처를 10시간 압수 수색했고 100명이 넘는 전·현직 판사들을 소환 조사했다. 강도 높은 수사가 진행되며 언론에 각종 피의 사실이 실시간으로 흘러나왔다. 양승태 대법원이 숙원 사업이던 상고법원 도입 등을 위해 일제 강제 동원 피해자 소송 등에 개입했다거나, 특정 성향의 판사들을 뒷조사하고 인사 불이익을 줬다는 보도가 이어졌다.&lt;br&gt;&lt;br&gt;검찰은 2019년 1월 양 전 대법원장의 구속영장을 청구했고, 법원은 이를 발부했다. 검찰은 296쪽 분량의 공소장에 전직 대법원장의 혐의 47개를 상세하게 적었다. 대법원장과 대법관들이 사법을 농단했다는 이유로 피고인석에 서자, 사법 불신은 극도로 심화되기 시작했다. 당시 법조계에선 “이제 국민이 재판 결과를 믿지 못할 것”이라는 말이 나왔다. 재판 개입 의혹이 제기된 강제 동원 사건 피해자들이나 통합진보당 이석기 전 의원은 사법부에 책임을 묻겠다며 손해배상 소송이나 재심(再審)을 청구하기도 했다. 여당이었던 민주당은 검찰 공소장 등을 근거로 법관 탄핵도 시도했다.&lt;br&gt;&lt;br&gt;그러나 양 전 대법원장은 기소 4년 11개월 만인 작년 1월 1심에서 무죄를 선고받았다. 이 사건으로 기소된 전·현직 법관 14명 중 6명은 무죄가 확정됐고, 나머지 중 1·2심에서 일부 유죄를 받은 경우도 3명뿐이다. 한 현직 판사는 “이 의혹으로 법원의 권위와 신뢰성이 크게 떨어졌다. 정치권이 입맛대로 판결을 재단하는 일도 늘었다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>조기대선 출마 묻자… 오세훈 “깊은 고민”</title>
+      <link>https://www.chosun.com/national/national_general/2025/01/23/I2L4SUJMAJFHVC7RGDGCWEUZAA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/23/I2L4SUJMAJFHVC7RGDGCWEUZAA/</guid>
+      <dc:creator>최연진 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 22 Jan 2025 15:55:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Q2FYX67SQBMUXA57HF2TWWF4TQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;오세훈 서울 시장./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;오세훈 서울시장은 조기 대선이 치러질 경우 출마 가능성에 대해 “대통령 탄핵 심판이 진행 중인데, 대선 출마 여부를 말하는 것은 일러도 너무 이르다”며 “깊은 고민을 하고 있다”고 했다.&lt;br&gt;&lt;br&gt;오 시장은 22일 서울시청에서 열린 신년 기자 간담회에서 기자 질문에 “확정되지 않은 사실을 전제로 말하는 것은 큰 틀에서의 원칙에 어긋난다”며 이같이 말했다. 그러면서 “4선(選) 서울시장으로서 쌓아온 경험은 저 개인의 역량이 아닌 일종의 공공재(公共財)”라며 “이 공공재는 여러 가능성을 가지고 있다”고 했다. 유보적 입장을 밝혔지만, 탄핵 심판이 마무리되고 차기 대선이 본격화하면 대권에 도전하겠다는 의사를 내비친 것으로 해석됐다.&lt;br&gt;&lt;br&gt;오 시장은 지금 ‘시대정신’으로 “비정상의 정상화”를 꼽았다. 그는 “탄핵 국면을 거치면서 많은 국민이 나라의 미래에 대해 진심으로 걱정하고 있다”며 “‘이제 좀 정상적인 리더십을 보고 싶다’ ‘여든 야든 정상적인 사람이 하는 합리적인 국정 운영을 보고 싶다’는 마음을 가질 수 있다고 생각한다”고 했다.&lt;br&gt;&lt;br&gt;오 시장은 최근 각종 여론조사에서 국민의힘이 더불어민주당을 앞선 상황에 대해 “민주당이 민생, 국민을 먼저 생각하는 게 아니라 집권을 먼저 생각하는 모습을 보고 국민이 실망한 것”이라고 했다. 그는 “한덕수 대통령 권한대행을 탄핵 소추해 안정적 국정 운영을 하지 못하게 만들고, 외교까지 정쟁의 도구로 삼아 국가를 위태롭게 하는 것을 보면서 국민이 등을 돌렸다”고 했다. 이재명 민주당 대표가 추진하겠다고 한 ‘전 국민 25만원 지급’ 정책에 대해서도 “조기 대선을 염두에 둔 인기 영합 정책”이라고 비판했다.&lt;br&gt;&lt;br&gt;다만 여당의 지지율 반등에 대해서도 “우리 당으로서는 독약”이라고 경계했다. 그는 “상대(민주당)의 실수에 기반한 득점은 지속 가능하지 않다. 우리 실력으로 올라가야 한다”며 “우리 당의 자중자애(自重自愛)를 주문한다”고 했다.&lt;br&gt;&lt;br&gt;한편 오 시장은 ‘정치 브로커’ 명태균씨와 연관돼 있다는 의혹과 관련, “‘황금폰(명씨 휴대폰)’이라는 게 검찰에 제출됐다는 소식을 듣고 참 기뻤고 다행이라고 생각했다”며 “그 안에 모든 일에 대한 대화가 존재한다고 하니, 검찰이 신속히 수사해 빠른 시일 내에 결과를 발표해 달라”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘제국의 위안부’ 박유하 민사 2심 승소</title>
+      <link>https://www.chosun.com/national/court_law/2025/01/23/YFP4WEIQVBDHJKORK5DU7WI77M/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/01/23/YFP4WEIQVBDHJKORK5DU7WI77M/</guid>
+      <dc:creator>박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 22 Jan 2025 15:54:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6GFIU2M5VNDZVAQP6ZTRW47W24.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;저서 ‘제국의 위안부’에서 일본군 위안부 피해자들의 명예를 훼손한 혐의로 기소돼 무죄를 확정받은 박유하(68) 세종대 명예교수가 민사 소송에서도 위안부 피해자들에게 배상할 책임이 없다는 판결을 받았다. 학문 저술은 법원이 아닌 학계·사회가 평가할 영역이며, 학자의 표현 자유​는 폭넓게 인정돼야 한다는 취지다.&lt;br&gt;&lt;br&gt;서울고법 민사12-1부(재판장 장석조)는 22일 고(故) 이옥선 할머니 등 위안부 피해자와 유족 13명이 박 교수를 상대로 낸 손해배상 청구 소송 항소심에서, “박 교수는 9000만원을 배상하라”는 1심 판단을 뒤집고 원고 패소 판결했다.&lt;br&gt;&lt;br&gt;2013년 8월 출간된 ‘제국의 위안부’는 위안부 문제에 대해 종전과는 다른 서술로 논란이 됐다. 위안부 피해자 할머니들은 2014년 6월 자신들을 ‘자발적 매춘부’ ‘(일본군과) 동지적 관계’ 등으로 매도했다며 손해배상 소송을 냈다. 1심은 2016년 박 교수가 허위 사실을 적시해 위안부 피해자들의 명예를 훼손하고 인격권을 침해했다며 배상 책임을 인정했지만, 2심 판단은 달랐다.&lt;br&gt;&lt;br&gt;재판부는 “책에 기재된 표현은 학문적 주장 내지 의견”이라며 “박 교수의 견해가 많은 지지를 받지 못할 수 있지만, 학계·사회의 평가 및 토론 과정을 통해 검증함이 바람직하다”고 했다. 그러면서 “불법행위 책임을 쉽게 인정한다면 자유롭게 견해를 표명할 자유를 지나치게 위축시킬 수 있다”고 했다. 박 교수가 허위 ‘사실’을 적시한 게 아니라 학자의 ‘의견’을 낸 것이어서 명예훼손에 해당하지 않는다는 것이다. 박 교수는 명예훼손 혐의로 기소된 형사 사건에서도 2023년 10월 대법원에서 무죄 취지의 판결을 받았고, 파기환송심을 거쳐 작년 4월 무죄를 확정받았다.&lt;br&gt;&lt;br&gt;재판부는 위안부 피해자들의 인격권도 침해되지 않았다고 판단했다. 재판부는 “위안부 피해자들이 다소 감정적인 영향을 받았다 해도 학문의 자유를 보장하는 헌법적 가치와 비교했을 때, 박 교수가 받아들일 수 있는 한도를 넘어 위안부 피해자들의 인격권을 침해했다고 보긴 어렵다”고 했다. 박 교수는 선고 후 지인들에게 “10년이나 걸렸다. 그동안 고생 많았고 고맙다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>교사들, 학부모 민원에 AI로 ‘착한 생기부’ 써</title>
+      <link>https://www.chosun.com/national/national_general/2025/01/23/MU4N5OSQTBHJ3MUSMBGI62CLWU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/23/MU4N5OSQTBHJ3MUSMBGI62CLWU/</guid>
+      <dc:creator>이호준 기자, 김병권 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 22 Jan 2025 15:54:00 +0000</pubDate>
+      <content:encoded>다음 달 초 학생 생활기록부 작성을 마감해야 하는 일선 초등학교 교사들이 인공지능(AI) 프로그램 삼매경에 빠져 있다. 학생의 장단점을 대략 입력하면 AI가 매끄러운 서술형 문장을 생성해줘 업무 부담을 덜어준다. 요즘 초등학교에선 ‘문제 학생’이라 할지라도 단점을 있는 그대로 입력하면 “왜 우리 애 생기부를 엉망으로 썼느냐”는 민원에 시달리기 일쑤인데 AI는 학생의 단점마저 마치 ‘장점의 그림자’처럼 그럴듯하게 포장해준다고 한다.&lt;br&gt;&lt;br&gt;경기 군포의 초등학교 교사 A씨는 “지난해부터 AI의 힘을 빌리면서 민원 걱정에서 해방됐다”고 했다. A씨는 “‘다른 친구의 공부에 참견하는 경우가 많은 학생’의 경우, ‘다른 친구들의 활동에 많은 관심을 보인다’ 정도로 AI가 순화해주는 식”이라며 “학생에 대한 전체적인 평가는 그대로 하되 민원으로부터 나 자신을 보호하기 위해 AI라는 타협점을 찾았다”고 했다.&lt;br&gt;&lt;br&gt;본지 기자가 일선 교사가 많이 활용하는 AI 프로그램을 이용해본 결과, 학생의 장점은 극대화하고 단점은 최소화하는 문장이 생성됐다. ‘인내, 산만함, 내성적, 목소리가 큼’ 같은 키워드를 넣었더니, ‘산만한 성향에도 불구하고 인내심을 가지고 수업에 임하는 모습이 인상적임’ ‘내성적인 성격으로 인해 처음에는 조용하지만, 점차 자신의 생각을 표현하려는 노력이 돋보임’ ‘목소리가 큰 편이어서 친구들과의 대화에서 자신의 의견을 분명하게 전달하는 모습이 긍정적임’ 같은 문장이 나왔다.&lt;br&gt;&lt;br&gt;교사들의 반응은 긍정적이다. 대구 수성구 초등학교에 근무하는 B씨는 “학생들은 전부 똑같은 활동을 했는데 다 다른 말을 만들어야 하니 그간 생기부 입력이 중노동이었다”며 “이제 AI에 부탁하기만 하면 다양한 표현을 만들어줘서 업무가 한결 수월하다”고 했다. 대구 북구의 다른 초등학교에서 교사로 근무 중인 C씨도 “‘집중하는 데 오래 걸린다’는 말도 ‘자기만의 속도로 진행한다’라는 식으로 곧잘 바꿔줘서 객관성과 공정성을 확보하기 용이하다”고 말했다.&lt;br&gt;&lt;br&gt;하지만 AI로 정제된 문장이 꼭 교육적이기만 한 것도 아니라는 반론도 나온다. 김학희 대한초등교사협회장은 “학창 시절 장단점을 명확하게 지적받아 개선하려는 노력도 건전한 시민을 양성하는 교육 과정”이라며 “교사·학생 관계가 스승과 제자가 아니라 서비스 제공자와 고객처럼 변질돼버린 세태의 씁쓸한 단면”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>해외 마약 조직 손잡고 122만명分 코카인 제조</title>
+      <link>https://www.chosun.com/national/incident/2025/01/23/PZXJAEUNBJEY7EO6HUXK2ID34U/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/01/23/PZXJAEUNBJEY7EO6HUXK2ID34U/</guid>
+      <dc:creator>인천=이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 22 Jan 2025 15:54:00 +0000</pubDate>
+      <content:encoded>122만명이 동시에 투약할 수 있는 분량의 코카인을 국내에 유통하려던 국제 마약 조직 일당이 붙잡혔다. 검찰은 “국내 코카인 범죄 역사상 최대 규모”라고 했다.&lt;br&gt;&lt;br&gt;인천지검 강력범죄수사부(부장 박성민)는 마약류 관리에 관한 법률 위반 등 혐의로 판매 총책 A(55)씨 등 6명을 구속 기소했다고 22일 밝혔다. 1명은 불구속 기소했다.&lt;br&gt;&lt;br&gt;이들은 2020~2021년 남미 콜롬비아에서 액체 형태의 코카인 80t을 부산항으로 몰래 들여왔다. 공사용 페인트를 수입하는 것처럼 위장했다.&lt;br&gt;&lt;br&gt;작년 6월 그 중 일부를 강원도 횡성군 창고에서 가공해 벽돌 모양의 코카인 덩어리를 만들었다. 코카인은 보통 시중에 가루 형태로 유통된다.&lt;br&gt;&lt;br&gt;국제 마약 조직 등이 파견한 콜롬비아 출신 코카인 가공 기술자 2명이 액체 코카인에 염산·황산 등을 섞어 코카인 덩어리를 만든 것으로 조사됐다. 검찰은 “액체 코카인은 페인트로 위장하기 쉽다는 점을 이용해 액체 코카인으로 세관을 통과한 뒤 고체로 만든 것”이라고 했다.&lt;br&gt;&lt;br&gt;이들이 만든 코카인은 총 61㎏으로 122만명이 동시에 투약할 수 있는 양이다. 300억원어치다.&lt;br&gt;&lt;br&gt;A씨는 필리핀계 캐나다인으로 캐나다의 범죄 조직 출신이고, 제조 총책인 B씨는 미국 로스앤젤레스의 한인 범죄 조직에서 활동한 전력이 있는 것으로 조사됐다. 검찰 관계자는 “이들이 범죄 조직에서 활동하면서 국제 마약 조직을 알게 된 것으로 보인다”고 했다.&lt;br&gt;&lt;br&gt;이들이 범행에 이용한 창고와 사무실의 임차료, 운반비 등은 전액 국제 마약 조직이 지원한 것으로 드러났다.&lt;br&gt;&lt;br&gt;검찰은 “이들은 원래 액체 코카인 대부분을 부산항을 거쳐 호주로 수출했으나 최근 국내 마약 수요가 증가하면서 국내 시장에도 유통하려다 적발됐다”며 “국제 마약 조직의 국내 진출 사실이 확인된 만큼 적극적인 대응이 필요하다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>17명 중 5명이 법정에… “차라리 교육감 선거 폐지해야”</title>
+      <link>https://www.chosun.com/national/education/2025/01/23/FAUBF3LFGNH3LG7H66EQM2OLL4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/education/2025/01/23/FAUBF3LFGNH3LG7H66EQM2OLL4/</guid>
+      <dc:creator>김민기 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 22 Jan 2025 15:54:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3MP3Z3UTFBDP5EJKVOTWFROWJ4.png"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=이철원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;오는 4월 2일 치르는 부산교육감 재선거에 진보·보수 진영 후보들이 속속 출마 선언을 하고 있다. 이번 선거는 하윤수 전 교육감이 사전 선거 운동 혐의로 기소돼 작년 12월 당선 무효형(벌금 700만원)이 확정됨에 따라 치러진다. 교육감은 벌금 100만원 이상 형이 확정되면 직을 잃는다. 작년 10월 서울에서 조희연 교육감이 불법으로 물러나 보궐선거가 치러진 데 이어, 제2의 도시 부산에서도 비슷한 일이 벌어지고 있는 것이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WUFCMS62SBBQFMX7SBAYUAXR7I.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=이철원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;22일 현재 진보 진영에선 김석준 전 부산시교육감과 차정인 전 부산대 총장 등 2명, 중도·보수 진영에선 박종필 전 부산교총 회장, 전영근 전 부산교육청 교육국장, 박수종 전 부산교육청 창의환경교육지원단장 등 3명이 예비 후보 등록을 했다.&lt;br&gt;&lt;br&gt;이 가운데 김 전 교육감은 2014년부터 2022년까지 8년간 부산교육감을 지내 지역 인지도가 높은 편이다. 그런데 김 전 교육감은 2018년 해직 교사를 위법하게 특별 채용한 혐의로 고발돼 1심 재판을 받고 있다. 당시 김 전 교육감은 전교조 부산지부에서 통일학교 관련 혐의(국가보안법 위반)로 해직된 교사 4명을 특별 채용해 달라는 요청을 받고 사실상 이들만을 위한 채용을 진행해 국가공무원법 위반과 직권남용 혐의로 공수처에 고발됐다. 이번 선거에 보수 후보로 출마한 전영근 후보도 2018년 당시 부산교육청 교육국장으로 재직하며 해직 교사 특별 채용 서류를 직접 결재한 인물이다.&lt;br&gt;&lt;br&gt;전국적으로 시·도 교육감들이 불법을 저질러 임기를 못 채우고 물러나거나 재판받는 사례는 비일비재하다. 지난 2022년 당선된 전국 시도교육감 17명 중 조희연·하윤수 등 2명이 비위로 물러났고 3명은 재판을 받고 있다. 당선자 3명 중 1명꼴로 법정에 선 것이다. 현재 재판받고 있는 3명 중 2명은 1심·항소심에서 당선 무효형을 선고받아 이대로 형이 확정되면 직을 잃는다. 교육계에서는 교육감들이 줄줄이 재판을 받고 비위로 물러나는 상황이 반복되자, 교육감 선거 제도 자체를 바꿔야 한다는 목소리가 힘을 얻고 있다.&lt;br&gt;&lt;br&gt;현재 교육감이 재판을 받고 있는 지역은 전북·경북·강원이다. 서거석 전북교육감은 2022년 선거 토론회에서 허위 사실을 공표한 혐의로 지난 21일 2심에서 당선 무효형인 벌금 500만원을 선고받았다. 같은 날 임종식 경북교육감은 뇌물 수수 혐의로 1심에서 징역 2년 6개월, 벌금 3500만원을 선고받았다. 신경호 강원교육감은 선거 때 불법 사조직을 만든 혐의 등으로 1심 재판이 진행 중이다. 특히 지난해 보궐선거로 새 교육감이 당선된 서울의 경우, 교육감 직선제 도입 후 역대 교육감들이 선거법 위반 등의 혐의로 모두 유죄 판결을 받았다.&lt;br&gt;&lt;br&gt;교육감 선거는 주로 대중 인지도는 낮고 정치 기반이 없는 교사나 대학교수 출신들이 출마하기 때문에 각종 위법에 연루될 가능성이 크다. 만약 불법으로 교육감이 물러나서 재선거를 치르면 추가 비용이 수백억 원씩 든다. 작년 10월 서울 교육감 보궐선거에만 565억원이 들었다. 학부모가 아닌 이상 교육감 후보가 누군지 관심도 없어 ‘깜깜이’ 선거로 불린다.&lt;br&gt;&lt;br&gt;육동일 충남대 명예교수는 “지금의 직선제는 초중고 교육을 책임져야 할 교육감들이 부패나 비리에 연루될 수밖에 없어 문제가 많다는 게 증명됐다”면서 “직선제는 폐지하고, 러닝메이트, 임명제 등 대안을 찾아야 한다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>전인갑 역사학회장</title>
+      <link>https://www.chosun.com/national/people/2025/01/23/B2GEVBVCIBGS7NW3ZH7GUYXFJY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/01/23/B2GEVBVCIBGS7NW3ZH7GUYXFJY/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Wed, 22 Jan 2025 15:53:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GG3MB2JWBFDF7I3SOGTJ4OVURE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전인갑 서강대 사학과 교수가 최근 역사학 분야 대표 학술 단체인 역사학회 제36대 회장(임기 2년)에 취임했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[부음] 김구자 별세 외</title>
+      <link>https://www.chosun.com/national/obituary-personnel/2025/01/23/BNTXCSVQP5F5NFWAR3EYPWAFSU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2025/01/23/BNTXCSVQP5F5NFWAR3EYPWAFSU/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Wed, 22 Jan 2025 15:53:00 +0000</pubDate>
+      <content:encoded>▲&lt;b&gt;김구자&lt;/b&gt; 별세, &lt;b&gt;최성훈 &lt;/b&gt;대명스테이션 대표·&lt;b&gt;최지훈&lt;/b&gt; 스타벅스코리아 법무팀 파트너 모친상, &lt;b&gt;박숙미&lt;/b&gt;·&lt;b&gt;정혜민&lt;/b&gt; 용인신촌중학교 교사 시모상=21일1시48분 서울아산병원, 발인 24일8시, (02)3010-2000&lt;br&gt;&lt;br&gt;▲&lt;b&gt;박장선&lt;/b&gt; 前 유나비즈니스호텔 대표 별세, &lt;b&gt;정경희 &lt;/b&gt;남편상,&lt;b&gt; 박성호 &lt;/b&gt;EBN 첨단산업부 기자·&lt;b&gt;박수미&lt;/b&gt; 부친상=21일13시7분 은평요양병원, 발인 24일17시, (02)351-4444&lt;br&gt;&lt;br&gt;▲&lt;b&gt;이기웅&lt;/b&gt; 前 충청은행장 별세, &lt;b&gt;이정호 &lt;/b&gt;Key System 대표·&lt;b&gt;이영호 &lt;/b&gt;前 한화/무역 상무 부친상=21일7시45분 서울아산병원, 발인 24일6시, (02)3010-2000&lt;br&gt;&lt;br&gt;▲&lt;b&gt;이정자&lt;/b&gt; 별세, &lt;b&gt;박가연&lt;/b&gt;·&lt;b&gt;박진우 &lt;/b&gt;유한킴벌리 부장 모친상, &lt;b&gt;이관후&lt;/b&gt; 국회사무처 입법조사처장 장모상, &lt;b&gt;김소연&lt;/b&gt; 유한킴벌리 부장 시모상=21일0시5분 서울아산병원, 발인 24일7시40분, (02)3010-2000&lt;br&gt;&lt;br&gt;▲&lt;b&gt;이춘자&lt;/b&gt; 별세, &lt;b&gt;송정민&lt;/b&gt;·&lt;b&gt;송현겸&lt;/b&gt;·&lt;b&gt;송지은&lt;/b&gt;·&lt;b&gt;송정훈&lt;/b&gt; 머니S 시장경제부장 겸 부국장 모친상, &lt;b&gt;박종국&lt;/b&gt;·&lt;b&gt;이동석&lt;/b&gt; 장모상, &lt;b&gt;이정미&lt;/b&gt;·&lt;b&gt;전지선&lt;/b&gt; 시모상, &lt;b&gt;송유근&lt;/b&gt;·&lt;b&gt;송민근&lt;/b&gt;·&lt;b&gt;송다은&lt;/b&gt; 조모상, &lt;b&gt;박지현&lt;/b&gt;·&lt;b&gt;박수현&lt;/b&gt;·&lt;b&gt;이승민&lt;/b&gt;·&lt;b&gt;이승준 &lt;/b&gt;외조모상=22일5시1분 대구가톨릭대학교병원, 발인 25일8시, (053)650-4444&lt;br&gt;&lt;br&gt;▲&lt;b&gt;정구홍&lt;/b&gt; 별세, &lt;b&gt;홍화자&lt;/b&gt; 남편상, &lt;b&gt;정덕영&lt;/b&gt;·&lt;b&gt;정제영&lt;/b&gt; 한국교육학술정보원 원장·&lt;b&gt;정주영&lt;/b&gt; 부친상, &lt;b&gt;이희숙&lt;/b&gt; 시부상=21일22시18분 이대서울병원, 발인 24일10시, (02)6986-4478&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[인사] 감사원 외</title>
+      <link>https://www.chosun.com/national/obituary-personnel/2025/01/23/ZBXIRCJZFJFI3DUDJ7I3P76HAQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2025/01/23/ZBXIRCJZFJFI3DUDJ7I3P76HAQ/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Wed, 22 Jan 2025 15:53:00 +0000</pubDate>
+      <content:encoded>▲&lt;b&gt;감사원&lt;/b&gt;◇과장 전보▷공공기관감사국 제4과장 문강희▷지방행정감사2국 제2과장 홍윤석▷심의실 법무담당관 박재영▷심의실 감사품질담당관 장수영&lt;br&gt;&lt;br&gt;▲&lt;b&gt;공정거래위원회&lt;/b&gt;◇국장급 전보▷대변인 정희은▷심판관리관 김근성▷시장감시국장 김문식&lt;br&gt;&lt;br&gt;▲&lt;b&gt;국민권익위원회&lt;/b&gt;◇실장급 전·출입▷기획조정실장 김선조▷행정안전부 지방자치인재개발원장 안준호&lt;br&gt;&lt;br&gt;▲&lt;b&gt;광운대&lt;/b&gt;▷대학원장 김남영▷스마트융합대학원장 겸 정보과학교육원장 노진서▷경영대학원장 이석준▷교육대학원장 최윤희▷상담복지정책대학원장 권경인▷환경대학원장 윤도영▷건설법무대학원장 이춘원▷전자정보공과대학장 정용식▷인공지능융합대학장 박병준▷공과대학장 채철균▷자연과학대학장 김상목▷인문사회과학대학장 문상현▷정책법학대학장 이혜영▷경영대학장 조은성▷참빛인재대학장 김성길▷인제니움대학장 겸 글로컬교육센터장 이승영▷교육혁신원장 박성현▷기획처장 정석재▷교무처장 전흥배▷학생처장 겸 생활관장 박세규▷입학처장 김문석▷대외국제처장 김상연▷총무처장 김재요▷관리처장 곽경호▷정보통신처장 이상주▷산학협력단장 정영욱▷중앙도서관장 윤이숙▷대학신문사주간 김소영▷캠퍼스타운사업단장 박태원&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“두려움 떠는 국민에 자비를”… 트럼프 면전서 호소한 주교</title>
+      <link>https://www.chosun.com/national/people/2025/01/23/4QU26MSD7JGGHM3KM7Z7FBMTUE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/01/23/4QU26MSD7JGGHM3KM7Z7FBMTUE/</guid>
+      <dc:creator>뉴욕=윤주헌 특파원</dc:creator>
+      <description/>
+      <pubDate>Wed, 22 Jan 2025 15:53:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HUSDRIPIAVINTAGTCTLWT2LATE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;21일 미국 워싱턴 DC 국립 대성당에서 설교한 마리앤 애드거 버드(65) 성공회 워싱턴 교구 주교
+/AP 연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“대통령님, 하느님의 이름으로 간청드립니다. 지금 두려움에 떨고 있는 우리 국민에게 자비를 베풀어 주십시오.”&lt;br&gt;&lt;br&gt;21일 미국 워싱턴 DC 국립 대성당에서 열린 ‘국가기도회’에서 설교를 맡은 매리앤 애드거 버드(65) 성공회 워싱턴 교구 주교가 도널드 트럼프 대통령을 바라보며 말했다.&lt;br&gt;&lt;br&gt;“게이·레즈비언·트랜스젠더 자녀를 두고 있어 두려움에 떨고 있는 민주당원·공화당원·무당파 국민들을 긍휼히 여겨주십시오.”&lt;br&gt;&lt;br&gt;전날 트럼프가 주관적인 성정체성을 인정하지 않고 ‘남성’과 ‘여성’이라는 두 생물학적 성별만 인정하겠다는 취지로 내린 행정명령의 부당함을 호소한 것이다. 버드 주교는 이어 “농작물을 수확하고 건물을 청소하고 양계장과 정육공장에서 일하는 사람들, 식당에서 설거지하고 병원에서 밤 근무 서는 사람들” 등 서민 노동자들의 직종을 언급했다. 그러면서 “이들 중에는 외국인이나 합법적 체류 서류가 없는 사람도 있을지 모르지만 이민자 대부분은 세금을 내는 선량한 이웃”이라며 “또한 교회·모스크·시나고그(유대교 회당)·구르드와라(힌두교 사원)·절에 다니는 신실한 신앙인들”이라고 말했다.&lt;br&gt;&lt;br&gt;“불법 이주자들이 미국 치안을 위협하고 있다”면서 전례 없는 규모의 추방 작전을 펼치겠다는 트럼프 이민 정책의 부당함을 강조하면서 이주자들이 미국 사회에 꼭 필요한 구성원 역할을 하고 있음을 강조한 것이다.&lt;br&gt;&lt;br&gt;조금은 떨렸지만 단호한 목소리로 또박또박 말하는 설교가 진행되는 동안 트럼프와 배우자 멜라니아 트럼프 여사, 며느리 라라 트럼프, 아들 트럼프 주니어, 딸 티파니 트럼프 등 직계가족 및 J D 밴스 부통령의 얼굴까지 잔뜩 굳었고 시시때때로 조금씩 일그러졌다. 트럼프는 불쾌한 듯 여러 차례 시선을 다른 곳으로 돌리기도 했다.&lt;br&gt;&lt;br&gt;국가기도회는 1933년 시작된 전통 있는 미국 대통령 취임 행사다. 기독교와 유대교·이슬람교·불교·시크교·모르몬교 등 10여 개 종파 지도자가 참석하는 범국가적 행사다.&lt;br&gt;&lt;br&gt;전날 취임식에서 ‘미국의 황금시대가 시작됐다’고 자신만만하게 외친 트럼프가 주요 방송사들이 생중계하는 국가기도회에서 설교라는 형식으로 ‘성소수자와 불법이주자 정책을 재고하라’는 요구를 받은 것이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4I7EKSPRRVBQDJFFKJZY3PIJCU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;21일 미국 워싱턴 DC 국립대성당에서 열린 국가기도회에 참석한 도널드 트럼프 대통령이 굳은 표정으로 앉아 있다. 그는 이날 설교에서 자신의 정책에 쓴소리한 메리앤 에드거 버드 주교를 맹비난했다. /AP 연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;버드 주교는 “(불법 체류자 단속으로) 부모를 빼앗길까 봐 두려워하는 우리 지역사회의 자녀들에게 자비를 베풀어주시고 전쟁 지역과 박해를 피해 고국 땅을 떠나는 사람들이 연민과 환영을 받을 수 있도록 도와 달라”는 말로 설교를 마쳤다. 트럼프는 이날 트루스소셜에 “설교를 한 소위 주교는 급진 좌파이자 강경 트럼프 혐오자였다”며 “그와 그 교회는 사과해야 한다”고 비판했다.&lt;br&gt;&lt;br&gt;갓 취임한 미국 대통령을 축복하는 자리에서 성직자가 핵심 정책의 재고·폐기를 공개적으로 요구하는 장면이 생중계되면서, 트럼프의 강경한 성소수자·이민 정책에 대한 회의론이 커질 수 있다는 관측도 나온다. 특히 트럼프가 내각에 남성 동성애자 두 명(스콧 베센트 재무 장관, 리처드 그리넬 대북특사)를 기용하고, 동성애 코드가 강한 가수·노래인 빌리지 피플의 ‘Y.M.C.A.’에 열광했다는 점에서도 정책 변경 요구가 커질 가능성이 있다는 관측이다.&lt;br&gt;&lt;br&gt;트럼프에게 당혹감을 안겨준 버드 주교는 성공회가 1992년 여성에게도 사제직을 허용한 뒤 워싱턴 교구에서 배출된 첫 여성 주교다. 로체스터대 역사학과를 우등으로 졸업했고 2011년 11월부터 워싱턴 교구를 이끌고 있다. 남편과 두 아들을 둔 아내이자 어머니이기도 하다.&lt;br&gt;&lt;br&gt;워싱턴 교구는 버드 주교를 “일하지 않을 때 자전거를 즐겨 타고 저녁에는 요리를 하는 평범한 사람”으로 소개한다. 버드 주교는 정치·사회적 소신은 뚜렷하게 밝히는 성직자로 평가받는다. 특히 트럼프에 대해서는 1기 때부터 줄곧 비판적인 입장을 보였다. 2020년 5월 미네소타주 미니애폴리스에서 흑인 남성 조지 플로이드가 경찰의 과잉 진압으로 질식사하면서 촉발된 대규모 인종차별 반대 시위(BLM·흑인 목숨은 소중하다)가 일어났을 때 트럼프를 강력하게 비판했다.&lt;br&gt;&lt;br&gt;버드 주교는 트럼프의 취임사를 유심히 듣고 당초 준비했던 설교 내용을 여러 차례 고쳤다고 한다. 그는 이날 뉴욕타임스에 “내가 대통령에게 하고 싶었던 말은 ‘이 나라는 당신에게 맡겨졌다는 것’이었다”면서 “지도자의 자질 중 하나는 자비”라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[리빙포인트] 세탁기에 헤어롤 넣어보세요</title>
+      <link>https://www.chosun.com/culture-life/living/2025/01/23/TY7ADC3DLJCSFDGE26CQIMZ23I/</link>
+      <guid isPermaLink="true">https://www.chosun.com/culture-life/living/2025/01/23/TY7ADC3DLJCSFDGE26CQIMZ23I/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Wed, 22 Jan 2025 15:50:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WAHVUTCACJB6BMMV2QSDPQEG6E.png"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=이진영&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;세탁기를 돌릴 때 벨크로 소재의 헤어롤을 2~3개 넣어보자. 먼지와 반려동물 털이 헤어롤에 붙어 빨래가 더 깨끗해진다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[오늘의 날씨] 2025년 1월 23일</title>
+      <link>https://www.chosun.com/national/transport-environment/2025/01/23/BL5VYIEZ2VF3THVVLWUG5JRDJA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/01/23/BL5VYIEZ2VF3THVVLWUG5JRDJA/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Wed, 22 Jan 2025 15:50:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TM4PHHIKRBH7XICLFNB3QEIK4Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[신문은 선생님] [재밌다, 이 책!] 75세에 그림 시작한 할머니의 교훈 “이제라도 시작해서 얼마나 다행인가요”</title>
+      <link>https://www.chosun.com/national/nie/2025/01/23/2BKUIJYWJRFM3ANGR27DGUMWZ4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/2025/01/23/2BKUIJYWJRFM3ANGR27DGUMWZ4/</guid>
+      <dc:creator>이진혁 출판편집자</dc:creator>
+      <description/>
+      <pubDate>Wed, 22 Jan 2025 15:50:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JUZYLEP3WJCEHAMV3IQROU6RQA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;모지스 할머니&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;이소영 지음｜출판사 홍익출판미디어그룹｜가격 1만5800원&lt;/b&gt;&lt;br&gt;&lt;br&gt;언젠가부터 ‘국민OO’이라는 말이 유행입니다. 국민가수, 국민배우, 국민MC, 심지어 국민여동생까지. 다소 과장된 표현이겠으나 국민 모두가 알 만큼 유명하고 또 호감이라는 뜻이겠지요. 책의 제목이기도 한 ‘모지스 할머니’는 미국인의 국민화가로 불립니다. 1961년 그녀가 세상을 떠나자 당시 대통령 존 F 케네디는 “모든 미국인이 할머니의 죽음을 애도합니다”라는 추도사를 발표할 정도였지요. 이 책은 미술 교육인인 저자가 모지스 할머니의 작품을 소개하는 예술 에세이예요.&lt;br&gt;&lt;br&gt;모지스가 다른 화가들처럼 이름이 아니라 ‘할머니’라는 애칭으로 불리는 이유는 그가 75세라는 늦은 나이에 작품 활동을 시작했기 때문입니다. 심지어 그는 전문적으로 미술 교육을 받은 적도 없죠. 모지스는 1961년 101세로 사망할 때까지 1600여 점이나 되는 작품을 남겼는데, 모두 그녀가 직접 보고 경험한 일상의 장면들을 그린 것이라고 합니다.&lt;br&gt;&lt;br&gt;전문 교육을 받지 않은 작가들을 ‘소박파’라고 불러요. 저자는 이들에게 ‘본능에서 표출된 순수함’이 있다고 말합니다. 이 순수함이 바로 모지스 할머니 작품을 관통하는 키워드입니다. 모지스 할머니가 작품 활동을 하던 20세기 초중반은 두 번의 세계대전과 경제 불황이 겹쳤던 격랑의 시기였습니다. 모지스 할머니의 순수함이 담긴 작품들은 어려운 상황의 연속으로 피폐해진 미국인들의 마음을 다독였죠.&lt;br&gt;&lt;br&gt;그의 작품 속 따뜻함은 동시대 사람들에게만 전해진 것은 아니었습니다. 모지스는 저자에게도 아주 특별한 작가라고 해요. 모지스의 대표작 중 하나인 ‘슈거링 오프’에는 함께 단풍나무 시럽을 만드는 마을 사람들이 그려져 있습니다. 저자는 그림 속 모습과 자신이 어릴 적 지내던 지리산 언저리 마을에서의 경험을 겹쳐봅니다. 그리고 “자연에서 얻는 재료로 만드는 음식은 그 무엇과 바꿀 수 없는 소중한 경험의 맛이 난다”는 감상을 남기죠. 미술 작품은 때때로 다른 문화를 공감할 수 있게 하는 공통의 언어가 되기도 합니다.&lt;br&gt;&lt;br&gt;“시간이 나면 나는 창밖의 풍경을 관찰합니다. 하지만 그림을 그릴 때면 눈을 감고 추억들을 떠올리죠.” 책 곳곳엔 그림과 함께 모지스 할머니가 남긴 말들이 쓰여 있습니다. 모지스 할머니가 건네는 말을 통해 우리는 풍경과 친해지는 법을 배우고, 때론 위로와 용기를 받기도 합니다. 모지스 할머니는 “저는 과일과 잼으로는 상을 받았지만 그림으로는 상을 못 받았어요”라고 말했어요. 우리가 좋아하는 일을 하는 데 평판이나 인정은 그렇게 중요한 것이 아니라는 것을 할머니의 인생을 통해 깨닫게 되지요.&lt;br&gt;&lt;br&gt;하지만 제가 가장 좋았던 말은 바로 이것이에요. “이제라도 그림을 그려서 얼마나 다행인지 모릅니다.” 조금 더 일찍 미술을 시작했으면 좋았겠다는 말에 모지스 할머니가 내놓은 대답이에요. ‘늦었다’ ‘안 된다’ ‘힘들다’···. 부정적 표현이 만연한 우리에게 가장 필요한 한마디일지 모르겠습니다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[신문은 선생님] [뉴스 속의 한국사] 조선 왕실 호위군, 한때 2만명 달하는 거대 조직이었죠</title>
+      <link>https://www.chosun.com/national/nie/2025/01/23/OKYUZ5ZMAZEZJIHTW2B3VPRPHU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/2025/01/23/OKYUZ5ZMAZEZJIHTW2B3VPRPHU/</guid>
+      <dc:creator>유석재 기자, 기획·구성=윤상진 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 22 Jan 2025 15:50:00 +0000</pubDate>
+      <content:encoded>최근 대통령경호처가 매일 뉴스에 등장하고 있습니다. 고위공직자범죄수사처(공수처)가 ‘내란 우두머리’ 등의 혐의로 윤석열 대통령에 대한 체포 영장을 집행하는 과정에서 경호처가 이를 방해했다는 비판이 있었죠. 한편에선 ‘경호처는 국가원수인 대통령을 경호하는 본연의 임무를 수행하고 있는 것’이라고 말하기도 합니다. 과거 우리 역사에서 지금의 대통령경호처에 해당한다고 할 수 있는 조직은 어떤 것이 있었을까요?&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EATU7PXXLRGHFNI27LIIR7V3VM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 종로구 광화문광장에서 수문장 순라 의식이 진행되고 있어요. '순라'는 궁궐을 경비하는 금군이 궁궐과 도성 안팎을 순찰하는 거예요. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;왕을 호위하는 ‘금군’, 그 핵심은 ‘내금위’&lt;/b&gt;&lt;br&gt;&lt;br&gt;중국과 한국 등 동북아시아 국가에서 임금과 궁궐을 지키는 친위대를 보통 금군(禁軍)이라고 했어요. 조선의 금군은 사병(개인이 사사로이 부리는 병사)에서 시작됐습니다. 1392년 조선을 개국한 태조 이성계는 자신의 사병을 기반으로 한 ‘의흥친군위’를 설치했습니다. 태조의 아들 이방원이 3대 태종으로 즉위한 후 금군은 체계를 갖춰가게 됩니다. 1407년(태종 7년) 조선 시대의 금군을 대표한다고 할 수 있는 ‘내금위’가 설립됐습니다. 역시 처음에는 태종의 신임을 받는 수하 병사들이 중심이었으며, 60~90명으로 구성된 정예부대였습니다.&lt;br&gt;&lt;br&gt;이후 나라의 기틀이 잡혀가면서 그 숫자는 늘어났습니다. 성종 때 완성된 조선의 법전인 ‘경국대전’에는 내금위의 정원이 190명이라고 규정했습니다. 주로 양반 자제로 편성됐고 엄격한 시험을 통해 선발된 내금위는 뛰어난 무술 실력과 임금의 신임을 받는 것이 중요했습니다.&lt;br&gt;&lt;br&gt;&lt;b&gt;‘내삼청’ ‘금군청’ 거쳐 ‘용호영’으로&lt;/b&gt;&lt;br&gt;&lt;br&gt;금군에는 내금위만 있었던 것은 아니었어요. 사극에 종종 등장하는 ‘겸사복’ 역시 조선 초기에 설립된 기관입니다. 정원 50명으로 이뤄진 겸사복의 특징은 주로 말을 타고 달리는 기병이라는 점이었어요. 이들은 신분보다 무예 실력을 더 중요하게 따졌기 때문에 양민과 서얼(양반 남성과 양민·천민 여성 사이에서 태어난 사람), 천민, 향화인(조선에 귀화한 외국인)까지 여러 계층 출신이 있었다고 합니다. 용모와 키, 학식까지도 중요하게 따졌다고 하네요.&lt;br&gt;&lt;br&gt;중종 때는 궁성 수비를 맡은 정원 50명의 ‘우림위’도 설치됐습니다. 우림위를 만들었던 이유는, 여진족이 자꾸 북방 국경을 침입하자 정예병인 내금위와 겸사복 병력을 파견하는 관행이 생겨 정작 궁궐 수비가 소홀해졌다는 문제의식 때문이었습니다. 이렇게 해서 조선의 금군은 내금위·겸사복·우림위의 ‘금군삼청’ 또는 ‘내삼청’이란 이름으로 불리게 됐어요. 이들은 병사들 중에서 가장 좋은 대우를 받았습니다. 사극을 보면 ‘내삼청 군사들은 무엇을 했기에 이런 변고가 일어났단 말이냐’ 같은 대사가 나오는데, 바로 내금위·겸사복·우림위를 뜻하는 것이었습니다.&lt;br&gt;&lt;br&gt;임진왜란·병자호란 이후 금군삼청은 변화를 겪었습니다. 효종 때 내금위·겸사복·우림위를 통합하는 ‘내삼청’이란 기관이 실제 만들어졌어요. 내삼청 정원은 700명이었습니다. 1666년(현종 7년)에는 이를 계승한 ‘금군청’이 설치됐고, 1755년(영조 31년) ‘용호영’으로 다시 명칭이 변경됐죠. 이 무렵 금군은 국왕을 호위할 뿐 아니라 한양 도성의 문 여덟 곳(사대문·사소문)을 비롯한 여러 곳에서 근무했고, 난잡한 행동이나 부정한 일을 조사해서 적발하는 일종의 내사 업무도 맡았다고 합니다. 백성들 입장에선 무시무시한 존재였겠죠.&lt;br&gt;&lt;br&gt;&lt;b&gt;정조 임금의 큰 그림 ‘장용영’&lt;/b&gt;&lt;br&gt;&lt;br&gt;그런데 국왕 경호의 업무에는 조선 22대 임금 정조(재위 1776~1800) 때에 이르러 매우 큰 변화가 일어나게 됩니다. 이미 경호 업무를 맡은 용호영(금군)이 존재하는 상황에서 또 다른 경호 부대가 창설된 것이죠. 아버지인 사도세자가 할아버지인 영조의 명으로 죽은 뒤 세손이 됐던 정조는 늘 신변의 위협을 느꼈고, 임금이 된 뒤에는 호위 강화에 나섰습니다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RZJMPLODSJGDDJF3ELUHVYFRMU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;조선 22대 왕 정조를 그린 국가 표준 영정. 정조는 50명 규모의 국왕 호위부대를 2만명까지 확대했어요. /전통문화포털&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그래서 임시로 만든 관청이 ‘숙위소’였습니다. 책임자인 숙위대장을 맡은 사람은 정조의 세손 시절부터 측근이었던 야심만만한 세도가 홍국영이었습니다. 정조는 즉위 초 홍국영에게 “경이 없었더라면 어찌 지금의 내가 있었겠는가!”라고 말하기도 했어요. 홍국영은 정조의 정적인 노론 벽파를 공격하는 데 ‘칼잡이’처럼 나섰고 최고 실세로 부상했으나, 정조의 후계 구도에 지나치게 개입하다가 1779년(정조 3년) 갑자기 실각했습니다. 이듬해 숙위소 역시 폐지됐습니다.&lt;br&gt;&lt;br&gt;그러나 정조에겐 ‘더 큰 그림’이 있었습니다. 1785년 국왕 호위 전담 부대인 ‘장용위’를 창설한 뒤 1793년 ‘장용영’으로 확대했던 것이죠. 장용위 때 처음 50명으로 시작한 이 조직은 나중엔 무려 2만명가량으로 확대됐고, 내·외영으로 나눠 내영은 한양 도성에, 외영은 수원 화성에 주둔시켰습니다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/P4B6VV5DMFEYDN4QRTMJVDRUW4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;1795년 수원에서의 일정을 마치고 한양으로 돌아가는 정조의 환궁 행렬을 그린 '환어행렬도'의 일부분. 장용영 소속으로 추정되는 호위 군사들이 정조의 어머니 혜경궁 홍씨가 탄 가마(가운데) 주위를 둘러싸고 있어요. /국립중앙박물관&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;장용영에는 국왕 호위를 넘어서서 기존 5군영을 통폐합해 조선군의 지휘 체계를 일원화하려는 정조 입장의 ‘국방 개혁’이자 ‘왕권 강화’라는 거대한 목적이 존재했다는 평가를 받습니다. ‘무예도보통지’ 편찬에 참여한 유명한 무관인 백동수도 장용영 출신이었습니다. 그러나 정조가 승하한 뒤 조정에선 막대한 예산이 드는 장용영을 유지할 이유가 없다고 봤고, 1802년 장용영은 폐지됐습니다.&lt;br&gt;&lt;br&gt;기존의 금군인 용호영은 개항 이후 ‘무위영’, 이어 ‘친위영’으로 개편됐고 이후 ‘훈련대’와 ‘시위대’가 업무를 맡다가 대한제국의 ‘친위대’로 통합됐습니다. 1910년 나라가 망하자 ‘조선보병대’가 창덕궁에 거주하던 순종의 경호를 맡았고, 1931년 조선보병대가 해체된 뒤 창덕궁경찰서가 옛 조선 왕가의 경호를 담당했습니다. 대한민국 정부 수립 이듬해인 1949년 창덕궁경찰서는 ‘경무대경찰서’로 바뀌어 대통령을 경호하게 됐죠. 1963년 대통령 직속 기관인 ‘대통령경호실’이 창설됐고, 2008년 이명박 정부 출범과 함께 대통령실 산하 ‘대통령경호처’로 격하됐습니다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[신문은 선생님] [생활 속 경제] 첨단 제품이 판매 부진 겪는 이유… 신기술 익숙해질 때까지 시간 걸려서죠</title>
+      <link>https://www.chosun.com/national/nie/2025/01/23/HRUTBCIACZCIPKBJUWBUD6HR7Y/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/2025/01/23/HRUTBCIACZCIPKBJUWBUD6HR7Y/</guid>
+      <dc:creator>연유진 '꼬리에 꼬리를 무는 경제이야기' 저자</dc:creator>
+      <description/>
+      <pubDate>Wed, 22 Jan 2025 15:50:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LAAFVIR4D5EW5DESP27MF2WFOA.png"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=박상훈&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Q. 국내 전기차와 배터리 산업이 ‘캐즘’에 빠졌다는 뉴스를 봤어요. 불황이 길어질 수도 있다는 말도 나옵니다. 캐즘은 무엇이고, 왜 이런 현상이 생기는 건가요?&lt;/b&gt;&lt;br&gt;&lt;br&gt;A. 요즘 우리나라 전기차와 배터리 산업을 우려하는 목소리가 커지고 있습니다. 글로벌 시장에서 전기차 판매가 줄어들면서 전기차에 들어가는 핵심 부품인 배터리 수요도 덩달아 감소할 거라는 전망이 나오기 때문이죠.&lt;br&gt;&lt;br&gt;캐즘(chasm)은 첨단 기술이 도입되는 과정의 과도기를 뜻해요. 첨단 기술이 적용된 신제품이 나오더라도, 이 제품이 많은 사람이 널리 사용하는 ‘주류 시장’으로 넘어가기 위해선 시간이 필요하거든요. 캐즘은 한 제품이 대중화되기 전까지 일시적으로 수요가 정체하거나 오히려 줄어드는 현상을 말해요. 원래 캐즘은 지각 변동으로 지층 사이에 생긴 깊은 틈을 뜻하는 지질학 용어인데, 지금은 경영학과 마케팅 분야에서도 쓰이고 있어요.&lt;br&gt;&lt;br&gt;캐즘은 왜 생기는 걸까요? 바로 얼리어답터(early adopter)와 일반 대중의 소비 성향이 다르기 때문입니다. 얼리어답터는 새 제품을 남들보다 앞서 경험하려고 하는 소비자들이에요. 그래서 기술 완성도가 떨어지고 가격이 좀 비싸도 기꺼이 새로운 제품을 구매하죠. 반면 대다수 소비자는 제품이 실용적인지, 품질이 믿을 만한지, 가격은 적당한지 꼼꼼히 따져보고 사요. 그러니 얼리어답터들의 지갑을 여는 데는 성공하더라도, 대중적으로 많이 팔리진 않는 거예요.&lt;br&gt;&lt;br&gt;전기차를 예로 들어볼게요. 최근 전기차 판매가 늘어나곤 있지만, 아직 내연기관차 자리를 위협할 만큼 주류로 올라서지는 못했죠. 전기차는 배터리를 한 번 충전했을 때 갈 수 있는 주행거리가 길지 않아요. 그런데 충전소는 아직 부족한 편이죠. 게다가 화재가 났을 때 내연기관차보다 위험하다는 인식도 퍼져 있어요. 그러니 아직 많은 소비자가 전기차 구매를 주저하고 있죠.&lt;br&gt;&lt;br&gt;첨단 기술이 캐즘을 뛰어넘으려면 가격·품질·안전성 등 제품 자체 경쟁력은 물론 제품을 편리하게 사용할 수 있는 인프라까지 마련돼야 해요. 아무리 혁신적인 제품이더라도 대중의 눈높이를 맞추지 못하면 점차 시장에서 사라지는 운명을 맞아요. 개인용 이동 수단으로 한때 주목받았던 ‘세그웨이’나 안경 형태 스마트 기기인 ‘구글 글라스’처럼 말이죠.&lt;br&gt;&lt;br&gt;현재 널리 쓰이는 기술과 제품도 한때 캐즘을 경험했어요. 대표적인 사례가 스마트폰인데요. 컴퓨터와 전화기를 결합한 모바일 기기를 만들려는 시도는 1990년대부터 있었어요. 하지만 비싼 가격, 작은 배터리 용량, 복잡한 사용 방법 탓에 한동안 외면 받았죠. 스마트폰 대중화 시대는 2007년 애플이 ‘아이폰’을 내놓으며 비로소 열렸어요. 캐즘 단계에 있는 전기차의 운명이 어떻게 될지는 조금 더 지켜봐야겠어요.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[스피킹이 강해지는 영어] feel the need to ~</title>
+      <link>https://www.chosun.com/national/nie/english/2025/01/23/HBAJSWPPFZB5PB2VX7NXTZA7WU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/english/2025/01/23/HBAJSWPPFZB5PB2VX7NXTZA7WU/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Wed, 22 Jan 2025 15:33:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UAU62RKS5ZCANHR6DXURA7H4S4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[매일매일 중국어 한마디] 설날 분위기</title>
+      <link>https://www.chosun.com/national/nie/chinese/2025/01/23/C7G2MT6DTBBMXGRRIM5Q5UDYCE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese/2025/01/23/C7G2MT6DTBBMXGRRIM5Q5UDYCE/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Wed, 22 Jan 2025 15:33:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QSC6W5UZSBDH3BPPLARYOCNCOM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[입에 착착 붙는 일본어] 첫발을 내딛다</title>
+      <link>https://www.chosun.com/national/nie/japanese/2025/01/23/VN2YLCWG4RBC3PTVB227QFCG4Q/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/japanese/2025/01/23/VN2YLCWG4RBC3PTVB227QFCG4Q/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Wed, 22 Jan 2025 15:33:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SH5V5VF45VC7THBXD3N52AIFTU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[신문으로 배우는 실용한자] 애창곡(愛唱曲)</title>
+      <link>https://www.chosun.com/national/nie/chinese_character/2025/01/23/5AVM4GHAW5BOVBI6PJLN2CAXEE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese_character/2025/01/23/5AVM4GHAW5BOVBI6PJLN2CAXEE/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Wed, 22 Jan 2025 15:33:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HYIVWL7IN5BLDLJXM37SNB2XBI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[두근두근 뇌 운동] [2549] 날씨 따라 삼천리</title>
+      <link>https://www.chosun.com/national/nie/2025/01/23/RLK5LEJXKRAJFITWU6X6EQTBC4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/2025/01/23/RLK5LEJXKRAJFITWU6X6EQTBC4/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Wed, 22 Jan 2025 15:33:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7RW5MQUHYNHC7PNQRKET2CLRAQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>‘노란 샤쓰의 사나이’ 가수 한명숙 별세</title>
       <link>https://www.chosun.com/national/national_general/2025/01/22/G3KGQJ6JABFMPJ3CTOKW3JS3FY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/22/G3KGQJ6JABFMPJ3CTOKW3JS3FY/</guid>
@@ -608,24 +837,6 @@
       </media:content>
     </item>
     <item>
-      <title>경찰에게 “쉿!”…보이스피싱 전화 받으며 파출소 찾아온 여성</title>
-      <link>https://www.chosun.com/national/national_general/2025/01/22/WR36B6TFDZBUJLKHW4NY33OQUU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/22/WR36B6TFDZBUJLKHW4NY33OQUU/</guid>
-      <dc:creator>정아임 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 22 Jan 2025 00:12:19 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WCEV3AZPFRCUFBXLQ3QLGEWOFU.png"&gt;&lt;figcaption&gt;&lt;small&gt;지난 9일 충남 당진시 합덕파출소를 찾은 한 여성이 조용히 해달라는 손짓을 하고 있다./경찰청 공식 유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;보이스피싱 전화를 받은 한 시민이 기지를 발휘해 경찰과 함께 범인을 현장에서 붙잡았다.&lt;br&gt;&lt;br&gt;21일 경찰청 공식 유튜브에는 ‘쉿! 시민이 경찰에게 조심스레 다가온 이유는?’이라는 제목의 영상이 올라왔다.&lt;br&gt;&lt;br&gt;이 영상에 따르면 지난 9일 충남 당진시 합덕파출소에 여성 A씨가 조심스레 방문했다. A씨는 파출소에 들어서면서 경찰에게 조용히 해달라며 손가락을 입에 갖다 대며 ‘쉿’ 사인을 보냈다. 그러고는 자신의 휴대전화를 가리켰다.&lt;br&gt;&lt;br&gt;이를 수상히 여긴 경찰은 A씨 휴대전화에서 나오는 통화 내용을 유심히 들었고, ‘보이스피싱 범죄’라는 것을 알아차렸다. A씨는 저금리 대환 대출을 미끼로 “기존 대출금을 상환하라”는 전화를 받고 보이스피싱이라는 걸 직감해 파출소를 찾은 것이었다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DI5M2DEKGFGMFGENLANHKFCOAE.png"&gt;&lt;figcaption&gt;&lt;small&gt;경찰과 시민이 협력해 보이스피싱범을 잡을 작전을 세우고 있다./경찰청 공식 유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰과 A씨는 이때부터 말 대신 종이에 글을 써가며 보이스피싱범 검거 작전을 시행했다. 경찰은 신고자에게 주의 사항을 당부한 후 즉시 출동했다. 사복 경찰관은 신고자의 차에 동승하고, 제복 경찰관은 개인 차를 타고 뒤따랐다.&lt;br&gt;&lt;br&gt;A씨는 약속 장소에서 보이스피싱범을 만나 현금 1500만원을 건넨 후 곧바로 자리를 떴다. A씨가 자리를 뜨자마자 경찰은 보이스피싱범이 도망가지 못하도록 주위를 둘러싼 뒤 현장에서 체포했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>평택 17층 아파트서 방화 추정 화재...주민들 대피 소동</title>
-      <link>https://www.chosun.com/national/regional/2025/01/22/24VEI7Z2BNBRJHY5DMJDNNUR2U/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/01/22/24VEI7Z2BNBRJHY5DMJDNNUR2U/</guid>
-      <dc:creator>평택=권상은 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 21 Jan 2025 23:27:52 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BVKRLQE6UO5JUP32UVF3FNKWA4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;22일 새벽 경기도 평택시의 한 아파트 3층에서 방화로 추정되는 화재가 발생했다. /경기도소방재난본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;22일 오전 4시 45분쯤 경기 평택시 안중읍의 17층짜리 아파트 3층에서 불이 났다.&lt;br&gt;&lt;br&gt;이 불로 아파트 주민 15명이 연기를 마셔 병원으로 옮겨지거나 현장 조치를 받았다. 또 주민 39명이 한때 대피했다.&lt;br&gt;&lt;br&gt;소방 당국은 펌프차 등 장비 30여 대와 소방관 등 인력 100여 명을 투입해 오전 5시7분쯤 불을 모두 껐다.&lt;br&gt;&lt;br&gt;경찰은 3층 주민인 20대 A씨가 술에 취해 집 안에 불을 지른 것으로 보고, A씨를 현주건조물방화 혐의로 체포해 정확한 경위를 조사하고 있다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>﻿설 연휴 214만명 몰리는데…”3시간 전 가도 빠듯” 인천공항 여행객 불만</title>
       <link>https://www.chosun.com/national/national_general/2025/01/22/7BTFBT5H3RF3RCLUEZRVEORU6Q/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/22/7BTFBT5H3RF3RCLUEZRVEORU6Q/</guid>
@@ -654,15 +865,6 @@
       <media:content url="https://www.chosun.com/resizer/v2/H4ONRAUZOFG3LGS3FJIYGROMLY.jpg?width=4724&amp;height=2405&amp;auth=237d47b15ddbc6c17e6f9d56a958de04cd25f47862dc5bf3fc55ee7015f3c40f&amp;smart=true" type="image/jpeg" height="2405" width="4724">
         <media:description type="plain">21일 오후 서울 종로구 재동 헌법재판소에서 윤석열 대통령 탄핵심판 3차 변론기일이 열리고 있다. 윤 대통령이 피청구인 측에 자리하고 있다./김지호 기자</media:description>
       </media:content>
-    </item>
-    <item>
-      <title>[단독] 공공 도서관에 열람실이 점점 사라지네</title>
-      <link>https://www.chosun.com/national/education/2025/01/22/BNJG7NOK75HZXOGZ5ZYUVKUIFE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2025/01/22/BNJG7NOK75HZXOGZ5ZYUVKUIFE/</guid>
-      <dc:creator>오주비 기자, 김민기 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 21 Jan 2025 20:00:00 +0000</pubDate>
-      <content:encoded>손해사정사 자격증 시험을 준비하고 있는 전모(33)씨는 지난 15일 서울 노원구 월계도서관을 찾았다가 깜짝 놀랐다. 공부할 수 있는 열람실이 사라졌기 때문이다. 이 도서관은 리모델링을 거쳐 지난 14일 재개관했는데, 4층에 170여 석 규모 열람실은 없애고 대신 음악 감상 및 휴게 공간을 만들었다. 전씨는 “원래 열람실이 자리 잡기 어려울 정도로 인기가 많았는데, 왜 없앴는지 모르겠다”면서 “책 빌리는 자료실 한쪽에서 공부해야 하나 고민”이라고 말했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NFFO54RCVVCBPKMWYLIEZMD46A.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=양인성&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;공공 도서관에서 ‘열람실’이 사라지고 있다. 서울시교육청에 따르면, 교육청 산하 도서관 17곳의 열람실 좌석은 2020년 총 5335석에서 지난해 4390석으로 4년 새 945석(18%) 줄었다. 대구시 공공 도서관 41곳 중 열람실이 있는 곳은 7곳뿐이다. 부산 역시 공공 도서관 53곳 중 24곳에 열람실이 없다.&lt;br&gt;&lt;br&gt;열람실이 사라지는 건 최근 수년 새 벌어진 일이다. 강조되는 도서관의 주요 기능이 ‘공부 장소’에서 ‘문화 활동’으로 바뀌면서 열람실을 없애고 문화 강좌 등 시민들이 다양한 활동을 하는 다목적실을 만드는 추세이기 때문이다. 대통령 소속 국가도서관위원회의 ‘제4차(24~28년) 도서관 발전 종합 계획’에도 ‘문화·학습·체험 프로그램 확대’ ‘지역 특화 프로그램 개발’ 등이 주요 계획으로 들어갔다. 대구시 관계자는 “열람실은 학생들 시험 기간에만 붐비고, 시민들이 동아리 활동 등을 할 수 있는 공간을 원하고 있다”면서 “한정된 도서관 공간을 상시 효율적으로 쓸 수 있는 방향을 고민할 수밖에 없다”고 말했다.&lt;br&gt;&lt;br&gt;하지만 학생들과 취업 준비생들은 불만이다. 열람실 규모를 177석에서 97석으로 줄인 서울 동작도서관에는 민원이 종종 접수되고 있다. 이곳은 노량진 고시촌 근처에 있어 각종 시험 준비생들이 많이 찾는다. 한 시민은 도서관 홈페이지에 “고시 공부하는 구식 도서관 탈피하고 미래형 도서관 만든다면서 (열람실) 좌석 없앤 건 심각한 문제”라면서 “좌석 수가 줄었으니 (1인당) 점유 시간을 제한하거나 조치를 취하지 않으면, 사람 쫓아내는 도서관으로 인식될 것”이라고 했다. “열람실 학습 공간이 축소되어 이용자가 오히려 불편해지고 아쉽다”는 의견도 올라왔다.&lt;br&gt;&lt;br&gt;도서관 열람실이 사라지면서 학생들은 스터디 카페에서 공부하는 경우가 많다. KB국민카드에 따르면, 전국 스터디 카페는 2015년 112곳에서 지난해 6944곳이 돼 9년 새 62배로 늘었다. 특히 가정 형편이 어려운 학생들에겐 스터디 카페 비용은 부담이다. 스터디 카페 이용료는 시설마다 다르지만, 보통 하루 4시간 이용에 4000~6000원 정도다. 시험 기간 2주일에 6만~9만원이 나가는 셈이다. 지역 온라인 커뮤니티에는 ‘우리 동네엔 국민 임대주택이 많은데 도서관 열람실이 없는 건 문제’라는 글도 최근 올라왔다.&lt;br&gt;&lt;br&gt;최근 교육부는 학생들이 공부할 공간이 없다는 지적이 이어지자 ‘공공 스터디 카페’를 만들겠다고 발표했다. 비어 있는 공공 시설을 찾아서 학생들이 무료로 공부도 하고 EBS 강의도 들을 수 있는 곳으로 만들겠다는 것이다. 일각에선 “접근성과 시설이 좋은 도서관 열람실은 없애면서, 다른 공공 시설을 찾아서 또 열람실을 만드는 건 앞뒤가 안 맞다”는 지적이 나온다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>편지 금지, 강제구인 재시도… ‘수사 빈손’에 막무가내 공수처</title>
@@ -717,24 +919,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UI3LALY2L5CY3EHG2CFBR26XNA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;21일 오전 서울 광화문 상공에서 바라본 광장과 세종대로 일대가 미세 먼지로 뿌옇다. 이날 오후 1시 기준 서울 종로구의 1시간 평균 초미세 먼지 농도는 113㎍/㎥까지 치솟았다. /장련성 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한파(寒波)가 지나니 미세 먼지 공습이 시작됐다. 지난 20일에 이어 21일에도 전국 하늘이 잿빛으로 부옇게 변했다. 22일에는 중국발(發) 미세 먼지가 또 한 차례 유입돼 미세 먼지 농도가 더 짙어질 것으로 예보됐다. 공기 질은 금요일인 24일까지 탁할 것으로 보인다.&lt;br&gt;&lt;br&gt;21일 국립환경과학원과 기상청에 따르면, 24일까지 우리나라는 고기압 영향권에서 대기 흐름이 다소 정체된 가운데 서풍(西風)을 타고 중국에서 들어온 미세 먼지가 내륙을 빠져나가지 못할 것으로 전망됐다. 1월은 중국에서 석탄 난방을 때며 미세 먼지가 집중 유입되는 시기다. 미세 먼지(PM10)와 초미세 먼지(PM2.5)가 함께 들어오는데, 입자가 작은 초미세 먼지가 더 먼 지역까지 확산하기 때문에 전국적으로 초미세 먼지 농도가 더 짙을 것으로 예상됐다.&lt;br&gt;&lt;br&gt;21일 오후 1시 기준 서울의 1시간 평균 초미세 먼지 농도는 1㎥당 113㎍(마이크로그램)까지 올라갔다. 강북구가 148㎍까지 치솟았고, 강동구(140㎍)·노원구(137㎍) 등도 공기가 탁했다. 경기 양주(123㎍)·구리(120㎍), 충북 음성(145㎍)·증평(112㎍) 등에서도 100㎍을 훌쩍 넘겼다. 초미세 먼지는 기준 농도가 1㎥당 36~75㎍이면 ‘나쁨’, 75㎍을 초과하면 ‘매우 나쁨’에 해당한다. 미세 먼지는 입자가 작을수록 코점막에서 먼지가 걸러지지 않고 허파에 직접 침투하는 양이 많아지기 때문에 천식이나 폐 질환 발생 위험이 커진다.&lt;br&gt;&lt;br&gt;21일 아침에는 ‘먼지 안개’로 불리는 연무(煙霧)가 수도권과 강원·충청·전북을 중심으로 짙게 끼면서 가시거리가 200ｍ 미만으로 급격히 짧아지기도 했다. 이날 오전 8시 기준 충남 서산은 가시거리가 40ｍ, 경기 이천과 양주는 50ｍ, 강원 양구는 90ｍ 수준이었다. 연무는 습도가 낮을 때 대기 중에 미세 먼지 입자가 떠다니며 부옇게 보이는 현상이다.&lt;br&gt;&lt;br&gt;22일에는 중국에서 미세 먼지가 추가로 들어오며 공기 질이 더 나빠질 것으로 보인다. 서울을 비롯한 수도권과 충청·전라권은 초미세 먼지 농도가 ‘매우 나쁨’, 강원·경상·제주는 ‘나쁨’일 것으로 예보됐다. 미세 먼지 농도는 수도권과 강원·충청·전라권에서 ‘나쁨’, 경상·제주에서 ‘한때 나쁨’일 것으로 예상됐다.&lt;br&gt;&lt;br&gt;미세 먼지 농도가 갑자기 짙어진 것은 우리나라가 절기상 가장 추운 대한(大寒·1월 20일)을 지나 한파의 절정에서 벗어났기 때문이다. 이는 우리나라로 찬 공기를 불어넣는 대륙고기압 세력이 점차 약화하고, 한반도가 주로 고기압 영향권에 들게 된다는 뜻이다. 강한 바람이 불어오지 않으니 우리나라에 쌓인 미세 먼지를 제때 씻겨주지 못하기에 이때부터 미세 먼지가 심한 날이 많아지게 된다.&lt;br&gt;&lt;br&gt;대기가 꽉 막혀 중국발 미세 먼지뿐만 아니라 국내에서 발생한 미세 먼지까지 내륙에 잔류하는 현상은 금요일인 24일까지 이어질 것으로 보인다. 우리나라가 24일까지 중국 북부 지방에 위치한 고기압 가장자리에 들기 때문이다. 23일에는 전국에서 초미세 먼지가 ‘나쁨’ 수준일 것으로 전망됐고, 미세 먼지는 수도권과 충청·전북을 중심으로 오전 한때 ‘나쁨’을 기록한 뒤 오후에는 전국이 ‘보통’ 수준을 보일 것으로 예보됐다. 24일에도 서해상과 가까운 한반도 서쪽 지역을 중심으로 공기가 나쁠 것으로 예상된다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>‘공업화 상징’ 울산 공업탑 60년 만에 철거</title>
-      <link>https://www.chosun.com/national/regional/2025/01/22/K3BJVFQ3HBBIHBJURDQDJKYRZU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/01/22/K3BJVFQ3HBBIHBJURDQDJKYRZU/</guid>
-      <dc:creator>울산=김주영 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 21 Jan 2025 16:17:36 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/V7BQLAXKDZA6TECO4TMC3GVZSU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;울산 남구 신정동 공업탑 로터리의 2023년 전경. /울산시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;우리나라 산업화의 상징이었던 ‘울산 공업탑’이 철거된다. 약 60년 만이다.&lt;br&gt;&lt;br&gt;울산시는 21일 “트램(노면 전차) 노선을 만들기 위해 로터리 한가운데 있는 공업탑을 철거·이전하기로 했다”고 밝혔다.&lt;br&gt;&lt;br&gt;울산 공업탑은 박정희 정부 시절인 1967년 울산 남구 신정동에 건립됐다. 정식 이름은 울산공업센터 건립 기념탑이다. 1962년 울산을 국내 첫 특정공업지구로 지정한 것을 기념하기 위해 세웠다.&lt;br&gt;&lt;br&gt;높이 25m 크기로 톱니바퀴 모양의 단상 위에 철근 콘크리트 기둥 5개를 세워 만들었다. 꼭대기에는 월계수 잎으로 감싼 모양의 지구본을 설치했다. 기둥 5개는 박 전 대통령이 1962년부터 추진한 ‘경제개발 5개년 계획’의 성공을 상징한다고 한다.&lt;br&gt;&lt;br&gt;탑 주변에는 동상이 2개 서 있다. 망치를 들고 일하는 모양의 ‘산업역군상’과 미국 자유의 여신상을 본떠 만든 ‘여인상’이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PQCVUU62YJCSZMPWOFNLO3BJEI.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=백형선&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;공업탑은 평양미술학교를 나온 조각가 고(故) 박칠성씨가 만들었다. 강원도 속초에 있는 수복 기념탑도 그의 작품이다. 그는 방송 인터뷰에서 “나라가 가난해 여인상을 화강석이 아닌 시멘트로 시공해 마음이 아팠다”고 말하기도 했다. 여인상은 2011년 청동상으로 다시 만들었다.&lt;br&gt;&lt;br&gt;공업탑 앞 비석에는 ‘4천년 빈곤의 역사를 씻고 민족 숙원의 부귀를 마련하기 위하여 우리는 이곳 울산을 찾아 여기에 신(新)공업도시를 건설하기로 하였습니다. 제2차 산업의 우렁찬 건설의 수레 소리가 동해를 진동하고 공업 생산의 검은 연기가 대기 속에 뻗어나가는 그날엔 국가 민족의 희망과 발전이 이에 도래하였음을 알 수 있는 것입니다’라는 문구가 쓰여 있다. 박 전 대통령이 1962년 울산공업센터 기공식에서 남긴 것이다. 박 전 대통령의 친필 서명도 새겨져 있다.&lt;br&gt;&lt;br&gt;도시가 급성장하면서 1980년대 공업탑 주변은 지금처럼 도로 5개가 만나는 로터리가 됐다. 공업탑 로터리는 경남 창원시에 있는 창원광장 로터리에 이어 국내에서 둘째로 큰 로터리다.&lt;br&gt;&lt;br&gt;상징적인 장소이지만 교통 체증이 심각해 몸살을 앓고 있다. 울산시에 따르면, 출퇴근 시간대 로터리를 통과하는 차량은 시간당 최대 6500대에 달한다. 교통사고도 자주 발생한다. 최근 3년간(2021~2023년) 공업탑 로터리에서 발생한 교통사고는 총 152건이었다.&lt;br&gt;&lt;br&gt;울산시가 공업탑 로터리를 통과하는 트램 노선을 놓기로 하면서 철거 여부를 두고 논란이 일었다. 울산시는 신복교차로에서 태화강역까지 10.9㎞ 구간에 트램 노선을 만든다는 계획이다. 2029년 개통하는 게 목표다. 울산시는 관련 용역을 진행했고 이날 공업탑을 철거하기로 최종 결론을 내렸다.&lt;br&gt;&lt;br&gt;울산시 관계자는 “공업탑은 철거한 뒤 시민 의견을 수렴해 다른 곳으로 이전할 계획”이라고 했다. 울산대공원, 태화강역 광장, 울산박물관 등이 후보지로 거론되고 있는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>대법 “기업 복지포인트도 근로소득세 내야”</title>
-      <link>https://www.chosun.com/national/court_law/2025/01/22/3RUTL2YULREAPATZ4RUOWH445Q/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/01/22/3RUTL2YULREAPATZ4RUOWH445Q/</guid>
-      <dc:creator>박강현 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 21 Jan 2025 16:16:47 +0000</pubDate>
-      <content:encoded>기업이 임직원에게 제공한 ‘복지 포인트’도 소득세법상 과세 대상이 되는 근로소득에 해당한다는 대법원 판단이 나왔다. 복지 포인트는 근로에 대한 대가여서 근로소득으로 볼 수 있다는 취지다.&lt;br&gt;&lt;br&gt;대법원 3부(주심 이흥구 대법관)는 최근 민간 기업 A사가 여수세무서를 상대로 “복지 포인트는 근로소득에 해당하지 않으니, 징수한 근로소득세를 돌려달라”는 소송에서 원고 승소한 판결을 깨고 사건을 광주고법으로 돌려보냈다고 21일 밝혔다.&lt;br&gt;&lt;br&gt;화학제품·의약품 등 제조업체인 A사는 매년 2차례씩 임직원들에게 일정한 복지 포인트를 제공해왔다. 임직원들은 이를 복지몰에서 물품을 구매하는 데 사용했다. 여수세무서는 “복지 포인트는 세법상 근로소득이기 때문에 과세 대상”이라며 근로소득세를 원천징수했다.&lt;br&gt;&lt;br&gt;그런데 대법원이 2019년 “복지 포인트는 임금이 아니다”라고 판결하자, A사는 이를 근거로 “복지 포인트는 근로소득으로 볼 수 없으므로, 이미 징수한 근로소득세 7200만원을 돌려달라”고 소송을 냈다.&lt;br&gt;&lt;br&gt;재판에서는 민간 기업의 복지 포인트가 과세 대상인 근로소득인지 여부가 쟁점이 됐다. 비슷해 보이지만 임금과 근로소득은 법적으로 개념이 다르다. 임금은 ‘사용자가 근로의 대가로 근로자에게 주는 금품’을 말하고, 근로소득은 ‘근로를 제공함으로써 받는 임금·상여·수당 등 유사한 급여’로 규정돼 있다. 근로소득이 임금보다 폭넓은 개념인 것이다.&lt;br&gt;&lt;br&gt;1심은 복지 포인트가 근로소득에 해당한다고 봤지만, 2심은 근로소득이 아니라고 판단했다. 이에 대해 대법원은 “복지 포인트는 직접적인 근로의 대가는 아니더라도 적어도 임직원들이 회사에 제공한 근로와 일정한 상관관계 내지 경제적 합리성에 기한 대가 관계가 인정되는 급여에 해당한다”고 판단했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>친인척 부당대출 혐의, 우리금융 손태승 기소</title>
       <link>https://www.chosun.com/national/national_general/2025/01/22/X7PZATKLABEWPBSULJMODVNUUE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/22/X7PZATKLABEWPBSULJMODVNUUE/</guid>
@@ -780,198 +964,6 @@
         <media:description type="plain">윤석열 대통령이 21일 서울 종로구 헌법재판소에서 열린 탄핵심판 3차 변론기일에 출석해 있다./김지호 기자</media:description>
         <media:credit role="author" scheme="urn:ebu">뉴스1 ⓒ News1 사진공동취재단</media:credit>
       </media:content>
-    </item>
-    <item>
-      <title>[부음] 김영자씨 별세 외</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2025/01/22/FCNSCN2BVFB2VJOHX7VRGCG42Y/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2025/01/22/FCNSCN2BVFB2VJOHX7VRGCG42Y/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Tue, 21 Jan 2025 15:44:36 +0000</pubDate>
-      <content:encoded>▲&lt;b&gt;김영자&lt;/b&gt; 별세, &lt;b&gt;김용수&lt;/b&gt; 충북도립대 총장 모친상, &lt;b&gt;김수인&lt;/b&gt; 변호사·&lt;b&gt;김수정&lt;/b&gt; 브릿지코드 이사 조모상, &lt;b&gt;고석영&lt;/b&gt; 내과의사·&lt;b&gt;황승하&lt;/b&gt; 메리츠증권 근무 처조모상=20일15시 경기 국민건강보험공단 일산병원, 발인 23일6시, (031)900-0444&lt;br&gt;&lt;br&gt;▲&lt;b&gt;이재명&lt;/b&gt; 별세, &lt;b&gt;김복희&lt;/b&gt; 남편상, &lt;b&gt;이찬호&lt;/b&gt; 전 스포츠조선 기자·&lt;b&gt;이철호&lt;/b&gt;·&lt;b&gt;이하나&lt;/b&gt; 부친상=20일13시 대구파티마병원, 발인 23일5시30분, (053)940-8197&lt;br&gt;&lt;br&gt;▲&lt;b&gt;이종균&lt;/b&gt; 前 한국사법행정학회 회장 별세, &lt;b&gt;이욱한&lt;/b&gt; 숙명여대 법학부 명예교수·&lt;b&gt;이형한&lt;/b&gt;·&lt;b&gt;이중한&lt;/b&gt; 한국사법행정학회 본부장 부친상, &lt;b&gt;문시연&lt;/b&gt; 숙명여대 총장·&lt;b&gt;박영주&lt;/b&gt;·&lt;b&gt;조혜진&lt;/b&gt; 시부상=20일6시12분 서울성모병원, 발인 23일6시50분, (02)2258-5922&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>칼 다이서로스·안명주 아산의학상</title>
-      <link>https://www.chosun.com/national/welfare-medical/2025/01/22/CDVVH6IT7RD53JCMGRB6A5C7WQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/01/22/CDVVH6IT7RD53JCMGRB6A5C7WQ/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Tue, 21 Jan 2025 15:44:20 +0000</pubDate>
-      <content:encoded>아산사회복지재단(이사장 정몽준)은 18회 아산의학상 수상자로 기초의학 부문에 칼 다이서로스 미 스탠퍼드대 생명공학 및 정신의학·행동과학부 교수, 임상의학 부문에 안명주 삼성서울병원 혈액종양내과 교수를 선정했다. 상금은 각 25만달러와 3억원이다. 상금 각 5000만원의 젊은의학자 부문엔 박용근 KAIST 물리학과 교수와 최홍윤 서울대병원 핵의학과 교수가 선정됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>김정욱 대한변협회장</title>
-      <link>https://www.chosun.com/national/court_law/2025/01/22/BNTNOYGLPZH6DEHST3SFRAKSFU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/01/22/BNTNOYGLPZH6DEHST3SFRAKSFU/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Tue, 21 Jan 2025 15:43:58 +0000</pubDate>
-      <content:encoded>&lt;br/&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/X4QNR5VEZFB2DA33MJ7Y2TPMCE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김정욱 변협회장&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전국 3만여 변호사들이 소속된 대한변호사협회 차기 협회장에 김정욱(46·변호사 시험 2회) 변호사가 당선됐다. 로스쿨 출신이 대한변협회장이 된 것은 처음이다. 임기는 3년이며, 다음 달 시작한다.&lt;br&gt;&lt;br&gt;김 당선인은 지난 20일 진행된 제53대 대한변협회장 선거에서 6409표를 얻어, 안병희 후보(5999표)를 410표 차로 제쳤다. 김 당선자는 성균관대 시스템경영공학부와 같은 대학원, 서울시립대 로스쿨을 졸업했다. 2013년 2회 변호사 시험에 합격했고, 로스쿨 출신 변호사들로 구성된 한국법조인협의회 초대 회장을 지냈다. 2021년 96대 서울지방변호사회 회장에 당선됐고, 2023년 연임했다. 대한변협회장은 대법관과 검찰총장, 고위공직자범죄수사처장 후보 추천위원회에 들어간다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[오늘의 날씨] 2025년 1월 22일</title>
-      <link>https://www.chosun.com/national/national_general/2025/01/22/U747S5QRWJAZZIKBA7ADANX3UU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/22/U747S5QRWJAZZIKBA7ADANX3UU/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Tue, 21 Jan 2025 15:30:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YL4QJN7IVNHINIFSW4HTWZJGIQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>공수처, 尹 대통령 강제 구인 또 무산</title>
-      <link>https://www.chosun.com/national/court_law/2025/01/21/IRSUWAXWLBCHBIV6WQWMEC4LSI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/01/21/IRSUWAXWLBCHBIV6WQWMEC4LSI/</guid>
-      <dc:creator>이민준 기자, 양인성 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 21 Jan 2025 13:17:29 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/A6VCNLXFVVKTRHNZQCYXA2HSIM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;고위공직자범죄수사처(공수처)가 윤석열 대통령에 대한 강제구인 시도에 나섰다 불발된 다음 날인 21일 오전 경기도 과천시 공수처에서 관계자들이 오가고 있다. 공수처는 이날 오후 5시쯤 서울구치소로 검사 및 수사관 6명을 보내 2차 강제 구인을 시도했지만, 오후 9시 47분쯤 구인에 실패하고 철수했다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;고위공직자범죄수사처(공수처)가 21일 내란 우두머리 혐의로 서울구치소에 구속 수감된 윤석열 대통령에 대해 다시 강제 구인을 시도했지만 무산됐다. 공수처는 지난 20일에도 강제 구인을 시도했으나 변호인단과 6시간 여 동안 대치한 끝에 구인하지 못했었다.&lt;br&gt;&lt;br&gt;공수처 관계자는 “이날 오후 공수처 검사 및 수사관들이 윤 대통령 조사를 위해 서울구치소를 방문했으나, 윤 대통령이 자가 외부의료시설 진료뒤 저녁 9시 이후 귀소함에 따라 조사는 이뤄지지 않았다”며 “향후 조사 등 일정은 논의 후 결정할 예정”이라고 했다.&lt;br&gt;&lt;br&gt;윤 대통령은 이날 오후 2시 헌법재판소에서 열린 탄핵 심판 3차 변론 기일에 출석했다. 변론 기일이 끝난 뒤 윤 대통령은 법무부 호송차량을 이용해 오후 4시 43분 헌재를 떠났고, 서울구치소 대신 헌재 인근에 위치한 국군서울지구병원으로 향했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UDWEWQGRHVOO7FEQ4LPLC2YFTI.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;21일 저녁 윤석열 대통령이 탑승한 법무부 호송차량이 서울 종로구 삼청동 국군서울지구병원 후문을 빠져나와 서울구치소로 향하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤 대통령이 서울구치소로 복귀 하기 전에 병원을 찾은 데 대해 법무부는 “어제 서울구치소 의무관 진료를 실시했고, 의무관의 의견을 고려해 소장으로부터 외부의료시설 진료를 허가 받아 진료 차 외부 의료 시설에 방문하게 됐다”고 설명했다. 윤 대통령 측 윤갑근 변호사도 “한 달 전부터 주치의가 받으라고 한 치료인데, 계속 연기하다가 더 이상 연기하면 안된다고 해서 오늘 치료를 받은 것”이라고 했다. 대통령의 진료 사유는 알려지지 않았다.&lt;br&gt;&lt;br&gt;그런데 공수처는 헌재 변론이 끝난 것을 확인한 오후 5시쯤 서울구치소로 강제 구인 및 대면 조사를 시도할 검사 및 수사관 6명을 보낸 것이다. 공수처 관계자들이 탄 차량은 오후 5시 47분쯤 서울구치소 정문에서 식별됐는데, 이때 윤 대통령은 아직 구치소로 돌아오지 않았었다. 윤 대통령이 서울구치소로 돌아올 때까지 공수처 관계자들은 구치소 안에서 대기할 수밖에 없었다고 한다.&lt;br&gt;&lt;br&gt;윤 대통령은 진료를 마친 뒤 오후 8시 42분쯤 국군서울지구병원을 떠났고, 오후 9시 10분 서울구치소에 도착했다. 공수처 관계자들이 탑승한 차량은 윤 대통령 도착 후 37분이 지난 뒤 서울구치소를 빠른 속도로 빠져나갔다고 한다. 인권보호 수사규칙에 따르면 오후 9시 이후 심야 조사는 대상자의 동의 없이 진행할 수 없다.&lt;br&gt;&lt;br&gt;법조계에선 공수처가 연일 무리한 수사를 시도하고 있다는 비판이 나왔다. 법조계 관계자는 “윤 대통령을 강제로 구인하겠다면서, 정작 윤 대통령의 위치가 어딘지는 몰랐던 것”이라고 말했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/76EGAP4AKZLUDKRAWUSZLHTG5Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령에 대한 3차 변론기일이 진행된 21일 서울 종로구 헌법재판소에서 윤석열 대통령이 탑승한 호송차량이 나오고 있다. 윤 대통령은 곧바로 서울구치소로 돌아가지 않고, 국군서울지구병원에 들러 진료를 받았다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>무안공항 ‘로컬라이저 개량’ 당시 공항공사 사장, 숨진 채 발견</title>
-      <link>https://www.chosun.com/national/incident/2025/01/21/MKEQJDLDYBG3RMAUNKBWA65U2U/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/01/21/MKEQJDLDYBG3RMAUNKBWA65U2U/</guid>
-      <dc:creator>군포=김현수 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 21 Jan 2025 13:22:36 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RWXWTSMGURGNFC3IF5NS2A2G3Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;손창완 전 한국공항공사 사장. /연합뉴스
-&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰대학장을 지낸 정치인 손창완 전 한국공항공사 사장이 21일 자택에서 숨진 채 발견됐다.&lt;br&gt;&lt;br&gt;경기 군포경찰서에 따르면 손 전 사장은 이날 오후 6시 3분쯤 군포 산본동 자택에서 숨진 채 발견됐다. 신고는 손 전 사장의 딸이 한 것으로 알려졌다. 현장에서 유서는 발견되지 않았다. 경찰은 자세한 사망 경위를 조사하고 있다.&lt;br&gt;&lt;br&gt;손 전 사장은 2020년 5월 무안국제공항의 방위각시설(로컬라이저) 개량 사업을 시작할 당시 국내 공항 안전을 책임졌던 인물이다. 이 사업으로 보강된 콘크리트 둔덕은 지난해 12월 29일 179명의 생명을 앗아간 제주항공 참사의 한 원인으로 지목됐다.&lt;br&gt;&lt;br&gt;손 전 사장은 2016년 20대 총선에서 더불어민주당 후보로 안산단원을 지역구에 출마했다가 낙선한 뒤 2018년 12월부터 2022년 2월까지 한국공항공사 사장을 지냈다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>구속영장 기각된 김성훈 경호차장, 헌재서 尹대통령 근접 경호</title>
-      <link>https://www.chosun.com/national/national_general/2025/01/21/GMD3YICWTRA65J54V5ERNWAQRQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/21/GMD3YICWTRA65J54V5ERNWAQRQ/</guid>
-      <dc:creator>김명일 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 21 Jan 2025 13:01:56 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/P4HA7BCEZFBK3DLMVUSCSNYRBA.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령이 2025년 1월 21일 서울 종로구 헌법재판소에서 열린 탄핵심판 3차 변론기일에 출석하고 있다. 뒤편으로 김성훈 경호처 차장의 모습이 보인다. /김지호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰이 신청한 구속영장을 검찰이 반려하면서 석방된 김성훈 대통령경호처 차장이 21일 헌법재판소에서 윤석열 대통령을 근접 경호하는 모습이 포착됐다.&lt;br&gt;&lt;br&gt;김 차장은 이날 오후 1시 58분쯤 윤 대통령이 헌재 탄핵심판 3차 변론에 참석하기 위해 심판정에 들어설 때 뒤편에서 목격됐다.&lt;br&gt;&lt;br&gt;김 차장은 오후 3시 43분쯤 재판이 끝나자 심판정 안으로 들어와 의자를 앞으로 밀고 윤 대통령이 원활히 퇴장할 수 있도록 도왔다.&lt;br&gt;&lt;br&gt;김 차장은 이날 오후 12시 48분쯤 윤 대통령이 서울구치소에서 출발할 때부터 동행한 것으로 보인다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HLLWPMNH2V5RPKOCFTF46A3FGE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;고위공직자범죄수사처와 경찰의 윤석열 대통령 체포영장 집행 시도를 저지한 혐의(특수공무집행방해)로 체포된 김성훈 대통령 경호처 차장이 18일 오전 경찰 국가수사본부 특별수사단(특수단)에서 2차 조사를 받기 위해 수사관들과 이동하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김 차장은 군과 경호처를 동원해 윤 대통령에 대한 1차 체포영장 집행 시도를 방해한 혐의 등으로 지난 17일 경찰에 체포됐다.&lt;br&gt;&lt;br&gt;경찰은 이튿날 김 차장에 대한 구속영장을 신청했지만 서울서부지검은 지난 19일 ‘영장에 기재된 범죄사실과 체포 경위 등을 고려할 때 증거인멸 염려로 구속 필요성이 있다고 단정하기 어렵다’며 기각했다.&lt;br&gt;&lt;br&gt;경찰은 구속영장이 기각됨에 따라 김 차장을 즉시 석방했다. 김 차장은 석방되자마자 윤 대통령이 있는 서울구치소로 향해 경호 업무에 복귀했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>서거석 전북교육감·임종식 경북교육감 당선 무효형</title>
-      <link>https://www.chosun.com/national/court_law/2025/01/21/NQWZFURQDBENBJIOTYK3VFSPR4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/01/21/NQWZFURQDBENBJIOTYK3VFSPR4/</guid>
-      <dc:creator>전주=김정엽 기자, 포항=노인호 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 21 Jan 2025 12:54:00 +0000</pubDate>
-      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IREHX3IZSZHSNNHNJZE56ZUHAQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;왼쪽부터 서거석 전북교육감, 임종식 경북교육감 /뉴시스, 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;교육감 선거 과정에서 불거진 비위로 재판에 넘겨진 현직 교육감들이 21일 잇따라 당선 무효형을 선고받았다.&lt;br&gt;&lt;br&gt;광주고법 전주재판부 형사1부(재판장 양진수)는 2022년 교육감 선거 과정에서 허위 사실을 공표한 혐의로 기소된 서거석 전북도교육감에게 벌금 500만원을 선고했다. 1심은 무죄를 선고했으나 이를 깨고 당선 무효형을 선고한 것이다. 교육감은 벌금 100만원 이상 형이 최종 확정되면 교육감직을 잃는다.&lt;br&gt;&lt;br&gt;서 교육감은 2022년 전북도교육감 선거 토론회에서 “전북대 총장 재직 시절 이귀재 교수를 폭행한 사실이 있느냐”는 상대 후보 질문에 “그런 사실이 없다”라고 거짓말을 한 혐의로 기소됐다. 자신의 SNS(소셜미디어)에 ‘상대 후보가 진실을 호도하고 있다’는 내용의 게시물을 올린 혐의도 받는다.&lt;br&gt;&lt;br&gt;2심 재판부는 서 교육감이 이 교수를 폭행한 사실을 인정했다. 재판부는 “여러 간접 사실, 정황을 종합해 보면 피고인이 먼저 동료 교수를 손으로 폭행했고 이후 그 교수가 피고인을 때려 쌍방 폭행이 일어났다고 보는 게 자연스럽다”고 했다.&lt;br&gt;&lt;br&gt;그러면서 “피고인은 학생의 성장과 미래를 기획하는 최고 책임자를 선출하는 선거에서 적극적으로 허위 사실을 공표해 비난 가능성이 작지 않다”고 판시했다.&lt;br&gt;&lt;br&gt;이날 대구지법 포항지원 형사1부(재판장 주경태)는 뇌물 수수 혐의 등으로 기소된 임종식 경북도교육감에게 징역 2년 6개월에 벌금 3500만원을 선고했다. 임 교육감을 법정 구속하지는 않았다. 임 교육감은 2018년 교육감 선거 과정에서 교육청 공무원을 동원해 선거운동을 하고 캠프 관계자들에게 금품을 준 혐의로 기소됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/IREHX3IZSZHSNNHNJZE56ZUHAQ.jpg?width=1600&amp;height=900&amp;auth=443cd6db4e59d74fcc29edfeb5e4662cfff739ec28c7aec1735fd2d27aaac714&amp;smart=true" type="image/jpeg" height="900" width="1600">
-        <media:description type="plain">왼쪽부터 서거석 전북교육감, 임종식 경북교육감 /뉴시스, 뉴스1</media:description>
-      </media:content>
-    </item>
-    <item>
-      <title>1억 받고 中에 블랙요원 신상 넘긴 군무원, 징역 20년 벌금 12억</title>
-      <link>https://www.chosun.com/politics/diplomacy-defense/2025/01/21/FQ5JQLZPY5BKHIZ6C2GNFBU5LI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/politics/diplomacy-defense/2025/01/21/FQ5JQLZPY5BKHIZ6C2GNFBU5LI/</guid>
-      <dc:creator>양지호 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 21 Jan 2025 12:52:59 +0000</pubDate>
-      <content:encoded>중국 정보 당국에 포섭돼 우리 군의 ‘블랙 요원(신분을 위장해 활동하는 요원)’ 신상 등 군 기밀을 약 7년 동안 유출해 왔던 국군정보사령부(정보사) 군무원 A(50)씨가 징역 20년을 선고받았다.&lt;br&gt;&lt;br&gt;중앙지역군사법원은 21일 서울 용산구 법원에서 열린 선고공판에서 A씨에게 징역 20년과 벌금 12억원, 추징금 1억6205만원을 선고했다. 앞서 국방부 검찰단은 지난해 8월 A씨를 군형법상 일반이적(利敵), 뇌물, 군사기밀보호법 위반 혐의로 구속 기소했다. 지난달 결심공판 땐 무기징역과 함께 벌금 8억원, 추징금 1억6205만원을 선고해 달라고 재판부에 밝혔다.&lt;br&gt;&lt;br&gt;재판부는 A씨에 대한 공소사실을 모두 유죄로 인정했다. 재판부는 “피고인은 정보사 공작팀장으로서 국가 안보에 심각한 위협을 초래할 수 있는 2급 군사기밀 등을 유출했으며, 청렴 의무가 있음에도 금전을 요구했다”고 했다. 그러면서 “유출된 군사기밀에는 파견된 정보관들의 인적 정보 등이 포함됐고, 위 기밀이 유출됨으로써 정보관들의 생명·신체의 자유에도 명백한 위험이 발생했을 뿐 아니라 정보관들이 정보 수집을 위해 들인 시간과 노력을 더 활용할 수 없게 되는 손실이 발생했다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/22CKRAFKEJCLNADEJB6Z7CVM6U.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=김성규&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;A씨는 ‘가족이 협박당해 기밀을 유출했다’고 주장했지만 재판부는 이를 받아들이지 않았다. 재판부는 “피고인 주장을 뒷받침하는 증거는 없다”며 “오히려 피고인이 적극적으로 (협박범에게) 금전을 요구하는 모습을 보이고 있어 믿기 어렵다”고 했다. A씨는 기밀 유출 대가로 약 4억원을 요구했고, 차명 계좌를 통해 1억6205만원을 받은 것으로 수사 당국은 파악했다.&lt;br&gt;&lt;br&gt;이날 A씨는 짧은 머리에 검은색 모자와 마스크, 패딩 점퍼를 착용하고 있었다. 고개를 푹 숙이고 선고를 들은 뒤 법정에서 빠져나갔다. A씨 재판은 군사기밀 유출이 우려돼 비공개로 진행되다가 1심 선고만 공개됐다.&lt;br&gt;&lt;br&gt;A씨는 1990년대부터 부사관으로 정보사에 근무했고, 전역한 뒤 2000년대 중반 군무원으로 정보사에 재취업했다. 군검찰에 따르면 A씨는 자신이 구축했던 공작망을 접촉하기 위해 지난 2017년 4월 중국으로 갔다가, 중국동포(조선족)인 중국 정보기관 요원 B씨에게 억류·포섭된 후 그의 지시를 받아 군사기밀을 유출했다. A씨는 문서를 영외로 들고 나가거나 무음 카메라 앱으로 촬영해 기밀을 빼돌리고, 중국 클라우드 서비스에 파일을 올리는 방식으로 정보를 전달했다고 한다.&lt;br&gt;&lt;br&gt;군검찰은 A씨가 2022년 6월부터 2024년까지 파일로 된 문서 형태 12건, 구두 전달 18건 등 총 30건을 유출한 정황을 파악했다. A씨가 유출한 정보엔 중국과 러시아 등지에서 북한 정보를 수집해 온 블랙 요원들의 명단 일부와 정보사의 전반적인 임무 및 조직 편성, 정보 부대의 작전 방법과 계획, 특정 지역에 대한 정세 판단 등이 포함됐다. 이로 인해 우리 군 요원들이 일시 귀국하는 등 군 정보망에도 타격이 있었다. 군 검찰은 2017년부터 2022년 초까지의 기밀 유출 내용 및 2017년부터 2019년까지 받은 현금 규모는 파악이 안 돼 기소 내용에 포함하지 않았다.&lt;br&gt;&lt;br&gt;A씨에 대한 초동 수사를 맡은 국군방첩사령부는 간첩죄를 적용해 군 검찰로 송치했으나, 군 검찰은 간첩죄는 제외했다. 현행 간첩법은 ‘적국’(북한)을 위한 간첩 행위만 처벌토록 규정하고 있는데 북한과의 직접적 연계를 입증하기 어려웠기 때문이라고 한다. A씨의 유출 사건으로 간첩죄 대상을 적국에서 외국으로 확대하는 개정안이 국회 법사위 소위에서 여야 합의로 의결됐지만 더불어민주당이 ‘악용 가능성’을 주장하면서 계류 중이다.&lt;br&gt;&lt;br&gt;군 소식통은 “일반이적죄로 징역 20년형이 나온 사례는 흔치 않다”며 “재판부가 엄단하겠다는 의지를 보여준 것으로 보인다”고 했다. 2018년 중국·일본 측에 정보사 요원 정보 등 기밀 100여 건을 넘긴 정보사 전직 공작팀장은 일반이적죄로 징역 4년을 선고받았다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“정진상 측, 법정 밖에서 증인 접촉”... 대장동 재판서 공방</title>
-      <link>https://www.chosun.com/national/court_law/2025/01/21/SYKUAY2SJFCOJDUKRDW5WHSLMQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/01/21/SYKUAY2SJFCOJDUKRDW5WHSLMQ/</guid>
-      <dc:creator>박강현 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 21 Jan 2025 12:07:30 +0000</pubDate>
-      <content:encoded>이재명 더불어민주당 대표의 ’대장동·위례·성남FC·백현동 사건’ 재판에서 검찰과 정진상 전 민주당 당대표 정무조정실장 측 변호인이 ‘법정 밖 증인 접촉’을 둘러싸고 공방을 벌였다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XN7AJY2KIFNILFDRJTV44GV7CE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이재명 더불어민주당 대표가 21일 서울 서초구 서울중앙지법에서 열린  ’대장동·위례·성남FC·백현동 사건’ 1심 재판에 출석하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;21일 서울중앙지법 형사33부(재판장 김동현) 심리로 열린 이 대표와 정씨의 뇌물 등 혐의 재판에 유동규 전 성남도시개발공사 기획본부장이 증인으로 출석해 피고인 측 반대 신문을 받았다.&lt;br&gt;&lt;br&gt;이 사건 핵심 증인으로 여겨지는 유씨는 작년 10월 초부터 계속 법정에 나와 김만배씨 등 ‘대장동 일당’과의 대화를 담은 정영학 녹취록, 대장동 초기 개발 상황 등에 대한 증언을 이어가고 있다.&lt;br&gt;&lt;br&gt;이날 정씨 측 변호인은 오전 재판에서 유씨에게 “A씨에게 100억원을 벌어서 줄 테니 네가 보관하라고 한 적이 있느냐” “이재명이 알면 큰일 난다. 토사구팽 당한다고 말한 적이 있느냐”라고 질문했고, 이에 유씨는 “없다”라고 답했다.&lt;br&gt;&lt;br&gt;여기서 거론된 A씨는 지난해 9월 이 사건 재판에 증인으로 나온 인물이다. 2008년에서 2010년까지 한 주점에서 실장으로 근무한 것으로 알려진 A씨는 유씨와 정씨 등이 주점을 드나들며 친분을 쌓을 정도로 가까운 사이였다는 것을 입증하기 위해 검찰 측이 부른 증인이었다.&lt;br&gt;&lt;br&gt;공방은 오후 재판에서 벌어졌다. 검찰 측은 오후 재판이 시작하자 “이 내용(100억원, 토사구팽)은 A씨의 증인 신문 녹취서에 없는 내용”이라며 “유사한 내용조차 없는데 마치 A씨가 이렇게 증언한 것처럼 무엇을 근거로 전제를 깔고 질문했는지를 석명(釋明)해달라”라고 재판부에 요청했다.&lt;br&gt;&lt;br&gt;유씨도 “갑자기 생뚱맞게 한 번도 얘기한 적 없는 100억원 얘기가 나왔다. 이 이야기는 우연히 나오기 힘들다. 변호인들이 A씨를 개인적으로 접촉했는지 묻고 싶다”고 언급했다.&lt;br&gt;&lt;br&gt;이에 정씨 측 변호인은 A씨가 지난해 9월 법정에 증인으로 출석해 증언한 후 그날 오후 4시에 사무실로 전화를 걸어왔고, 비서를 통해 관련 사항을 전달 받은 뒤 오후 6시쯤 자신의 휴대전화로 A씨와 통화를 했다고 해명했다.&lt;br&gt;&lt;br&gt;이 변호인은 당시 A씨가 “저는 힘 없는 시민이고 무서워서 법정에서 있는 사실을 다 말하지 못했다”며 “(유동규가) 100억원이 생겨서 너한테 줄 테니 보관하라고 했다. 이것을 이재명이 알면 큰일 난다며 토사구팽 당한다고 했다. 세상이 바뀌고 상황이 바뀌면 그때 가서 진실을 얘기하겠다”고 말했다고 전했다.&lt;br&gt;&lt;br&gt;이 변호인은 처음에는 통화를 녹음하지 않았지만, 100억원 얘기가 나오기 시작했을 때부터 녹음을 시작해 약 3분 가량을 녹음해 지금도 그 녹음 파일을 갖고 있다고 덧붙였다.&lt;br&gt;&lt;br&gt;검찰은 “수개월 전에 증인과 통화했다는건데 이 사실을 한 번도 재판부에 보고하지 않았다. 정씨의 보석(保釋)과 관련해 상황 보고서가 올라올 때도 이런 얘기가 전혀 없었다. 공판 적법 절차를 심대하게 위반했다”며 “수사기관에서 이런 일이 있었다면 ‘회유’ ‘겁박’ 이런 주장을 했을 것”이라고 반발했다.&lt;br&gt;&lt;br&gt;유씨는 “이 대표 주변에 많은 사람이 스스로 목숨을 끊었다. A씨가 어떤 상황에 놓인 건지 의문을 제기할 수밖에 없다. 검찰에서 통화 내용 등을 샅샅이 조사해달라”라며 “(법정에 있는) 언론이 들으라고 마치 (100억원 얘기가) 있었다는 것처럼 허위로 말한건데, 어떻게 변호사가 그럴 수 있느냐”고 목소리를 높였다.&lt;br&gt;&lt;br&gt;정씨 측 변호인은 “부적절한 접촉도 없고, 통화 이후에 추가로 또 통화한 적도 없다”며 “진술이 다 끝나고 녹취록만 법정에 따로 제출하려 했었다. 근데 검찰이 얘기하고 증인이 이 부분에 대해 거듭 얘기해달라고 하니 구두로 말씀드린 것”이라고 했다. 그러면서 “원하시면 폰으로 바로 (녹음 파일을) 틀어드릴 수 있다”고도 했다.&lt;br&gt;&lt;br&gt;이 문제를 두고 계속 공방이 이어지자 재판부는 “이제 좀 그만하시고, 양쪽 의견은 서면으로 제출해달라”고 요구하며 중재에 나섰지만, 유씨는 이후 진행된 변호인의 질문에 대한 답변을 거부했다.&lt;br&gt;&lt;br&gt;한편 이 대표의 ‘대장동·위례·성남FC·백현동 사건’ 재판은 현재 위례 부분 심리만 끝나고, 대장동 관련 심리를 진행 중이다. 1심 선고가 언제 나올진 예측이 어려운 상황이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>윤 대통령, 서울구치소로 복귀</title>
-      <link>https://www.chosun.com/national/national_general/2025/01/21/LESQADGHXBDQBPMGGBSOGZMKIM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/21/LESQADGHXBDQBPMGGBSOGZMKIM/</guid>
-      <dc:creator>장윤 기자, 양인성 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 21 Jan 2025 11:47:23 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4RJNWSTUONIS7NBLN5D64TN37A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령을 태운 법무부 호송차량이 21일 오후 서울 종로구 국군서울지구병원 후문을 빠져나가고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 대통령이 21일 국군서울지구병원에서 진료받은 뒤 서울구치소로 복귀했다.&lt;br&gt;&lt;br&gt;윤 대통령을 태운 법무부 호송차는 이날 오후 8시 43분쯤 서울 종로구 국군서울지구병원을 출발해 오후 9시 10분쯤 경기 의왕시 서울구치소에 도착했다.&lt;br&gt;&lt;br&gt;윤 대통령을 태운 법무부 호송차는 이날 오후 4시 42분쯤 서울 종로구 헌법재판소를 출발해 국군서울지구병원으로 이동했다. 윤 대통령이 서울구치소로 복귀하기 전에 병원을 찾은 데 대해 법무부는 “어제 서울구치소 의무관 진료를 실시했고, 의무관의 의견을 고려해 소장으로부터 외부 의료시설 진료를 허가받아 진료 차 방문한 것”이라고 설명했다.&lt;br&gt;&lt;br&gt;윤 대통령 측 윤갑근 변호사도 “한 달 전부터 주치의가 받으라고 한 치료인데, 계속 연기하다가 더 이상 연기하면 안된다고 해서 오늘 치료를 받은 것”이라고 했다. 대통령의 진료 사유는 알려지지 않았다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>현장학습 학생 사망사고… 업무상 과실치사 혐의 교사 2명 금고형 구형</title>
-      <link>https://www.chosun.com/national/court_law/2025/01/21/BV3PYFHJAZFFFI46QOMVTNEW6U/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/01/21/BV3PYFHJAZFFFI46QOMVTNEW6U/</guid>
-      <dc:creator>정성원 기자</dc:creator>
-      <description>2022년 11월 강원 속초시 한 테마파크에서 초등학교 현장 체험학습 도중 발생한 학생 사망사고와 관련해 검찰이 업무상 과실치사 혐의로 재판에 넘겨진 강원도 내 초등교사들에 대해 금고형을 구형했다.21일 춘천지법 형사1단독 신동일 판사 심리로 열린 결심 공판에서 검찰은 당시 담임교사 A(35)씨와 인솔 교사 B(39)씨에게 금고 1년을 각각 구형했다.</description>
-      <pubDate>Tue, 21 Jan 2025 10:47:05 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XR64Q4WTXZLTJLQ3C4G4BAGDLQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;춘천지법.(뉴스1 DB)&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2022년 11월 강원 속초시 한 테마파크에서 초등학교 현장 체험학습 도중 발생한 학생 사망사고와 관련해 검찰이 업무상 과실치사 혐의로 재판에 넘겨진 강원도 내 초등교사들에 대해 금고형을 구형했다.&lt;br&gt;&lt;br&gt;21일 춘천지법 형사1단독 신동일 판사 심리로 열린 결심 공판에서 검찰은 당시 담임교사 A(35)씨와 인솔 교사 B(39)씨에게 금고 1년을 각각 구형했다.&lt;br&gt;&lt;br&gt;검찰은 “담임교사인 A씨는 주차가 완료되지 않은 버스에서 학생들을 하차시킨 뒤 인원만 확인하고 아이들의 이동을 살피지 않았고, 보조 인솔 교사인 B씨는 사고 당시 현장 부재로 인한 책임이 있다”고 구형 이유를 밝혔다.&lt;br&gt;&lt;br&gt;이 사고는 지난 2022년 11월 강원 속초시 노학동 한 테마파크 주차장에서 체험학습을 온 초등학생 D(13)양이 주차하는 버스에 치이며 발생했다.&lt;br&gt;&lt;br&gt;한편 이 사건 선고는 다음 달 11일 열릴 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>기각된 김성훈 경호차장 구속영장엔...1차 체포 방해, 尹 비화폰 서버 삭제 지시 담겨 </title>
-      <link>https://www.chosun.com/national/national_general/2025/01/21/UUBDPBPUCRBORIT3YNSUBMWOVA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/21/UUBDPBPUCRBORIT3YNSUBMWOVA/</guid>
-      <dc:creator>구아모 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 21 Jan 2025 10:22:15 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HLLWPMNH2V5RPKOCFTF46A3FGE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;고위공직자범죄수사처와 경찰의 윤석열 대통령 체포영장 집행 시도를 저지한 혐의(특수공무집행방해)로 체포된 김성훈 대통령 경호처 차장이 지난 18일 오전 경찰 국가수사본부 특별수사단(특수단)에서 2차 조사를 받기 위해 수사관들과 이동하고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰이 기각한 김성훈 대통령경호처 차장의 경찰 구속영장에는 지난 3일 윤석열 대통령에 대한 1차 체포영장 집행 시도를 방해한 혐의와 윤석열 대통령이 비화폰 서버를 삭제하라고 지시한 내용 등이 포함된 것으로 나타났다.&lt;br&gt;&lt;br&gt;21일 경찰 등에 따르면 서울서부지검은 19일 경찰이 특수공무집행방해 및 직권남용 권리행사 방해 혐의로 김 차장에 대해 신청한 구속영장을 기각하면서 ‘영장에 기재된 범죄사실과 체포 경위 등을 고려할 때 증거인멸 염려로 구속 필요성이 있다고 단정하기 어렵다’고 판단한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;경찰이 신청한 영장에는 김 차장이 지난 3일 윤 대통령 체포영장 1차 집행 당시 군과 경호처를 동원해 물리적으로 가로막은 혐의, 총기 사용 검토 및 비화폰 통신 기록 삭제 지시 의혹 등의 혐의도 포함된 것으로 나타났다.&lt;br&gt;&lt;br&gt;경찰은 해당 내용과 공범들과의 관계, 윤석열 대통령의 지시 내용 등도 영장에 적시했다고 밝혔다. 경찰은 대통령실 관계자와 경호처 직원들에 대한 조사를 진행하는 과정에서 윤 대통령이 “김 차장이 대통령실 비화폰 서버 관리자에게 연락해 비화폰 통신 기록을 지우라”고 지시하거나 “총을 쏠 수는 없느냐”고 물어봤다는 구체적인 진술을 확보했다.&lt;br&gt;&lt;br&gt;경찰은 추가 조사를 통해 내용을 보강해 구속영장을 다시 신청할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>尹측 “서신 금지 반인권적...현 상태론 공수처 조사 어려워”</title>
-      <link>https://www.chosun.com/national/court_law/2025/01/21/MIG7ZMFDHJDPXESU623CGGBOF4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/01/21/MIG7ZMFDHJDPXESU623CGGBOF4/</guid>
-      <dc:creator>이슬비 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 21 Jan 2025 10:03:27 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3LQ2A6JZGBCDVPMAVB66MJLMRA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령의 법률대리인단인 윤갑근 변호사가 21일 오후 서울 종로구 헌법재판소 심판정에서 열린 윤석열 대통령 탄핵 심판 3차 변론기일에 참석하며 기자들의 질문에 답하고 있다. /김지호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 대통령 측 윤갑근 변호사는 21일 고위공직자범죄수사처(공수처)의 수사 방식에 대해 “현재와 같은 상태로는 조사 진행이 어렵다”고 했다. 공수처가 서울구치소를 찾아 6시간에 걸쳐 강제구인을 시도하고, ‘증거 인멸 우려’를 이유로 가족 면회를 차단한 데 이어 서신 수·발신까지 금지하자 강하게 반발한 것이다.&lt;br&gt;&lt;br&gt;윤 변호사는 이날 헌법재판소 탄핵심판 변론이 끝나고 기자들과 만나 공수처가 서신 수·발신을 금지한 것에 대해 “있어서는 안 될 일”이라고 비판했다. 이어 “아무리 직무가 정지됐어도 현직 대통령”이라며 “증거 인멸 우려가 있다는 확정적 증거 없이 서신을 금지하는 것은 반인권적 행위”라고 했다.&lt;br&gt;&lt;br&gt;윤 변호사는 공수처의 강제구인 시도에 대해 “변호인 접견 중에 공수처에서 (구인하러) 나온 것”이라며 “접견은 계속 이어졌지만, 방해받았다”라고 했다. 방어권 보장을 위해 대통령이 변호인을 접견하는 시간까지 공수처가 침해했다는 취지다. 윤 변호사는 “구속영장이 발부돼 집행되면 모든 권한은 구치소가 갖고 있고, 공수처가 함부로 인치할 권한이 없다”며 “그런 부분에서 (구인이) 제대로 집행 안 된 것”이라고 설명했다.&lt;br&gt;&lt;br&gt;윤 변호사는 공수처가 윤 대통령 사건을 검찰로 송부할 경우 조사에 응할 것이냐는 질문엔 “검찰로 이송되면 그때그때 상황을 보고 말씀드리겠다”고 답했다. ‘검찰 수사에 응하겠다는 입장을 유보한 것이냐’는 물음엔 “그런 발언을 한 적이 없고, 유보하는 태도를 취한 것도 없다”며 “수사 상황이 급변하니 그때 가서 판단하겠다는 것”이라고 했다.&lt;br&gt;&lt;br&gt;윤 대통령에 대한 서신 수·발신 금지와 변호인 외 접견 금지 조치는 기소 전까지 적용된다. 그때까지 윤 대통령은 김건희 여사를 비롯한 가족, 외부인들과 접견은 물론 서신도 주고받을 수 없다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>尹, 헌재서 병원 갔는데... 또 강제구인하러 구치소 간 공수처</title>
-      <link>https://www.chosun.com/national/court_law/2025/01/21/ZMKCYO6Q6BGKDBK5XEVSFREI6E/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/01/21/ZMKCYO6Q6BGKDBK5XEVSFREI6E/</guid>
-      <dc:creator>이슬비 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 21 Jan 2025 08:57:33 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/COK3BBRP5HPIY7QAWEQBENW64A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령이 21일 서울 종로구 헌법재판소에서 열린 탄핵심판 3차 변론기일에 출석해 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 대통령이 21일 헌법재판소 탄핵심판에 출석해 변론을 마친 뒤 서울구치소가 아닌 국군서울지구병원으로 이동한 것으로 전해졌다. 같은 시각, 고위공직자범죄수사처(공수처)는 윤 대통령에 대한 강제 구인을 다시 시도하기 위해 서울구치소를 찾았다.&lt;br&gt;&lt;br&gt;윤 대통령을 태운 법무부 호송차는 이날 오후 4시 42분쯤 서울 종로구 헌법재판소를 출발해 국군서울지구병원으로 이동한 것으로 알려졌다. 서울구치소로 복귀 하기 전에 병원을 찾은 구체적 사유는 아직 확인되지 않았다.&lt;br&gt;&lt;br&gt;공수처 검사와 수사관 6명은 윤 대통령 보다 먼저 구치소에 도착했다. 공수처 차량은 이날 오후 5시 47분쯤 서울구치소 내부로 들어갔다.&lt;br&gt;&lt;br&gt;공수처는 윤 대통령이 병원에 들렀다 구치소로 복귀하면 강제구인을 다시 시도할 것으로 보인다. 공수처 관계자는 “강제 구인 뿐 아니라 대면 조사(옥중 조사)도 고려하고 있다”고 했다.&lt;br&gt;&lt;br&gt;공수처는 전날에도 윤 대통령 강제구인을 시도했지만, 윤 대통령 측이 거부하면서 6시간 만에 철수했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/O2JJVUBYHVKC7GDMPZEMKS42OI.jpg?width=3133&amp;height=2124&amp;auth=e629b79143d3768f47bdeb88d132f38d314b762cc0c59a7c1fe2d4c1bb7c8412&amp;smart=true" type="image/jpeg" height="2124" width="3133">
-        <media:description type="plain">[서울=뉴시스] 정병혁 기자 = 윤석열 대통령에 대한 3차 변론기일이 진행된 21일 서울 종로구 헌법재판소에서 윤석열 대통령이 탑승한 호송차량이 나오고 있다. 2025.01.21. jhope@newsis.com</media:description>
-        <media:credit role="author" scheme="urn:ebu">jhope</media:credit>
-      </media:content>
-    </item>
-    <item>
-      <title>검찰, ‘주호민 자폐아들 학대’ 혐의 특수교사에 항소심서도 징역형 구형</title>
-      <link>https://www.chosun.com/national/court_law/2025/01/21/YL6VNPQP5NEP5KF44T4EUCFNJM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/01/21/YL6VNPQP5NEP5KF44T4EUCFNJM/</guid>
-      <dc:creator>수원=김수언 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 21 Jan 2025 09:37:46 +0000</pubDate>
-      <content:encoded>&lt;br/&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NWNMZVDTFE77JLJTKBC5ZYK6IM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;웹툰작가 주호민이 지난해 2월 1일 오전 경기 수원시 영통구 수원지방법원에서 취재진의 질문에 답하고 있다. 이날 '주호민 아들 아동학대' 혐의로 기소된 특수교사가 1심에서 벌금 200만원 선고유예를 받았다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;웹툰작가 주호민씨의 자폐 아들을 학대한 혐의로 1심에서 벌금 200만원의 선고유예를 받은 특수교사에게, 검찰이 2심서도 징역 10월을 구형했다.&lt;br&gt;&lt;br&gt;21일 수원지법 형사항소6부(재판장 신우정) 심리로 진행된 특수교사 A씨의 아동학대 범죄의 처벌 등에 관한 특례법 위반 혐의 사건 항소심 결심 공판에서 검찰은 “피고인에게 유죄 판결을 해달라”며 A씨에게 원심 구형량과 같은 징역 10월에 취업제한 3년을 선고해달라고 재판부에 요청했다.&lt;br&gt;&lt;br&gt;검찰은 “아동학대 범죄 신고 의무자인 피고인이 학대를 한 사건으로, 범죄 일체를 부인하며 진지한 반성 태도를 보이고 있지 않고 피해아동의 피해 회복을 위한 실질적 노력을 기울이지 않고 있다”며 “피해아동과 부모는 아직도 피해를 호소하고 있고, 용서 받지 못했다. 이런 사정을 모두 참작해달라”고 했다.&lt;br&gt;&lt;br&gt;A씨의 변호인은 “유일한 증거인 녹음파일은 증거능력이 없고, 녹음의 구체적 경위를 보면 정당행위로 볼 수 없으며, 피고인의 행위를 학대로도 볼 수 없다”며 “원심 판결을 파기하고 무죄를 선고해달라”고 했다.&lt;br&gt;&lt;br&gt;이 사건은 2022년 9월 당시 9세이던 주씨의 아들이 다니던 경기도 용인의 한 초등학교 특수 학급 교실에서 벌어졌다. 평소와 달리 주씨의 아들이 불안 증세 등을 보이자, 주씨 아내가 아들의 외투에 녹음기를 넣어 학교에 보냈다.&lt;br&gt;&lt;br&gt;녹음기에는 교사가 주씨 아들에게 “버릇이 고약하다. 너를 얘기하는 거야” “아유 싫어. 싫어 죽겠어. 너 싫다고. 정말 싫어” 등으로 말한 내용이 담겼다. 이후 주씨가 교사를 아동 학대 혐의로 고소했고 같은해 12월 검찰이 교사를 기소했다. 이 사건은 2023년 7월 알려지면서 논란이 됐다. 당시 ‘서이초’ 사건 등과 맞물려 교권 추락이 이슈가 됐고, 주씨의 무리한 기소라는 여론이 모이며 주씨를 비판하는 목소리가 높았다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KVKX7QOH25LHFKCYMDF4LCY2NA.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;웹툰 작가 주호민씨 아들을 학대한 혐의로 1심에서 벌금 200만원 선고유예를 받은 특수교사 A씨가 지난해 2월 6일 오전 경기 수원시 영통구 수원지방법원에서 기자회견을 마치고 인사를 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;1·2심 재판에서는 대법원의 ‘몰래 녹음은 증거로 쓸 수 없다’는 판결에 따라 교사 몰래 한 녹음이 증거로 쓰일 수 있는지가 쟁점이 됐다. 1심 재판부는 “정당한 행위에 해당한다”며 증거 능력을 인정했다. 검찰과 A씨 측은 항소심에서도 녹음파일의 증거 능력 여부를 놓고 다퉜다.&lt;br&gt;&lt;br&gt;이날 검찰은 “피해아동은 중증 자폐성 장애아동으로 스스로 방어할 능력이 극히 미약해 아동의 모친은 녹음하는 것 외에 마땅한 방법을 찾기 어려웠을 것으로, 동기나 목적의 정당성이 있다고 보기 상당하다”며 “피고인의 사생활과 관련한 내용이 녹음되지 않아, 학대를 보호하기 위한 이익이 더 크다”고 했다. 또 “피고인의 반복적인 부정적 표현은 정서적 아동학대 행위에 해당한다”며 “제 4살 아들 역시 ‘싫어’ ‘미워’ 등이 부정적인 표현인걸 다 안다”고도 했다.&lt;br&gt;&lt;br&gt;변호인 측은 “녹음 이외에도 다른 학부무와 정보를 공유하거나, 교사와의 소통, 상담 등 다른 수단이 있었고, 긴박한 사정도 없었다”며 “교육 현장에서 일어나는 일을 몰래 녹음하는 행위를 정당행위에 해당한다고 허용해 주고 합법화해 줄 경우 사회적 파급력이 너무나 크다”고 했다. 변호인은 “1심 재판부가 (녹음이)정당행위에 해당한다는 것(법리)을 무리하게 적용했고, 구체적인 경위를 보면 정당행위로 볼 수도 없다”고 했다.&lt;br&gt;&lt;br&gt;최후 진술에 나선 A씨는 “교직생활 20년을 돌아보면 부끄러운 교사는 아니었다. 1000만 번을 생각해도 전 아동학대범이 아니다. 장애를 가진 아이들이 다른 사람들과 더불어 살아가는 방법을 가르치려 노력했던 특수교사일 뿐”이라며 “제가 일상을 살아갈 수 있도록 간곡히 부탁드린다”고 했다.&lt;br&gt;&lt;br&gt;한편, 2심 선고는 다음달 18일 오후 3시 30분에 진행된다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘서부지법 판사실 침입’ 40대 남성 구속영장 신청</title>
-      <link>https://www.chosun.com/national/2025/01/21/R35L6YPJQNHMHHLLMJPVLHXXPY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2025/01/21/R35L6YPJQNHMHHLLMJPVLHXXPY/</guid>
-      <dc:creator>주형식 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 21 Jan 2025 09:32:47 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JV3ZT565HYKB2FDCYR5B5U7KCU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 19일 새벽 윤석열 대통령에 대한 구속영장이 발부되자 서울 마포구 서울서부지법에 지지자들이 진입해 난동을 부리고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰이 지난 19일 서울서부지법 판사실에 침입한 혐의를 받는 40대 남성을 전날 긴급체포해 구속영장을 신청했다.&lt;br&gt;&lt;br&gt;서울경찰청은 서울서부지법 7층 판사실 출입문 손괴 및 침입 등 혐의로 40대 남성 A씨를 긴급체포했다고 21일 밝혔다. 경찰은 법원 내 방범카메라·채증자료·유튜브 등 영상 분석자료를 토대로 피의자 조사를 한 뒤 이날 구속영장을 신청했다.&lt;br&gt;&lt;br&gt;또 서울서부지법에 침입한 혐의를 받는 피의자 2명을 입건해 불구속 수사 중이다. 이들은 지난 19일과 전날에 각각 ‘서부지법에 불법 침입했다’며 경찰에 자수한 것으로 파악됐다.&lt;br&gt;&lt;br&gt;경찰은 휴대전화·채증영상 등 영상자료와 현장 감식을 통해 확보한 자료 등을 분석해 불법행위자를 특정하고 엄정하게 수사하겠다고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/JV3ZT565HYKB2FDCYR5B5U7KCU.jpg?width=4032&amp;height=3024&amp;auth=51432da215d73d95b3e18ff35d8e3f4a2ad25dba6d46468619733415484b4b3d&amp;smart=true" type="image/jpeg" height="3024" width="4032">
-        <media:description type="plain">지난 19일 새벽 윤석열 대통령에 대한 구속영장이 발부되자 서울 마포구 서울서부지법에 지지자들이 진입해 난동을 부리고 있다./뉴스1</media:description>
-        <media:credit role="author" scheme="urn:ebu">뉴스1 ⓒ News1 김민수 기자</media:credit>
-      </media:content>
-    </item>
-    <item>
-      <title>“피부 나이 10살 어려져요”… 이런 표현, 이제 못 쓴다</title>
-      <link>https://www.chosun.com/national/national_general/2025/01/21/FQ37RFJLRFE2JIOGUDVQAMYX7A/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/21/FQ37RFJLRFE2JIOGUDVQAMYX7A/</guid>
-      <dc:creator>박선민 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 21 Jan 2025 08:36:49 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HRSVCQHURNOJRAQGQK644RYW3U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 6일 서울의 한 대형마트에서 관계자가 화장품을 고르고 있다. /연합뉴스 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;식품의약품안전처가 화장품에 사용하는 표시 및 광고 금지 표현을 확대했다. 이에 따라 ‘피부 나이 n세 감소’ 등의 표현도 화장품 광고 금지 표현이 될 예정이다. &lt;br&gt;&lt;br&gt;식약처는 21일 화장품 허위·과대 광고로 적발된 사례를 분석해 위반 시 사용한 문구를 금지 표현으로 추가하는 등 ‘화장품 표시·광고 관리 지침’(민원인 안내서)을 개정했다고 밝혔다. &lt;br&gt;&lt;br&gt;개정된 사항은 ▲의약 전문가 지정·추천(병원용 등) 표현 금지 ▲인체 유래 성분(엑소좀 등) 표현 금지 ▲제품 사용 방법의 사실오인(마이크로니들 등) 표현 금지 ▲피부 나이 n세 감소(피부 나이 5세 어려짐 등) 표현 금지 등이다. 이 같은 표현은 이날부터 금지된다. &lt;br&gt;&lt;br&gt;식약처는 각각의 개정 사유에 대해선 의료기관&lt;u&gt; 및&lt;/u&gt; 약국에서 지정 및 사용하는 것으로 소비자가 오인할 가능성이 있고, 인체 유래 성분은 ‘식물 엑소좀’ 등으로 명확하게 표현할 필요성이 있으며, 화장품 범위를 벗어나는 사용 방법을 표현하지 않도록 하기 위해서라고 했다. 또 피부 나이 n세 감소의 표현을 금지한 이유는 소비자가 오인할 수 있기 때문이라며, 대체 표현으로 ‘피부노화지수’ 등을 사용할 것을 권고했다. &lt;br&gt;&lt;br&gt;식약처는 “앞으로도 화장품 영업자가 표시·광고 업무에 참고할 수 있도록 주의사항과 금지 표현을 구체적으로 안내할 예정”이라며 “소비자가 화장품을 구매하면서 허위·과대 광고에 현혹되지 않도록 해달라”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>서울 의대생 30% 복귀...‘복귀자 블랙리스트’ 떠돌고 도넘은 인신공격까지</title>
-      <link>https://www.chosun.com/national/welfare-medical/2025/01/21/F67JVR5AQVAQFBRXLIDLP3D6II/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/01/21/F67JVR5AQVAQFBRXLIDLP3D6II/</guid>
-      <dc:creator>강다은 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 21 Jan 2025 08:55:05 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VVGVYHZX6PJH5OPXOXHTEX4LZE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 30일 서울의 한 의과대학 부속 건물 앞으로 시민들이 오가고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울의대 본과 3·4학년생 일부가 강의실로 복귀하자 의사·의대생 전용 커뮤니티에 ‘복귀자 실명 블랙리스트’가 유포됐다. 복귀생들을 향한 욕설과 비난 등 온라인상의 폭력이 이어지고 있는 것이다.&lt;br&gt;&lt;br&gt;21일 의료계에 따르면 전날 개강한 서울의대 본과 3학년 ‘임상 추론’ 과목의 세부 강의에는 전체의 약 30% 수준인 40여 명이 출석했다. 이날 본과 4학년을 대상으로 한 ‘인간·사회·의료’ 과목의 세부 강의에도 30여 명이 왔다.&lt;br&gt;&lt;br&gt;이런 사실이 알려지자, 의사·의대생 신분을 인증해야 활동이 가능한 온라인 커뮤니티 메디스태프에는 복귀생들의 학년과 실명이 표기된 명단이 곧바로 유포됐다. ‘서울대 본4 여러분 이름 기억할게요’라며 수십명의 실명을 나열하거나, 좌표를 찍듯 복귀생의 소셜미디어를 공개했다. 그러면서 댓글 등을 통해 ‘병신’ ‘매국노’ ‘친일파’와 같은 악의적 비난을 퍼부었다. 일부 이용자들은 ‘(복귀자들을) 잡아 족쳐야’ ‘돌아간 30%를 빨리 잘라내고 고립시켜야’라고 했다.&lt;br&gt;&lt;br&gt;특히 과대표 등 학생 간부들의 복학 소식이 알려지면서 이들에 대한 인신공격과 성희롱성 게시글도 이어졌다.&lt;br&gt;&lt;br&gt;또 학생회가 만들어 서울의대생들이 모여 있는 카카오톡 익명 채팅방에는 타 대학생이나 전공의로 추정되는 수십명이 난입해 폐쇄되는 일까지 있었다. 메디스태프에 이 채팅방에 입장할 수 있는 링크와 비밀번호, 아이디 설정 방법 등을 담은 글이 게시되자, 서울의대생이 아닌 사람들이 채팅방에 들어온 것이다. 이들은 ‘언제까지 투쟁을 방해할 것이냐’ ‘복귀자 비율이 많은 것은 이기적인 사람이 많아서 그렇다’ 등의 글을 쏟아내며 복귀자들을 압박했다. 이후 채팅방은 개설자에 의해 폐쇄됐다.&lt;br&gt;&lt;br&gt;일부 복귀자들은 학교 측에 도움을 요청하거나, 개인적인 법적 조치도 검토하고 있는 것으로 알려졌다. 한 복귀생은 “스토킹 처벌법 위반 등의 혐의로 법적 조치할 수 있을지 변호사에게 문의했다는 복귀생들도 있다”며 “학장단에 정식으로 상황을 설명하고 도움을 구해야 한다는 말도 나온다”고 말했다.&lt;br&gt;&lt;br&gt;한편 서울의대 3·4학년 학생들의 복귀는 다른 학년과 타 대학 복귀 분위기에도 영향을 줄 것으로 보인다. 서울대는 지난 20일 본과 3·4학년이 개강했고, 2학년은 2월, 1학년은 3월 각각 개강한다. 연세대 의대도 지난 13~20일 본과 3·4학년을 대상으로 1차 복학 신청을 받은 결과, 일부 학생들이 복귀 의사를 밝혔다. 가톨릭의대 등 타 의대도 오는 3월 복학할 학생들의 신청을 받고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“내신 상대평가와 수능 영어듣기 폐지”...경기도교육청 대입 개혁안 제시</title>
-      <link>https://www.chosun.com/national/national_general/2025/01/21/NXFZTW7C5ZGLDLPP2V6ONGZEA4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/21/NXFZTW7C5ZGLDLPP2V6ONGZEA4/</guid>
-      <dc:creator>김현수 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 21 Jan 2025 06:09:29 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SQLEITHNXUEJYGHKYNF7KTLKM4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;임태희 경기도교육감이 21일 대학입시 개혁안을 발표하고 있다. /경기도교육청 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기도교육청이 학교 내신 평가에서 상대평가를 폐지하고, 대입 수능에서는 영어 듣기평가를 폐지하는 등의 내용이 담긴 대학입시 개혁안을 21일 제시했다.&lt;br&gt;&lt;br&gt;개혁안은 내신평가 변화, 대학수학능력시험 체제 개편, 대입전형 개선 등 3가지 분야로 구성됐다.&lt;br&gt;&lt;br&gt;우선 내신평가에서 과도한 경쟁을 유발하는 상대평가를 폐지하고 5단계 절대평가 도입을 제안했다. 인공지능(AI), 빅데이터 등으로 대변되는 미래 사회를 대비하기 위해 창의적 사고력과 문제해결력 등을 측정할 수 있는 서·논술형 평가도 확대하도록 했다. 서술·논술형 평가는 사교육 유발의 원인이 되지 않도록 2026학년도 중학교 1학년 입학생부터 순차적으로 확대 적용하는 방안을 제시했다.&lt;br&gt;&lt;br&gt;학교생활기록부 기록 방법 개선안도 내놓았다. 과목별 성취 수준 중심의 체크리스트를 만들어 작성하도록 하자는 것이다. 기존 학교생활기록부 기록 방식은 교사별 역량이나 학교별·지역별 편차에 따른 객관성·공정성 문제가 제기돼 왔다.&lt;br&gt;&lt;br&gt;대학수학능력시험 체제 개편 분야의 주요 개선안은 기존 상대 평가를 5단계 절대평가로 전환하자는 것이다. 현 수능이 한 번의 시험 성적이 대학입학을 결정하는 만큼 2032학년도 수능부터 절대평가 도입으로 학생들의 학습 부담을 줄이자는 취지다. &lt;br&gt;&lt;br&gt;내신과 마찬가지로 수능에서도 서·논술형 평가 도입을 제안했다. 경기도교육청은 채점의 신뢰성 문제를 해결하기 위해 1단계 AI 기반 채점 시스템 도입, 2단계 수능 전문 평가단 운영 및 채점, 3단계 검증 체제 구축 등 단계별 채점 시스템을 도입하도록 했다. &lt;br&gt;&lt;br&gt;이와 함께 ‘수능 영어 듣기평가’를 전면 폐지할 것도 제안했다. 영어 수업과 수행평가에서 이미 ‘듣기’ 영역을 충분히 학습하고 있는 데다 학교별 방송시설 환경 편차, 돌발상황에 대한 대처의 어려움 등으로 수능 시험장 운영교 기피 현상 지속되고 있기 때문이다.&lt;br&gt;&lt;br&gt;대입전형 개선 분야에서는 수시·정시의 통합전형 운영을 제안했다. 수시·정시의 분리가 학생 대학지원의 불확실성을 가중시킴에 따라 학생 내신 평가와 학교생활기록부, 수능 성적을 종합하자는 것이다. 또 수능에 서·논술형 평가를 도입할 경우 충분한 채점 기간 확보를 위해 수능 시기를 두 달 이상 앞당기는 대입전형 시기 조정을 제시했다.&lt;br&gt;&lt;br&gt;임태희 경기도교육감은 “대학 입시가 바뀌지 않으면 초중고 교육이 본질과 관계없는 곳에 모든 에너지를 낭비하며 결국 망가지게 된다”며 “경기도교육청은 대입 개혁을 결정할 위치에 있지 않고 권한도 없지만 우리나라 학생 3분의 1이 있는 교육청으로서 앞장서지 않으면 책임을 회피하는 것”이라고 말했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
