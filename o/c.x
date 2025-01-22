@@ -13,6 +13,61 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>이이경父, 퀴어 영화 출연에 “제작비 다 물어줄테니 집어치워” ...누구길래</title>
+      <link>https://www.chosun.com/national/people/2025/01/22/S2GCU7UPBZAIVDIAZMANNX4SHU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/01/22/S2GCU7UPBZAIVDIAZMANNX4SHU/</guid>
+      <dc:creator>정아임 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 22 Jan 2025 04:48:35 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FQECQ6SSJNI2FATVLVKWRVIHDA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;배우 이이경./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;배우 이이경이 데뷔 초 동성애를 다룬 영화를 찍는다는 사실에 아버지가 분노한 적이 있다고 털어놨다. 대기업 임원 출신으로 알려진 그의 아버지는 당시 “제작비 그냥 다 물어줄 테니까 그냥 빨리 (집으로) 들어와”라고 말했다고 한다. &lt;br&gt;&lt;br&gt;이이경은 지난 20일 유튜브 채널 ‘짠한형 신동엽’에 출연해 “‘백야’가 제 데뷔 영화인데, 동성애를 다룬 영화를 몰래 촬영했다가 대본을 보셔서 집안이 난리가 났었다”며 “(대본에) ‘XX를 한다’고 쓰여 있는데, 부모님이 읽고 충격을 받았다”고 했다.&lt;br&gt;&lt;br&gt;이어 “(작품을) 몰래 찍고 있었는데, 촬영 중에 아버지 연락이 왔다”며 “‘너 지금 백야라는 작품 찍고 있냐. 야 다 집어치우고 집으로 들어와라. 거기 제작비 다 그냥 물어줄 테니까 그냥 빨리 들어와라’(라고 하셨다)”고 회상했다.&lt;br&gt;&lt;br&gt;영상이 공개된 뒤, 온라인상에서는 영화 제작비를 다 물어줄 만큼의 재력을 가진 이이경의 아버지가 누구인지에 관심이 집중됐다. &lt;br&gt;&lt;br&gt;이이경의 부친은 LG전자 출신으로, LG이노텍 대표이사, LG화학 전지사업본부장 사장 등을 역임한 이웅범씨다. 이 전 사장은 1983년 반도상사(현재 LX인터내셔널)에 입사해 LG전자 MC(모바일커뮤니케이션)사업본부 생산 담당 부사장, LG이노텍 대표이사 사장(2014년), LG화학 전지사업본부장 사장(2016년) 등을 거쳤다. 2017년 기업 은퇴 후 2018년 연암공과대학교 11대 총장에 취임한 뒤 2020년 퇴임했다.&lt;br&gt;&lt;br&gt;이 전 사장은 2012년 적자를 내던 LG이노텍 대표이사에 취임한 뒤 이후 14분기 연속 흑자를 내는 등 탁월한 실적 개선을 이끌어 당시 구본준 LG그룹 부회장(현 LX 회장)으로부터 남다른 총애를 받은 것으로 전해진다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>122만명 투약 가능한 마약 61㎏ 만든 ‘캐나다·미국 갱단’ 출신 일당 적발</title>
+      <link>https://www.chosun.com/national/incident/2025/01/22/54IMKNP3G5GNLKWQHRPZ6AZNPA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/01/22/54IMKNP3G5GNLKWQHRPZ6AZNPA/</guid>
+      <dc:creator>인천=이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 22 Jan 2025 05:05:52 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PKRVRGMUHXWNUTCMSY5AKSC7IY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;밀수된 액상 코카인에 염산 등 물질을 넣어 제조된 고체 코카인./인천지검
+&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;밀수한 액상 마약을 122만명이 투약할 수 있는 고체 형태의 마약으로 만들어 유통하려 한 일당이 법정에 서게 됐다.&lt;br&gt;&lt;br&gt;인천지검 강력범죄수사부(부장 박성민)는 특정범죄가중처벌법 위반, 마약류 관리에 관한 법률 위반 등 혐의로 캐나다 마약 조직원 A(55)씨 등 5명을 구속 기소하고, 국내 제조 총책 B(34)씨 등 2명을 불구속 기소했다고 22일 밝혔다. 검찰은 또 해외로 도주한 공범 4명에 대해 인터폴에 적색수배를 요청했다.&lt;br&gt;&lt;br&gt;A씨 등은 지난해 6∼7월 강원도 횡성군의 한 창고에서 콜롬비아 국적 기술자 2명과 함께 밀수한 액상 코카인에 염산 등 물질을 넣어 고체 코카인 61㎏을 만든 혐의 등으로 기소됐다.&lt;br&gt;&lt;br&gt;고체 코카인 61㎏은 약 300억원 상당으로, 122만명이 동시에 투약할 수 있는 양이다. 이는 국내 코카인 범죄 사상 최대 규모라는 게 검찰 설명이다.&lt;br&gt;&lt;br&gt;A씨 등은 지난 2020년 7월부터 지난해 9월 사이, 콜롬비아에서 대량의 액상 코카인을 부산항으로 밀수한 뒤 호주로 재수출하는 과정에서, 일부를 국내에 남겨 고체 코카인을 만든 것으로 조사됐다.&lt;br&gt;&lt;br&gt;건축용 자재로 속여 밀수한 액상 코카인을 재수출할 때는 국산 건축 자재인 것처럼 가장하는 이른바 ‘통갈이 수법’을 동원했다.&lt;br&gt;&lt;br&gt;범행을 주도한 A씨는 필리핀계 캐나다인으로 캐나다 갱단 출신이고, 국내 코카인 제조 총책인 B씨는 어릴 때 미국에 살면서 로스앤젤레스(LA) 갱단에서 활동했던 것으로 파악됐다.&lt;br&gt;&lt;br&gt;검찰은 이들이 국제 마약 조직과 연계돼 범행한 것으로 보고 있다. 범행에 활용된 창고와 사무실 임대료, 위장용 국산 건축자제 구입비, 운반비 등을 국제 마약 조직이 전액 지원했다는 것이다.&lt;br&gt;&lt;br&gt;검찰은 국제 마약 조직이 콜롬비아에서 국내로 액상 코카인을 보낸 뒤 대부분 호주로 재수출했으나 최근엔 한국에서도 대량으로 유통할 수 있을 것으로 판단하고 판매 계획을 세운 것으로 보고 있다.&lt;br&gt;&lt;br&gt;검찰 관계자는 “국내 마약류 소비가 꾸준히 증가하고 있다”며 “국제 마약 조직의 국내 직접 진출이 확인된 만큼, 총체적인 대응이 필요하다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>아버지 등에 업힌 사진 공유한 RM… SK이노베이션과 인연 눈길 </title>
+      <link>https://www.chosun.com/national/national_general/2025/01/22/SKCKZFJEGZAULNHXJZQK3TEM3E/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/22/SKCKZFJEGZAULNHXJZQK3TEM3E/</guid>
+      <dc:creator>박선민 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 22 Jan 2025 05:00:04 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DL3GEB4RSJEGZPHHASNKJSXOKM.png"&gt;&lt;figcaption&gt;&lt;small&gt;/RM 인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그룹 방탄소년단 RM(본명 김남준)이 아버지와 추억이 담긴 사진을 공유하면서, 그가 과거 아버지에 대해 언급했던 영상들이 재조명되고 있다. &lt;br&gt;&lt;br&gt;RM은 20일 인스타그램 스토리를 통해 어릴 적 아버지와 함께 촬영한 사진 2장을 공개했다. 어린 RM과 아버지가 브이(V) 자를 그리며 카메라를 응시하는 모습과, 아버지가 RM을 업은 채 거뜬하다는 듯 팔 근육을 자랑하는 포즈를 취하는 모습이 각각 담겼다. &lt;br&gt;&lt;br&gt;RM의 아버지는 1990년대 초반 SK이노베이션의 전신인 SK에너지에 사무직으로 입사해 2018년 퇴직한 것으로 알려졌다. RM은 2022년 12월 유튜브 채널 ‘피식대학’ 인터뷰에 출연해 아버지가 SK에너지에 다니다 은퇴하셨다며 “아버지 때문에 화학공학과에 가려고 했다”고 직접 언급하기도 했다. 당시 RM은 손가락으로 본인을 가리키며 “SK에너지!”라고 외치기도 했다.&lt;br&gt;&lt;br&gt;SK이노베이션 관계자들에 따르면, RM의 부친은 재직 당시 회사 내에서 아들이 BTS 멤버인 것을 크게 티 내지 않았던 것으로 알려졌다. &lt;br&gt;&lt;br&gt;SK이노베이션이 후원하는 사회적 기업 ‘모어댄’ 역시 RM 덕분에 관심을 받기도 했다. RM이 2017년 가족과 휴식차 떠난 유럽 여행에서 모어댄 백팩을 사용하는 사진을 자신의 소셜미디어에 올렸는데, 이후 이 제품이 동났었다. &lt;br&gt;&lt;br&gt;RM은 최근 최태원 SK그룹 회장을 만난 인연도 있다. BTS가 ‘2030 부산세계박람회(엑스포)’ 홍보대사로 위촉되면서 7월 19일 서울 용산구 BTS 소속사 하이브 위촉식에서 만난 것이다. 이 자리에서 최 회장은 BTS에 대해 “긴말이 필요 없다”며 “천군만마를 얻었다고 표현할 수 있을 것 같다”라고 환영했고, BTS를 대표해 위촉 소감을 발표한 RM도 “부산엑스포 홍보대사로 위촉돼 진심으로 영광”이라며 “미력하나마 작은 힘을 보태겠다”고 했다. &lt;br&gt;&lt;br&gt;RM은 2023년 12월 군에 입대해 현재 육군 제15보병사단에서 군악대로 복무하고 있다. 올해 6월 전역할 예정이다. &lt;br&gt;&lt;br&gt;RM은 군 생활 중이던 작년 9월 자신의 생일을 맞아 보훈 기금 1억원을 기부해 화제를 모으기도 했다. 당시 강정애 국가보훈부 장관이 직접 “국가와 사회에 대한 존중과 책임감을 바탕으로 더 나은 세상을 만들기 위해 노력하는 RM님의 뜻깊은 배려에 깊은 감동을 느낀다”며 감사 편지를 보내기도 했다. RM이 전달한 기부금은 국가 유공자와 유가족의 예우와 복지 증진을 위해 사용될 예정이다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“공모가 10%가격에 사주겠다”…투자금 9억원 가로챈 일당들 </title>
+      <link>https://www.chosun.com/national/2025/01/22/DF7JVZOLNFGBZEB5HNTPKIRSFM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2025/01/22/DF7JVZOLNFGBZEB5HNTPKIRSFM/</guid>
+      <dc:creator>창원=김준호 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 22 Jan 2025 04:31:22 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NZG3SZYQEOUOOYK4WWKMDUSLT4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;비상장주식 투자 사기를 벌인 일당이 차린 경기도 남양주시 콜센터 사무실 모습. /경남경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;비상장 주식을 싸게 사 고수익을 낼 수 있다고 속여 피해자들로부터 수억원을 챙긴 투자사기 일당이 경찰에게 붙잡혔다.&lt;br&gt;&lt;br&gt;경남경찰청 반부패경제범죄수사대는 사기 및 자본시장법 위반 등의 혐의로 19명을 검거해 이 중 총책 A씨 등 13명을 구속 송치했다고 22일 밝혔다.&lt;br&gt;&lt;br&gt;A씨 등은 지난해 2월부터 8월까지 경기도 남양주시에 투자 리딩방 콜센터 사무실을 차리고 피해자 52명으로부터 약 9억원을 받아 가로챈 혐의를 받는다.&lt;br&gt;&lt;br&gt;경찰 조사 결과 A씨 등은 주식 투자 등에 관심이 있는 피해자들의 개인정보를 미리 확보한 뒤 나이나 투자 성향을 분석해 일일이 전화나 메시지를 발송하고, 실제 공모 예정인 바이오주 등 인기 종목을 추천했다.&lt;br&gt;&lt;br&gt;이에 관심을 보인 피해자들을 카카오톡 오픈채팅방으로 초대했다. 그러면서 “비상장 회사들의 주식 상장이 예정돼 있으며, 공모가의 10% 가격에 살 수 있게 해주겠다”고 속였다.&lt;br&gt;&lt;br&gt;보통 개인이 공모주를 매수하면 소량만 배당받는데, A씨 등 일당은 단체로 매수해 수익률을 높이고 이를 다시 분배하겠다는 식으로 피해자들을 유혹했다.&lt;br&gt;&lt;br&gt;피해자들은 투자 금액 대비 수익을 5~10배 만들어주겠다는 말에 속아 투자했다.&lt;br&gt;&lt;br&gt;가장 많은 투자한 피해자는 7590만원을 일당에 건넨 것으로 조사됐다. 또 다른 피해자는 다른 곳으로부터 투자 사기를 당하고도, 피해를 만회하고 싶은 마음에 A씨 일당에 투자했다가 또 피해를 봤다.&lt;br&gt;&lt;br&gt;A씨 등 일당은 피해자들이 보낸 돈으로 단 1주의 주식도 사지 않았다. 피해금 대부분은 직원들 수수료 명목 수당과 야유회 비용, 사무실 이전 비용, 유흥비 등으로 썼다고 한다.&lt;br&gt;&lt;br&gt;신고를 접수한 경찰은 전담 수사팀을 꾸려 이들을 추적해 차례로 붙잡았다.&lt;br&gt;&lt;br&gt;경찰은 여러 계좌로 분산 송금하며 세탁한 범죄 수익금을 추적하는 동시에 일당의 계좌를 동결하고, 현장에서 확보한 1200만 원 등 총 8900만 원 상당은 기소 전 추징보전 신청했다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “일당을 붙잡으면서 또 다른 300명으로부터 받기로 한 수십억원의 투자금을 지킬 수 있었다”며 “이번 범행과 연계된 조직을 계속 추적해 검거할 예정이다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>찾으면 ‘대박’...제주 ‘숨은 조상땅 찾기’ 행렬 이어진다</title>
+      <link>https://www.chosun.com/national/regional/2025/01/22/CZQ6NE733VH3PFEUSQKENOEAHU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/01/22/CZQ6NE733VH3PFEUSQKENOEAHU/</guid>
+      <dc:creator>제주=오재용 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 22 Jan 2025 03:50:49 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3ZRERVNGIVE7XDVI2S4NKW4JKU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;제주도청 정문./제주도&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제주지역 부동산 가격이 오르면서 ‘조상 땅 찾기’ 행렬이 이어지고 있다.&lt;br&gt;&lt;br&gt;22일 제주도에 따르면 최근 5년간 제주에서 조상 땅 찾기 서비스를 이용해 1만여 명이 조상 명의의 ‘숨은 땅’을 찾은 것으로 나타났다. 한해 평균 2000여명이 숨은 조상 땅을 찾은 것이다.&lt;br&gt;&lt;br&gt;제주도는 지적 전산자료를 활용한 조상 땅 찾기 서비스를 통해 지난해 2056명에게 7964필지(868만㎡)의 토지 소유 현황을 제공하는 등 최근 5년(2020~2024년) 동안 1만124명에게 3만9752필지, 3604만7578㎡의 조상 땅정보를 제공했다. &lt;br&gt;&lt;br&gt;제주에서 조상 땅 찾기 서비스를 이용해 후손들이 실제 땅을 찾은 사례는 매년 꾸준하다. 2020년 1803명이 7223필지, 2021년 2063명이 8204필지, 2022년 2187명이 8649필지, 2023년 2015명이 7712필지, 2024년 2056명이 7964필지의 조상 땅을 찾았다.&lt;br&gt;&lt;br&gt;이렇게 해서 찾은 땅의 가치는 적게는 수 억원에서 많게는 수십 억원에 달하면서 로또 당첨에 비유되고 있다. 신청 건수 대비 조상 땅을 찾는 비율은 40% 안팎에 이른다. 최근 5년간 전체 신청인원 2만3262명 중 43.5%(1만124명)가 땅 찾기에 성공했다.&lt;br&gt;&lt;br&gt;제주도는 제주 4·3사건으로 인해 가족이 사망 또는 행방불명되거나 마을이 불에 타서 사라지면서 소유한 땅을 두고 이주한 사례 등이 많기 때문인 것으로 분석했다. 또 일본이나 육지 등 다른 지역에 살다가 이후 조상의 땅을 찾는 사례도 나오고 있다. 결정적으로 제주지역 부동산값이 폭등하면서 조상 땅 찾기에 대한 관심이 커졌다.&lt;br&gt;&lt;br&gt;제주도 관계자는 “제주4·3 당시 조상이 소유한 땅을 주로 확인하다 보니 대다수 민원인들은 부친보다는 조부나 증조부 명의의 땅을 확인하는 사례가 많다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“우리 마을 안돼요”… 제주 화북공업지역 이전 결국 무산</title>
+      <link>https://www.chosun.com/national/regional/2025/01/22/V7JHIDMBNRCIHPXAXS732QISPQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/01/22/V7JHIDMBNRCIHPXAXS732QISPQ/</guid>
+      <dc:creator>제주=오재용 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 22 Jan 2025 03:41:22 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7JRD76OH7RBDDNCEGX6LU5VZF4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;제주시 화북동에 위치한 화북공업지역./오재용 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;40년 여 전 조성된 제주 화북공업지역을 이전하려던 계획이 무산됐다. 후보지역 주민들의 동의를 얻지 못했기 때문이다.&lt;br&gt;&lt;br&gt;제주도는 화북공업지역 대체입지 선정을 장기 과제로 검토하기로 했다고 22일 밝혔다.&lt;br&gt;&lt;br&gt;1987년 조성된 화북공업지역은 도시 확장으로 인근에 아파트 단지가 들어서는 등 주민 거주가 늘어나면서 공장을 옮겨달라는 민원이 제기돼 왔지만, 대체용지를 확보하는 데 어려움을 겪어왔다. 화북공업지역은 총면적 67만8000㎡에 250여개 업체가 입주해 있다.&lt;br&gt;&lt;br&gt;제주도는 용역을 통해 검토된 후보지 6곳 중 교통 여건과 주민 수용 가능성 등을 종합적으로 고려해 제주시 조천읍 조천리를 1순위, 구좌읍 덕천리를 2순위 후보지로 결정했다. 그러나 두 지역 주민이 모두 이를 거부하면서 부득이하게 장기 과제로 검토할 수밖에 없게 됐다는 것이 제주도의 설명이다.&lt;br&gt;&lt;br&gt;조천리의 경우 지난해 5월 주민설명회가 지역 주민들의 강한 반대로 무산됐다. 이어 지난해 11월 덕천리에서 주민 100여명이 참석한 가운데 설명회를 열었으나 설명회 이후 일부 주민을 중심으로 반대대책위원회가 구성되는 등 마을 내부 갈등이 심화했다.&lt;br&gt;&lt;br&gt;제주도는 이전하는 대신 화북공업지역의 체계적 관리와 활성화를 위한 지구단위계획 수립에 착수한다. 올해 예산 3억원을 투입해 주거환경 개선과 미래전략산업 유치를 위한 종합적인 관리 방안을 마련한다. 이를 통해 주민 갈등의 원인이 돼온 주거환경 저해 시설 신규 입지를 제한한다. 아직 개발되지 않은 유휴부지는 미래전략산업을 유치해 융복합거점구축 지역으로 관리한다.&lt;br&gt;&lt;br&gt;제주도는 이를 위해 도시계획 전문가, 지역 주민, 입주기업, 공무원 등으로 구성된 워킹그룹을 운영하고 화북공업지역 관리·활성화 방안과 미래전략산업 업종을 발굴해 나갈 계획이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>[속보] 법원, ‘서부지법 난입’ 58명 중 56명 구속영장 발부... “도주 우려”</title>
       <link>https://www.chosun.com/national/national_general/2025/01/22/MFVJTEBUQJGI3IIWAVRCSVBUIY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/22/MFVJTEBUQJGI3IIWAVRCSVBUIY/</guid>
@@ -851,33 +906,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PF7HNLEKOMNAXLWBOVWSLSOTKI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;국민은행./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;미공개 정보를 이용해 약 50억원의 부당 이득을 취한 은행 직원에 대해 법원이 징역 3년 6개월에 벌금 170억원을 선고했다.&lt;br&gt;&lt;br&gt;서울남부지법 형사합의13부(재판장 김상연)는 21일 자본시장법 위반 등의 혐의로 구속기소된 KB 국민은행 증권대행사업부 소속 직원이던 조모(53)씨에 대해 징역 3년 6개월과 벌금 170억원을 선고했다. 49억7400만원의 추징도 명령했다.&lt;br&gt;&lt;br&gt;이날 재판부는 “피고인이 직접 취득한 무상 증자는 49억74000만원에 해당하고 자본시장법에 따르면 징역형 외에도 부당 액수에 따라 그의 3배 정도를 벌금형으로 정한다”며 벌금 액수를 설명했다.&lt;br&gt;&lt;br&gt;재판부는 “조씨가 근무하며 직무상 알게 된 미공개 중요 정보를 직접 이용했으며 타인에게 전달했다. 이런 행위는 자본시장법의 공정성을 위반했다”며 “조씨는 반복적으로 상당 기간에 걸쳐 50억원에 달하는 부당 이득을 취했고 상당히 금액이 크다”고 판시했다.&lt;br&gt;&lt;br&gt;다만 재판부는 “피고인의 행위에 대해 법리적 다툼이 있다는 점, 피고인이 범행을 인정하고 반성하는 점, 피고인에게 징역형 이상의 전력이 없다는 점 등을 고려했다”며 양형 사유를 설명했다.&lt;br&gt;&lt;br&gt;앞서 조씨는 2021년 1월부터 2023년 2월까지 상장사의 무상증자 예정 정보를 이용해 61개 종목의 주식을 매수하는 등 합계 50억원 상당의 부당이득을 취하고, 위 정보 중 일부를 지인 2명에게 알려줘 총 6억원 상당의 부당이득을 얻게 한 혐의로 지난해 7월 구속 기소됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>호우 재난문자 올여름 전국 확대...AI로 6시간 전부터 ‘집중호우’ 예측</title>
-      <link>https://www.chosun.com/national/transport-environment/2025/01/21/MX63R4EPXVGJBJSJ7MCQQPARJ4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/01/21/MX63R4EPXVGJBJSJ7MCQQPARJ4/</guid>
-      <dc:creator>박상현 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 21 Jan 2025 05:30:47 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/47RG5SRE2NDLBL572MTX5EZVOY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2024년 여름 충남 청양군 청남면 인양리에서 집중호우로 인해 무너진 제방을 복구하는 작업이 진행되고 있다. 논과 밭은 물에 잠겨 있는 상태다. /신현종 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;여름철 삽시간에 쏟아지는 ‘물폭탄’에 대비해 기상청이 인공지능(AI)을 활용해 호우 6시간 전 강수를 예측·발표하기로 했다. 집중호우가 퍼부을 때 보내는 재난문자도 올 여름부터 전국에 발송된다.&lt;br&gt;&lt;br&gt;기상청은 이 같은 내용이 담긴 올해 주요 업무 추진 계획을 21일 발표했다. 주로 비·눈으로 인해 발생하는 재난 대비에 초점이 맞춰졌다.&lt;br&gt;&lt;br&gt;기상청은 올해부터 호우 긴급재난문자 발송 지역을 전국으로 넓히기로 했다. 기존에 수도권과 전남·경북에만 발송되던 것을 확대한 것이다. 온난화 여파로 작년 한해에만 시간당 100㎜가 넘는 ‘극한 호우’가 9차례 쏟아지는 등 커져가는 비 피해를 대비하기 위한 조처다. 호우 재난문자는 ‘1시간 강수량 50㎜ 이상이면서 3시간 강수량 90㎜ 이상인 경우’ 또는 ‘1시간 강수량 72㎜ 이상인 경우’ 등 극한호우가 내렸을 때 발송한다.&lt;br&gt;&lt;br&gt;기상청은 호우 정확도를 높이기 위해 5월부터 기상청이 자체 개발한 AI 초단기 강수예측모델을 활용해 ‘6시간 강수 예측’에 활용하기로 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KZL2EGBWRBPSXEKO3UH76P5ZVA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 9일 오후 광주 서구 무진대로에서 차량들이 폭설에 의해 정체되고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘호우 재난문자’에 이어 ‘대설 재난문자’도 오는 11월부터 발송된다. 적설량 자체보다도 눈 피해를 키우는 ‘눈 무게’에 초점을 두어 습기를 많이 머금은 습설인지, 가벼운 건설인지 등을 예보시 함께 안내할 예정이다. 현재는 호남과 강원·충청·경북에서만 눈 무게가 제공되는데, 연내 수도권(1월)과 영남·제주(11월)를 대상으로도 정보 제공을 시작한다.&lt;br&gt;&lt;br&gt;대형 교통사고를 유발하는 ‘블랙 아이스(도로 살얼음)’ 정보를 내비게이션으로 안내하는 서비스도 확대된다. 올해부터 서산영덕, 무안광주·광주대구, 순천완주, 새만금포항, 호남선 지선 등 5개 고속도로를 지날 때 내비게이션에서 블랙 아이스 주의 구역이 안내된다. 서비스 제공 고속도로가 12곳으로 늘면서 한국도로공사가 운영하는 고속도로 구간 78%가 서비스 대상에 들게 된다.&lt;br&gt;&lt;br&gt;올여름부터 기상청은 최대 5일 전까지 폭염 발생 가능성을 방재기관에 제공하고, ‘폭염영향예보’ 발표 시점을 하루 전에서 ‘이틀 전’으로 앞당기기로 했다. 호우·대설·강풍에 대해서도 2∼3일 전 방재기관에 발생 가능성을 통보하기로 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YO6S4MBZTXB2FXQ37JH3ZMMBOE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;폭설이 그친 후 한파가 찾아온 작년 11월 29일 오전 서울 종로구의 도로 곳곳이 얼어 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘기후플레이션’이라 불리는 이상기온으로 인한 물가 상승에도 대응한다. 배추·무·마늘·고추·양파 등 5개 채소를 대상으로 오는 8월부터 3개월 기온 전망에 따라 농산물에 예상되는 영향을 제시할 계획이다. 기상가뭄지수를 읍면동 단위로 현재보다 세분해 제공하고, 해갈에 필요한 강수량도 제시하기로 했다.&lt;br&gt;&lt;br&gt;온난화로 한반도 주변 해수면 온도가 크게 오르면서 오는 11월부터는 향후 3개월의 동해·서해·남해 해수면 온도도 예보할 계획이다. 다음달 ‘우리나라 연(年) 기후 전망’을 최초로 제공하고, 8월부터 6개월 단위로 동아시아 기후 전망도 내놓기로 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>경찰, ‘尹 탄핵심판’ 헌재 인근서 경찰 폭행 여성 1명 체포</title>
-      <link>https://www.chosun.com/national/national_general/2025/01/21/TI6TNTVVE5CZDNM2GZLGDU6AP4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/21/TI6TNTVVE5CZDNM2GZLGDU6AP4/</guid>
-      <dc:creator>안태민 기자, 강지은 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 21 Jan 2025 05:22:15 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/74JJQCHP75OFNFS7MHXU5G3BBU.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령의 탄핵심판 3차 변론이 열린 21일 서울 종로구 헌법재판소 인근에서 만일의 사태에 대비해 신체보호복을 착용한 경찰이 집회 참가자들을 관리하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 대통령의 탄핵 심판 3차 변론이 열리는 서울 종로구 헌법재판소 인근에서 경찰을 폭행한 여성이 체포됐다.&lt;br&gt;&lt;br&gt;21일 서울 종로경찰서는 이날 오후 1시 30분쯤 서울 지하철 3호선 안국역 2번 출구 인근에서 공무집행방해 혐의로 한 여성 1명을 현행범 체포했다고 밝혔다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “노년 여성이 경찰을 밀치고 폭행하다 현행범 체포됐다”고 밝혔다.&lt;br&gt;&lt;br&gt;탄핵심판 사건 3차 변론기일을 앞두고 윤 대통령 지지자들은 헌법재판소 인근에 속속 모여들었다.&lt;br&gt;&lt;br&gt;서울경찰청은 이날 충돌 상황에 대비해 헌법재판소 인근에 기동대 64개 부대, 경력 4000여명을 배치했다. 일부 경찰은 헬멧 등 보호장구를 착용하고 있다.&lt;br&gt;&lt;br&gt;지난 18일 윤 대통령의 구속영장 발부를 앞둔 서울서부지법 일대에는 지지자들이 모이며 충돌이 다수 발생한 바 있다．&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘허위사실 공표 혐의’ 서거석 전북교육감 항소심서 당선무효형</title>
-      <link>https://www.chosun.com/national/court_law/2025/01/21/Q6HBO3AO4RFVFJKG6H23XWE7LE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/01/21/Q6HBO3AO4RFVFJKG6H23XWE7LE/</guid>
-      <dc:creator>전주=김정엽 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 21 Jan 2025 06:14:04 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FEBZORBEINP2FO7FEMLC3YVTQE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서거석 전북교유감./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 2022년 지방선거 과정에서 동료 교수를 폭행했다는 의혹과 관련해 허위사실을 공표한 혐의로 1심에서 무죄를 선고받은 서거석 전북도교육감이 항소심에서 당선무효형을 선고받았다. &lt;br&gt;&lt;br&gt;광주고법 전주재판부 형사1부(재판장 양진수)는 21일 지방교육자치에 관한 법률 위반 혐의로 기소된 서거석 교육감의 항소심에서 무죄를 선고한 원심을 깨고 벌금 500만원을 선고했다. 서 교육감은 이번 판결이 확정되면 당선이 무효가 된다.&lt;br&gt;&lt;br&gt;재판부는 “피고인은 과거 의혹에 대해 일방적 폭행 피해자라고 주장하지만, 당시 현장에 있던 교수들의 진술과 이후 행적으로 미뤄 그러한 진술을 납득하기 어렵다”며 “여러 간접사실 정황을 종합해보면 피고인이 먼저 동료 교수를 손으로 폭행했고, 이후 그 교수가 피고인을 때려 쌍방 폭행이 일어났다고 보는 게 자연스럽다”고 했다.&lt;br&gt;&lt;br&gt;그러면서 “피고인은 교육감 선거에서 동료 교수 폭행 사건이 쟁점으로 떠오른 이후에도 토론회 등에서 ‘사실무근’이라는 식으로 부인했다”며 “이후 피고인은 당선을 목적으로 사회관계망서비스에 허위 사실을 올려 유권자의 올바른 판단을 해쳤다”고 선고 이유를 밝혔다. &lt;br&gt;&lt;br&gt;서 교육감은 지방선거 당시 상대 후보였던 천호성 전주교대 교수가 제기한 ‘전북대 총장 시절 동료 이귀재 교수 폭행 의혹’에 대해 “어떤 폭력도 없었다”며 거짓으로 답변한 혐의로 기소됐다. &lt;br&gt;&lt;br&gt;이 사건은 지난 2013년 11월 18일 전주 시내 한 식당에서 시작됐다. 당시 전북대 총장이던 서 교육감이 이 자리에서 같은 학교 이귀재 교수의 뺨을 때렸다는 의혹이 불거졌다. 사건 직후 이 교수는 경찰 조사에서 “서 교육감에게 폭행당했다”고 진술까지 했다. &lt;br&gt;&lt;br&gt;하지만 이 교수는 지난 2022년 말을 바꿨다. 지방선거에 출마한 서 교육감에 대해 폭행 의혹이 불거지자 이 교수는 자필로 ‘최근 전북교육감 선거와 관련해 회자되는 사항(폭행 의혹)은 사실무근’이라고 사실 확인서를 쓴 것이다. 서 교육감도 방송토론회나 소셜미디어 등에서 ‘동료 교수(이귀재)에게 폭력을 행사한 사실이 없다’고 주장했다.&lt;br&gt;&lt;br&gt;그러자 상대 후보가 서 교육감이 허위사실을 유포했다며 검찰에 고발했다. 검찰은 이 교수의 병원 진료 기록 등을 근거로 “폭행이 있었다”며 서 교육감을 재판에 넘겼다.&lt;br&gt;&lt;br&gt;이 교수는 법정에서도 “폭행당하지 않았다”는 진술을 유지했고, 1심 재판부는 지난 2023년 8월 25일 “이 사건 핵심 증인인 이 교수의 진술이 수차례 번복돼 믿을 수 없다”며 서 교육감에게 무죄를 선고했다.&lt;br&gt;&lt;br&gt;검찰은 이 교수가 법정에서 위증을 한 것으로 판단하고 수사를 시작했다. 검찰은 지난 2023년 10월 10일 이 교수의 자택·연구실을 압수수색하는 등 이 사건과 관련해 4차례 압수수색을 하고 20여명의 관련자를 조사한 끝에 구속기소했다.&lt;br&gt;&lt;br&gt;이 교수는 수사 초기엔 혐의를 부인했지만, 구속된 이후 수사과정에서 검찰이 객관적 증거를 제시하자 결국 위증을 자백했다. 이 교수는 “2022년 전북대 총장 선거에서 서 교육감 측의 지원을 받기 위해 위증했다”며 혐의를 인정했다고 한다. 이 교수는 2022년 전북대 총장 선거에 출마했으나 낙선했다.&lt;br&gt;&lt;br&gt;이 교수는 위증 혐의로 징역 10개월이 확정됐으며, 지난해 10월 형기를 모두 마치고 출소했다. 이 교수는 서 교육감에 대한 항소심 법정에선 “양심선언을 하고 싶다”며 실제 폭행이 있었다고 주장했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[속보] 尹대통령 “자유민주주의 신념 하나로 살아…헌재가 잘 살펴달라”</title>
       <link>https://www.chosun.com/national/court_law/2025/01/21/MMVGTXFMYBFVDFMV6XK5EONAOQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/01/21/MMVGTXFMYBFVDFMV6XK5EONAOQ/</guid>
@@ -885,15 +913,6 @@
       <description/>
       <pubDate>Tue, 21 Jan 2025 05:00:59 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YKRSXW5RURLOTPALNOBT7GKEAE.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령이 21일 서울 종로구 헌법재판소에서 열린 탄핵심판 3차 변론기일에 출석해 있다. 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“尹, 헌재서 “자유민주주의 신념 하나로 살아…잘 살펴달라”&lt;br&gt;&lt;br&gt;”尹, 빨간 넥타이에 정장 입고 헌재 입정... 직접 변론할 듯"&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>가짜 뉴스 돈벌이 유튜버 ‘탈덕수용소’…검찰  “형량 낮다” 항소</title>
-      <link>https://www.chosun.com/national/court_law/2025/01/21/SEQB4LFIOZFR7EKOPFB7SBHXFM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/01/21/SEQB4LFIOZFR7EKOPFB7SBHXFM/</guid>
-      <dc:creator>인천=이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 21 Jan 2025 05:08:03 +0000</pubDate>
-      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6GQIRJOOVGJ4DERCUOF5V5GQWE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;인천지방검찰청./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰이 K팝 그룹 아이브 멤버 장원영 등 유명인들에 대한 가짜 뉴스를 퍼트린 혐의로 기소된 여성 유튜버에 대해 징역형의 집행유예를 선고한 1심 판결에 불복해 항소했다.&lt;br&gt;&lt;br&gt;인천지검은 최근 정보통신망 이용촉진 및 정보보호 등에 관한 법률상 명예훼손과 모욕 등 혐의로 징역 2년에 집행유예 3년, 추징금 2억1000만원과 120시간의 사회봉사를 선고받은 A(36)씨의 1심 판결에 불복해 법원에 항소장을 제출했다고 21일 밝혔다. &lt;br&gt;&lt;br&gt;1심 재판 과정에서 징역 4년을 구형한 검찰은 A씨에게 더 무거운 형이 선고될 필요가 있다며 항소 배경을 설명했다. &lt;br&gt;&lt;br&gt;검찰은 “피고인은 적극적으로 허위 내용의 영상을 제작하고 배포해 피해자들에게 회복하기 어려운 피해를 입힌 중대한 범죄를 저질렀다”고 강조했다. &lt;br&gt;&lt;br&gt;이어 “피고인이 이 사건 범행으로 2억원을 넘는 상당한 수익을 얻었고, 다수의 피해자로부터 용서받지도 못했다”고 했다. &lt;br&gt;&lt;br&gt;검찰 관계자는 “악성 콘텐츠 게시 범행에 엄정하게 대응할 방침”이라고 했다. &lt;br&gt;&lt;br&gt;A씨는 지난 2021년 10월부터 지난해 6월까지 장원영 등 유명인 7명에 대한 허위 영상을 23차례에 걸쳐, 자신이 운영한 유튜브 채널 ‘탈덕수용소’에 올려 명예를 훼손한 혐의로 기소됐다. &lt;br&gt;&lt;br&gt;A씨는 이 중 5명에 대해선 모욕적 영상을 19회 올리고, 피해자 소속사의 업무를 방해한 혐의도 받았다. &lt;br&gt;&lt;br&gt;A씨는 “장원영이 질투해 동료 연습생의 데뷔가 무산됐다” “다른 유명인들도 성매매나 성형수술을 했다”는 등 내용의 허위 영상을 만들어 유포한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;당시 A씨의 유튜브 채널 구독자는 6만명 정도로, A씨가 이 채널 운영을 통해 거둔 수익은 2억5000만원인 것으로 알려졌다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>‘500억대 친인척 불법대출’ 손태승 前 우리금융 회장 재판行</title>
@@ -918,15 +937,6 @@
       </media:content>
     </item>
     <item>
-      <title>尹측, “비상입법기구란 것 없다…대통령 직접 헌재서 소명할 것"</title>
-      <link>https://www.chosun.com/national/court_law/2025/01/21/UFGM2RJVBVDDVJLWLE4Y3MBQT4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/01/21/UFGM2RJVBVDDVJLWLE4Y3MBQT4/</guid>
-      <dc:creator>박혜연 기자, 장윤 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 21 Jan 2025 05:00:21 +0000</pubDate>
-      <content:encoded>윤석열 대통령 측 변호인은 21일 탄핵심판 3차 변론기일에 출석하면서 “헌법재판소 출석은 대통령의 의지”라고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XRRYRXD3ZOSBC7RVG7IJHVC52A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;내란 우두머리 혐의로 체포된 윤석열 대통령의 법률대리인 윤갑근 변호사가 18일 오후 서울 마포구 서울서부지방법원에서 열린 윤 대통령에 대한 영장실질심사가 종료된 뒤 법원을 떠나며 취재진의 질문에 답하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤 대통령 측 대리인단 윤갑근 변호사는 이날 오후 1시 20분쯤 윤 대통령 탄핵심판 변론을 위해 헌법재판소에 출석했다. 윤 대통령의 헌재 출석 경위에 대해 묻는 기자의 질문에 윤 변호사는 “대통령의 의지”라고 밝혔다.&lt;br&gt;&lt;br&gt;이어 ‘헌재에 대통령이 직접 출석하는 이유에는 지지자 결집의 의도가 깔려있는 게 아니냐’는 기자의 질문에는 “정치적인 질문에는 답변하지 않겠다”고 했다.&lt;br&gt;&lt;br&gt;윤 대통령이 포토라인에서 입장을 밝히는지를 묻자 “안 서는 것으로 알고 있다”며 “대통령께서 (헌재 심판정에서) 본인의 입장을 말씀하실 것”이라고 했다.&lt;br&gt;&lt;br&gt;또 비상입법기구에 대해 묻는 기자의 질문에는 “비상입법기구가 무엇이냐”고 반문했다. 이어 “비상입법기구라는 것은 없다”고 답했다.&lt;br&gt;&lt;br&gt;윤 대통령 지지자들의 서울서부지법 난입과 관련해 책임을 느끼냐는 질문에는 “이상한 말씀 말라. 헌법재판 관련해 왔으니 끝나고 말씀드리겠다”고 말한 뒤 심판정 안으로 들어갔다. &lt;br&gt;&lt;br&gt;이날 윤 대통령은 역대 대통령 최초로 탄핵심판 출석을 위해 헌법재판소를 찾았다. 윤 대통령은 이날 낮 12시 47분쯤 법무부 호송차를 타고 경호차량, 전파방해차량 등의 경호를 받으며 서울구치소를 떠났다. 헌법재판소에는 이날 오후 1시 11분쯤 도착했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>‘뇌물수수 혐의’ 임종식 경북교육감…1심서 징역 2년6개월</title>
       <link>https://www.chosun.com/national/regional/2025/01/21/OFS5BJXZ2JGTTNJ7CKYCXOV74A/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/01/21/OFS5BJXZ2JGTTNJ7CKYCXOV74A/</guid>
@@ -934,15 +944,6 @@
       <description/>
       <pubDate>Tue, 21 Jan 2025 02:57:58 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JNW5Z5QPGFPDVOM4MTBT5DEU6U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;임종식 경북도교육감이 21일 대구지법 포항지원에 재판을 받기 위해 출석하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;수천만원 대 뇌물을 받은 혐의로 재판에 넘겨진 임종식 경북도교육감에게 실형이 선고됐다.&lt;br&gt;&lt;br&gt;대구지법 포항지원 형사1부(재판장 주경태)는 21일 특정범죄 가중처벌 등에 관한 법률 상 뇌물 혐의 등으로 기소된 임 교육감에게 징역 2년6월에 벌금 3500만원, 3700만원 추징을 선고했다. 다만 재판부는 임 교육감의 방어권 보장을 위해 법정 구속을 하지는 않았다. 앞서 검찰은 임 교육감에게 징역 7년에 벌금 1억 5000만원, 추징금 5300만원을 선고해달라고 재판부에 요청했다.&lt;br&gt;&lt;br&gt;검찰은 2018년 6월 실시된 제7회 경북도교육감 선거 과정에서 도 교육청 소속 교직원들로 구성한 조직을 활용해 선거운동을 기획하고, 선거 캠프 관계자들에게 선거운동 대가로 금전을 제공한 혐의로 임교육감을 기소했다. 교육청의 인사권을 가진 교육감이 자신의 선거를 도운 사람들에게 제공할 금품을 인사 혜택을 기대하는 교육공무원들이 대납하도록 한 만큼 교육감 직무 관련 뇌물수수·공여라는 게 검찰의 판단이다.&lt;br&gt;&lt;br&gt;하지만 임 교육감은 재판 과정에서 “영장주의에 위반해 위법하게 수집된 증거로 수사가 이뤄졌다. 증거를 인정하더라도 임 교육감이 직접 돈을 받은 적이 없다”며 모든 공소사실에 대해 무죄를 주장했다.&lt;br&gt;&lt;br&gt;이에 재판부는 “선거 공정성을 해친 부분 등에 대한 책임이 있다. 다만 경찰의 압수수색이 적법하지 않아 이를 통해 얻은 증거는 위법 수집 증거에 해당하고, 증언만으로는 범죄가 증명되었다고 보기 어려워 일부 무죄를 선고한다”고 양형 이유를 밝혔다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“퇴사했는데도 욕해”…우연히 만난 옛 동료 때려 숨지게 한 30대 </title>
-      <link>https://www.chosun.com/national/national_general/2025/01/21/JRMY5XTE2RGG5MQ43SBTKJRN2I/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/21/JRMY5XTE2RGG5MQ43SBTKJRN2I/</guid>
-      <dc:creator>최혜승 기자 </dc:creator>
-      <description/>
-      <pubDate>Tue, 21 Jan 2025 00:50:38 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YOTJTRZPDJE3JLJM35T7CXBVB4.png"&gt;&lt;figcaption&gt;&lt;small&gt;/일러스트=조선디자인랩 정다운&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;길에서 우연히 마주친 전 직장 동료를 폭행해 숨지게 한 30대 남성이 실형을 선고받았다.&lt;br&gt;&lt;br&gt;21일 법조계에 따르면 광주지법 형사11부(부장판사 고상영)는 상해치사 혐의로 구속기소된 A(36)씨에게 징역 3년 6개월을 선고했다.&lt;br&gt;&lt;br&gt;A씨는 작년 9월 20일 오전 3시30분쯤 광주 광산구 수완동의 한 편의점에서 우연히 만난 전 직장동료 40대 B씨를 넘어트리고 수차례 폭행해 숨지게 한 혐의로 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;A씨에게 폭행당한 B씨는 쓰러지며 바닥에 머리를 부딪쳤고, A씨는 B씨를 여러 차례 걷어차고 자리를 떠났다. 이후 광주 CCTV통합관제센터가 길거리에 방치된 B씨를 발견하고 경찰에 신고했다. B씨는 병원으로 옮겨졌지만 치료 도중 숨졌다.&lt;br&gt;&lt;br&gt;두 사람은 과거 같은 직장에서 근무하며 서로 사이가 좋지 않았다. 범행 당일 술자리를 마친 A씨가 우연히 길에서 B씨를 마주치자 격분해 이같은 범행을 저지른 것으로 조사됐다.&lt;br&gt;&lt;br&gt;범행 후 귀가한 A씨는 경찰에 검거됐다. 그는 “퇴사한 뒤에도 B씨가 계속 전화나 문자로 거친 말을 해서 좋지 않은 감정이 있었다”고 진술한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;A씨 측은 최종 진술에서 “쓰러진 피해자의 의식을 확인하기 위해 발로 찼고, 살아 있는 것으로 보여 귀가한 것”이라며 선처를 호소했다.&lt;br&gt;&lt;br&gt;재판부는 “피고인의 폭행으로 피해자가 쓰려졌음에도 별다른 구호 조치 없이 가버려 피해자가 사망했다”며 “피해자 유족과 합의하긴 했으나, 피해자와 별다른 교류가 없던 상속인과의 합의인 탓에 특별 감경하진 않는다”고 했다. 다만 “피해자의 욕설 등으로 고통받았고 사건 당시 술에 취해 우발적으로 범행한 점 등을 고려해 양형을 정했다”고 설명했다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>해양경찰청 총경급 간부…예산 수억원 유용 의혹 감사</title>
