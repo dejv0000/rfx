@@ -13,6 +13,82 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>‘노란 샤쓰의 사나이’ 가수 한명숙 별세</title>
+      <link>https://www.chosun.com/national/national_general/2025/01/22/G3KGQJ6JABFMPJ3CTOKW3JS3FY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/22/G3KGQJ6JABFMPJ3CTOKW3JS3FY/</guid>
+      <dc:creator>김명진 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 22 Jan 2025 11:31:43 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DRZMP4LUHZN67GXF2R5YCW6MWU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2013년 '청춘, 그 아름다웠던 날들' 신곡발표회에서 '바람이어라'를 부르는 가수 한명숙. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;노래 ‘노란 샤쓰의 사나이’로 큰 인기를 얻었던 원로가수 한명숙(90)씨가 22일 별세했다.&lt;br&gt;&lt;br&gt;1935년 평남 진남포에서 태어난 한씨는 17세이던 52년 ‘태양악극단’ 단원으로 연예계에 데뷔했다. 6·25 전쟁 때는 군예대(軍藝隊)의 일원으로 위문공연도 다녔다. &lt;br&gt;&lt;br&gt;가수 최희준의 소개로 작곡가 손석우씨를 만난 뒤 1961년 ‘노란 샤쓰의 사나이’로 공식 데뷔했다. 노래가 큰 인기를 끌자 1962년 ‘노란 샤쓰 입은 사나이’라는 영화가 제작되기도 했다. 고인은 이 영화에서 주인공을 연기했다. 이 곡은 2018년 평창 동계올림픽에서 한국 선수단 입장곡으로 쓰이기도 했다. &lt;br&gt;&lt;br&gt;한씨는 이후에도 ‘센티멘털 기타’ ‘눈이 나리는데’ 등을 연달아 히트시키며 1970년대 말까지 활발히 활동했다. 고인이 생전 발표한 노래는 300여곡에 이른다.&lt;br&gt;&lt;br&gt;한씨는 1956년 트럼페터 이인성씨와 결혼했으나 이씨가 41세로 숨진 뒤 2남 1녀를 혼자 키워왔다. 그 뒤 경기 수원의 두 칸짜리 월세방에서 어렵게 살고 있다는 사실이 알려지기도 했다.&lt;br&gt;&lt;br&gt;2010년에는 50년간 대중가요 발전에 기여한 공로로 문화체육관광부로부터 감사패를 받았다. 2012년엔 제12회 대한민국 전통가요대상 원로가수상을 수상했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>배움의 恨도 훌훌...만학도 50명 “엄마 졸업한다”</title>
+      <link>https://www.chosun.com/national/people/2025/01/22/YW7HOHKOLFHOPBPMWM742CMSBU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/01/22/YW7HOHKOLFHOPBPMWM742CMSBU/</guid>
+      <dc:creator>박진성 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 22 Jan 2025 13:06:54 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LWVOIW7UV5ANPEIBOV6TTBB4WU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2025년 1월 22일 오후 서울 영등포구청 별관에서 늘푸름학교 졸업식의 모습. 늦깎이 졸업생들이 학사모를 던지고 있다./장련성 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“빛나는 졸업장을 타신 언니께….”&lt;br&gt;&lt;br&gt;22일 서울 영등포구청 별관에서 졸업식 노래가 울려 퍼졌다. 이곳은 영등포구가 2013년 만학도(晩學徒)들을 위해 세운 ‘늘푸름학교’. 3년간 꾸준히 수업을 들으면 정식으로 초등학교나 중학교 졸업장을 준다.&lt;br&gt;&lt;br&gt;할머니·할아버지 50명이 학사모를 쓰고 졸업장을 받았다. 평균 나이 72세, 최고령은 93세다. 만학도 졸업생을 응원하기 위해 가족 100명도 참석했다.&lt;br&gt;&lt;br&gt;졸업생 대표 정선명(69)씨는 마이크를 잡고 “소풍 간다던 자식들 도시락을 싸주면서도 늘 가슴 한쪽이 허전했습니다. 제 인생에 가장 빛났던 3년이었습니다. 배움에 나이는 상관없습니다”라고 했다.&lt;br&gt;&lt;br&gt;“암 해피 투데이! 땡큐 쏘 마치(오늘 행복합니다. 너무 감사합니다).” 최고령인 김옥순(93)씨가 수업 때 배운 영어로 답사를 하자 학생들이 한바탕 웃었다. 김씨는 “이제 배우고 싶은 한을 풀었다”고 말했다.&lt;br&gt;&lt;br&gt;음옥순(86)씨는 딸 최선아(65)씨와 함께 ‘2인 1조’로 학교를 다녔다. 다리가 아파 딸이 매일 휠체어를 밀었다. 비가 올 땐 휠체어에 비닐을 씌웠고 눈이 올 땐 담요를 덮었다. 이날 엄마 음씨는 초등학교 졸업장을, 딸 최씨는 ‘명예학생상’을 탔다. 최씨는 지난해 국립과천과학관에 소풍을 다녀온 엄마가 선물한 시를 잊지 못한다고 했다. ‘혼자 걷기 힘든 내가 소풍을 다녀왔다. 밤하늘 별들의 이름도 알았고 별자리도 보았다. 포기했다면 영영 느끼지 못했을 감정들. 우리 딸 선아야, 정말 고맙다’는 내용이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DR7HOJTIXRHR7AXSEP3QPKAIUQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;음옥순(86)씨가 지난해 국립과천과학관에 소풍을 다녀온 후 딸에게 선물한 시/서울 영등포구&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;송재은(67)씨는 유방암으로 투병하면서도 수업을 빠뜨리지 않았다. 전교 부회장도 맡았다. 송씨는 “학교에 다닌 뒤 얼굴색이 많이 좋아졌다”며 “공부가 나를 살렸다”고 했다. 송씨 딸 김도이(35)씨는 “방사선 치료만 25번 받으면서도 책을 놓지 않은 엄마가 제 인생의 가장 큰 스승이에요”라고 했다.&lt;br&gt;&lt;br&gt;개교 이후 이날까지 탄생한 졸업생은 총 274명. 교장인 최호권 영등포구청장은 “학업에 대한 어르신들의 열정에 감동받았다”며 “제2의 인생을 계속 응원하겠다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WFF76B55GJAJ3OHMQFFZ5FPAD4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;22일 오후 서울 영등포구청 별관에서 늘푸름학교 졸업식. 한 늦깎이 졸업생이 눈물을 닦고 있다. / 장련성 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>1인가구 많은 서울, 車 등록대수 전국 유일 감소</title>
+      <link>https://www.chosun.com/national/transport-environment/2025/01/22/IIW3UWNIPFGP7DJSIBHBY52QL4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/01/22/IIW3UWNIPFGP7DJSIBHBY52QL4/</guid>
+      <dc:creator>박상현 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 22 Jan 2025 12:10:44 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NJLHULQW4K4XDLLP2V2OHIAVQ4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;21일 오전 서울 종로구 광화문광장 인근에서 바라본 도심이 뿌옇게 보이고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;작년 서울시 자동차 등록 대수가 전국 시도 중 유일하게 감소한 것으로 나타났다. 청년층에서 자가용 수요가 줄어드는 가운데, 고령층 면허 반납 등이 영향을 미친 것으로 풀이된다.&lt;br&gt;&lt;br&gt;22일 서울시가 국토교통부의 자동차관리정보시스템과 행정안전부 주민등록 인구 통계 등을 기반으로 분석한 결과, 작년 기준 서울시 자동차 등록 대수는 319만1162대로 전년 대비 2189대가 줄어들었다. 전국 총 자동차 등록 대수가 전년 대비 44만6123대(1.75%) 늘어난 2594만 9201대로 집계된 것과 대조된다. 작년 서울의 인구 대비 자동차 수는 2.94명당 1대로 전국 광역단체 중 최저였다.&lt;br&gt;&lt;br&gt;서울의 자동차 등록 대수가 전년보다 줄어든 것은 2019년 이후 4년 만에 처음이다.&lt;br&gt;&lt;br&gt;자치구별 자동차 등록 대수는 강남구가 25만3856대로 가장 많았고, 이어 송파구·강서구 등의 순이었다. 외국산 차량의 등록 대수에서도 강남구가 10만2240대로 1위였고, 이어 서초구(6만5361대), 송파구(6만1610대) 등이었다. 연령별로는 60대 이상에서 3만5794대가 줄어 고령 운전자 운전면허 자진 반납 등 고령 운전자 비율 감소 요인이 반영됐다.&lt;br&gt;&lt;br&gt;이처럼 서울시 자동차 등록 대수가 줄어든 것은 자가용 수요가 적은 1인 가구와 청년층이 많고, 다른 지역보다 서울의 대중교통 인프라가 잘 갖춰져 있는 것이 원인으로 분석된다. 장택영 교통안전환경연구소장은 “서울은 대중교통 인프라가 좋을 뿐만 아니라 카쉐어링 등 자가용 대체 수단이 많고, 시내 주차비도 비싸다”며 “젊은 층에서 결혼을 많이 하지 않고 자녀를 갖지 않다 보니 차가 굳이 필요하지 않은 측면도 있다”고 했다.&lt;br&gt;&lt;br&gt;다만 지난해 서울시에 등록된 친환경 자동차는 2023년 대비 5만4120대가 늘어 친환경 차량에 대한 선호도는 꾸준히 높아지고 있는 것으로 나타났다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>문고리 걸린 현금 가져간 보이스피싱 운반책…대법 “사기는 아냐”</title>
+      <link>https://www.chosun.com/national/court_law/2025/01/22/L6LFB7RWYRABVFBQZWBRPJS6ZY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/01/22/L6LFB7RWYRABVFBQZWBRPJS6ZY/</guid>
+      <dc:creator>방극렬 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 22 Jan 2025 11:18:29 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WQPDNTOLUVC6ZGSLVHG42QLGSY.png"&gt;&lt;figcaption&gt;&lt;small&gt;/일러스트=정다운&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;보이스피싱 조직의 지시로 피해자가 자신의 집 문고리에 직접 걸어둔 현금을 가져간 수거책을 ‘사기죄’로 처벌하긴 어렵다는 대법원 판단이 나왔다. 법리적으로 ‘절도죄’에 해당할 수 있지만, 사기죄로는 처벌할 수 없다는 취지의 판결이다.&lt;br&gt;&lt;br&gt;대법원 1부(주심 노경필 대법관)는 최근 사기 혐의로 기소된 A씨에게 징역 10개월에 집행유예 2년을 선고한 원심을 확정했다고 22일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 2021년 11월 보이스피싱 조직의 현금 수거책으로 일하며 보이스피싱에 속은 피해자들로부터 세 차례에 걸쳐 8000여만 원의 현금을 받아 간 혐의로 기소됐다. 1심은 A씨의 사기 혐의를 모두 유죄로 인정해 징역 10개월을 선고했지만, 2심은 1건의 범행에 대해 무죄로 판단하며 집행유예로 감형했다.&lt;br&gt;&lt;br&gt;2심이 이 범행을 무죄로 판단한 건 다른 범행들과 양상이 달랐기 때문이다. 당시 피해자는 경찰을 사칭한 보이스피싱범이 “은행에서 계좌 정보가 유출됐다. 현금을 인출해 집 앞에 두면 지문 등을 확인하겠다”고 한 말에 속아 현금 4000만원을 비닐봉지에 넣어 아파트 현관문 문고리에 걸어뒀고, A씨는 이 돈을 가로챘다.&lt;br&gt;&lt;br&gt;형법상 사기죄는 ‘재물을 넘기겠다’는 피해자의 의사와 행위가 있어야 성립된다. 재판부는 문고리에 현금을 걸어둔 행위만으로는 돈을 넘기겠다는 의사로 볼 수 없어, 사기로 처벌할 수 없다고 했다. A씨가 피해자를 직접 만나 현금을 받아 간 다른 범행들은 유죄로 인정됐다. 대법원도 2심 판단을 유지했다. A씨처럼 다른 사람의 의사에 반해 재물을 가져가는 행위는 절도죄로 처벌될 수 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>헌재 “중앙지검장 등 검사 3명 탄핵 사건, 2월 17일 변론 시작”</title>
+      <link>https://www.chosun.com/national/court_law/2025/01/22/DOVZEZY6ORG5NEAG2LAJEWBY2Q/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/01/22/DOVZEZY6ORG5NEAG2LAJEWBY2Q/</guid>
+      <dc:creator>박강현 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 22 Jan 2025 12:10:09 +0000</pubDate>
+      <content:encoded>헌법재판소는 22일 이창수 서울중앙지검장 등 검사 3명의 탄핵 사건에서 준비 절차를 마치고 다음 달 17일 정식 변론을 시작하겠다고 예고했다. 이날 준비 절차에선 검찰이 사건 수사 기록을 헌재에 제출하는 것을 두고 이견이 표출됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DXSG2P46GRKNRIF37MJ27XERUY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김형두(오른쪽), 김복형 헌법재판관이 22일 오후 서울 종로구 헌법재판소 소심판정에서 열린 이창수 서울중앙지검장 등의 탄핵 심판 3차 변론준비기일 진행을 위해 자리에 앉아 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김복형 헌법재판관은 이날 열린 이 지검장과 조상원 중앙지검 4차장, 최재훈 반부패2부장의 탄핵심판 세 번째 변론 준비 기일에서 “변론 준비 절차를 종결하고 변론 기일로 진행하겠다”고 했다. 변론 준비 기일은 본격적인 변론이 시작되기 전에 당사자 측이 모여 쟁점을 정리하고, 향후 재판 진행 과정 등을 조율하는 절차다. 김 재판관은 첫 정식 변론 기일은 다음 달 17일 오후 2시로 잡았다.&lt;br&gt;&lt;br&gt;국회 측 대리인은 이날 소추 사유를 특정한 준비서면을 제출했고, 헌재는 요지를 설명해달라고 주문했다. 앞서 지난 8일 열린 이 사건 두 번째 변론 준비 기일에서 헌재는 “소추 사유가 특정이 되는지에 따라 각하(却下) 사유가 되는지 아닌지도 문제가 될 수 있다”고 지적했다.&lt;br&gt;&lt;br&gt;그럼에도 국회 측 대리인이 30분 가까이 검사들이 탄핵되어야 하는 이유를 나열하자 이 검사장 대리인은 “요지를 이야기해도 과분한데, 일방적으로 허위 사실을 늘어놓고 있는 점은 명확한 제지가 필요하다”고 반발했다. 검사 측 대리인은 “국회 측 소추 사유에서 아직도 많은 부분이 불명확하다”고 하기도 했다.&lt;br&gt;&lt;br&gt;국회 측 대리인은 “가급적 수사 기록을 입수해서 방어권에 문제가 없도록 노력했는데, 검찰이 수사 기록 목록도 보여주고 있지 않다”고 반박했다. 국회 측은 서울고검에 김건희 여사 연루 의혹이 있는 도이치모터스 사건 관련 수사 기록을 제출해달라고 요구했고, 헌재는 신청을 일부 받아들여 서울고검 등에 관련 기록 확보를 일부 요청했다.&lt;br&gt;&lt;br&gt;하지만 검찰은 현재 수사 중인 사건이라는 이유로 제출을 거부했다고 한다. 재판부는 “검찰이 해당 사건은 불기소 처분 항고돼 수사 중인 사건 기록이라 공개할 경우 사건관계인 명예나 사생활의 비밀 또는 자유를 침해할 우려가 있고, 직무수행을 현저히 곤란하게 할 우려가 있어 송부할 수 없다고 했다”고 설명했다.&lt;br&gt;&lt;br&gt;지난 변론 준비 기일에서 검사 측 대리인은 국회 측의 이 같은 수사 기록 요청에 대해 “추상적인 의심을 갖고 (탄핵)소추를 해놓고 여러 자료를 입수해서 다시 구체적 사실을 특정해서 주장하겠다는 것”이라며 항의한 바 있다.&lt;br&gt;&lt;br&gt;이날 국회 측은 이 검사장 등 피청구인에 대한 신문을 신청했는데, 재판부는 “헌재 사무규칙상 피청구인 본인 신문 여부는 재판장 권한이다. 채택 여부는 재판부가 상의해서 재판장이 결정할 것”이라고 말했다.&lt;br&gt;&lt;br&gt;앞서 더불어민주당 주도로 국회는 지난달 검사 3명의 탄핵소추안을 통과시키며 도이치모터스 사건에서 김 여사에 대한 무혐의 처분 등을 핵심 사유로 들었다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>尹병원행 모른 채 구치소 찾았다는 공수처... 거짓이었다</title>
+      <link>https://www.chosun.com/national/court_law/2025/01/22/VPYXYNT36FB5XPH7DEV653S5HI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/01/22/VPYXYNT36FB5XPH7DEV653S5HI/</guid>
+      <dc:creator>유종헌 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 22 Jan 2025 11:16:46 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FUAAE4JROZLCLHNRL2ZQAPOO5Y.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;오동운 고위공직자범죄수사처(공수처) 처장이 22일 오전 경기도 과천시 정부과천청사 공수처로 출근하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 대통령을 수사 중인 고위공직자범죄수사처(공수처)가 지난 21일 윤 대통령의 외부 병원 진료 일정을 통지받고도 서울구치소에 방문해 강제 구인을 시도하려 한 것으로 나타났다.&lt;br&gt;&lt;br&gt;공수처는 전날 헌법재판소 탄핵심판이 끝난 뒤 윤 대통령을 강제구인하기 위해 서울구치소에 검사와 수사관을 보냈지만, 윤 대통령이 외부 병원 진료를 이유로 오후 9시까지 구치소에 복귀하지 않으면서 무산됐었다. 공수처는 이를 두고 “서울구치소에서 윤 대통령의 병원 진료 일정을 통지받지 못했다”고 했지만, 서울구치소가 “전화로 통지했다”고 곧바로 반박했다.&lt;br&gt;&lt;br&gt;시작은 오동운 공수처장이었다. 오 처장은 이날 출근길 기자들과 만나 “공수처가 (윤 대통령의 병원행을) 미리 인지한 것은 아니어서 숨바꼭질 비슷하게 됐다”며 “병원까지 찾아가는 것은 인권 차원에서 맞지 않는다고 생각해서 구치소에서 구인을 위해 기다렸다”고 말했다.&lt;br&gt;&lt;br&gt;공수처 관계자도 ‘사전에 윤 대통령이 병원을 간다는 사실을 못 들었느냐’는 질문에 “저희한테 통보나 공지가 전혀 없었다”고 했다. 서울구치소에 수사 협조 요청 공문을 보냈는데도 구치소가 윤 대통령의 외부 병원 진료 일정을 공유하지 않아 허탕을 치게 됐다는 취지다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JFTYOF3NRBEEVPPB5IYDZK3IYA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;21일 오후 헌재 변론에 출석했던 윤석열 대통령을 태운 법무부 호송 차량이 서울 종로구 헌법재판소를 빠져 나오고 있다. 헌재를 나온 윤대통령은 서울구치소로 가지않고 바로 진료를 위해 국군서울지구병원으로 간 것으로 알려졌다. / 장련성 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이 같은 내용이 알려지자 법무부는 즉각 반박했다. 법무부는 “서울구치소가 공수처의 수사 협조 요청 공문을 접수한 후 공수처 수사관에게 대통령의 외부 진료 일정이 있다는 점과 복귀시점은 알 수 없다는 점을 알렸다”면서 “공수처는 이 사실을 통지받아 인지한 뒤 서울구치소를 방문해 대기했다가 철수한 것”이라고 했다.&lt;br&gt;&lt;br&gt;공수처는 법무부 공지 이후 재차 입장을 냈다. 공수처는 “21일 오후 4시 23분 협조 요청 공문을 서울구치소에 발송한 뒤 오후 5시 11분 서울구치소 측에서 공수처 수사관에게 전화해 ‘피의자가 병원에 진료를 받으러 간다’는 취지로 알려왔다”고 했다.&lt;br&gt;&lt;br&gt;공수처가 윤 대통령 조사를 위해 서울구치소에 도착한 시간은 전날 오후 5시 48분쯤이었다. 윤 대통령의 병원행을 통보받고도 구치소를 찾은 것이다. 당시 공수처는 오후 9시까지 윤 대통령의 구치소 복귀를 기다리다가 결국 철수했다.&lt;br&gt;&lt;br&gt;다만 공수처는 “병원 진료와 관련해 구치소장의 허가가 있었다는 사실은 5시 11분 전화 통화에서 전달받은 바 없다”고 했다.&lt;br&gt;&lt;br&gt;한편 공수처는 이날도 윤 대통령 조사를 위해 서울구치소를 찾았지만, 윤 대통령이 강제 구인과 방문 조사 모두 거부해 불발됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/BTAIIINTZFBONKIJDCB4Q3YGPE.JPG?width=3001&amp;height=1688&amp;auth=ce0141d8852444adc7f44e5324297b93495ccf8268992345f7c69faef3f91771&amp;smart=true" type="image/jpeg" height="1688" width="3001">
+        <media:description type="plain">오동운 고위공직자범죄수사처(공수처) 처장이 22일 오전 경기도 과천시 정부과천청사 공수처로 출근하고 있다. 오 공수처장은 이날 체포·구속 후 조사에 연일 불응하고 있는 윤석열 대통령에 대한 강제구인을 시도한다고 밝혔다. 2025.1.22/뉴스1 ⓒ News1 박세연 기자</media:description>
+        <media:credit role="author" scheme="urn:ebu">뉴스1 ⓒ News1 박세연 기자</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>내일 출근길도 초미세먼지 '나쁨'…금요일까지 공기질 탁해</title>
+      <link>https://www.chosun.com/national/transport-environment/2025/01/22/W3VWMYGXMBF7NG33SQMBBBPWCI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/01/22/W3VWMYGXMBF7NG33SQMBBBPWCI/</guid>
+      <dc:creator>박상현 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 22 Jan 2025 11:24:58 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6TIYEB5O7VKARCG3Z4OJUGLEUE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전국 대부분 지역에서 미세먼지 농도가 '나쁨' 수준을 보인 22일 오후 서울 종로구 경복궁 앞에서 어린이가 마스크를 쓰며 이동하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;목요일인 23일에도 초미세먼지(PM2.5) 농도가 짙을 것으로 전망됐다.&lt;br&gt;&lt;br&gt;22일 국립환경과학원과 기상청에 따르면, 중국발 미세먼지와 국내 발생 미세먼지가 대기 정체로 빠져나가지 못하면서 23일 제주를 제외한 전국의 초미세먼지 농도가 ‘나쁨’ 수준을 기록할 것으로 예상됐다.&lt;br&gt;&lt;br&gt;중부내륙과 호남은 미세먼지 농도가 높은 가운데 출근길에 안개까지 짙게 끼면서 가시거리가 짧아질 것으로 보인다. 경기남부와 강원·충청·전라권을 중심으로 가시거리가 200ｍ에 못 미칠 수 있어 출근길 운전에 주의해야 한다.&lt;br&gt;&lt;br&gt;주말까지 우리나라는 이동성 고기압 영향권에 놓이면서 바람이 거의 불지 않겠으나, 금요일인 24일 기압계 변화로 입자가 큰 미세먼지(PM10)는 차츰 내륙을 빠져나갈 것으로 보인다.&lt;br&gt;&lt;br&gt;그러나 초미세먼지는 24일에도 여전히 전국을 뒤덮겠다. 24일 오전 제주를 제외한 전국에서 초미세먼지 농도가 ‘나쁨’ 수준이겠고, 오후 들어서는 수도권과 충청권을 중심으로 ‘나쁨’, 그밖에 지역은 ‘한때 나쁨’ 수준을 보일 것으로 전망됐다.&lt;br&gt;&lt;br&gt;23일 기온은 아침 최저 영하 7도에서 영상 4도 사이, 낮 최고 영상 5~14도로 예보됐다. 평년보다 2~6도 가량 높아 낮동안은 겨울치고 포근한 날씨가 이어지겠다.&lt;br&gt;&lt;br&gt;주요 도시 예상 최저·최고기온은 서울 영하 2도와 영상 7도, 인천 영하 2도와 영상 5도, 대전 영하 3도와 영상 9도, 광주 0도와 영상 12도, 대구 영하 1도와 영상 12도, 울산 영상 2도와 영상 13도, 부산 영상 4도와 영상 13도 등이다.&lt;br&gt;&lt;br&gt;현재 건조주의보가 내려진 동해안과 강원산지, 경북북동산지와 부산을 비롯한 영남은 24~25일 비나 눈이 내리기 전까지는 대기가 계속 건조할 것으로 보인다. 바람이 약간 세게 불면서 큰불이 날 수 있는 상황이라 주의가 필요하다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>조희대 대법원장, 서부지법 방문…“정상화 최대한 지원”</title>
+      <link>https://www.chosun.com/national/court_law/2025/01/22/TRAMRZA4NNBMHMBUBZKJNU7UNI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/01/22/TRAMRZA4NNBMHMBUBZKJNU7UNI/</guid>
+      <dc:creator>박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 22 Jan 2025 10:06:57 +0000</pubDate>
+      <content:encoded>조희대 대법원장이 윤석열 대통령 지지자들의 난입으로 피해를 입은 서울서부지법에 22일 방문해 구성원들을 격려했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UMUIR4RXTJJ3TMYONVEQ2VOY3I.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;조희대 대법원장이 지난 1월 20일 서울 서초구 대법원으로 출근하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대법원에 따르면 조 대법원장은 이날 오후 3시 서부지법을 방문해 시설 피해 상황 및 복구 현황을 둘러보고, 시설물 피해가 컸던 민사신청과 직원 등을 직접 만나 격려를 전했다. &lt;br&gt;&lt;br&gt;조 대법원장은 사건 당시 현장에 있었던 보안관리대, 법원 직원 다수와 함께 간담회도 진행했다. 조 대법원장은 이들에게 당시 상황에 대한 설명을 듣고, 직원들의 의견도 들었다고 한다. &lt;br&gt;&lt;br&gt;조 대법원장은 간담회에서 “대법원 법원행정처는 서부지법이 정상화되고 안전하게 일할 수 있도록 최대한 지원하겠다”며 “이번 일로 정신적 충격을 받은 서부지법 구성원들에 대한 심리 치유 방안을 마련하겠다고 전했다”고 밝혔다. 현장 점검은 약 1시간 반 동안 진행됐다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>서부지법 난입 58명 구속 “2009년 쌍용차 사태 64명 넘길 수도”</title>
       <link>https://www.chosun.com/national/national_general/2025/01/22/QNFV4XMMI5G2HDI7ZO2FY5IHDY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/22/QNFV4XMMI5G2HDI7ZO2FY5IHDY/</guid>
@@ -731,78 +807,6 @@
       <description/>
       <pubDate>Tue, 21 Jan 2025 15:43:58 +0000</pubDate>
       <content:encoded>&lt;br/&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/X4QNR5VEZFB2DA33MJ7Y2TPMCE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김정욱 변협회장&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전국 3만여 변호사들이 소속된 대한변호사협회 차기 협회장에 김정욱(46·변호사 시험 2회) 변호사가 당선됐다. 로스쿨 출신이 대한변협회장이 된 것은 처음이다. 임기는 3년이며, 다음 달 시작한다.&lt;br&gt;&lt;br&gt;김 당선인은 지난 20일 진행된 제53대 대한변협회장 선거에서 6409표를 얻어, 안병희 후보(5999표)를 410표 차로 제쳤다. 김 당선자는 성균관대 시스템경영공학부와 같은 대학원, 서울시립대 로스쿨을 졸업했다. 2013년 2회 변호사 시험에 합격했고, 로스쿨 출신 변호사들로 구성된 한국법조인협의회 초대 회장을 지냈다. 2021년 96대 서울지방변호사회 회장에 당선됐고, 2023년 연임했다. 대한변협회장은 대법관과 검찰총장, 고위공직자범죄수사처장 후보 추천위원회에 들어간다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[두근두근 뇌 운동] [2548] 암호로 바꿔 쓰기</title>
-      <link>https://www.chosun.com/national/nie/2025/01/22/5GMO7VK2KBDUXCQE5RTHX5BIJI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2025/01/22/5GMO7VK2KBDUXCQE5RTHX5BIJI/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Tue, 21 Jan 2025 15:33:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JWAC3LZEA5GOPA7NRAW4W4UHMI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문으로 배우는 실용한자] 궐위(闕位)</title>
-      <link>https://www.chosun.com/national/nie/chinese_character/2025/01/22/XDNCXDPXNVGHJBGN6FVDKAWOIQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese_character/2025/01/22/XDNCXDPXNVGHJBGN6FVDKAWOIQ/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Tue, 21 Jan 2025 15:33:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YIV42FOMBBAAVGMGRMR5CBO5MQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[입에 착착 붙는 일본어] 대안을 생각하다</title>
-      <link>https://www.chosun.com/national/nie/japanese/2025/01/22/L44TUEQAMVFLVI7WDH2E5MFBSE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/japanese/2025/01/22/L44TUEQAMVFLVI7WDH2E5MFBSE/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Tue, 21 Jan 2025 15:33:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JJIA75YFQBCZ5D2QV5JMZ5US24.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[매일매일 중국어 한마디] 가성비 대체품</title>
-      <link>https://www.chosun.com/national/nie/chinese/2025/01/22/FTEI5WJNSNFA5H4V3XOLOHOLWQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese/2025/01/22/FTEI5WJNSNFA5H4V3XOLOHOLWQ/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Tue, 21 Jan 2025 15:33:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EP3WJA3WKZDXPIU47VCW444I3E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[스피킹이 강해지는 영어] There's no shame in ~</title>
-      <link>https://www.chosun.com/national/nie/english/2025/01/22/EJB4JPQJP5B47L3NTEIAOJHQIE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/english/2025/01/22/EJB4JPQJP5B47L3NTEIAOJHQIE/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Tue, 21 Jan 2025 15:33:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3KYZPYJOS5GELKEI33ZXDBV4DM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문은 선생님] [알립니다] 신문 읽기 특강 수강생 모집</title>
-      <link>https://www.chosun.com/national/nie/2025/01/22/433H4TDA5JAGTLNNKI4FHTUCQU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2025/01/22/433H4TDA5JAGTLNNKI4FHTUCQU/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Tue, 21 Jan 2025 15:32:49 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BJVKRTN7XFAADO2FRZED7XZ7AA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;조선일보NIE교육센터에서 2025년 무료 신문 읽기 특강 수강생을 모집합니다. 기자 출신 강사가 학부모를 대상으로 신문 활용 공부법을 알려드립니다. 매일 신문을 읽다 보면 문해력과 어휘력을 기를 수 있어 논술과 면접 시험에도 도움이 됩니다. 자세한 내용은 홈페이지(&lt;a href="https://nie.chosun.com" target="_blank"&gt;nie.chosun.com&lt;/a&gt;)를 참고하세요.&lt;br&gt;&lt;br&gt;▲ &lt;b&gt;일시 &lt;/b&gt;: 2월 25일(화)·2월 28일(금)&lt;br&gt;&lt;br&gt;▲ &lt;b&gt;수강료 &lt;/b&gt;: 무료&lt;br&gt;&lt;br&gt;▲ &lt;b&gt;대상 및 정원&lt;/b&gt; : 자녀 교육에 신문을 적극 활용하고 싶은 학부모, 강좌별 선착순 20명&lt;br&gt;&lt;br&gt;▲ &lt;b&gt;장소 &lt;/b&gt;: 에듀조선 NIE 논술학원(서울특별시 강남구 도곡로 73길 13 3층)&lt;br&gt;&lt;br&gt;▲ &lt;b&gt;문의 &lt;/b&gt;: 02-724-6024, 02-6956-6109&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문은 선생님] [예쁜 말 바른 말] [379] ‘옹골차다’와 ‘오롯하다’</title>
-      <link>https://www.chosun.com/national/nie/2025/01/22/S3B7XKNAHNBJZJAX2YGXQKXUYM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2025/01/22/S3B7XKNAHNBJZJAX2YGXQKXUYM/</guid>
-      <dc:creator>류덕엽 교육학 박사·전 서울 양진초 교장</dc:creator>
-      <description/>
-      <pubDate>Tue, 21 Jan 2025 15:31:45 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/36RPVU4GVRD4DMMVWPLUQHZNDA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;*추위와 비바람을 이겨낸 나무가 더 옹골차듯이, 작년의 어려움을 이겨내고 희망이 싹텄으면 좋겠다.&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;*설 명절 즈음 바리바리 싸 보낸 음식에는 할머니의 사랑이 오롯하게 담겨 있었다.&lt;/b&gt;&lt;br&gt;&lt;br&gt;여기서 ‘옹골차다’와 ‘오롯하다’는 어떤 뜻을 갖고 있을까요? 일상적으로 흔히 사용하는 표현들 중에서 대략적인 뜻은 알지만 정확한 의미를 설명하기 어려운 경우가 있는데요. 오늘은 순우리말인 두 단어에 대해 알아보겠습니다.&lt;br&gt;&lt;br&gt;‘옹골차다’는 ‘속이 꽉 차서 실속이 있다’는 뜻이에요. ‘내실이 옹골차다’ 같이 쓸 수 있어요. 또 ‘(사람이) 어떤 일이든 감당할 수 있을 만큼 다부지고 기운차다’는 뜻으로도 사용한답니다. 약어로 ‘골차다’ ‘옹차다’라고 쓰기도 합니다. 유의어는 ‘단단하다’ ‘실하다’ ‘다부지다’ 등이 있어요. ‘옹골차다’ 대신 ‘공골차다’를 쓰는 경우가 있지만 ‘옹골차다’만 표준어입니다.&lt;br&gt;&lt;br&gt;‘오롯하다’는 ‘모자람이 없이 온전하다’라는 뜻이에요. ‘부모님의 오롯한 사랑’과 같이 써요. [오로타다]로 발음해요. 유의어는 ‘완벽하다’ ‘온전하다’ 등이 있습니다.&lt;br&gt;&lt;br&gt;&lt;b&gt;[예문]&lt;/b&gt;&lt;br&gt;&lt;br&gt;- 땅속 기운을 받고 옹골차게 영근 뿌리채소에 맛과 영양이 꽉 들어차 있다.&lt;br&gt;&lt;br&gt;- 산과 들, 바다에서 직접 채취한 식재료로 만든 반찬들이 식탁에 오롯하게 놓였다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문은 선생님] [동물 이야기] ‘장화 신은 고양이’ 같은 큰 눈망울… 발견된 적 많지 않은 희귀종이래요</title>
-      <link>https://www.chosun.com/national/nie/2025/01/22/GPCHGNSUFFH7TN4DV53LGUQT2M/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2025/01/22/GPCHGNSUFFH7TN4DV53LGUQT2M/</guid>
-      <dc:creator>정지섭 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 21 Jan 2025 15:31:20 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OFZ27XY2CREF5OLWQXGOZVUMZM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;납작머리삵은 고양이와 비슷하게 생겼지만, 눈이 왕방울만 하고 가운데로 몰려 있는 게 특징이에요. /위키피디아&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;얼마 전 미국의 한 동물 보호 단체에서 올린 영상이 화제가 됐어요. 영상에선 집고양이와 비슷하게 생긴 한 동물이 숲속을 조심스럽게 걷고 있었는데요. 왕방울만 한 눈이 마치 영화 ‘슈렉’에 나오는 장화 신은 고양이처럼 깜찍했죠.&lt;br&gt;&lt;br&gt;이 동물은 고양이가 아니라 납작머리삵(flat-headed cat)이었답니다. 말 그대로 다소 납작한 머리 때문에 이런 이름이 붙여졌다고 해요. 고양잇과에서 가장 덩치가 작은 야생동물 중 하나예요. 몸길이는 50~80㎝, 어깨높이는 30~50㎝ 정도로 우리나라 ‘삵’과 비슷하지만 몸무게가 2.5㎏에 불과해요. 몸통은 검은색에 가까운 짙은 갈색이고 머리는 불그스름한 털로 덮여있는데 두 눈 사이에 마치 흰색 페인트로 색칠한 것처럼 두 줄로 하얀 털이 나있어요. 배쪽도 흰색이랍니다. 태국·말레이시아·인도네시아의 우거진 열대우림에 살고 있는데, 그 어떤 고양잇과 동물보다도 야생에서 발견하기 어렵대요.&lt;br&gt;&lt;br&gt;고양잇과 중에서 사자·호랑이·표범처럼 큰 덩치를 가진 맹수들은 저마다 생김새가 뚜렷해 구별하는 게 어렵지 않아요. 하지만 ‘삵’을 비롯한 덩치가 작은 무리들은 상대적으로 구분하기 쉽지 않아요. 우리나라에서도 종종 삵과 길고양이를 혼동하는 사람들이 있어요. 그런데 자세히 보면 이들도 서식지에 맞게 저마다 적응했어요.&lt;br&gt;&lt;br&gt;납작머리삵의 생태를 보면 덩치 큰 고양잇과 맹수들과 비슷한 점도 있어요. 우선 늪·계곡 등 물가 근처에서 살면서 물고기·개구리 등을 주로 사냥하는데요. 이건 남미 아마존강에서 커다란 물고기와 악어를 사냥하는 재규어를 연상케 해요. 많은 고양잇과 동물들은 발톱을 숨겼다가 뺐다가 할 수 있는데요. 납작머리삵은 이렇게 할 수 없고 언제나 발톱이 바깥으로 노출돼있어요. 이런 점은 아프리카 사바나의 치타와 아주 흡사하죠.&lt;br&gt;&lt;br&gt;납작머리삵의 이빨은 입 안쪽을 향해 나있어요. 이런 식으로 이빨이 나있으면 물고기나 개구리 같은 미끌거리는 먹잇감을 떨어뜨리지 않고 꽉 무는 데 도움이 돼요. 납작머리삵은 눈 크기도 상대적으로 크고 앞쪽을 향해 몰려있어요. 그 덕분에 사물을 좀 더 입체적으로 볼 수 있대요.&lt;br&gt;&lt;br&gt;납작머리삵은 지금까지 발견된 경우가 많지 않아서 많은 부분이 베일에 가려져 있어요. 그런데 최근 서식지 파괴로 멸종 위기에 내몰려서 보호 대책이 시급하대요. 귀여운 생김새 때문에 이색 반려동물로 판매하려는 사람들이 포획하는 경우도 있다고 합니다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[오늘의 날씨] 2025년 1월 22일</title>
