@@ -13,6 +13,27 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>﻿주민 100명 사는 신안 퍼플섬…'매출 1억’ 카페 정체는? </title>
+      <link>https://www.chosun.com/national/national_general/2025/01/23/NJEM2TSFW5AZ3MOHM7XSGWLJCM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/23/NJEM2TSFW5AZ3MOHM7XSGWLJCM/</guid>
+      <dc:creator>이가영 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 22 Jan 2025 22:20:40 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/R3CMUKOY2VDDHKLUPIDAKC7KNI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전남 신안 퍼플섬의 퍼플교 끝자락에 있는 반월 카페. /신안군&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;주민 100여명이 사는 작은 섬, 전남 신안 퍼플섬의 ‘반월카페’가 관광 핫플레이스로 떠오르면서 주민 소득에도 기여하고 있다.&lt;br&gt;&lt;br&gt;반월~박지도를 연결하는 퍼플교 입구에 있는 이 카페는 2019년 4월 신축됐다. 건축면적 51.3㎡(약 15.5평) 규모의 아담한 카페는 처음에는 무인으로 운영됐다.&lt;br&gt;&lt;br&gt;그러다 퍼플섬의 컬러마케팅이 전국적으로 알려지고, 연간 40만명의 관광객이 방문하자 2020년부터 반월도 주민들이 직접 운영하는 카페로 전환했다. 특히 반월카페에 근무하는 주민 이정자씨는 2020년 당시 65세의 나이에 퍼플섬에서 목포까지 왕복하는 고된 과정을 거쳐 바리스타 자격증을 취득했고, 현재는 카페지기로 활동 중이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YCD4TMBGVQZJYFE3GZO3UCWJCY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;반월카페 찾은 관광객. /신안군&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;퍼플섬을 방문하는 관광객들에게는 휴식을 선물하고, 반월도 주민들에게는 정겨운 고향마을의 포근함을 함께 느낄 수 있는 카페로 자리 잡았다. 더불어 연 매출 1억원을 넘어서면서 주민들의 주머니를 두툼하게 하고 있다.&lt;br&gt;&lt;br&gt;박우량 신안군수는 “바쁜 일상의 지친 심신을 치유하고 휴식이 필요한 곳을 찾는다면 섬과 섬으로 둘러싸인 자연 그대로의 반월카페에서 차 한 잔의 여유와 담소를 나눴으면 좋겠다”고 말했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RUFQ6JXI5FGPFCTAS7P43XEAP4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전남 신안군 안좌면 퍼플교. /김영근 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>호랑이 사라진 한국 땅 ‘동물의 왕’ 등극…눈밭 뛰노는 담비 가족 포착</title>
+      <link>https://www.chosun.com/national/national_general/2025/01/23/35DRAA24C5CDDKHWS56VEQ6EKY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/23/35DRAA24C5CDDKHWS56VEQ6EKY/</guid>
+      <dc:creator>김자아 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 22 Jan 2025 22:37:27 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/42Y2SAKQDRCKPJ3WO5W7KA463E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지리산 눈밭을 뛰어다니는 담비./국립공원단&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;겨울철 눈밭을 뛰어다니는 담비 가족, 하늘다람쥐 사냥을 시도하는 긴점박이올빼미 등 국립공원에 사는 야생동물의 희귀한 활동 장면이 담긴 영상이 공개됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XPFLDDA5Q5E5DM6P6F7G6ZF5UI.gif"&gt;&lt;figcaption&gt;&lt;small&gt;하늘다람쥐를 사냥하는 긴점박이올빼미./국립공원단&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;23일 환경부 산하 국립공원공단은 지리산, 무등산, 소백산 등 국립공원 일대에 설치된 무인카메라로 포착한 야생동물의 활동 장면을 공개했다. 여기에는 멸종위기 야생생물 2급인 담비와 삵, 하늘다람쥐, 긴점박이올빼미를 비롯해 고라니, 노루, 멧돼지, 너구리 등 일반 야생동물의 모습이 담겼다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RGJXOFH3W5AVTIDXWD6J5PIQN4.gif"&gt;&lt;figcaption&gt;&lt;small&gt;팔공산에서 포착된 삵./국립공원단&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;소백산에서는 2015년부터 진행한 하늘다람쥐 관측을 통해 긴점박이올빼미가 하늘다람쥐 사냥을 시도하는 장면이 잇달아 확인됐다.&lt;br&gt;&lt;br&gt;또 2023년 23번째 국립공원으로 지정된 팔공산에서는 삵이 촬영됐다. 삵이 배설한 자리에 각기 다른 반응을 보이는 너구리, 멧돼지, 노루의 모습도 함께 포착됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Y2MURNII4VE75OE4RTOUVM6C4U.gif"&gt;&lt;figcaption&gt;&lt;small&gt;지리산 눈밭을 뛰어다니는 담비 가족./국립공원단&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지리산에서는 눈밭을 달리는 담비 가족, 죽령의 생태통로에서는 고라니를 쫓는 담비의 모습이 관찰됐다. 잡식성인 담비는 2~3마리가 무리를 지어 생활하는데, 호랑이, 표범 등 상위 포식자가 대부분 사라진 우리나라에서 최상위 포식자에 해당한다.&lt;br&gt;&lt;br&gt;경주국립공원에서는 수컷 노루 2마리가 뿔을 부딪치며 싸우는 모습 등이 영상에 찍혔다.&lt;br&gt;&lt;br&gt;송형근 국립공원공단 이사장은 “이번에 촬영된 영상은 각 국립공원 현장에서 멸종위기종 등 야생동물 관측을 통해 확보한 귀중한 자료”라며 “앞으로도 국립공원 자연생태계가 건강하게 유지될 수 있도록 서식지를 더욱 잘 살피고 보전하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/Y2MURNII4VE75OE4RTOUVM6C4U.gif?width=1163&amp;height=611&amp;auth=e42c016be04ec476ce771edeee625dba61d9a2ab596b7ae5b4a961a3621c8b1d&amp;smart=true" type="image/jpeg" height="611" width="1163">
+        <media:description type="plain">지리산 눈밭을 뛰어다니는 담비 가족./국립공원단</media:description>
+      </media:content>
+    </item>
+    <item>
       <title>[단독] 공조본 뒤에 숨은 국수본… 수사 대상이 되레 ‘수사 완장’</title>
       <link>https://www.chosun.com/national/court_law/2025/01/23/RHBVIC3FIZCITMBXY6Z3AFWV4Q/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/01/23/RHBVIC3FIZCITMBXY6Z3AFWV4Q/</guid>
@@ -823,27 +844,6 @@
       <description/>
       <pubDate>Wed, 22 Jan 2025 01:16:07 +0000</pubDate>
       <content:encoded>‘12·3 비상계엄 사태’를 수사 중인 검찰이 한덕수 국무총리를 소환했다.&lt;br&gt;&lt;br&gt;검찰 비상계엄 특별수사본부(본부장 박세현 서울고검장)는 지난 21일 한 총리를 비공개 소환해 조사했다. 한 총리는 내란 등 혐의로 고발돼 피의자 신분이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7NSMO2QF5YPHXRRNB26XQTJJ2U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한덕수 국무총리 및 국무위원들이 비상계엄이 해제된 지난달 4일 서울 종로구 정부서울청사에서 현안 관련 긴급 회의를 마친 뒤 국무회의실을 나서고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한 총리는 지난달 3일 비상계엄 선포 직전 국무회의 참석자 중 한 명이다. 당시 국무회의에는 김용현 전 국방부 장관, 최상목 경제부총리(현 대통령 권한대행), 조태열 외교부 장관, 김영호 통일부 장관, 박성재 법무부 장관, 이상민 행정안전부 장관, 조규홍 보건복지부 장관 등이 참석했다. 검찰은 한 총리를 상대로 당시 국무회의 상황 등을 조사한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;한 총리는 해당 회의에 절차적·실체적 결함이 있었다는 입장이다. 한 총리는 국무회의 직전 윤석열 대통령과의 면담 과정에서 비상계엄에 대한 반대 의견을 적극 개진했다고도 헌법재판소 탄핵심판 과정에서 밝혔다. &lt;br&gt;&lt;br&gt;검찰은 김 전 장관을 비롯해 최 부총리, 김영호·조태열·조규홍 장관 등 국무회의 참석자들을 잇따라 불러 조사했다. 또 김 전 장관 등의 공소장에서 국무회의의 위법성에 대해 지적하기도 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>명절 앞두고 광주 전통시장 판매점에 불 ‘아찔’…830만원 피해</title>
-      <link>https://www.chosun.com/national/national_general/2025/01/22/GKNCVHKUY5AC5IZFFFFQSRMIFI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/22/GKNCVHKUY5AC5IZFFFFQSRMIFI/</guid>
-      <dc:creator>광주광역시=진창일 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 22 Jan 2025 00:27:52 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2NTQTHCCC3ODP7R5NXQIT4TPB4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;22일 오전 0시6분쯤 광주광역시 서구 양동시장 한 채소 판매점에서 불이 나 소방대원들이 진화작업을 하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;설 명절을 앞두고 광주광역시 양동시장에서 불이 나 830만원 상당의 재산피해가 발생했다.&lt;br&gt;&lt;br&gt;22일 광주서부소방서 등에 따르면 이날 오전 0시 6분쯤 광주 서구 양동시장 내 채소 판매점에서 불이 나 29분 만에 진화됐다. 점포 내·외부와 비품이 불에 타 소방서 추산 837만원 상당의 재산피해가 발생했다.&lt;br&gt;&lt;br&gt;광주 양동시장은 호남권을 대표하는 대규모 전통시장으로 점포 수는 약 1000곳에 달한다. 경찰은 전기적 이유로 불이 난 것으로 보고 정확한 화재 원인을 조사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/2NTQTHCCC3ODP7R5NXQIT4TPB4.jpg?width=720&amp;height=479&amp;auth=3068f78ed3033b197eb781335aa5ea4c66165d6cc43ac30fd52cee61bd1e56c9&amp;smart=true" type="image/jpeg" height="479" width="720">
-        <media:description type="plain">22일 오전 0시6분쯤 광주광역시 서구 양동시장 한 채소 판매점에서 불이 나 소방대원들이 진화작업을 하고 있다. /뉴시스</media:description>
-      </media:content>
-    </item>
-    <item>
-      <title>﻿설 연휴 214만명 몰리는데…”3시간 전 가도 빠듯” 인천공항 여행객 불만</title>
-      <link>https://www.chosun.com/national/national_general/2025/01/22/7BTFBT5H3RF3RCLUEZRVEORU6Q/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/22/7BTFBT5H3RF3RCLUEZRVEORU6Q/</guid>
-      <dc:creator>이가영 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 21 Jan 2025 23:03:26 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UOGVVA22DFMXLHR3QI7QMMTO2Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;여행객들로 붐비는 인천국제공항 제1터미널 출국장 모습. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;올 설 연휴에 인천국제공항을 찾는 이들이 역대 최다를 기록할 것으로 예상되는 가운데, 비행기를 탈 때 시간이 너무 오래 걸린다는 불만이 이어지고 있다. &lt;br&gt;&lt;br&gt;22일 소셜미디어에는 “출발 3시간 전에 도착했는데도 빠듯했다”는 내용의 글이 많다. 한 네티즌은 “요즘 인천공항에 사람 정말 많다”며 “3시간 일찍 왔는데도 이륙 30분 전까지 출국 심사대를 통과 못 해서 따로 들어가고 난리였다”고 했다. &lt;br&gt;&lt;br&gt;보안 검색 줄이 끝도 없이 늘어선 모습의 영상도 올라왔다. 지난해 인천공항은 승객의 95%가 체크인 데스크에서 탑승권을 발권한 뒤 출국장으로 진입해 보안 검색과 여권 확인을 마치는 데까지 30분 41초면 된다고 홍보했지만, 이용객들은 “이전보다 시간이 더 오래 걸린다”고 입을 모았다. &lt;br&gt;&lt;br&gt;인천국제공항공사는 “연말연시, 학생 방학 등 여행 성수기여서 승객이 늘어났다”며 “겨울철이라 두꺼운 옷을 입은 여객이 많아 보안 검색 때 옷을 벗는 시간도 소요된다”고 설명했다. 지난달 말 강화된 보안 검색 규정에 따라 굽 3.5㎝ 이상의 신발을 신은 사람은 신발을 벗어야 해 시간이 좀 더 걸리는 탓도 있다. &lt;br&gt;&lt;br&gt;현장에서는 인력 부족을 이유로 꼽았다. 자회사 소속 보안검색요원은 지난해 세 차례 채용 공고를 통해 370명을 뽑았지만, 236명이 퇴직했다고 한다. 인천공항공사 측은 “인력 부족 해소를 위해 약 110명의 보안 검색요원을 신규 투입할 예정”이라며 “현재 교육하고 있고, 2월 초 투입 예정”이라고 밝혔다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/F6GICKMD4FIH3PRLW6VRKTYUAM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;여행객들로 붐비는 인천국제공항. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;◇역대급 인파 예상되는 설 연휴, 특별교통대책 시행&lt;/b&gt;&lt;br&gt;&lt;br&gt;문제는 이번 설 연휴에 최장 7일 이상의 황금연휴도 가능할 것으로 보여 해외여행을 떠나는 승객이 더 늘어날 것으로 전망된다는 점이다. 인천공항공사는 오는 24일부터 다음 달 2일까지 10일간 총 214만1000명, 일평균 21만4000명의 여객이 인천공항을 이용할 것으로 전망된다고 밝혔다. 공항 개항 이후 설 연휴 기준 일평균 여객 최대치다. &lt;br&gt;&lt;br&gt;공사는 관계기관과 합동으로 특별 교통 대책을 시행한다. 우선, 출입국장을 30분 조기에 열어 운영시간을 확대하고 보안검색대를 기존보다 확대 운영해 터미널 혼잡을 완화한다는 방침이다. 또 체크인 안내‧지원 인력을 평상시보다 117명 늘려 배치하고, 자원봉사 안내소 4곳도 추가로 운영한다. &lt;br&gt;&lt;br&gt;이 외에도 불법 주정차 단속을 강화해 혼잡을 관리하고, 임시주차장 개방과 수요에 따른 주차장 탄력 운영도 진행한다. 다만 공사 측은 ‘여객이 많이 몰릴 수 있는 만큼 가급적 대중교통을 이용해 달라”고 당부했다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>영하 15도에 내복만 입고 헤맨 치매 어르신…발견한 시민이 보인 행동</title>
