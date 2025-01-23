@@ -13,6 +13,33 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>김성훈 경호처 차장 “기관단총 배치는 본부장 지시...경호관은 늘 총기 휴대”</title>
+      <link>https://www.chosun.com/national/national_general/2025/01/24/HACV3IUBGRAAZMYOUF6RFVGSVY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/24/HACV3IUBGRAAZMYOUF6RFVGSVY/</guid>
+      <dc:creator>구아모 기자, 김관래 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 23 Jan 2025 22:42:40 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GFBEDEFKEVMCS7IUPG3RSJYVFY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김성훈 대통령경호처 차장이 22일 국회에서 열린 윤석열 정부의 비상계엄 선포를 통한 내란 혐의 진상규명 국정조사특별위원회 청문회에 출석했다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김성훈 경호차장과 이광우 경호본부장이 24일 오전 7시 30분 특수공무집행 방해 혐의 조사를 위해 경찰에 출석했다. &lt;br&gt;&lt;br&gt;김 차장은 이날 출석하면서 ‘총기 사용 의혹’ ‘기관단총 배치 의혹’과 관련해 “평소에 배치하는 것”이라며 “경호관은 근무할 때 늘 총기를 휴대하는데, 어떤 상황이 발생해도 대비하기 위한 것이다”고 했다. &lt;br&gt;&lt;br&gt;‘비화폰 기록 삭제 지시 의혹’과 관련한 질의엔 “비화 전화기는 말씀드린 것처럼 이틀마다 자동 삭제 되어있어 지시할 이유가 없다”고 했다. 일부 경호처 직원을 업무에서 배제했다는 의혹과 관련해서는 “그런 사실 없다”고 했다.&lt;br&gt;&lt;br&gt;이 본부장은 ‘시위대 대비하기 위해 기관단총과 실탄을 배치한 이유가 무엇이냐’는 취재진의 질의에 별다른 대답을 하지 않고 경찰 조사에 출석했다.&lt;br&gt;&lt;br&gt;경호처 내 강경파로 분류되는 김 차장과 이 본부장은 지난 3일 윤석열 대통령에 대한 체포영장 1차 집행을 저지한 혐의로 지난 17일과 지난 18일 경찰에 체포됐다. &lt;br&gt;&lt;br&gt;경찰은 18일 김 차장에 대한 구속영장을 신청했지만, 검찰에서 이를 반려하며 석방됐다. 이 본부장 역시 19일 석방돼 현재 경호 업무에 복귀한 상황이다.&lt;br&gt;&lt;br&gt;경찰은 윤 대통령에 대한 체포영장 2차 집행 과정에서 김 차장과 이 본부장이 총기 준비를 했다는 정황과 관련 경호처 직원들의 진술을 확보했다.  &lt;br&gt;&lt;br&gt;이와 관련 김 차장과 이 본부장의 변호인 측은 “노조 시위대가 습격한다는 제보가 있어 경호 목적으로 대비한 것”이라고 했다.경찰은 보강 조사를 거쳐 구속 영장을 신청할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>오픈AI, 사람처럼 컴퓨터 쓰는 AI ‘오퍼레이터’ 출시</title>
+      <link>https://www.chosun.com/national/2025/01/24/VX7MAE7TTNDFZNNVAHDMST5HKQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2025/01/24/VX7MAE7TTNDFZNNVAHDMST5HKQ/</guid>
+      <dc:creator>실리콘밸리=오로라 특파원</dc:creator>
+      <description/>
+      <pubDate>Thu, 23 Jan 2025 22:11:24 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EHMDVEBOVBE2HOIMZ5FSJK26WA.png"&gt;&lt;figcaption&gt;&lt;small&gt;오픈AI 오퍼레이터./오픈AI&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘컴퓨터를 조작하는 인공지능(AI)’ 경쟁에 오픈AI가 뛰어들었다. 23일 오픈AI는 웹 브라우저에서 검색하고 상품 예매까지 할 수 있는 AI에이전트 ‘오퍼레이터(Operator)’를 공개했다. 앞서 앤스로픽은 지난 10월 사람처럼 컴퓨터 작업을 스스로 하는 AI에이전트 ‘컴퓨터 유스’를 공개했고, 구글도 이와 비슷한 AI를 개발하고 있는 것으로 알려졌다. 오픈AI까지 경쟁에 가세하면서 관련 시장이 빠르게 커질 것이라는 관측이 나온다.&lt;br&gt;&lt;br&gt;이날 오픈AI는 자사 홈페이지를 통해 오퍼레이터 프리뷰를 공개했다. 이에 따르면 오퍼레이터는 여행 숙박 예약, 레스토랑 예약, 음식 배달, 온라인 쇼핑과 같은 작업을 자동으로 해낼 수 있다. 예컨대 오퍼레이터에 ‘다음주 뉴욕에 여행을 가는데 숙박을 예약해줘’라는 명령을 내리면, AI가 별도의 전용 브라우저를 열어서 예약을 완료해준다는 것이다. AI가 작동하는 동안 이용자는 컴퓨터에서 하던 일을 끊임 없이 계속 할 수 있다.&lt;br&gt;&lt;br&gt;오픈AI에 따르면 오퍼레이터는 GPT-4o와 고급 추론 모델의 능력을 결합한 ‘컴퓨터 사용 에이전트 모델(CUA)’에 의해 구동된다. 오픈AI는 오퍼레이터의 협력 파트너로 미국 배달음식 앱인 도어대시, 이베이, 인스타카트, 프라이스라인, 우버 등이 있다고 밝혔다. 향후 이들의 앱에서 쇼핑하거나 주문을 할 때 AI가 자동으로 업무를 수행할 수 있다는 것이다.&lt;br&gt;&lt;br&gt;다만 오퍼레이터가 100% 자동으로 움직이는 것은 아니다. 예컨대 신용카드 정보를 입력해야할 때는 사람이 직접 개입해야한다. 또 비밀번호를 입력하거나, 보안문자(CAPTCHA) 확인이 요청되는 웹사이트에선 오퍼레이터는 작동을 멈추고 사용자에게 작업을 요청한다.&lt;br&gt;&lt;br&gt;오픈AI에 따르면 이 기능은 월 200달러의 구독료를 내는 ‘챗GPT 프로’ 구독자에게 먼저 제공된다. 미국 외의 국가에서도 출시되지만, 테크 규제가 심한 유럽에서는 시간이 걸릴 것으로 예상한다고 밝히기도 했다. 현재 오퍼레이터는 별도 사이트를 통해 서비스되지만, 장기적으로는 챗GPT 안에 통합될 예정이다.&lt;br&gt;&lt;br&gt;오픈AI는 오퍼레이터의 일일 및 작업에 따라 속도 제한을 건다고 밝혔다. 갑자기 대량의 자동 주문이 몰려오면서 일어날 수 있는 문제를 차단하기 위한 것으로 추정된다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>국민연금 ‘월 300만원’ 수급자 37년 만에 탄생…비결은</title>
+      <link>https://www.chosun.com/national/national_general/2025/01/24/PP3BCKHYLJB4RNL7IOKMBBWHBE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/24/PP3BCKHYLJB4RNL7IOKMBBWHBE/</guid>
+      <dc:creator>이가영 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 23 Jan 2025 22:06:09 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6FDARWRCD4YNHQAN4NSIZZV43Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;시민들이 서울 서대문구 국민연금공단 서울북부지역본부 앞을 지나가고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국민연금을 매달 300만원 이상 받는 사람이 국민연금제도가 도입된 지 37년 만에 처음으로 나왔다. &lt;br&gt;&lt;br&gt;24일 국민연금공단에 따르면 올해 1월 노령연금(노후 수급 연령에 도달했을 때 받는 일반적 형태의 국민연금) 수급자 중에서 수령 액수가 월 300만원 넘는 사람이 한 명 탄생했다. &lt;br&gt;&lt;br&gt;이 수급자가 월 300만원 이상을 받게 된 데에는 가입 기간이 길었던 게 큰 역할을 했다. 그는 국민연금제도 시행 때부터 가입해 30년 이상 된 장기 가입자다. 국민연금은 가입 기간이 길수록, 낸 보험료가 많을수록, 소득대체율이 높을수록 수령 금액이 커진다. &lt;br&gt;&lt;br&gt;여기에 이 수급자가 ‘노령연금 연기제도’를 활용해 노령연금을 받을 수 있는 연령을 5년 뒤로 늦춘 것도 수령 액수를 늘리는 데 한몫했다. 노령연금 수급권자가 희망하는 경우 보험료는 더 내지 않고 연금 수령 시기를 최대 5년(출생 연도에 따라 70세까지)까지 연금액의 전부 또는 일부(50~90%까지 선택 가능)를 늦춰서 받을 수 있다. 연기 기간에 따라 연 7.2%씩 연금액이 늘어난다. &lt;br&gt;&lt;br&gt;다만, 전문가들은 무턱대고 연금 연기를 신청하는 것은 바람직하지 않다고 조언한다. 수령 시기를 늦추면 많이 받는 대신 수령 기간이 줄어드는 만큼 자신의 건강 상태와 소득, 평균수명 등을 고려해 신중하게 정하는 것이 좋다. 당장 연금을 타지 않아도 생활하는 데 지장이 없을 만큼 소득이 있고 건강해서 장수할 가능성이 큰 사람에게 유리한 제도다. &lt;br&gt;&lt;br&gt;최초로 월 300만원 이상 노령연금 수급자가 등장하기는 했지만, 전체 수급자가 받는 평균 금액 수준은 그다지 높지 않다. 2024년 9월 말 기준 국민연금 수급자의 1인당 월평균 노령연금 수령액은 65만4471원이다. &lt;br&gt;&lt;br&gt;1988년 국민연금 출범 당시에는 일할 때 받던 생애 평균소득의 70%(40년 가입 기준)를 연금으로 대체할 수 있었다. 하지만 급속한 고령화로 인한 기금고갈 우려에 따라 1998년 소득대체율은 60%로 낮아졌다. 이후에도 계속 단계적으로 떨어져 2025년 기준 소득대체율은 41.5%다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>[기자수첩] 이 와중에 민원 해결하려는 사법부</title>
       <link>https://www.chosun.com/national/court_law/2025/01/24/553CAR2YJFERRFGL2DHWIMOLVY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/01/24/553CAR2YJFERRFGL2DHWIMOLVY/</guid>
@@ -934,37 +961,6 @@
       <description/>
       <pubDate>Wed, 22 Jan 2025 12:10:44 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NJLHULQW4K4XDLLP2V2OHIAVQ4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;21일 오전 서울 종로구 광화문광장 인근에서 바라본 도심이 뿌옇게 보이고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;작년 서울시 자동차 등록 대수가 전국 시도 중 유일하게 감소한 것으로 나타났다. 청년층에서 자가용 수요가 줄어드는 가운데, 고령층 면허 반납 등이 영향을 미친 것으로 풀이된다.&lt;br&gt;&lt;br&gt;22일 서울시가 국토교통부의 자동차관리정보시스템과 행정안전부 주민등록 인구 통계 등을 기반으로 분석한 결과, 작년 기준 서울시 자동차 등록 대수는 319만1162대로 전년 대비 2189대가 줄어들었다. 전국 총 자동차 등록 대수가 전년 대비 44만6123대(1.75%) 늘어난 2594만 9201대로 집계된 것과 대조된다. 작년 서울의 인구 대비 자동차 수는 2.94명당 1대로 전국 광역단체 중 최저였다.&lt;br&gt;&lt;br&gt;서울의 자동차 등록 대수가 전년보다 줄어든 것은 2019년 이후 4년 만에 처음이다.&lt;br&gt;&lt;br&gt;자치구별 자동차 등록 대수는 강남구가 25만3856대로 가장 많았고, 이어 송파구·강서구 등의 순이었다. 외국산 차량의 등록 대수에서도 강남구가 10만2240대로 1위였고, 이어 서초구(6만5361대), 송파구(6만1610대) 등이었다. 연령별로는 60대 이상에서 3만5794대가 줄어 고령 운전자 운전면허 자진 반납 등 고령 운전자 비율 감소 요인이 반영됐다.&lt;br&gt;&lt;br&gt;이처럼 서울시 자동차 등록 대수가 줄어든 것은 자가용 수요가 적은 1인 가구와 청년층이 많고, 다른 지역보다 서울의 대중교통 인프라가 잘 갖춰져 있는 것이 원인으로 분석된다. 장택영 교통안전환경연구소장은 “서울은 대중교통 인프라가 좋을 뿐만 아니라 카쉐어링 등 자가용 대체 수단이 많고, 시내 주차비도 비싸다”며 “젊은 층에서 결혼을 많이 하지 않고 자녀를 갖지 않다 보니 차가 굳이 필요하지 않은 측면도 있다”고 했다.&lt;br&gt;&lt;br&gt;다만 지난해 서울시에 등록된 친환경 자동차는 2023년 대비 5만4120대가 늘어 친환경 차량에 대한 선호도는 꾸준히 높아지고 있는 것으로 나타났다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>헌재 “중앙지검장 등 검사 3명 탄핵 사건, 2월 17일 변론 시작”</title>
-      <link>https://www.chosun.com/national/court_law/2025/01/22/DOVZEZY6ORG5NEAG2LAJEWBY2Q/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/01/22/DOVZEZY6ORG5NEAG2LAJEWBY2Q/</guid>
-      <dc:creator>박강현 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 22 Jan 2025 12:10:09 +0000</pubDate>
-      <content:encoded>헌법재판소는 22일 이창수 서울중앙지검장 등 검사 3명의 탄핵 사건에서 준비 절차를 마치고 다음 달 17일 정식 변론을 시작하겠다고 예고했다. 이날 준비 절차에선 검찰이 사건 수사 기록을 헌재에 제출하는 것을 두고 이견이 표출됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DXSG2P46GRKNRIF37MJ27XERUY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김형두(오른쪽), 김복형 헌법재판관이 22일 오후 서울 종로구 헌법재판소 소심판정에서 열린 이창수 서울중앙지검장 등의 탄핵 심판 3차 변론준비기일 진행을 위해 자리에 앉아 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김복형 헌법재판관은 이날 열린 이 지검장과 조상원 중앙지검 4차장, 최재훈 반부패2부장의 탄핵심판 세 번째 변론 준비 기일에서 “변론 준비 절차를 종결하고 변론 기일로 진행하겠다”고 했다. 변론 준비 기일은 본격적인 변론이 시작되기 전에 당사자 측이 모여 쟁점을 정리하고, 향후 재판 진행 과정 등을 조율하는 절차다. 김 재판관은 첫 정식 변론 기일은 다음 달 17일 오후 2시로 잡았다.&lt;br&gt;&lt;br&gt;국회 측 대리인은 이날 소추 사유를 특정한 준비서면을 제출했고, 헌재는 요지를 설명해달라고 주문했다. 앞서 지난 8일 열린 이 사건 두 번째 변론 준비 기일에서 헌재는 “소추 사유가 특정이 되는지에 따라 각하(却下) 사유가 되는지 아닌지도 문제가 될 수 있다”고 지적했다.&lt;br&gt;&lt;br&gt;그럼에도 국회 측 대리인이 30분 가까이 검사들이 탄핵되어야 하는 이유를 나열하자 이 검사장 대리인은 “요지를 이야기해도 과분한데, 일방적으로 허위 사실을 늘어놓고 있는 점은 명확한 제지가 필요하다”고 반발했다. 검사 측 대리인은 “국회 측 소추 사유에서 아직도 많은 부분이 불명확하다”고 하기도 했다.&lt;br&gt;&lt;br&gt;국회 측 대리인은 “가급적 수사 기록을 입수해서 방어권에 문제가 없도록 노력했는데, 검찰이 수사 기록 목록도 보여주고 있지 않다”고 반박했다. 국회 측은 서울고검에 김건희 여사 연루 의혹이 있는 도이치모터스 사건 관련 수사 기록을 제출해달라고 요구했고, 헌재는 신청을 일부 받아들여 서울고검 등에 관련 기록 확보를 일부 요청했다.&lt;br&gt;&lt;br&gt;하지만 검찰은 현재 수사 중인 사건이라는 이유로 제출을 거부했다고 한다. 재판부는 “검찰이 해당 사건은 불기소 처분 항고돼 수사 중인 사건 기록이라 공개할 경우 사건관계인 명예나 사생활의 비밀 또는 자유를 침해할 우려가 있고, 직무수행을 현저히 곤란하게 할 우려가 있어 송부할 수 없다고 했다”고 설명했다.&lt;br&gt;&lt;br&gt;지난 변론 준비 기일에서 검사 측 대리인은 국회 측의 이 같은 수사 기록 요청에 대해 “추상적인 의심을 갖고 (탄핵)소추를 해놓고 여러 자료를 입수해서 다시 구체적 사실을 특정해서 주장하겠다는 것”이라며 항의한 바 있다.&lt;br&gt;&lt;br&gt;이날 국회 측은 이 검사장 등 피청구인에 대한 신문을 신청했는데, 재판부는 “헌재 사무규칙상 피청구인 본인 신문 여부는 재판장 권한이다. 채택 여부는 재판부가 상의해서 재판장이 결정할 것”이라고 말했다.&lt;br&gt;&lt;br&gt;앞서 더불어민주당 주도로 국회는 지난달 검사 3명의 탄핵소추안을 통과시키며 도이치모터스 사건에서 김 여사에 대한 무혐의 처분 등을 핵심 사유로 들었다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>내일 출근길도 초미세먼지 '나쁨'…금요일까지 공기질 탁해</title>
-      <link>https://www.chosun.com/national/transport-environment/2025/01/22/W3VWMYGXMBF7NG33SQMBBBPWCI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/01/22/W3VWMYGXMBF7NG33SQMBBBPWCI/</guid>
-      <dc:creator>박상현 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 22 Jan 2025 11:24:58 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6TIYEB5O7VKARCG3Z4OJUGLEUE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전국 대부분 지역에서 미세먼지 농도가 '나쁨' 수준을 보인 22일 오후 서울 종로구 경복궁 앞에서 어린이가 마스크를 쓰며 이동하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;목요일인 23일에도 초미세먼지(PM2.5) 농도가 짙을 것으로 전망됐다.&lt;br&gt;&lt;br&gt;22일 국립환경과학원과 기상청에 따르면, 중국발 미세먼지와 국내 발생 미세먼지가 대기 정체로 빠져나가지 못하면서 23일 제주를 제외한 전국의 초미세먼지 농도가 ‘나쁨’ 수준을 기록할 것으로 예상됐다.&lt;br&gt;&lt;br&gt;중부내륙과 호남은 미세먼지 농도가 높은 가운데 출근길에 안개까지 짙게 끼면서 가시거리가 짧아질 것으로 보인다. 경기남부와 강원·충청·전라권을 중심으로 가시거리가 200ｍ에 못 미칠 수 있어 출근길 운전에 주의해야 한다.&lt;br&gt;&lt;br&gt;주말까지 우리나라는 이동성 고기압 영향권에 놓이면서 바람이 거의 불지 않겠으나, 금요일인 24일 기압계 변화로 입자가 큰 미세먼지(PM10)는 차츰 내륙을 빠져나갈 것으로 보인다.&lt;br&gt;&lt;br&gt;그러나 초미세먼지는 24일에도 여전히 전국을 뒤덮겠다. 24일 오전 제주를 제외한 전국에서 초미세먼지 농도가 ‘나쁨’ 수준이겠고, 오후 들어서는 수도권과 충청권을 중심으로 ‘나쁨’, 그밖에 지역은 ‘한때 나쁨’ 수준을 보일 것으로 전망됐다.&lt;br&gt;&lt;br&gt;23일 기온은 아침 최저 영하 7도에서 영상 4도 사이, 낮 최고 영상 5~14도로 예보됐다. 평년보다 2~6도 가량 높아 낮동안은 겨울치고 포근한 날씨가 이어지겠다.&lt;br&gt;&lt;br&gt;주요 도시 예상 최저·최고기온은 서울 영하 2도와 영상 7도, 인천 영하 2도와 영상 5도, 대전 영하 3도와 영상 9도, 광주 0도와 영상 12도, 대구 영하 1도와 영상 12도, 울산 영상 2도와 영상 13도, 부산 영상 4도와 영상 13도 등이다.&lt;br&gt;&lt;br&gt;현재 건조주의보가 내려진 동해안과 강원산지, 경북북동산지와 부산을 비롯한 영남은 24~25일 비나 눈이 내리기 전까지는 대기가 계속 건조할 것으로 보인다. 바람이 약간 세게 불면서 큰불이 날 수 있는 상황이라 주의가 필요하다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>김용현 “포고령 작성한 노트북 없애라 했다”… 지시 받은 행정관 “망치로 부숴”</title>
-      <link>https://www.chosun.com/national/court_law/2025/01/22/M3MKD46UHZALDLGS3IY6CHC7XY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/01/22/M3MKD46UHZALDLGS3IY6CHC7XY/</guid>
-      <dc:creator>유희곤 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 21 Jan 2025 16:09:02 +0000</pubDate>
-      <content:encoded>&lt;br/&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3ZRYFTQBJH2E35OVUTYKQG53PA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김용현 전 국방부 장관이 2024년 11월 28일 서울 여의도 국회에서 열린 국방위원회 전체회의에서 의원 질의를 듣고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘12‧3 비상계엄’ 사태와 관련해 내란 혐의로 구속 기소된 김용현 전 국방부 장관이 비상계엄 당시 포고령을 작성하는 데 쓴 노트북을 파쇄했다고 진술한 것으로 21일 전해졌다.&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 김 전 장관은 앞선 검찰 특별수사본부(본부장 박세현 서울고검장)의 피의자 조사에서, 지난달 3일 발표한 계엄 포고령 제1호를 작성한 노트북을 “대통령 경호처 소속 A 행정관에게 없애라고 시켰다”고 진술한 것으로 알려졌다. A 행정관도 검찰 조사에서 “김 전 장관 지시를 받고 그 노트북과 휴대전화를 망치로 부쉈다”고 진술했다고 한다. A 행정관은 김 전 장관이 대통령 경호처장일 때부터 개인 비서 역할을 했고, 작년 9월 국방부 장관에 임명된 후에도 김 전 장관을 계속 수행한 것으로 전해졌다. 김 전 장관은 노트북 등을 없앤 이유에 대해 “비상계엄 등의 임무를 완수했기 때문”이라는 진술도 했다고 한다.&lt;br&gt;&lt;br&gt;김 전 장관 말대로 그 노트북이 실제로 파기됐고 복구가 불가능하다면 구체적 포고령 작성 경위에 대한 검찰 수사는 차질이 불가피할 것으로 보인다. 검찰은 포고령 1호가 정당 활동과 집회‧시위 등 정치 활동을 금지한다는 내용을 담아 위헌적이고 위법적이라고 결론 낸 바 있다.&lt;br&gt;&lt;br&gt;검찰이 작성한 김 전 장관 공소장을 보면, 김 전 장관은 작년 11월 24일 “국회가 패악질을 하고 있다” “특단 대책이 필요하다”는 윤 대통령 발언을 듣고 과거 비상계엄 포고령 등을 참고해 비상계엄 선포문, 대국민 담화문, 포고령 초안을 작성했다. 이후 비상계엄 선포 이틀 전인 작년 12월 1일 윤 대통령 관저에서 포고령 등의 초안을 보고했고, 윤 대통령은 ‘야간 통행금지’ 부분 등 일부를 삭제하라고 지시했다. 김 전 장관은 이튿날 포고령 등을 완성했고 윤 대통령이 승인했다고 한다. 김 전 장관은 검찰에 “윤 대통령이 포고령 작성 과정에서 관련 법전을 찾아봤다”는 진술도 한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;이에 대해 윤 대통령 측은 헌법재판소에 제출한 탄핵 심판 답변서에서 “포고령 1호는 김 전 장관이 종전 대통령에게 국회 해산권이 있을 당시 예문을 그대로 베껴 온 것”이라며 “모든 절차를 평화적으로 진행하고 국회 해산 결의 시 종료하려고 했는데 문구의 잘못을 부주의로 간과한 것”이라고 주장했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/3ZRYFTQBJH2E35OVUTYKQG53PA.jpg?width=4309&amp;height=2958&amp;auth=445179f63b04b80c8b8e29197776440570d320163c111ce351d9fad65dc23580&amp;smart=true" type="image/jpeg" height="2958" width="4309">
-        <media:description type="plain">김용현 전 국방부 장관이 2024년 11월 28일 서울 여의도 국회에서 열린 국방위원회 전체회의에서 의원 질의를 듣고 있다./뉴스1</media:description>
-        <media:credit role="author" scheme="urn:ebu">뉴스1 ⓒ News1 김민지 기자</media:credit>
-      </media:content>
     </item>
   </channel>
 </rss>
