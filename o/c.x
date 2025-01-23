@@ -13,6 +13,106 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>[속보] 윤석열 대통령, 헌재 변론 마치고 서울구치소 도착</title>
+      <link>https://www.chosun.com/national/court_law/2025/01/23/L2ZL2SZ7E5FBVF5Z7YMWTWE4OM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/01/23/L2ZL2SZ7E5FBVF5Z7YMWTWE4OM/</guid>
+      <dc:creator>박혜연 기자, 이민준 기자, 한영원 기자, 이민경 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 23 Jan 2025 09:51:40 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5HSTPWELKJJVPMRDIGPX7VMJOQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;탄핵심판 4차 변론을 마친 윤석열 대통령이 탄 차량이 23일 오후 서울 종로구 헌법재판소를 떠나고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;23일 헌법재판소에서 열린 탄핵심판 4차 변론 기일에 출석한 윤석열 대통령이 오후 7시 8분 서울구치소에 도착했다. 재판을 마치고 오후 6시 44분 헌법재판소를 떠난 지 24분 만이다. 헌재는 이날 오후 2시부터 변론을 열었고, 재판은 오후 6시 22분 종료됐다.&lt;br&gt;&lt;br&gt;이날 헌재 경내에서 대기하던 대통령경호처 소속 캐딜락 SUV를 선두로, 모두 7대의 차량 행렬이 헌재를 빠져나갔다. 윤 대통령은 헌재 출석 시 탑승했던 법무부 교정본부 소속 파란색 스타리아 호송차량에 탔다.&lt;br&gt;&lt;br&gt;재판이 끝난 뒤 국회 탄핵소추 대리인단 소속 장순욱 변호사는 취재진과 만나 “재판부가 잡아놓은 일정대로 순조롭게 진행되는 듯 하다”며 “긍정적으로 보고 있다”고 했다. 그는 ‘변론 기일 대응 계획이 어떻게 되느냐’는 기자 질문에 “이전과 마찬가지”라며 “증거들이 너무 많아 어떻게 정리할지, 증인들을 어떻게 선별해 신속하게 재판 마칠 수 있을지 늘 검토하고 있다”고 했다. &lt;br&gt;&lt;br&gt;‘윤 대통령 발언 중 눈여겨 본 것이 있느냐’는 질문엔 “없다”며 선을 그었다. 이날 김용현 전 국방장관이 “의원이 아니라 요원을 끌어내라 한 것”이라고 증언한 데 대해 장 변호사는 “본회의장 내에는 국회의원들 말고는 없었다”며 “요원들 을 끌어내라는 것은 상황과 안 맞다”고 했다. 그러면서 “요원들은 군인 지칭한다고 본인도 인정하지 않았느냐”며 “그 사람들 왜 끌어내느냐. 명령만 하면 되지 않느냐”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YV2C5CVKIITD2R2P4XTTNUF2FQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령(왼쪽)과 김용현 전 국방장관이 23일 오후 서울 종로구 헌법재판소에서 열린 탄핵심판 4차 변론기일에 출석해 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김진한 변호사도 “(계엄군이) 유리창을 깨고 들어간 것”이라며 “의원들을 끌어내러 간 게 아니라 요원들 끌어내라는 것이었다는 변명은 누가 들어도 앞뒤가 안 맞는 변명이라고 할 수 있다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>檢, LG家 구연경 부부 ‘미공개 정보 이용 주식 거래’ 혐의로 기소</title>
+      <link>https://www.chosun.com/national/national_general/2025/01/23/IJ7RAVC7VVFJZKKSMBCKN46K3E/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/23/IJ7RAVC7VVFJZKKSMBCKN46K3E/</guid>
+      <dc:creator>강지은 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 23 Jan 2025 09:55:57 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YBVMF2ATQBAOXJFJDN3SKZQMCM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2022년 8월 21일 서울 강서구 LG사이언스파크에서 진행된 '저신장아동 성장호르몬제 기증식'에서 구연경 LG복지재단 대표이사(왼쪽)가 어린이에게 기증서를 전달하고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울남부지검 금융·증권범죄합동수사부(부장 공준혁)는 구연경 LG복지재단 대표와 그의 남편 윤관 블루런벤처스(BRV) 대표를 자본시장법 위반 혐의로 23일 불구속 기소했다고 이날 밝혔다. 구 대표는 윤 대표로부터 코스닥 상장사의 유상증자와 관련된 미공개 중요 정보를 제공 받고 이를 이용해 주식을 거래한 혐의를 받는다. &lt;br&gt;&lt;br&gt;앞서 민생경제연구소는 지난 25일 자본시장과금융투자업에관한 법률 위반(미공개 중요 정보 이용 행위 금지), 탈세 등의 혐의로 구 대표와 윤 대표를 서울남부지검에 고발했다. 연구소는 “윤관은 자신이 직접 투자를 결정한 주식회사 ‘메지온’의 유상증자 참여 사실과 주가 상승을 예견해 배우자인 구연경에게 주식을 매수하게 했다”며 “구연경은 미공개 정보를 이용해 사적 이익을 취할 목적으로 주식을 매입했고 동료들에게도 이를 권유했다”고 주장했다.&lt;br&gt;&lt;br&gt;금융위원회 또한 지난 2일 증권선물위원회를 열고 해당 의혹과 관련해 검찰에 통보 조치하기로 결정한 바 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>초등생 4명 빙판 위에서 놀다 얼음 깨져 1명 숨져</title>
+      <link>https://www.chosun.com/national/2025/01/23/BDJ2E6SL5NBSHHMHM3L273VVWY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2025/01/23/BDJ2E6SL5NBSHHMHM3L273VVWY/</guid>
+      <dc:creator>이승규 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 23 Jan 2025 09:37:41 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/54FTUISTLZDHJELX6W5GW5V5XU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;초등학생 4명이 빙판 위에서 놀다가 얼음이 깨져 1명이 숨졌다.&lt;br&gt;&lt;br&gt;23일 대구소방안전본부와 대구 강북경찰서 등에 따르면 이날 오후 3시 49분쯤 대구 북구의 지방 하천인 팔거천 빙판 위에서 초등학교 6학년 A군(12) 등 남학생 4명이 놀던 중 얼음이 깨지면서 물에 빠졌다.&lt;br&gt;&lt;br&gt;지나가던 시민이 물에 빠진 A군 등을 보고 119에 신고했고, 구급대원들이 오후 3시 56분쯤 도착해 남학생 4명을 모두 구조해 병원으로 이송했다. 하지만 구조 당시 심정지 상태였던 A군은 결국 숨졌다. 나머지 3명도 저체온증 증세를 보여 병원에서 치료를 받고 있다.&lt;br&gt;&lt;br&gt;경찰은 A군 등이 빠진 하천 부근의 수심은 최대 1m 80cm인 것으로 추정했다. 경찰은 별다른 범죄 혐의점은 없는 것으로 보고 정확한 사고 경위를 조사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>해경·노동부, ‘20대 잠수부 사망’ 울산조선소 압수수색</title>
+      <link>https://www.chosun.com/national/2025/01/23/S3URLT5DG5DN5MOCYJBTKESOEU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2025/01/23/S3URLT5DG5DN5MOCYJBTKESOEU/</guid>
+      <dc:creator>울산=김주영 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 23 Jan 2025 09:31:46 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QXCP5KWI224GI3FQWL76N7J5QI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;울산해양경찰서 청사. /울산해경&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;울산해양경찰서와 고용노동부가 HD현대미포 울산조선소에서 발생한 20대 잠수부 사망 사고와 관련해 HD현대미포와 하청업체를 압수수색했다.&lt;br&gt;&lt;br&gt;울산해경은 23일 HD현대미포의 안전 관리부서와 대표이사실 등에 남해지방해양경찰청 포렌식 요원을 포함해 수사관 10여명을 투입해 압수수색을 했다고 밝혔다.&lt;br&gt;&lt;br&gt;숨진 잠수부 김모(22)씨가 소속된 부산 소재 하청업체에 대해서도 압수수색을 했다.&lt;br&gt;&lt;br&gt;고용노동부 감독관 10여명도 이번 압수수색에 참여한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;지난달 30일 울산시 동구 HD현대미포 울산조선소 1안벽 인근 바다에서 선박 하부 검사를 위해 투입된 잠수부 김씨가 입수 4시간이 지나 소방본부와 해경이 잠수부에 의해 인양됐지만 숨졌다.&lt;br&gt;&lt;br&gt;해경은 HD현대미포 대표이사와 하청업체 대표, 소속 안전관리자 2명을 업무상과실치사 등 혐의로 조사 중이다. 이들은 지난달 30일 하청업체 소속 잠수부 김모씨의 잠수 작업에 대한 주의 의무를 다하지 않아 김씨가 숨지게 한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;고용노동부도 중대재해처벌법 위반 및 산업안전보건법 위반 여부를 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>청년 유니온 위원장 “정년 연장... 연차 아닌 직무 기반 임금체계 돼야”</title>
+      <link>https://www.chosun.com/national/labor/2025/01/23/JJ5BQGOPRVEZ7A4A7A62R4FCBE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/labor/2025/01/23/JJ5BQGOPRVEZ7A4A7A62R4FCBE/</guid>
+      <dc:creator>곽래건 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 23 Jan 2025 09:02:01 +0000</pubDate>
+      <content:encoded>“오래 일을 했다는 이유로 임금이 오르는 게 맞습니까. 호봉제와 정년이 보장되는 사업장은 한정적입니다. 그 결과 청년들이 절실히 바라는 괜찮은 일자리가 줄어들었습니다.”&lt;br&gt;&lt;br&gt;김설 청년 유니온 위원장은 23일 서울 중구 정동에서 경제사회노동위원회 주최로 열린 ‘정년(停年) 연장 토론회’에서 “연차가 아닌 직무 기반으로 임금 체계를 바꿔야 한다”며 이같이 주장했다. 청년 유니온은 만15~39세라면 누구나 가입 가능한, 청년들이 모인 노동조합이다.&lt;br&gt;&lt;br&gt;김 위원장은 “지금의 노동시장에서 법정 정년을 연장하는 것은 구조적 불평등을 외면하는 것”이라고 했다. 호봉제 위주의 임금 체계를 그대로 두고 무턱대고 정년만 연장하면 대기업·공공기관에 다니는 소수만 혜택을 받는 양극화 현상이 더 심해지고, 청년 일자리도 늘어나기 어렵다는 취지다. 그는 “정부는 실질적으로 개입할 수 있는 공공부문 임금체계부터 바꿔나가야 한다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GEWLM3T4NBHCNLDSNMPST7WV5E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;23일 김설 청년유니온 위원장이 서울 중구 정동1928 아트센터에서 열린 토론회에서 발언하고 있다. /박성원 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;노동계에서는 이날부터 정년 연장에 대한 사회적 논의가 본격 시작됐다고 평가했다. 이날 토론회는 당초 지난달 12일 열릴 예정이었지만, 지난달 3일 계엄 사태가 터진 직후 한국노총이 “현 정부를 대화 상대로 인정할 수 없다”며 보이콧해 취소됐다. 그러다 한국노총이 다시 토론회 참가를 결정해, 이날 열린 것이다. 김문수 고용노동부 장관은 이날 “고령자의 일할 기회를 보장하면서 청년 일자리도 함께 보장돼야 한다”며 정부를 대표해 축사했고, 류기섭 한국노총 사무총장과 이동근 한국경영자총협회 상근부회장이 각각 노사를 대표해 참석했다.&lt;br&gt;&lt;br&gt;논의는 시작됐지만 입장차가 극명하게 드러났다. 노동계는 현재 ‘만 60세 이상’으로 규정돼 있는 법정 정년을 ‘만 65세’로 올려야 한다고 주장했다. 이 과정에서 임금 삭감은 안 된다고 주장했다. 반면 경영계는 “획일적으로 법정 정년을 올리면 기업에 지나친 부담이 되고 청년 고용에도 악영향을 끼치게 된다”며 “선별을 통한 재고용이 필요하다”고 했다. 호봉제 위주의 임금체계 개편도 요구했다. 정부 역시 노동계 방안에 반대 입장을 분명히 밝혔다. 임영미 고용노동부 통합고용정책국장은 “(정년 연장은) 청년 일자리와의 상생, 임금체계 개편 등과 연계돼서 논의돼야 한다”고 했다.&lt;br&gt;&lt;br&gt;법정 정년을 일률적으로 늘리는 것이 오히려 중장년층에게 피해를 줄 수 있다는 지적도 나왔다. 퇴직 중년들에게 재취업·창업 교육 등을 하는 업체인 상상우리의 신철호 대표는 이날 토론회에서 “정년을 법적으로 연장하면 퇴직 중장년을 고용하려는 기업이 부담감을 느껴 오히려 고용을 줄일 수 있다”며 “재취업하는 중장년층이 점차 장기 계약직이나 파트타임으로 고용 형태가 바뀔 수도 있다”고 했다. 의도와 달리 오히려 피해가 생길 수도 있다는 것이다.&lt;br&gt;&lt;br&gt;구체적인 방법에서는 의견이 엇갈리지만, 노사정 모두 정년 연장 논의가 이제 피할 수 없는 과제라는 데는 모두 공감했다. 현재 63세인 국민연금 지급 연령은 2033년 65세까지 올라간다. 정년이 지난 상태에서 수 년간 소득이 끊기는, 이른바 ‘소득 단절(크레바스)’이 생기는 것이다. 이미 정년 연장과 관련해 국회에 계류 중인 법안만 9건에 달한다.&lt;br&gt;&lt;br&gt;우리나라는 지난달 전체 인구에서 65세 이상 노인이 차지하는 비율이 20%를 넘기며 국민 5명 중 1명이 노인인 ‘초고령 사회’에 진입했다. 1964~1974년에 태어난 2차 베이비부머 세대의 은퇴가 본격 시작됐고 앞으로 11년간 총 954만명이나 은퇴한다.&lt;br&gt;&lt;br&gt;이날 토론회에서 발제를 맡은 김성희 고려대 노동대학원 교수는 “(이 문제를 그대로 두면) 우리나라는 노후 소득 공백이 발생하는 유일한 국가가 된다”며 “이런 제도적 사각을 허용하는 것은 국가가 사회적 책임을 방기하는 것”이라고 했다. 권기섭 경사노위 위원장은 “올해 1분기까지 결론을 끌어내는 것이 목표”라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘디스플레이 OLED기술 중국에 유출’ 前 삼성 연구원, 2심서 징역 4년 </title>
+      <link>https://www.chosun.com/national/court_law/2025/01/23/LBGMLB2RVREJJMBA564RGXH2EA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/01/23/LBGMLB2RVREJJMBA564RGXH2EA/</guid>
+      <dc:creator>수원=김수언 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 23 Jan 2025 08:55:53 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SNUTBGK6CGQHSBDFZQU2UA7PGA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기도 수원시 영통구에 위치한 수원법원종합청사. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최소 3400억원 이상의 가치를 가진 삼성디스플레이의 OLED(유기발광다이오드) 제조 관련 기술을 중국에 유출한 혐의로 1심에서 징역 6년을 선고받은 전 삼성 연구원이 2심에서 감형됐다. 실제 기술이 유출됐거나, 사용됐는지 여부를 구체적으로 확인할 수 없다는 이유에서다.&lt;br&gt;&lt;br&gt;수원지법 형사항소7부(재판장 김병수)는 23일 부정경쟁방지법 위반(영업비밀 국외 누설 등) 혐의로 기소된 A씨의 항소심 선고공판에서 원심을 파기하고 징역 4년을 선고했다. 지난해 7월 1심 재판부는 “피고인은 피해 회사가 오랜 기간 많은 비용과 노력을 들여 축적한 기술을 부정 사용해 비난 가능성이 크고, 국가의 첨단 기술을 보호하기 위해선 엄한 처벌이 필요가 있다”며 징역 6년을 선고했었다.&lt;br&gt;&lt;br&gt;A씨는 지난 2018∼2020년 5월 중국 업체에 판매·제공하기 위해 삼성 영업비밀인 ‘OLED 디스플레이 ELA(Excimer Laser Annealing) 설비 반전광학계’ 및 ‘OCR 잉크젯 설비’ 관련 기술을 부정 취득·사용한 혐의를 받는다.&lt;br&gt;&lt;br&gt;ELA 설비 반전광학계는 OLED 전자회로에 쏘는 레이저의 강도·안정성을 유지시키는 장치이고, OCR 잉크젯 설비는 OLED 패널과 화면 맨 바깥쪽 덮개 유리를 접착하는 설비이다. 이들 기술은 최소 3400억원 이상의 가치를 가진 영업비밀에 해당하는 것으로 파악됐다.&lt;br&gt;&lt;br&gt;A씨는 삼성디스플레이에서 10년 이상 근무한 OLED 디스플레이 분야 전문가로, 퇴직 후 국내에 디스플레이 업체를 설립해 운영하면서 관련 기술을 본인이 중국에 설립한 업체와 중국 디스플레이 업체에 판매·제공하려 한 것으로 조사됐다. 그는 이 과정에서 삼성 재직 당시 후배 연구원 등을 끌어들여 영업비밀을 자신의 국내 업체로 빼돌려 삼성의 기술을 모방한 것으로 드러났다. A씨와 공모한 일당 5명은 2020년 8월 기소됐고, 이 가운데 전 삼성디스플레이 연구원 등 3명은 징역 1~2년을, 친구 등 2명은 징역형의 집행유예 판결을 각각 확정받았다.&lt;br&gt;&lt;br&gt;이날 재판부는 A씨의 형을 감형하면서 “영업비밀이 중국 회사에 유출됐거나 사용됐는지 여부도 구체적으로 확인되지 않는다”며 “다른 공범의 형량과 비교했을 때 형이 무거워 형평성에 맞는다고 보기 어렵다”고 판시했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>공수처, 검찰에 尹 사건 기록 3만쪽 송부</title>
+      <link>https://www.chosun.com/national/court_law/2025/01/23/5J2INNUDZRHKLHNUSN5OB7MOD4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/01/23/5J2INNUDZRHKLHNUSN5OB7MOD4/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 23 Jan 2025 08:55:30 +0000</pubDate>
+      <content:encoded>윤석열 대통령의 내란 우두머리‧직권남용권리행사방해 혐의를 수사해온 고위공직자범죄수사처(공수처)는 23일 오전 11시 이재승 차장 주재로 브리핑을 열고 “금일 현직 대통령인 피의자 윤석열에 대해 서울중앙지검에 공소제기요구를 결정했다”고 밝혔다.&lt;br&gt;&lt;br&gt;공수처는 이날 오전 10시 37분 형사사법정보시스템(KICS)을 이용해 사건 기록을 검찰에 보냈고, 10시 55분엔 실물 기록을 송부했다고 한다. 그러나 공수처가 윤 대통령을 체포한 뒤 한 차례밖에 조사하지 못한 점 등을 고려할 때 사실상 ‘빈손 수사에 그쳤다’는 말이 법조계에서 나왔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BEULD4G2D4OQQDGM34YVAPXSRQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이재승 고위공직자범죄수사처(공수처) 차장이 23일 경기 과천 공수처에서 윤석열 대통령 수사 관련 브리핑을 하고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 브리핑에 참석한 차정현 수사4부장은 ‘윤 대통령 조사를 위해 준비한 질문지는 몇 쪽인지’ 묻는 취재진 질문에 “230여 쪽”이라며 “1회 조사만으로는 (다 묻기) 어려운 분량이긴 했다”고 답했다. 공수처 관계자는 그간 해당 질문지를 “상당 분량 물어봤다”면서도 윤 대통령에게 모두 묻지 못했다고 했었다. 공수처가 결국 윤 대통령을 체포‧구속한 8일 동안 사전에 준비한 조사 계획조차 100% 이행하지 못한 셈이다.&lt;br&gt;&lt;br&gt;이재승 차장은 브리핑에서 “강제 구인 및 조사 거부 상태가 사흘이나 지속됐다”며 “교도관들에게 대법원 결정에 따라 강제 구인할 수 있고, 교도관이 이를 수행해야 한다고 요청했지만, 교정본부 측은 강제 구인의 법적 근거가 명확하지 않다는 공문을 보내면서 협조에 난색을 표했다”고 설명했다. 그러면서 “대치 상황을 길게 가져가는 대신 조속히 사건을 넘겨서 검찰이 수사를 하게 하는 것이 진상 규명에 도움이 된다고 생각했다”고 말했다.&lt;br&gt;&lt;br&gt;이 차장은 그러면서 “검경으로부터 이첩받은 수사 자료 외에도 공수처가 직접 수사한 증거 등을 검찰에 보낸 수사기록에 포함시켰다”고 말했다. 공수처는 이날 서울중앙지검에 69권 3만여 쪽 분량의 기록을 보냈다고 밝혔다. 이 중 26권(1만여 쪽)은 공수처가 직접 수사한 것을 정리한 기록이라는 것이다.&lt;br&gt;&lt;br&gt;이 차장은 “윤 대통령이 비상계엄 당시 얼마만큼의 병력 투입을 원했는지, 비상계엄 이후 또 다른 계엄을 언급했는지 등에 대한 여러 군 관계자의 진술을 확보했다”며 “김용현 전 장관과 노상원 전 정보사령관이 비상계엄 전 만나 계엄을 모의한 내용 등에 대한 증거도 다수 확보했다”고 밝혔다. 또 ‘윤 대통령이 비상입법기구 구성을 지시했는지, 비상계엄 포고령 1호를 직접 검토했는지, 국회의원 등 주요 인사를 체포하라고 지시했는지 여부를 어떻게 판단했느냐’는 질문에 “그렇다”는 취지로도 답했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YIN45XEGHNICFPG2UENUCKOUOQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령이 지난해 12월 3일 밤 비상계엄을 선포한 가운데 4일 새벽 서울 국회의사당에서 계엄군이 국회 본청으로 진입하는 모습/연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;법조계에선 “결국 공수처가 빈손으로 사건을 떠넘긴 것”이라는 비판이 나왔다. 법조계 한 관계자는 “공수처는 26권의 기록을 직접 생산했다고 주장하지만, 윤 대통령의 피의자 신문 조서조차 완성하지 못한 셈 아니냐”며 “사건을 맡게 된 검찰 특별수사본부의 부담이 클 것”이라고 했다. 사건을 넘겨받은 검찰 특별수사본부(본부장 박세현 서울고검장)는 오는 27일부터인 설 연휴를 반납하고 기록 검토에 착수한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;이 차장은 ‘예상보다 이르게 사건을 송부하기로 결정한 이유가 무엇이냐’는 질문에 “강제 구인이라는 것이 팔짱을 끼고 물리력을 행사하는 방식이 아니다”라며 “윤 대통령에게 공수처에 와서 조사 받기를 원칙적으로 요구했지만 조사 거부가 사흘간 지속됐다”고 했다. 또 “사건을 검찰에서 이첩받을 당시, 서류 정리 등에 시간이 필요한 점을 고려해 열흘보다 일찍 보내주기로 합의했었다”고 밝혔다. 당초 공수처는 윤 대통령의 1차 구속기간(10일)이 오는 28일 만료된다는 입장이었는데, 이보다 5일 빠른 이날 검찰로 사건을 송부했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5NSP2GXFKA77CHBB6RQY2D4FBI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 서울중앙지방검찰청에 검찰 깃발이 펄럭이고 있다./뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>이재명 선거법 2심 “내달 26일 심리종결”…이르면 3월말 선고</title>
+      <link>https://www.chosun.com/national/court_law/2025/01/23/6C7NZ3ZJMRDAND66XSV55SXASM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/01/23/6C7NZ3ZJMRDAND66XSV55SXASM/</guid>
+      <dc:creator>박강현 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 23 Jan 2025 08:48:03 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZEHJKHFFYJ62ZDJ6JJG3ULVUTA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이재명 더불어민주당 대표가 23일 오후 서울 서초구 서초중앙로 서울고등법원에서 열린 공직선거법 위반 항소심 첫 공판에 출석한 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;공직선거법 위반 혐의로 기소돼 1심에서 의원직 상실형을 선고받은 이재명 더불어민주당 대표의 항소심 결심(結審) 공판이 이르면 내달 26일 열릴 예정이다.&lt;br&gt;&lt;br&gt;23일 서울고법 형사6-2부(재판장 최은정)는 이 대표의 선거법 위반 사건 2심 첫 공판 기일을 진행했다.&lt;br&gt;&lt;br&gt;양측의 항소 이유, 증인 신청 등에 대한 의견을 들은 재판부는 “증인 신문을 2월 19일까지 끝내고, 특별한 사정이 없으면 26일에 결심 공판을 하겠다”고 밝혔다. &lt;br&gt;&lt;br&gt;선고 공판이 검찰 구형과 피고인 등의 최종 변론이 이뤄지는 결심 공판 이후 보통 약 한 달 뒤 열리는 점을 감안하면 항소심 선고는 3월 말에 나올 수 있는 것이다.&lt;br&gt;&lt;br&gt;그동안 이 대표 선거법 항소심 재판의 관건은 ‘선고가 언제 나올지’였다. 이 사건을 심리하는 형사6-2부도 집중 심리를 위해 오는 3월 12일까지 새 사건 배당을 하지 않기로 요청했고, 서울고법은 이를 받아들였다.&lt;br&gt;&lt;br&gt;선거법은 ‘1심은 기소 후 6개월 내, 2·3심은 전심 선고 후 3개월 내 선고해야 한다’고 규정한다. 앞서 이 사건 1심은 기소 후 2년 2개월 뒤인 작년 11월 15일 1심 선고(징역 1년에 집행유예 2년)가 나왔다. &lt;br&gt;&lt;br&gt;법에 따르면 이론적으로 2심은 다음 달 15일까지는 선고해야 하는 것이다.&lt;br&gt;&lt;br&gt;재판부도 이날 이런 점을 의식한 듯 ‘소송 지연’에 대해 여러 차례 언급하기도 했다. 이 대표 측은 이날 증인을 13명 신청한 것으로 나타났는데, 재판부는 이에 대해 “소송 지연 우려가 없어야 한다”며 “채택을 다 할 수 있을지는 확실하게 말할 수 없다”고 했다. &lt;br&gt;&lt;br&gt;또 이 대표 측은 위헌법률심판 제청 신청도 고민하고 있다고 했지만, 재판부는 변호인 측에 “조속히 의견을 명확히 밝혀달라”고 요청했다. &lt;br&gt;&lt;br&gt;앞서 이 대표는 지난 대선 기간, 성남시장 시절 대장동 개발 실무자인 고(故) 김문기 성남도시개발공사 처장을 알았으면서 몰랐다고 말하고 당시 경기지사로 국정감사에 출석해 “국토교통부 협박으로 백현동 개발 부지 용도를 4단계 상향 조정했다”고 거짓말을 했다는 혐의 등으로 2022년 9월 기소됐고, 1심은 대부분 혐의를 유죄로 인정하며 징역 1년에 집행유예 2년을 선고했다. 다만 “김문기씨를 몰랐다”는 말은 공표 행위에 해당되지 않는다고 ‘무죄’로 판단했다.&lt;br&gt;&lt;br&gt;이 형이 그대로 확정되면 이 대표는 10년간 피선거권이 박탈돼 차기 대선에도 출마할 수 없다. 지난 대선에서 민주당이 중앙선거관리위원회로부터 선거 비용으로 보전받은 434억여 원도 반환해야 된다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>포항·경주·울산, ‘해오름동맹 추진단’ 발족…공동사업 추진</title>
+      <link>https://www.chosun.com/national/regional/2025/01/23/RFXN3NLXGBCYDLQJ2GQEHJ5BDM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/01/23/RFXN3NLXGBCYDLQJ2GQEHJ5BDM/</guid>
+      <dc:creator>경주=노인호 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 23 Jan 2025 09:13:47 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZKOAB46Q4FJU3H4UWHCD3XQALM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;23일 경북 경주스마트미디어센터에서 울산시와 경북 포항시·경주시 관계자가 상설협력기구인 해오름동맹광역추진단 출범식을 하고 있다./연합뉴스
+&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경북 포항·경주시, 울산시가 구성한 협의체인 ‘해오름동맹’의 상설 협력기구가 23일 출범했다. 해오름동맹은 2016년 출범했으며, 이후 3개 자자체는 경제산업·문화관광 등 다양한 분야에서 공동 협력사업을 추진해오고 있다.&lt;br&gt;&lt;br&gt;이들 3개 지자체는 이날 경주스마트미디어센터 내 사무실에서 해오름동맹광역추진단 출범식을 갖고, 본격적인 운영에 들어갔다.&lt;br&gt;&lt;br&gt;지난 2023년 해오름동맹 상설협력기구 설치 필요성에 대해 합의한 이후 준비기간을 거쳐 4급 단장 1명을 포함해 각 지역별 3명씩 총 10명의 직원들로 해오름동맹광역추진단을 구성해 이날 출범했다. 사무실은 세 도시의 중간 지점인 경주 스마트미디어센터에 자리잡았다.&lt;br&gt;&lt;br&gt;3개 지자체 단체장은 이날 출범식에서 철강 및 이차전지산업 위기 극복을 위한 포항시 산업 위기 대응 특별지역 지정, 석유화학산업 경쟁력 제고를 위한 울산시 산업위기 선제 대응 지역 지정, 2025년 아시아태평양경제협력체(APEC) 정상회의 개최 지원 등을 정부와 국회에 건의하기로 뜻을 모았다.&lt;br&gt;&lt;br&gt;또 ‘해오름산업벨트 지원에 관한 특별법’의 조속한 입법 추진에도 힘을 모으기로 했다. 이 법안은 지역소멸과 산업 위기 극복을 위한 광역교통망 구축, 에너지산업 지원, 개발제한구역 해제, 산업단지 지정·개발에 관한 특례 등을 담고 있다.&lt;br&gt;&lt;br&gt;이강덕 포항시장은 “해오름동맹은 산업과 경제를 아우르는 자치단체 간 경제동맹의 모범사례가 될 것”이라며 “세 도시의 협력이 단기적 성과에 그치지 않도록 역량을 집중해 지속가능한 발전을 이뤄낼 것”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘호송하면서 입맞춤’…여성 피의자 추행한 경찰관 구속기소</title>
+      <link>https://www.chosun.com/national/incident/2025/01/23/I7J2AMW2L5BJTG5I3YNAOG5NAM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/01/23/I7J2AMW2L5BJTG5I3YNAOG5NAM/</guid>
+      <dc:creator>전주=김정엽 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 23 Jan 2025 08:26:14 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VTZBE5FTU3H5FUCCJUSZZZXU5Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전주지검 청사. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;구속 수사를 받던 여성 피의자를 호송하는 과정에서 이 여성을 성추행한 현직 남성 경찰관이 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;전주지검 형사2부(부장 윤동환)는 23일 강제추행 및 독직가혹행위 혐의로 전북 전주완산경찰서 소속 A경위를 구속 기소했다.&lt;br&gt;&lt;br&gt;A경위는 지난해 11월 8일 여성 피의자 B씨를 검찰 구치감으로 호송하면서 신체 일부를 만지고 입을 맞추는 등 강제로 추행한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;조사 결과 A경위는 함께 피의자 호송에 나선 여성 경찰관이 자리를 이탈한 사이에 이러한 범행을 저지른 것으로 드러났다.&lt;br&gt;&lt;br&gt;B씨는 자신이 성추행당한 사실을 검찰에게 알렸고, 검찰은 곧바로 수사에 착수했다. 당시 B씨가 입었던 옷과 몸에서는 A경위의 유전자(DNA)가 다량 검출된 것으로 알려졌다. 하지만 A경위는 범행을 부인하는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;검찰 관계자는 “인권을 수호해야 할 책무를 지닌 경찰 공무원이 사건 피의자를 범행 대상으로 삼았다”며 “피고인이 저지른 죄에 상응하는 처벌이 내려질 수 있도록 공소 유지에 최선을 다하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>필수 예방접종 거르고 아기에 물 탄 우유 먹인 20대 부부에 ‘집행유예’</title>
+      <link>https://www.chosun.com/national/regional/2025/01/23/VFCCVHLNGJDJXNLFVGPNLTRPFE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/01/23/VFCCVHLNGJDJXNLFVGPNLTRPFE/</guid>
+      <dc:creator>대전=우정식 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 23 Jan 2025 08:20:59 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NEB72YMFAVHRJKGS7DXJM5DJ5A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원 로고. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;필수 예방백신을 접종하지 않고 분유 대신 물을 탄 우유를 먹이는 등 신생아를 제대로 양육하지 않고 방임한 혐의로 기소된 20대 부부에게 법원이 징역형의 집행유예를 선고했다. 법원은 부부의 양육 태도를 추적 관리할 필요가 있다고 판단해 검찰이 구형한 벌금형보다 높은 형을 선고했다.&lt;br&gt;&lt;br&gt;대전지법 형사8단독 이미나 부장판사는 아동복지법 위반(아동유기·방임) 혐의로 기소된 20대 부부에게 징역 4개월에 집행유예 2년을 선고했다. 이와 함께 40시간의 아동범죄 재발 예방 강의 수강도 명령했다.&lt;br&gt;&lt;br&gt;양육 교육을 제대로 받지 못한 이 부부는 2021년 7월 대전의 한 모텔에서 아이를 출산한 뒤 아이가 17개월이 될 때까지 필수 예방백신을 20차례 접종하지 않았다. 이들은 분유 대신 우유와 물을 섞어 아이에게 먹이기도 했다.&lt;br&gt;&lt;br&gt;영양부족 상태에 놓인 아이는 생후 17개월이 될 때까지 제대로 걷지도 못했다고 재판부는 지적했다.&lt;br&gt;&lt;br&gt;검찰은 이 부부에게 벌금 1000만원을 각각 구형했다. 이에 대해 변호인 측은 “생활고를 겪고 있는 부부의 경제 사정을 고려하면 너무 과한 벌금액”이라고 주장했다.&lt;br&gt;&lt;br&gt;이 부장판사는 “무책임하고 무지한 양육 방법으로 아이의 영양상태가 심각하게 나빠졌다. 건강을 저해한 죄책이 무겁다”면서 “검찰이 벌금 1000만원을 구형했지만, 벌금 선고보다는 피고인을 관리하는 게 낫다고 판단했다”고 양형 이유를 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>[속보]  尹 “특전사, 국회 어디 있었나” 김용현 직접 신문</title>
       <link>https://www.chosun.com/national/national_general/2025/01/23/5KQ2WHNVEBGHDHWZFGSAXISJUU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/23/5KQ2WHNVEBGHDHWZFGSAXISJUU/</guid>
@@ -765,60 +865,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LAAFVIR4D5EW5DESP27MF2WFOA.png"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=박상훈&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Q. 국내 전기차와 배터리 산업이 ‘캐즘’에 빠졌다는 뉴스를 봤어요. 불황이 길어질 수도 있다는 말도 나옵니다. 캐즘은 무엇이고, 왜 이런 현상이 생기는 건가요?&lt;/b&gt;&lt;br&gt;&lt;br&gt;A. 요즘 우리나라 전기차와 배터리 산업을 우려하는 목소리가 커지고 있습니다. 글로벌 시장에서 전기차 판매가 줄어들면서 전기차에 들어가는 핵심 부품인 배터리 수요도 덩달아 감소할 거라는 전망이 나오기 때문이죠.&lt;br&gt;&lt;br&gt;캐즘(chasm)은 첨단 기술이 도입되는 과정의 과도기를 뜻해요. 첨단 기술이 적용된 신제품이 나오더라도, 이 제품이 많은 사람이 널리 사용하는 ‘주류 시장’으로 넘어가기 위해선 시간이 필요하거든요. 캐즘은 한 제품이 대중화되기 전까지 일시적으로 수요가 정체하거나 오히려 줄어드는 현상을 말해요. 원래 캐즘은 지각 변동으로 지층 사이에 생긴 깊은 틈을 뜻하는 지질학 용어인데, 지금은 경영학과 마케팅 분야에서도 쓰이고 있어요.&lt;br&gt;&lt;br&gt;캐즘은 왜 생기는 걸까요? 바로 얼리어답터(early adopter)와 일반 대중의 소비 성향이 다르기 때문입니다. 얼리어답터는 새 제품을 남들보다 앞서 경험하려고 하는 소비자들이에요. 그래서 기술 완성도가 떨어지고 가격이 좀 비싸도 기꺼이 새로운 제품을 구매하죠. 반면 대다수 소비자는 제품이 실용적인지, 품질이 믿을 만한지, 가격은 적당한지 꼼꼼히 따져보고 사요. 그러니 얼리어답터들의 지갑을 여는 데는 성공하더라도, 대중적으로 많이 팔리진 않는 거예요.&lt;br&gt;&lt;br&gt;전기차를 예로 들어볼게요. 최근 전기차 판매가 늘어나곤 있지만, 아직 내연기관차 자리를 위협할 만큼 주류로 올라서지는 못했죠. 전기차는 배터리를 한 번 충전했을 때 갈 수 있는 주행거리가 길지 않아요. 그런데 충전소는 아직 부족한 편이죠. 게다가 화재가 났을 때 내연기관차보다 위험하다는 인식도 퍼져 있어요. 그러니 아직 많은 소비자가 전기차 구매를 주저하고 있죠.&lt;br&gt;&lt;br&gt;첨단 기술이 캐즘을 뛰어넘으려면 가격·품질·안전성 등 제품 자체 경쟁력은 물론 제품을 편리하게 사용할 수 있는 인프라까지 마련돼야 해요. 아무리 혁신적인 제품이더라도 대중의 눈높이를 맞추지 못하면 점차 시장에서 사라지는 운명을 맞아요. 개인용 이동 수단으로 한때 주목받았던 ‘세그웨이’나 안경 형태 스마트 기기인 ‘구글 글라스’처럼 말이죠.&lt;br&gt;&lt;br&gt;현재 널리 쓰이는 기술과 제품도 한때 캐즘을 경험했어요. 대표적인 사례가 스마트폰인데요. 컴퓨터와 전화기를 결합한 모바일 기기를 만들려는 시도는 1990년대부터 있었어요. 하지만 비싼 가격, 작은 배터리 용량, 복잡한 사용 방법 탓에 한동안 외면 받았죠. 스마트폰 대중화 시대는 2007년 애플이 ‘아이폰’을 내놓으며 비로소 열렸어요. 캐즘 단계에 있는 전기차의 운명이 어떻게 될지는 조금 더 지켜봐야겠어요.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[스피킹이 강해지는 영어] feel the need to ~</title>
-      <link>https://www.chosun.com/national/nie/english/2025/01/23/HBAJSWPPFZB5PB2VX7NXTZA7WU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/english/2025/01/23/HBAJSWPPFZB5PB2VX7NXTZA7WU/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 22 Jan 2025 15:33:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UAU62RKS5ZCANHR6DXURA7H4S4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[매일매일 중국어 한마디] 설날 분위기</title>
-      <link>https://www.chosun.com/national/nie/chinese/2025/01/23/C7G2MT6DTBBMXGRRIM5Q5UDYCE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese/2025/01/23/C7G2MT6DTBBMXGRRIM5Q5UDYCE/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 22 Jan 2025 15:33:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QSC6W5UZSBDH3BPPLARYOCNCOM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[입에 착착 붙는 일본어] 첫발을 내딛다</title>
-      <link>https://www.chosun.com/national/nie/japanese/2025/01/23/VN2YLCWG4RBC3PTVB227QFCG4Q/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/japanese/2025/01/23/VN2YLCWG4RBC3PTVB227QFCG4Q/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 22 Jan 2025 15:33:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SH5V5VF45VC7THBXD3N52AIFTU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문으로 배우는 실용한자] 애창곡(愛唱曲)</title>
-      <link>https://www.chosun.com/national/nie/chinese_character/2025/01/23/5AVM4GHAW5BOVBI6PJLN2CAXEE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese_character/2025/01/23/5AVM4GHAW5BOVBI6PJLN2CAXEE/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 22 Jan 2025 15:33:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HYIVWL7IN5BLDLJXM37SNB2XBI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[두근두근 뇌 운동] [2549] 날씨 따라 삼천리</title>
-      <link>https://www.chosun.com/national/nie/2025/01/23/RLK5LEJXKRAJFITWU6X6EQTBC4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2025/01/23/RLK5LEJXKRAJFITWU6X6EQTBC4/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 22 Jan 2025 15:33:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7RW5MQUHYNHC7PNQRKET2CLRAQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘노란 샤쓰의 사나이’ 가수 한명숙 별세</title>
-      <link>https://www.chosun.com/national/national_general/2025/01/22/G3KGQJ6JABFMPJ3CTOKW3JS3FY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/22/G3KGQJ6JABFMPJ3CTOKW3JS3FY/</guid>
-      <dc:creator>김명진 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 22 Jan 2025 11:31:43 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DRZMP4LUHZN67GXF2R5YCW6MWU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2013년 '청춘, 그 아름다웠던 날들' 신곡발표회에서 '바람이어라'를 부르는 가수 한명숙. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;노래 ‘노란 샤쓰의 사나이’로 큰 인기를 얻었던 원로가수 한명숙(90)씨가 22일 별세했다.&lt;br&gt;&lt;br&gt;1935년 평남 진남포에서 태어난 한씨는 17세이던 52년 ‘태양악극단’ 단원으로 연예계에 데뷔했다. 6·25 전쟁 때는 군예대(軍藝隊)의 일원으로 위문공연도 다녔다. &lt;br&gt;&lt;br&gt;가수 최희준의 소개로 작곡가 손석우씨를 만난 뒤 1961년 ‘노란 샤쓰의 사나이’로 공식 데뷔했다. 노래가 큰 인기를 끌자 1962년 ‘노란 샤쓰 입은 사나이’라는 영화가 제작되기도 했다. 고인은 이 영화에서 주인공을 연기했다. 이 곡은 2018년 평창 동계올림픽에서 한국 선수단 입장곡으로 쓰이기도 했다. &lt;br&gt;&lt;br&gt;한씨는 이후에도 ‘센티멘털 기타’ ‘눈이 나리는데’ 등을 연달아 히트시키며 1970년대 말까지 활발히 활동했다. 고인이 생전 발표한 노래는 300여곡에 이른다.&lt;br&gt;&lt;br&gt;한씨는 1956년 트럼페터 이인성씨와 결혼했으나 이씨가 41세로 숨진 뒤 2남 1녀를 혼자 키워왔다. 그 뒤 경기 수원의 두 칸짜리 월세방에서 어렵게 살고 있다는 사실이 알려지기도 했다.&lt;br&gt;&lt;br&gt;2010년에는 50년간 대중가요 발전에 기여한 공로로 문화체육관광부로부터 감사패를 받았다. 2012년엔 제12회 대한민국 전통가요대상 원로가수상을 수상했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>1인가구 많은 서울, 車 등록대수 전국 유일 감소</title>
       <link>https://www.chosun.com/national/transport-environment/2025/01/22/IIW3UWNIPFGP7DJSIBHBY52QL4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/01/22/IIW3UWNIPFGP7DJSIBHBY52QL4/</guid>
@@ -904,19 +950,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6HR4K5BC4VAYPKC62XIZHG63EM.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;유정복 인천시장이 21일(현지시각) 미국 워싱턴DC 해리티지 재단을 방문해 스티브 예이츠 아시아연구센터 선임연구원, 브루스 클링너 선임연구원 등과 양국 협력방안 등에 대해 논의하고 있다. /인천시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;미국 출장길에 나선 유정복 인천시장이 21일(현지시각) 워싱턴DC에서 미국의 대표적 싱크탱크로 손꼽히는 헤리티지 재단과 전략국제문제연구소(CSIS) 등을 찾아 한미동맹 강화와 경제협력 방안을 논의했다.&lt;br&gt;&lt;br&gt;유 시장은 이날 헤리티지 재단 스티브 예이츠 아시아연구센터 선임연구원과 브루스 클링너 선임연구원 등을 만나 한반도 현안 등에 대한 의견을 나눴다.&lt;br&gt;&lt;br&gt;유 시장은 “2기 트럼프 정부 정책 전환기를 맞아 한미 관계의 굳건한 동맹을 유지하고, 새로운 차원에서의 발전적인 방향을 모색해 나가는 게 중요하다”며 “한국의 17개 시도를 대표하는 대한민국시도지사협의회 회장이자 제2의 경제도시 인천을 이끄는 시장으로서 긴밀한 한미관계 구축을 위해 최선을 다하겠다”고 했다.&lt;br&gt;&lt;br&gt;예이츠 선임연구원은 “도널드 트럼프 2기 행정부의 자국 우선주의를 걱정하는 외부 시선이 많지만, 미국 우선주의가 고립주의나 동맹을 버리는 쪽으로 가는 것은 아니다”라며 “미국 우선주의는 위기 상황 속에서 자국을 챙겨야 파트너들에게도 더 좋은 동맹국이 될 수 있다는 의미로 이해하면 된다”고 했다. 이어 “중국산 제품의 의존도를 낮출 수 있는 한국의 기술 관련 공급망과 국방 제조 역량 등은 한미동맹이 더 발전할 기회가 될 것”이라고 했다.&lt;br&gt;&lt;br&gt;이후 국제전략문제연구소(CSIS)에선 엘렌 김 한국석좌 선임연구원과 시드니 사일러 한국석좌 선임고문과 만나 한국의 외교·안보 현안에 대한 대화를 나눴다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AGYQBUQVNND77LQM6XN6AWPFAU.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;유정복 인천시장이 21일(현지시각) 미국 워싱턴DC에서 앤디 김 미국 상원의원과 면담을 마친 뒤 제75주년 인천상륙작전 기념행사 초청장을 전달하고 있다./인천시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;유 시장은 이날 한국계 첫 연방 상원의원인 앤디 김 의원과 하원 외교위원회 산하 동아시아·태평양소위 위원장을 맡은 한국계 3선인 영 김 의원을 만나, 오는 9월 인천에서 열릴 예정인 제75주년 인천상륙작전 기념행사 초청장을 전달하고, 관심과 성원을 부탁하기도 했다.&lt;br&gt;&lt;br&gt;특히 인천 출신인 영 김 의원에겐 ‘2024 올해의 인천인 대상’을 수여하고 한미동맹 관계 증진을 위해 지속해서 기여해 줄 것을 당부했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XOAECXO4M5HG7GCZTGMIVHSHNE.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;유정복 인천시장이 21일(현지시각) 미국 워싱턴DC에서 영 김 미국 하원의원에게 2024 올해의 인천인 대상을 수여하고 있다./인천시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;로버트 레트니 델타항공 국제 정부관계 부사장과의 접견에선 “올해 6월 인천-유타주 직항 노선 개설에 이어 인천공항을 중심으로 더 많은 도시로의 직항 노선 개설을 희망한다”며 “인천 영종의 항공복합단지 조성에도 델타항공의 많은 관심과 참여를 바란다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>약국·병원 ‘빨간 십자’ 내걸었다간 벌금 1억 물수도</title>
-      <link>https://www.chosun.com/national/welfare-medical/2025/01/22/AHDMM7CKDFEXFKJQHIJVR7YEGU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/01/22/AHDMM7CKDFEXFKJQHIJVR7YEGU/</guid>
-      <dc:creator>안준용 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 22 Jan 2025 07:55:04 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/M6OCNGWHNFDKHP7LRBDEQDIQRI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;적십자 표장 오·남용 사례. /대한적십자사&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이르면 4월부터 약국·병원 등에서 빨간 십자(+·레드 크로스) 모양의 ‘적십자 표장’을 무단으로 사용할 경우, 최대 7년 이하 징역이나 1억원 이하 벌금에 처해질 수 있다. 전시 부상자 구호의 상징인 적십자 표장이 상표법 보호 대상이 되는 데 따른 것이다.&lt;br&gt;&lt;br&gt;22일 대한적십자사에 따르면, 적십자사는 최근 특허청으로부터 적십자 표장의 상표등록출원과 관련해 ‘출원공고 결정서’를 받았다. 출원공고란 특허 당국이 심사한 결과, 상표 등록을 거절할 사유가 없는 것으로 판단해 일반에 공고하는 절차를 뜻한다. 공고일인 지난 6일부터 두 달간 특별한 이의 신청이 없으면 상표 등록이 결정된다.&lt;br&gt;&lt;br&gt;적십자 표장이 상표로 등록되면 상표법에 따라 무단 사용자는 상표침해죄로 최고 7년 이하 징역 또는 1억원 이하 벌금에 처해질 수 있다. 현행 적십자사 조직법상으로는 1000만원 이하 벌금 또는 500만원 이하 과태료가 부과되지만, 상표 등록 완료 후 처벌이 대폭 강화되는 것이다.&lt;br&gt;&lt;br&gt;약국·병원 등의 적십자 표장 무단 사용은 그간 지속적으로 문제가 돼왔다. 적십자 표장은 1864년 제네바 협약 체결 당시 국제 적십자 운동의 창시자 앙리 뒤낭의 조국인 스위스에 경의를 표하는 의미로 스위스 국기 문양의 색상을 반전한 디자인으로 채택됐다. 무력충돌이나 재난 때 부상자와 의료 종사자 등을 보호하기 위한 표식인 만큼 적십자의 인도주의 활동을 표시하는 수단으로만 쓰도록 국제법에도 규정돼 있다. 의료 구호 목적 외 상업적 사용은 엄격히 금지돼 있는 것이다.&lt;br&gt;&lt;br&gt;하지만 ‘직관적이고 눈에 띈다’는 이유 등으로 일부 약국과 병·의원은 간판 등에 녹색 대신 빨간 십자를 내걸었다. 의약품·의료기기 등에 적십자 표장을 사용하는 업체도 적지 않았다. 처벌 수위가 약하고, 실제 처벌로 이어진 경우도 거의 없어 무단 사용이 이어져 온 것이다. 이에 적십자사는 2023년 표장 보호를 위해 약국·병원, 의약품, 의료기기 등 3개 상품군에 상표 등록을 출원했다.&lt;br&gt;&lt;br&gt;적십자사는 다만 향후 상표 등록 완료 후에도 일단 법적 대응보다는 계도에 집중한다는 계획이다. 작년에도 국제적십자위원회(ICRC)와 함께 ‘적십자 표장 보호 캠페인’을 전개한 바 있다. 적십자사는 “상표 등록을 완료한다고 해서 당장 상표법 위반으로 사업자를 고소하는 등 법적 대응할 계획은 없고, 캠페인 등 계도를 강화할 계획”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/NRMHXLC2BBAXHIZWXDCZD3OEGE.jpg?width=354&amp;height=266&amp;auth=6a62b7828cc7708c09672119c802922f130a1608fe8952b55ff96bb7c208f3c0&amp;smart=true" type="image/jpeg" height="266" width="354">
-        <media:description type="plain">적십자 표장 오·남용 사례. /대한적십자사</media:description>
-        <media:credit role="author" scheme="urn:ebu"/>
-      </media:content>
-    </item>
-    <item>
       <title>‘제국의 위안부’ 박유하 교수, 손배소 2심 승소…“표현의 자유 인정해야”</title>
       <link>https://www.chosun.com/national/court_law/2025/01/22/2TM6HZUP6VA4ZHWAN4WFSNRYLQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/01/22/2TM6HZUP6VA4ZHWAN4WFSNRYLQ/</guid>
@@ -924,42 +957,6 @@
       <description/>
       <pubDate>Wed, 22 Jan 2025 07:35:05 +0000</pubDate>
       <content:encoded>자신의 저서에 일본군 위안부를 ‘자발적 매춘부’ 등으로 표현한 박유하(68) 세종대 명예 교수가 위안부 피해자들에게 배상할 책임이 없다는 항소심 판단이 나왔다. 학문 저술은 법원이 아닌 학계·사회가 평가할 영역이며, 학자의 표현의 자유​는 폭 넓게 인정돼야 한다는 취지다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GXB4CPN3LBN5FDHPGUPP35F4DA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;저서 '제국의 위안부'에서 일본군 위안부 피해자의 명예를 훼손한 혐의로 기소된 박유하 세종대 명예교수가 파기환송심에서 무죄를 선고받았다. 작년 4월 서울 서초구 서울고법에서 열린 파기환송심 선고공판을 마친 박 교수가 소감을 말하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울고법 민사12-1부(재판장 장석조)는 22일 고 이옥선 할머니 등 위안부 피해자와 유족 13명이 박 교수를 상대로 낸 손해배상 청구 소송 항소심에서 1심을 뒤집고 원고 패소로 판결했다. 1심은 “위안부 피해자 1명당 1000만원씩 배상하라”고 판단했었다.&lt;br&gt;&lt;br&gt;재판부는 “책에 기재된 표현은 학문적 서술”이라며 “피고의 견해가 많은 지지를 받지 못하는 견해일 수는 있지만, 학계·사회의 평가 및 토론 과정을 통해 검증함이 바람직하다”고 했다.&lt;br&gt;&lt;br&gt;박 교수는 2013년 8월 출간한 저서 ‘제국의 위안부’에서 위안부를 ‘자발적 매춘부’ ‘일본군과 동지적 관계’ 등으로 묘사해 논란이 됐다. 위안부 피해자들은 2014년 6월 박 교수를 상대로 손해배상 청구 소송을 냈고, 명예훼손 등 혐의로 형사 고소도 했다.&lt;br&gt;&lt;br&gt;앞서 1심은 지난 2016년 박 교수의 손해배상 책임을 인정했다. 박 교수의 책 32군데가 허위 사실이거나 극히 일부의 사실을 일반화한 것으로, 위안부 피해자의 명예를 훼손했다고 봤다.&lt;br&gt;&lt;br&gt;그러나 항소심은 이를 뒤집고 박 교수에게 배상 책임이 없다고 판단했다. 우선 박 교수가 허위 ‘사실’을 적시한 게 아니라 학자의 ‘의견’을 낸 것이므로, 명예훼손에 해당하지 않는다고 했다. 지난 2023년 10월 대법원이 박 교수의 표현들이 허위 사실 적시에 해당하지 않는다며 명예훼손 혐의를 무죄 취지로 파기환송 했고, 이듬해 4월 무죄가 확정된 점을 근거로 들었다.&lt;br&gt;&lt;br&gt;재판부는 “책에 기재된 부분은 학문적 주장 내지 의견”이라며 “학문적 개념을 전제로 한 용어를 의견 표명으로 보는 것이 학문의 자유를 최대한 보장하는 헌법 정신에 부합한다”고 밝혔다.&lt;br&gt;&lt;br&gt;또 박 교수가 위안부 피해 여성의 인격권을 침해한 것도 아니라고 했다. 재판부는 “책의 표현으로 인해 원고들이 다소 감정적인 영향을 받았다 해도 학문의 자유를 보장하는 헌법적 가치와 비교했을 때, 원고들의 인격권을 침해했다고 보긴 어렵다”고 했다. 또 법원이 학자의 저서를 쉽게 불법으로 인정한다면 자유롭게 견해를 표명할 자유를 지나치게 위축시킬 수 있다고 덧붙였다.&lt;br&gt;&lt;br&gt;선고가 끝나고 박 교수는 법정 앞 복도에서 “10년이나 걸렸다. 그동안 고생 많았고 고맙다”고 밝혔다. 박 교수는 변호인들과 지인들의 어깨를 두드리며 격려했고, 복도에서는 박수가 터져나왔다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘1등 40억 로또’ 당첨자는 ‘태국인 형제’… 공개된 얼굴엔 미소</title>
-      <link>https://www.chosun.com/national/national_general/2025/01/22/XBURMMSKVVDVJN2JNWA7GPVFT4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/22/XBURMMSKVVDVJN2JNWA7GPVFT4/</guid>
-      <dc:creator>정아임 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 22 Jan 2025 07:48:12 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NM4LX5COKZCIRHAEK2TQ63GISE.png"&gt;&lt;figcaption&gt;&lt;small&gt;경기 파주시에서 일하는 태국인 형제가 당첨금 약 40억원의 로또 1등에 당첨됐다. /페이스북&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 파주시에서 일하는 태국인 형제가 한국 로또 1등에 당첨된 사연이 전해져 눈길을 끌고 있다. 이들은 약 40억원의 당첨금을 받게 된다.&lt;br&gt;&lt;br&gt;21일(현지 시각) 카오산온라인 등 태국 현지 매체에 따르면, 태국인 형제는 지난 18일 추첨이 진행된 로또 1155회차 1등에 당첨됐다.&lt;br&gt;&lt;br&gt;동행복권에 따르면, 이 회차의 1등 당첨자는 경기 파주시 금촌역 인근의 한 복권 판매점에서 나왔다. ‘자동’으로 구매한 복권으로, 당첨 번호는 10·16·19·27·37·38이었다. &lt;br&gt;&lt;br&gt;이에 따라 태국인 형제는 40억 6637만 5179원을 받게 된다. 세금을 뺀 예상 실수령액은 약 27억 5700만원이다. 외국인이 한국 복권에 당첨될 경우, 내국인과 마찬가지로 세금을 내면 당첨금을 받을 수 있다. 국내 거주자라면 태국인과 동일한 세율을 적용받고, 비거주자는 거주지국과의 조세조약에 따라 세율이 결정된다.&lt;br&gt;&lt;br&gt;태국인 형제가 로또 1등에 당첨됐다는 소식은 한국에 거주하는 또 다른 태국인이 올린 페이스북 게시물 등을 통해 알려졌다. 해당 페이스북 게시물에는 “허락을 구하고 로또 40억 6637만 5179원 당첨자의 얼굴을 공개한다. 태국 돈으로 거의 1억 바트다. 머리카락이 곤두설 정도로 기쁘다”는 글과 함께 사진 한 장이 첨부됐다. &lt;br&gt;&lt;br&gt;사진에는 당첨자들이 NH농협은행에서 기념 촬영을 하는 모습이 담겼다. 사진을 보면, 태국인 형제는 흐뭇한 미소를 지은 채 한 명은 엄지손가락을 치켜세웠고, 다른 한 명은 두 손가락으로 브이(V)를 만들어 보였다. 태국인 형제는 당첨금을 절반씩 수령한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;이 소식을 접한 태국 네티즌들은 “너무 축하한다” “이제 집에 가서 편하게 지내자” “어디에 가면 로또를 살 수 있나” 등 댓글을 남겼다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>지난해 국제선 타고 해외로 떠난 여객 수 8892만명</title>
-      <link>https://www.chosun.com/national/transport-environment/2025/01/22/4KFJNLDZRRAUNMEBPLA2RJCIHU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/01/22/4KFJNLDZRRAUNMEBPLA2RJCIHU/</guid>
-      <dc:creator>박상현 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 22 Jan 2025 07:39:46 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/45KY6WUWHNIHXBFT6CEKPXR5AY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;설 명절 연휴를 앞둔 22일 오전 인천국제공항 제1여객터미널 출국장에서 승객들이 보안 검색을 위해 줄을 서고 있다. 올해 설 연휴 기간 국내 공항을 통해 130만여명이 해외여행을 떠날 것으로 예상된다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;작년에 국내 공항을 이용해 해외로 떠난 여객이 전년보다 30% 가까이 늘어난 것으로 나타났다. 코로나 팬데믹 종식에 따른 해외여행 수요 증가와 더불어 엔저(엔화 가치 하락)가 겹치며 일본으로 떠난 승객이 가장 많았다.&lt;br&gt;&lt;br&gt;22일 국토교통부 항공 통계에 따르면, 지난해 국내 공항을 이용한 전체 항공 여객 수는 1억2005만8371명으로 2023년(1억50만명)보다 19.5% 증가했다. 역대 최고를 기록한 2019년(1억2336만명)의 97%에 달한다. 특히 국제선 이용객이 크게 늘었다. 작년 국제선 승객 수는 총 8892만명으로 전년 대비 30.2% 증가했다. 같은 기간 국내선은 총 3113만명으로 3.3% 줄었다.&lt;br&gt;&lt;br&gt;코로나 팬데믹이 끝나며 해외여행 제한이 풀리고, 국내 관광지의 물가 상승 등으로 가까운 외국으로 떠난 이가 많았던 것으로 풀이된다. 국제선 승객은 일본이 2514만명으로 가장 많았다. 2023년보다 29.7% 늘어난 것이다. 엔저 현상이 지속되며 항공권과 숙박·쇼핑·관광 등 경비 부담을 줄일 수 있었던 것이 원인으로 꼽힌다.&lt;br&gt;&lt;br&gt;중국인의 한국 단체 관광 재개와 한국인 비자 면제 효과 등으로 중국 노선 이용객도 전년(684만명)의 2배 이상으로 늘어난 1377만명으로 집계됐다. 같은 기간 미주 노선(651만명)과 유럽 노선(460만명) 이용객도 각각 16.1%, 8.4% 늘었다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>3000명 넘던 의사 합격자, 올해는 269명…의사 ‘절벽’ 현실화</title>
-      <link>https://www.chosun.com/national/welfare-medical/2025/01/22/TBPVFTCH6RB4DDL5OVRKXWHG4U/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/01/22/TBPVFTCH6RB4DDL5OVRKXWHG4U/</guid>
-      <dc:creator>안준용 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 22 Jan 2025 06:24:46 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OBPO2QHDJYISATHWQZV33RH5KQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;작년 7월 서울 광진구 한국보건의료인국가시험원(국시원)에서 직원이 오가고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;올해 새로 배출된 의사 수가 269명에 그친 것으로 나타났다. 의사 면허 취득자는 보통 매년 3000명을 웃도는데, 이번엔 의정 갈등 여파로 의대생 대다수가 휴학하면서 예년의 10분의 1도 채 안 된 것이다.&lt;br&gt;&lt;br&gt;22일 한국보건의료인국가시험원(국시원)에 따르면 제89회 의사 국가시험(국시) 응시자 382명 중 실기·필기시험을 통과한 269명이 최종 합격했다. 전년도 합격자 수(3045명)의 8.8%에 불과하다.&lt;br&gt;&lt;br&gt;의사 국시는 의대 본과 4학년과 외국 의대 졸업자 등이 치르는데, 작년 2월 의정 갈등 이후 대다수 의대생이 휴학을 택하면서 응시할 수 있는 졸업 예정자가 급감한 것이다. 2020년 문재인 정부의 의대 증원 추진 당시 의대생들의 ‘국시 거부’ 사태로 이듬해 1월 국시 합격자가 412명에 그쳤는데, 올해는 그보다도 143명 적다.&lt;br&gt;&lt;br&gt;국시 최종 합격률도 예년보다 20%포인트 이상 낮은 70.4%였다. 2022년엔 95.7%, 2023년과 작년엔 각각 94.7%, 94.2%였다. 하지만 이번엔 필기시험 응시자가 285명에 그치는 등 시험 접수를 하고도 중간에 포기한 이가 적지 않았다. 외국 의대 출신 등의 응시 비율이 높아진 점도 영향을 미쳤을 것이란 분석이다. 신규 배출 의사 수가 급감하면서 올 상반기 수련병원 인턴 모집을 비롯해 향후 전공의·전문의 배출에도 차질이 생기고, 의료기관 인력난이 가중될 것이란 전망이 나온다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>﻿밤에 엄마 몰래 라면 끓여먹던 초등생 유튜버, 연대생 됐다 </title>
-      <link>https://www.chosun.com/national/people/2025/01/22/XIUMV3RN5JDLLBBRAW4KJI5Y6M/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/01/22/XIUMV3RN5JDLLBBRAW4KJI5Y6M/</guid>
-      <dc:creator>이가영 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 22 Jan 2025 05:30:20 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XXE3NZIVNRARREP6OZUPUKUTAY.png"&gt;&lt;figcaption&gt;&lt;small&gt;구독자 108만명을 보유한 유튜버 '마이린TV'의 '엄마 몰래 라면 끓여먹기' 영상 일부. 조회수 1111만회를 기록했다. /유튜브 '마이린TV'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;초등학교 3학년 때부터 영상을 올리기 시작해 구독자 108만명을 보유한 11년 차 유튜버가 연세대학교에 입학했다는 소식을 알렸다. &lt;br&gt;&lt;br&gt;유튜브 채널 ‘마이린TV’를 운영하는 최린 군은 22일 자신의 소셜미디어에 연세대 독어독문학과 합격증 사진을 올리며 “응원해 주신 모든 분에게 감사하며 기쁜 소식 전해드린다”고 했다. &lt;br&gt;&lt;br&gt;최군은 초등학교 3학년이던 2015년 처음으로 유튜브를 시작한 뒤 10대 맞춤형 콘텐츠로 인기를 얻었다. 그중에서도 ‘밤 12시 엄마 몰래 라면 끓여 먹기’ 영상은 그 나이대에 즐길 수 있는 일탈의 짜릿함을 선사하며 조회 수 1111만회를 기록했다. &lt;br&gt;&lt;br&gt;채널 개설 후 4년 7개월이 흐른 중학교 1학년 때에는 구독자 100만명을 달성했다. 최군이 커가며 영상의 내용도 달라졌다. 장난감 소개 같은 키즈 콘텐츠에서 중학생의 일상과 관심사를 영상으로 풀어냈다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/X4YN75N4CNGRRB5CLHZQEN2YIA.png"&gt;&lt;figcaption&gt;&lt;small&gt;11년차 유튜버가 된 '마이린TV'의 최린군은 22일 연세대 합격 소식을 알렸다. /최군 인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;유튜버로 꾸준히 활동하면서 공부도 소홀히 하지 않은 최군은 한영외고에 입학했다. 이후에는 학교와 학원을 오가는 고등학생들의 일상을 담은 브이로그 영상을 주로 만들었다. &lt;br&gt;&lt;br&gt;성장 과정에 따라 또래들이 공감할 만한 콘텐츠를 꾸준히 만든 최군은 2023년 국회 문화체육관광위원회가 주최하고 글로벌 인플루언서 협동조합이 주관한 ‘이달의 인플루언서 시상식’에서 국회사무총장상을 받았다. 그해 EBS ‘장학퀴즈’ 글로벌 인재 편에 출연해서는 최종 우승자가 됐다. &lt;br&gt;&lt;br&gt;최군은 성인이 되면 장학재단을 만들고 싶다는 뜻을 여러 차례 밝혔다. ‘장학퀴즈’ 우승 상금 200만원을 차지한 그는 “장학재단의 첫 기금으로 사용하고 싶다”고 했다. &lt;br&gt;&lt;br&gt;2023년 뉴시스 인터뷰에서도 “크리에이터 활동을 하면서 전국의 많은 청소년 시청자분을 직접 만나볼 기회가 있었고, 그 과정에서 가정 환경이 불우해서 자신의 꿈과 탤런트를 온전히 발휘하지 못하는 이들 또한 많이 봐왔다”며 “성인이 되면 이들을 도울 수 있는 마이린 장학재단을 주위 분들과 함께 만드는 것이 꿈 중 하나”라고 했다. 당시 최군은 재단을 만들 때 부끄럽지 않은 대학생이 되는 것이 개인적 목표라고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>김용현 “포고령 작성한 노트북 없애라 했다”… 지시 받은 행정관 “망치로 부숴”</title>
