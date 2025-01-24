@@ -13,6 +13,78 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>최상목 측 “‘재판관 임명 보류' 재판 더 해달라”… 헌재는 기각</title>
+      <link>https://www.chosun.com/national/court_law/2025/01/24/XGMPPQFVDNHPZGGIILNUJIXJS4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/01/24/XGMPPQFVDNHPZGGIILNUJIXJS4/</guid>
+      <dc:creator>방극렬 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 24 Jan 2025 10:03:15 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/247WTYLKEZNYZCQV26X5BZ4LYQ.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;최상목 대통령 권한대행이 24일 서울 종로구 정부서울청사에서 열린 '기획재정부 재정경제금융관 오찬 간담회'에서 모두발언을 하고 있다. /기획재정부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;헌법재판소가 ‘마은혁 헌법재판관 후보자 임명 보류’에 관한 권한 쟁의 심판의 변론을 재개해달라는 최상목 대통령 권한대행 측의 신청을 24일 기각했다. 추가 심리 없이 다음 달 3일로 예정한 선고를 그대로 진행하겠다는 것이다. 최 권한대행 대리인단은 “졸속 선고”라며 반발했다.&lt;br&gt;&lt;br&gt;헌재는 이날 최 권한대행의 마 후보자 임명 보류와 관련해 국회가 낸 권한 쟁의 심판과 김정환 변호사가 제기한 헌법소원 사건을 다음 달 3일 오후 2시에 선고한다고 밝혔다. 헌재는 통상 매달 마지막 목요일에 선고를 하는데, 이번엔 특별 기일을 지정했다.&lt;br&gt;&lt;br&gt;이 사건은 최 권한대행이 지난해 12월 31일 공석인 헌법재판관 3명 가운데 2명(조한창·정계선)을 임명하면서 마은혁(야당 추천) 후보자에 대해선 여야 합의가 이뤄지지 않았다며 임명을 보류한 것이 발단이다. 최 권한대행의 임명 보류에 대해 국회 측은 “국회의 재판관 선출권·구성권을 침해했다”고 했고, 김 변호사는 “헌법재판을 받을 권리를 침해받았다”고 주장하며 헌재에 각각 소송을 냈다. 최 권한대행의 임명 보류로 헌재는 재판관 9명 중 1명이 결원인 상태다.&lt;br&gt;&lt;br&gt;그런데 헌재는 지난 22일 권한 쟁의 심판 첫 기일을 진행하고 바로 변론을 종결했다. 최 권한대행 측이 “여야 합의가 있었는지 확인하기 위해 국민의힘·더불어민주당 원내대표 등을 증인으로 신청하겠다”고 했지만 이를 받아주지 않았다. 그러고는 접수 한 달 만에 선고하기로 한 것이다. 동일한 취지의 헌법소원도 같은 날 선고한다고 했다.&lt;br&gt;&lt;br&gt;최 권한대행 측은 이날 선고 기일이 정해진 직후 “여야 합의에 관한 핵심 증인을 채택하지 않고 서둘러 변론을 종결하면 안 된다”며 변론 재개 신청을 냈다. 대리인단은 “헌재 결원을 해소하고 ‘9인 체제’를 회복하는 것은 시급한 일이지만, 최 권한대행은 여야 합의가 확인되는 대로 즉시 임명하겠다는 입장”이라며 “현재 제출된 증거만으로는 (여야 합의가 있다는) 국회 측 주장을 인정하기 부족하다”고 했다. 또 “헌재는 사실상 단심제인 만큼 엄격한 사실 인정이 필수적으로 요구된다”고 강조했다.&lt;br&gt;&lt;br&gt;하지만 헌재는 변론 재개 신청이 들어온 당일 바로 이를 기각했다. 재판을 더 할 필요 없이 다음 달 3일 선고를 할 수 있다는 입장인 셈이다. 이에 최 권한대행 측은 “제대로 된 심리 없이 재판관 충원을 명분으로 졸속으로 선고하는 것 아니냐”고 반발했다.&lt;br&gt;&lt;br&gt;헌재가 권한쟁의 사건에서 국회 측 손을 들어주거나 김 변호사의 헌법소원을 받아들이면, 최 권한대행은 마 재판관 후보자를 임명해야 한다. 다만, 최 권한대행에게 임명을 강제할 방법은 없다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>검찰, ‘바디프랜드 분쟁’ 창업주·사모펀드 최대주주 불구속 기소</title>
+      <link>https://www.chosun.com/national/court_law/2025/01/24/MQ23P3HAVNGR3DZ6MFDQRQWCWY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/01/24/MQ23P3HAVNGR3DZ6MFDQRQWCWY/</guid>
+      <dc:creator>유종헌 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 24 Jan 2025 09:11:39 +0000</pubDate>
+      <content:encoded>안마의자 제조업체 바디프랜드의 경영권 분쟁을 수사한 검찰이 24일 창업주 강웅철씨(전 이사회 의장)와 사모펀드 한앤브라더스 대주주 한주희씨를 각각 재판에 넘겼다.&lt;br&gt;&lt;br&gt;서울중앙지검 중요범죄조사부(부장 어인성)는 이날 강씨를 특정경제가중처벌법상 횡령 혐의로, 한씨를 특경법상 사기 및 변호사법 위반 혐의로 불구속 기소했다고 밝혔다. 강씨의 공범인 박상현 전 바디프랜드 대표, 한씨의 공범인 양모 전 바디프랜드 총괄사장도 함께 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SOKC5ENECZF6LVFBZY3727YKEE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 서울중앙지검 전경. / 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한씨는 강씨를 상대로 “최초 경영권 지분 유지를 위한 자금 모금에 한앤브라더스가 310억원을 출자하겠다”고 속이고 실제로는 강씨 등에게 편취한 자금과 단기 차입금만 납입한 혐의를 받는다. &lt;br&gt;&lt;br&gt;강씨는 과거 바디프랜드를 운영하면서 직무발명보상금 25억원과 고문료 등 명목의 12억원을 횡령한 혐의가 있다. 또 개인 별장을 바디프랜드에 임대하고 회사 자금에서 차임으로 7억원을 받은 혐의도 받는다. 강씨는 빼돌린 돈을 오피스텔 임차 보증금, 리차드밀 등 고급 시계를 구입, 벤틀리, 롤스로이스 등 고급 외제차 보험료 등으로 사용한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;강씨와 한씨는 2022년 8월 긴급 자금이 필요한 것처럼 속여 바디프랜드 자금 28억원을 빼낸 뒤 차입금 변제에 쓰고, 같은 해 10월 사내대출금 명목으로 167억원을 빼낸 뒤 그중 117억원을 차입금 변제에 쓴 혐의도 받는다.&lt;br&gt;&lt;br&gt;검찰은 수사 과정에서 두 사람에 대한 구속영장을 청구했었지만 모두 기각됐다. &lt;br&gt;&lt;br&gt;한앤브라더스는 2022년 7월 스톤브릿지캐피탈과 함께 사모투자 합작회사를 설립해 바디프랜드 지분을 인수했다. 이후 한씨와 강씨는 바디프랜드 경영권을 놓고 다투다 서로 맞고소에 나섰다.&lt;br&gt;&lt;br&gt;검찰은 “강씨가 방만한 회사 경영으로 경영권 상실 위험에 놓이게 되자 한씨를 끌어들이면서 대형 경제범죄가 발생했다”면서 “피고인들이 죄에 상응하는 처벌을 받을 수 있도록 공소유지에 만전을 기하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>부산 행정복지센터서 흉기 휘두른 60대 긴급체포…2명 부상</title>
+      <link>https://www.chosun.com/national/2025/01/24/UFR2JSKL7FA3RH4P2LUDBGUZCE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2025/01/24/UFR2JSKL7FA3RH4P2LUDBGUZCE/</guid>
+      <dc:creator>박주영 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 24 Jan 2025 09:05:14 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/T6G4LDUEBHPOWYAJMFKYJUNKPQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산 사상구 사상경찰서 전경./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산의 한 행정복지센터에서 흉기를 휘둘러 직원 등 2명에게 부상을 입힌 60대 남성이 긴급체포돼 조사를 받고 있다.&lt;br&gt;&lt;br&gt;부산 사상경찰서는 이같은 범행을 저지른 60대 남성 A씨를 살인미수 혐의로 긴급체포해 조사하고 있다고 24일 밝혔다.&lt;br&gt;&lt;br&gt;경찰에 따르면 A씨는 이날 오후 4시 12분쯤 부산 사상구 한 행정복지센터 2층을 찾아가 미리 준비해 온 흉기를 휘둘러 60대 여성 1명과 30대 여성 2명을 다치게 한 혐의를 받고 있다. 흉기에 부상을 입은 이들 2명은 병원으로 옮겨 치료를 받고 있다. 경찰은 “이중 60대 여성은 외상센터에서 응급 조치 중이고 30대 여성은 생명에 지장이 없는 것으로 파악됐다”고 말했다.&lt;br&gt;&lt;br&gt;A씨는 범행 직후 달아났다가 오후 4시30분쯤 자수했다. 경찰은 A씨를 긴급체포, 범행 동기 및 사건 경위에 대해 조사하고 있다. 경찰은 “조사 후 구속영장을 신청할 예정”이라고 말했다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>울산 GS엔텍 공장서 용접 중 설비에 낀 60대 숨져</title>
+      <link>https://www.chosun.com/national/2025/01/24/6YJIEHUVXBCGLOAHUV6OAQCHOE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2025/01/24/6YJIEHUVXBCGLOAHUV6OAQCHOE/</guid>
+      <dc:creator>울산=김주영 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 24 Jan 2025 08:54:59 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BMFWINOQRPPOUHBGGKESK6LD6A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;24일 오전 10시 45분쯤 울산시 남구 매암동 GS엔텍 공장에서 작업 중이던 60대 A씨가 설비에 몸이 끼여 병원으로 옮겨졌으나 숨졌다.&lt;br&gt;&lt;br&gt;A씨는 하청업체 소속인 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰과 소방 당국은 A씨가 탱크 시설 용접 작업 중 이 시설을 받치고 있던 쇠기둥 롤러 설비에 하반신이 끼여 다친 것으로 보고 자세한 경위를 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>서울지방변호사회 제98대 회장 조순열 변호사 당선</title>
+      <link>https://www.chosun.com/national/court_law/2025/01/24/I2UFO4D7U5EW3FJF44RWB4PZFI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/01/24/I2UFO4D7U5EW3FJF44RWB4PZFI/</guid>
+      <dc:creator>박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 24 Jan 2025 08:39:47 +0000</pubDate>
+      <content:encoded>서울지방변호사회 제98대 회장에 조순열(53·사법연수원 33기) 변호사가 24일 당선됐다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VBT2SE55ARPE7GMU66C5LVFAP4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;조순열 제98대 서울지방변호사회 회장 당선인이 24일 오후 서울 중구 롯데호텔에서 열린 서울지방변호사회 정기총회에서 당선을 확정 지은 후 기뻐하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울변회는 24일 열린 2025년 정기총회 결과 기호 3번 조 변호사가 총 1만814표 중 4919표(45.49%)를 얻어 신임 회장에 당선됐다고 밝혔다.&lt;br&gt;&lt;br&gt;기호 1번 박종흔 변호사(59·31기), 2번 박병철 변호사(50·변호사시험 6회)는 고배를 마셨다. &lt;br&gt;&lt;br&gt;조 변호사는 지난 20일 신임 대한변호사협회장에 당선된 김정욱 변호사와 러닝메이트를 이뤄 이번 선거에 출마했다. &lt;br&gt;&lt;br&gt;조 변호사는 성균관대 법학과를 졸업하고, 변협 청년부협회장·변호사직역대책특위 위원, 제96·97대 서울변회 부회장 등을 지냈다. 22년째 법무법인 문무의 대표 변호사를 맡고 있다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>오세훈 “자체 핵무장 테이블 위에 올릴 준비 해야”</title>
+      <link>https://www.chosun.com/national/national_general/2025/01/24/J7QAGZXKX5GB3K2TRSAPYE6MWM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/24/J7QAGZXKX5GB3K2TRSAPYE6MWM/</guid>
+      <dc:creator>최연진 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 24 Jan 2025 08:33:43 +0000</pubDate>
+      <content:encoded>오세훈 서울시장은 24일 북핵 문제와 관련, “한국의 허용 없이 한반도에서 어떤 핵 협상도 이뤄질 수 없음을 미국, 북한 모두에 분명히 알려야 한다”고 했다.&lt;br&gt;&lt;br&gt;오 시장은 이날 페이스북에 ‘한반도의 핵 문제는 한국 없이는 논의할 수 없습니다’라는 제목의 글을 올려 이같이 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5NLT6MHP4BM7XHEV7AEX7AHC4A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;오세훈 서울시장이 추석 연휴를 하루 앞둔 24일 오후 경기도 김포시 월곶면 해병대 제2사단 애기봉 전방 OP를 찾아 최영길 사단장으로부터 현황보고를 받고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;오 시장은 도널드 트럼프 미국 대통령이 북한을 ‘핵 보유국(Nuclear Power)’이라고 지칭한 것, 쿼드(Quad·미국·일본·호주·인도 안보 협의체) 외교장관회의에서 ‘한반도 비핵화’ 표현이 빠진 것을 언급하며 “북한 핵 문제에 지각변동이 일어나고 있다”고 했다.&lt;br&gt;&lt;br&gt;그는 “가장 우려스러운 시나리오는 미국이 한국을 배제한 채 북한과 독자적으로 협상 테이블을 여는 상황”이라며 “미국이 ICBM(대륙간탄도미사일) 제거와 핵 동결 수준에서 북한과의 핵군축 ‘스몰딜’에 나선다면 한국은 북핵의 ‘인질’로 전락하게 될 것”이라고 했다.&lt;br&gt;&lt;br&gt;오 시장은 “안보에 설마는 없다”며 “뽑지 않은 칼이 무섭다는 얘기가 있는데, 우리가 언제든 칼을 뽑을 준비가 되어 있다는 사실을 상대에게 인식시켜야 한다”고 했다. 이어 “핵 잠재력을 보유하는 것과 함께 선택 가능한 전략적 옵션으로 자체 핵무장을 테이블 위에 올릴 준비를 해야 한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>인천서 금은방 털고 달아난 일당…범행 5시간 만에 체포</title>
+      <link>https://www.chosun.com/national/incident/2025/01/24/S2FYO4Y2CJD4VIELYCKIHNTBVU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/01/24/S2FYO4Y2CJD4VIELYCKIHNTBVU/</guid>
+      <dc:creator>인천=이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 24 Jan 2025 08:28:16 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IWSAAW52FVIDNBFKNCGRIBUOZU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;금은방 출입문을 부수고 들어가 귀금속을 훔쳐 달아난 일당이 범행 5시간여 만에 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;인천 계양경찰서는 특수절도 혐의로 A씨 등 10~20대 남성 5명을 입건했다고 24일 밝혔다. &lt;br&gt;&lt;br&gt;A씨 등은 이날 오전 5시 20분쯤 인천 계양구 계산동의 한 금은방 출입문을 둔기로 부수고 들어가 진열대에 있던 금반지와 귀걸이, 목걸이 등 귀금속을 훔친 혐의를 받고 있다. A씨 등은 미리 준비한 렌터카를 타고 도망쳤다.&lt;br&gt;&lt;br&gt;신고를 받고 출동한 경찰은 주변 감시카메라(CCTV) 영상 등을 토대로 추적에 나서 이날 오전 10시 50분쯤 경기 양주시와 의정부 등지에서 이들을 긴급체포했다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “범행 동기 등 정확한 사건 경위와 구체적인 피해 금액 등을 조사하고 있다”며 “혐의가 인정되면, 구속영장을 신청할 예정”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>이향숙 이화여대 신임 총장 24일 취임식</title>
+      <link>https://www.chosun.com/national/education/2025/01/24/OCE5GHEIPVCYPH6SQOGPZQ3YDE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/education/2025/01/24/OCE5GHEIPVCYPH6SQOGPZQ3YDE/</guid>
+      <dc:creator>김승범 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 24 Jan 2025 08:15:25 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CINTR666CFD4VFTWVPUWZN3BHA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이향숙 이화여자대학교 신임 총장이 24일 서울 서대문구 이화여대 김영의홀에서 열린 취임식에서 취임 소감을 밝히고 있다./이화여대&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이화여자대학교 제18대 이향숙 신임 총장이 24일 서울 서대문구 이화여대 김영의홀에서 취임식을 가졌다.&lt;br&gt;&lt;br&gt;이 총장은 취임사에서 “디지털 대전환 시대의 창의적 미래인재를 양성하고, 세계적 수준의 연구개발과 혁신을 통해 국가의 성장을 견인해 가겠다”며 “창의와 도전, 수월성과 혁신, 협력과 동행, 지속가능성, 나눔과 섬김을 핵심 가치로 삼아 새 시대, 새 이화가 출발하고자 한다”고 말했다.&lt;br&gt;&lt;br&gt;이 총장은 인공지능 시대에 최적화된 전문 인재 양성을 위해 인공지능 기반 교육 인프라와 전공별 맞춤형 AI 교육 시스템을 구축하겠다고 밝혔다. 또 퍼스트무버(First Mover)형 연구 리더십 구축, 이화 브랜드 가치와 글로벌 위상 제고, 첨단 융복합 메디·헬스케어 클러스터 구축 등의 목표를 제시했다.&lt;br&gt;&lt;br&gt;이 총장은 이화여대 역사상 첫 과학기술 계열 총장이다. 1986년 이대 수학과를 졸업한 이 총장은 이대와 미국 노스웨스턴대에서 각각 석사, 박사 학위를 받았다. 1995년부터 이대 수학과 교수로 재직했으며 수학과 학과장과 연구처장·산학협력단장 등을 맡았다. 임기는 내달 1일부터 2029년 1월 31일까지 4년이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>‘선거법 위반’ 혐의 정봉주, 첫 공판서 혐의 부인… “카드뉴스 제작 가담 안 해”</title>
       <link>https://www.chosun.com/national/national_general/2025/01/24/UT3E26XSCBG5LEEEIXACPUJEOE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/24/UT3E26XSCBG5LEEEIXACPUJEOE/</guid>
@@ -821,24 +893,6 @@
 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경북 포항·경주시, 울산시가 구성한 협의체인 ‘해오름동맹’의 상설 협력기구가 23일 출범했다. 해오름동맹은 2016년 출범했으며, 이후 3개 자자체는 경제산업·문화관광 등 다양한 분야에서 공동 협력사업을 추진해오고 있다.&lt;br&gt;&lt;br&gt;이들 3개 지자체는 이날 경주스마트미디어센터 내 사무실에서 해오름동맹광역추진단 출범식을 갖고, 본격적인 운영에 들어갔다.&lt;br&gt;&lt;br&gt;지난 2023년 해오름동맹 상설협력기구 설치 필요성에 대해 합의한 이후 준비기간을 거쳐 4급 단장 1명을 포함해 각 지역별 3명씩 총 10명의 직원들로 해오름동맹광역추진단을 구성해 이날 출범했다. 사무실은 세 도시의 중간 지점인 경주 스마트미디어센터에 자리잡았다.&lt;br&gt;&lt;br&gt;3개 지자체 단체장은 이날 출범식에서 철강 및 이차전지산업 위기 극복을 위한 포항시 산업 위기 대응 특별지역 지정, 석유화학산업 경쟁력 제고를 위한 울산시 산업위기 선제 대응 지역 지정, 2025년 아시아태평양경제협력체(APEC) 정상회의 개최 지원 등을 정부와 국회에 건의하기로 뜻을 모았다.&lt;br&gt;&lt;br&gt;또 ‘해오름산업벨트 지원에 관한 특별법’의 조속한 입법 추진에도 힘을 모으기로 했다. 이 법안은 지역소멸과 산업 위기 극복을 위한 광역교통망 구축, 에너지산업 지원, 개발제한구역 해제, 산업단지 지정·개발에 관한 특례 등을 담고 있다.&lt;br&gt;&lt;br&gt;이강덕 포항시장은 “해오름동맹은 산업과 경제를 아우르는 자치단체 간 경제동맹의 모범사례가 될 것”이라며 “세 도시의 협력이 단기적 성과에 그치지 않도록 역량을 집중해 지속가능한 발전을 이뤄낼 것”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>‘호송하면서 입맞춤’…여성 피의자 추행한 경찰관 구속기소</title>
-      <link>https://www.chosun.com/national/incident/2025/01/23/I7J2AMW2L5BJTG5I3YNAOG5NAM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/01/23/I7J2AMW2L5BJTG5I3YNAOG5NAM/</guid>
-      <dc:creator>전주=김정엽 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 23 Jan 2025 08:26:14 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VTZBE5FTU3H5FUCCJUSZZZXU5Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전주지검 청사. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;구속 수사를 받던 여성 피의자를 호송하는 과정에서 이 여성을 성추행한 현직 남성 경찰관이 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;전주지검 형사2부(부장 윤동환)는 23일 강제추행 및 독직가혹행위 혐의로 전북 전주완산경찰서 소속 A경위를 구속 기소했다.&lt;br&gt;&lt;br&gt;A경위는 지난해 11월 8일 여성 피의자 B씨를 검찰 구치감으로 호송하면서 신체 일부를 만지고 입을 맞추는 등 강제로 추행한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;조사 결과 A경위는 함께 피의자 호송에 나선 여성 경찰관이 자리를 이탈한 사이에 이러한 범행을 저지른 것으로 드러났다.&lt;br&gt;&lt;br&gt;B씨는 자신이 성추행당한 사실을 검찰에게 알렸고, 검찰은 곧바로 수사에 착수했다. 당시 B씨가 입었던 옷과 몸에서는 A경위의 유전자(DNA)가 다량 검출된 것으로 알려졌다. 하지만 A경위는 범행을 부인하는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;검찰 관계자는 “인권을 수호해야 할 책무를 지닌 경찰 공무원이 사건 피의자를 범행 대상으로 삼았다”며 “피고인이 저지른 죄에 상응하는 처벌이 내려질 수 있도록 공소 유지에 최선을 다하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>필수 예방접종 거르고 아기에 물 탄 우유 먹인 20대 부부에 ‘집행유예’</title>
-      <link>https://www.chosun.com/national/regional/2025/01/23/VFCCVHLNGJDJXNLFVGPNLTRPFE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/01/23/VFCCVHLNGJDJXNLFVGPNLTRPFE/</guid>
-      <dc:creator>대전=우정식 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 23 Jan 2025 08:20:59 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NEB72YMFAVHRJKGS7DXJM5DJ5A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원 로고. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;필수 예방백신을 접종하지 않고 분유 대신 물을 탄 우유를 먹이는 등 신생아를 제대로 양육하지 않고 방임한 혐의로 기소된 20대 부부에게 법원이 징역형의 집행유예를 선고했다. 법원은 부부의 양육 태도를 추적 관리할 필요가 있다고 판단해 검찰이 구형한 벌금형보다 높은 형을 선고했다.&lt;br&gt;&lt;br&gt;대전지법 형사8단독 이미나 부장판사는 아동복지법 위반(아동유기·방임) 혐의로 기소된 20대 부부에게 징역 4개월에 집행유예 2년을 선고했다. 이와 함께 40시간의 아동범죄 재발 예방 강의 수강도 명령했다.&lt;br&gt;&lt;br&gt;양육 교육을 제대로 받지 못한 이 부부는 2021년 7월 대전의 한 모텔에서 아이를 출산한 뒤 아이가 17개월이 될 때까지 필수 예방백신을 20차례 접종하지 않았다. 이들은 분유 대신 우유와 물을 섞어 아이에게 먹이기도 했다.&lt;br&gt;&lt;br&gt;영양부족 상태에 놓인 아이는 생후 17개월이 될 때까지 제대로 걷지도 못했다고 재판부는 지적했다.&lt;br&gt;&lt;br&gt;검찰은 이 부부에게 벌금 1000만원을 각각 구형했다. 이에 대해 변호인 측은 “생활고를 겪고 있는 부부의 경제 사정을 고려하면 너무 과한 벌금액”이라고 주장했다.&lt;br&gt;&lt;br&gt;이 부장판사는 “무책임하고 무지한 양육 방법으로 아이의 영양상태가 심각하게 나빠졌다. 건강을 저해한 죄책이 무겁다”면서 “검찰이 벌금 1000만원을 구형했지만, 벌금 선고보다는 피고인을 관리하는 게 낫다고 판단했다”고 양형 이유를 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[속보]  尹 “특전사, 국회 어디 있었나” 김용현 직접 신문</title>
       <link>https://www.chosun.com/national/national_general/2025/01/23/5KQ2WHNVEBGHDHWZFGSAXISJUU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/23/5KQ2WHNVEBGHDHWZFGSAXISJUU/</guid>
@@ -876,51 +930,6 @@
       <description/>
       <pubDate>Thu, 23 Jan 2025 06:32:57 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VXSVAD5WCZJBRIELPGWLPTSO2Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령에 대한 탄핵심판 4차 변론이 열린 23일 오후 서울 종로구 헌법재판소 인근에서 윤 대통령 지지자들이 구호를 외치고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 대통령이 23일 탄핵 심판에 두 번째로 출석하기 위해 헌법재판소에 출석한 가운데, 서울 종로구 헌재 인근인 안국역 인근은 윤 대통령 지지자들과 반윤 유튜버 등 2000여명(경찰 비공식 추산)이 몰려 북새통을 이루고 있다. 지난 21일 3차 변론 당시에는 경찰 추산 약 4000명이 모였었다.&lt;br&gt;&lt;br&gt;경찰은 이날 헌재 인근에 기동대 54개 부대(경력 3300여 명)를 투입했다. 이날 오전부터 경찰은 헌재 주변에 기동대 버스 등 차량 160여 대를 동원해 3중에 걸친 차벽을 세웠다. 지난 21일 윤 대통령의 1차 출석 당시 보이지 않았던 플라스틱 방어벽 또한 헌재 인근 길목에 설치됐다. 다만 21일과 달리 현장에 배치된 기동대원들은 헬멧을 착용하지는 않고 있는 모습이었다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IRWIKXXHDFM5ZCHDKS4IURIVCQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령 탄핵심판 4차 변론기일인 23일 오후 서울 종로구 헌법재판소 인근 도로에 차량통행이 제한되고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤 대통령은 이날 법무부 호송용 승합차를 타고 오후 12시 47분쯤 헌재에 도착했다. 윤 대통령을 태운 차량이 모습을 드러내자 주변에 몰려 있던 지지자들은 “대통령 석방” “탄핵 무효” 등을 외쳤다. 반윤 유튜버 등 일부 반윤 측 시위대는 “윤석열 사형”을 외쳤다. 경찰은 이들이 윤 대통령 지지자들과 충돌하지 않도록 스크럼을 짜고 막아섰다.&lt;br&gt;&lt;br&gt;이날 윤 대통령 도착에 앞서 지지자들이 경찰 통제에 불응하며 미신고 집회를 열면서 긴장감이 고조되기도 했다. 집회 및 시위에 관한 법률(집시법) 11조에 따르면 헌재 반경 100m 이내는 1인 시위를 제외한 집회 금지 장소다. 윤 대통령 지지자들과 유튜버들을 집회 금지 구역에서 내보내는 과정에서 고성이 오가기도 했다. 경찰은 경호 구역임을 언급하면서 협조를 요청했지만, 한 여성은 “강제로 미는 것이 어디 있느냐”라며 강하게 항의했다.&lt;br&gt;&lt;br&gt;윤석열 대통령이 도착한 이후, 격앙된 일부 지지자들이 헌재로 접근을 시도하다가 경찰과 대치하며 마찰을 빚기도 했다. 한 중년 남성은 오후 2시쯤 “나라가 이렇게 된 상황에서 경찰이 시민을 막을 권리가 없다”며 “중국인은 들어가게 해주고 한국인은 막는 거냐”며 언성을 높였다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AWKKWC6WKXE6VDBQW5ZDNCEQME.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;23일 오후 헌재 근처에서 윤석열 대통령 지지자들이 모여 구호를 외치고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 오후 2시 반쯤 안국역 2번 출구 앞에 시위대가 몰려들자 경찰은 “헌재 100m 이내 구역은 집회 및 시위가 금지돼 있다. 1인 시위를 주장하더라도 2인 이상 모이면 집회”라며 이동하라는 방송을 했다. 이에 일부 지지자들은 “그런 법이 어디 있냐” “왜 1인시위를 방해하냐”고 항의했다.&lt;br&gt;&lt;br&gt;이날 오후 1시부터는 안국역 인근에선 윤 대통령 지지자들이 태극기와 성조기를 흔들며 “대통령을 석방하라”, “탄핵 무효”, “윤석열 대통령 우리가 지킨다” 등 구호를 반복해 외쳤다. 북을 치는 일부 지지자들의 모습도 보였다.&lt;br&gt;&lt;br&gt;헌재에서 약 270m 떨어진 서울노인복지센터 앞에선 오후 1시부터 자유통일당 등이 주최한 탄핵 반대 집회가 열렸다. 자신이 14세라고 밝힌 한 소녀는 무대에 올라 “추운 날씨에도 불구하고 윤석열 대통령과 자유민주국가 한국을 위해 이 자리에 나온 어른들께 감사하다”며 “지금 대한민국에는 자유가 없다. 자유를 지키자”고 외쳤다. 이를 듣던 지지자들은 “할렐루야”를 연호했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WWLQGPD6XZME5GR4GLPWP2EKM4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령에 대한 탄핵심판 4차 변론이 열린 23일 오후 서울 종로구 헌법재판소 인근에서 윤 대통령 지지자들이 구호를 외치고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;오후 2시부터는 보수단체 엄마부대 등 윤 대통령 지지자들은 헌재 인근인 안국역 5번 출구 앞에서 ‘탄핵반대 국민대회’를 열었다. 헌재 정문으로부터 약 200m 떨어진 곳이다. 연단에 오른 한 참가자는 “오늘 오전 이진숙 방송통신위원장에 대한 탄핵이 기각됐다”며 “조한창 재판관은 윤 대통령의 계엄이 위헌, 위법이라고 주장한 인물”이라며 “(조 재판관도) 기각에 손을 들었다. 이거는 여론이 뒤집히고 있기 때문”이라고 말했다. 다른 참가자는 무대에 올라 “비상계엄은 대통령의 고유 권한”이라 강조했다. 그러면서 “이 이 위원장 탄핵이 기각됐다. 탄핵 인용표가 4표 나왔다”며 “이들 대부분은 우리법 연구회 출신이다. 헌재는 똑바로 판결하라”고 외쳤다.&lt;br&gt;&lt;br&gt;오후 3시 20분쯤 대심판정에서 김용현 장관이 “대통령에게 비상계엄을 선포하라고 건의했다” “대통령이 포고령을 꼼꼼히 보지 않았다”는 내용을 진술하자 시위대는 “그동안 뉴스는 다 가짜였다”면서 동요했다. 무대 위 연사가 “문형배 헌법재판소장 권한대행이 김용현 장관 증언에 대해 신빙성 낮다 말했다”고 하자 시위대는 “문형배는 당장 사퇴하라” “헌법재판소를 해산하라” 외쳤다.&lt;br&gt;&lt;br&gt;오후 4시 45분쯤 윤 대통령 지지자 집회에는 약 5000명(경찰 비공식 추산)이 모였다. 이들은 오늘도 이긴다, 정의가 이긴다”라는 구호를 연달아 외쳤다.&lt;br&gt;&lt;br&gt;반윤 측 시위자 한 명이 “좀비들아”라고 외치며 대통령 지지 집회 옆으로 돌진하는 일도 있었다. 이를 본윤 대통령 지지자가 반발하며 반윤 측 시위자에게 달려들어 옆에 있던 인파가 소요 사태를 저지하기도 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>검찰, “최서원 독일서 수조원 돈 세탁” 주장 안민석에 징역 1년 구형</title>
-      <link>https://www.chosun.com/national/court_law/2025/01/23/QWWDBEGKQFBAFNQVCVPA3U5PCU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/01/23/QWWDBEGKQFBAFNQVCVPA3U5PCU/</guid>
-      <dc:creator>수원=김수언 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 23 Jan 2025 08:05:25 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4XWHUM26NOQSGQB2E3HRXWTFUY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;박근혜 전 대통령 국정농단 사건에 비선실세로 알려졌던 최서원 씨(개명 전 최순실)에 대한 각종 의혹 제기에 나섰던 안민석 더불어민주당 의원이 지난해 4월 23일 오전 경기도 수원시 영통구 수원지방법원에서 열린 정보통신망 이용촉진 및 정보보호 등에 관한 법률 위반(명예훼손) 혐의 첫 공판을 마친 후 취재진에게 입장을 말하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰이 박근혜 정부 국정농단 사건의 핵심인물인 최서원(개명 전 최순실)씨에 대한 허위사실을 유포해 명예를 훼손한 혐의를 받는 안민석 전 더불어민주당 의원에게 징역 1년을 구형했다.&lt;br&gt;&lt;br&gt;수원지법 형사19단독 설일영 판사는 이날 안 전 의원의 정보통신망법 위반(명예훼손 등) 혐의에 대한 결심 공판을 진행했다. 이날 검찰은 “국민적 관심이 큰 사안이라 하더라도, 악의적 허위사실을 유포한 거까지 면죄부를 받을 수 없다. 국회의원이었음에도 이 범행으로 사회에 큰 해악을 미치는 가짜뉴스를 퍼트렸다”며 징역 1년을 선고해 달라고 재판부에 요청했다.&lt;br&gt;&lt;br&gt;검찰에 따르면, 안 전 의원은 최씨가 박근혜 전 대통령의 비선 실세라는 의혹이 제기되던 2016년부터 각종 라디오와 TV 방송 등에 출연해 “독일 검찰이 독일 내 최순실 재산을 추적 중인데 돈세탁 규모가 수조원대”라는 주장을 했다. 안 전 의원은 “최씨가 페이퍼컴퍼니를 세워 돈을 빼돌린 기업은 독일에서만 수백개에 달한다는 사실이 독일 검찰로부터 확인됐다”고도 했다. 안 전 의원은 또 최씨가 록히드마틴 회장과 만나 사드(THAAD·고고도 미사일 방어체계) 도입에 관여했다는 의혹을 제기하면서 실제 사실관계를 확인하지 않고 “최씨가 록히드마틴 측에 무기 계약을 몰아줬다”고 발언했다. 또 “스위스 비밀 계좌에 입급된 한 기업의 돈이 최씨와 연관돼 있다”는 등 확인되지 않은 의혹을 숱하게 제기했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LY7SSK74J7SQQNDOP2YC6AGUNQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;박근혜정부의 '국정농단' 사건을 주도한 혐의 등으로 복역 중인 최서원(개명 전 최순실)씨, /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최씨는 지난 2019년 9월 “안 의원의 발언은 모두 거짓”이라며 안 의원을 고소했고, 검찰은 안 전 의원의 발언이 허위 사실이라고 판단해 2023년 11월 그를 불구속 기소했다.&lt;br&gt;&lt;br&gt;이날 변호인은 “피고인이 방송 등에서 했던 발언 내용은 공공의 이익에 관한 것으로, 당시 공적 지위에서 한 번도 공식적으로 검증 안 된 비선 실세에 대한 해외 은닉자금에 대한 철저한 수사와 재산 환수를 촉구하는 것에 해당한다”며 “당시 국민적 관심사인 최씨의 해외 은닉재산에 대한 환수에 대한 국민적 열망을 대변한 피고인의 발언에 대해 시대적, 역사적 상황을 고려해 현명한 판단을 바란다”고 했다.&lt;br&gt;&lt;br&gt;최후 진술에 나선 안 전 의원은 “도둑을 잡아달라고 했는데, 도둑을 잡지 못하고, 잡아달라고 한 사람을 잡겠다는 건 불의라고 생각한다”며 “검찰은 저를 기소하기에 앞서 왜 은닉재산을 수사하지 않았는지에 대한 해명부터 해야한다”고 했다. 안 전 의원은 “만약 검찰이 최순실의 해외 은닉재산을 제대로 조사해 환수했으면 오늘 이 재판은 없었을 것”이라며 “(당시 발언들은)제보나 언론에 근거했고, 개인 비방이 아닌 국민적 알권리와 검찰 수사를 촉구하기 위한 것”이었다고 했다. 안 전 의원은 “제 개인적 추론과 의혹 제기임을 밝힌 내용이 대부분이지만, 확정적 표현이 있었다고 하더라도 방송이란 환경상 부적절하거나 과장된 표현이 있었을 수도 있다는 것을 양해해주기 바란다”며 “제가 만약 유죄가 된다면 국정농단의 진실을 밝히기 위해 앞장서 온 한 정치인에 거짓말쟁이 프레임을 씌워서 아직도 반성하지 않는 최순실과 국정농단 세력에게 면죄부를 줄 것이 우려된다. 현명한 판단을 기대한다”고 했다.&lt;br&gt;&lt;br&gt;재판이 끝나자 방청석에서는 “(안 전 의원이)하는 말은 전부 다 거짓말”이라는 소리가 나왔다.&lt;br&gt;&lt;br&gt;한편, 안 전 의원에 대한 선고는 오는 3월 6일 진행된다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘압구정 롤스로이스男’ 마약 혐의 2심서 감형받았다, 왜?</title>
-      <link>https://www.chosun.com/national/national_general/2025/01/23/ILMWZYGR4RGNVNGBJNXXQNSTUQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/23/ILMWZYGR4RGNVNGBJNXXQNSTUQ/</guid>
-      <dc:creator>문지연 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 23 Jan 2025 07:56:46 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WDDNT6FMMNDKFJ4ABW23CCT6IE.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;향정신성의약품을 투약한 채 롤스로이스 차량을 몰다 행인을 치어 중상을 입힌 신씨가 2023년 8월 11일 오전 서울 서초구 서울중앙지방법원에서 열린 영장실질심사를 마친 후 법정을 나서던 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;마약에 취한 채 롤스로이스 차량을 몰다 행인을 쳐 사망하게 한 이른바 ‘압구정 롤스로이스 사건’ 가해자 신모(30)씨가 마약류 상습 투약 혐의로 추가 기소된 사건 항소심에서 감형받았다.&lt;br&gt;&lt;br&gt;서울중앙지법 형사항소9부(부장판사 이성복)는 23일 마약류 관리에 관한 법률 위반(향정) 등 혐의로 기소된 신씨에게 징역 1년을 선고하고 약물 중독 치료프로그램 40시간 이수와 추징금 납부를 명령했다. 앞서 징역 2년을 선고한 1심 판결보다 줄어든 형량이다.&lt;br&gt;&lt;br&gt;재판부는 “동종 범행으로 집행유예 처벌 전력이 있음에도 범행을 저질렀고 타인에게까지 행사해 중독 정도가 매우 심각한 것으로 보인다”면서도 “다만 범행을 인정·반성하고 있고 판결이 확정된 죄와의 형평성을 고려해 원심의 형을 낮춘다”고 설명했다.&lt;br&gt;&lt;br&gt;신씨 측은 지난달 결심공판에서 위험운전치사 혐의로 대법원에서 확정받은 징역 10년형이 이미 과도하다며 선처를 호소한 바 있다. 신씨 변호인은 “이미 중형을 선고받은 마당에 이 사건 원심 재판부에서 ‘유사 사건에 비해 훨씬 더 형이 세다고 느낄 수 있다’는 얘기를 듣고 신씨는 심한 절망감에 빠졌다”고 말했었다.&lt;br&gt;&lt;br&gt;신씨는 2023년 8월 서울 강남구 신사동 압구정역 인근에서 롤스로이스 스포츠유틸리티(SUV) 차량을 몰다 인도로 돌진해 20대 여성 행인 한 명을 들이받고 별다른 조치 없이 현장을 떠났다. 피해자는 양다리가 골절되고 머리와 복부를 크게 다쳐 뇌사 상태에 빠졌다가 4개월 만에 사망했다.&lt;br&gt;&lt;br&gt;당시 신씨는 강남의 한 성형외과에서 향정신성의약품인 미다졸람과 디아제팜을 투약하고 운전이 곤란한 상태에서 운전대를 잡은 것으로 파악됐다. 사고 직후 실시한 간이시약 검사에서도 케타민 성분이 검출됐고, 국립과학수사연구원 정밀검사 결과 총 7종의 향정신성의약품 성분이 나왔다.&lt;br&gt;&lt;br&gt;이후 수사기관은 조사 도중 신씨의 프로포폴 등 마약류 상습 투약 혐의점을 발견했다. 신씨는 2022년 6월부터 이듬해 8월까지 14개 병원을 옮겨 다니는 일명 ‘병원 쇼핑’ 방식으로 프로포폴 등 수면마취제를 상습 투약했고, 이 과정에서 타인 명의를 도용하기도 한 것으로 드러났다.&lt;br&gt;&lt;br&gt;위험운전치사 혐의에 대해서는 1심에서 징역 20년을 선고받았으나 신씨는 이에 불복해 항소했다. 이어진 2심에서 도주 혐의가 소명되지 않아 징역 10년으로 감형받았고 그 후 대법원에서 형량이 확정됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>한밤 길거리 21㎝ 흉기 들고 활보한 남성… 14시간만에 체포</title>
-      <link>https://www.chosun.com/national/national_general/2025/01/23/AIUMHBEQTBE75BIEADA6FKZ6UY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/23/AIUMHBEQTBE75BIEADA6FKZ6UY/</guid>
-      <dc:creator>박선민 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 23 Jan 2025 07:50:39 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MX4D6PKKMVABLB3K56AMDYAG4M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;남성이 흉기를 소지한 채 거리를 배회하다 경찰에 14시간만에 체포됐다. /경찰청 유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한밤 흉기를 들고 길거리를 배회하던 50대 남성이 14시간만에 경찰에 붙잡힌 사실이 뒤늦게 알려졌다. &lt;br&gt;&lt;br&gt;23일 경기북부경찰청에 따르면, 이 같은 일은 작년 11월 14일 경기도 고양시 일산서구 대화동에서 벌어졌다. 경찰은 이날 오전 12시 20분쯤 한 행인이 “칼을 들고 다니는 사람이 있다”는 신고를 받고 긴급 출동에 나섰다. &lt;br&gt;&lt;br&gt;다만 출동 직후에는 경찰이 신고지 주변을 면밀히 수색했음에도 용의자를 바로 찾지는 못했다. 이에 주간 근무팀이 야간 근무팀이 보고한 용의자의 인상착의를 토대로 재차 수색을 이어갔고, 주간팀은 순찰차 4대로 주변 지역을 수색했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/I2TO5NEOAVAKPB5PW4A2BJQTHQ.png"&gt;&lt;figcaption&gt;&lt;small&gt;남성이 늦은 밤 흉기를 든 채 거리를 배회하고 있다. /경찰청 유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이후 오후 2시쯤 경찰은 인근 편의점 벤치에서 용의자 추정 인물을 발견했다. ’60대 이상의 남성' ‘검정색 자켓 착용’ ‘통통한 체격’ 등의 인상착의가 맞아 떨어졌다고 한다. 경찰이 동일 인물이 맞는다고 판단해 범행을 추궁하며 신체를 수색한 결과, 실제로 용의자 옷 주머니에서 21㎝ 길이의 흉기가 발견됐다. &lt;br&gt;&lt;br&gt;경찰은 약 14시간의 수색 끝에 폭력행위 등 처벌에 관한 법률(우범자) 혐의로 남성을 현행범 체포했다. 남성은 경찰에 “지인에게 폭행을 당해 보복할 목적으로 칼을 소지하고 다녔다”고 진술했다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>20년 넘게 장애인 도운 40대 여성, 4명에 새 삶 주고 하늘로</title>
-      <link>https://www.chosun.com/national/national_general/2025/01/23/J6BOESRZQRFW3MVA7A7GRWVU64/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/23/J6BOESRZQRFW3MVA7A7GRWVU64/</guid>
-      <dc:creator>정아임 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 23 Jan 2025 07:48:37 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/O7QBKT2XLJEHHHOMBWL2EYJ4RM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;고(故) 주혜련씨. /한국장기조직기증원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;장애인복지시설에서 20년간 사회복지사로 일하며 장애인들을 도운 40대 여성이 뇌사 장기기증으로 4명에게 생명을 나눠주고 하늘로 떠났다.&lt;br&gt;&lt;br&gt;23일 한국장기조직기증원은 작년 10월 아주대병원에서 주혜련(41)씨가 뇌사상태에서 4명에게 심장과 간, 좌우 신장을 기증하고 숨졌다고 밝혔다.&lt;br&gt;&lt;br&gt;경기 부천의 장애인복지시설에서 지적 장애인의 자립을 도와주는 사회복지사로 20년 넘게 근무한 주씨는 작년 9월 주차장에서 의식을 잃고 쓰러졌다. 119를 통해 병원으로 이송됐으나, 의식을 회복하지 못해 뇌사 상태가 됐다.&lt;br&gt;&lt;br&gt;주씨는 20세 때 이미 동생과 함께 장기기증 희망 등록을 한 상태였다. 가족은 사회복지사로 어려운 이들을 위해 살아온 주씨의 마음을 마지막까지 지킬 수 있게 고인의 뜻에 따라 기증에 동의했다.&lt;br&gt;&lt;br&gt;평소 주씨는 조용하고 차분한 성격으로 늘 남을 더 배려하는 사람이었으며, 근무하는 날이 아니어도 도움이 필요하면 나서서 일을 했다고 한다. 2018년에는 부천시장으로부터 시민 복지 증진 관련 공로 표창장을 받기도 했다.&lt;br&gt;&lt;br&gt;주씨의 어머니 정미숙 씨는 “엄마 품으로 와줘서 고맙고 고생 많았다”며 “다음 생에도 꼭 엄마 딸로, 엄마 품으로 와달라”고 전했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>서울시, 사회복무요원 7명 고발 “근무 태만”</title>
-      <link>https://www.chosun.com/national/national_general/2025/01/23/7F5E3BVWTZFMPJKJPCHOAKCMWQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/23/7F5E3BVWTZFMPJKJPCHOAKCMWQ/</guid>
-      <dc:creator>박진성 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 23 Jan 2025 07:47:47 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MQ5SARWGRNBBNMQWMVFSJTH364.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;지난 2022년 10월 그룹 '위너(WINNER)' 송민호가 공연 중인 모습/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울시가 관내 사회복무요원 중 복무관리 규정을 위반한 7명을 경찰에 고발했다고 23일 밝혔다.&lt;br&gt;&lt;br&gt;서울시는 그룹 ‘위너’ 송민호의 사회복무요원 근무 태만 의혹 논란이 일자 지난달 26일부터 이달 10일까지 서울시와 산하 복무기관 40곳, 389개 근무지에 소속된 사회복무요원 1519명을 대상으로 전수조사를 진행했다.&lt;br&gt;&lt;br&gt;무단결근, 지각, 조퇴 등 근무 규정 위반과 휴가 사용 규정 준수 여부 등을 중점적으로 점검했다.&lt;br&gt;&lt;br&gt;전수 조사 결과 총 10명이 무단결근, 지각·조퇴, 근무기강 문란 등 복무관리 규정을 위반해 경고 조치됐다.&lt;br&gt;&lt;br&gt;이중 7명은 복무이탈 외에도 경고 누적, 병역법 위반 등의 사유로 경찰에 고발됐다.&lt;br&gt;&lt;br&gt;이들은 복무 기간이 연장됐다. 사회복무요원 복무관리 규정에 따르면 무단결근은 이탈 일수의 5배수 연장, 무단지각·조퇴는 1회당 5일 연장, 근무기강 문란자는 1회 경고 시마다 5일 연장해서 복무하게 돼있다.&lt;br&gt;&lt;br&gt;서울시는 이번 전수조사를 시작으로 산하 사업소 담당자 의견 청취를 위한 간담회를 열어 제도 개선이 필요한 의견을 수렴한 뒤 병무청에 건의할 예정이다.&lt;br&gt;&lt;br&gt;또한 서울시가 직접 관리하는 사회복무요원 근무지 3곳에 대해서는 전자출퇴근시스템(단말기)을 시범 도입해 복무 관리를 강화한다.&lt;br&gt;&lt;br&gt;김명오 서울시 비상기획관은 “병역의무 공정성을 높이기 위해 강화된 복무 관리 방안을 마련하겠다”며 “일부의 복무 태만으로 성실하게 근무하는 사회복무요원들이 박탈감을 갖지 않도록 체계적으로 관리하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>설 연휴 병의원·약국 이용 때 본인 부담 진료비 30∼50％ 더 낸다</title>
@@ -968,15 +977,6 @@
         <media:description type="plain">[서울=뉴시스] 정병혁 기자 = 이진숙 방송통신위원장이 23일 오전 서울 종로구 헌법재판소 대심판정에서 열린 탄핵심판 선고에 출석하고 있다.(공동취재) 2025.01.23. photo@newsis.com</media:description>
         <media:credit role="author" scheme="urn:ebu"/>
       </media:content>
-    </item>
-    <item>
-      <title>홍콩반점 급습한 백종원 “이건 우리 짬뽕 아니다”...무슨 일?</title>
-      <link>https://www.chosun.com/national/national_general/2025/01/23/6OQ6DWNEFNBO3C4N5NQ2RPLQVY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/23/6OQ6DWNEFNBO3C4N5NQ2RPLQVY/</guid>
-      <dc:creator>정아임 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 23 Jan 2025 02:31:24 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OZLMCIA27VHZND6BK7XEXLICPQ.png"&gt;&lt;figcaption&gt;&lt;small&gt;백종원 더본코리아 대표가 자사 프랜차이즈 브랜드 ‘홍콩반점0410’ 한 매장을 방문해 짬뽕을 맛보고 있다./유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;백종원 더본코리아 대표가 자사 프랜차이즈 브랜드 ‘홍콩반점0410′ 매장을 기습 방문해 매뉴얼과 다른 방법으로 조리한 음식을 적발했다. 그는 한 매장의 짬뽕을 맛본 뒤 “이건 우리 짬뽕이 아니다”라고 평가했다.&lt;br&gt;&lt;br&gt;22일 백 대표가 운영하는 유튜브 채널에는 ‘짬뽕 점검하러 다녀왔습니다’라는 제목의 영상이 올라왔다. 이 영상에는 백 대표가 ‘홍콩반점0410′의 매장을 무작위로 방문해 음식을 시식한 후 평가하는 내용이 담겼다.&lt;br&gt;&lt;br&gt;제대로 된 평가를 위해 제작진은 먼저 카메라를 숨기고 매장에 가 백 대표 없이 음식을 주문하고 이후 백 대표가 들어가 음식을 맛보기로 했다. 카메라를 들고 백 대표와 제작진이 매장을 방문할 경우, 이를 미리 인지해 특정한 사람에 대한 음식을 준비해 완벽한 급습이 될 수 없다고 판단해서다.&lt;br&gt;&lt;br&gt;백 대표는 첫 번째 방문한 매장에서 짬뽕, 짜장면, 탕수육을 주문했다. 짜장면을 맛본 그는 “불맛이 좋다”고 칭찬했다. 탕수육에 대해서는 “1분 정도 더 튀겨야 했다”며 “덜 익었다는 게 아니라 바삭함이 약간 약하다”며 아쉬움을 드러냈지만 만족해했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/34CPQ3ZFIRH3JBWXBOGPEMS47I.png"&gt;&lt;figcaption&gt;&lt;small&gt;백종원 더본코리아 대표가 첫 번째 짬뽕을 맛본 후 "이건 우리 짬뽕이 아니다"라고 평했다./유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;문제는 짬뽕이었다. 백 대표는 “원래 이거보다 채소 더 많이 들어가야 한다. 불향이 하나도 안 난다. 너무 평범하다. 이건 서비스 짬뽕 국물 같다. 내 거를 내가 디스하고 있다”며 “이건 우리 짬뽕이 아니다”라고 평가했다.&lt;br&gt;&lt;br&gt;결국 그는 주방을 찾아가 짬뽕밥 1개와 짬뽕 2개를 다시 주문했다. 그는 “다시 주문해 나온 음식이 맛 다르고, 양도 제대로 나오고, 불향까지 난다면 레시피를 알고 있으면서 안 한 것”이라며 “그런 느슨해진 모습이 보인다면 배신감이 들 것 같다”고 말했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YML5AFBBUFHAXNPO4WGFNCIZ5A.png"&gt;&lt;figcaption&gt;&lt;small&gt;백종원 더본코리아 대표가 새로 주문한 짬뽕을 먹고 긍정적인 평가하고 있다./유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;짬뽕이 새로 나오자 백 대표는 “이건 뽀얀 곰탕 국물 같은 색이 난다. 불 냄새도 난다. 건더기 양도 다르다. 맛도 이렇게 할 수 있는데 안 한 것”이라고 했다. 그러면서 “진짜 이거는 짬뽕 맛집”이라고 감탄했다.&lt;br&gt;&lt;br&gt;다시 주방에 들어간 백종원은 “할 수 있으면서 그동안 왜 이렇게 안 한 거냐”며 “아까 나온 짬뽕이랑 지금 나온 거랑 직접 먹어보고 비교해 봐라”고 했다. 그러면서 “한 달만 이렇게 딱 만들어서 팔면 손님들이 감동할 것”이라고 젊은 직원들을 타이르며 “아이스크림이라도 사 먹어라”고 용돈을 주고 떠났다.&lt;br&gt;&lt;br&gt;이후 더본코리아 본사 직원이 해당 매장에 찾아가 재교육을 진행하는 모습이 영상에 담겼다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>1인가구 많은 서울, 車 등록대수 전국 유일 감소</title>
