@@ -13,6 +13,53 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>법원, 尹대통령 구속 연장 재신청도 불허…검찰, 이르면 26일 기소할듯</title>
+      <link>https://www.chosun.com/national/court_law/2025/01/25/JT423V4GS5BMHECPWCS7NDEO7U/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/01/25/JT423V4GS5BMHECPWCS7NDEO7U/</guid>
+      <dc:creator>유희곤 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 25 Jan 2025 11:58:20 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3U7VO5PE77LJD2CVY7G36YQVVM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령이 지난 23일 서울 종로구 헌법재판소에서 열린 탄핵심판 4차 변론기일에 출석해 있다. /사진공동취재단&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘12·3 비상계엄’ 사태를 수사 중인 검찰 특별수사본부(본부장 박세현 서울고검장)는 25일 윤 대통령 구속 기간 연장 재신청을 법원이 다시 불허했다고 밝혔다.&lt;br&gt;&lt;br&gt;검찰 관계자는 “구속 기간 연장 허가가 불허됐고, 사유는 전날과 비슷한 취지”라고 했다. 심사는 당직인 최민혜 서울중앙지법 형사26단독 판사가 했다.&lt;br&gt;&lt;br&gt;이에 따라 검찰은 윤 대통령에 대한 조사 없이 1차 구속 기한인 오는 27일 전에 내란 및 직권남용 혐의로 윤 대통령을 구속 기소할 것으로 전망된다.&lt;br&gt;&lt;br&gt;앞서 검찰은 지난 23일 고위공직자범죄수사처(공수처)에서 윤 대통령 사건을 넘겨받고 서울중앙지법에 윤 대통령 구속 기간을 다음 달 6일까지 연장해달라고 요청했다. 형사소송법상 구속 피의자의 구속 기한은 검찰 단계에서 최대 20일이다.&lt;br&gt;&lt;br&gt;그러나 김석범 서울중앙지법 영장전담 부장판사는 검찰 신청을 기각했다. “공수처법은 공수처가 수사를 종결해 검찰청에 공소 제기를 요구한 사건에 대해 검찰청 검사가 신속하게 기소 여부를 결정하라고 하고 있을 뿐 어떤 추가적 수사가 가능한지에 관한 명문 규정을 두지 않고 있다”면서 “공수처로부터 사건을 송부받은 검찰청 검사가 구속 기간 연장에 의한 구속 수사와 같은 적극적‧전면적 강제수사를 할 수 있는지에 관해서는 법적 근거나 상당성이 부족하다”고 했다.&lt;br&gt;&lt;br&gt;검찰은 법원 결정이 나온 지 4시간 만인 이날 오전 2시쯤에 윤 대통령 구속 기한 연장을 재신청했지만 결과는 같았다.&lt;br&gt;&lt;br&gt;검찰 관계자는 “추후 진행되는 사항이 있으면 바로 공지하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/HEWBA4G5CJDHNFL2Z5W24XBBJI.JPG?width=4033&amp;height=2269&amp;auth=a55e21ad760a5d788341298be7e439456d388f95f3e8051a5f0bec4342a15022&amp;smart=true" type="image/jpeg" height="2269" width="4033">
+        <media:description type="plain">윤석열 대통령이 23일 오후 서울 종로구 헌법재판소에서 열린 탄핵심판 4차 변론기일에 출석해 있다. 2025.1.23/뉴스1 ⓒ News1 사진공동취재단</media:description>
+        <media:credit role="author" scheme="urn:ebu">뉴스1 ⓒ News1 사진공동취재단</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>尹측 “검찰, 대통령 즉시 석방해야…공수처 위법 수사 책임 물을 것”</title>
+      <link>https://www.chosun.com/national/court_law/2025/01/25/WVOQU4KIOZBDXH7EYEG5VHZ5GU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/01/25/WVOQU4KIOZBDXH7EYEG5VHZ5GU/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 25 Jan 2025 12:54:54 +0000</pubDate>
+      <content:encoded>서울중앙지법이 윤석열 대통령의 구속 기간 연장을 두 차례에 걸쳐 불허한 데 대해, 윤 대통령 변호인단은 “검찰의 선택은 대통령의 즉시 석방뿐”이라며 “공수처의 위법 수사에 대한 책임을 묻겠다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MDQD22QBZ4GL6BP3LKS4HJGWUA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령 측 윤갑근 변호사가 25일 서울 서초구 스페이스쉐어 강남역센터에서 검찰의 구속영장 연장 재신청 관련 입장 발표 기자회견을 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;변호인단은 25일 오후 이 같은 입장을 밝혔다. 변호인단은 “서울중앙지검이 어제와 오늘 연이어 구속 기간 연장을 신청한 것은 고위공직자범죄수사처(공수처)의 대통령 내란 혐의에 대한 수사가 기소 여부를 판단할 수 없을 정도로 미진해 추가 수사가 필요하다는 것을 자인한 것”이라며 “그런데도 검찰이 구속 기소를 강행한다면 이는 검찰 스스로 실체적 진실 발견의 의무를 포기하고 최고 수사기관으로서 검찰의 존재 이유를 스스로 부정하는 행위”라고 했다.&lt;br&gt;&lt;br&gt;변호인단은 “특히 공수처는 자신들이 약 1만 쪽의 수사기록을 검찰에 송부하였다고 발표하였는데, 검찰은 1월 23일 기록을 송부 받아 바로 구속 기간 연장 신청을 하였고, 그 신청이 불허되자 곧바로 재신청을 하였다”며 “공수처의 위법 수사와 미진한 수사, 게다가 그마저도 검토할 시간이 없었음에도 불구하고 검찰이 구속기소라는 무리한 결정을 한다면, 수사 과정에서의 온갖 위법으로 증거능력이 모두 상실될 것이며, 공소유지 자체가 어려울 것”이라고 했다. 이어 “검찰이 이러한 점까지 무시하고 기소를 강행한다면 그 이후 벌어질 모든 사태의 책임 또한 공수처와 함께 지게 될 것임을 명심해야 한다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NA7H2KLU7NLA3NN6FL2OMZEWS4.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;이재승 고위공직자범죄수사처(공수처) 차장이 23일 경기 과천정부청사 공수처에서 브리핑을 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;공수처를 향해 변호인단은 “기관의 위상에만 골몰하여 불법 체포 영장을 발부받아 위법 수사를 해왔으며, 구속 영장 발부 이후에도 강제구인과 접견제한 등 온갖 불법행위를 자행해왔다”고 했다. 그러면서 “검찰이 이러한 공수처의 불법행위에 눈을 감고 방관하는 것은 검찰의 본령인 인권옹호기관으로서의 책무를 방기하는 행위”라고 했다.&lt;br&gt;&lt;br&gt;변호인단 소속 윤갑근 변호사는 앞서 이날 기자회견을 열고 “검찰은 윤 대통령을 즉각 석방하고, 위법 수사·군사기밀 유출·공문서 위조 등 공수처의 불법 행위를 철저히 수사하라”고 주장한 바 있다.&lt;br&gt;&lt;br&gt;검찰은 지난 23일 공수처에서 윤 대통령 사건을 넘겨받고 서울중앙지법에 윤 대통령 구속 기간을 다음 달 6일까지 연장해달라고 요청했다. 형사소송법상 구속 피의자의 구속 기한은 검찰 단계에서 최대 20일이다. &lt;br&gt;&lt;br&gt;그러나 서울중앙지법 김석범 영장전담 부장판사는 검찰 신청을 기각했다. “공수처법은 공수처가 수사를 종결해 검찰청에 공소 제기를 요구한 사건에 대해 검찰청 검사가 신속하게 기소 여부를 결정하라고 하고 있을 뿐 어떤 추가적 수사가 가능한지에 관한 명문 규정을 두지 않고 있다”면서 “공수처로부터 사건을 송부받은 검찰청 검사가 구속 기간 연장에 의한 구속 수사와 같은 적극적‧전면적 강제수사를 할 수 있는지에 관해서는 법적 근거나 상당성이 부족하다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KLAO4DXBVZMV3KRH3CIS4AQHVE.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 서울중앙지방법원 모습./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰은 법원 결정이 나온 지 4시간 만인 이날 오전 2시쯤에 윤 대통령 구속 기한 연장을 재신청했지만, 당직 법관인 형사26단독 최민혜 판사의 판단도 같았다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[속보] 법원, 서부지법 난동 ‘투블럭 男' 구속…“도망 염려”</title>
+      <link>https://www.chosun.com/national/incident/2025/01/25/46TK7KW5R5AH5J5B5FLZLGBD7M/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/01/25/46TK7KW5R5AH5J5B5FLZLGBD7M/</guid>
+      <dc:creator>안준현 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 25 Jan 2025 12:20:18 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZD6GLCVDMNLXUORNGRRESUTUS4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;25일 구속된 A씨가 서울서부지법 내에 불이 붙은 종이를 던지는 모습 /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 19일 서울서부지법 난동 당시 방화를 시도한 혐의를 받는 10대 남성 A(19)씨가 구속됐다.&lt;br&gt;&lt;br&gt;25일 서울서부지법 강영기 판사는 “A씨가 도망할 염려가 있고, 소년으로서 구속하여야 할 부득이한 사유가 있다”며 구속영장을 발부했다. A씨에 대한 영장실질심사(구속 전 피의자 심문)가 시작된 지 6시간 만이다.&lt;br&gt;&lt;br&gt;특이한 머리 스타일로 ‘투블럭 남’으로 불린 A씨는 지난 19일 서울 마포구 서울서부지법 건물 내부에 깨진 유리창 너머로 종이에 불을 붙여 던지는 모습이 포착됐다. 작은 노란색 통을 들고 있던 다른 남성과는 ‘기름이 나오느냐’는 취지의 대화를 하는 장면도 있다. 서울경찰청 형사기동대는 지난 22일 A씨를 특수공무집행방해 등 혐의로 긴급체포한 뒤, 24일 A씨에 대해 구속영장을 신청했다. &lt;br&gt;&lt;br&gt;이날 법원은 A씨와 함께 서울서부지법 난동 사건과 연관된 다른 피의자 1명도 함께 구속했다.&lt;br&gt;&lt;br&gt;온라인 커뮤니티 등에선 2006년생인 A씨가 어린 시절부터 평소 극우 성향의 교회를 다니는 신자였다는 주장이 제기됐다.&lt;br&gt;&lt;br&gt;법조계에선 “방화미수죄가 적용된다면 최하 징역 1년 6개월이 선고되겠지만, A씨의 행위로 법원 내에 실제로 불이 붙었는지에 대한 입증이 반드시 필요하다”고 분석했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/ZD6GLCVDMNLXUORNGRRESUTUS4.jpg?width=720&amp;height=455&amp;auth=39d14653def60dff13c74f3de0ecfce6283eec50813c5eeb8f741e6ccef45f30&amp;smart=true" type="image/jpeg" height="455" width="720">
+        <media:description type="plain">투블럭</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>“파면” vs “석방” 설 연휴 첫날 尹 대통령 탄핵 찬반 집회</title>
+      <link>https://www.chosun.com/national/incident/2025/01/25/5P3YRHEU6ZGG3G4F4FSRL4YSC4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/01/25/5P3YRHEU6ZGG3G4F4FSRL4YSC4/</guid>
+      <dc:creator>안준현 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 25 Jan 2025 10:13:03 +0000</pubDate>
+      <content:encoded>설 연휴 첫날인 25일 서울 도심 곳곳에서 윤석열 대통령 탄핵 찬반 단체들의 집회가 이어졌다. 이들은 “대통령 파면”과 “대통령 석방”으로 나뉘어 집회를 열었다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2QI2ORZBOPFTA7EQ6XH7RZOAB4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;설 연휴인 25일 오후 서울 도심 경복궁과 광화문 일대에서는 윤석열 대통령 탄핵을 촉구하거나 반대하는 대규모 집회가 열렸다. 사진은 경복궁 4번출구 인근에서 열린 ‘윤석열 대통령 탄핵 촉구 집회’(위)와 동화면세점 앞에서 열린 '윤석열 대통령 탄핵 반대 집회'(아래). /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;친윤 집회를 이어오던 전광훈 사랑제일교회 목사가 주축인 대한민국바로세우기운동본부는 이날 오후 1시쯤 서울 종로구 광화문광장 일대에서 ‘윤석열 대통령 탄핵반대 국민대회’를 열었다. 경찰 비공식 추산 3만여 명이 모였다. 이들은 무대 위에서 “대통령 석방” “이재명 구속”을 주장했고, 태극기와 성조기를 들어 호응했다.&lt;br&gt;&lt;br&gt;서울 영등포구 국회의사당 앞에선 개신교계 단체 세이브코리아가 ‘국가비상기도회’를 열었다. 경찰 추산 6000명이 모였는데, 이 자리에는 한국사 강사 전한길(55)씨가 단상에 올랐다. 전씨는 “집회에 늦게 와서 죄송하다”며 “계엄령이 아니라 계몽(啓蒙)령이 맞는다”고 주장했다. 전씨는 “나는 노사모 출신”이라며 “대통령 탄핵에 반대한다”고 했다. 전씨는 본인 유튜브에 “대통령이 주장한 부정선거 의혹도 타당하다고 생각한다”는 영상을 올렸다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HORHK43V5BCWFIW2A5YBS7YOUM.png"&gt;&lt;figcaption&gt;&lt;small&gt;한국사 강사 전한길씨가 25일 오후 서울 영등포구 국회의사당 앞에서 열린 대통령 탄핵 반대 집회에 나와 연설을 하고 있다. /유튜브 영상 캡쳐&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 대통령에 대한 파면 인용을 찬성하는 윤석열 즉각퇴진·사회대개혁 비상행동은 이날 오후 4시쯤 헌법재판소 인근인 경복궁역 4번 출구 앞에서 ‘8차 범시민 대행진’을 열었다. 경찰 비공식 추산 7000여 명이 모였다. 민주사회를위한변호사모임(민변) 사무총장 조지훈 변호사는 “조만간 헌법재판소가 윤석열 파면하고 법원은 중형을 선고하게 될 것”이라고 했다. ‘내란 종식’ ‘윤석열 파면’이 적힌 손팻말과 응원봉, 깃발을 든 참가자들은 “헌재는 내란수괴 윤석열을 파면하라”는 구호를 외쳤다. 이들은 집회 후 명동과 남대문, 시청 앞까지 행진했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/2QI2ORZBOPFTA7EQ6XH7RZOAB4.jpg?width=2000&amp;height=1600&amp;auth=df75f5add9e7f96800e412ab6a9406ee9d98bec60776c333d71ac5ecc7429dd3&amp;smart=true" type="image/jpeg" height="1600" width="2000">
+        <media:description type="plain">설 연휴인 25일 오후 서울 도심 경복궁과 광화문 일대에서는 윤석열 대통령 탄핵을 촉구하거나 반대하는 대규모 집회가 열렸다. 사진은 경복궁 4번출구 인근에서 열린 ‘윤석열 대통령 탄핵 촉구 집회’(위)와 동화면세점 앞에서 열린 '윤석열 대통령 탄핵 반대 집회'(아래). 2025.1.25/뉴스1 ⓒ News1 김성진 기자,이동해 기자</media:description>
+        <media:credit role="author" scheme="urn:ebu">뉴스1 ⓒ News1 김성진 기자,이동해 기자</media:credit>
+      </media:content>
+    </item>
+    <item>
       <title>친구 딸 성폭행해 4세 지능 만든 50대…피해자 사망에도 ‘징역 8년’</title>
       <link>https://www.chosun.com/national/national_general/2025/01/25/HVCKMSERCBFJVOKIJLKYP77OAM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/25/HVCKMSERCBFJVOKIJLKYP77OAM/</guid>
@@ -947,41 +994,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/55YHJQJNY7NTX3Q6Y5PFUDYGMU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 한 의과대학의 모습./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;교육부가 전국 40개 의대에 수업 복귀한 학생의 명단을 유포하거나, 수업에 참여하지 말 것을 강요·협박하는 등의 학습권 침해가 발생하는 경우 가해 학생들을 학칙에 따라 엄정 조치해달라고 당부했다.&lt;br&gt;&lt;br&gt;교육부는 24일 이 같이 밝히며 “피해 학생이 발생할 경우 해당 학생을 학교가 적극적으로 보호해달라고도 당부했다”고 했다.&lt;br&gt;&lt;br&gt;앞서 서울대 의대 본과 3·4학년 새 학기 강의가 시작되며, 첫날 70여 명의 학생이 강의실로 돌아온 것으로 알려지자 온라인 의사 커뮤니티에 이들의 신상을 공개한 명단이 돌았다. 다른 학교에서도 블랙리스트 유포로 복학을 포기한 학생이 나온 것으로 알려졌다. 교육부는 블랙리스트 사태와 관련해 22일 경찰청에 수사 의뢰를 했고, 경찰청은 “온라인상 집단 괴롭힘에 대해 계속 엄정하게 수사하겠다”고 했다.&lt;br&gt;&lt;br&gt;교육부는 수업 복귀에 어려움을 겪는 학생이 ‘의과대학 학생 보호·신고센터’를 적극 활용할 수 있도록 학생들에게 안내해달라고 각 학교에 요청했다. 신고는 전화(010-2042-6093/010-3632-6093)나 메일(&lt;a href="mailto:moemedi@korea.kr" target="_blank"&gt;moemedi@korea.kr&lt;/a&gt;)로 가능하다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>겨울철 부산서 열대 맹금류 ‘관수리' 발견…저체온증 치료 후 회복 중 </title>
-      <link>https://www.chosun.com/national/2025/01/24/6IFOSMIZTBAOTPSIYHSLL537ME/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2025/01/24/6IFOSMIZTBAOTPSIYHSLL537ME/</guid>
-      <dc:creator>박주영 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 24 Jan 2025 06:31:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/T4GV4KOKS5CRBOQRQVJLDILVJY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 해 12월 부산에서 길을 잃고 쓰러진 채 발견돼 부산 사하구 을숙도 부산시 야생동물치료센터에서 치료 후 회복 중인 맹금류 관수리./부산시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;동남아시아와 인도 등 열대지방에 주로 서식하는 맹금류인 ‘관수리’가 겨울철 부산에서 발견됐다.&lt;br&gt;&lt;br&gt;부산시 낙동강관리본부 낙동강하구에코센터는 “최근 길을 잃은 채 부산에서 발견된 희귀 맹금류 ‘관수리’의 자연 복귀를 추진한다”고 24일 밝혔다.&lt;br&gt;&lt;br&gt;‘관수리’는 동남아시아와 인도 등 더운 지방에 사는 중대형 맹금류다. 머리에 왕관을 쓰고 있는 듯한 독특한 깃을 가지고 있어 ‘관수리’로 불리며 날카로운 발톱과 강력한 부리로 뱀을 주로 사냥해 먹는다.&lt;br&gt;&lt;br&gt;낙동강하구에코센터 관계자는 “열대지방에 주로 서식하는 관수리가 추운 겨울 부산에서 발견된 사례는 매우 이례적”이라고 말했다.&lt;br&gt;&lt;br&gt;이 관수리는 지난해 12월 부산 연제구 거제동 부산교대 안에서 길을 잃은 채 쓰러져 있는 것을 한 시민이 발견해 신고, 사하구 을숙도 안 부산시 야생동물치료센터로 옮겨져 치료를 받고 회복 중이다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;야생동물치료센터 측은 “구조된 관수리는 구조 당시 체온이 낮아 야생동물 전용 입원실에서 24시간 집중 관리를 받았고, 현재 넓은 회복실로 옮겨져 비행 활동 준비를 하고 있다”고 말했다. 이 관수리는 발견 당시 몸길이 65cm, 날개 길이 1.5m였다.&lt;br&gt;&lt;br&gt;치료 후 회복 중인 현재 관수리는 체중 1.5kg에 건강상태가 양호한 것으로 알려졌다. 시는 “날이 따뜻해지면 관수리를 원형 야외계류장으로 옮겨 비행 연습 등 야외 환경 적응을 진행할 것”이라며 “이후 봄이 오면 관수리를 자연으로 돌려보낼 계획으로 환경부와 함께 위성 항법 장치(GPS)를 부착해 이동 경로 모니터링 등 생태조사를 할 계획”이라고 말했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/V4EFW5HZ6NBAZE2QPRAT4LDUJM.jpg?width=3138&amp;height=1765&amp;auth=47ade23ca7909aa7f7251f03560e7af3fcb17af5ed3a6ef60b451fba3337c195&amp;smart=true" type="image/jpeg" height="1765" width="3138">
-        <media:description type="plain">지난 해 12월 부산에서 길을 잃고 쓰러진 채 발견돼 부산 사하구 을숙도 부산시 야생동물치료센터에서 치료 후 회복 중인 맹금류 관수리./부산시</media:description>
-        <media:credit role="author" scheme="urn:ebu"/>
-      </media:content>
-    </item>
-    <item>
-      <title>[단독] 與, 내년 의대 정원 결정할 ‘의료인력 추계기구’ 신설법 발의</title>
-      <link>https://www.chosun.com/national/welfare-medical/2025/01/24/KLP5Z362X5GSPOGMHWQPGZESPA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/01/24/KLP5Z362X5GSPOGMHWQPGZESPA/</guid>
-      <dc:creator>오유진 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 24 Jan 2025 06:00:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OZDPFCZSJB4HUBMXQ4JJDAPGVM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 20일 서울의 한 대학 병원 의료진의 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국민의힘이 2026년도 의대 정원을 조정할 수 있게 ‘의료 인력 수급 추계 기구’의 구성 방향을 담은 법안을 발의하기로 했다.&lt;br&gt;&lt;br&gt;24일 국회 보건복지위원회 소속 국민의힘 서명옥 의원은 ‘의료 인력 수급 추계 위원회’ 내 과반수를 의료 단체가 추천하도록 하고, 2026학년도 의대 정원을 결정하는 과정에서 추계 기구의 결정을 반영하도록 하는 내용 등을 담은 보건의료기본법 개정안을 발의할 예정이라고 밝혔다.&lt;br&gt;&lt;br&gt;앞서 여야는 지난 21일 국회 보건복지위원회 법안 심사 제1소위에서 의료 인력 적정 규모 추계를 위한 기구 신설을 골자로 한 3개 법안을 논의했다. 보건복지위원회에선 추후 의료계 의견을 반영해 다음 달 중순 공청회를 열어 법안을 계속 심사하기로 했다.&lt;br&gt;&lt;br&gt;대한의사협회는 국회 측에 “수급 추계 위원회의 과학적 추계를 통한 2026학년도 의대 정원 감원 조정 등의 대책 마련이 시급하다”며 “이를 위한 특례 조항 등이 개정안에 반드시 명시돼야 할 것”이라고 했다.&lt;br&gt;&lt;br&gt;이어 “(추계 과정에서) 정치적 요소가 개입될 여지를 원천적으로 차단해 완전한 독립성을 부여해야 한다”며 “정부 주도로 의사 결정이 되는 구조를 탈피해 전문가 중심의 논의와 결정이 이뤄질 수 있어야 한다”고 했다.&lt;br&gt;&lt;br&gt;서 의원은 “의사 인력 적정 규모를 추계할 때 의료 전문가들의 의견이 반영돼야 한다”며 “향후 공청회에서 이번 법안이 함께 논의돼 의료 인력 수급 추계 위원회 신설을 위한 법적 근거가 마련되길 바란다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>尹, 옥중 설인사 “국민 생각 많이 난다… 곁 지키지 못해 죄송”</title>
-      <link>https://www.chosun.com/national/2025/01/24/S7XORQ5L6VE5TIVV44OFXRKIKA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2025/01/24/S7XORQ5L6VE5TIVV44OFXRKIKA/</guid>
-      <dc:creator>김정환 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 24 Jan 2025 05:48:30 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GHLNBABO55IQRC55KWQXXT7OCA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령이 23일 서울 종로구 헌법재판소에서 열린 탄핵 심판 4차 변론에 출석해 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 대통령이 24일 “설날이 다가오니 국민 여러분 생각이 많이 난다”며 “여러분 곁을 지키며 살피고 도와드려야 하는데, 그러지 못해 안타깝고 죄송하다”고 했다.&lt;br&gt;&lt;br&gt;윤 대통령은 이날 설 인사 메시지를 페이스북에 올렸다. 윤 대통령은 “설 명절이 다가왔다”며 “을사년 새해는 작년보다 나은 한해가 되시길 바란다”고 했다. 윤 대통령은 “아무쪼록 주변의 어려운 분들 함께 챙기시면서, 모두가 따뜻하고 행복한 명절 보내시길 기원한다”고 했다.&lt;br&gt;&lt;br&gt;윤 대통령은 현재 서신 발신이 제한된 상태다. 고위공직자범죄수사처가 윤 대통령의 증거 인멸이 우려된다며 이 같은 조치를 취했다. 이 때문에 윤 대통령의 페이스북엔 이날 설 명절 메시지 하단에 ‘현재 윤석열 대통령의 서신 발신까지 제한된 상태여서, 변호인 구술을 통해 국민 여러분께 전하는 설날 인사이다’는 문구가 적혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/GHLNBABO55IQRC55KWQXXT7OCA.jpg?width=1662&amp;height=2334&amp;auth=cd9d4e2181c01acad2989cb23dedb0280f40548e4ed3725aadf831d037bfb9d7&amp;smart=true" type="image/jpeg" height="2334" width="1662">
-        <media:description type="plain">윤석열 대통령이 23일 서울 종로구 헌법재판소에서 열린 탄핵 심판 4차 변론에 출석해 있다./연합뉴스</media:description>
-        <media:credit role="author" scheme="urn:ebu">이지은</media:credit>
-      </media:content>
-    </item>
-    <item>
       <title>노홍철, 히말라야 등산하다 코피 흘리더니 쓰러졌다...”기억이 없다”</title>
       <link>https://www.chosun.com/national/people/2025/01/24/NY7NU57XTFHSVDOGHQIWNHGWOM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/people/2025/01/24/NY7NU57XTFHSVDOGHQIWNHGWOM/</guid>
@@ -1002,15 +1014,6 @@
       <description/>
       <pubDate>Fri, 24 Jan 2025 05:08:17 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WJNAIKTI3NJOBMSWN4542BM2X4.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;문형배 헌법재판소장 직무대행을 비롯한 헌법재판관들이 23일 서울 종로구 헌법재판소에서 열린 윤석열 대통령 탄핵심판 4차 변론에 자리하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최상목 대통령 권한대행이 마은혁 헌법재판소 재판관 후보자를 임명하지 않은 것이 위헌인지 여부를 헌법재판소가 다음달 3일 결정한다.&amp;nbsp;&amp;nbsp;&lt;br&gt;&lt;br&gt;헌재는 “헌재 재판관 임명권 불행사 부작위  위헌확인 헌법소원에 대한 선고를 다음달 3일 오후 2시에 한다”고 밝혔다. 쟁점은 최 대행이 국회가 선출한 헌재 재판관 후보자 3인을 임명하지 않는 것이 부작위(규범적으로 요구되는 일정한 행위를 하지 않음)여서 위헌인지 여부다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘마약혐의 송치’ 김나정 측 ”강제 투약 입증할 필리핀 사업가 조사 못해, 예상했던 일”</title>
-      <link>https://www.chosun.com/national/national_general/2025/01/24/E5TY76GT4VEOBGTOXR3M4DS55U/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/24/E5TY76GT4VEOBGTOXR3M4DS55U/</guid>
-      <dc:creator>이가영 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 24 Jan 2025 03:26:13 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5P4S646EE5FZ7FB3YEVUM2XOU4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;프리랜서 방송인 김나정(33). /인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;필리핀에서 마약을 투약했다는 글을 소셜미디어에 올렸던 프리랜서 방송인 김나정(33)이 검찰에 송치됐다. 김나정 측은 “강제성을 입증해 줄 인물을 조사하지 못한 상황이었기에 예상했던 일”이라고 밝혔다.&lt;br&gt;&lt;br&gt;경기북부경찰청 마약수사계는 마약류 관리에 관한 법률 위반 혐의(필로폰, 합성대마 투약)로 김나정을 불구속 송치했다고 24일 밝혔다.&lt;br&gt;&lt;br&gt;김나정은 작년 11월 12일 필리핀 마닐라 출국 전 자신의 인스타그램에 “제가 필리핀에서 마약 투약한 것을 자수한다”며 “죽어서 갈 것 같아서 비행기를 못 타겠다”는 내용의 글을 올려 논란이 됐다. 김나정은 마닐라에서 여객기를 타고 인천공항으로 귀국하자마자 인천국제공항경찰대의 조사를 받았고, 사건은 주소지 등을 고려해 경기북부경찰청에서 조사해 왔다.&lt;br&gt;&lt;br&gt;김나정 측은 필리핀에서 만난 젊은 사업가 A씨에 의해 손이 묶이고 안대를 쓴 채로 강제로 마약류 연기를 흡입하게 됐다고 주장했다. 이 모습을 담은 영상 등 자료를 제출받은 경찰은 약 3개월 동안 분석 작업을 했다.&lt;br&gt;&lt;br&gt;경찰은 “해당 자료로 강제성을 입증하기에는 충분하지 않다고 판단했다”고 설명했다. 다만, 필리핀 현지 사업가에 대해 경찰청 본청 국제관련 사건 담당 부서에 수사를 요청했다고 밝혔다.&lt;br&gt;&lt;br&gt;이와 관련 김나정 측 법률대리인 김연기 변호사(법무법인 충정)는 24일 조선닷컴에 “강제로 마약을 투약 당하는 상황은 피해자가 직접 녹음이나 영상 녹화를 하기가 어렵다. 한다면 오히려 이상하다”며 “전후 상황을 토대로 판단할 수밖에 없는데, 강제 마약 투약을 한 것으로 의심되는 상대방을 조사하거나 주변 사람들을 조사하는 절차가 전혀 이뤄지지 않았다”고 했다. 이어 “이런 상황에서 검찰 송치는 예상했던 일이고, 김나정도 이해하고 있다”고 했다.&lt;br&gt;&lt;br&gt;김 변호사는 또 “김나정은 휴대전화를 임의로 제출했고, 집 압수수색도 이뤄졌지만 아무것도 나오지 않았다”며 “모발 검사에서도 처음으로 마약을 투약한 사실이 명백하게 밝혀졌다”고 했다. 모발의 경우 머리카락이 자라난 길이에 따라 1년 안팎까지 마약 투약 여부를 확인할 수 있는데, 김나정은 항상 긴 머리를 유지했고 탈색한 적도 없다는 것이다.&lt;br&gt;&lt;br&gt;김 변호사는 “김나정의 무혐의를 확신하며 검찰에서 사실관계를 다투도록 하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>곽종근 첫 발언은 ‘국회의원’ 아닌 ‘요원’ 이었다</title>
