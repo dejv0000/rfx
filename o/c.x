@@ -13,6 +13,42 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>무슨 원한 있길래… 이삿짐 챙기던 모녀에 흉기 휘두른 70대 구속</title>
+      <link>https://www.chosun.com/national/2025/01/25/5FJCGREVQRASZL56PXZNMKB5NU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2025/01/25/5FJCGREVQRASZL56PXZNMKB5NU/</guid>
+      <dc:creator>권광순 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 25 Jan 2025 07:57:37 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/L4GEXC5HOZAC5NA5TDDI7RQ23U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;평소 갈등 관계에 있던 이웃 모녀에게 흉기를 휘두른 70대가 구속됐다. 제주 서귀포경찰서는 특수상해 혐의로 70대 A씨를 25일 구속했다고 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 전날 오후 2시 21분쯤 거주지인 서귀포시 강정동 한 공동주택 아래층에 사는 60대 B씨와 B씨의 딸에게 흉기를 휘둘러 다치게 한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;A씨는 평소 B씨와 사이가 좋지 않았던 것으로 알려졌다. 경찰 조사 결과, 사건 당시 모녀가 이사하기 위해 지인과 함께 짐을 싸는 사이 침입해 주변에 있던 흉기를 들고 범행한 것으로 확인됐다.&lt;br&gt;&lt;br&gt;A씨는 현장에 있던 지인의 신고로 출동한 경찰에 현행범으로 체포됐다. 다행히 피해 모녀는 생명에는 이상이 없는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;제주지법은 이날 A씨에 대한 구속 전 피의자 심문(영장실질심사)을 열고 “도주와 증거인멸의 우려가 있다”며 구속영장을 발부했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[속보] 尹측 “검찰, 대통령 석방하고 공수처 불법 행위 수사하라”</title>
+      <link>https://www.chosun.com/national/court_law/2025/01/25/QTMT2MCVBJH73OFT26I3EF74JY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/01/25/QTMT2MCVBJH73OFT26I3EF74JY/</guid>
+      <dc:creator>유희곤 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 25 Jan 2025 07:41:31 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LULMVX4IWZNHTOM7T4IBYLLFBY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령 측 법률대리인인 윤갑근 변호사가 지난 23일 오후 서울 종로구 헌법재판소에서 열린 윤석열 대통령 탄핵심판 4차 변론기일에 참석하며 취재진의 질문에 답하고 있다. /사진공동취재단&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 대통령 측이 25일 “검찰은 윤 대통령을 즉각 석방하고, 위법 수사·군사기밀 유출·공문서 위조 등 공수처의 불법 행위를 철저히 수사하라”고 했다.&lt;br&gt;&lt;br&gt;윤 대통령 변호인단 소속인 윤갑근 변호사는 이날 서울 서초구 스페이스쉐어 강남역센터에서 기자회견을 열고 “검찰은 야당의 바지·하명수사기관으로 활약한 공수처의 위법 수사를 이어받지 말아야 한다”며 이같이 말했다.&lt;br&gt;&lt;br&gt;전날 법원은 검찰의 윤 대통령 구속 기한 연장 신청을 불허했다. 공수처법상 공수처가 기소 요구를 한 사건을 검찰이 보완 수사할 수 없다는 취지였다. 반면 검찰은 전례나 형사소송법상 보완수사를 할 수 있다며 4시간 만에 다시 윤 대통령 구속 기한 연장을 재신청하고 결과를 기다리고 있다. 법원이 다시 검찰 신청을 기각하면 검찰은 윤 대통령을 구속 기한인 오는 27일 전까지 기소하거나 석방해야 한다.&lt;br&gt;&lt;br&gt;이에 대해 윤 변호사는 검찰이 윤 대통령을 기소하지 말고 풀어줘야 한다고 한 것이다.&lt;br&gt;&lt;br&gt;윤 변호사는 “전날 밤 서울중앙지법이 검찰의 구속기간 연장 청구를 불허한 것은 그나마 우리 법원의 마지막 자존심이었다”고 평가했다. 법원이 공수처법 제26조에 의해 검찰은 공수처가 송부한 사건의 구속 기간 연장이나 추가 강제 수사를 할 수 없고, 공소제기 여부의 결정만 남아 있다고 했다며 “지금 검찰이 할 일은 전례도 찾기 힘든 구속영장 연장 재신청이 아니라 즉각 대통령을 석방하고 공수처의 내란죄, 군사기밀보호법 위반 등 불법행위에 대한 수사를 조속하고 엄정하게 하는 것”이라고 했다.&lt;br&gt;&lt;br&gt;윤 변호사는 ‘검찰 수사도 위법하다고 보냐’는 취재진 질문에 “법원의 전날 결정은 더 이상 강제수사를 할 수 없다고 해석된다”면서 “검찰이 윤 대통령을 즉각 석방하고 그 이후에 수사가 가능한지를 포함해 검토가 필요하다고 생각한다”고 했다.&lt;br&gt;&lt;br&gt;윤 대통령 측은 공수처가 직권남용의 ‘관련범죄’로서 윤 대통령의 내란죄를 수사하고, 법적 근거가 없는 공조수사본부를 구성해 경찰관 1200여 명과 윤 대통령을 체포한 점을 문제삼았다. 공수처가 대통령 관저 외곽을 경비하는 55경비단장 명의의 공문을 위조했다는 주장도 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“제주항공 사고 여객기, 양쪽 엔진서 ‘가창오리’ 흔적 발견”</title>
+      <link>https://www.chosun.com/national/transport-environment/2025/01/25/HZOCS2C4HVFCNNYIJLHAZK67QA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/01/25/HZOCS2C4HVFCNNYIJLHAZK67QA/</guid>
+      <dc:creator>윤상진 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 25 Jan 2025 07:10:10 +0000</pubDate>
+      <content:encoded>전남 무안공항에서 충돌 사고가 발생한 제주항공 사고기의 양쪽 엔진에서 철새인 가창오리의 깃털과 혈흔이 발견됐다는 국토부 조사 결과가 발표됐다. 사고기 블랙박스엔 이례적으로 마지막 4분간의 기록이 저장되지 않았는데, 엔진 2개가 모두 손상돼 전기 계통에 문제가 생긴 것이 아니냐는 지적이 제기됐었다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/A34R5GAQ3JN4RCFM66YZUZ7NP4.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;15일 오후 전남 무안국제공항 여객기 참사 현장에서 기체 꼬리 부분을 절단하기 위한 용접 작업이 진행되고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이번 사고를 조사하는 국토교통부 항공·철도 사고 조사 위원회(사조위)는 25일 제주항공 여객기 참사에 대한 첫 현장 조사 보고서를 발표했다. &lt;br&gt;&lt;br&gt;조사에 따르면, 사고기는 지난달 29일 오전 8시 54분 무안공항 관제탑과 교신을 시작해 착륙 허가를 받았다. 오전 8시 57분 무안공항 관제탑은 사고기에게 조류 충돌을 경고했고, 조종사들은 오전 8시 58분 11초에 ‘항공기 아래쪽에 조류가 있다’는 대화를 나눈 것으로 나타났다.&lt;br&gt;&lt;br&gt;곧이어 오전 8시 58분 50초부터 블랙박스의 비행 기록 장치(FDR)와 음성 기록 장치(CVR)의 기록이 동시에 중단됐다. FDR은 항공기의 속도·고도·엔진 상태 등 비행 데이터를, CVR은 조종실 내 대화 등 음향 정보를 기록하는 장치다. 본지 보도를 통해 알려진 대로 사고기 블랙박스엔 조종사의 메이데이 선언이 담기지 않은 것이다.&lt;br&gt;&lt;br&gt;착륙 과정에 있던 조종사들은 착륙을 포기하고 고도와 속도를 높여 다시 하늘로 올라가는 ‘복행’을 시작했고, 곧이어 오전 8시 58분 56초 ‘메이데이’를 선언했다. 블랙박스 기록이 남아있지 않기 때문에 이는 사조위가 관제 기록을 통해 추정한 시간이다. 이후 사고기는 약 4분간 활주로 좌측 상공을 비행하다가 랜딩 기어를 펼치지 못한 채 처음 착륙을 시도했던 방향 반대로 동체 착륙을 했다. 이어 항공기는 오전 9시 2분 57초에 활주로 바깥에 있는 로컬라이저(방위각 시설) 콘크리트 둔덕과 충돌했다.&lt;br&gt;&lt;br&gt;사고기 양쪽 엔진에선 ‘가창오리’의 깃털과 혈흔이 발견된 것으로 조사됐다. 가창오리는 몸길이 약 40㎝, 날개 길이는 21㎝의 겨울 철새다. 주로 시베리아 동부에서 번식해 한국과 일본, 중국 등지에서 겨울을 난다. 사고 발생 하루 이틀 전까지 수만 마리 규모의 가창오리 떼가 무안공항 인근에서 비행하는 모습이 목격된 것으로 알려졌다. &lt;br&gt;&lt;br&gt;사조위는 공항 감시 카메라(CCTV) 영상 분석을 통해 복행 중 사고기가 조류와 접촉하는 장면도 확인했다고 밝혔다. 다만 가창오리 외에도 다른 새들이 사고기와 부딪혔는지, 총 몇 마리와 충돌했는지 등에 대해선 추가 검사가 필요한 상황이다.&lt;br&gt;&lt;br&gt;전문가들은 항공기 엔진 2개가 모두 손상돼 전기 계통에 문제가 생겼고, 이 때문에 블랙박스에 정보를 보내는 송신 기능 역시 마비됐을 것으로 분석하고 있다. 보통 항공기에는 2개의 주력 엔진과 보조 동력 장치인 ‘APU’가 있다. 사고기는 블랙박스뿐 아니라 ADS-B(항공기 위치 탐지 시스템) 등 다른 장치도 비슷한 시간에 모두 작동이 멈춰 주력 엔진과 APU 모두 작동하지 않았을 수 있다는 지적이다. &lt;br&gt;&lt;br&gt;이번 조사 결과는 사고기 엔진을 비롯한 주요 부품 및 운항·정비 자료 등을 토대로 작성됐다. 사조위 측은 사고 원인을 밝힐 핵심 자료인 사고기 블랙박스와 관제탑과의 교신 기록에 대해선 “세부 분석과 검증에 추가적으로 수개월 이상의 시간이 필요하다”고 밝혔다. &lt;br&gt;&lt;br&gt;사조위는 이번 사고의 규모를 키웠다는 지적을 받는 무안공항 내 로컬라이저 둔덕에 대해서도 국내 기관에 별도 용역을 의뢰해 추가 조사하겠다는 입장이다. 무안공항 인근 조류 활동이 사고에 미친 영향도 함께 조사한다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>서부지법 난동 당시 방화 시도한 ‘투블럭男' 구속 기로  </title>
+      <link>https://www.chosun.com/national/incident/2025/01/25/EEOXMVXVDRCHLEAISRCYI43AZQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/01/25/EEOXMVXVDRCHLEAISRCYI43AZQ/</guid>
+      <dc:creator>안준현 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 25 Jan 2025 06:00:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZD6GLCVDMNLXUORNGRRESUTUS4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;19일 오전 서울 마포구 서울서부지법의 깨진 유리창 너머로 A씨가 불이 붙은 종이를 던지는 모습 /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 19일 법원의 윤석열 대통령 구속영장에 반발, 서울 마포구 서울서부지법 내에 들어가 방화를 시도한 혐의를 받는 10대 남성 A씨가 구속 기로에 섰다.&lt;br&gt;&lt;br&gt;서울서부지법은 25일 오후 3시 특수공무집행방해, 공동건조물침입, 현주건조물방화미수 혐의를 받는 A씨에 대한 영장실질심사(구속 전 피의자 심문)를 진행한다고 밝혔다.&lt;br&gt;&lt;br&gt;특이한 머리 스타일로 이른바 ‘투블럭 남’으로 불리던 A씨는 19일 서울서부지법 건물 내부에 깨진 유리창 너머로 종이에 불을 붙여 던지는 모습이 포착됐다. 작은 노란색 통을 들고 있던 다른 남성과는 ‘기름이 나오느냐’는 취지의 대화를 하는 장면도 있다.&lt;br&gt;&lt;br&gt;서울경찰청 형사기동대는 지난 22일 A씨를 특수공무집행방해 등 혐의로 긴급체포한 뒤, 전날인 지난 24일 A씨에 대해 구속영장을 신청했다. 온라인 커뮤니티 등에선 2006년생인 A씨가 어린 시절부터 평소 극우 성향의 교회를 다니는 신자였다는 주장이 제기됐다.&lt;br&gt;&lt;br&gt;법조계에선 “방화미수죄가 적용된다면 최하 징역 1년 6개월이 선고되겠지만, A씨의 행위로 법원 내에 실제로 불이 붙었는지에 대한 입증이 반드시 필요하다”고 분석했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>‘검찰 재신청’ 尹 구속 기한 연장 여부 오늘 결론날 듯</title>
       <link>https://www.chosun.com/national/court_law/2025/01/25/RXMUYACT4REHVMDETQ672PXRWM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/01/25/RXMUYACT4REHVMDETQ672PXRWM/</guid>
@@ -977,15 +1013,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5P4S646EE5FZ7FB3YEVUM2XOU4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;프리랜서 방송인 김나정(33). /인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;필리핀에서 마약을 투약했다는 글을 소셜미디어에 올렸던 프리랜서 방송인 김나정(33)이 검찰에 송치됐다. 김나정 측은 “강제성을 입증해 줄 인물을 조사하지 못한 상황이었기에 예상했던 일”이라고 밝혔다.&lt;br&gt;&lt;br&gt;경기북부경찰청 마약수사계는 마약류 관리에 관한 법률 위반 혐의(필로폰, 합성대마 투약)로 김나정을 불구속 송치했다고 24일 밝혔다.&lt;br&gt;&lt;br&gt;김나정은 작년 11월 12일 필리핀 마닐라 출국 전 자신의 인스타그램에 “제가 필리핀에서 마약 투약한 것을 자수한다”며 “죽어서 갈 것 같아서 비행기를 못 타겠다”는 내용의 글을 올려 논란이 됐다. 김나정은 마닐라에서 여객기를 타고 인천공항으로 귀국하자마자 인천국제공항경찰대의 조사를 받았고, 사건은 주소지 등을 고려해 경기북부경찰청에서 조사해 왔다.&lt;br&gt;&lt;br&gt;김나정 측은 필리핀에서 만난 젊은 사업가 A씨에 의해 손이 묶이고 안대를 쓴 채로 강제로 마약류 연기를 흡입하게 됐다고 주장했다. 이 모습을 담은 영상 등 자료를 제출받은 경찰은 약 3개월 동안 분석 작업을 했다.&lt;br&gt;&lt;br&gt;경찰은 “해당 자료로 강제성을 입증하기에는 충분하지 않다고 판단했다”고 설명했다. 다만, 필리핀 현지 사업가에 대해 경찰청 본청 국제관련 사건 담당 부서에 수사를 요청했다고 밝혔다.&lt;br&gt;&lt;br&gt;이와 관련 김나정 측 법률대리인 김연기 변호사(법무법인 충정)는 24일 조선닷컴에 “강제로 마약을 투약 당하는 상황은 피해자가 직접 녹음이나 영상 녹화를 하기가 어렵다. 한다면 오히려 이상하다”며 “전후 상황을 토대로 판단할 수밖에 없는데, 강제 마약 투약을 한 것으로 의심되는 상대방을 조사하거나 주변 사람들을 조사하는 절차가 전혀 이뤄지지 않았다”고 했다. 이어 “이런 상황에서 검찰 송치는 예상했던 일이고, 김나정도 이해하고 있다”고 했다.&lt;br&gt;&lt;br&gt;김 변호사는 또 “김나정은 휴대전화를 임의로 제출했고, 집 압수수색도 이뤄졌지만 아무것도 나오지 않았다”며 “모발 검사에서도 처음으로 마약을 투약한 사실이 명백하게 밝혀졌다”고 했다. 모발의 경우 머리카락이 자라난 길이에 따라 1년 안팎까지 마약 투약 여부를 확인할 수 있는데, 김나정은 항상 긴 머리를 유지했고 탈색한 적도 없다는 것이다.&lt;br&gt;&lt;br&gt;김 변호사는 “김나정의 무혐의를 확신하며 검찰에서 사실관계를 다투도록 하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>동거녀 살해 후 시멘트 부어 16년간 암매장한 50대 징역 14년</title>
-      <link>https://www.chosun.com/national/2025/01/24/T7ZOA4ZAQJAXVBR3AANAQSJFTI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2025/01/24/T7ZOA4ZAQJAXVBR3AANAQSJFTI/</guid>
-      <dc:creator>김주영 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 24 Jan 2025 04:47:20 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FYEJBFU5FD4NPSCRR3BVTNC6MI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;창원지법 통영지원 청사. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;동거녀를 살해하고 시신에 시멘트를 부어 자신의 집 옥상에 16년간 암매장한 50대에게 중형이 선고됐다.&lt;br&gt;&lt;br&gt;창원지법 통영지원 형사1부(재판장 김영석)는 살인 혐의를 받는 50대 A씨에게 징역 14년을 선고했다고 24일 밝혔다.&lt;br&gt;&lt;br&gt;법원은 또 마약류 관리에 관한 법률 위반(향정) 혐의로도 기소된 A씨에게 징역 2년 6개월을 선고했다. 40시간의 약물중독 재활교육 프로그램 이수도 명령했다.&lt;br&gt;&lt;br&gt;A씨는 지난 2008년 10월 경남 거제시 한 다세대주택에서 30대였던 동거녀 B씨를 살해하고, B씨의 시신을 여행용 가방에 담아 주거지 옥상에서 시멘트를 부어 묻은 혐의(살인 등)로 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;그는 범행 당시 B씨가 다른 이성을 만난 문제로 다투다가 격분해 B씨의 머리와 얼굴을 둔기로 폭행해 숨지게 한 뒤 시신을 여행용 가방에 담았다.&lt;br&gt;&lt;br&gt;시신이 든 가방을 베란다에 옮긴 A씨는 가방 주변에 벽돌을 쌓고 두께 10㎝가량의 시멘트를 붓고 굳혀 정상적인 집 구조물인 것처럼 위장했다.&lt;br&gt;&lt;br&gt;이후 마약 투약 혐의로 구속된 2016년까지 8년간 범행을 저지른 집에서 지냈다. 마약 때문에 1년간 징역을 산 그는 출소하자마자 양산으로 거주지를 옮겼다.&lt;br&gt;&lt;br&gt;A씨의 범행은 지난해 8월쯤 집주인이 누수공사를 위해 부른 작업자가 베란다 내 콘크리트 구조물을 부수던 중 숨겨진 가방이 발견되며 16년 만에 드러났다.&lt;br&gt;&lt;br&gt;첫 공판 당시 검찰의 공소사실을 모두 인정한 A씨는 “16년 동안 감옥 아닌 감옥 생활을 한 것 같다”며 “깊이 반성한다”라고 말했다.&lt;br&gt;&lt;br&gt;앞서 검찰은 “A씨가 자백하고 있지만 시신에 시멘트를 부어 16년 동안 실체적 진실을 발견하기 곤란하게 한 점 등을 고려해달라”며 징역 30년을 구형했다.&lt;br&gt;&lt;br&gt;하지만 사건이 발생한 2008년은 형법 개정 이전으로 유기징역 상한이 15년이었다. 검찰은 이를 고려해 살인죄 15년, 마약죄 5년인 수정 구형 의견서를 법원에 제출했다.&lt;br&gt;&lt;br&gt;재판부는 “A씨가 우발적으로 범행을 저지르고 사전에 치밀하게 계획한 것으로 보이지는 않는다”며 “다만 시신을 매설해 실체적 진실 발견을 어렵게 했고 유족이 엄벌을 탄원하는 점 등을 종합적으로 고려했다”고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>곽종근 첫 발언은 ‘국회의원’ 아닌 ‘요원’ 이었다</title>
       <link>https://www.chosun.com/national/2025/01/24/24BSACYK2BGYDCXMQFGLF4GOHY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/2025/01/24/24BSACYK2BGYDCXMQFGLF4GOHY/</guid>
@@ -1009,33 +1036,6 @@
       <description/>
       <pubDate>Fri, 24 Jan 2025 01:55:07 +0000</pubDate>
       <content:encoded>민주노총이 산하 노조 간부들에게 선동 방법을 교육하는 ‘선동 학교’를 연다고 밝혔다.&lt;br&gt;&lt;br&gt;민노총은 지난 23일 홈페이지에 “광장 투쟁의 시대! 선동의 역할이 점점 커지고 있다”며 이런 내용이 담긴 안내문을 올렸다. 프로그램은 오는 27일 오전 10시~오후 5시까지 서울 중구 민주노총 12층 중회의실에서 열린다.&lt;br&gt;&lt;br&gt;‘실력있는 선동가 되기’라는 부제가 달려있고, 총 3강으로 구성돼 있다. 1강 ‘선동이란 무엇인가’, 2강 ‘연설문, 선동문 작성의 기본’, 3강 ‘스피치, 발성 및 실습’이다.&lt;br&gt;&lt;br&gt;민노총은 강연과 실습을 병행한다고 했다. 참여 인원은 선착순 30명이고, 노조 신입 간부나 청년 간부의 참여를 우선 보장한다고 한다.&lt;br&gt;&lt;br&gt;민노총은 “이미 간부들에게는 거리에서, 현장에서, 출퇴근 선전에서 매 순간이 선동의 시간”이라며 “간부들의 선동 실력 향상을 위해 기초부터 실습까지 생생한 교육을 마련했다”고 안내했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PJFSPJFZ75CHPOWM6TAS2HV2CY.png"&gt;&lt;figcaption&gt;&lt;small&gt;민주노총 '선동학교' 홍보문. /민주노총 홈페이지&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;민노총은 지난 2001년 4월에도 전북 부안에서 ‘선동 강사 학교’라는 교육 프로그램을 한 적이 있는 것으로 전해졌다. 당시에는 2박 3일 일정이었고, 프로그램에는 ‘어떻게 하면 선동 연설을 잘 할 수 있을까’, ‘발음·발성 연습’ ‘낭독문 연설 훈련’ 등의 내용이 포함됐다.&lt;br&gt;&lt;br&gt;민노총 산하 금속노조도 2001년 5월 ‘집회 판짜기 및 사회자 훈련 프로그램’을 진행한 적이 있다고 한다. 당시 교육 자료에는 ‘대중선동은 폭로, 해석, 주장 세 가지로 구성된다’는 내용 등이 담겨 있다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>검찰, 김성훈 대통령 경호처 차장 참고인 소환</title>
-      <link>https://www.chosun.com/national/court_law/2025/01/24/75QWI7PIRJC3BHODJKYDQI5FUQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/01/24/75QWI7PIRJC3BHODJKYDQI5FUQ/</guid>
-      <dc:creator>유종헌 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 24 Jan 2025 02:05:17 +0000</pubDate>
-      <content:encoded>‘12·3 비상계엄 사태’를 수사하는 검찰이 24일 김성훈 대통령 경호처 차장을 소환해 조사 중이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6CZ7BZWJ5GUCOYAJREY7YB2UN4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김성훈 대통령 경호처 차장이 24일 오전 서울 서대문구 경찰청 국가수사본부 특별수사단에 출석하며 취재진 질문에 답변하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰 비상계엄 특별수사본부(본부장 박세현 고검장)는 이날 오전 김 차장을 소환했다. 검찰은 김 차장을 윤석열 대통령 등의 내란 혐의 참고인 신분으로 불렀다. 김 차장 등이 윤 대통령 체포영장 집행에 협조하지 않았다는 혐의는 경찰이 수사 중이다.&lt;br&gt;&lt;br&gt;김 차장은 이날 오전 경찰 국가수사본부에 출석해 피의자 신분으로 조사를 받은 뒤 곧장 검찰로 넘어왔다. &lt;br&gt;&lt;br&gt;김 차장은 경찰 출석 전 ‘대통령 관저에 기관단총 배치를 지시했느냐’는 취재진 질문에 “그런 사실이 없다. 평시에 배치되던 총이고, 동일 건물 내에서 위치만 조정된 것”이라며 의혹을 부인했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘범죄도시2′ 모티브 된 필리핀 연쇄 납치범, 한국으로 최종 인도</title>
-      <link>https://www.chosun.com/national/court_law/2025/01/24/NWXGUJG65BBAHGE5JGDXHGVO7M/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/01/24/NWXGUJG65BBAHGE5JGDXHGVO7M/</guid>
-      <dc:creator>유종헌 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 24 Jan 2025 01:44:14 +0000</pubDate>
-      <content:encoded>‘안양환전소 살인 사건’을 저지른 후 필리핀으로 도피해 현지에서 한국인 관광객을 상대로 납치·강도살인 범죄를 계속한 김성곤(53)이 대한민국으로 최종 인도됐다.&lt;br&gt;&lt;br&gt;법무부는 지난 23일 필리핀 법무부로부터 김성곤을 최종 인도한다는 결정을 통보받았다고 24일 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SYU3NCKIPE2XK3MCMTFCA4KEV4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;'범죄도시2' 스틸 컷. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김성곤은 2007년 최세용 등 공범들과 함께 경기 안양시의 한 환전소에서 여직원을 잔인하게 살해한 뒤 1억8500만원 상당의 현금과 미화를 빼앗아 필리핀으로 도주했다. 그는 이후에도 한국인 관광객을 연쇄 납치하고, 강도살인 등 범행도 계속했다. 김성곤이 벌인 필리핀 한국인 연쇄 납치 사건은 영화 ‘범죄도시2’의 소재가 되기도 했다. &lt;br&gt;&lt;br&gt;김성곤은 2011년 12월 필리핀 경찰에 의해 검거됐다가 탈옥했고, 2012년 5월에야 다시 검거됐다. 이어 2014년 5월 총기 휴대 등 혐의로 단기 4년 2개월, 장기 5년 4개월의 징역형을 선고받고 복역하던 중 2015년 5월 국내로 임시 인도됐다. 우리나라의 형사 절차 진행을 위해 필리핀이 자국 내 형 집행 절차를 잠시 중단하고 김성곤을 한국에 인도한 것이다.&lt;br&gt;&lt;br&gt;우리 수사당국은 2015년 6월 김성곤을 강도살인 등 혐의로 구속기소했고, 이후 여죄로 추가기소했다. 김성곤은 최종적으로 무기징역 및 징역 7년형을 선고받았다.&lt;br&gt;&lt;br&gt;법무부는 형 집행의 효율성, 추가 도주 우려, 피해자 및 유족들의 의사 등을 고려할 때 김성곤을 필리핀으로 보내 잔여형을 집행한 뒤 다시 한국으로 송환하는 것보다는 우리나라에서 계속 복역하게 하는 것이 옳다고 보고 최종인도를 추진해왔다. 법무부 장관 명의로 필리핀 대통령 등 고위급 인사들에게 친서를 보내고, 현지 대사관 등 외교 채널을 통해서도 설득을 계속해온 것이다. 2022년 11월 캄보디아에서 열린 아세안 정상회의 당시에도 양국 대통령 간 회담에서 이 주제가 논의됐다. 필리핀은 결국 김성곤을 한국에 최종 인도하는 데 동의했다. &lt;br&gt;&lt;br&gt;법무부는 “우리 국민의 권익을 철저히 보호하고 이를 위협하는 범죄에 대해서는 국내외를 불문하고 단호하고 엄정한 사법권을 행사할 수 있도록 최선의 노력을 다하겠다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>주말도 교통지옥… 광화문서 탄핵 찬반 대규모 집회 </title>
-      <link>https://www.chosun.com/national/national_general/2025/01/24/HKPRTGXW2ZD5BP3EDOZ4EJFD3Q/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/24/HKPRTGXW2ZD5BP3EDOZ4EJFD3Q/</guid>
-      <dc:creator>구아모 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 24 Jan 2025 01:28:13 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/J7ZU2PLXMHMWOWG772CW6R6TBA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;작년 12월 28일 서울 도심 광화문 일대에서는 윤석열 대통령 탄핵을 촉구하거나 반대하는 대규모 집회가 열렸다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;주말인 25일 서울 광화문 일대가 극심한 교통정체에 시달릴 전망이다. 윤석열 대통령 탄핵을 둘러싼 찬반 대규모 집회가 예고되면서 도심 곳곳에 교통 혼잡이 예상된다.&lt;br&gt;&lt;br&gt;서울경찰청에 따르면 ‘윤석열즉각퇴진·사회대개혁 비상행동’(비상행동)이 이날 광화문교차로∼적선교차로 일대에서 대규모 집회를 연다. 이후 참가자들은 우정국로, 남대문로, 숭례문교차로를 거쳐 태평교차로까지 행진할 예정이다.&lt;br&gt;&lt;br&gt;탄핵 반대 집회를 진행하는 자유통일당 역시 세종교차로∼대한문 일대에서 맞불 집회를 연다. 두 단체가 같은 날 광화문 일대에서 집회를 개최하면서 서울 도심 교통은 극심한 혼잡을 빚을 것으로 예상된다.&lt;br&gt;&lt;br&gt;경찰은 차량 통행을 위해 가변 차로를 운영하고, 교통경찰 180여명을 투입해 교통 관리를 강화할 방침이다. 하지만 도심 주요 도로에 교통 정체가 에상된다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “가급적 지하철 등 대중교통을 이용하고, 부득이 차량을 이용할 경우 교통정보를 미리 확인해 달라”고 당부했다.&lt;br&gt;&lt;br&gt;집회 시간대의 자세한 교통 상황은 서울경찰청 교통정보 안내 전화(☎ 02-700-5000) 또는 교통정보센터 홈페이지(&lt;a href="http://www.spatic.go.kr" target="_blank"&gt;www.spatic.go.kr&lt;/a&gt;)에서 확인할 수 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
