@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>北외무성, 한미연합훈련 비난 “美가 주권 거부하는 이상 초강경 대응”</title>
+      <link>https://www.chosun.com/politics/north_korea/2025/01/26/A3OJ6FPF4FDTLJQH4MJZQJQM4Y/</link>
+      <guid isPermaLink="true">https://www.chosun.com/politics/north_korea/2025/01/26/A3OJ6FPF4FDTLJQH4MJZQJQM4Y/</guid>
+      <dc:creator>김자아 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 25 Jan 2025 21:37:45 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RYCDBHAFRJVQCULAUHDHOJNVRI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2019년 6월 30일 판문점에서 악수를 나누는 도널드 트럼프 미국 대통령과 북한 김정은./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;북한이 “미국이 주권과 안전 이익을 거부하는 이상 미국과는 철두철미 초강경으로 대응해야 하며 이것만이 미국을 상대하는 데서 최상의 선택”이라고 밝혔다.&lt;br&gt;&lt;br&gt;북한 외무성은 26일 대외보도실장 명의의 담화에서 지난 21∼24일 진행된 한미 공군 대대급 연합 공중 훈련인 ‘쌍매훈련’을 비난하며 “미·한의 군사적 결탁에 의해 강요되는 힘의 불균형을 불허하고 초강력 대응해 나감으로써 국가의 주권적 권리와 안전 이익을 수호하고 지역의 평화와 안정을 철저히 담보해 나갈 것”이라며 이같이 말했다.&lt;br&gt;&lt;br&gt;북한은 쌍매훈련 외에도 지난 14∼16일 한미가 실시한 연합 대화력전 연습도 거론하며 “조선반도 지역의 긴장 격화를 가증시키는 미·한의 군사적 도발 책동을 엄정 주시하고 있으며 이러한 행위에는 반사적인 대응이 따르게 된다는 것을 엄중히 경고한다”고 밝혔다.&lt;br&gt;&lt;br&gt;그러면서 “조선반도(한반도)와 지역의 안전 환경이 날로 위태해지고 있는 근원은 다름 아닌 군사 동맹 체제의 부단한 팽창과 각종 합동군사연습의 강행을 통한 힘의 우위를 추구하고 있는 미국에 있다”고 했다.&lt;br&gt;&lt;br&gt;또 “미·한은 저들의 군사적 결탁과 도발 행위들의 가시성 증대가 초래하게 될 지역 정세 악화의 책임에서 절대로 벗어나지 못할 것”이라고 했다. &lt;br&gt;&lt;br&gt;북한은 과거에도 한미 연합 훈련이 한반도 정세 불안의 원인이라며 예민하게 반응해 왔지만, 이번 비판은 도널드 트럼프 미 대통령이 취임 이후 북한을 향해 유화적 메시지를 내보내는 상황에서 나와 주목된다. 다만 북한 외무성은 이날 담화에서 트럼프 정권을 직접 거명하진 않았다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>﻿“장마로 내려앉은 천장, 젖어버린 전공서적…꿈마저 젖을 뻔했다”</title>
       <link>https://www.chosun.com/national/national_general/2025/01/26/34MAB7Q3ZBHDHI27KII6DHRCA4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/26/34MAB7Q3ZBHDHI27KII6DHRCA4/</guid>
@@ -977,19 +986,6 @@
       <description/>
       <pubDate>Fri, 24 Jan 2025 06:51:50 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/D5PMTYTPKO5HPHWIXAUKAI3MXM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;19일 새벽 윤석열 대통령에 대한 구속영장이 발부되자 서울 서부지법에 지지자들이 진입해 난동을 부리고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울경찰청 광역수사단 형사기동대는 ‘서부지법 난동’ 당시 법원에 방화를 시도한 인물로 지목된 10대 남성 A씨에 대해 공동건조물침입, 특수공무집행 방해, 현주건조물방화미수 혐의로 24일 구속영장을 신청했다고 이날 밝혔다. 서부지법 난동 사건에서 방화 관련 혐의가 적용된 건 이번이 처음이다.&lt;br&gt;&lt;br&gt;경찰은 A씨를 지난 22일 특수공무집행방해 등 혐의로 긴급체포했다. 19일 서부지법 난동 당시 상황을 담은 영상을 보면, 한 남성이 깨진 법원 유리창 너머로 기름으로 추정되는 물질을 붓자 A씨는 종이에 불을 붙여 유리창 너머로 던졌다. 경찰은 A씨의 행동이 법원 건물에 방화를 시도했다고 보고 체포 시 적용됐던 혐의에 방화 미수 혐의를 추가했다.&lt;br&gt;&lt;br&gt;앞서 서부지법은 지난 18∼19일 서부지법과 헌법재판소 인근에서 현행범으로 체포된 90명 가운데 58명에 대해 구속영장을 발부했다.19일 새벽 서부지법에 침입해 기물을 파손하는 등 난동을 벌인 혐의(폭력행위처벌법상 공동주거침입)를 받는 이들이 44명, 고위공직자범죄수사처(공수처) 검사와 수사관들이 탑승한 차량을 막아선 10명, 취재진을 때린 1명과 법원 담장을 넘은 1명, 경찰을 폭행한 2명 등이다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>고교 女후배 딥페이크 음란물 영상 만든 20대, 징역형 집유</title>
-      <link>https://www.chosun.com/national/regional/chungcheong/2025/01/24/PAYP67TQP5HHJDDOXVKLPMMGTM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2025/01/24/PAYP67TQP5HHJDDOXVKLPMMGTM/</guid>
-      <dc:creator>천안=김석모 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 24 Jan 2025 07:30:27 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XJPAZKLQUKQRRN56ESOYM2IKZI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대전지법 천안지원. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;고교 여자 후배들의 얼굴을 딥페이크로 허위 음란 영상물을 만들어 배포한 20대에게 징역형의 집행유예가 선고됐다.&lt;br&gt;&lt;br&gt;대전지법 천안지원 형사1단독 정은영 부장판사는 성폭력범죄의 처벌 등에 관한 특례법 위반(허위 영상물 편집 등) 등의 혐의로 구속 기소된 A(20)씨에게 징역 3년에 집행유예 5년을 선고했다고 24일 밝혔다. 또 아동·청소년 및 장애인 관련 기관에 각 3년간 취업 제한도 명령했다.&lt;br&gt;&lt;br&gt;A씨는 지난해 3월부터 6월 사이 자신이 다니는 대학 기숙사에서 모두 11차례에 걸쳐 고교 여자 후배 3명의 얼굴 사진을 타인의 나체 영상물과 합성해 배포한 혐의를 받는다. 피해 여고생들의 얼굴 사진은 피해자들의 소셜미디어(SNS) 게시물에서 가져온 것으로 알려졌다.&lt;br&gt;&lt;br&gt;정 부장판사는 “피해자 3명의 사진을 이용해 다수의 허위 영상물을 제작하고 SNS에 게시해 광범위하게 유포한 죄책이 무겁다”면서 “4개월여의 구금 생활을 통해 자성의 기회를 가졌을 것으로 보이고, 일부 피해자와 합의한 점 등을 고려했다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/XJPAZKLQUKQRRN56ESOYM2IKZI.jpg?width=600&amp;height=450&amp;auth=12304f63a6f90726d1c1bd2ca7fe598b02b2eb6a569f0a841eecbc541c18a1a4&amp;smart=true" type="image/jpeg" height="450" width="600">
-        <media:description type="plain">대전지법 천안지원. /김석모 기자</media:description>
-        <media:credit role="author" scheme="urn:ebu"/>
-      </media:content>
     </item>
     <item>
       <title>희대의 사기범 ‘큰 손 장영자'... 위조수표 사용 혐의, 또다시 구속</title>
