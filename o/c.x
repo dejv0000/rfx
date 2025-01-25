@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>친구 딸 성폭행해 4세 지능 만든 50대…피해자 사망에도 ‘징역 8년’</title>
+      <link>https://www.chosun.com/national/national_general/2025/01/25/HVCKMSERCBFJVOKIJLKYP77OAM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/25/HVCKMSERCBFJVOKIJLKYP77OAM/</guid>
+      <dc:creator>이가영 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 25 Jan 2025 08:21:52 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Y24F75YNT5B25H3J434AMHZ2LQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;아버지 지인에게 성폭행 피해를 당하기 전 모습(왼쪽)과 피해 사실을 고백한 후 4살 지능으로 퇴행한 피해자의 모습. /SBS '그것이 알고싶다'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지인의 딸을 수차례 성폭행하고 그 충격으로 숨지게 해 재판에 넘겨진 50대 남성이 1심에서 징역 8년을 선고받았다.&lt;br&gt;&lt;br&gt;대전지법 논산지원 형사합의1부(재판장 이현우)는 22일 강간치상 등 혐의로 기소된 50대 A씨에게 징역 8년을 선고했다.&lt;br&gt;&lt;br&gt;A씨의 범행은 2021년 11월부터 시작됐다. 지인의 딸로, 6세 때부터 자신을 ‘삼촌’이라고 부르며 따르던 여성 B(당시 21)씨를 A씨는 자신의 사무실 등에서 여러 차례 성폭행했다. 믿었던 사람에게 성폭행당한 충격에 B씨의 정신 연령이 ‘만 4세’ 수준으로 돌아가는 인지능력 장애를 겪은 것으로 조사됐다.&lt;br&gt;&lt;br&gt;입원 치료를 받은 B씨는 부모의 보살핌을 받으며 서서히 일상을 되찾아갔다. 그러다 우연히 동네 마트에서 A씨를 마주쳤고, 힘들어하다가 두 달 뒤 스스로 목숨을 끊었다.&lt;br&gt;&lt;br&gt;A씨는 B씨가 사망하자 지역 동호회 등에 ‘합의로 성관계했고 피해자는 아버지의 폭행으로 사망했다’는 허위 사실을 퍼트려 사자명예훼손 및 명예훼손 혐의도 받았다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7CCV6U3XOXVBRLC5O74CAWWMO4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;인지능력이 '만 4세' 수준으로 떨어졌던 피해자(왼쪽)가 생전 남긴 진술서. /SBS '그것이 알고 싶다'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;B씨의 사망으로 피해자 진술을 확보하지 못해 어려움을 겪던 검찰은 피해자의 휴대전화 포렌식 조사를 통해 확보한 다이어리 내용과 피해자 차량 블랙박스 영상 등을 분석해 A씨의 범죄 혐의를 밝혀냈다. 검찰은 지난달 열린 결심공판에서 A씨에게 징역 25년을 구형했다.&lt;br&gt;&lt;br&gt;A씨는 최후 진술에서 “보험 고객을 잃을까 봐 걱정된다”며 선처를 호소한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;재판부는 주요 쟁점이 된 강제추행 여부를 비롯해 성폭행과 그 후 B씨의 정신질환 간의 인과관계 등 검찰의 공소사실 대부분을 유죄로 판단했다. 재판부는 “자기 잘못을 인정하지 않는 등 죄질이 매우 불량하다”며 “피해자가 결국 숨지는 등 피해 정도가 상당히 중하다”고 양형 이유를 밝혔다.&lt;br&gt;&lt;br&gt;성폭력특별법상 강간치상죄는 무기징역 혹은 5년 이상의 유기징역을 선고하게 되어 있다. 다만 대법원 양형 기준은 이보다 낮은 형량을 권고한다.&lt;br&gt;&lt;br&gt;대법원 양형 기준에 따르면 일반 강간치상죄는 최소 징역 4년, 최대 징역 7년을 선고하게 되어 있다. 여기에 ▲가학적 침해행위 ▲다수 피해자 대상 반복적 범행 ▲범행에 취약한 피해자 ▲피해자의 임신 ▲상습범 등에 해당하면 가중요소로 인정해 최대 징역 9년까지 선고할 수 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>무슨 원한 있길래… 이삿짐 챙기던 모녀에 흉기 휘두른 70대 구속</title>
       <link>https://www.chosun.com/national/2025/01/25/5FJCGREVQRASZL56PXZNMKB5NU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/2025/01/25/5FJCGREVQRASZL56PXZNMKB5NU/</guid>
@@ -984,15 +993,6 @@
         <media:description type="plain">방송인 노홍철이 히말라야 등반을 하던 중 고산병에 걸려 쓰러졌다./유튜브 '노홍철'</media:description>
         <media:credit role="author" scheme="urn:ebu"/>
       </media:content>
-    </item>
-    <item>
-      <title>민원인 앞에서 ‘훌렁’… 각종 비위 의혹 김진하 양양군수 구속 기소</title>
-      <link>https://www.chosun.com/national/regional/gangwon/2025/01/24/QZJPKO5DI5GDPFB4BPNLKWLRAM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/gangwon/2025/01/24/QZJPKO5DI5GDPFB4BPNLKWLRAM/</guid>
-      <dc:creator>신정훈 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 24 Jan 2025 05:19:23 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2JLWSIFBKVO6JDVTEB25SV4QAM.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;여성민원인을 상대로 한 성비위와 금품수수 등의 의혹을 받는 김진하 양양군수가 지난 2일 구속 전 피의자 심문(영장실질심사)을 마치고 춘천지법 속초지원을 나서고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;민원인을 상대로 금품을 수수하고 강제추행 등의 혐의로 수사를 받아온 김진하 강원 양양군수가 구속 상태로 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;춘천지검 속초지청은 부정 청탁 및 금품 등 수수의 금지에 관한 법률 위반과 뇌물수수, 강제추행 등의 혐의로 김진하 양양 군수를 구속기소했다고 24일 밝혔다.&lt;br&gt;&lt;br&gt;김 군수는 지난 2023년 12월 여성 민원인 A씨 앞에서 자신의 바지를 내리는 등 부적절한 행위를 한 혐의다. 김 군수는 A씨를 자신의 차량에 태운 뒤에도 이 같은 행위를 했으며, A씨로부터 민원 해결을 이유로 현금과 안마의자 등 금품을 받은 혐의도 받고 있다.&lt;br&gt;&lt;br&gt;검찰은 A씨도 뇌물공여와 성폭력범죄의 처벌 등에 관한 특례법상 촬영물 등 이용 협박 등 혐의로 구속기소했다. 또 A씨와 공모한 양양군 의회 박봉균 의원도 성폭력범죄의 처벌 등에 관한 특례법상 촬영물 등 이용 협박 혐의로 불구속기소 했다.&lt;br&gt;&lt;br&gt;한편 김 군수는 이번 논란이 불거지자 지난 9월 소속 정당인 국민의힘에 ‘일신상의 이유’를 들어 탈당했고, 여전히 혐의를 부인하는 것으로 전해졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[속보] 헌재 “‘마은혁 재판관’ 불임명 위헌 여부, 2월 3일 결정”</title>
