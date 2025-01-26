@@ -13,6 +13,113 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>尹측 “구속기한 25일 자정에 만료...대통령 석방해야” 주장</title>
+      <link>https://www.chosun.com/national/court_law/2025/01/26/RA2NKFDSNVD2VMMIDZ5B43YAQU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/01/26/RA2NKFDSNVD2VMMIDZ5B43YAQU/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 26 Jan 2025 02:37:25 +0000</pubDate>
+      <content:encoded>윤석열 대통령 변호인단 소속 윤갑근 변호사는 26일 &amp;lt;대통령의 구속 기간 만료는 1월 25일 자정이다. 불법 감금을 중지하고 즉시 석방하라&amp;gt;는 제목의 성명을 내고, 윤 대통령의 구속 기간이 25일 자정에 끝났다고 주장했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OJUU2Y24GVK7A2FGZW5VBSKVCI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령이 23일 오후 서울 종로구 헌법재판소에서 열린 탄핵심판 4차 변론기일에 출석해 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤 대통령이 지난 1월 15일 오전 10시 33분에 체포돼 1차 구속 기한은 1월 24일 자정까지였으나, 구속영장 실질심사와 체포적부심 소요 시간 등을 합해 모두 48시간이 되지 않는다는 것이다. 윤 변호사는 “단 1일만 공제해 25일 자정까지가 윤 대통령의 구속 기간”이라고 주장했다. &lt;br&gt;&lt;br&gt;윤 변호사는 “2007년 형사소송법 개정으로 모든 피의자가 구속영장 실질심사를 받도록 규정이 바뀌었다”며 “구속영장 실질심사에 소요된 시간을 구속 기간에 공제할 이유가 없어졌다”고 했다. 그러면서 “구속기간 공제에 피의자의 의사와 무관하게 진행된 절차에서의 시간이 가산되어 피의자가 불이익을 당해서는 안된다”고 했다. 이어 “구속 기간 공제에 관한 법률 규정은 당연히 폐지 되었어야 하나 조항만 바뀌어 그대로 존치됐다”며 “이는 당시 입법 과정에서의 명백한 오류라고 할 수 있다”고 했다.&lt;br&gt;&lt;br&gt;윤 변호사는 “피의자의 인신 구속에 관한 문제는 인권침해의 문제가 수반되므로 보수적으로 운용되어야 하고, ‘의심스러울 때는 피의자의 이익으로’ 해석되어야 하는 것이 형사법의 대원칙”이라며 “대통령의 구속 기간은 이미 도과하였으므로 즉시 석방되어야 한다”고 했다. 그러면서 “구속 기간을 도과한 대통령의 불법 감금에 대한 책임은 이제 검찰 역시 피할 수 없다”고 했다. 반면 검찰은 윤 대통령 구속기한을 오는 27일까지로 보고 있다. 이르면 이날 처분 방향을 결정할 전망이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/NOOO5D2NOJGIHJ53XL4CAWOV2A.JPG?width=3306&amp;height=1860&amp;auth=5b5362775734b7b8235f974e5ae5d4fed6635ea00d17e6ecf70695aacfaea9d2&amp;smart=true" type="image/jpeg" height="1860" width="3306">
+        <media:description type="plain">윤석열 대통령이 23일 오후 서울 종로구 헌법재판소에서 열린 탄핵심판 4차 변론기일에 출석해 있다. 2025.1.23/뉴스1 ⓒ News1 사진공동취재단</media:description>
+        <media:credit role="author" scheme="urn:ebu">뉴스1 ⓒ News1 사진공동취재단</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>월급 300만원 30세, 국민연금 얼마 받는지 봤더니...최소생활비의 59%</title>
+      <link>https://www.chosun.com/national/2025/01/26/UYIYDQ33OVFJ5ICIBQMPM4JX6I/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2025/01/26/UYIYDQ33OVFJ5ICIBQMPM4JX6I/</guid>
+      <dc:creator>조백건 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 26 Jan 2025 02:54:08 +0000</pubDate>
+      <content:encoded>올해 30세인 1995년생이 국민연금을 받을 나이(65세)가 되는 2065년 국민국민 수령액은 지금 가치로 80만원 수준이라는 정부 집계 결과가 나왔다. 이는 요즘 1인 노후 최소 생활비의 60%도 안 되는 수준이다.&lt;br&gt;&lt;br&gt;26일 국회 보건복지위원회 소속 더불어민주당 강선우 의원실이 보건복지부에서 받은 자료에 따르면 월급 300만원을 받는 1995년생이 26년간 국민연금 보험료를 납부하고 수급 개시연령인 65세가 되는 2060년에 받는 월 연급액은 304만원이다. 이는 현행 국민연금 제도인 보험료율 9%와 소득대체율 40%가 유지된다는 가정하에 복지부가 계산한 수치다. 이를 임금 상승률(3.77%)을 반영한 현재 가치로 환산하면 80만2000원이다. 국민연금연구원이 작년 12월 발표한 1인 기준 노후 최소생활비 136만1000원의 58.8% 수준이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/R6VX4VZLQZ2EPHUBCVJOKQZUJA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;국민연금 서울 종로중구지사의 모습/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;1995년이 75세인 2070년에 받을 월 연금액은 67만5000원, 85세인 2080년 56만9000원으로 감소한다.&lt;br&gt;&lt;br&gt;20세인 2005년생의 상황도 비슷하다. 월급 300만원을 받는 2005년생이 앞으로 27년간 국민연금에 가입해 65세가 되는 2070년에 받게 될 월 연금액은 현재 가치로 81만2000원이다. 75세에 68만3000원, 85세 57만5000원을 받는다. 1985년생(40세)은 65세가 되는 2050년에 월 79만4000원, 75세에 66만9000원, 85세 56만3000원을 받는다. 전문가들은 “국민연금이 노후소득보장 제도로서 역할을 하기 위해 최소생활비 수준은 돼야 한다”고 말한다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>尹 대통령 접견금지 해제…공수처, 검찰로 넘긴 후 취소</title>
+      <link>https://www.chosun.com/national/court_law/2025/01/26/TGKD5AUQENHWJDGY27F3TR766I/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/01/26/TGKD5AUQENHWJDGY27F3TR766I/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 26 Jan 2025 02:20:51 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PTHBWY6W6KWAAMNAQWFOTY2ONI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울구치소에 수감된 윤석열 대통령의 접견 금지가 지난 24일 해제된 것으로 26일 확인됐다. 윤 대통령을 체포·구속한 고위공직자범죄수사처(공수처)가 윤 대통령 사건을 검찰로 송부하면서, 윤 대통령의 신병에 대한 권한도 검찰에 넘어갔기 때문이라고 한다.&lt;br&gt;&lt;br&gt;공수처는 이날 검찰에 윤 대통령 사건을 송부한 다음 날인 24일 윤 대통령이 수용된 서울구치소에 윤 대통령에 대한 접견금지 취소 결정문을 보냈다고 밝혔다.&lt;br&gt;&lt;br&gt;공수처는 사건을 검찰에 이첩한 만큼 인신에 대해 추가적인 조치를 하는 것이 불가능하다고 판단해 접견금지를 취소한 것으로 알려졌다. 이후 사건을 넘겨받은 검찰이 별도로 접견금지 조치를 다시 하지 않아 윤 대통령은 현재 변호인 외 접견이 가능해진 상태다. 다만 접견금지 해제가 지난 금요일에 이뤄졌고, 이후 주말을 포함해 오는 30일까지 설 연휴임을 고려할 때 윤 대통령이 실제로 가족 등을 접견하기는 어려울 것으로 전망된다. 윤 대통령 측은 “접견금지 해제 이후 윤 대통령이 가족과 접견한 적은 없다”고 밝혔다.&lt;br&gt;&lt;br&gt;형집행법 시행령에 따르면 수용자 접견은 공휴일을 제외한 일과시간에 이뤄져야 하며, 구치소장이 특별히 필요하다고 인정할 경우 접견 시간대 외에도 할 수 있다.&lt;br&gt;&lt;br&gt;앞서 공수처는 윤 대통령에 대한 구속영장을 발부받은 지난 19일 서울구치소 측에 피의자 접견 등 금지 결정서를 보냈다. 공수처는 가족 및 외부 인사들과의 접견을 막아 증거 인멸 우려를 차단하기 위한 조치라고 설명했다.&lt;br&gt;&lt;br&gt;검찰 사건사무규칙에 따라 피의자 접견 금지 결정은 기소와 동시에 효력이 상실된다. 다만 결정을 취소하는 것이 타당하다고 인정할 경우 접견금지 취소 결정서를 보내 취소할 수 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“동일인이면 75억 대박”…로또 수동 당첨 5장 한꺼번에 나온 명당</title>
+      <link>https://www.chosun.com/national/national_general/2025/01/26/Z7GOUWA75ZDQZJW3HS3KYPDNXI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/26/Z7GOUWA75ZDQZJW3HS3KYPDNXI/</guid>
+      <dc:creator>김자아 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 26 Jan 2025 02:48:25 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JOHHIXM4QJMO5NG5ZG6HKUWSKA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 노원구 한 로또판매점에 로또를 구매하려는 시민들이 길게 줄지어 서 있다. (기사 내용과는 관련 없음)./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;1156회 로또 1등 당첨 번호는 ‘30·31·34·39·41·45′로 결정됐다고 25일 로또복권 운영사 동행복권이 밝혔다. 보너스 번호는 ‘7′이다.&lt;br&gt;&lt;br&gt;당첨 번호 6개를 모두 맞힌 1등은 21명으로 이들은 각각 15억520만원씩 수령한다.&lt;br&gt;&lt;br&gt;당첨 번호 5개와 보너스 번호를 적중한 2등은 73명으로 각각 7216만원을, 5개 번호가 일치한 3등은 3494명으로 150만원을 받는다.&lt;br&gt;&lt;br&gt;당첨 번호 4개를 맞힌 4등(고정 당첨금 5만원)은 16만2883명, 당첨 번호 3개가 맞힌 5등(고정 당첨금 5000원)은 270만 6409명이다.&lt;br&gt;&lt;br&gt;1등 배출점은 자동 선택 11곳(반자동 1곳), 수동 10곳이다. &lt;br&gt;&lt;br&gt;자동 선택 11곳은 ▲행운의집(서울 강동구) ▲정원복권방(서울 도봉구) ▲대전우표사(대전 동구) ▲대박명당(울산 북구) ▲대박행진 복권랜드(경기 파주시) ▲로또명당인주점(충남 아산시) ▲행운복권(전남 무안군) ▲터미널(전남 진도군) ▲칠복복권방(경북 경주시·반자동) ▲수경볼트로또(경남 양산시) ▲이마트24 마산만복점(경남 창원시) 등이다.&lt;br&gt;&lt;br&gt;수동 선택 10곳은 ▲꾸미로또복권(서울 강북구) ▲영웅시대(부산 기장군) ▲중앙동역 나들가게24(부산 중구) ▲담꾹 구리수택점(경기 구리시) ▲행운을주는로또판매점(경기 안산시) ▲희망을주는사람(경기 용인시) 등이다. 서울 강북구 꾸미로또복권은 수동으로 1등 5명을 배출했다.&lt;br&gt;&lt;br&gt;당첨금 지급 기한은 지급 개시일로부터 1년(휴일인 경우 익영업일)이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>교도소에서 몰래 피운 담배 1개비가 100만원?...20대 벌금형 </title>
+      <link>https://www.chosun.com/national/regional/gangwon/2025/01/26/MOQFOHYHPRBDZLHHGTULTVUNEM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/gangwon/2025/01/26/MOQFOHYHPRBDZLHHGTULTVUNEM/</guid>
+      <dc:creator>신정훈 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 26 Jan 2025 02:36:25 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WOIPX7HDNFCOHOGTNKRO6EMBJA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원로고. /신정훈 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;동생을 통해 교도소에 반입한 담배를 몰래 피운 20대 수용자가 값비싼 대가를 치르게 됐다.&lt;br&gt;&lt;br&gt;춘천지법 영월지원 형사1단독(판사 강명중)는 형의 집행 및 수용자의 처우에 관한 법률 위반 혐의로 약식 기소된 A(28)씨에게 벌금 400만원을 선고했다.&lt;br&gt;&lt;br&gt;재판부는 “수용시설 내 교정 행정의 집행을 방해하고 다른 수용자들에게까지 악영향을 끼치는 등 죄질이 불량하다”며 “자신의 잘못으로 내려진 징계를 겸허히 받아들이고 반성하는 모습을 찾기 어려운 만큼 엄한 처벌이 필요하다”고 판시했다.&lt;br&gt;&lt;br&gt;사기죄로 영월교도소에 수감 중인 A씨는 지난해 6월 3일 정오와 오후 4시쯤 교도소 내 화장실에서 각각 담배 1개비씩을 피우고, 이튿날 오전 2시 같은 장소에서 또다시 담배 2개비를 피우다 교정 당국에 적발됐다.&lt;br&gt;&lt;br&gt;A씨는 앞서 지난해 5월 동생이 교도소에 면회 왔을 당시 몰래 반입해 가지고 있던 것으로 조사됐다.&lt;br&gt;&lt;br&gt;이 일로 A씨는 징계를 받았지만, 그는 징계로 부당한 상황에 부닥쳤다며 반성 대신 약식명령에 불복해 정식재판을 청구했다.&lt;br&gt;&lt;br&gt;하지만 재판부는 법을 지키지 않고 반성도 않는 A씨에게 당시 피운 담배 1개비당 100만원꼴에 해당하는 값비싼 대가를 치르도록 했다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>떡국 먹으면 한 살 더 먹어…의사가 “일리 있다” 말한 이유 </title>
+      <link>https://www.chosun.com/national/national_general/2025/01/26/NOAUIJNQZJAENM7SGBS3HGJRFQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/26/NOAUIJNQZJAENM7SGBS3HGJRFQ/</guid>
+      <dc:creator>김자아 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 26 Jan 2025 01:08:23 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6H55FQ3QTZPAXEAIXG6LKJJLIM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;설 연휴를 앞둔 지난 24일 오후 서울 성북구 돈암시장 내 떡집에서 상인들이 떡국떡을 포장하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;설날 아침에 떡국 한 그릇을 먹으면 나이 한 살을 더 먹는다 이야기와 관련, 저속 노화 건강 열풍을 이끌고 있는 정희원 서울아산병원 노년내과 교수가 “일리 있는 말”이라고 했다.&lt;br&gt;&lt;br&gt;정 교수는 25일 유튜브 채널에 올린 ‘설날, 가속 노화의 대명절’이라는 제목의 영상에서 “설날 음식은 가속 노화 음식의 모둠”이라며 이같이 말했다.&lt;br&gt;&lt;br&gt;그는 “조선 시대 왕이 먹은 음식이 정제 탄수화물이 많다. 옛날에는 어쩌다 한 번 먹는 음식이라 괜찮았지만 지금은 그렇지 않다. 이미 평소에 풍족하게 먹고 있는데 명절이라 더 먹는다”며 “떡국엔 떡이 들어간다. 완전 정제 탄수화물”이라고 했다.&lt;br&gt;&lt;br&gt;이어 “(설날) 아침에 일찍 가서 인사를 드리고 나면 떡국을 먹는다. 인슐린을 잘 느끼는 편이라 떡국을 먹고 나면 바로 다리가 붓는 게 느껴진다”면서도 “떡은 정제곡물이라 정말 맛있다. 국물이랑 먹으면 술술 넘어간다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZOTI2EM2C5DFZJPGOHHFVB2HN4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;정희원 교수./유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;특히 정 교수는 “떡국 먹으면 한 살 먹는다는 말이 있는데 떡국 많이 먹으면 가속 노화가 돼서 일리 있는 말”이라며 “설날인데 안 먹을 수는 없다. 너무 맛있기도 하고, 꼭 한 그릇만 드시면 좋겠다”고 당부했다.&lt;br&gt;&lt;br&gt;설날 추천 메뉴로는 잡곡밥과 나물비빔밥을 추천했다. 정 교수는 “콩을 넣은 잡곡밥을 먹으면 좋다. 제사 음식에서 흰쌀밥을 잡곡밥으로 바꾸고 붉은 고기를 생선으로 바꾸고 채소와 나물 비율을 늘리면 건강식에 가까운 제사상이 나올 수 있다”고 했다.&lt;br&gt;&lt;br&gt;정 교수는 가속 노화의 반대 개념인 저속 노화 식사법 열풍을 이끌고 있다. 노화를 촉진하는 가속 노화의 대표적인 음식으로는 혈당을 급격히 올려 인슐린 분비를 유발하는 단순당류, 정제곡물 식품 등이 꼽히며, 신체 노화를 늦출 수 있는 저속 노화 식품은 통곡물과 채소 등이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>검찰총장, 전국 검사장 회의 주최... 尹대통령 사건 처리 논의</title>
+      <link>https://www.chosun.com/national/court_law/2025/01/26/TI2U3CEBBRALJJTKJOEEHCPBRM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/01/26/TI2U3CEBBRALJJTKJOEEHCPBRM/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 26 Jan 2025 00:58:44 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/L7T3SNSELFI5FOICB6ERW66YXU.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;심우정 검찰총장./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;심우정 검찰총장이 26일 전국 고·지검장, 대검 차장 및 부장 등 전국 검사장이 참여하는 회의를 열었다. 이날 회의에서 고위공직자범죄수사처(공수처)가 송부한 윤석열 대통령의 내란 우두머리 혐의 사건의 처리 방안을 논의할 계획이다.&lt;br&gt;&lt;br&gt;검찰 특별수사본부(본부장 박세현 서울고검장)는 지난 23일 공수처에서 윤 대통령 사건을 송부받은 뒤, 윤 대통령의 구속 기간을 연장해달라는 신청을 법원에 냈다. 공수처가 체포 당일 윤 대통령을 한 차례 조사한 것 이외에 조사하지 못한 점, 공수처가 자체 수사해 검찰에 보낸 1만여 쪽의 기록 등을 정리할 시간이 필요하다고 검찰은 판단한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;그러나 서울중앙지법은 두 차례에 걸쳐 검찰의 연장 신청을 모두 불허했다. 서울중앙지법 김석범 영장전담 부장판사는 “공수처법은 공수처가 수사를 종결해 검찰청에 공소 제기를 요구한 사건에 대해 검찰청 검사가 신속하게 기소 여부를 결정하라고 하고 있을 뿐 어떤 추가적 수사가 가능한지에 관한 명문 규정을 두지 않고 있다”면서 “공수처로부터 사건을 송부받은 검찰청 검사가 구속 기간 연장에 의한 구속 수사와 같은 적극적‧전면적 강제수사를 할 수 있는지에 관해서는 법적 근거나 상당성이 부족하다”고 했다. 지난 25일 재신청 건을 심리한 서울중앙지법 형사26단독 최민혜 판사도 유사한 이유를 들어 신청을 불허했다고 한다.&lt;br&gt;&lt;br&gt;이날 회의 결과에 따라 검찰은 윤 대통령에 대한 조사 없이 1차 구속 기한인 오는 27일 전에 내란 및 직권남용 혐의로 윤 대통령을 구속 기소할 가능성이 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/EA2BOQNRONGAZBGQ46CATWWIAI.jpg?width=600&amp;height=338&amp;auth=f61cc70cf75bb183803b704de981a0c66cae652b8946b5aa5fd0aa0766a1d600&amp;smart=true" type="image/jpeg" height="338" width="600">
+        <media:description type="plain">윤석열 대통령 photo 뉴시스</media:description>
+        <media:credit role="author" scheme="urn:ebu">TAE HYEONG KIM</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>개혁신당 이준석계 지도부 ‘허은아 대표 퇴진’ 의결</title>
+      <link>https://www.chosun.com/national/2025/01/26/PABFMT32IBAJPLADSTYSZMV3AU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2025/01/26/PABFMT32IBAJPLADSTYSZMV3AU/</guid>
+      <dc:creator>이민석 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 26 Jan 2025 01:44:21 +0000</pubDate>
+      <content:encoded>‘친(親)이준석계’ 주도 개혁신당 지도부가 당원 투표를 통해 허은아 대표와 조대원 최고위원 퇴진을 결정했다. 허 대표는 당원소환 투표가 불법이라며 인정할 수 없다는 입장을 밝힌 상황이다. 허 대표는 법원에 당원소환 투표에 대한 효력정지 가처분도 신청했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MP3KBPBXUCN4UAPDAFDEB3WQ2Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;허은아 개혁신당 대표가 24일 오전 서울 여의도 국회에서 열린 최고위원회의에 참석해 머리를 쓸어올리고 있는 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;천하람 원내대표와 이주영 정책위의장 등 이준석계 지도부는 26일 국회에서 최고위원회의를 열고 24~25일 진행된 허 대표에 대한 당원소환 투표 결과를 발표하고, 허 대표의 대표직 상실을 의결했다고 밝혔다. 앞서 천 원내대표 등은 허 대표가 당직자 임명 과정에서 당헌·당규를 위반하고, 사무처에 부당한 지시를 했다며 당원소환 투표를 시행했다.&lt;br&gt;&lt;br&gt;허 대표 당원소환 투표에는 으뜸당원 2만1694명이 참여해 1만9943명(91.93%)이 찬성했고 1715명(8.07%)이 반대했다. 조 최고위원 투표에서는 2만140명(92.84%)이 찬성했다고 지도부는 밝혔다. 개혁신당 당헌·당규는 으뜸당원 3분의 1 이상의 투표 참여와 유효 투표의 과반수 찬성이면 당원소환을 확정한다고 규정하고 있다.&lt;br&gt;&lt;br&gt;천 원내대표는 “허은아, 조대원은 결과를 부정하기보다 당원들의 확실한 의사를 스스로 새기고, 성찰해야 한다. 대표로 선출된 적 있던 인물이라면 절차적 혼란 없이 정리에 협조하는 것이 도의일 것”이라고 했다.&lt;br&gt;&lt;br&gt;허 대표와 친이준석계 지도부 간 갈등은 지난달 16일 허 대표가 이 의원 측근으로 분류되는 김철근 사무총장을 경질하면서 수면 위로 올라왔다. 허 대표와 김 사무총장은 그간 당 운영방식 등을 놓고 갈등을 빚어왔다. 허 대표는 이 정책위의장과 김 총장을 경질하고 후임을 선임했지만, 당사자들은 이를 인정하지 않으며 직책을 유지 중이다.&lt;br&gt;&lt;br&gt;허 대표는 지난 24일 국회에서 기자들과 만나 당원소환 투표에 대해 “불법적으로 진행되는 것이다. 절차가 잘못됐다”고 했었다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“이렇게 먹으면 칼로리 폭발”…설날 가장 살찌는 음식 1위는</title>
+      <link>https://www.chosun.com/national/national_general/2025/01/26/DLAECCBSAJEBDJCSZ4PXJABSMA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/26/DLAECCBSAJEBDJCSZ4PXJABSMA/</guid>
+      <dc:creator>김자아 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 26 Jan 2025 01:32:58 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SLGWH2VC3BOTXNBQIZIV2GM6EI.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;한 전통 약과 제조업체에서 직원들이 명절 선물로 나갈 수제 약과 세트를 포장하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울아산병원이 명절에 비만과 대사 질환 위험을 유발하는 고칼로리 음식 섭취를 조심하라고 당부했다.&lt;br&gt;&lt;br&gt;서울아산병원은 지난 24일 공식 소셜미디어(SNS)에 설 연휴를 앞두고 가장 살찌는 음식 ‘톱 10’을 공개했다.&lt;br&gt;&lt;br&gt;10위에는 100g당 약 142㎉인 3색 나물, 9위는 떡만둣국(100g 기준 약 210㎉), 8위는 돼지갈비찜(100g 기준 약 250㎉), 7위는 불고기(100g 기준 약 270㎉)로 나타났다. &lt;br&gt;&lt;br&gt;6위 음식부터는 100g당 300㎉가 넘어간다. 6위는 동그랑땡(100g 기준 약 309㎉), 5위 잡채(100g 기준 약 310㎉), 4위 꼬치전(100g 기준 약 320㎉)이 올랐다. &lt;br&gt;&lt;br&gt;3위는 소갈비찜(100g 기준 약 340㎉), 2위는 떡갈비(100g 기준 약 350㎉)이며 명절에 조심해야 할 고칼로리 음식 1위로 100g(2~3개) 기준 약 420㎉의 ‘약과’가 꼽혔다.&lt;br&gt;&lt;br&gt;서울아산병원 영양팀은 “설날 음식들은 맛있지만 대부분 고칼로리”라며 “특히 전과 갈비찜 등은 기름과 당분이 많아 칼로리가 폭발한다”고 설명했다.&lt;br&gt;&lt;br&gt;아울러 명절 음식 고열량 폭탄에서 벗어날 방법으로 ▲각종 전류는 기름에 튀기기보다 에어프라이어를 활용하기 ▲갈비찜류는 설탕 사용을 줄이고 채소나 과일 활용하기 ▲떡만둣국은 떡과 만두를 조금 줄이고 버섯, 애호박 추가하기 ▲식사 시 나물 같은 채소 위주로 먼저 먹어서 포만감 챙기기 ▲개인 접시에 덜어 먹고 천천히 먹기 ▲설날 이후 가벼운 운동을 통해 쌓인 칼로리를 소모하고, 저염식과 채소 위주 식단으로 몸을 회복시키기 등을 제안했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>설 연휴 20대 여성 피살...가해 추정 남성도 사망</title>
+      <link>https://www.chosun.com/national/incident/2025/01/26/IJVYDWANMBBQLPL2U6PJK4SQOQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/01/26/IJVYDWANMBBQLPL2U6PJK4SQOQ/</guid>
+      <dc:creator>파주=김현수 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 26 Jan 2025 01:40:08 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/L4GEXC5HOZAC5NA5TDDI7RQ23U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;설 연휴 둘째 날인 26일 파주시에서 20대 여성이 살해당하고, 범인으로 추정되는 남성도 사망하는 사건이 발생해 경찰이 수사에 나섰다.&lt;br&gt;&lt;br&gt;경찰에 따르면 이날 오전 경기 파주시 문산읍에서 칼부림이 났다는 내용의 신고가 경찰에 접수됐다. 출동한 경찰은 현장에서 피를 흘리며 쓰러져 있는 20대 중반 여성 A씨와 20대 중반 남성 B씨를 발견됐다. &lt;br&gt;&lt;br&gt;A씨는 목 부위를 크게 다쳐 숨졌고, B씨는 의식이 있던 상태였지만 병원으로 옮겨져 치료를 받다 사망했다. A씨와 B씨는 동거하는 연인 관계인 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰은 B씨가 A씨를 살해한 뒤 자해했을 가능성이 큰 것으로 보고, 이들의 휴대전화를 분석하고 부검을 의뢰한 상태다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>軍 "北 순항미사일 사전 인지 후 추적·감시…어떤 도발도 압도적 대응"</title>
+      <link>https://www.chosun.com/national/2025/01/26/FPTQQWUDENFFBI2IJVQZHF32VA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2025/01/26/FPTQQWUDENFFBI2IJVQZHF32VA/</guid>
+      <dc:creator>이민석 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 26 Jan 2025 01:00:56 +0000</pubDate>
+      <content:encoded>북한이 지난 25일 김정은이 직접 참관한 가운데 해상대지상 전략순항유도무기 시험 발사를 진행했다고 26일 밝혔다. 이에 대해 우리 군은 사전에 인지하고 대비하고 있었다고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4VYJ5KLPVANRBNB3BKNAIJMYKM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;북한 미사일총국이 25일 김정은 참관 하에 해상(수중)대지상 전략순항유도무기시험발사를 진행했다고 26일 조선중앙통신이 보도했다. /평양 노동신문, 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;합참은 이날 “우리 군은 어제 북한의 순항미사일 발사 징후를 사전 인지해 대비하고 있었다”며 “오후 4시쯤 북한이 내륙에서 서해상으로 순항미사일 수발을 발사한 것을 추적·감시했고, 세부 제원은 한미 정보당국이 정밀 분석중에 있다”고 했다.이어 “우리 군은 현 안보상황에서 북한이 오판하지 않도록 굳건한 한미 연합방위태세 하에 북한의 다양한 활동에 대해 예의주시하면서 어떠한 도발에도 압도적으로 대응할 수 있는 능력과 태세를 유지하고 있다”고 했다.&lt;br&gt;&lt;br&gt;앞서 북한 조선중앙통신은 이날 보도에서 “발사된 전략 순항 미사일들은 7507~7511초간 1500㎞의 비행구간을 타원 및 8자형 궤도를 따라 비행해 표적을 명중 타격했다”면서 “주변 국가들의 안전에 그 어떤 부정적 영향도 끼치지 않았다”고 했다. 김정은은 “공화국 무력의 전쟁 억제 수단들은 더욱 철저히 완비되어 가고 있다”면서 “우리는 앞으로 보다 강력히 진화된 군사력을 바탕으로 지속적이며 영구적인 평화와 안정을 수호하기 위한 자기의 중대한 사명과 본분에 항상 책임적으로 분투할 것”이라고 주장했다.&lt;br&gt;&lt;br&gt;도널드 트럼프 미 행정부 출범 이후 이뤄진 도발을 두고 북한이 미국과의 대화 재개를 두고 신경전을 벌이고 있다는 분석도 나오고 있다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>北외무성, 한미연합훈련 비난 “美가 주권 거부하는 이상 초강경 대응”</title>
       <link>https://www.chosun.com/politics/north_korea/2025/01/26/A3OJ6FPF4FDTLJQH4MJZQJQM4Y/</link>
       <guid isPermaLink="true">https://www.chosun.com/politics/north_korea/2025/01/26/A3OJ6FPF4FDTLJQH4MJZQJQM4Y/</guid>
@@ -248,24 +355,6 @@
       <description/>
       <pubDate>Sat, 25 Jan 2025 02:08:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PN4HN7VCLRKSNGUJLM6DEV4IFY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대한민국 법원을 상징하는 로고. /News1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이혼 소송 중인 아내의 자동차 앞바퀴 나사를 풀어 아내를 다치게 하려 한 남편에게 법원이 징역형의 집행유예를 선고받았다.&lt;br&gt;&lt;br&gt;수원지법 형사15단독(부장판사 황운서)은 특수재물손괴, 특수상해미수 혐의로 기소된 50대 A씨에게 징역 2년에 집행유예 3년을 선고했다고 25일 밝혔다. 또 보호관찰과 사회봉사 160시간을 명령했다.&lt;br&gt;&lt;br&gt;재판부는 “피고인은 피해자와 불화로 범행을 저질러 조사를 받거나 처벌받은 전력이 여러 차례 있는데도 또 범행을 저질러 재범의 위험성이 있다”고 밝혔다.&lt;br&gt;&lt;br&gt;그러면서도 “다행히 운전 초기에 발각돼 교통사고가 발생하지 않은 점, 피고인이 피해자를 위해 200만 원을 공탁한 점 등을 고려했다”고 했다.&lt;br&gt;&lt;br&gt;A씨는 2023년 2월 새벽 시간대 아내 B씨가 소유한 자동차의 운전석 앞바퀴 휠 부분에 부착된 나사 3개를 풀고 B씨에게 상해를 가하려 했으나 미수에 그친 혐의다.&lt;br&gt;&lt;br&gt;B씨는 같은 날 승용차를 운전하다가 평소와 달리 차량 바퀴가 심하게 덜컹거리며 큰 소음이 나자 보험회사를 통해 차량을 견인 조치했다. A씨는 이혼 소송을 진행하면서 아내와 갈등이 깊어지자 앙심을 품고 범행한 것으로 파악됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>분할 위기에도 고공행진하는 구글 주가</title>
-      <link>https://www.chosun.com/national/2025/01/25/SMG7OMXUQJFZVD6E4G3U7LOK7Q/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2025/01/25/SMG7OMXUQJFZVD6E4G3U7LOK7Q/</guid>
-      <dc:creator>석남준 기자</dc:creator>
-      <description/>
-      <pubDate>Sat, 25 Jan 2025 01:15:28 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/A7ZDTRCPGJPFRK5HEF34CZMVJU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2025년 1월 19일 스위스 다보스포럼에 구글의 로고가 걸려 있다.AFP 연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;분할 위기를 맞고 있는 구글의 주가가 고공행진을 하고 있다. 24일(현지시각) 미국 뉴욕 증시에서 구글 주가는 201.90달러에 거래를 마쳤다. 전날보다 1.16% 올랐다. 구글 주가는 종가 기준으로 지난 22일 처음으로 200달러를 돌파(200.03달러)한 데 이어 또 다시 사상 최고점을 기록했다.&lt;br&gt;&lt;br&gt;이날 기술주 중심인 나스닥종합지수는 0.5% 하락한 채 장을 마쳤다. 엔비디아와 애플 주가도 각각 3.12%와 0.39% 하락했다.&lt;br&gt;&lt;br&gt;구글은 작년 8월 미국 법무부와 소송에서 패소하고, 검색 시장을 불법으로 독점하고 있다는 판결을 받았다. 미 법무부는 구글의 검색 독점 지위를 깨고 시장 경쟁을 되살리기 위해서는 회사를 쪼개는 것 외에는 방법이 없다는 결론을 내렸다.&lt;br&gt;&lt;br&gt;하지만 구글 주가는 올해 들어서만 6% 가까이 올랐다. 나스닥지수가 3.3% 오른 것과 비교하면 확연한 상승세다. 위기 상황 속에서도 구글의 주가가 상승하는 이유는 뭘까. 미국 CNBC는 “구글이 제재에 직면하고 경쟁은 격화되고 있다”면서도 “전문가들은 구글이 AI(인공지능)에서 기회를 얻을 것이라는 데 대체적으로 긍정적”이라고 보도했다. 위기 상황 속에서도 구글이 경쟁력을 입증할 것이라고 보는 사람이 많다는 것이다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/76A5EKEMMZNFXEN653IMBFJORA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 20일 미국 워싱턴 미 국회의사당에서 열린 도널드 트럼프 대통령 취임식에 참석한 구글 CEO 순다르 피차이(가운데).오른쪽은 일론 머스크,왼쪽은 제프 베이조스 아마존 창업자.EPA 연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;구글은 또한 최근 트럼프 2기 행정부에 기대를 거는 모양새다. 구글은 대통령 취임식 기금에 100만달러를 기부했고, 순다르 피차이 구글 CEO는 취임식에 직접 참석하기도 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>주유소 기름값 15주 연속 상승...서울 휘발유 가격 1년 2개월만에 1800원대</title>
-      <link>https://www.chosun.com/national/2025/01/25/FMOXBMCPBVHDRLLG2WTLNDIIX4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2025/01/25/FMOXBMCPBVHDRLLG2WTLNDIIX4/</guid>
-      <dc:creator>석남준 기자</dc:creator>
-      <description/>
-      <pubDate>Sat, 25 Jan 2025 00:42:41 +0000</pubDate>
-      <content:encoded>국내 주유소 기름값이 꺾일 줄 모르고 계속해서 오르고 있다. 서울 휘발유 평균 가격이 2023년 11월 이후 1년 2개월 여만에 L당 1800원대에 진입했다.&lt;br&gt;&lt;br&gt;25일 한국석유공사 유가정보시스템 오피넷에 따르면 휘발유와 경유의 주간 평균 가격이 15주 연속 상승했다. 1월 넷째주(19~23일) 전국 주유소 휘발유 L당 평균 판매가는 1726.21원으로 집계됐다. 직전 주 대비 20.13원 상승했다.&lt;br&gt;&lt;br&gt;휘발유 가격은 작년 10월 셋째주에 1591.59원을 기록하며 전주 대비 상승을 시작한 후 15주 연속 올랐다. 경유 역시 작년 10월 셋째주부터 줄곧 오름세를 기록하고 있다.&lt;br&gt;&lt;br&gt;1월 넷째주 서울 주유소의 평균 휘발유 판매가격은 L당 1800.54원이었다. 직전 주보다 26.72원 상승했다. 서울 주유소 휘발유 평균 판매가격이 L당 1800원대에 진입한 건 2023년 11월 6일(1802.69원) 이후 1년2개월여 만이다.&lt;br&gt;&lt;br&gt;이번주 국제 유가는 도널드 트럼프 미국 대통령이 주요 산유국에 유가 인하를 압박하면서 상승폭은 미미했다. 하지만 국제유가 변동은 통상 2~3주 후에 국내 가격에 반영되기 때문에 설 연휴 이후까지도 기름값이 오를 것이란 전망이 나온다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TP3WETJFE5LFPL2FQLAMH6WRDU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 21일 서울의 한 주유소 모습. 서울 주유소 휘발유 가격이 L당 1800원대에 진입했다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>홍준표, 尹 구속연장 불허에 “이재명 받들어 잽싸게 움직이더니 꼴좋다”</title>
@@ -869,59 +958,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CINTR666CFD4VFTWVPUWZN3BHA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이향숙 이화여자대학교 신임 총장이 24일 서울 서대문구 이화여대 김영의홀에서 열린 취임식에서 취임 소감을 밝히고 있다./이화여대&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이화여자대학교 제18대 이향숙 신임 총장이 24일 서울 서대문구 이화여대 김영의홀에서 취임식을 가졌다.&lt;br&gt;&lt;br&gt;이 총장은 취임사에서 “디지털 대전환 시대의 창의적 미래인재를 양성하고, 세계적 수준의 연구개발과 혁신을 통해 국가의 성장을 견인해 가겠다”며 “창의와 도전, 수월성과 혁신, 협력과 동행, 지속가능성, 나눔과 섬김을 핵심 가치로 삼아 새 시대, 새 이화가 출발하고자 한다”고 말했다.&lt;br&gt;&lt;br&gt;이 총장은 인공지능 시대에 최적화된 전문 인재 양성을 위해 인공지능 기반 교육 인프라와 전공별 맞춤형 AI 교육 시스템을 구축하겠다고 밝혔다. 또 퍼스트무버(First Mover)형 연구 리더십 구축, 이화 브랜드 가치와 글로벌 위상 제고, 첨단 융복합 메디·헬스케어 클러스터 구축 등의 목표를 제시했다.&lt;br&gt;&lt;br&gt;이 총장은 이화여대 역사상 첫 과학기술 계열 총장이다. 1986년 이대 수학과를 졸업한 이 총장은 이대와 미국 노스웨스턴대에서 각각 석사, 박사 학위를 받았다. 1995년부터 이대 수학과 교수로 재직했으며 수학과 학과장과 연구처장·산학협력단장 등을 맡았다. 임기는 내달 1일부터 2029년 1월 31일까지 4년이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>‘선거법 위반’ 혐의 정봉주, 첫 공판서 혐의 부인… “카드뉴스 제작 가담 안 해”</title>
-      <link>https://www.chosun.com/national/national_general/2025/01/24/UT3E26XSCBG5LEEEIXACPUJEOE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/24/UT3E26XSCBG5LEEEIXACPUJEOE/</guid>
-      <dc:creator>박정훈 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 24 Jan 2025 08:11:08 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/T7AOFCPXA7IJD3RMQND7LRNZ4A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;정봉주 더불어민주당 최고위원 후보가 지난 8월 12일 서울 여의도 국회 소통관에서 가진 기자회견에서 "'이재명팔이'하며 실세 놀이하는 무리들을 당의 단합을 위해 뿌리뽑겠다"고 말하고 있다. /뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 22대 총선 후보 경선 과정에서 왜곡된 여론조사가 담긴 카드뉴스 자료를 유포했다는 혐의로 재판에 넘겨진 정봉주 전 더불어민주당 의원이 첫 재판에서 혐의를 부인하고 나섰다.&lt;br&gt;&lt;br&gt;서울북부지법 형사합의11부(재판장 이동식)는 24일 오후 정 전 의원의 공직선거법 위반 사건 첫 공판기일을 진행했다. &lt;br&gt;&lt;br&gt;이날 정 전 의원 측은 “피고인이 기본적으로 이 사건 카드뉴스 제작 과정에 가담하지 않았다”며 무죄라고 주장했다. 정 전 의원 변호인은 “카드뉴스에 인용된 여론조사 결과 그래프가 과연 법률상 왜곡이라 볼 수 있을지 의문이 든다”며 “적극적 투표층이 참여하는 당내 경선에서는 일반인 (여론조사) 결과가 전혀 영향을 미치지 않는다는 점을 잘 알고 있는 피고인이 선거법 위반의 동기나 목적이 전혀 없었을 것”이라고도 했다.&lt;br&gt;&lt;br&gt;반면 이날 정 전 의원의 부탁을 받고 카드뉴스 자료를 제작해 함께 재판에 넘겨진 양모씨 측은 공소사실을 모두 인정한다고 밝혔다. 양씨는 “선거법에 대해 무지했다”며 “선거에 영향을 미치거나 여론조사 결과를 왜곡할 고의는 없었다”고 했다.&lt;br&gt;&lt;br&gt;검찰에 따르면 정 전 의원은 지난해 2월 민주당 강북을 지역구 후보 경선을 하던 중 경선 상대방인 당시 현역 박용진 의원과의 여론조사 결과를 본인에게 유리하게 발표한 혐의(공직선거법상 허위논평·보도등금지)를 받는다.&lt;br&gt;&lt;br&gt;검찰은 정 전 의원이 박 의원과의 지지율 격차가 비교적 적었던 일명 ‘적극 투표층’을 대상으로 한 여론조사 결과를 마치 전체 지역구 유권자 여론조사 결과인 것처럼 속인 카드뉴스 자료를 유포한 것으로 보고 있다. &lt;br&gt;&lt;br&gt;정 전 의원은 해당 경선에서 ‘비명계’였던 박 의원을 꺾고 강북을 후보로 공천됐으나 과거 ‘DMZ 목함지뢰’ 사고를 당한 장병들에게 막말을 한 전적과, 이에 따른 ‘거짓 해명’ 논란으로 공천이 취소됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[오늘의 운세] 1월 26일 일요일 (음력 12월 27일 乙未)</title>
-      <link>https://www.chosun.com/national/national_general/2025/01/24/CS2DO2GJAJCLTA323CPDIF34QU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/24/CS2DO2GJAJCLTA323CPDIF34QU/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Fri, 24 Jan 2025 08:05:00 +0000</pubDate>
-      <content:encoded>&lt;p&gt;&lt;div class="chosun_unse"&gt;&lt;iframe src="https://image.chosun.com/arc/unse_iframe.html" frameborder="0" scrolling="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;style&gt;.chosun_unse{position:relative;width:100%;height:350px;box-sizing:border-box}.chosun_unse&gt;iframe{position:absolute;top:0;left:0;width:100%;height:100%;overflow-y:hidden}@media all and (max-width:1024px){.chosun_unse{height:350px}}@media all and (max-width:1023px){.chosun_unse{height:350px}}@media all and (max-width:528px){.chosun_unse{height:270px}}@media all and (max-width:384px){.chosun_unse{height:190px}}&lt;/style&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;p&gt;&lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani01.gif"&gt;  	&amp;nbsp;	36년생 손재 없으나 건강은 조심. 48년생 잘못 지적하면 겸허히 받아들일 수 있어야. 60년생 외모는 거울, 마음은 술로 본다. 72년생 속에 천불 나도 안정감 잃지 않도록. 84년생 방어가 최선의 선택이라 할 수 없다. 96년생 눈치 없으면 기회 놓칠 수도.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt;  &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani02.gif"&gt;	&amp;nbsp;	37년생 회식 자리 시비구설 주의. 49년생 80~90%면 충분, 100% 채우려 애쓰지 마라. 61년생 범띠와의 거래는 이익도 크다. 73년생 억지로 하지 말고 순리 따르도록. 85년생 꽃이 한 가지에선 지고, 한 가지는 핀다. 97년생 답답 울적한 마음 밝고 활기찬 생활로.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani03.gif"&gt;	&amp;nbsp;	38년생 집안 화목하니 가문 번창하는구나. 50년생 직접 관련 없는 일이면 모른 척하라. 62년생 남과 다른 능력은 드러낼수록 미움받는다. 74년생 오르지 못할 나무 쳐다봐야 고개만 아프지. 86년생 능력자라고 홀로 할 수 있는 건 아니다. 98년생 주거 문제로 인한 근심 걱정.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani04.gif"&gt;	&amp;nbsp;	27년생 주변 사람의 몰이해로 마음 울적. 39년생 먼저는 슬프고 뒤에는 즐겁다. 51년생 만약 횡재수 아니면 이동과 변화. 63년생 가족과의 갈등 염려되는 하루. 75년생 과도한 욕심은 건강 해친다. 87년생 위험 요소는 사전 분산시켜야. 99년생 융통성 발휘하도록.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani05.gif"&gt;	&amp;nbsp;	28년생 노상에서 안전사고를 주의. 40년생 식견은 넓히고 인격은 높이고. 52년생 이유 없는 횡재는 도리어 재앙. 64년생 뒷감당을 생각하며 진행해야. 76년생 어려움 생기면 윗사람과 상의. 88년생 대인관계에서 고민과 갈등이 예상. 00년생 이미 지난 일 탓해본들 무슨 소용.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani06.gif"&gt;	&amp;nbsp;	29년생 오라는 데는 없어도 갈 데는 많다. 41년생 크기도 중요하지만 속도는 더 중요. 53년생 베풀 수 있을 때 베풀고 살아야. 65년생 최선을 다하되 차선도 생각하라. 77년생 실천 없는 계획은 망상에 불과. 89년생 화(禍)는 악행에서 비롯. 01년생 모르는 것이 약이 될 수도.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani07.gif"&gt;	&amp;nbsp;	30년생 완만히 추진하면 부작용 없다. 42년생 어차피 할 일이면 솔선수범하라. 54년생 절망과 희망은 백지 한 장 차이. 66년생 해 저문 강가에서 배는 타지 마라. 78년생 순간 기분에 좌우되지 않도록. 90년생 순풍에 돛 단 듯 천 리가 순식간. 02년생 직업상 변동이 발생할 수도.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani08.gif"&gt;	&amp;nbsp;	31년생 행복과 불행은 자신이 불러올 뿐. 43년생 누구에게나 예의를 갖추도록. 55년생 상대가 움직이면 같이 움직여라. 67년생 소화기 계통 질환을 주의. 79년생 감투와 명예는 피하는 것이 상책. 91년생 예상치 못한 즐거움은 재앙 초래. 03년생 심리적 부담이 가중되는 시기.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani09.gif"&gt;	&amp;nbsp;	32년생 과로는 금물이니 건강에 신경 쓰도록. 44년생 서 계신 부처는 서서 한평생. 56년생 맡기지 말고 직접 챙겨야. 68년생 세상은 내가 맞추어 가는 것. 80년생 시작은 있으나 마무리가 없구나. 92년생 사또 떠난 뒤에 나팔 불어봐야. 04년생 분수 밖의 것은 탐하지 마라.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani10.gif"&gt;	&amp;nbsp;	33년생 현실 벗어난 여행은 전화위복. 45년생 어리석은 이에게도 배울 점은 있다. 57년생 개인보다 전체 위한 희생 필요할 듯. 69년생 설악산 가는 길이 어디 하나겠는가. 81년생 사소한 일에 실책 날 수 있으니 점검 또 점검. 93년생 의심스럽다면 맡기지 말아야.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani11.gif"&gt;	&amp;nbsp;	34년생 아랫사람에게 힘 실어주도록. 46년생 흔들림 없이 안정감 있는 삶 유지하라. 58년생 국수 잘하는 솜씨가 수제비는 못하랴. 70년생 밀어 붙인다고 될 일 아니다. 82년생 새 인생 설계는 좋은 결과로 이어질 듯. 94년생 주위의 불평불만은 사전 예방하라.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani12.gif"&gt;	&amp;nbsp;	35년생 약간 고비는 있어도 전반적 진행은 순조. 47년생 얕은 시내에서 배 띄워봐야. 59년생 술자리에서 이성과의 구설수 조심. 71년생 실체 있으니 그림자 없겠나. 83년생 작은 변화 읽고 미래 대비하도록. 95년생 착수가 곧 성공, 주저 말고 진행하라.	&lt;br&gt;
-&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;한소평 금오산방 강주  &lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;			&lt;/p&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/4MTFRYWHBJA7XOKKF7G7JPLX5U.png?width=800&amp;height=420&amp;auth=4651b5b20b5d4901424204d1456faee02e4b064ff509db23945deabf4404c8ef&amp;smart=true" type="image/png" height="420" width="800"/>
-    </item>
-    <item>
-      <title>[오늘의 운세] 1월 25일 토요일 (음력 12월 26일 甲午)</title>
-      <link>https://www.chosun.com/national/national_general/2025/01/24/6DIJR6EESBE4NG3ODVXATP3V2I/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/24/6DIJR6EESBE4NG3ODVXATP3V2I/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Fri, 24 Jan 2025 08:00:00 +0000</pubDate>
-      <content:encoded>&lt;p&gt;&lt;div class="chosun_unse"&gt;&lt;iframe src="https://image.chosun.com/arc/unse_iframe.html" frameborder="0" scrolling="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;style&gt;.chosun_unse{position:relative;width:100%;height:350px;box-sizing:border-box}.chosun_unse&gt;iframe{position:absolute;top:0;left:0;width:100%;height:100%;overflow-y:hidden}@media all and (max-width:1024px){.chosun_unse{height:350px}}@media all and (max-width:1023px){.chosun_unse{height:350px}}@media all and (max-width:528px){.chosun_unse{height:270px}}@media all and (max-width:384px){.chosun_unse{height:190px}}&lt;/style&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;p&gt;&lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani01.gif"&gt;  	&amp;nbsp;	36년생 하늘은 사람과 제 복을 같이 낸다. 48년생 내게 불평불만 제기될 수도. 60년생 멸치가 궁해도 뼈대 없는 오징어와는 사돈 안 한다. 72년생 얼마나 더 시간과 비용 들지 답답. 84년생 날카로운 지식보다 지혜의 갑옷 필요. 96년생 마음 비우고 느긋하게 생각해야.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt;  &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani02.gif"&gt;	&amp;nbsp;	37년생 건강은 과신하는 게 아니다. 49년생 적당한 타협으로 마무리하는 건 상수. 61년생 칼의 생명이면서 닳기 쉬운 게 칼날. 73년생 목적만 명확하면 지금의 안위쯤이야. 85년생 근심 점차 사라지니 웃음 절로 난다. 97년생 이 보 전진 위한 일 보 후퇴.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani03.gif"&gt;	&amp;nbsp;	38년생 정확한 것은 좋으나 너무 따져 계산하지는 마라. 50년생 자력 안 되면 타력이라도 빌려야. 62년생 두 사람이 길 하나 두고 다투는 격. 74년생 현실 직시하고 무리한 계획은 접도록. 86년생 최고 묘수는 정도와 정석. 98년생 뛰는 사람 위에 나는 사람 있음을 명심.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani04.gif"&gt;	&amp;nbsp;	27년생 가까운 사람과의 다툼 주의. 39년생 아니다 싶으면 지금 당장 돌아서라. 51년생 서기(瑞氣) 남쪽에서 비친다. 63년생 원숭이띠와의 동업은 행운 부른다. 75년생 고생 많고 실속은 적다. 87년생 북쪽 문은 피하는 게 상책. 99년생 일이 되려니 쉽게도 되는구나.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani05.gif"&gt;	&amp;nbsp;	28년생 고집 때문에 적을 만들면 나만 손해. 40년생 한 길만 고집할 것 없다. 52년생 횡재수 아니면 슬하에 경사. 64년생 당당하고 대범하게 처신하라. 76년생 끝까지 버틴 사람이 이긴다. 88년생 비움이 크면 채움도 크다. 00년생 누런색과 숫자 5, 10 행운 부른다.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani06.gif"&gt;	&amp;nbsp;	29년생 아는 게 병, 모르는 게 약. 41년생 비교하지 않으면 행복이 저절로. 53년생 물러날 때를 아는 것이 지혜. 65년생 독식(獨食)보다 나누는 마음으로. 77년생 누구보다 자신에게 정직하라. 89년생 활동에 비해 소득은 별로. 01년생 모든 일에는 다 때가 있음을 명심.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani07.gif"&gt;	&amp;nbsp;	30년생 물 흐르듯이 가는 것도 방법. 42년생 조급하게 서두르면 되치기 당할 수도. 54년생 동업에도 다 때가 있는 법. 66년생 손에 쥐여줘도 모르면 어쩔 수 있나. 78년생 명예를 추구해도 좋을 시기. 90년생 불평불만으로는 문제 해결 안 된다. 02년생 실수는 깨끗이 인정하라.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani08.gif"&gt;	&amp;nbsp;	31년생 자신을 낮추고 겸손 또 겸손 하라. 43년생 군중에 섞여 가면 안락은 담보. 55년생 한 우물만 파다 보면 물 난다. 67년생 축배를 들기에는 아직 이른 듯. 79년생 시기 질투는 시기 질투를 부른다. 91년생 변화보다 안정을 추구해야. 03년생 내일을 위해 오늘은 충전 모드.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani09.gif"&gt;	&amp;nbsp;	32년생 문서로 인한 즐거움이 기대. 44년생 명분과 실리 모두 만족. 56년생 귀중품 분실이 염려되니 사전에 방비. 68년생 기회는 준비된 사람에게. 80년생 낙담하기에는 아직 이르다. 92년생 전문가에게서 해답 찾도록. 04년생 통제할 수 없는 것이 있다.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani10.gif"&gt;	&amp;nbsp;	33년생 다음 위해 만반의 대비 필요. 45년생 사람 낼 때 제 몫도 함께 낸다. 57년생 지병 있다면 재발과 악화 주의. 69년생 세상은 생각보다 공평하거나 정의롭지 않을 수도. 81년생 먼 길 항해하다 보면 풍파도 순풍도 만나고. 93년생 여럿이 함께 의논해 봄이 좋을 듯.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani11.gif"&gt;	&amp;nbsp;	34년생 토끼 덫에 노루가 잡힌 격. 46년생 말하지 않는 것도 말이다. 58년생 시각 바꾸면 기회 보인다. 70년생 한 모음에서도 동상이몽 될 수도. 82년생 친구 사이에 복권, 투자, 내기는 이롭지 않다. 94년생 항해하지 않는 배는 아무리 커도 무용지물.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani12.gif"&gt;	&amp;nbsp;	35년생 안 되는 일 붙잡고 있어 봐야 시간만 낭비. 47년생 굽힐 땐 이마가 땅에 닿도록. 59년생 용띠와의 거래는 절대 주의. 71년생 눈에 안 보이는 것까지 꿰뚫어 볼 수 있어야. 83년생 윗사람과 아랫사람 사이 진퇴양난. 95년생 아무리 궁해도 까치밥은 남겨야.	&lt;br&gt;
-&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;한소평 금오산방 강주  &lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;			&lt;/p&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/4MTFRYWHBJA7XOKKF7G7JPLX5U.png?width=800&amp;height=420&amp;auth=4651b5b20b5d4901424204d1456faee02e4b064ff509db23945deabf4404c8ef&amp;smart=true" type="image/png" height="420" width="800"/>
-    </item>
-    <item>
       <title>경찰, 김성훈 경호처 차장·이광우 본부장 구속영장 신청</title>
       <link>https://www.chosun.com/national/national_general/2025/01/24/GNHTO6NDTNDDRF2DBPM6E62QCE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/24/GNHTO6NDTNDDRF2DBPM6E62QCE/</guid>
@@ -931,45 +967,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DXXTI32M2RPSHN4QZOC3SPD63Q.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;김성훈 대통령경호처차장(왼쪽)과 이광우 경호본부장이 24일 오전 서울 서대문구 경찰청 국가수사본부 특별수사단에 출석하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰 국가수사본부 비상계엄특별수사단이 24일 서울서부지검에 김성훈 대통령 경호처 차장과 이광우 본부장에 대한 사전 구속영장을 신청했다고 밝혔다.&lt;br&gt;&lt;br&gt;경찰은 이날 오전 7시 30분 김성훈 대통령 경호차장과 이광우 경호본부장을 소환 조사했다. 경호처 내 강경파로 분류되는 김 차장과 이 본부장은 지난 3일 윤석열 대통령에 대한 체포영장 1차 집행을 저지한 혐의로 지난 17일과 지난 18일 경찰에 체포됐다.&lt;br&gt;&lt;br&gt;경찰은 18일 김 차장에 대한 구속영장을 신청했지만, 검찰에서 이를 반려하며 석방됐다. 증거 인멸 등 우려가 없어 검찰 측에서 반려했다고 경찰은 전했다. 이 본부장 역시 19일 석방돼 현재 경호 업무에 복귀한 상황이다.&lt;br&gt;&lt;br&gt;경찰은 윤 대통령에 대한 체포영장 2차 집행 과정에서 김 차장과 이 본부장이 총기 준비를 했다는 정황과 관련 경호처 직원들의 진술을 확보했다. 이와 관련 김 차장과 이 본부장의 변호인 측은 “노조 시위대가 습격한다는 제보가 있어 경호 목적으로 대비한 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>“측정 말고 내 사무실로 보내” 부하 음주운전 숨긴 경찰 간부, 결국…</title>
-      <link>https://www.chosun.com/national/court_law/2025/01/24/DF6CKJGMKNB4XNOH4S25YLOHNI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/01/24/DF6CKJGMKNB4XNOH4S25YLOHNI/</guid>
-      <dc:creator>인천=이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 24 Jan 2025 06:22:38 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/E3P2NH2FDUFARVIHP3RQ7YZJQE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원 로고./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;당직 근무 중 회식에 간 사실이 들통 나 징계를 받을까 봐 회식 후 교통사고를 낸 부하 직원의 음주 사실을 숨기려 한 경찰 간부에게 유죄가 선고됐다.&lt;br&gt;&lt;br&gt;인천지법 형사1단독 김태업 판사는 직무유기 교사 혐의로 기소된 인천 모 경찰서 소속 간부 A(53)씨에게 징역 4개월에 집행유예 1년을 선고했다고 24일 밝혔다.&lt;br&gt;&lt;br&gt;또 A씨의 지시를 받고 동료 경찰관에 대한 음주 측정을 곧바로 하지 않아 직무유기 혐의로 기소된 경찰관 B(46)씨에 대해선 자격정지 1년의 선고를 유예했다.&lt;br&gt;&lt;br&gt;A씨는 지난 2022년 9월 14일 새벽 같은 경찰서 소속 후배 경찰관인 B씨에게 자신의 부하 직원인 C씨에 대한 음주측정을 하지 말라고 부탁한 혐의로 기소됐다. B씨는 A씨의 부탁을 받고 C씨에 대한 음주측정을 하지 않은 혐의로 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;C씨는 이날 오전 0시 28분쯤 인천 중구의 한 도로에서 술을 마시고 차를 몰다 중앙분리대를 들이받는 사고를 내고, 아무런 조치 없이 인근 자신의 집으로 도망쳤다. C씨는 사고 전날 오후 6시 10분쯤부터 A씨를 포함한 팀원들과 회식한 뒤 따로 2차 술자리를 갔다가 사고를 냈다.&lt;br&gt;&lt;br&gt;사고 내용을 확인한 교통조사팀 소속 B씨는 C씨에게 연락해 경찰서 출석을 요구했으나, 경찰서로 온 C씨에 대한 음주 측정을 하지 않았다. 당직 근무 중이던 A씨로부터 “음주 측정을 하지 말고 내가 근무하는 사무실로 (C씨를) 보내라”는 말을 들었기 때문이다.&lt;br&gt;&lt;br&gt;A씨는 당직 근무 중 회식했다가 부하 직원의 음주운전 사고 사실이 알려지면 징계를 받을 수 있다고 생각해 사건을 무마하려 한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;A씨는 재판에서 “B씨에게 음주 측정을 하지 말라고 하지 않았다”고 주장했으나 법원은 B씨 진술과 증거 등을 토대로 이를 받아들이지 않았다.&lt;br&gt;&lt;br&gt;김 판사는 “A씨는 B씨에게 음주측정을 하지 말아 달라고 부탁하고, B씨는 이를 받아들여 음주측정을 하지 않았다”며 “피고인들의 제 식구 감싸기로 경찰 조직의 명예가 실추돼 죄질이 좋지 않다”고 했다. 이어 “A씨는 혐의를 부인하며 책임을 B씨에게 떠넘겨 비난 가능성이 높다”며 “20년 넘게 경찰관으로 일하며 여러 차례 표창을 받고 달리 처벌받은 전력이 없는 점 등을 고려했다”고 했다.&lt;br&gt;&lt;br&gt;B씨에 대해선 “사건 내용을 모두 인정하고 상응한 책임을 지겠다는 태도를 견지해 왔다”며 “15년 넘게 경찰관으로 성실히 근무하고, 한 순간의 오판으로 발생한 이번 일에 대해 뉘우치고 있는 점 등을 고려했다”고 양형 이유를 설명했다.&lt;br&gt;&lt;br&gt;한편 사고를 낸 C씨는 도로교통법상 사고 후 미조치 혐의만 인정돼 벌금 200만원의 약식명령을 받았고, 국가공무원법상 품위유지 의무 위반 등으로 강등됐다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>김나정 측 “경찰, 참고인 조사 없이 일방적 논리로 검찰 송치 결정” </title>
-      <link>https://www.chosun.com/national/national_general/2025/01/24/FEIFPSFWNZFVDHKRDSJASZ7PVM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/24/FEIFPSFWNZFVDHKRDSJASZ7PVM/</guid>
-      <dc:creator>박선민 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 24 Jan 2025 07:30:03 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EH7YEQDK6ZBRLOTISBC2JZXNYI.png"&gt;&lt;figcaption&gt;&lt;small&gt;김나정. /인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;필리핀에서 마약을 투약한 혐의로 검찰에 송치된 프리랜서 방송인 김나정(33) 측이 이 같은 결정에 대해 “경찰이 여러 다른 사정을 살펴야 했는데, 참고인들에 대한 조사 없이 일방적인 논리와 검사 결과만을 갖고 송치 결정을 내렸다”고 주장했다. &lt;br&gt;&lt;br&gt;김나정 측 김연기 변호사(법무법인 충정)는 24일 입장문을 통해 “의뢰인에 대한 검찰 송치는 중요 참고인에 대한 조사 없이 이뤄졌다. 의뢰인이 피해 상황에 처한 이상 그 즉시 이에 대한 직접증거를 남기는 것은 오히려 이상한 일”이라며 이같이 밝혔다. &lt;br&gt;&lt;br&gt;김 변호사는 “2차례의 모발검사를 비롯한 정밀검사 결과에 따를 때, 의뢰인은 본 강제 투약 사건 이전에는 투약 사실이 없다는 점이 드러났다”며 “휴대전화를 임의제출하고, 주거지 압수수색을 당하는 등의 고초를 당했으나 의뢰인과 관련한 별도의 증거 일체가 발견되지 않았다”고도 했다. &lt;br&gt;&lt;br&gt;김 변호사는 온라인상에 퍼진 여러 루머도 일축했다. 그는 “온라인 커뮤니티 등에는 ‘의뢰인이 상습적으로 마약을 투약했다’ ‘주사기까지 사용할 정도로 악질이다’ 등 허위의 음해까지 보이는바, 이는 사실이 아님을 명확히 밝힌다”고 했다. 그러면서 “의뢰인은 피해자이며 무죄 추정을 받아야 할 입장임에도 불구, 계속 정신과 치료를 받는 등 매우 힘든 상황에 처했다”고 했다. &lt;br&gt;&lt;br&gt;앞서 김나정의 마약 투약 의혹은 그가 지난 11월 12일 마닐라 출국 전 자신의 인스타그램에 “제가 필리핀에서 마약 투약한 것을 자수한다”며 “죽어서 갈 것 같아서 비행기를 못 타겠다”는 내용의 글을 올리면서 불거졌다. 이후 김나정은 인천국제공항으로 귀국한 직후 공항경찰 조사를 받았고, 사건은 주소지 등을 고려해 경기북부경찰청으로 넘어갔다. &lt;br&gt;&lt;br&gt;김나정 측은 필리핀에서 만난 젊은 사업가 A씨에 의해 강제로 마약류 연기를 흡입하게 됐다고 주장했지만, 경찰은 약 3개월의 영상 등 자료 분석을 토대로 이 자료가 강제성을 입증하기는 충분하지 않다고 보고 김나정을 마약류 관리에 관한 법률 위반 혐의(필로폰, 합성대마 투약)로 불구속 송치했다. 경찰은 김나정 측이 언급한 필리핀 현지 사업가에 대해서는 경찰청 본청 국제 관련 사건 담당 부서에 수사를 요청했다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>건국대 마스코트 거위 ‘건구스’ 폭행한 60대 남성, 벌금 300만원</title>
-      <link>https://www.chosun.com/national/national_general/2025/01/24/H2R4Q77REVHDRATQACAQ6PGH24/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/24/H2R4Q77REVHDRATQACAQ6PGH24/</guid>
-      <dc:creator>서일원 기자, 김병권 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 24 Jan 2025 07:37:46 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7BWRGDSOJJH33LSJXUQDV2OGCM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;잔디밭에 앉아 있는 거위들의 모습/신현종 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;건국대의 마스코트 거위로 알려진 ‘건구스’를 때린 혐의를 받는 60대 남성에게 벌금형이 선고됐다.&lt;br&gt;&lt;br&gt;서울동부지법 형사7단독 조아람 판사는 24일 동물보호법 위반 혐의로 기소된 김모(67)씨에 벌금 300만원을 선고했다.&lt;br&gt;&lt;br&gt;김씨는 작년 4월 11일 오후 건국대 호수 ‘일감호’에 서식하는 ‘건구스’를 100여 차례 때린 혐의를 받고 있다. 건구스는 건국대의 ‘건’과 거위를 뜻하는 ‘구스(goose)’를 합친 ‘건구스’로 불리며 학생들과 시민들에게 많은 사랑을 받았다. 당시 건구스는 부리에 피가 나는 상처를 입었는데, 김씨는 한달 후인 5월 11일에도 같은 장소에서 거위 두 마리를 폭행한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;앞서 지난 17일 열린 결심공판에서 검찰은 피고인에게 징역 6개월에 집행유예 2년을 선고해달라고 재판부에 요청했다. 검찰은 “죄질이 상당히 불량하고 이 사건으로 수사를 받는 중임에도 작년 5월 11일 같은 동물에 대해 가혹 행위를 했다”며 “재범의 우려가 있어 엄단할 필요가 있다”고 구형 이유를 밝혔다.&lt;br&gt;&lt;br&gt;김씨 측은 혐의를 인정한다면서 재판부에 선처를 호소했다. 김씨의 변호인은 “피고인의 동물 반복 학대 행위는 여지 없이 잘못된 행동”이라면서도 “다리 한 쪽을 잃고 고시원에서 어렵게 혼자 생활하는 독거 노인인 만큼 최대한 선처해달라”고 했다.&lt;br&gt;&lt;br&gt;재판부는 “피고인의 행위는 비난 가능성이 높다”면서도 “피고인이 이 사건 이전에 동종 범행으로 처벌받은 전력이 없는 점 등을 고려했다”고 양형 이유를 밝혔다.&lt;br&gt;&lt;br&gt;한편, 배타성과 지능이 높은 것으로 알려진 거위는 주인을 잘 따라 애완용으로 키우는 경우도 많다. 실제로 거위에 목줄을 걸고 동네 산책을 하는 경우도 심심치 않게 찾아볼 수 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/STJXFBEY4FH7BGLMQYL255F2LQ.gif?width=600&amp;height=465&amp;auth=a1b9a0fbf50ca18ef927842b08c6dfec3404fc230e9b0ef2545e819e48202eac&amp;smart=true" type="image/jpeg" height="465" width="600">
-        <media:description type="plain">서울 건국대학교 일감호에 서식하는 거위의 머리를 때리는 남성의 모습. /동물자유연대</media:description>
-      </media:content>
-    </item>
-    <item>
-      <title>‘산하기관장 사직강요 의혹’ 조명균 전 장관, 1심 무죄</title>
-      <link>https://www.chosun.com/national/court_law/2025/01/24/FD26ZTWYEZDQVK7RWH6TGUDF2M/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/01/24/FD26ZTWYEZDQVK7RWH6TGUDF2M/</guid>
-      <dc:creator>김희래 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 24 Jan 2025 07:05:04 +0000</pubDate>
-      <content:encoded>전 정부에서 임명된 산하 기관장에게 사표 제출을 강요한 혐의로 기소된 조명균 전 통일부 장관이 1심에서 무죄를 선고받았다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FSXOLMRSGBPF247YGRH6QCEMPY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;조명균 전 통일부 장관. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지법 형사29부(재판장 김중남)는 직권남용 혐의로 기소된 조 전 장관에게 무죄를 선고했다. 재판부는 “검사가 제출한 증거만으로는 피고인이 통일부 산하 북한이탈주민지원재단(현 남북하나재단) 손광주 전 이사장에게 사표 제출을 요구한 사실이 합리적 의심을 할 정도로 증명됐다고 보기 어렵다”고 했다.&lt;br&gt;&lt;br&gt;재판부는 또 “(조 전 장관이) 설령 사표 제출을 요구했다고 보더라도 통일부 장관에겐 산하 기관 이사장을 해임하거나 임기를 단축할 인사권이 없으므로 자신의 직무권한을 남용했다고 보기 어렵다”고 했다. 그러면서 “통일부 장관으로서 지위를 남용해 권한 밖의 행위를 한 것으로 보더라도 지위남용에 불과하고, 지위 남용은 형사처벌 대상이 아니다”고 설명했다.&lt;br&gt;&lt;br&gt;조 전 장관은 문재인 정부 시절이던 2017년 7월 임기를 약 1년 남겨둔 손 전 이사장에게 사표를 빨리 제출하라고 종용한 혐의로 지난 2023년 1월 기소됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>검찰, 尹구속 연장 신청...서부 아닌 중앙지법에 냈다</title>
       <link>https://www.chosun.com/national/court_law/2025/01/24/LKGVH2VT6NCGXDICLF5LXT2HUE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/01/24/LKGVH2VT6NCGXDICLF5LXT2HUE/</guid>
@@ -977,15 +974,6 @@
       <description/>
       <pubDate>Fri, 24 Jan 2025 06:45:25 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DT2VYA3G33DODTOPJQAV4XBUXA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령이 23일 오후 서울 종로구 헌법재판소에서 열린 탄핵심판 4차 변론기일에 출석해 있다. /뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 대통령의 내란 우두머리 등 혐의 사건을 고위공직자범죄수사처(공수처)로부터 넘겨받은 검찰이 윤 대통령에 대한 구속영장 연장 허가를 법원에 신청했다고 24일 밝혔다.&lt;br&gt;&lt;br&gt;검찰 비상계엄 특별수사본부(본부장 박세현 서울고검장)는 전날 윤 대통령에 대한 구속기간을 다음달 6일까지 연장해달라고 서울중앙지법에 신청했다.&lt;br&gt;&lt;br&gt;당초 공수처는 윤 대통령 주거지 관할 등을 사유로 서울서부지법에 구속영장을 청구해 발부받았지만, 검찰은 내란 사건 관할 법원은 서울중앙지법이라고 내부적으로 판단한 것으로 알려졌다. 역대 대검찰청 차원의 특별수사본부나 특임검사팀 등은 중앙지법을 관할 법원으로 삼아왔다.&lt;br&gt;&lt;br&gt;법원의 결정은 이르면 이날 중 나올 것으로 전망된다.&lt;br&gt;&lt;br&gt;검찰은 법원의 구속기간 연장 허가를 받은 뒤 윤 대통령을 상대로 대면조사에 나설 예정인 것으로 알려졌다.&lt;br&gt;&lt;br&gt;구속됐던 전직 대통령 사례 등을 고려할 때 윤 대통령에 대한 조사는 부장검사들이 직접 윤 대통령이 수용된 서울구치소를 찾아 조사하는 방안이 유력하다. &lt;br&gt;&lt;br&gt;지난 2017년 구속됐던 박근혜 전 대통령도 서울구치소에서 검찰 조사를 받았다. 전두환·노태우 전 대통령은 1995년 각각 안양교도소와 서울구치소에서 검찰 조사를 받은 바 있다.&lt;br&gt;&lt;br&gt;특히 윤 대통령은 현직 대통령 신분인 만큼 경호나 집회 인파 관리 문제 등을 고려해야 한다.&lt;br&gt;&lt;br&gt;다만 윤 대통령이 검찰 조사에 응할지는 미지수다. 윤 대통령 측 윤갑근 변호사는 전날 기자들과 만난 자리에서 ‘검찰의 구치소 방문 조사에 응할 것이냐’는 질문에 “대통령, 변호인과 상의한 다음에 결정할 것”이라며 “검찰의 수사 태도나 여러 가지를 고려할 요소들이 아직은 많다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>경찰, 서부지법 난동 ‘투블럭남’ 구속영장 신청...방화미수 혐의 적용</title>
-      <link>https://www.chosun.com/national/national_general/2025/01/24/AX6LQHPROZBSTLQ5P24FQF4F6A/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/24/AX6LQHPROZBSTLQ5P24FQF4F6A/</guid>
-      <dc:creator>강지은 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 24 Jan 2025 06:51:50 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/D5PMTYTPKO5HPHWIXAUKAI3MXM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;19일 새벽 윤석열 대통령에 대한 구속영장이 발부되자 서울 서부지법에 지지자들이 진입해 난동을 부리고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울경찰청 광역수사단 형사기동대는 ‘서부지법 난동’ 당시 법원에 방화를 시도한 인물로 지목된 10대 남성 A씨에 대해 공동건조물침입, 특수공무집행 방해, 현주건조물방화미수 혐의로 24일 구속영장을 신청했다고 이날 밝혔다. 서부지법 난동 사건에서 방화 관련 혐의가 적용된 건 이번이 처음이다.&lt;br&gt;&lt;br&gt;경찰은 A씨를 지난 22일 특수공무집행방해 등 혐의로 긴급체포했다. 19일 서부지법 난동 당시 상황을 담은 영상을 보면, 한 남성이 깨진 법원 유리창 너머로 기름으로 추정되는 물질을 붓자 A씨는 종이에 불을 붙여 유리창 너머로 던졌다. 경찰은 A씨의 행동이 법원 건물에 방화를 시도했다고 보고 체포 시 적용됐던 혐의에 방화 미수 혐의를 추가했다.&lt;br&gt;&lt;br&gt;앞서 서부지법은 지난 18∼19일 서부지법과 헌법재판소 인근에서 현행범으로 체포된 90명 가운데 58명에 대해 구속영장을 발부했다.19일 새벽 서부지법에 침입해 기물을 파손하는 등 난동을 벌인 혐의(폭력행위처벌법상 공동주거침입)를 받는 이들이 44명, 고위공직자범죄수사처(공수처) 검사와 수사관들이 탑승한 차량을 막아선 10명, 취재진을 때린 1명과 법원 담장을 넘은 1명, 경찰을 폭행한 2명 등이다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>희대의 사기범 ‘큰 손 장영자'... 위조수표 사용 혐의, 또다시 구속</title>
@@ -1017,22 +1005,6 @@
       <description/>
       <pubDate>Fri, 24 Jan 2025 05:08:17 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WJNAIKTI3NJOBMSWN4542BM2X4.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;문형배 헌법재판소장 직무대행을 비롯한 헌법재판관들이 23일 서울 종로구 헌법재판소에서 열린 윤석열 대통령 탄핵심판 4차 변론에 자리하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최상목 대통령 권한대행이 마은혁 헌법재판소 재판관 후보자를 임명하지 않은 것이 위헌인지 여부를 헌법재판소가 다음달 3일 결정한다.&amp;nbsp;&amp;nbsp;&lt;br&gt;&lt;br&gt;헌재는 “헌재 재판관 임명권 불행사 부작위  위헌확인 헌법소원에 대한 선고를 다음달 3일 오후 2시에 한다”고 밝혔다. 쟁점은 최 대행이 국회가 선출한 헌재 재판관 후보자 3인을 임명하지 않는 것이 부작위(규범적으로 요구되는 일정한 행위를 하지 않음)여서 위헌인지 여부다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>곽종근 첫 발언은 ‘국회의원’ 아닌 ‘요원’ 이었다</title>
-      <link>https://www.chosun.com/national/2025/01/24/24BSACYK2BGYDCXMQFGLF4GOHY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2025/01/24/24BSACYK2BGYDCXMQFGLF4GOHY/</guid>
-      <dc:creator>양지호 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 24 Jan 2025 01:57:12 +0000</pubDate>
-      <content:encoded>김용현 전 국방 장관이 23일 12·3 비상계엄 당시 국회의사당 내 국회의원들이 아닌 “요원들을 끌어내라고 한 것”이라고 발언한 가운데 지난 6일 곽종근 전 특수전사령관이 “인원들을, 요원들을 밖으로 빼 내라”는 지시를 받았다고 말한 것이 주목받고 있다. 정치권에서는 야권에서 ‘국회의원 끌어내라는 지시를 받았다’는 발언을 유도한 것 아니냐는 논란이 일고 있다.&lt;br&gt;&lt;br&gt;곽 전 사령관은 12·3 비상계엄 당시 윤석열 대통령과 김 전 국방 장관이 ‘국회의원들을 끌어내라’고 발언했다는 취지로 주장해왔는데 지난달 6일 최초 공개 발언에서는 ‘요원’이라는 표현을 쓴 것이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QVBRDA57ZBIFLJLB6XCTW3HMFU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;곽종근(가운데) 전 육군 특수전사령관이 지난달 6일 특전사령부에서 더불어민주당 김병주(왼쪽), 박선원 의원과 계엄 당시 상황에 관해 인터뷰하고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;곽 전 사령관은 12·3 비상계엄으로부터 사흘이 지난 지난달 6일 김병주 의원의 유튜브 ‘주블리 김병주’에 출연해 이같이 답했다. 그는 김 의원이 12·3 비상계엄 당시 장관과 계엄사령관이 어떤 지시를 내렸냐고 묻자 “전임 장관으로부터 국회의사당 안에 있는 인원들을, 요원들을 밖으로 빼 내라”고 답했다. 군에서는 특수부대원을 통상 요원이라고 부른다.&lt;br&gt;&lt;br&gt;곽 전 사령관이 ‘요원’이라는 표현을 쓰자 옆에 앉아 있던 박선원 의원은 바로 “의원들을 끌어내라”고 말했다. 김 의원도 곽 전 사령관 발언을 끊고 “국회의원들을요?”라고 되물었다. 이에 곽 전 사령관은 “예”라고 답했다. 김 의원은 재차 “본회의장에 있는 국회의원들을 밖으로 끌어내라?”고 물었고 곽 전 사령관은 “예 그런 지시를 받았는데”라고 했다. 일각에서는 김 의원이 곽 전 사령관 답변을 ‘요원 빼내라’에서 ‘국회의원 빼내라’로 유도했다는 지적이 나온다.&lt;br&gt;&lt;br&gt;하지만 이후 곽 전 사령관은 “현장에서 판단했을 때는 명백히 국회의원 끌어내는 것은 위법사항이고 임무 수행 인원이 법적 책임을 져야하는 상황 생기기 때문에. 저한테 부여된 명령이라서 항명이 될줄 알았지만 그 임무를 지키지 않았다. 제가 (병력들에게) 들어가지 말라고 지시했다”고 했다. 앞서 ‘요원’이라는 표현을 쓰기는 했지만 국회의원을 끌어내라는 지시를 받았다는 취지로 해석된다.&lt;br&gt;&lt;br&gt;한편 김 전 장관은 23일 “군 병력 요원하고 국회 직원들하고 밀고 당기고 하면서 혼잡한 상황이 있었다”며 “잘못하다가 압사 사고가 나겠다, 이러면 국민도 피해가 생기겠지만 장병들도 피해가 생기겠다(고 생각해) 일단 빼라(고 지시했다)”고 설명했다. ‘의원’과 ‘요원’의 발음이 비슷해 군 지휘관들이 자기 말을 잘못 들었다는 취지다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;아래는 지난달 6일 김병주 의원 유튜브 채널 ‘주블리 김병주’에서 나눈 김 의원과 곽 전 사령관의 해당 대화 내용.&lt;br&gt;&lt;br&gt;김병주 의원(김): (국회) 안으로 들어온 병력들이 본회의장으로 밀고 들어왔었거든요. 그때는 보고받은 거나 상급부대로부터 장관·계엄사령관으로부터 지침받은 건 없습니까.&lt;br&gt;&lt;br&gt;곽종근 전 사령관(곽): 본회의장으로 들어가서 일부 들어갔던 인원이 있고 밖에 일부 인원 있었는데 제가 그 조치를 하면서 (김용현) 전임 장관으로부터 국회의사당 안에 있는 인원들을, 요원들을 밖으로 이렇게 좀 빼 내라.&lt;br&gt;&lt;br&gt;박선원 의원: 의원들을 끌어내라.&lt;br&gt;&lt;br&gt;김: 국회의원들을요.&lt;br&gt;&lt;br&gt;곽: 예.&lt;br&gt;&lt;br&gt;김: 본회의장 있는 국회의원들을 밖으로 끌어내라.&lt;br&gt;&lt;br&gt;곽: 예 그런 지시를 받았는데.&lt;br&gt;&lt;br&gt;김: 왜 끌어내라고 지시를 받은거에요. 구체적으로. 정족수를 못 채우게.&lt;br&gt;&lt;br&gt;곽: 그렇게 유추할 수는 있는데 제가 어떤 목적으로 그렇게 하라라는것까지는 지시받은 상황이 아니었기 때문에.&lt;br&gt;&lt;br&gt;김: 본회의장 국회의원을 밖으로 끌어내라.&lt;br&gt;&lt;br&gt;곽: 네.&lt;br&gt;&lt;br&gt;김: 그래서 어떻게 했습니까.&lt;br&gt;&lt;br&gt;곽: 현장에서 판단했을 때는 명백히 국회의원 끌어내는 것은 위법사항이고 그 임무를 수행한 인원들은 당연히 나중에 법적인 책임을 져야하는 문제가 생기기 때문에. 저한테 부여되는 명령이라서 항명이 될줄 알았지만 그 임무를 시키지 않았습니다. 제가 들어가지 말라고 지시했습니다.&lt;br&gt;&lt;br&gt;김: 예하부대에는 지시를 하지 않았네요.&lt;br&gt;&lt;br&gt;곽: 제가 들어가지 말라고 지시했습니다.&lt;br&gt;&lt;br&gt;김: 국방부 장관이 전화를 해서 국회의원을 밖으로 끌어내라 임무를 받았는데 이것은 위법하다고 생각하고. 또 들어간 인원들이 나중에 법적 책임을 받을 수 있기 때문에 항명을 각오하고라도 그것은 들어가지 마라라고 지시하셨다는 거죠. 이제 좀 이해가 가네요. 그때 본회의(장)로 밀고 들어올 것 같아서 의결해야한다고 국회의장을 압박했는데 그때 멈춰버렸거든요. 사령관이 지시를 한 거네요.&lt;br&gt;&lt;br&gt;곽: 예.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/JKTTQMS4VNALBNURWHF7ZMFLBA.jpg?width=792&amp;height=445&amp;auth=7b1bb26c1514d6eb7e7de939aae38e72cd2fcb2ea5976bdd21b2f49adc4cbc7b&amp;smart=true" type="image/jpeg" height="445" width="792">
-        <media:description type="plain">&lt;YONHAP PHOTO-5046&gt; 인터뷰하는 곽종근 육군 특수전사령관
-    (서울=연합뉴스) 곽종근 육군 특수전사령관이 6일 특전사령부에서 더불어민주당 김병주(왼쪽), 박선원 의원과 계엄 당시 상황에 관해 인터뷰하고 있다. 2024.12.6  [김병주 의원 유튜버 캡쳐. 재판매 및 DB 금지]
-    photo@yna.co.kr/2024-12-06 18:59:12/
-&lt;저작권자 ⓒ 1980-2024 ㈜연합뉴스. 무단 전재 재배포 금지, AI 학습 및 활용 금지&gt;</media:description>
-        <media:credit role="author" scheme="urn:ebu">진성철</media:credit>
-      </media:content>
     </item>
     <item>
       <title>‘어떻게 선동하는지 교육하겠다’는 민주노총</title>
