@@ -13,6 +13,83 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>“5공 시절과 다를 바 없다”...홍준표, 尹 대통령 수사 비판</title>
+      <link>https://www.chosun.com/national/2025/01/26/Q5UGWMRW2ZEDTCZF5C3RFQU74I/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2025/01/26/Q5UGWMRW2ZEDTCZF5C3RFQU74I/</guid>
+      <dc:creator>이승규 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 26 Jan 2025 08:07:43 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/REAFV77XNSQ7IXCNFFUBSJDYNY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;홍준표 대구시장/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;홍준표 대구시장이 윤석열 대통령의 내란 우두머리 혐의 사건에 대한 수사와 관련해 “정치가 혼돈이더니 수사기관, 사법부까지 혼돈 상태”라고 주장했다.&lt;br&gt;&lt;br&gt;홍 시장은 26일 자신의 소셜미디어 페이스북 계정에 올린 글에서 “문재인 정부 때 수사권을 강제 조정하면서 소위 검수완박을 하는 바람에 내란죄 수사권은 경찰만 갖게 됐다”며 “이번에 수사권도 없는 검찰이 달려들어 선수치는바람에 검찰의 모든 수사서류는 휴지가 됐고, 공수처의 수사서류도 휴지가 됐다”고 했다. &lt;br&gt;&lt;br&gt;그러면서 “검찰이나 공수처가 갖는 수사 권한은 직권 남용죄 뿐인데 이를 근거로 내란죄를 수사한 것은 마치 5공 시절에 경범죄로 (사람을)구금하고 국가보안법 위반 혐의를 수사한 것과 다를 바 없다”고 주장했다.&lt;br&gt;&lt;br&gt;홍 시장은 “법을 집행하는 사람들이 법에도 없는 권한을 행사해서 대통령을 불법 체포, 구금하고 이제와서는 그 휴지조각을 근거로 기소도 한다고 한다”며 “일제시대 치안판사도 아닌데 불법 영장을 남발하고 순사도 아닌데 불법 체포, 구속을 남발한 사람들은 나중에 어떤 가혹한 책임을 지려는지 걱정이 크다”고 했다. &lt;br&gt;&lt;br&gt;그는 또 “유일하게 구속기간 연장 결정을 기각한 판사들만 적법절차대로 한다”며 “정치가 혼돈이더니 이제 수사기관, 사법부까지 혼돈 상태”라고 글을 맺었다.&lt;br&gt;&lt;br&gt;한편 이날 심우정 검찰총장은 전국 검사장 회의를 열어 윤 대통령에 대한 사건 처리 방향에 대한 회의를 가졌다. 검찰 비상계엄 특별수사본부를 지휘하고 있는 박세현 서울고검장은 “(심우정)총장님께서 (사건 처리에 대한)최종 결정을 하실 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>尹지지자 커뮤니티, ‘서부지법 난동’ 사흘 전 답사 정황</title>
+      <link>https://www.chosun.com/national/national_general/2025/01/26/NIT6D4CLBRHCBLARXYNILLDFMM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/26/NIT6D4CLBRHCBLARXYNILLDFMM/</guid>
+      <dc:creator>구동완 기자, 서일원 기자 112@chosunbiz.com, 조민희 기자, 현정민 기자 now@chosunbiz.com</dc:creator>
+      <description/>
+      <pubDate>Sun, 26 Jan 2025 06:09:51 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ED7OSF23NJGQ3CEN6SYKKZWO3Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령 지지자들이 윤 대통령의 구속 소식에 반발해 서울서부지법에 집단 난입한 사태가 발생한 지 이튿날인 20일 오후 서울 마포구 서울서부지법 모습. /박성원 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울서부지법 난동 사태가 발생하기 수일 전부터 윤석열 대통령 지지자들이 온라인에서 구체적 계획을 사전 모의하고 실행에 옮긴 정황이 나타났다. 윤 대통령 체포에 분노한 이들이 서부지법을 미리 답사하거나 고위공직자범죄수사처의 차량 번호를 공유한 것이다.&lt;br&gt;&lt;br&gt;디시인사이드의 ‘국민의힘 갤러리’(국힘갤)와 ‘국민의힘 비대위 갤러리’(비대위갤), ‘미국 정치 갤러리’(미정갤) 등 3곳에는 윤 대통령 체포일인 15일부터 서부지법 사태가 벌어진 19일까지 27만4000여건의 글이 올라왔다. 해당 게시판들은 윤 대통령 2030 지지자의 온라인 집결지로 알려진 곳이다. 실제로 이번 서부지법 사태로 체포된 현행범의 51%가 2030 청년이다.&lt;br&gt;&lt;br&gt;지난 15일 공수처가 윤 대통령에 대한 체포영장을 집행하자 난동 계획이 구체화되기 시작했다. 게시판에는 체포를 막지 못한 기존 탄핵반대 집회가 ‘가두리 시위’, ‘콘서트’에 불과하다는 비판이 제기되며 적극적 실력행사가 필요하다는 주장이 나왔다.&lt;br&gt;&lt;br&gt;이튿날인 16일 오전에는 서부지법에 모여 공수처의 구속영장 청구를 저지하자는 글이 잇따라 올라왔고, 이날 저녁 지지자 200여명이 실제로 서부지법에 집결했다. 이들은 ‘인간 띠’를 만들었고 비대위갤 운영자인 유튜버 ‘박광배’ 등이 생중계했다.&lt;br&gt;&lt;br&gt;오후 11시 36분 미정갤에는 “여태까지 평화시위하면서 이뤄진 게 뭐가 있었느냐. 직접적으로 행동하지 못하는 동안 웃고 있던 건 이재명”이라는 닉네임 ‘ㅇㅇ’의 글이 올라와 100여명의 추천을 받았다. 신중론을 제기하는 이들은 “프락치”로 몰렸고, 극단으로 치닫는 분위기가 연출됐다. 현장을 촬영한 유튜버들도 “경찰이 버스로 시위대를 밀어버렸다”는 등의 과장된 주장을 확산해 불씨를 키웠다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EMYVAIHWHNDVBC73FFCY4YNKMA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서부지법 난동 사흘 전인 지난 16일 서부지법 후문으로 와달라는 내용의 비대위갤 게시물. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;난동 사흘 전인 16일 오후부터 커뮤니티에는 담벼락 높이 등 서부지법 구조를 분석하는 글이 잇따라 게시됐다. 16일 오후 8시 비대위갤에는 서부지법 후문 쪽 담벼락 사진과 함께 “서부지법 후문으로도 와줘. 담이 낮아서 여기로 진입하러 올 수도 있을 거 같고”라는 내용의 사전 답사로 보이는 글이 올라왔다. ‘고닉○○뗌’도 오후 8시 31분쯤 미정갤에 “담이 내 머리보다도 낮다”는 내용을 사진과 함께 올렸다.&lt;br&gt;&lt;br&gt;이후 후문 쪽 담을 넘어 진입한 뒤 물리력을 행사하자는 구체적 모의가 시작됐다. 오후 10시 6분 미정갤에 ‘ㅇㅇ’이 “후문으로 가서 담 넘고 경찰 스크럼 깨버릴 것”이라고 적자 또 다른 ‘ㅇㅇ’이 댓글을 남겨 “담 XX 낮은데 남자는 무조건 넘는다. 간다”고 호응했다. 이튿날인 17일 오전 1시 37분에도 ‘파사르’가 “저항권으로 유리창 깨서 진입하고 이런 거 되지? 사람만 많으면 뒤쪽 담장을 넘어서 유리창 깨서 진입해도 될 거 같은데”라고 묻자 “가능은 함”이라는 댓글이 달렸다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7FHYL6BPXJHJBITDSPGGQXLIXI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;공수처 차량 번호 공유하는 디시인사이드 누리꾼들. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;구속 전 피의자 심문(영장심사) 전날인 17일에는 공수처 차량의 차종과 번호도 공유됐다. 오후 3시 39분쯤 ‘스닥콜옵여왕브로냐’가 미정갤에 “차량 번호를 조회해보니 관용차 맞으니 여기 깔고 있을 애들 잘 기억해두라”는 댓글을 남기자 ‘ㅇㅇ’은 “집회가 목적이 아니라 영장 발부 못 하게 하는 게 목적”이라고 맞장구쳤다. 또 다른 ‘ㅇㅇ’도 “타이어에 펑크 내야 된다”는 댓글을 달았다.&lt;br&gt;&lt;br&gt;심사 당일인 18일에는 경찰 배치 등 법원 안팎 상황을 실시간 공유하는 글이 채워졌다. 변호인단 배의철 변호사가 18일 새벽 집회 현장에서 연설하는 유튜브 영상이 빠르게 확산하자 분위기가 한층 달아올랐다. 배 변호사는 “대통령께서 지금 여러분의 모습을 지켜보고 계신다”며 “젊은 분들이 자발적으로 모여 미래를 열고 있는 곳이 이곳 서부지법 앞”이라고 말했다. 국힘갤의 ‘ㅇㅇ’은 이를 “대통령 입장에서는 불법시위를 하라고 대놓고 말할 수 없다”며 “대놓고 국민 저항권을 사용할 때라고 말하고 있는 것”이라고 해석했다.&lt;br&gt;&lt;br&gt;미정갤에는 낮 12시 11분 ‘ㅇㅇ’이 “담을 넘어서 건물 자체를 막자”는 글을 시작으로 법원 월담을 선동하는 글 수십 건이 집중적으로 올라왔다. 뒤따라 비대위갤에도 오후 4시 16분 “압사가 무서워서 담 넘었다고 하면 된다”는 글이 게시됐다. 오후 5시 30분쯤부터 일부 시위대의 월담이 시작됐다. 오후 5시 41분 ‘비대위갤러’는 비대위갤에 “경찰 인력 없는 곳. 담 넘을 사람은 참고하라”며 사진과 함께 담 위치를 구체적으로 설명했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LABAYAWN6NF6TP5WFZOOE63CXE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 마포구 서울서부지방법원에서 18일 윤석열 대통령이 구속 전 피의자 심문(영장실질심사)을 받고 있는 가운데 윤 대통령 지지자들이 법원 담장을 넘으려 시도하고 있다. / 고운호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;19일 새벽 구속영장 발부가 임박하자 커뮤니티에는 폭력이 필요하다며 선동하는 글이 잇따라 올라오며 긴장감이 고조됐다. 오전 1시 6분 미정갤에는 “폭력시위를 준비하자”는 글이 올라와 270여명의 추천을 받았다. ‘ㅇㅇ’은 “기각이든 인용이든 신경 쓸 때가 아니다”라며 “자유민주주의를 수호하는 하나의 목적으로 내전까지 각오할 집단이 필요하다”고 했다. 오전 3시쯤 발부 소식에 지지자들이 격앙돼 후문으로 몰려들었고, 커뮤니티에도 현장 중계 유튜브 주소가 공유되며 “후문으로 화력 지원이 필요하다”는 글들이 올라왔다.&lt;br&gt;&lt;br&gt;3시 7분 비대위갤에서는 ‘Easyhoon2’이 ‘내부 진입할 거냐’고 묻자 ‘StopTheSteal’이 “ㅇㅇ”(그렇다)이라고 답했다. ‘ㅇㅇ’도 “바리케이드 뚫렸다. 들이받아 XX”이라며 흥분을 감추지 못했다. 약 13분 뒤인 3시 20분쯤 시위대는 후문을 통해 유리창을 깨고 난입했다. 3시부터 1시간 동안 국힘갤과 비대위갤, 미정갤 등 3곳에는 “혁명이 시작됐다”, “경찰 보이면 그냥 싹 다 패버려라” 등의 글이 총 5000여건 올라왔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EKIHGKJ7GREYPNWUW3I6XO4O2A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서부지법 난동 당시 비대위갤 게시물. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;오전 4시 10분 ‘빤다크홈’은 비대위갤에 “확실하게 보호 장비를 착용해야 한다. 얼굴에 복면 착용은 필수다. 오늘 힘 싸움할 때 (군대 전투화를) 신었는데 효과 좋다. 빠루 제외 날류는 쓰지 말고 둔기를 추천한다”고 적기도 했다.&lt;br&gt;&lt;br&gt;18∼19일 이틀간 체포된 90명 중 최소 3명은 커뮤니티에 ‘인증글’도 남겼다. 오전 3시 49분 ‘단웅제’는 비대위갤에 경찰버스 내부 사진과 함께 “체포됐습니다. 죄송합니다’라는 글을 썼다. “구경하다 잡힌 거라고 밀고 나가라”, “화장실에 들어갔다고 우겨라” 등의 댓글이 달렸는데 경찰 조사에서도 유사한 취지의 진술이 나왔던 것으로 전해졌다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EIQNY33DF5BDJAS5SAJH3VE2K4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;유승수 변호사. /박상훈 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한편 서부지법에서 난동을 부린 혐의로 입건된 피의자들의 법률대리인 측은 “경찰이 피의자들에게 공모 여부와 범행 동기와 구독하는 유튜브 채널명 등을 집중적으로 추궁했다”고 본지에 밝혔다. 법무법인 추양 가을햇살 소속의 유승수 변호사는 “피의자들이 경찰 조사에서 ‘누구랑, 어떻게, 왜 법원 안으로 들어갔는냐’는 질문을 받았다고 한다”며 “주로 시청하거나 구독하는 유튜브 채널에 대한 질문도 많았다”고 했다.&lt;br&gt;&lt;br&gt;유 변호사는 “피의자에 대한 휴대폰 임의제출이 사실상 압수처럼 이뤄졌다”며 “경찰이 휴대폰을 유튜브 검색 기록을 뒤지기도 한다”고 했다. 이어 “특정 채널을 본 기록이 있으면 해당 채널과 무슨 관련이 있는지, 남들과 해당 영상을 공유했는지 묻고 시청 기록에 별다른 게 없으면 기록을 삭제한 게 아닌지도 추궁했다”고 했다. 유 변호사는 “경찰이 말 그대로 없는 공모사실을 만들려고 하는 것”이라며 “지금까지 유튜브 영상을 보고 손괴 행위를 주도한 사람은 없다”고 주장했다.&lt;br&gt;&lt;br&gt;유 변호사는 대부분의 구속영장에 ‘7층 영장판사실을 수색했다’는 내용이 적시되어 있다고도 했다. 그러면서 “건물까지 들어가지 않고 경내에 머물렀는데도 구속시키기 위해 불법을 저질렀다고 하는 것 아니냐”고 했다. 실제로 경찰이 피의자들에게 7층 판사실 침입 여부에 대한 질문을 했던 것으로 전해졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>올 의사 국시 합격자 5명 중 1명은 외국 의대 출신</title>
+      <link>https://www.chosun.com/national/2025/01/26/EPOXAEDMOBGKPKYLONYVJ4LIJA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2025/01/26/EPOXAEDMOBGKPKYLONYVJ4LIJA/</guid>
+      <dc:creator>조백건 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 26 Jan 2025 07:13:14 +0000</pubDate>
+      <content:encoded>올해 의사 국가시험(국시) 합격자 5명 중 1명은 외국 의대 출신이었고, 합격 외국 의대생의 75%는 헝가리 의대 출신으로 나타났다.&lt;br&gt;&lt;br&gt;26일 보건복지부가 전진숙 더불어민주당 의원실에 제출한 자료에 따르면 지난 22일 발표된 제89회 의사 국시 최종 합격자 269명 중 52명(19.3%)은 외국 의대 출신이었다. 국가별로 보면 헝가리 의대 출신이 39명으로 가장 많았고 미국·러시아·영국 등 다른 나라 의대 출신은 각 1∼2명이었다.&lt;br&gt;&lt;br&gt;이는 예견된 결과란 지적이다. 이번 의사 국시 응시자는 347명으로 예년의 10%정도에 불과했다. 응시 예정자의 대부분인 3000여명의 국내 의대 본과 4학년생이 정부의 의대 증원 정책에 반발해 국시에 응하지 않았기 때문이다.&lt;br&gt;&lt;br&gt;작년과 재작년 의사 국시 합격자는 3045명, 3181명이었다. 대부분 국내 의대 출신이었다. 이 기간 외국 의대 출신 합격자는 각각 25명, 32명으로 1%가량이었다.&lt;br&gt;&lt;br&gt;국내 의대생의 ‘국시 거부’가 해외 의대 합격생 비중 증가의 가장 큰 원인이지만, 외국 의대생 합격자 자체도 평소보다 늘었다. 올해 외국 의대 출신 합격자는 52명으로 작년(25명)보다 두 배로 늘었다.&lt;br&gt;&lt;br&gt;보건복지부는 전 세계 38국, 159개 의대 출신 외국 면허 의사들에게 의사 국시 지원 자격을 주고 있다. 이 중 한국 학생들에게 가장 인기가 높은 곳은 헝가리 의대다. 이곳은 구술 시험과 문법영어·의학영어·생물·화학 등 4개 과목의 절대 평가로 신입생을 뽑기 때문에 입학 난도가 우리나라 의대와 비교해 높지 않다. 국내 의대 입학을 감안해 헝가리로 원정 유학을 떠나는 경우가 많았다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“체포 피하려 7층 갔을 뿐…판사실인지 몰랐다”</title>
+      <link>https://www.chosun.com/national/incident/2025/01/26/WQGHEF3NHBBFRIXQTMDNR3ZG6Y/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/01/26/WQGHEF3NHBBFRIXQTMDNR3ZG6Y/</guid>
+      <dc:creator>안준현 기자, 조민희 기자, 현정민 기자 now@chosunbiz.com, 서일원 기자 112@chosunbiz.com</dc:creator>
+      <description/>
+      <pubDate>Sun, 26 Jan 2025 07:12:47 +0000</pubDate>
+      <content:encoded>법원의 윤석열 대통령 구속영장에 반발, 서울 마포구 서울서부지법에 난입한 피의자들 대다수가 “경찰 체포를 피해 7층으로 향했을 뿐, 그곳에 판사실이 있는 줄은 몰랐다”고 주장하는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6B7QWFUL4ZLJVKVIMQTEBKSBVA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울서부지방법원 폭력 집단난동 사태 당시 판사실에 침입한 40대 남성 이모씨가 23일 오후 서울 마포구 서울서부지법에서 열린 구속 전 피의자 심문(영장실질심사)에 출석하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 지난 19일 새벽 법원이 윤석열 대통령에 대한 구속영장을 발부하자 법원 건물로 들어간 뒤 7층으로 올라간 이들 대다수가 이같이 경찰에 진술하고 있는 것으로 확인됐다. 지난 18일부터 이틀간 법원에서 난동을 부린 혐의로 구속영장이 신청된 피의자 66명 대다수가 내란 중요 임무 종사 혐의로 구속 기소된 김용현 국방장관 변호인단의 변호를 받고 있다고 한다.&lt;br&gt;&lt;br&gt;지난 19일 새벽 윤석열 대통령에 대한 구속영장이 발부되자 서울서부지법 앞에 있던 시위대는 격분한 상태로 경비가 허술했던 법원 후문 쪽으로 몰려들어갔다. 경찰 조사 결과 이 과정에서 선두에 선 이들이 “밀어버리자”며 시위대를 선동하면서 법원 내부로의 침입을 유도했고, 이어 깨진 유리창 등을 통해 시위대가 법원 건물로 들어간 것으로 알려졌다. &lt;br&gt;&lt;br&gt;또 법원 내부로 들어간 이들은 윤 대통령에 대한 구속영장을 발부한 차은경 판사를 찾아내겠다며 판사실이 있는 7층으로도 향했다. 다행히 차 판사의 사무실은 해당 건물 8층에 있었고, 미리 영장 발부 전 법원 밖을 나와 화를 피할 수 있었다. 경찰은 이에 대한 채증도 마친 상태다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XQBTYYFWWBWOOIJS6NN3ESYJZM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;19일 새벽 윤석열 대통령에 대한 구속영장이 발부되자 서울 서부지법에 지지자들이 진입해 난동을 부리고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그러나 지난 21일 본지가 만난 피의자 변호인 측은 이와 같은 사실에 대해 부인했다. 변호인은 “피의자들이 경찰의 체포를 피하려고 7층에 간 것은 사실”이라면서도 “물건을 파괴한 건 없고 내부를 배회했을 뿐”이라고 했다. 이어 “판사실이 7층인 것도 몰랐기에 일각에서 제기된 ‘건물 구조를 알고 판사실을 수색했다’는 건 가공된 내용”이라고 주장했다. 한편 법원은 이 당시 판사실에 난입한 40대 남성 이모씨를 지난 23일 구속했다. 이씨는 전광훈 목사가 이끄는 사랑제일교회의 ‘특임 전도사’로 알려졌다. 그러나 사랑제일교회는 “교회 차원에서 서부지법에 가거나 특정 행동을 지시한 바가 없다”고 해명했다.&lt;br&gt;&lt;br&gt;이어 “대부분 후문에서 사람들에게 밀려서 들어갔다고 할 뿐, 경찰을 폭행한 사실은 없다고 한다”며 “누군가가 이 소요 사태를 주동했다는 이들도 없다”고 덧붙였다.&lt;br&gt;&lt;br&gt;지금껏 서부지법 내부로 난입한 혐의(건조물침입, 공용물건손상죄 등)로 체포된 이들이 대체로 경찰 조사 과정에서 “누군가 선동해 우발적으로 휩쓸렸다”고 주장한 것과는 상반되는 주장이다. 이에 법조계에선 “변호인단이 말에 어폐가 있는 변호 논리를 구축한 것 아니냐”는 지적이 나왔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/6B7QWFUL4ZLJVKVIMQTEBKSBVA.jpg?width=3418&amp;height=2279&amp;auth=a19a007aa72ec15d009bf07d033554a930ac8c470c412c3ff3b31c4e7a549896&amp;smart=true" type="image/jpeg" height="2279" width="3418">
+        <media:description type="plain">서울서부지방법원 폭력 집단난동 사태 당시 판사실에 침입한 40대 남성 이모씨가 23일 오후 서울 마포구 서울서부지법에서 열린 구속 전 피의자 심문(영장실질심사)에 출석하고 있다. /연합뉴스</media:description>
+        <media:credit role="author" scheme="urn:ebu">이예림</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>경찰, 전광훈 목사 전담팀 구성… “설연휴에도 서부지법 난동자 집중 체포”</title>
+      <link>https://www.chosun.com/national/national_general/2025/01/26/47JGR3JQ2JEQVEERM2BTBNBHDM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/26/47JGR3JQ2JEQVEERM2BTBNBHDM/</guid>
+      <dc:creator>구아모 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 26 Jan 2025 07:03:23 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ANYOIID3MTTQE7LSU7BJ6W7OHA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 19일 새벽 윤석열 대통령에 대한 구속영장이 발부되자 서울 서부지법에 지지자들이 진입해 난동을 부리고 있다./뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울서부지법 난동 사태를 수사 중인 경찰은 26일까지 난동자 61명을 구속했다고 밝혔다. 경찰은 법원 건물 안까지 침입한 미검거자 40여 명도 연휴에 집중 체포, 전원 구속 수사할 방침이다. 경찰은 인터넷에서 난동을 사전 모의한 정황을 포착하는 한편, 전광훈 목사에 대해서도 전담 수사팀을 구성해 소환을 검토하는 등 난동 사태 수사망을 넓히고 있다.&lt;br&gt;&lt;br&gt;지난 25일엔 법원 건물에 불을 지르려는 혐의(방화 미수)를 받는 10대 남성 A씨가 구속됐다. 서울서부지법 형사9단독 강영기 판사는 “도망 염려가 있고, 소년으로서 구속해야 할 부득이한 사유가 있다”고 했다. 이 외에도 폭력행위처벌법상 공동주거침입 혐의를 받는 남성 B씨도 추가 구속됐다. 경찰 관계자는 “유튜브 영상, CCTV, 신용카드 사용, 서부지법 인근 통신 내역 등을 모조리 분석해 연휴 기간 전국 어디서든 난동자들을 집중 체포할 계획”이라고 했다.&lt;br&gt;&lt;br&gt;경찰은 서부지법 난동 관련 온라인 커뮤니티 디시인사이드 ‘국민의힘 갤러리’ ‘미국 정치 갤러리’ 등 3곳에서 사전 모의 및 폭력 선동 정황을 포착, 배후 세력을 추적하고 있다고 밝혔다. 해당 커뮤니티에서는 윤석열 대통령 영장 실질심사를 앞둔 16일부터 서부지법의 후문 출입로 등 진입 경로를 분석했다. 영장 실질심사를 진행한 17~18일 사이에는 경력 상황, 공수처 차량 위치, 서부지법 진입 경로 등을 실시간으로 공유했다. 경찰은 게시글 작성자들을 추적해 사전 모의 정황 및 지시 배후 등을 조사할 방침이다.&lt;br&gt;&lt;br&gt;전광훈 목사 전담 수사팀도 구성됐다. 경찰은 시민단체에서 전광훈 목사를 내란 선동·선전, 소요 혐의로 고발한 10여 건을 서울경찰청 안보수사1대에 배당했다. 지난 23일 시민단체 대표 2명에 대한 고발인 조사도 진행했다. 전담팀은 난동자들의 폭력을 부추긴 유튜브 영상, 발언 내용, 관련 증언을 분석하고 있다. 경찰은 난동 이전부터 사랑제일교회 전도사들이 전 목사의 지시로 ‘출동 대기’ 상태였는지 등을 조사할 방침이다. 경찰은 전 목사에 대한 주변 조사를 마치는 대로 출석 요구서를 발송할 방침이다.&lt;br&gt;&lt;br&gt;현재까지 구속된 사랑제일교회 관계자는 ‘특임 전도사’로 알려진 40대 이모씨다. 7층 판사 집무실 출입문을 손괴하고 침입한 혐의로 지난 23일 구속됐다. 경찰은 이씨의 통화 내역 등을 분석해 배후 지시자·공모자 등이 있는지를 분석할 방침이다. 전 목사는 이 전도사가 사랑제일교회와 연관이 없다는 입장이다. 전 목사는 “우리 교회에서 전도사가 된 것이 아니라는 점을 알고 있다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“정치 얘기하면 5만원”... 뉴스도 보지 말자는 ‘설 매너’까지 등장</title>
+      <link>https://www.chosun.com/national/national_general/2025/01/26/ZC7L6TU7HBBU5PINRWIVPTKACE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/26/ZC7L6TU7HBBU5PINRWIVPTKACE/</guid>
+      <dc:creator>구동완 기자, 김도연 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 26 Jan 2025 05:36:25 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XCXZDOQAXFDKTDQRX7GNF7SSJA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;24일 오후 서울역이 귀성길에 오른 시민들로 붐비고 있다./박성원 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“정치 얘기 한마디 하면 5만원씩 내기로 했어요.”&lt;br&gt;&lt;br&gt;설 연휴를 맞아 귀성길에 오른 직장인 A씨는 이번 설 연휴에 가족들과 이 같은 내기를 했다. A씨는 “오랜만에 가족들을 만나는 연휴인데 정치 얘기 없이 평안히 보내고 싶었다”며 “뉴스를 보다 정치 싸움으로 가족끼리 멱살을 잡을까 걱정”이라고 했다.&lt;br&gt;&lt;br&gt;윤석열 대통령의 탄핵 정국 중 설 연휴를 맞은 시민들 사이에서는 가족들과의 정치 얘기, 뉴스 시청을 지양하는 등 ‘설 연휴 매너’가 확산하고 있다.&lt;br&gt;&lt;br&gt;20대 직장인 이모씨 또한 설 연휴 동안 정치 얘기가 나올까 노심초사다. 이씨는 “이전에도 명절에는 정치 얘기는 조심해야지 했지만, 탄핵 정국을 맞은 이번만큼 우려된 적은 또 없었다”고 했다.&lt;br&gt;&lt;br&gt;이에 온라인 커뮤니티에서는 정치적 논쟁을 피하기 위한 설 매너, 가이드라인 등까지 공유되고 있다. 한 커뮤니티 게시글에는 ‘가족이 모이면 뉴스 채널을 틀지 말아라’ ‘신문은 최대한 안 보이는 곳으로 치워라’ 등이 적혀 있었다. “정치 얘기 없는 평안한 연휴 보내자”는 반응도 뒤따랐다.&lt;br&gt;&lt;br&gt;한편 ‘12・3 비상계엄 사태’ 이후 정국에 대한 인식 차는 연령별, 지역별로 벌어지고 있다. 한국갤럽이 지난 14~16일 전국 만 18세 이상 남녀 1001명을 대상으로 조사한 결과(95% 신뢰수준에 표본오차 ±3.1%포인트), 탄핵에 찬성한다는 응답자는 서울과 인천·경기에서는 53%와 63%로 절반이 넘었지만, 대구·경북에서는 34%에 그쳤다.&lt;br&gt;&lt;br&gt;연령별로 보면, 18∼29세와 30대 등 MZ 세대의 경우 응답자의 각 61%, 63%가 탄핵에 찬성했지만 이들의 부모 격인 60대와 70대 이상은 각 41%와 37%로 세대 간에 큰 격차가 나타났다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“노사모 출신이나 탄핵 반대” 일타강사, 민주당이 신고한 뒤 구독자 폭증</title>
+      <link>https://www.chosun.com/national/national_general/2025/01/26/2EHR2H6IBNCVRK3M54MX7GFOME/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/26/2EHR2H6IBNCVRK3M54MX7GFOME/</guid>
+      <dc:creator>김자아 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 26 Jan 2025 05:16:20 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HORHK43V5BCWFIW2A5YBS7YOUM.png"&gt;&lt;figcaption&gt;&lt;small&gt;한국사 '일타 강사' 전한길씨가 지난 25일 세이브코리아 주최로 서울 여의도 국회의사당 앞에서 열린 윤석열 대통령 탄핵 반대 집회에 참석했다./유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한국사 ‘일타 강사’ 전한길씨가 25일 윤석열 대통령 탄핵 반대 집회에 참석했다. 앞서 전씨가 지난 19일 부정 선거 의혹 관련 유튜브 영상을 올리자 더불어민주당은 “허위 정보를 유포했다”며 구글에 신고했고, 이후 전씨의 유튜브 영상 조회 수가 폭발하면서 구독자 수도 일주일 만에 30만명 넘게 늘었다. 전씨는 작년 세금으로만 25억원을 납부한 공무원시험계 일타 강사로 유명하다.&lt;br&gt;&lt;br&gt;전씨는 25일 세이브코리아 주최로 서울 여의도에서 열린 탄핵 반대 집회에 참석해 “늦게 나와서 죄송하다”며 “대한민국을 다시 살려내고 굳건한 한미 동맹 속에 전쟁을 막고 평화로운 대한민국을 2030 세대에게 물려주기 위해 합류했다”고 말했다.&lt;br&gt;&lt;br&gt;그는 12·3 비상계엄과 관련, “계엄령이 아니라 계몽(啓蒙)령이 맞는다”고 했다. 또 “나는 노사모 출신”이라며 “대통령 탄핵에 반대한다”고 했다.&lt;br&gt;&lt;br&gt;앞서 전씨는 지난 19일 자신의 유튜브 채널에 ‘대한민국 혼란 선관위(선거관리위원회)가 초래했다’는 제목의 영상을 올려 “대통령이 주장한 부정 선거 의혹도 타당하다고 생각한다”고 주장했다.&lt;br&gt;&lt;br&gt;그러자 민주당 국민소통위원회는 22일 “전씨가 선거와 관련한 허위 정보를 유포해 유튜브의 커뮤니티 가이드라인을 위반했다”며 구글에 신고했다. 그러자 전씨는 “선관위를 비판했는데 민주당이 고발했다”며 반발했다.&lt;br&gt;&lt;br&gt;전씨는 25일에도 유튜브 영상을 올려 탄핵 반대 집회에 나서는 이유에 대해 직접 입장을 밝혔다. 그는 “민주당 민주파출소에서 나를 고발하는 것을 보고 이는 민주주의에 대한 도전이며, 전체주의와 공산주의와 다를 바가 뭐가 있는가 하는 생각에서 침몰 직전의 대한민국의 미래를 위해 목소리를 냈다”고 했다.&lt;br&gt;&lt;br&gt;전씨가 19일 올린 영상 조회 수는 26일 현재 330만회를 넘어섰고, 25일 올린 영상도 300만회에 육박하는 조회 수를 기록하고 있다. 19일 57만명 수준이었던 전씨의 구독자 수도 일주일 만인 이날 기준 91만명으로 약 34만명이 늘었다.&lt;br&gt;&lt;br&gt;권영세 국민의힘 비대위원장은 앞서 “전씨가 선관위와 선거 제도의 문제점을 지적했을 뿐인데 왜 민주당이 발끈하는지 많은 국민이 의아해하고 있다”고 했다. 그는 “민주당이 검열로 국민의 눈과 귀를 틀어막을 수 있다고 생각하면 크나큰 오산”이라며 “위험하기 짝이 없는 반민주적 검열을 즉각 거두라”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“900억 돈세탁 중”...재력가 행세하며 여성들에게 돈 뜯은 60대 </title>
+      <link>https://www.chosun.com/national/regional/yeongnam/2025/01/26/AZJJNUC3YBGMJJEUFFZ22RKVYM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/yeongnam/2025/01/26/AZJJNUC3YBGMJJEUFFZ22RKVYM/</guid>
+      <dc:creator>창원=김준호 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 26 Jan 2025 05:19:47 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MRUAZWDDAX3KCO2QEGA7K6TP4U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;창원지방법원. /조선일보DB
+&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;수백억원대 자산가 행세를 하며 여성들에게 접근해 돈세탁 비용 등 명목으로 거액을 뜯어낸 60대 남성이 실형을 선고받았다.&lt;br&gt;&lt;br&gt;창원지법 형사6단독 서진원 판사는 사기 등 혐의로 기소된 A(62)씨에게 징역 3년을 선고했다고 26일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 2021년 7월부터 지난해 4월까지 결혼·재혼 중매 앱 등을 통해 알게 된 여성들에게 자신의 집안이 선박사업을 크게 했고, 자신은 무역업을 오래했다면서 재력을 과시하며 환심을 사는 방법으로 70여회에 걸쳐 1억5200만원을 받아 챙긴 혐의로 기소됐다.&lt;br&gt;&lt;br&gt;판결문에 따르면 지난 2023년 3월 A씨는 한 피해 여성에게 “내가 사업을 하면서 미국 부동산에 투자해 번 800억원을 한국에 들여오기 위해 돈세탁 중이다”며 “돈을 빌려주면 일정기간 내 갚고, 작업이 끝나면 돈도 갚고 결혼하자”고 속여 2900여만원을 받았다.&lt;br&gt;&lt;br&gt;A씨는 지난해 3월 또 다른 여성에게도 외국에서 번 900억원을 돈세탁하기 위한 경비가 필요하다고 접근했다. 그는 세탁한 돈을 옮길 차량 대여 비용, 돈 가방에 부착한 위치추적 장치 구입비, 직원 숙박비 등에 필요하다고 돈을 요구해 990만원을 받아 챙겼다.&lt;br&gt;&lt;br&gt;A씨는 피해자가 의심하면 부산에 계약한 집을 피해자 이름으로 해주겠다거나, 서울에 있는 회사를 정리하면 3억원을 받을 수 있다는 식으로 둘러댔다.&lt;br&gt;&lt;br&gt;앞서 2021년에는 또 다른 여성과 두 달 간 동거하면서 “방위산업 관련해 920억원의 비자금이 있고, 현금화할 수 있다”는 식으로 속여 차량 구입비 등 1억1000여만원을 받아 챙겼다.&lt;br&gt;&lt;br&gt;수사기관 조사 결과 A 씨는 직업이 없어 고정적인 수입이 없었을 뿐더러 별다른 재산도 없었다. 돈을 빌리더라도 애초 이를 갚을 의사나 능력이 없었던 것이다. 특히 A씨는 사기죄로 4차례 실형을 선고받는 등 여러 차례 처벌받은 전력도 있었다.&lt;br&gt;&lt;br&gt;서 판사는 “피해자를 속인 행위가 매우 불량하고 범행 기간과 횟수 또한 적지 않다”며 “피해 금액이 변제되지 못한 점, 피해자들로부터 용서받지 못한 점, 동종 범죄 누범 기간에 이 사건 범행 일부를 저지른 점 등을 고려해 형을 정했다”고 양형 이유를 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>지난 100년간 남성 키·몸무게, 여성보다 2배 이상 늘었다</title>
       <link>https://www.chosun.com/economy/science/2025/01/26/YARZDIQOTRBONKR3T2B67LL47I/</link>
       <guid isPermaLink="true">https://www.chosun.com/economy/science/2025/01/26/YARZDIQOTRBONKR3T2B67LL47I/</guid>
@@ -904,28 +981,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XQBTYYFWWBWOOIJS6NN3ESYJZM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;19일 새벽 윤석열 대통령에 대한 구속영장이 발부되자 서울 서부지법에 윤 대통령 지지자들이 진입해 난동을 부리고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서부지법 난동 사태를 수사 중인 경찰은 24일 “설 연휴에도 미검거 난동자 40여명을 집중 체포할 것”이라고 밝혔다. 서울 마포경찰서를 비롯한 19개 경찰서에 꾸려진 서부지법 난입사태 전담팀은 설 연휴 기간(27∼30일)에도 수사를 이어갈 예정이다.&lt;br&gt;&lt;br&gt;전담팀은 19일 새벽 서울서부지법에 난입한 윤석열 대통령 지지자 100여명 중 아직 신원을 파악하지 못한 이들을 추적하는 데 주력할 예정이다. 현재까지 구속된 난동자는 59명으로, 경찰은 최소 40여명의 난동자가 미검거된 것으로 보고 있다.&lt;br&gt;&lt;br&gt;경찰은 현재까지 난동자 중 절반가량을 공동건조물침입 등 혐의로 체포하거나 입건했다. 법원 건물에 불을 지르려던 10대 남성에게도 이날 현주건조물방화미수 혐의로 구속영장을 신청했다.&lt;br&gt;&lt;br&gt;나머지 절반의 신원을 특정할 핵심 경로는 사태 당일 현장을 담은 폐쇄회로(CC)TV다. 다수 CCTV를 비교 분석해 식별되는 난동자의 동선을 파악하고 이들의 신용카드 사용 내역을 들여다보는 게 통상적인 추적수사 기법이라고 전·현직 경찰 관계자들은 말한다.&lt;br&gt;&lt;br&gt;난동자가 당일 지하철을 탄 모습이 CCTV에 찍혔다면 그 시간대 해당 지하철역 카드 단말기에 기록된 결제 내역을 확보해 명의자 정보를 파악하는 식이다.&lt;br&gt;&lt;br&gt;출동한 경찰이 직접 채증한 영상 자료나 현장을 담은 유튜브 영상도 중요한 자료다. 이 작업으로도 난동자 신원이 나타나지 않는다면 사태 당시 서부지법 인근 이동통신 기지국에 사용 흔적이 기록된 휴대전화 번호를 파악해 일일이 연락해보는 방법도 있다.&lt;br&gt;&lt;br&gt;수사 경험이 있는 한 경찰은 “새벽에 벌어진 사건인 만큼 낮 시간대보다 휴대전화를 사용한 인구가 적을 것”이라며 “기지국에 기록된 번호 중 출동한 경찰의 번호를 제외하면 가담자를 특정하는 게 불가능하진 않다”고 했다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “법치를 무너뜨린 난동자들을 끝까지 추적해 모두 검거할 것”이라며 “연휴에도 신원이 특정되면 집중 체포 계획을 가동할 방침”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>尹측 “검찰 처음부터 다시 수사, 구속 취소, 탄핵심판 지켜봐야”</title>
-      <link>https://www.chosun.com/national/2025/01/24/L2O2HTLGRJE6ZDEBDVQ472GPHM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2025/01/24/L2O2HTLGRJE6ZDEBDVQ472GPHM/</guid>
-      <dc:creator>김희래 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 24 Jan 2025 11:38:40 +0000</pubDate>
-      <content:encoded>윤석열 대통령 변호인단이 검찰을 향해 “즉시 대통령의 구속을 취소하고 탄핵심판을 지켜보며 신중하게 판단하라”고 24일 주장했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BODLCCGLTA6OVXZLTTEDZKGASY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 18일 윤석열 대통령에 대한 영장심사가 열린 서울서부지법에 윤 대통령 측 법률대리인 김홍일 변호사가 도착하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;변호인단은 이날 입장문을 내고 검찰이 법원에 윤 대통령 구속 기간 연장을 신청한 데 대해 이같이 밝혔다. 변호인단은 “대통령에 대한 구속을 유지하겠다는 것은 구속 기간 내 기소가 예정됐다는 것을 의미한다”며 “이는 검찰이 고위공직자범죄수사처(공수처)의 위법 수사를 인정하겠다는 것으로 검찰이 공수처의 지게꾼 역할을 하겠다는 것과 다르지 않다”고 했다.&lt;br&gt;&lt;br&gt;그러면서 “검찰은 수사권 없는 공수처의 수사 결과를 무시하고 처음부터 다시 대통령에 대한 수사를 시작해야 한다”며 “공수처의 위법 수사와 불법 체포로 인해 증거능력은 모두 상실되고 어떠한 수사 결과도 법적 정당성을 인정받지 못할 것이기 때문”이라고 말했다. 변호인단은 “검찰이 대통령에 대한 구속 상태를 유지하겠다는 것은 형사재판 못지않게 중요한 탄핵심판에서의 대통령의 방어권을 방해하는 것”이라고도 했다.&lt;br&gt;&lt;br&gt;변호인단은 서울중앙지법을 향해서도 “서울서부지법이 발부한 구속영장의 기간을 연장하는 신청을 허가해서는 안 된다”고 덧붙였다. 검찰은 전날 서울중앙지법에 윤 대통령 구속 기간을 다음 달 6일까지 연장해달라고 신청했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘KTX 예매했다가 취소…’ 교통지원금 받아챙긴 해경들 적발</title>
-      <link>https://www.chosun.com/national/regional/gyeonggi-incheon/2025/01/24/OTKNR3PBVNHVLP5AYO2M2WZHZA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/gyeonggi-incheon/2025/01/24/OTKNR3PBVNHVLP5AYO2M2WZHZA/</guid>
-      <dc:creator>김석모 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 24 Jan 2025 10:37:06 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/V7DYY2LKHJQ2A6OAJXV4XF22BQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;해양경찰청 /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;허위로 교통지원금을 청구하고, 이를 받아챙긴 해양경찰관들이 무더기로 적발됐다.&lt;br&gt;&lt;br&gt;해양경찰청은 지난해 7월 26일부터 12월 20일까지 특정감사를 벌여 교통지원금 수령자 405명 중 83명이 부정 수령 관련자로 확인됐다고 24일 밝혔다.&lt;br&gt;&lt;br&gt;교통지원금(단진부임비)은 해양경찰청 본청에 배속된 경감 이하 원거리 발령자에게 지급하는 돈이다.&lt;br&gt;&lt;br&gt;이번에 적발된 부정 수령 관련자들은 KTX 표를 예매하고 결제한 뒤 취소하는 방식으로 허위 지원금을 받은 것으로 밝혀졌다.&lt;br&gt;&lt;br&gt;부정 수령 금액은 개인당 적게는 700원부터 많게는 449만원에 달하는 것으로 확인됐다.&lt;br&gt;&lt;br&gt;해경청은 부정 수령자 2명을 직무 고발 조치하고, 17명은 감찰팀에 징계 의결을 요구하도록 통보했다. 또 46명에게는 경고·주의 감사 처분을, 18명에게 시정 조치를 내리고 부정 수령액을 전액 환수했다.&lt;br&gt;&lt;br&gt;해경청은 교통지원금 지원 제도가 안정적으로 정착될 수 있게 집행 기준을 재정비하고 재발 방지 대책을 마련할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/V7DYY2LKHJQ2A6OAJXV4XF22BQ.jpg?width=3310&amp;height=2364&amp;auth=2e356eb4bf39f960e380ed1b6c1091bd17390dfa4cceb3c58a5668162005f274&amp;smart=true" type="image/jpeg" height="2364" width="3310">
-        <media:description type="plain">해양경찰청 /뉴스1 ⓒ News1 정진욱 기자</media:description>
-        <media:credit role="author" scheme="urn:ebu">뉴스1 ⓒ News1 정진욱 기자</media:credit>
-      </media:content>
-    </item>
-    <item>
       <title>최상목 측 “‘재판관 임명 보류' 재판 더 해달라”… 헌재는 기각</title>
       <link>https://www.chosun.com/national/court_law/2025/01/24/XGMPPQFVDNHPZGGIILNUJIXJS4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/01/24/XGMPPQFVDNHPZGGIILNUJIXJS4/</guid>
@@ -942,42 +997,6 @@
       <description/>
       <pubDate>Fri, 24 Jan 2025 09:11:39 +0000</pubDate>
       <content:encoded>안마의자 제조업체 바디프랜드의 경영권 분쟁을 수사한 검찰이 24일 창업주 강웅철씨(전 이사회 의장)와 사모펀드 한앤브라더스 대주주 한주희씨를 각각 재판에 넘겼다.&lt;br&gt;&lt;br&gt;서울중앙지검 중요범죄조사부(부장 어인성)는 이날 강씨를 특정경제가중처벌법상 횡령 혐의로, 한씨를 특경법상 사기 및 변호사법 위반 혐의로 불구속 기소했다고 밝혔다. 강씨의 공범인 박상현 전 바디프랜드 대표, 한씨의 공범인 양모 전 바디프랜드 총괄사장도 함께 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SOKC5ENECZF6LVFBZY3727YKEE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 서울중앙지검 전경. / 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한씨는 강씨를 상대로 “최초 경영권 지분 유지를 위한 자금 모금에 한앤브라더스가 310억원을 출자하겠다”고 속이고 실제로는 강씨 등에게 편취한 자금과 단기 차입금만 납입한 혐의를 받는다. &lt;br&gt;&lt;br&gt;강씨는 과거 바디프랜드를 운영하면서 직무발명보상금 25억원과 고문료 등 명목의 12억원을 횡령한 혐의가 있다. 또 개인 별장을 바디프랜드에 임대하고 회사 자금에서 차임으로 7억원을 받은 혐의도 받는다. 강씨는 빼돌린 돈을 오피스텔 임차 보증금, 리차드밀 등 고급 시계를 구입, 벤틀리, 롤스로이스 등 고급 외제차 보험료 등으로 사용한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;강씨와 한씨는 2022년 8월 긴급 자금이 필요한 것처럼 속여 바디프랜드 자금 28억원을 빼낸 뒤 차입금 변제에 쓰고, 같은 해 10월 사내대출금 명목으로 167억원을 빼낸 뒤 그중 117억원을 차입금 변제에 쓴 혐의도 받는다.&lt;br&gt;&lt;br&gt;검찰은 수사 과정에서 두 사람에 대한 구속영장을 청구했었지만 모두 기각됐다. &lt;br&gt;&lt;br&gt;한앤브라더스는 2022년 7월 스톤브릿지캐피탈과 함께 사모투자 합작회사를 설립해 바디프랜드 지분을 인수했다. 이후 한씨와 강씨는 바디프랜드 경영권을 놓고 다투다 서로 맞고소에 나섰다.&lt;br&gt;&lt;br&gt;검찰은 “강씨가 방만한 회사 경영으로 경영권 상실 위험에 놓이게 되자 한씨를 끌어들이면서 대형 경제범죄가 발생했다”면서 “피고인들이 죄에 상응하는 처벌을 받을 수 있도록 공소유지에 만전을 기하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>부산 행정복지센터서 흉기 휘두른 60대 긴급체포…2명 부상</title>
-      <link>https://www.chosun.com/national/2025/01/24/UFR2JSKL7FA3RH4P2LUDBGUZCE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2025/01/24/UFR2JSKL7FA3RH4P2LUDBGUZCE/</guid>
-      <dc:creator>박주영 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 24 Jan 2025 09:05:14 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/T6G4LDUEBHPOWYAJMFKYJUNKPQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산 사상구 사상경찰서 전경./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산의 한 행정복지센터에서 흉기를 휘둘러 직원 등 2명에게 부상을 입힌 60대 남성이 긴급체포돼 조사를 받고 있다.&lt;br&gt;&lt;br&gt;부산 사상경찰서는 이같은 범행을 저지른 60대 남성 A씨를 살인미수 혐의로 긴급체포해 조사하고 있다고 24일 밝혔다.&lt;br&gt;&lt;br&gt;경찰에 따르면 A씨는 이날 오후 4시 12분쯤 부산 사상구 한 행정복지센터 2층을 찾아가 미리 준비해 온 흉기를 휘둘러 60대 여성 1명과 30대 여성 2명을 다치게 한 혐의를 받고 있다. 흉기에 부상을 입은 이들 2명은 병원으로 옮겨 치료를 받고 있다. 경찰은 “이중 60대 여성은 외상센터에서 응급 조치 중이고 30대 여성은 생명에 지장이 없는 것으로 파악됐다”고 말했다.&lt;br&gt;&lt;br&gt;A씨는 범행 직후 달아났다가 오후 4시30분쯤 자수했다. 경찰은 A씨를 긴급체포, 범행 동기 및 사건 경위에 대해 조사하고 있다. 경찰은 “조사 후 구속영장을 신청할 예정”이라고 말했다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>울산 GS엔텍 공장서 용접 중 설비에 낀 60대 숨져</title>
-      <link>https://www.chosun.com/national/2025/01/24/6YJIEHUVXBCGLOAHUV6OAQCHOE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2025/01/24/6YJIEHUVXBCGLOAHUV6OAQCHOE/</guid>
-      <dc:creator>울산=김주영 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 24 Jan 2025 08:54:59 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BMFWINOQRPPOUHBGGKESK6LD6A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;24일 오전 10시 45분쯤 울산시 남구 매암동 GS엔텍 공장에서 작업 중이던 60대 A씨가 설비에 몸이 끼여 병원으로 옮겨졌으나 숨졌다.&lt;br&gt;&lt;br&gt;A씨는 하청업체 소속인 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰과 소방 당국은 A씨가 탱크 시설 용접 작업 중 이 시설을 받치고 있던 쇠기둥 롤러 설비에 하반신이 끼여 다친 것으로 보고 자세한 경위를 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>경찰, 김성훈 경호처 차장·이광우 본부장 구속영장 신청</title>
-      <link>https://www.chosun.com/national/national_general/2025/01/24/GNHTO6NDTNDDRF2DBPM6E62QCE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/24/GNHTO6NDTNDDRF2DBPM6E62QCE/</guid>
-      <dc:creator>구아모 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 24 Jan 2025 07:49:29 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DXXTI32M2RPSHN4QZOC3SPD63Q.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;김성훈 대통령경호처차장(왼쪽)과 이광우 경호본부장이 24일 오전 서울 서대문구 경찰청 국가수사본부 특별수사단에 출석하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰 국가수사본부 비상계엄특별수사단이 24일 서울서부지검에 김성훈 대통령 경호처 차장과 이광우 본부장에 대한 사전 구속영장을 신청했다고 밝혔다.&lt;br&gt;&lt;br&gt;경찰은 이날 오전 7시 30분 김성훈 대통령 경호차장과 이광우 경호본부장을 소환 조사했다. 경호처 내 강경파로 분류되는 김 차장과 이 본부장은 지난 3일 윤석열 대통령에 대한 체포영장 1차 집행을 저지한 혐의로 지난 17일과 지난 18일 경찰에 체포됐다.&lt;br&gt;&lt;br&gt;경찰은 18일 김 차장에 대한 구속영장을 신청했지만, 검찰에서 이를 반려하며 석방됐다. 증거 인멸 등 우려가 없어 검찰 측에서 반려했다고 경찰은 전했다. 이 본부장 역시 19일 석방돼 현재 경호 업무에 복귀한 상황이다.&lt;br&gt;&lt;br&gt;경찰은 윤 대통령에 대한 체포영장 2차 집행 과정에서 김 차장과 이 본부장이 총기 준비를 했다는 정황과 관련 경호처 직원들의 진술을 확보했다. 이와 관련 김 차장과 이 본부장의 변호인 측은 “노조 시위대가 습격한다는 제보가 있어 경호 목적으로 대비한 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>검찰, 尹구속 연장 신청...서부 아닌 중앙지법에 냈다</title>
-      <link>https://www.chosun.com/national/court_law/2025/01/24/LKGVH2VT6NCGXDICLF5LXT2HUE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/01/24/LKGVH2VT6NCGXDICLF5LXT2HUE/</guid>
-      <dc:creator>김명일 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 24 Jan 2025 06:45:25 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DT2VYA3G33DODTOPJQAV4XBUXA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령이 23일 오후 서울 종로구 헌법재판소에서 열린 탄핵심판 4차 변론기일에 출석해 있다. /뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 대통령의 내란 우두머리 등 혐의 사건을 고위공직자범죄수사처(공수처)로부터 넘겨받은 검찰이 윤 대통령에 대한 구속영장 연장 허가를 법원에 신청했다고 24일 밝혔다.&lt;br&gt;&lt;br&gt;검찰 비상계엄 특별수사본부(본부장 박세현 서울고검장)는 전날 윤 대통령에 대한 구속기간을 다음달 6일까지 연장해달라고 서울중앙지법에 신청했다.&lt;br&gt;&lt;br&gt;당초 공수처는 윤 대통령 주거지 관할 등을 사유로 서울서부지법에 구속영장을 청구해 발부받았지만, 검찰은 내란 사건 관할 법원은 서울중앙지법이라고 내부적으로 판단한 것으로 알려졌다. 역대 대검찰청 차원의 특별수사본부나 특임검사팀 등은 중앙지법을 관할 법원으로 삼아왔다.&lt;br&gt;&lt;br&gt;법원의 결정은 이르면 이날 중 나올 것으로 전망된다.&lt;br&gt;&lt;br&gt;검찰은 법원의 구속기간 연장 허가를 받은 뒤 윤 대통령을 상대로 대면조사에 나설 예정인 것으로 알려졌다.&lt;br&gt;&lt;br&gt;구속됐던 전직 대통령 사례 등을 고려할 때 윤 대통령에 대한 조사는 부장검사들이 직접 윤 대통령이 수용된 서울구치소를 찾아 조사하는 방안이 유력하다. &lt;br&gt;&lt;br&gt;지난 2017년 구속됐던 박근혜 전 대통령도 서울구치소에서 검찰 조사를 받았다. 전두환·노태우 전 대통령은 1995년 각각 안양교도소와 서울구치소에서 검찰 조사를 받은 바 있다.&lt;br&gt;&lt;br&gt;특히 윤 대통령은 현직 대통령 신분인 만큼 경호나 집회 인파 관리 문제 등을 고려해야 한다.&lt;br&gt;&lt;br&gt;다만 윤 대통령이 검찰 조사에 응할지는 미지수다. 윤 대통령 측 윤갑근 변호사는 전날 기자들과 만난 자리에서 ‘검찰의 구치소 방문 조사에 응할 것이냐’는 질문에 “대통령, 변호인과 상의한 다음에 결정할 것”이라며 “검찰의 수사 태도나 여러 가지를 고려할 요소들이 아직은 많다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>희대의 사기범 ‘큰 손 장영자'... 위조수표 사용 혐의, 또다시 구속</title>
@@ -1000,24 +1019,6 @@
         <media:description type="plain">방송인 노홍철이 히말라야 등반을 하던 중 고산병에 걸려 쓰러졌다./유튜브 '노홍철'</media:description>
         <media:credit role="author" scheme="urn:ebu"/>
       </media:content>
-    </item>
-    <item>
-      <title>[속보] 헌재 “‘마은혁 재판관’ 불임명 위헌 여부, 2월 3일 결정”</title>
-      <link>https://www.chosun.com/national/2025/01/24/ZKMUOYG4JRBXHGXRSVVUCWYDYE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2025/01/24/ZKMUOYG4JRBXHGXRSVVUCWYDYE/</guid>
-      <dc:creator>박혜연 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 24 Jan 2025 05:08:17 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WJNAIKTI3NJOBMSWN4542BM2X4.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;문형배 헌법재판소장 직무대행을 비롯한 헌법재판관들이 23일 서울 종로구 헌법재판소에서 열린 윤석열 대통령 탄핵심판 4차 변론에 자리하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최상목 대통령 권한대행이 마은혁 헌법재판소 재판관 후보자를 임명하지 않은 것이 위헌인지 여부를 헌법재판소가 다음달 3일 결정한다.&amp;nbsp;&amp;nbsp;&lt;br&gt;&lt;br&gt;헌재는 “헌재 재판관 임명권 불행사 부작위  위헌확인 헌법소원에 대한 선고를 다음달 3일 오후 2시에 한다”고 밝혔다. 쟁점은 최 대행이 국회가 선출한 헌재 재판관 후보자 3인을 임명하지 않는 것이 부작위(규범적으로 요구되는 일정한 행위를 하지 않음)여서 위헌인지 여부다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘어떻게 선동하는지 교육하겠다’는 민주노총</title>
-      <link>https://www.chosun.com/national/2025/01/24/TFADKTSGMZE7HJKULEP7XXDYSE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2025/01/24/TFADKTSGMZE7HJKULEP7XXDYSE/</guid>
-      <dc:creator>곽래건 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 24 Jan 2025 01:55:07 +0000</pubDate>
-      <content:encoded>민주노총이 산하 노조 간부들에게 선동 방법을 교육하는 ‘선동 학교’를 연다고 밝혔다.&lt;br&gt;&lt;br&gt;민노총은 지난 23일 홈페이지에 “광장 투쟁의 시대! 선동의 역할이 점점 커지고 있다”며 이런 내용이 담긴 안내문을 올렸다. 프로그램은 오는 27일 오전 10시~오후 5시까지 서울 중구 민주노총 12층 중회의실에서 열린다.&lt;br&gt;&lt;br&gt;‘실력있는 선동가 되기’라는 부제가 달려있고, 총 3강으로 구성돼 있다. 1강 ‘선동이란 무엇인가’, 2강 ‘연설문, 선동문 작성의 기본’, 3강 ‘스피치, 발성 및 실습’이다.&lt;br&gt;&lt;br&gt;민노총은 강연과 실습을 병행한다고 했다. 참여 인원은 선착순 30명이고, 노조 신입 간부나 청년 간부의 참여를 우선 보장한다고 한다.&lt;br&gt;&lt;br&gt;민노총은 “이미 간부들에게는 거리에서, 현장에서, 출퇴근 선전에서 매 순간이 선동의 시간”이라며 “간부들의 선동 실력 향상을 위해 기초부터 실습까지 생생한 교육을 마련했다”고 안내했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PJFSPJFZ75CHPOWM6TAS2HV2CY.png"&gt;&lt;figcaption&gt;&lt;small&gt;민주노총 '선동학교' 홍보문. /민주노총 홈페이지&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;민노총은 지난 2001년 4월에도 전북 부안에서 ‘선동 강사 학교’라는 교육 프로그램을 한 적이 있는 것으로 전해졌다. 당시에는 2박 3일 일정이었고, 프로그램에는 ‘어떻게 하면 선동 연설을 잘 할 수 있을까’, ‘발음·발성 연습’ ‘낭독문 연설 훈련’ 등의 내용이 포함됐다.&lt;br&gt;&lt;br&gt;민노총 산하 금속노조도 2001년 5월 ‘집회 판짜기 및 사회자 훈련 프로그램’을 진행한 적이 있다고 한다. 당시 교육 자료에는 ‘대중선동은 폭로, 해석, 주장 세 가지로 구성된다’는 내용 등이 담겨 있다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
