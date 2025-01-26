@@ -6,6 +6,16 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>헌재, "테러단체 가입 선동자 처벌하는 테러방지법은 합헌"</title>
+			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/205071.jpg" alt="735.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;테러단체 가입을 타인에게 선동하는 사람을 처벌하도록 한 국민보호와 공공안전을 위한 테러방지법(테러방지법) 조항은 헌법에 어긋나지 않는다는 헌법재판소 결정이 나왔다.&lt;p&gt;&amp;nbsp;   &lt;/p&gt;&lt;p&gt;헌재는 23일 A 씨가 "테러방지법 제17조 제3항은 위헌"이라며 낸 헌법소원 사건(&lt;b&gt;2019헌바317&lt;/b&gt;)에서 재판관 전원일치 의견으로 합헌 결정했다. 테러방지법 해당 조항은 '테러단체 가입을 지원하거나 타인에게 가입을 권유 또는 선동한 사람은 5년 이하의 징역에 처한다'고 규정한다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;헌재는 "가입선동조항이 금지하는 테러단체 가입 선동이란 피선동자가 테러단체에 가입하도록 가입을 결의·실행하게 하는 일체의 행위이며 대법원도 이와 같이 해석했다"며 "가입선동조항의 주체는 테러단체 구성 혹은 가입과는 별개로 테러단체의 외부에 있는 사람까지를 포함하는 것으로 해석할 수 있고, 불특정 다수나 국내에 거주하지 않는 외국인도 선동의 객체에 포함하고 있음을 어렵지 않게 해석할 수 있어 죄형법정주의의 명확성원칙에 위반되지 않는다"고 밝혔다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;이어 "가입선동조항의 목적은 테러단체에 의한 테러의 위험성을 사전에 차단하여 테러로부터 국민의 생명과 재산을 보호하고 국가 및 공공의 안전을 확보하려는 입법목적이 정당하고, 테러단체 가입을 선동하는 행위를 독립적인 구성요건으로 규정해 처벌할 경우 테러단체의 확장·증대를 막아 테러단체에 의한 테러의 실행 또는 실행의 위험성을 사전에 차단하는 데 기여할 수 있어 수단의 적합성도 인정된다"고 설명했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;그러면서 "테러단체의 가입을 선동하는 행위에 한정해 처벌하고 있는 점, 피선동자에게 테러단체 가입의 결의를 유발하거나 증대시킬 위험성을 요구하는 점, 징역형 처벌이 과중하거나 불합리하다고 보기 어려운 점 등을 고려하면 피해의 최소성이 인정된다"고 덧붙였다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;한편 헌재는 이 조항 가운데 가입권유 부분에 대해선 "관련 형사사건 판결 중 테러단체 가입 권유 혐의에 대해선 무죄가 확정돼 재판의 전제성이 인정되지 않아 부적법하다"며 각하했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;  &lt;br /&gt;외국 국적인 A 씨는 2007년 7월 한국 입국 후 2014년 7월경까지 난민인정은 불허됐지만 인도적 체류허가를 받아 한국에 체류 중이다. A 씨는 2015년 10월부터 2018년 6월까지 자신의 페이스북 계정에 국제연합이 지정한 테러단체인 이슬람국가(Islamic State, IS)의 사상을 찬양하는 글과 동영상을 올렸다. 또 불상의 IS 대원과 직접 대화할 수 있는 링크를 게시하는 방법으로 불특정 다수가 IS에 가입할 수 있도록 선동하고, 동료에게 IS 관련 동영상과 사진, A 씨가 직접 소총을 들고 있는 사진을 보여주면서 IS에 대해 홍보하거나 협박해 IS에 가입할 수 있도록 권유해 테러방지법 위반 혐의로 기소됐다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;1심은 테러단체 가입 선동 혐의에 대해선 유죄, 테러단체 가입 권유 혐의에 대해선 무죄를 선고했다. 항소심은 테러단체 가입 선동과 권유  가입 권유 혐의 모두 무죄로 판단했다. 대법원은 테러단체 가입 권유 혐의에 대해선 상고를 기각했으나 가입 선동 혐의에 대한 항소심 판단에 잘못이 있다며 파기환송했다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;A 씨는 항소심이 진행되던 중 테러방지법 제17조 제3항에 대해 위헌법률심판제청신청을 했지만, 기각되자 2019년 7월 헌법소원을 청구했다.&lt;/p&gt;</description>
+			<pubDate>Sun, 26 Jan 2025 03:06:47 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/205071</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/205071</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/205071.jpg</media:thumbnail>
+			<dc:creator>박수연 기자</dc:creator>
+		</item>
+		<item>
 			<title>검찰, 전국 고·지검장 회의 개최...윤 대통령 사건 처리 논의</title>
 			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;div class="cheditor-caption-wrapper"&gt;      &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;         &lt;img src="https://image.lawtimes.co.kr/thumb/180/205111.jpg" alt="67.jpg" /&gt;         &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;윤석열 대통령 《사진=연합뉴스》&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;   &lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;&lt;p&gt;내란 우두머리 등 혐의를 받는&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="8480"&gt;윤석열&amp;nbsp;&lt;/span&gt;대통령의 구속기한 연장을 법원이 또 불허한 가운데, 검찰이 사건 처리 방안을 논의하기 위해 전국 검사장 회의를 열었다.&lt;br /&gt;&lt;br /&gt;대검찰청은 26일 오전 10시 심우정 검찰총장 주재로 대검 차장·부장, 전국 고·지검장이 참여하는 회의를 개최했다고 밝혔다.&lt;br /&gt;&lt;br /&gt;이날 회의는 윤 대통령의 사건 처리 방안을 논의하기 위해 마련됐다. 윤 대통령의 구속 기한 만료일이 임박하면서, 기소 여부를 결정하기 위한 것으로 풀이된다. 검찰은 윤 대통령의 구속 기한을 27일까지로 보고 있다.&lt;br /&gt;&lt;br /&gt;앞서 법원은 윤 대통령의 구속기한 연장 신청을 두 차례 불허했다. 서울중앙지법은 24일 "수사처(공수처) 검사가 고위공직자범죄에 해당하는 사건을 수사한 다음 공소제기요구서를 붙여 그 서류와 증거물을 검찰청 검사에게 송부한 사건에서 이를 송부받아 공소제기 여부를 판단하는 검찰청 검사가 수사를 계속할 상당한 이유가 있다고 보기 어렵다"고 불허 사유를 밝혔다. 검찰이 즉시 재신청한 두 번째 연장 허가도 비슷한 취지로 불허했다.&lt;/p&gt;</description>
 			<pubDate>Sun, 26 Jan 2025 01:38:17 -0000</pubDate>
@@ -234,16 +244,6 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/205087</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/205087.jpg</media:thumbnail>
 			<dc:creator>조한주 기자</dc:creator>
-		</item>
-		<item>
-			<title>한중법학회, '중국 플랫폼 - 플랫폼 규제' 제42회 법제포럼 성료</title>
-			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/thumb/180/205084.jpg" alt="205084.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;사단법인 한중법학회(회장 우병창)는 23일 서울 종로구 청진동 법무법인 세종 24층 GR회의실에서 '중국 플랫폼 - 플랫폼 규제'를 주제로 제42회 법제포럼을 개최했다.&lt;br /&gt;&lt;br /&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="42557"&gt;김강산&lt;/span&gt;(변호사시험 12회) 법무법인 동인 변호사는 '디지털 플랫폼 규제의 법적 쟁점과 개선방안: 한국 플랫폼과 해외 플랫폼 간의 규제 형평성 제고를 위한 입법론적 고찰'을 주제로 발표했다.&lt;br /&gt;&lt;br /&gt;김 변호사는 발표에서 "디지털 경제의 핵심 기반인 온라인 플랫폼 시장에서 공정한 경쟁 환경 조성을 위한 규제의 필요성이 대두되고 있다"며 "규제의 목표는 특정 국가나 기업의 보호가 아닌 건전한 시장 생태계 조성과 소비자 후생 증진에 초점을 맞춰야 한다"고 강조했다. 이어 "현재 논의되고 있는 규제 체계는 정보 접근성의 비대칭, 법인 구조를 통한 규제 회피 가능성, 글로벌 시장에서의 법적 통일성 부족 등의 문제를 안고 있다"며 "특히 해외 플랫폼이 국내법의 적용을 회피할 수 있는 구조적 문제를 해결하기 위해 법제 개선이 필요하다"고 설명했다. &lt;br /&gt;&lt;br /&gt;김 변호사는 "규제의 실효성을 확보하기 위해서는 국내 기업과 해외 기업 간의 형평성을 유지할 수 있도록 규제 프레임워크의 재설계가 요구된다"며 "자율규제와 정부 개입의 적절한 조화가 중요하고 한국의 상황에 맞는 맞춤형 규제 모델이 필요하다"고 부연했다.&lt;br /&gt;&lt;br /&gt;이어진 토론에서는 김종우 강남대 글로벌문화학부 교수가 "한국소비자원과 공정거래위원회가 중국산 제품의 안전성 문제를 해결하기 위해 규제 강화 방안을 추진하고 있고 주요 중국 이커머스 플랫폼과의 협의를 통해 위해 제품 유통을 차단하는 자율제품안전협약을 체결했다"고 말했다. 그는 "이번 협약을 통해 소비자가 주문한 제품과 실제 수령한 제품 간 불일치 사례를 줄이고, 안전 기준을 충족하지 않는 제품이 국내에 유입되지 않도록 시스템을 개선할 계획"이라고 설명했다. &lt;br /&gt;&lt;br /&gt;또 "중국 플랫폼 규제는 단순한 시장 통제가 아니라 소비자 보호와 공정한 경쟁 질서를 확립하기 위한 필수적 과정"이라며 "한국도 글로벌 스탠다드에 맞는 균형 잡힌 규제를 마련해 디지털 경제의 건전한 발전을 도모해야 할 것"이라고 강조했다.&lt;/p&gt;</description>
-			<pubDate>Fri, 24 Jan 2025 07:09:23 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/205084</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/205084</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/205084.jpg</media:thumbnail>
-			<dc:creator>이진영 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
