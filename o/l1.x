@@ -6,6 +6,26 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>윤 대통령 기소 여부 검찰총장이 최종 결정… 전국 고·지검장 회의 종료</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/205113.jpg" alt="67.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;윤석열 대통령 《사진=연합뉴스》&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;내란 우두머리 혐의 등을 받는&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="8480"&gt;윤석열&amp;nbsp;&lt;/span&gt;대통령의 구속기소 여부에 대해&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="3204"&gt;심우정&amp;nbsp;&lt;/span&gt;검찰총장이 최종 결론을 낼 것으로 보인다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;26일 오전 10시부터 심 총장 주재로 열린 전국 고·지검장 회의는 2시간 50분가량 진행된 뒤, 마무리됐다. 이날 회의에는 대검 차장·부장, 전국 고·지검장이 참석했다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;회의는 구속기한 만료일이 임박한 윤 대통령의 기소 여부 등을 논의하기 마련됐다. 검찰 비상계엄 특별수사본부(본부장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="1054"&gt;박세현&amp;nbsp;&lt;/span&gt;서울고검장)의 수사 경과보고 등을 비롯해 다양한 의견들이 나온 것으로 전해졌다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;&lt;span style="font-weight: bold;" serial="1054"&gt;박세현&amp;nbsp;&lt;/span&gt;고검장은 회의가 끝난 뒤 기자들과 만나 "최종 결정은 총장이 들어보고 할 것"이라고 말했다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;회의에서 오간 논의에 대해선 "수사 경과나 증거관계를 쭉 설명하고, 어떻게 할지 다양한 의견들을 논의했다"고 답했다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;검찰은 윤 대통령의 1차 구속기한 만료일을 27일로 보고 있다. 하지만 윤 대통령 변호인단은 "구속기한 만료는 25일 자정"이라며 "불법 감금을 중지하고 즉시 석방하라"고 했다.&lt;/p&gt;</description>
+			<pubDate>Sun, 26 Jan 2025 06:21:59 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/205113</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/205113</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/205113.jpg</media:thumbnail>
+			<dc:creator>임현경 기자</dc:creator>
+		</item>
+		<item>
+			<title>윤 대통령 변호인 외 접견제한·서신금지 해제</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/205112.jpg" alt="32425.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;대화하는 윤 대통령 변호인단 《사진=연합뉴스》&lt;/figcaption&gt;   &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;   &lt;span style="font-weight: bold;" class="lawmanlink" serial="8480"&gt;윤석열&amp;nbsp;&lt;/span&gt;대통령에 대한 변호인 외 접견제한과 서신 수·발신 금지 조치가 해제됐다.&lt;br /&gt;&lt;br /&gt;26일 법조에 따르면 공수처는 윤 대통령에 대한 접견 및 서신 수·발신 금지 조치 취소 결정문을 서울구치소에 24일 보낸 것으로 알려졌다.&lt;br /&gt;&lt;br /&gt;공수처는 윤 대통령의 내란 우두머리 등 혐의 사건을 검찰에 23일 송부한 뒤, 윤 대통령 인신에 대한 추가 조치를 내리기 어렵다고 판단해 이같은 결정을 내린 것으로 풀이된다.&lt;br /&gt;&lt;br /&gt;사건을 송부받은 검찰은 윤 대통령에 대해 별도의 접견금지 조치를 내리지 않았다. 이에 가족인 김건희 여사 등의 접견이 가능해진 상태다. 다만 공휴일에는 수용자 접견을 할 수 없어, 변호인 외 접견은 설 연휴 동안은 어려울 것으로 보인다.&lt;br /&gt;&lt;br /&gt;앞서 공수처는 19일 증거인멸 우려를 이유로 윤 대통령에 대해 변호인 외 접견 금지 조치를 내렸다. 이튿날인 20일에는 서신 수·발신도 금지했다.&lt;br /&gt;&lt;br /&gt;이에 윤 대통령 변호인단은 "내란과 전혀 관련 없는 가족과의 접견까지 제한하는 것은 수사 목적이 아니라 대통령에 대한 분풀이에 불과하다"고 반박했다.&lt;/p&gt;</description>
+			<pubDate>Sun, 26 Jan 2025 04:39:18 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/205112</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/205112</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/205112.jpg</media:thumbnail>
+			<dc:creator>임현경 기자</dc:creator>
+		</item>
+		<item>
 			<title>헌재, "테러단체 가입 선동자 처벌하는 테러방지법은 합헌"</title>
 			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/205071.jpg" alt="735.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;테러단체 가입을 타인에게 선동하는 사람을 처벌하도록 한 국민보호와 공공안전을 위한 테러방지법(테러방지법) 조항은 헌법에 어긋나지 않는다는 헌법재판소 결정이 나왔다.&lt;p&gt;&amp;nbsp;   &lt;/p&gt;&lt;p&gt;헌재는 23일 A 씨가 "테러방지법 제17조 제3항은 위헌"이라며 낸 헌법소원 사건(&lt;b&gt;2019헌바317&lt;/b&gt;)에서 재판관 전원일치 의견으로 합헌 결정했다. 테러방지법 해당 조항은 '테러단체 가입을 지원하거나 타인에게 가입을 권유 또는 선동한 사람은 5년 이하의 징역에 처한다'고 규정한다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;헌재는 "가입선동조항이 금지하는 테러단체 가입 선동이란 피선동자가 테러단체에 가입하도록 가입을 결의·실행하게 하는 일체의 행위이며 대법원도 이와 같이 해석했다"며 "가입선동조항의 주체는 테러단체 구성 혹은 가입과는 별개로 테러단체의 외부에 있는 사람까지를 포함하는 것으로 해석할 수 있고, 불특정 다수나 국내에 거주하지 않는 외국인도 선동의 객체에 포함하고 있음을 어렵지 않게 해석할 수 있어 죄형법정주의의 명확성원칙에 위반되지 않는다"고 밝혔다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;이어 "가입선동조항의 목적은 테러단체에 의한 테러의 위험성을 사전에 차단하여 테러로부터 국민의 생명과 재산을 보호하고 국가 및 공공의 안전을 확보하려는 입법목적이 정당하고, 테러단체 가입을 선동하는 행위를 독립적인 구성요건으로 규정해 처벌할 경우 테러단체의 확장·증대를 막아 테러단체에 의한 테러의 실행 또는 실행의 위험성을 사전에 차단하는 데 기여할 수 있어 수단의 적합성도 인정된다"고 설명했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;그러면서 "테러단체의 가입을 선동하는 행위에 한정해 처벌하고 있는 점, 피선동자에게 테러단체 가입의 결의를 유발하거나 증대시킬 위험성을 요구하는 점, 징역형 처벌이 과중하거나 불합리하다고 보기 어려운 점 등을 고려하면 피해의 최소성이 인정된다"고 덧붙였다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;한편 헌재는 이 조항 가운데 가입권유 부분에 대해선 "관련 형사사건 판결 중 테러단체 가입 권유 혐의에 대해선 무죄가 확정돼 재판의 전제성이 인정되지 않아 부적법하다"며 각하했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;  &lt;br /&gt;외국 국적인 A 씨는 2007년 7월 한국 입국 후 2014년 7월경까지 난민인정은 불허됐지만 인도적 체류허가를 받아 한국에 체류 중이다. A 씨는 2015년 10월부터 2018년 6월까지 자신의 페이스북 계정에 국제연합이 지정한 테러단체인 이슬람국가(Islamic State, IS)의 사상을 찬양하는 글과 동영상을 올렸다. 또 불상의 IS 대원과 직접 대화할 수 있는 링크를 게시하는 방법으로 불특정 다수가 IS에 가입할 수 있도록 선동하고, 동료에게 IS 관련 동영상과 사진, A 씨가 직접 소총을 들고 있는 사진을 보여주면서 IS에 대해 홍보하거나 협박해 IS에 가입할 수 있도록 권유해 테러방지법 위반 혐의로 기소됐다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;1심은 테러단체 가입 선동 혐의에 대해선 유죄, 테러단체 가입 권유 혐의에 대해선 무죄를 선고했다. 항소심은 테러단체 가입 선동과 권유  가입 권유 혐의 모두 무죄로 판단했다. 대법원은 테러단체 가입 권유 혐의에 대해선 상고를 기각했으나 가입 선동 혐의에 대한 항소심 판단에 잘못이 있다며 파기환송했다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;A 씨는 항소심이 진행되던 중 테러방지법 제17조 제3항에 대해 위헌법률심판제청신청을 했지만, 기각되자 2019년 7월 헌법소원을 청구했다.&lt;/p&gt;</description>
 			<pubDate>Sun, 26 Jan 2025 03:06:47 -0000</pubDate>
@@ -223,26 +243,6 @@
 			<link>https://www.lawtimes.co.kr/news/205088</link>
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/205088</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/205088.jpg</media:thumbnail>
-			<dc:creator>조한주 기자</dc:creator>
-		</item>
-		<item>
-			<title>[판결] "도박자금 대여라도 반환 약정은 유효" … 대법, 사해행위 취소소송 파기환송</title>
-			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/thumb/180/205069.jpg" alt="0002.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;대법원이 도박자금 대여 후 작성된 차용증에 따른 반환 약정과 이를 보증한 보증의 효력을 인정했다.&lt;p&gt;&amp;nbsp; &lt;br /&gt;대법원 민사2부(주심&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="3751"&gt;권영준&amp;nbsp;&lt;/span&gt;대법관)는 A 씨가 B 씨 등을 상대로 제기한 사해행위 취소소송(&lt;b&gt;2024다272910&lt;/b&gt;)에서 "도박자금을 대여했다는 사실만으로 그 반환 약정까지 불법원인급여를 이유로 무효라고 단정할 수 없다"며 원고패소 판결한 원심을 파기하고 사건을 수원지법으로 돌려보냈다.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;[사실관계]&lt;/b&gt;&lt;br /&gt;A 씨는 2021년 5월 4일 C 씨에게 도박자금 5000만 원을 빌려주고 같은 해 8월 20일까지 갚겠다는 내용의 차용증을 받았다. D 씨는 2022년 10월 A 씨에게 'C의 A에 대한 5000만 원의 채무를 보증한다'는 내용의 보증서를 작성했다. 며칠 뒤 D 씨는 B 씨 등에게 증여를 원인으로 한 소유권이전등기를 마쳤다. A 씨는 D 씨가 B 씨 등에게 한 부동산 증여가 사해행위에 해당한다고 주장하며 사해행위 취소소송을 B 씨 등에 제기했다. &lt;br /&gt;&lt;br /&gt;&lt;b&gt;[1심 및 항소심] &lt;/b&gt;&lt;br /&gt;1심은 B 씨 등이 변론에 응하지 않아 원고 승소 판결했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;항소심은 A 씨가 C 씨에게 도박자금으로 5000만 원을 대여했는데, 이는 민법 제746조에서 정한 불법원인급여에 해당하기 때문에 A 씨에게 반환청구권 자체가 인정되지 않는다며 원고패소 판결했다.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;[대법원 판단]&lt;/b&gt;&lt;/p&gt;&lt;p&gt;대법원은 판단을 뒤집었다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;재판부는 "C 씨가 당초 도박자금 명목으로 원고로부터 돈을 받았다고 하더라도 그 후 차용증을 작성해줌으로써 5000만 원을 반환하기로 하는 별도의 약정을 했고, D 씨도 그 반환약정에 따른 채무를 보증했다고 볼 여지가 크다"고 판단했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp; &lt;br /&gt;C 씨의 반환약정 자체가 사회질서에 반해 무효가 되지 않는 한 유효하고 이를 보증한 D 씨의 보증채무도 유효하다는 취지다. 즉, A 씨가 C 씨에게 도박자금으로 돈을 빌려줬지만, 약 6개월 후 차용증을 작성해 돈을 반환하기로 별도 약정했고 D 씨는 이를 보증했기 때문에 별개의 원인으로 채무를 부담한 것으로 볼 수 있다는 것이다.&lt;/p&gt;&lt;p&gt;재판부는 "C 씨가 당초 도박자금 명목으로 A 씨로부터 돈을 받았다고 하더라도 그 후 A 씨에게 이 사건 차용증을 작성해 줌으로써 5000만 원을 반환하기로 하는 별도의 약정을 했고, D 씨도 그 반환약정에 따른 채무를 보증했다고 볼 여지가 크다"며 "그렇다면 C 씨의 반환약정은 사회질서에 반해 무효가 되지 않는 한 유효하고, 이에 관한 D 씨의 보증도 유효하다고 볼 수 있다"고 밝혔다.&lt;/p&gt;&lt;p&gt;&amp;nbsp; &lt;br /&gt;그러면서 "원심은 C 씨가 A 씨에게 이 사건 차용증을 작성해 줌으로써 별도의 반환약정을 한 것인지, 나아가 그 반환약정이 사회질서에 반하는지에 관해 심리하지 않은 채 'C 씨가 도박자금으로 사용하기 위해 A 씨로부터 돈을 빌렸고 A 씨도 대여 당시 그러한 사정을 알고 있었다'는 이유만으로 D 씨의 보증채무가 인정되지 않는다고 보았다"며 "이러한 원심의 판단에는 불법원인급여 후 그 급부를 반환하기로 하는 약정의 효력에 관한 법리를 오해해 판결에 영향을 미친 잘못이 있다"고 설명했다.&lt;/p&gt;</description>
-			<pubDate>Fri, 24 Jan 2025 07:14:49 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/205069</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/205069</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/205069.jpg</media:thumbnail>
-			<dc:creator>안재명 기자</dc:creator>
-		</item>
-		<item>
-			<title>법무법인 가온, ABLJ '조세' 부문 수상</title>
-			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/205087.jpg" alt="1.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;법무법인 가온(대표변호사&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="4573"&gt;강남규&lt;/span&gt;)이 아시아 비즈니스 법률저널(ABLJ)이 주최한 ‘2024 한국 로펌 어워드’에서 조세 분야 우수 로펌으로 선정됐다.&lt;br /&gt;&lt;br /&gt;가온은 조세 분야 평가에서 법무법인 태평양, 김·장 법률사무소, 법무법인 율촌과 이름을 나란히 올렸다. 특히 가온이 삼성증권을 포함한 5개 증권사를 대리해 TRS(총수익스왑) 과세 분쟁을 성공적으로 해결한 성과가 높이 평가됐다. TRS(Total Return Swap)는 장외파생상품 거래의 일종으로, 증권사와 투자자가 기초자산(주식 또는 채권)에서 발생하는 수익과 이자를 교환하는 방식을 말한다.&lt;br /&gt;&lt;br /&gt;ABLJ는 “가온은 국내에 관련 판례가 없는 점을 감안해 해외 입법 사례 및 판례를 면밀히 조사·분석했고, 거래의 경제적 합리성을 입증하는 데 주력했다”며 “치열한 법적 공방 끝에 사건을 성공적으로 마무리했다”고 평가했다. ABLJ 조사에 참여한 한 증권사 임원은 “가온의 대응은 마치 치밀하게 계획된 스포츠 경기를 보는 듯했다”고 밝혔다.&lt;br /&gt;&lt;br /&gt;ABLJ는 매년 국내외 기업과 아시아 지역 로펌을 대상으로 설문 조사를 실시해 각 분야에서 우수 로펌을 선정하고 있다.&lt;/p&gt;</description>
-			<pubDate>Fri, 24 Jan 2025 07:10:58 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/205087</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/205087</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/205087.jpg</media:thumbnail>
 			<dc:creator>조한주 기자</dc:creator>
 		</item>
 	</channel>
