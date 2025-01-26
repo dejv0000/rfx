@@ -13,6 +13,46 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>지난 100년간 남성 키·몸무게, 여성보다 2배 이상 늘었다</title>
+      <link>https://www.chosun.com/economy/science/2025/01/26/YARZDIQOTRBONKR3T2B67LL47I/</link>
+      <guid isPermaLink="true">https://www.chosun.com/economy/science/2025/01/26/YARZDIQOTRBONKR3T2B67LL47I/</guid>
+      <dc:creator>김효인 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 26 Jan 2025 04:49:57 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5LEQB4HFCZHLBOZ3PPPD4IFRFU.png"&gt;&lt;figcaption&gt;&lt;small&gt;한국 아동 청소년의 평균 키/일러스트=박상훈&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 한 세기 동안 남성의 키와 몸무게가 여성보다 2배 이상 증가한 것으로 나타났다. 여성들도 같은 기간 평균 키와 몸무게가 늘었지만 성별간 신체적 격차는 더 커진 것이다.&lt;br&gt;&lt;br&gt;영국 로햄튼 대학교 등 국제 공동 연구진은 세계보건기구(WHO) 데이터를 기반으로 분석한 결과 이 같은 결과가 나왔다고 최근 밝혔다. 이번 연구는 국제 학술지 ‘바이올로지 레터스’ 최신호에 게재됐다.&lt;br&gt;&lt;br&gt;연구진은 지난 한 세기 동안 인류의 신체 변화를 측정하기 위해 WHO가 보유하고 있는 69개국 성인의 평균 키와 몸무게 데이터와 ‘인류 발전 지표(HDI)’를 연계해 분석했다. HDI는 기대수명, 교육 시간, 1인당 소득 등을 0에서 1까지의 점수로 환산한 지표로 인류의 발전 정도를 보여준다.&lt;br&gt;&lt;br&gt;분석 결과 HDI가 0.2포인트 증가할 때마다 여성은 평균 1.7cm 더 커지고 2.7kg 더 무거워진 반면, 남성은 4cm 더 커지고 6.5kg 더 무거워지는 것으로 나타났다. 생활 환경이 개선될 때마다 남녀 모두 키와 몸무게가 증가하지만, 남성의 증가량이 여성보다 컸던 것이다. 더 자세한 기록을 가지고 있는 영국을 별도로 분석한 결과에서도 지난 세기 전반기에 여성 평균 신장은 159cm에서 162cm로 1.9% 증가한 반면, 남성 평균 신장은 170cm에서 177cm로 4% 증가한 것으로 나타났다.&lt;br&gt;&lt;br&gt;연구진은 남성의 키와 몸무게가 상대적으로 더 많이 증가한 것이 여성들이 키가 큰 남성을 선호하기 때문에 나타난 성선택일 가능성이 있다고 분석했다. 연구를 이끈 루이스 할시 로햄튼 대학교 교수는 “여성들에게 키 큰 남성이 인기가 있는 것은 더 강인해보일 뿐 아니라 성장 과정에서 불우한 환경의 영향을 덜 받았다는 반증일 수 있기 때문”이라고 했다. 하지만 연구진은 키가 클수록 유전적 변화를 축적할 수 있는 세포가 더 많기 때문에 암에 걸리기 쉬운 등 단점도 있다고 지적했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>무 96%↑, 배추 52%↑, 고등어 45%↑... 설 성수품 가격 껑충</title>
+      <link>https://www.chosun.com/economy/market_trend/2025/01/26/MJJWQLTXR5H2HCRL7AJYC3DYFE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/economy/market_trend/2025/01/26/MJJWQLTXR5H2HCRL7AJYC3DYFE/</guid>
+      <dc:creator>석남준 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 26 Jan 2025 04:41:17 +0000</pubDate>
+      <content:encoded>올해 설 성수품 가운데 배추, 무, 참조기, 고등어 등의 가격이 작년보다 크게 오른 것으로 나타났다. 한우, 닭고기, 사과 등은 1년 전과 큰 변화가 없었다.&lt;br&gt;&lt;br&gt;정부는 16대 설 성수품을 관리하고 있다. 16대 설 성수품은 배추, 무, 사과, 배, 밤, 대추, 한우, 돼지고기, 닭고기, 계란, 명태, 오징어, 갈치, 고등어, 참조기, 마른 멸치다.&lt;br&gt;&lt;br&gt;한국농수산식품유통공사(aT) 등에 따르면 배추 소매 가격은 지난 24일 기준 한 포기에 4839원으로 집계됐다. 1년 전과 비교하면 52.9%, 평년과 비교하면 41.6% 오른 가격이다.&lt;br&gt;&lt;br&gt;배추와 함께 무도 가격이 크게 올랐다. 무는 한 개에 3023원으로 1년 전과 평년에 비해 각각 96.3%, 64.8% 올랐다. 유통가에서는 작황 부진으로 배추와 무의 가격이 오른 것으로 보고 있다.&lt;br&gt;&lt;br&gt;수산물 가운데선 고등어와 참조기의 가격이 크게 올랐다. 고등어(국산 염장·중품 기준)는 한 손에 6473원으로 1년 전과 비교해 45.4% 올랐다. 평년 가격과 비교하면 67% 비싸졌다. 참조기(냉동·중품 기준)는 한 마리에 1959원으로 1년 전보다 24.9%, 평년보다 28% 올랐다. 마른 멸치는 100g에 2409원으로 1년 전과 비교해 11% 비싸졌다. 명태(원양수입 통합·냉동 기준)와 오징어(연근해·냉장) 등은 인상폭이 한 자릿수였다. 갈치(국산·냉장 기준)는 작년, 평년 가격과 비교해 5.9% 싸졌다.&lt;br&gt;&lt;br&gt;과일 품목 중에선 배(신고·상품 기준) 가격이 10개에 4만6956원으로 1년 전보다 39.6% 올랐다. 평년 가격과 비교해도 40.4% 비싸다. 사과(후지·상품 기준)는 10개에 2만6872원으로 1년 전보다 0.9% 내렸다. 다만 평년 가격과 비교하면 4.3% 높다.&lt;br&gt;&lt;br&gt;한우 1등급 등심과 닭고기 가격은 1년 전과 비슷한 수준이다. 돼지고기 삼겹살 가격은 100g에 2541원으로 1년 전보다 13.2% 올랐고, 계란(특란 기준)은 한 판에 6410원으로 1년 전보다 8.7% 높은 것으로 집계됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JJPLN5QJ3NKPBDP2GYCKPEPXTY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;설 명절을 앞둔 지난 23일 서울의 한 시장에 장을 보러 나온 시민들로 붐비는 모습. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>檢특수본부장 “尹대통령 사건 처리 방식, 총장이 최종 결정할 것” </title>
+      <link>https://www.chosun.com/national/court_law/2025/01/26/YJUDBKEMYZHUBC5AKX5DZOEXGI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/01/26/YJUDBKEMYZHUBC5AKX5DZOEXGI/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 26 Jan 2025 04:05:57 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NOOO5D2NOJGIHJ53XL4CAWOV2A.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령이 23일 오후 서울 종로구 헌법재판소에서 열린 탄핵심판 4차 변론기일에 출석해 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 대통령의 내란 우두머리 혐의 사건을 고위공직자범죄수사처(공수처)로부터 송부 받은 검찰이 26일 전국 검사장을 소집해 사건 처리 방향을 놓고 회의를 가졌다. 검찰 비상계엄 특별수사본부를 지휘하고 있는 박세현 서울고검장은 “총장님께서 최종 결정을 하실 것”이라고 했다.&lt;br&gt;&lt;br&gt;심우정 검찰총장 주재로 2시간 45분가량 진행된 이번 회의에선 윤 대통령을 구속 기소할 지, 석방한 뒤 추가 수사를 거쳐 기소할 지 여부 등 다양한 논의가 오간 것으로 전해졌다. 고검장인 박 특수본부장도 이날 회의에 직접 참석해 그간 ‘12·3 비상계엄’ 사건 수사 경과와 증거 관계에 대해 설명했다고 한다.&lt;br&gt;&lt;br&gt;이날 회의에선 구속 기간이 만료되기 전 윤 대통령을 기소해야 한다는 의견을 비롯해, 윤 대통령을 우선 석방한 뒤 검찰이 보완수사를 해야 한다는 의견 등 다양한 의견이 나온 것으로 전해졌다. 다만 윤 대통령 사건의 처분 방향을 결정한 뒤 회의를 마친 것은 아니라고 한다.&lt;br&gt;&lt;br&gt;박 특수본부장은 이날 오후 12시 58분쯤 특수본 사무실이 있는 서울고등검찰청 청사에서 기자들과 만나 ‘결론이 안 났느냐’는 질문에 “아직”이라고 답했다. 그러면서 “다양한 의견들이 있어서 논의했다”며 “최종 결정은 (심우정) 총장님이 하시겠죠”라고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PKFNXKOD4ZMIHBNOCMN44VK3NU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;검찰이 윤석열 대통령 사건의 처리 방향을 논의하기 위해 전국 검사장 회의를 연 가운데 26일 오전 회의가 진행 중인 서울 서초구 대검찰청에 취재진이 대기하고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰 특수본은 지난 23일 공수처에서 윤 대통령 사건을 송부받은 뒤, 윤 대통령의 구속 기간을 연장해달라는 신청을 법원에 냈다. 공수처가 체포 당일 윤 대통령을 한 차례 조사한 것 이외에 조사하지 못한 점, 공수처가 자체 수사해 검찰에 보낸 1만여 쪽의 기록 등을 정리할 시간이 필요한 점 등이 고려됐다고 한다. 그러나 법원은 두 차례의 신청 모두 “공수처로부터 사건을 송부받은 검찰청 검사가 구속 기간 연장에 의한 구속 수사와 같은 적극적‧전면적 강제수사를 할 수 있는지에 관해서는 법적 근거나 상당성이 부족하다”며 불허했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/4CE6EKS6BRDZLBQMGY7GH2IKFY.JPG?width=4007&amp;height=2254&amp;auth=b2b657a3b91297051a3b14ebf61828287dc573ff04ca6d4f087ce533a3b919c3&amp;smart=true" type="image/jpeg" height="2254" width="4007">
+        <media:description type="plain">윤석열 대통령이 23일 오후 서울 종로구 헌법재판소에서 열린 탄핵심판 4차 변론기일에 출석해 있다. 2025.1.23/뉴스1 ⓒ News1 사진공동취재단</media:description>
+        <media:credit role="author" scheme="urn:ebu">뉴스1 ⓒ News1 사진공동취재단</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>내일부터 설 당일까지 전국 폭설…수도권 최대 25㎝</title>
+      <link>https://www.chosun.com/national/transport-environment/2025/01/26/QBJIYZJOEJCOPNZQIIU3O6K5CI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/01/26/QBJIYZJOEJCOPNZQIIU3O6K5CI/</guid>
+      <dc:creator>박상현 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 26 Jan 2025 04:18:36 +0000</pubDate>
+      <content:encoded>설 당일인 29일까지 전국에 폭설이 예고됐다. 서울에 눈이 10㎝ 이상 쌓이겠고, 수도권에 최대 25㎝, 강원·전북에 최대 30㎝의 대설이 예상됐다. 북쪽에서 찬 바람까지 내려오며 도로에 쌓인 눈과 비가 밤사이 얼어붙을 것으로 보여 귀경길 빙판과 블랙 아이스(도로 살얼음)로 인한 사고 발생 가능성이 커졌다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/S6VM5FLZBHEZBTWP7C4CSIF5NA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난  9일 오후 광주 서구 무진대로에서 차량이 내리는 폭설에 서행하고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;26일 기상청에 따르면, 27일 새벽부터 오후까지 구름대를 동반한 저기압이 우리나라를 지나고, 27일 오후부터 길게는 29일까지 북서풍에 서해상 눈구름대가 유입돼 많은 눈이 쏟아질 것으로 전망됐다.&lt;br&gt;&lt;br&gt;수도권에는 26일 밤부터 눈이 내리기 시작해 28일까지 10~25㎝의 눈이 쌓일 것으로 보인다. 이밖에 강원 10~30㎝, 충청 5~20㎝, 전북동부 5~30㎝, 광주·전북서부·전남 5~15㎝, 경남 1~10㎝, 경북 3~8㎝, 제주 3~30㎝ 등으로 예상 적설량이 예보됐다.&lt;br&gt;&lt;br&gt;27일 전국에 대설특보가 내릴 것으로 보인다. 기상청은 27일 새벽과 오후 사이, 28일 새벽과 오후 사이 두 차례 눈이 특히 강하게 쏟아질 것으로 보고 있다. 27일에는 시간당 3~5㎝, 일부 지역은 시간당 5㎝ 넘게 폭설이 내릴 수 있다.&lt;br&gt;&lt;br&gt;27일 오전부터 오후까지 중부지방에 시간당 3~5㎝, 남부지방에 시간당 1~3㎝씩 축축하고 무거운 습설(濕雪)이 내릴 것으로 보인다. 이어 28일 새벽부터 오전까지에는 전국에 시간당 1~3㎝의 폭설이 예상됐다.&lt;br&gt;&lt;br&gt;이번에 폭설이 예상되는 것은 우리나라 북쪽 대기 상층에 자리한 절리저기압이 고기압 사이에 갇혀 정체하는 ‘블로킹’ 현상이 발생하기 때문이다. 우리나라 쪽으로 찬 공기가 계속해서 유입되면서 눈이 내리는 시간이 길 것으로 보인다. 절리저기압이란 북극의 한기를 포함하고 있는 차가운 공기 덩어리 일부가 떨어져 내려온 것이다.&lt;br&gt;&lt;br&gt;또 북서쪽에서 내려오는 찬 공기와 상대적으로 따뜻한 서해 해수면 온도의 차이(해기차)가 큰 것도 눈구름대가 크게 발달하는 요인이 될 것으로 분석됐다. 현재 서해 중심부 해수면 온도는 7~9도로 평년보다 약간 높은 상황이다. 이에 바다에서 대기로 수증기 공급량도 평소보다 많을 것으로 보인다.&lt;br&gt;&lt;br&gt;27일 저기압이 지난 뒤에는 곧바로 북쪽의 찬 대륙고기압이 확장하며 우리나라로 찬 바람을 불어넣을 것으로 예상된다. 이에 연휴 전까지 15도 내외로 올라갔던 한낮 기온이 뚝 떨어지겠고, 아침 기온도 대부분 지역에서 영하권을 맴돌며 한파(寒波)가 다시 올 것으로 전망된다.&lt;br&gt;&lt;br&gt;27일 아침 최저기온은 영하 3도에서 영상 6도, 낮 최고기온은 2~9도로 예보됐다. 28일에는 최저 영하 10도에서 0도, 최고 영하 4도서 영상 6도의 기온 분포를 보이겠다. 영하 10도 안팎의 추위는 주말까지 이어질 것으로 보인다.&lt;br&gt;&lt;br&gt;이렇게 기온이 뚝 떨어지면서 눈이 내린 뒤 녹지 않고 땅 위에 그대로 쌓일 것으로 보여 귀경길 도로가 빙판과 블랙 아이스로 덮일 가능성이 커졌다. 특히 새벽 시간대에 눈에 잘 보이지 않는 블랙 아이스로 인한 교통사고 발생 가능성이 있어 교통사고가 발생하지 않도록 운전에 유의해야 한다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>尹측 “구속기한 25일 자정에 만료...대통령 석방해야” 주장</title>
       <link>https://www.chosun.com/national/court_law/2025/01/26/RA2NKFDSNVD2VMMIDZ5B43YAQU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/01/26/RA2NKFDSNVD2VMMIDZ5B43YAQU/</guid>
@@ -920,42 +960,6 @@
       <description/>
       <pubDate>Fri, 24 Jan 2025 08:54:59 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BMFWINOQRPPOUHBGGKESK6LD6A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;24일 오전 10시 45분쯤 울산시 남구 매암동 GS엔텍 공장에서 작업 중이던 60대 A씨가 설비에 몸이 끼여 병원으로 옮겨졌으나 숨졌다.&lt;br&gt;&lt;br&gt;A씨는 하청업체 소속인 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰과 소방 당국은 A씨가 탱크 시설 용접 작업 중 이 시설을 받치고 있던 쇠기둥 롤러 설비에 하반신이 끼여 다친 것으로 보고 자세한 경위를 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>서울지방변호사회 제98대 회장 조순열 변호사 당선</title>
-      <link>https://www.chosun.com/national/court_law/2025/01/24/I2UFO4D7U5EW3FJF44RWB4PZFI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/01/24/I2UFO4D7U5EW3FJF44RWB4PZFI/</guid>
-      <dc:creator>박혜연 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 24 Jan 2025 08:39:47 +0000</pubDate>
-      <content:encoded>서울지방변호사회 제98대 회장에 조순열(53·사법연수원 33기) 변호사가 24일 당선됐다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VBT2SE55ARPE7GMU66C5LVFAP4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;조순열 제98대 서울지방변호사회 회장 당선인이 24일 오후 서울 중구 롯데호텔에서 열린 서울지방변호사회 정기총회에서 당선을 확정 지은 후 기뻐하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울변회는 24일 열린 2025년 정기총회 결과 기호 3번 조 변호사가 총 1만814표 중 4919표(45.49%)를 얻어 신임 회장에 당선됐다고 밝혔다.&lt;br&gt;&lt;br&gt;기호 1번 박종흔 변호사(59·31기), 2번 박병철 변호사(50·변호사시험 6회)는 고배를 마셨다. &lt;br&gt;&lt;br&gt;조 변호사는 지난 20일 신임 대한변호사협회장에 당선된 김정욱 변호사와 러닝메이트를 이뤄 이번 선거에 출마했다. &lt;br&gt;&lt;br&gt;조 변호사는 성균관대 법학과를 졸업하고, 변협 청년부협회장·변호사직역대책특위 위원, 제96·97대 서울변회 부회장 등을 지냈다. 22년째 법무법인 문무의 대표 변호사를 맡고 있다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>오세훈 “자체 핵무장 테이블 위에 올릴 준비 해야”</title>
-      <link>https://www.chosun.com/national/national_general/2025/01/24/J7QAGZXKX5GB3K2TRSAPYE6MWM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/24/J7QAGZXKX5GB3K2TRSAPYE6MWM/</guid>
-      <dc:creator>최연진 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 24 Jan 2025 08:33:43 +0000</pubDate>
-      <content:encoded>오세훈 서울시장은 24일 북핵 문제와 관련, “한국의 허용 없이 한반도에서 어떤 핵 협상도 이뤄질 수 없음을 미국, 북한 모두에 분명히 알려야 한다”고 했다.&lt;br&gt;&lt;br&gt;오 시장은 이날 페이스북에 ‘한반도의 핵 문제는 한국 없이는 논의할 수 없습니다’라는 제목의 글을 올려 이같이 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5NLT6MHP4BM7XHEV7AEX7AHC4A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;오세훈 서울시장이 추석 연휴를 하루 앞둔 24일 오후 경기도 김포시 월곶면 해병대 제2사단 애기봉 전방 OP를 찾아 최영길 사단장으로부터 현황보고를 받고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;오 시장은 도널드 트럼프 미국 대통령이 북한을 ‘핵 보유국(Nuclear Power)’이라고 지칭한 것, 쿼드(Quad·미국·일본·호주·인도 안보 협의체) 외교장관회의에서 ‘한반도 비핵화’ 표현이 빠진 것을 언급하며 “북한 핵 문제에 지각변동이 일어나고 있다”고 했다.&lt;br&gt;&lt;br&gt;그는 “가장 우려스러운 시나리오는 미국이 한국을 배제한 채 북한과 독자적으로 협상 테이블을 여는 상황”이라며 “미국이 ICBM(대륙간탄도미사일) 제거와 핵 동결 수준에서 북한과의 핵군축 ‘스몰딜’에 나선다면 한국은 북핵의 ‘인질’로 전락하게 될 것”이라고 했다.&lt;br&gt;&lt;br&gt;오 시장은 “안보에 설마는 없다”며 “뽑지 않은 칼이 무섭다는 얘기가 있는데, 우리가 언제든 칼을 뽑을 준비가 되어 있다는 사실을 상대에게 인식시켜야 한다”고 했다. 이어 “핵 잠재력을 보유하는 것과 함께 선택 가능한 전략적 옵션으로 자체 핵무장을 테이블 위에 올릴 준비를 해야 한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>인천서 금은방 털고 달아난 일당…범행 5시간 만에 체포</title>
-      <link>https://www.chosun.com/national/incident/2025/01/24/S2FYO4Y2CJD4VIELYCKIHNTBVU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/01/24/S2FYO4Y2CJD4VIELYCKIHNTBVU/</guid>
-      <dc:creator>인천=이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 24 Jan 2025 08:28:16 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IWSAAW52FVIDNBFKNCGRIBUOZU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;금은방 출입문을 부수고 들어가 귀금속을 훔쳐 달아난 일당이 범행 5시간여 만에 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;인천 계양경찰서는 특수절도 혐의로 A씨 등 10~20대 남성 5명을 입건했다고 24일 밝혔다. &lt;br&gt;&lt;br&gt;A씨 등은 이날 오전 5시 20분쯤 인천 계양구 계산동의 한 금은방 출입문을 둔기로 부수고 들어가 진열대에 있던 금반지와 귀걸이, 목걸이 등 귀금속을 훔친 혐의를 받고 있다. A씨 등은 미리 준비한 렌터카를 타고 도망쳤다.&lt;br&gt;&lt;br&gt;신고를 받고 출동한 경찰은 주변 감시카메라(CCTV) 영상 등을 토대로 추적에 나서 이날 오전 10시 50분쯤 경기 양주시와 의정부 등지에서 이들을 긴급체포했다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “범행 동기 등 정확한 사건 경위와 구체적인 피해 금액 등을 조사하고 있다”며 “혐의가 인정되면, 구속영장을 신청할 예정”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>이향숙 이화여대 신임 총장 24일 취임식</title>
-      <link>https://www.chosun.com/national/education/2025/01/24/OCE5GHEIPVCYPH6SQOGPZQ3YDE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2025/01/24/OCE5GHEIPVCYPH6SQOGPZQ3YDE/</guid>
-      <dc:creator>김승범 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 24 Jan 2025 08:15:25 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CINTR666CFD4VFTWVPUWZN3BHA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이향숙 이화여자대학교 신임 총장이 24일 서울 서대문구 이화여대 김영의홀에서 열린 취임식에서 취임 소감을 밝히고 있다./이화여대&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이화여자대학교 제18대 이향숙 신임 총장이 24일 서울 서대문구 이화여대 김영의홀에서 취임식을 가졌다.&lt;br&gt;&lt;br&gt;이 총장은 취임사에서 “디지털 대전환 시대의 창의적 미래인재를 양성하고, 세계적 수준의 연구개발과 혁신을 통해 국가의 성장을 견인해 가겠다”며 “창의와 도전, 수월성과 혁신, 협력과 동행, 지속가능성, 나눔과 섬김을 핵심 가치로 삼아 새 시대, 새 이화가 출발하고자 한다”고 말했다.&lt;br&gt;&lt;br&gt;이 총장은 인공지능 시대에 최적화된 전문 인재 양성을 위해 인공지능 기반 교육 인프라와 전공별 맞춤형 AI 교육 시스템을 구축하겠다고 밝혔다. 또 퍼스트무버(First Mover)형 연구 리더십 구축, 이화 브랜드 가치와 글로벌 위상 제고, 첨단 융복합 메디·헬스케어 클러스터 구축 등의 목표를 제시했다.&lt;br&gt;&lt;br&gt;이 총장은 이화여대 역사상 첫 과학기술 계열 총장이다. 1986년 이대 수학과를 졸업한 이 총장은 이대와 미국 노스웨스턴대에서 각각 석사, 박사 학위를 받았다. 1995년부터 이대 수학과 교수로 재직했으며 수학과 학과장과 연구처장·산학협력단장 등을 맡았다. 임기는 내달 1일부터 2029년 1월 31일까지 4년이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>경찰, 김성훈 경호처 차장·이광우 본부장 구속영장 신청</title>
