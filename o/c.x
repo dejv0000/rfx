@@ -13,6 +13,60 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>“저렴하고 상황별 학습 가능한데 학원 왜 가?” 챗GPT로 영어 배우는 MZ</title>
+      <link>https://www.chosun.com/national/national_general/2025/01/27/F6V4VNGQXVA2DPKMGGHH3POZAE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/27/F6V4VNGQXVA2DPKMGGHH3POZAE/</guid>
+      <dc:creator>이호준 기자, 김병권 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 27 Jan 2025 05:00:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UBBKAFUQWBHANJTZUUR7BH4GVQ.png"&gt;&lt;figcaption&gt;&lt;small&gt;챗GPT로 영어공부를 하는 여성의 모습./챗GPT4o&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 마포구에 사는 대학생 김모(24)씨는 6개월 전부터 챗GPT를 통해 영어 회화를 배우고 있다. 김씨는 “영어 회화는 다양한 상황을 경험해봐야 실력이 는다고 생각하는데, 챗GPT는 이런 가상의 상황을 잘 만들어준다”며 “사실 해외에 나가지 않는 이상 다양한 상황을 마주하는 게 어려운데, 챗GPT는 식당이나 박물관, 회사 등 상황을 설정해두면 알아서 다양한 말을 해볼 수 있게 해줘서 애용하고 있다”고 했다. &lt;br&gt;&lt;br&gt;챗GPT를 필두로 한 인공지능(AI)이 발달함에 따라 이를 통해 영어 회화까지 공부하는 2030 젊은층이 늘어나고 있다. 이들 사이에선 “오프라인 학원과 달리 내가 편할 때 학습을 할 수 있어서 시간 절약이 된다” “챗GPT 구독료가 오프라인 학원이나 원어민 전화 수업에 비해 저렴하고 상황에 따른 회화 학습이 가능하다”는 긍정적인 평가가 나온다.&lt;br&gt;&lt;br&gt;실제로 본지 기자가 챗GPT를 이용했을 때도 학습자의 수준과 원하는 상황에 따른 학습이 가능했다. 챗GPT의 ‘개인 맞춤 설정’에서 이름이나 국가 등 ‘나’에 대한 정보를 입력하고, 챗GPT가 어떻게 대답하기를 바라는지 등을 적으면 바로 학습이 가능했다. 예를 들어 기초 영어회화를 원하는 경우, “영어회화를 공부하고 싶은 한국인으로 초보자 수준의 쉬운 영어로 대답해줘”라고 기입하는 식이다. 이후에는 원하는 대로 상대방(챗GPT)의 목소리도 설정해 영어 회화를 이어나갈 수 있었다.&lt;br&gt;&lt;br&gt;학원이나 인터넷 강의에 비해 저렴한 가격도 챗GPT의 장점으로 꼽힌다. 서울 중구에 사는 직장인 남모(28)씨도 4개월 전부터 챗GPT를 통해 영어 회화 공부를 하는 중이다. 남씨는 “어색한 표현이나 틀린 문장을 바로 알려주는 방식으로 즉각적인 피드백이 되고, 난이도 조절도 가능한 게 챗GPT의 가장 큰 장점”이라며 “유료 버전을 사용하고 있음에도 가격이 한 달에 22달러(한국돈 약 3만원) 정도로 화상전화나 원어민 수업보다 훨씬 저렴해 매력적이다”라고 말했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DRPPSRNPYJDJDNDSCCH3HGUF6Y.png"&gt;&lt;figcaption&gt;&lt;small&gt;챗GPT로 영어 회화 공부를 어떻게 하는지 알려주는 유튜브 채널/유튜브 화면 캡처&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이 같은 챗GPT를 통한 영어 학습이 인기를 끌자 유튜브에서도 ‘챗GPT 활용 영어 공부법’ 등 관련 영상을 쉽게 찾아볼 수 있었다. 실제로 유튜브에는 챗GPT 설정방법이나 명령어 등을 알려주는 영상이 다수 있고, 특정 영상은 조회수 80만이 넘을 정도로 인기를 끌었다.&lt;br&gt;&lt;br&gt;챗GPT를 통한 영어 회화 학습에 대해 전문가들 사이에선 “챗GPT가 ‘관람하는 AI’를 넘어 ‘활용하는 AI’로 인식되는 상황이 된 것”이라는 분석이 나왔다. 박주형 경인교대 교육학과 교수는 “기존의 알파고 같은 AI와 달리 챗GPT는 ‘직접 써볼 수 있는 AI’라는 인식이 강하고, 젊은 세대는 트렌드에 뒤쳐지는 걸 싫어하다 보니 영어 학습에서조차 챗GPT를 활용하는 것”이라며 “인간의 욕구 중 하나가 스스로 공부하고 검증을 받아 개선해 나가는 학습 욕구인데, 이를 챗봇화된 챗GPT를 통해 충족하고 있는 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>여가부, “연휴 기간 여성긴급전화·청소년상담전화 정상 운영”</title>
+      <link>https://www.chosun.com/national/education/2025/01/27/4R47KOQ5VZHG7OOMNMTQM43BFA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/education/2025/01/27/4R47KOQ5VZHG7OOMNMTQM43BFA/</guid>
+      <dc:creator>김민기 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 27 Jan 2025 05:00:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7ZMN3RMAR5DENLRLAQAPDF77AQ.png"&gt;&lt;figcaption&gt;&lt;small&gt;/여성가족부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;여성가족부가 설 연휴 기간(1월 27~30일) 여성긴급전화 1366, 청소년상담 1388 등 상담·보호 서비스를 24시간 정상 운영한다고 밝혔다.&lt;br&gt;&lt;br&gt;가정폭력, 성폭력, 스토킹, 교제폭력 등으로 상담을 원하거나 구조가 필요한 경우 여성긴급전화 1366으로 연락하면 된다. 딥페이크 등 디지털 성범죄 피해상담은 디지털성범죄피해자지원센터로 연계해 상담, 삭제·법률 지원 등을 제공한다.&lt;br&gt;&lt;br&gt;가정 밖 청소년 보호를 위해 운영 중인 전국 137개 청소년쉼터도 연휴기간 의식주 및 의료 지원 등 서비스를 정상적으로 제공한다. 청소년상담 1388(전화·온라인)도 24시간 운영한다. 가족 갈등 등 가족 문제를 상담하는 가족상담전화(1577-4206), 다문화가족과 이주여성을 위한 다누리콜센터(1577-1366)도 평소처럼 서비스가 가능하다.&lt;br&gt;&lt;br&gt;12세 이하 아동이 있는 가정에 찾아가 자녀를 돌봐주는 ‘아이돌봄서비스’는 연휴 기간 평일요금(1시간 1만2180원)을 적용한다. 원래 공휴일의 경우 요금 50%가 가산되지만 이번 명절엔 평일 요금을 적용하기로 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>연휴 셋째 날 고속도로 서울→부산 7시간… 폭설로 정체 우려</title>
+      <link>https://www.chosun.com/national/national_general/2025/01/27/B2H2IOHYLBAVTL6EWTCQZYTRBA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/27/B2H2IOHYLBAVTL6EWTCQZYTRBA/</guid>
+      <dc:creator>고유찬 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 27 Jan 2025 04:11:50 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DWANT7POJJNDJHWMELFKONMPAQ.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;설 명절 연휴 사흘째이자 대설특보가 발효된 27일 서울 서초구 경부고속도로 잠원 IC 인근 하행선에 밀려드는 귀성 차량 등으로 거북이 걸음을 보이고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;설 연휴 셋째 날인 27일 중부 지방을 비롯한 전국 곳곳에 시간당 3∼5㎝의 많은 눈이 예보돼 곳곳에서 정체가 빚어지고 있다.&lt;br&gt;&lt;br&gt;한국도로공사에 따르면 이날 오후 1시 기준 승용차로 서울 요금소를 출발해 전국 주요 도시까지 걸리는 예상 시간은 부산 7시간, 울산 6시간 30분, 광주 6시간, 대구 6시간, 강릉 3시간 50분, 대전 4시간 10분이다.&lt;br&gt;&lt;br&gt;경부고속도로 부산 방향 천안 부근~청주 부근 35km, 중부선 남이 방향 대소분기점 부근~진천 부근 4km, 영동선 용인~양지터널 부근 6km 구간이 현재 정체 중이다.&lt;br&gt;&lt;br&gt;도로공사는 이날 수도권에서 지방으로 44만대, 지방에서 수도권으로 39만대가 각각 이동하는 등 전국에서 484만대가 움직일 것으로 예상했다.&lt;br&gt;&lt;br&gt;귀성 방향 정체는 오전 6∼7시쯤 시작해 오후 4∼5시쯤 극심하겠으며 다음 날 새벽 1∼2시쯤 해소될 것으로 보인다.&lt;br&gt;&lt;br&gt;도로공사는 “고속도로 운행 시 폭설로 인해 차량 미끄럼 사고가 우려되니 감속운행 등 안전운전에 각별히 유의해달라”고 당부했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>전광훈 연설 사진에 ‘OUT’ 표시한 교회… 전광훈 초상권 손배 패소</title>
+      <link>https://www.chosun.com/national/court_law/2025/01/27/SN74MWQJ5NHAFCUWFL6ALPPDEY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/01/27/SN74MWQJ5NHAFCUWFL6ALPPDEY/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 27 Jan 2025 03:56:47 +0000</pubDate>
+      <content:encoded>전광훈 사랑제일교회 목사가 자신의 사진과 ‘OUT’이라는 부정적 메시지를 넣은 다른 교회 현수막으로 초상권이 침해됐다며 해당 교회와 목사를 상대로 손해배상 소송을 냈지만, 최종 패소했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7MFPDII2MBQYYDNXWS3QH3ZLVM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 대법원 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;27일 법조계에 따르면, 대법원 2부(주심 권영준 대법관)는 지난 9일 전 목사가 빈들공동체교회와 목사 남모씨를 상대로 낸 손해배상 청구 소송 상고심에서 원고 패소로 판결한 원심 판결을 확정했다. 소액사건인 이번 사건은 상고 이유가 소액사건심판법상 사유에 해당하지 않는다는 이유로 상고 기각됐다.&lt;br&gt;&lt;br&gt;빈들공동체교회는 2022년 9월 교회 건물에 전 목사가 연설하는 얼굴 사진과 그 하단에 ‘OUT’이라는 문구가 기재된 강좌 홍보 현수막을 게시했다. 이에 전 목사는 교회와 남씨를 상대로 1000만원을 청구하는 소송을 냈다.&lt;br&gt;&lt;br&gt;1심은 초상권 침해를 인정해 이들에게 300만원의 배상 책임이 있다고 판결했다. 2심은 그러나 전 목사가 일반인에 비해 초상권이 좁게 보호되는 공적 인물로, 현수막 게시 또한 공적 관심사에 대한 의견 표명에 해당해 위법한 초상권 침해로 보기 어렵다고 판결했다. &lt;br&gt;&lt;br&gt;당시 2심은 “원고(전 목사)는 자유통일당 대표로서 공인이거나 이에 준하는 지위”라며 피고 측 행위는 종교적 비판으로서 헌법상 보장되는 종교적 표현에 해당한다고 봤다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>설 연휴 셋째 날, 폭설로 눈길 사고 잇따라...강원 원주서 11중 추돌</title>
+      <link>https://www.chosun.com/national/incident/2025/01/27/TMT3KZT33RCG7IDKMDT7IHHPZI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/01/27/TMT3KZT33RCG7IDKMDT7IHHPZI/</guid>
+      <dc:creator>김현수 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 27 Jan 2025 04:19:56 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RMV4V2DY5ADFHD45NUBJLOCS4I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;119 소방 로고. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;설 연휴 셋째 날인 27일 많은 눈이 내리면서 다중 추돌사고가 잇따랐다. &lt;br&gt;&lt;br&gt;경찰과 소방당국에 따르면 이날 오전 11시쯤 경북 상주시 화남면 당진영덕고속도로 청주 방향 47㎞ 지점에서 다중 추돌 사고가 발생했다. 이 사고로 운전자 등 5명이 다쳐 병원으로 옮겨졌다. &lt;br&gt;&lt;br&gt;사고 현장과 불과 1.5㎞ 떨어진 곳에서도 다중 추돌 사고가 발생했으나 부상자는 나오지 않았다.  경찰 관계자는 “두 사고 모두 차량 10여대가 눈길에 미끄러지며 추돌한 것으로 보인다”고 말했다.&lt;br&gt;&lt;br&gt;이어 오전 11시 20분쯤 강원 원주시 가현동 영동고속도로 강릉방면 원주IC 인근에서는 버스와 승용차가 부딪치는 등 11중 추돌사고가 났다. 이 사고로 승용차 운전자와 버스 승객 등 10여명이 다쳐 병원으로 옮겨졌다. 사고 수습으로 해당 구간 통행이 전면 차단돼 이 일대가 극심한 교통정체가 빚어지기도 했다.&lt;br&gt;&lt;br&gt;원주시는 재난 안전문자를 통해 “영동고속도로 강릉방향 원주 IC 2km 전방 교통사고로 통행이 차단돼 문막 IC에서 국도로 우회해 줄 것”을 당부했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>김용현 측, 문형배 헌재소장 대행 고발… “증언거부권 방해”</title>
+      <link>https://www.chosun.com/national/court_law/2025/01/27/OEFHNERELVACXLL5GCRLUHNHYU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/01/27/OEFHNERELVACXLL5GCRLUHNHYU/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 27 Jan 2025 03:18:15 +0000</pubDate>
+      <content:encoded>김용현 전 국방장관 변호인단이 문형배 헌법재판소장 대행을 직권남용 혐의로 서울중앙지검에 고발했다고 27일 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JNN46CAV7HQNTWBTHZ2NZEESRI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김용현 전 국방장관이 지난 23일 오후 서울 종로구 헌법재판소에서 열린 윤석열 대통령 탄핵심판 4차 변론에 증인으로 출석해 발언하고 있다./헌법재판소&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;변호인단은 “문 대행이 23일 헌재에서 증인으로 출석한 김 전 장관이 증언거부권을 행사하겠다고 하자 증언의 증명력을 낮게 평가하겠다고 재판상 불이익을 고지했다”며 “이는 재판상 불이익이라는 해악을 고지하고 헌법재판관으로서 직무권한을 남용해 증언거부권 행사를 방해한 것”이라고 주장했다. &lt;br&gt;&lt;br&gt;김 전 장관은 지난 23일 윤석열 대통령 탄핵심판 4차 변론 기일에 증인으로 나왔다. 이때 윤 대통령 측 증인신문에 응한 뒤 국회 측에서 반대신문을 하려고 하자 “증인 신문을 거부하고 싶다”고 말했다.&lt;br&gt;&lt;br&gt;당시 문 대행은 “본인이 하겠다면 할 수 없는데 그럴 경우 일반적으로 판사는 증인의 신빙성을 낮게 평가한다”고 말하고 약 5분간 휴정했다. 이후 “증인은 분명히 증언 거부권을 갖고 있고 청구인 측에도 신문권이 있다. 청구인 측은 신문권을 행사하고 증인은 그에 대해 듣고 거부권을 행사하면 된다”고 안내했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UJQFC77WNKKI26KHDZNFTMXRXQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;문형배 헌법재판소장 대행이 23일 서울 종로구 헌법재판소에서 열린 이진숙 방송통신위원회 위원장 탄핵심판사건 선고기일에 자리하고 있다. /뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김 전 장관은 윤 대통령 쪽에서 증인 신문에 응하는 게 좋을 것 같다고 설득하자 “그렇게 하겠다”며 태도를 바꿔 국회 측 반대신문에도 답변했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>서울 등 일부 지역 ‘황사 눈’ 내려</title>
       <link>https://www.chosun.com/national/2025/01/27/3OWGVBD2SBERFEE2WDGCVZSDME/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/2025/01/27/3OWGVBD2SBERFEE2WDGCVZSDME/</guid>
@@ -904,46 +958,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BNUUT4UROZBZPM2RFCKG36C6PQ.png"&gt;&lt;figcaption&gt;&lt;small&gt;/이상미 인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그룹 익스 출신 가수 이상미가 사구체종양 수술을 받았다고 밝혔다. 사구체종양은 모세혈관이 털처럼 뭉친 피부 아래 인접 부위의 혈관 덩어리에 양성 종양이 발생한 것으로, 겉으로 보이는 증상이 없고 잘 알려지지 않아 방치하는 경우가 많은 것으로 알려져 있다. &lt;br&gt;&lt;br&gt;이상미는 24일 인스타그램을 통해 “15년을 미뤄온 수술을 곧 한다”며 사구체종양 수술을 받는다고 밝혔다. &lt;br&gt;&lt;br&gt;이상미는 “15년 전부터 왼손 손끝이 스치기만 해도 아프고, 잘못 부딪히면 진짜 손이 잘려 나갈 것처럼 아팠다”며 “또 그때뿐이라 넘어가고 잊어버리고 그랬는데, 손톱 뿌리 쪽 밑에 종양이 있는 거였더라”고 했다. 그러면서 “교수님이 이렇게 오래 묵힌 환자는 처음 본다면서 종양이 너무 자랐다더라. 다행히 뼈 이식은 안 해도 될 것 같다고 기쁜 소식을 전해주셨다”고 했다.&lt;br&gt;&lt;br&gt;사구체종양은 모세혈관이 털뭉치처럼 얽혀 형성된 사구체에 양성 종양이 발생한 것이다. 사구체는 피부의 정상 조직으로 피부 아래 인접 부위에 위치하며 체온 조절을 돕는 기능을 하는 꼬인 형태의 혈관 덩어리인데, 이 사구체에 이상 비대가 생기면 사구체종양이 된다. 보통 5㎜~1㎝ 미만의 작은 자줏빛을 띠는 비정상적인 덩어리로, 겉으로 보이는 증상이 없는 데다 통증이 간헐적으로 발생해 병원에 갈 생각을 하지 못하는 경우가 많다. &lt;br&gt;&lt;br&gt;찬물에 손이 닿았을 때 찌릿한 통증이 생기거나, 겨울철에는 찬바람에도 통증을 느낄 수 있다. 사구체종을 오래 방치하면 통증으로 일상생활에 지장이 갈 수 있을 뿐만 아니라 손톱이 변색되거나 갈라지고, 손가락을 구성하는 뼈인 수지골의 함몰까지 발생할 수 있다. 사구체종은 크기가 작기 때문에 미세 현미경 등을 이용해 종양의 위치를 정확히 파악해 완벽하게 제거하는 수술을 해야 한다. &lt;br&gt;&lt;br&gt;이상미는 수술을 잘 마친 것으로 알려졌다. 그는 인스타그램을 통해 “진짜 아프다”면서도 “걱정과 응원 감사하다”고 했다. &lt;br&gt;&lt;br&gt;이상미는 경북대학교 재학 시절인 2005년 MBC 대학가요제에 밴드 익스 보컬로 참가해 ‘잘 부탁드립니다’로 대상을 받았다. 이후 가수 활동과 함께 방송에 출연해 왔다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>만취 상태로 승용차 운전한 20대, 공원으로 돌진… “하마터면”</title>
-      <link>https://www.chosun.com/national/2025/01/25/FP6XEXRVWJBZZIE42A6Y2NSGBI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2025/01/25/FP6XEXRVWJBZZIE42A6Y2NSGBI/</guid>
-      <dc:creator>권광순 기자</dc:creator>
-      <description/>
-      <pubDate>Sat, 25 Jan 2025 03:40:50 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FXCYUDOPAVGLVMNDJGBFGPS4WI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;25일 오전 부산 해운대구에서 20대 남성이 몰던 승용차가 공원 시설을 들이박았다. 운전자는 만취 상태인 것으로 조사됐다. /해운대경찰서&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산 해운대의 한 도로에서 만취 상태로 음주 운전을 하던 20대 남성이 공원 가로등을 들이박았다.&lt;br&gt;&lt;br&gt;부산 해운대경찰서는 25일 오전 7시 50분쯤 해운대구 우동의 한 도로에서 20대 남성이 몰던 승용차가 도로를 이탈, 공원 가로등을 들이박았다고 밝혔다.&lt;br&gt;&lt;br&gt;경찰에 따르면 해당 차량은 가로등을 박은 후 공원 화단을 침범하고서야 멈춰 섰다. 이 사고로 가로등 등 공원 시설이 파손됐다. 다행히 사고 당시 시민들이 없어 인명 피해는 발생하지 않았다고 한다.&lt;br&gt;&lt;br&gt;경찰조사 결과 이 남성의 혈중알콜농도는 0.099%로 면허취소 기준(0.08%) 이상인 것으로 확인됐다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “사고를 낸 남성은 조사가 불가능할 정도로 만취한 상태였다”며 “추후 운전자를 다시 불러 사고 경위 등을 조사할 것”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>김성훈 경호차장 측 “구속영장 재신청 위법, 기각해야”</title>
-      <link>https://www.chosun.com/national/incident/2025/01/25/HEI2TXDJ7FB3JIAUUQWWELSWAA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/01/25/HEI2TXDJ7FB3JIAUUQWWELSWAA/</guid>
-      <dc:creator>안준현 기자</dc:creator>
-      <description/>
-      <pubDate>Sat, 25 Jan 2025 03:10:39 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AZZDD52IQG5RXDCV6UKZBB2RNI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김성훈 대통령경호처 차장이 24일 오전 서울 서대문구 경찰청 국가수사본부 특별수사단에 출석하며 취재진 질문에 답변하고 있다. 특수단은 김 차장과 함께 이광우 경호본부장을 불러 특수공무집행방해 혐의를 조사한다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰이 윤석열 대통령 체포 영장 집행을 저지한 김성훈 대통령경호처 경호차장에게 두 번째 구속영장을 신청한데 대에 김 차장 측이 “별건 수사에 따른 위법한 재신청”이라고 했다. 지난 3일 윤 대통령의 체포 영장 집행을 저지한 혐의를 받는 김 차장에 대해 경찰은 지난 24일 두 번째 구속영장을 신청했다.&lt;br&gt;&lt;br&gt;25일 김 차장 변호인 측은 입장문을 내고 “경찰 조사에 따르면 영장 재신청 사유는 비화폰의 통신 기록을 삭제 지시해 증거를 인멸했다는 점과 대통령경호법상 직권남용을 인지했다는 것”이라고 했다.&lt;br&gt;&lt;br&gt;이어 “김 차장은 경찰 조사에서 ‘경호처의 비화폰 서버는 2일 마다 기록이 자동 삭제돼 삭제 지시를 할 이유가 없고, 오히려 데이터 훼손을 우려했기에 비화폰에 대한 강력한 보안조치를 취하지 못했다’고 답했다” 했다.&lt;br&gt;&lt;br&gt;경호처 직원 두 명에 대한 직무배제가 직권남용이라는 경찰의 추가 인지에 대해선 “경호처 인사조치에 직무배제라는 것은 없기에 직권남용은 성립될 수 없다”며 “두 명이 맡고 있던 경호업무에서 부적절한 행동이 있었기 때문에 업무를 하지 않도록 한 것이지, 인사조치로 불이익을 줬다는 것은 사실과 다르다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UTASSXTZGVDSFM7AF2JNFFP42E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령에 대한 체포영장 집행에 나선 고위공직자범죄수사처 수사관들이 2025년 1월 3일 서울 한남동 대통령 관저 입구에서 경호처와 대치중이다. /김지호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;법원이 24일 저녁 윤석열 대통령에 대한 검찰의 구속영장 연장 불허한데 대해서도 언급했다. 변호인 측은 “법원이 공수처법을 엄격 해석했기 때문”이라며 “이처럼 공수처법을 엄격 적용할 경우, 공수처에 내란죄 수사권이 없어 영장청구 자체가 위법이고, 위법 영장에 의한 대통령 체포 과정이 적법하지 않다는 법원 판단이 나올 수 있는 여지가 충분하다”고 했다. “이는 영장집행을 강행한 경찰과 공수처의 법적 책임 문제가 발생한다는 뜻”이라고도 했다.&lt;br&gt;&lt;br&gt;그러면서 “그렇다면 김성훈 경호차장과 이광우 경호본부장은 위법한 영장집행에 맞서 정당한 경호권을 발동해 업무를 한 것으로 특수공무집행방해가 성립할 수 없고, 오히려 경찰과 공수처가 경호처의 정장한 직무를 방해한 것으로 공무집행방해의 죄를 지게 된다”고 했다.&lt;br&gt;&lt;br&gt;앞서 서울중앙지법은 검찰의 윤 대통령 구속기간 연장 신청을 불허하면서 검찰청 소속 검사의 보완 수사권 유무나 범위에 관해 공수처법에 명시적인 규정이 없는 점 등을 판단 근거로 제시했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/AZZDD52IQG5RXDCV6UKZBB2RNI.jpg?width=1273&amp;height=861&amp;auth=f57c3724924fc0063f0670f073a68124f347ef03eac719300a7b265f6cc99f7e&amp;smart=true" type="image/jpeg" height="861" width="1273">
-        <media:description type="plain">김성훈 대통령경호처 차장이 24일 오전 서울 서대문구 경찰청 국가수사본부 특별수사단에 출석하며 취재진 질문에 답변하고 있다. 특수단은 김 차장과 함께 이광우 경호본부장을 불러 특수공무집행방해 혐의를 조사한다. /뉴스1</media:description>
-        <media:credit role="author" scheme="urn:ebu">뉴스1 ⓒ News1 장수영 기자</media:credit>
-      </media:content>
-    </item>
-    <item>
-      <title>주말까지 포근한 날씨...월요일부턴 기온 ‘뚝’</title>
-      <link>https://www.chosun.com/national/transport-environment/2025/01/25/WT3MZJJW55H6JKGW7KBBPG7ZKE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/01/25/WT3MZJJW55H6JKGW7KBBPG7ZKE/</guid>
-      <dc:creator>윤상진 기자</dc:creator>
-      <description/>
-      <pubDate>Sat, 25 Jan 2025 03:22:35 +0000</pubDate>
-      <content:encoded>26일 일요일에는 전국이 대체로 흐리지만 평년 기온을 웃도는 포근한 날씨가 이어지겠다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZKVHI7SM3BIZXND7SOZ23DWQ5Y.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;포근한 날씨를 보인 24일 오후 서울 광화문광장에서 한 어린이가 겉옷을 반쯤 벗은 채 걷고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;25일 기상청에 따르면, 26일 수도권과 충청권, 전라권에는 구름이 많겠으며 강원도와 경상권, 제주도는 대체로 흐리겠다. 새벽부터 아침 사이엔 강원 산지에, 밤부터는 경기 동부와 강원 내륙 지역에 0.1cm 미만 눈이 날리는 곳이 있겠다.&lt;br&gt;&lt;br&gt;26일 아침 최저 기온은 영하 6도~영하 5도, 낮 최고기온은 영상 5~11도로 예보됐다. &lt;br&gt;&lt;br&gt;낮 동안 기온이 오르면서 강이나 호수, 저수지, 하천의 얼음이 얇아져 깨질 수 있으니 안전사고에 유의해야 한다. &lt;br&gt;&lt;br&gt;주요 도시 예상 최저 기온은 서울 영하 1도, 인천 영하 1도, 대전 영하 2도, 대구 영하 1도, 광주 0도, 부산 영상 4도, 제주 영상 7도다. &lt;br&gt;&lt;br&gt;최고 기온은 서울 영상 7도, 인천 영상 6도, 대전 영상 8도, 대구 영상 9도, 광주 영상 8도, 부산 영상 11도, 제주 영상 10도로 예측됐다.&lt;br&gt;&lt;br&gt;미세먼지 농도는 전국이 ‘좋음’~‘보통’ 단계로 예보됐다.&lt;br&gt;&lt;br&gt;이번 설 연휴는 날씨 변화가 클 것으로 전망됐다. 주말인 25~26일은 전국이 대체로 맑고 포근하겠지만 월요일인 27일부터는 기온이 큰 폭으로 떨어지고 전국적으로 눈과 비가 내릴 것으로 기상청은 예보했다.&lt;br&gt;&lt;br&gt;기상청에 따르면 27일에는 전국이 흐리고 비 또는 눈이 내릴 예정이다. 아침 기온은 영하 2도∼영상 6도, 낮 기온은 영상 2∼9도로 예보됐다.&lt;br&gt;&lt;br&gt;화요일인 28일부터 30일까지는 추운 겨울 날씨가 이어지겠다. 아침 최저기온이 영하 10도까지 떨어지고 바람도 강하게 불어 체감 온도는 더욱 낮아질 전망이다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>강원 연휴 첫날 19㎝ 폭설… 고립·눈길 사고 잇따라</title>
-      <link>https://www.chosun.com/national/2025/01/25/EOMMGA6D3VDEXH6XGAWSFBROWY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2025/01/25/EOMMGA6D3VDEXH6XGAWSFBROWY/</guid>
-      <dc:creator>권광순 기자</dc:creator>
-      <description/>
-      <pubDate>Sat, 25 Jan 2025 03:06:51 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MJI3EYNQX5DMVIWSRT3R663DHM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;강원 평창군 대관령면 안반데기에 고립된 차량. /강원소방본부 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;연휴 첫날 강원 일대에 20cm에 가까운 폭설이 내리면서 고립과 눈길 사고가 잇따랐다.&lt;br&gt;&lt;br&gt;강원지방기상청에 따르면 24일 오후부터 25일 오전 7시까지 삼척 도계 19.1㎝, 강릉 성산 10㎝, 삽당령 9.4㎝의 눈이 쌓였다.&lt;br&gt;&lt;br&gt;밤사이 많은 눈이 한꺼번에 내리면서 사고도 잇따랐다. 25일 0시 35분쯤 평창군 대관령면 안반데기 정상 인근에서 폭설로 승용차가 고립되자 소방당국이 출동해 30대 운전자와 동승자 2명을 구조됐다.&lt;br&gt;&lt;br&gt;앞서 24일 오후 10시 30분쯤에는 삼척 동해고속도로 사직터널 인근에서 승용차가 가드레일을 들이받아 20대 운전자가 병원으로 이송돼 치료를 받고 있다.&lt;br&gt;&lt;br&gt;강원특별자치도는 24일 오후 6시부터 재난안전대책본부 1단계를 가동하고 폭설에 대비하고 있다. &lt;br&gt;&lt;br&gt;기상청은 강원남부·강원중부·강원북부 산지에 발령했던 대설주의보를 25일 오전 10시를 기해 해제했다. &lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>“시위대에 포위, 빨리 출동해달라” 서부지법 난동 신고 내역 보니</title>
       <link>https://www.chosun.com/national/incident/2025/01/25/Z7V57WR6MZH7XPCNFTEUEOYMLA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/01/25/Z7V57WR6MZH7XPCNFTEUEOYMLA/</guid>
@@ -975,15 +989,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5WU6FHTNQB2XGDDBAORSJ23F5U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;홍준표 대구시장. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;법원이 윤석열 대통령의 구속기간 연장을 불허한 것을 두고 홍준표 대구시장이 판사와 공수처, 검사를 모두 언급하며 “이재명 명 받들어 잽싸게 움직이더니 꼴좋다”고 비판했다.&lt;br&gt;&lt;br&gt;홍 시장은 24일 밤 자신의 페이스북에서 “판사는 무효인 영장을 발부하고 공수처 검사는 이 영장 들고 대통령을 강제구금하고 수사권도 없는 공수처가 아무런 수사도 하지 못하고 검찰에 송치했다”는 글을 올렸다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/L2G4UG563JAJDOXGJN5IM7MLNI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;홍준표 대구시장 페이스북 글 /페이스북 캡처.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그는 이어 “검찰은 관계법도 검토해보지 않고 구속 기간 연장 신청했다가 기각되고 조사도 없이 기소한다고 한다”며 “내란죄가 그렇게 가볍게 장난치듯 처리할 범죄던가”라고 물었다.&lt;br&gt;&lt;br&gt;그는 “애초에 내가 내란죄는 안 된다고 했는데, 이재명 더불어민주당 대표 명 받들어 잽싸게 움직이더니 꼴좋다”며 “그런 중죄를 다루는 공수처나 검찰이 하는 짓들 보니, 원래 공수처 폐지론자였던 내가 이제 검찰 수사권도 폐지하는 게 어떤지 하는 생각마저 든다”고 했다.&lt;br&gt;&lt;br&gt;앞서 서울중앙지법은 검찰이 전날 신청한 윤 대통령 구속기간 연장 신청을 불허했다. 공수처가 공소제기요구서를 붙여서 검찰에 넘긴 만큼 추가 수사를 위한 구속기간 연장은 불가하고, 기소 여부만을 판단해야 한다는 취지다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>尹측 “위법 수사 중단하고 대통령 즉각 석방하라”</title>
-      <link>https://www.chosun.com/national/court_law/2025/01/25/UTNGKXADCRCE7JVZHS474HVQLY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/01/25/UTNGKXADCRCE7JVZHS474HVQLY/</guid>
-      <dc:creator>유희곤 기자</dc:creator>
-      <description/>
-      <pubDate>Sat, 25 Jan 2025 00:40:01 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BTW5IAR7QZKDHABLGI67BC34DM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령이 지난 23일 서울 종로구 헌법재판소 대심판정에서 열린 탄핵심판 4차 변론기일에 출석해 있다./사진공동취재단&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 대통령 변호인단인 윤갑근 변호사는 25일 “검찰은 위법 수사를 중단하고 즉시 대통령을 석방하라”고 했다. 전날 서울중앙지법이 검찰의 윤 대통령 구속영장 기한 연장 신청을 받아들이지 않고, 검찰이 이날 새벽 재신청을 하자 이를 비판한 것이다.&lt;br&gt;&lt;br&gt;윤 변호사는 “문재인 정부에서 설립된 공수처는 제2의 검찰이 아닌 별도의 독립 기관”이라면서 “관련법상 공수처는 수사를 마치면 관계 서류와 증거물을 서울중앙지검에 송부해야 하고, 검찰청 검사는 공소 제기 여부만을 결정해야 한다”고 했다.&lt;br&gt;&lt;br&gt;윤 변호사는 공수처 사건을 넘겨받은 검찰은 공소 제기를 미루지 말고 즉시 결정하라는 게 공수처법 관련 조문의 취지인 만큼, 검찰이 추가 또는 보완 수사를 해서는 안 된다고 강조했다. 반면 검찰은 조희연, 김석준 전 교육감 사건 당시 검찰이 보완 수사를 했다고 주장하고 있다.&lt;br&gt;&lt;br&gt;이에 대해 윤 변호사는 “과거 사례야말로 검찰이 공수처법에 반해 수사권을 행사하고 법을 무시한 위법 사례”라면서 “조희연, 김석준 전 교육감은 모두 불구속 상태로 진행된 임의수사였던 만큼 법원과 피의자 측 모두 피의자의 인권 문제를 고민하지 못했던 것이고, 불법 선례가 있다고 법을 무력화해서는 안 된다”고 반박했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AC4AWF4HJRIGJFV2MT7BYI5YJI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령 측 법률대리인인 윤갑근 변호사가 23일 오후 서울 종로구 헌법재판소에서 열린 윤석열 대통령 탄핵심판 4차 변론기일에 참석하며 취재진의 질문에 답하고 있다./사진공동취재단&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤 변호사는 “검찰은 ‘의심스러울 때는 피고인의 이익으로’라는 형사법의 대원칙을 되살려 즉시 대통령에 대한 구속을 취소해야 한다”면서 “검찰이 윤 대통령의 구속영장을 재신청하겠다는 것은 공수처법의 문언에 정면으로 반하는 것이고, 그동안의 위법에 또 다른 위법을 얹겠다는 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>“5시간 전에 안 가면 비행기 못 타요” 난리난 인천공항</title>
       <link>https://www.chosun.com/national/national_general/2025/01/25/LOBLTFWIWBDOZM626ORENRQ2YU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/25/LOBLTFWIWBDOZM626ORENRQ2YU/</guid>
@@ -991,19 +996,6 @@
       <description/>
       <pubDate>Sat, 25 Jan 2025 00:37:21 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/K2RU2PDFOFFBHDWGHNOOBUTO34.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한 네티즌이 올린 25일 인천공항 출국장 모습. /스레드&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;설 연휴 인천국제공항을 통해 해외로 출국하려는 인파가 몰리면서 일부 시간대 혼잡이 극심한 것으로 알려졌다. 온라인상에는 혼잡한 공항 상황에 아슬아슬하게 여객기에 탑승했다는 글이 이어졌다. &lt;br&gt;&lt;br&gt;25일 오전 X와 스레드 등 소셜미디어에는 인천공항 출국장에 인파가 가득한 사진과 함께 실시간 상황을 알리는 글이 잇달아 올라왔다. 대부분 인파가 몰려 체크인부터 게이트에 도착하는 데까지 장시간이 소요된다는 내용이 담겼다. &lt;br&gt;&lt;br&gt;한 스레드 이용자는 “오늘 인천공항 새벽 5시에 도착했는데 3층 출국장 가는 도로가 그냥 주차장이었다”며 “결국 1층에 내려서 체크인하고 검색대 왔는데 여긴 더 어마어마하다”고 했다. &lt;br&gt;&lt;br&gt;또 다른 이용자는 “새벽 4시 도착했는데 지금까지 살면서 레전드 오브 레전드”라며 “발권 데스크 줄은 에스(S) 자로 대기할 정도로 길고, 입국 심사 줄은 사진보다 훨씬 길다”고 했다. 그러면서 “할머니가 계셔서 교통약자 패스로 들어왔는데 게이트 앞까지 총 3시간 넘게 걸렸다”고 했다. &lt;br&gt;&lt;br&gt;한 X 이용자는 “인천공항에서 아침 출국하려면 비행기 출발 시간 5시간 전에는 와야 한다”며 “3시간 정도 전에 오면 (비행기 탈 수 있게) 기도나 해야 한다”고 했다. &lt;br&gt;&lt;br&gt;이외에도 소셜미디어에는 “공항 새벽 오픈런 했는데도 대기 줄이 길다. 출국 3시간 전에 와도 빠듯하다” “출국보다도 수화물 줄이 더 길다” 등의 글이 잇달았다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SU522NCFOVFMVALIGKPOEN35TA.png"&gt;&lt;figcaption&gt;&lt;small&gt;/스레드&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;다만 이날 오전 일부 시간대를 제외하고는 수속이 원활하게 이뤄진 것으로 파악됐다. 인천공항 관계자는 “오전 7시 비행기 타시는 분들이 다소 밀리긴 했으나, 수속이 5시간씩이나 걸리진 않았다”며 “오전 10~11시 비행기 타시는 분들까지 지나치게 일찍오면 되레 병목 현상을 만들 수 있기 때문에, 적당히 여유롭게 공항에 도착하면 될 것으로 보인다”고 했다. &lt;br&gt;&lt;br&gt;인천국제공항공사에 따르면 이번 설 연휴 특별 교통대책 기간인 24일부터 내달 2일까지 10일간 총 214만 1101여 명, 일평균 기준 21만 4110여 명의 여객이 인천공항을 이용할 전망이다. 이는 전년 설 연휴 대비 12.8% 증가했고 2019년 대비 6% 증가한 수치다. 날짜별로는 25일 이용객이 22만7725명으로 가장 많고, 26일 22만7217명, 24일 22만4885명 등 순일 것으로 예측됐다.&lt;br&gt;&lt;br&gt;특히 같은 기간 국내에서 운영 중인 6곳의 국제공항에서 해외로 떠날 예정인 여객은 총 134만295명(출발 기준)인 것으로 집계됐다. 하루 평균 출발 승객은 13만4000명으로, 작년 설 연휴 일평균(11만7000명)보다 13.8% 증가할 전망이다. 2020∼2024년 총 10번의 명절 연휴 중 이번 설 연휴보다 일평균 승객이 더 많았던 때는 작년 추석(13만7000명)뿐이었다.&lt;br&gt;&lt;br&gt;이처럼 해외여행이 급증한 데는 오는 27일이 임시공휴일로 지정된 영향이 크다는 분석이 나온다. 31일까지 휴가를 내면 최장 9일의 황금연휴가 완성돼 장거리 해외여행까지 가능해졌기 때문이다. &lt;br&gt;&lt;br&gt;공항공사는 “다중 운집 상황을 철저히 관리하기 위해 전국공항 현장 근무 인원을 평시 대비 126명 증원해 추가 배치할 예정”이라고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘큰손’ 81세 장영자, 154억 위조수표 쓰다 또 철창행</title>
-      <link>https://www.chosun.com/national/regional/chungcheong/2025/01/25/MCZQP5DP2VCEBJVLGW47QUERCM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2025/01/25/MCZQP5DP2VCEBJVLGW47QUERCM/</guid>
-      <dc:creator>청주=신정훈 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 24 Jan 2025 16:26:18 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/V3FA6T74VZFL3DAB4UD3AXUMVQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;1980년대 6400억원 어음 사기 사건을 일으켜 ‘큰손’으로 불렸던 장영자씨. 2019년 모습이다. 최근 154억원대 위조수표 사건으로 다섯 번째 구속됐다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;1980년대 6400억원 어음 사기 사건으로 세상을 떠들썩하게 했던 ‘큰손’ 장영자(81)씨가 이번에는 위조수표를 쓰다가 출소한 지 3년 만에 또다시 구속됐다. 이번이 다섯 번째 구속이다.&lt;br&gt;&lt;br&gt;청주지법 형사항소3부(재판장 태지영)는 위조 유가증권 행사 혐의로 기소된 장씨에게 징역 1년을 선고하고 법정 구속했다고 24일 밝혔다. 대법원에서 이번 판결이 확정되면 장씨는 과거 수감 기간을 포함해 총 34년을 복역하게 된다.&lt;br&gt;&lt;br&gt;장씨는 2017년 7월 서울 서초구의 한 호텔에서 농산물 업체 대표 A씨와 고구마, 감자, 양파 등 농산물 납품 계약을 체결하고 선금으로 154억2000만원짜리 위조수표를 건넨 혐의로 재판에 넘겨졌다. 당시 장씨는 A씨로부터 이행 보증금 명목으로 3000만원을 챙겼다. 장씨는 A씨에게 “이제 나이가 들어 조용히 농산물 관련 일을 하면서 쉬고 싶다”고 말한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5IR6I4ZRT5AVDNG2F7MEHG526U.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=송윤혜&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;앞서 1심 재판부는 “위조수표인 줄 몰랐다”는 장씨의 주장을 받아들여 무죄를 선고했다. 1심 재판부는 “수개월 후에나 농산물을 납품받을 수 있는 계약에 선금으로 위조수표를 사용했고, 그 사이 위조수표라는 사실이 드러나 결국 아무런 이익을 보지 못했다”고 했다.&lt;br&gt;&lt;br&gt;그러나 2심은 장씨가 계약을 체결하면서 이행 보증금 3000만원을 챙긴 점, 과거와 범행 수법이 비슷하다는 점을 들어 유죄를 선고했다. 재판부는 “과거 피고인이 유죄를 받은 다른 사건 때 쓴 위조수표와 액면 금액이 154억2000만원으로 동일하고 수표의 일련번호도 연속된다”며 “범행 수법도 비슷해 장씨가 위조수표인지 몰랐을 리 없다”고 지적했다.&lt;br&gt;&lt;br&gt;그러면서 “피고인은 고액의 위조수표를 쓰는 범행을 저질렀는데도 납득하기 어려운 변명으로 일관하고 있어 엄벌이 불가피하다”고 했다. 다만 “피고인의 나이 등을 참작해 징역 1년을 선고한다”고 했다.&lt;br&gt;&lt;br&gt;전남 목포 출신인 장씨는 숙명여대를 졸업했다. 전두환 전 대통령의 처삼촌인 이규광씨의 처제였다. 당시 중앙정보부 차장이던 이철희씨와 결혼한 뒤 권력을 앞세워 사채시장에 뛰어들었다. 이후 자금난에 시달리던 기업에 돈을 빌려주고 고액의 어음을 받는 방법 등으로 6400억원대 어음 사기 사건을 일으켰고 1982년 구속됐다. 법원에서 징역 15년을 선고받았다. 이 사건은 당시 ‘단군 이래 최대 금융 사기 사건’으로 불렸다.&lt;br&gt;&lt;br&gt;1992년 가석방된 장씨는 출소 1년 10개월 만인 1994년 140억원 규모의 차용금 사기 사건으로 4년형을 선고받고 구속됐다.&lt;br&gt;&lt;br&gt;1998년 광복절 특사로 풀려난 장씨는 2000년 구권(舊券) 화폐 사기 사건으로 다시 구속돼 15년을 복역했다. 당시 시중은행장과 사채업자에게 접근해 “수천억원에 달하는 사회 고위층의 구권 화폐 비자금을 관리하고 있는데 선금을 주면 웃돈을 얹어 구권 화폐를 몰아 주겠다”며 190억원대 사기 행각을 벌였다.&lt;br&gt;&lt;br&gt;이후 2015년 출소한 지 7개월 만에 또다시 사기 사건에 연루됐다. “남편 명의의 삼성에버랜드 전환사채를 재단에 기증하려는데 비용이 필요하다”며 지인들로부터 약 6억원을 가로챈 혐의로 수감됐다. 2022년 출소했다.&lt;br&gt;&lt;br&gt;장씨는 이번 판결에 불복해 대법원에 상고했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/CW4EKARGABRYJIK6XCX5BAY2G4.jpg?width=2128&amp;height=1444&amp;auth=97b57d884bac50e166f42498047b5290218f88da73354373d108a84235cfd857&amp;smart=true" type="image/jpeg" height="1444" width="2128">
-        <media:description type="plain">장영자 씨.(자료사진)  2019.1.8/뉴스1 ⓒ News1 구윤성 기자</media:description>
-        <media:credit role="author" scheme="urn:ebu">뉴스1 ⓒ News1 구윤성 기자</media:credit>
-      </media:content>
     </item>
     <item>
       <title>전 부치던 며느리 집나갈라… 명절 대세 된 ‘차례상 대행’</title>
