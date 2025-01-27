@@ -13,6 +13,24 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>‘최연소 국회의원’ 류호정, 목수됐다…깜짝 근황 공개</title>
+      <link>https://www.chosun.com/national/national_general/2025/01/27/RUPUJN7XL5EPVKJFGKB7KTZDMM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/27/RUPUJN7XL5EPVKJFGKB7KTZDMM/</guid>
+      <dc:creator>김가연 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 27 Jan 2025 13:25:58 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KBLIQX5BKZB43PHLKNA52R7S6U.png"&gt;&lt;figcaption&gt;&lt;small&gt;류호정 전 의원. /인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;류호정 전 의원이 목수가 된 근황을 깜짝 공개했다.&lt;br&gt;&lt;br&gt;류 전 의원은 26일 자신의 인스타그램을 통해 자신의 근황을 담은 사진을 여러 장 공개했다.&lt;br&gt;&lt;br&gt;그는 “취업했다”라며 “작년엔 기술 배우러 목공 학원을 다녔다”고 밝혔다. 이어 “회사에서는 경력으로도 나이로도 막내 목수고 배울 게 많아서 퇴근 후에도 공부하고 있다”고 했다.&lt;br&gt;&lt;br&gt;류 전 의원은 “나무라는 소재는 자연 그 자체라 저는 휴식 공간에 목재가 많을 때 편안함을 느낀다. 요즘 현장을 따라다니며 인테리어와 원목의 결합으로 주거공간이 한층 더 편안하고 고급스러워지는 것을 보고 있다”고 말했다.&lt;br&gt;&lt;br&gt;그는 “틈틈이 뉴스도 보고 세상 돌아가는 일에 관심 가지며 바라보고 있습니다만, 이제 전직과 이직은 그만하고 열심히 살아보려 한다”고 했다. 그러면서 “다들 즐거운 설 연휴 보내시라”고 덧붙였다.&lt;br&gt;&lt;br&gt;한편 류 전 의원은 2020년 정의당 비례대표 1번으로 제21대 국회에 입성했다. 그는 당시 ‘최연소 의원’으로 이름을 알렸다. 이후 2024년 1월 정의당을 탈당하며 의원직을 내려놨고, 개혁신당으로 당적을 옮겨 22대 총선에서 성남갑 공천을 받았다. 그러나 “제3지대 정치는 실패했다”며 출마 포기를 선언했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘구속 기소’ 尹 대통령, 측근에 “각오하고 시작한 일”</title>
+      <link>https://www.chosun.com/national/court_law/2025/01/27/H4ABGQDVT5CW7FF5XRB7F5NAFI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/01/27/H4ABGQDVT5CW7FF5XRB7F5NAFI/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 27 Jan 2025 10:44:02 +0000</pubDate>
+      <content:encoded>지난 26일 구속 기소된 윤석열 대통령이 변호인단을 비롯한 측근들에게 “처음부터 각오하고 시작한 일”이었다며 “국민을 믿고 당당하게 대처하자”는 뜻을 밝힌 것으로 27일 전해졌다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ANWSWHD533FTXQTFRY4LCAPIC4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령이 23일 서울 종로구 헌법재판소에서 열린 탄핵심판 4차 변론에 출석하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 윤 대통령은 변호인단과의 접견에서 검찰이 자신을 구속 기소했다는 소식을 들은 뒤 이 같이 말한 것으로 전해졌다. 처음부터 나라를 바로잡기 위해 이 같은 상황을 각오하고 비상계엄을 선포했다는 취지다.&lt;br&gt;&lt;br&gt;윤 대통령은 체포 당시 고위공직자범죄수사처(공수처) 청사 인근에서 분신을 시도했다 숨진 50대 남성을 언급하면서 “침통한 마음이다. 가능하다면 변호인단이 유족을 챙기고 위로해달라”는 취지로도 말했다고 한다.&lt;br&gt;&lt;br&gt;서울구치소에 구속 수감된 윤 대통령은 설 연휴 기간 동안 탄핵 심판 변론 준비에 매진할 전망이다. 지난 21일 3차 변론 기일을 시작으로, 모든 헌재 변론 기일에 직접 출석하겠다는 의사를 밝힌 상태다.&lt;br&gt;&lt;br&gt;검찰의 기소로 윤 대통령은 피의자에서 피고인이 됐지만, 구치소 내에서의 신분은 미결수용자 그대로다. 현재 수용돼 있는 독방에서 머물게 된다. 교정당국은 올해 설 연휴 별도의 특식이나 특선영화를 준비하지는 않은 것으로 전해졌다. 이에 따라 윤 대통령은 평소 구치소 식단에 따라 식사를 하게 될 것으로 보인다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/E6QM65GRHN4LIRLW2WQ5PXPQ6Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 22일 윤석열 대통령이 수감 중인 경기도 의왕시 서울구치소 앞에서 경찰 병력이 근무하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;설 당일인 29일 아침 식단은 떡국·김자반·배추김치다. 점심에는 청국장·온두부·무생채·열무김치와 흑미밥이 나온다. 저녁 식단은 콩나물국·불고기·고추와 쌈장·배추김치다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>[속보] 성상납 의혹의 후지TV, 미나토 사장 사임 발표</title>
       <link>https://www.chosun.com/national/2025/01/27/I4TNYBFMCFGGVGSZWFU77IG3BA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/2025/01/27/I4TNYBFMCFGGVGSZWFU77IG3BA/</guid>
@@ -974,15 +992,6 @@
       </media:content>
     </item>
     <item>
-      <title>친구 딸 성폭행해 4세 지능 만든 50대…피해자 사망에도 ‘징역 8년’</title>
-      <link>https://www.chosun.com/national/national_general/2025/01/25/HVCKMSERCBFJVOKIJLKYP77OAM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/25/HVCKMSERCBFJVOKIJLKYP77OAM/</guid>
-      <dc:creator>이가영 기자</dc:creator>
-      <description/>
-      <pubDate>Sat, 25 Jan 2025 08:21:52 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Y24F75YNT5B25H3J434AMHZ2LQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;아버지 지인에게 성폭행 피해를 당하기 전 모습(왼쪽)과 피해 사실을 고백한 후 4살 지능으로 퇴행한 피해자의 모습. /SBS '그것이 알고싶다'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지인의 딸을 수차례 성폭행하고 그 충격으로 숨지게 해 재판에 넘겨진 50대 남성이 1심에서 징역 8년을 선고받았다.&lt;br&gt;&lt;br&gt;대전지법 논산지원 형사합의1부(재판장 이현우)는 22일 강간치상 등 혐의로 기소된 50대 A씨에게 징역 8년을 선고했다.&lt;br&gt;&lt;br&gt;A씨의 범행은 2021년 11월부터 시작됐다. 지인의 딸로, 6세 때부터 자신을 ‘삼촌’이라고 부르며 따르던 여성 B(당시 21)씨를 A씨는 자신의 사무실 등에서 여러 차례 성폭행했다. 믿었던 사람에게 성폭행당한 충격에 B씨의 정신 연령이 ‘만 4세’ 수준으로 돌아가는 인지능력 장애를 겪은 것으로 조사됐다.&lt;br&gt;&lt;br&gt;입원 치료를 받은 B씨는 부모의 보살핌을 받으며 서서히 일상을 되찾아갔다. 그러다 우연히 동네 마트에서 A씨를 마주쳤고, 힘들어하다가 두 달 뒤 스스로 목숨을 끊었다.&lt;br&gt;&lt;br&gt;A씨는 B씨가 사망하자 지역 동호회 등에 ‘합의로 성관계했고 피해자는 아버지의 폭행으로 사망했다’는 허위 사실을 퍼트려 사자명예훼손 및 명예훼손 혐의도 받았다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7CCV6U3XOXVBRLC5O74CAWWMO4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;인지능력이 '만 4세' 수준으로 떨어졌던 피해자(왼쪽)가 생전 남긴 진술서. /SBS '그것이 알고 싶다'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;B씨의 사망으로 피해자 진술을 확보하지 못해 어려움을 겪던 검찰은 피해자의 휴대전화 포렌식 조사를 통해 확보한 다이어리 내용과 피해자 차량 블랙박스 영상 등을 분석해 A씨의 범죄 혐의를 밝혀냈다. 검찰은 지난달 열린 결심공판에서 A씨에게 징역 25년을 구형했다.&lt;br&gt;&lt;br&gt;A씨는 최후 진술에서 “보험 고객을 잃을까 봐 걱정된다”며 선처를 호소한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;재판부는 주요 쟁점이 된 강제추행 여부를 비롯해 성폭행과 그 후 B씨의 정신질환 간의 인과관계 등 검찰의 공소사실 대부분을 유죄로 판단했다. 재판부는 “자기 잘못을 인정하지 않는 등 죄질이 매우 불량하다”며 “피해자가 결국 숨지는 등 피해 정도가 상당히 중하다”고 양형 이유를 밝혔다.&lt;br&gt;&lt;br&gt;성폭력특별법상 강간치상죄는 무기징역 혹은 5년 이상의 유기징역을 선고하게 되어 있다. 다만 대법원 양형 기준은 이보다 낮은 형량을 권고한다.&lt;br&gt;&lt;br&gt;대법원 양형 기준에 따르면 일반 강간치상죄는 최소 징역 4년, 최대 징역 7년을 선고하게 되어 있다. 여기에 ▲가학적 침해행위 ▲다수 피해자 대상 반복적 범행 ▲범행에 취약한 피해자 ▲피해자의 임신 ▲상습범 등에 해당하면 가중요소로 인정해 최대 징역 9년까지 선고할 수 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>“제주항공 사고 여객기, 양쪽 엔진서 ‘가창오리’ 흔적 발견”</title>
       <link>https://www.chosun.com/national/transport-environment/2025/01/25/HZOCS2C4HVFCNNYIJLHAZK67QA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/01/25/HZOCS2C4HVFCNNYIJLHAZK67QA/</guid>
@@ -1003,15 +1012,6 @@
         <media:description type="plain">19일 새벽 윤석열 대통령에 대한 구속영장이 발부되자 서울 서부지법에 지지자들이 진입해 난동을 부리고 있다. /뉴스1</media:description>
         <media:credit role="author" scheme="urn:ebu">뉴스1</media:credit>
       </media:content>
-    </item>
-    <item>
-      <title>“차가 덜컹덜컹 왜 이래?”… 이혼 소송 중 아내 차 앞바퀴 나사 뺀 남편</title>
-      <link>https://www.chosun.com/national/2025/01/25/2GZKG6XECBELNEB4LC6B4UK6HA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2025/01/25/2GZKG6XECBELNEB4LC6B4UK6HA/</guid>
-      <dc:creator>권광순 기자</dc:creator>
-      <description/>
-      <pubDate>Sat, 25 Jan 2025 02:08:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PN4HN7VCLRKSNGUJLM6DEV4IFY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대한민국 법원을 상징하는 로고. /News1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이혼 소송 중인 아내의 자동차 앞바퀴 나사를 풀어 아내를 다치게 하려 한 남편에게 법원이 징역형의 집행유예를 선고받았다.&lt;br&gt;&lt;br&gt;수원지법 형사15단독(부장판사 황운서)은 특수재물손괴, 특수상해미수 혐의로 기소된 50대 A씨에게 징역 2년에 집행유예 3년을 선고했다고 25일 밝혔다. 또 보호관찰과 사회봉사 160시간을 명령했다.&lt;br&gt;&lt;br&gt;재판부는 “피고인은 피해자와 불화로 범행을 저질러 조사를 받거나 처벌받은 전력이 여러 차례 있는데도 또 범행을 저질러 재범의 위험성이 있다”고 밝혔다.&lt;br&gt;&lt;br&gt;그러면서도 “다행히 운전 초기에 발각돼 교통사고가 발생하지 않은 점, 피고인이 피해자를 위해 200만 원을 공탁한 점 등을 고려했다”고 했다.&lt;br&gt;&lt;br&gt;A씨는 2023년 2월 새벽 시간대 아내 B씨가 소유한 자동차의 운전석 앞바퀴 휠 부분에 부착된 나사 3개를 풀고 B씨에게 상해를 가하려 했으나 미수에 그친 혐의다.&lt;br&gt;&lt;br&gt;B씨는 같은 날 승용차를 운전하다가 평소와 달리 차량 바퀴가 심하게 덜컹거리며 큰 소음이 나자 보험회사를 통해 차량을 견인 조치했다. A씨는 이혼 소송을 진행하면서 아내와 갈등이 깊어지자 앙심을 품고 범행한 것으로 파악됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>배는 누구에게 빌리며 폭풍이 오면 어떡하나</title>
