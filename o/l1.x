@@ -6,6 +6,16 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>서부지법, '尹 영장판사 탄핵집회 참석 주장' 신평 고발</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 500px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/205115.jpg" alt="AKR20250127035400004_01_i_P4_20250127160212925.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;《사진=연합뉴스》&lt;/figcaption&gt;   &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;서울서부지법은 27일 정보통신망법상 명예훼손 혐의로&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="3624"&gt;신평&lt;/span&gt;&amp;nbsp;변호사를 마포경찰서에 고발했다고 밝혔다.&lt;br /&gt;&lt;br /&gt;서부지법은 "피고발인은 페이스북에 게시글을 통해 피해 법관이 정치적으로 편향된 이념으로 인해 위법한 영장을 발부한 것처럼 공공연히 거짓을 드러내고 언론을 호도해 명예를 심각하게 해쳤다"고 고발 이유를 설명했다.&lt;br /&gt;&lt;br /&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="8480"&gt;윤석열&lt;/span&gt;&amp;nbsp;대통령 '멘토'로 꼽혔던 신 변호사는 지난 23일 페이스북에 올린 글에서 윤 대통령에 대한 구속영장을 발부한 차은경 서부지법 부장판사가 탄핵 찬성 집회에 참석했다고 주장했다.&lt;br /&gt;&lt;br /&gt;이와 관련 대법원도 "확인 결과 명백히 사실과 다르다"며 "차 부장판사는 탄핵 찬성 집회에 전혀 참석한 사실이 없다"고 반박한 바 있다.&lt;br /&gt;&lt;br /&gt;논란이 커지자 신 변호사는 "매일 탄핵 찬성 집회에 찬성했다는 부분은 차 판사와 동명이인이 한 일이라는 네티즌의 지적이 있어 글 내용에서 일단 뺀다"며 "만약 그 지적이 사실이라면 제 불찰을 사과한다"고 글을 수정했다.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;b&gt;홍준석 기자&amp;nbsp; honk0216@yna.co.kr&lt;br /&gt;연합뉴스&lt;/b&gt;</description>
+			<pubDate>Tue, 28 Jan 2025 03:29:55 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/205115</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/205115</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/205115.jpg</media:thumbnail>
+			<dc:creator>인터넷 기자</dc:creator>
+		</item>
+		<item>
 			<title>[판결] 코로나19 방역수칙 어기고 집회 주도…민주노총 양경수 위원장 징역형 집행유예 확정</title>
 			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/205104.jpg" alt="5646.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;양경수 민주노총 위원장 《사진=연합뉴스》&lt;/figcaption&gt;   &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;코로나19 방역수칙을 어기고 불법 도심 집회를 주도해 기소된 양경수 민주노총 위원장에게 징역형 집행유예가 확정됐다.&lt;p&gt;   &lt;br /&gt;대법원 형사1부(주심&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="3987"&gt;신숙희&amp;nbsp;&lt;/span&gt;대법관)는 집회 및 시위에 관한 법률 위반, 감염병의 예방 및 관리에 관한 법률 위반 등 혐의를 받는 양 위원장의 상고심(&lt;b&gt;2022도10376&lt;/b&gt;)에서 양 위원장 측의 상고를 기각하고 징역 1년에 집행유예 2년, 벌금 300만 원을 선고한 원심을 확정했다.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;[사실관계]&lt;/b&gt;&lt;br /&gt;양 위원장은 전국노동자대회를 포함해 2021년 5~7월 코로나19 방역지침을 위반한 불법집회를 다수 주도한 혐의를 받는다.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;[1심 및 항소심]&lt;/b&gt;&lt;br /&gt;1심은 "코로나19로 인해 국민 생활이 제약당할 때였던 만큼 감염병 확산 방지를 위한 지자체 방침에 응할 의무가 있었다"며 양 위원장에게 징역 1년에 집행유예 2년, 벌금 300만 원을 선고했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;항소심도 1심과 같은 형을 선고했다. 항소심은 "유례없는 감염병 확산으로 전 국민 활동이 제한당하고 있었고 수많은 의료진과 공무원이 감염병 예방을 위해 헌신적 노력을 기울이고 있는 상황임에도 피고인은 반복적으로 집회와 감염병 예방 관련 법률을 위반. 국민적 노력과 희생을 도외시한 죄책이 가볍지 않다"고 밝혔다. 다만 "노동자 단체 대표로서 노동자의 힘든 삶을 알리고 노동 조건 개선을 위해 집회를 개최한 점, 이 사건 집회로 방역에 중대한 피해를 줬다고 보기 어려운 점 등을 종합해 판단했다"고 설명했다.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;[대법원 판단]&lt;/b&gt;&lt;br /&gt;대법원도 항소심 판단에 문제가 없다고 보고 원심을 그대로 확정했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp; &lt;br /&gt;재판부는 "원심 판단에 죄형법정주의의 명확성 원칙, 포괄위임입법금지의 원칙, 법률유보원칙, 과잉금지원칙에 관한 법리를 오해한 잘못이 없다"고 판시했다.&lt;/p&gt;</description>
 			<pubDate>Tue, 28 Jan 2025 00:08:52 -0000</pubDate>
@@ -232,16 +242,6 @@
 			<link>https://www.lawtimes.co.kr/news/205105</link>
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/205105</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/205105.jpg</media:thumbnail>
-			<dc:creator>우빈 기자</dc:creator>
-		</item>
-		<item>
-			<title>검찰, 윤 대통령 구속 연장 신청…변호인단 "구속 취소해야"</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/205102.jpg" alt="4535.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: left; font-size:14px; line-height: 1.6em"&gt;23일 오후 서울 종로구 헌법재판소에서 열린 탄핵 심판 4차 변론에 윤석열 대통령과 윤 대통령 측 변호인단이 출석해 있다. 《사진=연합뉴스》&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;고위공직자범죄수사처로부터&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="8480"&gt;윤석열&lt;/span&gt;&amp;nbsp;대통령의 내란 우두머리 혐의 사건을 받은 검찰이 구속기한을 다음달 6일까지 늘려달라고 법원에 신청했다. &lt;br /&gt;&lt;br /&gt;검찰 비상계엄 특별수사본부(본부장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="1054"&gt;박세현&lt;/span&gt;&amp;nbsp;고검장)는 24일 "전날 서울중앙지법에 운 대통령에 대한 구속영장 연장 허가를 신청했다"며 "2월 6일까지 연장해달라는 취지"라고 밝혔다. &lt;br /&gt;&lt;br /&gt;윤 대통령 변호인단은 "대통령에 대한 구속을 유지하겠다는 것은 구속 기간 내 기소가 예정되었다는 것을 의미한다"며 "이는 검찰이 공수처의 위법 수사를 인정하겠다는 것으로 검찰이 공수처의 지게꾼 역할을 하겠다는 것과 다르지 않다"고 밝혔다. &lt;br /&gt;&lt;br /&gt;변호인단은 "검찰은 수사권 없는 공수처의 수사 결과를 무시하고 처음부터 다시 대통령에 대한 수사를 시작해야 한다"면서 "공수처의 위법 수사와 불법 체포로 인해 증거능력은 모두 상실되고 어떠한 수사 결과도 법적 정당성을 인정 받지 못할 것이기 때문"이라고 주장했다. &lt;br /&gt;&lt;br /&gt;또 "더욱이 검찰이 대통령에 대한 구속 상태를 유지하겠다는 것은 형사 재판 못지 않게 중요한 탄핵심판에서의 대통령의 방어권을 방해하는 것"이라며 "대통령 개인의 인권 문제를 넘어서 비상계엄 선포의 헌법적 의미에 대한 심리를 방해하는 국가적 문제"라고 주장했다. &lt;br /&gt;&lt;br /&gt;이어 "국회 소추인측이 내란죄를 소추사유에서 제외한 만큼 내란죄에 대한 형법적 판단 역시 신중에 신중을 거듭해야 한다"면서 "대통령의 헌법적 결단인 비상계엄 선포에 대한 심리를 거친 후 형사 재판을 진행하는 것이 올바른 순서"라고도 덧붙였다. &lt;br /&gt;&lt;br /&gt;또 앞서 검찰이 공수처의 이첩요청에 따라 윤 대통령 사건을 넘긴 것을 언급하면서 "공수처가 불법과 무도를 자행하게 만드는데 원인을 제공한 책임이 있다"며 "검찰은 즉시 대통령의 구속을 취소하고 탄핵심판을 지켜보며 신중하게 판단하라"고 말했다. &lt;br /&gt;&lt;br /&gt;서울중앙지법을 향해서도 "서울서부지법이 발부한 구속영장의 기간을 연장하는 신청을 허가해서는 안된다"고 밝혔다. &lt;/p&gt;</description>
-			<pubDate>Fri, 24 Jan 2025 10:48:26 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/205102</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/205102</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/205102.jpg</media:thumbnail>
 			<dc:creator>우빈 기자</dc:creator>
 		</item>
 	</channel>
