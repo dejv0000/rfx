@@ -13,6 +13,45 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>설 연휴엔 채·단·탄 순으로 ‘거꾸로 식사’를</title>
+      <link>https://www.chosun.com/national/welfare-medical/2025/01/28/3YCI5WDODRAAZBH6ZRCTCCAPKU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/01/28/3YCI5WDODRAAZBH6ZRCTCCAPKU/</guid>
+      <dc:creator>안준용 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 28 Jan 2025 05:00:44 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/63P4IDBFARPRBPY7VHC5QLBDMM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;설 연휴를 사흘 앞둔 22일 오후 인천 남동구 모래내시장에서 시민들이 장을 보고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;올해 설 연휴는 최장 9일이다. 연휴가 긴 만큼 고지방·고칼로리인 명절 음식의 유혹에 넘어갈 가능성도 크다. 아무 생각 없이 음식을 내어 먹다간 연휴 이후 첫 출근날 꽉 끼는 바지 때문에 당황할 수 있다. 이에 전문가들은 “설 연휴 중에는 데친 나물 등 채소 반찬을 먼저 먹고, 그다음 생선·고기-국-전-밥 순서로 먹는 ‘거꾸로 식사법’을 추천한다”고 말한다.&lt;br&gt;&lt;br&gt;‘거꾸로 식사법’이란 말 그대로 식사 순서를 뒤집는 것이다. ‘밥 한 번-반찬 한 번’ 먹는 일반 식사법은 무엇보다 비만·고혈당 주범인 탄수화물에 취약하다. 대신 ‘채소 반찬-비채소 반찬(생선·고기-국-전)-밥’ 순으로 먹으면 식사 초반부에 포만감을 높여 탄수화물 섭취를 줄이고 단백질, 섬유질 섭취를 늘릴 수 있다.&lt;br&gt;&lt;br&gt;채소를 먼저 먹고, 이어 단백질을 섭취한 뒤 마지막으로 탄수화물을 보충한다는 채·단·탄 원칙만 기억하면 된다. 데친 채소도 괜찮다. 채소를 살짝 데치면 비타민C 손실이 10~20% 정도 발생하지만, 채소 부피가 확 줄어서 채소를 먹는 절대량은 늘어난다. 다음은 단백질이다. 2016년 일본 간사이전력 의학연구소가 발표한 연구 결과에 따르면, 생선과 육류를 먼저 먹는 경우엔 쌀밥을 먼저 먹는 경우보다 혈당이 30~40% 낮게 나왔다.&lt;br&gt;&lt;br&gt;고기는 기름과 당분이 많아 소화가 잘 안 되는 갈비찜 등 대신 수육 같은 삶은 고기를 먹는 것이 좋다. 조리할 때 전 등은 기름에 튀기기보다 에어프라이어를 활용한다. 전을 부칠 때 부침가루 대신 통밀가루를 쓰고, 기름진 음식은 키친타올로 기름기를 한번 제거하는 방식도 전문가들이 추천한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/E36WZYWWZBPYPJSPRRNDX4BTEY.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;작년 2월 6일 대전 동구 정다운어르신복지관에서 열린 설 명절 나눔 행사에서 참가자들이 어르신에게 전달할 음식을 준비하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;식사 중에는 가족과 함께 즐거운 대화를 하며 천천히 먹는 것이 좋다. 오래 씹어야 하는 채소를 먼저 먹으면 식사 속도도 늦춰진다. 뇌의 포만 중추는 식사 시작 20분 후부터 배부름을 느낀다. 식사 후 20분이 지났을 때 식사량의 3분의 1 정도 남아 있으면 자연스럽게 과식을 막을 수 있다. 또 개인 접시에 덜어 먹으면 스스로 먹는 양을 한눈에 파악할 수도 있다.&lt;br&gt;&lt;br&gt;식사 시 음주는 피해야 한다. 술 자체가 고칼로리인데다 과음을 하면 위 점막이 자극돼 위염이나 역류성 식도염으로 이어질 수 있다. 식사 후에는 바로 눕거나 자면 안 된다. 소화를 위해 최소 30분~1시간은 가볍게 걷거나 활동하는 것이 좋다.&lt;br&gt;&lt;br&gt;후식은 피하는 것이 낫지만, 가족과 함께 둘러앉아 먹을 거라면 사과, 배, 귤 같은 과일을 조금만 먹는 것이 좋다. 약과나 식혜 등은 ‘요주의 디저트’다. 최근 서울아산병원이 공개한 ‘명절 기간 주의해야 할 고칼로리 음식 순위’에선 약과(100g당 420㎉)가 칼로리 1위를 기록하기도 했다.&lt;br&gt;&lt;br&gt;이 순위에서 2위는 떡갈비(350㎉), 3위는 소갈비찜(340㎉)이었다. 이어 4~6위는 꼬치전(320㎉), 잡채(310㎉), 동그랑땡(309㎉)이었다. 그다음으로 불고기(270㎉), 돼지갈비찜(250㎉), 떡만둣국(210㎉), 삼색 나물(142㎉)이 7~10위로 꼽혔다.&lt;br&gt;&lt;br&gt;아산병원은 “설 연휴 이후엔 바로 가벼운 운동을 시작하고, 한동안 저염식과 채소 위주 식단으로 몸을 회복시키는 것이 필요하다”고 했다. 연휴 기간 늘어난 몸무게는 가급적 연휴가 끝난 뒤 일주일 내에 빼는 것이 좋다. 단기간 갑자기 늘어난 몸무게는 보통 체내에 다당류의 일종인 ‘글리코겐’이 증가한 탓인데, 글리코겐이 지방으로 전환되고 나면 감량이 더 힘들어지기 때문이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“직진해라”...택시기사와 말다툼하고 경찰 때린 40대男 벌금형</title>
+      <link>https://www.chosun.com/national/court_law/2025/01/28/GJL474CH7BC5XF7ISIPIRYBUVY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/01/28/GJL474CH7BC5XF7ISIPIRYBUVY/</guid>
+      <dc:creator>박강현 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 28 Jan 2025 04:28:18 +0000</pubDate>
+      <content:encoded>목적지를 말하지 않아 시키는 대로 택시를 운행하던 택시기사에게 시비를 걸고 말다툼을 벌인 뒤 이를 말리는 경찰도 폭행한 40대 남성 승객이 벌금형을 선고 받았다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2JEGR345NBLMXOZJSZ22QTCWQQ.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;서울의 한 택시. 사진은 기사와 상관 없음. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지법 형사3단독 이종민 판사는 공무집행방해 혐의로 기소된 주방장 이모(44)씨에게 벌금 700만원을 선고했다고 28일 밝혔다.&lt;br&gt;&lt;br&gt;이씨는 지난해 8월 10일 자정쯤 서울 관악구 한 사거리 부근에서 택시에 탔다. 이씨는 정확한 목적지를 밝히지 않고 “직진해라” “좌회전해라” “유턴해라” 등과 같은 식으로 말했고, 기사는 이에 따라 택시를 몰았다.&lt;br&gt;&lt;br&gt;하지만 이씨는 운행 도중 갑자기 기사에게 “왜 여기로 가느냐”며 화를 내고 언성을 높였다. 기사는 ‘손님이 억지를 쓰고 소리를 치고 있다’며 경찰에 신고를 했다.&lt;br&gt;&lt;br&gt;흥분을 가라앉히지 못한 이씨는 경찰이 출동한 이후에도 계속 기사에게 욕하고 위협적인 태도를 보였다. 현장에 있던 인근 지구대 소속 순경이 이를 제지하려 하자 이씨는 순경을 수차례 강하게 밀치며 물리력을 행사했다.&lt;br&gt;&lt;br&gt;이 판사는 “이씨가 범행을 자백하고 있다”고 양형 이유를 설명했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>사기 도박하던 공범 속여 3억 가로챈 60대 실형</title>
+      <link>https://www.chosun.com/national/2025/01/28/ENOX6WZ4MNBWTPWMBXRZSKC5BM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2025/01/28/ENOX6WZ4MNBWTPWMBXRZSKC5BM/</guid>
+      <dc:creator>이승규 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 28 Jan 2025 04:27:55 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2FDWBJA7QI2QL5YB2KDNJOCDBY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;청주지법/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;함께 사기도박을 하던 지인을 속여 수억 원을 빼앗은 60대 남성에게 실형이 선고됐다.&lt;br&gt;&lt;br&gt;청주지법 형사5단독 정우혁 판사는 사기 등 혐의로 기소된 A(61)씨에게 징역 2년을 선고했다고 28일 밝혔다. A씨는 2020년 11월 17일~20일 사이 충북 진천 일대의 펜션에서 불법 도박을 하다 지인 B씨를 속여 3억 4000만원을 가로챈 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;A씨는 B씨에게 사전에 특수약품이 묻은 카드를 볼 수 있는 특수제작 콘택트 렌즈를 건넨 뒤 B씨가 거액을 걸도록 유도했다. ‘상대방의 패를 훤히 볼 수 있으니 도박에서 쉽게 이길 수 있다’는 취지로 B씨를 구슬린 것이다. 하지만 A씨는 사전에 또다른 공범들과 함께 미리 정해진 순서대로 카드가 나오도록 조작된 일명 ‘탄카드’를 이용해 B씨에게서 돈을 따냈다. B씨가 특수 카드를 볼 수 있든 없든 승부는 이미 결정돼 있었던 셈이다.&lt;br&gt;&lt;br&gt;이 같은 범행은 A씨를 도왔던 또다른 공범이 B씨에게 사실을 털어놓으면서 밝혀졌다.&lt;br&gt;&lt;br&gt;정 판사는 “A씨가 B씨를 속이는데 주도적인 역할을 했고 편취 금액이 크며 수사 중 도주하는 등 죄질이 나쁘다”면서도 “B씨 역시 타인을 속이는 도박에 참여했다가 사기를 당한 점 등을 고려해 형을 정했다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“내려가서 싸울 바엔…” 거짓말하며 귀성 안 하는 MZ들</title>
+      <link>https://www.chosun.com/national/national_general/2025/01/28/M5HFHNLSONHF3DA7RRUPHV3NNA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/28/M5HFHNLSONHF3DA7RRUPHV3NNA/</guid>
+      <dc:creator>안준현 기자, 안태민 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 28 Jan 2025 03:31:11 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XCXZDOQAXFDKTDQRX7GNF7SSJA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;24일 오후 서울역이 귀성길에 오른 시민들로 붐비고 있다. /박성원 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난해 12월 비상 계엄 사태와 대통령 탄핵으로 이어지는 혼란스러운 정국 상황은 설 또한 두 갈래로 갈라 놓았다. 조부모와 친척들이 모여 정치 얘기가 안 나올 수 없기 때문에, 거짓말을 하면서 까지 귀성길을 포기하는 MZ(20·30)세대까지 나왔다. &lt;br&gt;&lt;br&gt;온라인 조사업체 피앰아이가 올해 20~69세 남녀 3000명을 대상으로 설 연휴에 대한 여론조사를 진행한 결과, 응답자의 41.6%가 “집에서 쉴 예정”이라고 답했다. 고향(본가) 방문 예정은 35.3%에 불과했다. 특히 20대는 설 연휴 기간 “여행을 가겠다”는 비율이, 30대는 “연휴 기간에도 출근하거나 업무를 할 예정”이라고 답한 비율이 다른 연령대에 비해 높은 것으로 나타났다.&lt;br&gt;&lt;br&gt;이 같은 설문조사 결과와, 본지가 실제로 들어본 MZ세대들의 목소리도 비슷한 방향으로 흘러가고 있었다. 대구가 고향인 대학생 임재석(21)씨는 “설에 가족 만날 생각을 하니 벌써 머리가 지끈해졌다”며 “조부모님과 부모님은 보수고, 부산에 사는 삼촌 가족은 민주당 지지자라 설에 얼마나 고성이 나올지 모르겠다”고 했다. 그래서 임씨는 부모님께 “이번 설에 급하게 친구 아르바이트를 대신 서게 됐다”며 말했다고 한다. 임씨는 “부모님에게 한 소리 들었지만, 차라리 한 소리 듣고 설에 안 가는 게 나을 것 같다고 판단했다”며 “설 이후 계엄·탄핵 정국이 잠잠해지면 고향을 찾으려고 한다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OGPH42LWD5DFVEIARJGODK7O5E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;설 연휴 앞두고… 與는 서울역으로 - 설 연휴 시작을 앞둔 24일 여야는 귀성길에 오른 시민들에게 인사를 했다. 국민의힘 권영세 비상대책위원장과 권성동 원내대표 등 지도부가 서울역에서 인사를 하고 있다. /박성원 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 성북구에 거주하는 A(28)씨는 “과거의 가족처럼 유대감이 그리 깊지도 않는데, 만나기만 하면 서로 탄핵이 정당하네, 부당하네 싸운다”며 “조부모 두 분 다 돌아가신 후에는 차례도 형식적으로 된 지 오래라, 이번 명절에는 친척들 얼굴 안 보려고 가족들과 해외 여행을 가기로 했다”고 말했다.&lt;br&gt;&lt;br&gt;강원 춘천이 고향인 직장인 유승혜(31)씨는 “친척들에게 불가피하게 설 연휴 기간 당직을 서게 됐다고 거짓말했다”고 했고, 서울 구로구에 거주하는 정윤상(28)씨는 “기차와 버스 등 교통편을 구하지 못했다고 둘러대 고향인 전남 목포를 이번에 가지 않기로 했다”고 했다. 인천 부평에 거주하는 신모(27)씨는 “계엄 이후 친척들끼리 너무 싸워서 단체 카카오톡방을 만들어 대화도 시도해봤지만 결국 또 싸우기 일수였다”며 “서로 명절에 만나지 말자고 합의를 봤다. 가족들끼리 집에서 조촐히 음식이나 만들어 먹을 것”이라고 했다.&lt;br&gt;&lt;br&gt;이러한 MZ들의 ‘고향 안 찾기’ 현상에는 ‘설 밥상 민심’에 신경을 곤두세우는 정치권 동향과도 무관하지 않다는 분석이다. 여의도 정치권에는 ‘설 밥상 설(說)‘이 있다. ’설 밥상 자리에 나오는 여론’이 앞으로의 정국 행방을 좌우한다는 설이다. 이 때문에 설을 앞두고 여의도에서 나오는 많은 정치 어젠다가 부정적인 현상으로 이어졌다는 의미다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CYH57426IRPALMXQQKRIHMV3BY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;설 명절 연휴를 하루 앞둔 24일 오후 부산 동구 부산역에 일찍 귀성한 가족을 마중 나온 할아버지 할머니가 손녀를 반기며 걸어가고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그러나 이와 별개로 계엄 사태 이후 오히려 정치에 관심을 갖고, 친척들과 정치 얘기를 하려고 일부러 고향으로 내려간다는 이도 있었다. 경북이 고향이라는 20대 여성 최모(25)씨는 “계엄 이후 정치에 관심을 갖게 돼, 나와 생각이 다른 친척들과 정치 얘기를 나눠보고자 고향에 내려간다”며 “부정선거든 정당한 계엄이든 허심탄회하게 얘기를 나눠볼 생각”이라고 했다.&lt;br&gt;&lt;br&gt;전문가들은 “가족은 모든 사회의 시작”이라며 “가정 내에서 정치같은 불편한 얘기를 하면 그런 불만이 자라서 세대에 대한 반발심이 될 수 있다”고 지적했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/XCXZDOQAXFDKTDQRX7GNF7SSJA.jpg?width=6000&amp;height=3544&amp;auth=d2f8934a42b0670c3c4a3c8ed474bef5f8256fd25702d60269b382a5facaa7ae&amp;smart=true" type="image/jpeg" height="3544" width="6000">
+        <media:description type="plain">24일 오후 서울역이 귀성길에 오른 시민들로 붐비고 있다. /박성원 기자</media:description>
+      </media:content>
+    </item>
+    <item>
       <title>폭설에 파묻힌 연휴…하늘길 뱃길 끊기고, KTX 감속운행</title>
       <link>https://www.chosun.com/national/2025/01/28/5ILO6XVGUJCVXGPENPKNPMQ4UI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/2025/01/28/5ILO6XVGUJCVXGPENPKNPMQ4UI/</guid>
@@ -996,33 +1035,6 @@
       </media:content>
     </item>
     <item>
-      <title>월급 300만원 30세, 국민연금 얼마 받는지 봤더니...최소생활비의 59%</title>
-      <link>https://www.chosun.com/national/2025/01/26/UYIYDQ33OVFJ5ICIBQMPM4JX6I/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2025/01/26/UYIYDQ33OVFJ5ICIBQMPM4JX6I/</guid>
-      <dc:creator>조백건 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 26 Jan 2025 02:54:08 +0000</pubDate>
-      <content:encoded>올해 30세인 1995년생이 국민연금을 받을 나이(65세)가 되는 2065년 국민국민 수령액은 지금 가치로 80만원 수준이라는 정부 집계 결과가 나왔다. 이는 요즘 1인 노후 최소 생활비의 60%도 안 되는 수준이다.&lt;br&gt;&lt;br&gt;26일 국회 보건복지위원회 소속 더불어민주당 강선우 의원실이 보건복지부에서 받은 자료에 따르면 월급 300만원을 받는 1995년생이 26년간 국민연금 보험료를 납부하고 수급 개시연령인 65세가 되는 2060년에 받는 월 연급액은 304만원이다. 이는 현행 국민연금 제도인 보험료율 9%와 소득대체율 40%가 유지된다는 가정하에 복지부가 계산한 수치다. 이를 임금 상승률(3.77%)을 반영한 현재 가치로 환산하면 80만2000원이다. 국민연금연구원이 작년 12월 발표한 1인 기준 노후 최소생활비 136만1000원의 58.8% 수준이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/R6VX4VZLQZ2EPHUBCVJOKQZUJA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;국민연금 서울 종로중구지사의 모습/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;1995년이 75세인 2070년에 받을 월 연금액은 67만5000원, 85세인 2080년 56만9000원으로 감소한다.&lt;br&gt;&lt;br&gt;20세인 2005년생의 상황도 비슷하다. 월급 300만원을 받는 2005년생이 앞으로 27년간 국민연금에 가입해 65세가 되는 2070년에 받게 될 월 연금액은 현재 가치로 81만2000원이다. 75세에 68만3000원, 85세 57만5000원을 받는다. 1985년생(40세)은 65세가 되는 2050년에 월 79만4000원, 75세에 66만9000원, 85세 56만3000원을 받는다. 전문가들은 “국민연금이 노후소득보장 제도로서 역할을 하기 위해 최소생활비 수준은 돼야 한다”고 말한다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>尹 대통령 접견금지 해제…공수처, 검찰로 넘긴 후 취소</title>
-      <link>https://www.chosun.com/national/court_law/2025/01/26/TGKD5AUQENHWJDGY27F3TR766I/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/01/26/TGKD5AUQENHWJDGY27F3TR766I/</guid>
-      <dc:creator>이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 26 Jan 2025 02:20:51 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PTHBWY6W6KWAAMNAQWFOTY2ONI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울구치소에 수감된 윤석열 대통령의 접견 금지가 지난 24일 해제된 것으로 26일 확인됐다. 윤 대통령을 체포·구속한 고위공직자범죄수사처(공수처)가 윤 대통령 사건을 검찰로 송부하면서, 윤 대통령의 신병에 대한 권한도 검찰에 넘어갔기 때문이라고 한다.&lt;br&gt;&lt;br&gt;공수처는 이날 검찰에 윤 대통령 사건을 송부한 다음 날인 24일 윤 대통령이 수용된 서울구치소에 윤 대통령에 대한 접견금지 취소 결정문을 보냈다고 밝혔다.&lt;br&gt;&lt;br&gt;공수처는 사건을 검찰에 이첩한 만큼 인신에 대해 추가적인 조치를 하는 것이 불가능하다고 판단해 접견금지를 취소한 것으로 알려졌다. 이후 사건을 넘겨받은 검찰이 별도로 접견금지 조치를 다시 하지 않아 윤 대통령은 현재 변호인 외 접견이 가능해진 상태다. 다만 접견금지 해제가 지난 금요일에 이뤄졌고, 이후 주말을 포함해 오는 30일까지 설 연휴임을 고려할 때 윤 대통령이 실제로 가족 등을 접견하기는 어려울 것으로 전망된다. 윤 대통령 측은 “접견금지 해제 이후 윤 대통령이 가족과 접견한 적은 없다”고 밝혔다.&lt;br&gt;&lt;br&gt;형집행법 시행령에 따르면 수용자 접견은 공휴일을 제외한 일과시간에 이뤄져야 하며, 구치소장이 특별히 필요하다고 인정할 경우 접견 시간대 외에도 할 수 있다.&lt;br&gt;&lt;br&gt;앞서 공수처는 윤 대통령에 대한 구속영장을 발부받은 지난 19일 서울구치소 측에 피의자 접견 등 금지 결정서를 보냈다. 공수처는 가족 및 외부 인사들과의 접견을 막아 증거 인멸 우려를 차단하기 위한 조치라고 설명했다.&lt;br&gt;&lt;br&gt;검찰 사건사무규칙에 따라 피의자 접견 금지 결정은 기소와 동시에 효력이 상실된다. 다만 결정을 취소하는 것이 타당하다고 인정할 경우 접견금지 취소 결정서를 보내 취소할 수 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“동일인이면 75억 대박”…로또 수동 당첨 5장 한꺼번에 나온 명당</title>
-      <link>https://www.chosun.com/national/national_general/2025/01/26/Z7GOUWA75ZDQZJW3HS3KYPDNXI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/26/Z7GOUWA75ZDQZJW3HS3KYPDNXI/</guid>
-      <dc:creator>김자아 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 26 Jan 2025 02:48:25 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JOHHIXM4QJMO5NG5ZG6HKUWSKA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 노원구 한 로또판매점에 로또를 구매하려는 시민들이 길게 줄지어 서 있다. (기사 내용과는 관련 없음)./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;1156회 로또 1등 당첨 번호는 ‘30·31·34·39·41·45′로 결정됐다고 25일 로또복권 운영사 동행복권이 밝혔다. 보너스 번호는 ‘7′이다.&lt;br&gt;&lt;br&gt;당첨 번호 6개를 모두 맞힌 1등은 21명으로 이들은 각각 15억520만원씩 수령한다.&lt;br&gt;&lt;br&gt;당첨 번호 5개와 보너스 번호를 적중한 2등은 73명으로 각각 7216만원을, 5개 번호가 일치한 3등은 3494명으로 150만원을 받는다.&lt;br&gt;&lt;br&gt;당첨 번호 4개를 맞힌 4등(고정 당첨금 5만원)은 16만2883명, 당첨 번호 3개가 맞힌 5등(고정 당첨금 5000원)은 270만 6409명이다.&lt;br&gt;&lt;br&gt;1등 배출점은 자동 선택 11곳(반자동 1곳), 수동 10곳이다. &lt;br&gt;&lt;br&gt;자동 선택 11곳은 ▲행운의집(서울 강동구) ▲정원복권방(서울 도봉구) ▲대전우표사(대전 동구) ▲대박명당(울산 북구) ▲대박행진 복권랜드(경기 파주시) ▲로또명당인주점(충남 아산시) ▲행운복권(전남 무안군) ▲터미널(전남 진도군) ▲칠복복권방(경북 경주시·반자동) ▲수경볼트로또(경남 양산시) ▲이마트24 마산만복점(경남 창원시) 등이다.&lt;br&gt;&lt;br&gt;수동 선택 10곳은 ▲꾸미로또복권(서울 강북구) ▲영웅시대(부산 기장군) ▲중앙동역 나들가게24(부산 중구) ▲담꾹 구리수택점(경기 구리시) ▲행운을주는로또판매점(경기 안산시) ▲희망을주는사람(경기 용인시) 등이다. 서울 강북구 꾸미로또복권은 수동으로 1등 5명을 배출했다.&lt;br&gt;&lt;br&gt;당첨금 지급 기한은 지급 개시일로부터 1년(휴일인 경우 익영업일)이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>검찰총장, 전국 검사장 회의 주최... 尹대통령 사건 처리 논의</title>
       <link>https://www.chosun.com/national/court_law/2025/01/26/TI2U3CEBBRALJJTKJOEEHCPBRM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/01/26/TI2U3CEBBRALJJTKJOEEHCPBRM/</guid>
@@ -1034,15 +1046,6 @@
         <media:description type="plain">윤석열 대통령 photo 뉴시스</media:description>
         <media:credit role="author" scheme="urn:ebu">TAE HYEONG KIM</media:credit>
       </media:content>
-    </item>
-    <item>
-      <title>개혁신당 이준석계 지도부 ‘허은아 대표 퇴진’ 의결</title>
-      <link>https://www.chosun.com/national/2025/01/26/PABFMT32IBAJPLADSTYSZMV3AU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2025/01/26/PABFMT32IBAJPLADSTYSZMV3AU/</guid>
-      <dc:creator>이민석 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 26 Jan 2025 01:44:21 +0000</pubDate>
-      <content:encoded>‘친(親)이준석계’ 주도 개혁신당 지도부가 당원 투표를 통해 허은아 대표와 조대원 최고위원 퇴진을 결정했다. 허 대표는 당원소환 투표가 불법이라며 인정할 수 없다는 입장을 밝힌 상황이다. 허 대표는 법원에 당원소환 투표에 대한 효력정지 가처분도 신청했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MP3KBPBXUCN4UAPDAFDEB3WQ2Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;허은아 개혁신당 대표가 24일 오전 서울 여의도 국회에서 열린 최고위원회의에 참석해 머리를 쓸어올리고 있는 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;천하람 원내대표와 이주영 정책위의장 등 이준석계 지도부는 26일 국회에서 최고위원회의를 열고 24~25일 진행된 허 대표에 대한 당원소환 투표 결과를 발표하고, 허 대표의 대표직 상실을 의결했다고 밝혔다. 앞서 천 원내대표 등은 허 대표가 당직자 임명 과정에서 당헌·당규를 위반하고, 사무처에 부당한 지시를 했다며 당원소환 투표를 시행했다.&lt;br&gt;&lt;br&gt;허 대표 당원소환 투표에는 으뜸당원 2만1694명이 참여해 1만9943명(91.93%)이 찬성했고 1715명(8.07%)이 반대했다. 조 최고위원 투표에서는 2만140명(92.84%)이 찬성했다고 지도부는 밝혔다. 개혁신당 당헌·당규는 으뜸당원 3분의 1 이상의 투표 참여와 유효 투표의 과반수 찬성이면 당원소환을 확정한다고 규정하고 있다.&lt;br&gt;&lt;br&gt;천 원내대표는 “허은아, 조대원은 결과를 부정하기보다 당원들의 확실한 의사를 스스로 새기고, 성찰해야 한다. 대표로 선출된 적 있던 인물이라면 절차적 혼란 없이 정리에 협조하는 것이 도의일 것”이라고 했다.&lt;br&gt;&lt;br&gt;허 대표와 친이준석계 지도부 간 갈등은 지난달 16일 허 대표가 이 의원 측근으로 분류되는 김철근 사무총장을 경질하면서 수면 위로 올라왔다. 허 대표와 김 사무총장은 그간 당 운영방식 등을 놓고 갈등을 빚어왔다. 허 대표는 이 정책위의장과 김 총장을 경질하고 후임을 선임했지만, 당사자들은 이를 인정하지 않으며 직책을 유지 중이다.&lt;br&gt;&lt;br&gt;허 대표는 지난 24일 국회에서 기자들과 만나 당원소환 투표에 대해 “불법적으로 진행되는 것이다. 절차가 잘못됐다”고 했었다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>“이렇게 먹으면 칼로리 폭발”…설날 가장 살찌는 음식 1위는</title>
