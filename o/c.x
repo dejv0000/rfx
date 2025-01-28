@@ -13,6 +13,37 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>[속보] 소방당국 “김해공항서 에어부산 항공기 화재신고…출동 중”</title>
+      <link>https://www.chosun.com/national/national_general/2025/01/28/HHSKIH2VR5BZHJ6UBEGPNZW6DI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/28/HHSKIH2VR5BZHJ6UBEGPNZW6DI/</guid>
+      <dc:creator>박선민 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 28 Jan 2025 13:58:51 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AH5TAOY4VVLMVP2HE5T6MUK7KM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;YONHAP PHOTO-5095&gt; 김해공항서 에어부산 항공기 꼬리에 불…인명피해 없어&#13;
+    (서울=연합뉴스) 28일 오후 10시 30분께 김해공항에서 홍콩행 에어부산 항공기 꼬리 부분에서 불이 나 소방 당국이 진화 작업을 벌이고 있다. 승객 등 170여 명은 모두 비상탈출해 인명피해는 없는 것으로 알려졌다. 2025.1.28 [독자 제공. 재판매 및 DB 금지]&#13;
+    photo@yna.co.kr/2025-01-28 23:00:24/
+&lt;저작권자 ⓒ 1980-2025 ㈜연합뉴스. 무단 전재 재배포 금지, AI 학습 및 활용 금지&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김해공항에 있는 에어부산 항공기에서 불이 난 것으로 파악됐다. &lt;br&gt;&lt;br&gt;28일 부산소방본부에 따르면, 이날 오후 10시 30분쯤 김해공항 주기장에서 이륙을 준비하던 에어부산 항공기 꼬리 부분에서 화재가 발생했다. &lt;br&gt;&lt;br&gt;승객 169명이 슬라이드를 이용해 비상탈출했으며, 인명피해는 발생하지 않은 것으로 알려졌다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2RUQQ2F3M5CS5PCONTS57UH2AI.png"&gt;&lt;figcaption&gt;&lt;small&gt;김해공항 화재&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;소방당국은 대응 1단계를 발령하고 진화 작업에 나섰다. &lt;br&gt;&lt;br&gt;도시교통정보센터 등을 통해 확인할 수 있는 영상에는 김해공항에서 불길과 연기가 치솟는 모습이 담겼다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>내일도 폭설 최대 15㎝... 한파·강풍까지 몰아쳐 ‘극한 귀경길’</title>
+      <link>https://www.chosun.com/national/national_general/2025/01/28/3AWMIMAXQ5DDFOZSN2VVGTKWLU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/28/3AWMIMAXQ5DDFOZSN2VVGTKWLU/</guid>
+      <dc:creator>박선민 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 28 Jan 2025 12:14:31 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XOS5UVOLNVMTLBMCMGH3FLMCIQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;28일 대설 경보가 발효 중인 경기도 오산시 경부고속도로 오산IC 부근에서 차량이 서행하고 있다. /연합뉴스 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전국 곳곳에 폭설이 이어진 가운데, 설 당일인 29일에도 일부 지역에 최대 15㎝에 달하는 많은 눈이 내릴 전망이다. &lt;br&gt;&lt;br&gt;기상청에 따르면, 28일부터 이틀간 예상 적설량은 제주도 산지 5∼15㎝, 충청권, 광주·전남·전북 5∼10㎝, 제주도중산간 3∼8㎝, 경기남부, 강원 내륙 및 산지, 전남 동부 남해안, 경상권, 제주도 해안 1∼5㎝다. 특히 충남과 전북에서는 많으면 15㎝ 이상의 눈이 내릴 것으로 예보됐다. &lt;br&gt;&lt;br&gt;설 당일인 29일 아침 충청권과 전라권, 제주도에는 시간당 1∼3cm의 많은 눈이 내리는 곳이 있겠으니 안전사고를 조심해야 한다고 기상청은 밝혔다. &lt;br&gt;&lt;br&gt;이날 아침 최저기온은 영하13~영하1도로, 전국 대부분 지역에 바람이 순간풍속 시속 55㎞ 내외로 강하게 불어 체감 온도는 더욱 낮을 것으로 전망된다. 낮 최고기온은 영하5∼6도로 예보됐다. 미세먼지 농도는 원활한 대기 확산으로 전 권역이 ‘좋음’에서 ‘보통’ 수준을 보일 전망이다. &lt;br&gt;&lt;br&gt;중앙재난안전대책본부는 28일 오후 6시 기준 충청과 강원 등지에 내려졌던 대설 경보는 대부분 해제했으며, 전북에만 대설 경보를 유지하고 있다. 이날까지 20㎝ 이상의 적설량을 기록하던 경기도 일부 지역은 오후 6시 30분을 기점으로 대설 주의보가 해제된 상태다. 기상청은 경기 북부 지역과 서울, 인천은 29일 0시까지 0.1㎝의 눈이 날리는 곳이 있겠다고 예보했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Y6QR4Z7GX5S6ZYWA4MOTBNESME.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;설 연휴 기간 전국적인 폭설 및 한파로 인해 귀성·귀경 열차 운행이 차질을 빚고 있는 28일 오전 서울 중구 서울역 대합실 전광판에 열차 운행 지연 정보가 나타나고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;설을 하루 앞두고 폭설이 이어지면서, 항공기와 여객선 무더기 결항 사태가 빚어져 귀성객들의 발이 묶이기도 했다. 중앙재난안전대책본부에 따르면, 이날 오후 6시 기준 항공기 41편과 여객선 70개 항로·91척이 운항에 차질을 빚었다.&lt;br&gt;&lt;br&gt;일부 지역의 차량 운행이 통제되기도 했다. 제주 산간의 누적 적설량이 130㎝에 육박하면서, 산간 도로의 차량 운행은 전면 통제됐다. 전남 구례 노고단, 진도 두목재, 화순 돗재와 삭재, 목포 다부재 등 전남 고갯길 5개 구간의 차량 통행도 막혔다. 이밖에 충남 4곳 등 23곳에서 차량 운행이 중단됐다.&lt;br&gt;&lt;br&gt;눈길 사고도 속출했다. 이날 오전 11시 43분쯤 전북 김제시 금구면 호남고속도로 김제나들목 부근에서 관광버스가 화물차를 추돌해 버스 운전기사 등 6명이 다쳤다. 오후 12시 24분쯤엔 춘천시 동산면 원창리 금병산 등산로 입구 마을 도로를 제설작업 중이던 트랙터가 넘어지면서 운전자 한명이 허리를 다쳤고,오전 8시 39분쯤에는 충남 보령시 청소면 서해안고속도로에서 서울 방향으로 가던 고속버스가 갓길 보호벽을 들이받으면서 이를 뒤따르던 SUV 승용차가 추돌하는 2차 사고가 났다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/PHZVMUDWORDCZNM3FIIH6LJJ3E.gif?width=1024&amp;height=576&amp;auth=26427b1f0bdf84a3c3a826c528e7eb51670b616f2b6a5bb172469f65d0161a69&amp;smart=true" type="image/jpeg" height="576" width="1024"/>
+    </item>
+    <item>
+      <title>부산서 SUV 차량이 아파트 단지 내로 추락해 2명 부상</title>
+      <link>https://www.chosun.com/national/2025/01/28/AJS3LFPZGZFCDP7YQUT4M3EEWU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2025/01/28/AJS3LFPZGZFCDP7YQUT4M3EEWU/</guid>
+      <dc:creator>이승규 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 28 Jan 2025 10:57:33 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CJD3WB2B6BPFFHSRJSUUGG2TUY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;28일 부산 부산진구의 한 아파트 단지 사이 경사로를 내려오던 SUV 차량이 추락해 있다./부산경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산에서 경사로를 내려오던 스포츠유틸리티차량(SUV)이 옹벽 위 안전 펜스를 뚫고 아파트 복도 난간 쪽으로 추락했다.&lt;br&gt;&lt;br&gt;28일 부산경찰청 등에 따르면 이날 오전 11시 30분쯤 부산진구 개금동의 한 아파트 단지에서 SUV 차량이 아파트 단지 내 옹벽 위 안전 펜스를 뚫고 5m 아래 바닥으로 추락했다. SUV는 추락하면서 아파트 건물 2층과 3층 사이 복도 난간을 충돌했다.&lt;br&gt;&lt;br&gt;이 사고로 SUV 운전자인 A(64)씨와 동승자 등 2명이 다쳐 병원으로 이송됐으며, 생명에는 지장이 없는 것으로 파악됐다.&lt;br&gt;&lt;br&gt;사고 당시 A씨는 음주 상태는 아니었으며 내리막길에서 차량 브레이크가 작동하지 않았다고 주장한 것으로 알려졌다. 경찰은 정확한 사고 원인을 조사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>“들어와서 쉬다 가세요”…화재 현장서 소방관 위해 식당 열어준 주인 </title>
       <link>https://www.chosun.com/national/national_general/2025/01/28/B75JFQYQ5FAULE3X2JTOJRHXWM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/28/B75JFQYQ5FAULE3X2JTOJRHXWM/</guid>
@@ -991,33 +1022,6 @@
       <description/>
       <pubDate>Sun, 26 Jan 2025 08:49:36 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/T65G2VT3BDYICQOHEJIQAYTGSI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 19일 새벽 윤석열 대통령에 대한 구속영장이 발부되자 서울서부지법에 윤 대통령 지지자들이 난동을 부리자 경찰이 진압하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 19일 새벽 윤석열 대통령 구속에 반발하여 서울서부지법에 침입해 난동을 일으킨 피의자들 측 변호인단이 사태의 책임을 경찰의 ‘부실 대응’으로 돌렸다.&lt;br&gt;&lt;br&gt;난동 사태로 체포된 사람들의 변호인단은 입장문을 내고 “경찰의 무능과 중과실로 더 커진 서부지법 사태의 책임을 시민과 청년들에게만 지울 것은 아니다”라고 26일 밝혔다. 변호인단은 “일부 언론보도에 따르면 사태가 발생하기 9시간 전부터 그 전조를 알리는 신고가 경찰에 쇄도했지만 이호영 경찰청장 직무대행은 아무런 대처를 하지 않거나 오히려 경비인력을 줄였다”며 “이는 직무유기에 해당할 소지가 상당하다”고 주장했다.&lt;br&gt;&lt;br&gt;당시 서부지법에 난입해 난동을 부린 윤 대통령의 지지자들을 막느라 부상한 경찰이 속출했지만, ‘제대로 막지 않은 경찰이 사태를 유도한 것’ 아니냐며 경찰에 되려 책임을 돌린 것이다. 변호인단은 “(당시 경찰이) 길을 터주지 않았더라면 시민들과 청년들의 건물 진입 자체가 어려웠을 것”이라며 “무슨 이유에선지 출입문 앞에서 경찰들이 황급히 철수한 점도 납득하기 어렵다”고 했다. 그러면서 “이 대행은 잘못을 인정하고 막대한 피해를 본 법원 등에 사죄하는 심정으로 즉각 사퇴해야 한다”고 덧붙였다.&lt;br&gt;&lt;br&gt;폭력적인 집회를 막다 경찰관이 부상하는 상황이 지속되고 있다. 이번 서부지법 난동 사태로 발생한 경찰 부상자는 51명으로, 중상자 7명은 유리병에 맞아 머리·눈·이마 등이 찢어졌다. 지난 4일에는 민노총이 서울 용산구 한남동 대통령 관저 인근에서 차로를 점거한 채 경찰과 대치하던 중, 조합원 50대 A씨가 경비 경찰의 무전기를 빼앗아 머리를 향해 던져 경찰관 1명이 왼쪽 이마 부위에 열상 상해를 입었다.&lt;br&gt;&lt;br&gt;지난해 11월에는 민노총이 주최한 ‘전국 노동자 대회·1차 퇴진 총궐기 대회’에서 시위대와 경찰이 충돌, 경찰관 105명이 다쳤다. 이 중 3명은 골절상, 인대 파열 등 중상을 입었다. 2015년 11월에는 민노총 총궐기대회에서 시위대가 쇠파이프를 휘둘러 경찰관 113명이 부상하고, 경찰버스 50대가 파손된 바 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[단독] 현직 법원장 “공수처 ‘尹영장’ 발부한 법원 아무 책임 없나”</title>
-      <link>https://www.chosun.com/national/court_law/2025/01/23/KONBSCZGAFEGFMGHGEUJQABCGA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/01/23/KONBSCZGAFEGFMGHGEUJQABCGA/</guid>
-      <dc:creator>양은경 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 23 Jan 2025 02:04:01 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GTJ7SB2J5HTI4X24Y54WEMKWWE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원 로고/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;고위공직자 범죄수사처(공수처)가 윤석열 대통령에 대한 수사권이 있는지 여부에 대해 법원 내부게시판에서 문제제기가 있은 후 현직 법원장도 논의에 가세한 것으로 나타났다.&lt;br&gt;&lt;br&gt;임병렬(사법연수원 15기)청주지법원장은 20일 법원 내부게시판에 “언론에 의하면 공수처가 내란 사건을 검찰에 이첩하더라도 검찰이 내란죄에 대한 수사를 처음부더 다시 하겠다고 한다”며 “이것은 검찰에서는 공수처에게 내란죄 수사권이 없다는 것을 전제로 하는 것으로 생각된다”고 했다.&lt;br&gt;&lt;br&gt;임 법원장은 그러면서 “만약에 그런 일이 발생한다면 공수처에서 청구한 체포영장과 구속영장을 발부한 판사들은 아무 책임이 없는 것인가요”라고 했다.&lt;br&gt;&lt;br&gt;이 글은 앞서 지난 17일 백지예 대법원 재판연구관이 공수처의 대통령에 대한 수사권에 의문을 제기한 글에 댓글 형식으로 달린 것이다. 당시 백 연구관은 공수처가 윤 대통령을 수사한 죄명인 ‘직권남용죄’의 경우 헌법 84조에 따라 현직 대통령의 불소추특권이 적용되는 범죄이며 내란죄와의 관련성도 문제된다고 지적했다. 내란죄 수사권이 없는 공수처가 ‘직권남용의 관련 사건으로 내란죄를 수사할 수 있다’고 한 데 대해 법률적으로 문제를 제기한 것이다.&lt;br&gt;&lt;br&gt;공수처는 23일 윤 대통령에 대해 ‘공소제기요구처분’ 결정을 하며 사건을 검찰로 보냈다. 앞서 검찰과 공수처는 윤 대통령이 구속될 경우 구속기간 20일을 절반씩 나눠 조사하기로 협의했다. 그에 따르면 윤 대통령에 대한1차 구속기간 만료일은 28일이다.&lt;br&gt;&lt;br&gt;하지만 검찰 내부에서는 ‘사건을 빨리 가져와야 한다’는 의견이 높았고 그에 따라 공수처와 협의를 진행해 왔다. 공수처는 윤 대통령 구속 후 조사를 위해 20~22일 세 차례에 걸쳐 윤 대통령을 강제구인하려고 시도했지만 모두 실패했고 예정된 28일보다 일찍 검찰에 사건을 넘겼다.&lt;br&gt;&lt;br&gt;검찰이 사건을 넘겨받은 후 처음부터 다시 수사를 할 것인지는 확인되지 않았다. 다만 임 법원장의 글은 만일 그렇다면 검찰이 공수처에 내란죄 수사권이 없다는 것을 전제로 한 것이고 이 경우 윤 대통령에 대한 체포·구속영장을 발부한 법원의 책임도 문제될 수 있다는 것이다.&lt;br&gt;&lt;br&gt;이에 대해 성금석 부산지법 부장판사는 “사후에 그런 일이 생긴다면 사법부는 심각한 법적 책임에 직면하게 될 것”이라며 “2022년 검경수사권 조정, 공수처 권한 입법 과정과 그 내용, 결과물을 보면 한심하기 그지 없다”고 했다.&lt;br&gt;&lt;br&gt;그러면서 “선례가 전혀 없는 미증유의 영역이라 하급심에서 헛발질을 하다가는 큰일 치르게 된다. 제발 신중하게 재판업무 처리를 해야 한다”고 했다.&lt;br&gt;&lt;br&gt;위와 같은 논의에 대해 ‘수사나 재판 중인 사건의 쟁점에 대해서 논의하는 것은 이 게시판 취지에 맞지 않는 것 같다. 작성자나 관리자가 스스로 내려 달라’는 의견도 있었다. 그러나 성 부장판사는 “언론과 표현의 자유는 기본권 중의 기본권으로서 본인이 내리지 않는다면 그 누구도 직권삭제해서는 안 된다”고 했다.&lt;br&gt;&lt;br&gt;공수처가 검찰로 사건을 보냈지만 ‘수사권’ 논란이 사라진 것은 아니다. 수사 단계에서의 위법성 논란은 증거능력 여부에도 영향을 미칠 수 있다. ‘서울시 공무원 간첩조작’사건의 경우 2심 재판 중 국정원과 검찰이 내놓은 정보가 위조됐다는 사실이 밝혀졌고 법원은 검찰의 공소제기가 공소권 남용이라며 ‘공소 기각’ 판결을 했다.&lt;br&gt;&lt;br&gt;한 현직 판사는 “유우성 사건에서도 기소는 검찰이 했지만 국정원 조사 단계의 증거위조가 문제가 됐다”며 “이번 사건에서도 체포·구속영장을 청구해 발부받은 공수처의 수사권 여부는 여전히 쟁점이 될 수 있다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>치료도 안하고 의료급여 3억 타낸 치과의사 집유</title>
-      <link>https://www.chosun.com/national/2025/01/26/NDX7YANQ2BAAJNBSUGO4YLHZUY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2025/01/26/NDX7YANQ2BAAJNBSUGO4YLHZUY/</guid>
-      <dc:creator>이승규 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 26 Jan 2025 08:11:23 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Y6NWN2QCU7G4R3RMTDCPOPVYUY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대구고법, 지법 청사 전경/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서류를 조작해 의료 급여 3억여 원을 가로챈 치과의사에게 징역형이 선고됐다.&lt;br&gt;&lt;br&gt;대구지법 형사1단독(판사 박성인)은 사기 혐의로 기소된 A(70)씨에게 징역 10개월에 집행유예 2년을 선고헀다고 26일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 2017년 12월부터 2020년 11월까지 환자들이 치료받지 않은 내역을 거짓으로 써 넣거나 내원하지 않은 환자들을 치료한 것처럼 의료 급여 비용 명세서 등을 조작했다. 이후 이 서류들을 건강보험심사평가원에 제출해 대구시와 국민건강보험공단으로부터 요양·의료급여비용 3억 3000여만 원을 가로챈 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;재판부는 “A씨가 허위 문서로 가로챈 피해금액이 상당하나 피해 회복을 위해 노력 중인 점, 초범이며 A씨의 나이와 건강 상태 등을 종합했다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“5공 시절과 다를 바 없다”...홍준표, 尹 대통령 수사 비판</title>
-      <link>https://www.chosun.com/national/2025/01/26/Q5UGWMRW2ZEDTCZF5C3RFQU74I/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2025/01/26/Q5UGWMRW2ZEDTCZF5C3RFQU74I/</guid>
-      <dc:creator>이승규 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 26 Jan 2025 08:07:43 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/REAFV77XNSQ7IXCNFFUBSJDYNY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;홍준표 대구시장/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;홍준표 대구시장이 윤석열 대통령의 내란 우두머리 혐의 사건에 대한 수사와 관련해 “정치가 혼돈이더니 수사기관, 사법부까지 혼돈 상태”라고 주장했다.&lt;br&gt;&lt;br&gt;홍 시장은 26일 자신의 소셜미디어 페이스북 계정에 올린 글에서 “문재인 정부 때 수사권을 강제 조정하면서 소위 검수완박을 하는 바람에 내란죄 수사권은 경찰만 갖게 됐다”며 “이번에 수사권도 없는 검찰이 달려들어 선수치는바람에 검찰의 모든 수사서류는 휴지가 됐고, 공수처의 수사서류도 휴지가 됐다”고 했다. &lt;br&gt;&lt;br&gt;그러면서 “검찰이나 공수처가 갖는 수사 권한은 직권 남용죄 뿐인데 이를 근거로 내란죄를 수사한 것은 마치 5공 시절에 경범죄로 (사람을)구금하고 국가보안법 위반 혐의를 수사한 것과 다를 바 없다”고 주장했다.&lt;br&gt;&lt;br&gt;홍 시장은 “법을 집행하는 사람들이 법에도 없는 권한을 행사해서 대통령을 불법 체포, 구금하고 이제와서는 그 휴지조각을 근거로 기소도 한다고 한다”며 “일제시대 치안판사도 아닌데 불법 영장을 남발하고 순사도 아닌데 불법 체포, 구속을 남발한 사람들은 나중에 어떤 가혹한 책임을 지려는지 걱정이 크다”고 했다. &lt;br&gt;&lt;br&gt;그는 또 “유일하게 구속기간 연장 결정을 기각한 판사들만 적법절차대로 한다”며 “정치가 혼돈이더니 이제 수사기관, 사법부까지 혼돈 상태”라고 글을 맺었다.&lt;br&gt;&lt;br&gt;한편 이날 심우정 검찰총장은 전국 검사장 회의를 열어 윤 대통령에 대한 사건 처리 방향에 대한 회의를 가졌다. 검찰 비상계엄 특별수사본부를 지휘하고 있는 박세현 서울고검장은 “(심우정)총장님께서 (사건 처리에 대한)최종 결정을 하실 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>“체포 피하려 7층 갔을 뿐…판사실인지 몰랐다”</title>
