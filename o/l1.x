@@ -6,14 +6,14 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
-			<title>서부지법, '尹 영장판사 탄핵집회 참석 주장' 신평 고발</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 500px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/205115.jpg" alt="AKR20250127035400004_01_i_P4_20250127160212925.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;《사진=연합뉴스》&lt;/figcaption&gt;   &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;서울서부지법은 27일 정보통신망법상 명예훼손 혐의로&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="3624"&gt;신평&lt;/span&gt;&amp;nbsp;변호사를 마포경찰서에 고발했다고 밝혔다.&lt;br /&gt;&lt;br /&gt;서부지법은 "피고발인은 페이스북에 게시글을 통해 피해 법관이 정치적으로 편향된 이념으로 인해 위법한 영장을 발부한 것처럼 공공연히 거짓을 드러내고 언론을 호도해 명예를 심각하게 해쳤다"고 고발 이유를 설명했다.&lt;br /&gt;&lt;br /&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="8480"&gt;윤석열&lt;/span&gt;&amp;nbsp;대통령 '멘토'로 꼽혔던 신 변호사는 지난 23일 페이스북에 올린 글에서 윤 대통령에 대한 구속영장을 발부한 차은경 서부지법 부장판사가 탄핵 찬성 집회에 참석했다고 주장했다.&lt;br /&gt;&lt;br /&gt;이와 관련 대법원도 "확인 결과 명백히 사실과 다르다"며 "차 부장판사는 탄핵 찬성 집회에 전혀 참석한 사실이 없다"고 반박한 바 있다.&lt;br /&gt;&lt;br /&gt;논란이 커지자 신 변호사는 "매일 탄핵 찬성 집회에 찬성했다는 부분은 차 판사와 동명이인이 한 일이라는 네티즌의 지적이 있어 글 내용에서 일단 뺀다"며 "만약 그 지적이 사실이라면 제 불찰을 사과한다"고 글을 수정했다.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;b&gt;홍준석 기자&amp;nbsp; honk0216@yna.co.kr&lt;br /&gt;연합뉴스&lt;/b&gt;</description>
-			<pubDate>Tue, 28 Jan 2025 03:29:55 -0000</pubDate>
+			<title>서울서부지법, '尹 영장판사 탄핵집회 참석 주장' 신평 변호사 고발</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/205116.jpg" alt="435.jpg" /&gt;&lt;span style="font-size: 14px;"&gt;서울서부지법 《사진=연합뉴스》&lt;/span&gt;   &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;서울서부지법은 정보통신망법상 명예훼손 혐의로&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="3624"&gt;신평&amp;nbsp;&lt;/span&gt;변호사를 마포경찰서에 고발했다.&lt;br /&gt;&lt;br /&gt;서울서부지법은 27일 "피고발인은 페이스북에 게시글을 통해 피해 법관이 정치적으로 편향된 이념으로 인해 위법한 영장을 발부한 것처럼 공공연히 거짓을 드러내고 언론을 호도해 명예를 심각하게 해쳤다"고 고발 이유를 밝혔다.&lt;br /&gt;&lt;br /&gt;신 변호사는 23일 자신의 페이스북에서 윤 대통령에 대한 구속영장을 발부한&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="14"&gt;차은경&amp;nbsp;&lt;/span&gt;서부지법 부장판사가 탄핵 찬성 집회에 참석했다고 주장했다.&lt;br /&gt;&lt;br /&gt;같은 날 대법원도 "확인 결과 명백히 사실과 다르다"며 "차 부장판사는 탄핵 찬성 집회에 전혀 참석한 사실이 없다"는 입장을 밝힌 바 있다.&lt;br /&gt;&lt;br /&gt;논란이 일자 신 변호사는 "매일 탄핵 찬성 집회에 찬성했다는 부분은 차 판사와 동명이인이 한 일이라는 네티즌의 지적이 있어 글 내용에서 일단 뺀다"며 "만약 그 지적이 사실이라면 제 불찰을 사과한다"고 글에 덧하여 입장을 밝혔다.&lt;/p&gt;</description>
+			<pubDate>Tue, 28 Jan 2025 09:06:14 -0000</pubDate>
 			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/205115</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/205115</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/205115.jpg</media:thumbnail>
-			<dc:creator>인터넷 기자</dc:creator>
+			<link>https://www.lawtimes.co.kr/news/205116</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/205116</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/205116.jpg</media:thumbnail>
+			<dc:creator>박수연 기자</dc:creator>
 		</item>
 		<item>
 			<title>[판결] 코로나19 방역수칙 어기고 집회 주도…민주노총 양경수 위원장 징역형 집행유예 확정</title>
