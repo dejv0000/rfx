@@ -13,6 +13,25 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>“월 2000원 페루 요금제 쓰자” 유튜브 ‘디지털 이민’ 단속 피해 삼만리</title>
+      <link>https://www.chosun.com/national/national_general/2025/01/29/4A6U24BBQFCWJCO5IQ76E4R4BE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/29/4A6U24BBQFCWJCO5IQ76E4R4BE/</guid>
+      <dc:creator>강지은 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 28 Jan 2025 23:00:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QLY3IJ5APTIWJRLG2ZRQ6NX664.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;태블릿 화면에 표시된 유튜브 소셜 미디어 로고. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울에 사는 대학생 A(26)씨는 지난달부터 ‘페루’의 유튜브 서비스를 이용하고 있다. 2년간 매달 2500원을 내고 가족·친구 5명이서 ‘아르헨티나’의 서비스를 이용했는데, 지난 11월 유튜브 측으로부터 “현지에서 발급한 결제수단을 등록하지 않으면 멤버십이 갱신되지 않는다”는 메일을 받고는 가입 국가를 바꿨다. A씨는 “한국 요금제는 1명 이용하는 데 1만4900원이지만, 페루에는 가족요금제가 있어 약 1만2000원만 내면 최대 6명까지 사용할 수 있으니 이득”이라고 했다.&lt;br&gt;&lt;br&gt;유튜브가 타국의 요금제를 이용하는 사람들에 대한 제재를 강화하자 다양한 방법으로 단속망을 피하는 시민들이 늘고 있다. 그간 일부 소비자들은 가상 사설망(VPN)을 통해 요금제 가격이 저렴한 인도, 아르헨티나 등 국가로 우회 접속한 후 해당 국가의 요금제를 결제하는 방식으로 유튜브 서비스를 이용했다. 이러한 소비 행태는 ‘디지털 이민’ ‘디지털 망명’ 등으로 지칭된다. &lt;br&gt;&lt;br&gt;디지털 이민자들이 늘자 유튜브는 지난해부터 해당 국가에서 발급된 결제수단을 등록해야만 서비스 이용이 가능하게 하거나, 멤버십을 구매할 때 등록한 국가에서 6개월 이상 떠나 있으면 이용을 중단시키는 방법으로 단속을 강화했다. 소비자들은 제재의 손길이 닿지 않은 국가를 찾거나, 신용카드가 아닌 구글 ‘기프트카드’ 같은 새로운 결제수단을 사용하며 단속망을 피해가고 있다.&lt;br&gt;&lt;br&gt;유튜브가 우리나라에 공식적으로 제공하는 서비스를 사용하지 않는다는 점에서 ‘디지털 이민’은 편법이다. 하지만 경제 규모가 비슷한 국가에 비해 유난히 한국의 요금제가 비싼 게 근본적인 원인이라는 지적이 나온다. 지난해 열린 과학기술정보방송통신위원회 국정감사에서 “우리나라 유튜브 요금제의 가격 인상률이 가파르다” “일반 요금제 대비 60~70% 저렴한 가족 요금제와 40%가량 저렴한 학생요금제가 해외엔 있고 우리나라엔 없다”는 비판이 제기됐다. 당시 김경훈 구글코리아 사장은 “유튜브 본사에서 가격을 결정하는데, 경제소득이나 그간 국가별 인상률 등 여러 가지 요소들을 고려하고 있다”며 “요금제 추가를 위해 노력 중”이라고 했다.&lt;br&gt;&lt;br&gt;가족 요금제는 1명이 결제하면 초대를 통해 최대 6개 계정이 유튜브를 이용할 수 있는 서비스다. 일본(2280엔, 한화 약 2만1300원), 영국(11.99파운드, 한화 약 2만1900원), 독일(19.99유로, 한화 약 3만100원), 캐나다(22.99캐나다달러, 한화 약 2만3139원) 등에서도 가족 요금제가 출시됐다. 한국과 아이슬란드, 베네수엘라 등 일부 국가에는 출시되지 않았다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“기내선반서 ‘타닥타닥’ 후 연기” “대피 안내방송 없어 아수라장” </title>
+      <link>https://www.chosun.com/national/national_general/2025/01/29/VKPRCBK53RB45GXPHLNR4OBL7Y/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/29/VKPRCBK53RB45GXPHLNR4OBL7Y/</guid>
+      <dc:creator>김명진 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 28 Jan 2025 21:37:24 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AKZRSYSRDNIANIPXNN5A5PWVLI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;28일 오후 김해공항 계류장에서 승객 170명과 승무원 6명을 태우고 이륙을 준비하던 홍콩행 에어부산 항공기 ABL391편 꼬리 쪽 내부에서 불이 나 소방대원들이 진화 작업을 하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;28일 밤 김해국제공항에서 홍콩으로 출발 예정이던 에어부산 여객기에서 발생한 화재가 기내 수화물 선반에 둔 짐에서 시작됐다는 승객 증언이 나왔다. 불이 난 직후 항공사 측의 별도 안내가 없어 기내가 순간 아수라장이 됐다는 주장도 제기됐다.&lt;br&gt;&lt;br&gt;29일 연합뉴스에 따르면, 에어부산 항공기 뒤편 좌석에 앉은 한 승객은 “기내 수화물을 두는 선반 짐에서 ‘타닥타닥’ 소리가 난 후 조금 있다가 연기가 났다”고 매체에 전했다. ‘타닥타닥’ 소리의 정체에 대해서는 “보조배터리나 전자 기기 그런 게 아니었을까”라고 추측했다.&lt;br&gt;&lt;br&gt;이 승객은 이어 “승무원이 ‘앉아 있으라’ 하고서 소화기를 들고 왔는데 이미 연기가 자욱하고 선반에서 불똥이 막 떨어졌다”며 “연기가 차기 시작하니까 비상구 옆에 앉은 승객이 게이트를 열었고, 승무원이 반대편 게이트를 열어 승객들이 탈출하기 시작했다”고 했다. 그러면서 “상당히 혼란스럽고 무서웠다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/57RUPSNML5IFBIW4LDM64JE2IM.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;28일 김해국제공항에서 홍콩행 에어부산 항공기에서 화재가 발생해 소방당국이 진화작업을 벌이고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;연기가 난 선반 인근 좌석에 앉았다는 30대 부부는 “연기가 났을 때 승무원이 ‘고객님 안에 뭐 넣으셨어요?’라고 했는데 그러다가 갑자기 연기가 확 퍼졌다”고 말했다. 한 40대 승객은 “처음 봤을 때 불이 짐칸 선반 문 사이로 삐져나왔다”며 “불을 끄려고 문을 열려고 했는데 승무원이 열지 말라고 해서 하지 않았고 승객들이 소리를 지르면서 나가려고 뒤엉켰다”고 했다.&lt;br&gt;&lt;br&gt;항공기 앞쪽에 있었던 한 승객은 “승객들이 전부 착석하고 벨트까지 맨 후 뒤쪽에서 ‘불이야’하는 소리가 났다”며 “별도로 화재에 대한 안내 방송은 없었고 연기가 앞쪽까지 밀려왔다”고 말했다.&lt;br&gt;&lt;br&gt;항공사 측의 대처를 지적하는 승객도 있었다. 한 임신부 승객은 “세월호 사고나 이번 제주항공 사고도 있었는데 승무원들이 가만 앉아 있으라며 소화기를 뿌리려는 게 이해되지 않았다”며 “화재가 난 좌석 주변 승객을 나오라고 하지도 않았고 승무원이 ‘짐 놓고 나가라’는 말도 없어 자기 짐 챙기는 승객과 탈출하려는 승객으로 아수라장이었다”고 말했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/B4HSL7YMQVO4FKT5O3RBOF7XVE.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;28일 부산 강서구 대저동 김해공항에서 홍콩행 에어부산 항공기에서 화재가 발생한 가운데 사고 항공기에서 탈출한 승객들이 공항에서 대기하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;앞서 전날 오후 10시 15분쯤 김해공항에서 승객과 승무원 176명을 태운 에어부산 여객기에서 불이 났다. 승객과 승무원이 비상구 문을 열고 비상용 슬라이드를 이용해 모두 탈출해 인명피해는 발생하지 않았다. 다만 슬라이드를 타고 대피하는 과정에 승객 3명이 타박상 등 경상을 입어 근처 병원으로 옮겨져 치료받았다.&lt;br&gt;&lt;br&gt;소방 당국은 소방차 68대와 인력 138명을 투입해 진화 작업에 나섰다. 불은 이날 오후 11시 24분쯤 초진됐고, 화재가 발생한 지 1시간 16분 만인 11시 31분쯤 항공기 대부분을 태운 뒤 완전히 꺼졌다. 소방 당국은 불이 항공기 꼬리 부분에서 발화해 날개 부분으로 번진 것으로 추정, 정확한 화재 원인은 조사 중이라고 밝혔다. 국토교통부는 사고수습본부를 구성하고, 항공 사고 조사관 3명을 김해공항으로 급파해 화재 사고 조사에 착수했다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/EBOLGQ2YLVEH7DM46AWLFG25L4.gif?width=500&amp;height=282&amp;auth=0cc5bbdab1d0f542be50be56eaf83a31f7277135586411bb414adf05fa5ecb62&amp;smart=true" type="image/jpeg" height="282" width="500"/>
+    </item>
+    <item>
       <title>“내 심장은 한국 심장, 내 두뇌는 미국의 합리적인 두뇌” </title>
       <link>https://www.chosun.com/national/2025/01/29/V2EUTNREMRAXHGWD4DYURWBE7I/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/2025/01/29/V2EUTNREMRAXHGWD4DYURWBE7I/</guid>
@@ -971,15 +990,6 @@
       <media:content url="https://www.chosun.com/resizer/v2/4MTFRYWHBJA7XOKKF7G7JPLX5U.png?width=800&amp;height=420&amp;auth=4651b5b20b5d4901424204d1456faee02e4b064ff509db23945deabf4404c8ef&amp;smart=true" type="image/png" height="420" width="800"/>
     </item>
     <item>
-      <title>지난해 명절 기차 ‘노쇼’ 44만석… 재판매도 못하고 좌석 비워 운행</title>
-      <link>https://www.chosun.com/national/national_general/2025/01/26/MJYSS6KPZNBNRAHRKLC3TLAVBY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/26/MJYSS6KPZNBNRAHRKLC3TLAVBY/</guid>
-      <dc:creator>이혜진 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 26 Jan 2025 14:53:44 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6NP6AYEEX6LV46MZKOZR7VTD6A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;설 명절을 앞둔 24일 오전 서울 용산역에서 귀성객들이 목포행 KTX 열차를 타고 있다. /뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난해 설과 추석 명절 기간 중 ‘노쇼(예약부도)’ 기차표가 44만장에 달했다.&lt;br&gt;&lt;br&gt;26일 국회 국토교통위원회 소속 김희정 의원이 한국철도공사(코레일)로부터 제출받은 자료에 따르면, 지난해 설과 추석 기간 예약 후 출발 직전 취소되거나 출발 후 반환된 미탑승 기차표가 44만895장으로 나타났다. 이는 재판매가 불가능해 빈 좌석으로 운행된 것이다. 열차 종류별로 살펴보면 KTX가 33만9381장으로 가장 많았다. 무궁화호는 6만4382장, 새마을호는 3만7132장을 기록했다. 전체 노쇼 기차표의 77%가 KTX에서 발생했다.&lt;br&gt;&lt;br&gt;명절 기간 노쇼 기차표는 최근 몇년새 꾸준히 증가했다. 2021년 12만5045장, 2022년 26만6555장으로 늘었다. 2023년에는 45만4348장을 기록하며 처음으로 40만장을 넘어섰다. &lt;br&gt;&lt;br&gt;코레일은 이러한 노쇼 문제에 대응하기 위해 이달 24일부터 내달 2일까지 환불 위약금을 2배로 높였다. 기존에는 열차 출발 후 20분 이내 취소 시 운임의 15%를 위약금으로 부과했으나 해당 기간에는 30%로 상향 조정했다. 김 의원은 “노쇼는 필요한 사람들이 열차를 이용하지 못하게 만드는 심각한 문제”라며 “단순히 위약금을 상향하는 데 그치지 말고 수요에 맞는 열차 증편 등 체계적인 승차권 관리 방안을 수립해야 한다”고 했다.&lt;br&gt;&lt;br&gt;앞서 지난 6년간 명절 연휴 동안 운행된 열차 승차권의 40%가 예약 취소됐다는 통계도 있다. 지난해 9월 코레일에 따르면, 2019년부터 지난해까지 명절 연휴 기간 발권된 KTX, 새마을호, 무궁화호 등의 기차표는 총 3648만 2000여 장으로 집계됐다. 이 중 40.96%에 해당하는 1494만3000여 장은 예매자가 취소해 코레일에 반환된 것으로 나타났다. 코레일에 따르면 취소·반환된 기차표는 재판매 과정을 거치지만, 열차 출발 이후 취소·반환된 표는 재판매조차 되지 못하고 불용 처리돼 빈 좌석으로 운행하게 된다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>달라진 트럼프...관세 폭탄, 불법 입국 대거 추방 왜 하지 않나?[송의달 LIVE]</title>
       <link>https://www.chosun.com/international/2025/01/26/6NJLXLFFPRHINCDTANMT75ONXM/</link>
       <guid isPermaLink="true">https://www.chosun.com/international/2025/01/26/6NJLXLFFPRHINCDTANMT75ONXM/</guid>
@@ -1030,19 +1040,6 @@
       <media:content url="https://www.chosun.com/resizer/v2/4CE6EKS6BRDZLBQMGY7GH2IKFY.JPG?width=4007&amp;height=2254&amp;auth=b2b657a3b91297051a3b14ebf61828287dc573ff04ca6d4f087ce533a3b919c3&amp;smart=true" type="image/jpeg" height="2254" width="4007">
         <media:description type="plain">윤석열 대통령이 23일 오후 서울 종로구 헌법재판소에서 열린 탄핵심판 4차 변론기일에 출석해 있다. 2025.1.23/뉴스1 ⓒ News1 사진공동취재단</media:description>
         <media:credit role="author" scheme="urn:ebu">뉴스1 ⓒ News1 사진공동취재단</media:credit>
-      </media:content>
-    </item>
-    <item>
-      <title>“체포 피하려 7층 갔을 뿐…판사실인지 몰랐다”</title>
-      <link>https://www.chosun.com/national/incident/2025/01/26/WQGHEF3NHBBFRIXQTMDNR3ZG6Y/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/01/26/WQGHEF3NHBBFRIXQTMDNR3ZG6Y/</guid>
-      <dc:creator>안준현 기자, 조민희 기자, 현정민 기자 now@chosunbiz.com, 서일원 기자 112@chosunbiz.com</dc:creator>
-      <description/>
-      <pubDate>Sun, 26 Jan 2025 07:12:47 +0000</pubDate>
-      <content:encoded>법원의 윤석열 대통령 구속영장에 반발, 서울 마포구 서울서부지법에 난입한 피의자들 대다수가 “경찰 체포를 피해 7층으로 향했을 뿐, 그곳에 판사실이 있는 줄은 몰랐다”고 주장하는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6B7QWFUL4ZLJVKVIMQTEBKSBVA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울서부지방법원 폭력 집단난동 사태 당시 판사실에 침입한 40대 남성 이모씨가 23일 오후 서울 마포구 서울서부지법에서 열린 구속 전 피의자 심문(영장실질심사)에 출석하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 지난 19일 새벽 법원이 윤석열 대통령에 대한 구속영장을 발부하자 법원 건물로 들어간 뒤 7층으로 올라간 이들 대다수가 이같이 경찰에 진술하고 있는 것으로 확인됐다. 지난 18일부터 이틀간 법원에서 난동을 부린 혐의로 구속영장이 신청된 피의자 66명 대다수가 내란 중요 임무 종사 혐의로 구속 기소된 김용현 국방장관 변호인단의 변호를 받고 있다고 한다.&lt;br&gt;&lt;br&gt;지난 19일 새벽 윤석열 대통령에 대한 구속영장이 발부되자 서울서부지법 앞에 있던 시위대는 격분한 상태로 경비가 허술했던 법원 후문 쪽으로 몰려들어갔다. 경찰 조사 결과 이 과정에서 선두에 선 이들이 “밀어버리자”며 시위대를 선동하면서 법원 내부로의 침입을 유도했고, 이어 깨진 유리창 등을 통해 시위대가 법원 건물로 들어간 것으로 알려졌다. &lt;br&gt;&lt;br&gt;또 법원 내부로 들어간 이들은 윤 대통령에 대한 구속영장을 발부한 차은경 판사를 찾아내겠다며 판사실이 있는 7층으로도 향했다. 다행히 차 판사의 사무실은 해당 건물 8층에 있었고, 미리 영장 발부 전 법원 밖을 나와 화를 피할 수 있었다. 경찰은 이에 대한 채증도 마친 상태다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XQBTYYFWWBWOOIJS6NN3ESYJZM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;19일 새벽 윤석열 대통령에 대한 구속영장이 발부되자 서울 서부지법에 지지자들이 진입해 난동을 부리고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그러나 지난 21일 본지가 만난 피의자 변호인 측은 이와 같은 사실에 대해 부인했다. 변호인은 “피의자들이 경찰의 체포를 피하려고 7층에 간 것은 사실”이라면서도 “물건을 파괴한 건 없고 내부를 배회했을 뿐”이라고 했다. 이어 “판사실이 7층인 것도 몰랐기에 일각에서 제기된 ‘건물 구조를 알고 판사실을 수색했다’는 건 가공된 내용”이라고 주장했다. 한편 법원은 이 당시 판사실에 난입한 40대 남성 이모씨를 지난 23일 구속했다. 이씨는 전광훈 목사가 이끄는 사랑제일교회의 ‘특임 전도사’로 알려졌다. 그러나 사랑제일교회는 “교회 차원에서 서부지법에 가거나 특정 행동을 지시한 바가 없다”고 해명했다.&lt;br&gt;&lt;br&gt;이어 “대부분 후문에서 사람들에게 밀려서 들어갔다고 할 뿐, 경찰을 폭행한 사실은 없다고 한다”며 “누군가가 이 소요 사태를 주동했다는 이들도 없다”고 덧붙였다.&lt;br&gt;&lt;br&gt;지금껏 서부지법 내부로 난입한 혐의(건조물침입, 공용물건손상죄 등)로 체포된 이들이 대체로 경찰 조사 과정에서 “누군가 선동해 우발적으로 휩쓸렸다”고 주장한 것과는 상반되는 주장이다. 이에 법조계에선 “변호인단이 말에 어폐가 있는 변호 논리를 구축한 것 아니냐”는 지적이 나왔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/6B7QWFUL4ZLJVKVIMQTEBKSBVA.jpg?width=3418&amp;height=2279&amp;auth=a19a007aa72ec15d009bf07d033554a930ac8c470c412c3ff3b31c4e7a549896&amp;smart=true" type="image/jpeg" height="2279" width="3418">
-        <media:description type="plain">서울서부지방법원 폭력 집단난동 사태 당시 판사실에 침입한 40대 남성 이모씨가 23일 오후 서울 마포구 서울서부지법에서 열린 구속 전 피의자 심문(영장실질심사)에 출석하고 있다. /연합뉴스</media:description>
-        <media:credit role="author" scheme="urn:ebu">이예림</media:credit>
       </media:content>
     </item>
     <item>
