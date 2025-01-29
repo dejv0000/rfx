@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>작년 적발된 짝퉁 90%는 중국산...’이 브랜드’ 가장 많았다</title>
+      <link>https://www.chosun.com/national/national_general/2025/01/30/L5EGZ4MYX5FNLHO3V4IPQWPKEI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/30/L5EGZ4MYX5FNLHO3V4IPQWPKEI/</guid>
+      <dc:creator>정아임 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 29 Jan 2025 21:51:48 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ERPH4SXFNBLSZLZI5G7JJFLCMA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산세관 직원들이 부산세관신항지정장치장에서 유통업자로부터 압수한 중국산 짝퉁 제품들을 정리하고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;작년 국내에 들여오다 세관 당국에 걸린 가품(짝퉁)의 90%는 중국산인 것으로 나타났다. 브랜드별로는 샤넬 짝퉁이 가장 많이 수입된 것으로 조사됐다.&lt;br&gt;&lt;br&gt;국회 기획재정위원회 소속 국민의힘 박성훈 의원이 29일 관세청에서 받은 자료에 따르면 작년 지식재산권을 침해해 국경 단계에서 적발된 수입품 규모는 1705억원(79건)으로 집계됐다.&lt;br&gt;&lt;br&gt;국가별로 보면 중국산 짝퉁 규모가 1539억원으로 전체 지재권 침해 수입품 규모의 90.3%를 차지했다. 건수로도 79건 중 61건으로 전체의 77.2%였다. 이어 홍콩(67억원·5건), 태국(54억원·3건), 기타(45억원·10건) 순이었다.&lt;br&gt;&lt;br&gt;브랜드별로는 샤넬 짝퉁이 540억원 규모로 전체의 32%를 차지해 가장 많았다. 버버리(117억원)와 루이뷔통(100억원) 등도 짝퉁 규모가 100억원을 넘겼다.&lt;br&gt;&lt;br&gt;품목별로는 가방이 803억원(28건)으로 가장 많았고, 의류·직물은 520억원(39건)으로 그 뒤를 이었다. 시계류는 202억원(8건)어치가 적발됐다.&lt;br&gt;&lt;br&gt;박 의원은 “해외 직구 증가와 함께 지식재산권을 침해한 중국산 짝퉁 제품도 꾸준히 증가하고 있다”며 “짝퉁 제품 유통은 소비자뿐만 아니라 국내 생산자에게도 피해를 주는 만큼 범정부 차원의 강력한 대응이 시급하다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>귀경길 교통 체증, 30일 정오~오후 6시 정점</title>
       <link>https://www.chosun.com/national/transport-environment/2025/01/30/TI3FDPWLMBHI7A74YDMGHBR53A/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/01/30/TI3FDPWLMBHI7A74YDMGHBR53A/</guid>
@@ -979,15 +988,6 @@
       <description/>
       <pubDate>Mon, 27 Jan 2025 02:48:00 +0000</pubDate>
       <content:encoded>행정안전부는 27일 “수도권과 강원도, 전라권, 경상권을 중심으로 대설특보가 발효됨에 따라 중앙재난안전대책본부 1단계를 가동하고, 대설 위기 경보 수준을 ‘관심’에서 ‘주의’ 단계로 상향한다고 발표했다.&lt;br&gt;&lt;br&gt;기상청에 따르면 이날부터 28일까지 수도권 10∼20㎝(많은 곳 25㎝ 이상), 강원도 10∼20㎝(많은 곳 30㎝ 이상), 충청권 5∼15㎝(많은 곳 20㎝ 이상), 전라권 5∼20㎝(많은 곳 30㎝ 이상), 경상권 3∼10㎝(많은 곳 15㎝ 이상) 등 전국적으로 많은 눈이 올 것으로 전망된다.&lt;br&gt;&lt;br&gt;중대본은 “대설특보 발효 지역 및 많은 눈이 내릴 것으로 예상되는 지역의 지자체, 경찰, 소방 등 관계기관은 설 연휴 간 비상대응체계 확립에 철저해달라”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PBLLLDFNCRGZJKJPPN7WDWBZHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초IC 부근의 경부고속도로 상하행선 모습. 폭설로 도로가 젖었고, 길가 수풀엔 눈이 쌓였다/한국도로공사 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;설 연휴 셋째 날인 27일 오전엔 전국 고속도로 교통 상황은 비교적 원활한 흐름을 보였다. 이날 오전 10시 기준 승용차로 서울 요금소를 출발해 부산까지 6시간 30분, 광주 5시간 20분, 강릉 3시간 30분, 대전 2시간 50분이 소요될 것으로 한국도로공사는 예측했다.&lt;br&gt;&lt;br&gt;하지만 폭설과 기온 하강으로 인한 빙판길 확대로 예상 소요 시간은 점차 늘어나고 있다. 한국도로공사는 이날 낮 12시 ‘소요 시간 예측 발표’에선 서울에서 부산까지는 7시간 10분이 걸릴 것으로 내다봤다. 2시간 만에 도착 예상 시간이 40분 늘어난 것이다. 같은 시각 광주까지는 6시간, 강릉까지는 4시간 10분으로 2시간 전에 비해 도착 예정 시간이 각각 40분, 30분 늘었다. 대전까지 도착 예정 시각도 2시간 만에 2시간 50분에서 3시간 40분으로 50분 늘어났다.&lt;br&gt;&lt;br&gt;현재 경부고속도로 부산 방향 금토분기점~대왕판교 나들목 구간과 천안~천안분기점 3.53km 구간에서 정체가 빚어져 차량이 서행하고 있다. 귀성 방향은 오후 4시에서 5시 사이에 가장 혼잡할 것으로 예상된다. 귀성길 혼잡은 다음날 오전 1시에서 2시 사이에 해소될 것으로 전망된다.&lt;br&gt;&lt;br&gt;한국도로공사는 이날 총 484만 대의 차량이 이동할 것으로 예측했다. 전날(26일)보다 60만대 증가한 이동량으로 수도권에서 지방으로 44만 대, 지방에서 수도권으로 39만 대의 차량이 움직일 것으로 예상된다.&lt;br&gt;&lt;br&gt;장기 연휴를 맞아 한국도로공사는 이날부터 설 연휴 마지막 날인 30일까지 4일 간 고속도로 통행료를 면제한다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>오세훈 “尹 대통령 구속기소에 참담...공수처 폐지해야”</title>
-      <link>https://www.chosun.com/national/national_general/2025/01/27/V6EHJNBLYRCK7LAK32OZERDT4Q/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/27/V6EHJNBLYRCK7LAK32OZERDT4Q/</guid>
-      <dc:creator>김현수 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 27 Jan 2025 02:46:01 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QPCVDR7NLC5FYMJG6SNLEEH6TM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;오세훈 서울시장. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;오세훈 서울시장은 27일 윤석열 대통령의 구속기소와 관련 “수사 없이 단행된 대통령 기소에 깊은 유감을 표한다”고 말했다.&lt;br&gt;&lt;br&gt;오 시장은 이날 자신의 페이스북에 ‘수사와 재판은 공정해야 합니다’라는 제목의 글을 올리고 이 같이 밝혔다. 그는 “저는 처음부터 수사 권한 논란이 있는 공수처(고위공직사범죄수사처)가 수사에서 손을 떼고, 불구속 상태에서 경찰이 수사해야 한다고 밝힌 바 있다”며 “법 집행에 대해 모든 국민이 공정하다고 느끼고, 무엇보다 법적 분쟁과 갈등의 불씨를 남기지 않는 것이 중요하다고 생각했기 때문”이라고 했다.&lt;br&gt;&lt;br&gt;그러면서 “공수처와 검찰은 대통령 구속 여부에 지나치게 매몰되어 수차례 논란을 자초했고, 수사주체와 사법부의 공정성 논란까지 불거지고 있다”며 “수사기관과 사법부 모두 스스로 돌아보고 책임을 느껴야 할 것”이라고 지적했다.&lt;br&gt;&lt;br&gt;오 시장은 “공수처는 고비마다 판단력에 문제가 있는 조직이라는 점이 명백해졌다”며 “문재인 정부의 졸속적이며 기형적인 검찰개혁이 낳은 폐해”라며 ”지금이라도 (공수처를) 폐지하고 수사권을 재조정하는 것이 수사기관 전체가 국민적 신뢰를 회복하는 길”이라고 전했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>북한도 오늘내일 폭설… 함경도 눈 최대 100㎝ </title>
