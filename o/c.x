@@ -13,6 +13,36 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>“넌 돈 없지?”…공깃밥만 시킨 아이 놀림 당하자 주인이 한 행동</title>
+      <link>https://www.chosun.com/national/national_general/2025/01/29/E7SDS77BPVDZ3ECPQ7ZVX4MG6Q/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/29/E7SDS77BPVDZ3ECPQ7ZVX4MG6Q/</guid>
+      <dc:creator>김자아 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 29 Jan 2025 11:04:50 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YPRMJGSZYM65O3AGQGU42Y3NNI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울시내의 한 분식집에서 종업원이 김밥과 라면을 준비하고 있는 모습.  (사진은 기사 내용과 관련이 없음) /뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김치볶음밥을 사먹는 친구들 사이에서 공깃밥만 주문해 먹고 있는 학생에게 라면을 제공한 업주의 사연이 알려졌다.&lt;br&gt;&lt;br&gt;29일 온라인 커뮤니티에는 ‘김치볶음밥 먹는 친구들 사이에서 공깃밥만 먹는 아이에게 라면을 준 사장님’이라는 제목으로 최근 스레드에 올라온 글이 공유됐다.&lt;br&gt;&lt;br&gt;글을 쓴 작성자는 “지난 주 예비 신랑 가게에 학생 세 명이 와서 두 명은 김치볶음밥을 먹고 한 명은 공깃밥만 시켰다더라”고 말문을 열었다.&lt;br&gt;&lt;br&gt;이어 “(공깃밥을 주문한) 그 친구가 무료로 제공되는 우동 육수에 밥을 먹고, 나머지 두 친구는 ‘넌 돈이 없으니까 그것밖에 못 먹지?’라고 비웃었다고 한다”며 “그걸 듣고 바쁜 와중에 예비 신랑이 라면을 하나 끓여 그 학생에게 먹으라고 줬다더라”고 전했다.&lt;br&gt;&lt;br&gt;그러면서 “30분 후 (배달) 주문이 들어왔는데 요청사항에 이렇게 적혀있어서 기분이 너무 좋았다고 한다. 아직 세상은 따뜻하다”며 가게로 접수된 배달 주문 전표 사진을 첨부했다.&lt;br&gt;&lt;br&gt;라볶이 2개, 순두부찌개 4개 등을 배달시킨 이 주문자는 요청사항을 통해 “태권도 아들 라면 주셔서 감사합니다”라는 메시지를 남겼다. 이 주문자는 A씨 예비 신랑이 라면을 제공한 학생의 부모로 추정됐다.&lt;br&gt;&lt;br&gt;이에 초등학교 교사라고 밝힌 한 네티즌은 “돈 없다고 놀리는 건 혼나야 한다”면서도 “어린 애들은 정도를 잘 몰라서 계속 얻어먹는 애는 얻어먹고 사주는 애는 사주기만 반복하다 결국 감정상해서 학교폭력으로 문제되는 경우가 꽤 있다. 그러다 보면 고학년은 저렇게 되는 것 같다. 남한테 신세 지기도, 손해보기도 싫어하는 요즘 문화가 애들한테까지 퍼진 영향도 있다”고 했다.&lt;br&gt;&lt;br&gt;다른 네티즌들은 “친구가 돈이 없어 못 먹으면 같이 나눠 먹자고 하지 않나. 세상이 많이 바뀐 것 같다” “어릴 때 친구랑 나눠 먹으라 배웠는데 요즘 문화를 잘 공감 못하겠다” “사장도 부모도 대응을 잘했다” “이런 가게 장사 잘 돼야 한다” 등의 반응을 보였다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>국토부 “에어부산 화재, 테러 용의점 발견 안 돼” </title>
+      <link>https://www.chosun.com/national/transport-environment/2025/01/29/RCMWULNQ7BHQFDVSBWBL56WZFA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/01/29/RCMWULNQ7BHQFDVSBWBL56WZFA/</guid>
+      <dc:creator>김아사 기자</dc:creator>
+      <description>국토교통부는 28일 김해공항에서 발생한 에어부산 항공기 화재 사건 관련, 테러와 관련된 용의점은 발견되지 않았다고 29일 밝혔다.</description>
+      <pubDate>Wed, 29 Jan 2025 11:48:20 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/V2KTFWXOR62ALCTHUZPWCUVCCY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;28일 화재가 발생한 홍콩행 에어부산 항공기 BX391편 기내 모습./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국토교통부는 28일 김해공항에서 발생한 에어부산 항공기 화재 사건 관련, 테러와 관련된 용의점은 발견되지 않았다고 29일 밝혔다.&lt;br&gt;&lt;br&gt;국토부는 이날 “29일 새벽 0시 30분부터 오전 11시 30분까지 관계기관 합동 대테러 조사를 실시했다”며 “항공기 내 반입이 금지된 위해 물품 등 테러와 관련된 용의점은 발견되지 않았으나 향후 사고조사위원회 조사 등의 과정에서 용의점이 파악되는 경우 관계기관 합동 추가 조사를 시행할 계획”이라고 밝혔다.&lt;br&gt;&lt;br&gt;사고 항공기에 탑승했던 승객들은 머리 위 짐을 보관하는 선반에서 검은 연기가 발생한 뒤 화재로 번졌다는 진술을 내놓고 있다. 다만, 어떤 물체에서 화재가 시작됐는지는 밝혀지지 않았다. 국토부는 발화 원인 등을 찾기 위한 조사를 진행하고 있다.&lt;br&gt;&lt;br&gt;한편, 탑승객·승무원 치료와 관련해선 전체 탑승객 176명(탑승객 169명, 승무원 6명, 정비사 1명) 중 165명(탑승객 158명, 승무원 6명, 정비사 1명)은 자택으로 귀가했고, 10명(외국인 탑승객)은 호텔에 투숙 중이며 1명은 입원 치료 중이라고 국토부는 밝혔다.&lt;br&gt;&lt;br&gt;에어부산은 임시 항공편을 투입해 기존 탑승객 중 홍콩행 항공기에 탑승을 희망하는 승객을 태워 29일 오후 10시 김해공항에서 홍콩으로 출발할 계획이라고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>설날 강남대로서 오토바이와 버스 추돌…오토바이 운전자 사망</title>
+      <link>https://www.chosun.com/national/national_general/2025/01/29/TAA5YMND65G3XCP63RSXSUFXEI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/29/TAA5YMND65G3XCP63RSXSUFXEI/</guid>
+      <dc:creator>김병권 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 29 Jan 2025 10:59:36 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/F5HWAIWGE6RSYMTKGTNK2CEVNE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 강남경찰서/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;설 당일인 29일 서울 강남대로 한복판에서 오토바이와 시내버스가 부딪쳐 오토바이 운전자가 숨지는 사고가 발생했다.&lt;br&gt;&lt;br&gt;서울 강남경찰서는 이날 오전 11시 5분쯤 서울 강남구 강남대로 교보타워사거리에서 오토바이가 421번 시내버스와 추돌하는 사고가 발생했다고 밝혔다. &lt;br&gt;&lt;br&gt;오토바이 운전자인 60대 남성은 중상을 입어 심폐소생술을 받으며 인근 병원으로 이송됐으나 끝내 숨졌다고 한다.&lt;br&gt;&lt;br&gt;시내버스는 사고 당시 충격으로 전면 우측 유리가 크게 파손됐으나 오토바이 운전자 이외에 이 사고로 다친 사람은 없는 것으로 나타났다.&lt;br&gt;&lt;br&gt;경찰은 오토바이 운전자가 신호를 위반했을 가능성이 있다고 보고, 인근 폐쇄회로(CC)TV 영상 등을 확인해 정확한 사고 경위를 조사 중이다. 오토바이 운전자가 음주나 마약 운전을 한 것은 아니라고 경찰은 보고 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/F5HWAIWGE6RSYMTKGTNK2CEVNE.jpg?width=4000&amp;height=2252&amp;auth=8914ae2a711fb46de079747e187fdbe6d7d715bc72d00b8ab29b2cf52ddae5c6&amp;smart=true" type="image/jpeg" height="2252" width="4000">
+        <media:description type="plain">서울 강남경찰서 ⓒ News1 이비슬 기자</media:description>
+      </media:content>
+    </item>
+    <item>
       <title>[단독]가천대, 국내 최초 1000명 규모 외국인 전용 단과대학 개설</title>
       <link>https://www.chosun.com/national/national_general/2025/01/29/PERA6HE4KVDRDBNEKR4DUJXJQA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/29/PERA6HE4KVDRDBNEKR4DUJXJQA/</guid>
@@ -937,19 +967,6 @@
       </media:content>
     </item>
     <item>
-      <title>법조계 “첫 단추 잘못 끼운 수사, 재판서도 논란될 것”</title>
-      <link>https://www.chosun.com/national/court_law/2025/01/27/3RCE3WHQRJAYHBJX2N3MS6RCUU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/01/27/3RCE3WHQRJAYHBJX2N3MS6RCUU/</guid>
-      <dc:creator>박강현 기자, 양은경 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 26 Jan 2025 16:02:51 +0000</pubDate>
-      <content:encoded>&lt;br/&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LOZ27NP67RJ2FBWDRWMATHBJ6E.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;나경원 의원 등 국민의힘 의원들이 16일 오후 경기도 과천시 고위공직자범죄수사처(공수처) 민원실 앞에서 윤석열 대통령에 대한 구속영장을 집행한 공수처를 규탄하는 기자회견을 열고 구호를 외치고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘12·3 비상계엄’ 사태와 관련해 윤석열 대통령의 내란 우두머리 혐의에 대한 재판이 시작되면, ‘위법 증거’ 논란이 주요 쟁점이 될 수 있다는 전망이 법조계에선 나온다. 내란죄 수사권이 없는 고위공직자범죄수사처(공수처)가 초기 수사를 담당했고, 검찰도 사실상 아무런 보완 수사 없이 기소를 하면 증거의 ‘적법성’이 문제가 될 수밖에 없다는 것이다.&lt;br&gt;&lt;br&gt;구영곤(68) 변호사는 26일 내란죄 수사권이 없는 공수처가 수사 개시 대상인 직권남용죄의 ‘관련 범죄’로 윤 대통령의 내란 혐의를 수사한 것에 대해 “첫 단추부터 잘못 끼워졌다”고 지적했다. 현직 대통령은 내란과 외환만 소추(訴追)가 가능한데, 소추가 불가능한 직권남용죄로 시작해 내란죄까지 확대 수사하는 게 부적절하다는 것이다. 구 변호사는 “공수처는 검찰과 경찰로부터 윤 대통령의 내란 혐의 사건을 이첩받을 수도, 체포·구속 영장 등을 청구할 수도 없다”면서 “지금 벌어진 일련의 수사 과정은 모두 위법”이라고 주장했다. 그러면서 “위법하게 수집된 증거는 인정할 수 없다는 독수독과(毒樹毒果) 원칙에 따라 윤 대통령의 수사 자료가 적법한지가 앞으로 재판에서 주요한 쟁점이 될 것”이라고 했다.&lt;br&gt;&lt;br&gt;임병렬(65) 청주지법원장도 최근 법원 내부게시판(코트넷)에 공수처의 내란죄 수사권 논란이 앞으로 재판까지 이어질 수 있다는 점을 지적했다. 임 법원장은 “윤 대통령이 내란죄로 기소되고 대법원에 와서야 1·2심이 잘못됐다는 판단을 한다면, 후폭풍을 감당할 수 있겠느냐”고 했다. 임 법원장은 또 대법원이 공수처의 내란죄 수사권이 없다고 결론 내렸을 때, 법원이 현직 대통령에게 발부한 체포영장이나 구속영장에 대해 “(법관의) 양심에 따른 것이라고 할 수 있느냐”는 지적도 했다. 한 고검장 출신 변호사는 “법원이 지난 24일과 25일 공수처가 보낸 사건에 검찰의 보완 수사권을 인정하지 않으면서도 공수처에 내란죄 수사권이 있는지는 밝히지 않았다”면서 “윤 대통령 측은 법정에서 공수처 수사가 위법하다며 공소 기각을 요구할 수 있다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/LOZ27NP67RJ2FBWDRWMATHBJ6E.JPG?width=2700&amp;height=1800&amp;auth=f4e76e2e987faad4b238bc9345f1aa2dd1a6865f3bf75bfaecc74d1a4066fd2e&amp;smart=true" type="image/jpeg" height="1800" width="2700">
-        <media:description type="plain">나경원 의원 등 국민의힘 의원들이 16일 오후 경기도 과천시 고위공직자범죄수사처(공수처) 민원실 앞에서 윤석열 대통령에 대한 구속영장을 집행한 공수처를 규탄하는 기자회견을 열고 구호를 외치고 있다./뉴스1</media:description>
-        <media:credit role="author" scheme="urn:ebu">(과천=뉴스1) 민경석 기자</media:credit>
-      </media:content>
-    </item>
-    <item>
       <title>濠, 돌봄 자격 엄격 관리… 부실 교육한 대학 폐교, 졸업생 자격증도 취소</title>
       <link>https://www.chosun.com/national/national_general/2025/01/27/6HRMP3ZASJF3NDZTBTMN6M7Q2M/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/27/6HRMP3ZASJF3NDZTBTMN6M7Q2M/</guid>
@@ -959,31 +976,6 @@
       <content:encoded>&lt;br/&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4TWQPQ4FRJCMDH3PPMXIDSTK5E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;외국인 학생들 ‘돌봄 실습’ - 지난해 11월 19일 호주 멜버른의 한 전문대에서 베트남, 필리핀 등에서 온 외국인들이 돌봄 자격증 취득을 위한 실습 수업을 하고 있다. /오주비 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;호주에서 외국인이 돌봄 인력으로 일하려면 일반적으로 돌봄 인력 국가 자격증(Certificate III in Individual Support·이하 돌봄 자격증)이 필요하다. 돌봄 자격증은 호주의 직업교육 전문대(college)에서 수업을 들으면 취득할 수 있다. 교육과정은 최소 9개월간 15개의 이론 과목 공부, 최소 120시간의 현장 실습으로 구성돼 있다. &lt;b&gt;1년가량 진행되는 이 수업의 학비는 약 1만호주달러(약 900만원)다. &lt;/b&gt;이를 마치면 돌봄 인력으로 일할 수 있다.&lt;br&gt;&lt;br&gt;한국과 달리 요양보호사 국가 자격 시험 등은 없지만, 호주 정부가 돌봄 인력 관리에 손 놓고 있는 것은 아니다. 호주 정부는 전문대를 감사하는 정부 기관인 ASQA(Australian Skills Quality Authority)를 통해 돌봄 자격증을 엄격하게 관리하고 있다. 호주 전문대 관계자들은 “돌봄 자격증 취득 수업을 운영할 수 있는 전문대 선정부터 재허가까지, ASQA의 높은 기준을 통과해야 외국인을 수강생으로 받을 수 있다”고 했다.&lt;br&gt;&lt;br&gt;돌봄 자격증 수업을 열고 싶은 전문대는 정부에서 정한 교과목 목록과 성취도 기준을 충족하는 수업 계획서를 ASQA에 제출해야 한다. ASQA가 학교의 돌봄 자격증 강사 역량이 부족하거나 수업 계획서가 부실하다고 판단하면, 학교 측은 돌봄 자격증 수업을 개설할 수 없다.&lt;br&gt;&lt;br&gt;허가를 받더라도 관리는 계속 이어진다. 2~7년 등 주기적으로 재허가 과정이 진행된다. 실제 지난해 ASQA는 전문대 150여 곳을 문 닫게 했다. 돌봄 인력과 영유아 보육 자격증 취득 교육과정을 운영해오던 한 전문대의 경우 폐교 조치되고 졸업생 6400여 명의 자격증까지 취소됐다. 이처럼 호주 정부는 제대로 교육받은 외국인들만 돌봄 인력으로 일할 수 있도록 통제하고 있다.&lt;br&gt;&lt;br&gt;호주의 한 전문대 관계자는 “정부가 돌봄 인력으로 일하는 외국인들에게 영주권 신청 조건 완화 등 혜택을 주고 있지만, 이를 이용해 학교들이 ‘돈 장사’를 못 하도록 엄격하게 관리하고 있다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
       <media:content url="https://www.chosun.com/resizer/v2/4TWQPQ4FRJCMDH3PPMXIDSTK5E.jpg?width=1808&amp;height=1384&amp;auth=4d318072c9f91e48d14d1c8ac5ce9490e085d81448fc3e380bed69816b765e02&amp;smart=true" type="image/jpeg" height="1384" width="1808">
         <media:description type="plain">호주 요양보호사 국가 자격증 취득 수업 모습./오주비 기자</media:description>
-      </media:content>
-    </item>
-    <item>
-      <title>말레이 로펌 비서도, 한국 경력 단절 여성도… 간병하러 호주행</title>
-      <link>https://www.chosun.com/national/welfare-medical/2025/01/27/N2DRKBYDAZCY7CI7RHIISN67JQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/01/27/N2DRKBYDAZCY7CI7RHIISN67JQ/</guid>
-      <dc:creator>정해민 기자, 멜버른·월링턴=오주비 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 26 Jan 2025 15:48:57 +0000</pubDate>
-      <content:encoded>&lt;br/&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HBUNADH735EX5BDNP6ABUAX5UQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;호주 TLC 요양원, 인도네시아 요양보호사와 호주 노인/ 오주비 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;호주뿐 아니라 고령화를 겪는 해외 주요 국가들은 외국인 돌봄 인력을 모집하고 있다. 그중에서도 호주는 한국인도 선호하는 국가로, 실제 호주로 간병업 취업 이민을 가는 한국인이 늘고 있다. 한국인을 비롯한 돌봄 인력이 여러 국가 중 호주행(行)을 택하는 이유는 무엇일까.&lt;br&gt;&lt;br&gt;이들은 고연봉을 그 이유로 꼽았다. 말레이시아에서 온 고속빈(33)씨는 세계 50대 로펌의 말레이시아지부 비서실 등에서 근무하던 사무직 직장인이었다. 그러다 2년 전 호주에 와 최근 돌봄 자격증을 수업을 듣고 있다. 그는 “호주 요양보호사 월 급여가 말레이시아 로펌 비서실 월급의 4배 정도”라고 말했다. 한국인 박지유(45)씨는 호주 시드니의 요양원 두 곳에서 파트 타이머로 일하고 있다. 한 주에 60시간을 근무하고 월급 8000호주달러(약 720만원)를 받는다. 연봉으로는 9만6000호주달러(약 8600만원)다. 시급이 호주 최저 시급보다 20% 이상 높고, 주말·야간수당도 있다고 한다. 박씨는 “요양보호사 일을 한다고 하면 한국의 친구들이 안쓰럽게 생각하는데, 매우 만족한다”며 “고연봉을 받으며 아이 초등학교 졸업도 시켰다. 한국의 경력 단절 여성들에게 추천하고 싶다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KG2TV4JIFBH35OD5DPMBI5DRLI.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=송윤혜&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;외국인에 개방적인 사회 분위기도 중요하다. 호주에는 유학생이나 워킹홀리데이 비자를 가진 이도 많다 보니 차별이나 생활에서의 어려움이 적다는 것이다. 1년 3개월째 호주 돌봄 인력으로 일하고 있는 한국인 고다니엘(26)씨는 “잠깐 일을 하러 워킹홀리데이 비자로 호주에 왔는데, 처우가 좋길래 요양원에서 일하며 영주권을 받으려고 한다”며 “동료 대부분이 외국인이라 외국인에 대한 차별도 없으며 동료들과 좋은 관계로 잘 지내고 있다”고 했다.&lt;br&gt;&lt;br&gt;이들은 영어권 국가인 호주는 자녀 등 가족이 함께 와 정착하기 좋다고 말한다. 필리핀인 제이알 라디오(41)씨도 “원래 영어를 할 수 있어 따로 언어 교육을 안 받아도 돼 좋았다”며 “노인을 돌보는 일을 하면 시급이 빠르게 올라가는 점도 좋다”고 했다. 이러다 보니 한국 유학원에서도 ‘호주 간병인 자격증’ ‘호주 요양보호사 취직’ 같은 광고를 내걸며 이민 희망자를 모집하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/HBUNADH735EX5BDNP6ABUAX5UQ.jpg?width=2620&amp;height=1669&amp;auth=85969738f31d66453e68057a72e9309da62c91acd56d9c3f6027355d474f4441&amp;smart=true" type="image/jpeg" height="1669" width="2620">
-        <media:description type="plain">호주 TLC 요양원, 인도네시아 요양보호사와 호주 노인/ 오주비 기자</media:description>
-      </media:content>
-    </item>
-    <item>
-      <title>검찰, 尹대통령 구속 기소</title>
-      <link>https://www.chosun.com/national/court_law/2025/01/27/XXWUO3ABZ5FKBAM7D77XVR32QU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/01/27/XXWUO3ABZ5FKBAM7D77XVR32QU/</guid>
-      <dc:creator>이민준 기자, 유희곤 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 26 Jan 2025 15:45:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BJJHXSC7LWXOJD5DDQR3EGLMJI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령이 23일 오후 서울 종로구 헌법재판소에서 열린 탄핵심판 4차 변론기일에 출석해 있다. /사진공동취재단&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘12‧3 비상계엄’ 사태를 수사 중인 검찰 비상계엄 특별수사본부가 26일 내란 우두머리 혐의로 윤석열 대통령을 구속 기소했다. 비상계엄 선포 후 54일 만이다. 윤 대통령을 불구속 상태로 경찰에서 추가로 수사하라는 여당과 법조계 일각의 요구가 있었지만, 검찰은 구속 기한(27일)을 하루 남기고 윤 대통령을 재판에 넘겼다. 검찰이 현직 대통령을 기소한 것은 처음이다. 전직 대통령까지 포함하면 전두환·노태우·이명박·박근혜 전 대통령에 이어 다섯 번째다.&lt;br&gt;&lt;br&gt;심우정 검찰총장은 이날 오전 전국 검사장 회의를 열고 2시간 50분 동안 윤 대통령 사건 처리 방향을 논의했다. 대검은 “윤 대통령 구속 기소가 상당하다는 의견을 종합해 특수본에 공소 제기를 지시했다”고 했다. 윤 대통령 공소장은 100여 쪽 분량이라고 한다.&lt;br&gt;&lt;br&gt;특수본도 “법원의 납득하기 어려운 두 차례의 구속 기간 연장 불허 결정에 최소한의 보완 수사도 못 했지만, 그동안 수사한 경찰 송치 자료 등을 종합 검토해 윤 대통령을 기소하는 게 상당하다고 판단했다”고 했다. 특수본은 또 “윤 대통령의 증거인멸 우려가 여전히 해소되지 않은 점 등을 고려해 현직 대통령의 불소추 특권 범위에 해당하지 않는 내란 혐의만 (적용해) 구속 기소했다”고 설명했다. 특수본 관계자는 “윤 대통령의 직권남용 혐의는 기소하지 않고 계속 수사 중”이라고 했다. 법조계에선 “내란죄 수사권이 없는 공수처가 직권남용의 ‘관련 범죄’로 수사한 윤 대통령의 내란 혐의만 기소가 됐다”며 “본말이 전도된 기소를 두고 재판 과정에서도 논란이 이어질 것”이라는 지적이 나왔다.&lt;br&gt;&lt;br&gt;공수처에서 윤 대통령 사건을 넘겨받은 검찰은 지난 23일과 25일 두 차례에 걸쳐 윤 대통령에 대한 구속 기간 연장을 신청했지만, 법원은 “공수처법상 공수처가 기소를 요구한 사건에 대해 검찰이 보완 수사를 할 법적 근거가 없다”며 불허한 바 있다. 윤 대통령에 대한 1심 선고는 이르면 7월에 나올 전망이다. 윤 대통령 측은 “검찰의 헌정 유린을 규탄한다”며 “사법부에서 진실을 밝힐 차례”라고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TL74DMCK2ZGWJOFEG2C72KYQM4.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=송윤혜&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/BJJHXSC7LWXOJD5DDQR3EGLMJI.jpg?width=4033&amp;height=3042&amp;auth=9641315bb46a08ab4ae4c5b4b6962f279abd3e5871ef7d7a8b2bbcb94e96e891&amp;smart=true" type="image/jpeg" height="3042" width="4033">
-        <media:description type="plain">윤석열 대통령이 23일 오후 서울 종로구 헌법재판소에서 열린 탄핵심판 4차 변론기일에 출석해 있다. /사진공동취재단</media:description>
-        <media:credit role="author" scheme="urn:ebu">뉴스1 ⓒ News1 사진공동취재단</media:credit>
       </media:content>
     </item>
     <item>
