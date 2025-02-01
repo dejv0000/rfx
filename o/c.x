@@ -13,6 +13,33 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>제주 해상서 어선 좌초…“승선 15명 중 1명 사망·3명 실종”</title>
+      <link>https://www.chosun.com/national/incident/2025/02/01/B4NPTV2J2JB4RJY2SMMKXW3FV4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/02/01/B4NPTV2J2JB4RJY2SMMKXW3FV4/</guid>
+      <dc:creator>김정엽 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 01 Feb 2025 03:26:33 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RI2ZCJYOEIAJZL6HNWIHPHB7UM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;1일 오전 9시25분쯤 제주 토끼섬 인근 해상서 어선 2척이 좌초돼 해경이 구조작업을 하고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제주 해상에서 어선 2척이 좌초돼 승선원 15명 중 1명이 숨지고, 3명이 실종되는 사고가 발생했다. &lt;br&gt;&lt;br&gt;1일 제주해양경찰청에 따르면 이날 오전 9시 24분쯤 제주시 구좌읍 토끼섬 인근 해상에서 애월 선적 채낚기 어선 A호(32t·승선원 7명)와 B호(29t·승선원 8명)가 좌초됐다는 신고가 접수됐다.&lt;br&gt;&lt;br&gt;해경은 구조 인력을 현장에 보내 승선원 15명 가운데 12명을 구조했다. 이 중 A호 선장인 50대 남성이 심정지 상태로 심폐소생술 등 응급처치를 받으며 병원으로 이송됐으나 결국 숨졌다. 해경은 나머지 3명에 대한 수색 작업을 이어가고 있다.&lt;br&gt;&lt;br&gt;해경은 어선 위치 발신 장치(V-PASS) 알람이 울려 어선 선장과 통화한 결과, 좌초 사고를 인지해 구조 작업에 나섰다고 설명했다. 현재 광역구조본부와 지역구조본부가 사고에 공동 대응하고 있으며 유관기관과도 협력 중이다.&lt;br&gt;&lt;br&gt;해경은 두 선박이 육상에서 500ｍ 정도 떨어진 해상에서 조업 중 갯바위에 좌초된 것으로 보고 있다. 현재 사고 해역엔 풍랑주의보가 발효 중이며, 초속 14~16m의 강풍이 불고 파도가 3m 높이로 높게 일고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>尹측 “헌재 문형배·이미선·정계선 재판관 스스로 탄핵 심리서 빠져야” 의견서 제출</title>
+      <link>https://www.chosun.com/national/2025/02/01/ZL4YFR3LMFA4TMPNAPNRTHNGNE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2025/02/01/ZL4YFR3LMFA4TMPNAPNRTHNGNE/</guid>
+      <dc:creator>이슬비 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 01 Feb 2025 04:15:55 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QEXJHEGXKFOIRDPBBK6FAZRRP4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;문형배 헌법재판소장 직무대행을 비롯한 헌법재판관들이 지난 1월 23일 서울 종로구 헌법재판소에서 열린 윤석열 대통령 탄핵심판 4차 변론을 위해 입장했다. 왼쪽부터 정계선·김복형·정정미·이미선·문형배·김형두·정형식·조한창 헌법재판관. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 대통령 측이 문형배·이미선·정계선 재판관이 스스로 탄핵심판 심리에서 빠져야 한다는 의견서를 헌법재판소에 제출했다. 윤 대통령의 대리인단은 1일 “재판부의 권위와 재판이 공정하다는 신뢰는 내부에서 문제없다고 강변해서 얻어지는 것이 아니라 외부에서 인정해야 하는 것”이라며 전날 헌재에 회피 촉구 의견서를 제출했다고 밝혔다.&lt;br&gt;&lt;br&gt;윤 대통령 측은 문형배 재판소장 권한대행이 10여 년 전 소셜미디어로 이재명 더불어민주당 대표와 교류했고 사회적 이슈에 관한 글 등을 볼 때 정치적으로 편향돼 있다고 주장했다. 윤 대통령 측은 또 “수많은 음모론과 가짜뉴스를 양산한 유튜버까지 팔로우한 것으로 드러났다”며 각주에 ‘김어준 저장소’를 기재했다.&lt;br&gt;&lt;br&gt;문 권한대행은 2011~2013년 소셜미디어에서 사법연수원 동기인 이 대표와 최소 7차례 정치적·개인적 현안에 대해 소통한 사실이 알려져 논란이 됐다. 이 대표가 성남시장 시절인 2011년 7월 문 권한대행 페이스북에 “문판(문형배 판사)님 잘 계시죠? 마나님께 안부를”이라는 댓글을 달자, 문 권한대행이 “시장님 고생 많으시죠”라고 답했다. 또 판사 시절 법원 내 진보 성향 모임인 우리법연구회 회장을 지냈는데, 2010년 자신의 트위터에 “굳이 분류하자면 우리법연구회 내부에서 제가 제일 왼쪽에 자리 잡고 있을 것”이라는 글을 올리기도 했다.&lt;br&gt;&lt;br&gt;이미선 재판관에 대해서는 “친동생이 민주사회를위한변호사모임(민변) 산하 ‘윤석열 퇴진 특별위원회’ 부위원장으로 활동하고 있고, 배우자는 이 대표와의 재판거래 의혹 및 대장동 50억 클럽으로 재판받는 권순일 전 대법관과 같은 법무법인에 근무하고 있다”고 했다. 이 재판관의 친동생이 소속된 단체는 최상목 대통령 권한대행의 마은혁 재판관 후보자 임명 보류가 위헌이라며 헌재에 헌법소원을 내기도 했다.&lt;br&gt;&lt;br&gt;정계선 재판관에 대해서는 “배우자가 탄핵 촉구 시국 선언에 이름을 올렸고 그가 근무하는 단체의 이사장이 소추인 측 대리인으로 나섰음에도 심리에 계속 참여하고 있다”며 “배우자의 의견이 영향을 미치는 차원을 넘어 엄격하게 비밀이 유지돼야 할 탄핵 심판 관련 자료들이 배우자를 통해 소추인 측에 전달되지 않는다고 누가 장담할 수 있는가”라고 했다. 정 재판관의 남편 황필규 변호사는 작년 12월 비상계엄 직후 윤 대통령 탄핵을 촉구하는 시국 선언에 동참하고, 국회 측 대리인단 공동대표인 김이수 변호사가 이사장으로 있는 공익 재단에 근무 중이다.&lt;br&gt;&lt;br&gt;윤 대통령 측은 “이미 재판관의 성향에 의해 심리의 속도나 결과가 좌우되는 것을 목도하고 있다”며 재판관들이 알아서 재판을 회피해야 한다고 주장했다. 윤 대통령 측은 “대통령에 대한 탄핵심리가 조선시대 ‘원님 재판’보다 못하지는 말아야 한다. 원님 재판에서도 공정하고 적정한 재판을 위해 노력했다”고 했다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇헌재, 회피하지 않고 기피 신청도 기각&lt;/b&gt;&lt;br&gt;&lt;br&gt;법조계에서는 재판관들이 스스로 사건을 회피할 가능성은 낮다고 보고 있다. 헌재는 지난 1월 13일 윤 대통령 측이 남편 논란을 빚은 정계선 재판관에 대해 기피 신청을 하자, 하루 만에 기각했다.&lt;br&gt;&lt;br&gt;헌재 천재현 공보관은 “재판관 배우자나 동생을 이유로 재판관이 회피해야 한다는 요구 등이 있는데, 단순히 주관적 의혹만으로는 부족하고 합리적이라고 인정될 만큼 객관적인 사정이 있어야 한다는 게 대법원과 헌재의 확립된 판례”라고 했다.&lt;br&gt;&lt;br&gt;하지만 헌재가 아니라 법원 같았으면 판사들이 이해관계 충돌을 우려해 스스로 재판을 피했을 수도 있는 사례라는 지적이 나온다. 판사 출신 한 변호사는 “법원에서 비슷한 논란이 발생했다면 판사 스스로 사건을 회피했을 것”이라고 했다. 앞서 조국 전 조국혁신당 대표의 자녀 입시 비리 등 사건 상고심에서도, 이흥구 대법관은 조 전 대표와 친분이 있다며 스스로 심리 및 선고에 관여하지 않고 빠졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘집에서 요양’ 한국 노인… 하루 2시간 돌봄 공백</title>
+      <link>https://www.chosun.com/national/welfare-medical/2025/01/31/QNV7UCDPMZCSVFLO7AHZKU3FSI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/01/31/QNV7UCDPMZCSVFLO7AHZKU3FSI/</guid>
+      <dc:creator>안준용 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 30 Jan 2025 15:45:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6R4NNU6DYFDYFHE2POUXJMGKTA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;작년 10월 30일 경기도 양주의 한 요양원에서 한 노인이 휠체어에 앉아 있다. /김지호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기도 평택에 사는 A(65)씨는 소뇌 위축증으로 혼자서는 거동이 힘들어 ‘방문 요양 서비스’를 받고 있다. 생계를 책임지는 아내가 오전 8시 회사로 출근한 뒤 혼자 누워 있으면 오후 1시 요양보호사가 집으로 찾아온다. 요양보호사는 오후 4시까지 3시간 동안 A씨를 돌봐주고 간다. A씨는 아내가 오후 7시 퇴근해 귀가할 때까지 하루 8시간을 홀로 버틴다. A씨 아내는 “남편이 혼자 화장실도 못 가지만, 생계를 위해 내가 집을 비울 수밖에 없다”고 했다.&lt;br&gt;&lt;br&gt;A씨처럼 혼자 일상생활을 하기 곤란해 누군가의 돌봄이 필요한 노인이 집에서 요양할 경우 하루 2시간 ‘돌봄 공백’이 발생한다는 조사 결과가 나왔다. 이들을 돌보는 보호자 5명 중 2명은 “돌봄 부담이 심각하다”고 했고, 3명 중 1명은 우울증이 의심되는 상황인 것으로 나타났다.&lt;br&gt;&lt;br&gt;30일 국민건강보험 건강보험연구원 조윤민 부연구위원의 ‘돌봄 필요 노인의 건강·돌봄 특성과 향후 과제’ 연구에 따르면, 집에서 장기 요양 서비스를 받는 노인 5045명과 이들의 주 돌봄 제공자 4092명을 조사했더니 이런 결과가 나왔다.&lt;br&gt;&lt;br&gt;‘장기 요양 서비스’는 정부에서 장기 요양 등급 판정을 받은 이들에게 간호·목욕 등 돌봄 서비스를 제공하는 사회보험제도다. 65세 이상 노인이나 치매 등을 앓는 사람 중에 장기간 일상생활을 수행하기 어려운 이들이 대상이다.&lt;br&gt;&lt;br&gt;이번 조사 결과, 집에서 장기 요양 서비스를 받는 노인은 하루 중 수면 시간을 제외하면 평균 4.9시간의 돌봄이 필요했다. 하지만 가족·요양보호사 등의 도움을 받는 시간은 2.9시간에 그쳤다. 2시간 정도 돌봄 공백이 발생하는 것이다. 노인들이 하는 활동 중에선 TV 시청이 5.8시간으로 가장 큰 비율을 차지했다.&lt;br&gt;&lt;br&gt;이들을 돌보는 ‘주 돌봄 제공자’는 배우자(35.7%)가 가장 많았다. 이어 아들·며느리(32.9%), 딸·사위(27%) 등이 뒤를 이었다. 주 돌봄 제공자의 연령대는 55~64세(30.3%), 75세 이상(28.2%), 65~74세(22.5%) 순이었다.&lt;br&gt;&lt;br&gt;주 돌봄 제공자 42.1%는 ‘심각한 정도의 돌봄 부담’을 느끼고 있다고 답했다. 우울증이 의심되는 경우도 33.7%에 달했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>용산 국립한글박물관서 화재… 일부 문화유산 국립중앙박물관 이송 중</title>
       <link>https://www.chosun.com/national/incident/2025/02/01/PA2QAVM3QZD63MO3OLIZQTMQMM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/02/01/PA2QAVM3QZD63MO3OLIZQTMQMM/</guid>
@@ -973,41 +1000,6 @@ The Chosunilbo</media:credit>
         <media:description type="plain">윤석열 대통령이 23일 서울 종로구 헌법재판소에서 열린 탄핵심판 4차 변론에 출석해 변호인단과 대화를 나누고 있다./사진공동취재단</media:description>
         <media:credit role="author" scheme="urn:ebu">뉴스1 ⓒ News1 사진공동취재단</media:credit>
       </media:content>
-    </item>
-    <item>
-      <title>법조계 “첫 단추 잘못 끼운 수사, 재판서도 논란될 것”</title>
-      <link>https://www.chosun.com/national/court_law/2025/01/27/3RCE3WHQRJAYHBJX2N3MS6RCUU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/01/27/3RCE3WHQRJAYHBJX2N3MS6RCUU/</guid>
-      <dc:creator>박강현 기자, 양은경 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 26 Jan 2025 16:02:51 +0000</pubDate>
-      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LOZ27NP67RJ2FBWDRWMATHBJ6E.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;나경원 의원 등 국민의힘 의원들이 16일 오후 경기도 과천시 고위공직자범죄수사처(공수처) 민원실 앞에서 윤석열 대통령에 대한 구속영장을 집행한 공수처를 규탄하는 기자회견을 열고 구호를 외치고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘12·3 비상계엄’ 사태와 관련해 윤석열 대통령의 내란 우두머리 혐의에 대한 재판이 시작되면, ‘위법 증거’ 논란이 주요 쟁점이 될 수 있다는 전망이 법조계에선 나온다. 내란죄 수사권이 없는 고위공직자범죄수사처(공수처)가 초기 수사를 담당했고, 검찰도 사실상 아무런 보완 수사 없이 기소를 하면 증거의 ‘적법성’이 문제가 될 수밖에 없다는 것이다.&lt;br&gt;&lt;br&gt;구영곤(68) 변호사는 26일 내란죄 수사권이 없는 공수처가 수사 개시 대상인 직권남용죄의 ‘관련 범죄’로 윤 대통령의 내란 혐의를 수사한 것에 대해 “첫 단추부터 잘못 끼워졌다”고 지적했다. 현직 대통령은 내란과 외환만 소추(訴追)가 가능한데, 소추가 불가능한 직권남용죄로 시작해 내란죄까지 확대 수사하는 게 부적절하다는 것이다. 구 변호사는 “공수처는 검찰과 경찰로부터 윤 대통령의 내란 혐의 사건을 이첩받을 수도, 체포·구속 영장 등을 청구할 수도 없다”면서 “지금 벌어진 일련의 수사 과정은 모두 위법”이라고 주장했다. 그러면서 “위법하게 수집된 증거는 인정할 수 없다는 독수독과(毒樹毒果) 원칙에 따라 윤 대통령의 수사 자료가 적법한지가 앞으로 재판에서 주요한 쟁점이 될 것”이라고 했다.&lt;br&gt;&lt;br&gt;임병렬(65) 청주지법원장도 최근 법원 내부게시판(코트넷)에 공수처의 내란죄 수사권 논란이 앞으로 재판까지 이어질 수 있다는 점을 지적했다. 임 법원장은 “윤 대통령이 내란죄로 기소되고 대법원에 와서야 1·2심이 잘못됐다는 판단을 한다면, 후폭풍을 감당할 수 있겠느냐”고 했다. 임 법원장은 또 대법원이 공수처의 내란죄 수사권이 없다고 결론 내렸을 때, 법원이 현직 대통령에게 발부한 체포영장이나 구속영장에 대해 “(법관의) 양심에 따른 것이라고 할 수 있느냐”는 지적도 했다. 한 고검장 출신 변호사는 “법원이 지난 24일과 25일 공수처가 보낸 사건에 검찰의 보완 수사권을 인정하지 않으면서도 공수처에 내란죄 수사권이 있는지는 밝히지 않았다”면서 “윤 대통령 측은 법정에서 공수처 수사가 위법하다며 공소 기각을 요구할 수 있다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/LOZ27NP67RJ2FBWDRWMATHBJ6E.JPG?width=2700&amp;height=1800&amp;auth=f4e76e2e987faad4b238bc9345f1aa2dd1a6865f3bf75bfaecc74d1a4066fd2e&amp;smart=true" type="image/jpeg" height="1800" width="2700">
-        <media:description type="plain">나경원 의원 등 국민의힘 의원들이 16일 오후 경기도 과천시 고위공직자범죄수사처(공수처) 민원실 앞에서 윤석열 대통령에 대한 구속영장을 집행한 공수처를 규탄하는 기자회견을 열고 구호를 외치고 있다./뉴스1</media:description>
-        <media:credit role="author" scheme="urn:ebu">(과천=뉴스1) 민경석 기자</media:credit>
-      </media:content>
-    </item>
-    <item>
-      <title>막판에야 “법대로”… 무원칙 대응으로 혼선 자초한 법원</title>
-      <link>https://www.chosun.com/national/court_law/2025/01/27/JR2QSWATDBG5VE442XTT4A363A/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/01/27/JR2QSWATDBG5VE442XTT4A363A/</guid>
-      <dc:creator>유희곤 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 26 Jan 2025 16:02:27 +0000</pubDate>
-      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DCBYOFLUDAHWFNMI2Q6PZ3SBH4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 서울중앙지방법원. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;법원이 검찰 특별수사본부의 윤석열 대통령 구속영장 기간 연장 신청을 두 차례나 불허한 이유는 한마디로 공수처가 기소를 요구한 윤 대통령 내란 혐의에 대해 검찰은 보완 수사를 할 법적 근거가 없다는 것이었다. ‘12‧3 비상계엄’ 사태 초기 법률상 내란 수사권이 없는 검찰과 공수처가 청구한 체포·구속영장을 광범위하게 인정했던 법원이 윤 대통령 탄핵과 수사에 대한 부정적 여론이 커지자 뒤늦게 ‘법대로 하겠다’는 식으로 입장을 바꿨다는 비판이 나온다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇여론 따라 오락가락한 법원 판단&lt;/b&gt;&lt;br&gt;&lt;br&gt;서울중앙지법 최민혜 판사는 지난 25일 검찰의 윤 대통령 구속 기간 연장 재신청을 불허하면서 전날 같은 법원 김석범 영장전담 부장판사와 비슷한 이유를 들었다고 한다. ‘공수처 검사는 기소권이 없는 사건을 수사했을 때 증거물 등을 서울중앙지검에 송부해야 하고, 검찰청 검사는 공소 제기 여부를 공수처에 신속하게 통보해야 한다’는 공수처법 조문을 ‘엄격하게’ 본 것이다. 법 조항을 문자 그대로 해석해 검찰은 기소를 할지 말지만 판단하면 되지, 추가로 보완 수사를 할 권리는 없다고 한 것이다.&lt;br&gt;&lt;br&gt;이를 두고 법원이 여론에 따라 법 해석 재량을 최대한 활용하고 있다는 지적이 법조계에서 나온다. 비상계엄 사태 초반 윤 대통령을 탄핵하고 수사해야 한다는 여론이 높았을 때는 검찰과 공수처의 수사권을 폭넓게 인정하다가, 이후 공수처의 무리한 수사와 탄핵 심판 진행 등으로 윤 대통령 측에 유리한 여론이 조금씩 늘어나자 수사권을 엄격히 해석하는 쪽으로 다시 방향을 튼 것 아니냐는 것이다.&lt;br&gt;&lt;br&gt;앞서 법원은 지난달 10일 김용현 전 국방장관의 구속영장을 발부하면서 검찰의 내란죄 수사권을 인정했다. 내란죄는 검찰이 수사를 개시할 수 있는 범죄가 아니지만, 조지호 경찰청장 등 경찰관의 범죄는 검찰의 직접수사 대상이어서 이들의 공범인 김 전 장관 등도 수사할 수 있다는 취지였다.&lt;br&gt;&lt;br&gt;법원은 이후 공수처의 내란 수사도 인정했다. 공수처에 내란 수사권이 없고, 영장 청구 법원도 법률상 관할인 서울중앙지법에 하지 않아 위법하다는 논란이 있었지만 서울서부지법은 윤 대통령에 대한 체포·수색·구속 영장을 차례로 발부했다. 서울중앙지법도 윤 대통령이 청구한 체포적부심을 기각하고 공수처 손을 들어줬다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BXEHN3R3TVCILC2PJC2BMAXSGI.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=김현국&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;◇법원 내부 비판도 계속돼&lt;/b&gt;&lt;br&gt;&lt;br&gt;이런 행태를 두고 법원 내부에서도 비판이 나오고 있다. 임병렬 청주지법원장은 최근 법원 내부게시판(코트넷)에 “판사들이 상대해야 하는 것은 대법원도, 동료 판사도 아닌 국민”이라며 “국민이 의혹을 갖고 있다면 해소해줄 의무가 있다”고 했다. 서울서부지법이 지난 12일 “피의자가 증거를 인멸할 우려가 있다”고 한 15자(字)짜리 윤 대통령 구속영장 발부 사유가 “국민을 설득하기에 충분치 않다”고 한 것이다.&lt;br&gt;&lt;br&gt;전직 고법 부장판사 출신 변호사는 “앞으로 검찰은 수사가 부실하면 부실한 대로 공수처가 송부한 사건을 기소할지만 판단하라는 것인데 검찰이 받아들이지 못할 것”이라며 “공수처법이 허술해서 발생한 일인데 법원이 지금껏 제대로 정리를 하지 않아 발생한 문제”라고 했다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇구속 기간 만료 시점도 논란&lt;/b&gt;&lt;br&gt;&lt;br&gt;법원의 윤 대통령 구속 기간 연장 불허 결정은 ‘구속 기간이 언제까지냐’는 새로운 논란 거리도 만들었다. 26일 윤 대통령 변호인단 소속인 윤갑근 변호사는 윤 대통령 구속 기간이 지난 25일 자정에 끝나 즉시 석방해야 한다고 했다. 검찰이 체포 및 구속한 피의자의 1차 구속 기간은 기본 10일이다. 윤 대통령은 지난 15일 오전 10시 33분에 체포됐고, 체포적부심(10시간 30분)과 구속영장 실질심사(33시간)에 걸린 시간(총 43시간 30분)이 이틀(48시간)이 되지 않아 지난 15일부터 11일째인 25일 자정까지만 구속할 수 있다는 것이다. 이에 대해 검찰은 지난 수십 년간 형사 실무상 구속 기간은 시간이 아닌 날짜 단위로 계산해 왔고, 구속영장 실질심사에 사흘(지난 17~19일)이 걸린 만큼 체포적부심을 제외해도 구속 기한은 27일까지라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/DCBYOFLUDAHWFNMI2Q6PZ3SBH4.jpg?width=2700&amp;height=1799&amp;auth=a3e18d9a1584ef48f17871275de67a28c080a79327ecc4ab1d6574e14e813ccf&amp;smart=true" type="image/jpeg" height="1799" width="2700">
-        <media:description type="plain">서울 서초구 서울중앙지방법원. /뉴스1</media:description>
-        <media:credit role="author" scheme="urn:ebu">뉴스1 ⓒ News1 민경석 기자</media:credit>
-      </media:content>
-    </item>
-    <item>
-      <title>에어부산 항공기, 항공유 제거 없이 내달 3일 감식 돌입</title>
-      <link>https://www.chosun.com/national/transport-environment/2025/01/31/5WHXLWTT4NB3RMTTM7FATEXGAM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/01/31/5WHXLWTT4NB3RMTTM7FATEXGAM/</guid>
-      <dc:creator>김아사 기자</dc:creator>
-      <description>김해공항에서 발생한 에어부산 화재 사고를 조사하는 국토교통부 항공철도사고조사위원회는 “2월 3일 현장 감식에 돌입한다”고 31일 밝혔다. 16t에 달하는 항공유는 제거하지 않고 감식에 들어가기로 했다.사고조사위는 이날 “31일 오전 동체, 내부 부품 및 화물칸의 화재 영향 여부 등 안전점검을 실시했다”며 “항공기의 전반적인 안전상황을 감안하여 탑재된 연료는 제거하지 않고 3일 현장 감식을 진행할 것”이라고 밝혔다.</description>
-      <pubDate>Fri, 31 Jan 2025 06:00:03 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QHA65B6DWDDERPPHTBJWD7NCVE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;31일 오전 부산 강서구 김해국제공항 에어부산 항공기 화재 현장에서 프랑스 항공사고조사위원회(BEA) 관계자들이 합동 감식에 앞서 위험관리평가를 위한 현장 조사를 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김해공항에서 발생한 에어부산 항공기 화재 사고를 조사하는 국토교통부 항공철도사고조사위원회는 “2월 3일 현장 감식에 돌입한다”고 31일 밝혔다. 안전 우려 탓에 검토됐던 항공유 제거 작업은 시행하지 않고 그대로 감식에 착수하기로 했다.&lt;br&gt;&lt;br&gt;사고조사위는 이날 “오늘 오전 동체, 내부 부품 및 화물칸의 화재 영향 여부 등 안전점검을 실시했다”며 “항공기의 전반적인 안전 상황을 감안해 탑재된 1연료는 제거하지 않고 3일 현장 감식을 진행할 것”이라고 밝혔다.&lt;br&gt;&lt;br&gt;항공유 제거 작업을 진행하지 않는데도 곧바로 감식에 돌입하지 않는 건, 주말 공항 주변에 비가 내릴 가능성이 있기 때문이다. 사조위 측은 “현장 감식은 시료 채취, 분석, 분류 작업 등에 대한 연속성이 중요하다”며 “주말에 예상되는 우천 상황을 고려해 날짜를 결정했다”고 말했다.&lt;br&gt;&lt;br&gt;이날 오후부터 항공기 기체는 우천에 대비해 천막으로 가려진다. 동체 하부 화물칸에 실려 있는 승객 위탁 수화물은 보안 점검 뒤 에어부산으로 인도해 승객에게 인계될 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[속보] 헌재 “정치권 재판관 개인 성향 획일정 단정, 탄핵심판 본질 왜곡 우려”</title>
