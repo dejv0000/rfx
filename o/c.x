@@ -13,6 +13,42 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>“시골 사는 어머니만을 위한 버스 알림 앱”... 컴공과 대학생의 효도</title>
+      <link>https://www.chosun.com/national/national_general/2025/02/02/SMRUZU5GWZDGNF2BWROIJ5A4XQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/02/02/SMRUZU5GWZDGNF2BWROIJ5A4XQ/</guid>
+      <dc:creator>김도연 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 02 Feb 2025 13:14:05 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CYN3VTSEIJE2XIEOVAAWV6VQQU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;시골에 사는 어머니를 위해 단 하나의 버스 알림 앱을 만든 대학생 서희찬(오른쪽)씨와 그의 어머니./서희찬씨 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;시내버스 배차 간격이 긴 지방에 사는 어머니가 버스를 놓치지 않도록 단 하나의 버스 알림 앱을 만든 대학생의 영상이 소셜미디어에서 조회수 579만회를 기록하며 인기를 끌고 있다.&lt;br&gt;&lt;br&gt;동국대 AI소프트웨어융합학부에 재학 중인 서희찬(26)씨는 새해 첫날부터 경남 마산 진동면에 사는 어머니(55)만을 위한 버스 알림 앱 ‘진동 버스’를 만들었다.&lt;br&gt;&lt;br&gt;이 앱은 버스 시간표에 기반해 서씨의 어머니가 출발하는 시각에 따라 알맞은 버스를 추천해준다. 차고지와 가까운 곳에 사는 서씨의 어머니를 고려해, 차고지에서 출발하지 않아도 버스 도착까지 남은 시간을 알려준다. 정식 배포된 앱은 아니며 오롯이 서씨의 어머니만 사용할 수 있는 앱이다.&lt;br&gt;&lt;br&gt;서씨는 “일반 지도 앱은 차고지에서 버스가 출발하지 않으면 아무 정보도 알려주지 않는데, 내가 만든 앱은 시간표에 기반했기 때문에 출발 여부와 상관 없이 도착까지 남은 시간을 알려준다”며 “서울에서는 배차 간격이 짧아 버스를 놓쳐도 다음 버스를 기다려야 하지만, 시골에서는 버스를 한 번 놓치면 버려야 하는 시간이 너무 길다”고 했다.&lt;br&gt;&lt;br&gt;서씨의 어머니는 제 시각에 버스를 타기 위해서는 늘 휴대폰 사진첩에 버스 시간표를 저장해두고 나갈 때마다 확인해야 했다고 한다. 한 번 버스를 놓치면 다음 버스가 올 때까지 40분 가량 기다리거나, 큰 길가에 있는 정류장까지 20여분 동안 걸어가야 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/V3EMDKIWGJBMDBGPWK5TXP5ATA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서씨가 버스 알림 앱을 만든 과정을 담은 영상 '개발자 아들이 효도하는 법'./소셜미디어 '인스타그램'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난달 서씨가 이 앱을 만드는 과정을 담아 ‘개발자 아들이 효도하는 법’이란 제목의 영상을 소셜미디어에 올리자, 2일 기준 조회수 579만회를 기록할 만큼 누리꾼들의 관심을 끌었다. 누리꾼들은 “어머니께서 아들 너무 잘 키우셔서 뿌듯하겠다” “효자다, 효자. 눈물이 다 난다” “우리 동네에도 꼭 필요한 앱” 등의 반응을 보였다.&lt;br&gt;&lt;br&gt;서씨의 어머니가 사는 마산 진동면을 비롯, 지방은 버스 노선이 줄고 배차 간격이 늘며 교통 취약 지역이 느는 추세다. 국토교통부의 ‘대중교통 현황조사’에 따르면 서울은 10.1분, 부산 12.8분, 인천 15.2분 등 도시지역 배차시간은 20분을 넘기지 않으나 농촌지역이 많은 전남은 55.4분, 경북 70.7분, 강원 71.1분, 충남 66.6분 등으로 조사됐다.&lt;br&gt;&lt;br&gt;오는 3월부터 서씨는 AI 연구 경쟁력이 가장 탁월한 학교로 평가받는 카네기멜런대(CMU) 연구원으로 일하게 된다. 이후에는 로봇 AI 전공 박사 과정을 밟을 예정이다. 그는 “긴 유학을 떠나기 전 어머니께 작게나마 효도를 하고 갈 수 있어 다행”이라며 “수도권과 달리 지방이 겪는 어려움을 기술로 간단히 해결하는 데 일조하고 싶었다”고 했다.&lt;br&gt;&lt;br&gt;그는 탑승객이 몰려 인천국제공항이 아비규환이 된 설 연휴 동안 탑승객 데이터를 기반으로 공항의 포화 상태를 알려주는 웹사이트를 만들어 소셜미디어에 공유하기도 했다. 서씨는 “앞으로도 기술로 일상의 불편함을 해결하는 개발자가 되고 싶다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>산골마을의 기적... 화천 산천어 축제에 186만명 찾았다 </title>
+      <link>https://www.chosun.com/national/2025/02/02/SHO5244UUZDJZAX76IOSXEWQFI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2025/02/02/SHO5244UUZDJZAX76IOSXEWQFI/</guid>
+      <dc:creator>김준호 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 02 Feb 2025 12:30:39 +0000</pubDate>
+      <content:encoded>인구 2만3000여명에 불과한 최전방 산골 마을인 강원 화천군에 20여일간 186만명이 찾았다. ‘2025 화천산천어축제’를 즐기려는 관광객들이었다. 긴 설 연휴가 겹치면서 20회째를 맞은 이번 축제에 최다 방문 기록을 새로 썼다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4VXZVBSZPBLUNA52MRM37AV5CE.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;화천산천어축제 폐막일인 2일, 축제장인 화천천 일대가 이른 아침부터 축제를 찾은 관광객으로 가득 차 있다. /화천군&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;화천군은 지난달 11일 개막해 2일 폐막한 올해 산천어축제에 186만명이 찾은 것으로 집계됐다고 밝혔다. 이는 2003년 축제가 시작한 이래 가장 많은 숫자다. 종전 축제 최다 방문객 기록은 2019년 184만명이었다.&lt;br&gt;&lt;br&gt;올해 축제에는 외국인 관광객도 12만2000여명이 찾아 축제 흥행에 힘을 보탰다. 지난해 축제 때 외국인 관광객 8만5000명 기록을 훌쩍 뛰어넘었다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RZYM6CIO4RGMRKVKWJTB3CTJXE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;'2025 산천어축제'가 열린 지난달 12일 축제장인 강원 화천군 화천읍 화천천에서 산천어맨손잡기 체험 참가자들이 즐거워하고 있다. /박상훈 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;축제장은 평일과 주말 가릴 것 없이 수많은 관광객으로 붐볐다. 가족·연인·친구들과 함께 축제장을 찾은 이들은 얼음 구멍에 낚싯대를 드리우며 손맛을 즐겼다. 산천어 맨손 잡기 체험 행사장과 화천읍 서화산 다목적 광장에 조성한 국내 최대규모의 실내 얼음 조각 전시장에도 많은 인파가 몰렸다. 축제장 내에 마련된 농특산물 판매장도 축제 흥행에 판매 효과를 톡톡히 누린 것으로 전해졌다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FSVN4B2Q6FFZTOFP3OKEHB2VIY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;'2025 산천어축제'가 열린 지난달 12일 축제장인 강원 화천군 화천읍 화천천에 수많은 인파가 몰려 겨울낚시를 즐기고 있다. /박상훈 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EYWDUCZ43NCF3EXWWOY2MYCOPM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;'2025 산천어축제'가 열린 지난달 12일 축제장인 강원 화천군 화천읍 화천천에 수많은 인파가 몰려 겨울낚시를 즐기고 있다. /박상훈 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;화천군은 올해 축제 기간 이어진 긴 설 연휴와 지속적인 한파로 많은 관광객이 찾은 것으로 보고 있다. 특히 동남아시아를 중심으로 해외에서 집중적으로 홍보활동을 펼쳐 외국인 관광객들이 많이 늘어난 것으로 보고 있다.&lt;br&gt;&lt;br&gt;인구 2만3000여명에 불과한 산골 마을인 화천군은 산천어축제를 통해 겨울축제 도시라는 명성이 붙었다. 2018년부터 5년 연속 ‘대한민국 대표 축제’로 선정됐고, 지난해에는 국내 겨울 축제 중 처음으로 문화체육관광부의 글로벌 육성 축제로 지정됐다. 2006년부터 매년 화천군 인구의 50배가 넘는 관광객 100만명 이상 유치에 성공하고 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AIW6HPZDDJLPVPEZWWOEI5BC2A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 11일 '2025 산천어축제'가 개막한 가운데 축제장인 강원 화천군 화천읍 화천천을 찾은 외국인 관광객이 낚은 산천어를 들어보이며 즐거워 하고 있다.  /연합뉴스 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최문순 화천군수는 “올해 설 연휴기간에 축제가 열리면서 많은 관광객이 찾았고, 축제기간 파크골프장과 평화의댐 등 인근 관광지에도 관광객 발길이 이어져 축제를 통한 사계절 관광지의 가능성도 보여줬다”며 “앞으로도 안전을 최우선으로 관광객이 즐겁고 행복한 축제를 만들어 지역 경기에 큰 도움이 되도록 하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>제천 주택서 50대女 숨진 채 발견... 용의자 前남편은 야산서 숨져</title>
+      <link>https://www.chosun.com/national/2025/02/02/644HMK77TJCRDG7ZPIJVASVRCA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2025/02/02/644HMK77TJCRDG7ZPIJVASVRCA/</guid>
+      <dc:creator>김준호 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 02 Feb 2025 11:23:37 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/L4GEXC5HOZAC5NA5TDDI7RQ23U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;충북 제천의 한 주택에서 50대 여성이 숨진 채 발견됐다. 용의자로 추정되는 남성도 인근 야산에서 숨진 채 발견돼 경찰이 정확한 사건 경위 파악에 나섰다.&lt;br&gt;&lt;br&gt;2일 경찰에 따르면 오전 7시 37분쯤 충북 제천시 천남동 한 주택에서 50대 여성 A씨가 숨져 있는 것을 가족이 발견해 경찰에 신고했다.&lt;br&gt;&lt;br&gt;A씨 목에는 졸린 듯한 흔적이 발견된 것으로 전해졌다.&lt;br&gt;&lt;br&gt;경찰은 전남편인 B씨를 용의자로 보고 추적에 나섰다. 하지만 B씨 역시 인근 야산에서 숨진 채 발견됐다. B씨에게 타살 혐의점은 발견되지 않은 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “타살 등 여러 가능성을 열어두고 수사를 진행하고 있다”며 “A씨에 대한 부검 등을 통해 정확한 사망 원인을 조사할 방침이다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>여교사에게 성적 발언한 남중생… ‘봉사 3시간’ 불복 소송했다가 결국</title>
+      <link>https://www.chosun.com/national/national_general/2025/02/02/EG4JADOC2NF7JFPGWNFWMAP3TA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/02/02/EG4JADOC2NF7JFPGWNFWMAP3TA/</guid>
+      <dc:creator>문지연 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 02 Feb 2025 10:52:39 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JHWE22LGVBCVHJU35XWRGTUTZU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 중앙지방법원 로비에 법원 마크가 밝게 빛나고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;수업 중 여교사에게 부적절한 성적 언동을 한 남중생이 사회봉사 처분에 불복해 행정소송을 제기했다가 패소했다.&lt;br&gt;&lt;br&gt;2일 법조계에 따르면 최근 수원지법 행정3부(부장판사 김은구)는 A군 측이 재학했던 B중학교를 상대로 제기한 교권보호위원회 조치 처분 취소 소송에서 “원고의 청구를 기각하고 소송 비용은 원고가 부담한다”며 원고 패소 판결을 내렸다.&lt;br&gt;&lt;br&gt;앞서 A군은 B중학교 2학년이던 2023년 11월 수업 중 여교사 C씨의 지시를 따르지 않고 “성기가 섰다”는 부적절한 말을 반복해, C씨에게 성적 수치심을 느끼게 한 이유로 교권보호위원회에 회부됐다. 이후 위원회는 A군의 행동을 교육활동 침해행위로 판단하고 사회봉사 3시간 처분을 내렸다.&lt;br&gt;&lt;br&gt;그러자 A군 측은 처분을 취소해달라는 불복 행정소송을 제기했다. 학교의 사전 통지 부족으로 방어권을 제대로 행사할 수 없었고, 애초 문제의 발언도 성기를 사용했다는 의미의 ‘썼다’로 말한 것을 C씨가 ‘섰다’로 잘못 들었을 뿐 성적 언동으로 교육활동을 방해한 적 없다는 주장이었다.&lt;br&gt;&lt;br&gt;하지만 법원은 이를 받아들이지 않았다. 재판부는 “공개된 장소에서 성기와 관련된 행위를 적나라하게 입에 담는 건 극히 무례한 행위이고 여성인 피해 교사에겐 성적 수치심까지 일으킬 수 있다”며 “남자 성기와 관련된 말인 이상 A군이 실제 말한 ‘썼다’이든 교사가 들은 ‘섰다’이든 성적 함의를 담은 언동이란 면에선 크게 다르지 않다”고 했다.&lt;br&gt;&lt;br&gt;이어 “원고가 중등교육을 받을 정도의 연령까지 수학한 이상 설령 동급생으로부터 불쾌한 장난을 당했더라도 수업에 방해되지 않게 반응을 자제해야 마땅한데도 소란을 피우고 진정하라는 지도에 따르지 않았던 사정을 더해 본다면 교육활동을 침해했다고 보기 충분하다”고 했다.&lt;br&gt;&lt;br&gt;또 학교 측이 C씨의 신고서를 바탕으로 A군과 면담하고 학부모와도 여러 번 연락한 점을 언급하며 “교권보호 담당교사는 사건 회의가 열린 날까지 A군 부친과도 5차례 통화했고 부친은 피해 교사에게 사과 편지를 쓰면 전달해 줄 수 있는지, 회의 날짜를 변경할 수 있는지 등을 물었다”면서 절차적 하자가 없었다고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>국회 측 "마은혁 권한쟁의 청구, 국회 의결 불필요"</title>
       <link>https://www.chosun.com/national/court_law/2025/02/02/JJQC563VMZEG3CRDQI6REFO6NI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/02/02/JJQC563VMZEG3CRDQI6REFO6NI/</guid>
@@ -933,42 +969,6 @@ The Chosunilbo</media:credit>
       <description/>
       <pubDate>Fri, 31 Jan 2025 12:01:04 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VWWMQLRLPNOB7K5VF44NNYXFUM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;31일 서울 종로구 성균관대학교 앞으로 학생들이 지나가고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 주요 사립대 9곳이 2025학년도 학부 등록금을 모두 인상한 것으로 31일 나타났다. 교육부가 대학들에 등록금 동결을 요청했지만, 16년간 정부 정책으로 등록금이 묶였던 대학들이 재정적 한계에 직면하면서 줄줄이 등록금 인상에 나선 것으로 보인다.&lt;br&gt;&lt;br&gt;각 대학에 따르면, 고려대는 이날 4차 등록금 심의 위원회(등심위)를 열고 등록금을 5% 인상하기로 결정했다. 고려대가 마지막으로 등록금을 인상한 건 2009년이다. 2010년부터 지난해까지는 등록금을 동결했다. 고려대는 지난 10일 1차 등심위에서 등록금 5.49% 인상안을 제시했다. 이후 학생 측에서 4.5% 인상을 제시하면서, 5% 인상으로 의결된 것으로 전해졌다. 대학 등록금은 교직원·학생 등으로 구성된 각 대학의 등심위에서 매년 1월쯤 결정한다.&lt;br&gt;&lt;br&gt;성균관대 역시 지난 20일 5차 등심위에서 등록금을 4.9% 인상하기로 결정했다. 성균관대가 마지막으로 등록금을 인상한 건 2011년이다. 2012년엔 등록금을 인하했고, 2013년부터 지난해까지는 등록금을 동결했다.&lt;br&gt;&lt;br&gt;학생 측에 5.3~5.49% 인상안을 제시했던 연세대는 지난 23일 4차 등심위에서 등록금 4.98% 인상을 결정했다. 연세대 총학생회는 “학생 위원 5명의 반대에도 교직원과 전문가 위원 6명의 찬성으로 등록금 인상이 의결돼 유감”이라며 “등록금 인상에 따른 수익이 학생들에게 쓰일 수 있도록 학교와 소통하겠다”고 했다.&lt;br&gt;&lt;br&gt;중앙대는 지난 22일 등록금 4.95% 인상을, 경희대는 지난 17일 등록금 5.1% 인상을 결정했다. 앞서 서강대(4.85%), 한양대(4.9%), 이화여대(3.1%), 한국외대(5%)도 올해 등록금 인상을 결정했다. 이로써 서울 주요 사립대 9곳의 올해 등록금이 모두 인상됐다. 대학들은 등록금 인상분을 실험 및 실습 교실 개선, 우수 교수 채용 등에 투자하겠다는 계획이다.&lt;br&gt;&lt;br&gt;교육부는 올해 등록금 인상 움직임이 커지자 등록금을 동결 또는 인하하는 대학에 대학 혁신 지원 사업의 인건비 집행 한도를 25%에서 30%로 올려주는 등의 유인책을 발표했다. 교육부는 2009년부터 학부모의 등록금 부담을 줄이기 위해 등록금을 인상한 대학에 ‘국가 장학금 2유형’을 지원하지 않는 방법 등으로 등록금 동결을 사실상 강요해 왔다. 서울 주요 사립대들은 등록금을 인상하는 이유로 오랫동안 지속된 등록금 동결로 재정난이 심해졌다며, 대학 경쟁력이 추락하는 문제를 더 이상 방치할 수 없다고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>충북 음성군 양계장서 불.. 닭 1만5000마리 폐사</title>
-      <link>https://www.chosun.com/national/2025/01/31/FRHDQQUYW5ECFLYI642TZK4P3Q/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2025/01/31/FRHDQQUYW5ECFLYI642TZK4P3Q/</guid>
-      <dc:creator>김주영 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 31 Jan 2025 12:03:43 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UZARZKOEUKZBP25XYQKSNVEM7U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;31일 오후 충북 음성군 삼성면의 한 양계장에서 불이 나 닭 1만 5000마리가 폐사했다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;31일 오후 3시 20분쯤 충북 음성군 삼성면의 한 양계장에서 불이 났다.&lt;br&gt;&lt;br&gt;이 불로 1층짜리 계사 5개 동 중 2개 동이 소실됐으며, 닭 1만5000마리가 폐사했다.&lt;br&gt;&lt;br&gt;신고받고 출동한 소방 당국은 화재 발생 50분 만인 오후 4시 10분쯤 불을 모두 껐다.&lt;br&gt;&lt;br&gt;경찰과 소방 당국은 정확한 화재 원인과 피해액을 조사할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>MBC, 故 오요안나 사망원인 조사… “정확한 사실관계 밝힐 것”</title>
-      <link>https://www.chosun.com/national/national_general/2025/01/31/TJN3NLIIFFB3XP4KJP73OMIZLM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/31/TJN3NLIIFFB3XP4KJP73OMIZLM/</guid>
-      <dc:creator>박선민 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 31 Jan 2025 11:13:20 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/K34LE25VA5ETJHIORPDAPSYDVE.png"&gt;&lt;figcaption&gt;&lt;small&gt;/고(故) 오요안나 MBC 기상캐스터 인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;고(故) 오요안나 MBC 기상캐스터가 직장 내 괴롭힘으로 인해 극단적 선택을 했다는 의혹이 최근 제기된 가운데, MBC는 진상조사위원회를 구성해 오씨의 사망 원인을 조사하겠다고 밝혔다.&lt;br&gt;&lt;br&gt;MBC는 31일 보도자료를 통해 “고 오요안나씨 사망의 원인과 진실을 규명하기 위해 외부전문가를 위원장으로 하는 진상조사위원회를 구성하기로 했다”고 했다.&lt;br&gt;&lt;br&gt;MBC는 “공정하고 객관적인 조사를 위해 진상조사위원회에는 법률가 등 복수의 외부 전문가가 참여하게 된다”며 “회사 내 인사 고충 관련 조직의 부서장들도 실무위원으로 참여해 정확한 조사를 뒷받침하기로 했다”고 했다. 그러면서 “진상조사위원회의 조사는 주말 사이 사전 준비를 거쳐 다음주 초부터는 본격적으로 시작될 예정”이라고 했다.&lt;br&gt;&lt;br&gt;MBC는 “고인의 사망을 둘러싼 의혹이 제기된 직후 내부적으로 자체 조사를 진행해 왔다”며 “지금까지 확보된 사전 조사 자료 일체를 위원회에 제공해 원활하고 신속하게 진실이 규명될 수 있도록 최대한 지원할 계획”이라고도 했다.&lt;br&gt;&lt;br&gt;유족을 향해서는 “고인의 명복을 빌며, 정확한 사실관계를 밝혀 유족들의 아픔이 치유될 수 있도록 모든 노력을 다하겠다”고 했다.&lt;br&gt;&lt;br&gt;앞서 오씨는 작년 9월 28세의 나이로 세상을 떠났고, 사망 소식은 같은 해 12월 알려졌다. 당시에는 오씨 사망 이유가 구체적으로 공개되지 않았으나, 지난 27일 매일신문은 오씨가 특정 기상캐스터 2명으로부터 직장 내 괴롭힘 피해를 호소하는 내용의 원고지 17장 분량 총 2750자의 유서를 작성한 뒤 극단적 선택을 했다고 보도했다. 이후 사건이 공론화되자, MBC는 입장문을 통해 “고인이 프리랜서로 일하면서 자신의 고충을 담당부서나 함께 일했던 관리 책임자들에 알린 적이 전혀 없었다”면서도 유족이 요청한다면 진상 조사에 착수하겠다는 입장을 밝혔다.&lt;br&gt;&lt;br&gt;오씨의 유족은 고인의 휴대전화 속 유서와 통화 내용, 메시지 등을 바탕으로 동료 직원을 상대로 민사소송을 제기한 상태다. 지난달 23일 서울중앙지방법원에 직장 내 괴롭힘에 따른 손해배상 청구 소송을 제기했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>법원행정처 홈페이지 새 단장...판결문 열람, 소송 서류 제출 간편해져</title>
-      <link>https://www.chosun.com/national/national_general/2025/01/31/XGY57VLTUBHMXI47OXBO6OKHSM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/31/XGY57VLTUBHMXI47OXBO6OKHSM/</guid>
-      <dc:creator>김나영 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 31 Jan 2025 11:01:14 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FOWQKN32OJAARJZ77MCREQG5CA.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;법원 전자소송포털 홈페이지/법원 홈페이지 캡처&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대법원 산하 법원행정처가 31일 홈페이지를 새 단장했다. 2020년부터 추진해 온 ‘차세대 전자소송 시스템’이 본격적으로 개통한 것이다. 여기저기 흩어져있던 각종 법률 서비스를 한데 모으고, 판결문 열람 등도 간편하게 할 수 있어 이용자들의 법 접근성이 좋아질 것이란 기대감이 나온다.&lt;br&gt;&lt;br&gt;법원행정처는 설 연휴 기간이었던 지난 25~30일 시스템 재단장 및 서버 안정화 작업을 거쳐 이날 홈페이지를 새로 열었다. 기존 종합법률정보 확인, 판결서 인터넷 열람, 판결서 사본 제공, 정보공개 청구 등은 각기 다른 홈페이지에서 할 수 있었으나 앞으로는 사법정보 공개포털 한 곳에서 이루어진다. 전자소송과 나홀로소송, 전자민원센터 서비스는 전자소송포털로 합쳐졌다. &lt;br&gt;&lt;br&gt;소송 절차도 간편해졌다. 이용자들이 소송에 필요한 전자발급서류를 이 시스템을 통해 제출할 수 있게 됐기 때문이다. 인터넷으로 발급받을 수 있는 증명 서류의 종류도 기존 5종에서 19종으로 늘어났고, 간편 결제 기능도 더해졌다.&lt;br&gt;&lt;br&gt;차세대 전자소송 시스템은 이날 오전 개통 직후 약간의 지연이 있었으나 현재는 큰 문제 없이 운영되고 있다. 법원행정처 관계자는 “설 연휴 동안 홈페이지를 이용하지 못했던 사건 당사자와 로펌 등의 접속이 몰려 지연이 있었지만, 시스템 자체는 이상 없이 작동하고 있다”고 설명했다. &lt;br&gt;&lt;br&gt;부동산·법인 등기 발급 등과 관련해 이용자 편의를 개선한 미래등기 시스템도 개통 초기 일부 지연이 발생했으나 현재는 정상적으로 운영되고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“불법적 공격에 흔들리지 않고 임무 수행할 것”...김태업 서부지법원장 취임</title>
-      <link>https://www.chosun.com/national/national_general/2025/01/31/4BGGFFF2QJE3TEJZD4FLEIUYKI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/31/4BGGFFF2QJE3TEJZD4FLEIUYKI/</guid>
-      <dc:creator>강지은 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 31 Jan 2025 10:27:05 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MEGIO4NC3OJIJXWRGJ2CVUVUJQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김태업 서울서부지법원장&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;31일 서울서부지법은 김태업 신임 법원장의 취임식을 열었다고 밝혔다. 정계선 전임 법원장이 헌법재판관으로 임명되자 공석이 된 자리에 김 법원장이 지난 23일 법원 정기 인사를 앞두고 임명됐다.&lt;br&gt;&lt;br&gt;사법연수원 25기인 김 법원장은 지난 26년 동안 각급 법원에서 근무하며 다양한 재판 업무와 사법 행정 업무를 담당했으며 2008년부터 3년간 대법원 재판연구관을 지내기도 했다.&lt;br&gt;&lt;br&gt;서울서부지법은 이날 “국가의 사법기능에 대한 부당하고 불법적인 공격에도 소송기록을 비롯한 핵심기능을 무사히 보존했다”며 “전체 구성원 모두가 흔들리지 않고 원칙과 기준에 따라 국민이 부여한 임무를 수행함으로써 신속하고 공정한 재판을 통해 국민의 재판받을 권리를 충실히 보장하는 본래의 사법기능을 신속하게 회복하고 국민의 신뢰를 높이는데 기여할 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>“결혼 약속한 남자가 배신” 전재산 날리고 은둔생활 중인 여배우</title>
