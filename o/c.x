@@ -13,6 +13,24 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>국회 측 "마은혁 권한쟁의 청구, 국회 의결 불필요"</title>
+      <link>https://www.chosun.com/national/court_law/2025/02/02/JJQC563VMZEG3CRDQI6REFO6NI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/02/02/JJQC563VMZEG3CRDQI6REFO6NI/</guid>
+      <dc:creator>방극렬 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 02 Feb 2025 09:42:22 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/F6PJ5MNLOPDOWNH36AD7M7ICUM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;마은혁 헌법재판관 후보자가 작년 12월 23일 서울 여의도 국회에서 열린 인사 청문회에서 답변을 고심하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최상목 대통령 권한대행의 마은혁 헌법재판관 후보자 임명 보류 사건 선고를 앞두고 ‘절차적 흠결’이 논란이 되자 국회 측이 2일 “문제없다”며 반박했다. 앞서 우원식 국회의장은 최 권한대행이 민주당이 추천한 마 후보자를 임명하지 않자 권한쟁의 심판을 청구했는데, 이 과정에서 국회 본회의 의결을 거치지 않아 논란이 됐다.&lt;br&gt;&lt;br&gt;국회 측 대리인인 양홍석 변호사는 이날 입장문을 내고 “국회가 권한쟁의 심판을 청구하려면 의결을 거쳐야 하는지와 관련해 헌법과 국회법, 헌법재판소법 어디에도 이런 절차를 요구하지 않고 있다”며 “그간 국회 운영 전례에 비춰봐도 타당하지 않은 주장”이라고 반박했다.&lt;br&gt;&lt;br&gt;그러면서 서울시나 강남구 등 지자체들이 국회를 상대로 낸 권한쟁의 심판을 헌재가 기각한 결정 사례를 인용하며 “헌재는 국회가 당사자인 권한쟁의 사건들을 처리하면서, 의결이 없다는 이유로 부적법하다고 보지 않았다”고 주장했다. 앞서 국회 의결 없이 진행된 권한쟁의 심판 사건에서 헌재가 국회의 소송행위를 적법하다고 인정했다는 취지다.&lt;br&gt;&lt;br&gt;다만 국회 측이 제시한 사례는 모두 국회가 피청구인으로 소송을 당한 입장이었고, 이번 사례처럼 직접 권한쟁의 심판을 청구한 것은 아니었다.&lt;br&gt;&lt;br&gt;양 변호사는 또 국회 의결 없이 권한쟁의 심판을 청구했다가 각하된 사례로 언급되는 2011년 ‘전시 작전통제권’ 관련 사건도 부적법하다는 근거가 되지 않는다고 주장했다. 이 사건은 민주노동당 이정희 대표 등이 “전시 작전통제권의 전환 일정을 2015년으로 연기한 행위는 조약·체결 비준에 대한 동의권을 침해한다”며 이명박 대통령을 상대로 낸 권한쟁의를 각하한 것인데, 당시 헌재는 개별 국회의원이 국회를 대신해 다른 국가기관에 권한쟁의를 낼 수 없다고 판단했다. 이에 양 변호사는 “이 사건은 국회가 당사자가 아니라 개별 국회의원이 제기한 사례로 국회가 당사자인 이번 사건과는 전혀 다르다”고 했다.&lt;br&gt;&lt;br&gt;법조계와 정치권에서는 헌재가 절차적 흠결을 이유로 권한쟁의 심판을 각하해야 한다는 주장이 나온다. 국민의힘 법률자문위원장 주진우 의원은 “(전시 작전통제권 사건 등) 선례에 비춰 각하될 사안”이라고 말했다. 이인호 중앙대 법학전문대학원 교수는 “헌법재판관 3인의 선출 권한을 갖는 것은 국회”라며 “본회의에서 권한쟁의 심판 청구를 안건으로 상정해 그에 대한 심의 표결 절차를 거쳐야 한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>2023년 생활쓰레기 줄어들었다... 왜?</title>
+      <link>https://www.chosun.com/national/transport-environment/2025/02/02/KH2HCUSWLZFG3LFPKFMTBSDA7Q/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/02/02/KH2HCUSWLZFG3LFPKFMTBSDA7Q/</guid>
+      <dc:creator>곽래건 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 02 Feb 2025 08:36:38 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7MXROYT7TZACDBRWAUL5SMTH5Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 31일 광주광역시 북구 월출동 재활용선별장에서 직원들이 설 연휴기간 수거해온 스티로폼를 정리하고 있다. /김영근 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;계속 늘기만 하던 생활 쓰레기 발생이 2023년 처음으로 감소한 것으로 나타났다. 가정에서 내놓는 생활 쓰레기양이 준 것보다는 사업장에서 내놓는 쓰레기가 더 크게 줄었기 때문이다. 내수 경기가 크게 침체했기 때문으로 해석된다.&lt;br&gt;&lt;br&gt;최근 환경부가 고시한 ‘전국 폐기물 발생 및 처리 현황’ 자료에 따르면 지난 2023년 발생한 생활계 폐기물은 총 2241만t으로 전년보다 2.7% 줄었다. 생활계 폐기물은 가정과 사업장에서 종량제 봉투·재활용·음식물 쓰레기 등으로 내놓는 폐기물을 뜻한다. 가정에서 내놓은 생활계 폐기물은 1669만t으로 전년보다 0.4% 줄었지만, 사업장 폐기물은 572만t으로 전년보다 9%(56만t)나 줄었다. 생활계 폐기물은 해에 따라 종종 줄기도 했지만, 사업장 폐기물이 줄어든 것은 2018년 이후 처음이다. 이에 따라 전체 생활계 폐기물도 2018년 이후 처음으로 줄어들었다. 국민 1인당 1일 생활계 폐기물 발생량도 1.17kg을 기록하며 전년보다 2.8%가량 줄었다.&lt;br&gt;&lt;br&gt;특히 사업장에서 내놓는 음식물 쓰레기양이 눈에 띄게 줄었다. 2022년 44만t에서 2023년 37만t으로 16%가량 줄어든 것이다. 생활계 폐기물을 내놓는 사업장은 보통 별도의 폐기물 배출 장비가 없는 곳을 말한다. 배출 장비가 있는 사업장의 폐기물은 별도 집계한다. 결국 자영업자들이 내놓은 음식물 쓰레기가 그만큼 줄어들었다는 뜻이다. 2023년은 코로나19로 인한 사회적 거리두기는 해제됐지만, 우크라이나 전쟁 여파 등으로 고물가와 소비 축소가 이어진 해다.&lt;b&gt; &lt;/b&gt;2023년 자영업 폐업자 수는 97만6000명에 육박하며 통계가 집계된 2006년 이후 역대 최대치를 기록했다.&lt;br&gt;&lt;br&gt;한편, 가정 생활 쓰레기를 가장 많이 배출하는 지역은 경기(409만t)로 집계됐다. 이어 서울(289만t), 경북(96만t), 부산(87만t) 등의 순이었다. 가장 적은 곳은 세종(10만t), 울산(35만t), 제주(44만t) 등의 순서였다. 사업장 생활 폐기물도 경기(149만t), 서울(91만t), 인천(68만t), 경남(38만t) 등의 순으로 많았다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>이재명, ‘통신정보제공’통지에 “끝이 없다”…檢 “출석요구 위한 것”</title>
       <link>https://www.chosun.com/national/court_law/2025/02/02/R2BLGN6IB5D2RGF7BZ6U6SRT2M/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/02/02/R2BLGN6IB5D2RGF7BZ6U6SRT2M/</guid>
@@ -951,24 +969,6 @@ The Chosunilbo</media:credit>
       <description/>
       <pubDate>Fri, 31 Jan 2025 10:27:05 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MEGIO4NC3OJIJXWRGJ2CVUVUJQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김태업 서울서부지법원장&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;31일 서울서부지법은 김태업 신임 법원장의 취임식을 열었다고 밝혔다. 정계선 전임 법원장이 헌법재판관으로 임명되자 공석이 된 자리에 김 법원장이 지난 23일 법원 정기 인사를 앞두고 임명됐다.&lt;br&gt;&lt;br&gt;사법연수원 25기인 김 법원장은 지난 26년 동안 각급 법원에서 근무하며 다양한 재판 업무와 사법 행정 업무를 담당했으며 2008년부터 3년간 대법원 재판연구관을 지내기도 했다.&lt;br&gt;&lt;br&gt;서울서부지법은 이날 “국가의 사법기능에 대한 부당하고 불법적인 공격에도 소송기록을 비롯한 핵심기능을 무사히 보존했다”며 “전체 구성원 모두가 흔들리지 않고 원칙과 기준에 따라 국민이 부여한 임무를 수행함으로써 신속하고 공정한 재판을 통해 국민의 재판받을 권리를 충실히 보장하는 본래의 사법기능을 신속하게 회복하고 국민의 신뢰를 높이는데 기여할 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>檢, ‘尹 체포 저지' 경호차장 구속영장 재차 반려</title>
-      <link>https://www.chosun.com/national/national_general/2025/01/31/B3RYSUCG5ZH47GVW2REQZY7WVY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/01/31/B3RYSUCG5ZH47GVW2REQZY7WVY/</guid>
-      <dc:creator>김도균 기자, 강지은 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 31 Jan 2025 10:38:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/A7EEHTPMJRLT7VX2BJAUTBSARI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김성훈 대통령경호처 차장이 지난 24일 오전 서울 서대문구 경찰청 국가수사본부 특별수사단에 출석하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울서부지검은 31일 경찰이 신청한 김성훈 대통령 경호처 차장과 이광우 본부장에 대한 구속영장을 반려했다. 검찰 관계자는 “경호처법상 ‘직권남용’ 부분에 대해 혐의를 소명하려면 경호처 내부 규정을 확인해야 할 필요가 있다고 판단해 이 부분에 대한 보완 수사를 요구했다”고 밝혔다.&lt;br&gt;&lt;br&gt;경찰 국가수사본부 비상계엄특별수사단이 지난 24일 김 차장과 이 본부장에 대해 특수공무집행방해와 직권남용 혐의로 구속영장을 다시 신청한 지 일주일 만이다. 앞서 경찰은 지난 18일 김 차장에 대한 구속영장을 신청했지만, 검찰에서는 증거 인멸 등의 우려가 없다는 취지로 반려했다.&lt;br&gt;&lt;br&gt;김 차장과 이 본부장은 지난달 3일 윤석열 대통령에 대한 체포영장 1차 집행을 저지한 혐의로 17일과 18일 경찰에 체포됐다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>후진하는 폐지 수집 트럭 주차 봐주다가... 70대 치여 숨져</title>
-      <link>https://www.chosun.com/national/2025/01/31/XV3PSU5POVH2DHWHCHSDGPGGA4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2025/01/31/XV3PSU5POVH2DHWHCHSDGPGGA4/</guid>
-      <dc:creator>김주영 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 31 Jan 2025 10:09:53 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/L4GEXC5HOZAC5NA5TDDI7RQ23U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;31일 오전 9시 40분쯤 경남 창원시 성산구 한 아파트 주차장에서 70대 A씨가 운전하던 1t 트럭이 후진을 하던 중 주차를 봐주던 70대 남성 B씨를 치었다.&lt;br&gt;&lt;br&gt;이 사고로 머리 등을 다친 B씨가 병원으로 옮겨졌으나 숨졌다.&lt;br&gt;&lt;br&gt;당시 이들은 함께 폐지를 줍고 A씨 트럭에 이를 옮기기 위해 주차를 하던 중이었다.&lt;br&gt;&lt;br&gt;A씨는 전진과 후진을 반복하다 뒤에서 수신호를 하던 B씨를 치었던 것으로 파악됐다. 사고 당시 A씨는 음주 상태는 아니었던 것으로 조사됐다.&lt;br&gt;&lt;br&gt;경찰은 A씨를 교통사고 처리 특례법상 치사 혐의로 입건하고, 정확한 사고 경위를 조사할 계획이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>“결혼 약속한 남자가 배신” 전재산 날리고 은둔생활 중인 여배우</title>
