@@ -13,6 +13,46 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>인천 구월동 상가 건물에서 화재… 1시간 20여분만에 진화</title>
+      <link>https://www.chosun.com/national/incident/2025/02/03/AO6AQGYBKNBBXAN3Q6VGGSFVTY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/02/03/AO6AQGYBKNBBXAN3Q6VGGSFVTY/</guid>
+      <dc:creator>인천=이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 03 Feb 2025 09:08:18 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JOQ5HVPH2ZABNFYZBFDBZL4Y7E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;3일 오후 4시 57분쯤 인천시 남동구 구월동의 한 상가 건물에서 화재가 발생해 소방 당국이 진화 작업을 진행하고 있다. /인천소방본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천 남동구 구월동의 한 상가 건물에서 1층 술집 등을 태우고 1시간 20여분만에 꺼졌다. 이 불로 인명 피해는 없었으나, 술집 직원 2명을 비롯한 상가 이용객들이 대피했다. &lt;br&gt;&lt;br&gt;3일 인천소방본부 등에 따르면 이날 오후 4시 57분쯤 인천시 남동구 구월동의 한 상가 건물 1층에서 화재가 발생했다. &lt;br&gt;&lt;br&gt;이 불로 한때 화염과 연기가 치솟으면서, 30여건의 화재 신고가 잇따랐다. &lt;br&gt;&lt;br&gt;불이 난 건물은 지상 7층 규모로, 1~3층은 음식점 등 상점으로, 4~7층은 주차장으로 각각 사용 중이다. &lt;br&gt;&lt;br&gt;“술집에서 불이 났다”는 신고를 받고 출동한 소방 당국은 소방관 등 96명과 장비 33대를 투입해 진화에 나섰고, 오후 5시 32분쯤 큰 불길을 잡았다. 불은 화재 신고 1시간 20여분만인 오후 6시 20분쯤 완전히 꺼졌다.&lt;br&gt;&lt;br&gt;소방 관계자는 “상가 건물 1층에서 불이 시작한 것으로 추정된다”며 “술집 관계자들이 자력 대피해, 구조한 사람은 없었다”고 말했다. &lt;br&gt;&lt;br&gt;소방 당국은 술집 관계자 등을 상대로 화재 원인 등을 조사할 예정이다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SXLC6J6DKVF33IOSHPORDPC45Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;3일 오후 4시 57분쯤 화재가 발생한 인천시 남동구 구월동의 한 상가 건물. /인천소방본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>검찰 “尹, 이상민에 언론사 단전·단수 지시”...공소장에 적시</title>
+      <link>https://www.chosun.com/national/court_law/2025/02/03/GYFUOZW62VCXLGRGCQSYI6XSZI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/02/03/GYFUOZW62VCXLGRGCQSYI6XSZI/</guid>
+      <dc:creator>유종헌 기자, 이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 03 Feb 2025 09:10:30 +0000</pubDate>
+      <content:encoded>‘12·3 비상계엄’ 당시 윤석열 대통령이 이상민 전 행정안전부 장관에게 특정 언론사에 대한 단전·단수 조치를 취할 것을 지시했다고 검찰이 윤 대통령 공소장에 적시했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NF6DXCO4YBMLANZPZCZAT64K34.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;◇尹 대통령, 李에게 단전·단수 문건 보여줘&lt;/b&gt;&lt;br&gt;&lt;br&gt;3일 국회에 제출된 윤 대통령 공소장에 따르면, 윤 대통령은 지난해 12월 3일 비상계엄 심의를 위한 국무회의가 열리기 전 이 전 장관에게 “자정쯤 경향신문, 한겨레신문, MBC, JTBC, 여론조사꽃을 봉쇄하고 소방청을 통해 단전·단수를 하라”는 내용이 기재된 문건을 보여줬다.&lt;br&gt;&lt;br&gt;이에 이 전 장관은 비상계엄이 선포된 이후인 오후 11시 37분쯤 소방청장에게 “경향·한겨레·MBC·JTBC·여론조사꽃에 경찰이 투입될 것인데 경찰청에서 단전, 단수 협조 요청을 하면 조치해 줘라”고 지시했다. 이 같은 지시는 소방청 차장을 거쳐 서울소방재난본부장에게 전달됐다. 다만 이날 경찰이 소방에 단전, 단수 협조 요청을 하지는 않은 것으로 전해졌다.&lt;br&gt;&lt;br&gt;그러나 이 전 장관은 앞서 경찰 조사에서 이 같은 지시를 부인한 것으로 알려졌다. 이 전 장관은 국회에서도 관련 내용에 대한 증언을 거부했다. 검찰은 소방청장과 다른 국무회의 참석자 등을 조사하는 과정에서 윤 대통령의 ‘단전·단수’ 문건에 관한 진술을 확보해 공소장에 이 같은 내용을 기재한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇김용현, 계엄 선포 직후 “대통령 뜻 받들어 임무 하달”&lt;/b&gt;&lt;br&gt;&lt;br&gt;검찰은 윤 대통령의 공소장에 김 전 장관이 비상계엄 선포 직후 주재한 전군주요지휘관회의에서 “대통령님의 뜻을 받들어 임무 명령을 하달한다”고 말한 정황도 상세하게 적었다. 김 전 장관은 “이 시간 이후의 모든 군사활동은 장관이 책임진다. 공이 있다면 여러분의 몫이고, 책임진다면 장관의 몫”이라고 말하면서, “오직 부여된 임무에만 전념하고, 혹여 명령에 불응하거나 태만한 자는 항명죄로 다스려서 군율이 얼마나 엄중한지를 알릴 것”이라고 말한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2LMMROQVBDWTQDUQXG4LYICYJE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김용현 전 국방부 장관이 지난달 23일 오후 서울 종로구 헌법재판소에서 열린 윤석열 대통령 탄핵심판 4차변론에 증인으로 출석해 발언하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김 전 장관은 이어 “수방사령관과 특전사령관은 기(旣)지시된 사항과 관련하여 제한사항을 확인하고, 준비되는 대로 이행하라”고 지시했다는 것이 검찰 조사 결과다. 곽종근 전 특수전사령관은 계엄 직전인 지난해 12월 1일 김 전 장관으로부터 계엄 선포 대비 지시를 받았을 때 자신의 수첩에 예하 부대별 출동 계획을 적어두었는데, 김 전 장관의 이행 지시를 받은 뒤 수첩을 보면서 국회‧선관위‧여론조사 꽃 등으로 출동하라고 지시한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇尹‧金, 국무회의 전 조치사항 문건도 준비&lt;/b&gt;&lt;br&gt;&lt;br&gt;한편, 검찰은 윤 대통령과 김 전 장관이 비상계엄 선포 직전 열린 국무회의를 앞두고 각 국무위원들에게 전달할 문서도 미리 작성‧출력해 준비했던 것으로 보고 있다. 비상계엄 선포 이후 각 부처 장관들인 국무위원들에게 이 문서를 배포해 교부하려고 했다는 것이다.&lt;br&gt;&lt;br&gt;이와 관련, 기획재정부 장관인 최상목 대통령 권한대행의 경우 ‘국회 관련 자금 완전 차단’ ‘국가 비상 입법 기구 관련 예산 편성’ 등의 내용이 담긴 A4용지 한쪽짜리 쪽지를 받았다고 밝힌 바 있다. 조태열 외교부 장관도 지난해 12월 13일 국회 본회의에서 “윤 대통령으로부터 종이 한 장을 받았다”고 밝혔었다.&lt;br&gt;&lt;br&gt;김 전 장관은 이 쪽지들에 대해 자신이 직접 작성‧전달했다는 입장이다. 김 전 장관은 지난달 23일 헌법재판소 탄핵 심판에 증인으로 출석해 “대통령의 관여 사항이 아니라 보고하지 않았다. 제가 계엄을 주도한 주무 장관으로서 작성했다”고 설명했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/X657C6Y3LNNNNMOCOXTKMR7WZM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;최상목 대통령 권한대행./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;◇국방부 조사본부, 육‧해‧공‧해병대 수사관 명단 작성&lt;/b&gt;&lt;br&gt;&lt;br&gt;방첩사로부터 수사관 100명을 지원해달라는 요청을 받은 국방부 조사본부가 체포조 구성에 나선 정황도 검찰은 공소장에 적었다. 박헌수 국방부 조사본부장은 여인형 전 방첩사령관으로부터 수사관 100명을 지원해달라는 요청을 받은 뒤, 국방부 조사본부 A차장에게 방첩사를 도우라고 지시한 것으로 조사됐다. &lt;br&gt;&lt;br&gt;A차장은 계엄 당일 오후 11시 국방부 조사본부 B수사단장에게 “방첩사에서 수사관 100명을 요청하였는데, 우리 본부에서는 몇 명 가능한지 확인해 봐”라고 지시한 것으로 조사됐다. 10분 뒤에는 육군본부 산하 육군수사단장에게, 오후 11시 12분쯤에는 해군본부 산하 해군수사단장에게 각각 전화해 방첩사 요청을 전달하면서 ‘수사단에서 몇 명 차출 가능한지 확인해 달라’고 요구했다는 것이다.&lt;br&gt;&lt;br&gt;B수사단장은 육군수사단 수사관 30명, 해군‧공군‧해병대수사단 수사관 각 10명과 국방부 조사본부 직속 수사관 40명 등 도합 100명의 명단을 받아 작성을 지시한 것으로 조사됐다. 국방부 조사본부는 해당 수사관 명단을 실제로 작성했으나, 방첩사 요청에 법적 근거가 없다고 판단해 이를 전파하는 등 활용하지는 않았다는 입장이다.&lt;br&gt;&lt;br&gt;검찰은 윤 대통령이 비상계엄을 선포하면서 무장 군인 1605명과 경찰관 약 3790명을 동원해 폭동을 일으킨 혐의가 있다고 보고, 내란 우두머리 혐의를 적용해 지난달 26일 구속 기소했다. 윤 대통령의 첫 형사 재판은 오는 20일 오전 10시 서울중앙지법 형사25부(재판장 지귀연) 심리로 열린다. 다만 공판준비기일이어서, 윤 대통령이 직접 출석할 의무는 없다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/4UQS46IUR4MCJPZPTDDZTAACNY.jpg?width=2883&amp;height=1972&amp;auth=49729786bf9523cd586013b74f5640a808378588fcf62c984b05084ce16f8427&amp;smart=true" type="image/jpeg" height="1972" width="2883">
+        <media:description type="plain">윤석열 대통령이 23일 서울 종로구 헌법재판소에서 열린 탄핵심판 4차 변론에 출석해 변호인단과 대화를 나누고 있다. 2025.1.23/뉴스1 ⓒ News1 사진공동취재단</media:description>
+        <media:credit role="author" scheme="urn:ebu">뉴스1 ⓒ News1 사진공동취재단</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>기아 노조 “이달 말 사측 상대로 통상임금 반환 소송 제기한다”</title>
+      <link>https://www.chosun.com/national/2025/02/03/T6XUEAS62VEK5MA3TOKT2QCHCA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2025/02/03/T6XUEAS62VEK5MA3TOKT2QCHCA/</guid>
+      <dc:creator>이영관 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 03 Feb 2025 09:34:49 +0000</pubDate>
+      <content:encoded>기아 노조가 이달 말 사측을 상대로 통상임금 반환 소송을 제기한다. 지난해 말 대법원 판결로 수당, 퇴직금 등의 기준인 통상임금 범위가 확대된 데에 따른 조치다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4FQQS3NR5P3DDEYGTWW2QVOYHM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 양재동 기아 본사. /기아&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;기아 노조는 3일 소식지를 통해 오는 28일 누락된 통상임금을 돌려달라는 내용의 소송을 제기할 예정이라고 밝혔다. 노조는 “지난 9일부터 누락통상 체불임금 소송과 관련하여 2만명에 가까운 조합원이 소송을 위임했다”며 “법원의 판결대로 통상 제수당을 통상임금으로 100% 적용할 수 있도록 총력을 다하겠다”고 했다.&lt;br&gt;&lt;br&gt;작년 12월 대법원이 11년 만에 통상 임금 범위를 종전보다 확대하는 판결을 내린 데 따른 조치다. 대법원은 정기 지급된 명절 상여금이나 정기 상여금이 ‘지급일 기준 재직자에게 준다’ 등의 조건이 붙어 있어도 모두 통상 임금으로 봐야 한다고 판결했다. 기존에는 이런 조건 없이 지급되는 것만 통상 임금으로 인정했는데, 판례를 뒤집은 것이다.&lt;br&gt;&lt;br&gt;현대차 노조도 매년 기본급의 750%를 받는 상여금 전부를 통상 임금으로 인정해 달라고 요구했고, 이미 이 중 150%는 통상 임금에 추가 포함하기로 지난달 노사가 합의했다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>33억원 노린 무속인의 보험사기… 담당 형사가 밝힌 뒷이야기 </title>
+      <link>https://www.chosun.com/national/national_general/2025/02/03/KOYRSIGYWNC7RAOXQ3KWMMWAZI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/02/03/KOYRSIGYWNC7RAOXQ3KWMMWAZI/</guid>
+      <dc:creator>박선민 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 03 Feb 2025 08:35:23 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GQOXK32WYVGXVG3WMYT56UGS5M.png"&gt;&lt;figcaption&gt;&lt;small&gt;노숙인의 시신으로 사망진단서를 발급받아 보험금을 타내려던 혐의로 조사 받는 무속인과 일당. /연합뉴스TV&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;40대 무속인이 돌연 사망했다. 죽기 몇 달 전 보험료만 월 120만원대인 33억원짜리 생명보험에 들었다. 시신은 장례 절차가 끝나기도 전인 사망 신고 바로 다음 날 화장됐고, 조의를 표하기 위해 장례식에 방문한 이는 친언니와 무속인의 남자 친구, 보험 설계사 지인 이렇게 세 명이 전부였다. 부모도 장례식에 참석하지 않았다. 흔한 장례식 분위기는 아니었다. &lt;br&gt;&lt;br&gt;사실 무속인은 사망한 적이 없었다. 보험금을 타내려고 자신과 체격·나이가 비슷한 신원 미상의 노숙인 여성의 시신으로 자신이 죽은 것처럼 지인들과 꾸민 일이었다. 시신이 바로 화장된 탓에 증거가 부족해 재판에서는 인정되지 않았지만, 경찰 조사 단계에서는 무속인이 노숙인을 살해했다는 혐의까지 받았다. 결국 대법원에서 무속인은 징역 7년을, 범행을 도운 친언니와 무속인의 남자친구는 3년을 선고받았다. &lt;br&gt;&lt;br&gt;2011년 말 서울 강서구 화곡동에서 벌어진 이른바 ‘무속인 보험 사기’ 사건이다. 이 사건을 담당했던 형사가 최근 수사 당시 뒷이야기를 공개하면서 당시 사건이 재조명됐다. &lt;br&gt;&lt;br&gt;미제 사건 전문가로 알려진 강윤석 형사는 지난달 29일 방영된 ‘유퀴즈 온 더 블럭’에서 이 사건을 언급하며 “너무 이상한 점이 많았다”고 회상했다. &lt;br&gt;&lt;br&gt;당시 강 형사는 무속인이 사망 전 33억원짜리 고액 보험에 가입한 점, 죽은 바로 다음 날 급하게 화장한 점, 장례식에 온 사람이 무속인의 남자 친구와 친언니, 보험설계사 지인뿐이었던 점 등이 수상했다고 한다. 강 형사는 “흔히 볼 수 있는 장례식 풍경이 아니었다”며 “더군다나 부모님이 살아계시는데도 부모님이 오지도 않았다”고 했다. 그러면서 “대개 강력 형사들은 이런 상황을 ‘냄새가 난다’라고 표현한다. 분명한 범죄 의심점이 있다고 판단했다”라고 했다. &lt;br&gt;&lt;br&gt;그렇게 강 형사는 장례식에 온 이들을 미행하기 시작했는데, 당시 친언니의 행동이 의심스러웠다고 한다. 휴대전화를 소지하고 있는데도 불구하고 굳이 공중전화 부스를 찾아 누군가와 통화하는 모습이 포착된 것이다. 강 형사가 통화 내역을 확인해 본 결과, 수신지는 전라도 광주광역시였다. 강 형사는 “이건 뭔가 있다”고 판단, 무속인의 친언니가 누구와 통화했는지 확인하기 위해 광주로 향했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BVQRDPR2TZCONHDW5PQ4ZZTVJE.png"&gt;&lt;figcaption&gt;&lt;small&gt;무속인 보험사기 사건 수사 당시를 회상하고 있는 강윤석 형사. /tvN&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;다만 영장이 없어 수신지로 지목된 집 내부로 무턱대고 들어갈 수는 없었다. 이에 강 형사는 기지를 발휘했다. “접촉 사고가 나서 차량이 파손된 것 같은데 잠깐 나와주실 수 있나요”라며 인터폰을 통해 요청한 것이다. 인터폰 연락을 받고 나온 사람은 다름아닌 사망 신고가 된 무속인이었다. 강 형사는 “죽었다던 무속인이 산 채로 나왔다”며 “누군가를 자기 대신 죽은 것처럼 꾸민 것이었다”고 했다. &lt;br&gt;&lt;br&gt;당시 보도에 따르면, 무속인은 주변에서 거액을 빌려 부동산과 건설업 등에 투자했다가 큰 손해를 입자 남자 친구 등 지인들과 돈을 나눠 갖기로 하고 범행을 계획한 것으로 조사됐다. &lt;br&gt;&lt;br&gt;경찰 조사에서는 무속인이 사건 당일 영등포역 주변에 머무르는 노숙인 중 자신과 비슷한 연령대의 피해자를 물색한 뒤, 자기 집으로 데려가 다량의 수면제를 탄 한약을 먹여 살해했다는 혐의를 받았다. 강 형사는 “실제로 화장한 시체가 누구인지를 밝히는 게 수사의 초점이었는데, 장례식에 모인 사람들의 통화 내역을 다 수사해 보니 사건 발생 시점 부근에 영등포역에서 기지국이 계속 잡히는 게 확인이 됐었다”며 “수사에서도 자기 나이 또래의 노숙인을 데려다가 살해하고 마치 자기가 사망한 것처럼 처리한 것으로 확인됐다”고 했다. &lt;br&gt;&lt;br&gt;하지만 재판에서 살해 혐의는 인정되지 않았다. 시신을 바로 화장한 탓에 직접 노숙인을 죽였다는 증거가 부족했기 때문이다. 강 형사는 “모든 사망 사건의 가장 중요한 증거는 사체”라며 “이게 없다 보니 보험 사기와 사체 은닉 혐의만 인정이 됐다”고 했다. 실제로 당시 1심 재판부는 “안씨가 살인을 했다는 심증이 상당히 있지만 단정하기에는 증거가 부족하다”고 했다. 2심과 대법원도 같은 결론을 내렸다. 결국 무속인은 사체영득 및 유기·사기 혐의로 징역 7년을, 무속인의 범행을 도운 친언니와 남자 친구는 징역 3년을 선고받았다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>[오늘의 운세] 2월 4일 화요일(음력 1월 7일 甲辰)</title>
       <link>https://www.chosun.com/national/national_general/2025/02/03/XVODHTRJOJGA5HCRKP3224L46A/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/02/03/XVODHTRJOJGA5HCRKP3224L46A/</guid>
@@ -665,24 +705,6 @@ The Chosunilbo</media:credit>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SZ6FHV7TTRH3HB5T2ZQQW3RANY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정몽규 대한축구협회장 징계 요구를 두고 협회와 문화체육관광부가 법적 공방을 벌인다. 2일 축구협회에 따르면, 협회는 정 회장 징계를 골자로 하는 문체부 특정 감사 처분을 취소해 달라는 행정 소송을 지난달 21일 서울중앙지법에 냈다. 이 처분을 일단 정지해 달라는 집행정지 신청도 함께 냈다.&lt;br&gt;&lt;br&gt;문체부는 지난해 11월 축구협회 감사 결과를 발표하면서 정 회장에 대해 자격 정지 이상 중징계를 내리라고 협회에 요구한 바 있다. 홍명보 축구 국가대표 감독 선임 과정에서 절차 하자, 비리 축구인 기습 사면, 천안축구종합센터 관련 보조금 부정 수급 등 협회 운영 비위에 정 회장 책임이 있다고 봤다. 그 징계 시한이 이달 3일까지였는데 협회는 이를 따르지 않고 소송으로 맞섰다. 축구협회 정관은 자격 정지 이상 징계를 받으면 협회 임원이 될 수 없다고 규정하고 있어 정 회장은 이 징계가 확정되면 차기 회장에 출마할 수 없었다. 출마 자격을 판단하는 축구협회 스포츠공정위원회도 법원 판결 확정 전까지 정 회장 징계 안건을 논의하지 않기로 했다. 일단 정 회장이 차기 회장 선거에 나설 수 있을 전망이다. 협회 관계자는 “국제축구연맹(FIFA)이 요구하는 운영 독립성과 자율성을 높이는 차원에서 소송을 냈다”고 했다.&lt;br&gt;&lt;br&gt;차기 회장 선거에 도전하는 허정무·신문선 후보 측은 협회 소송전이 정 회장 출마 자격을 지키기 위한 ‘꼼수’라는 입장이다. 당초 축구협회장 선거는 지난달 8일 열릴 예정이었다. 하지만 허 후보가 제기한 선거 금지 가처분 신청을 법원이 하루 전 받아들이면서 연기됐다. 협회는 절차적 하자를 보완해 지난달 23일 선거를 하겠다는 계획을 냈다가 선거운영위원들이 전원 사퇴하면서 또다시 무산됐다. 축구협회는 선거운영위를 다시 구성하고 선거인 추첨을 위한 개인 정보 이용 동의를 받는 등 선거 절차를 처음부터 다시 밟고 있다. 빨리 절차를 진행해 이달 중 마무리할 계획으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[부음] ‘오징어 게임2′ 배우 이주실 별세</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2025/02/03/4P277T2C4FB5NP6DEVUFPL2YJE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2025/02/03/4P277T2C4FB5NP6DEVUFPL2YJE/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Sun, 02 Feb 2025 15:52:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TPWHZPNBZJDQVPGLW2TU5CXXHU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2일 세상을 떠난 배우 이주실씨. /소속사 일이삼공 컬쳐 홈페이지&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;넷플릭스 ‘오징어 게임’ 시즌2의 ‘황준호(위하준 분) 어머니’ 등 역할로 활발히 활동했던 배우 이주실(81)씨가 2일 별세했다. 1993년 유방암 3기 판정을 받고도 이겨냈으나, 작년 11월 위암을 발견한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;1964년 데뷔, 1970~80년대 연극 ‘세일즈맨의 죽음’ 등에 출연했고 1988년 백상예술대상 연극 연기상을 받았다. 영화 ‘명량’, ‘부산행’, 드라마 ‘경이로운 소문’, ‘미녀와 순정남’ 등에 출연했다. 2023년 들꽃영화제 여우조연상을 받았다.&lt;br&gt;&lt;br&gt;빈소는 서울 신촌 세브란스병원 장례식장, 조문은 3일부터. 발인은 5일.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[부음] 김의훈 前 미국 앨라배마 주정부 한국 대표 별세 외</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2025/02/03/FKAQCXD4ZJHV3GZU6XBXU5FXOI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2025/02/03/FKAQCXD4ZJHV3GZU6XBXU5FXOI/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Sun, 02 Feb 2025 15:52:00 +0000</pubDate>
-      <content:encoded>▲&lt;b&gt;김의훈 &lt;/b&gt;前 미국 앨라배마 주정부 한국 대표 별세, &lt;b&gt;김재영&lt;/b&gt; 숙명여대 명예교수 남편상, &lt;b&gt;김준하 &lt;/b&gt;삼성전자 MX사업부 디자이너·&lt;b&gt;김시나 &lt;/b&gt;이화여대 디자인학부 겸임교수 부친상, &lt;b&gt;박성우 &lt;/b&gt;유니베스트 투자자문 대표 장인상, &lt;b&gt;박세령 &lt;/b&gt;오산대 교직원 시부상, &lt;b&gt;김지아 &lt;/b&gt;조부상, &lt;b&gt;박천규&lt;/b&gt; 외조부상=1일21시58분 삼성서울병원, 발인 4일12시15분, (02)3410-6901&lt;br&gt;&lt;br&gt;▲&lt;b&gt;김정숙 &lt;/b&gt;별세, &lt;b&gt;조국근&lt;/b&gt;·&lt;b&gt;조안순 &lt;/b&gt;모친상, &lt;b&gt;박학주 &lt;/b&gt;前 NH아문디자산운용 대표 장모상, &lt;b&gt;서권자 &lt;/b&gt;시모상=1일7시 충남 온양장례식장, 발인 4일8시, (041)547-4444&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>70세 맞은 빌 게이츠 첫 자서전… “인생 최대 실패는 이혼”</title>
       <link>https://www.chosun.com/national/2025/02/03/U5PAT5YO5VGPJO4CIEZ7KIZDZQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/2025/02/03/U5PAT5YO5VGPJO4CIEZ7KIZDZQ/</guid>
@@ -753,24 +775,6 @@ The Chosunilbo</media:credit>
       <description/>
       <pubDate>Sun, 02 Feb 2025 15:51:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LM7SX7JQTVHTVIDTCLNWPZLTEM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문으로 배우는 실용한자] 당게(黨揭)</title>
-      <link>https://www.chosun.com/national/nie/chinese_character/2025/02/03/5HGP7GTC6VGYBBNSQL444X6IDI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese_character/2025/02/03/5HGP7GTC6VGYBBNSQL444X6IDI/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Sun, 02 Feb 2025 15:50:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4KKYKGGW4VCVJJ5TJYJLLBPMGU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[매일매일 중국어 한마디] 전반적인 사회 상황, 분위기</title>
-      <link>https://www.chosun.com/national/nie/chinese/2025/02/03/NQY22AKW2ZCB3ORZRAPAV75GIM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese/2025/02/03/NQY22AKW2ZCB3ORZRAPAV75GIM/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Sun, 02 Feb 2025 15:50:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6EZ5AHYHXVDRHAN72Z5VLWRFNU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>“시골 사는 어머니만을 위한 버스 알림 앱”... 컴공과 대학생의 효도</title>
