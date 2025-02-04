@@ -13,6 +13,33 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>오세훈, 외신에 “한국사회 회복력 강해...질서 있게 혼란 수습 중”</title>
+      <link>https://www.chosun.com/national/national_general/2025/02/04/C74YHCSNTJC3XDMQBZ2DQ66P5A/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/02/04/C74YHCSNTJC3XDMQBZ2DQ66P5A/</guid>
+      <dc:creator>최연진 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 04 Feb 2025 05:05:35 +0000</pubDate>
+      <content:encoded>오세훈 서울시장은 4일 서울시청에서 열린 신년 외신기자 간담회에서 비상계엄 사태 이후 한국의 정치적 혼란에 대해 국제사회에서 우려가 나오는 것과 관련해 “한국 사회는 회복력이 매우 강하다”며 “정치적 혼란 상황의 수습과 사법 절차가 질서 있게 이뤄지고 있다”고 말했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DYFPKIJGQBN6PBEBKHIYQJDFGQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt; 오세훈 서울시장이 4일 오전 서울시청에서 열린 2025 신년 외신기자 간담회에서 질문에 답하고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;오 시장은 “서울 관광을 고려하는 분들이 특별히 안전 상태에 대해 걱정할 정도로 관광산업이 올해 크게 타격받을 것 같지는 않다”며 “지난 연말 이후 관광객 입국이 잠시 주춤했던 기간이 있었지만, 다행인 것은 그 이후 관찰해보니 매우 단기적인 영향에 그치고 상당히 빠른 속도로 관광객이 다시 예약을 시작했다는 점”이라고 했다.&lt;br&gt;&lt;br&gt;오 시장은 “물론 소요 사태나 시위 와중에 서부지법 난입과 같은 폭력성이 드러난 적이 있지만 바로 질서가 회복됐다”며 “오히려 이런 질서 있는 사후 수습 과정을 지켜본 전 세계인들이 대한민국의 성숙한 민주주의에 상당히 놀라워하고 회복력을 높이 평가할 것”이라고 했다.&lt;br&gt;&lt;br&gt;오 시장은 비상계엄 사태 이후 관광객 관련 사고가 발생하지 않은 점도 강조했다. 그는 “아마 치안이 썩 좋지 않은 다른 외국 도시들과 비교하면 지금 현재 서울의 치안 상태나 안전 상태는 A급 중에서도 아마 A플러스급이 아닌가 감히 비교를 해서 말씀드리고 싶다”고 했다.&lt;br&gt;&lt;br&gt;일각에서 ‘부정선거에 중국인들이 개입했다’는 음모론이 제기되는 것과 관련, 오 시장은 “일부에서 나오는 부정선거론에 대해서도 이런 회복력이 작동할 것이라 생각한다”며 “구체적인 사안을 다 언급하는 것은 적절치 않아 자제하겠으나 한국 사회는 어떠한 혼란이 생겨도 매우 질서 있는, 자체적인 회복력을 갖고 있다”고 했다.&lt;br&gt;&lt;br&gt;오 시장은 조기 대선 출마 여부와 관련해선 “현직 시장으로서 시정에 전념하는 입장이라 대선 출마 언급은 자제하는 편이다. 양해해달라”며 “그 질문에는 헌법재판소 결정 이후에 상황을 봐서 명확하게 답하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>고시원서 이웃 성폭행하고 살인한 40대 남성 구속 기소</title>
+      <link>https://www.chosun.com/national/incident/2025/02/04/F2H2I5MXIZBJTBW6ADK63XVQJI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/02/04/F2H2I5MXIZBJTBW6ADK63XVQJI/</guid>
+      <dc:creator>강지은 기자, 김나연 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 04 Feb 2025 04:43:39 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GQT7VO6HMALBH3PS6ML43WCGFQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 남부지검 모습./뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;고시원에서 이웃을 성폭행하고 살해한 남성이 구속 상태로 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;서울남부지검 형사3부(부장 손상희)는 이모(43)씨를 성폭력처벌법상 강간살인, 주거침입, 주거수색 등 혐의로 지난달 23일 구속 기소했다고 4일 밝혔다. 이씨는 지난달 4일 오후 10시쯤 서울 영등포구 도림동의 한 고시원에서 이웃 투숙객 20대 여성 A씨를 자신의 방으로 데려가 성폭행하고 살해한 혐의를 받는다.&lt;br&gt;&lt;br&gt;이씨는 범행 다음날 경찰서에 찾아가 A씨를 살해했다고 자백했다. “‘번호를 알려달라’고 고백했는데 거절당해 범행을 저질렀다”는 취지로 진술했다고 한다. A씨는 무직으로, 범행 당시 음주 상태는 아니었다고 조사됐다. &lt;br&gt;&lt;br&gt;경찰은 지난 13일 살인과 주거침입, 주거수색 혐의를 적용해 이씨를 구속 송치했다. 검찰 수사 단계에서 이씨의 성범죄 정황이 추가로 발견됐고, 검찰은 강간살인 혐의를 더해 이씨를 재판에 넘겼다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>공수처, 이상민 사건 검찰·경찰에 재이첩…검경 다시 수사</title>
+      <link>https://www.chosun.com/national/court_law/2025/02/04/HBZMV7UEGVCL7CNRFRKRJUGTPU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/02/04/HBZMV7UEGVCL7CNRFRKRJUGTPU/</guid>
+      <dc:creator>박강현 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 04 Feb 2025 03:25:08 +0000</pubDate>
+      <content:encoded>고위공직자범죄수사처(공수처)가 12·3 비상계엄 사태 당시 일부 언론사 단전·단수를 지시한 의혹 등을 받는 이상민 전 행정안전부 장관의 내란 혐의 등 사건을 경찰에 넘겼다고 4일 밝혔다. 공수처는 이 전 장관 사건을 검찰에도 넘길 예정이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OHSS3RAMWHGUJOQNQGJRVUJP2I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;고위공직자범죄수사처. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;공수처 관계자는 이날 정부과천청사 브리핑에서 “어제 이 전 장관 사건을 경찰로 이첩했다”며 “검찰에도 이 전 장관 사건을 오늘 오후 넘길 예정”이라고 밝혔다. 공수처는 이 같은 재이첩 근거로는 “처장은 피의자, 피해자, 사건의 내용과 규모 등에 비춰 다른 수사기관이 고위공직자범죄 등을 수사하는 것이 적절하다고 판단될 때에는 해당 수사기관에 사건을 이첩할 수 있다”고 규정한 공수처법 24조 3항을 제시했다. &lt;br&gt;&lt;br&gt;공수처 관계자는 이 전 장관 사건 재이첩 사유에 대해 “법리 검토 결과 직권남용이 될 수 있는지 명확하지 않다고 판단했다. 직권남용 관련 범죄로 내란 혐의까지 나아갈 경우 법원에서 어떤 판단을 받을지 모른다는 점을 고려했다”며 “직권남용은 미수 처벌 규정이 없다는 것이 핵심”이라고 설명했다. 이 전 장관의 단전·단수 지시는 실제 이뤄지진 않은 것으로 파악됐다.&lt;br&gt;&lt;br&gt;앞서 경찰은 지난해 12월 16일, 검찰은 지난해 12월 26일 각각 이 전 장관 등에 대한 수사를 공수처에 이첩했다. 공수처가 비상계엄 관련 중복 수사를 막겠다며 이첩 요청권을 행사했기 때문이다. 공수처에 따르면 경찰은 3개 혐의를 적시해 보냈고, 검찰은 내란 혐의를 포함해 8개 혐의로 사건을 이첩했다.&lt;br&gt;&lt;br&gt;공수처 관계자는 이렇게 되면 중복 수사 문제가 재발하는 것 아니냐는 취지의 질문엔 “양쪽에서 수사를 진행할 수 있는 상황은 됐는데, 양 기관에서 적절한 시점에 (수사와 관련해) 협의하거나 조정하지 않을까 싶다”고 했다. 그러면서 “정확한 의미는 (재이첩이 아닌) 반환”이라고 덧붙였다.&lt;br&gt;&lt;br&gt;이첩 요청권을 발동해 받은 사건을 다시 검·경에 보낸 것이 수사를 효율화시키기 보단 오히려 지연시킨 것 아니냐는 지적에 대해선 “이 전 장관 단전·단수 관련해 국회에서 의혹이 불거지자마자 관련자 진술을 받아 검토해 지체됐다 생각하지 않는다”고 말했다.&lt;br&gt;&lt;br&gt;또 애초에 공수처 수사가 적합하지 않은데 이첩을 받은 것인지에 대한 질문엔 “법리 검토, 조사가 이뤄지기 전이니까 가능성을 염두에 두고 이첩 받은 것이었다”며 “조사 및 수사를 하다보니 이런 검토 결과 상황이 생겨 재이첩을 하게 된 것”이라고 설명했다.&lt;br&gt;&lt;br&gt;공수처는 향후 비상계엄 수사 방향에 대해선 “경찰에서 공수처에 이첩한 게 윤석열 대통령, 국무위원 4명, 군사령관 5명, 경찰 간부 4명, 국회의원 1명 등 15명”이라며 “경찰 간부는 저희가 직접 기소할 수도 있어서 최선을 다해 수사력을 모을 계획”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>[속보] ‘울산시장 선거개입’ 송철호·황운하 2심서 무죄</title>
       <link>https://www.chosun.com/national/court_law/2025/02/04/QSV4VDGW4NBB5NBREC3FYVVBXE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/02/04/QSV4VDGW4NBB5NBREC3FYVVBXE/</guid>
@@ -794,24 +821,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3SC6FZSS64JW34VC4JZZXCQHYI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;백종원 더본코리아 대표이사. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;요리연구가 백종원 더본코리아 대표가 실내에 고압 가스통을 두고 요리하는 영상이 뒤늦게 논란이 됐다.&lt;br&gt;&lt;br&gt;2일 국민신문고에는 백 대표가 액화석유(LP)가스법을 위반했다는 민원이 접수됐다.&lt;br&gt;&lt;br&gt;백 대표는 지난해 5월 유튜브 채널에 자사 프랜차이즈 ‘백스비어’의 신메뉴를 개발하는 영상을 올렸다. &lt;br&gt;&lt;br&gt;영상에서 백 대표는 주방에 설치된 LP가스통 옆에 설치된 화로에서 기름을 끓이고 닭 뼈를 넣어 튀겼다.&lt;br&gt;&lt;br&gt;액화석유가스의 안전관리 및 사업법 시행규칙 제69조에 따르면 가스통은 환기가 양호한 옥외에 둬야 한다. 이를 위반할 시 허가관청이나 등록관청이 4000만원 미만 과징금을 부과할 수 있다.&lt;br&gt;&lt;br&gt;민원인은 “가스통이 실내에 버젓이, 게다가 조리기구 바로 옆에 설치돼 있다. 이는 액화석유가스법과 소방 당국이 규정한 안전 수칙을 모두 위반하는 것”이라며 “자칫 화재가 나면 건물 전체가 날아갈 수 있다. 요리 환경을 바꿀 필요가 있어 보인다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2A5N5E6XG5CIDEYIODSLNFVD2M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난해 5월 백종원 유튜브 채널에 올라온 요리 영상. 가스통 옆에 설치된 화구에서 조리를 하고 있다./유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;가스통 폭발 안전사고는 실제로도 종종 발생했다.&lt;br&gt;&lt;br&gt;2023년 12월 대전 한 식당의 액화석유가스통이 폭발하는 사고가 발생해 건물이 무너지고 부상자 12명이 발생했다. 사고가 난 식당은 도시가스가 아닌 50㎏ 규모 LPG 가스통 2개를 가게 뒤편에 두고 사용했던 것으로 전해졌다. 2005년 5월에는 서울 마포구의 한 음식점에 있던 가스통이 폭발해 업주가 전신 2도 화상을 입는 사건이 발생하기도 했다.&lt;br&gt;&lt;br&gt;이번 민원은 백 대표가 최근 설 명절을 맞아 통조림 햄 ‘빽햄 선물세트’를 공개했다가 가격 논란에 휘말린 가운데 제기됐다.&lt;br&gt;&lt;br&gt;앞서 더본코리아는 빽햄 선물세트를 정가(5만1900원)보다 45% 할인된 가격(2만8500원)에 판매했는데, 이를 두고 일부 소비자는 “일부러 정가를 높이 책정한 뒤 할인 판매하는 상술을 쓴 것 아니냐”며 의혹을 제기했다.&lt;br&gt;&lt;br&gt;이 같은 논란에 백 대표는 유튜브를 통해 “대량 생산하는 경쟁사에 비해 우린 아직 소량 생산하기 때문에 원가 차이가 크다”며 “생산 원가와 유통 마진을 고려해 합리적으로 정가를 책정했다”고 해명했다. 아울러 이 제품은 한돈 농가를 돕기 위해 만들어진 제품임을 강조했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>올 1월 제주 관광객, ‘4년만에’ 100만명 밑으로</title>
-      <link>https://www.chosun.com/national/regional/2025/02/03/LZYZOTSBQFGD5NYUCO2MXKHCAM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/02/03/LZYZOTSBQFGD5NYUCO2MXKHCAM/</guid>
-      <dc:creator>제주=오재용 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 03 Feb 2025 04:16:29 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4ZEEUHYMSFLVJA2MX4PHBUBRYE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;설 연휴 마지막 날인 지난달 30일 오후 제주 서귀포시 남원읍 휴애리자연생활공원을 찾은 관광객들이 때이른 유채꽃을 감상하며 추위 속 서서히 찾아오는 봄기운을 느끼고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;올해 첫 달에 제주를 찾은 관광객은 98만여 명인 것으로 잠정 집계됐다. 1월 제주지역 관광객이 100만명을 밑돈 것은 코로나 유행기인 2021년 이후 4년 만이다.&lt;br&gt;&lt;br&gt;3일 제주도관광협회에 따르면, 지난달 제주를 찾은 관광객은 98만1521명으로 잠정 집계됐다. 이는 전년 동월 105만4690명 대비 6.9% 감소한 수치다. 특히 1월 제주지역 관광객이 100만명을 밑돈 것은 2021년 1월(46만8016명) 이후 4년 만이다. 연도별 1월 제주지역 관광객은 2022년 1월 117만802명, 2023년 1월103만2565명 등이었다.&lt;br&gt;&lt;br&gt;이처럼 1월 제주를 찾은 관광객이 감소한 것은 경기 침체로 소비 심리가 위축된 데다 국내 항공 좌석 축소와 해외여행 선호 현상이 지속하며 내국인 관광객이 줄어든 영향이다.&lt;br&gt;&lt;br&gt;실제 지난달 제주를 찾은 내국인 관광객은 잠정 86만213명으로, 전년 동월 95만3547명 대비 9.8% 급감했다. 반면 외국인 관광객은 지난달 12만1308명이 제주를 찾아 전년 동월 10만1143명과 비교할 때 19.9% 늘었다.&lt;br&gt;&lt;br&gt;한편 설 연휴인 지난달 25~30일 동안 제주를 방문한 관광객은 잠정 23만1160명으로 집계됐다. 이는 제주도관광협회가 애초 예상했던 20만6000명을 12.2% 웃돈 수준이다. 지난해 설 연휴 관광객 22만7805명과 비교해서도 1.5% 늘었다.&lt;br&gt;&lt;br&gt;설 연휴 제주 관광을 이끈 것은 외국인 관광객이다. 이 기간 외국인 관광객은 3만2027명으로, 지난해 2만 595명보다 55.5% 급증했다. 반면 내국인 관광객은 19만9133명으로 지난해보다 소폭 증가하는 데 그쳤다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>임산부·맞벌이가정 집안일 돕는 ‘서울형 가사 서비스’ 소득요건 완화</title>
-      <link>https://www.chosun.com/national/national_general/2025/02/03/ERID2RDGXRFPTP6EGEP2X4GYJ4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/02/03/ERID2RDGXRFPTP6EGEP2X4GYJ4/</guid>
-      <dc:creator>김영우 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 03 Feb 2025 03:59:40 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HSFE6437KJGYTP7TYRDCZ3747Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울시가 임산부·맞벌이가정 등을 대상으로 지원하는 '서울형 가사서비스'의 안내 포스터. /서울시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울시가 올해부터 임산부·맞벌이·다자녀가정의 집안일을 무료로 돕는 ‘서울형 가사 서비스’의 지원 대상을 중위소득 150% 이하에서 180% 이하로 완화한다고 3일 밝혔다.&lt;br&gt;&lt;br&gt;기존에는 4인 기준 월 소득 914만7000원 이하인 가구가 서비스를 이용할 수 있었는데, 1097만6000원 이하인 가구도 서비스를 이용할 수 있게 된 것이다.&lt;br&gt;&lt;br&gt;또 가정에서 필요한 가사 서비스를 골라서 이용할 수 있도록, 당초 설정해 두었던 10회 횟수 제한을 풀고 금액 제한만 두는 방식으로 바꾼다.&lt;br&gt;&lt;br&gt;서울시 관계자는 “이용 가정은 원하는 서비스를 70만원 한도 내에서 횟수에 관계없이 받을 수 있게 된다”고 말했다.&lt;br&gt;&lt;br&gt;서울시는 올해로 3년 차를 맞은 ‘서울형 가사 서비스’에 총 76억원을 투입해 총 1만1000가구를 지원한다. 중위소득 180% 이하이면서 12세 이하 자녀가 있는 임산부·맞벌이·다자녀가정이 서비스를 받을 수 있다.&lt;br&gt;&lt;br&gt;지원 가정은 70만원 상당의 바우처를 신용카드로 받아 사용하면 된다. 거실·주방 등 청소, 설거지, 세탁, 쓰레기 배출 등 서비스를 32개 업체에서 받을 수 있다.&lt;br&gt;&lt;br&gt;김선순 서울시 여성가족실장은 “서비스 3년 차를 맞아 가정에서 필요한 서비스를 자유롭게 이용할 수 있도록 개선 방안을 마련했다”며 “이용을 원하는 가정은 예산이 소진되기 전 신청을 서둘러 주시길 바란다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>헌재, ‘마은혁 임명 보류 사건’ 선고 연기…변론 재개</title>
       <link>https://www.chosun.com/national/court_law/2025/02/03/C6TJ2I36QNERNGTOPGG3WQF2Z4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/02/03/C6TJ2I36QNERNGTOPGG3WQF2Z4/</guid>
@@ -819,15 +828,6 @@
       <description/>
       <pubDate>Mon, 03 Feb 2025 02:04:22 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BIYCVE6GZROCRAQ6WYACGZHUFU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;선고를 앞둔 2일 헌법재판소 모습. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;헌법재판소가 3일 최상목 대통령 권한대행의 마은혁 헌법재판관 후보자 임명 보류 사건 선고를 앞두고 변론 재개 및 선고 연기 결정을 내렸다. 재판관들은 오전부터 평의를 열고 이 사건 선고 여부를 논의한 뒤 이같이 정했다.&lt;br&gt;&lt;br&gt;헌재는 이날 낮 12시쯤 마 후보자 임명 보류 사건 선고를 하지 않겠다고 밝혔다. 앞서 헌재는 이 사건과 관련해 국회가 낸 권한쟁의 심판과 김정환 변호사가 제기한 헌법소원 사건을 이날 오후 2시에 선고한다고 밝혔다. 그러나 선고 2시간 전에 권한쟁의 심판은 변론을 재개하고, 헌법소원 사건은 선고를 연기하겠다고 알린 것이다.&lt;br&gt;&lt;br&gt;앞서 천재현 헌재 공보관은 이날 오전 기자단 브리핑에서 “재판관들이 (마 후보자 관련 사건의) 선고 여부를 검토 중이다. 아직 결정된 바가 없다”고 말했다. 그러면서 “오늘 선고가 나지 않을 가능성도 있다”고 했다.&lt;br&gt;&lt;br&gt;헌재는 지난달 22일 첫 변론 기일을 열고 1시간 20분 만에 사건을 종결한 뒤, 이틀 후에 선고일(2월 3일)을 정했다. 최 권한대행 측이 “졸속 선고가 우려된다”며 변론 재개를 요청했지만 3시간여 만에 기각했다. 지난달 31일에는 최 권한대행 측에 여야의 재판관 추천서 제출 경위를 서면으로 제출하라고 요구하며 “오늘 중으로 내달라”고도 했다. 이에 최 권한대행 측이 변론 재개를 다시 신청했는데, 헌재는 선고 약 2시간 전에 결정을 내렸다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VAS2ZA44ZC5J7BEZPCPRHCALCE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;마은혁 헌법재판관 후보자가 작년 12월 23일 서울 여의도 국회에서 열린 인사청문회에서 의원들 질의에 답하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;헌재가 선고 기일을 두고 고심하는 것은 국회 측의 권한쟁의 관련 의결 생략 논란, 졸속 심리 문제 등 ‘절차적 흠결’에 대한 지적이 이어지고 있기 때문으로 보인다. 선고를 앞두고 여러 논란이 제기돼 결정문을 쓰기 어렵다는 것이다. 최 권한대행 대리인단은 “이번 사건 결과는 대통령 탄핵심판에도 영향을 미칠 수 있어서 더욱 신중한 심판이 요구된다”는 입장이다.&lt;br&gt;&lt;br&gt;한편, 헌재는 최 권한대행이 마 후보자 임명 보류 관련 헌재의 결정을 따르지 않는 것은 ‘위법’이라고 강조했다. 천 공보관은 “권한쟁의나 헌법소원이 인용됐는데, 이를 따르지 않으면 헌법과 법률을 위반하는 것”이라며 “헌재 결정에 강제적인 집행력은 없지만 이를 따르지 않아도 된다는 것은 아니다”고 말했다.&lt;br&gt;&lt;br&gt;앞서 최 권한대행은 헌재가 위헌 결정을 내리더라도 마 후보자를 곧바로 임명하진 않는다는 방침을 세운 것으로 전해졌다. 정치권에서는 “마 후보자 임명 관련 헌재의 판단은 강제력이 없는 권고적 성격의 것으로 봐야 한다”는 해석이 나왔다.&lt;br&gt;&lt;br&gt;헌재는 윤석열 대통령 측이 문형배·이미선·정계선 재판관에 대해 “대통령 탄핵심판에서 스스로 빠져야 한다”며 낸 회피 촉구 신청서에 대해서도 검토 중이다. 천 공보관은 “당사자가 제출한 의견은 재판부에서 모두 검토하고 있다”고 했다. 다만 재판관 회피에 관한 윤 대통령 등 당사자의 신청권은 존재하지 않고, 재판관이 스스로 판단해 회피를 신청하고 재판장 허가를 받아 빠질 수 있다고 설명했다. 윤 대통령 탄핵심판의 재판장은 문형배 헌재소장 권한대행이 맡고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>경찰청 총경급 간부 음주운전 적발로 직위해제</title>
-      <link>https://www.chosun.com/national/national_general/2025/02/03/QGRTILCRT5FBZMBZGHJB6NXQLA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/02/03/QGRTILCRT5FBZMBZGHJB6NXQLA/</guid>
-      <dc:creator>구아모 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 03 Feb 2025 03:09:16 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/D27B4TMQSYC7SPC625RTAL5L7M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;음주운전 단속 모습./ 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰청 소속 총경급 간부가 음주운전을 하다 적발돼 직위 해제된 것으로 3일 알려졌다.&lt;br&gt;&lt;br&gt;경찰에 따르면 경찰청 소속 과장 A씨는 지난달 음주 상태로 차량을 몰다가 적발됐다. A씨는 적발 직후 직위 해제된 상태다.&lt;br&gt;&lt;br&gt;비상계엄 사태로 경찰청장·서울경찰청장 두 수장이 구속 기소되면서 수장 공백이 이어지는 상황에서 경찰청 간부의 공직기강 해이가 드러났다는 지적이 나온다.&lt;br&gt;&lt;br&gt;경찰청은 지난해 11월 음주운전에 연루된 경찰에 대한 징계처분 수위를 한창 강화하는 ‘경찰공무원 징계령 세부 시행규칙’ 개정안을 의결한 바 있다. 이 개정안은 경찰이 술자리에 차량을 가지고 참석한 후 음주운전을 하면 사실상 음주운전 예비행위로 간주, ‘배제’ 징계를 받는다.&lt;br&gt;&lt;br&gt;2회 이상 음주운전, 무면허 음주운전은 즉각 파면 또는 해임된다. 혈중알코올농도 수치가 면허취소 수준인 0.08% 이상인 경우 최소 강등에서 최대 파면까지 처분이 이뤄진다. 0.08% 미만인 경우에는 강등∼정직이 가능하다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>난민제도 시행 30년, 누적 난민 신청 12만건...난민 신청 국가 1위는 러시아</title>
