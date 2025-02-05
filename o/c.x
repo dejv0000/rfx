@@ -13,6 +13,105 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>‘건설업 안전교육 이수증’  위조 불법체류 외국인 등에 판 업자 등 송치</title>
+      <link>https://www.chosun.com/national/regional/2025/02/05/HRLX24YPUNAWVPNTLFL7NGCXNM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/02/05/HRLX24YPUNAWVPNTLFL7NGCXNM/</guid>
+      <dc:creator>대전=우정식 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 05 Feb 2025 04:54:51 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4ROETED57FDFPGUG5CSYDINBNU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대전경찰청 전경 /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;건설 현장 취업에 필요한 건설업 기초안전보건교육 이수증을 불법으로 위조해 판매한 업자와 이를 알선하거나 구매한 일당이 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;대전경찰청 형사기동대 국제범죄수사팀은 이수증을 불법으로 제작한 건설 현장 팀장 A(38)씨 등 3명과 알선자 10명, 구매자 54명 등 내·외국인 64명을 사문서위조 등 혐의로 불구속 송치했다고 5일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 중국인 배우자인 B(38)씨, 다른 가족 C씨와 함께 지난 2021년 9월부터 지난해 6월까지 이수증을 위조해 불법 체류 및 취업 자격이 없는 외국인들에게 1장당 7만~10만원씩 받고 판매한 혐의를 받고 있다. 이들은 일반 이수증을 비롯해 8시간 교육 이수를 통해 발급 가능한 거푸집공 등 전문 기능습득교육 이수증까지 위조한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;A씨 등은 이수증 발급 후 갱신 없이 사용할 수 있고 QR코드가 없는 과거 이수증도 건설 현장에서 통용되고 있다는 점, 그리고 실물이 아닌 사진만 제시해도 근로가 가능하다는 점을 이용해 범행한 것으로 드러났다.&lt;br&gt;&lt;br&gt;또 중국 SNS를 통해 위조 이수증 제작 광고글을 올린 뒤 이를 보고 연락해 온 의뢰자들에게 돈을 받고 위조한 이수증을 배송하기도 한 것으로 조사됐다. &lt;br&gt;&lt;br&gt;알선자 10명의 경우 대부분 인력사무소에서 일하는 직원들로 외국인 인력사무소를 찾은 외국인 근로자가 이수증이 없다고 할 경우 A씨에게 연락해 이수증을 만들어 달라고 의뢰했던 것으로 조사됐다.&lt;br&gt;&lt;br&gt;경찰은 위조 이수증을 제작해 판매한다는 게시물 수 개월 치를 확보한 뒤 위장 거래를 통해 위조 이수증을 확인하고 일당을 검거했다. 이들의 주거지에선 위조한 이수증 3장과 범행에 사용된 컴퓨터, 카드 프린터기 등이 발견됐다. 경찰은 위조 이수증 이미지 파일 269개를 확보해 의뢰자 54명을 특정했다.&lt;br&gt;&lt;br&gt;A씨 등은 범행 흔적을 남기지 않기 위해 중국 현지 계좌나 위챗 페이 등을 통해 거래 대금을 받거나 위조한 이수증을 직접 전달하기도 했다. 경찰은 수사를 통해 범죄 수익금 1883만원을 특정, 기소 전 추징보전 조치했다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “외국인 범죄 조직에 의한 신종 사기 등 시민 안전을 위협하는 국제 범죄에 대해 지속적인 단속과 예방활동을 벌일 방침”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[단독] 의협, 작년 국회 방문해 ‘의료인력 추계기구’ 의견서 제출</title>
+      <link>https://www.chosun.com/national/welfare-medical/2025/02/05/OLCOIP6LIFD5XNLF5Q266PQAJQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/02/05/OLCOIP6LIFD5XNLF5Q266PQAJQ/</guid>
+      <dc:creator>오유진 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 05 Feb 2025 04:46:45 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JIL6BXBJOBJAFMCCHGBDQVFQJA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난해 12월 19일 오후 서울 용산구 대한의사협회에서 열린 '국회-대한의사협회·대한전공의협의회 간담회' 모습. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;법정 의사 단체인 대한의사협회(의협)가 이달 14일 국회 보건복지위원회 공청회에 참석해 ‘의료 인력 수급 추계 위원회’에 대한 공식 입장을 밝히기로 한 가운데, 앞서 의협이 지난해 추계위 관련 요구 사항을 담은 의견서를 국회에 제출한 것으로 확인됐다.&lt;br&gt;&lt;br&gt;5일 의료계에 따르면 의협은 작년 법안 심사 제1소위 전날(12월 20일) 국회에 방문해 A4 용지 3장 분량의 의견서를 제출했다. 법안 심사 과정에서 ‘추계위의 독립성·자율성·전문성 확보를 위한 방안’, ‘의료 전문가 중심의 위원 구성’, ‘부칙의 특례 조항 명시’ 등이 고려돼야 한다는 것이 주요 골자다.&lt;br&gt;&lt;br&gt;의협은 “정부 주도로 의사 결정이 되는 구조를 탈피해 전문가 중심의 논의와 결정이 이뤄질 수 있는 구조가 돼야 할 것”이라며 “자문 기구가 아닌 의결 기구로서 역할을 부여해 추계위의 결정이 그대로 정책으로 반영되는 구조로 논의·운영돼야 한다”고 했다. 그간 의료계에선 정부의 의대 2000명 증원을 비판하며 이같이 주장해 왔다. 의료계 의견이 충분히 반영될 수 있도록 추계 기구를 만들어야 한다는 것이다.&lt;br&gt;&lt;br&gt;의협은 “실제 의료 현장에 있는 전문가들의 의견이 제대로 수용되지 않으면 탁상공론과 같은 실효성이 떨어지는 정책이 나올 수밖에 없다”며 “보건 의료 인력별로 추계위를 두고, 위원회별로 해당 보건 의료인 단체인 중앙회가 추천하는 위원으로만 과반 이상 포함되도록 구성돼야 한다”고 했다.&lt;br&gt;&lt;br&gt;‘수급 추계 전문위원회’는 의사·간호사·치과의사·한의사 등 분과별 위원회로 구성되고, 각 위원회에 전문가 10~15명이 참여하게 된다. 이때 전문가 위원 과반수 이상을 분야별 현업 단체가 추천할 수 있도록 권한을 달라는 것이다.&lt;br&gt;&lt;br&gt;의협은 또 “일부 법 개정안에서 각 직역별 추계위 중 의료인 단체가 아닌 ‘의료 기관 단체’의 추천 위원과 함께 구성하도록 규정하고 있는데, 이는 추계 과정상 의료 기관 운영·경영 측면의 입장이 반영돼 보건의료 체계의 전문가적 수급 전망이 왜곡될 우려가 매우 크고 각 추계위별 형평성에도 어긋난다”며 “의료인 단체 중앙회가 모두 추천하는 전문가 위원으로 위원회가 구성돼야 할 것”이라고 했다.&lt;br&gt;&lt;br&gt;이어 “추계위 위원장은 각 보건의료인 단체가 추천하는 위원 중에서 호선(互選)하도록 명시해 추계위의 전문성이 확보될 수 있도록 규정돼야 할 것”이라며 “위원회 산하의 전문위원회나 수급추계센터의 경우에도 의료의 특수성과 의학적 전문성이 반영될 수 있도록 구성돼야 할 것”이라고 했다.&lt;br&gt;&lt;br&gt;앞서 정부는 상설 추계 기구인 수급 추계 전문위원회와 함께, 추계 작업을 행정적으로 지원하는 ‘의료인력수급추계센터’(가칭)를 올해 만들 것이라고 밝힌 바 있다.&lt;br&gt;&lt;br&gt;의협은 “의료 현장의 혼란이 심화되고 국민의 건강과 안전을 위협하는 등 사회적 부작용을 최소화하기 위해서라도 추계위를 통해 ‘과학적 추계를 기반으로 한 2026학년도 의대 정원 감원 조정’ 등 대책 마련이 시급하다”며 “이를 위한 특례 조항 등이 관련 법 개정안에 반드시 명시돼야 할 것”이라고 했다. 정부는 의료계가 기구 구성에 참여하면 2026학년도 의대 정원부터 논의할 수 있다는 입장이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>충주맨, 공무원 최초 프리 선언?… 알고 보니 ‘이 복지’ 홍보  </title>
+      <link>https://www.chosun.com/national/national_general/2025/02/05/YAJSM5AHBZHPFPZXFDFSTPSCK4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/02/05/YAJSM5AHBZHPFPZXFDFSTPSCK4/</guid>
+      <dc:creator>박선민 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 05 Feb 2025 05:00:18 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BSIGJ2M2LVAE7ELA5INZPQWQ2A.png"&gt;&lt;figcaption&gt;&lt;small&gt;충주시 김선태 주무관이 '프리 선언'이라는 제목의 영상에서 시 자궁경부암 백신 무료 접종 홍보를 하고 있다. /유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘충주시 홍보맨’ 김선태 주무관이 ‘프리 선언’을 해 화제다. 실제로 프리랜서 선언을 한 것은 아니고, 최근 김대호 MBC 아나운서가 해 화제가 된 프리 선언을 활용해 자궁경부암 백신을 ‘프리’(Free·무료)로 지원한다며 언어유희로 충주시 복지 사업 홍보에 나선 것이다. 온라인상에서는 “재치 있다”는 취지의 반응이 이어졌다. &lt;br&gt;&lt;br&gt;충주시 공식 유튜브 채널에는 5일 ‘프리 선언’이라는 제목의 26초 분량의 영상이 올라왔다. 김 주무관이 책상에 앉아 중대 발표를 하려는 듯한 장면의 섬네일(미리보기 이미지)이 사용됐다. &lt;br&gt;&lt;br&gt;“안녕하세요. 충주맨입니다”라는 말로 시작하는 영상에서 김 주무관은 “먼저 제 발언에 실수가 있을 수 있어 서면을 보고 읽도록 하겠다”고 했다. 그러면서 “우선 제가 직접 말씀드려야 했는데, 기사로 먼저 접하게 만들어 죄송하다”고 했다. 영상 제목처럼 김 주무관이 실제로 프리랜서 선언이라도 하려는 듯한 분위기였다. &lt;br&gt;&lt;br&gt;하지만 분위기는 김 주무관이 자궁경부암 백신을 들어 보이면서 반전됐다. 김 주무관은 “충주시가 전국 최초로 자궁경부암 백신을 무료로 지원한다”며 “대상은 충주에 주민등록을 둔 18~26세 모든 여성”이라고 했다. 영상 제목 ‘프리 선언’의 ‘프리’가 프리랜서가 아닌 무료(Free)의 의미로 이용된 셈이다. 최근 김대호 MBC 아나운서의 프리랜서 선언을 패러디한 것으로 보인다. 김 주무관은 평소에도 화제가 된 인물이나 사건을 패러디해 시 정책을 홍보하는 것으로 유명하다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/F74FQHDYCBEHNBKJQLJR3AHGHQ.png"&gt;&lt;figcaption&gt;&lt;small&gt;시 복지 사업을 홍보하는 영상이 하루도 지나지 않아 조회수가 70만회를 넘겼다. /유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;시 공식 유튜브 영상임에도 불구하고, 이 영상은 하루도 지나지 않아 조회수가 70만회를 넘기고 댓글도 1600개 이상 달릴 정도로 화제가 됐다. 네티즌들은 “압도적인 어그로(관심 끌기) 제목, 그리고 정직한 내용” “진짜 프리 선언하는 줄 알고 속았다” “말 그대로 프리(공짜) 선언이었다” 등의 반응을 보였다. &lt;br&gt;&lt;br&gt;홍보 방식과 별개로 시 정책 자체를 반기는 네티즌도 많았다. “이건 전국적으로 해줬으면 좋겠다. 충주시 일 정말 잘한다” “솔직히 (자궁경부암 백신) 60만원 가까이하길래 비싸서 포기했는데, 충주 시민 부럽다” “비싸서 맞기 꺼려졌는데, 이건 진짜 좋은 것 같다” 등이다. &lt;br&gt;&lt;br&gt;충주시는 자궁경부암 예방 효과가 뛰어난 ‘가다실9’ 백신 접종을 통해 시민 건강을 보호하고 질병 예방을 강화하자는 취지에서 이 같은 사업을 추진한 것으로 알려졌다. 충주에 주민등록 주소를 둔 희망자는 올해 말까지 1인당 3회에 걸쳐 지정 병의원에서 접종받을 수 있다. 다만 ‘서바릭스’ ‘가다실4’ 등 같은 다른 자궁경부암 백신을 맞은 여성은 대상에서 제외된다. &lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/KYQVZOQYS5FFHNWXSMEYFETYT4.png?width=752&amp;height=564&amp;auth=32ecc45a3aee40e4dbf087bc925d2e125478b7192d7e7989313b6622c1aa0c6e&amp;smart=true" type="image/png" height="564" width="752">
+        <media:description type="plain">충주시 김선태 주무관이 '프리 선언'이라는 제목의 영상에서 시 자궁경부암 백신 무료 접종 홍보를 하고 있다. /유튜브</media:description>
+        <media:credit role="author" scheme="urn:ebu"/>
+      </media:content>
+    </item>
+    <item>
+      <title>검찰, 문다혜 불구속 기소…음주운전·불법숙박업 혐의</title>
+      <link>https://www.chosun.com/national/national_general/2025/02/05/OLN2CBZSJZFNZIZC6DOHSCOMKU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/02/05/OLN2CBZSJZFNZIZC6DOHSCOMKU/</guid>
+      <dc:creator>구아모 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 05 Feb 2025 04:36:18 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Y3GDLO6TFAUP7WAIAZEHOO4IJY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;'음주운전 혐의'를 받는 문재인 전 대통령의 딸 문다혜 씨가 작년 10월 18일 서울 용산구 용산경찰서에 조사를 받기위해 출석하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰이 문재인 전 대통령의 딸 다혜씨를 음주운전 혐의와 공중위생관리법 위반 혐의로 불구속 기소했다고 5일 밝혔다.&lt;br&gt;&lt;br&gt;서울서부지검 형사2부(부장 추혜윤)는 이날 도로교통법위반(음주운전)·공중위생관리법위반 혐의를 받는 문씨에 대해 불구속 상태로 재판에 넘겼다고 밝혔다.&lt;br&gt;&lt;br&gt;검찰은 “피고인이 음주운전으로 교통사고를 일으킨 점, 미신고 숙박업 운영 기간이 장기이고 그로 인해 취득한 수익이 다액인 점을 고려했다”고 했다.&lt;br&gt;&lt;br&gt;위험운전치상 혐의는 적용되지 않았다. 경찰의 불송치 결정이 있었고, 혐의가 인정된다고 보기 어려워 기록을 반환했다고 검찰은 밝혔다.&lt;br&gt;&lt;br&gt;문씨는 지난해 10월 5일 오전 2시 51분쯤 서울 용산구 이태원 인근에서 만취한 상태로 차량을 몰다 택시와 부딪힌 혐의를 받는다. 당시 문씨의 혈중알코올농도는 0.149%로 면허 취소 기준(0.08%)을 넘겼다.&lt;br&gt;&lt;br&gt;문씨는 또 본인 소유의 서울 영등포구 오피스텔, 양평동 빌라와 제주시 한림읍 협재리에 있는 단독주택을 불법 숙박업소로 운영한 혐의를 받는다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>국민 10명 중 9명 “사회 갈등 중 진보·보수 갈등이 가장 심각”</title>
+      <link>https://www.chosun.com/national/welfare-medical/2025/02/05/ZXO3H4NFDBHHXKUIO4LMHKGUGM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/02/05/ZXO3H4NFDBHHXKUIO4LMHKGUGM/</guid>
+      <dc:creator>오유진 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 05 Feb 2025 03:36:02 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/O7DSI62TPJLKLDEJN2IDIICNX4.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;법원이 내란 수괴 혐의를 받는 윤석열 대통령의 체포 영장을 재발부한 가운데, 지난 8일 오후 보수 단체 회원들이 서울 용산구 한남동 대통령 관저 인근 진보 단체 집회 구역에서 윤 대통령 지지·응원 집회를 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;우리나라 국민 10명 중 9명이 ‘진보·보수 간 갈등’을 가장 심각한 사회 갈등으로 인식한다는 조사 결과가 나왔다.&lt;br&gt;&lt;br&gt;5일 한국보건사회연구원(보사연)의 ‘사회 갈등에 대한 한국인의 인식 변화와 시사점’ 보고서에 따르면, 2023년 6~8월 19~75세 남녀 3950명을 면접 조사한 결과 국민 10명 중 9명꼴로 정치 영역에서의 갈등을 가장 심각하게 여겼다.&lt;br&gt;&lt;br&gt;응답자의 92.3％가 ‘진보와 보수 간의 갈등’이 심각하다고 답했고, 이어 ‘정규직과 비정규직 간의 갈등’(82.2％), ‘노사 갈등’(79.1％), ‘빈부 갈등’(78％), ‘대기업과 중소기업 간의 갈등’(71.8％), ‘지역 갈등’(71.5％) 등 순이었다. 10년 후 심각해질 사회 갈등도 ‘진보와 보수 간의 갈등’이 87.66％로 가장 높았다.&lt;br&gt;&lt;br&gt;정치 영역의 갈등은 다른 사람과의 교제 의향에도 부정적 영향을 주는 것으로 나타났다. ‘정치 성향이 다르면 함께 시민·사회 단체 활동을 할 의향이 없다’는 응답이 71.4%, ‘정치 성향이 다른 사람과는 연애나 결혼을 할 의향이 없다’는 응답이 58.2％로 높게 나타났다. ‘정치 성향이 다른 친구·지인과 술자리를 같이 할 의향이 없다’는 응답은 33％로 집계됐다.&lt;br&gt;&lt;br&gt;응답자들은 갈등 해결을 위해 정부·정치계가 중심적인 역할을 해야 한다고 봤다. 응답자 56%가 갈등 해결 주체로 ‘중앙·지방 정부’라고 답했고, 이어 국회·정당(22％), 국민 개개인(9.2％), 언론계(4.5％), 시민·사회 단체(3.3％), 기업(3％), 교육계(1％), 종교계(1％) 등 순으로 나타났다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>시민단체, ‘일타강사’ 전한길 내란선동 혐의로 고발</title>
+      <link>https://www.chosun.com/national/national_general/2025/02/05/BGO7HI7F3VEKVLNT5JZ4M6FE24/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/02/05/BGO7HI7F3VEKVLNT5JZ4M6FE24/</guid>
+      <dc:creator>김명진 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 05 Feb 2025 04:39:54 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IUE7TGJSF4B2R6GYR2F73PNH7Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 1일 부산역 광장에서 열린 윤석열 대통령 탄핵 반대 집회에 연사로 나선 한국사 강사 전한길씨가 발언하고 있다. /유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;친야 성향 한 시민단체가 5일 윤석열 대통령 탄핵에 반대 목소리를 내고 있는 유명 한국사 강사 전한길씨에 대해 그가 내란을 부추기고 있다며 경찰에 고발장을 냈다.&lt;br&gt;&lt;br&gt;사법정의바로세우기시민행동(사세행)은 이날 서울 서대문구 경찰청 국가수사본부 앞에서 기자회견을 열고 전씨를 내란 선동과 정보통신망법상 명예훼손 혐의로 고발한다고 밝혔다.&lt;br&gt;&lt;br&gt;사세행은 “전씨는 일부 헌법재판관들에 대한 부당한 공격을 자행하고 탄핵심판 자체를 부정함으로써 윤 대통령 탄핵 인용 시 국민적 불복과 헌재에 대한 침탈·폭력을 정당화하는 언동을 반복했다”고 했다.&lt;br&gt;&lt;br&gt;사세행은 전씨가 유튜브에서 문형배 헌재소장 권한대행 등 일부 헌법재판관들을 비방한 것을 두고서는 “단정적 표현을 반복하면서 자신의 주장이 사실인 양 다수의 국민에게 유포해 사회적 평판을 현저히 저하했다”고 했다.&lt;br&gt;&lt;br&gt;전씨는 최근 자기 유튜브 채널에 올린 영상에서 선관위의 부정 선거 의혹을 제기하고 윤 대통령에 대한 탄핵의 부당성을 주장했다. 지난 1일 부산역 광장에서 열린 탄핵 반대 집회에서는 “국민들은 불의한 재판관들의 심판에 승복하지 않을 것이다. 국민들이 헌재를 휩쓸 것”이라고 말한 바 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>신임 해양경찰청장에 김용진 중부해경청장 내정</title>
+      <link>https://www.chosun.com/national/regional/2025/02/05/EXLR76QK4VAIFBPF5G7GUJ6SVU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/02/05/EXLR76QK4VAIFBPF5G7GUJ6SVU/</guid>
+      <dc:creator>인천=이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 05 Feb 2025 04:25:51 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/O7LHAMJ7ERD63JWQEOQMTQWG6U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김용진 해양경찰청장 내정자./해양경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;신임 해양경찰청장에 김용진(55) 중부지방해양경찰청장이 내정됐다.&lt;br&gt;&lt;br&gt;5일 해양경찰청에 따르면 해양수산부는 김 청장을 해양경찰청장으로 임명 제청했다.&lt;br&gt;&lt;br&gt;해양경찰청법 등에 따르면 해양경찰청장은 해양경찰위원회의 동의를 받아 해양수산부장관 제청으로, 국무총리를 거쳐 대통령이 임명한다.&lt;br&gt;&lt;br&gt;해양경찰청장은 경찰청장과 같은 치안총감이다.&lt;br&gt;&lt;br&gt;경북 영주 출신인 김 청장은 영주 중앙고와 서울대를 졸업했다.&lt;br&gt;&lt;br&gt;1999년 행정고시 42기에 합격해 공직에 입문한 김 청장은 2008년 경정 특채로 해양경찰청에 임용돼 울산해양경찰서장, 해양경찰청 국제협력관과 기획조정관, 해양경찰청 차장 등을 지냈다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/DNMUVPB5EJA6VBUJYYV3KMTFT4.jpg?width=685&amp;height=514&amp;auth=4a43e4d322ca1724db411115805565372719a7742bf513c61377001666a08408&amp;smart=true" type="image/jpeg" height="514" width="685">
+        <media:description type="plain">김용진 해양경찰청장 내정자./해양경찰청</media:description>
+        <media:credit role="author" scheme="urn:ebu"/>
+      </media:content>
+    </item>
+    <item>
+      <title>전광훈, 서부지법 난동 배후설 부인...“특임전도사 2명 잘 몰라”</title>
+      <link>https://www.chosun.com/national/national_general/2025/02/05/6AUGMMGB5RGDHBLOOSROVV74UM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/02/05/6AUGMMGB5RGDHBLOOSROVV74UM/</guid>
+      <dc:creator>강지은 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 05 Feb 2025 04:20:26 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WC7EZPIDO5A6NMWJ3H4EQ3M3QY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전광훈 목사가 5일 오전 서울 여의도 자유통일당 중앙당사에서 내란선동 혐의 관련 기자회견을 하고 있다. 이 기자회견은 대한민국바로세우기국민운동본부(대국본)가 주최했다./박성원 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;내란선동 혐의로 경찰 수사를 받고 있는 사랑제일교회 전광훈(69) 목사가 “내란선동 혐의 자체가 성립할 수 없다”며 “최근 체포된 특임전도사 2명도 잘 모르는 사람”이라고 혐의를 부인했다.&lt;br&gt;&lt;br&gt;5일 오전 대한민국바로세우기국민운동본부(대국본)는 서울 영등포구 자유통일당 중앙당사에서 기자회견을 열고 서부지법 사태의 배후에 전 목사가 있는 게 아니냐는 의혹에 대한 입장을 밝혔다. 이날 전 목사는 “광화문 집회를 7년간 주도하며 한 번도 사건 사고가 없었고, 무력을 행사하거나 말싸움도 하지 말 것을 참가자들에게 강조해왔다”고 했다. 그는 내란 선동 혐의로 고발돼 서울경찰청 안보수사대 수사를 받고 있다. 경찰은 그가 사태 이전 ‘국민 저항권’을 10여 차례 언급하거나, 윤 대통령을 서울구치소에서 데리고 나올 수 있다는 취지로 한 발언 등이 내란 선동에 해당하는지 등을 전담팀을 구성해 조사 중이다.&lt;br&gt;&lt;br&gt;전 목사 측은 “서울 구치소에서 윤 대통령을 데리고 나오자는 말은 국민 1000만명이 모여 한마음이 되면 대통령이 구속 상태에서 벗어날 수 있다는 생각이었을 뿐 물리적으로 구치소 밖으로 데리고 나오자는 의미가 아니었다”고 했다. 국민 저항권에 대해 전 목사 측 김학성 교수는 “국민저항권은 천부인권의 하나로, 국가가 불법을 자행하면 누구라도 언제든 어디서든 발동할 수 있는 권리다. 이건 법과대학 2학년이면 알 수 있는 기초 개념일 뿐”이라고 설명했다. “국민저항권은 해괴한 개념”이라고 발언한 김민석 더불어민주당 의원에 대해 전 목사가 공개 토론을 제안하기도 했다.&lt;br&gt;&lt;br&gt;전 목사 측은 ‘내란선동’ 혐의 자체가 성립하지 않는다는 입장이다. 구주와 변호사는 “서부지법 사태로 구속된 피의자들은 공무집행방해나 건조물 침입 혐의를 받을 뿐이므로 선동할 ‘내란’ 행위 자체가 없다”고 했다. 전 목사는 “경찰이 부르면 언제든 나가서 정확히 반박하겠다”고 덧붙였다.&lt;br&gt;&lt;br&gt;최근 경찰에 체포된 사랑제일교회 특임전도사 2명에 대해서는 “이씨는 1년 전 안수기도를 해주려 한 번 봤고, 윤씨는 주차장에서 마주쳐 인사하면 인사를 받아주는 정도의 사이였을 뿐 잘 모른다”고 했다.&lt;br&gt;&lt;br&gt;이날 유튜버 신혜식씨는 기자회견에 참여해 “서부지법 난동 사태의 배후엔 전 목사가 아닌 유튜버 2명이 있다”며 “이들을 경찰에 고발하기 위한 증거를 수집했고, 경찰이 사태의 배후를 밝히지 못하면 바로 고발장을 제출할 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘방관 논란’ 침묵 깬 장성규 “사실과 달라…오요안나 억울함 풀리길”</title>
+      <link>https://www.chosun.com/national/national_general/2025/02/05/QTDY2JPQC5CEZJMPBBLT2DOXUI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/02/05/QTDY2JPQC5CEZJMPBBLT2DOXUI/</guid>
+      <dc:creator>최혜승 기자 </dc:creator>
+      <description/>
+      <pubDate>Wed, 05 Feb 2025 03:38:39 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TPTOLRIMAFFT7FBFN2ZYZCFD2Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;방송인 장성규 입장문./뉴스1·인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;방송인 장성규가 고(故) 오요안나의 직장 내 괴롭힘 피해를 방관했다는 의혹에 대해 “사실과 다르다”고 입장을 밝혔다.&lt;br&gt;&lt;br&gt;장성규는 5일 소셜미디어를 통해 “지난 12월 뒤늦게 알게 된 고인의 소식에 그동안 마음으로밖에 추모하지 못해 미안하다. 늦었지만 고인의 억울함이 풀려 그곳에선 평안하기를, 그리고 유족에겐 위로가 되기를 바란다. 그러기 위해 제가 도움이 될 수 있다면 최선을 다하겠다”며 애도의 뜻을 전했다.&lt;br&gt;&lt;br&gt;그는 “처음 제 이름이 언급됐을 때 사실과 다른 내용이 있어서 속상했지만 고인과 유족의 아픔에 비하면 먼지만도 못한 고통이라 판단해 바로잡지 않고 침묵했다”며 “그 침묵을 제 스스로 인정한다는 뉘앙스로 받아들인 네티즌들이 늘었고 악플이 달리기 시작했다. 급기야 가족에 관한 악플이 달리기 시작했고 보호자로서 역할을 다하기 위해 댓글 달 수 있는 권한을 한정했으나 수위가 더 높아졌다”고 했다.&lt;br&gt;&lt;br&gt;이어 “고인의 억울함이 풀리기 전에 저의 작은 억울함을 풀려고 하는 것은 잘못된 순서라고 생각한다. 다만 모든 것이 풀릴 때까지 가족에 대한 악플은 자제해 주시길 머리 숙여 부탁드린다”고 했다.&lt;br&gt;&lt;br&gt;MBC 기상캐스터 오요안나는 작년 9월 28세 일기로 세상을 떠났다. 비보는 같은 해 12월 10일 뒤늦게 전해졌다. 그러던 지난달 한 매체가 동료 기상캐스터들에게 괴롭힘을 당했다는 고인의 유서 내용을 보도하면서 직장 내 괴롭힘 논란이 수면 위로 떠올랐다. 이 과정에서 일부 유튜버는 가해자로 지목된 인물이 장성규와 같은 방송 프로그램을 한다는 점을 언급하며 장성규가 오요안나의 피해 사실을 알고 있었을 것이라고 주장했다.&lt;br&gt;&lt;br&gt;MBC는 오요안나 사망 약 4개월 만인 지난 3일 진상조사위원회를 출범한다고 밝혔다. 채양희(법무법인 혜명) 변호사가 위원장을 맡은 진상조사위원회는 이날 첫 회의를 시작으로 본격 활동에 들어간다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘플라이강원 20억 부당 지원’… 김진하 양양군수, 배임 혐의로 또 검찰 송치</title>
+      <link>https://www.chosun.com/national/2025/02/05/B7SDJ5FPSZAZZI5MBU3BQTQDRU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2025/02/05/B7SDJ5FPSZAZZI5MBU3BQTQDRU/</guid>
+      <dc:creator>양양=정성원 기자</dc:creator>
+      <description>뇌물 수수, 강제추행 등 혐의로 구속 기소된 김진하 강원 양양군수가 업무상 배임 혐의 사건으로 검찰에 또다시 넘겨졌다.강원경찰청 반부패경제범죄수사대는 최근 김진하 양양군수와 A 전 부군수, 관련 부서 공무원 3명 등 총 5명을 특정경제범죄 가중처벌 등에 관한 법률상 배임 혐의로 검찰에 송치했다고 5일 밝혔다.</description>
+      <pubDate>Wed, 05 Feb 2025 03:36:24 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PAY22OKNMXLOGKX7DZPTLYVGNM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;뇌물 수수 등 혐의를 받고 있는 김진하 양양군수가 지난달 2일 구속 전 피의자 심문(영장실질심사)을 받기 위해 춘천지법 속초지원에 들어서고 있다. /뉴스1
+&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;뇌물 수수, 강제추행 등 혐의로 구속 기소된 김진하 강원 양양군수가 업무상 배임 혐의 사건으로 또다시  검찰에 넘겨졌다.&lt;br&gt;&lt;br&gt;강원경찰청 반부패경제범죄수사대는 최근 김진하 양양군수와 A 전 부군수, 관련 부서 공무원 3명 등 총 5명을 특정경제범죄 가중처벌 등에 관한 법률상 배임 혐의로 검찰에 송치했다고 5일 밝혔다.&lt;br&gt;&lt;br&gt;김 군수 등은 지난 2023년 5월 유동성 위기를 겪는 플라이강원에 20억원의 운항장려금을 부당 지원하는 방법으로 양양군에 재산상 손해를 끼친 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;플라이강원은 양양군이 20억원을 지원한 지 얼마 지나지 않아 경영난으로 기업회생을 신청했다.&lt;br&gt;&lt;br&gt;경찰은 지난해 양양군청과 플라이강원 본사 등의 압수수색을 진행, 김 군수 등이 플라이강원의 기업회생 신청 계획을 알고도 20억원을 지급했다고 판단했다.&lt;br&gt;&lt;br&gt;앞서 양양군의 지원 예산안을 의결한 양양군의회에서도 “항공사의 자구노력 등을 명확히 판단하고 지원에 상응하는 혜택이 군민에게 돌아갈 수 있는지 고려해 신중하게 집행해야 한다”고 주문한 바 있다.&lt;br&gt;&lt;br&gt;한편 플라이강원은 지난 2019년 양양국제공항을 거점으로 출범했으나, 코로나 등으로 경영난이 악화돼 지난 2023년 기업회생을 신청했다. 지난해 8월엔 위닉스에 인수된 뒤 사명이 ‘파라타항공’으로 변경됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>“디즈니 왔어요” 美 출장 중 유튜브 찍은 공기관 직원… 법원 “해고 정당”</title>
       <link>https://www.chosun.com/national/national_general/2025/02/05/RLBVJI4IVRD7JD5QI2QLFITVRU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/02/05/RLBVJI4IVRD7JD5QI2QLFITVRU/</guid>
@@ -862,15 +961,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GQT7VO6HMALBH3PS6ML43WCGFQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 남부지검 모습./뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;고시원에서 이웃을 성폭행하고 살해한 남성이 구속 상태로 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;서울남부지검 형사3부(부장 손상희)는 이모(43)씨를 성폭력처벌법상 강간살인, 주거침입, 주거수색 등 혐의로 지난달 23일 구속 기소했다고 4일 밝혔다. 이씨는 지난달 4일 오후 10시쯤 서울 영등포구 도림동의 한 고시원에서 이웃 투숙객 20대 여성 A씨를 자신의 방으로 데려가 성폭행하고 살해한 혐의를 받는다.&lt;br&gt;&lt;br&gt;이씨는 범행 다음날 경찰서에 찾아가 A씨를 살해했다고 자백했다. “‘번호를 알려달라’고 고백했는데 거절당해 범행을 저질렀다”는 취지로 진술했다고 한다. A씨는 무직으로, 범행 당시 음주 상태는 아니었다고 조사됐다. &lt;br&gt;&lt;br&gt;경찰은 지난 13일 살인과 주거침입, 주거수색 혐의를 적용해 이씨를 구속 송치했다. 검찰 수사 단계에서 이씨의 성범죄 정황이 추가로 발견됐고, 검찰은 강간살인 혐의를 더해 이씨를 재판에 넘겼다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>공수처, 이상민 사건 검찰·경찰에 재이첩…검경 다시 수사</title>
-      <link>https://www.chosun.com/national/court_law/2025/02/04/HBZMV7UEGVCL7CNRFRKRJUGTPU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/02/04/HBZMV7UEGVCL7CNRFRKRJUGTPU/</guid>
-      <dc:creator>박강현 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 04 Feb 2025 03:25:08 +0000</pubDate>
-      <content:encoded>고위공직자범죄수사처(공수처)가 12·3 비상계엄 사태 당시 일부 언론사 단전·단수를 지시한 의혹 등을 받는 이상민 전 행정안전부 장관의 내란 혐의 등 사건을 경찰에 넘겼다고 4일 밝혔다. 공수처는 이 전 장관 사건을 검찰에도 넘길 예정이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OHSS3RAMWHGUJOQNQGJRVUJP2I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;고위공직자범죄수사처. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;공수처 관계자는 이날 정부과천청사 브리핑에서 “어제 이 전 장관 사건을 경찰로 이첩했다”며 “검찰에도 이 전 장관 사건을 오늘 오후 넘길 예정”이라고 밝혔다. 공수처는 이 같은 재이첩 근거로는 “처장은 피의자, 피해자, 사건의 내용과 규모 등에 비춰 다른 수사기관이 고위공직자범죄 등을 수사하는 것이 적절하다고 판단될 때에는 해당 수사기관에 사건을 이첩할 수 있다”고 규정한 공수처법 24조 3항을 제시했다. &lt;br&gt;&lt;br&gt;공수처 관계자는 이 전 장관 사건 재이첩 사유에 대해 “법리 검토 결과 직권남용이 될 수 있는지 명확하지 않다고 판단했다. 직권남용 관련 범죄로 내란 혐의까지 나아갈 경우 법원에서 어떤 판단을 받을지 모른다는 점을 고려했다”며 “직권남용은 미수 처벌 규정이 없다는 것이 핵심”이라고 설명했다. 이 전 장관의 단전·단수 지시는 실제 이뤄지진 않은 것으로 파악됐다.&lt;br&gt;&lt;br&gt;앞서 경찰은 지난해 12월 16일, 검찰은 지난해 12월 26일 각각 이 전 장관 등에 대한 수사를 공수처에 이첩했다. 공수처가 비상계엄 관련 중복 수사를 막겠다며 이첩 요청권을 행사했기 때문이다. 공수처에 따르면 경찰은 3개 혐의를 적시해 보냈고, 검찰은 내란 혐의를 포함해 8개 혐의로 사건을 이첩했다.&lt;br&gt;&lt;br&gt;공수처 관계자는 이렇게 되면 중복 수사 문제가 재발하는 것 아니냐는 취지의 질문엔 “양쪽에서 수사를 진행할 수 있는 상황은 됐는데, 양 기관에서 적절한 시점에 (수사와 관련해) 협의하거나 조정하지 않을까 싶다”고 했다. 그러면서 “정확한 의미는 (재이첩이 아닌) 반환”이라고 덧붙였다.&lt;br&gt;&lt;br&gt;이첩 요청권을 발동해 받은 사건을 다시 검·경에 보낸 것이 수사를 효율화시키기 보단 오히려 지연시킨 것 아니냐는 지적에 대해선 “이 전 장관 단전·단수 관련해 국회에서 의혹이 불거지자마자 관련자 진술을 받아 검토해 지체됐다 생각하지 않는다”고 말했다.&lt;br&gt;&lt;br&gt;또 애초에 공수처 수사가 적합하지 않은데 이첩을 받은 것인지에 대한 질문엔 “법리 검토, 조사가 이뤄지기 전이니까 가능성을 염두에 두고 이첩 받은 것이었다”며 “조사 및 수사를 하다보니 이런 검토 결과 상황이 생겨 재이첩을 하게 된 것”이라고 설명했다.&lt;br&gt;&lt;br&gt;공수처는 향후 비상계엄 수사 방향에 대해선 “경찰에서 공수처에 이첩한 게 윤석열 대통령, 국무위원 4명, 군사령관 5명, 경찰 간부 4명, 국회의원 1명 등 15명”이라며 “경찰 간부는 저희가 직접 기소할 수도 있어서 최선을 다해 수사력을 모을 계획”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[속보] ‘울산시장 선거개입’ 송철호·황운하 2심서 무죄</title>
       <link>https://www.chosun.com/national/court_law/2025/02/04/QSV4VDGW4NBB5NBREC3FYVVBXE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/02/04/QSV4VDGW4NBB5NBREC3FYVVBXE/</guid>
@@ -878,91 +968,6 @@
       <description/>
       <pubDate>Tue, 04 Feb 2025 02:43:56 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WXATUQJKMPVQ4FSJ4FGCA5S57I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;송철호 전 울산시장(왼쪽)과 황운하 조국혁신당 의원./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;문재인 정부 청와대의 ‘울산시장 선거개입 의혹’ 사건으로 기소된 황운하 조국혁신당 의원과 송철호 전 울산시장이 4일 항소심에서 무죄를 선고 받았다. 1심 재판부는 황 의원과 송 전 시장에게 각각 징역 3년을 선고했으나 이를 뒤집은 것이다.&lt;br&gt;&lt;br&gt;서울고법 형사2부(재판장 설범식)는 이날 황 의원과 송 전 시장에게 무죄를 선고했다. ‘청와대 하명 수사’에 개입한 혐의로 기소된 백원우 전 청와대 민정비서관과 박형철 전 반부패비서관도 무죄를 선고받았다. 송 전 시장이 울산시장 경선을 치를 때 당내 경쟁자였던 더불어민주당 임동호 전 최고위원의 불출마를 회유한 의혹으로 기소된 민주당 한병도 의원은 1심과 같이 무죄를 선고받았다.&lt;br&gt;&lt;br&gt;울산시장 선거개입 의혹은 지난 2018년 지방선거 당시 문재인 전 대통령의 30년 친구이자 민주당 후보였던 송 전 시장을 당선시키기 위해 청와대가 조직적으로 개입했다는 내용이다. 송 전 시장은 2017년 9월 울산경찰청장이던 황 의원에게 김기현 당시 울산시장(현 국민의힘 의원) 관련 수사를 청탁한 혐의를 받는다. 검찰은 청와대 민정비서관실 행정관이던 문모씨가 송병기 전 울산시 경제부시장이 제공한 정보를 토대로 범죄 첩보서를 작성했고, 이 첩보서가 백 전 비서관과 박 전 비서관을 통해 황 의원에게 전달됐다고 본다. 이를 토대로 ‘하명 수사’가 이뤄졌다고 보고 2020년 1월 이들을 기소했다.&lt;br&gt;&lt;br&gt;2심 재판부는 청와대 ‘하명 수사’ 의혹에 대해 “공소사실이 유죄라는 의심이 든다는 것은 사실”이라면서도 “합리적 의심의 여지 없이 증명되지 않아 이를 유죄로 판단한 원심에는 사실오인 및 법리오해로 판결에 영향을 미친 위법이 있다”고 판결 이유를 설명했다.&lt;br&gt;&lt;br&gt;선고가 끝난 뒤 송 전 시장은 이날 오전 11시 51분쯤 취재진과 만나 “어둠 속에서 진실을 보여준 재판부에 감사드린다”며 “이 사건은 정치적 사냥이었다”고 했다. ‘검찰이 상고할 경우 어떻게 할 건지’ 묻는 취재진 질문에는 “진실이 승리할 것이라 믿고 담담하게 대응하겠다”고 했다.&lt;br&gt;&lt;br&gt;황 의원은 “검찰의 부당한 수사와 기소가 더 이상 있어서는 안된다”며 “검찰은 해체돼야 한다”고 했다. 그러면서 “검찰이야 상고하겠지만 (무죄라는) 결론은 달라지지 않을 것이라고 믿는다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>尹측, 김봉식 전 서울청장 탄핵심판 증인 신청…증인 총 13명 채택</title>
-      <link>https://www.chosun.com/national/court_law/2025/02/04/ZW5RPHZFPRGW3CI3RQSJEEVV2U/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/02/04/ZW5RPHZFPRGW3CI3RQSJEEVV2U/</guid>
-      <dc:creator>김나영 기자, 박혜연 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 04 Feb 2025 02:49:18 +0000</pubDate>
-      <content:encoded>헌법재판소가 윤석열 대통령 탄핵심판과 관련해 4일까지 총 13명의 증인을 채택했다고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZVLZTL6ER3JR47T72LP2EYEXGY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 종로구 헌법재판소/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;천재현 헌재 공보관은 이날 브리핑에서 “윤 대통령 측이 지난 3일 김봉식 전 서울경찰청장을 증인으로 추가 신청했다”고 했다. 재판부는 채택 여부를 검토 중이다.&lt;br&gt;&lt;br&gt;헌재가 이날까지 채택한 증인은 총 13명이다. 국회 측이 신청한 증인으로는 조지호 경찰청장, 이진우 전 수도방위사령관, 여인형 전 방첩사령관, 홍장원 전 국가정보원 1차장, 곽종근 전 특수전사령관, 김용빈 중앙선거관리위원회 사무총장이 포함됐다. &lt;br&gt;&lt;br&gt;윤 대통령 측은 이날까지 31명 이상의 증인을 신청했고, 이 가운데 김용현 전 국방부 장관, 신원식 국가안보실장, 조태용 국가정보원장, 백종욱 전 국정원 3차장, 박춘섭 대통령실 경제수석이 채택됐다. 이상민 전 행정안전부 장관은 양측이 모두 신청해 채택된 증인이다.&lt;br&gt;&lt;br&gt;이날까지 조 청장을 제외한 다른 증인들은 불출석 의사를 밝히지 않은 것으로 전해졌다. 앞서 조 청장은 지난달 23일 증인 신문이 예정돼 있었지만, 건강상의 이유로 불출석 사유서를 내고 헌재에 나오지 않았다.&lt;br&gt;&lt;br&gt;한편 윤 대통령 측이 정치적 편향 논란이 제기된 문형배·이미선·정계선 재판관의 탄핵심판 회피를 촉구하는 의견서를 낸 것과 관련해, 헌재는 “재판부가 종합적으로 검토 중”이라고 밝혔다.&lt;br&gt;&lt;br&gt;또 윤 대통령 측은 지난 2일 투표자 수에 대한 검증을 추가로 신청한 것으로 확인됐다. 윤 대통령 측은 지난달 30일에도 같은 취지의 검증을 요청했다가 이튿날 기각된 바 있다.&lt;br&gt;&lt;br&gt;아울러 헌재는 전날 최상목 대통령 권한대행의 마은혁 헌법재판관 후보자 임명 보류 관련 권한쟁의·헌법소원 사건을 당일 연기하고, 변론을 재개한 배경에 대해 “양 당사자에게 보완을 명령한 석명 내용으로 갈음하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;헌재는 전날 국회 측에 ‘국회가 권한쟁의 심판을 청구하기 위해 본회의 의결이 필요하다’는 주장에 대한 의견을 내라 요구했고, 최 대행 측에는 증인 진술서 등 주장을 뒷받침할 증거를 제출하라는 석명을 보냈다고 한다. 천 공보관은 “제출된 석명 내용을 바탕으로 변론 재개 이후의 진행 방향을 가늠할 예정”이라고 덧붙였다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[속보] 박성재 법무장관 탄핵심판 변론준비 회부…24일 첫 재판</title>
-      <link>https://www.chosun.com/national/national_general/2025/02/04/NDEYPPW5NJB55P5PPLHVATVTRI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/02/04/NDEYPPW5NJB55P5PPLHVATVTRI/</guid>
-      <dc:creator>김나영 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 04 Feb 2025 02:54:02 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TIZXOR7AK5ARBIX2K3UTQNDAYU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 종로구 재동에 있는 헌법재판소 입구에 현판이 붙어있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;헌법재판소가 박성재 법무부 장관에 대한 탄핵 사건이 준비절차에 회부됐다고 밝혔다. 해당 사건을 담당할 수명(受命)재판관으로는 이미선, 정계선 재판관이 지정됐다.&lt;br&gt;&lt;br&gt;박성재 장관의 첫 준비기일은 오는 24일 오후 2시에 헌재 소심판정에서 열릴 예정이다. 박 장관은 지난해 12월 12일 탄핵소추돼 두 달 넘게 직무가 정지돼 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“여행 가서 먹을래”…비행기 들고 타려다 걸린 김치 11t, 어디로 갔을까</title>
-      <link>https://www.chosun.com/national/national_general/2025/02/04/HC475FCU6JAVXAVYJFIQSJ6MEE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/02/04/HC475FCU6JAVXAVYJFIQSJ6MEE/</guid>
-      <dc:creator>김자아 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 04 Feb 2025 02:48:09 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FEKFWQB4ERMITMYT4STV2BXZUU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울의 한 대형마트에서 관계자가 김치를 진열하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김치와 쌀 등 보안 검사에서 걸린 기내 반입 금지 물품이 복지시설에 기증되는 등 도움이 필요한 다양한 곳에서 활용되는 것으로 나타났다.&lt;br&gt;&lt;br&gt;4일 인천국제공항공사의 ‘2024년 여객 포기 물품 기증 실적’ 자료에 따르면 지난해 인천공항에서 보안 검사에 걸려 기부된 김치류는 10.7t(톤) 수준으로 집계됐다. 공사는 반입 금지 등의 이유로 승객이 가져가지 않은 ‘여객 포기 물품’을 처리 절차에 따라 비영리 사회복지단체에 기증하거나 폐기하고 있다.&lt;br&gt;&lt;br&gt;김치 1포기당 무게를 약 3㎏으로 산정하면 지난해 3500포기에 가까운 김치가 규정 위반으로 반입이 금지된 셈이다. 같은 기간 고추장·간장 등 장류는 10.5t, 쌀·과일 등 기타 식품은 30.8t이 기부됐다. &lt;br&gt;&lt;br&gt;현행 규정에 따르면 김치나 고추장 등 액체가 포함된 식품류는 개별 용기당 100㎖를 넘지 않는 선에서 1ℓ 비닐 지퍼백 1개에 넣어 반입할 수 있다. 이를 초과할 경우 기내 반입이 제한된다. 위탁수하물로는 용량 제한 없이 반입할 수 있어 다량인 경우 짐을 미리 부쳐야 한다.&lt;br&gt;&lt;br&gt;과일·채소류와 농림산물류는 반·출입 제한 물품으로, 위탁수하물로 부치거나 기내에 반입하려면 농림축산검역본부의 식물검사 합격증을 받아야 한다. &lt;br&gt;&lt;br&gt;지난해 식품류를 기증받은 한 복지관은 이를 무료 급식소 식자재로 활용 중인 것으로 전해졌다.&lt;br&gt;&lt;br&gt;식품류 외에도 칼이나 휴대용 보조배터리, 치약 등 일반 물품의 기증 수량은 총 183만1814개(216.6t)로 집계됐다. 보조배터리의 경우 리튬이온배터리는 100Wh 이하인 경우에 한해 기내 휴대만 가능하며 위탁수하물로 부치는 것은 불가능하다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>현대바이오, 소외질환신약개발재단과 세계 최초 뎅기열 치료제 개발 업무협약 체결</title>
-      <link>https://www.chosun.com/national/welfare-medical/2025/02/04/7RFUUIIWXVA7ZJV42KZWMWELAI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/02/04/7RFUUIIWXVA7ZJV42KZWMWELAI/</guid>
-      <dc:creator>정해민 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 04 Feb 2025 02:45:55 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QQHC2Q424NCV5KUWVQKTDWO6OE.png"&gt;&lt;figcaption&gt;&lt;small&gt;왼쪽부터 오상기 현대바이오사이언스 대표, 이사벨라 히베이로 DNDi 바이러스 질환 클러스터 디렉터, 다이스케 이모토 DNDi 비지니스 개발 및 제휴 관리 디렉터 /현대바이오사이언스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;현대바이오사이언스와 국제 비영리 단체인 소외질환신약개발재단(DNDi)이 세계 최초의 뎅기열 치료제 ‘제프티(Xafty)’ 개발을 위한 양해각서(MOU)를 체결했다.&lt;br&gt;&lt;br&gt;4일 현대바이오와 DNDi는 서울 서대문구 현대바이오 사무실에서 MOU 체결식을 열고, MOU에 서명했다. 이날 체결식에는 오상기 현대바이오 대표, 다이스케 이모토 DNDi 비즈니스 개발 및 제휴 관리 디렉터, 이사벨라 히베이로 DNDi 바이러스 질환 클러스터 디렉터 등이 참석했다.&lt;br&gt;&lt;br&gt;현재까지 미국 식품의약국(FDA)이나 유럽의약품청(EMA)이 승인한 뎅기열 치료제는 없다. 이에 현대바이오는 ‘니클로사마이드’의 생체 이용률을 개선해 뎅기열뿐 아니라 지카, 치쿤구니야, 황열 바이러스까지 치료할 수 있는 제프티를 개발키로 했다.&lt;br&gt;&lt;br&gt;양측은 ‘제프티’ 연구·개발 등을 공동으로 추진할 예정이다. 이를 위해 임상 시험과 치료제 제조 등을 담당하는 팀을 만들기로 했다.&lt;br&gt;&lt;br&gt;앞서 현대바이오는 지난달 베트남 중앙 윤리위원회(EC)로부터 제프티의 임상 시험 계획을 승인 받았다. 지난해 12월 베트남 보건부(MOH) 산하 과학기술교육국(ASTT)으로부터 연구 신청을 승인 받은 지 1개월여만이다. &lt;br&gt;&lt;br&gt;숲모기류에 물리면 걸리는 뎅기열은 급성 발열성 질환이다. 약 75% 정도는 무증상 감염이지만, 1%의 사망률을 보인다. 전체 뎅기열 환자 중 약 5%는 뎅기 출혈열이나 뎅기 쇼크 증후군 등 중증으로 이어지는데, 적절한 치료를 받지 못하면 사망에 이를 수 있다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“형량 무겁다”...파타야 강도·살인 일당, 항소 </title>
-      <link>https://www.chosun.com/national/2025/02/04/J7QK2GQ5PRHWNJ4MYHSH7ETUAI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2025/02/04/J7QK2GQ5PRHWNJ4MYHSH7ETUAI/</guid>
-      <dc:creator>창원=김준호 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 04 Feb 2025 02:31:27 +0000</pubDate>
-      <content:encoded>태국 파타야에서 돈을 빼앗을 목적으로 한국인 관광객을 납치 살해하고, 시신을 훼손한 혐의 등으로 1심에서 중형을 선고받은 일당이 항소한 것으로 확인됐다. 이들이 일면식도 없는 피해자를 살해하고, 시신을 유기하면서 가로챈 돈은 370만원이었다. 검찰도 “이들의 범행에 비해 형량이 낮다”며 항소했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IIS7UB4GOFD6ZMDUDCLUFYCV2I.PNG"&gt;&lt;figcaption&gt;&lt;small&gt;지난해 5월 태국 경찰이 태국 파타야의 한 저수지에서 시멘트로 메워진 검은색 플라스틱 통 안에 한국인 관광객 A씨의 시신이 담긴 것을 발견했다./태국 데일리뉴스 캡처&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;4일 법조계에 따르면, 지난달 16일 1심 선고 직후 이 사건의 공범 3명 모두 법원에 양형 부당을 이유로 항소장을 제출했다. 검찰 역시 항소한 상태다. 검찰은 1심 결심 공판에서 이씨와 김씨에게 사형을, 이씨에게는 무기징역을 각각 구형했다.&lt;br&gt;&lt;br&gt;앞서 1심 재판부인 창원지법 형사4부(재판장 김인택)는 강도살인과 시체은닉 등의 혐의로 기소된 이모(28)씨에게 무기징역을, 김모(40)씨와 또 다른 공범 이모(27)씨에는 각각 징역 30년과 25년을 선고했다. 또 이들 모두에게 10년간 위치추적 전자장치 부착도 명령했다.&lt;br&gt;&lt;br&gt;이씨 등은 지난해 5월 3일 태국 방콕의 한 클럽에서 만난 경남에서 온 30대 한국인 관광객 A씨에게 수면제를 탄 술을 먹인 뒤 “숙소에 데려다 주겠다”며 차에 태워 납치하고, 반항하는 피해자의 목을 조르거나 폭행해 살해했다. 이후 시신을 드럼통에 넣어 파타야 소재 한 저수지에 유기한 혐의를 받는다. 특히 이씨와 김씨는 범행을 숨기기 위해 A씨의 손가락을 모두 절단한 것으로 드러났다. 또 두 사람은 A씨로부터 뺏은 휴대전화로 계좌에서 370만원을 불법 이체하고, 유족에게는 이미 숨진 A씨를 마치 살해할 것처럼 협박한 후 추가로 1억원을 요구했다가 미수에 그친 혐의도 받는다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OPYZY53IDBCTZE3K2GRIWQ4OHM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;태국 현지 언론이 공개한 용의자들 모습./온라인커뮤니티&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;수사 결과 이들은 태국에서 보이스피싱 등 불법적인 방법으로 생계를 유지해오다 기대한 수익이 나지 않자, 한국인 관광객을 대상으로 금품을 뺏기로 모의하고 계획적으로 범행한 것으로 드러났다. 그럼에도 이들은 재판과정에서 혐의를 부인하거나, 공범에게 혐의가 있다고 주장하며 책임을 회피하는 모습을 보였다. 이들은 항소심에서 다시 일부 혐의에 대해 무죄를 주장하거나, 공범에게 혐의가 있다는 식으로 형량을 낮추려 할 것으로 예상된다.&lt;br&gt;&lt;br&gt;1심 선고 후 피해자 A씨의 누나는 “34살에 불과했던 동생은 낯선 외국에서 무자비하게 죽고, 항암 치료 중이던 아버지는 충격에 밥도 제대로 못 드시다 돌아가셨다”며 “어머니는 정상적인 생활이 힘든 상태로 가족의 삶이 완전히 무너졌다”면서 피고인들에 대한 형량이 낮다고 반발했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>전라·제주·충청 일대 대설 특보...중대본 가동</title>
-      <link>https://www.chosun.com/national/national_general/2025/02/04/W4A7BEEGRVHP3JT75BGIY6GAPA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/02/04/W4A7BEEGRVHP3JT75BGIY6GAPA/</guid>
-      <dc:creator>박진성 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 04 Feb 2025 01:40:31 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FHJCT5NJQ5NS7HIFENP5QSN4JY.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;제주 전역에 대설특보가 내려진 4일 오전 제주시 봉개동 절물자연휴양림에 많은 눈이 내려 탐방객이 급히 발걸음을 옮기고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;행정안전부는 전라권과 제주, 충청 일부 지역을 중심으로 대설특보가 발효됨에 따라 4일 오전 7시 30분부로 중앙재난안전대책본부(중대본) 1단계를 가동했다. 대설 위기 경보 수준은 ‘관심’에서 ‘주의’ 단계로 상향했다.&lt;br&gt;&lt;br&gt;기상청에 따르면 현재 대설특보가 발효된 지역을 중심으로 시간당 3㎝ 내외의 강하고 많은 눈이 내리고 있다. 6일까지 내륙지역에 최대 30㎝ 이상 내릴 것으로 예상된다.&lt;br&gt;&lt;br&gt;이 기간 예상 적설량은 전라권 3∼20㎝, 충남·대전·세종 3∼10㎝, 울릉도·독도 10∼40㎝ 등이다.&lt;br&gt;&lt;br&gt;한파 피해도 발생하고 있다. 한파 특보가 발령된 서울 전역에서 밤사이 수도 계량기 11개가 동파됐다. 현재 복구는 완료된 상태다.&lt;br&gt;&lt;br&gt;서울시에 따르면 노숙인 시설 등 한파 응급대피소 이용자는 209명이다.&lt;br&gt;&lt;br&gt;행안부에 따르면 작년 12월부터 현재까지 한랭질환자가 총 233명이 발생했다. 이중 5명이 사망했다. 전년 동기 324명(9명 사망)보다는 적다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/W3ZLTKMUKZONDNO6XRCMBANXNY.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;전국 대부분 지역에 한파경보가 내려진 4일 서울 광진구 뚝섬한강공원 인근에 고드름이 얼어있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>대설특보 내려진 호남…항공기·여객선 결항에 등산객 구조도</title>
-      <link>https://www.chosun.com/national/national_general/2025/02/04/QHHJC6PIDZGKBNTTXDTELK6ODI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/02/04/QHHJC6PIDZGKBNTTXDTELK6ODI/</guid>
-      <dc:creator>광주광역시=진창일 기자, 전주=김정엽 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 04 Feb 2025 01:57:38 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QT5HC3YBGZN5PD4IRQOWE5JDKI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대설주의보가 내려진 4일 오전 광주 서구 무진대로에서 차량이 서행하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;광주·전남지역에 최고 적설량 14.7㎝ 눈이 내려 항공기와 여객선, 도로 통제가 이어지고 있다. 전북에서는 눈발에 고립된 등산객이 소방 당국에 구조됐다.&lt;br&gt;&lt;br&gt;4일 기상청에 따르면 오전 10시 기준 전남 장성에 대설경보, 전남 나주, 담양, 화순, 장흥, 강진, 해남, 완도, 영암, 무안, 함평, 영광, 목포, 신안(흑산면 제외), 진도, 광주광역시에 대설주의보가 발효 중이다. 전북은 부안과 순창에 대설경보가 내려졌고, 고창과 군산, 김제, 정읍 등에는 대설주의보가 발효됐다.&lt;br&gt;&lt;br&gt;전날 밤부터 이날 오전 9시까지 광주·전남지역 주요 지점 적설량은 14.7㎝, 광주 광산 11.7㎝, 함평 월야 10㎝, 목포·영광 염산 9.8㎝, 나주 7.5㎝ 등을 기록하고 있다.&lt;br&gt;&lt;br&gt;전북은 전날부터 이날 오전 6시까지 순창 복흥 17.3㎝, 부안 줄포 15.4㎝, 고창 10.3㎝, 정읍 9.1㎝, 순창 5.2㎝, 남원 1.6㎝ 등 적설량을 기록했다.&lt;br&gt;&lt;br&gt;광주시와 5개 자치구는 간선도로와 이면도로 등 총 525개 노선 680㎞ 구간에서 인력 98명, 장비 225대를 투입해 제설제 1527t을 살포하는 등 제설작업을 하고 있다. 전남도는 462개 노선 3685㎞ 구간에 인력 478명, 장비 221대와 제설제 1417t 등을 투입해 제설작업 중이다.&lt;br&gt;&lt;br&gt;폭설의 영향으로 광주공항은 이날 제주와 김포공항 등을 오가는 출발·도착 항공기가 각각 6편씩 결항됐고, 1편씩 지연됐다. 여수공항도 출발·도착 항공기가 각각 3편씩 결항됐다. 전남 도서 지역을 오가는 47개 항로 59척 여객선도 결항했다. 광주에서는 시내버스 11개 노선·46대가 단축 또는 우회 운행 중이다.&lt;br&gt;&lt;br&gt;전남 구례 노고단, 무안 청수길, 목포 유달산 일주도로 등 고갯길 7개 구간의 차량 통행이 통제됐고, 무등산과 월출산, 지리산 등 국립공원 탐방로도 일부 통제 중이다.&lt;br&gt;&lt;br&gt;전날 밤부터 이날 오전 사이 광주에서는 차량 단독 교통사고, 보행자 넘어짐, 소방 당국 안전조치가 각각 1건씩 발생했다. 전남에서는 자동차 눈길 미끄러짐과 강풍 흔들림 등으로 인한 소방 당국의 안전조치가 6건 이뤄졌다.&lt;br&gt;&lt;br&gt;전북 진안 운장산에서는 폭설로 고립된 20대 등산객이 구조됐다. 전북소방본부에 따르면 전날 오후 9시 14분쯤 진안군 주천면 운장산의 복두봉 능선에서 등산객 A (20대)씨로부터 ‘등산 도중 길을 잃었다’는 신고가 접수됐다. 소방 당국은 3시간 30분만에 등산로에 고립돼 있던 A 씨를 구조했다.&lt;br&gt;&lt;br&gt;기상청은 오는 6일 새벽까지 광주와 전남 남서부지역에서 5∼15㎝, 전남 북서부지역은 5∼20㎝의 눈이 더 내릴 것으로 내다봤다. 전북 서해안과 남부내륙지역은 5~20㎝, 전북북부 내륙지역은 3~10㎝의 눈이 내릴 전망이다. 많은 곳은 30㎝ 이상 적설량이 예상된다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/QT5HC3YBGZN5PD4IRQOWE5JDKI.jpg?width=5888&amp;height=3502&amp;auth=f1a45a2a88775df7a02612fc6699f1a17292cff466f03e71929a9c8af4673a27&amp;smart=true" type="image/jpeg" height="3502" width="5888">
-        <media:description type="plain">대설주의보가 내려진 4일 오전 광주 서구 무진대로에서 차량이 서행하고 있다. /연합뉴스</media:description>
-        <media:credit role="author" scheme="urn:ebu">정다움</media:credit>
-      </media:content>
-    </item>
-    <item>
-      <title>‘대장동 재판 출석’ 이재명 “여당이 군사 반란 비호”</title>
-      <link>https://www.chosun.com/national/court_law/2025/02/04/5NQ2ZICBGFBNTG7QZNIY2SCRBQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/02/04/5NQ2ZICBGFBNTG7QZNIY2SCRBQ/</guid>
-      <dc:creator>이민준 기자, 조민희 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 04 Feb 2025 01:53:28 +0000</pubDate>
-      <content:encoded>이재명 더불어민주당 대표가 4일 서울중앙지법에 재판을 받기 위해 출석하면서 국민의힘을 향해 “군사 반란 행위를 비호하고 있다”며 비판했다. 반면 자신의 선거법 위반 항소심 재판에 대해서는 “정치 탄압용 조작 기소 사건”이라고 말했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4IRKCBJVNJN5ZO5NVXPQFUSL2Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이재명 더불어민주당 대표가 4일 서초구 서울중앙지법에서 열린 '대장동·위례·성남FC·백현동' 재판에 출석하며 취재진 질문에 답하고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이 대표는 이날 오전 10시 21분쯤 서울중앙지법 형사33부(재판장 김동현) 심리로 열리는 ‘대장동·위례·백현동·성남FC’ 사건 재판에 출석하면서 이 같이 말했다. 취재진이 ‘선거법 사건 항소심에 검찰이 김대성(故 김문기 처장 남동생)씨를 증인으로 신청했는데 하실 말씀이 있느냐’고 물은 데 대한 대답이었다.&lt;br&gt;&lt;br&gt;이 대표는 ‘12·3 비상계엄’에 대해 “헌정 질서를 통째로 파괴한 것”이라며 “국민의힘이 오히려 재판부를 공격하고 있다. 이렇게 하면 대한민국의 헌법 질서가 유지될 수 없다”고 했다. 그러면서 “정치를 하더라도 최소한의 도를 지켜야 한다”며 “그런데 우리 국민들 모두의 합의라고 할 수 있는 헌법상 원리를 완전히 파괴하는 군사 반란 행위, 내란 행위에 대해서 이렇게 옹호하고 지원하고 그러면 되겠느냐”고 했다.&lt;br&gt;&lt;br&gt;취재진이 ‘선거법 사건 항소심에 대해 하실 말씀이 있느냐’며 재차 물었지만, 이 대표는 이에 답하지 않고 법정으로 향했다.&lt;br&gt;&lt;br&gt;이날 재판에선 유동규(전 성남도시개발공사 기획본부장)씨에 대한 증인신문이 진행될 예정이다. 이 사건 핵심 증인인 유씨는 작년 10월 초부터 계속 법정에 나와 김만배씨 등 ‘대장동 일당’과의 대화를 담은 정영학 녹취록, 대장동 초기 개발 상황 등에 대한 증언을 이어가고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>얼어붙은 경기에 “붙으면 어디든 가겠다”… 취준생이 바라는 최소 연봉은</title>
-      <link>https://www.chosun.com/national/national_general/2025/02/04/X76VTY4BXVFHPE24DS2EZUMIXU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/02/04/X76VTY4BXVFHPE24DS2EZUMIXU/</guid>
-      <dc:creator>김자아 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 04 Feb 2025 00:58:20 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NRFYHUKEJZMZ3HXXZOKY3H4LYI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 서울 서초구 aT센터에서 열린 '2025 공공기관 채용정보박람회'를 찾은 구직자들이 채용정보를 살펴보고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국내외 불확실한 정치 상황과 경기 불황 등의 영향으로 취업난이 계속되는 가운데 취업 준비생(취준생) 절반 이상이 ‘합격만 하면 어디든 다니겠다’는 인식을 가진 것으로 조사됐다.&lt;br&gt;&lt;br&gt;4일 커리어 플랫폼 사람인은 신입 취준생 464명을 대상으로 올해 취업 목표를 조사한 결과 55.2%가 “취업만 되면 어디든 관계없다”고 답했다. &lt;br&gt;&lt;br&gt;이 같은 이유로는 ‘빨리 취업해야 해서(55.1%, 복수응답)’가 가장 높은 응답률을 보였다. 또 ‘길어지는 구직 활동에 지쳐서(39.1%)’, ‘스펙 등 강점이 남들보다 부족해서(31.3%)’, ‘채용이 줄어서(28.5%)’, ‘목표 기업에 들어가기 힘들 것 같아서(12.9%)’ 등의 이유가 꼽혔다.&lt;br&gt;&lt;br&gt;나머지 취준생 44.8%(208명)의 취업 목표는 중소기업 스타트업(15.1%), 중견기업(12.1%), 공기업 공공기관(8.4%), 대기업이 (7.3%), 외국계 기업 (1.9%) 순이었다.&lt;br&gt;&lt;br&gt;목표 기업을 정한 이들 중 24%는 기업을 고를 때 연봉을 최우선으로 고려하는 것으로 조사됐다. 이 밖에도 취준생들은 워라밸(14.4%), 복리후생(13.9%), 커리어 발전 가능성(12%), 정년보장 등 안정성(10.6%), 조직문화 및 분위기(9.6%), 근무지 위치(6.3%) 등을 고려하는 것으로 나타났다.&lt;br&gt;&lt;br&gt;조사에 참여한 모든 취준생이 올해 목표로 하는 연봉은 성과급을 제외한 기본급 기준 평균 3394만원으로 집계됐다. &lt;br&gt;&lt;br&gt;구체적으로는 2500만원 이상~3000만원 미만 36.2%, 3000만원 이상~3500만원 미만 30.8%, 3500만원 이상~4000만원 미만 17.2%, 4000만원 이상~4500만원 미만(6.9%), 4500만원 이상~5000만원 미만(4.1%) 순이다.&lt;br&gt;&lt;br&gt;또 전체 취준생 10명 중 4명(37.3%)은 목표 기업에 입사하더라도 이직을 준비하겠다고 답했으며 이들은 평균 1.8년 근무 후 이직에 나서겠다고 했다. 응답자의 9.8%만 첫 입사 기업을 3년 이상 다니겠다고 했다.&lt;br&gt;&lt;br&gt;통계청이 발표한 ‘2024년 12월 및 연간 고용동향’에 따르면 지난해 연간 취업자 수는 2857만6000명으로 1년 전보다 15만9000명(0.6%) 늘었다. 이는 전년 대비 취업자 수 증가폭이 절반으로 줄어든 수치로, 비상계엄 선포 후 정치 혼란이 이어진 12월엔 증가폭이 ‘마이너스’를 기록했다.&lt;br&gt;&lt;br&gt;사람인 관계자는 “다급한 마음에 묻지마 지원을 하면 합격 가능성이 낮아질 뿐만 아니라 합격 후에도 적응하지 못하고 조기 퇴사할 위험성도 크다”며 “본인의 역량과 원하는 바, 목표를 신중히 검토해 지원 기업을 정해야 한다”고 강조했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>한국이 지방으로 쫓아낸 돌봄시설, 日은 도심 끌어들였다</title>
