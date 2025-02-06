@@ -13,6 +13,147 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>[속보] 김현태 “곽종근이 ‘의원 끌어내라’ 지시한 적 없다”</title>
+      <link>https://www.chosun.com/national/court_law/2025/02/06/MP5VOTK6BFFWTJP3S4WTG6OBGU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/02/06/MP5VOTK6BFFWTJP3S4WTG6OBGU/</guid>
+      <dc:creator>이슬비 기자, 방극렬 기자, 김나영 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 06 Feb 2025 01:16:52 +0000</pubDate>
+      <content:encoded>12·3 비상계엄 당시 국회에 707특임단 병력과 함께 출동한 김현태 육군특수전사령부 707특수임무단장(대령)은 6일 “곽종근 전 특수전사령관으로부터 국회의원 끌어내라는 지시는 받지 않았다”고 말했다. 김 단장은 헌법재판소에서 열린 윤석열 대통령 탄핵심판 6차 변론기일에 증인으로 출석해 “‘끌어내라’ ‘국회의원’ 이라는 단어는 없었다”며 이같이 밝혔다.&lt;br&gt;&lt;br&gt;김 단장은 “제가 받은 임무는 국회의사당과 의원회관 봉쇄 및 확보”라고 했다. 다만 ‘봉쇄’의 의미가 국회 출입을 막는다는 의미는 아니었다고 했다. 김 단장은 “증인이 부여 받은 임무의 ‘봉쇄’의 의미가 출입 금지시키라는 게 아니라, 적대적 위협 세력으로부터 국회를 방어하라는 개념이 맞느냐”는 질문에 윤 대통령 측 질문에 “네, 맞습니다”라고 답했다. 김 단장은 ‘적법한 출동이었느냐’는 윤 대통령 측 질문에 “지금은 그렇다고 생각한다”고 답했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TUYXZKPE6QMSIXABPPZVZBRY3I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김현태 특전사 제707특수임무단 단장이 작년 12월 10일 오전 서울 여의도 국회 국방위원회에서 열린 계엄 관련 긴급 현안질의에서 위원 질의에 답하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김 단장은 비상계엄 당시 국회의원의 국회 출입도 막지 않았다고 밝혔다. 김 단장은 “창문을 깨고, 국회 본관으로 들어간게 본관을 확보하기 위해서라고 말했는데, 확보라는게 국회의원 출입 완전히 차단한다 이런 개념은 없지 않나”는 윤 대통령 측 질문에 “네, 없습니다”라고 답했다.&lt;br&gt;&lt;br&gt;김 단장은 “국회 본관에 진입한 뒤 이동하다가 더불어민주당 안규백 의원을 만났고, 그냥 지나쳤다”는 사실도 인정했다. 김 단장은 “의원 출입을 막으라는 지시를 받은 바가 없어서 지나친 건가”라는 윤 대통령 측 질문에 “네”라고 답했다.&lt;br&gt;&lt;br&gt;김 단장은 곽 전 사령관으로부터 “(계엄 해제를 위해 모인 국회의원이) 150명 넘으면 안 된다고 하는데 (국회의사당에) 들어갈 수 없겠느냐”는 취지의 지시를 받았다고 밝혔다.&lt;br&gt;&lt;br&gt;김 단장은 “곽 전 사령관으로부터 ‘150명이 넘으면 안 된다고 하는데 (국회 내부로) 들어갈 수 없겠느냐’는 말을 들었다”라며 “강한 어조가 아니고 약간 사정하는 느낌으로 이야기를 했다”고 했다.&lt;br&gt;&lt;br&gt;김 단장은 “(당시에는)150명의 의미를 생각하지도 않았고, ‘들어갈 수 있겠느냐’는 단어에 바로 ‘안 됩니다’라고 답하고 통화를 끝냈다”고 설명했다. 150명은 국회의 계엄 해제 의결을 위한 정족수다. 김 단장은 출동 당시에는 150명이 어떤 의미인지 몰랐고 나중에 국회의원 숫자라는 점을 알게 됐다고 설명했다.&lt;br&gt;&lt;br&gt;김 단장은 “당시 곽 사령관이 (특정인으로부터) 듣고 전달하는 뉘앙스”였다고 했다. “‘150명을 넘지 않게 하라’는 직접적인 지시가 있었느냐”는 질문에는 “없었다”고 답했다. 그러면서 해당 내용을 곽 사령관에게 전달한 인물에 대해서는 “상급 지휘관이라고만 생각했고 누군지는 명확하게 생각하지 않았다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ID2OEU4OVINF5NBECRALJLV2OE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령 탄핵심판 변론기일이 열리는 6일 오전 서울 종로구 헌법재판소 정문 앞에는 경찰관과 경찰버스가 빽빽하게 배치된 상태다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김 단장은 “비상계엄 당일 곽 전 사령관으로부터 ‘(국회의사당)전기라도 차단할 수 있는 방법이 없겠냐’는 지시를 받았다”고 했다. 김 단장은 단전 지시와 관련한 윤 대통령 측 질문에 “12월 4일 00시50분 통화 기록이 있었다”며 “2층에서도 진입이 안되서 높은 곳에 올라가려고 하던 중 사령관에게 전화하자 그때 ‘전기라도 차단할 수 있는 방법이 없겠냐’고 해서 찾아보겠다고 한 뒤 지하로 이동했다”고 말했다.&lt;br&gt;&lt;br&gt;김 단장은 당시 국회에 투입된 707특임대원은 자신을 포함해 모두 97명이라고 했다. 1차로 25명이 도착해 한 팀은 후문을 지키고, 다른 한 팀은 창문을 깨고 들어가 정문 쪽으로 이동시켰다는 게 김 단장의 설명이다. 김 단장은 “국회에 사람이 별로 없으리라 생각했는데, 정문에 사람이 많이 몰려있는 걸 보고 당황해 제 판단으로 창문을 깨고 들어가라고 지시했다”고 밝혔다.&lt;br&gt;&lt;br&gt;김 단장은 출동 당시 가져간 케이블타이는 국회 문을 봉쇄하려던 것이고 사람에게 쓸 용도는 아니라고 설명했다. 그는 “국회 외곽 문을 케이블 타이로 다 묶으면 된다고 생각했다”고 말했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/S3P2VPSPFRIEPMMEFU6XFVMZMY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt; 윤석열 대통령 탄핵심판 6차 변론이 열린 6일 윤 대통령을 태운 법무부 호송차량이 서울 종로구 안국역 사거리를 지나 헌법재판소로 향하고 있다.  /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김 단장은 “헬기에 소총용·권총용 실탄을 실어갔다”고 했다. 김 단장은 “실탄을 가져간다는 건 총기 사용 가능성이 있을 수 있단 것 아닌가”라는 국회 측 질문에 “그렇다”고 답했다. 그러면서 “군인은 실전이든 훈련이든 항상 실탄을 가져간다”며 “그 이유는 유사시에 대비해서인데 유사시는 순수하게 적에 대한 것이고 국지 도발과 테러 상황에 한정돼 있다”고 설명했다.&lt;br&gt;&lt;br&gt;김 단장에 대한 증인신문이 끝나고, 문형배 헌법재판소장 권한대행은 윤 대통령에게 “의견 진술을 하시겠느냐”고 물었지만, 윤 대통령은 “특별한 건 없습니다”라며 발언하지 않았다.&lt;br&gt;&lt;br&gt;한편, 헌재는 이날 조성현 수도방위사령부 제1경비단장을 직권으로 증인 채택하고 13일에 증인신문을 한다고 밝혔다. 문 권한대행은 헌재에서 열린 윤 대통령 탄핵심판 6차 변론기일에서 “재판부 직권으로 수방사 1경비단장 조성현을 증인으로 채택했다”고 했다. 조 단장의 신문기일은 13일 오후 5시다. 재판부 직권으로 채택한 증인인 만큼 신문은 재판부가 주로 할 예정이다. 같은 날 조지호 경찰청장, 조태용 국가정보원장 등의 증인 신문도 예정돼 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘내란 사건’ 재판부 “尹 준비 절차 마친 후 병합 여부 판단할 수 있을 것” </title>
+      <link>https://www.chosun.com/national/court_law/2025/02/06/YV5VWVQJAFAI5FHT5KWVXNL3SU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/02/06/YV5VWVQJAFAI5FHT5KWVXNL3SU/</guid>
+      <dc:creator>박강현 기자, 김혜민 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 06 Feb 2025 02:50:26 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TBQHMJ5SVJOC7J5B4XDNYXGHOQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;조지호(왼쪽) 경찰청장과 김봉식 전 서울경찰청장. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘12·3 비상계엄’ 사태 당시 국회 진입을 막는 등 내란 중요임무 종사 등 혐의로 기소된 조지호 경찰청장과 김봉식 전 서울경찰청장 측이 첫 재판에서 “계엄 상황에서 경찰에 당연히 요구되는 치안 유지 활동을 했다”는 취지로 혐의를 부인했다.&lt;br&gt;&lt;br&gt;양측은 또 재판 병합 여부를 놓고 이견을 보였는데, 재판부는 “가장 중요한 사건의 공판 준비 기일을 한 번 해봐야 (병합) 윤곽이 나올 것 같다”고 했다.&lt;br&gt;&lt;br&gt;6일 서울중앙지법 형사25부(재판장 지귀연)는 조 청장과 김 전 청장 사건에 대한 첫 공판 준비 기일을 열었다. 공판 준비 기일은 정식 재판에 앞서 범죄 혐의에 관한 피고인의 입장을 확인하고 증거 조사 계획 등을 잡는 절차다.&lt;br&gt;&lt;br&gt;공판 준비 기일엔 피고인이 법정에 출석할 의무는 없지만, 김 전 청장은 정장 차림으로 출석했고 그의 가족도 방청석에서 재판을 지켜본 것으로 전해졌다. 다만 사건과 관련해 직접 발언하진 않았다. 혈액암 투병 중인 것으로 알려진 조 청장은 항암 치료 등으로 법정에 나오지 않았다.&lt;br&gt;&lt;br&gt;조 청장 측 변호인은 이날 “피고인은 판례가 공범으로 인정하기 위해 요구하는 기능적 행위지배(역할을 분담해 실행하는 것)에 이르지 않았다”며 “경찰청장으로서 계엄 상황에서 경찰에 당연히 요구되는 치안 유지 활동을 했다”고 주장했다. 그러면서 “이것이 계엄군 활동 지원으로 오인 받지만 실질적으로는 지시 이행을 거부함으로써 내란에 가담한 게 아니라 오히려 계엄이 성공하지 못하도록 범죄 실현을 막았다”고 덧붙였다.&lt;br&gt;&lt;br&gt;김 전 청장 측 변호인도 “구체적인 사실관계에 대해서 말씀드리기 어렵지만, 기본적으로 내란죄 고의, 국헌문란의 목적, 공모 관계 등에 대해 전반적으로 부인하는 입장”이라고 했다.&lt;br&gt;&lt;br&gt;이날 ‘12·3 비상계엄’ 사태 관련 재판 서증(증거로 내는 서류)이 4만쪽이 넘고, 향후 재판에서 관련 증인도 520명 정도 되는 것으로 밝혀졌다. 검찰은 “대통령을 우두머리로 한 조직적인 범죄”라며 “전체 범죄에 대해서 부동의를 전제로 한 증인이 520명인데, 향후 (증인이) 추가될 가능성도 있다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3FTGPTVCXJGOPCYLMP3UYTQ3YI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울중앙지법. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;앞서 이 재판부는 ‘법관 등의 사무분담 및 사건배당에 관한 예규’에 따라 김용현 전 국방부 장관, 윤석열 대통령 등을 포함해 이번 비상계엄 사태에 연루된 인사 가운데 총 6명의 재판을 잇따라 접수해 담당하고 있다.&lt;br&gt;&lt;br&gt;이에 변호인 측은 여러 재판을 결합해 하나의 소송 절차로 심리하기로 결정하는 ‘병합’을 촉구했다. 김 전 청장 변호인은 “기본적으로 병합이 필요하다고 본다”며 “공범 관계에 있는 사람들을 다 분리해서 하다보면 증언 중복 문제 등이 발생할 수 있다”고 했다.&lt;br&gt;&lt;br&gt;반면 검찰 측은 병합에 대해선 부정적인 입장을 보였고, 초기에는 ‘병행 심리’를 해야 한다는 입장을 견지했다. 병합이 사건 자체를 하나로 묶는 것이라면, 병행 심리는 별개로 재판을 진행하다가 증거와 증인이 중복되면 함께 재판하는 것이다.&lt;br&gt;&lt;br&gt;재판부는 윤 대통령의 공판 준비 기일이 예정된 오는 20일 이후 관련 사건의 병합 여부를 결정하겠다고 밝혔다. 재판부는 “가장 중요한 사건의 준비 기일을 진행해봐야 윤곽이 나올 것 같다”며 “(재판을) 병행할지, 병합할지 의견을 나눠보겠다”고 말했다.&lt;br&gt;&lt;br&gt;조 청장과 김 전 청장에 대한 2차 공판 준비 기일은 오는 27일 오후 2시 열릴 예정이다.&lt;br&gt;&lt;br&gt;두 사람은 계엄 당시 경찰을 동원해 국회를 봉쇄하고, ‘정치인 체포조’ 운영에 관여한 혐의를 받는다. 또 중앙선거관리위원회 과천청사 등에 경찰을 보내 청사를 점거하고, 서버 탈취를 시도한 혐의도 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“제주항공 참사 영상은 조작” 유튜버, 세월호 때도 괴담 올려 징역형</title>
+      <link>https://www.chosun.com/national/2025/02/03/VT7DXMP33JE3DESPEWKLVI2EKU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2025/02/03/VT7DXMP33JE3DESPEWKLVI2EKU/</guid>
+      <dc:creator>박주영 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 03 Feb 2025 12:35:09 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EFQCP53MOZRE7KWPND3KSAJT5Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난해 12월 30일 오전 전남 무안국제공항에서 과학수사 경찰들이 전날 발생한 제주항공 여객기 충돌 폭발 사고 잔해를 수색하고 있다.  /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제주항공 여객기 참사 영상이 조작됐다는 가짜 뉴스 영상을 올려 명예를 훼손한 혐의로 사전구속영장이 신청된 60대 유튜버가 영장실질심사에 나타나지 않아 경찰이 추적에 나섰다.&lt;br&gt;&lt;br&gt;부산경찰청 사이버범죄수사대는 “정보통신망법상 명예훼손 등으로 사전구속영장이 신청된 유투버 A(61)씨가 지난달 31일 열린 영장실질심사에 참석하지 않아 신병 확보를 위해 소재를 추적하고 있다”고 3일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난해 12월29일 전남 무안공항에서 발생한 제주항공 참사 이후 “사고 여객기를 촬영한 영상이 CG(컴퓨터그래픽)로 조작됐다”고 주장하는 영상을 ‘아메리카 세계사’ 등 5개 유튜브 채널에 100여 차례 올려 피해자와 유족들의 명예를 훼손한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;A씨가 올린 영상은 대부분 ‘긴급속보!!! 무안공항 보잉 사고여객기는 모형항공기로 밝혀졌다’, ‘무안공항 여객기 둔덕 충돌은 컴퓨터그래픽(CG)영상’이라는 등 황당한 악성 루머를 내용으로 하고 있는 것으로 조사됐다.&lt;br&gt;&lt;br&gt;경찰은 “지난 1월 초 수사 착수 후 혐의 내용에 대한 조사를 거쳐 사전구속영장을 신청했으나 A씨가 영장실질심사에 출석하지 않았다”며 “현재 A씨에 대해 재판 강제 출석을 위한 구인영장을 발부받아 소재를 추적 중인데 오는 7일까지 소환에 응하지 않을 경우 체포영장이나 구속영장을 신청할 계획”이라고 말했다.&lt;br&gt;&lt;br&gt;경찰은 A씨가 입건 후에도 제주항공 관련 허위 및 비방 영상을 방송 중인 유튜브 채널을 확인, 폐쇄했다. 그러나 A씨는 ‘oooo oo’ 등 새로운 유튜브 채널을 만들어 계속 영상물을 게릴라식으로 올리고 있는 것으로 경찰은 파악하고 있다.&lt;br&gt;&lt;br&gt;경찰 등에 따르면 A씨는 제주항공 참사 외에도 오랫동안 가짜뉴스, 허위사실 등을 유포하는 유튜브 채널들을 운영했다. 지난 2014년 4·16 세월호 참사 직후에는 온라인 커뮤니티에 “세월호 사고는 정부와 해양경찰청이 자행한 학살극”이라는 등 허위 사실을 주장하는 글을 630여차례 올린 것으로 파악됐다.&lt;br&gt;&lt;br&gt;A 씨는 이 사건과 관련, 지난 2018년 해경 대원들의 명예를 훼손한 혐의로 대법원에서 징역 1년 6개월형을 확정받았다. 이후에도 2022년 ‘이태원 핼러윈 참사’, 지난해 7월 ‘화성 아리셀 공장 화재 참사’와 ‘서울시청역 역주행 참사’ 등이 일어났을 때에도 “윤석열 대통령이 압사당했다”, “이재명(더불어민주당 대표) 살리려고 연극과 쇼를 벌이는 것”이라는 등의 악성루머 영상을 올렸다.&lt;br&gt;&lt;br&gt;경찰은 A씨의 이같은 행각에 대해 제주항공 참사 악성 게시글 등을 수사하는 과정에서 일부 확인을 한 것으로 알려졌다. 그러나 이같은 허위사실, 악성루머 등을 퍼뜨리는 영상은 명예훼손을 당했다는 고소·고발이 있을 경우에만 조사해 처벌할 수 있는 ‘반의사 불벌죄’에 해당돼 조사를 진행하지 못한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “제주항공 참사 가짜 뉴스 영상 게시 등에 대해선 지난 1월 초 희생자 유족 측에서 전남경찰청에 고소를 해와 수사를 하고 사전구속영장을 신청할 수 있었던 것”이라며 “그러나 A씨의 다른 악성 루머 영상 등에 대해선 피해자의 고소·고발이 없어 사실상 수사가 불가한 상황”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title> “3.1절 맞아 크게 부르자”...경북서 쏘아올린 ‘애국가 챌린지’</title>
+      <link>https://www.chosun.com/national/2025/02/06/FEHYZLMIVFHZJLI2OMZWLS5BSU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2025/02/06/FEHYZLMIVFHZJLI2OMZWLS5BSU/</guid>
+      <dc:creator>이승규 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 06 Feb 2025 02:21:25 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/M45DTU5T2FG7VMMU7TLLISMI5M.png"&gt;&lt;figcaption&gt;&lt;small&gt;애국가를 크게 부르는 이철우 경북도지사/페이스북&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경북도가 오는 106주년 3·1절을 맞아 ‘애국가 힘차게 부르기 챌린지(애국가 챌린지)’를 시작했다. 애국가를 크게 불러 애국정신을 되새기고 3·1 독립운동을 비롯한 한국의 역사를 함께 기억하자는 취지다. 지자체 차원에서 애국가 챌린지를 시작한 것은 경북도가 처음이다.&lt;br&gt;&lt;br&gt;이철우 경북도지사는 6일 자신의 소셜미디어에 ‘3·1절 기념! 애국가 힘차게 부르기 챌린지’라는 제목의 글과 영상을 올렸다. 이 지사는 “우리의 역사, 우리의 자부심을 기억하며 3·1절을 맞아 애국가 챌린지를 시작한다”며 “힘차게 애국가를 부르며 대한민국의 자랑스러운 역사를 함께 기억하자”고 했다.&lt;br&gt;&lt;br&gt;경북도가 제안한 애국가 챌린지는 애국가를 부르는 영상을 촬영한 뒤, ‘애국가챌린지’ ‘삼일절챌린지’ ‘애국가힘차게부르기’ ‘대한독립만세’ ‘가슴뛰는대한민국’ ‘독립운동정신’ 등 6가지 글귀를 해시태그(#)와 함께 소셜미디어에 업로드하고, 다음 주자를 지목하는 방식으로 참여할 수 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EVA7GB3QU5FU2FWYPDUMR5IIFI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/페이스북&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경북도가 애국가 챌린지를 시작한 이유는 3·1절을 기념하고 애국정신을 드높이기 위해서다. 글과 함께 올린 1분 50초 가량의 영상에서 이 지사는 “애국가를 크게 불러야 애국정신이 생기는데, 이런 저런 행사에 가보면 애국가를 쥐 죽은 듯이(부르고) 입만 뻥긋뻥긋하지 소리가 안 들리더라”며 “저부터 솔선수범해서 애국가를 크게 부르겠다. 모든 국민들이 애국가를 힘차게 불러 대한민국을 더 사랑했으면 한다”고 말한 뒤, 애국가를 불렀다.&lt;br&gt;&lt;br&gt;경북도는 지난 10월부터 이 지사의 제안으로 도의회 개회식 및 각종 행사에서 애국가 크게 부르기를 실천해왔다고 한다. 이번 애국가 챌린지는 도청 직원 뿐만 아니라 전 국민이 애국가를 크게 불러보자는 취지다.&lt;br&gt;&lt;br&gt;이 지사가 지목한 애국가 챌린지의 다음 주자는 박성만 경북도의회 의장, 남한권 울릉군수, 서경덕 성신여대 교수다. 경북도 관계자는 “도민들을 대변하는 도의회와 선열들의 애국 정신이 담긴 독도가 있는 울릉군, ‘한국 알리미’로 활동 중인 서 교수가 애국가를 크게 불러주면 더욱 의미가 깊을 것으로 보인다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/M45DTU5T2FG7VMMU7TLLISMI5M.png?width=1466&amp;height=831&amp;auth=ca70a567cab6da3250b418a3ff990090c9c144ea1a50f797e79fdeafd4b13133&amp;smart=true" type="image/png" height="831" width="1466">
+        <media:description type="plain">애국가를 크게 부르는 이철우 경북도지사/페이스북</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>대구시, 저소득 시민 경제적 자립에 718억원 투입</title>
+      <link>https://www.chosun.com/national/regional/2025/02/06/6HL7WAOSZRCPVNKTRN53M6IRGQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/02/06/6HL7WAOSZRCPVNKTRN53M6IRGQ/</guid>
+      <dc:creator>대구=노인호 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 06 Feb 2025 02:29:50 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/H2IL6UKUANBV3DEL2GF7O56YTY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대구시청 산격동 청사 전경. /대구시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대구시는 올 한해 718억원을 투입해 근로 능력이 있는 저소득 시민의 자립·자활을 돕는다고 6일 밝혔다.&lt;br&gt;&lt;br&gt;이를 위해 대구시는 504억원을 들여 기초생활수급자 및 차상위자에게 청소, 세탁, 집수리 등 일자리를 제공하는 자활근로 사업을 시행한다. 참여 인원은 지난해보다 150여명 늘어난 3000명가량으로, 자활 근로에 따른 급여도 전년 대비 3.7％ 인상하기로 했다.&lt;br&gt;&lt;br&gt;또 자활성공지원금도 올해 신설했다. 자활근로 사업 참여자가 민간 기업에 취업하거나 창업해 생계급여 지원 대상에서 벗어날 경우 연간 최대 150만원을 지원한다. 취업 후 6개월간 근로 유지 시 50만 원을, 1년 이상 유지하면 추가로 100만 원을 지급하는 식이다.&lt;br&gt;&lt;br&gt;일하는 기초생활수급자와 청년 등이 자립에 필요한 자산을 형성할 수 있도록 희망저축계좌Ⅱ에 가입하면 3년간(1년차 월 10만원, 2년차 20만원, 3년차 30만원) 일정금액을 추가 적립해준다.&lt;br&gt;&lt;br&gt;대구시 관계자는 “시민 스스로 자립할 수 있는 경제적 기반을 확보할 수 있도록 최대한 지원하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>최강 한파 속 초등학교에 생긴 6m 고드름… 제거에만 1시간</title>
+      <link>https://www.chosun.com/national/national_general/2025/02/06/DES2NKV2FNGPDJXZ46GFSOX23A/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/02/06/DES2NKV2FNGPDJXZ46GFSOX23A/</guid>
+      <dc:creator>최혜승 기자 </dc:creator>
+      <description/>
+      <pubDate>Thu, 06 Feb 2025 00:21:45 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/R2GLWVUC5YL6EKDNBAHRG4RBKQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 4일 오전 9시쯤 경기 양주시 광사동의 초등학교 건물 외벽에 생긴 고드름./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전국적으로 강추위가 이어지는 가운데 경기 양주시의 초등학교 외벽에 6m 길이의 고드름이 생겨 소방 당국이 출동했다.&lt;br&gt;&lt;br&gt;6일 경기도북부소방재난본부에 따르면, 지난 4일 오전 9시쯤 경기 양주시 광사동의 한 초등학교 외벽 배수관에 6m가량의 대형 고드름이 생겼다는 신고가 소방당국에 접수됐다. 당시 학생들 등교 시간대여서 자칫 고드름이 떨어지면 아찔한 사고로 이어질 수 있는 상황이었다.&lt;br&gt;&lt;br&gt;고드름 제거 작업에는 인력 3명이 투입됐다. 소방대원은 사다리를 이용해 수작업으로 고드름을 제거했다. 고드름이 쉽게 떨어지지 않아 작업에만 1시간가량 걸렸다.&lt;br&gt;&lt;br&gt;경기도북부소방재난본부는 지난 4일 하루 동안 모두 3건의 고드름 제거 작업을 진행했다고 밝혔다.&lt;br&gt;&lt;br&gt;고드름은 기온이 영하와 영상권을 오르내릴 때 지붕 끝이나 외부 배관 등에 형성된다. 특히 건물 외벽에 생긴 대형 고드름은 떨어질 때 인명 피해가 발생할 수 있기 때문에 각별한 주의가 필요하다.&lt;br&gt;&lt;br&gt;소방 관계자는 “건물 외벽 등에 고드름이 형성되는지를 수시로 확인하고 특히 높은 곳에 생긴 대형 고드름은 무리하게 제거하지 말고 신고하는 것이 안전하다”고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HZLYVSPLHFLVPJP7PJDAOYTQHU.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;한파가 이어진 6일 오전 서울 종로구 광화문네거리에서 시민들이 출근길을 서두르고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한편 6일 전국 아침 기온은 영하 17도에서 영하 4도 사이에 분포했다. 서울은 영하 11.5도, 강원 철원군은 영하 18.0도, 경기 파주시는 영하 17.3도, 충남 천안시는 영하 15.3도까지 기온이 ᄄᅠᆯ어졌다. 기상청은 이날 북서쪽에서 찬 공기가 남하하면서 당분간 기온이 평년보다 3~10도가량 낮아 매우 춥겠다고 예보했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/R2GLWVUC5YL6EKDNBAHRG4RBKQ.jpg?width=1411&amp;height=1058&amp;auth=b345c2aa81c2366bd2408d6e4a72a0f13aecbc73f61f5da88b5ca2ef62a54bce&amp;smart=true" type="image/jpeg" height="1058" width="1411">
+        <media:description type="plain">지난 4일 오전 9시쯤 경기 양주시 광사동의 초등학교 건물 외벽에 생긴 고드름./뉴스1</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>동방신기 출신 김준수 협박해 8억 뜯은 여성 BJ 징역 7년</title>
+      <link>https://www.chosun.com/national/incident/2025/02/06/CWK2CGRCYBBEBDV57GS4QWT7IE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/02/06/CWK2CGRCYBBEBDV57GS4QWT7IE/</guid>
+      <dc:creator>의정부=김현수 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 06 Feb 2025 02:15:03 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VMHINC7XZJG6TP3MLFXEUZAYLA.png"&gt;&lt;figcaption&gt;&lt;small&gt;김준수/ 인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그룹 동방신기 전 멤버이자 뮤지컬 배우인 김준수를 협박해 8억원 상당의 금품을 뜯어낸 인터넷 방송 진행자(BJ)가 실형을 선고받았다.&lt;br&gt;&lt;br&gt;의정부지법 제11형사부(재판장 오창섭)는 6일 특정경제범죄가중처벌법상 공갈 혐의로 구속기소 된 30대 여성 A씨에게 징역 7년을 선고했다.&lt;br&gt;&lt;br&gt;재판부는 “피해자와 있어서 사적인 대화를 녹음하고 사진을 찍고 피해자 관계가 소홀해지자 이를 이용해 금품을 갈취하기로 했다”며 “피고인이 이 사건 모두 시인하고 있고 관련 증거들 모두 유죄로 인정된다”고 밝혔다. 이어 “범행 수법과 기간, 피해 수법 등 죄질이 좋지 않다”며 “피해자는 경제적, 정신적 피해를 보았고 엄벌을 탄원하고 있다”고 양형 이유를 설명했다.&lt;br&gt;&lt;br&gt;앞서 검찰은 지난달 16일 열린 결심 공판에서 A씨에게 징역 7년을 구형한 바 있다. 검찰은 공소사실에서 “피고인은 소셜미디어로 피해자를 협박하며 돈을 요구하는 방법으로 피해자로부터 총 101차례에 걸쳐 합계 약 8억 4000만원을 갈취했다”고 했다.&lt;br&gt;&lt;br&gt;A씨는 2020년 9월부터 지난해 10월까지 총 101차례에 걸쳐 김준수와의 대화 및 음성을 온라인에 유포할 것처럼 협박해 약 8억4천만원 상당의 돈을 뜯어낸 혐의로 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘독립운동 영화 보조금 부정수급’ 김희선 전 의원 징역형 집행유예</title>
+      <link>https://www.chosun.com/national/national_general/2025/02/06/ALEXSRFEZ5B2NKTREQUGN4ZZNE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/02/06/ALEXSRFEZ5B2NKTREQUGN4ZZNE/</guid>
+      <dc:creator>강지은 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 06 Feb 2025 02:07:42 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BKKNTQNPMFD23FNL7W643JRHCQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김희선 전 의원./조인원 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;여성 독립운동가 관련 영화 제작비를 부풀려 국고보조금을 부정 수급한 혐의를 받는 김희선 전 의원이 1심에서 징역형 집행유예를 선고받았다.&lt;br&gt;&lt;br&gt;6일 서울북부지법 형사11단독 이창원 부장판사는 보조금 관리에 관한 법률 위반 혐의로 기소된 김 전 의원에게 징역 10개월에 집행유예 2년을 선고했다. 김 전 의원은 항일여성독립운동기념사업회의 이사장으로 재임하던 2021년 9월~12월 여성독립운동가 추모문화제 관련 영화의 제작비를 부풀려 약 5000만원의 국고 보조금을 타낸 혐의를 받는다. 국가보훈처로부터 보조금을 받아 영화 제작업체에 지급한 후 그 중 절반을 법인 기부금 명목으로 돌려받았던 것으로 조사됐다.&lt;br&gt;&lt;br&gt;재판부는 “보조금 사업의 취지를 몰각하고 정당하게 보조금을 지급 받을 사람의 기회를 박탈하는 것 같은 결과를 가져와 죄책이 무겁다”면서도 “피고인이 현재 알츠하이머 등으로 신체적, 정신적 건강이 좋지 않고, 보조금 대부분이 비영리 목적의 활동비로 사용된 것을 참작했다”고 양형 이유를 밝혔다.&lt;br&gt;&lt;br&gt;김 전 의원과 같은 혐의로 기소된 대학원생 문모씨, 영상제작자 강모씨, 영화감독 홍모씨에 대해서는 각각 벌금 350만원, 150만원, 200만원이 선고됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘직원 메신저 무단 열람 혐의’ 강형욱 부부, 무혐의 처분</title>
+      <link>https://www.chosun.com/national/incident/2025/02/06/FKZ2XPNAFVB2XNJ57DZWZPYLNU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/02/06/FKZ2XPNAFVB2XNJ57DZWZPYLNU/</guid>
+      <dc:creator>의정부=김현수 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 06 Feb 2025 02:19:03 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VTPBZV6JOTK6UK5NFY4EZBJRVI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;반려견 훈련사 강형욱씨 부부. /강형욱의 보듬TV 갈무리&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;직원 메신저를 무단 열람하고 그 일부를 공개한 혐의를 받는 훈련사 강형욱씨 부부에 대해 경찰이 무혐의 처분을 내렸다.&lt;br&gt;&lt;br&gt;경기북부경찰청 사이버수사1대는 정보통신망법 위반 혐의로 피소된 강형욱씨와 아내 수잔 엘더씨를 ‘혐의 없음’으로 불송치 처분했다고 6일 밝혔다.&lt;br&gt;&lt;br&gt;경찰은 관련자 조사와 증거자료 분석 등 사실관계를 확인하고 이용약관 상 정당한 접근권한이 관리자 측에 있었던 점 등을 종합해 검토한 결과, 혐의점 발견이 어렵다고 판단했다.&lt;br&gt;&lt;br&gt;앞서 보듬컴퍼니 전 직원들은 지난해 5월 강씨 부부가 직원들의 메신저를 무단으로 열람하는 등 직장 내 갑질을 했다며 경찰에 고소장을 제출했다. 당시 직원들은 강 대표가 방범카메라로 자신들을 감시하고, 명절 선물인 스팸을 반려동물 배변봉투에 담아 줬다는 의혹도 제기했다.&lt;br&gt;&lt;br&gt;이에 대해 강 씨 부부는 유튜브를 통해 해명 영상을 올리며 해당 의혹을 부인한 바 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>국내 최초로 지자체가 조성한 광교신도시, 20년 만에 준공</title>
+      <link>https://www.chosun.com/national/regional/2025/02/06/BTVLZ6CUNVEZ7DLANQYEO3WNMU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/02/06/BTVLZ6CUNVEZ7DLANQYEO3WNMU/</guid>
+      <dc:creator>수원=김수언 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 06 Feb 2025 02:11:51 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4XMQUYRNDQ6H5SZHQMVBAMHMAQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;광교 신도시. /경기도&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기도 수원·용인시에 걸쳐 조성한 광교신도시 개발사업이 20년 만에 준공됐다.&lt;br&gt;&lt;br&gt;6일 경기도에 따르면 국토교통부는 지난 1월 31일자로 광교지구 택지개발사업 준공을 공고했다. 최근 경기융합타운 부지 조성 완료 등 마지막 8단계 과정이 완료된 데 따른 것이다.&lt;br&gt;&lt;br&gt;광교신도시 개발 사업은 2004년 6월 30일 당시 건설교통부가 택지개발예정지구로 지정하면서 본격 시작됐다. 이듬해 12월 정부가 우리나라에서는 처음으로 지방자치단체가 사업시행을 하겠다는 개발계획을 확정 고시한 후 2023년까지 1~7단계 사업까지 순차적으로 진행됐다.&lt;br&gt;&lt;br&gt;경기도 관계자는 “택지개발사업은 종전 전·답 등의 지목을 신규 녹지 및 대지 등으로 확정하고, 도로나 상하수도 같은 기반시설을 조성한 후 공급하는 것으로, 광교신도시 준공은 이런 기반시설 조성과 공급작업이 완료된 것”이라고 했다.&lt;br&gt;&lt;br&gt;광교신도시는 국내 최초의 지방자치단체가 건설한 신도시다. 경기도, 경기주택도시공사(GH), 수원시, 용인시 등이 공동사업시행자로 사업을 진행했다.&lt;br&gt;&lt;br&gt;광교신도시는 수원시 영통구 이의동, 원천동, 하동과 용인시 수지구 상현동 일원에 10.8km²(326만 평) 규모로 조성됐다. 수원시가 88%, 용인시가 12%를 차지한다. 위례, 동탄, 판교 신도시 등과 함께 건설된 수도권 2기 신도시로, 지난해 말 기준 인구는 7만 8571명을 기록했다.&lt;br&gt;&lt;br&gt;광교신도시는 국내 신도시 중 최고의 녹지율(44.1%)과 국내 최저 인구밀도(72.8인/ha)를 가진 친환경 도시로 꼽힌다. 개발 당시 녹지축 보존을 위해 주거면적 비율을 19% 수준으로 억제했고, 녹지면적 비율을 전체 도시면적의 44.1%로 설정했다. 이는 판교 35%, 분당 20%, 일산 22%, 김포 28%에 비해 훨씬 높은 수준이라고 경기도 관계자는 설명했다.&lt;br&gt;&lt;br&gt;광교 경기융합타운에는 경기도청, 경기도의회, 경기도교육청, 한국은행 경기본부, 경기주택도시공사, 이의119안전센터가 입주를 완료했고 올해 경기신용보증재단 입주, 경기도서관 개관할 예정이다. 수원컨벤션센터와 수원지방법원·검찰청, 고등법원·검찰청 등의 광교 법조타운도 2019년 완공돼 운영 중이다.&lt;br&gt;&lt;br&gt;교통도 편리하다. 신분당연장선 개통으로 강남까지 약 30분이 걸린다. 국도43호선 상현교차로 확장, 북수원 민자도로 개통, 상현IC~삼막곡간 도로 등도 개통됐다.&lt;br&gt;&lt;br&gt;손임성 경기도 도시주택실장은 “광교신도시는 계획 단계부터 조성, 준공, 분양에 이르기까지 다양한 분야의 전문가 및 주민들의 의견을 폭넓게 수렴해 조성한 도시”라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>제주공항서 항공기 비상구 손잡이 만져 1시간 넘게 출발 지연</title>
+      <link>https://www.chosun.com/national/regional/2025/02/06/LZI6HBR65JCWFML54B5TJSI47M/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/02/06/LZI6HBR65JCWFML54B5TJSI47M/</guid>
+      <dc:creator>제주=오재용 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 06 Feb 2025 02:09:44 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KVYWMLWERVO7XK6PINWGMX4EAU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;제주국제공항./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제주공항에서 출발을 준비하던 항공기에서 승객이 비상구 손잡이를 건드려 한 시간 넘게 출발이 지연되는 일이 발생했다.&lt;br&gt;&lt;br&gt;6일 제주공항경찰대와 대한항공 관계자에 따르면 5일 오후 8시 20분쯤 제주발 김포행 대한항공 KE1326편 항공기 안에서 승무원으로부터 비상구 위치 등을 안내받는 과정에 30대 남성 A씨가 비상구 손잡이를 건드려 덮개가 분리돼 떨어졌다.&lt;br&gt;&lt;br&gt;이 과정에서 승무원과 실랑이가 벌어졌고, 신고를 받고 출동한 공항경찰대는 A씨를 비행기에서 내리게 한 뒤 임의동행했다.&lt;br&gt;&lt;br&gt;경찰은 A씨를 조사한 뒤 대테러 용의점 및 항공보안법 위반 혐의가 없다고 판단해 훈방 조치했다.&lt;br&gt;&lt;br&gt;하지만 해당 여객기는 예정보다 1시간 40분가량 지나 오후 10시3분쯤 지연 출발하면서 탑승객들이 큰 불편을 겪었다.&lt;br&gt;&lt;br&gt;대한항공 관계자는 “단순 호기심으로 인한 해프닝”이라면서도 “승무원의 안내 과정에 비상구 등을 함부로 만져서는 안 된다”고 설명했다.&lt;br&gt;&lt;br&gt;항공보안법은 승객이 항공기 출입문·탈출구·기기의 조작을 하지 못하도록 규정하고 있으며 이를 어길 경우 10년 이하의 징역에 처할 수 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>밤새 서울에서 수도 계량기 동파 46건 발생…동파 경계 단계 8일까지 연장</title>
+      <link>https://www.chosun.com/national/national_general/2025/02/06/37PKNULOXJFU5ELQBFUR4AJ2NY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/02/06/37PKNULOXJFU5ELQBFUR4AJ2NY/</guid>
+      <dc:creator>김영우 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 06 Feb 2025 01:12:27 +0000</pubDate>
+      <content:encoded>한파가 이어지면서 서울 시내 수도 계량기 동파가 잇따르고 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GPC2C7PO25HHXEYOPQKSI7BU34.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 4일 오후 서울 강북구 북부수도사업소에서 관계자가 동파된 수도 계량기를 정리하고 있다. /박성원 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;6일 서울시에 따르면, 전날 오후 4시부터 이날 오전 4시까지 12시간 동안 서울 시내에서는 총 46건의 계량기 동파가 발생했다. &lt;br&gt;&lt;br&gt;서울 전역에 한파특보가 발효된 지난 3일 오후 9시부터 누적 동파 건수는 총 106건이다. 서울시 관계자는 “모두 복구를 마쳤다”고 말했다.&lt;br&gt;&lt;br&gt;한파로 인한 한랭 질환자는 없었고, 수도관 동결도 발생하지 않았다.&lt;br&gt;&lt;br&gt;서울시는 지난 3일 오후 9시 서울 전역에 한파특보가 발효됨에 따라 비상근무 52개 반 180명, 순찰 인원 173명 규모의 한파 상황실을 운영하고 있다.&lt;br&gt;&lt;br&gt;한편 서울시는 6일 오후 6시까지 발령한 수도 계량기 ‘동파 경계’ 단계를 8일까지 연장한다고 밝혔다. &lt;br&gt;&lt;br&gt;서울시 관계자는 “8일까지 5일 연속으로 최저기온이 영하 10도 이하에 머무를 것으로 예측되고 있다”며 “동파량 증가를 우려해 연장하기로 했다”고 말했다.&lt;br&gt;&lt;br&gt;서울시에 따르면, 지난해 11월 15일부터 6일 오전 4시까지 서울에서 발생한 수도 계량기 동파 누적 건수는 총 951건이다.&lt;br&gt;&lt;br&gt;서울시 관계자는 “야간이나 외출 시에 수돗물을 가늘게 틀어 계량기 동파를 예방해 주시길 바란다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“서울 강남구, 비만율·흡연율 서울서 가장 낮아”</title>
+      <link>https://www.chosun.com/national/national_general/2025/02/06/XUKKNY6QBFDO7BRWNJVPHL4UZE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/02/06/XUKKNY6QBFDO7BRWNJVPHL4UZE/</guid>
+      <dc:creator>최연진 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 06 Feb 2025 01:11:41 +0000</pubDate>
+      <content:encoded>서울 강남구의 비만율(24.1%)과 현재 흡연율(10.8%)이 서울시 자치구 중 가장 낮은 것으로 조사됐다고 강남구가 6일 밝혔다. &lt;br&gt;&lt;br&gt;이는 2024년 지역사회건강조사 결과를 분석한 것이다. 지역사회건강조사는 전국 258개 시·군·구를 대상으로 흡연, 음주, 신체활동, 식생활, 만성질환 등의 건강 지표를 분석해 지역 보건정책 수립에 활용하는 조사다. 강남구는 지난해 5월 16일부터 7월 31일까지 질병관리청 및 인제대학교 산학협력단과 함께 19세 이상 구민 919명을 대상으로 조사를 진행했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KXSCBO6KNJHKVFYNMEOENUAAWI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;게티이미지뱅크&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;분석 결과, 강남구의 비만율(체질량지수 25 이상)은 24.1%로 지난해 27.5%에서 3.4%포인트 감소했다. 서울시에서 가장 낮다. &lt;br&gt;&lt;br&gt;반면 연간 체중조절 시도율은 72.6%로 서울 자치구 중 가장 높았다. &lt;br&gt;&lt;br&gt;현재흡연율도 10.8%로 전년도 14.3% 대비 3.5%포인트 감소해 서울에서 가장 낮았다. 금연, 절주, 걷기실천율을 모두 포함하는 건강생활실천율은 51.9%로 전년 대비 2.9%포인트 증가했고, 스트레스 인지율도 24.5%로 전년도 29%에서 4.5%포인트 개선됐다.&lt;br&gt;&lt;br&gt;다만 월간 음주율(59.7%), 걷기 실천율(61.7%), 우울감 경험률(8.4%) 등은 서울시 평균보다 실적이 좋지 않았다. &lt;br&gt;&lt;br&gt;강남구는 올해 신규 사업으로 거리의 쓰레기를 걸으면서 함께 치우는 프로그램을 운영하고, 기존 걷기 프로그램을 확대 운영해 걷기실천율을 더욱 높일 계획이다. 우울감 경험률 감소를 위해 정신건강복지센터와 협력해 상담 및 예방 프로그램을 강화할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>하남서도 서울시 기후동행카드 쓴다...4개역 승차 적용</title>
+      <link>https://www.chosun.com/national/national_general/2025/02/06/WLKHW3HA5FBIZARUMETRLSONLA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/02/06/WLKHW3HA5FBIZARUMETRLSONLA/</guid>
+      <dc:creator>최연진 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 06 Feb 2025 01:03:57 +0000</pubDate>
+      <content:encoded>지하철 5호선 미사역, 하남풍산역, 하남시청역, 하남검단산역에서도 서울시 기후동행카드를 이용할 수 있게 됐다. 기후동행카드는 서울시의 무제한 대중교통 이용권이다.&lt;br&gt;&lt;br&gt;서울시는 6일 하남시청에서 하남시와 기후동행카드 사업 참여 업무협약을 맺었다. 행사에는 오세훈 서울시장과 이현재 하남시장이 참석했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PHQHP63WGBG6BJEDYKCL6RWD3I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;오세훈 서울시장./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이번 협약으로 기존에 기후동행카드로 하차만 가능했던 하남시 구간 4개 역(미사, 하남풍산, 하남시청, 하남검단산)에서 승차도 할 수 있게 됐다.&lt;br&gt;&lt;br&gt;서울시 관계자는 “지하철을 이용해 서울과 하남을 오가는 3만명 이상의 시민이 기후동행카드의 혜택을 온전히 누리게 된 것”이라며 “남양주시와 구리시에 더해 하남시도 기후동행카드를 이용할 수 있게 돼 동부권 교통 생활권이 완성되는 효과도 있다”고 했다.&lt;br&gt;&lt;br&gt;기후동행카드는 누적 충전 756만건, 활성화 카드 수 70만장, 일평균 사용자 수 60만명을 기록하고 있다. 서울 대중교통 이용자 7명 중 1명은 이 카드를 사용하는 셈이다. 또 기후동행카드 이용자들은 월평균 3만원가량 교통비를 절약하는 것으로 나타났다.&lt;br&gt;&lt;br&gt;한편 협약 후 오세훈 시장은 하남 시민과 하남시청 공무원 500여명을 대상으로 특강을 할 예정이다. 서울시정의 핵심철학인 동행·매력특별시의 비전과 디딤돌소득 등 대표적 약자동행 정책을 공유한다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>中 딥시크 겨냥...구글, 초경량 AI모델 선보인다</title>
+      <link>https://www.chosun.com/national/2025/02/06/ZSOCSV4ZJ5HCJLLY4FUQPS5API/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2025/02/06/ZSOCSV4ZJ5HCJLLY4FUQPS5API/</guid>
+      <dc:creator>실리콘밸리=오로라 특파원</dc:creator>
+      <description/>
+      <pubDate>Wed, 05 Feb 2025 23:34:52 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IYNG3UYSKBIADMRAOA64JHJNAE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;구글 로고./AFP 연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;구글이 자사의 차세대 인공지능(AI) 모델인 ‘제미나이 2.0′ 시리즈를 5일 출시했다. 중국 딥시크를 겨냥한 가성비 제품부터, 복잡한 추론을 수행하는 오픈AI 대항마까지 두루 선보인 것이다.&lt;br&gt;&lt;br&gt;5일 구글은 제미나이 2.0 플래시 시리즈를 일반 이용자 대상으로 출시했다. 구글은 지난 12월 제미나이 2.0 제품군을 공개했고, 이번에 정식 출시에 나선 것이다. 이와 함께 유료 이용자들이 먼저 써볼 수 있는 베타 테스트 모델도 함께 공개했다. 테스트 모델에는 기존 플래시보다 더욱 가벼운 ‘제미나이 2.0 플래시 라이트’와 질문을 하면 깊게 생각을 한 후 답하는 ‘제미나이 2.0 플래시 씽킹(thinking)’ 등이 포함됐다.&lt;br&gt;&lt;br&gt;테크 업계에선 구글이 기존 경량 모델보다 더욱 가벼운 ‘플래시 라이트’를 내놓은 것은 중국을 염두에 둔 조치라는 분석이 나온다. 중국 딥시크가 저비용·고성능 AI를 내놓으며 테크계에 충격을 준 가운데, 자사 AI의 비용 절감에 나섰다는 것이다. 구글측은 이 초경량 제품이 전작인 ‘1.5플래시’와 비교했을 때 “동일한 속도 및 비용으로 더 나은 품질을 제공한다”고 밝혔다. 로이터 통신에 따르면 이 모델의 비용은 100만 토큰 당 0.019달러로 0.014달러인 딥시크 V3모델과 유사한 수준이다.&lt;br&gt;&lt;br&gt;구글은 이와 함께 오픈AI가 최근 내놓은 경량 추론 모델 ‘o3-미니’에 대항할 ‘제미나이 2.0 플래시 씽킹’을 선보였다. 이 모델은 구글 검색·날씨·지도 등 정보를 가져와 더욱 정확한 생활 정보 제공을 할수도 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>‘韓탄핵 의결 정족수’ 판단 미루고… 앞뒤 바뀐 헌재 재판</title>
       <link>https://www.chosun.com/national/court_law/2025/02/06/LANS5YYGLRAGJGUGGSNMEUIVSI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/02/06/LANS5YYGLRAGJGUGGSNMEUIVSI/</guid>
@@ -681,19 +822,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JIL6BXBJOBJAFMCCHGBDQVFQJA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난해 12월 19일 오후 서울 용산구 대한의사협회에서 열린 '국회-대한의사협회·대한전공의협의회 간담회' 모습. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;법정 의사 단체인 대한의사협회(의협)가 이달 14일 국회 보건복지위원회 공청회에 참석해 ‘의료 인력 수급 추계 위원회’에 대한 공식 입장을 밝히기로 한 가운데, 앞서 의협이 지난해 추계위 관련 요구 사항을 담은 의견서를 국회에 제출한 것으로 확인됐다.&lt;br&gt;&lt;br&gt;5일 의료계에 따르면 의협은 작년 법안 심사 제1소위 전날(12월 20일) 국회에 방문해 A4 용지 3장 분량의 의견서를 제출했다. 법안 심사 과정에서 ‘추계위의 독립성·자율성·전문성 확보를 위한 방안’, ‘의료 전문가 중심의 위원 구성’, ‘부칙의 특례 조항 명시’ 등이 고려돼야 한다는 것이 주요 골자다.&lt;br&gt;&lt;br&gt;의협은 “정부 주도로 의사 결정이 되는 구조를 탈피해 전문가 중심의 논의와 결정이 이뤄질 수 있는 구조가 돼야 할 것”이라며 “자문 기구가 아닌 의결 기구로서 역할을 부여해 추계위의 결정이 그대로 정책으로 반영되는 구조로 논의·운영돼야 한다”고 했다. 그간 의료계에선 정부의 의대 2000명 증원을 비판하며 이같이 주장해 왔다. 의료계 의견이 충분히 반영될 수 있도록 추계 기구를 만들어야 한다는 것이다.&lt;br&gt;&lt;br&gt;의협은 “실제 의료 현장에 있는 전문가들의 의견이 제대로 수용되지 않으면 탁상공론과 같은 실효성이 떨어지는 정책이 나올 수밖에 없다”며 “보건 의료 인력별로 추계위를 두고, 위원회별로 해당 보건 의료인 단체인 중앙회가 추천하는 위원으로만 과반 이상 포함되도록 구성돼야 한다”고 했다.&lt;br&gt;&lt;br&gt;‘수급 추계 전문위원회’는 의사·간호사·치과의사·한의사 등 분과별 위원회로 구성되고, 각 위원회에 전문가 10~15명이 참여하게 된다. 이때 전문가 위원 과반수 이상을 분야별 현업 단체가 추천할 수 있도록 권한을 달라는 것이다.&lt;br&gt;&lt;br&gt;의협은 또 “일부 법 개정안에서 각 직역별 추계위 중 의료인 단체가 아닌 ‘의료 기관 단체’의 추천 위원과 함께 구성하도록 규정하고 있는데, 이는 추계 과정상 의료 기관 운영·경영 측면의 입장이 반영돼 보건의료 체계의 전문가적 수급 전망이 왜곡될 우려가 매우 크고 각 추계위별 형평성에도 어긋난다”며 “의료인 단체 중앙회가 모두 추천하는 전문가 위원으로 위원회가 구성돼야 할 것”이라고 했다.&lt;br&gt;&lt;br&gt;이어 “추계위 위원장은 각 보건의료인 단체가 추천하는 위원 중에서 호선(互選)하도록 명시해 추계위의 전문성이 확보될 수 있도록 규정돼야 할 것”이라며 “위원회 산하의 전문위원회나 수급추계센터의 경우에도 의료의 특수성과 의학적 전문성이 반영될 수 있도록 구성돼야 할 것”이라고 했다.&lt;br&gt;&lt;br&gt;앞서 정부는 상설 추계 기구인 수급 추계 전문위원회와 함께, 추계 작업을 행정적으로 지원하는 ‘의료인력수급추계센터’(가칭)를 올해 만들 것이라고 밝힌 바 있다.&lt;br&gt;&lt;br&gt;의협은 “의료 현장의 혼란이 심화되고 국민의 건강과 안전을 위협하는 등 사회적 부작용을 최소화하기 위해서라도 추계위를 통해 ‘과학적 추계를 기반으로 한 2026학년도 의대 정원 감원 조정’ 등 대책 마련이 시급하다”며 “이를 위한 특례 조항 등이 관련 법 개정안에 반드시 명시돼야 할 것”이라고 했다. 정부는 의료계가 기구 구성에 참여하면 2026학년도 의대 정원부터 논의할 수 있다는 입장이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>충주맨, 공무원 최초 프리 선언?… 알고 보니 ‘이 복지’ 홍보  </title>
-      <link>https://www.chosun.com/national/national_general/2025/02/05/YAJSM5AHBZHPFPZXFDFSTPSCK4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/02/05/YAJSM5AHBZHPFPZXFDFSTPSCK4/</guid>
-      <dc:creator>박선민 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 05 Feb 2025 05:00:18 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BSIGJ2M2LVAE7ELA5INZPQWQ2A.png"&gt;&lt;figcaption&gt;&lt;small&gt;충주시 김선태 주무관이 '프리 선언'이라는 제목의 영상에서 시 자궁경부암 백신 무료 접종 홍보를 하고 있다. /유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘충주시 홍보맨’ 김선태 주무관이 ‘프리 선언’을 해 화제다. 실제로 프리랜서 선언을 한 것은 아니고, 최근 김대호 MBC 아나운서가 해 화제가 된 프리 선언을 활용해 자궁경부암 백신을 ‘프리’(Free·무료)로 지원한다며 언어유희로 충주시 복지 사업 홍보에 나선 것이다. 온라인상에서는 “재치 있다”는 취지의 반응이 이어졌다. &lt;br&gt;&lt;br&gt;충주시 공식 유튜브 채널에는 5일 ‘프리 선언’이라는 제목의 26초 분량의 영상이 올라왔다. 김 주무관이 책상에 앉아 중대 발표를 하려는 듯한 장면의 섬네일(미리보기 이미지)이 사용됐다. &lt;br&gt;&lt;br&gt;“안녕하세요. 충주맨입니다”라는 말로 시작하는 영상에서 김 주무관은 “먼저 제 발언에 실수가 있을 수 있어 서면을 보고 읽도록 하겠다”고 했다. 그러면서 “우선 제가 직접 말씀드려야 했는데, 기사로 먼저 접하게 만들어 죄송하다”고 했다. 영상 제목처럼 김 주무관이 실제로 프리랜서 선언이라도 하려는 듯한 분위기였다. &lt;br&gt;&lt;br&gt;하지만 분위기는 김 주무관이 자궁경부암 백신을 들어 보이면서 반전됐다. 김 주무관은 “충주시가 전국 최초로 자궁경부암 백신을 무료로 지원한다”며 “대상은 충주에 주민등록을 둔 18~26세 모든 여성”이라고 했다. 영상 제목 ‘프리 선언’의 ‘프리’가 프리랜서가 아닌 무료(Free)의 의미로 이용된 셈이다. 최근 김대호 MBC 아나운서의 프리랜서 선언을 패러디한 것으로 보인다. 김 주무관은 평소에도 화제가 된 인물이나 사건을 패러디해 시 정책을 홍보하는 것으로 유명하다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/F74FQHDYCBEHNBKJQLJR3AHGHQ.png"&gt;&lt;figcaption&gt;&lt;small&gt;시 복지 사업을 홍보하는 영상이 하루도 지나지 않아 조회수가 70만회를 넘겼다. /유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;시 공식 유튜브 영상임에도 불구하고, 이 영상은 하루도 지나지 않아 조회수가 70만회를 넘기고 댓글도 1600개 이상 달릴 정도로 화제가 됐다. 네티즌들은 “압도적인 어그로(관심 끌기) 제목, 그리고 정직한 내용” “진짜 프리 선언하는 줄 알고 속았다” “말 그대로 프리(공짜) 선언이었다” 등의 반응을 보였다. &lt;br&gt;&lt;br&gt;홍보 방식과 별개로 시 정책 자체를 반기는 네티즌도 많았다. “이건 전국적으로 해줬으면 좋겠다. 충주시 일 정말 잘한다” “솔직히 (자궁경부암 백신) 60만원 가까이하길래 비싸서 포기했는데, 충주 시민 부럽다” “비싸서 맞기 꺼려졌는데, 이건 진짜 좋은 것 같다” 등이다. &lt;br&gt;&lt;br&gt;충주시는 자궁경부암 예방 효과가 뛰어난 ‘가다실9’ 백신 접종을 통해 시민 건강을 보호하고 질병 예방을 강화하자는 취지에서 이 같은 사업을 추진한 것으로 알려졌다. 충주에 주민등록 주소를 둔 희망자는 올해 말까지 1인당 3회에 걸쳐 지정 병의원에서 접종받을 수 있다. 다만 ‘서바릭스’ ‘가다실4’ 등 같은 다른 자궁경부암 백신을 맞은 여성은 대상에서 제외된다. &lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/KYQVZOQYS5FFHNWXSMEYFETYT4.png?width=752&amp;height=564&amp;auth=32ecc45a3aee40e4dbf087bc925d2e125478b7192d7e7989313b6622c1aa0c6e&amp;smart=true" type="image/png" height="564" width="752">
-        <media:description type="plain">충주시 김선태 주무관이 '프리 선언'이라는 제목의 영상에서 시 자궁경부암 백신 무료 접종 홍보를 하고 있다. /유튜브</media:description>
-        <media:credit role="author" scheme="urn:ebu"/>
-      </media:content>
-    </item>
-    <item>
       <title>검찰, 문다혜 불구속 기소…음주운전·불법숙박업 혐의</title>
       <link>https://www.chosun.com/national/national_general/2025/02/05/OLN2CBZSJZFNZIZC6DOHSCOMKU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/02/05/OLN2CBZSJZFNZIZC6DOHSCOMKU/</guid>
@@ -721,19 +849,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IUE7TGJSF4B2R6GYR2F73PNH7Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 1일 부산역 광장에서 열린 윤석열 대통령 탄핵 반대 집회에 연사로 나선 한국사 강사 전한길씨가 발언하고 있다. /유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;친야 성향 한 시민단체가 5일 윤석열 대통령 탄핵에 반대 목소리를 내고 있는 유명 한국사 강사 전한길씨에 대해 그가 내란을 부추기고 있다며 경찰에 고발장을 냈다.&lt;br&gt;&lt;br&gt;사법정의바로세우기시민행동(사세행)은 이날 서울 서대문구 경찰청 국가수사본부 앞에서 기자회견을 열고 전씨를 내란 선동과 정보통신망법상 명예훼손 혐의로 고발한다고 밝혔다.&lt;br&gt;&lt;br&gt;사세행은 “전씨는 일부 헌법재판관들에 대한 부당한 공격을 자행하고 탄핵심판 자체를 부정함으로써 윤 대통령 탄핵 인용 시 국민적 불복과 헌재에 대한 침탈·폭력을 정당화하는 언동을 반복했다”고 했다.&lt;br&gt;&lt;br&gt;사세행은 전씨가 유튜브에서 문형배 헌재소장 권한대행 등 일부 헌법재판관들을 비방한 것을 두고서는 “단정적 표현을 반복하면서 자신의 주장이 사실인 양 다수의 국민에게 유포해 사회적 평판을 현저히 저하했다”고 했다.&lt;br&gt;&lt;br&gt;전씨는 최근 자기 유튜브 채널에 올린 영상에서 선관위의 부정 선거 의혹을 제기하고 윤 대통령에 대한 탄핵의 부당성을 주장했다. 지난 1일 부산역 광장에서 열린 탄핵 반대 집회에서는 “국민들은 불의한 재판관들의 심판에 승복하지 않을 것이다. 국민들이 헌재를 휩쓸 것”이라고 말한 바 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>신임 해양경찰청장에 김용진 중부해경청장 내정</title>
-      <link>https://www.chosun.com/national/regional/2025/02/05/EXLR76QK4VAIFBPF5G7GUJ6SVU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/02/05/EXLR76QK4VAIFBPF5G7GUJ6SVU/</guid>
-      <dc:creator>인천=이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 05 Feb 2025 04:25:51 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/O7LHAMJ7ERD63JWQEOQMTQWG6U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김용진 해양경찰청장 내정자./해양경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;신임 해양경찰청장에 김용진(55) 중부지방해양경찰청장이 내정됐다.&lt;br&gt;&lt;br&gt;5일 해양경찰청에 따르면 해양수산부는 김 청장을 해양경찰청장으로 임명 제청했다.&lt;br&gt;&lt;br&gt;해양경찰청법 등에 따르면 해양경찰청장은 해양경찰위원회의 동의를 받아 해양수산부장관 제청으로, 국무총리를 거쳐 대통령이 임명한다.&lt;br&gt;&lt;br&gt;해양경찰청장은 경찰청장과 같은 치안총감이다.&lt;br&gt;&lt;br&gt;경북 영주 출신인 김 청장은 영주 중앙고와 서울대를 졸업했다.&lt;br&gt;&lt;br&gt;1999년 행정고시 42기에 합격해 공직에 입문한 김 청장은 2008년 경정 특채로 해양경찰청에 임용돼 울산해양경찰서장, 해양경찰청 국제협력관과 기획조정관, 해양경찰청 차장 등을 지냈다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/DNMUVPB5EJA6VBUJYYV3KMTFT4.jpg?width=685&amp;height=514&amp;auth=4a43e4d322ca1724db411115805565372719a7742bf513c61377001666a08408&amp;smart=true" type="image/jpeg" height="514" width="685">
-        <media:description type="plain">김용진 해양경찰청장 내정자./해양경찰청</media:description>
-        <media:credit role="author" scheme="urn:ebu"/>
-      </media:content>
-    </item>
-    <item>
       <title>전광훈, 서부지법 난동 배후설 부인...“특임전도사 2명 잘 몰라”</title>
       <link>https://www.chosun.com/national/national_general/2025/02/05/6AUGMMGB5RGDHBLOOSROVV74UM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/02/05/6AUGMMGB5RGDHBLOOSROVV74UM/</guid>
@@ -741,16 +856,6 @@
       <description/>
       <pubDate>Wed, 05 Feb 2025 04:20:26 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WC7EZPIDO5A6NMWJ3H4EQ3M3QY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전광훈 목사가 5일 오전 서울 여의도 자유통일당 중앙당사에서 내란선동 혐의 관련 기자회견을 하고 있다. 이 기자회견은 대한민국바로세우기국민운동본부(대국본)가 주최했다./박성원 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;내란선동 혐의로 경찰 수사를 받고 있는 사랑제일교회 전광훈(69) 목사가 “내란선동 혐의 자체가 성립할 수 없다”며 “최근 체포된 특임전도사 2명도 잘 모르는 사람”이라고 혐의를 부인했다.&lt;br&gt;&lt;br&gt;5일 오전 대한민국바로세우기국민운동본부(대국본)는 서울 영등포구 자유통일당 중앙당사에서 기자회견을 열고 서부지법 사태의 배후에 전 목사가 있는 게 아니냐는 의혹에 대한 입장을 밝혔다. 이날 전 목사는 “광화문 집회를 7년간 주도하며 한 번도 사건 사고가 없었고, 무력을 행사하거나 말싸움도 하지 말 것을 참가자들에게 강조해왔다”고 했다. 그는 내란 선동 혐의로 고발돼 서울경찰청 안보수사대 수사를 받고 있다. 경찰은 그가 사태 이전 ‘국민 저항권’을 10여 차례 언급하거나, 윤 대통령을 서울구치소에서 데리고 나올 수 있다는 취지로 한 발언 등이 내란 선동에 해당하는지 등을 전담팀을 구성해 조사 중이다.&lt;br&gt;&lt;br&gt;전 목사 측은 “서울 구치소에서 윤 대통령을 데리고 나오자는 말은 국민 1000만명이 모여 한마음이 되면 대통령이 구속 상태에서 벗어날 수 있다는 생각이었을 뿐 물리적으로 구치소 밖으로 데리고 나오자는 의미가 아니었다”고 했다. 국민 저항권에 대해 전 목사 측 김학성 교수는 “국민저항권은 천부인권의 하나로, 국가가 불법을 자행하면 누구라도 언제든 어디서든 발동할 수 있는 권리다. 이건 법과대학 2학년이면 알 수 있는 기초 개념일 뿐”이라고 설명했다. “국민저항권은 해괴한 개념”이라고 발언한 김민석 더불어민주당 의원에 대해 전 목사가 공개 토론을 제안하기도 했다.&lt;br&gt;&lt;br&gt;전 목사 측은 ‘내란선동’ 혐의 자체가 성립하지 않는다는 입장이다. 구주와 변호사는 “서부지법 사태로 구속된 피의자들은 공무집행방해나 건조물 침입 혐의를 받을 뿐이므로 선동할 ‘내란’ 행위 자체가 없다”고 했다. 전 목사는 “경찰이 부르면 언제든 나가서 정확히 반박하겠다”고 덧붙였다.&lt;br&gt;&lt;br&gt;최근 경찰에 체포된 사랑제일교회 특임전도사 2명에 대해서는 “이씨는 1년 전 안수기도를 해주려 한 번 봤고, 윤씨는 주차장에서 마주쳐 인사하면 인사를 받아주는 정도의 사이였을 뿐 잘 모른다”고 했다.&lt;br&gt;&lt;br&gt;이날 유튜버 신혜식씨는 기자회견에 참여해 “서부지법 난동 사태의 배후엔 전 목사가 아닌 유튜버 2명이 있다”며 “이들을 경찰에 고발하기 위한 증거를 수집했고, 경찰이 사태의 배후를 밝히지 못하면 바로 고발장을 제출할 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘플라이강원 20억 부당 지원’… 김진하 양양군수, 배임 혐의로 또 검찰 송치</title>
-      <link>https://www.chosun.com/national/2025/02/05/B7SDJ5FPSZAZZI5MBU3BQTQDRU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2025/02/05/B7SDJ5FPSZAZZI5MBU3BQTQDRU/</guid>
-      <dc:creator>양양=정성원 기자</dc:creator>
-      <description>뇌물 수수, 강제추행 등 혐의로 구속 기소된 김진하 강원 양양군수가 업무상 배임 혐의 사건으로 검찰에 또다시 넘겨졌다.강원경찰청 반부패경제범죄수사대는 최근 김진하 양양군수와 A 전 부군수, 관련 부서 공무원 3명 등 총 5명을 특정경제범죄 가중처벌 등에 관한 법률상 배임 혐의로 검찰에 송치했다고 5일 밝혔다.</description>
-      <pubDate>Wed, 05 Feb 2025 03:36:24 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PAY22OKNMXLOGKX7DZPTLYVGNM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;뇌물 수수 등 혐의를 받고 있는 김진하 양양군수가 지난달 2일 구속 전 피의자 심문(영장실질심사)을 받기 위해 춘천지법 속초지원에 들어서고 있다. /뉴스1
-&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;뇌물 수수, 강제추행 등 혐의로 구속 기소된 김진하 강원 양양군수가 업무상 배임 혐의 사건으로 또다시  검찰에 넘겨졌다.&lt;br&gt;&lt;br&gt;강원경찰청 반부패경제범죄수사대는 최근 김진하 양양군수와 A 전 부군수, 관련 부서 공무원 3명 등 총 5명을 특정경제범죄 가중처벌 등에 관한 법률상 배임 혐의로 검찰에 송치했다고 5일 밝혔다.&lt;br&gt;&lt;br&gt;김 군수 등은 지난 2023년 5월 유동성 위기를 겪는 플라이강원에 20억원의 운항장려금을 부당 지원하는 방법으로 양양군에 재산상 손해를 끼친 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;플라이강원은 양양군이 20억원을 지원한 지 얼마 지나지 않아 경영난으로 기업회생을 신청했다.&lt;br&gt;&lt;br&gt;경찰은 지난해 양양군청과 플라이강원 본사 등의 압수수색을 진행, 김 군수 등이 플라이강원의 기업회생 신청 계획을 알고도 20억원을 지급했다고 판단했다.&lt;br&gt;&lt;br&gt;앞서 양양군의 지원 예산안을 의결한 양양군의회에서도 “항공사의 자구노력 등을 명확히 판단하고 지원에 상응하는 혜택이 군민에게 돌아갈 수 있는지 고려해 신중하게 집행해야 한다”고 주문한 바 있다.&lt;br&gt;&lt;br&gt;한편 플라이강원은 지난 2019년 양양국제공항을 거점으로 출범했으나, 코로나 등으로 경영난이 악화돼 지난 2023년 기업회생을 신청했다. 지난해 8월엔 위닉스에 인수된 뒤 사명이 ‘파라타항공’으로 변경됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>“디즈니 왔어요” 美 출장 중 유튜브 찍은 공기관 직원… 법원 “해고 정당”</title>
@@ -807,15 +912,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FRPL2WI3T5CZNNDV27TEQJWPKI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 종로구 재동에 위치한 헌법재판소의 외관./전기병 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;헌법재판소가 윤석열 대통령 탄핵심판과 관련해 윤 대통령 측이 증인으로 신청한 김봉식 전 서울경찰청장과 조지호 경찰청장에 대한 신문을 13일 진행한다고 밝혔다.&lt;br&gt;&lt;br&gt;천재현 헌재 공보관은 이날 오전 진행된 브리핑에서 “피청구인(윤 대통령) 측이 신청한 증인 가운데 김봉식 전 청장을 증인으로 채택했다”고 했다. 김 전 청장에 대한 신문기일은 오는 13일 오후 2시로 정해졌다. 또 지난 기일 건강상 이유로 출석하지 않았던 조지호 경찰청장에 대해서도 김 전 청장과 같은 날 오후 3시 30분에 신문하겠다고 밝혔다. &lt;br&gt;&lt;br&gt;윤 대통령 측은 이날까지 31명 이상의 증인을 신청했고, 이 가운데 김봉식 전 서울경찰청장, 김용현 전 국방부 장관, 신원식 국가안보실장, 조태용 국가정보원장, 백종욱 전 국정원 3차장, 박춘섭 대통령실 경제수석이 채택됐다. 이상민 전 행정안전부 장관은 양측이 모두 신청해 채택된 증인이다. &lt;br&gt;&lt;br&gt;국회 측이 신청한 증인으로는 조지호 경찰청장, 이진우 전 수도방위사령관, 여인형 전 방첩사령관, 홍장원 전 국가정보원 1차장, 곽종근 전 특수전사령관, 김용빈 중앙선거관리위원회 사무총장 등이다. 이중 이 전 사령관과 여 전 사령과, 홍 전 차장은 지난 4일 열린 5차 변론에 증인으로 참석했다.&lt;br&gt;&lt;br&gt;한편 윤 대통령 측이 변론 기일을 주 1회로 지정해달라고 요청한 것에 대해 헌재는 “아직 재판부 입장은 없다”고 밝혔다. 앞서 윤 대통령 측은 검찰 공소장에 객관적 사실 오류가 있다면서 한 주에 두 차례씩 예정돼 있는 기일을 한 차례씩으로 바꿔달라고 요청했다. 향후에도 재판 기일에 변동이 없다면 다음 기일은 오는 6일 오전 10시에 열린다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>경찰, 어제 한덕수 국무총리 소환…계엄 국무회의 조사</title>
-      <link>https://www.chosun.com/national/national_general/2025/02/05/DHSDEZ5U4ZBFHIKDQJNCIOWQDE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/02/05/DHSDEZ5U4ZBFHIKDQJNCIOWQDE/</guid>
-      <dc:creator>김명진 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 05 Feb 2025 01:15:32 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PS3WQAFVCZO3VG3NBZMVU7DYRU.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;한덕수 국무총리가 1월 22일 서울 여의도 국회에서 열린 윤석열 정부의 비상계엄 선포를 통한 내란 혐의 진상규명 국정조사 1차 청문회에 출석해 의원 질의에 답하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰청 국가수사본부 특별수사단은 4일 한덕수 국무총리를 내란죄 피의자 신분으로 불러 조사했다고 5일 밝혔다.&lt;br&gt;&lt;br&gt;한 총리의 경찰 출석은 이번이 두 번째다. 한 총리는 작년 12월 20일 경찰의 출석 요구에 따라 한차례 비공개 대면 조사를 받은 바 있다.&lt;br&gt;&lt;br&gt;경찰은 한 총리를 상대로 비상계엄 관련 국무회의 상황에 대해 추가 조사한 것으로 알려졌다. 경찰 관계자는 “한 총리가 5일 오후쯤 특별수사단으로 출석해 저녁 늦게까지 조사받고 귀가했다”고 했다.&lt;br&gt;&lt;br&gt;한 총리는 그간 계엄 선포를 윤석열 대통령에게 건의한 바 없고, 국무회의 심의도 사실상 이뤄지지 않아 비상계엄이 법적 절차를 준수하지 않았다는 입장을 밝혀왔다.&lt;br&gt;&lt;br&gt;한 총리는 작년 12월 14일 윤 대통령 탄핵 소추로 대통령 권한대행이 됐다. 그러나 한 총리가 대통령 권한대행 자격으로 헌법재판관 임명을 보류하자, 민주당은 같은달 27일 한 총리 탄핵소추안을 국회에서 통과시켰다. 현재는 직무 정지 상태다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>巨野 검찰 특활비 전액 삭감에…수사관들 “점심도 먹지 말란 소리” </title>
       <link>https://www.chosun.com/national/national_general/2025/02/05/YGJFNRWZRJAOLFHXLVIKY6LEZ4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/02/05/YGJFNRWZRJAOLFHXLVIKY6LEZ4/</guid>
@@ -827,15 +923,6 @@
         <media:description type="plain">서울 서초구 대검찰청의 모습. /뉴스1</media:description>
         <media:credit role="author" scheme="urn:ebu">뉴스1 ⓒ News1 이재명 기자</media:credit>
       </media:content>
-    </item>
-    <item>
-      <title>통상본부장 “글로벌 관세 전쟁 확산 대비 정책수단 총동원”</title>
-      <link>https://www.chosun.com/national/2025/02/05/L4GDW23AJJBQTKV43JZESAPQQ4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2025/02/05/L4GDW23AJJBQTKV43JZESAPQQ4/</guid>
-      <dc:creator>서유근 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 05 Feb 2025 01:30:15 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OKBBSUFHGVI2XGG4BDTYY2YSQQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;정인교 산업자원통상부 통상교섭본부장이 5일 오전 서울 중구 대한상공회의소에서 열린 긴급 회의에 참석해 모두발언을 하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정인교 산업통상자원부 통상교섭본부장은 5일 “정부는 글로벌 관세 조치 확산에 대비해 비상수출대책 및 유턴기업 지원대책 마련 등 가용한 정책수단을 총동원하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;정 본부장은 이날 오전 서울 대한상공회의소에서 트럼프 행정부의 관세 조치에 따른 주요국 대응현황 긴급점검 회의를 주재해 트럼프 행정부의 대(對)캐나다·멕시코 관세 조치 발표 및 유예, 대중국 추가 관세 조치와 여타 국가 및 품목으로의 확대 가능성 등 불확실성에 대한 대응 방안을 검토했다. 아울러 현지 진출 국내기업 현황을 점검하고, 정부 차원의 지원 방안을 논의했다.&lt;br&gt;&lt;br&gt;이날 회의에는 미국·캐나다·멕시코·중국·일본 등 5개국 상무관 및 무역관장이 참석했다. 정 본부장은 “통상 당국은 현지 공관을 통해 관련 동향을 24시간 모니터링하고, 코트라 무역관에 우리 진출기업 애로지원을 위한 ‘헬프데스크’를 즉시 가동할 것”이라 밝혔다.&lt;br&gt;&lt;br&gt;참석한 상무관들과 코트라 무역관장들도 주재국 정부 및 진출 국내 기업의 대응 현황과 업계 건의사항을 공유하고, 현지 대응 체계를 구축하기로 했다.&lt;br&gt;&lt;br&gt;향후 산업부는 “EU 등 여타 주요국까지 포함하여 관세조치 관련 현지 대응 점검회의를 추가로 개최하고, 유사입장국들과 대응방안 논의도 적극 추진해 나갈 계획”이라고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>“폐 하얗게 변했다”…이것 즐겨 먹던 권상우, 깜짝 놀라 끊은 사연</title>
@@ -851,18 +938,6 @@
       </media:content>
     </item>
     <item>
-      <title>“화장품인줄 알았는데” 위장 마약 밀반입한 외국인 남성</title>
-      <link>https://www.chosun.com/national/national_general/2025/02/05/JJ6SWIR4VFFYBCNO67BVBZPIHY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/02/05/JJ6SWIR4VFFYBCNO67BVBZPIHY/</guid>
-      <dc:creator>김병권 기자, 이민경 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 05 Feb 2025 00:00:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/F5HWAIWGE6RSYMTKGTNK2CEVNE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 강남경찰서/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;베트남에서 밀수입한 임시마약류를 국내에 유통한 20대 외국인 남성이 구속 상태로 검찰에 넘겨졌다.&lt;br&gt;&lt;br&gt;서울 강남경찰서는 임시마약류 ‘러쉬’의 원재료를 해외에서 밀반입한 후 화학제품 등을 섞어 국내에 유통한 혐의(마약류관리법 위반)로 도미니카 연방 국적 남성 A(24)씨를 검찰에 구속 송치했다고 5일 밝혔다. 경찰은 A씨로부터 러쉬를 구매해 시중에 유통한 중간유통책 B(33)씨와 C씨(35)씨도 같은 혐의로 체포했다. 임시마약류는 마약류는 아니지만, 오남용으로 인한 보건상의 위해가 우려돼 마약류에 준해 취급, 관리할 필요가 있다고 인정되는 물질이다.&lt;br&gt;&lt;br&gt;A씨는 지난해 9월부터 지난달까지 베트남 현지에서 러쉬의 원재료와 화학약품을 유리병에 담아 화장품인 것처럼 위장해 항공기 위탁 수하물로 국내에 밀반입했다. 이후 서울 영등포구의 은신처에서 화학제품 등을 섞어 러쉬를 직접 제조했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VBNKBZAFFNEBJPPLCU34BM2OOI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;A씨가 베트남에서 임시마약류 '러쉬'의 원재료를 담아 들여온 화장품 병/강남경찰서 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰에 따르면, A씨가 제조한 러쉬는 약 4ℓ에 달한다. 경찰은 A씨를 검거하는 과정에서 시중에 아직 유통되지 않은 3.42ℓ의 러쉬를 압수한 것으로 확인됐다. 러쉬 원재료는 가격이 100㎖에 약 2만원이지만, A씨는 제조한 러쉬를 30㎖에 24만~30만원에 팔아 넘겨 판매 금액이 도합 500만원에 이른다고 한다.&lt;br&gt;&lt;br&gt;A씨는 텔레그램을 통해 러쉬를 “엄청 저렴하고 흔하게 구할 수 있으며 약국에서도 팔아 중독성이 없다”고 홍보했고, 이를 보고 연락한 중간책에게 넘겨 시중에 유통한 것으로 나타났다. A씨는 베트남에 거주하며 현지에서 한국을 오가며 명품 리셀(resell)을 했다고 한다. 하지만, 최근 경기 불황으로 명품 판매가 부진하자 돈을 벌기 위해 베트남에서 값싼 러쉬 원재료를 들여와 국내에서 고가에 판매한 것으로 확인됐다.&lt;br&gt;&lt;br&gt;경찰은 B씨와 C씨도 불구속 상태에서 추가 조사를 해 검찰에 넘기는 한편, 아직 붙잡히지 않은 중간 유통책 등을 추가로 검거하고, 범죄수익금을 계속 추적하겠다는 계획이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/VBNKBZAFFNEBJPPLCU34BM2OOI.jpg?width=5712&amp;height=3890&amp;auth=fed6bcd03140b6dc74355fe6416180b9e101dc27ee9ed47a411e624eff78118b&amp;smart=true" type="image/jpeg" height="3890" width="5712">
-        <media:description type="plain">A씨가 베트남에서 임시마약류 '러쉬'의 원재료를 담아 들여온 화장품 병/강남경찰서 제공</media:description>
-      </media:content>
-    </item>
-    <item>
       <title>계엄 이후 처음으로 홍장원 마주한 尹 대통령… 인사 안 받아</title>
       <link>https://www.chosun.com/national/2025/02/04/EWYGORCQTRCERLGARZDTD6UCPE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/2025/02/04/EWYGORCQTRCERLGARZDTD6UCPE/</guid>
@@ -872,24 +947,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PUR4G3KUXUNVFIBRM2DYZVQQKA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령이 4일 서울 종로구 헌법재판소에서 열린 탄핵심판 5차 변론기일에 출석해 눈을 감고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 대통령이 4일 헌법재판소 탄핵심판 5차 변론기일에서 증인으로 나온 홍장원 전 국가정보원 1차장과 비상계엄 사태 이후 처음으로 마주했다.&lt;br&gt;&lt;br&gt;홍 전 차장은 이날 오후 6시50분쯤 대심판정에 입정한 직후 윤 대통령 쪽으로 몸을 돌리고 허리를 숙여 인사했다. 윤 대통령은 홍 전 차장을 보는 듯했으나, 이내 고개를 반대쪽으로 돌리며 인사를 받지 않았다. 홍 전 차장은 증인석에 앉기 전과 퇴정하기 전에도 윤 대통령을 향해 인사했지만 윤 대통령은 받지 않았다.&lt;br&gt;&lt;br&gt;윤 대통령은 홍 전 차장의 발언 중간 중간 불편한 심기를 드러냈다. 홍 전 차장은 이날 12·3 비상계엄 사태 당시 윤 대통령으로부터 ‘싹 다 잡아들여’라는 지시를 받고, 여인형 전 방첩사령관으로부터 체포 명단을 전달받았다고 주장했다.&lt;br&gt;&lt;br&gt;이어 홍 전 차장은 “경질된 이유를 알고 있느냐”는 국회 측 질문에 윤 대통령 쪽을 바라보면서 “제 경질 이유는 대통령께서 유일하게 알고 계실 것”이라고 답변했다. 그러자 윤 대통령은 눈을 감은 채 웃었다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YM747UBRDFPKFFT7IPP77ZK3X4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;4일 서울 종로구 헌법재판소에서 열린 윤석열 대통령 탄핵심판 5차 변론기일에서 윤석열 대통령을 비롯한 증인들이 발언을 하고 있다. 사진 왼쪽부터 윤 대통령, 여인형 전 국군방첩사령관, 홍장원 전 국가정보원 제1차장, 이진우 전 육군 수도방위사령관. /헌법재판소&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;홍 전 차장의 증인신문이 끝나자 윤 대통령은 발언권을 얻어 “홍 전 차장에게 방첩사를 도와주라고 한 것은 계엄과 관련 없는 이야기”라고 반박했다. 윤 대통령은 “국정원은 수사권이 없고 검거는커녕 위치 추적도 할 수 없다”라며 “계엄 상황에 (국정원) 1차장한테 계엄사무를 부탁한다는 게 비상식적”이라고 했다. 윤 대통령은 홍 전 차장의 발언에 반박할 때 양손을 크게 휘젓거나 책상을 내려치기도 했다.&lt;br&gt;&lt;br&gt;윤 대통령은 지난 4차 변론과 달리 직접 증인에게 질문하는 것이 제한되면서 증인신문 내내 주로 눈을 감거나 무표정으로 증언을 들었다.&lt;br&gt;&lt;br&gt;홍 전 차장보다 앞서 증인신문을 진행한 여인형 전 국군방첩사령관은 형사재판이 진행되고 있다는 이유를 들어 윤 대통령과 관련한 진술을 대부분 거부했다. 윤 대통령은 여 전 사령관이 퇴정한 뒤에 웃으면서 대리인단과 대화를 나누기도 했다.&lt;br&gt;&lt;br&gt;이진우 전 수도방위사령관은 이날 증인신문에서 “계엄을 방송 뉴스를 통해 알았고 사전 모의는 없었다” 취지로 발언했다. 이 대목에서 윤 대통령은 눈을 감고 고개를 끄덕였다. 윤 대통령은 이 전 사령관이 수방사 ‘B1 벙커’를 구금 시설로 활용하려 했다는 의혹에 대해 “B1벙커는 국가중요시설로, 체포·구금 시설로는 사용이 불가하다”고 하자, 눈을 뜨고 이 전 사령관을 응시하기도 했다. 윤 대통령은 이 전 사령관이 증인신문을 마치고 인사하자 살짝 고개를 끄덕였다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>尹대통령 측 “국정원 수사권 없고 검거 못해... 홍장원 증언 모순”</title>
-      <link>https://www.chosun.com/national/2025/02/04/6QSUAYGU3NH6RCSE6TF7S7YZWU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2025/02/04/6QSUAYGU3NH6RCSE6TF7S7YZWU/</guid>
-      <dc:creator>김나영 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 04 Feb 2025 12:33:43 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WOLSCEJNB7UIJKZL2XSZYLQITM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령의 탄핵심판 첫 변론기일인 지난 1월 14일 오후 윤 대통령 측의 변호인인 윤갑근(오른쪽), 배보윤 변호사가 서울 종로구 헌법재판소에 출석해 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 대통령 대리인단 윤갑근 변호사는 4일 윤 대통령 탄핵심판 5차 변론기일을 마친 후 “일부 증인들이 진술한 게 맞지 않는 부분들이 있다”라며 “오히려 이제 공개된 법정에서 증인들이 증언함으로써 사실 관계가 좀 더 드러나는 게 아닌가 한다”고 했다.&lt;br&gt;&lt;br&gt;윤 변호사는 특히 이날 변론에서 쟁점으로 부각된 홍장원 전 국가정보원 1차장이 작성한 메모를 두고는 ‘앞뒤가 맞지 않는다’고 지적했다. 해당 메모에는 ‘검거 요청’이라는 표현이 적혀있었는데 이에 대해 “국정원은 수사권이 없기 때문에 검거를 할 수 없다”고 반박했다. 그러면서 “모든 게 모순이고 앞뒤가 맞지 않는다”고 했다. 홍 전 차장은 윤 대통령에게 ‘방첩사를 도와라’는 취지의 말을 전해듣고 여인형 전 방첩사령관과 통화를 한 뒤 이같은 메모를 작성했다고 주장하고 있다.&lt;br&gt;&lt;br&gt;윤 변호사는 “끌어내니 뭐 이런 진술들과 관련해서 수방사령관 같은 경우는 (국회) 안에 들어가지도 못했다”라며 “병력이 들어갔다는 것도 14명 정도밖에 안 된다”고 했다. 그는 “객관적인 상황들과 그 당시에 어떤 전개됐던 국회 주변의 상황에 비추어 보면, 기존에 알려진 진술이 사실과 다를 수밖에 없다”고 했다.&lt;br&gt;&lt;br&gt;윤 변호사는 ‘윤 대통령이 마치 호수 위에 달 그림자를 쫓는 것 같다고 말한 건 어떤 의미냐’는 기자 질문에 “저는 내란몰이라는 표현을 쓴다”라며 “많은 부분에서 뭐를 지시했다, 요구했다는 진술이 있었는데 지시나 요구에 따른 결과가 아무것도 없었다”고 했다.&lt;br&gt;&lt;br&gt;윤 변호사는 “여기에 남는 것은 대통령이 국가 위기 상황이라고 인식을 하고 헌법상 권한인 비상 계엄을 선포했고 그에 따른 일련의 조치가 있었다는 것”이라며 “그에 따라서 어떤 불법 사항이 발생해서 피해가 생기거나 체포가 됐거나, 적어도 체포를 시도하는 흉내라도 있거나 물리적 충돌에 의한 뭐가 피해가 생겼거나 이런 게 아무것도 없다는 얘기”라고 했다.&lt;br&gt;&lt;br&gt;윤 변호사는 “결국 남는 것은 대통령의 정당한 비상계엄 선포”라며 “계엄에 따라 국가 위기 상황, 국헌 문란 질서를 바로잡으려고 한 것”이라고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>헌재, 前서울청장도 증인 신문…尹측 신청 31명 중 8명 채택</title>
-      <link>https://www.chosun.com/national/court_law/2025/02/04/57RXSJGAG5DORIJJHYQODNH36Q/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/02/04/57RXSJGAG5DORIJJHYQODNH36Q/</guid>
-      <dc:creator>박혜연 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 04 Feb 2025 12:34:18 +0000</pubDate>
-      <content:encoded>헌법재판소가 4일 윤석열 대통령 측이 증인으로 신청한 김봉식 전 서울경찰청장에 대한 신문을 진행하기로 했다. 한덕수 국무총리에 대한 증인 채택은 보류했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GQAQSGNXUVOF6M76LJSNXRKEIQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김봉식 서울경찰청장(왼쪽)이 작년 12월 5일 오전 서울 여의도 국회에서 열린 비상계엄 관련 행정안전위원회 전체회의에 굳은 표정으로 출석해 있다. 오른쪽은 조지호 경찰청장. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;문형배 헌재소장 권한대행은 이날 열린 윤 대통령 탄핵심판 5차 변론에서 이 같이 밝혔다. 김 전 청장에 대한 신문은 오는 13일 오후 2시에 진행된다.&lt;br&gt;&lt;br&gt;앞서 윤 대통령 측은 김 전 청장을 포함해 31명 이상의 증인을 신청했다. 헌재는 이날까지 김 전 청장과 김용현 전 국방부 장관, 이상민 전 행정안전부 장관, 조태용 국가정보원장, 박춘섭 경제수석, 신원식 국가안보실장, 백종욱 전 국정원 3차장, 김현태 707특수임무단장 등 총 8명을 증인으로 채택했다.&lt;br&gt;&lt;br&gt;한편 헌재는 한덕수 국무총리와 이경민 방첩사령관 직무대리에 대한 증인 신청 결정은 보류한다고 밝혔다. 나머지 신청된 증인은 신문의 필요성과 관련성이 부족하다는 이유로 모두 기각했다.&lt;br&gt;&lt;br&gt;헌재는 윤 대통령 측이 세계선거기관협의회와 중앙선거관리위원회에 대해 제기한 사실조회 신청도 받아들이지 않았다. 문 권한대행은 “선관위 서버에 대한 신청은 필요성과 관련성 부족하다 보고 기각한다”고 설명했다.&lt;br&gt;&lt;br&gt;이날 오후 2시부터 시작된 탄핵심판 5차 변론은 약 6시간 50여분간 진행된 끝에 오후 8시 50분쯤 끝났다. 국회 측이 신청한 이진우 전 수도방위사령관, 여인형 전 방첩사령관, 홍장원 전 국가정보원 1차장에 대한 증인 신문이 진행됐다. 다음 기일은 오는 6일 오전 10시 열린다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>전한길 유튜버에 ‘폭탄 테러’ 댓글 단 40대 자수</title>
       <link>https://www.chosun.com/national/incident/2025/02/04/RMP6W2M7KBCOVD5GNKVZJ6EPCQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/02/04/RMP6W2M7KBCOVD5GNKVZJ6EPCQ/</guid>
@@ -897,73 +954,6 @@
       <description/>
       <pubDate>Tue, 04 Feb 2025 12:55:10 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/W7K65FWGKN425MTGGOYJIRPPYQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;'꽃보다전한길' 유튜브 채널 영상에 달린 폭탄테러 예고글. /유튜브 갈무리, 연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한국사 강사 전한길씨의 윤석열 대통령 탄핵 반대 집회 영상에 폭탄 테러를 암시하는 댓글을 작성한 40대 남성이 경찰에 자수했다.&lt;br&gt;&lt;br&gt;경기북부경찰청 사이버범죄수사2대는 협박 등 혐의로 40대 남성 A씨를 입건해 조사 중이라고 4일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 3일 오후 11시쯤 전씨의 유튜브 채널 ‘꽃보다전한길’ 영상에 사제 폭탄을 준비하고 있다는 내용의 댓글을 단 혐의를 받는다.&lt;br&gt;&lt;br&gt;A씨는 해당 영상에 “전한길 선생님의 쓸어버리자는 말씀에 주저앉아 울었다. 20년 짧다면 짧고 길다면 긴 인생 바치겠다”며 폭탄을 준비 중이라는 댓글을 남겼다.&lt;br&gt;&lt;br&gt;A씨는 언론보도를 통해 자신이 수사선상에 오른 것을 알자 112에 전화해 자수한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;경찰은 조만간 A씨를 불러 추가 조사를 진행할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘서부지법 난입’ 녹색 점퍼남 등 2명 구속… 법원 “도망 염려”</title>
-      <link>https://www.chosun.com/national/national_general/2025/02/04/GARV7CUB65C6NHKZ3MYXVS4VYU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/02/04/GARV7CUB65C6NHKZ3MYXVS4VYU/</guid>
-      <dc:creator>구동완 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 04 Feb 2025 12:05:53 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/T65G2VT3BDYICQOHEJIQAYTGSI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 19일 새벽 서울서부지법에 윤석열 대통령 극성 지지자들이 침입해 난동을 부리자 경찰이 진압에 나서고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난달 19일 서울서부지법 난입 사태 당시 소화기로 법원 유리창 등을 손상한 혐의로 체포된 이른바 ‘녹색 점퍼’ 남성 등 2명이 구속됐다. &lt;br&gt;&lt;br&gt;서울서부지법 장성학 판사는 4일 공동건조물침입·공용물건손상 등 혐의를 받는 20대 남성 A씨에 대한 구속 전 피의자 심문(영장실질심사)을 진행한 뒤 “도망할 염려가 있다”며 구속영장을 발부했다. 난입 사태 당시 서부지법 앞에서 방송사 기자를 폭행하고 촬영기기를 빼앗은 혐의(강도상해·공동건조물침입)를 받는 30대 남성 B씨도 같은 이유로 구속됐다.&lt;br&gt;&lt;br&gt;A씨는 지난달 19일 새벽 윤석열 대통령에 대한 구속영장이 발부되자 서부지법에 난입해 기물을 파손한 혐의로 지난 2일 경찰에 체포됐다. 당시 촬영된 영상 등에서 A씨로 추정되는 인물은 녹색 점퍼를 입고, 법원 정문을 막아선 경찰에 소화기를 뿌리며 소화기로 유리문을 파손하려 하기도 했다. 일각에서는 A씨가 한 방송사 기자가 아니냐는 의혹도 제기됐지만 경찰에 따르면 A씨의 신분은 기자가 아닌 것으로 확인됐다.&lt;br&gt;&lt;br&gt;이날 두 명이 추가로 구속되며 지난달 18∼19일 서부지법 안팎에서 벌어진 집단 불법행위로 구속된 인원은 65명으로 늘었다. 앞서 경찰은 구속된 피의자 가운데 62명을 검찰에 송치했다고 밝혔다. 검찰은 먼저 송치된 58명에 대해서는 구속 기간을 연장해 수사를 이어가는 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>체감온도 7도 떨어뜨린 ‘칼바람’... 내일도 몰아친다</title>
-      <link>https://www.chosun.com/national/transport-environment/2025/02/04/EUC7TOV3OFAYVONS4TD22VVCZI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/02/04/EUC7TOV3OFAYVONS4TD22VVCZI/</guid>
-      <dc:creator>박상현 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 04 Feb 2025 11:10:13 +0000</pubDate>
-      <content:encoded>입춘(立春)부터 시작된 한파의 기세가 매섭다. 특히 바람이 강하게 불면서 실제 기온보다 체감 기온을 7도가량 크게 떨어뜨리고 있다. 강추위는 5일에도 이어질 것으로 전망됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XSRT6GW2UVAT3OT7AWGGBIKPQU.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=김성규&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;기상청에 따르면, 4일 서울의 아침 최저기온이 영하 11.5도까지 떨어지면서 지난달 10일(영하 12.2도)에 이어 올겨울 들어 둘째로 낮은 기온을 기록했다. 그런데 피부로 느끼는 체감 기온은 더 낮았다. 4일 아침 서울의 최저 체감 기온은 영하 18.7도로 지난달 10일(영하 17.3도)보다 1.4도 낮았다. 실제로는 4일 출근길이 올겨울 들어 가장 추웠던 것이다.&lt;br&gt;&lt;br&gt;이번 한파가 매서운 원인으로 ‘칼바람’이 꼽힌다. 보통 풍속이 초속 1m가 빨라지면 체감 기온은 1.6도 떨어진다. 지난 3일부터 중국 쪽 대륙고기압이 확장하고 있고, 지표가 얼어붙은 상태에서 찬 북풍(北風)이 계속 불어오며 기온을 끌어내리고 있다. 이에 6일까지 평년보다 3~10도가량 낮은 기온이 이어질 것으로 보인다. 5일 전국의 아침 최저기온은 영하 17도에서 영하 3도, 낮 최고기온은 영하 7도에서 영상 4도로 예보됐다. 5일 서울의 최저기온과 최저 체감 기온은 각각 영하 12도와 영하 17도로 예보됐다. 전국적으로 예보된 기온보다 체감 기온이 크게 낮을 것으로 보인다.&lt;br&gt;&lt;br&gt;한편 호남과 제주에는 6일 오전까지 많은 눈이 더 내릴 것으로 예보됐다. 5~6일 적설량은 제주 산지 10~40㎝, 호남·제주 중산간 5~30㎝, 충청·경남권 1~8㎝로 예상됐다. 6일에는 수도권과 강원도에도 오후부터 1~5㎝ 정도 눈이 올 전망이다. 이후 7일 오전에는 전국 대부분 지역에 눈이나 비가 내리겠고, 호남·제주에선 밤까지 강수가 이어질 것으로 예상됐다. 8~9일에는 호남에 눈, 제주에 비나 눈이 내리겠다.&lt;br&gt;&lt;br&gt;이번 한파는 한동안 이어질 것으로 보인다. 6일은 전국이 최저 영하 17도, 7일은 최저 영하 14도를 기록하며 기온이 소폭 오르다가 주말에는 다시 대륙고기압이 확장하며 최저 영하 16도 선으로 떨어질 것으로 전망됐다. 다음 주 초반에도 기온이 영하 10도 아래를 맴돌며 여전히 추울 것으로 기상청은 내다봤다.&lt;br&gt;&lt;br&gt;한랭 질환을 예방하려면 옷을 여러 겹 입어야 한다. 신체 열의 50%가 머리를 통해 손실되기 때문에 모자를 쓰고, 목도리와 장갑, 마스크도 착용하는 것이 좋다. 눈이나 비가 예고된 곳에서는 보온·방수 기능이 있는 신발을 신어야 동상을 예방할 수 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/AYGPMLPUVNNMJKHNYZGZWLKWCY.jpg?width=4914&amp;height=3285&amp;auth=d91c063f599741984c54cf82432b4ebd824f2566d04d875307a580c64a1b146f&amp;smart=true" type="image/jpeg" height="3285" width="4914">
-        <media:description type="plain">[서울=뉴시스] 정병혁 기자 =  서울에 올해 첫 한파경보가 발령된 4일 서울 중구 명동을 찾은 여행객들이 강풍을 맞으며 이동하고 있다. 2025.02.04. jhope@newsis.com</media:description>
-        <media:credit role="author" scheme="urn:ebu">jhope</media:credit>
-      </media:content>
-    </item>
-    <item>
-      <title>국방장관 대행 “‘선거조작 중국인 체포’ 보도는 사실 아냐”</title>
-      <link>https://www.chosun.com/national/national_general/2025/02/04/MA2SJUXLMVF6JKDO4FKXYMD4OQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/02/04/MA2SJUXLMVF6JKDO4FKXYMD4OQ/</guid>
-      <dc:creator>김명일 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 04 Feb 2025 11:15:42 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G4APAXKKPB3ETFPJKAA3AVQAZU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김선호 국방부 장관 직무대행. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김선호 국방부 장관 직무대행은 ‘중앙선거관리위원회(선관위) 연수원에서 중국인 간첩 99명이 체포됐다’는 보도에 대해 사실이 아니라고 밝혔다.&lt;br&gt;&lt;br&gt;김선호 대행은 4일 국회에서 열린 ‘윤석열 정부의 비상계엄 선포를 통한 내란혐의 진상규명 국정조사 특별위원회’(국조특위)에 출석해 인터넷매체 스카이데일리의 ‘계엄 당시 수원 선거관리연수원에서 스파이활동을 한 중국인 해커 99명이 체포됐다’는 보도에 대해 “그런 사실이 없다”고 밝혔다.&lt;br&gt;&lt;br&gt;이날 용혜인 기본소득당 의원은 “스카이데일리라는 인터넷 매체에서 계엄 당일 미군과 계엄군이 합동으로 작전을 펼쳐 수원 선관위 연수원에서 여론·선거조작 등 스파이활동을 한 중국인 해커 99명을 체포해 이송했다는 기사가 났다”며 “당시 계엄군이든, 국군이든 이러한 작전을 펼친 바 있냐”고 물었다. 이에 김 대행은 “없다”고 답했다.&lt;br&gt;&lt;br&gt;‘이 같은 보도에 국방부가 왜 대응하지 않았냐’는 질문엔 김 대행은 “여기에서 별도로 저희들이 대응할 만한 상황이 아니라고 판단했다”며 “관련해 미국 측에서 정확한 입장을 낸 것으로 확인했다”고 설명했다.&lt;br&gt;&lt;br&gt;김 대행은 용 의원의 ‘가짜뉴스에 대한 필요한 조치를 검토해보라’는 요청에는 “다시 한번 확인해보겠다”고 했다.&lt;br&gt;&lt;br&gt;이날 국조특위에 출석한 김용빈 선관위 사무총장도 해당 기사는 “가짜뉴스가 맞다”고 말했다.&lt;br&gt;&lt;br&gt;앞서 ‘스카이데일리’는 ‘선거연수원 체포 중국인 99명 주일미군기지 압송됐다’는 제목의 온라인 기사를 냈다. 해당 보도를 통해 “12·3 비상 계엄 당일 우리 계엄군이 미군과 공동작전으로 선거연수원을 급습해 중국 국적자 99명을 체포했다”면서 “평택항을 거쳐 일본 오키나와 미군기지로 이송됐다”고 주장했다.&lt;br&gt;&lt;br&gt;이에 중앙선거관리위원회는 보도 당일 ‘보도는 사실이 아니다’라는 내용의 반박자료를 냈다. 지난달에는 해당 보도를 한 언론사 및 기자를 명예훼손 혐의 등으로 서울경찰청에 고발했다.&lt;br&gt;&lt;br&gt;주한미군은 지난달 “주한미군에 대한 묘사가 언급된 한국 언론 기사의 주장은 전적으로 거짓”이라는 입장을 냈다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[속보] 홍장원 “TV보고 비상계엄 알아, 국방차관도 전혀 모르고 있더라”</title>
-      <link>https://www.chosun.com/national/court_law/2025/02/04/VURXS3FI3FFURFGCM7PEHTUCX4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/02/04/VURXS3FI3FFURFGCM7PEHTUCX4/</guid>
-      <dc:creator>박혜연 기자, 김나영 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 04 Feb 2025 10:04:04 +0000</pubDate>
-      <content:encoded>홍장원 전 국가정보원 1차장은 4일 헌법재판소 윤석열 대통령의 탄핵심판 변론에 출석해 “‘싹 다 잡아들이라’는 말뜻 그대로 이해했다”고 말했다. 홍 전 차장은 “당시 통화 내용을 보면 대상자, 목표물을 지정하지 않았기 때문에 뭔가를 잡아야 한다는 생각만 했다”며 이같이 밝혔다. 홍 전 차장은 비상계엄이 선포된 지난달 3일 오후 10시 53분쯤 윤석열 대통령에게서 “이번에 잡아들여서 싹 다 정리해라라는 전화를 받았다”고 밝힌 바 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AJ5JQJM56FXE37IIZPZTXQM6JU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 1월22일 서울 여의도 국회에서 열린 윤석열 정부의 비상계엄 선포를 통한 내란 혐의 진상규명 국정조사 1차 청문회에 출석한 홍장원 전 국정원 1차장./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2ZXLOYKHU62ZNUBXDVJMI7BFCU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령이 4일 서울 종로구 헌법재판소에서 열린 탄핵심판 5차 변론기일에 출석해 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이어 “비상계엄이 선포된 지난 12월 4일 새벽 12시 38분쯤, 부하들에게 ‘우원식·이재명·한동훈부터 체포하라’고 지시했냐”는 국회 측 질문에는 “증거 기록을 보면 이와 전혀 반대되는 진술도 많다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GIKXCOMHQ5CE3FKMIKSJNGNANU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 3일 오후 서울 종로구 헌법재판소 모습. /김지호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;홍 전 차장은 TV를 보고 비상계엄 발령 사실을 알았다고 했다. 홍 전 차장은 “집무실 TV를 통해 비상계엄 발령을 봤다”라며 “국방부 차관에게 확인 차원차 전화를 했고 전화해보니 전혀 모르고 있었다”고 했다. 이어 “비상계엄이 발령된 사실을 통보했고, 차관이 사무실에 나가봐야겠다며 전화를 끊었다”고 했다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YM4W5PR7LZLIPIJM552SIVMS4Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;4일 서울 종로구 헌법재판소에서 윤석열 대통령 탄핵심판 5차 변론이 열리고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>서부지법 난동 하루 前, ‘집단 진입’ 가능성 예상하고도 못막은 경찰</title>
-      <link>https://www.chosun.com/national/national_general/2025/02/04/LHZLS76M2BFELDX4QJFCTCGAYQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/02/04/LHZLS76M2BFELDX4QJFCTCGAYQ/</guid>
-      <dc:creator>김명진 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 04 Feb 2025 09:31:01 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GA2QRAZXNEQ2IYF7XUD4RFGPC4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 19일 새벽 윤석열 대통령에 대한 구속영장이 발부되자 서울 서부지법에 지지자들이 진입해 난동을 부리고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰이 서울서부지법 난동 사태가 벌어지기 전, 윤석열 대통령 지지자들이 법원에 무단 진입을 시도할 가능성이 있다고 보고 미리 대응 방안을 마련했던 것으로 4일 나타났다. 상황이 소요 사태로까지 번질 수 있다고 예상하고서도 정작 경비 작전에는 실패했다는 지적이 나온다.&lt;br&gt;&lt;br&gt;경찰청이 더불어민주당 양부남 의원실에 제출한 자료에 따르면, 서부지법 관할 경찰서인 서울 마포경찰서 경비과는 지난달 17일 A4 1장 분량으로 ‘서부지법, 구속영장 발부 관련 경비 대책’을 세웠다.&lt;br&gt;&lt;br&gt;서부지법에선 같은 달 18일 윤석열 대통령에 대한 구속영장 심사가 열릴 예정이었는데, 구속영장이 발부됐을 경우 윤 대통령 지지자들의 집회가 소요 사태로 악화할 가능성이 있다고 보고 대책을 미리 세운 것이다.&lt;br&gt;&lt;br&gt;경찰은 특히 월담 등 시위대의 서부지법 청사 집단 진입 상황이 벌어졌을 때를 가정해 “경력 및 폴리스라인으로 차단 대비 및 불법행위자 현장 검거”라는 대응 방안을 마련했다. 또 집회가 불법 미신고 집회로 이어질 시 “신속한 해산 절차 및 사후 사법 처리 후속을 병행”하겠다고도 했다.&lt;br&gt;&lt;br&gt;그러나 윤 대통령이 내란 우두머리 혐의로 구속된 19일 새벽, 윤 대통령 지지 군중은 영장 발부 판사를 잡겠다며 경찰 저지를 뚫고 서부지법 청사에 진입해 기물을 파손하는 등 난동을 벌였다. 이 난동에 연루돼 경찰에 입건된 이는 4일 기준으로 99명에 달한다.&lt;br&gt;&lt;br&gt;경찰은 그간 서부지법 난동 사태를 ‘예상할 수 없던 일’이라는 입장을 밝혀 왔다. 경찰청 관계자는 지난 3일 기자간담회에서 ‘집회가 폭력적으로 번질 가능성을 탐지하지 못한 이유’를 묻는 데 대해 “그렇게 예상을 뛰어넘게 급격한 난동이 있으리라고 예상하기 어려운 사정이었다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>인권위, ‘尹 방어권 보장 안건 상정’ 전원위 다시 개최</title>
-      <link>https://www.chosun.com/national/national_general/2025/02/04/E66OKMXFDNCPFF3KYXEA5TSSUE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/02/04/E66OKMXFDNCPFF3KYXEA5TSSUE/</guid>
-      <dc:creator>장윤 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 04 Feb 2025 09:14:55 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YXBJRK2MOFJCVGV7WLKLTA5Y74.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령의 방어권 보장을 권고하는 안건을 상정하기로 했던 제2차 국가인권위원회 전원위원회가 당일 취소된 20일 서울 중구 인권위에 인권위원들을 규탄하는 인쇄물이 붙어있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국가인권위원회(인권위)가 윤석열 대통령의 방어권 보장을 권고하는 안건을 오는 10일 전원위원회에 다시 상정한다.&lt;br&gt;&lt;br&gt;인권위 관계자는 4일 “오는 10일 열리는 전원위에서 윤 대통령 방어권 보장 안건을 논의한다”고 밝혔다. 이 안건은 두 차례 전원위에 상정돼 논의될 예정이었으나 두 번 모두 파행했다.&lt;br&gt;&lt;br&gt;김용원 상임위원 등 5명이 발의해 안창호 인권위원장이 전원위 상정을 결정한 ‘계엄 선포로 야기된 국가의 위기 극복 대책 권고의 건’은 윤 대통령의 방어권 보장과 한덕수 국무총리에 대한 탄핵소추 철회 및 대통령 권한대행 복귀 등을 권고하는 내용이 골자다. 인권위 관계자는 “10일 전원위에는 일부 수정한 내용을 상정할 것”이라며 “구체적 내용은 밝힐 수 없다”고 했다.&lt;br&gt;&lt;br&gt;앞서 인권위는 지난달 20일 제2차 임시 전원위를 열고 이 안건을 논의해 의결할 예정이었다. 그러나 윤 대통령 강경 지지자와 탄핵 촉구 단체가 인권위 앞 집결을 예고하며 서울서부지법 폭력 난입 사태와 같은 소요가 우려된다는 이유로 전원위는 당일 취소됐다. &lt;br&gt;&lt;br&gt;인권위는 지난달 13일에도 2025년 제1차 전원위를 열고 해당 안건을 논의하고자 했으나 시민단체와 야당 측 위원들의 항의로 회의를 열지 못했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[속보] 여인형, ‘정치인 체포 명단’ 증언 거부… “반대되는 진술 많아”</title>
-      <link>https://www.chosun.com/national/court_law/2025/02/04/6GYMAFL7QFERBJAD6EKY6YWDYY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/02/04/6GYMAFL7QFERBJAD6EKY6YWDYY/</guid>
-      <dc:creator>박혜연 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 04 Feb 2025 08:15:28 +0000</pubDate>
-      <content:encoded>여인형 전 방첩사령관은 4일 헌법재판소에서 열린 윤석열 대통령 탄핵심판에 증인으로 출석했지만 ‘정치인 체포 지시’에 관한 진술을 거부했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YM4W5PR7LZLIPIJM552SIVMS4Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;4일 서울 종로구 헌법재판소에서 윤석열 대통령 탄핵심판 5차 변론이 열리고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GCAJTYUB3T5F4J6PHYIU67A724.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령이 4일 서울 종로구 헌법재판소에서 열린 탄핵심판 5차 변론기일에 출석해 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/J7WVWZSFJNMRFKIUCO5AN6V5NM.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;여인형 국군방첩사령관이 7일 오전 서울 여의도 국회에서 열린 정보위원회 전체회의에 출석하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
