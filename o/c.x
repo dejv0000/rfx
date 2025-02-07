@@ -13,6 +13,111 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>“슬픈 척 비 맞아” 구준엽 심경글, 서희원 前남편 저격이었나</title>
+      <link>https://www.chosun.com/national/national_general/2025/02/07/HDU4MWQ4JNEV3D7MLGGEKIHGUU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/02/07/HDU4MWQ4JNEV3D7MLGGEKIHGUU/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 07 Feb 2025 13:52:57 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QAPNXEIU55CEJDSVFK7VUDDNSQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서희원의 전 남편 왕샤오페이가 지난 3일 대만에 입국해 비를 맞고 있는 모습. /차이나프레스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;가수 구준엽(56)이 아내인 대만 배우 서희원(쉬시위안·48)이 사망한 후 올린 심경글이 전 남편 왕샤오페이와 그 가족을 저격한 것이란 해석이 나오고 있다.&lt;br&gt;&lt;br&gt;구준엽은 6일 밤 소셜미디어를 통해 “크나큰 상실의 아픔과 애도의 시간이 지나가기도 전에 악마 같은 사람들이 우리 가족들과 저의 사랑을 매도하기 시작했다”며 “어떤 이는 슬픈 척 비를 맞으며 돌아다니고 또 다른 이들은 우리 가족에게 흠집을 내려고 보험과 비용에 대한 가짜뉴스를 만들어 상처를 주고 있다”고 했다.&lt;br&gt;&lt;br&gt;구준엽은 “‘정말 이런 나쁜 인간들이 세상에 존재하는구나’라는 생각에 두려워지기까지 한다”며 “제발 우리 희원이 편히 쉴 수 있도록 가만히 계셔주실 수 없나. 제발 간곡히 부탁드린다”고 했다.&lt;br&gt;&lt;br&gt;앞서 서희원의 사망 소식을 듣고 대만에 입국한 왕샤오페이는 두 눈이 붉게 충혈되어 있는 모습으로 공항에 등장해 취재진에게 “(서희원에 대해) 더 좋은 말을 많이 해달라”며 “그녀도 제 가족”이라고 했다. 이후 비 내리는 밤길을 30분가량 우산을 쓰지 않고 걸어갔다.&lt;br&gt;&lt;br&gt;‘보험과 비용에 대한 가짜뉴스를 만들어 상처를 주고 있다’는 대목은 왕샤오페이의 어머니이자 서희원의 전 시어머니인 장란을 겨냥한 것이라는 해석이 나왔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KCTANS2N3VX3SBIPCRN5K55XRE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;故 서희원과 구준엽. /인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;중국에서는 ‘일본에서 생을 마감한 서희원의 유골을 대만으로 옮기기 위해 투입된 전세기 비용을 전 남편 측이 지불했다’는 주장이 나왔는데 장란은 이런 내용을 담은 소셜미디어 게시글에 ‘좋아요’를 눌렀다.&lt;br&gt;&lt;br&gt;이에 서희원의 동생 서희제는 “제 언니의 모든 장례 절차, 전세기 비용까지 전부 저희 가족이 부담했다”고 반박하기도 했다.&lt;br&gt;&lt;br&gt;서희원은 구준엽과 1998년 만나 1년간 열애하다 헤어졌다. 이후 2011년 중국인 재벌 2세 사업가 왕샤오페이와 결혼해 두 자녀를 낳았으며 2021년 이혼했다. 이후 구준엽은 이혼한 서희원과 20여 년 만에 재회했고 2022년 두 사람은 정식 부부가 됐다.&lt;br&gt;&lt;br&gt;서희원은 지난 2일 일본 가족 여행 중 독감으로 인한 폐렴 및 패혈증으로 세상을 떠난 것으로 알려졌다. 대만 매체 보도에 따르면 서희원은 사망 전 네 차례 병원을 찾았으나 입원 치료를 받지 않은 것으로 전해졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>민법도 시대상 반영해 ‘심리적 약자’까지 보호</title>
+      <link>https://www.chosun.com/national/court_law/2025/02/07/A5RDEWNNJJFONMADSITPBR7B2Y/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/02/07/A5RDEWNNJJFONMADSITPBR7B2Y/</guid>
+      <dc:creator>김희래 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 07 Feb 2025 11:40:52 +0000</pubDate>
+      <content:encoded>법무부는 7일 계약과 관련한 민법을 대대적으로 손보는 개정안을 입법 예고했다. 1958년 민법 제정 후 67년 만이다. 법무부는 “올 상반기 중 민법 등 193개 조문에 대한 개정안을 국회에 제출할 예정”이라고 밝혔다. 입법 예고 기간은 다음 달 19일까지다. 법무부 관계자는 “변화한 시대상을 반영하고, 약자 보호를 강화하는 데 초점이 맞춰진 개정안”이라고 말했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KUT5D2Z44NH3BKAXYYQQ2QUQ5E.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=양진경&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이번 개정안에서 가장 눈에 띄는 것은 ‘법정이율 변동제’ 도입이다. 현행 민법 379조는 ‘다른 법률의 규정이나 당사자의 약정이 없는 한 법정이율을 연 5%로 한다’고 규정하고 있다. 법정이율은 채무 지연 이자, 보증금 등 계약 해제 반환금 등을 계산할 기준으로 쓰인다.&lt;br&gt;&lt;br&gt;법정이율 ‘연 5%’ 조항은 1958년 민법이 처음 생길 때부터 있었다. 경제 상황을 반영하지 못해 계약 당사자들이 불합리한 이익이나 손해를 본다는 지적이 있어 왔다. 이에 법무부는 ‘한국은행이 정하는 기준 금리, 시장에서 통용되는 이율, 물가 상승률, 그 밖의 경제 사정의 변동을 고려해 대통령령으로 정한다’로 조문을 바꾼 것이다.&lt;br&gt;&lt;br&gt;법무부는 또 ‘심리적 우위’에 있는 사람과의 계약 등에서 약자를 보호할 수 있는 규정(민법 제110조)을 신설했다. 이른바 ‘가스라이팅’ 관계나 종교 지도자와 신도, 간병인과 환자 등의 관계에서 심리적 약자가 손해를 보는 일을 막겠다는 취지다. 현행법은 계약을 맺는 과정에서 ‘사기·강박에 의한 의사 표시’가 있는 경우에만 이를 취소할 수 있도록 돼 있는데, 이를 ‘심리적 의존 상태 또는 긴밀한 신뢰 관계에 의해 의사 형성에 부당한 간섭을 받아 행해진 의사 표시는 취소할 수 있다’고 바꿨다.&lt;br&gt;&lt;br&gt;계약을 맺은 뒤 사정이 크게 변경된 경우, 내용을 수정해 계약을 유지할 수 있는 길도 열렸다. 기존에는 계약을 해제·해지해야 했는데, 개정안(민법 제538조의 2)에서 사정 변경이 있을 때, 상대방에게 계약 수정을 청구할 수 있도록 하는 조항을 신설한 것이다. 예를 들어, A씨가 B씨의 땅에 모델하우스를 지으려고 토지 임대차 계약을 맺었는데, 계약 후 지방자치단체에서 “그 땅엔 모델하우스를 지을 수 없다”고 통지한다면 두 사람이 변한 상황에 맞게 계약을 조정할 수 있도록 한 것이다.&lt;br&gt;&lt;br&gt;이 밖에 개정안에는 그동안 판례 등을 통해 실질적으로 인정돼 왔지만 법에 명문 규정이 없었던 부분들도 보완됐다. ‘채무 불이행’의 개념도 현행법의 ‘채무를 이행할 수 없게 된 때’로 규정돼 있는 것을 ‘채무 이행이 이뤄지지 않은 때’로 고쳤다. ‘돈을 갚지 못하게 됐을 경우’를 ‘돈을 일부만 갚았거나 약속한 날짜에 갚지 않은 경우’로 범위를 넓힌 것이다. 채권자의 피해 구제가 한결 수월해질 전망이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“세탁비 내놔야지”...지인 폭행하고 돈 갈취한 10대 등 4명 입건</title>
+      <link>https://www.chosun.com/national/incident/2025/02/07/NX25GB7EEZEWNMEUD7BERTWGHQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/02/07/NX25GB7EEZEWNMEUD7BERTWGHQ/</guid>
+      <dc:creator>이승규 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 07 Feb 2025 12:49:26 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TGO777VSDNEA3A776UXOWHT2OY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;광주 남부경찰서 청사. /광주경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;술에 취한 지인이 이불에 구토하자 폭행하고 돈을 뜯어낸 4명이 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;광주 남부경찰서는 특수감금 등 혐의로 A(17)군과 B(22)씨를 구속하고 10대 2명을 불구속 입건했다고 7일 밝혔다.&lt;br&gt;&lt;br&gt;A군 등은 지난해 12월 26일 광주 남구의 A군 주거지에서 함께 술을 마시던 지인 C(23)씨를 18시간 가량 감금하며 폭행하고 돈을 가로챈 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;술에 취한 C씨가 A군의 전기장판과 이불에 토를 하자 A군 등은 세탁비 등을 요구했다. B씨는 C씨의 휴대전화를 뺏은 뒤 온라인 게임 화폐를 구매·환전하는 방식으로 150여 만원을 뜯어냈고, A군은 저항하는 C씨를 폭행했다.&lt;br&gt;&lt;br&gt;C씨는 다음 날 오후 1시쯤 A군 등의 눈을 피해 집 밖으로 도주했고 인근 주민을 통해 경찰에 신고했다. 경찰은 A군을 현행범으로 체포하고 약 2달간 수사를 통해 도주한 3명을 모두 입건했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>눈보라·강풍 몰아친 제주공항...306편 결항, 2만명 발 묶였다</title>
+      <link>https://www.chosun.com/national/regional/2025/02/07/UDMTYA3P6FHZ3OLVBZWSRYRVJI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/02/07/UDMTYA3P6FHZ3OLVBZWSRYRVJI/</guid>
+      <dc:creator>수원=김수언 기자, 제주=진창일 기자, 박상현 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 07 Feb 2025 11:24:29 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QI7X2DWFFRKOHPMVNWNQXCV6GQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;제주지역에 강풍특보가 발효된 7일 오후 항공편 결항으로 비행기를 타지 못한 여행객들이 제주국제공항 대합실에서 대기하고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 6일부터 내린 폭설로 전국 곳곳에서 사고가 잇따랐다. 인명 피해도 있었다. 7일 오전 5시 42분쯤 경기 평택시 도일동 평택제천고속도로 송탄IC 부근에서는 컨테이너 차량이 눈길에 미끄러지면서 전복됐다. 50대 운전자는 병원으로 이송됐으나 숨졌다. 경찰 관계자는 “운전석이 있는 차량 헤드 부분이 분리되면서 운전자가 차량 밖으로 튕겨져 나갔다”고 말했다.&lt;br&gt;&lt;br&gt;이어 오전 8시 34분쯤에는 충남 당진시 서해안고속도로 당진 분기점 부근에서 1t 트럭이 눈길에 미끄러지며 옆 차로에서 달리던 트럭과 충돌하는 사고가 발생했다. 이 사고로 1t 트럭을 몰던 70대 운전자가 숨졌다.&lt;br&gt;&lt;br&gt;오후 1시 20분쯤 전남 무안군 무안광주고속도로 보평터널 부근에서는 차량 8대가 잇따라 추돌해 12명이 다쳤다. 전북 남원시 순천완주고속도로에선 오후 3시 8분쯤 차량 38대가 연쇄 추돌해 23명이 부상을 입었다. 경찰은 도로가 얼어붙어 사고가 난 것으로 보고 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/V4QQR4NAURMAVN6NAN65PJ6NEA.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;7일 오후 전북 남원시 대산면 순천완주고속도로 하행선 59㎞ 지점에서 차량 30여대가 잇따라 추돌하는 사고가 발생했다.(전북자치도소방본부 제공)/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제주도에서는 항공편이 줄줄이 결항했다. 이날 오후 10시 기준 국내선 284편과 국제선 22편 등 총 306편이 결항했다. 전체 항공편(413편)의 74%가 운항하지 못한 것이다. 탑승객 2만여 명이 불편을 겪었다. 제주공항 관계자는 “강풍 경보가 내려진 가운데 눈보라까지 치고 있다”며 “결항하는 항공편이 늘어날 가능성이 높아 운항 여부를 미리 확인하는 게 좋다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/K2HPPJPYZBPMVEB5OXOSAGDPIM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;7일 제주공항에 강풍경보와 급변풍경보가 발효된 가운데 다른 지방 폭설의 영향까지 겹쳐 결항한 항공편들이 속출하고 있다.  이날 오후 눈보라가 치는 제주공항 활주로의 바람자루가 강풍의 세기를 가늠케 하고 있고, 뒤로 공항 탑승구들이 대거 비어 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;바다에서는 인천~백령도, 전남 목포~홍도, 경북 포항~울릉도 등 항로를 오가는 여객선 93척의 발이 묶였다.&lt;br&gt;&lt;br&gt;중앙재난안전대책본부에 따르면, 6~7일 전국 대부분 지역에 눈이 쏟아졌다. 수도권과 충남, 전북, 강원 영서, 경북 내륙 등 중부지방에는 10㎝ 안팎의 많은 눈이 내렸다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LBAM3WTVUZIADJKYDOEVFHPVKQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전국 상당수 지역에 대설주의보와 강풍 주의보가 함께 내려진 7일 오전 대전 도심에 눈이 쌓이면서 차들이 서행하고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;8일에는 충청·호남·제주 지역을 중심으로 눈이 내릴 것으로 보인다. 기상청 관계자는 “충청은 8일 새벽까지, 호남·제주는 8일 밤까지 눈이 내리는 곳이 있을 것”이라고 했다.&lt;br&gt;&lt;br&gt;늦겨울 한파는 이번 주말까지 기승을 부릴 것으로 예상된다. 8일 서울의 아침 최저 기온은 영하 11도까지 떨어질 것이라고 기상청은 예보했다. 기상청 관계자는 “찬 북풍이 강하게 불어 체감 온도는 영하 17도까지 떨어질 것으로 보인다”고 했다. 10일부터 서울의 낮 기온이 영상을 회복하는 등 추위가 점차 누그러질 것이라고 기상청은 예상했다. 기상청은 “최근 내린 눈이 얼어붙어 차량 운행에 각별히 주의해야 한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/7V3NVHFWIRADHJFHJRZLPDAR4E.jpg?width=5394&amp;height=3034&amp;auth=90a9cc83e84e43c2ded7e4b710fac286e51d20d54ea57b8f430af513e4d81bd2&amp;smart=true" type="image/jpeg" height="3034" width="5394">
+        <media:description type="plain">[제주=뉴시스] 우장호 기자 = 제주지역에 강풍특보가 발효된 7일 오후 제주국제공항 대합실 전광판에 항공기 결항 안내가 가득 떠 있다. 
+
+기상청에 따르면 이날 제주 북·서부에 강풍경보, 산지·중산간·동·남부에는 각각 강풍주의보가 내려져 있으며 강한 바람은 8일 오후까지 지속될 것으로 예보됐다. 2025.02.07. woo1223@newsis.com</media:description>
+        <media:credit role="author" scheme="urn:ebu">우장호</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>‘서부지법 난입 사태’ 4명 추가 구속…총 70명 구속</title>
+      <link>https://www.chosun.com/national/national_general/2025/02/07/LZR3X3DDYNCRLEDG4C4MLWJGHQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/02/07/LZR3X3DDYNCRLEDG4C4MLWJGHQ/</guid>
+      <dc:creator>김도연 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 07 Feb 2025 12:48:21 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GA2QRAZXNEQ2IYF7XUD4RFGPC4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 19일 새벽 윤석열 대통령에 대한 구속영장이 발부되자 서울 서부지법에 지지자들이 진입해 난동을 부리고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난달 19일 서울서부지법 난입 사태에 가담한 혐의를 받는 피의자 4명이 추가로 구속됐다. 이로써 난입 사태로 구속된 피의자는 70명으로 늘었다.&lt;br&gt;&lt;br&gt;서울서부지법 민사61단독 강혁성 판사는 7일 폭력행위처벌법 위반, 특수공무집행방해 등의 혐의를 받는 총 4명에 대한 4명에 대해 구속 전 피의자 심문(영장실질심사)을 진행한 뒤 “도망할 염려가 있다”며 구속영장을 발부했다.&lt;br&gt;&lt;br&gt;이중 폭력행위처벌법 위반(공동건조물침입·공용물건손상) 혐의를 받는 20대 남성 A씨는 당시 검은 복면을 쓴 채 법원에 난입해 유리문에 소화기를 던지고 민원 서류 작성대 등 기물을 파손한 혐의를 받는다. 경찰은 지난 4일 A씨를 체포했다.&lt;br&gt;&lt;br&gt;이날 4명이 추가로 구속되며 지난달 18~19일 서부지법 안팎으로 벌어진 집단 불법 행위로 구속된 인원은 총 70명으로 늘었다.&lt;br&gt;&lt;br&gt;앞서 서울경찰청은 이날 서울서부지법 난입 사태에 가담한 피의자 총 107명을 수사하고 있다고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>故오요안나 유족 측 “김가영은 직접 가해자 아냐…용서 구하면 마음 열 것”</title>
+      <link>https://www.chosun.com/national/national_general/2025/02/07/YZRSZQJ47BDSHFYFS67R6J5XJM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/02/07/YZRSZQJ47BDSHFYFS67R6J5XJM/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 07 Feb 2025 12:15:14 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZTQLNDFEOBETZKCETT4HHH2BFA.png"&gt;&lt;figcaption&gt;&lt;small&gt;김가영 MBC 기상캐스터./인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;MBC 기상캐스터 고(故) 오요안나 씨의 유족 측이 직장 내 괴롭힘 의혹의 당사자로 지목된 김가영 기상캐스터에 대해 “현재까지 직접 가해자가 아닌 것으로 알고 있으며, 민사소송을 제기한 대상도 아니다”라고 밝혔다.&lt;br&gt;&lt;br&gt;유족 측 변호인인 전상범 변호사는 7일 TV조선 장원준 김미선의 뉴스트라다무스에 출연해 “오씨의 동료들 중엔 주된 가해자가 있고, 단순 동조를 하거나 방관을 한 사람도 있다. 유가족이 기상팀 모두에게 상처를 주겠다는 마음은 아니다”라며 “직접 가해자가 아닌 기상캐스터 동료가 용서를 구한다면 유족도 마음을 열 준비를 하고 있다”고 했다.&lt;br&gt;&lt;br&gt;전 변호사는 “유족이 민사소송을 제기한 사람은 현재 단 한 명”이라며 “직접 가해자가 아닌 동료가 진심 어린 사과를 하고 진실을 함께 밝히길 희망한다. 마음을 열 준비를 하고 있다”고 했다.&lt;br&gt;&lt;br&gt;전 변호사는 “김가영 씨는 현재까지 드러난 자료에 따르면 직접 가해자가 아니다”라며 “유족들은 방관자에 불과한 사람이 주된 가해자로 오해받는 상황을 우려하고 있다”고 했다.&lt;br&gt;&lt;br&gt;그러면서 “사건의 본질인 직장 내 괴롭힘과 제도 개선에 초점을 맞춰달라”며 “유족은 오씨에게 벌어진 비극적인 사건이 정치적으로 이용되거나 정치적 프레임이 씌워져 본질이 흐려지는 상황을 두려워하고 있다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/K624P4ZVDCGREQBMSOBQ7K7TNI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;故오요안나 MBC 기상캐스터. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;오요안나 사건 이후 김가영 캐스터는 라디오 프로그램에서 자진 하차했고, 파주시 홍보대사에서도 해촉된 바 있다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>검찰, LS증권 대표 기소…PF대출금 유용 임원 방조 혐의</title>
+      <link>https://www.chosun.com/national/court_law/2025/02/07/MPZT326ILJDQDO4XMSCLAKRZWA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/02/07/MPZT326ILJDQDO4XMSCLAKRZWA/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 07 Feb 2025 12:03:27 +0000</pubDate>
+      <content:encoded>김원규 LS증권(구 이베스트투자증권) 대표가 임원으로부터 고가 미술품을 싼값에 사는 대신 업무 편의를 봐주고 해당 임원의 직무정보 이용 불법 행위를 방조한 혐의로 기소됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IJSDCJGASZNX7FNRSJ5BV4EXVU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김원규 LS증권 대표./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지검 반부패수사3부(부장 이승학)는 김 대표를 특정경제범죄가중처벌법상 수재와 배임 방조 혐의로 7일 불구속 기소했다고 밝혔다. 김 대표는 2021년 6월 김모 전 이베스트투자증권 본부장으로부터 시가 4600만원 상당의 그림 한 점을 3000만원에 사들이고, 같은 해 10월 김 전 본부장이 830억원의 프로젝트파이낸싱(PF) 대출금을 유용하는 것을 방조한 혐의를 받는다.&lt;br&gt;&lt;br&gt;검찰에 따르면 김 전 본부장은 부동산 PF 관련 미공개 직무정보를 이용해 개인적으로 시행사를 운영했는데, 김 대표 등은 김 전 본부장이 이베스트투자증권의 자금 795억원을 빌릴 수 있도록 승인해준 것으로 조사됐다. 김 전 본부장은 직무 정보를 이용해 PF 자금 830억원을 유용한 혐의(특경법상 배임) 등으로 지난해 12월 구속 기소돼 재판을 받고 있다.&lt;br&gt;&lt;br&gt;검찰은 함께 대여금을 승인한 봉원석 전 이베스트투자증권 부사장도 불구속 기소했다. 봉 전 부사장은 2023년 9월 직무와 관련해 김 전 본부장으로부터 시가 1100만원 상당의 그림 한 점을 받은 것으로 조사됐다.&lt;br&gt;&lt;br&gt;한편, 검찰은 시공사였던 현대건설 실장 이모씨와 팀장 이모씨도 김 전 본부장의 PF 대출금 유용을 방조한 혐의로 기소했다. PF 대출금 중 830억원을 김 전 본부장에게 지급하는 것을 승인하면서 기존 브릿지 대출을 변제하는 것처럼 가장했다는 혐의가 적용됐다.&lt;br&gt;&lt;br&gt;검찰은 “대형 금융위기의 뇌관이자 주택가격 상승의 주범인 부동산 PF 관련 범죄에 엄벌이 내려지도록 공소 유지에 만전을 기하고, 금융기관 종사자들의 구조적 비리 등을 지속해서 점검할 예정”이라고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>연세대, 기아 100억여원 기부로 ‘AI연구원’ 문 연다</title>
+      <link>https://www.chosun.com/national/national_general/2025/02/07/NLC3J4YJOBF5RH3IUWWX2BVOEM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/02/07/NLC3J4YJOBF5RH3IUWWX2BVOEM/</guid>
+      <dc:creator>구동완 기자, 최하연 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 07 Feb 2025 11:42:04 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/B4S2JN63HZHKXOVNNSYNZZIIY4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;연세대학교 신촌캠퍼스 전경. /연세대&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;연세대학교가 기아로부터 100억여원을 지원받아 ‘AI혁신연구원’을 설립한다.&lt;br&gt;&lt;br&gt;7일 연세대 등에 따르면 오는 18일 기아와 연세대는 AI혁신연구원 설립을 내용으로 하는 업무협약(MOU)을 체결한다. 기아는 연세대에 100억원 이상을 기부해 연구원 설립과 운영을 지원한다는 방침이다.&lt;br&gt;&lt;br&gt;연구소는 오는 5월쯤 신촌 세브란스병원 중입자치료센터에 들어설 예정인 것으로 전해졌다. AI혁신연구원 운영에는 대학 내 여러 단과대가 참여하며, 윤동섭 연세대 총장이 연구원장을 맡는다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>주말 시속 55㎞ 강풍 몰아친다… 내일 서울 체감 최저 영하 18도</title>
+      <link>https://www.chosun.com/national/transport-environment/2025/02/07/U2QA3D2D2RACJEI47ZGVNMM3SU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/02/07/U2QA3D2D2RACJEI47ZGVNMM3SU/</guid>
+      <dc:creator>박상현 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 07 Feb 2025 11:18:52 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BNMGF7CUPVPGNAY6SODEJFIZYM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전국에 대설주의보와 강풍주의보가 함께 내려진 7일 대전 도심에 몰아치는 눈보라를 뚫고 시민들이 길을 건너고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;늦겨울 한파(寒波)의 기세가 도통 꺾이지 않고 있다. 강추위는 다음주까지 이어질 것으로 전망된다.&lt;br&gt;&lt;br&gt;7일 기상청에 따르면, 주말인 8~9일 우리나라는 중국 북부 지방에서 확장하는 찬 대륙고기압의 영향을 받아 전국이 꽁꽁 얼어붙겠다. 전국적으로 간판이 흔들릴 정도인 순간 풍속 시속 55㎞의 강한 바람이 불면서 실제 예보된 기온보다 체감기온을 7도 가량 크게 떨어뜨릴 것으로 예상된다.&lt;br&gt;&lt;br&gt;8일 전국 아침 최저 기온은 영하 17도에서 영하 5도, 낮 최고 기온은 영하 4도에서 영상 4도로 예보 됐다. 서울의 경우 8일 최저기온은 영하 11도이지만, 실제 최저 체감기온은 영하 18도를 기록할 것으로 보인다. 이처럼 전국적으로 온도계에 찍힌 기온보다 피부로 느끼는 추위가 더 혹독할 것으로 예상된다. 9일에도 최저 영하 15도에서 영하 3도, 최고 영하 2도에서 영상 6도의 기온 분포를 보이며 추위가 가시지 않겠다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TEVUMQS52BDF7PK3NT2I7RVZRE.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;한파가 기승을 부리고 있는 2025년 2월 7일 오후 서울 광진교 주변 한강이 얼어 있다. /장련성 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;현재 중부지방과 전북 동부·경북에 발효된 한파특보는 다음주까지 이어질 것으로 보인다. 찬 북풍(北風)이 우리나라 내륙을 계속 강타하며 평년보다 기온이 3~10도 정도 낮을 것으로 예상되기 때문이다. 또 중부지방과 전라·경상·제주를 중심으로 최근 내린 눈이 추운 날씨 탓에 녹지않고 계속 쌓여있어 이 눈이 얼면서 빙판길과 도로 살얼음이 나타나는 곳이 많을 것으로 보여 차량 운행에 주의가 필요하다.&lt;br&gt;&lt;br&gt;찬 바람이 서해상을 통과하며 발달한 눈구름대의 영향으로 충청은 8일 새벽까지, 전라·제주는 밤까지 눈이 내리는 곳이 있겠다. 9일에는 제주에 눈이나 비가 내리는 곳이 있겠고, 전라서해안에도 오전 한때 눈발이 날릴 것으로 보인다.&lt;br&gt;&lt;br&gt;추위는 다음주 중반 전국에 한 차례 더 눈이 내린 후 우리나라가 고기압 영향권에 들면서 한풀 꺾일 것으로 보인다. 최저기온이 영하 15도 안팎을 맴도는 추위는 수요일인 12일까지 이어지겠다. 12일 중부지방과 경북에 눈이, 전라·경남·제주에 비가 내린 후 우리나라는 주말인 16일까지 고기압이 상공을 차지하며 찬 북풍의 남하를 막아줄 것으로 전망된다. 이에 13일부터 기온이 10도가량 크게 오르며 16일까지 최저 영하 5도 수준을 기록할 것으로 기상청은 내다봤다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>안전 위해 비행 거부한 조종사에 티웨이항공이 내린 정직 처분 ‘무효’</title>
+      <link>https://www.chosun.com/national/incident/2025/02/07/VJZQ2UMJXNARBBRVKMNPGEL2TA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/02/07/VJZQ2UMJXNARBBRVKMNPGEL2TA/</guid>
+      <dc:creator>이승규 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 07 Feb 2025 10:38:20 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RDA3AMLNM5JM55AQ5RO54QRNBQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/티웨이항공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;승객들의 안전을 위해 항공기 운항을 중단한 기장을 상대로 회사가 제기한 정직 처분을 법원이 무효로 판단했다.&lt;br&gt;&lt;br&gt;대구지법 민사 12부(재판장 채성호)는 기장 A씨가 회사인 티웨이항공에 제기한 징계 처분 무효 확인의 소송에서 A씨 승소 판결을 했다고 7일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난해 1월 1일 베트남 깜라인 국제공항을 출발해 인천국제공항에 도착 예정이었던 티웨이항공 TW158편의 기장이었다. A씨는 항공기 이륙 전 외부 점검을 하다 마모된 브레이크 관련 장치를 발견한 뒤 항공기 운항을 중단했다. &lt;br&gt;&lt;br&gt;A씨가 발견한 장치는 항공기 브레이크에 붙어있는 웨어 인디케이터 핀(wear indicator pin)으로, 브레이크 마모도를 확인하는 용도다.&lt;br&gt;&lt;br&gt;티웨이항공 운항 기술 공시 규정상 이 핀이 1mm 이하일 경우 브레이크를 교환해야 하는데, A씨 확인 당시 이 핀의 길이는 0.8mm였다고 한다. A씨 보고를 받은 티웨이항공 측은 “운항 기술 공시 규정은 정비를 위한 참고 사항일 뿐 비행 안전에는 문제 없다”며 항공기를 일정대로 운항하라고 통보했다. 하지만 A씨가 “브레이크를 교체하지 않으면 항공기를 띄울 수 없다”고 맞서면서 결국 이 항공편은 결항됐다.&lt;br&gt;&lt;br&gt;이후 티웨이항공은 중앙인사위원회를 열고 “A씨가 독단적으로 항공기 결항을 결정하는 등 중대한 업무 과실을 저질러 회사와 승객들에게 손해를 입혔다”며 정직 6개월 처분을 내렸다. 이후 A씨가 징계가 부당하다며 재심을 신청하자 티웨이항공 측은 정직 기간을 5개월로 변경했다. A씨는 이 처분에 승복하지 않고 징계 처분 무효 소송을 제기한 것이다.&lt;br&gt;&lt;br&gt;재판부는 A씨 손을 들었다. A씨의 항공기 운항 중단 행위가 징계 사유가 될 수 없다는 판단이었다. 재판부는 “다수의 생명과 신체에 중대한 위험을 초래할 수 있는 비행 안전과 관련해 (회사)관계자들이 징계나 불이익에 대한 두려움 없이 원칙에 따라 업무를 수행할 수 있는 여건이 보장될 필요가 있다”고 했다. 또 “A씨가 운항이 가능하도록 운항본부의 구체적인 지시를 요청했지만 이러한 조치가 이뤄지지 않아 결국 운항을 중단한 만큼, 권한을 일탈·남용한 것으로도 볼 수 없다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘뇌물수수 의혹’ 송철호 전 울산시장 1심 무죄</title>
+      <link>https://www.chosun.com/national/incident/2025/02/07/RUV4Y4QN7NBEJGQ4R3JN7AFV3M/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/02/07/RUV4Y4QN7NBEJGQ4R3JN7AFV3M/</guid>
+      <dc:creator>울산=김주영 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 07 Feb 2025 10:20:29 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2PCOZU2NCNK4PLXMEICIFXGO4E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;송철호 전 울산시장이 7일 오후 울산 남구 울산지방법원에서 지역 사업가로부터 뇌물을 수수한 혐의(사전 뇌물수수 등)에 대해 무죄를 선고 받은 후 입장을 밝히고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2018년 지방선거를 앞두고 지역 사업가에게 금품을 받은 혐의로 재판에 넘겨진 송철호 전 울산시장이 1심에서 무죄를 선고받았다. 법원은 이 사업가와 그에게 금품을 수수한 혐의로 함께 기소된 송 전 시장 캠프 관계자 등에게는 징역형을 선고했다.&lt;br&gt;&lt;br&gt;울산지법 형사11부(재판장 이대로)는 7일 사전뇌물수수 및 정치자금법 위반 혐의로 기소된 송 전 시장에게 무죄를 선고했다고 밝혔다.&lt;br&gt;&lt;br&gt;송 전 시장은 지방선거 직전인 2018년 6월 자신의 선거사무실에서 지역 중고차 매매업체 대표인 A씨로부터 2000만원을 받은 혐의로 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;검찰은 A씨가 당시 송철호 울산시장 후보 선거사무소에 찾아가 빈 골프공 상자에 현금을 넣어 제공한 것으로 보고 송 전 시장에게 징역 2년과 추징금 2000만원을 구형했다.&lt;br&gt;&lt;br&gt;그러나 재판부는 송 전 시장과 A씨 사이에 금품이 오간 증거가 없다고 판단했다.&lt;br&gt;&lt;br&gt;재판부는 “당시 선거사무소는 여러 사람으로 붐볐고 문도 열려 있어 금품을 주고받기 쉽지 않았다”며 “금품을 주고 받은 것을 목격한 사람도 없다”고 밝혔다. 또 “당시 송 후보가 상대 후보를 20% 이상 앞선 상황에서 굳이 금품을 받아 정치생명 부활의 기회를 위태롭게 할 이유도 없어 보인다”고 했다.&lt;br&gt;&lt;br&gt;재판부는 그러나 A씨에게는 징역 2년을 선고했다. 그에게 뇌물을 받은 혐의를 받는 전 울산시민신문고위원회 위원 B씨에게도 징역 3년 6개월을 선고하고 벌금 5000만원 추징을 명령했다.&lt;br&gt;&lt;br&gt;송 전 시장의 선거캠프 통합선거대책본부장 C씨에게는 징역 2년을, 송 전 시장 선거캠프 상황실장 D씨에게는 벌금 500만원을 각각 선고했다.&lt;br&gt;&lt;br&gt;법원은 A씨가 이들에게 민원 해결을 위해 금품을 건넨 것은 맞지만, 이 금품이 송 전 시장에게 전달됐다는 증거는 없다고 판단한 것이다.&lt;br&gt;&lt;br&gt;송 전 시장은 선고 후 취재진에게 “진실이 승리한다는 것을 밝혀주신 재판부에 감사드린다”며 “사람의 고통을 수단으로 삼아 자기 목적을 달성하는 일이 없어지기를 희망한다”고 밝혔다. 이어 “검찰의 상상을 바탕으로한 표적수사이자 무리한 기소였다”며 “제 주변 사람들이 유죄를 선고받은 것에 대해선 송구스럽게 생각한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>서울경찰청장에 박현수 경찰국장 내정</title>
       <link>https://www.chosun.com/national/2025/02/07/FISKRQUCLZBC3N2DWXNUJSIDBQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/2025/02/07/FISKRQUCLZBC3N2DWXNUJSIDBQ/</guid>
@@ -832,67 +937,6 @@
       </media:content>
     </item>
     <item>
-      <title>尹 변호인단 합류한 황교안 “윤 수사부터 구속, 탄핵까지 불법”</title>
-      <link>https://www.chosun.com/national/court_law/2025/02/06/WE2EV6NMNZBJFLVA7W3I2AH5UY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/02/06/WE2EV6NMNZBJFLVA7W3I2AH5UY/</guid>
-      <dc:creator>김나영 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 06 Feb 2025 10:50:39 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PS2ZC3WPWJJ4TLXDHEFUADH4YQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령 변호인단에 합류한 황교안 전 국무총리가 6일 서울 종로구 헌법재판소에서 열린 탄핵 심판 6차 변론기일에 출석하며 취재진의 질문을 받고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 대통령의 변호인 신분으로 황교안 전 국무총리가 6일 헌법재판소 재판에 출석했다. 전날 윤 대통령 탄핵소추 변호인단에 합류한 황 전 총리는 이날 직접 증인을 신문하진 않았지만, 오전 10시부터 오후 6시까지 이어진 재판 내내 자리를 지켰다.&lt;br&gt;&lt;br&gt;황 전 총리는 이날 재판이 끝나고 기자들과 만나 “탄핵 자체가 무도하고 잘못된 것”이라며 “내란죄 수사권도 없는 공수처에서 수사한 것부터, (윤 대통령 구속은) 불구속 수사가 원칙인 형사사법 원칙에도 맞지 않는 일”이라고 했다. &lt;br&gt;&lt;br&gt;황 전 총리는 변호인단 합류 이유를 묻는 질문에 “첫째 나라를 살려야 되지 않느냐. 대통령이 무너지면 나라 무너진다”며 “둘째는 대통령이 대통령이라는 이유로 억울한 일 당해선 안 된다. 이게 제가 참여하게 된 동기”라고 설명했다.&lt;br&gt;&lt;br&gt;부정선거론자로 알려진 황 전 총리는 이날도 부정선거를 주장했다. 그는 “계엄의 본질을 따져보면 부정선거가 중요한 출발점이 됐다”며 “부정선거는 음모론이 아닌 팩트”라고 했다. &lt;br&gt;&lt;br&gt;한편 이날 헌재에서 열린 윤 대통령 탄핵심판 6차 변론기일에는 김현태 707특수임무단장, 곽종근 전 육군 특수전사령관, 박춘섭 대통령실 경제수석이 증인으로 출석했다. 다음 변론기일은 오는 11일로 예정돼 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>경제수석 “尹 계엄, 줄탄핵과 일방적 입법·예산삭감이 종합적 원인”</title>
-      <link>https://www.chosun.com/national/court_law/2025/02/06/QHIFVI3N4NHK7PGF2DHLH64PXE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/02/06/QHIFVI3N4NHK7PGF2DHLH64PXE/</guid>
-      <dc:creator>이슬비 기자, 김나영 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 06 Feb 2025 08:47:30 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YVTYNCLFBOOXD5NDPV7H4GPG6I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;박춘섭 대통령실 경제수석. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;박춘섭 대통령실 경제수석은 6일 12·3 비상계엄 사태에 대해 “이어지는 ‘줄탄핵’과 재정부담, 일방적 입법 시도, 예산의 일방 삭감 등이 종합적으로 원인이 됐을 것으로 판단한다”고 밝혔다.&lt;br&gt;&lt;br&gt;박 수석은 이날 헌법재판소에서 열린 윤석열 대통령 탄핵심판 사건 6차 변론기일에 증인으로 출석해 “국정이 마비된다고 계엄선포를 할 수 있느냐”는 국회 측 질문에 이같이 답했다. 윤석열 대통령은 국회의 예산 삭감으로 안보·치안 등 국정 활동이 마비된 것도 비상계엄 선포 배경 중 하나라고 주장해왔다.&lt;br&gt;&lt;br&gt;박 수석은 “비상계엄이 선포됐을 때 전시 사변이 아니지 않았나. 국가 비상사태라고 볼 상황이 있었나”는 국회 측 질문에는 “그 부분은 헌재에서 판단할 것”이라고 했다.&lt;br&gt;&lt;br&gt;박 수석은 “기획재정부에서 30년 넘게 공직 생활하면서 정부 예산안을 여야합의 없이 야당이 단독처리할 수가 있었나”라는 윤 대통령 측 질문에는 “없었다. 헌정 사상 처음이다”라고 말했다.&lt;br&gt;&lt;br&gt;박 수석은 이날 윤석열 정부의 대왕고래 탐사시추 프로젝트에 대해 “관련 예산이 삭감되면 석유개발 사업 쪽이 국정마비가 된다”고 했다. 국회는 작년 12월 예산결산위원회에서 대왕고래 프로젝트 관련 예산 497억원을 모두 깎았다.&lt;br&gt;&lt;br&gt;이에 대해 국회 측 대리인단이 “특정사업만 감액되면 그 사업만 마비된다는 말 아니냐”고 되묻자 “예비비는 국정 전반에 얽히는 것으로 국정이 마비되는 것”이라고 말했다.&lt;br&gt;&lt;br&gt;박 수석은 “대왕고래 프로젝트에서 시추 가능성을 어느 정도로 평가하나’라는 윤 대통령 측 질문에는 “금세기 최고의 유전이라 불리는 (남아프리카) 가이아나 유전의 경우 당시 성공률이 16%였고, 대왕고래는 20%로 (그보다) 높다고 평가된다”고 했다. 이어 “대왕고래에서 가스, 석유를 시추했을 때 국가 경제에 어느 정도 효과가 있겠느냐”는 질문에도 “에너지 안보를 확보할 수 있고, 국제적으로 산유국 지위를 누리는 혜택이 많을 것”이라고 했다.&lt;br&gt;&lt;br&gt;박 수석에 대한 증인신문이 진행되는 도중 정부는 시추 단 한 번 만에 대왕고래에 경제성이 사실상 없다는 발표를 내놨다. 이에 대해 박 수석은 “(소식을) 듣긴 들었다. 1차 시추 결과”라고 했다.&lt;br&gt;&lt;br&gt;한편, 윤 대통령은 이날 곽종근 전 특수전사령관과 김현태 육군 707 특수임무단장의 증인신문을 지켜봤지만, 마지막 순서인 박 수석 증인신문 시간에는 자리를 비웠다. 윤 대통령이 자리를 비운 이유에 대해 윤 대통령 측 윤갑근 변호사는 “특별한 이유는 없고, 장시간 재판으로 잠시 대기실에 계신 것”이라고 했다. &lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>중소벤처기업인증원, 인천도시공사 ‘인권경영시스템’ ‘노사상생’ 동시 인증</title>
-      <link>https://www.chosun.com/national/regional/2025/02/06/6FWDCBUEKJAZJFD6F5N3RZV5OM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/02/06/6FWDCBUEKJAZJFD6F5N3RZV5OM/</guid>
-      <dc:creator>인천=이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 06 Feb 2025 10:04:55 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IRTYOPZ2BFGGRDQRKQBMCTK63M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;중소벤처기업인증원은 인천도시공사가 인권경영시스템(HRMS) 인증과 노사상생 인증(LMBC)을 받았다고 밝혔다./중소벤처기업인증원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;중소벤처기업인증원은 인천도시공사가 인권경영시스템(HRMS) 인증과 노사상생 인증(LMBC)을 동시에 받았다고 6일 밝혔다. &lt;br&gt;&lt;br&gt;중소벤처기업인증원은 인천도시공사가 인권경영선언문 개정 선포, 인권침해 구제절차 구축, 인권경영 교육 등 인권경영을 위해 노력해 왔다고 평가했다. 또 노사 간 협력체계 구축 등 지속 가능하고 건강한 노동 환경 조성을 위한 인천도시공사의 노력을 인정했다. &lt;br&gt;&lt;br&gt;엄진엽 중소벤처기업인증원 원장은 “이번 인증은 전국 지방공기업에도 지속가능경영의 이정표를 제시하는 모범 사례가 될 것”이라고 했다.&lt;br&gt;&lt;br&gt;조동암 인천도시공사 사장은 “인천시민 삶의 질 향상과 지역사회 발전에 기여하는 지방공기업이 되기 위해 더욱 노력하겠다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/IRTYOPZ2BFGGRDQRKQBMCTK63M.jpg?width=1280&amp;height=695&amp;auth=96955700bfc2259211bd5b56bf4f02ef473c6d16afc8ef6d0bf6ca401a20e6e0&amp;smart=true" type="image/jpeg" height="695" width="1280">
-        <media:description type="plain">중소벤처기업인증원은 인천도시공사가 인권경영시스템(HRMS) 인증과 노사상생 인증(LMBC)을 받았다고 밝혔다./중소벤처기업인증원</media:description>
-      </media:content>
-    </item>
-    <item>
-      <title>경찰, 에어부산 본사 압수수색…“기초조사 위한 자료 확보”</title>
-      <link>https://www.chosun.com/national/2025/02/06/ZBHK4VWAPFBFRPD47MGIKP2IBA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2025/02/06/ZBHK4VWAPFBFRPD47MGIKP2IBA/</guid>
-      <dc:creator>박주영 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 06 Feb 2025 10:02:57 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7UYUETVX3ZI2QZ5BZPY325L4TY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 3일 오전 부산 강서구 김해국제공항 에어부산 항공기 화재 현장에서 국토부 항공철도사고조사위원회, 프랑스 항공사고조사위원회(BEA), 국립과학수사연구원, 경찰 과학수사대, 소방 관계자들이 합동 감식을 하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김해국제공항 에어부산 여객기 화재 사건과 관련, 경찰이 내사에 들어갔다.&lt;br&gt;&lt;br&gt;부산경찰청은 6일 오후 에어부산 본사를 압수수색했다. 경찰 관계자는 “정식 수사 착수 여부는 지난 3일 진행된 합동감식 결과가 나온 후 결정할 것”이라며 “하지만 그 전에 책임소재 규명 등에 필요한 기초 조사를 준비하는 내사 차원에서 압수수색을 했다”고 말했다.&lt;br&gt;&lt;br&gt;경찰은 이날 압수수색에서 항공기 화재 등 긴급 상황시 대응 및 조치 요령 등에 대한 내부 매뉴얼이나 규정에 관한 자료들과 탑승자 명단을 확보했다. 이날 확보한 자료들은 향후 수사를 벌일 경우 승무원이나 에어부산 관계자들이 화재 당시 실제로 이 규정에 따라 대응했는지 등을 따져보는 데 활용될 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰은 이날 불이 난 BX391편에 탄 탑승자 명단을 확보, 이들의 실제 탑승 위치 등에 대한 확인에 들어갈 계획이다. 경찰은 전산상 기록된 탑승 좌석과 실제 위치가 동일한지 대조하고 필요에 따라 탑승자들이 기내에 들고 와 머리 위 선반에 보관한 물품 종류에 대해서도 조사할 방침이다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “아직 감식 결과가 나오지는 않았으나 필요에 따라 항공사 관계자나 승객 등을 불러 조사할 수도 있다”며 “누가 무슨 짐을 가지고 탔는지 미리 알아 둬 나중 감식 결과가 나오면 수사 속도를 더 빠르게 진행시키기 위한 것”이라고 말했다.&lt;br&gt;&lt;br&gt;설을 하루 앞둔 지난달 28일 오후 10시 15분쯤 김해공항 주기장에서 이륙을 준비하던 홍콩행 에어부산 여객기 BX391편 후미 선반에서 불이 났지만, 승객과 승무원 등 176명 전원이 비상 탈출했다.&lt;br&gt;&lt;br&gt;국토교통부 항공철도사고조사위원회는 프랑스 항공사고조사위원회(BEA), 경찰 과학수사대, 소방, 국립과학수사연구원(국과수) 등과 함께 지난 3일 화재 현장에서 첫 합동 감식을 벌였다. 부산경찰청은 추후 수사에 대비, 형사기동대와 과학수사 등 수사 인력 28명으로 전담팀을 구성했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/PWJOX3CTJ4H5DFNEDYW32NQWFY.jpg?width=5000&amp;height=2910&amp;auth=c839e89a609fe0c49d31ca9f6950588fec801082d075fbb336cb930046733071&amp;smart=true" type="image/jpeg" height="2910" width="5000">
-        <media:description type="plain">3일 오전 부산 강서구 김해국제공항 에어부산 항공기 화재 현장에서 국토부 항공철도사고조사위원회, 프랑스 항공사고조사위원회(BEA), 국립과학수사연구원, 경찰 과학수사대, 소방 관계자들이 합동 감식을 하고 있다. /뉴스1</media:description>
-        <media:credit role="author" scheme="urn:ebu">뉴스1</media:credit>
-      </media:content>
-    </item>
-    <item>
-      <title>조지호·노상원 등 ‘계엄’ 재판 본격 시작…재판부 “尹 준비 절차 마친 후 병합 여부 판단”</title>
-      <link>https://www.chosun.com/national/court_law/2025/02/06/V23MCCXZL5DDFF6PW6QO5XK74E/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/02/06/V23MCCXZL5DDFF6PW6QO5XK74E/</guid>
-      <dc:creator>박강현 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 06 Feb 2025 09:37:35 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2CTGM24Z25EX3A2HETGLAQPMMU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울중앙지법. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘12·3 비상계엄’ 사태 당시 국회 진입 방지·중앙선거관리위원회 점거(내란 중요임무 종사) 등 혐의로 기소된 군·경찰 핵심인사 5명이 6일 열린 형사 재판에서 공소 사실을 일제히 부인했다. 재판부는 오는 20일 진행되는 윤석열 대통령의 내란 우두머리 혐의 첫 재판 이후 사건 병합 심리 여부 등을 결정하겠다고 밝혔다.&lt;br&gt;&lt;br&gt;비상계엄 관련 주요 재판을 담당하고 있는 서울중앙지법 형사25부(재판장 지귀연)는 이날 조지호 경찰청장과 김봉식 전 서울경찰청장·노상원 전 정보사령관·김용군 전 제3야전사령부 헌병대장(대령)·김용현 전 국방부 장관에 대한 공판 준비 기일을 각각 진행했다. 김 전 장관은 2차 준비 기일, 나머지 피고인은 첫 준비 기일에 해당했다. 공판 준비 기일은 정식 재판에 앞서 범죄 혐의에 관한 피고인의 입장을 확인하고, 증거 조사 계획 등을 잡는 절차다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FEKHUA4C6GQFWQXQLVKXXP6DL4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김봉식 전 서울경찰청장(왼쪽)과 조지호 경찰청장. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국회 진입을 막는 혐의 등을 받는 조 청장 측 변호인은 이날 “계엄 상황에서 경찰에 당연히 요구되는 치안 유지 활동을 했다”며 “내란에 가담한 게 아니라 오히려 계엄이 성공하지 못하도록 막았다”고 주장했고, 김 전 청장 측 변호인도 “내란죄 고의, 국헌문란의 목적·공모 관계 등에 대해 전반적으로 부인하는 입장”이라고 했다.&lt;br&gt;&lt;br&gt;선관위 장악 및 부정선거 의혹 조사를 위한 ‘제2수사단’ 설치를 추진한 혐의 등을 각각 받는 노 전 사령관과 김 전 헌병대장 측도 국헌을 문란하게 할 목적의 폭동을 모의하지 않았고, 내란죄가 성립하지 않는다는 취지로 “공소사실을 부인한다”고 했다.&lt;br&gt;&lt;br&gt;국회를 무력화해 별도 비상 입법 기구 창설을 계획하는 등 계엄 전반을 주도한 혐의를 받는 김 전 장관 측도 재판부가 공소장 내용에 대한 입장을 묻자 “(공소장에 있는) 언어 선택 자체가 검사가 상상에 기반해 쓴 것”이라며 “전혀 사실과 다르다”고 반박했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G2INS3LWCLAVNZ2ZH3RF4AFINY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;노상원 전 정보사령관. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;재판부는 노 전 사령관과 김 전 헌병대장 사건과 관련해선 “이들의 구체적 역할·행동이 무엇인지 공소장에 명확하지 않은 것 같다”며 검찰 측에 보완을 요청하기도 했다. 또 이날 비상계엄 사태 관련 재판 서증(증거로 내는 서류)이 4만쪽이 넘고, 향후 재판에서 관련 증인도 520명 정도 되는 것으로 밝혀졌다. 검찰은 “대통령을 우두머리로 한 조직적인 범죄”라며 “전체 범죄에 대해서 부동의를 전제로 한 증인이 520명인데, 향후 (증인이) 추가될 가능성도 있다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QTG67YVR6FFCXFMT7Z3X4LJAPU.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=박상훈&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한편 양측은 이날 비상계엄 재판 병합 여부를 놓고 이견을 보였다. 변호인 측은 증언 중복 문제 등이 발생할 수 있다며 여러 재판을 결합해 하나의 소송 절차로 심리하는 ‘병합’을 촉구했다. 반면 검찰 측은 병합을 할 경우 재판이 지연될 수 있다며 부정적인 입장을 보였고, 초기에는 ‘병행 심리’를 해야 한다고 주장했다. 추후 병합 여부에 대해선 가능성을 열어 놓았다. 병합이 사건 자체를 하나로 묶어 살펴보는 것이라면, 병행 심리는 별개로 재판을 진행하되 심리의 편의상 증거와 증인이 같으면 경우에 따라 함께 재판하는 것이다.&lt;br&gt;&lt;br&gt;재판부는 오는 20일 예정된 윤 대통령의 공판 준비 기일 이후 각 계엄 재판 병합 여부 등을 결정하겠다고 밝혔다. 이를 위해 오는 27일 각 재판에서 한 차례 더 준비 기일을 열기로 정했다. 재판부는 “가장 중요한 사건의 준비 기일을 진행해봐야 (어떻게 사건을 다룰지) 윤곽이 나올 것 같다”며 “(재판을) 병행할지, 병합할지 의견을 나눠보겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>임금체불 안 잡히려 대포폰 쓰고, 위장 이혼까지...</title>
-      <link>https://www.chosun.com/national/labor/2025/02/06/KYQUOQMU6ZB27LJLIX7YV32HXI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/labor/2025/02/06/KYQUOQMU6ZB27LJLIX7YV32HXI/</guid>
-      <dc:creator>곽래건 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 06 Feb 2025 09:32:05 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XQV3FZWDSDT4FKOYRE64HFNLUY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;민주노총 전국건설노동조합 대전세종건설기계지부 조합원들이 대전시청 앞에서 임금 체불 해결을 촉구하는 기자회견을 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 위축, 대기업의 대규모 집단 체불 등의 여파로 작년 임금체불 누적 발생액이 처음으로 2조원을 넘겼다.&lt;br&gt;&lt;br&gt;6일 고용노동부에 따르면 작년 말 기준 누적 임금체불 발생액은 2조448억원으로 집계됐다. 2023년(1조7845억원)과 비교하면 14.6% 늘어난 수치다.&lt;br&gt;&lt;br&gt;임금체불 피해 근로자는 28만3212명으로 전년보다 2.8% 늘었다. 코로나 사태 이전 역대 최대였던 2019년(34만4977명)보다는 줄었지만 그 이후로는 최대치다.&lt;br&gt;&lt;br&gt;다만 전체 임금 총액에서 임금체불액이 차지하는 비율은 2019년 0.28%, 2023년 0.23% 등 계속해서 줄어드는 추세다. 시간이 지나면서 경제 규모가 커지면서 임금 체불 금액 자체는 늘어날 수밖에 없는데 정부가 구속 등 강제 수사를 활성화하는 등 대응 수위를 계속 높이고 있기 때문으로 풀이된다.&lt;br&gt;&lt;br&gt;그러나 악질적인 체불 사례는 여전하다. 작년 1월 근로자 3명 임금 540만원을 체불한 혐의로 구속된 건설업자(60)는 체포를 피하기 위해 도피 생활을 하면서 가명을 썼다. 휴대전화와 계좌도 다른 사람 명의를 빌린 이른바 ‘대포폰’ ‘대포통장’이었다. &lt;br&gt;&lt;br&gt;작년 5월 21명 임금과 퇴직금 3억1000만원을 체불한 혐의로 구속된 부산의 제조업체 대표(65)는 주거래처로부터 납품 대금을 모두 받아 체불 임금을 모두 줄 수 있었다. 그러나 받은 돈을 빌린 돈을 갚는 것처럼 꾸며 배우자와 딸에게 송금했다. 고용부는 재산을 은닉하려 한 것으로 보고 있다.&lt;br&gt;&lt;br&gt;한 운전전문학원 대표(53)는 직원 13명의 임금과 퇴직금 등 4억200만원을 체불한 혐의로 작년 12월 구속됐다. 직원들이 월급을 달라고 사정하면 “아들 대학 등록금, 딸 학원비 내야 해서 돈이 없다”고 하거나, “감옥 가라고 하면 몸으로 때우겠다”고 대답했다. 그러나 임금체불이 계속되고 있던 2016년부터 학원 경영과 전혀 관계없는 배우자, 자녀, 형제 등에게 9억원 가까운 돈을 빼돌렸다. 재산을 숨기기 위해 위장 이혼을 한 정황도 확인됐다.&lt;br&gt;&lt;br&gt;김문수 고용부 장관은 “임금체불은 중대한 민생범죄”라며 “임금체불에 대해 엄정 대응 기조를 유지하고, 법과 원칙에 따라 끝까지 책임을 묻겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>경북 문경시, 제1회 지자체 홍보대상서 종합 대상 수상</title>
       <link>https://www.chosun.com/national/2025/02/06/DHJTWHB6WBGYBC4FK2WVRDUIOQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/2025/02/06/DHJTWHB6WBGYBC4FK2WVRDUIOQ/</guid>
@@ -915,28 +959,6 @@
       </media:content>
     </item>
     <item>
-      <title>이재명 위증교사 2심 다음 달 첫 재판…1심 무죄 선고 후 약 100일만</title>
-      <link>https://www.chosun.com/national/court_law/2025/02/06/INVHB3V2PNE6VBCODPGNRRK6WI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/02/06/INVHB3V2PNE6VBCODPGNRRK6WI/</guid>
-      <dc:creator>박강현 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 06 Feb 2025 09:04:06 +0000</pubDate>
-      <content:encoded>위증교사 혐의로 기소돼 1심에서 무죄를 선고받은 이재명 더불어민주당 대표의 항소심이 다음 달 시작된다. 1심 선고 이후 약 100일 만이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3DHLZLLXCBC3LLPQ3G7HXII7UA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;더불어민주당 이재명 대표가 6일 서울 여의도 국회에서 게오르크 슈미트 주한독일대사를 접견하고 있다. /남강호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;6일 법조계에 따르면 이날 서울고법 형사3부(재판장 이창형)는 이 대표의 위증교사 혐의 2심 첫 공판 준비 기일을 3월 11일 오후 2시로 정했다.&lt;br&gt;&lt;br&gt;공판 준비 기일은 정식 재판에 앞서 범죄 혐의에 관한 피고인의 입장을 확인하고 증거 조사 계획 등을 잡는 절차로 피고인이 법정에 출석할 의무는 없다.&lt;br&gt;&lt;br&gt;앞서 지난해 11월 25일 이 사건 1심 재판부는 이 대표의 요청을 받고 위증을 한 고(故) 김병량 전 성남시장의 비서였던 김진성씨에게는 유죄(벌금 500만원)를 선고했지만, 이 대표에게는 무죄를 선고했다.&lt;br&gt;&lt;br&gt;재판부는 교사 행위 당시 이 대표가 김씨가 위증을 할 것이라는 점을 알았거나, 미필적으로나마 예견할 수 있었다고 보기 어려우며 김씨가 위증에 이르는 과정에서 이 대표가 개입했다고 인정할 만한 직접적인 증거가 없다는 취지로 이 같이 판단했다.&lt;br&gt;&lt;br&gt;하지만 법조계에선 위증범보다 위증교사를 더 무겁게 처벌해온 최근 경향과 맞지 않는다는 지적이 나왔다. 거짓말을 요구한 사람은 무죄인데, 처벌을 감수하고 그 부탁을 들어준 사람만 유죄라는 재판부의 판단이 납득이 가지 않는다는 것이다. 검찰은 300쪽 넘는 항소 이유서를 제출한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;위증교사 사건은 2018년 이 대표가 공직선거법 위반 혐의로 기소돼 재판받을 때 증인인 김씨에게 위증을 요구했다는 내용을 골자로 하고 있다. 이 대표는 2019년 2월 자신의 선거법 위반 혐의 재판에서 김씨에게 거짓 증언을 요구한 위증교사 혐의로 2023년 10월 재판에 넘겨졌다. &lt;br&gt;&lt;br&gt;앞서 김씨는 법정에서 이 대표의 요구에 따라 위증을 했다고 자백했고, 이 대표가 김씨에게 수차례 전화로 위증을 요청한 내용이 담긴 녹취록을 증거로 제출하기도 했다.&lt;br&gt;&lt;br&gt;한편 이 대표는 최근 서울고법 형사6-2부(재판장 최은정) 심리로 진행되고 있는 ‘선거법 위반 사건’ 항소심에서 선거법 250조1항의 ‘행위’ 부분의 범위가 지나치게 불명확하고 포괄적이라는 취지로 위헌법률심판 제청을 신청했다. 1심 재판부는 이 사건에서 이 대표에게 징역 1년에 집행유예 2년을 선고했다.&lt;br&gt;&lt;br&gt;항소심 재판부는 이 사건 결심 공판을 오는 26일 열겠다고 예고한 바 있는데, 재판부가 이 대표 측의 신청을 받아들일 경우 헌재의 심판 결과가 나올 때까지 재판은 중단된다. 반면 신청을 받아들이지 않으면 재판은 계속된다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/3DHLZLLXCBC3LLPQ3G7HXII7UA.jpg?width=4449&amp;height=2612&amp;auth=55995ac43186c0a3ae2915128a7f3bb3d4fd71fd06bfb574af2d38350192e772&amp;smart=true" type="image/jpeg" height="2612" width="4449">
-        <media:description type="plain">더불어민주당 이재명 대표가 6일 서울 여의도 국회에서 게오르크 슈미트 주한독일대사를 접견하고 있다. /남강호 기자</media:description>
-        <media:credit role="author" scheme="urn:ebu"/>
-      </media:content>
-    </item>
-    <item>
-      <title>문 닫는데 ‘수험생 할인’... 먹튀 헬스장 경찰 수사</title>
-      <link>https://www.chosun.com/national/national_general/2025/02/06/SK3YISSKJVE5PMGUD7L4F7ZLL4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/02/06/SK3YISSKJVE5PMGUD7L4F7ZLL4/</guid>
-      <dc:creator>구동완 기자, 최하연 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 06 Feb 2025 08:23:47 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/S55JP75CPZCEFF7FRYRLUICY4A.jpeg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 마포경찰서. /조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 마포구의 한 헬스장이 돌연 폐업한 후 환불을 받지 못했다는 내용의 고소장이 잇따라 접수돼 경찰이 수사에 나섰다. 헬스장 대표는 퇴거 명령을 받은 사실을 숨기고 회원권을 판매하다가 영업종료를 불과 나흘 앞두고 폐업을 통보했다고 한다.&lt;br&gt;&lt;br&gt;서울 마포경찰서는 헬스장 대표 50대 남성 김모씨를 사기 혐의로 불구속 입건해 수사 중이라고 6일 밝혔다. 환불 받기를 기다리는 회원만 최소 430명에 이르고, 피해 규모도 1억원에 달하는 것으로 나타났다. 경찰은 최근 김씨를 불러 한 차례 조사를 벌였다.&lt;br&gt;&lt;br&gt;경찰에 따르면 헬스장 대표 김씨는 계약 종료를 3개월 앞둔 지난해 9월 30일에 입주 건물로부터 헬스장 사용허가 취소 사유가 발생해 계약 연장이 불가능하다는 통보를 받았다고 한다. 그러나 김씨는 회원들에게 이 사실을 알리지 않고 11월 말까지도 ‘수험생 할인’ 등 여러 프로모션을 진행하며 회원권을 판매해 온 것으로 알려졌다. 그러다 12월 3일에서야 “경영난으로 인해 같은 달 7일 영업을 종료한다”고 통보했다.&lt;br&gt;&lt;br&gt;헬스장측은 “환불 금액 지급은 12월 16일부터 순차적으로 입금될 예정”이라는 내용의 휴대전화 문자를 발송했으나 김씨는 날짜를 30일로 번복하는 등 환불을 미뤘다고 한다. 이후 김씨는 “지점 매각과 자산정리 등으로 지급처리를 서두르고 있다”면서 현재까지 200명가량에게 환불을 마쳤다고 공지하기도 했다. 그는 강남·성북구 등지에서도 복수의 피트니스 센터를 운영하고 있는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;이에 피해자 모임 측은 “단톡방 64명 중 실제 환불을 받은 사람은 9명에 불과하고 이마저도 당초 약속했던 금액의 60% 수준이다”라고 주장하고 있는 것으로 전해졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>오늘 퇴근길 수도권에 폭설…내일 출근길 한파에 충청·호남 많은 눈</title>
       <link>https://www.chosun.com/national/transport-environment/2025/02/06/RBZHUXRN4ZC6DMWVC6MHKFCPLM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/02/06/RBZHUXRN4ZC6DMWVC6MHKFCPLM/</guid>
@@ -950,15 +972,6 @@
       </media:content>
     </item>
     <item>
-      <title>오세훈 측, “명태균 수사 신속히 해달라” 검찰에 의견서 제출</title>
-      <link>https://www.chosun.com/national/national_general/2025/02/06/HBAMP2GZOZEF3CMXYBMJMLYDPU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/02/06/HBAMP2GZOZEF3CMXYBMJMLYDPU/</guid>
-      <dc:creator>김영우 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 06 Feb 2025 07:45:33 +0000</pubDate>
-      <content:encoded>오세훈 서울시장이 지난해 12월 명태균씨 등을 명예훼손 등의 혐의로 고소한 것과 관련해, 오 시장 측 법률대리인이 검찰에 신속한 수사를 촉구하는 의견서를 제출했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/S3U3CAFAJ5C7BFN4X3EOCNHH5U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;오세훈 서울시장이 지난해 7월 서울시청 집무실에서 본지와 인터뷰하고 있다. /김지호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;신선종 서울시 대변인은 6일 설명문을 내, 지난 3일 오 시장 측 법률대리인이 창원지방검찰청에 명씨 등에 대한 신속한 수사를 촉구하는 의견서를 제출했다고 밝혔다.&lt;br&gt;&lt;br&gt;법률대리인은 의견서에서 “사건을 접수한 지 2개월이 지난 지금까지 수사에 아무런 진척이 없고, 의혹이 해소되지 않고 있어 고소인의 명예가 더욱 실추되고 있다”고 했다.&lt;br&gt;&lt;br&gt;신 대변인은 “이번 수사 촉구서 제출은 신속한 수사로 사실 관계가 분명히 밝혀지길 바라는 뜻이 담겨 있다”며 “앞으로 사건이 명확해질 때까지 수사 촉구서를 정기적으로 제출할 예정”이라고 말했다.&lt;br&gt;&lt;br&gt;앞서 오세훈 서울시장은 지난해 12월 3일 명 씨와 언론사 대표 등 12명을 허위 사실 유포와 명예훼손 등 혐의로 검찰에 고소했다.&lt;br&gt;&lt;br&gt;당시 오 시장은 “신속하고 엄정한 수사로 진실을 규명하기 바라며, 고소인인 자신부터 조사를 포함해 진상을 밝히는 데 앞장서겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CTO2UTJBZ777TGDPOHLRML5IMY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;오세훈 서울시장 측 법률대리인이 지난 3일 창원지방검찰청에 제출한 신속 수사 촉구서. /서울시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>尹 “홍장원·곽종근부터 내란죄·탄핵공작 시작… 다분히 의도”</title>
       <link>https://www.chosun.com/national/2025/02/06/NHVVOWK63ZHVHOVA3JU65MLLN4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/2025/02/06/NHVVOWK63ZHVHOVA3JU65MLLN4/</guid>
@@ -968,15 +981,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/J4MNYHWWBRL3JG6QVVA7MPSDVM.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령이 6일 오전 서울 종로구 헌법재판소 대심판정에서 열린 탄핵심판 6차 변론기일에 출석하고 있다. /사진공동취재단&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 대통령은 6일 헌법재판소에서 열린 탄핵심판 변론에서 “‘의원 끌어내라’는 의원으로 이해했다는 것이지, 제가 쓰지는 않은 것”이라고 말했다.&lt;br&gt;&lt;br&gt;윤 대통령은 이날 곽종근 전 육군 특수전사령관에 대한 증인 신문이 끝나고 발언권을 얻어 “오늘 얘기를 들으니까 ‘의원’이 아니라 ‘인원’이라고 이야기 했다고 하는데. 저는 그냥 ‘사람’이라는 표현을 놔두고, 저는 그냥 사람이란 표현을 놔두고, 또 의원이면 의원이지 인원이라는 말은 저는 써본 적이 없다”고 했다.&lt;br&gt;&lt;br&gt;이날 증인으로 출석한 곽 전 사령관은 “윤 대통령으로부터 국회의원들을 끌어내라는 지시를 받은 것이 맞다”고 했다가, 정형식 재판관의 거듭된 질문에 “‘인원’으로 기억한다. ‘국회의원’은 듣지 않은 걸로 기억한다”고 말을 바꿨다.&lt;br&gt;&lt;br&gt;윤 대통령은 “(계엄 당시) 특전사령관에게 전화한 것은 당시 TV 화면으로 국회 상황이 굉장히 혼잡해서 현장 상황, 안전 문제를 확인하기 위한 것”이라며 “‘우리 사령관은 어디 있습니까’ 하니까 ‘저는 지휘통제실 있습니다’라고 했다. ‘아 화상으로 보고있군요. 수고하는군요’하고 전화를 끊었다”고 했다.&lt;br&gt;&lt;br&gt;윤 대통령은 “그저께와 오늘 상황을 보니까 지난해 12월 6일 홍장원 (전 국가정보원 1차장) 공작과 (곽종근) 특전사령관의 김병주 TV 출연부터 바로 이 내란죄와 탄핵 공작이 시작된 것으로 보여진다”라고 했다. &lt;br&gt;&lt;br&gt;홍 전 차장은 지난해 12월 6일 국회 정보위원회에 출석해 “윤 대통령이 싹 다 잡아들이라고 자신에게 직접 지시했다”고 증언했다. 곽 전 사령관은 같은 날 김병주 더불어민주당 의원이 운영하는 유튜브 채널에 출연해 “윤 대통령이 계엄 당시 국회의사당에서 국회의원을 끌어내라는 취지의 지시를 했다”고 밝혔다.&lt;br&gt;&lt;br&gt;윤 대통령은 곽 전 사령관이 지난해 12월 10일 국회 국방위 전체회의에 출석해 오전엔 증언을 거부하다가 오후에 윤 대통령의 전화 지시를 폭로한 것도 의도가 있다고 주장했다. 윤 대통령은 “(지난해 12월)10일 (곽 전 사령관이) 국회에서 오전엔 대통령을 위해서 감추는 듯하다가 오후에 얘기한 것도, 이미 전날 검찰에 다 얘기했는데 다분히 의도가 있다고 밖에 안 보인다”고 말했다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>부산 한 대학병원 주차장서 택시 돌진 사고…5명 사상</title>
-      <link>https://www.chosun.com/national/2025/02/06/BUZXXP3F2BCFLAY7DTPDUMODLA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2025/02/06/BUZXXP3F2BCFLAY7DTPDUMODLA/</guid>
-      <dc:creator>박주영 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 06 Feb 2025 07:46:21 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PZH45TU5WBDUNHEJFOBSGPDK3E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;6일 오후 1시8분쯤 부산 서구 동대신동 한 대학병원 주차장 입구를 통과한 택시가 승용차를 충돌한 뒤 경계석에 부딪히는 사고를 내 5명의 사상자가 발생했다./부산경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;6일 오후 1시 8분쯤 부산 서구 동대신동 한 대학병원 주차장에서 60대 남성이 몰던 택시가 출입구를 통과한 뒤 승용차를 들이받았다. 이 택시는 수십미터를 주행하다가 주차장 경계석과 충돌한 뒤 멈춰 섰다. &lt;br&gt;&lt;br&gt;이 사고로 택시 기사가 숨졌고 승객인 50대 여성과 10대 남성이 크게 다쳤다. 승용차에 타고 있던 운전자와 동승자 등 2명은 경상을 입었다. 경찰은 정확한 사고 경위를 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>곽종근 “대통령이 국회의원이라 한 적은 없어... ‘인원’으로 기억”</title>
       <link>https://www.chosun.com/national/court_law/2025/02/06/R7GI4UP37RHA7AYZIR7OLBXJDQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/02/06/R7GI4UP37RHA7AYZIR7OLBXJDQ/</guid>
@@ -984,15 +988,6 @@
       <description/>
       <pubDate>Thu, 06 Feb 2025 05:24:37 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TISNNXMAG5JRHABEICOTM6SBDA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;곽종근 전 특수전사령관이 지난 4일 국회에서 열린 '윤석열 정부의 비상계엄 선포를 통한 내란 혐의 진상규명 국정조사 특별위원회' 청문회에 출석해 의원 질의에 답하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;12·3 비상계엄 때 국회에 병력을 투입한 곽종근 전 육군 특수전사령관은 6일 헌법재판소에서 열린 윤석열 대통령 탄핵심판 6차 변론기일에 증인으로 출석해 “윤 대통령이 ‘국회의원’(을 끌어내라) 한 적은 없다. ‘인원’으로 기억한다”고 말했다.&lt;br&gt;&lt;br&gt;곽 전 사령관은 증인 신문 초반에 “윤 대통령으로부터 국회의원들을 끌어내라는 지시를 받은 것이 맞다”고 했다가, 정형식 재판관의 거듭된 질문에 “‘국회의원’은 듣지 않은 걸로 기억한다”고 말을 바꿨다.&lt;br&gt;&lt;br&gt;정형식 재판관은 곽 전 사령관에게 “증인 진술이 달라지니까 문제가 된다. 생각이나 해석을 빼고, 오로지 들은 얘기만 말씀해보라”고 했다. 이어 정 재판관은 윤 대통령으로부터 들었다는 말의 사실 관계를 하나하나 확인했다.&lt;br&gt;&lt;br&gt;정 재판관은 먼저 “아직 의결 정족수가 안 채워진 것 같다고 했느냐”고 묻자, 곽 전 사령관은 “맞습니다”라고 했다. 이어 정 재판관이 “150명 얘기를 했느냐”고 묻자, “당시에는 기억이 없는데 나중에 다른 사람이 제가 그런 말을 했다고 얘기를 해서 생각났다”고 했다. 정 재판관이 “다른 사람 얘기 다 제외하고 증인의 기억만말해달라. 기억에 150명 얘기는 당시에 들었냐”고 묻자, “나중에 기억났다”고 답했다.&lt;br&gt;&lt;br&gt;정 재판관은 “‘국회 안에 있는 사람들 데리고 들어와라‘고 했느냐”고 묻자, 곽 전 사령관은 “‘빨리 국회 문을 부수고 들어가서 안에 있는 인원들을 밖으로 끄집어내라’ 이렇게 기억한다”고 했다. 정 재판관이 “국회의원이란 말은 안 했느냐”고 하자, 곽 전 사령관은 “의원이라는 말은 자수서에 안 썼다”고 답했다. &lt;br&gt;&lt;br&gt;정 재판관이 재차 “‘인원’이냐”라고 하자, 곽 전 사령관은 “안에 있는 ‘인원’을 끄집어내라고 했다”고 했다. “국회의원이라는 말은 안했느냐, 들은 기억이 있느냐”고 하자, 곽 전 사령관은 “전화로 들은 표현은 ‘인원’”이라고 했다. “150명은 언제 얘기를 했느냐”라고 묻자, 곽 전 사령관은 “이건 대통령 얘기가 아니다. 김용현 전 장관 얘기”라고 했다. &lt;br&gt;&lt;br&gt;앞서 곽 전 사령관은 “윤 대통령이 ‘데리고 나오라’고 지시한 대상이 국회의원이 맞느냐”는 국회 측 질문에는 “정확히 맞다”고 했다. 곽 전 사령관은 “당시 707 특수임무단 인원은 국회 정문 앞에서 대치하는 상황으로, 본관 건물 안쪽으로는 인원이 안 들어가 있는 상태였다”라며 “그 상태에서 전화를 받았고 (국회 본관) 안에 작전 요원들이 없었기 때문에 당연히 (요원이 아니라) 국회의원이라고 이해했다”고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KN6DIUXB5NJURH46HCFL2INJ6U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령이 6일 서울 종로구 헌법재판소에서 열린 탄핵심판 6차 변론에 출석해 생각에 잠겨 있다. /사진공동취재단&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;곽 전 사령관은 검찰 조사에서 “윤 대통령이 4일 0시30분경 다시 직접 제 비화폰으로 전화 걸어와 ‘아직 국회 의결 정족수가 안 채워진 거 같다. 국회 안으로 들어가 의사당 안 사람들 빨리 데리고 나와라’고 지시하셨다”고 진술했다. 국회 측이 이런 조서를 언급하면서 “검찰 조서 진술이 사실이냐”고 묻자, 곽 전 사령관은 “그렇다”고 답했다. 곽 전 사령관은 김용현 전 국방부 장관으로부터도 “국회의원이 150명이 되지 않도록 국회의사당 출입을 봉쇄하고, 의사당 안으로 들어가 의원들을 데리고 나오라”는 지시를 받았다고 말했다.&lt;br&gt;&lt;br&gt;윤 대통령 측이 “사령관 스스로 (국회의원이라고) 이해했다는거 아니냐. 보좌관 등 수천 명 중에 사람이라는 용어가 꼭 국회의원 말하는 것은 아니지 않으냐”고 묻자, 곽 전 사령관은 “아니다. 정확하다”라며 “본회의장에 국회의원들이 여러 명 들어가는 상황이었기 때문에 그렇게 이해했다”고 말했다.&lt;br&gt;&lt;br&gt;곽 전 사령관은 “검찰 진술 중에는 ‘문을 부수고 들어가라’는 내용이 없는데 국회 진술에서는 말이 바뀐다”는 윤 대통령 측의 지적에 “제가 군 생활 34년 하면서 국군 통수권자인 대통령님이 말하는데, 차마 제가 검찰 자수서에 그렇게 쓸 수 없었다. 그래서 용어를 순화해서 쓴 것”이라고 했다. 그는 “’부수고’를 ‘열고’라고 했고, ‘끌어내라’를 ‘데리고 나와라’는 등 언어를 순화한 것이지 말을 바꾼 것이 아니다”라고 했다.&lt;br&gt;&lt;br&gt;그러면서 “이같은 내용이 어떠한 영향력을 미칠지 알고 있어서 더불어민주당 김병주 의원의 유튜브에서는 언급을 하지 않았다”면서 “국회 국방위에서 여야 의원들 앞에서 말씀드리고 검찰 자수서에 정확히 썼다”고 말했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AW3EKDRDOVIHJMPF63YXX5LTOI.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령 탄핵 심판 6차 변론기일인 6일 윤석열 대통령을 태운 호송차량이 서울 종로구 헌법재판소로 향하고 있다. /사진공동취재단&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;곽 전 사령관은 비상계엄 당시 전투통제실 마이크가 켜져 있어 윤 대통령과 김용현 전 국방장관으로부터 지시받은 내용이 생중계됐다고 밝혔다. 곽 전 사령관은 “(12.3 비상계엄) 당시 저는 전투통제실에 앉아서 화면을 보고 지휘하고 있었고, 나중에 알았는데 마이크가 켜져 있었다”면서 “시작할 때부터 마이크가 켜져 있었는데 안 끄고 끝날 때까지 켜 뒀었다”고 밝혔다. 이어 “윤 대통령과 김 전 장관으로부터 지시받는 게 예하 부대 전체에 생방송으로 전달됐다”고 했다.&lt;br&gt;&lt;br&gt;곽 전 사령관은 “(공소장에 있는 해당 발언은) 제가 하라고 지시한 게 아니라, 대통령과 김 전 장관 지시 내용이 현장 지휘관들과 논의한 과정이 적혀 있는 것”이라고 했다. 검찰은 곽 전 사령관 공소장에서 “윤 대통령이 곽 전 사령관에게 전화해 ‘국회 내에 의결 정족수가 안 채워진 것 같으니 빨리 국회 안으로 들어가서 의사당 안에 있는 사람들을 데리고 나와라’, ‘문짝을 도끼로 부수고서라도 안으로 들어가서 다 끄집어내라’는 지시를 했다”는 내용을 담았다.&lt;br&gt;&lt;br&gt;국회 측이 ‘공소장에 있던 말들이 그 시간에 있었던 건 맞느냐?’고 묻자, 곽 전 사령관은 “맞다”면서 “마이크가 켜진 상황에서 (지시 사항들이) 어쨌든 전달됐다”고 답했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>’45일간 1487대’ 불법 주정차 적발...한라산 1100도로에 무슨 일이</title>
-      <link>https://www.chosun.com/national/regional/2025/02/06/QL2EDOSOTVDVTCHYUTBMGVFNAI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/02/06/QL2EDOSOTVDVTCHYUTBMGVFNAI/</guid>
-      <dc:creator>제주=오재용 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 06 Feb 2025 06:31:50 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DVNLO4NH54GDIQZBF57NUZ2E6E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한라산국립공원 1100고지휴게소 도로에 차량이 붐비고 있다./뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제주 한라산국립공원을 남북으로 관통하는 1100도로에서 최근 한 달 반 사이 1500대에 육박하는 차량이 불법 주정차로 적발됐다. 한라산 설경을 감상하려는 방문객이 몰리면서 빚어진 일이다.&lt;br&gt;&lt;br&gt;6일 제주시와 서귀포시에 따르면 지난해 12월 21일 해발 1100m를 지나는 한라산 1100고지 일대 도로에서 불법 주정차 단속을 시작한 이후 이달 5일까지 1487대가 적발됐다. 하루 33대꼴이다.&lt;br&gt;&lt;br&gt;서귀포시는 이 기간 고정식 단속카메라와 카메라가 달린 주정차 단속 차량을 활용해 불법 주정차 1288건을 적발했다. 관할 구역에 고정식 카메라가 없는 제주시는 담당 공무원을 현장에 투입해 199건을 적발했다. 두 기관이 부과한 불법 주정차 과태료는 모두 5948만 원에 달한다.&lt;br&gt;&lt;br&gt;1100고지 주변은 매해 겨울 한라산 설경을 보려는 방문객이 줄을 잇는다. 대부분 렌터카를 포함해 개인 차량을 이용하기 때문에 겨울이면 이곳 도로는 차량 정체가 극심하다.&lt;br&gt;&lt;br&gt;이에 제주시와 서귀포시는 불법 주정차로 인한 교통 혼잡과 안전사고 예방 차원에서 대중버스인 ‘한라 눈꽃 버스’ 운행을 시작하면서 대대적인 주정차 단속을 실시했다.&lt;br&gt;&lt;br&gt;단속 구역은 1100고지 휴게소를 중심으로 제주시 방면 영실교까지 1.7㎞, 서귀포시 방면 영실 입구까지 4.4㎞, 제주시 어리목 입구 주변 0.3㎞ 구간이다.&lt;br&gt;&lt;br&gt;행정당국은 단속의 효율성을 높이기 위해 1100고지에서 제주시 방향으로 가는 길에도 고정식 단속 카메라를 추가 설치하기로 했다. 영실 입구에도 고정식 단속카메라를 설치하는 방안을 검토 중이다.&lt;br&gt;&lt;br&gt;제주·서귀포시 관계자는 “1100도로 주정차 위반 단속은 교통안전과 사고 예방을 위한 불가피한 조치”라며 “방문객은 가급적 대중교통을 이용해 달라”고 당부했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>이재명 측근 김용 ‘대선 경선 자금 불법 수수’ 2심도 징역 5년 </title>
