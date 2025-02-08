@@ -13,6 +13,27 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>MBC 故오요안나 사건 가를 핵심 쟁점, ‘프리랜서냐, 근로자냐’</title>
+      <link>https://www.chosun.com/national/labor/2025/02/08/XX4EEG4FJVDV7IVYKI2HH7OS6I/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/labor/2025/02/08/XX4EEG4FJVDV7IVYKI2HH7OS6I/</guid>
+      <dc:creator>곽래건 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 08 Feb 2025 08:52:13 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VLMHEI57VR754I3MAOFLMTPX5M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;MBC 기상캐스터로 일한 고(故) 오요안나씨. /출처=오요안나씨 인스타그램 계정&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;직장 내 괴롭힘 의혹이 일고 있는 MBC 기상캐스터 고(故) 오요안나(사망 당시 28세)씨에 대해 고용노동부가 사실 관계 확인에 나선 가운데, 오씨의 ‘근로자’ 여부가 핵심 쟁점으로 떠오르고 있다. 오씨가 사실상 임금 근로자인 것이 인정돼야만 근로기준법의 ‘직장 내 괴롭힘’ 규정을 적용할 수 있고, 정부도 정식 조사에 나설 수 있기 때문이다.&lt;br&gt;&lt;br&gt;고용노동부는 앞서 지난 4일 “MBC 측에 오씨의 고용 관계나 근무 형태 등을 알 수 있는 자료를 요청했다”고 밝혔다.&lt;br&gt;&lt;br&gt;1996년생인 오씨는 지난 2021년 5월 공개채용을 통해 MBC와 프리랜서 계약을 맺고 기상캐스터 일을 시작했다. 일반적인 직장인처럼 근로계약서를 쓰고 임금 근로자로 일한 것이 아니라 프리랜서 신분으로 회사와 사업 계약을 맺은 것이다. 오씨는 작년 9월 극단적 선택을 했고, 17장 분량의 유서를 남겼다. 유서에는 다른 기상캐스터 2명으로부터 직장 내 괴롭힘을 당했다는 내용이 담긴 것으로 알려져 있다.&lt;br&gt;&lt;br&gt;문제는 직장 내 괴롭힘은 현재 근로기준법에 내용이 들어가 있고, 피해자가 근로기준법상 ‘근로자’에 해당해야 적용된다는 점이다. 근로기준법은 근로자를 ‘임금을 목적으로 근로를 제공하는 자’로 규정하고 있다. 오씨는 MBC와 프리랜서 계약을 맺었기 때문에 형식상으로는 근로자가 아니고, 직장 내 괴롭힘 조항 적용 대상도 아니다. MBC도 지난달 28일 ‘MBC 흔들기’라는 표현이 담긴 입장문을 발표하며 “고인이 프리랜서로 일했다”고 밝힌 바 있다.&lt;br&gt;&lt;br&gt;그렇다고 해서 오씨가 진짜 프리랜서인지 아직 단언하기 어렵다. 겉으로는 프리랜서여도 실제로는 근로자처럼 일했다면 정부나 법원이 근로기준법상 근로자로 인정해 주기 때문이다. 지난해 12월 대법원은 프리랜서 아나운서 A씨가 KBS를 상대로 낸 민사소송에서 ‘A씨는 프리랜서가 아닌 KBS 직원’이라는 원심판결을 확정했다. 고용부도 지난 2021년 지상파 3사와 프리랜서 계약을 맺은 방송작가 152명을 근로자로 인정했다.&lt;br&gt;&lt;br&gt;방송업계에선 아나운서나 기상캐스터, 작가를 프리랜서 신분으로 만들어 계약하는 관행이 있다. 프리랜서는 근로기준법의 적용을 받지 않기 때문에 최저임금을 줄 필요도, 주 52시간제를 지킬 필요도, 퇴직금을 줄 필요도 없다. 연장·야간 근무 등에 대한 수당 할증 역시 적용되지 않는다. 국민연금·건강보험 등 4대보험 역시 가입해 줄 필요가 없다.&lt;br&gt;&lt;br&gt;고용부 서울서부지청은 MBC 측에서 받게 될 자료를 토대로 오씨가 프리랜서로 위장된 근로자인지 아닌지를 살펴볼 예정이다. 고용부 관계자는 “현재로선 오씨가 근로자인지 프리랜서인지 여부를 예단할 수는 없다”며 “핵심은 오씨가 MBC로부터 얼마나 종속적인 관계였고, MBC로부터 얼마나 지휘를 받았는지가 될 것”이라고 했다.&lt;br&gt;&lt;br&gt;한편, 정부와 국민의힘은 지난 7일 당정 협의를 열고 MBC에 대한 특별 근로 감독을 적극 검토하고, 프리랜서도 직장 내 괴롭힘으로부터 보호하는 이른바 ‘고(故) 오요안나법’을 만들기로 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>광주서 ‘尹 탄핵 반대’ 첫 집회… 매주 찬성 집회도 이어져</title>
+      <link>https://www.chosun.com/national/regional/2025/02/08/6RGCHLGFNJALNI2VSCJMIMALLM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/02/08/6RGCHLGFNJALNI2VSCJMIMALLM/</guid>
+      <dc:creator>조홍복 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 08 Feb 2025 09:02:15 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LKSYE37TEFM5PIQPU7AMQEUR5Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;8일 오후 광주 동구 금남로 일대에서 열린 윤석열 대통령 탄핵 반대 집회에서 참가자들이 탄핵 반대 거리 행진을 하고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 대통령 탄핵을 반대하는 집회가 광주광역시에서 처음 열렸다. 또 매주 토요일 탄핵 찬성 집회도 이어졌다.&lt;br&gt;&lt;br&gt;8일 광주 동구 금남로 일대에서는 보수 유튜버 안정권 씨가 탄핵 반대 집회를 열었다. 12·3 비상계엄 사태 이후 광주에서 처음으로 열린 반대 집회에는 50여명의 시민이 참석했다.&lt;br&gt;&lt;br&gt;집회 장소는 광주시의 5·18 민주광장 사용 불승인으로 인해 전일빌딩 245 인근으로 옮겨졌다. 참석자들은 ‘탄핵 남발이 내란이다’ ‘윤석열 대통령 탄핵 반대’ 등의 문구가 적힌 손팻말이나 성조기를 든 채 반대 구호를 외쳤다.&lt;br&gt;&lt;br&gt;서울에서 온 30대 남성 참석자는 “계엄은 대통령의 정당한 권한”이라며 “피를 흘리지 않은 계엄은 결코 내란이 될 수 없다”고 말했다. 집회 도중 참석자들은 5·18 민주광장 인근을 거쳐 집회 장소로 다시 돌아오는 거리 행진을 하기도 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MVKK7JJJUBOVBPNZKBXDZVJQ4Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;8일 오후 광주 동구 5·18 민주광장에서 윤석열정권 즉각 퇴진·사회대개혁 광주비상행동의 윤석열 대통령 탄핵 찬성 집회 참가자들이 구호를 외치고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;탄핵 찬성 집회도 열렸다. 이날 오후 5시 광주 동구 5·18 민주광장에서는 지역 170여개 시민·사회 단체로 구성된 ‘윤석열정권 즉각 퇴진·사회대개혁 광주비상행동’의 탄핵 찬성 집회가 진행됐다.&lt;br&gt;&lt;br&gt;비상계엄 사태 이후 토요일마다 열리는 광주시민 총궐기대회에는 수백 명이 참여해 ‘내란수괴 윤석열을 탄핵하라’ 등의 구호를 외쳤다. 개사한 케이팝 인기곡을 부를 때 일부 참석자는 미리 챙겨온 응원봉을 머리 위로 흔들며 호응했다.&lt;br&gt;&lt;br&gt;발언대에 오른 배영준 장애인차별철폐연대 상임활동가는 “윤 대통령을 탄핵해 무너진 민주주의를 회복해야 한다”고 말했다.&lt;br&gt;&lt;br&gt;비상행동은 이날 집회를 열기 전 보수 유튜버의 탄핵 반대 집회에 대한 성명을 냈다. 이들은 “민주주의 성지 광주에서 불법 계엄을 정당화하는 일부 극우주의자의 선동에 대해 분노를 표한다”며 “불법적인 내란 선동에 단호히 대응하고, 5·18 폄훼에 분명한 법적 책임을 묻겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/ICXHC4BUYZPS3NDMNMP7CXHLMI.jpg?width=4672&amp;height=2920&amp;auth=c97ad76b24373b4cf7668aee86999cba2d7e50d34b771c4b3543ebf593741d30&amp;smart=true" type="image/jpeg" height="2920" width="4672">
+        <media:description type="plain">[광주=뉴시스] 변재훈 기자 = 8일 광주 동구 금남로 2가 일대에서 보수 성향 유튜버가 윤석열 대통령 탄핵 반대 집회를 열고 있다. 2025.02.08. wisdom21@newsis.com</media:description>
+      </media:content>
+    </item>
+    <item>
       <title>동대구역 ‘尹 탄핵 반대 집회’에 2만5000명 모여</title>
       <link>https://www.chosun.com/national/national_general/2025/02/08/O43EKJ7SX5CFDGP7MEZFUBLKJM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/02/08/O43EKJ7SX5CFDGP7MEZFUBLKJM/</guid>
@@ -958,15 +979,6 @@
       <content:encoded>‘삼성바이오로직스(삼성바이오) 분식 회계’ 사건과 관련해 1·2심에서 모두 무죄를 선고 받은 이재용 삼성전자 회장에 대한 상고 여부를 논의하는 형사상고심의위원회(상고심의위)가 7일 오전 열렸다. 회의는 오전 중 종료돼, 법조계에선 이르면 이날 중 검찰이 상고 여부를 결정할 수 있다는 전망이 나온다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2VV4QRQYHBB4VFKNY6QI4ZVQPY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이재용 삼성전자 회장이 3일 오후 서울 서초구 서울고등법원에서 열린 '삼성바이오 분식 회계' 의혹 항소심 선고공판에서 무죄를 선고받은 후 법정을 나서고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 이 회장과 전현직 삼성 임원진에 대한 검찰 상고 여부를 논의하는 상고심의위가 이날 오전 10시쯤부터 서울고검 청사에서 열렸다. 심의위는 약 1시간 30분가량 이 회장과 최지성 전 삼성전자 미래전략실장 등 삼성바이오 분식 회계 사건 피고인 11명에 대한 상고 여부를 심의한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;형사상고심의위는 1‧2심이 피고인의 공소사실 전부를 무죄라고 선고한 사건을 검사가 상고하려고 할 때 문제가 없는지 심의하는 기구이다. 변호사, 교수 등 전문가 5명 이상이 출석해 심의하고, 검사는 사건에 대해 설명하거나 의견을 낼 수 있다. 이날 상고심의위엔 외부 위원 6명과 이 회장 사건 재판을 맡았던 검사들이 출석한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;수사팀은 외부 위원들을 상대로 이 회장 등에 대한 상고가 불가피하다고 주장한 것으로 전해졌다. 수사팀은 지난 3일 항소심에서 이 회장에게 무죄가선고 후 6일까지 판결문을 분석하고 대법원 판단을 다시 받는 게 좋겠다는 의견을 대검찰청에 냈고, 대검찰청도 이를 받아들인 것으로 전해졌다. 1심 선고 후인 작년 8월 ‘2015년 삼성바이오의 회계처리가 잘못됐다’고 한 서울행정법원 선고가 이번 형사재판 항소심에서 인정되지 않았고, 앞서 국정농단 재판에서 대법원이 ‘이 회장에게 경영권 승계작업이라는 현안이 있었다’고 한 판단이 1‧2심에 영향을 미치지 않은 만큼 상고할 필요성이 있다는 것이다.&lt;br&gt;&lt;br&gt;검찰은 과반수 의결로 정해지는 형사상고심의위 의견을 참고해 이 회장에 대한 상고 여부를 최종 결정할 것으로 보인다. 검사는 심의 결과를 최대한 존중해야 하지만 반드시 따를 필요는 없다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>오세훈, 김용 징역 5년에 “이재명 분신의 범죄는 곧 이재명 범죄”</title>
-      <link>https://www.chosun.com/national/regional/seoul/2025/02/07/I6MDJIVRIBCWJESHXQIDM4HCG4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/seoul/2025/02/07/I6MDJIVRIBCWJESHXQIDM4HCG4/</guid>
-      <dc:creator>김영우 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 07 Feb 2025 04:56:24 +0000</pubDate>
-      <content:encoded>이재명 더불어민주당 대표의 측근 김용 전 민주연구원 부원장이 지난 6일 항소심에서 실형을 선고받고 법정구속된 데 대해, 오세훈 서울시장이 “이 대표 분신의 범죄는 곧 이 대표 본인의 범죄”라고 말했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/X7362MKG4ZF23CXWOLYPFRP3OA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;오세훈 서울시장이 지난 2023년 1월 서울시청 청사 시장실에서 본지와 인터뷰하고 있다. /김지호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 오 시장은 페이스북에 ‘‘이재명 분신’의 범죄는 곧 ‘이재명 범죄’다’라는 제목의 글을 올리고 이같이 말했다.&lt;br&gt;&lt;br&gt;오 시장은 “이재명 대표가 ‘내 분신’이라고 칭한 김용 부원장이 2심에서도 징역 5년형을 선고받고 법정구속됐다”며 “대선 경선 과정에서 ‘이재명 분신’에 의해 오간 불법 자금이 다시 한번 확인된 것”이라고 했다.&lt;br&gt;&lt;br&gt;이어 오 시장은 “이 사건 판결문에는 ‘이재명’이라는 이름이 130차례나 등장한다. 사건의 중심에 누가 있는지 보다 명확해졌다”며 “분신의 범죄는 곧 본인의 범죄”라고 했다.&lt;br&gt;&lt;br&gt;다만 오 시장은 “이것은 거대한 범죄의 일부분일 뿐”이라며 “대장동·백현동 개발 특혜, 쌍방울 대북 송금 사건 등 이재명 대표를 둘러싼 더 태산 같은 범죄에 대한 재판이 진행 중”이라고 했다.&lt;br&gt;&lt;br&gt;오 시장은 이에 대해 “개발 비리, 조폭 연루, 북한까지도 정략적으로 이용했다는 범죄”라며 “그 하나하나가 공직자로서 도저히 용납될 수 없는 사안들”이라고 했다.&lt;br&gt;&lt;br&gt;또 오 시장은 “이미 핵심 측근들은 줄줄이 실형을 선고받았는데도, 정작 당사자는 결백을 주장하며 대통령이 되겠다는 극도의 후안무치를 보인다”며 “이런 중대 범죄 피고인을 ‘민주당의 아버지’라며 추앙하고, 극성 팬덤이 그를 추종하고 있는 이 풍경이 하나의 슬픈 코미디”라고 했다.&lt;br&gt;&lt;br&gt;그는 “눈 감고 귀 막으며 모른 척하고, 온갖 술수로 재판을 피해 다녀도 범죄가 사라지지는 않는다”며 “극성 지지자들의 광기를 업고 대한민국 제1야당을 이재명 개인의 ‘방탄 정당’으로 전락시킨 민주당은 이제 해체해야 마땅하다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ECKCEXPPKRCLBOENDDYOC6K2CY.png"&gt;&lt;figcaption&gt;&lt;small&gt;오세훈 서울시장이 7일 페이스북에 올린 글. /페이스북&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>오타니 뒷통수 친 前 통역사, 4년 9개월 구금에 240억원 배상 판결</title>
       <link>https://www.chosun.com/national/people/2025/02/07/ZLL22DAN4BBEBA4RNUVBBXJBP4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/people/2025/02/07/ZLL22DAN4BBEBA4RNUVBBXJBP4/</guid>
@@ -974,19 +986,6 @@
       <description/>
       <pubDate>Fri, 07 Feb 2025 04:52:11 +0000</pubDate>
       <content:encoded>미국 메이저리그(MLB) 슈퍼스타 오타니 쇼헤이(31·LA 다저스)를 사칭해 오타니의 계좌에서 약 246억원을 빼돌려 불법 도박을 벌인 전 통역사 미즈하라 잇페이가 7일 미 캘리포니아주 오렌지 카운티 고등법원에서 57개월의 구금형과 함께 오타니에게 1700만달러(약 246억원)를 배상하라는 판결을 받았다. 이날 미 스포츠 전문 매체 디애슬레틱은 “57개월 구금형은 오는 3월 24일부터 시작된다”며 “구금형이 끝나면 미즈하라는 일본으로 추방될 가능성이 높다”고 전했다. &lt;br&gt;&lt;br&gt;오타니가 MLB에 진출할 때부터 통역사를 맡은 미즈하라는 작년 초 MLB 서울시리즈 당시 오타니의 계좌에서 몰래 돈을 빼내 불법 스포츠 도박에 수백억원을 쓴 사실이 들통나 미 연방검찰에 기소됐다. 미즈하라는 범행 사실이 언론을 통해 밝혀지자 “오타니가 내 도박 빚을 알고 대신 갚아주었다”는 거짓말로 범행 은폐를 시도하기도 했다. 사실상 개인 매니저이자 절친한 친구로 미즈하라를 대했던 오타니는 미즈하라의 배신에 큰 충격에 빠졌다. &lt;br&gt;&lt;br&gt;미 연방검찰 수사 결과 미즈하라는 오타니의 계좌에 자신의 전화번호 등을 입력해 자신이 오타니인 척 행세하며 오타니의 돈을 자신의 계좌로 송금해 약 1700만달러를 빼돌려 불법 도박을 벌였다. 재판 과정에서 미즈하라 측은 청소년 시절부터 도박 중독에 시달렸고 범행 사실이 알려진 뒤 배달 기사 등도 할 수 없고 사생활도 유지할 수 없는 상태라며 감형을 호소했다. 이에 대해 미 연방검찰은 공소장에 “미즈하라는 젊은 시절부터 도박 중독에 빠지지 않았다”며 “미즈하라가 진정한 반성과 뉘우침보다 오타니 돈을 빼돌린 범행을 정당화하려 한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>경찰, 서부지법 난동 사태 총 107명 수사...추가 체포 4명 구속기로</title>
-      <link>https://www.chosun.com/national/2025/02/07/Q5ONXKHU7VBJ5FB4CYFFLFQPQM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2025/02/07/Q5ONXKHU7VBJ5FB4CYFFLFQPQM/</guid>
-      <dc:creator>주형식 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 07 Feb 2025 03:09:48 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JSVDP7V5EQDSIXUVAGSVGKBJWA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령에 대한 구속영장이 발부됐던 지난달 19일, 서울 서부지법에 지지자들이 진입해 난동을 부리고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰이 서울서부지법 난동 사태에 가담한 107명을 수사하고 있다고 7일 밝혔다.&lt;br&gt;&lt;br&gt;서울경찰청은 “서부지법 침입 등 불법행위와 관련해 66명을 구속했고 41명을 불구속 상태로 수사하고 있다”고 설명했다.&lt;br&gt;&lt;br&gt;서울청 형사기동대와 마포경찰서가 지난 4∼5일 체포한 4명에 대해선 이날 오후 서부지법에서 구속 전 피의자 심문(영장실질심사)이 열린다. 구속 기로에 놓인 피의자들 가운데는 난동 사태 당시 검은 복면을 쓴 채 법원에 난입해 기물을 파손한 혐의를 받는 20대 남성 A씨 등이 포함돼 있다. 경찰은 A씨 등에게 폭력행위처벌법상 공동건조물침입 혐의 등을 적용했다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “폐쇄회로(CC)TV와 유튜브 영상, 채증자료 분석 등을 통해 불법행위자를 특정해 계속 수사할 예정”이라고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/JSVDP7V5EQDSIXUVAGSVGKBJWA.jpg?width=4032&amp;height=3024&amp;auth=a4ba29b5bc92ad8b403aec2f35003ef66e629370c868dde42ccd1af6b818140e&amp;smart=true" type="image/jpeg" height="3024" width="4032">
-        <media:description type="plain">윤석열 대통령에 대한 구속영장이 발부됐던 지난달 19일, 서울 서부지법에 지지자들이 진입해 난동을 부리고 있다./뉴스1</media:description>
-        <media:credit role="author" scheme="urn:ebu">뉴스1 ⓒ News1 김민수 기자</media:credit>
-      </media:content>
     </item>
   </channel>
 </rss>
