@@ -13,6 +13,24 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>추운 날씨에 고속도로 이용객도 줄어</title>
+      <link>https://www.chosun.com/national/transport-environment/2025/02/08/MIKVKROGLRASRCXFX7PKQJ2VM4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/02/08/MIKVKROGLRASRCXFX7PKQJ2VM4/</guid>
+      <dc:creator>곽래건 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 08 Feb 2025 04:49:43 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DFCVASL3KZFANIUFGMYMGQDYFE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;8일 오후 1시 40분쯤 경부고속도로 달래내고개 부근. 평소 토요일보다 통행량이 줄었다./한국도로공사 CCTV 캡처.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;주말 내내 한파가 기승을 부리면서 고속도로 이용객도 크게 줄어들 것으로 보인다.&lt;br&gt;&lt;br&gt;8일 한국도로공사에 따르면 이날 전국 고속도로 교통량은 451만대 수준에 그칠 것으로 예상된다. 지난 주 토요일(464대)보다 13만대 줄었다. 한국도로공사는 “쌀쌀한 날씨에 평소 토요일보다 교통량이 줄어들 것”이라고 했다. 일요일인 9일 교통량도 370만대로 평소보다 적을 것으로 예상된다.&lt;br&gt;&lt;br&gt;8일 주요 대도시 요금소간 최대 예상 시간을 보면 서울-대전은 2시간 10분, 서울-부산은 5시간 10분, 서울-광주는 3시간 30분, 서울 강릉은 2시간 50분이 걸릴 것으로 예상된다.&lt;br&gt;&lt;br&gt;지방 방향은 정오가 가장 붐비며, 경부선과 영동선 등 주요 노선 위주로 다소 혼잡할 전망이다. 지방 방향 혼잡은 정오~오후 1시에 최대가 되고, 저녁 7시~8시에는 해소될 것으로 보인다.&lt;br&gt;&lt;br&gt;서울 방향은 오후 5시~6시에 혼잡이 최대가 되고, 저녁 8시~9시에 해소될 것으로 보인다. 경부선은 오후 4시에 가장 막히고, 영동선은 오후 6시 가장 막힐 전망이다.&lt;br&gt;&lt;br&gt;한국도로공사는 “당일 교통상황에 따라 실제 교통량은 다소 바뀔 수 있으며, 노선마다 차이가 있다”고 했다.&lt;br&gt;&lt;br&gt;한편 기상청은 “한반도 북서쪽에서 찬 공기가 내려오면서 당분간 기온이 평년보다 3~10도 낮아 강추위가 이어진다. 월요일인 10일까지 아침 기온이 전국 대부분 지역에서 영하 10도 이하로 떨어질 것”이라고 예보했다. 한파는 10일에도 이어지다 이후부터 기온이 차츰 오르면서 다소 누그러질 전망이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>尹측 "헌재, 증인신문 절차 진행에 급급… 방어권 제한 심각"</title>
+      <link>https://www.chosun.com/national/court_law/2025/02/08/Z3YEH2VAMNGTHINXEUD2OCNG5Q/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/02/08/Z3YEH2VAMNGTHINXEUD2OCNG5Q/</guid>
+      <dc:creator>방극렬 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 08 Feb 2025 04:04:51 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GCRC24KM7RLZZJACU5JLHEK54E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령이 6일 서울 종로구 헌법재판소 대심판정에서 열린 자신의 탄핵심판 6차 변론에 출석해 대리인단과 대화하고 있다. /사진공동취재단&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 대통령 측이 헌법재판소에서 진행되는 탄핵심판 증인 신문 절차가 졸속으로 부당하게 진행되고 있다고 주장했다.&lt;br&gt;&lt;br&gt;윤 대통령 대리인단은 8일 입장문을 통해 “헌재가 증인 신문 시간을 엄격히 제한해 방어권을 극도로 제한한 상태에서 절차가 진행되고 있다”며 “사실관계를 면밀히 따져봐야 할 헌재가 진실의 발견보다는 절차의 진행에만 급급한 모습”이라고 말했다.&lt;br&gt;&lt;br&gt;윤 대통령 측은 “(증인에 대한) 주신문과 반대신문은 각 30분, 이후 재주신문과 재반대신문은 각 15분으로 제한된다. 진실 공방이 오가고 진술이 이전과 확연히 달라지고 있어 더 질문할 필요가 있는데도 시간 제약으로 인해 더 사실을 확인할 수 없는 것”이라고 했다. 그러면서 “일부 증인의 경우 이러한 시간제한을 이용해 질문에 대해 장황한 답변을 하면서 시간을 끄는 모습까지 보인다”고 말했다.&lt;br&gt;&lt;br&gt;윤 대통령 측은 또 “주 2회 변론 기일을 진행하고 하루에 3명의 증인 신문을 하는 것 역시 정상적인 준비를 불가능하게 한다”며 “증인과 관련된 사실관계를 분석하고 반대신문을 준비하기 위해서는 증인 1명에 1주일 정도의 시간이 소요된다”고 주장했다.&lt;br&gt;&lt;br&gt;헌재는 5~6차 변론에서 증인 3명씩을 불러 신문했고, 오는 11일과 13일 열리는 7~8차 변론에서는 각각 증인 4명을 불러 신문할 예정이다. 윤 대통령 측은 “일반적인 법정에서 이뤄지는 증인 신문 절차와 너무 다르다”고 했다.&lt;br&gt;&lt;br&gt;대리인단은 또 “대한민국 법정에서 반대신문 사항을 하루 전에 제출하도록 강제하는 것은 헌재가 유일하다”며 “반대신문 사항이 하루 전에 공개돼 증인들은 상대방이 자신에게 무엇을 물어볼 것인지 예측해 대비하고 있다”고 주장했다. 윤 대통령 측의 질문이 사전에 헌재와 국회 측에게 전달돼, 증인들이 답변을 준비한다는 취지다.&lt;br&gt;&lt;br&gt;다만 헌재는 양측에 반대신문 사항을 동일하게 전달하고 있고, 증인에게는 공유하지 않는다는 입장이다.&lt;br&gt;&lt;br&gt;윤 대통령 측은 “헌법재판소의 졸속 심리와 증인 신문 과정에서 노출된 심각한 방어권의 제한은 헌재의 공정성에 대한 신뢰에 큰 우려를 갖게 한다”며 “공정성의 회복을 촉구한다”고 말했다.&lt;br&gt;&lt;br&gt;헌재는 오는 11일에는 이상민 전 행정안전부 장관, 신원식 국가안보실장, 백종욱 국가정보원 3차장, 김용빈 중앙선거관리위원회 사무총장을 증인으로 불러 신문한다. 그다음 변론 기일인 13일에는 조태용 국정원장, 김봉식 전 서울경찰청장, 조지호 경찰청장, 조성현 수도방위사령부 1경비단장에 대한 증인 신문이 진행될 예정이다.&lt;br&gt;&lt;br&gt;재판부는 아직 이후 변론 일정 계획을 밝히지 않은 상황이다. 한덕수 국무총리 등 추가 증인이 채택될 가능성도 있다. 최후 변론 절차 등을 고려하면 두세 차례 이상 기일이 추가될 전망이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>어제 새벽 잠 깨운 ‘지진 문자’, 왜 서울까지 발송됐나</title>
       <link>https://www.chosun.com/national/transport-environment/2025/02/08/IAQ5NHYR7BGE7JH4H65ZWGAFKM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/02/08/IAQ5NHYR7BGE7JH4H65ZWGAFKM/</guid>
@@ -962,15 +980,6 @@
       </media:content>
     </item>
     <item>
-      <title>합천 가야산 12.3cm 눈, 경남 함양·거창 3개 구간 도로 통제</title>
-      <link>https://www.chosun.com/national/2025/02/07/364GQHXDCRC5NHSSAP6R7UC4OM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2025/02/07/364GQHXDCRC5NHSSAP6R7UC4OM/</guid>
-      <dc:creator>창원=김주영 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 07 Feb 2025 01:41:15 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2LGWU3AANJOMNMVK5UEMFHPCVI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 6일 지리산국립공원 노고단(해발1507m) 일원이 하얗게 눈으로 덮여 장관을 이루고 있다. /지리산국립공원전남사무소&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;7일 경남 산청과 함양, 거창, 합천에 대설주의보가 내려진 가운데 이날 오전 7시 현재 합천 가야산은 12.3㎝의 적설량을 기록했다.&lt;br&gt;&lt;br&gt;기상청은 이날 오전 0시부터 산청, 함양, 거창, 합천에 대설주의보를 발효했으며, 현재 시간당 1~3㎝의 강하고 많은 눈이 내리고 있다. 대설주의보는 24시간 동안 5cm 이상의 눈이 내리면 발효된다.&lt;br&gt;&lt;br&gt;산청 지리산도 11.5㎝의 눈이 쌓였으며 거창(북상) 10㎝, 함양 4.1㎝, 하동 1.2㎝의 적설량을 보였다. 산청, 함양, 합천, 거창, 하동은 시가지에도 눈이 내려 제설 작업중이다.&lt;br&gt;&lt;br&gt;눈은 경남 서부 내륙 지역은 이날 오후 6시까지 내리고 이 외 지역은 낮 12시까지 내릴 것으로 예고됐다.&lt;br&gt;&lt;br&gt;함양과 거창의 3개 도로는 7일 오전 6시 30분부터 통제되고 있다. 통제 구간은 오도재(함양 마천면 구양리~휴천면 월평리), 원통재(함양 백전면 백운리~서하면 운곡리), 남령재(함양 서상면 상남리~거창군 북상면 월성리)다.&lt;br&gt;&lt;br&gt;대설주의보가 발효되면서 경남도는 7일 오전 0시부터 재난대책본부를 운영하면서 비상 1단계를 발령했다. 공무원과 보수원 등 186명과 제설차, 덤프트럭 등 장비 55대를 동원해 눈에 취약한 105개 구간 647.3km에 사전 제설제를 살포했다.&lt;br&gt;&lt;br&gt;대설이 예상되거나 도로결빙이 우려되는 지역에는 재난 문자를 발송했다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>대설로 전국 도로 20곳 통제…서울서는 한랭질환자 1명 나와</title>
       <link>https://www.chosun.com/national/national_general/2025/02/07/RSEDOZZO5JHONMP22BXAIIZ24A/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/02/07/RSEDOZZO5JHONMP22BXAIIZ24A/</guid>
@@ -978,15 +987,6 @@
       <description/>
       <pubDate>Fri, 07 Feb 2025 01:04:38 +0000</pubDate>
       <content:encoded>7일 오전 6시 기준 대설로 전국 도로 20곳이 통제되고 있는 것으로 나타났다. 서울에서는 한파로 한랭질환자 1명이 발생했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QIVVTXX6SZDU3CUXCDXJ75WOJA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 전역에 대설 주의보가 발효된 6일 종로구 경복궁 주변에서 관광객들이 눈 속을 걷고 있다. /김지호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;행정안전부 중앙재난안전대책본부에 따르면, 이날 오전 5시 기준 경기·강원·충북·충남·경북·대전·세종·전남·인천·광주·경남·전북 등 전국 곳곳에 대설주의보가 내려져 있다.&lt;br&gt;&lt;br&gt;지난 24시간 동안 눈이 가장 많이 내린 곳은 전북 전주로, 14.5㎝의 적설량을 기록했다. 그 뒤를 전북 김제(12.9㎝), 전북 진안(10.6㎝) 등이 이었다. 인천에도 지난 24시간 동안 8.2㎝의 눈이 내렸다.&lt;br&gt;&lt;br&gt;대설로 인한 인명 피해는 잠정적으로 없는 것으로 집계됐다. 중대본 관계자는 “구조나 안전 조치 등 소방 출동은 209건 있었지만, 인명 피해로 이어지지는 않았다”고 말했다.&lt;br&gt;&lt;br&gt;대설로 전남 5곳, 전북·제주·충남 각 4곳 등 전국 도로 20곳이 통제되고 있으며, 바다에는 풍랑특보가 함께 내려져 54개 항로 총 67척의 배가 통제됐다.&lt;br&gt;&lt;br&gt;한편, 연일 이어지는 한파에 지난 6일 서울에서 한랭 질환자가 1명 발생한 것으로 나타났다. 지난해 12월부터 이날까지 서울에서는 총 27명의 한랭 질환자가 발생했다.&lt;br&gt;&lt;br&gt;밤새 계량기 동파도 이어졌다. 7일 서울시에 따르면, 전날 오후 4시부터 이날 오전 4시까지 서울 시내에서 계량기 동파 29건이 발생했다. 서울시 관계자는 “복구는 모두 완료됐다”고 말했다.&lt;br&gt;&lt;br&gt;서울시는 서울 전역에 한파특보가 발효된 지난 3일부터 비상근무 52개 반 180명, 순찰 인원 172명 등을 동원해 한파 상황실을 운영하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>67년 만의 민법 전면 개정 추진…법정이율 변동제 도입</title>
-      <link>https://www.chosun.com/national/court_law/2025/02/07/ARUVU52JM5AUVAQDJPQDRHXOYE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/02/07/ARUVU52JM5AUVAQDJPQDRHXOYE/</guid>
-      <dc:creator>유희곤 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 07 Feb 2025 01:21:45 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FMIKU47EYKGMSS6GOW7EZGE2SI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기도 과천 법무부 청사 전경. / 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;법무부가 1958년 제정된 후 가족법(친족편)을 제외하면 거의 바뀌지 않은 민법을 전면 개정하기로 하고 7일 민법 개정안을 입법예고했다.&lt;br&gt;&lt;br&gt;법무부의 이번 개정안은 민법 총 4편(총칙·물권·채권·친족) 중 친족편을 제외한 민법 전(前) 3편 중 계약법을 첫 번째 과제로 선정하고 이번에 200여 개 조항에 대한 개정안을 마련했다.&lt;br&gt;&lt;br&gt;우선 법정이율을 고정형에서 변동형으로 도입하는 내용을 담았다(제379조 개정). 현재는 다른 법률의 규정이나 당사자 간 약정(계약)이 없으면 연 5푼(%)으로 정해져 있는데, 법정이율이 고정돼 있어 경제 사정을 제대로 반영하지 못한다는 지적이 있었다. 이에 법무부는 법정이율을 한국은행 기준금리, 시장 이율, 물가상승률, 그 밖의 경제 사정의 변동을 고려해 대통령령으로 정하도록 하는 내용의 개정안을 마련했다. 다만 이는 당사자 간 계약이 없거나 다른 법률에서 정한 규정이 없을 때에 해당한다.&lt;br&gt;&lt;br&gt;이른바 ‘가스라이팅’으로 불리는 관계에서 발생한 의사표시를 취소할 근거도 새로 마련했다(제110조의2 신설). 현재는 사기나 강박(강요)에 의한 의사표시는 취소할 수 있다는 규정(제110조)만 있어서 종교 지도자와 신도, 간병인과 환자 등 어느 한쪽이 심리적으로 취약한 관계에 대해서는 보호가 어렵다는 한계가 있었다. 법무부는 ‘심리적 의존 상태 또는 긴밀한 신뢰 관계’에서 ‘부당한 간섭’에 따라 나온 의사표시는 취소할 수 있도록 규정을 새로 만들기로 했다. &lt;br&gt;&lt;br&gt;또한 법무부는 계약 후 중대한 사정 변경이 있으면 계약 내용을 수정할 수 있다는 조항도 신설하겠다고 했다(제538조의2 신설). 현재는 중대한 사정 변경 후 계약을 해제하거나 해지할 수 있다는 게 판례로만 정립돼 있다. 앞으로는 당사자가 사정 변경을 이유로 계약 수정을 청구할 수 있고 수정이 어려우면 해제·해지할 수 있다는 법 조항을 명문화한다는 것이다.&lt;br&gt;&lt;br&gt;이 밖에 법무부는 계약(채무)을 이행할 수 없거나(이행불능), 이행을 늦게 할 경우(이행지체)뿐 아니라 계약에 따른 채무를 완벽히 하지 않았을 때(불완전이행)에도 채권자와 채무자가 민법 적용을 받을 수 있도록 채무불이행 조문을 수정하기로 했다.&lt;br&gt;&lt;br&gt;입법예고 기간은 오는 3월 19일까지이다. 법무부 관계자는 “각계의 다양한 의견을 폭넓게 수렴하고, 법제처 심사 및 차관·국무회의 등 개정 절차를 진행해 올 상반기 중 개정안을 국회에 제출할 예정”이라고 말했다. 이어 “이번 ‘계약법’ 개정을 시작으로, 지속적으로 민법 전반에 대한 개정 작업을 진행해 국민이 쉽고 편리하게 쓸 수 있는 민법을 만들겠다”고 했다.&lt;br&gt;&lt;br&gt;앞서 법무부는 민법 전면 개정 추진을 위해 2023년 6월 양창수 전 대법관을 위원장으로 하는 민법개정위원회를 출범시켜 개정안을 마련해왔다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
