@@ -13,6 +13,100 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>어제 새벽 잠 깨운 ‘지진 문자’, 왜 서울까지 발송됐나</title>
+      <link>https://www.chosun.com/national/transport-environment/2025/02/08/IAQ5NHYR7BGE7JH4H65ZWGAFKM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/02/08/IAQ5NHYR7BGE7JH4H65ZWGAFKM/</guid>
+      <dc:creator>곽래건 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 08 Feb 2025 02:58:37 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JUMCXGHTYFE7FBOVLEQNAZZZQU.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=조선디자인랩 이연주&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 7일 새벽 2시 35분쯤 서울, 경상도 등 여러 지역에 ‘지진 긴급 재난 문자’가 발송됐다. 충북 충주시 북서쪽 22km 떨어진 지점에서 규모 3.1의 지진이 발생했기 때문이다.&lt;br&gt;&lt;br&gt;별다른 피해는 없는 것으로 알려졌지만, ‘삐삐’하고 울리는 문자 경보에 많은 시민들이 밤잠을 설쳤다. 경기도에 사는 박모(43)씨는 “한밤중에 갑자기 휴대폰 경고음이 울려서 깜짝 놀라 깼다”며 “우리 집에선 흔들림을 전혀 느낄 수 없었는데, 문자가 왜 온 지 모르겠다”고 말했다.&lt;br&gt;&lt;br&gt;이날 지진은 발생 2초 뒤인 새벽 2시 35시 36초에 충주 앙성 지진관측소에서 처음으로 관측됐고, 불과 5초 뒤인 2시 35분 41초에 재난문자가 발송됐다. 발송 지역은 서울·강원·경기·경남·경북·대구·대전·세종·인천·전북·충남·충북 등이다.&lt;br&gt;&lt;br&gt;기상청은 지진 규모에 따라 어느 지역까지 재난 문자를 보낼 것인지 기준을 정해놓고 있다. 지진은 발생하면 ‘P파’와 ‘S파’의 파동을 내보낸다. P파가 S파보다 더 빠르게 도착하기 때문에, 기상청은 P파를 기준으로 재난문자를 보낸다.&lt;br&gt;&lt;br&gt;P파를 기준으로 자동 분석된 이날 지진 규모는 4.2였다. 이 경우 ‘예상 진도Ⅱ' 이상에 해당하는 시군구에 문자가 발송된다. 예상 진도Ⅱ는 조용한 상태나 건물 위층에 있는 소수 사람만 느낄 수 있는 정도다. 지진 영향이 이보다 더 강할 것으로 예상되는 지역에 문자가 자동 발송된 것이다.&lt;br&gt;&lt;br&gt;그런데 이후 도착한 S파를 지진분석관이 정밀 분석한 결과 이날 지진 규모는 자동 분석치보다 1.1 낮은 3.1에 그쳤다. 지진조기경보시스템과 지진분석관 분석은 통상 0.3 정도의 차이를 보이는데, 지진 진앙지와 관측 지점이 가까워 규모 차이가 컸다. 이 규모로 계산하면 서울은 문자 발송 지역이 아니다. 결과적으로 서울은 받지 않아도 될 재난 문자를 받은 것이다.&lt;br&gt;&lt;br&gt;기상청은 ‘자동 분석과 정밀 분석 간 차이가 발생하는 것은 어쩔 수 없는 측면이 있고, 정밀 분석 전 문자 발송은 안전을 위해 꼭 필요하다’는 입장이다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>온라인서 ‘헌재 폭동’ 모의 정황…경찰, 작성자 추적</title>
+      <link>https://www.chosun.com/national/national_general/2025/02/08/JA5PKVQIBJD4XOKAD2P4V3LKAA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/02/08/JA5PKVQIBJD4XOKAD2P4V3LKAA/</guid>
+      <dc:creator>구동완 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 08 Feb 2025 02:46:20 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3CKIYMD2DBHWJKUORDLIMITK4E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 종로구 헌법재판소 전경. /전기병 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울서부지법 폭력난동 사태 직전 불법행위를 사전 모의했다는 의혹이 제기된 온라인 커뮤니티 이용자들이 이번에는 헌법재판소 난동을 모의한 정황이 포착돼 경찰이 수사에 나섰다.&lt;br&gt;&lt;br&gt;서울 영등포경찰서는 전날 디시인사이드 ‘미국정치 갤러리’(미정갤)에 헌재에서의 폭력행위를 사전 모의하는 글이 다수 올라오고 있다는 신고를 받고 작성자들을 추적하고 있다고 8일 밝혔다.&lt;br&gt;&lt;br&gt;한 커뮤니티 이용자는 7일 오전 3시쯤 “헌재 주변 탐색하고 왔다”며 헌재 안팎 곳곳의 사진과 함께 ‘답사 인증 글’을 남겼다. 이 작성자는 “헌재는 주변 담벼락도 낮고 마음만 먹으면 넘어가기는 쉬울 것 같긴 하다”며 “(경찰이 막으면) 근처 식당이 많으니까 카페 간다고 하거나 북촌에 놀러온 척하라”고 적었다.&lt;br&gt;&lt;br&gt;또 다른 이용자는 ‘헌재 시위 가능한 장소 확인’이라는 제목의 글에서 헌재 전층의 내부 평면도를 공유하기도 했다. 이 외에도 경찰 차벽을 뛰어넘을 사다리와 야구방망이 등을 준비했다는 글이 다수 올라왔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/N25YVHSG5FGXPK4VCBXGJY6PFQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;디시인사이드 미국 정치 갤러리에 올라온 헌법재판소 평면도. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;헌재가 지정한 윤석열 대통령 탄핵심판 마지막 변론기일인 오는 13일을 ‘초코퍼지 입고일’이라고 칭한 글은 이날 오전까지 160여명의 추천을 받았다. 작성자는 “입고 위치는 헌재 앞이다. 입고 수량 넉넉하니 많이 찾아달라”고 적었다. ‘초코퍼지’는 빙과류 명칭이지만, 실제 의미는 2013년 개봉한 미국 영화 ‘더 퍼지’와 관련된 것으로 보인다.&lt;br&gt;&lt;br&gt;해당 영화는 법의 통제가 사라지고 살인과 성폭행 등 모든 불법행위가 용인되는 국가공휴일인 ‘퍼지데이’에 12시간 동안 벌어지는 이야기를 담고 있다. 한 작성자는 “퍼지데이가 무슨 문제 있느냐. 미정갤이 가장 바라마지않던 그날 아니냐”며 “화교 척살의 그날, 우리 손으로 척살하는 날”이라고 적었다.&lt;br&gt;&lt;br&gt;앞서 미정갤에는 지난달 16일부터 서부지법의 담벼락 높이와 후문 출입로 등 진입 경로를 분석한 글이 올라왔다. 윤 대통령의 구속 전 피의자 심문(영장실질심사)이 임박한 17∼18일 사이에는 경찰 배치 상황과 고위공직자범죄수사처(공수처) 차량의 차종·번호 등을 실시간으로 공유하며 폭력 행위를 선동하는 글이 게시되기도 했다.&lt;br&gt;&lt;br&gt;경찰은 지난달 31일 이들 글을 작성한 성명불상의 디시인사이드 이용자들에 대한 진보당 전국대학생위원회 준비위원회의 고발을 접수하고 수사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>오세훈 “민주당 ‘대한민국 성장전략’ 모순 가득”… “기업 강조=정치 구호”</title>
+      <link>https://www.chosun.com/national/regional/2025/02/08/ZZN6ODF3IFGM7MHJYEETQXRVPQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/02/08/ZZN6ODF3IFGM7MHJYEETQXRVPQ/</guid>
+      <dc:creator>조홍복 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 08 Feb 2025 02:29:58 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WAZ62R274RGK5BTM64BK2BGIVA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;오세훈 서울시장./김지호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;오세훈 서울시장은 8일 “더불어민주당의 ‘대한민국 성장 전략’은 모순으로 가득 차 있다”며 “이재명 대표와 닮았다는 생각을 지울 수가 없다”고 말했다. 오 시장은 이날 올린 페이스북 글에서 “성장 전략이라기보다 온갖 좋아 보이는 것을 모아 놓은 정치적 구호에 가깝다”고 했다.&lt;br&gt;&lt;br&gt;그는 “민주당은 불과 얼마 전까지 기업 지원을 ‘초부자 대기업 지원’이라며 반대하던 정당”이라며 “선거를 앞두고 갑자기 경제 성장과 기업 지원을 강조하고 있다”고 밝혔다.&lt;br&gt;&lt;br&gt;오세훈 시장은 민주당의 성장 전략에 대해 “성장의 열쇠가 미국 빅테크 같은 기업이라고 말하면서 한국은 정부가 인공지능(AI) 국립 연구소를 설립하고 인재를 직접 유치해야 한다고 한다”며 “한미 자유무역협정(FTA)을 비롯한 FTA 모델을 비판하면서 글로벌 협력과 네트워크, 해외 투자 유치는 강조한다”고 말했다.&lt;br&gt;&lt;br&gt;이어 “정부 주도의 경제 컨트롤타워도 강조한다. (그러나) 국가가 직접 연구소를 운영하며 산업을 통제하면서 동시에 기업 주도의 혁신 생태계를 만들 수는 없다”고 했다. 또 노동정책에서도 노동시장을 유연화하면서 동시에 고용 안정성을 강화하겠다고 한다”면서 “이 모두가 ‘차가운 불꽃’을 만들겠다는 말이나 다름없다”고 말했다.&lt;br&gt;&lt;br&gt;오 시장은 “성장은 기업과 기술 발전으로 가능하다. 누구든 성장론의 대열에 동참하는 것은 환영한다”며 “그러나 진심 없이, 뚜렷한 방향성 없이 ‘위장 성장론’을 외치는 것으로는 아무것도 이룰 수 없다”고 말했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“영원히 사랑해”... 구준엽이 故서희원에게 전한 한 마디</title>
+      <link>https://www.chosun.com/national/people/2025/02/08/XUEDB7EOIRAFXDBJVWPLEX7D6E/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/02/08/XUEDB7EOIRAFXDBJVWPLEX7D6E/</guid>
+      <dc:creator>이혜진 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 08 Feb 2025 02:07:34 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/633YRSIGTFAMRIGGZ6HOAZG6JU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;고(故) 서희원(왼쪽), 구준엽. /인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“영원히 사랑해.” 아내 故(고) 서희원과 사별한 구준엽이 짧게 남긴 한 마디다.&lt;br&gt;&lt;br&gt;구준엽은 8일 자신의 인스타그램에 “영원히 사랑해”라는 문구와 함께 슬픈 선율의 피아노 연주곡을 게시했다. 이는 고인이 된 아내를 향한 그리움을 표현한 것으로 보인다. 강원래의 아내 김송은 해당 게시물에 “오빠가 치는 거구나”라고 댓글을 남겼다.&lt;br&gt;&lt;br&gt;강원래는 같은날 자신의 인스타그램을 통해 아내 서희원을 잃은 구준엽과 나눈 메시지를 공개했다. 강원래는 지난 4일 구준엽에게 “무슨 말이 위로가 되겠냐. 마음 잘 추스르고 건강 잘 챙겨라”라는 카카오톡 메시지를 보냈다. 이에 구준엽은 “고마워 원래야. 잘 견뎌볼게. 통화하면 울 것 같아서 그냥 카톡 보낸다”라고 답했다. 강원래는 “준엽이 만나면 함께 많이 울 것 같습니다. 건강 잘 챙기길 바랄 뿐입니다”라며 오랜 친구의 슬픔에 공감했다. 클론으로 함께 활동했던 구준엽과 강원래는 1985년 고등학교 1학년 시절 처음 만나 40년간 우정을 이어온 친구 사이로 알려졌다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LNS2EHNWSZEEDP4QXLAV3GNCZM.png"&gt;&lt;figcaption&gt;&lt;small&gt;강원래와 구준엽이 주고 받은 카카오톡 메시지. /인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서희원의 전 매니저는 6일 소셜미디어를 통해 서희원의 죽음 이후 제기된 각종 루머들을 해명했다. 그는 “구준엽은 서희원의 편에 서서 아이들을 보호하려는 사람”이라며 “누군가 루머를 퍼트릴 동안 우리는 조용히 슬퍼하고 있다”고 밝혔다. 그는 구준엽이 4600만위안(약 91억원)상당의 서희원 사망보험에 가입했다는 설과 서희원의 동생이 언니의 죽음을 축하했다는 등의 루머를 모두 사실이 아니라고 반박했다. 또 서희원의 전 남편 왕소비가 유골을 대만으로 가져가기 위해 전세기를 대여했다는 소문도 허위라면서 “그가 한 일이라고는 일부러 운전 기사에게 기자들 앞에 내려달라고 한 뒤 빗속을 30분 동안 걷는 장면을 연출한 것뿐”이라고 했다.&lt;br&gt;&lt;br&gt;앞서 서희원은 지난 2일 가족들과 일본 여행을 하던 중 독감에 의한 폐렴 합병증으로 세상을 떠났다. 자유시보 등에 따르면 구준엽은 5일 아내의 유해를 품에 안고 대만에 돌아왔다. 구준엽은 아내가 남긴 유산과 관련해 자신의 몫에 대한 권리는 장모에게 넘길 것이며, 자녀들의 몫은 변호사를 통해 성인이 될 때까지 보호하도록 법적 조치를 취하겠다고 밝힌 바 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[단독] 아파트서 30대 아들이 어머니 살해... “평소 정신질환 앓아”</title>
+      <link>https://www.chosun.com/national/national_general/2025/02/08/LZHWNI4HXBEU5OEDJOCI6ZX6UM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/02/08/LZHWNI4HXBEU5OEDJOCI6ZX6UM/</guid>
+      <dc:creator>구동완 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 08 Feb 2025 01:36:32 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4BOXEZGCWTTBIBF7BYZYZOQOKY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 동작경찰서. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 동작구 흑석동의 한 아파트에서 아들이 60대 모친을 흉기로 찔러 숨지게 한 사건이 발생했다.&lt;br&gt;&lt;br&gt;서울 동작경찰서는 30대 남성 A씨를 살인 혐의로 현행범 체포했다고 8일 밝혔다. A씨는 7일 오후 7시 53분쯤 주방에 있던 가위로 어머니 B씨의 목 부위를 찔러 살해한 것으로 나타났다.&lt;br&gt;&lt;br&gt;당시 “아내가 숨을 안 쉰다”는 남편의 신고를 받고 소방 당국이 출동했지만 B씨는 이미 숨을 거둔 상태였다고 한다. 현장에는 사망한 B씨의 주변에 주방 가위가 놓여있었던 것으로 파악됐다.&lt;br&gt;&lt;br&gt;경찰은 A씨를 현장에서 검거했다. 유족 측은 A씨가 10여년 전부터 정신질환을 앓아 약물치료를 받고 있었다고 경찰에 진술한 것으로 확인됐다. A씨는 운수업에 종사하는 직장인이며, 일상적인 대화도 가능한 수준이라고 한다.&lt;br&gt;&lt;br&gt;경찰은 오늘 중으로 검찰에 구속 영장을 신청하고 자세한 사건 경위를 조사할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>234명 성착취 ‘목사방’ 총책 신상공개…33살 김녹완</title>
+      <link>https://www.chosun.com/national/national_general/2025/02/08/YBED437NG5HLNOCDSOBCTTYZGI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/02/08/YBED437NG5HLNOCDSOBCTTYZGI/</guid>
+      <dc:creator>구동완 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 08 Feb 2025 00:20:44 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YWVK6IS2ORBHTGIKL2Y36BYJAA.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=조선디자인랩 김영재&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;텔레그램으로 피해자를 포섭해 성 착취물을 제작, 유포하는 등 ‘자경단’이라는 이름의 사이버 성폭력 범죄조직을 운영한 김녹완(33)의 신상이 공개됐다.&lt;br&gt;&lt;br&gt;서울경찰청은 8일 누리집에 김씨의 이름과 나이, 사진을 공개했다. 김씨의 신상 정보는 내달 10일까지 약 한 달간 공개된다.&lt;br&gt;&lt;br&gt;자신을 ‘목사’라 칭한 김씨는 2020년 5월부터 올해 1월까지 약 5년간 남녀 234명에 대해 성착취범죄를 저지른 혐의를 받고 있는데, 이 같은 피해자 수는 2019∼2020년 조주빈(29)이 아동·청소년 성 착취물을 제작·유포한 이른바 텔레그램 ‘박사방’ 사건의 피해자 73명의 3배가 넘는다. 자경단 피해자들은 김씨의 협박과 심리적 지배 등을 통해 성폭행을 당한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;앞서 경찰은 지난달 22일 신상정보 공개심의위원회를 열었고, 잔인성과 피해의 중대성 등을 고려해 정보 공개를 결정했다. 김씨는 여기에 불복해 집행정지를 신청했지만 서울행정법원은 이를 기각했다.&lt;br&gt;&lt;br&gt;김씨는 구속 상태로 지난달 24일 검찰에 넘겨졌다. 목사방의 조직원은 김씨를 포함해 총 14명으로, 가장 어린 조직원은 15세인 것으로 나타났다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/NIN2CM26F5EP7J7ZFPSCHOSHTI.jpg?width=237&amp;height=178&amp;auth=779de46b44b3acf393dfd3df53dfabb6cc9a4e6fdc66faca4345c96fcfbb1e9a&amp;smart=true" type="image/jpeg" height="178" width="237">
+        <media:description type="plain">자경단 총책 김녹완의 머그샷. /서울경찰청</media:description>
+        <media:credit role="author" scheme="urn:ebu"/>
+      </media:content>
+    </item>
+    <item>
+      <title>집트랙 이용객, 8m 추락 사망… “결과 끔찍”, 부실 운영자들 금고형</title>
+      <link>https://www.chosun.com/national/regional/2025/02/08/SDSVDT5VS5G4FKDPIUVKEU7HJE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/02/08/SDSVDT5VS5G4FKDPIUVKEU7HJE/</guid>
+      <dc:creator>조홍복 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 08 Feb 2025 01:02:06 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VGMATE2UYHJZ5GBIZD6HDTWGKQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;춘천지법 전경./조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;4년 전 ‘집트랙’(Ziptrack)을 타다가 레일이 끊겨 발생한 이용객의 사망사고와 관련해 합리적인 기준 없이 시설을 설계·제작한 업체 대표와 추락 방지용 안전 그물망을 설치하지 않은 레저시설 운영 업체 대표가 2심에서 나란히 처벌받았다.&lt;br&gt;&lt;br&gt;춘천지법 형사2부(부장판사 김성래)는 업무상과실치사 혐의로 기소된 A(52)씨에게 금고 1년 4개월을, B(62)씨에게 금고 1년에 집행유예 3년을 선고했다고 8일 밝혔다. &lt;br&gt;&lt;br&gt;항소심 재판부는 “국립과학수사연구원 감정 결과를 토대로 시공상 과실이 있다”며 “거제도에서도 집트랙을 운영하는 A씨가 이전에도 사업장에서 유사한 사고를 경험한 뒤로 시설을 보수·관리하고 있었다는 점에서 충분히 사고를 피할 수 있었을 것으로 판단했다”고 밝혔다.&lt;br&gt;&lt;br&gt;공소사실에 따르면 2021년 11월 7일 낮 12시 30분쯤 강원 평창군 한 리조트에서 집트랙을 이용하던 C(37)씨가 브래킷 파손으로 인해 레일이 끊기며 7.7ｍ 아래 바닥으로 떨어져 숨졌다.&lt;br&gt;&lt;br&gt;조사 결과 A씨는 집트랙에 사용된 자재가 하중을 얼마나 견딜 수 있는지, 구조나 자재가 기후나 풍향에 적합한지, 부식·손상·마모 가능성 등 구조계산과 검토 없이 시공했다. 공사 난도가 높아지고 기간이 늘어날 것을 우려해 안전성을 담보할 수 있는 방법으로 시공하지 않았다.&lt;br&gt;&lt;br&gt;B씨는 A씨가 구조설계나 검토하지 않았다는 사실을 알고도 안전성 여부를 확인하지 않고 집트랙을 인수했고, 집트랙 부지에 눈썰매장을 운영하고 있다는 이유로 추락 방지용 안전 그물망을 설치하지 않았다.&lt;br&gt;&lt;br&gt;업무상과실치사 혐의로 재판에 넘겨진 A씨와 B씨에게 1심은 각각 금고 2년 6개월과 금고 2년의 실형을 내렸다. 앞서 1심을 맡은 춘천지법 영월지원은 “피고인들은 지켜야 할 안전상 주의의무를 다하지 못하는 등 중대한 과실을 일으켜 이용객이 사망하는 끔찍한 결과를 초래했다”고 말했다.&lt;br&gt;&lt;br&gt;집트랙은 공중에서 줄에 매달려서 하강하는 체험을 하는 시설이다. 빠르게 이동하며 속도와 스릴을 즐긴다. 운영업체에 따라 집트랙, 집라인, 집코스터 등으로 불린다. 시설마다 국내 최장 길이, 국내 최고 높이를 자랑하지만 이용객은 안전모만 갖춘 채 외줄에 몸을 맡겨야 해서 위험성이 있다는 지적이 끊이지 않는다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>주말 내내 한파...서울 체감온도 영하 16.5도</title>
+      <link>https://www.chosun.com/national/transport-environment/2025/02/08/VRL44IT4HNHH3BX6LEO7UJRI4Y/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/02/08/VRL44IT4HNHH3BX6LEO7UJRI4Y/</guid>
+      <dc:creator>곽래건 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 08 Feb 2025 00:37:56 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WQGFRJAY5NBZVKICJATEP34FWE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한파가 기승을 부린 지난 7일 오후 서울 강동구 광진교 주변 한강에 얼음이 떠 있다. /장련성 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;체감온도가 서울 영하 16.5도, 대관령은 영하 30도 안팎까지 떨어지는 등 주말에도 한파가 기승을 떨칠 전망이다.&lt;br&gt;&lt;br&gt;기상청은 8일 “한반도 북서쪽에서 찬 공기가 내려오면서 당분간 기온이 평년보다 3~10도 낮아 강추위가 이어진다”며 “월요일인 10일까지 아침 기온이 전국 대부분 지역에서 영하 10도 이하로 떨어진다”고 예보했다. 바람도 강하게 불어 체감온도는 더 낮아 매우 춥게 느껴질 전망이다. 서울은 이날 오전 10시 기준 기온은 영하 9도지만 체감 온도는 영하 13도 안팎까지 내려가는 것으로 예보됐다.&lt;br&gt;&lt;br&gt;이날 낮 최고 기온은 영하 4도~3도 수준으로 예보됐다. 서울은 영하 2도, 인천은 영하 3도, 부산 영상 3도 등이다.&lt;br&gt;&lt;br&gt;수도권 전 지역에는 한파특보가 발효된 상태다. 서울의 경우 현재 동북권은 한파경보가, 동북권을 제외한 다른 지역은 한파주의보가 발령됐다. 낮 최고기온은 영하 8도에서 영상 3도 사이를 기록할 것으로 보인다.&lt;br&gt;&lt;br&gt;일요일인 9일도 한파가 계속된다. 아침 최저기온은 영하 15도~영하 3도, 낮 최고기온은 2~6도로 예보됐다. 전국 대부분 지역에서 낮 기온이 영하로 떨어진다. 강원 철원과 화천은 최저기온이 영하 15도까지 떨어진다.&lt;br&gt;&lt;br&gt;일부 지역에서는 눈이나 비가 내릴 전망이다. 주말 사이 전북 서해안과 광주, 전남 서부 등에는 3~8cm, 전북 남부 내륙에는 1~5cm, 제주도는 3~8cm 가량 눈이 쌓일 것이라고 기상청은 내다봤다.&lt;br&gt;&lt;br&gt;한파는 월요일에도 이어지다 이후부터 기온이 차츰 오르면서 평년 기온을 회복할 것으로 보인다.&lt;br&gt;&lt;br&gt;기상청은 “면역력이 약한 노약자와 어린이는 가급적 야외활동을 자제하고 건강 관리에 유의해야 한다”고 당부했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>사고 난 승용차, 뒤따르던 고속버스와 ‘2차 추돌’… 1명 사망</title>
+      <link>https://www.chosun.com/national/regional/2025/02/08/AJRAZYKFOZEONKAII4UHW2CNCY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/02/08/AJRAZYKFOZEONKAII4UHW2CNCY/</guid>
+      <dc:creator>조홍복 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 08 Feb 2025 00:34:37 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/I6O636CYNMP7WGOXDPZ3TQFPQQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;기사 내용과 무관한 사진. 지난 7일 오후 전남 무안군 현경면 무안광주고속도로에서 8중 추돌 사고가 발생해 소방당국이 조치를 취하고 있다./전남소방본부 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;고속도로에서 사고가 난 후 멈춰있던 승용차를 뒤따르던 버스가 들이받는 2차 사고가 발생해 1명이 숨지고 2명이 다쳤다.&lt;br&gt;&lt;br&gt;8일 충남경찰과 소방당국 등에 따르면 이날 오전 0시 38분쯤 충남 천안시 동남구 부근 경부고속도로 상행선(320.2㎞ 지점)에서 1차로에 멈춰 선 승용차를 뒤따르던 버스가 추돌했다. &lt;br&gt;&lt;br&gt;119 구급대가 심정지 상태의 승용차 운전자인 40대 남성을 병원으로 옮겼지만, 이 남성은 숨졌다. 버스에 탑승한 4명 가운데 찰과상을 입은 2명도 인근 병원으로 이송해 치료받았다고 경찰은 밝혔다.&lt;br&gt;&lt;br&gt;이날 사고는 승용차가 고속도로 중앙분리대와 갓길 가드레일을 들이받고 1차로에 멈춰 선 후 뒤따르던 버스가 승용차와 운전자를 피하지 못하고 추돌하면서 발생했다. &lt;br&gt;&lt;br&gt;곧바로 뒤따르던 또 다른 승용차도 도로에 쓰러져 있던 운전자를 쳤다. 경찰은 차량 블랙박스 등을 토대로 정확한 사고 원인을 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>폭설·강풍 제주, 항공기 운항 재개… 발 묶인 2만명 이동 시작 </title>
+      <link>https://www.chosun.com/national/regional/2025/02/08/75BOHFUQ5NADZHKDDZJRSVXQNA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/02/08/75BOHFUQ5NADZHKDDZJRSVXQNA/</guid>
+      <dc:creator>조홍복 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 08 Feb 2025 00:17:54 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G6OIFX4GUH5NTSSZZ3XQYA2HN4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 7일 제주공항에 강풍경보와 급변풍경보가 발효된 가운데 타지역 폭설 영향까지 겹쳐 결항한 항공편들이 속출했다. 8일 오전 운항이 재개됐다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이틀간 내린 폭설에 제주가 설국으로 변했으나, 전날 무더기 결항했던 항공편은 운항이 재개됐다.&lt;br&gt;&lt;br&gt;8일 제주지방기상청에 따르면 대설특보가 발효된 가운데 이날 오전 8시 기준으로 최근 24시간 동안 한라산 어리목에 23.2㎝, 사제비에 21.3㎝, 백록담 남벽에 14.8㎝의 눈이 각각 쌓였다. 해발 200~600ｍ 중산간 지역 적설량은 유수암 8.9㎝, 가시리 9.1㎝, 한남 8.2㎝, 산천단 7.1㎝ 등이다. 해안지역 적설량은 서귀포 5.6㎝, 표선 3㎝, 제주시 2.8㎝, 성산 수산 2㎝, 추자도 0.6㎝, 안덕 화순 0.5㎝ 등이다.&lt;br&gt;&lt;br&gt;전날 무더기 결항했던 항공기 운항이 재개됐다. 한국공항공사는 이날 새벽 제주공항 활주로 제설작업을 완료했다. 현재 항공편이 정상적으로 이착륙하면서 결항으로 발이 묶였던 2만여명이 속속 제주를 빠져나가기 시작했다.&lt;br&gt;&lt;br&gt;전날 체류객 중 70여명은 제주공항 대합실에서 공항공사와 제주도 대책반이 제공한 매트, 담요를 이용해 밤을 지낸 뒤 항공사 카운터 운영이 시작되자 대기표를 구하기도 했다. 제주공항기상대는 제주공항에 계속해서 강풍경보와 급변풍경보가 발효돼 있으나 어제보다 강풍의 세기가 조금 약해졌다고 설명했다.&lt;br&gt;&lt;br&gt;많은 눈이 내리면서 한라산 등반은 물론 한라산 횡단도로인 516도로와 1100도로, 제2산록도로의 차량 운행이 전면 통제됐다. 중산간도로는 월동장구를 갖춘 차량만 운행할 수 있다. 해안지역을 돌아가는 일주도로에도 부분 결빙이 있어 차들이 거북이 운행을 하고 있다.&lt;br&gt;&lt;br&gt;제주도소방안전본부는 밤새 차량 고립과 미끄러짐 사고 등으로 4명을 구급 이송하고, 전봇대와 간판 흔들림 등의 신고를 받아 안전조치를 하느라 분주히 움직였다.&lt;br&gt;&lt;br&gt;해상에는 풍랑특보가 발효돼 높은 파도가 일면서 추자, 완도, 목포, 삼천포 항로의 여객선들이 대부분 결항하거나 휴항했다. 국토 최남단 마라도와 가파도를 오가는 소형 여객선 운항도 전면 통제됐다.&lt;br&gt;&lt;br&gt;기상청은 한기를 동반한 북서풍이 강하게 남하하면서 산지를 중심으로 시간당 1~2cm의 눈이 내려 쌓이고, 그 외의 지역에도 시간당 0.5cm 내외의 눈이 내리는 곳이 있겠다고 예보했다. 또 이날 늦은 오후까지 바람이 순간 풍속 초속 20~25ｍ 이상의 강풍이 부는 곳이 있겠다고 전망했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>[단독] 필리핀 도우미, 月 294만원으로 오르나</title>
       <link>https://www.chosun.com/national/labor/2025/02/08/UCV4LGCTCZBZLJPPXJEWTZO2SQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/labor/2025/02/08/UCV4LGCTCZBZLJPPXJEWTZO2SQ/</guid>
@@ -868,28 +962,6 @@
       </media:content>
     </item>
     <item>
-      <title>234명 성착취 총책 신상정보 8일 오전 9시 공개</title>
-      <link>https://www.chosun.com/national/2025/02/07/U2GR45NODZBCNNK77PPIBK56QI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2025/02/07/U2GR45NODZBCNNK77PPIBK56QI/</guid>
-      <dc:creator>주형식 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 07 Feb 2025 03:03:34 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HRIALVNMUFLNHHMVFRWMTBMOTM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;텔레그램을 이용해 성착취물을 제작·유포한 사이버성폭력 범죄집단 자칭 '자경단'의 총책 A씨가 지난달 24일 오전 서울 성동구 성동경찰서에서 검찰로 송치되고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;텔레그램에서 10대 청소년 등 남녀 230여 명을 성 착취, 협박한 조직의 총책 신상정보가 오는 8일 오전 9시부터 다음 달 10일까지 30일간 서울경찰청 홈페이지를 통해 공개된다.&lt;br&gt;&lt;br&gt;서울경찰청은 7일 ‘특정중대범죄 피의자 등 신상정보 공개에 관한 법률’ 제4조에 따라 청소년성보호법 위반 등 혐의를 받는 A씨(33)의 얼굴과 성명, 나이를 이같이 공개할 예정이라고 밝혔다.&lt;br&gt;&lt;br&gt;경찰은 “범행 수단의 잔인성 및 중대한 피해, 충분한 증거, 공공의 이익 등 요건을 종합적으로 고려, 신상 공개를 결정했다”고 덧붙였다.&lt;br&gt;&lt;br&gt;앞서 서울행정법원 행정7부(부장 이주영)는 전날(6일) A 씨가 서울경찰청장을 상대로 낸 신상정보 공개 집행정지 신청을 기각했다. 이에 따라 경찰은 A 씨의 신상정보가 30일간 공개할 수 있게 됐다.&lt;br&gt;&lt;br&gt;경찰에 따르면 A씨는 대학을 졸업하고 평범한 회사에 다니던 중산층이었다고 한다. A씨는 조직 이름을 ‘자경단’이라고 붙였고, ‘목사’를 자칭했다. 조직은 목사·집사·전도사·예비 전도사로 계급이 나뉘어 상명하복 지휘 체계를 형성했다. 드라마 ‘수리남’(2022) 주인공이 목사로 위장해 범행했다는 데서 착안했다.&lt;br&gt;&lt;br&gt;A씨는 2020년 5월 자경단을 결성해 남녀 피해자 234명을 상대로 협박 등을 통해 가학적 성 착취를 한 혐의를 받는다. 피해자 중에는 10대 남녀 159명(남성 57명·여성 102명)도 포함됐다. 10대 여성 피해자 10명은 A씨에게 잔혹한 행위와 함께 성폭행당하고 촬영까지 당한 것으로 조사됐다. 2019년 한국 사회를 충격에 빠뜨린 박사방(N번방) 사건 피해자(70여 명)의 3배에 이르는 규모다. 2019~2020년 ‘박사방’ 사건의 피해자는 미성년자 16명을 포함해 총 73명이었다. 경찰 관계자는 “이번 목사방의 범행 수범이 훨씬 악랄하다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/HRIALVNMUFLNHHMVFRWMTBMOTM.jpg?width=2605&amp;height=3158&amp;auth=23dfe0a0cc682055ceb1400e1abf1064700956723c13e638ee2317966042cc2b&amp;smart=true" type="image/jpeg" height="3158" width="2605">
-        <media:description type="plain">텔레그램을 이용해 성착취물을 제작·유포한 사이버성폭력 범죄집단 자칭 '자경단'의 총책 A씨가 지난달 24일 오전 서울 성동구 성동경찰서에서 검찰로 송치되고 있다./연합뉴스</media:description>
-        <media:credit role="author" scheme="urn:ebu">김도훈</media:credit>
-      </media:content>
-    </item>
-    <item>
-      <title>“옥택연 유명인인 줄 몰랐다”...업체, ‘파리 커플 사진’ 유출 사과</title>
-      <link>https://www.chosun.com/national/people/2025/02/07/ULFL763GQJCQTNA2YPVZQ6Z2QU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/02/07/ULFL763GQJCQTNA2YPVZQ6Z2QU/</guid>
-      <dc:creator>정아임 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 07 Feb 2025 01:44:12 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Q5RWULFKLNDBPETMIFHA4EGKDY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;그룹 2PM의 멤버 옥택연이 지난해 여자친구와 파리에서 찍은 스냅 사진이 온라인상에 공유됐다./인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그룹 2PM의 멤버 옥택연(38)과 여자 친구의 스냅 사진을 공개한 파리 소재 사진 업체가 “옥택연이 한국의 유명인이라는 사실을 몰랐다”며 사과했다.&lt;br&gt;&lt;br&gt;옥택연 커플을 촬영한 스냅사진 업체는 지난 6일 인스타그램에 “옥택연의 삶에 대해 폭로할 의도가 없었다”며 장문의 사과 글을 올렸다.&lt;br&gt;&lt;br&gt;업체는 “2024년 4월 파리에서 옥택연의 사진을 찍은 사진 회사”라며 “사실 우리는 지난해 그들이 누군지도 모른 채 촬영을 진행했다. 솔직히 말해 그들의 삶을 폭로할 의도는 없었다”고 밝혔다.&lt;br&gt;&lt;br&gt;이어 “어제까지만 해도 이들이 한국 유명인이라는 사실을 몰랐다. 그들은 일반인으로 촬영을 예약했고, 우리가 일반 고객과 접촉하는 것 이상의 연락은 없었다. 사진을 공개하지 말아 달라는 요청도 없었기에 우리는 항상 하던 대로 사진을 올렸던 것”이라고 설명했다.&lt;br&gt;&lt;br&gt;그러면서 “사진을 공개할 때 그들의 이름을 언급하지 않았고, 아름답고 영감을 주는 일련의 사진일 뿐이다. 이런 당혹스러운 상황에 정말 놀라고 충격을 받았다”고 했다.&lt;br&gt;&lt;br&gt;또한 “옥택연과 그의 여자 친구에게 사과했고, 이제 공개적으로 진심으로 사과드린다. 옥택연과 여자 친구의 얼굴을 폭로하려는 의도는 전혀 없었다. 무슨 일이 일어났는지 알게 된 후 즉시 사진을 비공개 처리했지만, 이미 여러 사람에게 공유된 상태였다. 우리는 이 사진을 누구에게도 보낸 적 없으며, 보내지도 않을 것”이라고 했다.&lt;br&gt;&lt;br&gt;최근 여러 온라인 커뮤니티에는 옥택연이 여자 친구와 프랑스 파리 에펠탑 앞에서 찍은 스냅사진이 공유돼 화제가 됐다. 사진 속 옥택연은 여자 친구에게 무릎을 꿇고 반지를 건네고 있었다. 이를 본 네티즌들 사이에서는 옥택연이 여자 친구에게 프러포즈한 게 아니냐며 그의 결혼이 임박한 것 아니냐는 추측이 나왔다.&lt;br&gt;&lt;br&gt;이와 관련해 피프티원케이 측은 “지난해 여자 친구 생일 기념으로 찍은 사진이 유포돼 커뮤니티에 확산한 것”이라고 설명했다. 그러면서 “여자 친구와는 좋은 감정으로 잘 만나고 있다”면서 “결혼은 언젠가 좋은 시기가 되면 하지 않을까 싶지만 당장 계획이 있지는 않다”고 전했다.&lt;br&gt;&lt;br&gt;옥택연은 지난 2020년 비연예인 여성과의 교제 사실을 인정했다. 당시 소속사는 비연예인이고 사생활인 만큼 조심스럽다는 입장을 내놨다. 이후 지난해 두 사람이 서울 압구정 로데오거리에서 데이트하는 모습이 포착되기도 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>합천 가야산 12.3cm 눈, 경남 함양·거창 3개 구간 도로 통제</title>
       <link>https://www.chosun.com/national/2025/02/07/364GQHXDCRC5NHSSAP6R7UC4OM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/2025/02/07/364GQHXDCRC5NHSSAP6R7UC4OM/</guid>
@@ -897,15 +969,6 @@
       <description/>
       <pubDate>Fri, 07 Feb 2025 01:41:15 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2LGWU3AANJOMNMVK5UEMFHPCVI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 6일 지리산국립공원 노고단(해발1507m) 일원이 하얗게 눈으로 덮여 장관을 이루고 있다. /지리산국립공원전남사무소&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;7일 경남 산청과 함양, 거창, 합천에 대설주의보가 내려진 가운데 이날 오전 7시 현재 합천 가야산은 12.3㎝의 적설량을 기록했다.&lt;br&gt;&lt;br&gt;기상청은 이날 오전 0시부터 산청, 함양, 거창, 합천에 대설주의보를 발효했으며, 현재 시간당 1~3㎝의 강하고 많은 눈이 내리고 있다. 대설주의보는 24시간 동안 5cm 이상의 눈이 내리면 발효된다.&lt;br&gt;&lt;br&gt;산청 지리산도 11.5㎝의 눈이 쌓였으며 거창(북상) 10㎝, 함양 4.1㎝, 하동 1.2㎝의 적설량을 보였다. 산청, 함양, 합천, 거창, 하동은 시가지에도 눈이 내려 제설 작업중이다.&lt;br&gt;&lt;br&gt;눈은 경남 서부 내륙 지역은 이날 오후 6시까지 내리고 이 외 지역은 낮 12시까지 내릴 것으로 예고됐다.&lt;br&gt;&lt;br&gt;함양과 거창의 3개 도로는 7일 오전 6시 30분부터 통제되고 있다. 통제 구간은 오도재(함양 마천면 구양리~휴천면 월평리), 원통재(함양 백전면 백운리~서하면 운곡리), 남령재(함양 서상면 상남리~거창군 북상면 월성리)다.&lt;br&gt;&lt;br&gt;대설주의보가 발효되면서 경남도는 7일 오전 0시부터 재난대책본부를 운영하면서 비상 1단계를 발령했다. 공무원과 보수원 등 186명과 제설차, 덤프트럭 등 장비 55대를 동원해 눈에 취약한 105개 구간 647.3km에 사전 제설제를 살포했다.&lt;br&gt;&lt;br&gt;대설이 예상되거나 도로결빙이 우려되는 지역에는 재난 문자를 발송했다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>머스크의 정부효율부, 예산 삭감 위해 AI에 美정부 민감 데이터 학습시켜</title>
-      <link>https://www.chosun.com/economy/tech_it/2025/02/07/TDFVOGCOSBBDTAVPUSGJQ7S4LU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/economy/tech_it/2025/02/07/TDFVOGCOSBBDTAVPUSGJQ7S4LU/</guid>
-      <dc:creator>실리콘밸리=오로라 특파원</dc:creator>
-      <description/>
-      <pubDate>Thu, 06 Feb 2025 23:42:46 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AUI5ZL7MEVJYRNCQWK6DSYD664.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;일론 머스크 테슬라 CEO./로이터 연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;일론 머스크 테슬라 최고경영자(CEO)가 이끌고 있는 미국 정부효율부(DOGE)가 예산 삭감을 위해 민감한 데이터를 인공지능(AI)에 학습시키고 있는 것으로 알려졌다. 예산과 인력을 줄여야하는 부문과 제대로 작동하고 있지 않는 프로그램 등을 AI로 빠르게 찾아내겠다는 것이다. 일각에선 사이버 공격에 노출될 위험이 있는 AI에 민감한 국가 운영 정보를 제공하는 것에 대한 우려도 나오고 있다.&lt;br&gt;&lt;br&gt;6일 워싱턴포스트(WP)는 DOGE에서 근무하는 소식통을 인용해 DOGE가 미 교육부 전반의 데이터를 AI 소프트웨어에 입력해 해당 기관의 프로그램과 지출을 조사하고 있다고 전했다. 여기에는 보조금을 획득한 사람들의 개인 정보 및 각 부서의 출장 경비 등 교육부의 내부 재무 데이터도 포함되어 있다. WP는 “DOGE는 AI를 활용해 지출을 줄이고, 궁극적으로는 부서와 직원을 축소하는 것을 목표로 하고 있다”며 “과거 머스크의 테크 기업에서 근무했던 직원들이 DOGE에서 이 같은 임무를 수행하고 있다”고 전했다.&lt;br&gt;&lt;br&gt;소식통은 WP에 향후 DOGE 팀은 여러 정부 부처에서 사용하는 소프트웨어에 접근한 후, AI를 사용해 다양성 및 포용성(DEI) 관련 프로그램에 대한 지출 정보를 추출할 예정이라고 전했다. 앞서 도널드 트럼프 미 대통령은 정부 기관에서 DEI 담당자를 없애라는 행정명령을 내렸고, 머스크 역시 DEI 프로그램을 대대적으로 축소해야한다는 입장이다. AI 분석을 통해 DEI 프로그램들이 얼마나 많은 예산을 쓰고 있는지 파악하고, 이를 근거로 직원·예산 축소에 나설 것으로 보인다.&lt;br&gt;&lt;br&gt;다만 AI의 활용이 사이버 공격에서 100% 자유롭지 못한 만큼, 정부 부처의 데이터를 AI에 학습 시키는 것에 대한 우려도 커지고 있다. WP에 따르면 DOGE는 마이크로소프트 애저에서 제공되는 AI소프트웨어를 사용하고 있지만, 구체적으로 어떤 AI를 사용하고 있는지는 불분명하다. WP는 “민감한 데이터를 AI소프트웨어에 입력할 경우 데이터가 시스템 운영자의 소유가 되며, 외부 공격에 휩쓸릴 가능성이 커진다”며 “AI가 데이터를 요약할 때 환각현상이 일어나 인종차별적 결과를 도출하는 등 오류를 범할 수도 있다”고 했다.&lt;br&gt;&lt;br&gt;실제로 DOGE 직원들은 미 재무부와 국무부 등 높은 보안성이 요구되는 정부부처의 직원을 포함한 다수의 공무원에 대한 정부 기록에 접근할 수 있게됐다. 20대 초반으로 젊고, 사기업에서 근무했던 엔지니어들이 트럼프 취임 며칠 만에 인사관리국(OPM) 컴퓨터 시스템에 대한 관리 권한을 부여 받으면서다. WP는 “IT 프로그램을 바꾸거나 설치할 수 있는 권한을 가진 외부인이 접근하는 것은 새로운 보안 취약점을 만들 수 있다”고 지적했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>대설로 전국 도로 20곳 통제…서울서는 한랭질환자 1명 나와</title>
@@ -924,73 +987,6 @@
       <description/>
       <pubDate>Fri, 07 Feb 2025 01:21:45 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FMIKU47EYKGMSS6GOW7EZGE2SI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기도 과천 법무부 청사 전경. / 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;법무부가 1958년 제정된 후 가족법(친족편)을 제외하면 거의 바뀌지 않은 민법을 전면 개정하기로 하고 7일 민법 개정안을 입법예고했다.&lt;br&gt;&lt;br&gt;법무부의 이번 개정안은 민법 총 4편(총칙·물권·채권·친족) 중 친족편을 제외한 민법 전(前) 3편 중 계약법을 첫 번째 과제로 선정하고 이번에 200여 개 조항에 대한 개정안을 마련했다.&lt;br&gt;&lt;br&gt;우선 법정이율을 고정형에서 변동형으로 도입하는 내용을 담았다(제379조 개정). 현재는 다른 법률의 규정이나 당사자 간 약정(계약)이 없으면 연 5푼(%)으로 정해져 있는데, 법정이율이 고정돼 있어 경제 사정을 제대로 반영하지 못한다는 지적이 있었다. 이에 법무부는 법정이율을 한국은행 기준금리, 시장 이율, 물가상승률, 그 밖의 경제 사정의 변동을 고려해 대통령령으로 정하도록 하는 내용의 개정안을 마련했다. 다만 이는 당사자 간 계약이 없거나 다른 법률에서 정한 규정이 없을 때에 해당한다.&lt;br&gt;&lt;br&gt;이른바 ‘가스라이팅’으로 불리는 관계에서 발생한 의사표시를 취소할 근거도 새로 마련했다(제110조의2 신설). 현재는 사기나 강박(강요)에 의한 의사표시는 취소할 수 있다는 규정(제110조)만 있어서 종교 지도자와 신도, 간병인과 환자 등 어느 한쪽이 심리적으로 취약한 관계에 대해서는 보호가 어렵다는 한계가 있었다. 법무부는 ‘심리적 의존 상태 또는 긴밀한 신뢰 관계’에서 ‘부당한 간섭’에 따라 나온 의사표시는 취소할 수 있도록 규정을 새로 만들기로 했다. &lt;br&gt;&lt;br&gt;또한 법무부는 계약 후 중대한 사정 변경이 있으면 계약 내용을 수정할 수 있다는 조항도 신설하겠다고 했다(제538조의2 신설). 현재는 중대한 사정 변경 후 계약을 해제하거나 해지할 수 있다는 게 판례로만 정립돼 있다. 앞으로는 당사자가 사정 변경을 이유로 계약 수정을 청구할 수 있고 수정이 어려우면 해제·해지할 수 있다는 법 조항을 명문화한다는 것이다.&lt;br&gt;&lt;br&gt;이 밖에 법무부는 계약(채무)을 이행할 수 없거나(이행불능), 이행을 늦게 할 경우(이행지체)뿐 아니라 계약에 따른 채무를 완벽히 하지 않았을 때(불완전이행)에도 채권자와 채무자가 민법 적용을 받을 수 있도록 채무불이행 조문을 수정하기로 했다.&lt;br&gt;&lt;br&gt;입법예고 기간은 오는 3월 19일까지이다. 법무부 관계자는 “각계의 다양한 의견을 폭넓게 수렴하고, 법제처 심사 및 차관·국무회의 등 개정 절차를 진행해 올 상반기 중 개정안을 국회에 제출할 예정”이라고 말했다. 이어 “이번 ‘계약법’ 개정을 시작으로, 지속적으로 민법 전반에 대한 개정 작업을 진행해 국민이 쉽고 편리하게 쓸 수 있는 민법을 만들겠다”고 했다.&lt;br&gt;&lt;br&gt;앞서 법무부는 민법 전면 개정 추진을 위해 2023년 6월 양창수 전 대법관을 위원장으로 하는 민법개정위원회를 출범시켜 개정안을 마련해왔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>지하철 9호선 당산역 궤도 장애 발생…출근길 10분 지연 운행</title>
-      <link>https://www.chosun.com/national/national_general/2025/02/07/4S2KHLDL55HBVOT7O4T7UR25GI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/02/07/4S2KHLDL55HBVOT7O4T7UR25GI/</guid>
-      <dc:creator>김영우 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 07 Feb 2025 00:49:49 +0000</pubDate>
-      <content:encoded>7일 오전 서울 지하철 9호선 열차가 지연 운행하면서 시민들이 불편을 겪고 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Z3PHWSWMGNNC7JGB4YO33JAY3Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 지하철 9호선을 탑승하는 시민들의 모습. 기사와는 관련 없는 사진. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울시메트로9호선에 따르면, 이날 오전 9호선 당산역에서 궤도 장애가 발생해, 이날 오전 8시 20분부터 9호선 종합운동장역 방면 차량은 당산역 인근에서 서행 운행하고 있다.&lt;br&gt;&lt;br&gt;이에 따라 현재 9~10분가량 열차가 지연되고 있다.&lt;br&gt;&lt;br&gt;서울시메트로9호선 관계자는 “출근 시간대가 끝나면 회복 운전을 하며 지연 시간을 좁혀나갈 예정”이라며 “구체적인 원인은 영업 종료 후 선로에 들어가 확인할 계획”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>충북 충주 북서쪽서 규모 3.1 지진…“흔들림 느꼈다” 신고 잇따라</title>
-      <link>https://www.chosun.com/national/national_general/2025/02/07/PVDXIFRFWNF53M4XMRAUUYU62U/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/02/07/PVDXIFRFWNF53M4XMRAUUYU62U/</guid>
-      <dc:creator>김자아 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 06 Feb 2025 21:20:20 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QOB63B4XE2QRKTQGAVUKZIVKC4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;충주 지진./기상청 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;7일 오전 2시35분쯤 충북 충주시 북서쪽 22㎞ 지역에서 규모 3.1의 지진이 발생했다고 기상청이 밝혔다.&lt;br&gt;&lt;br&gt;진앙은 북위 37.14도, 동경 127.76도로 행정구역상 충주시 앙성면이다. 진원의 깊이는 9㎞로 추정됐다.&lt;br&gt;&lt;br&gt;기상청은 애초 지진의 규모를 4.2로 관측했다가 추가 분석을 거쳐 3.1로 조정했다.&lt;br&gt;&lt;br&gt;최초 관측 규모를 4.2로 추정하면서 충청권은 물론 서울과 인천, 강원, 전북, 경북, 경남 등에도 새벽 긴급재난문자가 발송됐다.&lt;br&gt;&lt;br&gt;현재 지진 재난문자 송출 기준에따르면 규모가 ‘3.5 이상 5.0 미만’인 육상 지진이 발생할 경우 최대 예상진도가 ‘5 이상’이면 예상진도가 ‘2 이상’인 시군구에 긴급재난문자가 발송된다. 최대 예상진도가 ‘4 이하’이면 마찬가지로 예상진도 ‘2 이상’인 시군구에 안전안내문자가 보내진다.&lt;br&gt;&lt;br&gt;기상청은 작년 10월 지진으로 인해 흔들림이 느껴지는 지역에만 재난문자가 발송되도록 현재와 같이 기준을 조정했다. 진도는 흔들림의 정도로 절댓값인 규모와 달리 지역별로 달리 나타난다.&lt;br&gt;&lt;br&gt;이번 지진으로 충북 충주시에서는 ‘거의 모든 사람이 느끼고, 그릇과 창문이 깨지기도 하는 정도’의 흔들림(진도 5)이 느껴졌을 것으로 예상된다.&lt;br&gt;&lt;br&gt;충주와 가까운 음성군이나 강원 원주시에서는 ‘실내에 많은 사람이 느끼고 일부가 잠에서 깨며, 그릇과 창문이 흔들리는 정도’ 진동(진도 4)이 있었을 것으로 추정된다.&lt;br&gt;&lt;br&gt;엑스(X·옛 트위터) 등 온라인상에는 “벽이 움직이는 걸 봤다” “바닥에서 드르륵 소리가 났다” “서울 양천인데 침대가 흔들렸다” 등 지진으로 흔들림을 느꼈다는 글과 함께 긴급재난문자에 놀랐다는 글이 함께 올라왔다.&lt;br&gt;&lt;br&gt;기상청은 “지진 발생 지역 인근에 일부 피해가 발생했을 수 있으니 안전에 주의해달라”고 당부했다.&lt;br&gt;&lt;br&gt;행정안전부는 경계 단계 지진 위기경보를 발령하고 중앙재난안전대책본부(이하 중대본) 비상 1단계를 가동했다. &lt;br&gt;&lt;br&gt;행안부에 따르면 이날 오전 2시54분 기준 전국에서 들어온 유감 지진 신고는 23건이었다. 지역별로는 강원 13건, 충북 8건, 경기 2건이었다. 이날 오전 3시까지 지진으로 인한 큰 피해 신고는 없었다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘올림피아드 메달’ 한국 과학 영재, 대입 낙방… MIT가 장학금 주고 데려가</title>
-      <link>https://www.chosun.com/national/education/2025/02/07/QOQWLUFVZRF2FAPYFWZYY36ZIE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2025/02/07/QOQWLUFVZRF2FAPYFWZYY36ZIE/</guid>
-      <dc:creator>김민기 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 06 Feb 2025 15:55:00 +0000</pubDate>
-      <content:encoded>&lt;br/&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PUES3WLHV4BPHGRSTUJHI2OJRI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt; 경기도교육청 영재교육원 학생들이 수업을 하고 있다. /경기도교육청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;중국은 정부가 일찍이 재능을 보이는 학생을 발굴해 집중 육성하고 있는 반면 한국은 영재 발굴 시스템이 제대로 작동하지 않는다는 지적이 나온다. 한국에선 교육부가 사교육을 유발한다는 이유로 ‘국제 올림피아드 수상’ 실적도 대입에 반영하지 못하게 규제하고 있다.&lt;br&gt;&lt;br&gt;6일 한국교육개발원에 따르면, 작년 한국의 영재교육 대상자는 6만5410명으로, 2023년(7만627명) 대비 5217명(7.4%) 감소했다. 2013년(12만1421명)에 비하면 반 토막 났다. 영재교육 대상자는 전국 초·중·고, 시·도교육청, 대학교에서 운영하는 영재교육 기관에서 교육을 받은 학생들이다.&lt;br&gt;&lt;br&gt;전문가들은 영재교육을 받아봤자 대학 입시에 큰 도움이 안 된다는 인식 때문에 학생과 학부모들이 기피하기 때문이라고 분석한다. 정부는 2010년부터 ‘과도한 스펙 쌓기’를 막겠다며 학교 생활기록부에 외부 수상 실적을 기록하지 못하게 막았고, 2014년에는 대입 자기 소개서도 아예 폐지했다. 수학·물리·컴퓨터 등 국제 올림피아드 대회에 나가 상을 받아도 고교나 대학 진학 때 활용할 방법이 없는 것이다. 이런 이유로 국제 과학 올림피아드 메달리스트가 수년 전 입시에서 서울대에 떨어지기도 했다. 이 학생은 미국 매사추세츠공대(MIT)가 장학금을 주고 데려갔다고 한다. ‘수학 천재’ ‘인공지능(AI) 천재’도 학교 성적을 고루 잘 받지 못하면 좋은 대학에 못 가는 상황이다. 한국 교육이 “천재도 범부로 만든다”는 지적이 나오는 이유다.&lt;br&gt;&lt;br&gt;최상위권 학생이 공학 계열로 쏠리는 중국·미국과 달리 한국은 ‘의대’에 우수 학생이 쏠리고 있다. 국가 차원에서 이공계 인재를 키우기 위해 설립한 영재고와 과학고 학생들조차 의대로 대거 진학해 ‘장학금 회수’ ‘대학 추천 금지’ 등 제재를 하는 상황이다.&lt;br&gt;&lt;br&gt;한국과학영재교육학회장을 지낸 서혜애 부산대 생물교육과 명예교수는 “최고급 인적 자원을 확보하려면 영재교육이라는 사회적 투자를 해야 한다”면서 “대학이 영재를 국가 인재로 키울 수 있는 발굴 시스템을 만들고, 단기 영재교육 프로그램도 많이 보급해야 한다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/PUES3WLHV4BPHGRSTUJHI2OJRI.jpg?width=480&amp;height=313&amp;auth=0ffb238d16453694fe8ce6aa219b1ee288d72a8ee928051eb110c7ea00d8d1bf&amp;smart=true" type="image/jpeg" height="313" width="480">
-        <media:description type="plain"> 경기도교육청 영재교육원 학생들이 수업을 하고 있다. /경기도교육청</media:description>
-        <media:credit role="author" scheme="urn:ebu">조선일보 자료사진</media:credit>
-      </media:content>
-    </item>
-    <item>
-      <title>퇴근길 사고로 뇌사 30세 청년, 6명에 ‘새 삶’ 선물</title>
-      <link>https://www.chosun.com/national/welfare-medical/2025/02/07/G5RSPEHRFFCBHIHNWDGMUUSKDM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/02/07/G5RSPEHRFFCBHIHNWDGMUUSKDM/</guid>
-      <dc:creator>오유진 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 06 Feb 2025 15:51:00 +0000</pubDate>
-      <content:encoded>&lt;br/&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KSTFNNQZRZE6BEH6SVYUNGCIJE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;기증자 조석원씨 /한국장기조직기증원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;퇴근길 교통사고로 뇌사 상태에 빠진 30세 방사선사가 장기 기증으로 6명에게 새 생명을 선물하고 떠났다.&lt;br&gt;&lt;br&gt;한국장기조직기증원은 지난해 12월 20일 조석원(31)씨가 전북 익산 원광대병원에서 심장, 간(분할), 폐, 신장(좌우)을 6명에게 기증한 후 숨졌다고 6일 밝혔다. 원광대병원 방사선사로 일하던 조씨는 기증 일주일 전 근무를 마치고 길을 가던 중 차에 치여 인근 병원으로 이송됐다. 하지만 끝내 의식을 회복하지 못하고 뇌사 상태에 빠졌다.&lt;br&gt;&lt;br&gt;전북 군산에서 1남 2녀 중 둘째로 태어난 조씨는 어린 시절 프로게이머가 되고자 했지만, 진로를 바꿔 방사선과에 진학하게 됐다. 어린 시절부터 아르바이트를 병행하며 미래를 성실하게 준비했다고 한다.&lt;br&gt;&lt;br&gt;두 살 아래 조씨가 오빠 같았다던 누나 은빈씨는 기증원에 보낸 메시지를 통해 ‘석원아. 더 재밌고 즐겁게 지내다 갔으면 좋았을 텐데, 너무 일찍 철이 들어 고생만 하고 간 거 같아서 안타까워. 마지막 순간까지 좋은 일 하고 갔으니 하늘나라에서 멋있었던 그 웃음 지으며 행복하게 잘 지내’라고 했다. 조씨의 동료 박광호씨는 ‘웃음이 많고 늘 주변을 먼저 생각하던 정이 많던 석원아! 우리는 네가 이곳에 없는 게 아니라 긴 여행을 떠난 것으로 생각할게’라고 했다. 조씨 가족들은 “비록 석원이는 떠나지만, 어딘가에서 살아있을 것이라는 사실에 위로를 받는다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>구준엽 “창자 끊어질 듯한 아픔… 모든 유산 권한은 장모님께”</title>
-      <link>https://www.chosun.com/national/national_general/2025/02/06/4AFL77BKZBAHHM522BXVNMF7HA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/02/06/4AFL77BKZBAHHM522BXVNMF7HA/</guid>
-      <dc:creator>문지연 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 06 Feb 2025 14:12:26 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ETPARG6ORZED3CZSYVWPCXPNMI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;가수 구준엽과 아내인 고(故) 서희원. /인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;가수 구준엽(56)이 아내 서희원(쉬시위안·48)을 잃은 뒤 처음으로 직접 심경을 전했다.&lt;br&gt;&lt;br&gt;구준엽은 6일 밤 인스타그램에 장문의 글을 써 “2025년 2월 2일 저의 천사가 하늘로 돌아갔다. 먼저 희원이를 애도해 주신 많은 분께 깊은 감사의 인사를 드린다”며 “지금 저는 형언할 수 없는 슬픔과 고통 속에 창자가 끊어질 듯한 아픔의 시간을 지나고 있다”고 말문을 열었다.&lt;br&gt;&lt;br&gt;그는 “어떤 말을 할 힘도 없고 하고 싶지도 않다. 하지만 크나큰 상실의 아픔과 애도의 시간이 지나가기도 전에 악마 같은 사람들이 우리 가족들과 저의 사랑을 매도하기 시작했다”며 “어떤 이는 슬픈 척 비를 맞으며 돌아다니고 또 다른 이들은 우리 가족에게 흠집을 내려고 보험과 비용에 대한 가짜뉴스를 만들어 상처를 주고 있다”고 했다.&lt;br&gt;&lt;br&gt;이어 “정말 이런 나쁜 인간들이 세상에 존재하는구나 라는 생각에 두려워지기까지 한다”며 “제발 우리 희원이 편히 쉴 수 있도록 가만히 계셔주실 수 없나. 제발 간곡히 부탁드린다”고 말했다.&lt;br&gt;&lt;br&gt;구준엽은 일각에서 언급되고 있는 고인의 유산 상속에 대한 이야기도 꺼냈다. 그는 “희원이가 남기고 간 모든 유산은 생전 희원이가 사랑하는 가족을 지키기 위해 피땀 흘려 모아놓은 것이기에, 저에 대한 권한은 장모님께 모두 드릴 생각”이라며 “아이들의 권한은 나쁜 사람들이 손대지 못하도록 변호사를 통해 자녀들이 성인이 될 때까지 보호해 주도록 법적 조치를 취하려 한다”고 했다.&lt;br&gt;&lt;br&gt;그러면서 “제게 희원이와 함께한 시간은 세상 무엇과도 바꿀 수 없는 소중하고 값어치 있는 선물이었다. 희원이가 제일 사랑하는 가족들을 지켜주는 것이 마지막으로 제가 할 일이라 생각한다”며 “마지막으로 우리 희원이를 많이 사랑해 주시고 애도해 주신 모든 분께 다시 한번 고개 숙여 감사를 표한다”고 덧붙였다.&lt;br&gt;&lt;br&gt;앞서 서희원은 지난 2일 가족들과 일본 여행을 하던 중 독감에 의한 폐렴 합병증으로 세상을 떠났다. 자유시보 등에 따르면 구준엽은 5일 아내의 유해를 품에 안고 대만에 돌아왔다. 공항에 몰려든 취재진을 본 구준엽은 차량 탑승 전 “아내가 놀라지 않게 해달라”며 유골함을 든 자신을 우산으로 가려달라고 부탁했다고 한다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>송영길 ‘돈봉투 사건’ 2심, 다음 달 첫 재판...1심 실형 선고 후 약 60일만</title>
-      <link>https://www.chosun.com/national/court_law/2025/02/06/SJ332Q4LCZDGTLZTX4TKO7TP6I/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/02/06/SJ332Q4LCZDGTLZTX4TKO7TP6I/</guid>
-      <dc:creator>박강현 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 06 Feb 2025 12:31:16 +0000</pubDate>
-      <content:encoded>‘민주당 전당대회 돈봉투 살포 의혹’의 정점으로 지목돼 1심에서 실형을 선고받고 법정 구속된 송영길(62) 전 더불어민주당 대표(현 소나무당 대표)의 항소심이 다음 달 시작된다. 1심 선고 이후 약 60일 만이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NNQPEVEV6NA4VDAOAJL3DOKWNQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;송영길 전 더불어민주당 대표가 지난 1월 8일 서울 서초구 서울중앙지방법원에서 열린 '민주당 전당대회 돈봉투 의혹' 1심 선고기일에 출석하고 있다. /고운호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;6일 법조계에 따르면 최근 서울고법 형사3부(재판장 이창형)는 송 전 대표의 이 사건 2심 첫 공판 기일을 3월 13일 오전 11시 10분으로 정했다.&lt;br&gt;&lt;br&gt;앞서 송 전 대표는 지난달 8일 특정범죄 가중처벌 등에 관한 법률 위반(뇌물)과 정치자금법 위반 등 혐의로 1심에서 징역 2년을 선고받고 법정 구속됐다. 이 사건은 송 전 대표가 2021년 5월 전당대회에서 당대표가 되기 위해 윤관석 전 민주당 의원을 통해 동료 의원들에게 돈봉투를 살포했다는 의혹을 골자로 하고 있다.&lt;br&gt;&lt;br&gt;하지만 1심을 담당한 서울중앙지법 형사21부(재판장 허경무)는 송 전 대표가 외곽 조직인 ‘평화와 먹고사는 문제 연구소’를 통해 불법 정치자금 7억6300만원을 수수한 혐의만 유죄로 인정하고, 정작 ‘돈봉투 살포’ 혐의 자체는 무죄로 판단했다. 이 사건의 단초이자 핵심 증거인 이정근 전 민주당 사무부총장의 휴대전화 녹음 파일이 위법하게 수집됐다며 증거로 인정하지 않았기 때문이다.&lt;br&gt;&lt;br&gt;이는 앞서 돈봉투 관련 사건으로 유죄를 선고받은 민주당 전·현직 의원들 판결과는 배치되는 판단이라 논란이 됐다. 검찰은 이씨로부터 “휴대전화를 범위 제한 없이 임의 제출하겠다. 다른 사건 증거로 사용해도 된다”는 동의를 받은 뒤 돈봉투 사건 수사를 시작했다는 입장이다. 양측 모두 1심 판단에 불복해 항소했다.&lt;br&gt;&lt;br&gt;특히 서울고법 형사3부는 지난해 7월엔 송 전 대표를 돕기 위해 돈봉투를 조성한 혐의로 기소된 윤 전 의원에게는 1심과 같이 징역 2년을 선고한 바 있다.&lt;br&gt;&lt;br&gt;현재 송 전 대표는 수감 상태에서 자신의 소셜미디어에 옥중칼럼 등을 연재하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>검찰, ‘수십억대 불법대출’ 의혹 농협은행 등 압수 수색</title>
-      <link>https://www.chosun.com/national/court_law/2025/02/06/CZOTX5FJHZAHTKYGSMOSTOVJHQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/02/06/CZOTX5FJHZAHTKYGSMOSTOVJHQ/</guid>
-      <dc:creator>이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 06 Feb 2025 12:15:27 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TNINNXKMBYMCWJCC7O4B7GAGFA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울중앙지검./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지검 반부패수사1부(부장 이준동)는 수십억원대 불법 대출을 일으킨 정황을 포착하고 6일 NH농협은행과 부동산개발업체에 대한 압수 수색에 나섰다.&lt;br&gt;&lt;br&gt;검찰은 부당 대출 의혹과 관련해 농협은행 본사, A산업개발그룹, A홀딩스에 검사와 수사관을 보내 압수 수색했다고 밝혔다. A그룹은 수도권 한 지역 일간지의 모기업이다. 검찰은 A그룹 측이 농협은행으로부터 30억∼40억원 규모의 불법 대출을 받은 것으로 의심하고 있다고 한다.&lt;br&gt;&lt;br&gt;앞서 2023년 국정감사에서도 농협은행이 A홀딩스에 신용보증기금의 보증이 나오기도 전 100억원을 대출해줬다는 의혹이 제기된 바 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
