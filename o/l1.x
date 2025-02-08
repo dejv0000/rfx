@@ -6,6 +6,15 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>(금주 법조계 주요일정) 2월 10~15일</title>
+			<description>&lt;b&gt;△10일(월)&lt;/b&gt;&lt;br /&gt;-서울중앙지법, '특정범죄가중처벌등에관한법률위반(뇌물) 등 혐의' 유동규 166차 공판(오전 10시)&lt;br /&gt;-헌법재판소, '마은혁 재판관 후보자 미임명' 국회와 대통령 권한대행 간의 권한쟁의(2025헌라1) 2차 변론(오후 2시)&lt;br /&gt;-서울중앙지법, '뇌물수수 등 혐의' 홍인표 외 7명 7차 공판(오후 2시)&lt;br /&gt;-법무법인 태평양·깁재섭 국민의힘 국회의원실·한국경제·디지털자산공동협의체, '트럼프 2.0 시대의 가상자산과 국내 2차 입법 과제' 세미나(오후 2시, 서울 영등포구 여의도동 국회의원회관 제2소회의실)&lt;br /&gt;&lt;b&gt;&lt;br /&gt;△11일(화)&lt;/b&gt;&lt;br /&gt;-헌법재판소, 대통령(윤석열) 탄핵(2024헌나8) 7차 변론(오전 10시)&lt;br /&gt;-서울중앙지법, '특정경제범죄가중처벌등에관한법률위반(사기) 등 혐의' 이모 씨 외 2명 17차 공판(오전 10시30분)&lt;br /&gt;-법무법인 율촌, 'EU 및 한국의 인공지능 규제/정책과 한국 기업의 대응 방안' HSF 공동 세미나(오후 2시, ZOOM 및 서울 강남구 삼성동 파르나스타워 율촌 39층 렉처홀)&lt;br /&gt;-천준호·박희승 더불어민주당 의원, '대부업법·채권추심법위반범죄 양형기준 상향을 위한 토론회'(오후 3시, 서울 영등포구 국회 의원회관 제8간담회실)&lt;br /&gt;-대한변호사협회·대한상공회의소, 'EU 지속가능성 공급망 실사 지침(CSDDD)' 제4회 ESG 강연·토크(오후 3시, 서울 중구 세종대로 대한상공회의소 회관 지하 2층 의원회의실)&lt;br /&gt;-서울지방변호사회, 신·구 집행부 회무 인수인계식(오후 4시, 서울 서초구 서초동 변호사회관 5층 정의실)&lt;br /&gt;-한국법제연구원·한국법학교수회, 업무협약 체결(오후 4시, 서울시 관악구 신림동 서울대 로스쿨 서암홀)&lt;br /&gt;-대한변호사협회 감사 후보자 기호 추첨식(오후 7시, 서울 서초구 서초동 대한변협회관 지하1층 세미나실)&lt;br /&gt;&lt;b&gt;&lt;br /&gt;△12일(수)&lt;/b&gt;&lt;br /&gt;-서울중앙지법, '교통사고처리특례법위반(치사) 등 혐의' 차모 씨 선고(오전 10시)&lt;br /&gt;-헌법재판소, 감사원장(최재해) 탄핵(2024헌나2) 1차 변론(오후 2시)&lt;br /&gt;-서울고법, '공직선거법 위반 혐의' 이재명 3차 공판(오후 2시)&lt;br /&gt;-서울고법, '직권남용 권리행사방해 등 혐의' 양승태 외 2명 4차 공판(오후 2시)&lt;br /&gt;-대한변호사협회, '비금전 수익증권발행신탁의 구조와 활용' 신탁변호사회 특강(오후 5시 30분, 서울 서초구 서초동 대한변협회관 지하1층 세미나실)&lt;br /&gt;-대한변호사협회, '제1회 신탁변호사회 회원의 밤'(오후 6시 30분, 서울 서초구 서초동 대한변협회관 지하1층 세미나실)&lt;br /&gt;&lt;b&gt;&lt;br /&gt;△13일(목)&lt;/b&gt;&lt;br /&gt;-대법원 2부 선고(오전 10시)&lt;br /&gt;-헌법재판소, 대통령(윤석열) 탄핵(2024헌나8) 8차 변론(오전 10시)&lt;br /&gt;-서울중앙지법, '특정경제범죄가중처벌등에관한법률위반(수재등) 등 혐의' 박영수 외 1명 선고(오전 10시30분)&lt;br /&gt;-대법원 3부 선고(오전 11시)&lt;br /&gt;&lt;b&gt;&lt;br /&gt;△14일(금)&lt;/b&gt;&lt;br /&gt;-서울중앙지법, '직권남용권리행사방해 등 혐의' 서훈 외 4명 44차 공판(오전 10시)&lt;br /&gt;-서울중앙지법, '특정범죄가중처벌등에관한법률위반(뇌물) 등 혐의' 이재명 외 1명 67차 공판(오전 10시30분)&lt;br /&gt;-서울중앙지법, '정당법위반 등 혐의' 박용수 선고(오후 2시)&lt;br /&gt;-서울중앙지법, '특정범죄가중처벌등에관한법률위반(뇌물) 등 혐의' 곽병채 외 2명 5차 공판(오후 2시)&lt;br /&gt;-법무법인 지평·부산상공회의소, '통상임금 대법원 전원합의체 판결 분석과 기업의 대응' 세미나(오후 2시, 부산 부산진구 범청동 부산상공회의소 2층 상의홀)&lt;br /&gt;-서울고법, '특정경제범죄가중처벌등에 관한 법률위반(횡령) 등 혐의' 이모 씨 외 2명 선고(오후 2시20분)&lt;br /&gt;-대한변호사협회, '이민자의 비자 관련 실무 및 사법 심사 관련 변호사의 역할' 이민출입국변호사회 특강(오후 6시, 서울 서초구 서초동 대한변협회관 지하1층 세미나실)&lt;br /&gt;&lt;b&gt;&lt;br /&gt;△15일(토)&lt;/b&gt;&lt;br /&gt;-대한변호사협회, 제461기 '언론·방송통신' 특별연수(오전 9시 30분, 서울 서초구 서초동 변호사연수원 지하1층 세미나실)</description>
+			<pubDate>Sat, 08 Feb 2025 22:06:47 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/205411</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/205411</guid>
+			<dc:creator>인터넷 기자</dc:creator>
+		</item>
+		<item>
 			<title>【오늘의 국회일정】 2025년 2월 8일</title>
 			<description>&lt;b&gt;◇의원실 세미나&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;14:00 [2025 한국학습장애학회 동계학술대회] 학습장애 및 학습지원대상 학생의 교육권 보장을 위한 공교육 책무성 강화 방안(의원회관 제1세미나실)&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;b&gt;&lt;span style="font-size: 14px;"&gt;※ 상기 일정은 사정에 따라 변경될 수 있습니다.&lt;/span&gt;&lt;/b&gt;</description>
 			<pubDate>Fri, 07 Feb 2025 22:36:43 -0000</pubDate>
@@ -233,16 +242,6 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/205387</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/205387.jpg</media:thumbnail>
 			<dc:creator>한수현 기자</dc:creator>
-		</item>
-		<item>
-			<title>[판결] 'SPC 수사 정보 유출' 검찰수사관·임원 항소심도 실형</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/205379.jpg" alt="345346.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;《사진=연합뉴스》&lt;/figcaption&gt;   &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;b&gt;[판결 결과]&lt;/b&gt;&lt;br /&gt;SPC 그룹에 대한 수사 정보를 흘려주는 대가로 뇌물을 주고 받은 혐의로 기소된 검찰수사관과 임원이 항소심에서도 실형을 선고받았다.&lt;p&gt;&amp;nbsp; &lt;br /&gt;서울고법 형사1-2부(재판장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="2442"&gt;김우진&lt;/span&gt;,&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="5057"&gt;한창훈&amp;nbsp;&lt;/span&gt;부장판사,&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="14252"&gt;권혁준&amp;nbsp;&lt;/span&gt;고법판사)는 7일 열린 선고공판에서 검찰과 피고인의 항소를 모두 기각하고 실형을 선고한 1심을 유지했다(&lt;b&gt;2024노2332&lt;/b&gt;). &lt;br /&gt;&lt;b&gt;&lt;br /&gt;[사건 개요 및 1심]&lt;/b&gt;&lt;br /&gt;검찰수사관 김 모 씨는 2020년 9월부터 2023년 6월까지 SPC 측에 압수수색 영장 청구 정보, 검찰 내부 보고서 등 수사기밀과 개인정보를 수십 차례 넘겨준 혐의를 받았다. SPC 임원 백 모 씨는 기밀을 제공받은 대가로 김 씨에게 620만 원 상당의 금품과 향응을 제공한 혐의 등을 받는다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;검찰은 SPC 자회사 PB파트너즈의 '민노총 노조 탈퇴 강요' 의혹을 수사하던 중 이 같은 정황을 포착해 2024년 2월 김 씨와 백 씨를 공무상비밀누설, 부정처사 후 수뢰, 개인정보보호법 위반 등 혐의로 구속기소 했다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;1심은 지난해 7월 김 씨에게 징역 3년에 벌금 1500만 원을 선고하고 추징금 443만 8200원을 명령했다. 백 씨에겐 징역 1년 6개월을 선고했다. 다만 두 사람의 개인정보보호법 위반 혐의에 대해선 일부 무죄를 선고했다. &lt;br /&gt;검찰과 피고인 모두 항소했다. &lt;br /&gt;&lt;b&gt;&lt;br /&gt;[법원 판단]&lt;/b&gt;&lt;br /&gt;항소심은 검찰과 피고인의 항소를 모두 기각하고 1심을 유지했다. 항소심 과정에서 백 씨는 검찰이 노조 관련 사건으로 압수수색한 휴대폰에서 나온 통화녹음을 삭제하지 않고 다시 2차 압수수색 영장을 받아 수집한 증거는 위법수집증거라고 주장했다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;그러나 재판부는 "압수수색 대상 혐의 사실 또는 그와 기본적인 사실관계가 동일한 직접 증거뿐만 아니라, 범행 동기·경위·수단·방법 등을 입증하기 위한 간접 증거나 정황 증거도 압수할 수 있다"며 "검찰이 압수한 통화 녹음에는 SPC의 지배구조 및 법적 분쟁에 대한 사후 대응 내용이 포함돼 있지만, 이는 노동조합 사건에서 부당노동 개입 여부 및 책임자를 확인할 단서가 될 수 있어 혐의 사실과 관련이 있다"고 판단했다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;이어 "압수된 정보 중 일부가 혐의 사실과 직접적인 관련성이 떨어진다고 하더라도, 유죄 인정에는 영향을 미치지 않는다"며 "1심에서 유죄가 인정된 것은 검찰의 진술을 통해 범죄 전모가 드러났기 때문이고 선행 압수 혐의와 관련성이 낮아 삭제돼야 할 정보가 설령 일부 포함됐다 하더라도, 통화 녹음 외에 문자 메시지, 메모, 일정표 등 다른 증거들로 혐의 대부분이 입증된다"고 설명했다.&lt;/p&gt;</description>
-			<pubDate>Fri, 07 Feb 2025 04:19:04 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/205379</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/205379</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/205379.jpg</media:thumbnail>
-			<dc:creator>안재명 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
