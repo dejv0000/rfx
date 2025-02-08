@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>“기상 악화로 배 뒤집혀”… 여수 침몰 추정 사고로 3명 사망·7명 실종</title>
+      <link>https://www.chosun.com/national/national_general/2025/02/09/5WEUTVSOAZAANESB2SYU2BCUSQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/02/09/5WEUTVSOAZAANESB2SYU2BCUSQ/</guid>
+      <dc:creator>박선민 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 08 Feb 2025 22:11:21 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YFNGRAVJFFKWVFKAGFP4RHQBZ4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;9일 오전 전남 여수시 하백도 인근 해상서 14명의 승선원이 탑승한 대형 트롤 어선에서 침몰 추정 사고가 발생했다. 사진은 사고 직후 구명 뗏목에 타 구조를 기다리는 선원들의 모습. /여수해양경찰서&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전남 여수 하백도 인근 해역에서 침몰로 추정되는 어선 선박 사고가 발생했다. 현재 3명이 숨지고 7명이 실종 상태인 것으로 파악됐다. &lt;br&gt;&lt;br&gt;9일 여수해양경찰서 등에 다르면, 이날 오전 1시 41분쯤 여수시 삼산면 하백도 동쪽 약 17㎞ 해상에서 선원 14명이 탑승한 139톤급 대형 트롤 선박 A호가 갑자기 사라졌다고 함께 이동하던 선단 어선 측에서 신고했다.&lt;br&gt;&lt;br&gt;여수해양경찰서는 가용 인력을 현장에 출동시켜 같은 선단 소속 어선들과 함께 승선원 7명을 구조했다. 한국인 3명·외국인 4명 등이 구조된 선원 가운데, 의식이 없는 상태로 발견된 3명은 숨지고 나머지 4명은 저체온증을 호소하긴 하지만 의식이 있는 것으로 파악됐다. A호는 부산 선적으로, 탑승자 14명 중 8명은 한국인, 6명은 외국인으로 해경은 파악하고 있다.&lt;br&gt;&lt;br&gt;해경은 실종된 7명의 구조에 주력하고, 사고 경위를 조사할 방침이다. 여수 해경 측은 “사고 선박이 침몰한 것으로 추정된다”며 “나머지 승선원 인명구조에 최선을 다할 방침”이라고 밝혔다.&lt;br&gt;&lt;br&gt;사고 선박은 제22서경호인 것으로 확인됐다. 제22서경호의 생존자는 “항해 중 기상 악화로 배가 뒤집혔다. 배 안에 선원이 있었다”고 해경에 진술했다.&lt;br&gt;&lt;br&gt;해경은 제22서경호가 흔적 없이 사라진 정황에 비춰 선체가 침몰한 것으로 보고 심해잠수사 등 수중구조 세력 투입을 준비하고 있다. 해상에서는 항공기로 조명탄을 투하해 주변을 밝혀 침몰 추정 지점을 중심으로 반경 5㎞를 집중 수색 중이다. 수색 구역을 바둑판식으로 4개의 구획으로 나눠 경비함정 19척, 항공기 4대, 유관기관 선박 3척 등을 동원했다.&lt;br&gt;&lt;br&gt;최상목 대통령 권한대행 부총리 겸 기획재정부 장관은 이날 행안부 장관과 해양경찰청장에 경비함정과 수중수색 구조대원 등 가용 장비와 인력을 총동원하라며 “최우선으로 인명을 구조하고 실종자 파악에 최선을 다하라”고 긴급 지시했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>오요안나로 드러난 한국판 카스트... 비정규직 밑에 ‘가짜 3.3’</title>
       <link>https://www.chosun.com/national/2025/02/09/TYAM64JIMVHEZCD5TKAEFVIY4M/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/2025/02/09/TYAM64JIMVHEZCD5TKAEFVIY4M/</guid>
@@ -962,15 +971,6 @@
       <description/>
       <pubDate>Fri, 07 Feb 2025 07:04:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/N5T6BUKDSBCXQOCWL2EFHF3EA4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대구시 산격청사/대구시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대구택시근로자복지센터(DTL)에서 미등록 건설업자가 수억원대의 인테리어 공사를 계약하는 등 위법 사항이 적발돼 관리 기관인 대구시가 고발 조치를 하고 시정을 요구했다.&lt;br&gt;&lt;br&gt;7일 대구시에 따르면 시는 지난해 12월 시 공무원과 회계사 등으로 구성된 점검반을 통해 대구택시근로자복지센터에 대한 특별점검을 실시했다. 그 결과 센터 측은 2019년부터 2022년까지 미등록 건설업자와 총 6억 900만원 상당의 인테리어 공사를 계약했다. 대구시는 해당 건설업자를 수사기관에 고발하고 센터 측에는 공사 계약 시 이사회 승인을 의무화하도록 조치했다.&lt;br&gt;&lt;br&gt;이밖에도 센터 측은 매년 사업계획 및 실적과 예·결산서 등의 보고를 누락하고 회계 관리를 부실하게 한 것으로 드러났다. 택시 근로자 복지 사업의 수혜자도 명확하지 않거나 인사·보수 규정도 미비했으며, 이사회는 특정 노조 위주로 운영돼 의견 공유가 폐쇄적이었던 것으로 파악됐다.&lt;br&gt;&lt;br&gt;대구시는 센터 이사회를 시와 외부 전문가 등 다양한 구성원이 참여할 수 있도록 확대 구성할 방침이다. 또 미비한 서류나 규정 등을 보완하도록 센터 측에 시정 요구했다.&lt;br&gt;&lt;br&gt;대구시 관계자는 “위법·부당 사항에 대해 조속한 시정 조치와 더불어 이사회의 투명한 구성을 통해 센터가 설립 취지에 맞게 운영될 수 있도록 하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>개인정보위 “딥시크 정보 처리 방침·약관 등 분석 중…신중한 이용 당부”</title>
-      <link>https://www.chosun.com/national/national_general/2025/02/07/PZXPI2QX3FDZNBNMFGVFK4IMTU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/02/07/PZXPI2QX3FDZNBNMFGVFK4IMTU/</guid>
-      <dc:creator>김영우 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 07 Feb 2025 06:07:58 +0000</pubDate>
-      <content:encoded>개인정보보호위원회가 7일 “딥시크 서비스 이용 과정에서 보안상 우려가 지속적으로 제기되고 있는 상황을 고려해 신중한 이용을 당부드린다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EG4VXLC32NJT3K2DQYPIITYACM.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;남석 개인정보위원회 조사조정국장이 7일 서울 종로구 정부서울청사에서 딥시크 관련 추진상황 및 향후 대응방향을 브리핑하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;개인정보위는 이날 서울 종로구 정부서울청사에서 브리핑을 열고 “딥시크 서비스에 대한 조속한 검토를 거쳐 필요 시 개인 정보를 걱정 없이 안전하게 활용할 수 있는 방안을 제시할 예정”이라며 이같이 말했다.&lt;br&gt;&lt;br&gt;이날 브리핑에 나선 개인정보위 남석 조사조정국장은 “이를 위해 개인정보위는 현재 딥시크의 개인정보 처리 방침과 이용 약관 등을 분석하고 있다”며 “딥시크 서비스를 사용할 때 전송되는 데이터나 트래픽 등도 전문 기관 등과 분석하고 있다”고 설명했다.&lt;br&gt;&lt;br&gt;앞서 개인정보위는 딥시크 출시 직후인 지난달 31일 ‘딥시크 서비스 과정에서 어떻게 개인정보를 수집하고 처리하느냐’는 내용의 질의서를 딥시크 본사에 보냈다.&lt;br&gt;&lt;br&gt;개인정보위에 따르면, 질의서에는 개인정보 처리 주체, 수집 항목, 수집·이용 및 저장 방식, 당국과의 공유 여부 등의 내용이 담겼다.&lt;br&gt;&lt;br&gt;남 국장은 “딥시크에 2주 정도 답변할 시간을 주었다”며 “향후 여러 차례 질의응답을 거쳐 문제점이 없는지 등을 확인할 것”이라고 말했다.&lt;br&gt;&lt;br&gt;한편 개인정보위는 해외 주요국 개인정보 규제·감독기구와도 공동 대응 방안을 논의하고 있다고 밝혔다.&lt;br&gt;&lt;br&gt;개인정보위 관계자는 “영국, 프랑스, 아일랜드 등과 협의를 시작했고, 딥시크 개인정보 유출 우려 상황을 이들 국가의 기구와 공유하고 있다”고 말했다.&lt;br&gt;&lt;br&gt;개인정보위는 딥시크에 대한 점검을 마치는 대로 결과를 발표할 예정이다. 한편 정부 부처, 기업 등에서 생성형 AI 활용 수요가 늘어날 것으로 전망되는 만큼, 생성형 AI 활용 시 주의 사항을 안내하는 자료를 만들어 오는 3월까지 배포하기로 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>’삼성바이오 분식 회계 의혹’ 檢 상고심의위 열려... 이재용 상고 여부 논의</title>
