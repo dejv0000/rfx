@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>울산 도심서 ‘尹 탄핵 찬반’ 집회 열려… 충돌 없이 마무리</title>
+      <link>https://www.chosun.com/national/regional/2025/02/08/D7F7T7UO6NEBJJGT4PTHHNQDYM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/02/08/D7F7T7UO6NEBJJGT4PTHHNQDYM/</guid>
+      <dc:creator>조홍복 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 08 Feb 2025 10:21:09 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UIMYNCOZTFIORGJEYWAERELUPY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;8일 오후 울산 태화강역 광장에서 세이브코리아 울산운동본부가 주최한 윤석열 대통령 탄핵 반대 집회가 열리고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;8일 울산 도심 주요 광장에서 윤석열 대통령 탄핵을 촉구하거나 반대하는 집회가 각각 열렸다.&lt;br&gt;&lt;br&gt;이날 오후 울산 남구 태화강역 광장에서는 개신교 단체인 세이브코리아 울산본부가 주최한 탄핵 반대 집회가 열렸다. 900여명의 집회 참석자들은 두꺼운 점퍼와 장갑, 마스크 등 방한용품을 착용한 채 태극기와 성조기를 흔들며 “대통령을 석방하라” “비상계엄 지지한다” 등의 구호를 외쳤다.&lt;br&gt;&lt;br&gt;황교안 전 국무총리와 민경욱 전 의원도 집회에 참석해 연설했다. 황 전 총리는 “계엄령의 이유는 부정선거를 바로잡아 가짜 국회의원들을 쫓아내기 위한 것”이라며 “국회 탄핵소추안이 내란죄를 탄핵 사유에서 제외한 만큼 탄핵의 이유가 없다”라고 말했다. 민 전 의원은 부정선거 의혹을 재차 제기했다.&lt;br&gt;&lt;br&gt;집회를 마친 참가자들은 터미널사거리, 중리사거리를 거쳐 울산문화예술회관 광장까지 약 1.8㎞를 행진했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Y3VSKOWCUNNVVCNDNUFBAUUY2U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난해 12월 21일 울산시 남구 롯데백화점 앞 광장에서 윤석열퇴진 울산운동본부 주최로 열린 탄핵 찬성 집회 모습./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;반대 집회 직후 롯데백화점 광장에서는 ‘윤석열즉각퇴진 울산운동본부’가 주최한 탄핵 찬성 집회가 열렸다. 참가자 150여명은 “윤석열을 파면하라” “국민의힘 해체하라” 등의 구호를 외쳤다. 윤 대통령 즉각 탄핵을 요구한 뒤 번영사거리까지 왕복 2.2㎞ 거리를 행진했다.&lt;br&gt;&lt;br&gt;반대 집회 참가자 행렬이 대로를 사이에 두고 찬성 집회 현장 인근을 행진해 마찰 우려가 우려됐다. 다행히 별다른 충돌은 일어나지 않았다.&lt;br&gt;&lt;br&gt;도심 한가운데서 열린 집회와 행진으로 일부 차로가 통제되며 한때 차량 정체를 빚기도 했다. 경찰은 만일의 사태에 대비하기 위해 기동대 2개 중대를 투입해 현장을 정리하고 교통을 통제했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>MBC 故오요안나 사건 가를 핵심 쟁점, ‘프리랜서냐, 근로자냐’</title>
       <link>https://www.chosun.com/national/labor/2025/02/08/XX4EEG4FJVDV7IVYKI2HH7OS6I/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/labor/2025/02/08/XX4EEG4FJVDV7IVYKI2HH7OS6I/</guid>
@@ -959,15 +968,6 @@
       <description/>
       <pubDate>Fri, 07 Feb 2025 06:48:17 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3JRWTIHREJJ25NHTGSTUTMKYQM.JPG"&gt;&lt;figcaption&gt;&lt;small&gt; 7일 오전 11시25분쯤 대구 중구 남산동 남문시장네거리에서 K5 승용차가 인도 위 상가 건물 1층 서점으로 돌진해 4명이 다치는 사고가 발생했다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;무면허 운전을 하다 70대 행인들을 다치게 한 10대 2명을 경찰이 수사 중이다.&lt;br&gt;&lt;br&gt;7일 대구 중부경찰서 등에 따르면, 이날 오전 11시 25분쯤 중구 남산동 남문시장 교차로에서 좌회전을 하던 승용차가 갑자기 인도로 주행해 행인 2명을 치고 서점 입구를 들이받은 뒤 멈췄다.&lt;br&gt;&lt;br&gt;이 사고로 서점 주변을 걷고 있던 70대 여성 2명이 각각 중·경상을 입고 병원으로 옮겨졌다. 이들 모두 현재까지 생명에는 지장이 없는 것으로 파악됐다.&lt;br&gt;&lt;br&gt;승용차를 운전한 A(19)군과 동승했던 B(19)군은 경상을 입고 병원으로 이송됐다. A군은 무면허로 지인에게 렌터카를 빌려 운전하다 이 같은 사고를 낸 것으로 조사됐다. &lt;br&gt;&lt;br&gt;A군 등은 마약이나 음주 상태는 아니었던 것으로 조사됐다. 경찰은 정확한 사고 경위를 수사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>검찰, ‘타지마할 외유성 출장·샤넬재킷 의혹’ 김정숙 여사 불기소</title>
-      <link>https://www.chosun.com/national/court_law/2025/02/07/AFQTVOFGFBFNRMFCHDQUUCKHOA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/02/07/AFQTVOFGFBFNRMFCHDQUUCKHOA/</guid>
-      <dc:creator>이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 07 Feb 2025 05:46:00 +0000</pubDate>
-      <content:encoded>문재인 전 대통령의 배우자 김정숙 여사의 ‘인도 타지마할 외유성 출장’ 의혹과 ‘샤넬 재킷 미반납’ 의혹을 수사한 서울중앙지검 형사2부는 7일 김 여사를 불기소 처분했다고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3MILTIT5DBGI3BLURB6CLITZWQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김정숙 여사가 7일 우타르프라데시주 아그라 타지마할을 둘러본 뒤 나서고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;◇타지마할 방문, 공식 일정에 포함&lt;/b&gt;&lt;br&gt;&lt;br&gt;검찰은 우선 김 여사가 지난 2018년 11월 인도를 방문한 것과 관련한 직권남용권리행사방해 및 국고손실 혐의에 대해 ‘혐의 없음’으로 판단했다고 밝혔다. 당시 인도는 문재인 정부 ‘신남방정책’의 핵심 협력 파트너였는데, 대통령 내지 ‘최고위급 사절단’의 참석을 지속적으로 요청했다는 것이다. 의혹의 핵심인 타지마할 관람도 인도 측이 먼저 제안해 주 정부 관계자의 안내에 따라 진행된 공식일정인 것으로 밝혀졌다.&lt;br&gt;&lt;br&gt;당시 김 여사가 포함된 ‘한-인도 문화협력 대표단’은 인도 내 3개 지역을 방문하는 일정이 계획돼 있었고, 이에 따라 경호 및 이동 편의성 등을 고려해 ‘공군 2호기’ 사용이 결정됐다. 공군 규정상 전용기는 대통령 전용이 아니라 경호지원 및 정부 전용 임무 지원을 위해 사용이 가능하다고 한다. 대표단도 내부 법리 검토 및 공군본부 승인 등 필요 절차를 거친 것으로 조사됐다. &lt;br&gt;&lt;br&gt;또 대표단 규모가 45명인 점, 공군 2호기 조업 비용 등을 고려해 문화체육관광부 예비비 3억9834만원을 편성할 때에도 기획재정부 검토, 국무회의 의결, 대통령 재가 등 관련 절차를 준수했다는 것이 검찰 조사 결과다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6FKVTSAMZROGKWFWZDEPXYLHOE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;문재인 대통령 2018년 프랑스 국빈방문 당시 김정숙 여사가 입었던 샤넬 한글 재킷이 영종도 인천국제공항 제1여객터미널에 전시돼 있다(왼쪽 사진). 오른쪽 사진은 지난 2018년 10월 15일 김정숙 여사가 에마뉘엘 마크롱 대통령의 부인인 브리지트 마크롱 여사와 프랑스 파리 루브르 박물관으로 입장하고 있는 모습.  / 연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;◇샤넬, 재킷 증정 의사 밝혔지만 靑 사양&lt;/b&gt;&lt;br&gt;&lt;br&gt;김 여사가 2018년 프랑스를 국빈 방문할 당시 입었던 샤넬 재킷을 무상으로 제공받았다는 의혹도 검찰은 혐의가 없다고 봤다. 착용 당일 샤넬 측으로부터 일시적으로 무상 대여를 했고, 착용 후 이를 반납했다는 것이다. 또 이를 김 여사가 개인 소장하거나, 착용 과정에서 청와대 특수활동비 등이 지출된 정황은 확인되지 않았다고 검찰은 밝혔다.&lt;br&gt;&lt;br&gt;샤넬 측은 김 여사가 입었던 재킷이 ‘시제품’이어서 유상 대여나 기증의 대상으로 적합하지 않다고 보고, 새롭게 제작한 같은 재킷을 증정하려고 한 것으로 조사됐다. 그러나 청와대 측이 이를 사양했다는 것이다. 샤넬은 청와대와 협의를 거쳐 관련 절차에 따라 이를 국립한글박물관에 기증했고, 이 과정에서 특활비를 비롯한 예산이 사용된 바는 없는 것으로 확인됐다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇‘옷값 특활비’ 의혹은 계속 수사&lt;/b&gt;&lt;br&gt;&lt;br&gt;이 밖에도 검찰은 대통령경호처 경호관이 김 여사에게 개인 수영강습을 해줬다는 의혹, 기업 CEO들을 청와대로 불러 오찬을 했다는 의혹도 모두 혐의 없음 처분했다. 다만 검찰은 김 여사가 특활비로 옷값 등을 냈다는 의혹은 경찰 수사와 중복되는 만큼 계속 수사할 것이라고 했다.&lt;br&gt;&lt;br&gt;지난 2023년 12월 국민의힘 이종배 서울시의원의 고발로 인도 출장 의혹 수사에 착수한 검찰은 김 여사에 대해 지난달 중 서면조사를 실시한 뒤, 1년 2개월 만에 불기소로 결론 내렸다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>’삼성바이오 분식 회계 의혹’ 檢 상고심의위 열려... 이재용 상고 여부 논의</title>
