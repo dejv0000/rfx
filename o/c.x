@@ -13,6 +13,24 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>강원 동해시 주택서 불... 60대 남성 숨져</title>
+      <link>https://www.chosun.com/national/regional/gangwon/2025/02/09/R66YAZN3EZCW3FBOZHDJDLGQTQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/gangwon/2025/02/09/R66YAZN3EZCW3FBOZHDJDLGQTQ/</guid>
+      <dc:creator>신정훈 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 09 Feb 2025 13:25:33 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/44Z5WGUMS4PQZ7EY4UTAPEQIFQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;9일 오후 7시 55분쯤 강원 동해시 망상동의 한 주택에서 불이 난 가운데 거주자 1명이 숨지는 인명피해가 발생했다. (강원도소방본부 제공)/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;강원도 동해시의 한 주택에서 불이나 1명이 숨졌다.&lt;br&gt;&lt;br&gt;소방당국 등에 따르면 9일 오후 7시 55분쯤 강원 동해시 망상동 한 주택에서 원인을 알 수 없는 불이 났다.&lt;br&gt;&lt;br&gt;이 불은 1시간 30여분 만에 진화됐지만, 주택 안에서 A(67)씨가 숨진 채 발견됐다.&lt;br&gt;&lt;br&gt;또 이날 주택에서 발생한 불이 야산으로까지 번졌으나 소방당국에 의해 20여분 만에 진화됐다.&lt;br&gt;&lt;br&gt;경찰과 소방 당국은 정확한 화재 원인과 피해 규모를 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“승강기에 갇혔어요”... 충북 청주서 정전으로 주민 불편</title>
+      <link>https://www.chosun.com/national/regional/chungcheong/2025/02/09/T7BZG7GZEVENDPBHBJOM5E7JRA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2025/02/09/T7BZG7GZEVENDPBHBJOM5E7JRA/</guid>
+      <dc:creator>신정훈 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 09 Feb 2025 13:33:41 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WRLP7PKFBJGAVF5P2GEG3KQNPM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;119 구급차/신정훈 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;9일 충북 청주의 한 마을에서 정전사고가 발생해 주민이 승강기에 고립되는 사고가 발생했다. &lt;br&gt;&lt;br&gt;충북소방본부 등에 따르면 이날 오후 3시 50분쯤 청주시 청원구 오창읍과 흥덕구 옥산면 일대에 약 9분간 전기 공급이 끊겼다. &lt;br&gt;&lt;br&gt;이 때문에 일대 아파트와 상가 234가구가 정전이 됐고, “승강기에 갇혔다”는 5건의 구조요청도 들어왔다. &lt;br&gt;&lt;br&gt;신고로 받고 출동한 119 구조대에 주민 모두 안전하게 구조됐고 부상자는 없었다. &lt;br&gt;&lt;br&gt;한국전력 충북본부 관계자는 “변전소 쪽에서 전기공급에 문제가 있었던 것으로 보인다”며 “정확한 원인을 파악 중”이라고 설명했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>﻿횡령 의혹 제기된 ‘구독자 50만’ 자동차 명장 “악의적 내용…방송사 명예 훼손으로 고소할것”</title>
       <link>https://www.chosun.com/national/national_general/2025/02/09/BSLYQCGYWVCEBLK2B3KC3IVVNE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/02/09/BSLYQCGYWVCEBLK2B3KC3IVVNE/</guid>
@@ -912,24 +930,6 @@
       <description/>
       <pubDate>Fri, 07 Feb 2025 09:10:43 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/V7F7XEP2K2PKVTXDYPZJY3X3HY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;7일 서울 종로구 서울대학교병원 장례식장에 '국민 트로트 가수' 고 송대관의 빈소가 마련돼 있다. 2025.2.7/뉴스1 ⓒ News1 사진공동취재단&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘해뜰날’ ‘유행가’로 국민적 사랑 받은 가수 송대관(79)이 7일 심장마비로 별세했다. 이날 오후 고인의 빈소에서는 가족들이 연신 눈물을 쏟았고 가수 태진아, 이자연 등 동료들의 발길이 이어졌다.&lt;br&gt;&lt;br&gt;빈소가 차려지기 전이던 이날 오전 11시쯤 서울 종로구 서울대병원 장례식장에는 고인의 아내 이정심씨가 직원의 안내를 받는 와중에도 연신 눈물을 흘리고 있었다. 이씨의 휴대폰에 지인들의 전화가 쏟아지자 휴대폰에서는 “쨍하고 해뜰 날 돌아온단다”라는 고인의 노래가 흘러나왔다.&lt;br&gt;&lt;br&gt;쉽사리 걷지 못하는 이씨를 붙잡은 건 아들 송진형씨였다. 미국에 거주하던 송씨는 설날을 맞아 며칠 전 한국을 찾아온 상황이었다. 고인이 세상을 떠난 이날은 고인의 모친의 기일이기도 했다.&lt;br&gt;&lt;br&gt;고인과 합을 맞추며 일했었던 소속사 대표 이대옥씨는 “(고인이) 몸이 좀 아프셨다가 조금 괜찮아지셨는데 갑자기 심장 마비가 오셔서...”라며 말을 잇지 못했다.&lt;br&gt;&lt;br&gt;오후 3시쯤 차려진 빈소에는 고인의 영정사진이 고이 모셔졌다. 영정 속 고인은 화려가 무늬가 그려진 주황색 겉옷을 입고 환히 웃고 있었다. 빈소에서는 “내 앞길은 멀고 험난해도 주님만 따라가리라”는 고인의 노래 ‘주 안에 있는 나에게’가 흘러나왔다.&lt;br&gt;&lt;br&gt;가수 태진아, 혜은이, 이자연, 장진, 배우 최다니엘 등 고인의 동료, 후배들의 조문 행렬이 이어졌다. 빈소 앞에는 그를 기리는 동료, 후배, 국회의원 등이 보내온 수십개의 화환이 줄을 지었다. &lt;br&gt;&lt;br&gt;가수 태진아는 애써 눈물을 참는 듯한 목소리로 “송 선배는 최전선에서 우리의 장르를 꿋꿋하게 지켜준 사람” “대한민국 가요계 별 중에 가장 큰 별이라고 항상 믿었다”며 “태진아하면 송대관, 송대관하면 태진아였다. 이제 전 한쪽 날개를 잃은 거나 마찬가지”고 했다.&lt;br&gt;&lt;br&gt;가수 장진은 “이제 내 곁에 형님을 못 뵙느다는 자체가 슬프고 아쉽다”며 “늘 형님께서 제 곁에 계신다고 생각하고 노래하겠다. 형님을 잊지 않겠다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JIB22XDGUBHNXGKVVVDEYJML3Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;7일 오후 전북 전주 영생고등학교 총동문회관 1층에 고(故) 송대관씨의 분향소가 차려졌다./영생고 총동문회&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한편 고인의 모교인 전북 전주 영생고 총동문회는 총동문회관 1층에 분향소를 마련했다. 총동문회 측은 “7일 전주에 폭설이 내린 바람에 동문들이 서울에 차려진 빈소를 찾기 어려워 분향소를 마련했다”고 설명했다.&lt;br&gt;&lt;br&gt;총동문회 상임부회장을 맡고 있는 홍성택(71)씨는 “매년 10월 열리는 동문회 행사에도 매번 참석했고 늘 기금을 후원하는 등 동문들에게 큰 도움을 줬다”며 “많은 동문들이 큰 충격에서 헤어나오지 못하고 슬퍼하고 있다”고 했다.&lt;br&gt;&lt;br&gt;고인의 발인은 9일 오전 11시에 거행되며 장지는 서울추모공원으로 정해졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“왜 네 멋대로 담배 펴?”… 이유 없이 병사 폭행한 부사관 ‘벌금 50만원’</title>
-      <link>https://www.chosun.com/national/court_law/2025/02/07/DRKBCFNQ6BBKDGSRWZVZ7FNJ5U/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/02/07/DRKBCFNQ6BBKDGSRWZVZ7FNJ5U/</guid>
-      <dc:creator>춘천=정성원 기자</dc:creator>
-      <description>아무 이유 없이 병사들을 괴롭힌 부사관에게 법원이 벌금형을 선고했다.춘천지법 형사1단독 신동일 판사는 폭행 혐의로 기소된 A(24)씨에게 벌금 50만원을 선고했다고 7일 밝혔다.</description>
-      <pubDate>Fri, 07 Feb 2025 08:46:37 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/X2F62GUYMIU77QHYEOVC45JCZ4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;춘천지법./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;아무 이유 없이 병사들을 폭행한 부사관에게 법원이 벌금형을 선고했다.&lt;br&gt;&lt;br&gt;춘천지법 형사1단독(판사 신동일)은 폭행 혐의로 기소된 A(24)씨에게 벌금 50만원을 선고했다고 7일 밝혔다.&lt;br&gt;&lt;br&gt;2020년 하사로 임관한 A씨는 2023년 1월 부대 흡연장에서 병사 B씨에게 “왜 네 멋대로 담배를 피우느냐”며 B씨의 정강이를 자신의 무릎에 올리게 한 뒤 팔꿈치로 찍어누르는 등 폭행을 가한 혐의다. A씨는 이 과정에서 B씨가 비명을 지르자 “비명을 지르면 더 맞는다”며 폭행을 이어갔다.&lt;br&gt;&lt;br&gt;A씨는 또 B씨가 군복 하의 안에 활동복을 입었다는 이유로 정강이를 걷어찬 것으로 조사됐다.&lt;br&gt;&lt;br&gt;A씨는 B씨 이 외에도 병사 C씨와 D씨에게도 폭행을 가한 혐의를 받고 있다. C씨에겐 아무 이유 없이 잘하라며 폭행을 가했고, D씨에겐 인사를 제대로 하라며 폭행을 가했다.&lt;br&gt;&lt;br&gt;신 판사는 “군대 내에서 계급상 우월한 지위를 악용해 범행을 저질렀다”면서 “잘못을 인정하는 점 등을 양형에 참작했다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>흉기 찔려 평생 ‘배변 장애’ 생겼는데… 가해 스토킹男은 감형, 왜?</title>
-      <link>https://www.chosun.com/national/national_general/2025/02/07/6ZGNYZGN35D5LECSZAXPE6XKSM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/02/07/6ZGNYZGN35D5LECSZAXPE6XKSM/</guid>
-      <dc:creator>문지연 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 07 Feb 2025 09:00:04 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JHWE22LGVBCVHJU35XWRGTUTZU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 중앙지방법원 로비에 법원 마크가 밝게 빛나고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;스토킹하던 여성을 지속해 폭행하고 흉기를 휘둘러 영구적인 장애까지 입힌 50대 남성이 항소심에서 감형받았다.&lt;br&gt;&lt;br&gt;대구고법 제1형사부(부장판사 정성욱)는 살인미수 혐의로 기소된 A씨 항소심에서 징역 25년을 선고한 원심을 파기하고 징역 18년을 선고했다고 7일 밝혔다. 위치추적 전자장치 10년 부착 명령은 그대로 유지했다.&lt;br&gt;&lt;br&gt;A씨는 2023년 10월 경북 문경시 한 식당에서 자신을 내쫓는 여성 지인 B(55)씨의 복부와 등을 흉기로 찌르고, B씨가 쓰러진 후에도 수차례 발로 짓밟은 혐의로 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;당시 병원으로 이송된 B씨는 대장을 1m40㎝가량 절단하는 등 심각한 상해를 입어 생명이 위독한 지경까지 이르렀다. 다행히 여러 번의 수술 끝에 생명은 건질 수 있었지만, 정상적인 배변 활동과 의사소통이 어려워진 것으로 전해졌다.&lt;br&gt;&lt;br&gt;앞서 A씨는 10년간 자신이 B씨의 연인이라 주장하며 끊임없이 연락하는 등 과한 집착을 보여왔다고 한다. B씨가 다른 남성과 술 마시는 모습을 보고 화가 나 주먹을 휘둘러 B씨를 때리기도 했다.&lt;br&gt;&lt;br&gt;일련의 사건들로 인해 상해죄, 주거침입죄, 업무방해죄 등으로 10회 이상 형사처벌 받은 전력도 있었다. 통합심리분석 결과 A씨는 통제력 저하 및 폭발적 감정 표출의 위험성을 띠는 것으로 나타났다.&lt;br&gt;&lt;br&gt;항소심 재판부는 “피해자는 심각한 상해를 입었고 장차 적지 않은 후유증이 남을 것으로 보인다”고 했다. 다만 “범행을 인정하고 잘못을 깊이 뉘우치고 있는 점, 다행히 미수에 그쳐 피해자가 사망하는 중대한 결과에 이르지 않은 점 등을 참작했다”고 양형 이유를 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>서울대 정시 합격자 5명 중 1명은 ‘장수생’</title>
