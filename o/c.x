@@ -13,6 +13,24 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>﻿횡령 의혹 제기된 ‘구독자 50만’ 자동차 명장 “악의적 내용…방송사 명예 훼손으로 고소할것”</title>
+      <link>https://www.chosun.com/national/national_general/2025/02/09/BSLYQCGYWVCEBLK2B3KC3IVVNE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/02/09/BSLYQCGYWVCEBLK2B3KC3IVVNE/</guid>
+      <dc:creator>이가영 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 09 Feb 2025 08:34:56 +0000</pubDate>
+      <content:encoded>&lt;br/&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5KKRJNWSHRGTLIGH3BYL2QR3CE.png"&gt;&lt;figcaption&gt;&lt;small&gt;'자동차 명장' A씨가 자신이 개발한 불이 붙지 않는 워셔액에 대해 설명하고 있다. /A씨 유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;구독자 50만명을 보유한 유튜버이자 다수 방송에서 자동차 전문가로 소개된 ‘대한민국 자동차 정비 명장’ A씨에 대한 횡령 의혹이 제기됐다. A씨는 “악의적 내용”이라며 해당 의혹을 제기한 방송사를 고소하겠다고 반박했다.&lt;br&gt;&lt;br&gt;지난 7일 방송된 SBS ‘궁금한 이야기 Y’에서는 자동차 명장 A씨가 ‘불이 붙지 않는 워셔액’을 개발했다며 투자금만 받은 뒤 제품 출시는 하지 않고 있다는 의혹을 제기했다.&lt;br&gt;&lt;br&gt;투자자들은 2020년 손실이 발생할 경우 A명장이 변제하겠다는 약속을 받은 뒤 1억6000만원가량의 돈을 건넸다고 했다. 불이 붙지 않는 워셔액에 관한 투자금이었다. 하지만 전 동업자 B씨는 방송에서 “(워셔액 상품화도) 못 했다. (A명장이) 공금 횡령을 해서 돈을 다 써버렸다”고 했다.&lt;br&gt;&lt;br&gt;방송에서는 A명장이 2022년 6월 업무상 횡령 혐의로 벌금 300만원의 약식명령을 받았다는 사실이 공개됐다. 전 동업자 B씨는 A씨가 얼마 전부터 불이 붙지 않는 워셔액을 홍보하며 또 다른 투자자를 모집하고 있다며 “투자한 사람들은 ‘나 사기당했어’ 이렇게 생각하지 않겠느냐”고 했다.&lt;br&gt;&lt;br&gt;A명장이 제작진에게 불이 붙지 않는 워셔액 성능을 보여주겠다고 나섰으나 개발한 워셔액에 불이 붙는 장면도 공개됐다. A명장은 “오래돼서 그렇다. 다른 거랑 섞였나 보다”라고 했다.&lt;br&gt;&lt;br&gt;방송 이후 A명장의 유튜브에는 “궁금한 이야기 방송 보고 왔다” “돈 빌리고 안 갚은 분 맞나” “명장은 맞냐” 등 비판 댓글이 연이어 달렸다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇A명장 “국민 안전 위해서 만든 워셔액…투자금 1억원 그대로 있다”&lt;/b&gt;&lt;br&gt;&lt;br&gt;A명장은 9일 조선닷컴과 통화에서 “완전히 악의적으로 편집됐다”며 “변호사를 통해 국민권익위원회와 언론중재위원회 등에 고소를 준비하고 있다”고 했다.&lt;br&gt;&lt;br&gt;그는 1억6000여 만원의 투자금에 대한 횡령 의혹은 전혀 사실이 아니라고 반박했다. 회사 업무와 관련되지 않은 곳에 마음대로 돈을 쓰지 않았다는 것이다. A명장은 “투자금 중 1억원은 사무실 보증금으로 사용해 그대로 남아있고, 나머지 6000여 만원은 집기류와 물품 구입 등에 사용했다. 이를 증명하기 위해 법원에 법인 통장 사용 내역 공개를 신청한 상태”라고 했다.&lt;br&gt;&lt;br&gt;2022년 횡령 혐의로 벌금형을 받은 것에 관해서는 “1700만원 정도의 가지급금을 갖다 쓴 적이 있다”며 “감사가 영수증을 정확히 써야 한다고 지적해서 영수증 쓰고, 돈과 이자까지 다 입금했다”고 했다. 이어 “당시 수사받을 때 그 영수증을 찾지 못했다”며 “담당 변호사가 ‘수임료가 500만원이고, 벌금이 300만원이니 그냥 벌금 내고 끝내라’고 조언해 그렇게 끝낸 거다. 잘못이 있어서 벌금을 문 게 아니다”라고 했다.&lt;br&gt;&lt;br&gt;A명장은 자신이 개발한 워셔액에 불이 붙는 장면에 관해서는 “보여달라고 한 것도 아닌데 내가 먼저 보여줬다”며 “두 종류가 있었는데 하나에 불이 조금 붙었다. 하나는 안 붙었다는 걸 이야기하면서 조금 더 개발이 필요하다고 하는 게 맞지, 불붙는 장면만 보여주는 게 맞는 거냐”고 되물었다.&lt;br&gt;&lt;br&gt;그는 “워셔액이 알코올 성분으로 되어 있는데, 통이 약하고 깨지기 쉽다”며 “사고가 나면 워셔액 때문에 차에 불이 날 수도 있다. 국민들 안전을 위해서 불붙지 않는 워셔액을 개발한 것이지 꼭 돈을 벌려고 한 게 아니다”라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>층간소음으로 다투던 이웃 살해한 40대 남성 체포</title>
+      <link>https://www.chosun.com/national/incident/2025/02/09/K6VNRA2IVZAOXFUP3P47RC6BXU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/02/09/K6VNRA2IVZAOXFUP3P47RC6BXU/</guid>
+      <dc:creator>양주=김현수 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 09 Feb 2025 09:28:13 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/L4GEXC5HOZAC5NA5TDDI7RQ23U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 양주시에서 층간 소음 문제로 다투다 이웃을 살해한 40대가 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;양주경찰서는 살인 혐의로 40대 남성 A씨를 붙잡아 조사하고 있다고 9일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 이날 오후 1시쯤 양주시 백석읍 한 빌라에서 아래층에 거주하던 B씨를 살해한 혐의를 받는다. A씨는 사건 발생 직후 자신이 119에 신고했고, 소방서의 공동 대응을 요청 받은 경찰이 A씨를 체포했다.&lt;br&gt;&lt;br&gt;경찰은 사건 경위를 조사하며 A씨에 대한 구속 영장을 신청할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>[오늘의 운세] 2월 10일 월요일(음력 1월 13일 庚戌)</title>
       <link>https://www.chosun.com/national/national_general/2025/02/09/UWUO4DCKCNCSFNHFOLCYZJX5EQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/02/09/UWUO4DCKCNCSFNHFOLCYZJX5EQ/</guid>
@@ -912,24 +930,6 @@
       <description/>
       <pubDate>Fri, 07 Feb 2025 09:00:04 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JHWE22LGVBCVHJU35XWRGTUTZU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 중앙지방법원 로비에 법원 마크가 밝게 빛나고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;스토킹하던 여성을 지속해 폭행하고 흉기를 휘둘러 영구적인 장애까지 입힌 50대 남성이 항소심에서 감형받았다.&lt;br&gt;&lt;br&gt;대구고법 제1형사부(부장판사 정성욱)는 살인미수 혐의로 기소된 A씨 항소심에서 징역 25년을 선고한 원심을 파기하고 징역 18년을 선고했다고 7일 밝혔다. 위치추적 전자장치 10년 부착 명령은 그대로 유지했다.&lt;br&gt;&lt;br&gt;A씨는 2023년 10월 경북 문경시 한 식당에서 자신을 내쫓는 여성 지인 B(55)씨의 복부와 등을 흉기로 찌르고, B씨가 쓰러진 후에도 수차례 발로 짓밟은 혐의로 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;당시 병원으로 이송된 B씨는 대장을 1m40㎝가량 절단하는 등 심각한 상해를 입어 생명이 위독한 지경까지 이르렀다. 다행히 여러 번의 수술 끝에 생명은 건질 수 있었지만, 정상적인 배변 활동과 의사소통이 어려워진 것으로 전해졌다.&lt;br&gt;&lt;br&gt;앞서 A씨는 10년간 자신이 B씨의 연인이라 주장하며 끊임없이 연락하는 등 과한 집착을 보여왔다고 한다. B씨가 다른 남성과 술 마시는 모습을 보고 화가 나 주먹을 휘둘러 B씨를 때리기도 했다.&lt;br&gt;&lt;br&gt;일련의 사건들로 인해 상해죄, 주거침입죄, 업무방해죄 등으로 10회 이상 형사처벌 받은 전력도 있었다. 통합심리분석 결과 A씨는 통제력 저하 및 폭발적 감정 표출의 위험성을 띠는 것으로 나타났다.&lt;br&gt;&lt;br&gt;항소심 재판부는 “피해자는 심각한 상해를 입었고 장차 적지 않은 후유증이 남을 것으로 보인다”고 했다. 다만 “범행을 인정하고 잘못을 깊이 뉘우치고 있는 점, 다행히 미수에 그쳐 피해자가 사망하는 중대한 결과에 이르지 않은 점 등을 참작했다”고 양형 이유를 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>부산항 4부두 주변 부두도로 지반 침하…2개 차로 통제</title>
-      <link>https://www.chosun.com/national/regional/yeongnam/2025/02/07/DMKVF6N7D5DU7DPQU2BCZJNE5M/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/yeongnam/2025/02/07/DMKVF6N7D5DU7DPQU2BCZJNE5M/</guid>
-      <dc:creator>박주영 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 07 Feb 2025 08:42:01 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VGHXHQ3UCJGXREKA2653IZRPCQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;7일 오전 부산 동구 충장대로 4부두 교차로에서 5부두교차로 방향의 지반이 침하됐다./부산경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;7일 오전 부산 동구 부산항 4,5부두 부근 도로가 일부 침하됐다.&lt;br&gt;&lt;br&gt;경찰에 따르면 이날 오전 10시 45분쯤 동구 초량동과 좌천동 충장대로 4부두교차로에서 5부두교차로 방향 지반이 침하돼 있는 것을 공사 관계자가 발견, 신고했다.&lt;br&gt;&lt;br&gt;신고를 받은 부산 동부경찰서 측은 이 도로 3개차로 중 1, 2차로를 통제하고 지반 침하 사실을 동구와 부산시 등의 재난상황실에 통보했다. 경찰은 도로가 침하된 지역 부근 초량1지하차도 부산역 방향, 중구 중앙동 영주고가교 부산역 방향, 연안삼거리의 차량 통행을 이날 오후 4시40분쯤까지 통제했다.&lt;br&gt;&lt;br&gt;이 지반침하와 주변 차량 통행 통제로 부두도로인 충장대로 일대가 심한 교통체증에 시달렸다. 지반침하가 일어난 곳은 지하차도(1.94㎞) 공사가 진행 중인 구간이다. 경찰은 “다행히 신고가 신속히 이뤄져 지반 침하 사고로 인한 물적, 인적 피해는 발생하지 않았다”고 말했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“토할 거 같다” 한 마디에 수갑 풀었다가… 음주운전자 놓친 경찰</title>
-      <link>https://www.chosun.com/national/incident/2025/02/07/2732LMH6NBDN3BFCCTCPZ74NGQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/02/07/2732LMH6NBDN3BFCCTCPZ74NGQ/</guid>
-      <dc:creator>이승규 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 07 Feb 2025 08:34:10 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/L4GEXC5HOZAC5NA5TDDI7RQ23U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;음주운전으로 체포된 뒤 경찰의 감시가 해이해진 틈을 타 달아난 40대 남성이 다시 붙잡혔다. 경찰은 이 남성의 수갑을 풀어주는 등 감시에 소홀했던 경관에 대한 징계를 검토할 방침이다. &lt;br&gt;&lt;br&gt;7일 경북 포항남부경찰서는 도주 등 혐의로 40대 남성 A씨를 현행범으로 체포했다. A씨는 이날 오전 4시쯤 포항시 남구 구룡포읍의 한 도로에서 음주운전을 하다 체포된 뒤, 경찰의 눈을 피해 달아난 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;A씨는 운전 당시 혈중알코올 농도 0.183%로 면허 취소 수준이었으며, 경찰이 신분을 확인하는 과정에서 과거에 벌금을 내지 않아 수배 중이었던 사실도 추가로 드러났다.&lt;br&gt;&lt;br&gt;파출소에서 조사를 받던 A씨는 오전 5시 30분쯤 “토할 것 같으니 수갑을 풀어달라”고 한 뒤, 경찰이 수갑을 풀자마자 그대로 달아났다. 경찰은 방범카메라 등을 통해 도주 약 4시간 만인 오전 9시 17분쯤 구룡포의 한 창고에서 A씨를 붙잡았다.&lt;br&gt;&lt;br&gt;경찰은 A씨 수사와 별도로 당시 파출소 경관을 상대로 A씨의 수갑을 풀어준 경위 등을 조사해 징계 여부를 검토할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>서울대 정시 합격자 5명 중 1명은 ‘장수생’</title>
