@@ -13,6 +13,87 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>‘유퀴즈’ 정신과 교수 “우울증은 죄 없다, 죗값은 살해 교사가”</title>
+      <link>https://www.chosun.com/national/national_general/2025/02/11/DNLHJD6BEFCJRPGEJ64D3JPXOA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/02/11/DNLHJD6BEFCJRPGEJ64D3JPXOA/</guid>
+      <dc:creator>이혜진 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 11 Feb 2025 12:58:13 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7IDQZEPCFFFXXAYOB4O53TKFJY.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;나종호 예일대 의대 정신의학과 교수/유튜브 '세바시 강연 Sebasi Talk'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;나종호 예일대 정신의학과 조교수는 대전의 한 교사가 초등학생 김하늘(8) 양을 살해한 사건과 관련해 “죄는 죄인에게 있지, 우울증은 죄가 없다”고 밝혔다.&lt;br&gt;&lt;br&gt;나 교수는 11일 자신의 페이스북에 ‘우울증은 죄가 없습니다’라는 제목의 글을 올리고 이같이 밝혔다. 나 교수는 서울대 심리학과와 의학전문대학원을 졸업하고 미국에서 교수로 재직 중이며, 2023년 tvN 예능 프로그램 ‘유퀴즈 온더블럭’에 출연했다. 그는 “가해자는 응당한 죗값을 치러야 할 것”이라면서도 “다만 아무것도 밝혀지지 않은 상황에서 언론이 우울증 휴직 전력을 앞다투어 언급하는 것은 부적절하다”고 했다.&lt;br&gt;&lt;br&gt;그는 “이는 우울증에 대한 낙인을 강화시켜 도움을 꼭 받아야 할 사람들이 치료를 받지 못하게 만들어 한국의 정신건강 위기를 더욱 악화시킬 것”이라고 우려했다. 그는 “한국의 우울증 치료율은 여전히 10%에 불과하다”라며 “10명 중 9명이 제대로 된 치료를 받지 않는 것”이라고 했다.&lt;br&gt;&lt;br&gt;나 교수는 또 “같은 나이 딸을 둔 아버지로서 너무나 가슴 아픈 일”이라며 “피해자 유가족의 감정은 감히 상상도 할 수 없다”고 말했다. 이어 “고인의 명복을 빌며 유가족이 필요한 도움을 받을 수 있기를 기원한다”고 덧붙였다.&lt;br&gt;&lt;br&gt;건강보험심사평가원에 따르면 2017년 69만1164명이던 우울증 환자는 2021년 93만3481명으로 35.1%가량 늘었다. 하지만 우울증 치료율은 낮은 수준이다. 2022년 대한우울자살예방학회에 따르면 한국의 우울증 치료율은 11%로 OECD 국가 중 최저 수준이다. 미국의 우울증 치료율은 66%다. 우리나라에서 우울증 치료율이 낮은 것은 정신건강의학과 진료에 대한 부정적 인식이 여전하고, 우울증을 개인이 극복해야 할 문제로 치부하는 분위기 때문이라는 게 전문가들의 분석이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/F7FSRUEJ7BDTJE7QBE3DVCFGJ4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;11일 오후 대전 서구 한 초등학교 정문 앞에 학생들이 국화꽃을 놓으며 추모하고 있다. 지난 10일 오후 5시 50분쯤 이 학교에서 초등학교 1학년생인 김하늘(8) 양이 흉기에 찔려 심정지 상태로 발견됐으나 숨졌다. 경찰은 현장에서는 다친 채 발견된 교사 A(48) 씨가 김 양을 찌른 뒤 자해한 것으로 보고 자세한 사건 경위를 조사하고 있다. /신현종 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;앞서 10일 오후 6시쯤 대전 서구 관저동의 한 초등학교 2층 시청각실에서 김 양이 흉기에 찔린 채 발견됐다. 경찰은 이날 오후 5시 18분쯤 ‘아이가 사라졌다’는 부모의 신고를 받고 학교에 출동했고, 수색 끝에 시청각실 창고에서 의식을 잃은 채 쓰러져 있는 A양을 발견했다. A양은 병원으로 이송됐으나 결국 숨졌다. A양은 돌봄 수업을 마친 뒤 사고를 당한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰은 창고에서 이 학교 여교사 A씨도 발견했다. A씨는 팔과 목이 흉기에 찔린 채 쓰러져 있었다. B씨는 병원으로 이송된 뒤 경찰에 “내가 흉기를 휘둘렀다”고 자백한 것으로 알려졌다. 창고에서는 흉기인 칼도 발견됐다. A씨는 불특정 학생을 살해하고 자신도 스스로 목숨을 끊을 목적으로 칼을 구입해 범행을 저지른 것으로 드러났다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>尹대통령 담당 재판부, 새 사건 배당 중지... 내란 심리 집중한다 </title>
+      <link>https://www.chosun.com/national/court_law/2025/02/11/YSEEZAY3D5DFNKTP3IKLXOEM6E/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/02/11/YSEEZAY3D5DFNKTP3IKLXOEM6E/</guid>
+      <dc:creator>김나영 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 11 Feb 2025 10:30:51 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/73PCJBSTA46FSWJFESIN654VYM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 서울중앙지법 전경. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 대통령에 대한 내란 형사 재판을 담당하는 재판부가 신건 배당을 받지 않기로 했다. 사회적으로 중요한 사건을 전담하고 있는 만큼 해당 재판에 집중하도록 한 취지다.&lt;br&gt;&lt;br&gt;11일 법조계에 따르면 서울중앙지법은 형사25부(지귀연 부장판사)에 윤 대통령 사건의 배당 이후 신건 배당을 중지하기로 했다. 법원은 재판부 여럿이 사건을 나눠서 담당하는 구조인데, 당분간은 형사25부에 새로운 사건을 주지 않겠다는 것이다.&lt;br&gt;&lt;br&gt;중앙지법 관계자는 “이번 결정은 집중 심리가 필요하면 재판부가 신건 배당 중지를 요청할 수 있는 대법원 예규에 따른 것”이라고 설명했다. 적시처리가 필요한 중요사건의 선정 및 배당에 관한 대법원 예규 5조 2항은 “사건배당 주관자는 적시처리 필요 중요사건을 배당받은 재판부에 대하여 일반사건의 배당을 중지하거나 적게 할 수 있다”고 되어 있다.&lt;br&gt;&lt;br&gt;앞서 내란 중요 임무 종사 및 직권남용 혐의로 구속 기소된 김용현 전 국방부 장관, 조지호 경찰청장, 김봉식 전 서울경찰청장, 노상원 전 정보사령관, 김용군 전 대령​ 사건도 같은 재판부에 배당​됐다. 군사법원에서 재판을 받아야 하는 현역 군인을 제외하고, 비상계엄 관련 피고인들이 모두 같은 재판부에서 재판을 받게 된 것이다. &lt;br&gt;&lt;br&gt;대법원 예규에 따르면, 관련 사건이 여러 건 접수되는 경우 먼저 배당된 사건을 맡은 재판부에 집중 배당할 수 있다. 서울중앙지법은 ‘비상계엄 사태’라는 하나의 사건으로 기소된 피고인들을 심리의 효율성 등을 고려해 형사25부에 같이 배당했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>헌재, ‘韓총리 증인신청’ 기각…선관위 서버 검증 요구도 안 받아들여</title>
+      <link>https://www.chosun.com/national/court_law/2025/02/11/TZ6B52QDFZB6DJY3QVE3WTQLZE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/02/11/TZ6B52QDFZB6DJY3QVE3WTQLZE/</guid>
+      <dc:creator>유종헌 기자, 박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 11 Feb 2025 11:10:14 +0000</pubDate>
+      <content:encoded>윤석열 대통령 탄핵심판을 심리 중인 헌법재판소가 한덕수 국무총리를 증인으로 불러달라는 윤 대통령 측 신청을 기각했다. 헌재는 또 중앙선거관리위원회 서버 검증 요구도 재판관 만장일치 의견으로 기각했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QBSII54CW5HZ5DQRIIOOKHPKPE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;11일 서울 종로구 헌법재판소 대심판정에서 열린 윤석열 대통령 탄핵심판 7차 변론기일에서 피청구인 윤석열 대통령이 진술하고 있다./헌법재판소&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;문형배 헌법재판소장 권한대행은 11일 윤 대통령 탄핵심판 7차 변론기일 말미에 “피청구인(윤 대통령) 측의 한덕수·이경민에 대한 증인 신청은 그 필요성이 부족해 기각한다”고 밝혔다. 한 총리와 이경민 방첩사령관 직무대리를 증인으로 부르자는 윤 대통령 측 신청을 받아들이지 않은 것이다.&lt;br&gt;&lt;br&gt;문 대행은 윤 대통령 측의 두 번째 선관위 서버 검증 요구도 받아들이지 않았다. 헌재는 지난달 30일 윤 대통령 측의 검증 요구를 한 차례 기각했는데, 윤 대통령 측이 이의를 제기하자 재판관 평의를 거쳐 이를 다시 기각한 것이다. 문 대행은 “앞선 결정에 법령 위반이 없다”면서 “만장일치로 2차 검증 신청을 기각한다”고 했다.&lt;br&gt;&lt;br&gt;헌재는 윤 대통령 측이 지난 10일 추가로 신청한 증인 3명에 대해서는 “재판관 평의를 거쳐 채부를 결정하겠다”고 했다. 윤 대통령 측은 최근 강의구 대통령비서실 1부속실장, 박경선 전 서울동부구치소장, 신용해 법무부 교정본부장을 증인으로 신청했다. &lt;br&gt;&lt;br&gt;한편 이날 변론기일에선 이상민 전 행정안전부 장관, 신원식 국가안보실장, 백종욱 전 국가정보원 3차장, 김용빈 중앙선거관리위원회 사무총장 등 4명에 대한 증인신문이 진행됐다. 윤 대통령은 신 실장 증인신문이 끝난 뒤 먼저 구치소로 복귀했다.&lt;br&gt;&lt;br&gt;다음 변론기일은 오는 13일 열린다. 이날은 조태용 국가정보원장, 김봉식 전 서울경찰청장, 조성현 수도방위사령부 1경비단장에 대한 증인신문이 예정돼 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>민노총, 회계 공시 거부하려다...대의원 과반 반대로 무산</title>
+      <link>https://www.chosun.com/national/labor/2025/02/11/4BMAMLG2HBFYTL3RZJW4P4FRNQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/labor/2025/02/11/4BMAMLG2HBFYTL3RZJW4P4FRNQ/</guid>
+      <dc:creator>곽래건 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 11 Feb 2025 12:14:33 +0000</pubDate>
+      <content:encoded>민주노총이 윤석열 정부의 ‘노동 개혁 1호’ 성과로 꼽히는 ‘회계 공시’를 거부하려다 내부 반대로 무산됐다. ‘정부 상대로 자존심을 지키자’는 주장보다 ‘조합원들의 경제적 피해만 커진다’는 의견이 더 컸기 때문으로 분석된다. &lt;br&gt;&lt;br&gt;민노총은 11일 경기도 고양시 킨텍스에서 정기 대의원대회를 열고 ‘정부의 회계 공시를 거부하고, 관련 시행령 폐기를 요구한다’는 안건을 투표에 부쳤다. 하지만 재적 대의원 935명 중 찬성 394명으로, 통과를 위한 과반(468명)에 74명 모자라 부결됐다.&lt;br&gt;&lt;br&gt;‘노조 회계 공시’는 윤석열 정부가 노조 회계 투명성을 높인다는 취지로 2023년 10월 도입했다. 정부 인터넷 사이트에 노조 회계 정보를 자율적으로 공시하도록 하되, 공시하지 않은 노조는 세금 혜택(세액공제 15%)을 받을 수 없다. 예컨대, 회계를 공시한 노조의 조합원이 조합비를 월 5만원씩 1년간 60만원 납부했다면 연말 정산을 통해 9만원을 돌려받는다. 도입 당시 한국노총과 민노총은 “노동 탄압”이라며 반발했지만, 결국 공시에 참여했다.&lt;br&gt;&lt;br&gt;그러나 민노총 금속노조, 전국민주일반노조 등 일부는 끝까지 공시에 참여하지 않고 있다. 이런 이유로 민노총은 작년 대의원 대회 때도 회계 공시 거부에 대해 찬반 투표를 벌였지만, 근소한 차이로 부결된 바 있다. 애초 올해 대의원 대회 안건에는 공시 거부가 안건에 포함돼 있지 않았지만, 민노총 중앙집행위원회가 지난달 23일 추가했다. 조기 대선 가능성이 생겼고, 차기 정부에 정책 폐기를 요구하려면 자체적으로 먼저 공시를 거부해야 한다는 명분을 댔다.&lt;br&gt;&lt;br&gt;이날 대의원 대회에서는 찬반 격론이 오갔다. 한 대의원은 “윤 정부의 부당한 압박을 거부 못 해 부끄럽다”며 공시 거부를 주장했다. 그러나 “현장 혼란만 가중시킨다” “(회계 공시가) 노조 자주권 침해라고 보기 어렵다” “조합원들에게 경제적 피해만 돌아간다”는 반대 의견도 여럿 나왔다. &lt;br&gt;&lt;br&gt;결국 안건이 부결됨에 따라 민노총 본부와 민노총 산하 노조 대다수는 앞으로도 회계 자료를 공개할 전망이다. &lt;br&gt;&lt;br&gt;민노총은 이날 ‘7월 총파업’도 결의했다. 새 정권이 들어설 가능성이 크다고 보고 자신들의 요구 사항을 관철하기 위해 총파업이 필요하다는 것이다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>고용부, ‘오요안나 사건’ MBC 특별근로감독 착수</title>
+      <link>https://www.chosun.com/national/labor/2025/02/11/Y2ZZG6Q4PNHD5DA4NGLM3HEHNI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/labor/2025/02/11/Y2ZZG6Q4PNHD5DA4NGLM3HEHNI/</guid>
+      <dc:creator>곽래건 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 11 Feb 2025 12:16:49 +0000</pubDate>
+      <content:encoded>고용노동부가 기상 캐스터 고(故) 오요안나씨의 직장 내 괴롭힘 의혹과 관련해 11일 MBC에 대한 특별근로감독에 착수했다.&lt;br&gt;&lt;br&gt;고용부는 서울지방고용노동청과 서울서부지청 합동으로 특별근로감독팀을 구성, 이날 오후 MBC에 인력을 보냈다고 밝혔다. 고용부는 직장 내 괴롭힘 의혹 등에 대한 각종 사실 관계를 확인하고, 조직 문화 전반에 대한 실태 파악과 노동 관계법 위반 사항 등을 점검할 계획이다. 고용부는 “최근 유족의 MBC 자체 진상 조사 불참 의사 표명과 고인 외에도 추가 피해 문제 제기가 있었고, 노동조합의 특별 감독 청원 등을 종합적으로 고려했다”고 설명했다. &lt;br&gt;&lt;br&gt;사전 계획에 따라 이뤄지는 정기·수시 근로감독과 달리 특별근로감독은 직장 내 괴롭힘을 비롯한 노동 관계법 위반 사항이 언론에 보도되는 등의 경우에 실시된다. 지난 1년간 기록을 조사하는 일반 근로감독과 달리 특별근로감독은 3년 치 기록을 살펴보게 된다. &lt;br&gt;&lt;br&gt;김문수 노동부 장관은 “젊은 청년이 안타깝게 사망한 사안인 만큼 철저하게 진상을 규명하고 법 위반에 대해서는 엄정하게 조치하라”고 지시했다.&lt;br&gt;&lt;br&gt;오씨는 2021년 5월 MBC와 프리랜서 계약을 맺고 기상 캐스터로 일하기 시작했다. 작년 9월 극단적 선택을 했고, 다른 기상 캐스터에게 괴롭힘을 당했다는 유서를 남긴 사실이 최근 언론 보도로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>진실화해위, 6·25전쟁 화순 민간인 희생사건 진실규명</title>
+      <link>https://www.chosun.com/national/national_general/2025/02/11/3B3WS7AJBBG3FKX5ZW6DOJYLGU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/02/11/3B3WS7AJBBG3FKX5ZW6DOJYLGU/</guid>
+      <dc:creator>고유찬 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 11 Feb 2025 11:44:34 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/STUR22BOYRO6HNIOWYMQVVMPEU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;박선영 진실·화해를 위한 과거사 위원회(진실화해위) 위원장이 지난달 14일 오후 서울 중구 진실화해위에서 열린 95차 위원회에서 발언하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2기 진실·화해를위한과거사정리위원회(진실화해위)는 6·25전쟁 발발 직후 ‘전남 화순 적대세력에 의한 희생 사건’에 대해 진실규명 결정을 내렸다고 11일 밝혔다.&lt;br&gt;&lt;br&gt;진실화해위는 이날 제97차 회의를 열고 전남 화순에서 인민군, 지방 좌익, 빨치산 등 적대세력에 의한 민간인 119명(90건)이 희생된 사건에 대해 진실규명 결정을 내렸다.&lt;br&gt;&lt;br&gt;당시 한 가족은 군경의 빨치산 토벌 작전을 피해 전남 담양으로 이사했다가 1950년 12월 본가가 있는 화순에 식량을 가지러 간 뒤 귀갓길에 적대세력에 의해 희생된 것으로 조사됐다.&lt;br&gt;&lt;br&gt;진실화해위원회는 국회에 한국전쟁 시기 적대세력에 의해 피해를 입은 희생자도 차별 없이 국가 보상을 받을 수 있도록 관련 법을 조속히 제정할 것을 촉구했다.&lt;br&gt;&lt;br&gt;또한 국가에 대해 북한 정권에 대한 사과 촉구, 피해 회복과 추모사업 지원 등 후속 조치, 가족관계등록부 등 공적 기록 정정, 평화·인권 교육 강화 등을 권고했다.&lt;br&gt;&lt;br&gt;진실화해위는 이날 전남 지역 다른 곳에서 비슷한 시기 발생한 유사 사건들에 대해서도 진실규명 결정을 내리고, 국가와 지방자치단체에 희생자와 유족에 대한 공식 사과 등을 권고했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>중환자실 치료 받는 초등생 살해 40대 교사... 경찰, 강제 수사</title>
+      <link>https://www.chosun.com/national/incident/2025/02/11/KCSVSR6P7BHKBC4L4RV462HLFM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/02/11/KCSVSR6P7BHKBC4L4RV462HLFM/</guid>
+      <dc:creator>신정훈 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 11 Feb 2025 11:11:45 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RJOATGXQSPVLS3EUQSGZ55RO5A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;10일 대전 서구 한 초등학교에서 초등학교 1학년 김하늘양이 흉기에 찔려 사망하는 사고가 발생했다.사고가 발생한 초등학교에 경찰이 통제하는 모습/뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대전의 한 초등학교에서 발생한 8살 김하늘양 피살 사건을 수사 중인 경찰이 살해 혐의를 받는 40대 여교사에 대해 강제 수사에 나섰다.&lt;br&gt;&lt;br&gt;대전경찰청은 A(48)씨에 대한 체포영장과 압수수색 영장이 발부됨에 따라 강제 수사에 나선다고 11일 밝혔다.&lt;br&gt;&lt;br&gt;경찰은 수술 후 중환자실에서 치료를 받는 A씨가 회복하는 대로 신병을 확보해 빠르게 수사를 진행하겠다는 방침이다.&lt;br&gt;&lt;br&gt;이날 압수수색 영장도 함께 발부되면서 경찰은 우울증을 앓던 여교사의 병원 진료 자료와 휴대전화, 차량과 주거지 등에 대해 수사해 관련 자료를 확보할 계획이다.&lt;br&gt;&lt;br&gt;경찰은 이들 자료를 분석해 A씨의 계획범죄 여부 및 범행 동기 등을 밝히겠다는 입장이다.&lt;br&gt;&lt;br&gt;김 양의 시신 부검을 반대했던 유가족들이 철저한 수사를 위해 입장을 바꾸면서 이르면 내일 김 양의 시신 부검도 진행될 것으로 보인다.&lt;br&gt;&lt;br&gt;지난 10일 오후 대전의 한 초등학교에서 40대 여교사 A씨가 돌봄교실을 마치고 학원에 가려던 김 양을 흉기로 찔러 살해하고 스스로 목숨을 끊으려 하는 사건이 발생했다.&lt;br&gt;&lt;br&gt;김 양은 오후 5시40분쯤 학교 시청각실에서 흉기에 찔린 채 발견돼 병원으로 옮겨졌으나 7시쯤 숨졌다. A씨는 흉기로 자신의 목과 손목 등을 찔렀지만, 의식이 있는 상태로 경찰에 발견됐다. 경찰에 범행을 시인한 A씨는 수술을 받고 중환자실에서 치료를 받고 있다.&lt;br&gt;&lt;br&gt;정교사인 A씨는 우울증 등의 문제로 휴직했다가 지난해 12월 복직한 것으로 전해졌다. 경찰관계자는 이날 언론 브리핑에서 “A씨가 돌봄교실에서 학생들이 수업을 마치고 갈 때 ‘어떤 아이든 상관없다. 같이 죽겠다’는 생각으로 김 양에게 범행을 저질렀다”는 진술을 했다고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“헌재에 불 지르겠다” 30대 구속</title>
+      <link>https://www.chosun.com/national/incident/2025/02/11/J3LJBMICHZD27M32VN35O5JT7Y/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/02/11/J3LJBMICHZD27M32VN35O5JT7Y/</guid>
+      <dc:creator>신정훈 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 11 Feb 2025 11:23:45 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IUUDVZL57BONFAOWDGAI2TEI44.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰이 헌법재판소 앞을 지키고 있는 모습/연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 대통령 탄핵 심판 절차를 진행 중인 헌법재판소에 불을 지르겠다고 온라인커뮤니티에 글을 쓴 30대가 구속됐다.&lt;br&gt;&lt;br&gt;경기남부경찰청 사이버수사대는 이날 협박 혐의로 30대 남성 A씨를 구속했다고 11일 밝혔다. 법원은 “도주 우려가 있다”는 이유로 A씨에 대한 구속영장을 발부했다.&lt;br&gt;&lt;br&gt;A씨는 지난달 19일 온라인 커뮤니티 디시인사이드 미국 정치 갤러리에 “다른 거 필요 없음. 헌재 불 지르면 됨”이라는 제목의 게시물을 쓴 혐의를 받고 있다. &lt;br&gt;&lt;br&gt;신고를 받고 수사에 착수한 경찰은 아이피(IP) 추적 등을 통해 작성자 신원을 특정한 뒤 지난 8일 A씨를 주거지에서 체포했다. &lt;br&gt;&lt;br&gt;A씨는 경찰 조사에서 “탄핵 심판 절차가 진행 중인 것에 화가 나 그랬다”는 취지로 진술하며 범행을 인정했다. &lt;br&gt;&lt;br&gt;경찰은 이 같은 협박성 게시글에 대해 앞으로도 엄정 수사를 하겠다고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>장성규 “故오요안나-김가영 달라진 관계 감지, 이후 말 안 전해” 해명</title>
+      <link>https://www.chosun.com/national/people/2025/02/11/QS6WVHY2SNFW5BODHCYUGV7JK4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/02/11/QS6WVHY2SNFW5BODHCYUGV7JK4/</guid>
+      <dc:creator>이혜진 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 11 Feb 2025 11:21:31 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PXPWJFT25L3ZYVGJEISENJ336Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;방송인 장성규. /News1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;방송인 장성규가 고(故)오요안나의 직장 내 괴롭힘을 방관했다는 의혹을 적극 부인하며 “당시 같은 방송일을 하는 고인의 고민과 마음을 잘 안다고 생각했기에 고인의 마음을 헤아리고 공감하고자 했다”고 밝혔다.&lt;br&gt;&lt;br&gt;장성규는 11일 자신의 인스타그램을 통해 입장문을 내고 “유족께서 제가 2차 가해를 입는 상황을 미안해하시고 적극적으로 해명하라고 권유하셔서 조심스럽게 이 글을 올린다”며 이같이 말했다. 장성규는 2022년 라디오 방송을 마친 후 운동하러 갔을 때 고인을 처음 만났다고 설명했다. 당시 오요안나는 ‘김가영 캐스터의 후배’라고 인사했으며 “김가영을 롤모델로 삼고 있다”고 말했다고 한다. 이에 장성규는 다음날 김가영과 고인에 대해 이야기를 나눴고, 김가영 역시 고인을 ‘아끼는 후배’라고 말했다고 전했다.&lt;br&gt;&lt;br&gt;이후 오요안나가 장성규에게 고민을 상담해왔다고 한다. 그는 당시 고인에게 “주변의 시기와 질투에서 비롯된 어려움일 가능성이 크니 괘념치 말고 이겨내자며 고인을 격려했다”고 전했다. 그러나 이후 오요안나는 다시 한번 고민을 얘기했고, 위로로 충분하지 않다고 생각한 장성규는 김가영 캐스터에게 도움을 청했다. 그러나 김가영은 ‘내부적으로 업무상의 사정이 있어서 쉽지 않다’고 답했다고 한다. 장성규는 “그제야 두 사람의 관계가 예전과 다르다는 것을 감지했고, 이후 그들 사이에서 어떤 말도 전하지 않았다”고 했다.&lt;br&gt;&lt;br&gt;특히 장성규는 일부 유튜브 채널에서 제기한 의혹도 일축했다. 그는 고인과 관련해 ‘오빠 걔(오요안나) 거짓말하는 애야’라는 발언을 들은 적이나 ‘안나야, 너 거짓말하고 다니는 애라고 그러던데’라는 말을 전한 적이 전혀 없다고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SFW3J7X4F5FCQNLVP5J7AMIE2Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/장성규 인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;장성규는 지난해 5월 광주 출장 당시 오요안나와 소셜미디어 메시지로 안부를 주고받은 것이 마지막 소통이었다고 밝혔다. 그는 “제가 출장으로 광주에 간다는 소식에 고인은 맛집을 추천해 주었다”며 “만약 고인이 저를 가해자나 방관자로 여기거나 서운한 마음이 있었다면 반갑게 안부를 물었을까”라고 반문했다.&lt;br&gt;&lt;br&gt;그는 “고인은 힘든 이야기를 할 때마다 항상 씩씩하게 이겨내겠다고 다짐하는 모습을 보였기에 직장 생활에서 겪을 수 있는 정도의 어려움이라고 판단했다”며 “그래서 당시 더 적극적으로 행동하지 못한 것이 지금도 너무나 후회가 되고, 고인과 유족께 대단히 죄송한 마음”이라고 했다. 이어 “고인의 씩씩했던 모습을 기억하기에 아직도 믿기지 않는다”며 “제가 아무런 도움이 되지 못했다는 것 때문에 너무나 송구스러운 마음”이라고 했다.&lt;br&gt;&lt;br&gt;그는 마지막으로 “이와는 별개로 저와 제 가족에게 선을 넘은 분들께는 법적으로 대응하겠다”는 입장도 함께 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>“잠깐, 방금 건넨 봉투 뭐예요?”…1억 사기 막은 시민 정체</title>
       <link>https://www.chosun.com/national/national_general/2025/02/11/JAMBQS6F7FAU5PW44DXHO7LH4I/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/02/11/JAMBQS6F7FAU5PW44DXHO7LH4I/</guid>
@@ -724,24 +805,6 @@
       <content:encoded>정부가 해외 여행객 증가로 인한 ‘공항 인파 대란’을 예방하기 위해 공항 보안 검색 요원(보안 요원) ‘고졸 채용’ 전형 개설을 추진하고 있지만, 보안 업체 측이 ‘불공정 채용’ 논란이 생길 수 있다고 난색을 보이며 무산 위기에 처했다.&lt;br&gt;&lt;br&gt;10일 본지 취재를 종합하면 교육부와 대한상공회의소는 작년 4월 김포·김해·제주 등 14개 공항 보안을 담당하는 한국공항보안, 인천국제공항 보안을 담당하는 인천국제공항보안에 각각 직업계고(옛 공고·상고) 졸업자 채용 전형을 실시하자고 제안했다. 두 업체는 각각 한국공항공사와 인천국제공항공사의 자회사다.&lt;br&gt;&lt;br&gt;정부가 보안 요원이 되기를 희망하는 직업계고 3학년 또는 졸업 1년 이내 고졸자를 대상으로 400시간 이상 직업 교육을 실시하고 비용도 부담할 테니, 업체 측은 이들을 뽑을 별도 채용 전형을 만들라는 내용이다. 올해 중반부터 희망 학생을 교육해 올해 말쯤 100~150명에 달하는 인력을 공항에 투입한다는 계획이었다.&lt;br&gt;&lt;br&gt;정부가 이를 추진한 건 전국 공항이 보안 요원 인력난에 시달리고 있기 때문이다. 항공 업계에 따르면, 한국공항보안은 작년 1~11월 사이 보안 요원 약 540명을 채용했는데 같은 기간 교육 인력을 포함, 500여 명이 퇴사했다. 인천국제공항보안 역시 작년 총 370명을 채용했는데 퇴사자가 240명이 넘는다.&lt;br&gt;&lt;br&gt;보안 요원은 공항에서 일한다는 매력 덕분에 젊은 세대가 선호하지만, 비교적 낮은 처우(초봉 약 3300만원)와 교대 근무 등을 이유로 퇴사율이 높다. 만성적인 인력 부족으로 업무 강도가 높아지고 그 영향으로 퇴사자가 늘어나는 악순환 고리에 빠졌다. 이 때문에 400만명 넘게 공항을 이용한 지난 설 연휴처럼 인파가 몰릴 땐 보안 요원 부족으로 출국 수속에 3시간씩 걸리며 승객 불만이 폭발하는 일이 반복되는 것이다.&lt;br&gt;&lt;br&gt;한 공항 보안 업계 관계자는 “보안 요원은 대학 지식이 특별히 필요하지 않은 전문 기능직인 만큼 전문 훈련을 받은 고졸자가 업무 이해도가 높을 수 있다”며 “앞으로 보안 요원 수요가 더 가파르게 늘어날 것이기 때문에 대안이 필요하다고 본다”고 했다. 정부도 공항 인력난도 해결하고 고졸 채용도 늘리는 ‘윈윈’ 전략이라 보고 고졸 전형을 준비했지만, 작년 12월 막바지 협의 단계에서 업체 측이 “어렵다”고 하면서 사실상 무산된 상황이다.&lt;br&gt;&lt;br&gt;업체 측이 고졸 별도 전형에 난색을 보이는 가장 큰 이유는 ‘불공정’ 논란 때문이다. 현재 이 업체들은 학력·성별·나이 등을 서류에 기재하지도 않고 면접에서 묻지도 않는 ‘블라인드 채용’을 진행하고 있어 고졸도 지원할 수 있고 실제 고졸자가 채용되는 일도 빈번하다. 그런데 고졸 채용을 만들면 자칫 ‘역차별’ 논란이 생길 우려가 있는 것이다. 한국공항보안 관계자는 “정부 측 제안이 회사가 추구하는 ‘공정 채용’ 기조와 맞지 않는다고 판단했다”고 말했다. 인천국제공항보안 관계자는 “공항 보안 업체는 공직 윤리 제도가 적용되는 공직 유관 단체로, 별도 고졸 채용 전형을 만들면 ‘학력에 관계없이 공개 채용을 한다’는 공직 인사 규정 위반 소지가 있다”고 했다.&lt;br&gt;&lt;br&gt;그러나 정부는 직업계고 졸업자가 ‘취업 취약 계층’에 해당해 별도 전형이 필요하다는 입장이다. 대한상의 관계자는 “대부분 미성년자인 이들은 능력과 별개로 자기소개서 작성이나 면접 경험이 없고, 가산점을 얻을 만한 대외 활동, 인턴 경력을 쌓기도 어려워 경쟁력이 떨어질 수밖에 없다”며 “한국전력 같은 공공기관이나 하나은행 등 수많은 사기업이 고졸 채용 전형을 두는 이유”라고 했다. 정부는 이 사안이 공정 채용에 어긋나는지 국민권익위원회에 심사를 받은 뒤 재추진하겠다는 계획이다.&lt;br&gt;&lt;br&gt;기업들이 갈수록 더 많은 각종 대외 활동이나 인턴 경력 등을 요구하며 블라인드 채용이라 할지라도 스펙 차이를 통한 사실상 ‘학력 필터링’이 이뤄지고 있다는 지적이 많다, 과거 고졸자가 선호했던 직업 중 하나인 은행권이 2014년 블라인드 채용을 본격화한 등용문이 매우 좁아졌다. 2013년 4대 시중은행 고졸 입사자는 400명이 넘었지만, 이후 급감해 2020년부터 100명대로 추락했다. 이에 정부는 고졸 채용 전형 같은 제도적 보완을 추진하고 있지만, 대학을 졸업한 취준생들의 반발도 거세다. 공민천 보안검색서비스노조 위원장은 “요즘 젊은 직원들은 공정성을 매우 민감하게 따지기 때문에 고졸 채용 전형을 따로 만들면 반발이 나올 수 있다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[인사] 국무조정실·국무총리비서실 외</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2025/02/11/WOMXPARPNVA6ZG3MF7GR63MRAI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2025/02/11/WOMXPARPNVA6ZG3MF7GR63MRAI/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Mon, 10 Feb 2025 16:32:07 +0000</pubDate>
-      <content:encoded>▲&lt;b&gt;국무조정실·국무총리비서실&lt;/b&gt;◇실장급 승진▷청년정책조정실장 김달원◇국장급 전보▷재정금융정책관 이동훈(기관 간 전보)◇팀장급 전보▷사회규제심사1팀장 홍경은&lt;br&gt;&lt;br&gt;▲&lt;b&gt;고용노동부&lt;/b&gt;◇국장급 승진▷통합고용정책국장 권진호◇국장급 전보▷직업능력정책국장 임영미&lt;br&gt;&lt;br&gt;▲&lt;b&gt;국가유산청&lt;/b&gt;◇과장급 승진▷궁능유적본부 덕수궁관리소장 이승재▷국립문화유산연구원 복원기술연구실장 손명희▷국립나주문화유산연구소장 권택장◇과장급 전보▷혁신행정담당관 조동주▷신라왕경핵심유적복원·정비추진단장 유은식▷무형유산정책과장 이상민▷칠백의총관리소장 권점수&lt;br&gt;&lt;br&gt;▲&lt;b&gt;한국예탁결제원&lt;/b&gt;◇부장 보임▷증권담보부장 김정태▷정보보호최고책임자 조성국▷IT서비스1부장 손영일◇부장 전보▷경영전략부장 최흥규▷증권예탁부장 박종진▷글로벌금융부장 박중훈▷글로벌시장1부장 배재호▷글로벌시장2부장 김홍진▷의결권서비스부장 이정욱▷차세대추진1실장 이승환▷차세대추진2실장 이형근▷홍보부장 박인선▷IT서비스2부장 박선혜▷주식·파생등록부장 이민희&lt;br&gt;&lt;br&gt;▲&lt;b&gt;연구개발특구진흥재단&lt;/b&gt;▷대덕연구개발특구본부장 임문택▷광주연구개발특구본부장 서동경▷부산연구개발특구본부장 한상문▷전북연구개발특구본부장 유진혁▷감사부장 윤병한&lt;br&gt;&lt;br&gt;▲&lt;b&gt;배재대&lt;/b&gt;▷사무처장 성미경▷생활관장 윤석웅▷중앙도서관장 이영복&lt;br&gt;&lt;br&gt;▲&lt;b&gt;데일리안&lt;/b&gt;▷산업 및 ICT융합부 에디터 지봉철▷금융부장 박관종▷증권부장 양창욱▷건설부동산부장 이홍석▷문화스포츠부 에디터 유명준▷사회부장 김인희▷ICT융합부장 박영국▷생활유통부장 최승근▷스포츠부장 김태훈▷뉴미디어센터장 홍종선▷영상미디어부장 김훈찬&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[부음] 김상율씨 별세 외</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2025/02/11/B5SKBTRVYRHTRF5FYDKUIC5VXY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2025/02/11/B5SKBTRVYRHTRF5FYDKUIC5VXY/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Mon, 10 Feb 2025 16:31:30 +0000</pubDate>
-      <content:encoded>▲&lt;b&gt;김상율&lt;/b&gt; 별세, &lt;b&gt;이영우&lt;/b&gt; 조선일보 CS센텀시티센터 대표 장인상=10일8시 경남 사천 추모원장례식장, 발인 12일8시30분, (055)855-4422&lt;br&gt;&lt;br&gt;▲&lt;b&gt;유귀환&lt;/b&gt; 별세, &lt;b&gt;전창엽&lt;/b&gt; 남편상, &lt;b&gt;유명현&lt;/b&gt; 부친상, &lt;b&gt;박종현&lt;/b&gt; 한국기자협회장 장인상=10일1시30분 국립중앙의료원, 발인 12일4시40분, (02)2262-4820&lt;br&gt;&lt;br&gt;▲&lt;b&gt;채희현&lt;/b&gt; 별세, &lt;b&gt;강성자&lt;/b&gt; 남편상, &lt;b&gt;채승진&lt;/b&gt;·&lt;b&gt;채승희&lt;/b&gt;·&lt;b&gt;채윤아&lt;/b&gt;·&lt;b&gt;채윤정&lt;/b&gt; 부친상, &lt;b&gt;최은수&lt;/b&gt; 양지기업 소장·&lt;b&gt;김일남&lt;/b&gt; 세종냉동 대표·&lt;b&gt;최영근&lt;/b&gt; 아라기술 상무 장인상, &lt;b&gt;최석인&lt;/b&gt;·&lt;b&gt;황환규&lt;/b&gt;·&lt;b&gt;황윤규&lt;/b&gt;·&lt;b&gt;황윤민&lt;/b&gt;·&lt;b&gt;김세종&lt;/b&gt;·&lt;b&gt;김세현&lt;/b&gt;·&lt;b&gt;김설희&lt;/b&gt;·&lt;b&gt;김가희&lt;/b&gt;·&lt;b&gt;김보라&lt;/b&gt;·&lt;b&gt;최혜령&lt;/b&gt;·&lt;b&gt;최성령&lt;/b&gt; 외조부상=9일17시30분 전남 목포 효사랑장례식장, 발인 12일7시40분, (061)242-7000&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>‘제3공화국’ 배우 최병학 별세</title>
       <link>https://www.chosun.com/national/people/2025/02/11/ZJTP46IBWJENDM53WYXJ7YFQ6Y/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/people/2025/02/11/ZJTP46IBWJENDM53WYXJ7YFQ6Y/</guid>
@@ -841,61 +904,6 @@
       <content:encoded>&lt;br/&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4SKVBLPIQCDO4L7GUBBGSRIXGY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령이 지난 6일 서울 종로구 헌법재판소에서 열린 탄핵 심판 6차 변론기일에서 발언하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘12·3 비상계엄’ 사태와 관련해 내란 혐의로 구속 수감 중인 윤석열 대통령이 구속 취소를 청구한 데 대해 법원이 심리를 열기로 했다. 윤 대통령 구속이 꼭 필요했느냐는 논란이 커지자 재판부가 좀 더 신중하게 구속 취소 여부를 판단하겠다는 취지로 읽힌다.&lt;br&gt;&lt;br&gt;10일 법조계에 따르면, 서울중앙지법 형사25부(재판장 지귀연)는 구속 수감 중인 윤 대통령 측이 청구한 구속 취소에 대해 심문을 실시하겠다고 밝혔다. 심문 기일은 오는 20일로, 윤 대통령에 대한 첫 공판 준비 기일 날짜와 같다.&lt;br&gt;&lt;br&gt;구속 취소는 법이 정한 피고인(피의자) 석방 제도 중 하나다. 형사소송법 제93조는 ‘구속 사유가 없거나 소멸된 때 법원은 피고인의 구속을 취소해야 한다’고 돼 있다. 윤 대통령 측은 구속 기한이 지난달 25일 만료됐는데 검찰이 윤 대통령을 다음 날 기소했기 때문에 현재 불법 구금 상태라고 주장하며 지난 4일 구속 취소를 청구했다.&lt;br&gt;&lt;br&gt;대법원 형사소송 규칙에 따르면, 구속 취소의 청구를 받은 법원은 특별한 사정이 없는 경우 7일 이내에 그에 관한 결정을 내려야 한다. 하지만 윤 대통령에 관해서는 구속 취소 청구일부터 약 2주 후인 20일에 심리를 열게 됐다. 법원 관계자는 “구속 취소 사건에서 심문은 필수 절차가 아니지만 재판부가 개별 사안에 따라 판단하는 것”이라면서 “재판부가 ‘특별한 사정’이 있다고 보고 기한이 넘었음에도 피고인 측을 심문하기로 결정한 것으로 보인다”고 했다. 한 영장 전담 부장판사는 “구속 기한 등이 지나 완전히 구속이 위법하다고 주장할 때나 하는 것이 구속 취소”라며 “대통령의 지위가 있으니 신중하게 양측 의견을 들어보고 판단하겠다는 의미”라고 했다. 윤 대통령 측은 구속 취소 청구가 기각될 경우 1심 재판 선고 전에 재판부에 보석을 신청할 방침으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[신문은 선생님] [재미있는 과학] 기후 변화 대비해 인공섬 연결한 ‘해상 도시’ 짓는대요</title>
-      <link>https://www.chosun.com/national/nie/2025/02/11/2N7AQM5GXNEVJF6BWVNFWUACBM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2025/02/11/2N7AQM5GXNEVJF6BWVNFWUACBM/</guid>
-      <dc:creator>이윤선 과학 칼럼니스트, 기획·구성=윤상진 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 10 Feb 2025 15:37:34 +0000</pubDate>
-      <content:encoded>최근 대형 산불, 폭설, 폭염, 가뭄 등 여러 이상 기후 현상이 자주 발생하고 있어요. 이상 기후 때문에 원래 살던 곳을 떠나는 ‘기후 난민’도 늘고 있죠. 이는 곧 우리 모두에게도 닥칠 수 있는 문제예요. 인류는 지구에서 언제까지 살 수 있을까요?&lt;br&gt;&lt;br&gt;과학자들은 미래 인류가 살 수 있는 대안 공간을 찾고 있어요. 해수면 상승에도 끄떡없는 ‘해상 도시’를 설계하고, 지구 바깥에 인류의 거주 공간을 마련하려고 하는 것이죠. 오늘은 인류의 새로운 거주 공간으로 어떤 장소가 주목받고 있는지 알아보겠습니다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YKCEFERTNVG4RH7AZYGWPLX5IY.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=진봉기&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;바다 위 도시&lt;/b&gt;&lt;br&gt;&lt;br&gt;기후변화로 나타나는 대표적 현상 중 하나는 해수면 상승입니다. 지구의 기온이 오르면서 극지방에 있는 얼음이 녹아 해수면이 점점 상승하고 있어요. 기초과학연구원(IBS) 연구에 따르면, 이산화탄소 배출량이 지금 수준으로 유지되면 2150년엔 해수면이 약 1.4m 높아진다고 해요. 이때 우리나라 국토 면적의 약 0.7~0.8%가 물에 잠기는데, 해안 도시들은 큰 피해를 당할 것으로 보입니다.&lt;br&gt;&lt;br&gt;과학자와 건축가들은 해수면 상승에 대비해 ‘해상 도시’를 지으려고 하고 있어요. 2019년 유엔(UN)은 네덜란드 건축 회사 BIG와 머리를 맞대고 바다 위에 둥둥 떠 있는 해상 도시 ‘오셔닉스 시티’를 구상했어요. 자세한 진행 상황은 밝혀지지 않았지만, 2030년까지 세계의 해안 도시 중 한 곳에 조성하는 것이 목표라고 합니다.&lt;br&gt;&lt;br&gt;오셔닉스 시티엔 최다 1만명이 살 수 있어요. 축구장 3개 정도 크기(약 1만8000㎡)의 인공섬이 있고, 이 인공섬 6개가 모여 한 마을을 이뤄요. 그리고 마을 6개를 연결하면 한 도시가 되지요. 특징은 ‘모듈식’이라는 점이에요. 인공섬을 계속 결합해 더 큰 해상 도시를 만들 수 있답니다. 마치 선박 여러 척을 줄로 엮어 놓은 것과 같아요. 때문에 태풍이 불거나 높은 파도가 쳐도 버틸 수 있답니다.&lt;br&gt;&lt;br&gt;거대한 도시가 어떻게 바다에 떠있을 수 있을까요? 물에 뜨는 부유체 위에 건물을 짓는 방식 덕분이에요. 서울 한강에 있는 복합 문화 시설 ‘세빛섬’이 이와 같은 형태랍니다. 콘크리트 블록과 플라스틱 상자를 생각해 보세요. 무겁고 밀도가 높은 콘크리트 블록은 물에 가라앉지만, 내부가 비어 있는 플라스틱 상자는 밀도가 낮아 물에 뜨죠. 부유체는 구조 내부에 공기를 채우는 방법 등으로 부력을 높여 물에 뜰 수 있답니다.&lt;br&gt;&lt;br&gt;오셔닉스 시티는 배의 닻 역할을 하는 ‘바이오록(Biorock)’이라는 구조물을 바다 바닥에 내려 인공섬을 고정한대요. 도시엔 태양광 패널을 설치해 전력을 얻고, 땅이 아닌 배양액에서 식물을 기르는 수경 재배로 식량을 얻을 계획이랍니다.&lt;br&gt;&lt;br&gt;&lt;b&gt;수심 200m 아래서 산다?&lt;/b&gt;&lt;br&gt;&lt;br&gt;또 다른 미래 거주지 후보는 심해입니다. 영국의 해양 개발 기업 디프(Deep)는 바닷속에서도 살 수 있는 해저 거주 공간 ‘센티널’을 개발하고 있지요.&lt;br&gt;&lt;br&gt;센티널은 원래 심해 탐사 목적으로 제안한 아이디어였어요. 심해 탐사는 육지 탐사보다 몇 배나 시간이 많이 걸려요. 수면에서 10m 내려갈 때마다 압력이 1기압씩 높아지는데, 압력이 높아질수록 산소 속 질소가 혈액에 많이 녹아들어 환각, 반응 속도 저하 같은 증세가 나타나죠. 수심 200m 지점을 탐사하려면 잠수 이전과 잠수 후 기압 적응에 수시간이 필요한데, 정작 잠수해서 물속에서 작업할 수 있는 시간은 10분 내외라고 해요.&lt;br&gt;&lt;br&gt;그래서 과학자들은 수중 거주지를 만들기로 했어요. 국제우주정거장에 머무는 우주인처럼, 바닷속에 머무르며 해양 생태계를 연구할 수 있도록 하는 거죠. 나아가 이 수중 공간이 미래에는 인간의 새로운 거주지가 될 수도 있다고 본 거예요.&lt;br&gt;&lt;br&gt;디프는 먼저 모듈형 해저 기지 ‘뱅가드’를 짓겠다고 발표했어요. 컨테이너 하나 정도 크기로, 3명이 일주일 동안 심해에 머물 수 있대요. 높은 수압을 견딜 수 있도록 3D 프린터로 금속 물질을 층층이 쌓아 단단한 벽을 만들었죠.&lt;br&gt;&lt;br&gt;센티널은 이 뱅가드를 여럿 연결해 만듭니다. 올해 영국 사우스웨일스에 있는 다이빙 센터에 뱅가드를 시험 설치하고, 2027년 말까지 실제 바다의 수심 200m 지점에 센티널을 완공하는 것이 목표예요. 과학자 6명이 한 달간 머물 수 있도록 할 예정이에요. 그리고 2030년까진 사람이 영구적으로 거주할 수 있도록 하는 게 목표랍니다.&lt;br&gt;&lt;br&gt;&lt;b&gt;보금자리 찾아 우주로&lt;/b&gt;&lt;br&gt;&lt;br&gt;SF 영화의 한 장면처럼 우주에 거주 공간을 건설하려는 시도도 계속되고 있어요. 기후 위기가 계속되면 미래 지구는 인간이 살기 어려운 행성이 될 수 있거든요.&lt;br&gt;&lt;br&gt;과학자들이 주목하는 후보지는 지구에서 가장 가까운 천체인 달입니다. 미 항공우주국(NASA)은 달 유인 탐사 프로젝트 ‘아르테미스 프로그램’을 진행하고 있는데요. 달에 사람이 살 수 있는 거주 공간을 마련하는 게 목표예요. 지구에서 재료를 들고 가기엔 시간과 비용이 많이 들기 때문에 3D 프린터와 달의 흙을 이용해 건물을 짓는 방법을 연구하고 있답니다.&lt;br&gt;&lt;br&gt;중력이 약한 달은 대기가 거의 없기 때문에 일교차가 매우 커요. 낮엔 최고기온이 127도에 이르고, 밤엔 최저 영하 173도까지 뚝 떨어지죠. 그래서 NASA는 달의 지하 동굴에 건물을 지으려고 하고 있어요. NASA는 깊이 80m, 폭 45m짜리 지하 동굴을 발견했는데, 이곳이 후보지로 검토되고 있어요. 동굴 내부 면적이 테니스장 14개를 합친 정도로 넓다고 해요. 동굴은 1969년 인류 최초로 달 유인 탐사에 성공한 아폴로 11호가 착륙한 곳에서 약 400km 떨어진 곳에 있어요. 이곳은 기온이 27도로 유지되고, 우주 방사선이나 운석 충돌 같은 위험도 피할 수 있답니다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/3DZSMYXG7ZERPJGDLMTCHJVMDI.png?width=1200&amp;height=675&amp;auth=1013c5422c16a7dbf3790302e0fc5b5b4f2e41f41e094cabdf7ce7038906389f&amp;smart=true" type="image/png" height="675" width="1200"/>
-    </item>
-    <item>
-      <title>[스피킹이 강해지는 영어] learn the ropes</title>
-      <link>https://www.chosun.com/national/nie/english/2025/02/11/MPKEZDQ3W5HOVPS3LFNQD4N34A/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/english/2025/02/11/MPKEZDQ3W5HOVPS3LFNQD4N34A/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Mon, 10 Feb 2025 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3GMGL6NA2FEK3COTOIN6SCA3DQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[매일매일 중국어 한마디] 마음을 느긋이 가지다</title>
-      <link>https://www.chosun.com/national/nie/chinese/2025/02/11/HUW2D3H2DBCRFLURAMXIXWRTCM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese/2025/02/11/HUW2D3H2DBCRFLURAMXIXWRTCM/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Mon, 10 Feb 2025 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3HSPK67T2RBG5N4MLVAWCFQHDY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문으로 배우는 실용한자] 즉효(卽效)</title>
-      <link>https://www.chosun.com/national/nie/chinese_character/2025/02/11/HDPT45UALVBBZHYULR4QM44YIE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese_character/2025/02/11/HDPT45UALVBBZHYULR4QM44YIE/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Mon, 10 Feb 2025 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/74NUIAPEUZFWZE5X6DAVDLFVYY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[입에 착착 붙는 일본어] 태반을 차지하다</title>
-      <link>https://www.chosun.com/national/nie/japanese/2025/02/11/KEHOJYRPUBB7HF7VYZKAPNKFG4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/japanese/2025/02/11/KEHOJYRPUBB7HF7VYZKAPNKFG4/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Mon, 10 Feb 2025 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PRKAAYZ4ENGQVBRFMLAMWK3SOU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[두근두근 뇌 운동] [2558] 초성 이어가기</title>
-      <link>https://www.chosun.com/national/nie/2025/02/11/GFFPJZQXBJBXJFC5TRLRA4HSM4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2025/02/11/GFFPJZQXBJBXJFC5TRLRA4HSM4/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Mon, 10 Feb 2025 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JM5ISGAMHRGBHPMRHUWNEVAN2U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[오늘의 날씨] 2025년 2월 11일</title>
       <link>https://www.chosun.com/national/national_general/2025/02/11/MXHEW2WDQ5H3LGSIO7ZOB72H5E/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/02/11/MXHEW2WDQ5H3LGSIO7ZOB72H5E/</guid>
@@ -903,22 +911,6 @@
       <description/>
       <pubDate>Mon, 10 Feb 2025 15:33:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IPXDB7AQCRCSLOBH2VHRFDEO3M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>대전 초교서 8세 여아 사망... 교사가 흉기로 가해 ‘충격’</title>
-      <link>https://www.chosun.com/national/regional/chungcheong/2025/02/10/ZPETZLKCYJAHTIQDCGV5IB7QCE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2025/02/10/ZPETZLKCYJAHTIQDCGV5IB7QCE/</guid>
-      <dc:creator>김석모 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 10 Feb 2025 10:56:41 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FJACOCQWWU5QCEDLXLXU6WACM4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 마크. /조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대전의 한 초등학교에서 교사가 학생을 흉기로 찔러 살해하는 사건이 발생했다. 이 교사는 범행 이후 자신에게도 흉기를 휘둘러 병원에서 치료를 받고 있다.&lt;br&gt;&lt;br&gt;본지 취재를 종합하면 10일 오후 6시쯤 대전 서구 관저동 한 초등학교 안에 있는 2층 시청각실 창고에서 이 학교 1학년 학생 A(8)양이 흉기에 찔린 채 발견됐다.&lt;br&gt;&lt;br&gt;경찰은 이날 오후 5시 18분쯤 “아이가 사라졌다”는 가족의 실종 신고를 접수하고 학교 관계자들과 교내 수색에 나서 시청각실 창고에 쓰러져 있는A양을 발견했다. 같은 장소에는 B(여·40대) 교사도 흉기에 다친 채 발견됐다.&lt;br&gt;&lt;br&gt;의식이 없는 A양은 119구급대에 의해 병원으로 옮겨졌지만 숨졌다. 목과 팔 등을 흉기에 다친 B 교사는 의식이 있는 채 발견돼 병원에서 치료를 받고 있다.&lt;br&gt;&lt;br&gt;B 교사는 수술을 받기 전 경찰에 “(내가) 흉기를 휘둘렀다”고 자백했다.&lt;br&gt;&lt;br&gt;A양의 가족들은 이날 A양이 연락이 닿지 않자 학교와 학교 주변을 찾아다니다 경찰에 신고한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;A양의 한 가족은 “월, 수, 목요일에는 아이가 학교에서 미술 학원 차량에 타는데 탑승 장소에 아이가 없다는 연락을 받았다”면서 “그래서 온 가족이 찾아 나섰다”고 말했다. A양은 이 학교에서 4시 40분까지 돌봄 수업을 듣고 학원으로 이동할 예정이었다.&lt;br&gt;&lt;br&gt;B 교사를 처음 발견한 건 A양을 찾아나선 친할머니였다고 한다. A양의 친할머니는 “시청각실 창고 문을 열고 들어갔는데 깜깜한 장소에 어떤 성인 여성이 피를 흘리며 쓰러져 있었고, 주변에 손녀의 가방과 물통이 있었다”면서 “바닥에 피가 흥건했고 무슨일이 생겼다고 생각해 창고 문을 닫고 가족들에게 연락했다”고 말했다.&lt;br&gt;&lt;br&gt;당시 A양의 친할머니는 B교사에게 “우리 애 어딨냐”고 물었지만 B 교사는 “없어요. 몰라요”라고 답했다고 한다.&lt;br&gt;&lt;br&gt;경찰과 가족들이 시청각실로 몰려오는 사이에 B 교사는 창고 문을 잠갔고, 경찰이 문을 부수고 들어가 A양과 B 교사를 발견한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰은 B 교사가 흉기로 A양을 살해한 후 스스로 목과 팔을 자해한 것으로 보고 있다. B 교사는 우울증 등의 문제로 휴직했다가 지난해 말 복직한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;B 교사는 범행을 자백한 후 수술실에 들어가 경찰은 구체적인 사건 경위는 확인하지 못했다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “B 교사가 수술을 마치고 건강을 회복하는 대로 정확한 범행 동기 등을 확인할 방침”이라고 말했다.&lt;br&gt;&lt;br&gt;대전교육청은 범행이 벌어진 해당 초등학교에 대해 긴급휴업을 결정했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/WTFKJYRW4ZOQ7NG5U23TS7HJR4.jpg?width=3756&amp;height=2424&amp;auth=d020ee7d97904a101240b7c4b8530a8925ef6d6ddc341c7b7bc474700855b371&amp;smart=true" type="image/jpeg" height="2424" width="3756">
-        <media:description type="plain">&lt;YONHAP PHOTO-5804&gt; 대전 초등학교서 8세 여아 피살…경찰 조사
-    (대전=연합뉴스) 강수환 기자 = 10일 오후 5시 50분께 대전 서구 한 초등학교에서 초등학교 1학년생인 A(8)양이 흉기에 찔려 심정지 상태로 발견됐으나 숨졌다. 현장에서는 돌봄교사 B(40대)씨도 자상을 입었으나 의식이 있는 상태로 발견돼 병원으로 옮겨졌다. 경찰은 B씨가 A양을 흉기로 찌른 뒤 자해한 것으로 보고 자세한 사고 경위를 조사하고 있다. 사진은 사건이 발생한 초등학교 2층 시청각실에서 현장검증하고 있는 경찰. 2025.2.10
-    swan@yna.co.kr/2025-02-10 20:45:54/
-&lt;저작권자 ⓒ 1980-2025 ㈜연합뉴스. 무단 전재 재배포 금지, AI 학습 및 활용 금지&gt;</media:description>
-        <media:credit role="author" scheme="urn:ebu">강수환</media:credit>
-      </media:content>
     </item>
     <item>
       <title>‘총’ 든 은행털이범 단숨에 제압한 50대, 알고 보니 특공대 출신</title>
