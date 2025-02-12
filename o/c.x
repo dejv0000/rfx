@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>제주 해상서 전복 어선 실종자 5명, 밤샘 수색에도 못찾아</title>
+      <link>https://www.chosun.com/national/regional/2025/02/13/WP2C7352PRAJZGHHWQ7LVG7ZWY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/02/13/WP2C7352PRAJZGHHWQ7LVG7ZWY/</guid>
+      <dc:creator>제주=오재용 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 12 Feb 2025 22:56:25 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3KAIVH4PLRHDFMPTGZYBHCOWT4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;해경이 지난 12일 제주 서귀포 해상에서 전복된 어선 선원들을 구조하고 있다./제주해양경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제주 해상에서 지난 12일 발생한 어선 전복 사고로 실종된 선원 5명을 찾기 위한 수색이 밤새 이어졌지만, 실종자는 찾지 못했다.&lt;br&gt;&lt;br&gt;13일 제주 서귀포해양경찰서에 따르면 사고 해역인 서귀포시 표선면 12㎞ 인근에서 경비함정 14척, 해군 함정 2척, 유관기관 어선 2척, 민간 어선 6척, 항공기 5대를 동원해 사고 어선인 근해연승어선 2066재성호(32t)의 실종 선원을 수색했다.&lt;br&gt;&lt;br&gt;또 뒤집힌 선박에 진입해 선체 내부의 생존 신호 여부를 확인하고, 수중에서 전복된 선박 내부를 수색했으나 실종 선원을 찾지 못했다.&lt;br&gt;&lt;br&gt;해경 대원 1명은 수중 수색 중 피로 누적으로 산소 포화도가 급격히 떨어져 119 구급대의 응급처치를 받으며 병원으로 옮겨지기도 했다.&lt;br&gt;&lt;br&gt;사고 해상에는 풍랑주의보가 내려진 가운데 북서풍이 초속 24∼28ｍ로 강하게 불고 파도가 3∼3.5ｍ로 높게 일어 수색에 어려움을 겪었다.&lt;br&gt;&lt;br&gt;서귀포 선적 근해연승어선인 재성호는 지난 10일 오전 9시 56분쯤 조업을 위해 서귀포항에서 출항했다. 지난 12일 오후 7시 56분쯤 서귀포시 표선면 남서쪽 12㎞ 인근 해상에서 초단파무선전화(VHF-DSC)로 긴급구조 신호를 보냈다. 해경은 승선원 10명 가운데 한국인 선장과 외국인 선원 4명 등 5명을 구조했다. 하지만 한국인 선원 5명은 실종된 상태다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>되살아난 민노총 ‘확성기 민폐 시위’... 시민들 “환청 들리는 듯”</title>
       <link>https://www.chosun.com/national/national_general/2025/02/13/TCSA2ZDBU5G5VBP7Z6H5VXV5CY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/02/13/TCSA2ZDBU5G5VBP7Z6H5VXV5CY/</guid>
@@ -952,15 +961,6 @@
       <description/>
       <pubDate>Tue, 11 Feb 2025 12:14:33 +0000</pubDate>
       <content:encoded>민주노총이 윤석열 정부의 ‘노동 개혁 1호’ 성과로 꼽히는 ‘회계 공시’를 거부하려다 내부 반대로 무산됐다. ‘정부 상대로 자존심을 지키자’는 주장보다 ‘조합원들의 경제적 피해만 커진다’는 의견이 더 컸기 때문으로 분석된다. &lt;br&gt;&lt;br&gt;민노총은 11일 경기도 고양시 킨텍스에서 정기 대의원대회를 열고 ‘정부의 회계 공시를 거부하고, 관련 시행령 폐기를 요구한다’는 안건을 투표에 부쳤다. 하지만 재적 대의원 935명 중 찬성 394명으로, 통과를 위한 과반(468명)에 74명 모자라 부결됐다.&lt;br&gt;&lt;br&gt;‘노조 회계 공시’는 윤석열 정부가 노조 회계 투명성을 높인다는 취지로 2023년 10월 도입했다. 정부 인터넷 사이트에 노조 회계 정보를 자율적으로 공시하도록 하되, 공시하지 않은 노조는 세금 혜택(세액공제 15%)을 받을 수 없다. 예컨대, 회계를 공시한 노조의 조합원이 조합비를 월 5만원씩 1년간 60만원 납부했다면 연말 정산을 통해 9만원을 돌려받는다. 도입 당시 한국노총과 민노총은 “노동 탄압”이라며 반발했지만, 결국 공시에 참여했다.&lt;br&gt;&lt;br&gt;그러나 민노총 금속노조, 전국민주일반노조 등 일부는 끝까지 공시에 참여하지 않고 있다. 이런 이유로 민노총은 작년 대의원 대회 때도 회계 공시 거부에 대해 찬반 투표를 벌였지만, 근소한 차이로 부결된 바 있다. 애초 올해 대의원 대회 안건에는 공시 거부가 안건에 포함돼 있지 않았지만, 민노총 중앙집행위원회가 지난달 23일 추가했다. 조기 대선 가능성이 생겼고, 차기 정부에 정책 폐기를 요구하려면 자체적으로 먼저 공시를 거부해야 한다는 명분을 댔다.&lt;br&gt;&lt;br&gt;이날 대의원 대회에서는 찬반 격론이 오갔다. 한 대의원은 “윤 정부의 부당한 압박을 거부 못 해 부끄럽다”며 공시 거부를 주장했다. 그러나 “현장 혼란만 가중시킨다” “(회계 공시가) 노조 자주권 침해라고 보기 어렵다” “조합원들에게 경제적 피해만 돌아간다”는 반대 의견도 여럿 나왔다. &lt;br&gt;&lt;br&gt;결국 안건이 부결됨에 따라 민노총 본부와 민노총 산하 노조 대다수는 앞으로도 회계 자료를 공개할 전망이다. &lt;br&gt;&lt;br&gt;민노총은 이날 ‘7월 총파업’도 결의했다. 새 정권이 들어설 가능성이 크다고 보고 자신들의 요구 사항을 관철하기 위해 총파업이 필요하다는 것이다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“헌재에 불 지르겠다” 30대 구속</title>
-      <link>https://www.chosun.com/national/incident/2025/02/11/J3LJBMICHZD27M32VN35O5JT7Y/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/02/11/J3LJBMICHZD27M32VN35O5JT7Y/</guid>
-      <dc:creator>신정훈 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 11 Feb 2025 11:23:45 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IUUDVZL57BONFAOWDGAI2TEI44.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰이 헌법재판소 앞을 지키고 있는 모습/연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 대통령 탄핵 심판 절차를 진행 중인 헌법재판소에 불을 지르겠다고 온라인커뮤니티에 글을 쓴 30대가 구속됐다.&lt;br&gt;&lt;br&gt;경기남부경찰청 사이버수사대는 이날 협박 혐의로 30대 남성 A씨를 구속했다고 11일 밝혔다. 법원은 “도주 우려가 있다”는 이유로 A씨에 대한 구속영장을 발부했다.&lt;br&gt;&lt;br&gt;A씨는 지난달 19일 온라인 커뮤니티 디시인사이드 미국 정치 갤러리에 “다른 거 필요 없음. 헌재 불 지르면 됨”이라는 제목의 게시물을 쓴 혐의를 받고 있다. &lt;br&gt;&lt;br&gt;신고를 받고 수사에 착수한 경찰은 아이피(IP) 추적 등을 통해 작성자 신원을 특정한 뒤 지난 8일 A씨를 주거지에서 체포했다. &lt;br&gt;&lt;br&gt;A씨는 경찰 조사에서 “탄핵 심판 절차가 진행 중인 것에 화가 나 그랬다”는 취지로 진술하며 범행을 인정했다. &lt;br&gt;&lt;br&gt;경찰은 이 같은 협박성 게시글에 대해 앞으로도 엄정 수사를 하겠다고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>부산 ‘이기대 예술공원’ 조성 본격화</title>
