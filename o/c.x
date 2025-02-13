@@ -13,6 +13,76 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>시내버스에서 말다툼 한 여성 쫓아가 흉기 위협 50대 검거</title>
+      <link>https://www.chosun.com/national/national_general/2025/02/13/3WMUZXQLKFGJDNNRXHFHHVZOUE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/02/13/3WMUZXQLKFGJDNNRXHFHHVZOUE/</guid>
+      <dc:creator>진창일 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 13 Feb 2025 13:18:31 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IJ4G5CKDZCCCV6ZTQ5TA7TJEBA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산 사상경찰서. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;시내버스에서 말다툼을 한 여성을 뒤쫓아가 흉기로 위협한 50대가 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;부산 사상경찰서는 13일 특수협박 혐의로 50대 A씨를 불구속 입건했다고 밝혔다. 경찰에 따르면 A씨는 지난 9일 오후 9시 35분쯤 부산 사상구 한 도로에서 20대 여성 B씨를 향해 흉기를 꺼내 들고 위협한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;A씨는 시내버스를 타고 있던 중 창문을 닫으면서 B씨와 말다툼을 벌였고, B씨가 버스에서 내리자 뒤쫓아가 위협한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;경찰은 A씨를 상대로 정확한 사건 경위를 조사할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/IJ4G5CKDZCCCV6ZTQ5TA7TJEBA.jpg?width=6564&amp;height=4026&amp;auth=14632c5e392dd02865f7623f407d6e8e50b876107bd0fb5bbce6e6e489c81832&amp;smart=true" type="image/jpeg" height="4026" width="6564">
+        <media:description type="plain">부산 사상경찰서. /뉴스1</media:description>
+        <media:credit role="author" scheme="urn:ebu">KIM YOUNG HOON</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>법원, ‘KBS 신임 이사진 임명’ 집행정지 신청 기각</title>
+      <link>https://www.chosun.com/national/court_law/2025/02/13/O4D5TXGHYZAK5FWU5XB3PV4BXM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/02/13/O4D5TXGHYZAK5FWU5XB3PV4BXM/</guid>
+      <dc:creator>박강현 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 13 Feb 2025 10:40:45 +0000</pubDate>
+      <content:encoded>법원이 야권 성향으로 분류되는 KBS 현직 이사들이 낸 ‘신임 이사진 임명처분 효력 집행정지’ 신청을 받아들이지 않았다. 이에 따라 KBS 신임 이사들은 임기를 시작할 수 있게 됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PN2FKJA7XJHIVLOA2K6VUFQYEA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 강남대로 서울가정법원·서울행정법원 청사. /전기병 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울행정법원 행정12부(재판장 강재원)는 13일 KBS 김찬태, 류일형, 이상요, 정재권, 조숙현 이사가 방송통신위원회를 상대로 “방통위의 KBS 새 이사 추천과 윤석열 대통령의 임명안 재가 효력을 멈춰달라”는 취지의 집행정지 신청을 기각했다.&lt;br&gt;&lt;br&gt;이로써 권순범 KBS 이사, 류현순 전 한국정책방송원장, 서기석 KBS 이사장, 이건 여성신문사 전 부사장, 이인철 이인철법률사무소 변호사, 허엽 영상물등급위원회 부위원장, 황성욱 전 방송통신심의위원회 상임위원 등 7명의 신임 KBS 이사들은 업무 수행에 제약을 받지 않게 됐다.&lt;br&gt;&lt;br&gt;앞서 이진숙 방통위원장과 김태규 부위원장으로 이뤄진 ‘2인 체제’의 방통위는 지난해 7월 31일 KBS 이사 정원 11명 중 7명의 새 KBS 이사진 추천·선임안을 의결하고, 윤 대통령은 같은 날 이들의 임명안을 재가했다. KBS 이사로 추천된 이들은 방송법 제46조의 규정에 따라 대통령의 임명 절차를 거치도록 돼 있다.&lt;br&gt;&lt;br&gt;그러자 KBS 현직 이사 5명은 이같은 2인 체제에서 새 이사 추천 등이 이뤄져 임명된 것은 불법이라며 지난해 8월 신임 이사진 임명 무효확인 소송을 제기하고 집행정지도 신청했다. 방통위법은 방통위원 5명 중 위원장을 포함한 2명은 대통령이 지명하고 나머지는 여당 몫 1명, 야당 몫 2명을 국회가 추천하도록 정하고 있다. 하지만 지난해 8월 이후 국회 추천 방통위원 3명이 채워지지 않으면서 한동안 2인 체제로 운영된 바 있는데, 이러한 부분을 지적한 것이다.&lt;br&gt;&lt;br&gt;그러나 재판부는 “방통위의 재적 위원 2인에 의한 추천의 효력에 관한 해석이 다툼이 없을 정도로 확립돼 있었다고 보기 어려우므로, 그에 하자가 있다고 하더라도 중대한 것으로서 객관적으로 명백한 것이었다고 단정하기 어렵다. 이 사건 임명 처분의 효력을 정지할 경우에는 공공복리에 중대한 영향을 미칠 우려가 있는 때에 해당한다고 볼 여지가 있다”며 주장을 받아들이지 않았다. 실제로 이러한 방통위 2인 체제가 위법한지에 대한 관련 사건 민사·행정 재판에선 판단이 엇갈리는 상황이다.&lt;br&gt;&lt;br&gt;또 헌법재판소는 지난달 23일 국회가 방통위 2인 체제를 문제 삼아 이 위원장을 탄핵소추한 탄핵안을 기각하며 “방통위법의 ‘재적 위원’은 의결 시점에 방통위에 적을 두고 있는 위원을 의미한다”며 “당시 재적 위원은 이 위원장과 김 부위원장 2명뿐이었다. 재적 위원 전원 출석 및 찬성으로 이뤄진 이 사건 의결이 정족수를 충족하지 못했다고 보는 것은 법 규범의 문리적 한계를 넘는 해석”이라고 했다.&lt;br&gt;&lt;br&gt;한편 이 재판부는 지난해 8월 MBC 대주주인 방송문화진흥회(방문진) 권태선 이사장 등이 낸 신임 이사진 임명 집행정지 신청은 받아들여 방문진 차기 이사진 임명에 제동을 건 바 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[단독] 경찰, 수서 아파트 방화한 50대 남성 구속영장 신청</title>
+      <link>https://www.chosun.com/national/national_general/2025/02/13/2MTSPRJJAVE4LJZE7W6GGYELLA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/02/13/2MTSPRJJAVE4LJZE7W6GGYELLA/</guid>
+      <dc:creator>김병권 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 13 Feb 2025 12:01:57 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BHP2BNGOAXXQ5ATUUCPFGDHZZE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 12일 새벽 서울 강남구 수서동 아파트에서 불을 지른 남성에게 경찰이 구속영장을 신청했다.&lt;br&gt;&lt;br&gt;서울 수서경찰서는 자신이 살던 집에 불을 지른 혐의(현주건조물방화)로 이날 남성 A씨에게 구속영장을 신청했다고 13일 밝혔다.&lt;br&gt;&lt;br&gt;강남소방서에 따르면, 지난 12일 새벽 2시 40분쯤 서울 강남구 수서동의 한 아파트 1층에서 화재가 발생했다. &lt;br&gt;&lt;br&gt;소방당국은 차량 24대와 소방관 등 106명을 동원해 새벽 2시58분쯤 초진을 완료했다. 이어 약 1시간 20분 만인 오전 4시 2분쯤 불을 완전히 껐다. 이 화재로 주민 50명이 스스로 대피하고 8명이 구조됐으나 인명 피해는 없었다. &lt;br&gt;&lt;br&gt;경찰은 지난 12일 오전 A씨를 긴급체포해 범행 동기 등을 조사해왔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>보조배터리·전자담배, 항공기 선반에 못 둔다... 충전도 금지</title>
+      <link>https://www.chosun.com/national/transport-environment/2025/02/13/QOVHLKPEZNBFRLWYBAHXPOQHXI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/02/13/QOVHLKPEZNBFRLWYBAHXPOQHXI/</guid>
+      <dc:creator>김아사 기자</dc:creator>
+      <description>다음 달부터 항공기 내 짐을 싣는 선반에 보조배터리나 전자담배를 둘 수 없다.</description>
+      <pubDate>Thu, 13 Feb 2025 11:16:01 +0000</pubDate>
+      <content:encoded>다음 달부터 항공기 내 짐을 싣는 선반에 보조 배터리나 전자담배를 둘 수 없다. 기내 좌석에 있는 USB 포트를 통해 보조 배터리 등을 충전하는 것도 금지된다.&lt;br&gt;&lt;br&gt;국토교통부는 이런 내용의 ‘보조 배터리, 전자담배 안전 관리 체계 표준안’을 마련해 3월 1일부터 시행한다고 13일 밝혔다. 지난달 28일 발생한 에어부산 화재 사고의 원인은 아직 밝혀지지 않았지만, 보조 배터리 화재 위험에 대한 불안이 커지자 선제적으로 대응에 나선 것이다.&lt;br&gt;&lt;br&gt;현재 국토부 규정 등에 따르면, 160Wh(와트시)를 넘지 않는 리튬 보조 배터리는 2개까지 기내에 소지할 수 있고 100Wh를 넘지 않는 보조 배터리의 경우 5개까지 가지고 탈 수 있다. 시중에 흔히 판매되는 보조 배터리 용량은 37~75Wh다.&lt;br&gt;&lt;br&gt;국토부는 탑승 수속 시 보조 배터리에 대한 검색 절차를 강화한다. 출발 전까지 최대 5차례에 걸쳐 반입 관리 수칙을 안내할 예정이다.&lt;br&gt;&lt;br&gt;기내 반입이 허용된 보조 배터리라도 지퍼백 같은 비닐이나 파우치(케이스) 등에 보관하거나, 충전 단자가 노출된 경우 절연 테이프로 가려야 한다. 다른 물질 등과 닿는 걸 막아 화재를 방지하려는 취지다. 국토부는 “승객이 비닐 등을 준비 못 했을 경우를 위해 체크인 카운터와 기내에 합선 방지용 비닐 등을 비치할 것”이라고 했다.&lt;br&gt;&lt;br&gt;보조 배터리 등을 지퍼백에 넣었다 해도 기내 선반 보관은 금지된다. 반드시 몸에 소지하거나 좌석 주머니에 보관해야 한다. 화재 등 이상 징후 발생 시 즉각 대응하기 위해서다. 미승인 보조 배터리 반입 등 규정 위반이 의심될 경우 항공사 직원은 승객의 짐을 추가 검색할 수 있다.&lt;br&gt;&lt;br&gt;다만, 보조 배터리나 전자담배를 제외한 휴대전화나 노트북 등 배터리가 내장된 전자기기는 자체 합선 방지 장치가 내장돼 있어 이번 조치와 상관없이 기내 충전이 가능하고, 선반에 보관할 수 있다. 국토부는 에어부산 화재 원인이 보조 배터리로 밝혀질 경우 기내 반입 절차를 강화하는 식의 더 강한 규제 도입 여부도 검토할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/34O2Y2YXBFLZDP2OFMFWCW33KQ.JPG?width=4516&amp;height=2616&amp;auth=9c61fef67ba074dc95527dbf16c46232fbfa73ff1470588dc67a5c916f31cfe0&amp;smart=true" type="image/jpeg" height="2616" width="4516">
+        <media:description type="plain">(부산=뉴스1) 윤일지 기자 = 여객기 화재 사고를 겪은 에어부산이 탑승객을 대상으로 보조배터리 소지 유무를 검사하고 확인이 완료된 가방만 기내 선반 위로 올릴 수 있도록 규정을 강화하는 '기내 화재 위험 최소화 정책'을 수립해 7일부터 시행한다. 
+
+이는 지난달 김해공항에서 발생한 여객기 화재 사고에 따른 후속 조치로 사고 원인을 조사 중인 상황에서 원인으로 지목되는 보조배터리에 대해 선제적 대책을 마련한 것이다. 
+
+사진은 이날 오후 부산 강서구 김해국제공항 국제선 에어부산 출국 수속장 전광판에 나오는 보조배터리 기내 선반 탑재 금지 안내문. 2025.2.7/뉴스1</media:description>
+        <media:credit role="author" scheme="urn:ebu">(부산=뉴스1) 윤일지 기자</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>구준엽 장모 “정의 되찾을 것”…딸 前남편 가족에 전쟁선포?</title>
+      <link>https://www.chosun.com/national/national_general/2025/02/13/ZTKFI45AN5FAZET4TOFEWMWYY4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/02/13/ZTKFI45AN5FAZET4TOFEWMWYY4/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 13 Feb 2025 10:16:11 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/633YRSIGTFAMRIGGZ6HOAZG6JU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;고(故) 서희원(왼쪽), 구준엽. /TV조선&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대만 배우 고(故) 서희원(쉬시위안·48)의 어머니이자 가수 구준엽(56)의 장모인 황춘매(황춘메이)가 갑자기 세상을 떠난 딸의 유산을 지키겠다는 의지를 드러냈다고 중화권 언론들이 13일 보도했다.&lt;br&gt;&lt;br&gt;황씨는 이날 새벽 자신의 소셜미디어를 통해 “나는 정의를 되찾을 수 없다는 것을 믿지 않는다. 전쟁터에 나가려는 나를 응원해 주세요”라는 짧은 글을 올렸다. &lt;br&gt;&lt;br&gt;중화권 매체들과 대만 네티즌들은 황씨 글이 서희원의 전 남편 왕샤오페이와 그 가족을 겨냥한 것이라고 해석했다. &lt;br&gt;&lt;br&gt;전 남편 가족에 맞서 서희원이 남긴 유산을 지키고, 서희원의 두 아이도 지키겠다는 선언이라는 것이다. 대만 네티즌들은 황씨 게시글에 댓글을 달며 응원했다. &lt;br&gt;&lt;br&gt;여러 가짜 뉴스로 서희원을 괴롭혀온 전 남편 왕샤오페이와 전 시모 장란은 망자를 악의적으로 마케팅에 이용하다 중국 현지 소셜미디어 계정도 정지된 상태다. &lt;br&gt;&lt;br&gt;구준엽은 지난 6일 밤 소셜미디어를 통해 “크나큰 상실의 아픔과 애도의 시간이 지나가기도 전에 악마 같은 사람들이 우리 가족들과 저의 사랑을 매도하기 시작했다”며 “어떤 이는 슬픈 척 비를 맞으며 돌아다니고 또 다른 이들은 우리 가족에게 흠집을 내려고 보험과 비용에 대한 가짜 뉴스를 만들어 상처를 주고 있다”고 했다. 이 발언 역시 왕샤오페이와 전 시모를 겨냥한 것으로 해석된다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QAPNXEIU55CEJDSVFK7VUDDNSQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서희원의 전 남편 왕샤오페이가 지난 3일 대만에 입국해 비를 맞고 있는 모습. /차이나프레스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;앞서 서희원의 사망 소식을 듣고 대만에 입국한 왕샤오페이는 두 눈이 붉게 충혈되어 있는 모습으로 공항에 등장해 취재진에게 “(서희원에 대해) 더 좋은 말을 많이 해달라”며 “그녀도 제 가족”이라고 했다. 이후 비 내리는 밤길을 30분가량 우산을 쓰지 않고 걸어갔다.&lt;br&gt;&lt;br&gt;하지만 왕샤오페이는 서희원의 장례식이 치러지기도 전에 현재 부인과 함께 지난 11일 중국 베이징으로 돌아갔다. 자녀 2명은 동행하지 않았다.&lt;br&gt;&lt;br&gt;서희원은 구준엽과 1998년 만나 1년간 열애하다 헤어졌다. 이후 2011년 중국인 재벌 2세 사업가 왕샤오페이와 결혼해 두 자녀를 낳았으며 2021년 이혼했다. 이후 구준엽은 이혼한 서희원과 20여 년 만에 재회했고 2022년 두 사람은 정식 부부가 됐다.&lt;br&gt;&lt;br&gt;서희원은 지난 2일 일본 가족 여행 중 독감으로 인한 폐렴 및 패혈증으로 세상을 떠난 것으로 알려졌다. 대만 매체 보도에 따르면 서희원은 사망 전 네 차례 병원을 찾았으나 입원 치료를 받지 않은 것으로 전해졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>해경, 제주 어선 전복사고 실종 선원 야간수색 돌입</title>
+      <link>https://www.chosun.com/national/national_general/2025/02/13/DAEPM66PQVAPZOBUMYUTPGMGCI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/02/13/DAEPM66PQVAPZOBUMYUTPGMGCI/</guid>
+      <dc:creator>진창일 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 13 Feb 2025 10:25:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ECMNHIMUIFLDDGSLC5W6RMVKCA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;13일 오후 해경이 서귀포 해상에서 전복된 갈치잡이배 2066재성호 실종자를 찾기 위한 수색 작업을 하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제주 서귀포해상에서 전복된 서귀포 선적 갈치잡이 어선의 실종 선원을 찾기 위한 두 번째 야간 수색이 시작됐다.&lt;br&gt;&lt;br&gt;제주해양경찰서는 13일 “이날 오후 6시부터 서귀포 선적 근해연승어선 2066재성호(32t·승선원 10명) 실종자 3명을 찾기 위한 야간 수색에 돌입한다”고 밝혔다.&lt;br&gt;&lt;br&gt;재성호는 지난 12일 오후 7시 56분쯤 서귀포시 표선면 남서쪽 12㎞ 인근 해상에서 긴급구조 신호를 보낸 뒤 오후 8시쯤 전복된 채 발견됐다. 짧은 순간에 강한 너울성 파도를 맞아 배가 뒤집힌 것으로 추정된다.&lt;br&gt;&lt;br&gt;해경은 구명벌(구명보트)과 선체 위로 피신하거나 해상에 표류 중이던 외국인 4명(인도네시아 1명, 베트남 3)과 한국인 선장 등 5명을 구조했다.&lt;br&gt;&lt;br&gt;해경은 실종자를 찾기 위해 벌인 주간수색에서 사고 지점에서 남동쪽으로 11㎞ 떨어진 해상과 선박 내부에서 각각 1명씩 실종선원을 발견했다.&lt;br&gt;&lt;br&gt;남은 실종자는 3명이다. 야간 수색에는 해경 11척, 해·공군 2척, 관공선 2척 등 함선 15척과 항공기 1대가 투입된다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/ECMNHIMUIFLDDGSLC5W6RMVKCA.jpg?width=2748&amp;height=1698&amp;auth=f81f3119a3d1a20a49dc7f22e7ea32b5dc5f63600edbe4b312ee5196a4906802&amp;smart=true" type="image/jpeg" height="1698" width="2748">
+        <media:description type="plain">13일 오후 해경이 서귀포 해상에서 전복된 갈치잡이배 2066재성호 실종자를 찾기 위한 수색 작업을 하고 있다. /연합뉴스</media:description>
+        <media:credit role="author" scheme="urn:ebu">박지호</media:credit>
+      </media:content>
+    </item>
+    <item>
       <title>“월급 나눠 갖자” 남 대신 입대한 20대... 법원 판결은</title>
       <link>https://www.chosun.com/national/court_law/2025/02/13/R3EQOZGUANAEVKJ4UDIQUT46BA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/02/13/R3EQOZGUANAEVKJ4UDIQUT46BA/</guid>
@@ -853,51 +923,6 @@
       </media:content>
     </item>
     <item>
-      <title>[스피킹이 강해지는 영어] stir the pot</title>
-      <link>https://www.chosun.com/national/nie/english/2025/02/13/FIMHMVJPS5HP7B3MC2DN5HL4R4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/english/2025/02/13/FIMHMVJPS5HP7B3MC2DN5HL4R4/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 12 Feb 2025 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KJ4KWBMV4ZH3PK3K3KE2JKEHZ4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문으로 배우는 실용한자] 공습(攻襲)</title>
-      <link>https://www.chosun.com/national/nie/chinese_character/2025/02/13/EEQ6VE4WI5HVRJIIO5QXCDWGLY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese_character/2025/02/13/EEQ6VE4WI5HVRJIIO5QXCDWGLY/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 12 Feb 2025 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QV4KEBU5KJDVZE3H2Y6JY5JOOQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[입에 착착 붙는 일본어] 가슴이 두근거리다</title>
-      <link>https://www.chosun.com/national/nie/japanese/2025/02/13/BQ54DATA6BA5FOWCIHZQDMZIDY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/japanese/2025/02/13/BQ54DATA6BA5FOWCIHZQDMZIDY/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 12 Feb 2025 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FKJCJ7FBH5FCVKC2OHR5SQXNUY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[두근두근 뇌 운동] [2560] 오늘은 뭘 볼까</title>
-      <link>https://www.chosun.com/national/nie/2025/02/13/MIA7JY7M6JH77FCKTTBHMJ4VSM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2025/02/13/MIA7JY7M6JH77FCKTTBHMJ4VSM/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 12 Feb 2025 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BHP5BFBINVD7BH7TFZP3UMOW2U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[매일매일 중국어 한마디] 걸림돌, 난관, 장애물</title>
-      <link>https://www.chosun.com/national/nie/chinese/2025/02/13/35VA3WZAFBENDF7QMM222SYDQU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese/2025/02/13/35VA3WZAFBENDF7QMM222SYDQU/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 12 Feb 2025 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LHEWHTZ5DVCHBI226JKTQNHDPA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>“장원영, 하늘이 보러 와달라” 유족 요청에... 네티즌 와글와글</title>
       <link>https://www.chosun.com/national/national_general/2025/02/12/CEKIOTVHEFAWHGTL3DEBRONCSE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/02/12/CEKIOTVHEFAWHGTL3DEBRONCSE/</guid>
@@ -944,15 +969,6 @@
       <description/>
       <pubDate>Wed, 12 Feb 2025 06:47:40 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/P2N4G3AQZGQX3VT4VBPK23EKMI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산 연제구 연산동 부산시청 전경./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산이 하수구 악취와의 전쟁을 벌인다.&lt;br&gt;&lt;br&gt;부산시는 “올해 105억원을 들여 시역 내 악취가 발생하는 하수구들을 준설할 계획”이라고 12일 밝혔다.&lt;br&gt;&lt;br&gt;이같은 시의 하수구 준설 계획은 지난 3년간 지역에서 제기된 생활 악취 민원을 분석한 결과, 하수구 악취가 22.5%에 달하는 데 따른 것이다. 시 조사에 따르면 최근 3년간 각 구·군에 접수된 생활악취 신고는 매년 1200~1300건에 이른다.&lt;br&gt;&lt;br&gt;시는 이에 따라 우선 오는 3월까지 그동안 악취 민원이 많이 제기된 부산진구 부전동 만취길, 해운대구 우동 해리단길, 해운대해수욕장 해변로의 BMW전시장, 수영구 망미동 망미중학교 앞, 중구 보수동 2가 동사무소, 북구 구포동 어린이교통공원 주변 등 6곳에 대해 하수구 준설을 벌이기로 했다.&lt;br&gt;&lt;br&gt;이들 준설 대상 하수구는 악취물질의 냄새가 감지되지 않도록 하는 데 필요한 공기량이 기준치의 669배~3000배에 이를 정도로 악취가 심한 곳들이다.&lt;br&gt;&lt;br&gt;시는 또 이들 준설 대상 하수구 외에 평소 악취 민원이 자주 접수된 부산시내 350개의 악취발생 우려 하수구들에 대한 전수 조사를 오는 5월까지 벌여 악취지도를 만들 계획이다.&lt;br&gt;&lt;br&gt;시 하수관리팀 관계자는 “이들 악취 우려 하수관로에 대한 전수조사가 끝나면 냄새가 심하거나 관광객이 많이 오는 곳을 우선적으로 준설 작업을 할 예정”이라며 “비가 많이 오는 장마철 전 80~90곳의 하수관로 준설을 할 방침”이라고 말했다.&lt;br&gt;&lt;br&gt;시 분석에 따르면 이들 고질적 악취민원 발생 하수구는 기울기가 거의 없는 평평한 도로에 있거나 산복도로 등 고지대에서 바다 쪽으로 내려오던 하수관로가 평지로 접어들어 경사가 없는 곳 등이다.&lt;br&gt;&lt;br&gt;시 환경정책팀 관계자는 “하수관로가 경사 없이 평평해지면 하수 흐름이 느려져 퇴적물이 쌓이고 기온이 올라가면 퇴적된 오염물질이 부패해 냄새가 나는 것”이라고 말했다.&lt;br&gt;&lt;br&gt;이와 더불어 하수와 우수를 한꺼번에 모아 흘려보내는 ‘합류식 하수관로’가 하수구 악취의 주요 요인 중 하나인 것으로 시 측은 분석하고 있다. 도로 등의 빗물을 받아 처리해야 해 뚜껑 구멍이 뚫려 있기 때문이다. 반면 하수와 우수를 따로 분리해 받는 분류식 하수관로는 뚜껑 구멍이 없어 냄새가 외부로 나가지 않는다.&lt;br&gt;&lt;br&gt;현재 부산시의 하수관로는 총 3615km 중 74%쯤이 분류식으로 돼 있고 나머지는 합류식이다. 시는 지난 1990년부터 단계적으로 합류식을 분류식 하수관로로 바꾸는 중으로 2040년까지 전 하수관로 를 분류식으로 만들 계획이다. 올해는 1093억원을 투입, 광안리·송도·송정해수욕장 등 56km 구간을 분류식 하수관로로 교체할 예정이다.&lt;br&gt;&lt;br&gt;김영구 공공하수인프라과장은 “향후 하수구 악취지도를 토대로 하수관로 준설 등 체계적인 악취 발생 저감 계획을 짜고 실행해 나가면서 하수관로를 분류식으로 바꿔 부산을 하수구 냄새 없는 도시로 만들어 나갈 것”이라고 말했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘시청역 역주행’ 운전자 1심서 금고 7년 6개월... “반성 기미 안보여”</title>
-      <link>https://www.chosun.com/national/court_law/2025/02/12/CB5QWCTZNFE35IFSU4KAB7RPTA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/02/12/CB5QWCTZNFE35IFSU4KAB7RPTA/</guid>
-      <dc:creator>김나영 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 12 Feb 2025 02:31:38 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SFP3QZMRU5HDDTSPVGXZHMJWUY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난해 7월 '시청역 역주행 참사' 가해 차량 운전자 차모씨가 피의자 심문을 받기 위해 서초구 서울중앙지법으로 들어서고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난해 7월 서울 시청역에서 역주행 참사를 일으킨 가해 차량 운전자가 1심에서 금고 7년 6개월을 선고받았다. 재판부는 해당 운전자가 반성의 기미를 보이지 않는다며 양형 이유를 밝혔다. &lt;br&gt;&lt;br&gt;12일 서울중앙지법 형사1단독 이춘근 판사는 교통사고처리특례법상 치사·치상 혐의로 구속기소 된 차모(69)씨에게 이같이 선고했다. 검찰은 앞서 차모씨에게 징역 7년 6개월을 구형했는데, 징역이 아닌 금고형을 내린 것이다. 금고형을 받으면 징역과 마찬가지로 교도소에 수용되지만, 노역을 하지는 않는다.&lt;br&gt;&lt;br&gt;재판부는 “피고인의 과실로 9명이 사망하고 5명이 다치는 돌이킬 수 없는 중대 결과가 발생했다”며 “유족들이 엄벌을 탄원하고 있으며 피고인은 범행을 부인하며 반성하는 모습도 보이지 않는 점에 비춰 죄책에 상응하는 중한 처벌이 필요하다”고 설명했다. 그러면서 “피고인이 피해자들과 합의하지 못했고 유족들에게 사과하거나 피해 회복을 위해 노력했다고 볼 아무런 자료도 제출되지 않았다”고 덧붙였다.&lt;br&gt;&lt;br&gt;차씨는 지난해 7월 1일 오후 9시 26분쯤 시청역 인근 웨스틴조선호텔 지하 주차장에서 차를 몰고 빠져나오다가 역주행하며 인도로 돌진해 9명이 숨지고, 5명이 다치게 한 혐의로 재판에 넘겨졌다. &lt;br&gt;&lt;br&gt;재판부는 이번 사건의 쟁점이었던 급발진 여부에 대해선 차량이 급발진을 일으킨 것이 아니라 운전자가 가속페달을 잘못 밟은 것이라고 봤다. 재판부는 “사고기록장치(EDR)와 블랙박스 영상에 따라 차씨 차의 제동 장치에 결함이 없었고, 그가 브레이크 페달이 아닌 가속 페달을 반복해 밟았다가 떼면서 주행하다 사고를 낸 것으로 판단된다는 국립과학수사연구원 감정 결과를 의심할 만한 정황은 발견되지 않았다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>“모정을 버리고 어린 자식을…” 美 입양 한인 친모가 남긴 마지막 편지</title>
