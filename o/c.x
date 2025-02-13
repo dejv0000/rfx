@@ -13,6 +13,87 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>[속보] 헌재 "한덕수 등 尹 측 추가 신청 증인 채택 여부 내일 평의서 결정"</title>
+      <link>https://www.chosun.com/national/court_law/2025/02/13/FKCW3W22OVBXHMXROWWUCW5Q3E/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/02/13/FKCW3W22OVBXHMXROWWUCW5Q3E/</guid>
+      <dc:creator>이슬비 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 13 Feb 2025 05:10:28 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/W2WW63YEK6Q5476JQXPPV4FD6I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령이 13일 서울 종로구 헌법재판소에서 열린 '윤석열 대통령 탄핵심판 8차 변론'에 출석했다. /사진공동취재단&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;헌법재판소는 13일 한덕수 국무총리 등 윤석열 대통령 측이 추가로 신청한 증인의 채택 여부에 대해 “내일 평의를 열어 결정하겠다”고 밝혔다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>작년 딥페이크 성범죄 피의자, 80%가 10대...‘촉법’도 104명</title>
+      <link>https://www.chosun.com/national/national_general/2025/02/13/GBASHGCNQ5GYLFL5KZHRWRS7HM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/02/13/GBASHGCNQ5GYLFL5KZHRWRS7HM/</guid>
+      <dc:creator>김명진 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 13 Feb 2025 04:45:58 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YFKHGXIILZE35BIR36NFSUUQHA.png"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=김의균&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;작년 한 해 동안 딥페이크 성범죄 피의자 682명 가운데 약 80.35%인 548명이 10대인 것으로 나타났다. &lt;br&gt;&lt;br&gt;13일 경찰청 집계 자료에 따르면, 경찰이 2024년 1월 1일부터 12월 31일까지 딥페이크 성범죄로 검거한 피의자는 총 682명으로, 이 중 40명이 구속됐다.&lt;br&gt;&lt;br&gt;연령별로는 ▲10대 548명 ▲20대 107명 ▲30대 20명 ▲40대 4명 ▲50대 이상 3명으로, 10대가 압도적으로 많은 비율을 차지했다. 촉법소년(10세 이상 14세 미만)도 104명(15.9%)에 달했다.&lt;br&gt;&lt;br&gt;경찰은 지난해 8월 28일부터 올해 3월 31일까지를 ‘허위 영상물 범죄 집중 단속 기간’으로 설정하고 단속을 강화했다. 집중 단속 이전(2024년 1월 1일~8월 27일)까지 접수된 사건은 445건(일평균 1.85건)이었는데, 단속 개시 이후(8월 28일~12월 31일)에는 757건(일평균 6.01건)으로 늘었다.&lt;br&gt;&lt;br&gt;경찰청 관계자는 “딥페이크 성범죄의 심각성을 고려해 지속적인 단속과 예방 대책을 강화할 예정”이라며 “특히 청소년 대상 교육 및 법적 대응 방안을 마련해 범죄 예방에 주력할 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>제주 해상 전복 어선 실종자 2명 발견...기상 악화로 사고난 듯</title>
+      <link>https://www.chosun.com/national/regional/2025/02/13/UKQ4IZ4ES5FJFLMWUHPE64LDHY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/02/13/UKQ4IZ4ES5FJFLMWUHPE64LDHY/</guid>
+      <dc:creator>제주=오재용 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 13 Feb 2025 04:22:18 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3KAIVH4PLRHDFMPTGZYBHCOWT4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;해경이 지난 12일 제주 서귀포 해상에서 전복된 어선 선원들을 구조하고 있다./제주해양경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제주 서귀포 해상에서 전복된 서귀포 선적 갈치잡이배 2066재성호(32t, 승선원 10명) 실종 선원으로 추정되는 시신 2구가 발견됐다.&lt;br&gt;&lt;br&gt;서귀포해양경찰서는 13일 이날 오후 12시19분쯤 전복된 사고 선박 내부를 수색하던 중 실종 선원 1명의 시신을 발견했다고 밝혔다. 이에 앞서 오전 9시 57분쯤에는 사고 지점에서 남동쪽으로 11㎞ 떨어진 해상에서 사고 어선 실종자로 추정되는 시신 1구를 발견했다. 발견은 수색에 참여한 민간어선이 했다. 시신은 현재 실종 상태인 한국인 선원 5명 중 한 명으로 추정된다. &lt;br&gt;&lt;br&gt;재성호는 먼 바다로 조업을 나갔다가 기상악화로 피항하던 중 사고가 난 것으로 추정되고 있다.&lt;br&gt;&lt;br&gt;제주지방해양경찰청과 선주 등에 따르면 재성호는 지난 10일 오전 9시 56분쯤 제주 서귀포항에서 갈치조업을 위해 출항했다. 통상 갈치를 잡으려면 서귀포에서 약 800㎞ 떨어진 대만 인근 동중국해상으로 가야하는데 이동하는 데만 3∼4일 소요된다.&lt;br&gt;&lt;br&gt;하지만 12일 오후 2시쯤 30t 이하 선박에 대해 기상악화 우려로 안전구역으로 대피하라는 해경의 통보를 받은 재성호는 제주 서귀포 해역으로 피항하기로 결정했다. 풍랑주의보가 내려지면 30t 이하 선박의 출항은 통제되지만, 그 이상 선박은 평소처럼 운항할 수 있는데도 재성호는 피항결정을 한 것으로 보인다.&lt;br&gt;&lt;br&gt;문제는 기상이 예상보다 급격하게 악화한 데 있었다. 풍랑주의보가 발효된 서귀포 해상에 북서풍이 초속 24∼28ｍ로 강하게 불었고, 파도가 3∼3.5ｍ로 높게 일었다.&lt;br&gt;&lt;br&gt;재성호는 출항 이틀 만인 12일 오후 7시 56분쯤 제주 서귀포시 표선면 남서쪽 12㎞ 해상에서 초단파무선전화(VHF-DSC) 긴급구조 신호를 보냈다. 마침 인근에서 안전관리를 하던 해경 500t급 함정이 4분 만인 오후 8시쯤 사고 현장에 도착했지만 재성호는 이미 파도에 휩쓸려 뒤집힌 뒤였다. 짧은 순간에 강한 너울성 파도를 맞아 배가 뒤집힌 것으로 추정된다.&lt;br&gt;&lt;br&gt;해경은 구명벌(구명보트)과 선체 위로 피신하거나 해상에 표류 중이던 외국인 4명(인도네시아 1명, 베트남 3)과 한국인 선장 등 5명을 구조했다.&lt;br&gt;&lt;br&gt;출입항관리시스템상 재성호에는 한국인 6명과 외국인 4명 등 총 10명이 승선했다. 이날 발견된 시신 2구가 실종자로 확인되면 실종자는 3명이 된다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>오재원도 람보르기니男도... ‘생일·출소 기념 마약' 100명에 투약한 의사</title>
+      <link>https://www.chosun.com/national/national_general/2025/02/13/676HKUY5RNGXXDM4XQT73GQCBA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/02/13/676HKUY5RNGXXDM4XQT73GQCBA/</guid>
+      <dc:creator>김도균 기자, 구동완 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 13 Feb 2025 03:55:38 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UBRJQD3UQ2YZ6LHBSUAZDQNFZQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;마약류관리법 위반 등 혐의를 받는 국가대표 출신 전 프로야구 선수 오재원이 지난해 3월 서울중앙지방법원에서 열린 구속 전 피의자 심문(영장실질심사)에 출석하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 강남구의 한 의원에서 미용 시술을 내걸고 의료용 마약류를 불법 투약한 의사와 가짜 환자들이 경찰에 무더기로 검거됐다. 이들은 ‘생일 기념’ ‘출소 기념’ 등으로 마약을 제공해 투약자들을 마약 중독에 빠뜨렸다. 특히 마약 투약 등 혐의로 실형을 선고받은 국가대표 출신의 전 프로야구 선수 오재원(40)씨도 이 의원에서 마약을 투약한 것으로 확인됐다.&lt;br&gt;&lt;br&gt;서울경찰청 마약범죄수사대는 의료용 마약류를 불법 투약한 60대 이비인후과 의사 A씨와 그의 배우자인 총괄실장 등 의원 관계자 15명을 마약류관리법 위반 등 혐의로 검거해 송치했다고 13일 밝혔다. 경찰은 A씨를 구속해 검찰에 넘겼으며 오씨 등 투약자 100명도 함께 송치했다. &lt;br&gt;&lt;br&gt;경찰에 따르면 A씨 등은 2021년 1월부터 지난해 7월까지 강남구 청담동의 한 의원에서 미용 시술을 빙자해 내원자 105명에게 수면마취제 계열 마약류(프로포폴·레미마졸람 등)를 총 1만7216회에 걸쳐 불법 투약하고 41억4051만원을 편취한 것으로 조사됐다. 특히 A씨는 프로포폴 등의 수면마취제를 16차례에 걸쳐 본인에게 직접 투약한 혐의도 받는다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BELSE3FW4RH7JPCWXDLIUJY5QE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울경찰청 마약범죄수사대가 불법 마약 투약 정황이 드러난 의원을 수사하는 과정에서 수거한 의료용 마약류. /서울경찰청 마약범죄수사대&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이들의 마약 영업 수법은 환자들을 마약류 중독에 빠뜨려 이를 돈벌이로 삼는 ‘마약 판매상’과 비슷했다. 횟수와 용량에 따라 결제 액수를 정하고 수요가 높은 투약자들을 대상으로 일요일 영업을 진행했다. 또 생일을 맞은 투약자들을 대상으로는 ‘생일 기념’, 구치소에서 출소한 이들에게는 ‘출소 기념’ 등의 명목으로 서비스 투약을 제공해 투약자들을 관리하기도 했다.&lt;br&gt;&lt;br&gt;이런 수법에 넘어간 투약자 100명은 각각 최소 6회에서 많게는 887회까지 불법 투약을 받았다. 투약자 상당수(83%)는 20~30대로 조사됐는데, 이들 가운데 하루 최대 28회에 걸쳐 마약을 투약받거나 하루에만 1000만원을 결제한 투약자도 있었다. 1억원 이상의 금액을 지불한 투약자만 12명이었다. 전 프로야구 선수 오씨도 2023년 10월부터 2024년 1월까지 이 의원에 5차례 방문해 프로포폴 등을 투약받았다.&lt;br&gt;&lt;br&gt;경찰은 이 의원에서 105명이 의료용 마약류를 투약받았으나 4명은 사망했다고 밝혔다. 1명은 같은 혐의로 이미 처벌받아 송치 대상에서 제외됐는데, 2023년 9월 적발된 ‘람보르기니 남’ 홍모씨로 확인됐다.&lt;br&gt;&lt;br&gt;이들은 수사망을 피하기 위해 가족이나 지인 명의의 차명계좌로 범죄수익을 관리하는 등 범죄 은폐에도 적극적이었다. 탈세용 장부와 상담용 대포폰을 따로 만들었고, 진료기록도 허위로 작성했다. 다른 사람의 주민등록번호를 불법으로 사용한 혐의도 함께 받는다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SJPJKRYLTJFWHJWCES7CQMSUQQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;마취제 에토미데이트. 에토미데이트는 프로포폴과 효능이 유사하지만 마약류로 지정돼 있지 않아 남용되고 있는 약물이다. /서울경찰청 마약범죄수사대&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;해당 의원에서는 프로포폴·레미마졸람 등 마약류 외에 전신마취제 ‘에토미데이트’도 사용된 것으로 나타났다. 에토미데이트는 프로포폴과 효능이 유사하지만 마약류로 지정돼 있지 않아 보고 의무가 없어 마약류 감시의 사각지대로 여겨져 왔다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “‘에토미데이트’가 마약류로 지정되기 전에 대량 불법 유통될 수 있어 이에 대한 수사를 확대할 방침”이라며 “의료용 마약류는 용법, 용량에 따라 사용해도 쉽게 중독될 수 있어 꼭 필요한 상황 외에는 피해야 한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>광주 찾은 김동연 “이재명의 민주당 아닌 더 큰 민주당 만들어야”</title>
+      <link>https://www.chosun.com/national/national_general/2025/02/13/4HGTSJ64DBFQJNKFKVCOANJ3HQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/02/13/4HGTSJ64DBFQJNKFKVCOANJ3HQ/</guid>
+      <dc:creator>김수언 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 13 Feb 2025 04:57:36 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2ZEAIXLIRRP7VD26KT5JMEQNGA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김동연 경기도지사가 13일 오전 광주 북구 망월동 5·18구묘역에서 취재진 인터뷰를 하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김동연 경기도지사는 13일 “이재명의 민주당이 아닌 민주당의 김동연, 민주당의 김경수, 민주당의 김부겸 등 다 같이 더 큰 민주당을 만들어야 한다”고 말했다.&lt;br&gt;&lt;br&gt;김 지사는 이날 광주 국립 5·18 민주묘지를 참배한 뒤 취재진들에 “우리 광주 시민 여러분들께서 민주당으로 정권 교체가 가능하겠냐는 우려가 큰 것으로 알고 있다. 더 큰 민주당으로 정권 교체의 초석을 만들어야 한다”며 이같이 밝혔다.&lt;br&gt;&lt;br&gt;김 지사는 1박2일 일정으로 광주를 찾았다. 김 지사는 광주 방문 이유에 대해 “광주경영자총협회의 강연 요청이 있어서 왔다”며 “늘 정치하면서 광주 정신으로 시작하자는 생각으로 해왔기 때문에 광주에 올 때마다 5·18 묘역을 찾고 초심을 다진다”고 했다.&lt;br&gt;&lt;br&gt;김 지사는 “정권 교체만으로는 안 된다. 빛고을 광주에서 혁명을 끌어내는 연대가 만들어졌으면 좋겠다”며 “1987년 체제는 시효를 다 했다. 이제는 제7공화국으로 새롭게 출발해야 한다. 민주당만으로는 부족하다. 다양한 가치를 가진 정치세력, 깨어 있는 시민의 힘을 함께 모아야 한다”고도 했다.&lt;br&gt;&lt;br&gt;김 지사는 “5·18 광주 정신을 헌법 전문에 포함하고 계엄 요건을 아주 구체적으로 명시해 다시는 이 같은 계엄이 일어나지 않도록 대못을 박는 개헌, 더불어 사는 세상을 만드는 경제 개헌, 권력 구조를 개편하는 개헌이 필요하다”고 했다.&lt;br&gt;&lt;br&gt;김 지사는 분권형 4년 중임제와 책임총리제를 제안하기도 했다. 김 지사는 “조기 대선 이후 다음 대선은 총선과 주기를 맞추는 것이 필요하다”며 “대선에서 선출된 후보가 안정적으로 국정을 운영할 수 있게끔, 2년의 임기를 단축하고 3년 임기의 대통령으로서 개헌의 임무를 완수하는 대통령이 돼야한다”고 했다.&lt;br&gt;&lt;br&gt;김 지사는 “광주가 선택하면 대한민국이 바뀐다”며 “제2의 노무현의 기적으로 대한민국이 이기는 길, 새로운 길을 가도록 헌신하겠다”고도 했다.&lt;br&gt;&lt;br&gt;한편, 김 지사는 이날 ‘518번’ 버스 탑승, 제주항공 여객기 참사 유가족 면담, 무등산 ‘노무현의 길’ 걷기 등 일정을 소화한다. 오는 14일에는 광주경총 특강, 강기정 광주시장 면담, 옥현진 천주교 광주대교구장 면담 등을 할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“우리 딸 훌륭히 교육해줘 감사”...경북대 간호대에 1억 투척한 학부모</title>
+      <link>https://www.chosun.com/national/people/2025/02/13/ZLQE32OWYJDWDJMA3LVXZEC3DM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/02/13/ZLQE32OWYJDWDJMA3LVXZEC3DM/</guid>
+      <dc:creator>이승규 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 13 Feb 2025 04:55:10 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/52XXSL5WTYO6ONGGB5RACPMK2Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경북대 간호대 졸업생의 평범한 학부모가 대학 교육에 대한 감사의 마음을 담아 발전기금 1억원을 쾌척했다. 사진은 간호대 건물./경북대&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;20여 년 전 대학을 졸업한 딸의 학부모가 딸의 모교에 1억원을 기부했다.&lt;br&gt;&lt;br&gt;경북대는 지난 2003년 간호대를 졸업한 최현경씨의 부모인 최종태·이영자 부부가 발전기금 1억원을 기부했다고 13일 밝혔다.&lt;br&gt;&lt;br&gt;최씨 부부는 경북대 측에 “우리 딸이 훌륭하게 성장할 수 있도록 교육해 준 경북대 간호대에 늘 감사해왔다”며 “딸의 후배들인 간호대 학생들이 더 나은 교육을 받고 좋은 간호 인재로 성장하는 데 작으나마 보탬이 되길 바라는 마음에 기부를 결심했다”고 말했다.&lt;br&gt;&lt;br&gt;최씨 부부의 뜻에 따라 별도의 전달식은 진행되지 않았다. 경북대 측은 이 기금을 간호대학 교육 환경 개선에 사용할 방침이다.&lt;br&gt;&lt;br&gt;올해 설립 115주년을 맞는 경북대 간호대는 지난 1976년 이후 49년간 중구 동인동에 위치해 있었으나, 올해 북구 산격동의 경북대 대구캠퍼스에 신축 이전을 완료했다.&lt;br&gt;&lt;br&gt;최은숙 경북대 간호대학장은 “학부모님의 마음에 깊은 감사의 말씀을 전한다”며 “간호학 교육의 질을 높이고 우수한 교육 환경을 마련하는 데에 발전 기금을 쓰겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘마약 람보르기니’ 운전자 구속 기소</title>
+      <link>https://www.chosun.com/national/national_general/2023/10/06/64KPVLJKZJE25I5WYKPAYXHDL4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2023/10/06/64KPVLJKZJE25I5WYKPAYXHDL4/</guid>
+      <dc:creator>허욱 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 05 Oct 2023 18:00:00 +0000</pubDate>
+      <content:encoded>검찰이 서울 강남 한복판에서 마약에 취해 주차 시비 상대방을 흉기로 위협한 람보르기니 운전자 홍모(30)씨를 5일 구속 기소했다.&lt;br&gt;&lt;br&gt;서울중앙지검 강력범죄수사부(부장 김연실)는 이날 특수협박 등 혐의로 홍씨를 구속 기소했다고 밝혔다. 홍씨는 지난달 11일 오후 서울 강남구 논현동에서 람보르기니 차량을 주차하다가 다른 차량 주인과 시비가 붙자 흉기를 보여주며 위협한 혐의를 받고 있다. 당시 홍씨는 길이 24㎝ 짜리 칼을 소지한 채 피해자 2명을 죽여버리겠다고 협박한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;당시 경찰은 압구정 로데오거리에 람보르기니를 세워두고 도주하던 홍씨를 강남구 신사동 한 음식점 앞에서 긴급 체포했다. 홍씨는 체포 당시 약물에 취해 몸도 제대로 가누지 못했는데, 이후 마약 검사에서 필로폰·MDMA(엑스터시)·케타민 양성 반응이 나왔다. 홍씨는 사건 당시 면허도 취소된 상태였던 것으로 확인됐다.&lt;br&gt;&lt;br&gt;검찰은 지난달 20일 서울 강남경찰서에서 구속 송치된 홍씨에 대한 보완 수사를 진행하는 한편, 피해자에 대한 경제적 지원과 심리 치료 등 지원을 의뢰했다고 한다. 서울중앙지검 관계자는 “피해자 지원 뿐 아니라 죄에 상응하는 형이 선고될 수 있도록 공소유지에 최선을 다할 것”이라며 “피의자의 의료용 마약류 불법투약 여부, 조폭 가담 의혹 등은 경찰과 긴밀히 협조해 철저히 계속 수사할 예정”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>시 공무원에 ‘뇌물공여’ 前 새만금 수상태양광 사업단장 벌금</title>
+      <link>https://www.chosun.com/national/national_general/2025/02/13/I7HCBWDH6ZA45AR4GXRXHS43YQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/02/13/I7HCBWDH6ZA45AR4GXRXHS43YQ/</guid>
+      <dc:creator>고유찬 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 13 Feb 2025 04:31:04 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5R7SB2YFXZ72S6VG2I7SBKCP6E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울북부지법. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;새만금 수상태양광 사업과 관련해 담당 공무원에게 뇌물을 공여한 혐의를 받는 전 사업단장이 벌금형을 선고받았다.&lt;br&gt;&lt;br&gt;서울북부지법 형사1단독 조미옥 부장판사는 13일 뇌물공여 등의 혐의로 기소된 최모씨에게 벌금 200만원을 선고했다.&lt;br&gt;&lt;br&gt;한국수력원자력(한수원) 간부였던 최씨는 한수원과 현대글로벌이 공동 설립한 특수목적법인(SPC) 새만금솔라파워에 파견돼 새만금 사업단장으로 재직하던 중 군산시 담당 공무원의 요구를 받고 60만원 상당의 상품권을 건넨 혐의로 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;재판부는 “피고인이 반성하는 모습을 보이고 있으며 제공한 뇌물이 비교적 소규모인 점 등을 참작했다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>대전초 교사, 마트서 직원에 문의하며 흉기 구입</title>
+      <link>https://www.chosun.com/national/regional/chungcheong/2025/02/13/GQQ3ZHV25RH7DNOOTXDY3ZUBLY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2025/02/13/GQQ3ZHV25RH7DNOOTXDY3ZUBLY/</guid>
+      <dc:creator>대전=김석모 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 13 Feb 2025 04:26:26 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PG47SDI6IVDXVDLD7KUAGZQB7U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;'대전 초등생 피살 사건'이 발생한 대전 서구의 초등학교에 눈이 내리는 12일 학교 관계자들이 추모객이 놓고 간 꽃과 인형, 손편지 위에 우산을 씌우고 있다. /신현종 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘대전 초등생 피살 사건’의 피의자인 교사가 흉기를 구입할 때 마트에서 ‘잘 드는 칼’을 문의한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;13일 본지 취재를 종합하면 경찰은 교사 A(48)씨가 지난 10일 오후 1시 30분쯤 학교에서 2km 정도 떨어진 주방용품점을 찾아 점원에게 “잘 드는 칼이 있나”라고 물어봤다는 진술을 확보했다.&lt;br&gt;&lt;br&gt;당시 점원이 칼을 찾는 이유를 묻자 A씨는 “주방에서 사용할 것”이라는 취지로 대답한 것으로 전해졌다. A씨가 구입한 칼은 전체 길이 28cm, 날 길이만 16cm였다. 이 칼은 A씨가 범행 때 사용했다.&lt;br&gt;&lt;br&gt;A씨는 범행 이후 경찰 조사에서 “학교 근처 마트에서 칼을 구입해 3층 교무실에 있기 싫어서 시청각실에 들어가 문을 열고 있었다”면서 “돌봄 교실에서 학생들이 수업을 마치고 갈 때 어떤 아이든 상관없이 같이 죽을 생각을 갖고 있었다”고 했다. 이어 “마지막으로 가는 학생(김하늘양)에게 책을 준다고 시청각실로 유인해 살해했다”고 했다.&lt;br&gt;&lt;br&gt;유족들은 A씨의 범죄가 “계획됐다”고 주장하는 가운데 범행 도구를 구입할 당시 ‘잘 드는 칼’을 찾았다는 목격자의 진술이 나오면서 계획범죄 가능성이 더욱 높이고 있다는 분석이 나오고 있다.&lt;br&gt;&lt;br&gt;경찰은 A씨가 인적이 드물고 방음·암막커튼이 설치된 시청각실을 범행 장소로 고른 점, 사전에 흉기를 준비한 점 등을 토대로 계획 범죄 여부를 중점적으로 수사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>조태용 “내 공관 앞에서 메모 썼다던 홍장원, 당시 본인 사무실에 있었다”</title>
       <link>https://www.chosun.com/national/court_law/2025/02/13/XAXYVHHX7BGZPLJNQUJ4WANWFM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/02/13/XAXYVHHX7BGZPLJNQUJ4WANWFM/</guid>
@@ -823,55 +904,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TZ2GQXWAB5I5PLBVZDCGZTVFEA.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;서울 영등포구 여의도 한국노총 회관 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한국노총이 12일 중앙집행위원회를 열고 올해 임금 인상 요구율을 7.3%로 결정했다. 월급 기준 31만4919원이다.&lt;br&gt;&lt;br&gt;임금 인상 요구율은 한국노총 산하 노조들이 올해 회사와 개별 임금 교섭을 할 때 지침 삼는 수치다. 다만 실제 임금 협상은 이보다 낮은 인상률로 타결된다. 지난해 요구율은 올해보다 높은 8.3%였다.&lt;br&gt;&lt;br&gt;한국노총은 “최근 몇 년간 높은 실생활 물가로 임금 노동자 가구의 체감 경기 지수가 악하고 실질임금 감소로 이어졌다”며 배경을 설명했다. 이어 “최근 세계 경제가 침체하고 국내 정치의 불안정성이 증폭하면서 각종 경제지표가 악화했고, 향후 우리 경제의 소득 양극화, 임금 불평등 심화가 우려된다”고 했다.&lt;br&gt;&lt;br&gt;요구율 7.3%는 정부와 한국은행, 한국개발연구원(KDI), 국제통화기금(IMF) 등 국내외 7개 기관이 발표한 올해 경제성장률 전망치 평균(2%)에 소비자물가상승률(1.8%), 물가 폭등에 따른 실질임금 보전분(2.0%), 임금 불평등 해소를 위한 연대임금 조성분(1.5%) 등을 합친 수치다.&lt;br&gt;&lt;br&gt;한국노총이 2020년부터 연대임금을 만들고 있다. 임금인상분의 일정 부분을 기금 형태로 조성하고, 이를 대기업·중소기업, 원·하청, 정규직·비정규직 등의 임금 격차를 해소하는데 쓰는 것이다.&lt;br&gt;&lt;br&gt;비정규직의 경우 정규직과 임금 격차를 줄이기 위해 인상률 7.3%를 적용하는 대신 정규직과 같은 월 정액임금 월 31만4919원 인상을 요구하기로 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>‘서부지법 경비 실패’ 마포경찰서장에 직권 경고</title>
-      <link>https://www.chosun.com/national/national_general/2025/02/12/5WPXEHWRABDMLFCOZHV6UPPI2U/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/02/12/5WPXEHWRABDMLFCOZHV6UPPI2U/</guid>
-      <dc:creator>김명진 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 12 Feb 2025 06:29:19 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QX44ISZNN3X4ICFQEVQ3ZA43ZM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 19일 새벽 윤석열 대통령에 대한 구속영장이 발부되자 서울 서부지법에 지지자들이 진입해 난동을 부리고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰청이 서울서부지법 폭력 난동 사태에 대한 책임을 물어 관할 경찰서인 서울 마포경찰서장 등에게 직권 경고 처분을 내리기로 했다.&lt;br&gt;&lt;br&gt;12일 경찰청에 따르면 경찰청 감사관실은 고석길 마포경찰서장과 백상현 경비과장, 안판국 정보과장에게 직권 경고를 하기로 최근 결정하고 조만간 당사자들에게 이를 통보할 예정이다.&lt;br&gt;&lt;br&gt;경찰청 경고·주의 및 장려제도 운영 규칙 예규에 따르면, 직권 경고는 “징계사유에는 이르지 아니한 경미한 사안의 경우 또는 감독자 등을 문책하는 경우 앞으로 그러한 행위가 다시 발생하지 않도록 엄중히 훈계하는 것”을 말한다.&lt;br&gt;&lt;br&gt;발부권자에 따라 0.25점에서 최대 1점까지 벌점을 받는 등 인사상 불이익이 있다. 경찰청 감사관실은 “이번 직권 경고는 경찰청장 직무대행 명의로 발부됐다”고 했다.&lt;br&gt;&lt;br&gt;윤석열 대통령 지지자들은 지난달 19일 윤 대통령의 구속 직후 서부지법의 경찰 저지선을 뚫고 법원 내부로 난입해 구속영장을 발부한 판사를 찾아다니며 유리창과 집기 등 기물을 파손했다.&lt;br&gt;&lt;br&gt;경찰은 서부지법에 난입한 이들과 그 전날 법원 주위에서 경찰의 공무집행을 방해하고 고위공직자범죄수사처(공수처) 차량을 공격한 시위대 등 100여명을 특정해 70명을 구속했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“블랙아이스 사고 막는다”… 도로 얼면 나타나는 눈송이 그림, 뭐길래 </title>
-      <link>https://www.chosun.com/national/national_general/2025/02/12/V5RGU7YAJVGJRFUABDRCHGH6L4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/02/12/V5RGU7YAJVGJRFUABDRCHGH6L4/</guid>
-      <dc:creator>박선민 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 12 Feb 2025 05:41:20 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/I6GX3IVQ5NC6VLOBMKA5Z4YUKM.png"&gt;&lt;figcaption&gt;&lt;small&gt;도로 결빙시 뜨는 눈송이 그림. 도로 온도에 따라 색상이나 문양이 변하는 감응형 노면표시를 활용한다. /행정안전부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;블랙아이스로 인한 교통사고를 막기 위해 결빙 시 ‘주의’ 문구나 눈 결정체 그림이 도로에 직접 뜨도록 하는 감응형 노면 표시가 도입될 전망이다. 블랙아이스는 도로 위에 생기는 얇고 투명한 얼음층으로, 맨눈으로 잘 보이지 않아서 운전 중 큰 사고를 유발할 수 있다. &lt;br&gt;&lt;br&gt;11일 행정안전부가 발표한 ‘겨울철 도로 결빙 교통사고 원인 분석 및 인명 피해 방지 대책’에 따르면, 2019년부터 2023년까지 연평균 노면 결빙 교통사고가 788.8건 발생해 연평균 19명이 사망했다. 평균 치사율은 2.4%였다. 같은 기간 결빙을 제외한 연평균 전체 교통사고 20만6714건에 대한 치사율이 1.4%(2907명)였다는 점을 고려하면, 결빙 교통사고의 치사율이 전체 교통사고보다 약 1.7배 높은 셈이다.&lt;br&gt;&lt;br&gt;이에 작년 11월 정부는 민·관 합동으로 겨울철 도로 결빙 교통사고 재난 원인 조사반을 구성하고 도로 제설 현장 근무자와 민간 전문가 의견을 수렴했다. &lt;br&gt;&lt;br&gt;이를 토대로 조사반은 도로 건설 시 설계 단계부터 결빙 위험 요인을 검토하고, 결빙 우려 지역에 대해서는 노면 마찰력 강화 등 결빙 예방 시설을 마련하도록 했다. 또 올해 전국 31개 고속도로 노선에 도로 기상 관측망을 작년보다 107곳 많은 366곳으로 늘리고, 내년까지 469곳까지 확대할 예정이다. 기상청이 제공하는 도로 살얼음과 관련한 기상 관측 자료가 운전자에게 전달되기까지 약 30분의 시차가 생기는 점도 보완하기로 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6S7D63BUC5BORAXWZCMJGOCVBY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 14일 오전 5시 16분쯤 경기 고양시 일산서구 자유로 구산IC 인근에서 발생한 44중 추돌 사고 현장의 모습. 도로 표면의 얇은 얼음층인 ‘블랙 아이스’가 원인으로 추정됐다. /경기도북부소방재난본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AJQCOK335KRINTPVSEZYI34IKE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;작년 11월 29일 오전 서울 종로구의 도로 곳곳이 얼어 있다. /뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;특히 눈에 띄는 대책은 도로 온도에 따라 색상이나 문양이 변하는 감응형 노면 표시를 활용해 운전자가 결빙 정보 알림을 실시간으로 파악할 수 있도록 한 점이다. 기온에 따라 색깔이 달라지는 시온도료를 활용해 평소에는 잘 보이지 않지만, 도로 표면이 약 0~1도 정도로 내려가면 ‘결빙 주의’라는 글자나 눈송이 모양이 빨갛게 떠오르는 식이다. &lt;br&gt;&lt;br&gt;이외에도 운전면허 시험에 눈길과 빙판길 운전 요령 내용을 늘리고, 도로 결빙 시 운전자 안전 수칙을 다양한 매체를 통해 홍보한다. 아울러 도로 결빙을 늦출 수 있는 도로 포장 기술을 개발하고, 효과 검증 후 결빙에 취약한 터널·교량에 확대 적용한다.&lt;br&gt;&lt;br&gt;이한경 행안부 재난안전관리본부장은 “결빙으로 인한 교통사고는 인명 피해로 이어질 가능성이 높은 만큼 이번에 마련한 정부 대책을 관계 기관과 협력해 철저히 이행하겠다”고 했다. &lt;br&gt;&lt;br&gt;한편 결빙 교통사고 시 인명 피해 발생 비율이 높은 곳은 터널(2.9%)과 교량(2.2%)으로 나타났다. 이어 고가도로(2.1%), 기타 단일로(1.8%), 지하차도(1.8%), 교차로(1.5%), 횡단보도(1.1%) 등의 순이었다. 행안부 관계자는 “터널과 교량 구간을 중심으로 이번에 세운 결빙 교통사고 대책안을 이행해 갈 것”이라며 “아직 추위가 가시지 않아 여전히 얼음이 낄 가능성이 있으니, 이곳을 지나는 운전자는 안전에 각별히 주의해달라”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/TJHKIPCNZNCM3HEJX75NBTJKGM.png?width=676&amp;height=380&amp;auth=a30ae3f27b27f9e3dfba34c19330570d27bcfafa76c111aeb2705e08fb22a12e&amp;smart=true" type="image/png" height="380" width="676">
-        <media:description type="plain">도로 결빙시 뜨는 눈송이 그림. 도로 온도에 따라 색상이나 문양이 변하는 감응형 노면표시를 활용한다. /행정안전부</media:description>
-        <media:credit role="author" scheme="urn:ebu"/>
-      </media:content>
-    </item>
-    <item>
-      <title>[단독] 쓰레기 태운 열로 지역난방 대체하면 탄소 감축으로 인정</title>
-      <link>https://www.chosun.com/national/transport-environment/2025/02/11/3RDWQXIGDNE4DEIAGUCHRGC4BU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/02/11/3RDWQXIGDNE4DEIAGUCHRGC4BU/</guid>
-      <dc:creator>박상현 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 10 Feb 2025 20:05:00 +0000</pubDate>
-      <content:encoded>쓰레기를 태울 때 발생하는 ‘소각열’로 지역난방에 쓰이는 도시가스 등 화석연료를 대체하면 해당 지자체에 탄소 감축분을 인정해주는 방안이 검토 중인 것으로 10일 확인됐다. 내년부터 수도권, 2030년부터 전국에서 쓰레기 직매립이 금지됨에 따라 늘어나게 될 소각량과 소각열이 탄소 감축에 기여할 수 있을 것으로 분석된다.&lt;br&gt;&lt;br&gt;2050탄소중립녹색성장위원회(탄녹위)는 전국 179개 공공 소각장을 대상으로 이같은 방안을 지난 4일 환경부에 검토해달라고 요청했다. 환경부에 따르면, 재작년 기준 전국 공공 소각장에서 생산한 소각열은 총 1181만1000Gcal(기가칼로리)로, 연간 357만6429t의 탄소를 줄인 효과를 냈다. 공공 소각장을 가진 각 지자체는 소각열을 소각장 주변 아파트 단지 등에 공급하는 식으로 화석연료 사용을 줄여왔지만 감축분을 인정받지 못했다. 이런 소각열을 공급받아 천연가스 등을 대체한 기업만 탄소감축분을 인정받았기 때문이다. NDC로 정해진 의무 감축률을 달성할 길이 없는 소각장과 기업이 감축분 산정을 조율해야한다는 지적이 나왔다.&lt;br&gt;&lt;br&gt;폐기물은 NDC(국가 온실가스 감축목표)에서 감축이 가장 까다로운 분야로 꼽힌다. 우리나라는 2030년까지 2018년(연 1710만t) 대비 800만t(46.8%) 줄어든 연 910만t 발생을 목표로 하고 있다. 그러나 현재 기술로는 소각장에서 탄소를 줄일 방법은 사실상 없다. 이에 소각업계에선 탄소배출권을 구매해 의무 감축 물량을 상쇄하고 있는데 이는 폐기물 처리 단가를 높여 결국 국민에게 부담이 전가된다는 문제가 있다.&lt;br&gt;&lt;br&gt;그런데 재작년 수준으로 공공 소각장이 소각열을 생산해 감축분을 폐기물 분야에서 인정받을 경우 NDC 목표의 44.7%를 줄이는 효과가 나타난다. 2030년까지 전국에서 쓰레기 직매립이 금지되면 국민이 버리는 생활폐기물은 무조건 태워야 하기 때문에 소각량과 소각열도 늘어나고, 탄소 감축분도 늘어나는 효과를 거둘 것으로 전망된다. 민간 소각장의 경우 재작년 기준 산업 현장에서 나온 폐기물을 태워 생산한 소각열로 연간 166만4822t의 탄소 감축 효과를 냈다.&lt;br&gt;&lt;br&gt;일각에선 “NDC 달성을 위한 ‘꼼수’가 아니냐”는 지적도 있다. 탄녹위 측은 “감축 여력이 많지 않은 폐기물 분야에서 감축 성과를 내보자는 취지”라고 설명했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘金여사 함정 몰카 논란’ 서울의소리 기자 스토킹 혐의 경찰 출석</title>
-      <link>https://www.chosun.com/national/national_general/2025/02/12/Z7DRXJU5VBC7NC6U3WL4SQOKDM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/02/12/Z7DRXJU5VBC7NC6U3WL4SQOKDM/</guid>
-      <dc:creator>조민희 기자, 김병권 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 12 Feb 2025 05:25:35 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/R7Q65T3WGROHZOTMQINQ4H6RCE.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;김건희 여사를 몰래 촬영한 영상을 보도한 혐의로 고발된 이명수 서울의소리 기자가 12일 오후 서울 서초경찰서에서 스토킹처벌법 위반 혐의 관련 조사를 받기 위해 피의자 신분으로 출석하며 취재진 질문에 답하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 2023년 김건희 여사를 몰래 찍은 영상을 보도한 혐의로 고발 당한 이명수 서울의소리 기자가 12일 오후 서울 서초경찰서에 피의자 신분으로 조사를 받기 위해 출석했다. &lt;br&gt;&lt;br&gt;이날 오후 1시 51분쯤 서초경찰서에 도착한 이 기자는 “김 여사의 개인 정보가 유출됐다는 것에 대해 어떻게 생각하느냐?”는 취재진 질문에 “나는 디올백을 사준 사람이지만, 김 여사를 스토킹한 적은 없다”고 밝혔다. &lt;br&gt;&lt;br&gt;취재진이 “김 여사를 몰래 촬영한 영상을 게재한 것에 대해 스토킹 혐의가 적용된 것 같은데 그것에 대해서는 어떻게 생각하느냐”라고 묻자 “그렇게 하면 대한민국 기자들이 취재한 것도 다 보도하지 못할 것으로 본다”고 답했다.&lt;br&gt;&lt;br&gt;이 기자는 2023년 9월 13일 김 여사가 서울 서초구 코바나컨텐츠 사무실에서 최재영 목사로부터 300만원 상당의 디올백을 받았다며 해당 영상을 공개한 바 있다. 이 과정에서 이 기자는 최 목사가 가방을 전달하는 모습을 손목시계형 카메라로 몰래 촬영한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;경찰은 이 기자가 김 여사를 몰래 촬영한 장면을 인터넷에 유포한 행위가 스토킹 범죄에 해당하는지를 조사 중이다. 이 사건은 지난해 1월 한 보수 성향 단체가 최 목사와 이 기자를 스토킹처벌법 위반 혐의로 고발하며 수사가 시작됐다. &lt;br&gt;&lt;br&gt;최 목사는 지난해 7월 이 사건 조사를 받기 위해 경찰에 출석하면서 “카카오톡을 통해 김 여사와 접견 일정을 잡아 만난 것이라 스토킹이 아니다”라고 주장했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>알고 지내던 여성 무차별 폭행 살해한 30대 남성…징역 23년 선고</title>
-      <link>https://www.chosun.com/national/regional/2025/02/12/TOAZMWRWKFBBDA5JJLGA2V4RYU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/02/12/TOAZMWRWKFBBDA5JJLGA2V4RYU/</guid>
-      <dc:creator>대구=노인호 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 12 Feb 2025 05:19:31 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IFNDFBIOIKS2M76KV4GSTLSBJ4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대구고법, 지법 청사 전경./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;어린 자녀가 보는 앞에서 알고 지내던 여성을 무차별 폭행해 살해한 30대 남성에게 징역형이 선고됐다. &lt;br&gt;&lt;br&gt;대구지법 형사11부(재판장 이종길)는 12일 살인 혐의로 구속 기소된 A씨에게 징역 23년을 선고했다. A씨는 지난해 9월 대구 남구 한 빌라에서 30대 여성 B씨와 술을 마시던 다툼을 벌이다 마구 폭행해 숨지게 한 혐의로 재판에 넘겨졌다. &lt;br&gt;&lt;br&gt;경찰은 상해치사 혐의를 적용해 A씨를 구속 송치했지만, 검찰이 보완 수사와 검찰시민위원회의 심의·의결을 거쳐 살인 혐의로 변경해 기소했다. B씨에 대한 부검 결과 늑골이 골절되면서 장기가 손상된 것으로 밝혀졌다. &lt;br&gt;&lt;br&gt;재판부는 “범행이 피해자 주거지에서 이뤄져 피해자의 어린 자녀가 엄마가 폭행당해 숨지는 장면을 목격하는 참혹한 결과가 발생했다”며 “A씨가 반성하는 태도를 보이지 않고, 범행을 숨기거나 축소해 책임을 회피하려는 모습을 보이는 점, 유족들로부터 용서받지 못한 점 등을 고려했다”고 양형 이유를 설명했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>﻿‘BTS 한복 디자이너’ 김리을, 32세에 사망</title>
       <link>https://www.chosun.com/national/national_general/2025/02/12/7AIV2VQTV5AZ7JYOQ7KLBFBTOI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/02/12/7AIV2VQTV5AZ7JYOQ7KLBFBTOI/</guid>
@@ -879,15 +911,6 @@
       <description/>
       <pubDate>Wed, 12 Feb 2025 05:09:43 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RQM7B75GJFBTTKKESPHDPRMRSA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김리을 디자이너가 한복 원단 라이더 재킷(보통 모터사이클 탈 때 입는 재킷, 아래에 벨트가 있고 지퍼가 장식으로 달렸다)과 함께 포즈를 취했다. /고운호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그룹 방탄소년단(BTS)의 한복 정장을 디자인해 이름을 알린 디자이너 김리을(본명 김종원‧32)씨가 사망했다. &lt;br&gt;&lt;br&gt;12일 전북 남원경찰서 등에 따르면 전날 오후 9시쯤 남원의 한 아파트 화단에 사람이 떨어졌다는 신고가 접수됐다. 신고를 받고 출동한 경찰은 인근에서 숨진 채 쓰러져있던 김씨를 발견했다. &lt;br&gt;&lt;br&gt;남원은 김씨의 부모가 거주하던 곳으로, 당시 그는 부모가 살던 아파트를 찾은 것으로 전해졌다. &lt;br&gt;&lt;br&gt;경찰은 김씨가 스스로 목숨을 끊은 것으로 추정하고 있으며 주변인들을 대상으로 정확한 사고 경위를 조사 중이다. &lt;br&gt;&lt;br&gt;김씨는 2016년 한복 원단으로 만든 현대적인 정장을 처음 선보이면서 한복 정장 브랜드 ‘리을(RIEUL)’을 만들어 운영했다. 뉴발란스, 맥라렌, 삼성 갤럭시 S21, 문화재청 등 다양한 글로벌 브랜드 및 정부 기관과 협업하며 한복의 현대화와 세계화를 이끌어왔다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SXN7V23BHBE55ILFWYQE24JWLM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경복궁 근정전을 배경으로 공연한 BTS. 지민, 슈가, 제이홉이 김리을 디자이너 옷을 입었다. /유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;특히 2020년 9월 BTS가 미국 NBC ‘더 투나잇 쇼 스타링 지미 팰런(지미 팰런쇼)’에 출연했을 당시 경복궁 근정전 앞마당에서 펼친 ‘IDOL(아이돌)’ 무대 의상을 디자인해 명성을 얻었다. 해당 영상은 유튜브에서 수천만 조회수를 기록했고, 김씨의 한복 정장은 세계적인 주목을 받았다. &lt;br&gt;&lt;br&gt;고인은 독창성과 영향력을 인정받아 지난해 미국 경제 매체 포브스가 선정한 ‘아시아에서 영향력 있는 30세 이하 30인’에 선정됐다. 같은 해 11월 열린 한 포럼에서 김씨는 “한국의 하이엔드 브랜드를 물으면 자신 있게 ‘리을’이라고 말할 수 있도록 만들겠다”며 “’내 생각을 나만의 방식으로 표현한다’가 철학이다. (리을이) 자기 생각을 표현하며 사는 사람들이 입는 브랜드이자, 한국의 명품 브랜드라고 생각됐으면 좋겠다”고 했다. &lt;br&gt;&lt;br&gt;김씨의 개인 소셜미디어에는 지난달 9일 “1993-2025”라는 글과 함께 ‘RIEUL’ 브랜드명이 적힌 사진이 마지막으로 게시됐다. 해당 게시물에 지인들은 “믿기지 않는다” “이건 말이 안 된다” “우리 며칠 후에 만나기로 했잖아요” 등 갑작스러운 고인의 부고에 놀라면서도 “명복을 빈다”며 그를 추모했다. &lt;br&gt;&lt;br&gt;※ 우울감 등 말하기 어려운 고민이 있거나, 주변에 이런 어려움을 겪는 가족 · 지인이 있을 경우 자살예방 상담전화 ☎109 또는 SNS상담 마들랜(마음을 들어주는 랜선친구)에서 24시간 전문가의 상담을 받을 수 있습니다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[속보] 법원, 한동훈 ‘계좌추적 발언’ 황희석·TBS에 1000만원 배상 명령</title>
-      <link>https://www.chosun.com/national/court_law/2025/02/12/77QUBAMAWJDCFEW66EG3W5O4UY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/02/12/77QUBAMAWJDCFEW66EG3W5O4UY/</guid>
-      <dc:creator>김나영 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 12 Feb 2025 05:08:11 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DXDMD2SS2SUEWEK3RI7T2S3RSI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;황희석 전 열린민주당 최고위원이 ~다. 사진은 2020년 3월 황 전 최고위원이 열린민주당 비례대표 후보 경선 참가자 공개 기자회견에서 발언하고 있는 모습./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;과거 ‘검찰이 노무현재단 계좌를 추적했다’고 발언한 황희석 전 열린민주당 최고위원과 이를 방송으로 내보낸 TBS가 한동훈 전 국민의힘 대표에게 1000만원을 배상해야 한다는 1심 판결이 나왔다.&lt;br&gt;&lt;br&gt;서울중앙지법 민사97단독 김민지 판사는 이날 오후 2시 한 전 대표가 황 전 최고위원과 TBS를 상대로 낸 2억원대 손해배상 청구 소송 선고에서 원고 일부 승소로 판결했다.&lt;br&gt;&lt;br&gt;황 전 최고위원은 2021년 11월 22일 TBS 유튜브 채널 ‘국회 앞 유정다방’에 출연해 “(검찰이) 2019년 9~10월 노무현재단 계좌를 추적해 거래내역을 다 열어봤고 그 과정에서 신라젠을 통해 유시민(당시 노무현재단 이사장)을 잡기 위해 이동재 전 채널A 기자와 정보를 공유해 소위 ‘검언유착’을 했다”고 주장했다.&lt;br&gt;&lt;br&gt;2019년 당시 대검찰청 반부패강력부장이었던 한 전 대표는 노무현재단이나 유 전 이사장의 계좌를 추적한 적이 없다며 황 전 최고위원을 허위사실 유포에 따른 명예훼손죄로 고소한 데 이어, 황 전 최고위원과 TBS에 2억원을 배상하라는 손해배상 청구 소송을 제기했다.&lt;br&gt;&lt;br&gt;앞서 황 전 최고위원은 2022년 12월 명예훼손 혐의로 불구속 기소돼 지난해 10월 대법원에서 벌금 500만원형이 확정됐다. 이 사실이 알려지자 대한변호사협회는 변호사인 황 전 최고위원에 대해 지난해 12월 16일 과태료 500만원의 징계 처분을 내렸다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[단독] 현직 검사장 “절차 존중 않는 헌재, 日帝 재판관보다 못해”</title>
@@ -901,15 +924,6 @@
         <media:description type="plain">11일 서울 종로구 헌법재판소에서 열린 윤석열 대통령 탄핵심판 7차 변론기일에 헌법재판관들이 참석해 있다. 2025.2.11/뉴스1 ⓒ News1 사진공동취재단</media:description>
         <media:credit role="author" scheme="urn:ebu">뉴스1 ⓒ News1 사진공동취재단</media:credit>
       </media:content>
-    </item>
-    <item>
-      <title>‘음주 뺑소니’ 김호중 측 “술타기였다면 캔맥주 대신 양주 마셨을 것”</title>
-      <link>https://www.chosun.com/national/court_law/2025/02/12/OLATZHNZZJE7DGI5FWCGL6BEXE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/02/12/OLATZHNZZJE7DGI5FWCGL6BEXE/</guid>
-      <dc:creator>이민준 기자, 김나영 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 12 Feb 2025 05:06:00 +0000</pubDate>
-      <content:encoded>‘음주 뺑소니’ 사고로 1심에서 징역 2년 6개월을 선고받은 트로트 가수 김호중(33)씨가 2심에서 사고 후 음주를 통해 혈중알코올농도 측정을 방해하는 이른바 ‘술타기 수법’을 사용하지 않았다고 주장했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KUD3X3PTWG2ZUPOKQBSMNP67DI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;'음주 뺑소니' 혐의를 받는 가수 김호중이 지난해 5월 24일 서울 서초구 서울중앙지방법원에서 열린 구속영장 실질심사를 마친 후 호송 차량으로 이동하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;12일 서울중앙지법 형사항소5-3부(재판장 김지선) 심리로 열린 김씨의 항소심 첫 공판에서 김씨 측 변호인은 “술타기는 음주 측정이 예상되는 상황에서 독한 술을 마신 후 이로 인해 정확한 측정을 불가능하게 하는 전형적 패턴이 있다”며 “그런데 피고인은 이미 매니저가 대신 자수할 것이라 알고 있었고, 본인이 경찰에 가서 음주 측정을 할 것을 알지 못했다”고 말했다. 이어 “만약 술타기였다면 캔맥주가 아닌 독한 양주를 마셨을 것”이라며 “김씨는 체격이 건장한 30대인데, 혈중알코올농도를 높이기 위해 이런 술을 고른다는 게 납득하기 어렵다”고 주장했다.&lt;br&gt;&lt;br&gt;김씨가 음주운전 후 매니저 장씨에게 허위 자수를 하게 했다는 혐의에도 “소속사 본부장과 매니저 등이 결정한 데 따라서 방조 정도의 행동을 했을 뿐”이라며 “이 상황을 적극적으로 결정하고 끌고 나가지 않았다”고 주장했다. 또 특정범죄가중처벌법상 위험운전치상 혐의와 관련해서도 “정상적 운전이 곤란할 정도의 만취 상태로 보기는 어려웠다는 진술이 많다”며 “김호중이 주취로 인해 정상적인 운전을 할 수 없었다고 단정할 수 없다”고 말했다.&lt;br&gt;&lt;br&gt;김씨는 지난해 5월 9일 오후 11시 44분쯤 서울 강남구 압구정로에서 술을 마시고 차를 몰다 중앙선을 침범해 반대편 차선을 주행하던 택시와 충돌한 뒤 달아나고, 매니저에게 대신 자수시킨 혐의로 구속 기소됐다. 음주운전 사실을 부인하던 김씨는 사고 열흘 만에 범행을 인정했다. 경찰은 음주운전 혐의를 적용해 김씨를 검찰에 송치했지만 기소 단계에서는 이 혐의가 빠졌다. 역추산만으로는 음주 수치를 확정하기 어렵다는 것이 검찰 판단이었다.&lt;br&gt;&lt;br&gt;지난해 11월 1심을 심리한 서울중앙지법 형사26단독 최민혜 판사는 “김씨는 무책임하게 도주한 데서 나아가 매니저 등에게 자신을 대신해 허위로 수사기관에 자수하게 했다. 초동수사에 혼선을 초래하고, 경찰 수사력도 상당히 낭비됐다”며 징역 2년 6개월을 선고했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>연 336만원 이자·배당 소득 있으면 11월부터 건보료 폭탄? 건보공단의 답변은</title>
@@ -939,15 +953,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XBVV3I7LXBPKPKIKBXRXZHWJBE.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;배현진 국민의힘 의원/ 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;문재인 전 대통령 배우자 김정숙 여사가 인도 타지마할 외유성 출장 의혹 등과 관련해 허위사실을 유포했다며 고소했던 국민의힘 배현진 의원이 무혐의 처분을 받았다.&lt;br&gt;&lt;br&gt;12일 본지 취재를 종합하면, 서울중앙지검 형사2부(부장 조아라)는 김 여사가 명예훼손 혐의로 작년 6월 배 의원을 고소한 사건을 이달 초 혐의없음 처분했다.&lt;br&gt;&lt;br&gt;배 의원은 작년 5월 문 전 대통령이 회고록을 출간한 후 김 여사의 타지마할 출장이 국고손실과 직권남용에 해당한다는 의혹을 제기했다. 배 의원은 문 전 대통령이 회고록에서 김 여사의 2018년 11월 인도 방문을 ‘영부인의 첫 단독 외교’라고 주장한 데 대해 “영부인의 외교를 위한 순방 예산은 없다” “청와대가 부속실이나 다른 예산을 썼어야 했는데 문화체육관광부가 예비비 편성을 신청해 단 3일 만에 승인됐다” “2022년 국정감사에서 이미 확인한 사실이고, 문체부 자체 감사를 요청했다가 유야무야 사라진 상태에서 문 전 대통령이 회고록을 통해 자백한 것처럼 느껴진다”고 했다. 김 여사 등 방문단 36명이 당시 한 끼에 평균 44만원에 해당하는 ‘호화’ 기내식을 먹었다는 주장도 했다.&lt;br&gt;&lt;br&gt;이에 문재인 정부에서 청와대 국정상황실장을 지낸 더불어민주당 윤건영 의원은 작년 6월 “아무리 전임 대통령의 배우자가 공적 지위에 있어도 가짜뉴스를 묵과할 수 없고, 기내식도 통상적인 수준이었다”며 법적 조치를 취하겠다고 했고, 김 여사 명의로 배 의원에 대한 고소장을 경찰에 냈다.&lt;br&gt;&lt;br&gt;경찰에서 사건을 넘겨받은 검찰은 “배 의원의 의혹 제기는 관계기관 자료 등을 바탕으로 한 공적 인물에 대한 것이었고, 법리상으로도 명예훼손으로 인정하기 어려운 ‘평가’나 ‘의견’에 해당한다”며 배 의원을 무혐의 처분했다.&lt;br&gt;&lt;br&gt;검찰은 2023년 12월 고발장을 접수해 수사를 시작한 김 여사에 대한 직권남용, 업무방해, 국고손실 혐의 수사도 1년 2개월 만인 지난 7일 혐의없음 처분했다. 수사팀은 김 여사가 타지마할 출장 당시 관련 절차를 준수했고, 2018년 프랑스 국빈 방문 시 착용한 샤넬 재킷도 정상적으로 반환했다고 결론 내렸다. 김 여사가 대통령경호처 경호관에게 개인적으로 수영 강습을 받았다거나, 기업 최고경영자(CEO)를 청와대로 불러 오찬을 했다는 의혹도 청와대 관계자 등의 부당한 지시나 강요 정황은 없었다고 밝혔다. 김 여사 조사는 지난 1월 서면으로 했다.&lt;br&gt;&lt;br&gt;다만 검찰은 김 여사가 청와대 특수활동비로 옷값 등을 냈다는 의혹은 경찰 수사와 중복돼 계속 수사하겠다고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>방통위원장, “MBC 故 오요안나 사태, 공영방송에서 발생했다는 게 더 큰 충격”</title>
-      <link>https://www.chosun.com/national/national_general/2025/02/12/N2P7WCZWNRGI7ODN5BOC3Z75SA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/02/12/N2P7WCZWNRGI7ODN5BOC3Z75SA/</guid>
-      <dc:creator>김광진 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 12 Feb 2025 03:01:45 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/K43PQWDX3STNN4VJEX5DR5LISM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이진숙 방송통신위원회 위원장이 12일 오전 경기도 과천시 방송통신위원회에서 열린 제2차 전체회의에서 모두발언을 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이진숙 방송통신위원장은 12일 정부과천청사에서 열린 방송통신위원회 전체회의에서 고(故) 오요안나 MBC 기상캐스터의 사망 사건과 관련해 “이 같은 폭력이 공영방송사에서 발생했다는 사실은 더 큰 충격을 준다”고 말했다.&lt;br&gt;&lt;br&gt;이날 이 위원장은 “직장 내 괴롭힘이 결코 정당화될 수 없는 폭력”이라고 강조하며 “오 씨의 명복을 빌며, 유가족께도 위로의 말씀을 드린다”고 했다. 이번 사태와 관련해 방송문화진흥회의 권태선 이사장이 진상 규명을 촉구하며 MBC에 프리랜서들의 노동환경 개선을 요구한 것과 관련해 “그 결과를 지켜보겠다”고 말했다.&lt;br&gt;&lt;br&gt;방송통신위원회는 방송·통신 종사자들이 차별 없이 본연의 역할을 충실히 수행할 수 있도록 관련 제도 미비점을 개선하고, 이러한 불행이 재발하지 않도록 최선을 다할 것을 다짐했다. 이 위원장은 방문진 이사 임명 처분 집행 정지신청 사건에 대해서도 대법원의 신속한 판단을 촉구했다. “지난해 7월 임기가 만료된 이사들의 후임으로 선정된 이사들이 업무를 시작할 수 있게 대법원이 빠르게 선고해주시기를 요청한다”고 했다.&lt;br&gt;&lt;br&gt;국회에는 방통위의 상임위원 부족 문제를 언급했다. “방통위가 2023년 8월 이후 1년 반 동안 두 명의 상임위원만으로 운영되고 있으며, 내가 탄핵당했던 6개월은 1명으로 운영됐다”며 “방통위를 5인 합의제로 만드는 것은 국회의 권한이지 의무”라고 강조했다. “한시바삐 5인 체제로 복원해줄 것을 국회와 더불어민주당에 간곡히 요청한다”고 덧붙였다.&lt;br&gt;&lt;br&gt;이날 회의에서는 정보통신망 이용촉진 및 정보보호 등에 관한 법률 시행령 개정안과 2025·2026년도 공동체라디오방송사업자 11곳 재허가 세부계획안이 의결됐다.&lt;br&gt;&lt;br&gt;정보통신망법 시행령 개정안은 모바일 전자고지와 금융마이데이터 서비스를 연계한 정보 생성·처리 승인을 받을 수 있는 서비스로 규정해 관련 서비스의 안정적 제공을 가능하게 했다. 10억원 이상 매출을 올리는 콘텐츠 전송 네트워크 사업자에게 불법정보 유통방지를 위한 조치를 의무화하고, 불법스팸 방지조치 의무 위반에 대한 과태료를 최대 3000만원으로 상향 조정했다. 1차 위반 시 750만원, 2차 위반 시 1500만원, 3차 위반 시 3000만원의 과태료가 부과될 수 있도록 했다.&lt;br&gt;&lt;br&gt;위치정보 사업 관련 신고 및 변경 신고의 업무 소관을 방송통신사무소로 조정하는 내용의 위치정보 보호 및 이용 등에 관한 법률 시행령 개정안도 보고됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>‘시청역 역주행’ 운전자 1심서 금고 7년 6개월... “반성 기미 안보여”</title>
       <link>https://www.chosun.com/national/court_law/2025/02/12/CB5QWCTZNFE35IFSU4KAB7RPTA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/02/12/CB5QWCTZNFE35IFSU4KAB7RPTA/</guid>
@@ -955,15 +960,6 @@
       <description/>
       <pubDate>Wed, 12 Feb 2025 02:31:38 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SFP3QZMRU5HDDTSPVGXZHMJWUY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난해 7월 '시청역 역주행 참사' 가해 차량 운전자 차모씨가 피의자 심문을 받기 위해 서초구 서울중앙지법으로 들어서고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난해 7월 서울 시청역에서 역주행 참사를 일으킨 가해 차량 운전자가 1심에서 금고 7년 6개월을 선고받았다. 재판부는 해당 운전자가 반성의 기미를 보이지 않는다며 양형 이유를 밝혔다. &lt;br&gt;&lt;br&gt;12일 서울중앙지법 형사1단독 이춘근 판사는 교통사고처리특례법상 치사·치상 혐의로 구속기소 된 차모(69)씨에게 이같이 선고했다. 검찰은 앞서 차모씨에게 징역 7년 6개월을 구형했는데, 징역이 아닌 금고형을 내린 것이다. 금고형을 받으면 징역과 마찬가지로 교도소에 수용되지만, 노역을 하지는 않는다.&lt;br&gt;&lt;br&gt;재판부는 “피고인의 과실로 9명이 사망하고 5명이 다치는 돌이킬 수 없는 중대 결과가 발생했다”며 “유족들이 엄벌을 탄원하고 있으며 피고인은 범행을 부인하며 반성하는 모습도 보이지 않는 점에 비춰 죄책에 상응하는 중한 처벌이 필요하다”고 설명했다. 그러면서 “피고인이 피해자들과 합의하지 못했고 유족들에게 사과하거나 피해 회복을 위해 노력했다고 볼 아무런 자료도 제출되지 않았다”고 덧붙였다.&lt;br&gt;&lt;br&gt;차씨는 지난해 7월 1일 오후 9시 26분쯤 시청역 인근 웨스틴조선호텔 지하 주차장에서 차를 몰고 빠져나오다가 역주행하며 인도로 돌진해 9명이 숨지고, 5명이 다치게 한 혐의로 재판에 넘겨졌다. &lt;br&gt;&lt;br&gt;재판부는 이번 사건의 쟁점이었던 급발진 여부에 대해선 차량이 급발진을 일으킨 것이 아니라 운전자가 가속페달을 잘못 밟은 것이라고 봤다. 재판부는 “사고기록장치(EDR)와 블랙박스 영상에 따라 차씨 차의 제동 장치에 결함이 없었고, 그가 브레이크 페달이 아닌 가속 페달을 반복해 밟았다가 떼면서 주행하다 사고를 낸 것으로 판단된다는 국립과학수사연구원 감정 결과를 의심할 만한 정황은 발견되지 않았다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>헌재 “尹 탄핵심판, 추가 기일·증인 채택 결정된 바 없어”</title>
-      <link>https://www.chosun.com/national/court_law/2025/02/12/O2JH7CQFVRBURERGMBDBH7IKWI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/02/12/O2JH7CQFVRBURERGMBDBH7IKWI/</guid>
-      <dc:creator>박혜연 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 12 Feb 2025 02:48:35 +0000</pubDate>
-      <content:encoded>헌법재판소는 윤석열 대통령 탄핵심판의 변론기일이 추가 여부를 아직 결정하지 않았다고 밝혔다. 오는 13일 열릴 8차 기일까지만 일정이 확정된 상태다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4DDV6ZI5CSTSKMXED7IP4PUNKQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 11일 서울 종로구 헌법재판소에서 열린 윤석열 대통령 탄핵심판 7차 변론기일에 헌법재판관들이 참석해 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;천재현 헌재 공보관은 12일 브리핑에서 “13일 이후 추가 기일이 정해졌느냐”고 묻는 기자의 질문에, “전달받은 게 없다”고 답했다. 변론 종결 후의 절차는 “재판부 판단에 따를 것”이라고 설명했다.&lt;br&gt;&lt;br&gt;윤 대통령 측은 지난 10일 강의구 대통령비서실 1부속실장, 신용해 법무부 교정본부장, 박경선 전 서울동부구치소장 등 3명을 증인으로 추가 신청했으나, 채택 여부는 결정되지 않았다고 한다. 천 공보관은 “재판부 평의를 거칠 예정이고 아직은 미정”이라고 말했다.&lt;br&gt;&lt;br&gt;한편 윤 대통령 측은 지난 10일 김지민(35·변호사시험 8회) 변호사와 12일 전병관(61·사법연수원 22기) 변호사, 배진혁(45·43기) 변호사 등 3명을 추가 선임했다. 이로써 윤 대통령 측 변호인단은 총 22명으로 늘었다. &lt;br&gt;&lt;br&gt;탄핵심판 초반에는 윤 대통령 측이 변호사를 구하는 데 어려움을 겪는다고 알려졌지만, 현재는 야당이 주도하는 국회 측 대리인단(17명)​보다도 변호인단 규모가 커졌다. 특히 김 변호사는 윤 대통령 측의 유일한 30대로, ‘최연소 변호사’로 합류한 점이 주목된다.&lt;br&gt;&lt;br&gt;한편 오는 13일 증인신문이 예정돼 있던 조지호 경찰청장이 건강 문제로 불출석 사유서를 제출하면서 신문이 취소됐다. 이에 대해 천 공보관은 “현재로서는 조 청장에 대한 강제 구인 가능성은 없다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>“모정을 버리고 어린 자식을…” 美 입양 한인 친모가 남긴 마지막 편지</title>
