@@ -13,6 +13,69 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>이재명 위증교사 2심 재판장 교체...첫 재판 일정 미뤄지나</title>
+      <link>https://www.chosun.com/national/court_law/2025/02/14/BCIPWHUSSNEO3EFQA463KUYXRY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/02/14/BCIPWHUSSNEO3EFQA463KUYXRY/</guid>
+      <dc:creator>김나영 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 14 Feb 2025 09:55:15 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DDZ4ZUMLZKJ4IUKT7CCLIHZAS4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이재명 더불어민주당 대표가 14일 오전 서울 서초구 서울중앙지방법원에서 열린 특정범죄가중처벌등에관한법률위반(뇌물) 등 공판에 출석하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이재명 더불어민주당 대표의 위증교사 항소심 재판을 한 달여 앞두고 해당 사건을 심리하는 재판장이 교체된다. 아직 재판이 본격적으로 시작되진 않았으나, 재판장이 바뀌면서 항소심 일정이 지연될 수 있다는 전망이 나온다.&lt;br&gt;&lt;br&gt;14일 법조계에 따르면 서울고등법원은 이날 이같은 내용을 포함한 사무분담안을 확정해 공지했다. 이 대표의 위증교사 사건을 맡고 있는 형사3부 재판장직에는 이승한 부장판사(사법연수원 22기)가 새로 배치됐다. 이 대표의 공직선거법 항소심을 심리하는 형사6-2부의 구성원은 그대로다.&lt;br&gt;&lt;br&gt;서울 출신인 이 부장판사는 서울대 법대를 졸업해 1996년 서울지법 판사로 근무를 시작했다. 이 부장판사는 2023년 12월 서울고법 행정1부에 재직하면서 당시 검찰총장이었던 윤 대통령이 추미애 당시 법무부 장관에게 받은 정직 2개월 처분을 취소해달라고 낸 소송에서 1심 판단을 뒤집고 윤 대통령의 손을 들어줬다. 재판부는 당시 징계위 당연직 위원장이었던 추 전 장관이 징계 청구자인데도 징계 과정에 참여했다는 점을 문제 삼았다.&lt;br&gt;&lt;br&gt;첫 재판을 앞두고 재판장이 교체되면서 이 대표의 항소심 일정이 밀릴 수 있다는 예측도 나온다. 통상 한 사건을 담당하는 재판장이 바뀌게 되면 관련 자료를 넘겨받고 해당 사건을 파악하는 데 시간이 걸리기 때문이다. 이럴 경우 이 대표가 안고 있는 사법 리스크가 당분간 유예될 것으로 보인다.&lt;br&gt;&lt;br&gt;한편 이 대표의 위증교사 항소심의 첫 공판준비기일은 다음달 11일로 예정돼 있다. 앞서 이 대표는 지난해 11월 25일 1심 재판에서 무죄를 선고받았다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>허위 영상 유튜버 ‘탈덕수용소’, BTS 측에 7600만원 배상 판결</title>
+      <link>https://www.chosun.com/national/national_general/2025/02/14/C4XMCHODZRCCDF5YNDINSLT2RQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/02/14/C4XMCHODZRCCDF5YNDINSLT2RQ/</guid>
+      <dc:creator>구동완 기자, 김도균 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 14 Feb 2025 10:00:32 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UI2KNKSZLZNYPPKVLRCHVY7J64.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;유튜브 채널 '탈덕수용소' 운영자가 지난해 9월 서울 서초구 서울중앙지방법원에서 열린 1심 선고 공판에서 벌금형을 선고받고 법원을 나서고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그룹 방탄소년단(BTS) 멤버 뷔, 정국에 관한 허위 영상을 올린 유튜버 ‘탈덕수용소’ 운영자가 7600만원을 배상해야 한다는 법원 판결이 나왔다.&lt;br&gt;&lt;br&gt;서울서부지법 민사12단독 이관형 판사는 14일 뷔(본명 김태형), 정국(본명 전정국)과 소속사 빅히트뮤직이 유튜브 채널 탈덕수용소 운영자 박모씨를 상대로 낸 손해배상 소송에서 박씨가 빅히트뮤직에 5100만원, 김씨와 전씨에게는 각각 1000만원, 1500만원을 배상하라며 원고 일부승소로 판결했다.&lt;br&gt;&lt;br&gt;앞서 김씨와 전씨 등은 지난해 3월 박씨가 허위 영상을 올려 명예를 훼손하고 회사의 업무를 방해했다며 9000만원대 손해배상청구 소송을 제기했다. 빅히트 측은 박씨가 소속사의 저작물을 무단으로 사용한 데 대해서도 배상해야 한다고 주장했다.&lt;br&gt;&lt;br&gt;박씨는 유튜브 채널 탈덕수용소에 아이돌 등 유명인의 악성 루머를 소재로 영상을 제작해 게시해 왔다. BTS 멤버들 외 다른 연예인들에 대한 허위사실을 유포하거나 명예를 훼손한 혐의로도 민·형사 재판을 받았다. 박씨는 2021년 10월∼2023년 6월 그룹 아이브 멤버 장원영씨 등 유명인 7명을 비방하는 유튜브 영상을 23차례 올려 명예를 훼손한 혐의로 1심에서 징역 2년에 집행유예 3년을 선고받았다. 현재 해당 채널은 삭제됐다.&lt;br&gt;&lt;br&gt;또 장씨가 박씨를 상대로 낸 손해배상 소송에서 1심은 박씨가 장씨 측에게 1억원을 지급하라고 판결했다. 항소심에서는 지급액이 5000만원으로 줄었다. 박씨는 또 가수 강다니엘에 대한 허위 영상을 올린 혐의(정보통신망법상 명예훼손)로 1심에서 벌금 1000만원을 선고받았고, 손해배상 소송에서도 강다니엘에게 3000만원을 배상하라는 판결이 나왔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>곽종근 “민주당에 이용·회유당했다 생각 안 해... 본질 변하지 않아”</title>
+      <link>https://www.chosun.com/national/court_law/2025/02/14/LKG2R62YFFDBJM43AQ2AN7WFLM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/02/14/LKG2R62YFFDBJM43AQ2AN7WFLM/</guid>
+      <dc:creator>박강현 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 14 Feb 2025 09:44:08 +0000</pubDate>
+      <content:encoded>‘12·3 비상계엄’ 사태 당시 국회에 병력을 투입한 혐의로 구속 기소된 곽종근(57) 전 육군 특수전사령관이 옥중 입장문을 통해 “더불어민주당에 이용당했거나 회유당했다고 생각하지 않는다”고 14일 밝혔다. 국민의힘 성일종 의원의 주장을 반박한 것이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QVBRDA57ZBIFLJLB6XCTW3HMFU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;곽종근(가운데) 전 육군 특수전사령관이 지난해 12월 6일 더불어민주당 김병주(왼쪽) 의원 유튜브에 출연해 12·3 비상계엄 당시 상황에 대해 설명하고 있다. 오른쪽은 민주당 박선원 의원. /김병주 의원 유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;곽 전 사령관은 이날 변호인을 통해 공개한 자필 입장문에서 “저는 지금까지 모든 것을 사실에 기초해 제 의사대로 판단하고 증언했다”며 이같이 말했다.&lt;br&gt;&lt;br&gt;곽 전 사령관은 계엄 선포 사흘 후인 작년 12월 6일 특전사를 찾아온 민주당 김병주·박선원 의원 유튜브 방송에 출연해 관련 진술을 한 것에 대해선 “당연히 여야 국방위원들이 함께 계신 장소에서 (말)하는 것이 맞는다고 생각한다”며 “여야 의원들이 같이 있는 장소에서 하는 것이 좋겠다는 의견도 있었다”고 했다.&lt;br&gt;&lt;br&gt;그러면서도 “당시 12월 5일 국회 국방위원회는 취소됐고 저는 12월 6일 오후 직무 정지된다는 것을 알았기에 최소한 직책을 유지한 상태에서 설명해야 부하들을 보호할 수 있다고 생각해 인터뷰에 응했다”고 해명했다.&lt;br&gt;&lt;br&gt;이 유튜브 방송에서 곽 전 사령관은 계엄 작전 당시 국회 병력 배치 상황 등을 설명하다가 “본회의장으로 일부 들어갔던 인원이 있고 밖에 일부 인원이 있었는데, 제가 그 조치를 하면서 (김용현) 전임 장관으로부터 국회의사당 안에 있는 인원들을, 요원들을 밖으로 좀 빼 내라(는 얘기를 들었다)”고 말했다.&lt;br&gt;&lt;br&gt;이에 박 의원이 곧바로 “의원들을 끌어내라(고 한 것이냐)”라고 했고, 김 의원도 “국회의원들을요”라고 되묻자 곽 전 사령관은 “예”라고 대답했다. 이른바 ‘의원 끌어내라’ 발언의 단초를 제공한 것이다. 다만 곽 전 사령관은 지난 6일 윤석열 대통령 탄핵 심판 공개 변론에서 “윤 대통령이 ‘국회의원’을 끌어내라고 한 적은 없다. ‘인원’으로 기억한다”고 했다. 윤 대통령과 김용현 전 국방 장관은 계엄군 지휘관들에게 의원들을 끄집어내라고 지시한 적이 없다는 입장이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4BKFG36K5TA2SMSPB4GVT255WQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;곽종근 전 육군 특수전사령관이 지난 6일 서울 종로구 헌법재판소에서 열린 윤석열 대통령 탄핵심판 6차 변론기일에서 질문에 답하고 있다. /헌법재판소&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;곽 전 사령관은 제출한 ‘자수서’에 대해서도 얘기했다. 그는 “자수서에 순화해서 표현했던 내용들을 그대로 정확하게 말하고자 ‘부수고, 끄집어 내라’는 표현 등 모두 당시 대통령님 말씀의 기억에 기초해 수정한 것”이라며 “다만 ‘도끼’라는 용어 표현은 당시에도 지금도 기억에 없다”고 했다.&lt;br&gt;&lt;br&gt;또 곽 전 사령관은 “민주당이 도와주겠다고 얘기했다는데, 그것에 대한 생각이 없었고 무엇을 도와준지도 모르겠다”며 “변호사 지원도 없었고, 부승찬 의원 소개로 만난 변호인과는 1시간 정도 이야기하고 선임계 제출 없이 끝났다”고 했다.&lt;br&gt;&lt;br&gt;다만 박범계 의원 측의 ‘공익제보자 신청 지원’ 의혹과 관련해선 “정확히 제 불찰이고 잘못”이라고 인정했다. 그는 “당시에는 잘 모르는 상태에서 신청을 해주겠다고 해 작성했지만, ‘회유 수단’이라는 보도가 있어서 상황을 다시 인식하게 됐다”며 “현재 중지된 상태라고 들었다”고 밝혔다. 공익신고자 보호법에 따라 공익신고자로 인정받으면 비밀 보장과 불이익 금지, 신변 보호 조치 등을 적용받는다.&lt;br&gt;&lt;br&gt;곽 전 사령관은 글 말미에 자신의 ‘생각 정리’라며 “본질을 흐리기 위한 여러가지 생각과 말들이 있을 수 있지만 그 본질은 변하지 않는다”고 했다.&lt;br&gt;&lt;br&gt;앞서 성일종 의원은 “김현태 육군특수전사령부 707특수임무단장이 ‘민주당 의원들한테 완전히 이용당했다’고 이야기했다”고 밝히며 민주당이 곽 전 사령관을 이처럼 회유한 정황을 확인했다고 주장했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>정진상, ‘보석 조건 위반’으로 과태료... 변호인 통해 증인 접촉</title>
+      <link>https://www.chosun.com/national/court_law/2025/02/14/XT5EOXCQXFFDPLVSARN2S5PCNE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/02/14/XT5EOXCQXFFDPLVSARN2S5PCNE/</guid>
+      <dc:creator>유종헌 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 14 Feb 2025 08:49:21 +0000</pubDate>
+      <content:encoded>대장동 개발 비리 등으로 이재명 더불어민주당 대표와 함께 재판을 받고 있는 정진상 전 더불어민주당 대표실 정무조정실장이 법원 보석 조건을 어겨 과태료 300만원을 부과받게 됐다.&lt;br&gt;&lt;br&gt;서울중앙지법 형사합의33부(재판장 김동현)는 14일 “정씨의 보석 조건이 여러 차례 문제된 적 있어 경고적 차원에서라도 과태료를 부과하는 게 맞는다고 생각한다”며 “(과태료 부과) 결정문을 정식 발부하겠다. 금액은 300만원을 생각하고 있다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FZX3A4S3L6FOMPYNZPBPL7POZY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이재명 더불어민주당 대표의 최측근인 정진상 전 당대표 정무조정실장. /뉴스1 ⓒ News1 박지혜 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정씨는 변호인을 통해 대장동 재판 증인을 접촉하고도 이를 4개월 간 재판부에 신고하지 않은 것으로 조사됐다. 유동규 전 성남도시개발공사 기획본부장이 다니던 유흥식당의 종업원 A씨가 지난해 9월 이 재판에 증인으로 출석했는데, 재판이 종료된 뒤 정씨 측 변호인이 증인과 통화한 것이다. 당초 구속 기소됐던 정씨는 사건 관계인들과 일체 연락 및 접촉 금지 등을 조건으로 보석 석방된 상태다. &lt;br&gt;&lt;br&gt;정씨 측 변호인은 A씨와의 통화 내용을 바탕으로 지난 1월 유씨를 신문했다. 정씨 측은 유씨를 향해 “A씨에게 ‘100억원을 벌어서 줄 테니 네가 보관하라’고 했느냐” “’이 대표가 알면 큰일난다. 토사구팽 당한다’고 했느냐”고 물었다. A씨는 지난해 9월 재판에서 “유씨로부터 1500만원을 받았다”고 증언한 적은 있지만, ‘100억원 약속’ ‘토사구팽’ 증언은 한 적 없다.&lt;br&gt;&lt;br&gt;A씨가 법정에서 증언한 적 없는 내용이 언급된 경위를 묻자 정씨 측은 “A씨가 재판 이후 ‘무서워서 말을 다 못 해 미안하다’고 먼저 연락을 해 왔고 그때 100억원 등을 언급했다”며 “당시 통화를 녹음해둔 것”이라고 밝혔다.&lt;br&gt;&lt;br&gt;검찰은 “정씨가 변호인을 통해 제3자를 간접 접촉하고도 이 사실을 수 개월 간 숨겼다”며 “보석 조건을 명백히 어긴 것”이라고 했다.&lt;br&gt;&lt;br&gt;정씨 측은 “A씨와 연락한 사실은 정씨에게 말하지 않았다”고 했지만, 재판부는 “객관적으로 생각했을 때 변호인이 사건의 중요 내용을 피고인과 협의했을 것으로 보인다”면서 “정씨도 이 내용을 어느정도 파악했을 거라 판단된다”고 했다. &lt;br&gt;&lt;br&gt;정씨는 지난해 6월에도 보석 조건인 ‘자정 전 귀가’를 어겨 재판부의 주의를 받은 적 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘전국민 25만원’ 반대한 김동연 “민생지원금은 취약계층에게”</title>
+      <link>https://www.chosun.com/national/national_general/2025/02/14/D4ESG4UAXBFD3KS5HB7SHEMZAQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/02/14/D4ESG4UAXBFD3KS5HB7SHEMZAQ/</guid>
+      <dc:creator>김수언 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 14 Feb 2025 08:52:48 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/T27YORYF75P5ZDOVHKIKDBEEQY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김동연 경기도지사가 14일 오전 광주 서구 홀리데이인 광주호텔에서 열린 광주경총 금요조찬포럼에서 '호남 정신과 유쾌한 반란'을 주제로 강연하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김동연 경기도지사는 더불어민주당이 제시한 35조 규모 슈퍼 추경안을 두고, “민생회복지원금만큼은 다른 입장을 가져줬으면 한다”고 14일 말했다. 전 국민에게 1인당 25만원의 민생회복지원금을 지역화폐로 지급해야 한다는 민주당에 사실상 반대하고 나선 것이다.&lt;br&gt;&lt;br&gt;지난 13일부터 1박 2일 일정으로 광주를 방문해 일정을 소화하고 있는 김 지사는, 이날 오전 광주경영자총협회 특강에서 이 같은 입장을 밝혔다.&lt;br&gt;&lt;br&gt;김 지사는 “어제 민주당에서 추경안을 발표했다. 35조 추경 규모를 이야기했고 그중에 민생회복이 24조, 그리고 경제활성화에 11조 투자를 주장했다”며 “여전히 전 국민에게 25만원씩 민생회복지원금을 주자고 되어 있다고 들었다. 13조더라. 민생회복지원금을 주는 것은 찬성이지만, 전 국민에게 똑같이 25만원씩 나눠주는 것에 대해서는 문제가 있다”고 했다.&lt;br&gt;&lt;br&gt;김 지사는 전 국민 민생회복지원금은 ‘한계소비 성향’(소득이 올라가면 돈을 쓰는 비율)과 정책 일관성 등과 관련해 문제가 있다며 취약계층에 대한 ‘두텁고 촘촘한 지원’을 주장했다. 보편지급이 아닌 선별지급이 맞다는 것이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RL35J3GAKBLD5OXDV226QVSYQA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;더불어민주당 진성준 정책위의장이 지난 13일 서울 여의도 국회에서 열린 추경 관련 기자간담회에서 세부 내용을 설명하고 있다. 왼쪽부터 허영 예산결산조정위원장, 진성준 정책위의장, 이정문 수석부의장. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김 지사는 “부자들이 소득이 늘어난다고 세 끼 먹을 밥을 네 끼를 먹겠느냐, 양복을 하루에 한 개씩 사겠느냐”며 “그렇지 않다. 부자들은 소득 늘어난다고, 그 돈을 소비하지는 않는다”고 했다. 김 지사는 “반면, 취약계층이나 중산층은 소비를 할 확률이 높다”며 “소득분위 25% 이하에게 민생회복지원금을 준다면 1인당 100만원씩 돌아갈 수 있다”고 했다.&lt;br&gt;&lt;br&gt;김 지사는 또 “(민주당이)추경을 위해서는 민생회복지원금 25만 원을 양보 내지 철회할 수도 있다고 했는데 결국 끼워넣었다. 민주당 지지율이 국민의힘과 붙었다고 하는 것은, 민주당이 그만큼 신뢰를 주고 있지 못하다는 것”이라며 “일관되게 우리 입장을 갖는 것이 중요하다”고도 했다.&lt;br&gt;&lt;br&gt;한편, 민주당이 전날(13일) 공개한 35조원 규모의 자체 추가경정예산안에는 ‘전 국민 25만원 지원금’을 13조원을 지역화폐로 풀고, 여기에 지방정부가 발행하는 지역화폐에 2조원의 재정을 지원하는 내용이 담겼다. 이재명 대표는 지난달 25만원 지원금을 추경 편성을 위해 철회하겠다고 밝힌 바 있다. 그러나 민주당은 돌연 입장을 선회해 ‘민생회복 소비쿠폰’으로 이름을 바꿔 그대로 포함했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘문자메시지로 경쟁후보 허위사실 공표’ 이완영 전 의원, 벌금 500만원 </title>
+      <link>https://www.chosun.com/national/regional/2025/02/14/VYEEM4B6FFEGNHJM5CFWEYS5UE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/02/14/VYEEM4B6FFEGNHJM5CFWEYS5UE/</guid>
+      <dc:creator>대구=노인호 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 14 Feb 2025 08:24:10 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IFNDFBIOIKS2M76KV4GSTLSBJ4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대구고법, 지법./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;총선을 앞두고 문자메시지를 이용해 경쟁후보에 대한 허위사실을 공표한 혐의로 재판에 넘겨진 이완영 전 국회의원에게 벌금형이 선고됐다. &lt;br&gt;&lt;br&gt;대구지법 제12형사부(재판장 어재원)는 14일 공직선거법 위반 혐의로 기소된 이 전 의원에게 벌금 500만원을 선고했다.&lt;br&gt;&lt;br&gt;이 전 의원은 지난해 22대 총선 국민의힘 예비후보 등록 기간, 같은 당 후보의 낙선을 목적으로 허위 사실이 담긴 문자메시지를 유권자 등에게 수차례 보낸 혐의로 재판에 넘겨졌다. 당시 이 전 의원은 고령·성주·칠곡 지역구 국회의원 공천을 신청했지만, 당 공천관리위원회로부터 부적격 처리를 받았다. &lt;br&gt;&lt;br&gt;재판부는 “발송된 메시지가 6800여건에 이르는 등 유권자들이 왜곡된 선택을 할 수도 있었던 만큼 죄책이 가볍지 않다. 다만 공천에서 탈락해 선거 결과의 불공정성이 현실화되지 않은 점 등을 고려했다”고 양형 이유를 설명했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>70대 남편이 후진 주차하다 ‘쾅’…70대 아내 숨져</title>
+      <link>https://www.chosun.com/national/regional/2025/02/14/5KTXAHYAN5AHVMAORAMPJZBT3U/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/02/14/5KTXAHYAN5AHVMAORAMPJZBT3U/</guid>
+      <dc:creator>봉화=노인호 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 14 Feb 2025 08:20:07 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FAJP3CXCW5E4DAT2XRRMC2FGPU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;70대 남편이 주차 중 아내를 치어 숨지게 한 경북 봉화 한 단독주택 앞마당에서 경찰 등 관계자들이 현장 조사를 벌이고 있다./경북소방본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경북 봉화 한 단독주택 마당에서 70대 남성이 후진으로 주차하던 중 아내를 치어 숨지게 하는 사고가 발생했다. &lt;br&gt;&lt;br&gt;14일 경북소방본부에 따르면, 전날 오후 8시 43분쯤 경북 봉화군 봉화읍 화천리 한 단독 주택 마당에서 주차하던 픽업차량이 A씨를 들이받았다. A씨는 심정지 상태로 응급 처치를 받으며 병원으로 이송됐으나, 결국 숨졌다. A씨의 남편인 픽업차량 운전자 B씨는 경찰조사에서 “아내가 차량 뒷편에 있는 몰랐다”고 말한 것으로 알려졌다. &lt;br&gt;&lt;br&gt;경찰은 운전 부주의로 인한 사고로 보고 정확한 사고 경위 등을 조사 중이다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>백윤식 용서는 없었지만… ‘무고’ 전 연인 2심서 감형, 왜?</title>
       <link>https://www.chosun.com/national/national_general/2025/02/14/QWAAL4NYTVDXXKRAXSFI4ALQYI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/02/14/QWAAL4NYTVDXXKRAXSFI4ALQYI/</guid>
@@ -835,24 +898,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MP2HBDP4CNB73ODWUW6X6LNYJI.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초동 대법원. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 2020년 방송통신위원회가 종합편성채널 매일방송(MBN)에 내린 6개월 업무정지 처분이 대법원에서 최종 취소됐다.&lt;br&gt;&lt;br&gt;대법원 2부(주심 박영재 대법관)는 MBN이 방통위를 상대로 낸 업무정지 등 처분 취소 소송에서 원고 승소로 판결한 원심을 13일 확정했다.&lt;br&gt;&lt;br&gt;앞서 방통위는 MBN이 종합편성채널로 승인받을 당시 자본금을 불법 충당해 방송법을 위반했다며 2020년 11월 MBN에 대한 업무 정지 6개월 처분·유예 기간 6개월을 의결했다. 협력사 피해를 최소화하기 위해 유예 기간을 뒀다.&lt;br&gt;&lt;br&gt;하지만 MBN은 이 처분에 불복하며 이듬해 1월 소송을 냈다.&lt;br&gt;&lt;br&gt;1심은 방통위가 MBN에 대해 내린 업무정지 처분은 정당하다고 봤다. MBN이 종편 승인을 받을 당시 약속한 납입자본금(3950억원)을 맞추는 과정에서 재무제표, 주식청약서 등을 거짓으로 작성해 방통위에 서류를 제출하고 재무제표를 허위 공시한 것 등이 위법이라고 인정했다.&lt;br&gt;&lt;br&gt;그러나 2심은 “방통위는 업무정지로 발생하는 공익과 MBN의 불이익은 물론, 방송의 자유와 언론의 공적 가치 침해까지 충분히 검토했어야 한다”면서 “원고의 비위 행위가 부정한 행위에는 해당한다고 하더라도, 언론기관으로서의 사회적 기능을 본질적으로 훼손했다고 보긴 어렵다”는 취지로 1심 판단을 뒤집었다. &lt;br&gt;&lt;br&gt;이에 방통위는 판결에 불복해 상고했으나, 대법원은 2심 판결에 중대한 법령 위반 등이 없다고 보고 이날 ‘심리불속행 기각(상고 대상 사건이 아니어서 심리 없이 2심대로 확정)’으로 판결을 확정했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>청담동 주택 철거 현장서 100년 전 사람 유골 발견... 국과수 감정 의뢰</title>
-      <link>https://www.chosun.com/national/national_general/2025/02/13/J7ZPHDR6QNC3BKGJJ62Z7D35AA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/02/13/J7ZPHDR6QNC3BKGJJ62Z7D35AA/</guid>
-      <dc:creator>조민희 기자, 김병권 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 13 Feb 2025 09:12:24 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/A2XJUATLIYLNDW6HVAEBYYBLF4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 강남경찰서/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 강남구의 한 공사 현장에서 100년 전 사람 유골이 발견돼 경찰이 조사에 나섰다.&lt;br&gt;&lt;br&gt;서울 강남경찰서는 지난 10일 오전 9시 30분쯤 강남구 청담동 인근의 한 주택 철거 현장에서 사람의 뼈로 추정되는 물체를 발견했다는 신고를 접수하고 수사에 착수했다.&lt;br&gt;&lt;br&gt;지난 11일 오전 1차 조사를 진행한 경찰은 현재까지 유골이 범죄와 연관성은 없는 것으로 추정하고 있으나 국립과학수사연구원에 감정을 의뢰한 상황이다. &lt;br&gt;&lt;br&gt;경찰은 기존에 있던 무덤 인근에 해당 주택이 세워진 것으로 보고 있다. 주택 철거 과정에서 지반 아래 있던 유골이 발견됐다는 것이다. 해당 유골은 100년 이상 묻혀있었던 것으로 알려졌다. 유골이 발견되면서 공사는 일시적으로 중단된 상태다. &lt;br&gt;&lt;br&gt;한편, 지난 2020년 10월에도 청담동의 한 주택 공사 현장에서 50대 여성의 백골 시신이 발견된 바 있다. &lt;br&gt;&lt;br&gt;청담동은 조선 말기부터 지난 1973년 영동대교가 놓이기 전까지 한강 주변의 평범한 마을이었다고 한다. 이번에 발견된 유골도 강남 개발 이전 분묘의 흔적이 드러난 것으로 추정된다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“예상못한 자연재해”… 태풍 힌남노 ‘포항 지하주차장 참사’ 피의자 무죄·공소기각</title>
-      <link>https://www.chosun.com/national/regional/2025/02/13/RT4FMQIG6BFRLOVAWR6AUEY33Q/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/02/13/RT4FMQIG6BFRLOVAWR6AUEY33Q/</guid>
-      <dc:creator>대구=노인호 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 13 Feb 2025 08:51:56 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VJVIFD2LHJHAPFOEQCIGJ6XEAY.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;물에 잠긴 포항 한 아파트 주차장./경북소방본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 2022년 9월 태풍 ‘힌남노’로 하천이 범람해 아파트 주민 등 12명의 사상자가 발생한 사건과 관련해 저수지 관리자와 아파트 관리자에게 형사 책임을 묻기 어렵다는 판결이 나왔다.&lt;br&gt;&lt;br&gt;대구지법 포항지원 형사1단독 송병훈 판사는 13일 업무상 과실치사상 등 혐의로 기소된 하천 상류의 저수지 관리자 4명에게 범죄 증명이 부족하다는 취지로 무죄를 선고했다. 또 같은 혐의로 기소된 아파트의 관리자 4명에게는 공소제기 절차가 법률 규정에 위반된다며 공소를 기각했다.&lt;br&gt;&lt;br&gt;지난 2022년 9월 6일 제11호 태풍 ‘힌남노’의 영향으로 포항 냉천이 범람해 하천 인근 아파트단지 지하 주차장을 덮쳤고, 안내방송을 듣고 차를 빼기 위해 들어 간 주민 등 9명이 숨지고 3명이 다치는 수해가 발생했다.&lt;br&gt;&lt;br&gt;이번에 기소된 저수지 관리자 4명은 냉천 상류의 오어저수지와 진전저수지가 폭우로 넘쳐 방류가 시작됐음에도 수위를 제대로 확인하지 않는 등 적절한 조치를 취하지 않은 혐의를 받는다. 아파트 관리소 관계자와 경비원 4명은 침수가 예상되는 건물의 지하공간 등 위험 지역에 입주민이 접근하지 못하도록 해야 하는 의무를 제대로 하지 않은 혐의로 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;재판부는 “태풍 힌남노 당시 포항에 내린 비는 500년 빈도를 웃돌았고 포항 대부분 지역이 침수된 자연재난”이라며 “저수지 관계자에게 형사 책임을 묻기 위해서는 방류가 하천 범람의 주된 원인으로 작용하고, 피해 발생에 직접적인 영향을 미쳤음이 인정되어야 한다. 하지만 하천은 지형 등 복합적인 이유로 범람한 것으로 보인다”고 선고 이유를 밝혔다.&lt;br&gt;&lt;br&gt;또 아파트 관리소 관계자 4명에 대해서는 “피고인들은 포항시로부터 냉천 범람과 지하주차장 침수 위험에 관한 정확한 정보를 제때 적절하게 제공받지 못한 상태에서 통상 예견 가능한 범위로 대응하다가 예견할 수 없는 상황으로 피해자들을 사망하게 하거나 상해를 입게 했다”며 “예견할 수 없는 상황에 대해 형사책임을 지도록 하는 것은 국가의 국민 기본권 보호 의무를 저버리는 것으로 공소제기 자체가 법률 규정을 위반해 무효”라며 공소 기각 취지를 설명했다.&lt;br&gt;&lt;br&gt;이번 사건을 ‘인재’로 판단해 기소한 검찰 측은 판결문을 검토한 뒤 항소 여부를 정할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>경찰, 서울시 공무원 사칭 해킹 이메일 수사… 北해커 연루 의심</title>
       <link>https://www.chosun.com/national/2025/02/13/YLJRPG6TXRH35DHHCBHDYBKKQM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/2025/02/13/YLJRPG6TXRH35DHHCBHDYBKKQM/</guid>
@@ -864,15 +909,6 @@
         <media:description type="plain">서울시청 전경./조선DB</media:description>
         <media:credit role="author" scheme="urn:ebu">장련성 기자</media:credit>
       </media:content>
-    </item>
-    <item>
-      <title>경찰, 김성훈 경호차장·이광우 경호본부장 구속영장 신청</title>
-      <link>https://www.chosun.com/national/national_general/2025/02/13/VTELQUUKNZBKLJHEICKLT4VYGU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/02/13/VTELQUUKNZBKLJHEICKLT4VYGU/</guid>
-      <dc:creator>김명진 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 13 Feb 2025 08:42:16 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ELAHOL5PIGXWDT53XE6FYLWLLQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김성훈 대통령경호처차장(왼쪽)과 이광우 경호본부장이 지난달 24일 오전 서울 서대문구 경찰청 국가수사본부 특별수사단에 출석하고 있다. 특수단은 김 차장과 이 본부장을 불러 특수공무집행방해 혐의를 조사한다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰청 12·3 비상계엄 특별수사단은 13일 윤석열 대통령에 대한 체포영장 집행을 방해한 혐의를 받고 있는 김성훈 경호처 차장과 이광우 경호본부장에 대해 구속영장을 신청했다고 밝혔다. &lt;br&gt;&lt;br&gt;경호처 내 강경파로 분류되는 김 차장과 이 본부장은 지난달 3일 윤 대통령에 대한 체포영장 1차 집행을 저지한 혐의로 같은달 17일과 18일 각각 경찰에 체포됐다.&lt;br&gt;&lt;br&gt;경찰은 그 뒤 김 차장에 대해 구속영장을 신청했지만, 서울서부지검에서 반려하면서 김 차장은 석방됐다. 증거 인멸 등 우려가 없어 검찰 측에서 반려했다고 경찰은 전했다. 이 본부장도 곧 석방됐다.&lt;br&gt;&lt;br&gt;그 뒤 경찰은 지난달 24일 김 차장과 이 본부장에 대해 다시 구속영장을 신청했다. 검찰은 이를 또 반려했다. “경호처법상 ‘직권남용’ 부분에 대해 혐의를 소명하려면 경호처 내부 규정을 확인해야 할 필요가 있다고 판단해 이 부분에 대한 보완 수사를 요구했다”고 반려 이유를 설명했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>‘한덕수 탄핵’ 국힘 제기 권한쟁의심판 오는 19일 변론</title>
@@ -906,24 +942,6 @@
       </media:content>
     </item>
     <item>
-      <title>찬반 양쪽서 항의전화 폭주…인권위 상담센터도 ‘尹방어권’ 후폭풍</title>
-      <link>https://www.chosun.com/national/national_general/2025/02/13/GL455NSMXFBE7A7BTJ6HSEFLLM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/02/13/GL455NSMXFBE7A7BTJ6HSEFLLM/</guid>
-      <dc:creator>장윤 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 13 Feb 2025 07:51:16 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Q3FQHY2JPRMBDE64VXGVAZFWSE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;문정호 전국공무원노조 국가인권위 지부장을 비롯한 전공노 소속 인권위 직원들이 11일 오후 서울 중구 국가인권위원회에서 윤석열 대통령의 탄핵심판 방어권 보장 권고안 가결 규탄 호소문을 낭독하기 전 허리를 숙여 인사하고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국가인권위원회(인권위) 인권상담조정센터 직원들이 ‘윤석열 대통령 방어권 보장’ 안건 통과의 후폭풍을 겪고 있다.&lt;br&gt;&lt;br&gt;인권상담조정센터는 인권위에 접수되는 진정 등을 접수하는 곳으로 전담 직원 12명이 일과 시간동안 상담번호 ‘1331’로 걸려 온 전화를 받고 응대한다.&lt;br&gt;&lt;br&gt;13일 인권위에 따르면 윤 대통령 방어권 보장 안건이 상정된 이후 상담센터는 민원인들의 항의가 폭주하며 업무가 마비 수준으로 치닫고 있다. “인권위가 어떻게 내란범 편을 들 수 있느냐”, “왜 인권위 노조는 윤대통령 방어권 보장 안건을 규탄하느냐”는 찬반 양측의 항의가 동시에 빗발치는 것이다. &lt;br&gt;&lt;br&gt;인권위 관계자는 “특히 욕설 전화가 많아 상담사들이 스트레스를 견디기 힘들어하는 상황”이라며 “상담사로선 ‘욕을 그만하시라’고 말할 뿐, 마음대로 전화를 끊을 수도 없다”고 설명했다.&lt;br&gt;&lt;br&gt;지난 12일에는 한 상담사가 인권위 내부 메신저로 전 직원에게 “왜 우리 상담사들이 욕을 들어야 하는지 알다가도 모르겠다”며 “우울증 걸리기 직전” “정말 죽을 지경”이라고 토로하는 글을 보낸 것으로 전해졌다.&lt;br&gt;&lt;br&gt;진보성향 단체들이 인권위에 대한 비판 수위를 높여가며 인권위를 향한 항의 전화는 당분간 누그러들지 않을 것으로 보인다. 윤 대통령 지지자들도 온라인 커뮤니티에서 인권위 내선 번호를 공유하며 맞불 항의를 독려하는 상황이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>서울대 정시 포기자, 작년보다 28% 늘어난 124명...“의대로 향한 것”</title>
-      <link>https://www.chosun.com/national/education/2025/02/13/S4R6R2GGHRDAXOP6WLRLKB6XFM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2025/02/13/S4R6R2GGHRDAXOP6WLRLKB6XFM/</guid>
-      <dc:creator>김민기 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 13 Feb 2025 07:48:44 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OXC5R3IHWWK2SEOXZNJJRYVDVI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울대학교 정문/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;의대 증원 속 서울대 정시 등록을 포기한 학생이 작년에 비해 약 30% 늘었다.&lt;br&gt;&lt;br&gt;13일 종로학원에 따르면, 2025학년도 서울대 정시 모집에 합격했으나 등록을 하지 않은 학생은 124명으로 작년(97명)에 비해 27명(28%) 늘었다. 인문계열 포기자는 작년 20명에서 올해 27명으로, 자연계열은 76명에서 95명으로 늘었다. 예체능계열 포기자는 2명이었다. 서울대 간호대학(11명), 전기·정보공학부(10명) 등에서 포기자가 많았다.&lt;br&gt;&lt;br&gt;종로학원은 “의대 모집 정원이 늘어난 가운데, 포기자 대부분은 의학 계열로 향한 것”이라고 했다. 교육부에 따르면, 올해 의대 모집인원은 작년(3113명)에 비해 1497명 늘어난 4610명으로, 이 중 정시 모집이 1492명이다. 작년(1161명)에 비해 331명 늘었다. 전날까지 정시 최초 합격자 등록을 받은 서울대는 이날부터 충원 합격자 발표를 시작했다.&lt;br&gt;&lt;br&gt;이례적으로 서울대 의대에서도 정시 포기자가 1명 나왔다. 종로학원은 “본인이 원한 특정 분야에 강한 다른 상위권 의대로 향한 것으로 추정한다”며 “2020년부터 2024년까지 5년 사이 서울대 의대 정시 포기자는 없었다”고 했다. 연세대 정시 포기자는 작년 483명에서 올해 446명으로 37명 줄었다. 자연계 포기자는 작년과 같은 265명이었고, 인문계 포기자는 177명에서 198명으로 늘었다. 서울대 및 다른 의대에 중복 합격한 이들이 이탈한 것으로 분석된다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[속보] 수방사 1경비단장 “이진우, 국회서 의원 끌어내라 지시…尹 지시란 말은 없어”</title>
       <link>https://www.chosun.com/national/court_law/2025/02/13/62GEZ5USR5FLLD4GM6H3DFHDWU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/02/13/62GEZ5USR5FLLD4GM6H3DFHDWU/</guid>
@@ -931,19 +949,6 @@
       <description/>
       <pubDate>Thu, 13 Feb 2025 07:30:42 +0000</pubDate>
       <content:encoded>조성현 수도방위사령부 제1경비단장이 13일 헌법재판소에서 열린 윤석열 대통령 8차 변론에서 “이진우 전 수도방위사령관으로부터 ‘국회 내부로 들어가 의원들을 끌어내라’는 지시를 받았다”고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CU3Q2KQUEZL4HE3276ECBHJLM4.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;조성현 수도방위사령부 제1경비단장이 13일 서울 종로구 헌법재판소에서 열린 윤석열 대통령 탄핵 심판 8차 변론에 증인으로 출석하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 “계엄 당일 이 전 사령관으로부터 국회 내부로 진입해 의원을 끌어내라는 지시를 받았냐”는 정형식 재판관의 질문에, 조 단장은 “그렇다. 국회 내부로 들어가서 국회의원을 끌어내라고 했다”고 답했다.&lt;br&gt;&lt;br&gt;다만 윤석열 대통령이나 김용현 국방부 장관이 지시한 내용이라는 말은 듣지 못했다고 밝혔다. 또 “4명이 1명씩 데리고 나와라” “문을 부수더라도 끌어내라” “총을 쏴서라도” 등의 말을 들은 기억도 없다고 했다.&lt;br&gt;&lt;br&gt;이어 “이 전 사령관이 국회에서 의원들을 끌어내라 지시한 이유가 무엇이라고 생각하냐”는 질문에는 “당시에는 솔직히 잘 이해를 못했고 당황했다. 그래서이 전 사령관께 5~10분 후 다시 전화해 ‘우리가 단독으로 할 수 있는 게 아니다’라며 재검토를 부탁했다”고 말했다.&lt;br&gt;&lt;br&gt;조 단장은 또 “국회를 통제하는 것도, 의원을 끌어내라는 과업도 군인으로서 생각하지 못한 임무였다. 그것을 들은 군인 누구도 그게 정상이라고는 생각하지 못할 것”이라며 “(국회에) 후속 부대는 오지 않는 게 좋을 거라 생각해 고민이 필요했다”고 당시를 회상했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“먼저 천국 가서 기다리렴”…엄마는 딸 입관식을 차마 다 보지 못했다</title>
-      <link>https://www.chosun.com/national/regional/2025/02/13/6V7HCO7NRFCOFO2D3Q5RAKMJFM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/02/13/6V7HCO7NRFCOFO2D3Q5RAKMJFM/</guid>
-      <dc:creator>우정식 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 13 Feb 2025 06:35:39 +0000</pubDate>
-      <content:encoded>“아이고 이를 어째. 우리 아가 아파서 어떡해...아이고.”&lt;br&gt;&lt;br&gt;지난 10일 대전의 한 초등학교에서 교사 손에 목숨을 잃은 김하늘(8)양의 빈소가 마련된 대전건양대병원 장례식장에선 13일 오전 발인을 하루 앞두고 입관식이 진행됐다. 오전 10시쯤 지하 1층에서 입관식이 시작되자, 참석한 유족들은 참았던 눈물을 쏟으면서 통곡했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6G2S6EZOU5FQZCAMGALDRCZFDI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 10일 다니던 학교에서 교사에게 피살된 김하늘(8)양의 입관식이 13일 오전 대전 건양대병원 장례식장에서 진행됐다. 김양 아버지(가운데)가 입관 후 슬픔을 주체하지 못하고 주저앉아 오열하고 있다. /우정식 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;입관식을 모두 마치기 전 실신 직전 상태로 오열하던 김양 어머니는 가족들의 부축을 받으면서 도중에 입관실 밖으로 나왔다. 어머니 손에는 딸이 갖고 놀던 인형이 들려있었다. 10여분 정도 더 지나 입관식이 끝난 뒤 나온 김양 아버지는 넋이 나간듯 바닥에 주저앉아 하염없이 눈물을 흘렸다. 주변 사람들이 부축을 했지만 다리가 풀려서 제대로 걷지도 못했다.&lt;br&gt;&lt;br&gt;통곡하던 김양 할머니는 잠시 뒤 빈소 바닥에 주저앉은 아들의 얼굴울 쓰다듬으며 “하늘이가 이러는 거 싫어할 거야. 천국에 갔으니 나중에 다시 잘 만나게 정신차리자 아들아”하며 끌어 안았다. 이를 지켜보던 가족들과 조문객들도 함께 흐느끼면서 눈물을 훔쳤다.&lt;br&gt;&lt;br&gt;대전시교육청은 이날 “고통을 겪고 있는 유가족에 대해 온라인 커뮤니티나 사회관계망서비스(SNS)에 올리는 비방성 악성 댓글을 자제해 달라”고 당부했다.&lt;br&gt;&lt;br&gt;딸이 좋아했던 걸그룹 아이브 멤버 장원영의 조문을 요청했다가 불거진 논란에 대해 김양 아버지는 전날 “하늘이가 좋아한 장원영씨가 아이를 보러 와주기를 부탁한 것은 말 그대로 강요가 아니라 부탁이었다. 아이가 보고 싶어 했던 장원영씨를 별이 된 지금이라도 보여주고 싶은 아빠의 마음이었을 뿐”이라는 입장을 밝혔다. &lt;br&gt;&lt;br&gt;김양의 유족은 전날 “도를 넘어선 악성 댓글로 인해 유가족들이 큰 정신적인 고통을 받고 있다”면서 악성 댓글 게시자에 대한 법적 대응을 예고하기도 했다.&lt;br&gt;&lt;br&gt;수사전담팀을 꾸린 경찰은 온라인 게시글과 영상에 대한 24시간 모니터링을 강화하고, 유가족에 대한 모욕성 게시물이 확산하지 않도록 할 방침이다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/VIVJMGHVOJDFFPZK5CDE7ZUM7E.jpg?width=1530&amp;height=861&amp;auth=2ef6c1a772bab209c74a771cfba3679e9df3007e7682588da8dcc7f11b45b085&amp;smart=true" type="image/jpeg" height="861" width="1530">
-        <media:description type="plain">고 김하늘양 입관식</media:description>
-        <media:credit role="author" scheme="urn:ebu"/>
-      </media:content>
     </item>
     <item>
       <title>尹 “홍장원, 야권 관련 정치중립 문제 심각해 해임”</title>
@@ -975,15 +980,6 @@
       <description/>
       <pubDate>Thu, 13 Feb 2025 04:22:18 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3KAIVH4PLRHDFMPTGZYBHCOWT4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;해경이 지난 12일 제주 서귀포 해상에서 전복된 어선 선원들을 구조하고 있다./제주해양경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제주 서귀포 해상에서 전복된 서귀포 선적 갈치잡이배 2066재성호(32t, 승선원 10명) 실종 선원으로 추정되는 시신 2구가 발견됐다.&lt;br&gt;&lt;br&gt;서귀포해양경찰서는 13일 이날 오후 12시19분쯤 전복된 사고 선박 내부를 수색하던 중 실종 선원 1명의 시신을 발견했다고 밝혔다. 이에 앞서 오전 9시 57분쯤에는 사고 지점에서 남동쪽으로 11㎞ 떨어진 해상에서 사고 어선 실종자로 추정되는 시신 1구를 발견했다. 발견은 수색에 참여한 민간어선이 했다. 시신은 현재 실종 상태인 한국인 선원 5명 중 한 명으로 추정된다. &lt;br&gt;&lt;br&gt;재성호는 먼 바다로 조업을 나갔다가 기상악화로 피항하던 중 사고가 난 것으로 추정되고 있다.&lt;br&gt;&lt;br&gt;제주지방해양경찰청과 선주 등에 따르면 재성호는 지난 10일 오전 9시 56분쯤 제주 서귀포항에서 갈치조업을 위해 출항했다. 통상 갈치를 잡으려면 서귀포에서 약 800㎞ 떨어진 대만 인근 동중국해상으로 가야하는데 이동하는 데만 3∼4일 소요된다.&lt;br&gt;&lt;br&gt;하지만 12일 오후 2시쯤 30t 이하 선박에 대해 기상악화 우려로 안전구역으로 대피하라는 해경의 통보를 받은 재성호는 제주 서귀포 해역으로 피항하기로 결정했다. 풍랑주의보가 내려지면 30t 이하 선박의 출항은 통제되지만, 그 이상 선박은 평소처럼 운항할 수 있는데도 재성호는 피항결정을 한 것으로 보인다.&lt;br&gt;&lt;br&gt;문제는 기상이 예상보다 급격하게 악화한 데 있었다. 풍랑주의보가 발효된 서귀포 해상에 북서풍이 초속 24∼28ｍ로 강하게 불었고, 파도가 3∼3.5ｍ로 높게 일었다.&lt;br&gt;&lt;br&gt;재성호는 출항 이틀 만인 12일 오후 7시 56분쯤 제주 서귀포시 표선면 남서쪽 12㎞ 해상에서 초단파무선전화(VHF-DSC) 긴급구조 신호를 보냈다. 마침 인근에서 안전관리를 하던 해경 500t급 함정이 4분 만인 오후 8시쯤 사고 현장에 도착했지만 재성호는 이미 파도에 휩쓸려 뒤집힌 뒤였다. 짧은 순간에 강한 너울성 파도를 맞아 배가 뒤집힌 것으로 추정된다.&lt;br&gt;&lt;br&gt;해경은 구명벌(구명보트)과 선체 위로 피신하거나 해상에 표류 중이던 외국인 4명(인도네시아 1명, 베트남 3)과 한국인 선장 등 5명을 구조했다.&lt;br&gt;&lt;br&gt;출입항관리시스템상 재성호에는 한국인 6명과 외국인 4명 등 총 10명이 승선했다. 이날 발견된 시신 2구가 실종자로 확인되면 실종자는 3명이 된다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>오재원도 람보르기니男도... ‘생일·출소 기념 마약' 100명에 투약한 의사</title>
-      <link>https://www.chosun.com/national/national_general/2025/02/13/676HKUY5RNGXXDM4XQT73GQCBA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/02/13/676HKUY5RNGXXDM4XQT73GQCBA/</guid>
-      <dc:creator>김도균 기자, 구동완 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 13 Feb 2025 03:55:38 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UBRJQD3UQ2YZ6LHBSUAZDQNFZQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;마약류관리법 위반 등 혐의를 받는 국가대표 출신 전 프로야구 선수 오재원이 지난해 3월 서울중앙지방법원에서 열린 구속 전 피의자 심문(영장실질심사)에 출석하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 강남구의 한 의원에서 미용 시술을 내걸고 의료용 마약류를 불법 투약한 의사와 가짜 환자들이 경찰에 무더기로 검거됐다. 이들은 ‘생일 기념’ ‘출소 기념’ 등으로 마약을 제공해 투약자들을 마약 중독에 빠뜨렸다. 특히 마약 투약 등 혐의로 실형을 선고받은 국가대표 출신의 전 프로야구 선수 오재원(40)씨도 이 의원에서 마약을 투약한 것으로 확인됐다.&lt;br&gt;&lt;br&gt;서울경찰청 마약범죄수사대는 의료용 마약류를 불법 투약한 60대 이비인후과 의사 A씨와 그의 배우자인 총괄실장 등 의원 관계자 15명을 마약류관리법 위반 등 혐의로 검거해 송치했다고 13일 밝혔다. 경찰은 A씨를 구속해 검찰에 넘겼으며 오씨 등 투약자 100명도 함께 송치했다. &lt;br&gt;&lt;br&gt;경찰에 따르면 A씨 등은 2021년 1월부터 지난해 7월까지 강남구 청담동의 한 의원에서 미용 시술을 빙자해 내원자 105명에게 수면마취제 계열 마약류(프로포폴·레미마졸람 등)를 총 1만7216회에 걸쳐 불법 투약하고 41억4051만원을 편취한 것으로 조사됐다. 특히 A씨는 프로포폴 등의 수면마취제를 16차례에 걸쳐 본인에게 직접 투약한 혐의도 받는다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BELSE3FW4RH7JPCWXDLIUJY5QE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울경찰청 마약범죄수사대가 불법 마약 투약 정황이 드러난 의원을 수사하는 과정에서 수거한 의료용 마약류. /서울경찰청 마약범죄수사대&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이들의 마약 영업 수법은 환자들을 마약류 중독에 빠뜨려 이를 돈벌이로 삼는 ‘마약 판매상’과 비슷했다. 횟수와 용량에 따라 결제 액수를 정하고 수요가 높은 투약자들을 대상으로 일요일 영업을 진행했다. 또 생일을 맞은 투약자들을 대상으로는 ‘생일 기념’, 구치소에서 출소한 이들에게는 ‘출소 기념’ 등의 명목으로 서비스 투약을 제공해 투약자들을 관리하기도 했다.&lt;br&gt;&lt;br&gt;이런 수법에 넘어간 투약자 100명은 각각 최소 6회에서 많게는 887회까지 불법 투약을 받았다. 투약자 상당수(83%)는 20~30대로 조사됐는데, 이들 가운데 하루 최대 28회에 걸쳐 마약을 투약받거나 하루에만 1000만원을 결제한 투약자도 있었다. 1억원 이상의 금액을 지불한 투약자만 12명이었다. 전 프로야구 선수 오씨도 2023년 10월부터 2024년 1월까지 이 의원에 5차례 방문해 프로포폴 등을 투약받았다.&lt;br&gt;&lt;br&gt;경찰은 이 의원에서 105명이 의료용 마약류를 투약받았으나 4명은 사망했다고 밝혔다. 1명은 같은 혐의로 이미 처벌받아 송치 대상에서 제외됐는데, 2023년 9월 적발된 ‘람보르기니 남’ 홍모씨로 확인됐다.&lt;br&gt;&lt;br&gt;이들은 수사망을 피하기 위해 가족이나 지인 명의의 차명계좌로 범죄수익을 관리하는 등 범죄 은폐에도 적극적이었다. 탈세용 장부와 상담용 대포폰을 따로 만들었고, 진료기록도 허위로 작성했다. 다른 사람의 주민등록번호를 불법으로 사용한 혐의도 함께 받는다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SJPJKRYLTJFWHJWCES7CQMSUQQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;마취제 에토미데이트. 에토미데이트는 프로포폴과 효능이 유사하지만 마약류로 지정돼 있지 않아 남용되고 있는 약물이다. /서울경찰청 마약범죄수사대&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;해당 의원에서는 프로포폴·레미마졸람 등 마약류 외에 전신마취제 ‘에토미데이트’도 사용된 것으로 나타났다. 에토미데이트는 프로포폴과 효능이 유사하지만 마약류로 지정돼 있지 않아 보고 의무가 없어 마약류 감시의 사각지대로 여겨져 왔다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “‘에토미데이트’가 마약류로 지정되기 전에 대량 불법 유통될 수 있어 이에 대한 수사를 확대할 방침”이라며 “의료용 마약류는 용법, 용량에 따라 사용해도 쉽게 중독될 수 있어 꼭 필요한 상황 외에는 피해야 한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>조태용 “내 공관 앞에서 메모 썼다던 홍장원, 당시 본인 사무실에 있었다”</title>
