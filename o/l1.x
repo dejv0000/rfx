@@ -6,6 +6,16 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>착한법, 헌법 개정 '국회 권한 통제 방안' 논의 촉구 성명 발표</title>
+			<description>&lt;p style="text-align: center; "&gt;   &lt;img src="https://image.lawtimes.co.kr/thumb/180/205598.jpg" alt="444.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;사단법인 착한법만드는사람들(대표&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="1825"&gt;김현&lt;/span&gt;)은 14일 성명을 통해 헌법 개정 논의에서 국회의 권한을 견제할 수 있는 방안을 함께 논의해야 한다고 주장했다.&lt;br /&gt;&lt;br /&gt;착한법은 성명에서 "탄핵 국면에서 여야 정치인들이 대통령제의 권력을 견제할 수 있는 방향으로 개헌의 필요성을 시사하고 있고 국회의장도 개헌의 필요성을 언급했다"며 "이번 개헌 논의의 중심에는 '4년 중임제'와 '대통령 권한 축소'가 있다"고 밝혔다.&lt;br /&gt;&lt;br /&gt;이어 "4년 중임제는 대통령 선거와 국회의원 선거를 2년 차이를 두고 하면 중간평가가 된다는 긍정적 측면이 있다"고 덧붙였다.&lt;br /&gt;&lt;br /&gt;또한, "승자독식의 의회폭거를 견제하기 위한 장치도 도입할 필요가 있다"며 "&lt;span style="font-weight: bold;" class="lawmanlink" serial="8480"&gt;윤석열&lt;/span&gt;&amp;nbsp;대통령이 2022년 5월 10일 취임한 이후 국회는 31개월 동안 29번이나 탄핵소추안을 의결했고 심지어 사상 최초로 현직 대통령에 이어 대통령 권한대행까지 탄핵소추로 연속하여 권한을 정지시켰다"고 지적했다.&lt;br /&gt;&lt;br /&gt;착한법은 "지난 2년 6개월 동안 불필요한 탄핵소추의 남발은 의회가 헌법상 대통령제를 부인하고 행정부의 권능을 심각하게 훼손하는 행태로, 헌법 정신에도 위반된다"며 "그러한 권력 남용 앞에 국민은 보이지 않았다"고 비판했다.&lt;br /&gt;&lt;br /&gt;마지막으로 “앞으로의 헌법 개정 논의는 법치주의 원칙에 따라 대통령 권력 견제뿐 아니라 입법부에 부여된 권력에도 견제와 균형의 원리가 작동할 수 있도록 하는 장치를 마련해야 한다"고 촉구했다.&lt;/p&gt;</description>
+			<pubDate>Fri, 14 Feb 2025 04:16:35 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/205598</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/205598</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/205598.jpg</media:thumbnail>
+			<dc:creator>이진영 기자</dc:creator>
+		</item>
+		<item>
 			<title>법무법인 YK 강경훈·배성범·배인구 대표변호사 법률신문사 내방</title>
 			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/thumb/180/205592.jpg" alt="021401.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;법무법인 YK의&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="19296"&gt;강경훈&lt;/span&gt;(47·사법연수원 40기) 대표변호사와&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="189"&gt;배성범&lt;/span&gt;(63·23기) 대표변호사,&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="524"&gt;배인구&lt;/span&gt;(57·25기) 대표변호사가 13일 서울 서초구 법률신문사를 방문해 이수형 사장 등과 환담했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;강 대표변호사는 "B2C 모델을 로펌과 소비자 간 거래(Business to consumer)뿐만 아니라, 기업(company) 고객과의 거래로 확장하기 위해 노력하고 있다"며 "앞으로 양질의 법률서비스를 제공하기 위해 더욱 노력할 것"이라고 말했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;YK는 지난해 국세청 부가세 신고액 기준으로 1547억 원의 매출액을 기록했다. 2023년 매출액(786억 원) 대비 두 배가량 늘어난 수치이다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;YK는 지난해 6월과 7월에&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="189"&gt;배성범&lt;/span&gt;&amp;nbsp;대표변호사와&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="524"&gt;배인구&lt;/span&gt;&amp;nbsp;대표변호사를 연달아 영입했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;마산고와 서울대 법학과를 졸업한&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="189"&gt;배성범&lt;/span&gt;&amp;nbsp;대표변호사는 1991년 제33회 사법시험에 합격했다. 그는 1994년 부산지검 울산지청 검사로 임관해 서울남부지검 부부장검사, 부산지검 동부지청 형사3부장검사, 대구지검 상주지청장, 부산지검 특수부장검사, 부산지검 차장검사, 수원지검 안산지청장, 대검찰청 강력부장, 창원지검장, 광주지검장, 서울중앙지검장, 법무연수원장 등을 역임하고 2021년 개업했다. 현재 YK의 형사총괄대표변호사를 맡고 있다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="524"&gt;배인구&lt;/span&gt;&amp;nbsp;대표변호사는 대전여고와 고려대 법학과를 졸업하고 1993년 제35회 사법시험에 합격했다. 1996년 부산지법 울산지원 판사로 처음 법복을 입는 그는 대전지법·서울지법 의정부지원·서울북부지법·서울고법 판사 등을 지냈다. 2011년부터는 5년간 서울가정법원 부장판사로 근무했다. 2017년 서울중앙지법 부장판사를 마지막으로 변호사로 개업한 뒤 법무법인 로고스에서 가사상속센터장으로 활동했다. 현재는 YK 가사상속가업승계센터를 이끌고 있다.&lt;/p&gt;</description>
 			<pubDate>Fri, 14 Feb 2025 01:22:13 -0000</pubDate>
@@ -229,16 +239,6 @@
 			<link>https://www.lawtimes.co.kr/news/205516</link>
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/205516</guid>
 			<dc:creator>조한주 기자</dc:creator>
-		</item>
-		<item>
-			<title>[단독] 로펌이 취업 거절하자 "그 로펌 불이익 주라" 한 검찰 간부 감찰 진행 중</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/thumb/180/205475.jpg" alt="8054.jpg" /&gt;&lt;/div&gt;&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;&amp;nbsp;&lt;/div&gt;&lt;p&gt;현직 검사가 로펌 취업을 거절당하자, 해당 로펌에 불이익을 주라는 취지의 발언을 해 검찰이 진상조사에 나섰다. 대형 기업 사건을 지휘하던 부장검사들이 퇴직 후 곧바로 기업을 방어하는 로펌에 취업하는 행태가 이어지면서, 검찰의 윤리적 문제도 지적된다.&lt;br /&gt;&lt;br /&gt;11일 법률신문 취재를 종합하면, 서울남부지검의 한 부장검사는 10대 대형로펌 중 한 곳에 취업을 문의했지만 거절당하자 동료 검사들이 참여한 단체대화방에서 '앞으로 검찰 출신을 뽑지 않는다고 하니 불이익을 주라'는 취지의 발언을 한 것으로 알려졌다. 이같은 발언이 검찰 안팎에 알려지자 대검찰청은 진상조사에 들어가는 한편, 해당 부장검사를 다른 청으로 발령하는 인사조치를 냈다. 이 검사는 인사조치 이후 곧바로 사의를 표한 것으로 전해졌다.&lt;br /&gt;&lt;br /&gt;대형 기업 비리 등을 수사하던 부장검사 등이 퇴직 후 바로 로펌으로 직행하는 경우는 남부지검에서만 3년째 연이어 벌어지고 있다.&lt;br /&gt;&lt;br /&gt;2022년 7월까지 남부지검 금융조사2부장을 지낸&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="10562"&gt;김락현&lt;/span&gt;(50·사법연수원 33기) 변호사는 퇴직 후 법무법인 율촌행을 택했다. 현재는 SK그룹 변호사로 재직하고 있다. 지난해 6월까지 남부지검 금융조사1부장을 지낸&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="13537"&gt;권찬혁&amp;nbsp;&lt;/span&gt;변호사도 법무법인 F&amp;L 파트너스 대표변호사로 개업했다. 최근까지 카카오의 SM엔터 시세조종 의혹 수사를 이끌던&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="15653"&gt;장대규&amp;nbsp;&lt;/span&gt;남부지검 금융조사2부장검사도 이번 상반기 검찰 인사에서 사직해 로펌으로 갈 것으로 전해졌다.&lt;br /&gt;&lt;br /&gt;검찰 내부에선 서울남부지검 등의 주요 수사 부서에서 요직을 지낸 검사들이 곧바로 로펌에 들어가는 행태에 비판이 나온다. 과거 주요 수사를 하거나 핵심 보직을 지낸 검사들은 지방검찰청이나 비수사 부서 근무를 거친 뒤 퇴임해 왔던 것이 관례였는데, 이같은 '전통'이 무너지고 있다는 것이다.&lt;br /&gt;&lt;br /&gt;익명을 요구한 부장검사는 "최근 남부지검은 대기업 수사를 도맡아 하고 있고 피해 금액도 수천억 원에서 수조 원대에 이른다"이라며 "큰돈이 오가는 사건이라 유혹이 많을 텐데 재직 중 대형로펌에 취업하기 위해 사전 접촉하거나 퇴직 후 곧바로 가는 것은 문제"라고 말했다. 한 간부급 검사도 "검찰 안에서 '요직에 앉혔더니 로펌으로 바로 가는 건 문제'라는 얘기가 나온다"고 말했다.&lt;br /&gt;&lt;br /&gt;반면 검사들에 대한 처우가 날로 악화하는 가운데, 이같은 로펌행을 막기는 현실적으로 어렵다는 목소리도 있다. 한 부장검사는 "요즘 검사들의 사기가 바닥인데 자기 몸값이 높을 때 나간다는 걸 누가 말릴 수 있겠느냐"며 "퇴직 후 1년 동안은 근무했던 곳의 사건 수임을 하지 못하므로, 이를 잘 지킨다면 큰 문제는 아니다"라고 말했다.&lt;br /&gt;&lt;br /&gt;변호사법은 전관예우를 방지하기 위해 판·검사 등을 지낸 공직퇴임변호사는 퇴직한 날부터 1년 동안 최종 근무한 곳의 사건을 수임할 수 없도록 규정하고 있다.&lt;/p&gt;</description>
-			<pubDate>Wed, 12 Feb 2025 21:08:14 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/205475</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/205475</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/205475.jpg</media:thumbnail>
-			<dc:creator>임현경 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
