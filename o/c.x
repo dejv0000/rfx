@@ -13,6 +13,54 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>[속보]부산 반얀트리 신축공사장 화재... 6명 사망, 7명 부상</title>
+      <link>https://www.chosun.com/national/incident/2025/02/14/PHNKEAKFQ5CVJKNEASQC54HAD4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/02/14/PHNKEAKFQ5CVJKNEASQC54HAD4/</guid>
+      <dc:creator>부산=김준호 기자, 이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 14 Feb 2025 03:43:12 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TWBALM5J5ZMHXOWHLQTWD6QPRA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;14일 부산 기장군 반얀트리 호텔 신축공사장에서 화재가 발생했다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QS5ESWHNONDXNOH6K7XJPVWLTQ.gif"&gt;&lt;figcaption&gt;&lt;small&gt;14일 오전 부산 기장군 반얀트리 호텔 신축공사장에서 불이나 6명이 숨지고 7명이 다쳤다./부산소방재난본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;14일 오전 10시 51분쯤 부산 기장군 반얀트리 호텔 조성 공사장에서 큰불이 났다. 이 불로 현재까지 6명이 사망하고 7명이 다쳤다.&lt;br&gt;&lt;br&gt;부산소방재난본부 이날 오전 11시 10분께 ‘대응 1단계’를 발령한 뒤, 12시 ‘대응 2단계’로 상향 조정하고 헬기를 투입하는 등 진화에 주력하고 있다.&lt;br&gt;&lt;br&gt;대응 1단계는 관할 소방서 인력 전체가 출동하며, 대응 2단계는 소방서 8∼14곳에서 51∼80대의 장비를 동원하는 경보령이다.&lt;br&gt;&lt;br&gt;이 화재로 6명이 심정지 상태로 발견돼 6명 모두 사망 판정을 받았다. 경상자도 7명 발생했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CZWHKOGRPVF4HMQKIWXVPRALTE.gif"&gt;&lt;figcaption&gt;&lt;small&gt;14일 오전 부산 기장군 반얀트리 호텔 신축공사장 화재 현장에서 소방관들이 진화작업을 하고 있다./부산소방재난본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;건물 옥상에 대피한 14명은 소방 헬기로 구조됐다.&lt;br&gt;&lt;br&gt;현장에 있던 100여명은 자력 대피한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;소방 당국은 소방 헬기 3대를 포함해 총 127대의 장비와 소방관 등 352명을 투입해 진화에 나섰다.&lt;br&gt;&lt;br&gt;화재 2시간 40여분 만인 오후 1시 34분쯤 큰 불길을 잡은 소방 당국은 내부 정밀 수색을 진행해 추가 인명피해 여부 등을 확인할 방침이다.&lt;br&gt;&lt;br&gt;불은 현장 건물 1층 수영장 인근에 적재된 단열재에서 난 것으로 추정된다.&lt;br&gt;&lt;br&gt;부산 기장군은 화재 직후 안전안내문자를 보내 “차량은 건물 주변 도로를 우회하고, 건물 내 시민은 밖으로 대피하라”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4MTTXOGPVVK3VAC5SX7QMAKB5Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;14일 부산 기장군 반얀트리 호텔 신축공사장에서 불이 나 연기가 퍼지고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/SDJIL5YDCZETVOQVR7VQTYY65U.gif?width=480&amp;height=270&amp;auth=caabee159b9b7c6d8607e5eaca214ead92b0cb7db75e6b92f90947900fe44ada&amp;smart=true" type="image/jpeg" height="270" width="480">
+        <media:description type="plain">부산 기장군 반얀트리 화재./부산소방본부 제공</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>이숙연 숙명여대 약학대학 명예교수 별세...향년 98세</title>
+      <link>https://www.chosun.com/national/people/2025/02/14/4GIF7NTWNZGO5BZEOU7TH4VBXU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/02/14/4GIF7NTWNZGO5BZEOU7TH4VBXU/</guid>
+      <dc:creator>장윤 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 14 Feb 2025 05:03:02 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WGWQNOLAVBDEBI6P5RF2WHXCHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이숙연 숙명여대 약학대학 명예교수가 지난 2020년 11월 숙명여대에 발전기금 1억원을 기부하고 있다./숙명여대 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이숙연 숙명여대 약학대학 명예교수가 14일 향년 98세로 별세했다.&lt;br&gt;&lt;br&gt;고인은 1956년 4월 숙명여대 약학대학 교수로 임용돼 38년 5개월간 재직하고 1994년 8월 퇴직했다. 고인은 약학대학 학장, 약학대학 연구소장 등을 역임하며 학교 발전에 기여했다.&lt;br&gt;&lt;br&gt;고인은 지난 2020년 숙명여대에 발전기금 1억원을 기부해 이숙연장학기금을 조성하는 등 후학 양성에도 힘썼다.&lt;br&gt;&lt;br&gt;유족으로는 충남대 사회대 교수 등 1남 2녀가 있다. 빈소는 충남대병원 장례식장에 마련됐으며, 발인은 2025년 2월 16일이다. 장지는 세종은하수공원. (044)863-4444.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>﻿강남 사는 60대 여성 노린 보이스피싱, 21억 뜯은 ‘이 수법’</title>
+      <link>https://www.chosun.com/national/national_general/2025/02/14/6W42KKZYJVE2BBJQJJ6LUIJT2Y/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/02/14/6W42KKZYJVE2BBJQJJ6LUIJT2Y/</guid>
+      <dc:creator>이가영 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 14 Feb 2025 04:06:52 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GBS7I3S2XCXLR2ZMENSFDKSH3M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;국내에서 발급 중인 카드사 신용카드. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“안녕하세요. XX년생 ○○○씨 맞으시죠? 카드 배송차 연락드렸습니다. 카드 신청하신 적이 없다고요? 그러면 반송 처리해야 하는데…. 카드사 대표번호 1788-0XXX로 전화해 보세요.”&lt;br&gt;&lt;br&gt;생년월일과 이름까지 언급하며 카드사의 ‘가짜 대표 번호’를 알려준 배송원의 연락은 보이스피싱의 시작이었다. 통상 업체 대표 번호는 ‘1X88’번으로 시작됐기에, 70대 A씨는 배송원이 알려준 번호로 전화를 걸었다. &lt;br&gt;&lt;br&gt;카드사 상담원은 “고객님 신용카드와 정상적으로 연동된 계좌가 있다”며 “명의 도용이 의심된다”고 했다. 그러면서 보안 점검, 악성 앱 검사, 사고 접수 등을 할 수 있는 앱을 ‘공식 앱스토어’에서 다운받으라고 했다. ‘모르는 사람이 보내주는 앱 설치 링크는 절대 클릭하면 안 된다’는 걸 알고 있던 A씨는 직접 앱을 다운받으며 안심했다. &lt;br&gt;&lt;br&gt;하지만 이는 보이스피싱 사기범들이 만들어낸 원격 제어 앱이었다. 진짜 금융감독원 번호 ‘1332’로 전화해도 사기범들에게 연결되게 되어 있었다. 금감원 사칭범은 “최근 명의 도용 사건이 많이 접수됐는데, 그중 하나인 것 같다”며 “제가 금방 조사가 끝나도록 얘기해 둘 테니 검찰청 대표번호 1301로 전화하라”고 했다. &lt;br&gt;&lt;br&gt;A씨는 검찰청에 전화했지만, 통화한 건 역시 보이스피싱 일당이었다. 검찰 사칭범은 “당신 명의로 계좌가 만들어져 불법 자금 세탁 사건에 이용됐고, 연루자들은 72시간 동안 조사 후에 구속할 예정”이라고 알렸다. A씨가 명의 도용 피해자에서 ‘공범’이 되는 순간이었다. 검찰 사칭범은 “연락을 회피하거나 주변 사람들에게 수사 내용을 발설하면 바로 체포하고, 가족까지 소환장을 발부해서 구속한다”고 했다. &lt;br&gt;&lt;br&gt;자신 때문에 자식들이 피해를 볼까 걱정된 A씨는 직접 보이스피싱 일당에게 돈을 보냈다. 은행이 이상 거래를 탐지해 확인했지만 소용없었다. A씨는 “아들의 사업 투자 목적 거래니까 관여하지 말라”고 답변하며 도움을 거절했다. 결국 A씨는 21억원의 피해를 입었다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DYDPM4IXTJFWVO2VJOG474SSSY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=조선디자인랩 김영재&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이처럼 카드 배송을 사칭하는 보이스피싱 피해가 급격히 늘고 있어 금감원은 소비자 경보를 주의에서 ‘경고’로 상향했다고 13일 밝혔다. &lt;br&gt;&lt;br&gt;작년 하반기 금감원에 접수된 보이스피싱 피해액은 매달 크게 늘었다. 9월에 접수된 피해액은 249억원이었는데, 10월에는 453억원으로 늘었고, 12월에는 610억원으로 껑충 뛰었다. &lt;br&gt;&lt;br&gt;금감원은 그 원인으로 ‘가짜 카드 배송’으로 시작된 보이스피싱 수법에 속은 고령층이 거액의 피해를 입는 사례가 늘어났기 때문이라고 분석했다. 작년 하반기 2억원 이상 고액 피해자의 약 80%가 여성이었으며, 그중에서도 60대 여성이 과반수를 차지했다. 특히 서울 강남 3구(서초‧강남‧송파)의 피해액은 서울 전체 피해액의 30%를 차지했다. &lt;br&gt;&lt;br&gt;예전에는 카드 배송 미끼 문자만을 발송했던 보이스피싱 사기범들은 문자 차단 대책 등이 시행되자 수법을 진화했다. 배송원을 사칭해 전화하거나, 위조된 실물 카드를 직접 배송하러 방문하는 경우도 생겼다. &lt;br&gt;&lt;br&gt;피해자가 가짜 고객센터로 전화하면 공식 앱스토어에 등록된 원격 제어 앱을 다운받도록 유도해 경각심을 최소화했다. 검찰 사칭범은 가족도 수사 대상이 된다고 위협하는 역할을, 금감원 사칭범은 도와주는 역할을 맡으면서 피해자의 심리를 지배했다. &lt;br&gt;&lt;br&gt;여기에 더해 사기범들은 금융회사의 문진에 대비해 자금 사용처 등 답변을 사전에 교육했다. 금융회사나 통신사, 경찰까지 범죄에 연루되어 있다고 속여 피해자가 자신의 의지로 돈을 보내는 것이라고 주장하면서 도움을 거절하는 사례도 생겼다. &lt;br&gt;&lt;br&gt;&lt;b&gt;◇신청 안 한 카드 배송, ‘카드사 홈페이지’에 나온 번호 확인해야&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/V2OLHDKEENKZJA27LAUM4RRV2M.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;KT는 인공지능(AI) 기술을 활용해 보이스피싱 의심 전화를 실시간으로 찾아내 경고하는 ‘AI 보이스피싱 탐지∙알림서비스’를 상용화했다고 지난달 22일 밝혔다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;금감원은 본인이 카드를 신청하지 않은 경우 배송 직원이 알려준 번호가 아닌 카드사 홈페이지나 앱에 나온 전화번호를 통해 경위를 확인해야 한다고 조언했다. 카드사 등 금융회사와 공공기관은 그 어떤 앱 설치도 요구하지 않는다며 “원격 제어 앱이나 악성 앱 설치가 조금이라도 의심된다면 가족 등 지인의 전화를 이용해 경찰이나 금감원에 상담하라”고 했다. &lt;br&gt;&lt;br&gt;또한 최근 보이스피싱 수법은 주소, 계좌번호 등 개인 정보가 이미 노출된 피해자에게 전화를 걸어 실제 금융회사 상담센터와 유사한 방식으로 접근하는 등 교묘한 방식으로 진화해 피해자 스스로 알아차리기 어렵다고 했다. &lt;br&gt;&lt;br&gt;금감원은 “통신사에서 제공 중인 AI 보이스피싱 탐지 서비스를 이용하라”고 당부했다. AI가 통화 내용을 실시간으로 분석하고 보이스피싱 의심 통화에 해당할 경우 이용자에게 경고 메시지 및 알람을 송출한다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[속보] 헌재, ‘尹 탄핵심판’ 한덕수·홍장원·조지호 증인 채택</title>
+      <link>https://www.chosun.com/national/court_law/2025/02/14/TTA6KFO2AJBFLKP3GC5O5AUUIU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/02/14/TTA6KFO2AJBFLKP3GC5O5AUUIU/</guid>
+      <dc:creator>방극렬 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 14 Feb 2025 04:50:29 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XJKHY6KCR7EI5A2WNKDOE4CFD4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;문형배 헌법재판소장 권한대행과 재판관들이 13일 서울 종로구 헌법재판소 대심판정에서 열린 윤석열 대통령 탄핵심판 8차 변론에 입장하고 있다. /사진공동취재단&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;헌법재판소가 14일 평의를 열고 윤석열 대통령 탄핵심판의 추가 증인으로 한덕수 국무총리, 홍장원 전 국가정보원 3차장, 조지호 경찰청장을 채택했다. 헌재는 오는 20일 10차 변론 기일을 잡고 이들에 대한 증인 신문을 진행할 예정이다.&lt;br&gt;&lt;br&gt;헌재는 이날 윤 대통령 측이 신청한 한 총리 등 3명을 증인으로 채택하고, 오는 20일 불러 신문하겠다고 밝혔다. 채택된 증인 가운데 조 청장은 국회 측과 함께 신청한 증인이다. 이 밖에 윤 대통령 측이 별도로 증인 신청한 강의구 대통령비서실 1부속실장 등 3명에 대해서는 기각했다.&lt;br&gt;&lt;br&gt;한 총리는 비상계엄 선포와 해제 관련 국무회의에 관여한 핵심 증인이다. 앞서 윤 대통령 측은 “한 총리는 계엄 관련 국무회의 당시 상황과 야당의 ‘줄 탄핵’과 예산 삭감 등으로 인한 국정 마비 등을 누구보다 잘 아는 인물”이라며 증인으로 신청했지만 지난 11일 한차례 기각됐다. 당시 헌재는 “필요성이 부족하다”고 밝혔다.&lt;br&gt;&lt;br&gt;이에 반발한 윤 대통령 측이 13일 재차 한 총리 등을 증인으로 신청했는데, 헌재가 이날 채택한 것이다. 법조계에서는 “최근 불거진 ‘졸속 논란’을 의식해 윤 대통령 측 주장을 받아준 것으로 보인다”는 반응이 나왔다.&lt;br&gt;&lt;br&gt;헌재가 함께 채택한 홍장원 전 차장은 지난 4일 변론에 이미 증인으로 출석했는데 윤 대통령 측 신청으로 재출석하게 됐다. 홍 전 차장이 비상계엄 선포 직후 작성한 ‘정치인 체포 명단’ 메모의 신빙성을 검증하기 위한 것으로 분석된다. 전날(13일) 탄핵심판에 증인으로 나온 조태용 국정원장은 “홍 전 차장의 헌재 증언 이후 확인을 해보니 사실관계가 달랐다”며 “(메모 내용·작성 과정 등이) 거짓이라고 생각한다”고 주장했다.&lt;br&gt;&lt;br&gt;조지호 청장은 이번이 세 번째 소환이다. 헌재는 당초 지난달 23일, 이달 13일 조 청장을 증인으로 불렀지만 건강상 이유로 불출석했다. 조 청장은 계엄 당일 윤 대통령의 지시를 받고 국회를 봉쇄하고 의원들의 출입을 통제한 혐의로 구속 기소됐다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>서울 성북구 석관동에 2886가구 아파트 단지 들어선다</title>
+      <link>https://www.chosun.com/national/national_general/2025/02/14/GQHRTPYTDZET7HTTE5BCX7VQMA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/02/14/GQHRTPYTDZET7HTTE5BCX7VQMA/</guid>
+      <dc:creator>김영우 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 14 Feb 2025 04:03:44 +0000</pubDate>
+      <content:encoded>서울 성북구 석관동 일대에 2886가구 규모 아파트 단지 2곳이 들어설 전망이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5FFRL44C5RD33HX45FFK2IVHEI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;모아타운 사업이 추진되고 있는 서울 성북구 석관동 일대의 사업 후 예상도. /서울시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울시는 지난 13일 열린 제3차 소규모주택정비 통합심의 소위원회에서 이 같은 내용을 담은 모아타운 관리계획안을 통과시켰다고 14일 밝혔다.&lt;br&gt;&lt;br&gt;모아타운은 서울시의 노후 주택 재개발 사업이다. 100~400가구 규모의 다세대·다가구 주택 조합 4~5개를 묶어 통합 재개발한다.&lt;br&gt;&lt;br&gt;이번에 관리 계획안이 통과된 석관동 일대는 조선 경종의 묘인 의릉 인근에 있어 높이 규제를 받아오던 지역이다. 노후 건축물이 밀집하고 도로도 좁아 주거 환경이 열악했지만, 높이 규제로 사업성이 낮아 재개발 추진이 어려웠다.&lt;br&gt;&lt;br&gt;재개발 사업이 마무리되면 이 지역에는 각각 1703가구, 1183가구 규모 아파트 단지 2곳이 들어서게 된다. 높이 규제가 있는 의릉 인근에 저층동을, 단지 중앙에 고층동을 배치했다.&lt;br&gt;&lt;br&gt;한편 용산구 원효로4가 일대에는 604가구 규모 재개발이 추진된다.&lt;br&gt;&lt;br&gt;이 지역은 노후 건축물 비율이 74%에 이르고 반지하 주택 비율도 24%에 달하는 저층 주거 밀집 지역이다. 도로가 좁고 주차 공간이 부족해 지난 2022년 모아타운 대상지로 선정됐다.&lt;br&gt;&lt;br&gt;사업이 마무리되면 도로 폭이 기존 8m에서 12m로 넓어지고, 용산문화원과 주민센터 등을 잇는 공공 보행 통로도 생기게 된다. &lt;br&gt;&lt;br&gt;서울시 관계자는 “사업이 마무리될 때까지 지원을 아끼지 않겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>‘새만금 태양광 정관계 로비’ 브로커 2심도 징역 1년 6개월</title>
       <link>https://www.chosun.com/national/national_general/2025/02/14/EWLCGRPZ3VHI5FKHVHPMDZTTHM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/02/14/EWLCGRPZ3VHI5FKHVHPMDZTTHM/</guid>
@@ -926,55 +974,6 @@
       <description/>
       <pubDate>Thu, 13 Feb 2025 02:37:01 +0000</pubDate>
       <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UMPFRWH7BQWJCC7I4IHW332ZLM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;류석춘 전 연세대 교수. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“일본군 위안부는 현대의 매춘과 비슷하다”는 발언으로 재판에 넘겨졌던 류석춘(70) 전 연세대 사회학과 교수가 13일 위안부 피해자들에 대한 명예훼손 혐의에 대해 무죄를 확정받았다.&lt;br&gt;&lt;br&gt;대법원 3부(주심 오석준 대법관)는 이날 류 전 교수와 검찰의 상고를 기각하고 원심을 확정했다.&lt;br&gt;&lt;br&gt;류 전 교수는 2019년 9월 연세대 전공 수업인 ‘발전사회학’ 강의 도중 위안부 피해자들을 매춘 여성에 비유했다. “위안부는 일본 정부에 의한 강제 연행이 아니고, 현대의 매춘과 유사하다” “경제적 어려움을 겪는 여성들이 돈을 쉽게 벌 수 있다는 유혹에 빠져 매춘에 종사하기 위해 자발적으로 위안부가 됐다”는 취지로 말했다&lt;br&gt;&lt;br&gt;검찰은 류 전 교수가 허위 사실을 적시해 위안부 피해자 등의 명예를 훼손했다며 2020년 10월 기소했지만, 작년 1월 법원은 “류 전 교수의 발언은 통념에 어긋나는 것이고 비유도 적절치 않았다”면서도 “일본군 위안부 전체에 관한 일반적‧추상적 표현이자 개인적인 견해나 평가로 볼 수 있어 명예훼손죄상 ‘사실 적시’라고 인정하기 어렵다”며 위안부 피해자들에 대한 혐의는 무죄를 선고했다. “헌법이 대학에서 학문과 교수(敎授)의 자유를 특별히 보호하고 있는 취지에 비추어 볼 때 교수의 자유에 대한 제한은 필요 최소한에 그쳐야 하고, 명예훼손죄로 보는 데에는 신중을 기할 필요가 있다”는 대법원 판례도 인용했다.&lt;br&gt;&lt;br&gt;다만 1심은 “한국정신대문제대책협의회(정대협)가 위안부 피해자들에게 허위 증언을 하도록 교육했다”고 발언한 부분은 유죄라고 보고 벌금 200만원을 선고했다. 작년 10월 2심은 류 전 교수와 검찰 항소를 모두 기각했다.&lt;br&gt;&lt;br&gt;류 전 교수에 앞서 박유하 세종대 명예교수도 비슷한 취지로 재판에 넘겨졌다가 8년 5개월 만에 무죄가 확정됐다. 박 교수는 2013년 8월 ‘제국의 위안부’를 출간했는데, 책에 나온 ‘위안부의 자발성’ ‘강제 연행 부인’ 등의 표현이 논란이 돼 위안부 피해자들에 대한 명예훼손 혐의로 2015년 11월 기소됐다. &lt;br&gt;&lt;br&gt;1심은 무죄를, 2심은 유죄(벌금 1000만원)를 선고했는데 대법원은 2023년 10월 무죄 취지로 사건을 서울고법으로 돌려보냈다. “학문적 연구 결과 발표에 사용된 표현의 적절성은 형사 법정에서 가려지기보다 자유로운 공개 토론 등을 통해 검증되는 것이 바람직하다”는 취지였다. 파기환송심 재판부는 작년 4월 박 교수에게 무죄를 선고했고, 검찰이 재상고하지 않으면서 무죄가 확정됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>조태용 “홍장원, 박지원 또는 박선원에게 7차례 인사 청탁”</title>
-      <link>https://www.chosun.com/national/court_law/2025/02/13/3OKNFQQIKVEI3PWSYAE5546ODU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/02/13/3OKNFQQIKVEI3PWSYAE5546ODU/</guid>
-      <dc:creator>이슬비 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 13 Feb 2025 02:11:17 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IYBA2PJXGBFMTGNG3LFZFWUFZE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;조태용 국정원장. /남강호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;조태용 국정원장은 13일 윤석열 대통령 탄핵심판 변론기일에 증인으로 출석해 “홍장원 전 국정원 1차장이 야당 의원에게 일곱 차례 인사 청탁을 했다”고 증언했다.&lt;br&gt;&lt;br&gt;조 원장은 “여름쯤, 국회 정보위에서 지난 정부 때 국정원에 계셨던 어느 야당 의원께서 홍장원 차장을 지목하면서 ‘차장이 내가 국정원 있을 때 유력한 사람 통해서 일곱 차례 나한테 인사청탁을 하지 않았느냐’라는 말을 했다”라며 “그 얘기를 들으면서 저는 깜짝 놀랐다”고 했다.&lt;br&gt;&lt;br&gt;윤 대통령 측 대리인이 “지난 정부 국정원 출신 야당 의원은 박선원·박지원 정도 생각되는데 맞느냐”고 묻자, 조 원장은 “네”라고 했다.&lt;br&gt;&lt;br&gt;조 원장은 “홍장원 전 차장 교체를 대통령에게 건의한 이유가 무엇이냐”는 윤 대통령 대리인의 질문에 “국회 정보위 속기록에 남아있는 공식적 기록을 한가지 말씀드릴 수 있다”며 인사 청탁 사례를 들었다.&lt;br&gt;&lt;br&gt;조 원장은 홍 전 차장이 계엄 바로 다음날인 지난해 12월 4일 “이재명 대표에게 전화 한번 하시죠”라고 말해 거절했다고도 밝혔다.&lt;br&gt;&lt;br&gt;조 원장은 “평상시에도 국정원장이 야당 대표하고 연락하는 건 정치적으로 해석될 소지가 큰데 (계엄 다음날인) 지난해 12월 4일 이 시점에서 아주 정치적으로 민감한 시기에 내가 평소 연락도 않는 야당 대표에게 연락한다면 누가 보더라도 정치적으로 해석될 수밖에 없다. 하면 안되는 일이라고 얘기했다”고 말했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>헌재 “문형배 동창 온라인 카페, 경찰이 적극 수사해달라” </title>
-      <link>https://www.chosun.com/national/court_law/2025/02/13/4NAGYMT5NNAVNITZ72TPBRRMEQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/02/13/4NAGYMT5NNAVNITZ72TPBRRMEQ/</guid>
-      <dc:creator>박혜연 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 13 Feb 2025 01:10:16 +0000</pubDate>
-      <content:encoded>헌법재판소가 문형배 헌재소장 권한대행이 가입한 온라인 카페에서 음란물이 공유됐다는 의혹과 관련해 경찰에 철저한 수사를 당부했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RB26R5XAEFLY7AODBVJXTIT32I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;문형배 헌법재판소장 권한대행 등 헌법재판관들이 지난 12일 서울 종로구 헌법재판소에서 열린 최재해 감사원장 탄핵심판 첫 변론기일을 위해 심판정으로 들어서고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;헌재는 13일 “해당 카페는 (고등학교) 동창 카페로, 경찰은 이에 대해 적극적으로 수사해주길 바란다. 카페 해킹에 대한 철저한 수사도 바란다”는 문 권한대행의 입장을 전했다.&lt;br&gt;&lt;br&gt;이는 최근 문 권한대행이 가입한 고등학교 동창 카페에서 다수의 음란물이 공유됐고, 문 권한대행이 이를 방관했다는 의혹이 제기된 데 따른 것이다. &lt;br&gt;&lt;br&gt;일부 윤석열 대통령 지지자들은 해당 카페에서 문 권한대행의 휴대전화 번호를 알아내 소셜미디어에 유포하고, 조롱과 욕설 등을 담은 메시지를 보낸 것으로 전해졌다. 문 대행이 성 착취 범죄에 가담했다는 허위 사실도 온라인 커뮤티를 통해 확산되고 있다.&lt;br&gt;&lt;br&gt;정치권에서도 문 권한대행을 향한 공격이 이어지고 있다. 배현진 국민의힘 의원은 전날 자신의 SNS에 “헌재 재판관이 무려 2000여건 불법 음란물이 게시, 유통되는 현장을 방관했다는 논란에 경악을 금할 수 없다”는 글을 올렸다.&lt;br&gt;&lt;br&gt;한편, 경찰은 헌재 난동 모의를 비롯해 재판관 위협에 대해서도 수사에 나섰다. 경찰은 지난 10일 헌재 난동을 모의한 게시글 20건을 특정해 수사에 착수했다고 밝혔다. 경찰 관계자는 “헌재 난동 뿐만 아니라 재판관 위협 등에 관해서도 폭넓게 조사 중”이라고 했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>부산서 이재명 습격한 60대 징역 15년 확정</title>
-      <link>https://www.chosun.com/national/court_law/2025/02/13/MHTHJ5KTM5G65J4L2GENDTMEZY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/02/13/MHTHJ5KTM5G65J4L2GENDTMEZY/</guid>
-      <dc:creator>유희곤 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 13 Feb 2025 01:25:34 +0000</pubDate>
-      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PLS7DRIMMKCQZK4O3CBGONCV3U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이재명 더불어민주당 대표를 살해하려고 흉기를 휘두른 혐의(살인미수)로 구속된 피의자 김모씨가 작년 1월 10일 부산 연제경찰서에서 검찰로 송치되고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;작년 1월 이재명 더불어민주당 대표를 흉기로 살해하려 했던 김모(68)씨가 13일 징역 15년형을 확정받았다.&lt;br&gt;&lt;br&gt;대법원 2부(주심 오경미 대법관)는 이날 살인미수와 공직선거법 위반 혐의를 받는 김씨에 대한 상고를 기각하고 원심을 확정했다. 김씨의 범행을 도운 혐의(살인미수 방조)로 기소된 김씨 지인 A(75)씨도 징역 1년 6개월에 집행유예 3년형이 확정됐다.&lt;br&gt;&lt;br&gt;김씨는 작년 1월 2일 오전 10시 27분쯤 부산 강서구 가덕도 대항전망대에서 가덕도신공항 상황 설명을 듣고 이동하는 이 대표의 왼쪽 목을 흉기로 찌른 혐의 등으로 구속 기소됐다. 검찰은 김씨가 이 대표를 “북한을 추종해 대한민국을 혼란과 분열에 빠뜨리는 종북세력을 주도하는 정치인”으로 간주하고 2023년 4월에 범행을 결심했다고 봤다. 김씨는 이후 9개월 동안 등산용 칼을 구입해 찌르는 연습을 하고, 총 여섯 차례에 걸쳐 기회를 노리는 등 계획적으로 범행을 저지른 것으로 조사됐다. &lt;br&gt;&lt;br&gt;A씨는 2023년 5~12월 김씨에게 범행 이유 등을 적은 메모를 받아 범행 당일 김씨 가족과 친척에게 보낸 혐의로 기소됐다.&lt;br&gt;&lt;br&gt;이 대표는 김씨의 습격으로 목 안에 있는 정맥이 9mm 손상되는 상처를 입었고, 서울대 병원으로 이송돼 수술을 받고 8일 만에 퇴원했다. &lt;br&gt;&lt;br&gt;1심은 “자신과 정치적 견해가 다르다는 이유로 피해자에게 범행한 것은 선거 제도와 대의민주주의에 대한 중대한 도전이자 파괴 시도로 어떤 이유에서도 정당화될 수 없어 엄벌 필요성이 매우 크다”면서 작년 7월 김씨에게 징역 15년을 선고하고 형 집행 후 5년간의 보호관찰을 명했다. 작년 11월 2심 판단도 같았다. 검찰 구형은 20년이었다.&lt;br&gt;&lt;br&gt;법원은 김씨의 범행이 동기에 있어서 특별히 비난할 사유가 있는 ‘비난 동기 살인’에 해당한다고 봤다. 대법원은 2009년 7월부터 ‘살인범죄 양형기준’을 시행하고 비난 동기 살인(15~20년)에 보통 동기 살인(10~16년)보다 중한 형을 선고하고 있다. 김씨 측은 보통 동기 살인을 주장했지만 받아들여지지 않았다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“서울 모든 중학교에 폭탄 설치”... 일본어 협박 팩스 수사</title>
-      <link>https://www.chosun.com/national/2025/02/13/RZELU2LZZ5G5RDOFDHSHSIAVY4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2025/02/13/RZELU2LZZ5G5RDOFDHSHSIAVY4/</guid>
-      <dc:creator>주형식 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 13 Feb 2025 01:12:25 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AKN4KGDSN4GPVFO5NI26TXQF7M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울경찰청./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰이 법무부 소속의 한 기관에 “서울 시내 모든 중학교를 폭파하겠다”는 협박 팩스가 전송돼 수사에 나섰다.&lt;br&gt;&lt;br&gt;서울경찰청 사이버수사대는 지난 12일 오후 법무부 한 지역 출입국관리사무소 출장소에 이런 내용의 협박 팩스가 들어왔다는 신고를 받고 발송자를 추적 중이다.&lt;br&gt;&lt;br&gt;이 팩스는 일본어로 “서울 시내 모든 중학교에 이미 폭탄을 설치했고 2월 14일 16시 33분에 폭파하겠다”는 내용이 적힌 것으로 전해졌다.&lt;br&gt;&lt;br&gt;경찰은 2023년 8월부터 이어져 온 국내 주요 기관에 대한 테러 협박 메일, 팩스 사건과 유사하다고 보고 있다. 경찰에는 이번 사건 외에도 지난 1월까지 ‘가라사와 다카히로’라는 일본 변호사가 보낸 것으로 위장한 협박 메일, 팩스 등 유사 사건 38건을 수사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/AKN4KGDSN4GPVFO5NI26TXQF7M.jpg?width=3948&amp;height=2961&amp;auth=aa0dd895c60ebe88941d73300367604f643a3e29ccafb70111930b20bd296791&amp;smart=true" type="image/jpeg" height="2961" width="3948">
-        <media:description type="plain">서울경찰청./뉴스1</media:description>
-        <media:credit role="author" scheme="urn:ebu">뉴스1 ⓒ News1 황덕현 기자</media:credit>
-      </media:content>
-    </item>
-    <item>
-      <title>尹측 “헌재가 법률 어기며 재판... 지금처럼 심리 하면 중대 결심”</title>
-      <link>https://www.chosun.com/national/court_law/2025/02/13/YXFBTA6A4FEWFAGFJ3QSDRYGBE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/02/13/YXFBTA6A4FEWFAGFJ3QSDRYGBE/</guid>
-      <dc:creator>김희래 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 13 Feb 2025 01:21:17 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MQAFXSIOF3Y3JW2YDROVQ6ZSUI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 11일 서울 종로구 헌법재판소에서 열린 윤석열 대통령 탄핵심판 7차 변론기일에 헌법재판관들이 참석해 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;13일 헌법재판소에서 열린 윤석열 대통령 탄핵심판 공개 변론에서 윤 대통령 측이 “헌재가 법률을 위반하며 재판을 진행한다”고 반발하며 한덕수 국무총리와 홍장원 전 국가정보원 1차장을 다시 증인으로 신청했다. 한 총리에 대한 증인신청은 지난 11일 기각됐고, 홍 전 차장에 대한 증인신문은 지난 4일 변론에서 이뤄진 바 있다.&lt;br&gt;&lt;br&gt;이날 윤 대통령 측 대리인단 윤갑근 변호사는 지난 11일 헌재가 한 총리에 대한 윤 대통령 측 증인신청을 기각한 것과 관련해 “한덕수 총리는 국정 2인자로서 계엄선포 당시 국무회의 상황, (야당의) 줄탄핵으로 인한 국정마비, 국정을 발목잡기 위한 (야당의) 위헌입법 등에 대해 누구보다 잘 안다”며 “이 때문에 중요 증인으로 신청했지만 (재판부는) ‘관련성이 떨어진다’는 이유로 기각했다. 그러나 재판부의 구체적 설명이 없어서 기각 이유에 대해 저희는 알 수 없다”고 말했다.&lt;br&gt;&lt;br&gt;윤 변호사는 또 “헌재가 결론, 선고시기를 정해 놓고 달리는 것처럼 명문 법률 규정을 위반하는 등 위법하고 불공정하게 재판을 진행하고 있다”고 했다. 그러면서 “탄핵심판은 단심이고 탄핵은 국민의 주권을 뒤집는 것으로 중대한 사유가 있어야 한다”며 “빠른 결정보다는 공정하고 정확한, 정치적 중립성을 견지한 심리가 중요하다”고 덧붙였다.&lt;br&gt;&lt;br&gt;그는 특히 “지금과 같은 심리가 계속되면 대리인단은 중대한 결심을 할 수밖에 없다”고 말했다. 다만 윤 변호사는 ‘중대한 결심’이 구체적으로 무엇인지에 대해서는 언급하지 않았다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>윤준 前서울고법원장 “사법 신뢰 무너져… 법원 난입, 법원도 스스로 돌아봐야”</title>
