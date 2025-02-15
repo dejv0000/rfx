@@ -13,6 +13,51 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>서울 무학여고에 화재…인명 피해 없어</title>
+      <link>https://www.chosun.com/national/incident/2025/02/15/QRRGB6T3PJCDZAPZN325MBOJYA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/02/15/QRRGB6T3PJCDZAPZN325MBOJYA/</guid>
+      <dc:creator>안준현 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 15 Feb 2025 05:41:58 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5TKUI3ATDBI2LOWNDSFQLXNYUU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;15일 서울 성동구 무학여고에 화재가 발생해 불길과 연기가 치솟고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;15일 오후 1시 29분쯤 서울 성동구 행당동 무학여자고등학교에서 불이 났다. &lt;br&gt;&lt;br&gt;성동구는 “무학여고 별관 급식실 건물에서 화재가 발생했다”며 “학교 인근 접근을 통제 중으로 주민과 차량은 우회를 바란다”고 했다.&lt;br&gt;&lt;br&gt;소방 당국은 소방 1단계를 발령하고, 소방관 96명과 차량 26대를 투입해 화재를 진화 중이다. 화재 발생 2시간 만인 오후 3시 14분쯤 큰 불은 잡혔다. 소방 당국은 화재가 급식이 있는 별관 건물 1층 주차장에서 시작돼 건물 위층으로 번진 것으로 보고 있다. 주차되어 있던 차량에서 화재가 발생했을 수 있다는 것이다. &lt;br&gt;&lt;br&gt;이 화재로 식당 건물 일부가 소실됐으며 1층 주차장에 있던 차량 11대 중 9대가 모두 타고 나머지 2대는 일부가 탔다. 소방 관계자는 “휴일이라 학교 내부에 사람은 없었던 것으로 확인돼 현재까지 인명 피해는 없는 것으로 파악됐다”고 했다. &lt;br&gt;&lt;br&gt;한편 화재가 난 무학여고 바로 옆에 있는 무학중도 화재 피해를 입은 것으로 알려졌다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/R7GCJALLFNETNGWBR54FQKKUPA.png"&gt;&lt;figcaption&gt;&lt;small&gt;15일 서울 성동구 무학여고에 화재가 발생해 불길과 연기가 치솟고 있다. /독자 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/5TKUI3ATDBI2LOWNDSFQLXNYUU.jpg?width=677&amp;height=469&amp;auth=cd232deeece516b766bc63cf4e77aa51d400f12fb2ac20f688c0e31dba2e580f&amp;smart=true" type="image/jpeg" height="469" width="677">
+        <media:description type="plain">&lt;YONHAP PHOTO-2796&gt; 서울 무학여고 급식실서 불…소방당국 진화 중
+    (서울=연합뉴스) 15일 서울 성동구 무학여고에 화재가 발생해 불길과 연기가 치솟고 있다. 소방 당국은 소방 1단계를 발령하고 소방관 등 96명과 차량 26대를 투입해 화재를 진화 중이다.  2025.2.15  [독자 제공. 재판매 및 DB 금지]
+    photo@yna.co.kr/2025-02-15 14:36:31/
+&lt;저작권자 ⓒ 1980-2025 ㈜연합뉴스. 무단 전재 재배포 금지, AI 학습 및 활용 금지&gt;</media:description>
+        <media:credit role="author" scheme="urn:ebu">최원정</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>“난 폐급이다” 복창시키고 취침쇼까지… 후임병 괴롭힌 20대의 최후 </title>
+      <link>https://www.chosun.com/national/national_general/2025/02/15/VKD53U2MJBAPDG3DB2HSXPM4LQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/02/15/VKD53U2MJBAPDG3DB2HSXPM4LQ/</guid>
+      <dc:creator>최혜승 기자 </dc:creator>
+      <description/>
+      <pubDate>Sat, 15 Feb 2025 07:05:42 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OOUBTA7VHFHKHPDUZ53HFGIJP4.png"&gt;&lt;figcaption&gt;&lt;small&gt;/일러스트=조선디자인랩 이연주&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;후임병을 “폐급”이라 부르고 가혹행위를 반복해온 20대가 항소심에서도 벌금형을 선고받았다. &lt;br&gt;&lt;br&gt;춘천지법 형사1부(심현근 부장판사)는 위력행사 가혹행위, 모욕 혐의로 기소된 A(23)씨에 대한 항소심에서 검찰의 항소를 기각하고 원심과 같은 벌금 700만원을 유지했다고 15일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 군 복무 중이던 2023년 4~5월 강원 화천군에 위치한 모 군부대에서 후임병인 B씨를 상대로 가혹행위를 자행하거나 모욕을 준 혐의를 받고 있다. &lt;br&gt;&lt;br&gt;A씨는 2023년 4월 21일 군부대 생활관에서 자신의 틱장애 증상을 다른 부대원들이 따라 하는 모습을 보며 B씨가 웃었다는 이유로 B씨를 1시간가량 재우지 않은 것으로 조사됐다. &lt;br&gt;&lt;br&gt;A씨는 같은 해 5월 B씨에게 취침 쇼를 하라며 노래와 춤을 지시했고, B씨가 거부하자 다른 병사들 앞에서 “폐급”이라고 부르며 욕설을 퍼부었다. 이후 탄약고 근무 요령을 알려준다는 이유로 B씨를 생활관 책상 앞에 앉게 한 뒤 수첩에 자신의 말을 받아 적도록 하고 “이 XX 폐급이라 기억 못 한다”는 등의 욕설을 하며 1시간 30분 동안 잠을 못 자게 했다.&lt;br&gt;&lt;br&gt;A씨는 또 야간 근무를 마친 B씨가 총기를 신속히 통합 보관함에 옮기지 않았다는 이유로 팔굽혀펴기, 주먹 쥐고 엎드려뻗쳐 자세, 앉았다 일어서기 동작 등을 수회 반복시켰다. B씨에게 “난 폐급이다. 난 멍청하다. 난 선임 말을 X으로 듣는다”는 말을 복창하도록 시킨 것으로 조사됐다.&lt;br&gt;&lt;br&gt;A씨는 B씨 자세가 흐트러지면 엉덩이 부위를 발로 차고 엉덩이를 올리지 말라며 베개로 서너 차례 치면서 1시간가량 가혹 행위를 이어갔다.&lt;br&gt;&lt;br&gt;1심은 초범인 점과 가혹 행위의 정도, 피해자와 합의가 이뤄지지 않은 점 등을 종합해 A씨에게 벌금 700만원을 선고했다.&lt;br&gt;&lt;br&gt;검찰은 형이 가볍다며 항소했으나 항소심 재판부는 이를 받아들이지 않았다. 항소심 재판부는 “검사가 항소 이유로 주장하는 사정들은 원심이 평가해 이미 양형에 반영한 것으로 보인다”며 “원심판결 선고 이후 양형에 반영할 만한 새로운 정상이나 형을 변경해야 할 정도로 특별한 사정변경을 찾아볼 수 없다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘중증외상센터’ 원작자, 결국 폭발 “화교 아냐…국방의 의무 다했다”</title>
+      <link>https://www.chosun.com/national/national_general/2025/02/15/5QBNWDHR6FFIJEZCGHVHXCVGQ4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/02/15/5QBNWDHR6FFIJEZCGHVHXCVGQ4/</guid>
+      <dc:creator>이가영 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 15 Feb 2025 06:32:21 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AAISSAHWMC7QQCLHZTIH3V5BGM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;드라마 '중증외상센터'의 한 장면. /넷플릭스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;넷플릭스 인기 드라마 ‘중증외상센터:골든 아워’의 원작 웹소설을 쓴 이낙준(필명 한산이가‧40)씨가 때아닌 화교설에 대해 적극 해명했다. &lt;br&gt;&lt;br&gt;이씨는 14일 유튜브 채널 ‘닥터프렌즈’를 통해 “이런 걸 해명해야 되나 싶긴 한데, 사실 근 한달 간 이런 류의 댓글이 달리더니 오늘은 폭발해서 (해명)한다”며 “저희 화교 아니다”라고 밝혔다. &lt;br&gt;&lt;br&gt;이비인후과 전문의인 이씨는 내과 전문의 우창윤씨, 정신과 전문의 오진승씨와 함께 의료 정보를 공유하는 130만 유튜브 채널 ‘닥터프렌즈’를 운영하고 있다. 이씨가 캡처한 유튜브 댓글에는 “세분 중 두 분이 화교라던데 사실인가요?” “화교프렌즈였음?” 등의 내용이 담겼다. &lt;br&gt;&lt;br&gt;이씨는 “애초에 셋 다 군의관 동기”라며 “대한민국 국민으로서 국방의 의무를 다했다”고 했다. 이씨와 오씨는 항공우주의료원에서, 우씨는 육군 7사단에서 복무했다고 덧붙였다. &lt;br&gt;&lt;br&gt;이씨는 “제 친할아버지, 외할아버지 모두 한국전쟁 참전용사”라며 “친할아버지는 학도병이셨고, 외할아버지는 포병 장교로 미군과 함께 인민군과 중공군에 맞서 1‧4후퇴 당시 최전선에서 싸우셨고 지금은 대전 현충원에 계시다”고 했다. 그러면서 “대체 어디서 무슨 소리가 돌아서 이러시나 싶고, 이 글을 쓰면서도 대체 이게 무슨 의혹인지 모르겠으나 아무튼 저희 화교 아니다”라고 재차 강조했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HBQTYNG72ODIETU7MFLJIBO6YE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;'중증외상센터' 원작 웹소설을 쓴 한산이가(본명 이낙준) 작가. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최근 온라인에서는 “화교 대입 특례로 의대, 한의대, 약대 등에 쉽게 갈 수 있다” “화교특별전형으로 서울대 의대도 간다” 등의 글이 확산했다. 이에 일부 네티즌들이 이씨를 향해서도 화교가 아니냐는 의혹을 제기한 것으로 보인다. &lt;br&gt;&lt;br&gt;온라인에서 언급하는 ‘화교특별전형’이란 대학이 정원 외로 뽑는 외국인특별전형 중에서도 대만 국적 화교의 경우 부모 가운데 한 명만 외국인이어도 지원이 가능하도록 한 것을 말한다. 고등교육법 시행령은 외국인 특별전형 지원 자격으로 ‘부모가 모두 외국인인 외국인’이나 ‘전 교육과정을 해외에서 이수한 재외국민 및 외국인’으로 규정한다. 그런데 화교에게만 완화된 조건을 적용하는 건 특혜라는 게 그 골자다.&lt;br&gt;&lt;br&gt;일부 대학에 이 같은 조항이 생긴 건 상호주의 원칙에 따른 것이었다. 한국 학생이 대만 대학에 지원할 경우, 부모 중 한 명만 한국인이어도 외국인 전형 등으로 지원할 수 있었기 때문이다. &lt;br&gt;&lt;br&gt;하지만 2020년 국정감사에서 형평성에 관한 지적이 나왔고, 한국대학교육협의회(대교협)는 2023학년도부터 대만 국적자도 부모가 모두 외국인이어야 외국인 특별전형에 지원할 수 있도록 가이드라인을 적용했다. ‘화교특별전형’이라는 것도 없지만, 현재는 논란의 원인이 된 조항도 모두 사라졌다는 게 교육계의 설명이다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>한 명 넘어지자 와르르...용문역 에스컬레이터 사고로 13명 부상 </title>
+      <link>https://www.chosun.com/national/2025/02/15/RUTV3SK6LNDH7NP4C7FUODGAJE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2025/02/15/RUTV3SK6LNDH7NP4C7FUODGAJE/</guid>
+      <dc:creator>김준호 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 15 Feb 2025 06:14:15 +0000</pubDate>
+      <content:encoded>경기 양평군 경의중앙선 용문역에서 에스컬레이터 이용하던 승객들이 연달아 넘어지며 13명이 다쳤다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YIZC6CV3CYNM4ELAOCMALXSRGI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기 양평군 경의중앙선 용문역에서 에스컬레이터 이용하던 승객들이 연달아 넘어지며 13명이 다치는 사고가 발생했다. 사진은 기사 내용과는 무관함. /뉴스1
+
+&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;15일 소방당국과 코레일 등에 따르면 이날 낮 12시 16분쯤 경의중앙선 용문역 1번 출구 쪽 상행선 에스컬레이터를 이용중이던 승객들이 연달아 아래로 넘어졌다. 이 사고로 70대 여성 1명이 갈비뼈 골절 등 중상을 입고, 병원으로 옮겨졌다. 나머지 12명은 경상을 입어 인근 병원에서 치료를 받았다. &lt;br&gt;&lt;br&gt;이날 사고는 승객 중 1명이 에스컬레이터 위에서 넘어지면서 뒤에 있던 다른 승객들도 연이어 밀려 넘어지며 발생한 것으로 파악됐다. &lt;br&gt;&lt;br&gt;경찰과 소방당국은 승객이 입고 있던 옷이 에스컬레이터 틈새에 끼면서 사고가 난 것으로 보고, 목격자 증언 등을 토대로 정확한 사고 경위를 조사하고 있다.&lt;br&gt;&lt;br&gt;코레일 측은 “사고 당시 에스컬레이터에서 캐리어가 굴러내려 갔는데, 일부 승객들이 여기에 시선을 빼앗기면서 이후 사고가 난 것으로 추정하고 있다”며 “에스컬레이터 작동에는 이상이 없다”고 밝혔다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>‘강령 준수 필요. 끝’...직원 비리 한 자 없는 감사문 낸 공기업 어딘가 보니</title>
       <link>https://www.chosun.com/national/welfare-medical/2025/02/15/CFGOWSBZHNDVLDYI4ABA4YVHM4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/02/15/CFGOWSBZHNDVLDYI4ABA4YVHM4/</guid>
@@ -849,15 +894,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DOI2KNR2YOHBPEAONA4PZ5DRCM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울북부지법./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;새만금 수상 태양광 발전사업과 관련해 정·관계 인사에 로비하는 대가로 돈을 챙긴 혐의를 받는 브로커 서모씨가 2심에서도 1심과 같이 징역 1년 6개월을 선고받았다. 서울북부지법 형사항소2부(재판장 강영훈)는 14일 특정범죄 가중처벌법상 알선수재 혐의로 기소된 군산시민발전주식회사 대표 서모씨에게 1심과 같은 징역 1년 6개월을 선고했다. &lt;br&gt;&lt;br&gt;서씨는 2020년 전북 군산 지역 공무원을 비롯한 정·관계 인사들에게 새만금 수상 태양광 발전사업과 관련한 청탁을 하는 대가로 업계 관계자로부터 1억원 상당을 받은 혐의로 지난해 5월 재판에 넘겨졌다. 검찰은 신 의원이 서씨로부터 1억원 상당의 금품을 받은 혐의가 있다고 판단해 작년 12월 신 의원을 특정범죄가중법상 뇌물 등 혐의로 불구속 기소한 바 있다.&lt;br&gt;&lt;br&gt;재판부는 형량 산정을 변동할 사정이 없다면서 검찰과 서씨의 항소를 모두 기각했다. 재판부는 “원심에서 뇌물 범죄의 중대성을 고려했고 연루한 사정을, 실질적 이익이 없는 사정을 고려해 양형했다”며 양형 이유를 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>‘접근금지’ 어기고 아내 찾아가 협박‧스토킹…50대 공무원 ‘징역 2년’</title>
-      <link>https://www.chosun.com/national/court_law/2025/02/14/4J3BBDJ4NVELVK4LVSUGWZOQBI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/02/14/4J3BBDJ4NVELVK4LVSUGWZOQBI/</guid>
-      <dc:creator>인천=이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 14 Feb 2025 02:35:56 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AZWLNE2CUVC4BNXL5R7VBKVCJY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;인천지방법원./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;접근금지 대상인 아내를 찾아가 협박하고 스토킹한 50대 공무원에게 징역형이 선고됐다. &lt;br&gt;&lt;br&gt;인천지법 형사5단독 홍준서 판사는 14일 상해와 협박, 스토킹 범죄의 처벌 등에 관한 법률 위반 등 혐의로 구속기소 된 A(58)씨에 대해 징역 2년을 선고했다. 홍 판사는 또 A씨에게 40시간의 스토킹 치료 프로그램 이수를 명령했다. &lt;br&gt;&lt;br&gt;홍 판사는 이날 법정에서 따로 구형 사유를 설명하지 않았다. &lt;br&gt;&lt;br&gt;A씨는 지난해 50대 아내 B씨에 대한 폭행으로, 임시 접근금지조치 명령을 받고도 B씨를 찾아가 살해하겠다고 협박하거나 휴대전화로 연락해 스토킹한 혐의 등으로 구속기소 됐다.&lt;br&gt;&lt;br&gt;A씨의 아내는 20년 넘게 요양원이나 보육원, 학대피해아동쉼터 등에 매년 수천 켤레의 양말을 기부해 언론 등에 소개되기도 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>“하늘아 엄마는 어찌 살라고” ...통곡의 작별</title>
       <link>https://www.chosun.com/national/incident/2025/02/14/BJYODPSBUVDNXDKAIPMO4TEYRA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/02/14/BJYODPSBUVDNXDKAIPMO4TEYRA/</guid>
@@ -874,15 +910,6 @@
       <description/>
       <pubDate>Fri, 14 Feb 2025 02:11:35 +0000</pubDate>
       <content:encoded>검찰이 대가성 금품을 받은 혐의로 기소된 송철호 전 울산시장에게 무죄를 선고한 1심 판결에 불복해 항소했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UZX7RE7MUJLGJGQYJCYRHDXKYY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 7일 송철호 전 울산시장이 울산지방법원에서 열린 사전뇌물수수 및 정치자금법 위반 혐의 선고공판에서 무죄를 선고받고 취재진 질문에 답하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;울산지검은 사실오인과 법리 오해를 이유로 울산지법에 항소장을 제출했다고 14일 밝혔다. 검찰은 “원심 판단이 일부 증거들에 대한 판단을 누락한 채 일부만 인정한 것 같다”고 항소 이유를 밝혔다. &lt;br&gt;&lt;br&gt;송 전 시장은 지방선거 직전인 2018년 6월 5일 자신의 선거사무실에서 지역 중고차 매매업체 대표인 A씨로부터 2000만원을 받은 혐의로 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;앞서 검찰은 A씨가 당시 송철호 울산시장 후보 선거사무소에 찾아가 빈 골프공 상자에 현금을 넣어 제공한 것으로 보고 송 전 시장에게 징역 2년과 추징금 2000만원을 구형했다.&lt;br&gt;&lt;br&gt;1심 재판부는 송 전 시장과 A씨 사이에 금품이 오간 증거가 없다고 판단했다. 재판부는 “당시 선거사무소는 여러 사람으로 붐볐고 문도 열려 있어 금품을 주고받기 쉽지 않았다”며 “금품을 주고받은 것을 목격한 사람도 없다”고 했다. 또 “당시 송 후보가 상대 후보를 20% 이상 앞선 상황에서 굳이 금품을 받아 정치생명 부활의 기회를 위태롭게 할 이유도 없어 보인다”고 했다.&lt;br&gt;&lt;br&gt;A씨에 대해선 징역 2년을 선고했다. 그에게 뇌물을 받은 혐의를 받는 전 울산시민신문고위원회 위원 B씨에게도 징역 3년 6개월을 선고하고, 벌금 5000만원 추징을 명령했다.&lt;br&gt;&lt;br&gt;송 전 시장의 선거캠프 통합선거대책본부장 C씨에게는 징역 2년을, 송 전 시장 선거캠프 상황실장 D씨에게는 벌금 500만원을 각각 선고했다.&lt;br&gt;&lt;br&gt;법원은 A씨가 이들에게 민원 해결을 위해 금품을 건넨 것은 맞지만, 이 금품이 송 전 시장에게 전달됐다는 증거는 없다고 판단했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>강남구, 운전면허 반납하는 고령 운전자에 최대 50만원 교통카드 지급</title>
-      <link>https://www.chosun.com/national/national_general/2025/02/14/EWG6CU64J5H7HHEPUEXR4UF2WM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/02/14/EWG6CU64J5H7HHEPUEXR4UF2WM/</guid>
-      <dc:creator>김영우 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 14 Feb 2025 02:02:58 +0000</pubDate>
-      <content:encoded>서울 강남구는 다음 달부터 70세 이상 고령 운전자가 운전면허를 반납하면 최대 50만원이 충전된 교통카드를 지급한다고 14일 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SSUCGMOOIJEANFKC2GVEXKVT6M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난해 7월 3일 오전 대전 동구 도로교통공단 대전운전면허시험장 강의실에서 75세 이상 운전자들이 ‘고령 운전자 교통안전교육’을 받고 있다. /신현종 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;강남구에 따르면, 강남구에 살고 있는 70세 이상 운전면허 소지자는 2022년 3만1000명에서 지난해 3만7000명으로 6000명 증가했다. 이 중 지난해 면허를 반납한 사람은 1296명으로, 전체의 3.5%에 불과했다.&lt;br&gt;&lt;br&gt;강남구는 고령 운전자의 면허 반납을 유도하기 위해, 운전자가 면허를 반납하면 30만원을 추가 지급하기로 했다. 지난해 20만원에서 10만원 올린 것이다.&lt;br&gt;&lt;br&gt;강남구 관계자는 “서울시에서 지급하는 20만원과 별도로 30만원을 추가 지급해, 총 50만원을 받을 수 있게 된다”고 설명했다.&lt;br&gt;&lt;br&gt;다만 강남구는 자동차보험 가입 여부를 확인한 후, 보험에 가입돼 있는 사람에게만 교통비 50만원을 지급할 계획이다. 자동차보험에 가입돼 있지 않다면 서울시에서 지원하는 20만원만 받을 수 있다. 지원금은 교통카드에 충전해 지급한다.&lt;br&gt;&lt;br&gt;강남구 관계자는 “실제 운전을 하고 있는 고령 운전자의 면허 반납을 유도한다는 취지”라고 했다.&lt;br&gt;&lt;br&gt;면허 반납을 원하는 구민은 운전면허증과 자동차보험 가입 확인서를 지참해 동 주민센터에 들러 접수하면 된다.&lt;br&gt;&lt;br&gt;조성명 강남구청장은 “운전면허 반납과 함께 대중교통 중심의 정책을 강화해 어르신들이 보다 편리하고 안전하게 이동할 수 있는 환경을 조성하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>‘경명구’ ‘서곶구’ ‘서해구’ ‘청라구’…인천 서구, 방위식 명칭 대신할 이름 찾기 본격화</title>
@@ -930,15 +957,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RAZIGCYY2VPW3O7K7ERQY2E6KM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난해 12월 31일 오후 서울 양천구 목동 깨비시장에서 70대 남성이 몰던 차량 돌진 사고가 발생해 13명이 사상했다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난해 목동 깨비시장에서 차량 사고를 일으켜 1명을 사망하고 12명을 다치게 한 70대 운전자가 검찰에 넘겨졌다.&lt;br&gt;&lt;br&gt;서울 양천경찰서는 운전자 A(75)씨를 교통사고처리특례법상 업무상과실 치사상 혐의로 14일 불구속 송치했다고 이날 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 사고 직후 실시한 병원 정밀검사에서 ‘초기 알츠하이머 치매’로 진단 받고 현재 요양시설에서 입소 생활 중이다. 그는 2023년 11월부터 약 4개월 간 경도 인지장애로 약물치료를 받았으나 자의로 치료를 중단했다고 조사됐다. 경도 인지장애는 현행 도로교통법상 운전면허 수시적성검사 대상에는 해당하지 않는다.&lt;br&gt;&lt;br&gt;경찰 조사 결과 A씨는 평소 차량 방전을 예방하기 위해 월 2회 가량 사고차량을 운행해왔고, 사고 당일에도 주거지에서 나와 특별한 행선지 없이 약 두시간 가량 차량을 운행 후 귀가하던 중이었다. A씨는 제한 속도가 시속 30km이던 목동 깨비시장 부근 내리막 도로를 시속 60km의 속도로 내려오다가, 우측에서 정차 후 출발하던 마을버스를 추월하기 위해 가속하던 중 주거지 방향으로 좌회전하지 못하고 그대로 직진해 시속 76.5km의 속도로 시장에 돌진했다고 한다.&lt;br&gt;&lt;br&gt;경찰은 “A씨가 본인 과실을 인정했다”며 “폐쇄회로(CC)TV에 나타난 제동등 점등과 차량 속도, 피의자 진술을 고려했을 때 차량 결함 가능성은 없는 것으로 본다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>졸속 논란에 한발 물러선 헌재… ‘2월 선고’는 어려울 듯</title>
-      <link>https://www.chosun.com/national/court_law/2025/02/14/FXLH5BSDWNEWJAYSW6JNRYCUDU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/02/14/FXLH5BSDWNEWJAYSW6JNRYCUDU/</guid>
-      <dc:creator>김희래 기자, 박강현 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 13 Feb 2025 15:55:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6ETT5T7UBBPQHJXFQQ7R6PVAHU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;13일 서울 종로구 헌법재판소에서 열린 탄핵 심판 8차 변론에 출석한 윤석열(왼쪽) 대통령이 김계리 변호사와 대화하고 있다./헌법재판소&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 대통령 탄핵 심판의 변론 기일 추가 여부에 대해 말을 아껴온 헌법재판소가 오는 18일을 추가 기일로 지정한 것은, 최근 불거진 ‘졸속 논란’을 의식한 조치로 보인다. 헌재가 절차적 흠결을 무시한 채 재판 마무리에 급급하다는 비판이 거세졌고, 윤 대통령 측도 이를 문제 삼아 “중대 결심을 하겠다”고 밝혔기 때문이다.&lt;br&gt;&lt;br&gt;13일 문형배 헌법재판소장 권한대행은 18일을 윤 대통령 탄핵 심판의 증거조사 기일로 정했다. 증거로 채택됐지만 그동안 조사가 이뤄지지 않은 증거들을 심리하겠다는 것이다. 헌재는 지난 12일까지도 추가 기일에 대해 “정해지지 않았다”고만 했는데, 기류가 살짝 변한 것이다. 헌재는 이날 국민의힘 소속 의원들이 우원식 국회의장을 상대로 낸 ‘한덕수 총리 탄핵 정족수’ 관련 권한쟁의 심판 변론기일도 19일로 지정했다. 사건이 접수된 지 48일 만이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/X2RT6CVDUFHS7DVMKP5EFELICA.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=백형선&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;◇추가 증인 신문 이뤄질까&lt;br&gt;&lt;br&gt;헌재는 14일 재판관 평의를 열고 윤 대통령 측 추가 증인을 채택할지 여부에 대해서도 논의하기로 했다. 윤 대통령 측은 이날 한덕수 국무총리와 홍장원 전 국가정보원 1차장을 다시 증인으로 신청했다. 지난 10일 강의구 대통령비서실 1부속실장과 박경선 전 서울동부구치소장, 신용해 법무부 교정본부장도 증인으로 신청해 둔 상태다.&lt;br&gt;&lt;br&gt;평의에서는 추가 증인 5명과, 건강상의 이유로 변론에 출석하지 못한 조지호 경찰청장을 다시 부를지 여부도 논의된다. 추가 증인이 채택되면 이들을 신문하기 위해 증거 조사를 위한 기일(18일) 외에 변론 기일을 한 차례 더 잡을 수도 있다.&lt;br&gt;&lt;br&gt;그러나 윤 대통령 측이 신청한 증인이 모두 받아들여질 가능성이 낮고, 헌재가 하루에 증인 3~4명씩을 몰아 증인신문을 진행한 점에 비춰보면 추가 기일이 지정돼도 한 차례에 그칠 가능성이 높다. 이후 국회와 윤 대통령 측 최후 진술을 듣기 위해 다시 변론기일을 잡더라도 이론상 이달 마지막 주엔 모든 변론을 마칠 수 있다.&lt;br&gt;&lt;br&gt;◇평의·평결 거쳐 결정문 작성&lt;br&gt;&lt;br&gt;변론이 종결되면 헌재는 재판관 ‘평의’를 통해 최종 결정을 논의한다. 통상 주심 재판관이 사건 검토 내용을 발표하고, 재판관끼리 의견을 교환하는 식이다. 평의를 마무리하는 ‘평결’에서는 주심 재판관이 탄핵 여부 등에 대해 의견을 내고, 후임 재판관부터 역순으로 의견을 낸 뒤 재판장이 마지막으로 의견을 내는 것이 관례다. 윤 대통령 탄핵 심판의 주심은 정형식 재판관이고, 재판장은 문 권한대행이다.&lt;br&gt;&lt;br&gt;평결을 마치면 연구관들이 자료와 심리 결과를 요약한 뒤 주심 재판관이 다수 의견을 토대로 결정문 초안을 만든다. 주심이 소수의견을 낸 경우 다수의견을 낸 재판관 중 한 명이 결정문 작성을 담당한다. 소수 의견이더라도 별도 제출해 결정문에 반영할 수 있다. 통상 평의부터 결정문 작성까지 1~2주 정도가 소요된다.&lt;br&gt;&lt;br&gt;박근혜·노무현 전 대통령은 각각 최종 변론기일 후 11, 14일 만에 선고가 내려졌다. 이런 전례와 현재 윤 대통령 탄핵 심판 일정을 고려하면 이르면 3월 초 선고가 가능하다.&lt;br&gt;&lt;br&gt;◇인용 시 파면, 기각 시 보석 예상&lt;br&gt;&lt;br&gt;대한민국 헌법 제68조는 ‘대통령이 궐위된 때 또는 대통령 당선자가 사망하거나 판결 기타의 사유로 그 자격을 상실한 때에는 60일 이내에 후임자를 선거한다”고 규정하고 있다. 헌재가 윤 대통령에 대한 탄핵소추안을 인용할 경우 차기 대선은 이르면 5월 초 치러질 것으로 예상된다.&lt;br&gt;&lt;br&gt;탄핵소추안이 기각될 경우 대상이 된 공직자는 즉시 직무에 복귀하게 된다. 윤 대통령은 현재 내란 우두머리 혐의 등으로 구속돼 있지만, 탄핵이 기각될 경우 보석 등으로 풀려날 가능성이 높다. 차진아 고려대 법학전문대학원 교수는 “구속 상태가 몇 달간 유지되는 상태에서 대통령이 옥중 직무 수행을 한다면 국가적으로 큰 혼란을 초래할 것”이라며 “탄핵이 기각되면 대통령 측에서 보석을 청구할 것이고, 방어권 보장, 국정 안정 등 차원에서 법원이 보석을 허가할 가능성이 높다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[단독] ‘마취 보따리상’으로 나선 마취과 교수들</title>
       <link>https://www.chosun.com/national/welfare-medical/2025/02/14/IFRIAMXFOJCBZI6ZGINPSFSZPY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/02/14/IFRIAMXFOJCBZI6ZGINPSFSZPY/</guid>
@@ -946,23 +964,6 @@
       <description/>
       <pubDate>Thu, 13 Feb 2025 20:02:00 +0000</pubDate>
       <content:encoded>지난 2023년 국내 최대 병원인 서울아산병원에서 집단 사직한 마취통증의학과 교수 5명 중 3명은 현재 ‘마취 프리랜서’로 일하고 있는 것으로 13일 알려졌다. 우리나라 최고 병원에서 중환자를 보고 학생을 가르치던 교수가 여러 병원을 돌아다니며 마취를 하는 ‘개인 사업자 의사’로 변신한 셈이다. 의료계 은어로 이들을 ‘보따리상’이라 표현하기도 한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/T5FXHZEU7VHKBM6XTLUHGNYXUY.png"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=양진경&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대학 병원의 마취과는 필수 진료과다. 마취과 의사가 없으면 암·소아 환자 같은 중환자 수술을 못 한다. 전신 마취 중 환자의 바이털 사인(호흡·맥박 등)을 관리하고, 환자가 무사히 마취에서 깨어날 수 있도록 하는 고도의 전문성을 갖고 있기 때문이다.&lt;br&gt;&lt;br&gt;필수 진료과 의사의 ‘고통’도 똑같이 겪는다. 의료계 인사들은 “전신 마취 수가(건보공단이 병원에 주는 돈)는 원가에도 못 미치고, 마취과 의사는 잦은 당직과 의료 소송에 휘말린다”고 했다.&lt;br&gt;&lt;br&gt;바깥 상황은 정반대다. 숙련된 대학 병원 마취과 교수가 워라밸을 챙기면서 돈은 2~3배 벌 수 있는 길이 많기 때문이다. 대표적인 게 ‘프리랜서’다. 한 전문 병원장은 “전에는 외부 마취과 의사에게 하루 150만원 정도를 지급했는데, 이젠 수요가 더 많아져 하루 250만~300만원을 줘야 한다”며 “그래도 사람이 없다”고 했다. 부산의 한 대학 병원 교수는 “외부 마취과 의사가 야간 수술까지 참여하면 하루 500만원 정도를 받는다”며 “한 달에 나흘만 일하면 나머지는 쉴 수 있는 셈”이라고 했다.&lt;br&gt;&lt;br&gt;마취통증의학과로 개원을 해도 전망이 좋다. 비급여인 도수 치료와 체외 충격파(통증 완화 시술), 통증 주사 등을 통해 당직·소송의 피로 없이 고소득을 올리는 경우가 많다. 2022년 기준 마취통증의학과 개원의의 평균 소득은 3억9100만원으로 안과, 정형외과 등에 이어 4위를 기록했다.&lt;br&gt;&lt;br&gt;수도권의 한 마취과 의사는 “중환자 없는 중형 병원에 취업을 하면 소송 부담 없이 월급은 대학 병원 때보다 두 배를 받을 수 있다”고 했다.&lt;br&gt;&lt;br&gt;상황이 이렇다 보니 대형 병원은 극심한 마취과 의사난에 시달리고 있다. 특히 이런 현상은 작년 2월 시작된 의정 갈등 이후 더 심해졌다. 기존엔 마취과 전공의들도 수술실에 들어갔고, 교수는 본인이 맡은 수술 환자가 안정되면 제자들의 수술실을 돌며 감독을 했다. 그런데 의정 갈등으로 마취과 전공의들이 대학 병원을 떠났고, 그 여파로 피로가 누적된 교수들도 덩달아 사직하고 있는 것이다.&lt;br&gt;&lt;br&gt;서울의 한 대형 병원 교수는 “수술을 해야 하는데 마취과 의사가 없을 때가 많아 큰 병원들도 외부에서 프리랜서를 불러 수술하는 경우가 적지 않다”고 했다. 전담 마취과가 있는 한 국립대 병원도 최근 ‘프리랜서’를 불러 수술을 하고 있다고 한다. 의료계 인사들은 “경기도 북부와 부산의 한 대학병원에도 ‘마취과 프리랜서’를 종종 부른다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>보조배터리·전자담배, 항공기 선반에 못 둔다... 충전도 금지</title>
-      <link>https://www.chosun.com/national/transport-environment/2025/02/13/QOVHLKPEZNBFRLWYBAHXPOQHXI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/02/13/QOVHLKPEZNBFRLWYBAHXPOQHXI/</guid>
-      <dc:creator>김아사 기자</dc:creator>
-      <description>다음 달부터 항공기 내 짐을 싣는 선반에 보조배터리나 전자담배를 둘 수 없다.</description>
-      <pubDate>Thu, 13 Feb 2025 11:16:01 +0000</pubDate>
-      <content:encoded>다음 달부터 항공기 내 짐을 싣는 선반에 보조 배터리나 전자담배를 둘 수 없다. 기내 좌석에 있는 USB 포트를 통해 보조 배터리 등을 충전하는 것도 금지된다.&lt;br&gt;&lt;br&gt;국토교통부는 이런 내용의 ‘보조 배터리, 전자담배 안전 관리 체계 표준안’을 마련해 3월 1일부터 시행한다고 13일 밝혔다. 지난달 28일 발생한 에어부산 화재 사고의 원인은 아직 밝혀지지 않았지만, 보조 배터리 화재 위험에 대한 불안이 커지자 선제적으로 대응에 나선 것이다.&lt;br&gt;&lt;br&gt;현재 국토부 규정 등에 따르면, 160Wh(와트시)를 넘지 않는 리튬 보조 배터리는 2개까지 기내에 소지할 수 있고 100Wh를 넘지 않는 보조 배터리의 경우 5개까지 가지고 탈 수 있다. 시중에 흔히 판매되는 보조 배터리 용량은 37~75Wh다.&lt;br&gt;&lt;br&gt;국토부는 탑승 수속 시 보조 배터리에 대한 검색 절차를 강화한다. 출발 전까지 최대 5차례에 걸쳐 반입 관리 수칙을 안내할 예정이다.&lt;br&gt;&lt;br&gt;기내 반입이 허용된 보조 배터리라도 지퍼백 같은 비닐이나 파우치(케이스) 등에 보관하거나, 충전 단자가 노출된 경우 절연 테이프로 가려야 한다. 다른 물질 등과 닿는 걸 막아 화재를 방지하려는 취지다. 국토부는 “승객이 비닐 등을 준비 못 했을 경우를 위해 체크인 카운터와 기내에 합선 방지용 비닐 등을 비치할 것”이라고 했다.&lt;br&gt;&lt;br&gt;보조 배터리 등을 지퍼백에 넣었다 해도 기내 선반 보관은 금지된다. 반드시 몸에 소지하거나 좌석 주머니에 보관해야 한다. 화재 등 이상 징후 발생 시 즉각 대응하기 위해서다. 미승인 보조 배터리 반입 등 규정 위반이 의심될 경우 항공사 직원은 승객의 짐을 추가 검색할 수 있다.&lt;br&gt;&lt;br&gt;다만, 보조 배터리나 전자담배를 제외한 휴대전화나 노트북 등 배터리가 내장된 전자기기는 자체 합선 방지 장치가 내장돼 있어 이번 조치와 상관없이 기내 충전이 가능하고, 선반에 보관할 수 있다. 국토부는 에어부산 화재 원인이 보조 배터리로 밝혀질 경우 기내 반입 절차를 강화하는 식의 더 강한 규제 도입 여부도 검토할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/34O2Y2YXBFLZDP2OFMFWCW33KQ.JPG?width=4516&amp;height=2616&amp;auth=9c61fef67ba074dc95527dbf16c46232fbfa73ff1470588dc67a5c916f31cfe0&amp;smart=true" type="image/jpeg" height="2616" width="4516">
-        <media:description type="plain">(부산=뉴스1) 윤일지 기자 = 여객기 화재 사고를 겪은 에어부산이 탑승객을 대상으로 보조배터리 소지 유무를 검사하고 확인이 완료된 가방만 기내 선반 위로 올릴 수 있도록 규정을 강화하는 '기내 화재 위험 최소화 정책'을 수립해 7일부터 시행한다. 
-
-이는 지난달 김해공항에서 발생한 여객기 화재 사고에 따른 후속 조치로 사고 원인을 조사 중인 상황에서 원인으로 지목되는 보조배터리에 대해 선제적 대책을 마련한 것이다. 
-
-사진은 이날 오후 부산 강서구 김해국제공항 국제선 에어부산 출국 수속장 전광판에 나오는 보조배터리 기내 선반 탑재 금지 안내문. 2025.2.7/뉴스1</media:description>
-        <media:credit role="author" scheme="urn:ebu">(부산=뉴스1) 윤일지 기자</media:credit>
-      </media:content>
     </item>
     <item>
       <title>헌재, 尹 탄핵심판 추가 기일 지정…2월 18일 9차 변론</title>
