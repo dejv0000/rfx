@@ -13,6 +13,97 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>명태균, 檢 조사서 “오세훈, 2021년 보궐선거 때 네 번 만났다” 진술</title>
+      <link>https://www.chosun.com/national/court_law/2025/02/16/NZOUF3UKNNCNDLFGHLGTQAJNTA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/02/16/NZOUF3UKNNCNDLFGHLGTQAJNTA/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 16 Feb 2025 13:05:47 +0000</pubDate>
+      <content:encoded>‘공천 거래’ 혐의로 구속 기소된 정치 브로커 명태균씨가 검찰 조사에서 “2021년 보궐선거 당시 오세훈 서울시장 후보를 네 번 만났다”는 취지로 진술한 것으로 16일 전해졌다. 오 시장 측은 본지에 “여러 번 만나서 뭘 했다는 것인지 수사해달라는 입장을 검찰에 여러 번 촉구한 바 있다”며 “검찰은 하루빨리 수사하기 바란다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5EF5WHOKVJNPG42NRQKXZ7MUQE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;공직선거법 위반 혐의를 받고 있는 명태균씨가 창원교도소로 가기 위해 호송차에 탑승하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 명씨는 지난해 말 창원지검 전담수사팀(팀장 이지형 차장검사) 조사에서 오 시장과 만난 횟수를 4번으로 특정해 진술한 것으로 전해졌다. 검찰은 2021년 2~3월 서울시장 보궐선거를 앞두고 오 후보의 후원자인 김모씨가 명씨 측에 5차례에 걸쳐 총 3300만원을 보낸 정황을 확보하고, 돈의 성격을 수사하는 중이다. &lt;br&gt;&lt;br&gt;명씨가 실질적인 운영자로 알려진 미래한국연구소가 오 시장을 위해 이 기간 총 13차례에 걸쳐 미공표 여론조사를 실시했다는 것이 공천 거래 의혹을 처음 폭로한 강혜경씨의 주장이다. 강씨는 작년 11월 25일 검찰에 출두하며 취재진과 만나 “(여론조사 결과가) 오세훈 측에 정확하게 갔다고 생각한다”고 했다. 김씨가 보낸 돈은 이 여론조사 결과에 대한 대가라는 취지의 주장이다.&lt;br&gt;&lt;br&gt;명씨의 진술은 “두 번 만남이 있었다”는 오 시장의 주장과는 배치된다. 오 시장은 “2021년 1월쯤 명씨가 찾아와 두 번 만난 적은 있지만, 여론조사에 대한 견해 차이로 다툰 뒤로는 본 적도, 관심을 가진 적도 없다”고 밝힌 바 있다. 김씨가 3300만원을 줬다는 의혹에 대해선 “본인은 저를 도우려고 그랬다고 생각하겠지만 잘못된 판단이다”라고 했다. 미래한국연구소의 여론조사 결과를 보고받은 적도 없고, 김씨가 조사 비용을 대신 내 준 것도 몰랐다는 취지다. &lt;br&gt;&lt;br&gt;이날 오 시장 측은 본지에 “(명씨가 나를) 여러번 만나서 뭘 했다는 것인지, 검찰에 수사해달라고 여러 번 촉구했다”며 “선거 사무실에 명씨가 기웃거리며 아는 척 한 것까지 모두 언급한다면 (네 번) 그 이상이지 않겠나”라는 입장을 밝혔다. 그러면서 “검찰은 하루빨리 수사하기 바란다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/S3MKYZEX35K67FE6PL2FME37F4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;오세훈 서울시장이 작년 12월 3일 서울 중구 서울시청 브리핑실에서 열린 명태균 사건 관련 기자간담회에 참석하고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;오 시장 측 법률대리인은 지난 3일 창원지검에 명씨 등에 대한 신속한 수사를 촉구하는 의견서를 제출하면서 “사건을 접수한 지 2개월이 지난 지금까지 수사에 아무런 진척이 없고, 의혹이 해소되지 않고 있어 고소인의 명예가 더욱 실추되고 있다”고 주장했다. 오 시장은 작년 12월 3일 명씨 등 12명을 정보통신망법상 명예훼손 등 혐의로 검찰에 고소한 바 있다.&lt;br&gt;&lt;br&gt;한편, 수사팀은 이르면 오는 17일 명씨를 둘러싼 의혹에 대한 중간 수사 결과를 발표할 계획이다. 수사팀은 명씨가 김영선 전 의원 및 지방선거 예비 후보 2명으로부터 공천을 대가로 금품을 수수했다는 혐의(정치자금법 위반)는 작년 12월 기소했다. 김 전 의원의 공천에 명씨와 윤석열 대통령 부부가 개입했다는 의혹과 관련해선 당시 국민의힘 공천관리위원들을 서울동부지검 청사로 불러 공천 과정 전반을 조사한 것으로 전해졌다. 공천 당시 국민의힘 대표였던 이준석 개혁신당 의원도 최근 참고인 신분으로 출석해 조사를 받았다고 한다. 윤석열 대선 후보를 돕겠다며 81차례에 걸쳐 여론조사를 실시하는 과정에서 데이터 등을 조작했다는 의혹, 창원국가산업단지 부지 선정 과정에 개입했다는 의혹 등은 수사 중이다.&lt;br&gt;&lt;br&gt;이 밖에도 수사팀은 작년 12월 명씨가 지난 2022년 3월 치러진 대선 기간을 포함해 2019년 9월부터 작년 11월까지 사용한 ‘황금폰’ 등 휴대전화 3대와 USB 1개를 확보한 상태다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>양산 원동면서 산불.. 진화중 “인명피해 없어”</title>
+      <link>https://www.chosun.com/national/regional/2025/02/16/6JU2JHUKPFA5VLTWKTSJOXKLGY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/02/16/6JU2JHUKPFA5VLTWKTSJOXKLGY/</guid>
+      <dc:creator>양산=김주영 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 16 Feb 2025 14:04:58 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BU7SL66MGBCHNCGRBT7PBWCV2A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;사진은 산림청 로고&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;16일 오후 8시 12분쯤 경남 양산시 원동면 용당리 산에서 불이 나 산림 당국이 진화중이다.&lt;br&gt;&lt;br&gt;산림청과 경남소방본부에 따르면 산림 당국은 진화 차량 16대, 진화인력 95명을 투입해 진화작업을 벌이고 있다. 오후 10시 30분 현재 불은 절반 정도 진화가 이뤄졌으며, 불이 더 확산할 우려는 없는 것으로 파악됐다. 현재까지 인명 피해는 없는 상태다.&lt;br&gt;&lt;br&gt;산림 당국은 진화작업을 마무리하는 대로 산불조사를 실시해 정확한 화재 원인과 피해 면적 등을 조사할 계획이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“김새론, 개명하고 카페 개업·연예계 복귀 준비했었다”</title>
+      <link>https://www.chosun.com/national/national_general/2025/02/16/I53ESSKEG5CSZM7YITFY6VBP7I/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/02/16/I53ESSKEG5CSZM7YITFY6VBP7I/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 16 Feb 2025 12:39:07 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Q34PCF5YQPQXQMTYDX53K3LF7E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;배우 김새론. /뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;배우 김새론(25)이 16일 자택에서 숨진 채 발견됐다. 지인에 따르면 김새론은 개명을 하고 카페 개업·연예계 복귀 등 새출발을 준비해온 것으로 알려졌다.&lt;br&gt;&lt;br&gt;김새론의 지인은 이날 이데일리와의 인터뷰에서 “지난해 말 김새론을 만났다”라며 “김새론이 ‘김아임’이라는 이름으로 개명을 하고 새로운 출발을 하려고 했다”고 전했다.&lt;br&gt;&lt;br&gt;김새론의 지인은 “김새론은 지인들과 카페 개업도 준비를 하고 연예계 복귀도 준비를 했는데 지금 이 비보가 믿기지 않는다”고 했다.&lt;br&gt;&lt;br&gt;음주운전 사고로 활동을 중단했던 김새론은 지난 2023년 재판에서 ‘생활고’를 호소했었다. 김새론 측은 “현재 소녀 가장으로 가족을 부양하고 있으며, 피해 배상금을 지불하고 생활고를 겪고 있다”며 선처를 요청했다. &lt;br&gt;&lt;br&gt;김새론은 활동 중단 이후 영화 ‘기타맨’으로 복귀를 준비하고 있었다. 영화 ‘기타맨’은 언더밴드 볼케이노에 천재 기타리스트가 합류하는 이야기를 담았다. 올해 상반기에 개봉할 예정이다.&lt;br&gt;&lt;br&gt;서울 성동경찰서에 따르면 이날 오후 4시 54분쯤 서울 성동구의 한 자택에서 김씨가 숨진 채 발견됐다.&lt;br&gt;&lt;br&gt;경찰은 “이날 김씨를 만나기로 약속한 김씨의 친구가 발견 후 신고했다”며 “외부 침입 흔적 등 범죄 혐의점이 발견되지 않았다. 사망 경위는 계속 수사 중”이라고 밝혔다.&lt;br&gt;&lt;br&gt;김새론은 2001년 잡지 ‘앙팡’ 표지 모델로 데뷔했고, 2010년 영화 ‘아저씨’에 출연해 대중에 이름을 알렸다.&lt;br&gt;&lt;br&gt;김새론은 2022년 5월 18일 서울 강남구 학동사거리 인근에서 음주 상태로 운전을 하다가 가드레일, 가로수, 변압기 등을 들이받는 사고를 낸 후 모든 활동을 중단했다. 이 사건으로 넷플릭스 시리즈 ‘사냥개들’에서 김새론의 분량이 대거 편집되기도 했다. 지난해에는 연극 ‘동치미’를 통해 복귀를 시도했으나 비판 여론에 부딪혀 자진 하차했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>강원 홍천 공작산서 60대 등산객 쓰러져 숨져</title>
+      <link>https://www.chosun.com/national/regional/2025/02/16/VOSZ3QHJKFGA5HNUQUAKXXPK2I/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/02/16/VOSZ3QHJKFGA5HNUQUAKXXPK2I/</guid>
+      <dc:creator>김주영 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 16 Feb 2025 12:03:51 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WXGESZBBPTZNUHWNW4TZ3YUGPY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;홍천 공작산의 정상부 모습. /조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;16일 낮 12시 38분쯤 강원 홍천군 영귀미면 인근 공작산에서 60대 등산객이 하산 중 쓰러졌다.&lt;br&gt;&lt;br&gt;A씨는 출동한 119산악구조대에 의해 구조돼 소방 헬기로 인근 병원에 이송됐으나 숨졌다.&lt;br&gt;&lt;br&gt;경찰은 일행 등을 상대로 경위를 조사 중이다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>영화 ‘아저씨’ 배우 김새론, 자택서 숨진 채 발견 </title>
+      <link>https://www.chosun.com/national/incident/2025/02/16/6EAYMQMZIJC5PCQADRXATCFQKU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/02/16/6EAYMQMZIJC5PCQADRXATCFQKU/</guid>
+      <dc:creator>안준현 기자, 조민희 기자, 이민경 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 16 Feb 2025 11:53:45 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QULMPPJY3VQTDPGI26KLCDEY7U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;배우 김새론 ⓒ News1 박세연 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;영화 ‘아저씨(2010)’에 출연해 대중에 이름을 알린 배우 김새론(25)씨가 자택에서 숨진 채 발견됐다.&lt;br&gt;&lt;br&gt;16일 서울 성동경찰서는 이날 오후 4시 54분쯤 서울 성동구 성수동2가의 한 다세대주택에서 김씨가 심정지 상태로 발견됐다고 밝혔다. 경찰은 “이날 김씨를 만나기로 약속했던 친구가 이 모습을 발견했다”고 했다. 김씨는 병원으로 이송됐으나 숨졌다.&lt;br&gt;&lt;br&gt;경찰은 “외부 침입 흔적 등 범죄 혐의점이 발견되지 않았다”면서 “사망 경위 등은 계속 수사 중”이라고 했다. 경찰은 신고 접수 직후 자세한 사망 경위를 파악하기 위해 김씨가 남긴 유서 등이 있는지 자택을 수색했다. 경찰 관계자는 “수색은 이날 오후 6시쯤 끝났다”며 “발견된 유서는 현재까지 없다”고 했다. &lt;br&gt;&lt;br&gt;2001년 한 살 나이에 육아 잡지 ‘앙팡’ 표지 모델로 데뷔한 김씨는 2009년 영화 ‘여행자’로 배우의 길을 걷기 시작했다. 이 영화로 프랑스 칸 영화제 초청을 받아 ‘칸에 진출한 최연소 대한민국 배우’가 됐다. 2010년 관객 수 628만명을 동원한 영화 ‘아저씨’에서 주연인 ‘정소미’ 역할을 맡으며 미래가 촉망받는 배우로 꼽혔다. 2014년 영화 ’도희야’로 다시 한번 칸 영화제의 초청을 받았다. 2015년 11월부터 2017년 4월까지 지상파 음악 방송 MC도 맡았다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XSHH4WJGKPXMN7J4BFCVGRD62U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;영화 '아저씨'에 출연한 김새론 /조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그러나 김씨는 스무 살이던 2022년 5월 서울 강남구 학동사거리 인근에서 운전 중 가드레일과 가로수, 변압기를 들이받는 사고를 냈다. 김씨는 사고 당시 현장에서 음주 측정 검사 대신 채혈 검사를 요구했고, 검사 결과 김씨의 혈중알코올농도는 면허 취소 기준(0.08%)을 넘는 0.2%였다. 법원은 2023년 4월 김씨에게 벌금 2000만원을 선고했다.&lt;br&gt;&lt;br&gt;이후 김씨는 모든 활동을 중단하고 자숙 시간을 가졌다. 생활고를 겪던 김씨는 성수동의 한 프랜차이즈 카페에서 아르바이트를 하는 모습이 포착되기도 했다. 이어 김씨는 2023년 한 넷플릭스 드라마에 출연했으나 여론의 비판을 받아 도중 하차했고, 지난해 4월 연극으로 복귀를 시도했으나 무산됐다. 그해 10월에는 영화 촬영장에서 모습을 드러내기도 했다. 최근까지도 김씨는 이름을 ‘김아임’으로 개명하며 재기 의지를 밝혔던 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/QULMPPJY3VQTDPGI26KLCDEY7U.jpg?width=1962&amp;height=1384&amp;auth=ea23be1271ca98e1e7b138820aaeed12c81fda9e61e166b42d1efa826c6607d6&amp;smart=true" type="image/jpeg" height="1384" width="1962">
+        <media:description type="plain">배우 김새론 ⓒ News1 박세연 기자</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>형 사망 사실 숨기고 예금 9억 빼 간 동생…“생전에 증여한 것” </title>
+      <link>https://www.chosun.com/national/national_general/2025/02/16/A5UX25X6LNDZHNHEI3B3ZVB3OI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/02/16/A5UX25X6LNDZHNHEI3B3ZVB3OI/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 16 Feb 2025 12:21:44 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VDZIEJTKE63QO375J37JOA3HAQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원 관련 이미지. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;사망한 친형의 명의로 예금청구서를 작성해 금융기관을 속여 약 9억원에 이르는 거액을 가로챈 60대 남성이 항소심에서도 실형을 선고받았다.&lt;br&gt;&lt;br&gt;16일 서울고법 춘천재판부 형사1부(민지현 부장판사)는 특정경제범죄 가중처벌 등에 관한 법률상 사기와 사문서위조 등 혐의로 기소된 A(62)씨가 낸 항소를 기각하고, 원심과 같이 징역 2년을 선고했다고 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 2019년 4월 13일 자신의 형 B씨가 숨지자 이틀 뒤 B씨의 도장을 이용해 B씨 명의로 된 예금청구서를 위조하는 수법으로 금융기관을 속여 9000만원을 가로챘다. A씨는 이 같은 수법으로 나흘간 4차례에 걸쳐 총 8억9900여만원을 금융기관으로부터 타냈다.&lt;br&gt;&lt;br&gt;하지만 A씨 측은 “B씨가 생전에 예금을 증여했고, 이를 인출해 사용하는 데 동의했다”고 주장했다.&lt;br&gt;&lt;br&gt;1심은 설령 B씨가 생전에 예금채권을 A씨에게 증여하기로 약정하거나 예금 인출에 동의했다고 하더라도, 증여계약을 이행하지 않고 사망한 이상 A씨가 곧바로 망인 명의 예금채권을 행사할 수 있는 법적 지위에 있지 않다고 판단했다. 이에 A씨에게 징역 2년을 선고하고 법정 구속했다.&lt;br&gt;&lt;br&gt;A씨는 항소심에서 재차 무죄를 주장했지만, 2심 역시 A씨의 행위는 금융기관을 상대로 한 사기죄에 해당한다고 판단했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>봄 오는 줄 알았더니... 내일부터 또 한파</title>
+      <link>https://www.chosun.com/national/transport-environment/2025/02/16/YOIPTK4AKZGIHGOJ5J3ADLBPWM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/02/16/YOIPTK4AKZGIHGOJ5J3ADLBPWM/</guid>
+      <dc:creator>곽래건 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 16 Feb 2025 10:54:15 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OBTU7W6IU5LYVB4W3X3X64FPXM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;포근한 날씨였던 16일 서울 중구 청계천에서 한 시민이 겉옷을 벗고 걸어가고 있다.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;월요일인 17일 기온이 대폭 떨어져 전국 아침 최저기온이 영하권이 될 전망이다.&lt;br&gt;&lt;br&gt;16일 기상청에 따르면 이날 밤부터 북서쪽에서 찬 공기가 내려와 17일 기온이 전날보다 5~10도가량 낮아진다. 17일 아침 최저기온은 영하 7~0도로 예보됐다. 서울·수원 영하 4도, 부산 0도 등이다. 지난 주말 평년보다 기온이 높아 포근했는데, 갑자기 기온이 대폭 떨어지는 것이다. 17일 낮 최고기온도 영상 1~9도에 그치겠다.&lt;br&gt;&lt;br&gt;바람도 강하게 불어 체감온도는 더 낮을 것으로 보인다. 17일 순간 시속 55km 안팎의 강풍이 부는 곳이 많겠다고 기상청은 내다봤다. 체감온도는 서울(중구) 영하 7도, 대전(둔산) 영하 6도, 광주광역시(치평동) 영하 5도, 부산(해운대) 영하 6도 등으로 예보됐다. 부산과 경상권 동해안, 제주도에는 순간풍속 시속 70㎞ 이상의 매우 강한 바람이 예상된다. 제주도 산지는 시속 90㎞ 이상까지 불 수 있다. 기상청은 “시설물 관리와 안전사고에 유의해 달라”고 당부했다.&lt;br&gt;&lt;br&gt;18일에는 한파가 더 기승을 부릴 전망이다. 경기 동부와 충북, 전북 동부, 경북 내륙을 중심으로 아침 기온이 영하 10도 내외까지 떨어진다. 낮 최고기온도 전국적으로 0도~영상 6도에 그치겠다. 19~20일에도 추위가 이어질 전망이다. 아침 기온 영하 12~2도, 낮 기온은 0~9도 수준으로 평년보다 낮겠다.&lt;br&gt;&lt;br&gt;강원 중부와 북부 산지에는 16일 밤 한파 특보가 발효됐다. 기상청은 “한파 특보가 강화되거나 확대 발표될 가능성이 있다”며 “기온이 급격히 변화하므로 건강 관리에 유의하고, 빙판이 되거나 살얼음이 나타나는 곳이 많겠으니 운전할 때 주의해야 한다”고 했다.&lt;br&gt;&lt;br&gt;당분간 북쪽에서 차고 건조한 바람이 내려와 대기가 건조할 것으로 보인다. 건조 특보가 발효된 강원 영동과 경상권 해안을 중심으로 건조한 날씨가 이어질 전망이다. 그 밖의 경상권도 점차 건조해지면서 건조 특보가 강화될 가능성이 있다. 바람도 강하게 불어 작은 불씨가 큰불로 번질 수 있기 때문에 산불 등을 조심해야 한다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/3XLN6BEXET5SR2DIFGKM3RK664.jpg?width=2972&amp;height=2034&amp;auth=fcfcc8995005e02dd8409b9c71d9b8abbc6c77456c3177ef157410e803cf61aa&amp;smart=true" type="image/jpeg" height="2034" width="2972">
+        <media:description type="plain">지난 7일 오전 서울 동작구 사당역에서 시민들이 몸을 움츠린 채 출근길 발걸음을 재촉하고 있다. /뉴스1</media:description>
+        <media:credit role="author" scheme="urn:ebu">뉴스1</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>박봄, 또 이민호 사진 올리고 “내 남편 맞아요”…무슨 일?</title>
+      <link>https://www.chosun.com/national/national_general/2025/02/16/XIPYX2QXXBET7HD7465Q3HPAU4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/02/16/XIPYX2QXXBET7HD7465Q3HPAU4/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 16 Feb 2025 10:25:53 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QJLTN3L5X73RVUFRX64I2V4ECU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이민호(왼쪽)와 박봄. 박봄이 올린 게시물. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그룹 투애니원의 멤버 박봄(41)이 또 소셜미디어를 통해 자신이 배우 이민호(38)와 연인 관계라는 취지로 해석될 수 있는 게시물을 올려 논란이 일고 있다. &lt;br&gt;&lt;br&gt;박봄은 지난 15일 소셜미디어에 이민호와 자신의 사진을 올린 후 “내 남편이 맞아요❤”라고 했다. 박봄은 지난 12일에도 이민호 사진과 함께 “내 남편, #이민호”라는 글을 올렸었다. &lt;br&gt;&lt;br&gt;이민호 측은 박봄의 행동에 별다른 반응을 보이지 않았다. &lt;br&gt;&lt;br&gt;박봄은 지난해 9월에도 소셜미디어를 통해 이민호와 연인 사이라는 취지의 게시글을 올렸다가 논란이 됐었다. 당시 소속사 측은 “박봄이 요즘 드라마 ‘상속자들’을 보고 있는데, 주인공인 이민호씨에 푹 빠져서 그런 게시물을 올리게 된 것 같다”며 “특별한 이유 없는 해프닝”이라고 해명했다. &lt;br&gt;&lt;br&gt;박봄의 앞선 글들은 모두 삭제된 상태다. 이에 대해 한 네티즌이 ‘누가 게시물을 삭제했나’라고 묻자 박봄은 ‘회사’라고 답하기도 했다. &lt;br&gt;&lt;br&gt;네티즌들은 박봄의 행동에 대해 “이민호에게 피해를 주는 행동이다” “투애니원 활동에 지장이 생길까 걱정된다” “도대체 이런 걸 왜 자꾸 올리는 거냐?” 등의 반응을 보이고 있다. 단순 장난으로 받아들이기엔 도를 넘었다는 것이다. &lt;br&gt;&lt;br&gt;박봄은 과거 여러 차례 이상형으로 이민호를 꼽았다. 2013년 한 라디오 방송에 출연해 ‘투애니원 공연에 남자 배우 한 명을 초대한다면 누구를 초대하겠냐’는 질문에 주저 없이 “이민호”라고 답했다. 또 2014년 라디오 방송에서도 이상형에 대해 “이민호, 김우빈 씨처럼 키 큰 분을 좋아한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/NX7YH2A24NNB2S75CZDPNAMQPE.jpg?width=720&amp;height=891&amp;auth=bb63c8dd026a7fa923f237bf437cb303756b7ae940575f2d8a3bf0e4a038a895&amp;smart=true" type="image/jpeg" height="891" width="720">
+        <media:description type="plain">박봄</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>부천 노래방서 50대女 살해하고 시신 유기한 30대 구속</title>
+      <link>https://www.chosun.com/national/regional/2025/02/16/YK4ZID7OQRGT3AAICRSMZDNITQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/02/16/YK4ZID7OQRGT3AAICRSMZDNITQ/</guid>
+      <dc:creator>김주영 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 16 Feb 2025 10:16:07 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AATIQTULHDJQ4STSUDFUQAU4CI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부천원미경찰서 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;노래방에서 50대 여성을 살해하고 야산에 시신을 유기한 30대 남성이 구속됐다.&lt;br&gt;&lt;br&gt;경기 부천원미경찰서는 16일 살인과 시체유기 혐의로 30대 A씨를 구속했다고 밝혔다.&lt;br&gt;&lt;br&gt;임한아 인천지법 부천지원 당직 판사는 이날 오후 A씨의 구속 전 피의자 심문(영장실질심사)을 진행한 뒤 “도주할 우려가 있다”며 영장을 발부했다.&lt;br&gt;&lt;br&gt;앞서 A씨는 “영장실질심사를 포기하겠다”는 의사를 경찰에 밝혀 법원은 서류 심사로만 구속을 결정했다.&lt;br&gt;&lt;br&gt;A씨는 지난 13일 오전 7시쯤 부천시 한 노래방에서 50대 여성 B씨를 살해한 뒤 인천 서구 야산에 시신을 유기한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;국립과학수사연구은 B씨의 시신을 부검하고 “경부(목부위) 압박에 의한 질식사”라는 소견을 경찰에 전달했다.&lt;br&gt;&lt;br&gt;경찰은 지난 14일 오후 5시 10분 B씨와 연락이 되지 않는다는 가족들의 신고를 받은 뒤 수사에 나서 같은 날 오후 10시 30분쯤 서울 관악구 신림동에서 A씨를 검거했다.&lt;br&gt;&lt;br&gt;A씨와 B씨는 서로 모르는 사이이며, 범행 당시 노래방에는 둘만 있었던 것으로 조사됐다. A씨는 노래방에서 일하는 직원인 것으로 파악됐다.&lt;br&gt;&lt;br&gt;A씨는 경찰에서 “술을 먹고 말다툼을 벌이다가 범행을 저질렀다”는 취지로 진술한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “A씨 진술이 오락가락해 다양한 가능성을 열어두고 있다”며 “범행 동기 등 사건 경위를 추사하고 있다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>서울대에서 尹탄핵 찬반 집회... 멱살잡이에 욕설까지</title>
       <link>https://www.chosun.com/national/national_general/2025/02/16/CBDFC63VF5CSLBHSTRGY7ZO2WY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/02/16/CBDFC63VF5CSLBHSTRGY7ZO2WY/</guid>
@@ -897,60 +988,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HISDYZ5O4WNGLZZ46LD7SMIG24.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;'더불어민주당 전당대회 돈봉투 살포 의혹'으로 구속 기소된 박용수(송영길 전 민주당 대표 보좌관)씨. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘더불어민주당 전당대회 돈봉투 살포 의혹’ 등으로 기소된 박용수 전 송영길 민주당 대표 보좌관이 1심에서 실형을 선고받았다. 다만 돈봉투 살포 관련 혐의에 대해서는 수사 발단이 된 ‘이정근 녹음 파일’의 증거능력이 부정돼 무죄가 선고됐다.&lt;br&gt;&lt;br&gt;서울중앙지법 형사21부(재판장 허경무)는 14일 정당법·정치자금법 위반 등 혐의로 기소된 박씨에게 징역 1년 2개월을 선고하고 추징금 9240만원을 명령했다. 보석으로 석방 중이던 박씨는 법정 구속됐다.&lt;br&gt;&lt;br&gt;박씨의 혐의는 크게 두 가지다. 먼저 박씨는 2021년 4월 송 전 대표의 당대표 당선을 목적으로 이정근 전 민주당 사무부총장 등 경선 캠프 관계자들과 공모해 총 6000만원을 윤관석 의원에게 전달한 혐의를 받았다. 다른 하나는 박씨가 2020년 5~10월 컨설팅업체 ‘얌전한 고양이’에 송 전 대표 관련 여론조사를 의뢰하면서 비용 9240만원을 송 전 대표의 외곽 조직인 ‘평화와 먹고사는 문제 연구소(먹사연)’에게 대납하도록 한 혐의다.&lt;br&gt;&lt;br&gt;재판부는 이 가운데 여론조사 비용 대납 혐의는 유죄로 인정했다. 재판부는 “박씨는 정치자금법을 위반해 먹사연으로부터 9000만원 상당의 정치자금을 수수하고 그 사실을 은폐하기 위해 허위 견적서 등을 작성했다”며 “적극적으로 증거인멸교사 행위를 해 죄질이 좋지 않다”고 지적했다. 그러면서 “정치자금법은 정치권력과 금권이 결탁돼 민주주의 기초라 할 수 있는 ‘1인 1표’가 심각하게 훼손되는 결과를 막기 위한 것”이라며 “(박씨의 행위는) 이를 벗어났다”고 했다.&lt;br&gt;&lt;br&gt;다만 돈봉투 관련 혐의에 대해서는 무죄로 판단했다. 돈봉투 사건의 핵심 증거인 이정근씨의 휴대전화 속 녹음 파일을 증거로 인정하지 않았기 때문이다. 이씨는 2022년 10월 별도의 비리 사건으로 검찰 수사를 받다가 자신의 휴대전화를 동의하에 제출했는데, 재판부는 이날 “돈봉투 사건의 핵심 공범인 이씨가 자신이 처벌받을 것을 알면서도 제출했겠느냐”며 “검찰이 위법하게 수집한 증거로 증거능력이 없다”고 했다. 핵심 증거가 재판에서 빠지면서 무죄가 선고된 것이다.&lt;br&gt;&lt;br&gt;이 재판부는 올해 1월 송 전 대표의 1심 사건에서도 같은 논리로 정치자금법 위반 혐의만 유죄로 인정하고, 정작 ‘돈봉투 살포’ 혐의는 무죄를 선고했다. 송 전 대표는 1심에서 징역 2년을 선고받았다.&lt;br&gt;&lt;br&gt;반면 앞서 진행된 다른 돈봉투 사건 재판에서는 모두 이정근 녹음 파일이 유죄의 핵심 증거로 인정됐다. 송 전 대표를 돕기 위해 돈봉투를 조성한 혐의로 기소된 윤관석 전 의원은 작년 10월 대법원에서 유죄가 확정됐다. 앞서 1·2심은 윤 전 의원에게 징역 2년을 선고했고, 판결문에 이정근 녹음 파일에 대해 ‘적법한 증거’라고 판시했다. 윤 전 의원으로부터 돈봉투를 받은 혐의로 기소된 허종식 현 의원과 임종성·이성만 전 의원 등은 작년 8~9월 서울중앙지법에서 징역형의 집행유예를 선고받았다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>3000억원 횡령한 간 큰 은행 직원, 2심서도 징역 35년형</title>
-      <link>https://www.chosun.com/national/court_law/2025/02/14/LIFXYEPV4RF5TDCNF44SBB3QBA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/02/14/LIFXYEPV4RF5TDCNF44SBB3QBA/</guid>
-      <dc:creator>김나영 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 14 Feb 2025 11:08:26 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/P3UP5VAGPZBBBLYFLKT6LMONSU.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초동에 위치한 서울중앙지방법원, 서울고등법원,서울회생법원 청사의 모습./이명원 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대출 업무를 담당하면서 3000억원대에 달하는 자금을 횡령한 혐의로 재판에 넘겨진 경남은행 전 부장급 직원이 1심에 이어 2심에서도 징역 35년형을 받았다. &lt;br&gt;&lt;br&gt;14일 서울고등법원 형사6-2부(재판장 최은정)는 특정경제범죄 가중처벌법상 횡령 등 혐의로 기소된 이모씨에 대한 항소를 기각했다. 이에 따라 이씨는 1심에서 받은 형량인 징역 35년과 추징금 약 159억원을 유지하게 됐다. 이씨의 횡령을 도운 한국투자증권 전 직원 황모씨에겐 징역 10년과 추징금 11억원이 선고됐다.&lt;br&gt;&lt;br&gt;앞서 이모씨는 2008년부터 2022년까지 부동산 프로젝트 파이낸싱(PF) 대출 업무를 담당하면서 77차례에 걸쳐 총 2988억을 빼돌린 혐의를 받았다. 이같은 금액은 단일 횡령 사건으로는 역대 최대 규모다. 당시 이씨는 PF 시행사들이 대출을 요청한 사실이 없는데도 허위로 서류를 꾸며 대출을 실행하고, 시행사들이 낸 대출원리금을 빼돌리는 등의 수법을 써서 돈을 가로챘다. 이같은 사실은 금융감독원의 긴급 현장 검사를 통해 밝혀졌다.&lt;br&gt;&lt;br&gt;이 사건이 알려지자 금융위원회는 작년 11월 경남은행에 신규 PF 대출 6개월 정지와 과태료 3억8000만원에 달하는 중징계를 내렸다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“저학년 아니죠”…미성년자 성매수 세종시 전 공무원, 항소심서도 징역 7년</title>
-      <link>https://www.chosun.com/national/court_law/2025/02/14/OAWFW66XXBA57HZM4JJQCVNUKY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/02/14/OAWFW66XXBA57HZM4JJQCVNUKY/</guid>
-      <dc:creator>김수언 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 14 Feb 2025 10:47:13 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MWG4ZU6UUOUS4VIV5I77S2J5MA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대전고법. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;초등생을 대상으로 담배 등을 사준 뒤 성매수 범행을 저지른 혐의를 받는 전 세종시청 공무원이 항소심서도 징역 7년형을 선고받았다.&lt;br&gt;&lt;br&gt;14일 대전고법 형사1부(재판장 박진환)는 미성년자의제강간, 아동·청소년의 성보호에 관한 법률 위반(성매수), 아동복지법 위반 등 혐의로 기소된 전 세종시 공무원 A씨의 항소를 기각하고 징역 7년의 원심 판결을 유지했다. 재판부는 또 1심과 마찬가지로 아동·청소년 및 장애인 관련 기관 7년 취업제한, 7년간 위치 추적 전자장치부착 명령도 유지했다. 재판부는 이날 “1심이 선고한 형량이 무거워 부당하다 볼 수 없다”고 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난해 3월 온라인에서 ‘담배 대신 구해줄 사람을 찾는다’는 당시 11세 였던 B양을 만나, 무료로 담배 4갑을 주고 세종시 한 아파트 방화문 계단에서 유사성행위를 시킨 혐의를 받는다. 그는 피해자를 처음 보고 ‘초등학교 저학년은 아니죠?”라고 물은 것으로도 파악됐다.&lt;br&gt;&lt;br&gt;A씨는 같은해 4월에도 세종시 한 상가 화장실에서 B양을 두 차례 더 만나 성관계하고, 각각 현금 3만원과 5만원을 지급하고 전자담배 등을 제공한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;A씨는 2022년에도 13세 아동을 간음유인한 죄로 징역 1년에 집행유예 2년을 선고받은 뒤 집행유예 기간에 범행을 또 저지른 것으로 파악됐다. A씨는 이 사건으로 공직에서 해임됐다.&lt;br&gt;&lt;br&gt;앞서 1심 재판부는 “집행유예 기간에 자숙하지 않고 또다시 SNS를 이용해 13세 미만인 아동·청소년에게 접근해 간음한 수법이나 경위 등이 매우 불량하다”며 “성적 자기 결정권을 제대로 행사하기 어려운 아동·청소년을 보호하고 올바른 길로 이끌어줄 사회적 책무가 있음에도 자신의 성적 욕구 대상으로 삼아 비난 받을 가능성도 크다”고 판시했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>이재명 위증교사 2심 재판장 교체...첫 재판 일정 미뤄지나</title>
-      <link>https://www.chosun.com/national/court_law/2025/02/14/BCIPWHUSSNEO3EFQA463KUYXRY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/02/14/BCIPWHUSSNEO3EFQA463KUYXRY/</guid>
-      <dc:creator>김나영 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 14 Feb 2025 09:55:15 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DDZ4ZUMLZKJ4IUKT7CCLIHZAS4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이재명 더불어민주당 대표가 14일 오전 서울 서초구 서울중앙지방법원에서 열린 특정범죄가중처벌등에관한법률위반(뇌물) 등 공판에 출석하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이재명 더불어민주당 대표의 위증교사 항소심 재판을 한 달여 앞두고 해당 사건을 심리하는 재판장이 교체된다. 아직 재판이 본격적으로 시작되진 않았으나, 재판장이 바뀌면서 항소심 일정이 지연될 수 있다는 전망이 나온다.&lt;br&gt;&lt;br&gt;14일 법조계에 따르면 서울고등법원은 이날 이같은 내용을 포함한 사무분담안을 확정해 공지했다. 이 대표의 위증교사 사건을 맡고 있는 형사3부 재판장직에는 이승한 부장판사(사법연수원 22기)가 새로 배치됐다. 이 대표의 공직선거법 항소심을 심리하는 형사6-2부의 구성원은 그대로다.&lt;br&gt;&lt;br&gt;서울 출신인 이 부장판사는 서울대 법대를 졸업해 1996년 서울지법 판사로 근무를 시작했다. 이 부장판사는 2023년 12월 서울고법 행정1부에 재직하면서 당시 검찰총장이었던 윤 대통령이 추미애 당시 법무부 장관에게 받은 정직 2개월 처분을 취소해달라고 낸 소송에서 1심 판단을 뒤집고 윤 대통령의 손을 들어줬다. 재판부는 당시 징계위 당연직 위원장이었던 추 전 장관이 징계 청구자인데도 징계 과정에 참여했다는 점을 문제 삼았다.&lt;br&gt;&lt;br&gt;첫 재판을 앞두고 재판장이 교체되면서 이 대표의 항소심 일정이 밀릴 수 있다는 예측도 나온다. 통상 한 사건을 담당하는 재판장이 바뀌게 되면 관련 자료를 넘겨받고 해당 사건을 파악하는 데 시간이 걸리기 때문이다. 이럴 경우 이 대표가 안고 있는 사법 리스크가 당분간 유예될 것으로 보인다.&lt;br&gt;&lt;br&gt;한편 이 대표의 위증교사 항소심의 첫 공판준비기일은 다음달 11일로 예정돼 있다. 앞서 이 대표는 지난해 11월 25일 1심 재판에서 무죄를 선고받았다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>허위 영상 유튜버 ‘탈덕수용소’, BTS 측에 7600만원 배상 판결</title>
-      <link>https://www.chosun.com/national/national_general/2025/02/14/C4XMCHODZRCCDF5YNDINSLT2RQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/02/14/C4XMCHODZRCCDF5YNDINSLT2RQ/</guid>
-      <dc:creator>구동완 기자, 김도균 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 14 Feb 2025 10:00:32 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UI2KNKSZLZNYPPKVLRCHVY7J64.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;유튜브 채널 '탈덕수용소' 운영자가 지난해 9월 서울 서초구 서울중앙지방법원에서 열린 1심 선고 공판에서 벌금형을 선고받고 법원을 나서고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그룹 방탄소년단(BTS) 멤버 뷔, 정국에 관한 허위 영상을 올린 유튜버 ‘탈덕수용소’ 운영자가 7600만원을 배상해야 한다는 법원 판결이 나왔다.&lt;br&gt;&lt;br&gt;서울서부지법 민사12단독 이관형 판사는 14일 뷔(본명 김태형), 정국(본명 전정국)과 소속사 빅히트뮤직이 유튜브 채널 탈덕수용소 운영자 박모씨를 상대로 낸 손해배상 소송에서 박씨가 빅히트뮤직에 5100만원, 김씨와 전씨에게는 각각 1000만원, 1500만원을 배상하라며 원고 일부승소로 판결했다.&lt;br&gt;&lt;br&gt;앞서 김씨와 전씨 등은 지난해 3월 박씨가 허위 영상을 올려 명예를 훼손하고 회사의 업무를 방해했다며 9000만원대 손해배상청구 소송을 제기했다. 빅히트 측은 박씨가 소속사의 저작물을 무단으로 사용한 데 대해서도 배상해야 한다고 주장했다.&lt;br&gt;&lt;br&gt;박씨는 유튜브 채널 탈덕수용소에 아이돌 등 유명인의 악성 루머를 소재로 영상을 제작해 게시해 왔다. BTS 멤버들 외 다른 연예인들에 대한 허위사실을 유포하거나 명예를 훼손한 혐의로도 민·형사 재판을 받았다. 박씨는 2021년 10월∼2023년 6월 그룹 아이브 멤버 장원영씨 등 유명인 7명을 비방하는 유튜브 영상을 23차례 올려 명예를 훼손한 혐의로 1심에서 징역 2년에 집행유예 3년을 선고받았다. 현재 해당 채널은 삭제됐다.&lt;br&gt;&lt;br&gt;또 장씨가 박씨를 상대로 낸 손해배상 소송에서 1심은 박씨가 장씨 측에게 1억원을 지급하라고 판결했다. 항소심에서는 지급액이 5000만원으로 줄었다. 박씨는 또 가수 강다니엘에 대한 허위 영상을 올린 혐의(정보통신망법상 명예훼손)로 1심에서 벌금 1000만원을 선고받았고, 손해배상 소송에서도 강다니엘에게 3000만원을 배상하라는 판결이 나왔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>곽종근 “민주당에 이용·회유당했다 생각 안 해... 본질 변하지 않아”</title>
-      <link>https://www.chosun.com/national/court_law/2025/02/14/LKG2R62YFFDBJM43AQ2AN7WFLM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/02/14/LKG2R62YFFDBJM43AQ2AN7WFLM/</guid>
-      <dc:creator>박강현 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 14 Feb 2025 09:44:08 +0000</pubDate>
-      <content:encoded>‘12·3 비상계엄’ 사태 당시 국회에 병력을 투입한 혐의로 구속 기소된 곽종근(57) 전 육군 특수전사령관이 옥중 입장문을 통해 “더불어민주당에 이용당했거나 회유당했다고 생각하지 않는다”고 14일 밝혔다. 국민의힘 성일종 의원의 주장을 반박한 것이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QVBRDA57ZBIFLJLB6XCTW3HMFU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;곽종근(가운데) 전 육군 특수전사령관이 지난해 12월 6일 더불어민주당 김병주(왼쪽) 의원 유튜브에 출연해 12·3 비상계엄 당시 상황에 대해 설명하고 있다. 오른쪽은 민주당 박선원 의원. /김병주 의원 유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;곽 전 사령관은 이날 변호인을 통해 공개한 자필 입장문에서 “저는 지금까지 모든 것을 사실에 기초해 제 의사대로 판단하고 증언했다”며 이같이 말했다.&lt;br&gt;&lt;br&gt;곽 전 사령관은 계엄 선포 사흘 후인 작년 12월 6일 특전사를 찾아온 민주당 김병주·박선원 의원 유튜브 방송에 출연해 관련 진술을 한 것에 대해선 “당연히 여야 국방위원들이 함께 계신 장소에서 (말)하는 것이 맞는다고 생각한다”며 “여야 의원들이 같이 있는 장소에서 하는 것이 좋겠다는 의견도 있었다”고 했다.&lt;br&gt;&lt;br&gt;그러면서도 “당시 12월 5일 국회 국방위원회는 취소됐고 저는 12월 6일 오후 직무 정지된다는 것을 알았기에 최소한 직책을 유지한 상태에서 설명해야 부하들을 보호할 수 있다고 생각해 인터뷰에 응했다”고 해명했다.&lt;br&gt;&lt;br&gt;이 유튜브 방송에서 곽 전 사령관은 계엄 작전 당시 국회 병력 배치 상황 등을 설명하다가 “본회의장으로 일부 들어갔던 인원이 있고 밖에 일부 인원이 있었는데, 제가 그 조치를 하면서 (김용현) 전임 장관으로부터 국회의사당 안에 있는 인원들을, 요원들을 밖으로 좀 빼 내라(는 얘기를 들었다)”고 말했다.&lt;br&gt;&lt;br&gt;이에 박 의원이 곧바로 “의원들을 끌어내라(고 한 것이냐)”라고 했고, 김 의원도 “국회의원들을요”라고 되묻자 곽 전 사령관은 “예”라고 대답했다. 이른바 ‘의원 끌어내라’ 발언의 단초를 제공한 것이다. 다만 곽 전 사령관은 지난 6일 윤석열 대통령 탄핵 심판 공개 변론에서 “윤 대통령이 ‘국회의원’을 끌어내라고 한 적은 없다. ‘인원’으로 기억한다”고 했다. 윤 대통령과 김용현 전 국방 장관은 계엄군 지휘관들에게 의원들을 끄집어내라고 지시한 적이 없다는 입장이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4BKFG36K5TA2SMSPB4GVT255WQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;곽종근 전 육군 특수전사령관이 지난 6일 서울 종로구 헌법재판소에서 열린 윤석열 대통령 탄핵심판 6차 변론기일에서 질문에 답하고 있다. /헌법재판소&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;곽 전 사령관은 제출한 ‘자수서’에 대해서도 얘기했다. 그는 “자수서에 순화해서 표현했던 내용들을 그대로 정확하게 말하고자 ‘부수고, 끄집어 내라’는 표현 등 모두 당시 대통령님 말씀의 기억에 기초해 수정한 것”이라며 “다만 ‘도끼’라는 용어 표현은 당시에도 지금도 기억에 없다”고 했다.&lt;br&gt;&lt;br&gt;또 곽 전 사령관은 “민주당이 도와주겠다고 얘기했다는데, 그것에 대한 생각이 없었고 무엇을 도와준지도 모르겠다”며 “변호사 지원도 없었고, 부승찬 의원 소개로 만난 변호인과는 1시간 정도 이야기하고 선임계 제출 없이 끝났다”고 했다.&lt;br&gt;&lt;br&gt;다만 박범계 의원 측의 ‘공익제보자 신청 지원’ 의혹과 관련해선 “정확히 제 불찰이고 잘못”이라고 인정했다. 그는 “당시에는 잘 모르는 상태에서 신청을 해주겠다고 해 작성했지만, ‘회유 수단’이라는 보도가 있어서 상황을 다시 인식하게 됐다”며 “현재 중지된 상태라고 들었다”고 밝혔다. 공익신고자 보호법에 따라 공익신고자로 인정받으면 비밀 보장과 불이익 금지, 신변 보호 조치 등을 적용받는다.&lt;br&gt;&lt;br&gt;곽 전 사령관은 글 말미에 자신의 ‘생각 정리’라며 “본질을 흐리기 위한 여러가지 생각과 말들이 있을 수 있지만 그 본질은 변하지 않는다”고 했다.&lt;br&gt;&lt;br&gt;앞서 성일종 의원은 “김현태 육군특수전사령부 707특수임무단장이 ‘민주당 의원들한테 완전히 이용당했다’고 이야기했다”고 밝히며 민주당이 곽 전 사령관을 이처럼 회유한 정황을 확인했다고 주장했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“윤석열 옹호 세력 감히 광주에”…김영록 전남지사, 탄핵 촉구 집회 참석</title>
-      <link>https://www.chosun.com/national/national_general/2025/02/14/262KJWNCLFCY5ETAH7K7QDWKKA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/02/14/262KJWNCLFCY5ETAH7K7QDWKKA/</guid>
-      <dc:creator>김정엽 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 14 Feb 2025 07:43:30 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QID2W54V6PWRTGXJBNOTTPBB7M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김영록 전라남도지사./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김영록 전남도지사가 15일 광주광역시에서 열리는 윤석열 대통령 탄핵 촉구 집회에 참석한다. &lt;br&gt;&lt;br&gt;김 지사는 14일 자신의 페이스북에 “광주에서 윤석열 탄핵 반대 집회가 열린다고 하는데, 내란 선동 세력을 부추기며 역사를 퇴행시키는 극우 인사가 온다는 소리도 들린다”며 “도저히 묵과할 수 없고, 저도 광주에서 열리는 5·18 민주 광장의 탄핵 촉구 집회에 전남도민들과 함께 참석하겠다”고 적었다. &lt;br&gt;&lt;br&gt;개신교계 단체인 ‘세이브코리아’는 15일 오후 1시부터 5시까지 광주 금남로에서 탄핵 반대 집회를 연다. 오후 5시부터는 광주 지역 시민·사회단체 등이 모인 ‘광주비상행동’이 5·18민주광장에서 탄핵 촉구 집회를 연다. 두 장소의 거리는 약 200m로 경찰은 양측의 충돌 가능성을 우려하고 있는 가운데, 김영록 지사가 탄핵 촉구 집회에 참석하는 것이다. &lt;br&gt;&lt;br&gt;김 지사는 “헌법 파괴자 윤석열 옹호 세력이 감히 민주의 성지 광주에 발을 들이려 한다는 말이냐?”며 “불의한 세력이 광주에서 불법 무도한 죄를 정의로 둔갑시키고 국민을 속이려 하고 있다”고 주장했다.&lt;br&gt;&lt;br&gt;이어 “비상계엄이 대통령 고유 권한으로 정당하다며 나라를 내전 상태로 몰아가고 있다”며 “천연덕스럽게 대통령 자리에 다시 앉는다면 이 땅의 정의는 사라지고 말 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>김도형 교수 “메이플, 홍콩 유명 스타와 결혼… 동화 속 주인공 됐다"</title>
       <link>https://www.chosun.com/national/national_general/2025/02/14/RNL4DBXBP5HVNAAO7QZWWBK3XQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/02/14/RNL4DBXBP5HVNAAO7QZWWBK3XQ/</guid>
@@ -958,15 +995,6 @@
       <description/>
       <pubDate>Fri, 14 Feb 2025 07:15:48 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DSMJFOSGJRFGZJ46SWEENRU6EY.png"&gt;&lt;figcaption&gt;&lt;small&gt;메이플과 방력신 결혼 사진. /가나안&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정명석 기독교복음선교회(JMS) 총재의 성폭력 범죄를 폭로한 메이플(30)씨가 중화권 스타 방력신(팡리선·45)과 결혼한다. &lt;br&gt;&lt;br&gt;JMS 고발을 주도해 온 김도형 단국대 교수는 14일 JMS 이탈 신도들의 커뮤니티 ‘가나안’을 통해 “메이플의 남자 친구, 아니 메이플의 남편을 소개한다”며 “메이플의 남편은 홍콩뿐만 아니라 중국 본토와 대만에서도 이름만 들으면 모두가 아는 너무나 유명한 가수 겸 배우”라고 했다. “한국 포털은 물론 위키피디아에서도 검색이 되는 유명 인사”라며 “한마디로 ‘스타’”라고도 했다. &lt;br&gt;&lt;br&gt;메이플 예비 남편은 홍콩 출신 가수 겸 배우인 방력신으로 확인됐다. 그는 영화 ‘손오공:광음지력’ ‘보패특공’ ‘방가정정당’ 등에서 주연을 맡는 등 중화권에서 왕성하게 활동하고 있다. &lt;br&gt;&lt;br&gt;김 교수는 “메이플이 또 다른 피해자를 막기 위해 본인의 모든 걸 던졌다는 것은 여러분도 모두 아실 것”이라며 “다큐멘터리 주인공 메이플이 드라마, 아니 동화 속 주인공이 됐다”고 했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TF5OMLX2CRH2RBOGMGYMQFTSDA.png"&gt;&lt;figcaption&gt;&lt;small&gt;메이플 웨딩 사진. /가나안&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김 교수는 메이플과 남편의 웨딩 사진을 공개하며 함께 축하해 달라고 요청하기도 했다. &lt;br&gt;&lt;br&gt;방력신은 현지 언론과의 인터뷰 등을 통해 결혼 소식을 직접 전했다. 그는 홍콩 성도일보에 “지난주 미국 산타모니카 비치에서 서프라이즈 프러포즈를 했다”며 “작은 비행기를 빌려 프러포즈 문구가 적힌 배너를 띄운 후 웨딩 사진을 촬영했다”고 했다. 결혼을 결심한 이유에 대해서는 “사랑하기 때문”이라고 했다. &lt;br&gt;&lt;br&gt;방력신은 이날 인스타그램에도 “우리는 여기서 결혼했다. 모두 행복한 밸런타인데이 보내라”고 적었다. 그가 첨부한 사진에는 하늘에 ‘MAPLE, WILL YOU MARRY ME’(메이플, 나와 결혼해줄래)라고 적힌 문구가 띄워진 모습이 담겼다. &lt;br&gt;&lt;br&gt;홍콩 출신의 메이플은 넷플릭스 오리지널 ‘나는 신이다: 신이 배신한 사람들’을 통해 얼굴과 실명을 공개하고 정명석씨에게 성폭행당한 사실을 직접 증언했다. &lt;br&gt;&lt;br&gt;이후 이 사건은 재판에 넘겨졌고, 대법원은 지난달 준강간 등 혐의로 기소된 정씨에게 징역 17년을 선고한 원심을 확정했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘성관계 불법 촬영’ 황의조, 1심 징역 1년·집유 2년</title>
-      <link>https://www.chosun.com/national/court_law/2025/02/14/ISPHZCGTFZHJTGW2XEWTIPUYHA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/02/14/ISPHZCGTFZHJTGW2XEWTIPUYHA/</guid>
-      <dc:creator>박강현 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 14 Feb 2025 05:35:09 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/K4LGIVHIVBJFFNXHM4WGCZ4ZNE.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;황의조 전 축구 국가대표가 14일 오후 서울 서초구 서울중앙지방법원에서 열린 불법 촬영 혐의 선고 공판에 출석하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;피해자와의 성관계 영상을 불법 촬영한 혐의로 기소된 남자 축구 국가대표 출신 황의조(33·튀르키예 알란야스포르)씨가 1심에서 징역형의 집행유예를 선고받았다.&lt;br&gt;&lt;br&gt;14일 서울중앙지법 형사13단독 이용제 판사는 성폭력처벌특례법 위반(카메라 등 이용 촬영) 혐의로 재판에 넘겨진 황씨에게 징역 1년에 집행유예 2년을 선고했다. 40시간의 성폭력 치료 프로그램 이수와 200시간의 사회 봉사도 명령했다.&lt;br&gt;&lt;br&gt;검은 정장을 입고 출석한 황씨는 선고 내내 고개를 푹 숙이고 있었다. 앞서 검찰은 황씨에게 징역 4년을 구형했다.&lt;br&gt;&lt;br&gt;이 판사는 이날 피해 여성 1명에 대한 성관계 영상 불법 촬영 혐의에 대해선 “불법 촬영 범죄로 인한 사회적 폐해의 심각성을 고려할 때 죄질이 좋지 않다”면서 유죄로 인정했으나, 다른 여성 1명과의 영상 통화 녹화 등에 대한 혐의는 대법원 판례를 언급하며 무죄로 판단했다.&lt;br&gt;&lt;br&gt;이 판사는 “대법원은 성폭력범죄처벌 등에 관한 특례법 14조 1항의 ‘촬영 행위’는 그 대상을 사람의 신체로 규정한다”며 “황씨가 영상 통화하던 중 피해자의 행위·모습을 휴대전화 녹화 기능으로 촬영한 것은 피해자 신체 그 자체를 촬영한 것으로 볼 수 없다”고 했다.&lt;br&gt;&lt;br&gt;그러면서 “황씨는 이 법정에서 범죄를 인정하고 반성했다”며 “공소 제기 이후 공탁하고, 아무런 형사 처벌 전력이 없는 초범이다”고 양형 이유를 설명했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Y73KQNJD2ZOZ3NUVEWBYDXRNLI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;축구선수 황의조가 14일 오후 서울 서초구 서울중앙지방법원에서 열린 불법촬영 등 혐의 1심 선고 공판을 마치고 이동하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;선고 직후 황씨는 “축구 팬들한테 많이 사죄드리고 있고, 정말 죄송하게 생각하고 있다”고 말했다.&lt;br&gt;&lt;br&gt;피해자 측을 변호하는 이은의 변호사는 “흉측한 판결”이라며 “피해자에게 평생 벗어나기 어려운 부담과 불안을 남긴 불법 촬영 범죄자에게 사실상 면죄부를 줬다”고 항소 방침을 밝혔다.&lt;br&gt;&lt;br&gt;또 “재판부는 이 사건에서 피고인의 명예가 훼손될까봐 걱정하며 피해자의 발언권을 박탈했고, 피해자가 하고 싶은 말이 있으면 법원에 나와 직접 하라며 입을 틀어막았다”고 주장했다.&lt;br&gt;&lt;br&gt;황씨는 지난 2022년 6~9월 상대 여성 2명의 동의 없이 여러 차례 성관계 영상을 촬영하거나, 영상 통화를 녹화한 혐의 등으로 작년 7월 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;당초 이번 선고는 작년 12월로 원래 잡혔으나 검사 측이 선고를 앞두고 공소장 변경을 신청하면서 변론이 재개돼 선고가 두 달 정도 늦춰졌다. 특히 황씨는 피해자가 공탁금 수령 의사가 없다고 밝혔음에도 작년 11월 합의금 명목으로 2억원을 공탁해 논란을 빚기도 했다.&lt;br&gt;&lt;br&gt;한편 황씨와 관련된 이 같은 영상을 소셜미디어에 유포한 황씨의 형수 이모(34)씨는 작년에 대법원에서 징역 3년을 확정받았다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[속보]부산 반얀트리 신축공사장 화재... 6명 사망, 7명 부상</title>
@@ -979,24 +1007,6 @@
       <media:content url="https://www.chosun.com/resizer/v2/SDJIL5YDCZETVOQVR7VQTYY65U.gif?width=480&amp;height=270&amp;auth=caabee159b9b7c6d8607e5eaca214ead92b0cb7db75e6b92f90947900fe44ada&amp;smart=true" type="image/jpeg" height="270" width="480">
         <media:description type="plain">부산 기장군 반얀트리 화재./부산소방본부 제공</media:description>
       </media:content>
-    </item>
-    <item>
-      <title>‘경명구’ ‘서곶구’ ‘서해구’ ‘청라구’…인천 서구, 방위식 명칭 대신할 이름 찾기 본격화</title>
-      <link>https://www.chosun.com/national/regional/2025/02/14/NJTRPTF4TBAWNLQJS6E4R2ZEBI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/02/14/NJTRPTF4TBAWNLQJS6E4R2ZEBI/</guid>
-      <dc:creator>인천=이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 14 Feb 2025 02:13:30 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FOSBSDYH3AZJ2LD42O6NPBNK6M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;인천 서구청/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천 서구가 자치구 명칭을 바꾸기 위한 작업을 본격화하고 나섰다. 현재 명칭이 지역의 역사와 정체성을 반영하지 않은 행정 편의적 명칭이라 변경할 필요가 있다는 게 주된 배경이다. &lt;br&gt;&lt;br&gt;인천 서구는 최근 ‘구 명칭 변경 추진위원회’를 열고 경명구, 서곶구, 서해구, 청라구 등 4가지 명칭을 서구의 새 이름 후보로 결정했다고 14일 밝혔다. &lt;br&gt;&lt;br&gt;명칭 변경 추진위는 지난달 20일부터 지난 9일까지 18세 이상 시민을 대상으로 진행된 공모를 통해 제출된 1364개의 명칭을 대상으로, 역사성, 지리적 부합성, 지역 정체성 등을 종합적으로 고려해 이같이 결정했다. &lt;br&gt;&lt;br&gt;경명구는 과거 서구와 타지역으로 연결되는 주요 교통로 역할을 했던 고개 이름인 ‘경명현(景明峴)’을 바탕에 두고 있다. 경명현은 서구와 계양구의 경계 지점인 지금의 징매이고개인 것으로 알려져 있다. 서구 경서동과 경기 부천시 오정구를 잇는 도로 이름도 ‘경명대로’(景明大路)다. &lt;br&gt;&lt;br&gt;서곶구는 현재 서구지역의 옛 지명인 ‘서곶면(西串面)’을 활용했다. 서곶면은 1914년 서구가 부천군에 속해 있을 때 사용됐던 지명이다. 서쪽으로 길게 뻗은 해안이라는 의미를 담고 있다고 한다. &lt;br&gt;&lt;br&gt;서해구는 서해와 접해있는 지리적 특성을 담은 이름이다. 바다와 관련한 명칭을 사용하는 지자체는 강원 동해시, 경남 남해군 등이 있다. &lt;br&gt;&lt;br&gt;청라구는 한때 섬이었던 ‘청라도(靑羅島)’의 이름에서 따왔다. 현재는 매립돼 청라국제도시가 들어서 있다. 대중적 인지도와 상징성이 고려됐다.&lt;br&gt;&lt;br&gt;서구는 오는 21일부터 다음달 6일까지 서구 주민 2000명을 대상으로 구 명칭 선호도 조사를 진행한 뒤, 조사 결과를 토대로 2차 명칭 변경 추진위원회를 열어 최종 후보안을 선정할 계획이다. &lt;br&gt;&lt;br&gt;서구는 이후 서구의회 의견청취, 인천시 명칭 변경 건의, 인천시의회 의견청취 등 과정을 밟을 계획이다. 이후 구 명칭 변경안을 행정안전부에 제출해 관련법이 제정될 수 있게 할 방침이다. &lt;br&gt;&lt;br&gt;인천 미추홀구는 이와 비슷한 절차를 밟아 지난 2018년 구 명칭을 남구에서 현재 미추홀구로 바꾼 적이 있다. &lt;br&gt;&lt;br&gt;강범석 서구청장은 “새로운 구 명칭이 확정될 때까지 지역사회의 많은 관심을 부탁드린다”고 말했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[단독] ‘마취 보따리상’으로 나선 마취과 교수들</title>
-      <link>https://www.chosun.com/national/welfare-medical/2025/02/14/IFRIAMXFOJCBZI6ZGINPSFSZPY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/02/14/IFRIAMXFOJCBZI6ZGINPSFSZPY/</guid>
-      <dc:creator>조백건 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 13 Feb 2025 20:02:00 +0000</pubDate>
-      <content:encoded>지난 2023년 국내 최대 병원인 서울아산병원에서 집단 사직한 마취통증의학과 교수 5명 중 3명은 현재 ‘마취 프리랜서’로 일하고 있는 것으로 13일 알려졌다. 우리나라 최고 병원에서 중환자를 보고 학생을 가르치던 교수가 여러 병원을 돌아다니며 마취를 하는 ‘개인 사업자 의사’로 변신한 셈이다. 의료계 은어로 이들을 ‘보따리상’이라 표현하기도 한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/T5FXHZEU7VHKBM6XTLUHGNYXUY.png"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=양진경&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대학 병원의 마취과는 필수 진료과다. 마취과 의사가 없으면 암·소아 환자 같은 중환자 수술을 못 한다. 전신 마취 중 환자의 바이털 사인(호흡·맥박 등)을 관리하고, 환자가 무사히 마취에서 깨어날 수 있도록 하는 고도의 전문성을 갖고 있기 때문이다.&lt;br&gt;&lt;br&gt;필수 진료과 의사의 ‘고통’도 똑같이 겪는다. 의료계 인사들은 “전신 마취 수가(건보공단이 병원에 주는 돈)는 원가에도 못 미치고, 마취과 의사는 잦은 당직과 의료 소송에 휘말린다”고 했다.&lt;br&gt;&lt;br&gt;바깥 상황은 정반대다. 숙련된 대학 병원 마취과 교수가 워라밸을 챙기면서 돈은 2~3배 벌 수 있는 길이 많기 때문이다. 대표적인 게 ‘프리랜서’다. 한 전문 병원장은 “전에는 외부 마취과 의사에게 하루 150만원 정도를 지급했는데, 이젠 수요가 더 많아져 하루 250만~300만원을 줘야 한다”며 “그래도 사람이 없다”고 했다. 부산의 한 대학 병원 교수는 “외부 마취과 의사가 야간 수술까지 참여하면 하루 500만원 정도를 받는다”며 “한 달에 나흘만 일하면 나머지는 쉴 수 있는 셈”이라고 했다.&lt;br&gt;&lt;br&gt;마취통증의학과로 개원을 해도 전망이 좋다. 비급여인 도수 치료와 체외 충격파(통증 완화 시술), 통증 주사 등을 통해 당직·소송의 피로 없이 고소득을 올리는 경우가 많다. 2022년 기준 마취통증의학과 개원의의 평균 소득은 3억9100만원으로 안과, 정형외과 등에 이어 4위를 기록했다.&lt;br&gt;&lt;br&gt;수도권의 한 마취과 의사는 “중환자 없는 중형 병원에 취업을 하면 소송 부담 없이 월급은 대학 병원 때보다 두 배를 받을 수 있다”고 했다.&lt;br&gt;&lt;br&gt;상황이 이렇다 보니 대형 병원은 극심한 마취과 의사난에 시달리고 있다. 특히 이런 현상은 작년 2월 시작된 의정 갈등 이후 더 심해졌다. 기존엔 마취과 전공의들도 수술실에 들어갔고, 교수는 본인이 맡은 수술 환자가 안정되면 제자들의 수술실을 돌며 감독을 했다. 그런데 의정 갈등으로 마취과 전공의들이 대학 병원을 떠났고, 그 여파로 피로가 누적된 교수들도 덩달아 사직하고 있는 것이다.&lt;br&gt;&lt;br&gt;서울의 한 대형 병원 교수는 “수술을 해야 하는데 마취과 의사가 없을 때가 많아 큰 병원들도 외부에서 프리랜서를 불러 수술하는 경우가 적지 않다”고 했다. 전담 마취과가 있는 한 국립대 병원도 최근 ‘프리랜서’를 불러 수술을 하고 있다고 한다. 의료계 인사들은 “경기도 북부와 부산의 한 대학병원에도 ‘마취과 프리랜서’를 종종 부른다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
