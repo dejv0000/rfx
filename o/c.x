@@ -13,6 +13,46 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>서울대에서 尹탄핵 찬반 집회... 멱살잡이에 욕설까지</title>
+      <link>https://www.chosun.com/national/national_general/2025/02/16/CBDFC63VF5CSLBHSTRGY7ZO2WY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/02/16/CBDFC63VF5CSLBHSTRGY7ZO2WY/</guid>
+      <dc:creator>박정훈 기자, 김혜민 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 16 Feb 2025 09:01:40 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G3B7AR7EGNNPTJ5IFVS5FP6XD4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;15일 서울 관악구 서울대학교 학생회관 앞에서 탄핵 반대 집회를 하려던 학생과 시민들이 집회 장소를 내주지 않는 탄핵 찬성 재학생 및 동문에게 항의하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 15일 서울대 관악캠퍼스에서 윤석열 대통령 탄핵 찬성·반대 집회가 열렸다. 일부 충돌도 발생했다. 최근 대학가가 탄핵 찬반으로 갈라지는 가운데 서울대에서도 이 같은 움직임이 본격화한 것이다. &lt;br&gt;&lt;br&gt;이날 오후 4시 탄핵 찬성 집회 참가자 100여 명이 중앙도서관 앞 아크로폴리스 광장에서 집회를 열었다. 이들은 ‘내란 수괴 파면하라’ ‘민주주의 지켜내자’ 등 문구나 박종철 열사의 사진이 담긴 팻말을 들고 “윤석열은 퇴진하라” 등 구호를 외쳤다. &lt;br&gt;&lt;br&gt;오후 5시쯤엔 탄핵에 반대하는 집회 참가자 100여 명이 “우리가 집회를 할 시간”이라며 광장 계단에 올라섰다. 탄핵 찬성 인원들은 “윤석열 파면”을 외치며 물러서지 않았고, 탄핵 반대 인원들이 “종북 세력 꺼져라”라며 찬성 측 참가자들을 밀어내려고 했다. 양측은 30여 분간 말다툼을 하며 대치했고 일부 참가자는 욕설도 했다. &lt;br&gt;&lt;br&gt;서로 멱살을 잡거나, 탄핵 반대 측이 태극기와 성조기로 탄핵 찬성 측 인원을 공격하는 일도 일부 발생했다. 결국 경찰이 출동해 양측을 분리시켰다. 두 집회 모두 서울대에 사전 신고된 집회였다고 한다. 서울대 본부 측은 “서울대 구성원의 경우 신고만 하면 집회를 진행할 수 있다”며 “향후 집회에서 충돌이 없도록 방지책을 검토하겠다”고 했다. 다만 서울대는 찬반 집회 참여자 200여 명 중 상당수가 외부인인 것으로 파악하고 있다.&lt;br&gt;&lt;br&gt;서울대 온라인 커뮤니티엔 “양쪽 다 재학생은 별로 없고 외부인을 많이 끌고 온 것 같다” “왜 남의 학교에 와서 서로 싸우는지 모르겠다”는 지적도 나왔다. 서울대 경영학부생 이모(22)씨는 “졸업 사진을 찍으러 오거나 근처 중앙도서관에서 공부하는 사람도 많았는데 스피커를 틀고 시끄럽게 집회를 벌여 눈살이 찌푸려졌다”고 했다. &lt;br&gt;&lt;br&gt;17일에는 서울대생 10여 명이 관악캠퍼스에서 ‘윤 대통령 탄핵 반대 시국 선언’을 발표할 예정이다. 서울대 재학생·졸업생 500여 명이 서명한 것으로 전해졌다. 서울대에선 최근 탄핵 찬반 여론이 엇갈리며 반대 의견이 담긴 대자보를 훼손하는 사태도 발생하고 있다. &lt;br&gt;&lt;br&gt;지난 10일 오후 서울 서대문구 연세대 신촌캠퍼스에서도 탄핵 찬반 학생이 충돌하는 일이 발생했다. 고려대, 한양대 등에서도 일부 학생이 탄핵 반대 시국 선언을 준비 중인 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>尹측 “단전 지시사실 없어…재탕·삼탕 의혹 중단하라” </title>
+      <link>https://www.chosun.com/national/court_law/2025/02/16/RA2X6HCTHFGAVJA6JDSDLUAGEE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/02/16/RA2X6HCTHFGAVJA6JDSDLUAGEE/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 16 Feb 2025 08:51:33 +0000</pubDate>
+      <content:encoded>‘12·3 비상계엄’ 당시 계엄군 병력이 국회 본관 일부 전력을 차단했다며 윤석열 대통령의 단전 지시 여부를 엄정 수사해야 한다고 더불어민주당이 발표하자, 윤 대통령 변호인단이 “사실 왜곡과 조작”이라고 16일 반박했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UGVUDITDZNDD6KDXIKLP4KBR7I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령이 지난 13일 서울 종로구 헌법재판소에서 열린 탄핵심판 8차 변론에 출석해 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;변호인단은 이날 입장문을 내고 “단전 논의는 국회 기능 마비를 위한 것이 아니라 707특수임무단에 부여된 (출입)통제 임무를 수행하기 위해 나온 것”이라며 “민주당이 엉뚱한 사실을 갖고 대통령이 지시를 한 듯 허위사실로 선동에 나서고 있다”고 했다. &lt;br&gt;&lt;br&gt;변호인단은 707특임단 병력이 지하 1층으로 내려간 점을 들어 “본회의장 의결 방해를 위한 단전과는 무관함을 보여준다”며 “민주당이 공개한 영상은 대통령 공소장에서조차 언급되지 않은 내용”이라고 했다. 검찰이 공소장에 기재할 수 없다고 판단한 허위사실이라는 취지다. &lt;br&gt;&lt;br&gt;변호인단은 이어 “곽종근 전 특수전사령관 역시 단전에 관해 누구로부터 지시받은 사실 없이 자신이 한 것임을 증언했다”고도 말했다. 변호인단은 “민주당 주장은 새로운 발견이 아니며 곽 전 사령관이 임의로 지시한 것에 대한 재탕, 삼탕”이라고 했다.&lt;br&gt;&lt;br&gt;앞서 6일 헌재에서 열린 윤 대통령 탄핵 심판에서 곽 전 사령관은 ‘전기 차단은 누가 했느냐’는 윤 대통령 측 질문에 “제가”라고 답했다. “김용현 전 국방장관이나 대통령이 얘기한 게 아니다”고도 했다.&lt;br&gt;&lt;br&gt;민주당은 이날 기자회견을 열고 지난해 12월 4일 새벽 1시 6분쯤부터 5분 여 동안 계엄군이 국회 본관 지하 1층 전력을 차단한 사실을 확인했다며 계엄 해제 의결을 막으려던 윤 대통령의 지시가 있었다고 주장했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>빈자리 많던 서울대 헌법 수업, 올해는 학생들 몰려</title>
+      <link>https://www.chosun.com/national/national_general/2025/02/16/2GLCAULPOFD3ZL56FHGP5OJJB4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/02/16/2GLCAULPOFD3ZL56FHGP5OJJB4/</guid>
+      <dc:creator>박정훈 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 16 Feb 2025 08:50:46 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZED7ZRZWTANWA7O53IKYYKSFAA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울대 정문 전경./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;12·3 비상계엄 이후 맞이한 헌법재판소의 윤석열 대통령 탄핵심판 국면에서 정치와 헌법에 관한 전국민의 관심도가 높아지면서 서울대에서도 헌법 관련 강의 인기가 크게 오른 것으로 나타났다. &lt;br&gt;&lt;br&gt;서울대 올해 1학기 재학생 수강신청 결과 헌법 관련 학부 강의인 ‘헌법’ ‘시민교육과 헌법’ ‘한국정치사 입문’ 등 3개 교과목은 재학생 수강신청 정원을 꽉 채웠다. 헌법 강좌는 50명 정원, 시민교육과 헌법 강좌는 40명 정원, 한국정치사 입문 강좌는 100명 정원인데 모두 정원이 완전히 채워진 것이다. 민주시민과 헌법 강좌도 60명 정원 중 42명을 채운 것으로 나타났다. 4개 과목 평균 92.8%에 달하는 수강신청률로 지난해 1학기 평균 수강신청률(67.8%) 대비 25%p가량 상승했다. &lt;br&gt;&lt;br&gt;헌법 강좌의 경우 추후 로스쿨에 진학할 학생들이 선행학습을 위해 듣거나 행정고시 등 고시를 준비하는 학생들이 시험 대비를 위해 수강하는 경우가 많지만, 이처럼 높은 인기를 끄는 데엔 비상계엄 사태 이후 높아진 정치와 헌법에 대한 관심도를 반영한 것이란 분석이 나온다. &lt;br&gt;&lt;br&gt;헌법재판소에서 이르면 내달 윤 대통령 탄핵심판에 대해 결론을 낼 것으로 전망되는 만큼, 올해 열리는 서울대 헌법 관련 강의들에서도 윤 대통령 탄핵 사건을 적극적으로 다룰 수도 있다. &lt;br&gt;&lt;br&gt;한 서울대 교수는 “갑작스럽게 닥친 12·3 비상계엄 사태에 그간 정치나 법에 무관심했던 학생들도 사태에 대해 파악하기 위해 관심이 높아진 것으로 보인다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/ZED7ZRZWTANWA7O53IKYYKSFAA.jpg?width=4032&amp;height=3024&amp;auth=10784099da7f5c68b007dddf8db806e50cb67b61628c3c97646644cceaa8898d&amp;smart=true" type="image/jpeg" height="3024" width="4032">
+        <media:description type="plain">서울대 정문 전경./뉴스1</media:description>
+        <media:credit role="author" scheme="urn:ebu">뉴스1 ⓒ News1 황덕현 기자</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>양천구 한방병원서 화재… 환자 등 32명 대피</title>
+      <link>https://www.chosun.com/national/national_general/2025/02/16/RB3VU3MVUJBX5O2MKPESINWBYE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/02/16/RB3VU3MVUJBX5O2MKPESINWBYE/</guid>
+      <dc:creator>김혜민 기자, 박정훈 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 16 Feb 2025 09:05:51 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NPGB7NGZNDDXZ2MLHHG77W3K54.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;화재 일러스트. /조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 양천구 목동의 한 한방병원에서 화재가 발생해 환자 등 32명이 대피하는 소동이 16일 발생했다.&lt;br&gt;&lt;br&gt;서울 양천소방서는 이날 오전 11시 35분쯤 목동의 한 한방병원 건물 3층에서 화재가 발생했다고 밝혔다. 소방은 화재 발생 약 2시간만인 오후 1시 20분쯤 화재를 완전히 진압했다.&lt;br&gt;&lt;br&gt;이번 화재로 인한 사망자나 부상자 등 인명피해는 없었으나 병원에 입원해 있던 환자들을 비롯해 32명이 대피한 것으로 나타났다. &lt;br&gt;&lt;br&gt;소방 당국은 구체적 화재 원인을 조사할 계획이다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>[오늘의 운세]  2월 17일 월요일 (음력 1월 20일 丁巳)</title>
       <link>https://www.chosun.com/national/national_general/2025/02/16/ZWLH5OVCZ5G2VMJHBMGSW6WEIM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/02/16/ZWLH5OVCZ5G2VMJHBMGSW6WEIM/</guid>
@@ -900,42 +940,6 @@
       <description/>
       <pubDate>Fri, 14 Feb 2025 09:44:08 +0000</pubDate>
       <content:encoded>‘12·3 비상계엄’ 사태 당시 국회에 병력을 투입한 혐의로 구속 기소된 곽종근(57) 전 육군 특수전사령관이 옥중 입장문을 통해 “더불어민주당에 이용당했거나 회유당했다고 생각하지 않는다”고 14일 밝혔다. 국민의힘 성일종 의원의 주장을 반박한 것이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QVBRDA57ZBIFLJLB6XCTW3HMFU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;곽종근(가운데) 전 육군 특수전사령관이 지난해 12월 6일 더불어민주당 김병주(왼쪽) 의원 유튜브에 출연해 12·3 비상계엄 당시 상황에 대해 설명하고 있다. 오른쪽은 민주당 박선원 의원. /김병주 의원 유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;곽 전 사령관은 이날 변호인을 통해 공개한 자필 입장문에서 “저는 지금까지 모든 것을 사실에 기초해 제 의사대로 판단하고 증언했다”며 이같이 말했다.&lt;br&gt;&lt;br&gt;곽 전 사령관은 계엄 선포 사흘 후인 작년 12월 6일 특전사를 찾아온 민주당 김병주·박선원 의원 유튜브 방송에 출연해 관련 진술을 한 것에 대해선 “당연히 여야 국방위원들이 함께 계신 장소에서 (말)하는 것이 맞는다고 생각한다”며 “여야 의원들이 같이 있는 장소에서 하는 것이 좋겠다는 의견도 있었다”고 했다.&lt;br&gt;&lt;br&gt;그러면서도 “당시 12월 5일 국회 국방위원회는 취소됐고 저는 12월 6일 오후 직무 정지된다는 것을 알았기에 최소한 직책을 유지한 상태에서 설명해야 부하들을 보호할 수 있다고 생각해 인터뷰에 응했다”고 해명했다.&lt;br&gt;&lt;br&gt;이 유튜브 방송에서 곽 전 사령관은 계엄 작전 당시 국회 병력 배치 상황 등을 설명하다가 “본회의장으로 일부 들어갔던 인원이 있고 밖에 일부 인원이 있었는데, 제가 그 조치를 하면서 (김용현) 전임 장관으로부터 국회의사당 안에 있는 인원들을, 요원들을 밖으로 좀 빼 내라(는 얘기를 들었다)”고 말했다.&lt;br&gt;&lt;br&gt;이에 박 의원이 곧바로 “의원들을 끌어내라(고 한 것이냐)”라고 했고, 김 의원도 “국회의원들을요”라고 되묻자 곽 전 사령관은 “예”라고 대답했다. 이른바 ‘의원 끌어내라’ 발언의 단초를 제공한 것이다. 다만 곽 전 사령관은 지난 6일 윤석열 대통령 탄핵 심판 공개 변론에서 “윤 대통령이 ‘국회의원’을 끌어내라고 한 적은 없다. ‘인원’으로 기억한다”고 했다. 윤 대통령과 김용현 전 국방 장관은 계엄군 지휘관들에게 의원들을 끄집어내라고 지시한 적이 없다는 입장이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4BKFG36K5TA2SMSPB4GVT255WQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;곽종근 전 육군 특수전사령관이 지난 6일 서울 종로구 헌법재판소에서 열린 윤석열 대통령 탄핵심판 6차 변론기일에서 질문에 답하고 있다. /헌법재판소&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;곽 전 사령관은 제출한 ‘자수서’에 대해서도 얘기했다. 그는 “자수서에 순화해서 표현했던 내용들을 그대로 정확하게 말하고자 ‘부수고, 끄집어 내라’는 표현 등 모두 당시 대통령님 말씀의 기억에 기초해 수정한 것”이라며 “다만 ‘도끼’라는 용어 표현은 당시에도 지금도 기억에 없다”고 했다.&lt;br&gt;&lt;br&gt;또 곽 전 사령관은 “민주당이 도와주겠다고 얘기했다는데, 그것에 대한 생각이 없었고 무엇을 도와준지도 모르겠다”며 “변호사 지원도 없었고, 부승찬 의원 소개로 만난 변호인과는 1시간 정도 이야기하고 선임계 제출 없이 끝났다”고 했다.&lt;br&gt;&lt;br&gt;다만 박범계 의원 측의 ‘공익제보자 신청 지원’ 의혹과 관련해선 “정확히 제 불찰이고 잘못”이라고 인정했다. 그는 “당시에는 잘 모르는 상태에서 신청을 해주겠다고 해 작성했지만, ‘회유 수단’이라는 보도가 있어서 상황을 다시 인식하게 됐다”며 “현재 중지된 상태라고 들었다”고 밝혔다. 공익신고자 보호법에 따라 공익신고자로 인정받으면 비밀 보장과 불이익 금지, 신변 보호 조치 등을 적용받는다.&lt;br&gt;&lt;br&gt;곽 전 사령관은 글 말미에 자신의 ‘생각 정리’라며 “본질을 흐리기 위한 여러가지 생각과 말들이 있을 수 있지만 그 본질은 변하지 않는다”고 했다.&lt;br&gt;&lt;br&gt;앞서 성일종 의원은 “김현태 육군특수전사령부 707특수임무단장이 ‘민주당 의원들한테 완전히 이용당했다’고 이야기했다”고 밝히며 민주당이 곽 전 사령관을 이처럼 회유한 정황을 확인했다고 주장했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>정진상, ‘보석 조건 위반’으로 과태료... 변호인 통해 증인 접촉</title>
-      <link>https://www.chosun.com/national/court_law/2025/02/14/XT5EOXCQXFFDPLVSARN2S5PCNE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/02/14/XT5EOXCQXFFDPLVSARN2S5PCNE/</guid>
-      <dc:creator>유종헌 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 14 Feb 2025 08:49:21 +0000</pubDate>
-      <content:encoded>대장동 개발 비리 등으로 이재명 더불어민주당 대표와 함께 재판을 받고 있는 정진상 전 더불어민주당 대표실 정무조정실장이 법원 보석 조건을 어겨 과태료 300만원을 부과받게 됐다.&lt;br&gt;&lt;br&gt;서울중앙지법 형사합의33부(재판장 김동현)는 14일 “정씨의 보석 조건이 여러 차례 문제된 적 있어 경고적 차원에서라도 과태료를 부과하는 게 맞는다고 생각한다”며 “(과태료 부과) 결정문을 정식 발부하겠다. 금액은 300만원을 생각하고 있다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FZX3A4S3L6FOMPYNZPBPL7POZY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이재명 더불어민주당 대표의 최측근인 정진상 전 당대표 정무조정실장. /뉴스1 ⓒ News1 박지혜 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정씨는 변호인을 통해 대장동 재판 증인을 접촉하고도 이를 4개월 간 재판부에 신고하지 않은 것으로 조사됐다. 유동규 전 성남도시개발공사 기획본부장이 다니던 유흥식당의 종업원 A씨가 지난해 9월 이 재판에 증인으로 출석했는데, 재판이 종료된 뒤 정씨 측 변호인이 증인과 통화한 것이다. 당초 구속 기소됐던 정씨는 사건 관계인들과 일체 연락 및 접촉 금지 등을 조건으로 보석 석방된 상태다. &lt;br&gt;&lt;br&gt;정씨 측 변호인은 A씨와의 통화 내용을 바탕으로 지난 1월 유씨를 신문했다. 정씨 측은 유씨를 향해 “A씨에게 ‘100억원을 벌어서 줄 테니 네가 보관하라’고 했느냐” “’이 대표가 알면 큰일난다. 토사구팽 당한다’고 했느냐”고 물었다. A씨는 지난해 9월 재판에서 “유씨로부터 1500만원을 받았다”고 증언한 적은 있지만, ‘100억원 약속’ ‘토사구팽’ 증언은 한 적 없다.&lt;br&gt;&lt;br&gt;A씨가 법정에서 증언한 적 없는 내용이 언급된 경위를 묻자 정씨 측은 “A씨가 재판 이후 ‘무서워서 말을 다 못 해 미안하다’고 먼저 연락을 해 왔고 그때 100억원 등을 언급했다”며 “당시 통화를 녹음해둔 것”이라고 밝혔다.&lt;br&gt;&lt;br&gt;검찰은 “정씨가 변호인을 통해 제3자를 간접 접촉하고도 이 사실을 수 개월 간 숨겼다”며 “보석 조건을 명백히 어긴 것”이라고 했다.&lt;br&gt;&lt;br&gt;정씨 측은 “A씨와 연락한 사실은 정씨에게 말하지 않았다”고 했지만, 재판부는 “객관적으로 생각했을 때 변호인이 사건의 중요 내용을 피고인과 협의했을 것으로 보인다”면서 “정씨도 이 내용을 어느정도 파악했을 거라 판단된다”고 했다. &lt;br&gt;&lt;br&gt;정씨는 지난해 6월에도 보석 조건인 ‘자정 전 귀가’를 어겨 재판부의 주의를 받은 적 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘전국민 25만원’ 반대한 김동연 “민생지원금은 취약계층에게”</title>
-      <link>https://www.chosun.com/national/national_general/2025/02/14/D4ESG4UAXBFD3KS5HB7SHEMZAQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/02/14/D4ESG4UAXBFD3KS5HB7SHEMZAQ/</guid>
-      <dc:creator>김수언 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 14 Feb 2025 08:52:48 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/T27YORYF75P5ZDOVHKIKDBEEQY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김동연 경기도지사가 14일 오전 광주 서구 홀리데이인 광주호텔에서 열린 광주경총 금요조찬포럼에서 '호남 정신과 유쾌한 반란'을 주제로 강연하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김동연 경기도지사는 더불어민주당이 제시한 35조 규모 슈퍼 추경안을 두고, “민생회복지원금만큼은 다른 입장을 가져줬으면 한다”고 14일 말했다. 전 국민에게 1인당 25만원의 민생회복지원금을 지역화폐로 지급해야 한다는 민주당에 사실상 반대하고 나선 것이다.&lt;br&gt;&lt;br&gt;지난 13일부터 1박 2일 일정으로 광주를 방문해 일정을 소화하고 있는 김 지사는, 이날 오전 광주경영자총협회 특강에서 이 같은 입장을 밝혔다.&lt;br&gt;&lt;br&gt;김 지사는 “어제 민주당에서 추경안을 발표했다. 35조 추경 규모를 이야기했고 그중에 민생회복이 24조, 그리고 경제활성화에 11조 투자를 주장했다”며 “여전히 전 국민에게 25만원씩 민생회복지원금을 주자고 되어 있다고 들었다. 13조더라. 민생회복지원금을 주는 것은 찬성이지만, 전 국민에게 똑같이 25만원씩 나눠주는 것에 대해서는 문제가 있다”고 했다.&lt;br&gt;&lt;br&gt;김 지사는 전 국민 민생회복지원금은 ‘한계소비 성향’(소득이 올라가면 돈을 쓰는 비율)과 정책 일관성 등과 관련해 문제가 있다며 취약계층에 대한 ‘두텁고 촘촘한 지원’을 주장했다. 보편지급이 아닌 선별지급이 맞다는 것이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RL35J3GAKBLD5OXDV226QVSYQA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;더불어민주당 진성준 정책위의장이 지난 13일 서울 여의도 국회에서 열린 추경 관련 기자간담회에서 세부 내용을 설명하고 있다. 왼쪽부터 허영 예산결산조정위원장, 진성준 정책위의장, 이정문 수석부의장. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김 지사는 “부자들이 소득이 늘어난다고 세 끼 먹을 밥을 네 끼를 먹겠느냐, 양복을 하루에 한 개씩 사겠느냐”며 “그렇지 않다. 부자들은 소득 늘어난다고, 그 돈을 소비하지는 않는다”고 했다. 김 지사는 “반면, 취약계층이나 중산층은 소비를 할 확률이 높다”며 “소득분위 25% 이하에게 민생회복지원금을 준다면 1인당 100만원씩 돌아갈 수 있다”고 했다.&lt;br&gt;&lt;br&gt;김 지사는 또 “(민주당이)추경을 위해서는 민생회복지원금 25만 원을 양보 내지 철회할 수도 있다고 했는데 결국 끼워넣었다. 민주당 지지율이 국민의힘과 붙었다고 하는 것은, 민주당이 그만큼 신뢰를 주고 있지 못하다는 것”이라며 “일관되게 우리 입장을 갖는 것이 중요하다”고도 했다.&lt;br&gt;&lt;br&gt;한편, 민주당이 전날(13일) 공개한 35조원 규모의 자체 추가경정예산안에는 ‘전 국민 25만원 지원금’을 13조원을 지역화폐로 풀고, 여기에 지방정부가 발행하는 지역화폐에 2조원의 재정을 지원하는 내용이 담겼다. 이재명 대표는 지난달 25만원 지원금을 추경 편성을 위해 철회하겠다고 밝힌 바 있다. 그러나 민주당은 돌연 입장을 선회해 ‘민생회복 소비쿠폰’으로 이름을 바꿔 그대로 포함했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘문자메시지로 경쟁후보 허위사실 공표’ 이완영 전 의원, 벌금 500만원 </title>
-      <link>https://www.chosun.com/national/regional/2025/02/14/VYEEM4B6FFEGNHJM5CFWEYS5UE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/02/14/VYEEM4B6FFEGNHJM5CFWEYS5UE/</guid>
-      <dc:creator>대구=노인호 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 14 Feb 2025 08:24:10 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IFNDFBIOIKS2M76KV4GSTLSBJ4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대구고법, 지법./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;총선을 앞두고 문자메시지를 이용해 경쟁후보에 대한 허위사실을 공표한 혐의로 재판에 넘겨진 이완영 전 국회의원에게 벌금형이 선고됐다. &lt;br&gt;&lt;br&gt;대구지법 제12형사부(재판장 어재원)는 14일 공직선거법 위반 혐의로 기소된 이 전 의원에게 벌금 500만원을 선고했다.&lt;br&gt;&lt;br&gt;이 전 의원은 지난해 22대 총선 국민의힘 예비후보 등록 기간, 같은 당 후보의 낙선을 목적으로 허위 사실이 담긴 문자메시지를 유권자 등에게 수차례 보낸 혐의로 재판에 넘겨졌다. 당시 이 전 의원은 고령·성주·칠곡 지역구 국회의원 공천을 신청했지만, 당 공천관리위원회로부터 부적격 처리를 받았다. &lt;br&gt;&lt;br&gt;재판부는 “발송된 메시지가 6800여건에 이르는 등 유권자들이 왜곡된 선택을 할 수도 있었던 만큼 죄책이 가볍지 않다. 다만 공천에서 탈락해 선거 결과의 불공정성이 현실화되지 않은 점 등을 고려했다”고 양형 이유를 설명했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>서울대 ‘尹 탄핵 반대' 목소리...시진핑 자료실 철거 요구도</title>
-      <link>https://www.chosun.com/national/national_general/2025/02/14/MTK2OZLVURH7RERNZF25I4ICGY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/02/14/MTK2OZLVURH7RERNZF25I4ICGY/</guid>
-      <dc:creator>강지은 기자, 김나연 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 14 Feb 2025 08:13:02 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OXC5R3IHWWK2SEOXZNJJRYVDVI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울대학교 정문./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울대학교에서도 윤석열 대통령의 탄핵을 반대하는 목소리가 나오고 있다. 탄핵 반대 세력은 15일과 17일 관악캠퍼스에서 결집할 예정이다.&lt;br&gt;&lt;br&gt;15일 서울대 관악캠퍼스 학생회관 앞에서는 탄핵반대서울대인연대와 기독교 계열 보수 단체 ‘트루스포럼’의 공동 주최로 탄핵 반대 집회가 열린다. 트루스포럼 대표 김은구씨는 지난달 11일 여의도에서 열린 ‘세이브코리아’의 국가비상기도회에 참석해 발언한 인물이다. 주최 측은 “탄핵 반대에 대한 서울대인들의 강력한 뜻을 전하겠다”면서 “서울대 중앙도서관에 있는 시진핑자료실의 폐쇄를 촉구한다”고 했다.&lt;br&gt;&lt;br&gt;시진핑 자료실은 2014년 시진핑 주석이 서울대에서 강의한 뒤 1만52점의 중국 관련 도서·영상 자료를 기증하면서 만들어졌다. 자료실 명칭을 둘러싸고 시민단체와 일부 서울대 동문들 사이에서 “한국은 중국의 속국이었다는 발언으로 우리나라 역사를 왜곡시키는 중국 최고 지도자를 예우해 주는 게 맞느냐”는 비판이 제기됐다. 서울대 측은 “자료실 명칭 변경이나 폐쇄 계획은 없다”고 했다.&lt;br&gt;&lt;br&gt;17일 오전 11시 30분에는 서울대 재학생을 중심으로 한 탄핵 반대 시국선언도 열린다. 학생회 주도의 모임은 아니며, 재학생 30여 명이 모일 예정이라고 주최 측은 설명했다. 이들이 지난 11일부터 재학생 및 졸업생을 대상으로 받기 시작한 시국선언문 서명에는 약 300명이 참여했다고 한다.&lt;br&gt;&lt;br&gt;한편 캠퍼스 내부에서 탄핵 반대 집회가 열린다는 소식을 접한 일부 학생은 탄핵 반대 세력에 맞서 15일 오후 4시 윤 대통령의 퇴진을 요구하기 위해 모이겠다는 뜻을 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>“윤석열 옹호 세력 감히 광주에”…김영록 전남지사, 탄핵 촉구 집회 참석</title>
