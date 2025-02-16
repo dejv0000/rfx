@@ -13,6 +13,42 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>오세훈 “이재명 ‘정년연장’, 청년들 더욱 말라비틀어지게 할 것”</title>
+      <link>https://www.chosun.com/national/national_general/2025/02/16/W7TCFCTINNA6HBP5EQ37W5OY2I/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/02/16/W7TCFCTINNA6HBP5EQ37W5OY2I/</guid>
+      <dc:creator>최연진 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 16 Feb 2025 03:02:07 +0000</pubDate>
+      <content:encoded>오세훈 서울시장은 16일 이재명 더불어민주당 대표의 정년연장 제안에 대해 “청년들을 더욱 말라비틀어지게 만들 수 있다”고 했다.&lt;br&gt;&lt;br&gt;오 시장은 이날 페이스북 글에서 “가장 시급한 과제가 ‘공정한 일터’를 만드는 일”이라며 이같이 말했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JMYW7DTWP5LKMGJCHL6HLMFXME.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;오세훈 서울시장. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;오 시장은 “통계청에 따르면 청년 고용률이 4년 만에 최대폭으로 감소한 것으로 나타났다. 20대의 임금상승률 또한 전 연령대 중 가장 낮아, 70대보다도 임금이 더디게 올랐다고 한다”며 “청년의 삶에서 양질의 일자리를 차지할 기회가 사라지고 있다는 방증”이라고 했다. &lt;br&gt;&lt;br&gt;이어 “성장의 과실은 기성세대가 누리고, 막상 자신들은 만성적 저성장과 복지재정 부담에 짓눌리게 될 것이라는 청년들의 분노는 실로 타당하다”며 “기성세대의 한 사람으로서 미안한 마음이 드는 동시에 큰 책임감을 느낀다”고 했다.&lt;br&gt;&lt;br&gt;그러면서 “청년들은 ‘공정한 경쟁과 합당한 보상’을 요구하고 있다. 절규에 가까운 청년들의 외침을 더는 외면해선 안 된다”며 “나이와 연차에 따라 임금을 정하는 연공급 체계는 정의롭지도 공정하지도 않다”고 했다. 이어 “개인의 역량을 중심으로 보상하는 직무급 및 성과급제 임금체계를 도입해야 한다”며 “그래야 기업이 부담 없이 청년 일자리를 늘리고, 청년도 자신의 역량을 자유롭게 발휘할 수 있다”고 했다.&lt;br&gt;&lt;br&gt;오 시장은 “이재명 대표는 지난 교섭단체대표연설에서 정년 연장을 주장했다”며 “공정한 일터가 선행되지 않은 정년 연장은 민주당 모 인사의 망언처럼 그렇지 않아도 어려운 청년들을 더욱 말라비틀어지게 만들 수 있다”고 했다. 그러면서 “의회 다수당인 민주당과 양대 노총의 태도가 중요하다”며 “노동시장에서 ‘세대 간 정의’를 바로 세우는 일에 적극 동참하기를 촉구한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>서울은 줄고 지방권은 늘어...의대 합격에도 등록 포기 이유는</title>
+      <link>https://www.chosun.com/national/national_general/2025/02/16/OLWXZKWBXJEXHIVD4LX4MBKC2Q/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/02/16/OLWXZKWBXJEXHIVD4LX4MBKC2Q/</guid>
+      <dc:creator>정아임 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 16 Feb 2025 02:16:14 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TKSTDCAOJCBWKIF5NC4O25YCQM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한 의과대학의 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2025학년도 대입 정시모집에서 의과대학에 합격하고도 등록을 포기한 경우가 늘어난 것으로 나타났다. 의대 모집 정원이 확대되면서 지방과 서울권 의대에 중복 합격해 빠져나간 인원이 증가한 것으로 풀이된다.&lt;br&gt;&lt;br&gt;16일 종로학원이 전국 39개 의대 중 2025학년도 정시 모집 최초 합격자 등록 상황을 공개한 7개 의대 자료를 분석한 결과 합격자 41명이 등록을 포기했다. 이는 전년도(35명)보다 다소 늘어난 수치다.&lt;br&gt;&lt;br&gt;수도권과 지방권 의대를 나눠 살펴보면 수도권 의대는 등록 포기가 줄어든 반면 지방 의대는 늘었다. 서울권 4개 의대(서울대·연세대·가톨릭대·이화여대)에서 최초 합격자 24명이 등록을 포기했다. 이는 전년(28명) 대비 14.3% 줄어든 수치다. 의대별로는 연세대가 12명으로 가장 많았고 이화여대 6명, 가톨릭대 5명, 서울대 1명으로 나타났다.&lt;br&gt;&lt;br&gt;지방권 3개 의대(부산대·연세대 미래·제주대)에서는 2025학년도 정시 최초 합격자 17명이 등록을 포기했다. 전년(7명)보다 142.9% 증가했다. 부산대 13명(전년 5명), 연세대 미래 캠퍼스 4명(전년 2명) 등이 등록을 포기했고 제주대에서는 전년과 동일하게 포기자가 없었다.&lt;br&gt;&lt;br&gt;의대뿐만 아니라 약대·치대·한의대 등 메디컬 학과에서도 다수의 등록 포기자가 있었다. 2025학년도 정시 최초 합격자 중 연세대 약대는 83.3%, 연세대 치대 53.8%, 서울대 치대 23.8%가 등록을 포기했다. 고려대 세종캠퍼스 약대 69.2%, 부산대 약대 29.4%, 부산대 한의대 66.7%도 등록을 포기했다.&lt;br&gt;&lt;br&gt;임성호 종로학원 대표는 “서울권에서는 의대 증원이 없었던 반면 지방 소재 의대에서는 모집 정원이 확대되면서 중복 합격으로 인한 등록 포기자가 지방권 의대에서 더 많이 발생했다”며 “의대뿐만 아니라 약대·치대·한의대 등 의약학계열 전 부분에서 중복 합격으로 인한 추가 합격 규모도 전년보다 커질 것으로 보인다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>가수 비 “구준엽 위해 기도해달라”...대만 공연 중 故 서희원 애도</title>
+      <link>https://www.chosun.com/national/people/2025/02/16/4XSSEFZFBFF37HRIEXDV6BQBOU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/02/16/4XSSEFZFBFF37HRIEXDV6BQBOU/</guid>
+      <dc:creator>정아임 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 16 Feb 2025 01:06:34 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FARPIYZB5VF7DBF32YQCJIYZNE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;가수 겸 배우 비(정지훈)./SCMP&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;가수 겸 배우 비(정지훈)가 대만 공연 중 최근 세상을 떠난 가수 구준엽(56)의 아내이자 대만 배우인 서희원(쉬시위안‧48)에 대해 애도 시간을 가졌다.&lt;br&gt;&lt;br&gt;15일 대만 매체 ET투데이에 따르면 비는 이날 대만 가오슝에서 아시아 투어 ‘스틸 레이닝 아시아 투어 콘서트’를 열었다.&lt;br&gt;&lt;br&gt;콘서트가 끝나갈 때쯤 비는 “가장 사랑하는 선배, 구준엽 형님은 K팝에서 존경받는 사람”이라며 “그의 아픔에 모두 슬퍼하고 있다. 돌아가신 분은 내 형수다. 비록 한 번도 만난 적 없지만, 구준엽 후배로서 여기 왔으니 애도하고 싶다. 모두 10초간 묵념해달라”고 부탁했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CCZ6VQSGPVA6ZCJVTT6GNJI324.png"&gt;&lt;figcaption&gt;&lt;small&gt;가수 겸 배우 비(정지훈)가 대만 공연 중 가수 구준엽의 아내인 대만 배우 서희원(쉬시위안)을 애도하고 있다./ET투데이&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그러면서 “직접 볼 수는 없지만, 멀리서 기도하고 싶다. 구준엽을 응원하고 지지해달라. 최고의 선배이고 정직하고 친절한 사람이다. 여러분 모두 정말 감사하다”라고 했다.&lt;br&gt;&lt;br&gt;서희원은 지난 2일 일본 가족 여행 중 독감으로 인한 폐렴 및 패혈증으로 세상을 떠났다. 대만 현지 매체들에 따르면 서희원은 지난 14일 수목장으로 영면에 들었다. 구준엽을 비롯해 유가족과 지인들이 고인의 마지막을 배웅한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;서희원은 구준엽과 1998년 만나 1년간 열애하다 헤어졌다. 이후 2011년 중국인 재벌 2세 사업가 왕소비와 결혼해 두 자녀를 낳았으며 2021년 이혼했다. 이후 구준엽은 이혼한 서희원과 20여 년 만에 재회했고 2022년 두 사람은 정식 부부가 됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>홍준표 “진보·보수 벽 허물어야 선진대국”</title>
+      <link>https://www.chosun.com/politics/politics_general/2025/02/16/Y3HHF3WDSVC2XJU7PTI6QD6Y3M/</link>
+      <guid isPermaLink="true">https://www.chosun.com/politics/politics_general/2025/02/16/Y3HHF3WDSVC2XJU7PTI6QD6Y3M/</guid>
+      <dc:creator>이승규 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 16 Feb 2025 01:56:36 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CXSZDHJYFHRXMKB2CAOPJAZUCQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;홍준표 대구시장/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 15일 광주광역시 금남로에서 윤석열 대통령 탄핵 반대 집회가 열린 것과 관련해 홍준표 대구시장이 “보수와 진보의 벽이 허물어져야 한다”는 소감을 남겼다. 광주 금남로는 1980년 5·18 민주화운동 당시 수많은 광주시민들이 집결했던 곳으로, 이날 탄핵 찬성 및 반대 집회가 동시에 열렸다.&lt;br&gt;&lt;br&gt;16일 홍 시장은 자신의 페이스북에 “80년대 이후 광주에서 수만명의 군중이 모인 보수단체 집회가 금남로에서 개최된 것은 이번이 처음”이라며 “금남로는 광주 민주화의 상징거리인데 그곳에서 탄핵 반대 보수 집회가 개최될 수 있었다는 건 그만큼 광주가 변하고 있다는 뜻”이라고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Y6JHH2XKHFHVDGJUVU5KUMOORU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;15일 광주 동구 금남로에서는 윤석열 대통령 탄핵찬성집회(사진 오른쪽)와 탄핵반대집회(왼쪽)가 불과 70미터 거리를 두고 동시에 열렸다. 경찰은 양측의 충돌을 막기위해 경찰버스로 차벽을 세워 만약의 사태에 대비했다./ 김영근 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그러면서 홍 시장은 “동·서의 벽이 허물어지고 보수·진보의 벽이 허물어져야 대한민국이 하나가 된다”며 “서로의 편견과 아집을 허물고 하나된 광장으로 나가야 선진대국시대가 된다. 그 날을 기대한다”고 했다.&lt;br&gt;&lt;br&gt;한편 전날 열린 광주의 탄핵 반대 집회엔 경찰 비공식 추산으로 3만명, 탄핵 찬성 집회는 1만명이 모였다. 그러나 양측 모두 별다른 물리적인 충돌 없이 집회를 마쳤다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>교사가 범행 자백했는데 경찰이 8세 초등생 부검한 이유는 </title>
       <link>https://www.chosun.com/national/national_general/2025/02/16/GMRNZNTCTBFABAHI6FDUDFEJ4A/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/02/16/GMRNZNTCTBFABAHI6FDUDFEJ4A/</guid>
@@ -912,15 +948,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/L4GEXC5HOZAC5NA5TDDI7RQ23U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;충남 서천에서 2살 아기가 숨진 채 발견돼 경찰이 수사에 나섰다. &lt;br&gt;&lt;br&gt;충남 서천경찰서는 시체유기 혐의로 숨진 아기의 20대 부모를 붙잡아 조사하고 있다고 14일 밝혔다. &lt;br&gt;&lt;br&gt;경찰 등에 따르면 전날 오후 8시 5분쯤 ‘어린이집에서 아이가 연락되지 않고 소재 파악이 안 된다’는 서천군청의 신고가 접수됐다. &lt;br&gt;&lt;br&gt;신고를 받은 경찰은 아이 거주지인 서천읍 한 다가구주택 집을 수색해 베란다 다용도실에서 숨져 있는 두 살 여아를 발견했다.&lt;br&gt;&lt;br&gt;시신은 이미 부패한 상태로, 경찰은 아이가 사망한 지 시일이 꽤 지난 것으로 파악했다.&lt;br&gt;&lt;br&gt;경찰은 현장에서 20대 부모를 긴급체포했다. 아이 엄마는 특별한 직업은 없고, 남편은 지적장애가 있는 것으로 알려졌다. 이들은 기초주거급여 대상이었던 것으로 전해졌다. &lt;br&gt;&lt;br&gt;이들 부부에게는 생후 3개월 된 자녀도 있었지만, 신변에 문제는 없는 것으로 알려졌다. &lt;br&gt;&lt;br&gt;서천군은 지난 13일 연 보육기관 회의에서 숨진 영아가 다니던 보육기관으로부터 “지난해 7월 퇴소한 후 다른 보육기관 등에 입소한 기록이 없다”는 연락을 받고 경찰에 신고했다. &lt;br&gt;&lt;br&gt;경찰은 국립과학수사연구원에 아이 부검을 의뢰하고 부모를 상대로 정확한 사건 경위를 조사하고 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>2배 표차로 당선된 서울대 총학이 출범 3개월만에 실각 위기 맞은 이유는?</title>
-      <link>https://www.chosun.com/national/national_general/2025/02/10/AOIKGOOVCVCPFFWLWDDG7SYAKY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/02/10/AOIKGOOVCVCPFFWLWDDG7SYAKY/</guid>
-      <dc:creator>박정훈 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 10 Feb 2025 03:34:01 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4MOKHWZZQRLVVIGXKAOIWZBDPA.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;서울대학교 학생들이 작년 12월 5일 서울 관악구 서울대학교 아크로폴리스 광장에서 윤석열 대통령 퇴진 요구를 안건으로 열린 전체 총학생회에서 스마트폰 불빛을 흔들고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난해 1년간의 총학생회 부재를 딛고 11월 총학 선거에서 2배 가까운 표차이로 승리하며 당선된 제 64대 서울대 총학생회장단 ‘시그널’이 출범 3개월만에 사퇴 여론에 휩싸였다. 개인적인 사유로 윤석열 대통령 퇴진 집회 참여를 번복했다는 논란과 함께 지역 혐오 발언을 했다는 논란이 따라붙으며 서울대생 100여명의 요청으로 지난달 총학생회장단 사퇴촉구안이 발의돼 오는 12일 전체학생대표자회의(전학대회)에서 관련 안건이 논의될 예정이다.&lt;br&gt;&lt;br&gt;사건의 발단은 지난해 12·3 비상계엄 이후 촉발된 범국민적 윤석열 대통령 퇴진 국면으로 돌아간다. 당시 김민규 서울대 총학생회장은 12월 13일 열리는 ‘대통령 퇴진 전국 대학생 총궐기대회’에 참여하기로 한 학생총회의 의결을 뒤집고 개인적인 이유로 돌연 불참 의사를 밝혔다가 이를 번복했다. 이후 회의록을 통해 총궐기대회 실무책임자인 재학생 A씨와의 불화가 불참 이유였음이 밝혀졌으나, 김 회장은 ‘안전’ 문제가 불참 의사의 주된 이유였고, 이 문제가 추후 해결이 된 것이라 해명했다. 그러나 학내외에선 구체적으로 어떤 안전 문제가 우려됐는지에 대한 해명이 충분치 않다는 지적이 나왔다. 이에 김 회장은 지난달 2일 신년 입장문을 통해 이를 해명했고, 학우들의 비판에 12일 뒤 사과문을 게재하기에 이른다.&lt;br&gt;&lt;br&gt;김 회장의 러닝메이트로 당선된 김보희 부총학생회장은 지난해 당선 직후 단과대별 득표율을 영·호남에 빗대 지역 혐오 논란이 일었다. 당시 ‘시그널’은 8398표 중 5445표(64.84%)를 얻어 2814표(33.51%)를 얻는 데 그친 ‘하루’에 크게 승리했다. 김 부회장은 본인이 속한 시그널의 득표율이 우세했던 농생대는 대구에, 열세했던 연건캠퍼스(의대)는 호남에 비유하는 듯한 이미지를 선거운동본부 단체채팅방에 게시했다. 사건 직후 김 부회장은 ‘득표율이 아닌 투표율인 줄 알았다’고 하다가, 이후 사과문에서 ‘득표율을 공유하기 위한 것이었다’고 말을 바꿨다.&lt;br&gt;&lt;br&gt;서울대 총학생회장의 거취 여부는 오는 12일 오후 7시 2025 상반기 임시전체학생대표자회의에서 서울대 전체 학과 대표 등이 모인 가운데 논의될 예정이다. 150여명의 대의원 중 재적 인원 과반에 찬성 인원 과반이 충족되면 사퇴촉구안은 의결된다. 사퇴촉구안을 대표 발의한 서울대생 김모(23)씨는 “개인적 불화를 이유로 총궐기대회에 불참하려 한 것 자체도 문제지만 이후 제대로 된 반성 없이 사과문이 아닌 신년 인사로 문제를 축소하려는 태도는 서울대 총학생회장에 걸맞는 책임의식이 아니라고 느꼈다”고 했다. &lt;br&gt;&lt;br&gt;김 회장은 “최대한 전학대회에서 입장을 소명하겠다”는 입장이다. 다만 사퇴촉구안이 의결되더라도 강제력은 없어 실제 사퇴까지 이어질지는 미지수다. 일각에선 총학생회장단이 사퇴촉구안 의결에도 사퇴하지 않을 시 ‘탄핵소추안’까지 발의될 수 있다는 말이 나온다.&lt;br&gt;&lt;br&gt;현재 서울대 총학이 맞이한 위기는 윤석열 대통령 조기 탄핵 국면과 맞물리며 더욱 주목이 쏠린다. 아이러니하게도 9년 전 박근혜 대통령 탄핵 국면 당시에도 서울대 총학생회장이 사퇴하는 일이 벌어졌었다.&lt;br&gt;&lt;br&gt;2016년 말 최순실 게이트 등 국정농단 의혹으로 정계가 시끄럽고 내부로는 시흥캠퍼스 문제로 성낙인 총장에 대한 비판 여론이 높았을 때 당선된 이탁규 총학생회장은 당선 직후 성추행 및 외모비하 발언 논란, 시험 중 부정행위를 저질렀다는 논란이 터져나오며 임기 시작 후 2주만에 직무 정지가 결의됐고 다음해 2월 28일 ‘총학생회장 사퇴권고안’이 가결되며 이 회장은 사퇴하고 임수빈 부총학생회장이 홀로 남아 임기를 마저 수행했었다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[속보]부산 반얀트리 신축공사장 화재... 6명 사망, 7명 부상</title>
       <link>https://www.chosun.com/national/incident/2025/02/14/PHNKEAKFQ5CVJKNEASQC54HAD4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/02/14/PHNKEAKFQ5CVJKNEASQC54HAD4/</guid>
@@ -931,15 +958,6 @@
       <media:content url="https://www.chosun.com/resizer/v2/SDJIL5YDCZETVOQVR7VQTYY65U.gif?width=480&amp;height=270&amp;auth=caabee159b9b7c6d8607e5eaca214ead92b0cb7db75e6b92f90947900fe44ada&amp;smart=true" type="image/jpeg" height="270" width="480">
         <media:description type="plain">부산 기장군 반얀트리 화재./부산소방본부 제공</media:description>
       </media:content>
-    </item>
-    <item>
-      <title>이숙연 숙명여대 약학대학 명예교수 별세...향년 98세</title>
-      <link>https://www.chosun.com/national/people/2025/02/14/4GIF7NTWNZGO5BZEOU7TH4VBXU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/02/14/4GIF7NTWNZGO5BZEOU7TH4VBXU/</guid>
-      <dc:creator>장윤 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 14 Feb 2025 05:03:02 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WGWQNOLAVBDEBI6P5RF2WHXCHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이숙연 숙명여대 약학대학 명예교수가 지난 2020년 11월 숙명여대에 발전기금 1억원을 기부하고 있다./숙명여대 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이숙연 숙명여대 약학대학 명예교수가 14일 향년 98세로 별세했다.&lt;br&gt;&lt;br&gt;고인은 1956년 4월 숙명여대 약학대학 교수로 임용돼 38년 5개월간 재직하고 1994년 8월 퇴직했다. 고인은 약학대학 학장, 약학대학 연구소장 등을 역임하며 학교 발전에 기여했다.&lt;br&gt;&lt;br&gt;고인은 지난 2020년 숙명여대에 발전기금 1억원을 기부해 이숙연장학기금을 조성하는 등 후학 양성에도 힘썼다.&lt;br&gt;&lt;br&gt;유족으로는 충남대 사회대 교수 등 1남 2녀가 있다. 빈소는 충남대병원 장례식장에 마련됐으며, 발인은 2025년 2월 16일이다. 장지는 세종은하수공원. (044)863-4444.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>﻿강남 사는 60대 여성 노린 보이스피싱, 21억 뜯은 ‘이 수법’</title>
@@ -967,24 +985,6 @@
       <description/>
       <pubDate>Fri, 14 Feb 2025 04:03:44 +0000</pubDate>
       <content:encoded>서울 성북구 석관동 일대에 2886가구 규모 아파트 단지 2곳이 들어설 전망이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5FFRL44C5RD33HX45FFK2IVHEI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;모아타운 사업이 추진되고 있는 서울 성북구 석관동 일대의 사업 후 예상도. /서울시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울시는 지난 13일 열린 제3차 소규모주택정비 통합심의 소위원회에서 이 같은 내용을 담은 모아타운 관리계획안을 통과시켰다고 14일 밝혔다.&lt;br&gt;&lt;br&gt;모아타운은 서울시의 노후 주택 재개발 사업이다. 100~400가구 규모의 다세대·다가구 주택 조합 4~5개를 묶어 통합 재개발한다.&lt;br&gt;&lt;br&gt;이번에 관리 계획안이 통과된 석관동 일대는 조선 경종의 묘인 의릉 인근에 있어 높이 규제를 받아오던 지역이다. 노후 건축물이 밀집하고 도로도 좁아 주거 환경이 열악했지만, 높이 규제로 사업성이 낮아 재개발 추진이 어려웠다.&lt;br&gt;&lt;br&gt;재개발 사업이 마무리되면 이 지역에는 각각 1703가구, 1183가구 규모 아파트 단지 2곳이 들어서게 된다. 높이 규제가 있는 의릉 인근에 저층동을, 단지 중앙에 고층동을 배치했다.&lt;br&gt;&lt;br&gt;한편 용산구 원효로4가 일대에는 604가구 규모 재개발이 추진된다.&lt;br&gt;&lt;br&gt;이 지역은 노후 건축물 비율이 74%에 이르고 반지하 주택 비율도 24%에 달하는 저층 주거 밀집 지역이다. 도로가 좁고 주차 공간이 부족해 지난 2022년 모아타운 대상지로 선정됐다.&lt;br&gt;&lt;br&gt;사업이 마무리되면 도로 폭이 기존 8m에서 12m로 넓어지고, 용산문화원과 주민센터 등을 잇는 공공 보행 통로도 생기게 된다. &lt;br&gt;&lt;br&gt;서울시 관계자는 “사업이 마무리될 때까지 지원을 아끼지 않겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘새만금 태양광 정관계 로비’ 브로커 2심도 징역 1년 6개월</title>
-      <link>https://www.chosun.com/national/national_general/2025/02/14/EWLCGRPZ3VHI5FKHVHPMDZTTHM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/02/14/EWLCGRPZ3VHI5FKHVHPMDZTTHM/</guid>
-      <dc:creator>장윤 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 14 Feb 2025 02:47:32 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DOI2KNR2YOHBPEAONA4PZ5DRCM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울북부지법./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;새만금 수상 태양광 발전사업과 관련해 정·관계 인사에 로비하는 대가로 돈을 챙긴 혐의를 받는 브로커 서모씨가 2심에서도 1심과 같이 징역 1년 6개월을 선고받았다. 서울북부지법 형사항소2부(재판장 강영훈)는 14일 특정범죄 가중처벌법상 알선수재 혐의로 기소된 군산시민발전주식회사 대표 서모씨에게 1심과 같은 징역 1년 6개월을 선고했다. &lt;br&gt;&lt;br&gt;서씨는 2020년 전북 군산 지역 공무원을 비롯한 정·관계 인사들에게 새만금 수상 태양광 발전사업과 관련한 청탁을 하는 대가로 업계 관계자로부터 1억원 상당을 받은 혐의로 지난해 5월 재판에 넘겨졌다. 검찰은 신 의원이 서씨로부터 1억원 상당의 금품을 받은 혐의가 있다고 판단해 작년 12월 신 의원을 특정범죄가중법상 뇌물 등 혐의로 불구속 기소한 바 있다.&lt;br&gt;&lt;br&gt;재판부는 형량 산정을 변동할 사정이 없다면서 검찰과 서씨의 항소를 모두 기각했다. 재판부는 “원심에서 뇌물 범죄의 중대성을 고려했고 연루한 사정을, 실질적 이익이 없는 사정을 고려해 양형했다”며 양형 이유를 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>檢, ‘뇌물수수’ 혐의 송철호 전 울산시장 1심 무죄에 항소</title>
-      <link>https://www.chosun.com/national/2025/02/14/LII4FW7I2BFRXJQYTFRGZY632M/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2025/02/14/LII4FW7I2BFRXJQYTFRGZY632M/</guid>
-      <dc:creator>울산=김준호 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 14 Feb 2025 02:11:35 +0000</pubDate>
-      <content:encoded>검찰이 대가성 금품을 받은 혐의로 기소된 송철호 전 울산시장에게 무죄를 선고한 1심 판결에 불복해 항소했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UZX7RE7MUJLGJGQYJCYRHDXKYY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 7일 송철호 전 울산시장이 울산지방법원에서 열린 사전뇌물수수 및 정치자금법 위반 혐의 선고공판에서 무죄를 선고받고 취재진 질문에 답하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;울산지검은 사실오인과 법리 오해를 이유로 울산지법에 항소장을 제출했다고 14일 밝혔다. 검찰은 “원심 판단이 일부 증거들에 대한 판단을 누락한 채 일부만 인정한 것 같다”고 항소 이유를 밝혔다. &lt;br&gt;&lt;br&gt;송 전 시장은 지방선거 직전인 2018년 6월 5일 자신의 선거사무실에서 지역 중고차 매매업체 대표인 A씨로부터 2000만원을 받은 혐의로 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;앞서 검찰은 A씨가 당시 송철호 울산시장 후보 선거사무소에 찾아가 빈 골프공 상자에 현금을 넣어 제공한 것으로 보고 송 전 시장에게 징역 2년과 추징금 2000만원을 구형했다.&lt;br&gt;&lt;br&gt;1심 재판부는 송 전 시장과 A씨 사이에 금품이 오간 증거가 없다고 판단했다. 재판부는 “당시 선거사무소는 여러 사람으로 붐볐고 문도 열려 있어 금품을 주고받기 쉽지 않았다”며 “금품을 주고받은 것을 목격한 사람도 없다”고 했다. 또 “당시 송 후보가 상대 후보를 20% 이상 앞선 상황에서 굳이 금품을 받아 정치생명 부활의 기회를 위태롭게 할 이유도 없어 보인다”고 했다.&lt;br&gt;&lt;br&gt;A씨에 대해선 징역 2년을 선고했다. 그에게 뇌물을 받은 혐의를 받는 전 울산시민신문고위원회 위원 B씨에게도 징역 3년 6개월을 선고하고, 벌금 5000만원 추징을 명령했다.&lt;br&gt;&lt;br&gt;송 전 시장의 선거캠프 통합선거대책본부장 C씨에게는 징역 2년을, 송 전 시장 선거캠프 상황실장 D씨에게는 벌금 500만원을 각각 선고했다.&lt;br&gt;&lt;br&gt;법원은 A씨가 이들에게 민원 해결을 위해 금품을 건넨 것은 맞지만, 이 금품이 송 전 시장에게 전달됐다는 증거는 없다고 판단했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>‘경명구’ ‘서곶구’ ‘서해구’ ‘청라구’…인천 서구, 방위식 명칭 대신할 이름 찾기 본격화</title>
