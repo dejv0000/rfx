@@ -6,6 +6,46 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>호반그룹, 준법경영실장에 한양석 변호사 선임</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 375px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/205665.jpg" alt="34537.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;한양석 변호사&lt;/figcaption&gt;   &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;호반그룹(회장 김선규)은 준법경영실장으로&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="4914"&gt;한양석&lt;/span&gt;(63·사법연수원 17기) 변호사를 선임했다고 17일 밝혔다.&lt;br /&gt;&lt;br /&gt;한 실장은 광주고를 졸업하고 서울대 법학과를 나왔다. 1985년 제27회 사법시험에 합격해 1988년 사법연수원을 수료한 후 광주지방법원 순천지원 판사로 법조 경력을 시작했다. 이후 서울고등법원 판사, 대법원 재판연구관, 청주지방법원 부장판사, 사법연수원 교수, 서울중앙지방법원 부장판사 등을 거쳐 2012년 서울고등법원 부장판사를 역임했다. 2013년부터는 법무법인 광장에서 송무 전문 변호사로 활동했다.&lt;br /&gt;&lt;br /&gt;한 실장은 "기업의 사회적 책임과 윤리 경영에 대한 요구가 높아지는 만큼 호반그룹이 건전한 성장을 이룰 수 있도록 주력하겠다"고 말했다.&lt;br /&gt;&lt;br /&gt;호반그룹은 "이번 인사는 기업의 투명성 제고에 중점을 둔 것"이라며 "한 신임 실장이 풍부한 법조계 경험을 바탕으로 그룹의 준법경영 체계를 정비하고 장기적인 성장을 지원할 예정"이라고 밝혔다.&lt;/p&gt;</description>
+			<pubDate>Mon, 17 Feb 2025 06:15:10 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/205665</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/205665</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/205665.jpg</media:thumbnail>
+			<dc:creator>이진영 기자</dc:creator>
+		</item>
+		<item>
+			<title>지평, 부산상공회의소와 '통상임금 대법원 전원합의체 판결 분석' 설명회 개최</title>
+			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/thumb/180/205663.jpg" alt="26.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;법무법인 지평(대표변호사&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="2162"&gt;김지홍&lt;/span&gt;·&lt;span style="font-weight: bold;" class="lawmanlink" serial="7965"&gt;이행규&lt;/span&gt;)은 부산상공회의소와 공동으로 14일 부산 부산진구 범천동 부산상공회의소 상의홀에서 '통상임금 대법원 전원합의체 판결 분석과 기업의 대응'을 주제로 설명회를 개최했다.&lt;br /&gt;&lt;br /&gt;대법원은 지난해 12월 19일 전원합의체 판결을 통해 통상임금의 개념과 판단 기준을 변경했다. 통상임금은 연장·야간·휴일근로수당, 연차휴가수당, 해고예고수당 등 법정수당을 산정하는 기준이 되는 만큼 기업의 인건비에도 영향을 미친다. 이에 따라 기업들은 급여 체계에 따른 통상임금 해당 여부를 판단하는 데 어려움을 겪고 있다.&lt;br /&gt;&lt;br /&gt;설명회에서는 대법원 판결의 주요 내용을 분석하고 기업이 실무적으로 대비해야 할 사항을 다뤘다.&lt;br /&gt;&lt;br /&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="17528"&gt;심요섭&lt;/span&gt;(44·사법연수원 39기) 변호사는 '통상임금 대법원 전원합의체 판결 분석'을 주제로 발표하면서 "이번 판결에서 제시된 판단 기준을 정확히 이해하고 실무적으로 적용할 필요가 있다"고 설명했다.&lt;br /&gt;&lt;br /&gt;이어&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="31000"&gt;권영환&lt;/span&gt;(46·변호사시험 3회) 변호사가 '통상임금 주요 쟁점'을 발표하고 사전질의에 대한 답변을 진행했다. 권 변호사는 "기업의 임금구조 변화가 예상되는 만큼 노사가 협의해 대응 방안을 마련해야 한다"고 말했다.&lt;br /&gt;&lt;br /&gt;지평 노동그룹은 기업의 인사·노무 관련 법률 이슈를 다루며 2019년부터 매년 최신 노동판례를 정리해 발간하고 있다.&lt;/p&gt;</description>
+			<pubDate>Mon, 17 Feb 2025 05:59:28 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/205663</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/205663</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/205663.jpg</media:thumbnail>
+			<dc:creator>이진영 기자</dc:creator>
+		</item>
+		<item>
+			<title>법무법인 대륙아주, 전남이민외국인종합지원센터와 업무협약 체결</title>
+			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/205660.jpg" alt="205660.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;법무법인 대륙아주(대표변호사&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="8690"&gt;이규철&lt;/span&gt;) 출입국국적센터는 지난 14일 전남 무안군 국립목포대 스마트회의실에서 전남이민외국인종합지원센터와 업무협약을 체결했다.&lt;p&gt;&amp;nbsp;   &lt;/p&gt;&lt;p&gt;이번 업무협약은 목포대가 위탁받아 운영 중인 전남이민외국인종합지원센터가 지원하는 이민 외국인들의 권익 보호에 협력하고자 마련됐다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;협약에 따라 두 기관은 전남지역 이민 외국인들의 법적 권리 및 인권 증진 도모에 나설 예정이다. 이를 위해 민·형사·가사 소송 등 생활고충 관련 법률상담뿐만 아니라, 출입국 및 체류자격, 국적 취득 등과 관련한 법률서비스를 공동으로 제공할 예정이다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;대륙아주 출입국국적센터장을 맡고 있는&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="2620"&gt;김우현&lt;/span&gt;(58·사법연수원 22기)  대표변호사는 "목포대의 이민 외국인 정착지원 활동에 대한 우리 사회의 기대가 크다"며 "이민 외국인들의 억울하고 불편한 사례를 줄이는 데 노력하겠다"고 말했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;송하철 목포대 총장은 "협약을 통해 다양한 법률 문제를 해소함으로써 전남 지역 이민 외국인들의 안정적인 거주에 큰 도움을 줄 것이라고 기대한다"고 밝혔다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;한편, 대륙아주 출입국국적센터는 이민 외국인 증가 추세에 맞춰 출입국·체류·국적·이민과 관련된 법률수요자들에게 전문적이고 체계적인 서비스를 제공하기 위해 지난해 9월 출범했다.&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="2620"&gt;김우현&amp;nbsp;&lt;/span&gt;대표변호사는 법무부 출입국외국인정책본부장을 역임했다.   &lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
+			<pubDate>Mon, 17 Feb 2025 05:56:55 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/205660</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/205660</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/205660.jpg</media:thumbnail>
+			<dc:creator>한수현 기자</dc:creator>
+		</item>
+		<item>
+			<title>[신간소식] 법무법인 화우, 《한 권으로 끝내는 상속과 증여》 발간</title>
+			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/thumb/180/205658.jpg" alt="6758.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;법무법인 화우(대표변호사&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="8808"&gt;이명수&lt;/span&gt;)의 상속과 증여, 조세 분야 변호사들이 실무 경험과 법률적 노하우를 담아낸 &lt;b&gt;《한 권으로 끝내는 상속과 증여》&lt;/b&gt;(세이코리아 펴냄)를 7일 발간했다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;책은 상속 및 증여에 따른 세금 문제부터 자산 승계 방법까지 폭넓게 다루고 있다. 화우 자산관리센터에서 자산 분쟁과 조세 자문 등을 담당하는&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="15944"&gt;양소라&lt;/span&gt;(45·사법연수원 37기),&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="27930"&gt;허시원&lt;/span&gt;(41·변호사시험 2회) 변호사가 공동으로 집필했다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;책은 ‘상속과 '분쟁', '상속·증여와 세금' 두 분야로 구성했다. 1부 상속과 분쟁은 △상속과 상속인 △상속재산의 분할 △유류분의 반환 △유언과 유언대용신탁 △가장 현명하게 상속하는 법 등을 담았다. 2부 상속·증여와 세금은 △상속과 세금 △증여와 세금 △증여세를 현명하게 절약하는 방법 등을 다룬다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="15944"&gt;양소라&amp;nbsp;&lt;/span&gt;변호사는 "상속과 증여는 단순한 재산 이전이 아니라, 가족과 자산의 미래를 결정짓는 중요한 문제"라며 "이 책을 통해 독자들이 사전 대비의 중요성을 깨닫고, 보다 현명한 결정을 내릴 수 있기를 바란다"고 말했다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="27930"&gt;허시원&amp;nbsp;&lt;/span&gt;변호사는 "상속과 증여를 앞둔 분들에게 불안과 혼란을 줄이는 데 도움이 되기를 바란다"고 밝혔다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;화우 관계자는 "상속·증여 관련 분쟁이 점차 늘어나는 추세이지만 법률·세무적 절차가 복잡해 당사자들이 이해하기 어려운 경우가 많은 실정"이라며 "이 책이 당사자들의 이해를 돕는 역할을 하길 바란다"고 말했다.&lt;/p&gt;</description>
+			<pubDate>Mon, 17 Feb 2025 05:55:21 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/205658</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/205658</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/205658.jpg</media:thumbnail>
+			<dc:creator>한수현 기자</dc:creator>
+		</item>
+		<item>
 			<title>검찰, 윤석열 대통령 부부 공천 개입 의혹 사건 중앙지검 이송</title>
 			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/205646.jpg" alt="205646.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;경남 창원시 성산구 창원지방검찰청 모습. 《사진=연합뉴스》&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="8480"&gt;윤석열&amp;nbsp;&lt;/span&gt;대통령과 김건희 여사의 공천 개입 의혹 사건을 수사 중인 창원지검이 관련 사건을 서울중앙지검으로 이송한다.&lt;br /&gt;&lt;br /&gt;창원지검 전담수사팀(팀장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="10536"&gt;이지형&amp;nbsp;&lt;/span&gt;부산지검 2차장검사)은 17일, 명태균 씨의 공천 관련 불법 정치자금 수수 사건 중간 수사 결과를 발표하면서 "사건 관련자 대부분이 서울 등 창원 이외 지역에 거주하고 있으며, 주요 행위지도 서울 지역인 점 등을 고려해 해당 사건을 서울중앙지검으로 이송하되, 현 수사팀이 이동해 수사를 계속 진행할 예정"이라고 밝혔다.&lt;br /&gt;&lt;br /&gt;검찰은 창원 국가산업단지 후보지 선정 정보를 사전에 누설해 동생들에게 인근 부동산을 매수하게 한 김 전 의원과, 건물과 토지 등 3억 4000만 원을 매입한 김 전 의원의 동생 2명을 재판에 넘겼다.&lt;br /&gt;&lt;br /&gt;또 김 전 의원이 정치 입문을 앞둔 아들의 재력가 아버지로부터 법률 자문료 명목으로 불법 정치자금 4000여만 원을 수수한 혐의로 추가 기소됐다.&lt;br /&gt;&lt;br /&gt;수사팀은 김 전 의원과 함께, 김 전 의원의 회계 담당자였던 강혜경 씨를 허위 정책 보고서를 국회사무처에 제출해 정책개발비 2000만 원을 편취한 혐의와, 정치자금 회계처리 신고 과정에서 준수사항이나 감독 의무를 위반한 혐의로도 재판에 넘겼다.&lt;br /&gt;&lt;br /&gt;강혜경 씨는 김 전 의원과 명 씨의 공천 관련 정치자금 수수 공범으로도 기소됐다.&lt;br /&gt;&lt;br /&gt;앞서 창원지검 수사팀은 지난해 12월 3일 김 전 국민의힘 의원과 명태균 씨를 정치자금법 위반죄 등으로 기소했다.&lt;br /&gt;&lt;br /&gt;검찰은 김 전 의원과 명 씨를 기소한 이후에도, 대통령 부부의 공천 개입 의혹, 공직선거나 당내 경선 과정에서의 여론조사 결과 조작 의혹, 여론조사 결과 무상 제공 의혹, 여론조사 비용 대납 의혹 등 다수의 고발 사건에 대한 추가 수사를 이어왔다.&lt;br /&gt;&lt;br /&gt;검찰은 국민의힘 중앙당사, 경남도청, 창원시청, 여론조사기관 등 61곳을 압수수색해 증거물을 확보했다. 또한, 명 씨로부터 임의 제출받은 휴대전화에 대한 정밀 분석을 진행 중이다.&lt;br /&gt;&lt;br /&gt;또한 당시 국민의힘 당대표였던 이준석 개혁신당 의원과 공천관리위원장이었던 윤상현 의원을 포함해, 공천관리위원 7명, 여의도연구원장 등 주요 당직자, 대통령실 비서관·행정관을 비롯한 전·현직 국회의원 8명을 포함해 100여 명을 소환 조사했다.&lt;/p&gt;</description>
 			<pubDate>Mon, 17 Feb 2025 02:43:55 -0000</pubDate>
@@ -194,53 +234,13 @@
 		</item>
 		<item>
 			<title>이원형 서울가정법원장 본사 방문</title>
-			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/thumb/180/205616.jpg" alt="116.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;   &lt;span style="font-weight: bold;" class="lawmanlink" serial="9185"&gt;이원형&lt;/span&gt;(63·사법연수원 20기) 서울가정법원장이 14일 취임 인사차 서울 서초구 법률신문사를 방문해 이수형 사장 등과 환담했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;이 원장은 "법원장 취임 후 업무를 파악하며 적응하고 있다"며 "앞으로 서울가정법원을 위해 힘쓰겠다"고 말했다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;이 원장은 춘천고와 서울대 법대를 졸업하고 1988년 제30회 사법시험에 합격했다. 1991년 3월 춘천지법 판사로 인관한 뒤 서울지법 판사, 서울고법 판사, 대법원 재판연구관, 춘천지법 부장판사, 사법연수원 교수, 광주고법 전주재판부 부장판사, 서울고법 부장판사 등을 지냈다.&lt;/p&gt;&lt;p&gt;&amp;nbsp; &lt;br /&gt;그는 서울고등법원 가사부를 비롯한 다수의 가사재판 경험이 있어 법원 내에서는 가사법 분야 전문가로 정평이 나 있다.&lt;/p&gt;</description>
+			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/205616.jpg" alt="116.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="9185"&gt;이원형&lt;/span&gt;(63·사법연수원 20기) 서울가정법원장이 14일 취임 인사차 서울 서초구 법률신문사를 방문해 이수형 사장 등과 환담했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;이 원장은 "법원장 취임 후 업무를 파악하며 적응하고 있다"며 "앞으로 서울가정법원을 위해 힘쓰겠다"고 말했다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;이 원장은 춘천고와 서울대 법대를 졸업하고 1988년 제30회 사법시험에 합격했다. 1991년 3월 춘천지법 판사로 임관한 뒤 서울지법 판사, 서울고법 판사, 대법원 재판연구관, 춘천지법 부장판사, 사법연수원 교수, 광주고법 전주재판부 부장판사, 서울고법 부장판사 등을 지냈다.&lt;/p&gt;&lt;p&gt;&amp;nbsp; &lt;br /&gt;그는 서울고등법원 가사부를 비롯한 다수의 가사재판 경험이 있어 법원 내에서는 가사법 분야 전문가로 정평이 나 있다.&lt;/p&gt;</description>
 			<pubDate>Fri, 14 Feb 2025 12:18:04 -0000</pubDate>
 			<category>news</category>
 			<link>https://www.lawtimes.co.kr/news/205616</link>
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/205616</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/205616.jpg</media:thumbnail>
 			<dc:creator>박수연 기자</dc:creator>
-		</item>
-		<item>
-			<title>검찰, 부산 반얀트리 호텔 공사장 화재 전담수사팀 구성</title>
-			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/205627.jpg" alt="763.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;검찰이 부산 기장군 반얀트리 해운대 부산 호텔 신축 공사장 화재와 관련해 전담수사팀을 꾸려 화재 원인과 책임 규명에 나선다.&lt;br /&gt;&lt;br /&gt;&lt;p&gt;부산지검 동부지청(지청장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="9744"&gt;박주성&lt;/span&gt;)은 14일 33명의 사상자가 발생한 부산 기장군 반얀트리 호텔 신축공사 현장 화재와 관련해 전담수사팀을 구성했다고 밝혔다.&lt;br /&gt;&lt;br /&gt;전담수사팀의 본부장은 박 지청장이 맡고&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="11621"&gt;김연실&amp;nbsp;&lt;/span&gt;차장검사와&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="13350"&gt;송정은&amp;nbsp;&lt;/span&gt;부장검사를 포함해 검사 10명, 수사관 15명이 참여한다. &lt;br /&gt;&lt;br /&gt;검찰은 다수의 인명 피해가 발생하는 등 사안의 중대성을 감안해 전담수사팀을 꾸렸다고 설명했다.&lt;br /&gt;&lt;br /&gt;검찰은 "경찰청·노동청·소방청 등 유관기관과 협조해 구체적인 사고 발생 경위 및 책임관계 등에 대해 엄정히 수사하고, 유족 등 피해자 지원에도 만전을 다할 계획"이라고 말했다.&lt;br /&gt;&lt;br /&gt;부산경찰청도 형사기동대장을 주축으로 한 수사전담팀을 꾸렸다. 경찰은 오는 16일 과학수사대와 함께 정확한 화재 원인과 함께 관련 수사를 진행할 예정이다.&lt;br /&gt;&lt;br /&gt;한편 이날 오전 10시 51분 부산 기장군 반얀트리 호텔 신축공사장에서 화재가 발생했다. 이 사고로 33명의 사상자가 나왔다.&lt;br /&gt;&lt;br /&gt;건물 내부에서 발견된 6명은 심정지 상태로 병원에 이송됐으나 끝내 사망했으며, 중·경상자는 27명으로 집계됐다.&lt;/p&gt;</description>
-			<pubDate>Fri, 14 Feb 2025 12:07:14 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/205627</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/205627</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/205627.jpg</media:thumbnail>
-			<dc:creator>우빈 기자</dc:creator>
-		</item>
-		<item>
-			<title>[신간소식] 로마법으로 리걸 마인드 갖추기</title>
-			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/205625.jpg" alt="111.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;로마법 연구의 권위자인 오코 베렌츠 교수의 저서 &lt;b&gt;《로마법》&lt;/b&gt;이 한국어로 처음 번역돼 14일 출간됐다. 번역은 정병호 서울시립대 로스쿨 교수가 맡았다.&lt;br /&gt;&lt;br /&gt;고대 로마의 법체계를 집대성한 법전은 오늘날 서구 법질서의 근간이 됐다. &lt;b&gt;《로마법》&lt;/b&gt;은 독일 괴팅엔대학교 오코 베렌츠 교수가 수십 년간 강의한 내용을 바탕으로 집필한 저서로, 로마법의 형성과 발전 과정뿐만 아니라 현대 법질서에 미친 영향을 분석한 책이다.&lt;br /&gt;&lt;br /&gt;책은 총 3부로 구성돼 있다. 1부에서는 로마법이 유럽 법체계에 미친 영향을 다루며, 유스티니아누스 법전, 독일 민법전 등에서 그 흔적을 찾아본다. 2부에서는 로마법의 기원을 추적하며, 왕정·공화정·원수정을 거치면서 성문법으로 발전한 과정을 보여준다. 마지막 3부에서는 재산권, 혼인, 계약, 소송 등 실생활과 밀접한 로마법의 구체적인 적용 사례를 소개한다.&lt;br /&gt;&lt;br /&gt;저자는 “법학도뿐만 아니라 법과 사회의 발전에 관심이 있는 공직자, 언론인, 기업인 등 일반 독자에게도 리걸 마인드를 갖추게 하는 최적의 교양서”라고 전했다.&lt;br /&gt;&lt;br /&gt;오코 베렌츠 교수는 프라이부르크대, 제네바대, 뮌헨대, 괴팅엔대에서 법학을 공부했다. 괴팅엔대에서 박사 학위와 교수 자격을 취득하고, 1975년부터 2007년까지 민법, 로마법, 근세사법사 교수로 재직했다. 2009년에는 스톡홀름대에서 명예박사 학위를 받았다.&lt;br /&gt;&lt;br /&gt;정 교수는 로마법을 꾸준히 연구해온 학자로, 서울대학교에서 학사 및 석사 학위를, 독일 괴팅엔대학교에서 법학박사 학위를 받았다. 한국민사법학회장, 한국사법학회장, 한국법사학회장을 역임했으며, 현재 법학전문대학원협의회 법학적성평가연구원장을 맡고 있다.&lt;/p&gt;</description>
-			<pubDate>Fri, 14 Feb 2025 10:46:58 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/205625</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/205625</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/205625.jpg</media:thumbnail>
-			<dc:creator>서하연 기자</dc:creator>
-		</item>
-		<item>
-			<title>바른, 제99회 상속신탁연구회 세미나 성료</title>
-			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/205624.jpg" alt="2.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;법무법인 바른(대표변호사&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="8758"&gt;이동훈&lt;/span&gt;)은 13일 서울 강남구 대치동 섬유센터빌딩 9층 바른 대회의실에서 제99회 상속신탁연구회 세미나를 개최했다.&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="29848"&gt;이재원&lt;/span&gt;(39·변호사시험 5회) 변호사는 '수탁자와 수익자가 동일한 유언대용신탁의 효력'을 발표했다. 이 변호사는 "사후 타익신탁 부분이 무효라고 판단되더라도 나머지 생전 자익신탁 부분의 유·무효 여부를 판단할 때 신탁법상의 일반 법리와 더불어 유언대용신탁의 본질 내지 목적이 충분히 고려될 필요가 있다"고 주장했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="38233"&gt;고승희&lt;/span&gt;(33·9회) 변호사는'투자신탁 형태 단기금융집합투자기구(MMF) 수익권 상속 관련 법률문제'를,&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="41268"&gt;이유지&lt;/span&gt;(11회) 변호사는 '피상속인의 사망 후 인지된 자의 상속분가액지급청구권과 제척기간'을,&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="43432"&gt;김규영&lt;/span&gt;(13회) 변호사는 '과거 양육비 청구의 소멸시효'를 발제했다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;바른 상속신탁연구회(회장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="21327"&gt;조웅규&amp;nbsp;&lt;/span&gt;변호사)는 2012년 국내 로펌 최초로 발족한 상속신탁연구모임으로, 가사·상속, 신탁, 가업승계 분야를 전문적으로 연구하며 관련 업무를 수행하고 있다.&lt;/p&gt;</description>
-			<pubDate>Fri, 14 Feb 2025 09:17:42 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/205624</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/205624</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/205624.jpg</media:thumbnail>
-			<dc:creator>안현 기자</dc:creator>
-		</item>
-		<item>
-			<title>여변-서울시여성가족재단 ‘여성폭력 피해 지원 체계 구축’ 협약</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/205623.jpg" alt="1.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;박정숙 대표이사(왼쪽)와 왕미양 회장. 서울시여성가족재단&lt;/figcaption&gt;   &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;한국여성변호사회(회장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="1151"&gt;왕미양&lt;/span&gt;)와 서울시여성가족재단(대표이사 박정숙)이 여성 폭력 피해 지원 체계를 구축하고, 폭력 근절 및 예방 캠페인 등을 개최하기 위한 업무협약을 체결했다.&lt;br /&gt;&lt;br /&gt;지난 12일 서울 동작구 대방동 서울여성플라자에서 열린 협약식에는&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="1151"&gt;왕미양&lt;/span&gt;(57·사법연수원 29기) 회장과 박정숙 대표이사를 비롯한 양측 관계자들이 참석했다. 서울시여성가족재단은 양성평등 실현과 서울 여성·가족을 위한 일·돌봄·안전 지원 플랫폼 구축을 목표로 2002년 설립된 기관이다.&lt;br /&gt;&lt;br /&gt;이번 협약을 통해 두 기관은 폭력 피해자의 회복을 위한 법률 지원과 여성폭력 예방·근절 캠페인 등을 공동 추진할 계획이다. 또한 디지털 성범죄뿐만 아니라 스토킹, 데이트 폭력 등 다양한 여성 폭력 피해자를 위한 법률 지원 체계를 강화하고, 시민 인식 개선을 위한 공동 캠페인 추진 근거 마련에도 협력할 방침이다.&lt;br /&gt;&lt;br /&gt;박 대표이사는 “앞으로 여성 폭력 피해자들이 보다 신속하게 법률적 지원을 받을 수 있도록 여변과 더욱 긴밀히 협력하겠다”고 밝혔다.&lt;br /&gt;&lt;br /&gt;왕 회장은 “법률 지원이 필요한 여성 폭력 피해자들에게 실질적인 도움이 될 수 있도록 재단과 협력하겠다”며 “법률 대응뿐만 아니라 예방과 인식 개선 활동에도 힘쓰고, 여성 폭력 문제의 실질적인 해결책을 마련하기 위한 연구도 지속하겠다”고 말했다.&lt;/p&gt;</description>
-			<pubDate>Fri, 14 Feb 2025 09:15:34 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/205623</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/205623</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/205623.jpg</media:thumbnail>
-			<dc:creator>조한주 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
