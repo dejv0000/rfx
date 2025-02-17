@@ -13,6 +13,85 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>“나가라 빨갱이” “내란세력 물러가라” 尹 탄핵 찬반 세력 250여명 모여 아수라장 된 서울대</title>
+      <link>https://www.chosun.com/national/national_general/2025/02/17/WCE6VLFTJBDKZAIWFXSRPDFZRA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/02/17/WCE6VLFTJBDKZAIWFXSRPDFZRA/</guid>
+      <dc:creator>박정훈 기자, 김나연 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 17 Feb 2025 05:07:28 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ONMCXEB5AZERPMWHVNHX5EGSWM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;17일 오전 서울 관악구 서울대 관악캠퍼스 아크로폴리스 광장에서 윤석열 대통령 탄핵에 반대하는 학생 등이 집회를 진행하고 있다. 이날 탄핵 찬성 측과 반대 측이 연이어 서울대 본부 인근에서 집회를 개최하면서 학생들이 불편을 겪었다. /김나연 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;17일 서울 관악구 서울대 관악캠퍼스에서 탄핵 찬성 측과 반대 측이 집회를 벌이며 점심 시간 대학 본부 일대가 큰 혼선을 빚었다. 집회 초반엔 찬성과 반대를 합쳐서 100명 안 되는 인원이 집회에 나섰지만 시간이 지나며 200여명으로 규모가 불어나고 공장 소음 기준에 맞먹는 90dB까지 확성기 소리가 울려펴지며 일대를 지나던 학생들이 큰 불편을 겪었다. &lt;br&gt;&lt;br&gt;당초 이날은 오전 11시 30분 서울대 관악캠퍼스 행정관 앞에서 탄핵 반대 서울대생들의 시국선언이 예정돼 있었다. 그러나 이를 막고자 탄핵 반대 학생들이 10시 30분쯤 아크로폴리스 광장 앞에서 맞불 집회를 신고했고 양측이 같은 공간에서 집회를 진행하게 됐다.&lt;br&gt;&lt;br&gt;이날 오전 10시 30분쯤 서울대 아크로폴리스 계단엔 윤 대통령 탄핵에 찬성하는 ‘서울대 공동행동’ 30여명이 모여 ‘윤석열 퇴진, 쿠데타 옹호세력 규탄’ 집회를 개최했다. 이들은 ‘내란수괴 윤석열은 즉각 퇴진하라’ ‘쿠데타 옹호 웬말이냐 민주주의 지켜내자’ ‘윤석열 즉각 퇴진 열사정신 계승하자’ 손팻말을 들고 “내란세력 물러가라” “민주주의 지켜내자” 등 구호를 외쳤다.&lt;br&gt;&lt;br&gt;오전 11시 30분쯤 윤 대통령 탄핵에 반대하는 학생 등 50여명은 ‘윤석열 대통령 탄핵 반대 시국 선언’을 시작했다. 이들은 ‘부정선거 입법독재’, ‘stop the steal’ 등 문구가 적힌 플래카드를 들거나 성조기 혹은 태극기를 들며 “불법 탄핵 각하하라”라고 했다. 이들은 “탄핵무효, 완전부결” 구호를 외치며 각각 이승만, 박정희, 이순신 그려진 전단지 가져와 학생들에게 나눠주기도 했다. 반대 측은 “민주당은 계엄령에 내란죄라는 프레임을 씌우고 있다”며 “계엄을 할 수밖에 없었던 이유를 밝혀야 한다”고 했다. 또 이들은 “자유민주주의를 지키려 이 자리에 나왔다”며 “표현의 자유가 존중돼야 한다”고도 했다.&lt;br&gt;&lt;br&gt;탄핵 찬성 측은 “우리는 저들의 의견을 존중할 생각이 없다”며 “이곳 아크로폴리스는 민주화의 성지”라고 했다. 또 “윤석열은 형법 90조에 따라 내란죄로 잡혀갈 것”이라고도 했다. &lt;br&gt;&lt;br&gt;이날 탄핵 반대 세력과 찬성 세력은 마주보고 “빨갱이 꺼져라” “극우세력 물러가라” 등 구호를 확성기를 통해 주고받았다. 상대적으로 수가 부족한 탄핵 찬성 측에서 확성기로 불교 경전을 틀거나 소녀시대의 ‘다시 만난 세계’를 트는 등 반대 측 집회를 방해하기도 했다. 참가자 몇몇이 멱살을 잡으려는 듯 시비가 붙자 경찰과 서울대 관계자들이 이를 말리고 급히 주차 금지 표지에 진입금지 테이프 붙여 양측을 분리했다. &lt;br&gt;&lt;br&gt;양측 집회 인원은 계속 늘어나 12시 30분쯤 탄핵 반대 측은 200여명으로, 찬성 측은 50여명으로 불어났다. 오전 11시 45쯤에는 양측 충돌 가능성이 있다는 신고로 119구조대가 출동했다가 12시쯤 복귀하기도 했다. 아직 양측 집회로 인한 부상자는 없는 것으로 나타났다.&lt;br&gt;&lt;br&gt;오후 1시쯤이 되자 탄핵 반대 측은 마무리발언을 통해 “오늘 이 자리에 서기까지 두려웠지만 자유를 지키기 위해 용기를 냈다”고 했다. 이어 “전국에 있는 대학생과 2030 여러분, 자유대한민국을 반드시 지켜야 합니다”라며 애국가를 부른 뒤 해산했다. 이후에도 일부 우파 유튜버들과 탄핵 찬성 측은 여전히 남아 일부 대치했다.&lt;br&gt;&lt;br&gt;이날 집회 평균 소음은 69dB 정도였고 최고 소음은 88dB까지 올라갈 정도로 소음이 심했다. 90dB은 소음이 심한 공장에서 나는 소음 정도로 직업성 난청까지 올 수 있다.&lt;br&gt;&lt;br&gt;인근을 지나던 서울대생들은 느닷없는 집회로 인한 불편으 호소했다. 서울대 사범대 신입생 조모(19)씨는 “오늘이 신입생 오리엔테이션 날이라 학교에 왔는데 스피커 소리에 깜짝 놀랐다”며 “얼핏 봐서 대학생보다 외부인이 많아 보이는 것 같은데 도대체 남의 대학까지 와서 왜 저러는지 모르겠다”고 했다. 서울대 공대에서 박사 과정을 밟고 있는 외국인 유학생 A(39)씨는 “최근 한국에서 벌어진 정치적 상황을 알지만 서울대에 5년간 있으면서 이런 광경은 처음 본다”며 “이 모든 상황이 빨리 평화롭게 종결되기를 바란다”고 했다. &lt;br&gt;&lt;br&gt;사회과학대학에서 석사 과정을 밟고 있는 홍모(27)씨는 중앙도서관 앞을 나오다가 깜짝 놀라 발걸음을 멈췄다. 홍씨는 “도서관에서 공부하는데 헤드폰을 껴도 외부 소음이 들린다”며 “공부 장소를 옮겨야 할 것 같다”고 했다. 또 “내가 아는 한 대학가에서는 탄핵과 관해 의견이 분열되는 조짐이 없다”며 “(탄핵 반대라는) 소수의 의견이 학내 전체의 의견처럼 보이지 않았으면 좋겠다”고 했다.&lt;br&gt;&lt;br&gt;한편 서울대 관계자는 “현행 규정상 서울대 구성원이 신고한 집회를 강제력을 발휘해 해산시킬 방법이 없다”면서도 “빠른 시일 내에 학생 불편을 줄일 방책을 찾겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>제주 학교에 ‘경찰쌤’ 배치했더니, 학교 폭력 절반 ‘뚝’</title>
+      <link>https://www.chosun.com/national/regional/2025/02/17/Z3MY665OBNGT7KHCFABIDHITMA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/02/17/Z3MY665OBNGT7KHCFABIDHITMA/</guid>
+      <dc:creator>제주=오재용 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 17 Feb 2025 04:50:08 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/REIRAK4KWRBKNNWMJY5JNECWQQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;제주지역 학교에 배치된 자치경찰이 학생들을 지도하고 있다./제주도&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제주지역 학교 안전을 위해 학교에 상주하는 경찰관이 늘어난다.&lt;br&gt;&lt;br&gt;17일 제주도에 따르면 학교당 1명씩 두는 학교 안전 경찰관은 지난해 3월 고교 1곳에 처음 배치됐으며 그해 8월 3곳으로 늘었다. 올해 3월부터는 고등학교 3곳에 학교 안전 경찰관을 추가 배치, 교내에 자치경찰이 상주하는 학교가 총 6곳으로 늘어난다.&lt;br&gt;&lt;br&gt;학교 안전 경찰관은 교내 순찰, 학교폭력 예방 활동, 청소년범죄 예방 교육, 학교 폭력 대처 등에 대한 업무를 수행한다.&lt;br&gt;&lt;br&gt;학교 안전 경찰관은 학교폭력 상담사 자격증 보유자나 학교폭력 전담조사관 교육 이수자 중 선발된 자치경찰이다. 주중 오전 7시 40분부터 오후 4시 30분까지 학교 안팎을 순찰한다.&lt;br&gt;&lt;br&gt;학교 안전 경찰관은 학생들 사이에서 ‘경찰쌤’으로 불린다.&lt;br&gt;&lt;br&gt;자치경찰단이 지난해 7월부터 12월까지 학생과 교사, 학부모를 대상으로 실시한 설문조사에서 평균 만족도는 89.5%, 확대 필요성은 90.1%로 높게 나온 것으로 나타났다. 또 작년에 경찰이 배치된 3개교의 학교폭력 발생 건수는 11건으로 배치 전 23건에서 52% 감소했다는 게 제주도의 설명이다.&lt;br&gt;&lt;br&gt;학교 안전 경찰관제도는 지난 2023년 11월 제주도교육행정협의회에서 김광수 제주교육감이 오영훈 제주지사에게 자치경찰을 학교에 배치해 달라고 요청하면서 시작됐다.&lt;br&gt;&lt;br&gt;김양보 제주도 문화체육교육국장은 “학교 안전 경찰관 제도가 학교폭력 예방과 교육환경 개선에 긍정적 성과를 거두고 있다”며 “학생들이 안심하고 행복한 학교생활을 할 수 있도록 도교육청과 적극 협력해 갈 것”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/EVFC4LCNPJBD3GZA63TNVKTBUY.jpg?width=627&amp;height=353&amp;auth=60a051b80064cf717366c4fa51463b259b606d8a5b6d3f4b926f8e4a1bdc4676&amp;smart=true" type="image/jpeg" height="353" width="627">
+        <media:description type="plain">제주지역 학교에 배치된 자치경찰이 학생들을 지도하고 있다./제주도</media:description>
+        <media:credit role="author" scheme="urn:ebu"/>
+      </media:content>
+    </item>
+    <item>
+      <title>이하늬, 60억 세금 탈루설에…“고의 누락 아냐, 전액 납부” </title>
+      <link>https://www.chosun.com/national/national_general/2025/02/17/G6CDUYDVPRC45JSCSGMQGC35OA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/02/17/G6CDUYDVPRC45JSCSGMQGC35OA/</guid>
+      <dc:creator>김가연 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 17 Feb 2025 04:45:21 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5YFFHB7VSJC77LO4NPPPMQLKVU.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;배우 이하늬. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;배우 이하늬가 세금 60억원 탈루설에 대해 “고의적 누락이 아니다”라고 해명했다.&lt;br&gt;&lt;br&gt;이하늬 소속사 팀호프는 17일 공식입장을 통해 “이하늬는 서울지방국세청에서 법인사업자 아티스트 비정기 통합 기획 세무조사의 일환으로 실시한 세무조사에 성실히 응했다”고 밝혔다.&lt;br&gt;&lt;br&gt;이어 “이하늬는 세무대리인의 조언 하에 법과 절차를 준수하여 성실하게 납세의 의무를 다해왔다”라며 “이번 세금은 세무당국과 세무대리인 간 관점 차이에 의한 추가 세금으로 전액을 납부했다”고 전했다.&lt;br&gt;&lt;br&gt;그러면서 “고의적 세금 누락 등과는 전혀 관계가 없다”고 덧붙였다.&lt;br&gt;&lt;br&gt;앞서 이날 필드뉴스는 “서울지방국세청은 지난해 9월 배우 이하늬와 호프프로젝트를 상대로 강도 높은 세무조사를 진행, 소득세 등 무려 60억원에 달하는 세금을 추징했다”고 보도했다. 이러한 추징금은 과거 배우 송혜교와 권상우 등에게 부과한 추징금과 비교해도 높은 금액이다. 과세 당국은 2012년 배우 송혜교에게 약 35억원, 2020년 권상우에게 약 10억원대 세금을 추징했다.&lt;br&gt;&lt;br&gt;이하늬에 대한 세무조사는 2022년 이하늬 전 소속사 사람엔터테인먼트 관련 비정기 세무조사 과정에서, 이하늬와 사람엔터 간 세금 탈루 정황을 포착해 촉발된 것으로 알려졌다. &lt;br&gt;&lt;br&gt;한편 이하늬는 2015년 10월5일 주식회사 하늬를 설립했다. 2018년 1월 주식회사 이례윤, 2022년 9월 주식회사 호프프로젝트로 사명을 바꿨다. 이하늬는 2023년 1월까지 이 법인 대표·사내이사를 맡았으며, 현재는 이하늬 남편 A씨가 대표직을, 이하늬가 사내이사를 맡고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>교도소에서 외출 나온 30대 수감자, 전자발찌 끊고 도주</title>
+      <link>https://www.chosun.com/national/regional/chungcheong/2025/02/17/ZJLEDN6UMNG27FKB44CPCPLAUA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2025/02/17/ZJLEDN6UMNG27FKB44CPCPLAUA/</guid>
+      <dc:creator>공주=김석모 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 17 Feb 2025 04:33:56 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AT2QUFR6VODMLBPSFFLJ5OFS5M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;충남 공주경찰서. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;교도소 수감 중 외출 나온 30대 수감자가 위치추적 전자장치(전자발찌)를 끊고 달아나 경찰이 추적에 나섰다.&lt;br&gt;&lt;br&gt;17일 본지 취재를 종합하면, 지난 16일 오전 6시 30분쯤 충남 공주시 신풍면에서 안양교도소 수감자인 A(30대)씨가 전자발찌를 끊고 도주했다.&lt;br&gt;&lt;br&gt;A씨는 강도죄로 1심에서 유죄선고를 받고 안양교도소에 수감 중이었다가 ‘누나 결혼식에 참석해야 한다’는 이유로 형집행정지를 신청한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;당초 A씨는 14일 교도소를 나와 16일 오후 2시까지 안양교도소로 복귀해야 했다. 하지만 A씨는 15일 부산에서 열린 누나 결혼식에 참석 후 충남지역에 있는 자신의 집에 들렀다가 복귀 당일 새벽에 달아난 것이다.&lt;br&gt;&lt;br&gt;법무부 대전보호관찰소 측은 A씨가 전자발찌를 훼손한 사실을 확인하고 112에 신고했다. 충남경찰은 형사기동대 등 40여명을 투입해 A씨의 행방을 추적하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/AT2QUFR6VODMLBPSFFLJ5OFS5M.jpg?width=1795&amp;height=1038&amp;auth=c51904b6e943b091ced5528f6003d2211fbfaf9760e05b6acbe2050e80a58619&amp;smart=true" type="image/jpeg" height="1038" width="1795">
+        <media:description type="plain">공주경찰서ⓒ 뉴스1</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>현직 경찰 간부, 휴일 대낮 음주운전 중 적발</title>
+      <link>https://www.chosun.com/national/incident/2025/02/17/ABNIJO63UZBXDCKQRR2LUOKMAU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/02/17/ABNIJO63UZBXDCKQRR2LUOKMAU/</guid>
+      <dc:creator>인천=이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 17 Feb 2025 04:22:56 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TLMZ3HGGPFFCHL3O2JJB74EK7M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;인천 연수경찰서 전경./인천 연수경찰서&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;현직 경찰 간부가 휴일 대낮에 음주운전을 하다 경찰에 적발됐다.&lt;br&gt;&lt;br&gt;인천 연수경찰서는 도로교통법상 음주운전 혐의로 연수서 소속 경정 50대 A씨를 불구속 입건했다고 17일 밝혔다. &lt;br&gt;&lt;br&gt;A씨는 토요일이었던 지난 15일 오후 2시 19분쯤 인천 연수구 동춘동의 한 도로에서 술을 마신 채 자신의 차량을 운전한 혐의를 받는다. &lt;br&gt;&lt;br&gt;“음주운전 의심 차량이 있다”는 다른 운전자의 112신고를 받고 출동한 경찰은 A씨의 음주운전 사실을 확인했다. 당시 A씨의 혈중알코올농도는 0.08% 이상의 면허취소 수치였다. &lt;br&gt;&lt;br&gt;A씨는 술을 마시고 운전한 사실을 인정한 것으로 알려졌다. &lt;br&gt;&lt;br&gt;경찰 관계자는 “A씨를 대기발령 조치했다”며 “A씨를 상대로 음주운전 경위 등을 조사해 엄정 조치할 계획”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>경찰 “배우 김새론 유서 없어…변사 처리 예정”</title>
+      <link>https://www.chosun.com/national/national_general/2025/02/17/QSHU7Q2DFVDZRKXQJPZ5A2PTXE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/02/17/QSHU7Q2DFVDZRKXQJPZ5A2PTXE/</guid>
+      <dc:creator>김명진 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 17 Feb 2025 03:21:37 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/35RN2D6SAJEK5OYKRLTJCTQUJQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김새론. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 16일 자택에서 숨진 채 발견된 배우 김새론(25)씨가 유서를 남기지 않았다고 경찰이 17일 밝혔다.&lt;br&gt;&lt;br&gt;경찰 관계자는 이날 국가수사본부 정례 브리핑에서 김씨 사망 관련 수사 상황을 묻는 말에 “본인이 극단적 선택을 한 것으로 보고 있고 변사 사건 처리할 예정”이라고 답했다.&lt;br&gt;&lt;br&gt;그러면서 “(유서가) 발견된 것은 없다”며 “특별한 수사내용이랄 것이 없다”고 했다.&lt;br&gt;&lt;br&gt;김새론은 전날 오후 4시 54분쯤 서울 성동구 성수동2가의 한 다세대주택에서 김씨가 심정지 상태로 발견됐다. 김씨를 만나기로 약속했던 친구가 김씨를 발견해 신고했다. 병원으로 이송됐으나 숨졌다.&lt;br&gt;&lt;br&gt;경찰은 또 지난 15일 사회복무요원 부실 복무 의혹을 받는 그룹 ‘위너’의 송민호(32)를 불러 조사했다. 지난달 23일에 이어 두 번째다.&lt;br&gt;&lt;br&gt;경찰은 근무지 압수수색과 통신 수사 자료 등을 종합적으로 검토해 혐의 유무에 대한 결론을 조만간 내릴 것으로 보인다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>경찰 “문형배 동창 카페 음란물 논란, 공소시효 지나” </title>
+      <link>https://www.chosun.com/national/national_general/2025/02/17/MSY62ANA4ZAPZMV3YXVR6ME4EI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/02/17/MSY62ANA4ZAPZMV3YXVR6ME4EI/</guid>
+      <dc:creator>김명진 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 17 Feb 2025 03:17:25 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OIPGVGEQBNAI7SDRYROQIWNSRE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 마크./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;문형배 헌법재판소장 권한대행이 가입한 온라인 카페에서 음란물이 공유됐다는 의혹에 대해 경찰은 이미 공소 시효가 지난 사건으로 판단한다고 17일 밝혔다.&lt;br&gt;&lt;br&gt;경찰청 관계자는 이날 오전 10시 30분 서울 경찰청에서 열린 정례 기자간담회에서 관련 질의에 “검토해 봤을 때 이것이 2009년도 사건이다. 기본적으로는 게시 시점부터 공소 시효가 지난 사항으로 보여서 방조 부분을 초점 맞춰 보기가 곤란하다”라고 했다.&lt;br&gt;&lt;br&gt;경찰은 문 권한대행 동창 카페 논란과 관련해 이날까지 경찰에 들어온 신고가 211건이라고 했다. 경찰 관계자는 “최근에 불거진 행위가 있으면 모르겠지만, (음란물 게시) 방조로 보기도 곤란한 부분이 있다”라고 했다.&lt;br&gt;&lt;br&gt;경찰은 또 지난 16일 광주광역시에서 열린 윤석열 대통령 탄핵 찬성 집회에서 윤 대통령 부부의 얼굴을 합성한 딥페이크 영상이 재생된 일과 관련해 입건 전 조사(내사)에 착수했다고 밝혔다. 경찰 관계자는 “서울경찰청 사이버수사대에서 입건 전 조사에 착수했다”며 “고발이 들어오면 수사가 될 것”이라고 했다. 향후 수사를 서울경찰청에서 진행할지 광주경찰청으로 배당할지 검토 중이라고 경찰은 전했다.&lt;br&gt;&lt;br&gt;지난달 19일 발생한 서울서부지법 난동 사태와 관련해선 현재까지 125명을 수사했다고 밝혔다. 이 중 74명이 구속됐고 남은 51명은 불구속 수사 중이다.&lt;br&gt;&lt;br&gt;구속된 피의자들 중 70명은 검찰에 송치했으며 남은 4명도 순차적으로 송치할 방침이다. 경찰 관계자는 “온라인 보수 커뮤니티 게시글이나 유튜브 영상 등을 분석해 배후 세력들을 수사하고 있다”고 했다.&lt;br&gt;&lt;br&gt;서부지법 난동 사태의 배후라는 의혹을 받고 있는 전광훈 목사 수사에 대해선 “내란선동 혐의와 관련한 법리 검토와 기초조사를 하고 있다”며 “다른 혐의도 적용할 수 있는지 검토 중”이라고 했다. 또 온라인 커뮤니티 디시인사이드에서 헌법재판소 난동을 모의한 정황과 관련해선 “지난 13일까지 게시글 60건에 대해 집중적으로 수사하고 있다”고 했다.&lt;br&gt;&lt;br&gt;한편 국수본 특별수사단은 12·3 비상계엄 사태에 연루된 의혹이 불거진 박현수 서울경찰청장 직무대리를 지난 주말 소환 조사했다고 밝혔다.&lt;br&gt;&lt;br&gt;특수단 관계자는 이날 브리핑에서 “지난 15일 박 직무대리를 참고인 신분으로 조사했다”며 “아직 피의자로 입건되지 않았다”고 했다. 경찰이 박 직무대리를 불러 조사한 것은 지난해 12월 이후 이번이 두 번째다.&lt;br&gt;&lt;br&gt;경찰은 시민단체 군인권센터가 박 직무대리를 국수본에 고발한 것과 관련해 “사건 배당을 어디로 할지 검토하는 단계”라고 밝혔다. 그러면서 “고발 내용이 내란 주요임무 종사 혐의 등이라 기존 참고인 조사에서 확인한 내용과 큰 차이가 없다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[부음]서승진 국민일보 강원주재기자 모친상</title>
+      <link>https://www.chosun.com/national/obituary-personnel/2025/02/17/J54YC3JJCVFLZNHXJ76OIFELAA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2025/02/17/J54YC3JJCVFLZNHXJ76OIFELAA/</guid>
+      <dc:creator>정성원 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 17 Feb 2025 04:24:43 +0000</pubDate>
+      <content:encoded>▲김동옥 별세, 서승범 ㈜서강이엔지 대표·서승진 국민일보 차장, 고미정·소강미 시모상=17일 오전 5시 원주 효담삼산병원 장례식장 301호, 발인 19일 오전 9시, 010-5367-5747&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>공항철도 공덕역 무정차 통과... 소방 “오인 신고로 확인, 피해 없어”</title>
       <link>https://www.chosun.com/national/national_general/2025/02/17/6WWNL4DYB5B2XJTSCHZTHYFFNI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/02/17/6WWNL4DYB5B2XJTSCHZTHYFFNI/</guid>
@@ -653,45 +732,6 @@
       </media:content>
     </item>
     <item>
-      <title>박봄, 또 이민호 사진 올리고 “내 남편 맞아요”…무슨 일?</title>
-      <link>https://www.chosun.com/national/national_general/2025/02/16/XIPYX2QXXBET7HD7465Q3HPAU4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/02/16/XIPYX2QXXBET7HD7465Q3HPAU4/</guid>
-      <dc:creator>김명일 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 16 Feb 2025 10:25:53 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QJLTN3L5X73RVUFRX64I2V4ECU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이민호(왼쪽)와 박봄. 박봄이 올린 게시물. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그룹 투애니원의 멤버 박봄(41)이 또 소셜미디어를 통해 자신이 배우 이민호(38)와 연인 관계라는 취지로 해석될 수 있는 게시물을 올려 논란이 일고 있다. &lt;br&gt;&lt;br&gt;박봄은 지난 15일 소셜미디어에 이민호와 자신의 사진을 올린 후 “내 남편이 맞아요❤”라고 했다. 박봄은 지난 12일에도 이민호 사진과 함께 “내 남편, #이민호”라는 글을 올렸었다. &lt;br&gt;&lt;br&gt;이민호 측은 박봄의 행동에 별다른 반응을 보이지 않았다. &lt;br&gt;&lt;br&gt;박봄은 지난해 9월에도 소셜미디어를 통해 이민호와 연인 사이라는 취지의 게시글을 올렸다가 논란이 됐었다. 당시 소속사 측은 “박봄이 요즘 드라마 ‘상속자들’을 보고 있는데, 주인공인 이민호씨에 푹 빠져서 그런 게시물을 올리게 된 것 같다”며 “특별한 이유 없는 해프닝”이라고 해명했다. &lt;br&gt;&lt;br&gt;박봄의 앞선 글들은 모두 삭제된 상태다. 이에 대해 한 네티즌이 ‘누가 게시물을 삭제했나’라고 묻자 박봄은 ‘회사’라고 답하기도 했다. &lt;br&gt;&lt;br&gt;네티즌들은 박봄의 행동에 대해 “이민호에게 피해를 주는 행동이다” “투애니원 활동에 지장이 생길까 걱정된다” “도대체 이런 걸 왜 자꾸 올리는 거냐?” 등의 반응을 보이고 있다. 단순 장난으로 받아들이기엔 도를 넘었다는 것이다. &lt;br&gt;&lt;br&gt;박봄은 과거 여러 차례 이상형으로 이민호를 꼽았다. 2013년 한 라디오 방송에 출연해 ‘투애니원 공연에 남자 배우 한 명을 초대한다면 누구를 초대하겠냐’는 질문에 주저 없이 “이민호”라고 답했다. 또 2014년 라디오 방송에서도 이상형에 대해 “이민호, 김우빈 씨처럼 키 큰 분을 좋아한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/NX7YH2A24NNB2S75CZDPNAMQPE.jpg?width=720&amp;height=891&amp;auth=bb63c8dd026a7fa923f237bf437cb303756b7ae940575f2d8a3bf0e4a038a895&amp;smart=true" type="image/jpeg" height="891" width="720">
-        <media:description type="plain">박봄</media:description>
-      </media:content>
-    </item>
-    <item>
-      <title>부천 노래방서 50대女 살해하고 시신 유기한 30대 구속</title>
-      <link>https://www.chosun.com/national/regional/2025/02/16/YK4ZID7OQRGT3AAICRSMZDNITQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/02/16/YK4ZID7OQRGT3AAICRSMZDNITQ/</guid>
-      <dc:creator>김주영 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 16 Feb 2025 10:16:07 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AATIQTULHDJQ4STSUDFUQAU4CI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부천원미경찰서 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;노래방에서 50대 여성을 살해하고 야산에 시신을 유기한 30대 남성이 구속됐다.&lt;br&gt;&lt;br&gt;경기 부천원미경찰서는 16일 살인과 시체유기 혐의로 30대 A씨를 구속했다고 밝혔다.&lt;br&gt;&lt;br&gt;임한아 인천지법 부천지원 당직 판사는 이날 오후 A씨의 구속 전 피의자 심문(영장실질심사)을 진행한 뒤 “도주할 우려가 있다”며 영장을 발부했다.&lt;br&gt;&lt;br&gt;앞서 A씨는 “영장실질심사를 포기하겠다”는 의사를 경찰에 밝혀 법원은 서류 심사로만 구속을 결정했다.&lt;br&gt;&lt;br&gt;A씨는 지난 13일 오전 7시쯤 부천시 한 노래방에서 50대 여성 B씨를 살해한 뒤 인천 서구 야산에 시신을 유기한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;국립과학수사연구은 B씨의 시신을 부검하고 “경부(목부위) 압박에 의한 질식사”라는 소견을 경찰에 전달했다.&lt;br&gt;&lt;br&gt;경찰은 지난 14일 오후 5시 10분 B씨와 연락이 되지 않는다는 가족들의 신고를 받은 뒤 수사에 나서 같은 날 오후 10시 30분쯤 서울 관악구 신림동에서 A씨를 검거했다.&lt;br&gt;&lt;br&gt;A씨와 B씨는 서로 모르는 사이이며, 범행 당시 노래방에는 둘만 있었던 것으로 조사됐다. A씨는 노래방에서 일하는 직원인 것으로 파악됐다.&lt;br&gt;&lt;br&gt;A씨는 경찰에서 “술을 먹고 말다툼을 벌이다가 범행을 저질렀다”는 취지로 진술한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “A씨 진술이 오락가락해 다양한 가능성을 열어두고 있다”며 “범행 동기 등 사건 경위를 추사하고 있다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>서울대에서 尹탄핵 찬반 집회... 멱살잡이에 욕설까지</title>
-      <link>https://www.chosun.com/national/national_general/2025/02/16/CBDFC63VF5CSLBHSTRGY7ZO2WY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/02/16/CBDFC63VF5CSLBHSTRGY7ZO2WY/</guid>
-      <dc:creator>박정훈 기자, 김혜민 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 16 Feb 2025 09:01:40 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G3B7AR7EGNNPTJ5IFVS5FP6XD4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;15일 서울 관악구 서울대학교 학생회관 앞에서 탄핵 반대 집회를 하려던 학생과 시민들이 집회 장소를 내주지 않는 탄핵 찬성 재학생 및 동문에게 항의하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 15일 서울대 관악캠퍼스에서 윤석열 대통령 탄핵 찬성·반대 집회가 열렸다. 일부 충돌도 발생했다. 최근 대학가가 탄핵 찬반으로 갈라지는 가운데 서울대에서도 이 같은 움직임이 본격화한 것이다. &lt;br&gt;&lt;br&gt;이날 오후 4시 탄핵 찬성 집회 참가자 100여 명이 중앙도서관 앞 아크로폴리스 광장에서 집회를 열었다. 이들은 ‘내란 수괴 파면하라’ ‘민주주의 지켜내자’ 등 문구나 박종철 열사의 사진이 담긴 팻말을 들고 “윤석열은 퇴진하라” 등 구호를 외쳤다. &lt;br&gt;&lt;br&gt;오후 5시쯤엔 탄핵에 반대하는 집회 참가자 100여 명이 “우리가 집회를 할 시간”이라며 광장 계단에 올라섰다. 탄핵 찬성 인원들은 “윤석열 파면”을 외치며 물러서지 않았고, 탄핵 반대 인원들이 “종북 세력 꺼져라”라며 찬성 측 참가자들을 밀어내려고 했다. 양측은 30여 분간 말다툼을 하며 대치했고 일부 참가자는 욕설도 했다. &lt;br&gt;&lt;br&gt;서로 멱살을 잡거나, 탄핵 반대 측이 태극기와 성조기로 탄핵 찬성 측 인원을 공격하는 일도 일부 발생했다. 결국 경찰이 출동해 양측을 분리시켰다. 두 집회 모두 서울대에 사전 신고된 집회였다고 한다. 서울대 본부 측은 “서울대 구성원의 경우 신고만 하면 집회를 진행할 수 있다”며 “향후 집회에서 충돌이 없도록 방지책을 검토하겠다”고 했다. 다만 서울대는 찬반 집회 참여자 200여 명 중 상당수가 외부인인 것으로 파악하고 있다.&lt;br&gt;&lt;br&gt;서울대 온라인 커뮤니티엔 “양쪽 다 재학생은 별로 없고 외부인을 많이 끌고 온 것 같다” “왜 남의 학교에 와서 서로 싸우는지 모르겠다”는 지적도 나왔다. 서울대 경영학부생 이모(22)씨는 “졸업 사진을 찍으러 오거나 근처 중앙도서관에서 공부하는 사람도 많았는데 스피커를 틀고 시끄럽게 집회를 벌여 눈살이 찌푸려졌다”고 했다. &lt;br&gt;&lt;br&gt;17일에는 서울대생 10여 명이 관악캠퍼스에서 ‘윤 대통령 탄핵 반대 시국 선언’을 발표할 예정이다. 서울대 재학생·졸업생 500여 명이 서명한 것으로 전해졌다. 서울대에선 최근 탄핵 찬반 여론이 엇갈리며 반대 의견이 담긴 대자보를 훼손하는 사태도 발생하고 있다. &lt;br&gt;&lt;br&gt;지난 10일 오후 서울 서대문구 연세대 신촌캠퍼스에서도 탄핵 찬반 학생이 충돌하는 일이 발생했다. 고려대, 한양대 등에서도 일부 학생이 탄핵 반대 시국 선언을 준비 중인 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>尹측 “단전 지시사실 없어…재탕·삼탕 의혹 중단하라” </title>
-      <link>https://www.chosun.com/national/court_law/2025/02/16/RA2X6HCTHFGAVJA6JDSDLUAGEE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/02/16/RA2X6HCTHFGAVJA6JDSDLUAGEE/</guid>
-      <dc:creator>이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 16 Feb 2025 08:51:33 +0000</pubDate>
-      <content:encoded>‘12·3 비상계엄’ 당시 계엄군 병력이 국회 본관 일부 전력을 차단했다며 윤석열 대통령의 단전 지시 여부를 엄정 수사해야 한다고 더불어민주당이 발표하자, 윤 대통령 변호인단이 “사실 왜곡과 조작”이라고 16일 반박했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UGVUDITDZNDD6KDXIKLP4KBR7I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령이 지난 13일 서울 종로구 헌법재판소에서 열린 탄핵심판 8차 변론에 출석해 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;변호인단은 이날 입장문을 내고 “단전 논의는 국회 기능 마비를 위한 것이 아니라 707특수임무단에 부여된 (출입)통제 임무를 수행하기 위해 나온 것”이라며 “민주당이 엉뚱한 사실을 갖고 대통령이 지시를 한 듯 허위사실로 선동에 나서고 있다”고 했다. &lt;br&gt;&lt;br&gt;변호인단은 707특임단 병력이 지하 1층으로 내려간 점을 들어 “본회의장 의결 방해를 위한 단전과는 무관함을 보여준다”며 “민주당이 공개한 영상은 대통령 공소장에서조차 언급되지 않은 내용”이라고 했다. 검찰이 공소장에 기재할 수 없다고 판단한 허위사실이라는 취지다. &lt;br&gt;&lt;br&gt;변호인단은 이어 “곽종근 전 특수전사령관 역시 단전에 관해 누구로부터 지시받은 사실 없이 자신이 한 것임을 증언했다”고도 말했다. 변호인단은 “민주당 주장은 새로운 발견이 아니며 곽 전 사령관이 임의로 지시한 것에 대한 재탕, 삼탕”이라고 했다.&lt;br&gt;&lt;br&gt;앞서 6일 헌재에서 열린 윤 대통령 탄핵 심판에서 곽 전 사령관은 ‘전기 차단은 누가 했느냐’는 윤 대통령 측 질문에 “제가”라고 답했다. “김용현 전 국방장관이나 대통령이 얘기한 게 아니다”고도 했다.&lt;br&gt;&lt;br&gt;민주당은 이날 기자회견을 열고 지난해 12월 4일 새벽 1시 6분쯤부터 5분 여 동안 계엄군이 국회 본관 지하 1층 전력을 차단한 사실을 확인했다며 계엄 해제 의결을 막으려던 윤 대통령의 지시가 있었다고 주장했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>빈자리 많던 서울대 헌법 수업, 올해는 학생들 몰려</title>
       <link>https://www.chosun.com/national/national_general/2025/02/16/2GLCAULPOFD3ZL56FHGP5OJJB4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/02/16/2GLCAULPOFD3ZL56FHGP5OJJB4/</guid>
@@ -705,37 +745,6 @@
       </media:content>
     </item>
     <item>
-      <title>양천구 한방병원서 화재… 환자 등 32명 대피</title>
-      <link>https://www.chosun.com/national/national_general/2025/02/16/RB3VU3MVUJBX5O2MKPESINWBYE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/02/16/RB3VU3MVUJBX5O2MKPESINWBYE/</guid>
-      <dc:creator>김혜민 기자, 박정훈 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 16 Feb 2025 09:05:51 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NPGB7NGZNDDXZ2MLHHG77W3K54.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;화재 일러스트. /조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 양천구 목동의 한 한방병원에서 화재가 발생해 환자 등 32명이 대피하는 소동이 16일 발생했다.&lt;br&gt;&lt;br&gt;서울 양천소방서는 이날 오전 11시 35분쯤 목동의 한 한방병원 건물 3층에서 화재가 발생했다고 밝혔다. 소방은 화재 발생 약 2시간만인 오후 1시 20분쯤 화재를 완전히 진압했다.&lt;br&gt;&lt;br&gt;이번 화재로 인한 사망자나 부상자 등 인명피해는 없었으나 병원에 입원해 있던 환자들을 비롯해 32명이 대피한 것으로 나타났다. &lt;br&gt;&lt;br&gt;소방 당국은 구체적 화재 원인을 조사할 계획이다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[오늘의 운세]  2월 17일 월요일 (음력 1월 20일 丁巳)</title>
-      <link>https://www.chosun.com/national/national_general/2025/02/16/ZWLH5OVCZ5G2VMJHBMGSW6WEIM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/02/16/ZWLH5OVCZ5G2VMJHBMGSW6WEIM/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Sun, 16 Feb 2025 08:00:00 +0000</pubDate>
-      <content:encoded>&lt;p&gt;&lt;div class="chosun_unse"&gt;&lt;iframe src="https://image.chosun.com/arc/unse_iframe.html" frameborder="0" scrolling="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;style&gt;.chosun_unse{position:relative;width:100%;height:350px;box-sizing:border-box}.chosun_unse&gt;iframe{position:absolute;top:0;left:0;width:100%;height:100%;overflow-y:hidden}@media all and (max-width:1024px){.chosun_unse{height:350px}}@media all and (max-width:1023px){.chosun_unse{height:350px}}@media all and (max-width:528px){.chosun_unse{height:270px}}@media all and (max-width:384px){.chosun_unse{height:190px}}&lt;/style&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;p&gt;&lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani01.gif"&gt;  	&amp;nbsp;	36년생 주변과의 협력 관계 돈독히 하도록. 48년생 갈피 못 잡으면 일상이 오리무중. 60년생 나와 상관없는 일에는 반 마디도 많다. 72년생 위험을 감수하지 않은 위업은 없다. 84년생 그늘진 구석보다 밝은 모습을 보려고 노력하라. 96년생 간절한 희구만이 해결의 열쇠.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt;  &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani02.gif"&gt;	&amp;nbsp;	37년생 네발짐승도 넘어질 때 있다. 49년생 여우는 같은 함정에 두 번 안 빠진다. 61년생 뱁새가 황새 따라가다 가랑이 찢어진다. 73년생 잃은 돈은 다시 벌어도 놓친 기회는 다시 없다. 85년생 하루 열두 번 변덕 부리는 게 마음. 97년생 실수와 잘못 깨달을 때 일보 전진.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani03.gif"&gt;	&amp;nbsp;	38년생 때 못 만난 영웅호걸은 촌부에 불과. 50년생 세상사 어느 장단 맞춰야 할지. 62년생 짜증 나는 일 있더라도 절대 먼저 화내지 마라. 74년생 기쁨은 나눌수록 커지고 슬픔은 나눌수록 준다. 86년생 절대 좋거나 절대 나쁜 건 없다. 98년생 재물과 애정은 움켜쥘수록 빠져나가는 모래.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani04.gif"&gt;	&amp;nbsp;	27년생 윤택한 삶이 훌륭한 삶은 아니다. 39년생 많은 정보가 오히려 선택을 방해. 51년생 목표 수정 고려해야 할 수도. 63년생 지적받으면 즉시 고쳐라. 75년생 마음 여리면 자신만 손해. 87년생 욕망과 희망의 등불 크게 밝히도록. 99년생 이성보다 감성 발휘하라.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani05.gif"&gt;	&amp;nbsp;	28년생 비관은 사고를 정지시킨다. 40년생 이른 귀가에 행복 있다. 52년생 검은색과 숫자 1, 6 행운 부른다. 64년생 남을 위한 시간을 보내라. 76년생 관망과 복지부동도 좋은 방책. 88년생 할 수 있는 한 은혜 베풀며 가라. 00년생 자신만의 길을 찾아 나서도록.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani06.gif"&gt;	&amp;nbsp;	29년생 예상치 못한 일로 마음이 복잡. 41년생 세상사 영욕을 벗어날 수 없다. 53년생 대로변 길가에 집 짓기. 65년생 아름다운 꽃이 빨리 꺾이는 법. 77년생 이익만 따지면 주변에 눈총 받는다. 89년생 집요하고 끈질기게 달려 들어야. 01년생 이익으로 사람을 판단 마라.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani07.gif"&gt;	&amp;nbsp;	30년생 뉘우침에는 애, 어른이 따로 없다. 42년생 번잡한 세상에 주관이 필요할 듯. 54년생 소화기 계통 질환을 주의하라. 66년생 잠시 물러나 있는 것도 지혜. 78년생 싸우지 않고 이기는 것이 명장. 90년생 푸른색과 숫자 3, 8 행운 부른다. 02년생 기대했던 목표의 80%는 가능.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani08.gif"&gt;	&amp;nbsp;	31년생 공든 탑이 무너지랴. 43년생 무엇보다 건강 챙기는 것이 우선. 55년생 과욕, 과속, 과음을 삼가도록. 67년생 미룬다고 해결될 일 아닌 듯. 79년생 능력밖에 일은 염두에 두지 마라. 91년생 바다는 청탁(淸濁)을 가리지 않는다. 03년생 신변에 작은 변화는 이롭다.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani09.gif"&gt;	&amp;nbsp;	32년생 길을 두고 메로 갈까. 44년생 아랫사람 말 들어 손해 없다. 56년생 부탁과 청탁은 과감히 거절. 68년생 의사 표시를 분명히 하라. 80년생 정체는 불가피할 듯. 92년생 말이 많으면 실수도 많다. 04년생 가까운 사람과도 일정한 거리 두기가 필요.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani10.gif"&gt;	&amp;nbsp;	33년생 병원 가는 일은 미루지 마라. 45년생 반찬이 열둘이어도 옆집 비위는 못 맞춘다. 57년생 효율성 떨어져도 기존 방식 고수할 수밖에. 69년생 눈앞만 보지 말고 시야 넓히도록. 81년생 나 아니면 안 된다는 생각은 버려라. 93년생 동업 생각했다면 소띠가 좋다.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani11.gif"&gt;	&amp;nbsp;	34년생 천 사람 천 마디 해도 흔들리지 마라. 46년생 승산 없는 일은 포기하는 게 상책. 58년생 금세라도 곧 끝장날 것 같지만 그렇지 않다. 70년생 당장은 힘들어도 미래를 보고 가라. 82년생 대수롭지 않은 일로 웃을 일. 94년생 친한 사이 금전 거래는 돌이킬 수 없는 절교임을 명심.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani12.gif"&gt;	&amp;nbsp;	35년생 외나무다리 앞에서 앞뒤 다투는구나. 47년생 배우자의 위로가 산삼보다 낫다. 59년생 집 안에만 있지 말고 외부 활동으로 기분을 전환. 71년생 지난 일은 잊고 내일을 준비하라. 83년생 아니 땐 굴뚝에 연기 날까. 95년생 과로나 스트레스는 쌓아두지 말고 즉시 풀도록.	&lt;br&gt;
-&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;한소평 금오산방 강주  &lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;			&lt;/p&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/4MTFRYWHBJA7XOKKF7G7JPLX5U.png?width=800&amp;height=420&amp;auth=4651b5b20b5d4901424204d1456faee02e4b064ff509db23945deabf4404c8ef&amp;smart=true" type="image/png" height="420" width="800"/>
-    </item>
-    <item>
       <title>전한길 “광주 반탄 집회로 지역 갈등 종식” 박은식 “野 지켜본 국민 결집"</title>
       <link>https://www.chosun.com/national/national_general/2025/02/16/W6SNLPHECBB67IXNRSMJIYRS7U/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/02/16/W6SNLPHECBB67IXNRSMJIYRS7U/</guid>
@@ -743,15 +752,6 @@
       <description/>
       <pubDate>Sun, 16 Feb 2025 07:20:05 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DWKF62ES7RILNBFXQXZ2Y7U4GQ.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;전한길 한국사 강사가 15일 광주 금남로 일대에서 열린 보수성향 개신교 단체 '세이브코리아'의 국가비상기도회에서 연설하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한국사 강사 전한길씨는 지난 15일 광주광역시 금남로 일대에서 열린 윤석열 대통령 탄핵 반대 집회에 참석했다. 이날 빨간색 옷을 입고 단상에 오른 전한길씨는 “5·18 광주 민주화 운동을 추모하기 위해 빨간 옷을 입고 왔다”며 “호남이든 영남이든 나라의 위기 속에서 하나가 돼야 한다”고 말했다. 이어 “우리는 과거 위기를 겪을 때마다 똘똘 뭉쳐서 극복했다”며 “지금의 대한민국 정치, 경제적 위기 역시 모두가 하나 되어 뭉친다면 그리고 윤 대통령이 복귀한다면 우리는 반드시 극복할 것”이라고 했다.&lt;br&gt;&lt;br&gt;전씨는 “민주화의 성지인 광주에서 탄핵 반대 목소리를 내는 집회를 한다는 것 자체가 ‘5·18 정신’을 계승한다는 의미”라며 “이번 집회는 지역 갈등의 종식을 알리는 것”이라고 주장했다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇전한길 “나는 2030의 스피커… 헌재, 尹 탄핵 기각"&lt;/b&gt;&lt;br&gt;&lt;br&gt;전씨는 이날 집회가 끝난 후 본지와 짧게 인터뷰했다. 전씨는 서울 노량진 메가스터디에서 공무원시험 준비생을 상대로 한국사를 강의해왔다. 공시생 사이에선 ‘일타 강사’로 불린다. 그런 그는 12·12 비상계엄 사태 이후 유튜브 채널에 정국과 관련한 영상을 종종 올리고 있다. &lt;br&gt;&lt;br&gt;그는 “이번 광주 집회는 한국의 고질적인 ‘지역 갈등’의 종식을 뜻한다”고 재차 말하면서 “향후 개헌이 된다면 5·18 정신도 헌법 전문에 수록해야 한다”고 주장했다.&lt;br&gt;&lt;br&gt;헌법재판소가 최근 윤석열 대통령 탄핵 심판 추가 기일을 지정한 것과 관련해 “헌재가 국민의 뜻을 보고 있다는 의미”라며 “대통령 지지율이 오르고, 탄핵 반대 집회가 많아지니 (헌재가) 눈치를 보고 있다. 국민의 뜻을 저버릴 수 없어 탄핵은 기각될 것”이라고 했다. &lt;br&gt;&lt;br&gt;그는 헌재가 탄핵 인용 결정을 내릴 경우 어떻게 할 건지를 묻자 “이 한 몸 던져서라도 행동에 나서겠다”며 “헌재는 역사 속에서 사라질 것”이라고 답했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GIWXB2LJTVBWDGWMGJBUTPA37A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;15일 광주 동구 금남로에서 윤석렬 대통령 탄핵반대집회가 열렸다. /김영근 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전씨는 탄핵 반대 집회를 쓰레기 매립장에서 열게 해야 한다는 취지로 주장한 민주당 법률위원장인 박균택 의원, 탄핵 반대 집회 단체에 5·18 광장 사용을 불허한 강기정 광주시장에 대해 “본인들의 뜻에 반대하는 국민을 쓰레기로 취급하는 것”이라며 “그들이 투쟁, 갈등을 외친다면 우리는 화합·통합·사랑을 내세우는 전략을 펼치겠다”고 했다. &lt;br&gt;&lt;br&gt;본인이 2030세대에게 인기가 많은 이유에 대해선 “내가 잘해서가 아니라 청년들이 하고 싶은 말을 대신 해주는 ‘스피커’ 역할을 맡았기 때문”이라고 답했다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇박은식 “광주 전국 순회 집회 당연, 반대 세력 쓰레기 취급 멈춰야”&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MYFH7PA53ZACNEVHRPYQCLUPFI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;박은식 호남대안포럼 대표./양수열 영상미디어 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;박은식 호남대안포럼 대표는 지난 15일 본지 인터뷰에서 광주광역시에서 탄핵 반대 집회가 열린 것에 대해 “광주도 대한민국의 광역시로 전국 집회에 포함되는 건 당연한 일”이라고 했다. 인터뷰는 서면으로 진행했다.&lt;br&gt;&lt;br&gt;박 대표는 “이번 정권에서 민주당의 탄핵 남발과 예산 삭감 등의 모습을 보며 민주당에 다음 정권을 넘겨서는 안 된다는 생각을 갖게 된 분들이 결집한 것 같다”고 했다. 그는 지난해 4·10 총선에서 국민의힘 후보로 광주 동·남을에 출마, 8.62%(7936표)를 얻고 낙선했다.&lt;br&gt;&lt;br&gt;박 대표는 최근 유튜브 방송에서 2030세대 일부를 가리켜 “스스로 말라 비틀어지게 만들어야 한다”고 말해 민주당 교육연수원장직에서 사퇴한 박구용 전남대 철학과 교수를 비판했다. 박 대표는 “민주당이 2030에게 갖고 있는 시각을 여실히 드러낸 발언”이라며 “우리 정파를 지지하지 않는 이들을 ‘말라 비틀어지게 한다’는 발상은 언젠가 2030에게 심판을 받을 것”이라고 했다. &lt;br&gt;&lt;br&gt;탄핵 반대 집회 단체에 5·18 광장 사용을 불허한 강기정 광주시장을 향해선 “본인의 과거나 돌아보길 바란다”며 “생각이 다른 분을 때려 광주 망신시킨 사람이 누군지 스스로 생각해야 할 때”라고 했다. 탄핵 반대 집회를 쓰레기 매립장에서 열게 해야 한다는 취지로 주장한 박균택 의원에 대해선 “민주당이 집권하면 반대 세력을 쓰레기 취급하겠다는 것을 공공연히 밝힌 것”이라고 주장했다. &lt;br&gt;&lt;br&gt;박 대표는 15일 광주광역시에서 열린 탄핵 반대 집회에 대해 “대체적으로 환영하는 분위기긴 했지만 분명 계엄에 부정적 시각을 갖는 분들도 많다는 것을 알아야 한다”며 “계엄(戒嚴)을 계몽(啓蒙)이라고 한다던가, 포고령에는 전공의를 처단한다던가 하는 섬뜩한 용어들이 있었는데 이를 어떻게 옹호하겠느냐”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>부산 반얀트리 화재 ‘PT룸서 최초 발화’...합동감식서 확인</title>
-      <link>https://www.chosun.com/national/regional/2025/02/16/NTM6CFSF6ZBLLECJPVYZAT65RU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/02/16/NTM6CFSF6ZBLLECJPVYZAT65RU/</guid>
-      <dc:creator>부산=김주영 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 16 Feb 2025 07:08:02 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SUCXZ3MR7HJBYHT2KULJXKMPRA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;16일 부산 기장군 반얀트리 호텔 신축 공사장 화재 현장에서 경찰과 과학수사대 화재감식팀, 소방 당국, 국립과학수사연구원, 국립재난안전원 등 관계자들이 합동 감식을 하기 위해 이동하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 14일 6명이 숨진 ‘반얀트리 해운대 부산’ 리조트 공사장 화재의 최초 발화지점이 1층 공사장의 배관 유지 보수 공간인 ‘PT룸’이었던 것으로 16일 확인됐다.&lt;br&gt;&lt;br&gt;부산경찰청 과학수사대와 소방 당국, 국립과학수사연구원, 고용노동부, 국립재난안전원 등은 이날 오전 10시 30분쯤부터 2시간 동안 화재 현장에서 합동감식을 벌인 결과 최초 발화지점을 확인했다고 밝혔다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “국과수에서 최초 발화부가 ‘PT룸’ 배관 주변으로 확인된다는 조사 결과를 밝혔다”며 “발화 원인은 당시 작업자들 진술과 CCTV상 현장 출입시간 등을 확인한 후 최종적으로 결론지을 예정”이라고 말했다.&lt;br&gt;&lt;br&gt;‘PT룸’(Plumbing terminal room)은 배관을 관리·유지·보수하기 위한 공간이다.&lt;br&gt;&lt;br&gt;PT룸이 위치한 B동 1층은 이번 화재로 6명이 숨진 장소로 알려진 1층 실내 수영장과 약 10m 떨어진 가까운 위치에 있다.&lt;br&gt;&lt;br&gt;경찰은 앞서 합동감식 전에 이번 화재의 신고자로부터 ‘B동 1층 PT룸 인근에서 인테리어 작업을 하던 중 화재가 발생한 것을 목격했다’는 진술을 확보했다.&lt;br&gt;&lt;br&gt;이 진술과 합동감식에서 확인된 발화지점이 일치한 셈이다.&lt;br&gt;&lt;br&gt;이에 이번 화재가 1층 공사 현장에서 배관을 절단하고 용접하던 중에 가연성 내장재에 불티가 옮겨붙었을 것이라는 추정도 나오고 있다.&lt;br&gt;&lt;br&gt;실제 경찰은 ‘지상 1층 바닥 배관 구멍으로 연기가 유입된 뒤 화재가 급격히 확산했다’는 진술도 확보했다. &lt;br&gt;&lt;br&gt;이에 대해 경찰 관계자는 “현재 PT룸과 수영장이 모두 불에 타 그 사이에 가연성 내장재가 얼마나 있었는 지 등이 확인이 안 된다”며 “향후 조사가 필요한 부분”이라고 말했다.&lt;br&gt;&lt;br&gt;경찰은 이날 공사장에 스프링클러가 제대로 작동했는 지 여부를 확인했으나 추가적인 검토가 필요하다고 밝혔다. 앞서 공사장 관리 직원은 스프링클러가 정상적으로 작동했다고 경찰에 진술했다.&lt;br&gt;&lt;br&gt;경찰은 이날 합동감식에서 작업자들의 것으로 추정되는 휴대폰, 안전모, 조끼 등 유류물 10점도 수거해 분석하고 있다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “현재까지는 최초 발화부만 확인됐다”며 “감식 결과를 토대로 추가적인 검토와 수사를 이어나갈 계획”이라고 말했다.&lt;br&gt;&lt;br&gt;오는 17일에는 사망자 전원에 대한 부검이 예정돼 있다.&lt;br&gt;&lt;br&gt;부산경찰청은 이번 화재 사고와 관련해 전담팀을 꾸리고 수사에 속도를 내고 있다. 부산청 형사기동대장을 팀장으로 과학수사대 인력까지 포함해 30여명으로 수사팀을 만들었다.&lt;br&gt;&lt;br&gt;부산검찰청 동부지청도 지청장을 본부장으로 검사 10명, 수사관 15명 규모의 전담수사팀을 구성했다. &lt;br&gt;&lt;br&gt;부산고용노동청도 중대재해 처벌 등에 관한 법률 위반 여부를 확인하고 있다. 시공사인 삼정 기업을 포함해 숨진 고용자가 속해 있던 하청업체 등이 수사선상에 오를 것으로 보인다.&lt;br&gt;&lt;br&gt;이번 화재는 지난 14일 오전 10시 51분쯤 부산 기장군 오시리아 관광단지 오랑대공원 인근의 ‘반얀트리 해운대 부산’ 공사 현장에서 발생했다.&lt;br&gt;&lt;br&gt;이 불로 작업자 6명이 숨지고, 1명이 경상을 입었다. 소방 당국은 당초 이번 화재에 따른 부상자를 27명으로 파악했지만, 이중 17명은 단순 연기 흡입, 9명은 경미한 부상으로 파악돼 최종 부상자 집계에서 빠졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>김하늘양 살해 교사 6일째 병상에…대면조사·체포 미뤄져</title>
@@ -787,15 +787,6 @@
         <media:description type="plain">14일 오전 대전 서구 건양대병원 장례식장에서 김하늘양의 발인식이 엄수되고 있다. 2025.2.14/뉴스1 ⓒ News1 김기태 기자</media:description>
         <media:credit role="author" scheme="urn:ebu">뉴스1 ⓒ News1 김기태 기자</media:credit>
       </media:content>
-    </item>
-    <item>
-      <title>9세 여아 상습 성추행 후 한국 떠났던 30대 태권도 관장 ‘징역 3년 6개월’</title>
-      <link>https://www.chosun.com/national/incident/2025/02/16/GVKHVQEIVFAGBCFOPPGWLFLUCM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/02/16/GVKHVQEIVFAGBCFOPPGWLFLUCM/</guid>
-      <dc:creator>의정부=김현수 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 16 Feb 2025 04:19:41 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WOIPX7HDNFCOHOGTNKRO6EMBJA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원로고. /조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;태권도장 관원인 9세 여아를 1년간 상습적으로 성추행한 뒤 해외로 출국한 30대 관장이 실형을 선고받았다.&lt;br&gt;&lt;br&gt;의정부지법 형사11부(재판장 오창섭)는 성폭력범죄의 처벌 등에 관한 특례법 위반(13세 미만 미성년자 유사성행위) 혐의로 구속 기소된 30대 남성 A씨에게 징역 3년 6개월을 선고했다고 16일 밝혔다.&lt;br&gt;&lt;br&gt;재판부는 “피고인은 태권도장 관장으로서 피해자를 보호할 의무가 있음에도 추행을 해 죄질이 매우 좋지 않다”며 “일부 추행 행위에 대해서 폭행과 협박이 없다고 법리적 주장하고 있으나 대법원 판례에 비춰볼 때 받아들일 수 없다”고 판시했다. 이어 “피해자는 상당한 정신적 충격을 받았다”면서도 “다만 매일 여러 차례 반성문을 제출했고, 피해자 측과 원만히 합의해 처벌을 원치 않는 사정도 있다”며 양형 이유를 설명했다.&lt;br&gt;&lt;br&gt;2017년부터 경기 의정부시에서 태권도장을 운영하던 A씨는 2019년 7월 통학버스 안에서 관원인 9세 여아 B양을 성추행했다. 이후에도 그는 2020년 6월까지 약 10여 차례나 B양을 추행했다. A씨는 같은 해 11월 개인 채무 문제로 태권도장 운영을 지인에게 넘기고 2021년 가족들과 함께 일본으로 출국했다.&lt;br&gt;&lt;br&gt;하지만 3년 뒤 B양 부모가 우연히 딸의 일기장을 보면서 A씨의 범행이 수면 위로 드러났다. B양 부모의 신고를 받은 경찰은 수사 끝에 A씨를 추적해 한국으로 송환했다. 체포된 A씨는 혐의를 부인했으나, 경찰의 추궁 끝에 결국 자백했다.&lt;br&gt;&lt;br&gt;검찰은 지난달 16일 열린 결심 공판에서 징역 12년을 구형했다.&lt;br&gt;&lt;br&gt;&lt;br/&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[이별전쟁] 10년 간 딸을 안 데려간 전처에 양육권 변경 소송을 걸었는데…</title>
