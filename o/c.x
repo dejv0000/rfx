@@ -13,6 +13,28 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>10년 전 농장서 탈출한 사슴이 떼로… 골머리 앓는 순천 아파트</title>
+      <link>https://www.chosun.com/national/national_general/2025/02/18/7CTZ2PST4BHAVLVT2GXHY5H66E/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/02/18/7CTZ2PST4BHAVLVT2GXHY5H66E/</guid>
+      <dc:creator>이가영 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 17 Feb 2025 22:41:30 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZTJC4OK6R2LQJDZI75RTA2GFMM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전남 순천시 한 아파트 단지에서 포착된 꽃사슴떼. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전남 순천의 도심 아파트 안팎에 뿔이 달린 사슴 떼가 출몰하면서 주민들이 불안감을 호소하고 있다.&lt;br&gt;&lt;br&gt;18일 순천시에 따르면 최근 온라인 커뮤니티, 소셜미디어에는 ‘순천 어느 아파트 단지 근황’이라는 제목으로 용당동 한 아파트에서 사슴이 뛰노는 영상과 사진이 올라왔다. 봉화산 아래에 있는 이 아파트 단지에는 커다란 뿔이 달린 사슴들이 무리 지어 다니는 모습이 자주 목격된다. &lt;br&gt;&lt;br&gt;2010년대 초반 조례동 사슴 농장에서 탈출한 4마리가 봉화산에 서식하면서 개체 수가 급격히 늘어났다고 순천시는 전했다. 현재 60~70마리가 사는 것으로 추정된다. &lt;br&gt;&lt;br&gt;사슴들은 봉화산 둘레길 주변에 나타나 한가롭게 거닐거나 인근 동천까지 내려와 주민들에게는 친숙한 존재다. 일부 시민 사이에서는 “둘레길을 걷다 보면 운이 좋으면 사슴도 만날 수 있다”는 긍정적인 반응이 나온다. &lt;br&gt;&lt;br&gt;반면 봉화산 주변에 대규모 아파트 단지와 큰 도로가 위치해 있어 로드킬이 우려되고, 시민 안전에도 위협이 된다며 대책을 요구하는 목소리도 나온다. 꽃사슴은 평소 온순하지만 10월부터 이듬해 1월까지 짝짓기 시기에는 공격적인 행동을 할 수 있다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YMU6LWK6VWXMH466LKKUMGH3ZE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전남 순천의 한 아파트단지에서 포착된 사슴떼. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;특히 작년 11월 경기 수원시에서 시민이 사슴뿔에 다치는 사고가 잇따르면서 경각심이 커졌다. 순천에서도 2023년 4월 봉화산 인근에서 사슴이 난동을 부려 신고를 받고 출동한 소방대원이 다치는 일도 있었다. &lt;br&gt;&lt;br&gt;순천시는 울타리 설치나 사슴 먹이 주기, 중성화 수술 등 대책 마련에 고심하고 있다. 사슴은 축산물위생관리법상 야생동물이 아닌 가축으로 분류돼 심각한 농작물 피해 등을 주지 않으면 사실상 포획과 살상이 어렵다. 가축은 정해진 도축 절차를 따라야 하고, 동물보호법에 따라 사냥도 할 수 없다. &lt;br&gt;&lt;br&gt;사슴 증가의 근본 원인인 번식 자체를 막는 것도 어려워 순천시는 환경부, 동물 단체 등과 협의하고 있다. 사슴은 번식력이 왕성해 전남 영광군의 안마도에서는 방치된 10여 마리의 사슴이 30년이 흐르는 동안 1000마리 정도로 늘어나 주민들이 집단 민원을 제기하기도 했다. &lt;br&gt;&lt;br&gt;순천시 측은 “현행법상 사슴으로 인한 민원이 접수되더라도 구조한 뒤 다시 방생하는 방법 외에는 뚜렷한 대책이 없는 상황”이라며 “사슴 개체 수부터 파악한 뒤 번식기에 중성화 수술이 가능한 지 관련법을 들여다보고 있다. 혹시 모를 사고에 대비해 조속히 대책을 마련하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/YGYMEL5Q7NEO7H6XESUAMQFTPA.JPG?width=764&amp;height=573&amp;auth=75b54b30a10a37c5695f02f73c60f5e56eb816d93475e1275da5543bdc83e7e9&amp;smart=true" type="image/jpeg" height="573" width="764">
+        <media:description type="plain">전남 순천의 한 아파트단지에 출몰한 사슴떼. 뉴스1 DB</media:description>
+        <media:credit role="author" scheme="urn:ebu"/>
+      </media:content>
+    </item>
+    <item>
+      <title>“김새론, 좋은 연기자로 기억되길”…‘아저씨’ 감독도 추모 </title>
+      <link>https://www.chosun.com/national/national_general/2025/02/18/IED3CFB3TVGOPOCSS6P65KWIIA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/02/18/IED3CFB3TVGOPOCSS6P65KWIIA/</guid>
+      <dc:creator>김가연 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 17 Feb 2025 22:11:33 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YTG27X3OAVN7HFQAXCS4GXPMCY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;17일 서울 송파구 서울아산병원 장례식장에 마련된 고(故) 배우 김새론의 빈소 고인의 영정사진이 띄워져 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;배우 김새론(25)이 지난 16일 세상을 떠난 가운데, 고인의 대표작인 영화 ‘아저씨’를 연출한 이정범 감독도 “좋은 연기자로 기억되길 바란다”라며 고인을 추모했다.&lt;br&gt;&lt;br&gt;17일 연예매체 OSEN에 따르면, 이 감독은 “새론이에 대해 얘기할 수 있는 몇 안 되는 기회인 것 같다”며 힘겹게 입을 열었다.&lt;br&gt;&lt;br&gt;이 감독은 “(새론이를 보고) 천재 배우, 천재 아역이라고 하는데, ‘아저씨’에서 새론이는 천재라기보단 감수성이 뛰어난 어린 아이였다”라고 고인을 떠올렸다.&lt;br&gt;&lt;br&gt;그는 “동년배 아이가 가지고 있는 감수성과는 조금 달랐다. 다른 어린 연기자들은 흉내내는 연기를 하거나 자기 자신을 과하게 미화하고, 자기를 과장하는 등 그런 감정이 기본이 되는 연기를 했었다. 보통 대부분의 아역들이 그렇다”라며 “그런데 새론이는 그렇지 않았다. ‘네가 지금 이런 상황이고 이런 감정을 느꼈으면 좋겠다’, ‘이럴 때는 어떨 것 같아?’라고 하면 어린 11살의 나이임에도 불구하고 마치 21살 연기자와 이야기하는 느낌이었다”라고 회상했다.&lt;br&gt;&lt;br&gt;이어 “그 감정은 절대 트레이닝으로 나오는 감정이 아니다. 그건 기본적으로 그 친구가 좋은 감수성을 갖고 있기 때문”이라며 “사람에 대한 이해도 그렇고, ‘아저씨’에서 보여준 연기는 대부분 그렇게 만들어지고 나왔다”라고 했다. 그러면서 “다른 분들이 그걸 천재적이라고 표현하면 그럴 수 있지만, 개인적으로 ‘천재적’이란 표현보단 인간의 감정을 다룬 직업이다보니, 타인의 감정을 연기하는 데 있어선 감수성이 아주 뛰어났다고 얘기하고 싶다”라고 했다.&lt;br&gt;&lt;br&gt;이 감독은 “어린 아이인데도 불구하고 굉장히 어른의 감정을 알고 있는 듯한 느낌을 받았다. 감독으로서 그 감정에 굉장히 도움을 많이 받았고, ‘아저씨’에서 많은 부분을 차지했다”라며 “김새론 양의 그 연기, 감정 연기에 빚진 게 있지 않나라고 생각한다”라고 덧붙였다.&lt;br&gt;&lt;br&gt;그는 마지막으로 “성장한 새론이가 본인의 의지와 다르게 흘러갔던 사건의 방향도 있고, 그 친구가 잘못하고 실수한 부분도 없지 않아 있다. 아무래도 공인이니까 타인에 비해 노출도 많이 되고, 질타도 많이 받았던 것 같다. 그것도 인정하면서, 그 모습으로만 기억되지 않길 바란다. 내 가슴 속에선 여전히 ‘아저씨’의 새론이로 남아 있고, (그렇게) 기억되길 바라는 마음”이라고 했다.&lt;br&gt;&lt;br&gt;그러면서 “나중에 커서 고생하고, 고민하다가 비극적으로 생을 마감한 어린 여배우가 아니었으면 한다. 본인도 그걸 원하지 않을 것 같다. 그냥 촬영을 즐기면서 현장에서 많이 웃고 좋아했던 연기자로 기억되고 싶지 않을까 싶다”라고 애도했다.&lt;br&gt;&lt;br&gt;한편 고인의 빈소는 서울 송파구 풍납동 서울아산병원 장례식장 7호실에 마련됐다. 발인은 19일 오전 6시20분이며, 장지는 서울시립승화원이다. 장례 절차는 비공개로 진행될 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>25세 배우 김새론의 비극… 다시 불거진 악플의 폐해</title>
       <link>https://www.chosun.com/national/national_general/2025/02/18/VHZJCJHPJFBL5FQ4ARIHGYXJEA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/02/18/VHZJCJHPJFBL5FQ4ARIHGYXJEA/</guid>
@@ -956,28 +978,6 @@
         <media:description type="plain">16일 방송된  '전국노래자랑'에 송대관이 게스트로 출연해 개막 무대를 선보였다,./KBS 1TV</media:description>
         <media:credit role="author" scheme="urn:ebu"/>
       </media:content>
-    </item>
-    <item>
-      <title>서울 도심 곳곳서 탄핵 찬반 집회… “파면” vs “기각”</title>
-      <link>https://www.chosun.com/national/national_general/2025/02/15/LPN2IHX6CJFFNBNFQL4KXXPJDU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/02/15/LPN2IHX6CJFFNBNFQL4KXXPJDU/</guid>
-      <dc:creator>안준현 기자</dc:creator>
-      <description/>
-      <pubDate>Sat, 15 Feb 2025 10:07:06 +0000</pubDate>
-      <content:encoded>15일 주말을 맞아 서울 도심 곳곳에서 윤석열 대통령 탄핵 찬성·반대 집회가 열렸다. 계엄 이후 집회가 매주 열렸던 광화문 일대와 헌법재판소 앞뿐 아니라, 서울대에서도 양 진영 간 집회가 열렸다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZYKOSVHZ7JPABNZQHZKFWEYK2A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;15일 서울 종로구 동화면세점 인근에서 윤석열 대통령 탄핵 반대 집회 하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;사랑제일교회 전광훈 목사가 이끄는 대한민국바로세우기국민운동본부와 자유통일당은 이날 오후 1시부터 7시까지 동화면세점 앞에서 윤석열 대통령 탄핵을 반대하는 ‘자유통일을 위한 국민대회’를 열었다. 경찰 비공식 추산 4만2000여 명이 참석했다.&lt;br&gt;&lt;br&gt;이들은 ‘탄핵무효 이재명 구속’ ‘조기 대선 조기 총선’이 적힌 피켓과 태극기·성조기를 흔들었다. 집회 무대에 선 연사들은 “반드시 부정선거를 없애야 한다”고 주장했다.&lt;br&gt;&lt;br&gt;윤석열 대통령의 퇴진과 탄핵을 찬성하는 퇴진비상행동은 이날 오후 5시부터 경복궁 사거리 앞에서 탄핵 촉구 집회를 열었다. 경찰 비공식 추산 1만2000여 명이 모였다. 이들은 ‘내란 동조 국민의힘 해체’ ‘내란 수괴 윤석열 즉각 파면’ 등을 외쳤다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PDXC7F6DKBJSPM72N6H7JEWJMY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 즉각퇴진·사회대개혁 비상행동이 15일 서울 종로구 광화문 일대에서 11차 범시민대행진을 열자 참석자들이 손팻말을 들고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;무대에 선 연사들은 “대통령 관저가 있는 한남동과 서부지법에 난입한 이들이 이제는 국가인권위원회를 무단으로 무력화했다”고 했다. 이들은 이날 오후 6시 30분부터 안국역 사거리와 종각역을 거쳐 명동역까지 행진할 예정이다.&lt;br&gt;&lt;br&gt;서울 종로구 헌법재판소 인근에서도 국민의힘 원외당협위원장들의 탄핵 반대 집회가 열렸다. 윤석열 정부에서 국토교통부 장관을 지낸 원희룡 전 장관은 이날 집회에 참석해 “흠결 투성이 헌재를 같이 바로잡자”고 말했다.&lt;br&gt;&lt;br&gt;서울대에서도 이날 탄핵 찬성 주장 측과 반대 측이 각각 집회를 열었다. 이날 오후 4시 서울대 본관 인근 아크로 광장에선 탄핵 찬성 단체가, 한 시간 후인 5시에는 탄핵 반대 집회가 열렸다. 양측 모두 수십 명이 모인 가운데, 탄핵 반대 측에서 “찬성 측이 시간이 끝나는데 비키지 않는다”며 항의, 한때 몸싸움 등 대립이 발생하기도 했다. 이에 경찰은 인간 띠를 구축해 양 진영을 물리적으로 갈라놓았다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G3B7AR7EGNNPTJ5IFVS5FP6XD4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;15일 서울 관악구 서울대학교 학생회관 앞에서 탄핵 반대 집회를 하려던 학생과 시민들이 집회 장소를 내주지 않는 탄핵 찬성 재학생 및 동문에게 항의하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/ZYKOSVHZ7JPABNZQHZKFWEYK2A.jpg?width=5856&amp;height=3758&amp;auth=9381ecbb20619ebd5650682666c72ed122e553508054a20a773f91bfa61ad0f9&amp;smart=true" type="image/jpeg" height="3758" width="5856">
-        <media:description type="plain">15일 서울 종로구 동화면세점 인근에서 윤석열 대통령 탄핵 반대 집회 하고 있다. /뉴시스</media:description>
-        <media:credit role="author" scheme="urn:ebu">bluesoda</media:credit>
-      </media:content>
-    </item>
-    <item>
-      <title>“탄핵 반대” vs “꼭 탄핵”… 70m 차벽으로 두쪽 난 금남로</title>
-      <link>https://www.chosun.com/national/regional/2025/02/15/NV7YPQF73RAQHBNYQDOPAMJAKQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/02/15/NV7YPQF73RAQHBNYQDOPAMJAKQ/</guid>
-      <dc:creator>광주광역시=조홍복 기자, 광주광역시=안준현 기자</dc:creator>
-      <description/>
-      <pubDate>Sat, 15 Feb 2025 10:03:20 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KOB5SCNRTJGVPIOFZ2BYEPAVXU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;15일 광주 동구 금남로에서 탄핵찬성(오른쪽)과 반대(왼쪽) 집회가 동시에 열렸다./김영근 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;15일 오후 광주광역시 금남로 3가와 2가에는 나란히 대행 무대가 마련됐다. 윤석열 대통령 탄핵 찬성과 반대 측 집회 무대가 동시에 등장한 것이다. 1980년 5·18민주화운동 당시 수많은 광주시민들이 집결했던 장소가 금남로. &lt;br&gt;&lt;br&gt;광주에선 “민주주의 상징 도로”로 불린다. 보수 정권 퇴진 집회 등 대규모 정치 집회가 금남로에서 열렸다. 금남로에서 보수와 진보가 동시에 각각 1만명 이상이 운집하는 대형 집회가 열리기는 이번이 처음이다. 현장에선 “금남로가 진영에 따라 남북으로 두쪽이 났다”는 말이 나왔다.&lt;br&gt;&lt;br&gt;보수성향 기독교단체 세이브코리아가 개최한 ‘탄핵 반대’ 국가비상기도회 메인 무대는 금남로 3가에 설치됐다. 무대 뒤 금남로 3~5가 470m 거리에 수많은 탄핵 반대 인파가 운집했다. ‘윤석열 정권 즉각 퇴진·사회대개혁광주비상행동(광주비상행동)’이 주최한 ‘탄핵 찬성’ 광주시민 총궐기대회는 금남로 1~2가 260m 거리에서 진행됐다. 메인 무대는 금남로 2가에 설치됐다.&lt;br&gt;&lt;br&gt;양측 메인 무대 사이 길이는 70m에 불과했다. 그 사이 공간을 경찰 버스 4대가 ‘ㅁ’자 모양으로 가로막고 있었다. 양측 충돌에 대비해 경찰이 차벽을 쌓았다. 경찰은 “두 진영이 가까운 거리를 두고 집회를 하는 만큼 차벽을 설치할 수밖에 없었다”고 밝혔다. &lt;br&gt;&lt;br&gt;현장 경찰 사이에선 “진보와 보수 사이를 마치 휴전선 같은 벽이 가로막은 것 같다”는 말이 나왔다. 광주 한 경찰서 경정은 “꼭 이념에 따라 남북으로 갈라진 한반도 모습 같아 기가 막혔다”고 말했다.&lt;br&gt;&lt;br&gt;탄핵 반대 측 전한길 역사 강사는 “우리는 과거 위기를 겪을 때마다 똘똘 뭉쳐서 극복했다”며 “지금의 대한민국 정치, 경제적 위기 역시 모두가 하나되어 뭉친다면 그리고 윤 대통령이 복귀한다면 우리는 반드시 극복할 것”이라고 했다. 탄핵 찬성 측 광주비상행동은 “내란 선동 세력이 대한민국 민주주의 성지인 금남로에서 집회를 열었다”며 “금남로를 지키지 못해 죄송하다”고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KU3FZMUL3BFFDIMSUKCX6VVBB4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;15일 광주 동구 금남로에서 탄핵찬성(사진 아래쪽)과 반대(사진 윗쪽) 집회가 동시에 열렸다./김영근 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;본지 확인 결과 경찰청이 “대형 버스 4대를 동원해 벽을 설치하라”는 지시를 관할 경찰서인 광주 동부경찰서에 내렸고, 동부서에서 이런 계획을 수립, 실행했다. 경력은 광주경찰청 소속 4개 기동대와 전남경찰청, 전북경찰청, 충남경찰청, 충북경찰청에서 지원 나온 16개 기동대가 섞여 있다. &lt;br&gt;&lt;br&gt;처음엔 대형 경찰버스 4대였으나, 본청이 현장 판단에 따라 스타렉스와 미니버스 등을 추가로 설치했다. 또 경찰은 양 진영을 연결하는 충금지하상가 출입구도 모두 바리케이드를 설치해 출입 통제했다.&lt;br&gt;&lt;br&gt;각 진영에서 들었을 때 서로 마이크 연설 소리가 ‘윙윙’하며 거의 들리지 않거나 뭉개지는 현상이 일부 일어났다. 경찰 관계자는 “스피커를 각각 반대 방향(탄핵 반대는 북서쪽, 탄핵 찬성은 남동쪽)으로 설치해 이같은 현상이 있던 것으로 보인다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>불교를 ‘테이크아웃’하다</title>
