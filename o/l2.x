@@ -6,6 +6,16 @@
 		<link>https://www.lawtimes.co.kr/opinion</link>
 		<language>ko</language>
 		<item>
+			<title>비욘드 로스쿨 : 단어 의미 왜곡이 넘치는 세상</title>
+			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/256/205553.jpg" alt="2024_beyond_lawschool_pak.jpg" /&gt;&lt;/p&gt;&lt;p style="text-align: center;"&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;매년 2월은 로스쿨 졸업생들과 입학생들에게 기대와 불안이 공존하는 시기이다. 졸업생 중 적어도 절반은 4월에 있을 변호사 시험 결과를 기다리면서 초조한 나날을 보낼 것이고, 입학 통보를 받은 입학생 중 일부는 본인이 합격한 학교보다 조금 더 좋은 로스쿨에서 추가 입학자 발표가 있을 수 있다는 기대와 함께 각 로스쿨 또는 사설학원에서 제공하는 예비 로스쿨 과정을 밟으면서 2월 한달을 보내게 된다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;이처럼 로스쿨이라는 문을 드나든 사람들 역시 불확정성이라는 어쩔 수 없는 세상의 이치에 순응하며 살아야 하지만, 사실 법만큼 정확성을 요구하는 학문도 없다. 대륙법계 전통에 빛나는 우리 법학은 이른바 ‘개념 법학’이라는 이름으로 법학을 공부하는 모든 사람들에게 법률 용어들에 대한 명확한 정의와 해석을 요구한다. 물론 그러한 정의와 해석에도 늘 이견이 있을 수 있고, 2025년의 오늘은 진실보다는 이른바 포스트 진실(post-truth)이 진리인 것처럼 여겨지는 세상이기는 하나 애초부터 아닌 것이 진실로 돌변할 수는 없다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;형사소송법을 주로 공부하는 부족한 법학자인 필자가 들 수 있는 단어 의미 왜곡의 가장 큰 예는 검찰개혁이라는 미명 하에 2020년 이루어진 공수처 도입과 2022년 5월 단행된 형사소송법 개정이다. 검·경과 수사권을 나누어 서로 감시할 수 있는 기관으로 만들어진 공수처와, 2022년 이전의 검·경 수사권 조정의 여파로 사건 처리가 이미 상당히 지연되고 있던 상황에서 검수완박의 기치 하에 경찰로부터 송치받은 사건에 대한 검사의 수사권을 제한하고, 사법경찰관이 불송치결정을 한 사건에 대하여 고발인은 이의신청을 할 수 없도록 한 형사소송법 및 검찰청법 개정은 단지 특수 수사 등에 있어 검찰의 수사권을 축소시키려는 목적에서 한 것일 뿐, 법률 소비자인 일반 국민의 수사 지연 등으로 인한 피해는 알면서도 묵과한 것에 불과하였다. 그 이후 진행된, 법의 위임 범위를 벗어난 시행령으로 범벅된 이른바 시행령 정치 역시 법개정 불가능을 이유로 든 궁여지책이긴 하였지만 결코 바람직하지 않았다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;로스쿨 출범과 국민참여재판 도입이라는 혁신적인 결과를 가져다준 2000년대 초중반의 사법개혁이 절반의 성공을 거둔 것과는 반대로 위의 ‘개혁’은 완전한 실패를 가져다주었고, 2025년 2월 우리는 그러한 어설픈 ‘개혁’의 참담함을 맛보고 있다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;과유불급이라 하였던가, 법은 그 자체로 정치의 산물이기는 하나, 국민들의 삶을 오히려 어렵게 하는 과도한 입법권과 행정권의 행사는 우리나라만의 현상은 아닌 듯 하다. 그렇다면 부당한 권한 행사로 피해를 입는 우리들의 피해는 누가 보상해 줄 것인가? 그러한 과정에서 법학자와 법률가의 할 말과 할 일이 많아지고 있다고 해서 씁쓸한 웃음을 짓고 있어야 하나? 단어 의미의 왜곡은 마치 수북이 쌓인 눈과 같다. 눈으로 세상이 덮여 있으면 깨끗해 보이지만 눈은 결코 하얗게 녹지 않고 결국 우리가 치워야 할 새까만 먼지를 남길 뿐이다.&lt;/p&gt;&lt;p style="text-align: left;"&gt;&amp;nbsp;&lt;/p&gt;&lt;p style="text-align: left;"&gt;&amp;nbsp;&lt;/p&gt;&lt;p style="text-align: left;"&gt;&lt;b&gt;박용철 교수(서강대 로스쿨)&lt;/b&gt;&lt;/p&gt;</description>
+			<pubDate>Mon, 17 Feb 2025 08:43:49 -0000</pubDate>
+			<category>opinion</category>
+			<link>https://www.lawtimes.co.kr/opinion/205553</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/opinion/205553</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/256/205553.jpg</media:thumbnail>
+			<dc:creator>박용철</dc:creator>
+		</item>
+		<item>
 			<title>법신논단 : 경찰 권력 통제, 문제 없나 - 수사권 조정 큰 이유는
 검·경의 견제와 균형
 
@@ -126,16 +136,6 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/opinion/205524</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/thumb/256/205524.jpg</media:thumbnail>
 			<dc:creator>이상직</dc:creator>
-		</item>
-		<item>
-			<title>비욘드 로스쿨 : 단어 의미 왜곡이 넘치는 세상</title>
-			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/256/205553.jpg" alt="2024_beyond_lawschool_pak.jpg" /&gt;&lt;/p&gt;&lt;p style="text-align: center;"&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;매년 2월은 로스쿨 졸업생들과 입학생들에게 기대와 불안이 공존하는 시기이다. 졸업생 중 적어도 절반은 4월에 있을 변호사 시험 결과를 기다리면서 초조한 나날을 보낼 것이고, 입학 통보를 받은 입학생 중 일부는 본인이 합격한 학교보다 조금 더 좋은 로스쿨에서 추가 입학자 발표가 있을 수 있다는 기대와 함께 각 로스쿨 또는 사설학원에서 제공하는 예비 로스쿨 과정을 밟으면서 2월 한달을 보내게 된다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;이처럼 로스쿨이라는 문을 드나든 사람들 역시 불확정성이라는 어쩔 수 없는 세상의 이치에 순응하며 살아야 하지만, 사실 법만큼 정확성을 요구하는 학문도 없다. 대륙법계 전통에 빛나는 우리 법학은 이른바 ‘개념 법학’이라는 이름으로 법학을 공부하는 모든 사람들에게 법률 용어들에 대한 명확한 정의와 해석을 요구한다. 물론 그러한 정의와 해석에도 늘 이견이 있을 수 있고, 2025년의 오늘은 진실보다는 이른바 포스트 진실(post-truth)이 진리인 것처럼 여겨지는 세상이기는 하나 애초부터 아닌 것이 진실로 돌변할 수는 없다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;형사소송법을 주로 공부하는 부족한 법학자인 필자가 들 수 있는 단어 의미 왜곡의 가장 큰 예는 검찰개혁이라는 미명 하에 2020년 이루어진 공수처 도입과 2022년 5월 단행된 형사소송법 개정이다. 검·경과 수사권을 나누어 서로 감시할 수 있는 기관으로 만들어진 공수처와, 2022년 이전의 검·경 수사권 조정의 여파로 사건 처리가 이미 상당히 지연되고 있던 상황에서 검수완박의 기치 하에 경찰로부터 송치받은 사건에 대한 검사의 수사권을 제한하고, 사법경찰관이 불송치결정을 한 사건에 대하여 고발인은 이의신청을 할 수 없도록 한 형사소송법 및 검찰청법 개정은 단지 특수 수사 등에 있어 검찰의 수사권을 축소시키려는 목적에서 한 것일 뿐, 법률 소비자인 일반 국민의 수사 지연 등으로 인한 피해는 알면서도 묵과한 것에 불과하였다. 그 이후 진행된, 법의 위임 범위를 벗어난 시행령으로 범벅된 이른바 시행령 정치 역시 법개정 불가능을 이유로 든 궁여지책이긴 하였지만 결코 바람직하지 않았다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;로스쿨 출범과 국민참여재판 도입이라는 혁신적인 결과를 가져다준 2000년대 초중반의 사법개혁이 절반의 성공을 거둔 것과는 반대로 위의 ‘개혁’은 완전한 실패를 가져다주었고, 2025년 2월 우리는 그러한 어설픈 ‘개혁’의 참담함을 맛보고 있다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;과유불급이라 하였던가, 법은 그 자체로 정치의 산물이기는 하나, 국민들의 삶을 오히려 어렵게 하는 과도한 입법권과 행정권의 행사는 우리나라만의 현상은 아닌 듯 하다. 그렇다면 부당한 권한 행사로 피해를 입는 우리들의 피해는 누가 보상해 줄 것인가? 그러한 과정에서 법학자와 법률가의 할 말과 할 일이 많아지고 있다고 해서 씁쓸한 웃음을 짓고 있어야 하나? 단어 의미의 왜곡은 마치 수북이 쌓인 눈과 같다. 눈으로 세상이 덮여 있으면 깨끗해 보이지만 눈은 결코 하얗게 녹지 않고 결국 우리가 치워야 할 새까만 먼지를 남길 뿐이다.&lt;/p&gt;&lt;p style="text-align: left;"&gt;&amp;nbsp;&lt;/p&gt;&lt;p style="text-align: left;"&gt;&amp;nbsp;&lt;/p&gt;&lt;p style="text-align: left;"&gt;&lt;b&gt;박용철 교수(서강대 로스쿨)&lt;/b&gt;&lt;/p&gt;</description>
-			<pubDate>Fri, 14 Feb 2025 20:09:05 -0000</pubDate>
-			<category>opinion</category>
-			<link>https://www.lawtimes.co.kr/opinion/205553</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/opinion/205553</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/256/205553.jpg</media:thumbnail>
-			<dc:creator>박용철</dc:creator>
 		</item>
 		<item>
 			<title>고승덕의 백세건강 모범답안 : (106) 골다공증은 질병 장사? - 고승덕의 백세건강 모범답안</title>
