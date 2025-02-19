@@ -6,6 +6,16 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>헌재 "헌법연구관 대상 가짜뉴스·악성 댓글 경찰 수사 의뢰 논의 중"</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/205728.jpg" alt="3453.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;천재현 헌재 공보관 《사진=연합뉴스》&lt;/figcaption&gt;   &lt;/figure&gt;&lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;헌법재판소가&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="1143"&gt;문형배&amp;nbsp;&lt;/span&gt;헌재소장 권한대행과 헌법연구관에 대한 가짜뉴스나 악성 댓글, 영상에 대해 경찰에 수사를 의뢰하는 것을 논의 중이라고 밝혔다.&lt;br /&gt;&lt;br /&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="15103"&gt;천재현&amp;nbsp;&lt;/span&gt;헌재 공보관은 19일 정례 브리핑에서 "헌법연구관에 대한 가짜뉴스, 영상, 악성댓글에 대해 자료 등 증거를 수집 중"이라며 "경찰에 수사 의뢰할지 논의 중이다"라고 말했다.&lt;br /&gt;&lt;br /&gt;최근 온라인에서 일부 시민이 특정 헌법연구관들이 외국인이라는 근거 없는 허위 정보를 퍼뜨리고&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="1143"&gt;문형배&amp;nbsp;&lt;/span&gt;헌재소장 권한대행의 자택으로 추정되는 아파트에서 시위하는 등 헌재 구성원에 대한 공격이 거세지자 대응 방안을 마련하겠다는 취지다.&lt;br /&gt;&lt;br /&gt;헌재는 또&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="8480"&gt;윤석열&amp;nbsp;&lt;/span&gt;대통령 탄핵심판 10차 변론에 증인으로 채택된 조지호 경찰청장 측이 출석 의사를 내비쳤고 변호인과 출석 여부 등에 대해 협의 중이라고 밝혔다.&lt;br /&gt;&lt;br /&gt;천 공보관은 "출석 여부를 변호인과 협의 중"이라며 "자진 출석 가능성도 있다. 조 전 청장이 출석 의사를 내비쳐서 방식을 협의 중"이라고 말했다.&lt;br /&gt;&lt;br /&gt;조 청장은 앞서 두 차례 탄핵심판 증인으로 채택됐으나 건강상 이유로 불출석했다. 헌재는 조 청장을 강제구인하기 위해 구인장을 발부하고 서울동부지검에 집행을 요청했으나 조 청장은 다시 한번 불출석 사유서를 제출했다. 조 청장의 예정된 증인신문 일시는 20일 오후 7시로, 윤 대통령 탄핵심판의 마지막 증인이 될 가능성이 높다. 조 청장은 내란 혐의로 기소돼 현재 서울중앙지법에서 재판을 받고 있다.&lt;br /&gt;&lt;br /&gt;헌재는 증인 추가 신청과 관련 윤 대통령 측이 경기도 파주와 인천 연수구 투표사무원, 참관인 등을 증인으로 신청했다가 철회했고, 주소를 특정해 다시 내겠다고 밝힌 상황이라고 설명했다. 헌재는 앞서 투표사무원 등에 대한 증인 신청을 기각했다.&lt;/p&gt;</description>
+			<pubDate>Wed, 19 Feb 2025 06:14:44 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/205728</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/205728</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/205728.jpg</media:thumbnail>
+			<dc:creator>홍윤지 기자</dc:creator>
+		</item>
+		<item>
 			<title>변협, 19~21일 고려대 해상법연구센터와 해양안전심판 직무 교육 특강</title>
 			<description>&lt;p&gt;대한변호사협회(회장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="2700"&gt;김영훈&lt;/span&gt;)는 19일부터 21일까지 사흘간 서울 서초구 서초동 대한변협회관 지하1층 세미나실에서 해양안전심판 직무 교육 특강을 개최한다.&lt;br /&gt;&lt;br /&gt;이번 특강은 변호사를 대상으로 해양안전심판 제도 및 해양사고 관련 법률 실무를 교육하기 위해 마련됐다. 강의는 △19일 박영선 전 부산해양안전심판원장의 '해양안전심판 개요 및 법적 의의' △20일 김인현 고려대 해상법연구센터장의 '해상교통법' △21일 권오정·강동화 박사의 '해양안전심판 대상 해양사고 관련자' 및 '해양안전심판업무와 해상보험' 순으로 진행된다.&lt;br /&gt;&lt;br /&gt;해양안전심판원은 해양사고 발생 시 사고의 원인을 판단하고 관련자들을 징계하는 역할을 맡는다. 조사관이 심판청구를 하면 심판관들은 해양사고관련자를 불러 심문한다. 이 과정에서 변호사는 심판변론인으로서 해양사고 관련자의 변론을 맡을 수 있다.&lt;br /&gt;&lt;br /&gt;그러나 변호사 자격을 취득하면 별도 심사를 거치지 않고 곧바로 심판변론인 등록이 가능해, 해양사고의 복잡한 법리와 절차를 충분히 숙지하지 않은 상태에서 변론을 맡게 되는 경우가 있다. 이에 따라 고려대해상법연구센터(소장 김인현)는 변협을 후원해 '심판변론인 직무교육과정'을 개설했다.&lt;br /&gt;&lt;br /&gt;김인현 소장은 "해양사고를 겪은 해기사와 도선사에게 실질적인 도움을 주기 위해서는 심판변론인으로 활동하는 변호사에게 일정한 교육이 필요하다"며 "앞으로 일반 심판변론인에게까지 교육의 기회를 확대할 계획"이라고 밝혔다.&lt;/p&gt;</description>
 			<pubDate>Wed, 19 Feb 2025 03:21:07 -0000</pubDate>
@@ -231,16 +241,6 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/205682</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/205682.jpg</media:thumbnail>
 			<dc:creator>안현 기자</dc:creator>
-		</item>
-		<item>
-			<title>인하대 AI·데이터법센터, 《인공지능법2》 출판기념세미나 성료</title>
-			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/205695.jpg" alt="2526.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;인하대 AI·데이터법센터(센터장 김원오)는 18일 인천 미추홀구 용현동 인하대 로스쿨 어울림홀에서 '인공지능 대전환 시대, 인공지능법의 현재와 미래'를 주제로&lt;b&gt; 《인공지능법2》&lt;/b&gt; 출판기념세미나를 개최했다.&lt;br /&gt;&lt;br /&gt;이번 세미나는 인공지능(AI) 기술이 법·제도 및 경제사회에 미치는 영향을 논의하기 위해 마련됐다. 김원오 센터장은 개회사에서 "인공지능 기술의 급격한 발전으로 법적 규율의 필요성이 커지고 있다"며 "이번 세미나가 AI 법제의 방향을 모색하는 계기가 될 것"이라고 강조했다.&lt;br /&gt;&lt;br /&gt;행사는 세 개의 세션으로 구성됐다.&lt;br /&gt;&lt;br /&gt;첫 번째 세션에서는 정찬모 법학연구소장이 좌장을 맡아 AI 관련 법적 쟁점을 다뤘다. 고인석 문과대학장은 생성형 AI 가이드라인을 발표하며, AI 기술 발전에 따른 윤리적·법적 규제 필요성을 짚었다.&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="15198"&gt;김현진&lt;/span&gt;(51·사법연수원 37기) 인하대 로스쿨 교수는 AI 서비스 이용약관의 법적 문제를 주제로, 서비스 제공자가 사용자와 체결하는 약관의 법적 한계를 분석했다. 성희활 인하대 로스쿨 교수는 금융산업에서 AI 활용이 확산되면서 발생할 수 있는 법적 리스크와 이에 대한 규제 방안을 설명했다.&lt;br /&gt;&lt;br /&gt;두 번째 세션은&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="6681"&gt;정영진&lt;/span&gt;(59·25기) AI·데이터법학과 주임교수가 좌장을 맡아 진행했다.&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="15956"&gt;이준범&lt;/span&gt;(47·36기) 로스쿨 교수는 AI 기반 리걸테크가 법률 시장에 미치는 영향과 규제 필요성을 짚었다.&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="11131"&gt;김린&lt;/span&gt;(48·34기) 로스쿨 교수는 AI가 고용시장 구조를 변화시키는 방식과 이에 따른 법적 대응 방안을 소개했다. 심석찬 AI·데이터법센터 박사는 국내 인공지능기본법 입법안의 의미를 분석했다.&lt;br /&gt;&lt;br /&gt;세 번째 세션에서는 김원오 센터장이 좌장을 맡아 종합토론을 진행했다. 발표자들은 AI 법제의 발전 방향과 각 세션에서 논의된 주요 쟁점을 정리했다. 또한, AI 법제 연구의 향후 과제에 대한 의견을 공유했다.&lt;br /&gt;&lt;br /&gt;인하대 AI·데이터법센터는 2020년 9월 인문사회연구소 지원사업에 선정된 이후 매년 인공지능 및 데이터 관련 전문 서적을 출간하며 연구를 지속하고 있다.&lt;br /&gt;&lt;br /&gt;현재까지 발행된 주요 서적은&lt;b&gt; 《데이터법》&lt;/b&gt;,&lt;b&gt; 《인공지능과 로봇윤리》&lt;/b&gt;, &lt;b&gt;《데이터법의 신지평》&lt;/b&gt;, &lt;b&gt;《인공지능법 총론》&lt;/b&gt; 등이다.&lt;br /&gt;</description>
-			<pubDate>Tue, 18 Feb 2025 08:35:56 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/205695</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/205695</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/205695.jpg</media:thumbnail>
-			<dc:creator>이진영 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
