@@ -13,6 +13,63 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>갓 태어난 송아지 돌보려다 어미 소 공격받은 농장주 숨져</title>
+      <link>https://www.chosun.com/national/national_general/2025/02/20/E6NASCNQBNEUXESXDX4BO2MQGE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/02/20/E6NASCNQBNEUXESXDX4BO2MQGE/</guid>
+      <dc:creator>보성=진창일 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 20 Feb 2025 05:00:20 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ONT4AHX3L4CBK4AOQLL4SLCDQY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전남 보성경찰서. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;갓 출산한 송아지를 돌보려다 어미 소의 공격을 받은 50대 농장주가 숨졌다.&lt;br&gt;&lt;br&gt;20일 전남 보성경찰서에 따르면 전날 오후 6시 40분쯤 보성군 노동면의 한 축사에서 50대 여성 농장주 A씨가 암소에게 들이받혔다. A씨는 중상을 입어 병원으로 옮겨졌지만, 숨졌다.&lt;br&gt;&lt;br&gt;A씨는 사고 당시 어미 소가 출산하자 송아지를 닦아주려고 축사에 들어갔던 것으로 파악됐다.&lt;br&gt;&lt;br&gt;경찰은 방범카메라(CCTV) 영상 등을 토대로 A씨가 어미 소에게 공격을 당했던 것으로 보고, 정확한 사고 경위를 조사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/ONT4AHX3L4CBK4AOQLL4SLCDQY.jpg?width=4288&amp;height=2848&amp;auth=b3478c8a746e1e0c2b237dcd0eeb6e88f45c18c89900e4064d036cecaec7a902&amp;smart=true" type="image/jpeg" height="2848" width="4288">
+        <media:description type="plain">전남 보성경찰서. /뉴스1</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>김문수 “환노위가 계엄 특검이냐” 야당과 설전</title>
+      <link>https://www.chosun.com/national/labor/2025/02/20/R73L4XNA5RHSRAK3TZKSUDWCWA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/labor/2025/02/20/R73L4XNA5RHSRAK3TZKSUDWCWA/</guid>
+      <dc:creator>곽래건 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 20 Feb 2025 04:58:04 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/D36HP4DQ5FBTTLZQL47B7UH4AM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김문수 고용부 장관이 20일 오전 서울 여의도 국회에서 열린 환경노동위원회 전체회의에서 의원들의 질의에 답변하고 있다. 왼쪽은 김민석 고용부 차관./남강호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;20일 열린 국회 환경노동위원회 임시 전체회의에서 김문수 고용노동부 장관의 과거 발언 등을 두고 김 장관과 야당 의원들 사이에 설전이 오갔다. 야당 의원들은 “국무위원 자격이 없다”고 했다.&lt;br&gt;&lt;br&gt;이날 환노위 임시 회의는 당초 MBC 기상캐스터로 일한 고(故) 오요안나씨의 직장 내 괴롭힘 의혹을 논의한다는 취지로 열렸다. 김 장관은 오씨 사건과 관련해 “너무나 안타깝게 세상을 떠났고, 기성세대로서 마음이 너무 아프다”며 “법과 원칙에 따라 철저히 감독하고 책임을 묻겠다”고 말했다.&lt;br&gt;&lt;br&gt;회의 시작 직후부터 야당은 김 장관에 대한 날 선 발언을 쏟아냈다. 진보당 정혜경 의원은“지난 청문회에서 ‘일제 시대 조선 사람은 일본인’이라는 주장으로 물의를 일으켰다”며 김 장관의 퇴장을 요구했다. 정 의원은 “국무위원 자리를 이용해 내란수괴 윤석열을 옹호하고, 극우세력을 자극해 국민 분열을 조장하고 있다”고도 했다.&lt;br&gt;&lt;br&gt;박해철 더불어민주당 의원은 지난달 19일 새벽 일어난 서울서부지법 난입 사태를 언급하며 “어떻게 생각하느냐”고 물었다. 김 장관은 “대한민국 헌정 질서를 부인하고 폭력 난동은 말이 안 된다”며 “과거에도 없었고 앞으로도 일어나선 안 되는 사건”이라고 했다.&lt;br&gt;&lt;br&gt;설전은 이후 본격화됐다. 박 의원이 문형배 헌법재판관 집 앞 시위 영상을 튼 뒤 “입에 담지 못할 욕설하는 분들도 있는데, 어떻게 생각하냐“고 묻자, 김 장관이 “옥외 집회에서 있는 일이라 제가 답변할 내용이 아니다”고 했다. 박 의원은 재차 답을 요구했지만 김 장관은 ”그걸 지금 환노위에서 저한테 묻고 답하라는 의원님들의 그런 부분이 문제가 있다”고 했다.&lt;br&gt;&lt;br&gt;김 장관이 “헌법재판소 판결 중에도 잘못된 것 많다”고 하자 박 의원은 “대한민국 제도하에서 (헌재 판결이) 동의 안 되면 대한민국 떠나야 하는 것 아니냐”라고 했다. 김 장관은 “헌재를 고쳐야지 왜 떠나냐”고 맞섰다. 박 의원이 “장관이 무슨 권한으로 고쳐나가냐. 대한민국은 법치국가고, 헌정 질서 부정하는 사람이…“라고 하자, 김 장관은 ”법치주의이고 국민 투표로 뽑힌 대통령인데 법의 판단 나기 전에 왜 내란이라고 하냐”며 목소리를 높였다. “불법 계엄”이라는 박 의원 발언에 김 장관은 “불법인지 아닌지 봐야 할 것 아니냐. 의원님이 판사냐”고 했다.&lt;br&gt;&lt;br&gt;김 장관은 야당 의원들을 향해 “환노위에서 그 질문을 하는 이유가 뭐냐. 저도 환노위 오래 했지만 이렇게 질문하는 것 못 봤다”며 “환노위에서 지금 계엄 특검을 하느냐”고 했다.&lt;br&gt;&lt;br&gt;박홍배 더불어민주당 의원은 “장관은 여전히 국무위원 자격이 없고 역사관에 대해 말할 가치가 없다”며 “장관은 일본 국적의 조상님을 마음에 품고 사시고, 저는 대한 국적의 조상님을 마음에 품고 살아가겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>SNS로 만난 중학생과 성관계한 20대 군인…모텔서 현행범 체포</title>
+      <link>https://www.chosun.com/national/national_general/2025/02/20/B5G4SXMFYJCVBIALIO7J7BWHNQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/02/20/B5G4SXMFYJCVBIALIO7J7BWHNQ/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 20 Feb 2025 04:55:57 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/X4WX55AXSBGOJAEPHUXGIU3CIA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 관련 이미지. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;소셜미디어(SNS)를 통해 만난 여자 중학생과 성관계를 한 20대 현역 군인이 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;20일 서울 용산경찰서 등에 따르면 현역 군인인 A씨가 지난 15일 미성년자 의제강간 혐의로 현행범 체포됐다.&lt;br&gt;&lt;br&gt;A씨는 검거 당일 오후 3시 30분쯤 서울 용산구의 한 모텔에서 중학생 B씨와 성관계를 한 혐의를 받는다.&lt;br&gt;&lt;br&gt;이들은 일면식도 없던 관계로 이날 소셜미디어를 통해 처음 만난 것으로 조사됐다.&lt;br&gt;&lt;br&gt;경찰은 중학생 B씨의 가족으로부터 가출 신고를 받고 추적하던 중 용산구의 한 모텔에서 B씨와 함께 있는 A씨를 발견해 검거했다.&lt;br&gt;&lt;br&gt;경찰은 A씨를 상대로 자세한 사건 경위를 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>인권위 “통일부, 산하기관 공무직 가족수당 지급 권고 수용”</title>
+      <link>https://www.chosun.com/national/national_general/2025/02/20/PQDQBKP4O5EQZGDALDKWPLMYAA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/02/20/PQDQBKP4O5EQZGDALDKWPLMYAA/</guid>
+      <dc:creator>장윤 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 20 Feb 2025 04:50:57 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6FAV2YYQLOBA2BIGHN4SJDD6MA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;안창호 국가인권위원회 위원장이 10일 서울 중구 국가인권위에서 열린 '국가인권위원회 2차 전원위원회'에 참석한 모습./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국가인권위원회(인권위)는 통일부 산하 소속기관 공무직 근로자에게도 가족 수당을 지급하라는 권고를 통일부 장관이 수용했다고 20일 밝혔다.&lt;br&gt;&lt;br&gt;인권위는 통일부 산하 남북관계관리단 공무직 근로자 A씨가 성과 상여금과 가족수당 등을 공무원과 달리 제대로 받지 못하고 있다며 낸 진정을 일부 인용해 가족수당 지급을 권고한 바 있다.&lt;br&gt;&lt;br&gt;인권위는 “통일부가 2026년 예산안에 일부 산하 소속기관 공무직 근로자 가족수당을 반영해 지급할 수 있도록 노력하겠다고 회신했다”며 “권고 수용을 환영한다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘직권남용 혐의’ 전 동대문구청장 1심 무죄</title>
+      <link>https://www.chosun.com/national/national_general/2025/02/20/M7BLHU3B5BEKVI77ZQ66OMQBXE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/02/20/M7BLHU3B5BEKVI77ZQ66OMQBXE/</guid>
+      <dc:creator>장윤 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 20 Feb 2025 04:45:55 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FO7XVKR3UQDHQEM37DQHLDYYSQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;유덕열 전 동대문구청장이 작년 3월 서울 서초구 중앙지법에서 열린 구속 전 피의자 심문(영장실질심사)을 받은 뒤 법원을 나서고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;공사업체 선정 특혜를 제공했다는 사실을 숨기기 위해 소속 공무원에게 금품 전달 역할을 강요한 혐의를 받는 유덕열 전 동대문구청장이 1심에서 무죄를 선고 받았다.&lt;br&gt;&lt;br&gt;서울북부지법 형사5단독(이석재 부장판사)은 20일 오전 강요 및 직권남용권리행사방해 혐의로 기소된 유 전 구청장에 대해 무죄를 선고했다.&lt;br&gt;&lt;br&gt;유 전 구청장은 1998년 동대문구청장에 처음 당선된 뒤, 2010년부터 2022년까지 동대문구청장을 3연임했다.&lt;br&gt;&lt;br&gt;유 전 구청장은 지난 2016년 동주민센터 공간개선 사업 추진 과정에서 담당 공무원에게 공사업체를 지정해주며 관급공사(공공기관에서 발주하는 공사)를 수의계약으로 체결하도록 지시한 혐의를 받는다.&lt;br&gt;&lt;br&gt;유 전 구청장은 재임 중이던 2016년 동주민센터 공간개선 사업 추진 과정에서 담당 공무원에게 특정 업체와 2억원대 수의계약을 맺도록 지시한 혐의를 받는다. 검찰은 계약을 체결한 업체 업자 김모씨가 공사 수주 브로커를 통해 유 전 구청장에게 2000만원 상당의 뇌물을 전달한 것으로 의심하고 있다.&lt;br&gt;&lt;br&gt;유 전 구청장은 2018년 김씨가 공사대금을 받지 못했다며 뇌물 제공 사실을 언론에 제보하겠다고 민원을 넣자 이를 무마하기 위해 2018년 5월과 12월 5급 승진을 앞둔 부하 직원 이모씨를 시켜 2400만원 상당의 금품을 전달하도록 강요한 혐의도 받고 있다. &lt;br&gt;&lt;br&gt;재판부는 “피고인이 특정 업체를 선정하라는 지시를 한 사실을 인정할 증거가 부족하고 김씨가 교부한 현금·상품권 일부라도 피고인에게 전달된 사실에 관한 증명이 부족하다”며 “공소사실 정보에 대해 범죄 사실 증명이 없는 것으로 판단했다”고 양형 이유를 밝혔다.&lt;br&gt;&lt;br&gt;또 재판부는 “공사 대금 지급 업무를 잘못 처리했다는 민원이 제기되자 피고인이 담당 공무원들을 불러서 책임지고 해결하라는 취지로 말한 것은 구청장으로서 정당한 권한 행사 범위”라며 “이를 넘어 공무원에게 사비를 들여서라도 해결하라는 취지로 지시한 것으로는 인정하기 부족하다”라고 설명했다.&lt;br&gt;&lt;br&gt;검찰은 유 전 구청장에게 징역 2년을 구형한 바 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“백종원, LP가스통 옆에서 닭 튀겨”…더본코리아 결국 과태료 처분 </title>
+      <link>https://www.chosun.com/national/national_general/2025/02/20/L5F4WRUJRBBURJRXXSU2I3KZJQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/02/20/L5F4WRUJRBBURJRXXSU2I3KZJQ/</guid>
+      <dc:creator>최혜승 기자 </dc:creator>
+      <description/>
+      <pubDate>Thu, 20 Feb 2025 04:15:19 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G42OY6JWIPAMSYEZPFUNX24LQ4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난해 5월 백종원 유튜브 채널에 올라온 요리 영상. /유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;백종원 더본코리아 대표가 실내에서 액화석유가스(LPG) 가스통을 옆에 두고 조리했다가 지자체로부터 과태료를 부과받았다. &lt;br&gt;&lt;br&gt;충북 예산군은 더본코리아에 액화석유가스 안전관리 및 사업법 위반으로 과태료 100만원을 부과했다고 20일 밝혔다.&lt;br&gt;&lt;br&gt;앞서 백 대표는 작년 5월 자신의 유튜브 채널에 신메뉴 개발 과정을 담은 영상을 올렸는데, 이 영상에서 백 대표가 LP가스통 2개를 가까이 두고 화로에서 기름을 끓이고 닭뼈를 튀기는 모습이 포착됐다. 관련 법에 따르면 LP 가스통은 환기가 잘되는 옥외에 설치해야 한다. &lt;br&gt;&lt;br&gt;논란이 일자 더본코리아 측은 영상은 촬영을 위해 임시로 이동식 연소기를 사용한 것이며 촬영 후 모두 철거했다고 설명한 바 있다.&lt;br&gt;&lt;br&gt;예산군은 지난 2일 관련 민원을 접수하고 더본외식산업개발원 현장에 가봤으나 LP가스통은 치워진 상태였다. 다만 영상에 문제의 장면이 남아 있고, 더본코리아 측이 인정하는 점 등을 토대로 더본코리아에 행정 처분을 내렸다.&lt;br&gt;&lt;br&gt;더본코리아 측은 “가스 관련 안전 관리 미흡으로 인한 행정처분과 관련해 이유를 막론하고 사과의 말씀을 드린다”며 “이번 일을 계기로 앞으로 가스 안전을 비롯해 전반적인 위생 관리와 안전에 만전을 기하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>인천 미추홀구 300억원대 전세사기…法, 추가 기소된 건축업자에 ‘징역 15년’</title>
       <link>https://www.chosun.com/national/court_law/2025/02/20/E44GYQ2KBZD4NBCZOB5JMNGPMU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/02/20/E44GYQ2KBZD4NBCZOB5JMNGPMU/</guid>
@@ -844,15 +901,6 @@
       </media:content>
     </item>
     <item>
-      <title>“왜 이런 아이가 우리 학교에”…인권위, 장애 학생 차별한 교장에 인권교육 수강 권고</title>
-      <link>https://www.chosun.com/national/national_general/2025/02/19/CCO7ZC7C65HXJNP2JNEJ65NUXM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/02/19/CCO7ZC7C65HXJNP2JNEJ65NUXM/</guid>
-      <dc:creator>장윤 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 19 Feb 2025 05:32:48 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/P2EUQFBJ2FC2VAIHQAA2KSUZDA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt; 안창호 국가인권위원회 위원장이 10일 서울 중구 국가인권위에서 열린 제2차 전원위원회에서 발언하고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;장애 학생의 부모에게 “왜 이런 아이가 우리 학교에 배정이 됐는지 모르겠다”고 말한 학교장이 장애인 차별 행위를 했다는 국가인권위원회(인권위)의 판단이 나왔다. 인권위는 경기도 한 고등학교의 교장 A씨에게 장애인 차별금지 인권교육 등을 수강하라고 권고했다고 19일 밝혔다.&lt;br&gt;&lt;br&gt;인권위에 따르면 A씨는 학교 수련회를 앞두고 중증 천식을 앓는 학생의 어머니가 수련회 장소 인근에 별도 숙소를 마련하고 자녀의 식사와 잠자리를 챙기겠다고 하자 “난감하고 곤란하다”며 “왜 특수교사와 특수학급이 있는 학교로 가지 않고 우리 학교에 와서 이러냐”고 발언했다. 수련회가 끝난 뒤 A씨는 “어머니는 이기적이시다”라는 발언도 한 것으로 파악됐다.&lt;br&gt;&lt;br&gt;인권위는 A씨에게 장애인 차별금지 및 인식개선을 위한 인권교육을 수강할 것을 권고했다. 인권위는 해당 학생이 장애가 없는 학생들과 마찬가지로 교내외 학교 활동에 배제되지 않고 교육받을 권리를 보장받아야 한다고 밝혔다. 또 A씨에게 장애 학생의 학교생활에 어려움이 없도록 교육에 필요한 지원을 할 책무가 있다고 강조했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>오세훈 “문형배, 특정 정치 성향 숨기지 않고 처신”</title>
       <link>https://www.chosun.com/national/national_general/2025/02/19/6VLSI7MFFRBSPBNQDTSTCAWB44/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/02/19/6VLSI7MFFRBSPBNQDTSTCAWB44/</guid>
@@ -890,24 +938,6 @@
       <media:content url="https://www.chosun.com/resizer/v2/KJBLAIISEZBMDOHWMEBPCE4DXE.jpg?width=1890&amp;height=1063&amp;auth=b41e90801258a5051432675910535b25ab94e1af809ac9af02663568a8468910&amp;smart=true" type="image/jpeg" height="1063" width="1890"/>
     </item>
     <item>
-      <title>‘전국민 25만원’ 반대한 김동연 “민생지원금은 취약계층에게”</title>
-      <link>https://www.chosun.com/national/national_general/2025/02/14/D4ESG4UAXBFD3KS5HB7SHEMZAQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/02/14/D4ESG4UAXBFD3KS5HB7SHEMZAQ/</guid>
-      <dc:creator>김수언 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 14 Feb 2025 08:52:48 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/T27YORYF75P5ZDOVHKIKDBEEQY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김동연 경기도지사가 14일 오전 광주 서구 홀리데이인 광주호텔에서 열린 광주경총 금요조찬포럼에서 '호남 정신과 유쾌한 반란'을 주제로 강연하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김동연 경기도지사는 더불어민주당이 제시한 35조 규모 슈퍼 추경안을 두고, “민생회복지원금만큼은 다른 입장을 가져줬으면 한다”고 14일 말했다. 전 국민에게 1인당 25만원의 민생회복지원금을 지역화폐로 지급해야 한다는 민주당에 사실상 반대하고 나선 것이다.&lt;br&gt;&lt;br&gt;지난 13일부터 1박 2일 일정으로 광주를 방문해 일정을 소화하고 있는 김 지사는, 이날 오전 광주경영자총협회 특강에서 이 같은 입장을 밝혔다.&lt;br&gt;&lt;br&gt;김 지사는 “어제 민주당에서 추경안을 발표했다. 35조 추경 규모를 이야기했고 그중에 민생회복이 24조, 그리고 경제활성화에 11조 투자를 주장했다”며 “여전히 전 국민에게 25만원씩 민생회복지원금을 주자고 되어 있다고 들었다. 13조더라. 민생회복지원금을 주는 것은 찬성이지만, 전 국민에게 똑같이 25만원씩 나눠주는 것에 대해서는 문제가 있다”고 했다.&lt;br&gt;&lt;br&gt;김 지사는 전 국민 민생회복지원금은 ‘한계소비 성향’(소득이 올라가면 돈을 쓰는 비율)과 정책 일관성 등과 관련해 문제가 있다며 취약계층에 대한 ‘두텁고 촘촘한 지원’을 주장했다. 보편지급이 아닌 선별지급이 맞다는 것이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RL35J3GAKBLD5OXDV226QVSYQA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;더불어민주당 진성준 정책위의장이 지난 13일 서울 여의도 국회에서 열린 추경 관련 기자간담회에서 세부 내용을 설명하고 있다. 왼쪽부터 허영 예산결산조정위원장, 진성준 정책위의장, 이정문 수석부의장. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김 지사는 “부자들이 소득이 늘어난다고 세 끼 먹을 밥을 네 끼를 먹겠느냐, 양복을 하루에 한 개씩 사겠느냐”며 “그렇지 않다. 부자들은 소득 늘어난다고, 그 돈을 소비하지는 않는다”고 했다. 김 지사는 “반면, 취약계층이나 중산층은 소비를 할 확률이 높다”며 “소득분위 25% 이하에게 민생회복지원금을 준다면 1인당 100만원씩 돌아갈 수 있다”고 했다.&lt;br&gt;&lt;br&gt;김 지사는 또 “(민주당이)추경을 위해서는 민생회복지원금 25만 원을 양보 내지 철회할 수도 있다고 했는데 결국 끼워넣었다. 민주당 지지율이 국민의힘과 붙었다고 하는 것은, 민주당이 그만큼 신뢰를 주고 있지 못하다는 것”이라며 “일관되게 우리 입장을 갖는 것이 중요하다”고도 했다.&lt;br&gt;&lt;br&gt;한편, 민주당이 전날(13일) 공개한 35조원 규모의 자체 추가경정예산안에는 ‘전 국민 25만원 지원금’을 위해 13조원을 지역화폐로 풀고, 여기에 지방정부가 발행하는 지역화폐에 2조원의 재정을 지원하는 내용이 담겼다. 이재명 대표는 지난달 25만원 지원금을 추경 편성을 위해 철회하겠다고 밝힌 바 있다. 그러나 민주당은 돌연 입장을 선회해 ‘민생회복 소비쿠폰’으로 이름을 바꿔 그대로 포함했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>성수동 삼표레미콘 부지에 77층 랜드마크 들어선다…내년 착공 목표</title>
-      <link>https://www.chosun.com/national/national_general/2025/02/19/DLOZWN7LWRFI5E6ZTGFV4Y3PVY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/02/19/DLOZWN7LWRFI5E6ZTGFV4Y3PVY/</guid>
-      <dc:creator>최연진 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 19 Feb 2025 02:31:46 +0000</pubDate>
-      <content:encoded>서울숲과 한강에 둘러싸여 있는 성동구 성수동 ‘삼표레미콘 부지’ 개발 사업 관련 사전 협상이 완료됐다. 이에 따라 지상 77층 규모의 복합 시설이 들어설 전망이다.&lt;br&gt;&lt;br&gt;서울시는 ‘삼표레미콘 부지 도시계획변경 사전협상’ 절차를 완료하고 민간 측에 협상 완료를 공식 통보했다고 19일 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Q2MTO5DFKRH66GB3QXGB6TE5EY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;삼표레미콘 부지/뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이 곳에선 1977년부터 약 45년 간 레미콘 공장이 운영됐다. 2017년 서울시-성동구-삼표산업-현대제철 간 업무 협약을 통해 기존 시설 철거가 합의됐다. 철거가 완료된 2022년 8월부터 지금까지 성동구가 문화공연장 등으로 임시 활용 중이다.&lt;br&gt;&lt;br&gt;이번 사전 협상 결과, 삼표레미콘 부지에는 연면적 44만7913㎡ 규모 업무 시설, 숙박 시설, 문화·집회 시설, 판매 시설 등을 포함한 지상 77층 규모 복합 시설이 들어서게 됐다.&lt;br&gt;&lt;br&gt;서울시는 2023년 국제현상설계공모로 두바이 부르즈 할리파와 63빌딩 등 국내외 유명 건축물을 설계한 ‘스키드모어, 오잉스 앤드 메일(S.O.M)’사를 설계사로 선정했다.&lt;br&gt;&lt;br&gt;서울숲과 삼표레미콘 부지 간 자연스러운 연결을 위해 입체 보행 공원(덮개공원)과 지하 보행 통로를 신설한다. 주요 연결 지점에는 공개 공지와 공유 공간을 조성할 계획이다.&lt;br&gt;&lt;br&gt;건축물 저층에 조성되는 녹지 공간과 최상층 전망대는 시민에 개방한다. 서울시는 “한강과 서울숲을 조망할 수 있는 명소로 탄생시킬 것”이라고 했다.&lt;br&gt;&lt;br&gt;확보된 6054억원 규모 공공기여는 서울숲 일대 상습 교통 정체 완화를 위한 기반 시설 확충과 ‘유니콘 창업허브’ 등 시설 조성에 투입된다.&lt;br&gt;&lt;br&gt;이 중 약 4424억원 상당(73.1%)은 동부간선도로~강변북로, 성수대교 북단램프 신설 등 인접 지역 기반 시설 확충에 활용된다. 공공 시설 설치 제공 외 공공 기여 부분인 약 1629억원은 설치 비용(현금)으로 받아 서울숲 일대 재정비 등에 활용할 계획이다.&lt;br&gt;&lt;br&gt;서울시는 건축위원회 심의, 인·허가 등을 거쳐 이르면 내년 착공을 목표로 하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>51일 파업·독 점거한 대우조선 하청 노조원들...집행유예·벌금형  </title>
       <link>https://www.chosun.com/national/2025/02/19/VV5ROW3TB5CABDU4OGJHTWBNQM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/2025/02/19/VV5ROW3TB5CABDU4OGJHTWBNQM/</guid>
@@ -915,38 +945,6 @@
       <description/>
       <pubDate>Wed, 19 Feb 2025 02:20:56 +0000</pubDate>
       <content:encoded>‘임금 인상’ 등을 요구하며 지난 2022년 6월2일부터 51일간 파업을 벌이며 선박 건조장인 독(dock·배를 만드는 작업장)을 점거하는 등 회사 업무를 방해한 혐의로 재판에 넘겨진 옛 대우조선해양(현 한화오션) 하청 근로자들이 1심에서 징역형 집행유예와 벌금형을 선고받았다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZRBKGCHJBZNSJFXRYURS4TA7OE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 2022년 7월 13일 경남 거제시 대우조선해양 옥포조선소에서 하청지회 노동자들이 독을 점거한 채 농성을 벌이고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;창원지법 통영지원 형사2단독 김진오 판사는 19일 업무방해 등 혐의로 기소된 김형수 금속노조 거제통영고성 조선하청지회(조선하청지회) 지회장에게 징역 3년에 집행유예 4년 및 벌금 100만원을 선고했다. 또 이른바 ‘옥쇄파업’을 벌인 유최안 전 조선하청지회 부지회장에게는 징역 2년에 집행유예 3년을, 그 외 20명의 노조원들은 징역형의 집행유예와 벌금형을 각각 선고했다. 검찰은 앞서 결심 공판에서 당시 이들이 조선소 1독(dock) 등을 점거하면서 근로자 작업장 출입을 전면 통제하는 등 작업을 방해했다며, 김 지회장에게는 징역 4년 6월을, 유 전 부지회장에게는 징역 3년을 각각 구형했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HVKKBARBZVB5VDQEPUDVEU5FL4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 2022년 7월 22일 대우조선 하청노사 교섭이 타결된 후 경남 거제시 대우조선해양 1독(dock) 선박건조시설에서 50여일 간의 농성을 마친 조합원들이 독 밖 조합원을 향해 손을 흔들고 있다. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김 지회장 등 조선하청지회 소속 22명은 2022년 6월 2일부터 당시 대우조선해양 거제 옥포조선소 내 사업장에서 51일간 파업을 벌이면서 1독 등 주요 시설을 점거하며 사측 업무를 방해한 혐의(업무방해) 등으로 재판에 넘겨졌다. 당시 유 전 부지회장은 1독 내 선박 약 25m 높이 구조물에 올라 가로·세로·높이 1m 크기 0.3평 철제 구조물에 들어가 31일간 농성하는 이른바 ‘옥쇄파업’을 벌였다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DIN66BS44NHPDAJZZ66DRBQZ6Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 2022년 7월14일 오후 경남 거제시 대우조선해양 일대에서 대우조선 임직원과 인근 주민들이 파업 중단을 촉구하는 '인간 띠 잇기' 행사를 하고 있다. 행사는 정문부터, 남문, 서문, 열정교를 이어 옥포매립지 오션 플라자까지 약 3.5㎞ 구간에 달했다. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;51일간 이어진 파업은 7월 22일, 임금 4.5％ 인상에 합의하면서 일단락됐다.&lt;br&gt;&lt;br&gt;재판부는 “피고인들은 집회 과정에서 노동3권이 보장하는 상당한 정도를 넘어 다수 조합원과 공동 업무방해, 감금을 저질렀고, 피해 정도를 감안하면 죄책이 가볍지 않다”면서도 “다만 개인 이익보다 하청 노동자의 열악한 근로조건 개선 및 경제적 질 향상 등 공익적 목적이 있었던 점 등을 종합적으로 고려했다”고 양형 이유를 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>의대 쏠림 심각해도 “카이스트 갈래요”…지원자 1만명 넘었다</title>
-      <link>https://www.chosun.com/national/national_general/2025/02/19/4IRWOJHJCNETPDDHRAMNFB6HKY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/02/19/4IRWOJHJCNETPDDHRAMNFB6HKY/</guid>
-      <dc:creator>김자아 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 19 Feb 2025 02:42:49 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G3CIDUY5N5BBDTZKF7R34U53CU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;카이스트(KAIST·한국과학기술원) 정문 전경. /조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;심각한 의대 쏠림 현상 속에서도 카이스트(KAIST)로 인재들이 몰리면서 올해 처음으로 학사과정 지원자가 1만명을 넘어섰다. &lt;br&gt;&lt;br&gt;19일 카이스트에 따르면 2025학년도 학사 지원자는 1만41명으로 지난해 8250명에 비해 21.7% 늘었다. 3년 전인 2023학년도(6238명)에 비하면 61% 늘어난 수치다. &lt;br&gt;&lt;br&gt;대학원 과정 지원자 수도 2022년 5661명에서 2024년 6783명으로 증가 추세다. 이 중 외국인 대학원 과정 지원자는 1370명으로 2022년 대비 64.5% 증가했다.&lt;br&gt;&lt;br&gt;카이스트는 도전적이고 창의적인 인재 선발을 위해 창의도전 전형 신설과 과학영재선발제도 활성화 등 학사과정 입학전형을 바꿔왔다. &lt;br&gt;&lt;br&gt;카이스트는 이날 학사과정 입학생을 대상으로 대전 본원 대강당에서 2025학년도 입학식을 개최했다. &lt;br&gt;&lt;br&gt;올해는 전체 지원자 중 총 799명이 선발됐다. 카이스트는 대학원 중심 교육으로 1971년 개교한 이후 1986년부터 학부생을 선발했으며, 올해 신입생은 카이스트의 40번째 신입생이다. &lt;br&gt;&lt;br&gt;신입생 대표 연설을 맡은 백서윤씨는 “진정한 과학자는 답이 정해진 문제를 푸는 사람이 아니라 아무도 묻지 않은 질문을 던지는 사람”이라며 “그런 질문을 탐구할 수 있는 곳이 카이스트라고 생각한다”고 말했다. 민족사관고등학교를 졸업한 그는 이미 시각장애인을 위한 의사소통 보조 장치를 개발한 재원이다.&lt;br&gt;&lt;br&gt;이광형 총장은 “진정으로 창의적이고 독창적인 인재를 양성할 수 있는 카이스트에 지원자가 늘고 있어 매우 기쁘다”며 “가슴을 뛰게 하는 것이 있다면 도전해야 한다. 5년 후 10년 후 20년 후에 복학해도 좋다. 카이스트는 학생들의 모든 도전과 실패를 응원하고 포용하는 곳이다”라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[단독] 논현동서 레미콘 트럭으로 행인 사망케 한 50대 男, 구속 영장 기각</title>
-      <link>https://www.chosun.com/national/incident/2025/02/19/AYUBQDJJH5EW5IH52K2R2QQNBE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/02/19/AYUBQDJJH5EW5IH52K2R2QQNBE/</guid>
-      <dc:creator>안준현 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 19 Feb 2025 02:42:07 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KRBOYWLUBPJZ7NMYRYSQJXT5SY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 강남경찰서. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;18일 오후 12시 6분쯤 서울 강남구 논현동의 한 건물 앞에서 레미콘 트럭이 지나가는 행인을 들이받아 이 행인을 사망케 한 50대 남성 A씨의 구속 영장이 기각됐다.&lt;br&gt;&lt;br&gt;서울 강남경찰서는 “사고 당일 A씨에 대한 구속 영장을 서울중앙지법에 발부했으나, 법원이 이를 기각했다”고 19일 밝혔다.&lt;br&gt;&lt;br&gt;이날 논현동의 한 건물 앞에서 운전기사 50대 남성이 몰던 레미콘 트럭이 도로를 걸어가고 있던 들이받는 사고로 50대 여성이 그 자리에서 숨졌다. 레미콘 트럭이 신호등이 없는 횡단보도에서 우회전하다가 지나가는 사람을 미처 못 보고 이 같은 사고가 난 것으로 경찰은 추정하고 있다.&lt;br&gt;&lt;br&gt;경찰은 이후 사고 현장에서 A씨를 긴급체포하고, 이날 저녁 A씨에 대한 구속영장을 신청했다. 그러나 법원은 “A씨의 주거가 일정하고, 사고 피해 회복에 노력하고 있다”며 이를 기각했다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “A씨에 대한 구속 영장이 기각돼 A씨는 현재 풀려난 상태”라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/KRBOYWLUBPJZ7NMYRYSQJXT5SY.jpg?width=4000&amp;height=2252&amp;auth=11b78809f0bae795d0717c32555efde08e727d93576c0910c600daabd56f5099&amp;smart=true" type="image/jpeg" height="2252" width="4000">
-        <media:description type="plain">서울 강남경찰서. /뉴스1</media:description>
-        <media:credit role="author" scheme="urn:ebu">뉴스1</media:credit>
-      </media:content>
-    </item>
-    <item>
-      <title>헌재 “조지호 청장, 출석 의사 내비쳐… 협의 중”</title>
-      <link>https://www.chosun.com/national/court_law/2025/02/19/IPP6PBBHZFEOZE5J7S5YZMYZA4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/02/19/IPP6PBBHZFEOZE5J7S5YZMYZA4/</guid>
-      <dc:creator>방극렬 기자, 김나영 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 19 Feb 2025 02:06:37 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/R67USIB2LZNR5GNYZC33YPWAVE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;조지호 경찰청장이 지난해 12월 9일 서울 여의도 국회에서 열린 법제사법위원회 전체회의에서 발언하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;조지호 경찰청장이 오는 20일 열리는 윤석열 대통령 탄핵심판 10차 변론 기일에 증인으로 출석하기 위해 헌법재판소와 협의 중이다. 조 청장은 12·3 비상계엄 당일 윤 대통령에게 직접 “국회의원들을 체포하라”고 지시를 받았다고 증언한 핵심 증인이다.&lt;br&gt;&lt;br&gt;천재현 헌재 공보관은 19일 기자단 브리핑에서 “조 청장의 출석 여부, 신문 방법 등을 변호인과 협의 중”이라고 밝혔다. 천 공보관은 “조 청장 측에서 출석 의사를 내비쳤다. 자진 출석 가능성도 있다”고 했다.&lt;br&gt;&lt;br&gt;조 청장은 앞서 증인으로 채택돼 두 차례 소환 통보를 받았지만 불출석 사유서를 제출하고 나오지 않았다. 조 청장은 혈액암 등 건강 문제를 이유로 들었다고 한다. 이에 헌재가 조 청장에 대해 구인 영장을 발부해 검찰에 구인을 요청했고, 조 청장 측이 출석 의사를 밝힌 것이다.&lt;br&gt;&lt;br&gt;조 청장은 작년 12월 3일 비상계엄 선포 직후인 오후 11시 30분쯤부터 다음 날 오전 1시 3분쯤까지 윤 대통령으로부터 총 6차례 전화를 받았다. 그는 검찰에서 “(윤 대통령의) 전화를 받았더니 대통령이 저에게 ‘조 청장! 국회에 들어가는 국회의원들 다 잡아. 체포해. 불법이야’라고 했다. 뒤의 5회 통화 역시 같은 내용이었다. 대통령이 굉장히 다급하다고 느꼈다”고 진술한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;조 청장은 또 여인형 전 방첩사령관이 계엄 당시 첫 번째 통화에서 이재명 더불어민주당 대표, 우원식 국회의장, 김동현 판사를 포함해 15명을 불러줬고, 두 번째 통화에서 “한동훈(전 국민의힘 대표) 추가입니다”라고 말했다고 진술했다고 한다. 헌재는 조 청장을 상대로 윤 대통령이 정치인·법조인 체포를 지시했는지 확인할 계획이다.&lt;br&gt;&lt;br&gt;헌재는 이날 오후 열리는 한덕수 국무총리 탄핵심판에서 한동훈 전 국민의힘 대표를 증인으로 채택할지 여부도 논의 중이다. 국회 측은 계엄 이후인 작년 12월 8일 한 전 대표가 한 총리와 ‘공동 대국민 담화문’을 발표한 배경 등을 확인하겠다며 증인 신청을 했다고 한다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BH2FQX5CVNISFJG4IKA3NSDMNQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;문형배 헌법재판소장 권한대행을 비롯한 헌법재판관들이 18일 서울 종로구 헌법재판소에서 열린 윤석열 대통령 탄핵심판 9차 변론에 입장하고 있다. /사진공동취재단
-&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한편 헌재는 문형배 헌재소장 권한대행과 헌법연구관 등을 겨냥한 비난과 공격이 이어지는 것에 대해 “경찰에 수사 의뢰를 할지 논의 중”이라고 밝혔다. 천 공보관은 “헌법연구관에 대한 가짜 뉴스나 영상, 악성 댓글에 대해 자료를 수집하고 있다”며 “수사 의뢰도 논의 중”이라고 했다.&lt;br&gt;&lt;br&gt;최근 일부 윤 대통령 지지자들은 문 권한대행의 자택으로 추정되는 곳에 찾아가 시위를 벌이고, 특정 헌법연구관이 화교(華僑)라고 주장하며 비난하고 있다. 이들은 연구관의 이름이 특이하다는 등의 이유로 “중국인들은 대통령 탄핵심판에서 사퇴하라” 등의 글을 헌재 홈페이지에 올리고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>4월부터 서초구 반포 학원가 일대 ‘킥보드 금지’</title>
