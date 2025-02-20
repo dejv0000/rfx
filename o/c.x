@@ -13,6 +13,77 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>조지호 “尹, 계엄 다음 날 전화로 ‘수고했다’ …‘뼈 있는 말’로 생각 안해”</title>
+      <link>https://www.chosun.com/national/court_law/2025/02/20/FU4W4SU3NZEYTPECNT5GH34POU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/02/20/FU4W4SU3NZEYTPECNT5GH34POU/</guid>
+      <dc:creator>이슬비 기자, 김나영 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 20 Feb 2025 11:31:20 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/V7DKIKA5TNOIDEIFNF6TICBBYY.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;조지호 경찰청장이 20일 서울 종로구 헌법재판소 대심판정에서 열린 윤석열 대통령 탄핵심판 10차 변론에서 증인으로 출석해 발언하고 있다.(헌법재판소)/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;조지호 경찰청장은 20일 12·3 비상계엄 사태 다음 날인 지난해 12월 4일 윤석열 대통령에게 전화로 “수고했다”는 말을 들었다고 밝혔다.&lt;br&gt;&lt;br&gt;조 청장은 이날 윤 대통령 탄핵심판 10차 변론기일에 증인으로 출석해 “대통령이 전화로 ‘수고했다’고 말씀하신 것은 분명하다”고 했다. &lt;br&gt;&lt;br&gt;조 청장은 이날 “국회의 계엄 해제 요구안 의결 뒤인 12월 4일 오전 약 5시쯤 대통령에게 전화를 받은 사실이 있는가”라는 윤 대통령 측 질문에 “그 시간에 전화를 받은 사실은 있다”고 답했다. &lt;br&gt;&lt;br&gt;그러나 조 청장은 “‘덕분에 빨리 끝났다’는 윤 대통령의 말을 듣고 ‘뼈가 있는 말이라고 생각했다’”는 자신의 검찰 조서 내용을 부인했다. 조 청장은 “뼈가 있다는 말은 한 적이 없다”며 “제가 잘 쓰는 표현은 아니고 제가 인간적으로 미안해서 면직 절차를 밟아줬으면 좋겠다고 했다”고 밝혔다. &lt;br&gt;&lt;br&gt;조 청장은 “비상 계엄 당시에 내란이라는 생각을 조금이라도 했냐”는 윤 대통령 측 질문에 웃으면서 “내란이라고 생각하면 그렇게 안 했겠죠”라고 답했다. &lt;br&gt;&lt;br&gt;조 청장은 “이상민 행정안전부 장관이 단전·단수, 소방청과의 협조를 얘기했느냐”는 국회 측 질문에는 “전혀 없다”고 답했다. &lt;br&gt;&lt;br&gt;조 청장은 “변호인 입회하에 검찰 조사를 받았느냐”는 국회 측 질문에 “네”라고 했고, “사실대로 답했느냐”는 질문에는 “조서별로 제가 그렇게 다 서명 날인을 했다”고 밝혔다. 조 청장은 검찰에서 “(계엄 당시) 윤 대통령이 ‘조 청장! 국회에 들어가는 국회의원들 다 잡아. 체포해. 불법이야’라고 했다”고 진술했다. 국회 측은 지난 18일 열린 9차 변론에서 이같은 조 청장의 검찰 조서를 공개한 바 있다. 다만 조 청장은 이날 조서 내용에 대해 구체적으로 증언하지 않았다. &lt;br&gt;&lt;br&gt;조 청장은 “공소사실 관련은 증언 못 한다”며 일부 답변을 거부했다. 그는 “관련 건으로 기소돼서 서울중앙지법에서 형사재판 피고인 신분”이라며 “증언을 못하더라도 양해해달라”라고 했다. &lt;br&gt;&lt;br&gt;조 청장은 “12·3 비상계엄 선포 당시 국회 봉쇄 사실을 인정하느냐”는 국회 측 질문에 “경찰과 검찰 수사 단계에서 여러 차례 이야기한 내용”이라며 “공소사실에 포함된 내용이라 여기서 말하기 어렵다”고 답했다.&lt;br&gt;&lt;br&gt;이에 국회 측은 “있는 그대로 사실을 얘기한다면 형사 재판에서 유불리를 떠나 판단을 받으면 되고, 사실에 대해선 답할 수 있지 않나”라고 했다. 그러나 조 청장은 “형사 재판에서 사실대로 다 얘기하겠다. 책임을 회피할 생각은 전혀 없다. 사실은 사실대로 밝히고, 책임질 부분은 책임질 것”이라고 말했다.&lt;br&gt;&lt;br&gt;조 청장은 “수사기관에서 증인, 서울경찰청장, 기타 사령관들을 모두 내란 중요임무 종사자로 몰아세우니까 일부 사실과 다르게 진술한 게 있는 것 아니냐”는 윤 대통령 측 질문에 “공소장에 나온 내용이 일부 있는데 그건 여기서 답변하기에 적절하지 않은 것 같다”고 했다. &lt;br&gt;&lt;br&gt;윤 대통령 측은 이날 조 청장에게 “검경 조사 당시 섬망 증세는 없었나”라고 묻기도 했다. 조 청장은 “구속영장이 발부되고 나서 갑자기 페렴 증상이 와서 건강이 급속도로 나빠졌다. 섬망 증상이 있는 정도는 아니었다”고 답했다. &lt;br&gt;&lt;br&gt;윤 대통령 탄핵 심판의 마지막 증인인 조 청장은 그간 건강 등의 이유로 두 차례 불출석했지만, 헌재가 구인장을 발부하자 출석했다. 혈액암을 진단받은 조 청장은 이날 증인 신문 내내 마스크를 쓰고 있었다. 윤 대통령은 증인신문이 끝난 뒤 조 청장을 향해 “건강 빨리 회복하시기를 바란다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/V7DKIKA5TNOIDEIFNF6TICBBYY.JPG?width=968&amp;height=671&amp;auth=e8dfc24d04990e9ba822f6066d2b702f08800b387a41f78551beef98391552fb&amp;smart=true" type="image/jpeg" height="671" width="968">
+        <media:description type="plain">조지호 경찰청장이 20일 서울 종로구 헌법재판소 대심판정에서 열린 윤석열 대통령 탄핵심판 10차 변론에서 증인으로 출석해 발언하고 있다.(헌법재판소)/뉴스1</media:description>
+        <media:credit role="author" scheme="urn:ebu">(서울=뉴스1)</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>서해안고속도로 행담도 휴게소 인근서 남성 2명 투신... 경찰 “수색 중”</title>
+      <link>https://www.chosun.com/national/incident/2025/02/20/3NEMEGYYNFETTDOKEIF5DRLVZU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/02/20/3NEMEGYYNFETTDOKEIF5DRLVZU/</guid>
+      <dc:creator>정성원 기자</dc:creator>
+      <description>20일 오후 8시 48분쯤 충남 당진시 신평면 서해안고속도로(목포 방향) 행담도 휴게소 인근서 남성 2명이 바다에 투신해 경찰이 수색에 나섰다.</description>
+      <pubDate>Thu, 20 Feb 2025 13:50:47 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/L4GEXC5HOZAC5NA5TDDI7RQ23U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;20일 오후 8시 48분쯤 충남 당진시 신평면 서해안고속도로(목포 방향) 행담도 휴게소 인근서 남성 2명이 바다에 투신해 경찰이 수색에 나섰다.&lt;br&gt;&lt;br&gt;행담도 방범카메라(CCTV) 관제소는 이들이 뛰어내리는 모습을 확인하고 경찰에 신고했다. 당시 이들은 K3 승용차에서 내린 뒤 바다에 뛰어든 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰은 해경, 충남소방본부 등과 함께 선박 등을 동원해 수색작업을 진행 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>헌재 “25일 尹대통령 최종 변론”... 3월 중순 선고 가능성</title>
+      <link>https://www.chosun.com/national/court_law/2025/02/20/LIPWWVXGHZHDFPWF5GHOVIPAEA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/02/20/LIPWWVXGHZHDFPWF5GHOVIPAEA/</guid>
+      <dc:creator>이슬비 기자, 방극렬 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 20 Feb 2025 11:50:08 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RQEMCP2NTBBFHAWTLBQIZOPY54.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;20일 오후 서울 종로구 헌법재판소 대심판정에서 윤석열대통령의 탄핵심판 10차 변론이 열린 가운데 자리에 앉은 윤대통령이 변호인과 대화하고 있다./ 사진공동취재단 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;헌법재판소가 윤석열 대통령 탄핵심판 최종 변론기일을 오는 25일로 지정했다. &lt;br&gt;&lt;br&gt;문형배 헌재소장 권한대행은 20일 10차 변론기일을 끝내면서 “다음 기일은 2월 25일 오후 2시에 열겠다”며 “그날은 증거채택은 됐으나 조사하지 않은 증거에 대한 조사를 포함해 양측 대리인 종합변론, 당사자의 최종 의견 진술을 듣는 절차를 진행하겠다”고 공지했다. &lt;br&gt;&lt;br&gt;종합변론 시간은 국회 측과 윤 대통령 측이 각각 2시간으로 정했다. 종합변론이 끝나면 대리인단의 최종 변론이 끝나면 소추위원인 정청래 국회 법제사법위원장과 윤석열 대통령이 각각 최종 의견 진술을 한다. 최종의견 진술에는 시간 제한을 두지 않기로 했다.&lt;br&gt;&lt;br&gt;윤 대통령 측 도태우 변호사는 선거시스템 서버 감정 신청과 투표관리사무원 증인 신청을 헌재가 기각한 것에 대해 “주요 쟁점에 관련한 필수 증거조사 신청이 기각됐다”며 재차 검토해달라고 재판부에 요청했다. 문 대행은 “내일 평의 때 논의하겠다”고 했다.&lt;br&gt;&lt;br&gt;25일을 마지막으로 변론이 종결되면 헌재의 선고는 2주 후인 3월 중순쯤 내려질 가능성이 높다. &lt;br&gt;&lt;br&gt;변론이 종결되면 헌재는 재판관 ‘평의’를 통해 최종 결정을 논의한다. 통상 주심 재판관이 사건 검토 내용을 발표하고, 재판관끼리 의견을 교환하는 식이다. 평의를 마무리하는 ‘평결’에서는 주심 재판관이 의견을 내고, 후임 재판관부터 역순으로 의견을 낸 뒤 재판장이 마지막으로 의견을 내는 것이 관례다. 윤 대통령 탄핵 심판의 주심은 정형식 재판관이고, 재판장은 문 권한대행이다.&lt;br&gt;&lt;br&gt;평결을 마치면 연구관들이 자료와 심리 결과를 요약한 뒤 주심 재판관이 다수 의견을 토대로 결정문 초안을 만든다. 주심이 소수의견을 낸 경우 다수의견을 낸 재판관 중 한 명이 결정문 작성을 담당한다. 소수 의견이더라도 별도 제출해 결정문에 반영할 수 있다. &lt;br&gt;&lt;br&gt;통상 평의부터 결정문 작성까지 1~2주 정도가 소요된다. 박근혜·노무현 전 대통령은 각각 최종 변론기일 후 11, 14일 만에 선고가 내려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/VI225D7SVJJWNNZSG4O645RII4.jpg?width=4824&amp;height=3004&amp;auth=3d6adbe18af1f29af29045c5d12c54053ca6148e49bcdd227cccc23d4da6a000&amp;smart=true" type="image/jpeg" height="3004" width="4824">
+        <media:description type="plain">윤석열 대통령이 20일 서울 종로구 헌법재판소에서 열린 탄핵심판 10차 변론에 출석해 있다. 2025.02.20 사진공동취재단</media:description>
+        <media:credit role="author" scheme="urn:ebu"/>
+      </media:content>
+    </item>
+    <item>
+      <title>고창 단독주택서 불… 1명 숨지고 1명 경상</title>
+      <link>https://www.chosun.com/national/incident/2025/02/20/TYUYZBJXZFAR5BYDS6OGA2KC3A/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/02/20/TYUYZBJXZFAR5BYDS6OGA2KC3A/</guid>
+      <dc:creator>정성원 기자</dc:creator>
+      <description>20일 오후 7시 20분쯤 전북 고창군 신림면 한 단독주택에서 불이 나 주택에 있던 40대 여성 A씨가 숨졌다. </description>
+      <pubDate>Thu, 20 Feb 2025 12:51:03 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MHVNB2B2WJHGXODIDACQLHGZVI.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;119 소방 로고/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;20일 오후 7시 20분쯤 전북 고창군 신림면 한 단독주택에서 불이 나 주택에 있던 40대 여성 A씨가 숨졌다. 또 A씨의 남편인 50대 남성 B씨가 다쳐 병원에서 치료 중이다.&lt;br&gt;&lt;br&gt;불은 신고를 받고 출동한 소방당국에 의해 1시간 30여분 만에 진화됐으나 주택 한 채가 전소됐다.&lt;br&gt;&lt;br&gt;경찰 등은 목격자 등을 상대로 정확한 화재 원인과 피해규모를 조사할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>대구에 등장한 9억원짜리 공중화장실… 스페인 건축가 작품 </title>
+      <link>https://www.chosun.com/national/national_general/2025/02/20/5C4IBZW6HFG7JG2YJUDMRMS4VE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/02/20/5C4IBZW6HFG7JG2YJUDMRMS4VE/</guid>
+      <dc:creator>박선민 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 20 Feb 2025 10:52:09 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/J3FZGFZKNNNO7KCTZYPQTEVO2Q.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;대구 수성구 수성못 상화동산 공중화장실이 최근 리모델링 공사를 마치고 개방됐다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대구 수성구 수성못 상화동산의 공중화장실이 리모델링을 거쳐 시민들에게 개방됐다. &lt;br&gt;&lt;br&gt;20일 수성구에 따르면, 상화동산 공중화장실은 최근 리모델링 공사를 마쳤다.&lt;br&gt;&lt;br&gt;이번 리모델링은 스페인 출신 건축가 다니엘 바예가 맡았다. 새 화장실에는 곡선 구조 디자인이 적용됐으며, 천연 목재 등이 활용됐다. 또 실내는 냉·난방 시설을 갖췄으며, 밝은색 타일과 원형 세면대 등의 자재가 이용됐다. &lt;br&gt;&lt;br&gt;리모델링에는 건축 공사비 5억8800만원을 포함해 총 9억원이 투입됐다. 2022년 4월부터 2023년 9월까지 건축 디자인 및 실시설계 용역을 실시했고, 같은 해 12월 특별교부세를 받았다. 작년에 관련 기관 협의 및 건축 허가와 일상 감사·계약 심사를 진행한 뒤 착공했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NG5V733C3S4E6RNQIIFVXMPKFY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;리모델링을 마친 대구 수성구 상화동산 공중화장실. /뉴시스 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/C3XDREUMGYYDIX2PRTHUBWACF4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대구 수성구 수성못 상화동산 공중화장실이 최근 리모델링 공사를 마치고 개방됐다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;일각에서 과도한 예산 집행이라는 지적도 나오지만, 수성구는 새로 리모델링한 화장실을 단순한 화장실이 아닌 관광 요소로 발전시키겠다는 입장이다. 수성구 관계자는 연합뉴스에 “단순히 공중화장실만을 위한 리모델링이 아니다”라며 “향후 관광 자원으로 조성될 계획인 수성못 수상 무대, 스카이브릿지 등과 연계해 활용할 것”이라고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘AI 교과서’ 전국 초중고 3분의 1만 쓴다</title>
+      <link>https://www.chosun.com/national/education/2025/02/20/JXRGEVMT55ACRE2MO2JKL6AITI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/education/2025/02/20/JXRGEVMT55ACRE2MO2JKL6AITI/</guid>
+      <dc:creator>오주비 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 20 Feb 2025 11:32:06 +0000</pubDate>
+      <content:encoded>오는 3월 신학기 전국 학교 10곳 중 3곳만이 인공지능(AI) 디지털 교과서를 사용한다.&lt;br&gt;&lt;br&gt;20일 교육부에 따르면, 지난 17일 기준 전국 초·중·고교 1만1921곳 중 3849곳(32.3%)이 이번 신학기에 사용할 AI 교과서를 선정했다. AI 교과서가 올해 처음 학교 현장에 도입되지만 쓰겠다는 학교가 많지 않은 것이다.&lt;br&gt;&lt;br&gt;교육부는 원래 이번 신학기 모든 초3·4(영어·수학), 중1·고1(영어·수학·정보) 교실에 AI 교과서를 도입하려 했다. ‘AI 교과서’는 현 정부의 핵심 교육 정책으로, AI를 통해 학생 수준을 분석하는 등 ‘개인 맞춤 교육’을 하기 위해 개발한 도구다. 하지만 학부모들 사이에서 디지털 기기 중독 우려 등 논란이 계속되자 올해 1년간은 학교에서 자율적으로 AI 교과서 사용 여부를 정할 수 있도록 했다. &lt;br&gt;&lt;br&gt;교육부 관계자는 “상반기에 AI 교과서를 사용해본 학교들 사이에서 긍정적인 효과가 소문이 나면 2학기엔 선정률이 70~80%까지 오를 것으로 예상한다”고 했다.&lt;br&gt;&lt;br&gt;AI 교과서 선정 현황은 지역별로 편차가 컸다. 대구 지역은 초·중·고교 466곳 중 458곳(98%)에서 AI 교과서를 선정했다. 강원 지역은 초·중·고교 626곳 중 304곳(49%)에서 AI 교과서를 사용한다. 보수 성향인 강은희 대구교육감과 신경호 강원 교육감이 정부 정책을 받아들여 일찍부터 교사 연수와 학교 인프라 준비를 적극적으로 해왔기 때문이라는 분석이 나온다.&lt;br&gt;&lt;br&gt;반면 서울은 선정률이 24%에 그쳤다. 세종, 전남, 경남도 선정률이 각각 8%, 9%, 10%밖에 되지 않았다.&lt;br&gt;&lt;br&gt;이날 교육부는 AI 교과서(76종 중 74종) 이용료가 권당 연간 5만~7만원대로 정해졌다고 밝혔다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>음주운전 적발되자 도주한 현직 경찰...면허 정지 수준</title>
+      <link>https://www.chosun.com/national/national_general/2025/02/20/2GYEZUBQSZA3RNTBL3TIFDH4K4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/02/20/2GYEZUBQSZA3RNTBL3TIFDH4K4/</guid>
+      <dc:creator>김혜민 기자, 강지은 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 20 Feb 2025 10:23:43 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2XOOTEFTJBH4DLR4FZUCMQRA5U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=조선디자인랩 김영재&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;면허 정지 수준으로 술을 마시고 운전하다 단속을 피해 달아난 현직 경찰이 붙잡혔다.&lt;br&gt;&lt;br&gt;수원 서부경찰서는 도로교통법상 음주 운전 등 혐의로 서울 방배경찰서 소속 30대 A 경사를 20일 입건해 조사 중이라고 밝혔다. A 경사는 이날 오전 1시쯤 경기 수원시 권선구에서 음주 운전을 한 혐의를 받는다. 당시 혈중알코올농도는 면허 정지 수준으로 조사됐다.&lt;br&gt;&lt;br&gt;“신호가 바뀌어도 승용차가 출발하지 않는다”는 신고를 받고 출동한 경찰이 하차 요구를 하자 A 경사는 달아났다. 경찰 추격을 피해 도망간 A 경사는 그의 집 근처에서 붙잡혔다고 한다. 경찰은 음주 측정을 마친 후 A 경사를 귀가 조치했다. 아직 피의자 조사는 이뤄지지 않았다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “피의자가 서울에서 수원까지 음주 상태로 운전한 것으로 추정된다”며 “정확한 범행 경위는 조사 중”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>[속보] 尹 대통령 “홍장원 메모, ‘대통령 체포 지시’로 연계해 내란과 탄핵 공작”</title>
       <link>https://www.chosun.com/national/court_law/2025/02/20/SN7I4ZK3JNCBBI46EQWKBGF2XQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/02/20/SN7I4ZK3JNCBBI46EQWKBGF2XQ/</guid>
@@ -848,15 +919,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CAMZCK27LJHRPCFPCQ35KXSAWU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;TV조선 ‘2025 K-브랜드 어워즈’ 시상식. /TV조선&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;TV조선이 주최하는 ‘K브랜드 어워즈’ 시상식이 19일 더플라자호텔에서 열렸다. K콘텐츠, K소비·내구재, K서비스, K뷰티, K푸드 등 11분야에서 총 83곳 콘텐츠와 브랜드를 선정해 시상했다. K콘텐츠 분야에선 ‘범죄도시4′ ‘미스트롯3’ ‘임영웅’ ‘변우석’ 등이 수상했고, 그 외 아홉 분야에서 KB금융그룹, 신한은행, SK텔레콤, LH 등이 상을 받았다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>76년 동안 세계 누비며 구호 활동… 美 ‘다이렉트 릴리프’ 서울평화상</title>
-      <link>https://www.chosun.com/national/people/2025/02/20/VGBVJBW2ZFGVDM262WXLEVCDMU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/02/20/VGBVJBW2ZFGVDM262WXLEVCDMU/</guid>
-      <dc:creator>양지호 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 19 Feb 2025 15:52:00 +0000</pubDate>
-      <content:encoded>미국 소재 국제 의료 구호 단체 ‘다이렉트 릴리프’(Direct Relief)가 제17회 서울평화상 수상자로 선정됐다. &lt;br&gt;&lt;br&gt;서울평화상문화재단(이사장 염재호)은 “오랫동안 묵묵하게 숭고한 인도주의 정신을 실천해 인류 복지 향상과 의료 불평등을 개선하고 인간의 존엄성 확장을 위해 헌신했다”며 18일 선정 이유를 밝혔다. &lt;br&gt;&lt;br&gt;다이렉트 릴리프는 1948년 “모든 사람은 어떤 환경에 처해 있든 양질의 의료 서비스를 받을 권리가 있다”는 신념에 따라 만들어졌다. 의료용품이 필요한 곳에는 인종·종교·정치적 신념 등에 관계없이 신속하게 의료 구호를 제공해 의료 사각지대에 있는 사람들의 생명을 구해왔다. 모성 및 신생아 건강, 마약 중독, 재활 분야는 물론 산불·허리케인·지진·전쟁 등 재난 상황에서의 구호 활동도 펼쳤다. 재단에 따르면 다이렉트 릴리프는 2000년 이후에만 전 세계 136국에 걸쳐 160억달러 이상의 의료 지원과 3억5000만달러 이상의 보조금을 제공했다. 우크라이나 전쟁, 가자지구, 요르단, 레바논, 시리아 등에서도 의료 지원을 해오고 있다.&lt;br&gt;&lt;br&gt;다이렉트 릴리프 CEO 바이런 스콧 박사는 “76년 동안 인도적 의료 지원을 제공하기 위한 저희 조직의 노력이 인정받게 돼 영광스럽다”고 소감을 밝혔다. 서울평화상은 서울올림픽 평화 정신을 기리기 위해 1990년 제정된 국제 평화상이다. 상금은 20만달러다. 시상식은 올해 상반기 서울에서 열린다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[부음] 강병진 별세 외</title>
       <link>https://www.chosun.com/national/obituary-personnel/2025/02/20/BU3RLL4A2VEQJNFEC5YAG2H62A/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2025/02/20/BU3RLL4A2VEQJNFEC5YAG2H62A/</guid>
@@ -875,24 +937,6 @@
       <content:encoded>“‘지나친 욕심은 마음을 흔들고 과녁을 흐린다. 과정에 최선을 다했으니 나 자신을 믿자’라는 마음으로 경기에 임했습니다.”&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6D5G77ZEUVCY5HESUBZQQLWWAE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난해 파리 올림픽 3관왕에 오른 양궁 국가대표 김우진(33)이 19일 서울 국민대 전기 학위 수여식에서 국민대 초청으로 졸업식 축사자로 나섰다. “결과에 집착하기보다 과정에 충실하면 원하는 목표에 이를 수 있을 것”이라고 졸업생들을 격려했다.&lt;br&gt;&lt;br&gt;그는 2010년 아시안게임, 2011년 토리노 세계선수권대회에서 개인전, 단체전에서 모두 우승했다. “당시 승리의 기분에 젖어 모든 경기가 순탄하게 이루어질 것이라는 자만심과 착각에 빠졌다”며 “연습량도 줄면서 런던 올림픽 선발전에서 탈락했다”고 전했다. 이후 슬럼프에 허덕였고 “그저 그런 선수로 변해가고 있었는데 지난날 영광만 생각하며 언제든 다시 정상으로 올라갈 수 있다는 생각으로 현실을 회피했다”고 회상했다. 그러다 2012년 전국체전에서 55위로 떨어지자 “처음부터 다시 시작하지 않으면 안 된다는 걸 깨달았다”고 했다.&lt;br&gt;&lt;br&gt;이후 손가락이 퉁퉁 붓고 갈라지는 고통을 참으며 훈련했고, 2015년 국가대표로 복귀했다. 두 차례 올림픽(2016 리우, 2020 도쿄)에서 남자 단체전 금메달을 목에 걸었지만 만족하지 못했다. 개인전 금메달을 따지 못했기 때문. “(개인전 금메달이 없어) 큰 무대에서는 본 실력을 내지 못하는 선수라고 생각하는 사람들도 있었고, 스스로도 ‘이빨 빠진 호랑이’라고 생각했다”고 말했다. &lt;br&gt;&lt;br&gt;김우진은 지난 파리 올림픽 남자 개인전 결승 마지막 발을 쏜 뒤 “날아가는 화살을 보며 지금까지 훈련하고 몸에 익힌 건 활 쏘는 것만이 아니라 제 자신을 믿는 법을 배웠다는 걸 깨달았다”고 말했다. 이어 “성공 혹은 실패라는 결과는 우리가 컨트롤할 수 없지만, 목표를 향한 과정은 스스로 만들어 나갈 수 있다”고 덧붙였다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[신문은 선생님] [기후와 날씨] 북극 한기 막는 거대한 기류… 지구온난화로 약해져 ‘늑장 한파’ 온대요</title>
-      <link>https://www.chosun.com/national/nie/2025/02/20/BNBMKNJ67RDGFPFXMV357EBRCQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2025/02/20/BNBMKNJ67RDGFPFXMV357EBRCQ/</guid>
-      <dc:creator>반기성 케이웨더 예보센터장</dc:creator>
-      <description/>
-      <pubDate>Wed, 19 Feb 2025 15:50:00 +0000</pubDate>
-      <content:encoded>따뜻한 겨울로 지나가는 줄 알았더니, 봄이 오기 직전 한파가 몰아치고 있습니다. 절기상 봄에 접어든다는 입춘(立春)이 지난 3일이었는데요. 오히려 이날부터 전국이 꽁꽁 얼기 시작했습니다. 서울은 5일 동안이나 최저기온이 영하 10도 이하로 내려갔고, 강원 산악 지대는 최저 영하 25도까지 떨어졌죠. 한강은 지난 9일 올해 처음으로 얼어붙었는데, 이는 1906년 관측 시작 이래 둘째로 늦은 기록이라고 합니다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7JOVLMBBF5FN3EQDHMVA4AC3YU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;북극 제트기류의 흐름을 보여주는 그래픽이에요. 북극(가운데) 주위에 보이는 빨간색·초록색 띠가 제트기류예요. /미 항공우주국(NASA)&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;1년 중 보통 가장 추운 시기는 1월입니다. 그렇다면 2월 한파는 왜 생긴 걸까요? 먼저 한파는 기온이 일정 기준 이하로 급격히 떨어지는 것을 의미해요. 우리나라의 추운 겨울 날씨에 영향을 미치는 요인은 여러 가지가 있지만, 주요 원인 중 하나는 바로 제트기류를 타고 내려온 북극의 한기입니다. 북극의 차가운 공기가 내려와 한반도의 기온을 크게 떨어뜨리는 것이죠. &lt;br&gt;&lt;br&gt;북극 한기는 어떻게 우리나라까지 내려와 영향을 미칠까요? 먼저 북극의 기상을 이해해야 합니다. 겨울철 남극과 북극 등 극지방에는 상공 성층권에 저기압 소용돌이인 ‘극소용돌이’가 강하게 발생합니다. 극소용돌이는 북극의 차가운 공기가 다른 지역으로 새어나가지 못하게 하는 역할을 해요. 마치 일정 범위 내의 물질을 빨아들이는 블랙홀처럼요. 그래서 극지방의 차가운 공기와 중위도 지역의 따뜻한 공기 사이에 경계가 생기게 됩니다. &lt;br&gt;&lt;br&gt;한랭한 공기와 온난한 공기가 만나는 경계 부근에 형성되는 것이 바로 제트기류입니다. 제트기류는 주로 상공 10㎞ 이상 대류권과 성층권의 경계 부근에서 발생해 초속 30m 이상으로 빠르게 흐르는 바람이에요. 주로 서쪽에서 동쪽으로 불죠. 보통 길이는 수천㎞에 이르고, 폭만 해도 수백㎞입니다. 가장 강해지는 겨울철에는 전 지구를 휘감고 돌며 기압계(저기압·고기압)를 이동시켜 세계 각국의 기온에 큰 영향을 미치지요. 공기를 운반하는 거대한 ‘컨베이어 벨트’라고 생각하면 쉽습니다. 우리가 비행기를 타고 해외여행을 갈 때와 올 때 비행시간이 달라지는 것도 이 제트기류의 영향을 받기 때문이랍니다.&lt;br&gt;&lt;br&gt;거대한 공기 흐름인 제트기류는 북극의 극소용돌이가 남쪽으로 내려오지 못하도록 하는 장벽 역할을 합니다. 북극 제트기류는 북극과 중위도 지역의 온도 차이가 클수록 강해져 북극의 한기를 잘 잡아두지요. 그러나 최근 지구온난화로 북극 기온이 상승하면서 극소용돌이가 붕괴되는 현상이 늘어나고, 북극과 중위도의 기온 차이가 적어졌지요. 북극의 1월 기온이 따뜻해지고 있는 거예요. 이에 따라 약해지고 느려진 제트기류는 북쪽과 남쪽으로 뱀처럼 구불구불하게&lt;i&gt; &lt;/i&gt;흐르게 됩니다. 이번 늑장 한파도 극소용돌이 붕괴와 북극 제트기류의 약화로 인해 찬 공기가 내려오면서 발생한 겁니다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문은 선생님] [재밌다, 이 책!] “바빠서 외로울 틈 없어” 자기 최면… 저마다 ‘가면’ 쓰고 외로움 외면하죠</title>
-      <link>https://www.chosun.com/national/nie/2025/02/20/UBAQQBG6ZFHTXGJTNYBDZDSJ3Y/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2025/02/20/UBAQQBG6ZFHTXGJTNYBDZDSJ3Y/</guid>
-      <dc:creator>이진혁 출판편집자</dc:creator>
-      <description/>
-      <pubDate>Wed, 19 Feb 2025 15:50:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZROQKS2FJRGC7KD4HM5H3WCOCA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;외롭지 않다고 말하는 당신에게&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;에바 블로다레크 지음｜이덕임 옮김｜출판사 문학동네｜가격 1만3800원&lt;/b&gt;&lt;br&gt;&lt;br&gt;순자, 옥순, 영식, 상철⋯. 과거 유행했던 이름들이 최근 어느 연애 예능 프로그램을 통해 다시 조명되고 있다고 합니다. 이 프로그램은 인기만큼 출연진에 대한 논란도 많은데요. 온라인 영상에 달린 댓글 하나가 오랫동안 마음에 남았습니다. “저러니까 외롭게 솔로로 살지.”&lt;br&gt;&lt;br&gt;책 ‘외롭지 않다고 말하는 당신에게’는 ‘뭔가 문제가 있기 때문에 외롭다’라는 사회적·심리적 편견이 잘못이라고 가장 먼저 말합니다. 사람이 외로운 이유는 ‘사회성이 떨어지거나’ ‘뭔가에 중독되어 있거나’ ‘매력이 없기’ 때문만은 아니지요. 그런데도 현대인들은 외롭다는 것을 결함으로 치부한다는 거예요. 외롭다는 사실을 감추려 애쓰다가 더 큰 마음의 병을 얻는 경우도 많고요. &lt;br&gt;&lt;br&gt;이 책은 외로움을 느끼는 사람들을 위해 쓰인 따뜻한 책이지만 격려의 문장으로 채워져 있지는 않습니다. 외로움이 무엇인지 냉철하게 고찰하고, 그 원인을 분석해 이윽고 외로움과 작별하는 방법을 탐구하지요. 저자는 ‘행복’을 주제로 박사 학위를 받았다고 해요. 이 책의 목표 역시 외로움의 반대편 행복에 닿는 것이지요. &lt;br&gt;&lt;br&gt;저자는 먼저 외로움의 ’뿌리’를 찾아보길 권합니다. 외로움의 근원은 사람마다 다릅니다. 항상 타인을 우선하다 나 자신을 잃어버리고 외로움에 빠진 사람도 있고, 모욕적인 말을 들으며 심연에 빠지게 된 사람도 있지요. 저자는 유년 시절을 보낸 장소에 가보는 등 과거의 나를 돌이켜보며 외로움의 출처를 알아보라고 합니다.&lt;br&gt;&lt;br&gt;저자는 사람들이 외로움을 들키지 않으려 각자 ‘가면’을 쓴다고 말해요. 소셜미디어 친구 숫자에서 위안을 얻는 ‘소셜미디어 가면’, 이타적 행동을 통해 외로움을 해소하려고 하는 ‘조력자 가면’, “바쁜데 외로울 틈이 어디 있어?”라고 자기 최면을 거는 ‘일 중독자 가면’ 등 다양하죠. 중요한 것은 가면을 벗는 것입니다. 가령 조력자 가면을 쓰고 있는 사람이라면 ‘예’와 ‘아니오’를 말해야 할 때를 구분하고, 소셜미디어 가면이라면 온라인이 아닌 오프라인 모임에 참여해 보는 식이죠. 사람들은 대개 하나쯤 가면을 쓰고 있기 때문에 나에게 해당되는 설명을 읽다 보면 무릎을 치게 되는 순간이 찾아와요. 어떤 독서는 처방전이 되기도 합니다.&lt;br&gt;&lt;br&gt;책의 메시지는 간단합니다. “외로움에서 도망치는 것은 곧 나에게서 도망치는 것”이므로 우선 외로움을 느끼는 자신을 있는 그대로 받아들여야 한다는 거예요. 사람들은 대체로 어떤 문제에 처했을 때 그 원인을 외부에서 찾기 마련인데, 그에 앞서 자신의 상태를 객관적으로 살펴보라는 거죠. 또한 “자신을 너무 중요하게 여기지 말라”고도 당부합니다. 많은 경우 외로움은 자신의 감정이나 상황에 지나치게 몰입해서 생긴다면서요. 무언가를 아끼고 사랑해도 항상 적당한 거리가 필요하다는 것은 어쩌면 많은 곳에 필요한 진리일지도 모르겠습니다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[오늘의 날씨] 2025년 2월 20일</title>
       <link>https://www.chosun.com/national/national_general/2025/02/20/MWUOMCRBHFAEFARYV7B7RHQ5CQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/02/20/MWUOMCRBHFAEFARYV7B7RHQ5CQ/</guid>
@@ -902,15 +946,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XYRUTZZMG5DYJACRHHQM3U2TSU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[신문은 선생님] [뉴스 속의 한국사] 군사 요충지였던 부산 절영도 두고 일본·러시아 대립했죠</title>
-      <link>https://www.chosun.com/national/nie/2025/02/20/BUGAAEXCWZBOFICUO2NAPVIRV4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2025/02/20/BUGAAEXCWZBOFICUO2NAPVIRV4/</guid>
-      <dc:creator>김성진 서울 고척고 교사, 기획·구성=윤상진 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 19 Feb 2025 15:50:00 +0000</pubDate>
-      <content:encoded>최근 영국 파이낸셜타임스(FT)에서 ‘멸종 위기: 한국 제2의 도시, 인구 재앙을 우려하다’라는 제목으로 부산의 역사를 상세히 소개해 화제가 됐어요. 한국전쟁 이후 산업 중심지로 부상하며 국가 경제를 지탱해 온 부산이 최근 출산율이 크게 떨어지며 위기를 맞고 있다는 게 기사를 쓴 계기였답니다. &lt;br&gt;&lt;br&gt;우리나라 ‘제2 도시’ 부산은 과거엔 어떤 모습이었을까요? 부산이 어떤 과정을 거쳐 발전해 왔는지 역사를 살펴보겠습니다.&lt;br&gt;&lt;br&gt;&lt;b&gt;대일 교역의 중심지가 되다&lt;/b&gt;&lt;br&gt;&lt;br&gt;부산은 삼국 시대엔 ‘동래’라고 불렸어요. 15세기 초부터 부산포(富山浦)라는 명칭이 사용됐고, 15세기 말에 이르러 지금 같은 한자 ‘釜山(부산)’을 쓰기 시작했다고 합니다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5KIPSG5DOVFCDF6HXWXCIT6CTA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;조선 화가 변박이 1783년 초량 왜관을 그린 '왜관도'. 왜관은 일본인 마을로, 조선 시대에 일본과 교역하고 외교가 이뤄진 공간이에요. /국립중앙박물관&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;조선 시대 부산은 일본과 교역하며 차츰 성장합니다. 부산은 지리적으로 일본, 특히 대마도와 아주 가까이 있어 일찍부터 왜관(倭館)이 설치됐습니다. 왜관은 조선에 있는 일본인들의 거주 지역으로, 조선과 일본의 외교가 이뤄진 공간이기도 했지요. &lt;br&gt;&lt;br&gt;왜관은 조선 태종(1400~1418) 때 부산포(현 부산 동구 좌천동 일대로 추정)에 설치됐다고 전해져요. 조선 전기엔 부산 외에도 내이포(진해), 염포(울산)에도 왜관이 설치되는데 이를 합쳐 ‘3포’라고 부르기도 합니다. &lt;br&gt;&lt;br&gt;1607년엔 왜관 위치를 두모포(현 부산 동구 구청로 일대)로 옮기고 일본인 마을을 본격적으로 조성합니다. 임진왜란 이후 조선과 일본의 외교 관계가 안정화되자 교역량이 늘며 왜관으로 오는 일본인 사절과 상인도 크게 증가했어요. 이에 조선은 왜관을 초량(현 부산 중구 광복동 일대)으로 옮겼는데, 초량 왜관은 두모포 왜관보다 10배 정도 컸다고 해요. 비슷한 시기 일본 나가사키에 마련된 네덜란드 상관인 데지마보다 훨씬 큰 규모였다고 합니다. &lt;br&gt;&lt;br&gt;초량 왜관에서는 조선과 중국, 일본 간 무역이 번성하며 활발한 교역이 이뤄졌습니다. 조선이 청에서 사들인 백사(흰 명주실)는 모두 왜관에서 거래될 정도였다고 해요. 조선은 부산 왜관을 통해 쌀이나 면포 등을 수출하고, 일본으로부터 은이나 공예품 등을 들여왔습니다. &lt;br&gt;&lt;br&gt;조선 후기에는 일본과의 외교 마찰로 일본 사절의 상경이 금지돼 조선 국왕을 직접 볼 수 없었어요. 그래서 외교 교섭은 왜관에서 진행됐다고 합니다. 초량 왜관은 강화도 조약으로 부산이 개항될 때까지 약 200여 년간 존속했는데, 따라서 부산은 대일 교역과 외교 창구로 기능하며 경제가 발전했죠.&lt;br&gt;&lt;br&gt;&lt;b&gt;열강의 각축전이 벌어지다&lt;/b&gt;&lt;br&gt;&lt;br&gt;근대에 접어들며 부산은 열강들의 각축전이 벌어지는 공간이 됐습니다. 1895년 청일전쟁에서 승리한 일본은 조선에 대한 간섭을 늘리며 무역 주도권을 장악했는데요. 이 과정에서 대일 교역의 중심지였던 부산은 국내 최대 무역항으로 성장하게 됐습니다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YYTA5VCGTFHXLPSZCAPE4264GE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;1910년 준공된 부산 중구 중앙동의 옛 부산역. 부산역은 이후 1969년 동구 초량동에 새 역사가 완성돼 현재 위치로 옮겨 왔어요. /부산역사문화대전&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;일본에 이어 부산에 관심을 보인 것은 러시아였어요. 19세기 말 러시아는 한반도로 영향력을 확대하는 과정에서 일본과 가까운 부산을 군사 진출 발판으로 활용하려 합니다. 러시아는 1897년 조선 정부에 부산 절영도(오늘날 영도)를 빌려달라고 요구하는데요. 이곳에 자국 함대에 연료를 보급할 시설을 설치할 목적이었습니다. 조선 내에서 대대적인 반발과 저항이 일어나 이 계획은 이뤄지지 않았지만, 러시아의 남진 정책으로 부산 일대엔 긴장 분위기가 조성되기 시작했어요. &lt;br&gt;&lt;br&gt;긴장 국면은 1904년 러일전쟁으로 폭발했지요. 전쟁이 발발하자 일본은 대한제국에 주둔한 일본군의 본부인 ‘한국주차군사령부’를 부산에 설치하고 부산과 그 주변 지역에 포대를 비롯한 각종 군사 시설을 두었어요. 특히 러시아가 빌려달라고 했던 절영도에도 군대를 주둔시켜 러시아군과의 전투에 대비했죠.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TAF6LFK57RBDRAVABU3KYBZ7VI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;1950년 부산항으로 들어온 유엔군의 군수 물자가 부두에 쌓여있어요. 당시 부산은 여러 원조 물품이 들어오는 창구였죠. /부산역사문화대전&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;일본은 군수 물자 이송을 위한 보급로 건설도 서두릅니다. 이것이 바로 서울과 부산을 잇는 철도인 ‘경부선’입니다. 무역항으로 성장한 부산은 근대에 접어들며 강대국들의 전략 거점 도시로 다시 주목받은 것이지요.&lt;br&gt;&lt;br&gt;&lt;b&gt;광복 후 산업 도시로&lt;/b&gt;&lt;br&gt;&lt;br&gt;일제강점기 부산엔 조선방직, 조선중공업(현 한진중공업) 등 다양한 기업이 들어섰어요. 제2차 세계대전(1939~1945) 시기 부산은 일본의 전쟁 수행을 위한 생산 기지로서 기계, 금속, 조선(造船) 공장들이 세워지고 있었죠. &lt;br&gt;&lt;br&gt;그런데 일제가 패망하자 일본의 영향을 크게 받던 부산 경제는 혼란에 빠졌어요. 일본과의 왕래가 줄어들면서 공장 가동에 필요한 기계 장치나 생산에 필요한 원료·부품들이 제대로 공급되지 않았거든요.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CA5JZKOG3VGMNGK5GKQCZG5SFU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;1970년대 부산의 한 신발 공장 모습. 당시 부산의 신발 공장들은 유명 신발을 위탁 생산해 수출 증대에 기여했습니다. /부산역사문화대전&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이러한 상황에서 발발한 6·25 전쟁은 부산을 다시 한번 바꿔놓습니다. 당시 전쟁 피해를 거의 보지 않은 부산으로 수많은 사람과 자본이 몰려들었거든요. 특히 부산항은 미국의 원조 물자가 유입되는 창구 역할을 했어요. 미국은 우리나라에 설탕과 밀가루, 면화를 원조 물자로 지급했는데요. 1950년대 부산은 이 물자를 기반으로 ‘삼백(三白) 산업’이 발전합니다. 이때 부산에 등장한 대표적인 기업 중 하나가 바로 제일제당공업(현 CJ제일제당)이지요.&lt;br&gt;&lt;br&gt;1960~70년대 부산은 항구 도시라는 좋은 입지와 풍부한 노동력을 바탕으로 섬유∙의류∙가발 등 노동 집약적인 경공업이 크게 발전합니다. 전쟁 이후 부산에서 만들어진 다양한 물건들은 해외 각국으로 수출되며 우리나라 경제 성장에 크게 기여했죠. 특히 부산의 신발 산업은 세계적 명성을 얻었어요. 부산엔 세계 최대 규모의 신발 산업 단지가 조성되기도 했는데, 이곳에서 ‘나이키’ ‘아디다스’ 같은 유명 브랜드 신발을 위탁 생산했답니다. 부산을 중심으로 성장한 신발 산업은 1980년대까지 수십억 달러 수출액을 올리기도 했지요. 1970년대 중반까지 부산은 우리나라 수출의 20% 정도를 책임졌다고 합니다.&lt;br&gt;&lt;br&gt;하지만 1980년대 이후 중화학공업과 첨단산업 중심으로 우리나라의 경제 구조가 변화하며 부산의 기존 산업들이 침체를 겪고 있어요. 그 결과 젊은 인구 유출도 심화되고 있지요. 부산이 다시 돌파구를 마련해 이전의 활력을 되찾길 바랍니다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[리빙포인트] 겨울철 세차법</title>
       <link>https://www.chosun.com/national/national_general/2025/02/20/RDABUHGX5RHV3CMOEHOVSHL2GI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/02/20/RDABUHGX5RHV3CMOEHOVSHL2GI/</guid>
@@ -918,33 +953,6 @@
       <description/>
       <pubDate>Wed, 19 Feb 2025 15:50:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KPNXYOWBAJEILF2FGIQ4QTS3PY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=양진경&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;겨울철 세차 후엔 문틈을 마른 천으로 꼼꼼히 닦자. 물기가 남아 있으면 고무 패킹이 얼어 문이 열리지 않을 수 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[스피킹이 강해지는 영어] keep one’s head above water</title>
-      <link>https://www.chosun.com/national/nie/english/2025/02/20/ULGGJP6WEFD3DK5W5W2LJ5K3JI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/english/2025/02/20/ULGGJP6WEFD3DK5W5W2LJ5K3JI/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 19 Feb 2025 15:33:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5UMLOVQXQ5BI7DVFUSYQKYIA2M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[두근두근 뇌 운동] [2565] 문장 꽈배기</title>
-      <link>https://www.chosun.com/national/nie/2025/02/20/SJOY4CATZNADDFTWEYGUUH3XCM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2025/02/20/SJOY4CATZNADDFTWEYGUUH3XCM/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 19 Feb 2025 15:33:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XRNQXQOKKZDHPECFBUXNAQQSLU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[매일매일 중국어 한마디] 건강을 회복하다</title>
-      <link>https://www.chosun.com/national/nie/chinese/2025/02/20/W3CYVWB2IJD23IYNNGJDE64FGI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese/2025/02/20/W3CYVWB2IJD23IYNNGJDE64FGI/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 19 Feb 2025 15:33:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HROYSDEUY5DTVHJV7WDUHV7BI4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>포근하더니 돌연 강추위... 원인은 ‘북극 냉풍’</title>
