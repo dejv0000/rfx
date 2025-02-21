@@ -6,6 +6,16 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>울산변회, 아동·장애인·이주민 기관과 법률 지원 업무협약</title>
+			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/205807.jpg" alt="43535346.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;울산지방변호사회(회장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="3994"&gt;곽지환&lt;/span&gt;)는 지난 21일 울산 남구 옥동 울산변호사회관에서 울산 지역 공익활동 기관들과 법률 지원 업무협약식을 열었다.&lt;br /&gt;&lt;br /&gt;이번 협약은 울산변회와 아동·장애인·이주민·난민·가족 분야 기관들이 협력해 인권 취약 계층을 위한 법률 서비스를 지원하고 권리 구제 네트워크를 구축하고자 마련됐다.&lt;br /&gt;&lt;br /&gt;협약에는 울산시아동보호전문기관, 울산남부아동보호전문기관, 울산시발달장애인지원센터, 울산시장애인권익옹호기관, 울산시장애인종합복지관, 울산이주민센터, 울산남구가족센터 등이 참여했다.&lt;br /&gt;&lt;br /&gt;울산변회는 협약에 따라 이들 기관과 연관된 인권 취약 계층이 범죄 피해를 입었을 경우 심사를 거쳐 전담 변호사를 연계하고, 법률 서비스 비용을 지원할 방침이다.&lt;br /&gt;&lt;br /&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="3994"&gt;곽지환&lt;/span&gt;(54·사법연수원 31기) 울산변회 회장은 “인권 취약 계층에 대한 아낌없는 지원을 통해 울산·양산 지역의 법률 전문가 단체로서 역할을 다하겠다”고 말했다.&lt;/p&gt;</description>
+			<pubDate>Fri, 21 Feb 2025 05:12:56 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/205807</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/205807</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/205807.jpg</media:thumbnail>
+			<dc:creator>조한주 기자</dc:creator>
+		</item>
+		<item>
 			<title>국세청, 가상자산 거래소 업비트·코빗 세무조사 착수</title>
 			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/thumb/180/205801.jpg" alt="454.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;국세청이 대형 가상자산 거래소인 업비트와 코빗에 대한 세무조사에 들어갔다.&lt;br /&gt;&lt;br /&gt;서울지방국세청 국제거래조사국은 20일 업비트 운영사 두나무와 코빗을 상대로 세무조사에 착수한 것으로 알려졌다.&lt;br /&gt;&lt;br /&gt;서울청 국제거래조사국은 통상 외국기업·다국적 기업의 세금 문제나 역외탈세 방지 문제 등을 조사하는 부서다. 이번 세무조사는 부정기 특별 세무조사인 것으로 전해졌다.&lt;br /&gt;&lt;br /&gt;이에 이들 가상자산 거래소의 역외 탈세 행위 등 해외 자금 거래 흐름을 들여다보는 것 아니냐는 관측이 나온다. 조사 결과 외국환거래법 위반 혐의가 포착되면 검찰 고발로 이어질 수 있다.&lt;br /&gt;&lt;br /&gt;한편 업비트는 고객확인제도(KYC) 위반 등 자금세탁방지 의무를 이행하지 않았다는 이유로 금융당국으로부터 제재를 통보 받았다. 김병환 금융위원장은 18일 국회 업무보고에서 업비트 제재심이 길어지고 있다는 지적에 "조속히 결론 내겠다"고 말했다.</description>
 			<pubDate>Fri, 21 Feb 2025 04:29:26 -0000</pubDate>
@@ -229,16 +239,6 @@
 			<link>https://www.lawtimes.co.kr/news/205748</link>
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/205748</guid>
 			<dc:creator>인터넷 기자</dc:creator>
-		</item>
-		<item>
-			<title>이재명 대표 '선거법 항소심' 공소장 변경 … "허위사실 특정" vs "논리 비약"</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/205740.jpg" alt="34536.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;이재명 더불어민주당 대표 《사진=연합뉴스》&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;법원이&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="9300"&gt;이재명&amp;nbsp;&lt;/span&gt;더불어민주당 대표의 공직선거법 위반 혐의 사건 항소심에서 검찰의 공소장 변경 신청을 허가했다. 앞서 법원이 이 대표의 허위 발언을 특정해달라고 주문한 데 따른 것이다.&lt;p&gt;&amp;nbsp;   &lt;/p&gt;&lt;p&gt;서울고법 형사6-2부(재판장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="5466"&gt;최은정&lt;/span&gt;,&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="9220"&gt;이예슬&lt;/span&gt;·&lt;span style="font-weight: bold;" class="lawmanlink" serial="6265"&gt;정재오&amp;nbsp;&lt;/span&gt;고법판사)는 19일&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="9300"&gt;이재명&amp;nbsp;&lt;/span&gt;대표의 '공직선거법 위반 혐의' 항소심 4차 공판에서 검찰의 공소장 변경 신청을 받아들였다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;검찰은 기존에 △'시장 재직 시 김문기를 몰랐다', △'김문기와 함께 간 해외출장 기간 중 김문기와 골프를 치지 않았다', △'경기지사가 돼 공직선거법 위반 기소 이후 김문기를 알게 됐다' 등 세 가지 공소사실을 나눠 제시했는데 공소장 변경을 통해 이 대표의 방송 인터뷰 네 건이 이 공소사실 중 각각 어디에 해당하는지 특정했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;검찰은 "공소장 변경을 통해 이 대표의 김문기 관련 각 인터뷰마다 이 대표의 실제 발언과 허위사실을 구체적으로 연결해 기재했다"며 "백현동 사건과 관련해서도 허위사실 발언을 별도 기재했다"고 설명했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;재판부는 지난 12일 열린 3차 공판에서 공소사실에 적시된 이 대표의 발언 가운데 허위인 부분을 특정해달라고 검찰에 요구한 바 있다. 재판부가 요구한 부분은 △2021년 12월 22일 SBS '주영진의 뉴스브리핑' △2021년 12월 24일 CBS라디오 '김현정의 뉴스쇼' △2021년 12월27일 KBS '한밤의 시사토크 더 라이브' △2021년 12월 29일 채널A '이재명의 프로포즈-청년과의 대화' 등의 이 대표 출연분이다.&lt;/p&gt;&lt;p&gt;&amp;nbsp; &lt;br /&gt;이 대표 측은 공소장 변경과 관련해 "이 대표 발언의 의미를 해석할 때 (검찰이) 논리적으로 비약하고 있다"며 "그런 식이라면 어떤 공직 후보자들도 모두 입을 다물어야 할 것"이라고 말했다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;재판부는 26일 오전 마지막 증인신문을 진행한 뒤, 오후에 최종변론 절차를 진행하기로 했다.&lt;/p&gt;</description>
-			<pubDate>Wed, 19 Feb 2025 12:55:22 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/205740</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/205740</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/205740.jpg</media:thumbnail>
-			<dc:creator>안재명 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
