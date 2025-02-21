@@ -6,6 +6,29 @@
 		<link>https://www.lawtimes.co.kr/opinion</link>
 		<language>ko</language>
 		<item>
+			<title>법조광장 : 조각투자 샌드박스 제도화 방안의 숨은 의미 - 조각투자 샌드박스
+제도화 방안 발표돼
+
+비금전신탁 방식은
+내년 6월까지 허용
+
+발행플랫폼 운영하려면
+증권업 인가 필수
+
+사실상 규제 강화
+증권사 시장 장악 어쩌나
+
+스타트업 혁신 막겠다는
+금융당국 메시지인가</title>
+			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/thumb/256/205667.jpg" alt="kim.jpg" /&gt;&lt;/p&gt;&lt;p style="text-align: center;"&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;2025년 2월 3일 금융위원회는 조각투자 샌드박스 제도화 관련 보도참고자료를 배포하여, 조각투자 발행플랫폼을 위한 투자중개업 스몰 라이선스를 신설하여 도입한다고 밝혔다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;그동안 조각투자는 (i) 샌드박스를 통해 혁신금융서비스로서 증권신고서 제출 의무가 면제되었던 비금전신탁 수익증권 방식(카사, 루센트블록, 펀블, 뮤직카우, 에이판다, 갤럭시아머니트리 등)과 (ii) 증권신고서를 제출하여 수리한 후 발행하는 투자계약증권 방식(열매컴퍼니, 투게더아트, 스탁키퍼 등)이 있었는데, 혁신금융서비스로서 규제 특례가 인정되었던 비금전신탁 수익증권을 이용한 조각투자 발행 방식을 2025년 6월 16일까지 제도화 하면서, 샌드박스 심사·지정을 중단한다는 계획이다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;조각투자 제도화 방안의 주요 내용은 다음의 세 가지 정도이다.&lt;/p&gt;&lt;p&gt;   &lt;b&gt;&lt;br /&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;   &lt;b&gt;1. 수익증권 투자중개업 신탁수익증권 인가 신설&lt;/b&gt;&lt;/p&gt;&lt;p&gt;   &lt;b&gt;&amp;nbsp;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;비금전신탁 수익증권 방식의 조각투자 발행플랫폼을 운영하려면 수익증권 투자중개업 인가를 받도록 하였다. 이에 따라 펀드 투자중개업과 같은 10억 원의 자기자본(전문투자자만 대상으로 할 경우에는 5억 원)을 갖추어야 하고, 원칙적으로 기존 증권사와 동일한 규제를 받게 되었으며, NCR 등 건전성 규제, 광고·판매와 관련한 금융소비자보호법(금소법)상 규제가 전면적으로 적용된다고 발표하였다.&lt;/p&gt;&lt;p&gt;   &lt;b&gt;&lt;br /&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;   &lt;b&gt;2. 자산유동화법에 따른 수익증권 발행&lt;/b&gt;&lt;/p&gt;&lt;p&gt;   &lt;b&gt;&amp;nbsp;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;금융회사·공기업·상장사 또는 자산 500억 원 이상의 외감법인에 한하여 자산유동화법에 근거하여 비금전신탁 수익증권 방식으로 조각투자 수익증권을 발행할 수 있도록 하였다. 비금전신탁 수익증권도 증권신고서 심사를 받도록 하면서, 기존에 「신탁 수익증권 기초자산 가이드라인」에 따른 기초자산 요건들을 동일하게 적용한다고 밝혔다.&lt;/p&gt;&lt;p&gt;   &lt;b&gt;&lt;br /&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;   &lt;b&gt;3. 수익증권 유통플랫폼의 수익증권&amp;nbsp;발행 제한&lt;/b&gt;&lt;/p&gt;&lt;p&gt;   &lt;b&gt;&amp;nbsp;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;수익증권 유통플랫폼이 수익증권을 발행하는 것은 이해상충의 소지가 있는 것으로 해석하여, 수익증권을 발행·인수·주선한 경우 해당 수익증권의 유통을 할 수 없도록 제한하면서, 수익증권의 장외 다자간 상대매매를 수행하는 투자중개업 인가단위도 신설할 예정이라고 하였다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;금번 조각투자 샌드박스 제도화 방안은 비금전신탁 수익증권 발행 방식의 조각투자에 대해서 그동안 혁신금융서비스로서 기존의 증권신고서 제출의무 등의 규제에 대한 특례를 인정하였던 것을 중단하고, 신탁수익증권 방식의 조각투자도 일반적인 증권과 동일한 규제를 적용하겠다는 방침을 공식화한 것으로 해석된다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;사실 기존의 샌드박스 제도도 현실에 맞지 않는 과중한 제한 조건을 설정하여 금융 혁신의 촉진이나 규제 완화에 실제로 도움이 되는 측면이 크지 않았지만, 그래도 금융 분야에서의 혁신적인 서비스의 출시를 지원하려는 듯한 모양새라도 갖추려는 노력이 있었던 반면, 이제 금융감독 당국에서는 금융 분야에서 기존의 규제 체계와 맞지 않는 혁신 서비스는 인정하지 않겠다는 입장을 공식화한 듯한 인상이다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;투자 관련 서비스에 적용되던 자본시장법과 관련 규정의 복잡한 규제를 벗어나 효율적인 투자 플랫폼을 운영하려던 조각투자 플랫폼은 이제 증권업 인가를 받아야만 사업을 영위할 수 있는 상황에 처하게 되었는데, IT 분야의 DNA를 가지고 태어난 조각투자 플랫폼 운영업체가 자본시장법에서 요구하는 증권업 관련 요건을 충족하는 것은 쉽지 않을 것이기 때문에, 결국 조각투자를 운영하는 것은 기존 증권사들이 거의 대부분을 담당하게 되는 결과로 이어지지 않을까 우려스러운 면이 있다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;역시 대한민국 금융당국은 기존 금융사들의 재정적 안정과 경영 유지를 새로운 스타트업의 혁신적 시도보다 중요시한다는 점을 다시 한번 보여 주는 예시이며, 금융 분야의 새로운 혁신적 사업을 굳이 대한민국에서 해야 할 이유가 과연 무엇이 있을지 다시 한번 생각해 보는 계기가 되었다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;금번 조각투자 샌드박스 제도화 방안의 긍정적인 측면을 굳이 찾자면, 현재 금융당국에서는 증권사 신규 라이선스를 거의 주지 않고 있어, 금융투자 관련 사업을 하려는 신규 플레이어가 껍데기 밖에 남지 않은 증권사의 라이선스를 터무니 없이 높은 가격을 주고 울며 겨자 먹기로 구입해야 하는 상황인데, 수익증권 투자중개업 인가를 신청하여 신규 증권사 라이선스를 받을 수 있다면, 이후 인가단위 추가를 통해 증권사 라이선스를 비교적 저렴한 비용으로 확보할 수 있지는 않을까 하는 기대감 정도를 들 수 있지 않나 싶다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;div style="margin-bottom:15px; padding:15px; background-color:#eeeeee"&gt;   &lt;b&gt;&lt;/b&gt;   &lt;p&gt;      &lt;b&gt;조각투자(fractional investment)&lt;/b&gt;   &lt;/p&gt;   &lt;p&gt;고가의 자산을 여러 명의 투자자가 지분 형태로 나눠 소유하는 투자 방식이다. 개인 투자자들은 조각투자를 통해 소액으로도 부동산, 미술품, 음원 저작권 등 다양한 자산에 투자할 수 있다. 조각투자는 디지털 플랫폼을 통해 이뤄지며, 투자자들은 자산의 지분을 소유하고 그에 따른 수익을 배분받는다.&lt;br /&gt;&amp;nbsp;&lt;/p&gt;   &lt;p&gt;예를 들어, 10억 원 상당의 부동산을 개인이 단독으로 소유하기는 어렵지만, 100만 원씩 1,000개의 지분으로 나누면 여러 투자자가 함께 소유할 수 있다. 이는 고가 자산에 대한 투자 진입 장벽을 낮추고, 다양한 자산에 분산 투자할 기회를 제공한다.&lt;/p&gt;   &lt;p&gt;      &lt;br /&gt;음악 저작권, 드라마·공연 등 문화 콘텐츠, 미술품, 부동산, 와인, 시계, 위스키 등 다양한 분야에서 조각투자가 이뤄지고 있다.   &lt;/p&gt;&lt;/div&gt;&lt;div style="margin-bottom:15px; padding:15px; background-color:#fffad9"&gt;   &lt;b&gt; ※ 법무법인 린의 의견과 무관한 개인적 의견임을 밝힙니다.&lt;/b&gt;&lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p style="text-align: left;"&gt;   &lt;span style="font-weight: bold;" serial="14277"&gt;김주은&amp;nbsp;&lt;/span&gt;&lt;b&gt;변호사(법무법인 린)&lt;/b&gt;&lt;/p&gt;</description>
+			<pubDate>Fri, 21 Feb 2025 02:34:01 -0000</pubDate>
+			<category>opinion</category>
+			<link>https://www.lawtimes.co.kr/opinion/205667</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/opinion/205667</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/256/205667.jpg</media:thumbnail>
+			<dc:creator>김주은</dc:creator>
+		</item>
+		<item>
 			<title>차병직 편집인 칼럼 : (65) 서울·군산의 바나나껍질 - 세계 플라스틱 쓰레기
 한 해 5210만 톤 방치
 
@@ -94,29 +117,6 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/opinion/205652</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/thumb/256/205652.jpg</media:thumbnail>
 			<dc:creator>최옥환</dc:creator>
-		</item>
-		<item>
-			<title>법조광장 : 조각투자 샌드박스 제도화 방안의 숨은 의미 - 조각투자 샌드박스
-제도화 방안 발표돼
-
-비금전신탁 방식은
-내년 6월까지 허용
-
-발행플랫폼 운영하려면
-증권업 인가 필수
-
-사실상 규제 강화
-증권사 시장 장악 어쩌나
-
-스타트업 혁신 막겠다는
-금융당국 메시지인가</title>
-			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/256/205667.jpg" alt="kim.jpg" /&gt;&lt;/p&gt;&lt;p style="text-align: center;"&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;2025년 2월 3일 금융위원회는 조각투자 샌드박스 제도화 관련 보도참고자료를 배포하여, 조각투자 발행플랫폼을 위한 투자중개업 스몰 라이선스를 신설하여 도입한다고 밝혔다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;그동안 조각투자는 (i) 샌드박스를 통해 혁신금융서비스로서 증권신고서 제출 의무가 면제되었던 비금전신탁 수익증권 방식(카사, 루센트블록, 펀블, 뮤직카우, 에이판다, 갤럭시아머니트리 등)과 (ii) 증권신고서를 제출하여 수리한 후 발행하는 투자계약증권 방식(열매컴퍼니, 투게더아트, 스탁키퍼 등)이 있었는데, 혁신금융서비스로서 규제 특례가 인정되었던 비금전신탁 수익증권을 이용한 조각투자 발행 방식을 2025년 6월 16일까지 제도화 하면서, 샌드박스 심사·지정을 중단한다는 계획이다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;조각투자 제도화 방안의 주요 내용은 다음의 세 가지 정도이다.&lt;/p&gt;&lt;p&gt;&lt;b&gt;&lt;br /&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;1. 수익증권 투자중개업 신탁수익증권 인가 신설&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;&amp;nbsp;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;비금전신탁 수익증권 방식의 조각투자 발행플랫폼을 운영하려면 수익증권 투자중개업 인가를 받도록 하였다. 이에 따라 펀드 투자중개업과 같은 10억 원의 자기자본(전문투자자만 대상으로 할 경우에는 5억 원)을 갖추어야 하고, 원칙적으로 기존 증권사와 동일한 규제를 받게 되었으며, NCR 등 건전성 규제, 광고·판매와 관련한 금융소비자보호법(금소법)상 규제가 전면적으로 적용된다고 발표하였다.&lt;/p&gt;&lt;p&gt;&lt;b&gt;&lt;br /&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;2. 자산유동화법에 따른 수익증권 발행&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;&amp;nbsp;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;금융회사·공기업·상장사 또는 자산 500억 원 이상의 외감법인에 한하여 자산유동화법에 근거하여 비금전신탁 수익증권 방식으로 조각투자 수익증권을 발행할 수 있도록 하였다. 비금전신탁 수익증권도 증권신고서 심사를 받도록 하면서, 기존에 「신탁 수익증권 기초자산 가이드라인」에 따른 기초자산 요건들을 동일하게 적용한다고 밝혔다.&lt;/p&gt;&lt;p&gt;&lt;b&gt;&lt;br /&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;3. 수익증권 유통플랫폼의 수익증권&amp;nbsp;발행 제한&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;&amp;nbsp;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;수익증권 유통플랫폼이 수익증권을 발행하는 것은 이해상충의 소지가 있는 것으로 해석하여, 수익증권을 발행·인수·주선한 경우 해당 수익증권의 유통을 할 수 없도록 제한하면서, 수익증권의 장외 다자간 상대매매를 수행하는 투자중개업 인가단위도 신설할 예정이라고 하였다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;금번 조각투자 샌드박스 제도화 방안은 비금전신탁 수익증권 발행 방식의 조각투자에 대해서 그동안 혁신금융서비스로서 기존의 증권신고서 제출의무 등의 규제에 대한 특례를 인정하였던 것을 중단하고, 신탁수익증권 방식의 조각투자도 일반적인 증권과 동일한 규제를 적용하겠다는 방침을 공식화한 것으로 해석된다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;사실 기존의 샌드박스 제도도 현실에 맞지 않는 과중한 제한 조건을 설정하여 금융 혁신의 촉진이나 규제 완화에 실제로 도움이 되는 측면이 크지 않았지만, 그래도 금융 분야에서의 혁신적인 서비스의 출시를 지원하려는 듯한 모양새라도 갖추려는 노력이 있었던 반면, 이제 금융감독 당국에서는 금융 분야에서 기존의 규제 체계와 맞지 않는 혁신 서비스는 인정하지 않겠다는 입장을 공식화한 듯한 인상이다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;투자 관련 서비스에 적용되던 자본시장법과 관련 규정의 복잡한 규제를 벗어나 효율적인 투자 플랫폼을 운영하려던 조각투자 플랫폼은 이제 증권업 인가를 받아야만 사업을 영위할 수 있는 상황에 처하게 되었는데, IT 분야의 DNA를 가지고 태어난 조각투자 플랫폼 운영업체가 자본시장법에서 요구하는 증권업 관련 요건을 충족하는 것은 쉽지 않을 것이기 때문에, 결국 조각투자를 운영하는 것은 기존 증권사들이 거의 대부분을 담당하게 되는 결과로 이어지지 않을까 우려스러운 면이 있다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;역시 대한민국 금융당국은 기존 금융사들의 재정적 안정과 경영 유지를 새로운 스타트업의 혁신적 시도보다 중요시한다는 점을 다시 한번 보여 주는 예시이며, 금융 분야의 새로운 혁신적 사업을 굳이 대한민국에서 해야 할 이유가 과연 무엇이 있을지 다시 한번 생각해 보는 계기가 되었다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;금번 조각투자 샌드박스 제도화 방안의 긍정적인 측면을 굳이 찾자면, 현재 금융당국에서는 증권사 신규 라이선스를 거의 주지 않고 있어, 금융투자 관련 사업을 하려는 신규 플레이어가 껍데기 밖에 남지 않은 증권사의 라이선스를 터무니 없이 높은 가격을 주고 울며 겨자 먹기로 구입해야 하는 상황인데, 수익증권 투자중개업 인가를 신청하여 신규 증권사 라이선스를 받을 수 있다면, 이후 인가단위 추가를 통해 증권사 라이선스를 비교적 저렴한 비용으로 확보할 수 있지는 않을까 하는 기대감 정도를 들 수 있지 않나 싶다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;div style="margin-bottom:15px; padding:15px; background-color:#eeeeee"&gt;&lt;b&gt;&lt;/b&gt;   &lt;p&gt;&lt;b&gt;조각투자(fractional investment)&lt;/b&gt;&lt;/p&gt;   &lt;p&gt;고가의 자산을 여러 명의 투자자가 지분 형태로 나눠 소유하는 투자 방식이다. 개인 투자자들은 조각투자를 통해 소액으로도 부동산, 미술품, 음원 저작권 등 다양한 자산에 투자할 수 있다. 조각투자는 디지털 플랫폼을 통해 이뤄지며, 투자자들은 자산의 지분을 소유하고 그에 따른 수익을 배분받는다.&lt;br /&gt;&amp;nbsp;&lt;/p&gt;   &lt;p&gt;예를 들어, 10억 원 상당의 부동산을 개인이 단독으로 소유하기는 어렵지만, 100만 원씩 1,000개의 지분으로 나누면 여러 투자자가 함께 소유할 수 있다. 이는 고가 자산에 대한 투자 진입 장벽을 낮추고, 다양한 자산에 분산 투자할 기회를 제공한다.&lt;/p&gt;   &lt;p&gt;&lt;br /&gt;음악 저작권, 드라마·공연 등 문화 콘텐츠, 미술품, 부동산, 와인, 시계, 위스키 등 다양한 분야에서 조각투자가 이뤄지고 있다.   &lt;/p&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p style="text-align: left;"&gt;&lt;span style="font-weight: bold;" serial="14277"&gt;김주은&amp;nbsp;&lt;/span&gt;&lt;b&gt;변호사(법무법인 린)&lt;/b&gt;&lt;/p&gt;</description>
-			<pubDate>Tue, 18 Feb 2025 20:07:30 -0000</pubDate>
-			<category>opinion</category>
-			<link>https://www.lawtimes.co.kr/opinion/205667</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/opinion/205667</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/256/205667.jpg</media:thumbnail>
-			<dc:creator>김주은</dc:creator>
 		</item>
 		<item>
 			<title>도쿄변호사의 일본법이야기 : (14) 일본의 발빠른 우주 법령 정비</title>
