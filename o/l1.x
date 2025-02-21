@@ -6,6 +6,36 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>국세청, 가상자산 거래소 업비트·코빗 세무조사 착수</title>
+			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/thumb/180/205801.jpg" alt="454.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;국세청이 대형 가상자산 거래소인 업비트와 코빗에 대한 세무조사에 들어갔다.&lt;br /&gt;&lt;br /&gt;서울지방국세청 국제거래조사국은 20일 업비트 운영사 두나무와 코빗을 상대로 세무조사에 착수한 것으로 알려졌다.&lt;br /&gt;&lt;br /&gt;서울청 국제거래조사국은 통상 외국기업·다국적 기업의 세금 문제나 역외탈세 방지 문제 등을 조사하는 부서다. 이번 세무조사는 부정기 특별 세무조사인 것으로 전해졌다.&lt;br /&gt;&lt;br /&gt;이에 이들 가상자산 거래소의 역외 탈세 행위 등 해외 자금 거래 흐름을 들여다보는 것 아니냐는 관측이 나온다. 조사 결과 외국환거래법 위반 혐의가 포착되면 검찰 고발로 이어질 수 있다.&lt;br /&gt;&lt;br /&gt;한편 업비트는 고객확인제도(KYC) 위반 등 자금세탁방지 의무를 이행하지 않았다는 이유로 금융당국으로부터 제재를 통보 받았다. 김병환 금융위원장은 18일 국회 업무보고에서 업비트 제재심이 길어지고 있다는 지적에 "조속히 결론 내겠다"고 말했다.</description>
+			<pubDate>Fri, 21 Feb 2025 04:29:26 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/205801</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/205801</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/205801.jpg</media:thumbnail>
+			<dc:creator>임현경 기자</dc:creator>
+		</item>
+		<item>
+			<title>공수처, 국방정보본부장 사무실 압수수색...'계엄 사전 논의' 의혹</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/205802.jpg" alt="23425.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;《사진=연합뉴스》&lt;/figcaption&gt;   &lt;/figure&gt;&lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;12·3 비상계엄 사태를 수사 중인 고위공직자범죄수사처(공수처)가 원천희 국방정보본부장에 대한 강제수사에 착수했다. &lt;br /&gt;&lt;br /&gt;공수처는 21일 서울 용산구에 위치한 원 본부장의 국방정보본부 사무실 등을 압수수색하고 있다고 밝혔다. &lt;br /&gt;&lt;br /&gt;원 본부장은 비상계엄 전날인 지난해 12월 2일 문상호 전 정보사령관, 김용현 전 국방부 장관과 만난 것으로 알려졌다. 이들은 이 자리에서 비상계엄을 사전 논의했다는 의혹을 받는다. &lt;br /&gt;&lt;br /&gt;공수처는 원 본부장이 계엄 선포 뒤 부정선거 관련 수사를 담당할 예정이었던 제2수사단 논의에도 관여했는지 들여다보고 있다. &lt;br /&gt;&lt;br /&gt;지난달 23일 경찰 국가수사본부 특별수사단도 원 본부장을 내란 혐의 피의자 신분으로 조사했다고 밝혔다.</description>
+			<pubDate>Fri, 21 Feb 2025 04:27:36 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/205802</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/205802</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/205802.jpg</media:thumbnail>
+			<dc:creator>임현경 기자</dc:creator>
+		</item>
+		<item>
+			<title>지평 경영컨설팅센터, '책무구조도 도입에 따른 금융회사의 내부통제 혁신' 포럼 성료</title>
+			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/thumb/180/205803.jpg" alt="12313123.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;법무법인 지평 경영컨설팅센터(센터장 이준희)는 20일 서울 중구 남대문로5가 그랜드센트럴 오디토리움에서 '책무구조도 도입에 따른 금융회사의 내부통제 혁신'을 주제로 올해 첫 경영포럼을 개최했다. 2024년 1월 개정된 금융사지배구조법을 통해 금융회사에 책무구조도가 도입됨에 따라 실질적이고 효과적인 운영과 내부통제 고도화를 논의하기 위해서다.&lt;br /&gt;&lt;br /&gt;포럼은&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="7965"&gt;이행규&lt;/span&gt;(53·사법연수원 28기) 지평 대표변호사의 인사말을 시작으로 두 개의 세션과 패널 토론으로 진행됐다.&lt;br /&gt;&lt;br /&gt;첫 번째 세션에서는 오태록 한국금융연구원 연구위원이 '금융회사의 내부통제 정책 동향과 주요 이슈'를 발표했다. 오 연구위원은 "내부통제 제도 개선 방안은 경영진의 책임을 구체화하고 실질적 행동을 유도하는 데 초점을 맞추고 있고, 책무구조도는 이러한 변화의 연장선에 있다"며 "책무구조도가 외형적 형식에 그치지 않기 위해 금융회사와 감독당국이 실무적 차원에서 충분한 논의를 이어 나가야 한다"고 강조했다. 또 "CEO가 조직 전체에 내부통제의 중요성을 인식시키고 현장의 목소리를 반영하여 실질적 자원을 투입해야 효과를 볼 수 있다"고 밝혔다.&lt;br /&gt;&lt;br /&gt;두 번째 세션에서는&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="13067"&gt;김미정&lt;/span&gt;(46·35기) 지평 금융규제그룹 변호사가 '책무구조도 도입 시 고려사항과 내부통제 실효성 제고 방안'을 발표했다. 김 변호사는 "법률전문가가 금융회사에 적용되는 76개 금융관계법령의 준수사항을 분석해 책무와 관리의무를 도출해야 한다"며 "특히 대표이사의 관리의무 이행 및 점검체계에 대한 세밀한 검토가 필요하다"고 설명했다. 또 "위법행위를 방지하기 위해 내부통제체계를 정확히 진단하고 개선과제를 도출하는 것이 선행되어야 하고 외부의 객관적 평가를 통해 내부통제체계를 지속적으로 개선해야 한다"고 강조했다.&lt;br /&gt;&lt;br /&gt;두 번째 세션에서는 황은숙 지평 경영컨설팅센터 상무가 '내부통제 진단 및 고도화 이행의 핵심 방안'을 발표했다. 황 상무는 "내부통제 실패의 근본 원인은 기업이 내부통제를 비용으로 인식하고 투자를 소홀히 하기 때문"이라며 "내부통제 실패 시 발생하는 비용은 예방 비용보다 훨씬 크지만, 사고가 발생하기 전까지는 외부에 드러나지 않기 때문에 이를 간과해서는 안 된다"고 지적했다. 이어 "금융상품 기획 및 설계 단계부터 내부통제 전문가가 참여해 잠재 리스크를 평가하고 예방 조치를 마련해야 하며, 투자 심사 단계에서도 사전 식별과 사후 모니터링 항목을 설계해야 한다"고 설명했다.&lt;br /&gt;&lt;br /&gt;패널 토론에서는 이태경 지평 경영컨설팅센터 상무가 좌장을 맡고 전종수 신한은행 준법감시인 상무, 신승묵 삼성자산운용 준법감시인 상무, 박정우 현대캐피탈 준법감시인 상무, 지현정 한국스탠다드차타드증권 준법감시인 이사가 패널로 참여해 책무구조도 도입 시 고려사항과 실무 적용 방안에 대해 논의했다.&lt;br /&gt;&lt;br /&gt;이준희 지평 경영컨설팅센터장은 "올해는 금융뿐 아니라 비금융 분야에서도 내부통제의 실효성과 경영 리스크 재정의를 점검해야 하는 중요한 시점"이라며 "지평 경영컨설팅센터는 기업이 경영 환경 변화에 효과적으로 대응할 수 있도록 고도화된 경영 프레임워크와 프로세스를 제시해 나갈 것"이라고 말했다.&lt;/p&gt;</description>
+			<pubDate>Fri, 21 Feb 2025 04:20:12 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/205803</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/205803</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/205803.jpg</media:thumbnail>
+			<dc:creator>이진영 기자</dc:creator>
+		</item>
+		<item>
 			<title>태평양, '관세청의 관세조사·외환검사·범칙조사 대응' 세미나 성료</title>
 			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/205799.jpg" alt="23425.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;법무법인 태평양(대표변호사&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="8313"&gt;이준기&lt;/span&gt;)은 20일 서울 종로구 공평동 태평양 본사에서 '관세청의 관세조사, 외환검사, 범칙조사 동향과 대응방안' 세미나를 개최했다. 이번 세미나는 관세청의 조사 권한이 원산지 세탁, 무역경제 범죄, 자금 역외유출 등으로 확대되는 가운데, 기업들의 효과적인 대응 방안을 모색하기 위해 마련됐다.&lt;br /&gt;&lt;br /&gt;세미나에는 약 80개 기업의 법무, 자금, 세무, 구매 담당 임직원 120여 명이 참석했다. 행사는 태평양 조세그룹을 총괄하는&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="14720"&gt;조무연&lt;/span&gt;(50·사법연수원 36기) 변호사의 모두 발언으로 시작됐다. 세션별 발표에는 이찬기 고문, 김종윤 전문위원,&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="11274"&gt;주성준&lt;/span&gt;(49·34기) 변호사가 참여했다.&lt;br /&gt;&lt;br /&gt;첫 번째 세션에서 관세청 차장을 역임한 이찬기 고문은 관세조사와 외환검사의 개념 및 최신 동향을 설명했다. 특히, 정기 외환검사제도 도입으로 외환검사가 더욱 확대되고 있다는 점을 강조하며, ‘2025년 관세청 정책방향’과 중점 검토분야를 함께 소개했다.&lt;br /&gt;&lt;br /&gt;두 번째 세션에서는 김종윤 전문위원이 관세제도와 통관 절차, 외국환거래법의 주요 내용과 함께 최근의 조사 절차 및 트렌드를 분석했다. 그는 기업이 관세조사와 외환검사에 성공적으로 대응하기 위해선 철저한 준비와 임원진의 법규 준수 의지가 필수라고 강조했다.&lt;br /&gt;&lt;br /&gt;세 번째 세션에서는&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="11274"&gt;주성준&lt;/span&gt;&amp;nbsp;변호사가 밀수출입죄, 관세포탈죄, 외국환거래법 위반죄 등 주요 범칙행위와 대응 방법을 실무 사례를 통해 설명했다. 특히, 압수수색 과정에서의 절차적 권리와 디지털 증거 압수수색 시 유의사항을 안내하며, 실무에서 발생할 수 있는 상황에 대한 구체적인 조언을 제공했다.&lt;br /&gt;&lt;br /&gt;태평양 관세통상팀은 국내외 통상환경의 변화와 관세당국의 정책을 분석해 기업에 최적의 법률서비스를 제공하고 있다.&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="11274"&gt;주성준&lt;/span&gt;,&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="21645"&gt;서승원&lt;/span&gt;(43·42기) 변호사와&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="10822"&gt;송진욱&lt;/span&gt;(50·33기) 변호사를 비롯해 이찬기 고문, 김규석·임대승·이종현 전문위원, 장승연 외국변호사(미국 Ohio주), 곽시명 회계사, 이전가격 전문가 제레미 에버렛 미국회계사 등이 소속돼 있다.&lt;br /&gt;&lt;br /&gt;이번 세미나에 대한 기업들의 관심이 높았던 만큼, 태평양은 앞으로도 관세·외환 분야에서 기업의 법률 리스크를 최소화할 수 있는 다양한 자문과 실무 교육을 지속적으로 제공할 계획이다.</description>
 			<pubDate>Fri, 21 Feb 2025 01:08:45 -0000</pubDate>
@@ -209,36 +239,6 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/205740</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/205740.jpg</media:thumbnail>
 			<dc:creator>안재명 기자</dc:creator>
-		</item>
-		<item>
-			<title>사법정책자문위원회, 제8차 회의 개최 … 사법보좌관제도 발전 방안 논의</title>
-			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/205739.jpg" alt="720.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;대법원 사법정책자문위원회(위원장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="3865"&gt;권오곤&lt;/span&gt;)가 19일 오후 제8차 회의를 개최하고 사법보좌관제도 발전 방안을 논의했다.&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;이날 회의에서는 사법보좌관제도의 개선 방향과 발전 방안에 대해 논의가 진행되었으나, 충분한 토론을 위해 추가 논의가 필요하다는 결론을 냈다. 다음 달 12일 오후에 열리는 제9차 회의에서 추가로 논의할 예정이다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;사법정책자문위원회는 법원조직법 제25조에 근거를 두고 있는 자문기구다. 사법정책과 관련된 각종 사법제도의 개선 방안에 관한 사항으로서 대법원장이 부의한 안건을 심의하고 그 결과를 대법원장에게 건의한다. 2009~2010년 제1기, 2013~2014년 제2기가 활동했다. 현 제3기는 지난해 6월 출범했다.&lt;/p&gt;</description>
-			<pubDate>Wed, 19 Feb 2025 10:33:51 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/205739</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/205739</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/205739.jpg</media:thumbnail>
-			<dc:creator>안재명 기자</dc:creator>
-		</item>
-		<item>
-			<title>檢, '무상증자 계획 유출' 장현국 전 위메이드 대표 수사 착수</title>
-			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/thumb/180/205738.jpg" alt="1555.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;장현국 전 위메이드 대표이사가 위메이드의 무상증자 계획을 대학 동기에게 미리 알려 돈을 벌게 했다는 혐의로 검찰 수사를 받게 됐다.&lt;br /&gt;&lt;br /&gt;19일 법조에 따르면, 서울남부지검은 금융위원회가 통보한 장 전 대표의 자본시장법상 미공개중요정보 이용 금지 위반 혐의 사건을 금융조사2부(직무대행&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="13655"&gt;김수홍&amp;nbsp;&lt;/span&gt;부장검사)에 배당하고 수사에 착수했다.&lt;br /&gt;&lt;br /&gt;앞서 금융위는 지난해 12월 증권선물위원회를 열고 장 전 대표와 그의 대학 동기 A 씨를 검찰에 통보할 것을 의결했다.&lt;br /&gt;&lt;br /&gt;장 전 대표는 2021년 8월 27일 위메이드 대표이사로 재직하던 중 골프 모임에서 만난 A 씨에게 위메이드의 무상 증자 계획을 미리 알려준 혐의를 받는다. A 씨는 같은 달 30일 친인척, 지인 소유 계좌 5개를 이용해 위메이드 주식 16만8000주를 매수하고 이튿날 매도해 시세차익을 얻은 것으로 조사됐다.&lt;br /&gt;&lt;br /&gt;위메이드는 30일 장 마감 후 1주당 신주 1주를 배정하는 무상증자 결정했다고 공시했다. A 씨가 사들인 위메이드 주식은 당일 위메이드 거래 비중의 7%를 차지한 것으로 금융당국은 파악했다.&lt;br /&gt;</description>
-			<pubDate>Wed, 19 Feb 2025 10:32:32 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/205738</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/205738</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/205738.jpg</media:thumbnail>
-			<dc:creator>임현경 기자</dc:creator>
-		</item>
-		<item>
-			<title>'한덕수 탄핵 정족수 150석' 결정 정당했나…與 청구 권한쟁의 변론 종결</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/205737.jpg" alt="62.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: left; font-size:14px; line-height: 1.6em"&gt;국민의 힘 김기현·주진우 의원이 19일 서울 헌법재판소에서 열린 한덕수 국무총리 탄핵 관련 국회 권한쟁의 사건 변론기일에 참석하고 있다. 《사진=연합뉴스》&lt;/figcaption&gt;   &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;한덕수 국무총리 탄핵 소추 당시 국회의 의결정족수를 재적의원 150석으로 봐야 하는지, 200석으로 봐야 하는지를 두고 여당과 국회의장 측이 헌법재판소에서 공방을 벌였다.&lt;p&gt;&amp;nbsp; &lt;br /&gt;헌법재판소는 19일 오후 국민의힘과 우원식 국회의장 간의 권한쟁의(&lt;b&gt;2024헌라8&lt;/b&gt;) 첫 변론기일을 열었다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;국민의힘은 지난해 12월 27일 국회 본회의에서 한 총리의 탄핵소추안이 가결되자 "한 총리가 대통령 권한대행 지위를 겸하고 있음에도 우원식 국회의장이 탄핵소추안에 대해 대통령에 준하는 가중 탄핵정족수를 적용하지 않은 것은 중대한 위헌적 해석"이라며 권한쟁의 심판을 청구했다. 헌법 제65조에 따르면 대통령과 국무총리 등에 대한 탄핵 소추 의결 시 의결 정족수는 국회 재적의원 과반수다. 단 대통령 탄핵의 경우 재적의원 3분의 2 이상이 찬성해야 한다고 규정한다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;청구인 측&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="5963"&gt;주진우&amp;nbsp;&lt;/span&gt;국민의힘 의원은 "총리가 대통령 권한대행이 된 순간부터는 국가원수이자, 국군 통수권자이므로 함부로 탄핵돼선 안 된다"며 "당시 한 총리에 대한 탄핵정족수는 200석으로 해석해야 한다"고 주장했다. 그러면서 "이 사건 선고가 논리적으로 마은혁 헌법재판관 후보자 미임명 관련 권한쟁의심판보다 앞서야 한다"고 강조했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;앞서 우 의장은 최상목 대통령 권한대행이 국회가 추천한 헌법재판관을 모두 임명하지 않은 것에 대해 권한쟁의심판을 청구했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;주 의원은 "한 총리에 대한 탄핵이 원천무효가 될 수 있기 때문에 최 권한대행이 임명을 결정하는 것은 부적절하다"며 한 총리 관련 사건을 먼저 선고해야 한다고 주장했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;반면 우 의장 측 대리인인&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="1480"&gt;노희범&amp;nbsp;&lt;/span&gt;변호사는 "헌법이 대통령 탄핵에 대해서만 가중정족수를 규정한 이유는 주권자인 국민이 직접 선출한 헌법기관이고 민주적 정당성이 있기 때문"이라며 "총리는 대통령의 동의를 얻어 임명한 임명직 공무원이므로 민주적 정당성이 대통령과 동일하지 않다"고 반박했다. 이어 "이 사건의 탄핵 대상은 대통령이 아닌 총리"라며 "대통령 직무를 대행하고 있을 뿐 신분 자체가 대통령이 된 것은 아니다"라고 주장했다.&lt;br /&gt;그러면서 "국회 내에서 판단이나 절차가 명백히 헌법과 법률을 위반하지 않은 경우 다른 국가기관이 개입해 당부(옳고 그름을) 판단하는 것은 부적절하다고 생각한다"며 "마찬가지로 권한쟁의를 통해 국회 내부의 당부를 판단하는건 헌재도 마찬가지로 자제해야 한다"고 말했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;재판관들은 우 의장 측에 탄핵소추안 의결 전 의결정족수에 대한 의원들의 의견 수렴 등이 이뤄졌는지에 대해 집중적으로 질의했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;   &lt;span style="font-weight: bold;" class="lawmanlink" serial="1549"&gt;김형두&amp;nbsp;&lt;/span&gt;재판관은 우 의장 측에 "탄핵 소추안 의결정족수를 정할 때 의원들의 의견을 수렴하거나 논의를 한 적 있느냐"고 질문했다. 이에 우 의장 측은 "당시 본 회의에서 그 논의는 없었고, 사전에 당시 총리에 대한 의결정족수에 대한 논란이 있어서 국회입법조사처와 헌법학회 등 여러 군데에 자문을 구했고, 일반정족수가 맞는다는 자문을 받은 것으로 안다"고 답변했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;   &lt;span style="font-weight: bold;" class="lawmanlink" serial="6232"&gt;정형식&amp;nbsp;&lt;/span&gt;재판관은 우 의장 측에 "이 사안 의결정족수에 대한 논란이 있었고 중요한 사안인데, 그 부분을 안건으로 먼저 처리했어야 하는 게 아닌가 생각이 든다"며 "왜 논의해 보는 절차를 거치지 않고 의장이 결정했느냐"고 물었다. 이에 우 의장 측은 "당시 정치적 상황이 혼란스러웠기에 그걸 국회에서 논의할 수 있는 요건이 아니었다고 생각한다"며 "의장이 신중하게 헌법 취지나 명문 규정 최대한 깊이 있게 검토해서 본인의 판단에 따라 내린 결론이고 의장의 권한 범위 내 있는 행위"라고 답했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;   &lt;span style="font-weight: bold;" class="lawmanlink" serial="1549"&gt;김형두&amp;nbsp;&lt;/span&gt;재판관은 국민의힘 측에 "당시 표결 절차에 참여도 안 했는데 침해되는 표결권이 있을 수 있느냐"고 물었고 청구인 측 김기현 의원은 "국회 본회의장에서 의장이 일반정족수를 적용하겠다고 선언하는 순간 국민의힘 소속 의원들은 표결권에서 이 사안을 가결·부결시키거나 하는 표결 가치 자체를 훼손당한 것이고, 표결 행위만이 표결권이 아니라 결과의 가치 또한 표결권에 포함된다 생각한다"고 답했다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="1143"&gt;문형배&amp;nbsp;&lt;/span&gt;헌재소장 권한대행은 이날 변론을 종결하고 추후 기일을 지정해 통지하겠다고 밝혔다.&lt;/p&gt;</description>
-			<pubDate>Wed, 19 Feb 2025 09:39:13 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/205737</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/205737</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/205737.jpg</media:thumbnail>
-			<dc:creator>홍윤지 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
