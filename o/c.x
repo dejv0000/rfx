@@ -13,6 +13,24 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>제천 주택 화장실서 태어난 신생아 숨져… 경찰 수사</title>
+      <link>https://www.chosun.com/national/regional/chungcheong/2025/02/22/DWGUROOW6BH7XLP6Z7U47KF6TI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2025/02/22/DWGUROOW6BH7XLP6Z7U47KF6TI/</guid>
+      <dc:creator>김석모 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 22 Feb 2025 11:18:20 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5GT7HGZDJZC2PGHRM34R3HXIUY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /조선일보 DB.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;충북 제천의 한 주택에서 태어난 신생아가 숨져 경찰이 수사 중이다.&lt;br&gt;&lt;br&gt;22일 경찰에 따르면 이날 오후 2시쯤 제천시 백운면 한 단독주택에서 “갓 태어난 아기가 숨진 것 같다”는 112 신고가 접수됐다. &lt;br&gt;&lt;br&gt;신고를 받고 출동한 119구급대는 심정지 상태로 있던 신생아를 병원으로 옮겼지만, 아기는 결국 숨졌다.&lt;br&gt;&lt;br&gt;숨진 신생아의 친모 A(20대)씨는 지인의 주택 화장실에서 혼자 출산한 것으로 알려졌다. A씨의 지인은 경찰 조사에서 “아기가 태어났을 때부터 울음소리가 들리지 않았다”고 진술했다.&lt;br&gt;&lt;br&gt;경찰은 병원에 입원 중인 A씨가 회복하는 대로 정확한 사건 경위를 조사할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>부산 리조트 화재 당시 스프링클러 밸브 잠김 기록 확인</title>
+      <link>https://www.chosun.com/national/regional/yeongnam/2025/02/22/ANO7PBNXQFDH7HZJL7H2YVWINM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/yeongnam/2025/02/22/ANO7PBNXQFDH7HZJL7H2YVWINM/</guid>
+      <dc:creator>김석모 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 22 Feb 2025 10:55:56 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5W5GBEJHJTAXZUBBSHP26OVZJU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 16일 부산 기장군 반얀트리 리조트 화재 현장에서 경찰 관계자 등이 합동감식을 준비하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산 기장군 반얀트리 리조트 건설 현장 화재 당시 스프링클러가 꺼져 있었을 가능성이 높다는 조사 결과가 나왔다.&lt;br&gt;&lt;br&gt;22일 소방당국과 유가족 등에 따르면 지난 14일 반얀트리 리조트 건설 현장 화재 당시 스프링클러 작동 여부를 확인할 수 있는 수신기를 조사한 결과 물을 공급하는 밸브가 잠겨 있었다는 기록이 남아 있는 것으로 확인됐다.&lt;br&gt;&lt;br&gt;부산소방재난본부 관계자는 “수신기 기록상으로는 밸브가 잠긴 기록이 뜬 것은 맞다”면서 “다만, 그 기록 만으로 스프링클러가 작동하지 않았다고 완전히 단정할 수는 없다”고 했다.&lt;br&gt;&lt;br&gt;앞서 화재 현장 내부를 둘러본 전문가들은 스프링클러가 작동하지 않은 것으로 보인다는 의견을 밝혔다. 스프링클러가 작동하지 않아 대형 인명피해로 이어졌을 가능성이 제기되고 있는 것이다.&lt;br&gt;&lt;br&gt;지난해 준공 승인을 받은 반얀트리 리조트는 스프링클러가 이미 설치돼 있었다. 하지만 화재 당시 스프링클러가 불에 녹으면서 작동 여부에 대해서는 정확히 확인되지 않고 있다.&lt;br&gt;&lt;br&gt;시공사 등 공사현장 관계자가 특별한 이유 없이 물을 공급하는 밸브를 잠갔을 경우에는 소방시설법 위반에 해당한다.&lt;br&gt;&lt;br&gt;경찰은 밸브 잠금 여부와 스프링클러 작동 여부 등에 대해 조사하고 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>대전 은하수네거리에선 ‘탄핵 찬성’ 집회 열려</title>
       <link>https://www.chosun.com/national/regional/chungcheong/2025/02/22/6H5RX5ZVNJCGLGDQU36GH6U72I/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2025/02/22/6H5RX5ZVNJCGLGDQU36GH6U72I/</guid>
@@ -865,27 +883,6 @@
       <description/>
       <pubDate>Fri, 21 Feb 2025 01:45:36 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PDTE5VPS2BNHPGSQ4NETLEABTQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 10일 서울 중구 국가인권위원회에서 마블 캐릭터 '캡틴아메리카' 복장을 한 윤석열 대통령 지지자 안모씨가 시위를 벌이고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;영화 주인공 ‘캡틴 아메리카’ 복장을 한 윤석열 대통령 지지자가 경찰서에 난입하려 한 혐의로 체포됐다.&lt;br&gt;&lt;br&gt;21일 서울 남대문경찰서는 전날 오후 11시쯤 경찰서 1층 출입 게이트 유리를 깨고 내부로 진입하려 한 혐의(재물손괴 및 공용물건 손상 등)로 40대 남성 안모(42)씨를 현행범 체포했다고 밝혔다.&lt;br&gt;&lt;br&gt;안씨는 이날 경찰서로 와서 자신을 빨리 조사해달라고 요구했으나 거부당하자 범행을 저지른 것으로 전해졌다.&lt;br&gt;&lt;br&gt;경찰은 범행 경위를 조사한 후 안씨에 대해 구속영장을 신청할 방침이다.&lt;br&gt;&lt;br&gt;안씨는 지난 14일 캡틴아메리카 복장으로 주한중국대사관에 난입을 시도해 건조물 침입 미수 혐의로 현행범 체포됐다가 풀려난 바 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>공수처, 국방정보본부장 주거지 등 압수수색</title>
-      <link>https://www.chosun.com/national/court_law/2025/02/21/DLP3AFMYRBGNNH2L3Z62OYQINY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/02/21/DLP3AFMYRBGNNH2L3Z62OYQINY/</guid>
-      <dc:creator>이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 21 Feb 2025 00:38:02 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OHSS3RAMWHGUJOQNQGJRVUJP2I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;고위공직자범죄수사처./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘12·3 비상계엄' 사태를 수사 중인 고위공직자범죄수사처(공수처)는 21일 오전 원천희 국방정보본부장(중장)의 주거지와 사무실 등에 대한 압수 수색에 나섰다고 밝혔다.&lt;br&gt;&lt;br&gt;원 본부장은 비상계엄 전날인 작년 12월 2일 문상호 전 정보사령관, 김용현 전 국방부 장관을 만난 사실이 알려진 바 있다. 이 자리에서 비상계엄에 대한 사전 논의가 있었다는 의혹이 제기됐다. &lt;br&gt;&lt;br&gt;공수처와 공조수사본부를 꾸린 경찰 국가수사본부 특별수사단은 지난달 23일 원 본부장을 한 차례 내란 혐의 피의자 신분으로 조사했다고 밝힌 바 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>尹 “홍장원 메모는 탄핵 공작… 방첩사 지원하란 전화를 ‘체포 지시’로 만들어 내”</title>
-      <link>https://www.chosun.com/national/court_law/2025/02/21/LXRCSGQWX5HQ3PXWRQQPKTFNKQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/02/21/LXRCSGQWX5HQ3PXWRQQPKTFNKQ/</guid>
-      <dc:creator>방극렬 기자, 이슬비 기자, 김승재 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 20 Feb 2025 16:00:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JY2WGQ36AVK4LPLLQR2IMSGTJ4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령이 20일 서울 종로구 헌법재판소에서 열린 탄핵심판 10차 변론에 출석해 있다. 2025.02.20 사진공동취재단&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 대통령이 20일 자신의 탄핵 심판에서 홍장원 전 국정원 1차장의 ‘정치인 체포 명단’ 메모에 대해 “내란과 탄핵의 공작”이라고 말했다. 홍 전 차장은 이날 메모와 관련된 헌재 증언, 검찰 진술에 대해 “일부 혼동이 있어 정정할 필요성을 느낀다”며 작성 경위 등을 번복했다.&lt;br&gt;&lt;br&gt;윤 대통령 측은 지난 4일에 이어 이날 두 번째 출석한 홍 전 차장을 상대로 ‘홍장원 메모’의 진위를 적극 따졌다. 조태용 국정원장이 지난 13일 메모 작성 과정·장소 등이 사실과 다르다고 증언하면서 신빙성 논란이 불거졌기 때문이다.&lt;br&gt;&lt;br&gt;앞서 홍 전 차장은 “작년 12월 3일 밤 11시 6분 국정원장 공관 입구의 공터에서 여인형 전 방첩사령관과 통화하면서 불러준 체포 명단을 메모지에 받아 적었다”고 말했다. 윤 대통령에게 “싹 다 잡아들여”라는 말을 듣고 여 전 사령관에게 연락하자 명단을 불러줬다는 것이다. 그러나 이날 국민의힘이 공개한 국정원 CCTV 영상을 보면, 홍 전 차장은 그날 오후 10시 58분 자신의 사무실이 있는 국정원 본청 안으로 들어가고 있었다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YQIZT5CMJBDOXHFUR2M5XZ3HCY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;"메모 작성 때 홍장원 동선, 진술과 달라" - 홍장원 전 국정원 1차장이 비상계엄 당일인 지난해 12월 3일 오후 10시 58분 국정원 본청으로 들어오는 모습. 당초 홍 전 차장은 오후 11시 6분 국정원장 공관 입구 공터에서 방첩사령관 전화를 받고 '정치인 체포 명단 메모'를 작성했다고 해왔다. 그러나 이날 공개된 CCTV에 따르면 그는 그 시각 국정원 본청 내부에 있었던 것이 드러났다. /국민의힘&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;홍 전 차장은 이날 “메모 장소는 공관 앞 공터가 아닌 사무실”이라고 했다. 계엄 당일 밤 10시 46분과 58분, 11시 6분쯤 여 전 사령관과 세 차례 통화했는데, 두 번째는 공관 주차장에서 세 번째는 사무실에서 통화했다고 한다. 홍 전 차장은 “기억을 고증하니 여 전 사령관이 처음 체포자 명단을 불러주겠다고 한 것은 공터에 있던 10시 58분이었고, (명단을) 받아 적은 건 사무실이었다”고 했다.&lt;br&gt;&lt;br&gt;윤 대통령 측이 “검찰 조사 당시엔 기억이 안 났고, 지금 기억난다는 취지인가”라고 묻자, 홍 전 차장은 “조 원장이 CCTV (내용을) 공개해 여러 부분을 재검토하니, 두 통화를 한꺼번에 한 것처럼 진술했다”고 답했다. 국회 측은 이날 “CCTV 시간은 오차가 있을 수 있다”고 했다.&lt;br&gt;&lt;br&gt;윤 대통령은 “홍 전 차장에게 간첩을 많이 잡아넣기 위해서 방첩사도 좀 지원해주라고 얘기한 것”이라며 “이를 목적어도 없는 체포 지시라고 해서 대통령의 체포 지시로 만들어 냈다는 게 핵심”이라고 했다. 이어 “(홍 전 차장은) 그 메모를 만들어 갖고 있다가 12월 5일 사표 내고, 6일에 해임되니 체포 지시라고 엮어냈다”고 주장했다.&lt;br&gt;&lt;br&gt;다만 윤 대통령은 여 전 사령관의 목적이 ‘체포’가 아닌 ‘동향 파악’이었다면서 “동향과 위치를 파악하려고 한 것은 불필요하고 잘못됐다고 생각한다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/JY2WGQ36AVK4LPLLQR2IMSGTJ4.jpg?width=4056&amp;height=2764&amp;auth=5ea0d0e7555d8dd50c63ba4d2d142385a34ced68ae3a39395231f93ac77f93c8&amp;smart=true" type="image/jpeg" height="2764" width="4056">
-        <media:description type="plain">윤석열 대통령이 20일 서울 종로구 헌법재판소에서 열린 탄핵심판 10차 변론에 출석해 있다. 2025.02.20 사진공동취재단</media:description>
-      </media:content>
     </item>
     <item>
       <title>“의료사고 죄송합니다” 美서 사과하니 소송 3분의 1로 뚝</title>
