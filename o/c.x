@@ -13,6 +13,24 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>“죽은 사람 얼굴도 몰라”…’영월 농민회 피살’ 용의자의 과거 인터뷰</title>
+      <link>https://www.chosun.com/national/national_general/2025/02/24/RSJKLBBXG5ED5A5ORBM7H3U7JI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/02/24/RSJKLBBXG5ED5A5ORBM7H3U7JI/</guid>
+      <dc:creator>이가영 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 23 Feb 2025 22:53:21 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XS325OMJJ5C6BO7BQ4ZZ6VOW3Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2004년 살인 사건이 벌어진  강원 영월군 영월읍 한 영농조합 사무실(왼쪽부터)과 사건 현장에서 발견된 피 묻은 족적, 피고인의 샌들. /SBS '그것이 알고 싶다'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대표적인 장기 미제 사건으로 꼽힌 ‘영월 영농조합 간사 살인 사건’의 피고인이 1심에서 무기징역을 선고받았다. 20년 만에 유죄를 선고받은 그는 과거 방송 인터뷰에서 피해자를 알지도 못한다며 범행을 적극 부인했었다. &lt;br&gt;&lt;br&gt;살인 혐의를 받는 A(60‧당시 39세)씨는 작년 6월 방송된 SBS ‘그것이 알고 싶다’ 제작진을 만나 “한두 번 조사받은 것도 아니고, 돌겠다”며 오랜 시간 용의자로 의심받아 힘들다고 했다. &lt;br&gt;&lt;br&gt;A씨는 “사촌 여동생의 친구인 여성 B씨와 저하고 관계가 있었고, 피해자와 B씨가 무슨 관계가 있었던 것 같다. 그게 의심받는 이유”라며 “돌아가신 그분은 만난 적도 없고, 얼굴도 모른다”고 했다. &lt;br&gt;&lt;br&gt;그는 사건 당일 사촌 여동생, B씨와 함께 계곡에 머물렀다고 했다. A씨는 “계곡은 휴대전화도 안 터져서 아예 (전원을) 꺼놨다”며 “계곡에서 나온 건 입구 마트에 고무줄과 술 사러 나왔을 때밖에 없다”고 했다. 다만, 고무줄을 사간 시간대는 기억하지 못한다고 했다. &lt;br&gt;&lt;br&gt;A씨는 자신이 유력 용의자로 의심받게 된 ‘피 묻은 족적’에 관해서도 억울함을 토로했다. A씨는 “(그곳에) 가지도 않았는데 어떻게 내 발자국이 나오나. 밤 사이에 자고 있는데 신발 혼자 가서 찍고 오나”라며 “거기서 족적이 나왔다는 것 자체가 이해가 안 간다”고 했다. &lt;br&gt;&lt;br&gt;국과수의 보고서도 믿지 않았다. 그는 “이 신발에 대한 보고서 보고 실망했다”며 “어디서 우리 애들, 초등학교 한 2~3학년의 관찰 보고서보다 못할 정도의 그런 보고서였다”고 했다. 그러면서 “내가 그때 ‘아, 국과수가 이 정도밖에 안 되는구나’ 처음 알았다”고 했다. &lt;br&gt;&lt;br&gt;이 사건을 수사한 강원경찰청 미제 사건 전담수사팀은 사건 현장에서 확보한 피 묻은 샌들의 족적과 A씨 샌들의 특징점 17개가 99.9% 일치한다는 국과수 감정 내용 등을 토대로 A씨를 검찰에 송치했다. 전문가는 A씨 신발과 피 묻은 족적의 크기와 문양이 일치할 뿐 아니라 움푹 패어 있는 부분이나 마모된 부분 등도 일치한다고 분석했다. &lt;br&gt;&lt;br&gt;A씨는 사건 당일 오후 계곡에서 무엇을 했는지 등에 대해서는 기억나지 않는다고 했다. 그는 “너무 오래돼서 제가 묻는 말에 오염된 답을 할까 봐 사실 좀 그렇다”며 “제가 얘기할 수 있는 건 경찰과 검찰의 조사에 성실히 응했다는 것”이라고 했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/V7C33VQYOBDQRCL5BFAA6VBIZA.png"&gt;&lt;figcaption&gt;&lt;small&gt;살인 혐의를 받는 A씨의 인터뷰를 본 진술분석가는 "상당히 의심스럽다"고 분석했다. /SBS '그것이 알고 싶다'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이 인터뷰를 지켜본 진술 분석가는 “조사를 계속 받았고, 분명히 여러 차례 질문받았을 것”이라며 “언제 (계곡에) 갔는지 몇 시에 갔는지를 기억 못 한다는 건 상당히 의심스럽다. 기억의 원리에 맞지 않는다”고 했다. &lt;br&gt;&lt;br&gt;A씨는 2004년 8월 9일 영월읍 농민회 사무실에서 영농조합법인 간사 C(당시 41세)씨의 목과 배 등을 수차례 찔러 숨지게 한 혐의로 작년 7월 구속돼 재판에 넘겨졌다. 당시 B씨와 교제 중이던 A씨는 B씨가 피해자 C씨를 ‘좋아한다’고 말하자 범행을 계획한 것으로 검경은 판단했다. A씨는 피해자의 인적 사항 수집은 물론 행적까지 염탐한 것으로 드러났다. &lt;br&gt;&lt;br&gt;또 범행 추정 시각 전후로 A씨가 머물렀다고 주장한 계곡이 아닌 다른 장소에 있었음을 뒷받침하는 기지국 통신 내역 등도 나왔다. A씨가 알리바이 증거로 제시한 사진은 디지털카메라의 설정값 변경으로 촬영 일시 조작이 가능했다. &lt;br&gt;&lt;br&gt;지난 20일 춘천지법 영월지원 형사1부(재판장 이민형)는 “범행 현장에 샌들 족적을 남긴 사람이 범인으로 강하게 추정되는데, A씨가 아닌 다른 사람이 몰래 샌들을 신고 범행했을 가능성은 극히 희박하다”며 A씨에게 무기징역을 선고했다. A씨는 재판 과정에서도 “범행 현장에 간 적이 없다. 짜맞추기 수사인 만큼 억울하다”고 항변했으나 재판부는 받아들이지 않았다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>車 1대는 1000원, 4대는 41만원… 주차요금 대폭 올린 아파트</title>
+      <link>https://www.chosun.com/national/national_general/2025/02/24/3ASEVWEMANDVNOA7JUJAPM5T7I/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/02/24/3ASEVWEMANDVNOA7JUJAPM5T7I/</guid>
+      <dc:creator>김자아 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 23 Feb 2025 22:39:23 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OESZYVWH7RFSVNL6RE72FWVO7Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울의 한 아파트 주차장에 무단 주차된 중고차 두대에 '주차위반 경고장' 스티커가 붙어있다.(기사와는 직접 관련 없음) /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한 아파트 단지가 세대별 차를 3대 이상 보유한 입주민을 대상으로 1대당 20만원의 주차료를 받겠다고 밝혀 온라인상 응원을 받고 있다.&lt;br&gt;&lt;br&gt;최근 소셜미디어(SNS)에는 ‘주차료 개정 의견 수렴’이라는 제목의 아파트 안내문이 공유됐다.&lt;br&gt;&lt;br&gt;안내문에 따르면 아파트 측은 협소한 주차 공간을 해소하고 차량 등록 제한을 통한 주차 공간 확보, 편법적 주차 등록 방지를 위해 주차료를 인상하기로 했다.&lt;br&gt;&lt;br&gt;주차료 개정의 골자는 차량 3대부터 1대당 20만원의 주차료를 추가하는 방식이다. 이에 따라 1대와 2대를 보유한 세대의 주차료는 각각 1000원, 1만1000원으로 현행과 동일했다.&lt;br&gt;&lt;br&gt;3대부터 주차료는 대폭 올라 기존 3만1000원에서 21만1000원으로 변경된다. 4대의 경우 기존 6만1000원에서 41만1000원으로 올랐다. 5대부터는 기존과 동일하게 아파트 단지 내 주차가 불가하다.&lt;br&gt;&lt;br&gt;아파트 측은 의견이 있을 경우 관리사무소나 경비실에 제출하라며 “3월 입주자 대표 회의에서 최종 방안을 논의하겠다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YRIWLBI77RCHJMFQOVFFDUBGEQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;아파트 주차료 개정 안내문./소셜미디어&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;네티즌들 반응은 대부분 긍정적이었다. 이들은 “대부분 아파트들 주차 공간 부족한데 이게 맞는다고 본다” “우리 아파트는 1대 3000원, 2대 3만원, 3대 10만원인데 우리 집은 1대밖에 없어서 주차 자리 없으면 손해 보는 기분 들더라. 주차료 잘 책정했다” “아파트 월 주차권 파는 사람들도 생각보다 많아서 이렇게라도 해야 한다” 등의 반응을 보였다.&lt;br&gt;&lt;br&gt;다만 일부 네티즌은 인상된 주차료가 지나치게 비싸다는 의견을 내며 “요즘 캥거루족(독립 안 하고 부모와 같이 사는 성인 자녀) 많아서 세대당 차량 대수도 늘어나는데 과도한 요금 책정 같다” “말이 1대당 20만원이지 2대까지만 주차하라는 소리랑 똑같지 않나” “주차 요금 올리는 것보다 서로 양보하고 배려해서 이면 주차하는 게 낫다” 등의 반응도 보였다.&lt;br&gt;&lt;br&gt;현행법상 주차장 설치 기준은 세대당 평균 주차 대수 1대 이상(세대당 전용면적이 60㎡ 이하인 경우 0.7대 이상)이다. 이는 1996년 개정 이후 27년 동안 유지되고 있지만, 자동차 등록 대수는 꾸준히 증가해 주차난에 시달리는 아파트 단지들이 늘고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>[신문으로 배우는 실용한자] 화기애애(和氣靄靄)</title>
       <link>https://www.chosun.com/national/nie/chinese_character/2025/02/24/5UYJSVJYKFAG7H4RH264Z56RY4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese_character/2025/02/24/5UYJSVJYKFAG7H4RH264Z56RY4/</guid>
@@ -808,24 +826,6 @@
       <description/>
       <pubDate>Fri, 21 Feb 2025 15:52:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/I46GMOWRQVBGTJXG2DR3FWNTIE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산연구원-공공디자인포럼이 주최하는 공동 세미나 ‘왜 지금 공공디자인을 말하나? 그리고 부산은?’이 25일 오후 2시 동서대학교 센텀캠퍼스에서 열린다. 서울대 전상인·박소현·정영록, 동서대 이명희 교수 등이 주제 발표를 맡았다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>장미희 부천영화제 조직위원장</title>
-      <link>https://www.chosun.com/national/people/2025/02/22/UGX4GISUFFCNBJK3PWEIP6JU2Y/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/02/22/UGX4GISUFFCNBJK3PWEIP6JU2Y/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Fri, 21 Feb 2025 15:52:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TNFL7SER4BBWPIYA6TP2X5XGWY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;배우 장미희가 부천국제판타스틱영화제(BIFAN) 조직위원장으로 위촉됐다. 명지전문대 연극영상학과 교수, BIFAN 부조직위원장 등을 지냈다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[오늘의 날씨] 2025년 2월 22일</title>
-      <link>https://www.chosun.com/national/welfare-medical/2025/02/22/B4WP3LTZKJAMZGC7PQJXEZ5ZUI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/02/22/B4WP3LTZKJAMZGC7PQJXEZ5ZUI/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Fri, 21 Feb 2025 15:52:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/B4VZ5DO64JEOLEH4UCKUN73IOY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>원빈 ‘아저씨’의 눈물</title>
