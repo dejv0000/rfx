@@ -13,6 +13,42 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>국민 82%는 ‘조력 존엄사’ 찬성…‘좋은 죽음’은 “통증 없는 죽음”</title>
+      <link>https://www.chosun.com/national/welfare-medical/2025/02/23/5WY6F3M4NBF7XP7MFQ4ICBCHWA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/02/23/5WY6F3M4NBF7XP7MFQ4ICBCHWA/</guid>
+      <dc:creator>오경묵 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 23 Feb 2025 04:56:21 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZAKB5ZX5PDTXDOSIKJFUSKNDXQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;연명의료계획서. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;우리나라 성인 10명 중 8명 이상은 ‘조력 존엄사’ 합법화에 찬성한다는 조사 결과가 나왔다. 말기 환자가 됐을 때 연명의료를 중단할 의향이 있는 이들도 10명 중 9명에 달했다.&lt;br&gt;&lt;br&gt;23일 한국보건사회연구원의 ‘미래 사회 대비를 위한 웰다잉 논의의 경향 및 과제’ 보고서를 보면, 연구진이 지난해 4~5월 성인 남녀 1021명을 대상으로 조사한 결과 조력 존엄사 합법화에 82%가 찬성했다. &lt;br&gt;&lt;br&gt;조력 존엄사는 ‘의사 조력 자살’로 불리며, 극심한 고통을 겪는 말기 환자가 의사가 준비한 약물을 스스로 주입하는 등의 방식으로 생을 마감하는 것이다. 여기에 찬성하는 이들은 ‘무의미한 치료를 계속하는 것이 불필요하다고 생각하기 때문’(41.2%), ‘인간은 누구나 자신의 죽음을 결정할 권리가 있기 때문’(27.3%), ‘죽음의 고통을 줄일 수 있기 때문’(19.0%) 등을 이유로 들었다.&lt;br&gt;&lt;br&gt;연명 의료를 중단할 의향이 있는 이들은 응답자의 91.9%였다. ‘회복 가능성이 없는 삶은 의미가 없는 것 같아서’(68.3%), ‘가족에게 부담이 되고 싶지 않아서’(56.9%) 등의 응답이 많았다.&lt;br&gt;&lt;br&gt;이 같은 조사 결과는 ‘좋은 죽음’에 대한 인식과 관련이 있다는 게 연구진의 분석이다. 좋은 죽음을 맞이하기 위한 항목들의 중요도를 조사한 결과, ‘죽을 때 신체적 통증을 가급적 느끼지 않는 것’이 20.1%로 가장 많았다. ‘가족이 나의 병수발을 오랫동안 하지 않는 것’(18.5%), ‘가족이 나의 간병 과정에서 경제적 부담을 느끼지 않도록 하는 것’(17.5%) 순이었다. ‘임종 시 가까운 가족과 친구가 곁에 있어주는 것’이라는 응답은 5.8%로 가장 낮았다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>캠퍼스로 번진 탄핵찬반…서울대, 경찰 투입 검토 </title>
+      <link>https://www.chosun.com/national/national_general/2025/02/23/HOIPBDFLCZFL5ITLF4ZL6GYJHY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/02/23/HOIPBDFLCZFL5ITLF4ZL6GYJHY/</guid>
+      <dc:creator>장윤 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 23 Feb 2025 04:32:32 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JWBRMCOOMFKWHM4B3VJXCLTKLI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;21일 오후 서울 성북구 고려대학교에서 윤석열 대통령 탄핵 찬반 집회가 함께 열리고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 대통령 탄핵 찬반 집회가 캠퍼스로 번지며 대학들에 비상이 걸렸다. &lt;br&gt;&lt;br&gt;최근 서울대와 고려대에서 열린 학생들의 찬반 집회에는 유튜버 등 외부인이 난입하고 물리적 충돌까지 벌어졌다.&lt;br&gt;&lt;br&gt;23일 서울대는 다시 비슷한 집회가 열릴 경우 경찰에 해산 등 적극적인 협조를 요청하는 방안을 검토 중이다. 캠퍼스 내 경찰 투입은 그동안 ‘금기’로 여겨졌지만, 구성원들의 안전을 위해 스스로 불러들일 수 있다는 것이다.&lt;br&gt;&lt;br&gt;서울대 관계자는 “경찰도 학내 자율화 전통을 존중해 교내 사안에 관여하지 않아 왔지만, 이제 학교 측이 협조 요청을 하겠다는 것”이라며 “집회를 사전 검열할 수는 없지만, 학업과 연구에 방해가 된다고 판단되면 경찰과 협의해 통제하거나 나아가 해산시킬 수 있다”고 밝혔다. &lt;br&gt;&lt;br&gt;앞서 서울대와 고려대에서 열린 찬반 집회에도 질서 유지를 위해 경찰이 출동했지만 해산 등의 조치는 없었다. 서울대는 캠퍼스 내 집회에 외부인 참여가 예상될 경우 학내 규정에 따라 허가 여부도 결정할 수 있다고 보고 있다. &lt;br&gt;&lt;br&gt;현재 한양대, 이화여대, 서강대, 건국대, 한국외대 등에서도 재학생들의 윤 대통령 탄핵 반대 시국선언과 그에 맞선 탄핵 찬성 집회 가능성이 점쳐지고 있다. 대학 관계자들은 “학생들의 시위는 보장해야겠지만, 외부 세력에 의한 폭력은 다르다”며 “대책을 논의 중”이라고 전했다.&lt;br&gt;&lt;br&gt;개강을 앞둔 학생들은 불안감을 호소하며 “외부인이 가세한 집회를 막아야 한다”고 목소리를 높이고 있다. 대학생 커뮤니티 ‘에브리타임’ 서울대 게시판에는 “캠퍼스 내 외부인 출입을 통제하자”는 글이 올라왔고, 집회 진행시간을 학내 구성원들에게 공지하라는 학생들의 청원도 이어지고 있다. 고려대 게시판에는 “이런 일이 반복되면 학교가 학생을 위한 공간이 아니라 광화문 광장이 되는 것 아니냐”는 글이 올라왔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>거여·마천 재정비 ‘마지막 퍼즐’ 마천2구역, 11년만에 정비구역 재지정</title>
+      <link>https://www.chosun.com/national/national_general/2025/02/23/CJYOEOR6VBE7XBXJ4EVKGGNZWA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/02/23/CJYOEOR6VBE7XBXJ4EVKGGNZWA/</guid>
+      <dc:creator>최연진 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 23 Feb 2025 04:31:06 +0000</pubDate>
+      <content:encoded>서울시는 제1차 도시재정비위원회 신속통합기획 정비사업 등 수권소위원회를 열어 ‘마천2구역 주택재개발사업 재정비촉진계획·경관심의안’을 수정 가결했다고 23일 밝혔다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YPQH3N7TZ242EY5MAXWG47H5XA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;마천2구역 조감도&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;마천2구역은 송파구 마천동 183 일대 거여·마천 재정비촉진지구 내에 있다. 거여동 3개 구역, 마천동 5개 구역 등 총 8개 구역으로 구성돼 있는데, 가장 속도가 느렸던 마천2구역이 마지막으로 촉진지역으로 지정된 것이다. &lt;br&gt;&lt;br&gt;서울시는 “촉진지구 내 다수의 재개발사업이 진행·완료됐고 위례선 트램 정거장 신설, 성내천 복원 등을 앞두고 있어 체계적 정비가 필요한 상황”이라고 했다.&lt;br&gt;&lt;br&gt;이번 심의 통과로 마천2구역은 2014년 촉진구역 해제 이후 약 11년 만에 용적률 300% 이하 최고 41층, 총 1729세대 규모의 촉진구역으로 재결정됐다. &lt;br&gt;&lt;br&gt;이 지구 전체는 인구 약 6만명, 1만6000세대 규모의 신도시로 조성될 예정이다. &lt;br&gt;&lt;br&gt;서울시 계획에 따르면, 마천역 주변에는 기존 지형 단차를 활용한 입체광장이 들어선다. 추후 복원 예정인 성내천변 일대는 단지 내 휴식·여가 등 특화형 커뮤니티 시설을 배치해 수변 명소로 만든다. &lt;br&gt;&lt;br&gt;마천초와 마천역 일대 보행자가 많은 점을 고려해 보도 폭을 넓히고, 공공보행통로도 신설해 단지 내 차량 진출입을 최소화한다. 또 위례선 개통에 따른 환승역세권 전환 등을 고려해 준주거지역은 근린생활시설, 업무시설 등 복합용도시설로 계획했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“못쓰는 용적률 다른 동네에 판다” 서울시 ‘용적이양제’ 올해 도입 추진</title>
+      <link>https://www.chosun.com/national/national_general/2025/02/23/I4JKN7YPAZH3LFU7AQAIYN6DMI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/02/23/I4JKN7YPAZH3LFU7AQAIYN6DMI/</guid>
+      <dc:creator>최연진 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 23 Feb 2025 04:24:43 +0000</pubDate>
+      <content:encoded>서울시가 문화재 보존 등으로 활용하지 못하는 용적률을 다른 곳에 넘겨줄 수 있게 하는 ‘용적이양제’ 도입을 본격 추진한다고 23일 밝혔다. 올 상반기 조례를 입법예고하고 하반기부터 본격 시행하는 게 목표다.&lt;br&gt;&lt;br&gt;용적이양제는 문화재 때문에 고도규제가 있는 지역의 용적률을 다른 곳에 팔 수 있게 하는 것이다. 예를 들어 용적률이 1000%인 풍납동 상업지역이 문화재인 풍납토성으로 인한 고도규제 때문에 용적률을 400%밖에 못 쓴다면, 나머지 600%는 다른 재개발 지역에 팔 수 있게 된다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/T7H4IBDTA44JBJH7J7EXJSQGPA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;용적이양제&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;용적이양제는 미국 뉴욕, 일본 도쿄 등 해외 도시에서 이미 활용되고 있다. 그러나 국내는 법체계가 달라 적용이 어렵다는 연구 결과가 많았다.&lt;br&gt;&lt;br&gt;이에 서울시는 도시계획, 법률 등 전문가 자문과 연구를 거쳐 ‘서울형 용적이양제’ 개념을 새롭게 규정하고 국내 적용 가능한 실행모델을 마련하기로 했다. 현재 계획을 세우고 있는 강동구 ‘굽은다리역세권 활성화’ 사업에 건축법상 ‘결합건축’ 제도를 활용해 용적이양 과정에 대한 실험을 하고 있으며, 결과물을 토대로 실행모델을 완성할 계획이다.&lt;br&gt;&lt;br&gt;서울시는 제도 도입 초기인 점을 고려해 문화유산 주변 지역과 장애물 표면 제한구역 등 장기적으로도 규제 완화가 어려운 곳 위주로 양도지역을 선정할 계획이다. 부동산 업계에선 풍납토성, 북촌한옥마을(계동), 경복궁 주변(효자동) 등이 대상 지역으로 거론된다. 여기에서 남는 용적률을 ‘어디에’ 파느냐를 선정하는 작업이 핵심이다.&lt;br&gt;&lt;br&gt;용적이양제는 지난달 14일 시민 대토론회에서도 제안이 나왔었다. 뉴욕, 도쿄 등의 용적이양제를 우리도 도입해야 한다는 취지였다. 실제 뉴욕의 원 밴더빌트는 용적이양제를 통해 인근 그랜드센트럴터미널·바워리세이빙 빌딩의 용적률을 이전받아 초고층 빌딩(93층·용적률 약 3000%)으로 개발됐다. 도쿄의 신마루노우치빌딩(38층·용적률 약 1760%)과 그랑도쿄(43층·용적률 약 1천00%) 등 6개 빌딩도 문화재로 지정된 도쿄역의 용적률을 사들여 고층으로 올렸다.&lt;br&gt;&lt;br&gt;서울시는 서울형 용적이양제에 대한 공감대를 형성하고 합리적인 실행모델을 모색하기 위해 25일 오후 2시 서울시청 서소문청사에서 ‘공간의 혁신, 도시의 진화: 서울형 용적이양제’를 주제로 도시정책 콘퍼런스를 연다. 남진 서울시립대 교수가 ‘도시경쟁력 향상을 위한 용적이양제의 새로운 전략’, 김지엽 성균관대 교수가 ‘용적이양제 실현을 위한 법제도 도입 방안’을 주제로 각각 발제한다.&lt;br&gt;&lt;br&gt;서울시 향후 지역주민 의사를 최우선으로 고려해 ‘서울형 용적이양 선도사업’을 추진할 계획이다. 선도지역으로 선정되면 민간-공공 협력체계를 구축해 용적이양 추진 전 과정을 시가 전폭적으로 지원한다. 서울시는 “선도사업을 통해 각종 세부 운영기준을 마련하고 향후 제도 안정화를 위한 법령 개정 건의도 병행할 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>‘우리 조합원 채용해라’…소속 조합원 취업 강요한 건설 노조 간부 징역형</title>
       <link>https://www.chosun.com/national/regional/2025/02/23/FIAGD2P2QJDRPARYDQYORJ4ADE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/02/23/FIAGD2P2QJDRPARYDQYORJ4ADE/</guid>
@@ -880,15 +916,6 @@
       </media:content>
     </item>
     <item>
-      <title>몸싸움하다 남성 음낭 잡아 뜯은 40대 女 벌금형</title>
-      <link>https://www.chosun.com/national/incident/2025/02/21/3LMQLZ6DDVBWFE2FPSHBOY2XX4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/02/21/3LMQLZ6DDVBWFE2FPSHBOY2XX4/</guid>
-      <dc:creator>김나연 기자, 강지은 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 21 Feb 2025 04:02:55 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZHW6DCKBZQOXO7RVCO2LBKIWXY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울남부지법./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;몸싸움을 하다 상대 남성의 음낭을 공격해 부상을 입힌 40대 여성에게 벌금형이 선고됐다. 해당 여성은 정당방위를 주장했으나 받아 들여지지 않았다. 법원은 여성이 목 부위를 잡혔다는 사실은 인정하면서도 그 이상의 공격을 받았다는 증거가 충분하지 않다고 봤다.&lt;br&gt;&lt;br&gt;서울남부지법 형사13단독 김재은 판사는 상해 혐의로 기소된 여성 이모(47)씨에게 지난 14일 벌금 100만원을 선고했다. 이씨는 2022년 10월 6일 오전 6시쯤 서울 강서구의 한 주택에서 유모씨에게 목 부위를 감싸 잡히자 이에 대항해 손으로 유씨의 음낭을 움켜쥐고 잡아 뜯어 전치 2주의 상해를 입힌 혐의를 받는다. 두 사람은 연인 관계로 조사됐다.&lt;br&gt;&lt;br&gt;이씨 측은 당시 유씨가 “넌 여기서 죽는다”고 말하며 이씨의 목을 졸랐다고 주장했다. 이씨는 유씨의 눈두덩이를 눌러 그의 손아귀에서 벗어났는데, 그 순간 유씨가 침대 아래에 있던 밥솥으로 이씨를 내려치려 했다는 게 이씨 측 설명이다. 유씨에 대한 공격이 정당방위 또는 과잉방위에 해당한다는 것이다.&lt;br&gt;&lt;br&gt;그러나 김 판사는 “제출된 증거만으로는 당시 피해자(유씨)가 손으로 피고인의 목을 졸랐다거나, 밥솥으로 내려치려 했다는 점을 인정하기 어렵다”며 “부당한 공격을 방위하기 위한 것이라기보다는 피해자에 대한 공격행위에 해당한다고 봄이 타당하다”고 판시했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>경기도 “구리시, 서울편입과 GH이전 동시 추진 불가”</title>
       <link>https://www.chosun.com/national/national_general/2025/02/21/LOZMBYISJBGRLJ4WGHDBLYH3EE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/02/21/LOZMBYISJBGRLJ4WGHDBLYH3EE/</guid>
@@ -898,24 +925,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4GEF7OB66MX45VZWZ72WGNR3RM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;고영인 경기도 경제부지사. /경기도 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기도는 구리시가 서울 편입을 재추진하자 경기주택도시공사(GH)의 구리시 이전 절차를 전면 중단한다고 21일 밝혔다.&lt;br&gt;&lt;br&gt;고영인 경기도 경제부지사는 이날 도청 브리핑룸에서 기자회견을 열고 “백경현 구리시장은 GH 이전과 서울 편입을 동시에 추진하겠다고 주장하고 있는데 앞뒤가 맞지 않는 말”이라며 “구리시가 서울시로 편입되면 경기도 공공기관인 GH가 구리시에 갈 아무런 이유가 없다”고 말했다. 백 시장은 지난 2023년 11월 오 시장을 만나 서울 편입을 건의한 바 있다.&lt;br&gt;&lt;br&gt;고 부지사는 구리시의 서울 편입을 수용하겠다는 오세훈 서울시장을 향해서도 비판의 목소리를 냈다. 그는 “오세훈 서울시장은 구리시와 김포시의 서울 편입 주장이 얼마 전 주장한 지방분권 개헌 취지와 맞다고 생각하냐”며 “오 시장은 지방분권에 역행하고, 갈등을 부추기는 구리시와 김포시 서울 편입 추진에 대한 포기선언을 조속히 하라”고 했다. &lt;br&gt;&lt;br&gt;이에 대해 백 시장은 “서울 편입은 결정된 사항이 아닌 데다 시민 요구에 따라 기초자료로 활용하기 위한 효과를 분석하고 있을 뿐”이라며 “김동연 지사가 산하기관 이전을 약속대로 추진하겠다고 했는데 GH 이전을 백지화하면 경기도 행정이 신뢰받지 못할 것”이라고 반박했다.&lt;br&gt;&lt;br&gt;앞서 구리시는 2021년 경기도 공모에서 GH 이전 대상지로 선정돼, 토평동 9600㎡ 부지에 지하 3층·지상 19층, 전체 건축면적 3만㎡ 규모로 GH 본사 건물을 신축하는 방안을 추진 중이다. GH는 2031년까지 이전을 마무리할 계획이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[단독] 서울대 졸업식 축사 맡은 김인권 병원장 “사회서 서울대생 자존심 내세우지 말 것”</title>
-      <link>https://www.chosun.com/national/people/2025/02/21/FX5YM5E3N5CSZF72LHUZZCDMAI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/02/21/FX5YM5E3N5CSZF72LHUZZCDMAI/</guid>
-      <dc:creator>강지은 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 21 Feb 2025 03:19:09 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/O57F6YJQJVC75POFO53X7SBBAA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울예스병원 김인권 병원장&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“대학 울타리를 벗어나 사회에 나가면 ‘내가 서울대생이니 최고여야 한다’는 생각을 버리고, 다른 사람의 의견을 존중할 줄 아는 사람이 되길 바랍니다.”&lt;br&gt;&lt;br&gt;오는 26일 열리는 서울대 제79회 학위 수여식 축사 연사로 선정된 김인권(74) 서울예스병원장은 본지 인터뷰에서 이렇게 말했다. 1975년 서울대 의대를 졸업한 김 원장은 평생을 한센병 환자 치료에 헌신한 공로를 인정받고 2016년에 이어 서울대 졸업식 축사 연사로 재선정됐다.&lt;br&gt;&lt;br&gt;그가 한센병 환자를 처음 만난 건 우연에서 비롯됐다. 정형외과 전공의 과정을 밟던 그는 1977년 국립소록도병원에 파견됐다. 당시 전공의들은 정부가 지정하는 무의촌에 가 6개월을 근무해야 전문의 시험을 볼 자격이 주어졌다고 한다. 김 원장은 “한센병 환자들을 만나기 전엔 병에 대한 막연한 두려움도 있었다”며 “막상 소록도에 도착해 환자들을 만나니 똑같은 사람인 걸 깨달았다”고 했다. 한센병은 나균 감염에 의해 발생하는 만성 전염병이다. 이제는 2주에서 2개월 정도 약만 먹으면 감염성이 사라지고 꾸준히 치료하면 완치되는 병이지만, 과거에는 치료할 수 없는 전염병으로 여겨졌다.&lt;br&gt;&lt;br&gt;1980년 공중보건의로 무의촌에서 근무해야 할 일이 또 생겼을 때 김 원장은 망설임 없이 소록도병원으로 향했다. 다리 거동이 불편함에도 섬 곳곳을 돌아다니며 환자들을 살피던 신정식 당시 소록도병원장의 헌신적 모습이 감명 깊었기 때문이다. 소록도에서 지내며 친해진 환자들과 동료들을 다시 보고 싶다는 이유도 있었다고 한다.&lt;br&gt;&lt;br&gt;소록도에서 3년간의 공중보건의 근무를 마치고 김 원장은 여수 애양병원에서 전문의 생활을 시작했다. 공중보건의 시절 종종 수술을 도우며 연을 맺은 곳이다. 당시 애양병원에는 의사가 1명뿐이라 일손이 부족한 상황이었다. 김 원장은 “아산병원, 삼성병원, 서울대에서 일할 기회도 있었지만 내가 없어도 잘 운영될 곳보다는 내가 꼭 필요한 곳에서 일해야겠다는 생각이 강했다”고 했다.&lt;br&gt;&lt;br&gt;1983년 애양병원에는 김 원장까지 의사가 3명이었다. 아침 9시부터 밤 10시까지 쉴 틈 없이 일하며 일주일에 수백 명 환자를 진료했다. 환자 중엔 소아마비 환자가 가장 많았고, 한센 환자는 10% 정도였다고 김 원장은 설명했다. 정형외과 의사인 김 원장은 한센균에 의해 비틀어진 손과 발을 교정하는 역할을 맡았다. 김 원장은 이때 만난 환자들과 40년이 지난 지금까지도 연락하며 친구처럼 지낸다고 한다.&lt;br&gt;&lt;br&gt;2019년 애양병원 명예원장 자리에서 퇴직한 김 원장은 현재 서울예스병원에서 일하고 있다. 소아마비나 한센병 환자들이 오는 걸 꺼리는 병원도 많은데, 김 원장이 예스병원에 “내가 평생 봐온 환자들이 방문할 때 곤란해하지 않았으면 한다”고 했더니 소속 의사들은 “당연하다”는 말로 환영해줬다고 한다. 한센병 환자는 한 달에 1~2명이 방문해 김 원장의 치료를 받는다.&lt;br&gt;&lt;br&gt;김 원장은 환자들이 자신을 찾는다는 사실이 감사하다고 했다. 그는 “‘항상 기뻐하라/쉬지 말고 기도하라/범사에 감사하라(데살로니가전서 5장 16절~18절)’는 성경 구절을 좋아하는데, 환자들이 아직까지도 나를 찾아주다니 언제나 기쁘고 감사할 수밖에 없다”고 했다.&lt;br&gt;&lt;br&gt;김 원장은 2016년 서울대 졸업식에서 한 차례 축사를 맡은 적이 있다. 당시 그는 “너무 좋은 직장을 찾지 말길 바란다”며 “동요 없이 30여 년간 한센병 환자를 치료하는 곳에서 일할 수 있던 가장 큰 힘은 선택을 내가 했고, 내 선택이 잘못되지 않았다는 자부심이다”라고 연설했다. 김 원장은 올해 축사에서는 “사회에 나가면 서울대생이라고 특별하지 않다. 다시 우열이 정해지니, 서울대생이라는 자존심을 내세우지 말고 다른 사람의 의견도 경청해 공동의 선을 이루는 사회를 만들어가라”는 메시지를 전하겠다고 했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>울산여성포럼 출범 20주년...10대 대표에 이영남 취임</title>
-      <link>https://www.chosun.com/national/2025/02/21/QL7K2STRRZAFJPKSHQD5P33LLY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2025/02/21/QL7K2STRRZAFJPKSHQD5P33LLY/</guid>
-      <dc:creator>울산=김주영 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 21 Feb 2025 03:17:14 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NEGGI25TSJEBIOSR3PRFWXQGQE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;울산에서 활동 중인 전문직 여성들의 네트워크인 울산여성포럼이 창립 20주년을 맞아 지난 20일 울산시의회 시민홀에서 기념식을 열었다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;울산에서 활동 중인 전문직 여성들의 네트워크인 울산여성포럼이 창립 20주년을 맞았다.&lt;br&gt;&lt;br&gt;지난 20일 울산시의회 시민홀에서 열린 기념식에는 윤종오 국회의원, 홍유준 시의회 문화복지환경위원장, 신장열 시 복지가족진흥사회서비스원장 등 100여명이 참석해 여성포럼 출범 20년을 축하했다.&lt;br&gt;&lt;br&gt;기념식에서는 ubc 울산방송 이영남 부장이 여성포럼 10대 대표로 취임해 공식 활동에 들어갔다.&lt;br&gt;&lt;br&gt;이 대표는 “인공지능(AI)이 화두가 되는 현시대에 모두가 함께 성장할 때 울산이 미래 비전을 가진 도시가 될 것”이라며 “올해는 ‘성장하는 여성, 행복한 울산’을 테마로 여성들이 연대와 공유를 통해 성장할 수 있도록 하고, 울산에 필요한 정책을 발굴하자”고 제안했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LBMHYFMF4NORPADPLK62NRJK44.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이영남 제10대 울산여성포럼 대표가 지난 20일 열린 울산여성포럼 창립 20주년 기념식에서 발언하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이어 김노경 시 기획조정실장과 정명숙 폴리텍대학 울산캠퍼스 학장이 참여하는 토크콘서트가 열려 울산의 미래 정책 방향과 여성포럼의 운영 방향에 대한 의견이 제시됐다.&lt;br&gt;&lt;br&gt;울산여성포럼은 지역 여성 인재의 네트워크 활성화를 통해 양성이 평등하고 살기 좋은 울산을 만들고자 지난 2006년 설립됐다.&lt;br&gt;&lt;br&gt;정치, 행정, 의료, 복지, 교육, 언론, 법조 등 각 분야 전문직 여성 100여명이 참여해 여성가족 정책 개발과 여성 인권, 복지 증진을 위한 활동을 하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>주말에도 강추위....다음 주 초에야 풀려</title>
       <link>https://www.chosun.com/national/transport-environment/2025/02/21/33YJIS6V7JHFRDTOFHGOV44G4E/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/02/21/33YJIS6V7JHFRDTOFHGOV44G4E/</guid>
@@ -923,15 +932,6 @@
       <description/>
       <pubDate>Fri, 21 Feb 2025 02:08:58 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Q73RH4XERRAGXGPQK6WPJPWHHU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;아침 기온이 영하 10도 안팎을 기록한 21일 오전 서울 광화문 인근을 지나는 버스 창문에 김이 서려 있다. 박성원 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;북서쪽에서 찬 공기가 내려오며 주말에도 평년보다 기온이 낮은 강추위가 이어질 전망이다.&lt;br&gt;&lt;br&gt;기상청은 토요일인 22일 아침 최저기온은 영하 12도~영하 1도, 낮 최고기온은 0도~영상 7도에 머물 것이라고 21일 예보했다. 서울 최저기온은 영하 7도까지 떨어진다. 낮 최고기온도 서울·수원 2도, 부산 7도 등이다. &lt;br&gt;&lt;br&gt;일요일인 23일 아침 최저기온은 영하 12도~영하 2도, 낮 최고기온은 영하 1~영상 5도에 머문다. 바람도 강하게 불어 체감온도는 더욱 낮을 전망이다. 전국 대부분 지역에 순간풍속 시속 55km 내외의 강풍이 부는 곳이 많다. &lt;br&gt;&lt;br&gt;기상청은 “간판, 비닐하우스 등 시설물 점검을 철저히 해야하고, 면역력이 약한 노약자와 어린이는 가급적 야외활동을 자제해 달라”고 당부했다. 기상청은 강풍으로 항공편이 지연될 가능성도 있다고 내다봤다. 충남과 전라 서해안 등에는 주말 이틀간 1~5cm의 눈이 내린다고 예보됐다.&lt;br&gt;&lt;br&gt;주말 전국은 대체로 맑고 미세먼지도 거의 없을 전망이다. 케이웨더는 전국의 대기 순환이 원활해 22일 전국 미세먼지 농도가 ‘좋음’일 것이라고 예보했다. 23일은 전국 상당수 지역이 전날과 마찬가지로 ‘좋음’이지만 경기도와 충청권은 ‘보통’ 수준일 것으로 전망했다.&lt;br&gt;&lt;br&gt;강추위는 다음 주 초 힘이 빠지며 기온이 점차 따뜻해질 전망이다. 기상청은 25일 이후부터 기온이 평년과 비슷하거나 조금 높을 것으로 내다봤다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“포복 자세로 기어 가”...초등생 승마 제자 학대한 국대 출신 승마코치</title>
-      <link>https://www.chosun.com/national/regional/2025/02/21/V6JGRBTD2VC6ZCSKVCHFN7L2ZQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/02/21/V6JGRBTD2VC6ZCSKVCHFN7L2ZQ/</guid>
-      <dc:creator>제주=오재용 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 21 Feb 2025 02:07:10 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/M2XWEYQ6BFG77PT4TH5NZGHKTM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원/조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;초등학생 승마 제자를 학대한 혐의로 재판에 넘겨진 국가대표 출신 승마 코치가 실형을 선고받고 법정 구속됐다.&lt;br&gt;&lt;br&gt;21일 법조계에 따르면 제주지법 형사 2단독 배구민 부장판사는 최근 아동복지법 위반(아동학대) 혐의로 불구속 기소된 A(34)씨에게 징역 6개월을 선고하고, 법정구속했다. 또 3년간 아동 관련 기관 취업제한도 명령했다&lt;br&gt;&lt;br&gt;A 씨는 제주시에 위치한 한 승마장에서 자신이 지도하던 피해 아동 B 군을 여러 차례 학대한 혐의로 기소됐다.&lt;br&gt;&lt;br&gt;A 씨는 지난 2022년 8월쯤 B 군이 연습 중 낙마하자 욕설하며 말에 다시 오를 것을 강요했다. 또 두려움을 느낀 B 군에게 상처를 입은 상태에서 말을 향해 포복자세로 기어가게 했다.&lt;br&gt;&lt;br&gt;또 2022년 12월에는 B 군이 처음 타보는 말로 연습을 하던 중 실수하자 폭언하면서 말에서 내리게 한 뒤, B 군의 멱살을 잡는 등 신체적으로 학대하기도 했다.&lt;br&gt;&lt;br&gt;또 경기 출전에 앞서 B 군이 긴장을 풀기 위해 각설탕을 먹자, 각설탕 여러 개를 입에 넣게 한 뒤 이를 주변에 있던 사람에게 사진을 찍게 한 것으로 드러났다.&lt;br&gt;&lt;br&gt;A 씨는 최근까지 자신의 이름을 건 승마센터를 운영했고, 제주대표로 전국체전에서 출전하기도 한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;배구민 부장판사는 “B 군에 대한 학대 행위가 여러 차례이고, 피해자나 그 보호자들로부터 용서를 받지 못했다”며 “피해자 등이 엄벌을 탄원하고 있는 점 등을 고려하면 실형 선고가 불가피하다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>경찰 “尹대통령 ‘체포영장 집행 방해’ 혐의 입건” </title>
