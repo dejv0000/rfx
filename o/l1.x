@@ -6,6 +6,26 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>[판결] '채용비리·뇌물공여' 하성용 前 KAI 대표 징역형 집행유예 확정</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/205798.jpg" alt="3246.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;하성용 전 한국항공우주산업(KAI) 사장 《사진=연합뉴스》&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;채용비리와 수천억 원대 분식회계 등 혐의로 재판에 넘겨진 하성용 전 한국항공우주산업(KAI) 사장이 징역형 집행유예를 확정받았다.&lt;p&gt;&amp;nbsp;   &lt;/p&gt;&lt;p&gt;대법원 형사3부(주심&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="9051"&gt;이숙연&amp;nbsp;&lt;/span&gt;대법관)는 지난달 23일 특정경제범죄가중처벌등에관한법률위반(횡령 배임 사기)등 혐의로 기소된 하 전 대표에게 징역 2년에 집행유예 3년을 선고한 원심을 확정했다(&lt;b&gt;2024도12066&lt;/b&gt;).&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;하 전 대표는 KAI 대표이사로 재직하던 2013년 5월부터 2017년 7월까지 5000억 원대 분식회계, 회삿돈 횡령, 채용비리 등 KAI의 각종 경영비리 전반에 관여한 혐의로 2017년 10월 재판에 넘겨졌다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;1심은 하 전 대표의 혐의들 가운데 일부를 유죄로 인정하고 징역 1년 6개월에 집행유예 2년을 선고했다. 1심은 △분식회계 △비자금 및 경조비(골프 접대) 횡령 △위장회사 설립 혐의는 무죄라고 판단했다. 다만 채용비리에 관여하고 회사구매 상품권 횡령 혐의는 유죄로 인정했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;항소심은 징역 2년에 집행유예 3년을 선고했다. 1심이 무죄로 판단했던 골프 접대 등 횡령 혐의 일부와 채용비리 관련 업무방해와 뇌물공여 혐의 등이 유죄로 뒤집히며 형량이 늘었다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;항소심은 "하 전 대표는 채용 관련 최종 의사결정권자로서 특정 지원자들에 대해 특혜를 제공하는 등 채용절차 및 그 결과를 최종적으로 승인했고 A 씨가 직접 인사청탁을 한 지원자가 최종합격하기도 하는 등 피고인의 지위, 역할, 가담정도 등에 비추어 그 죄책이 더욱 무겁다고 볼 수밖에 없다"고 양형 이유를 밝혔다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;이어 "회사 자금으로 구입한 1억 8000만 원 상당의 상품권을 개인적으로 전달받아 사용하거나 허위 경조비 명목으로 조성한 회사자금을 내기 골프 비용으로 사용하는 방법으로 이를 횡령하기도 했고 그에 대한 피해회복도 이뤄지지 않았다"고 짚었다. 다만 하 전 대표가 KAI 대표이사로 재직하면서 영업활동 등으로 상당한 경영성과를 낸 점, 초범인 점 등은 유리한 점으로 참작했다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;대법원도 이 같은 항소심 판단을 받아들이고 검사와 하 전 대표 측의 상고를 모두 기각했다.&lt;/p&gt;</description>
+			<pubDate>Sun, 23 Feb 2025 00:08:18 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/205798</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/205798</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/205798.jpg</media:thumbnail>
+			<dc:creator>홍윤지 기자</dc:creator>
+		</item>
+		<item>
+			<title>[판결] 극기훈련에 어학시험까지…'심정지 사망' 국가기관 직원 업무상 재해 인정</title>
+			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/thumb/180/205814.jpg" alt="177061.jpg" /&gt;&lt;/p&gt;&lt;p style="text-align: center;"&gt;&amp;nbsp;&lt;/p&gt;출근 중 급성 심정지로 사망한 한 국가기관 직원에 대해 법원이 업무상 재해를 인정했다. 고인이 평소 업무를 위해 수시로 강도 높은 신체 훈련과 어학시험, 평가 등을 소화한 점에 미뤄볼 때 사망과 업무 사이에 인과관계가 존재한다는 판단이다.&lt;p&gt;&amp;nbsp;   &lt;/p&gt;&lt;p&gt;서울행정법원 행정7부(재판장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="7814"&gt;이주영&amp;nbsp;&lt;/span&gt;수석부장판사)는 지난해 11월 28일 A 씨의 배우자가 인사혁신처장을 상대로 낸 순직유족급여 불승인처분 취소 소송에서 원고 승소 판결했다(&lt;b&gt;2022구합82325&lt;/b&gt;).&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;A 씨는 2019년 9월부터 한 국가기관에서 근무했다. A 씨는 2021년 12월 14일 오전 7시 20분경 출근을 위해 운전을 하다 정차한 굴착기 후미를 추돌하는 사고를 당했고, 심정지 상태로 사망한 채 발견됐다. 인사혁신처는 2022년 7월 순직유족급여 불승인 처분을 했다. A 씨의 사망 원인이 굴착기 사고가 아니라 그 전에 발생한 급성 심정지일 가능성이 크고, 급성 심정지와 업무 사이에 연관성을 인정하기 어려워 공무와 사망 사이 인과관계가 존재하지 않는다는 판단이었다. 이에 A 씨의 배우자는 행정소송을 냈다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;재판부는 "A 씨의 사망과 공무 사이 상당인과관계가 없다는 점을 전제로 한 인사혁신처의 불승인 처분은 위법해 취소돼야 한다"고 판결했다. 사인인 급성 심정지와 업무 사이의 연관성이 존재한다는 판단이다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;재판부는 "A 씨는 근무하며 해외에서 어려운 일을 수행했고 그와 관련해 교육 등도 받았다"며 "그 과정에서 강도높은 일정을 소화했다"고 판단했다. 이어 "특히 사고 발생 전 2개월 강도 높은 일정을 소화했고 업무로 인해 외국어 공인어학시험에 응시 및 합격하기도 했다"고 설명했다. 그러면서 "A 씨는 여러 과정에서 합격할 때까지 수시로 평가를 받았고, 어학능력을 위해 낯선 외국어를 공부해 관련 공인인증시험에 응시해야 했는데, 평가 및 시험, 상대적으로 어린 동료들과의 경쟁 등으로 상당한 심리적 스트레스를 받았을 것으로 보인다"고 밝혔다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;재판부는 또 "초과근무 내역으로 확인되는 A 씨의 사고 전 12주 평균 근로시간은 주당 50.2시간에 달한다"며 "이것은 공무상 질병 판정기준에서 정한 1주 평균 52시간에 다소 미치지 못하지만, 여러 업무와 학습, 평가, 시험 응시 등 과정을 고려하면 실제 업무 시간은 이를 초과했던 것으로 보인다"고 설명했다.&lt;/p&gt;</description>
+			<pubDate>Sun, 23 Feb 2025 00:08:14 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/205814</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/205814</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/205814.jpg</media:thumbnail>
+			<dc:creator>홍윤지 기자</dc:creator>
+		</item>
+		<item>
 			<title>(금주 법조계 주요일정) 2월 24~28일</title>
 			<description>&lt;b&gt;△24일(월)&lt;/b&gt;&lt;br /&gt;-서울중앙지법, '특정범죄가중처벌등에관한법률위반(뇌물) 등 혐의' 유동규 외 4명 169차 공판(오전 10시)&lt;br /&gt;-대한변호사협회, 2025년 정기총회(오전 10시, 서울 중구 소공동 롯데호텔 2층 크리스탈볼룸)&lt;br /&gt;-서울중앙지법, '특정범죄가중처벌등에관한법률위반(횡령) 등 혐의' 박성철 외 2명 4차 공판준비기일(오후 2시)&lt;br /&gt;-헌법재판소, 박성재 법무부장관 탄핵심판(2024헌나6) 1차 변론준비기일(오후 2시)&lt;br /&gt;-법무법인 율촌·Control Risks, 우크라이나 전쟁 3년-우크라이나 재건 사업 향후 전망과 리스크 세미나(오후 3시, 서울 강남구 삼성동 법무법인 율촌 39층 Lecture Hall)&lt;br /&gt;-법무법인 화우, 리야드 국제 중재 위크-사우디와 한국간의 양자 투자 촉진 세미나(오후 3시 30분, 사우디아라비아 리야드 힐튼호텔)&lt;br /&gt;-헌법재판소, 서울중앙지검 이창수·검사장·조상원 4차장검사·최재훈 반부패수사2부장검사 탄핵심판(2024헌나3·4·5) 2차 변론기일(오후 4시)&lt;br /&gt;&lt;b&gt;&lt;br /&gt;△25일(화)&lt;/b&gt;&lt;br /&gt;-한국법제연구원-한국해운조합 업무협약(MOU) 체결식(오전 11시, 서울 강서구 등촌동 한국해운조합 대회의실(8F))&lt;br /&gt;-헌법재판소, 윤석열 대통령 탄핵심판(2024헌나8) 11차 변론기일(오후 2시)&lt;br /&gt;-법무법인 바른, 벤처기업지원센터 세미나-2025년 자본시장 전망과 대비(오후 4시, 서울 강남구 대치동 바른빌딩 15층 대강당)&lt;br /&gt;&lt;b&gt;&lt;br /&gt;△26일(수)&lt;/b&gt;&lt;br /&gt;-서울중앙지법, '허위공문서작성 등 혐의' 이규원 선고(오후 2시)&lt;br /&gt;-서울고법, '공직선거법 위반 혐의' 5차 공판(오전 10시30분)&lt;br /&gt;-서울고법, '공직선거법 위반 혐의' 6차 공판(오후 2시)&lt;br /&gt;-법무법인 클라스한결, 고용노동부 통상임금 노사지도지침 해설 및 기업의 대응방안 세미나(오후 2시, 서울시 종로구 종로1 교보생명빌딩 23층 세미나실)&lt;br /&gt;&lt;b&gt;&lt;br /&gt;△27일(목)&lt;/b&gt;&lt;br /&gt;-대법원 3부 선고(오전 11시)&lt;br /&gt;-서울중앙지법, '내란중요임무종사 등 혐의' 조지호 외 1명 2차 공판준비기일(오후 2시)&lt;br /&gt;-법무법인 태평양·K&amp;L Gates, International Arbitration Seminar(오후 2시 30분, 싱가포르 리퍼블릭플라자)&lt;br /&gt;-서울중앙지법, '내란중요임무종사 등 혐의' 김용현 3차 공판준비기일(오후 4시)&lt;br /&gt;-서울고법, '정당법 위반 혐의' 윤관석 외 2명 2차 공판(오후 5시)&lt;br /&gt;-법무법인 바른, 신입변호사 오리엔테이션(~28일, 서울 강남구 대치동 바른빌딩 15층 대강당)&lt;br /&gt;&lt;b&gt;&lt;br /&gt;△28일(금)&lt;/b&gt;&lt;br /&gt;-서울중앙지법, '특정범죄가중처벌등에관한법률위반(뇌물) 등 혐의' 유동규 외 4명 170차 공판(오전10시)&lt;br /&gt;-서울중앙지법, '뇌물수수 등 혐의' 홍인표 외 7명 8차 공판(오전 10시30분)&lt;br /&gt;</description>
 			<pubDate>Sat, 22 Feb 2025 22:06:01 -0000</pubDate>
@@ -223,26 +243,6 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/205807</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/205807.jpg</media:thumbnail>
 			<dc:creator>조한주 기자</dc:creator>
-		</item>
-		<item>
-			<title>국세청, 가상자산 거래소 업비트·코빗 세무조사 착수</title>
-			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/thumb/180/205801.jpg" alt="454.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;국세청이 대형 가상자산 거래소인 업비트와 코빗에 대한 세무조사에 들어갔다.&lt;br /&gt;&lt;br /&gt;서울지방국세청 국제거래조사국은 20일 업비트 운영사 두나무와 코빗을 상대로 세무조사에 착수한 것으로 알려졌다.&lt;br /&gt;&lt;br /&gt;서울청 국제거래조사국은 통상 외국기업·다국적 기업의 세금 문제나 역외탈세 방지 문제 등을 조사하는 부서다. 이번 세무조사는 부정기 특별 세무조사인 것으로 전해졌다.&lt;br /&gt;&lt;br /&gt;이에 이들 가상자산 거래소의 역외 탈세 행위 등 해외 자금 거래 흐름을 들여다보는 것 아니냐는 관측이 나온다. 조사 결과 외국환거래법 위반 혐의가 포착되면 검찰 고발로 이어질 수 있다.&lt;br /&gt;&lt;br /&gt;한편 업비트는 고객확인제도(KYC) 위반 등 자금세탁방지 의무를 이행하지 않았다는 이유로 금융당국으로부터 제재를 통보 받았다. 김병환 금융위원장은 18일 국회 업무보고에서 업비트 제재심이 길어지고 있다는 지적에 "조속히 결론 내겠다"고 말했다.</description>
-			<pubDate>Fri, 21 Feb 2025 04:29:26 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/205801</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/205801</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/205801.jpg</media:thumbnail>
-			<dc:creator>임현경 기자</dc:creator>
-		</item>
-		<item>
-			<title>공수처, 국방정보본부장 사무실 압수수색...'계엄 사전 논의' 의혹</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/205802.jpg" alt="23425.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;《사진=연합뉴스》&lt;/figcaption&gt;   &lt;/figure&gt;&lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;12·3 비상계엄 사태를 수사 중인 고위공직자범죄수사처(공수처)가 원천희 국방정보본부장에 대한 강제수사에 착수했다. &lt;br /&gt;&lt;br /&gt;공수처는 21일 서울 용산구에 위치한 원 본부장의 국방정보본부 사무실 등을 압수수색하고 있다고 밝혔다. &lt;br /&gt;&lt;br /&gt;원 본부장은 비상계엄 전날인 지난해 12월 2일 문상호 전 정보사령관, 김용현 전 국방부 장관과 만난 것으로 알려졌다. 이들은 이 자리에서 비상계엄을 사전 논의했다는 의혹을 받는다. &lt;br /&gt;&lt;br /&gt;공수처는 원 본부장이 계엄 선포 뒤 부정선거 관련 수사를 담당할 예정이었던 제2수사단 논의에도 관여했는지 들여다보고 있다. &lt;br /&gt;&lt;br /&gt;지난달 23일 경찰 국가수사본부 특별수사단도 원 본부장을 내란 혐의 피의자 신분으로 조사했다고 밝혔다.</description>
-			<pubDate>Fri, 21 Feb 2025 04:27:36 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/205802</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/205802</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/205802.jpg</media:thumbnail>
-			<dc:creator>임현경 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
