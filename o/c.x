@@ -13,6 +13,78 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>[속보] 尹대통령 탄핵심판 마지막 변론 시작…尹 아직 출석 안해</title>
+      <link>https://www.chosun.com/national/court_law/2025/02/25/WNPXV4HSHVFA3NG3IXPMQM7S7Y/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/02/25/WNPXV4HSHVFA3NG3IXPMQM7S7Y/</guid>
+      <dc:creator>이슬비 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 25 Feb 2025 05:12:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SF3XEA227NIH36422JVNER4ILU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령이 20일 오후 서울 종로구 헌법재판소 대심판정에서 열린 탄핵심판 10차 변론 기일에 출석해 변호인과 대화하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>홍준표 “명태균특검법도 좋다... 수사든, 조사든 마음대로 해라”</title>
+      <link>https://www.chosun.com/national/regional/2025/02/25/OKSNXW55VRGUBJZWDJEGEYMCTY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/02/25/OKSNXW55VRGUBJZWDJEGEYMCTY/</guid>
+      <dc:creator>대구=노인호 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 25 Feb 2025 05:03:31 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/A5DU7MVOPZBD3CTV3KZXXLWV5E.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;/홍준표 대구시장 페이스북 캡처&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;홍준표 대구시장은 25일 명태균씨와 3차례 만남을 가졌다는 의혹 등에 대해 “명태균 특검이든 중앙지검 검찰 조사든 나는 아무런 상관없으니 마음대로 해보세요”라고 밝혔다. &lt;br&gt;&lt;br&gt;홍 시장은 이날 자신의 페이스북에 올린 글을 통해 이같이 밝히며 “내가 사기꾼과 작당한 게 있어야 문제가 되는 거지 털끝만큼도 관련 없다”며 “사기꾼의 거짓말이 나라를 뒤흔드는 세상, 그거 정상 아니다”라고 주장했다. &lt;br&gt;&lt;br&gt;홍 시장은 또 “수많은 범죄를 저지르고 기소된 사람이 뻔뻔하게 대선에 나오겠다고 설치면서 옛날처럼 김대업 병풍 공작을 또 하겠다는데 국민들이 또 속을까요?”라며 글을 마무리했다. &lt;br&gt;&lt;br&gt;이어 홍 시장의 최측근으로 평가받는 정장수 대구시 경제부시장도 이날 기자회견을 갖고 “명태균씨 법률대리인인 남상권 변호사가 전날 한 라디오방송에 출연해 명씨와 홍 시장이 3차례 만났다고 주장했는데 이는 완전한 날조”라며 “두 사람이 만났다고 남 변호사가 언급한 날짜에 홍 시장 일정 등을 확인한 결과 제3자를 통해 거짓임을 확인할 수 있다”고 주장했다. &lt;br&gt;&lt;br&gt;여론조사 비용 대납 의혹과 관련해 그는 “대선 당시 여론 조작의 최대 피해자인 홍 시장이 가해자인 명씨에게 여론조사를 의뢰한다는 것이 상식적으로 말이 되느냐”며 “여론조사와 관련해 홍 시장이 관련된 것은 전혀 없다”고 반박했다. &lt;br&gt;&lt;br&gt;정 부시장은 “명씨는 더불어민주당에 붙어 살길을 찾는 중”이라며 “명씨 측을 명예훼손은 물론 낙선 목적 허위 사실 공표 등 선거법 위반 혐의로 고발할 예정이고, 이번이 9번째”라고 밝혔다. &lt;br&gt;&lt;br&gt;끝으로 정 부시장은 “명태균 특검도 반대하지 않는다. 중요한 시기 국민 혼란이 없도록 최대한 빨리 수사해달라”고 강조했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘암호화폐 거래하러 갔다가...’ 제주 특급호텔서 중국인 살해당했다</title>
+      <link>https://www.chosun.com/national/regional/2025/02/25/TFMWXJPCP5H6PKTEYGCTWWIDTY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/02/25/TFMWXJPCP5H6PKTEYGCTWWIDTY/</guid>
+      <dc:creator>제주=오재용 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 25 Feb 2025 05:05:43 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VFU6B4WR7RDHZJ3SEC5HXD5A64.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰/조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 24일 제주시내 한 특급호텔에서 숨진 채 발견된 중국인은 암호화폐를 거래하는 과정에서 변을 당한 것으로 추정된다.&lt;br&gt;&lt;br&gt;제주서부경찰서는 살인 사건 관련 피의자로 30대 중국인 여성 A 씨와 B 씨, 30대 중국인 남성 C 씨, 60대 중국인 남성 D 씨 등 4명을 긴급 체포해 수사하고 있다고 25일 밝혔다.&lt;br&gt;&lt;br&gt;이들은 지난 24일 오후 제주시내 한 특급호텔 객실에서 30대 중국인 남성 E 씨를 살해하고 피해자가 가지고 있던 8500만원을 챙겨 달아난 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;이 사건은 피해자 지인이 이날 오후 5시10분 “호텔에 암호화폐를 거래하러 갔던 E 씨가 연락되지 않는다”는 112 신고를 접수하면서 알려졌다. 경찰이 출동했을 당시 피해자는 이미 흉기에 수차례 찔려 숨진 뒤였다.&lt;br&gt;&lt;br&gt;이후 A 씨는 서귀포 한 파출소에서 자수해 긴급체포됐으며, 나머지 피의자들은 각각 공항과 호텔 카지노 등에서 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;경찰은 피의자들을 상대로 자세한 사건 경위와 범행 동기 등을 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>김건희 여사, ‘숙명여대 석사 논문 표절’ 확정 수순</title>
+      <link>https://www.chosun.com/national/national_general/2025/02/25/SZ2OKMQ2O5G6JG7A63WGNLXYLM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/02/25/SZ2OKMQ2O5G6JG7A63WGNLXYLM/</guid>
+      <dc:creator>고유찬 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 25 Feb 2025 05:00:55 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5C6OEFQ2ZOACFMAWAXWAT6NWRA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;숙명여대 전경. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 대통령의 배우자 김건희 여사의 석사학위 논문이 표절이라는 조사 결과에 대해 김 여사도, 의혹을 제기한 측도 이의신청을 하지 않았다.&lt;br&gt;&lt;br&gt;이에 따라 조사 결과는 확정 수순을 밟게 됐다.&lt;br&gt;&lt;br&gt;김 여사의 논문 표절 의혹을 제기한 숙명여대 민주동문회 측은 25일 “이의를 신청하지 않기로 결정하고 학교에 오늘 통보했다”고 밝혔다.&lt;br&gt;&lt;br&gt;동문회 측의 이의신청 기한은 다음 달 4일이었다.&lt;br&gt;&lt;br&gt;앞서 김 여사는 이의신청 기한인 이달 12일까지 조사 결과에 대해 별도의 의견을 내지 않았다.&lt;br&gt;&lt;br&gt;김 여사는 지난 1999년 숙명여대 교육대학원에서 미술교육학 석사 학위를 취득한 바 있다. 당시 제출한 논문인 ‘파울 클레(Paul Klee)의 회화의 특성에 관한 연구’가 표절 논란에 휩싸였다.&lt;br&gt;&lt;br&gt;논란이 일자 숙명여대는 2022년 연구윤리진실성위원회(연진위)를 구성해 조사에 착수했고, 잠정적으로 표절이라는 결론을 김 여사와 민주동문회에 통보했다.&lt;br&gt;&lt;br&gt;논문의 표절 여부를 심사한 연진위는 앞으로 최대 60일 안에 후속 절차를 논의해 총장에게 보고하며, 최종적으로 학내 교육대학원위원회가 학위 취소 등 징계 수위를 결정하게 된다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>한의사들 “앞으로 엑스레이 적극 쓰겠다”</title>
+      <link>https://www.chosun.com/national/welfare-medical/2025/02/25/EL3PIX357REGBHVTQH4T6SXEIY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/02/25/EL3PIX357REGBHVTQH4T6SXEIY/</guid>
+      <dc:creator>강다은 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 25 Feb 2025 04:53:42 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WOB7LJM6IKOPQ2ZKR7C6UBIDNA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;25일 오전 서울 중구 프레스센터에서대한한의사협회가 '한의사의 X-RAY 사용 선언' 기자회견을 하고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한의사들이 앞으로 진료에 엑스레이(X-ray)를 적극적으로 활용하겠다고 선언했다. 또 현행 보건복지부령 상 ‘방사선 사용’ 자격 기준에 한의사를 포함시킬 것을 촉구했다.&lt;br&gt;&lt;br&gt;대한한의사협회(한의협)는 25일 서울 한국프레스센터에서 기자회견을 열고 협회 임원들부터 앞장서서 엑스레이 기기를 구비해 진료에 활용하겠다고 밝혔다. 엑스레이 사용을 제일 먼저 시작하겠다고 한 정유옹 한의협 수석부회장은 “과학의 산물을 활용해 최상의 의료서비스를 제공하는 것은 의료인으로서 너무나 당연한 권리이자 의무”라고 말했다.&lt;br&gt;&lt;br&gt;한의사들이 돌연 엑스레이 사용을 선언하고 나선 배경은 엑스레이 기기를 사용하다 기소된 한의사가 최근 법원에서 무죄 판결을 받은 데 따른 것이다. 수원지방법원은 엑스레이 방식의 골밀도 측정기를 환자 진료에 사용해 의료법 위반 혐의로 기소된 한의사 A씨에 대한 항소심에서 지난달 17일 1심 판결과 같은 무죄를 선고했다. 검찰이 상고하지 않기로 결정하면서 이 판결은 최종 확정되자 본격적인 행동에 나선 것이다.&lt;br&gt;&lt;br&gt;한의협은 한의원에서의 엑스레이 활용이 환자의 진료 선택권과 진료 편의성을 높일 것이라고 환자의 편의를 높일 것이라고 주장했다. 가령 근골격계에 질환이 있는 환자가 한의원에서 치료를 받고싶어도 현재는 엑스레이 촬영을 병원에서 하고, 다시 한의원에 가야 한다. 그런데 엑스레이 촬영을 한의원에서 할 수 있으면 환자의 불편과 진료 비용 모두 줄어든다는 것이다. &lt;br&gt;&lt;br&gt;그러면서 한의사들은 ‘진단용 방사선 안전관리책임자의 자격기준’에 한의사를 포함할 것으로 요구했다. 한의협은 “현행 보건복지부령인 ‘진단용 방사선 발생장치의 안전관리에 관한 규칙’의 진단용 방사선 안전관리책임자의 자격 기준에 한의사가 누락돼 있어 한의원에 엑스레이 설치하는 데 난항을 겪고 있다”고 설명했다.&lt;br&gt;&lt;br&gt;반면 의사들은 반발하고 있다. 앞서 대한의사협회는 “한의사의 엑스레이 진단은 국민 생명을 위협한다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>수험생 정보 빼내 ‘마음에 든다’ 연락한 수능 감독관... 대법서 무죄 난 이유</title>
+      <link>https://www.chosun.com/national/court_law/2025/02/25/IUM45XGSHNBFNNRHYVPCTBELVY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/02/25/IUM45XGSHNBFNNRHYVPCTBELVY/</guid>
+      <dc:creator>김나영 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 25 Feb 2025 04:40:03 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ANVC6GAFJFCAFMLPW2ZQKQSFEQ.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초동 대법원 건물/2022.04.05 이명원 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;수험생의 개인정보로 사적 연락을 취한 시험 감독관을 처벌할 수 없다는 법원 판단이 나왔다. 감독관은 개인정보를 처리하는 사람으로, 옛 개인정보보호법이 규정하는 처벌 대상이 아니라는 것이다.&lt;br&gt;&lt;br&gt;25일 법조계에 따르면 대법원 제3부(주심 오석준 대법관)는 최근 개인정보보호법위반으로 기소된 A씨에 대해 무죄 취지로 파기환송했다.&lt;br&gt;&lt;br&gt;서울시 공립학교 교사인 A씨는 2018년 11월 강동구에 있는 한 고등학교에서 대학수학능력시험 감독업무를 맡았다. 이 과정에서 수험생들의 개인정보가 적힌 응시원서를 통해 수험생 B의 연락처를 알게 됐고, 같은 달 B씨에게 “사실 B씨가 맘에 들어서요” 등의 메시지를 보냈다.&lt;br&gt;&lt;br&gt;쟁점은 A씨를 ‘개인정보처리자로부터 개인정보를 제공받은 자’로 볼 수 있는지 여부였다. 개인정보보호법 제19조는 ‘개인정보처리자로부터 개인정보를 제공받은 자가 개인정보를 목적 외의 용도로 이용하거나 이를 제3자에게 제공해선 안 된다’고 규정하고 있기 때문이다.&lt;br&gt;&lt;br&gt;1심은 A씨가 ‘개인정보취급자’에 불과하다고 보고 무죄로 판단했다. 하지만 2심은 “원심은 개인정보를 두텁게 보호하고자 하는 개인정보보호법의 입법목적을 저해한다”며 1심을 뒤집고 A씨에게 징역 4개월과 집행유예 1년을 선고했다. A씨는 2020년 항소심 결과에 불복해 상고했다.&lt;br&gt;&lt;br&gt;대법원도 A씨를 무죄로 판단했다. 재판부는 “공립학교 교사인 피고인은 서울특별시교육청의 지휘·감독 하에 수험생들의 개인정보를 처리한 개인정보취급자에 해당할 뿐, ‘개인정보를 제공받은 자’로 보기 어렵다”고 했다.&lt;br&gt;&lt;br&gt;다만 2023년 3월 개인정보보호법에 ‘개인정보를 처리하였던 사람이 다른 사람의 개인정보를 이용하는 행위를 금지한다’는 조항이 신설되면서 향후 A씨와 비슷한 행위에 대해선 처벌할 수 있게 됐다. 대법원 관계자는 “이 사건에 적용되는 구법 하에서는 피고인의 행위를 개인정보보호법위반죄로 처벌하기 어려우나, 개정된 현행법에서는 처벌할 수 있는 행위”라고 설명했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“인도공화당에 정치적 피습” 가짜 난민 신청서 지어낸 브로커 등 검거</title>
+      <link>https://www.chosun.com/national/national_general/2025/02/25/IWFKVUBQOVD4XBXTS5ALFIINKU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/02/25/IWFKVUBQOVD4XBXTS5ALFIINKU/</guid>
+      <dc:creator>구아모 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 25 Feb 2025 04:35:49 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3MWF4BU3FNEBDDAAKH3FVYZH2Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법무부 출입국 사무소에 난민을 신청하는 과정에서 브로커가 조작한 서류 모습. 남편의 학대 등을 이유로 난민인정 신청을 적었다./서울경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;허위 난민 신청을 알선한 인도인 브로커 2명이 경찰에 구속됐다. 이들은 출입국 사무소에 난민 신청서를 넣으면 심사 과정 동안 평균 4년은 체류할 수 있다는 점을 이용해 범행을 저지른 것으로 나타났다.&lt;br&gt;&lt;br&gt;서울경찰청 마약범죄수사대 국죄범죄수사계는 관광비자를 통해 국내 취업을 목적으로 입국한 인도인 8명을 대상으로, 거짓 사유를 꾸며 허위 난민 신청을 알선한 브로커 2명을 출입국관리법 위반 혐의로 검찰에 송치했다고 25일 밝혔다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2LCPA3FYZJDK3EVBZRXRB6NNI4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;허위 난민 신청 과정에서 낸 고시원 입실 원서 모습. /서울경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰에 따르면 이들은 2023년 12월부터 2024년 3월까지 취업 목적으로 입국한 인도인 8명에게서 건당 300~1000달러의 수수료를 받은 뒤, 가짜 고시원 입실원서와 거짓 난민 신청 사유를 기재·첨부해 관할 출입국 사무소에 제출하도록 알선한 혐의를 받고 있다. &lt;br&gt;&lt;br&gt;경찰은 작년 7월 출입국 사무소로부터 같은 고시원에 사는 외국인들이 다수의 허위 난민 신청을 하고 있다는 첩보를 입수해 수사에 착수했다. 브로커들은 한 달 치 고시원 사용료만 내고 입실원서를 받아 난민들에게 나눠준 것으로 나타났다. 해당 인도인들은 실제로 고시원에 체류하지 않은 것으로 확인됐다. &lt;br&gt;&lt;br&gt;브로커들은 ‘남편의 학대’ ‘정치 단체로부터 피습’ ‘힌두교 아닌 종교(기독교 등) 개종에 따른 피습’ 등의 난민 사유를 꾸며낸 것으로 드러났다. 이들이 제출한 한 가짜 난민 신청서를 보면, ‘나는 48세 인도인 여성인데, 가족들에게 버려져서 결혼에 갇혔다는 기분이 든다’ ‘남편이 나를 부정하다고 하며 신체적 언어적 학대를 한다’고 적었다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YWFNPR7RXJC7JIGNGZKKY3S2KQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;난민인정신청서 모습. /서울경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;일당은 난민 신청을 할 경우 행정소송 등 불복 절차를 이용해 최소 4년 이상 국내에 체류할 수 있다는 제도적 결함을 악용했다고 경찰은 전했다. 난민심 신청을 심사하는 데 14개월, 이의신청을 심사하는 데 17.9개월, 소송까지 22.4개월로 평균 4년 이상이 소요된다. &lt;br&gt;&lt;br&gt;실제로 난민 지위를 이용해 취업하며 경제적 이익을 취한 인도인 신청자들의 사례가 확인됐다고 경찰은 밝혔다. 경찰은 “브로커 2명도 난민 신청 자격을 통해 체류하고 배달업 등을 하며 한국에 체류했다”고 했다.&lt;br&gt;&lt;br&gt;난민 신청자 관리 체계를 보완해야 한다는 지적이 나온다. 법무부 출입국 통계에 따르면 지난해 국내 난민 신청 건수는 1만8336건에 불과한 반면, 난민으로 인정된 건수는 105건으로 인정 비율이 0.57%에 그쳤다. &lt;br&gt;&lt;br&gt;국내 난민 신청 외국인들의 국적은 주로 러시아, 중국, 인도, 카자흐스탄 등으로 나타나, 실제 내전 등으로 난민 발생이 많은 국가들과는 큰 차이를 보인다고 경찰은 밝혔다. 유엔난민기구 통계에 따르면 아프가니스탄, 시리아, 베네수엘라, 남수단, 우크라이나가 전 세계 난민 발생 상위 국가 5국으로 꼽힌다. &lt;br&gt;&lt;br&gt;경찰은 “보호의 필요성이 상대적으로 적은 국가의 외국인들의 무분별한 난민 신청이 이뤄진다”고 했다. 난민인정을 제한하거나 취소할 수 있는 사유가 극히 제한적이고, 난민위원회 심사 결정 처리 기간이나 난민 신청 횟수 제한 등이 없다고도 밝혔다. 허위 난민 신청자나 범죄자 등 인도적 보호 필요성이 없는 대상자에 대한 제재 규정도 미비하다고 경찰은 전했다. &lt;br&gt;&lt;br&gt;경찰은 브로커들이 알선해 입국한 허위 난민 신청자들의 소재지를 추가로 파악해 검거할 방침이라고 밝혔다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘尹탄핵 반대’ 국민변호인단, 19만 탄원서 헌재 제출</title>
+      <link>https://www.chosun.com/national/national_general/2025/02/25/LIMJNOJBTVCEJLZ7YAHIXDOW3A/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/02/25/LIMJNOJBTVCEJLZ7YAHIXDOW3A/</guid>
+      <dc:creator>고유찬 기자, 한영원 기자, 양인성 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 25 Feb 2025 03:35:47 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IMX35AE7Y5LKVGS7LUSGIWEB2Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;25일 서울 종로구 헌법재판소 앞에서 열린 대통령 국민변호인단 탄핵반대 탄원서 제출 기자회견에서 대학생 및 참가자들이 구호를 외치고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 대통령을 지지하는 모임인 ‘대통령 국민변호인단’이 대통령 탄핵심판 최종변론이 열리는 25일 헌법재판소에 윤 대통령 탄핵을 반대하는 탄원서를 제출했다. 이들은 윤 대통령의 직무 복귀를 요청했다.&lt;br&gt;&lt;br&gt;해당 탄핵 반대 탄원에는 이날 오전까지 19만1495명이 참가했다.&lt;br&gt;&lt;br&gt;국민변호인단은 이날 오전 11시 서울 종로구 헌재 앞에서 기자회견을 열고 “윤 대통령의 진심과 대한민국의 현실을 직시하게 된 국민들은 이제 윤 대통령의 직무 복귀를 간절히 원하고 있다”고 했다. 그러면서 “국민의 48%가 투표를 통해 윤 대통령을 선택했고, 지금도 그와 비슷하거나 그 이상의 국민이 윤 대통령을 지지하고 있음을 확인할 수 있다”고 주장했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SU7SKVWNUNMVRNT25D5MNBVL7Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;25일 서울 종로구 헌법재판소 앞에서 열린 대통령 국민변호인단 탄핵반대 탄원서 제출 기자회견에서 대학생 및 참가자들이 피켓을 들고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국민변호인단 측은 12.3 비상계엄과 관련해 “저희가 생각했던 그런 모습이 아니었다”며 “군인들이 무력으로 사회를 억압하는 모습이 아니었다”고 주장했다. 이어 “이후 정치권에서는 ‘탄핵이다, 내란이다’ 하는 선동이 시작됐고, 대통령이 정치인 체포 지시를 했으며, 부정선거 음모론에 심취해 있다는 뉴스가 언론을 도배했다”며 “저희가 지켜본 정상적인 절차의 진행과, 야당이 말하는 내란 선동과는 너무나 달랐다”고 했다.&lt;br&gt;&lt;br&gt;이들은 더불어민주당이 ‘의회 독재’를 하고 있다고 비판했다. 이들은 “다수결에 의한 폭력과 의회 독재가 무엇인지 절실히 깨달았다”며 야당이 단독으로 진행한 예산안 처리 등을 언급했다. 이어 “민주당은 대통령을 탄핵시키고 조기 대선을 통해 정권을 잡으려 혈안이 되어 있다”며 “이재명 대표야말로 국헌 문란자이고, 대한민국 국격 파괴자라고 생각한다”고 강조했다.&lt;br&gt;&lt;br&gt;헌법재판관들을 향해선 “국회의원 몇 사람이 모여 대통령을 끌어내리고 헌법재판관들이 모여 대통령을 파면한다는 것은 결코 민주주의가 아니다”라며 “이는 국민의 뜻을 거스르는 것”이라고 했다. 이어 “국민이 부른 대통령이 다시 국민에게 돌아와 다시금 대한민국을 만들 수 있도록 기회를 달라”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JBSL2SGRDRN6DNPLCGOTSD36OE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;25일 서울 종로구 헌법재판소 앞에서 열린 대통령 국민변호인단 탄핵반대 탄원서 제출 기자회견에서 대학생 및 참가자들이 피켓을 들고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 기자회견에서는 앞서 탄핵 반대 시국선언을 했던 대학의 학생 대표들이 나와 탄핵 반대 이유를 설명했다.&lt;br&gt;&lt;br&gt;연세대학교 학생인 권예영(27) 탄핵을 반대하는 대한민국 청년들 모임(탄대청) 대표는 “청년들이 탄핵에 반대하는 이유가 탄핵이 민주주의를 지키기 위한 것이 아닌 정치적인 목적을 지닌 ‘기획 탄핵’이기 때문”이라며 “민주당의 입법 폭거와 사법부를 망가뜨리고 법치주의를 망치는 것에 반발해 청년들이 깨어나고 있다”고 했다.&lt;br&gt;&lt;br&gt;고려대학교 교육학과 16학번 김미강(28)씨는 “저를 비롯한 청년들은 앞선 세대로부터 선물받은 자유민주주의 체제의 자유를 누리고 살고 있는데, 이는 다음 세대에게 물려줄 귀중한 유산이기에 대통령 탄핵에 반대한다”고 했다.&lt;br&gt;&lt;br&gt;기자회견 종료 후 국민변호인단 측은 헌재 민원실에 19만1495명이 서명한 탄핵 반대 탄원서를 제출했다.&lt;br&gt;&lt;br&gt;헌재는 이날 오후 2시 윤 대통령에 대한 탄핵 심판 최종 변론을 진행한다. 윤 대통령은 변론 막바지에 최후 진술을 통해 입장을 낼 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>[속보]서울세종고속도로 공사장 다리 붕괴… 최소 2명 사망, 5명 부상</title>
       <link>https://www.chosun.com/national/regional/chungcheong/2025/02/25/HMFLUKUFSZCAZPGLBGAUAW257U/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2025/02/25/HMFLUKUFSZCAZPGLBGAUAW257U/</guid>
@@ -795,46 +867,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HQGHEITAWBATBFB4RNHLGY4DZM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;오영훈 제주도지사가 24일 전거자전거를 타고 출근하고 있다./제주도&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제주 지역 공직자 200여명이 24일부터 전기자전거를 타고 출퇴근한다.&lt;br&gt;&lt;br&gt;제주도는 24일 ‘자전거 타기 좋은 제주 조성’ 캠페인 첫 사업으로 공직자 대상 ‘전기자전거 출퇴근 시범사업’ 발대식을 제주도청 현관 앞에서 열었다. &lt;br&gt;&lt;br&gt;오영훈 제주도지사도 이날 발대식에 맞춰 직접 전기자전거를 타고 출근했다. 오영훈 지사는 “자전거 도로 미표시로 반드시 내려서 걸어야 하는 등 불편함이 있었다”며 “공직자들이 먼저 나서서 자전거 이용 환경을 체크하고 마련하겠다는 것 자체가 대단히 큰 진전”이라고 말했다. 이어 “전기자전거는 제주의 높은 경사도가 있는 도로 구조에도 운동과 이동의 편의성 측면에서 균형을 이룬다”며 “전기자전거의 대중화는 제주도에 큰 기회가 될 것”이라고 말했다.&lt;br&gt;&lt;br&gt;이번 시범사업은 자발적으로 참여를 신청한 제주도와 도의회, 도교육청 소속 공직자 223명을 대상으로 오는 12월까지 진행한다.&lt;br&gt;&lt;br&gt;제주도는 공유 전기자전거 ‘지쿠’를 운영하는 ㈜지바이크와 협약을 체결했다. 이번 사업 참여 공직자들이 무료로 공유 전기자전거를 이용할 수 있도록 하고, 이용요금은 제주도가 지불하기로 했다.&lt;br&gt;&lt;br&gt;제주도는 매월 참여자들의 의견을 수렴해 전기자전거 이용 서비스 개선도 진행한다.&lt;br&gt;&lt;br&gt;제주도는 자전거전용도로 도입을 위해 우선 올해 3억원을 투입해 연삼로(신광사거리~도련초교 9.2㎞)와 연북로(노형초교~도련초교 11.2㎞)를 대상으로 자전거 전용도로 간선축 확충을 위한 타당성 조사와 기본계획을 수립한다.&lt;br&gt;&lt;br&gt;도시계획도로는 2028년까지 17개 노선 33.5㎞의 자전거도로가 병행 구축될 수 있도록 사업부서와 협업해 제주도 전역에 자전거 인프라를 확충할 예정이다. &lt;br&gt;&lt;br&gt;특히 전기자전거 구입 보조사업은 도민 200여 명에게 1인당 최대 50만원(구입금액의 50% 이내)을 지원할 계획이다.&lt;br&gt;&lt;br&gt;이밖에 자전거 시범학교 지정을 지난해에 이어 올해도 5곳을 더 확대할 예정이며, 서귀포시 강정마을 자전거투어 프로그램도 진행할 계획이다.&lt;br&gt;&lt;br&gt;이창민 제주도 15분도시추진단장은 “공직자들이 먼저 자전거 출퇴근을 실천하면서 발굴한 개선점을 자전거 이용 환경 개선에 적극 반영하겠다”며 “2025년을 자전거 타기 좋은 제주 조성 원년으로 삼고, 차량 중심에서 사람 중심의 교통체계로 전환할 것”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>경찰 “캡틴 아메리카 복장 40대男, 美 국적 아냐…육군 병장 제대"</title>
-      <link>https://www.chosun.com/national/2025/02/24/IAQH25QTPVAPJMFHRJ6UPXCXQY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2025/02/24/IAQH25QTPVAPJMFHRJ6UPXCXQY/</guid>
-      <dc:creator>주형식 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 24 Feb 2025 03:21:27 +0000</pubDate>
-      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LODL7WU2HRBFREH6WJ3EXK2FQM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 14일 '캡틴 아메리카' 복장으로 서울 중구 명동 중국대사관에 난입을 시도하다가 경찰에 체포된 안 모씨./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;영화 캐릭터 ‘캡틴아메리카’ 복장으로 주한중국대사관과 경찰서에 난입해 구속된 안모(42)씨 신분과 관련해 경찰이 수사 중이다.&lt;br&gt;&lt;br&gt;서울경찰청 관계자는 24일 정례 기자간담회에서 “(안 씨는) 현재 미국 국적은 아니다. 육군 병장으로 제대한 것은 확인됐다”며 “본인 진술 외에 가족 진술까지도 확인하고 있다”고 설명했다.&lt;br&gt;&lt;br&gt;안씨는 자신이 ‘계엄 당일 계엄군이 선관위 연수원에서 중국인 99명을 체포했다’는 내용을 보도한 매체의 취재원이라고도 주장하고 있다. 이와 관련해 현재 서울경찰청 사이버수사대는 선관위가 공무집행방해, 명예훼손 등 혐의로 해당 매체와 기자를 고발한 건을 수사 중이다. 경찰은 해당 매체 기자에 대한 조사를 마친 뒤 취재원을 자처하는 안 씨에 대해서도 지난 22일 참고인 신분으로 조사했다고 밝혔다. 경찰은 해당 매체의 다른 취재원에 대해서는 “현재 파악 중”이라며 수사를 지속한다는 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/LODL7WU2HRBFREH6WJ3EXK2FQM.jpg?width=479&amp;height=359&amp;auth=3f6fdf84fc9fbaa0ea680a3bf4307c26fddcad385cf2ca88800a8712518c74d0&amp;smart=true" type="image/jpeg" height="359" width="479">
-        <media:description type="plain">지난 14일 '캡틴 아메리카' 복장으로 서울 중구 명동 중국대사관에 난입을 시도하다가 경찰에 체포된 안 모씨./연합뉴스</media:description>
-        <media:credit role="author" scheme="urn:ebu">연합뉴스</media:credit>
-      </media:content>
-    </item>
-    <item>
-      <title>고려대 교직원, 박물관에 익명으로 유물 700여점 기증…감정가 1억700만원</title>
-      <link>https://www.chosun.com/national/national_general/2025/02/24/5EY3TPAONJEKXOXDCDDYVKFVXE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/02/24/5EY3TPAONJEKXOXDCDDYVKFVXE/</guid>
-      <dc:creator>장윤 기자, 양인성 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 24 Feb 2025 03:24:26 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OQPZ63RFOBA2PPJCSAI4G2HUUU.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;지난 21일 고려대 소속 익명의 교직원이 고려대 박물관에 기증한 간찰집./고려대 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;고려대는 지난 21일 학교 교직원이 감정가 1억700만원 상당의 유물 700여점을 익명으로 고려대 박물관에 기증했다고 24일 밝혔다. &lt;br&gt;&lt;br&gt;고려대에 따르면 이 교직원이 기부한 유물에는 집안에서 보관하던 간찰집 6질, 고서, 한국 근현대화, 반닫이, 병풍 등이 포함됐다. 제작 시기는 조선 중기부터 일제강점기까지다.&lt;br&gt;&lt;br&gt;고려대 박물관은 이 교직원이 “고려대에서 10년 넘게 근무하며 고려대 박물관을 자주 다녔다”며 “집에서 대대로 간직하고 있던 물건들인데 필요한 곳에서 유용하게 활용되는 것이 더 의미가 있을 것으로 생각했다”고 말했다고 전했다. 또 이 교직원은 “해당 자료가 전시뿐 아니라 연구나 학습에 도움이 되기를 바란다”고 전했다. &lt;br&gt;&lt;br&gt;이 교직원은 작년 겨울 처음 고려대에 유물 기증 의사를 밝혔고, 최근 기증 유물 심의가 마무리되며 유물이 박물관에 기증됐다. 고려대 박물관은 기증된 유물을 전시할 시기를 검토하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘국내 석유화학 인재의 산실’ 서울대 화생공 석박사 과정 지원 미달</title>
-      <link>https://www.chosun.com/national/national_general/2025/02/24/SXMPNNYO6NFKVM22PKEM3IFWVI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/02/24/SXMPNNYO6NFKVM22PKEM3IFWVI/</guid>
-      <dc:creator>강지은 기자, 김혜민 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 24 Feb 2025 03:21:08 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DIAU7AZDRFA7LP3KGBX4DAH37I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울대학교 정문./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난해 서울대 화학생물공학부 석박사 통합 과정의 경쟁률이 0점대를 기록한 것으로 24일 나타났다. 3년 반만의 일이다. 중국발 공급과잉과 친환경 에너지로의 전환 등의 이유로 산업 경쟁력이 약화됐기 때문이라는 분석이 나온다.&lt;br&gt;&lt;br&gt;서울대가 정성국 국민의힘 의원에게 제출한 자료를 보면, 작년 2학기 서울대 화학생물공학부 석박사 통합 과정 모집인원은 17명이고, 지원자 수는 16명이었다. 모집 정원보다 지원자가 적어 경쟁률이 1점대 아래로 떨어진 것은 2021년 1학기 이후 처음이다. 같은 기간 석사 과정 지원자는 9명으로, 모집인원 8명보다 1명 더 많았다.&lt;br&gt;&lt;br&gt;다만 올해 1학기 석사 과정 경쟁률은 1.44대 1, 석박사 통합 과정 경쟁률은 1.21대 1을 기록하며 소폭 반등했다.&lt;br&gt;&lt;br&gt;서울대 화학생물공학부는 우리나라의 석유화학 분야 인재의 산실이다. 이훈기 전 롯데케미칼 대표, 홍정권 한화솔루션 큐셀부문 대표가 화학생물공학부의 전신인 서울대 화학공학과 출신이다.&lt;br&gt;&lt;br&gt;석유화학을 공부하려는 학생들이 줄어든 원인으로는 석유화학 업계의 부진이 꼽힌다. 국내 석유화학 산업은 2018년만 해도 수출의 약 8.2%(약 500억달러)를 달성하며 ‘수출 효자’ 역할을 했다. 그러나 현재는 글로벌 공급 과잉으로 구조 조정 1순위에 놓였다. 중국의 대규모 설비 증설로 경쟁력을 잃었다는 분석이 나온다. 이에 지난해 정부는 장관 회의를 열고 석유화학 업계에 대한 지원책이 담긴 ‘석유화학 산업 경쟁력 제고 방안’을 내기도 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>강남구 리모델링 공사장서 추락 사고…작업하던 50대 일용직 노동자 사망</title>
-      <link>https://www.chosun.com/national/national_general/2025/02/24/S6D34OPSIJDJVKJ2YTKM7MYQ7U/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/02/24/S6D34OPSIJDJVKJ2YTKM7MYQ7U/</guid>
-      <dc:creator>김병권 기자, 안태민 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 24 Feb 2025 03:33:03 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SB4FQCE32DMVX7Q6UCA7TBPPUU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 강남경찰서/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 강남구의 한 리모델링 공사 현장에서 작업 중이던 50대 노동자가 추락해 사망했다. &lt;br&gt;&lt;br&gt;서울 강남경찰서는 이날 오전 7시 52분쯤 서울 강남구 삼성동 공사 현장에서 미장 작업 중이던 50대 남성 일용직 노동자 A씨가 지상 1층에서 지하 1층으로 약 4~5m가량 떨어져 숨졌다고 24일 밝혔다.&lt;br&gt;&lt;br&gt;이 사고로 A씨는 중증외상을 입고 심폐소생술(CPR)을 받으며 인근 병원으로 옮겨졌으나 끝내 사망했다. 소방이 출동했을 당시에 A씨는 이미 심정지 상태였다고 한다. &lt;br&gt;&lt;br&gt;공사장 관계자는 경찰 조사에서 “갑자기 뒤쪽에서 ‘퉁’ 하는 소리가 났다”며 “소리가 들려 돌아보니 A씨가 떨어진 것을 확인했다”고 말한 것으로 전해졌다. 경찰은 정확한 사고 경위를 들여다보는 한편, 공사장 관리자 등을 업무상 과실치사 혐의로 조사할 예정이다. 경찰은 A씨에 대한 부검도 진행할 계획이다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>세계적 작가라더니...‘DJ 고향’ 하의도 천사상, 사기 전과자 작품이었다</title>
       <link>https://www.chosun.com/national/incident/2025/02/24/3NP3POEXP5ARTELUKHDLZUQ73A/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/02/24/3NP3POEXP5ARTELUKHDLZUQ73A/</guid>
@@ -866,28 +898,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Y345MWXES2YKXF5QGFOCYYQKS4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;20대 청년이 도움받은 마트 주인에게 건넨 쪽지 자료사진./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;생활고를 겪을 당시 단골 수퍼마켓 사장에게 도움을 받았던 20대 청년이 취업 후 감사의 뜻을 전한 사연이 뒤늦게 알려졌다. &lt;br&gt;&lt;br&gt;24일 경기 부천시에 따르면, 이 지역에서 수퍼마켓을 운영하는 A씨는 작년 하반기 단골 청년 B씨로부터 외상 요청을 받았다. B씨는 평소 이곳에서 캔커피 1개씩만 사 갔는데, 그날따라 “실직해서 너무 형편이 어려운데 라면 1개를 외상으로 줄 수 있느냐”고 했다. &lt;br&gt;&lt;br&gt;당시 B씨는 실직해 월세도 밀린 형편이었다고 한다. 수퍼마켓 주인은 B씨의 사정을 딱하게 여기고 그에게 라면과 즉석밥, 즉석 카레 등 5만원어치 생필품을 챙겨줬다.&lt;br&gt;&lt;br&gt;몇 달 뒤 수퍼마켓을 다시 찾은 B씨는 주인에게 봉투 하나를 건넸다. 이 봉투 안에는 “많은 금액은 아니지만 두 분 외식할 때 보태 쓰시면 기쁠 것 같습니다. 덕분에 살아 있습니다. 감사합니다”라는 손글씨 메모와 함께 현금 20만원이 담겨 있었다.&lt;br&gt;&lt;br&gt;그날 이후 취업에 성공한 B씨가 가게를 다시 찾아와 감사 인사를 전한 것이다. A씨는 나중에 청년에게 현금을 돌려준 것으로 알려졌다.&lt;br&gt;&lt;br&gt;이 일화는 작년 하반기 부천시 ‘온(溫)스토어’ 사업 중 있었던 사례다. 온스토어는 수퍼마켓, 편의점, 약국, 반찬 가게 등 동네 가게 종사자들이 주변의 어려운 이웃을 발견해 물품을 지원하면, 부천시가 기금에서 비용을 보전해주고 현장 조사를 거쳐 필요 복지 서비스를 제공하는 부천시의 복지 사업이다.&lt;br&gt;&lt;br&gt;현재 시에는 온스토어 134개가 지정돼 있다. 지금까지 1512명에게 생필품을 지원하고 시의 복지 서비스가 200여 건 연계됐다. 시는 사업 확대를 위해 대형 마트 등의 거점형 온스토어를 올해 최대 37개까지 지정할 방침이다.&lt;br&gt;&lt;br&gt;조용익 부천시장은 “촘촘하면서 따뜻한 부천형 스마트 복지·안전 시스템으로 위기가구를 신속히 발굴해 지원하고, 복지 서비스의 질적 향상을 위해 계속 노력하겠다”고 말했다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>경찰 “전광훈 목사 수사, 시간 좀 걸려”</title>
-      <link>https://www.chosun.com/national/2025/02/24/KADRDGW3RZENHCJMEL2I546ODE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2025/02/24/KADRDGW3RZENHCJMEL2I546ODE/</guid>
-      <dc:creator>주형식 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 24 Feb 2025 03:06:08 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2U36ITQKLJHUQKGMOKVRRRXCTQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전광훈 사랑제일교회 목사가 지난 5일 오전 서울 여의도 자유통일당 당사에서 기자회견을 열고 내란 선동 혐의 관련 입장을 말하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰이 내란선동 등의 혐의로 고발된 전광훈 사랑제일교회 목사와 관련해 서울서부지법 난동 사태로 입건된 피의자 10명을 조사했다. &lt;br&gt;&lt;br&gt;서울경찰청 관계자는 24일 정례 기자간담회에서 “(이들이 전 목사와) 관련됐다고 단정하기는 어렵고, 관련성이 있다고 추정되는 인물들”이라며 이같이 밝혔다. 경찰은 법리 검토 및 채증 자료 등을 토대로 전 목사와 관련성이 있는 것으로 보이는 피의자들에 대한 조사를 이어갈 계획이다.&lt;br&gt;&lt;br&gt;경찰 관계자는 ‘전 목사에 대한 소환이 늦어진다는 지적이 있다’는 질문에 “피고발인 조사는 지금 말씀드릴 단계는 아니다”라며 “내란 선동·선전 혐의를 판단하려면 발언의 내용뿐만 아니라 맥락과 배경을 종합적으로 살펴야 하기 때문에 수사에 시간이 걸린다”고 답했다.&lt;br&gt;&lt;br&gt;경찰은 전 목사의 내란 선동 혐의에 대해 총 11건의 고발장을 접수했고, 해당 고발 건에 대한 고발인 조사를 완료했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/2U36ITQKLJHUQKGMOKVRRRXCTQ.jpg?width=4993&amp;height=3428&amp;auth=02d4f7ae01ba53f104051c88b0cb65a5c1d6ec8756e486c5cd3fd3cd8d2f52d3&amp;smart=true" type="image/jpeg" height="3428" width="4993">
-        <media:description type="plain">전광훈 사랑제일교회 목사가 지난 5일 오전 서울 여의도 자유통일당 당사에서 기자회견을 열고 내란 선동 혐의 관련 입장을 말하고 있다./뉴스1</media:description>
-        <media:credit role="author" scheme="urn:ebu">뉴스1 ⓒ News1 이재명 기자</media:credit>
-      </media:content>
-    </item>
-    <item>
-      <title>올해 봄꽃 작년보다 늦게 핀다...벚꽃 4월 초 만개</title>
-      <link>https://www.chosun.com/national/transport-environment/2025/02/24/WYJR5RQHJ5HJFIIAYTJYVC6HB4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/02/24/WYJR5RQHJ5HJFIIAYTJYVC6HB4/</guid>
-      <dc:creator>박상현 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 24 Feb 2025 02:55:26 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Y6OYAIB6JAJPPMIP4PZE4CYRWU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;산림청 ‘2025년 봄철 꽃나무 개화 예측지도’&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;길었던 ‘2월 한파’로 인해 올해 봄꽃은 작년보다 다소 늦게 필 것으로 전망됐다.&lt;br&gt;&lt;br&gt;24일 산림청이 발표한 ‘2025년 봄철 꽃나무 개화 예측지도’에 따르면, 올해 꽃나무 개화 시기는 3월 중순 제주도를 시작으로 남부지방을 거쳐 4월 초순 무렵 전국으로 확대될 것으로 예상됐다.&lt;br&gt;&lt;br&gt;작년 겨울(재작년 12월~작년 2월) 평균기온은 섭씨 0.7도로 평년과 비슷한 수준이었지만, 올겨울(작년 12월~올해 2월) 평균기온은 영하 1.8도로 지난해보다 2.5도 가량 낮아 개화가 늦어질 것으로 분석됐다.&lt;br&gt;&lt;br&gt;수종별 만개 시기는 생강나무 3월 26일, 진달래 4월 4일, 벚나무류는 4월 6일로 예측됐다.&lt;br&gt;&lt;br&gt;다만 올해 날씨가 예년과 달리 ‘더운 1월’을 거쳐 ‘추운 2월’을 보내며 보통의 겨울 패턴을 벗어났기 때문에, 봄의 시작인 3월에 기온이 크게 오를 경우 현재 예측된 개화 시기보다 봄꽃이 더 빠르게 필 가능성도 있다. &lt;br&gt;&lt;br&gt;산림청은 국립산림과학원의 산악기상정보를 바탕으로 국립수목원을 비롯해 전국 주요 9개 공립수목원과 협력해 개화·발아·단풍·낙엽 시기 등을 관측하고, 이를 바탕으로 매년 개화·단풍 예측지도를 발표하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>‘갑질 의혹’ 벗은 강형욱...“무혐의 처분 너무 기쁘다” </title>
       <link>https://www.chosun.com/national/people/2025/02/24/DEJFX42HMJGXFOJRLSVIA5ACR4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/people/2025/02/24/DEJFX42HMJGXFOJRLSVIA5ACR4/</guid>
@@ -895,15 +905,6 @@
       <description/>
       <pubDate>Mon, 24 Feb 2025 01:54:20 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WBZRD3EDBP7HIAHFYAVBNOT75M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;반려견 훈련사 강형욱./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;반려견 훈련사 강형욱이 직원 갑질 의혹에서 벗어난 뒤 복귀 소감을 전했다.&lt;br&gt;&lt;br&gt;강형욱은 지난 23일 자신의 인스타그램을 통해 “지난해 5월 제게는 어떤 일이 있었다. 다행히도 2주 전에 무혐의 처분을 받았다는 소식을 들어서 너무 기뻤다”고 적었다. &lt;br&gt;&lt;br&gt;이어 “죄송하고 너무 죄송하게도 딱 지난해 댕댕 트레킹 행사 중간에 일이 생겨서 제가 그렇게 좋아하는 댕댕 트레킹을 중간에 빠지게 됐다”며 “너무 아쉽고 정선까지 와주신 보호자님들과 댕댕이들한테 너무 미안하고 죄송했다”고 남겼다.&lt;br&gt;&lt;br&gt;그는 “지금 생각해도 너무 미안하다”며 “오는 5월에도 정선하이원에서 댕댕 트레킹이 열린다. 이번에는 제가 정말 사진도 다 찍어드리고, 사인도 해드리고 상담도 다 해드리겠다. 뭐든 다 해드리겠다”고 했다. &lt;br&gt;&lt;br&gt;경기북부경찰청 사이버수사1대는 지난 5일 정보통신망법 위반 혐의를 받은 강형욱과 그의 아내 수전 엘더를 ‘혐의 없음’으로 불송치 처분했다고 밝혔다.&lt;br&gt;&lt;br&gt;앞서 강형욱이 운영한 보듬컴퍼니 전 직원들은 지난해 5월 강형욱 부부가 직원들의 메신저를 무단으로 열람하는 등 직장 내 갑질을 했다며 경찰에 고소장을 제출했다. 이에 대해 강형욱 부부는 유튜브를 통해 해명 영상을 올리며 해당 의혹을 부인한 바 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>심폐소생술로 70대 시민 생명 구한 서대문구 공무원</title>
-      <link>https://www.chosun.com/national/national_general/2025/02/24/TQB6QDY3EVFYNG2PATUGA5A3G4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/02/24/TQB6QDY3EVFYNG2PATUGA5A3G4/</guid>
-      <dc:creator>구동완 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 24 Feb 2025 01:47:36 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4DDZ3HK6GRFKBE6N3X6EBCAY2Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 5일 현장에 도착한 119 구급대원들이 홍은2동주민센터 후문 계단 아래에 쓰러진 70대 남성 A씨에게 응급조치를 시행하고 있다. /서대문구&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“사람이 쓰러졌어요!”&lt;br&gt;&lt;br&gt;지난 5일 오전 11시 10분쯤 서울 서대문구 홍은2동주민센터. 한 주민의 다급한 외침 소리가 주민센터 안에 울려 퍼졌다. 소리를 들은 직원들이 밖으로 뛰어나오니 후문 계단 아래쪽에 70대 남성 A씨가 의식을 잃고 쓰러져 있었다. 이를 발견한 직원들은 즉시 119에 신고했다. 조동우 주무관은 A씨의 의식 상태를 확인했고 호흡이 없는 것을 감지, 곧바로 심폐소생술을 시작했다.&lt;br&gt;&lt;br&gt;조 주무관이 5분여간 심폐소생술을 실시하는 사이 119구급대가 도착했다. 구급대원들의 응급조치로 심장박동이 돌아온 A씨는 인근 병원으로 이송됐다. A씨는 심혈관 질환 진단을 받고 현재 입원 치료 중인 것으로 알려졌다.&lt;br&gt;&lt;br&gt;서대문구는 홍은2동주민센터 직원들의 신속한 구조 신고와 심폐소생술 시행으로 A씨의 생명을 구했다고 24일 밝혔다. A씨의 가족은 사고 다음 날 주민센터를 찾아 “긴급한 상황 가운데 빠르게 대처해 주셔서 생명을 구할 수 있었다”며 감사의 뜻을 전했다고 한다.&lt;br&gt;&lt;br&gt;이성헌 서대문구청장은 “쓰러진 사람을 발견하고 소리쳐주신 주민분과 한마음으로 도와준 동주민센터 직원들이 우리 사회에 사랑과 희망이 있음을 일깨워 주셨다”며 “누구라도 이 같은 상황을 접했을 때 대응할 수 있도록 주민 심폐소생술 교육에 힘쓰겠다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/U77DZT4DXJHGDHURYMFTZGYCEI.jpeg"&gt;&lt;figcaption&gt;&lt;small&gt;심폐소생술로 시민의 생명을 구한 서대문구 홍은2동주민센터 조동우 주무관(왼쪽 세 번째)이 비상 상황에 함께 힘을 모아 대처한 조중훈 동장(오른쪽 세 번째) 등 주민센터 직원들과 함께 기념 촬영을 하고 있다. /서대문구&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>연세대, 가수 싸이에게 명예졸업장 수여한다</title>
@@ -976,15 +977,6 @@
       <description/>
       <pubDate>Sun, 23 Feb 2025 16:15:17 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3UL46VLNVBA5NHSDFUU6SYXEGY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;22일 오후 대전 서구 보라매공원 일대에서 열린 탄핵 반대 집회 현장을 드론으로 촬영한 모습. 개신교계 단체 ‘세이브코리아’가 주최한 ‘국가 비상 기도회’다. 경찰 추산 1만7000명, 주최 측 추산 20만명이 공원을 가득 메웠다. 경찰은 “2007년 대전경찰청이 생긴 이후 대전에서 가장 많은 사람이 모인 집회”라고 했다. /남강호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;오는 25일 윤석열 대통령 탄핵 심판 변론 종결을 앞두고, 전국 곳곳에서 탄핵 반대 집회가 이어지고 있다. 지난 1일 부산역 광장을 시작으로 8일 동대구역 광장, 15일 광주광역시 금남로에 이어 22일에는 대전 보라매공원에서 대규모 탄핵 반대 집회가 열렸다.&lt;br&gt;&lt;br&gt;탄핵 반대 집회를 주도하고 있는 개신교계 단체 ‘세이브코리아’가 22일 오후 대전 서구 보라매공원에서 개최한 ‘국가 비상 기도회’에는 경찰 추산(비공식) 1만7000여 명, 주최 측 추산 20여 만명이 참가했다. 집회에 참가한 사람들은 보라매공원을 넘어 대전시청 앞 광장까지 약 250m 거리를 가득 메웠다. 대전경찰청 관계자는 “2007년 대전경찰청이 생긴 이후 가장 많은 사람이 모인 집회였다”고 말했다.&lt;br&gt;&lt;br&gt;세이브코리아가 주최하는 탄핵 반대 집회는 매주 열기를 높여가고 있다. 앞서 지난 1일 부산역 광장 집회에는 경찰 추산 1만3000명, 8일 동대구역 광장 집회에는 5만2000명, 15일 광주 금남로 집회에는 3만명이 몰렸다.&lt;br&gt;&lt;br&gt;이날 대전 보라매공원 집회에서는 ‘사기 탄핵 기각하라’ ‘좌파 사법 카르텔 인민재판 사법부 사망’ 등 자극적인 구호가 적힌 플래카드가 즐비했다. 순회 집회 때마다 탄핵 반대 목소리를 내고 있는 한국사 강사 전한길씨는 연단에 올라 “정치하시는 분들, 수사하고 계시는 분들, 헌법재판소 재판관님들, 이 국민들의 요구를 외면하지 말아 달라”며 “헌정 사상 유례없는 29번 탄핵으로 대통령도 없고, 국무총리와 국방부 장관도 없는 초유의 사태에 직면했다”고 말했다. 그러면서 “윤 대통령이 탄핵된다면 국민 혁명이 일어날 것”이라고 강조했다. &lt;br&gt;&lt;br&gt;이날 집회에는 국민의힘 의원들과 같은 당 소속 지방자치단체장들도 참석했다. 국민의힘 장동혁 의원은 “탄핵과 내란죄가 시작된 홍장원(전 국가정보원 1차장)의 메모가 정치인 체포 명단으로 바뀐 것은, 자고 일어나니 나무토막이 사람으로 바뀌었다는 것보다 더 믿기 힘든 일”이라고 말했다. 윤상현 의원은 “수사권 없는 공수처가 수사하고, 영장을 발부받은 것은 불법”이라고 했다. 국민의힘 소속인 이장우 대전시장, 조원휘 대전시의회 의장 등도 참석했지만 인사만 하고 따로 연설은 하지 않았다.&lt;br&gt;&lt;br&gt;2030 청년도 여럿 참석했다. 권예영 ‘탄핵을 반대하는 대한민국 청년들 모임’ 대표는 “여러 대학이 탄핵 반대 시국 선언을 했고, 오는 3·1절에는 전국 대학생 탄핵 시국 선언이 예정돼 있다”며 “스스로 깨닫고 일어난 청년들을 막을 수 없을 것”이라고 말했다. &lt;br&gt;&lt;br&gt;이어 시국 선언을 했거나 준비 중인 전국 여섯 대학교 학생들도 연단에 올랐다. 한동대 학생 김태범씨는 “재판관들은 헌법과 법률 양심에 따른 판결을 해야 한다”고 했고, 고려대 학생 유찬종씨는 “시국 선언을 한 학생들을 극우로 매도하고 폭력을 휘두르는 일은 멈춰야 한다”고 했다.&lt;br&gt;&lt;br&gt;이날 집회 현장에서는 가족 단위 참가자들이 눈에 띄었다. 네 살 아이를 안고 나온 김은정(33·대전)씨는 “다양한 의견을 가진 사람들이 있다는 것을 보여주고 싶어 가족과 함께 나왔다”며 “계엄은 민주당 때문 아니냐. 민주당이 그동안 어떤 행위를 했는지 돌아봤으면 좋겠다”고 했다. 대전 시민 염정순(41)씨는 “국민이 뽑은 대통령을 구속시킨 사법부가 편파적이라고 생각한다. 누구나 공정하게 재판받는 나라가 됐으면 좋겠다”고 했다.&lt;br&gt;&lt;br&gt;소상공인들도 목소리를 보탰다. 미용실을 운영하는 원기남(60)씨는 “이재명 대표의 대장동 재판은 질질 끌면서 대통령 탄핵 심판은 너무 서두르는 것 아니냐”며 “반나절 장사 안 하는 것보다 위기에 빠진 나라를 구하는 게 우선이라고 생각해 나왔다”고 했다. 충남 공주에서 식당을 운영하는 이민식(56)씨는 “나라가 혼란스럽고 소상공인들이 특히 어렵다”며 “답답해서 장사를 접고 집회에 나왔다”고 했다.&lt;br&gt;&lt;br&gt;손현보 세이브코리아 대표는 “다음 달 1일에는 서울 여의도에서 대규모 집회를 열겠다”며 “50만명 이상이 여의도 국회 앞에 모일 것”이라고 말했다.&lt;br&gt;&lt;br&gt;이날 대전뿐 아니라 전국 곳곳에서도 크고 작은 탄핵 반대 집회가 열렸다. 오후 2시쯤 전남 목포역 광장에서는 100여 명이 모여 탄핵 반대 목소리를 냈고, 대구 동성로와 인천 부평역 광장에서도 탄핵 반대 집회가 열렸다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[오늘의 날씨] 2025년 2월 24일</title>
-      <link>https://www.chosun.com/national/national_general/2025/02/24/VMSEC72OEBH4PB2Z4S4TXLESNA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/02/24/VMSEC72OEBH4PB2Z4S4TXLESNA/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Sun, 23 Feb 2025 15:30:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/B2FJVUZI65EAJBSFNPVPV3TC3I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
