@@ -13,6 +13,40 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>출근길 버스 안까지 밀려온 ‘물폭탄’…한겨울 물난리 난 수원, 무슨일</title>
+      <link>https://www.chosun.com/national/national_general/2025/02/26/5DJXMWDT6ZEBPL2FY5Y6EWKHBQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/02/26/5DJXMWDT6ZEBPL2FY5Y6EWKHBQ/</guid>
+      <dc:creator>김자아 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 25 Feb 2025 22:30:54 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QCLA7CD3BFDD7L4TBX7U5QWIRA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;25일 상수도관 파열로 침수된 수원 스타필드 인근 상황./온라인 커뮤니티&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 수원시 스타필드 인근에서 상수도관이 파손돼 도로가 침수되면서 출근길 시내버스 안까지 물이 들어차는 일이 벌어졌다.&lt;br&gt;&lt;br&gt;26일 수원시 등에 따르면 전날(25일) 오전 6시 7분쯤 화서동 숙지공원 삼거리에서 상수도관이 파열돼 대량의 수돗물이 유출됐다.&lt;br&gt;&lt;br&gt;파열된 상수도관에서는 한때 물이 5ｍ가량 솟구쳐 오른 것으로 알려졌지만, 인명 피해는 없었다.&lt;br&gt;&lt;br&gt;도로에 물이 차자 경찰은 배수 및 복구 작업을 위해 한때 화산지하차도~스타필드 수원을 오가는 도로 양방향 통행을 전면 통제했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7WI6RDHVHZE5TAPJKWIXC6BRQI.gif"&gt;&lt;figcaption&gt;&lt;small&gt;25일 수원 스타필드 인근 상황./온라인 커뮤니티&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;온라인 커뮤니티와 소셜미디어(SNS) 등에는 상수도 파열로 스타필드 인근이 물에 잠긴 모습이 담긴 영상이 올라오기도 했다. &lt;br&gt;&lt;br&gt;시내버스에 타고 있던 시민이 촬영한 영상에는 버스 안으로 물이 쉴 새 없이 밀려 들어오는 모습이 담겼다. 버스 전면 유리창에는 지붕 쪽에서 물이 계속해서 흘러내려와 시야를 가렸고, 버스 밖 도로에도 빠른 물살로 물이 쏟아져 흘렀다. &lt;br&gt;&lt;br&gt;잠시 뒤 거센 물살이 멈춘 뒤에야 버스 안이 잠잠해지고 시야가 확보됐지만 버스 바닥은 이미 물에 잠긴 상태였다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WXX3GQKR4ZDJFHQQVD3DD5A3AE.gif"&gt;&lt;figcaption&gt;&lt;small&gt;25일 수원 스타필드 인근 상황./온라인 커뮤니티&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;천천히 움직이는 버스 창밖으로는 공사 현장으로 보이는 도로에서 물이 솟구치는 모습이 보이기도 했다.&lt;br&gt;&lt;br&gt;당국은 숙지공원 인근 도로에 인접한 공사 현장에서 상수도관이 파열한 것으로 보고 복구에 나선 상태다.&lt;br&gt;&lt;br&gt;수원시는 오전 6시 56분과 7시 51분 두 차례 재난 문자를 보내 “상수관 복구공사로 화산지하차도-스타필드 양방향 도로 통제 중. 주변 도로에 있는 차량은 우회하여 주시기 바란다”고 안내했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/7WI6RDHVHZE5TAPJKWIXC6BRQI.gif?width=457&amp;height=830&amp;auth=39613e0f3100420a8fff7bd84c2e211654070f1d47ed0b3987b570fc58dfa9ab&amp;smart=true" type="image/jpeg" height="830" width="457">
+        <media:description type="plain">25일 수원 스타필드 인근 상황./온라인 커뮤니티</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>광주 도심에서 흉기로 경찰 공격한 피의자 실탄 맞고 사망</title>
+      <link>https://www.chosun.com/national/national_general/2025/02/26/P3ORZ6NWLFFTXH5M7LN63WZWXA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/02/26/P3ORZ6NWLFFTXH5M7LN63WZWXA/</guid>
+      <dc:creator>광주광역시=진창일 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 25 Feb 2025 22:19:38 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YXJMURO7CXEUONZMTL3WIQR72Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;광주 동부경찰서. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;광주광역시 도심에서 경찰관이 흉기를 휘두른 피의자가 실탄에 맞고 사망했다.&lt;br&gt;&lt;br&gt;26일 광주경찰청 등에 따르면 이날 오전 3시 11분쯤 광주 동구 금남로의 한 도로에서 A(51)씨가 광주 동부서 금남지구대 경찰관 50대 남성 B경감에게 흉기를 휘둘렀다. &lt;br&gt;&lt;br&gt;B경감은 여성 2명으로부터 “모르는 남성이 따라온다”는 신고를 받고 2인 1조로 출동했다. &lt;br&gt;&lt;br&gt;A씨는 B경감이 접근하자 흉기를 꺼내 들었고, 경찰이 흉기를 버리라고 하자 흉기를 휘둘러 B경감에게 상처를 입혔다.&lt;br&gt;&lt;br&gt;이 과정에서 경찰은 A씨에게 테이저건과 공포탄을 발사했다. 경찰은 “A씨가 공포탄 발사 뒤에도 흉기를 계속 휘두르자 실탄으로 제압했다”고 설명했다.&lt;br&gt;&lt;br&gt;A씨는 심정지 상태로 병원에 옮겨졌지만 숨졌다. B경감도 부상을 입어 병원에서 응급수술을 받고 있다. B 경감은 생명에 지장은 없는 것으로 전해졌다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “A씨와 여성들은 서로 모르는 사이였다”며 “A씨가 흉기를 휘두른 경위 등에 대해 조사 중”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/YXJMURO7CXEUONZMTL3WIQR72Q.jpg?width=3930&amp;height=2948&amp;auth=2881c5d15d5897a45345f1fbc55f7e33aab9acd89870252049685090dd9a3836&amp;smart=true" type="image/jpeg" height="2948" width="3930">
+        <media:description type="plain">광주 동부경찰서. /뉴스1</media:description>
+        <media:credit role="author" scheme="urn:ebu">뉴스1 DB</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>“차 빼주세요” 한마디에…골목길 주차 차량 9대 ‘쾅쾅쾅’</title>
+      <link>https://www.chosun.com/national/national_general/2025/02/26/RODV2LQSBNCK7BI4MJP3CBSVJ4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/02/26/RODV2LQSBNCK7BI4MJP3CBSVJ4/</guid>
+      <dc:creator>이가영 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 25 Feb 2025 22:47:01 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2PIBAT22T5CKRELPSSDUQOFKSE.gif"&gt;&lt;figcaption&gt;&lt;small&gt;25일 오전 8시 15분쯤 울산시 남구 한 이면도로에서 검은색 승용차가  골목에 주차된 차량을 잇달아 들이받고 있다. /채널A&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;울산에서 주차된 차량 9대를 잇달아 들이받은 20대 남성이 경찰에 붙잡혔다. 새벽까지 술을 마신 남성은 ‘차를 빼 달라’는 소리에 운전한 것으로 조사됐다. &lt;br&gt;&lt;br&gt;울산 남부경찰서는 도로교통법 위반 혐의로 20대 A씨를 조사하고 있다고 26일 밝혔다. A씨는 전날 오전 8시 15분쯤 울산시 남구 한 이면도로에서 술에 취한 상태로 차를 몰다 길 양쪽에 주차된 차량 9대를 들이받아 파손한 혐의를 받는다. A씨는 신고를 받고 출동한 경찰에 의해 현장에서 검거됐다. &lt;br&gt;&lt;br&gt;방범카메라(CCTV)에 찍힌 A씨의 운전은 위험천만했다. A씨가 탄 검은색 승용차는 주택가 골목에서 후진하더니 뒤에 주차돼 있던 화물차를 그대로 들이받았다. 아랑곳하지 않고 운전을 이어간 A씨는 또다른 화물차의 옆면을 들이받고도 다시 골목길을 내달렸다. 뒷바퀴가 들썩 거릴 정도로 주차된 차량과 강하게 충돌하기도 했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GKZ2AKDKOFACPPBMHNGW3VTLNQ.gif"&gt;&lt;figcaption&gt;&lt;small&gt;25일 오전 8시 15분쯤 울산시 남구 한 이면도로에서 검은색 승용차가  골목에 주차된 차량을 잇달아 들이받고 있다. /UBC&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;주변을 지나던 시민이 A씨를 제지해 봤지만 소용없었다. 그는 200m가량을 주행하면서 주차된 차량 9대를 들이받은 뒤에야 멈춰 섰다. &lt;br&gt;&lt;br&gt;A씨는 신고를 받고 출동한 경찰에 의해 현장에서 검거됐다. 신고자는 A씨 차량이 길을 막고 있어 “차를 좀 빼달라”고 했을 뿐인데, 막무가내로 앞으로만 달리는 것을 보고 위험하다고 판단해 신고한 것으로 전해졌다. A씨는 그날 새벽 2시까지 술을 마시고 차 안에서 잠이 들었다가 차를 빼달라는 요구에 다시 운전대를 잡은 것으로 파악됐다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JTBFGQ2SZVFRRFOJKR25PMRZAM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;파손된 차량 모습. /울산경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;A씨의 혈중알코올농도는 0.079%, 면허정지 수준으로 확인됐다. A씨 차량은 자동차보험에도 가입돼 있지 않았다. &lt;br&gt;&lt;br&gt;경찰은 A씨의 행적과 정확한 사고 경위를 조사하고 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>상판 5개 올리다 도미노 붕괴... 인부 10명 52m 추락 </title>
       <link>https://www.chosun.com/national/incident/2025/02/26/RXJGNU43DBHBLCMSPKJUYWC2HU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/02/26/RXJGNU43DBHBLCMSPKJUYWC2HU/</guid>
@@ -834,17 +868,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IHBTE67APNGO5IRYXDVJ7GHHQ4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;눈 덮힌 한라산 백록담./조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한라산 정상인 백록담에 대한 출입통제가 한달째 장기화되고 있다. 폭설로 인해 등반로 확인이 힘들거나, 눈이 얼음으로 변해 탐방객 안전사고가 우려되면서 개방하기 어려운 상황이기 때문이다.&lt;br&gt;&lt;br&gt;제주도 세계유산본부 한라산국립공원관리소는 25일 한라산 고지대 등반로 길트기 작업이 여의치 않아 백록담 정상으로 이어지는 성판악탐방로 진달래밭대피소~동능(2.3㎞), 관음사탐방로 삼각봉대피소~동능(2.7㎞) 등 2개 구간에 대한 출입을 다음달 3일까지 통제하기로 했다고 밝혔다.&lt;br&gt;&lt;br&gt;한라산국립공원관리소 관계자는 “백록담 동능에 대한 개방을 다음달 4일부터 한다는 의미는 아니다. 일단 3일까지 통제하고, 탐방로 길트기와 해빙 상황을 보면서 개방시기를 판단하기로 했다”고 말했다.&lt;br&gt;&lt;br&gt;백록담 정상 통제는 지난 1월 7일부터 18일까지 이뤄졌고, 잠시 개방됐다가 같은 달 27일부터 지금까지 한 달 가까이 이어지고 있다. &lt;br&gt;&lt;br&gt;현재 백록담 정상으로 이어지는 등반로 이용은 길트기 작업이 진행된 해발 1500~1700m구간 삼각봉대피소와 진달래밭대피소까지만 가능한 상태다. &lt;br&gt;&lt;br&gt;이처럼 백록담 등반이 꽁꽁 막힌 이유는 한라산에 많은 눈이 내린 탓에 등반로 길트기 작업이 어렵고, 이번 겨울에 ‘삼한사온’현상이 사라지면서 눈이 녹지 않고 있기 때문이다. 성판악 등반로에 위치한 진달래밭(해발 1500m)에는 한때 적설량이 2m30㎝를 기록했다. 특히 정상으로 향하는 가파른 구간에는 눈이 얼음으로 변하면서 2m가 넘는 빙벽이 형성돼 탐방객 안전에 위협이 되고 있다.&lt;br&gt;&lt;br&gt;길트기작업에 참여했던 제주산악안전대 관계자는 “설상용 아이젠을 착용했는데도 보행이 쉽지 않았다”며 “일반인이 착용하는 장비로는 급경사에서 미끄럼 사고가 발생할 우려가 높다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>‘인생네컷’ 찍다 동료 성추행한 20대 공무원 ‘집유 2년’</title>
-      <link>https://www.chosun.com/national/court_law/2025/02/25/6OWU3CZGEZEKLER422J5CV5H3A/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/02/25/6OWU3CZGEZEKLER422J5CV5H3A/</guid>
-      <dc:creator>원주=정성원 기자</dc:creator>
-      <description>인생네컷 사진을 찍는 과정에서 직장 동료를 성추행한 20대 공무원이 법원으로부터 집행유예를 선고받았다. 이 공무원은 최근 소속 기관에서도 징계절차를 거쳐 파면됐다.
-25일 법조계에 따르면 춘천지법 원주지원 형사1단독 김도형 부장판사는 강제추행 혐의로 기소된 A(27)씨에게 징역 6개월에 집행유예 2년을 선고했다.
-</description>
-      <pubDate>Tue, 25 Feb 2025 00:16:08 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KYUTM35NP5F5GTBMEVJXMVTOYE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;춘천지법 원주지원./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인생네컷 사진을 찍는 과정에서 직장 동료를 성추행한 20대 공무원이 법원으로부터 집행유예를 선고받았다. 이 공무원은 최근 징계절차를 거쳐 파면됐다.&lt;br&gt;&lt;br&gt;25일 법조계에 따르면 춘천지법 원주지원 형사1단독 김도형 부장판사는 강제추행 혐의로 기소된 A(27)씨에게 징역 6개월에 집행유예 2년을 선고했다.&lt;br&gt;&lt;br&gt;공무원인 A씨는 지난해 8월 3일 오전 0시 32분쯤 강원 원주시 한 인생네컷 사진 촬영장에서 직장 동료 B(30)씨 등과 사진을 찍던 중 B씨의 허리를 만지고 어깨를 감싸는 등 추행한 혐의를 받고 있다. A씨는 또 B씨의 겨드랑이 안쪽으로 손을 넣어 가슴을 만지거나 엉덩이를 만지기도 했다.&lt;br&gt;&lt;br&gt;김 부장판사는 “방범카메라(CCTV) 영상을 보면 동료들과 함께 있는 자리에서도 피해자의 신체를 여러 차례 만지는 모습이 확인됐다”면서 “우연히 발생한 신체접촉이라 볼 수 없는 점 등을 양형에 참작했다”고 밝혔다.&lt;br&gt;&lt;br&gt;A씨와 검찰은 1심 선고 이후 판결에 불복, 모두 항소했다. A씨는 최근 소속 기관에서 징계절차를 거쳐 파면 처분을 받았다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>“감귤 1개로 750캔 만든 셈”…백종원 맥주도 함량 논란</title>
       <link>https://www.chosun.com/national/national_general/2025/02/25/HQ3UASGZ7JFIFJO4DLCLR6GTNE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/02/25/HQ3UASGZ7JFIFJO4DLCLR6GTNE/</guid>
@@ -879,27 +902,6 @@
       <description/>
       <pubDate>Mon, 24 Feb 2025 16:08:48 +0000</pubDate>
       <content:encoded>서울경찰청은 윤석열 대통령 탄핵 심판 선고일에 대규모 안전사고 가능성에 우려, ‘갑호 비상’ 발령을 검토 중이라고 24일 밝혔다. 갑호 비상은 경찰관들의 연가를 중지하고, 가용 경찰력 100％까지 동원할 수 있는 최고 비상 단계다.&lt;br&gt;&lt;br&gt;박현수 서울경찰청장 직무대리는 24일 “탄핵 심판 선고 당일 경찰청에 갑호 비상 발령을 건의할 예정”이라고 했다. 경찰은 작년 12월 29일 전남 무안공항 제주항공 참사 당시 무안 지역에 갑호 비상을 발령했다. 박 직무대리는 “선고 당일 대규모 인원이 모일 것으로 예상되며 마찰이나 충돌, 안전사고의 가능성을 배제할 수 없다”며 “사고가 발생하지 않도록, 마찰이 발생하지 않도록 철저히 대비하려 한다”고 했다. 탄핵 심판 선고일은 미정이다. 25일 변론이 종결되면, 과거 대통령 탄핵 사건의 전례를 볼 때 2주일 이내에 선고가 내려졌다.&lt;br&gt;&lt;br&gt;경찰은 또 헌법재판관들에 대한 신변 보호 수위도 강화할 방침이다. 현재 경찰은 재판관 8명 전원을 개인별로 전담 경호 중이다. 박 직무대리는 “출근부터 퇴근까지 경호하고 있고, 112 순찰을 강화하는 등 자택 안전 조치도 하고 있다”고 했다.&lt;br&gt;&lt;br&gt;한편, 25일 오후 2시부터 열리는 윤 대통령 탄핵 심판의 마지막 변론 기일에 총 1868명이 방청을 신청해 이 중 20명이 선정됐다. 93.4대1의 경쟁률이다. 앞서 작년 12월 27일 윤 대통령 탄핵 심판 첫 변론 준비 기일에는 9석 배정을 두고 2만264명이 신청해 2251대1 경쟁률을 기록하기도 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>한국 불교에 심취했던 英 석학 “韓 의과학에도 빠져 볼래요”</title>
-      <link>https://www.chosun.com/national/people/2025/02/25/ARJTNTTHI5BMTANOON3E2ZAOMU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/02/25/ARJTNTTHI5BMTANOON3E2ZAOMU/</guid>
-      <dc:creator>김효인 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 24 Feb 2025 15:35:27 +0000</pubDate>
-      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IEMKOU5LWRDWPNFQCDO2K7F24U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;데니스 노블 영국 옥스퍼드대 명예교수가 지난 21일 본지 인터뷰에서 “학문 간 장벽을 뛰어넘는 융합 연구로 한국의 의사 과학자 양성에 기여하겠다”고 밝혔다. 대구경북과학기술원(DGIST) 석좌교수로 임용된 그는 24일부터 DGIST 학부 및 대학원생 교육에 나섰다./박성원 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;성(姓)은 ‘귀족(noble)’ 뜻을 담고 있는데, 영국 런던 변두리 가난한 재단사의 장남으로 태어난 ‘흙수저’였다. 유니버시티 칼리지 런던(UCL) 의대에 입학한 기쁨은 오래가지 않았다. 아버지가 갑자기 세상을 떠나면서 어머니와 동생 세 명을 돌봐야 하는 가장이 된 것이다. 역경을 딛고 현대 생명과학의 주춧돌을 놓은 세계적 석학, 데니스 노블(Denis Noble·89) 영국 옥스퍼드대 명예교수 이야기다. &lt;br&gt;&lt;br&gt;노블 교수가 대구경북과학기술원(DGIST) 의생명공학 초빙 석좌교수로 임용돼 24일 첫 강연을 했다. 1960년 세계 최초로 심장의 움직임을 컴퓨터 시뮬레이션과 수학 모델로 구현한 ‘가상 심장(virtual heart)’을 개발한 그는 심장 질환 연구와 치료의 혁신을 이끌었다. 그는 본지 인터뷰에서 “1970년대 가난한 나라에서 지금은 부유한 나라로 엄청난 현대화를 이뤄낸 한국의 변화를 지켜보면서 한국의 연구자, 학생들에게 관심을 갖게 됐다”고 말했다. 의대 입학 후 임상 의사의 길을 가는 대신 의학 연구자가 된 자신의 경력으로 한국의 의사 과학자 양성에 기여하고 싶다는 것이다. 그는 이번 학기부터 영국과 한국을 오가며 DGIST 학부 및 대학원생 교육과 연구 지도에 나선다. 노블 교수는 “평생 집중한 융합 연구를 DGIST에 접목해 학문 간 장벽을 뛰어넘는 데 도움을 줄 수 있을 것”이라고 했다. 그는 생물학과 컴퓨터 과학을 연구에 접목한 선구자로 꼽힌다. 약 70년 전 의대 재학 당시 학교에 한 대뿐이었던 컴퓨터를 생물학 연구에 활용하기 위해 대학 측에 끊임없이 사정했고, 간신히 사용을 허락받은 새벽 시간에 독학으로 이뤄낸 성과가 컴퓨터로 구현한 심장의 움직임이다. 그가 의사 과학자에 애착을 갖는 배경이다. &lt;br&gt;&lt;br&gt;노블 교수는 생명체를 세포, 유전자, 환경 등의 상호작용으로 분석하고 컴퓨터 과학과 수학 등을 접목한 ‘시스템 생물학’의 대부로 불린다. 오늘날 인공지능(AI) 기반 생명과학의 토대를 놓았다고 평가받는 이유다.&lt;br&gt;&lt;br&gt;그는 유전자가 생명체를 사실상 조종한다고 강조하는 리처드 도킨스 박사의 저서 ‘이기적 유전자’를 비판하는 대표적 학자로도 알려져 있다. 생명체는 유전자만의 관점으로는 설명할 수 없고, 복잡한 상호 작용 관점에서 분석해야 온전하다는 것이다. &lt;br&gt;&lt;br&gt;그가 이와 같은 통합적 연구를 강조하는 배경에 불교와의 인연도 있다. 2000년대 초반 자신의 시스템 생물학과 불교 사상의 유사점을 발견하면서 불교 철학에 빠져들었다. 그가 한국의 사찰을 돌며 생명과 삶에 대한 질문과 답을 찾는 여정은 2021년 다큐멘터리 ‘노블이 묻다(Noble Asks)’로 제작됐다. 노블 교수는 “한국 과학계는 불교 철학의 배경에서 비롯된 통찰력을 간직하고 있어 더욱 흥미롭다고 생각한다”고 했다.&lt;br&gt;&lt;br&gt;노블 교수가 석좌교수를 맡은 DGIST 의생명공학전공 대학원은 올해 첫 신입생으로 의사 면허(MD) 소지자를 맞이했다. 노블 교수는 “나는 생물학자이자 컴퓨터 공학자이며 철학자”라며 “한국 학생들과 생명의 신비를 푸는 새로운 탐구에 나설 것”이라고 했다. 그는 한국에서 20세기 생물학의 틀을 깨기 위해 노력할 것이라고 밝혔다. 그는 “AI 연구에도 깊은 관심을 갖고 있다”며 “생물학이 AI와 결합해 급변하는 지금이 한국의 대학과 연구기관들이 도약할 수 있는 가장 좋은 시기라고 생각한다”고 말했다. &lt;br&gt;&lt;br&gt;&lt;b&gt;☞데니스 노블(Denis Noble)&lt;/b&gt;&lt;br&gt;&lt;br&gt;영국 옥스퍼드대 명예교수로 생리학 분야 세계적 석학이다. 1960년 세계 최초로 심장의 움직임을 컴퓨터 시뮬레이션과 수학 모델로 구현한 ‘가상 심장(virtual heart)’을 개발했다. 이를 통해 심장 질환 연구와 치료에 기여한 공로로 영국 왕실 훈장을 받았다. 생명체를 세포, 유전자, 환경 등의 상호작용으로 분석하고, 이를 컴퓨터 과학과 수학 등을 접목해 연구하는 ‘시스템 생물학’의 선구자로 꼽힌다. 오늘날 AI 기반 생명과학의 토대를 놓은 것으로 평가받는다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/IEMKOU5LWRDWPNFQCDO2K7F24U.jpg?width=2998&amp;height=2156&amp;auth=23420671d9ded9531429a1119f003a8703a4698dec2d4a3165144410535dc790&amp;smart=true" type="image/jpeg" height="2156" width="2998">
-        <media:description type="plain">데니스 노블 영국 옥스퍼드대 명예교수가 지난 21일 본지 인터뷰에서 “학문 간 장벽을 뛰어넘는 융합 연구로 한국의 의사 과학자 양성에 기여하겠다”고 밝혔다. 대구경북과학기술원(DGIST) 석좌교수로 임용된 그는 24일부터 DGIST 학부 및 대학원생 교육에 나섰다./박성원 기자</media:description>
-      </media:content>
-    </item>
-    <item>
-      <title>채리나 “남편, 강남 흉기 난동 피해자…다른 피해자 생각해 결혼식 포기”</title>
-      <link>https://www.chosun.com/national/people/2025/02/25/F3Z2AG4MPBAQNPHSNLK2VACUSY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/02/25/F3Z2AG4MPBAQNPHSNLK2VACUSY/</guid>
-      <dc:creator>김명일 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 24 Feb 2025 15:21:37 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/B4BUMRJHTJCH7J6PXI75OBONN4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;채리나, 박용근 부부. /TV조선&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그룹 ‘룰라’ 출신 채리나(47)와 프로야구선수 출신 박용근(41) 부부가 아직까지 결혼식을 하지 못한 이유를 밝혔다. 두 사람은 지난 2016년 결혼식을 하지 않고 혼인신고를 했다. &lt;br&gt;&lt;br&gt;채리나는 24일 방송된 TV조선 ‘조선의 사랑꾼’에서 “원래는 누나, 동생 사이로 지내다가 큰 사고를 겪고 나서야 마음을 표현했다”며 “당시 저의 기도 제목이 ‘이 친구 살려주세요’였다”고 말하며 남편에 대한 깊은 애정을 드러냈다.&lt;br&gt;&lt;br&gt;채리나가 언급한 사고는 지난 2012년 강남구 한 주점에서 발생한 흉기 난동 사건이다. 당시 사건으로 가수 김성수의 전처가 사망하고 박용근은 중상을 입었다.&lt;br&gt;&lt;br&gt;채리나는 “용근 씨가 구급차에 실려서 병원에 갔을 때 사망 확률이 99%라고 했다”며 “만약 내가 아니었다면 (박용근이) 그 자리에 안 왔을 텐데라는 죄책감이 들었다”고 했다.&lt;br&gt;&lt;br&gt;채리나는 “그 시기에 이 친구가 나를 누나로서 좋아하는 게 느껴졌다. 다행히도 수술이 잘 돼 퇴원할 때쯤 고백하더라”라며 “그땐 감싸주고 싶었다. 연애하면서 (좋은) 감정이 더 쌓였다”고 했다. &lt;br&gt;&lt;br&gt;지금까지 결혼식을 올리지 않은 이유에 대해서는 “아픔을 갖고 계신 피해자들도 있으니 ‘우리는 숨죽여서 조용히 살자, 튀지 말자’ 싶었다”면서도 “이제는 안 올려본 결혼식을 올려보고 싶다”고 했다. &lt;br&gt;&lt;br&gt;결혼 10주년을 맞이했지만 자녀가 없는 두 사람은 올해 시험관 시술에 재도전하겠다고 밝혔다. &lt;br&gt;&lt;br&gt;채리나는 “(시험관에 다시 한번) 도전해 보려고 한다”며 “올해 결혼식도 올리고 마지막으로라도 병원에 (난자가) 얼려져 있는 게 있으니 시도를 해보려고 한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>김건희-명태균 통화 육성 첫 공개…“당선인 뜻, 잘 될 것”</title>
