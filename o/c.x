@@ -13,6 +13,24 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>인천 단독 주택서 화재…1명 숨지고 1명 다쳐</title>
+      <link>https://www.chosun.com/national/incident/2025/02/27/KIXDQEVCS5EKFFLORERIWZZH5A/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/02/27/KIXDQEVCS5EKFFLORERIWZZH5A/</guid>
+      <dc:creator>인천=이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 26 Feb 2025 23:03:22 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RMV4V2DY5ADFHD45NUBJLOCS4I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;119 소방 로고. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천의 한 주택에서 불이 나 1명이 숨지고 1명이 다쳤다. &lt;br&gt;&lt;br&gt;27일 인천소방본부에 따르면 전날 오후 8시 40분쯤 인천 미추홀구 주안동의 한 단독주택에서 화재가 발생했다. &lt;br&gt;&lt;br&gt;이 불로 집 안에 있던 70대 남성 1명이 숨지고, 60대 여성이 연기를 마셔 병원으로 이송됐다. &lt;br&gt;&lt;br&gt;“주택에 불이 났다”는 신고를 받고 출동한 소방 당국은 소방관 등 50여명과 장비 20여대를 투입해 오후 9시 27분쯤 불을 껐다. &lt;br&gt;&lt;br&gt;소방 당국은 정확한 화재 원인과 피해 규모를 조사하고 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>집에서 담배 피웠더니…집 뒤덮은 누런 때 정체 </title>
+      <link>https://www.chosun.com/national/national_general/2025/02/27/7EPC5NT2PBCCJHERM2VIFG3GMY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/02/27/7EPC5NT2PBCCJHERM2VIFG3GMY/</guid>
+      <dc:creator>이가영 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 26 Feb 2025 22:42:42 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4TD3BEW3VVB53HERCZ4KMUPDCU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;오랜 시간 실내흡연을 한 아파트 내부에 찌든 때를 청소업체가 벗겨내고 있다. /인스타그램 @malggeum_clean&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;집 안에서 담배를 즐긴 한 주민의 아파트 내부 상태가 온라인에 공개돼 충격을 주고 있다. &lt;br&gt;&lt;br&gt;대구‧경북 지역의 한 청소전문업체는 26일 인스타그램에 “집 안에서 담배 피우면 이렇게 됩니다”라는 제목의 영상을 게시했다. &lt;br&gt;&lt;br&gt;영상 속 아파트는 벽지, 천장, 창틀, 붙박이장 등 내부가 온통 누런 때로 오염돼 있는 상태다. 오랜 시간 실내 흡연을 한 아파트 주인 때문에 온 집안에 니코틴 찌든 때가 생긴 것이다. &lt;br&gt;&lt;br&gt;니코틴이 집안 먼지에 달라붙으면 3주가 지나도 40%는 남아 있고, 두 달이 흘러도 다 사라지지 않는다는 연구가 있다. 니코틴은 빛이나 공기와 접하면 점점 노랗게 변한다. &lt;br&gt;&lt;br&gt;업체 관리자는 “밀폐된 공간에서 담배를 피우면 내부 공간이 니코틴으로 오염되며 악취가 발생한다”며 “흡연은 건강에 해롭고 간접흡연 또한 주위 사람들에게 피해를 주기 때문에 건물 내부에서 흡연은 자제해 달라”고 전했다. &lt;br&gt;&lt;br&gt;실내 흡연은 본인뿐 아니라 가족의 건강도 위협할 수 있다. 오랫동안 흡연을 해 담배에 찌든 곳에는 유해 물질이 스며들어 3차 흡연 피해가 장기간 지속된다. &lt;br&gt;&lt;br&gt;3차 흡연은 흡연에서 비롯된 연기 및 미세입자와 같은 담배 부산물이 흡연자의 머리카락, 옷 또는 벽, 커튼, 소파 등 생활 공간에 잔존하면서 다른 사람을 오염시키는 것을 말한다. 2차 흡연이 직접 담배를 피우지는 않지만, 연기에 직접 노출되는 것을 의미한다면 3차 흡연은 흡연이 있었던 장소에 머물게 됨으로써 이뤄지는 간접흡연이다. &lt;br&gt;&lt;br&gt;3차 흡연은 2차 흡연만큼 인체에 위해성이 크다. 2018년 영국 런던대 연구팀이 영국 의학저널(BMJ)에 발표한 논문에 따르면, 어떤 식으로든 저농도의 흡연 물질에 노출되면 심혈관, 뇌졸중 등 혈관 질환 위험이 급격히 커진다. 미국암학회는 “간접 흡연에 안전한 레벨은 없다”며 어떠한 방식으로라도 흡연 물질에 노출되지 않는 것이 좋다고 권고했다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>테이저건 맞고도 경찰에 흉기난동… 실탄 맞아 숨져</title>
       <link>https://www.chosun.com/national/national_general/2025/02/27/IFWBGZ5CCFHULPXVXMQRW7XNAI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/02/27/IFWBGZ5CCFHULPXVXMQRW7XNAI/</guid>
@@ -794,15 +812,6 @@
       <media:content url="https://www.chosun.com/resizer/v2/4MTFRYWHBJA7XOKKF7G7JPLX5U.png?width=800&amp;height=420&amp;auth=4651b5b20b5d4901424204d1456faee02e4b064ff509db23945deabf4404c8ef&amp;smart=true" type="image/png" height="420" width="800"/>
     </item>
     <item>
-      <title>해운대 오피스텔 화재…40대 여성 숨져</title>
-      <link>https://www.chosun.com/national/regional/yeongnam/2025/02/26/TXKJ2VFBARAJZC5XXZFTYW2RQ4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/yeongnam/2025/02/26/TXKJ2VFBARAJZC5XXZFTYW2RQ4/</guid>
-      <dc:creator>부산=박주영 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 26 Feb 2025 02:27:32 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IU34IBDIFFDYZFUJX6SIGHG2NM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;26일 불이 나 40대 여성 거주자가 숨진 부산 해운대 한 오피스텔 화재현장./부산소방재난본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;26일 0시 45분쯤 부산 해운대구 재송동 한 오피스텔 5층에서 불이 나 40대 여성 주민 A씨가 중상을 입고 병원으로 옮겨졌으나 숨졌다.&lt;br&gt;&lt;br&gt;불은 이 집 거실 한 모퉁이에서 발생, 번졌으나 출동한 소방당국이 30여분 만에 진화했다. &lt;br&gt;&lt;br&gt;소방 관계자는 “A씨는 안방 침대 아래서 의식과 호흡이 없는 상태에 발견돼 병원으로 옮겼으나 숨졌다”고 말했다.&lt;br&gt;&lt;br&gt;경찰과 소방당국은 화재 원인을 밝히기 위해 합동 감식을 진행할 예정이다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>세계적 조각가라며 중국산 미술품 판매... 청도군, 70대에 민사소송</title>
       <link>https://www.chosun.com/national/regional/2025/02/26/5P7HMGUTC5AKLOHJ5KSAUH6KQA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/02/26/5P7HMGUTC5AKLOHJ5KSAUH6KQA/</guid>
@@ -820,19 +829,6 @@
       <description/>
       <pubDate>Wed, 26 Feb 2025 01:13:26 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IEAJSA7QYFJGVDQZ5CMR7PE5TE.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;오세훈 서울시장이 13일 서울시청에서 열린 서울시 투자· 출연기관 규제철폐 보고회에서 모두발언을 하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;26일 오세훈 서울시장이 전날 헌법재판소에서 진행된 윤석열 대통령 탄핵 심판 사건 최종 변론에 대해 “들으면서 마음이 아프더라”며 “어쩔 수 없이 여소야대, 탄핵 국면에서 굉장한 무력감을 느꼈던 것 같다. 심정적으로 크게 이해를 한다”고 말했다.&lt;br&gt;&lt;br&gt;오 시장은 이날 오전 연합뉴스TV와의 인터뷰에서 이같이 말했다.&lt;br&gt;&lt;br&gt;오 시장은 “15년 전 시장직을 사퇴할 때 9대1의 여소야대였다”며 “내가 식물시장이구나 하는 생각이 들었다”고 했다. 이어 “최후 진술을 들으며 공감되는 부분도 꽤 있고 마음이 아팠다”고 했다.&lt;br&gt;&lt;br&gt;또 오 시장은 “헌법재판소에서 어떤 결정이 나도 여야, 국민들이 화합할 수 있는 분위기로 갔으면 한다”고 말했다.&lt;br&gt;&lt;br&gt;명태균 의혹에 대해 오 시장은 “2021년 1월말쯤 명태균씨를 끊어냈다”며 “끊어내기 전에 명씨를 만났다는 얘기가 반복적으로 나오고 있는데 의미가 없는 것”이라고 했다.&lt;br&gt;&lt;br&gt;또 오 시장은 “요즘 민주당이 굉장히 명태균에 의존하는 것 같다”며 “민주당의 아버지가 이재명 대표인 줄 알았더니 명태균인가 하는 생각도 든다”고 말했다.&lt;br&gt;&lt;br&gt;이재명 대표가 “민주당은 중도 보수정당”이라고 한 것에 대해 오 시장은 “국민들은 정치인의 말이 아닌 행보를 보고 판단한다”며 “(민주당은) 압도적인 다수당이니 중도 우파다운 법안을 통과시켜 주면 국민 여러분이 박수치지 않을까”라고 했다.&lt;br&gt;&lt;br&gt;상속세 개편 방안에 대해서 오 시장은 “자녀·손자녀 공제도 필요하다”며 일본 사례를 언급했다. 고령화된 일본 사회는 모든 자산이 노인들에 귀속돼 경제 활성화를 위한 투자가 어려웠다는 것이다. 오 시장은 “이는 일본 경제가 오랫동안 어려웠던 이유 중 하나”라며 “기회가 있을 때마다 자녀·손자녀에 상속·증여를 하면 국민 경제 활성화에도 도움이 된다”고 했다.&lt;br&gt;&lt;br&gt;개헌 방안에 대해서 오 시장은 “자치 입법권·재정권을 ‘부울경’,‘호남권’,‘충청권’ 등 광역화된 지자체장에게 넘겨서 자체적인 발전 모델을 만들 수 있게 해야한다”며 “각자의 발전모델로 지역 간 경쟁을 하면 비약적인 경제 성장을 하는 토대가 될 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“뜨개질 코 고쳐주실 분?” 당근 알바하다 ‘단짝’ 만든 사연</title>
-      <link>https://www.chosun.com/national/national_general/2025/02/26/ZTPVF3B3V5BK7JNZCB3TXCR4HU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/02/26/ZTPVF3B3V5BK7JNZCB3TXCR4HU/</guid>
-      <dc:creator>이가영 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 26 Feb 2025 00:41:25 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DTINA42EG5KGXFEWIX2CM56CZQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;뜨개질로 만든 인삼 키링. 기사 내용과 연관 없음. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“운동기구 한 세트 1층으로 옮기실 분 있나요? 30분 정도 예상합니다.” “싱크대 하부장에 구멍 하나만 뚫어주세요!” “강아지 호텔에서 픽업 후 몇 시간만 맡아주세요.” &lt;br&gt;&lt;br&gt;아르바이트를 구하는 ‘사장님’들의 구인 글이다. 살다 보면 오늘만 사정이 생겨서, 혹은 1시간 안에 끝날 일이기는 하지만 혼자 하기에는 벅찬 상황들이 생긴다. 이럴 때에는 멀리 사는 가족보다 가까운 이웃이 힘이 될 때가 많다. &lt;br&gt;&lt;br&gt;당근의 ‘이웃 알바’는 급하거나 간단한 도움이 필요할 때 가까운 거리의 이웃에게 도움을 요청할 수 있는 서비스다. 그 특성상 단번에 끝나는 알바 자리가 많은데, 그럼에도 동일한 이웃끼리 일자리 매칭이 여러 번 이뤄지는 경우도 많은 것으로 나타났다. 무려 8차례 같은 이웃끼리 일자리 매칭이 이뤄진 경우도 있었다. 이웃을 알바생으로 맞이했으니 더 존중하게 되고, 자연스럽게 재채용으로 이어지는 것으로 보인다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇’빵 배달’ 알바 7번 하다가 알게 된 이웃의 따뜻한 마음&lt;/b&gt;&lt;br&gt;&lt;br&gt;A씨는 당근알바에서 동일한 이웃을 위해 7번을 반복적으로 일했다. 처음부터 특정 알바를 주기적으로 할 생각은 없었다. 어느 날 이웃이 알바를 맡기는 사정을 알게 된 후 마음이 달라졌다. &lt;br&gt;&lt;br&gt;그가 맡은 일은 동네 빵집에서 특정 빵을 구입해 근처 병원에 전달하는 것이었다. 맡은 일의 특성상 일거리를 맡긴 이웃을 만나지 못하고 주어진 일만 하던 어느 날, A씨는 그 이웃을 직접 마주하게 됐다. 알고 보니 이웃은 병원에서 일하는 간호사였다. 자신이 돌보는 환자가 특정 빵을 먹고 싶다고 하는데, 자리를 비울 수가 없어서 알바를 구한 것이었다. &lt;br&gt;&lt;br&gt;A씨는 “내가 하는 일이 단순히 돈을 버는 것에서 끝나지 않고 누군가에게 도움이 된다는 사실에 마음이 따뜻해졌다”며 “더욱 기쁜 마음으로 같은 일을 여러 번 맡게 됐다”고 말했다. &lt;br&gt;&lt;br&gt;&lt;b&gt;◇사장님 아닌 알바의 ‘조수’ 자처한 이웃&lt;/b&gt;&lt;br&gt;&lt;br&gt;B씨는 이웃알바를 통해 집 수리를 맡기는 경우가 많다. 조명 교체, 무거운 침대 조립, 벽에 구멍 뚫기 등이다. B씨는 최근 한 이웃과 5번 이상 일자리 매칭이 성사됐다. &lt;br&gt;&lt;br&gt;B씨는 이웃과 좋은 인연을 이어갈 수 있던 이유에 대해 “저도 일자리를 구해본 사람으로서 그 마음을 아니까 집으로 와준 알바생에게 직접 달인 쌍화차도 건네고, 옆에서 공구를 건네며 조수 역할도 맡았다”며 “그렇게라도 고마움을 전하고 싶었다”고 했다. &lt;br&gt;&lt;br&gt;알바를 고용한 사장님이 아니라 자신이 못하는 일을 도와주는 이웃으로 대한 것이다. B씨는 “마음을 담아 배려하니 상대도 더욱 최선을 다해서 일하고, 제가 올린 일자리에 5번이나 지원해서 연결됐다”며 “서로 만족할 수 있었다”고 했다. &lt;br&gt;&lt;br&gt;&lt;b&gt;◇뜨개질 도와줄 ‘알바’ 구했다가 친구로 발전&lt;/b&gt;&lt;br&gt;&lt;br&gt;MZ세대에서 떠오른 취미 중 하나는 뜨개질이다. 내 손으로 직접 만드는 즐거움을 얻을 수 있지만, 그만큼 노력도 필요한 취미다. 뜨개질 ‘고수’에게 배우는 게 가장 효과적인데, 1980년대에는 손뜨개 모임이 활발했지만 지금은 쉽게 찾아볼 수 없다. &lt;br&gt;&lt;br&gt;그래서인지 이웃 알바 공고에는 “뜨개질 코 고쳐주실 고수님 구합니다” “뜨개질 보조 선생님 구합니다” 같은 공고가 자주 올라온다. 걸어서 10분 거리 내외 장소에서 뜨개질 스킬을 공유하고, 1만~2만원의 돈도 벌 수 있으니 알바에 지원하는 이도 많다. &lt;br&gt;&lt;br&gt;이를 통해 만난 두 이웃은 취미를 공유하는 돈독한 사이로 발전했다. 처음에는 알바와 사장님이었지만, 이후에는 동네에서 함께 뜨개질을 하는 친구가 됐다. 자신들만의 손뜨개 모임을 만든 것이다. &lt;br&gt;&lt;br&gt;당근알바 관계자는 “이웃알바는 단순한 구인과 구직을 넘어 지역 내 일자리를 연결하며 이웃 간 관계를 활성화하고 있다”며 “앞으로도 이웃 간 신뢰를 쌓아가는 일자리 플랫폼으로 사회에 따뜻함을 전달할 것”이라고 했다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/DTINA42EG5KGXFEWIX2CM56CZQ.jpg?width=2498&amp;height=3748&amp;auth=8ddacd5bff3f614b98e6c90cba19d5e772a265121a0a3ed6be4c42f361f88c1e&amp;smart=true" type="image/jpeg" height="3748" width="2498">
-        <media:description type="plain">뜨개질로 만든 인삼 키링. 기사 내용과 연관 없음. /연합뉴스</media:description>
-        <media:credit role="author" scheme="urn:ebu">신현우</media:credit>
-      </media:content>
     </item>
     <item>
       <title>광주 도심에서 흉기로 경찰 공격한 피의자 실탄 맞고 사망</title>
