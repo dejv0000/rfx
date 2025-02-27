@@ -13,6 +13,67 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>6명 사망 반얀트리 리조트 화재 시공사 ‘기업회생’ 신청 </title>
+      <link>https://www.chosun.com/national/2025/02/27/5XREFYPUD5F43HMZSRPVNWC2YQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2025/02/27/5XREFYPUD5F43HMZSRPVNWC2YQ/</guid>
+      <dc:creator>김준호 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 27 Feb 2025 13:43:39 +0000</pubDate>
+      <content:encoded>6명의 사망자가 발생한 부산 기장군 반얀트리 리조트 공사의 시공사인 삼정기업·삼정이앤시가 유동성 위기를 이유로 기업회생을 신청했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QTOMI36KCNGLFWONNFSQ3PS7XA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 14일 오전 부산 기장군 반얀트리 호텔 신축 공사장에서 발생한 화재 당시 모습. /부산경찰청 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;삼정기업 등은 27일 회생법원에 기업회생을 신청했다고 밝혔다.&lt;br&gt;&lt;br&gt;이들은 입장문 형식의 보도자료를 통해 “최근 건설 경기 침체와 물가 상승 등으로 양사 합해 2500여억원의 미회수 채권이 발생했고, 이로 인한 장기 프로젝트 개발사업의 차질 등 복합적인 요인으로 유동성 위기를 겪어왔다”고 했다. &lt;br&gt;&lt;br&gt;이어 “최근 발생한 반얀트리 리조트 공사 현장 화재는 1000억원 이상의 잔여 공사비 채권 회수를 불투명하게 만들었고, 금융기관의 추가 자금 조달이 전면적으로 중단돼 경영난이 심화했다”며 “회생 절차를 거쳐 이른 시일 안에 재무구조를 개선하고 사업운영을 정상화해 채권자 여러분께 미칠 영향을 최소화할 수 있도록 최선을 다하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;또 “기업회생 절차를 투명하고 성실하게 진행할 것이며 법원의 관리하에 책임 있는 경영을 지속할 것”이라고 했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QF57S6TA5VNXTHOBY7WS5MMJPQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 22일 오전 부산 기장군 반얀트리 리조트 화재현장에서 열린 유가족 요구안 발표 기자회견에서 유가족들이 '철저한 진상규명'을 요구하는 손팻말을 들고 있다. /연합뉴스 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최근 발생한 화재 사고와 관련해서는 “회생 절차와는 별개로 화재 사고로 인한 피해자 및 유족들에 대한 적절한 보상과 지원이 이뤄질 수 있도록 최선을 다할 것을 약속드린다”고 했다. &lt;br&gt;&lt;br&gt;지난 14일 오전 10시 51분쯤 부산 기장군 오시리아 관광단지 내 ‘반얀트리 해운대 부산’ 공사 현장에서 발생한 화재로 작업자 6명이 숨지고, 27명이 연기 흡입 등 경상을 입었다. &lt;br&gt;&lt;br&gt;시공사인 삼정기업 등은 대형 참사 발생 후 일주일이 지나서야 입장을 밝히면서 지역사회에 부정적인 여론이 일었다. &lt;br&gt;&lt;br&gt;경찰은 이르면 다음주 중에 이번 화재에 대한 중간 수사 브리핑을 할 것으로 전해졌다. 감식 결과 보고서가 나오면 인허가 절차의 문제점, 화재의 정확한 원인, 책임소재 규명에 대한 경찰 수사도 속도를 낼 전망이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>대규모 집회 예상 3·1절부터…서울지하철 최고 수준 비상대응</title>
+      <link>https://www.chosun.com/national/national_general/2025/02/27/IWA2ZP73ZBFF7J5CIBKNPEHRH4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/02/27/IWA2ZP73ZBFF7J5CIBKNPEHRH4/</guid>
+      <dc:creator>박진성 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 27 Feb 2025 12:29:24 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FHMGQ4OJW5GAPGKCLOWWGB3HFA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령 탄핵심판 최종변론을 앞둔 25일 오후 서울 종로구 헌법재판소 인근에서 윤 대통령 지지자들이 집회를 열고 있다./박성원 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대규모 집회가 예상되는 3·1절부터 윤석열 대통령 탄핵심판 선고기일까지 서울 지하철이 비상 태세에 돌입한다.&lt;br&gt;&lt;br&gt;서울교통공사는 3·1절인 다음달 1일부터 윤석열 대통령에 대한 탄핵심판 선고기일까지 대규모 도심 집회로 인한 안전사고를 예방하기 위해 최고 수준의 안전대책을 시행한다고 27일 밝혔다.&lt;br&gt;&lt;br&gt;공사는 3월 1일 이용객 증가가 예상되는 1·2호선 시청역, 3호선 안국역·경복궁역, 5호선 광화문역·여의도역·여의나루역·신길역 등 8개 역사에 안전관리와 안내를 위해 127명의 안전 인력을 배치한다. 이는 평상시보다 99명 증원된 규모다.&lt;br&gt;&lt;br&gt;해당 역사는 승객 포화 및 혼잡 시 무정차 통과가 시행될 수 있으며 출입구 폐쇄 등의 조치도 시행될 수 있다.&lt;br&gt;&lt;br&gt;공사는 안전상황실을 운영해 실시간 혼잡상황을 모니터링하고, 필요시 혼잡 완화를 위해 임시열차를 편성하며 전동차도 추가 투입한다.&lt;br&gt;&lt;br&gt;집회에 앞서 시설물 점검을 강화해 안전사고 예방에도 힘쓴다.&lt;br&gt;&lt;br&gt;역사 내 엘리베이터, 에스컬레이터 등 승강 편의시설 및 주요 시설물을 점검하고, 안내표지 부착 등의 여부도 꼼꼼히 살필 계획이다.&lt;br&gt;&lt;br&gt;공사는 또 사회관계망서비스(SNS) 등 다양한 매체를 통해 혼잡상황에 따른 역사 및 열차 운영 사항을 알린다.&lt;br&gt;&lt;br&gt;박병섭 공사 안전관리본부장은 “도심 집회로 혼잡이 예상되는 역사에 안전사고 예방을 위해 철저한 대비책을 마련하고 있다”며 “최고 수준으로 대응해 안전한 지하철 환경 조성에 최선을 다하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>법원, ‘내란 혐의’ 군·경 각각 심리…“추후 모두 병합”</title>
+      <link>https://www.chosun.com/national/court_law/2025/02/27/TIJOGJNRXND4RIBEIQJ7LLNM5M/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/02/27/TIJOGJNRXND4RIBEIQJ7LLNM5M/</guid>
+      <dc:creator>박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 27 Feb 2025 11:12:25 +0000</pubDate>
+      <content:encoded>법원이 내란 중요 임무 종사 혐의를 받는 김용현 전 국방장관과 전직 군인 사건을 병합하는 한편, 경찰 간부 사건과는 분리해 진행하기로 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MLIVGXMYAUI7LBAQG4JQZZER4U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김용현 전 국방부 장관이 지난달 23일 오후 서울 종로구 헌법재판소에서 열린 윤석열 대통령 탄핵심판 4차변론에 증인으로 출석해 발언하고 있다. /헌법재판소 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지법 형사25부(재판장 지귀연)는 27일 노상원 전 국군 정보사령관과 김용군 전 제3야전군사령부 헌병대장, 김 전 장관의 준비기일을 열고 이들의 재판을 병합하겠다고 밝혔다. 세 사람 모두 같은 혐의를 받고, 사건의 관련성이 높아 하나로 합친다는 취지다. 내란 우두머리 혐의로 기소된 윤석열 대통령 사건의 병합 여부는 내달 24일에 2차 준비기일을 연 뒤 결정하기로 했다.&lt;br&gt;&lt;br&gt;조지호 경찰청장과 김봉식 전 서울청장의 재판은 일단 이들과 따로 진행하기로 했다. 재판부는 “조 청장과 김 전 청장은 내란죄 성립 여부와 상관없이 공모에 가담했다고 보기 어렵다고 주장하고 있다”며 “초반부에 그런 주장이 확실한지 보고 다르게 출발하려고 한다”고 밝혔다.&lt;br&gt;&lt;br&gt;내란 관련 혐의로 기소된 피고인 총 6명을 모두 심리하고 있는 형사25부는 추후 모든 재판을 합칠 계획이라고 밝혔다. 재판부는 “궁극적으로는 (내란 혐의 피고인들) 다 같이 해야 하는 것 아닌가 생각한다”며 “모든 사건의 쟁점이 ‘내란죄가 성립되는지’라 그건 재판을 합칠 때 말하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;노 전 사령관과 김 전 헌병대장, 김 전 장관 사건은 내달 17일 첫 공판이 열린다. 내달 27일 2차 기일부터 증인 신문을 시작한다. 조 청장과 김 전 청장의 첫 공판은 다음 달 20일 열린다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>최영철 前 부총리 겸 통일장관 별세</title>
+      <link>https://www.chosun.com/national/obituary-personnel/2025/02/27/WTRBBQ2SHVHWDCPTMQTVEBRY3Y/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2025/02/27/WTRBBQ2SHVHWDCPTMQTVEBRY3Y/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Thu, 27 Feb 2025 11:49:00 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6CAVJDTOGVGNBKT2U6MPAPF5XQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;총장 최영철&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최영철(90) 전 부총리 겸 통일원 장관이 27일 별세했다.&lt;br&gt;&lt;br&gt;고인은 전남 목포에서 태어나 목포고와 서울대 정치학과를 졸업하고 동아일보 정치부장을 거쳐 국회의원(4선)과 국회 부의장, 체신부·노동부 장관, 대통령 정치특보를 거쳤다. 북방 외교를 추진한 노태우 정부의 마지막 통일원 장관을 지냈다. 유족으로는 아내 김운자씨, 아들 최흡(전 조선비즈 취재본부장)·최훈씨, 딸 최샛별씨, 사위 임홍국씨, 며느리 김지인·이선주씨, 손녀 최강씨가 있다. 빈소는 서울대병원 장례식장 1호실, 발인은 다음 달 1일 12시. (02)2072-2091&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/6CAVJDTOGVGNBKT2U6MPAPF5XQ.jpg?width=450&amp;height=592&amp;auth=efe07362d4e2b6cc8445d88c5e31396b40a3f30b103f1f563cdeb3d3a849d0b2&amp;smart=true" type="image/jpeg" height="592" width="450">
+        <media:description type="plain">총장 최영철</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>‘특급 전사’ 도입... 김태영 前국방장관 별세</title>
+      <link>https://www.chosun.com/national/obituary-personnel/2025/02/27/OELI2VVZFVHQ5KKKADAN2EKR2M/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2025/02/27/OELI2VVZFVHQ5KKKADAN2EKR2M/</guid>
+      <dc:creator>양지호 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 27 Feb 2025 11:41:20 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KHROG7Q6PJP4XCCFTS7SDADZLY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김태영 전 국방장관/연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;태영(76) 전 국방부 장관이 26일 별세했다. &lt;br&gt;&lt;br&gt;1949년 서울에서 태어난 김 전 장관은 경기고와 육군사관학교(29기)를 졸업하고 포병 소위로 임관해 육군 6포병 여단장, 23사단장, 국방부 정책기획국장, 수도방위사령관, 합동참모본부 작전본부장을 거쳤다. 2006년 육군 대장(大將)으로 진급해 육군 제1야전군 사령관, 합참의장을 지냈다. 이명박 정부 때인 2009년 9월 제42대 국방장관에 임명됐다. &lt;br&gt;&lt;br&gt;고인은 국방 장관 시절 ‘강한 군대’를 앞세워 국방 개혁을 추진했다. 전면전은 물론 국지도발, 테러 같은 다양한 위협에 대응할 수 있도록 군 지휘 구조를 재설계해야 한다는 게 고인의 지론이었다. 김 전 장관은 1군 사령관 시절 체력·사격 등 전투 기량이 우수한 장병을 ‘특급 전사’로 선발하는 제도를 도입했다. 이 제도는 나중에 육군 전체로 확대됐다.&lt;br&gt;&lt;br&gt;고인은 2010년 3월 26일 북한군의 천안함 폭침 도발에 이어 그해 11월 23일 북한군의 연평도 포격 도발이 발생하면서 사퇴했다. 고인은 이후 군인 자녀를 위한 기숙형 사립고인 한민고등학교 설립을 주도했다. 학교 설립 이후엔 2011~2016년 한민학원 이사장을 맡았다. 고인은 한국전쟁기념재단 이사장, 육군 포병 전우회 회장, 대한민국 수호 예비역 장성단 공동 대표도 지냈다.&lt;br&gt;&lt;br&gt;유족으로는 아내 이범숙씨, 아들 김대업 TCC스틸 부사장과 딸 김희수씨가 있다. 빈소는 삼성서울병원 장례식장 17호실. 발인은 다음 달 1일 7시 45분. 김명수 합참의장이 주관하는 영결식(합참장)도 이날 오전 11시 서울 현충원에서 진행된다. (02)3410-6917&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/KHROG7Q6PJP4XCCFTS7SDADZLY.jpg?width=1732&amp;height=1956&amp;auth=49c4b29e66d4848a7ed107486f76a9accc7c14c94544e86edc3af326a58483d6&amp;smart=true" type="image/jpeg" height="1956" width="1732">
+        <media:description type="plain">김태영 전 국방장관/연합뉴스</media:description>
+        <media:credit role="author" scheme="urn:ebu">진성철</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>제주 호텔 강도살인 혐의 중국인 3명 구속</title>
+      <link>https://www.chosun.com/national/2025/02/27/NTETFZ7QAZENPGAJ2COLIG565M/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2025/02/27/NTETFZ7QAZENPGAJ2COLIG565M/</guid>
+      <dc:creator>김준호 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 27 Feb 2025 10:52:55 +0000</pubDate>
+      <content:encoded>제주 한 호텔 객실에서 중국인 동포를 살해한 3명이 구속됐다. 경찰은 계획적인 강도 살인으로 보고 수사에 속도를 내고 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JSFJXRNSQJHEDOTHYHCZGTJL64.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;제주 서부경찰서. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제주서부경찰서는 강도살인 혐의로 30대 중국인 여성 A씨 등 3명을 구속했다고 27일 밝혔다. 이날 법원은 이들에 대해 구속 전 심문(영장실질심사)를 열고, 도주와 증거인멸의 우려가 있다며 구속영장을 발부했다. &lt;br&gt;&lt;br&gt;나머지 공범 1명은 살해까지 예상했다고 보기 어려워 불구속 상태로 수사를 받고 있다. 경찰은 당초 이들에 대해 살인 혐의를 적용했다가, 조사를 거쳐 강도살인 혐의로 변경했다.&lt;br&gt;&lt;br&gt;A씨 등은 지난 24일 오후 2시 40분쯤 제주시 한 특급호텔 객실에서 30대 중국인 남성 B씨를 흉기로 찔러 살해한 혐의를 받는다. 당시 B씨는 가상화폐 환전을 위해 A씨를 만난 것으로 알려졌다. &lt;br&gt;&lt;br&gt;범행 직후 A씨는 B씨가 가지고 있던 8500만원을 챙겨 달아났다. 객실 밖에서 기다리던 나머지 공범들에게 전달했다. 이후 이들은 뿔뿔이 흩어졌다고 한다. &lt;br&gt;&lt;br&gt;이 사건은 피해자 지인이 이날 오후 5시10분쯤 “호텔에 암호화폐를 거래하러 갔던 B씨가 연락되지 않는다”고 신고하면서 드러났다. 경찰이 출동했을 당시 B씨는 이미 흉기에 수차례 찔려 숨진 뒤였다. 1차 부검에서 숨진 B씨가 등과 목, 갈비뼈 등을 10여 차례 찔려 과다 출혈로 사망했다는 소견이 나왔다.&lt;br&gt;&lt;br&gt;주범으로 지목된 A씨는 범행 당일 오후 5시 15분쯤 파출소를 찾아 “상해를 입혀 사람을 죽였다”고 자수했다. 나머지 30대 중국인 남녀 2명은 출국하려고 공항에 갔다가 경찰에 체포됐다. &lt;br&gt;&lt;br&gt;경찰은 환전 거래를 빙자한 계획적인 강도살인 범죄에 무게를 두고 수사를 확대하고 있다. 피의자들을 상대로 자세한 사건 경위와 범행 동기 등을 조사하고 있다. 또 이들의 휴대전화 등을 포렌식 할 계획이다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>건국대 아수라장, 여학생에게 “최신 야동 추천해달라”고 성희롱한 유튜버</title>
       <link>https://www.chosun.com/national/national_general/2025/02/27/3L6RO3H2UNBTTBSA2VTCK73ON4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/02/27/3L6RO3H2UNBTTBSA2VTCK73ON4/</guid>
@@ -756,15 +817,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JBIPCXN55VFYTLT4FC6N7UUWQY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>“쟤는 빈민촌에 버려”… 아프리카 유학 온 7살 학대한 목사 부부</title>
-      <link>https://www.chosun.com/national/national_general/2025/02/26/XGEOIKGZOFEMNKB4D7LRBFWVIQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/02/26/XGEOIKGZOFEMNKB4D7LRBFWVIQ/</guid>
-      <dc:creator>문지연 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 26 Feb 2025 13:45:18 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JHWE22LGVBCVHJU35XWRGTUTZU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 중앙지방법원 로비에 법원 마크가 밝게 빛나고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;아프리카에 유학 온 아동을 학대한 혐의로 법정에 선 목사 부부가 항소심에서도 징역형을 선고받았다.&lt;br&gt;&lt;br&gt;전주지법 제3-3형사부(부장판사 정세진)는 아동복지법 위반(아동학대) 혐의로 기소된 A(55)씨 항소심에서 징역 10개월을 선고한 원심을 유지했다고 26일 밝혔다. 같은 혐의를 받는 A씨의 남편 B(54)씨도 1심과 같은 징역 4개월에 집행유예 1년을 선고받았다.&lt;br&gt;&lt;br&gt;목사인 A씨 부부는 2019년 5~6월쯤 당시 7세이던 C군에게 정서적·신체적 학대를 가한 혐의로 불구속 기소됐다. 이들 부부는 아프리카에서 선교센터를 운영 중이었으며, C군은 한국에서 유학 온 학생으로 부부의 보호·감독을 받으며 센터에서 생활하고 있었다.&lt;br&gt;&lt;br&gt;A씨 부부는 C군이 거짓말하거나 묻는 말에 빨리 대답하지 않는다는 이유로 여러 차례 범행한 것으로 조사됐다. 이들은 C군에게 욕설을 퍼붓고 1시간 넘게 체벌했으며 물리적 폭행을 가했다. 또 선교 활동을 마치고 돌아가면서는 “쟤는 빈민촌에 버려”라며 차에 태워주지 않기도 했다.&lt;br&gt;&lt;br&gt;사건은 B군이 귀국 후 경찰과 아동보호센터에 피해 사실을 털어놓으면서 알려졌다. 법정에선 A씨 부부는 “정당한 교육 및 훈육의 목적이었다”고 주장했다. 그러나 1심과 항소심 재판부는 B군의 상세하고 구체적인 진술을 토대로 A씨 부부 주장을 받아들이지 않았다.&lt;br&gt;&lt;br&gt;이날 항소심 재판부는 “피해 아동은 이 사건으로 상당한 신체적 고통과 정신적 충격을 받았고 피고인들에 대한 엄벌을 탄원하고 있다”며 “범행 후 정황과 변론 등 양형 조건을 종합적으로 봤을 때 원심의 형이 너무 가볍거나 무거워 부당하다고 보지 않는다”고 판시했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>“어디 댈 곳 없나”...대구시, 주차장 1653곳 정보 한 번에 알려준다</title>
       <link>https://www.chosun.com/national/2025/02/26/BKJTI2JEWJDABGTWOTJAIYXASI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/2025/02/26/BKJTI2JEWJDABGTWOTJAIYXASI/</guid>
@@ -792,15 +844,6 @@
       <content:encoded>윤석열 대통령 탄핵심판과 관련해 국회 측이 26일 헌법재판소에 군 지휘관들의 수사기관 진술조서를 제출했다. 윤 대통령의 정치인 체포 지시와 국회 계엄 해제 의결 저지 시도 등을 뒷받침하기 위한 자료다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WPLPNLJNNVMURDMGDWTZHFGV6Q.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령(오른쪽)과 정청래 국회 법제사법위원장이 지난 25일 오후 서울 종로구 헌법재판소에서 열린 윤 대통령에 대한 탄핵심판 최종(11차) 변론기일에 출석해 최종의견을 진술하고 있다. /헌법재판소 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국회 측은 이날 군 일선 지휘관 7명의 수사기관 진술조서 일부를 헌재에 제출한 것으로 알려졌다. 변호인단이 덧붙인 간략한 설명을 포함해 총 380여 쪽 분량이라고 한다.&lt;br&gt;&lt;br&gt;해당 진술조서는 변호인 입회 없이 작성된 만큼 증거로 채택되지는 않을 전망이다. 다만 국회 측은 이를 통해 비상계엄 당일 윤 대통령이 부하들에게 위법한 지시를 내린 정황을 입증할 수 있을 것으로 기대하고 있다.&lt;br&gt;&lt;br&gt;국회 측은 특히 정치인 체포 지시와 관련해 구민회 국군방첩사령부 수사조정과장의 진술조서를 제출했다. 구 과장은 검찰 조사에서 “계엄 당일 방첩사 김대우 단장이 여인형 전 방첩사령관에게 체포 명단을 받았고, 이에 따라 명단에 적힌 14명을 7명씩 2개 조로 나눠 (체포할 것을) 지시했다”고 진술한 것으로 알려졌다. &lt;br&gt;&lt;br&gt;또 사람들을 체포해 구금하기 위한 시설을 마련한 정황도 자료에 담겼다. 김창학 수도방위사령부 경찰단장은 “김성곤 국방부 조사본부 단장이 군사경찰단 내 미결수용실 수용 인원들을 국군교도소로 이감해 달라는 요청을 받아 이에 응했다”고 진술한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;국회 측은 윤 대통령이 국회의 계엄 해제 의결을 저지하려 했다는 정황과 관련된 진술도 제출했다고 한다. 계엄 당일 이진우 전 수도방위사령관과 차량에 있었던 한 부관은 “차에서 대통령과 이 전 사령관의 통화 내용을 들었다”며 “대통령이 4명이서 1명씩 들쳐 업고 나오라거나, 문을 부수고 들어가서 혹은 총을 쏴서라도 끌어내라고 했다”고 한 것으로 알려졌다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>“돈 내면 폭로 없다”...텔레그램에서 유흥업주 협박해 수천만원 뜯은 30대 구속 송치</title>
-      <link>https://www.chosun.com/national/incident/2025/02/26/P7M7AIUP4ZDWZHBNR2WEGJH2MM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/02/26/P7M7AIUP4ZDWZHBNR2WEGJH2MM/</guid>
-      <dc:creator>이승규 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 26 Feb 2025 11:07:48 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/J4V2YWJVOBA75DRREQDH72T4OE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;A씨가 운영한 텔레그램방/텔레그램 캡쳐&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;텔레그램 메신저에서 유흥업소 업주들을 협박하는 글을 올리는 방식으로 수천만원을 뜯어낸 30대 남성이 검찰에 넘겨졌다.&lt;br&gt;&lt;br&gt;대구경찰청 형사기동대는 공갈 혐의로 30대 남성 A씨를 구속 송치했다고 26일 밝혔다. A씨는 지난 1월 5일부터 20일까지 대구 수성구의 유흥업소 업주 4명을 협박해 4800만원을 뜯어낸 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;경찰에 따르면 A씨는 한때 3만여 명이 구독했던 텔레그램 채널 ‘범죄와의 전쟁2′를 운영하면서 대구 지역 내 유흥업소를 상대로 ‘미성년자 고용과 불법 성매매 사실을 폭로하겠다’는 식으로 협박하는 글을 올리고 업주, 종업원 등의 신상 정보를 공개했다.&lt;br&gt;&lt;br&gt;이후 업주들이 A씨에게 “사실과 다르니 글을 내려달라”거나 “추가 폭로를 중단해달라”고 요청하면 A씨는 돈을 요구했다. 이런 식으로 업주 4명에게 4800만원을 뜯어냈다.&lt;br&gt;&lt;br&gt;A씨는 “대구, 부산, 경남 밀양, 창원 등 지역의 폭력 조직원과 관련된 범죄 사실을 제보해달라”거나 “불법업소, 유흥업소 제보를 받는다” 식으로 각종 제보를 받은 뒤 신상을 공개하고 협박하는 글을 올린 것으로 파악됐다.&lt;br&gt;&lt;br&gt;경찰은 지난달 A씨에 대한 첩보를 입수한 뒤 지난 17일 충남 공주에서 A씨를 검거했다. A씨는 과거 범죄자들을 대상으로 사적 제재를 했던 유튜버들을 보고 이 같은 채널을 만든 것으로 조사됐다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “A씨의 여죄를 조사 중”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>검찰, 선거법 위반 혐의 정동영 의원에 당선무효형 구형</title>
       <link>https://www.chosun.com/politics/2025/02/26/TUESPC3WV5B4ZJEKZFCIHVUG2M/</link>
       <guid isPermaLink="true">https://www.chosun.com/politics/2025/02/26/TUESPC3WV5B4ZJEKZFCIHVUG2M/</guid>
@@ -819,15 +862,6 @@
 </description>
       <pubDate>Wed, 26 Feb 2025 11:27:38 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4Y3IEY746BXZ3V34ZBAZZ6N2MI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;강제 추행 등 혐의를 받는 김진하 강원 양양군수가 지난달 2일 구속 전 피의자 심문(영장실질심사)을 받기 위해 춘천지법 속초지원에 들어서고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;강제 추행 등 혐의로 구속 기소된 김진하 강원 양양군수에 대한 주민소환이 투표율 미달로 무산됐다.&lt;br&gt;&lt;br&gt;양양군선거관리위원회는 26일 실시된 양양군수 주민소환투표 결과 투표율이 33.3%에 못 미치는 32.25%를 기록해 주민소환이 무산됐다고 밝혔다.&lt;br&gt;&lt;br&gt;지난 21일과 22일 이틀간 진행된 사전투표엔 3691명이 참여해 14.81%의 투표율을 기록했으며 이날 본투표까지 총 8038명이 참여, 32.25%의 투표율을 기록했다. 양양지역 전체 유권자는 2만4925명이다.&lt;br&gt;&lt;br&gt;주민소환투표는 지역 유권자의 투표 결과에 따라 선출직 공무원을 해직할 수 있는 제도다. 주민소환투표 가결을 위해선 전체 유권자 3분의 1 이상(투표율 33.3%)이 투표하고 투표자 50% 이상이 찬성해야 한다. 그러나 양양군수 주민소환투표는 개표 성립 요건인 투표율 33.3%를 넘지 못해 자동 부결됐다.&lt;br&gt;&lt;br&gt;앞서 검찰은 지난달 24일 부정 청탁 및 금품 등 수수의 금지에 관한 법률 위반과 뇌물 수수, 강제추행 등 혐의로 김 군수를 구속 기소했다. 그는 지난 2023년 12월 여성 민원인 A씨의 앞에서 자신의 바지를 내리는 등 부적절한 행위를 한 혐의다. 김 군수는 또 A씨로부터 민원 해결을 명목으로 안마 의자 등 금품을 받은 혐의도 받고 있다.&lt;br&gt;&lt;br&gt;이 같은 의혹이 불거지자 지난해 10월 양양지역 시민단체인 미래양양시민연대는 주민소환을 청구했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>현대오일뱅크 폐수 무단배출 1심 선고...前 대표이사 징역 1년6개월</title>
-      <link>https://www.chosun.com/national/court_law/2025/02/26/72DNQ3RMT5E53IAZ4GF6UXINYY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/02/26/72DNQ3RMT5E53IAZ4GF6UXINYY/</guid>
-      <dc:creator>김나영 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 26 Feb 2025 10:49:09 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NZNZRZIOFZE47JEH7UJYA5XLKU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구에 위치한 서울중앙지법과 서울고법 청사./박강현 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;유해 물질이 기준치 이상 포함된 공업용수를 계열사 공장과 대기 중에 무단 배출한 혐의를 받는 HD현대오일뱅크 전현직 임원들에게 1심에서 실형이 선고됐다. 전 대표이사 A씨는 징역 1년6개월형을 받았고, 다른 임직원 4명도 징역 1년2개월~9개월형을 받고 법정 구속됐다.&lt;br&gt;&lt;br&gt;서울중앙지법 형사27부(재판장 우인성)는 26일 물환경보전법 위반 혐의로 기소된 A씨 등 8명과 현대오일뱅크에 대한 1심 선고를 내렸다. 이들은 충청남도 서산에 있는 현대오일뱅크 대산공장에서 배출된 페놀 및 페놀류 포함 폐수를 계열사인 현대OCI와 현대케미칼 공장으로 배출한 혐의를 받는다.&lt;br&gt;&lt;br&gt;검찰은 이들이 약 450억원에 달하는 폐수처리장 신설 비용과 연간 2억~3억원이 들어가는 자회사 공업용수 비용을 절감하기 위해 범행을 저질렀다고 봤다.&lt;br&gt;&lt;br&gt;재판부는 “우리나라 최초의 민간 정유사인 현대오일뱅크는 굴지의 기업으로, 수질오염시설을 새로 설치하기 어려울 정도로 영세하지 않다”며 “그럼에도 비용 절감을 위해 조직적으로 범죄를 저지른 것으로 보인다”고 했다. 이어 “인근 거주 주민들의 악취 민원으로 지역 관할 행정관청 공무원 점검이나 단속이 있을 때만 폐수 공급을 중단하는 등 주도면밀함을 보였다”고 했다.&lt;br&gt;&lt;br&gt;재판부는 피고인 7명 중 5명에겐 징역 1년2개월~9개월형을 내렸다. 나머지 2명에 대해선 각각 징역형의 집행유예와 무죄를 선고했다. 현대오일뱅크 법인에는 벌금 5000만원형이 내려졌다.&lt;br&gt;&lt;br&gt;실형 선고가 내려지자 피고인들은 억울하다는 입장을 밝혔다. A씨는 “30년 이상 국가기간산업에서 주야로 회사와 나라를 위해 일해왔다”며 “저희가 재판장님을 이해 못 시킨 점이 있는 것 같다. 항소심에서 충분히 준비하겠다”고 밝혔다. 현대오일뱅크 측도 “1심 판결과 관련 사실관계 확인 및 법리 판단 등에 수긍할 수 없는 부분들이 있어 즉시 항소할 예정”이라고 입장을 냈다.&lt;br&gt;&lt;br&gt;피고인들은 2019년 10월부터 2021년 11월까지 대산공장의 폐수 배출시설에서 나온 페놀 및 페놀류 함유 폐수 33만t을 자회사인 현대OCI 공장으로 배출한 혐의를 받았다. 이들은 2016년 10월부터 2021년 11월까지는 페놀 폐수를 자회사인 현대케미칼 공장으로 배출하기도 했다. 2017년 6월부터 2022년 10월까지는 대산공장에서 나온 페놀 오염수 130만t을 방지시설을 통하지 않고 공장 굴뚝으로 증발시킨 것으로 조사됐다.&lt;br&gt;&lt;br&gt;현대오일뱅크 측은 “물 부족에 따라 공업용수를 재활용한 것”이라는 입장이다. 그러나 검찰은 폐수를 배출허용기준 이내로 처리한 ‘폐수처리수’를 재사용하는 것은 적법하지만, 처리가 안 된 폐수인 ‘원폐수’를 다른 시설로 보내 재사용 한 것은 불법 배출에 해당한다고 주장했다.&lt;br&gt;&lt;br&gt;이 사건은 지난 2021년 8월 국민권익위원회에 공익 제보가 접수돼 조사가 시작했다. 앞서 환경부는 해당 사안으로 현대오일뱅크에 과징금 1509억원을 부과했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>경찰청, 경찰공제회 이사장에 이영상 전 인천경찰청장 추천</title>
@@ -881,15 +915,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GQPHTN6BD5AP7A6GQVWMBKNINY.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;연세대학교 캠퍼스 전경./연세대 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;연세대가 2026학년도 입시부터 무전공(전공 자율 선택) 학부를 신설한다고 26일 밝혔다. &lt;br&gt;&lt;br&gt;연세대학교는 지난 18일 평의원회를 열어 전공자율선택 모집단위인 ‘진리자유학부’를 신설하는 내용을 담은 학칙 개정안을 승인했다. 정원은 총 262명이다. &lt;br&gt;&lt;br&gt;11년 전에 폐지된 자유전공이 내년도 입시부터 다시 생기는 것이다. 다만 이전과 달리 인문·사회 전공을 넘어 이공계 계열 전공도 포함해 선택할 수 있다.&lt;br&gt;&lt;br&gt;진리자유학부 입학생은 1학년 때는 진로를 탐색한 후, 2학년 때 원하는 과로 진학한다. 의과대학, 교육과학대학, 신과대학 및 예체능 계열 학과를 제외하고 모든 전공을 선택할 수 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[속보] 검찰, 이재명 공직선거법 2심 징역 2년 구형</title>
-      <link>https://www.chosun.com/national/court_law/2025/02/26/JKSIX5IGGFGKDMHVQXRUS3MWRU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/02/26/JKSIX5IGGFGKDMHVQXRUS3MWRU/</guid>
-      <dc:creator>유희곤 기자, 박강현 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 26 Feb 2025 08:38:25 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3BGTP4HZQNE77EF3ZV73UTVVYI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2025년 2월 26일 오후 서울 서초구 서울중앙지방법원에서 이재명 대표가 공판에 출석하기 위해 청사로 향하고 있다. / 장련성 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰이 26일 이재명 더불어민주당 대표의 공직선거법 위반 사건 항소심에서 1심과 같은 징역 2년을 구형했다. 검찰은 이날 서울고법 형사 6-2부(재판장 최은정) 심리로 열린 이 대표 항소심 결심 공판에서 이 대표에게 징역 2년을 선고해달라고 재판부에 요청했다.&lt;br&gt;&lt;br&gt;◇檢 “대통령 당선을 위한 반복적 거짓말”&lt;br&gt;&lt;br&gt;이 대표는 지난 대선을 앞둔 2021년 12월 방송 4곳에서 대장동 개발 실무자인 고(故) 김문기 전 성남도시개발공사 처장을 성남시장 재임 기간에 알았으면서도 몰랐다고 하고, 2021년 10월 국정감사에 나와 “국토교통부 협박으로 백현동 개발 부지 용도를 4단계 상향 조정했다”고 거짓말한 혐의(공직선거법 위반)로 2022년 9월 불구속 기소됐다. &lt;br&gt;&lt;br&gt;작년 11월 1심은 이 대표에게 징역 1년에 집행유예 2년을 선고했다. “2015년 호주 출장 중 김 전 처장과 골프를 치지 않았다”와 백현동 부지 용도 변경에 대해서는 유죄를 인정했지만, “김 전 처장을 성남시장 재직 시절에는 몰랐고 경기지사가 된 후 알았다”는 말은 무죄라고 봤다.&lt;br&gt;&lt;br&gt;이날 검찰은 이 대표에게 징역 2년을 선고해달라고 재판부에 요청하면서 이 대표가 김 전 처장을 모른다고 한 부분에 대해 “김 전 처장과의 골프는 외유성이라는 논란을 피하기 위해 사전에 은밀히 준비됐고, 시간은 유동규까지 전 성남도시개발공사 기획본부장까지 3명이 5시간이었다”고 반박했다. 이 대표가 이틀 후 김 전 처장과 낚시를 함께한 점도 강조했다.&lt;br&gt;&lt;br&gt;이 대표의 백현동 거짓말 의혹에 대해서는 “피고인은 해당 발언 후 3년 반이 지나서도 (국토부 협박을 받은) 성남시 공무원이 누구인지, 언제 협박이 있었는지 특정하지 못하고 있다”고 했다.&lt;br&gt;&lt;br&gt;이어 구체적인 양형 사유를 설명하면서 “피고인이 국민적 관심이 최고조에 달했던 20대 대선에서 성남시장 시절 책임을 회피하고 (대통령) 당선을 위해 반복적으로 거짓말을 한 매우 중대한 사안”이라고 했다. 이어 “1위 후보와의 표차가 0.7%포인트였다는 점을 고려하면 피고인의 거짓말은 많은 유권자의 선택에 영향을 미친 것이 명백하다”고 했다.&lt;br&gt;&lt;br&gt;그러면서 “선거의 공정성과 민주주의라는 헌법 가치를 지키기 위해서는 거짓말로 유권자의 선택을 왜곡한 사람에 대해 지위 고하를 막론하고 공정한 처벌이 반드시 필요하다”고 했다.&lt;br&gt;&lt;br&gt;검찰은 이 대표의 자서전을 인용해 그의 범죄 혐의의 중대성을 강조하기도 했다. 검찰은 “피고인은 자서전에서 ‘거짓말 역시 국민과 자신에게 언젠가 씻을 수 없는 상처를 남긴다’면서 ‘선거에 지는 한이 있더라도 최소한 국민을 상대로 거짓말하지 말자는 것이 나의 소신이었다’고 했다”고 했다. 그러면서 이 대표가 페이스북에 올린 “가짜뉴스를 생산·유포하는 행위는 민주주의의 적이자 청산해야 할 대표적 적폐”라는 글도 언급했다.&lt;br&gt;&lt;br&gt;◇이재명 “김문기 ‘몰랐다’는 ‘기억에 없다’ 뜻&lt;br&gt;&lt;br&gt;반면 이 대표는 이날 피고인 신문에서 김 전 처장을 몰랐다고 한 발언에 대해 “기억에 남아 있지 않다는 뜻이었다”며 혐의를 부인했다. 이 대표는 2021년 12월 방송에서 ‘호주 여행을 11일이나 갔는데 어떻게 김 전 처장을 모를 수 있냐’는 질문에 대한 답변은 “‘거짓말하려는 게 아니라 접촉은 했겠지만 ‘기억에 남아 있지 않다’ ‘인지를 못 했다’는 취지였다”고 말했다.&lt;br&gt;&lt;br&gt;의혹이 제기됐을 당시 국민의힘이 제시한 이 대표와 김 전 처장 등의 호주 여행 사진에 대해 “조작한 거죠”라고 말한 데 대해서는 ‘즉흥적으로 답변하는 과정에서 나온 것 아니냐’는 변호인 질문에 “네”라고 답했다.&lt;br&gt;&lt;br&gt;백현동 관련 허위 발언 혐의에 대해서는 변호인이 ‘당시 구체적인 사실관계를 기억하지 못해 관련 설명이 조금 부정확하게 이뤄지고 정확하지 못한 표현이 튀어나오지 않았냐’는 취지의 질문에 “의무가 있는 걸 안 하면 ‘그게 문제가 된다’(고 한) 기억이 있어서 법률적 표현을 쓴 것”이라고 말했다.&lt;br&gt;&lt;br&gt;◇벌금 100만원 이상 확정 시 대선 출마 불가&lt;br&gt;&lt;br&gt;1심에 이어 항소심에서도 징역형을 선고받고 이후 형이 확정되면 이 대표는 국회의원직을 잃고 다음 대선을 포함해 향후 10년간 선거에 출마할 수 없게 된다. 공직선거법상 선거사범 재판 1심은 6개월, 2·3심은 3개월 안에 선고해야 한다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>안성 고속도로 붕괴 사고 여파...유사 공법 공사 중단, 개통 지연 불가피</title>
       <link>https://www.chosun.com/national/incident/2025/02/26/2BKSKKPNLFEE7EOJRGSDVYLDS4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/02/26/2BKSKKPNLFEE7EOJRGSDVYLDS4/</guid>
@@ -915,15 +940,6 @@
       <description/>
       <pubDate>Wed, 26 Feb 2025 08:24:23 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/C34CAML5QVBWVANGTLKLLYW4VM.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=조선디자인랩 정다운&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;내년부터 교통사고로 경상을 입은 환자가 필요 이상의 장기 치료를 받거나, 이를 빌미로 합의금을 요구하는 게 어려워질 전망이다.&lt;br&gt;&lt;br&gt;국토교통부와 금융위원회, 금융감독원은 26일 이 같은 내용을 담은 ‘자동차 보험 부정 수급 개선 대책’을 발표했다. 가벼운 교통사고에 따른 경상 환자들이 필요 이상으로 병원을 오가며 과잉 치료를 받는 행태를 손보겠다는 취지다.&lt;br&gt;&lt;br&gt;일반적으로 교통사고가 발생하면 보험사는 증상이 심하지 않더라도 피해자에게 합의금 명목으로 ‘향후 치료비(사고 처리 종결 후 발생하는 치료비)’를 주고 사건을 합의하는 경우가 대부분이었다. 향후 치료비는 자동차 보험 표준약관상 지급 근거가 없지만, 사건을 빠르게 종결하기 위해 관행처럼 굳어진 것이다.&lt;br&gt;&lt;br&gt;그러나 이는 과잉 치료, 보험 사기 등과 같은 과도한 보험료 지급으로 이어진다는 비판이 많았다. 2023년 기준 교통사고에 따른 전체 환자 치료 비용(2조원) 중 1조3000억원이 경상 환자 치료비였고, 이들에게 지급된 향후 치료비는 1조4000억원에 달했다. 이는 전체 자동차 보험 가입자의 보험료를 상승시키는 요인이다.&lt;br&gt;&lt;br&gt;이에 정부는 상해 등급에 따라 1~11급에 해당하는 중상 환자에게만 향후 치료비를 지급하게 하고, 경상 환자(12~14급)에게 사고 합의를 목적으로 향후 치료비를 지급하는 걸 금지하기로 했다. 정부는 이를 위해 연내 표준 약관을 개정할 방침이다.&lt;br&gt;&lt;br&gt;경상 환자가 8주 이상 장기 치료를 원한다면 진료기록부 등 추가 서류를 보험사에 제출해야 한다. 다만, 이 경우에도 보험사가 치료 필요성이 낮다고 판단하면 지급 보증을 중지할 수 있다. 이는 경상 환자의 90%가 8주 이내에 치료를 마친다는 통계에 기반한 것이다. 이로 인해 환자와 보험사 간 분쟁이 생길 경우를 대비해 이를 조정할 기구도 신설할 예정이다. 국토부는 “적정 배상 체계 도입으로 전체 자동차 보험료가 3%가량 인하될 것”이라며 “내년 갱신, 가입되는 보험부터 적용될 예정”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“폐렴 증상 영아서 신종 인간 코로나 첫 발견...설치류 유래 가능성”</title>
-      <link>https://www.chosun.com/national/welfare-medical/2025/02/26/UAGGBCYBCRBG3KW2MVH2QXWBGI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/02/26/UAGGBCYBCRBG3KW2MVH2QXWBGI/</guid>
-      <dc:creator>강다은 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 26 Feb 2025 08:06:20 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5LV3HOHTGVWMEBFJ2JKQV6NRWM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;국내 연구진이 새로운 인간 코로나바이러스를 발견해 국제 학술지에 소개했다. 연구진은 "설치류에서 유래된 것으로 보인다"고 했다. 이 사진은 기사 본문과 직접적 관련은 없음./조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국내 연구진이 폐렴 증상을 보인 영아에게서 신종 인간 코로나바이러스(HCoV)를 발견했다. &lt;br&gt;&lt;br&gt;고려대의료원 미생물학교실 송진원 교수 연구팀은 2022년 고려대 안산병원에 폐렴 증상으로 입원한 영아의 검체를 분석한 결과 인간 코로나바이러스를 발견했다. 기존에 보고된 적이 없는 새 유형을 국내에서 처음 발견한 것이다. 이 같은 내용의 연구 결과는 국제 학술지 ‘신종 미생물과 감염’(Emerging Microbes and Infections) 2월호에 게재됐다.&lt;br&gt;&lt;br&gt;연구팀에 따르면 해당 영아는 발열, 기침, 가래, 콧물 등의 호흡기 증상과 함께 급성 중이염과 일시적인 간 기능 이상을 보여 입원했다. 폐렴이 동반됐고, 간 기능 수치도 비정상적으로 높았다. 기존에 있던 코로나는 주로 폐렴만 유발했는데, 해당 영아는 폐럼뿐 아니라 간 기능 이상도 겪은 것이다.&lt;br&gt;&lt;br&gt;이 영아 환자는 치료를 통해 호전돼 8일 만에 퇴원했다. &lt;br&gt;&lt;br&gt;연구팀은 영아에게서 발견된 바이러스가 기존 인간 코로나바이러스(229E, NL63, OC43, HKU1)와 유전적으로 다르며, 설치류에서 유래했을 가능성이 높다고 설명한다. &lt;br&gt;&lt;br&gt;연구팀은 또 2018~2022년 대한민국 내 설치류(쥐)에서 채취한 샘플을 분석한 결과, 이 신종 바이러스는 설치류에서 발견된 바이러스(α-CoV)와 높은 유전적 유사성을 가진다는 점도 밝혀냈다. &lt;br&gt;&lt;br&gt;다만 감염 경로는 불명확하며 사람 간 전파 가능성은 추가 연구가 필요하다고 연구팀은 밝혔다.&lt;br&gt;&lt;br&gt;송진원 교수는 “이 바이러스가 동물에서 인간으로 넘어온 새로운 형태의 바이러스일 가능성이 높다”고 했다.&lt;br&gt;&lt;br&gt;한 감염내과 교수는 “신종 바이러스라면 우리 주변에 얼마나 퍼져있고, 어떤 영향을 끼치는지 감시 검사를 할 필요는 있지만, 아직 사람 간 전파가 확인되지 않았기 때문에 불안해할 필요는 없다”며 “위험성, 기존 바이러스와의 차이가 유의미한지 등에 대해선 추가 연구가 필요하다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>‘MBC 퇴사’ 김대호 “직장 생활로 찍힐 금액 아냐”...계약금 얼마길래</title>
@@ -960,19 +976,6 @@
       <description/>
       <pubDate>Wed, 26 Feb 2025 06:12:05 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/52KFD6YV6JWWU643YOIDAUEIXA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울의 한 식당에서 판매되는 소주./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지나친 음주가 걷기와 달리기를 가능하게 하는 고관절에 문제를 유발할 수 있다는 경고가 나왔다. 고관절이 손상될 경우 통증뿐 아니라 보행 장애로 삶의 질이 크게 떨어질 수 있어 주의가 요구된다.&lt;br&gt;&lt;br&gt;26일 강동경희대병원에 따르면 대퇴골두 골괴사는 국내 고관절 질환의 약 70%를 차지할 정도로 많이 발생하는 질환이다. &lt;br&gt;&lt;br&gt;방치하면 관절 기능을 상실할 위험이 큰 이 질환은 다른 여러 나라와 비교해 우리나라에서 특이하게 발생 빈도가 높다. &lt;br&gt;&lt;br&gt;고관절은 몸통과 다리의 연결 부위인 사타구니에 위치한 엉덩이 관절로, 컵 모양으로 생긴 골반뼈의 비구 부분과 넓적다리뼈의 윗부분인 대퇴골두가 만나 이뤄진다.&lt;br&gt;&lt;br&gt;대퇴골두 골괴사는 넓적다리뼈 윗부분(대퇴골두)으로 가는 혈류가 차단되면서 뼈 조직이 점차 죽는 질환이다. 병이 진행되면 괴사 부위가 무너지면서 뼈가 부러지고, 말기에는 고관절 기능을 완전히 상실할 수 있다.&lt;br&gt;&lt;br&gt;초기에는 통증이 거의 없지만 골괴사가 진행돼 뼈가 부러지면 사타구니, 허벅지 안쪽, 무릎까지 통증이 나타날 수 있다. 계단 오르기나 양반다리 같은 동작이 어려워지는 것도 특징이다.&lt;br&gt;&lt;br&gt;발병 원인은 명확히 밝혀지지 않았으나 과도한 음주, 스테로이드 과다 사용, 신장 질환, 자가면역 질환, 장기 이식, 외상 등이 주요 위험 인자로 꼽힌다. 특히 국내에서는 음주가 가장 큰 원인으로 지목되며, 주로 40~50대 남성에게서 많이 발생하는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;예방을 위해서는 원인 인자를 피하는 것이 중요하다. 특히 일주일에 소주 5~6병 이상, 10년 이상을 마시면 괴사의 발병률이 10배가량 증가할 수 있어 과음을 피해야 한다.&lt;br&gt;&lt;br&gt;전영수 강동경희대병원 정형외과 교수는 “평소 칼슘과 비타민D를 충분히 섭취하고 햇볕을 자주 쬐는 것이 골다공증 예방에 도움이 된다”며 “뼈의 생성을 막는 술을 자제하고 규칙적인 운동을 통해 근력을 잃지 않는 것도 중요하다”고 조언했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>광주 도심에서 흉기로 경찰 공격한 피의자 실탄 맞고 사망</title>
-      <link>https://www.chosun.com/national/national_general/2025/02/26/P3ORZ6NWLFFTXH5M7LN63WZWXA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/02/26/P3ORZ6NWLFFTXH5M7LN63WZWXA/</guid>
-      <dc:creator>광주광역시=진창일 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 25 Feb 2025 22:19:38 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YXJMURO7CXEUONZMTL3WIQR72Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;광주 동부경찰서. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;광주광역시 도심에서 경찰관이 흉기를 휘두른 피의자가 실탄에 맞고 사망했다.&lt;br&gt;&lt;br&gt;26일 광주경찰청 등에 따르면 이날 오전 3시 11분쯤 광주 동구 금남로의 한 도로에서 A(51)씨가 광주 동부서 금남지구대 경찰관 50대 남성 B경감에게 흉기를 휘둘렀다. &lt;br&gt;&lt;br&gt;B경감은 여성 2명으로부터 “모르는 남성이 따라온다”는 신고를 받고 2인 1조로 출동했다. &lt;br&gt;&lt;br&gt;A씨는 B경감이 접근하자 흉기를 꺼내 들었고, 경찰이 흉기를 버리라고 하자 흉기를 휘둘러 B경감에게 상처를 입혔다.&lt;br&gt;&lt;br&gt;이 과정에서 경찰은 A씨에게 테이저건과 공포탄을 발사했다. 경찰은 “A씨가 공포탄 발사 뒤에도 흉기를 계속 휘두르자 실탄으로 제압했다”고 설명했다.&lt;br&gt;&lt;br&gt;A씨는 심정지 상태로 병원에 옮겨졌지만 숨졌다. B경감도 부상을 입어 병원에서 응급수술을 받고 있다. B 경감은 생명에 지장은 없는 것으로 전해졌다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “A씨와 여성들은 서로 모르는 사이였다”며 “A씨가 흉기를 휘두른 경위 등에 대해 조사 중”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/YXJMURO7CXEUONZMTL3WIQR72Q.jpg?width=3930&amp;height=2948&amp;auth=2881c5d15d5897a45345f1fbc55f7e33aab9acd89870252049685090dd9a3836&amp;smart=true" type="image/jpeg" height="2948" width="3930">
-        <media:description type="plain">광주 동부경찰서. /뉴스1</media:description>
-        <media:credit role="author" scheme="urn:ebu">뉴스1 DB</media:credit>
-      </media:content>
     </item>
   </channel>
 </rss>
