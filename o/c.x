@@ -13,6 +13,135 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>코인 거래 유인한 뒤 3000만원 빼앗아 달아난 중국인 남성 2명 체포 </title>
+      <link>https://www.chosun.com/national/incident/2025/02/28/O75J6C2MDVGTLPNZTP4LVQFMC4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/02/28/O75J6C2MDVGTLPNZTP4LVQFMC4/</guid>
+      <dc:creator>김혜민 기자, 강지은 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 28 Feb 2025 02:49:32 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/56WFCJXW4DYG27MFNMI6J6RKKE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;구로경찰서./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;가상화폐를 거래하자며 피해자를 유인해 현금을 빼앗아 달아난 중국인 일당이 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;서울 구로경찰서는 30대 중국인 남성 2명을 특수강도 혐의로 수사 중이라고 28일 밝혔다. 이들은 지난 27일 오후 7시쯤 서울 구로구에서 가상화폐 거래를 하자며 30대 남성 A씨를 유인, 폭행한 뒤 현금 3000만원을 빼앗아 달아난 혐의를 받는다.&lt;br&gt;&lt;br&gt;신고를 받고 출동한 경찰은 폐쇄회로(CC)TV를 통해 일당을 추적해 잠복한 끝에 같은날 오후 10시 20분쯤 서울 영등포구에서 피의자 2명을 모두 체포했다.&lt;br&gt;&lt;br&gt;한편 경찰은 피의자에 대한 구속영장 신청 여부를 검토중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>재판부 교체 따른 재판 지연 줄인다... 이재명·尹탄핵 사건도 적용</title>
+      <link>https://www.chosun.com/national/court_law/2025/02/28/BE5KT53RBFBHLDFRJ27DLB5UCQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/02/28/BE5KT53RBFBHLDFRJ27DLB5UCQ/</guid>
+      <dc:creator>김나영 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 28 Feb 2025 02:35:32 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/N5BGHLJ7INCJFHGRI7COETXTW4.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초동 대법원 건물./이명원 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;형사재판에서 판사가 재판 도중 바뀔 경우 밟는 공판 갱신 절차가 간소해지게 됐다. 그동안 공판을 갱신하게 되면 새 재판부가 이전 공판의 녹음 파일을 듣느라 재판이 지연되는 일이 잦았는데, 새 규칙 하에서는 녹취서를 열람하는 것만으로 대체할 수 있게 됐다.&lt;br&gt;&lt;br&gt;대법원은 28일 전자관보를 통해 이같은 내용이 담긴 형사소송규칙 일부 개정안을 공포했다. 지난 20일 대법관회의에서 의결된 해당 규칙은 공포 즉시 시행된다. 이에 따라 현재 법원에서 진행 중인 모든 형사 사건에 적용된다. 이번에 재판장 교체로 갱신 절차를 밟아야 하는 이재명 더불어민주당 대표의 ‘대장동·위례·성남FC·백현동’ 사건도 적용 대상이다.&lt;br&gt;&lt;br&gt;이번 개정안의 핵심은 재판의 갱신 절차를 규정하고 있는 144조다. 해당 조항에는 “녹음물에 대한 녹취서가 있으면 그 녹취서를 조사하는 것으로 증거조사를 갈음할 수 있다”는 단서 조항이 신설됐다. 기존에는 피고인이 새 재판부에게 녹취록을 들어달라고 요구하면 이전에 진행된 증인 진술 녹취 파일을 전부 다 재생해야 했다. ‘재판 지연’을 노리고 고의적으로 이를 악용하는 사례도 적지 않았다.&lt;br&gt;&lt;br&gt;만약 녹취서를 조사할 때 검사나 피고인, 변호인이 녹취서의 기재가 녹음물의 내용과 불일치한다고 이의를 제기할 경우엔 녹음물의 일부를 청취할 수 있도록 했다.&lt;br&gt;&lt;br&gt;형사소송규칙 개정안은 또 검사와 피고인들의 불필요한 증거 신청을 받아주지 않을 수 있는 근거 규정도 신설했다. 규칙 132조 단서에 “검사, 피고인 또는 변호인은 증명에 관련되고 필요한 증거만을 선별해 신청해야 한다”, “법원은 이를 위반하거나 재판에 부당한 지연을 초래하는 증거 신청을 기각할 수 있다”고 추가했다.&lt;br&gt;&lt;br&gt;윤석열 대통령 탄핵심판을 진행하고 있는 헌법재판소도 이번 개정 규칙을 적용할 수 있다. 헌법재판소법에 따르면 탄핵심판의 경우, 형사소송법규를 준용하게 돼 있기 때문이다. 만약 마은혁 헌재 재판관 후보자가 임명돼 윤 대통령 탄핵심판에 합류하게 될 경우, 간소화된 갱신 절차를 따르면 11차례 이뤄진 변론의 녹음을 일일이 듣지 않아도 된다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>내일부터 종로구 북촌 관광시간 제한…어기면 과태료 10만원</title>
+      <link>https://www.chosun.com/national/national_general/2025/02/28/RLPKGMYX65FPLI6RQDVWHWO2OU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/02/28/RLPKGMYX65FPLI6RQDVWHWO2OU/</guid>
+      <dc:creator>김영우 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 28 Feb 2025 01:50:43 +0000</pubDate>
+      <content:encoded>서울 종로구가 3월부터 북촌한옥마을 ‘방문 시간 제한 정책’을 본격적으로 시행하고 과태료 부과에 나선다고 28일 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HS7Q2G7G5ZDCFMCHC7SFH5QEE4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난해 11월 1일 서울 종로구 북촌한옥마을에 관광객 야간 출입통제를 알리는 안내문이 게시되어 있다. 종로구는 북촌 주민들의 정주권 보호와 올바른 관광문화의 정착을 위해 이날부터 관광객의 심야 출입을 제한했다. 3월부터는 과태료 10만원이 부과된다. /박상훈 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;종로구는 주민 불편을 이유로 앞서 지난해 7월 북촌한옥마을 일대의 관광 시간을 제한하겠다고 발표했다. 이어 지난해 11월부터 4개월간 시범 운영을 진행했고, 3월부터는 단속을 실시해 과태료 부과에 나서게 된다.&lt;br&gt;&lt;br&gt;관광객의 방문 시간이 제한되는 곳은 주거용 한옥이 많고 관광객이 가장 많이 몰리는 북촌로11길 일대다. 종로구는 이곳을 ‘레드존’이라 이름 붙이고, 오전 10시부터 오후 5시까지만 관광객의 방문을 허용하기로 했다.&lt;br&gt;&lt;br&gt;오후 5시 이후 레드존에 들어가 사진이나 영상을 찍고, 마을을 구경하면서 돌아다니는 등 관광을 하는 사람에게 과태료 10만원을 부과한다.&lt;br&gt;&lt;br&gt;종로구 관계자는 “단속 전담 공무원이 1번은 경고를 주고, 그 후에도 나가지 않으면 과태료를 부과할 예정”이라고 말했다.&lt;br&gt;&lt;br&gt;다만 상인들의 영업 피해 최소화와 관광객의 편의를 위해 상점 이용객이나 투숙객 등은 출입을 허용하기로 했다.&lt;br&gt;&lt;br&gt;정문헌 종로구청장은 “이번 제도를 통해 북촌 주민들이 더 안정적인 일상을 누릴 수 있길 바란다”며 “관광객들도 올바른 관광 문화를 실천하길 기대한다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>대구 달성군, 장애인·어르신 대상 ‘전동보장구 안심 운행 보험’ 지원</title>
+      <link>https://www.chosun.com/national/regional/2025/02/28/XUMH5QYUIFDB7KPICPETW2OS44/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/02/28/XUMH5QYUIFDB7KPICPETW2OS44/</guid>
+      <dc:creator>대구=노인호 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 28 Feb 2025 02:03:18 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IDOFPWDQEJ45WIEU6OBIT6BP4A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대구 달성군 전경./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대구 달성군은 전동휠체어와 전동스쿠터를 이용하는 장애인과 어르신을 대상으로 ‘전동보장구 안심 운행 보험’ 지원 사업을 진행한다고 28일 밝혔다. 이 사업은 전동보장구 운행 중 사고로 인한 장애인과 어르신의 정신·경제적 부담을 줄여주기 위한 것으로, 대구 지역 지자체 중 최초다.&lt;br&gt;&lt;br&gt;달성군에 따르면, 달성군에 거주하는 전동 보장구 이용 장애인과 만 65세 이상 어르신은 별도 절차 없이 자동 가입돼 3월 1일부터 1년간 보험 혜택을 받을 수 있다. &lt;br&gt;&lt;br&gt;이에 따라 전동 보장구 이용 중 제3자를 다치게 하거나 물건을 부수는 등의 사고를 일으킬 경우 건당 최대 3000만 원(자부담 5만 원)까지 지원받게 된다. 단 피보험자 부상과 전동 보장구 손해는 지원에서 제외된다. 보장 기간 중 보험 청구 횟수에 대한 제한은 없으며, 사고 발생일로부터 3년 이내에 보험금을 청구하면 심사를 거쳐 보상 여부가 결정된다. &lt;br&gt;&lt;br&gt;최재훈 달성군수는 “이 사업이 장애인과 어르신의 경제적 부담을 덜고, 사고 피해를 빠르게 회복할 수 있는 디딤돌 역할을 하길 기대한다”며 “장애인과 노인들의 이동권 보장과 사회활동 참여 증진을 위해 다양한 노력을 하겠다”고 말했다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘캡틴아메리카’ 복장 尹지지자 검찰 송치… 사문서 위조 혐의도 적용</title>
+      <link>https://www.chosun.com/national/national_general/2025/02/28/RMGRMLNI3BAHLE4KSDOH5LZPFA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/02/28/RMGRMLNI3BAHLE4KSDOH5LZPFA/</guid>
+      <dc:creator>고유찬 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 28 Feb 2025 00:25:58 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LODL7WU2HRBFREH6WJ3EXK2FQM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 10일 서울 중구 국가인권위원회에서 마블 캐릭터 '캡틴아메리카' 복장을 한 윤석열 대통령 지지자 안모씨가 시위를 벌이고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;영화 주인공 ‘캡틴 아메리카’ 복장을 하고 중국대사관과 경찰서에 난입하려 한 윤석열 대통령 지지자가 검찰에 송치됐다.&lt;br&gt;&lt;br&gt;서울 남대문경찰서는 40대 남성 안모(42)씨를 건조물침입 미수와 공용물건 손상 등의 혐의로 검찰에 구속 송치했다고 28일 밝혔다.&lt;br&gt;&lt;br&gt;안씨는 지난 20일 밤 11시쯤 남대문 경찰서 출입 게이트 유리를 깨고 안으로 진입하려다 현행범으로 체포됐다. &lt;br&gt;&lt;br&gt;당시 안씨는 경찰서를 찾아가 자신을 빨리 조사해달라고 요구했다가 거부당하자 범행을 저지른 것으로 파악됐다. &lt;br&gt;&lt;br&gt;안씨는 경찰서 난입 과정에서 경찰관에게 욕설을 하고, 가짜 미군 신분증을 만든 것으로 파악됐다. 이에 경찰은 안씨에게 모욕과 사문서 위조 등의 혐의도 적용했다.&lt;br&gt;&lt;br&gt;앞서 안씨는 지난 14일 저녁 캡틴 아메리카 복장을 하고 주한 중국대사관에 난입하려 한 혐의로 경찰 조사를 받아왔다.&lt;br&gt;&lt;br&gt;안씨는 자신이 미군 출신 미국 중앙정보국(CIA)의 블랙 요원이고 스카이데일리의 ‘중국 간첩 99명 체포설’ 보도의 취재원이라고 주장해, 해당 보도를 한 기자를 명예훼손 등 혐의로 수사 중인 경찰의 참고인 조사를 받기도 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>제주항공 참사 허위사실 영상 유포 60대 유튜버 구속</title>
+      <link>https://www.chosun.com/national/2025/02/28/EZJ7WVQBMBAALC7SLAAA3225GM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2025/02/28/EZJ7WVQBMBAALC7SLAAA3225GM/</guid>
+      <dc:creator>박주영 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 28 Feb 2025 01:59:05 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/M6YCUZZI6RCRZCIVKDF44A2EHA.png"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 30일 전남 무안 국제공항 대합실. '제주항공 참사' 유족들이 흐느껴 울고 있다. /신현종 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5AG3W4UWZ5DYPHLI65Q3OTPSIA.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=김하경&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제주항공 여객기 사고 관련 허위사실 유포에 대해 수사 중인 부산경찰청 사이버수사과는 “가짜 뉴스 영상을 올려 허위사실을 유포해 명예를 훼손한 혐의(정보통신망법, 전기통신기본법 위반)로 60대 A씨를 구속하고 70대 B씨를 불구속 입건했다”고 28일 밝혔다.&lt;br&gt;&lt;br&gt;경찰에 따르면 A씨 등은 지난해 12월 30일부터 올해 1월 21일까지 “무안공항 참사 사고와 관련한 사진이나 동영상은 모두 가짜이고 컴퓨터 그래픽”이라고 주장하는 동영상을 유튜브 등 플랫폼에 100여 차례 올린 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;이들은 “비행기 잔해는 소품이다. 유가족들은 실제 유족이 아니다. 사고 보험금 때문에 거짓으로 만들어 낸 사건이다”는 허위 주장 등을 온라인상에 배포한 혐의도 받고 있다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “A씨 등은 제보로 자신들의 유튜브 계정이 폐쇄되면 다시 다른 유튜브 채널을 개설, 계속해서 허위사실이 담긴 동영상을 유포하는 수법으로 범행을 계속 이어왔다”고 말했다.&lt;br&gt;&lt;br&gt;A씨는 지난 1월 초 수사 착수 후 혐의 내용에 대한 조사를 거쳐 경찰에 의해 사전구속영장이 신청됐으나 영장실질심사에 출석하지 않고 달아났다. 경찰은 이에 추가로 구속영장을 발부받아 추적에 나서 지난 26일 서울 은평구에 은신 중인 A씨를 검거했다.&lt;br&gt;&lt;br&gt;경찰청은 지난 1월 초 희생자 유족 측에서 제주항공 참사 가짜 뉴스 영상 게시 등에 대해 전남경찰청에 고소장을 내자 각 지방경찰청을 통해 수사를 시작했다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>서울 대형병원 주차장서 간호사 차에 치인 60대 여성 사망</title>
+      <link>https://www.chosun.com/national/national_general/2025/02/28/W6KOXSG43FANBH55G7VOXRVAY4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/02/28/W6KOXSG43FANBH55G7VOXRVAY4/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 28 Feb 2025 02:14:31 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/X4WX55AXSBGOJAEPHUXGIU3CIA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 관련 이미지. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울의 한 대형병원 야외 주차장에서 장례식장으로 향하던 60대 여성이 간호사가 몰던 차량에 치여 숨지는 사고가 발생했다.&lt;br&gt;&lt;br&gt;28일 서울 서초경찰서 등에 따르면 지난 18일 오전 7시쯤 서울 서초구 한 대형병원 주차장에서 60대 여성 방문객 A씨가 이 병원의 간호사인 40대 여성 B씨가 몰던 SUV 차량에 치였다. &lt;br&gt;&lt;br&gt;A씨는 당시 이 병원 장례식장으로 향하던 중이었다. &lt;br&gt;&lt;br&gt;이 사고로 A씨가 차 밑에 깔려 심정지가 왔고 구조 후 응급실로 옮겨졌으나 결국 사망했다.&lt;br&gt;&lt;br&gt;경찰은 40대 여성 간호사 B씨를 교통사고처리특례법상 치사 혐의로 입건하고 자세한 사고 경위를 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>여의도순복음교회, 연세대에 발전기금 30억원 기부</title>
+      <link>https://www.chosun.com/national/people/2025/02/28/DFWHZWW6NNHIDKXPWGFVKJGBLA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/02/28/DFWHZWW6NNHIDKXPWGFVKJGBLA/</guid>
+      <dc:creator>최하연 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 28 Feb 2025 02:11:55 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SLXFWEUIKFH4PPYRM72K3VEVWU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;여의도순복음교회 이영훈 담임목사(왼쪽), 연세대학교 윤동섭 총장(오른쪽)/연세대&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;연세대학교는 여의도순복음교회로부터 연세발전기금 30억원을 기부받았다고 27일 밝혔다. 기부금 전달식은 이날 오전 10시 연세대 총장실 부속회의실에서 열렸으며, 여의도순복음교회 이영훈 담임목사와 안병광 장로회장이 참석했다.&lt;br&gt;&lt;br&gt;연세발전기금은 학교의 다양한 교육·연구·사회공헌 사업을 지원하는 핵심 재원으로, 이번 기부금은 기독교적 가치관을 바탕으로 양자 컴퓨팅 및 인공지능(AI) 등 초학제적 첨단 융합 연구 지원에 활용될 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>중증질환연합회 “의대 증원 원점 논의는 밀실야합…있을 수 없는 일”</title>
+      <link>https://www.chosun.com/national/welfare-medical/2025/02/28/4ZBJEEANDFDZFHRUKDNABILE5M/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/02/28/4ZBJEEANDFDZFHRUKDNABILE5M/</guid>
+      <dc:creator>오경묵 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 28 Feb 2025 01:09:43 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AILP6F3WURJKBJGVY4IGXD6BJI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울의 한 대형병원 응급실로 환자가 들어가고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한국중증질환연합회는 28일 “2026년 의대 입학 정원 원점 논의라는 교육부의 밀실야합 논란은 있을 수 없는 일”이라고 비판했다.&lt;br&gt;&lt;br&gt;연합회는 이날 논평을 내 “교육부는 보건복지부와 합의되지 않은 의대 학장들과의 의대 정원 백지화 논의 과정을 명백히 밝히고, 논란에 대해 사과하라”고 했다.&lt;br&gt;&lt;br&gt;앞서 이주호 부총리 겸 교육부 장관은 최근 의협 이사진과 비공식적으로 만나 “의협이 의대 학장들이 요구하는 ‘3058명’ 동결안을 수용하면 정부도 힘을 싣겠다”고 말했다고 한다. 24일 의대 학장단 간담회에서도 “의대 학장들이 의대생 복귀를 책임지고 설득한다면, 정부도 ‘3058명’ 동결안을 받아들일 수 있다”는 취지의 뜻을 전한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;연합회는 “정부의 안일한 의료개혁 의지가 논란을 야기시킨 것”이라며 “정부는 의료개혁 의지를 확고히 밝혀야 한다”고 했다.&lt;br&gt;&lt;br&gt;그러면서 “지난 1년간 의미없는 의정 갈등을 보면서도 중증 질환자들이 모진 목숨을 버텨 온 것은 환자와 국민들을 위한 의료개혁을 진행하겠다는 정부의 진정성을 믿었기 때문”이라며 “교육부의 무책임한 태도로 지난 1년간의 희생이 물거품이 될까 두렵다”고 했다.&lt;br&gt;&lt;br&gt;연합회는 “정부와 의료계, 정치권은 소모적 갈등을 멈추고 환자의 고통을 해소할 실질적 대책을 마련해야 한다”며 “정부와 정치권 등은 성과 없는 의료인력추계위원회에만 시간을 할애하지 말고 환자피해조사기구도 법제화해 의료공백 선결을 최우선 과제로 삼아야 한다”고 했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>오세훈 “올림픽, 균형발전 논리로는 유치 어려워…서울이 돼야”</title>
+      <link>https://www.chosun.com/national/national_general/2025/02/28/H7SKOJEOY5AQ3KI2VEXS2XYSWI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/02/28/H7SKOJEOY5AQ3KI2VEXS2XYSWI/</guid>
+      <dc:creator>김영우 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 28 Feb 2025 01:03:20 +0000</pubDate>
+      <content:encoded>오세훈 서울시장이 28일 2036 하계 올림픽 국내 유치 후보지 선정과 관련해 “국내에서 균형 발전이 필요하다는 논리론 국제올림픽위원회(IOC)나 다른 나라를 설득하기 어렵다”며 “서울이 개최권을 따와야 한다”고 말했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7MSY4CUZOBLSFKDRUMR4ZQBUHQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;오세훈 서울시장. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;오 시장은 이날 YTN라디오 ‘뉴스파이팅, 김영수입니다’ 전화 인터뷰에서 이같이 말했다. 오 시장은 “서울이 개최권을 따 지방 발전을 위해 몇 종목씩 분산 개최하는 것은 가능하고 바람직하다”고 덧붙였다.&lt;br&gt;&lt;br&gt;대한체육회는 이날 오후 대의원 총회에서 2036년 하계 올림픽 국내 유치 후보지를 결정한다. 오 시장은 이날 투표를 앞두고 열리는 최종 발표(PT)에 발표자로 나설 예정이다.&lt;br&gt;&lt;br&gt;오 시장은 “서울시가 가장 잘 준비된 도시라는 것을 어필하겠다”며 “잠실 일대는 마이스(MICE) 리모델링에 이미 들어가 2031년까지 새단장된다. IOC가 판단하는 데 이런 점이 장점이 될 것”이라고 했다.&lt;br&gt;&lt;br&gt;조기 대선 출마 여부를 묻는 질문에는 “헌법재판소 결정이 내려지기 전에 말씀드리는 것은 도리가 아니라 자제하고 있다”면서도 “너무 촉박한 대선 일정이 벌어지니 미리 마음의 준비와 생각 정리는 하고 있어야 한다”고 했다.&lt;br&gt;&lt;br&gt;정치 브로커 명태균씨에 관한 의혹에 대해서는 ‘후원자로 알려진 사업가 김한정씨가 명씨에게 돈을 준지도 몰랐고, 명씨의 미공표 여론조사를 받은 적도 없다’는 취지로 말했다.&lt;br&gt;&lt;br&gt;오 시장은 “검찰 수사가 시작됐으니 (김씨가) 대납한 건지, 명태균한테 사기를 당한 건지는 수사 결과로 밝혀질 것”이라고 했다.&lt;br&gt;&lt;br&gt;지난 27일 더불어민주당 주도로 국회 본회의에서 명태균 특검법이 통과된 것에 대해선 “특검을 하면 시간이 또 걸린다”며 “조기 대선 중에 명태균의 ‘아무 말 대잔치’로 대선 정국을 흐리겠다는 의도”라고 했다.&lt;br&gt;&lt;br&gt;국민의힘 한동훈 전 대표의 정치 활동 재개 움직임을 두고는 “그분이 나라 경영에 대한 숙성된 비전이 있다면 당연히 당내 경선에 들어와서 함께 경쟁하는 건 나쁠 게 없다”고 했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>경찰, ‘안성 고속도로 붕괴 사고’ 관련 현대엔지니어링·도로공사 압수수색</title>
+      <link>https://www.chosun.com/national/incident/2025/02/28/72QPB2HMWRACDLGNM5RRJMV354/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/02/28/72QPB2HMWRACDLGNM5RRJMV354/</guid>
+      <dc:creator>안성=김수언 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 28 Feb 2025 00:48:45 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/O5MON7DMKJO2HOB6DQISJ6TZFI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;10명의 사상자가 발생한 경기도 안성시 서울세종고속도로 건설 공사 교량 상판 붕괴 사고 현장에서 26일 국토안전관리원 등 관계자들이 사고 현장을 살펴보고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;4명이 숨지고, 6명이 다친 경기 안성 서울세종고속도로 다리 붕괴 사고를 수사 중인 경찰이 28일 시공사 등에 대한 압수수색에 나섰다.&lt;br&gt;&lt;br&gt;경기남부경찰청 고속도로 붕괴 사고 수사전담팀은 이날 서울세종고속도로 9공구 발주처인 한국도로공사, 시공사인 현대엔지니어링, 하도급사인 장헌산업, 강산개발 등 4곳에 대한 압수수색을 진행하고 있다. 수사전담팀은 “금일 9시 30분부터 4개업체, 7개소에 대해 압수수색 영장을 집행 중”이라고 밝혔다. &lt;br&gt;&lt;br&gt;압수수색 장소는 서울에 있는 현대엔지니어링 서울 본사, 경북 김천에 있는 도로공사 본사, 충남 당진의 장헌산업 본사와 이들 회사의 현장 사무실, 강산개발의 현장 사무실 등인 것으로 알려졌다.&lt;br&gt;&lt;br&gt;이날 압색에는 경찰 인력 43명, 고용노동부 감독관 32명 등 75명이 참여해 사고관련 자료를 확보하고 있다.&lt;br&gt;&lt;br&gt;이번 사고 구간은 현대엔지니어링(50%), 호반산업(30%), 범양건영(20%) 컨소시엄이 공사를 진행 중이었다. 주관사는 현대엔지니어링이다.&lt;br&gt;&lt;br&gt;하도급사인 장헌산업은 교량 상판 구조물인 ‘거더’(다리 상판 보)를 설치하는 작업을 맡았으며, 강산개발은 거더 위에 슬라브(상판)를 얹는 작업을 각각 맡았다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UWKMMDVX5FKE5ATNTREHAPD27U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;10명의 사상자가 발생한 경기도 안성시 서운면 산평리 '안성 고속도로 교각 붕괴' 현장에 26일 교각 상판이 처참하게 내려앉아 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;아울러 경찰과 국립과학수사연구원, 산업안전공단 등은 이날 오전 10시 30분부터 사고 현장에서 합동 감식을 진행할 예정이다. 감식에는 관계기관 6곳 소속 관계자 42명이 참여한다.&lt;br&gt;&lt;br&gt;한편, 지난 25일 오전 9시 49분쯤 경기 안성시 서운면 산평리 서울세종고속도로 안성~용인 구간 연결 교량(청룡천교) 건설 현장에서 다리의 상판 구조물이 무너지는 사고가 났다.&lt;br&gt;&lt;br&gt;교각(다리 기둥) 위에 올려져 있는 상판 4개(거더 6개 1세트)가 브이(V)자로 휘면서 일시에 땅바닥으로 무너져 내렸다.&lt;br&gt;&lt;br&gt;이 사고로, 다리 위에서 일하고 있던 작업자 10명이 약 52m 높이에서 바닥으로 추락해 매몰돼 4명이 숨졌다. 나머지 6명은 중상을 입고 병원에서 치료 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>여당 현역 의원 아들, 서울 한복판서 마약 ‘던지기’ 받으려다 적발</title>
+      <link>https://www.chosun.com/national/national_general/2025/02/28/DGPZ3RASNNFPLOTOEGAW5QNO5Y/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/02/28/DGPZ3RASNNFPLOTOEGAW5QNO5Y/</guid>
+      <dc:creator>김병권 기자, 안태민 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 28 Feb 2025 00:45:19 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/U4QQHTGFOWPSSP5QTBPQA6UJOQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초경찰서/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;여당 현역 국회의원의 아들이 서울 서초구 주택가에서 ‘던지기’ 수법으로 액상 대마를 받으려다가 적발돼 경찰 수사를 받고 있다. 던지기란 판매자가 마약류를 특정 장소에 숨기고 구매하는 사람이 이를 수거하는 거래 방식이다.&lt;br&gt;&lt;br&gt;서울 서초경찰서는 30대 A씨를 마약류관리법 위반 혐의(대마 수수 미수)로 입건해 불구속 수사 중이라고 28일 밝혔다. A씨는 지난해 10월 서울 서초구의 한 건물 화단에서 액상 대마 약 5g를 받으려다가 미수에 그친 혐의를 받는다.&lt;br&gt;&lt;br&gt;당시 경찰은 “수상한 사람들이 건물 화단에서 마약을 찾는 것 같다”는 신고를 받고 출동했다. 현장에서 10mL 크기의 통에 들어 있는 액상 대마를 발견한 경찰은 이미 현장을 떠난 이들을 특정하고 추적했다고 한다. 이후 A씨는 남성과 여성 등 지인 두 명과 함께 발견됐는데, 이들은 사회생활을 하며 만난 친구 사이인 것으로 전해졌다. &lt;br&gt;&lt;br&gt;A씨 등은 경찰 조사에서 “지인에게 대마를 구하고 싶으니 이를 숨겨둔 곳을 알려달라고 해서 현장에 갔지만 찾지 못했다”고 주장한 걸로 알려졌다. 이들은 적발 당시 경찰이 시행한 마약 검사에선 음성이 나왔다고 한다. A씨는 과거에도 대마를 흡입한 혐의로 처벌받은 전력이 있다고 전해졌다. &lt;br&gt;&lt;br&gt;경찰은 A씨 일행 외에 액상 대마의 위치를 알려준 지인 등 관련자도 조사하는 한편, A씨 등에게 추가 혐의가 있는지도 들여다보고 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/U4QQHTGFOWPSSP5QTBPQA6UJOQ.jpg?width=3386&amp;height=1905&amp;auth=ee16c07c42ff29c842bdf88015a25faff1bcee865d76cc368d5552e638842809&amp;smart=true" type="image/jpeg" height="1905" width="3386">
+        <media:description type="plain">서울 서초경찰서/뉴스1</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>당진 현대제철 운반 용기 균열로 쇳물 300t 누출…인명 피해 없어</title>
+      <link>https://www.chosun.com/national/regional/2025/02/28/AFMJ6QJVTFAK5JXAF3TP7KJI2U/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/02/28/AFMJ6QJVTFAK5JXAF3TP7KJI2U/</guid>
+      <dc:creator>우정식 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 27 Feb 2025 23:27:53 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Z7FV3OUCQIKU2TXQIJ6HPG27O4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;현대제철 당진제철소 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;28일 오전 2시 26분쯤 충남 당진시 송악읍 현대제철 제1고로 인근에서 운반 열차에 실려있던 쇳물 300t이 누출되며 운반 열차에 불이 났다.&lt;br&gt;&lt;br&gt;소방 당국은 소방차 등 장비 22대, 인력 66명을 투입해 1시간 43분 만인 오전 4시 9분쯤 불을 모두 껐다.&lt;br&gt;&lt;br&gt;당시 제1고로에서 생산된 쇳물을 제철소 내부 운반 열차에 싣고 이동 중이었는데 운반 용기에 균열이 생기면서 쇳물이 철로에 누출된 것으로 소방 당국은 보고 있다. 이 불로 열차 일부가 타 소방서 추산 3000여만원의 재산 피해가 났다.&lt;br&gt;&lt;br&gt;인명 피해는 없었고, 불이 철로 밖 시설물로는 번지지 않아 2차 사고는 없었다고 한다.&lt;br&gt;&lt;br&gt;현대제철에 따르면 제1고로에서 생산된 쇳물은 내부와 연결된 운반 열차를 통해 제강공장으로 옮겨진 뒤 불순물 제거 등 품질 개선 절차를 거친다.&lt;br&gt;&lt;br&gt;쇳물은 고온을 견디는 내화벽돌과 철피로 만든 운반 용기에 담겨 수송되는데, 운반 용기에 균열이 생기면서 쇳물이 쏟아진 것으로 알려졌다.&lt;br&gt;&lt;br&gt;현대제철 관계자는 “당시 열차에 기관사 등 작업자가 있었지만, 쇳물 운반 용기와 완전히 차단된 구조라 인명피해는 없었다”며 “조사 당국과 함께 정확한 사고 원인을 찾고 있고 최대한 빠른 복구를 진행할 예정”이라고 했다.&lt;br&gt;&lt;br&gt;경찰과 소방 당국은 현대제철 관계자 등을 상대로 정확한 사고 원인과 피해 규모 등을 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>김흥국, 故김새론 간접 언급하며 “나도 방송 복귀해야 하는데 악플 시달려”</title>
+      <link>https://www.chosun.com/national/people/2025/02/28/L5FVXE26ZFFZ7PRBU5O2SCNH7A/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/02/28/L5FVXE26ZFFZ7PRBU5O2SCNH7A/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 28 Feb 2025 00:12:27 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G4B54U6PRR45YJEIJTIFZ7OH6A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;가수 김흥국. /뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;가수 김흥국이 고(故) 김새론을 간접 언급하며 자신도 악성 댓글 때문에 고통을 받고 있다고 호소한 사실이 뒤늦게 알려져 화제가 되고 있다. &lt;br&gt;&lt;br&gt;김흥국은 지난 23일 자신의 유튜브 채널을 통해 “요즘 연예계 뉴스를 보면서 마음이 아파서 연예계 선배로서 한마디 하고 싶었다”면서 “20대에 연예계에 큰 꿈을 갖고 스타가 되겠다고, 열심히 활동했는데. 사람이 살다 보면 별일들이 많다”고 했다. &lt;br&gt;&lt;br&gt;김흥국은 “그래도 반성하고 용서를 구하고 다시 꿈을 갖고 스타를 해보려고 했다. 자기 나름대로 최선을 다했는데 왜들 그렇게 미워하고, 왜 그렇게 집중적으로 악의적인 표현을 하나”라며 “그래서 극단적인 선택을 하는 걸 보면 마음이 아프다”고 했다. &lt;br&gt;&lt;br&gt;김흥국은 지난 16일 세상을 떠난 아역배우 출신 김새론을 언급한 것으로 보인다.&lt;br&gt;&lt;br&gt;이어 “저도 마찬가지”라며 “방송에 복귀해야 하는데 다들 아시다시피 많은 악플에 시달리고 있다”고 했다.&lt;br&gt;&lt;br&gt;김흥국은 “사람이 살다 보면 실수할 수 있다”며 “그러나 반성하고 용서하고 그러면 다시 또 복귀할 수 있는 그런 기회를 많이 주셨으면 좋겠다”고 했다.&lt;br&gt;&lt;br&gt;김흥국은 그동안 보수우파 정치적 성향을 당당히 공개하면서 여러 집회에 참석해 목소리를 내왔다. 지난 1월에는 지난해 무면허 운전 혐의로 벌금형을 받은 소식이 뒤늦게 알려지기도 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>[팩트 체크] 화교는 수능 망쳐도 서울대? 사실 아닙니다</title>
       <link>https://www.chosun.com/national/education/2025/02/28/KMF3CRYF5BFHND34I7U46OUTHI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/education/2025/02/28/KMF3CRYF5BFHND34I7U46OUTHI/</guid>
@@ -732,15 +861,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QEHCMCTHAZCHVCZXOZDU6QYZYE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 중구 국가인권위원회 건물./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국가인권위원회(인권위)가 학교폭력대책심의위원회(학폭위)를 열기 전 당사자에게 심의위원 정보를 제공하지 않는 것은 피해자의 기피 신청권 침해라고 판단했다.&lt;br&gt;&lt;br&gt;27일 인권위에 따르면 학교폭력 가해자로 신고된 한 학생의 부모는 광주광역시의 한 교육지원청에서 개최된 학폭위에 출석했으나 자녀가 다니는 고등학교 교장으로부터 심의위원 관련 정보를 받지 못했다. 이에 이들은 작년 4월 인권위에 진정을 제기했다. &lt;br&gt;&lt;br&gt;인권위에 따르면 해당 회의록상 심의·의결과 관련한 개인의 발언 내용은 교육지원청은 학교폭력예방법에 따라 비밀에 해당해 정보를 공개할 수 없다고 해명했다. 또 해당 교육지원청은 위원의 소속과 이름 등은 정보공개법에 따라 공개될 경우 공정한 업무 수행에 지장을 초래하는 정보에 해당해 공개할 수 없다고 했다.&lt;br&gt;&lt;br&gt;이에 인권위 아동권리소위원회는 “기피 신청권은 분쟁 당사자에게 주어진 유일한 대항권으로, 교육지원청이 각 당사자에게 사전에 위원 명단을 제공해 위원 기피 사유가 있는지 확인할 수 있는 시간적 여유를 보장해야 한다”고 했다. &lt;br&gt;&lt;br&gt;인권위는 이정선 광주교육감에게 향후 학폭위를 개최할 때 회의 전 적절한 시기에 심의위원의 정보를 분쟁 당사자에게 통지하도록 업무처리 관행을 개선하라고 권고했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>재판 영상 공개된 조영남 매니저…대법 “위법 아냐, 국가 배상책임 없어”</title>
-      <link>https://www.chosun.com/national/court_law/2025/02/27/UL6LBI2FS5DZLOIZHDALBGT7VU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/02/27/UL6LBI2FS5DZLOIZHDALBGT7VU/</guid>
-      <dc:creator>박강현 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 27 Feb 2025 03:53:29 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MP2HBDP4CNB73ODWUW6X6LNYJI.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초동 대법원. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이른바 ‘가수 조영남 그림 대작(代作) 형사사건’ 공개 변론 과정에서 피고인의 얼굴을 촬영해 실시간 중계하며 공개한 행위는 위법하지 않아 국가배상책임이 인정될 수 없다는 대법원 판단이 나왔다. 대법원 규칙에 따른 정당한 조치였고, 재판 당사자의 초상권 등 인격권 침해보다 공공의 이익을 고려해야 한다는 취지다. &lt;br&gt;&lt;br&gt;대법원 3부(주심 이흥구 대법관)는 27일 장모씨가 국가를 상대로 “공개 변론 과정을 녹화한 동영상을 홈페이지에 게시해 초상권 등이 침해됐다”며 제기한 손해배상 소송에서 원고 일부 승소 판결을 깨고 사건을 서울서부지법으로 돌려보냈다.&lt;br&gt;&lt;br&gt;이 사건의 발단은 가수 조영남씨의 그림 대작 사건이다. 앞서 조씨는 2011년 9월~2016년 4월까지 송모씨 등 화가 2명을 고용해 화투 그림 26점을 그리고, 자기 작품이라고 속인 혐의(사기죄)로 2016년 8월에 기소됐다. 매니저였던 장씨도 조씨 범행에 가담한 혐의로 함께 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GLALKHFPBUYXMY53D6QCBOVOOA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;가수 조영남씨. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이후 대법원은 문화예술계에 영향을 미칠 수 있는 사안이자 일반 대중의 공적 관심사였던 점을 감안해 공개 변론을 진행하기로 결정했고, 장씨는 조씨와 함께 2020년 5월 28일 이 사건 공개 변론에 출석했다. 대법원은 이러한 공개 변론 과정을 촬영해 홈페이지 등으로 실시간 중계하고 영상 게시도 했다.&lt;br&gt;&lt;br&gt;이에 장씨는 자신의 동의 없는 재판 중계 및 변론 동영상 게시로 초상권 등이 침해됐다면서 지난 2022년 2월 국가를 상대로 3100만원의 위자료를 청구하는 소송을 냈다. &lt;br&gt;&lt;br&gt;1심은 재판 중계 자체는 합당하지만, 장씨가 공적 인물도 아닌데 모자이크 등 없이 영상을 게시한 것은 초상권을 일부 침해해 위법하다는 취지로 장씨의 손을 들어줬다. 재판부는 “모자이크 등 보호 조치를 하더라도 시청자의 알권리 보장에는 별다른 지장이 없었다고 보이는 점에 비춰보면 변론 동영상 게시의 정당성을 인정하기 어렵다”며 국가가 장씨에게 위자료 500만원을 지급해야 한다고 했다. &lt;br&gt;&lt;br&gt;2심은 장씨의 음성권 침해를 추가로 인정했으나 위자료는 1심과 같이 500만원으로 판단했다.&lt;br&gt;&lt;br&gt;반면 대법원의 판단은 달랐다. 대법원은 “(당시 대법원이) ‘대법원에서의 변론에 관한 규칙’ 제7조의2에 따라 재판장이 대법원 변론의 중계 방송이나 녹화 결과물을 게시하도록 하는 것은 공공의 이익과 재판 당사자의 초상권 등 인격권 침해 우려 사이에서 이익형량(달성하고자 하는 이익과 그에 따라 침해되는 이익을 비교)을 통해 이뤄진 것으로 볼 수 있다”고 했다. &lt;br&gt;&lt;br&gt;이어 “재판장의 판단이 법관에게 부여된 권한의 취지에 명백히 어긋나게 행사했다고 볼 사정이 없는 이상, 그에 따라 이뤄진 대법원 변론의 중계 방송 내지 녹화 결과물의 게시에 대해 국가배상책임이 인정될 수는 없다”며 “녹화 결과물을 게시한 담당 공무원의 직무행위는 이러한 재판장의 명령에 따른 것에 불과해 거기에 별도의 위법성도 인정하기 어렵다”고 지적했다.&lt;br&gt;&lt;br&gt;또 대법원은 장씨가 이미 방송에 출연한 바 있고 언론 인터뷰에도 응하면서 자신의 얼굴과 함께 조씨의 매니저로서 지위를 스스로 널리 알린 점도 고려했다.&lt;br&gt;&lt;br&gt;대법원 관계자는 “대법원 공개 변론의 중계 방송 내지 동영상의 게시와 관련해 국가배상책임이 인정되기 위한 요건을 최초로 설시한 의미가 있다”고 설명했다.&lt;br&gt;&lt;br&gt;한편, 그림 대작 논란으로 사기 혐의로 재판을 받았던 조씨와 장씨는 지난 2020년 6월 대법원에서 무죄를 확정받았다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>서울남부지검, 가상자산범죄합동수사부 출범</title>
       <link>https://www.chosun.com/national/national_general/2025/02/27/Q3CONJJTFRBDHEOD5VUAZVNGGA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/02/27/Q3CONJJTFRBDHEOD5VUAZVNGGA/</guid>
@@ -781,15 +901,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FH3MGORFKNFYLKDBZCWXJHTZ7M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;26일 오전 10시 43분쯤 화재가 발생한 인천 서구 심곡동의 한 빌라 내부. /인천소방본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천의 한 빌라에서 불이 나 집에 혼자 있던 초등학생 1명이 중태에 빠졌다. &lt;br&gt;&lt;br&gt;27일 인천소방본부에 따르면 전날 오전 10시 43분쯤 인천 서구 심곡동의 한 빌라 4층에서 화재가 발생했다. &lt;br&gt;&lt;br&gt;이 불로, 집에 있던 A(12)양이 얼굴 부위에 2도 화상을 입고 병원으로 옮겨져 치료 중이다. 또 소방서 추산 390만원 상당의 재산 피해가 발생했다. &lt;br&gt;&lt;br&gt;병원으로 옮겨진 A양은 아직 의식을 찾지 못하고 있는 것으로 파악됐다.&lt;br&gt;&lt;br&gt;A양은 부모가 외출한 사이 집에 혼자 있었던 것으로 알려졌다. &lt;br&gt;&lt;br&gt;서구는 피해 가구에 긴급 생계비와 생활용품 등을 지원하기로 했다. 서구는 이 가구가 기초생활수급가구는 아니라고 설명했다. &lt;br&gt;&lt;br&gt;신고를 받고 출동한 소방 당국은 소방관 등 71명과 장비 19대를 투입해 오전 11시 34분쯤 완전히 불을 껐다. &lt;br&gt;&lt;br&gt;소방 당국은 빌라 방 안에서 불이 난 것으로 보고 정확한 화재 원인을 조사하고 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>“곧 상장된다” 폐업 직전 회사 주식 팔아 58억 챙긴 일당 검거</title>
-      <link>https://www.chosun.com/national/incident/2025/02/27/WLPT5VIKJ5HQTEHYP53VYMDVSU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/02/27/WLPT5VIKJ5HQTEHYP53VYMDVSU/</guid>
-      <dc:creator>남양주=김현수 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 27 Feb 2025 02:18:28 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HLBYVH7BNVDVRLXBSKBVTTAKPU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;조직도. /경기북부경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;상장될 가능성이 없는 회사의 비상장주식을 대량 발행하고 이를 팔아 수십억대 수익금을 챙긴 일당이 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;경기 남양주북부경찰서는 자본시장법 위반, 사기 등 혐의로 74명을 검거했다고 27일 밝혔다. 이 중 40대 총책 A 씨 등 2명은 구속됐다.&lt;br&gt;&lt;br&gt;A 씨 등은 지난 2023년 8월부터 고액의 채무로 상장 가능성이 없는 B회사 비상장주식을 대량 발행하고, 이를 피해자 624명에게 팔아 58억 6000만원을 가로챈 혐의를 받는다. 이들은 텔레그램 등을 통해 연락처를 구매했다. 또 주식을 판매할 콜센터(전화상담원)도 조직했다. 지난달 부터는 콜센터를 통해 피해자들에게 “A사의 주식이 곧 상장될 예정이니 지금 투자하면 큰 수익을 얻을 수 있다”라고 거짓 홍보하며 구매를 유도했다.&lt;br&gt;&lt;br&gt;지난해 4월 관련 첩보를 입수한 경찰은 전국에서 신고된 346건의 사건을 병합, 피해 진술을 최대한 확보한 뒤 피의자들을 순차적으로 검거했다.&lt;br&gt;&lt;br&gt;경찰은 범죄수익금 34억 원을 추징보전하고, A 씨 등이 갖고 있던 90억 원 상당의 비상장 주식 판매를 차단했다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “비상장주식 정보는 확인이 어려워 투자 전 반드시 회사 재무 상태와 상장 가능성을 확인해야 한다”며 “전화상으로 추천받아 투자하는 방식은 사기에 매우 취약하다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>서울시민 64% “지하철 노인 무임승차 연령 올리자”</title>
       <link>https://www.chosun.com/national/national_general/2025/02/27/7LGPBBYLGBA2BDACHP4T4R62SI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/02/27/7LGPBBYLGBA2BDACHP4T4R62SI/</guid>
@@ -814,114 +925,6 @@
       <description/>
       <pubDate>Thu, 27 Feb 2025 02:07:54 +0000</pubDate>
       <content:encoded>앞으로 전기차 화재 피해를 막기 위해 모든 지하 주차장에 스프링클러 등 소화 시설과 경보 설비 설치가 의무화된다. 주차장 천장이나 기둥 마감재의 방화 성능은 강화된다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PFXJW6P4AD3EUOCZLNW4P3NGTY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;인천 서구 청라동의 한 아파트 단지 지하주차장이 지난해 8월 1일 발생한 전기차 화재 사고로 인해 새까맣게 그을려 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;소방청은 27일 이 같은 내용의 ‘지하 주차장 전기차 화재 안전 종합 대책’을 마련했다고 밝혔다.&lt;br&gt;&lt;br&gt;이번 대책은 지난해 9월 국정현안관계장관회의에서 발표한 ‘전기차 화재 안전관리대책’의 후속 방안이다. 작년 8월 인천 서구 청라동의 아파트 단지에서 전기차 화재가 발생하자, 정부는 재발 방지를 위한 대책을 마련했다.&lt;br&gt;&lt;br&gt;소방청은 우선 지하 주차장에 소방 시설 사각지대를 없애고, 화재 확산을 방지하기 위해 ‘소방 시설 설치 기준’을 개선했다.&lt;br&gt;&lt;br&gt;이에 따라 모든 지하 주차장에 스프링클러를 설치한다. 현재는 면적 200㎡ 이상 주차장과 차량 20대 이상이 주차할 수 있는 기계식 주차장 등만 의무인데, 이를 모든 지하 주차장으로 확대하는 것이다.&lt;br&gt;&lt;br&gt;전기차 충전 구역에는 신속한 화재 감지를 위해 아날로그식 연기 감지기를 설치한다.&lt;br&gt;&lt;br&gt;기존에 이미 지어져 있는 건축물에 대해서는 소방 시설이 정상적으로 작동하는지 불시 점검 등을 통해 점검을 강화하기로 했다.&lt;br&gt;&lt;br&gt;한편 주차장 천장 가연물로 인한 연소 확대를 방지하기 위해 천장이나 벽, 기둥 등 마감재의 방화 성능을 강화하기로 했다. 소화용 배관은 난연재 이상의 보온재를 설치한다.&lt;br&gt;&lt;br&gt;소방청 관계자는 “이외에도 국토부가 전기차 화재 대응을 위한 개선 방안을 마련하고, 산업부는 전기차 충전 구역 위치 기준을 마련하기로 했다”고 말했다.&lt;br&gt;&lt;br&gt;소방대원들이 화재 진압을 위해 출동했을 때 활용할 수 있는 매뉴얼도 만든다. ‘지하 주차장 화재 대응 표준 작전 절차’를 제정하고, ‘전기차 화재 대응 가이드’도 보완한다.&lt;br&gt;&lt;br&gt;전기차 화재 진압 장비도 확충한다. 이동식 수조, 질식 소화 덮개, 방사 기기 등 화재 진압 장비 3종류에 대한 보유 기준을 만들기로 했다.&lt;br&gt;&lt;br&gt;소방청 관계자는 “모든 소방서가 기준을 넘겨 장비를 갖출 수 있도록 할 것”이라고 말했다.&lt;br&gt;&lt;br&gt;이외에도 예산 313억원을 투입해 화재 진압과 인명 탐색 작업을 돕는 로봇을 개발하고, 현대자동차와 협업해 지하 화재 진압을 위한 무인 소방차 개발을 추진한다.&lt;br&gt;&lt;br&gt;홍영근 소방청 화재예방국장은 “전기차는 물론 지하주차장 전반의 안전이 강화될 수 있도록 최선을 다하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>교정시설 의약품 반입 깐깐해진다...“수용자 약물 오남용 대응”</title>
-      <link>https://www.chosun.com/national/court_law/2025/02/27/2DPITQYDJNCVBOU23MJMSAZPSE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/02/27/2DPITQYDJNCVBOU23MJMSAZPSE/</guid>
-      <dc:creator>박강현 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 27 Feb 2025 01:20:37 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RLKD35WUHFBQQPJZMBKZCWJHWA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법무부. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;법무부가 약물 오남용으로부터 수용자를 보호하기 위해 교정시설 내 의약품 교부신청 절차를 개편하고 교부심사 기준을 강화한다고 27일 밝혔다. 이는 지난해 12월 31일 개정된 ‘수용자 의료관리지침’에 따른 조치다.&lt;br&gt;&lt;br&gt;법무부는 우선 3월 1일부터 외부에서 유입되는 의약품을 막기 위해 가족 등에 의한 의약품 교부신청은 처방전 접수로만 할 수 있고, 조제된 의약품은 허용되지 않는다.&lt;br&gt;&lt;br&gt;처방전도 약국 제출용 원본의 우편 또는 방문 접수만 가능하고 팩스 등을 통한 사본 접수는 허용되지 않고, 질병분류기호와 약제별 급여·비급여 여부를 명시해야 한다. &lt;br&gt;&lt;br&gt;또한 1회 반입 신청 의약품은 6개월 복용량을 초과할 수 없다.&lt;br&gt;&lt;br&gt;교부심사를 거쳐 허가가 되면 수용자 보관금에서 약제비 결제 절차가 진행된 뒤 교정기관 직원이 외부약국에 의약품 조제를 의뢰한다. 불허 시 수용자 및 가족 등에게 통보하고 처방전은 반납한다.&lt;br&gt;&lt;br&gt;아울러 교정시설 규제약물 및 프레가발린이 포함된 의약품의 교부심사 기준은 오는 5월 1일부터 강화돼 적용된다. &lt;br&gt;&lt;br&gt;향정신성의약품, 마약류 진통제, 트라마돌 성분 제제 등 교정시설 규제약물에 해당하는 경우 필수상병코드, 1일 최대용량, 1회 최대처방기간에 대해 보건복지부의 ‘요양급여 적용기준’과 식품의약품안전처의’마약류의 오남용 방지를 위한 조치기준’을 준수해야 한다. &lt;br&gt;&lt;br&gt;주의력 결핍 과잉 행동 장애(ADHD) 치료제로 사용되는 메틸페니데이트를 급여 처방하는 경우 최초 1회, 해당 의무기록(건강보험심사평가원에 제출한 소견서) 사본을 제출해야 하고 필름코팅서방정 외에는 교부가 불허된다. 식욕억제제 처방을 비롯한 비급여 처방 역시 교부가 불허된다.&lt;br&gt;&lt;br&gt;또 최면진정제 및 마약류 진통제와 같은 중추신경억제제를 4종 이상 투약 중인 수용자 등에게 이를 지속 처방하는 경우 매회 교정기관이 요구하는 양식에 따른 소견서도 내야 한다.&lt;br&gt;&lt;br&gt;신용해 교정본부장은 “이번 의약품 반입 절차 변경 및 교부심사 기준 강화 조치를 바탕으로 한 전국 기관에 걸친 일관된 원칙 적용과 업무효율 개선이 수용자 약물 오남용 문제에 대한 효과적인 대응이 될 것으로 기대한다”고 했다.&lt;br&gt;&lt;br&gt; &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>집에서 담배 피웠더니…집 뒤덮은 누런 때 정체 </title>
-      <link>https://www.chosun.com/national/national_general/2025/02/27/7EPC5NT2PBCCJHERM2VIFG3GMY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/02/27/7EPC5NT2PBCCJHERM2VIFG3GMY/</guid>
-      <dc:creator>이가영 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 26 Feb 2025 22:42:42 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4TD3BEW3VVB53HERCZ4KMUPDCU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;오랜 시간 실내흡연을 한 아파트 내부에 찌든 때를 청소업체가 벗겨내고 있다. /인스타그램 @malggeum_clean&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;집 안에서 담배를 즐긴 한 주민의 아파트 내부 상태가 온라인에 공개돼 충격을 주고 있다. &lt;br&gt;&lt;br&gt;대구‧경북 지역의 한 청소전문업체는 26일 인스타그램에 “집 안에서 담배 피우면 이렇게 됩니다”라는 제목의 영상을 게시했다. &lt;br&gt;&lt;br&gt;영상 속 아파트는 벽지, 천장, 창틀, 붙박이장 등 내부가 온통 누런 때로 오염돼 있는 상태다. 오랜 시간 실내 흡연을 한 아파트 주인 때문에 온 집안에 니코틴 찌든 때가 생긴 것이다. &lt;br&gt;&lt;br&gt;니코틴이 집안 먼지에 달라붙으면 3주가 지나도 40%는 남아 있고, 두 달이 흘러도 다 사라지지 않는다는 연구가 있다. 니코틴은 빛이나 공기와 접하면 점점 노랗게 변한다. &lt;br&gt;&lt;br&gt;업체 관리자는 “밀폐된 공간에서 담배를 피우면 내부 공간이 니코틴으로 오염되며 악취가 발생한다”며 “흡연은 건강에 해롭고 간접흡연 또한 주위 사람들에게 피해를 주기 때문에 건물 내부에서 흡연은 자제해 달라”고 전했다. &lt;br&gt;&lt;br&gt;실내 흡연은 본인뿐 아니라 가족의 건강도 위협할 수 있다. 오랫동안 흡연을 해 담배에 찌든 곳에는 유해 물질이 스며들어 3차 흡연 피해가 장기간 지속된다. &lt;br&gt;&lt;br&gt;3차 흡연은 흡연에서 비롯된 연기 및 미세입자와 같은 담배 부산물이 흡연자의 머리카락, 옷 또는 벽, 커튼, 소파 등 생활 공간에 잔존하면서 다른 사람을 오염시키는 것을 말한다. 2차 흡연이 직접 담배를 피우지는 않지만, 연기에 직접 노출되는 것을 의미한다면 3차 흡연은 흡연이 있었던 장소에 머물게 됨으로써 이뤄지는 간접흡연이다. &lt;br&gt;&lt;br&gt;3차 흡연은 2차 흡연만큼 인체에 위해성이 크다. 2018년 영국 런던대 연구팀이 영국 의학저널(BMJ)에 발표한 논문에 따르면, 어떤 식으로든 저농도의 흡연 물질에 노출되면 심혈관, 뇌졸중 등 혈관 질환 위험이 급격히 커진다. 미국암학회는 “간접 흡연에 안전한 레벨은 없다”며 어떠한 방식으로라도 흡연 물질에 노출되지 않는 것이 좋다고 권고했다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>마은혁, 전원합의, 다른 탄핵심판… 尹 선고 날짜 ‘3대 변수’</title>
-      <link>https://www.chosun.com/national/court_law/2025/02/27/RWCVM3KNTNFZ3MNDNVSUZTPCBE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/02/27/RWCVM3KNTNFZ3MNDNVSUZTPCBE/</guid>
-      <dc:creator>김희래 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 26 Feb 2025 15:55:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FGV5OQZUXNBCFARKDIQ72F63GY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령이 25일 오후 헌법재판소 대심판정에서 열린 탄핵심판 마지막 변론에서 최후 진술을 하고 있다./헌법재판소&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;헌법재판소가 지난 25일 윤석열 대통령의 탄핵 심판 변론을 종결하고 결정문 작성 등 선고 준비 절차에 들어가면서, 이 사건 선고 시점에 관심이 집중되고 있다. 박근혜 전 대통령과 노무현 전 대통령은 탄핵 심판 변론 종결 후 각각 11일, 14일 만에 선고가 나왔다. 이 때문에 윤 대통령 선고도 2주쯤 뒤인 3월 중순에 나올 것이라는 전망이 많다. &lt;br&gt;&lt;br&gt;그러나 법조계에선 “윤 대통령 사건은 2주보다는 더 오래 걸릴 수 있는 변수가 여러 개 있다”는 해석도 나온다. 마은혁 헌법재판관 후보자가 재판관으로 임명돼 재판에 참여할 수도 있고, 한덕수 국무총리와 최재해 감사원장 등 먼저 종결된 탄핵 사건도 5건이나 돼 헌재의 평의 시간이 더 필요할 것이라는 것이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OVU72CL7RVHAXEP3QWHQDXLIC4.png"&gt;&lt;figcaption&gt;&lt;small&gt;시진공동취재단&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;◇마은혁, ‘尹 선고’에 참여하나&lt;/b&gt;&lt;br&gt;&lt;br&gt;헌재는 27일 최상목 대통령 권한대행의 마 후보자 임명 보류에 대한 권한쟁의 사건을 선고한다. 이 사건 결과는 윤 대통령 탄핵 심판 선고 시점에 상당한 영향을 미칠 것으로 보인다. 물론 헌재가 기각·각하 등 권한쟁의 심판을 인용하지 않으면 헌재 재판부 구성이 달라지지 않기 때문에 윤 대통령 사건 선고에는 별다른 영향이 없다.&lt;br&gt;&lt;br&gt;그러나 최 권한대행이 마 후보자를 임명하지 않는 것에 대해 헌재가 “잘못됐다”고 판단할 경우, 상황이 복잡해진다. 최 권한대행이 또 임명을 보류할 수도 있지만, 윤 대통령 선고 전 임명할 경우 헌재는 마 후보자를 윤 대통령 재판에 참여시킬지 여부를 결정해야 한다. 논란을 피하기 위해 마 후보자를 빼고 현재의 ‘8인 체제’로 선고할 수도 있지만, 마 후보자를 참여시켜 ‘9인 체제’를 만든 뒤 윤 대통령 선고를 할 수도 있다. 이럴 경우 종결된 변론을 재개해 갱신 절차를 거쳐야 하기 때문에 선고는 미뤄질 수밖에 없다. &lt;br&gt;&lt;br&gt;부장판사 출신 한 변호사는 “헌재가 ‘편향성 논란’ 등이 있는 마 후보자를 무리하게 윤 대통령 재판에 참여시킬 것 같지는 않지만, 탄핵 인용과 기각 의견이 팽팽하게 갈릴 경우 한쪽에서 마 후보자 참여를 밀어붙일 수도 있을 것”이라고 했다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇인용과 기각, 의견 갈리면 평의 지연&lt;/b&gt;&lt;br&gt;&lt;br&gt;헌재 재판관들이 평의를 통해 일치된 의견을 낼 수 있을지 여부도 윤 대통령 선고 시점에 영향을 미칠 수 있다. 법조계에서는 “대통령 탄핵이라는 사안의 중대성과 국론 분열 등을 의식해 헌재가 가급적 재판관 전원 일치 쪽으로 의견을 모을 것”이라는 전망이 많다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZYSN5JGABZDHZASJFGOTCQ5I4U.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=정인성&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;재판관들 의견이 전원 일치하지 않을 경우, 평의 시간은 더 걸릴 수밖에 없다. 2017년 3월 박 전 대통령이 탄핵될 당시에도 일부 헌재 재판관 사이 의견이 갈렸으나, 재판관 전원 일치로 의견이 모일 때까지 평의를 계속한 것으로 알려져 있다. 헌법재판소법상 탄핵심판의 경우 ‘6인 이상’ 인용에 찬성해야 하기 때문에, 이견이 있을 경우 재판관 각자 의견을 밝히고 결과를 선고하게 된다.&lt;br&gt;&lt;br&gt;한편 윤 대통령 탄핵에 대한 국민의 찬반 여론이 분분한 점도 헌재로선 부담이다. 지난 24일 리얼미터 조사에선 탄핵 찬성이 52.1%, 반대가 42%로 집계됐다. 박 전 대통령 탄핵 때는 탄핵 찬성이 8대2 정도로 높았다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇헌재, 尹 사건 외 탄핵 5건도 판단해야&lt;/b&gt;&lt;br&gt;&lt;br&gt;헌재는 윤 대통령 이외에도 현 정부 공직자 5명에 대한 탄핵 심판 선고를 준비 중이다. 한덕수 국무총리와 최재해 감사원장, 이창수 서울중앙지검장, 조상원 중앙지검 4차장, 최재훈 중앙지검 반부패2부장 등으로, 한 총리는 지난 19일, 최 감사원장은 지난 12일, 검사 3명은 지난 24일 각각 변론을 마쳤다. 모두 윤 대통령보다 먼저 변론을 마친 것이다. 이날 헌재 관계자는 “통상 결정문 작성 등 선고 준비 절차는 변론 종결 즉시 착수한다고 보면 된다”고 했다. 윤 대통령 외에도 5명에 대한 탄핵 심판 선고 준비가 동시에 이뤄지고 있는 것이다. &lt;br&gt;&lt;br&gt;재판관 평의는 매일 진행되는데, 한 총리 등 다른 사건까지 몰리면서 윤 대통령의 선고 시점이 뒤로 밀릴 수 있다는 전망이 나온다. 물론 헌재는 윤 대통령 사건을 우선 처리하겠다는 방침이지만, 윤 대통령 측이 재판 순서를 뒤바꾸는 문제를 계속 제기하고 있는 만큼 다른 사건들과 함께 논의할 가능성이 있다. &lt;br&gt;&lt;br&gt;앞서 박 전 대통령과 노 전 대통령 탄핵 심판 때는 헌재에 계류된 다른 사건들이 없었기 때문에 상대적으로 속도가 빠르게 진행됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[단독] 일 안 하고도 불법으로 월급 받아… 타임오프 위반 29곳 적발</title>
-      <link>https://www.chosun.com/national/labor/2025/02/27/MSB24XTCGVB2RCGHBVCOQSWNPQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/labor/2025/02/27/MSB24XTCGVB2RCGHBVCOQSWNPQ/</guid>
-      <dc:creator>곽래건 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 26 Feb 2025 20:06:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WZOLYW3KXZID7N2XGOESYBRK7E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;24일 가동이 중단된 현대제철 당진제철소 냉연공장 라인 모습. 현대제철은 노조의 성과급 요구가 지나치다며 이날 직장 폐쇄 조치를 단행했고, 이로 인해 생산 라인이 멈췄다. 현대제철은 타임오프 한도를 어겨 지난해 말 고용부로부터 시정 지시를 받았다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;화학 제품 제조 A사의 법정 노조 근로시간 면제 한도는 연 5000시간이다. 하지만 이 회사는 1000시간 많은 6000시간을 썼다. 노조 전임자 입장에선 그만큼 일하지 않고 월급을 받은 셈이다. 노조 전임자에게 법정 한도를 넘어 월급을 지급하면 노동법 위반이다. A사는 노조가 고용한 사무 직원의 인건비 3800만원도 불법으로 지원했다. &lt;br&gt;&lt;br&gt;고용노동부가 26일 발표한 ‘부당 노동 행위 기획 근로 감독’ 결과에는 이런 사례가 다수 포함됐다. 작년 10월 말~올해 1월 초 민간 기업 200곳을 대상으로 벌인 감독인데, 81곳(40.5%)에서 위법 사항이 적발됐다. ‘노사 법치주의’를 내세운 현 정부는 2023년 6~8월 공공 부문과 대기업을 중심으로 대대적인 감독을 벌인 적이 있다. 이번에는 민간 중소·중견기업 중심으로 감독을 했다.&lt;br&gt;&lt;br&gt;조사 결과 A사처럼 근로시간 면제 한도를 초과한 회사 29곳이 적발됐다. 한 자동차 부품 업체는 근로시간 면제를 한도(6000시간)보다 3856시간 많은 9856시간 쓴 것으로 확인됐다. 이 회사는 노조 전임자 중 1명이 실제로는 일하지 않았는데 1주 27시간의 연장 근무를 했다고 인정해 주고 총 1100만원의 수당을 줬다. 노조 운영비를 불법으로 지원한 것이다. 현행 노조법은 회사가 노조 운영비를 과도하게 지원하는 것을 금지하고 있다. 노조의 자주성과 독립성을 침해할 수 있다고 보는 것이다. 이런 식으로 노조에 운영비를 불법 지원한 회사 20곳이 적발됐다.&lt;br&gt;&lt;br&gt;불법적인 면제 한도를 아예 노사 단체협약으로 못 박은 곳도 있었다. 예술·스포츠 서비스 업체인 B사는 법상 근로시간 면제자 한도가 9명이지만 실제로는 13명을 운영했다. 그러면서 노사 단체협약은 법정 한도를 훌쩍 넘긴 20명까지 면제자를 두도록 했다.&lt;br&gt;&lt;br&gt;대기업이지만 노조의 성과급 요구에 창사 이래 첫 직장 폐쇄를 단행한 현대제철도 감독 대상에 포함돼 있다. 본지 취재를 종합하면 현대제철은 연간 근로시간 면제가 26명(2만4200시간)인데, 2023년에는 36명(6만2776시간)을, 2024년 1~10월에는 44명(5만4426시간)을 쓰게 해 줬다. 결과적으로 2023년 10명(3만8576시간), 2024년 1~10월 18명(3만226시간)을 초과했다. 중부지방고용노동청은 작년 12월 31일 현대제철에 시정 지시를 내렸다.&lt;br&gt;&lt;br&gt;이 밖에 회사 측의 불법행위도 적발됐다. 한 교육 관련 협회는 노조가 교섭을 요구했지만 정당한 이유 없이 여러 차례 교섭을 진행하지 않았다. 한 통신 서비스 업체는 파업 등 쟁의 행위에 참가했다는 이유로 격주 토요일 근무를 하지 못하게 하고 수당을 주지 않는 등 조합원 11명에게 보복성 불이익을 줬다. &lt;br&gt;&lt;br&gt;&lt;b&gt;☞근로시간 면제(타임오프)&lt;/b&gt;&lt;br&gt;&lt;br&gt;회사가 노조 전임자 몇 명에게까지 월급을 줄 수 있는지 시간으로 계산해 한도를 정한 것. 노조법에 따라 근로시간면제심의위원회가 노조 규모별로 한도를 정하며, 이를 어기면 불법이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>李 최종심 법정 기한은 6월 26일… 법조계 “신속 심리 땐 5월도 가능”</title>
-      <link>https://www.chosun.com/national/court_law/2025/02/27/PE7JCSO6RBBAVFCIGZEWK2DDNU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/02/27/PE7JCSO6RBBAVFCIGZEWK2DDNU/</guid>
-      <dc:creator>방극렬 기자, 박강현 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 26 Feb 2025 15:55:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5FVF3Y6ESNES3AB2H24XBMMJEE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;더불어민주당 이재명 대표가 26일 서울고등법원에서 열린 공직선거법 위반 혐의 사건 2심 결심 공판을 마친 뒤 법정을 나서고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이재명 더불어민주당 대표의 공직선거법 위반 사건 2심 선고가 3월 26일로 예정되면서, 이 대표에 대한 대법원 확정 판결이 언제쯤 나올지가 최대의 관심사다. 선거법 사건은 벌금 100만원 이상이 확정되면 선거에 출마할 수 없기 때문에, 1심에서 징역 1년에 집행유예 2년을 선고받은 이 대표가 2심, 3심 선고 결과에 따라 대선에 출마할 수 있을지 결정되기 때문이다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇李 “대선 전 선고 불가능하다”&lt;/b&gt;&lt;br&gt;&lt;br&gt;선거법은 1심 6개월, 2심 3개월, 3심 3개월 등 1년 이내 확정 판결하도록 정하고 있지만, 이 대표 사건은 1심에만 2년 2개월이 걸렸다. 2심도 이미 법정 기한(2월 15일)을 넘겼다. 이 대표는 “형사소송법 절차 때문에 대선 전에 대법원 판결이 나올 수 없다”고 주장한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DDNDO7ALCFGNFJAQJRWKY7PVKY.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=백형선&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;만약 윤석열 대통령이 3월 초·중순쯤 헌법재판소 탄핵 심판 선고에서 파면 결정을 받을 경우, 대선은 60일 이내인 5월 초·중순 치러지게 된다. 이 대표의 대법원 선고가 그전에 이뤄지기는 현실적으로 어려운 상황이다. 법정 선고 기한(3개월)인 6월 26일까지 끝낼지도 불투명하다.&lt;br&gt;&lt;br&gt;그러나 법조계에서는 “대법원이 절차 진행과 심리를 신속하게 하면 대선 전에 충분히 선고할 수 있다” “논란과 혼란을 피하기 위해서라도 대법원이 대선 전에 선고해야 한다”는 말이 나온다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇대법 상고·송달 절차만 한 달 걸려&lt;/b&gt;&lt;br&gt;&lt;br&gt;2심 선고가 내려지면, 이 대표나 검찰은 7일 이내 상고할 수 있다. 서울고법은 상고장을 받은 날부터 14일 안에 소송 기록과 증거물을 대법원에 보내고, 대법원은 이를 양측에 통지한다. 이 대표가 상고한다면 통지를 받은 날로부터 20일 내에 상고 이유서를 제출하면 되고, 검찰은 상고 이유서를 받은 뒤 답변서를 내야 한다. 통상 이런 절차를 마친 다음, 대법원은 주심 대법관을 배정해 심리를 시작한다. 이 대표가 제출 기한 등을 꽉 채워 서류 제출 등을 늦추면 이 절차에만 약 한 달 정도 걸리는 것이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VCNKLTOTOJFZFJY7VUFXZW3RQU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;26일 이재명 더불어민주당 대표가 서울 서초구 서울고등법원에서 열린 공직선거법 위반 사건의 2심 결심 공판을 마치고 나오는 모습. 취재진의 질문을 받고 있다. 2심 선고 공판은 다음 달 26일 열린다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;만약 이 대표가 소송 기록 접수 통지를 제때 수령하지 않으면 재판은 더 늦어진다. 이 사건 2심에서도 법원은 이 대표 집 문이 잠겨 있다는 등의 이유로 통지를 못 하다가, 법원 집행관이 직접 국회 의원회관 사무실로 찾아가 9일 만에 송달했다. 이 대표 측은 당시 “집에 사람이 없었던 것이지, 재판 지연 의도가 아니었다”고 했다.&lt;br&gt;&lt;br&gt;다만 법원이 형식적인 상고·송달 절차를 서둘러 진행하면 기간이 앞당겨질 수도 있다. 한 부장판사는 “서울고법에서 소송 기록을 지체 없이 정리해 대법원에 제출하고, 송달이 늦어지지 않도록 집행관을 빨리 투입하면 한 달 내 심리에 착수할 수 있다”고 했다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇“대법, 유권자 위해 대선 전 결론 내야”&lt;/b&gt;&lt;br&gt;&lt;br&gt;법조계에서는 “2심에서 이 대표가 어떤 판결을 받더라도, 대법원이 대선 전에 최종 판단을 내려야 한다”는 목소리가 나온다. 1심에 이어 2심도 벌금 100만원 이상이 선고될 경우 이 대표의 대선 출마 자격 논란이 일 수 있는데, 대법원이 이를 방치해서는 안 된다는 것이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WCBXWNMLW5CZRNZTY7KAWOPPVE.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=백형선&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한 고법 부장판사는 “선거법 사건에서 벌금 100만원 이상이 나온다는 것은 법원이 공직을 맡을 자격이 없다고 판단하는 것”이라며 “대법원에서 상고 절차 등을 핑계로 이 대표의 선거 범죄 혐의에 대한 최종 판단을 미뤄선 안 된다”고 했다. 전직 헌법재판관은 “이 대표가 2심에서도 유죄 판결을 받고 대통령이 되면 국가적인 혼란과 갈등이 불거질 수밖에 없다”며 “대통령 후보에 대해 국민들이 올바른 판단을 할 수 있도록 대법원이 밤을 새워서라도 확정 판결을 내려야 한다”고 했다.&lt;br&gt;&lt;br&gt;한 고법판사는 “주심 대법관이 빠른 선고를 결심하고, 다른 대법관들이 동의하면 한 차례 합의만 거치고 바로 판결을 내릴 수도 있다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>光州 보수 시민단체들 “문형배 대행 사퇴하라”</title>
-      <link>https://www.chosun.com/national/court_law/2025/02/27/ERCHXP3EYNCTLAR4K5TMC3ISIE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/02/27/ERCHXP3EYNCTLAR4K5TMC3ISIE/</guid>
-      <dc:creator>양은경 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 26 Feb 2025 15:55:00 +0000</pubDate>
-      <content:encoded>광주 지역 보수 시민단체들이 윤석열 대통령 탄핵 심판을 맡고 있는 문형배 헌법재판소장 권한대행의 사퇴를 촉구했다. &lt;br&gt;&lt;br&gt;공정과 상식 광주·전남포럼, 호남대안포럼 등 광주 지역 25개 시민사회단체로 구성된 광주보수시민사회단체연석회의(연석회의)는 지난 25일 광주광역시의회에서 기자회견을 열고 “불공정한 탄핵 심판을 주도하는 문형배 소장 대행은 사퇴하고 김형두 재판관을 소장으로 임명하라”는 입장문을 발표했다. &lt;br&gt;&lt;br&gt;이들은 “지금 헌재 심판은 ‘탄핵 인용’과 ‘조기 대선’을 목표로 폭주하는 기관차와 같다”며 “윤 대통령의 증인신문 참여를 막고, 진술이 바뀐 증언을 증거로 채택하는 등의 불공정 행위를 저지르고 있다”고 주장했다. 그러면서 “문 권한대행의 탄핵 심판 진행 불공정과 이념적 편향성에 대한 국민의 의혹과 불신이 커지면서 그가 주재한 평의 결과에 대해 국민들이 승복할 수 없다는 여론이 높아지고 있다”고 했다. &lt;br&gt;&lt;br&gt;이들은 또 “대통령 탄핵 심판을 헌재 소장도 아닌 대행이 주재하도록 하는 것은 국격에도 맞지 않는다”며 “즉시 헌재 소장을 중립적인 인사로 임명해 헌재와 대통령, 국민의 자존심을 지켜 주기 바란다”고 했다. 그러면서 “중립적인 태도를 보여 준 김형두 재판관이 헌재 소장으로 적임자”라고 했다. &lt;br&gt;&lt;br&gt;문 소장 대행은 작년 10월 이종석 헌재 소장이 퇴임한 후 최선임 재판관으로 소장직을 대행하며 윤 대통령 탄핵 심판의 재판장을 맡고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>헌재 “보안 강화”… 집무실 도·감청 매일 체크하고 청사 견학도 스톱</title>
-      <link>https://www.chosun.com/national/court_law/2025/02/27/4WYWX67X5BAMJMKMUM5TUZB7DQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/02/27/4WYWX67X5BAMJMKMUM5TUZB7DQ/</guid>
-      <dc:creator>김나영 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 26 Feb 2025 15:55:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WZN5GLBK6NKD5KO7I2YTGIOMHU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;26일 서울 종로구 헌법재판소 모습./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;25일 윤석열 대통령 탄핵심판의 최종 변론을 마친 헌법재판소는 이튿날부터 본격적인 평의(評議) 절차에 돌입했다. 선고를 앞두고 보안 유지는 물론 재판관들과 헌재 청사에 대한 경호 수위도 한층 높아졌다. &lt;br&gt;&lt;br&gt;재판관 8명은 변론 종결 직후부터 선고까지 원탁에 둘러앉아 평의를 연다. 평의는 이 사건 주심인 정형식 재판관이 쟁점에 관한 내용을 발표하고, 다른 재판관들이 의견을 주고받는 방식으로 진행된다. 비공개로 진행되는 평의 내용이 외부로 새어나가지 않도록 헌재는 매일 회의실과 집무실 내 도·감청 장치 설치 여부를 확인하고 있다. 박근혜 전 대통령 탄핵심판 당시엔 회의실 층수까지 언론을 통해 알려졌지만, 헌재 관계자는 “보안 및 안전 우려로 구체적인 평의 장소는 비공개하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;평의가 거듭되면서 재판관들의 의견이 모이면, 주심 재판관인 정 재판관 주도로 결정문 초안을 작성한다. 헌재 관계자는 “신속하게 결론을 내야 하는 만큼 평의 절차와 결정문 작성이 동시에 이뤄질 것”이라고 설명했다.&lt;br&gt;&lt;br&gt;이후 재판관들은 이번 사건에 대한 자신의 의견을 밝히고 표결하는 ‘평결’ 절차를 거친다. 관례상 주심 재판관이 시작하고, 가장 최근에 임명된 재판관부터 순서대로 의견을 낸다. 평결로 결정한 주문이나 이유에 대해 의견이 다를 경우 소수 의견을 제출하고 이를 결정문에 반영한다.&lt;br&gt;&lt;br&gt;박 전 대통령 탄핵 당시엔 선고 당일 아침까지 최종 평의를 열었다고 한다. 미리 써놓은 ‘인용’과 ‘기각’ 결정문을 놓고 평결을 진행했다는 것이다. 만장일치로 탄핵 인용이 결정되자 이정미 당시 헌재소장 권한대행이 선고 요지를 가다듬어 대심판정에서 낭독했다. 이번에도 두 가지 결정문이 준비될 수 있다는 관측이 나온다. 헌재 관계자는 “쟁점별로 나올 수 있어 결정문이 2개라고 단정할 수는 없다”고 했다. 이번 사건 쟁점이 5개인 만큼 쟁점마다 유무죄를 판단한 결정문 여러 개가 만들어질 수 있다는 것이다.&lt;br&gt;&lt;br&gt;안전조치도 대폭 강화됐다. 윤 대통령 탄핵심판이 접수된 이후로 헌재는 일반인 청사 견학 등 각종 행사를 중단했다. 지난달부터는 재판관마다 경호 담당 경찰관이 2~3명 동행하고 있고, 헌재 사무처와 보안관리대도 상시 대기하는 비상 근무 체제에 들어갔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>이화여대서도 탄핵찬반 갈등</title>
-      <link>https://www.chosun.com/national/national_general/2025/02/27/X6H7VV3PXFGXZCDZZPOB72K3P4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/02/27/X6H7VV3PXFGXZCDZZPOB72K3P4/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 26 Feb 2025 15:55:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GSO27IL4TVDTPAXCOM3COEDQ3I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;26일 오전 서울 서대문구 이화여대 대강당 앞에서 윤석열 대통령 탄핵에 찬성하는 학생들(왼쪽)과 반대하는 학생들이 각각 집회를 열고 대치하고 있다. 양측이 충돌하는 등 혼란이 빚어지기도 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>李 “대통령 되면 형사 재판은 정지가 다수설”이라는데…</title>
-      <link>https://www.chosun.com/national/court_law/2025/02/27/2667R7TAXBF35MPYDVDTMWOX24/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/02/27/2667R7TAXBF35MPYDVDTMWOX24/</guid>
-      <dc:creator>이민준 기자, 박혜연 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 26 Feb 2025 15:55:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HOROQFGXKZH2FMRBNVGKN4GHQU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이재명 더불어민주당 대표가 19일 MBC '100분 토론'이 마련한 특집 연속 기획 '위기의 한국 사회, 해법을 묻다'에 출연해 웃고 있다. /더불어민주당&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이재명 더불어민주당 대표는 지난 19일 MBC ’100분 토론’에 나와 “대통령에 당선돼도 형사 재판이 계속돼야 한다”는 의견에 대해 “정지된다는 것이 다수설”이라고 말했다. &lt;br&gt;&lt;br&gt;이에 대해 이낙연 새미래민주당 상임고문은 26일 MBN 유튜브에서 “소추와 재판을 분리해야 한다는 것이 다수설”이라고 반박했다. 이 상임고문은 “헌법 65조는 국회가 탄핵소추를 의결할 수 있다고 규정하는데, 탄핵 심판은 헌법재판소가 한다. 소추와 재판이 분리되는 것 아니냐”고 했다. 이 대표가 대선에서 당선돼도 진행 중인 재판이 멈춰선 안 된다는 취지다. ‘대통령이 내란‧외환죄를 제외하고는 재직 중 발생한 범죄로 형사상 소추(訴追)를 받지 않는다’고 규정하는 헌법 84조에 대한 해석을 놓고 두 사람의 의견이 갈리고 있는 것이다.&lt;br&gt;&lt;br&gt;이 문제는 12개 혐의로 5건의 재판을 받는 이 대표가 대통령에 당선됐을 때 재판을 계속 받아야 하는지와 관련돼 있다. 헌재가 다음 달 윤석열 대통령 탄핵 심판에서 파면을 선고해 5월 중순쯤 대선이 열리게 되면, 유력한 야당 후보인 이 대표가 대통령에 당선될 수도 있어서 헌법 84조 논란은 끊이지 않고 있다.&lt;br&gt;&lt;br&gt;법조계에서도 ‘검찰의 기소로 소추는 완성된 것이라서 재판은 계속돼야 한다’는 해석과 ‘소추에는 재판도 포함돼 정지돼야 한다’는 의견이 대립한다. 헌재 헌법연구위원 출신 한 교수는 “이 조항은 임기 중인 대통령에 대해 새 사건으로 기소하지 말라는 취지의 조항이어서 대통령 임기가 시작했더라도 이전부터 진행 중이던 재판은 신속히 선고해야 한다”고 말했다. 법원장 출신 변호사도 “소추는 일반적으로 기소를 말한다”며 “재판은 계속되는 게 원칙”이라고 했다. &lt;br&gt;&lt;br&gt;반면 이인호 중앙대 교수는 “대통령의 정상적인 직무 수행을 보장하는 것이 이 조항의 입법 취지”라며 “이 대표가 당선된다면 국민이 원해서 선출한 것인 만큼 진행 중인 재판은 중단되는 것이 맞는다”고 말했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WCBXWNMLW5CZRNZTY7KAWOPPVE.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=백형선&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;학계에서는 아직 논의가 더 필요하다는 의견이 많다. 장영수 고려대 교수는 “소추 범위에 대한 본격적인 논의는 이 대표가 대선 출마를 시사한 데서 시작됐다”며 “학계 논의는 충분하지 않은 상태”라고 했다. 앞서 2017년 대선 당시 자유한국당 후보였던 홍준표 대구시장이 ‘성완종 리스트’ 사건으로 재판을 받다가 대선에 출마해 한 차례 논란이 불거졌지만, 홍 시장이 낙마하면서 논란은 결론 없이 끝났다.&lt;br&gt;&lt;br&gt;다만 소추에 재판이 포함되지 않는다고 하더라도, 대법원이 현직 대통령 사건에서 확정 판결을 내릴 수 있을지 의문이라는 우려도 나온다. 한 전직 헌법재판관은 “이 대표가 대통령에 당선된다면 대법원은 법 해석이 아닌 정치적‧현실적 문제에 맞닥뜨릴 것”이라며 선고가 어려울 것이라고 전망했다. &lt;br&gt;&lt;br&gt;한편, 공직선거법(266조)은 선거법 위반으로 100만원 이상의 벌금형이 확정되면 당선된 직에서 물러나야 한다고 규정하고 있다. 이 대표의 경우 만약 재판이 계속돼 100만원 이상의 벌금형이 확정되면, 대통령에 당선되더라도 퇴직해야 한다는 말이다. 부장판사 출신 변호사는 “100만원 이상 벌금형이 확정돼 대통령이 퇴직한다면 국가적인 혼란이 발생할 수 있다는 점이 사법부 입장에선 부담일 것”이라고 했다. 황도수 건국대 교수는 “임기 중 퇴직형이 확정되면 그 즉시 물러나는 것이 당연하다”고 했다.&lt;br&gt;&lt;br&gt;&lt;b&gt;☞헌법 84조와 소추&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;헌법 84조&lt;/b&gt;: 대통령의 임기 중 불소추(不訴追) 특권을 규정한 헌법 조항이다. ‘대통령은 내란 또는 외환의 죄를 범한 경우를 제외하곤 재직 중 형사상의 소추(訴追)를 받지 아니한다’고 돼 있다. 대통령의 신분과 권위를 유지하고 국가원수 직책의 수행을 보장하려는 목적이다.&lt;br&gt;&lt;br&gt;&lt;b&gt;소추(訴追)&lt;/b&gt;: 검사가 범죄 혐의가 있는 사람에 대해 법원에 공소를 제기하는 것을 말한다. 헌법이나 법률을 위반한 고위 공무원에 대해 국회가 탄핵안을 결의해 헌법재판소에 파면을 구하는 것도 소추라고 한다. 다만 소추에 기소뿐 아니라 재판도 포함되는지를 놓고 학계에서는 의견이 갈린다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>이재명 항소심 3월 26일 선고</title>
-      <link>https://www.chosun.com/national/court_law/2025/02/27/THEGW3KXGRHLRLUEM5WTZJX2EQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/02/27/THEGW3KXGRHLRLUEM5WTZJX2EQ/</guid>
-      <dc:creator>유희곤 기자, 박강현 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 26 Feb 2025 15:55:00 +0000</pubDate>
-      <content:encoded>이재명 더불어민주당 대표의 공직선거법 위반 2심 선고가 오는 3월 26일 내려진다. 서울고법 형사 6-2부(재판장 최은정)는 26일 결심 공판에서 “새로운 의견이나 증거가 나올 사건이 아니고, 오늘 최종 변론을 들었다”며 선고 기일을 다음 달 26일로 지정했다. &lt;br&gt;&lt;br&gt;검찰은 이날 “피고인이 국민적 관심이 최고조에 달했던 20대 대선에서 성남시장 시절 책임을 회피하고 (대통령) 당선을 위해 반복적으로 거짓말을 한 매우 중대한 사안”이라며 1심과 같이 징역 2년을 구형했다. &lt;br&gt;&lt;br&gt;이 대표는 28분 동안 최후 변론을 하며 “하지도 않은 말을 했다고 해석된다면 정치인들이 표현을 어떻게 하느냐”며 “저는 허위라고 생각하고 말한 바 없다”고 주장했다. 재판 전 기자들과 만나서는 “세상의 이치라고 하는 게 다 상식과 원칙대로 가게 돼 있다. 법원이 잘 가려낼 것”이라고 했다.&lt;br&gt;&lt;br&gt;이 대표는 2021년 12월 방송 4곳에 출연해 대장동 개발 실무자인 고(故) 김문기 전 성남도시개발공사 처장을 성남시장 시절 몰랐다고 하고, 2021년 10월 국정감사에서 “국토교통부 협박으로 백현동 개발 부지 용도를 4단계 상향 조정했다”고 해 허위 사실 공표 혐의로 2022년 9월 불구속 기소됐다.&lt;br&gt;&lt;br&gt;1심 법원은 작년 11월 이 대표에게 징역 1년에 집행유예 2년을 선고했다. 이 대표가 2심에서도 징역형을 선고받고, 대법원에서 확정되면 국회의원직을 잃고 향후 10년간 공직 선거에 출마할 수 없게 된다.&lt;br&gt;&lt;br&gt;공직선거법에 따르면 선거사범 1·2·3심 재판은 각각 6·3·3개월 이내에 마무리하도록 돼있다. 이에 따르면 대법원은 6월 26일까지 이 대표의 유무죄를 확정해야 한다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>오세훈 후원자 압수수색</title>
-      <link>https://www.chosun.com/national/court_law/2025/02/27/3B3E3IHTVZE6TCA7NKNPFHOYHQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/02/27/3B3E3IHTVZE6TCA7NKNPFHOYHQ/</guid>
-      <dc:creator>유희곤 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 26 Feb 2025 15:54:00 +0000</pubDate>
-      <content:encoded>정치 브로커 명태균씨 의혹을 수사 중인 서울중앙지검이 오세훈 서울시장 관련 여론조사 비용을 냈다는 의혹을 받는 사업가 김한정씨의 서울 동작구와 제주시 주거지, 서울 여의도 사무실 등을 26일 압수 수색했다.&lt;br&gt;&lt;br&gt;오 시장의 후원자로 알려진 김씨는 2021년 4월 7일 서울시장 보궐선거를 앞두고 오 시장을 위해 명씨가 실질적으로 운영했던 여론조사 업체 ‘미래한국연구소’에 여론조사 비용 3300만원을 5차례에 걸쳐 냈다는 의혹을 받는다.&lt;br&gt;&lt;br&gt;명씨 측은 당시 오 시장을 위한 미공표 여론조사를 13차례 실시해 오 시장 측에 전달했다고 주장한다. 명씨는 검찰 조사에서 김씨와 함께 만난 3자 회동을 포함해 오 시장을 총 4차례 만났다는 진술도 한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;이에 대해 오 시장 측은 “명씨에게 여론조사를 의뢰하지도, 결과를 받아본 적도 없다”는 입장이다. 명씨와의 만남도 명씨와 가까웠던 김영선 전 의원 소개로 이뤄졌을 뿐 김씨와의 3자 회동은 없었다고 반박한다. 김씨도 앞선 검찰 조사에서 “같은 고향 사람인 명씨가 오 시장을 도와준다고 해서 개인적인 차원에서 돈을 줬을 뿐, 오 시장은 모르는 내용”이라고 진술했다고 한다.&lt;br&gt;&lt;br&gt;또 명씨 측은 지난 24일 “2021년 1월 김 전 의원과 함께 만났을 때 오 시장이 김 전 의원에게 서울주택도시공사(SH공사) 사장 자리를 약속했다”는 주장도 했다. 이에 오 시장 측은 “오 시장은 절대 자리를 약속하지 않는 것이 철학”이라며 “완전한 거짓말”이라고 했다. 이종현 서울시 민생소통특보는 이날 낸 입장문에서 “김씨에 대한 검찰 압수 수색을 시작으로 사건 수사에 속도가 붙어 하루빨리 결론이 나길 바란다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>추위 가고 황사 왔다</title>
-      <link>https://www.chosun.com/national/national_general/2025/02/27/3FBJQVA45VDMDKIFNMWBUBCIV4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/02/27/3FBJQVA45VDMDKIFNMWBUBCIV4/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 26 Feb 2025 15:54:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/F3QHHYHQYRHC5DQBTHWDKVQ3QM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;중국에서 유입된 황사 등으로 인해 미세 먼지 농도가 ‘나쁨’을 보인 26일 서울 종로 일대 하늘이 뿌옇다. 미세 먼지가 짙어지는 3월을 앞두고 이날 정부는 가동을 정지하는 공공 석탄 화력 발전기를 최대 15기에서 28기로 확대하고 도로 청소차를 늘리는 등 대책을 시행한다고 밝혔다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>광주 보수 시민단체 “문형배 권한대행 사퇴하라” </title>
