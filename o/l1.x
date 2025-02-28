@@ -6,6 +6,26 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>[판결] "구형 줄여주겠다" 속여 돈받은 검사 출신 변호사, 2심도 징역</title>
+			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/thumb/180/205966.jpg" alt="759.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;자신이 검사로 근무하던 시절 기소했던 피고인에게 "검찰의 구형을 줄여주겠다"며 금품을 받은 혐의로 재판에 넘겨진 변호사가 1심에 이어 항소심에서도 징역형을 선고받았다. 다만 1심과 비교해 형량이 다소 줄었다.&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;서울중앙지법 형사항소5-1부(재판장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="5470"&gt;소병진&lt;/span&gt;,&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="9623"&gt;김용중&lt;/span&gt;,&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="10013"&gt;김지선&amp;nbsp;&lt;/span&gt;부장판사)는 28일 사기, 변호사법 위반 혐의로 기소된 A 씨에게 징역 3년을 선고한 1심을 깨고 징역 2년을 선고했다(&lt;b&gt;2024노311&lt;/b&gt;). 추징금은 1심 2억 6000만 원에서 2억 2666만 원으로 줄었다. 1심과 마찬가지로 법정구속하지는 않았다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;재판부는 "검사 출신 변호사인 피고인이 구형을 낮춰주거나 수사를 무마해 주겠다는 명목으로 금품을 수수한 사건"이라며 "사법 제도의 공정성에 대한 사회 신뢰가 심각하게 훼손될 우려가 있어 비난 가능성이 크다"고 밝혔다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;다만 "원심에서 피해자 2명이 피고인에 대한 처벌 불원 의사를 밝혔고, 항소심에서 피해 금액을 변제한 점 등을 감안하면 원심의 형이 다소 무거워 보인다"며 감형 이유를 설명했다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;검사로 재직하다 2015년 7월 퇴직한 A 씨는 같은 해 12월경 자신이 직접 기소한 피고인을 만나 자신이 결정했던 검찰 구형 의견을 부풀려 말하면서 "공판 검사에게 부탁해 구형을 줄여주겠다"고 속여 3000만 원을 받은 혐의로 재판에 넘겨졌다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;2016년 9월경에는 검찰 수사를 받는 B 씨에게 "부장검사 주임 사건으로 인사를 가야 한다"며 청탁 명목으로 1억 5000만 원을 편취하고, 이듬해 9월 경찰 수사를 받는 C 씨에게는 수사를 무마해 주겠다며 8000만 원을 교부받은 혐의도 있다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;1심은 지난해 1월 A 씨의 혐의를 모두 유죄로 인정했다. 1심은 "A 씨는 피해자들을 기망해 금품을 편취함과 동시에 공무원이 취급한 사건에 관해 청탁, 알선 명목으로 금원을 받았다고 보는 것이 타당하다"며 "전직 검사인 피고인이 수사기관에 개인적 친분을 통한 영향력을 행사해 구형을 변경하겠다거나 수사를 무마시켜 주겠다는 명목으로 금품을 수수한 것으로 죄질이 매우 좋지 않다"고 밝혔다.&lt;/p&gt;</description>
+			<pubDate>Fri, 28 Feb 2025 06:18:09 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/205966</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/205966</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/205966.jpg</media:thumbnail>
+			<dc:creator>한수현 기자</dc:creator>
+		</item>
+		<item>
+			<title>대법원, '법조경력자 신임 재판연구원' 31명 임용</title>
+			<description>&lt;p style="text-align: center; "&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/205965.jpg" alt="0002.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;대법원(대법원장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="6022"&gt;조희대&lt;/span&gt;)은 법조 경력을 가진 재판연구원 31명을 전국 법원에 임용했다고 28일 밝혔다. 24명은 3월 1일 자로 임명되고, 법무관 출신 7명은 올해 8월 1일 자로 임명될 예정이다.&lt;p&gt;&amp;nbsp;   &lt;/p&gt;&lt;p&gt;대법원은 2022년부터 이미 법조 직역에 진출해 각자의 전문 분야에서 다양한 실무 경험을 쌓은 법조인을 재판연구원으로 선발하고 있다. 이를 통해 날로 복잡해지고 다양해지는 법적 분쟁에 대한 법원의 해결 역량을 제고하고, 재판의 충실성과 신속성을 확보하기 위한 방안이다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;이번 선발 절차에서는 재판연구원의 직무와 윤리, 지원 동기 등을 심사하는 3차 인성 면접 전형에서도 2차 구술면접 전형과 동일하게 로스쿨 교수 등 외부 위원이 참여하게 해 공정성과 투명성을 높였다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;단계별 전형의 심사 결과와 각 고등법원 권역별 재판연구원의 수요를 고려해 고등법원 권역별로 인원을 나눠 지난해(30명)와 비슷한 총 31명을 선발했다. 권역별로는 △서울고법권역 20명 △대전고법권역 2명 △대구고법권역 2명 △부산고법권역 2명 △광주고법권역 2명 △수원고법권역 3명이 각 선발됐다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;이번에 임용된 재판연구원 31명 중 여성은 10명(32.3%)이다. 연령은 현재 시점을 기준으로 최연소자는 27세이며, 최연장자는 41세이다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;접수 시를 기준으로 법무법인 등에 근무한 사람은 20명으로 가장 많았다. 국가기관 및 공공기관에서 근무한 사람은 3명이고, 법무관은 7명, 기타 1명이다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;이들은 지난달 31일부터 이달 27일까지 4주간 '법조 경력자 재판연구원 후보자 교육'을 마쳤다. 내달 4일부터 각 고등법원 및 지방법원에서 근무를 시작한다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;재판연구원은 법관의 재판 업무를 보조하기 위해 각종 검토보고서 작성, 법리 및 판례 연구, 논문 등 문헌 조사를 비롯해 구체적 사건에 관한 광범위한 조사 및 연구 업무를 수행한다. 특히 재판연구원 제도는 법관이 법정 중심의 재판에 역량을 집중할 수 있는 여건을 조성함으로써 국민의 재판과 사법부에 대한 신뢰를 높이는 데 기여하고 있다.&lt;/p&gt;</description>
+			<pubDate>Fri, 28 Feb 2025 05:57:22 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/205965</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/205965</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/205965.jpg</media:thumbnail>
+			<dc:creator>한수현 기자</dc:creator>
+		</item>
+		<item>
 			<title>이응세 법무법인 바른 변호사, '한국음악저작권협회 감사패' 수상</title>
 			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/thumb/180/205964.jpg" alt="34537.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="9269"&gt;이응세&lt;/span&gt;(61·사법연수원 17기) 법무법인 바른 변호사가 지난 25일 한국음악저작권협회(회장 추가열) 정기총회에서 감사패를 수상했다.&lt;p&gt;&amp;nbsp;   &lt;/p&gt;&lt;p&gt;한국저작권협회는 "이 변호사는 협회의 각종 자문과 소송 등 법률 대리 업무를 수행하면서 매우 우수한 성과를 거둬 음악 저작권자들의 권익 확대에 기여한 공로를 인정해 감사패를 수여했다"고 밝혔다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;서울 대일고와 고려대 법과대학을 졸업한 이 변호사는 1985년 제27회 사법시험에 합격했다. 사법연수원 수료 후 해군법무관으로 복무한 뒤 부산지법 동부지원 판사, 부산지법 판사, 서울지법 의정부지원 판사, 수원지법 판사, 서울고법 판사, 춘천지법 부장판사, 사법연수원 교수, 서울중앙지법 부장판사, 서울북부지법 부장판사 등을 지냈다. 2012년 3월 변호사로 개업한 뒤 법무법인 바른에서 지적재산권(IP) 및 건설, 에너지 관련 사건 등을 담당하고 있다.&lt;/p&gt;</description>
 			<pubDate>Fri, 28 Feb 2025 04:06:50 -0000</pubDate>
@@ -221,25 +241,6 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/205940</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/205940.jpg</media:thumbnail>
 			<dc:creator>조한주 기자</dc:creator>
-		</item>
-		<item>
-			<title>법무법인 디엘지, 日 컨설팅 기업 피노젝트와 업무협약 체결</title>
-			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/thumb/180/205938.jpg" alt="3453637.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;법무법인 디엘지(대표변호사&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="5968"&gt;조원희&lt;/span&gt;·&lt;span style="font-weight: bold;" class="lawmanlink" serial="28309"&gt;안희철&lt;/span&gt;)는 일본 컨설팅 기업인 피노젝트(대표 미네 키미히로)와 블록체인, 핀테크 기업의 한·일 시장 진출을 지원하는 업무협약을 체결했다고 27일 밝혔다.&lt;p&gt;&amp;nbsp;   &lt;/p&gt;&lt;p&gt;이번 협약 체결로 디엘지와 피노젝트는 한국과 일본의 블록체인, 핀테크 기업의 법인 설립부터 인허가, 컨설팅까지 원스톱(One-stop)으로 전문 자문을 제공할 예정이다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;이들이 제공할 주요 서비스로는 △시장 진출 전략 수립 △법인 설립 및 등기 지원 △금융 라이센스 취득 지원 △규제 대응 △현지 파트너십 구축 △인사·세무 관련 경영 지원 등이 있다. 여기에다 디지털 자산, 가상화폐 거래소, 전자결제 서비스 등 첨단 금융 기술 분야에 특화된 서비스도 제공할 예정이다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="5968"&gt;조원희&lt;/span&gt;(55·사법연수원 30기) 디엘지 대표변호사는 "이번 업무협약을 통해 국내 핀테크, 블록체인 기업들의 일본 진출이 보다 원활해질 것"이라며 "양국 간 법률 및 규제 환경의 차이를 전문가 네트워크를 통해 극복하고, 기업들이 비즈니스 본연에 집중할 수 있도록 지원하겠다"고 말했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
-			<pubDate>Thu, 27 Feb 2025 01:28:08 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/205938</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/205938</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/205938.jpg</media:thumbnail>
-			<dc:creator>한수현 기자</dc:creator>
-		</item>
-		<item>
-			<title>【오늘의 국회일정】 2025년 2월 27일</title>
-			<description>&lt;b&gt;◇국회의장&lt;br /&gt;&lt;/b&gt;&lt;br /&gt;09:30 「알 사드한」 주한사우디아라비아대사 접견(의장집무실)&lt;br /&gt;&lt;br /&gt;11:00 광복회 창립 60주념 기념식(백범김구기념관 컨벤션홀)&lt;br /&gt;&lt;br /&gt;14:00 본회의(본회의장)&lt;br /&gt;&lt;b&gt;&lt;br /&gt;◇국회사무총장&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;14:00 본회의(본회의장)&lt;br /&gt;&lt;b&gt;&lt;br /&gt;◇본회의 및 상임위원회&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;14:00 본회의(본회의장)&lt;br /&gt;&lt;br /&gt;09:40 보건복지위원회 법안심사제1소위원회(본관 601호)&lt;br /&gt;&lt;br /&gt;10:00 농림축산식품해양수산위원회 농림축산식품법안소위원회(본관 501호)&lt;br /&gt;&lt;br /&gt;13:00 행정안전위원회 전체회의(본관 445호)&lt;br /&gt;&lt;br /&gt;본회의 산회 직후 문화체육관광위원회 체육관광법안심사소위원회(본관 506호)&lt;br /&gt;&lt;b&gt;&lt;br /&gt;◇의원실 세미나&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;07:30 김준형 의원실 등, [국회 외평포럼 특집 간담회] 트럼프와 달라진 세계. 4 : (총괄세션) 격변하는 세계, 한국의 미래(의원회관 제4간담회의실)&lt;br /&gt;&lt;br /&gt;07:30 이병진 의원실, 한중 주요 현안 대외정책 세미나. 5차 : 중국 국내 정치 변화와 한중 관계(의원회관 제5간담회의실)&lt;br /&gt;&lt;br /&gt;10:00 이언주 의원실 등, (성장은 민주당) 미래의 빅테크 기업을 찾는다. 4차 : 바이오산업(의원회관 306호)&lt;br /&gt;&lt;br /&gt;10:00 김건 의원실 등, [공부모임 '내일' 정책 버킷 챌리지 3탄] 북핵 협상의 최전선에서 : 한반도 평화의 기회와 도전(의원회관 제3세미나실)&lt;br /&gt;&lt;br /&gt;10:00 이해민 의원실 등, [사회대개혁 국회연속세미나 ①] 광장시민이 꿈꾸는 사회 대개혁과 정치적 연대(의원회관 제2세미나실)&lt;br /&gt;&lt;br /&gt;10:00 김주영 의원실 등, 다시 새롭게 삶을 가치있게 : 복합위기시대 극복을 위한 노동정책 모색 토론회(의원회관 제1세미나실)&lt;br /&gt;&lt;br /&gt;10:00 이용우 의원실 등, 제2 오요안나 사건 방지를 위한 방송 노동자 긴급 증언대회(의원회관 제9간담회의실)&lt;br /&gt;&lt;br /&gt;10:30 최수진 의원실 등, [전략기획특별위원회 3차 세미나] 국민의힘, 어디로 가야 하는가?(의원회관 제1소회의실)&lt;br /&gt;&lt;br /&gt;10:30 김태년 의원실 등, 민주당, 기업 손잡고 트럼프 통상 파고 넘는다(더불어민주당 원내대표 회의실)&lt;br /&gt;&lt;br /&gt;11:00 차지호 의원실, AX시대의 인류 : 인공지능 휴머니즘(의원회관 의원열람실)&lt;br /&gt;&lt;br /&gt;13:30 맹성규 의원실 등, 자율주행 산업 지원 국회 토론회(의원회관 제1세미나실)&lt;br /&gt;&lt;br /&gt;13:30 이정문 의원실 등, 충남권 국립호국원 조성을 위한 국회 토론회(의원회관 제5간담회의실)&lt;br /&gt;&lt;br /&gt;13:30 김성환 의원실 등, 탄소중립 시대의 기후 생태 헌법 개헌 방향과 과제(의원회관 306호)&lt;br /&gt;&lt;br /&gt;14:00 강선우 의원실 등, "희귀질환복지법 제정" 방치된 홈케어 사각지대 해소의 첫걸음(의원회관 제2소회의실)&lt;br /&gt;&lt;br /&gt;14:00 강유정 의원실 등, 2025 학교이스포츠 포럼(의원회관 제3세미나실)&lt;br /&gt;&lt;br /&gt;14:00 오기형 의원실 등, 가계부채 현황과 과제(의원회관 제6간담회의실)&lt;br /&gt;&lt;br /&gt;15:00 민병덕 의원실 등, 전세사기 피해 예방·지원 사각지대 해법을 위한 연석회의. 1회 : 피해 구제 및 예방 분야(의원회관 제1간담회의실)&lt;br /&gt;&lt;br /&gt;18:20 이종배 의원실, [국가발전정책연구원 제89차 정책세미나] (4선 의원 이종배 이사장) AI 강대국의 길 대한민국은 준비됐는가?(의원회관 제8간담회의실)&lt;br /&gt;&lt;b&gt;&lt;br /&gt;◇소통관 기자회견&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;09:20 나경원 의원, [정치 현안 관련 기자회견]&lt;br /&gt;&lt;br /&gt;09:40 차규근 의원, [조세개혁특위 구성 결의안 발의 기자회견]&lt;br /&gt;&lt;br /&gt;10:00 윤종오 의원, [감세정책 비판 기자회견]&lt;br /&gt;&lt;br /&gt;10:20 강선우 의원, [더민주전국혁신회의, 사법부 판결 촉구 기자회견]&lt;br /&gt;&lt;br /&gt;10:40 백승아 의원, [강은희 대구시교육감 디지털교과서 선정 직권 남용 고발 기자회견]&lt;br /&gt;&lt;br /&gt;11:00 이병진 의원, [국가유공자 예우법·독립유공자 예우법 개정안 대표발의 및 보훈 수당 개선 필요성 설명 기자회견]&lt;br /&gt;&lt;br /&gt;11:20 주철현 의원, [정부 여순사건위원회 작성기획단 규탄 기자회견]&lt;br /&gt;&lt;br /&gt;11:40 서미화 의원, [시외 이동권 소송 승소 및 교통약자이동권보장법 제정 촉구 기자회견]&lt;br /&gt;&lt;br /&gt;13:20 김현 의원, [더불어민주당 팩트체크넷 민주파출소 일일 브리핑]&lt;br /&gt;&lt;br /&gt;14:00 정동영 의원, [대한민국 국방안보포럼 천군만마 시국선언 기자회견]&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;b&gt;&lt;span style="font-size: 14px;"&gt;※ 상기 일정은 사정에 따라 변경될 수 있습니다.&lt;/span&gt;&lt;/b&gt;&lt;br /&gt;</description>
-			<pubDate>Wed, 26 Feb 2025 22:39:38 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/205930</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/205930</guid>
-			<dc:creator>인터넷 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
