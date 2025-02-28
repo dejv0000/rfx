@@ -13,6 +13,36 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>[속보] 검찰, ‘비상계엄 가담’ 김현태 707단장 등 군·경 9명 기소</title>
+      <link>https://www.chosun.com/national/court_law/2025/02/28/6M52YYHH7VF53NMJHVZ6Q6FUDU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/02/28/6M52YYHH7VF53NMJHVZ6Q6FUDU/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 28 Feb 2025 04:36:35 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZCHECEHLMJ47EAXXIADVXDEV34.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김현태 육군 707특수임무단장이 17일 오후 서울 여의도 국회에서 열린 국방위원회 제422회국회(임시회) 제2차 전체회의에 출석해 현안 질의에 답하고 있다./뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘12·3 비상계엄' 사태를 수사하는 검찰 비상계엄 특별수사본부(본부장 박세현 서울고검장)는 28일 김현태 707특임단장 등 군·경 관계자 9명을 모두 내란중요임무종사 및 직권남용 혐의로 불구속 기소했다고 밝혔다. 현역 군인 신분인 관계자 7명은 중앙지역군사법원에 기소됐다. 경찰 관계자 2명은 서울중앙지법에서 재판받게 된다.&lt;br&gt;&lt;br&gt;검찰은 우선 국회 봉쇄·침투와 관련해 이상현 1공수여단장(준장), 김 단장, 목현태 전 서울경찰청 국회경비대장을 불구속 기소했다.&lt;br&gt;&lt;br&gt;이재명 더불어민주당 대표, 한동훈 전 국민의힘 대표 등 ‘반국가세력 합동체포조’를 구성해 운영하려 한 혐의로는 김대우 방첩사령부 수사단장, 윤승영 경찰청 국가수사본부 수사기획조정관, 박헌수 국방부 조사본부장을 기소했다고 검찰은 밝혔다. 국수본과 국방부 조사본부는 고위공직자범죄수사처와 지난해 12월 11일 공조수사본부를 구성, 비상계엄 사태를 수사해왔다.&lt;br&gt;&lt;br&gt;선거관리위원회 점거와 직원 체포 등에 관여한 혐의로는 고동욱 정보사령부 계획처장, 김봉규 정보사 중앙신문단장, 정성욱 정보사 대령이 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>파리 신궁 임시현, 모교 한체대 입학식서 “넘어지고 깨지되 포기 말고 나아가길”</title>
+      <link>https://www.chosun.com/national/national_general/2025/02/28/62FDLC23ZBE25DZZLV6Z2K3IJI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/02/28/62FDLC23ZBE25DZZLV6Z2K3IJI/</guid>
+      <dc:creator>안태민 기자, 김병권 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 28 Feb 2025 03:29:27 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KGAKB4HSOFG2PJT6QMR34L73JA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2024 파리 올림픽에서 여자 양궁 3관왕을 기록한 임시현씨가 28일 오전 서울 송파구 한국체대 필승관에서 열린 입학식에서 축사를 하고 있다. 임씨는 한국체대 체육학과 22학번으로 재학 중이다./한국체대&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“간혹 힘든 일이 닥쳐오더라도 그 힘들었던 순간이 먼 훗날 자신을 받쳐주는 밑거름이 될 것이라고 믿으시길 바랍니다. 그 믿음은 결국 여러분들을 해내고 마는 사람으로 이끌 겁니다. 그러니 우리의 최고의 무기인 젊음과 열정을 앞세워 잃을 것이 없는 지금 많이 넘어지고 깨지되 포기하지 않고 나아가는 한국체대인(人)이 되길 바랍니다”&lt;br&gt;&lt;br&gt;28일 오전 11시 서울 송파구 한국체육대학교 필승관 대강당에서 2025학년도 한체대 입학식이 열렸다. 이날 오전 11시 19분쯤부터 3분가량 입학식 축사를 한 ‘파리 신궁(神弓)’ 임시현(22)씨는 후배 신입생들에게 “넘어지고 깨져도 포기하지 말고 나아가 달라”고 당부했다. 한체대 스포츠과학대학 체육학과 22학번으로 재학 중인 임씨는 2024 파리 올림픽에서 여자 양궁 3관왕을 기록했다.&lt;br&gt;&lt;br&gt;올림픽 금메달리스트인 임씨가 무대 위에 오르자 신입생들 사이에선 “와”하는 환호성이 터졌다. 임씨는 “오늘 이렇게 뜻깊은 자리에서 여러분을 환영할 수 있게 되어 대단히 큰 영광”이라며 “치열한 경쟁을 뚫고 한국체육대학교의 가족이 되신 신입생 여러분께 재학생을 대표하여 진심으로 환영한다”고 말했다. 이어 “우리 대학은 전 세계 스포츠인들의 상징과 같은 대학교”라며 “함께 출전한 선수는 물론 각국의 지도자와 다양한 분야에서 활약하고 있는 선배님들을 보며 저 역시 한국체대인으로서의 매 순간 최선을 다할 수 있었고 올림픽에서 3관왕이라는 명예도 얻을 수 있었다”고 했다. 이에 신입생들은 박수갈채로 화답했다.&lt;br&gt;&lt;br&gt;축사 말미에 임씨는 “승자가 있으면 패자가 있는 게 당연하듯이 모두가 만족하고 행복하기는 어렵다고 생각하지만, 학년이 더해지면서 여기 있는 모든 학생들이 더 성장하고 더 단단해질 것은 분명한 사실”이라며 “간혹 힘든 일이 닥쳐오더라도 그 힘들었던 순간이 먼 날 자신을 받쳐주는 밑거름이 될 것이니 우리의 최고의 무기인 젊음과 열정을 앞세워 잃을 것이 없는 지금 많이 넘어지고 깨지되 포기하지 않고 나아가는 한국체대인이 되길 바란다”고 밝혔다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GSY6AJCCSFCVVNCO5SSLRCFNWU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난해 열린 2024 파리 올림픽 개인전 시상식에서 금메달을 들어 보이는 임시현 선수의 모습. /고운호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;축사를 마친 임씨에게 학생들은 다시 한 번 박수갈채와 함성으로 화답했다. 임씨의 축사를 들은 스포츠산업학과 신입생 김민서(19)씨는 “평소에 임시현 선수의 팬이라 같은 학교에 입학한다는 사실이 너무 영광스럽다”며 “나도 임시현 선수처럼 대한민국의 체육 사회에 큰 기여를 할 수 있는 학생이 되고 싶다”고 했다.&lt;br&gt;&lt;br&gt;축사 이후 무대 아래로 내려온 임씨는 본지와의 인터뷰에서 “개인적으로도 각종 대회에 출전할 때 두려움이 컸지만, 잃을 게 없는 후배들인 만큼 도전하기에 가장 좋은 시기라는 뜻을 이번 기회에 전하고 싶었다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>경찰, 야밤에 도끼로 가로수 내려친 70대 남성 체포</title>
+      <link>https://www.chosun.com/national/national_general/2025/02/28/2H3WTDVRSFA37KVJHIT7PH3BZE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/02/28/2H3WTDVRSFA37KVJHIT7PH3BZE/</guid>
+      <dc:creator>김병권 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 28 Feb 2025 03:55:54 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DOXPPDA5VNBZ7IQOU2CTBNN5PI.jfif"&gt;&lt;figcaption&gt;&lt;small&gt;서울 강동경찰서/조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;새벽에 도끼를 들고 길거리를 배회하다 가로수를 내리친 남성이 경찰에 검거됐다.&lt;br&gt;&lt;br&gt;서울 강동경찰서는 70대 남성 A씨를 현행범으로 체포해 조사 중이라고 28일 밝혔다. &lt;br&gt;&lt;br&gt;A씨는 본인의 집 주변인 서울 강동구 암사동의 한 거리에서 이날 새벽 12시 30분쯤 손도끼를 들고 배회하다 가로수를 내리친 혐의를 받는다.&lt;br&gt;&lt;br&gt;흉기를 들고 돌아다니는 남성이 있다는 신고를 받고 출동한 경찰은 현장에서 A씨를 체포했다. A씨는 경찰 조사에서 “집에서 장작을 패던 중에 도끼를 들고 커피를 사러 자판기에 갔다가 가로수가 보이길래 내려치게 됐다”고 진술했다고 한다. &lt;br&gt;&lt;br&gt;A씨를 조사한 후 귀가시킨 경찰은 그를 재물손괴 혐의로 입건할지 여부를 검토 중이다. 범행 당시 A씨는 음주나 마약을 한 상황은 아니었고, 사람한테 위해를 가하지도 않았다고 한다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/DOXPPDA5VNBZ7IQOU2CTBNN5PI.jfif?width=768&amp;height=512&amp;auth=c97829dfb446de13ae05b803b1e0052e1631316d3496159c3edd5ff945da8e6c&amp;smart=true" type="image/jpeg" height="512" width="768">
+        <media:description type="plain">서울 강동경찰서/조선DB</media:description>
+      </media:content>
+    </item>
+    <item>
       <title>코인 거래 유인한 뒤 3000만원 빼앗아 달아난 중국인 남성 2명 체포 </title>
       <link>https://www.chosun.com/national/incident/2025/02/28/O75J6C2MDVGTLPNZTP4LVQFMC4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/02/28/O75J6C2MDVGTLPNZTP4LVQFMC4/</guid>
@@ -807,15 +837,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/T4RUMQRHQBN6LCEO2NZPCAFR2M.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;삼일절을 이틀 앞둔 27일 오후 서울 용산구 효창공원에 태극기 거리가 조성돼 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;삼일절 연휴 내내 비가 내릴 것으로 전망됐다. 연휴 중후반 중부지방을 중심으로는 비가 눈으로 바뀌어 내리는 곳도 있겠다.&lt;br&gt;&lt;br&gt;기상청에 따르면, 28일 오전 비구름대를 동반한 기압골과 습한 남풍(南風)의 영향으로 제주와 남부지방 전역, 충청남부 일부 지역에 비가 내리겠다. 강수량은 제주 5~10㎜, 그 밖의 지역은 5㎜ 미만으로 예보됐다.&lt;br&gt;&lt;br&gt;삼일절에는 온난 습윤한 남풍이 불어오는 가운데 북쪽에서 한랭 건조한 바람이 내려오며 두 공기가 충돌, 비구름대가 만들어지며 전국에 비가 내리겠다. 제주·전남에선 오전부터, 나머지 남부 지방과 충청은 오후부터, 수도권과 강원도는 밤부터 비가 내릴 것으로 예보됐다. 삼일절 예상 강수량은 제주 5∼20㎜, 광주·전남·부산·울산·경남 5∼10㎜, 나머지 지역은 5㎜ 내외다.&lt;br&gt;&lt;br&gt;내달 2일에는 큰 비구름대를 동반한 저기압이 한반도 상공으로 들어오면서 빗줄기가 거세지겠다. 찬 바람이 계속 내려오면서 강원도에선 2일 오후부터 비가 눈으로 바뀌겠다. 남하하는 찬 공기 양이 많을 경우 수도권을 비롯한 중부지방에 대설특보급 눈이 내릴 수도 있다. 이번 눈은 2일 밤부터 3일 오전 사이 가장 강하게 쏟아질 것으로 기상청은 내다봤다. 강원도엔 내달 2~5일 50㎝가량의 눈이 쌓일 수 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>박문성 “정몽규 4선은 ‘체육관 선거’ 결과... 반기 들면 생계 힘들어져”</title>
-      <link>https://www.chosun.com/national/national_general/2025/02/27/QYHZMKTRYJFRLF6BT2F7PWMJ4Q/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/02/27/QYHZMKTRYJFRLF6BT2F7PWMJ4Q/</guid>
-      <dc:creator>박선민 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 27 Feb 2025 05:12:44 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BBOBHKMWXFCJDID3GYHI3BQXRA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;작년 9월 국회에서 열린 문화체육관광위원회 전체회의에 박문성 축구 해설위원(왼쪽)과 정몽규 대한축구협회 회장이 출석했다. /국회방송 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;박문성 축구 해설위원은 정몽규(63) HDC그룹 회장의 대한축구협회 회장 4연임 성공을 두고 “닫힌 ‘체육관 선거’ 방식 때문“이라고 주장했다. &lt;br&gt;&lt;br&gt;박 해설위원은 27일 CBS ‘김현정의 뉴스쇼’에서 “지금 국민 여론조사를 실시해 ‘정 회장과 현재 축구협회에 대해 어떻게 생각하십니까’라고 묻는다면 70% 이상은 비판적으로 볼 텐데, 이번 선거 결과는 정반대로 그 이상이 정 회장을 지지했다”고 했다. &lt;br&gt;&lt;br&gt;앞서 전날 진행된 축구협회 선거에서 정 회장은 압도적인 표 차이로 4연임에 성공했다. 선거인단 192명 가운데 183명이 투표에 참가했으며, 정 회장은 156표를 얻어 결선 투표 없이 당선됐다. 허정무 후보는 15표, 신문선 후보는 11표를 얻었으며 무효표가 1표 나왔다. 정 회장은 당선과 동시에 업무를 시작하며, 임기는 2029년 초 열리는 축구협회 정기총회까지다.&lt;br&gt;&lt;br&gt;박 해설위원은 선거인단의 구성을 보면 이런 결과가 나온 이유를 알 수 있다고 설명했다. 그는 “축구협회 산하 단체로 여자축구연맹, 프로축구연맹 등 각 연맹이 있고, 17개 시도 축구협회까지 약 60명이 선거인단에 들어온다”며 “이는 전체 선거인단의 30%가 넘는 규모”라고 했다. 이어 “축협 산하 연맹이나 각 시도 축구협회 회장은 기존 축협회장의 그늘 아래에 있다”며 “정 회장이 3선 12년을 했으니 (선거인단 표) 30%는 기본적으로 갖고 가게 된다”고 했다. &lt;br&gt;&lt;br&gt;박 해설위원은 “나머지는 무작위 추첨을 한다. 선수, 감독, 심판, 그다음 동호회 이런 생활 체육 관련 분들이 60% 정도 들어와 축구회관에 모여 투표를 한다”며 “다 자기 생계가 걸려 있어 반기를 들기 쉽지 않다. 정 회장에 반대되는 투표를 하거나 목소리를 내면 이 바닥에서 먹고살기 힘들어진다”고 했다. &lt;br&gt;&lt;br&gt;박 해설위원은 이 같은 선거 방식을 ‘체육관 선거’에 빗댔다. 그러면서 “체육계 자체가 수직적 상하 구조가 강하고, 이런 배경이 몰려 있다 보니 여론조사와는 완전히 다른 정반대의 결과가 나와버린 것”이라고 했다. &lt;br&gt;&lt;br&gt;박 해설위원은 축협의 규모를 고려할 때 선거인단의 규모와 선출 범위가 커져야 한다고 주장했다. 그는 “선거인단이라도 넓었거나, ‘거버넌스’처럼 팬을 포함해 더 많은 시민이 함께했다면 지금과 같은 결과가 안 나왔을 것”이라며 “현재 대한축구협회는 월드컵에 참여하고 피파 임원을 뽑는 규모인데도 선거인단이 190명 정도다. 이걸 손대지 않는 이상 바꾸기 어렵다고 본다”고 했다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>경찰서 앞으로 돌진한 제네시스...50대 운전자 마약 검사 ‘양성’</title>
       <link>https://www.chosun.com/national/national_general/2025/02/27/JNULTAD6SVGMRA532G6K33D4TY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/02/27/JNULTAD6SVGMRA532G6K33D4TY/</guid>
@@ -879,19 +900,6 @@
       <content:encoded>헌법재판소가 27일 최상목 대통령 권한대행이 마은혁 헌법재판관 후보자의 임명을 보류한 것은 “헌법재판소 구성권 침해”라고 판단한 데 대해, 윤석열 대통령 변호인단은 “결국 대통령 탄핵심판 정족수를 확보하기 위한 하명 결정”이라며 강하게 반발했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UA5N5TJ3RFPIHFSOPRHCGHJJMI.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;문형배 헌법재판소장 권한대행을 비롯한 헌법재판관들이 27일 서울 종로구 헌법재판소 대심판정에서 열린 마은혁 재판관 후보자 불임명 관련 권한쟁의심판 선고에 자리해 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;변호인단은 이날 입장문을 내고 이 같이 밝혔다. 변호인단은 “거대 야당은 대통령 탄핵 공작을 위하여 편향된 헌재 구성에 몰두하였고, 헌재는 거대 야당의 꼼수와 불순한 의도에 제동을 걸지 않았다”며 “여야 합의에 의한 헌법재판관 임명이라는 관행을 무시하고, 국회 의결도 거치지 않은 국회의장 독단의 권한쟁의 청구에 대한 헌재의 판단을 국민은 결코 용납할 수 없을 것”이라고 했다. 이어 “헌재는 헌법을 수호하는 기관으로서의 사명을 내던졌고, 갈등의 조정자가 아니라 거대 야당을 위한 정치세력이 되는 것을 선택했다”고 강하게 비판했다.&lt;br&gt;&lt;br&gt;변호인단은 “평의 과정에서 헌법재판관 중 3인이 국회 본회의 의결도 거치지 않고 권한쟁의를 청구한 것은 부적법하다며 각하 의견을 내자, 우선 권한쟁의를 인용하여 마은혁 후보자를 임명하고 대통령 탄핵심판의 의결 정족수 6명을 확보하고자 하였음을 어렵지 않게 추측할 수 있다”고 지적했다. 헌재에 계류 중인 다른 사건들 대신 이 사건 선고를 내린 것은 정치적인 셈법이자 꼼수라는 것이다.&lt;br&gt;&lt;br&gt;변호인단은 “재판의 공정성과 정치적 중립성이 가장 담보되어야 할 헌법재판관을 특정 성향에 강하게 경도된 후보자로 임명하려 한 것이 잘못”이라며 “헌법은 사회 통합의 기초가 되는 공감적 가치의 실현을 목적으로 한다. 특정 이념과 성향을 대변하는 것이 아니라 모두가 공감할 수 있는 가치의 실현을 그 목적으로 하는 것”이라고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Z3AVI44I4BGFFNLJYFPOHAOVWQ.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;마은혁 헌법재판관 후보자/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;우리법연구회 소속으로 알려진 마 후보자가 헌법재판관이 돼서는 안 된다는 것이 변호인단 주장이다. 이어 변호인단은 “절차적 정당성을 무시하고 다수결을 보완하는 여야 합의라는 헌법적 가치도 무시한 권한쟁의는 각하가 명백하다. 그럼에도 헌법 정신에 위배한 헌법재판소의 결정은 전체 국민이 납득할 수 없는 정치적 의사표현일 뿐”이라고 했다.&lt;br&gt;&lt;br&gt;앞서 헌재는 이날 우원식 국회의장이 최 권한대행을 상대로 낸 ‘마 후보자 임명 보류’ 권한쟁의 청구를 재판관 전원 일치로 인용했다. 그러나 내부적으로 우 의장이 국회 본회의 의결을 거치지 않고 권한쟁의 청구를 한 것은 잘못됐다는 의견이 3명(정형식‧김복형‧조한창 재판관)이나 있었다. 법조계에서는 “절차적 흠결, 졸속 재판 등 논란이 이어진 사건을 마무리짓는 게 아니라 논란을 더 키우는 판결을 내렸다”는 비판이 나온다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>‘속옷·수영복 입은 신체 합성’...윤 대통령 부부 딥페이크 영상 제작·상영 유튜버 입건</title>
-      <link>https://www.chosun.com/national/national_general/2025/02/27/6UD4OIYHMNHG3OF7BKPB46G3XU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/02/27/6UD4OIYHMNHG3OF7BKPB46G3XU/</guid>
-      <dc:creator>광주광역시=진창일 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 27 Feb 2025 01:51:39 +0000</pubDate>
-      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FXPGYQPTCBMY3MDWWJMFW7PUUQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 15일 오후 광주 동구 금남로에서 경찰버스로 만든 차벽을 사이에 두고 윤석열 대통령 탄핵에 찬성(아래쪽), 반대(위쪽)하는 집회가 각각 열리고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 15일 윤석열 대통령 탄핵 찬반집회가 열리던 중 광주광역시 금남로 5·18민주광장에서 윤 대통령 내외 딥페이크 영상을 제작·상영한 유튜버들이 경찰에 입건됐다.&lt;br&gt;&lt;br&gt;광주경찰청 사이버범죄수사대는 27일 성폭력범죄의 처벌 등에 관한 특례법 위반 혐의로 유튜버 2명을 입건했다고 밝혔다.&lt;br&gt;&lt;br&gt;대통령실은 지난 15일 광주 금남로 탄핵 찬성집회 장소 인근 5·18민주광장에 세워진 한 트럭에 설치된 대형 스크린에서 윤 대통령 부부 얼굴을 속옷과 수영복을 입은 신체에 합성한 딥페이크 영상이 상영된 것을 확인하고 관련된 유튜브 채널 운영자 2명을 성폭력범죄의 처벌 등에 관한 특례법 위반 혐의로 경찰에 고발했다.&lt;br&gt;&lt;br&gt;해당 영상은 탄핵 찬성집회 무대 위 대형 스크린에서 상영되지는 않은 것으로 밝혀졌다. 또 탄핵 찬성집회 주최 측인 광주비상행동은 윤 대통령 내외 딥페이크 영상에 대해 “공식적인 허용 속에서 이뤄진 것이 아니다”며 영상 제작·상영과 무관하다는 취지의 해명을 냈었다,&lt;br&gt;&lt;br&gt;영상 제작자는 노르웨이, 상영자는 경기도 거주자로 알려졌다. 경찰 관계자는 “고발장이 접수되면 당사자는 즉시 입건되는 사안으로 추가적인 수사 절차가 이뤄진 것은 아니다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/FXPGYQPTCBMY3MDWWJMFW7PUUQ.jpg?width=4000&amp;height=6000&amp;auth=414e3450e680319a13e6c8df0b71b63adb87ab40a133ca870c0c16b4c23518b9&amp;smart=true" type="image/jpeg" height="6000" width="4000">
-        <media:description type="plain">지난 15일 오후 광주 동구 금남로에서 경찰버스로 만든 차벽을 사이에 두고 윤석열 대통령 탄핵에 찬성(아래쪽), 반대(위쪽)하는 집회가 각각 열리고 있다. /연합뉴스</media:description>
-        <media:credit role="author" scheme="urn:ebu">정회성</media:credit>
-      </media:content>
-    </item>
-    <item>
       <title>인천 빌라서 화재…집에 혼자 있던 초등생 중태</title>
       <link>https://www.chosun.com/national/incident/2025/02/27/NNN4E3YPU5A37HW47PIMP3O73Q/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/02/27/NNN4E3YPU5A37HW47PIMP3O73Q/</guid>
@@ -899,23 +907,6 @@
       <description/>
       <pubDate>Thu, 27 Feb 2025 00:43:55 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FH3MGORFKNFYLKDBZCWXJHTZ7M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;26일 오전 10시 43분쯤 화재가 발생한 인천 서구 심곡동의 한 빌라 내부. /인천소방본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천의 한 빌라에서 불이 나 집에 혼자 있던 초등학생 1명이 중태에 빠졌다. &lt;br&gt;&lt;br&gt;27일 인천소방본부에 따르면 전날 오전 10시 43분쯤 인천 서구 심곡동의 한 빌라 4층에서 화재가 발생했다. &lt;br&gt;&lt;br&gt;이 불로, 집에 있던 A(12)양이 얼굴 부위에 2도 화상을 입고 병원으로 옮겨져 치료 중이다. 또 소방서 추산 390만원 상당의 재산 피해가 발생했다. &lt;br&gt;&lt;br&gt;병원으로 옮겨진 A양은 아직 의식을 찾지 못하고 있는 것으로 파악됐다.&lt;br&gt;&lt;br&gt;A양은 부모가 외출한 사이 집에 혼자 있었던 것으로 알려졌다. &lt;br&gt;&lt;br&gt;서구는 피해 가구에 긴급 생계비와 생활용품 등을 지원하기로 했다. 서구는 이 가구가 기초생활수급가구는 아니라고 설명했다. &lt;br&gt;&lt;br&gt;신고를 받고 출동한 소방 당국은 소방관 등 71명과 장비 19대를 투입해 오전 11시 34분쯤 완전히 불을 껐다. &lt;br&gt;&lt;br&gt;소방 당국은 빌라 방 안에서 불이 난 것으로 보고 정확한 화재 원인을 조사하고 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>서울시민 64% “지하철 노인 무임승차 연령 올리자”</title>
-      <link>https://www.chosun.com/national/national_general/2025/02/27/7LGPBBYLGBA2BDACHP4T4R62SI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/02/27/7LGPBBYLGBA2BDACHP4T4R62SI/</guid>
-      <dc:creator>김영우 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 27 Feb 2025 01:50:02 +0000</pubDate>
-      <content:encoded>서울 시민 10명 중 6명이 지하철 무임승차 연령 상향에 찬성한다는 여론조사 결과가 나왔다.&lt;br&gt;&lt;br&gt;여론조사 전문 기관 위드리서치가 윤영희 서울시의원(국민의힘) 의뢰로 지난해 12월 11일부터 5일간 서울 시민 1144명을 대상으로 조사한 결과, 응답자의 64.1%가 무임승차 연령 상향에 찬성하는 것으로 나타났다. 반대한다는 응답자는 17.1%였고, 모르겠다는 응답자도 18.8%로 나타났다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ILFA3WITVVG45EUWRX4XGSJYKI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=조선디자인랩 이민경&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;무임승차 연령 상향에 찬성하는 이유로는 ‘청년 세대의 세금 부담 우려’를 택한 사람이 전체 응답자의 38.7%로 가장 많았고, ‘고령화 사회에서 노인에 대한 사회적 인식 변화’(37%)가 뒤를 이었다.&lt;br&gt;&lt;br&gt;연령 상향에 찬성하는 사람들은 ‘무임승차 연령을 70세로 조정하는 방안을 어떻게 생각하느냐’는 질문에 76.1%가 ‘긍정적’이라고 답했다.&lt;br&gt;&lt;br&gt;한편 연령 상향에 반대하는 이유로는 ‘경제적 어려움을 겪는 노인들의 교통비 부담’(57.8%), ‘세대 간 갈등 우려’(21.3%) 등이 제시됐다.&lt;br&gt;&lt;br&gt;‘노인 무임승차 제도가 지하철 적자에 영향을 미치느냐’는 질문에는 76.6%가 ‘그렇다’고 답했다.&lt;br&gt;&lt;br&gt;제도 개선 방법을 복수 선택하게 해보니, ‘저소득층·장애인 대상 바우처 제공’이 64.2%로 가장 많은 지지를 받았고, ‘출퇴근 시간대 무임승차 제한’이 60.8%로 그 뒤를 이었다. 가장 지지도가 낮은 대안은 ‘할인율을 100%에서 50%로 조정한다’(44.2%)는 방안이었다.&lt;br&gt;&lt;br&gt;윤영희 시의원은 “우리 사회가 이미 100세 시대에 접어든 만큼, 노인 기준 연령과 복지 정책도 변화해야 한다”고 말했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/FYVNPZGXGNDMPL3Q3TGMUFNAOQ.jpg?width=4000&amp;height=2250&amp;auth=063cec18ca277cd93b1a1dbcdd4a4f2e1218d6daa3003cfbb296d51306142f9a&amp;smart=true" type="image/jpeg" height="2250" width="4000">
-        <media:description type="plain">&lt;YONHAP PHOTO-3991&gt; [모멘트] '노인은 몇 세부터?'
-    (서울=연합뉴스) 김인철 기자 = 6일 오후 서울 지하철 종로3가역에서 노인이 개찰구를 통과하고 있다.
-    대구시가 지하철 무임승차 연령을 만 65세에서 70세로 상향하는 방안을 검토한다고 발표한 뒤 오세훈 서울시장도 "모든 가능성을 열어놓고 논의하겠다"며 연령 기준 개편에 나설 뜻을 밝힌 가운데, 기획재정부는 기존의 반대 입장을 고수하고 있다. 2023.2.6 [THE MOMENT OF YONHAPNEWS]
-    yatoya@yna.co.kr/2023-02-06 16:03:22/
-&lt;저작권자 ⓒ 1980-2023 ㈜연합뉴스. 무단 전재 재배포 금지.&gt;</media:description>
-        <media:credit role="author" scheme="urn:ebu">이진욱</media:credit>
-      </media:content>
     </item>
     <item>
       <title>모든 지하주차장에 스프링클러 의무화</title>
