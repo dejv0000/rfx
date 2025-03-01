@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>서울고법 “SK케미칼, 애경에 가습기살균제 소송비용 배상하라”</title>
+      <link>https://www.chosun.com/national/court_law/2025/03/01/PGYV3YYCPRC2XBL6RAIGADA7F4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/03/01/PGYV3YYCPRC2XBL6RAIGADA7F4/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 01 Mar 2025 13:17:08 +0000</pubDate>
+      <content:encoded>유해 물질이 포함된 가습기 살균제를 판매한 애경산업이 제조사인 SK케미칼을 상대로 ‘국외 법적 분쟁에 든 비용을 보전하라’며 낸 소송의 2심에서 승소했다. 다만 배상액은 1심보다 5억원가량 줄어든 31억3000만원으로 정해졌다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G3KWQA54SBP7FP4M7RKMMEOAZE.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;서울고등법원./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;1일 법조계에 따르면, 서울고법 민사12-1부(재판장 장석조)는 애경산업이 SK케미칼을 상대로 낸 손해배상 청구 소송에서 SK가 31억3000여 만원을 지급하라고 지난달 12일 판결했다.&lt;br&gt;&lt;br&gt;애경산업은 2001∼2002년 SK케미칼과 물품 공급·제조물 책임(PL) 계약을 맺고 가습기 살균제 원액을 공급받아 시중에 판매했다. SK케미칼은 클로로메틸아이소티아졸리논(CMIT)·메틸아이소티아졸리논(MIT)이 첨가된 원액을 애경산업에 공급했고, 애경산업은 이 성분이 첨가된 가습기 살균제 ‘가습기 메이트’를 판매했다. 사용자 중 98명이 폐 질환과 천식 등을 알았고, 12명은 사망했다.&lt;br&gt;&lt;br&gt;당시 두 회사는 “SK케미칼이 제공한 상품 원액의 결함으로 제3자의 생명, 신체, 재산에 손해를 준 사고가 발생하면 SK케미칼이 이에 대한 전적인 책임을 지며 피해자에게 손해를 배상한다”는 내용을 계약에 포함했다.&lt;br&gt;&lt;br&gt;미국에서 가습기 살균제를 사용한 뒤 사망한 피해자들 유족이 애경산업과 SK케미칼, 현지 유통업체를 상대로 손해배상을 청구하면서, 애경산업은 계약에 따라 SK케미칼이 상품 결함에 책임을 모두 져야 한다며 미국 내 소송 비용 36억5000만원을 보전하라는 소송을 냈다.&lt;br&gt;&lt;br&gt;1심은 “계약에 따라 가습기 살균제 원액의 결함을 주장하며 제기된 재판상 청구, 신청 등과 관련된 일체의 비용을 SK케미칼이 보전하기로 약정했다고 봄이 타당하다”며 애경산업에 36억4000만원을 지급하라고 판결했다. 2심도 이런 판단이 정당하다고 보고 SK케미칼의 항소를 기각했다. 다만 2심 진행 중 애경이 소송 과정에서 지급하지 않은 비용을 빼고 청구액을 31억3000만원으로 낮춰 배상액이 줄었다.&lt;br&gt;&lt;br&gt;한편, 홍지호 전 SK케미칼 대표와 안용찬 전 애경산업 대표는 가습기 살균제 제조·판매 혐의로 기소돼 2심에서 각각 금고 4년이 선고됐으나, 지난해 12월 대법원은 “피해자들이 사망하거나 상해를 입은 원인이 어떤 가습기 살균제 탓인지 구체적으로 심리할 필요가 있다”며 사건을 서울고법으로 돌려보냈다. 대법원은 “이 사건 피고인들이 관련 사건 피고인들과 서로 상대방의 가습기 살균제의 개발 출시를 인식하였다거나 그에 관해 서로 의사를 전했음을 인정할 사정도 발견할 수 없다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>탄핵 찬반 12만 결집에, 교통 대란 벌어진 서울 도심</title>
       <link>https://www.chosun.com/national/national_general/2025/03/01/CWGUWWULOJBX5D2LJ2VC3O6K4A/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/03/01/CWGUWWULOJBX5D2LJ2VC3O6K4A/</guid>
@@ -935,15 +944,6 @@
       <description/>
       <pubDate>Fri, 28 Feb 2025 02:03:18 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IDOFPWDQEJ45WIEU6OBIT6BP4A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대구 달성군 전경./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대구 달성군은 전동휠체어와 전동스쿠터를 이용하는 장애인과 어르신을 대상으로 ‘전동보장구 안심 운행 보험’ 지원 사업을 진행한다고 28일 밝혔다. 이 사업은 전동보장구 운행 중 사고로 인한 장애인과 어르신의 정신·경제적 부담을 줄여주기 위한 것으로, 대구 지역 지자체 중 최초다.&lt;br&gt;&lt;br&gt;달성군에 따르면, 달성군에 거주하는 전동 보장구 이용 장애인과 만 65세 이상 어르신은 별도 절차 없이 자동 가입돼 3월 1일부터 1년간 보험 혜택을 받을 수 있다. &lt;br&gt;&lt;br&gt;이에 따라 전동 보장구 이용 중 제3자를 다치게 하거나 물건을 부수는 등의 사고를 일으킬 경우 건당 최대 3000만 원(자부담 5만 원)까지 지원받게 된다. 단 피보험자 부상과 전동 보장구 손해는 지원에서 제외된다. 보장 기간 중 보험 청구 횟수에 대한 제한은 없으며, 사고 발생일로부터 3년 이내에 보험금을 청구하면 심사를 거쳐 보상 여부가 결정된다. &lt;br&gt;&lt;br&gt;최재훈 달성군수는 “이 사업이 장애인과 어르신의 경제적 부담을 덜고, 사고 피해를 빠르게 회복할 수 있는 디딤돌 역할을 하길 기대한다”며 “장애인과 노인들의 이동권 보장과 사회활동 참여 증진을 위해 다양한 노력을 하겠다”고 말했다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘캡틴아메리카’ 복장 尹지지자 검찰 송치… 사문서 위조 혐의도 적용</title>
-      <link>https://www.chosun.com/national/national_general/2025/02/28/RMGRMLNI3BAHLE4KSDOH5LZPFA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/02/28/RMGRMLNI3BAHLE4KSDOH5LZPFA/</guid>
-      <dc:creator>고유찬 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 28 Feb 2025 00:25:58 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LODL7WU2HRBFREH6WJ3EXK2FQM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 10일 서울 중구 국가인권위원회에서 마블 캐릭터 '캡틴아메리카' 복장을 한 윤석열 대통령 지지자 안모씨가 시위를 벌이고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;영화 주인공 ‘캡틴 아메리카’ 복장을 하고 중국대사관과 경찰서에 난입하려 한 윤석열 대통령 지지자가 검찰에 송치됐다.&lt;br&gt;&lt;br&gt;서울 남대문경찰서는 40대 남성 안모(42)씨를 건조물침입 미수와 공용물건 손상 등의 혐의로 검찰에 구속 송치했다고 28일 밝혔다.&lt;br&gt;&lt;br&gt;안씨는 지난 20일 밤 11시쯤 남대문 경찰서 출입 게이트 유리를 깨고 안으로 진입하려다 현행범으로 체포됐다. &lt;br&gt;&lt;br&gt;당시 안씨는 경찰서를 찾아가 자신을 빨리 조사해달라고 요구했다가 거부당하자 범행을 저지른 것으로 파악됐다. &lt;br&gt;&lt;br&gt;안씨는 경찰서 난입 과정에서 경찰관에게 욕설을 하고, 가짜 미군 신분증을 만든 것으로 파악됐다. 이에 경찰은 안씨에게 모욕과 사문서 위조 등의 혐의도 적용했다.&lt;br&gt;&lt;br&gt;앞서 안씨는 지난 14일 저녁 캡틴 아메리카 복장을 하고 주한 중국대사관에 난입하려 한 혐의로 경찰 조사를 받아왔다.&lt;br&gt;&lt;br&gt;안씨는 자신이 미군 출신 미국 중앙정보국(CIA)의 블랙 요원이고 스카이데일리의 ‘중국 간첩 99명 체포설’ 보도의 취재원이라고 주장해, 해당 보도를 한 기자를 명예훼손 등 혐의로 수사 중인 경찰의 참고인 조사를 받기도 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>제주항공 참사 허위사실 영상 유포 60대 유튜버 구속</title>
