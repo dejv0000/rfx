@@ -13,6 +13,73 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>野 주도 尹 탄핵 범국민대회…이재명 등 각당 대표 참석</title>
+      <link>https://www.chosun.com/national/national_general/2025/03/01/56BGJVHRHBHCFHCDX6DSNHQXGI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/03/01/56BGJVHRHBHCFHCDX6DSNHQXGI/</guid>
+      <dc:creator>안준현 기자, 김도균 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 01 Mar 2025 07:39:47 +0000</pubDate>
+      <content:encoded>3·1절을 맞아 서울 도심이 윤석열 대통령 탄핵 찬성과 반대로 갈렸다. 이날 오후 1시부터 광화문과 여의도 일대에서 탄핵 반대 집회가 열리는 가운데, 오후 3시 30분부터는 민주당 등 야당 주도의 윤석열 대통령 탄핵 찬성 범국민대회가 열리고 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PTNNJKH64FORDFI46OHQLBYGMI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이재명 더불어민주당 대표가 1일 서울 종로구 안국역 인근에서 열린 3.1절 야5당 공동 내란종식 및 민주헌정수호를 위한 윤석열 파면 촉구 범국민대회에 참석해 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 민주당 등 5개 야당은 헌법재판소 인근 동십자각에서 윤 대통령 탄핵을 촉구하는 범국민대회를 열고 있다. 이재명 민주당 대표가 맨 앞에 앉았다. 경찰 비공식 추산 1만3000명이 모였다. 같은 시각 탄핵 반대 집회가 열리는 현장과는 600m가 떨어져 있다.&lt;br&gt;&lt;br&gt;무대 연단에는 민주당, 조국혁신당, 기본소득당, 진보당, 사회민주당 등 야 5당 대표들이 나와 인사를 했다. 집회 참가자들은 이들의 인사에 맞춰 ‘내란 동조 국민의힘 해산’ ‘윤석열 파면’을 외쳤다. 무대 연단 앞에는 안중근 의사가 이토 히로부미 암살 직전 손가락을 자르고, 이를 도장으로 만든 ‘단지(斷指)장’이 걸려 있었다.&lt;br&gt;&lt;br&gt;부산 해운대구에서 올라왔다는 박모(27)씨는 “탄핵 반대 세력에서 세 몰이를 한다고 해, 지켜볼 수 없어 비가 오는데도 거리에 나왔다”며 “일제 식민 지배에 맞서 싸운 3·1절에 계엄령을 ‘계몽령’이라며 미화하는 것은 선조들에 대한 모독”이라고 했다. 이어 “순국 선열의 의지를 받들어 독재자 파면을 촉구하는 데 힘을 보태겠다”고 했다. 이날 집회에는 가수 강산에(62)씨가 올라 자신의 노래 ‘깨어나’를 불렀다.&lt;br&gt;&lt;br&gt;오후 5시에는 사직로 일대에서 윤석열즉각퇴진·사회대개혁 비상행동(비상행동)이 범시민 대행진을 개최한다. 앞서 오후 2시쯤 열린 촛불행동 집회에는 경찰 비공식 추산 5000명이 모였다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KDLG6P6PTNLRRM6NJAR7NQ3QZI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;1일 서울 종로구 안국동 사거리에서 야 5당 공동 내란종식·민주헌정수호를 위한 윤석열 파면 촉구 범국민대회가 열리고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/PTNNJKH64FORDFI46OHQLBYGMI.jpg?width=5424&amp;height=3616&amp;auth=9b7cfb3d45c6d1793ddee4db0b264c115850e584c81cab6b05633d4f4247f0da&amp;smart=true" type="image/jpeg" height="3616" width="5424">
+        <media:description type="plain">이재명 더불어민주당 대표가 1일 서울 종로구 안국역 인근에서 열린 3.1절 야5당 공동 내란종식 및 민주헌정수호를 위한 윤석열 파면 촉구 범국민대회에 참석해 있다. /뉴시스</media:description>
+        <media:credit role="author" scheme="urn:ebu">fsw2004</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>최서원 딸 정유라, 탄핵 반대 집회 나와 “尹 원망 안 해"</title>
+      <link>https://www.chosun.com/national/national_general/2025/03/01/IIWN2CSVS5DMHCLRRPMJVWJEIE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/03/01/IIWN2CSVS5DMHCLRRPMJVWJEIE/</guid>
+      <dc:creator>안준현 기자, 김나연 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 01 Mar 2025 07:56:36 +0000</pubDate>
+      <content:encoded>3·1절을 맞아 서울 광화문과 여의도에서 윤석열 대통령 탄핵 반대 집회가 열리는 가운데, 이날 여의도에서 열린 세이브코리아의 ‘국가비상기도회’에 최서원(개명 전 최순실)씨 딸 정유라(29)씨가 단상에 섰다. 정씨는 “나는 윤석열 대통령을 원망한 적도 없고, 앞으로도 원망하지 않을 것”이라고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NREDQW4C46XW7PYPHEXT3RMN6U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;최서원(개명 전 최순실)씨의 딸 정유라씨. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 오후 4시 15분쯤 단상에 오른 정씨는 “이번 계엄 사태가 벌어지고 가장 많이 들은 말이 ‘왜 엄마를 잡아 넣고 네 인생을 힘들게 한 윤석열 대통령을 지지하느냐’였다”며 “윤 대통령을 원망한 적도, 앞으로도 원망하지도 않을 것”이라고 했다.&lt;br&gt;&lt;br&gt;이어 “윤 대통령을 지지하는 이유는 간단하다”며 “이것이 옳은 일이고 우리나라 주권을 지키는 길이기 때문”이라고 했다. 그러면서 “민주당 의원들이 우리 모녀를 구속시키고 얼마나 괴롭혔느냐”며 “지금 똑같은 일을 윤 대통령 부부에게 하고 있다”고 했다.&lt;br&gt;&lt;br&gt;그러면서 “사실 총 맞아 죽는 한이 있더라도 대통령 체포를 막으려고 서부지법에도 있었다”며 “박근혜 대통령을 못 지킨 걸 10년 후회했다. 이번에는 후회하기 싫었다”고 했다.&lt;br&gt;&lt;br&gt;이후 정씨는 “자식이 셋 있는데, 내 아이들이 주권을 행사하지 못하는 일이 없어야 한다고 생각한다”며 “내 인생은 끝났지만 내 자식을 위해 이 자리에 섰다”고 했다. 마지막으로 정씨는 “9년 전에 했던 고생이 의미가 있었다고 생각한다”며 “이번에는 지지 말고 나라를 수호하자”고 했다.&lt;br&gt;&lt;br&gt;이날 여의도 집회에는 오후 5시 기준 5만5000명이 모였다. 이들은 오후 5시 이후 국회 인근을 행진할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/NREDQW4C46XW7PYPHEXT3RMN6U.jpg?width=600&amp;height=398&amp;auth=ecb9d5910d63f9508c8ad6d6f94461323abe3e88e4b2a9b8278346d2f6b5eb75&amp;smart=true" type="image/jpeg" height="398" width="600">
+        <media:description type="plain">최서원(개명 전 최순실)씨의 딸 정유라씨. photo 뉴시스</media:description>
+        <media:credit role="author" scheme="urn:ebu">CMEDIA</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>尹측 “3·1절 천만 시민의 외침, 헌재는 탄핵 기각하라"</title>
+      <link>https://www.chosun.com/national/court_law/2025/03/01/X6KUTXMOTJC2ZBFU7KVF7TDROE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/03/01/X6KUTXMOTJC2ZBFU7KVF7TDROE/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 01 Mar 2025 05:48:02 +0000</pubDate>
+      <content:encoded>윤석열 대통령 변호인단은 1일 “3·1절 천만 시민의 외침을 들으라”며 “헌법재판소는 대통령 탄핵소추를 즉각 기각하라”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XFE2YPRRAZJLTCG74UG3K32PVY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령 변호인단이 지난 25일 오후 서울 종로구 헌법재판소에서 열린 대통령 탄핵심판 최종 변론에 참석하고 있다. /뉴시스
+&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;변호인단은 이날 “1919년 자유와 주권을 되찾기 위해 분연히 일어섰던 선열들의 뒤를 이어, 2025년 오늘 천만 시민이 전국 각지에서 들불처럼 일어났다”며 “자발적으로 거리에 나선 시민들은 손에 손에 태극기를 들고 ‘국민이 뽑은 우리의 대통령을 불법으로 빼앗지 말라’ ‘헌법재판소는 올바른 절차를 지켜 즉각 탄핵을 각하하라’고 외쳤다”고 했다.&lt;br&gt;&lt;br&gt;변호인단은 “당초 대통령에 대한 국회의 탄핵소추의결서는 비상계엄 선포와 내란죄 단 2가지로 구성됐다”며 “표지와 인용문을 제외한 26쪽의 분량 가운데 21쪽이 내란을 언급하고 있다”고 했다. 이어 “정작 헌법재판소의 탄핵 심판이 시작되자, 거대 야당은 전체의 80%에 달하는 내란죄를 소추 사유에서 철회했다”며 “이는 중대한 소추 사유의 변경으로 국회의 재의결이 필요함에도 헌재는 변론이 종결된 지금까지도 분명한 입장을 밝히지 않고 있다”고 지적했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/P4JQOGQHURBZNOUJWO7HN65ILA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령이 25일 오후 헌법재판소 대심판정에서 열린 탄핵심판 마지막 변론에서 최후 진술을 하고 있다./헌법재판소&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;변호인단은 “민주주의의 진정한 가치는 목적의 정당성을 추구하는 것뿐만 아니라 절차적 정당성을 지키는 데 있다”며 “헌법재판소가 대통령 탄핵 심판을 각하하지 않는다면, 오로지 목적만을 추구하여 절차를 무시한 치명적인 오류를 범하는 초유의 전체주의적 선례를 남기는 것”이라고 했다. 또 “대통령 탄핵 심판은 국민 전체가 선택한 가장 큰 민주적 정당성을 가진 최고 헌법기관에 대한 판결”이라며 “대통령이라는 지위가 갖는 민주적 정당성의 무게, 국민 48%가 선택했고 지금도 과반에 가까운 국민이 지지하는 대통령의 민주적 정당성을 심판하는 데 있어서 조금의 절차적 흠결도 용납되어서는 안 된다”고 했다.&lt;br&gt;&lt;br&gt;대통령에 대한 탄핵 심판의 본질은 국민의 신임을 배신했는지 여부를 살피는 것이라는 게 변호인단 주장이다. 변호인단은 “많은 국민은 대통령이 국민의 신임을 배신했다고 여기지 않는다”며 “오히려 더 많은 국민은 거대 야당의 의회 권력이 국민의 신임을 배신하고 대통령의 국정을 마비시켰음을 지적하고 있다”고 했다. 이어 “헌법재판소는 이제라도 올바른 결정을 내려야만 한다. 스스로 무너뜨린 절차적 정당성을 회복하고 국민의 신뢰를 되찾는 유일한 길은, 대통령 탄핵 소추를 즉각 기각하는 것뿐임을 명심해야 할 것”이라고 했다.&lt;br&gt;&lt;br&gt;한편, 주말인 3·1절을 맞아 서울 광화문과 여의도 등 도심에서 윤 대통령의 탄핵에 반대하는 대규모 집회가 열리고 있다. 오후 2시 기준 광화문에 6만명, 여의도에 2만8000명(경찰 비공식 추산)이 모였다. 집회 참가자들은 “즉각 헌법재판소가 대통령 탄핵을 기각해야 한다”고 입을 모았다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4N64GIH5FRBNVEB7Y6KAKXHRQM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2025년 3월 1일 오후 서울 세종대로 일대에서 자유통일당이 윤석열 대통령에 대한 탄핵 반대 집회를 열고 있다. /장련성 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>백종원, 연이은 논란…이번엔 건축법 위반 혐의로 고발당해</title>
+      <link>https://www.chosun.com/national/national_general/2025/03/01/VM2ZHZNKJBEVLOIH6VKBF7VREA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/03/01/VM2ZHZNKJBEVLOIH6VKBF7VREA/</guid>
+      <dc:creator>이가영 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 01 Mar 2025 05:59:41 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SHZWTMPNUVWWSCB54SD7EDEJDY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;백종원 더본코리아 대표. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;백종원 더본코리아 대표가 건축법 위반 혐의로 고발당했다. &lt;br&gt;&lt;br&gt;1일 관련 업계에 따르면 충남 예산경찰서에는 최근 백 대표가 운영하는 더본코리아와 백 대표가 이사장으로 있는 예덕학원에 대한 고발장이 접수됐다. 농지법‧산지관리법‧건축법 위반 등의 혐의다. &lt;br&gt;&lt;br&gt;고발 내용은 충남 예산군 오가면에 있는 더본코리아 백석공장이 농지전용 허가 없이 창고를 불법으로 사용했고, 예덕학원이 운영하는 예산고등학교 급식소가 임야로 등록된 땅에서 불법으로 운영됐다는 취지다. &lt;br&gt;&lt;br&gt;더본코리아 측은 “사실과 다른 부분이 많다”며 “입장을 정리하고 있다”고 밝혔다. &lt;br&gt;&lt;br&gt;앞서 설 명절을 앞두고 백 대표가 판매한 ‘빽햄 선물세트’가 업계 1위 제품보다 돼지고기 함량은 적으나 가격이 과도하게 비싸다는 비판을 받았다. 이후 더본코리아는 자사 공식 온라인몰에서 ‘빽햄’ 판매를 중단했다. &lt;br&gt;&lt;br&gt;또, 백 대표가 실내에서 액화석유가스(LPG) 통을 옆에 두고 요리하는 장면이 담긴 영상이 유튜브에 올라와 더본코리아는 과태료 100만원 처분을 받았다. 여기에 더본코리아가 백석공장 인근 비닐하우스를 용도와 다르게 사용해 행정기관으로부터 행정명령 사전 통지를 받고 철거한 사실이 뒤늦게 알려졌다. &lt;br&gt;&lt;br&gt;더본코리아 산하 프랜차이즈 연돈볼카츠가 출시한 과일 맥주 ‘감귤 오름’의 함량 부족 논란도 일었다. ‘감귤 오름’ 성분표에 따르면 500㎖ 한 캔에 감귤 착즙액은 0.032%, 약 0.16㎖가 포함됐다. 타사 과일 맥주에 0.5~2%의 농축액이 들어있는 것과도 비교됐다. &lt;br&gt;&lt;br&gt;이에 대해 더본코리아 측은 “제주 감귤 농가를 널리 홍보하려는 기획 의도에 맞게 맛과 여러 측면을 고려해 적절한 함량으로 레시피를 개발한 제품”이라며 “비교되는 과일 맥주의 식품 유형은 ‘기타 주류’로 분류되는 반면, 감귤 오름은 ‘맥주’로 분류돼 다른 제품으로 봐야 한다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>서산서 아파트 화재... 50대 숨져</title>
+      <link>https://www.chosun.com/national/regional/chungcheong/2025/03/01/BNKFKFAF4JCYDPQYTPDCR2NW2M/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2025/03/01/BNKFKFAF4JCYDPQYTPDCR2NW2M/</guid>
+      <dc:creator>신정훈 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 01 Mar 2025 06:15:17 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SZOTTMEHSGMYZM7FDOUDCRAZ2E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;충남 서산시 석남동 아파트 화재 현장 모습/뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서산의 한 아파트에서 불이 나 1명이 숨졌다. &lt;br&gt;&lt;br&gt;1일 오전 11시21분쯤 충남 서산시 석남동의 한 아파트 7층에서 원인을 알 수 없는 불이 났다. &lt;br&gt;&lt;br&gt;불은 20분만에 꺼졌지만, 집안에서 A(50)씨가 숨진채 발견됐다.&lt;br&gt;&lt;br&gt;경찰과 소방당국은 정확한 화재 경위 등을 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>대학생 2500명, 대학로 모여 “尹 탄핵 방어"</title>
+      <link>https://www.chosun.com/national/national_general/2025/03/01/7NGHLF6CFFFP3FGORTCFQKJ37Y/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/03/01/7NGHLF6CFFFP3FGORTCFQKJ37Y/</guid>
+      <dc:creator>안준현 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 01 Mar 2025 05:50:49 +0000</pubDate>
+      <content:encoded>헌법재판소의 윤석열 대통령 탄핵 심판 최종 선고를 앞둔 3·1절, 서울 종로구 대학로 일대에 대통령 탄핵을 반대하는 대학생들이 모여 집회를 열었다. 이들은 집회 후 종각역까지 행진한 뒤, 광화문에서 열리는 탄핵 반대 집회에 합류했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5WMRKLX2NFLL5HQTFPR6RBP4N4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2월 27일 서울 광진구 건국대학교 분수광장에서 열린 윤석열 탄핵반대 시국선언 기자회견에서 참가 대학생 및 참가자들이 피켓을 들고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전국 33개 대학 연합체 ‘자유수호대학연대’ 회원 등 2500여 명(경찰 비공식 추산)은 이날 오후 12시부터 서울 종로구 서울사대부초 인근 차로를 차지하고 탄핵 반대 시국 선언을 했다. 이날 시국 선언에는 대학생뿐 아니라 보수 유튜버와 보수 집회 참석자들도 있었다. 현장에는 대통령 탄핵 반대 집회에 얼굴을 비췄던 윤상현 의원도 왔다. 윤 의원은 “우리가 나라를 잘 이끌어야 했는데 젊은 대학생을 (거리에) 나오게 해서 미안하다”고 했다.&lt;br&gt;&lt;br&gt;과잠(학과 점퍼)을 입고 있던 참석자들은 윤 의원의 발언에 ‘사기 탄핵 규탄’ ‘프리덤 이즈 낫 프리(Freedom is not free)’가 적힌 피켓, 태극기와 성조기를 들며 호응했다.&lt;br&gt;&lt;br&gt;무대에 오른 한양대 20학번 김준희 자유수호대학연대 대표는 “가장 효과적인 방법은 각 대학의 탄핵 반대 시위였다”며 “연세대와 서울대, 고려대를 시작으로 전국적으로 퍼졌다”고 했다. 한국외대 과잠을 입고 집회에 참석한 융합인재학부 22학번 안모(24)씨는 “대통령의 계엄은 수많은 의혹을 밝히기 위한 것”이었다고 했고, 연세대 화공생명공학과 재학생 김현중씨는 “우리가 호도하면 안 되는 것이 다수에 의한 폭정도 독재”라며 “독재를 인지하고 맞서 싸워야 한다”고 주장했다. 이날 집회 참석자 대부분 지난 2월 각 대학에서 진행된 시국선언의 주도자였다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VOEGIDBMFMWXDP73W4IZHWGV2M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;연세대 학생들이 10일 오후 서울 서대문구 연세대학교 학생회관 앞에서 윤석열 대통령 탄핵에 반대하는 시국선언을 발표 및 기자회견을 하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 집회에는 노인 20여 명이 ‘310 특명단’이라고 적힌 제복을 입고 거리 곳곳에 서 있기도 했다. 이들은 “대학생 집회를 경호하기 위해 왔다”고 했다. 경찰은 시국 선언이 열린 마로니에 공원 인근에 경찰 대형 버스 4대를 배치했다. 시위대 일부는 “대통령을 왜 잡아가느냐”며 경찰에 언성을 높이기도 했다.&lt;br&gt;&lt;br&gt;한편 최근 서울 대학가를 중심으로 윤석열 대통령 탄핵 반대 시국선언 움직임이 확산하고 있다. 지난 2월 서울대를 시작으로 연세대, 고려대, 이화여대에서 시국선언이 있었고 지난달 29일 오전에는 성균관대와 서울시립대, 한국외대 등 서울 동북권 대학들이 시국선언을 진행했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/5WMRKLX2NFLL5HQTFPR6RBP4N4.jpg?width=5559&amp;height=3624&amp;auth=dd08f19c5de7b4c3f74aa639b44cbfda26338c06a36f35d8450be0872b56e498&amp;smart=true" type="image/jpeg" height="3624" width="5559">
+        <media:description type="plain">2월 27일 서울 광진구 건국대학교 분수광장에서 열린 윤석열 탄핵반대 시국선언 기자회견에서 참가 대학생 및 참가자들이 피켓을 들고 있다. /뉴시스</media:description>
+        <media:credit role="author" scheme="urn:ebu">jhope</media:credit>
+      </media:content>
+    </item>
+    <item>
       <title>3·1절 서울 도심서 尹 탄핵 반대 집회 시작</title>
       <link>https://www.chosun.com/national/national_general/2025/03/01/Q4WFO6V32NFB3OKVJLAVSH57AM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/03/01/Q4WFO6V32NFB3OKVJLAVSH57AM/</guid>
@@ -876,15 +943,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/M6YCUZZI6RCRZCIVKDF44A2EHA.png"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 30일 전남 무안 국제공항 대합실. '제주항공 참사' 유족들이 흐느껴 울고 있다. /신현종 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5AG3W4UWZ5DYPHLI65Q3OTPSIA.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=김하경&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제주항공 여객기 사고 관련 허위사실 유포에 대해 수사 중인 부산경찰청 사이버수사과는 “가짜 뉴스 영상을 올려 허위사실을 유포해 명예를 훼손한 혐의(정보통신망법, 전기통신기본법 위반)로 60대 A씨를 구속하고 70대 B씨를 불구속 입건했다”고 28일 밝혔다.&lt;br&gt;&lt;br&gt;경찰에 따르면 A씨 등은 지난해 12월 30일부터 올해 1월 21일까지 “무안공항 참사 사고와 관련한 사진이나 동영상은 모두 가짜이고 컴퓨터 그래픽”이라고 주장하는 동영상을 유튜브 등 플랫폼에 100여 차례 올린 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;이들은 “비행기 잔해는 소품이다. 유가족들은 실제 유족이 아니다. 사고 보험금 때문에 거짓으로 만들어 낸 사건이다”는 허위 주장 등을 온라인상에 배포한 혐의도 받고 있다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “A씨 등은 제보로 자신들의 유튜브 계정이 폐쇄되면 다시 다른 유튜브 채널을 개설, 계속해서 허위사실이 담긴 동영상을 유포하는 수법으로 범행을 계속 이어왔다”고 말했다.&lt;br&gt;&lt;br&gt;A씨는 지난 1월 초 수사 착수 후 혐의 내용에 대한 조사를 거쳐 경찰에 의해 사전구속영장이 신청됐으나 영장실질심사에 출석하지 않고 달아났다. 경찰은 이에 추가로 구속영장을 발부받아 추적에 나서 지난 26일 서울 은평구에 은신 중인 A씨를 검거했다.&lt;br&gt;&lt;br&gt;경찰청은 지난 1월 초 희생자 유족 측에서 제주항공 참사 가짜 뉴스 영상 게시 등에 대해 전남경찰청에 고소장을 내자 각 지방경찰청을 통해 수사를 시작했다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>서울 대형병원 주차장서 간호사 차에 치인 60대 여성 사망</title>
-      <link>https://www.chosun.com/national/national_general/2025/02/28/W6KOXSG43FANBH55G7VOXRVAY4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/02/28/W6KOXSG43FANBH55G7VOXRVAY4/</guid>
-      <dc:creator>김명일 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 28 Feb 2025 02:14:31 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/X4WX55AXSBGOJAEPHUXGIU3CIA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 관련 이미지. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울의 한 대형병원 야외 주차장에서 장례식장으로 향하던 60대 여성이 간호사가 몰던 차량에 치여 숨지는 사고가 발생했다.&lt;br&gt;&lt;br&gt;28일 서울 서초경찰서 등에 따르면 지난 18일 오전 7시쯤 서울 서초구 한 대형병원 주차장에서 60대 여성 방문객 A씨가 이 병원의 간호사인 40대 여성 B씨가 몰던 SUV 차량에 치였다. &lt;br&gt;&lt;br&gt;A씨는 당시 이 병원 장례식장으로 향하던 중이었다. &lt;br&gt;&lt;br&gt;이 사고로 A씨가 차 밑에 깔려 심정지가 왔고 구조 후 응급실로 옮겨졌으나 결국 사망했다.&lt;br&gt;&lt;br&gt;경찰은 40대 여성 간호사 B씨를 교통사고처리특례법상 치사 혐의로 입건하고 자세한 사고 경위를 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>여의도순복음교회, 연세대에 발전기금 30억원 기부</title>
       <link>https://www.chosun.com/national/people/2025/02/28/DFWHZWW6NNHIDKXPWGFVKJGBLA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/people/2025/02/28/DFWHZWW6NNHIDKXPWGFVKJGBLA/</guid>
@@ -924,19 +982,6 @@
       </media:content>
     </item>
     <item>
-      <title>[팩트 체크] 화교는 수능 망쳐도 서울대? 사실 아닙니다</title>
-      <link>https://www.chosun.com/national/education/2025/02/28/KMF3CRYF5BFHND34I7U46OUTHI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2025/02/28/KMF3CRYF5BFHND34I7U46OUTHI/</guid>
-      <dc:creator>오주비 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 27 Feb 2025 15:53:00 +0000</pubDate>
-      <content:encoded>최근 소셜미디어에서 ‘화교들은 수능 망쳐도 특별전형으로 서울대 의대에 합격한다’는 주장이 확산하고 있다. “화교는 수능 7등급도 서울대 의대 간다” “입시 학원 한 곳에서만 화교 68명이 의대 갔다”는 글도 전방위로 인터넷에 돌고 있다. 심지어 “대입 특별전형 등 화교 특별 혜택을 없애 달라”는 국회 청원까지 두 건 올라왔다. 해당 청원들은 동의 기준 5만명을 넘어 곧 국회 법제사법위원회 등에서 정식 안건으로 논의될 예정이다.&lt;br&gt;&lt;br&gt;27일 본지 취재를 종합하면, 이런 주장들은 모두 사실이 아니었다. 우선, 서울대 입시에는 화교(중국인)만을 위한 특별전형이 없다. 외국인과 재외국민을 대상으로 하는 ‘글로벌인재특별전형’은 있지만, 이를 통해 서울대 의대에 합격한 중국인은 최근 3년간 전무했다.&lt;br&gt;&lt;br&gt;서지영 국민의힘 의원실이 서울대에서 받은 ‘2022~2024학년도 글로벌인재특별전형 1유형 합격자’ 자료에 따르면, 최근 3년간 외국인 99명이 서울대에 합격했다. 몽골 국적이 21명으로 가장 많았고, 베트남 10명, 말레이시아 9명, 카자흐스탄 7명, 중국 7명, 우즈베키스탄 5명 순이었다. 서울대가 외국인 특별전형에서 특별히 중국인을 우대하지 않는 것이다. 합격한 중국인 7명도 의대는 아니었다. &lt;br&gt;&lt;br&gt;김미애 국민의힘 의원실이 교육부에서 받은 ‘최근 5년간 전국 30개 의대 재외국민·외국인 특별전형 선발’ 자료를 보면, 외국인 총 7명이 특별전형으로 의대에 입학했다. 연세대 3명(대만 2명, 캐나다 1명), 을지대 1명(뉴질랜드), 동국대 2명(중국), 가톨릭관동대 1명(미국) 등이다. 서울대 의대에 입학한 외국인은 1명도 없었다.&lt;br&gt;&lt;br&gt;서울대는 다양한 국가의 인재를 유치하기 위해 외국인과 재외국민, 귀화 허가를 받은 결혼 이주민을 글로벌인재특별전형으로&lt;b&gt; &lt;/b&gt;선발하고 있다. 약학대와 첨단융합학부를 제외한 서울대 모든 단과대에 지원할 수 있다. 의대도 지원할 순 있지만, 합격자는 없었던 것이다.&lt;br&gt;&lt;br&gt;2021년에도 “화교들이 특별전형으로 의대와 한의대에 쉽게 갈 수 있다”는 글이 온라인상에 퍼지면서 논란이 된 바 있다. 과거 대만 대학들이 외국인 전형에서 부모 중 한 명만 외국인이어도 지원할 수 있도록 했기에, 우리나라도 소수 대학에서 상호주의 차원으로 대만 국적자는 부모 중 한 명만 외국인이어도 외국인 특별전형에 지원할 수 있도록 해 이런 얘기가 나왔었다. 하지만 국정감사에서 공정성 문제가 지적돼 2023학년도부터는 대만 국적 외국인에 대한 상호주의 역시 완전히 없어졌다.&lt;br&gt;&lt;br&gt;사실이 아닌 루머가 확산된 데는 서울대 글로벌인재특별전형이 ‘깜깜이’로 운영되는 탓도 있다는 지적이 나온다. 서울대는 이 전형의 지원자 수와 경쟁률&lt;b&gt;, &lt;/b&gt;평가 세부 사항 등을 공개하지 않는다. 선발 기준도 ‘학업 능력, 언어 능력,&lt;b&gt; &lt;/b&gt;지원한 학과 관련 적성 등을 종합적으로 평가해 뽑는다’고 모호하게 안내하고 있다. 어떤 학생들이 입학하는지 전혀 공개되지 않으니 유튜버들이 틀린 주장으로 선동해도 서울대가 밝히지 않는 한 검증할 방법이 없는 것이다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/BPW2FGFOL27MPH525SJ2F2HBSI.jpg?width=4032&amp;height=3024&amp;auth=3bfc841e57c5f2edc8c09c811624ccb0ebd83a655f5cc8cb07ccf25378e0c299&amp;smart=true" type="image/jpeg" height="3024" width="4032">
-        <media:description type="plain">서울대 정문 전경 2020.6.18/뉴스1 ⓒ News1 황덕현 기자</media:description>
-        <media:credit role="author" scheme="urn:ebu">뉴스1 ⓒ News1 황덕현 기자</media:credit>
-      </media:content>
-    </item>
-    <item>
       <title>‘마은혁 임명‘ 전원일치… “3명 소수의견으로 문제제기 시늉만”</title>
       <link>https://www.chosun.com/national/court_law/2025/02/28/5GTMT7MAQVAR5HQIGMUSEK2NKY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/02/28/5GTMT7MAQVAR5HQIGMUSEK2NKY/</guid>
@@ -946,32 +991,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZSDXZYUG2ZBHZNU66EUZD5777I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;별개 의견 낸 헌법재판관 정형식, 김복형, 조한창 /김지호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 헌법재판관 8명은 ‘전원 일치’ 판결을 내렸지만, 정형식·김복형·조한창 재판관이 ‘별개 의견’을 냈다. 전체 결정과 다른 의견을 가진 재판관은 ‘소수 의견’을 낼 수 있다. 소수 의견은 반대 의견, 보충 의견, 별개 의견 등 세 가지로 나뉜다. 반대 의견은 전체 결론을 정면으로 반대할 때, 보충 의견은 결론엔 동의하지만 그 이유를 보충할 필요가 있을 때 낸다. 이날 세 재판관이 제시한 ‘별개 의견’은 결론에는 동의하지만, 그 논리나 근거가 다를 때 기록으로 남기기 위한 것이다.&lt;br&gt;&lt;br&gt;문형배 헌재소장 권한대행을 포함한 재판관 5명은 “국회 의결 없이도 국회의장이 국회를 대표해 권한쟁의를 청구할 수 있다”고 봤다. 우원식 의장의 청구인 자격 문제가 없다고 본 것이다. &lt;br&gt;&lt;br&gt;하지만 세 재판관은 “이 사건 청구가 적법하려면 본회의 의결이 있어야 한다”고 했다. 다만 지난 14일 민주당이 주도해 국회가 ‘마은혁 임명 촉구 결의안’을 채택한 것을 두고 “절차적 흠결이 사후에 보정됐다”고 밝혔다. &lt;br&gt;&lt;br&gt;이에 대해 법조계에서는 “헌재는 민주당에 ‘사후 추인’에 대한 힌트를 줬고, ‘짜인 각본’처럼 뻔한 결론이 나온 것”이라는 비판이 나왔다. 지난 10일 변론에서 있었던 석연찮은 상황을 말하는 것이다.&lt;br&gt;&lt;br&gt;헌재는 지난달 22일 변론 한 번으로 재판을 종결한 뒤, 지난 3일 선고를 예고했다. 최 권한대행 측이 “우 의장이 국회 의결 없이 단독으로 심판 청구한 것은 부적법해 각하해야 한다”고 문제 제기를 했는데도 각하해 ‘졸속 재판’ ‘절차적 흠결’ 등의 논란이 불거졌다. 이에 헌재는 지난 3일 선고를 2시간 앞두고 돌연 재판을 연기했다. &lt;br&gt;&lt;br&gt;이어 두 번째 변론이 열린 지난 10일 국회 측은 “이번 심판의 흠결을 보완할 수 있는 기회를 달라”고 요청했고, 문형배 헌재소장 권한대행은 “보완하겠다는 것이 무슨 의미냐”고 물었다. 국회 측은 “국회에서 (사후) 의결할 준비”라고 답했고, 문 권한대행은 “본회의 의결에 어느 정도 시간이 걸릴 것으로 예상하느냐”고 되물었다. 이후 나흘 뒤인 지난 14일 민주당이 주도해 국회에서는 ‘마은혁 임명 촉구 결의안’이 가결됐다. 국민의힘은 의결에 불참했다. &lt;br&gt;&lt;br&gt;이날 문 권한대행 등 5명은 우 의장의 청구인 자격에 국회 의결 절차는 필요 없다고 판단했지만, 문제가 있다고 지적한 세 재판관은 오히려 ‘사후 추인’을 인정했다. 이를 두고 한 법조계 인사는 “야당이 사후 추인 논리를 만들어 법적, 절차적 하자를 피할 수 있도록 헌재가 판을 짜줬다는 의심을 지울 수 없다”고 했다.&lt;br&gt;&lt;br&gt;별개 의견을 낸 정형식 재판관은 윤석열 대통령이, 김복형 재판관은 조희대 대법원장이 지명했다. 조한창 재판관은 국민의힘이 국회 몫으로 추천한 인사다. 반면 나머지 5명은 문재인 전 대통령이나 김명수 전 대법원장이 지명했고, 최근 들어온 정계선 재판관은 야당이 국회 몫으로 추천했다. 성향이나 선출 경로에 따라 5대3으로 일부 의견이 갈린 것처럼 보이지만 결론은 같았다. 법조계 한 인사는 “청구인 적격성 문제는 각하 사유인데 ‘사후 추인’을 인정하는 별개 의견을 낸 것은 이해하기 어렵다”며 “헌재와 야당이 ‘합의 대련’을 했다는 의혹까지 나왔지 않느냐. 재판관 전원이 이 사건을 인용하기 위해 뜻을 모은 것으로 보인다”고 말했다.&lt;br&gt;&lt;br&gt;이날 판결으로 마 후보자가 재판관으로 임명되고 윤 대통령 탄핵심판에 참여할 경우, 선고 결과에 결정적인 영향을 미칠 수 있다는 전망이 나온다.&lt;br&gt;&lt;br&gt;</content:encoded>
       <media:content url="https://www.chosun.com/resizer/v2/ZSDXZYUG2ZBHZNU66EUZD5777I.jpg?width=1600&amp;height=900&amp;auth=71a1f678dc28d2706e417c5cb63d7883b4cdd785de542b29232676dc34056eb4&amp;smart=true" type="image/jpeg" height="900" width="1600">
         <media:description type="plain">별개 의견 낸 헌법재판관 정형식, 김복형, 조한창 /김지호 기자</media:description>
-      </media:content>
-    </item>
-    <item>
-      <title>尹 탄핵심판 앞두고 ‘정치 편향 논란’ 자초한 헌재</title>
-      <link>https://www.chosun.com/national/court_law/2025/02/28/PKTV6E5UXVECZE4QI665QRF3EE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/02/28/PKTV6E5UXVECZE4QI665QRF3EE/</guid>
-      <dc:creator>김희래 기자, 김경필 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 27 Feb 2025 15:55:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OUCPZLQYUJPQDLSILAO3IYQR34.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기 과천시 중앙선거관리위원회. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;헌법재판소가 27일 “중앙선거관리위원회는 행정기관이 아닌 독립된 헌법기관이며, 따라서 감사원의 직무 감찰 대상이 아니다”라고 판단했다. 감사원이 선관위의 ‘친인척 부정 채용’ 등의 과정에 대한 직무 감찰을 실시한 것이 위헌이라는 취지다. 지난 대선 ‘소쿠리 투표’ 등 선거 관리 부실 논란에 이어 채용 비리까지 터진 선관위에 헌재가 면죄부를 준 것 아니냐는 지적이 나온다. &lt;br&gt;&lt;br&gt;헌재는 이날 선관위가 감사원을 상대로 낸 권한쟁의 심판 결과를 선고하면서 “감사원이 실시한 선관위 채용 및 인력 관리 감찰은 헌법과 선관위법이 보장한 선관위의 독립성을 침해한 것”이라고 밝혔다. 재판관 8명의 전원 일치 판결이었다. 헌재는 “감사원의 직무감찰 권한은 행정부 내부 통제 장치 성격을 가지고 있어, 독립된 헌법기관인 국회·선관위 등에는 미치지 않는다”며 “대통령 소속 기관인 감사원이 선관위에 대해 직무감찰을 한다면 선거관리의 공정성과 중립성에 대한 국민의 신뢰가 훼손될 위험이 있다”고 했다. &lt;br&gt;&lt;br&gt;감사원은 지난 2023년 5월 선관위 사무총장과 사무차장 자녀의 선관위 경력직 특혜 채용 의혹이 불거지자 같은 해 6월부터 약 1년 9개월 동안 선관위 인력 관리 실태에 대한 감사를 실시했다. 그러자 선관위는 “감사원 감사는 선관위 인사권을 포함한 독립적 업무 수행권을 침해한다”며 헌재에 권한쟁의 심판을 냈다. &lt;br&gt;&lt;br&gt;선고 결과에 대해 감사원은 “그동안 1~3년 간격으로 선관위를 감사했고 선관위도 그 결과를 수용해 왔는데, 갑자기 ‘회계검사’ 권한만 남기고 나머지 감사는 할 수 없게 했다”며 “납득하기 어렵다”고 했다. &lt;br&gt;&lt;br&gt;감사원은 이날 헌재 선고 직전 선관위 감사 결과를 담은 보고서를 공개했다. 보고서에 따르면, 중앙선관위와 전국 17개 시·도 선관위는 최근 10년간 291차례에 걸쳐 진행한 경력직 채용 전부에서 규정 위반이 적발됐다. 규정 위반은 878건에 달했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/OUCPZLQYUJPQDLSILAO3IYQR34.jpg?width=3984&amp;height=2656&amp;auth=b7df3b440c8929cd7d769d17c5fd2639fdb92fb0e0e7528c5cff69454c710a19&amp;smart=true" type="image/jpeg" height="2656" width="3984">
-        <media:description type="plain">경기 과천시 중앙선거관리위원회. /뉴스1</media:description>
-        <media:credit role="author" scheme="urn:ebu">뉴스1</media:credit>
-      </media:content>
-    </item>
-    <item>
-      <title>대놓고 이념성향 드러낸 마은혁… 헌재가 재판관 임명길 열어줬다</title>
-      <link>https://www.chosun.com/national/court_law/2025/02/28/5BYENJH65JGLHDTYX2XUBDBCMU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/02/28/5BYENJH65JGLHDTYX2XUBDBCMU/</guid>
-      <dc:creator>방극렬 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 27 Feb 2025 15:55:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LXKGG4FCF5MKZKOC3UNK4UAL5I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;26일 서울 종로구 헌법재판소./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;헌법재판소는 27일 최상목 대통령 권한대행이 마은혁 헌법재판관 후보자의 임명을 보류한 결정에 대해 “국회의 재판관 선출권과 헌재 구성권을 침해했다”고 판단했다. 재판관 전원일치 의견으로 이같이 결정했다. 사실상 최 권한대행이 마 후보자를 임명해야 한다는 취지다. 다만 헌재는 ‘마 후보자가 재판관 지위에 있다는 것을 확인해달라’는 국회 측 청구에 대해선 “헌재가 결정할 문제가 아니다”라며 각하했다.&lt;br&gt;&lt;br&gt;최 권한대행은 작년 12월 31일 민주당이 추천한 마 후보자에 대해 ‘여야 합의가 없다’는 이유로 임명을 보류했다. 그러자 우원식 국회의장은 “국회의 권한이 침해됐다”며 국회 의결 없이 단독으로 권한쟁의를 청구했다. 재판 과정에서는 우 의장의 청구인 자격 문제, ‘여야 합의’ 여부 등이 쟁점이 됐다. 헌재는 변론 한 번 만에 종결하는 등 사건을 서둘러 심리하다가 예정된 선고 당일 2시간 전에 선고를 미루기도 했다.&lt;br&gt;&lt;br&gt;하지만 헌재는 “우 의장이 국회 의결 없이 권한쟁의 심판을 청구한 것은 적법하다” “‘여야 합의’로 재판관을 선출하는 관행이 있었다고 볼 수 없다”고 결론 내렸다. 최 권한대행이 마 후보자를 임명하면, 헌재는 작년 10월 이후 4개월여 만에 ‘9인 체제’를 완성하게 된다.&lt;br&gt;&lt;br&gt;법조계에서는 “절차적 흠결, 졸속 심리 등 논란에 논란을 더하는 결정을 내렸다” “재판관 충원 등 조직 방어를 위해 무리하게 국회 편을 들어준 것”이라는 평가가 나왔다. 윤 대통령 측은 이날 “대통령 탄핵심판의 의결 정족수(6명)를 확보하려는 정치적 꼼수”라고 비판했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/LXKGG4FCF5MKZKOC3UNK4UAL5I.jpg?width=5312&amp;height=3491&amp;auth=b85a229a757e2598678c36c4b439e74214b605b608970c83c4d3f2b0cd70cf30&amp;smart=true" type="image/jpeg" height="3491" width="5312">
-        <media:description type="plain">26일 서울 종로구 헌법재판소./뉴시스</media:description>
-        <media:credit role="author" scheme="urn:ebu">jhope</media:credit>
       </media:content>
     </item>
     <item>
@@ -1001,15 +1020,6 @@
       </media:content>
     </item>
     <item>
-      <title>국방부, 사직 전공의 880명에게 입영 통보… 나머지 2400명은 최대 4년 대기</title>
-      <link>https://www.chosun.com/national/welfare-medical/2025/02/28/PDQ26DQNDZHJNMRENV7R2THNMI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/02/28/PDQ26DQNDZHJNMRENV7R2THNMI/</guid>
-      <dc:creator>오경묵 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 27 Feb 2025 15:55:00 +0000</pubDate>
-      <content:encoded>국방부가 27일 올해 군의관·공보의 입영 대상자를 선발해 개별 통보했다. 군의관 630여 명, 공중보건의사(공보의) 250명이다. 의정 갈등 이후 사직한 전공의(인턴·레지던트) 가운데 병역 미필자는 3300여 명인데, 이 가운데 880여 명이 먼저 입영하게 된 것이다. &lt;br&gt;&lt;br&gt;통상 연간 1000~1200명의 의무사관후보생이 군의관·공보의로 입영한다. 그런데 올해는 전공의 집단 사직 여파로 입영 대상자가 3배로 증가했다. 입영 대상자는 크게 늘었지만, 국방부는 군의관·공보의 복무 기간과 인력 수요를 감안해 880여명만 선발했다. 이번에 선발되지 않은 전공의들은 최장 4년간 기약 없이 입영을 대기해야 한다. 이들은 일반병으로라도 입대할 수 있게 해달라고 주장하고 있지만, 정부는 “법령상 의무사관후보생으로 편입되면 일반 병사로 복무할 수 없다”는 입장이다. &lt;br&gt;&lt;br&gt;의료계 일각에선 군의관은 예년 선발 인원대로 뽑고, 나머지 입대 희망자는 전부 공보의로 근무하도록 하자는 주장도 제기됐다. 하지만 정부는 이들을 올해 모두 입영시키면 내년부터는 입영할 군의관이 없어 군 의료 체계에 심각한 차질이 발생할 수 있다는 입장이다. 이런 사태를 막기 위해 정부는 이들을 4년에 걸쳐 입영시킨다는 방침을 세우고, 올해 입대하지 않는 이들을 ‘현역 미선발자’로 분류해 관리하기로 했다. 기존에는 입영 대상자 가운데 군의관을 먼저 뽑고, 남는 인원은 공보의 등 보충역으로 근무하도록 했다.&lt;br&gt;&lt;br&gt;미래가 불확실한 채로 최대 4년까지 입영을 기다려야 하는 사직 전공의들은 강하게 반발하고 있다. 입영 시기를 본인이 결정하지 못하게 하는 건 기본권 침해라는 주장도 제기된다. 법무사관후보생이나 수의사관후보생은 일반 사병으로 입대가 가능한데, 의무사관후보생은 일반병으로 입대할 수 없는 건 형평성에 어긋난다는 주장도 있다. 대한의사협회와 대한전공의협의회는 행정소송과 헌법소원 등 법적 대응을 준비하고 있다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>지리산 반달가슴곰 100마리 넘는다는데… 60%는 위치추적 안 돼</title>
       <link>https://www.chosun.com/national/transport-environment/2025/02/28/4OCVK3W47JFCNKBKY4R5CLANOQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/02/28/4OCVK3W47JFCNKBKY4R5CLANOQ/</guid>
@@ -1017,15 +1027,6 @@
       <description/>
       <pubDate>Thu, 27 Feb 2025 15:53:00 +0000</pubDate>
       <content:encoded>올봄 지리산 야생 반달가슴곰 개체 수가 100마리를 넘어설 것으로 전망된다. 그러나 위치 추적이 가능한 반달가슴곰은 지금도 채 절반이 되지 않아 곰이 겨울잠에서 깨는 봄을 앞두고 안전 대책이 필요하다는 지적이 나온다.&lt;br&gt;&lt;br&gt;27일 환경부에 따르면, 현재 반달가슴곰은 지리산과 덕유산에 각각 90마리, 3마리씩 총 93마리가 살고 있는 것으로 파악됐다. 이 중 위치 추적이 안 되는 곰은 총 54마리(58%)다. 10마리 중 6마리는 위치를 모른다는 것이다. &lt;br&gt;&lt;br&gt;위치 추적기가 부착된 반달가슴곰 중 두 마리는 겨울잠에서 잠시 깨 활동하다가 다시 잠에 들어간 것으로 확인됐다. 곰은 주로 굴에서 겨울잠을 자는데, ‘얕은 잠’이라서 환경 변화에 따라 자고 깨고를 반복한다. 특히 뱃속에 새끼를 품은 암컷은 동면 기간 중 출산해 잠과 육아를 병행한다. 이에 움직임이 확인된 두 마리 곰은 새끼를 낳았을 가능성이 큰 것으로 전문가들은 보고 있다. 곰은 보통 한 번에 1~2마리의 새끼를 낳는다. &lt;br&gt;&lt;br&gt;반달가슴곰 복원 사업은 2004년부터 시작됐다. 당초 2020년까지 50마리가 목표였으나 2018년 이미 56마리까지 늘어났다. 지리산 내 먹이 자원과 서식 위협 요인 등을 고려한 반달가슴곰 개체 수는 적정선이 64마리, 최대 78마리다. 이미 포화 상태라 반달가슴곰은 지리산 인근 덕유산·가야산 일대로 서식지를 넓히고 있다. 종 복원을 위해 인간 손에서 길러져 야생으로 간 1세대 곰과 ‘번식의 열쇠’였던 2세대 곰까지는 위치 추적을 통해 관리를 해왔으나, 이후 자연에서 태어난 3·4세대 곰은 위치 추적이 사실상 어려운 상황이다. &lt;br&gt;&lt;br&gt;반달가슴곰이 늘어나면서 환경부는 복원 방향을 ‘번식’에서 ‘서식지 관리’로 전환한 상태다. 번식에 더 이상 인위적 개입 없이 곰 서식지가 어디까지 넓어졌는지 파악해 관리하겠다는 것이다. 환경부는 더 이상 반달곰 개체 수를 공개하지 않는 방안도 검토 중인 것으로 알려졌다.&lt;br&gt;&lt;br&gt;환경부 조사에서 반달가슴곰이 등산로 반경 20m까지 접근해 머문 비율은 0.8%, 200m는 9.8%, 500m 이상 떨어져 활동한 건 89%로 등산로에서 곰과 마주칠 확률은 1%가 채 안 된다. 다만 곰 개체 수가 빠르게 늘어나는 만큼 곰과 인간의 안전한 공존을 위해서는 관리가 필요하다는 지적이 제기된다. 곰이 구애 활동을 시작하는 5월까지 위치 추적 등 안전 대책을 세워야 한다는 것이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[인사] 외교부 외</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2025/02/28/4NVVMCNRS5GPZBLPFYRHQFAB4Y/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2025/02/28/4NVVMCNRS5GPZBLPFYRHQFAB4Y/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 27 Feb 2025 15:51:00 +0000</pubDate>
-      <content:encoded>▲외교부▷외교정보보안담당관 김세호▷영사안전국 해외안전상황실 팀장 유수아&lt;br&gt;&lt;br&gt;▲경찰청◇경무관 승진 예정&amp;lt;경찰청&amp;gt;▷혁신기획조정담당관 어윤빈▷교통기획과장 이서영▷여성안전기획과장 박준성▷여성청소년범죄수사과장 여진용▷사이버범죄수사과장 함영욱▷경비과장 신종묵▷복지정책담당관 이미경▷반부패공공범죄수사과장 송원영▷청소년보호과장 최은정▷지역경찰역량강화과장 박민영▷미래치안정책과장 이승열▷경호과장 박대식▷감사담당관 이영철▷재정담당관 임현규▷치안정보분석과장 정관호▷&amp;lt;서울청&amp;gt;▷경무부 경무기획 김찬수▷인사교육과장 우지완▷위기관리경호과장 곽창용▷형사기동대장 김기헌▷청문감사인권담당관 백남익▷금융범죄수사대장 이충섭▷여성안전과장 민윤기▷경무기획과장 김기종▷용산서장 호욱진▷사이버수사과장 오창배&amp;lt;부산청&amp;gt;▷여성청소년과장 강일웅▷치안정보과장 문봉균&amp;lt;경기남부청&amp;gt;▷반부패경제범죄수사대장 이정철▷하남서장 장한주&amp;lt;충남청&amp;gt;경무기획정보화장비과장 정경호◇총경 승진 예정&amp;lt;경찰청&amp;gt;▷홍보 진영탁▷경제범죄수사 김현수▷장비운영 박재범▷강력범죄수사 임인수▷교통기획 이창민▷치안정보분석 임희재▷경무 민상식▷경무 소동현▷치안상황 노동진▷인사 설은미▷감사 최성락▷여성안전기획 이광열▷혁신기획조정 박상민▷수사심사정책 이정호▷범죄분석 조대희▷치안정보협력 이종한▷경비 김만중▷범죄정보 박천환▷사이버범죄수사 이여정▷인권보호 양광모▷지역경찰운영 이창우▷안보수사1 김정옥▷&amp;lt;서울청&amp;gt;▷인사교육 이석▷형사 장영식▷반부패수사 김태현▷경무기획 김수영▷경무기획 박종현▷치안정보상황 김병선▷청문감사인권 이정민▷강남서 범죄예방대응 정집범▷마포서 형사2 김상훈▷범죄예방대응 정인환▷용산서 치안정보 김태정▷남대문서 경비 정창호▷치안정보분석 나기윤▷경무기획 조영욱▷여성안전 강동휘▷202경비 송태훈▷종로서 교통 한태동▷101경비 우민구▷강서서 여성청소년 최선식▷강동서 여성청소년 한혜선▷금융범죄수사 강정석▷교통안전 서정섭▷경무기획 오기덕▷경무기획 이용두▷서초서 형사 신겸중▷광진서 범죄예방대응 이상수▷송파서 여성청소년 김삼현&amp;lt;부산청&amp;gt;▷치안정보 이철민▷112치안종합상황 김해진▷반부패경제범죄수사 국중용▷교통 김대원▷청문감사인권 정재훈▷연제서 범죄예방대응 강호진&amp;lt;대구청&amp;gt;▷경비 이홍수▷교통 여환수▷반부패경제범죄수사 오승철▷경무기획정보화장비 정지윤&amp;lt;인천청&amp;gt;▷범죄예방대응 이지현▷형사 이병준▷범죄예방대응 이동석▷홍보 한재영&amp;lt;광주청&amp;gt;▷경무기획정보화장비 문대열▷형사 노광일&amp;lt;대전청&amp;gt;▷경무기획정보화장비 이승환▷홍보 이완수&amp;lt;울산청&amp;gt;▷교통 이병철▷경무기획정보화장비 변지희▷수사 윤종도&amp;lt;세종청&amp;gt;▷범죄예방대응 정호경&amp;lt;경기남부청&amp;gt;▷반부패경제범죄수사 신동현▷안보수사 박유훈▷교통 최영신▷홍보 허성수▷형사 고혁수▷치안정보 신대호▷안상상록서 범죄예방대응 정규오&amp;lt;경기북부청&amp;gt;▷안보수사 김학영▷경무기획정보화장비 정혜정▷경무기획정보화장비 강경수&amp;lt;강원청&amp;gt;▷홍보 안형배▷형사 이영길▷교통 신홍철&amp;lt;충북청&amp;gt;▷교통 정기영▷경무기획정보화장비 김상민&amp;lt;충남청&amp;gt;▷수사 김범수▷경무기획정보화장비 김상기▷경비 이병노&amp;lt;전북청&amp;gt;▷형사 양재승▷홍보 소준관▷전주완산서 치안정보안보 한민&amp;lt;전남청&amp;gt;▷범죄예방대응 이광현▷여성청소년 김민주▷형사 박태준&amp;lt;경북청&amp;gt;▷홍보 천승준▷여성청소년 박성규▷청문감사인권 김강현&amp;lt;경남청&amp;gt;▷치안정보 하원윤▷경비 박주성▷경무기획정보화장비 정남윤▷홍보 박병관&amp;lt;제주청&amp;gt;▷치안정보 하준영&amp;lt;중앙경찰학교&amp;gt;▷운영지원 정수연&lt;br&gt;&lt;br&gt;▲방송통신위원회◇부이사관 승진▷조사기획총괄과장 조주연&lt;br&gt;&lt;br&gt;▲한국학중앙연구원▷한국학대학원장 구난희▷기획처장 이강한▷국제교류처장 안예리▷교학처장 이정란▷한국학사전편찬부장 이용윤▷해외한국학지원실장 한승훈&lt;br&gt;&lt;br&gt;▲한국연구재단◇승진▷기획조정본부장 남호성▷연구정책성과전략본부장 문선영▷기초연구지원실장 백승민▷인문사회연구총괄실장 김면중▷학술총괄실장 김창호▷국제협력총괄실장 정진영▷혁신성장실장 이상혁▷인사운영실장 차소영▷연구윤리지원센터장 구자필▷정보화관리실장 이종원◇전보▷기초연구총괄실장 황구연▷국가전략사업총괄실장 한동성▷국가전략사업평가실장 박춘경▷대학교육실장 최동명▷국제지역협력실장 전호석▷국제인재개발협력실장 백민정▷대외홍보실장 강동환▷연구정책전략실장 김현태▷연구성과전략실장 조영돈▷중앙RISE센터장 김봉문&lt;br&gt;&lt;br&gt;▲한국폴리텍대학▷한국폴리텍Ⅲ대학 학장 지경배▷한국폴리텍Ⅳ대학 학장 양형규▷한국폴리텍특성화대학 학장 정인학&lt;br&gt;&lt;br&gt;▲동아대▷소프트웨어대학장 이석환▷간호대학장 강지연▷교양대학장 김진경&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
