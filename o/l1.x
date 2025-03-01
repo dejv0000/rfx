@@ -6,6 +6,15 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>(금주 법조계 주요일정) 3월 3~8일</title>
+			<description>&lt;b&gt;△3일(월)&lt;/b&gt;&lt;br /&gt;-대체공휴일&lt;br /&gt;&lt;b&gt;&lt;br /&gt;△4일(화)&lt;/b&gt;&lt;br /&gt;-서울중앙지법 '특정범죄가중처벌등에관한법률위반(뇌물) 등 혐의' 이재명 더불어민주당 대표 외 1명 69차 공판(오전 10시30분)&lt;br /&gt;&lt;b&gt;&lt;br /&gt;△5일(수)&lt;/b&gt;&lt;br /&gt;-법무법인 대륙아주·헤럴드경제, 미래리더스포럼-국회 산업통상자원중소벤처기업위원회 입법 현안 및 과제(오전 7시 30분, 서울 중구 장충동2가 앰버서더 풀만 호텔 19층 남산홀)&lt;br /&gt;-서울고법, '정치자금법 위반 등 혐의' 민주당 돈봉투 의혹 이성만 전 국회의원 3차 공판(오후 2시)&lt;br /&gt;-법무법인 바른, '최근 판례를 통해 살펴보는 성공적인 자산승계 전략' EP센터 세미나(오후 2시, 서울 강남구 대치동 섬유센터 빌딩 2층 컨퍼런스홀 A3룸)&lt;br /&gt;-법무법인 대륙아주, 중대재해 사전예방 및 사후 대응 웨비나(오후 2시, 온라인 ZOOM)&lt;br /&gt;&lt;b&gt;&lt;br /&gt;△6일(목)&lt;/b&gt;&lt;br /&gt;-서울고법, '공용전자기록 등 손상교사 등 혐의' 이태원 정보보고서 삭제 사건 관련 박성민 전 서울경찰청 공공안녕정보외사부장 외 1명 5차 공판(오후 2시)&lt;br /&gt;-법무부·대한상의·세계은행, '해외 진출 기업 법률지원 세미나 개최'(오후 2시, 서울 중구 남대문로 4가 대한상공회의소 국제회의장)&lt;br /&gt;-서울중앙지법 '독점규제및공정거래에관한법률위반 등 혐의' LH 부당입찰 관련 KD엔지니어링건축사사무소 외 49명 3차 공판준비기일(오후 3시)&lt;br /&gt;-법무법인 율촌, '회고와 전망, 2024년 주요 노동 판례 해설 및 2025년 노사관계' 세미나(오후 3시, 온라인 ZOOM)&lt;br /&gt;-한국법제연구원·KDI, '아시아-태평양 국가 연대를 통한 전환기 법학과 경제학의 위기 극복방안' 글로벌 심포지엄 개최(~7일, 서울 서초구 반포동 JW메리어트 호텔)&lt;br /&gt;&lt;b&gt;&lt;br /&gt;△7일(금)&lt;/b&gt;&lt;br /&gt;-서울중앙지법, '직권남용권리행사방해 등 혐의' 서훈 전 청와대 국가안보실장 외 4명 45차 공판(오전 10시)&lt;br /&gt;-서울중앙지법, '특정경제범죄가중처벌등에관한법률위반(사기) 등 혐의' 이상영 외 4명 16차 공판(오전 10시)&lt;br /&gt;-서울중앙지법, '특정범죄가중처벌등에관한법률위반(뇌물) 등 혐의' 곽병채 외 2명 6차 공판(오전 10시)&lt;br /&gt;-법무법인 바른, 어쏘 변호사 워크샵(~8일, 춘천 남산면 엘리시안 강촌)</description>
+			<pubDate>Sat, 01 Mar 2025 22:06:36 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/205970</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/205970</guid>
+			<dc:creator>한수현 기자</dc:creator>
+		</item>
+		<item>
 			<title>【오늘의 국회일정】 2025년 3월 1일</title>
 			<description>&lt;b&gt;◇국회의장&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;10:00 제106주년 3.1절 기념식(숭의여자대학교 숭의음악당)&lt;br /&gt;19:30 《미라클보이스앙상블》과 함께 Again 일상愛 봄(ccmm빌딩 영산아트홀)&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;b&gt;&lt;span style="font-size: 14px;"&gt;※ 상기 일정은 사정에 따라 변경될 수 있습니다.&lt;/span&gt;&lt;/b&gt;</description>
 			<pubDate>Fri, 28 Feb 2025 22:38:29 -0000</pubDate>
@@ -230,16 +239,6 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/205946</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/205946.jpg</media:thumbnail>
 			<dc:creator>한수현 기자</dc:creator>
-		</item>
-		<item>
-			<title>檢, 가상자산범죄합동수사부 정식 직제화</title>
-			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/thumb/180/205945.jpg" alt="2526.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;서울남부지검은 27일 오전 서울 양천구 신정동 서울남부지검 별관 1층에서 현판식을 열고 가상자산범죄합수부를 정식 출범시켰다. 비직제 임시조직인 합동수사단으로 출범한 지 1년 7개월만이다. 부장은 합수단장을 지내던&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="11633"&gt;박건욱&lt;/span&gt;(55·사법연수원 34기) 부장검사다. 이날 현판식에는&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="3204"&gt;심우정&lt;/span&gt;(54·26기) 검찰총장,&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="4039"&gt;구승모&lt;/span&gt;(50·31기) 반부패부장, 남부지검&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="4053"&gt;신응석&lt;/span&gt;(53·28기) 검사장,&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="10048"&gt;이희동&lt;/span&gt;(54·32기) 1차장,&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="15081"&gt;추창현&lt;/span&gt;(45·37기) 형사6부장,&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="13655"&gt;김수홍&lt;/span&gt;(48·35기) 금융조사1부장,&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="13912"&gt;안창주&lt;/span&gt;(47·35기) 금융·증권범죄합수부장, 조현철 사무국장 등이 참석했다.&lt;br /&gt;&lt;br /&gt;심 총장은 "국내 가상자산시장 규모가 날로 커지며 가상자산시장의 혼탁 우려도 커진 만큼 그동안 축적된 수사경험과 전문성을 바탕으로 가상자산범죄에 단호히 대처해달라"고 당부했다. 이어 "가상자산은 변동성이 크고 초국가적 거래가 이뤄져 범죄를 추적하기 위해 첨단기술을 활용해야 하는 부분이 많다"며 "전문성을 강화하고 유관기관과 협력해 건전한 가상자산 거래환경을 만들고 선량한 투자자를 보호해 줄 것을 기대한다"고 밝혔다.&lt;br /&gt;&lt;br /&gt;가상자산범죄합수부는 총 30여 명 규모로 꾸려졌다. 박건욱 부장검사와 부부장검사 2명, 평검사 4명 등 검사 7명과 검찰 직원 16명, 금융위원회·금융감독원·국세청·관세청·한국거래소 등 유관기관 파견직원 11명 등이 참여한다.&lt;br /&gt;&lt;br /&gt;합수부는 △시세조종 등 불공정거래행위 △스캠코인 사기 △초국가적 가상자산 범죄에 대해 중점 수사할 예정이다. 미공개 중요정보를 이용한 거래, 통정·가장매매를 통한 시세조작, 허위사실 유포 등 사기적 부정거래가 주요 수사 대상이다. 투자금 편취를 목적으로 발행된 스캠코인과 김치 프리미엄을 노린 불법 외환거래 등 초국가적 가상자산 범죄도 강력히 단속할 방침이다.&lt;br /&gt;&lt;br /&gt;합수부는 가상자산 범죄 정보 수집 등의 업무도 할 예정이다. 유관기관 파견직원은 검사실에 직접 배치된다. 금융위·금감원·예금보험공사 인력은 기업회계와 거래자료 분석을, 한국거래소·금융보안원·코스콤 인력은 불공정 거래행위 분석을, 국세청·관세청 인력은 은닉재산 추적과 해외반출 분석 등의 업무를 맡아 수사를 지원한다.&lt;br /&gt;&lt;br /&gt;가상자산범죄합동수사단은 2023년 7월 26일 임시조직으로 출범했다. 출범 뒤 스캠 코인 사기, 시세 조종 사기 등 다양한 유형의 가상자산 범죄를 적발해 총 74명을 입건하고 25명을 구속했다. 또 범죄수익 849억 원을 압수하고 712억 원을 몰수·추징보전 했다.&lt;br /&gt;&lt;br /&gt;지난해 11월 기준 국내 가상자산 투자자는 1559만 명, 일평균 거래규모는 14.9조 원으로 코스피·코스닥 합산 거래규모 16.8조 원에 근접했다. 이달 가상자산위원회가 법인의 거래를 단계적으로 허용하기로 발표하면서, 가상자산 시장은 더욱 커질 전망이다.&lt;br /&gt;&lt;br /&gt;지난해 7월 19일부터 시행된 가산자산이용자보호법에 따라, 가상자산 시장에서의 불공정 거래 행위 수사도 확대될 것으로 보인다. 이 법은 시세조종 등 가상자산 불공정거래 행위에 대한 처벌 규정을 신설하고, 금융위·금감원이 불공정거래를 조사해 수사기관에 고발하거나 수사 통보할 수 있도록 했다.&lt;br /&gt;&lt;br /&gt;지난해 12월 합수단은 최초의 가상자산이용자보호법 위반 사건을 금융당국으로부터 패스트트랙으로 넘겨받아 수사한 결과, 약 71억 원의 부당이득을 챙긴 시세조종 업자 등 2명을 구속했다.</description>
-			<pubDate>Thu, 27 Feb 2025 05:34:29 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/205945</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/205945</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/205945.jpg</media:thumbnail>
-			<dc:creator>임현경 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
