@@ -13,6 +13,72 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>탄핵 반대 단체 “국회 앞 행진 그대로…행정법원이 가처분 인용"</title>
+      <link>https://www.chosun.com/national/national_general/2025/03/01/ZJ45I54AP5D3BIOWXR6WEOMIVM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/03/01/ZJ45I54AP5D3BIOWXR6WEOMIVM/</guid>
+      <dc:creator>안준현 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 01 Mar 2025 02:57:49 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/67YEJJU4DRJB3NUEW2EEURVM7M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령 탄핵 기각 위한 기도하는 국가 비상 기도회 참가자들/연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;주말인 3·1절을 맞아 서울 곳곳에서 윤석열 대통령 탄핵 찬반 집회가 열리는 가운데, 1일 오후 서울 여의도 국회의사당 앞에서 대규모 집회를 여는 세이브코리아 측이 “국회 앞 행진을 그대로 진행한다”고 밝혔다. 세이브코리아 측은 이날 오후 1시부터 5시까지 국회 앞 여의대로에서 국가비상기도회를 열고, 이어 국회 앞을 행진한다. 집회 측은 “최대 30만명이 참석할 것”이라고 했다. &lt;br&gt;&lt;br&gt;손현보 부산 세계로교회 목사와 한국사 강사 전한길씨가 참여하고 있는 세이브코리아 측은 이날 “경찰이 국회 앞 행진 신청에 ‘옥외 집회 제한 통고’를 처분했으나, 서울행정법원이 이에 대한 집행정지 가처분 신청을 인용해 행진이 가능해졌다”고 했다.&lt;br&gt;&lt;br&gt;재판부는 “이날 집회는 공휴일에 진행돼 국회의 공식 일정이 없고, 국회 경계로부터 100m 이내 구간을 행진하는 것이라 국회의원의 국회 출입과 원활한 업무 수행에 현저한 차질이 발생하거나 국회의 헌법적 기능이 침해될 가능성이 높다고 보기 어렵다”고 했다.&lt;br&gt;&lt;br&gt;이어 “집회 신고 인원이 총 1만2000명이긴 하나, 신청인은(세이브코리아) 201명의 질서유지인을 배치하고 50개 구역으로 나눠 경찰과 협조해 평화롭고 안전하게 행진할 계획”이라며 “피신청인(경찰)도 과거 신청인이 개최한 집회에서 공공의 안녕 질서에 직접적 위협이 발생한 적은 없다고 인정하고 있다”며 “집회의 자유가 갖는 헌법적 가치를 볼 때, 이를 제한하는 경우 회복하기 어려운 손해가 있다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/67YEJJU4DRJB3NUEW2EEURVM7M.jpg?width=5000&amp;height=3452&amp;auth=cca7db0264767c573f6e57ea54cca4177fbe7c04bc948c54c1d764b1789ae797&amp;smart=true" type="image/jpeg" height="3452" width="5000">
+        <media:description type="plain">윤석열 대통령 탄핵 기각 위한 기도하는 국가 비상 기도회 참가자들/연합뉴스</media:description>
+        <media:credit role="author" scheme="urn:ebu">황광모</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>[단독] 하의도 천사상 사기꾼, 감옥에서 42살에 高卒 검정고시 수석</title>
+      <link>https://www.chosun.com/national/incident/2025/03/01/OFQHXSTLFJHIDKIFA37ESLM7JQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/03/01/OFQHXSTLFJHIDKIFA37ESLM7JQ/</guid>
+      <dc:creator>안준현 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 01 Mar 2025 01:00:59 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AAMZ5ANG2NDLFESGBHRCQOWY6E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;최바오로라는 작가가 경북 청도군에 세운 조각상./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;본인을 파리7대학 예술학부 명예교수를 지낸 ‘세계적인 성상(聖像) 조각가’라는 거짓 주장을 펼치면서 한국 주요 성당과 성지에 조각을 설치한 최바오로(본명 최영철·71)씨가 42살이던 1995년 경북 청송제1보호감호소에서 고졸 검정고시 만점을 받은 것으로 1일 나타났다. 최씨는 당시 상습 사기 혐의로 청송교도소에서 1년, 이후 보호감호소에서 7년 있었다.&lt;br&gt;&lt;br&gt;최씨는 1953년 한국전쟁 당시 전쟁 고아로 태어났다. 고아원에서 지내다 목공소와 철공소를 전전했고, 20대부터 경기 부평의 미군 기지에서 잡부, 꽃 가게 점원, DJ를 전전해왔다. 최씨는 20살 때 미군 PX 물품을 밀매한 것이 적발돼 사기 전과자가 됐다. 이후에도 사기를 벌여 전과 6범이었던 최씨는 징역 1년에 보호감호 7년을 선고받고 청송교도소에 입감됐다.&lt;br&gt;&lt;br&gt;당시 보도를 보면 최씨는 한국전쟁 당시 미국인 아버지와 한국인 어머니 사이에서 태어나 혼혈아가 모인 고아원에서 자라다 20살 때 전과자가 됐다. 1992년 3월 상습 사기로 청송교도소에 있으면서 고입자격 검정고시에 합격했다. 이어 보호감호소로 옮겨져 1995년 고졸 검정고시에서 국영수 9개 과목 전부 100점을 받아 수석 합격했다.&lt;br&gt;&lt;br&gt;최씨는 당시 소감을 묻는 질문에 “자신과의 싸움에서 이기지 못하면 영원한 패배자로 남을 수밖에 없다는 생각으로 공부에 매달렸다”며 “출소 후 신학을 전공해 목회자가 되겠다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JJ3QQKQLSRGINBACFZUB3XWG6U.png"&gt;&lt;figcaption&gt;&lt;small&gt;최씨가 1995년 청송교도소에서 검정고시 만점을 받았을 당시 본지 보도. /조선일보 지면 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그러나 최씨는 이후 나무 조각가로 일하며 자신을 ‘파리7대학 명예교수’로 사칭, 전국 성지 곳곳에 조각을 설치해왔다. 경북 청도군은 최씨와 맺은 계약을 파기하고, 조각상 납품 대가로 받아 간 2억9700만원을 돌려받기 위한 소송을 제기했다. 지난 20일 대구지법 형사12부(재판장 어재원)는 최씨를 사기 혐의로 징역 2년에 집행유예 2년 6개월을 선고했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/AAMZ5ANG2NDLFESGBHRCQOWY6E.jpg?width=848&amp;height=477&amp;auth=7357fdde996aba07409c5f20401564083e1102df00273220cdb888141103ebda&amp;smart=true" type="image/jpeg" height="477" width="848">
+        <media:description type="plain">최바오로라는 작가가 경북 청도군에 세운 조각상./뉴스1</media:description>
+        <media:credit role="author" scheme="urn:ebu"/>
+      </media:content>
+    </item>
+    <item>
+      <title>“이제는 국제 경쟁”…전북도 올림픽 유치 전담팀 만든다</title>
+      <link>https://www.chosun.com/national/national_general/2025/03/01/6XYM7V3NF5HKHFEZLO2QHX7BG4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/03/01/6XYM7V3NF5HKHFEZLO2QHX7BG4/</guid>
+      <dc:creator>전주=김정엽 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 01 Mar 2025 02:00:40 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KLOKNE7FUNOULHUN2VSFXTKTYU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김관영 전북도지사가 1일 전북도청에서 기자회견을 열고 2036 하계올림픽 국내 후보 도시로 선정된 소감을 밝히고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2036 하계올림픽 국내 후보 도시로 선정된 전북도가 올림픽 유치를 신청한 세계 도시들과 경쟁하기 위해 전담팀을 구성한다. &lt;br&gt;&lt;br&gt;김관영 전북도지사는 1일 기자회견을 열고 “오늘의 결과는 전북도민의 도전정신과 헌신, 열정이 이뤄낸 성취이며, 빛나는 성공”이라며 “변함없는 지지와 뜨거운 응원을 보낸 도민에게 2036 하계올림픽 국내 후보지 선정에 대한 공을 돌린다”고 말했다.&lt;br&gt;&lt;br&gt;이어 김 지사는 “전북이 대한민국 대표 후보도시로 단독 선정됐지만 국제무대의 벽은 더욱 높다”며 “유치를 책임질 전담 조직을 곧바로 만들어 인도와 이집트 등 올림픽 유치에 뛰어든 세계 10여 국가와 치열한 경쟁에 대비하겠다”고 밝혔다. &lt;br&gt;&lt;br&gt;전북도는 전담팀 구성을 시작으로 올림픽 유치를 위한 본격적인 준비에 나선다. 문화체육관광부와 기획재정부 등 정부 심의와 국내 승인 절차를 신속히 추진할 계획이다. 또한 전남·광주, 충청권, 대구 등 연대 도시들과의 협력을 구체화하고, 국제올림픽위원회(IOC)에 유치의향서를 제출하는 등 국제무대에서 전북의 강점을 알릴 방침이다.&lt;br&gt;&lt;br&gt;김 지사는 전북과 경쟁했던 서울시와 공동 개최 가능성에 대해서는 “대한체육회 대의원총회에서 전북 단독 개최가 의결됐기 때문에 지금 다시 공동 개최를 얘기하는 것은 대의원들의 뜻에 반하는 것이라고 생각한다”고 했다. 그러면서 “(대한체육회) 이사회의 많은 분이 공동 개최가 국제 경쟁에서 유리하다는 의견을 주신 것도 사실이기에 대한체육회와 좀 더 의논해서 우리나라의 유치 가능성을 높이는 방법을 기존의 틀을 현저하게 해치지 않는 범위에서 논의하겠다”고 했다. &lt;br&gt;&lt;br&gt;김 지사는 경제적인 올림픽도 강조했다. 그는 “전북은 37개 경기장 중 4개만 신축하고 33개는 기존 시설, 임시시설로 쓰도록 계획하고 있다”며 “서울과 분산개최를 계획했던 경기, 인천, 강원의 경기장을 적극적으로 활용하고 임시시설도 최소화하는 방향도 생각하고 있다”고 했다. &lt;br&gt;&lt;br&gt;김관영 지사는 전북이 승리한 이유로 지방도시 연대를 꼽았다. 그는 “지방도시 연대를 통해 가장 효과적으로 비용 절감을 하면서 올림픽을 치를 수 있다는 점을 강조했다”며 “이것이 IOC가 추구하는 올림픽 어젠다 방향과 가장 부합하고, 이런 전북의 강점을 대의원들과 일대 일로 만나서 설득해 승리할 수 있었다”고 했다. &lt;br&gt;&lt;br&gt;이어 김 지사는 “전북이 지난 2023년 새만금 잼버리 파행으로 많이 어려웠는데, 이번에 도민들의 자존심을 살려내는 기회가 됐고, 다시 한 번 새만금이 전 세계에 도약할 수 있는 발판도 마련됐다”며 “잼버리 실패를 통해 얻은 교훈을 국제대회에 적용해 다시는 실패를 반복하지 않을 것”이라고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>경찰, ‘과속·무면허·음주 운전’ 3·1절 폭주족 744건 적발</title>
+      <link>https://www.chosun.com/national/incident/2025/03/01/LPPVNQHE65GOXIORGJ22RBUL2Q/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/03/01/LPPVNQHE65GOXIORGJ22RBUL2Q/</guid>
+      <dc:creator>안준현 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 01 Mar 2025 02:01:43 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VP4EIA5PSZMSNMGBGHSIQMHUVA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;3·1절인 1일 오전 충남 천안시 동남구 신부동 일대에 폭주 행위가 벌어져 단속에 나선 경찰이 오토바이 운전자들의 번호판과 면허증 등을 확인하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰은 3·1절 전야 특별 단속으로 과속, 무면허, 음주 운전 등을 한 폭주족 744건을 적발했다. 경찰청은 교통·지역경찰 인력 2781명과 순찰차 등 장비 1152대를 투입해 전국 폭주족 특별 단속을 실시, 총 744건을 적발했다고 1일 밝혔다.&lt;br&gt;&lt;br&gt;적발 건수로는 공동위험행위 2건, 난폭 운전 2건, 무면허 9건, 불법 개조·번호판 가림 등 자동차관리법 위반 68건, 음주 운전 51건, 기타 612건이다. 폭주 행위를 하다 경찰에 적발되면 공동 위험 행위 등으로 입건될 수 있다. 공동 위험 행위는 징역 2년 이하 또는 벌금 2500만원 이하에 처한다.&lt;br&gt;&lt;br&gt;경찰청은 “중대 법규 위반에 대해서는 채증 자료 분석 등을 거쳐 형사 처벌할 예정”이라며 “향후 교통, 형사, 기동대 등 인력을 이용해 기념일·주말 등에 지속적으로 폭주족 단속을 하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;한편 폭주족은 2000년대 이후 3·1절과 광복절 전야에 기승을 부리기 시작했다. 그러다 경찰의 일제 단속과 코로나 등으로 자취를 감췄다가, 2023년부터 다시 특정 지역을 중심으로 나타나고 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/VP4EIA5PSZMSNMGBGHSIQMHUVA.jpg?width=6000&amp;height=4000&amp;auth=0d6a0f41611d5686b7c6699b9e6854c0b3680f9609ef8134ac6e8847671932df&amp;smart=true" type="image/jpeg" height="4000" width="6000">
+        <media:description type="plain">3·1절인 1일 오전 충남 천안시 동남구 신부동 일대에 폭주 행위가 벌어져 단속에 나선 경찰이 오토바이 운전자들의 번호판과 면허증 등을 확인하고 있다. /연합뉴스</media:description>
+        <media:credit role="author" scheme="urn:ebu">이주형</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>오늘 전국에 비... 수도권 초미세 먼지 ‘나쁨’</title>
+      <link>https://www.chosun.com/national/transport-environment/2025/03/01/TNFBCNPUXNAPHJPMHZAW5MPJD4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/03/01/TNFBCNPUXNAPHJPMHZAW5MPJD4/</guid>
+      <dc:creator>선정민 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 01 Mar 2025 01:13:38 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GH7CMMKKRZDPHJHF5CBXBLXORE.gif"&gt;&lt;figcaption&gt;&lt;small&gt;1일 수도권 등지의 초미세 먼지(PM2.5) 농도가 '나쁨'을 기록할 전망이다. 이날 환경부가 예상한 초미세 먼지의 이동 모습./에어코리아&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;1일 오전 서남해안부터 비가 내리기 시작해 오후에는 전국으로 비가 확산될 것으로 예보됐다. 서울과 인천, 경기 등은 초미세 먼지 농도가 ‘나쁨’을 보일 전망이다.&lt;br&gt;&lt;br&gt;기상청에 따르면, 이날 강수량은 제주 5~30㎜, 충남권·호남·경남권 5~20㎜, 충북과 경북권 5~10㎜, 서해5도 5㎜ 내외, 서울·인천·경기남부·강원내륙·강원산지 5㎜ 미만, 강원남부동해안 1㎜ 내외일 것으로 예상된다.&lt;br&gt;&lt;br&gt;서풍에 실려오는 비구름으로 인해 이날 오전 서남해안에서 비가 시작될 전망이다. 이날 오후 12시~3시 호남과 충남, 경남 일부 지역으로 비가 확대되고, 오후 3~6시에는 수도권과 충북, 경북 일부 등지로 확대된 후 밤까지 전국 곳곳에 간간이 비가 이어지겠다.&lt;br&gt;&lt;br&gt;환경부 미세 먼지 예보에 따르면, 이날 초미세 먼지(PM2.5) 농도는 서울, 인천, 경기, 강원 영서, 충북에서 ‘나쁨’을 보이고 그 밖의 권역은 ‘좋음’~‘보통’으로 예상됐다. 초미세 먼지 ‘나쁨’은 일 평균 기준으로 1㎥당 36~75㎍(마이크로그램)으로 예측될 때를 말한다. &lt;br&gt;&lt;br&gt;이날 전국의 낮 최고기온은 영상 10~18도를 보이며 포근하겠다. 서울의 낮 최고기온은 영상 12도, 대전 14도, 부산 14도, 대구 17도, 포항 18도, 광주 14도, 여수 11도 등으로 전망됐다.&lt;br&gt;&lt;br&gt;한편 1일 시작된 비는 지역에 따라 2일 오전 잠시 소강 상태를 보이다가 2일 오후부터 더 거세지며 3일까지 이어지겠다. 2~3일 예상 강수량은 강원동해안·강원산지·충남권·전북·경북동해안 30~80㎜(강원동해안·산지는 최대 100㎜ 이상), 제주 20~80㎜(제주산지는 최대 100㎜ 이상), 수도권·서해5도·강원내륙·충북·전남권과 경북동해안을 뺀 영남권 20~60㎜ 등이다.&lt;br&gt;&lt;br&gt;2일부터 북쪽에서 한기가 내려오면서 비가 눈으로 바뀌는 지역들도 있겠다. 예상 적설은 강원동해안·산지 20~50㎝(북부동해안과 산지 최대 70㎝ 이상), 경북북동산지 10~40㎝, 강원내륙 10~30㎝, 경기북동부·충북북부·경북북부동해안·경북북부내륙·울릉도·독도 5~20㎝, 서울·경기남동부·경기북서부 3~10㎝, 인천·경기남서부·충청권·전북동부·대구·경북남부내륙 1~5㎝ 등이다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“도박 빚 안 갚아줘?”... 모친과 외할머니에 흉기 휘두른 20대</title>
+      <link>https://www.chosun.com/national/regional/gangwon/2025/03/01/NQZ5ZAXE3JC23NKEPECO3XIJNM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/gangwon/2025/03/01/NQZ5ZAXE3JC23NKEPECO3XIJNM/</guid>
+      <dc:creator>신정훈 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 01 Mar 2025 00:46:26 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WOIPX7HDNFCOHOGTNKRO6EMBJA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원로고. /조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;도박 빚을 갚아주지 않는다며 모친과 외할머니에게 흉기를 휘 둔 20대가 징역형을 선고받았다. &lt;br&gt;&lt;br&gt;춘천지법 원주지원 형사2단독 박현진 부장판사는 1일 특수존속협박·폭행 혐의로 기소된 A(25)씨에게 징역 1년 6월에 집행유예 3년을 선고하고 보호관찰을 명령했다. &lt;br&gt;&lt;br&gt;A씨는 지난해 4월 20일 모친에게 도박 빚을 갚아달라고 했으나 거절당하자 부엌에 있던 흉기를 휘두르며 ‘죽여버리겠다’고 협박한 혐의로 재판에 넘겨졌다. &lt;br&gt;&lt;br&gt;또 그는 8개월이 지난 12월 3일 오전 7시 15분쯤 외조모와 모친이 A씨 도박 빚 문제로 언쟁하는 것을 보고 ‘감옥 가면 된다’며 외조모에게 흉기로 위협하고 폭행을 했다. 이어 모친의 머리채를 잡고 발로 허벅지를 걷어차는 등 폭행 혐의도 추가됐다. &lt;br&gt;&lt;br&gt;박 부장판사는 “매우 폭력적이고 반인륜적 범행”이라며 “다만 피해자들이 처벌불원 의사를 표시한 점 등을 고려해 형을 정했다”고 판시했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>자상한 남편의 두 얼굴... 폰엔 ‘호텔 원나잇’ 비밀 폴더 있었다</title>
       <link>https://www.chosun.com/national/court_law/2025/03/01/MQMMVFAHFVB3TJX6LCXK2L2RIE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/03/01/MQMMVFAHFVB3TJX6LCXK2L2RIE/</guid>
@@ -813,15 +879,6 @@
       <content:encoded>오세훈 서울시장이 28일 2036 하계 올림픽 국내 유치 후보지 선정과 관련해 “국내에서 균형 발전이 필요하다는 논리론 국제올림픽위원회(IOC)나 다른 나라를 설득하기 어렵다”며 “서울이 개최권을 따와야 한다”고 말했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7MSY4CUZOBLSFKDRUMR4ZQBUHQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;오세훈 서울시장. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;오 시장은 이날 YTN라디오 ‘뉴스파이팅, 김영수입니다’ 전화 인터뷰에서 이같이 말했다. 오 시장은 “서울이 개최권을 따 지방 발전을 위해 몇 종목씩 분산 개최하는 것은 가능하고 바람직하다”고 덧붙였다.&lt;br&gt;&lt;br&gt;대한체육회는 이날 오후 대의원 총회에서 2036년 하계 올림픽 국내 유치 후보지를 결정한다. 오 시장은 이날 투표를 앞두고 열리는 최종 발표(PT)에 발표자로 나설 예정이다.&lt;br&gt;&lt;br&gt;오 시장은 “서울시가 가장 잘 준비된 도시라는 것을 어필하겠다”며 “잠실 일대는 마이스(MICE) 리모델링에 이미 들어가 2031년까지 새단장된다. IOC가 판단하는 데 이런 점이 장점이 될 것”이라고 했다.&lt;br&gt;&lt;br&gt;조기 대선 출마 여부를 묻는 질문에는 “헌법재판소 결정이 내려지기 전에 말씀드리는 것은 도리가 아니라 자제하고 있다”면서도 “너무 촉박한 대선 일정이 벌어지니 미리 마음의 준비와 생각 정리는 하고 있어야 한다”고 했다.&lt;br&gt;&lt;br&gt;정치 브로커 명태균씨에 관한 의혹에 대해서는 ‘후원자로 알려진 사업가 김한정씨가 명씨에게 돈을 준지도 몰랐고, 명씨의 미공표 여론조사를 받은 적도 없다’는 취지로 말했다.&lt;br&gt;&lt;br&gt;오 시장은 “검찰 수사가 시작됐으니 (김씨가) 대납한 건지, 명태균한테 사기를 당한 건지는 수사 결과로 밝혀질 것”이라고 했다.&lt;br&gt;&lt;br&gt;지난 27일 더불어민주당 주도로 국회 본회의에서 명태균 특검법이 통과된 것에 대해선 “특검을 하면 시간이 또 걸린다”며 “조기 대선 중에 명태균의 ‘아무 말 대잔치’로 대선 정국을 흐리겠다는 의도”라고 했다.&lt;br&gt;&lt;br&gt;국민의힘 한동훈 전 대표의 정치 활동 재개 움직임을 두고는 “그분이 나라 경영에 대한 숙성된 비전이 있다면 당연히 당내 경선에 들어와서 함께 경쟁하는 건 나쁠 게 없다”고 했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>경찰, ‘안성 고속도로 붕괴 사고’ 관련 현대엔지니어링·도로공사 압수수색</title>
-      <link>https://www.chosun.com/national/incident/2025/02/28/72QPB2HMWRACDLGNM5RRJMV354/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/02/28/72QPB2HMWRACDLGNM5RRJMV354/</guid>
-      <dc:creator>안성=김수언 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 28 Feb 2025 00:48:45 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/O5MON7DMKJO2HOB6DQISJ6TZFI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;10명의 사상자가 발생한 경기도 안성시 서울세종고속도로 건설 공사 교량 상판 붕괴 사고 현장에서 26일 국토안전관리원 등 관계자들이 사고 현장을 살펴보고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;4명이 숨지고, 6명이 다친 경기 안성 서울세종고속도로 다리 붕괴 사고를 수사 중인 경찰이 28일 시공사 등에 대한 압수수색에 나섰다.&lt;br&gt;&lt;br&gt;경기남부경찰청 고속도로 붕괴 사고 수사전담팀은 이날 서울세종고속도로 9공구 발주처인 한국도로공사, 시공사인 현대엔지니어링, 하도급사인 장헌산업, 강산개발 등 4곳에 대한 압수수색을 진행하고 있다. 수사전담팀은 “금일 9시 30분부터 4개업체, 7개소에 대해 압수수색 영장을 집행 중”이라고 밝혔다. &lt;br&gt;&lt;br&gt;압수수색 장소는 서울에 있는 현대엔지니어링 서울 본사, 경북 김천에 있는 도로공사 본사, 충남 당진의 장헌산업 본사와 이들 회사의 현장 사무실, 강산개발의 현장 사무실 등인 것으로 알려졌다.&lt;br&gt;&lt;br&gt;이날 압색에는 경찰 인력 43명, 고용노동부 감독관 32명 등 75명이 참여해 사고관련 자료를 확보하고 있다.&lt;br&gt;&lt;br&gt;이번 사고 구간은 현대엔지니어링(50%), 호반산업(30%), 범양건영(20%) 컨소시엄이 공사를 진행 중이었다. 주관사는 현대엔지니어링이다.&lt;br&gt;&lt;br&gt;하도급사인 장헌산업은 교량 상판 구조물인 ‘거더’(다리 상판 보)를 설치하는 작업을 맡았으며, 강산개발은 거더 위에 슬라브(상판)를 얹는 작업을 각각 맡았다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UWKMMDVX5FKE5ATNTREHAPD27U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;10명의 사상자가 발생한 경기도 안성시 서운면 산평리 '안성 고속도로 교각 붕괴' 현장에 26일 교각 상판이 처참하게 내려앉아 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;아울러 경찰과 국립과학수사연구원, 산업안전공단 등은 이날 오전 10시 30분부터 사고 현장에서 합동 감식을 진행할 예정이다. 감식에는 관계기관 6곳 소속 관계자 42명이 참여한다.&lt;br&gt;&lt;br&gt;한편, 지난 25일 오전 9시 49분쯤 경기 안성시 서운면 산평리 서울세종고속도로 안성~용인 구간 연결 교량(청룡천교) 건설 현장에서 다리의 상판 구조물이 무너지는 사고가 났다.&lt;br&gt;&lt;br&gt;교각(다리 기둥) 위에 올려져 있는 상판 4개(거더 6개 1세트)가 브이(V)자로 휘면서 일시에 땅바닥으로 무너져 내렸다.&lt;br&gt;&lt;br&gt;이 사고로, 다리 위에서 일하고 있던 작업자 10명이 약 52m 높이에서 바닥으로 추락해 매몰돼 4명이 숨졌다. 나머지 6명은 중상을 입고 병원에서 치료 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>여당 현역 의원 아들, 서울 한복판서 마약 ‘던지기’ 받으려다 적발</title>
       <link>https://www.chosun.com/national/national_general/2025/02/28/DGPZ3RASNNFPLOTOEGAW5QNO5Y/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/02/28/DGPZ3RASNNFPLOTOEGAW5QNO5Y/</guid>
@@ -832,15 +889,6 @@
       <media:content url="https://www.chosun.com/resizer/v2/U4QQHTGFOWPSSP5QTBPQA6UJOQ.jpg?width=3386&amp;height=1905&amp;auth=ee16c07c42ff29c842bdf88015a25faff1bcee865d76cc368d5552e638842809&amp;smart=true" type="image/jpeg" height="1905" width="3386">
         <media:description type="plain">서울 서초경찰서/뉴스1</media:description>
       </media:content>
-    </item>
-    <item>
-      <title>당진 현대제철 운반 용기 균열로 쇳물 300t 누출…인명 피해 없어</title>
-      <link>https://www.chosun.com/national/regional/2025/02/28/AFMJ6QJVTFAK5JXAF3TP7KJI2U/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/02/28/AFMJ6QJVTFAK5JXAF3TP7KJI2U/</guid>
-      <dc:creator>우정식 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 27 Feb 2025 23:27:53 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Z7FV3OUCQIKU2TXQIJ6HPG27O4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;현대제철 당진제철소 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;28일 오전 2시 26분쯤 충남 당진시 송악읍 현대제철 제1고로 인근에서 운반 열차에 실려있던 쇳물 300t이 누출되며 운반 열차에 불이 났다.&lt;br&gt;&lt;br&gt;소방 당국은 소방차 등 장비 22대, 인력 66명을 투입해 1시간 43분 만인 오전 4시 9분쯤 불을 모두 껐다.&lt;br&gt;&lt;br&gt;당시 제1고로에서 생산된 쇳물을 제철소 내부 운반 열차에 싣고 이동 중이었는데 운반 용기에 균열이 생기면서 쇳물이 철로에 누출된 것으로 소방 당국은 보고 있다. 이 불로 열차 일부가 타 소방서 추산 3000여만원의 재산 피해가 났다.&lt;br&gt;&lt;br&gt;인명 피해는 없었고, 불이 철로 밖 시설물로는 번지지 않아 2차 사고는 없었다고 한다.&lt;br&gt;&lt;br&gt;현대제철에 따르면 제1고로에서 생산된 쇳물은 내부와 연결된 운반 열차를 통해 제강공장으로 옮겨진 뒤 불순물 제거 등 품질 개선 절차를 거친다.&lt;br&gt;&lt;br&gt;쇳물은 고온을 견디는 내화벽돌과 철피로 만든 운반 용기에 담겨 수송되는데, 운반 용기에 균열이 생기면서 쇳물이 쏟아진 것으로 알려졌다.&lt;br&gt;&lt;br&gt;현대제철 관계자는 “당시 열차에 기관사 등 작업자가 있었지만, 쇳물 운반 용기와 완전히 차단된 구조라 인명피해는 없었다”며 “조사 당국과 함께 정확한 사고 원인을 찾고 있고 최대한 빠른 복구를 진행할 예정”이라고 했다.&lt;br&gt;&lt;br&gt;경찰과 소방 당국은 현대제철 관계자 등을 상대로 정확한 사고 원인과 피해 규모 등을 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[팩트 체크] 화교는 수능 망쳐도 서울대? 사실 아닙니다</title>
@@ -854,15 +902,6 @@
         <media:description type="plain">서울대 정문 전경 2020.6.18/뉴스1 ⓒ News1 황덕현 기자</media:description>
         <media:credit role="author" scheme="urn:ebu">뉴스1 ⓒ News1 황덕현 기자</media:credit>
       </media:content>
-    </item>
-    <item>
-      <title>쌍꺼풀 11만원, 보톡스 3000원… 성형·피부과 최저가 경쟁</title>
-      <link>https://www.chosun.com/national/welfare-medical/2025/02/28/7EHR224LEJDZRDQBUUGLI5TLPY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/02/28/7EHR224LEJDZRDQBUUGLI5TLPY/</guid>
-      <dc:creator>강다은 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 27 Feb 2025 15:55:00 +0000</pubDate>
-      <content:encoded>‘매몰 쌍꺼풀 수술 11만원.’ &lt;br&gt;&lt;br&gt;지난 26일 미용 의료 정보 앱 ‘강남언니’에 이 같은 광고가 올라와 전화 상담을 신청했다. 의료 경력이나 환자의 눈 상태 등에 따라 달라지긴 하지만 통상 매몰 방법의 쌍꺼풀 수술 비용은 50만~150만원 정도다. 약 20분 뒤 서울 서초구에 있는 해당 성형외과 직원으로부터 전화가 왔다. “정말 11만원에 쌍꺼풀 성형 수술이 가능하냐”고 물었더니 해당 직원은 “그렇다”며 방문 상담을 예약해주겠다고 했다. 다만, 눈 수술이 처음이어야 하고, 방문 상담을 통해 추가 비용이 발생할 수 있다고 안내했다.&lt;br&gt;&lt;br&gt;최근 성형외과·피부과에서 ‘최저가 경쟁’이 치열하다. 첫 방문 할인, 수험생 이벤트 등을 통해 기존 가격의 10~20% 수준의 ‘땡처리 상품’이 늘어나 평균적인 성형·시술 가격도 떨어지고 있다. 원래도 돈벌이가 쉬운 미용 분야에 의사들이 많이 몰렸었지만, 최근엔 사직 전공의들까지 가세해 경쟁이 더 치열해진 것이다. &lt;br&gt;&lt;br&gt;병원들은 파격적인 가격을 내세워 환자를 유치하고 있다. ‘3000원 보톡스’ ‘1000원 제모’ ‘1만원대 필러’도 등장했다. 여기에 첫 방문, 수험표 할인 등 각종 이벤트가를 적용하면 가격이 더 싸진다. 물론 이런 상품 상당수는 1회에 한해 적용되는 ‘미끼 상품’이다. 하지만 성형외과와 피부과가 난립해 있고, 병원마다 할인 혜택을 주다 보니 여러 병원을 돌며 땡처리 상품만 쏙쏙 이용하는 ‘미용 병원 노마드족(유목민)’도 늘고 있다.&lt;br&gt;&lt;br&gt;반면 ‘필수 의료 분야’는 정부가 지원을 지속적으로 강화하고, 해당 분야 의사들의 몸값도 높아지고 있다. 정부는 27일에도 고난도 소아·청소년 수술에 대한 보상을 대폭 확대한다고 발표했다. &lt;br&gt;&lt;br&gt;&lt;b&gt;◇소아·청소년 수술 수가 최대 850만원까지 높여&lt;/b&gt;&lt;br&gt;&lt;br&gt;과거에도 성형외과와 피부과에서 최저가 상품들은 있었다. 하지만 의정 갈등 사태 이후 사직 전공의가 대거 미용 병원으로 몰려가면서 경쟁이 더 치열해졌다는 분석이다. 개원가에 의사가 몰리며 ‘의사 월급 300만원대’가 등장한 것처럼, 시술 가격 역시 크게 떨어지고 있는 것이다. 의료계에선 앞으로 미용 병원이 더 늘어날 것으로 보고 있다. 전문의 자격 취득 대신 미용 의원 개원을 하려는 의사가 많은 데다가 의대 정원까지 늘어났기 때문이다.&lt;br&gt;&lt;br&gt;27일 건강보험심사평가원에 따르면 지난해 1~7월 일반의가 신규 개원한 의원은 전국적으로 총 129곳. 이 중 80.6%인 104곳이 피부과를 진료하겠다고 신고(중복 가능)했다. 성형외과도 33곳이었다. &lt;br&gt;&lt;br&gt;성형외과·피부과들 사이 출혈 경쟁은 곳곳에서 드러난다. 병원마다 마케팅에 힘을 쓰면서 직장인을 겨냥한 일요일, 오후 9시까지 야간 영업을 하는 곳도 생겨나고 있다. 내국인 환자 유치로는 한계가 있다고 판단, 아예 외국인을 겨냥한 전문 병원이나 센터를 열기도 한다. &lt;br&gt;&lt;br&gt;미용 의료 분야 시술은 가격이 떨어지지만 필수 의료에 대한 보상은 대폭 강화되고 있다. 27일 보건복지부는 고난도 소아·청소년 수술 등 필수 의료 분야 수술 가산 항목을 신설해 보상을 파격적으로 늘린다고 발표했다. 지난해 5월 6세 미만 환자에 대한 고위험·고난도 수술 가산을 대폭 개선한 바 있는데, 가산(추가금) 항목을 더 늘리고, 6~16세 대상 가산도 신설한다는 것이다. 소아 수술은 성인과 달리 성장과 발달 단계에 따른 특성을 고려해야 해 어렵고 위험도 크다. 그래서 그간 의료계에선 “추가 보상이 필요하다”는 의견이 나왔었다. &lt;br&gt;&lt;br&gt;예컨대, 지금은 동맥관이 열려 호흡곤란을 겪는 선천성 심장 기형 환자의 혈관을 닫는 ‘경피적 동맥관 개존 폐쇄술’을 상급종합병원에서 하면 수술 수가(건강보험이 병원에 주는 돈)는 96만4482원이다. 여기에 연령별 가산을 하면 수가가 약 96만~850만원 늘어난다. &lt;br&gt;&lt;br&gt;두개골을 여는 개두술·두개절제술도 마찬가지다. 상급종합병원 신경외과 전문의가 6~16세 환자에게 이 수술을 하면 지금은 수술 수가 233만8893원에 전문의 가산 23만3887원을 더해 257만2780원을 받았다. 그런데 앞으론 수술 수가에 소아 가산 100%가 붙어 491만1673원을 받는다. 수술 보상이 기존 대비 약 2배로 늘어나는 셈이다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>‘마은혁 임명‘ 전원일치… “3명 소수의견으로 문제제기 시늉만”</title>
@@ -977,15 +1016,6 @@
       <content:encoded>서울 성북구에 거주하는 정수영(65)씨는 매달 구청에서 30만원씩 수당을 받는다. 26개월 된 손주를 하루 네 시간씩 봐주는 조건으로 ‘손주돌봄수당’을 받는 것이다. 정씨는 “손주를 돌보다 보면 간식비니 뭐니 이런저런 돈이 들어가는데, 조금이나마 부담을 덜 수 있어 좋다”고 했다.&lt;br&gt;&lt;br&gt;손주를 봐주는 조부모에게 이른바 ‘손주돌봄수당’을 주는 지자체가 늘고 있다. 맞벌이 부부를 대신해 손주를 돌보는 조부모에게 매달 20만~30만원(아동 1명 기준)의 현금을 지급하는 것이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DHCCCPO4CNHTLA33JD5AXFCTIQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=박상훈&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;울산시는 손주돌봄수당을 신설한다. 울산에 거주하는 2세(24~36개월) 아동을 봐주는 조부모를 대상으로, 월 40시간 보육 조건으로 매달 30만원을 지원한다. 울산시 관계자는 “0~1세 아동에게는 부모 급여, 3~5세는 보육료 지원이 있는데 2세의 경우 다른 지원이 없다”며 “돌봄 사각지대로 보고 관련 수당을 만들게 된 것”이라고 했다. 충청남도도 올 하반기 관련 제도를 도입할 예정이다.&lt;br&gt;&lt;br&gt;앞서 시행 중인 지자체들도 있다. 경상남도는 지난해 7월 손주돌봄수당 제도를 도입했다. 24~35개월 손주를 월 40시간 이상 돌보는 조부모에게 20만원을 지급한다. 도입 당시엔 다자녀 가구만 대상이었으나, 문턱이 높다는 지적이 제기되자 올해부터는 한 자녀 가구까지 대상을 확대했다. 경기도는 지난해 7월 24~48개월 아동을 대상으로 지원하는 ‘경기형 가족돌봄수당’을, 서울시는 지난해 9월 ‘서울형 아이돌봄비’를 신설했다. 두 지자체는 조부모 외에 4촌 이내 친인척까지 지원한다. 광주광역시는 2011년부터 6세 이하 손주를 돌보는 조부모에게 돌봄 시간에 따라 최대 30만원을 지급하고 있다. 경기도는 별도의 소득 조건 없이 지원하고, 다른 지역은 중위소득 150% 이하 기준을 충족해야 지원한다. 저출산고령사회위원회에 따르면 지난해 기준으로 7개 지자체가 344억원을 들여 ‘손주돌봄수당’을 지원했다. &lt;br&gt;&lt;br&gt;전국적으로 확산하는 ‘손주돌봄수당’에 대해 찬반 여론이 엇갈린다. 석재은 한림대 사회복지학과 교수는 “‘무급’이 당연하게 여겨졌던 가족 간의 돌봄 노동에 대해 사회적으로 환기한다는 측면에서 바람직하다”며 “맞벌이 부부 등 양육 지원이 필요한 이들의 부담을 덜어주는 측면에서도 의미가 있다”고 했다. 육아정책연구소의 2021년 전국보육실태조사에 따르면 부부의 맞벌이 등으로 인해 조부모가 양육을 돕는 가정은 48.8%로 전체의 절반에 달한다. 조부모에 대한 지원이 맞벌이 부부의 육아 부담과 보육 공백을 줄여주는 효과로 이어질 수 있다는 것이다. &lt;br&gt;&lt;br&gt;반면 남찬섭 동아대 사회복지학과 교수는 “부모급여 등 기존의 양육 지원 수당이 있는 상황에서 조부모 돌봄까지 지원하는 것은 바람직하지 않다”며 “지자체 차원에서는 현금 지원보다는 공공 보육 체계를 확충하는 것이 필요하다”고 했다.&lt;br&gt;&lt;br&gt;일각에서는 ‘부정 수급’에 대한 우려도 제기된다. 실제로 손주를 돌보지 않으면서도 수당만 챙기는 얌체족이 나타날 수 있다는 것이다. 수당을 지원하는 각 지자체는 조부모 등 조력자의 돌봄 시작 시간이나 종료 시간을 QR코드로 확인하고, 불시에 방문하거나 영상 통화를 걸어 실제로 보육하고 있는지 파악하는 등 모니터링을 실시하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>‘해님’ ‘달님’ ‘별님’ 있어 우리 집은 환하게 빛납니다</title>
-      <link>https://www.chosun.com/culture-life/culture_general/2025/02/28/LSWA5DKBQBDLLAFKGWHCRY3T64/</link>
-      <guid isPermaLink="true">https://www.chosun.com/culture-life/culture_general/2025/02/28/LSWA5DKBQBDLLAFKGWHCRY3T64/</guid>
-      <dc:creator>오유진 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 27 Feb 2025 15:51:00 +0000</pubDate>
-      <content:encoded>서울 서초구에 사는 김원진(43)·김은미(40) 부부는 리윤·리아·리온(3) 세쌍둥이 자매를 키운다. 아이들은 2022년 12월 21일 1분 간격으로 태어났다. 엄마 뱃속에 있을 때 태명은 ‘해님’ ‘달님’ ‘별님’이었다. 리윤이와 리온이는 일란성 쌍둥이다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CLVTGKWLZ5BVBFGSEMLLH63G3I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 23일 오후 서울 서초구 한 아파트에서 남편 김원진(맨 오른쪽)씨와 아내 김은미(맨 왼쪽)씨가 시부모와 리윤(아래 왼쪽부터), 리온, 리아 세쌍둥이와 함께 환하게 웃으며 포즈를 취하고 있다. /고운호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부부는 같은 회사(은행)에서 만났다. 1년 반 연애 끝에 2015년 결혼했다. 현재는 남편 김씨가 외벌이로 일하고 있다. 아내 김씨는 은행을 그만두고 개인 사업을 하고 있었는데 세 자매를 임신하면서 사업도 그만뒀다. 김씨는 “임신 20주가 넘어가면서 움직이기가 힘들어서 사업을 정리하게 됐다”고 했다.&lt;br&gt;&lt;br&gt;부부는 자기들을 닮은 아이를 낳고 싶었다. 결혼 이후 한 차례 유산을 하기도 했지만, 부부는 낙심하지 않았다. 지난 2022년 초 시험관 시술을 통해 임신에 성공했다. 부부는 “서울 강남의 한 대학병원에서 임신 소식을 듣고 많아도 두 명 아닐까 했는데, 세쌍둥이라는 말을 듣고 많이 놀랐다”고 했다. 당시 병원에선 부부에게 조산 위험 등으로 선택적 유산을 권유했다. 실제로 쌍둥이의 조산 확률은 50%, 세쌍둥이 이상은 90%를 넘는다. 주변에서도 힘들지 않겠냐며 걱정이 많았다. 하지만 부부는 ‘이 또한 우리의 운명’이란 생각으로 세쌍둥이를 낳기로 결심했다. &lt;br&gt;&lt;br&gt;임신부터 출산까지 어느 하나 쉬운 일은 없었다. 아내 김씨는 임신 17~19주쯤 자궁 수축으로 인한 진통으로 한동안 병원에 입원했다. 결국 본래 출산 예정일보다 한 달이나 일찍 서울 송파구 한 대학병원에서 아이들을 낳았다. 둘째 리아와 막내 리온이는 각각 1.96㎏, 1.99㎏으로 태어나 신생아 집중 치료실로 가야 했다. 병원 소아 응급실에 자리가 없어 구급차를 타고 인근 대학병원으로 옮겨졌다. 다행히 리아와 리온이는 인큐베이터에 들어간 지 2주 만에 건강하게 퇴원했다.&lt;br&gt;&lt;br&gt;부부는 남편 김씨의 부모님과 함께 산다. 아이들이 태어나기 전부터 부모님과 함께 살고 있었는데, 세쌍둥이가 태어나면서 7명 대가족이 됐다. 평소 시어머니가 어린이집 등·하원 등 육아를 돕는다. 김씨는 “시부모님이 육아를 간섭할 만도 한데 전혀 그러시지 않는다”면서 “육아를 시작할 때 어머님이 ‘내가 애 키운 지 너무 오래돼서 잘 기억이 안 나니까 (네가) 알려주는 대로 하겠다’고 하셨을 정도”라고 했다. &lt;br&gt;&lt;br&gt;아이들도 할머니, 할아버지와 함께 노는 것을 좋아한다. 남편 김씨는 “주말에 아이들이 부모님 앞에서 노래도 부르고, 집 안 곳곳을 돌아다니며 ‘이것 봐요’ 하며 묘기를 보여준다”고 했다. 시아버지 김기묵(68)씨는 “무슨 일이 생기면 어른 둘이 아닌 넷이 출동할 수 있는 게 가장 장점”이라며 “아이들이 찾아온 이후 집 안 분위기가 환해졌다”고 했다. 시어머니 고영자(68)씨는 “아이들이 기쁨을 많이 주니까 평소 육아하다 힘든 순간이 와도 너무 행복하다”고 했다. &lt;br&gt;&lt;br&gt;이 집에는 강아지 ‘봄순이’도 함께 산다. 순한 성격에 봄철에 집에 왔다고 해서 붙은 이름이다. 세 자매가 태어나기 1년 전인 2021년 3월 유기견 센터에서 데려왔다. 당시 봄순이는 새끼와 함께 센터에 있었는데, 새끼는 다른 사람이 입양해갔다.&lt;b&gt; &lt;/b&gt;임신을 준비하던 김씨 부부는 농담 삼아 봄순이한테 “너만 엄마가 됐냐. 우리도 좀 도와줘”라고 얘기했는데, 이듬해 세쌍둥이 임신에 성공했다고 한다. 김씨는 “아이를 낳고 싶다는 간절한 마음에 한 소리였는데 이렇게 이뤄질 줄은 몰랐다”고 했다.&lt;br&gt;&lt;br&gt;세자매는 쌍둥이지만 하는 행동은 제각각 다르다. 첫째 리윤은 동생들이 엄마한테 안아달라고 하거나 부탁할 때 “엄마 힘드니까 내 손 잡고 가자”며 동생들을 잘 챙긴다. 둘째 리아는 활달한 성격에 잘 뛰어다니고 균형 감각, 운동 신경이 뛰어나다. 셋째 리온이는 애교가 많아 어린이집 선생님들 사이에서도 가장 인기가 많다. 아내 김씨는 “요즘 분리 수면을 하고 있는데, 아이들이 아파서 같이 누워 있으면, 자다 일어나서도 갑자기 ‘엄마 사랑해, 엄마 너무 예뻐’ 얘기한다”고 했다.&lt;br&gt;&lt;br&gt;육아하면서 힘든 점도 있다. 부부는 “무엇이든 3배씩 해야 한다”고 했다. 최근 아이들이 열이 39도가 넘어 자택 인근 소아과에 가야 하는데, 그날 아내 김씨가 홀로 아이들을 데리고 가야 해 진땀을 뺐었다고 한다. 남편 김씨는 “아이를 낳은 후 가족끼리 대화도 많아지고 화목해졌다”면서 “아이를 키우는 것이 얼마나 행복인지 낳고 나서 알게 됐다”고 말했다. &lt;br&gt;&lt;br&gt;아내 김씨는 “주변에 결혼은 했지만 아이를 낳지 않는 딩크 부부가 있는데, 왜 안 낳는지 물어보면 ‘아이를 잘 키울 자신이 없다’고 하더라”며 “‘애를 낳아봐야 안다’는 말이 있는데, 진짜 내가 낳고 보니 선물 같은 존재다. 이런 이야기를 꼭 해주고 싶다”고 했다. 남편 김씨는 “사회적으로 육아는 힘든 것이라는 부정적인 인식이 많은 것 같다”면서 “2년 넘게 아이들을 키워보니 힘든 순간도 있지만 행복할 때가 더 많았다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[인사] 외교부 외</title>
       <link>https://www.chosun.com/national/obituary-personnel/2025/02/28/4NVVMCNRS5GPZBLPFYRHQFAB4Y/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2025/02/28/4NVVMCNRS5GPZBLPFYRHQFAB4Y/</guid>
@@ -993,24 +1023,6 @@
       <description/>
       <pubDate>Thu, 27 Feb 2025 15:51:00 +0000</pubDate>
       <content:encoded>▲외교부▷외교정보보안담당관 김세호▷영사안전국 해외안전상황실 팀장 유수아&lt;br&gt;&lt;br&gt;▲경찰청◇경무관 승진 예정&amp;lt;경찰청&amp;gt;▷혁신기획조정담당관 어윤빈▷교통기획과장 이서영▷여성안전기획과장 박준성▷여성청소년범죄수사과장 여진용▷사이버범죄수사과장 함영욱▷경비과장 신종묵▷복지정책담당관 이미경▷반부패공공범죄수사과장 송원영▷청소년보호과장 최은정▷지역경찰역량강화과장 박민영▷미래치안정책과장 이승열▷경호과장 박대식▷감사담당관 이영철▷재정담당관 임현규▷치안정보분석과장 정관호▷&amp;lt;서울청&amp;gt;▷경무부 경무기획 김찬수▷인사교육과장 우지완▷위기관리경호과장 곽창용▷형사기동대장 김기헌▷청문감사인권담당관 백남익▷금융범죄수사대장 이충섭▷여성안전과장 민윤기▷경무기획과장 김기종▷용산서장 호욱진▷사이버수사과장 오창배&amp;lt;부산청&amp;gt;▷여성청소년과장 강일웅▷치안정보과장 문봉균&amp;lt;경기남부청&amp;gt;▷반부패경제범죄수사대장 이정철▷하남서장 장한주&amp;lt;충남청&amp;gt;경무기획정보화장비과장 정경호◇총경 승진 예정&amp;lt;경찰청&amp;gt;▷홍보 진영탁▷경제범죄수사 김현수▷장비운영 박재범▷강력범죄수사 임인수▷교통기획 이창민▷치안정보분석 임희재▷경무 민상식▷경무 소동현▷치안상황 노동진▷인사 설은미▷감사 최성락▷여성안전기획 이광열▷혁신기획조정 박상민▷수사심사정책 이정호▷범죄분석 조대희▷치안정보협력 이종한▷경비 김만중▷범죄정보 박천환▷사이버범죄수사 이여정▷인권보호 양광모▷지역경찰운영 이창우▷안보수사1 김정옥▷&amp;lt;서울청&amp;gt;▷인사교육 이석▷형사 장영식▷반부패수사 김태현▷경무기획 김수영▷경무기획 박종현▷치안정보상황 김병선▷청문감사인권 이정민▷강남서 범죄예방대응 정집범▷마포서 형사2 김상훈▷범죄예방대응 정인환▷용산서 치안정보 김태정▷남대문서 경비 정창호▷치안정보분석 나기윤▷경무기획 조영욱▷여성안전 강동휘▷202경비 송태훈▷종로서 교통 한태동▷101경비 우민구▷강서서 여성청소년 최선식▷강동서 여성청소년 한혜선▷금융범죄수사 강정석▷교통안전 서정섭▷경무기획 오기덕▷경무기획 이용두▷서초서 형사 신겸중▷광진서 범죄예방대응 이상수▷송파서 여성청소년 김삼현&amp;lt;부산청&amp;gt;▷치안정보 이철민▷112치안종합상황 김해진▷반부패경제범죄수사 국중용▷교통 김대원▷청문감사인권 정재훈▷연제서 범죄예방대응 강호진&amp;lt;대구청&amp;gt;▷경비 이홍수▷교통 여환수▷반부패경제범죄수사 오승철▷경무기획정보화장비 정지윤&amp;lt;인천청&amp;gt;▷범죄예방대응 이지현▷형사 이병준▷범죄예방대응 이동석▷홍보 한재영&amp;lt;광주청&amp;gt;▷경무기획정보화장비 문대열▷형사 노광일&amp;lt;대전청&amp;gt;▷경무기획정보화장비 이승환▷홍보 이완수&amp;lt;울산청&amp;gt;▷교통 이병철▷경무기획정보화장비 변지희▷수사 윤종도&amp;lt;세종청&amp;gt;▷범죄예방대응 정호경&amp;lt;경기남부청&amp;gt;▷반부패경제범죄수사 신동현▷안보수사 박유훈▷교통 최영신▷홍보 허성수▷형사 고혁수▷치안정보 신대호▷안상상록서 범죄예방대응 정규오&amp;lt;경기북부청&amp;gt;▷안보수사 김학영▷경무기획정보화장비 정혜정▷경무기획정보화장비 강경수&amp;lt;강원청&amp;gt;▷홍보 안형배▷형사 이영길▷교통 신홍철&amp;lt;충북청&amp;gt;▷교통 정기영▷경무기획정보화장비 김상민&amp;lt;충남청&amp;gt;▷수사 김범수▷경무기획정보화장비 김상기▷경비 이병노&amp;lt;전북청&amp;gt;▷형사 양재승▷홍보 소준관▷전주완산서 치안정보안보 한민&amp;lt;전남청&amp;gt;▷범죄예방대응 이광현▷여성청소년 김민주▷형사 박태준&amp;lt;경북청&amp;gt;▷홍보 천승준▷여성청소년 박성규▷청문감사인권 김강현&amp;lt;경남청&amp;gt;▷치안정보 하원윤▷경비 박주성▷경무기획정보화장비 정남윤▷홍보 박병관&amp;lt;제주청&amp;gt;▷치안정보 하준영&amp;lt;중앙경찰학교&amp;gt;▷운영지원 정수연&lt;br&gt;&lt;br&gt;▲방송통신위원회◇부이사관 승진▷조사기획총괄과장 조주연&lt;br&gt;&lt;br&gt;▲한국학중앙연구원▷한국학대학원장 구난희▷기획처장 이강한▷국제교류처장 안예리▷교학처장 이정란▷한국학사전편찬부장 이용윤▷해외한국학지원실장 한승훈&lt;br&gt;&lt;br&gt;▲한국연구재단◇승진▷기획조정본부장 남호성▷연구정책성과전략본부장 문선영▷기초연구지원실장 백승민▷인문사회연구총괄실장 김면중▷학술총괄실장 김창호▷국제협력총괄실장 정진영▷혁신성장실장 이상혁▷인사운영실장 차소영▷연구윤리지원센터장 구자필▷정보화관리실장 이종원◇전보▷기초연구총괄실장 황구연▷국가전략사업총괄실장 한동성▷국가전략사업평가실장 박춘경▷대학교육실장 최동명▷국제지역협력실장 전호석▷국제인재개발협력실장 백민정▷대외홍보실장 강동환▷연구정책전략실장 김현태▷연구성과전략실장 조영돈▷중앙RISE센터장 김봉문&lt;br&gt;&lt;br&gt;▲한국폴리텍대학▷한국폴리텍Ⅲ대학 학장 지경배▷한국폴리텍Ⅳ대학 학장 양형규▷한국폴리텍특성화대학 학장 정인학&lt;br&gt;&lt;br&gt;▲동아대▷소프트웨어대학장 이석환▷간호대학장 강지연▷교양대학장 김진경&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[오늘의 날씨] 2025년 2월 28일</title>
-      <link>https://www.chosun.com/national/national_general/2025/02/28/PCT3FKLZYBALRMGO7UXJUALJLA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/02/28/PCT3FKLZYBALRMGO7UXJUALJLA/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 27 Feb 2025 15:50:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/V2CITJVREVBMLI55UZ6MGHQ74M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>대규모 집회 예상 3·1절부터…서울지하철 최고 수준 비상대응</title>
-      <link>https://www.chosun.com/national/national_general/2025/02/27/IWA2ZP73ZBFF7J5CIBKNPEHRH4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/02/27/IWA2ZP73ZBFF7J5CIBKNPEHRH4/</guid>
-      <dc:creator>박진성 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 27 Feb 2025 12:29:24 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FHMGQ4OJW5GAPGKCLOWWGB3HFA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령 탄핵심판 최종변론을 앞둔 25일 오후 서울 종로구 헌법재판소 인근에서 윤 대통령 지지자들이 집회를 열고 있다./박성원 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대규모 집회가 예상되는 3·1절부터 윤석열 대통령 탄핵심판 선고기일까지 서울 지하철이 비상 태세에 돌입한다.&lt;br&gt;&lt;br&gt;서울교통공사는 3·1절인 다음달 1일부터 윤석열 대통령에 대한 탄핵심판 선고기일까지 대규모 도심 집회로 인한 안전사고를 예방하기 위해 최고 수준의 안전대책을 시행한다고 27일 밝혔다.&lt;br&gt;&lt;br&gt;공사는 3월 1일 이용객 증가가 예상되는 1·2호선 시청역, 3호선 안국역·경복궁역, 5호선 광화문역·여의도역·여의나루역·신길역 등 8개 역사에 안전관리와 안내를 위해 127명의 안전 인력을 배치한다. 이는 평상시보다 99명 증원된 규모다.&lt;br&gt;&lt;br&gt;해당 역사는 승객 포화 및 혼잡 시 무정차 통과가 시행될 수 있으며 출입구 폐쇄 등의 조치도 시행될 수 있다.&lt;br&gt;&lt;br&gt;공사는 안전상황실을 운영해 실시간 혼잡상황을 모니터링하고, 필요시 혼잡 완화를 위해 임시열차를 편성하며 전동차도 추가 투입한다.&lt;br&gt;&lt;br&gt;집회에 앞서 시설물 점검을 강화해 안전사고 예방에도 힘쓴다.&lt;br&gt;&lt;br&gt;역사 내 엘리베이터, 에스컬레이터 등 승강 편의시설 및 주요 시설물을 점검하고, 안내표지 부착 등의 여부도 꼼꼼히 살필 계획이다.&lt;br&gt;&lt;br&gt;공사는 또 사회관계망서비스(SNS) 등 다양한 매체를 통해 혼잡상황에 따른 역사 및 열차 운영 사항을 알린다.&lt;br&gt;&lt;br&gt;박병섭 공사 안전관리본부장은 “도심 집회로 혼잡이 예상되는 역사에 안전사고 예방을 위해 철저한 대비책을 마련하고 있다”며 “최고 수준으로 대응해 안전한 지하철 환경 조성에 최선을 다하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
