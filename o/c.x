@@ -13,6 +13,36 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>육아휴직 쓴 직원 그만둬도 회사에 정부 지원금 100% 준다</title>
+      <link>https://www.chosun.com/national/labor/2025/03/02/DZU5ES7VURCTFELDOY5YILNSRI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/labor/2025/03/02/DZU5ES7VURCTFELDOY5YILNSRI/</guid>
+      <dc:creator>곽래건 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 02 Mar 2025 08:26:11 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KAQNWU6DQVLIFPAAQPJEOYHCOA.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;지난 11일 서울의 한 어린이집에 아이들이 등원하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정부가 직원에게 육아휴직이나 육아기 근로시간 단축 제도를 쓰게 해 준 중소기업에 지원금을 줄 때, 해당 직원이 스스로 퇴사를 하더라도 지원금 전액을 주기로 했다. 지금까지는 해당 직원이 자진 퇴사하면 회사는 지원금 50%를 받을 수 없었다.&lt;br&gt;&lt;br&gt;2일 본지 취재를 종합하면 고용노동부는 지난 28일 고용보험위원회를 열어 이 같은 내용을 결정했다. 정부는 관련 시행령을 개정해 새 제도를 오는 7월 1일부터 적용할 방침이다.&lt;br&gt;&lt;br&gt;중소기업이 직원에게 육아휴직을 쓰게 하거나 육아를 이유로 근로시간을 줄여주면, 정부는 직원 1명당 월 30만원의 지원금을 회사에 준다. 아이가 만 12개월 미만일 경우 첫 3개월은 월 200만원으로 지원금이 올라간다. 직원이 받는 육아휴직 급여와 별개의 돈으로, 정부가 회사에 주는 지원금이다. 중소기업에서 육아휴직이나 육아기 근로시간 단축을 쓰기 쉽도록 회사 측에 인센티브를 준다는 취지다.&lt;br&gt;&lt;br&gt;그런데 정부는 이 지원금을 일단 절반만 주고, 나머지 절반은 해당 근로자가 복직하거나 근로시간 단축이 끝나고 6개월이 지나야 준다. 만약 육아휴직을 쓴 직원이 복직하지 않거나, 6개월을 채우지 않고 그만두면 회사는 나중에 받기로 한 지원금을 전혀 받을 수 없었다. &lt;br&gt;&lt;br&gt;여기에 대해 정부 안팎에선 ‘직원이 스스로 그만두는 것이 회사 잘못은 아닌데, 이런 경우까지 회사 지원금을 안 주는 것은 타당하지 않다’는 지적이 나왔었다. 이에 앞으로는 이런 경우도 지원금을 주겠다고 제도를 바꾸는 것이다. 정부 관계자는 “중소기업들에 대한 재정 지원을 강화한다는 측면도 있다”고 했다.&lt;br&gt;&lt;br&gt;한편, 근로자가 받는 육아휴직 급여의 경우 이와 비슷한 제도가 있었으나 현재 폐지됐다. 근로자들은 작년까지는 육아휴직 급여의 75%를 휴직 중에 먼저 받고, 나머지 25%는 복직 6개월 이후에 받았다. 육아휴직 급여만 받고 복직은 하지 않는 경우를 막겠다는 취지였다. 그러나 실효성이 없고 저출생 문제 해결에도 도움이 안 된다는 지적이 나오자 정부는 해당 제도를 올해부터 전면 폐지했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>이번엔 골프 의류 놓고 맞붙은 우즈와 양용은 </title>
+      <link>https://www.chosun.com/national/people/2025/03/02/X3GC7ZU7MZG6PITSJBNPGTRRKM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/03/02/X3GC7ZU7MZG6PITSJBNPGTRRKM/</guid>
+      <dc:creator>민학수 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 02 Mar 2025 08:26:47 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/O7H3I5MBFBLYPOVLMOSYTBREPQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;타이거 우즈가 테일러메이드와 손잡고 만든 새 의류 라인 '선데이 레드'를 발표하고 있다./AFP 연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/REIP4QNZ5RGN7B4LC65WX6LH5E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;양용은이 의류 후원 브랜드인 매드캐토스 컨트리클럽 로고 앞에서 포즈를 취하고 있다. /왁티&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘골프 황제’ 타이거 우즈(미국)가 지난해 내놓은 골프 의류 브랜드 ‘선데이 레드(SUN DAY RED)’가 줄소송에 시달리고 있다. 기존 제품과 비슷하다는 이유다. ‘선데이 레드’는 대회 최종 라운드가 열리는 일요일에 빨간색 셔츠를 입고 경기하는 우즈를 상징한다. 제품 로고는 호랑이 형상을 닮았다.&lt;br&gt;&lt;br&gt;그런데 지난달 국내 업체 왁티가 이의 신청을 한 사실이 밝혀졌다. 선데이 레드가 지난해 12월 국내 특허청에 상표권 등록 절차를 밟기 시작하자 조치를 취했다. 이의 신청은 이미 등록한 자사 상표권을 보호하기 위한 사전 작업.&lt;br&gt;&lt;br&gt;왁티는 매드캐토스 컨트리클럽이란 의류 브랜드를 운영하는데 로고가 ‘길 잃은 고양이’ 모양이다. 왁티 강정훈 대표는 “지난해 선데이 레드 로고가 노출되면서 매드캐토스가 선데이 레드 자매 브랜드냐는 문의를 자주 받는다”면서 “2023년 시작한 매드캐토스가 되레 카피처럼 느껴질 수 있겠다는 우려가 생겼다”고 말했다. 매드캐토스는 골프선수 양용은과 김효주 후원 업체이기도 하다. 앞서 스포츠용품업체 푸마도 미국과 한국에서 이의신청을 냈다. “1969년부터 푸마가 사용해온 로고와 너무 유사하다”며 “소비자들 혼란이 발생할 가능성이 크다”고 주장했다.&lt;br&gt;&lt;br&gt;우즈는 27년간 후원을 받았던 나이키와 결별하면서 테일러메이드와 손잡고 선데이 레드를 내놓은 바 있다. 골프 웨어와 액세서리, 골프화 등을 만든다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/REIP4QNZ5RGN7B4LC65WX6LH5E.jpg?width=2022&amp;height=2022&amp;auth=5df14e3160d484bda7bb79094722d98879b4cb154519a816c8e6fe260cb4763c&amp;smart=true" type="image/jpeg" height="2022" width="2022">
+        <media:description type="plain">양용은이 의류 후원 브랜드인 매드캐토스 컨트리클럽 로고 앞에서 포즈를 취하고 있다. /왁티</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>“앉아달라”...한 마디에 버스기사 폭행한 80대 징역형</title>
+      <link>https://www.chosun.com/national/incident/2025/03/02/7MH6CM6THZDKPPD7HQ6MKP6D4M/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/03/02/7MH6CM6THZDKPPD7HQ6MKP6D4M/</guid>
+      <dc:creator>이승규 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 02 Mar 2025 08:35:05 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YBWHYJHU45WWAE75CSMRHXULSE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대구고법, 지법 청사/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;착석을 요구한 버스 기사를 폭행한 80대 남성에게 징역형이 선고됐다.&lt;br&gt;&lt;br&gt;대구지법 형사5단독(판사 안경록)은 운전자 폭행 등 혐의로 A(87)씨에게 징역 6개월에 집행유예 2년을 선고했다고 2일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난해 9월 대구 시내버스 안에서 기사인 B씨를 상대로 욕설과 폭행을 한 혐의로 기소됐다. 술에 취한 상태였던 A씨가 운행 중이던 버스 내부를 돌아다니자 B씨가 “(위험하니)앉아달라”고 요구했다. 그러자 A씨는 B씨에게 다가가 욕설을 하고 폭행했다.&lt;br&gt;&lt;br&gt;안 판사는 “A씨가 폭력 범죄로 벌금형을 받은 적이 수차례 있으며, 자신의 범행을 부인하고 반성하지 않고 있다”면서도 “폭행 피해가 심각하지 않고, A씨가 고령인 점 등을 참작해 집행유예를 선고한다”고 했다.&lt;br&gt;&lt;br&gt; &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>테너 라몬 바르가스, 서울대 성악과 교수 임용</title>
       <link>https://www.chosun.com/national/national_general/2025/03/02/477NRTBZTNAQHEIOXNWJYTAKHY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/03/02/477NRTBZTNAQHEIOXNWJYTAKHY/</guid>
@@ -1004,33 +1034,6 @@
       <description/>
       <pubDate>Fri, 28 Feb 2025 06:44:43 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EFLUZONMCX5VYJYK5HJVEPHKNU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대구 염색산단 검은색 폐수./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대구 서구 염색산업단지 내 하수관로에 폐수를 무단방류한 업체 2곳이 적발됐다. &lt;br&gt;&lt;br&gt;대구시는 28일 대구 서구, 대구지방환경청과 함께 기자회견을 갖고 이같이 밝혔다. &lt;br&gt;&lt;br&gt;대구시에 따르면, 이번에 적발된 업체 중 한 곳은 폐수 염료 제조·배합실에서 배출된 폐수가 하수관로로 유출되도록 했고, 또 다른 한 곳은 폐수 운영일지를 작성하지 않았다. &lt;br&gt;&lt;br&gt;행정 당국은 적발된 업체에 대해서는 물환경보전법 위반 혐의로 행정 처분할 방침이다. 물환경보전법에 따라 염료 폐수를 무단 유출하면 조업 정지 및 5년 이하 징역이나 5000만원 이하 벌금에 처해지고, 폐수 운영일지를 작성하지 않으면 경고와 함께 과태료 100만원 처분을 받게 된다.&lt;br&gt;&lt;br&gt;앞서 지난달 8일부터 최근까지 염색산단 내 하수관로에서 4건의 폐수 유출 사고가 발생해 대구시 등 행정 당국이 조사에 들어갔고, 이 과정에서 이들 업체의 위반 사항이 드러났다. 다만, 이들 두 업체가 최근 이어진 폐수 유출과 직접적인 관련이 있는지 단정할 수 없는 상황이라고 대구시는 설명했다. &lt;br&gt;&lt;br&gt;이에 따라 대구시는 적발된 2개 업체 외에도 나머지 의심 사업장에 대해서도 폐수 및 우수·오수 배출구를 중심으로 전수조사를 진행할 방침이다.&lt;br&gt;&lt;br&gt;권오상 대구시 환경수자원 국장은 “관계 기관 간 긴밀한 협업을 통해 법 위반 업체를 끝까지 추적해 행정처분과 함께 고발 조치할 방침”이라며 “강력한 방지대책을 추진해 폐수 유출이 재발되지 않도록 하겠다”고 말했다.&lt;br&gt;&lt;br&gt;대구시는 최근 염색산단에서 유출된 폐수는 하천이 아니라 하수 차집관로로 전량 대구시공공시설관리공단 달서천사업소인 하수처리장으로 유입돼 정상 처리되고 있어 달서천이나 금호강 등의 수질에 악영향을 주지 않고 있다고 밝혔다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>국민연금, 지난해 160조 수익냈다…역대 최고 수익률 비결은?</title>
-      <link>https://www.chosun.com/national/national_general/2025/02/28/5BONU5VTPNE6JA4JQVZAEBSPMM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/02/28/5BONU5VTPNE6JA4JQVZAEBSPMM/</guid>
-      <dc:creator>김명일 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 28 Feb 2025 06:39:06 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CHW6RISW3XX2QFDGL3WGQDSQ2I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;국민연금공단 기금운용본부./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국민연금공단이 지난해 160조원의 수익을 내며 역대 최고의 수익률을 기록한 것으로 나타났다.&lt;br&gt;&lt;br&gt;28일 국민연금공단 기금운용본부는 2024년 말 기준 국민연금기금 적립금 1213조원, 수익금 160조원, 수익률 15.00%(잠정·금액가중수익률)를 기록했다고 밝혔다.&lt;br&gt;&lt;br&gt;이는 1988년 국민연금에 기금이 설치된 이후 가장 높은 수익률이다. 이에 따라 기금 설치 이후 수익률은 연평균 6.82%를 기록했으며, 누적 운용수익금은 총 738조원으로 집계됐다.&lt;br&gt;&lt;br&gt;수익률을 자산별로 살펴보면, 해외주식 34.32%, 해외채권 17.14%, 대체투자 17.09%, 국내채권 5.27%, 국내주식 –6.94%로 각각 나타났다.&lt;br&gt;&lt;br&gt;해외 주식은 미국 연방준비제도(연준)의 기준금리 인하, 기술주 중심의 강세로 30%대 수익률을 보였다. 반면 국내 주식은 대형 기술주 실적 우려, 정치적 불확실성 등으로 마이너스를 기록했다.&lt;br&gt;&lt;br&gt;해외채권은 시장금리 상승에도 양호한 이자 수익과 원·달러 환율 상승 효과로 두 자릿수 수익률을 냈고, 국내채권은 한국은행 금융통화위원회가 두 차례(10월·11월) 기준금리를 인하하며 채권 가격이 상승해 5%대 수익률을 나타냈다.&lt;br&gt;&lt;br&gt;김태현 국민연금공단 이사장은 “지난해 경기 둔화 우려, 지정학적 리스크 지속, 미 대선 및 국내 정치 불안정 등 어려운 투자 환경 속에도 최고의 성과를 낸 것은 국내외 자산의 포트폴리오 다변화, 글로벌 운용사와의 전략적 파트너십을 통한 우량 투자 기회 발굴과 해외사무소 기능 강화 등 기금운용 인프라를 꾸준히 개선한 결과”라고 말했다.&lt;br&gt;&lt;br&gt;한편, 국민연금 기금운용 최종 성과 평가는 위험관리·성과보상전문위원회 검토 등을 거쳐 올해 6월 말쯤 기금운용위원회가 확정할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘과잠’ 입고 성대 나타난 황교안…시립대·외대까지 탄핵 반대 시국선언</title>
-      <link>https://www.chosun.com/national/national_general/2025/02/28/HEMRLTUFY5HPPGS5RSKV2OXKSY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/02/28/HEMRLTUFY5HPPGS5RSKV2OXKSY/</guid>
-      <dc:creator>한영원 기자, 고유찬 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 28 Feb 2025 06:18:19 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QJKWOBPE2RPTZISEJL4AH6IOAU.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;황교안 전 국무총리가 28일 서울 종로구 성균관대학교 앞에서 열린 윤석열 대통령 탄핵 반대 집회에 참석해 발언하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 대통령 탄핵을 둘러싼 집회가 대학가로 확산한 가운데 28일에는 서울 성균관대와 서울시립대, 한국외대에서도 윤 대통령 탄핵을 반대하는 시국선언이 열렸다. 이날 성대 집회에는 성균관대 법학과 77학번 황교안 전 총리도 참가했다.&lt;br&gt;&lt;br&gt;이날 오전 10시쯤 서울 종로구 성균관대 정문에는 탄핵 찬반 집회 참가자들이 각각 20명가량 모였다. 이들 사이에는 경찰이 배치돼 혹시 모를 충돌에 대비했다.&lt;br&gt;&lt;br&gt;탄핵 촉구 측의 집회가 오전 10시 30분쯤 먼저 시작됐다. 참가자들은 ‘내란옹호세력은 성대에서 꺼져라’, ‘내란옹호 황교안은 졸업장 반납하라’ 등이 적힌 피켓을 흔들며 “윤석열을 파면하라”라고 외쳤다. 이에 탄핵 반대 측은 ‘중국 공산당 몰아내자’라고 적힌 팻말을 들고 “빨갱이 꺼져라” 등을 외치며 응수했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3Q4XBJIGHZNV3OZUC4IAZNI4H4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;28일 오후 서울 동대문구 서울시립대학교 정문 앞에서 자유민주주의를 수호하는 시립대인들이 탄핵 반대 시국 선언을 하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;시간이 지나며 양측 집회 참가자들은 각각 100여 명으로 불어났고 신경전도 격화됐다. 서로 욕설을 주고받고, 일부 탄핵 반대 집회 참가자들은 상대편 측으로 뛰어들어 경찰에게 제지당하기도 했다.&lt;br&gt;&lt;br&gt;성균관대 재학생 윤세현(20)씨는 “이번 탄핵에 불법적 요소가 많다고 생각해 용기를 내서 시국선언에 참석했다“고 했다. 졸업생 안유경(35)씨는 “체제 전쟁 중인 자유대한민국을 위해 어떻게든 목소리를 내야한다는 생각에 나왔다”고 했다.&lt;br&gt;&lt;br&gt;이날 오전 11시쯤에는 황 전 총리는 성균관대 대학 점퍼를 입고 모습을 드러냈다. 그는 “부정선거를 막기 위한 계엄이 무슨 국헌문란이고 무슨 내란인가”라며 “대통령의 결단은 정의로운 것이었다”고 했다. &lt;br&gt;&lt;br&gt;또한 그는 “윤석열 대통령 탄핵은 부당하며, 헌법재판소의 공정성을 믿을 수 없다”며 “윤 대통령을 즉각 석방해야 한다”고 주장했다.&lt;br&gt;&lt;br&gt;탄핵 찬성 집회 참가자들은 “황교안 꺼져라”를 연호했다. 이에 탄핵 반대 측은 “불법 탄핵을 중단하라”, “헌재는 탄핵을 기각하라” 등의 구호를 외치며 응수했다.&lt;br&gt;&lt;br&gt;양측은 약 2시간 남짓 고성을 지르며 대치하다 별다른 충돌 없이 해산했다.&lt;br&gt;&lt;br&gt;이날 오후에는 서울시립대와 한국외대에서도 탄핵 반대 시국선언이 열렸다. 일부 유튜버와 윤 대통령 지지자들은 장소를 옮겨가며 시위에 참석하기로 했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>파리 신궁 임시현, 모교 한체대 입학식서 “넘어지고 깨지되 포기 말고 나아가길”</title>
-      <link>https://www.chosun.com/national/national_general/2025/02/28/62FDLC23ZBE25DZZLV6Z2K3IJI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/02/28/62FDLC23ZBE25DZZLV6Z2K3IJI/</guid>
-      <dc:creator>안태민 기자, 김병권 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 28 Feb 2025 03:29:27 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KGAKB4HSOFG2PJT6QMR34L73JA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2024 파리 올림픽에서 여자 양궁 3관왕을 기록한 임시현씨가 28일 오전 서울 송파구 한국체대 필승관에서 열린 입학식에서 축사를 하고 있다. 임씨는 한국체대 체육학과 22학번으로 재학 중이다./한국체대&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“간혹 힘든 일이 닥쳐오더라도 그 힘들었던 순간이 먼 훗날 자신을 받쳐주는 밑거름이 될 것이라고 믿으시길 바랍니다. 그 믿음은 결국 여러분들을 해내고 마는 사람으로 이끌 겁니다. 그러니 우리의 최고의 무기인 젊음과 열정을 앞세워 잃을 것이 없는 지금 많이 넘어지고 깨지되 포기하지 않고 나아가는 한국체대인(人)이 되길 바랍니다”&lt;br&gt;&lt;br&gt;28일 오전 11시 서울 송파구 한국체육대학교 필승관 대강당에서 2025학년도 한체대 입학식이 열렸다. 이날 오전 11시 19분쯤부터 3분가량 입학식 축사를 한 ‘파리 신궁(神弓)’ 임시현(22)씨는 후배 신입생들에게 “넘어지고 깨져도 포기하지 말고 나아가 달라”고 당부했다. 한체대 스포츠과학대학 체육학과 22학번으로 재학 중인 임씨는 2024 파리 올림픽에서 여자 양궁 3관왕을 기록했다.&lt;br&gt;&lt;br&gt;올림픽 금메달리스트인 임씨가 무대 위에 오르자 신입생들 사이에선 “와”하는 환호성이 터졌다. 임씨는 “오늘 이렇게 뜻깊은 자리에서 여러분을 환영할 수 있게 되어 대단히 큰 영광”이라며 “치열한 경쟁을 뚫고 한국체육대학교의 가족이 되신 신입생 여러분께 재학생을 대표하여 진심으로 환영한다”고 말했다. 이어 “우리 대학은 전 세계 스포츠인들의 상징과 같은 대학교”라며 “함께 출전한 선수는 물론 각국의 지도자와 다양한 분야에서 활약하고 있는 선배님들을 보며 저 역시 한국체대인으로서의 매 순간 최선을 다할 수 있었고 올림픽에서 3관왕이라는 명예도 얻을 수 있었다”고 했다. 이에 신입생들은 박수갈채로 화답했다.&lt;br&gt;&lt;br&gt;축사 말미에 임씨는 “승자가 있으면 패자가 있는 게 당연하듯이 모두가 만족하고 행복하기는 어렵다고 생각하지만, 학년이 더해지면서 여기 있는 모든 학생들이 더 성장하고 더 단단해질 것은 분명한 사실”이라며 “간혹 힘든 일이 닥쳐오더라도 그 힘들었던 순간이 먼 날 자신을 받쳐주는 밑거름이 될 것이니 우리의 최고의 무기인 젊음과 열정을 앞세워 잃을 것이 없는 지금 많이 넘어지고 깨지되 포기하지 않고 나아가는 한국체대인이 되길 바란다”고 밝혔다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GSY6AJCCSFCVVNCO5SSLRCFNWU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난해 열린 2024 파리 올림픽 개인전 시상식에서 금메달을 들어 보이는 임시현 선수의 모습. /고운호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;축사를 마친 임씨에게 학생들은 다시 한 번 박수갈채와 함성으로 화답했다. 임씨의 축사를 들은 스포츠산업학과 신입생 김민서(19)씨는 “평소에 임시현 선수의 팬이라 같은 학교에 입학한다는 사실이 너무 영광스럽다”며 “나도 임시현 선수처럼 대한민국의 체육 사회에 큰 기여를 할 수 있는 학생이 되고 싶다”고 했다.&lt;br&gt;&lt;br&gt;축사 이후 무대 아래로 내려온 임씨는 본지와의 인터뷰에서 “개인적으로도 각종 대회에 출전할 때 두려움이 컸지만, 잃을 게 없는 후배들인 만큼 도전하기에 가장 좋은 시기라는 뜻을 이번 기회에 전하고 싶었다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
