@@ -13,6 +13,79 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>오세훈 “한국 민주주의 위기, 선관위가 자초”</title>
+      <link>https://www.chosun.com/national/regional/seoul/2025/03/02/LT5NVSZ6OFCTBEKC22QF4NA66M/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/seoul/2025/03/02/LT5NVSZ6OFCTBEKC22QF4NA66M/</guid>
+      <dc:creator>박진성 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 02 Mar 2025 03:03:46 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YVMD5H32PNDAU2HZMAQCIXKEAE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;오세훈 서울시장. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;오세훈 서울시장이 “오늘날 한국 민주주의의 위기는 선거관리위원회에 대한 불신과 갈등에서 잉태했다고해도 과언이 아니다. 대부분 선관위가 자초한 일”이라며 “선관위는 감사원의 감사를 수용해야 한다”고 말했다.&lt;br&gt;&lt;br&gt;오시장은 2일 ‘선관위 개혁, 대증요법이 아니라 근본 해법이 필요합니다’는 제목의 페이스북 글을 통해 이같이 말했다.&lt;br&gt;&lt;br&gt;오 시장은 “부정 채용, 감사 거부 등 제어장치 없이 독주하는 작금의 시스템이 낳은 결과물이 부실 선거 논란”이라며 “이렇다 보니 국민은 선거에 의구심을 품게 되고 그로 인해 극심한 갈등이 벌어지고 있다”고 지적했다.&lt;br&gt;&lt;br&gt;오 시장은 “대증요법이 아니라 근본적 해법을 마련해야 한다”며 “핵심 열쇳말은 선거 행정의 ‘개방’ ‘견제’ ‘효율’이다”라고 했다.&lt;br&gt;&lt;br&gt;먼저 대법관이 중선관위장을, 지방법원장이 시도 선관위원장을 겸임하는 관례를 재고해야한다고 했다.&lt;br&gt;&lt;br&gt;오 시장은 “‘법관의 선관위원장 독점’은 우선 삼권분립의 원칙에 맞지 않고 선거 행정의 투명성과 효율성 증대도 꾀할 수 없다”며 “선관위원장이 상근하지 않는 탓에 지휘권에 공백이 생기고 그 틈새에서 선관위 내부에 ‘그들만의 성’을 쌓을 여지가 발생하기 때문”이라고 했다.&lt;br&gt;&lt;br&gt;또 오 시장은 “선관위 내에 부패가 발생해도 선관위원장이 법관이기에 법원의 공정한 판결을 기대할 수 없다”며 “이 문제를 타개하기 위해 선관위원장을 선거‧행정 전문가와 타 기관 공직자 등에게 개방하고 그중 최선의 인사를 기용해 안정적 임기를 보장해야 한다”고 했다.&lt;br&gt;&lt;br&gt;이어 오 시장은 “선관위가 독립성만 강조하면서 ‘견제받지 않는 왕국’이 된 비정상 상황도 정상화해야 한다”며 “먼저 선관위는 감사원의 감사를 수용해야 한다”고 했다.&lt;br&gt;&lt;br&gt;동시에 오 시장은 “선관위에 대한 국회 견제가 가능하도록 법 개정 절차를 진행해야 한다”며 “독립적 감사 기구를 두는 것도 방법”이라고 했다. 서울시가 광역지자체 최초로 청렴담당관 조직을 신설한 것도 모티브가 될 수 있다고 했다.&lt;br&gt;&lt;br&gt;오 시장은 “부실 선거 논란을 해소하기 위해서는 시스템 효율화가 시급하다”며 “사전투표 및 전자 개표 시스템을 개선하고, 선거 인력에 대한 능력 평가를 강화하는 방안을 고안할 필요가 있다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IAD2UL4DUNCD5GGICL4KT2L3HA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;오세훈 서울시장 페이스북&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“뼈저리게 반성했다”…말실수한 전효성, 역사 공부 결심한 이유</title>
+      <link>https://www.chosun.com/national/national_general/2025/03/02/MV7YY2BSU5CYTGYOOAMJECDIAQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/03/02/MV7YY2BSU5CYTGYOOAMJECDIAQ/</guid>
+      <dc:creator>김자아 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 01 Mar 2025 23:37:02 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QITQ2RE72ZLN5CJACD5YDAV3SI.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;시크릿 출신 전효성./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그룹 시크릿 출신 가수 전효성이 12년 전 말실수를 떠올리며 역사 공부를 하게 된 계기를 밝혔다.&lt;br&gt;&lt;br&gt;전효성은 지난 1일 JTBC ‘아는 형님’ 3·1절 특집에 출연해 ‘한국사능력검정시험’ 중급에서 2문제를 틀려 3급을 취득한 사실을 밝혔다. &lt;br&gt;&lt;br&gt;전효성은 한국사 공부를 하게 된 계기에 대해 “12년 전에 말실수를 한 적이 있다. 역사를 잘 몰라서 저질렀던 실수인데 스스로에게 충격을 받았다. 미친 거 아니야 싶었다”고 말했다.&lt;br&gt;&lt;br&gt;이어 “스스로가 부끄러워서 공부를 시작했다”며 “그냥 하면 공부가 제대로 안 되니까 자격증이라는 목표를 가졌다”며 “당시 욕먹을 때 ‘그럼 한능검을 따든지’라는 댓글이 있었다. 동아줄 같은 댓글이었다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7HXE56HNMFB7FMBH2ZVKQDSHAY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전효성의 한국사 공부 흔적./JTBC&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전효성은 “내 진심을 보여주고 스스로 반성하고 싶었다”며 “공부를 하면서 내가 말도 안 되는 말실수를 했구나 뼈저리게 느꼈다”고 했다.&lt;br&gt;&lt;br&gt;함께 출연한 한국사 일타강사 최태성은 “효성이는 연예인 중에서 한능검을 도전한 최초의 연예인일 것”이라며 “대단하다”고 칭찬했다.&lt;br&gt;&lt;br&gt;전효성은 2013년 5월 한 라디오 프로그램에 출연해 “개성을 존중하는 팀이라서 민주화시키지 않는다”고 발언했다가 논란에 휩싸였다. 이 표현은 온라인 커뮤니티 일간베스트 저장소(일베)에서 ‘집단 괴롭힘’ ‘억압’ 등의 의미로 쓰였다. 당시 전효성은 “무지로 인해 비롯된 일”이라며 두 차례 사과하고 같은 해 8월 한국사능력검정시험 자격증을 취득했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>매일 맞고 살았다는 양치승…“父 돌아가시고 죄책감 느껴”, 왜? </title>
+      <link>https://www.chosun.com/national/national_general/2025/03/02/42FVR6K67JEZZOMHI6JVBD3VQE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/03/02/42FVR6K67JEZZOMHI6JVBD3VQE/</guid>
+      <dc:creator>김자아 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 02 Mar 2025 01:28:38 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CCPXAWQIOZC6FBX7S5IXKKZKXQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;헬스트레이너 양치승./조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;헬스 트레이너 양치승이 아버지로부터 가정 폭력을 당한 사실을 고백하며 부모님이 돌아가신 후 자책한 때를 떠올렸다.&lt;br&gt;&lt;br&gt;양치승은 지난 1일 방송된 MBN 예능 프로그램 ‘속풀이쇼 동치미’에 출연해 ‘자식으로 태어나 부모로 살아간다’라는 주제로 이야기를 나눴다.&lt;br&gt;&lt;br&gt;양치승은 “이런 생각을 하면 안 되는데, 아버지가 폭력성이 심해 차라리 내가 고아였으면 좋겠다는 생각을 한 적이 있다”며 “너무 힘들었다. 집이 감옥처럼 느껴졌다. 매일 맞아서 고아가 낫지 않을까 이런 생각이 든 것”이라고 운을 뗐다.&lt;br&gt;&lt;br&gt;이어 “아버지는 희생을 하지 않았다. 퇴직금을 받으면 보통 가족을 위해 쓰지 않나. 근데 그러지 않고 주식에 투자했다가 1년도 안 돼 다 날렸다. 행복감이 없었다”며 “지금은 용서했지만 그때 당시에는 너무 힘들었다”고 했다.&lt;br&gt;&lt;br&gt;양치승은 “어느 날 아침에 어머니한테 전화가 왔는데 느낌이 이상했다. 아버지가 돌아가셨다는 전화였다”며 “너무 죄송하지만 마음이 편하더라. 한동안 ‘왜 내가 마음이 편하지?’라는 죄책감에 시달렸다. 마음이 너무 편했다”고 했다.&lt;br&gt;&lt;br&gt;어머니를 떠나보낸 때도 떠올렸다.&lt;br&gt;&lt;br&gt;군 전역 후부터 부모의 도움을 받지 않고 살았다는 양치승은 “군대를 가면 훈련소 시절에 가족이 가장 보고 싶은데 부모님이 신경 쓰게 하기 싫어서 연락도 안 했다”라며 독립적으로 살았다고 밝히기도 했다.&lt;br&gt;&lt;br&gt;그는 “코로나 때 부모님이 계속 물어봐서 괜찮다고 했다. 잔고가 점점 비더라. 체육관을 문 닫겠구나 싶었는데 어머니가 또 괜찮냐고 묻더라. 그래서 ‘나한테 뭘 해줬다고 자꾸 물어보냐. 그만 좀 물어봐’라며 폭발했다”고 했다.&lt;br&gt;&lt;br&gt;그러면서 “조용히 방에 들어가시는 걸 보는데 너무 슬프더라. 그러다가 그다음 해 돌아가셨다. 너무 죄송했다”며 울컥하는 모습을 보였다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>부산 청과물직판장 화재... 점포 3곳 전소 “인명피해 없어”</title>
+      <link>https://www.chosun.com/national/2025/03/02/YHVPSSHDMVEP3N2DOVTOI25ULQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2025/03/02/YHVPSSHDMVEP3N2DOVTOI25ULQ/</guid>
+      <dc:creator>부산=김주영 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 02 Mar 2025 02:31:34 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LF6IMUWZRVG2TILN6DJCAU4ZBQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 1일 오후 6시 26분 부산 사상구 청과물직판장에서 불이 나 점포 3곳이 전소하는 피해가 발생했다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산 청과물직판장에서 화재가 나 점포 3곳이 모두 불에 타는 피해를 입었다.&lt;br&gt;&lt;br&gt;2일 부산소방재난본부에 따르면 지난 1일 오후 6시 26분쯤 부산 사상구 청과물직판장 1층 한 점포에서 불이 났다. 당시 한 직판장 상인이 점포 내부에서 연기와 불꽃이 나는 것을 보고 소화기로 진화에 나섰으나 불길이 거세져 119에 신고한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;불은 직판장 건물 내 점포 3곳을 태우는 등 소방서 추산 3600만원의 재산 피해를 내고 1시간 20분여만에 진화됐다.&lt;br&gt;&lt;br&gt;불길이 2층으로 번지면서 스프링클러가 작동해 다수의 점포에 소방 용수가 많이 뿌려져 이로 인한 피해도 발생했다.&lt;br&gt;&lt;br&gt;소방 당국은 이미 영업이 종료된 상태라 인명피해는 없다고 밝혔다. 경찰과 소방 당국은 오는 4일 오후 합동 감식을 벌여 화재 원인 등을 조사할 계획이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘자연인’ 이승윤, 고액기부자 모임 가입</title>
+      <link>https://www.chosun.com/national/people/2025/02/27/JB7IP4KBNNA6ZATO4MM56TTK4A/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/02/27/JB7IP4KBNNA6ZATO4MM56TTK4A/</guid>
+      <dc:creator>김도균 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 27 Feb 2025 09:29:48 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NBQBZZLT35AWTMBOXL5DJSHAJY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;희망브리지 '아너스클럽' 회원으로 위촉된 방송인 이승윤씨. /희망브리지&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;희망브리지 전국재해구호협회는 27일 방송인 이승윤을 고액 기부자 모임 ‘아너스클럽’ 회원으로 위촉한다고 밝혔다.&lt;br&gt;&lt;br&gt;아너스클럽은 희망브리지에서 1억 원 이상의 개인 기부자들에게 감사와 예우를 표하기 위해 만든 모임이다. 이씨는 2020년부터 희망브리지 희망대사로 활동하며 총 13차례에 걸쳐 누적 1억1300만원을 기부했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>갯벌서 굴 채취 60대 부부 실종… 해경 “해상 등 집중 수색”</title>
+      <link>https://www.chosun.com/national/regional/2025/03/02/HCLND6LTCZCNRHAHTPOOKGPMG4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/03/02/HCLND6LTCZCNRHAHTPOOKGPMG4/</guid>
+      <dc:creator>해남=조홍복 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 02 Mar 2025 02:13:45 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7DLBPMVQZOAI3KQAEX2ZXCVFEI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;해상은 물론 육상에서 실종 부부를 수색 중인 해경./완도해경&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;굴(석화) 채취 목적으로 갯벌에 나간 60대 부부가 실종돼 해양경찰이 수색에 나섰다.&lt;br&gt;&lt;br&gt;2일 전남 완도해양경찰서에 따르면 전날 오후 8시 52분쯤 전남 해남군 송지면 갈두항 인근 갯벌 양식장에서 A(68)씨 등 60대 부부가 실종됐다고 A씨 가족이 해경에 신고했다. &lt;br&gt;&lt;br&gt;실종 직전 이 60대 부부는 굴을 따기 위해 손수레를 끌고 굴 양식장 갯벌로 향한 것으로 파악됐다. 해경 관계자는 “이 모습이 갈두항 선착장 방범카메라에 담겼다”고 말했다.&lt;br&gt;&lt;br&gt;해경은 불어난 바닷물로 갯벌에 고립된 부부가 이후 물에 쓸려 실종됐을 가능성을 배제하지 않고 있다. &lt;br&gt;&lt;br&gt;이에 따라 해경은 해수 유동 예측 시스템을 활용해 실종 부부가 표류했을 것으로 짐작되는 해상 이동로 등에 경비정 5척을 투입했으며, 육상도 수색하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘하루 수익 3%’ 다단계식 중고차 수출 사기 친 30대 ‘징역 4개월’</title>
+      <link>https://www.chosun.com/national/court_law/2025/03/02/TAUK3FP3AZHPJGHM2UBBVECB5M/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/03/02/TAUK3FP3AZHPJGHM2UBBVECB5M/</guid>
+      <dc:creator>원주=정성원 기자</dc:creator>
+      <description>중고 자동차 수출 사업을 빌미로 투자 사기 범죄를 벌인 30대가 법원으로부터 징역형을 선고받았다.
+춘천지법 원주지원 형사2단독 박현진 부장판사는 사기 혐의로 기소된 A(37)씨에게 징역 4개월을 선고했다고 2일 밝혔다.</description>
+      <pubDate>Sun, 02 Mar 2025 01:10:37 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KYUTM35NP5F5GTBMEVJXMVTOYE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;춘천지법 원주지원. (재판매 및 DB금지)/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;중고 자동차 수출 사업을 빌미로 투자 사기 범죄를 벌인 30대가 징역형을 선고받았다.&lt;br&gt;&lt;br&gt;춘천지법 원주지원 형사2단독(부장판사 박현진)은 사기 혐의로 기소된 A(37)씨에게 징역 4개월을 선고했다고 2일 밝혔다. 박 부장판사는 “도박공간개설죄로 인한 집행유예 기간에 범행을 저지른 점 등을 양형에 참작했다”고 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난해 5월 B씨에게 “하루에 투자금의 3% 수익금을 100일 동안 지급하겠다”며 중고 자동차 수출 사업 회사에 투자를 유도하는 등 총 8차례에 걸쳐 1700만원을 받아 가로챈 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;A씨는 또 다른 C씨에게도 “투자금의 총 300%를 지급하겠다”고 속이는 등 모두 4명에게 520만원을 받아 챙기기도 했다.&lt;br&gt;&lt;br&gt;조사 결과 A씨는 투자금을 운용해 수익금을 지급할 의사나 능력이 없었으며, 투자자들로부터 받은 돈은 수익금을 지급하는 이른바 ‘돌려막기’로 사용한 것으로 드러났다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>평창 봉평 펜션서 화재… 투숙객 1명 숨져</title>
+      <link>https://www.chosun.com/national/incident/2025/03/02/PJTUIMIOG5FIDBE67UQIWJCJLM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/03/02/PJTUIMIOG5FIDBE67UQIWJCJLM/</guid>
+      <dc:creator>평창=정성원 기자</dc:creator>
+      <description>지난 1일 오후 11시 41분쯤 강원 평창군 봉평면 한 펜션에서 불이 나 A(42·여)씨가 숨졌다.</description>
+      <pubDate>Sun, 02 Mar 2025 01:08:29 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3TWNV2JO2VERFO4DQ577JWBDMM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 1일 오후 강원 평창군 봉평면 한 펜션에서 화재가 발생, 소방당국이 진화 작업을 벌이고 있다./강원소방본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 1일 오후 11시 41분쯤 강원 평창군 봉평면 한 펜션에서 불이 나 A(42)씨가 숨졌다. 불이 난 후 투숙객 5명은 대피했으나 펜션 2층에서 묵고 있던 A씨는 미처 빠져나오지 못해 사망했다고 소방당국은 2일 밝혔다.&lt;br&gt;&lt;br&gt;불은 소방당국에 의해 5시간 50여분 만에 진화됐으나 펜션 건물 197㎡가 전소됐다.&lt;br&gt;&lt;br&gt;경찰 등은 목격자 등을 상대로 정확한 화재 원인을 조사 중이다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>남편 외도에 남친 데려온 아내...‘막장 부모’에 아들은 말을 잃었다</title>
       <link>https://www.chosun.com/national/court_law/2025/03/02/SNSYR3ZXRVBDDOCGDYCYLS6ZTA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/03/02/SNSYR3ZXRVBDDOCGDYCYLS6ZTA/</guid>
@@ -920,18 +993,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KGAKB4HSOFG2PJT6QMR34L73JA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2024 파리 올림픽에서 여자 양궁 3관왕을 기록한 임시현씨가 28일 오전 서울 송파구 한국체대 필승관에서 열린 입학식에서 축사를 하고 있다. 임씨는 한국체대 체육학과 22학번으로 재학 중이다./한국체대&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“간혹 힘든 일이 닥쳐오더라도 그 힘들었던 순간이 먼 훗날 자신을 받쳐주는 밑거름이 될 것이라고 믿으시길 바랍니다. 그 믿음은 결국 여러분들을 해내고 마는 사람으로 이끌 겁니다. 그러니 우리의 최고의 무기인 젊음과 열정을 앞세워 잃을 것이 없는 지금 많이 넘어지고 깨지되 포기하지 않고 나아가는 한국체대인(人)이 되길 바랍니다”&lt;br&gt;&lt;br&gt;28일 오전 11시 서울 송파구 한국체육대학교 필승관 대강당에서 2025학년도 한체대 입학식이 열렸다. 이날 오전 11시 19분쯤부터 3분가량 입학식 축사를 한 ‘파리 신궁(神弓)’ 임시현(22)씨는 후배 신입생들에게 “넘어지고 깨져도 포기하지 말고 나아가 달라”고 당부했다. 한체대 스포츠과학대학 체육학과 22학번으로 재학 중인 임씨는 2024 파리 올림픽에서 여자 양궁 3관왕을 기록했다.&lt;br&gt;&lt;br&gt;올림픽 금메달리스트인 임씨가 무대 위에 오르자 신입생들 사이에선 “와”하는 환호성이 터졌다. 임씨는 “오늘 이렇게 뜻깊은 자리에서 여러분을 환영할 수 있게 되어 대단히 큰 영광”이라며 “치열한 경쟁을 뚫고 한국체육대학교의 가족이 되신 신입생 여러분께 재학생을 대표하여 진심으로 환영한다”고 말했다. 이어 “우리 대학은 전 세계 스포츠인들의 상징과 같은 대학교”라며 “함께 출전한 선수는 물론 각국의 지도자와 다양한 분야에서 활약하고 있는 선배님들을 보며 저 역시 한국체대인으로서의 매 순간 최선을 다할 수 있었고 올림픽에서 3관왕이라는 명예도 얻을 수 있었다”고 했다. 이에 신입생들은 박수갈채로 화답했다.&lt;br&gt;&lt;br&gt;축사 말미에 임씨는 “승자가 있으면 패자가 있는 게 당연하듯이 모두가 만족하고 행복하기는 어렵다고 생각하지만, 학년이 더해지면서 여기 있는 모든 학생들이 더 성장하고 더 단단해질 것은 분명한 사실”이라며 “간혹 힘든 일이 닥쳐오더라도 그 힘들었던 순간이 먼 날 자신을 받쳐주는 밑거름이 될 것이니 우리의 최고의 무기인 젊음과 열정을 앞세워 잃을 것이 없는 지금 많이 넘어지고 깨지되 포기하지 않고 나아가는 한국체대인이 되길 바란다”고 밝혔다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GSY6AJCCSFCVVNCO5SSLRCFNWU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난해 열린 2024 파리 올림픽 개인전 시상식에서 금메달을 들어 보이는 임시현 선수의 모습. /고운호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;축사를 마친 임씨에게 학생들은 다시 한 번 박수갈채와 함성으로 화답했다. 임씨의 축사를 들은 스포츠산업학과 신입생 김민서(19)씨는 “평소에 임시현 선수의 팬이라 같은 학교에 입학한다는 사실이 너무 영광스럽다”며 “나도 임시현 선수처럼 대한민국의 체육 사회에 큰 기여를 할 수 있는 학생이 되고 싶다”고 했다.&lt;br&gt;&lt;br&gt;축사 이후 무대 아래로 내려온 임씨는 본지와의 인터뷰에서 “개인적으로도 각종 대회에 출전할 때 두려움이 컸지만, 잃을 게 없는 후배들인 만큼 도전하기에 가장 좋은 시기라는 뜻을 이번 기회에 전하고 싶었다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>경찰, 야밤에 도끼로 가로수 내려친 70대 남성 체포</title>
-      <link>https://www.chosun.com/national/national_general/2025/02/28/2H3WTDVRSFA37KVJHIT7PH3BZE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/02/28/2H3WTDVRSFA37KVJHIT7PH3BZE/</guid>
-      <dc:creator>김병권 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 28 Feb 2025 03:55:54 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DOXPPDA5VNBZ7IQOU2CTBNN5PI.jfif"&gt;&lt;figcaption&gt;&lt;small&gt;서울 강동경찰서/조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;새벽에 도끼를 들고 길거리를 배회하다 가로수를 내리친 남성이 경찰에 검거됐다.&lt;br&gt;&lt;br&gt;서울 강동경찰서는 70대 남성 A씨를 현행범으로 체포해 조사 중이라고 28일 밝혔다. &lt;br&gt;&lt;br&gt;A씨는 본인의 집 주변인 서울 강동구 암사동의 한 거리에서 이날 새벽 12시 30분쯤 손도끼를 들고 배회하다 가로수를 내리친 혐의를 받는다.&lt;br&gt;&lt;br&gt;흉기를 들고 돌아다니는 남성이 있다는 신고를 받고 출동한 경찰은 현장에서 A씨를 체포했다. A씨는 경찰 조사에서 “집에서 장작을 패던 중에 도끼를 들고 커피를 사러 자판기에 갔다가 가로수가 보이길래 내려치게 됐다”고 진술했다고 한다. &lt;br&gt;&lt;br&gt;A씨를 조사한 후 귀가시킨 경찰은 그를 재물손괴 혐의로 입건할지 여부를 검토 중이다. 범행 당시 A씨는 음주나 마약을 한 상황은 아니었고, 사람한테 위해를 가하지도 않았다고 한다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/DOXPPDA5VNBZ7IQOU2CTBNN5PI.jfif?width=768&amp;height=512&amp;auth=c97829dfb446de13ae05b803b1e0052e1631316d3496159c3edd5ff945da8e6c&amp;smart=true" type="image/jpeg" height="512" width="768">
-        <media:description type="plain">서울 강동경찰서/조선DB</media:description>
-      </media:content>
-    </item>
-    <item>
       <title>코인 거래 유인한 뒤 3000만원 빼앗아 달아난 중국인 남성 2명 체포 </title>
       <link>https://www.chosun.com/national/incident/2025/02/28/O75J6C2MDVGTLPNZTP4LVQFMC4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/02/28/O75J6C2MDVGTLPNZTP4LVQFMC4/</guid>
@@ -950,24 +1011,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/N5BGHLJ7INCJFHGRI7COETXTW4.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초동 대법원 건물./이명원 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;형사재판에서 판사가 재판 도중 바뀔 경우 밟는 공판 갱신 절차가 간소해지게 됐다. 그동안 공판을 갱신하게 되면 새 재판부가 이전 공판의 녹음 파일을 듣느라 재판이 지연되는 일이 잦았는데, 새 규칙 하에서는 녹취서를 열람하는 것만으로 대체할 수 있게 됐다.&lt;br&gt;&lt;br&gt;대법원은 28일 전자관보를 통해 이같은 내용이 담긴 형사소송규칙 일부 개정안을 공포했다. 지난 20일 대법관회의에서 의결된 해당 규칙은 공포 즉시 시행된다. 이에 따라 현재 법원에서 진행 중인 모든 형사 사건에 적용된다. 이번에 재판장 교체로 갱신 절차를 밟아야 하는 이재명 더불어민주당 대표의 ‘대장동·위례·성남FC·백현동’ 사건도 적용 대상이다.&lt;br&gt;&lt;br&gt;이번 개정안의 핵심은 재판의 갱신 절차를 규정하고 있는 144조다. 해당 조항에는 “녹음물에 대한 녹취서가 있으면 그 녹취서를 조사하는 것으로 증거조사를 갈음할 수 있다”는 단서 조항이 신설됐다. 기존에는 피고인이 새 재판부에게 녹취록을 들어달라고 요구하면 이전에 진행된 증인 진술 녹취 파일을 전부 다 재생해야 했다. ‘재판 지연’을 노리고 고의적으로 이를 악용하는 사례도 적지 않았다.&lt;br&gt;&lt;br&gt;만약 녹취서를 조사할 때 검사나 피고인, 변호인이 녹취서의 기재가 녹음물의 내용과 불일치한다고 이의를 제기할 경우엔 녹음물의 일부를 청취할 수 있도록 했다.&lt;br&gt;&lt;br&gt;형사소송규칙 개정안은 또 검사와 피고인들의 불필요한 증거 신청을 받아주지 않을 수 있는 근거 규정도 신설했다. 규칙 132조 단서에 “검사, 피고인 또는 변호인은 증명에 관련되고 필요한 증거만을 선별해 신청해야 한다”, “법원은 이를 위반하거나 재판에 부당한 지연을 초래하는 증거 신청을 기각할 수 있다”고 추가했다.&lt;br&gt;&lt;br&gt;윤석열 대통령 탄핵심판을 진행하고 있는 헌법재판소도 이번 개정 규칙을 적용할 수 있다. 헌법재판소법에 따르면 탄핵심판의 경우, 형사소송법규를 준용하게 돼 있기 때문이다. 만약 마은혁 헌재 재판관 후보자가 임명돼 윤 대통령 탄핵심판에 합류하게 될 경우, 간소화된 갱신 절차를 따르면 11차례 이뤄진 변론의 녹음을 일일이 듣지 않아도 된다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>내일부터 종로구 북촌 관광시간 제한…어기면 과태료 10만원</title>
-      <link>https://www.chosun.com/national/national_general/2025/02/28/RLPKGMYX65FPLI6RQDVWHWO2OU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/02/28/RLPKGMYX65FPLI6RQDVWHWO2OU/</guid>
-      <dc:creator>김영우 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 28 Feb 2025 01:50:43 +0000</pubDate>
-      <content:encoded>서울 종로구가 3월부터 북촌한옥마을 ‘방문 시간 제한 정책’을 본격적으로 시행하고 과태료 부과에 나선다고 28일 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HS7Q2G7G5ZDCFMCHC7SFH5QEE4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난해 11월 1일 서울 종로구 북촌한옥마을에 관광객 야간 출입통제를 알리는 안내문이 게시되어 있다. 종로구는 북촌 주민들의 정주권 보호와 올바른 관광문화의 정착을 위해 이날부터 관광객의 심야 출입을 제한했다. 3월부터는 과태료 10만원이 부과된다. /박상훈 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;종로구는 주민 불편을 이유로 앞서 지난해 7월 북촌한옥마을 일대의 관광 시간을 제한하겠다고 발표했다. 이어 지난해 11월부터 4개월간 시범 운영을 진행했고, 3월부터는 단속을 실시해 과태료 부과에 나서게 된다.&lt;br&gt;&lt;br&gt;관광객의 방문 시간이 제한되는 곳은 주거용 한옥이 많고 관광객이 가장 많이 몰리는 북촌로11길 일대다. 종로구는 이곳을 ‘레드존’이라 이름 붙이고, 오전 10시부터 오후 5시까지만 관광객의 방문을 허용하기로 했다.&lt;br&gt;&lt;br&gt;오후 5시 이후 레드존에 들어가 사진이나 영상을 찍고, 마을을 구경하면서 돌아다니는 등 관광을 하는 사람에게 과태료 10만원을 부과한다.&lt;br&gt;&lt;br&gt;종로구 관계자는 “단속 전담 공무원이 1번은 경고를 주고, 그 후에도 나가지 않으면 과태료를 부과할 예정”이라고 말했다.&lt;br&gt;&lt;br&gt;다만 상인들의 영업 피해 최소화와 관광객의 편의를 위해 상점 이용객이나 투숙객 등은 출입을 허용하기로 했다.&lt;br&gt;&lt;br&gt;정문헌 종로구청장은 “이번 제도를 통해 북촌 주민들이 더 안정적인 일상을 누릴 수 있길 바란다”며 “관광객들도 올바른 관광 문화를 실천하길 기대한다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>제주항공 참사 허위사실 영상 유포 60대 유튜버 구속</title>
-      <link>https://www.chosun.com/national/2025/02/28/EZJ7WVQBMBAALC7SLAAA3225GM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2025/02/28/EZJ7WVQBMBAALC7SLAAA3225GM/</guid>
-      <dc:creator>박주영 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 28 Feb 2025 01:59:05 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/M6YCUZZI6RCRZCIVKDF44A2EHA.png"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 30일 전남 무안 국제공항 대합실. '제주항공 참사' 유족들이 흐느껴 울고 있다. /신현종 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5AG3W4UWZ5DYPHLI65Q3OTPSIA.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=김하경&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제주항공 여객기 사고 관련 허위사실 유포에 대해 수사 중인 부산경찰청 사이버수사과는 “가짜 뉴스 영상을 올려 허위사실을 유포해 명예를 훼손한 혐의(정보통신망법, 전기통신기본법 위반)로 60대 A씨를 구속하고 70대 B씨를 불구속 입건했다”고 28일 밝혔다.&lt;br&gt;&lt;br&gt;경찰에 따르면 A씨 등은 지난해 12월 30일부터 올해 1월 21일까지 “무안공항 참사 사고와 관련한 사진이나 동영상은 모두 가짜이고 컴퓨터 그래픽”이라고 주장하는 동영상을 유튜브 등 플랫폼에 100여 차례 올린 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;이들은 “비행기 잔해는 소품이다. 유가족들은 실제 유족이 아니다. 사고 보험금 때문에 거짓으로 만들어 낸 사건이다”는 허위 주장 등을 온라인상에 배포한 혐의도 받고 있다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “A씨 등은 제보로 자신들의 유튜브 계정이 폐쇄되면 다시 다른 유튜브 채널을 개설, 계속해서 허위사실이 담긴 동영상을 유포하는 수법으로 범행을 계속 이어왔다”고 말했다.&lt;br&gt;&lt;br&gt;A씨는 지난 1월 초 수사 착수 후 혐의 내용에 대한 조사를 거쳐 경찰에 의해 사전구속영장이 신청됐으나 영장실질심사에 출석하지 않고 달아났다. 경찰은 이에 추가로 구속영장을 발부받아 추적에 나서 지난 26일 서울 은평구에 은신 중인 A씨를 검거했다.&lt;br&gt;&lt;br&gt;경찰청은 지난 1월 초 희생자 유족 측에서 제주항공 참사 가짜 뉴스 영상 게시 등에 대해 전남경찰청에 고소장을 내자 각 지방경찰청을 통해 수사를 시작했다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>여의도순복음교회, 연세대에 발전기금 30억원 기부</title>
       <link>https://www.chosun.com/national/people/2025/02/28/DFWHZWW6NNHIDKXPWGFVKJGBLA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/people/2025/02/28/DFWHZWW6NNHIDKXPWGFVKJGBLA/</guid>
@@ -975,58 +1018,6 @@
       <description/>
       <pubDate>Fri, 28 Feb 2025 02:11:55 +0000</pubDate>
       <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SLXFWEUIKFH4PPYRM72K3VEVWU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;여의도순복음교회 이영훈 담임목사(왼쪽), 연세대학교 윤동섭 총장(오른쪽)/연세대&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;연세대학교는 여의도순복음교회로부터 연세발전기금 30억원을 기부받았다고 27일 밝혔다. 기부금 전달식은 이날 오전 10시 연세대 총장실 부속회의실에서 열렸으며, 여의도순복음교회 이영훈 담임목사와 안병광 장로회장이 참석했다.&lt;br&gt;&lt;br&gt;연세발전기금은 학교의 다양한 교육·연구·사회공헌 사업을 지원하는 핵심 재원으로, 이번 기부금은 기독교적 가치관을 바탕으로 양자 컴퓨팅 및 인공지능(AI) 등 초학제적 첨단 융합 연구 지원에 활용될 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>중증질환연합회 “의대 증원 원점 논의는 밀실야합…있을 수 없는 일”</title>
-      <link>https://www.chosun.com/national/welfare-medical/2025/02/28/4ZBJEEANDFDZFHRUKDNABILE5M/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/02/28/4ZBJEEANDFDZFHRUKDNABILE5M/</guid>
-      <dc:creator>오경묵 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 28 Feb 2025 01:09:43 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AILP6F3WURJKBJGVY4IGXD6BJI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울의 한 대형병원 응급실로 환자가 들어가고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한국중증질환연합회는 28일 “2026년 의대 입학 정원 원점 논의라는 교육부의 밀실야합 논란은 있을 수 없는 일”이라고 비판했다.&lt;br&gt;&lt;br&gt;연합회는 이날 논평을 내 “교육부는 보건복지부와 합의되지 않은 의대 학장들과의 의대 정원 백지화 논의 과정을 명백히 밝히고, 논란에 대해 사과하라”고 했다.&lt;br&gt;&lt;br&gt;앞서 이주호 부총리 겸 교육부 장관은 최근 의협 이사진과 비공식적으로 만나 “의협이 의대 학장들이 요구하는 ‘3058명’ 동결안을 수용하면 정부도 힘을 싣겠다”고 말했다고 한다. 24일 의대 학장단 간담회에서도 “의대 학장들이 의대생 복귀를 책임지고 설득한다면, 정부도 ‘3058명’ 동결안을 받아들일 수 있다”는 취지의 뜻을 전한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;연합회는 “정부의 안일한 의료개혁 의지가 논란을 야기시킨 것”이라며 “정부는 의료개혁 의지를 확고히 밝혀야 한다”고 했다.&lt;br&gt;&lt;br&gt;그러면서 “지난 1년간 의미없는 의정 갈등을 보면서도 중증 질환자들이 모진 목숨을 버텨 온 것은 환자와 국민들을 위한 의료개혁을 진행하겠다는 정부의 진정성을 믿었기 때문”이라며 “교육부의 무책임한 태도로 지난 1년간의 희생이 물거품이 될까 두렵다”고 했다.&lt;br&gt;&lt;br&gt;연합회는 “정부와 의료계, 정치권은 소모적 갈등을 멈추고 환자의 고통을 해소할 실질적 대책을 마련해야 한다”며 “정부와 정치권 등은 성과 없는 의료인력추계위원회에만 시간을 할애하지 말고 환자피해조사기구도 법제화해 의료공백 선결을 최우선 과제로 삼아야 한다”고 했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>오세훈 “올림픽, 균형발전 논리로는 유치 어려워…서울이 돼야”</title>
-      <link>https://www.chosun.com/national/national_general/2025/02/28/H7SKOJEOY5AQ3KI2VEXS2XYSWI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/02/28/H7SKOJEOY5AQ3KI2VEXS2XYSWI/</guid>
-      <dc:creator>김영우 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 28 Feb 2025 01:03:20 +0000</pubDate>
-      <content:encoded>오세훈 서울시장이 28일 2036 하계 올림픽 국내 유치 후보지 선정과 관련해 “국내에서 균형 발전이 필요하다는 논리론 국제올림픽위원회(IOC)나 다른 나라를 설득하기 어렵다”며 “서울이 개최권을 따와야 한다”고 말했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7MSY4CUZOBLSFKDRUMR4ZQBUHQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;오세훈 서울시장. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;오 시장은 이날 YTN라디오 ‘뉴스파이팅, 김영수입니다’ 전화 인터뷰에서 이같이 말했다. 오 시장은 “서울이 개최권을 따 지방 발전을 위해 몇 종목씩 분산 개최하는 것은 가능하고 바람직하다”고 덧붙였다.&lt;br&gt;&lt;br&gt;대한체육회는 이날 오후 대의원 총회에서 2036년 하계 올림픽 국내 유치 후보지를 결정한다. 오 시장은 이날 투표를 앞두고 열리는 최종 발표(PT)에 발표자로 나설 예정이다.&lt;br&gt;&lt;br&gt;오 시장은 “서울시가 가장 잘 준비된 도시라는 것을 어필하겠다”며 “잠실 일대는 마이스(MICE) 리모델링에 이미 들어가 2031년까지 새단장된다. IOC가 판단하는 데 이런 점이 장점이 될 것”이라고 했다.&lt;br&gt;&lt;br&gt;조기 대선 출마 여부를 묻는 질문에는 “헌법재판소 결정이 내려지기 전에 말씀드리는 것은 도리가 아니라 자제하고 있다”면서도 “너무 촉박한 대선 일정이 벌어지니 미리 마음의 준비와 생각 정리는 하고 있어야 한다”고 했다.&lt;br&gt;&lt;br&gt;정치 브로커 명태균씨에 관한 의혹에 대해서는 ‘후원자로 알려진 사업가 김한정씨가 명씨에게 돈을 준지도 몰랐고, 명씨의 미공표 여론조사를 받은 적도 없다’는 취지로 말했다.&lt;br&gt;&lt;br&gt;오 시장은 “검찰 수사가 시작됐으니 (김씨가) 대납한 건지, 명태균한테 사기를 당한 건지는 수사 결과로 밝혀질 것”이라고 했다.&lt;br&gt;&lt;br&gt;지난 27일 더불어민주당 주도로 국회 본회의에서 명태균 특검법이 통과된 것에 대해선 “특검을 하면 시간이 또 걸린다”며 “조기 대선 중에 명태균의 ‘아무 말 대잔치’로 대선 정국을 흐리겠다는 의도”라고 했다.&lt;br&gt;&lt;br&gt;국민의힘 한동훈 전 대표의 정치 활동 재개 움직임을 두고는 “그분이 나라 경영에 대한 숙성된 비전이 있다면 당연히 당내 경선에 들어와서 함께 경쟁하는 건 나쁠 게 없다”고 했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>여당 현역 의원 아들, 서울 한복판서 마약 ‘던지기’ 받으려다 적발</title>
-      <link>https://www.chosun.com/national/national_general/2025/02/28/DGPZ3RASNNFPLOTOEGAW5QNO5Y/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/02/28/DGPZ3RASNNFPLOTOEGAW5QNO5Y/</guid>
-      <dc:creator>김병권 기자, 안태민 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 28 Feb 2025 00:45:19 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/U4QQHTGFOWPSSP5QTBPQA6UJOQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초경찰서/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;여당 현역 국회의원의 아들이 서울 서초구 주택가에서 ‘던지기’ 수법으로 액상 대마를 받으려다가 적발돼 경찰 수사를 받고 있다. 던지기란 판매자가 마약류를 특정 장소에 숨기고 구매하는 사람이 이를 수거하는 거래 방식이다.&lt;br&gt;&lt;br&gt;서울 서초경찰서는 30대 A씨를 마약류관리법 위반 혐의(대마 수수 미수)로 입건해 불구속 수사 중이라고 28일 밝혔다. A씨는 지난해 10월 서울 서초구의 한 건물 화단에서 액상 대마 약 5g를 받으려다가 미수에 그친 혐의를 받는다.&lt;br&gt;&lt;br&gt;당시 경찰은 “수상한 사람들이 건물 화단에서 마약을 찾는 것 같다”는 신고를 받고 출동했다. 현장에서 10mL 크기의 통에 들어 있는 액상 대마를 발견한 경찰은 이미 현장을 떠난 이들을 특정하고 추적했다고 한다. 이후 A씨는 남성과 여성 등 지인 두 명과 함께 발견됐는데, 이들은 사회생활을 하며 만난 친구 사이인 것으로 전해졌다. &lt;br&gt;&lt;br&gt;A씨 등은 경찰 조사에서 “지인에게 대마를 구하고 싶으니 이를 숨겨둔 곳을 알려달라고 해서 현장에 갔지만 찾지 못했다”고 주장한 걸로 알려졌다. 이들은 적발 당시 경찰이 시행한 마약 검사에선 음성이 나왔다고 한다. A씨는 과거에도 대마를 흡입한 혐의로 처벌받은 전력이 있다고 전해졌다. &lt;br&gt;&lt;br&gt;경찰은 A씨 일행 외에 액상 대마의 위치를 알려준 지인 등 관련자도 조사하는 한편, A씨 등에게 추가 혐의가 있는지도 들여다보고 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/U4QQHTGFOWPSSP5QTBPQA6UJOQ.jpg?width=3386&amp;height=1905&amp;auth=ee16c07c42ff29c842bdf88015a25faff1bcee865d76cc368d5552e638842809&amp;smart=true" type="image/jpeg" height="1905" width="3386">
-        <media:description type="plain">서울 서초경찰서/뉴스1</media:description>
-      </media:content>
-    </item>
-    <item>
-      <title>8명으로 가능한데… 9인 체제로 尹탄핵심판 땐 후폭풍 거셀 듯</title>
-      <link>https://www.chosun.com/national/court_law/2025/02/28/CDNLVDLLH5C33EQQLVOC5AJ264/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/02/28/CDNLVDLLH5C33EQQLVOC5AJ264/</guid>
-      <dc:creator>방극렬 기자, 양승식 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 27 Feb 2025 15:55:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/62WJZHSZVJGLPPCDINIKYVGVBQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;문형배 헌법재판소장 권한대행을 비롯한 헌법재판관들이 27일 오전 서울 종로구 헌법재판소 대심판정에서 열린 마은혁 재판관 후보자의 임명 보류 관련 권한쟁의 심판 등 사건 선고 기일에 참석하고 있다. /박성원 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;27일 헌법재판소의 마은혁 헌법재판관 후보자 권한쟁의 사건 결정 요지는 크게 두 가지다. 하나는 최상목 대통령 권한대행이 마 후보자의 임명을 보류해 국회의 재판관 선출권과 헌재 구성권 등을 침해했다는 것이다. 다른 하나는 마 후보자에게 재판관 지위를 부여하는 것은 헌재의 권한 밖이라 결정할 수 없다는 것이다.&lt;br&gt;&lt;br&gt;다만 헌재는 “헌재법은 권한쟁의 청구가 인용되면, 피청구인은 헌재의 결정 취지에 따른 처분을 해야 한다고 규정한다”고 덧붙였다. 사실상 최 권한대행에게 마 후보자 임명을 권고한 것이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TWWUNIRBKNGTLPQT7LSQUDBON4.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=백형선&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;법조계와 정치권에서는 “대통령 탄핵심판 선고를 앞두고 있는 헌재가 공석인 재판관을 충원하겠다는 목적으로 정치적·법리적으로 무리한 결정을 내렸다”는 지적이 나왔다. 최 권한대행이 마 후보자를 임명할 경우, 마 후보자가 윤석열 대통령 탄핵심판에 참여할지, 선고 시기와 결과에 어떤 영향을 미칠지 등을 두고 논란이 커질 수밖에 없다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇’정치 편향’ 馬 재판관 임명 적정한가 &lt;/b&gt;&lt;br&gt;&lt;br&gt;민주당이 선출한 마 후보자의 임명을 두고 윤 대통령 측과 국민의힘이 반발하는 이유는 마 후보자가 그동안 진보적 성향을 뚜렷하게 드러내 왔기 때문이다. 우리법연구회 소속인 그는 과거 사회주의 노동운동 조직인 인민노련에서 활동했고, 판사 시절인 2009년 노회찬 전 민노당 의원에게 후원금을 낸 사실도 드러났다. 같은 해 국회의사당을 점거한 민노당 보좌진 12명에 대해 공소 기각 판결을 내리기도 했다. 이 판결은 상급심에서 파기돼 유죄가 확정됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JFKLHET5TJHWRP6EUDXVHQXNYQ.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=김성규&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;법조계에서는 “정치적 다양성을 감안하더라도 마 후보자는 공정한 판결을 기대하기 어려울 만큼 한쪽으로 치우친 인물”이라는 평가가 나온다. 헌법연구원 출신 한 법학전문대학원 교수는 “대통령 탄핵심판 등 민감한 사건 처리를 앞둔 시기에 정치적으로 편향된 인물을 임명하라고 결정해 헌재 자체가 ‘정치 편향’ 논란에서 벗어날 수 없게 됐다”고 했다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇’여야 합의’ 없어도 괜찮다는 헌재&lt;/b&gt;&lt;br&gt;&lt;br&gt;최 권한대행 측은 재판 과정에서 마 후보자 추천 과정에 ‘여야 합의가 없었다’는 점을 강조했다. 보통 국회 몫 재판관은 여당 1명, 야당 1명, 여야 합의로 1명을 추천하는데, 민주당이 일방적으로 2명을 선출했다는 것이다. 실제 국민의힘은 민주당이 주도한 인사 청문회와 선출 표결 절차에 참여하지 않았다.&lt;br&gt;&lt;br&gt;이날 헌재는 “각 정당이 추천한 후보자에 대해 다른 정당이 합의를 해야 선출한다는 관행은 없던 것으로 보인다”며 “국회가 의회 민주주의 원칙에 따른 절차를 위반했다고 보기 어렵다”고 했다. 여야 합의가 꼭 필요한 전제 조건이 아니라고 본 것이다. 이에 대해 나경원 국민의힘 의원은 “국회의 재판관 선출 관행을 제대로 이해하지 못한 결정”이라며 “다수결 만능주의의 만행을 추인한 꼴”이라고 비판했다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇尹측 “馬, 대통령 탄핵심판 참여 안 돼“&lt;/b&gt;&lt;br&gt;&lt;br&gt;법조계 일각에서는 헌재가 윤 대통령 탄핵심판에 마 후보자를 끼워넣기 위해 임명을 압박한 것 아니냐는 분석도 나온다. 탄핵심판은 6명 이상이 찬성해야 인용이 가능하기 때문에 탄핵 기각을 막기 위해 진보 성향의 마 후보자를 충원하려고 한다는 것이다. 최근 이진숙 방통위원장 탄핵 사건에서 찬반 의견이 4대4로 갈렸기 때문에 마 후보자의 재판 참여는 민감할 수밖에 없다.&lt;br&gt;&lt;br&gt;고법 부장 출신 한 변호사는 “탄핵 반대 여론이 높아지자 헌재가 탄핵을 인용할 수 있는 확실한 카드를 확보하려고 서두르는 것 아니냐”며 “무리해서 ‘9인 체제’를 만들어 대통령 탄핵 선고를 하면 후폭풍이 만만찮을 것”이라고 말했다. 윤 대통령 측은 이날 “헌재의 결정은 대통령 탄핵 정족수를 확보하기 위한 하명 결정”이라며 “공정성과 정치적 중립성이 담보돼야 할 재판관을 특정 성향에 강하게 경도된 후보자로 임명하려 하는 것”이라고 했다.&lt;br&gt;&lt;br&gt;마 후보자 논란에 대해 헌재는 “임명된 재판관은 선출권자가 누구였는지에 구애되지 않고 헌법과 법률에 의해 양심에 따라 독립해 심판한다”고 선을 그었다. 헌재가 마 후보자를 윤 대통령 탄핵심판에 참여시키려면 종결된 재판을 재개하고 갱신 절차 등을 거쳐야 한다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇최상목, 馬 곧바로 임명하진 않을 듯&lt;/b&gt;&lt;br&gt;&lt;br&gt;최 권한대행은 이날 헌재 결정과 달리 마 후보자를 곧바로 임명하지는 않을 것으로 알려졌다. 정부 관계자는 “최 권한대행은 헌재 의견을 존중한다는 입장”이라면서도 “다만 대통령 탄핵 심판을 앞두고 국론이 분열돼 있어 국무위원 등 여러 의견을 충분히 들을 것”이라고 했다. 최 권한대행은 헌재 결정문과 권한대행의 지위·의무 등에 대한 검토를 거쳐 임명 문제를 매듭지을 것으로 알려졌다.&lt;br&gt;&lt;br&gt;탄핵소추로 직무가 정지된 한덕수 국무총리의 복귀 가능성도 변수다. 한 총리 탄핵 사건은 지난 19일 변론이 종결돼 조만간 선고가 내려질 것으로 보인다. 정부 소식통은 “조만간 탄핵안이 기각돼 한 총리가 직무에 복귀할 가능성이 없지 않아 최 권한대행이 마 후보자 임명을 서두르지 않을 수도 있다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/62WJZHSZVJGLPPCDINIKYVGVBQ.jpg?width=5963&amp;height=3424&amp;auth=cd5f5c622358c04f92b05294f547635f3bb0ca4c559761c5feffaa05e7ab9e68&amp;smart=true" type="image/jpeg" height="3424" width="5963">
-        <media:description type="plain">문형배 헌법재판소장 권한대행을 비롯한 헌법재판관들이 27일 오전 서울 종로구 헌법재판소에서 열린 우원식 국회의장이 최상목 대통령 권한대행 부총리 겸 기획재정부 장관을 상대로 낸 마은혁 후보자의 임명 보류 관련 권한쟁의심판 등 사건에 참석하고 있다./박성원 기자</media:description>
-        <media:credit role="author" scheme="urn:ebu"/>
-      </media:content>
-    </item>
-    <item>
-      <title>지리산 반달가슴곰 100마리 넘는다는데… 60%는 위치추적 안 돼</title>
-      <link>https://www.chosun.com/national/transport-environment/2025/02/28/4OCVK3W47JFCNKBKY4R5CLANOQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/02/28/4OCVK3W47JFCNKBKY4R5CLANOQ/</guid>
-      <dc:creator>박상현 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 27 Feb 2025 15:53:00 +0000</pubDate>
-      <content:encoded>올봄 지리산 야생 반달가슴곰 개체 수가 100마리를 넘어설 것으로 전망된다. 그러나 위치 추적이 가능한 반달가슴곰은 지금도 채 절반이 되지 않아 곰이 겨울잠에서 깨는 봄을 앞두고 안전 대책이 필요하다는 지적이 나온다.&lt;br&gt;&lt;br&gt;27일 환경부에 따르면, 현재 반달가슴곰은 지리산과 덕유산에 각각 90마리, 3마리씩 총 93마리가 살고 있는 것으로 파악됐다. 이 중 위치 추적이 안 되는 곰은 총 54마리(58%)다. 10마리 중 6마리는 위치를 모른다는 것이다. &lt;br&gt;&lt;br&gt;위치 추적기가 부착된 반달가슴곰 중 두 마리는 겨울잠에서 잠시 깨 활동하다가 다시 잠에 들어간 것으로 확인됐다. 곰은 주로 굴에서 겨울잠을 자는데, ‘얕은 잠’이라서 환경 변화에 따라 자고 깨고를 반복한다. 특히 뱃속에 새끼를 품은 암컷은 동면 기간 중 출산해 잠과 육아를 병행한다. 이에 움직임이 확인된 두 마리 곰은 새끼를 낳았을 가능성이 큰 것으로 전문가들은 보고 있다. 곰은 보통 한 번에 1~2마리의 새끼를 낳는다. &lt;br&gt;&lt;br&gt;반달가슴곰 복원 사업은 2004년부터 시작됐다. 당초 2020년까지 50마리가 목표였으나 2018년 이미 56마리까지 늘어났다. 지리산 내 먹이 자원과 서식 위협 요인 등을 고려한 반달가슴곰 개체 수는 적정선이 64마리, 최대 78마리다. 이미 포화 상태라 반달가슴곰은 지리산 인근 덕유산·가야산 일대로 서식지를 넓히고 있다. 종 복원을 위해 인간 손에서 길러져 야생으로 간 1세대 곰과 ‘번식의 열쇠’였던 2세대 곰까지는 위치 추적을 통해 관리를 해왔으나, 이후 자연에서 태어난 3·4세대 곰은 위치 추적이 사실상 어려운 상황이다. &lt;br&gt;&lt;br&gt;반달가슴곰이 늘어나면서 환경부는 복원 방향을 ‘번식’에서 ‘서식지 관리’로 전환한 상태다. 번식에 더 이상 인위적 개입 없이 곰 서식지가 어디까지 넓어졌는지 파악해 관리하겠다는 것이다. 환경부는 더 이상 반달곰 개체 수를 공개하지 않는 방안도 검토 중인 것으로 알려졌다.&lt;br&gt;&lt;br&gt;환경부 조사에서 반달가슴곰이 등산로 반경 20m까지 접근해 머문 비율은 0.8%, 200m는 9.8%, 500m 이상 떨어져 활동한 건 89%로 등산로에서 곰과 마주칠 확률은 1%가 채 안 된다. 다만 곰 개체 수가 빠르게 늘어나는 만큼 곰과 인간의 안전한 공존을 위해서는 관리가 필요하다는 지적이 제기된다. 곰이 구애 활동을 시작하는 5월까지 위치 추적 등 안전 대책을 세워야 한다는 것이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
