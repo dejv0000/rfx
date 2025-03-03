@@ -13,6 +13,33 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>“학생들은 공부나 하라고요?”...尹 탄핵 반대 청소년 80여명, 광화문 광장에서 시국선언</title>
+      <link>https://www.chosun.com/national/national_general/2025/03/03/JCE3PNOOTJDGPH2USINMNKIC24/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/03/03/JCE3PNOOTJDGPH2USINMNKIC24/</guid>
+      <dc:creator>장윤 기자, 양인성 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 03 Mar 2025 09:51:38 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NVLJ6XEIOJCGPEGHZI56C6G7TM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;3일 오후 광화문광장 이순신 동상 앞에서 전국탄핵반대청소년연합 소속 청소년 80여명이 시국선언을 진행하고 있다./양인성 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;3일 오후 5시 광화문광장 이순신 동상 앞에서 전국탄핵반대청소년연합 소속 청소년 80여명이 시국선언을 진행했다. 이들은 “‘학생들은 이런 일에 나서지 말고 공부나 하라’고 하시는데, 오늘 우리가 침묵한다면 내일 우리가 살아갈 대한민국은 법과 질서가 무너진 혼란 상태일 것”이라고 했다.&lt;br&gt;&lt;br&gt;청소년들은 애국가 제창과 국기에 대한 경례로 집회를 시작했다. 이들은 ‘대통령님 이제는 10대가 지키겠습니다’ ‘부정선거 수사하라! 불법탄핵 각하하라’ ‘나는 공산당이 싫어요’ ‘부정선거 가짜국회’ 등의 문구가 적힌 손팻말을 들었다. 기자회견을 진행하는 청소년들 외에도 이들을 응원하러 온 시민 300명(경찰 비공식 추산)이 광화문광장에 모여 태극기를 흔들며 “우리 청소년들 장하다” “멋지게 크고 있다”고 외쳤다.&lt;br&gt;&lt;br&gt;발언자로 마이크를 잡은 A군은 “우리나라의 미래가 걸린 위기 앞에서 대한민국을 지키겠다는 목소리를 내는 게 잘못됐냐”며 “이 나라의 미래는 청소년인 우리에게 달려 있는데, 오늘 우리가 침묵한다면 내일 우리가 살아갈 대한민국은 법과 질서가 무너진 채 혼란에 빠질 것”이라고 했다. A군은 “두렵지만 대한민국을 사랑하는 마음으로 이 자리에 섰다”고 말했다.&lt;br&gt;&lt;br&gt;“조선과 석유화학 공단이 있는 대한민국의 산업수도 울산에서 왔다”는 발언자 B군은 “작년 12월에도 광화문 광장에 왔는데, 당시 탄핵 반대 집회에 온 사람들은 모두 어르신이었다”며 “그러나 시간이 지날수록 청년과 청소년 집회 참가자들이 늘어나고 있다”고 했다. B군은 “대한민국의 산업화를 이루시고 지금도 대한민국을 지키기 위해 거리에 나와 싸우시는 어르신들의 바통을 이어 받겠다”고 말했다.&lt;br&gt;&lt;br&gt;고등학교 3학년 학생이라는 발언자 C군은 “고3은 수능을 치르고 학창 생활을 매듭지을 나이라고 생각하시겠지만, 성인이 되기 전 마지막 시기이기도 하다”며 “곧 투표권을 얻고 사회생활을 시작할 텐데, 투표권을 누리기도 전에 자유를 박탈당할 수는 없다”고 했다. C군은 “민주주의의 꽃인 선거를 관리하는 선관위는 가늠할 수 없이 부패했고 ‘민주’를 당명에 단 민주당은 정작 민주주의를 파괴하고 있다”며 “민주주의를 지키고자 계엄을 선포한 대통령이 탄핵 위기에 처한 이 상황을 방관할 수 없다”고 말했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TAKA7NCTSJBVBPKG22C7IFF5T4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;3일 오후 광화문광장 이순신 동상 앞에서 전국탄핵반대청소년연합 소속 청소년 80여명이 시국선언을 진행하는 가운데 시민 300여명이 이들을 응원하고 있다./양인성 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 시국선언에 참여한 고등학교 3학년 학생 정유승(18, 서초구)군은 “탄핵 반대 집회에 참여하기까지 용기를 많이 내야 했다”고 했다. 정군은 “좌파 학생들은 ‘정의롭고 의식있는 학생’ 소리를 들으며 진작부터 촛불연대 등에서 활동했고, 이번 계엄 정국에서도 촛불과 응원봉을 들고 다니면 언론 등에서 긍정적으로 묘사됐다”라고 했다. 정군은 “그런데 우리는 극우파로 매도되거나 특정 종교와 결부되어 목소리를 내는 게 쉽지 않았다”고 말했다.&lt;br&gt;&lt;br&gt;고등학교 2학년 학생 이승길(17, 부산광역시)군은 “교사들에게 불려갈까 무섭다”며 마스크를 챙기기도 했다. 이군은 “부산에서 열린 탄핵반대 집회에서 연설을 한 적이 있는데 그 내용이 생활기록부에 들어갔다”며 “담임 선생님께서 좋게 써 주셔서 망정”이라고 했다. 이군은 “고등학교 3학년생들도 오는데 공부 핑계를 대며 집에 있을 수는 없었다”고 했다. 고등학교 3학년 학생 예승희(18, 부산광역시)군은 이날 시국선언에 참여하기 위해 숙소를 잡고 전날 서울에 왔다고 한다. 예군은 “집이 멀어 서울로 집회는 처음 왔다”면서 “그간 한남동, 광화문에 오고 싶었는데 이미 여론이 뒤집히고 윤 대통령의 지지율이 반등한 다음에야 서울에 와 아쉽다”고 했다.&lt;br&gt;&lt;br&gt;고등학교 2학년 학생 유은혜(18, 경기 성남시)양은 “내일이면 개학이지만 나라가 살아야 나도 공부를 할 수 있다는 생각으로 광화문에 왔다”고 했다. 유양은 “거주지인 성남시는 이재명 민주당 대표가 오래 시장을 역임했던 지역으로, 친민주당 색이 강하다”며 “계엄 직후 주변인들이 모두 윤 대통령을 조롱하는 게 싫었지만 내 정치적 의견을 쉽게 말할 수 없었다”고 말했다. 유튜브 쇼츠에서 전국탄핵반대청소년연합을 알게 됐다는 유양은 “중고등학생이 정치 단체를 만들어 목소리를 내는게 놀랍다”며 “나도 생각만 했지 실행은 못 했는데, 쇼츠를 보자마자 단톡방에 들어갔다”며 시국선언 참여 계기를 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>구미 공장 화재, 6시간만에 완진…13억 재산 피해</title>
+      <link>https://www.chosun.com/national/incident/2025/03/03/GGMPPVJJ4BBWZL6T3SA2A77JBM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/03/03/GGMPPVJJ4BBWZL6T3SA2A77JBM/</guid>
+      <dc:creator>이승규 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 03 Mar 2025 09:08:13 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QOQPRTHOFXIGB4LHRH5QSKZXOI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;3일 오전 6시쯤 경북 구미시 공단동의 한 공장에서 화재가 발생했다./경북소방본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경북 구미의 한 공장에서 불이 나 13억 상당의 재산 피해가 발생했다.&lt;br&gt;&lt;br&gt;3일 오전 6시쯤 구미시 공단동의 한 식품용기 제조 공장에서 불이 나 452평(1497㎡)규모의 공장 1개동이 모두 탔다. 공장 내부 기계와 비품 등도 화재 피해를 입었다. 인접한 공장 2곳에도 불길이 번져 부분적으로 불에 타거나 그을렸다.&lt;br&gt;&lt;br&gt;불은 6시간만인 이날 낮 12시쯤 모두 꺼졌다. 소방당국은 “이 불로 13억원 상당의 재산 피해가 발생했다”고 말했다. 화재 당시 휴일이라 공장에 사람이 없어 인명 피해는 발생하지 않았다. &lt;br&gt;&lt;br&gt;한때 불길이 커지면서 관할 소방서 인력과 장비가 모두 현장으로 출동하는 대응 1단계가 발령되기도 했다. 경찰과 소방당국은 합동 감식을 통해 정확한 화재 원인을 조사할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>전봇대 쓰러지고 간판 날리고…부산 강풍 피해 잇따라</title>
+      <link>https://www.chosun.com/national/regional/yeongnam/2025/03/03/GCZ7CJQW2ZEOLALCQ6NUZCXLWM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/yeongnam/2025/03/03/GCZ7CJQW2ZEOLALCQ6NUZCXLWM/</guid>
+      <dc:creator>박주영 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 03 Mar 2025 08:41:46 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MM34XXG6KNAU5G3A3VCY3PHI2A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;3일 오전 8시44분쯤 부산 해운대구 재송동 한 사찰 인근 가로수가 강풍에 쓰러졌다./부산소방재난본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;3일 부산에 최대 순간 풍속 25.1m/s(남구)의 강풍이 불면서 전봇대·가로수가 쓰러지고 간판·외벽 타일이 떨어지는 등 피해가 잇따랐다.&lt;br&gt;&lt;br&gt;이날 오전 8시44분쯤 부산 해운대구 재송동 한 사찰 인근의 전봇대와 가로수가 쓰러졌고 오전 9시19분쯤 동래구 안락동 한 건물 상층부에 걸렸던 플래카드가 일부 떨어져 바람에 날렸다. &lt;br&gt;&lt;br&gt;낮 12시 19분쯤 해운대구 우동 한 도로가 신호등 이정표가 강풍에 떨어졌고 오후 1시30분쯤 영도구 봉래동3가 한 공사장의 자재가 바람에 날아갔다. &lt;br&gt;&lt;br&gt;부산소방재난본부는 “2일 오후 6시30분 이후 3일 오후 1시30분 현재까지 21건의 강풍 피해가 접수됐다”고 말했다. &lt;br&gt;&lt;br&gt;부산엔 지난 2일 오후 6시30분 이후 강풍주의보가 발효 중으로 4일까지 순간 풍속 20m/s 이상의 강한 바람이 불 것으로 예보돼 있다. 비도 내려 2일부터 3일 오후 4시 현재 17.9mm가 왔다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>금산서 지붕 수리하던 70대 추락해 숨져</title>
       <link>https://www.chosun.com/national/regional/chungcheong/2025/03/03/5WING5RFA5ESLN56CAXV52HKXE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2025/03/03/5WING5RFA5ESLN56CAXV52HKXE/</guid>
@@ -870,36 +897,6 @@
       <media:content url="https://www.chosun.com/resizer/v2/OZ55NFQ3DRGCDLE7RMUT2HWSOY.png?width=1200&amp;height=675&amp;auth=95450d7cb9a44606f59196abb7cf80246f1b175dfe04955e3cda86944bf39b96&amp;smart=true" type="image/png" height="675" width="1200">
         <media:description type="plain">그래픽=김현국</media:description>
       </media:content>
-    </item>
-    <item>
-      <title>‘녹음 또 듣기·무더기 증인’ 차단… 대법, 재판 지연 막는다</title>
-      <link>https://www.chosun.com/national/court_law/2025/03/01/LGRATS5DHRHQTBUO4ZKYROGPKY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/03/01/LGRATS5DHRHQTBUO4ZKYROGPKY/</guid>
-      <dc:creator>이슬비 기자, 김나영 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 28 Feb 2025 16:08:41 +0000</pubDate>
-      <content:encoded>대법원이 고의적 ‘재판 지연’을 막기 위해 형사소송 규칙을 일부 개정해 28일 공포했다. 이날부터 시행하고 법원에 계류된 모든 형사사건에 적용한다. 이에 따라 윤석열 대통령의 내란죄 재판과 탄핵 심판, 이재명 더불어민주당 대표의 대장동 사건 재판도 영향을 받을 것으로 보인다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PRBCQTILJFEPVGH6X6ER2UVNNI.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=정인성&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;개정된 형사소송 규칙의 핵심 내용은 크게 세 가지다. 재판부가 교체됐을 때 갱신 절차를 간소화하고, 무분별한 증거나 증인 신청을 못 하게 했다. 또 음성·영상 자료를 증거로 조사할 때는 중요 부분만 뽑아서 청취·시청할 수 있는 조항도 추가했다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇재판부 바뀔 때 ‘갱신 절차’ 간소화&lt;/b&gt;&lt;br&gt;&lt;br&gt;법조계에서는 고질적 ‘재판 지연’ 문제가 상당히 해소될 것이라는 전망이 나온다. 지난해 기준으로 형사사건 1심(합의부) 재판의 평균 처리 기간은 198.9일로, 2019년 158.7일보다 25.3% 늘었다.&lt;br&gt;&lt;br&gt;재판 지연이 자주 일어나는 것은 재판부가 바뀔 때다. ‘갱신 절차’에 두세 달이 걸리기도 한다. 이 대표의 ‘대장동·위례·성남FC·백현동 사건’ ‘쌍방울 대북 송금 사건’을 담당하는 재판부, 위증 교사 사건 항소심 재판장이 최근 법원 인사로 교체돼 재판 지연 우려가 나왔다. 종전 형사소송 규칙(144조)에 ‘재판관 구성이 바뀌면 이전에 진행됐던 증거 조사 등을 다시 해야 한다’고만 규정돼 있었기 때문이다. 검사나 피고인이 “이전 재판 내용을 알 수 있는 녹음을 다 들려달라”고 요구하면 받아줘야 했다. 양승태 전 대법원장의 ‘사법행정권 남용’ 1심이 대표적이다. 2021년 2월 재판부가 교체된 뒤 기존에 조사된 증인 진술 녹음 파일을 재생하는 데만 7개월이 걸렸다.&lt;br&gt;&lt;br&gt;개정된 144조는 ‘녹음물에 대한 녹취서로 증거 조사를 갈음할 수 있다’는 단서가 추가됐다. 다만 당사자가 이의를 제기해 법원이 인정하면, 녹음의 전부 또는 일부를 청취할 수 있도록 했다. &lt;br&gt;&lt;br&gt;&lt;b&gt;◇불필요한 증거·증인 신청 원천 차단&lt;/b&gt;&lt;br&gt;&lt;br&gt;불필요한 증거나 증인을 신청하면 판사가 쉽게 기각할 수 있는 근거도 만들었다. 지금까지도 판사 권한으로 증거 신청을 기각할 순 있었지만, 대법원은 형사소송 규칙 132조에 ‘사실 증명에 필요한 증거만을 선별해 신청해야 한다’는 조항을 신설했다. 또 ‘법원이 부당한 지연을 초래하는 증거 신청을 기각할 수 있다’는 조항도 넣었다. 증거 신청 기준을 엄격하게 바꾸고, 무더기 증거·증인 신청을 원천 차단하겠다는 것이다.&lt;br&gt;&lt;br&gt;윤 대통령의 내란죄 형사재판에서 검찰은 증인이 520명 필요하다고 밝힌 바 있다. 이 대표의 ‘대장동·위례·성남FC·백현동 사건’은 증거 기록만 20만쪽이 넘는다. ‘사법행정권 남용 사건’은 증인만 101명이어서 1심 선고까지 4년 11개월이 걸렸다. 꼭 필요한 증거만 골라 채택하면 이런 지연이 해소될 것으로 보인다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇음성·영상 증거 조사도 핵심만&lt;/b&gt;&lt;br&gt;&lt;br&gt;음성·영상 자료를 증거로 조사할 때는 재판부가 당사자 의견을 들어 중요 부분만 재생할 수 있게 된다. 지금까지는 요구가 있으면 전체를 청취·시청해야 했다. 형사소송 규칙 134조의 8에 ‘녹음·녹화 매체 등의 중요 부분만을 재생해 청취 또는 시청할 수 있다’는 부분을 추가했다.&lt;br&gt;&lt;br&gt;대법원의 이번 규칙 개정이 윤 대통령 탄핵 심판에도 영향을 줄지 관심이 쏠린다. 지난 27일 헌법재판소가 마은혁 재판관 후보자의 임명 보류에 대해 “잘못됐다”고 판단해, 마 후보자가 임명돼 탄핵 심판에 참여할 경우 ‘갱신 절차’를 거쳐야 하기 때문이다. 법조계 한 인사는 “탄핵 심판은 형사소송 법규를 준용하게 돼 있어 갱신 절차를 간소화할 수 있게 됐다”고 했다. 헌재 관계자는 “형사소송 규칙을 준용할지는 평의로 결정할 사안”이라고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[단독] 서울 북성초, 등교 나흘 앞두고 ‘4월 개학’ 결정... 학부모 날벼락</title>
-      <link>https://www.chosun.com/national/education/2025/03/01/SCBKMZM4FNHMJDHSTKUGZ7THPU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2025/03/01/SCBKMZM4FNHMJDHSTKUGZ7THPU/</guid>
-      <dc:creator>오주비 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 28 Feb 2025 15:05:01 +0000</pubDate>
-      <content:encoded>서울 서대문구 북성초등학교가 등교를 나흘 앞두고, 4월달로 개학일을 미뤘다.&lt;br&gt;&lt;br&gt;28일 서울시교육청과 학부모 등에 따르면, 북성초는 이날 오후 5시 37분쯤 “개학일을 4월 11일로 연기한다”는 공지를 학부모들에게 발송했다.&lt;br&gt;&lt;br&gt;이렇게 갑자기 개학이 한 달 넘게 연기된 건 ‘학교 시설 안전 등급’ 때문이다. 서울시교육청 관계자는 “북성초 건물 3개 중 1개가 1966년도에 지어져 아주 오래됐는데, 이 건물의 안전 등급이 ‘D 등급’으로 예상돼 긴급하게 결정했다”고 밝혔다.&lt;br&gt;&lt;br&gt;서울시교육청에 따르면 서울에 있는 학교의 절반 정도는 안전 등급이 ‘C’다. 이 다음 등급인 D등급은 재난 위험 건물로 취급된다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6EVZ4TQRYNDZ3MSROHW6MUEMQY.png"&gt;&lt;figcaption&gt;&lt;small&gt;서울 북성초 /북성초 홈페이지 캡처&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;원래 해당 건물은 서울시교육청이 정기적으로 진행하던 안전 점검에서 계속 C등급이 나왔었다. 그러다 작년 6월 정기 안전 점검에서 처음으로 “정밀 점검이 추가로 필요하다”는 소견이 나왔다. &lt;br&gt;&lt;br&gt;이에 서울시교육청은 작년 11월 ‘정밀 안전 점검’을 실시했고, D등급이 예상돼 ‘정밀 안전 진단’을 받아야 한다는 결과가 나왔다. &lt;br&gt;&lt;br&gt;이후 작년 12월 서울시교육청은 전문 업체에 해당 건물의 정밀 안전 진단 용역을 맡겼고, 최종 안전 등급 결과는 3월에 나올 예정이었다.&lt;br&gt;&lt;br&gt;그런데 이번주 초 업체에서 “건물이 C등급으로 올라가긴 어려울 것으로 보인다”고 서울시교육청에 보고하면서, 교육청과 학교가 개학을 급하게 연기하는 결정을 내린 것이다.&lt;br&gt;&lt;br&gt;서울시교육청 관계자는 “아직 최종 안전 등급이 ‘D’가 나온 것은 아니지만, 아이들이 위험한 건물에서 수업을 받게 할 수 없었다”고 했다. 이어 “문제가 되는 건물엔 교실 8개와 급식실이 있는데, 이 공간들을 모듈러(임시 교실)로 구축하는 데 40일 가량 걸려 4월 11일로 개학을 미루게 됐다”고 설명했다.&lt;br&gt;&lt;br&gt;북성초 학부모들은 당황스럽다는 분위기다. 개학이 미뤄진다는 결정을 학교 가기 4일 전에 알려주는 게 말이 되지 않는다는 것이다. 북성초 한 학부모는 “방학 때 뭐하다가 개학 직전에 이런 공문을 보내냐”며 “황당하고 화가 난다”고 했다. &lt;br&gt;&lt;br&gt;북성초는 개학은 4월 11일로 미뤄졌지만, 원하는 학생들을 대상으로 3월 4일부터 돌봄 교실을 운영한다는 계획이다. 서울시교육청 관계자는 “북성초 학생 모두가 돌봄을 신청하진 않을 것이기에, 나머지 2개 건물에서 충분히 돌봄이 가능할 것으로 보인다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/6EVZ4TQRYNDZ3MSROHW6MUEMQY.png?width=868&amp;height=486&amp;auth=94602f4ae57447177def2f8ffb398b7b18744ab04c0c767d2e3f9d12d1276597&amp;smart=true" type="image/png" height="486" width="868">
-        <media:description type="plain">서울 북성초 /북성초 홈페이지 캡처</media:description>
-      </media:content>
-    </item>
-    <item>
-      <title>집회 소리에 묻히는 3·1절 기념행사</title>
-      <link>https://www.chosun.com/national/national_general/2025/03/01/QSZLMCKOCVEFXIH6S3UO3LN6QI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/03/01/QSZLMCKOCVEFXIH6S3UO3LN6QI/</guid>
-      <dc:creator>김영우 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 28 Feb 2025 16:04:55 +0000</pubDate>
-      <content:encoded>1일 전국 곳곳에서 106주년 3·1절 기념식이 열린다.&lt;br&gt;&lt;br&gt;올해 정부 공식 행사는 1일 오전 서울 중구 숭의여대 숭의음악당에서 열린다. 그동안 광화문광장, 서대문형무소역사관, 유관순기념관 등에서 기념식을 열었는데 올해는 처음 숭의여대에서 개최한다. &lt;br&gt;&lt;br&gt;숭의여대는 미 선교사가 1903년 평양에 세운 숭의여학교가 모태다. 일제 강점기 때 일제가 신사 참배를 강요하자 1938년 자진 폐교한 역사를 갖고 있다. 숭의학원은 1954년 남산 기슭의 경성신사를 허물고 그 자리에 학교를 다시 세웠다.&lt;br&gt;&lt;br&gt;전국 지방자치단체들도 각각 3·1절 기념식을 연다. 서울에서는 1일 오전 11시 30분부터 종로구 보신각에서 3·1절 타종 행사가 열린다. 독립유공자 후손 9명과 오세훈 시장 등이 총 33번 종을 칠 예정이다. 종을 친 뒤 기미독립선언서를 낭독하고 ‘만세 삼창’을 한다. 서울시 관계자는 “3·1운동이 열렸던 106년 전처럼 만세 소리가 보신각 일대를 메울 것으로 보인다”고 했다. 서울시는 당초 대규모 3&lt;br&gt;&lt;br&gt;·1절 행사를 기획했으나, 1일 광화문 일대에서 윤석열 대통령 탄핵 찬반 집회가 열리는 것을 고려해 행사 규모를 줄인 것으로 알려졌다. 서울시는 1일 인파 사고 등에 대비해 ‘시민안전대책본부’를 운영한다. &lt;br&gt;&lt;br&gt;경기도는 이날 오전 수원컨벤션센터에서 기념식을 개최한다. 카자흐스탄 등에 사는 독립유공자 후손들이 보내온 영상 편지를 공개할 예정이다. 중국에 사는 독립유공자 후손들과는 실시간 영상 인터뷰도 진행한다. &lt;br&gt;&lt;br&gt;인천 시민들은 일제 강점기 3&lt;br&gt;&lt;br&gt;·1운동이 벌어졌던 동구 창영초등학교에서 동인천역 북광장까지 약 1㎞를 행진할 예정이다. &lt;br&gt;&lt;br&gt;충남 천안 독립기념관에서도 기념식이 열린다. 공군 제53특수비행전대 ‘블랙 이글스’가 축하 비행을 한다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>‘생거진천 사거용인’이라고?</title>
