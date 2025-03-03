@@ -13,6 +13,62 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>오세훈 이달 6년만에 책 출간..제목은 ‘다시 성장이다’</title>
+      <link>https://www.chosun.com/national/regional/seoul/2025/03/03/CSGJBOKH2JASTJDK6UUTYMYS34/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/seoul/2025/03/03/CSGJBOKH2JASTJDK6UUTYMYS34/</guid>
+      <dc:creator>박진성 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 03 Mar 2025 03:06:38 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HPXT3XK3JRL2ZMSGGRPLRO25UU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;오세훈 서울시장이 지난달 김포시청에서 '서울런 x 김포런' 업무협약식에서 발언하고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;오세훈 서울시장이 ‘동행’을 화두로 한 시정 철학과 국가 비전 등을 담은 저서를 이달 중 출간한다. 오 시장이 책을 집필해 펴내는 것은 2019년 1월 이후 6년 만이다.&lt;br&gt;&lt;br&gt;3일 서울시에 따르면 오 시장은 이달 중순 쯤 ‘다시 성장하다’란 제목의 저서를 출간한다. 부제는 ‘오세훈의 5대 동행, 미래가 되다’다.&lt;br&gt;&lt;br&gt;저서에는 오 시장이 서울시정을 통해 강조해 온 ‘5대 동행’을 핵심으로 진짜 선진국을 향해 나아가야 할 철학과 비전이 담는다.&lt;br&gt;&lt;br&gt;5대 동행은 ▲ 도전과 성취와의 동행 ▲ 약자와의 동행 ▲ 미래세대와의 동행 ▲ 지방과의 동행 ▲ 국제사회와의 동행이다.&lt;br&gt;&lt;br&gt;김병민 서울시 정무부시장은 오 시장의 집필 배경에 대해 “지금 대한민국은 다시 성장할 수 있을지 불안한 상황에 빠져있다”며 “국민은 정치의 미래를 걱정하고, 세계를 주도하는 기업과 기술이 과연 등장해 성장동력을 회복할 수 있을지도 염려하고 있다”고 말했다.&lt;br&gt;&lt;br&gt;이어 “오 시장은 이 책을 통해 ‘우리 사회가 다시 성장할 수 있는 혁신동력을 찾고, 모두 자신감을 가져야 한다’는 점을 강조할 것”이라고 했다.&lt;br&gt;&lt;br&gt;이번 저서는 회고록이나 일방적 주장을 담은 대자보 형태가 아니라고도 했다.&lt;br&gt;&lt;br&gt;김 부시장은 “서울시장 오세훈의 핵심 브랜드인 동행을 중심으로 5가지 테마를 도출하고, 각 테마의 구체적인 전략과 문제의식을 담은 ‘대한민국 미래 설계도’”라며 “곳곳에는 서울시의 정책 성과와 시정에서 축적된 경험도 녹아있다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[단독] ‘마약 거래 혐의’ 50대 남성 경찰 체포… 동종 전과도</title>
+      <link>https://www.chosun.com/national/national_general/2025/02/26/PCUXQ7RAC5B2BATBMR6A3FPBRQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/02/26/PCUXQ7RAC5B2BATBMR6A3FPBRQ/</guid>
+      <dc:creator>구동완 기자, 최하연 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 26 Feb 2025 07:07:43 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LIMLPTEAP5HZVF456W27KZ5RI4.png"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=조선디자인랩 이민경&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;마약을 거래한 혐의를 받는 50대 남성이 25일 경찰에 체포됐다.&lt;br&gt;&lt;br&gt;26일 경찰 등에 따르면 서울경찰청 마약범죄수사대는 마약류관리법 위반 혐의를 받는 50대 남성 A씨를 체포했다.&lt;br&gt;&lt;br&gt;경찰은 A씨를 마포경찰서 유치장에 가두고 소변·모발 검사를 했으나 음성 결과가 나온 것으로 파악됐다.&lt;br&gt;&lt;br&gt;A씨는 “사적인 일로 만난 것이지 마약 거래 때문은 아니다”며 “마약을 투약하지도 않았다”고 경찰에 진술한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;경찰은 A씨가 최근 마약류를 거래한 정황을 포착하고 체포에 나선 것으로 알려졌다. A씨는 이전에도 마약류를 거래한 동종 범죄로 실형을 선고받은 전력이 있는 것으로 나타났다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘층간소음’ 사과하러 온 이웃, 흉기 들고 협박… 20대 男 벌금형</title>
+      <link>https://www.chosun.com/national/court_law/2025/03/03/STHYRYDP65CKFCL7QJFPDPCIGE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/03/03/STHYRYDP65CKFCL7QJFPDPCIGE/</guid>
+      <dc:creator>인천=이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 03 Mar 2025 01:16:02 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KFE3E6FZBMIAZOO7CJIC3M4MVM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원 로고. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;층간소음 문제를 사과하러 찾아온 이웃을 흉기로 협박한 20대 남성에게 벌금형이 선고됐다. &lt;br&gt;&lt;br&gt;인천지법 형사3단독 이동호 판사는 특수재물손괴, 특수협박 등 혐의로 기소된 A(29)씨에 대해 벌금 300만원을 선고했다고 3일 밝혔다. &lt;br&gt;&lt;br&gt;A씨는 지난 2023년 4월 22일 오후 4시쯤 인천 연수구의 한 공동주택에서 B(여‧41)씨의 집 현관문을 야구방망이로 내리쳐 찌그러트린 혐의 등으로 재판에 넘겨졌다. &lt;br&gt;&lt;br&gt;A씨는 층간소음 문제로 스트레스를 받자, 항의하기 위해 B씨 집에 찾아가 범행한 것으로 조사됐다. A씨는 또 2023년 11월 17일 오후 5시쯤 층간소음에 대해 사과하기 위해 자신의 집에 찾아온 B씨에게 “내가 스트레스를 얼마나 받는 줄 아느냐”며 흉기를 들고 협박하기도 했다. &lt;br&gt;&lt;br&gt;이 판사는 “피고인이 특수재물손괴 범행을 인정, 반성하고 있으며 형사처벌 전력이 없는 초범”이라며 “피해자로부터 용서를 받지 못하였으나 피해자가 이사해 피고인이 다시 범행할 우려가 없는 것으로 보이는 점, 피고인의 건강상태 등을 고려했다”고 양형 이유를 설명했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>오세훈 “혁신 가로막는 규제가 ‘한국병’ 원인”</title>
+      <link>https://www.chosun.com/national/national_general/2025/03/03/QZDITGZ4QVEZRM3EDXB6OBHEKQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/03/03/QZDITGZ4QVEZRM3EDXB6OBHEKQ/</guid>
+      <dc:creator>최연진 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 03 Mar 2025 01:33:29 +0000</pubDate>
+      <content:encoded>오세훈 서울시장은 3일 “규제개혁, 세제개혁, 재정정책, 금융혁신, 산업정책 모두 기업과 경제 살리기를 중심으로 근본적으로 변화해야 한다”고 했다.&lt;br&gt;&lt;br&gt;오 시장은 이날 페이스북에 ‘다시 성장, 규제 철폐가 답입니다’라는 제목의 글을 올리면서 “규제를 풀지 않는다면 기업도, 경제도 더 이상 성장할 수 없다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CBXPVCB335PKFMI7SXO5FBUM2U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;오세훈 서울시장/뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그는 “우리 경제는 5년마다 성장률이 1%씩 하락하는 ‘한국병’에 걸려 있다”며 “‘다시 성장’으로 반전하지 못하면 국가도 국민도 존립할 수 없다”고 했다.&lt;br&gt;&lt;br&gt;오 시장은 “세계는 AI, 바이오, 핀테크, 로봇 등 신산업 중심으로 빠르게 재편되고 있지만 우리는 20∼30년 동안 주력산업이 변하지 않았다”며 “글로벌 100대 유니콘 기업 중 17개가 한국에서는 규제 때문에 사업을 할 수 없거나 제한적으로만 운영될 수 있다”고 했다.&lt;br&gt;&lt;br&gt;이어 “혁신을 가로막는 규제가 한국병의 근본 원인”이라며 “과거처럼 경제 살리기라는 이름으로 기업인을 불러 투자 당부를 하고, 국가 지원을 일부 늘리고, 돈을 푸는 정도로는 저성장의 흐름을 막을 수 없다”고 했다.&lt;br&gt;&lt;br&gt;그러면서 “경제를 살리려면 기업이 혁신할 수 있도록 정부가 환경을 바꿔야 한다”며 “지난 연말부터 서울시가 규제 철폐에 속도를 내고 있는 이유”라고 했다.&lt;br&gt;&lt;br&gt;오 시장은 “새 술을 빚기 위해서는 새 부대가 필요하다”며 “내일 경제인, 기업인들과 만나 ‘기업 성장형 규제 개혁 방안’ 발표에서 구체적인 대책을 말씀드리겠다”고도 했다.&lt;br&gt;&lt;br&gt;서울시는 4일 오전 대한상공회의소 국제회의장에서 ‘기업 중심 성장 지향형 규제 개혁’ 포럼을 열 예정이다. 오 시장은 ‘KOGA’(Korea Growth Again)를 주제로 기조연설을 한다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>충북 옥천 민박집서 불... 투숙객 2명 숨져</title>
+      <link>https://www.chosun.com/national/regional/chungcheong/2025/03/03/W234KYXUGVBTRBMXBRYJDGV6IM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2025/03/03/W234KYXUGVBTRBMXBRYJDGV6IM/</guid>
+      <dc:creator>신정훈 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 03 Mar 2025 01:23:28 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/O3MGCPXZRBCSHLMNIXYLHYVL5A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;3일 오전 충북 옥천군의 한 민박집에서 불이나 소방관이 화재를 진압하는 모습/옥천소방서 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;3일 오전 2시 20분쯤 옥천군 옥천읍 수북리의 2층짜리 민박 주택에서 원인을 알 수 없는 불이 나 2층에 있던 투숙객 2명이 숨졌다. &lt;br&gt;&lt;br&gt;불이 나자 인근 주민들이 “민박집 건물에서 불길이 올라오고 있다”고 소방당국에 신고한 것으로 알려졌다. &lt;br&gt;&lt;br&gt;신고를 받고 출동한 소방당국은 1시간 50분 만에 불을 모두 껐다. 이 불로 86m² 규모의 샌드위치 패널 건물이 전소됐다. &lt;br&gt;&lt;br&gt;하지만 소방당국은 화재 건물을 수색하는 과정에서 2층에서 신원을 알 수 없는 투숙객 2명이 숨져 있는 것을 발견했다. &lt;br&gt;&lt;br&gt;충북소방본부와 경찰은 민박 주인 등을 상대로 정확한 화재 원인을 조사하고 있다. 경찰은 투숙객 신원을 확인하기 위해 국립과학수사연구원에 DNA 등 정밀 감정을 의뢰했다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>향로봉 50cm… 강원 폭설, 피해 이어져</title>
+      <link>https://www.chosun.com/national/regional/2025/03/03/OBW4MJ7YHZF7LOETKMARP7JCGA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/03/03/OBW4MJ7YHZF7LOETKMARP7JCGA/</guid>
+      <dc:creator>춘천=정성원 기자</dc:creator>
+      <description>향로봉에 50cm의 눈이 내리는 등 밤사이 강원 산간 지역을 중심으로 많은 눈이 내리면서 눈길 교통사고 등 사고가 잇따랐다.
+지난 2일 오후 11시 16분쯤 강원 태백시 황지동에서 제설용 17t 트럭과 K7 승용차가 충돌했다. 이 사고로 K7 승용차에 타고 있던 운전자 A(44)씨 등 2명이 다쳐 인근 병원으로 옮겨졌다.</description>
+      <pubDate>Mon, 03 Mar 2025 01:06:49 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UUNTRAP75BKRTAYOKFBAWKV2SM.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;3일 새벽 강원 고성 토성면 신평리의 도로에서 한 차량이 눈길에 고립돼 출동한 소방당국에 의해 안전한 곳으로 이동하고 있다./뉴스1
+&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;향로봉에 50cm의 눈이 내리는 등 밤사이 강원 산간 지역을 중심으로 많은 눈이 내리면서 눈길 교통사고 등 사고가 잇따랐다.&lt;br&gt;&lt;br&gt;지난 2일 오후 11시 16분쯤 강원 태백시 황지동에서 제설용 17t 트럭과 K7 승용차가 충돌했다. 이 사고로 K7 승용차에 타고 있던 운전자 A(44)씨 등 2명이 다쳐 인근 병원으로 옮겨졌다. &lt;br&gt;&lt;br&gt;앞서 오후 5시 55분쯤 강원 횡성군 영동고속도로 둔내나들목 인근에서도 스타렉스 승합차와 1t 봉고 트럭이 충돌해 승합차에 타고 있던 2명이 다쳤다. 강원도소방본부에 따르면 전날부터 이날 오전 6시까지 강원도 내에서 16건의 눈길 교통사고가 발생한 것으로 집계됐다.&lt;br&gt;&lt;br&gt;차량 고립 사고도 발생했다. 3일 오전 0시 25분쯤 강원 양양군 현북면 한 도로에선 “폭설로 차량 안에 고립됐다”는 신고가 접수, 운전자 1명이 출동한 소방대원에 의해 구조되는 등 도내에서 5건의 차량 고립 구조 신고가 접수됐다.&lt;br&gt;&lt;br&gt;강원소방본부 관계자는 “차량 고립으로 인한 인명 피해는 없으며, 모두 구조됐다”고 밝혔다.&lt;br&gt;&lt;br&gt;많은 눈이 내리면서 국립공원공단은 설악산과 치악산, 태백산 등 도내 국립공원 탐방로를 전면 통제했으며, 강릉 안반데기길 등 5곳의 도로도 폭설로 인해 통제 중이다.&lt;br&gt;&lt;br&gt;강원도는 이날 오전 0시 30분을 기해 비상 2단계를 발령, 피해 예방에 총력을 기울이고 있다.&lt;br&gt;&lt;br&gt;강원도 관계자는 “폭설 대응을 위해 1140명이 비상근무 중”이라며 “장비와 인력을 집중적으로 투입해 제설 작업을 진행 중”이라고 말했다.&lt;br&gt;&lt;br&gt;한편 강원도엔 이날 오전 9시까지 향로봉 50cm, 미시령 44.1cm, 고성 미시령 터널 36.6cm, 진부령 35cm, 고성 20.6cm, 속초 18.7cm 등의 눈이 내렸다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>“다른 의견 묻어버리면 더 큰 갈등”… “사회 통합 위해 만장일치 나와야”</title>
       <link>https://www.chosun.com/national/court_law/2025/03/03/YV5TPYQQWBGTPPK4TMVSWKSXMQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/03/03/YV5TPYQQWBGTPPK4TMVSWKSXMQ/</guid>
@@ -915,24 +971,6 @@
       <content:encoded>“얼마 전 아이 검사 받으러 처음 다녀왔는데, 지하 주차장 정말 울면서 천천히 들어갔어요. 10분 걸린 듯요… 뒤 차 죄송. 다행히 무사히 나오긴 했는데, 그날 온몸이 아프고 몸살이…. 앞으로 몇 번 더 가야 하는데 혹시 근처에 가까운 다른 주차장 어디 없나요?”&lt;br&gt;&lt;br&gt;긁힐까 조마조마 뇌에 쥐 나는 경험. 서울 여의도성모병원 지하 주차장에 다녀온 어느 여성이 맘카페에 남긴 호소문이다. “나도 진땀 흘렸다” “몇 손가락에 꼽히는 유명한 곳” “차가 크면 무조건 지상에 대라” 같은 증언이 잇따르는 명승지다. 그래서 직접 가봤다. 자자한 명성(?)답게 ‘지하 통로가 협소하오니 주의 운행 하시기 바랍니다’라는 안내문에서 일단 흠칫. 곡선의 내리막길 연석마다 바퀴가 올라탄 자국, 벽면에는 사이드 미러 추돌로 추정되는 찰과상이 무수했다. 한 운전자는 “진료 왔는데 주차장이 더 아픈 것 같다”고 평했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AEP3UOBWX5CE7P4KY67KOT32EM.png"&gt;&lt;figcaption&gt;&lt;small&gt;인천 부평 삼산동의 한 상가 지하 주차장에 붙어있는 경고문. '되돌려 올라오시기 힘들 것입니다'에서 두려움이 엄습한다. /유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대한민국에 이런 곳이 한두 군데는 아니다. 구리 한양대병원, 잠실 한국광고문화회관 주차장 등 진·출입로가 좁고 가팔라 난도 최상급으로 분류되는 주차장이 수두룩. 실제 경험담이 그 증거다. “예식장 가서 갈비탕 한 그릇 먹으려다 주차장에서 차 긁어먹어 수리비 15만원 깨졌다”는 말이 우스갯소리가 아닌 것이다. 그러자 ‘요주의 주차장’이 활발히 공유되고 있다. 초보나 대형차의 경우 멋모르고 들어갔다가 울음을 터뜨릴 수도 있기에, 애초에 근처 다른 주차장을 알아보거나 웬만하면 대중교통을 이용하라는 팁이다.&lt;br&gt;&lt;br&gt;스릴 가득한 어둠의 동굴, 그래서 이곳으로 모험을 떠나기도 한다. 위험천만한 지하 주차장을 일부러 찾아가 ‘도장 깨기’에 도전하는 것이다. 유튜브 채널 ‘10시10분’을 운영하는 홍석재(37)씨는 대형 SUV 차량인 캐딜락 에스컬레이드를 몰고 이름난 지하 주차장을 몸소 탐험한다. 지금까지 클리어한 곳만 전국 100여 곳. 홍씨는 “약속 장소를 잡을 때마다 가장 먼저 고려하는 게 주차장인데 협소해 고민이 많지 않으냐”며 “큰 차로 다니면 극적인 재미를 줄 수 있을 것 같았다”고 말했다. 시청자들은 1억5000만원이 넘는 초고가 차량이 무사하기를 손에 땀을 쥐며 지켜보다가도, 휠이나 범퍼를 긁을 때 척추를 타고 흐르는 짜릿한 전율을 경험하게 된다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZIBGPLEFARG5LL3C45YC7B7J34.tif"&gt;&lt;figcaption&gt;&lt;small&gt;1986년 준공된 여의도성모병원 지하 주차장 입구. 벽면의 상처가 긴장감을 고조시킨다. /정상혁 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;진귀한 풍경이 속출한다. 이를테면 지하 주차장에서는 마주하기 힘든 ‘급커브 주의’ 안내판이라든지, ‘그랜저급 이하 승용차만 내려가십시오… 되돌려 올라오시기 힘들 것입니다’(인천 부평 삼산동 상가) ‘소형차만 진입 가능… 사고 시 법적 책임 전가’(경기 남양주 다산동 상가) 같은 살벌한 경고문. 그러나 1종 특수 대형 견인 면허증 보유자인 운전 고수 홍씨마저 혀를 내두른 곳이 있었으니, 기업 사무실로 쓰이는 서울 역삼동의 한 빌딩 주차장. 초입부터 사이드 미러를 접고 겸손히 들어가야 하는 곳. 고작 지하 1층까지 도달하는 데 거진 10분이 걸렸으나 이미 전면 하단은 까진 뒤였다. “여러분, 집 볼 때 물 잘 나오는지 교통 편리한지 살피는 것처럼 주차장도 잘 봐야 합니다. 재산 중 집 다음 큰 게 차 아닙니까.”&lt;br&gt;&lt;br&gt;현행 주차장법에 따르면 실내 주차장 진·출입로 최소 폭은 3.3m(직선), 3.6m(곡선)로 규정돼 있다. 물론 좌우 경계석(石)을 포함한 수치이기에 실질 폭은 3m가 채 되지 않는다. ‘문콕’ 사고가 사회적 문제가 되면서 주차 구획 면적은 2019년부터 신축 건물에서 20㎝ 더 넓어졌지만, 진·출입로 폭은 1990년 이후 변화가 없다. 반면 차체는 계속 커지고 있다. 중형차 쏘나타의 경우만 해도 1988년형은 전장 4680㎜·전폭 1750㎜, 2025년형은 전장 4910㎜·전폭 1860㎜. 게다가 한국인의 대형차 선호도는 계속 뚜렷해지고 있다. 한국교통연구원 관계자는 “차량이 커진 만큼 회전 반경도 늘어났기에 진·출입로가 지금보다 60㎝는 넓어야 안전을 확보할 수 있다”고 말했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CW6LB3UZZJE5PLZEFJ4IUXL5TM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 화양동의 한 주상복합 내 지하 주차장. 회전 시 백미러를 확인하지 않으면 차량의 건강이 위태로워질 수 있다. /유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그러나 기존 건물의 지하 주차장 진·출입로를 넓히는 건 구조적으로 거의 불가능에 가깝다. 여의도성모병원이 무료 발레파킹 서비스를 운영하는 이유다. 눈길을 끄는 보조 수단도 있다. 서울 삼성동 코엑스 아셈타워, 서울 충무로 포스트타워 지하 주차장에 들어서면 예상치 못한 ‘레이저 쇼’가 펼쳐진다. 초록의 레이저가 천장 부근에서 차량 대시보드로 발사되는데, 이 직선을 차 중앙에 놓고 운전하도록 유도해 벽에 부딪치지 않게 돕는 것이다. 다만 큰 도움이 되는지는 모르겠다는 반응이 주를 이룬다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>독서의 계절은 없다 </title>
-      <link>https://www.chosun.com/national/weekend/2025/03/01/OE642QF2VNEOZEOUVHIYEUOJDE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/weekend/2025/03/01/OE642QF2VNEOZEOUVHIYEUOJDE/</guid>
-      <dc:creator>박준 시인</dc:creator>
-      <description/>
-      <pubDate>Fri, 28 Feb 2025 15:32:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YD23R3TAG5DRHNIZL7Z2Q2WC2Q.png"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=유현호&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;날씨 핑계로 방에 머무는 시간이 길었습니다. 책으로 가득한 곳이니 서재라 불러도 되겠지만, 아니면 글을 쓰는 때가 많으니 작업실이라 할 수도 있겠지만 그래도 방이라 부르는 게 담백하니 좋습니다. 그간 많은 방을 거쳐 왔습니다. ‘잠만 잘 분’이라는 문구가 적힌 월세방을 찾아 옮겨 다닌 적도 있었고 집필을 핑계로 숙박업소에서 장기 투숙하는 이른바 달방을 구한 적도 있습니다. 종종 작가 레지던스 프로그램에 참여해 낯선 방을 얻기도 했습니다. 그러니 제게는 적어도 방이 집의 하위 개념에 속해 있지 않습니다.&lt;br&gt;&lt;br&gt;살면서 처음 갖게 된 방이 종종 떠오릅니다. 중학교 진학할 무렵이었습니다. 전 집주인이 창고로 쓰던 좁은 공간이 제게 주어진 것입니다. 도배지가 발리고 장판이 깔렸습니다. 그토록 원하던 책상까지 들어오자 제법 그럴듯한 방이 됐습니다. 번쩍번쩍 빛이 나던 유광 책상. 왼쪽에는 허벅지 정도 높이의 3단 서랍이 있었고 그 서랍 위에 제법 넓고 긴 판자가 놓였으며 판자의 오른쪽 끝은 제 키보다 훨씬 큰 책장과 연결됐습니다. 가정용 컴퓨터 보급이 한창이던 시절답게 책장 하단에는 컴퓨터 본체를 넣을 공간도 있었고요.&lt;br&gt;&lt;br&gt;마냥 신이 났습니다. 밥도 책상에서 먹고 잠도 책상에서 자고 싶었습니다. 하지만 어느 순간 책상에 묶여 있다는 생각, 방에 갇혀 있다는 생각이 들었습니다. 사방에는 창문이 없는 벽, 점점 빼곡해지는 참고서와 교과서. 온갖 기대로 가득했던 곳이 어느새 공부만을 위한 방이 된 것입니다. 물론 학업에만 매진했다면 좋았겠지만 그때부터 저는 끊임없이 도망치기 시작했습니다. 그렇다고 그 방을 뛰쳐나오지는 않았습니다. 책이 있었으니까요. 한 장 한 장 펼쳐 넘길 때마다 책은 창문도 되고 문도 되고 길도 되고 낯선 풍경도 돼 주었습니다.&lt;br&gt;&lt;br&gt;지난해 문화체육관광부가 발표한 국민독서실태조사에 따르면 우리의 독서율은 날로 최저치를 경신하고 있습니다. 국민 10명 중 6명 정도는 1년 동안 한 권의 책도 읽지 않는다고 합니다. 소득에 따른 독서 격차가 벌어지고 있는 것도 문제입니다. 월평균 200만원 이하 소득자가 월평균 500만원 이상 소득자에 비해 다섯 배나 적은 독서량을 보이는 것입니다.&lt;br&gt;&lt;br&gt;무엇이 독서를 멀어지게 할까요. 조사에 참여한 이들은 시간 부족을 가장 큰 이유로 꼽았습니다. 먹고사는 일 탓에 일상의 빈틈이 좀처럼 나지 않는 것이겠지요. 앙상해진 통계와 수치보다 저를 더 안타깝게 한 것은 바로 이 대목이었습니다. 물론 다양해진 콘텐츠 환경에서 독서만이 유일한 삶의 정도(正道)라고 외치고 싶은 생각은 없습니다. 게다가 글을 쓰고 살아가는 저이기에 누군가의 눈에는 날로 작아지는 밥그릇을 지키기 위한 것처럼 보일 수도 있겠습니다.&lt;br&gt;&lt;br&gt;하지만 저를 비롯한 작가들은 쓰는 사람이기 이전에 읽는 사람입니다. 현실이 나를 바짝 죄어들수록 책이 열어주는 길이 얼마나 넓은지, 이것이 한 존재의 숨통을 얼마나 트이게 하는지 알고 있다는 것입니다. 흔히 가을을 독서의 계절이라 말하지만 책 읽기 좋은 때와 장소는 딱히 정해져 있지 않습니다. 굳이 정한다면 오늘 이곳일 것입니다. 무엇이든 눈에 담아두기 딱 좋을 봄이 오고 있습니다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[아무튼, 픽] 영화 ‘미키 17’ 외</title>
-      <link>https://www.chosun.com/national/weekend/2025/03/01/RNKURMWXYVDBRIZKSMNFHSCEVQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/weekend/2025/03/01/RNKURMWXYVDBRIZKSMNFHSCEVQ/</guid>
-      <dc:creator>박돈규 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 28 Feb 2025 15:32:00 +0000</pubDate>
-      <content:encoded>▶영화 ‘미키17’&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ANKSYGDQIJDIPDJOGDY3BG5CZA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘기생충’(2019) 이후 6년 만에 개봉한 봉준호 영화. 얼음 행성 개척에 투입돼 위험한 임무를 수행하다가 죽으면 복제 인간으로 다시 태어나는 남자 미키(로버트 패틴슨)가 주인공이다. 17번째 미키(미키 17)가 죽지 않은 상태에서 18번째 미키가 출력돼 나오면서 펼쳐지는 이야기. 약 1700억원이 들어간 우주 배경의 블록버스터. 봉 감독은 “현실을 더 적나라하게 드러내는 게 SF 장르”라고 했다. 예매율 1위. &lt;br&gt;&lt;br&gt;▶뮤지컬 ‘알라딘’&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/O77XM6JCEZA4TA55NVBQNOVAYQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;애니메이션과 영화로 익숙한 곡들을 라이브 연주와 노래로 듣는다. 음악과 춤뿐 아니라 무대도 화려하다. 특히 알라딘이 램프를 가지러 들어간 신비의 동굴에서 램프의 요정 지니를 만나는 장면을 기대하시길. 알라딘과 자스민 공주가 마법 양탄자를 타고 밤하늘을 날아가며 ‘새로운 세상’을 부를 땐 관객도 행복해진다. 김준수·서경수·박강현이 알라딘을, 정성화·정원영·강홍석이 지니를 나눠 맡는다. 6월 22일까지 샤롯데씨어터. &lt;br&gt;&lt;br&gt;▶제97회 아카데미 시상식&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/X7ICSIQJKJEU7ICNDUWFYMW3VE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;미국 LA 할리우드 돌비 극장에서 열리는 ‘제97회 아카데미 시상식’을 OCN이 3월 3일 오전에 독점 생중계한다. 티모테 샬라메가 밥 딜런으로 변신한 ‘컴플리트 언노운’, 수많은 ‘듄친자’를 양산한 SF ‘듄: 파트 2’, 브로드웨이 대표 뮤지컬이 원작인 ‘위키드’ 등 작품성과 대중성을 겸비한 영화들이 후보에 이름을 올렸다. 백희나 작가의 그림책이 원작인 ‘알사탕’은 단편 애니메이션 부문에서 오스카를 차지할 수 있을까.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>한 쌍에 30만원… ‘애완 호두’를 아십니까</title>
       <link>https://www.chosun.com/national/weekend/2025/03/01/JUMBY2H7GZDD5NIJ2VREUND22A/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/weekend/2025/03/01/JUMBY2H7GZDD5NIJ2VREUND22A/</guid>
@@ -952,37 +990,6 @@
  /이신영 영상미디어 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>‘2036 올림픽’ 국내 후보도시 선정에 “전 세계에 전북 알릴 기회” 환영</title>
-      <link>https://www.chosun.com/national/national_general/2025/02/28/QDV23MK4AZB3FNZJF5ATA7Z6HY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/02/28/QDV23MK4AZB3FNZJF5ATA7Z6HY/</guid>
-      <dc:creator>진창일 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 28 Feb 2025 12:10:10 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BASYEKVYUNPAVOOSSTYGEYMPQE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김관영 전라북도 도지사를 비롯한 전북 관계자들이 28일 서울 송파구 올림픽파크텔에서 열린 2025년도 대한체육회 정기대의원총회에서 전북이 2036년 하계올림픽대회 유치 후보 도시에 선정된 후 기념촬영을 하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전북이 ‘2036 하계 올림픽’ 국내 후보도시에 선정되자 전북지역 각계에서 환영의 뜻을 전했다.&lt;br&gt;&lt;br&gt;전북도의회는 28일 “의회는 올림픽 최종 개최지 선정을 위해 대한체육회, 정부, 관련 기관과 긴밀히 협력할 것을 약속한다”며 “1988년 서울 올림픽 이후 48년 만에 하계올림픽을 개최하기 위한 여정에 함께하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;전북도는 이날 서울 올림픽파크텔에서 열린 대한체육회 대의원총회에서 61표 중 49표를 얻어 서울시를 제치고 2036년 하계 올림픽 유치 국내 후보지로 선정됐다.&lt;br&gt;&lt;br&gt;의회는 “전북의 잠재력과 역량을 전 세계에 알릴 수 있는 절호의 기회”라며 “전북이 국가 균형 발전을 이룰 최적의 도시라는 게 온 국민에게 각인됐다고 했다.&lt;br&gt;&lt;br&gt;더불어민주당 전북도당도 이날 “김관영 도지사를 필두로 올림픽 유치에 힘을 보탠 모든 분께 감사의 인사를 전한다”며 “최종 유치까지 준비가 만만치 않겠지만, 전북의 역사와 대한민국의 위상을 동시에 알리고 높일 수 있는 영광스러운 과정으로 만들어야 한다”고 했다.&lt;br&gt;&lt;br&gt;이어 “대한민국 대표 주자로 뽑힌 전북의 어깨가 무겁지만 이제 올림픽 유치는 국가적 과제로 전환됐다”며 “전북인의 하나 된 힘으로 새로운 역사를 써 내려가는 길에 함께 하겠다”고 했다.&lt;br&gt;&lt;br&gt;전북시군의회의장협의회와 전북상공회의소협의회도 입장문을 내고 “도민 여러분과 함께 손을 잡고 올림픽 최종 유치를 이뤄내겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/BASYEKVYUNPAVOOSSTYGEYMPQE.jpg?width=3581&amp;height=1664&amp;auth=b8ed006f191d10ed7791be33377a7b0e01bd2ff7286aa57414a36ce022302038&amp;smart=true" type="image/jpeg" height="1664" width="3581">
-        <media:description type="plain">김관영 전라북도 도지사를 비롯한 전북 관계자들이 28일 서울 송파구 올림픽파크텔에서 열린 2025년도 대한체육회 정기대의원총회에서 전북이 2036년 하계올림픽대회 유치 후보 도시에 선정된 후 기념촬영을 하고 있다. /뉴시스</media:description>
-        <media:credit role="author" scheme="urn:ebu">kgb</media:credit>
-      </media:content>
-    </item>
-    <item>
-      <title>검찰, ‘비상계엄 가담’ 707단장 등 군·경 9명 기소 </title>
-      <link>https://www.chosun.com/national/court_law/2025/02/28/GK5ESN2T4BGUDPBE3ZOMZSPAPQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/02/28/GK5ESN2T4BGUDPBE3ZOMZSPAPQ/</guid>
-      <dc:creator>이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 28 Feb 2025 12:07:37 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/T7OR4ZFZUVJY7GBC2GJ56HEXAU.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;'12·3 비상계엄' 당시 국회에 투입됐던 707특수임무단을 이끄는 김현태 단장이 지난 6일 서울 종로구 헌법재판소에서 열린 탄핵 심판 6차 변론기일에 증인 출석하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘12·3 비상계엄’ 사태를 수사 중인 검찰 특별수사본부(본부장 박세현 서울고검장)는 28일 계엄 당시 국회 봉쇄, 체포조 운영, 선거관리위원회 점거에 가담한 혐의로 김현태 707특수임무단장(대령) 등 군경 지휘부 9명을 불구속 기소했다. 이들에겐 모두 형법상 내란 중요 임무 종사와 직권남용 혐의가 적용됐다.&lt;br&gt;&lt;br&gt;검찰에 따르면 육군 특수전사령부의 이상현 제1공수특전여단장(준장)과 김현태 단장은 계엄 당시 곽종근 특수전사령관의 지시를 받아 국회를 봉쇄하고, 국회에 병력을 들여보낸 혐의를 받는다. 이 여단장 지시에 따라 무장 병력 170명이 국회 담을 넘었고, 곽 전 사령관 지시를 받은 이 여단장이 ‘계엄 해제 의결을 시도하는 국회의원을 끌어내라’는 취지의 지시를 해 병력 38명이 국회의사당 후문을 강제로 열고 들어갔다는 게 검찰 수사 결과다. 김 단장은 곽 전 사령관 지시에 따라 병력 약 18명과 함께 망치와 소총으로 국회의사당 유리창을 깨뜨려 내부로 들어가고, 국회의사당 전기 차단을 시도한 혐의를 받는다. 국회 청사 경비 책임자였던 목현태 전 국회경비대장(총경)은 두 차례에 걸쳐 국회의원을 포함한 모든 민간인의 국회 출입 금지를 지시한 혐의다.&lt;br&gt;&lt;br&gt;박헌수 국방부 조사본부장(소장), 김대우 국군방첩사령부 수사단장(준장), 윤승영 경찰청 국가수사본부 수사기획조정관(치안감)은 이재명 더불어민주당 대표, 한동훈 국민의힘 전 대표 등 정치인 체포조 운영에 가담한 혐의로 재판에 넘겨졌다. 정보사령부의 고동희 계획처장(대령)과 김봉규 중앙신문단장(대령), 정성욱 100여단 2사업단장(대령)은 선관위를 점거한 뒤 직원들을 체포하려 한 혐의로 기소됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>20대 女 집 들어가려다 도망친 육군 간부...군 당국 수사 중</title>
-      <link>https://www.chosun.com/national/incident/2025/02/28/A2XTRMGIOJCAZE3JWDDOWDVBPM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/02/28/A2XTRMGIOJCAZE3JWDDOWDVBPM/</guid>
-      <dc:creator>강지은 기자, 김혜민 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 28 Feb 2025 11:29:09 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZFZVM4NRURGTJHT3BSCG5VVO3I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대한민국 육군 로고./육군&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;혼자 사는 여성의 집에 몰래 들어가려다 인기척을 느끼고 도망친 40대 현역 군인이 군 당국의 수사를 받고 있다.&lt;br&gt;&lt;br&gt;서울 관악경찰서는 주거침입 혐의를 받는 40대 남성 A씨가 육군 간부임을 확인하고 육군 광역수사단으로 이첩했다고 28일 밝혔다. A씨는 지난달 7일 밤 12시쯤 관악구의 한 아파트에서 혼자 사는 20대 여성 B씨의 집 도어락 비밀번호를 풀고 들어간 혐의를 받는다.&lt;br&gt;&lt;br&gt;당시 A씨는 집 안에 여성이 있는 걸 발견하고 곧장 도주했다고 한다. 경찰은 도어락에 남은 지문을 채취해 A씨의 신원을 특정했고 즉시 사건을 군 당국으로 넘겼다. 군 당국은 자세한 사건 경위를 조사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>스테로이드제 2년 먹고 軍면제 받은 헬스트레이너... 대법 “병역 기피”</title>
       <link>https://www.chosun.com/national/court_law/2025/02/28/TNJBKIYGNFHQXKTNX7ILY7Z72E/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/02/28/TNJBKIYGNFHQXKTNX7ILY7Z72E/</guid>
@@ -990,15 +997,6 @@
       <description/>
       <pubDate>Fri, 28 Feb 2025 12:08:41 +0000</pubDate>
       <content:encoded>대법원 2부(주심 오경미 대법관)는 군 복무 기피 목적으로 스테로이드계 약물을 반복적으로 먹고 병역 면제 판정을 받은 혐의(병역법 위반)로 기소된 A(32)씨에게 징역 1년에 집행유예 2년, 사회봉사 240시간을 선고한 원심 판결을 확정했다고 28일 밝혔다.&lt;br&gt;&lt;br&gt;헬스트레이너 A씨는 2013년 최초 병역 판정검사에서 현역병 입영 판정(2급)을 받았다. 이후 학업 등을 이유로 입대를 늦추다가 2020년 1월 성선자극호르몬과 성선호르몬의 분비가 감소하는 성선기능저하증(생식샘기능저하증)으로 전시 근로역(5급) 처분을 받았다. 병역을 면제받은 것이다.&lt;br&gt;&lt;br&gt;검찰은 A씨가 병역의무를 기피하거나 감면받기 위해 2017년 12월부터 2019년 5월까지 스테로이드계 약물을 반복적으로 투약했다고 보고 A씨를 재판에 넘겼다. 스테로이드제는 간수치를 높이고 성선 기능을 약화하는 부작용이 있다. &lt;br&gt;&lt;br&gt;A씨는 재판에서 사춘기 시절부터 단기간에 근육을 키우기 위해 스테로이드제를 복용해 왔고, 피트니스 대회 참여를 위해 약물을 투약했을 뿐 병역 면제를 받으려 한 게 아니라고 주장했다.&lt;br&gt;&lt;br&gt;1심은 A씨 주장을 받아들여 무죄를 선고했다. A씨가 병역 회피를 위해 약물을 복용했다고 볼 증거가 없다고 판단했다. 그러나 2심은 “A씨는 스테로이드제가 병역 연기나 면제 사유가 될 수 있는 성선저하증을 유발한다는 사실을 알았으면서도 같은 종류의 약을 먹은 후 병역 면제를 받았다”며 유죄를 선고했다. “A씨가 이 약물로 군대에 가지 않으려고 한다는 말을 수차례 했다”는 A씨 지인의 법정 증언도 나왔다. 대법원도 항소심 판단에 문제가 없다며 A씨의 상고를 기각했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>한국외대서 경찰 머리 때린 반尹 시위 참가자 현행범 체포</title>
-      <link>https://www.chosun.com/national/national_general/2025/02/28/2IIFEXGEUBEE7EWWCSB5XLI7VQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/02/28/2IIFEXGEUBEE7EWWCSB5XLI7VQ/</guid>
-      <dc:creator>고유찬 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 28 Feb 2025 09:14:08 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TFOFCNPGC5OJPG73UYJHWYY42U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;28일 오후 서울 동대문구 한국외국어대학교 정문에서 윤석열 대통령 탄핵 찬반집회가 동시에 열리고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한국외대에서 진행된 윤석열 대통령 탄핵 찬반집회에서 윤석열 대통령 탄핵에 찬성하는 시위 참가자가 경찰관을 폭행해 현장에서 체포됐다.&lt;br&gt;&lt;br&gt;28일 서울 동대문경찰서는 이날 집회에 참여한 남성 1명을 공무집행방해 혐의로 이날 현행범으로 체포했다고 밝혔다.&lt;br&gt;&lt;br&gt;이 남성은 한국외대 정문 근처에서 왼손을 휘둘러 경찰관의 머리를 때린 혐의를 받는다.&lt;br&gt;&lt;br&gt;그는 탄핵을 촉구하는 집회 측 참가자로, 경찰에 제압당하는 과정에서 다쳤다고 주장하고 있는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;이날 한국외대 정문에서는 외대 재학생 및 졸업생들이 윤 대통령 탄핵에 반대하는 시국선언문을 발표했다.&lt;br&gt;&lt;br&gt;같은 시각 대통령 탄핵을 찬성하는 ‘한국외대 긴급행동(긴급행동)’은 정문 앞 탄핵 반대 측 바로 뒤편에 포진해 시국선언 방해를 시도했다.&lt;br&gt;&lt;br&gt;시국선언 도중 이들은 ‘윤석열 즉각파면! 쿠데타 옹호세력 규탄한다!’는 제목의 전단지 수십장을 날리기도 했다.&lt;br&gt;&lt;br&gt;대치가 이어지면서 이날 시국선언은 기존 예고된 오후 5시보다 일찍 종료됐다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
