@@ -6,6 +6,26 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>장동혁 국민의힘 의원, 사전투표제 폐지 법안 발의…"본투표, 금·토·일 시행"</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/206026.jpg" alt="206026.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;장동혁 국민의힘 의원 《사진=연합뉴스》&lt;/figcaption&gt;   &lt;/figure&gt;&lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;   &lt;span style="font-weight: bold;" class="lawmanlink" serial="10658"&gt;장동혁&lt;/span&gt;(56·사법연수원 33기) 국민의힘 의원이 4일 사전투표제 폐지를 주요 내용으로 하는 공직선거법 일부개정법률안을 대표 발의했다.&lt;br /&gt;&lt;br /&gt;장 의원은 이날 국회에서 기자회견을 열고 "사전투표제는 여러 제도적 결함과 선거관리위원회의 관리 부실이 더해지면서 국민 불신은 더 이상 방치할 수 없는 상황이 됐다"며 법안 발의 배경을 설명했다.&lt;br /&gt;&lt;br /&gt;이어 "선관위의 부정 채용이 심각한 상태라는 사실이 드러났지만, 지난주 헌재의 결정으로 선관위에 대해서는 감사원 감사도 불가능해지면서 선거관리에 대한 국민의 불안은 더욱 커졌다"며 "따라서 사전투표제를 폐지하고자 한다"고 밝혔다. &lt;br /&gt;&lt;br /&gt;이번 개정안은 2014년 사전투표제 도입으로 폐지됐던 부재자투표를 부활시키는 한편, 본투표 기간을 기존 하루(수요일)에서 사흘(금·토·일)로 연장하는 내용을 담고 있다. 주말을 포함해 본투표 기간을 확대함으로써 유권자의 투표 참여 기회를 늘리는 것이 핵심이다.&lt;br /&gt;&lt;br /&gt;장 의원은 "부재자투표로 보완하고 본투표 일을 연장해 제 역할을 할 수 있도록 하면 국민의 뜻을 제대로 반영하면서도 보다 공정하고 투명한 투표제도로 자리매김할 수 있을 것"이라며 "특히 기존 수요일에 치러지던 본투표를 사전 투표와 같이 주말로 옮겨 금·토·일 3일 동안 치르도록 하면 투표율 상승도 기할 수 있을 뿐만 아니라 투표 관리 과정에서 드러난 여러 문제와 의혹들을 해소할 수 있을 것"이라고 강조했다.&lt;/p&gt;</description>
+			<pubDate>Tue, 04 Mar 2025 04:15:00 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/206026</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/206026</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/206026.jpg</media:thumbnail>
+			<dc:creator>김지현 기자</dc:creator>
+		</item>
+		<item>
+			<title>[판결] 자신이 기소된 사실도 모르는 채 항소심까지 선고 … "상소권 회복 통해 상고 가능"</title>
+			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/thumb/180/206016.jpg" alt="186.jpg" /&gt;&lt;/p&gt;&lt;b&gt;   &lt;p&gt;      &lt;b&gt;&lt;br /&gt;&lt;/b&gt;   &lt;/p&gt;   [판결 결과]&lt;/b&gt;&lt;br /&gt;자신이 기소됐다는 사실을 모른 채 1심과 항소심에서 유죄 선고를 받은 피고인은 상소권 회복을 통해 상고할 수 있다는 점을 대법원이 재확인했다.&lt;p&gt;&amp;nbsp;   &lt;/p&gt;&lt;p&gt;대법원 형사2부(주심&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="651"&gt;박영재&amp;nbsp;&lt;/span&gt;대법관)는 2월 13일 사기, 사문서위조, 위조사문서행사, 사기미수 등의 혐의로 재판에 넘겨진 A 씨(변호인 신승훈 국선변호사)에게 징역 1년을 선고한 원심을 파기하고 사건을 인천지법으로 돌려보냈다(&lt;b&gt;2024도18663&lt;/b&gt;).&lt;br /&gt;&lt;br /&gt;&lt;b&gt;[사실관계 및 1심·항소심]&lt;/b&gt;&lt;br /&gt;A 씨는 2021년 보이스피싱 조직에서 현금 수거책으로 활동하면서 여러 문서를 위조한 혐의로 기소됐다. 검찰은 A 씨에게 기소 사실을 공시 송달했지만, A 씨는 재판에 출석하지 않았다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;1심은 '소송촉진 등에 관한 특례법'에 따라 공시송달의 방법으로 공소장 부본과 소환장 등을 송달하고, A 씨가 불출석한 상태에서 심리를 진행한 다음 징역 1년을 선고했다. 검찰은 형이 가볍다며 항소했다. 그러나 A 씨는 항소심에도 출석하지 않았고, 항소심 역시 검찰의 항소를 기각하며 1심 판결을 유지했고 판결은 그대로 확정됐다.&lt;br /&gt;A 씨는 항소심 선고 후에야 자신이 기소된 사실을 알게 됐다. 결국 A 씨는 2024년 10월 8일 상소권회복청구를 했다. 법원은 피고인이 상고기간 내에 상고하지 못한 것은 책임을 질 수 없는 사유로 인한 것이라고 인정해 같은 달 28일 상소권회복결정을 했다.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;[쟁점]&lt;/b&gt;&lt;br /&gt;'소송촉진 등에 관한 특례법'에 따라 피고인이 출석하지 않은 상태에서 재판이 진행된 경우, 피고인이 책임질 수 없는 사유로 출석하지 못했다면 재심 사유에 해당한다. 이 경우 재심을 청구할 수 있는 피고인이 상소권 회복에 의한 상고제기를 주장한다면 원심을 파기할 수 있는지가 쟁점이 됐다. &lt;br /&gt;&lt;br /&gt;&lt;b&gt;[대법원 판단(요지)]&lt;/b&gt;&lt;br /&gt;대법원은 원심을 파기환송했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp; &lt;br /&gt;재판부는 "'소송촉진 등에 관한 특례법'에 따라 유죄판결을 받고 확정된 피고인이 책임질 수 없는 사유로 재판에 출석할 수 없었다면, 1심 법원에 재심을 청구할 수 있다"며 "1심 불출석 재판 후 검찰만 항소하고, 항소심 역시 피고인 없이 진행되어 검찰의 항소가 기각된 경우에도 피고인은 재심을 청구할 수 있다"고 판시했다.&lt;/p&gt;&lt;p&gt;이어 "피고인이 재심을 청구하지 않고 상소권 회복을 통해 상고를 제기하더라도 이는 형사소송법상 '재심 청구 사유가 있는 경우'에 해당하므로 원심 판결에 대한 파기 사유가 될 수 있다"며 "사건을 돌려받은 원심은 공소장 부본 등을 다시 송달하고, 새로운 심리를 거쳐 판결해야 한다"고 판단했다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;그러면서 "A 씨는 공소장 부본과 소환장을 받지 못해 1심과 항소심 재판이 진행된 사실을 몰랐다가 나중에야 판결 선고 사실을 알게 됐다"며 "이러한 상황은 피고인이 책임질 수 없는 사유로 불출석한 것이므로, 원심판결에는 재심 규정을 유추 적용한 재심청구의 사유가 있고 이는 형사소송법 제383조 제3호에서 정한 상고이유에 해당한다"고 설명했다.&lt;/p&gt;</description>
+			<pubDate>Tue, 04 Mar 2025 03:08:58 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/206016</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/206016</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/206016.jpg</media:thumbnail>
+			<dc:creator>안재명 기자</dc:creator>
+		</item>
+		<item>
 			<title>"법무사 합격자 여성 비율 31%, 역대 최다"…한국시험법무사회, 2025년 정기총회 및 제30기 신입법무사 환영회 성료</title>
 			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/206029.jpg" alt="206029.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;홍동희 한국시험법무사회장이 제30회 법무사 시험 합격자에게 축하 메달을 수여하고 있다.&lt;/figcaption&gt;   &lt;/figure&gt;&lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;한국시험법무사회(회장 홍동희)는 2월 28일 서울 강남구 논현동 엘리에나호텔에서 2025년 정기총회 및 제30기 신입법무사 환영회를 개최했다.&lt;br /&gt;&lt;br /&gt;행사 1부에서는 2024년 사업보고 및 결산 승인, 2025년 사업계획 및 예산 승인이 진행됐다. 신임 임원들에게 임명장이 수여됐으며 시험회 발전에 기여한 이준구·이상훈 법무사에게 감사패가 전달됐다.&lt;br /&gt;&lt;br /&gt;2부 순서인 제30기 신입법무사 환영회에서는 신입 법무사들의 출발을 축하하고 선배 법무사들과 교류하는 자리가 마련됐다. 이날 행사에는 이강천 대한법무사협회장, 류선재 서울중앙지방법무사회장, 박창규 서울남부지방법무사회장, 유봉성 경기중앙지방법무사회장, 정일영 경기북부지방법무사회장, 육학수 인천지방법무사회장, 지용민 충북지방법무사회장, 김명연 전국여성법무사회장, 최인수 한국성년후견지원본부 이사장, 장보원 한국세무사고시회 회장, 이수범 대한성공회 살림터 원장 등이 참석해 축하를 전했다. 신입 법무사 120여 명을 포함한 총 220여 명이 자리했다.&lt;br /&gt;&lt;br /&gt;행사는 홍동희 회장의 인사말과 이강천 대한법무사협회장의 축사로 시작됐다. 이어 신입 법무사들에게 합격 메달을 수여했다. 내빈들이 직접 신입 법무사 한 명 한 명에게 메달을 걸어줬다.&lt;br /&gt;&lt;br /&gt;제30회 법무사시험에서는 총 195명이 합격했다. 이 중 법무사시험 1차 면제자 65명이 포함됐다. 법무사시험 일부 면제 제도는 법원·검찰 등에서 일정 기간 근무한 경력자들에게 일부 시험을 면제해 주는 제도로 2003년 도입 이후 매년 면제자의 비율이 증가하는 추세다.&lt;br /&gt;&lt;br /&gt;이번 제30회 합격자 중 여성 비율이 31%(61명)로 역대 최다를 기록했으며 20대부터 70대까지 다양한 연령대가 포함됐다. 자영업, 예술, 공무원, 간호사, 농업, 엔지니어, 광고업 등 다양한 직업과 전공을 가진 합격자들이 배출됐다.&lt;br /&gt;&lt;br /&gt;홍동희 회장은 "이번 환영회는 신입 법무사들이 주인공이 될 수 있도록 기획했다"며 "참여 기회를 넓힌 덕분에 신입과 선배 법무사들 모두 만족하는 분위기였다"라고 전했다.&lt;br /&gt;&lt;br /&gt;제30기 신입 법무사 동기 회장인 문제철 법무사는 "젊어진 세대의 법무사들이 연대와 화합을 통해 치열한 법률 시장에서 한 단계 성장하는 계기가 될 것"이라고 소감을 밝혔다.</description>
 			<pubDate>Tue, 04 Mar 2025 02:51:47 -0000</pubDate>
@@ -218,26 +238,6 @@
 			<link>https://www.lawtimes.co.kr/news/205962</link>
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/205962</guid>
 			<dc:creator>인터넷 기자</dc:creator>
-		</item>
-		<item>
-			<title>조영희 세계한인법률가회장 법률신문사 내방</title>
-			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/thumb/180/205957.jpg" alt="23425237.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="5897"&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="5897"&gt;조영희&lt;/span&gt;(56·사법연수원 27기) 세계한인법률가회(International Association of Korean Lawyers·IAKL) 회장이 27일 서울 서초구 법률신문사를 방문해 이수형 사장 등과 환담했다.&lt;p&gt;&amp;nbsp;   &lt;/p&gt;&lt;p&gt;조 회장은 "한국의 문화적 위상이 커지고, 국내 기업들의 유럽 등 세계 시장에 대한 투자와 진출이 확대되면서 한인법률가들의 역할도 중요해지고 있다"며 "앞으로 해외의 한인법률가들과 국내 변호사들 간의 활발한 교류를 위해 노력할 것"이라고 말했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;앞서 조 회장은 지난해 11월 제15대 회장으로 지명됐다. IAKL Korea 최초 여성 회장이다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;IAKL은 오는 9월 말 고려대 로스쿨 등에서 정기총회를 개최를 개최할 예정이다. IAKL는 해당 행사를 본격적인 국제행사로 발돋움 시키고, 한인 법률가들 간 교류를 확대할 계획이다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;IAKL은 전 세계에서 활동하는 한인 변호사, 판사, 검사, 법학교수 등 국내외 법조인들 간 소통 및 교류를 위해 1988년 창설됐다. 현재 미국과 러시아, 영국, 독일, 일본 등 30여개국에 2500여명의 버법률가를 회원을 두고 있다.&lt;/p&gt;</description>
-			<pubDate>Thu, 27 Feb 2025 10:51:05 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/205957</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/205957</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/205957.jpg</media:thumbnail>
-			<dc:creator>한수현 기자</dc:creator>
-		</item>
-		<item>
-			<title>장대규 前 부장검사, 법무법인 대환 합류</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/205958.jpg" alt="204530.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;장대규 부장검사&lt;/figcaption&gt;   &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;카카오의 SM엔터 시세조종 사건 수사를 이끌었던&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="15653"&gt;장대규&lt;/span&gt;(46·사법연수원 37기) 전 부장검사가 법무법인 대환에 합류한다. &lt;br /&gt;&lt;br /&gt;27일 법조에 따르면, 장 전 서울남부지검 금융조사2부장검사는 내달 법무법인 대환 최고총괄변호사로 합류한다. &lt;br /&gt;&lt;br /&gt;장 전 부장검사는 검찰 내 증권·금융 분야 수사 전문가로 꼽혀왔다. 그는 증권·금융 분야에서 '블루벨트'로 불리는 대검찰청 2급 공인전문검사 인증을 받았다. 지난해 6월 남부지검 금융조사2부장검사로 부임해 카카오의 SM엔터 시세조종 사건을 수사하면서 김범수 카카오 경영쇄신위원장을 구속기소했다.  &lt;br /&gt;&lt;br /&gt;김천고와 경북대 법대를 졸업한 장 전 부장검사는 2005년 제47회 사법시험에 합격했다. 2008년 사법연수원을 37기로 수료한 뒤 같은 해 남부지검 검사로 임관했다. 이후 부산지검 동부지청, 서울중앙지검 검사를 거쳐 대검 검찰연구관, 서울남부지검 부부장검사, 금융위원회 법률자문관 등으로 근무했다.</description>
-			<pubDate>Thu, 27 Feb 2025 09:37:55 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/205958</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/205958</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/205958.jpg</media:thumbnail>
-			<dc:creator>임현경 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
