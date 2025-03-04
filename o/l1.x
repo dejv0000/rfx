@@ -6,8 +6,18 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>"법무사 합격자 여성 비율 31%, 역대 최다"…한국시험법무사회, 2025년 정기총회 및 제30기 신입법무사 환영회 성료</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/206029.jpg" alt="206029.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;홍동희 한국시험법무사회장이 제30회 법무사 시험 합격자에게 축하 메달을 수여하고 있다.&lt;/figcaption&gt;   &lt;/figure&gt;&lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;한국시험법무사회(회장 홍동희)는 2월 28일 서울 강남구 논현동 엘리에나호텔에서 2025년 정기총회 및 제30기 신입법무사 환영회를 개최했다.&lt;br /&gt;&lt;br /&gt;행사 1부에서는 2024년 사업보고 및 결산 승인, 2025년 사업계획 및 예산 승인이 진행됐다. 신임 임원들에게 임명장이 수여됐으며 시험회 발전에 기여한 이준구·이상훈 법무사에게 감사패가 전달됐다.&lt;br /&gt;&lt;br /&gt;2부 순서인 제30기 신입법무사 환영회에서는 신입 법무사들의 출발을 축하하고 선배 법무사들과 교류하는 자리가 마련됐다. 이날 행사에는 이강천 대한법무사협회장, 류선재 서울중앙지방법무사회장, 박창규 서울남부지방법무사회장, 유봉성 경기중앙지방법무사회장, 정일영 경기북부지방법무사회장, 육학수 인천지방법무사회장, 지용민 충북지방법무사회장, 김명연 전국여성법무사회장, 최인수 한국성년후견지원본부 이사장, 장보원 한국세무사고시회 회장, 이수범 대한성공회 살림터 원장 등이 참석해 축하를 전했다. 신입 법무사 120여 명을 포함한 총 220여 명이 자리했다.&lt;br /&gt;&lt;br /&gt;행사는 홍동희 회장의 인사말과 이강천 대한법무사협회장의 축사로 시작됐다. 이어 신입 법무사들에게 합격 메달을 수여했다. 내빈들이 직접 신입 법무사 한 명 한 명에게 메달을 걸어줬다.&lt;br /&gt;&lt;br /&gt;제30회 법무사시험에서는 총 195명이 합격했다. 이 중 법무사시험 1차 면제자 65명이 포함됐다. 법무사시험 일부 면제 제도는 법원·검찰 등에서 일정 기간 근무한 경력자들에게 일부 시험을 면제해 주는 제도로 2003년 도입 이후 매년 면제자의 비율이 증가하는 추세다.&lt;br /&gt;&lt;br /&gt;이번 제30회 합격자 중 여성 비율이 31%(61명)로 역대 최다를 기록했으며 20대부터 70대까지 다양한 연령대가 포함됐다. 자영업, 예술, 공무원, 간호사, 농업, 엔지니어, 광고업 등 다양한 직업과 전공을 가진 합격자들이 배출됐다.&lt;br /&gt;&lt;br /&gt;홍동희 회장은 "이번 환영회는 신입 법무사들이 주인공이 될 수 있도록 기획했다"며 "참여 기회를 넓힌 덕분에 신입과 선배 법무사들 모두 만족하는 분위기였다"라고 전했다.&lt;br /&gt;&lt;br /&gt;제30기 신입 법무사 동기 회장인 문제철 법무사는 "젊어진 세대의 법무사들이 연대와 화합을 통해 치열한 법률 시장에서 한 단계 성장하는 계기가 될 것"이라고 소감을 밝혔다.</description>
+			<pubDate>Tue, 04 Mar 2025 02:51:47 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/206029</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/206029</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/206029.jpg</media:thumbnail>
+			<dc:creator>안현 기자</dc:creator>
+		</item>
+		<item>
 			<title>한국법조인협회, 변호사 광고·분사무소 규제 촉구 성명</title>
-			<description>&lt;p style="text-align: center; "&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/206019.jpg" alt="19999.jpg" /&gt;&lt;/p&gt;&lt;p style="text-align: left; "&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;한국법조인협회(회장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="34148"&gt;김기원&amp;nbsp;&lt;/span&gt;변호사)는 변호사 광고와 법무법인 분사무소 개수에 대한 규제가 필요하다고 촉구했다. &lt;br /&gt;&lt;br /&gt;한법협은 4일 "네트워크 로펌의 확산이 법률 소비자에게 미치는 영향을 고려할 때, 대한변호사협회와 국회·정부가 광고 규제와 분사무소 개수 제한 방안을 마련해야 한다"고 밝혔다.&lt;br /&gt;&lt;br /&gt;한법협은 법조윤리 강화를 위한 규제 기준으로 세 가지 원칙을 제시했다. △법률 소비자와 사회의 이익을 고려하고 법조 윤리를 실질적으로 강화하는 방향으로 이루어져야 하고 △변호사 사회와 국민의 공감대를 확보하기 위해 충분한 논의와 소통이 필요하며 △부작용이 예상되는 규제는 신중하게 검토한 후 도입해야 한다는 것이다.&lt;br /&gt;&lt;br /&gt;이어 "주·분사무소 홈페이지를 개별 운영하고 실제 주재하는 변호사만 간판에 표시하도록 할 뿐 아니라 변호사가 아닌 공직 출신 사무직원의 광고를 제한해야 한다"며 "본사·지사 명칭 사용을 금지하고, 광고 블로그 등록제를 도입하는 한편, 일정 매출 이상 법무법인은 광고를 사전 등록하고 임의적 사전 광고 심의를 받도록 해야 한다"고 강조했다.&lt;br /&gt;&lt;br /&gt;한법협은 이 같은 방안이 변호사 사회에서도 높은 지지를 받고 있다고 설명했다. &lt;br /&gt;&lt;br /&gt;지난해 12월 서울지방변호사회가 실시한 설문조사에서 △주·분사무소 홈페이지 개별 운영(89.8% 찬성) △실제 주재하는 변호사만 간판 광고(96.0% 찬성) △변호사가 아닌 공직 출신 사무직원의 광고 제한(95.0% 찬성) △본사·지사 명칭 사용 금지(84.3% 찬성) 등 다수의 규제 방안이 변호사들의 지지를 받은 것으로 나타났다는 것이다.&lt;br /&gt;&lt;br /&gt;한법협은 "입찰형 키워드 광고 금지, 변호사 1인당 담당할 수 있는 사건 수 제한, 법무법인의 광고비 총액 제한 등의 규제는 신중한 검토가 필요하다"며 "각 지방변호사회별로 1개 이내의 분사무소 개설을 허용하고, 추가 개설이 필요할 경우 대한변협이 해당 법무법인의 징계·진정 이력을 고려해 허가하는 형태로 법 개정을 논의해야 한다"고 촉구했다.&lt;/p&gt;</description>
+			<description>&lt;p style="text-align: center; "&gt;   &lt;img src="https://image.lawtimes.co.kr/thumb/180/206019.jpg" alt="19999.jpg" /&gt;&lt;/p&gt;&lt;p style="text-align: left; "&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;한국법조인협회(회장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="34148"&gt;김기원&amp;nbsp;&lt;/span&gt;변호사)는 변호사 광고와 법무법인 분사무소 개수에 대한 규제가 필요하다고 촉구했다. &lt;br /&gt;&lt;br /&gt;한법협은 3월 4일 "네트워크 로펌의 확산이 법률 소비자에게 미치는 영향을 고려할 때, 대한변호사협회와 국회·정부가 광고 규제와 분사무소 개수 제한 방안을 마련해야 한다"고 밝혔다.&lt;br /&gt;&lt;br /&gt;한법협은 법조윤리 강화를 위한 규제 기준으로 세 가지 원칙을 제시했다. △법률 소비자와 사회의 이익을 고려하고 법조 윤리를 실질적으로 강화하는 방향으로 이루어져야 하고 △변호사 사회와 국민의 공감대를 확보하기 위해 충분한 논의와 소통이 필요하며 △부작용이 예상되는 규제는 신중하게 검토한 후 도입해야 한다는 것이다.&lt;br /&gt;&lt;br /&gt;이어 "주·분사무소 홈페이지를 개별 운영하고 실제 주재하는 변호사만 간판에 표시하도록 할 뿐 아니라 변호사가 아닌 공직 출신 사무직원의 광고를 제한해야 한다"며 "본사·지사 명칭 사용을 금지하고, 광고 블로그 등록제를 도입하는 한편, 일정 매출 이상 법무법인은 광고를 사전 등록하고 임의적 사전 광고 심의를 받도록 해야 한다"고 강조했다.&lt;br /&gt;&lt;br /&gt;한법협은 이 같은 방안이 변호사 사회에서도 높은 지지를 받고 있다고 설명했다. &lt;br /&gt;&lt;br /&gt;지난해 12월 서울지방변호사회가 실시한 설문조사에서 △주·분사무소 홈페이지 개별 운영(89.8% 찬성) △실제 주재하는 변호사만 간판 광고(96.0% 찬성) △변호사가 아닌 공직 출신 사무직원의 광고 제한(95.0% 찬성) △본사·지사 명칭 사용 금지(84.3% 찬성) 등 다수의 규제 방안이 변호사들의 지지를 받은 것으로 나타났다는 것이다.&lt;br /&gt;&lt;br /&gt;한법협은 "입찰형 키워드 광고 금지, 변호사 1인당 담당할 수 있는 사건 수 제한, 법무법인의 광고비 총액 제한 등의 규제는 신중한 검토가 필요하다"며 "각 지방변호사회별로 1개 이내의 분사무소 개설을 허용하고, 추가 개설이 필요할 경우 대한변협이 해당 법무법인의 징계·진정 이력을 고려해 허가하는 형태로 법 개정을 논의해야 한다"고 촉구했다.&lt;/p&gt;</description>
 			<pubDate>Tue, 04 Mar 2025 01:30:37 -0000</pubDate>
 			<category>news</category>
 			<link>https://www.lawtimes.co.kr/news/206019</link>
@@ -228,16 +238,6 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/205958</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/205958.jpg</media:thumbnail>
 			<dc:creator>임현경 기자</dc:creator>
-		</item>
-		<item>
-			<title>정원영 인하우스카운슬포럼 회장·박철영 전 회장 법률신문사 내방</title>
-			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/205954.jpg" alt="25277.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;정원영 인하우스카운슬포럼(IHCF) 회장과 박철영 전 회장이 27일 서울 서초구 법률신문사를 방문해 이수형 사장 등과 환담했다.&lt;p&gt;&amp;nbsp;   &lt;p&gt;정 회장은 "IHCF가 더욱 성장할 수 있도록 최선을 다하고 있다"며 "앞으로 법률신문과의 접점을 기반으로 다양한 활동을 함께 해나갈 수 있기를 기대한다"고 밝혔다.&lt;/p&gt;   &lt;p&gt;&amp;nbsp;&lt;/p&gt;   &lt;p&gt;정 회장은 지난해 12월 IHCF 정기총회에서 회장으로 선출돼 지난달부터 IHCF를 이끌고 있다. 정 회장은 유니스 김, 양재선 전임 회장에 이은 세 번째 여성 회장이다. 현재 한국얀센 전무로 근무하고 있다.&lt;/p&gt;   &lt;p&gt;&lt;br /&gt;로버트보쉬코리아 공동대표이사인 박철영 전 회장은 IHCF 제11대, 제12대 회장을 지냈다.&lt;/p&gt;   &lt;/p&gt;</description>
-			<pubDate>Thu, 27 Feb 2025 08:59:50 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/205954</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/205954</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/205954.jpg</media:thumbnail>
-			<dc:creator>한수현 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
