@@ -13,6 +13,69 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>노태악 “선관위 자녀 특혜 채용 통렬히 반성…외부통제 적극 검토”</title>
+      <link>https://www.chosun.com/national/national_general/2025/03/05/4VUV3FMM35BXROKMGWWSRLSPEI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/03/05/4VUV3FMM35BXROKMGWWSRLSPEI/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 05 Mar 2025 05:06:30 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EAL2D3N7UJPUJCSLWVDXOF63VA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;노태악 중앙선거관리위원장이 5일 경기 과천 중앙선관위로 들어서고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;노태악 중앙선거관리위원장이 5일 대국민 사과문을 통해 자녀 특혜 채용 비리 관련자에 대한 엄중 징계 방침을 밝혔다. 선관위가 감시 사각 지대에서 자녀와 친인척 취업 청탁 등을 통해 사실상 ‘가족 회사’처럼 운영돼 왔다는 비판이 나오자 대국민 사과를 한 것이다.&lt;br&gt;&lt;br&gt;노 위원장은 “선관위는 고위직 간부들의 자녀 특혜 채용 문제로 국민 여러분께 큰 실망과 걱정을 끼쳐드렸다”며 “중앙선거관리위원장으로서 통렬한 반성과 함께 머리 숙여 사과드린다”고 했다. &lt;br&gt;&lt;br&gt;노 위원장은 “이번 사건으로 선관위에 대한 국민 신뢰가 흔들리고 있다는 것을 잘 알고 있다. 나아가 선관위의 조직 운영에 대한 불신이 선거 과정에 대한 불신으로 이어질 수 있다는 것에 책임을 통감하고 있다”며 “선관위는 국민 여러분이 만족할 때까지 제도 개선을 위해 최선을 다하겠다”고 했다. &lt;br&gt;&lt;br&gt;이어 “인사 규정 정비 및 감사기구 독립성 강화 등 그동안 마련했던 제도 개선에 안주하지 않고 다양한 외부 통제 방안도 적극 검토하겠다”며 “특혜 채용 문제와 관련해 부적정하게 업무를 처리한 직원에 대해서는 오늘 징계위원회에 징계 요구를 했으며, 감사원이 요구한 징계 수준과 선관위 내부 기준을 고려해 엄중하게 조치할 예정”이라고 밝혔다. &lt;br&gt;&lt;br&gt;노 위원장은 “선관위는 헌법기관의 독립성에만 기대지 않고 국민 신뢰 회복을 위해 끊임없는 자정의 노력을 다하겠다”며 “국민 여러분께 다시 한번 죄송하다는 말씀을 드린다”고 했다. &lt;br&gt;&lt;br&gt;앞서 감사원은 지난달 27일 선관위 직무감찰 결과를 발표해 채용 비리에 연루된 전·현직 선관위 관계자 32명에 대해 징계·주의 등의 조치를 하라고 요구했다. 감사원 감사 결과 선관위 간부들은 앞장서서 자녀 채용을 청탁했고, 특혜 채용 의혹이 불거져도 “선거만 잘 치르면 된다”며 무시한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>한강서 극단선택 시도한 父子…구조되자 “가족 죽였다” 자백</title>
+      <link>https://www.chosun.com/national/national_general/2025/03/05/7KM46IPNEVEHTBMJK7FAFZOD7I/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/03/05/7KM46IPNEVEHTBMJK7FAFZOD7I/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 05 Mar 2025 04:52:37 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/X4WX55AXSBGOJAEPHUXGIU3CIA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 관련 이미지. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;아내이자 어머니인 80대 여성을 살해한 뒤 한강에서 극단적 선택을 시도한 부자가 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;5일 일산서부경찰서 등에 따르면 전날(4일) 오후 8시 30분쯤 80대 남성 A씨와 그의 50대 아들 B씨가 서울 잠실한강공원에서 극단적 선택을 시도하다 소방당국에 구조됐다.&lt;br&gt;&lt;br&gt;A씨와 B씨는 구조 직후 경기도 고양시의 한 아파트에서 함께 살던 자신들의 아내이자 어머니인 80대 여성 C씨를 살해했다고 자백했다.&lt;br&gt;&lt;br&gt;경찰은 고양시에 있는 이들의 주거지에서 숨진 C씨를 발견하고 A씨와 B씨를 긴급 체포했다.&lt;br&gt;&lt;br&gt;경찰은 A씨와 B씨를 상대로 정확한 범행 동기를 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>오세훈 “경제 위기 대응 위해 한덕수 총리 복귀해야”</title>
+      <link>https://www.chosun.com/national/national_general/2025/03/05/3XN6NTOZ2JELTJE53RI4L6UEZE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/03/05/3XN6NTOZ2JELTJE53RI4L6UEZE/</guid>
+      <dc:creator>최연진 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 05 Mar 2025 04:43:57 +0000</pubDate>
+      <content:encoded>오세훈 서울시장은 5일 “경제 위기 대응을 위해 한덕수 총리가 복귀해야 한다”고 했다.&lt;br&gt;&lt;br&gt;오 시장은 이날 페이스북 글에서 “경제가 나락으로 떨어지기 전에 시급히 위기 대응 체제를 가동해야 한다”며 이같이 밝혔다.&lt;br&gt;&lt;br&gt;오 시장은 “경제 상황이 심상치 않다. 1월 기준으로 생산과 소비, 투자 지표가 일제히 내림세를 보였다”며 “특히 생산과 투자는 코로나의 후폭풍이 거세던 2020년 이후 최대치의 감소 폭을 기록했다”고 했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4HB7GVFEZDW5OUC27KVHGCD7MU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;오세훈 서울시장. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이어 “여기에 미국발(發) 관세 태풍이 격화하면서 전 세계가 경제, 산업, 통상 분야에서 극심한 불확실성과 싸우고 있다”며 “미국과 동맹 관계이거나 FTA(자유무역협정)를 체결한 국가도 예외가 아니다. 바야흐로 모든 경제지표에 빨간불이 켜진 비상 상황”이라고 했다.&lt;br&gt;&lt;br&gt;그러면서 오 시장은 “헌법재판소가 조속히 한덕수 국무총리 탄핵 심판을 서둘러야 한다”며 “한 총리가 대통령 권한대행으로 복귀하고, 최상목 대행은 경제부총리직에 전념하는 것이 위기를 극복할 가장 유효적절한 방법”이라고 했다.&lt;br&gt;&lt;br&gt;오 시장은 “지금 한 발만 삐끗하면 과거 외환위기와 금융위기에 비견될 충격에 휩싸일 수 있다. 시간이 많지 않다”며 “안정된 리더십으로 위기를 극복한 교훈을 되새겨야 할 때”라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>파크골프장 무단 조성한 창원파크골프협회장 벌금 1000만원</title>
+      <link>https://www.chosun.com/national/regional/2025/03/02/YDXSBXXRY5EFPNDRCVKOPWOQFI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/03/02/YDXSBXXRY5EFPNDRCVKOPWOQFI/</guid>
+      <dc:creator>창원=김주영 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 02 Mar 2025 08:09:39 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Z6QPEFXGJNRPZ5XSGMLYBBG2IQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;창원지법. /조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;환경 당국의 허가 없이 파크골프장을 마음대로 조성한 파크골프협회장에게 벌금형이 선고됐다.&lt;br&gt;&lt;br&gt;창원지법 형사3단독(부장판사 박기주)은 하천법 위반 등의 혐의로 기소된 창원파크골프협회장 A씨에게 벌금 1000만원을 선고했다고 2일 밝혔다. &lt;br&gt;&lt;br&gt;재판부는 “대산파크골프장 회원 확대를 위해 골프장을 임의로 조성하고 무단 점용한 토지 규모도 매우 크다”며 “조성 당시 불법성을 인식하고 있었고 골프장 위수탁 협약 해지 통보를 받고도 컨테이너 등을 추가로 설치한 점 등을 고려했다”고 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 낙동강유역환경청의 하천시설 점용 허가를 받지 않고 2022년 4월 경남 창원시 의창구 일대 11만3090㎡ 면적에 90홀 규모의 홀컵 등을 설치하고 잔디를 심는 등 임의로 파크골프장을 조성한 혐의로 기소됐다.&lt;br&gt;&lt;br&gt;판결문에 따르면, 그는 자신이 협회장으로 있는 창원파크골프협회가 창원시청과 대산파크골프장 관리 운영 위수탁 협약을 맺고 대산파크골프장을 관리해온 것을 이용해 범행을 저질렀다. 이 파크골프장이 있는 땅은 낙동강유역환경청이 소유한 국유지로, 하천구역에서 시설을 점용하려면 낙동강유역환경청 허가를 받아야 한다.&lt;br&gt;&lt;br&gt;그러나 A씨는 환경청 허가 없이 대산파크골프장 관리 권한을 이용해 임의로 이곳에 파크골프장을 조성했다. 또 이곳에 컨테이너 4개를 설치해 창원파크골프협회 사무실 등으로 사용했다.&lt;br&gt;&lt;br&gt;또 창원시가 창원파크골프협회와 위수탁 협약을 해지하고 시가 대산파크골프장을 운영한다는 내용의 현수막을 걸자, 협회 이사에게 현수막 철거를 지시해 현수막을 무단으로 철거했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>최상목 “의료 개혁, 멈출 수 없는 과제… 의사협회·전공의 단체, 논의 참여해 달라”</title>
+      <link>https://www.chosun.com/politics/goverment/2025/03/05/SGAXNPHYXVBFNDVTVQRTLW5T2A/</link>
+      <guid isPermaLink="true">https://www.chosun.com/politics/goverment/2025/03/05/SGAXNPHYXVBFNDVTVQRTLW5T2A/</guid>
+      <dc:creator>김경필 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 05 Mar 2025 04:30:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3K4T2G4JIFOAHPHHWTOMWXVTOI.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;최상목 대통령 권한대행 부총리 겸 기획재정부 장관이 지난 1월 24일 서울 종로구 정부서울청사에서 열린 의료 집단행동 중앙재난안전대책본부 회의를 주재하고 있다. /기획재정부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최상목 대통령 권한대행 부총리 겸 기획재정부 장관은 5일 “국민 건강의 버팀목이 될 의료 정상화를 위한 구조 개혁은 멈출 수 없는 과제”라며 “대통령 직속 의료개혁특별위원회가 합리적 대안을 만들 수 있도록 지원하겠다”고 했다. 의과대학 증원에 반대해 집단행동을 계속하고 있는 의사 단체들에는 “의료개혁특위를 포함한 의료 개혁 논의에 동참해 달라”고 요청했다.&lt;br&gt;&lt;br&gt;최 대행은 이날 오후 정부서울청사에서 노연홍 위원장 등 의료개혁특위 위원들, 조규홍 보건복지부 장관 등 관계 부처 장관들과 오찬 간담회를 하고, 지역·필수 의료 강화를 위한 의료 개혁 추진 방향을 논의했다.&lt;br&gt;&lt;br&gt;이 자리에서 최 대행은 “의료 개혁은 말의 성찬이 아닌 이행의 단계로 접어들고 있다”며 “2023년에는 소아·중증·응급 의료 등에 대한 ‘필수 의료 지원 대책’과 국립대병원 육성을 천명한 ‘필수 의료 혁신 전략’을 발표했고, 지난해에는 개혁 청사진을 밝힌 ‘필수 의료 정책 패키지’와 구체적인 제도 개선 및 지원 계획을 담은 ‘의료 개혁 1차 실행 방안’을 통해 상급 종합병원 구조 전환을 시작했다”고 소개했다.&lt;br&gt;&lt;br&gt;최 대행은 “이를 가능하게 했던 것은 의료 개혁에 대한 국민적 지지와 의료개혁특위 위원 여러분의 헌신적 노고 덕분”이라며 “의대 증원에 반대한 전공의와 의대생들의 집단행동이 계속되고 있지만, 의료 정상화를 위한 구조 개혁은 멈출 수 없는 과제”라고 강조했다. “갈등과 여러 쟁점을 이유로 20~30년 가까이 미뤄 온 개혁 논의를 또다시 미룬다면, 이 또한 정부의 직무 유기가 될 것”이라고도 했다.&lt;br&gt;&lt;br&gt;최 대행은 이어서 “정책적 지원이 소홀했던 의대 교육과 전공의 수련, 무한 경쟁 각자 도생의 비효율적 전달 체계, 개원 쏠림을 초래한 보험 수가와 비급여·실손보험의 문제, 소송에 의존하는 의료 사고 분쟁 해결”을 의료 분야의 구조적 문제로 들고, “이를 해결하지 않고서는 우리 의료가 더 나은 미래로 나아갈 수 없다”고 했다.&lt;br&gt;&lt;br&gt;최 대행은 그러면서 “의료개혁특위가 한시적 논의 기구가 아니라 긴 호흡을 갖고 우리 의료 전반에 걸친 다양한 구조 개혁 과제들을 공론화하고, 갈등을 넘어 합리적 대안을 만들 수 있도록 지원하겠다”고 했다. 또 “의료개혁특위 논의에 따른 개혁 과제에 대해선 실효적·안정적 이행을 위해 범정부 차원에서 과감한 법령·제도 개선과 투자를 추진하겠다”고 했다.&lt;br&gt;&lt;br&gt;최 대행은 “의사협회와 전공의 단체도 의료개혁특위를 포함한 의료 개혁 논의에 동참해줄 것을 요청한다”며 “세부 이행 계획 마련 및 집행 과정에서 전문가로서 실행력 높고 지속 가능한 대안을 제시해 달라”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“예약하고 오세요” 미용실마다 퇴짜…주눅 든 노인에 쏟아진 공감</title>
+      <link>https://www.chosun.com/national/national_general/2025/03/05/PPJJYOUTWJEWJF4YKLPXNNHQJQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/03/05/PPJJYOUTWJEWJF4YKLPXNNHQJQ/</guid>
+      <dc:creator>김자아 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 05 Mar 2025 04:15:17 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4M2PG4PMWFM7XBDEYQREV367ZE.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;서울 시내 한 미용실 앞으로 시민들이 지나가고 있다.(기사와는 직접 관련 없음)/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;예약을 하지 않았다는 이유로 미용실 여러 군데에서 거절당한 어르신의 사연이 전해졌다. 온라인에서는 예약제로만 운영하는 미용실이 많아지면서 미용실 방문이 불편해졌다는 반응이 나온다.&lt;br&gt;&lt;br&gt;5일 여러 온라인 커뮤니티에는 ‘예약 안 하고 미용실 방문했다가 거절당하고 주눅 든 어르신’이라는 제목으로 전날 스레드에 올라온 글이 공유됐다.&lt;br&gt;&lt;br&gt;미용실을 운영 중이라는 스레드 이용자 A씨는 “며칠 전 손님 파마 중에 어느 노인이 들어오지도 못하고 문 밖에서 우물쭈물하고 계셔서 나가봤다”며 “‘예약을 안 했는데 머리 못하겠죠? 죄송해요’라고 하시는데 손도 떨고, 너무 주눅 들어 계셨다”고 운을 뗐다.&lt;br&gt;&lt;br&gt;이어 “일단 들어와서 손 좀 녹이고 가시라고 했는데 벌써 몇 군데에서 거절당하고 오셨다더라”며 “요즘 다들 예약제인 건 아는데 예약을 할 줄 모른다고, 미안하다고 거듭 사과하시는데 이게 왜 사과할 일인가 싶었다”고 했다.&lt;br&gt;&lt;br&gt;그러면서 “오늘 당장 머리하고 싶은 때도 있고, 일정이 부정확해서 예약을 미리 해놓기 애매한 경우도 있기 때문에 나는 (손님들에게) 100% 예약제는 아니라고 안내드린다”고 했다.&lt;br&gt;&lt;br&gt;A씨는 “야무지게 파마도 해드렸는데 ‘노인이 이런 곳 와서 미안하다’고 그러시더라. 다 끝나고 하신 말씀이 너무 행복하시다는 거였다”고 했다.&lt;br&gt;&lt;br&gt;끝으로 “참 많은 생각이 드는 하루였다. 우리에겐 쉬운 거절도 어르신들에겐 크게 다가올 수 있고, 우리에겐 쉬운 호의도 어르신들에겐 더 크게 다가올 수도 있구나”라며 “조금 더 친절한 세상이 되었으면 좋겠다”고 했다.&lt;br&gt;&lt;br&gt;A씨의 이 글은 스레드에서 35만회 넘는 조회수를 기록했고, 여러 온라인 커뮤니티에도 공유돼 네티즌들의 공감을 샀다.&lt;br&gt;&lt;br&gt;네티즌들은 특히 예약을 하지 않았다는 이유로 미용실에서 거절당한 비슷한 경험담을 공유하며 예약제 운영에 대한 불편함을 토로했다. &lt;br&gt;&lt;br&gt;한 네티즌은 “우리 엄마가 요즘 이러시더라. 미용실 한 번 갈 때마다 엄청 고민하시는데, 손님 없어서 쉬고 있는 미용실 들어가도 예약 없으면 안 된다고 문전박대하더라”고 했고, 또 다른 네티즌도 “엄마가 70대이신데 동네 미용실 여기저기서 퇴짜 맞으셔서 이사한지 10년도 더 된 옛날 동네까지 가서 머리하신다”고 했다.&lt;br&gt;&lt;br&gt;다른 네티즌들도 “젊은 나도 미용실 갔다가 예약 안했다고 두번 퇴짜 맞고 집에서 혼자 머리 잘랐는데 어르신들은 더 슬플 거다” “예약 가능한 시간이라도 안내해주면 되는데 손님 없어도 현장에선 예약 안해주더라” “난 그래서 예약 필요 없는 단골 미용실만 다닌다” 등의 반응을 보였다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>유정복 시도지사協 회장 “분권형 개헌안 발의, 국회 설득할 것”</title>
+      <link>https://www.chosun.com/national/national_general/2025/03/05/RTLRWACZBFC2HJ7XMOOL5DILDQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/03/05/RTLRWACZBFC2HJ7XMOOL5DILDQ/</guid>
+      <dc:creator>인천=이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 05 Mar 2025 03:57:08 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/O3KIR5LJKZJDHJCUIR7ZYYDFOY.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;대한민국 시도지사협의회장인 유정복 인천시장이 지난 4일 오후 서울 여의도 국회 소통관에서 분권형 헌법 게정안 관련 기자회견을 하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대한민국시도지사협의회가 발표한 개헌안과 관련해 일부 시도지사가 반대 입장을 나타내는 가운데, 협의회 회장을 맡고 있는 유정복 인천시장이 해당 개헌안의 발의를 위해 국회를 설득하겠다는 입장을 나타냈다. &lt;br&gt;&lt;br&gt;유정복 시장은 5일 인천시청 브리핑룸에서 기자회견을 열고 “이번 개헌안이 국회에서 발의되도록 노력하겠다”고 말했다. 유 시장은 “많은 정치원로를 비롯해 학계와 시민들이 지금 개헌하지 않으면 안 된다고 말씀하신다”며 “국회가 이 뜻을 헤아려 개헌 논의에 함께하길 바란다”고 했다. &lt;br&gt;&lt;br&gt;유 시장은 전날 대통령 4년 중임제와 국회 양원제 도입, 지방분권 강화 등을 주요 내용으로 하는 헌법 개정안을 시도지사협의회 명의로 발표했다. &lt;br&gt;&lt;br&gt;그러나 강기정 광주시장, 김관영 전북도지사, 김동연 경기도지사, 김영록 전남도지사, 오영훈 제주도지사, 홍준표 대구시장 등은 이번 개헌안에 대해 반대 입장을 밝혔다. &lt;br&gt;&lt;br&gt;유 시장은 개헌안 내용 중 대통령 형사상 불소추 특권의 범위를 ‘재임 중 발생한 형사사건에 한해 소추할 수 없다’고 명시해 대통령 재임 전 형사사건은 재판이 중지되지 않도록 한 84조 때문에 민주당 소속 시도지사가 반대하는 것으로 해석했다. 홍 시장에 대해선 “(협의회 개헌안이) 왜 잘못됐다는 얘기는 없었다”며 “3월 중순 경에 자신이 발표할 개헌안에 대해 얘기한 것”이라고 했다. &lt;br&gt;&lt;br&gt;유 시장은 “개헌이 필요하다는 17개 시도지사들의 공감이 있었고, 세부안을 마련해 10여일 전부터 문서로 의견을 수렴했다”며 “나중에 추가된 부분들에 대해선 전화로 말씀을 드렸다”고 했다. 유 시장은 “협의회장으로서 반대 의견도 다 수용하고, 다른 의견을 내지는 않겠다”며 “헌법 개정은 국회 발의와 국민투표를 통해 가능한 만큼 국회 개헌 논의 과정에서 국민의 뜻이 반영될 것으로 기대한다”고 했다. &lt;br&gt;&lt;br&gt;한편, 시도지사협의회는 오는 7일 국회의원회관 대회의실에서 ‘지방분권형 헌법 개정 국회 대토론회’를 진행할 예정이다. &lt;br&gt;&lt;br&gt;대한민국헌정회, 한국헌법학회, 경제정의실천시민연합, 지방분권전국회의 등이 이번 토론회를 공동 주최한다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title> 2작전사령부 등 대구도심 5개 군부대…2030년까지 군위로</title>
       <link>https://www.chosun.com/national/regional/2025/03/05/YVNRAHDCTBDJNAPQZESY34B3EY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/03/05/YVNRAHDCTBDJNAPQZESY34B3EY/</guid>
@@ -676,80 +739,6 @@
       <description/>
       <pubDate>Mon, 03 Mar 2025 01:33:29 +0000</pubDate>
       <content:encoded>오세훈 서울시장은 3일 “규제개혁, 세제개혁, 재정정책, 금융혁신, 산업정책 모두 기업과 경제 살리기를 중심으로 근본적으로 변화해야 한다”고 했다.&lt;br&gt;&lt;br&gt;오 시장은 이날 페이스북에 ‘다시 성장, 규제 철폐가 답입니다’라는 제목의 글을 올리면서 “규제를 풀지 않는다면 기업도, 경제도 더 이상 성장할 수 없다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CBXPVCB335PKFMI7SXO5FBUM2U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;오세훈 서울시장/뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그는 “우리 경제는 5년마다 성장률이 1%씩 하락하는 ‘한국병’에 걸려 있다”며 “‘다시 성장’으로 반전하지 못하면 국가도 국민도 존립할 수 없다”고 했다.&lt;br&gt;&lt;br&gt;오 시장은 “세계는 AI, 바이오, 핀테크, 로봇 등 신산업 중심으로 빠르게 재편되고 있지만 우리는 20∼30년 동안 주력산업이 변하지 않았다”며 “글로벌 100대 유니콘 기업 중 17개가 한국에서는 규제 때문에 사업을 할 수 없거나 제한적으로만 운영될 수 있다”고 했다.&lt;br&gt;&lt;br&gt;이어 “혁신을 가로막는 규제가 한국병의 근본 원인”이라며 “과거처럼 경제 살리기라는 이름으로 기업인을 불러 투자 당부를 하고, 국가 지원을 일부 늘리고, 돈을 푸는 정도로는 저성장의 흐름을 막을 수 없다”고 했다.&lt;br&gt;&lt;br&gt;그러면서 “경제를 살리려면 기업이 혁신할 수 있도록 정부가 환경을 바꿔야 한다”며 “지난 연말부터 서울시가 규제 철폐에 속도를 내고 있는 이유”라고 했다.&lt;br&gt;&lt;br&gt;오 시장은 “새 술을 빚기 위해서는 새 부대가 필요하다”며 “내일 경제인, 기업인들과 만나 ‘기업 성장형 규제 개혁 방안’ 발표에서 구체적인 대책을 말씀드리겠다”고도 했다.&lt;br&gt;&lt;br&gt;서울시는 4일 오전 대한상공회의소 국제회의장에서 ‘기업 중심 성장 지향형 규제 개혁’ 포럼을 열 예정이다. 오 시장은 ‘KOGA’(Korea Growth Again)를 주제로 기조연설을 한다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>향로봉 50cm… 강원 폭설, 피해 이어져</title>
-      <link>https://www.chosun.com/national/regional/2025/03/03/OBW4MJ7YHZF7LOETKMARP7JCGA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/03/03/OBW4MJ7YHZF7LOETKMARP7JCGA/</guid>
-      <dc:creator>춘천=정성원 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 03 Mar 2025 01:06:49 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UUNTRAP75BKRTAYOKFBAWKV2SM.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;3일 새벽 강원 고성 토성면 신평리의 도로에서 한 차량이 눈길에 고립돼 출동한 소방당국에 의해 안전한 곳으로 이동하고 있다./뉴스1
-&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;향로봉에 50cm의 눈이 내리는 등 밤사이 강원 산간 지역을 중심으로 많은 눈이 내리면서 눈길 교통사고 등 사고가 잇따랐다.&lt;br&gt;&lt;br&gt;지난 2일 오후 11시 16분쯤 강원 태백시 황지동에서 제설용 17t 트럭과 K7 승용차가 충돌했다. 이 사고로 K7 승용차에 타고 있던 운전자 A(44)씨 등 2명이 다쳐 인근 병원으로 옮겨졌다. &lt;br&gt;&lt;br&gt;앞서 오후 5시 55분쯤 강원 횡성군 영동고속도로 둔내나들목 인근에서도 스타렉스 승합차와 1t 봉고 트럭이 충돌해 승합차에 타고 있던 2명이 다쳤다. 강원도소방본부에 따르면 전날부터 이날 오전 6시까지 강원도 내에서 16건의 눈길 교통사고가 발생한 것으로 집계됐다.&lt;br&gt;&lt;br&gt;차량 고립 사고도 발생했다. 3일 오전 0시 25분쯤 강원 양양군 현북면 한 도로에선 “폭설로 차량 안에 고립됐다”는 신고가 접수, 운전자 1명이 출동한 소방대원에 의해 구조되는 등 도내에서 5건의 차량 고립 구조 요청 신고가 접수됐다.&lt;br&gt;&lt;br&gt;강원소방본부 관계자는 “차량 고립으로 인한 인명 피해는 없으며, 모두 구조됐다”고 밝혔다.&lt;br&gt;&lt;br&gt;많은 눈이 내리면서 국립공원공단은 설악산과 치악산, 태백산 등 도내 국립공원 탐방로를 전면 통제했으며, 강릉 안반데기길 등 5곳의 도로도 폭설로 인해 통제 중이다.&lt;br&gt;&lt;br&gt;강원도는 이날 오전 0시 30분을 기해 비상 2단계를 발령, 피해 예방에 총력을 기울이고 있다.&lt;br&gt;&lt;br&gt;강원도 관계자는 “폭설 대응을 위해 1140명이 비상근무 중”이라며 “장비와 인력을 집중적으로 투입해 제설 작업을 진행 중”이라고 말했다.&lt;br&gt;&lt;br&gt;한편 강원도엔 이날 오전 9시까지 향로봉 50cm, 미시령 44.1cm, 고성 미시령 터널 36.6cm, 진부령 35cm, 고성 20.6cm, 속초 18.7cm 등의 눈이 내렸다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>작년 박사 10명 중 3명은 ‘백수’...역대 최고</title>
-      <link>https://www.chosun.com/national/education/2025/03/03/ZM2IJJUAFRGRBH4PDXAANIUKIY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2025/03/03/ZM2IJJUAFRGRBH4PDXAANIUKIY/</guid>
-      <dc:creator>정해민 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 02 Mar 2025 15:53:00 +0000</pubDate>
-      <content:encoded>“오래전부터 교수는 못 돼도 학생들에게 강의하고 싶은 마음이 있었는데, 이번에 박사 졸업을 앞두고 여러 학교에 (시간)강사 지원을 했지만 지방 사립대 서류 전형까지 모두 탈락했다. 진로가 막막하다.”&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4UIEY5IR7JHBNF4KNCFGLBOELQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난달 수도권 한 대학에서 인문·사회 계열 박사 학위를 딴 A씨는 최근 국내 석박사 채용 정보 커뮤니티에 이런 글을 올렸다. 그는 “강의 경력이 없어서인지, 수도권 대학을 나온 것 때문인지, 서류 전형조차 통과 못 하는 이유를 알고 싶다”고 했다. &lt;br&gt;&lt;br&gt;지난해 박사 학위를 딴 사람 10명 중 3명은 A씨처럼 일자리를 구하지 못한 것으로 나타났다. 2일 통계청의 ‘2024년 국내 신규 박사 학위 취득자 조사’ 결과에 따르면, 응답자 1만442명 중 조사 당시 일을 하고 있거나 취업이 확정된 사람은 70.4%였다. 일자리를 못 구한 사람은 26.6%, 일할 의사가 없는 사람은 3%였다. 29.6%가 무직자인 것이다.&lt;br&gt;&lt;br&gt;조사를 시작한 2014년에 무직자 비율은 24.5%였는데 이후 오르내리다 지난해 역대 최고치를 기록했다. 특히 30세 미만 박사 취득자 537명 중 무직자는 47.7%로 거의 절반이 일자리가 없었다. 성별로는 남성(6288명)의 27.4%, 여성(4154명)의 33.1%가 무직이었다. &lt;br&gt;&lt;br&gt;이렇게 ‘박사 무직자’가 늘어난 것은 국내 박사 취득자는 급증한 반면 경기 침체로 이들의 일자리는 그만큼 늘지 않았기 때문으로 분석된다. 한국의 박사 취득자는 2019년 1만5308명에서 작년 1만8714명으로 3406명(22.2%)이나 늘었다. 반면 학령인구 감소, 등록금 동결 등으로 재정난을 겪는 대학들은 교수 채용을 대체로 줄이는 추세다. 서울의 한 사립대 교수는 “요즘 AI(인공지능) 등 수요가 높은 첨단 분야는 모든 대학이 교수를 뽑으려고 난리지만, 인문계 등 대다수 학과는 교수가 정년퇴직하면 새로 안 뽑고 있다”면서 “인문계 등은 시간강사 자리도 구하기 어렵다”고 말했다. &lt;br&gt;&lt;br&gt;실제 ‘무직 박사’는 전공별로 ‘예술·인문학(40.1%)’ ‘자연과학·수학·통계학(37.7%)‘ ’사회과학·언론·정보학(33.1%)’ 등 순으로 비율이 높았다. 반면 ‘보건·복지(20.9%)’ ‘교육(21.7%)’ ‘경영·행정·법(23.9%)’ 등은 무직자 비율이 상대적으로 낮았다. &lt;br&gt;&lt;br&gt;지난해 취업한 박사 취득자(7346명)의 연봉을 살펴보니, 2000만~4000만원을 받는 경우(27.6%)가 가장 많았다. 연봉 4000만~6000만원(19.8%), 6000만~8000만원(16.2%), 1억원 이상(14.4%) 등이 뒤를 이었다. 2000만원 미만을 받는 박사 취득자 비율도 10.6%에 달했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>정쟁 도구된 AI 교과서… ‘보수’ 대구 채택률 100%, ‘진보’ 세종 8%</title>
-      <link>https://www.chosun.com/national/education/2025/03/03/6QZKLCH6B5AQNHHKGWPIJBQEW4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2025/03/03/6QZKLCH6B5AQNHHKGWPIJBQEW4/</guid>
-      <dc:creator>표태준 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 02 Mar 2025 15:53:00 +0000</pubDate>
-      <content:encoded>올해 3월 초·중·고교에 도입되는 인공지능(AI) 디지털 교과서 채택률이 교육감 성향에 따라 지역별로 최대 12배 넘는 격차를 보이는 것으로 나타났다. 채택률 100%를 기록한 대구 강은희 교육감이 전교조로부터 고발당하는 등 AI 교과서가 정쟁 도구가 되는 모양새다.&lt;br&gt;&lt;br&gt;2일 백승아 민주당 의원실이 교육부로부터 받은 ‘AI 교과서 선정 현황’에 따르면, 지난달 17일 기준 전국 초·중·고 1만1921곳 중 3857곳(32%)이 AI 교과서를 채택 혹은 채택할 예정인 것으로 집계됐다. 새누리당(현 국민의힘) 국회의원(비례)과 박근혜 정부 때 여성가족부 장관을 지낸 보수 성향 강은희 교육감이 이끄는 대구는 전체 학교 466곳 모두 AI 교과서를 사용할 예정(채택률 100%)이다. &lt;br&gt;&lt;br&gt;반면 세종은 전체 학교 105곳 중 AI 교과서를 채택한 학교가 8곳(8%)에 불과하다. 정부세종청사가 위치해 ‘젊은 공무원 도시’로 불리는 세종은 대표적인 야권 텃밭으로, 전교조 충남지부장을 지낸 진보 성향 최교진 세종교육감이 2014년부터 10년 넘게 교육감을 맡고 있다. &lt;br&gt;&lt;br&gt;다른 지역도 교육감 성향에 따라 채택률이 달랐다. 대구를 비롯해 강원(49%), 충북(45%), 경북(45%), 경기(44%), 제주(41%) 등 채택률 40% 이상인 지역은 모두 중도·보수 교육감 지역이다. 반면, 채택률 20% 이하 지역은 전남(9%), 경남(10%), 광주(12%), 울산(15%), 인천(20%) 등은 모두 진보 교육감 관할이다. &lt;br&gt;&lt;br&gt;교육부는 애초 올해 초등학교 3·4학년, 중학교 1학년, 고등학교 1학년 수학·영어 정보 과목에 AI 교과서를 전면 도입할 예정이었다. 그러나 야당과 전교조 등 교원 단체 반발이 거세자 올해에 한해 학교장이 알아서 채택 여부를 결정하도록 했다. 결과적으로 채택률이 낮은 지역은 교육감이 야당과 전교조 등 노조 영향을 받은 것으로 해석된다. 전교조 등 야권은 AI 교과서에 대해 “교육 효과 검증이 안 됐기 때문에 도입은 시기상조”라며 반대하고 있다. &lt;br&gt;&lt;br&gt;익명을 요구한 한 교육계 인사는 “디지털 교과서 등은 과거 진보 정치권이 ‘교육 격차 해소’를 위해 추진해온 정책인데, 지금은 반대하는 것은 이해하기 어렵다”며 “AI 교과서 도입으로 교사 업무가 늘어날까 걱정하는 조직 이기주의가 아닐지 우려된다”고 했다.&lt;br&gt;&lt;br&gt;4일 전국 학교들이 일제히 개학하지만 서울 지역 학교들은 AI 교과서 사용에 필요한 단말기 보급이 늦어지면서 이달 중순 이후에나 학생들이 AI 교과서를 써볼 수 있을 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/ZSXWKVVJDBKK47PIKZ5RX74RME.jpg?width=5125&amp;height=3280&amp;auth=365981e6474d5d281542145677415cc7c2c2d611e58aa930a075ff520d6e4cef&amp;smart=true" type="image/jpeg" height="3280" width="5125">
-        <media:description type="plain">13일 경기도 고양시 킨텍스에서 열린 '2024 대한민국 교육혁신 박람회'에서 관람객들이 내년 도입 예정인 인공지능(AI) 디지털교과서를 체험하고 있다. 2024.12.13/뉴스1 ⓒ News1 권현진 기자</media:description>
-        <media:credit role="author" scheme="urn:ebu">뉴스1 ⓒ News1 권현진 기자</media:credit>
-      </media:content>
-    </item>
-    <item>
-      <title>마약 사범 10명 중 6명이 30대 이하 청년…가상자산으로 구매</title>
-      <link>https://www.chosun.com/national/court_law/2025/03/04/B76ODKDVHVEEPDFNYCT6C5QKTI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/03/04/B76ODKDVHVEEPDFNYCT6C5QKTI/</guid>
-      <dc:creator>이슬비 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 04 Mar 2025 06:00:32 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZIU3DVMV6BENNLAS3XZWT7HGB4.png"&gt;&lt;figcaption&gt;&lt;small&gt;대학생 연합동아리로 모인 피의자들이 마약을 투약한 모습. /서울남부지검&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전체 마약 사범 중 30대 이하가 차지하는 비중이 지난해 63.4%에 달한 것으로 나타났다. 30대 이하 마약사범이 전체의 60%를 넘긴 것은 처음으로, 전체 사범 10명 중 6명 이상이 30대 이하라는 얘기다. &lt;br&gt;&lt;br&gt;4일 대검찰청에 따르면, 전체 마약 사범 중 30대 이하가 차지하는 비중은 지난 2019년 49.1%에서 2020년 51.6%로, 2021년 59.6%, 2022년 59.7%, 2023년 59.9%, 지난해 63.6%로 점점 늘었다. 절대적인 숫자로 봐도 2019년 7886명이었던 30대 이하 마약 사범 숫자는 2020년 9322명, 2021년 9623명, 2022년 1만988명으로 늘었다. 그러다가 지난 2023년 1만6528명으로 급증했고, 지난해 1만4646명으로 나타났다. &lt;br&gt;&lt;br&gt;지난해 기준 국내 마약사범은 2만3022명으로 지난 2023년(2만7611명) 대비 16.6% 감소한 것과는 대조적이다. 전체 마약 사범은 줄었는데도, 30대 이하 사범의 비중은 오히려 더 커졌다. &lt;br&gt;&lt;br&gt;대검은 “텔레그램·다크웹 등 익명성 높은 소셜미디어(SNS)가 등장하고, 가상자산을 통한 마약 거래가 활성화되면서 젊은 층의 마약류 범죄가 심각해진 것으로 분석된다”고 했다. &lt;br&gt;&lt;br&gt;지난해 서울대·연세대·고려대 등 수도권 대학 13곳 회원 수백 명이 참여한 동아리가 마약 투약·유통으로 적발된 사례가 대표적이다. 검찰은 당시 동아리 회원 14명을 기소했다. 이들은 마약 수사 대비법을 알려주는 텔레그램 채널에서 ‘휴대전화 자료 영구삭제 등 포렌식 대비’ 등 대비법도 공유해온 것으로 드러났다. &lt;br&gt;&lt;br&gt;대검찰청은 이런 범죄를 줄이기 위해 전국 마약전담 검사 37명이 모여 ‘전국 마약전담 검사 워크숍’을 열고, 다크웹·가상자산 이용 마약류 유통사범 추적 수사기법을 공유했다고 밝혔다. 심우정 검찰총장은 “마약범죄는 민생범죄 중에서도 가장 심각한 문제”라며 “국민의 건강과 안전을 위해 자긍심을 갖고 최선을 다해달라”고 했다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>오늘도 전국 봄비, 강원엔 70㎝ ‘눈폭탄’ 예고</title>
-      <link>https://www.chosun.com/national/transport-environment/2025/03/03/XJKVNYPD3ZCDVM4GIIIFOXKPAM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/03/03/XJKVNYPD3ZCDVM4GIIIFOXKPAM/</guid>
-      <dc:creator>곽래건 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 02 Mar 2025 15:53:00 +0000</pubDate>
-      <content:encoded>북쪽에서 찬 공기가 내려오면서 3일 낮부터 기온이 전날보다 많게는 10도가량 뚝 떨어질 전망이다.&lt;br&gt;&lt;br&gt;기상청은 3일 아침 최저기온은 &lt;b&gt;영하 1~영상 5도, 낮 최고기온은 3~11&lt;/b&gt;도가 될 것이라고 2일 예보했다. 평년보다 기온이 낮은 데다 바람까지 강하게 불어 체감 온도는 더 떨어질 전망이다. 아침 최저기온은&lt;b&gt; 서울 0도, 대전 1도, 대구 2도, 광주 4도, 제주 10&lt;/b&gt;도 등이다. 추운 날씨는 4일까지 이어지다 5일부터 평년 수준을 회복할 것으로 예보됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GUYYPYZDZFDVNOZHCEFSBTYUVQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;나들이 가다 만난 거센 봄비 - 2일 서울 중구 명동에서 한 시민이 들고 있던 우산이 거센 바람에 거꾸로 뒤집히고 있다. 이날 오후 명동에는 최대 순간풍속 18.9m/s의 강풍이 몰아쳤다. 오후 3시 30분부터는 비도 쏟아지면서 기온이 빠르게 내려갔다. 기상청은 3일까지 서울에 최대 60㎜, 강원 동해안과 제주 지역에 최대 100㎜가량의 비가 내릴 것으로 전망했다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2일부터 내리기 시작한 비는 3일까지 이어진다. &lt;b&gt;기상청은 3일 오전까지 수도권과 강원도, 충북 북부, 경북 북부에, 4일 강원도와 경북 북부 중심으로 &lt;/b&gt;시간당 3~5㎝의 습하고 무거운 눈이 내려 쌓일 것이라고 내다봤다. 특히 강원 산지는 많은 곳은 70㎝의 폭설이 내리고, 5일까지 눈이 이어지며 1m 이상 눈이 쌓이는 곳이 있을 수 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>서부지법 난동범들, 영치금 넘쳐나고 취업 제의도 받아</title>
-      <link>https://www.chosun.com/national/national_general/2025/03/03/GIRG547Q2RCHFKYA3ZOQBZGHRA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/03/03/GIRG547Q2RCHFKYA3ZOQBZGHRA/</guid>
-      <dc:creator>구동완 기자, 김도균 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 02 Mar 2025 15:53:00 +0000</pubDate>
-      <content:encoded>지난 1월 19일 서울 서부지법에 난입한 혐의로 구속 기소된 74명 중 일부는 윤석열 대통령 지지자들에게 격려 편지, 영치금을 받거나 출소 후 취업 제의까지 받고 있는 것으로 2일 나타났다. &lt;br&gt;&lt;br&gt;특수건조물침입 혐의로 서울 남부구치소에 수감 중인 30대 남성 A씨는 “다니던 직장은 퇴사했다. 일하지 못하는 동안 생계가 막막했고, 나중에 풀려났을 때 취업해야 하는 문제가 있었다”면서 이후 윤 대통령 지지자들의 후원이 답지했다는 내용의 편지를 ‘자유청년 변호인단’ 소속 유정화 변호사가 공개했다.&lt;br&gt;&lt;br&gt;유 변호사는 “몇몇 시민이 구치소를 찾아와 영치금을 넣거나 정기적으로 보내는 경우도 있다”며 “계좌가 다 차서 다른 계좌로 영치금을 옮겨놓은 수감자가 있을 정도”라고 했다. A씨도 “응원이 담긴 영치금 영수증이 셀 수 없이 많아져 어떻게 보관할지 진땀을 빼고 있다”고 했다. 기업을 운영하는 일부 윤 대통령 지지자는 이들에게 ‘석방되면 취업을 돕겠다’는 의사를 밝혔다고도 한다. &lt;br&gt;&lt;br&gt;하지만 법조계에선 이들에 대한 중형 선고가 불가피하다는 전망이 적잖다. 수감자 본인과 가족들은 이를 의식한 듯 ‘난입 사태에 대해 송구하고 죄송하다’는 취지의 내용이 담긴 반성문도 서울 서부지법에 계속해서 제출하고 있다. 최근 20여명이 반성문을 제출했다고 한다. 이달 초 기소된 ‘서울대 증권맨’ B(37)씨의 가족은 “단순 호기심에 구경 갔다가 인파에 휘말렸다”며 선처를 호소하는 탄원서를 제출하기도 했다. &lt;br&gt;&lt;br&gt;유 변호사는 일부 수감자가 교정 당국으로부터 불이익을 받고 있다고도 주장했다. 부정선거 음모론을 다룬 ‘스톱 더 스틸(Stop the steal·도둑질을 멈춰라)’을 읽던 수감자가 다른 수감자에게 책을 전달했다가 징벌방에 수용됐다는 것이다. 이후 서신 수발신과 뉴스 시청 등이 금지됐고, 영치금으로 구입한 음식도 모두 폐기됐다고 유 변호사는 주장했다. 또 일부 교도관이 수감자를 조롱하거나 폭언했다는 의혹도 제기됐다. &lt;br&gt;&lt;br&gt;법무부 측은 이날 본지에 “법무부 자체 조사 결과 남부구치소 교도관들이 수감자에게 폭언이나 부적절한 언동을 한 사실은 확인된 바 없다”며 “수감자가 다른 수감자에게 허가 없이 물품을 주는 행위는 규정상 금지돼 있어 징벌 처분을 받은 것”이라고 했다. &lt;br&gt;&lt;br&gt;난동 혐의자들에 대한 첫 재판은 10일 열린다. 구속 기소된 74명 중 60여 명은 ‘자유청년 변호인단’의 조력을 받고 있다. 수감자들은 변호인단에게 “저희 때문에 여론이 난감해진 상황이냐” “대통령님 지지율이 혹시 떨어지지 않았느냐”며 윤 대통령의 안전을 걱정하는 발언을 하며 바깥 상황을 궁금해한다고 유 변호사는 전했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/ED7OSF23NJGQ3CEN6SYKKZWO3Y.jpg?width=5213&amp;height=1733&amp;auth=75bff6e939eb66c3ee7c7deed41683dc0282d701e2ad72a99b08f0326f6486d0&amp;smart=true" type="image/jpeg" height="1733" width="5213">
-        <media:description type="plain">윤석열 대통령 지지자들이 윤 대통령의 구속 소식에 반발해 서울서부지법에 집단 난입한 사태가 벌어진 다음 날이 20일 오후 서울 마포구 서울서부지법 모습. 2025.1.20 /박성원 기자</media:description>
-      </media:content>
-    </item>
-    <item>
-      <title>[단독] 서울 중학교 학폭 신고, 양천·송파·강남구 순</title>
-      <link>https://www.chosun.com/national/national_general/2025/03/03/CK66FFYKU5GJXOXYILRSSUNUBY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/03/03/CK66FFYKU5GJXOXYILRSSUNUBY/</guid>
-      <dc:creator>안준현 기자, 이민경 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 02 Mar 2025 20:02:00 +0000</pubDate>
-      <content:encoded>지난 5년간 서울 25개 자치구에서 중학교 학교 폭력이 가장 많이 신고된 지역 1~5위는 양천·송파·강남·성북·노원구 순으로 2일 나타났다. 전문가들은 “교육열이 높은 지역일수록 학폭 신고도 잦은 결과”라고 분석했다.&lt;br&gt;&lt;br&gt;김민전 국민의힘 의원실이 서울시교육청에서 받은 ‘2020~2024년 중학교 학교 폭력 신고 통계’에 따르면, 이 기간 양천구의 학폭 신고 건수는 1493건으로 서울 25곳 자치구 중 최다를 기록했다. 이어 송파구(1260건), 강남구(1238건), 성북구(1088건), 노원구(1030건) 순이다.&lt;br&gt;&lt;br&gt;양천구 내 중학교는 총 19곳이다. 학교당 평균 78.6건의 학폭이 신고됐다. 목동에 있는 목동중·목운중은 각각 207건, 191건으로 서울 390개 중학교 중 1·2위로 나타났다. 중학교 29곳이 있는 송파구는 학교당 평균 43.4건의 학폭이 신고됐다. 위례신도시에 있는 송례중(133건)이 최다 건수였고, 잠실동 소재 신천중(99건), 잠신중(96건), 잠실중(78건) 순이었다. &lt;br&gt;&lt;br&gt;강남구의 학교당 학폭 신고 건수는 평균 51.5건으로 언주중(143건), 역삼중(118건), 휘문중(100건) 순이었다. 강남구에선 학부모가 학부모나 학교를 상대로 소송을 제기하는 일도 종종 발생한다. 2022년 강남구의 한 중학교에선 학폭 가해 학생이 봉사 활동 처분을 받자 이에 불복한 피해 학생 측이 행정소송을 제기한 적이 있다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/54ZQYF27X5AA3PIACP362HACN4.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=김성규&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;언주중에선 2023년 “학폭 담당 교사의 교체와 처벌을 바란다”는 민원이 교육청에 접수되거나, 학폭 피해 학생 측이 교장을 직무 유기로 고발하는 사례도 있었다. 경찰 조사에서 교장은 무혐의를 받았다. 교육계에선 “학폭 때문에 학교가 진흙탕 감정싸움의 무대가 되는 일이 적잖다”는 우려가 나온다.&lt;br&gt;&lt;br&gt;교육열이 높은 지역의 교사 1인당 학생 수가 많다는 점도 학폭 신고가 증가하는 이유로 꼽힌다. 서울 학폭 신고가 1·2위였던 목동중·목운중은 교사 1인당 학생 수가 17명으로 서울시 평균 10.2명, 양천구 평균 11.7명보다 높다. 송파구 1위 송례중도 14.2명으로 서울시·송파구 평균(10.9명)보다 높다. 신천중(17.7명), 잠신중(15.6명), 잠실중(17.3명)도 마찬가지다. 한 교육 전문가는 “학군지로 소문이 나면 전학 수요가 많아 교육 환경이 열악해지는 ‘역설’이 발생하는 것으로 보인다”고 했다. &lt;br&gt;&lt;br&gt;박남기 광주교대 명예교수는 “학폭 가해가 확정되면 대입이 불리해지기 때문에 쌍방 고소전으로 비화하는 일이 교육열이 높은 곳일수록 잦을 수 있다”고 했다. 학폭 피해 학생을 위해 설립된 대안 학교 ‘아랑학교’의 구자송 이사장은 “교육열이 높을수록 교육청에 신고해서 공식적인 문제를 제기하는 경우가 많은 것으로 분석된다”고 했다.&lt;br&gt;&lt;br&gt;교육열이 높은 지역의 학부모들은 변호사를 동원한 소송전도 마다하지 않는다. ‘새 먹거리’를 포착한 주요 로펌에선 학폭 전담 부서를 만들거나, 일부러 학교 인근에 사무실을 차리는 일도 있다. 학폭 전담 노윤호 변호사는 “학폭은 이미 어른 싸움이 됐다”며 “충분히 교사의 중재로 해결할 수 있는 사안임에도 학부모가 교사의 의견을 받아들이지 않아 행정소송으로까지 이어지는 경우가 많다”고 말했다. 정복연 변호사는 “학구열이 높은 지역에선 학폭이 발생하면 학부모들이 ‘우리 애가 왜 가해자냐’며 교육 당국 처분을 따르기보단 소송을 택할 때가 많다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/YGZJHVVXURG2DP6IFMPRUYFBJI.jpg?width=1800&amp;height=1012&amp;auth=44e6dd3487ece769dafe5cd727a6885bfebedb5cfb7b9b25573a6e9b43b14580&amp;smart=true" type="image/jpeg" height="1012" width="1800">
-        <media:description type="plain">일러스트=조선디자인랩 이연주</media:description>
-      </media:content>
     </item>
     <item>
       <title>오세훈, 경제 비전 발표…대한상의 찾아 “규제 혁파·기업 중심 경제 필요”</title>
