@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>父장제원 ‘성폭력 의혹’에…아들 노엘이 올린 의미심장 글</title>
+      <link>https://www.chosun.com/national/national_general/2025/03/06/MZGM3BORTVFLDLU2RIELLPOHWE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/03/06/MZGM3BORTVFLDLU2RIELLPOHWE/</guid>
+      <dc:creator>김가연 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 05 Mar 2025 22:09:59 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GGHH5FBG3BJ2VG2AEYARKT6LFY.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;장제원 국민의힘 의원의 아들 래퍼 노엘. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국민의힘 장제원 전 의원이 성폭력 혐의로 피소된 가운데, 그의 아들인 래퍼 노엘(장용준)이 자신의 소셜미디어에 의미심장한 글을 게재했다.&lt;br&gt;&lt;br&gt;노엘은 지난 4일 인스타그램에 “모든 건 제자리로 돌아갈 거다. 기다려줘”라는 글을 업데이트했다. 작년 12월 4일 올린 글을 수정한 것으로, 별다른 설명을 덧붙이지는 않았다.&lt;br&gt;&lt;br&gt;하지만 시기상 부친인 장 전 의원의 성폭력 의혹을 염두에 둔 발언으로 보인다.&lt;br&gt;&lt;br&gt;장 전 의원은 부산 모 대학의 부총장이던 2015년 11월 비서 A씨를 상대로 성폭력을 한 혐의(준강간치상)로 최근 피소돼 경찰 수사를 받고 있다.&lt;br&gt;&lt;br&gt;이와 관련해 장 전 의원은 5일 자신의 페이스북을 통해 “고소인의 고소 내용은 분명 거짓”이라고 주장했다. 이어 “무려 10년 가까이 지난 시점을 거론하면서 이와 같은 고소를 갑작스럽게 제기한 데는 어떠한 특별한 음모와 배경이 있는 것이 아닌가 하는 강한 의심이 든다”고 했다.&lt;br&gt;&lt;br&gt;그는 “반드시 진실을 밝히겠다”며 “혼신의 힘을 다해 진실을 뒷받침해 줄 수 있는 10년 전의 자료들과 기록을 찾아내 법적 대응을 해나가겠다”고 했다. 그러면서 “엄중한 시국에 불미스러운 문제로 당에 부담을 줄 수가 없어 당을 잠시 떠나겠다”고도 했다.&lt;br&gt;&lt;br&gt;한편 노엘은 2017년 Mnet ‘고등래퍼’에 출연하며 얼굴을 알렸다. 그는 2019년 서울 마포구에서 술에 취해 차를 운전하다 오토바이를 추돌한 혐의로 기소돼 2020년 6월 징역 1년 6개월에 집행유예 2년을 선고받았다. 이후 2021년 9월 무면허 음주운전 및 공무집행방해 등 혐의로 기소돼 징역 1년을 선고받았다. 그는 수사와 재판 과정에서 형기를 채워 2022년 10월 석방됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>승객 170명 마닐라에 놔두고… 제주로 돌아온 전세기</title>
       <link>https://www.chosun.com/national/regional/2025/03/06/EMBWNDD33VDUBNQYOLQPUFYT3I/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/03/06/EMBWNDD33VDUBNQYOLQPUFYT3I/</guid>
@@ -882,15 +891,6 @@ DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;블록체�
       <description/>
       <pubDate>Mon, 03 Mar 2025 22:16:13 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2LDD7KJT2BBN5LMU3AHIMZI6ZY.gif"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 25일 서울세종고속도로 건설 현장의 교량 상판 구조물 붕괴 직전 개와 고양이가 황급히 안전한 곳으로 도망가고 있다. /YTN&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;10명의 사상자를 낸 서울세종고속도로 건설 현장의 교량 상판 구조물 붕괴 직전 반려동물들이 조짐을 알아채고 도망가는 모습이 인근 방범카메라(CCTV)에 포착됐다. &lt;br&gt;&lt;br&gt;YTN이 공개한 경기 안성시의 한 주택 내부 CCTV 영상에는 지난달 25일 교각이 붕괴되기 직전 가정집 마당에 있던 개와 고양이가 몸을 급히 피하는 모습이 담겼다. &lt;br&gt;&lt;br&gt;당시 마당에는 개 1마리와 고양이 2마리가 있었는데, 먼 곳을 바라보던 개와 고양이 각 1마리가 몸을 급히 돌려 사고가 난 방향 반대편으로 달아났다. 개는 잔뜩 겁에 질린 듯 꼬리를 한껏 내리고 안전한 곳으로 몸을 숨겼다. &lt;br&gt;&lt;br&gt;마당 데크 아래에 웅크려 있던 나머지 고양이 1마리도 이상한 낌새를 눈치챈 듯한 움직임을 보였다. 이후 교각이 무너지면서 CCTV 화면이 흔들렸다. 가장 마지막에 움직인 고양이 역시 다른 개와 고양이가 달아난 방향으로 혼비백산 뛰어갔다. &lt;br&gt;&lt;br&gt;제보자는 중앙일보에 “출근하려고 아내와 함께 차를 타고 집에서 5m도 못 나왔는데 기계가 급제동하는 듯한 소리가 들렸고, 굉음이 울리면서 갑자기 땅이 흔들렸다”며 “동물들은 미리 알았던 것처럼 무너지기 직전에 몸을 숨겼다”고 했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OUOQZNYWPNLAXISTRZG6U2T54Y.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 28일 경기 안성시 서운면 산평리 서울-세종고속도로 9공구 교량 상판 붕괴 사고현장에서 유관기관 관계자들이 합동감식을 하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;앞서 지난달 25일 오전 9시 49분쯤 경기도 안성시 서운면 산평리 서울세종고속도로 천안~안성 구간 9공구 청룡천교 건설 현장에서 거더(다리 상판 밑에 까는 보의 일종)가 붕괴되는 사고가 났다. 근로자 10명이 추락‧매몰돼 4명이 숨지고, 6명이 다쳤다. 사고 이후 일대 주민들은 “무서워서 못 살겠다”며 불안감을 호소하는 것으로 전해졌다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>허위사실 공표 혐의…인천시선관위, 새마을금고 이사장 선거 후보자 고발</title>
-      <link>https://www.chosun.com/national/incident/2025/03/04/CRWA5FIQHJD3JBWQY5KE2HJCVY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/03/04/CRWA5FIQHJD3JBWQY5KE2HJCVY/</guid>
-      <dc:creator>인천=이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 04 Mar 2025 10:01:49 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JG5KXODXHNNMNFEG32WTFO64ZQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;오는 3월 5일 실시하는 제1회 전국동시 새마을금고 이사장선거를 앞두고 인천의 한 새마을금고 대회의실에서 관계자들이 선거공보물 발송 작업을 진행하고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천시선거관리위원회는 공공단체 등 위탁선거에 관한 법률상 허위사실 공표 혐의로 인천 모 지역 새마을금고 이사장 선거 후보자 A씨를 경찰에 고발했다고 4일 밝혔다. &lt;br&gt;&lt;br&gt;A씨는 지난달 자신의 선거공보물에 경쟁 상대인 후보자 B씨에 대한 허위 사실을 기재한 혐의를 받고 있다. &lt;br&gt;&lt;br&gt;A씨는 선거공보물에 B씨가 새마을금고에 재직할 당시 금고 명의로 사들인 부동산의 가격이 하락하면서, 금고에 막대한 손실을 입혔다는 내용을 담은 것으로 알려졌다. 인천시선관위는 이 내용이 허위 사실 공표 혐의에 해당하는 것으로 보고 있다.&lt;br&gt;&lt;br&gt;공공단체 등 위탁선거에 관한 법률은 후보자와 후보자 가족 등에 대한 허위 사실을 공표할 경우 5년 이하의 징역이나 500만~5000만원의 벌금에 처하도록 규정하고 있다. &lt;br&gt;&lt;br&gt;인천시선관위 관계자는 “허위 사실 공표 등은 선거의 공정성을 해치는 중대한 범죄”라며 “선거 범죄를 적발하면 철저히 조사해 엄중 조치하겠다”고 말했다. &lt;br&gt;&lt;br&gt;전국 1102개 새마을금고의 이사장을 선출하는 ‘제1회 전국동시 새마을금고 이사장 선거’는 5일 치러진다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>尹 국민 변호인단 “선고 날까지 헌재 앞에서 무제한 필리버스터”</title>
