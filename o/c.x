@@ -13,6 +13,68 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>“전자담배 왜 못 피우게 하나” 여성 점주에 끓는 냄비 던지고 폭행</title>
+      <link>https://www.chosun.com/national/incident/2025/03/05/3CI24VQO35DGLE5K2U5FVIQF5U/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/03/05/3CI24VQO35DGLE5K2U5FVIQF5U/</guid>
+      <dc:creator>인천=이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 05 Mar 2025 11:38:36 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/L4GEXC5HOZAC5NA5TDDI7RQ23U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰이 전자담배를 피우지 못하게 한다는 이유로 음식점 점주를 폭행하고 끓는 냄비를 던지는 등 난동을 부린 중년 남성을 쫓고 있다. &lt;br&gt;&lt;br&gt;인천 중부경찰서는 특수폭행 등 혐의로 중년 남성 A씨를 쫓고 있다고 5일 밝혔다. &lt;br&gt;&lt;br&gt;A씨는 지난 2일 19시 50분 인천 중구 중산동의 한 주점에서 전자담배를 피우지 못하게 한다는 이유로 여성 점주 B씨를 폭행한 혐의를 받고 있다. &lt;br&gt;&lt;br&gt;A씨는 마시던 술을 B씨에게 뿌리고, 테이블에서 끓고 있던 냄비를 던지는 등 폭행한 것으로 파악됐다. &lt;br&gt;&lt;br&gt;A씨의 폭행으로 B씨는 갈비뼈를 다쳐 전치 4주의 진단을 받은 것으로 알려졌다. &lt;br&gt;&lt;br&gt;경찰은 당일 B씨의 신고를 받고 출동했지만, A씨가 현장을 벗어난 뒤 도착했다. &lt;br&gt;&lt;br&gt;경찰은 현장과 주변 감시카메라(CCTV) 영상 자료 등을 토대로 달아난 A씨를 추적하고 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>부처간 이견에 5년 허비, 고속道 모든 구간 자율차 시범운행</title>
+      <link>https://www.chosun.com/national/transport-environment/2025/03/05/WEYJLGR7KBHJPEBAJI5JA6JP3M/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/03/05/WEYJLGR7KBHJPEBAJI5JA6JP3M/</guid>
+      <dc:creator>김아사 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 05 Mar 2025 12:13:36 +0000</pubDate>
+      <content:encoded>국토교통부는 5일 자율주행차 시범 운행 지구를 전국 고속도로 전 구간으로 확대한다고 밝혔다. 화물 자율주행차의 장거리 운행 상용화 등을 앞당기겠다는 취지지만, 이는 당초 정부 목표보단 5년가량 늦춰진 것이다. &lt;br&gt;&lt;br&gt;국토부 자율주행차 시범운행지구위원회는 이날 자율주행 시범 운행 지구를 전국 고속도로 구간으로 늘리는 내용을 담은 운영 계획을 심의·의결했다고 밝혔다. 이날부터 정부 허가를 받은 업체들은 전국 고속도로 어디에서든 자율주행차를 시범 운행할 수 있게 됐다.&lt;b&gt; &lt;/b&gt;그간 자율주행 운행 가능 구간이 4개 고속도로 등 358㎞에 불과해 시범 업체들의 주행 데이터 축적이 쉽지 않다는 지적이 있었는데, 전국 44개 고속도로(도합 5367㎞)로 늘어나 어려움이 개선될 것으로 전망된다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YGPPGBHKZBFKVALHNEZCEP4SBQ.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=송윤혜&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그러나 자율주행차 통신 방식 결정을 놓고 부처 간 이견 등으로 수년을 허비하면서, 핵심인 기본 인프라 구축부터 지연됐다는 비판은 피하기 힘들 것으로 보인다. 최근 자율주행 사업에 대한 감사를 진행한 감사원은 “당초 정부 계획보다 최대 6년 이상 인프라 구축이 늦춰질 것”이라고 지적했다.&lt;br&gt;&lt;br&gt;한국은 자율주행 관련 기술 중 통신망, 네트워크 기술 수준은 글로벌 선두권이란 평가를 받아왔다. 이를 토대로 차량이 신호등, 안전 표지 등 교통 시설과 신호를 주고받으며 자율주행의 오차를 줄이는 ‘지능형 교통 체계’ 구축을 2024년까지 마치고, 2027년 세계 최초로 자율 주행차를 상용화할 계획이었다.&lt;br&gt;&lt;br&gt;초기엔 의사 결정이 빨랐다. 2014년 고속도로와 일부 주요 도심에서 자율주행 시범 사업을 실시했고, 2019년엔 ‘미래 자동차 산업 발전 전략’을 수립하면서 2024년 지능형 교통망 구축 완료, 2027년 완전 자율주행 상용화 등 목표를 세웠다. 이항구 전 자동차융합기술원 원장은 “자율주행 구현을 위해선 AI(인공지능)를 탑재한 차량 자체의 성능 확보, 지능형 교통 체계 확립 등이 동시에 진행돼야 한다”며 “계획대로 인프라 구축에 성공했다면 산업 지형이 달라졌을 것”이라고 했다.&lt;br&gt;&lt;br&gt;그 사이 미국, 중국 등은 운전석에 사람이 앉지 않는 레벨 4 수준의 자율 주행차를 상용화하는 데 성공했지만, 한국은 시범 운행도 하지 못하고 있다. 상용화가 일찍 이뤄져야 자금이 몰리면서 기술을 더 축적할 수 있는데, 이 같은 사이클에 올라탈 기회를 상실했다는 평가도 나온다.&lt;br&gt;&lt;br&gt;정부 목표가 계획대로 진행되지 못한 건 차량과 교통 시설의 통신 연결 방식 결정을 두고 벌어진 국토부와 과학기술정보통신부의 힘겨루기가 결정적이었다는 분석이다. 정부는 2019년부터 자율주행 상용화를 위해 차량과 교통 시설을 잇는 통신 방식을 결정하는 논의를 진행했는데 국토부는 와이파이 방식, 과기부는 LTE(4G) 방식을 주장하며 대립한 것이다. 양 기관은 두 방식의 통신 거리, 전송 용량, 지연 시간 등을 두고 각자의 방식이 우월하다고 맞섰다.&lt;br&gt;&lt;br&gt;업계에선 두 방식의 성능 비교 시험을 진행해 해결하라고 요구했다. 그러나 양측은 제대로 된 비교 시험을 하지 않은 채 수년을 허비했다. 결국 감사원이 나서 전문 기관에 의뢰해 시험을 진행했고, LTE 방식의 최대 유효 통신 영역이 2배 이상 넓고 성능도 우수한 것으로 확인돼 2023년 12월 LTE 방식이 기술 표준으로 결정됐다. 이미 확보한 기술 표준을 결정하는 데 4년가량의 시간을 허비한 것이다. 최근 감사에 나선 감사원은 이 같은 지연, 양 기관의 힘겨루기를 질타하며 개선안을 마련하라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>경찰, 효성 부회장 소환…4000억원대 공사비 부풀린 혐의</title>
+      <link>https://www.chosun.com/national/incident/2025/03/05/UFEPFV6KRFA43OPMHQBCP4Y5SQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/03/05/UFEPFV6KRFA43OPMHQBCP4Y5SQ/</guid>
+      <dc:creator>안태민 기자, 안준현 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 05 Mar 2025 12:29:32 +0000</pubDate>
+      <content:encoded>경기 의왕시가 2010년부터 그린벨트를 해제하고 짓기 시작한 의왕백운밸리 시공사에 효성그룹이 선정된 가운데, 아파트 입주민들이 이 계약을 수의계약으로 진행, 공사비를 부풀렸다는 의혹을 제기했다. 지난주 경찰은 효성그룹 2인자이자 당시 최고 운영 책임자였던 이상운(73) 부회장을 소환해 조사했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LQL4AFLTCJR7ZHADDZFR2A56FM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 마포구 공덕동 효성그룹 본사 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 서초경찰서는 지난주 이 부회장을 소환해 조사했다고 5일 밝혔다. 이 부회장은 업무상 배임 혐의를 받는다. 효성그룹 관계자는 “당시 공사 책임자가 현재 회사를 떠나 당시 대표이사였던 이 부회장이 소환 조사를 받은 것”이라고 했다.&lt;br&gt;&lt;br&gt;의왕백운밸리의 사업 시행사 ‘의왕백운 PFV’는 2015년 9월 신도시 아파트 2480가구 시공사로 효성을 선정했다. 4400억원대 규모의 계약이었는데, 공개경쟁이 아닌 수의계약으로 이뤄졌다. 효성그룹 관계자는 “당시 어느 회사도 이 사업을 맡으려하지 않았다”며 “공개경쟁은 아니었지만 수의계약이라고 보기도 어렵다”고 했다.&lt;br&gt;&lt;br&gt;아파트 입주민들은 효성이 시공사로 선정되며 공사비를 부풀렸다고 주장하고 있다. 효성은 당시 공사비를 평당 377만원으로 계약했는데, 효성그룹은 관련 서류를 컴퓨터 편집 프로그램 그림판으로 조작한 혐의를 받는다. 효성그룹은 계약 당시 “1년 전 계약한 대전 아파트 공사비가 평당 343만원”이라며 이 같은 가격을 책정했는데, 사실 평당 325만원이었다는 것이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TY66IATXIDZXNGJBWS2C3BLX7Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이상운 효성 부회장&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이에 효성그룹은 “공사 계약을 맺고 3개월 후 시행사 지분 2%를 취득했고, 적법한 절차대로 이뤄졌다”며 “감사원 감사와 검찰 조사에서 혐의가 없다는 결론을 받았다”고 했다. &lt;br&gt;&lt;br&gt;1976년 효성물산에 입사한 이 부회장은 1999년부터 고(故) 조석래 효성 명예회장을 보좌하며 17년간 효성의 2인자로 일했다. 2002년 효성 대표이사에 이름을 올렸다. 15대 한국섬유산업연합회장도 지냈다. 경찰 관계자는 “향후 이 부회장의 구체적인 소환 일정은 밝힐 수 없다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/LQL4AFLTCJR7ZHADDZFR2A56FM.jpg?width=3549&amp;height=2457&amp;auth=61b195f0c1c7727bfaaf7812d2395eff5348113b10a26a0ae84cddf60671c008&amp;smart=true" type="image/jpeg" height="2457" width="3549">
+        <media:description type="plain">서울 마포구 공덕동 효성그룹 본사 모습. /뉴스1</media:description>
+        <media:credit role="author" scheme="urn:ebu">뉴스1</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>강혜경 “명태균, 서울서 오세훈 최소 3번 만났다 말해“… 明측 주장 뒷받침</title>
+      <link>https://www.chosun.com/national/court_law/2025/03/05/ZOMQNPWAMZCN3CHG4RHHYGWRJQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/03/05/ZOMQNPWAMZCN3CHG4RHHYGWRJQ/</guid>
+      <dc:creator>이민준 기자, 창원=김준호 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 05 Mar 2025 12:48:58 +0000</pubDate>
+      <content:encoded>정치 브로커 명태균씨의 ‘공천 거래’ 의혹 등을 폭로한 강혜경씨가 5일 “명씨와 오세훈 서울시장이 서울에서 최소 세 차례 이상 만났다고 말했다”고 주장했다. 앞서 명씨 측은 지난 2021년 4월 서울시장 보궐선거 당시 오 시장과 모두 7차례 만났다고 주장한 바 있다. 당시 명씨와 함께 여론조사 업체 미래한국연구소에서 일하던 강씨도 명씨의 주장을 뒷받침하는 발언을 한 것이다.&lt;br&gt;&lt;br&gt;오 시장은 보궐선거 기간 중 명씨로부터 미공표 여론조사 13건을 제공받았고, 오 시장의 후원자로 알려진 사업가 김한정씨가 여론조사 비용 3300만원을 지급했다는 의혹이 불거진 상황이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Z55STXQLHDX5CGXJKWHQRAKHBY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;오세훈 서울시장이 5일 오전 서울 영등포구 여의도 서울핀테크랩에서 열린 핀테크 스타트업 간담회에 참석해 모두발언을 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;강씨는 이날 검찰 전담수사팀(팀장 이지형 차장검사)의 참고인 조사를 마치고 나와 취재진에게 이같이 말했다. 수사팀은 이날 5시간 45분에 걸친 강씨 조사에서 오 시장 관련 의혹을 집중적으로 물은 것으로 전해졌다. ‘명씨, 오 시장, 김씨의 3자 회동에 대해서는 어떻게 알고 있느냐’는 취재진 질문에 강씨는 “맞는 것으로 알고 있다”며 “(명씨로부터) 전해 들었다. 다만 날짜나 장소를 제가 특정하지는 못하겠다”고 답했다.&lt;br&gt;&lt;br&gt;다만 강씨는 “오 시장이 계란 반숙에 간장을 얹어서 먹었다는 부분은 기억은 하고 있다”며 “오늘 검찰에 진술했다”고 말했다. 앞서 명씨 측 남상권 변호사는 지난달 20일 MBC라디오 ‘김종배의 시선집중’에서 명씨와 오 시장의 만남 횟수를 4번이라고 특정하면서, “서울에 (오 시장) 당협 사무실 대각선 50ｍ쯤 되는 곳에 중국집이 하나 있다. 중국집 이름이 송쉐프인데 이 송쉐프에서 오 시장을 만났다”고 주장했다. 이때 오 시장이 계란 반숙 전 단계 요리를 좋아해 두 번을 시켰다는 것이 명씨의 전언이라고 한다. 강씨 측 변호인은 “어느 정도 명씨의 진술에 신빙성이 있지 않나 생각한다”고 했다.&lt;br&gt;&lt;br&gt;핵심 관계자들의 진술이 이어지고 있는 만큼, 수사팀은 명씨와 오 시장 관계에 대한 수사가 필요하다고 보고 있는 것으로 전해졌다. 이와 관련해 지난달 26일 김씨의 서울 동작구와 제주시 주거지, 서울 여의도 사무실 등을 압수 수색한 바 있다. 이날 조사에서도 김씨에 대한 질문이 다수 있었다고 강씨 측은 전했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GUDV76YQMVO2BOMGVDIQDND634.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;강혜경 씨가 5일 창원지검에 출석하고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;오 시장 측은 “명씨에게 여론조사를 의뢰하지도, 결과를 받아본 적도 없다”는 입장이다. 명씨와의 만남도 명씨와 가까웠던 김영선 전 의원 소개로 이뤄졌을 뿐 김씨와의 3자 회동은 없었다고 반박한다. 김씨도 앞선 검찰 조사에서 “같은 고향 사람인 명씨가 오 시장을 도와준다고 해서 개인적인 차원에서 돈을 줬을 뿐, 오 시장은 모르는 내용”이라고 진술했다고 한다.&lt;br&gt;&lt;br&gt;오 시장 측은 지난달 26일 “명태균 정치 사기 사건에 대한 검찰 수사에 진척이 있어 다행”이라며 “수사에 속도가 붙고 하루빨리 결론이 나길 바란다”고 했다. 이종현 서울시 민생소통특보는 “2021년 보궐선거 당시 오 후보 측이 명태균의 미공표 여론조사를 받아본 적도 없다는 것은 명백한 사실이고, 그래서 누구에게 전달했는지 밝히라고 요구했던 것”이라며 “그러자 명태균 측 변호사는 ‘그것이 본질이 아니다’라고 주장하며 후퇴하고 있다. 미공표 여론조사 의뢰 여부가 사건의 핵심인데, 그것이 본질이 아니라면 중국집에 간 것이 죄가 된단 말이냐”고 했다.&lt;br&gt;&lt;br&gt;한편, 수사팀은 오는 12일 강씨를 다시 불러 조사할 방침이다. 명씨와 강씨 등 핵심 관계자들이 창원에 있는 점 등을 고려해 수사팀은 창원지검 청사로 출장을 나가 이들을 조사했다. 그러나 강씨가 서울 방배경찰서 등에서도 수사를 받고 있는 점을 고려해, 추가 조사는 서울중앙지검에서 진행하기로 했다는 것이다. 이 밖에도 수사팀은 오는 6일 미래한국연구소장이던 김태열씨를 참고인으로 불러 조사한다. 같은 날엔 명씨도 피의자 신분으로 소환 조사할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘횡령·배임' 박현종 前 BHC 회장 구속 기각…“증거 인멸·도망 염려 없다”</title>
+      <link>https://www.chosun.com/national/court_law/2025/03/05/3U3PGKCWANEH3JQPRPEX5B74MI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/03/05/3U3PGKCWANEH3JQPRPEX5B74MI/</guid>
+      <dc:creator>박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 05 Mar 2025 12:43:28 +0000</pubDate>
+      <content:encoded>20억원대의 공금을 유용했다는 의혹을 받는 박현종 전 BHC 회장이 구속을 면했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IM2POV5FN5LSJIZOLNN6GBB6PI.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;업무상 횡령 및 배임 혐의를 받는 박현종 전 bhc 회장이 5일 오전 서초구 서울중앙지방법원에서 열린 구속 전 피의자 심문(영장실질심사)에 출석하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지법 남세진 영장전담 부장판사는 5일 업무상 횡령·배임 등 혐의를 받는 박 전 회장에 대한 영장실질심사를 진행한 뒤 구속영장을 기각했다.&lt;br&gt;&lt;br&gt;남 판사는 “확보된 증거 자료, 피의자의 현재 지위 등을 고려할 때 증거를 인멸할 염려가 있다고 보기 어렵다”며 “수사기관의 소환 및 조사에 성실히 응해온 점 등을 고려하면 도망할 염려도 인정되지 않는다”고 했다.&lt;br&gt;&lt;br&gt;박 전 회장은 20억원대의 회삿돈을 개인적으로 유용한 혐의로 경찰 수사를 받고 있다. 서울경찰청 반부패수사대는 지난 2023년 12월 박 전 회장의 서울 송파구 자택과 BHC 본사 등을 압수수색하는 등 수사를 진행 중이다. &lt;br&gt;&lt;br&gt;박 전 회장은 2015년 7월 경쟁사인 BBQ의 전현직 직원 2명의 아이디와 비밀번호로 BBQ 내부 전산망에 접속해 영업 비밀을 침해한 혐의(정보통신망법·개인정보보호법 위반)로도 기소돼 지난달 대법원에서 징역 6개월에 집행유예 2년을 확정받았다.&lt;br&gt;&lt;br&gt;박 전 회장은 BBQ에서 해외사업 담당 부사장으로 재직하다가 2013년 BBQ가 BHC를 사모펀드에 매각한 뒤 BHC로 이직해 회장이 됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>대구 5개 군부대, 모두 군위군으로 이전</title>
+      <link>https://www.chosun.com/national/national_general/2025/03/05/52XWZTMM7NCH5EXZAG4EH6CRNY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/03/05/52XWZTMM7NCH5EXZAG4EH6CRNY/</guid>
+      <dc:creator>대구=노인호 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 05 Mar 2025 11:29:25 +0000</pubDate>
+      <content:encoded>육군 제2작전사령부 등 대구 시내에 있는 군부대 5곳이 한꺼번에 대구 군위군으로 이전한다. 대구시는 군위군에 2030년까지 18㎢ 규모의 ‘밀리터리 타운’ 등을 짓는다는 계획이다.&lt;br&gt;&lt;br&gt;대구시는 5일 군부대 이전지 선정 평가위원회를 열고 군위군을 최종 이전지로 확정했다고 밝혔다. 대구시는 시내에 있는 군부대를 도시 밖으로 옮기기로 하고 이전 대상지를 검토해 왔다. 앞서 지난 1월 국방부는 군위군과 경북 상주시·영천시를 예비 후보로 선정했다. 이들 3곳은 그동안 군부대 유치를 놓고 경쟁을 벌여왔다.&lt;br&gt;&lt;br&gt;대구시는 “예비 후보 3곳을 평가한 결과 군위군이 군 임무 수행 가능성, 정주 환경 등에서 가장 높은 점수를 받았다”고 했다. &lt;br&gt;&lt;br&gt;군위로 이전할 군부대는 대구 수성구에 있는 육군 제2작전사령부, 제5군수지원사령부, 공군 제1미사일방어여단, 방공포병학교와 북구에 있는 제50사단사령부다.&lt;br&gt;&lt;br&gt;대구시 관계자는 “이처럼 대규모 군부대가 한꺼번에 이전하는 건 창군 이래 처음”이라고 했다.&lt;br&gt;&lt;br&gt;대구시는 군위군 우보면에 다섯 부대가 이전할 ‘밀리터리 타운’을 조성한다. 군청 근처에는 장교 관사로 쓸 아파트도 짓는다. &lt;br&gt;&lt;br&gt;민간 사업자가 군위군에 이러한 시설을 짓고 대구 시내에 있는 종전 주둔지를 개발하는 방식으로 진행한다. 사업비는 3조원 이상으로 추산된다.&lt;br&gt;&lt;br&gt;대구시는 올해 안에 국방부와 합의안을 작성할 계획이라고 밝혔다. 이후 기획재정부 심의를 거쳐 사업을 추진한다. 대구시는 “2030년까지는 부대 이전 작업을 끝낼 수 있을 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/LDLQ4QPOCBEK7TW3VTOF3PXBRY.jpg?width=4446&amp;height=2784&amp;auth=f46f01bccae9a27804b356c69e4f0ceccb947bab74d2a7acf7abee3ed2864d50&amp;smart=true" type="image/jpeg" height="2784" width="4446">
+        <media:description type="plain">대구시청 산격청사. (대구시 제공)</media:description>
+        <media:credit role="author" scheme="urn:ebu">KIM HU KYOUNG</media:credit>
+      </media:content>
+    </item>
+    <item>
       <title>이성만 2심서 ‘돈봉투 전달’ 이정근 조사한 검사 증인 채택</title>
       <link>https://www.chosun.com/national/court_law/2025/03/05/2T3U5O7ULRGRTLZZVGHDQFZBPI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/03/05/2T3U5O7ULRGRTLZZVGHDQFZBPI/</guid>
@@ -766,15 +828,6 @@ DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;블록체�
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EX3TNCBYWBLLPI32COAM263JGE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대한민국시도지사협의회 회장인 유정복 인천시장이 4일 서울 여의도 국회 소통관에서 대통령 4년 중임제와 양원제 도입, 지방분권 강화 등을 주요 내용으로 하는 지방 분권형 헌법 개정안 공표 기자회견을 하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전국 광역자치단체장들로 구성된 대한민국시도지사협의회가 4일 대통령 4년 중임제와 국회 양원제를 도입하고, 지방분권을 강화하는 내용의 헌법 개정안을 마련해 발표했다. &lt;br&gt;&lt;br&gt;대한민국시도지사협의회장인 유정복 인천시장은 4일 국회에서 기자회견을 열고 이 같은 내용의 헌법 개정안을 공개했다. &lt;br&gt;&lt;br&gt;이날 기자회견엔 조재구 대한민국시장군수구청장협의회 대표회장, 김현기 대한민국시군자치구의회의장협의회장 등이 자리를 함께했다.&lt;br&gt;&lt;br&gt;개헌안엔 정‧부통령제를 도입해 대통령 궐위 시, 선거로 뽑힌 부통령이 대통령직을 승계하도록 하는 내용이 담겼다. 국정 혼란을 최소화하도록 하겠다는 취지다. 또 대통령의 임기는 4년으로 하고, 중임할 수 있도록 하는 내용이 포함됐다.&lt;br&gt;&lt;br&gt;국회를 상원과 하원으로 구성하는 양원제 도입 내용도 이번 개헌안에 반영됐다. 상원은 광역지방정부를 대표하고, 하원은 현행 지역구 국회의원 선거처럼 선출하되 중‧대선거구제로 뽑도록 했다. 이를 통해 ‘승자 독식’ 구조를 개선할 수 있다는 판단이다. &lt;br&gt;&lt;br&gt;개헌안은 지방정부가 실질적인 자치를 할 수 있도록 하기 위한 ‘자치입법권’과 여건에 따라 지방세 종목과 세율을 추가할 수 있도록 ‘지방세 신설권’을 부여하는 내용을 담았다. &lt;br&gt;&lt;br&gt;또 ‘자치계획권’을 신설해 필요할 경우 주택과 교육, 환경, 지역계획 등 분야에서 자치 계획을 수립할 수 있도록 했다. &lt;br&gt;&lt;br&gt;중앙정부와 지방정부가 대등하게 국가의 주요 정책을 협의할 수 있도록 국무회의와 함께 중앙지방협력회의 조항을 헌법에 담았고, 수도에 관한 규정을 명문화해 수도 이전 논의의 토대가 될 수 있도록 하기도 했다. &lt;br&gt;&lt;br&gt;대통령의 형사상 불소추 특권범위와 관련해선 재임 중에 발생한 형사 사건에 한해 소추할 수 없다고 규정했다. 재임 이전 사건의 경우는 대통령에 당선되더라도 재판이 중지되지 않는다는 의미다. 선거관리위원회는 일반 행정기관과 동일하게 감사원 피감기관이 되도록 했다. &lt;br&gt;&lt;br&gt;개정 헌법으로 실시되는 첫 대통령 선거는 헌법 시행일로부터 100일 이내에 실시하고, 이 선거로 당선된 대통령은 임기를 2028년 5월까지로 정해 대통령과 국회의원의 동시 선거가 이뤄지도록 했다. &lt;br&gt;&lt;br&gt;유정복 시장은 “학계와 전문가, 대다수 국민께서 개헌의 필요성에 공감하는 지금이 헌법을 개정할 적기”라며 “300명의 국회의원이 헌법 개정에 적극적으로 나서주길 바란다”고 강조했다.&lt;br&gt;&lt;br&gt;시도지사협의회는 오는 7일 국회의원회관 대회의실에서 대한민국헌정회, 한국헌법학회, 경제정의실천시민연합, 지방분권전국회의 등과 함께 ‘지방분권형 헌법 개정 국회 대토론회’를 열 예정이다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>당사자 모른 채 항소심까지 선고... 대법 “다시 판결해야”</title>
-      <link>https://www.chosun.com/national/court_law/2025/03/04/7P5CKIQRVJCAPKZRPTAEHBNJX4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/03/04/7P5CKIQRVJCAPKZRPTAEHBNJX4/</guid>
-      <dc:creator>김나영 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 04 Mar 2025 06:29:29 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ANVC6GAFJFCAFMLPW2ZQKQSFEQ.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초동 대법원 건물/조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;사건 당사자가 재판이 진행되는지 모른 채 2심까지 선고된 사건에 대해 대법원이 “재심 사유가 인정된다”며 다시 재판을 받아야 한다고 판단했다.&lt;br&gt;&lt;br&gt;4일 법조계에 따르면 대법원 제2부(주심 박영재 대법관)는 최근 사기와 사문서위조 혐의 등으로 기소된 A씨에 대해 징역 1년을 선고한 항소심을 깨고 사건을 인천지법으로 돌려보냈다. A씨는 2021년 5월 인천에서 보이스피싱 조직의 현금 수거책으로 활동한 혐의로 이듬해 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;검찰은 피고인에게 공소장 부본(副本)과 소환장 등을 공시 송달(주소 불명 등의 사유로 서류 송달이 어려울 때 법원 게시판 등에 게시해 법적 효력을 갖는 전달 방식)했고, 재판은 A씨가 출석하지 않은 채로 진행됐다. ‘1심 공판 절차에서 피고인에 대한 송달 불능 보고서가 접수돼 6개월이 지나도록 소재를 확인할 수 없는 경우 피고인 진술 없이 재판할 수 있다’고 돼 있는 소송촉진법에 따른 것이다.&lt;br&gt;&lt;br&gt;이렇게 진행된 1심은 피고인에게 징역 1년을 선고했다. 검사 측이 항소해 2심도 1심과 같은 판결을 내렸다. 이후 상고 기간이 지나 A씨의 형은 확정됐다. 2심 선고가 난 작년 9월까지도 자신이 기소된 사실을 몰랐던 A씨는 작년 10월 상소권 회복 청구를 했다. ‘상소권 회복’은 상소권자나 대리인이 책임질 수 없는 사유로 인해 기간 안에 상소하지 못했을 때 상소권을 회복해주는 제도다. 법원은 같은 달 A씨의 청구를 받아들였다.&lt;br&gt;&lt;br&gt;대법원은 A씨에게 재심 사유가 있다고 판단했다. 소송촉진법(23조 2항)에 ‘유죄 판결이 확정된 사람이 책임을 질 수 없는 사유로 공판 절차에 출석할 수 없었으면, 판결이 있었던 사실을 안 날로부터 14일 이내에 재심을 청구할 수 있다’고 규정된 경우에 해당한다는 것이다. 재판부는 “새로 소송절차를 진행한 다음 새로운 심리 결과에 따라 다시 판결을 해야 한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>오세훈 서울시장 관용차 털렸다... 경찰, 여성 용의자 추적 중</title>
       <link>https://www.chosun.com/national/national_general/2025/03/04/VJEOQLCH7ZGH3GWPLZSVYOTWKU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/03/04/VJEOQLCH7ZGH3GWPLZSVYOTWKU/</guid>
@@ -809,24 +862,6 @@ DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;블록체�
       <description/>
       <pubDate>Tue, 04 Mar 2025 07:00:51 +0000</pubDate>
       <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/73YMDK3S25IO5LUHP353YHSJVI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt; 대구 군위군에서 신입생 부족으로  4개 초등학교가 합동 입학식을 가졌다. 김두열 군위교육장이 4일 열린 합동 입학식에서 신입생들에게 환영의 뜻으로 꽃을 선물하고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;저출생·고령화로 지역 소멸 위기를 겪고 있는 대구 군위군에서 4개 초등학교 신입생들을 한 학교에 모아 합동 입학식을 열었다. 4개 학교 모두 신입생 숫자가 적어 올해 신입생들을 모두 모아 입학식을 치른 것이다.&lt;br&gt;&lt;br&gt;4일 오전 10시 대구시 군위군 부계초등학교 강당에선 ‘2025학년도 합동입학식’이 열렸다. 부계초 신입생 6명과 효령면의 효령초 2명, 고매초 1명, 의흥초 1명 등 10명이 참석했다. 부계초 재학생 32명과 교직원·학부모 등 40여명도 함께했다.&lt;br&gt;&lt;br&gt;이날 합동입학식은 김두열 군위교육장이 직접 주관했다. 입학식은 축하공연, 개식사, 국민의례, 환영사 등 순으로 진행됐다.&lt;br&gt;&lt;br&gt;원래 고매초와 의흥초의 경우 입학을 예정했던 학생들이 총 3명 더 있었다. 하지만 이 학생들은 관할 교육청인 대구교육청이 지역 거점학교로 육성하고 있는 군위초 입학을 택했다. 거점학교는 교육청이 지역 내에서 학습·체험활동·방과후학교·시설 등 교육 환경을 중점적으로 육성·지원하는 학교다. 거점학교 육성 또한 저출생으로 인한 입학생 감소로 인해 교육청이 고안한 정책이다.&lt;br&gt;&lt;br&gt;올해 대구 군위군은 초등학교와 중학교 총 9개 학교가 운영되며 학생 수는 554명으로 전년대비 48명(7.9%)이 감소했다. 올해 초등학교 입학생은 38명이며, 송원초는 신입생이 없었다.&lt;br&gt;&lt;br&gt;대구시교육청 관계자는 “대구 시내에서 초등학교 합동 입학식이 열린 것은 이번이 처음”이라며 “학생들에게 다양한 교육의 기회를 제공하기 위해 노력하겠다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>NCT 출신 태일, 특수준강간 혐의로 불구속 기소</title>
-      <link>https://www.chosun.com/national/court_law/2025/03/04/VK3QW7PPUVDUDLEAD6WQWZTOKY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/03/04/VK3QW7PPUVDUDLEAD6WQWZTOKY/</guid>
-      <dc:creator>유종헌 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 04 Mar 2025 07:21:46 +0000</pubDate>
-      <content:encoded>아이돌 그룹 NCT 전 멤버 문태일(30·활동명 태일)이 지인들과 함께 여성을 성폭행한 혐의로 불구속 기소됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BQAXFH64IZFPRP7NS7UQUZDKOA.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;NCT 출신 태일. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지검 여성아동범죄조사1부(부장 김지혜)는 지난달 28일 태일과 지인 2명을 특수준강간 혐의로 불구속 기소했다고 4일 밝혔다.&lt;br&gt;&lt;br&gt;이들은 지난해 6월 술에 취한 여성을 성폭행한 혐의로 피소돼 특수준강간 혐의로 수사를 받아왔다. 특수준강간 혐의는 2명 이상이 합동해 심신상실 등 항거불능 상태의 상대를 간음할 경우 성립한다.&lt;br&gt;&lt;br&gt;고소를 접수한 서울 방배경찰서는 지난 8월 태일을 한 차례 불러 조사했다. 당시 경찰은 세 사람 등에 대해 구속영장을 신청했지만, 법원에서 기각된 것으로 전해졌다. 경찰은 같은 해 9월 세 사람을 검찰에 송치했고, 검찰은 보강 수사를 거쳐 이들을 기소했다.&lt;br&gt;&lt;br&gt;태일은 2016년 4월 SM엔터테인먼트 소속 보이그룹 ‘NCT’의 산하 유닛 팀 ‘NCT U’로 데뷔했다. 일본과 중국에서 특히 높은 인기를 누렸고, 이후 그룹 내 또 다른 유닛 팀 NCT127에서도 활동했다. SM은 지난해 10월 태일을 퇴출했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>사무관리비 4억원 유용… 전남도 공무원 130여명 검찰 송치</title>
-      <link>https://www.chosun.com/national/regional/2025/03/04/T66AAWE5ZNBI3FBKB3K7NDJ5KI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/03/04/T66AAWE5ZNBI3FBKB3K7NDJ5KI/</guid>
-      <dc:creator>무안=조홍복 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 04 Mar 2025 07:21:18 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VJRAL2Q73KO2BEGVDLQJQKBO5U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전남도청 전경./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;사무관리비 4억원을 유용한 혐의를 받는 전남도 본청 소속 공무원 130여명이 검찰에 넘겨졌다.&lt;br&gt;&lt;br&gt;전남경찰청 반부패·경제범죄 수사1대는 업무상 횡령 또는 배임 등 혐의로 불구속 입건한 전남도 본청 소속 공무원과 매점 직원 등 133명을 검찰에 송치했다고 4일 밝혔다. &lt;br&gt;&lt;br&gt;이들은 사무용품 구입비로 써야 할 공금을 사적 목적 또는 명절선물·가전제품·의류·잡화·생활용품 구입 등 엉뚱한 용도로 사용한 혐의를 받는다. 이들이 유용한 액수는 총 4억원 상당으로, 1명이 1000만원 이상을 유용한 사례도 적발됐다.&lt;br&gt;&lt;br&gt;사무관리비로 구입한 스마트워치와 지갑 등을 개인물품으로 착복한 공무원에게는 횡령 혐의가, 식음료비 지출 등 목적과 다르게 집행한 공무원에게는 배임 혐의가 각각 적용됐다. 사무관리비란 사무용품과 비품 등의 구매 목적으로 각 부서에 할당되는 예산이다.&lt;br&gt;&lt;br&gt;도청 내 매점 직원들은 허위 견적서 발행 등에 도움을 줘 방조범으로 처분됐다. 검찰에 넘겨진 공무원은 대부분 7~8급 하위직으로, 수사 대상 기간인 2020~2022년 전남도 각 실·국·과에서 공용물품 구입 담당(서무)을 맡았다. 도청 과장급인 4급 공무원도 일부 포함된 것으로 전해졌다.&lt;br&gt;&lt;br&gt;경찰은 2023년 4월 시민단체 고발로 사건을 접수했다. 행정안전부 훈령 등을 기준으로 200만원 이상 고액 횡령·배임 정황이 있는 공무원을 수사 대상자로 분류, 의혹을 명확하게 없애지 못한 133명을 검찰에 넘겼다.&lt;br&gt;&lt;br&gt;적발된 물품의 판매와 구매는 도청 공무원 노동조합이 직접 운영한 매점과 인터넷 쇼핑몰을 통해 이뤄졌다. 경찰은 공무원 노조가 판매 수수료를 과도하게 챙겼는지도 들여다봤으나 범죄 혐의점은 없는 것으로 판단했다.&lt;br&gt;&lt;br&gt;전남도는 경찰 수사와 별도로 선제 감사에 착수해 관련 공무원 10명은 중징계, 4명은 경징계를 처분했으나 이의신청 등을 받아들여 중징계·경징계 각각 4명으로 조정했다. 도는 130여명에 대한 검찰의 처분이 끝나면 추가로 징계 절차를 진행할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>납북자가족모임 “이달 중 대북전단 살포하겠다” 예고</title>
@@ -926,33 +961,6 @@ DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;블록체�
       <description/>
       <pubDate>Tue, 04 Mar 2025 02:21:38 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/46Z5P4S7NZJJHIPDXNGAME35NU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울지역 곳곳에 눈이 내린 4일 서울 중구 남산3호터널 요금소 앞 전광판에 눈길 운전 주의 안내문이 송출되고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이례적 3월 강설로 전국이 설국으로 변했다. 눈은 4일 밤까지 이어질 것으로 전망됐다.&lt;br&gt;&lt;br&gt;기상청에 따르면, 4일 북쪽 대륙고기압에서 떨어져나온 찬 공기와 온난습윤한 남풍이 한반도 상공에서 충돌하면서 눈구름대를 형성, 전국에 눈이 내리고 있다.&lt;br&gt;&lt;br&gt;찬 공기 덩어리가 우리나라 북동쪽에 위치한 탓에 동풍이 불면서 눈은 주로 한반도 동쪽을 중심으로 쏟아지고 있다.&lt;br&gt;&lt;br&gt;4일 예상 적설량은 수도권 1~8㎝, 강원도 5~40㎝, 충청권 3~10㎝, 전라권 1~8㎝, 경상권 1~30㎝, 제주도 1㎝ 등이다.&lt;br&gt;&lt;br&gt;계절적으로 봄(3~5월)에 해당하는 3월 초에 이 정도로 많은 눈이 내리는 것은 한반도 주변 해수면 온도가 높아 남풍이 끌어오는 수증기 양이 많기 때문이다.&lt;br&gt;&lt;br&gt;눈은 4일 밤 대부분 그칠 것으로 전망됐다. 다만 경상권과 제주산지에는 5일까지 눈이나 비가 이어지는 곳이 있겠다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“나라에 은혜 갚고 싶다”… 기초수급 90대 할머니가 300만원 기부</title>
-      <link>https://www.chosun.com/national/national_general/2025/03/04/PXQASU4JJBFUVAFLAH47W6K6P4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/03/04/PXQASU4JJBFUVAFLAH47W6K6P4/</guid>
-      <dc:creator>김명일 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 03 Mar 2025 23:44:13 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/V6WWS4FA3RBO3HLJ2JXHOHFRJQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;익명의 90대 할머니가 기탁한 성금. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;기초생활수급자인 90대 할머니가 “나라에서 받은 은혜를 조금이라도 갚고 싶다”며 행정복지센터에 300만원을 기부한 사실이 알려졌다.&lt;br&gt;&lt;br&gt;3일 대전 서구 등에 따르면 지난달 26일 익명을 요구한 93세 할머니가 월평2동 행정복지센터에 찾아와 하얀색 봉투를 건넸다. &lt;br&gt;&lt;br&gt;봉투를 건넨 할머니는 “내가 나라에 도움을 준 적은 없지만, 나라가 나를 잘 돌봐줘서 늘 고마웠다”며 “큰돈은 아니지만 힘든 환경에서도 꿈을 포기하지 않는 아이들에게 도움이 되길 바란다”고 말했다. &lt;br&gt;&lt;br&gt;봉투 안에는 할머니가 수년 동안 조금씩 아껴 모은 돈으로 보이는 300만원짜리 수표가 들어 있었다.&lt;br&gt;&lt;br&gt;기초생활수급자인 이 할머니는 과거 대전에 있는 한 대학교에도 대학생들을 위한 장학금을 전달했다고 한다. &lt;br&gt;&lt;br&gt;김용묵 월평2동장은 “할머니의 소중한 마음이 어려운 아이들에게 꼭 필요한 도움으로 이어지도록 하겠다”고 했다. &lt;br&gt;&lt;br&gt;월평2동 행정복지센터는 전달받은 기탁금을 지역 내 취약 계층 아동·청소년의 교육 및 복지 지원에 사용할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>최저임금 안 받는 외국인 육아도우미... 정부 “아직 검토중”</title>
-      <link>https://www.chosun.com/national/labor/2025/03/04/GYFOOMYGDBEYHCI4GRRMVJX7QU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/labor/2025/03/04/GYFOOMYGDBEYHCI4GRRMVJX7QU/</guid>
-      <dc:creator>곽래건 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 03 Mar 2025 16:13:30 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RSERCHCSDJGZPMKN6NFBVWBKQI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;육아 가정의 부담을 덜어주겠다며 정부가 추진 중인 외국인 가사 도우미 정책이 동력을 잃고 지지부진한 모습을 보이고 있다. 필리핀 가사 관리사의 경우 고비용 논란에 휩싸여 전국적인 시행이 불발됐다. 외국인 유학생 등을 대상으로 최저임금을 적용받지 않도록 한 가사 사용인 정책도 정부가 9개월 전에 발표했지만,&lt;b&gt; &lt;/b&gt;아직까지 어떻게 시행할지도 정하지 못했다. &lt;br&gt;&lt;br&gt;정부는 작년 6월 저출산고령사회위원회 주도로 ‘저출생 반전을 위한 종합 대책’을 발표했다. 이 대책 중 하나로 2월 말 기준 필리핀 가사 관리사 98명이 서울 185가정에서 일하고 있다. 당초 고용노동부는 지난해 시범 사업을 거쳐 올해 필리핀 가사 관리사를 상반기 1200명 규모로 전국적으로 확대할 계획이었다. 그러나 하루 8시간 기준 월 부담액이 292만원까지 올라가며 고비용 논란이 불거져 전국 확대가 불투명해졌다. 월 292만원은 관리사 월급에다 4대 보험, 퇴직금, 운영 업체 관리비와 이윤 등을 더한 것이다. 필리핀 가사 관리사에 대한 고비용 논란으로 ‘고용·직업상 차별을 금지한 국제노동기구(ILO) 협약 비준을 철회해야 한다’는 주장까지 나왔다.&lt;br&gt;&lt;br&gt;또 작년 6월 대책에는 법무부가 유학 비자(D-2)로 한국에 와 있는 외국인 유학생이나 외국인 근로자의 배우자(F-3 비자 소유자)에게 가사 도우미 일을 할 수 있게 하는 방안도 포함됐다. 이는 필리핀 가사 관리사와는 달리, 파출부처럼 개별 가정과 직접 계약하는 ‘가사 사용인’으로 취업을 허가해 최저임금을 적용하지 않는 방식이다. 현행법상 가사 사용인은 내국인이든 외국인이든 근로기준법이나 최저임금제를 적용하지 않는다. 당초 정부는 “5000명 규모로 시범 사업을 실시하고 확대를 검토한다”고 했지만, 지금까지 감감무소식이다. &lt;br&gt;&lt;br&gt;법무부 관계자는 “(유학생 등 가사 도우미는) 아직 계획을 검토하는 단계에 있고, 좀 더 지켜봐야 한다”고 했다. 정부 안팎에선 “외국인들에게 최저임금을 적용해 주지 않는 데 대한 정치적 부담과, 최저임금보다 낮은 가격에는 외국인들이 도우미로 일하지 않을 가능성을 우려해 정부가 적극적으로 추진하지 않는 것 아니냐”는 말이 나오고 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“朴탄핵 갈등비용 1740兆“ 전문가들 ”계엄 비용은 더 막대할 것“</title>
-      <link>https://www.chosun.com/national/national_general/2025/03/04/CDPU3YXIYJGXHOUEN3XWKQLQOA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/03/04/CDPU3YXIYJGXHOUEN3XWKQLQOA/</guid>
-      <dc:creator>김명진 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 03 Mar 2025 18:00:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/E4BUGOFDU5GVHORFPGGWMJ5IMY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 1일 오후 서울 광화문과 경복궁 일대에서 경찰 버스 차벽을 두고 윤석열 대통령 탄핵 반대(사진 위쪽 인파) 집회와 탄핵 가결 촉구 집회가 동시에 열리고 있다. /장련성 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한국의 사회적 갈등 비용은 계엄·탄핵 이전에도 연간 80조원 규모였다. 전문가들은 3일 “해방 정국을 연상시킬 만큼 극단적 사회 분열을 야기한 계엄·탄핵 이후의 갈등 비용은 이전과 비교할 수 없을 정도로 불어날 것”이라고 우려했다. &lt;br&gt;&lt;br&gt;지난해 4월 단국대 분쟁해결연구센터가 국무조정실 의뢰로 연구해 공개한 ‘사회적 갈등으로 인한 경제적 비용 분석’ 연구에 따르면, 1990년부터 2022년까지 발생한 갈등 비용은 약 2628조200억원 수준이다. 갈등 유형별로 보면 가장 큰 사회적 갈등은 ‘진보 대 보수’ 같은 이념 갈등이었다. 이념 갈등 비용은 1981조2500억원(75.3%)으로 집계됐다. 단국대 연구팀은 “이념 갈등의 발생 빈도는 전체 유형 중 약 6%를 차지했지만 발생 비용은 가장 컸다”고 했다. 이어 노동 갈등(307조원·11.7%), 계층 갈등(192조원·7.3%), 지역 갈등(77조 원·2.9%) 순이었다.&lt;br&gt;&lt;br&gt;박근혜 전 대통령이 탄핵된 2017년에는 1740조6000억원의 갈등 비용이 발생했는데, 이는 그해 실질 국내총생산(GDP)의 약 85%에 달하는 수치였다. 이 연구센터는 갈등 비용을 집회 등 갈등 참여자 수에 1일 법정 근로시간(8시간), 2024년 최저 시급(9860원), 갈등 지속 기간을 곱하는 식으로 추계했다.&lt;br&gt;&lt;br&gt;전문가들은 이번 계엄·탄핵 사태로 한국 사회가 지불하는 사회적 비용이 박근혜 전 대통령 탄핵 때보다 훨씬 심각할 것이라고 분석한다. 현 사태가 단지 이념 갈등에 머무르지 않고 세대·성별·계층·지역·종교에 걸쳐서 “나와 생각이 다르면 용납할 수 없다”는 식으로 번지고 있기 때문이다.&lt;br&gt;&lt;br&gt;중앙대 정치국제학과 최영진 교수는 “박 전 대통령 탄핵 국면 때는 탄핵을 지지하는 세가 상당히 많았지만, 이번에는 정권 퇴진에 대한 의견이 거의 반반으로 갈리면서 갈등 양상이 심리적 내전 수준으로 치닫고 있다”며 “해방 정국 때 신탁 통치를 두고 찬탁·반탁으로 갈려 싸우던 상황과 비견된다. 총만 안 들고 있지 상대편을 절멸시키겠다는 수준으로 갈등이 악화하고 있어 치러야 할 사회적 비용은 더 커질 것”이라고 했다.&lt;br&gt;&lt;br&gt;서울대 사회학과 이재열 교수는 “디지털 플랫폼의 알고리즘 추천에 따라 사람들이 자기와 같은 의견만을 자주 접하게 되면서, 생각이 다른 사람들을 ‘같은 인간’으로 이해하지 않는 비인간화, 극단적인 양극화 현상이 올해가 2017년에 비해 훨씬 강하게 나타나고 있다”고 했다. 다만 중앙대 사회학과 신광영 교수는 “박 전 대통령 탄핵 국면에 대한 ‘학습 효과’가 있기 때문에 올해 치러질 사회적 비용은 2017년보단 적을 가능성도 있다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
