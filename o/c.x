@@ -13,6 +13,90 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>포천 민가에 전투기 폭탄 떨어져… 7명 부상, 주택·교회 파손 </title>
+      <link>https://www.chosun.com/national/incident/2025/03/06/7UURQMIOCNH7JBRCYOLXO3KBEY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/03/06/7UURQMIOCNH7JBRCYOLXO3KBEY/</guid>
+      <dc:creator>포천=김수언 기자, 포천=김현수 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 06 Mar 2025 01:49:38 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PKCPJ2XJ7FO37BUVMDSIDZSZME.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;6일 오전 10시 5분쯤 경기 포천시 이동면 노곡리 민가에 군이 발사한 폭탄이 민가에 추락해 인명 피해가 발생했다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;6일 훈련 중인 우리 공군 전투기가 잘못 발사한 폭탄이 경기 포천시의 민가에 떨어지는 사고가 나 7명이 다쳤다.&lt;br&gt;&lt;br&gt;경기북부소방재난본부에 따르면 이날 오전 10시 5분쯤 포천시 이동면 노곡리 낭유대교 인근에서 “민가에 포탄이 떨어졌다”는 취지의 119신고가 18건 접수됐다.&lt;br&gt;&lt;br&gt;이 사고로 2명이 크게 다치고, 5명이 경상을 입는 등 모두 7명이 다친 것으로 파악됐다. 소방 관계자는 “현재까지 심정지 및 의식이 없는 환자는 없다”고 했다. 또 교회 1개동과 주택 2채 일부, 1톤 트럭 1대가 파손된 것으로 확인됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GR7AJLO3GNIQBJNNYRJNV5SAD4.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;6일 오전 10시 5분쯤 경기 포천시 이동면 노곡리 민가에 군이 발사한 폭탄이 민가에 추락해 인명 피해가 발생했다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;소방은 장비 30대와 인력 78명을 동원해 사고 현장을 수습 중이다.&lt;br&gt;&lt;br&gt;소방은 한미연합훈련 중 전투기 폭탄 오발로 인해 사고가 난 것으로 추정했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7G6DIX43KREBHJGBSK3ITPER2Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=조선디자인랩 이민경&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;합동참모본부는 “경기 포천 승진훈련장에서 한미연합훈련 중 사고가 발생했다”며 “사고 발생 지역은 훈련장에서 6km떨어진 지역으로, 민간 피해 외 군 피해는 아직 보고된 바 없다”고 국회 국방위원회에 보고했다.&lt;br&gt;&lt;br&gt;공군은 “6일 오전 10시 4분 경 공군 KF-16에서 MK-82 일반폭탄 8발이 비정상투하되어 사격장 외부 지역에 낙탄됐다”며 “이 전투기는 공·육군 연합·합동 화력 실사격 훈련에 참가 중이었다”고 밝혔다.&lt;br&gt;&lt;br&gt;한편, 우리군과 주한미군은 2025년 한미연합연습 ‘자유의 방패’(FS)의 시작에 앞서 이날 포천 승진과학화훈련장에서 양국 공중·지상 전력이 대거 참여하는 실사격 훈련을 진행했다.&lt;br&gt;&lt;br&gt;공중 전력으로는 공군작전사령부 예하 F-35A, F-15K, KF-16, FA-50 등 13대의 4·5세대 전투임무기들이 참가했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/47GA5PENMFJ3TKGHCZREC5WUSY.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;6일 오전 10시 5분쯤 경기 포천시 이동면 노곡리 민가에 군이 발사한 폭탄이 민가에 추락해 인명 피해가 발생했다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/46YXVRKCO5NPBM3OYCS7O6I2PU.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;6일 오전 10시 5분쯤 경기 포천시 이동면 노곡리 민가에 군이 발사한 폭탄이 민가에 추락해 인명 피해가 발생했다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/PTJIGMAMRNE4ZBJWPFA4J2Y4EM.gif?width=500&amp;height=354&amp;auth=3d3173b390e60f0af31ed0f126e5f69d96a596a97c3ebf31367d3b4efe469384&amp;smart=true" type="image/jpeg" height="354" width="500">
+        <media:description type="plain">한미연합훈련이 진행된 6일 오전 10시 5분께 경기 포천시 이동면 노곡리 민가에 군이 발사한 폭탄이 추락해 인명 피해가 발생했다./뉴스1</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>이수지 ‘대치맘’ 논란에 “의도대로 흘러가지 않아...오해 아쉽다“</title>
+      <link>https://www.chosun.com/national/people/2025/03/06/BR7DF5CNJRB5PFHRFNST25ZQ6Q/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/03/06/BR7DF5CNJRB5PFHRFNST25ZQ6Q/</guid>
+      <dc:creator>정아임 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 06 Mar 2025 02:27:18 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QZQXKQ524VG6ZFSQW3CE7ZFF2I.png"&gt;&lt;figcaption&gt;&lt;small&gt;서울 강남구 대치동 학원가 학부모를 패러디하한 코미디언 이수지./유튜브 채널 ’핫이슈지‘&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;코미디언 이수지가 ‘대치맘’ 패러디 영상으로 화제를 모은 가운데 “의도대로 흘러가지 않는다는 부담과 오해가 있어서 아쉽다”고 말했다. &lt;br&gt;&lt;br&gt;지난 5일 방송된 KBS 쿨FM ‘오마이걸 효정의 볼륨을 높여요’의 절대로 참지 못하는 것들을 이야기하는 ‘못 참아’ 코너에는 이수지가 출연했다.&lt;br&gt;&lt;br&gt;이날 DJ 효정은 최근 화제가 된 유튜브 ‘핫이슈지‘를 언급했다. 현재 60만 구독자를 앞둔 이수지는 “100만 구독자가 되면 소고기 회식을 하자는 말이 있었다. 채널을 처음 만들고 나서 석 달 정도에 1~2만 정도면 괜찮겠다 싶었다. 그렇게 시작했는데 시작에 비해 너무 반응이 좋아 겸손하고 붕 뜨지 말자 싶다”고 말했다.&lt;br&gt;&lt;br&gt;이수지는 유튜브 영상 속 다양한 캐릭터 연기에 대해 “공들이는 건 캐릭터마다 다 똑같다. ‘대치맘’ 캐릭터 할 때는 업로드 날 추억으로 남기자고 했다. 그런데 반응이 크게 와서 내가 의도한 대로 흘러가지 않는다는 부담과 오해가 있어서 아쉽다”고 했다. 그러면서 “캐릭터마다 주변 인물들이나 제 모습이다”라고 했다.&lt;br&gt;&lt;br&gt;지난달 4일 공개된 대치맘 패러디 영상은 6일 기준 조회 수 약 800만 회를 기록하며 화제가 됐다. 첫 영상에서 영어 유치원에 다니는 제이미의 엄마로 등장한 이수지는 수백만 원대 몽클레르 패딩을 입고 샤넬 가방을 들고 나왔다. 포르쉐 차량으로 아이를 학원에 데려다준 후 차 안에서 김밥 한 줄로 끼니를 때웠다.&lt;br&gt;&lt;br&gt;영상 공개 후 강남 지역에서 흔히 볼 수 있는 어머니의 모습이라며 인기를 끌었지만, 일각에서는 열심히 자녀 교육에 힘쓰는 사람들을 조롱, 희화화했다는 의견도 나왔다. 또한 자녀의 학원 라이딩 영상을 공개했던 배우 한가인을 저격한 것 아니냐는 반응도 나오면서 한가인의 유튜브 영상에 악성 댓글이 이어졌고, 결국 한가인 유튜브 제작진은 해당 영상을 비공개 전환했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>대전 공용자전거 ‘타슈’  전산시스템 해킹...36시간 운영 중단</title>
+      <link>https://www.chosun.com/national/regional/2025/03/06/QTGVDABYV5CDHFGW2QSQXBKKHE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/03/06/QTGVDABYV5CDHFGW2QSQXBKKHE/</guid>
+      <dc:creator>우정식 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 06 Mar 2025 02:04:03 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EDLTINCAXPB3MHMY7LTY5YQ75E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대전 공용자전거 '타슈' /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대전시 공용자전거 ‘타슈’의 전산시스템이 해킹 공격을 받아 지난 3·1절 연휴 중 36시간 동안 운영이 중단됐던 것으로 드러났다.&lt;br&gt;&lt;br&gt;6일 대전시 등에 따르면 대전교통공사에서 위탁받아 운영하는 타슈 서비스가 지난 2일 오후 11시 40분쯤 서버 해킹 공격으로 운영이 중단됐다. 복구는 약 36시간 뒤인 4일 오전 11시쯤 완료됐다. 해킹 공격은 랜섬웨어 감염으로 인한 것으로 전해졌다. 랜섬웨어는 악성 소프트웨어로 데이터나 PC 등을 암호화한 뒤 보상을 요구하는 사이버 공격을 의미한다. 이로 인한 개인정보 유출 피해는 없었지만, 일부 파일이 손상된 것으로 알려졌다.&lt;br&gt;&lt;br&gt;대전교통공사 측은 “세부 피해사항은 정밀 조사를 해야겠지만 현재로서는 개인정보 유출 피해는 없는 것으로 파악됐다”고 밝혔다. 타슈 서버는 단일 서버로 백업 시스템이 부재해 복구에 시간이 걸렸다고 한다.&lt;br&gt;&lt;br&gt;데이터베이스 복구 과정에서 초기화로 인해 현재 42만여명인 타슈 회원들은 인증 과정을 다시 거쳐야 하는 불편을 겪어야 할 것으로 보인다.&lt;br&gt;&lt;br&gt;대전교통공사는 이와 관련한 대응책을 마련하고 재발 방지에 주력한다는 방침이다. 대전시는 랜섬웨어 공격의 경위와 교통공사의 대응 과정 등에 대해 조사하고 있다.&lt;br&gt;&lt;br&gt;이장우 대전시장은 확대간부회의에서 “연휴 기간에 비가 와 타슈 이용이 적었지만 이번 기회에 전산시스템 방화벽을 점검하고, 전문가를 동원해 방어 시스템을 구축하라”고 주문했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>오세훈 “첨단 산업 육성 위해 500조원 ‘다시 성장 펀드’ 조성해야″</title>
+      <link>https://www.chosun.com/national/regional/seoul/2025/03/06/3K4QX3USFRFITKUTMKJ4UMX7VQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/seoul/2025/03/06/3K4QX3USFRFITKUTMKJ4UMX7VQ/</guid>
+      <dc:creator>김영우 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 06 Mar 2025 01:45:40 +0000</pubDate>
+      <content:encoded>오세훈 서울시장이 6일 “미래를 이끌 첨단 산업을 위해 500조원 규모의 ‘다시 성장(KOGA) 펀드’를 조성해야 한다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7IQXWDSBTFJJTB3DO7NUWN7NDI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;오세훈 서울시장. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;오 시장은 이날 페이스북에 ‘첨단 산업 육성을 위한 500조원 ’다시 성장(KOGA) 펀드‘, 지금이 적기입니다’라는 제목의 글을 올리고, “인공지능(AI), 반도체, 양자, 바이오, 핵융합발전, 우주 산업 등 미래 전략산업에 대한 과감한 투자 없이는 글로벌 경쟁에서 뒤처질 수밖에 없다”며 이같이 말했다.&lt;br&gt;&lt;br&gt;오 시장은 “중국은 2030년까지 AI 산업에 1900조원을 투자할 계획이고, 미국도 AI 인프라에 700조원을 투입한다”며 “우리 정부의 R&amp;amp;D 예산은 약 29조6000억원에 불과하고, 특히 AI, 반도체, 양자, 바이오 등 선도형 R&amp;amp;D 지원 예산은 4조3000억원으로 매우 부족하다”고 했다.&lt;br&gt;&lt;br&gt;이어 오 시장은 “영국의 인내자본, 이스라엘의 시티즌 펀드처럼 우리도 장기적 안목을 가지고 선순환 투자를 해야 한다”며 “국부펀드를 활용한 대규모 펀드를 조성하고, 민간과 함께 투자 리스크를 분담하며 혁신 기업을 적극 지원해야 한다”고 했다.&lt;br&gt;&lt;br&gt;아울러 오 시장은 “중소·벤처기업의 스케일업, 첨단 기술 기업의 M&amp;amp;A, 대규모 연구·생산 시설 확충을 위한 자금 지원이 필수적”이라며 “한국의 미래 성장 동력을 확보하기 위해 국가는 과감하고 선제적인 투자자로 나서야 한다. 지금이 바로 대한민국의 미래 산업 경쟁력을 결정할 골든타임”이라고 했다.&lt;br&gt;&lt;br&gt;앞서 오 시장은 지난 4일 서울 중구 대한상공회의소에서 열린 ‘기업 중심 성장 지향형 규제 개혁’ 포럼에서 ‘다시 성장하는 대한민국’(KOGA·KOrea Growth Again)이라는 경제 비전을 발표했다. 첨단 산업 R&amp;amp;D를 위한 과감한 정책, 적극적인 재정 투자 등으로 경상 성장률 5%를 달성하겠다는 등의 내용이 담겼다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>유명셰프 레스토랑 통유리에 깔려 전치 4주…”합의금 380만원 거부”</title>
+      <link>https://www.chosun.com/national/national_general/2025/03/06/HCNTGWBICRARFO57X5B3H2XHIQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/03/06/HCNTGWBICRARFO57X5B3H2XHIQ/</guid>
+      <dc:creator>이가영 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 06 Mar 2025 01:37:26 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3W7TRHPDK5FCBJXYWXIPOMICVM.gif"&gt;&lt;figcaption&gt;&lt;small&gt;작년 11월 서울 서초구의 한 레스토랑 유리통창이 쓰러지며 행인이 전치 4주의 부상을 당하는 일이 발생했다. /TV조선&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;방송을 통해 얼굴이 알려진 유명 셰프가 운영하는 레스토랑 통유리창이 무너져 지나가던 행인이 부상을 입었다. 이 셰프는 피해자와 합의하지 못해 경찰에 피소됐다. &lt;br&gt;&lt;br&gt;서울 수서경찰서는 6일 셰프 A씨를 과실치상 혐의로 입건해 수사 중이라고 밝혔다. A씨는 작년 11월 자신이 운영하는 서울 서초구 레스토랑의 유리창이 쓰러져 40대 여성 행인에게 전치 4주의 부상을 입힌 혐의를 받는다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZWIGYMBFS5EHBPF6EHVXQWZFZQ.png"&gt;&lt;figcaption&gt;&lt;small&gt;레스토랑 통창에 깔려 넘어진 여성은 전치 4주의 부상을 입었다. /TV조선&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;TV조선이 공개한 당시 CCTV 영상을 보면, 우산을 쓰고 걸어가던 여성 B씨는 오른쪽에서 갑자기 쓰러진 유리 통창에 깔려 넘어졌다. 흰 옷차림의 남성이 다급하게 뛰어나와 B씨를 부축해 구급차로 안내했는데, 여성은 다리와 얼굴 곳곳에 멍이 들어 4주간 병원 치료가 필요하다는 진단을 받았다. &lt;br&gt;&lt;br&gt;당시 통창이 제대로 고정돼 있지 않아 사고가 난 것으로 전해졌다. &lt;br&gt;&lt;br&gt;B씨 측은 치료비 등 명목으로 합의금을 요구했지만, A씨 측이 손해배상액의 근거를 요구하며 합의에 이르지 못했다. A씨는 과실치상 혐의로 입건돼 두 차례 경찰 조사를 받았다. B씨 측이 요구한 합의금은 380만원으로 전해졌다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>필수 의사는 중과실 없으면 의료 사고 일으켜도 기소 안한다</title>
+      <link>https://www.chosun.com/national/welfare-medical/2025/03/06/CLIHB7YNXJBPZJH3KDPXTK5FJM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/03/06/CLIHB7YNXJBPZJH3KDPXTK5FJM/</guid>
+      <dc:creator>정해민 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 06 Mar 2025 01:23:33 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GVIAYQZKSZC2VBL42QJZX5XKRA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난해 3월 인천 계양구 인천세종병원 수술실에서 의료진들이 수술을 하고 있다. /장련성 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;앞으로 필수 의료 의사는 중대한 과실이 없을 경우 의료 사고를 일으켜도 처벌을 받지 않는 방안이 추진된다.&lt;br&gt;&lt;br&gt;6일 정부는 김미애 국민의힘 의원 주최로 국회 도서관에서 열린 ‘의료 사고 안전망 강화를 위한 정책 토론회’에서 이런 내용을 골자로 하는 의료 사고 안전망 구축 방안을 발표했다.&lt;br&gt;&lt;br&gt;우리나라는 의료 사고의 처벌을 환자의 상태 등 의료 사고의 ‘결과’로 결정하는 경우가 많다. 앞으로는 이를 의사의 과실 여부 등 의료 사고의 ‘원인’에 초점을 맞춰 책임을 묻겠다는 것이다.&lt;br&gt;&lt;br&gt;현재는 의료 사고 피해자·가족이 의료인 처벌을 원하지 않아도, 환자가 중상해를 입은 경우에는 의료인을 재판에 넘길 수 있다. 정부는 중상해 사건이라도 환자와 의료진 간에 합의가 이루어지면 기소하지 않도록 하는 ‘반의사 불벌’을 폭넓게 인정할 방침이다.&lt;br&gt;&lt;br&gt;다만, 사망 사고의 경우 필수 의료에 한해서만 유족 전원이 의료인을 처벌하지 않는 것에 동의할 시 기소하지 않도록 하는 방안을 검토 중이다. 피부·미용 관련 진료를 하다가 환자를 사망에 이르게 하면 유족의 의사와 관계없이 기소할 수 있다는 것이다.&lt;br&gt;&lt;br&gt;정부는 이를 전담할 ‘의료 사고 심의 위원회(가칭)’도 신설한다. 환자는 의료 사고로 의사를 고소·고발하려면 30일 내로 심의위에 심의를 요청해야 한다. 이후 심의위는 150일 내에 해당 의료 행위가 필수 의료였는지, 의사의 과실 여부가 얼마나 중한지 판단한다.&lt;br&gt;&lt;br&gt;심의위가 의사에게 중과실이 있었다고 판단을 내리면, 검찰과 경찰은 이 사건을 수사하고 재판에 넘길 수 있다. 그러나 중과실이 아니라고 판단을 내리면 사망 사고를 제외하고는 원칙적으로 기소를 자제하겠다는 것이다. 심의위가 수사와 기소 여부를 가르는 핵심 권한을 갖게 되는 셈이다. 검경은 심의위가 판단을 내리기 전에는 의료 사고 관련 소환 조사도 자제해야 한다.&lt;br&gt;&lt;br&gt;의료 사고에 대한 공적 배상 체계도 강화한다. 전반적인 환자 배상액을 높이기 위해 전체 병·의원에 의료 배상을 위한 책임 보험 가입을 의무화하겠다는 것이다.&lt;br&gt;&lt;br&gt;현재는 공적 배상 체계가 없어 민간 보험을 중심으로 배상 체계가 운영 중이다. 그러나 의료 기관의 민간 보험 가입이 저조한 상황이다. 복지부에 따르면, 법정 의사 단체인 대한의사협회가 운영하는 의료 배상 공제 조합의 가입률은 의원 33%, 병원·종합병원 35.6% 수준이다.&lt;br&gt;&lt;br&gt;정부는 배상액 규모 1000만원 미만의 소액 사건에 대해서는 보험사나 공제회의 자체 심사를 통해 30일 이내에 신속 배상할 수 있도록 할 계획이다. 또 정부는 지난해 불가항력적 분만 사고에 대해 국가 보상금 한도를 3000만원에서 3억원까지 올렸는데, 이를 중증 응급이나 중증 소아 등으로 확대하는 방안을 검토하고 있다.&lt;br&gt;&lt;br&gt;의료 사고가 발생했을 때 의료진이 환자나 가족에게 설명과 유감 표명을 의무적으로 하는 방안도 추진한다. 또 이 과정에서 나온 의료진의 사과나 유감 표시가 추후 수사나 재판 과정에서 불리하게 작용하지 않도록 할 방침이다. 또 ‘환자 대변인’을 신설해 사망이나 중상해 사건의 경우 피해자와 가족들의 조정 등 준비 절차를 지원한다. 환자와 의료진 간의 소통 부족으로 인한 소모적인 소송을 줄이겠다는 취지다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“60년 뒤 한국, 노인부양 비율 28→155% 급증” OECD의 경고</title>
+      <link>https://www.chosun.com/national/national_general/2025/03/06/MIU4P4Z3OBF2DC7ITRWAFR7PYI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/03/06/MIU4P4Z3OBF2DC7ITRWAFR7PYI/</guid>
+      <dc:creator>이가영 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 06 Mar 2025 00:59:28 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZQK3GYZ5PNLM7G4O5GNPSGTGVQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 26일 인천 미추홀구 아인병원 신생아실에서 간호사들이 신생아들을 돌보고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;경제협력개발기구(OECD)는 한국의 심각한 저출산 문제가 지속된다면 향후 60년간 인구가 절반으로 줄어들 것으로 내다봤다. &lt;br&gt;&lt;br&gt;OECD는 5일(현지시각) ‘한국의 태어나지 않은 미래: 저출산 추세의 이해’라는 제목의 책자에서 출산율 감소가 전 세계적인 현상이기는 하지만, 한국의 경우 2023년 기준 합계 출산율(여성 1명이 평생 낳을 것으로 예상되는 자녀 수)이 0.72명으로 세계에서 가장 낮은 출산율을 기록했다고 짚었다. OECD에서 한국의 저출산 문제를 다룬 정식 책자가 출간된 건 이번이 처음이다. &lt;br&gt;&lt;br&gt;출산율이 현재 수준을 유지할 경우 한국의 인구는 향후 60년간 절반으로 줄고, 2082년에는 전체 인구의 약 58%가 65세 이상 노인이 될 것으로 예측됐다. 아울러 이 기간 노인 부양 비율(20~64세 인구 대비 65세 이상 인구 비율)은 현재 28%에서 155%로 급증할 것으로 내다봤다. 생산연령인구 1명이 노인 1.5명을 부양해야 하는 셈이다. &lt;br&gt;&lt;br&gt;OECD는 우선 한국의 출산율이 특히 낮은 이유로 높은 사교육비 지출을 꼽았다. OECD는 “한국의 교육열은 세계적으로 유명하며 이는 경제 발전에 중요한 역할을 했지만 과도해진 측면이 있다”며 “대학 학위가 최소 학력 요건이 됐고, 25~34세 연령층의 고등 교육 비율이 OECD 국가 중 가장 높다”고 했다. &lt;br&gt;&lt;br&gt;양질의 일자리가 부족한 상황에서 명문대를 졸업한 사람들은 높은 연봉을 받을 가능성이 더 높고, 명문대에 가기 위한 치열한 경쟁이 벌어진다. 그 결과 한국은 OECD 국가 중 취업에 필요한 자격 요건을 초과하는 이들의 비율이 가장 높고, 실제 업무에 부합하지 않는 자격을 가진 근로자의 비율도 50%에 달해 OECD 최고 수준이다. &lt;br&gt;&lt;br&gt;많은 한국의 학부모들이 소득의 상당 부분을 사교육에 할당하고 있다. 자녀가 많을수록 더 많은 소득이 필요하게 되므로 출산율이 최저치를 기록하게 됐다고 OECD는 진단했다. &lt;br&gt;&lt;br&gt;아울러 장시간 근무 문화, 근무 시간‧장소의 유연성이 부족해 일과 가정의 양립이 어려운 점도 출산율 하락의 원인이다. OECD는 “많은 한국 여성은 경력을 포기하고 가족을 선택해야 하는 상황에 처하게 된다”며 “남성들은 가족의 생계를 책임지는 가장이 될 수밖에 없다”고 했다. 이로 인해 “남녀 모두의 행복과 가족 소득이 감소한다”고 지적했다. &lt;br&gt;&lt;br&gt;&lt;b&gt;◇일과 돌봄 양립 가능한 업무 문화 만들어야&lt;/b&gt;&lt;br&gt;&lt;br&gt;OECD는 한국의 출산율 하락을 막기 위해선 국가 차원의 보육 서비스가 발달해야 한다고 제안했다. 방과 후 서비스 제공, 부모의 유연한 근무, 보육 기관의 긴 시간 운영 등 양질의 보육 서비스에 대한 접근성을 늘려야 어린 자녀를 둔 부모가 둘째 아이를 가질 확률이 높아진다는 것이다. OECD는 “육아 휴직에서 복귀한 후에도 장시간 근무와 근로자가 전적으로 헌신해야 하는 노동 문화에서는 어머니들이 일과 육아를 병행하기 어렵다”고 했다. &lt;br&gt;&lt;br&gt;또 자격이 제한되어 있고 활용률도 낮은 유급 육아휴직 제도도 개선해야 한다고 했다. OECD는 “출산율 문제를 해결하는 데 있어 육아휴직 정책의 중요성이 강조되었음에도 불구하고, 한국의 출산 관련 예산에서 가장 적은 비중을 차지하고 있다”며 “예산의 가장 큰 비중은 주택에 할당되었는데, 이는 육아휴직 정책보다 훨씬 덜 직접적인 방식으로 출산율을 지원하는 방식”이라고 짚었다. &lt;br&gt;&lt;br&gt;실질적인 근무 수명을 연장해야 한다는 의견도 나왔다. 2023년 한국 통계청에서 55~79세를 대상으로 한 조사에 따르면 70%가 계속 일하고 싶다는 의사를 표명했으나 이들의 주요 경력 평균 은퇴 연령은 52.7세에 불과했다. &lt;br&gt;&lt;br&gt;OECD는 외국인 노동력도 적극적으로 수용해야 한다고 권고했다. 숙련 노동자를 받아들이기 위해 다양한 비자 장벽을 제거하고, 저숙련 노동자에 대한 열악한 근무 환경을 개선할 필요가 있다고 주문했다. &lt;br&gt;&lt;br&gt;OECD는 이런 식으로 근무 연령과 이민을 늘리고, 합계 출산율을 1.1명으로 끌어올릴 경우 2070년까지 국내총생산(GDP)이 12% 높아질 것으로 전망했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>절도죄 처벌만 이미 15번… 또 재개발 빈집 털이한 도둑 징역형</title>
+      <link>https://www.chosun.com/national/national_general/2025/03/06/HU6TAHZTF5ANZA6JA5B3TFY2SI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/03/06/HU6TAHZTF5ANZA6JA5B3TFY2SI/</guid>
+      <dc:creator>문지연 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 06 Mar 2025 00:48:36 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NBKWWCGCGBKHXUZFOX3D52MXDI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대전지방법원. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;절도죄 등으로 이미 15차례 처벌받았음에도 누범 기간 또다시 재개발 지역 빈집을 턴 남성이 실형을 선고받았다.&lt;br&gt;&lt;br&gt;대전지법 형사8단독(부장판사 이미나)은 절도, 절도미수, 특수주거침입, 특수재물손괴 등 혐의로 기소된 A씨에게 징역 1년 6개월을 선고했다고 6일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 작년 9월에서 11월 사이 대전 유성 일대 재개발 예정지 등 사람이 살지 않는 빈집에 20여 차례 무단 침입해 보일러 부품과 수도꼭지 등 금속 자재를 훔친 혐의를 받는다.&lt;br&gt;&lt;br&gt;그는 2022년에도 절도죄 등으로 징역 1년의 실형을 선고받는 등 이미 비슷한 범죄를 저질러 무려 15번이나 처벌받은 전력이 있었다.&lt;br&gt;&lt;br&gt;재판부는 “피고인은 절도 관련 전과가 많고 누범 기간임에도 재차 범행을 반복한 점에서 죄질이 좋지 않다”며 “재범 위험성이 매우 높아 엄중한 처벌이 불가피하다”고 양형 이유를 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>집에 혼자 있다 화재로 참변… 장기기증하고 떠난 초등생, 눈물 속 발인</title>
+      <link>https://www.chosun.com/national/national_general/2025/03/06/4LXVYOCYEZHZTGF5OYKUGJVMKQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/03/06/4LXVYOCYEZHZTGF5OYKUGJVMKQ/</guid>
+      <dc:creator>인천=이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 06 Mar 2025 00:01:03 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/64RAWRZ6XNFVFLVTYTCZEXP2WI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;6일 인천 서구 가톨릭관동대 국제성모병원 장례식장에서 화재 사고로 숨진 초등학생 문모(12)양의 발인이 엄수됐다. 조문객들이 인천가족공원으로 향하는 운구차를 배웅하고 있다. /이현준&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;집에 혼자 있던 중 화재로 의식불명 상태에 빠져 병원에서 치료 중 숨진 문모(12)양의 발인이 6일 엄수됐다. &lt;br&gt;&lt;br&gt;이날 오전 7시 50분쯤 인천 서구 가톨릭관동대 국제성모병원 장례식장에서 진행된 문양의 발인식에선 문양의 부모와 유족, 지인 등이 침통한 분위기 속에서 문양의 마지막을 배웅했다. &lt;br&gt;&lt;br&gt; 반려묘를 안은 채 미소를 띤 문양의 영정사진을 든 외삼촌은 어두운 표정으로 고개를 떨궜고, 문양의 부모는 쏟아지는 눈물을 손수건으로 닦으며 힘겹게 발걸음을 옮겼다. &lt;br&gt;&lt;br&gt;문양을 태운 운구차는 조용히 장지인 인천가족공원으로 향했다. &lt;br&gt;&lt;br&gt;발인식에 참석한 강범석 인천 서구청장은 “어린 생명이 꽃을 피우지 못한 채 큰일을 당해 안타까운 마음이 크다”며 “이런 일이 반복되지 않도록 하는 방안을 찾을 것”이라고 했다. &lt;br&gt;&lt;br&gt;김교흥 국회의원은 “참 안타까운 일”이라며 “복지 사각지대를 최소화할 수 있도록 관련 법‧제도를 정비할 수 있도록 하겠다”고 말했다. &lt;br&gt;&lt;br&gt;문양은 지난달 26일 오전 10시 43분쯤 인천 서구 심곡동 빌라 4층 집에서 화재 사고를 당했다. 당시 어머니는 일터에, 아버지는 투석 치료차 병원에 가 방학 중이던 문양은 집에 혼자 있었다. &lt;br&gt;&lt;br&gt;얼굴 부위에 2도 화상을 입고, 연기를 마셔 심정지 상태로 병원으로 옮겨진 문양은 의식불명 상태로 병원 중환자실에서 치료를 받았으나, 사고 닷새 만에 끝내 숨졌다. 문양의 부모는 병원 측의 장기 기증 안내를 받은 뒤 동의했다. &lt;br&gt;&lt;br&gt;국립과학수사연구원은 문양에 대한 부검에서 “화재로 인한 일산화탄소 중독이 사인으로 추정된다”는 구두 소견을 경찰에 전달했다.&lt;br&gt;&lt;br&gt;문양은 평소 동물을 좋아해 수의사가 되고 싶어 했다고 한다. 문양의 어머니는 “수의사가 꿈이던 사랑스럽고, 예쁘고, 착한 딸이었다”며 “우리 딸이 좋은 일을 하고 떠난 착한 아이로 기억됐으면 한다”고 했다.&lt;br&gt;&lt;br&gt;문양 가구는 지난해 보건복지부 복지 사각지대 발굴 시스템을 통해 5차례 위기 징후가 포착돼 지자체가 확인했으나, 기준 이상의 소득이 있어 별다른 지원이 이뤄지지 않았다. &lt;br&gt;&lt;br&gt;문양 가구의 안타까운 사연에 이웃들은 성의를 모으고 있다. 인천 서구 등에 따르면 인천사회복지공동모금회 등에 지금까지 총 900만원의 후원금이 모였다. &lt;br&gt;&lt;br&gt;서구와 LH(한국토지주택공사) 인천본부 등 관계 기관도 문양 가구를 돕기 위한 지원 대책을 추진 중이다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VG5CQ564FBERXP7AONZWXEWKKI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 인천 서구에서 발생한 화재로 숨진 문양/연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>父장제원 ‘성폭력 의혹’에…아들 노엘이 올린 의미심장 글</title>
       <link>https://www.chosun.com/national/national_general/2025/03/06/MZGM3BORTVFLDLU2RIELLPOHWE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/03/06/MZGM3BORTVFLDLU2RIELLPOHWE/</guid>
@@ -792,24 +876,6 @@ DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;블록체�
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZZZ3KC7PXVFBRNLVPCWLVM2JRA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[신문으로 배우는 실용한자] 세례(洗禮)</title>
-      <link>https://www.chosun.com/national/nie/chinese_character/2025/03/05/A5AR355IR5CBXCVMTHJO6LUSFY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese_character/2025/03/05/A5AR355IR5CBXCVMTHJO6LUSFY/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Tue, 04 Mar 2025 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6CTRJ2ZSQNEGBGK6NDDE33BBZE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>홀로 집 지키다 화재로 숨진 초등생…유족에 쏟아진 온정</title>
-      <link>https://www.chosun.com/national/people/2025/03/04/LAPTL4OC7JHRXAXO4XBT6DJ53I/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/03/04/LAPTL4OC7JHRXAXO4XBT6DJ53I/</guid>
-      <dc:creator>이승규 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 04 Mar 2025 13:43:53 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VG5CQ564FBERXP7AONZWXEWKKI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 인천 서구에서 발생한 화재로 숨진 문양/연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;방학 중에 집에 혼자 있다가 화재 사고로 숨진 초등학생 문모(12)양의 가정에 시민들의 위로금이 답지하고 있다. &lt;br&gt;&lt;br&gt;4일 인천사회복지공동모금회에는 문양의 가정을 위해 기부하겠다는 후원금 800여 만원이 모였다. 인천 서구는 문양 부모에게 침구류와 전기밥솥 등 생필품과 함께 긴급 생계비 154만원을 3개월간 지원할 예정이다. 겨울철 사각지대 지원금 50만원도 지급된다. 한국토지주택공사(LH) 인천본부도 3개월간 문양 부모가 거주할 수 있도록 긴급 주거 지원 서비스를 제공한다. 화재 피해로 인해 문양 부모가 당장 거주할 곳이 마땅치 않다는 판단에서다.&lt;br&gt;&lt;br&gt;지난달 26일 인천시 서구 심곡동 4층 빌라에 불이 나 집에 있던 문양이 심정지 상태로 병원에 옮겨졌으나 숨졌다. 사고 당시 문양의 아버지는 신장 투석 치료를 받기 위해 병원에 있었고, 어머니는 식당으로 출근한 상태였다.&lt;br&gt;&lt;br&gt;문양 가구는 지난해 보건복지부 복지 사각지대 발굴 시스템을 통해 5차례 복지 위기 징후가 포착돼 지자체가 확인을 했지만, 당시 문양 부모가 맞벌이를 하며 기준 이상의 소득이 있어 지원 대상엔 포함되지 않았다. &lt;br&gt;&lt;br&gt;문양의 빈소는 5일 인천 서구 가톨릭관동대 국제성모병원 장례식장에 마련되며 발인은 6일 오전이다. 문양의 부모는 의료진 권유에 따라 딸의 심장과 췌장 등 장기를 기증할 방침이다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>의료계 원로들 “내년 의대정원 2년 전 수준으로...더는 지체할 여유 없어”</title>
       <link>https://www.chosun.com/national/welfare-medical/2025/03/04/NTYQR6KQMFBC7KNTP2T23LJLFU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/03/04/NTYQR6KQMFBC7KNTP2T23LJLFU/</guid>
@@ -820,24 +886,6 @@ DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;블록체�
       <media:content url="https://www.chosun.com/resizer/v2/Y2QKVCXORJM6RELECLRBIFDMS4.jpg?width=3123&amp;height=2088&amp;auth=3347f552d4a2e9eeab0f182f42510552ec1d69c9ed71b488e323b74623d55be6&amp;smart=true" type="image/jpeg" height="2088" width="3123">
         <media:description type="plain">4일 서울의 한 의과대학 강의실에 의사가운만 걸린 채 텅 비어있다. 전국 의과대학 40곳 중 10곳의 수강신청 인원이 전무한 것으로 집계됐다. '2025학년도 1학기 의대 수강신청 현황' 자료에 따르면, 지난달 25일 기준 전국 40개 의대 수강신청 인원은 총 4219명이다. 현재까지 개강을 미룬 곳은 5곳이다. 가톨릭대 의대는 예과 1학년과 본과 모두 개강을 4월 28일로 연기했다. 고신대와 제주대, 강원대, 울산대는 본과만 개강을 미뤘다./뉴시스</media:description>
       </media:content>
-    </item>
-    <item>
-      <title>강원 지역 폭설로 고속도로 철제 구조물 무너져...차량 정체</title>
-      <link>https://www.chosun.com/national/incident/2025/03/04/FLZWHUQ66RDXLCEM2MH2BSSFX4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/03/04/FLZWHUQ66RDXLCEM2MH2BSSFX4/</guid>
-      <dc:creator>이승규 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 04 Mar 2025 13:14:12 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BN3YNFXKGJB7DAVVA5MB5OC7WE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;4일 오후 6시 30분쯤 강원 춘천시의 중앙고속도로 춘천방향 춘천요금소에서 폭설로 인해 철제 구조물이 무너져 교통 정체가 빚어졌다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;강원 지역에 내린 폭설로 인해 고속도로 하이패스 및 요금소 구간의 철제 구조물이 도로 위에 떨어져 퇴근 시간대 교통 혼잡이 빚어졌다.&lt;br&gt;&lt;br&gt;4일 경찰 등에 따르면 이날 오후 6시 30분쯤 강원 춘천시의 중앙고속도로 춘천 방향 춘천요금소에서 철로 된 천장 마감재가 차도 위로 떨어졌다.&lt;br&gt;&lt;br&gt;이 사고로 인명·차량 피해는 없었다. 사고 수습 과정에서 고속도로 4차선 중 2개 차선이 통제되면서 차량들이 정체되는 병목 현상이 발생했다.&lt;br&gt;&lt;br&gt;경찰과 한국도로공사 측이 약 1시간 30분 만에 안전 조치를 마치면서 오후 8시쯤 막혔던 차선의 통행이 재개됐다. 경찰 등은 습기를 머금은 눈이 쌓이면서 철제 구조물이 무게를 견디지 못하고 내려앉은 것으로 추정했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>강물에 빠질뻔한 아동, 운동하던 父子가 구했다</title>
-      <link>https://www.chosun.com/national/people/2025/03/04/KZJ7HNRS2NBBVKV3JDXE4U2VWI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/03/04/KZJ7HNRS2NBBVKV3JDXE4U2VWI/</guid>
-      <dc:creator>이승규 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 04 Mar 2025 10:37:46 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JRZAJ3BC2FCG7MIGVKXL2Q6QLA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 26일 경북 구미시에서 구조된 아동 A군/구미경찰서&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;밤중에 강물에 빠질 뻔한 지적 장애 아동을 운동하던 시민들이 구조했다.&lt;br&gt;&lt;br&gt;경북 구미경찰서는 윤건융(45)씨와 아들 시현(11)군에게 감사장을 수여할 계획이라고 4일 밝혔다.&lt;br&gt;&lt;br&gt;지난달 26일 오후 8시 25분쯤 경찰에 실종 신고가 들어왔다. “지적 장애가 있는 10대 아들이 갑자기 사라져 찾을 수가 없다”는 내용이었다. 경찰이 지역 내 지구대·파출소와 실종팀을 동원해 A군 수색에 나섰지만 위치 파악이 되지 않아 애를 먹었다.&lt;br&gt;&lt;br&gt;그랬던 A군을 가장 먼저 발견한 건 구미시 신평동 낙동강체육공원에서 운동하던 윤씨 부자였다. 이들은 공원 인근 갈대밭을 서성이는 A군을 유심히 지켜보다 A군이 강물 쪽으로 걸어가자 즉시 달려가 그를 붙잡았다. 윤씨는 경찰에도 “어린이 한 명이 갈대밭 쪽으로 들어가더니 강물에 들어가려 한다”며 신고했다. &lt;br&gt;&lt;br&gt;현장에 도착한 경찰이 확인한 결과, 강물로 들어가려던 아동은 앞서 실종 신고가 접수된 A군이었다. 결국 A군은 무사히 가족에게 돌아갈 수 있었다.&lt;br&gt;&lt;br&gt;윤씨는 “아이를 키우는 입장에서 남 일 같지가 않았고, 도울 수 있어 다행이었다”며 “그 아이가 건강하게 성장하길 바란다”고 했다.&lt;br&gt;&lt;br&gt;김동욱 구미경찰서장은 “예리한 관찰력과 용감한 행동 덕분에 소중한 생명을 구한 윤씨 부자에게 감사장을 수여하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>검찰, 카카오 본사서 ‘건진법사’ 카톡 기록 압수수색</title>
@@ -884,15 +932,6 @@ DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;블록체�
       </media:content>
     </item>
     <item>
-      <title>개·고양이는 미리 알았나… CCTV에 담긴 다리 붕괴 직전 상황</title>
-      <link>https://www.chosun.com/national/national_general/2025/03/04/OFJE7EMND5DIJOSURHQSH2RYTA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/03/04/OFJE7EMND5DIJOSURHQSH2RYTA/</guid>
-      <dc:creator>이가영 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 03 Mar 2025 22:16:13 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2LDD7KJT2BBN5LMU3AHIMZI6ZY.gif"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 25일 서울세종고속도로 건설 현장의 교량 상판 구조물 붕괴 직전 개와 고양이가 황급히 안전한 곳으로 도망가고 있다. /YTN&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;10명의 사상자를 낸 서울세종고속도로 건설 현장의 교량 상판 구조물 붕괴 직전 반려동물들이 조짐을 알아채고 도망가는 모습이 인근 방범카메라(CCTV)에 포착됐다. &lt;br&gt;&lt;br&gt;YTN이 공개한 경기 안성시의 한 주택 내부 CCTV 영상에는 지난달 25일 교각이 붕괴되기 직전 가정집 마당에 있던 개와 고양이가 몸을 급히 피하는 모습이 담겼다. &lt;br&gt;&lt;br&gt;당시 마당에는 개 1마리와 고양이 2마리가 있었는데, 먼 곳을 바라보던 개와 고양이 각 1마리가 몸을 급히 돌려 사고가 난 방향 반대편으로 달아났다. 개는 잔뜩 겁에 질린 듯 꼬리를 한껏 내리고 안전한 곳으로 몸을 숨겼다. &lt;br&gt;&lt;br&gt;마당 데크 아래에 웅크려 있던 나머지 고양이 1마리도 이상한 낌새를 눈치챈 듯한 움직임을 보였다. 이후 교각이 무너지면서 CCTV 화면이 흔들렸다. 가장 마지막에 움직인 고양이 역시 다른 개와 고양이가 달아난 방향으로 혼비백산 뛰어갔다. &lt;br&gt;&lt;br&gt;제보자는 중앙일보에 “출근하려고 아내와 함께 차를 타고 집에서 5m도 못 나왔는데 기계가 급제동하는 듯한 소리가 들렸고, 굉음이 울리면서 갑자기 땅이 흔들렸다”며 “동물들은 미리 알았던 것처럼 무너지기 직전에 몸을 숨겼다”고 했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OUOQZNYWPNLAXISTRZG6U2T54Y.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 28일 경기 안성시 서운면 산평리 서울-세종고속도로 9공구 교량 상판 붕괴 사고현장에서 유관기관 관계자들이 합동감식을 하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;앞서 지난달 25일 오전 9시 49분쯤 경기도 안성시 서운면 산평리 서울세종고속도로 천안~안성 구간 9공구 청룡천교 건설 현장에서 거더(다리 상판 밑에 까는 보의 일종)가 붕괴되는 사고가 났다. 근로자 10명이 추락‧매몰돼 4명이 숨지고, 6명이 다쳤다. 사고 이후 일대 주민들은 “무서워서 못 살겠다”며 불안감을 호소하는 것으로 전해졌다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>尹 국민 변호인단 “선고 날까지 헌재 앞에서 무제한 필리버스터”</title>
       <link>https://www.chosun.com/national/court_law/2025/03/04/HOJKKUB5WBGH3JDPHOHTH62QMA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/03/04/HOJKKUB5WBGH3JDPHOHTH62QMA/</guid>
@@ -911,33 +950,6 @@ DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;블록체�
       <content:encoded>오세훈 서울시장이 4일 이명박 전 대통령을 예방하고 경제 성장 비전 등 자신의 구상에 대한 의견을 들었다. 두 사람은 정치적 혼란과 경기 침체로 어려운 지금 규제를 풀어 기업을 살리고, 이로써 성장 동력과 국가 위상을 높여야 한다는 데 공감대를 형성했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/A4K3ZSKZJJPEBFFAZDCF73RERQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;오세훈 서울시장이 4일 서울 서초구 청계재단에서 이명박 전 대통령을 예방, 기념 촬영하고 있다. /서울시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 면담은 오후 3시 30분쯤 서초구 영포빌딩 청계재단에서 1시간가량 진행됐다. 앞서 오 시장은 이날 오전 서울 중구 대한상공회의소에서 열린 ‘기업 중심 성장 지향형 규제 개혁 포럼’에 참석해 ‘다시 성장하는 대한민국’(KOGA·KOrea Growth Again)이라는 이름의 경제 비전을 발표했다.&lt;br&gt;&lt;br&gt;이 전 대통령은 이번 달 발간될 오 시장의 저서 ‘다시 성장이다’를 언급하며 “의제를 잘 잡았다. 이 시점에 가장 필요한 것이 성장”이라며 “이렇게 국민에게 희망을 줘야 한다”고 했다.&lt;br&gt;&lt;br&gt;오 시장이 추진하고 있는 ‘규제 철폐’에 대해선 “내가 보니까 서울시장이 할 얘기를 넘어서 했다. 그런데 정치는 그것(규제 철폐)을 해야 한다”며 “그게 없이 성장이 되겠나. 세계로부터 인정받으려면 성장을 해야 한다”고 했다.&lt;br&gt;&lt;br&gt;오 시장은 이날 포럼 기조연설에서 밝힌 ‘서비스정부론’을 언급하며, “정부는 기업들이 어려워하는 것을 해결해주는 서비스가 주 임무라고 생각한다”며 “스타트업이 유니콘 기업, 대기업으로 가는 과정에서 여러 어려움을 돌파해야 하는데, 이를 걷어내 주는 것이 정부의 존재 이유다. 이런 면에서 서비스정부가 되면 경제 성장이 가능하다”고 했다.&lt;br&gt;&lt;br&gt;이에 대해 이 전 대통령은 “그렇게 해야 한다. 국가의 성장은 기업 성장”이라며 “정치는 지금 표를 얻기 위한 정책을 하고 있다. 그래서 우리 발전에 한계가 있다”고 했다.&lt;br&gt;&lt;br&gt;또 이 전 대통령은 “인공지능 시대가 오는데 정치는 여전히 아날로그 시대다”라며 “국민들이 갑갑하게 생각할 것”이라고 했다.&lt;br&gt;&lt;br&gt;이 전 대통령은 오 시장에 대해 “서울시장 경험이 많다”며 “서울시가 모든 국가의 기능을 거의 갖고 있는데, 그 경험을 수행하고 있다”고 했다.&lt;br&gt;&lt;br&gt;이에 오 시장은 “다 길을 닦아주신 덕분에 제가 편승하고 있다”고 화답했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>‘200억원대 횡령·배임’ 조현범 한국타이어 회장, 오는 5월 1심 선고</title>
-      <link>https://www.chosun.com/national/court_law/2025/03/04/6HRFOUHJYJDMRPHFPI2FZZSQ6E/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/03/04/6HRFOUHJYJDMRPHFPI2FZZSQ6E/</guid>
-      <dc:creator>김나영 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 04 Mar 2025 08:08:29 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ADC4J3GBTZOZNEH2KSKL5YSRIQ.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;지난 1월 16일 조현범 한국타이어앤테크놀로지 회장이 서울 서초구 서초동 서울중앙지방법원에서 열린 특정경제범죄 가중처벌 등에 관한 법률 위반(횡령) 등 공판에 출석하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;200억원대 규모의 횡령·배임 혐의로 재판에 넘겨진 조현범 한국타이어그룹 회장에게 검찰이 징역 12년형을 구형했다. 약 2년 간 이어진 공판이 마무리되면서, 이제 양측은 재판부 판단만을 기다리게 됐다.&lt;br&gt;&lt;br&gt;서울중앙지법 형사23부(재판장 오세용)는 지난달 27일 특정 경제범죄 가중 처벌 등에 관한 법률 위반 등 혐의를 받는 조 회장 등 3명에 대한 결심공판을 진행했다.&lt;br&gt;&lt;br&gt;이날 공판에서 검찰은 조 회장에게 징역 12년과 추징금 약 7896만원을 선고해달라고 재판부에 요청했다. 또 조 회장과 함께 재판을 받는 한국타이어 소속 부장 2명에겐 각각 징역 2년을, 한국타이어 법인엔 벌금 2억원을 구형했다. 1심 선고기일은 오는 5월 29일로 정해졌다.&lt;br&gt;&lt;br&gt;조 회장은 최후 진술에서 “모든 게 제 불찰이고, 깊이 반성한다”면서 “기업 경영의 프로세스 바로잡고 가장 투명한 글로벌 기업으로 거듭날 것”이라고 했다.&lt;br&gt;&lt;br&gt;조 회장은 한국타이어가 2014~2017년 한국타이어 계열사인 MKT(한국프리시전웍스)의 타이어 몰드(타이어를 찍어내는 틀)를 비싼 값에 사들여 약 131억원의 손해를 보게 하는 데 관여한 혐의를 받는다. 또 2017∼2022년 약 75억원의 회삿돈을 횡령·배임한 혐의도 받고 있다. 앞서 조 회장은 2023년 3월 구속 기소됐지만, 약 8개월 만에 보석 석방됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘대통령 중임제‧국회 양원제 도입, 지방분권 강화’…유정복 시도지사협의회장 개헌안 공표</title>
-      <link>https://www.chosun.com/national/national_general/2025/03/04/IODPR2ECPREDRM3D7DYPDDAVTY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/03/04/IODPR2ECPREDRM3D7DYPDDAVTY/</guid>
-      <dc:creator>인천=이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 04 Mar 2025 07:52:52 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EX3TNCBYWBLLPI32COAM263JGE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대한민국시도지사협의회 회장인 유정복 인천시장이 4일 서울 여의도 국회 소통관에서 대통령 4년 중임제와 양원제 도입, 지방분권 강화 등을 주요 내용으로 하는 지방 분권형 헌법 개정안 공표 기자회견을 하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전국 광역자치단체장들로 구성된 대한민국시도지사협의회가 4일 대통령 4년 중임제와 국회 양원제를 도입하고, 지방분권을 강화하는 내용의 헌법 개정안을 마련해 발표했다. &lt;br&gt;&lt;br&gt;대한민국시도지사협의회장인 유정복 인천시장은 4일 국회에서 기자회견을 열고 이 같은 내용의 헌법 개정안을 공개했다. &lt;br&gt;&lt;br&gt;이날 기자회견엔 조재구 대한민국시장군수구청장협의회 대표회장, 김현기 대한민국시군자치구의회의장협의회장 등이 자리를 함께했다.&lt;br&gt;&lt;br&gt;개헌안엔 정‧부통령제를 도입해 대통령 궐위 시, 선거로 뽑힌 부통령이 대통령직을 승계하도록 하는 내용이 담겼다. 국정 혼란을 최소화하도록 하겠다는 취지다. 또 대통령의 임기는 4년으로 하고, 중임할 수 있도록 하는 내용이 포함됐다.&lt;br&gt;&lt;br&gt;국회를 상원과 하원으로 구성하는 양원제 도입 내용도 이번 개헌안에 반영됐다. 상원은 광역지방정부를 대표하고, 하원은 현행 지역구 국회의원 선거처럼 선출하되 중‧대선거구제로 뽑도록 했다. 이를 통해 ‘승자 독식’ 구조를 개선할 수 있다는 판단이다. &lt;br&gt;&lt;br&gt;개헌안은 지방정부가 실질적인 자치를 할 수 있도록 하기 위한 ‘자치입법권’과 여건에 따라 지방세 종목과 세율을 추가할 수 있도록 ‘지방세 신설권’을 부여하는 내용을 담았다. &lt;br&gt;&lt;br&gt;또 ‘자치계획권’을 신설해 필요할 경우 주택과 교육, 환경, 지역계획 등 분야에서 자치 계획을 수립할 수 있도록 했다. &lt;br&gt;&lt;br&gt;중앙정부와 지방정부가 대등하게 국가의 주요 정책을 협의할 수 있도록 국무회의와 함께 중앙지방협력회의 조항을 헌법에 담았고, 수도에 관한 규정을 명문화해 수도 이전 논의의 토대가 될 수 있도록 하기도 했다. &lt;br&gt;&lt;br&gt;대통령의 형사상 불소추 특권범위와 관련해선 재임 중에 발생한 형사 사건에 한해 소추할 수 없다고 규정했다. 재임 이전 사건의 경우는 대통령에 당선되더라도 재판이 중지되지 않는다는 의미다. 선거관리위원회는 일반 행정기관과 동일하게 감사원 피감기관이 되도록 했다. &lt;br&gt;&lt;br&gt;개정 헌법으로 실시되는 첫 대통령 선거는 헌법 시행일로부터 100일 이내에 실시하고, 이 선거로 당선된 대통령은 임기를 2028년 5월까지로 정해 대통령과 국회의원의 동시 선거가 이뤄지도록 했다. &lt;br&gt;&lt;br&gt;유정복 시장은 “학계와 전문가, 대다수 국민께서 개헌의 필요성에 공감하는 지금이 헌법을 개정할 적기”라며 “300명의 국회의원이 헌법 개정에 적극적으로 나서주길 바란다”고 강조했다.&lt;br&gt;&lt;br&gt;시도지사협의회는 오는 7일 국회의원회관 대회의실에서 대한민국헌정회, 한국헌법학회, 경제정의실천시민연합, 지방분권전국회의 등과 함께 ‘지방분권형 헌법 개정 국회 대토론회’를 열 예정이다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>오세훈 서울시장 관용차 털렸다... 경찰, 여성 용의자 추적 중</title>
-      <link>https://www.chosun.com/national/national_general/2025/03/04/VJEOQLCH7ZGH3GWPLZSVYOTWKU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/03/04/VJEOQLCH7ZGH3GWPLZSVYOTWKU/</guid>
-      <dc:creator>고유찬 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 04 Mar 2025 05:56:35 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2ZI47NLG7JESDD3OIX6UJNVA2U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;오세훈 서울시장. /국회사진기자단&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;오세훈 서울시장의 관용 차량에서 대외비 문건 등을 훔쳐간 여성을 경찰이 추적하고 있다. 경찰은 신원 확보에 주력하는 한편, 서울시장 대외비 일정 등이 담긴 문건을 훔친 배경을 조사 중이다.&lt;br&gt;&lt;br&gt;경찰에 따르면, 지난 3일 오후 1시 50분쯤 서울 중구 서울특별시청 후문에 주차되어 있던 오 시장 의전용 관용 차량인 검은색 카니발에 신원 미상의 여성이 침입해 서울시 관련 문건과 생수, 마스크를 훔치고 도주했다.&lt;br&gt;&lt;br&gt;서울시는 차량 내부에 있던 문건 등이 없어진 것을 확인, 사건 발생 약 두 시간 뒤인 3일 오후 4시 19분쯤 경찰에 신고했다. 서울시 관계자는 “당시 차량에는 오 시장과 특정 언론과의 인터뷰 자료와 오 시장 일정, 포럼 자료, 서울시 현안 보고 관련 문건 등이 있었다”며 “서울시 내부 자료이니 대외비 자료라 볼 수 있다”고 했다.&lt;br&gt;&lt;br&gt;범행 당시 해당 차량은 주차된 상태로 문이 잠겨 있지 않았다고 한다. 오 시장 관용차임을 알 수 있는 외부 표지는 따로 없다. 서울시 관계자는 “오 시장 의전을 위해 해당 차량을 서울시청 후문에 주차시켜 두는 경우가 많다”며 “시청 관계자라면 (해당 차량이) 오 시장 관용차임을 모르는 사람은 없다”고 했다. 오 시장이 주로 이용하는 카니발 차량은 박원순 전 시장 시절부터 사용하던 차량이다. 오 시장은 이동 편의를 위해 카니발 차량을 이용하는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰은 인근 CCTV와 현재까지 파악한 인상착의를 토대로 여성을 추적 중이다. 경찰 관계자는 “아직 용의자는 특정하지 못한 채 수사 중”이라고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>걸스데이 출신 장혜리 “키워줄테니 내 여친 하라더라”…과거 스폰 제의 폭로</title>
       <link>https://www.chosun.com/national/national_general/2025/03/04/O5AQBCKJDVCYDFILH7A4NDBW5Y/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/03/04/O5AQBCKJDVCYDFILH7A4NDBW5Y/</guid>
@@ -945,15 +957,6 @@ DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;블록체�
       <description/>
       <pubDate>Tue, 04 Mar 2025 04:59:32 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NH3ZFKBHKRB5TBKA2USLT7SFII.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;가수 장혜리. /인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;걸그룹 걸스데이의 원년 멤버였던 장혜리(33)가 과거 ‘스폰서’ 제의를 받은 적이 있다고 폭로했다.&lt;br&gt;&lt;br&gt;지난 3일 유튜브 채널 ‘채널고정해’에 출연한 장혜리는 “아직까지도 제일 힘든 부분인 게 ‘술을 한잔 하자면서 일 얘기를 하자’든지 ‘이렇게 하면서 인맥을 키워야 네가 클 수 있어’라고 한다. 그런 제안들이 너무 많다”라며 “내가 조금 더 일하고 싶으면 이 자리를 가야 할까? 굉장히 고민이 된다”라고 토로했다.&lt;br&gt;&lt;br&gt;장혜리는 “신인 때 그런 술자리에 한번 갔다. 상대가 되게 유명한 대표님이었다”며 “남자 신인도 불러서 노래도 하고 그러더라. 근데 저한테 그런 제안을 하신 거다. ‘내가 너를 키워주는 대신 너는 내 여자친구를 해라’라고 했다”고 주장했다.&lt;br&gt;&lt;br&gt;장혜리는 “저는 당황해서 ‘아닌 것 같다’라고 했는데, 본인이 그런 만남을 통해 키워낸 여자 연예인들을 언급하면서 ‘너도 내가 그렇게 만들어줄게’라고 했다”면서 “저는 어린 나이에 자존심이 많이 상해서 ‘내가 이렇게 하지 않아도 성공해야겠다’라는 생각이 들었다”라고 했다.&lt;br&gt;&lt;br&gt;장혜리는 “그분이 ‘너는 그렇게 하면 절대 못 커, 너는 이렇게 해서 커야 하는 거야. 이쪽 바닥은 다 그래’라고 했다”고 덧붙였다.&lt;br&gt;&lt;br&gt;이후 장혜리는 연예계 생활을 하다가 스폰서 제의를 한 대표를 다시 만났다며 “‘너는 그때 내 제안을 거절해서 지금 그런 거야. 유명해지지 않는 거야’라고 하더라”고 했다.&lt;br&gt;&lt;br&gt;장혜리는 “‘내가 그때 그런 결정을 했다면?’이라고 생각은 해본다”며 “근데 어떻게 그 사람을 믿고 내 모든 걸 다 줄 수 있나. 저는 만약에 그때로 다시 돌아간다고 해도 계속해서 못 한다고 했을 것 같다”라고 했다.&lt;br&gt;&lt;br&gt;걸스데이 멤버로 가요계에 데뷔했던 장혜리는 걸스데이를 탈퇴한 후 밴드 비밥의 베이스 기타 겸 보컬리스트로 활동했다. 이후 2020년 트로트 곡을 발표하고 활발한 활동을 이어가고 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>이례적 3월의 雪國...밤까지 전국에 많은 눈</title>
-      <link>https://www.chosun.com/national/transport-environment/2025/03/04/BXKNHDOWRVAQ7OHKNH24SW3UUM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/03/04/BXKNHDOWRVAQ7OHKNH24SW3UUM/</guid>
-      <dc:creator>박상현 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 04 Mar 2025 02:21:38 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/46Z5P4S7NZJJHIPDXNGAME35NU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울지역 곳곳에 눈이 내린 4일 서울 중구 남산3호터널 요금소 앞 전광판에 눈길 운전 주의 안내문이 송출되고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이례적 3월 강설로 전국이 설국으로 변했다. 눈은 4일 밤까지 이어질 것으로 전망됐다.&lt;br&gt;&lt;br&gt;기상청에 따르면, 4일 북쪽 대륙고기압에서 떨어져나온 찬 공기와 온난습윤한 남풍이 한반도 상공에서 충돌하면서 눈구름대를 형성, 전국에 눈이 내리고 있다.&lt;br&gt;&lt;br&gt;찬 공기 덩어리가 우리나라 북동쪽에 위치한 탓에 동풍이 불면서 눈은 주로 한반도 동쪽을 중심으로 쏟아지고 있다.&lt;br&gt;&lt;br&gt;4일 예상 적설량은 수도권 1~8㎝, 강원도 5~40㎝, 충청권 3~10㎝, 전라권 1~8㎝, 경상권 1~30㎝, 제주도 1㎝ 등이다.&lt;br&gt;&lt;br&gt;계절적으로 봄(3~5월)에 해당하는 3월 초에 이 정도로 많은 눈이 내리는 것은 한반도 주변 해수면 온도가 높아 남풍이 끌어오는 수증기 양이 많기 때문이다.&lt;br&gt;&lt;br&gt;눈은 4일 밤 대부분 그칠 것으로 전망됐다. 다만 경상권과 제주산지에는 5일까지 눈이나 비가 이어지는 곳이 있겠다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
