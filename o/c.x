@@ -13,6 +13,36 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>포천서 폭탄 8발 오폭...“쾅 소리 후 땅 흔들, 마을 유리 다 깨져”</title>
+      <link>https://www.chosun.com/national/incident/2025/03/06/BGOCMODSORCQ5B6DQGMGQSEQKM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/03/06/BGOCMODSORCQ5B6DQGMGQSEQKM/</guid>
+      <dc:creator>포천=김수언 기자, 포천=김현수 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 06 Mar 2025 04:18:46 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PXZR77SKSNN6XH24SHVHZAEFTI.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;한미 통합화력 실사격 훈련이 실시된 6일 경기 포천시 이동면 노곡리의 한 민가에 공군 공대지 폭탄이 떨어져 경찰특공대가 현장으로 향하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;6일 한미연합훈련 중 우리 공군이 잘못 쏜 폭탄이 경기 포천시 민가에 떨어지는 사고가 난 가운데 현장서 불발탄 여부를 조사한 군 당국이 “불발탄은 없다”고 밝혔다.&lt;br&gt;&lt;br&gt;6일 경찰과 군 당국은 주민대피령을 내린 후 군 폭발물처리반(EOD)을 투입해 오발 사고가 난 포천시 이동면 노곡리 일원에 불발탄이 발생했는지 여부를 살폈다.&lt;br&gt;&lt;br&gt;공군은 “공군 KF-16 전투기에서 비정상투하된 폭탄 8발 모두 탄착점을 확인했다”며 “불발탄은 없다”고 밝혔다.&lt;br&gt;&lt;br&gt;공군에 따르면, 낙탄 위치는 승진성당 인근지역, 인근 육군부대 연병장, 도로, 농지 등이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OK3AUH7QMNJU3OO3B5EC23FY3Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;6일 오전 경기 포천시 이동면 민가에 포탄으로 추정되는 물체가 떨어져 군인, 소방관 및 관계자들이 현장 수습에 나서고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;아직 현장은 당국 관계자만 출입이 가능한 상황이다.&lt;br&gt;&lt;br&gt;주민들은 불안을 호소하고 있다.&lt;br&gt;&lt;br&gt;인근에 거주하는 천만호(68)씨는 “전쟁 난 줄 알았다”며 입을 열었다. 그는 ”폭탄 떨어진 곳에서 20m 정도 거리에 집이 있는데 지붕이 무너지고 유리창도 깨지고 나무도 다 부서졌다“며 ”무슨 상황인지 가보니 다 박살나 있고 검은색 연기가 피어오르고 있었다”고 했다.&lt;br&gt;&lt;br&gt;사고 지점에서 약 1km 떨어진 마트에 있었다는 40대 A씨는 “하늘에서 공기를 가르는 듯한 소리가 들리다가 쾅 하는 소리에 사방이 울렸다”며 “주민들은 다 대피하라고 해서 일단 몸은 피했는데, 마을 유리들이 다 깨져있다”고 했다.&lt;br&gt;&lt;br&gt;오선길 포천 이동면 사격장 대책위 사무국장은 “포탄 떨어진 곳에서 200m떨어진 곳에서 집 2채가 파손됐다”며 “주민들이 (사고 지점에)들어가서 확인하겠다고 했는데 출입이 불가능한 상황”이라고 했다. 그러면서 “아직 주민들이 겁에 질려있다. 불안한 상황”이라고도 했다.&lt;br&gt;&lt;br&gt;앞서 이날 오전 10시 4분쯤 경기 포천시 이동면 노곡리 민가에 한미연합훈련 중이던 군이 쏜 폭탄이 떨어지는 사고가 났다.&lt;br&gt;&lt;br&gt;이 사고로 오후 2시 기준 모두 15명이 다쳤다.이 중 2명은 중상, 13명은 경상인 것으로 확인됐다. 또 주택 2채와 군 성당 일부가 파손되고 차량 1대가 피해를 입은 것으로 파악됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/XPVCZPAZQFDCPB2GHJA2BDH55A.gif?width=1024&amp;height=725&amp;auth=5cab31ab0c317dfcd9913a3da8c5efe1d8d1fa5372865384c35e077b5a222a62&amp;smart=true" type="image/jpeg" height="725" width="1024">
+        <media:description type="plain">포천 민가 폭탄 사고</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>“부산 반얀트리 화재 현장, 소방시설 제대로 안 갖췄다”</title>
+      <link>https://www.chosun.com/national/2025/03/06/7SIDUIPDG5CL5NWTERG43IFJVE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2025/03/06/7SIDUIPDG5CL5NWTERG43IFJVE/</guid>
+      <dc:creator>박주영 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 06 Mar 2025 05:06:49 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4ZSGNUBFYGHSWF6EYAZPUPEOCM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 16일 부산 기장군 반얀트리 리조트 신축 공사장 화재 현장에서 경찰과 과학수사대 화재감식팀, 소방 당국, 국립과학수사연구원, 국립재난안전원 등 관계자들이 합동 감식을 하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;화재로 6명이 숨진 부산 기장군 반얀트리 리조트 신축 현장에 화재감지기 등 소방시설들이 제대로 갖춰져 있지 않았던 것으로 드러났다. 또 처음 불은 1층에서 화기 작업 중 생긴 불똥이 지하 1층 수처리 기계실 천장 쪽 배관의 보온재로 옮겨 붙어 일어난 것으로 조사됐다. &lt;br&gt;&lt;br&gt;이 사건을 수사 중인 부산경찰청 형사기동대는 6일 오전 언론 브리핑을 갖고 “불이 난 B동 1층 및 지하 1층 현장과 압수수색을 통해 확보한 설계도면을 비교한 결과, 화재 현장 안의 화재감지기·통로유도등·시각경보기 등 소방 시설이 다수 제대로 설치돼 있지 않은 것을 확인했다“고 밝혔다.&lt;br&gt;&lt;br&gt;경찰은 또 화기 작업을 진행해 불이 날 위험이 있는 해당 현장에 화재 감시자가 배치돼 있지 않았던 사실도 확인했다. 화재 감시자는 불이 날 위험성이 있는 작업을 할 경우 그 현장에 머물면서 화재 위험성을 감시하고 가연성 물질에 불똥이 튀면 소화기로 진화에 나서는 등 즉각 대응하는 역할을 한다. &lt;br&gt;&lt;br&gt;부산경찰청 정현욱 형사기동대장은 “화재 위험이 있는 작업을 할 경우 산업안전보건규정에 따라 그 현장에 화재 감시자를 의무적으로 배치하도록 돼 있다”며 “그러나 불이 난 반얀트리 작업 현장엔 화재 감시자가 없었던 것으로 조사됐다”고 말했다.&lt;br&gt;&lt;br&gt;경찰은 이처럼 소방 설비가 미비된 이유와 책임, 소방 설비가 제대로 설치돼 있지 않았는데도 준공 승인이 난 경위 등에 대해 수사하고 있다. 경찰은 “3차례의 압수수색을 통해 확보한 자료를 분석하고 관계자들을 불러 조사 중”이라고 말했다. &lt;br&gt;&lt;br&gt;경찰은 지난 2월 18일과 25일, 지난 4일 등 3차례에 걸쳐 시공사인 삼정기업과 하청업체, 감리사, 기장군청, 기장소방서 등에 대한 압수수색을 한 바 있다.&lt;br&gt;&lt;br&gt;경찰은 브리핑에서 “화재 현장 스프링클러의 형상으로 보면 당시 스프링클러가 터진 게 확인된다”며 “하지만 실제로 물이 살포됐는지는 확정할 수 없어 소방수 배관밸브 작동 여부 등에 대해 조사하고 있다”고 말했다. 스프링클러는 화재 현장의 온도가 섭씨 72도에 이르면 유리관이나 마개가 터지면서 물이 살포되도록 돼 있다. &lt;br&gt;&lt;br&gt;경찰은 또 “국립과학수사연구소가 ‘문제의 불은 B동 지상 1층 피트실(배관시설실) 작업에서 발생한 불똥 등에 의해 지하 1층 수처리 기계실 상단부 배관의 보온재 등을 매개로 최초 발화됐을 가능성이 있다’는 화재 현장 감정 결과를 보내왔다”고 밝혔다. &lt;br&gt;&lt;br&gt;지상 1층에서 화기를 사용한 작업을 하던 중 발생한 불똥이 튀어 그 아래 지하 1층의 천장 부위에 있는 배관을 둘러싼 보온재로 옮겨붙어 불이 났을 것이란 취지다. 경찰 관계자는 “배관의 보온재는 난연성 소재인 발포폴리에틸렌으로 해당 소재의 등급은 확인 중”이라고 말했다.&lt;br&gt;&lt;br&gt;경찰은 이번 화재와 관련해 업무상 과실치사상 혐의로 시공사 관계자 등 10여명을 피의자로 입건해 조사하고 있다. 또 관련자 10여명을 출국 금지했다. 경찰 관계자는 “입건 혹은 출금 조치된 공무원은 아직 없다”고 말했다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>곽종근 “양심선언 하라는데” 통화에... 尹측 “파면 대상은 거대 야당”</title>
+      <link>https://www.chosun.com/national/court_law/2025/03/06/EN472IKCUFF4JHJREQYHOBY2DI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/03/06/EN472IKCUFF4JHJREQYHOBY2DI/</guid>
+      <dc:creator>유희곤 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 06 Mar 2025 04:33:19 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ACJ7RIBLQFEWH47M5T3NTDYDUA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;곽종근 전 특수전사령관이 지난 2월 6일 서울 종로구 헌법재판소에서 열린 탄핵 심판 6차 변론기일에서 발언하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 대통령 변호인단은 6일 곽종근 전 특수전사령관의 통화 녹취와 관련해 “야당 등이 ‘스모킹건’이라고 주장했던 증언들은 모두 공작으로 조작된 가짜였다”면서 “수사와 파면 대상은 대통령이 아닌 거대 야당”이라고 6일 주장했다.&lt;br&gt;&lt;br&gt;전날 TV조선은 곽 전 사령관이 작년 12월 4일 비상계엄이 해제된 다음 날 오후 7시 30분쯤 지인과 나눈 전화 통화 육성을 입수했다고 보도했다. 곽 전 사령관은 통화에서 “내가 참 할 말은 무지하게 많은데… 누구는 나한테 양심선언을 하라는데 내가 어떻게 하냐, 그러냐. 내가 살려면 나보고 양심선언 하라는데….” “어찌 됐든 간에 얘들이 다 사정은 아는데 그래도 뭐 내란죄로 엮겠단다” “속사정이 많은데 지금은 아무도 내 말을 안 듣는다…”고 했다. &lt;br&gt;&lt;br&gt;TV조선은 ‘양심선언을 한 주체’가 누구냐는 질문에 곽 전 사령관과 통화한 당사자는 “국민의힘 쪽은 아니지 않겠냐”고 답했다고 했다.&lt;br&gt;&lt;br&gt;윤 대통령 변호인단은 “곽 전 사령관은 지인에게 고충을 토로한 날 더불어민주당 의원들과 (국회 증언) 리허설을 했고, 다음 날에는 민주당 김병주 의원의 유튜브에 출연해 윤 대통령이 ‘(요원들을) 끄집어내라’는 명령을 받았다고 말했다”면서 “막후의 기획자가 곽 전 사령관을 내란죄로 협박하겠다면서 살고 싶으면 엉터리 양심선언을 하라고 강요한 것”이라고 주장했다.&lt;br&gt;&lt;br&gt;이어 “(민주당) 박범계 의원은 처벌을 두려워하는 곽 전 사령관에게 공익신고자 추천 서류를 내밀었고, 부승찬 의원은 변호사까지 소개해 줬다”면서 “거대 야당이 곽 전 사령관의 궁박한 처지를 악용해 회유와 협박을 총동원한 대통령 끌어내리기 공작극을 펼친 것”이라고 주장했다.&lt;br&gt;&lt;br&gt;변호인단은 또 다른 윤 대통령 탄핵 핵심 증거로 꼽히는 홍장원 전 국가정보원 1차장의 메모의 신뢰성도 문제 삼으며 “진술도 메모도 거대 야당의 기획으로 만들어진 조작의 산물”이라면서 “대통령을 끌어내리고 조기 대선으로 정권을 획득하려 한 그들(야당)이 국헌 문란의 목적을 가진 내란 세력”이라고 했다.&lt;br&gt;&lt;br&gt;그러면서 검찰은 내란 몰이 세력을 철저히 수사하고, 법원은 윤 대통령 구속을 즉각 취소하고, 헌법재판소는 탄핵 심판을 기각하라고 했다. &lt;br&gt;&lt;br&gt;곽 전 사령관은 작년 12월 6일 김병주 의원 유튜브에서 “본회의장으로 일부 들어갔던 인원이 있고 밖에 일부 인원이 있었는데, 제가 그 조치를 하면서 (김용현) 전임 장관으로부터 국회의사당 안에 있는 인원들을, 요원들을 밖으로 좀 빼 내라(는 얘기를 들었다)”고 말했다. 이에 동석한 박선원 의원이 “의원들을 끌어내라(고 한 것이냐)”라고 했고, 김 의원도 “국회의원들을요”라고 되묻자 곽 전 사령관은 “예”라고 답했다. &lt;br&gt;&lt;br&gt;이후 곽 전 사령관은 지난달 6일 헌법재판소의 윤 대통령 탄핵 심판 여섯 번째 변론 기일에 나와 ‘(대통령이) 국회의원이란 말은 안 했느냐’는 정형식 헌법재판관 질문에 “의원이라는 말은 자수서에 안 썼다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>포천 민가에 전투기 폭탄 떨어져… 7명 부상, 주택·교회 파손 </title>
       <link>https://www.chosun.com/national/incident/2025/03/06/7UURQMIOCNH7JBRCYOLXO3KBEY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/03/06/7UURQMIOCNH7JBRCYOLXO3KBEY/</guid>
@@ -847,33 +877,6 @@ DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;블록체�
       <description/>
       <pubDate>Tue, 04 Mar 2025 15:34:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6LYJQLI3ERE7JF4MGEZ7VJUDJI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[입에 착착 붙는 일본어] 치장을 하다</title>
-      <link>https://www.chosun.com/national/nie/japanese/2025/03/05/BX55FYL5A5DZHCZAYWUJ5W7OPY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/japanese/2025/03/05/BX55FYL5A5DZHCZAYWUJ5W7OPY/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Tue, 04 Mar 2025 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HV27WDBZFJA2TK7HPXXDFOHYYU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[스피킹이 강해지는 영어] I’m stuffed.</title>
-      <link>https://www.chosun.com/national/nie/english/2025/03/05/NYGWQC6DBVGBDNVY2F2J5YEQWQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/english/2025/03/05/NYGWQC6DBVGBDNVY2F2J5YEQWQ/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Tue, 04 Mar 2025 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2XGD5OWGIRASTDXEWAYS4E6INA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[매일매일 중국어 한마디] 노점(상), 거리 가게</title>
-      <link>https://www.chosun.com/national/nie/chinese/2025/03/05/SJ4U2ZRM4FCZLD4C2PPR2ZXKJQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese/2025/03/05/SJ4U2ZRM4FCZLD4C2PPR2ZXKJQ/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Tue, 04 Mar 2025 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZZZ3KC7PXVFBRNLVPCWLVM2JRA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>의료계 원로들 “내년 의대정원 2년 전 수준으로...더는 지체할 여유 없어”</title>
