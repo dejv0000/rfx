@@ -6,6 +6,76 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>법원, 윤석열 대통령 구속 취소… "구속기간 지나 공소제기"</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/206153.jpg" alt="234252.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;윤석열 대통령 《사진=연합뉴스》&lt;/figcaption&gt;   &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;12·3 비상계엄 사태와 관련해 '내란 우두머리' 혐의로 재판에 넘겨진&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="8480"&gt;윤석열&amp;nbsp;&lt;/span&gt;대통령의 구속이 취소됐다. 서울중앙지법 형사25부(재판장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="7225"&gt;지귀연&amp;nbsp;&lt;/span&gt;부장판사)는 7일 구속 상태가 부당하다고 주장하며 윤 대통령이 낸 구속 취소 청구를 받아들였다(&lt;b&gt;2025초기619&lt;/b&gt;).&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;법원은 윤 대통령의 구속 기간이 만료된 상태에서 검찰이 공소를 제기했다고 판단했다. 형사소송법상 구속 전 피의자심문을 위해 수사 관계 서류가 법원에 있는 기간은 구속 기간에 포함되지 않는다. 즉 그만큼 구속할 수 있는 기간이 늘어나는데, 이를 어떻게 계산할지가 쟁점이었다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;재판부는 기존처럼 ‘날’ 단위로 계산하는 것이 아니라, 실제 ‘시간’ 단위로 계산하는 것이 타당하다고 봤다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;윤 대통령은 2025년 1월 15일 10시33분경 체포됐는데, 구속 전 피의자심문을 위해 수사 관계 서류 등이 법원에 접수된 시기는 2025년 1월 17일 17시46분경, 구속영장이 발부돼 수사 관계 서류 등이 수사기관에 반환된 시기는 2025년 1월 19일 02시53분경이었다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;검찰은 '날'을 기준으로 구속기간이 3일 늘어났다고 주장했지만 재판부는 실제 소요된 '시간'을 기준으로 윤 대통령의 구속 기간이 33시간 7분 늘어난 2025년 1월 26일 오전 9시 7분경 만료된 것으로 판단하면서, 검찰이 공소를 제기한 1월 26일 오후 6시 52분은 이미 구속 기간이 끝난 후였다는 결론 내렸다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;법원은 “헌법과 형사소송법이 정한 신체의 자유, 불구속수사의 원칙 등에 비추어 볼때, 문언대로 피의자에게 유리하도록 엄격하게 해석하는 것이 타당하다"고 설명했다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;또 법원은 "설령 구속 기간이 만료되지 않은 상태에서 공소가 제기됐다고 하더라도 구속 취소 사유가 인정된다"고 밝혔다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;윤 대통령 측 변호인들은 구속이 위법하다고 주장하며 여러 사유를 제시했는데, 법원은 이러한 주장에 대한 명확한 법적 기준이 없다는 점을 고려해 구속 취소를 결정했다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;윤 대통령 변호인 측은 △공수처가 직권남용권리행사방해죄의 수사 과정에서 내란죄를 인지했다고 볼만한 증거나 자료가 없으며 △검찰과 공수처가 법적 근거 없이 구속 기간을 협의해 나눠 사용했고 그 과정에서 피고인 신병인치 절차를 거치지 않아 위법하다고 주장했다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;법원은 "공수처법 등 관련 법령에 명확한 규정이 없고, 이에 관한 대법원의 해석이나 판단도 없는 상태인바, 절차의 명확성을 기하고 수사과정의 적법성에 관한 의문의 여지를 해소하는 것이 바람직하므로 구속 취소 결정을 하는 것이 상당하다"고 밝혔다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;법원은 또 최근 김재규 사건의 재심 결정을 언급하며 "이러한 논란을 그대로 두고 형사재판 절차를 진행하는 경우 상급심에서의 파기 사유는 물론, 한참 시간이 지난 후에도 재심 사유가 될 수 있다"고 덧붙였다.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;</description>
+			<pubDate>Fri, 07 Mar 2025 05:16:26 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/206153</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/206153</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/206153.jpg</media:thumbnail>
+			<dc:creator>안재명 기자</dc:creator>
+		</item>
+		<item>
+			<title>[신간소식] 이명웅 변호사, 《보수와 진보의 이념대립, 승자는: 대통령 탄핵을 중심으로》 발간</title>
+			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/thumb/180/206139.jpg" alt="34225.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;헌법연구관을 지낸&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="9023"&gt;이명웅&amp;nbsp;&lt;/span&gt;변호사(66·사법연수원 21기)가&lt;b&gt; 《보수와 진보의 이념대립, 승자는: 대통령 탄핵을 중심으로》&lt;/b&gt;(강홍북스 펴냄)를 출간했다.&lt;br /&gt;&lt;br /&gt;이 책은 보수와 진보 간의 이념 대립이 격화되는 상황에서, 헌법을 바탕으로 한 이념적 논의가 필요하다는 문제의식을 담았다. 특히 대통령 탄핵과 비상계엄 사태를 중심으로 법적·헌법적 시각에서 이념 대립의 본질을 분석한다.&lt;br /&gt;&lt;br /&gt;이 변호사는 "현 정치권의 극단적 이념 대립 속에서 우리가 추구해야 할 객관적 기준은 헌법"이라며 "헌법과 자유민주주의의 가치를 강조하고자 이 책을 집필했다"고 밝혔다.&lt;br /&gt;&lt;br /&gt;책에서는 최근 대통령의 비상계엄 선포와 이에 따른 탄핵 논란을 다룬다. 저자는 비상계엄 조치가 극단적이긴 하지만, 이를 내란죄로 규정하는 것은 법적·정치적으로 논란의 여지가 있다고 지적한다. 또한 대법원 전원합의체 판례를 근거로 국헌문란죄 성립 여부에 대한 법리적 검토도 포함됐다.&lt;br /&gt;&lt;br /&gt;이 변호사는 "국회의 잦은 탄핵소추, 대통령 업무활동비 처리 문제, 노동계 내 종북세력 개입 의혹 등도 헌법적 관점에서 재조명할 필요가 있다"며 "박근혜 전 대통령 탄핵 당시와 현재 대통령의 탄핵 정국을 비교하면 법적·정치적 차이가 분명하다"고 설명했다.&lt;br /&gt;&lt;br /&gt;이 변호사는 연세대 법학과를 졸업하고 서울대에서 법학 석·박사 학위를 취득했다. 헌법재판소에서 헌법연구관과 헌법연구부장을 역임했으며, 한국헌법학회 부회장, 법무부 로스쿨 시험위원회 위원 등을 지냈다. 2016년 박근혜 전 대통령 탄핵심판에서 소추위원 대리인으로 활동했다.&lt;/p&gt;</description>
+			<pubDate>Fri, 07 Mar 2025 04:43:14 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/206139</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/206139</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/206139.jpg</media:thumbnail>
+			<dc:creator>이진영 기자</dc:creator>
+		</item>
+		<item>
+			<title>검찰, 총수 가족 회사에 '알짜' 땅 넘긴 대방건설 압수수색</title>
+			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/206145.jpg" alt="763.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;막대한 개발 이익이 예상되는 공공택지를 총수의 딸과 며느리의 회사에 넘겨 부당지원한 혐의를 받는 대방건설에 대해 검찰이 강제수사에 나섰다.&lt;br /&gt;&lt;br /&gt;서울중앙지검 공정거래조사부(&lt;span style="font-weight: bold;" class="lawmanlink" serial="11311"&gt;김용식&amp;nbsp;&lt;/span&gt;부장검사)는 7일 공정거래법 위반 혐의로 대방건설과 대방산업개발 사무실에 대한 압수수색을 진행 중이라고 밝혔다.&lt;br /&gt;&lt;br /&gt;대방산업개발은 구교운 대방건설 회장 딸 구수진씨가 최대주주인 비상장사다. &lt;br /&gt;&lt;br /&gt;지난달 공정거래위원회는 대방건설이 2014년 11월∼2020년 3월 6개 공공택지를 총수인 구 회장의 딸과 며느리가 지분을 소유한 대방산업개발과 그 아래 5개 자회사에 전매해 부당 지원했다며 공정거래법 위반 혐의로 검찰에 고발했다.&lt;br /&gt;&lt;br /&gt;대방건설이 전매한 공공택지는 마곡·동탄·전남 혁신·충남 내포 등 서울·수도권 신도시 및 혁신도시에 위치한 곳으로, '알짜 땅'이었던 것으로 알려졌다. 대방건설도 이곳을 '개발 호재가 풍부해 상당한 이익이 예상된다'고 평가했다.  &lt;br /&gt;&lt;br /&gt;공정위는 전매 행위를 통해 대방산업개발이 2015~2023년 총 매출액의 57%에 달하는 1조1023억원을 확보했고, 대방산업개발의 5개 자회사는 같은 기간 매출 5113억원 전부를 얻었다고 밝혔다.</description>
+			<pubDate>Fri, 07 Mar 2025 04:41:18 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/206145</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/206145</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/206145.jpg</media:thumbnail>
+			<dc:creator>우빈 기자</dc:creator>
+		</item>
+		<item>
+			<title>한국상사법학회 새 학회장에 정준우 인하대 교수</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 375px;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/206144.jpg" alt="23423.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;정준우 인하대 로스쿨 교수&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;한국상사법학회가 제35대 회장으로 정준우 인하대 로스쿨 교수가 취임했다고 7일 밝혔다. 임기는 2025년 3월부터 1년이다.&lt;br /&gt;&lt;br /&gt;정 학회장은 한양대 법학과에서 학사, 석사, 박사 학위를 취득했다. 코스닥협회 자문위원회, 한국거래소 유가증권시장 기업심사위원회, 국회 입법지원단, 산업통상자원부 사업재편계획심의위원회 등을 역임한 상사법 전문가로, 한국기업법학회 및 한국경제법학회 회장을 지냈다. 지난 1년 동안 한국상사법학회 수석부회장을 맡아 학회 운영에 참여했다.&lt;br /&gt;&lt;br /&gt;정 학회장은 “상사법학회가 지속적으로 발전해 세계적 학회로 자리 잡을 수 있도록 최선을 다하겠다”며 “학회의 연구 및 토론의 장을 더욱 활성화하고, 학문적 성과를 확대하는 데 힘쓰겠다”고 말했다.&lt;br /&gt;&lt;br /&gt;1957년 창립된 사단법인 한국상사법학회는 법학 연구자와 실무자 등 약 1800여 명의 회원이 소속된 학술단체로, 등재학술지&lt;b&gt; 『상사법연구』&lt;/b&gt;를 발간하고 있다.&lt;br /&gt;</description>
+			<pubDate>Fri, 07 Mar 2025 04:40:20 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/206144</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/206144</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/206144.jpg</media:thumbnail>
+			<dc:creator>조한주 기자</dc:creator>
+		</item>
+		<item>
+			<title>한국법제연구원, '제1회 법학기초연구 국제 포럼' 성료</title>
+			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/thumb/180/206141.jpg" alt="206141.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;한국법제연구원 법학기초교육연구센터(센터장 최정윤)는 3월 6일 서울 중구 태평로1가 광화문 SFC 회의실 21층에서 '아태 관할 지역 내 EU 법의 법적 영향력: 소프트 로(Soft Law)에서 하드 로(Hard Law)로의 진화'를 주제로 제1회 법학기초연구 국제 포럼을 개최했다.&lt;br /&gt;&lt;br /&gt;이번 포럼은 온·오프라인을 병행해 진행됐다. 유럽과 아시아의 법학 전문가들과 국내 주요 국책연구기관이 참여했다.&lt;br /&gt;&lt;br /&gt;앤-크리스틴 미트보흐 독일 할레-비텐베르크 대학교 교수는 '지속가능성 규제의 패러다임 전환: 기업 및 금융 시장법에서 소프트 로에서 하드 로로'를, 카를로 아마투치 이탈리아 나폴리 페데리코 2세 대학교 교수는 'EU가 무시한 분리될 수 없는 한 쌍: CS3D와 기업 지배구조'를 발표했다. &lt;br /&gt;&lt;br /&gt;미하엘 부리안 박사, 에릭 바그너 박사는 '최근 규제 동향에 따른 독일의 후속 조치'를, 브라이언 츠 웨이 루크 홍콩 APAC 포커스 IGCS 프로그램 디렉터는 'EU 법, 규범적 우선순위 및 규제 경로의 영향: 홍콩의 법적 기반 및 입법 개발을 중심으로'를 발제했다. &lt;br /&gt;&lt;br /&gt;최정윤 센터장은 "이번 포럼으로 국내에서 심도 있는 연구가 부족한 EU법 분야에 대한 논의를 통해 국내 법률 전문가들의 역량을 강화하고 국제적인 법률 환경 변화에 대한 이해를 높이는 데 기여하기를 기대한다"고 전했다.</description>
+			<pubDate>Fri, 07 Mar 2025 04:38:27 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/206141</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/206141</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/206141.jpg</media:thumbnail>
+			<dc:creator>안현 기자</dc:creator>
+		</item>
+		<item>
+			<title>법무법인 더킴로펌, 정문식 전 부장판사 영입</title>
+			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/thumb/180/206140.jpg" alt="206140.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;법무법인 더킴로펌(대표변호사&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="16193"&gt;김형석&lt;/span&gt;)이&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="9792"&gt;정문식&lt;/span&gt;(50·사법연수원 32기) 전 창원지법 부장판사를 대표변호사로 영입했다.&lt;br /&gt;&lt;br /&gt;정 변호사는 마산고, 서울대 법대를 졸업한 뒤 2000년 제42회 사법시험에 합격했다. 공익법무관으로 근무한 뒤 2006년 변호사로 개업하고 대한법률구조공단에서 근무했다. 2009년부터는 수원지검 성남지청, 창원지검 마산지청, 서울중앙지검 검사로 근무했다. 2015년 12월 법관으로 임용된 뒤 대전지법 천안지원 판사, 춘천지법 부장판사를 거쳐 2025년 2월 창원지법 부장판사를 마지막으로 퇴직했다.&lt;br /&gt;&lt;br /&gt;법무법인 더킴로펌 관계자는 “정 변호사는 20년간 검사와 판사로 두루 재직하며 검찰 수사 및 법원 재판 실무에 능통한 전문가”라며 “그의 합류로 더킴로펌은 구속영장 청구 사건을 포함한 일반 형사사건과 업무상 횡령·배임 등 경제범죄 사건에서 더욱 높은 수준의 법률 서비스를 제공할 수 있을 것”이라고 밝혔다.&lt;br /&gt;&lt;br /&gt;법무법인 더킴로펌은 서울, 대구, 창원, 뉴욕에 사무소를 두고 있는 로펌으로, 기업 형사 전문&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="16193"&gt;김형석&lt;/span&gt;(50·38기) 대표변호사를 필두로&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="5414"&gt;최은수&lt;/span&gt;(71·9기) 전 대전고등법원장,&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="4128"&gt;구본진&lt;/span&gt;(60·20기) 전 수원지검 성남지청장,&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="11139"&gt;조용우&lt;/span&gt;(47·34기) 전 대구지검 부장검사 등이 소속돼 있다.</description>
+			<pubDate>Fri, 07 Mar 2025 04:37:27 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/206140</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/206140</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/206140.jpg</media:thumbnail>
+			<dc:creator>조한주 기자</dc:creator>
+		</item>
+		<item>
+			<title>태평양, 공정거래·자본시장·가상자산 전문가 영입</title>
+			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/206133.jpg" alt="206133.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;법무법인 태평양(대표변호사&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="8313"&gt;이준기&lt;/span&gt;)은 공정거래·자본시장·가상자산 분야의 전문성을 강화하기 위해 전성훈 서강대 경제학과 교수, 라성채 전 한국거래소 유가증권시장본부 상무, 최희경 전 빗썸 부사장을 각각 고문과 전문위원으로 영입했다.&lt;br /&gt;&lt;br /&gt;전성훈 고문은 공정거래 분야 전문가로 서울대에서 경제학을 전공하고 동 대학원에서 석사, 미국 예일대에서 경제학 박사 학위를 취득했다. 전 고문은 서강대 경제학과 교수로 재직하며 교학부총장을 역임했으며, 공정거래위원회 비상임위원과 경쟁정책자문위원 활동을 통해 공정거래 제도 발전에 기여했다. 특히 지난 25년간 기업결합, 시장지배력 남용, 카르텔, 불공정행위 등 여러 공정거래 사건에서 경제분석 보고서 제출과 전문가 증언을 수행한 바 있다. 태평양 법경제학센터에서 공정거래 경제분석과 관련한 자문을 제공할 예정이다.&lt;br /&gt;&lt;br /&gt;라성채 고문은 약 30년간 한국거래소에서 재직하며 정보사업부장, 주식시장부장, 유가증권시장본부 상무 등을 역임한 자본시장 전문가다. 2022년에는 한국IR협의회 상근부회장을 맡아 상장기업의 기업가치 제고에 힘썼다. 라 고문은 태평양 금융그룹에 합류해 IPO, 공시 및 퇴출심사, 기업 분할·재상장·지주사 개편 등에 대한 법률 자문을 맡을 예정이다.&lt;br /&gt;&lt;br /&gt;최희경 전문위원은 대형 회계법인에서 공인회계사로 활동한 후 2013년부터 금융감독원에서 자본시장조사국, 금융위원회(자본시장조사단 파견), 일반은행검사국 등을 거치며 자본시장 조사 및 금융감독 업무를 수행했다. 2022년부터는 빗썸에서 부사장(준법감시인, 준법총괄, 감사실장)을 역임하며 가상자산 분야에서 전문성을 쌓았다. 최 위원은 태평양 규제그룹에서 금융규제, 컴플라이언스, 가상자산 분야의 법률 자문을 담당할 예정이다.&lt;br /&gt;&lt;br /&gt;태평양 관계자는 "공정거래, 자본시장, 가상자산 등 다양한 분야에서 전문성을 인정받은 '키맨'들을 영입했다"며 "태평양의 견고한 협업 시스템과 분야를 대표하는 전문가들이 시너지를 내어 최적의 법률 서비스를 제공할 것"이라고 말다.</description>
+			<pubDate>Fri, 07 Mar 2025 04:35:28 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/206133</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/206133</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/206133.jpg</media:thumbnail>
+			<dc:creator>이진영 기자</dc:creator>
+		</item>
+		<item>
 			<title>【오늘의 국회일정】 2025년 3월 7일</title>
 			<description>&lt;b&gt;◇국회의장&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;10:30최진식 한국중견기업연합회 회장 면담(의장집무실)&lt;br /&gt;&lt;br /&gt;11:30한국옵티칼 고용승계로 가는 희망뚜벅이 면담(국회접견실)&lt;br /&gt;&lt;br /&gt;13:30알 누아이미 주한UAE대사 접견(의장집무실)&lt;br /&gt;&lt;b&gt;&lt;br /&gt;◇의원실 세미나&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;09:30김정호 의원실 등,중소기업 탈탄소 지원법안 간담회(의원회관 제9간담회의실)&lt;br /&gt;&lt;br /&gt;10:00박정훈 의원실, (카트비?캐디피?그늘집?)골프장 갑질 근절을 위한 토론회(의원회관 제2세미나실)&lt;br /&gt;&lt;br /&gt;10:00김한규 의원실,산자중기위 유관협회 연속 간담회:한국벤처캐피탈협회(의원회관 제10간담회의실)&lt;br /&gt;&lt;br /&gt;10:00유용원 의원실 등,증대되는 북한 핵 미사일 위협과 북한군의 우크라이나 파병 효과(의원회관 제8간담회의실)&lt;br /&gt;&lt;br /&gt;13:30서지영 의원실 등,지방분권형 헌법 개정 국회 대토론회(의원회관 대회의실)&lt;br /&gt;&lt;br /&gt;14:00채현일 의원실 등, (진정한 지방자치 실현)지방의회법 제정 정책 세미나(의원회관 제2소회의실)&lt;br /&gt;&lt;br /&gt;14:00정준호 의원실,골재산업 육성에 관한 법률 도입을 위한 토론회(의원회관 제1소회의실)&lt;br /&gt;&lt;br /&gt;14:00정혜경 의원실 등,극우정치는 어떻게 성장하는가:진단과 대응방향(의원회관 제11간담회의실)&lt;br /&gt;&lt;br /&gt;14:00남인순 의원실 등,말기콩팥병 환자의 삶의 질 개선을 위한 복막투석 활성화 방안(의원회관 제9간담회의실)&lt;br /&gt;&lt;br /&gt;14:00김한규 의원실,산자중기위 유관협회 연속 간담회:한국해외자원산업협회(의원회관731호)&lt;br /&gt;&lt;br /&gt;14:00신성범 의원실,스포츠비즈니스로 지역의 경제와 복지를 그린다(합천군종합사회복지관3층 대강당)&lt;br /&gt;&lt;br /&gt;14:00한준호 의원실 등,액셀러레이터 산업 선진화를 위한 스타트업 스튜디오 활성화 정책 토론회(의원회관 제8간담회의실)&lt;br /&gt;&lt;br /&gt;14:00민병덕 의원실 등,컴포즈커피 점주협의회 발족 및 현안간담회(의원회관 제7간담회의실)&lt;br /&gt;&lt;br /&gt;14:00서명옥 의원실,태안 가족의 비극 그 후1년, 1형당뇨병 정책 성과와 과제(의원회관 제3간담회의실)&lt;br /&gt;&lt;br /&gt;15:00백선희 의원실 등,교수연구자 및 정책전문가의 사회대개혁과 국가비전 인식(의원회관 제5간담회의실)&lt;br /&gt;&lt;br /&gt;16:00전재수 의원실 등, [제1회 문화강국네트워크 국회토론회]문화강국을 위한 대화:문화산업의 위기,문화정책의 위기(의원회관 제8간담회의실)&lt;br /&gt;&lt;b&gt;&lt;br /&gt;◇소통관 기자회견&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;09:40이용우 의원, [한화오션 하청노동자 노동권 보장 촉구 기자회견]&lt;br /&gt;&lt;br /&gt;10:00 김희정 의원, [주요 현안 관련 기자회견]&lt;br /&gt;&lt;br /&gt;10:40조배숙 의원, [탈북민단체,헌법재판소 대통령 탄핵심판 각하 요구 기자회견]&lt;br /&gt;&lt;br /&gt;11:00김장겸 의원, [국민의힘 기초의원협의회,헌법재판소의 공정한 재판 촉구 기자회견]&lt;br /&gt;&lt;br /&gt;11:20이재강 의원, [현안 관련 기자회견]&lt;br /&gt;&lt;br /&gt;11:40정춘생 의원, [극우단체 대학가 난동행위 고발 기자회견]&lt;br /&gt;&lt;br /&gt;13:00김재연 진보당 상임대표, [포천 민가 폭탄 오발사고 관련 긴급 기자회견]&lt;br /&gt;&lt;br /&gt;13:20김현 의원, [더불어민주당 팩트체크넷 민주파출소 일일 브리핑]&lt;br /&gt;&lt;br /&gt;14:40김장겸 의원, [중앙선거관리위원회 채용비리 규탄 기자회견]&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;b&gt;&lt;span style="font-size: 14px;"&gt;※상기 일정은 사정에 따라 변경될 수 있습니다.&lt;/span&gt;&lt;/b&gt;&lt;br /&gt;</description>
 			<pubDate>Thu, 06 Mar 2025 22:38:14 -0000</pubDate>
@@ -170,76 +240,6 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/206072</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/206072.jpg</media:thumbnail>
 			<dc:creator>홍윤지 기자</dc:creator>
-		</item>
-		<item>
-			<title>"책값 부담 덜어주고 싶었다" 박윤해 백송 대표변호사, 김천고에 1억 이어 1000만 원 기부</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/206071.jpg" alt="234262.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;박윤해 백송 대표변호사&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="712"&gt;박윤해&lt;/span&gt;(59·사법연수원 22기) 법무법인 백송 대표변호사는 지난 2월 24일 모교인 김천고에 발전기금 1000만 원을 기부했다. 이번 기부는 도서구매 할인권 형태로 진행돼 김천고 1학년 학생 250명과 교직원 150명이 참고서 및 교양서적 구매 시 25% 할인을 받을 수 있도록 했다.&lt;br /&gt;&lt;br /&gt;박 대표변호사는 고교 시절 서울대 교수였던 김천고 선배들이 방학 중 모교를 찾아 특강을 해주던 경험이 큰 감동으로 남았다고 회상했다. 그는 "선배들이 후배들에게 관심을 갖는 모습을 보고 나도 나중에 잘 되면 후배들에게 도움을 주겠다고 다짐했다"며 "그 방법 중 하나로 장학금을 주는 것이 의미 있다고 생각했다"고 밝혔다.&lt;br /&gt;&lt;br /&gt;그는 1998년 검사 시절부터 서울대 동문과 함께 모교에 기부를 시작했으며 최근 10년 동안은 개인 기부도 지속 해왔다. 앞서 김천고에 1억 원의 장학금을 기부한 그는 이번 기부에 앞서 학생과 교직원이 실질적으로 혜택을 받을 수 있는 방향을 고민했다. 박 대표변호사는 "장학금도 의미 있지만 학생들에게 직접적인 도움이 갔는지 확인하기 어려운 부분이 있었다"며 "이번 기부는 책값 부담을 덜어주면서도 실질적인 혜택을 줄 수 있는 방식으로 진행했다"고 설명했다.&lt;br /&gt;&lt;br /&gt;박 대표변호사는 김천고뿐만 아니라 서울대 로스쿨, 숭실대 석·박사 과정, 초·중학교 등 다양한 교육기관에도 기부를 해왔다. 그는 "오랜 기간 기부를 지속하다 보니 가족들도 이해하고 함께 도와 주고 있다"며 "법조인이나 사회적으로 혜택을 받은 사람들이 장학금이나 발전기금 기부를 통해 봉사하는 것이 중요하다. 이러한 활동이 더 많은 사람들에게 긍정적인 영향을 미칠 수 있길 바란다"고 전했다.&lt;br /&gt;&lt;br /&gt;김천고, 서울대 법대를 졸업한 박 대표변호사는 1990년 제32회 사법시험에 합격한 후 1998년 인천지검 부천지청에서 검사로 임관했다. 이후 대검찰청 검찰연구관, 청주지검 제천지청장, 서울동부지검 차장검사, 2017년 울산지검장, 2018년 대구지검장 등을 역임하며 22년간 검찰에서 근무했다. 2019년 퇴임 후 백송을 설립한 그는 2021년 공수처 수사자문단장을 맡기도 했다.</description>
-			<pubDate>Wed, 05 Mar 2025 08:38:42 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/206071</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/206071</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/206071.jpg</media:thumbnail>
-			<dc:creator>안현 기자</dc:creator>
-		</item>
-		<item>
-			<title>'계열사 부당 지원' 조현범 회장 1심 선고, 5월 29일</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/206070.jpg" alt="342526.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;조현범 한국앤컴퍼니그룹 회장 《사진=연합뉴스》&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;계열사 부당 지원과 200억 원대 횡령·배임 등 혐의로 구속기소 된 조현범 한국앤컴퍼니그룹 회장에 대한 1심 선고가 5월 29일 진행된다. 2023년 3월 사건이 접수된 이후 2년 2개월 만에 1심 결과가 나오는 것이다. 검찰은 조 회장에게 징역 12년을 선고해달라고 재판부에 요청했다.&lt;p&gt;&amp;nbsp;   &lt;/p&gt;&lt;p&gt;서울중앙지법 형사23부(재판장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="10034"&gt;오세용&amp;nbsp;&lt;/span&gt;부장판사)는 2월 27일 특정경제범죄 가중처벌 등에 관한 법률 위반(횡령) 등 혐의로 기소된 조 회장에 대한 결심 공판을 진행했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;이날 검찰은 조 회장에게 징역 12년을 선고하고 약 7800만 원을 추징해달라고 재판부에 요청했다. 또 양벌규정으로 함께 기소된 한국타이어 법인에 대해선 벌금 2억 원을, 한국타이어 소속 임직원 2명에게는 각각 징역 2년을 선고해달라고 했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;이날 조 회장의 변호인은 "조 회장은 약 5만 5000명의 임직원과 그 가족들의 생계를 책임지고 있다"며 "조 회장이 국가 경제에 이바지하고, 자동차 산업을 발전시킬 수 있도록 양형에 적극 고려해달라"고 말했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;조 회장은 최후진술에서 "경영 투명화에 소홀했던 것 등 모든 점이 제 불찰"이라며 "함께 재판받는 동료들은 한국타이어를 위해 성실히 업무를 수행한 것뿐"이라고 말했다. 이어 "부디 동료들에게는 최대한 관용을 베풀어주시기를 바란다"며 "앞으로 회사를 운영하는 과정에서 법적으로 문제의 소지가 있는 일이 다신 발생하지 않도록 각고의 노력과 프로세스 재정립에 온 힘을 기울이겠다"고 강조했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;재판부는 오는 5월 29일 오후 2시로 선고기일을 지정했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;조 회장은 2014년 2월부터 2017년 12월까지 한국타이어가 계열사인 한국프리시전웍스(MKT)의 타이어 몰드 약 875억 원어치를 사들이면서 다른 제조사보다 비싼 가격을 지급하는 방식으로 부당 지원하는 것에 관여한 혐의를 받는다. 검찰은 MKT에 몰아준 이익이 조 회장 등 총수 일가에 흘러 들어갔다고 보고 있다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;조 회장은 또 2020~2021년 현대자동차 협력사인 리한의 경영 사정이 좋지 않다는 것을 알면서도 이 회사 대표와의 친분을 앞세워 MKT의 자금을 빌려줘 회사에 130억 원가량의 손해를 끼친 혐의도 받는다. 또 회삿돈 수십억 원을 유용해 자택 수리나 외제 차 구입 등에 사용한 혐의도 있다. 검찰은 조 회장의 횡령·배임액을 약 200억 원대로 보고 있다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;이번 사건은 공정거래위원회가 2022년 11월 한국타이어 법인을 공정거래법 위반 혐의로 검찰에 고발하면서 시작됐다. 검찰은 추가 수사를 통해 조 회장이 혐의에 연루된 사실을 확인하고 조 회장에 대한 고발요청권을 행사한 뒤 올해 1월부터 오너 일가에 대한 수사에 돌입했다. 당시 검찰은 "지배주주인 조 회장이 지위를 남용해 회사의 사업 기회를 탈취하고, 회사 재산을 개인 재산처럼 유용해 법인 제도를 남용한 행위"라며 "사회적 비난 가능성이 높은 관련 기업 범죄 전반에 적극 대응할 것"이라고 밝혔다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;검찰은 이 사건 재판이 진행 중인 2023년 7월 조 회장을 배임수재 혐의로 추가 기소했다. 검찰에 따르면 조 회장에게 부정 청탁하며 금품과 차량을 건넨 것으로 알려진 장선우 극동유화 대표가 설립한 우암건설에 조 회장이 '끼워넣기식' 공사를 발주하고 뒷돈을 받은 것으로 조사됐다.&lt;/p&gt;</description>
-			<pubDate>Wed, 05 Mar 2025 07:37:54 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/206070</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/206070</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/206070.jpg</media:thumbnail>
-			<dc:creator>한수현 기자</dc:creator>
-		</item>
-		<item>
-			<title>노태악 선관위원장 "선관위 특혜 채용 통렬한 반성…엄중 조치 예정"</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/206069.jpg" alt="206069.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;노태악 중앙선관위원장 《사진=연합뉴스》&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="1377"&gt;노태악&amp;nbsp;&lt;/span&gt;중앙선거관리위원장(대법관)은 선관위 고위직 자녀 경력 채용 문제와 관련해 "중앙선거관리위원장으로서 통렬한 반성과 함께 머리 숙여 사과드린다"고 말했다.&lt;br /&gt;&lt;br /&gt;노 위원장은 5일 대국민 사과문을 내고 "고위직 간부들의 자녀 특혜 채용 문제로 국민 여러분께 큰 실망과 걱정을 끼쳐드렸다"며 이같이 밝혔다.&lt;br /&gt;&lt;br /&gt;이는 앞서 선관위가 감사원의 직무 감찰 결과 발표 후 고위직 자녀 채용 문제와 복무 기강 해이 등에 대해 공식 사과한 지 하루 만에 나온 입장이다.&lt;br /&gt;&lt;br /&gt;노 위원장은 "국민 여러분이 만족할 때까지 제도개선에 최선을 다하겠다"며 "인사 규정 정비 및 감사 기구 독립성 강화 등 그동안 마련했던 제도개선에 안주하지 않고 다양한 외부 통제 방안도 적극 검토하겠다"고 말했다.&lt;br /&gt;&lt;br /&gt;이어 "이번 사건으로 선관위에 대한 국민 신뢰가 흔들리고 있다는 것을 잘 알고 있다"며 "조직 운영에 대한 불신이 선거 과정에 대한 불신으로 이어질 수 있다는 것에 책임을 통감하고 있다"고 덧붙였다.&lt;br /&gt;&lt;br /&gt;특히 특혜 채용 문제와 관련해 부적절한 업무 처리가 확인된 직원에 대해 징계를 요구했다고 밝혔다. 그는 "오늘 징계위원회에 징계 요구를 했다"며 "감사원이 요구한 징계 수준과 선관위 내부 기준을 고려하여 엄중하게 조치할 예정"이라고 말했다.&lt;br /&gt;&lt;br /&gt;그러면서 "선관위는 헌법기관의 독립성에만 기대지 않고 국민 신뢰 회복을 위해 끊임없는 자정의 노력을 다하겠다"며 "국민 여러분에게 다시 한번 죄송하다는 말씀을 드린다"고 부연했다.&lt;/p&gt;</description>
-			<pubDate>Wed, 05 Mar 2025 07:36:23 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/206069</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/206069</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/206069.jpg</media:thumbnail>
-			<dc:creator>김지현 기자</dc:creator>
-		</item>
-		<item>
-			<title>검찰, 시각장애인에 음성변환 조서 제공…형사절차 참여권 확대</title>
-			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/thumb/180/206068.jpg" alt="8054.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;시각장애인이 형사 사건에 연루됐을 때 작성된 조서를 음성으로 변환해 들을 수 있게 하는 등 형사절차 참여권을 보장하는 방안이 시행된다.&lt;br /&gt;&lt;br /&gt;대검찰청은 5일 "시각장애를 가진 사건관계인의 형사절차 참여권을 실질적으로 보장하기 위해 열람·등사 강화 방안을 마련해 전국 검찰청에 전파하고 적극 시행하도록 했다"고 밝혔다. &lt;br /&gt;&lt;br /&gt;검찰은 앞으로 시각장애 사건관계인이 조사를 마친 뒤 음성변환 바코드를 통해 본인의 조서를 바로 열람할 수 있도록 하고, 사건기록 열람·복사를 신청할 때도 기록 사본뿐 아니라 음성파일이나 점자 문서도 함께 제공하기로 했다.&lt;br /&gt;&lt;br /&gt;검찰은  2018년 12월부터 각종 증명서 등 민원발급 서류에 음성변환 바코드를 제공해왔고 2021년 12월부터 통지 서식에도 이를 적용해왔다. 그러나 기존 조치만으로는 시각장애 사건관계인이 사건 내용을 실질적으로 파악하는데 어려움이 있어 개선방안을 마련했다. &lt;br /&gt;&lt;br /&gt;대검은 지난 1월에는 발달장애인의 형사 절차상 권리에 관한 안내서를 발간해 전국 검찰청 및 경찰청, 대한변호사협회 등 유관기관에 배포했다.&lt;br /&gt;&lt;br /&gt;이 안내서는 발달장애인이 형사절차를 이해하고 자신의 권리 행사 여부를 결정할 수 있도록 눈높이에 맞춘 용어와 그림을 활용해 정보를 제공하고 있다.&lt;br /&gt;&lt;br /&gt;대검 관계자는 "앞으로도 검찰은 어떤 국민도 사법 시스템에 접근하는 데 어려움을 겪지 않도록 최선을 다하겠다"고 말했다.</description>
-			<pubDate>Wed, 05 Mar 2025 07:34:56 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/206068</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/206068</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/206068.jpg</media:thumbnail>
-			<dc:creator>우빈 기자</dc:creator>
-		</item>
-		<item>
-			<title>'사법행정권 남용 의혹 첫 무죄 확정' 유해용 前 대법원 수석재판연구관에 형사 보상</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/206067.jpg" alt="206067.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;유해용 전 대법원 수석재판연구관 《사진=연합뉴스》&lt;/figcaption&gt;   &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;사법행정권 남용 의혹 사건으로 재판에 넘겨져 대법원에서 무죄가 확정된&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="8426"&gt;유해용&lt;/span&gt;(59·사법연수원 19기) 전 대법원 수석재판연구관이 형사보상을 받게 됐다.&lt;p&gt;&amp;nbsp;   &lt;/p&gt;&lt;p&gt;5일 관보에 따르면 서울중앙지법 형사51부(재판장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="5954"&gt;차영민&amp;nbsp;&lt;/span&gt;수석부장판사)는 2월 4일 국가가 유 전 수석에게 형사보상금 553만 2000원을 지급하라고 결정했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;형사보상은 무죄가 확정된 피고인이 구금에 따른 손해나 변호사 비용 등을 보상해달라고 국가에 청구하는 제도다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;유 전 수석은 대법원에서 근무하던 2016년 임종헌 전 법원행정처 차장과 공모해 당시 박근혜 전 대통령의 '비선 의료진'으로 알려진 병원장의 특허소송 처리 계획과 진행 경과 등을 문건으로 작성하도록 후배 재판연구관에게 지시한 뒤 이를 청와대에 누설한 혐의를 받았다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;또 2014년부터 2016년까지 대법원 수석·선임 재판연구관 시절 작성된 재판연구관 검토보고서 및 의견서 등을 퇴임 당시 무단으로 들고 나간 뒤 검찰 수사가 시작되자 이를 파기한 혐의도 있었다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;1심과 항소심은 유 전 수석의 혐의를 전부 무죄로 판단했다. 1심은 "검찰이 제출한 증거만으로는 유 전 수석이 사안 요약 문건 작성을 지시하고 이를 임 전 차장에게 전달했다고 보기 어렵다"고 밝혔다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;2021년 10월 대법원도 이러한 원심 판단을 그대로 확정했다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;유 전 수석은 사법행정권 남용 의혹 사건으로 재판에 넘겨진 전·현직 법관 사건 가운데 가장 먼저 대법원 판단을 받았다. 현재 김·장 법률사무소 변호사로 활동하고 있다.&lt;/p&gt;</description>
-			<pubDate>Wed, 05 Mar 2025 07:34:21 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/206067</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/206067</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/206067.jpg</media:thumbnail>
-			<dc:creator>한수현 기자</dc:creator>
-		</item>
-		<item>
-			<title>권동주 법무법인 화우 변호사, '한국지적재산권변호사협회 신임 회장 선출</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/206066.jpg" alt="2342526.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;권동주 법무법인 화우 변호사&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="3950"&gt;권동주&lt;/span&gt;(57·사법연수원 26기) 법무법인 화우 변호사가 한국지적재산권변호사협회(Korean Intellectual Property Lawyers Association·KIPLA) 신임 회장으로 선출됐다. 임기는 2년이다.&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;특허·저작권 등 지적재산권 분야 변호사들의 모임인 KIPLA는 2015년 설립됐다. 전문 분야 변호사들이 협회 형식으로 임의단체를 꾸린 첫 사례이며, 국내·외 지적재산권 전문변호사 1000여 명이 활동 중이다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;KIPLA는 2월 24일 서울 서초구 서초동 변호사회관에서 '2025 정기총회'를 열고 권 변호사를 새 회장으로 선출했다.&lt;/p&gt;&lt;p&gt;대전 보문고와 고려대 법학과를 졸업한 권 회장은 1994년 제36회 사법시험에 합격했다. 사법연수원 수료 후 공군법무관으로 복무한 뒤 인천지법에서 판사 생활을 시작했다. 이후 서울지법 판사, 창원지법 진주지원 판사, 서울남부지법 판사, 서울고법 판사, 대법원 재판연구관(지식재산권 전담조), 충주지원장, 서울고법 판사, 특허법원 판사 등을 지냈다. 2018년 변호사로 개업해 법무법인 화우에서 활동하고 있으며, 현재 화우 IP그룹장과 바이오헬스센터장을 맡고 있다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;권 회장은 특허법원 판사로 근무할 당시 위장관 기질 종양 치료(GIST) 용도의 글리벡에 대한 특허침해 사건 등을 비롯해 다수 의약 발명 사건을 담당했다. 이를 바탕으로 화우에서 △메디톡스에 대한 6개 행정처분에 대한 집행정지 사건 △한미약품과 노파르티스 아게의 엔트레스토정 관련 특허무효 사건 △LG화학의 제2당뇨병치료제 제미글립틴 관련 사건 △SK케미칼과 노파르티스 아게의 특허침해 사건 △메디톡스와 대웅제약의 영업비밀침해 사건 등을 담당하며 승소를 이끌었다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;권 회장은 "KIPLA은 법률적 전문성을 바탕으로 산업과 기술의 발전을 뒷받침하는 중심 역할을 수행해 왔다"며 "앞으로도 변화하는 환경 속에서 지적재산권 제도의 개선과 발전을 위해 힘쓰겠다"고 밝혔다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;한편, 신임 수석부회장으로는&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="918"&gt;박성수&lt;/span&gt;(57·21기) 김·장 법률사무소 변호사가 선임됐으며 사무총장에는&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="11704"&gt;임철근&lt;/span&gt;(48·34기) 화우 변호사가 선임됐다.&lt;/p&gt;</description>
-			<pubDate>Wed, 05 Mar 2025 02:41:54 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/206066</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/206066</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/206066.jpg</media:thumbnail>
-			<dc:creator>한수현 기자</dc:creator>
-		</item>
-		<item>
-			<title>지평, 양산상공회의소와 '통상임금 전원합의체 판례 및 중대재해 예방' 설명회 개최</title>
-			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/206065.jpg" alt="206031.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;법무법인 지평(대표변호사&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="2162"&gt;김지홍&lt;/span&gt;·&lt;span style="font-weight: bold;" class="lawmanlink" serial="7965"&gt;이행규&lt;/span&gt;)은 양산상공회의소와 함께 3월 13일 오후 2시 경남 양산시 북부동 양산상공회의소 대회의실에서 '통상임금 전원합의체 판례 분석과 중대재해 예방'을 주제로 설명회를 개최한다.&lt;br /&gt;&lt;br /&gt;이번 설명회에서는 2024년 12월 19일 대법원 전원합의체 판결의 주요 쟁점과 기업에 미치는 영향을 분석하고, 중대재해 예방 및 관리 방안에 대한 실무적 유의사항을 공유할 예정이다.  &lt;br /&gt;&lt;br /&gt;설명회는 두 개의 주제로 구성된다. 먼저 고용노동부 자문변호사이자 중앙노동위원회 법률자문위원으로 활동 중인&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="13951"&gt;김용문&lt;/span&gt;(50·사법연수원 35기) 지평 변호사가 '전원합의체 판결의 의미 및 주요 쟁점'을 발표한다. 이어 권경배 지평 전문위원이 '중대재해의 예방과 관리'에 대해 설명할 예정이다. 발표 후에는 참가자들과의 질의응답이 진행된다.  &lt;br /&gt;&lt;br /&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="13951"&gt;김용문&amp;nbsp;&lt;/span&gt;지평 노동그룹 공동그룹장은 "이번 설명회가 양산지역 기업의 인사·노무 및 안전 담당자들에게 통상임금과 중대재해 대응 전략을 보다 명확하게 이해하고 실무적으로 대비하는 데 도움이 되길 바란다"고 말했다.  &lt;br /&gt;&lt;br /&gt;이번 설명회는 무료로 진행되며, 참가 신청은 양산상공회의소 홈페이지에서 가능하다.</description>
-			<pubDate>Wed, 05 Mar 2025 02:38:40 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/206065</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/206065</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/206065.jpg</media:thumbnail>
-			<dc:creator>이진영 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
