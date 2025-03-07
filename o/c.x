@@ -13,6 +13,85 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>검찰, “국회에 尹 영장 허위 답변한 직원 특정” 공수처에 요청</title>
+      <link>https://www.chosun.com/national/court_law/2025/03/07/ETE3F3LHIRAHXFWAXDDR2XK2X4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/03/07/ETE3F3LHIRAHXFWAXDDR2XK2X4/</guid>
+      <dc:creator>유종헌 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 07 Mar 2025 03:08:51 +0000</pubDate>
+      <content:encoded>고위공직자범죄수사처(공수처)의 윤석열 대통령 영장 위법 청구 논란을 수사 중인 검찰이 ‘국회에 허위 답변을 제출한 직원을 특정해달라’고 공수처에 요구했다.&lt;br&gt;&lt;br&gt;서울중앙지검 형사1부(부장 김승호)는 지난 5일 공수처에 “주진우 국민의힘 의원실의 윤 대통령 영장 관련 질의에 허위로 답변을 기재한 공수처 직원을 특정해달라”는 공문을 보냈다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MADC6LR7JIPVR7JA7TAIPLNRFE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;공수처 현판. / 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;주 의원은 지난 1월 공수처에 ‘윤 대통령 사건과 관련해 체포·압수수색·통신영장 등을 중앙지법에 청구한 적 있느냐’는 취지의 질의를 보냈다. 이에 공수처는 ‘중앙지법에 윤 대통령 영장을 청구한 사실이 없다’고 답했다. 그러나 공수처는 지난해 12월 윤 대통령 통신영장을 중앙지법에 청구했던 것으로 이후 드러났다. &lt;br&gt;&lt;br&gt;윤 대통령 변호인단은 지난달 21일 오동운 공수처장을 허위공문서 작성·행사 등으로 고발했고, 검찰은 지난달 28일 공수처를 압수수색하는 등 본격적인 수사에 나섰다.&lt;br&gt;&lt;br&gt;오 처장은 국회에서 “수사기획관이 없는 상태에서 법률 전문가가 아닌 파견 직원이 윤 대통령 체포영장에 관해 주로 묻는 것으로 이해한 나머지 일어난 일”이라며 “적절하지 않게 답변이 나간 것은 인정한다”고 했다.&lt;br&gt;&lt;br&gt;검찰은 공수처가 중앙지법에 윤 대통령 체포영장을 청구했다가 기각되자 서부지법으로 법원을 바꿔놓고, 관련 기록을 은폐한 것 아니냐는 의혹도 수사 중이다.&lt;br&gt;&lt;br&gt;한편, 공수처는 지난해 12월 18일 경찰이 신청한 윤 대통령 관련 압수수색 영장도 중앙지법에 청구해 발부받았던 것으로 이날 나타났다. &lt;br&gt;&lt;br&gt;당시 압수수색 영장은 윤 대통령과 김용현 전 국방부 장관, 조지호 경찰청장, 김봉식 전 서울경찰청장이 계엄 직전 회동했던 삼청동 안전가옥 CCTV에 관한 영장이었다고 한다. 해당 영장에는 ‘형사소송법 110조(군사상 비밀 장소에 관한 압수수색 제한)를 준수하라’는 취지의 기재도 있었다고 한다. 반면 공수처가 이후 서부지법에 청구해 발부받은 윤 대통령 체포 영장에는 ‘형사소송법 110조 예외’ 단서가 달렸다.&lt;br&gt;&lt;br&gt;공수처 관계자는 삼청동 안전가옥 관련 압수수색 영장을 서울중앙지법에 청구한 데 대해 “공수처법상 공수처가 기소하는 사건의 재판관할은 서울중앙지법이 원칙인데, 조지호·김봉식 두 사람은 공수처에 기소권이 있기 때문”이라고 설명했다. 반면 윤 대통령 사건은 공수처에 기소권이 없는만큼 이 규정의 적용 대상이 아니라는 것이다. 당시 영장 표지에 윤 대통령이 대표 피의자로 기재돼 있기는 하지만, 영장 내용은 조 청장과 김 전 청장 혐의에 관한 내용이라고 한다.&lt;br&gt;&lt;br&gt;이 관계자는 또 “압수수색 영장은 원칙적으로 형사소송법 110조가 적용되기 때문에 중앙지법이 이런 원칙을 명시한 것”이라면서 “체포 영장과 다르다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>경찰, 대전 초등생 살해 여교사 체포영장 집행...25일만에 첫 ‘대면조사 ’</title>
+      <link>https://www.chosun.com/national/regional/chungcheong/2025/03/07/AYEUNV76ONF6DDA76ST7PRJJSQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2025/03/07/AYEUNV76ONF6DDA76ST7PRJJSQ/</guid>
+      <dc:creator>신정훈 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 07 Mar 2025 02:40:34 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/W2EH4EIX6RBQTC3QWHY73DU3LY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대전 서구의 한 초등학교에 마련된 김하늘 양 분향소에서 추모객들이 헌화하며 김 양을 추모하고 있다. /신현종 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰이 대전 한 초등학교에서 8살 김하늘 양을 살해한 40대 교사 A씨에 대한 대면조사에 들어갔다.&lt;br&gt;&lt;br&gt;대전서부경찰서는 A씨에 대한 체포영장을 24일 만에 집행하고 대면 조사를 한다고 7일 밝혔다. &lt;br&gt;&lt;br&gt;경찰은 사건 발생 25일이 지나도록 대면 조사를 진행하지 못했다. 범행 후 자해를 시도해 정맥 봉합 수술을 받은 A씨가 추가적인 안정이 필요하다는 의료진 소견 때문이다. &lt;br&gt;&lt;br&gt;그사이 경찰은 압수수색 등을 통해 확보한 증거물과 참고인 조사 등 수사를 이어왔다. 경찰은 A씨 대면 조사를 통해 구체적인 범죄 사실을 확인할 계획이다. 사건에 투입된 프로파일러도 범행 동기와 범죄 행동 분석을 마무리할 계획이다.&lt;br&gt;&lt;br&gt;A씨에 대한 신상 정보 공개 여부에 대한 논의도 이뤄질 것으로 보인다. &lt;br&gt;&lt;br&gt;경찰은 조사가 마무리되는 대로 A씨에 대한 구속영장을 신청할 방침이다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>뉴진스(NJZ) 5명, ‘어도어 가처분’ 심문 위해 법원 직접 출석</title>
+      <link>https://www.chosun.com/national/court_law/2025/03/07/FHGH5LAPJVH2ZLZ6NPYIP2HGPQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/03/07/FHGH5LAPJVH2ZLZ6NPYIP2HGPQ/</guid>
+      <dc:creator>방극렬 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 07 Mar 2025 02:07:27 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/R5EKTD2CKNICPHISOK74ZNAVEY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;뉴진스가 작년 11월 28일 서울 강남구 스페이스쉐어에서 어도어와의 전속 계약 해지 관련 긴급 기자회견을 하고 있다. 왼쪽부터 해린, 다니엘, 하니, 민지, 혜인. /사진공동취재단&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘NJZ’라는 이름으로 새로운 활동을 시작한 옛 뉴진스 멤버 5명이 7일 전 소속사 어도어가 제기한 활동 금지 가처분 심문에 출석하기 위해 법원에 나왔다.&lt;br&gt;&lt;br&gt;NJZ 멤버들은 이날 오전 10시 30분부터 서울중앙지법 민사50부(재판장 김상훈) 심리로 열리는 ‘뉴진스 활동 금지 가처분’ 심문에 참석한다. 이들 5명은 지난해 11월 29일 어도어의 전속 계약 위반으로 계약이 해지됐다고 밝힌 이후, 팀명을 NJZ로 변경하는 등 독자적인 활동을 시작했다. 이에 어도어 측이 지난 1월 NJZ의 활동을 금지해달라는 가처분 신청을 낸 것이다.&lt;br&gt;&lt;br&gt;어도어는 당초 NJZ를 상대로 독자적인 광고 계약 체결 등을 금지해달라고 신청했지만, 이후 작사, 작곡, 가창 등 음악 활동을 비롯한 연예계 활동을 금지해달라며 청구 취지를 변경한 것으로 전해졌다. 어도어는 이와 별개로 작년 12월 서울중앙지방법원에 “뉴진스와의 전속 계약이 유효하다는 것을 확인해달라”는 소송을 내 재판이 진행 중이다.&lt;br&gt;&lt;br&gt;NJZ 측은 6일 “어도어는 표면적으로는 광고 활동만 문제 삼거나 팬과 광고주의 혼선을 막겠다는 명분을 내세우고 있으나, 실제로는 법원에 연예 활동 자체를 모두 금지해 달라고 하고 있다”며 “NJZ의 본질은 음악 활동이며, 이를 제한하는 것은 곧 NJZ의 존재 가치를 부정하는 것”이라고 주장했다. 반면 어도어는 뉴진스가 신곡 발표와 대형 해외 공연 예고 등 활동을 확대했기 때문이라는 입장이다.&lt;br&gt;&lt;br&gt;양측은 이날 법정에서 전속 계약 해지에 문제가 없는지, NJZ로서의 활동은 적법한지 등을 두고 공방을 벌일 전망이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/G76GV7XH55BGHPM2WEBW4WTO2E.jpg?width=846&amp;height=635&amp;auth=64a3c528f62c4c3607b1224c5d084008b06701826c6fa66662a466559ae5d074&amp;smart=true" type="image/jpeg" height="635" width="846">
+        <media:description type="plain"> 뉴진스, 팀명 NJZ로 변경
+    (서울=연합뉴스) 걸그룹 뉴진스가 7일 공식 사회관계망서비스(SNS)를 통해 새 팀명과 사진을 공개하고 다음 달 홍콩에서 열리는 콘서트에 출연하는 등 본격적인 독자 행보에 나섰다고 7일 밝혔다. 사진은 NJZ(옛 뉴진스). 2025.2.7 [컴플렉스콘 제공. 재판매 및 DB 금지]
+    photo@yna.co.kr/2025-02-07 11:35:21/
+&amp;lt;저작권자 ⓒ 1980-2025 ㈜연합뉴스. 무단 전재 재배포 금지, AI 학습 및 활용 금지&amp;gt;</media:description>
+        <media:credit role="author" scheme="urn:ebu">이태수</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>총수 딸 회사에 ‘알짜’ 땅 넘긴 대방건설...검찰, 압수수색</title>
+      <link>https://www.chosun.com/national/court_law/2025/03/07/YQXNWZ7JYJAVRNWBQVYQNJORJM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/03/07/YQXNWZ7JYJAVRNWBQVYQNJORJM/</guid>
+      <dc:creator>유종헌 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 07 Mar 2025 02:06:19 +0000</pubDate>
+      <content:encoded>검찰이 알짜 공공 택지를 총수 딸·며느리 회사에 넘겼다가 적발된 대방건설에 대해 7일 강제 수사에 착수했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XOKB4EJ7KKELO3HTJY3IOEMWS4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대방건설 전경. /대방건설&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지검 공정거래조사부(부장 김용식)는 이날 대방건설의 공정거래법 위반 혐의와 관련, 대방건설 본사와 계열사 사무실을 압수수색 중이라고 밝혔다. &lt;br&gt;&lt;br&gt;대방건설은 계열사들을 대거 동원한 ‘벌떼 입찰’ 방식으로 2014년 11월~2020년 3월 마곡·동탄 등 공공 택지 6곳을 확보해놓고 이를 대방산업개발 및 자회사에 되팔았다. 대방건설은 구교윤 대방건설 회장의 아들과 사위가 대주주이고, 대방산업개발은 구 회장의 딸과 며느리 소유다. &lt;br&gt;&lt;br&gt;대방산업개발은 공공 택지 6곳을 넘겨받기 전인 2014년만 해도 공공 택지 사업 실적이 1건에 그쳤고 시공 능력 순위는 228위였는데, 10년 만인 지난해 77위로 뛰어올랐다. 매출도 10년 전의 4배 이상으로 뛰었다.&lt;br&gt;&lt;br&gt;공정위는 지난달 25일 대방건설과 대방산업개발(5개 자회사 포함)에 각각 120억원과 85억원의 과징금을 부과하고 법인을 검찰에 고발했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>경찰, ‘논문 꼼수 심사 의혹’ 서강대 로스쿨 압수수색</title>
+      <link>https://www.chosun.com/national/national_general/2024/11/06/36ICBZBMDVF37O2GWXY7ID7IT4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/06/36ICBZBMDVF37O2GWXY7ID7IT4/</guid>
+      <dc:creator>고유찬 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 06 Nov 2024 05:10:16 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/77B5WYTH25E4HGEPBKN7YROTJM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서강대학교 정문. /전기병 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;특정 교원의 재임용을 위해 서강대 법학전문대학원(법전원) 교수들이 논문을 이른바 ‘꼼수 심사’했다는 의혹과 관련, 경찰이 강제 수사에 나섰다.&lt;br&gt;&lt;br&gt;6일 경찰 등에 따르면 서울 마포경찰서는 서강대 법전원 교수들이 과거 특정 교원의 재임용을 위해 부적절한 방법으로 논문을 심사했다는 의혹을 접수, 이날 오전 서울 마포구 서강대 법학전문대학원 등을 압수수색했다.&lt;br&gt;&lt;br&gt;경찰은 이 대학 전 법전원장 A씨, 당시 대학 부설 연구소의 학술지 편집위원장이던 B씨를 비롯해 교수 등 7명을 업무방해 등 혐의로 입건해 수사하고 있다.&lt;br&gt;&lt;br&gt;A씨 등은 2019년 2월 조교수였던 C씨에게 대학 부설 연구소에서 발간하는 학술지에 논문을 내도록 하고 이를 절차에 맞지 않게 심사한 뒤 ‘논문 게재 예정 증명서’를 허위로 발급한 혐의를 받는다.&lt;br&gt;&lt;br&gt;C씨가 연구업적 점수 미달로 재임용되지 못할 상황에 놓이자 2018년 10월 논문 게재 예정 증명서 없이 ‘조건부 재임용’을 먼저 결정했는데, C씨가 끝내 다른 학술지에 논문을 게재하지 못하면서 교내 학술지에서 ‘꼼수 심사’를 했다는 의혹이 제기됐다.&lt;br&gt;&lt;br&gt;C씨의 논문은 다른 학술지 2곳에선 게재 불가 판정을 받은 것으로 파악됐다.&lt;br&gt;&lt;br&gt;해당 학술지의 심사규정에 따르면 편집위원장이 투고 논문 접수 마감 후 편집위원회를 소집해 접수된 논문에 대한 심사 절차를 진행해야 한다.&lt;br&gt;&lt;br&gt;하지만 A 교수 등은 편집위원들을 거치지 않고 논문심사위원을 임의로 물색하도록 지시했으며, C씨의 논문과 관련이 없는 다른 법을 전공한 3명에게 논문심사를 의뢰해 하루 만에 논문심사서를 받은 것으로 전해졌다.&lt;br&gt;&lt;br&gt;이후 논문 게재 예정 증명서는 학술지 편집위원회를 열지 않은 채 편집위원회 명의로 발급돼 B씨 등이 회의록과 서류를 위조했다는 의혹도 있다.&lt;br&gt;&lt;br&gt;A씨 등 2명은 이 사건과 관련해 2021년 대학 측의 징계를 받기도 한 것으로 알려졌다. A씨 징계에 대한 무효 판결은 2024년 11월 8일 서울고등법원에서 내려졌다고 A씨 측은 밝혔다. &lt;br&gt;&lt;br&gt;A씨와 B씨 측은 2025년 3월 7일 “C씨에 대해 논문 게재 예정 증명서 없이 ‘조건부 재임용’을 먼저 결정한 사실이 없고 꼼수 심사를 사실이 없다”고 했다.&lt;br&gt;&lt;br&gt;또 “편집 위원들을 거치고 논문 심사위원을 임의로 물색하도록 지시한 사실이 없고, C씨의 논문과 관련이 없는 다른 법을 전공한 3명에게 논문 심사를 의뢰한 사실도 없다”고 했다. &lt;br&gt;&lt;br&gt;B씨는 “회의록과 서류를 위조한 사실이 없고 관련하여 징계 처분을 받은 사실도 없다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>처음 본 여중생 머래채 잡고 무차별 폭행한 30대 여성…무슨 일?</title>
+      <link>https://www.chosun.com/national/national_general/2025/03/07/6VIL6KO2AJB6VFU3XJTJR37THU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/03/07/6VIL6KO2AJB6VFU3XJTJR37THU/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 07 Mar 2025 01:48:22 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JGWUGHNCVJDQ5PUUBCXWLWRCPE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;A씨가 B양을 폭행하는 장면. /JTBC&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;길거리에서 처음 본 여중생을 이유 없이 마구 폭행한 30대 여성이 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;7일 인천 계양경찰서는 상해 혐의로 30대 여성 A씨를 수사 중이라고 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난달 22일 오후 2시쯤 인천시 계양구 거리에서 일면식도 없는 중학생 B(12)양의 머리채를 잡고 바닥에 넘어뜨린 뒤 폭행한 혐의다.&lt;br&gt;&lt;br&gt;공개된 영상을 보면 A씨는 당시 B양 뒤에서 갑자기 달려와 폭행을 시작했다. 두 사람은 전혀 모르는 사이였고 이날 처음 마주친 것으로 조사됐다. &lt;br&gt;&lt;br&gt;A씨는 B양의 비명을 듣고 주변 가게 상인이 다가오자 도주했다.&lt;br&gt;&lt;br&gt;신고를 받은 경찰은 탐문 수사를 벌여 A씨를 검거했다. A씨는 경찰 조사에서 횡설수설하면서 범행 동기를 제대로 진술하지 못한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰은 A씨가 정신질환자임을 확인하고 정신병원에 응급 입원 조치했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>목동14단지, 정비구역 지정…최고 49층 5123가구 규모로 재건축</title>
+      <link>https://www.chosun.com/national/national_general/2025/03/07/6CHP3A4XW5D4FJEYR7ITIHO3EY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/03/07/6CHP3A4XW5D4FJEYR7ITIHO3EY/</guid>
+      <dc:creator>김영우 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 07 Mar 2025 01:01:29 +0000</pubDate>
+      <content:encoded>서울 양천구 신정동 목동14단지가 최고 49층 5123가구 규모 단지로 재건축될 전망이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/INDVLECVXFFHVA2YGPXYMDDR5E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 양천구 신정동 목동14단지의 재건축 조감도. /양천구&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;양천구는 지난 6일 이 같은 내용을 담은 정비 계획 수립 및 정비구역 지정을 고시했다고 7일 밝혔다.&lt;br&gt;&lt;br&gt;1987년 지어진 목동14단지는 3100가구가 사는 34동(棟) 규모 아파트다. 안양천과 양천공원 등이 인근에 있고, 2호선 양천구청역과도 가깝다. 2023년 1월 안전 진단 통과 후 정비 계획안을 마련해 지난해 11월 서울시 심의를 통과했다.&lt;br&gt;&lt;br&gt;이번 정비구역 지정 고시에 따라 14단지는 용적률 300% 이하를 적용받는다. 높이는 최고 49층, 총 5123가구 규모 단지가 된다.&lt;br&gt;&lt;br&gt;양천구 관계자는 “당초 60층까지도 고려했지만, 서울시 자문회의 결과 등을 반영해 49층으로 조정했다”고 말했다.&lt;br&gt;&lt;br&gt;지역 주민의 편의를 위해 목동동로와 단지 내부 도로 폭을 넓혀 자전거도로와 보행 공간을 확보하기로 했다. 주변 단지와 2호선 양천구청역으로 이어지는 공공 보행 통로도 설치한다.&lt;br&gt;&lt;br&gt;이외에도 안양천변에는 근린공원을 설치하고, 단지 중심부에 공터를 확보한다. 공공 기여 시설로는 노인 요양 시설이 들어서게 된다.&lt;br&gt;&lt;br&gt;양천구 관계자는 “앞으로 사업 시행 방식을 결정하고 시공사 선정 등 재건축 추진에 속도를 낼 계획”이라고 했다.&lt;br&gt;&lt;br&gt;한편 목동아파트는 현재 14개 단지 중 10개 단지가 정비계획안을 공개하고 재건축 사업을 시작했다. 이번 14단지의 정비구역 지정은 6단지에 이어 두 번째다. 14단지는 목동지구 내 단지 중 규모가 가장 크다.&lt;br&gt;&lt;br&gt;이기재 양천구청장은 “연내 14개 단지 모두 정비구역 지정을 목표로 목동아파트 재건축을 추진하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“주 4일제 원하지만”...취준생들 반전 결과, 그 이유는</title>
+      <link>https://www.chosun.com/national/national_general/2025/03/07/ODYRMNSVONFEFN66X6IJ3SF654/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/03/07/ODYRMNSVONFEFN66X6IJ3SF654/</guid>
+      <dc:creator>정아임 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 07 Mar 2025 00:18:11 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IVURPDODKJNHLLRHAZRJSG5RAU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 동작구 노량진 학원가에서 한 청년이 취업 준비 학원 앞을 지나고 있다. 기사와 관련 없음./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;Z세대(1995~2009년 출생) 취업 준비생 절반 이상은 주4일제를 희망하지만, 연봉이 줄어들 때는 주5일제를 더 선호하는 것으로 조사됐다.&lt;br&gt;&lt;br&gt;7일 채용 플랫폼 진학사 캐치에 따르면 Z세대 취준생 1778명을 대상으로 설문조사를 진행한 결과 41%는 가장 선호하는 근무 형태로 ‘주4일제’를 꼽았다. 28%는 ‘유연근무제’를 선택했고 11%는 ‘선택적 근무제’를 지목했다. 이어 시차출퇴근제 10%, 탄력근무제 5% 등이 뒤를 이었다.&lt;br&gt;&lt;br&gt;다만 근무 일수에 따라 연봉이 책정될 땐 ‘주 5일 근무’를 선택하겠단 응답이 54%로 가장 많았다. 같은 조건에서 주 4일제를 꼽은 응답은 32%였다. 주 6일 근무를 하겠다는 응답도 14%로 적지 않았다.&lt;br&gt;&lt;br&gt;근무 일수를 유지·연장하겠다고 답한 응답자 중 61%는 ‘경제적 여유’를 위해 이같이 답한 것으로 나타났다. 21%는 ‘커리어 성장’을, 12%는 ‘장기적 미래 계획’을 이유로 꼽았다. ‘직무 몰입’을 이유로 꼽은 응답은 5%에 그쳤다.&lt;br&gt;&lt;br&gt;연봉이 줄더라도 근무 일수 단축을 선택한 응답자들의 경우 59%가 ‘워라밸’ 때문이라고 답했다. 이어 건강 유지 16%, 취미·운동 등 자기 계발 15%, 가족·친구와 보내는 시간 확보 9% 순이었다.&lt;br&gt;&lt;br&gt;김정현 진학사 캐치 부문장은 “Z세대에게 워라밸은 중요한 요소이지만 연봉이 줄어드는 것은 또 다른 문제”라며 “Z세대는 근무 시간 유연성 역시 중요하게 여기기 때문에 근무 시간 복지 도입을 고려할 때 유연근무제 등 현실적 대안을 시도해 보는 것도 방안”이라고 말했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>“어제도 먹었는데”…유명 햄버거‧떡볶이 브랜드까지 위생 불량 적발</title>
       <link>https://www.chosun.com/national/national_general/2025/03/07/JCI7TMUWHFBQHP42JAG2GWGIHI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/03/07/JCI7TMUWHFBQHP42JAG2GWGIHI/</guid>
@@ -818,15 +897,6 @@
       <content:encoded>▲&lt;b&gt;고려대&lt;/b&gt;▷교무부총장 겸 인재양성사업본부장 겸 차세대정보화추진단장 정순영▷연구부총장 윤성택▷문과대학장 이희경▷미디어대학장 겸 미디어대학원장 박지훈▷글로벌비즈니스대학장 겸 창업경영대학원장 겸 경상대학장 서리 겸 경영정보대학원장 서리 정규언▷공공정책대학장 전수영▷스마트보안학부장 김휘강▷미래교육원장 문정빈▷국제교류교육원장 김정학▷고대신문사 주간 신호정▷미래성장연구원장 김동수▷대외협력처장 전재욱▷학생복지처장 겸 대학일자리플러스센터장 이병희&lt;br&gt;&lt;br&gt;▲&lt;b&gt;경희사이버대&lt;/b&gt;▷글로벌·대외협력처장 안성식▷사무처장 장백기&lt;br&gt;&lt;br&gt;▲&lt;b&gt;서울여대&lt;/b&gt;▷학생상담센터장 송현주▷장애학생지원센터장 김보람▷바롬인성교육연구소장 남은영▷여성연구소장 이선희▷총무인사팀장 이기택&lt;br&gt;&lt;br&gt;▲&lt;b&gt;성신여대&lt;/b&gt;▷공과대학장 전용필▷생활산업대학장 문윤경▷미술대학장 김도식▷창의융합대학장 윤태진▷학교법인 성신학원 법인사무국장 겸 문화산업예술대학원장 이승기&lt;br&gt;&lt;br&gt;▲&lt;b&gt;한국외대&lt;/b&gt;▷글로벌미디어커뮤니케이션대학원장 정윤재▷미네르바대학장 김춘식▷대외협력처장 견진만▷법인사무처장 이유나&lt;br&gt;&lt;br&gt;▲&lt;b&gt;홍익대&lt;/b&gt;▷세종캠퍼스 부총장 윤구영▷미술대학원장·미술평생교육원장 이강욱▷과학기술대학장 김희산&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>신경호·정은미 ‘일진상’, 문일·유현준 ‘해동상’</title>
-      <link>https://www.chosun.com/national/people/2025/03/06/EO24TNS7CZC5BHN4US2QK5SNTM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/03/06/EO24TNS7CZC5BHN4US2QK5SNTM/</guid>
-      <dc:creator>김효인 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 05 Mar 2025 15:53:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TKG474JTU5DQHNBFYXMAFS4TKA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;(왼쪽부터)신경호, 정은미, 문일, 유현준&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한국공학한림원이 제21회 일진상 수상자로 신경호 대구경북과학기술원 연구부총장(산학협력 증진 부문)과 정은미 산업연구원 선임연구위원(기술정책 개발 부문)을 선정했다. 제20회 해동상 수상자로는 문일 연세대 교수(공학교육 혁신 부문)와 유현준 홍익대 교수(공학기술문화 확산 부문)를 선정했다. 각 수상자는 상패와 상금 2500만원을 받는다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[신문은 선생님] [재밌다, 이 책!] 무슬림은 왜 돼지를 불결하게 여길까… 농사 활용 못 하는 ‘사치품’ 같아서죠</title>
       <link>https://www.chosun.com/national/nie/2025/03/06/QIYSWR7FFRCQDOB3QAPPHDL7DA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/nie/2025/03/06/QIYSWR7FFRCQDOB3QAPPHDL7DA/</guid>
@@ -843,69 +913,6 @@
       <description/>
       <pubDate>Wed, 05 Mar 2025 15:50:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/22OVL2WY7NHDVKNWANZ6W4TNVA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문은 선생님] [기후와 날씨] 따뜻한 봄 시샘하듯 찾아오는 추위… 4월까지 이어지기도 해요</title>
-      <link>https://www.chosun.com/national/nie/2025/03/06/TKCYWGBGQFC5LHEQWDQXE4HHNU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2025/03/06/TKCYWGBGQFC5LHEQWDQXE4HHNU/</guid>
-      <dc:creator>장동언 기상청장</dc:creator>
-      <description/>
-      <pubDate>Wed, 05 Mar 2025 15:50:00 +0000</pubDate>
-      <content:encoded>봄이 왔나 싶었는데 다시 추운 날이 반복되고 있습니다. 4일엔 서울을 비롯한 전국 곳곳에 추운 날씨와 함께 많은 눈이 내리기도 했죠. 이처럼 따뜻한 봄을 시샘하듯 갑자기 찾아오는 추위를 ‘꽃샘추위’라고 해요. 막 꽃이 피려는 시기에 나타난다고 해서 붙여진 이름이랍니다. 꽃샘추위는 왜 생기는 걸까요?&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XVEBDYAVNVDPTAQJ7JVSOYIQGA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;꽃이 활짝 핀 4월인데 시민들이 두꺼운 옷차림을 하고 걷고 있어요. 봄이면 찾아오는 '꽃샘추위' 때문이에요. /김지호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;꽃샘추위는 한반도 북쪽의 차가운 공기가 갑자기 남하하면서 기온이 급격히 떨어지는 현상이에요. 3~4월에 발생하지요. 우리나라의 겨울철 기온은 북쪽의 ‘시베리아 고기압’의 영향을 많이 받는데요. 이 시베리아 고기압은 봄이 되면서 남쪽에서 불어오는 따뜻한 공기와 섞이며 점차 약해져요. 그런데 이 과정에서 일시적으로 대기 상층의 공기 흐름이 바뀌며 차가운 공기가 남쪽으로 강하게 흐를 때가 생깁니다. 이때 남하하는 찬 공기가 대기 하층의 시베리아 고기압을 강화시키며 일시적으로 추운 날씨를 발생하게 합니다.&lt;br&gt;&lt;br&gt;꽃샘추위는 매년 반복돼요. 작년에도 2월 한 달간 포근한 날씨가 이어지다 3월에 들어서면서 최저기온이 영하로 떨어지는 날이 있었어요. 이로 인해 농작물들은 냉해를 입고 감기에 걸리는 사람들도 많았지요. 특히 겨울에서 봄으로 넘어가는 시기엔 바람이 강하게 불어서 체감 온도가 낮게 떨어지는 경우도 많기 때문에 꽃샘추위가 기승을 부리는 이 시기엔 주의 깊게 날씨를 확인해야 합니다.&lt;br&gt;&lt;br&gt;3~4월엔 옷차림뿐 아니라 차를 타고 이동할 때에도 유의해야 해요. 꽃샘추위 때문에 밤사이 기온이 뚝 떨어지면서 도로 위에 살얼음이 생겨 미끄러울 수 있어요. ‘블랙 아이스’라고도 불리는 이 살얼음은 낮 동안 녹았던 눈이나 비가 밤사이 얼어붙으면서 얇고 투명한 얼음층으로 변한 것이랍니다. &lt;br&gt;&lt;br&gt;특히 그늘진 도로나 다리 위를 지날 때 조심해야 해요. 다리는 일반 도로와 달리 지열(땅에서 올라오는 열)의 영향을 받지 않아 살얼음이 잘 생기거든요. 살얼음은 눈에 잘 보이지 않을 뿐더러 브레이크를 밟아도 미끄러지기 쉽기 때문에 꼭 내비게이션과 도로 전광판을 통해 실시간 도로 살얼음 정보를 확인하세요.&lt;br&gt;&lt;br&gt;이와 반대로 여름에서 가을로 넘어가는 9~10월에 반짝 찾아오는 더위도 있어요. 이때 한 번씩 ‘가을 맞아?’라는 생각이 들 정도로 더운 날이 있죠. 이 시기엔 한반도 북쪽에서 서서히 찬 공기가 세력을 키우기 시작하는데요. 시간이 지나면서 기온은 점차 낮아지지만, 남쪽에서 활동하는 태풍이나 열대 저압부가 몰고 온 고온의 공기가 우리나라로 유입되는 경우가 있어 일시적으로 더운 날이 생긴답니다. 여기서 열대 저압부는 태풍으로 발달하지 못했거나 태풍에서 약화된 열대 저기압을 말해요. &lt;br&gt;&lt;br&gt;이렇듯 3~4월과 9~10월에는 북쪽의 찬 공기와 남쪽의 열기가 교차적으로 한반도에 영향을 주면서 기온 변동이 크게 나타나요. 평소보다 날씨 확인을 잘해야 하는 이유랍니다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문은 선생님] [뉴스 속의 한국사] 美 식민지 만든 굴욕 조약? 지금의 한국 있게 한 ‘기적의 동맹’</title>
-      <link>https://www.chosun.com/national/nie/2025/03/06/XG5JNWRUGVALFNXY3SZWE3S3XQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2025/03/06/XG5JNWRUGVALFNXY3SZWE3S3XQ/</guid>
-      <dc:creator>유석재 기자, 기획·구성=윤상진 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 05 Mar 2025 15:50:00 +0000</pubDate>
-      <content:encoded>지난달 28일(현지 시각) 미국 워싱턴DC에서 있었던 미국과 우크라이나의 정상회담 자리에서 도널드 트럼프 미국 대통령과 볼로디미르 젤렌스키 우크라이나 대통령이 언쟁을 벌인 뒤, 미국이 우크라이나에 대한 군사 지원을 중단했다는 뉴스가 나왔어요. 러시아와 전쟁 중인 우크라이나 입장에선 큰 위기를 맞은 것입니다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DRJAVNJ52BC4TKCJRW6ZZCNPOE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;1953년 부산 미 대사관 앞에서 휴전 반대 시위를 하는 여학생들. 피켓에는 '통일 아니면 죽음을 달라(give us unification or death)'라고 적혀 있어요. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;북한과 휴전 상태인 한국도 트럼프 2기 정부를 불안하게 보고 있지만 ‘우리는 우크라이나와 달리 미국과 동맹국’이라는 사실이 새삼 주목받고 있어요. ‘한미 동맹’이라는 것은 1953년 체결되고 1954년 발효된 ‘한미상호방위조약’에서 비롯된 것입니다.&lt;br&gt;&lt;br&gt;&lt;b&gt;자유를 되찾은 2만7000명 포로들&lt;/b&gt;&lt;br&gt;&lt;br&gt;6·25 전쟁 중이던 1953년 6월 18일 새벽, 유엔군이 경비하고 있던 부산·대구·광주·마산 등 포로 수용소에서 갑자기 철조망이 뚫렸습니다. 그 사이로 포로들이 우르르 쏟아져 나왔어요. 북한으로 돌아가기를 원치 않는 ‘반공(反共·공산주의에 반대함) 포로’들이었습니다. 이들을 구출하고 나선 사람들은 국군 헌병대였죠. 깜짝 놀란 유엔군은 탱크와 헬리콥터까지 동원해 수색에 나섰지만, 수용소 주변의 주민들은 탈출한 포로들을 숨기고 옷을 갈아입혀 줬습니다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RBBJBNEWURFYFKYOC6YALGRLOE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;1953년 석방된 반공포로들이 태극기와 이승만 대통령의 초상화를 들고 행진하고 있어요. /기파랑&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘난데없는 대탈주극’ 모양새가 된 반공 포로 석방으로 인해 3만5000여 명의 반공 포로 중에서 약 2만7000명이 자유를 되찾았습니다. 탈출 과정에서 유엔군의 총탄에 맞아 안타깝게 희생된 사람은 60명이 넘었습니다. 이승만 대통령이 비밀리에 이들을 풀어주라고 지시를 내려 전격적인 석방을 단행했던 거예요. 왜 그런 일을 벌였던 것일까요? ‘공산주의를 싫어하는 북한군 포로는 엄연한 대한민국 국민’이라는 인도주의적 입장도 물론 있었죠. 하지만 그게 전부는 아니었습니다.&lt;br&gt;&lt;br&gt;1953년의 세계 정세는 급격히 바뀌고 있었습니다. 그해 1월에는 6·25 전쟁을 빨리 끝내겠다는 공약을 내건 아이젠하워가 미국 대통령에 취임했고, 3월엔 소련의 독재자 스탈린이 사망했습니다. 소련 정부는 전쟁을 끝내겠다는 결정을 내렸어요. 이제 본격적인 정전(일시적으로 전쟁을 중단함) 협상이 재개됐지만, 이 대통령은 4월 9일 휴전을 반대하고 한국 단독으로 북진(북쪽으로 진격)하겠다는 성명을 발표했습니다. ‘전쟁 당사자인 한국의 의견이 무시되고 있다’고 생각한 많은 국민이 대규모 휴전 반대 시위에 나섰습니다. 바로 이런 상황에서 반공 포로 석방이 이뤄졌던 거예요.&lt;br&gt;&lt;br&gt;&lt;b&gt;‘휴전하려면 한국의 안전 보장’ 요구&lt;/b&gt;&lt;br&gt;&lt;br&gt;당시 이승만 대통령은 6·25 전쟁이 반드시 북한 공산당을 격멸하는 ‘북진 통일’로 끝나야 한다고 생각했습니다. 하지만 휴전이 이뤄진다면 어떻게 될까요? 북한군은 물론 대규모 중공군 병력이 남아있는 상황에서, 언제 또다시 한반도가 전쟁에 휩싸일지 모르는 불안한 형국이 되는 것입니다. 미군을 한반도에 붙잡아 두고 안보를 보장받는 ‘조약’ 수준의 확약을 받아야 했던 것이죠.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G26UEM4YG5DVZHFCRAH4CLVWYI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;1953년 6월 한국을 찾은 로버트슨(왼쪽) 미 국무부 차관보와 이승만 대통령의 회담 장면. 18일 동안의 회담 끝에 이승만 대통령은 한미상호방위조약 체결을 약속받았어요. /국가기록원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;따라서 반공 포로 석방은 미국에 대한 외교적 압박이기도 했습니다. 미국은 큰 충격을 받았고, 한때 이 대통령을 암살하거나 정치적으로 축출하려는 ‘에버레디 계획’까지 세웠습니다. 하지만 미국은 ‘이승만은 반미주의자가 아니고, 그가 원하는 조약을 맺음으로써 단독 행동을 하지 못하도록 달래는 것이 공산주의 확산을 막으려는 미국의 국익에도 도움이 된다’는 쪽으로 결론을 내리게 됐습니다. 당시 이승만 대통령은 미국이 이런 결정을 내릴 수밖에 없으리라고 판단했던 것이라는 분석이 나옵니다.&lt;br&gt;&lt;br&gt;반공 포로 석방 1주일이 지난 1953년 6월 25일, 미국 특사인 로버트슨 미 국무부 차관보가 방한했습니다. 그는 18일 동안 이 대통령과 회담했는데 요약하자면 ‘당신 요구를 받아들일 테니 휴전 협정을 방해하지 말아 달라’는 것이었죠. 이 대통령은 여기서 마침내 한미상호방위조약 체결과 장기간의 경제 원조, 한국군을 20개 사단으로 증강시킬 것 등의 약속을 받아냈습니다.&lt;br&gt;&lt;br&gt;&lt;b&gt;지난 70년 동안 한국을 번영하게 한 동맹&lt;/b&gt;&lt;br&gt;&lt;br&gt;이승만·로버트슨 회담 직후인 7월 27일, 유엔군과 공산군 대표 사이에 정전 협정이 조인돼 전쟁이 멈췄습니다. 두 달 남짓 지난 10월 1일(현지 시각), 미국 워싱턴에서 변영태 외무부 장관과 덜레스 미 국무장관이 한미상호방위조약 문서에 정식 서명을 했습니다. 이 조약은 1954년 11월 18일부터 발효됐습니다. 이승만 대통령은 “앞으로 이 조약이 우리를 번영케 할 것이며, 우리 후손들이 여러 세대에 걸쳐 혜택을 받게 될 것이다”라고 말했습니다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MRAA52C4P5BUTBTJRC2CRCPWTQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;1953년 10월 1일 미국 워싱턴에서 덜레스(왼쪽) 미 국무 장관과 변영태 외무 장관이 한미상호방위조약 문서에 서명하는 모습. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;조약의 제2조는 ‘당사국(한미) 중 어느 1국의 정치적 독립 또는 안전이 외부로부터의 무력 공격에 의하여 위협을 받고 있다고 어느 당사국이든지 인정할 때에는…(중략) 단독적으로나 공동으로나 자조(自助)와 상호 원조에 의하여 무력 공격을 저지하기 위한 적절한 수단을 지속 강화시킬 것’이라고 했습니다. 북한이 다시 무력 남침을 할 경우 미군이 개입하게 된다는 의미죠. 한반도에서 전쟁이 재발할 위험에 대한 확실한 대비책이었습니다. 이 조약으로 미군이 한반도에 주둔하게 됐고, 한미 관계는 동맹 수준으로 격상됐습니다.&lt;br&gt;&lt;br&gt;1980년대 대학가 운동권은 한미상호방위조약에 대해 ‘외국군을 주둔시켜 남한을 식민지나 다름없게 만든 굴욕적 조약’이라고 비판하기도 했습니다. 하지만 세월이 지난 지금은 다른 평가를 받고 있습니다. 이승만 대통령의 신념과 결단에 의해 이뤄진 이 조약은 6·25 이후 70년 넘게 한반도에 평화가 유지되게 한 기본적인 요인이었고, 산업도 자원도 없는 한국이 세계 최강대국을 상대로 얻어낸 ‘기적의 동맹’이었다는 것입니다.&lt;br&gt;&lt;br&gt;또 하나 중요한 점이 있습니다. 휴전 중인 대한민국이 국방비에 과도한 자원을 들이는 대신, 그 비용을 경제 발전에 투자할 수 있게 한 열쇠가 바로 한미상호방위조약이었다는 것입니다. 요컨대 한미상호방위조약은 훗날 한국이 산업화와 민주화로 진입할 수 있었던 기반인 동시에, 북한을 포함한 공산주의 세력의 무력 공격 충동을 억제함으로써 한국의 안보와 생존을 확보하는 데 큰 역할을 했다고 평가할 수 있습니다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[스피킹이 강해지는 영어] hooked on</title>
-      <link>https://www.chosun.com/national/nie/english/2025/03/06/BVFKPX7QJZA4XN5YDK2EY2HSHQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/english/2025/03/06/BVFKPX7QJZA4XN5YDK2EY2HSHQ/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 05 Mar 2025 15:33:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/N6QSWNJBNZBFBO4PIHDWAVVUMQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[두근두근 뇌 운동] [2574] 날짜 계산기</title>
-      <link>https://www.chosun.com/national/nie/2025/03/06/2NHV4C3RXJBSNCRVDMQ62AAGXM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2025/03/06/2NHV4C3RXJBSNCRVDMQ62AAGXM/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 05 Mar 2025 15:33:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AZDAQHFUYBAR3MO76AYEJOR4GY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[입에 착착 붙는 일본어] 화술이 뛰어나다</title>
-      <link>https://www.chosun.com/national/nie/japanese/2025/03/06/R726CACVRFAMPC2EQKLPQW53U4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/japanese/2025/03/06/R726CACVRFAMPC2EQKLPQW53U4/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 05 Mar 2025 15:33:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YGZV5DP2AZFGRLB3762KU6U47A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[매일매일 중국어 한마디] 딱 걸리다, 현장에서 잡히다</title>
-      <link>https://www.chosun.com/national/nie/chinese/2025/03/06/RRMLUMNE4RHATKIL5KXPP3KCY4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese/2025/03/06/RRMLUMNE4RHATKIL5KXPP3KCY4/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 05 Mar 2025 15:33:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/53OYXGZDOZBZDCKHXNYJIE3UWM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문으로 배우는 실용한자] 관인(官印)</title>
-      <link>https://www.chosun.com/national/nie/chinese_character/2025/03/06/TDW3EL3EGRDPHEQSPVTNVROCMA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese_character/2025/03/06/TDW3EL3EGRDPHEQSPVTNVROCMA/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 05 Mar 2025 15:33:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7JWKZE5D3VBK5EPDJCJ6QK64DY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>부처간 이견에 5년 허비, 고속道 모든 구간 자율차 시범운행</title>
