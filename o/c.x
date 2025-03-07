@@ -13,6 +13,70 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>법원, 尹대통령 구속 취소하며 김재규 재심 결정 언급…왜?</title>
+      <link>https://www.chosun.com/national/national_general/2025/03/07/WN23MNYHJRHYTFVWH5TN3S4HQM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/03/07/WN23MNYHJRHYTFVWH5TN3S4HQM/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 07 Mar 2025 09:09:21 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RFI4TIXWQVUHOGQFLGPATE2TGQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령이 지난달 20일 오후 서울 종로구 헌법재판소 대심판정에서 열린 탄핵심판 10차 변론 기일에 출석해 생각에 잠겨 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;법원이 7일 내란 우두머리 혐의로 구속 기소된 윤석열 대통령에 대한 구속을 취소하라고 결정하면서 ‘김재규 전 중앙정보부장에 대한 재심 개시 결정’ 사례를 언급했다. &lt;br&gt;&lt;br&gt;서울중앙지법 형사25부(재판장 지귀연)는 이날 윤 대통령 측이 청구한 구속 취소를 받아들였다. 구속 취소는 법이 정한 피고인 석방 제도 중 하나로, 구속 사유가 없거나 소멸된 때 구속을 취소하는 것이다. 재판부는 윤 대통령의 구속 기한이 만료된 상태에서 위법하게 기소된 것으로 봐야 한다고 판단했다.&lt;br&gt;&lt;br&gt;재판부는 또 설령 구속 기간이 만료되지 않은 상태에서 공소가 제기된 것이라 하더라도, 구속 취소의 사유가 인정된다고 판단했다. &lt;br&gt;&lt;br&gt;윤 대통령 측은 “공수처법상 공수처의 수사 범위에 내란죄가 포함돼 있지 않다”며 “공수처가 직권남용권리행사방해죄의 수사 과정에서 내란죄를 인지했다고 볼 만한 증거나 자료가 없다”고 주장했다. 또 공수처와 검찰청은 독립된 수사기관이지만 법률상 근거 없이 구속 기간을 서로 협의해 나눠 사용한 것과 사건을 넘길 때 신병 인치 절차를 거치지 않은 것도 절차적인 문제라고 했다. &lt;br&gt;&lt;br&gt;이에 대해 재판부는 “윤 대통령 측이 주장하는 구속 취소 이유와 관련 공수처법 등 관련 법령에 명확한 규정이 없다”며 “절차의 명확성을 기하고 수사 과정에서 적법성에 관한 의문의 여지를 해소하는 것이 바람직하므로 구속 취소 결정을 하는 것이 상당하다”고 했다. &lt;br&gt;&lt;br&gt;또 “만약 이러한 논란을 그대로 두고 형사재판 절차를 진행하는 경우 상급심에서의 파기 사유가 됨은 물론, 한참 시간이 지난 후에도 재심 사유가 될 수 있다”며 최근 재심이 결정된 ‘김재규 사건’을 예로 들었다. &lt;br&gt;&lt;br&gt;서울고법 형사7부(재판장 이재권)는 지난달 19일 박정희 전 대통령을 살해해 사형당한 김재규 전 중앙정보부장에 대한 수사와 재판이 위법하게 진행됐다는 취지로 재심 개시 결정을 했다. 당시 법조계에서도 “비상계엄을 선포한 윤석열 대통령에 대한 내란죄 형사재판, 탄핵심판 등이 진행되는 상황에서 미묘한 결정이 나왔다”는 반응이 나왔었다.&lt;br&gt;&lt;br&gt;김재규는 1979년 10월 26일 궁정동 안가에서 박정희 전 대통령을 시해하고, 이듬해 5월 24일 사형됐다. 김재규에게 적용된 혐의는 ‘내란목적 살인’ ‘내란수괴 미수’ 2가지였다. &lt;br&gt;&lt;br&gt;김재규의 재심 사건 변호인들은 “이 사건 수사 과정에서 있었던 가혹 행위에 대한 증언이 나왔고, 공판 녹취록과 공판조서가 상당 부분 차이가 있다”면서 “위헌적이고 위법한 수사와 공소 제기, 재판 과정에 대한 사법적 판단을 할 수 있다”고 했다. 김재규 측은 10·26 사건과 김재규에 대한 역사적 재평가가 필요하다고도 주장했다.&lt;br&gt;&lt;br&gt;이에 대해 재판부는 “계엄사령부 소속 수사관들이 김재규를 사건으로 수사하면서 수일간 구타와 전기 고문 등의 폭행과 가혹 행위를 한 것이 인정된다”며 “수사에 관여한 사법경찰관이 그 직무에 관한 죄를 범한 것이 증명되었음에도 그 범죄에 대한 공소시효가 완성돼 확정 판결을 받을 수 없는 때에 해당해 형사소송법이 정한 재심 사유가 있다”고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/FHAWELLQNJHNRCTXHYHHHMTWIE.jpg?width=594&amp;height=403&amp;auth=3844758221f4191fabcc0c4e1fb11088bbcaaa0fcc0870ca8eeb778c5008e1ed&amp;smart=true" type="image/jpeg" height="403" width="594">
+        <media:description type="plain">1979년 12월 김재규(가운데) 전 중앙정보부장이 재판을 받기 위해 법정에 출석한 모습. /조선일보 DB</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>배우 박민영, 모교 동국대에 5000만원 기부 “후배들 등록금 걱정 없길”</title>
+      <link>https://www.chosun.com/national/national_general/2025/03/07/7IIC2CHT7NGETN4UCZ4E5CGWB4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/03/07/7IIC2CHT7NGETN4UCZ4E5CGWB4/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 07 Mar 2025 09:16:46 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4IX4CVBLVMFUZGPEAVFJOBYPLQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;배우 박민영이 동국대 기부금 전달식에 참석한 모습. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;배우 박민영이 모교인 동국대에 ‘연극학부 장학기금 및 동국 건학 장학기금’ 5000만원을 기부했다.&lt;br&gt;&lt;br&gt;박민영은 7일 동국대 서울캠퍼스 본관에서 열린 기부금 전달식에서 “후배들이 등록금 걱정에서 조금이나마 벗어나 공부에 매진할 수 있도록 기부금을 써달라”며 “후배들의 꿈에 작은 보탬이라도 될 수 있다면 영광”이라고 말했다.&lt;br&gt;&lt;br&gt;이어 “배우로 활동하며 동국대학교 출신임이 항상 자랑스러웠다”며 “앞으로도 학교가 필요로 하는 일이라면 언제든 최선을 다해 돕고 싶다”고 했다.&lt;br&gt;&lt;br&gt;동국대 연극학부 04학번인 박민영은 2016년 개교 110주년 기념 홍보대사에 위촉되기도 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/7LVDEEQAIVCIJFJ5EH4GHGBUXI.jpg?width=525&amp;height=295&amp;auth=dcddf886f6fa4b4eca0d30d14c4019a386e473c1b2ae58a1a6e320a29afc3c4f&amp;smart=true" type="image/jpeg" height="295" width="525">
+        <media:description type="plain">동국대 박민영 배우 기부식</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>한국인 인기 관광지인데…국내 홍역 환자 72% ‘이곳’ 방문 이력 </title>
+      <link>https://www.chosun.com/national/national_general/2025/03/07/ISWKJ2JINVF5PBPJDVZRFI2Y4I/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/03/07/ISWKJ2JINVF5PBPJDVZRFI2Y4I/</guid>
+      <dc:creator>최혜승 기자 </dc:creator>
+      <description/>
+      <pubDate>Fri, 07 Mar 2025 08:36:04 +0000</pubDate>
+      <content:encoded>최근 국내 홍역 환자의 72%는 베트남 방문 이력이 있는 것으로 나타났다. 질병관리청은 해외 방문 전에는 백신 접종을 해달라고 당부했다. &lt;br&gt;&lt;br&gt;7일 질병청에 따르면, 국내 홍역 환자는 작년 49명, 올해는 전날 기준 16명 발생했다. 모두 해외여행을 다녀오거나 국내에서 환자와 접촉해 감염된 사례다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VHPEWUSZNZH2LIK4PIQUK4G7HQ.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=조선디자인랩 김영재&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;특히 작년 12월부터 이달 6일까지 발생한 홍역 환자 18명 중 13명(72%)은 베트남을 다녀온 것으로 확인됐다. 13명 중 1명을 제외하고 모두 홍역 백신 접종력을 모르거나 접종한 적이 없는 이들이었다. 유일한 백신 2회 접종자는 지난 1월 1주 미만으로 다낭을 다녀온 20대였다.&lt;br&gt;&lt;br&gt;이들의 연령은 0세부터 50대까지 다양했다. 1차 홍역 백신 접종 시기(생후 12~15개월) 이전의 영유아(생후 7~13개월)도 4명 포함됐다. 홍역 환자들의 베트남 체류 기간은 최소 5일에서 최대 1.5개월이었다. 이들은 귀국 후 발열을 동반한 기침, 콧물 등의 증상을 보이다가 발진이 발생했다.&lt;br&gt;&lt;br&gt;세계보건기구(WHO)에 따르면 전 세계적으로 홍역이 유행하고 있다. 작년 기준 전 세계 홍역 환자 수는 약 33만명으로, 2023년(약 32만명)과 2022년(약 17만명)에 비해 늘었다. 홍역 환자는 유럽, 중동, 아프리카 순으로 많고 한국인들이 많이 찾는 동남아시아와 서태평양 지역에서도 다수 발생하고 있다. &lt;br&gt;&lt;br&gt;작년 베트남의 홍역 환자 수는 2105명이다. 공식 홍역 환자 수가 가장 많은 국가는 아니지만, 국내 여행객이 많아 베트남 방문 이력을 가진 감염 환자가 꾸준히 보고되는 것으로 질병청은 추정하고 있다. &lt;br&gt;&lt;br&gt;홍역은 기침 또는 재채기를 통해 공기로 전파되는 전염성이 매우 강한 호흡기 감염병이다. 감염 시 발열·발진·구강 내 회백색 반점 등이 나타난다. 홍역에 대한 면역이 불충분한 사람이 환자와 접촉하면 90% 이상의 확률로 감염될 수 있다.&lt;br&gt;&lt;br&gt;지영미 질병청장은 “전 세계적으로 홍역이 유행하고 있는 만큼 여행 전 홍역 백신을 2회 모두 접종했는지 확인하고, 접종을 완료하지 못한 경우 출국 최소 6주 전부터 2회 접종을 완료해야 한다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/2FSRSPMZXFGSHMG6PQOHVKYME4.png?width=384&amp;height=288&amp;auth=7a1dca1052a2792b914ca54626858da2de3d0a9e739407d065c2b36af57be649&amp;smart=true" type="image/png" height="288" width="384">
+        <media:description type="plain">그래픽=조선디자인랩 김영재</media:description>
+        <media:credit role="author" scheme="urn:ebu"/>
+      </media:content>
+    </item>
+    <item>
+      <title>‘명태균 여론조사비 대납의혹’…대구시 임기제 공무원  사직서 제출</title>
+      <link>https://www.chosun.com/national/regional/2025/03/07/UOQYKIFDRRGL5NWIFAZGLSUPMQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/03/07/UOQYKIFDRRGL5NWIFAZGLSUPMQ/</guid>
+      <dc:creator>대구=노인호 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 07 Mar 2025 09:01:57 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/R2ZLJELYV7ZBD5MRCHJZMDHQCE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;창원지방검찰청으로 출석하며 취재진 질문에 답하고 있는 명태균씨/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘명태균 여론조사비 대납 의혹’을 받는 대구시 임기제 공무원 A씨가 7일 사직서를 제출했다. &lt;br&gt;&lt;br&gt;대구시는 이날 “A씨가 사직서를 제출했으며, 검찰 조사가 시작되면 언제라도 출석해 적극 해명하겠다는 뜻을 전했다”고 밝혔다.&lt;br&gt;&lt;br&gt;대구시 등에 따르면, 5급 상당 별정직으로 채용돼 최근까지 대구시 서울본부에서 일한 A씨는 2022년 대구시장 선거를 앞두고 명씨가 실질적으로 운영한 여론조사업체에 여론조사비 4370만 원을 대납한 의혹을 받고 있다.&lt;br&gt;&lt;br&gt;또 여론조사 비용 대납을 대가로 대구시 공무원에 채용된 의혹으로 홍준표 대구시장과 함께 검찰에 고발됐다. &lt;br&gt;&lt;br&gt;하지만, A씨는 “사인 간 거래일 뿐”이라며 여론조사 대납에 대해서는 선을 그었다. &lt;br&gt;&lt;br&gt;A씨는 최근 본지와의 통화에서 “사업상 채무가 있던 지인이 제3자의 계좌로 상환해줄 것을 요구해 한 차례 200만~300만원가량씩 수차례에 걸쳐 갚은 것뿐”이라며 “연구소나 여론조사 기관 등이 아니라 개인 명의 계좌라 이상하게 생각하지 않았다”고 해명했다. &lt;br&gt;&lt;br&gt;홍 시장 측도 “(2022년 대구시장 선거 당시) 홍준표 캠프와는 전혀 상관이 없고, (캠프에서) 명태균에게 여론조사를 의뢰한 사실도 없다”고 설명했다. 또 A씨를 서울본부에 채용한 것에 대해서는 “국회의원 비서관 출신이어서 원활한 국회 대응 차원에서 뽑은 것”이라고 밝혔다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>최상목, 오폭 사고에 “군 통수권자로서 송구… 軍, 재발 방지 대책 마련하라”</title>
+      <link>https://www.chosun.com/politics/goverment/2025/03/07/HQFKDUWVG5HXRL2KLJT3ZQCQ54/</link>
+      <guid isPermaLink="true">https://www.chosun.com/politics/goverment/2025/03/07/HQFKDUWVG5HXRL2KLJT3ZQCQ54/</guid>
+      <dc:creator>김경필 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 07 Mar 2025 08:23:12 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NKQJX35X3NMERPABHD3233NP2E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;7일 경기 포천시 이동면 노곡리에 지난 6일 공군 전투기의 오폭을 당한 건물과 화물차가 부서진 채로 방치돼 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최상목 대통령 권한대행 부총리 겸 기획재정부 장관은 7일 전날 공군 전투기 2대가 민가와 군부대를 오폭해 15명이 중경상을 입은 사고와 관련해 군에 “국민들이 불안해하시는 일이 없도록 재발 방지 대책을 마련하라”고 지시했다.&lt;br&gt;&lt;br&gt;기획재정부에 따르면, 최 대행은 7일 전날 경기 포천시에서 일어난 공군 KF-16 전투기 오폭 사고의 상세한 경위와 후속 조치에 관해 국방부 사고대책본부의 보고를 받고, “군 통수권자로서, 군사훈련 중 발생한 사고의 피해자 분들께 심심한 위로와 송구한 마음을 전한다”고 했다.&lt;br&gt;&lt;br&gt;최 대행은 이어서 군에 “철저한 조사를 통해 사고 원인을 명확히 규명하고, 그 결과에 따라 관련자에게 엄중하게 책임을 물으라”고 지시했다. 또 “피해자들에 대한 치료와 진료를 적극 지원하고, 신속하게 피해를 보상하며, 피해 시설을 조기에 복구하라”고 했다.&lt;br&gt;&lt;br&gt;최 대행은 “훈련 전 과정을 원점에서부터 면밀히 분석해, 향후 유사 사고를 근원적으로 차단할 수 있는 특단의 대책을 강구하라”고도 강조했다.&lt;br&gt;&lt;br&gt;지난 6일 경기 포천시 승진과학화훈련장 일대에서 진행된 통합 화력 실사격 훈련에 참여한 공군 KF-16 전투기 2대가 공대지 폭탄 MK-82 8발을 잘못 투하했다. 폭탄들은 타격 목표 지점에서 약 8㎞ 벗어난 지역에 떨어졌고, 민간인 10명과 군인 5명이 다쳤다. 주택 5채와 창고 1동, 군 성당 1동, 비닐하우스 1동, 1톤 화물차 1대 등이 파손됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[단독] 서울대 제9대 이사장에 최창원 SK수펙스추구협의회 의장</title>
+      <link>https://www.chosun.com/national/national_general/2025/03/07/NPJFYJY6CVBZZHHVBOASVI4YJU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/03/07/NPJFYJY6CVBZZHHVBOASVI4YJU/</guid>
+      <dc:creator>강지은 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 07 Mar 2025 08:40:35 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KYUX6453LVA5PK7B3EEVQ2SFBE.jpg"&gt;&lt;br&gt;&lt;br&gt;최창원(61) SK수펙스추구협의회 의장이 서울대 신임 이사장으로 선출됐다. 서울대 이사회는 지난달 회의를 열고 전원 찬성으로 최 의장을 신임 이사장으로 선출했다고 7일 밝혔다. 임기는 내년 1월 21일까지다. 서울대는 이사장 임기를 별도로 규정하지 않고, 이사장으로 선출된 이사가 이사 임기동안 이사장을 맡는다. 최 의장은 작년 1월 22일부터 이사를 지내고 있다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>尹 구속 취소에 지지자들 한남동 관저로 집결… 경찰, 기동대 1100명 투입</title>
       <link>https://www.chosun.com/national/national_general/2025/03/07/QNW3HUIGQ5FGJFGORSNJDM6QWM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/03/07/QNW3HUIGQ5FGJFGORSNJDM6QWM/</guid>
@@ -852,24 +916,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UYF7YZ7CRZK5LHSUYRNOFSHEQE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;6일 인천시청 중앙홀에 마련된 천원주택 입주자 신청 접수처에서 시민들이 신청 접수를 위해 대기하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“천원주택에 꼭 입주했으면 합니다.”&lt;br&gt;&lt;br&gt;6일 인천시청 중앙홀에 마련된 천원주택 입주자 신청 접수처는 이른 아침부터 많은 시민들로 가득 찼다. 유모차에 아이를 태우고 온 부부, 임신한 부인과 함께 온 남편 등 비교적 젊은 시민들을 쉽게 찾아볼 수 있었다. 접수가 이날 오전 10시부터 시작됐는데, 이미 대기표가 140번까지 발행됐다. &lt;br&gt;&lt;br&gt;접수처를 찾은 시민들은 신청인, 신청 대상, 신청 순위, 소득‧자산현황 등을 적어야 하는 입주 신청서를 비롯한 신청서류를 꼼꼼히 챙겨 자신의 접수 순서를 기다렸다. &lt;br&gt;&lt;br&gt;생후 3개월 된 아이와 함께 이곳을 찾은 이모(여‧33)씨는 “한달에 3만원 정도만 내면 살 수 있다고 하는 부분이 천원주택의 가장 큰 매력”이라며 “지금은 18평 LH 전세임대주택에 살고 있는데, 주거비 부담도 줄고 더 넓은 집에서 생활할 수 있을 것 같아 신청하게 됐다. 꼭 선정됐으면 좋겠다”고 했다. &lt;br&gt;&lt;br&gt;7월 출산을 앞두고 예비 남편과 함께 현장을 찾은 김모(여‧35)씨는 “전세보증금을 돌려받지 못해 어려움을 겪고 있다”며 “지자체가 추진하는 일인 만큼, 적어도 전세사기 걱정은 없지 않겠나”라고 했다. 이어 “결혼식은 아이를 낳은 뒤에 할 생각이지만, 혼인신고는 천원주택 입주자로 선정되기 위해 조만간 할 예정”이라며 “생각보다 신청하는 사람들이 너무 많아 선정될지 걱정된다”고 했다. &lt;br&gt;&lt;br&gt;천원주택은 보증금 2500만~3000만원에 월세 3만원(하루 1000원꼴)을 내고 최대 6년까지 거주할 수 있는 임대주택이다. 혼인신고일 기준 7년 이내 신혼부부와 예비 신혼부부, 한부모 가정 등이 신청 대상이다. &lt;br&gt;&lt;br&gt;신생아를 둔 가구는 1순위이고, 자녀가 있는 신혼부부와 예비신혼부부는 2순위, 자녀가 없는 신혼부부와 예비신혼부부는 3순위다. 저소득층일수록, 자녀 수가 많을수록, 청약저축 납입 횟수가 많을수록 선정에 유리하다. &lt;br&gt;&lt;br&gt;인천시는 이번 입주자 모집을 통해 500호를 공급할 예정이다. 입주자 모집은 오는 14일까지 이뤄진다. &lt;br&gt;&lt;br&gt;천원주택 입주자 선정 결과는 오는 6월 5일 발표되고, 입주는 6월 말부터 진행될 것으로 예상된다. &lt;br&gt;&lt;br&gt;인천시 관계자는 “지난 달 모집 공고가 나간 이후 전화 문의만 2800여건에 달하고, 공고문 클릭 건수가 11만5000여건이나 되는 등 많은 분들이 천원주택에 대해 관심을 갖고 있다”며 “경쟁률이 높을 것으로 예상한다”고 말했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GPXHWJOGDNKCDBIQQRZTYG73AM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한 예비 신혼부부가 6일 오전 인천 미추홀구에 있는 천원주택을 찾아 내부 시설을 살펴보고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;유정복 인천시장은 이날 사전 모집 절차를 거쳐 선정된 예비 신혼부부 5쌍과 함께 미추홀구 도화동에 마련된 천원주택 현장을 찾아 구조와 시설 등에 대한 의견을 나눴다. &lt;br&gt;&lt;br&gt;현장을 찾은 예비 신혼부부 최모(26)씨는 “한사람 한달 주거비용이 70만~130만원 정도인데, 두명이 매달 3만원 정도만 내면 된다는 건 큰 메리트”라며 “주차대수가 살짝 부족한 점이 아쉽지만, 걸어서 3분 거리에 지하철도 있고, 주변 상권도 나쁘지 않은 것 같다”고 했다. 이어 “6년동안 천원주택에 살면서 모은 돈으로 훗날 집을 마련하고 싶다”고 말했다. &lt;br&gt;&lt;br&gt;유 시장은 “천원주택이 신혼부부들이 자녀를 낳고 행복하게 양육하는 토대가 되길 바란다”며 “실효성 있는 주거정책을 추진해 시민들이 안정적으로 생활할 수 있게 하겠다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>식욕 억제제, ADHD 치료제 투약 전 이력 조회 의무화… 신종 합성 마약도 단속</title>
-      <link>https://www.chosun.com/politics/goverment/2025/03/06/VPBMNVH7ANDJJODLVOMW4YXZEA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/politics/goverment/2025/03/06/VPBMNVH7ANDJJODLVOMW4YXZEA/</guid>
-      <dc:creator>김경필 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 06 Mar 2025 07:32:07 +0000</pubDate>
-      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PQVEOZ5YRFNP5GIQZAYDI5TRBI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;최상목 대통령 권한대행 부총리 겸 기획재정부 장관이 6일 오후 서울 서대문구 경찰청에서 민생 범죄 점검 회의를 주재하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정부가 한국에 마약을 주로 보내는 국가에 수사관을 보내 현지에서 마약 단속에 나서기로 했다. 또 직접적인 마약뿐 아니라 합성을 통해 마약이 될 수 있는 재료 물질의 유입까지 단속하기로 했다. 의사는 환자에게 ADHD(주의력 결핍 과잉 행동 장애) 치료제나 식욕 억제제를 처방하기 전에 환자의 관련 투약 이력을 확인할 수 있게 된다.&lt;br&gt;&lt;br&gt;정부는 6일 최상목 대통령 권한대행 주재로 민생 범죄 점검 회의를 열고 이런 내용을 담은 ‘2025년도 마약류 관리 시행 계획’을 채택했다. 올 초 정부가 마약류 단속을 위해 마련한 5년짜리 계획인 ‘제1차 마약류 관리 기본 계획’의 세부 계획이다.&lt;br&gt;&lt;br&gt;정부는 올해부터 연 2회씩 범정부적으로 마약 특별 단속을 벌이기로 했다. 또 마약이 주로 태국·베트남·말레이시아 3국을 통해 들어오고 있다고 보고, 3국에 수사관을 파견해 현지 수사 기관과 공조 수사를 하기로 했다. 또 미국 및 아시아 각국과 함께 국제적인 마약 밀수 조직 소탕 작전을 벌이기로 했다. 수사관이 마약 판매자나 구매자로 위장해 수사할 수 있게 하는 제도를 올해 안으로 완비하고, 수사관들에게 휴대용 디지털 포렌식 장비를 보급해 단속 현장에서 입수한 마약사범의 휴대전화 등을 즉석에서 분석할 수 있게 할 계획이다.&lt;br&gt;&lt;br&gt;정부는 또 의료 단체와의 협의를 거쳐, 의사가 환자에게 처방하기 전에 관련 투약 이력을 확인할 있는 약물의 종류를 펜타닐에서 ADHD 치료제와 식욕 억제제로 확대하기로 했다. 의사에게 펜타닐 처방 전에 환자의 투약 이력을 의무적으로 확인하게 했더니, 펜타닐 처방이 14% 감소한 것으로 나타났기 때문이다. 환자들이 직접 자신의 마약류 투약 이력을 온라인으로 확인해볼 수 있게 하는 서비스도 올해 안으로 구축한다.&lt;br&gt;&lt;br&gt;정부는 또 기존 마약 외에 신종 합성 마약이 계속해서 생겨나고 있다고 보고, 조기 대응 체계를 갖추기로 했다. 신종 합성 마약이 등장했다는 정보가 들어오면, 식품의약품안전처가 곧바로 관련 물질을 통제 물질로 지정해 관리하기로 했다. 현재는 신종 합성 마약 물질 발견에서 통제까지 약 40일이 걸리는데 이를 대폭 단축하겠다는 것이다.&lt;br&gt;&lt;br&gt;또 전국의 마약 중독 상담 센터인 ‘함께한걸음센터’가 소년원과 교정시설, 청소년쉼터를 방문해 상담을 통해 마약 중독자들을 선별해내기로 했다. 보호관찰 대상자에 대한 불시 약물 검사도 강화된다. 의료진의 마약 중독 환자 치료에 대한 건강보험 수가 인상도 추진된다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘미스터트롯3’ 최재명, 장수군 홍보대사 됐다 </title>
-      <link>https://www.chosun.com/national/regional/2025/03/06/TIA3MDQIBBE7RHQXMFCHZQBIPM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/03/06/TIA3MDQIBBE7RHQXMFCHZQBIPM/</guid>
-      <dc:creator>장수=김정엽 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 06 Mar 2025 07:23:03 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VPBUGQS6FTT43JASP5E6WBLE74.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전북 장수군 홍보대사로 위촉된 최재명(오른쪽)씨가 최훈식(왼쪽) 장수군수와 기념촬영을 하고 있다./장수군 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;TV조선 경연 프로그램 ‘미스터트롯3’에서 활약 중인 최재명(24)씨가 전북 장수군 홍보대사가 됐다. 장수군 관계자는 6일 “장수가 고향인 최재명씨를 홍보대사로 임명하고 앞으로 홍보 영상 제작과 사진 촬영 등을 진행할 예정”이라고 밝혔다.&lt;br&gt;&lt;br&gt;최씨는 미스터트롯3 대학부에 출연해 마스터 오디션 미(美), 팀 미션 진(眞)을 차지하며 시청자들의 이목을 끌었다. 이후 2라운드에서 추가 합격한 뒤 준결승에 진출, 최종 TOP 10에 선정되며 당당히 실력을 뽐내고 있다. 장수에서 나고 자란 최씨는 남원 국악고를 졸업하고 서울예대에서 한국음악을 전공했다.&lt;br&gt;&lt;br&gt;군은 지역 대표축제인 ‘장수 한우랑 사과랑 축제’, ‘고향사랑기부제’ 등 주요 현안에 대해 최재명씨와 다양한 콘텐츠 영상을 제작해 장수군의 대외적 이미지를 높인다는 방침이다.&lt;br&gt;&lt;br&gt;최씨는 “미스터트롯3에 출연할 때 장수군 아들로서 자부심을 가지고 나갔었다”며 “따뜻하게 맞아준 고향의 정을 잊지 않고 장수군을 널리 알리는 데 최선을 다하겠다”고 말했다. &lt;br&gt;&lt;br&gt;최훈식 장수군수는 “대한민국 최고의 트로트 가수로 성장해갈 최재명씨가 장수군의 위상을 높이는 데 큰 역할을 해주기를 기대한다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>공군 “전투기 오폭 사고, 조종사 좌표 입력 실수 때문”</title>
       <link>https://www.chosun.com/national/national_general/2025/03/06/BX3JIHS3GBC2ZIYPKIZXV5BJ7I/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/03/06/BX3JIHS3GBC2ZIYPKIZXV5BJ7I/</guid>
@@ -895,15 +941,6 @@
 이 사고로 운전자를 비롯한 승객 2명 등 총 3명이 사망하고, 2명이 중상을 입은 것으로 파악됐다. /울산소방본부</media:description>
         <media:credit role="author" scheme="urn:ebu">(울산=뉴스1) 김지혜 기자</media:credit>
       </media:content>
-    </item>
-    <item>
-      <title>‘거주지 제한 폐지’ 대구시 공무원 임용시험, 타지역 응시자 지속 증가</title>
-      <link>https://www.chosun.com/national/regional/2025/03/06/UN6OFQSUEBFVHL5XOEZUAHRC5Q/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/03/06/UN6OFQSUEBFVHL5XOEZUAHRC5Q/</guid>
-      <dc:creator>대구=노인호 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 06 Mar 2025 06:44:03 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SJ3YE6IWIXAXNVX6L2APZIZKUA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대구시 산격청사 전경/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;거주지 제한 폐지 이후 대구시 공무원 임용시험에 응시하는 타 지역 지원자가 크게 증가한 것으로 나타났다. &lt;br&gt;&lt;br&gt;대구시는 올해 제1회 지방공무원 임용시험 원서 접수를 마감한 결과, 15명을 선발하는 보건연구직 등 경력 경쟁채용 3개 직렬에 385명이 지원해 평균 25.7대 1의 경쟁률을 기록했다고 6일 밝혔다. 이 중 대구 외 지역 출신 응시자는 266명으로, 전체의 69.1%를 차지했다. 이는 지난해 동일 직렬의 대구 외 지역 응시자 비율(35.4%)보다 2배가량 높은 것이라고 대구시는 설명했다. &lt;br&gt;&lt;br&gt;앞서 대구시는 지난해 5월 전국 16개 광역 시·도 중 최초로, 서울에 이어 두 번째로 신규 공무원 임용 시험 응시자 거주지 제한 요건을 폐지했다. 이전에는 시험일 현재 대구시에 거주하고 있거나 과거에 3년 이상 대구에 거주해야 하는 요건을 충족해야 했다. &lt;br&gt;&lt;br&gt;홍준표 대구시장은 “전국의 인재들이 대구를 선택한 것은 대구가 경쟁력 있는 도시라는 것을 방증하는 것”이라며 “앞으로도 실력 있는 인재들이 대구에서 꿈을 펼칠 수 있도록 공정하고 투명한 채용 환경을 조성하는 데 최선을 다하겠다”고 말했다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>尹 탄핵 선고 당일 안국역 폐쇄 추진…8일 집회 대비 특별 대책도 시행</title>
@@ -937,15 +974,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JCIYFBMGCJHRZHMGH776BTOCEU.png"&gt;&lt;figcaption&gt;&lt;small&gt;개그맨 김두영./인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;개그맨 김두영이 가족과 함께 필리핀 세부로 이민을 간다고 밝혔다. &lt;br&gt;&lt;br&gt;김두영은 6일 자신의 인스타그램을 통해 “오늘 저녁 제 가족과 대한민국을 떠나 타국에서 이민 생활을 시작하게 됐다”며 “전부터 꿈꿔온 인생 2막의 시작을 부디 응원해주시고 저와 가족들 모두 행복하게 잘 살도록 하겠다”고 적었다.&lt;br&gt;&lt;br&gt;그는 방송 생활 20년을 되돌아보며 “급변하는 방송 제작환경과 빠르게 소모되는 콘텐츠 범람의 시대에서 벗어나 조금은 느리고 여유 있게 살기 위해 무더운 여름 나라에서 돌아올 기약 없이 살아보고 싶었다”고 이민을 결정한 이유를 설명했다.&lt;br&gt;&lt;br&gt;이어 “갑작스러운 소식에 놀라셨을 수 있겠지만 7년 전부터 꿈꾸던 생활을 위해 조금씩 꾸준히 분비해 오늘에서야 떠나게 됐다”고 했다.&lt;br&gt;&lt;br&gt;김두영은 개그맨 은퇴를 하냐는 질문에 “저의 대답은 도전”이라며 “도착하자마자 현지 적응 생활기를 담은 유튜브와 여행사업 등 다방면에서 활동하며 나름대로의 능력을 발휘해 보겠다”고 했다.&lt;br&gt;&lt;br&gt;그러면서 “한국을 떠난다고 해서 제가 코미디언이 아니게 되는 것은 아니다”라며 “힘든 결정을 응원하고 지지해준 제 가족들에게 감사하다는 말씀을 드리며 제 목숨이 붙어있는 한 가족을 위해 가족을 향해 살겠다”고 전했다.&lt;br&gt;&lt;br&gt;김두영은 2006년 MBC 공채 15기 개그맨으로 데뷔했다. 그는 tvN 코미디 프로그램 ‘SNL 코리아’ 시즌5와 시즌6를 비롯해 ‘코미디 빅리그’ 등에 출연해 웃음을 전했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>손연재, 대한체조협회 이사로 선임… 여홍철 “내가 직접 추천” </title>
-      <link>https://www.chosun.com/national/national_general/2025/03/06/7IV65D6RMJAINJIRIODBPRGY5Y/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/03/06/7IV65D6RMJAINJIRIODBPRGY5Y/</guid>
-      <dc:creator>박선민 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 06 Mar 2025 05:32:15 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2EDSZFMPBZDEPGPIMTHBJW4F24.png"&gt;&lt;figcaption&gt;&lt;small&gt;리듬체조 국가대표 출신 손연재. /손연재 인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;리듬체조 국가대표 출신 손연재(30) 리프스튜디오 대표가 대한체조협회 이사에 선임됐다. &lt;br&gt;&lt;br&gt;6일 대한체조협회에 따르면, 협회는 지난달 26일 이사회에서 손연재를 이사로 선임했다. &lt;br&gt;&lt;br&gt;손연재를 협회 이사로 적극 추천한 건 여서정(제천시청)의 아버지로도 잘 알려진 원조 ‘도마 황제’ 여홍철 협회 전무이사인 것으로 알려졌다. 여 전무는 연합뉴스에 “손연재 이사는 내가 직접 추천했다”며 “손연재 같은 사람이 리듬체조를 이끌어가야 한다”고 했다. 1996년 애틀랜타 올림픽에서 한국 최초로 도마 종목에서 은메달을 거머쥔 여 전무는 2023년부터 협회 전무를 맡고 있다. &lt;br&gt;&lt;br&gt;여 전무는 손연재가 체조를 홍보하고 후배 선수들이 성장하는 데 큰 도움이 될 것으로 기대했다. 그는 “대회나 경기장에 손연재 이사가 있는 것 자체로도 선수들에겐 동기부여될 것”이라며 “선수들에겐 레전드 선배가 곁에 있다는 것, 자기 훈련과 경기 모습을 지켜보고 있다는 것만으로도 정신적, 심리적으로 성장하는 계기가 된다”고 했다. &lt;br&gt;&lt;br&gt;체조협회 이사로서 손연재의 공식 일정이 아직 구체적으로 확인되지 않았으나, 손연재는 오는 4월 강원 양구에서 열리는 제9회 국토정중앙배전국초등학교 리듬체조대회 겸 리듬체조 국가대표 및 국제대회 파견대표 선발전에서 후배 선수들의 경기를 지켜볼 것으로 보인다.&lt;br&gt;&lt;br&gt;한편 손연재는 1976년 리듬체조가 한국에 소개된 이후 올림픽 결선 무대를 밟은 유일한 선수다. 2012년 런던 올림픽에서 개인종합 5위를 차지했고, 2016 리우데자네이루 올림픽에서는 아시아 역대 최고 성적 타이인 4위에 올랐다. 2010년 광저우 아시안게임 개인종합 동메달, 2014 인천 아시안게임 개인종합 금메달을 목에 걸었다. 2015년 광주 하계유니버시아드 4관왕, 2016년 타슈켄트 아시아선수권 전관왕 등의 성과를 내기도 했다. &lt;br&gt;&lt;br&gt;손연재는 2017년 은퇴해 현재는 서울 용산구에 리듬체조 교육을 위한 스튜디오를 설립해 대표로 활동하고 있다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>‘김어준 유튜브’ 출연했다 ‘좌파’ 논란…나문희가 밝힌 속마음</title>
       <link>https://www.chosun.com/national/national_general/2025/03/06/Y2IEDYTNUNBMJEYFQHFL2CU63Y/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/03/06/Y2IEDYTNUNBMJEYFQHFL2CU63Y/</guid>
@@ -953,18 +981,6 @@
       <description/>
       <pubDate>Thu, 06 Mar 2025 05:40:56 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NRK2KWRAVJAYNPX3HN6BOLYJBU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;배우 나문희./MBC&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;배우 나문희(83)가 영화 홍보차 유튜버 김어준씨의 유튜브 채널에 출연했다가 ‘좌파’ 논란에 휩싸인 심경을 밝혔다.&lt;br&gt;&lt;br&gt;나문희는 지난 5일 MBC ‘라디오 스타’에 출연해 “김어준씨가 진행하는 프로그램에 영화 ‘소풍’을 홍보하러 나갔다가 누가 나더러 좌파라고 하더라”며 운을 뗐다. 앞서 나문희는 지난해 2월 7일 개봉한 영화 ‘소풍’ 홍보차 같은 달 22일 김용균 감독과 함께 김씨가 진행하는 유튜브 ‘김어준의 뉴스공장’에 출연했다. &lt;br&gt;&lt;br&gt;나문희는 “생긴 걸 보니까 괜찮더라. 그래서 김어준씨한테 ‘괜찮다’고 했더니 그때부터 나한테 좌파라고 하더라”며 “기가 막히더라. 내가 무슨 좌파냐”고 했다.&lt;br&gt;&lt;br&gt;정치 성향을 확인하겠다며 나문희에게 직접 전화를 걸어오는 사람들도 있었다고 한다. 그는 “세상이 고약해도 참 고약하다고 생각했다. 사람을 한쪽으로 몰아가는 사람이 있다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BCB3BIS5BFDXDOQASNMZ3WQWWQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;배우 나문희가 지난해 2월 유튜브 '김어준의 뉴스공장'에 출연한 모습./유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이에 MC 김구라는 “배우들이 진행자와 분위기를 풀기 위해 서로 칭찬하는 것”이라며 나문희가 김씨를 칭찬한 배경을 부연했다.&lt;br&gt;&lt;br&gt;함께 출연한 배우 김영옥도 나문희와 친하다는 이유로 비슷한 오해를 받아야 했다고 털어놓기도 했다.&lt;br&gt;&lt;br&gt;김영옥은 “우린 좌파 우파 이런 거 모른다. 그냥 나라가 어수선한 게 너무 슬프다”며 “일제강점기부터 살았고 해방의 기쁨, 6·25전쟁 다 견디고 왔는데 너무 슬프다”고 말했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>포천서 폭탄 8발 오폭...“쾅 소리 후 땅 흔들, 마을 유리 다 깨져”</title>
-      <link>https://www.chosun.com/national/incident/2025/03/06/BGOCMODSORCQ5B6DQGMGQSEQKM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/03/06/BGOCMODSORCQ5B6DQGMGQSEQKM/</guid>
-      <dc:creator>포천=김수언 기자, 포천=김현수 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 06 Mar 2025 04:18:46 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PXZR77SKSNN6XH24SHVHZAEFTI.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;한미 통합화력 실사격 훈련이 실시된 6일 경기 포천시 이동면 노곡리의 한 민가에 공군 공대지 폭탄이 떨어져 경찰특공대가 현장으로 향하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;6일 한미연합훈련 중 우리 공군이 잘못 쏜 폭탄이 경기 포천시 민가에 떨어지는 사고가 난 가운데 현장서 불발탄 여부를 조사한 군 당국이 “불발탄은 없다”고 밝혔다.&lt;br&gt;&lt;br&gt;6일 경찰과 군 당국은 주민대피령을 내린 후 군 폭발물처리반(EOD)을 투입해 오발 사고가 난 포천시 이동면 노곡리 일원에 불발탄이 발생했는지 여부를 살폈다.&lt;br&gt;&lt;br&gt;공군은 “공군 KF-16 전투기에서 비정상투하된 폭탄 8발 모두 탄착점을 확인했다”며 “불발탄은 없다”고 밝혔다.&lt;br&gt;&lt;br&gt;공군에 따르면, 낙탄 위치는 승진성당 인근지역, 인근 육군부대 연병장, 도로, 농지 등이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OK3AUH7QMNJU3OO3B5EC23FY3Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;6일 오전 경기 포천시 이동면 민가에 포탄으로 추정되는 물체가 떨어져 군인, 소방관 및 관계자들이 현장 수습에 나서고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;아직 현장은 당국 관계자만 출입이 가능한 상황이다.&lt;br&gt;&lt;br&gt;주민들은 불안을 호소하고 있다.&lt;br&gt;&lt;br&gt;인근에 거주하는 천만호(68)씨는 “전쟁 난 줄 알았다”며 입을 열었다. 그는 ”폭탄 떨어진 곳에서 20m 정도 거리에 집이 있는데 지붕이 무너지고 유리창도 깨지고 나무도 다 부서졌다“며 ”무슨 상황인지 가보니 다 박살나 있고 검은색 연기가 피어오르고 있었다”고 했다.&lt;br&gt;&lt;br&gt;사고 지점에서 약 1km 떨어진 마트에 있었다는 40대 A씨는 “하늘에서 공기를 가르는 듯한 소리가 들리다가 쾅 하는 소리에 사방이 울렸다”며 “주민들은 다 대피하라고 해서 일단 몸은 피했는데, 마을 유리들이 다 깨져있다”고 했다.&lt;br&gt;&lt;br&gt;오선길 포천 이동면 사격장 대책위 사무국장은 “포탄 떨어진 곳에서 200m떨어진 곳에서 집 2채가 파손됐다”며 “주민들이 (사고 지점에)들어가서 확인하겠다고 했는데 출입이 불가능한 상황”이라고 했다. 그러면서 “아직 주민들이 겁에 질려있다. 불안한 상황”이라고도 했다.&lt;br&gt;&lt;br&gt;앞서 이날 오전 10시 4분쯤 경기 포천시 이동면 노곡리 민가에 한미연합훈련 중이던 군이 쏜 폭탄이 떨어지는 사고가 났다.&lt;br&gt;&lt;br&gt;이 사고로 오후 2시 기준 모두 15명이 다쳤다.이 중 2명은 중상, 13명은 경상인 것으로 확인됐다. 또 주택 2채와 군 성당 일부가 파손되고 차량 1대가 피해를 입은 것으로 파악됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/XPVCZPAZQFDCPB2GHJA2BDH55A.gif?width=1024&amp;height=725&amp;auth=5cab31ab0c317dfcd9913a3da8c5efe1d8d1fa5372865384c35e077b5a222a62&amp;smart=true" type="image/jpeg" height="725" width="1024">
-        <media:description type="plain">포천 민가 폭탄 사고</media:description>
-      </media:content>
     </item>
     <item>
       <title>포천 민가에 전투기 폭탄 떨어져… 7명 부상, 주택·교회 파손 </title>
@@ -977,15 +993,6 @@
       <media:content url="https://www.chosun.com/resizer/v2/PTJIGMAMRNE4ZBJWPFA4J2Y4EM.gif?width=500&amp;height=354&amp;auth=3d3173b390e60f0af31ed0f126e5f69d96a596a97c3ebf31367d3b4efe469384&amp;smart=true" type="image/jpeg" height="354" width="500">
         <media:description type="plain">한미연합훈련이 진행된 6일 오전 10시 5분께 경기 포천시 이동면 노곡리 민가에 군이 발사한 폭탄이 추락해 인명 피해가 발생했다./뉴스1</media:description>
       </media:content>
-    </item>
-    <item>
-      <title>집에 혼자 있다 화재로 참변… 장기기증하고 떠난 초등생, 눈물 속 발인</title>
-      <link>https://www.chosun.com/national/national_general/2025/03/06/4LXVYOCYEZHZTGF5OYKUGJVMKQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/03/06/4LXVYOCYEZHZTGF5OYKUGJVMKQ/</guid>
-      <dc:creator>인천=이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 06 Mar 2025 00:01:03 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/64RAWRZ6XNFVFLVTYTCZEXP2WI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;6일 인천 서구 가톨릭관동대 국제성모병원 장례식장에서 화재 사고로 숨진 초등학생 문모(12)양의 발인이 엄수됐다. 조문객들이 인천가족공원으로 향하는 운구차를 배웅하고 있다. /이현준&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;집에 혼자 있던 중 화재로 의식불명 상태에 빠져 병원에서 치료 중 숨진 문모(12)양의 발인이 6일 엄수됐다. &lt;br&gt;&lt;br&gt;이날 오전 7시 50분쯤 인천 서구 가톨릭관동대 국제성모병원 장례식장에서 진행된 문양의 발인식에선 문양의 부모와 유족, 지인 등이 침통한 분위기 속에서 문양의 마지막을 배웅했다. &lt;br&gt;&lt;br&gt; 반려묘를 안은 채 미소를 띤 문양의 영정사진을 든 외삼촌은 어두운 표정으로 고개를 떨궜고, 문양의 부모는 쏟아지는 눈물을 손수건으로 닦으며 힘겹게 발걸음을 옮겼다. &lt;br&gt;&lt;br&gt;문양을 태운 운구차는 조용히 장지인 인천가족공원으로 향했다. &lt;br&gt;&lt;br&gt;발인식에 참석한 강범석 인천 서구청장은 “어린 생명이 꽃을 피우지 못한 채 큰일을 당해 안타까운 마음이 크다”며 “이런 일이 반복되지 않도록 하는 방안을 찾을 것”이라고 했다. &lt;br&gt;&lt;br&gt;김교흥 국회의원은 “참 안타까운 일”이라며 “복지 사각지대를 최소화할 수 있도록 관련 법‧제도를 정비할 수 있도록 하겠다”고 말했다. &lt;br&gt;&lt;br&gt;문양은 지난달 26일 오전 10시 43분쯤 인천 서구 심곡동 빌라 4층 집에서 화재 사고를 당했다. 당시 어머니는 일터에, 아버지는 투석 치료차 병원에 가 방학 중이던 문양은 집에 혼자 있었다. &lt;br&gt;&lt;br&gt;얼굴 부위에 2도 화상을 입고, 연기를 마셔 심정지 상태로 병원으로 옮겨진 문양은 의식불명 상태로 병원 중환자실에서 치료를 받았으나, 사고 닷새 만에 끝내 숨졌다. 문양의 부모는 병원 측의 장기 기증 안내를 받은 뒤 동의했다. &lt;br&gt;&lt;br&gt;국립과학수사연구원은 문양에 대한 부검에서 “화재로 인한 일산화탄소 중독이 사인으로 추정된다”는 구두 소견을 경찰에 전달했다.&lt;br&gt;&lt;br&gt;문양은 평소 동물을 좋아해 수의사가 되고 싶어 했다고 한다. 문양의 어머니는 “수의사가 꿈이던 사랑스럽고, 예쁘고, 착한 딸이었다”며 “우리 딸이 좋은 일을 하고 떠난 착한 아이로 기억됐으면 한다”고 했다.&lt;br&gt;&lt;br&gt;문양 가구는 지난해 보건복지부 복지 사각지대 발굴 시스템을 통해 5차례 위기 징후가 포착돼 지자체가 확인했으나, 기준 이상의 소득이 있어 별다른 지원이 이뤄지지 않았다. &lt;br&gt;&lt;br&gt;문양 가구의 안타까운 사연에 이웃들은 성의를 모으고 있다. 인천 서구 등에 따르면 인천사회복지공동모금회 등에 지금까지 총 900만원의 후원금이 모였다. &lt;br&gt;&lt;br&gt;서구와 LH(한국토지주택공사) 인천본부 등 관계 기관도 문양 가구를 돕기 위한 지원 대책을 추진 중이다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VG5CQ564FBERXP7AONZWXEWKKI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 인천 서구에서 발생한 화재로 숨진 문양/연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>父장제원 ‘성폭력 의혹’에…아들 노엘이 올린 의미심장 글</title>
