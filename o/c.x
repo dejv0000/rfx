@@ -13,6 +13,103 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>윤석열 대통령 “불법 잡아준 중앙지법 재판부의 용기에 감사” [전문]</title>
+      <link>https://www.chosun.com/national/court_law/2025/03/08/NY6OQYOK6NE4LE6XCD3247KGQI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/03/08/NY6OQYOK6NE4LE6XCD3247KGQI/</guid>
+      <dc:creator>유종헌 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 08 Mar 2025 09:01:49 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SOF55UNETFP5NOHOO7SFFENMGE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울구치소에서 석방된 윤석열 대통령이 8일 서울 한남동 관저 앞에 도착, 차량에서 내려 지지자들과 인사를 나누고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 대통령은 8일 석방 절차가 진행되자, 다음과 같은 내용을 변호인단을 통해 밝혔다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;◇윤석열 대통령 입장 전문&lt;/b&gt;&lt;br&gt;&lt;br&gt;먼저 불법을 바로잡아준,중앙지법 재판부의 용기와 결단에 감사드립니다. 그동안 추운 날씨에도 불구하고 응원을 보내주신 많은 국민들, 그리고 우리 미래세대 여러분께 깊이 감사드립니다.국민의힘 지도부를 비롯한 관계자 여러분께도 감사드립니다. 저의 구속에 항의하며 목숨을 끊으셨다는 안타까운 소식을 접하고 너무나 마음이 아팠습니다. 진심으로 명복을 빕니다.&lt;br&gt;&lt;br&gt;또 저의 구속과 관련하여, 수감되어있는 분들도 계십니다. 조속히 석방이 되기를 기도합니다. 대통령의 헌법상 권한에 따라 공직자로서 맡은 바 임무를 수행하다가 고초를 겪고 계신 분들도 있습니다. 조속한 석방과 건강을 기도하겠습니다. 단식 투쟁을 하고 계신 분들도 계신데, 건강 상하시지 않을까 걱정입니다. 뜻을 충분히 알리신 만큼, 이제 멈춰주시면 좋겠습니다. 다시 한 번 국민 여러분께 고개 숙여 감사드립니다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/PTCR6MICMZBV3F4YV4XMHI3HC4.jpg?width=5000&amp;height=3075&amp;auth=12e35424767a54a0381cc3fd0dc890fe03728c8ccb2884cab46ba1ad2819a4e5&amp;smart=true" type="image/jpeg" height="3075" width="5000">
+        <media:description type="plain">석방된 윤석열 대통령이 8일 오후 서울 용산구 한남동 관저 입구에서 지지자들에게 인사하고 있다. 2025.03.08 /남강호 기자</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>[속보] 尹대통령, 한남동 관저 도착…구치소 수감 52일 만</title>
+      <link>https://www.chosun.com/national/national_general/2025/03/08/XX4U2WWIE5HPPP3ITQZONKGWF4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/03/08/XX4U2WWIE5HPPP3ITQZONKGWF4/</guid>
+      <dc:creator>안준현 기자, 강지은 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 08 Mar 2025 09:16:19 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/N5JQO4VA4BONVKDLO6QQMZBVS4.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;법원의 구속취소 청구 인용으로 석방된 윤석열 대통령이 8일 오후 서울 용산구 한남동 대통령 관저 앞 지지자들과 인사하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;8일 검찰이 법원의 구속 취소 결정에 항고하지 않고 석방 지휘를 하면서 윤석열 대통령이 석방됐다. 구치소 수감 52일 만이다.&lt;br&gt;&lt;br&gt;윤 대통령은 이날 오후 5시 48분쯤 경기 과천 서울구치소에서 걸어 나와 지지자를 향해 인사를 한 뒤, 6시 16분쯤 한남동 관저에 도착했다. 현재 관저 앞에는 윤 대통령 지지자 1200여 명이 모여 있는데, 대통령이 도착하면서 지지자는 더 모일 것으로 예상된다. 지지자들은 대통령이 탑승한 차량을 향해 환호했다. 윤 대통령은 관저 앞 지지자들과 인사를 나누거나 악수를 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PVCWTLVWK5M6JLFRCMWI5ESDEQ.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;법원의 구속취소 청구 인용으로 석방된 윤석열 대통령이 8일 오후 서울 용산구 한남동 대통령 관저 앞에서 지지자들을 향해 주먹을 불끈 쥐며 인사하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HSN6BRZEZFKIFLY26IWNFG7DXM.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;석방된 윤석열 대통령이 8일 오후 서울 용산구 한남동 대통령 관저 앞에 도착해 지지자들에게 인사하고 있다. 
+/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/I4NN4FZDJ5D6LF7JJJI5BNDIZI.png?width=1602&amp;height=1008&amp;auth=13991fbfb51be05018aa370dcdfe4b86202f1570b878384b4011688649dd9c34&amp;smart=true" type="image/png" height="1008" width="1602">
+        <media:description type="plain">윤석열 대통령 석방./tv조선</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>공수처, 尹대통령 석방에 “유감... 상급 법원 판단 못 받게 돼”</title>
+      <link>https://www.chosun.com/national/court_law/2025/03/08/HNYEV4SEUFAALIRCMF5YA5MELI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/03/08/HNYEV4SEUFAALIRCMF5YA5MELI/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 08 Mar 2025 09:12:55 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YPXRMAE7FZOKNAATV3OKOFH2CQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;오동운 공수처장./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 대통령을 내란 우두머리 혐의로 체포‧구속한 고위공직자범죄수사처(공수처)는 8일 검찰이 즉시항고를 포기하고 윤 대통령 석방을 지휘한 데 대해 “유감을 표명한다”는 입장을 밝혔다.&lt;br&gt;&lt;br&gt;공수처는 이날 오후 6시 4분 언론 공지를 통해 “공수처는 체포와 구속을 담당했던 수사기관으로서 구속기간 산정 문제 등과 관련해 상급법원의 판단을 받아보지 못하게 됐다는 점에 대해 유감을 표명한다”고 했다. 앞서 공수처는 법원의 구속 취소 결정 이후 “검찰의 즉시항고 여부를 지켜보겠다”며 “재판부가 공수처 수사의 위법성을 확인하거나 피고인(윤 대통령) 측 주장을 받아들인 것이 아니므로 보도에 유의해달라”고 했었다.&lt;br&gt;&lt;br&gt;공수처는 지난 1월 15일 윤 대통령을 체포하고, 한 차례 조사한 뒤 구속영장을 청구했다. 서부지법은 윤 대통령 구속영장을 발부했다. 공수처는 추가 대면조사를 하지 못한 채 지난 1월 23일 검찰에 사건을 송부하며 윤 대통령 기소를 요구했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YMJ62AOUXVPQVLCNI6GBN3CXZY.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;법원의 구속취소 청구 인용으로 석방된 윤석열 대통령이 8일 오후 서울 용산구 한남동 대통령 관저 앞 지지자들과 인사하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;사건을 넘겨 받은 검찰 비상계엄 특별수사본부(본부장 박세현 서울고검장)는 공수처가 윤 대통령에게 진술을 받아내지 못하는 등 추가 수사가 필요하다고 보고 구속기간 연장을 법원에 신청했다. 그러나 법원이 이를 받아들이지 않으면서, 검찰은 지난 1월 26일 윤 대통령을 구속 기소한 것이다.&lt;br&gt;&lt;br&gt;그러나 서울중앙지법 형사25부 지귀연 부장판사는 검찰이 윤 대통령의 구속 기간인 10일을 넘겨 기소했다고 보고 지난 7일 구속을 취소했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>尹 구속 취소부터 석방까지 28시간...검찰, 장시간 이견 끝에 석방</title>
+      <link>https://www.chosun.com/national/court_law/2025/03/08/VP7DZ7RX3VB2FEKKGO4W277LPM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/03/08/VP7DZ7RX3VB2FEKKGO4W277LPM/</guid>
+      <dc:creator>유종헌 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 08 Mar 2025 09:57:03 +0000</pubDate>
+      <content:encoded>법원의 윤석열 대통령 구속 취소 결정부터 실제 윤 대통령이 석방되기까지는 약 28시간이 걸렸다.통상 법원의 결정 이후 수 시간 안에 석방 절차가 마무리되는 것과 비교하면 이례적으로 긴 시간이 걸린 것이다.&lt;br&gt;&lt;br&gt;이처럼 오랜 시간이 소요된 이유는 대검찰청과 일선 수사팀이 즉시항고 여부를 놓고 의견차를 보이면서 석방 지휘 절차가 지체됐기 때문이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DD7EBYBDUVPVLJROEHAGGHSLXQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원이 윤석열 대통령의 구속취소 청구를 인용한 7일 오후 서울 서초구 대검찰청 곳곳의 사무실 불이 환하게 켜져 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 7일 오후 2시쯤 서울중앙지법이 윤 대통령 구속 취소 결정을 내린 이후, 대검에서는 심우정 검찰총장과 이진동 대검 차장, 검사장급 간부 등 7명이 긴급 회의를 열었다. &lt;br&gt;&lt;br&gt;당시 회의 참석자들은 윤 대통령을 우선 석방해야 한다는 데 별다른 이견이 없었다고 한다. 2012년 헌법재판소가 법원의 구속집행정지 결정에 검찰이 즉시항고하는 것은 위헌이라고 판단했기 때문이다. &lt;br&gt;&lt;br&gt;검찰은 법원의 구속 취소 결정에 대해 7일 이내 즉시항고 할 수 있는데, 이 경우 상급법원의 판단이 나올 때까지 구속이 유지되게 된다. 회의에선 “구속 취소 결정에 즉시항고 한다면 헌재가 같은 판단을 내릴 가능성이 높다”는 지적이 나왔다고 한다.&lt;br&gt;&lt;br&gt;대검은 회의 결과를 바탕으로 7일 밤 검찰 비상계엄 특별수사본부(특수본)에 즉시항고하지 말 것을 지시했다. 그러나 특수본은 “법원이 납득할 수 없는 결정을 했는데 어떻게 항고하지 않을 수 있느냐”면서 크게 반발한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;특수본은 “구속기간을 ‘날’이 아닌 ‘시간’으로 계산하라는 것은 수십년 간 법원과 검찰의 관례에 반하는 것인데, 다른 사건도 아니고 대통령 사건에서 갑자기 법원이 관례를 뒤집는 게 말이 되느냐”며 “나중에 위헌 결정을 받더라도 즉시항고 해 다퉈야 한다”고 한 것으로 전해졌다. &lt;br&gt;&lt;br&gt;대검은 “일단 법원 결정을 받아들인 다음 본 재판에서 다시 다투자”고 특수본을 설득하려 했지만, 8일 새벽까지 이견을 좁히지 못했다. 결국 양측 관계자들은 새벽 늦게 퇴근한 다음 이날 오전 다시 출근해 협의를 이어갔다.&lt;br&gt;&lt;br&gt;심 총장은 고심 끝에 이날 오후 직접 특수본에 윤 대통령 석방을 지휘했다. 특수본은 오후 5시 15분 교정당국에 석방 지휘서를 보냈고, 윤 대통령은 간략한 출소 절차를 거쳐 오후 5시 48분쯤 서울구치소를 나섰다. 법원의 구속 취소 결정 이후 약 28시간 만이었다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>구치소 나온 尹대통령, 지지자들에 허리 숙여 “감사합니다”</title>
+      <link>https://www.chosun.com/national/court_law/2025/03/08/QCA45XISRBHILNQUZ4IT6L3LOI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/03/08/QCA45XISRBHILNQUZ4IT6L3LOI/</guid>
+      <dc:creator>유종헌 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 08 Mar 2025 08:49:49 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5V5FCZ57QZCVBAMAFOAFYOCLME.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;검찰의 항고 포기로 석방된 윤석열 대통령이 8일 경기도 의왕시 서울구치소에서 차에서 내려 지지자들에게 손을 들어 인사하고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 대통령이 8일 오후 서울구치소에서 출소했다. &lt;br&gt;&lt;br&gt;윤 대통령은 이날 오후 5시 48분쯤 구치소 정문을 걸어 나왔다. 윤 대통령은 밝은 표정으로 지지자들을 향해 “감사합니다”라며 인사했다. &lt;br&gt;&lt;br&gt;발걸음을 멈추고 지지자들에게 고개를 수차례 숙였고, 손을 흔들거나 주먹을 불끈 쥐기도 했다.&lt;br&gt;&lt;br&gt;윤 대통령은 이어 대통령 경호처 차량에 탑승해 오후 5시 51분쯤 서울구치소를 떠났다. 윤 대통령이 탄 차량은 한남동 대통령 관저로 향하고 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/62BO5KRR4ZF33FVOC3N34Z3EIY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;석방된 윤석열 대통령이 8일 오후 경기 의왕시 서울구치소 앞에서 지지자들에게 고개 숙여 인사하고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤 대통령은 석방 절차 중 변호인단에 “추운 날씨에도 불구하고 응원을 보내주신 많은 국민들,그리고 우리 미래세대 여러분께 깊이 감사드린다”는 입장을 전달해달라고 했다.&lt;br&gt;&lt;br&gt;윤 대통령은 “불법을 바로잡아준 중앙지법 재판부의 용기와 결단에 감사드린다”면서 “국민의힘 지도부를 비롯한 관계자 여러분들께도 감사드린다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/F7UCWAD7MBLLZN72D5YN5WBAZY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;석방된 윤석열 대통령이 8일 오후 경기 의왕시 서울구치소 앞에서 차에서 내려 지지자들에게 인사하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MO3CAPKYUVNYFM5VJAUDSY2E7I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울구치소에서 석방된 윤석열 대통령이 8일 서울 한남동 관저 앞에서 차량에서 내려 대기하던 지지자들에게 주먹을 불끈 쥐며 인사하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;또 “저의 구속에 항의하며 목숨을 끊으셨다는 안타까운 소식을 접하고 너무나 마음이 아팠다”면서 “진심으로 명복을 빈다”고 했다. &lt;br&gt;&lt;br&gt;윤 대통령은 “저의 구속과 관련하여 수감되어 있는 분들도 계신다”면서 “조속히 석방되기를 기도한다”고 했다. 이어 “대통령의 헌법상 권한에 따라 공직자로서 맡은 바 임무를 수행하다가 고초를 겪고 계신 분들도 있다”며 “조속한 석방과 건강을 기도하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/XJK5CCC6CBCANKC4GMIGM2EOCA.gif?width=1280&amp;height=720&amp;auth=7fe65bf6d1dc82ef6aa53820a1e1c2773aa6951769c1ea73a0ca5901379799e4&amp;smart=true" type="image/jpeg" height="720" width="1280"/>
+    </item>
+    <item>
+      <title>검찰총장이 尹대통령 석방 지휘... “법원 결정 존중”  </title>
+      <link>https://www.chosun.com/national/court_law/2025/03/08/2JE5U6WEIJHSDKD22EU2HPDUNE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/03/08/2JE5U6WEIJHSDKD22EU2HPDUNE/</guid>
+      <dc:creator>유종헌 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 08 Mar 2025 08:20:51 +0000</pubDate>
+      <content:encoded>검찰이 법원의 윤석열 대통령 구속 취소 결정에 따라 서울구치소에 석방 지휘서를 보냈다. 윤 대통령은 곧 석방될 것으로 보인다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/I3N2UJLE7VC53DRTKBIOMOCNTI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령이 13일 서울 종로구 헌법재판소에서 열리는 탄핵심판 8차 변론에 출석하고 있다. /사진공동취재단&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대검찰청은 이날 “검찰총장이 법원의 구속 취소 결정을 존중하여 특별수사본부에 윤석열 대통령의 석방을 지휘했다“고 밝혔다. &lt;br&gt;&lt;br&gt;대검은 “즉시항고는 제기하지 않는 것으로 결정했다”면서 “법원의 인신구속 결정에 대해 즉시항고 시 집행을 정지하도록 한 형사소송법 규정이 위헌무효라고 판단한 헌법재판소의 결정 취지와 영장주의원칙 등을 종합적으로 고려했다”고 했다. &lt;br&gt;&lt;br&gt;대검은 “구속기간 산정 등에 대한 법원의 판단은 현행 법률 규정은 물론 법원과 검찰 실무례에도 부합하지 아니하는 부당한 결정이므로 즉시항고를 통해 시정하여야 한다는 특별수사본부의 의견이 있었다”면서 “이에 대해 헌재 결정 등을 감안해 본안 재판부에 적극적으로 의견을 개진하는 등 대응하도록 지시했다”고 밝혔다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UGKCEUPUDROZ3CDB3OCZDSX43M.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;대검찰청이 윤석열 대통령의 구속취소 청구를 인용한 법원의 판단을 수용해 즉시 항고를 포기하고 석방 지휘를 지시한 것으로 알려진 8일 오후 경기 의왕시 서울구치소에서 대통령 경호처 차량이 정문을 통과해 들어가고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰 비상계엄 특별수사본부도 심우정 검찰총장 지시에 따라 서울구치소에 석방 지휘서를 보냈다고 밝혔다. 석방 지휘서는 이날 오후 5시 15분 교정당국에 접수됐다고 한다.&lt;br&gt;&lt;br&gt;다만 특수본은 “법원 결정 중 구속기간 불산입 기간을 ‘날’이 아닌 ‘시간’으로 산정해야 한다는 취지의 판단은 도저히 수긍할 수 없다”면서 " 법원의 법리적으로 잘못된 결정에 대해 불복해 이를 시정해야 할 필요성이 있다는 의견을 개진했다“고 했다. 그러면서 ”향후에도 위와 같은 의견을 계속 주장, 입증해나갈 것”이라고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/UGKCEUPUDROZ3CDB3OCZDSX43M.JPG?width=4656&amp;height=3104&amp;auth=b2790a2662e703baf4255e29213452e4d052d3dbcf176f3e927d1b8618d3038e&amp;smart=true" type="image/jpeg" height="3104" width="4656">
+        <media:description type="plain">대검찰청이 윤석열 대통령의 구속취소 청구를 인용한 법원의 판단을 수용해 즉시 항고를 포기하고 석방 지휘를 지시한 것으로 알려진 8일 오후 경기 의왕시 서울구치소에서 대통령 경호처 차량이 정문을 통과해 들어가고 있다. /뉴스1</media:description>
+        <media:credit role="author" scheme="urn:ebu">(서울=뉴스1) 오대일 기자</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>尹대통령 석방 소식에 관저 앞 “다행” 탄핵 찬성 측 “말 안돼”</title>
+      <link>https://www.chosun.com/national/national_general/2025/03/08/NVKKLYXJYRGYPHOSK22VQHNG2Y/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/03/08/NVKKLYXJYRGYPHOSK22VQHNG2Y/</guid>
+      <dc:creator>안준현 기자, 강지은 기자, 양인성 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 08 Mar 2025 08:43:41 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KCEC5ZYRFFJHXGN5LSFXXSZVEU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울구치소에서 석방된 윤석열 대통령이 8일 서울 한남동 관저 앞에 도착, 차량에서 내려 지지자들과 인사하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;8일 오후 5시 20분 검찰이 법원의 윤석열 대통령 구속 취소에 항고를 포기했다. 이에 따라 오늘 중 윤 대통령이 서울구치소에서 나와 한남동 관저로 복귀할 것으로 전망되면서 한남동 관저 앞에 모인 700여 명은 연신 “다행이다” “고생하셨다”를 외치며 태극기를 흔들었다.&lt;br&gt;&lt;br&gt;이날 오후 5시 20분쯤 서울 용산구 한남동 대통령 관저 앞에선 사회자가 “윤 대통령이 출소 절차에 돌입했다”고 외치자 시위 참가자들은 만세삼창을 했다. 한 여성은 가슴을 쓸어내리며 “대통령이 석방되셨다”고 안도했다.&lt;br&gt;&lt;br&gt;이날 집회에 참석한 이모(59)씨는 “광화문 집회에 있다가 대통령 석방 소식을 듣고 한남동 관저로 왔다”며 “석방이라니 나라가 살아날 것이라는 징조”라고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CLALX72OLNDLJOG3BUD5G7SFNQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;8일 오후 윤석열 대통령이 석방된다는 소식이 전해진 서울 용산구 한남동 관저 앞. /강지은 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한편 안국역과 광화문광장 인근에서 윤 대통령 탄핵을 촉구하는 집회 측은 대통령 석방 소식이 들리자 절망했다. 사회자가 “긴급 소식이다. 윤석열이 귀가한다고 한다”며 “그분이 석방됐다고 우리가 기죽을 일은 없다. 우리의 힘으로 반드시 윤석열을 다시 감방에 처넣자”고 했다. 참가자들은 이 소식을 듣자마자 표정이 굳어졌다. 일부는 ‘아악!’ 비명을 지르고 “검찰도 공범이다 심우정은 사퇴하라” “윤석열이 나와도 결론은 탄핵이다” 같은 구호를 외쳤다. 한 참가자는 “말도 안 돼” “검찰이 미쳤다”며 손에 들고 있던 피켓을 던졌다. &lt;br&gt;&lt;br&gt;이들은 모두 일어나 “민심을 짓밟은 검찰을 규탄한다”며 “윤석열을 영원히 구속하라”고 외쳤다. 대학원생 김민진(27)씨는 “어제 구속 취소 소식을 듣고 어이가 없었는데 하루 만에 풀려날 줄은 몰랐다”며 “검찰이 일부러 시간 계산을 잘못해서 이런 상황을 유도한 것 아니냐”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/KCEC5ZYRFFJHXGN5LSFXXSZVEU.jpg?width=6000&amp;height=4000&amp;auth=cae8898f7b18b3b92be49b7ac8307dd068a0b77f104dd8b6dd0825426bf41072&amp;smart=true" type="image/jpeg" height="4000" width="6000">
+        <media:description type="plain">서울구치소에서 석방된 윤석열 대통령이 8일 서울 한남동 관저 앞에 도착, 차량에서 내려 지지자들과 인사하고 있다. /연합뉴스</media:description>
+        <media:credit role="author" scheme="urn:ebu">김인철</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>오세훈 “尹 석방 환영… 민주당, 이젠 검찰총장 탄핵인가”</title>
+      <link>https://www.chosun.com/politics/assembly/2025/03/08/RP2WEYJGAJG7FPD2UJVQD5E7AA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/politics/assembly/2025/03/08/RP2WEYJGAJG7FPD2UJVQD5E7AA/</guid>
+      <dc:creator>김경필 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 08 Mar 2025 09:15:49 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/77SV2YGCA5KD3ORV5NDO7D5HEU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;오세훈 서울시장이 지난 7일 서울 여의도 국회의원회관에서 열린 지방분권형 헌법 개정 토론회에서 발언하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;오세훈 서울시장은 8일 오후 윤석열 대통령이 석방되자 페이스북에 글을 올려 “윤 대통령 석방 결정을 환영한다”고 밝혔다. 더불어민주당이 윤 대통령 석방에 반발하며 심우정 검찰총장 ‘심판’을 예고한 데 대해선 “이제는 검찰총장 탄핵인가”라고 비판했다.&lt;br&gt;&lt;br&gt;오 시장은 전날 서울중앙지법이 윤 대통령 구속을 취소한 것과 관련해 “법원의 적법한 판단이 존중받아야 하는 것은 민주주의의 기본”이라고 했다.&lt;br&gt;&lt;br&gt;오 시장은 민주당이 검찰에 법원의 구속 취소 결정에 즉시항고할 것을 요구하고, 검찰이 즉시항고 없이 윤 대통령을 석방하면 심우정 검찰총장에게 책임을 묻겠다고 한 것에 대해선 “민주당은 협박 본능을 못 버리고 있다”고 비판했다.&lt;br&gt;&lt;br&gt;오 시장은 “마음에 들지 않는 판결이 나오면 판사를, 원하는 수사를 하지 않으면 검찰총장을 탄핵하겠다는 민주당”이라며 “헌법 질서마저 제 입맛대로 쥐락펴락하는 민주당이야말로 진정 내란 세력”이라고 했다.&lt;br&gt;&lt;br&gt;오 시장은 그러면서 민주당을 향해 “정치적 압박으로 법치주의를 파괴하려는 시도를 당장 중단하라”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[속보] 尹 대통령 조만간 서울구치소서 석방</title>
+      <link>https://www.chosun.com/national/court_law/2025/03/08/4ZSAA6GLSRDI5CYUIBV7UCNTRA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/03/08/4ZSAA6GLSRDI5CYUIBV7UCNTRA/</guid>
+      <dc:creator>유종헌 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 08 Mar 2025 08:30:05 +0000</pubDate>
+      <content:encoded>윤석열 대통령이 조만간 서울구치소에서 석방돼 귀가할 예정이다. 윤 대통령의 구속을 취소하라는 법원 결정을 검찰이 수용한 데 따른 것이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/I3N2UJLE7VC53DRTKBIOMOCNTI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령이 지난 2월 13일 헌법재판소에서 열린 탄핵심판 8차 변론에 출석한 모습. /사진공동취재단&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰 비상계엄 특별수사본부는 8일 오후 5시 15분쯤 윤 대통령이 수감된 서울구치소에 석방지휘서를 보냈다. &lt;br&gt;&lt;br&gt;교정당국은 석방지휘서를 접수한 즉시 윤 대통령을 석방하게 돼 있다. 윤 대통령은 구속 당시 입었던 사복 등 영치품을 되찾고 옷을 갈아입는다. 이어 간략한 신분 확인 절차 등을 거쳐 귀가하게 된다. 다만 경호 문제 등으로 귀가가 다소 지연될 가능성은 있다. &lt;br&gt;&lt;br&gt;윤 대통령은 한남동 대통령 관저로 복귀할 것으로 보인다. &lt;br&gt;&lt;br&gt;윤 대통령이 석방되는 것은 지난 1월 15일 공수처에 체포된 이후 52일 만, 같은 달 26일 구속 기소된지 41일 만이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>한양대에서 탄핵 찬반 시국선언...충돌 없이 마무리 </title>
       <link>https://www.chosun.com/national/national_general/2025/03/08/4MGD5YCJXBCHNAZ6KOD2U47NL4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/03/08/4MGD5YCJXBCHNAZ6KOD2U47NL4/</guid>
@@ -867,28 +964,6 @@
       <content:encoded>오세훈 서울시장은 7일 윤석열 대통령의 구속 취소 청구를 법원이 인용한 것에 대해 “참으로 바람직한 결정이 나왔다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RGI5H3BOCNPQXMT5ED2NGJ2ZYE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;오세훈 서울시장/뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;오 시장은 이날 국회 의원회관에서 열린 ‘지방분권형 헌법 개정 국회 대토론회’에 참석한 뒤 기자들과 만나 “지금부터 본격적으로 재판이 이뤄질텐데, 외국에서 바라보는 대한민국 위상도 있고 국격도 있다”며 “증거도 채증이 다 됐다”며 이같이 말했다.&lt;br&gt;&lt;br&gt;그는 “도주 염려가 없는 만큼 당연히 불구속 상태에서 재판이 이뤄지는 것이 바람직하고 옳은 일”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>尹측 “검찰, 즉시 대통령 석방 지휘하라”</title>
-      <link>https://www.chosun.com/national/court_law/2025/03/07/JYEG4SDIZFBPDB7ZTNCYY4NIHM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/03/07/JYEG4SDIZFBPDB7ZTNCYY4NIHM/</guid>
-      <dc:creator>방극렬 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 07 Mar 2025 06:00:18 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PGJ2PZQ7SFFS5PSILMRQ7PW5WI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령이 지난달 25일 오후 헌법재판소 대심판정에서 열린 탄핵심판 마지막 변론에서 최종 진술을 하고 있다./헌법재판소&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 대통령 측이 7일 법원의 윤 대통령 구속 취소 결정에 대해 “법치주의가 살아있음을 확인한 것”이라며 “검찰은 즉시 대통령에 대한 석방을 지휘하라”고 주장했다.&lt;br&gt;&lt;br&gt;윤 대통령 변호인단은 이날 윤 대통령에 대한 구속 취소 결정이 나온 직후 “고위공직자범죄수사처의 위법 수사와 불법 체포, 검찰의 구속 기간 만료 후 기소라는 온갖 불법이 혼재되는 상황에서, 서울중앙지법은 법과 원칙이 무엇인지 선언하며 정의를 바로 세웠다”고 말했다.&lt;br&gt;&lt;br&gt;윤 대통령 측은 “대통령의 구속 취소에 불구하고 형사소송법은 검찰의 즉시 항고 기간 7일 동안 대통령을 구금하도록 규정하고 있다”며 “하지만 구속 집행정지의 경우 법원의 결정에 대해 즉시 항고를 하는 것은 위헌이라고 한 헌법재판소의 결정이 있었으며 구속 취소의 경우에도 동일하므로 같은 논리에 의해 위헌이라 할 것”이라고 주장했다.&lt;br&gt;&lt;br&gt;검찰은 윤 대통령 구속 취소 결정에 불복해 즉시 항고할지 검토 중인 것으로 알려졌다.&lt;br&gt;&lt;br&gt;윤 대통령 측은 또 “공수처가 그토록 서울중앙지법을 피해 서울서부지법으로 영장 쇼핑을 하러 간 이유가 비로소 확인됐다”며 “대통령이 서울중앙지법에서의 구속영장실질심사에 응하겠다고 한 이유도 바로 이것”이라고 했다.&lt;br&gt;&lt;br&gt;그러면서 “편향된 이념으로 뭉쳐 탄핵 공작과 내란 몰이를 하려 하더라도 국민이 뽑은 대통령을 마음대로 끌어내릴 수 없다. 인권의 최후 보루로서 법과 원칙을 명확히 천명한 사법부에 경의를 표한다”고 했다.&lt;br&gt;&lt;br&gt;서울중앙지법 형사25부(재판장 지귀연)는 이날 “구속 기간이 만료된 상태에서 공소가 제기된 것으로 보는 것이 상당하고, 설령 구속 기간이 만료되지 않은 상태라 하더라도 구속 취소 사유가 인정된다”며 윤 대통령에 대한 구속을 취소했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“구속 기간 만료 후 기소됐다” 尹측이 낸 구속취소 의견서 보니</title>
-      <link>https://www.chosun.com/national/2025/03/07/LN3WUKOZPZA7JAZFP43S2C52JU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2025/03/07/LN3WUKOZPZA7JAZFP43S2C52JU/</guid>
-      <dc:creator>김명일 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 07 Mar 2025 05:12:47 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PGJ2PZQ7SFFS5PSILMRQ7PW5WI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령이 지난 2월 25일 오후 헌법재판소 대심판정에서 열린 탄핵심판 마지막 변론에서 최종 진술을 하고 있다./헌법재판소&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;7일 구속이 취소된 윤석열 대통령 측은 지난달 21일 내란 우두머리 혐의로 구속 기소된 것과 관련, “불법 구금 상태가 조속히 해소돼야 한다”는 취지의 의견서를 법원에 냈었다.&lt;br&gt;&lt;br&gt;법조계에 따르면 윤 대통령 변호인단은 지난달 21일 서울앙지법 형사25부(재판장 지귀연)에 구속 취소 필요성을 설명하는 내용의 의견서를 제출했다.&lt;br&gt;&lt;br&gt;윤 대통령 측은 “지난 심문 기일에 설명했던 내용을 보충·보완하는 내용을 (의견서에) 담았다”고 밝혔다. 헌법재판소에서 탄핵이 기각될 경우 형사 재판으로 인해 구속돼 있다면, 국정 공백이 우려된다는 내용은 의견서에 담지 않은 것으로 확인됐다.&lt;br&gt;&lt;br&gt;앞서 윤 대통령 측은 지난달 20일 구속 취소 심문에서 “검찰이 구속 기간 만료 후 기소했기 때문에 구속은 취소돼야 한다”고 주장했다. 체포적부심과 구속영장 실질심사에 걸린 시간을 고려하면 지난달 25일 자정까지만 구속할 수 있다는 게 윤 대통령 측 주장이다. 검찰은 날짜를 기준으로 구속 기간을 계산해, 지난달 26일 윤 대통령을 구속기소한 바 있다.&lt;br&gt;&lt;br&gt;재판부는 당시 심문에서 양측의 의견을 들은 뒤 “추가 의견서를 열흘 이내에 제출하면 숙고해서 구속 취소 여부를 결정하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;서울중앙지법 형사25부(재판장 지귀연)는 이날 윤 대통령 측이 청구한 구속 취소를 받아들였다. 구속 취소는 법이 정한 피고인 석방 제도 중 하나로, 구속 사유가 없거나 소멸된 때 구속을 취소하는 것이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/MVZLEPV2PJOFDDXJZIQYXYF33I.jpg?width=2000&amp;height=1314&amp;auth=55c610f7edf5ff8996355551b142e871c5bb2258853a4b97b012647868d7afc5&amp;smart=true" type="image/jpeg" height="1314" width="2000">
-        <media:description type="plain">윤석열 대통령 변호인단 윤갑근, 배보윤 변호사가 25일 오후 서울 종로구 헌법재판소에서 열린 대통령 탄핵심판 최종 변론에 참석하고 있다. (2025.02.25 사진공동취재단)</media:description>
-        <media:credit role="author" scheme="urn:ebu">jesayo</media:credit>
-      </media:content>
-    </item>
-    <item>
       <title>어도어, 아일릿이 뉴진스에 90도 인사 영상 공개 “괴롭힘 없었다”</title>
       <link>https://www.chosun.com/national/national_general/2025/03/07/I24Z2EAAQJEPRBM7WNN7B2KG74/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/03/07/I24Z2EAAQJEPRBM7WNN7B2KG74/</guid>
@@ -925,24 +1000,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FJACOCQWWU5QCEDLXLXU6WACM4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 마크. /조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;7일 낮 12시쯤 서울 중구 도시건축전시관 옥상에서 윤석열 대통령 지지자로 추정되는 남성 A씨가 몸에 불을 붙이는 일이 발생했다.&lt;br&gt;&lt;br&gt;서울 남대문경찰서 등에 따르면, A씨는 전시관 옥상에서 유인물을 뿌렸고 이후 몸에 불을 붙였다.&lt;br&gt;&lt;br&gt;전시관 관계자가 소화기로 불을 껐고, 이후 경찰과 소방 당국에 신고한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;목격자들은 “한 남성이 큰 소리로 무엇인가를 외친 뒤 두 차례 종이를 뿌렸고, 몸에 무언가를 부은 뒤 불길이 치솟았다”고 말했다.&lt;br&gt;&lt;br&gt;유인물에는 “하나님 우리나라를 지켜옵주소서” “대한민국 만세, 윤석열 대통령 만세” 등의 내용과 함께 헌법재판소와 야당 등을 비난하는 내용이 적혀 있었다.&lt;br&gt;&lt;br&gt;경찰과 소방 당국에 따르면, 현장 출동 당시에는 A씨의 생명에 지장이 없었지만, 그는 전신에 심한 화상을 입고 인근 병원으로 이송됐다.&lt;br&gt;&lt;br&gt;이송 당시 A씨는 의식이 없던 것으로 확인됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>탄핵 반대 집회서 애국가 부른 이철우 경북지사, 공무원법 위반 수사</title>
-      <link>https://www.chosun.com/national/incident/2025/03/07/XAH5ISD6YVGGNOZGTGFLM2MSIU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/03/07/XAH5ISD6YVGGNOZGTGFLM2MSIU/</guid>
-      <dc:creator>이승규 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 07 Mar 2025 04:33:36 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZKS2ZXIA3FNFXDFNIHVKPWPQ6A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이철우 경북도지사가 8일 오후 동대구역 광장에서 열린 윤석열 대통령 탄핵 반대 집회에 참석해 애국가를 부르고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 대통령에 대한 탄핵 반대 집회에서 애국가를 부른 이철우 경북도지사에 대한 고발장이 접수돼 경찰이 수사 중이다.&lt;br&gt;&lt;br&gt;7일 경북 안동경찰서 등에 따르면 지방공무원법 위반 혐의로 이 지사에 대한 고발장이 접수됐다. 이 지사가 지난달 8일 동대구역 광장에서 열린 윤 대통령 탄핵 반대 집회에 참석해 연설을 하고 애국가를 불러 지방공무원법을 위반했다는 내용이 담겨 있었다. &lt;br&gt;&lt;br&gt;당시 이 지사는 “시원하게 이야기를 하고 싶지만 도지사는 연설을 못하도록 돼 있다”며 “대구경북은 6·25 전쟁 당시 이 나라를 지킨 곳이다”라고 한 뒤, 애국가 1절을 불렀다.&lt;br&gt;&lt;br&gt;이 고발인은 ‘이 지사의 행위가 공무원의 정치 운동 및 집단행위 금지 조항을 위반했다’는 취지로 고발장을 경찰에 보냈으며 경북도민은 아닌 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “지난 6일 경북도에 수사 개시를 통보했다”고 말했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>국회 측, 한덕수 탄핵심판서 “검찰 조서 확보해달라” 재차 요청</title>
-      <link>https://www.chosun.com/national/court_law/2025/03/07/O3C7MGV4SZHWPFBUXFLSIJXAQE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/03/07/O3C7MGV4SZHWPFBUXFLSIJXAQE/</guid>
-      <dc:creator>방극렬 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 07 Mar 2025 04:29:16 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PZC6HLYJBVDA7PCE5GQCC6IUUY.png"&gt;&lt;figcaption&gt;&lt;small&gt;한덕수 국무총리. /조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국회 측이 7일 한덕수 국무총리 탄핵심판 선고를 앞두고 검찰의 비상계엄 국무회의 관련 수사 기록을 받아달라고 헌법재판소에 다시 요청했다. 앞서 헌재가 국회 측 요청을 받아들여 관련 자료를 달라고 했지만 검찰이 “수사가 진행 중이라 보낼 수 없다”며 거절하자, 국회 측이 재차 신청한 것이다.&lt;br&gt;&lt;br&gt;국회 측 대리인단은 이날 “검찰의 이번 수사 기록 제출 거절은 부당한 처분이다. 수사 기록을 증거로 제출할 수 있도록 검찰에서 받아달라”는 취지의 의견서를 헌재에 제출했다. &lt;br&gt;&lt;br&gt;앞서 국회 측은 지난 4일 최상목 대통령 권한대행, 김용현 전 국방부 장관, 조태용 국가정보원장 등 계엄 직전 열린 국무회의 참석자들에 대한 검찰 조서를 확보해달라고 헌재에 신청했다. 국회 측은 “윤석열 대통령이 계엄을 선포하면서 소집한 국무회의에서 한 총리의 역할, 발언 등을 통해 계엄에 가담한 정도를 확인해야 한다”고 말했다. 국회 측이 헌재를 통해 수사 기록을 확보하면, 이를 선별해 증거로 채택해달라고 제출할 수 있다.&lt;br&gt;&lt;br&gt;헌재는 이에 따라 검찰에 관련 기록을 보내 달라고 했다. 한 총리 탄핵심판에 추가 증거를 신청할 수 있게 국회 측 주장을 받아준 것이다.&lt;br&gt;&lt;br&gt;그러나 검찰은 전날 ‘수사 중인 사건 기록은 헌재가 요구할 수 없다’는 헌법재판소법 32조를 근거로 자료 제출을 거절했다. 검찰은 국회 측이 윤 대통령 탄핵심판에서 내란죄 수사 기록을 상당 부분 확보한 점도 고려했다고 한다. 검찰이 자료 제출을 거부하면 헌재가 강제로 받아낼 방법은 없다.&lt;br&gt;&lt;br&gt;이에 대해 국회 측은 “국무위원들에 대한 조사가 진행 중에 있다는 점을 근거로 (제출을) 거절한 것은 헌재법 32조에 대한 헌재의 견해를 부정하는 것”이라며 “기존 (윤 대통령 등) 심판 사건에서 헌재의 요청을 별다른 이의 없이 수용해온 전례에 반하는 것”이라고 주장했다. &lt;br&gt;&lt;br&gt;헌재가 이를 수용하면 수사 기록을 보내라고 다시 요구할 수 있다. 변론이 종결됐고 검찰이 거부하는 상황에서 추가 요청이 불필요하다고 판단하면 신청을 기각할 수도 있다. 헌재는 지난달 19일 한 총리 탄핵심판을 종결한 뒤 선고만 남겨두고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>강철로 만든 인왕제색도 보러오세요...APEC 정상회의장 수놓은 ‘철의 예술’</title>
       <link>https://www.chosun.com/national/national_general/2025/03/07/KX4FWLWUVVG2LG6CCNOQ534HNE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/03/07/KX4FWLWUVVG2LG6CCNOQ534HNE/</guid>
@@ -950,51 +1007,6 @@
       <description/>
       <pubDate>Fri, 07 Mar 2025 04:18:49 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GQDQULPWWJER7PJHTM5NFGM4SY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경북 경주 화백컨벤션센터 3층에 전시된 스틸아트 예술품/경북도&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경북도가 오는 10월 경주에서 열리는 아시아태평양경제협력체(APEC) 정상회의의 사전 행사인 제1차 고위관리회의(SOM1) 참가자들을 위해 오는 9일까지 ‘스틸아트 특별전’을 연다. 포스코 등 국내 철강 산업의 발상지이자 유네스코 세계유산을 가장 많이 보유한 지역인 경북에서 산업과 전통 문화가 융합된 콘텐츠를 세계에 보여주자는 취지다.&lt;br&gt;&lt;br&gt; 스틸아트는 강철판 위에 그림을 묘사하는 예술 기법이다. 그림 속의 질감과 깊이를 구현한 만큼 관람자가 눈으로 볼 수 있고 손으로 만질 수도 있다.&lt;br&gt;&lt;br&gt;이번 전시는 ‘한국의 향기’를 주제로 전통 회화와 철강 기술을 융합한 미술품을 선보인다. APEC 정상회의 회담장으로 이용될 경주 화백컨벤션센터에 예술품 총 42점이 전시된다. 조선 후기 화가 이인문의 대표작 ‘강산무진도’, 겸재 정선의 ‘인왕제색도’ 등이 스틸아트 형태로 재구성됐다. 관람객들은 정선이 그려낸 산과 나무의 울퉁불퉁한 촉감을 직접 느낄 수 있다.&lt;br&gt;&lt;br&gt;미디어 아티스트 이이남 작가는 정선이 과거 경북 청하(현 경북 포항시) 현감으로 재직할 당시 내연산 폭포의 모습을 보고 그린 ‘내연산 삼용추’를 토대로 한 미디어 아트 전시를 선보인다.&lt;br&gt;&lt;br&gt;이와 별도로 경주 특별존에선 천마총에 그려진 ‘천마도’, 수묵화 대가이자 경주 주민인 박대성 화백이 그린 ‘현월’, ‘불국 설경’도 볼 수 있다.&lt;br&gt;&lt;br&gt;이철우 경북도지사는 “이번 스틸아트 특별전은 대한민국 철강 산업의 뿌리이자 전통 문화 도시인 경북의 저력을 전 세계에 보여주는 자리”라며 “APEC 참가자들이 전시를 통해 한국 예술의 깊이와 경북의 아름다움을 만끽하길 바란다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘60억 추징’ 이하늬 “탈세·탈루 아냐… 법 해석 차이 때문” 추가 해명</title>
-      <link>https://www.chosun.com/national/national_general/2025/03/07/YVM7ME5AX5BJXCRUCGJEVEHI2Q/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/03/07/YVM7ME5AX5BJXCRUCGJEVEHI2Q/</guid>
-      <dc:creator>박선민 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 07 Mar 2025 03:31:22 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7CUPWOLJ6CPPYABJ3E2746WAGY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;배우 이하늬가 21일 오후 서울 마포구 상암동 SBS 프리즘타워에서 열린 '2024 SBS 연기대상' 레드카펫 행사에 참석하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;세무조사를 받고 거액의 세금을 추가로 납부한 사실이 최근 알려진 배우 이하늬가 탈세 의혹을 재차 해명했다. &lt;br&gt;&lt;br&gt;이하늬 소속사 팀호프는 7일 입장문을 통해 “이하늬는 대한민국 국민으로서 법과 절차를 준수하여 납세의 의무를 다해왔으며, 앞으로도 납세의 의무를 성실하게 이행할 것”이라며 추가 세금을 납부하게 된 배경을 상세히 설명했다. &lt;br&gt;&lt;br&gt;소속사는 “이번 세무조사 결과에 따른 소득세 부과 처분은 법인사업자를 보유한 아티스트의 소득을 법인세와 소득세 중 어느 세목으로 납부해야 하는지에 대한 법 해석 차이에서 비롯된 것”이라고 했다. &lt;br&gt;&lt;br&gt;소속사는 “이하늬는 본업인 연기 활동과 더불어 매니지먼트에서 수행하거나 관리해 줄 수 없는 국악 공연, 콘텐츠 개발 및 제작, 투자 등 다양한 활동을 수행하기 위해 호프프로젝트(법인)를 설립해 운영해왔다”며 “최근 세무조사 과정에서 연예 활동 수익이 법인사업자의 매출로써 법인세를 모두 납부하였더라도 그 소득은 법인 수익으로 법인세 납부의 대상이 아니라 개인 소득으로 소득세 납부의 대상이 돼야 한다는 과세관청의 해석이 있었다”고 했다. &lt;br&gt;&lt;br&gt;그러면서 “이에 따라 소득세 추가 부과 처분이 내려졌으며, 이하늬는 이를 전액 납부했다”고 했다. &lt;br&gt;&lt;br&gt;소속사는 “조사 대상 기간 동안 연예 활동에 관한 소득 신고 누락이나 허위 경비 계상 등 탈세, 탈루 사실은 발견되지 않았음을 명확하게 말씀드린다”고 했다. 소속사는 “일반적으로 세무조사 과정에서 납세자가 부정한 행위로 조세를 포탈하려는 혐의가 드러난 경우 일반 세무조사가 조세범칙조사로 전환되어 더 강도 높은 조사를 받게 된다”면서 “그러나 이하늬는 조세범칙조사 없이 소득세 부과 처분으로 조사가 마무리됐다”고 했다. &lt;br&gt;&lt;br&gt;소속사는 이하늬가 법인 수익으로 신고해 세금을 납부한 금액 중 동일한 소득에 대해 개인 소득세가 부과되면서 이중과세가 발생했다고도 주장했다. 소속사는 “언론에 보도된 금액의 절반 이상이 이중과세와 가산세에 해당하는 금액”이라며 “세법상 최고세율을 현저히 상회하는 금액이 부과됐다”고 했다. 그러면서 “현재 과세처분은 최종 확정된 것이 아니며, 향후 조세전문법무법인을 선임하여 이중 과세 및 법 해석 적용 문제에 대해 법적 절차를 통해 법리적인 판단을 구하고 적극 소명할 예정”이라고 했다. &lt;br&gt;&lt;br&gt;앞서 지난달 17일 한 매체는 이하늬가 작년 9월 서울지방국세청에서 법인사업자 아티스트 비정기 통합기획 세무조사를 받았으며, 이 과정에서 60억원 상당의 추가 세금을 납부했다고 보도했다.&lt;br&gt;&lt;br&gt;이에 일각에서 탈세 의혹이 제기되자, 이하늬 소속사는 같은 날 공식 입장을 내고 “이번 세금은 세무 당국과 세무 대리인 간 관점 차이에 의한 추가 세금으로, 전액을 납부했다”며 “고의적 세금 누락 등과는 전혀 관계가 없다”고 반박했다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>검찰, “국회에 尹 영장 허위 답변한 직원 특정” 공수처에 요청</title>
-      <link>https://www.chosun.com/national/court_law/2025/03/07/ETE3F3LHIRAHXFWAXDDR2XK2X4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/03/07/ETE3F3LHIRAHXFWAXDDR2XK2X4/</guid>
-      <dc:creator>유종헌 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 07 Mar 2025 03:08:51 +0000</pubDate>
-      <content:encoded>고위공직자범죄수사처(공수처)의 윤석열 대통령 영장 위법 청구 논란을 수사 중인 검찰이 ‘국회에 허위 답변을 제출한 직원을 특정해달라’고 공수처에 요구했다.&lt;br&gt;&lt;br&gt;서울중앙지검 형사1부(부장 김승호)는 지난 5일 공수처에 “주진우 국민의힘 의원실의 윤 대통령 영장 관련 질의에 허위로 답변을 기재한 공수처 직원을 특정해달라”는 공문을 보냈다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MADC6LR7JIPVR7JA7TAIPLNRFE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;공수처 현판. / 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;주 의원은 지난 1월 공수처에 ‘윤 대통령 사건과 관련해 체포·압수수색·통신영장 등을 중앙지법에 청구한 적 있느냐’는 취지의 질의를 보냈다. 이에 공수처는 ‘중앙지법에 윤 대통령 영장을 청구한 사실이 없다’고 답했다. 그러나 공수처는 지난해 12월 윤 대통령 통신영장을 중앙지법에 청구했던 것으로 이후 드러났다. &lt;br&gt;&lt;br&gt;윤 대통령 변호인단은 지난달 21일 오동운 공수처장을 허위공문서 작성·행사 등으로 고발했고, 검찰은 지난달 28일 공수처를 압수수색하는 등 본격적인 수사에 나섰다.&lt;br&gt;&lt;br&gt;오 처장은 국회에서 “수사기획관이 없는 상태에서 법률 전문가가 아닌 파견 직원이 윤 대통령 체포영장에 관해 주로 묻는 것으로 이해한 나머지 일어난 일”이라며 “적절하지 않게 답변이 나간 것은 인정한다”고 했다.&lt;br&gt;&lt;br&gt;검찰은 공수처가 중앙지법에 윤 대통령 체포영장을 청구했다가 기각되자 서부지법으로 법원을 바꿔놓고, 관련 기록을 은폐한 것 아니냐는 의혹도 수사 중이다.&lt;br&gt;&lt;br&gt;한편, 공수처는 지난해 12월 18일 경찰이 신청한 윤 대통령 관련 압수수색 영장도 중앙지법에 청구해 발부받았던 것으로 이날 나타났다. &lt;br&gt;&lt;br&gt;당시 압수수색 영장은 윤 대통령과 김용현 전 국방부 장관, 조지호 경찰청장, 김봉식 전 서울경찰청장이 계엄 직전 회동했던 삼청동 안전가옥 CCTV에 관한 영장이었다고 한다. 해당 영장에는 ‘형사소송법 110조(군사상 비밀 장소에 관한 압수수색 제한)를 준수하라’는 취지의 기재도 있었다고 한다. 반면 공수처가 이후 서부지법에 청구해 발부받은 윤 대통령 체포 영장에는 ‘형사소송법 110조 예외’ 단서가 달렸다.&lt;br&gt;&lt;br&gt;공수처 관계자는 삼청동 안전가옥 관련 압수수색 영장을 서울중앙지법에 청구한 데 대해 “공수처법상 공수처가 기소하는 사건의 재판관할은 서울중앙지법이 원칙인데, 조지호·김봉식 두 사람은 공수처에 기소권이 있기 때문”이라고 설명했다. 반면 윤 대통령 사건은 공수처에 기소권이 없는만큼 이 규정의 적용 대상이 아니라는 것이다. 당시 영장 표지에 윤 대통령이 대표 피의자로 기재돼 있기는 하지만, 영장 내용은 조 청장과 김 전 청장 혐의에 관한 내용이라고 한다.&lt;br&gt;&lt;br&gt;이 관계자는 또 “압수수색 영장은 원칙적으로 형사소송법 110조가 적용되기 때문에 중앙지법이 이런 원칙을 명시한 것”이라면서 “체포 영장과 다르다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>총수 딸 회사에 ‘알짜’ 땅 넘긴 대방건설...검찰, 압수수색</title>
-      <link>https://www.chosun.com/national/court_law/2025/03/07/YQXNWZ7JYJAVRNWBQVYQNJORJM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/03/07/YQXNWZ7JYJAVRNWBQVYQNJORJM/</guid>
-      <dc:creator>유종헌 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 07 Mar 2025 02:06:19 +0000</pubDate>
-      <content:encoded>검찰이 알짜 공공 택지를 총수 딸·며느리 회사에 넘겼다가 적발된 대방건설에 대해 7일 강제 수사에 착수했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XOKB4EJ7KKELO3HTJY3IOEMWS4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대방건설 전경. /대방건설&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지검 공정거래조사부(부장 김용식)는 이날 대방건설의 공정거래법 위반 혐의와 관련, 대방건설 본사와 계열사 사무실을 압수수색 중이라고 밝혔다. &lt;br&gt;&lt;br&gt;대방건설은 계열사들을 대거 동원한 ‘벌떼 입찰’ 방식으로 2014년 11월~2020년 3월 마곡·동탄 등 공공 택지 6곳을 확보해놓고 이를 대방산업개발 및 자회사에 되팔았다. 대방건설은 구교윤 대방건설 회장의 아들과 사위가 대주주이고, 대방산업개발은 구 회장의 딸과 며느리 소유다. &lt;br&gt;&lt;br&gt;대방산업개발은 공공 택지 6곳을 넘겨받기 전인 2014년만 해도 공공 택지 사업 실적이 1건에 그쳤고 시공 능력 순위는 228위였는데, 10년 만인 지난해 77위로 뛰어올랐다. 매출도 10년 전의 4배 이상으로 뛰었다.&lt;br&gt;&lt;br&gt;공정위는 지난달 25일 대방건설과 대방산업개발(5개 자회사 포함)에 각각 120억원과 85억원의 과징금을 부과하고 법인을 검찰에 고발했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>목동14단지, 정비구역 지정…최고 49층 5123가구 규모로 재건축</title>
-      <link>https://www.chosun.com/national/national_general/2025/03/07/6CHP3A4XW5D4FJEYR7ITIHO3EY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/03/07/6CHP3A4XW5D4FJEYR7ITIHO3EY/</guid>
-      <dc:creator>김영우 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 07 Mar 2025 01:01:29 +0000</pubDate>
-      <content:encoded>서울 양천구 신정동 목동14단지가 최고 49층 5123가구 규모 단지로 재건축될 전망이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/INDVLECVXFFHVA2YGPXYMDDR5E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 양천구 신정동 목동14단지의 재건축 조감도. /양천구&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;양천구는 지난 6일 이 같은 내용을 담은 정비 계획 수립 및 정비구역 지정을 고시했다고 7일 밝혔다.&lt;br&gt;&lt;br&gt;1987년 지어진 목동14단지는 3100가구가 사는 34동(棟) 규모 아파트다. 안양천과 양천공원 등이 인근에 있고, 2호선 양천구청역과도 가깝다. 2023년 1월 안전 진단 통과 후 정비 계획안을 마련해 지난해 11월 서울시 심의를 통과했다.&lt;br&gt;&lt;br&gt;이번 정비구역 지정 고시에 따라 14단지는 용적률 300% 이하를 적용받는다. 높이는 최고 49층, 총 5123가구 규모 단지가 된다.&lt;br&gt;&lt;br&gt;양천구 관계자는 “당초 60층까지도 고려했지만, 서울시 자문회의 결과 등을 반영해 49층으로 조정했다”고 말했다.&lt;br&gt;&lt;br&gt;지역 주민의 편의를 위해 목동동로와 단지 내부 도로 폭을 넓혀 자전거도로와 보행 공간을 확보하기로 했다. 주변 단지와 2호선 양천구청역으로 이어지는 공공 보행 통로도 설치한다.&lt;br&gt;&lt;br&gt;이외에도 안양천변에는 근린공원을 설치하고, 단지 중심부에 공터를 확보한다. 공공 기여 시설로는 노인 요양 시설이 들어서게 된다.&lt;br&gt;&lt;br&gt;양천구 관계자는 “앞으로 사업 시행 방식을 결정하고 시공사 선정 등 재건축 추진에 속도를 낼 계획”이라고 했다.&lt;br&gt;&lt;br&gt;한편 목동아파트는 현재 14개 단지 중 10개 단지가 정비계획안을 공개하고 재건축 사업을 시작했다. 이번 14단지의 정비구역 지정은 6단지에 이어 두 번째다. 14단지는 목동지구 내 단지 중 규모가 가장 크다.&lt;br&gt;&lt;br&gt;이기재 양천구청장은 “연내 14개 단지 모두 정비구역 지정을 목표로 목동아파트 재건축을 추진하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[단독] 의사만 하던 골수 채취·피부 봉합… 이젠 PA 간호사도 한다</title>
-      <link>https://www.chosun.com/national/welfare-medical/2025/03/07/BN2CVIBHXVB5LPWKZP6HWDJKZ4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/03/07/BN2CVIBHXVB5LPWKZP6HWDJKZ4/</guid>
-      <dc:creator>조백건 기자, 오유진 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 06 Mar 2025 20:04:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CO5AOFWPQOHG7J56E2KANHLVZ4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대전 중구의 한 병원에서 간호사들이 환자를 돌보고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;앞으로 진료 지원(PA) 간호사도 의사의 위임하에 환자에 대한 약·검사 처방을 할 수 있다. 의사의 전유물로 여겨졌던 골수·동맥혈 채취, 피부 절개·봉합도 PA 간호사가 할 수 있다. 전공의가 주로 했던 진료·수술 기록 초안도 PA 간호사가 작성한다. 정부는 1만7000여 명인 PA 간호사의 구체적 업무 내용을 담은 간호법 시행규칙을 내주 입법 예고할 방침이다. &lt;br&gt;&lt;br&gt;지난해 전공의 1만여 명이 집단 사직하자, 정부는 그간 법적 근거가 없었던 PA 간호사를 법에 명시하는 간호법 개정안을 발의했다. 법안은 작년 8월 국회를 통과했다. 이들의 구체적인 ‘가능 업무 목록’은 하위 시행규칙에 담기로 했었다. &lt;br&gt;&lt;br&gt;6일 본지 취재 결과, 간호법 시행규칙에는 총 50여 개의 PA 간호사 수행 가능 업무 내용이 담긴다. 이 중엔 ‘직무 기술서에 따라 위임된 약물·검사의 처방’도 포함된 것으로 확인됐다. 의료계 인사들은 “의사로부터 특정 질환에 관한 약물·검사 처방을 위임받았다는 사실을 본인의 직무 기술서에 기록하면 PA 간호사도 의사처럼 환자에 대한 처방을 할 수 있다는 뜻”이라고 했다. 의사들은 그동안 “간호사는 처방권이 없어 집단 이탈한 전공의의 공백을 메울 수 없다”고 해왔지만, 정부의 이번 조치로 이런 전제가 사실상 깨지게 됐다. 또 각 병원이 보건복지부의 승인을 받으면 PA 간호사의 업무 범위를 더 넓힐 수 있다는 내용도 시행규칙에 담겼다. &lt;br&gt;&lt;br&gt;&lt;b&gt;◇전공의가 주로 하던 50개 업무, PA 간호사 1만7000명도 가능&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PW4ZLS54HFCDLF3QQIKIA2GLMM.png"&gt;&lt;figcaption&gt;&lt;small&gt;6일 서울의 한 대형 병원에서 간호사가 환자의 상처 소독 준비를 하고 있다. 정부는 의사의 수술 등 업무를 돕는 PA 간호사의 업무 법위를 세분화해 전공의의 빈자리를 대신하도록 했다.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정부는 앞으로 임상(현장) 경력 3년 이상에 관련 교육을 이수한 ‘전담 간호사’ 또는 기존에 있던 응급·아동 등 13개 분야의 ‘전문 간호사’를 PA 간호사로 규정하기로 했다. 현재 이미 활동하고 있는 PA 간호사 1만7000여 명은 간이 교육 등만 받게 한 뒤 그대로 PA 간호사 지위를 인정할 방침이다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ON5BKLA6BZH6FN4WIBHUZUSZPE.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=양진경&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;보건복지부는 PA 간호사의 업무 분야를 크게 세 가지로 나눠 간호법 시행규칙에 담을 계획이다. 모든 PA 간호사가 할 수 있는 ‘공통 업무 분야’, 숙련된 간호사와 전문 간호사 자격을 가진 사람이 할 수 있는 ‘심화 업무 분야’, 외과 수술 등 특정 분야에 특화된 업무를 하는 ‘특수 업무 분야’다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AINKJXK5UVEE7OE23JYFL6DZVA.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=양진경&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;PA 간호사의 공통 업무 분야엔 ‘(의사에 의해) 위임된 약물·검사의 처방’이 들어간다. 서울의 한 대학병원 내과 교수는 “약물·검사 처방은 간호사에게 위임할 수 없는 의사 고유의 의료 행위”라고 했다. 상당수 의사가 이런 생각을 갖고 있어 논란이 될 여지가 있다. &lt;br&gt;&lt;br&gt;하지만 일부 의사는 “입원·수술실을 지키던 전공의가 모두 빠진 상황에서 병원을 유지하려면 의사의 판단하에 처방권을 간호사에게 위임하는 것이 가장 현실적이고 효과적”이라고 했다. 정부는 간호법에 ‘의사의 일반적 지도·위임에 근거해 간호사가 진료 지원(PA) 업무를 할 수 있다’고 돼 있기 때문에 문제가 없다는 입장이다. &lt;br&gt;&lt;br&gt;공통 업무 분야엔 전공의가 주로 하던 수술·시술 치료 동의서 초안 작성도 포함됐다. 간호사가 해왔지만 의료법 위반 시비가 끊이지 않던 영양관(영양소 주입관) 및 배액관(분비물 배설관) 삽입, 상처 드레싱(소독), 직장 내 출혈 확인을 위한 직장 수지 검사도 PA 간호사의 업무가 됐다. &lt;br&gt;&lt;br&gt;심화 업무 분야에는 피부 봉합과 매듭, 절개와 배농(고름 짜내기)이 포함됐다. 동맥의 피를 뽑는 동맥혈 천자도 포함됐다. 그동안 의사들 사이에선 “동맥혈 천자는 잘못하면 동맥 괴사가 발생할 수 있어 의사만 해야 한다”는 인식이 강했다. 좁아진 일부 혈관을 넓히는 시술을 하기 위해 카테터(관)를 삽입하는 말초동맥관 삽입도 PA 간호사 가능 업무로 편입됐다. &lt;br&gt;&lt;br&gt;정부는 또 간호사 ‘금기 영역’으로 통했던 골수 채취도 전문 간호사에게 허용하기로 했다. 검찰은 지난 2018년 이 골수 채취를 간호사에게 시킨 서울아산병원 교수 12명을 의료법 위반 혐의로 재판에 넘긴 바 있다. 대법원은 작년 말 “의사만 골수 채취를 할 수 있다고 보긴 어렵다”며 무죄 선고를 했다. 뇌척수액 채취, 중심정맥관 삽입·제거도 PA 간호사가 할 수 있게 됐다. &lt;br&gt;&lt;br&gt;PA 간호사가 진료과별로 특수한 업무를 할 수 있는 특수 업무 분야도 생긴다. 환자 몸 밖으로 혈액을 빼낸 뒤 산소를 공급해 다시 혈액을 주입하는 에크모(ECMO) 장비 사용을 가능하게 하는 방안도 논의 중으로 알려졌다. &lt;br&gt;&lt;br&gt;의료계에선 “향후 PA 간호사 숫자도 늘어나고, 업무 영역도 계속 확대될 것”이란 관측이 많다. PA 간호사 허들은 높지 않다. 임상 경력 3년을 갖추고, 대한병원협회 또는 대한간호사협회가 운영하는 직무 교육을 받기만 하면 PA 간호사가 될 수 있다. 현재 국내 간호사 인원은 56만명이기 때문에 정부의 집중적 지원이 예상되는 PA 간호사 숫자가 급증할 수 있다는 뜻이다. PA 간호사는 작년에만 7000명 늘었다. &lt;br&gt;&lt;br&gt;시행 규칙에는 각 병원이 ‘PA 간호사 가능 업무’의 추가를 원할 경우 신설되는 복지부 산하 조정위원회에 신청할 수 있도록 하는 내용도 담긴다. 조정위로부터 ‘적합’ ‘예비 적합(일정 기간 문제 없으면 승인)’ 판정을 받으면 PA 간호사 직무 영역이 늘어나게 된다. 의료계 인사들은 “PA 간호사들이 기존 전공의 업무의 상당 부분을 대신할 것”이라고 했다. &lt;br&gt;&lt;br&gt;미국은 주마다 차이가 있지만 의사의 감독하에 PA 간호사가 질병을 진단하고 약물을 처방하는 경우가 많다. 미국의 PA 간호사 수는 2020년 기준 14만8500명에 달한다. 캐나다의 PA 간호사 800여 명 대부분도 약을 처방한다. 영국의 PA 간호사(2500여 명)는 의료팀의 일원으로 의사의 직접적인 지시를 받아 일하기 때문에 독립성이 거의 없다. &lt;br&gt;&lt;br&gt;&lt;b&gt;☞PA 간호사&lt;/b&gt;&lt;br&gt;&lt;br&gt;의사의 수술 집도 등을 보조하는 간호사. 수술 부위 봉합, 튜브 삽관 등 의사 업무 일부를 담당한다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>쉼터서 지내며 서울대 합격한 ‘제주 청년’에 쏟아진 온정</title>
