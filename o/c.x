@@ -13,6 +13,18 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>제주에서 이틀 연속 정전…신호등 꺼지고 1000여 가구 불편</title>
+      <link>https://www.chosun.com/national/national_general/2025/03/08/BKKFQ32DDNEVXDHLQFFGFM7FVA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/03/08/BKKFQ32DDNEVXDHLQFFGFM7FVA/</guid>
+      <dc:creator>진창일 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 08 Mar 2025 04:00:56 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QRI65ZJP2XQE3YZSM3VPALL4HY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 7일 오후 8시 17분쯤 제주시 삼도동의 한 도로 전신주 변압기에서 불꽃과 연기가 나고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제주에서 이틀 연속 정전사고가 나 신호등이 꺼지고 1000여 가구가 불편을 겪었다.&lt;br&gt;&lt;br&gt;8일 제주소방본부에 따르면 이날 오전 8시 13분쯤 제주시 애월고등학교 인근 주택 1000여 가구에서 정전이 발생했다.&lt;br&gt;&lt;br&gt;정전 발생지역의 교통신호등도 꺼져 경찰이 출동해 교통안전 관리에 나섰다. 한국전력공사는 긴급복구 작업에 나서 이날 오전 9시 29분쯤 복구를 마쳤다.&lt;br&gt;&lt;br&gt;전날 오후 8시 17분쯤 제주시 삼도동 일부 세대도 정전됐다가 복구됐다. 한전과 소방당국은 정전 당시 전봇대 변압기에서 불꽃과 연기가 발생했다는 목격자 진술을 확보했다.&lt;br&gt;&lt;br&gt;한전은 변압기 이상 등 정전사고 원인을 조사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/QRI65ZJP2XQE3YZSM3VPALL4HY.jpg?width=720&amp;height=474&amp;auth=1660ef6d52a66e072c8af2faf1d949657732be1f50ce463531d741582defe215&amp;smart=true" type="image/jpeg" height="474" width="720">
+        <media:description type="plain">지난 7일 오후 8시 17분쯤 제주시 삼도동의 한 도로 전신주 변압기에서 불꽃과 연기가 나고 있다. /뉴시스</media:description>
+      </media:content>
+    </item>
+    <item>
       <title>대검 “일단 석방” 수사팀 “즉시항고”… 검찰 내부 갑론을박</title>
       <link>https://www.chosun.com/national/court_law/2025/03/08/UEFNUMS5SVBXTBUWN6447X4UPQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/03/08/UEFNUMS5SVBXTBUWN6447X4UPQ/</guid>
@@ -934,15 +946,6 @@
       <description/>
       <pubDate>Fri, 07 Mar 2025 02:06:19 +0000</pubDate>
       <content:encoded>검찰이 알짜 공공 택지를 총수 딸·며느리 회사에 넘겼다가 적발된 대방건설에 대해 7일 강제 수사에 착수했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XOKB4EJ7KKELO3HTJY3IOEMWS4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대방건설 전경. /대방건설&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지검 공정거래조사부(부장 김용식)는 이날 대방건설의 공정거래법 위반 혐의와 관련, 대방건설 본사와 계열사 사무실을 압수수색 중이라고 밝혔다. &lt;br&gt;&lt;br&gt;대방건설은 계열사들을 대거 동원한 ‘벌떼 입찰’ 방식으로 2014년 11월~2020년 3월 마곡·동탄 등 공공 택지 6곳을 확보해놓고 이를 대방산업개발 및 자회사에 되팔았다. 대방건설은 구교윤 대방건설 회장의 아들과 사위가 대주주이고, 대방산업개발은 구 회장의 딸과 며느리 소유다. &lt;br&gt;&lt;br&gt;대방산업개발은 공공 택지 6곳을 넘겨받기 전인 2014년만 해도 공공 택지 사업 실적이 1건에 그쳤고 시공 능력 순위는 228위였는데, 10년 만인 지난해 77위로 뛰어올랐다. 매출도 10년 전의 4배 이상으로 뛰었다.&lt;br&gt;&lt;br&gt;공정위는 지난달 25일 대방건설과 대방산업개발(5개 자회사 포함)에 각각 120억원과 85억원의 과징금을 부과하고 법인을 검찰에 고발했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>경찰, ‘논문 꼼수 심사 의혹’ 서강대 로스쿨 압수수색</title>
-      <link>https://www.chosun.com/national/national_general/2024/11/06/36ICBZBMDVF37O2GWXY7ID7IT4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2024/11/06/36ICBZBMDVF37O2GWXY7ID7IT4/</guid>
-      <dc:creator>고유찬 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 06 Nov 2024 05:10:16 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/77B5WYTH25E4HGEPBKN7YROTJM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서강대학교 정문. /전기병 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;특정 교원의 재임용을 위해 서강대 법학전문대학원(법전원) 교수들이 논문을 이른바 ‘꼼수 심사’했다는 의혹과 관련, 경찰이 강제 수사에 나섰다.&lt;br&gt;&lt;br&gt;6일 경찰 등에 따르면 서울 마포경찰서는 서강대 법전원 교수들이 과거 특정 교원의 재임용을 위해 부적절한 방법으로 논문을 심사했다는 의혹을 접수, 이날 오전 서울 마포구 서강대 법학전문대학원 등을 압수수색했다.&lt;br&gt;&lt;br&gt;경찰은 이 대학 전 법전원장 A씨, 당시 대학 부설 연구소의 학술지 편집위원장이던 B씨를 비롯해 교수 등 7명을 업무방해 등 혐의로 입건해 수사하고 있다.&lt;br&gt;&lt;br&gt;A씨 등은 2019년 2월 조교수였던 C씨에게 대학 부설 연구소에서 발간하는 학술지에 논문을 내도록 하고 이를 절차에 맞지 않게 심사한 뒤 ‘논문 게재 예정 증명서’를 허위로 발급한 혐의를 받는다.&lt;br&gt;&lt;br&gt;C씨가 연구업적 점수 미달로 재임용되지 못할 상황에 놓이자 2018년 10월 논문 게재 예정 증명서 없이 ‘조건부 재임용’을 먼저 결정했는데, C씨가 끝내 다른 학술지에 논문을 게재하지 못하면서 교내 학술지에서 ‘꼼수 심사’를 했다는 의혹이 제기됐다.&lt;br&gt;&lt;br&gt;C씨의 논문은 다른 학술지 2곳에선 게재 불가 판정을 받은 것으로 파악됐다.&lt;br&gt;&lt;br&gt;해당 학술지의 심사규정에 따르면 편집위원장이 투고 논문 접수 마감 후 편집위원회를 소집해 접수된 논문에 대한 심사 절차를 진행해야 한다.&lt;br&gt;&lt;br&gt;하지만 A 교수 등은 편집위원들을 거치지 않고 논문심사위원을 임의로 물색하도록 지시했으며, C씨의 논문과 관련이 없는 다른 법을 전공한 3명에게 논문심사를 의뢰해 하루 만에 논문심사서를 받은 것으로 전해졌다.&lt;br&gt;&lt;br&gt;이후 논문 게재 예정 증명서는 학술지 편집위원회를 열지 않은 채 편집위원회 명의로 발급돼 B씨 등이 회의록과 서류를 위조했다는 의혹도 있다.&lt;br&gt;&lt;br&gt;A씨 등 2명은 이 사건과 관련해 2021년 대학 측의 징계를 받기도 한 것으로 알려졌다. A씨 징계에 대한 무효 판결은 2024년 11월 8일 서울고등법원에서 내려졌다고 A씨 측은 밝혔다. &lt;br&gt;&lt;br&gt;A씨와 B씨 측은 2025년 3월 7일 “C씨에 대해 논문 게재 예정 증명서 없이 ‘조건부 재임용’을 먼저 결정한 사실이 없고 꼼수 심사를 사실이 없다”고 했다.&lt;br&gt;&lt;br&gt;또 “편집 위원들을 거치고 논문 심사위원을 임의로 물색하도록 지시한 사실이 없고, C씨의 논문과 관련이 없는 다른 법을 전공한 3명에게 논문 심사를 의뢰한 사실도 없다”고 했다. &lt;br&gt;&lt;br&gt;B씨는 “회의록과 서류를 위조한 사실이 없고 관련하여 징계 처분을 받은 사실도 없다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>처음 본 여중생 머래채 잡고 무차별 폭행한 30대 여성…무슨 일?</title>
