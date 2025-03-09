@@ -6,6 +6,35 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>[판결] 징계위 출석통지서 1일 전 받았더라도 … 법원 "해고 정당"</title>
+			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/thumb/180/206171.jpg" alt="177061.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;동료의 퇴직금을 횡령한 직원이 징계위원회 출석통지서를 하루 전에 받아 해고가 부당하다고 소송을 제기했지만 받아들여지지 않았다. &lt;br /&gt;&lt;br /&gt;서울행정법원 제12부(재판장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="4333"&gt;강재원&amp;nbsp;&lt;/span&gt;부장판사)는 A 씨가 중앙노동위원회를 상대로 제기한 부당해고구제 재심판정 취소소송(&lt;b&gt;2024구합57149&lt;/b&gt;)에서 원고의 청구를 기각했다. A 씨의 해고는 정당하다는 것이다.&lt;br /&gt;&lt;br /&gt;A 씨는 2009년 1월 12일부터 사단법인 한국지체장애인협회 산하 시설에서 사무국장으로 근무했다. 그는 퇴직연금 업무를 담당하던 중 장애인 근로자인 D 씨의 퇴직금이 부당하게 수령된 사실이 드러났다. 조사 결과, D 씨의 퇴직연금이 해지된 후 그의 계좌에서 A 씨 계좌로 금전이 이체됐고, D 씨 명의의 대출도 존재하는 것으로 밝혀졌다.&lt;br /&gt;&lt;br /&gt;이에 대해 A 씨는 본인이 피해자의 경제적 어려움을 관리하는 과정에서 신용불량자가 돼 D 씨 명의로 대출을 받고 퇴직금을 중간정산해 사용한 사실을 인정하는 취지의 경위서를 제출했다. 이후 협회는 자체 조사를 거쳐 A 씨의 출근 정지를 명령하고, 인사위원회를 통해 해고를 결정했다.&lt;br /&gt;&lt;br /&gt;A 씨는 해고 과정에서 방어권이 침해됐다고 주장하며 징계위원회 출석통지서가 취업규칙에서 정한 3일 전에 도달하지 않았고, 충분한 소명 기회가 주어지지 않았다고 주장했다&lt;br /&gt;&lt;br /&gt;그러나 재판부는 "A 씨가 자택 대기 명령 상태에서 근무 시간이었고, 우편물이 정상적으로 배송된 점을 고려하면 인사위 출석 통지서는 정상적으로 도달했다고 보는 것이 타당하다"며 "A 씨가 인사위 하루 전에 출석 통지서를 수령한 것은 A 씨의 사정일 뿐, 협회에 귀책사유가 있다고 볼 수 없다"고 판단했다.&lt;br /&gt;&lt;br /&gt;또 "A 씨는 피해자 D 씨 명의를 도용해 여러 차례 대출을 받거나 퇴직금 중간 정산, 적금 해지 등을 통해 상당액을 횡령했다"며 "그 과정에서 여러 문서를 위·변조했고 이에 대한 유죄 판결이 확정됐다"고 지적했다.&lt;br /&gt;&lt;br /&gt;그러면서 "A 씨는 도움이 필요한 피해자에게 고의적으로 손해를 끼쳐 기본적인 직업 윤리를 현저히 위배했으며, 그 불법성과 비난 가능성이 매우 크다"며 "A 씨의 행위로 해당 시설의 대외적 평판이 훼손됐고, 2023년 '직장 내 괴롭힘' 사건으로 정직 2개월 징계를 받은 전력까지 고려하면, 해고 조치가 사회 통념상 부당하다고 볼 수 없다"고 판시했다.</description>
+			<pubDate>Sun, 09 Mar 2025 00:07:32 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/206171</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/206171</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/206171.jpg</media:thumbnail>
+			<dc:creator>안재명 기자</dc:creator>
+		</item>
+		<item>
+			<title>[판결] LNG 발전소 2차 발전 역시 화력발전… "과세 대상"</title>
+			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/206159.jpg" alt="5.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;대법원이 액화천연가스(LNG) 발전소의 2차 발전 과정 역시 화력발전에 해당하므로 과세 대상이라고 판단했다. 대법원 특별1부는 2월 20일 한국남부발전(&lt;b&gt;2024두37145&lt;/b&gt;, 주심&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="5554"&gt;서경환&amp;nbsp;&lt;/span&gt;대법관)과 한국서부발전(&lt;b&gt;2024두44655&lt;/b&gt;, 주심&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="1377"&gt;노태악&amp;nbsp;&lt;/span&gt;대법관)이 지역자원시설세 환급을 요구하며 제기한 지역자원시설세경정청구거부처분취소소송에서 상고를 기각했다.&lt;br /&gt;&lt;b&gt;&lt;br /&gt;[사실관계 및 1심과 항소심]&lt;/b&gt;&lt;br /&gt;한국남부발전과 한국서부발전은 LNG 연소 과정에서 발생한 가스로 가스터빈을 구동해 전력을 생산하는 1차 발전을 수행한 뒤, 이 과정에서 배출된 폐열을 이용해 증기터빈을 구동하는 2차 발전을 추가로 수행했다. 이들은 부산광역시, 인천광역시 등 지자체에 지역자원시설세를 납부했으나, 2차 발전은 화력발전에 해당하지 않는다며 납부한 세금의 환급을 구하는 경정청구를 했다. 하지만 과세당국이 이를 거부하자 소송을 제기했다.&lt;p&gt;&lt;br /&gt;1심과 항소심은 "1차 발전을 통해 발생한 열에너지를 회수한 뒤 이를 기계에너지로 변환해 발전기를 돌리는 것 역시 화력발전에 포함된다"며 "2차 발전 과정에서 대기오염물질이 추가로 발생하지 않는다 하더라도, 이는 화력발전에 해당한다"며 원고 패소 판결을 내렸다.&lt;br /&gt;&lt;b&gt;&lt;br /&gt;[쟁점]&lt;/b&gt;&lt;br /&gt;LNG 연소 과정에서 발생한 폐열을 이용한 2차 발전이 과세대상인 화력발전에 포함되는지 여부.&lt;br /&gt;&lt;b&gt;&lt;br /&gt;[대법원 판단(요지)]&lt;/b&gt;&lt;br /&gt;대법원은 상고를 기각하고 원심을 확정했다. 재판부는 "화력발전은 ‘화석연료의 연소로 얻은 열에너지를 기계에너지로 변환함으로써 전기에너지를 얻는 발전’을 의미한다"며 "2차 발전은 1차 발전과 시간적, 공간적, 시설적으로 밀접하게 이루어지고 1차 발전의 효율을 보완하기 위함"이라고 설명했다. 이어 "LNG를 연소해 가스터빈을 돌려 전력을 생산하는 1차 발전뿐만 아니라 위 가스터빈에서 나온 배기가스열을 배열회수보일러에 통과시켜 발생한 증기로 증기터빈을 돌려 전력을 생산하는 2차 발전 역시 지역자원시설세 과세대상인 화력발전에 포함된다"고 판시했다.&lt;/p&gt;</description>
+			<pubDate>Sun, 09 Mar 2025 00:07:28 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/206159</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/206159</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/206159.jpg</media:thumbnail>
+			<dc:creator>안재명 기자</dc:creator>
+		</item>
+		<item>
+			<title>【오늘의 국회일정】 2025년 3월 9일</title>
+			<description>&lt;b&gt;◇의원실 세미나&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;16:00 모경종 의원실 등, 자랑스럽게 살고 싶은 대한민국을 그리다 토크콘서트 : 《자살하는 대한민국》 저자 초청(의원회관 제1소회의실)&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;b&gt;&lt;span style="font-size: 14px;"&gt;※ 상기 일정은 사정에 따라 변경될 수 있습니다.&lt;/span&gt;&lt;/b&gt;</description>
+			<pubDate>Sat, 08 Mar 2025 22:39:23 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/206183</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/206183</guid>
+			<dc:creator>인터넷 기자</dc:creator>
+		</item>
+		<item>
 			<title>(이번주 법조계 주요일정) 3월 10~15일</title>
 			<description>&lt;b&gt;△10일(월)&lt;/b&gt;&lt;br /&gt;-서울중앙지법, '특정범죄가중처벌등에관한법률위반(뇌물) 등 혐의' 유동규 외 4명 171차 공판(오전 10시)&lt;br /&gt;-서울중앙지법, '산업기술의유츌방지및보호에관한법률위반 등 혐의' 삼성전자 전 임원 최진석 외 2명 5차 공판(오후 2시)&lt;br /&gt;&lt;b&gt;&lt;br /&gt;△11일(화)&lt;/b&gt;&lt;br /&gt;-서울중앙지법, '특정범죄가중처벌등에관한법률위반(뇌물) 등 혐의' 이재명 더불어민주당 대표 외 1명 70차 공판(오전 10시30분)&lt;br /&gt;-서울고법, '위증교사 등 혐의' 이재명 더불어민주당 대표 외 1명 공판준비기일(오후 2시)&lt;br /&gt;&lt;b&gt;&lt;br /&gt;△12일(수)&lt;/b&gt;&lt;br /&gt;-서울중앙지법, '노동조합및노동관계조정법위반 등 혐의' 허영인 SPC 회장 외 18명 36차 공판(오전 10시)&lt;br /&gt;&lt;b&gt;&lt;br /&gt;△13일(목)&lt;/b&gt;&lt;br /&gt;-대법원 1부 선고(오전 10시, 제2호 법정)&lt;br /&gt;-대법원 2부 선고(오전 10시, 제1호 법정)&lt;br /&gt;-대법원 3부 선고(오전 11시, 제2호 법정)&lt;br /&gt;-법무법인 지평, '통상임금 전원합의체 판례 분석과 중대재해의 예방' 설명회(오후 2시, 경남 양산시 북부동 양산상공회의소 대회의실)&lt;br /&gt;-서울고법, '특정경제범죄가중처벌등에관한법률위반(횡령) 등' 혐의 박삼구 전 금호그룹 회장 11차 공판(오후 5시)&lt;br /&gt;&lt;b&gt;&lt;br /&gt;△14일(금)&lt;/b&gt;&lt;br /&gt;&lt;b&gt;&lt;br /&gt;△15일(토)&lt;/b&gt;&lt;br /&gt;-서울지방변호사회, 2025 춘계 바둑대회(오전 9시, 서울 서초구 서초동 서울지방변호사회관 2층 바둑실)&lt;br /&gt;-대한변호사협회, 제464기 'IT' 특별연수(오전 9시 30분, 서울 서초구 서초동 서울지방변호사회관)&lt;br /&gt;-한국법제연구원-행정법이론실무학회, 한양대 법학연구소 '규제입법과 행정절차: 비교법적 고찰과 현장중심적 접근' 2025 공동학술대회 개최(오후 1시 30분, 서울 종로구 도렴동 광화문 센터포인트 빌딩 지하 1층 룸A)</description>
 			<pubDate>Sat, 08 Mar 2025 22:08:15 -0000</pubDate>
@@ -212,36 +241,6 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/206169</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/206169.jpg</media:thumbnail>
 			<dc:creator>안재명 기자</dc:creator>
-		</item>
-		<item>
-			<title>로앤컴퍼니-전북변회 ‘법률 업무 혁신 환경 조성’ 업무협약</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/206150.jpg" alt="206150.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;김본환 대표(왼쪽)와 김학수 회장.&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;로앤컴퍼니(대표 김본환)와 전북지방변호사회(회장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="1755"&gt;김학수&lt;/span&gt;)가 법률 AI 기술 활용 확대를 위한 업무협약을 체결하고 협력을 강화하기로 했다. 이번 협약은 로앤컴퍼니가 경기중앙변회 성남지회, 인천변회에 이어 세 번째로 지방변호사회와 맺은 교육 및 기술 지원 협약이다.&lt;br /&gt;&lt;br /&gt;로앤컴퍼니는 3월 5일 전북 전주시 덕진구 전북변회 회관에서 협약식을 열고, 전북변회와 ‘법률 업무 서비스 도입 및 이용에 관한 업무협약’을 체결했다고 7일 밝혔다. 협약식에는 김본환 대표와&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="3274"&gt;안기순&lt;/span&gt;(55·사법연수원 27기) 법률 AI연구소장, 전북변회&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="1755"&gt;김학수&lt;/span&gt;(55·25기) 회장, 이삼일 제1부회장,&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="24499"&gt;이진&lt;/span&gt;(43·변호사시험 1회) 재무이사,&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="37456"&gt;최경환&lt;/span&gt;(40·8회) 부총무이사 등이 참석했다.&lt;br /&gt;&lt;br /&gt;이번 협약에 따라 전북변회 소속 변호사들은 1년간 법률 AI 비서 서비스 ‘슈퍼로이어’와 AI 기반 통합 법률정보 서비스 ‘빅케이스Plus’를 특별 할인가로 이용할 수 있다. 또한, 양 기관은 법률 AI 기술의 접근성을 높이기 위해 공동으로 다양한 교육 프로그램을 기획·추진할 계획이다.&lt;br /&gt;&lt;br /&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="1755"&gt;김학수&amp;nbsp;&lt;/span&gt;회장은 “AI 기술 발전이 법률시장에 큰 변화를 가져오고 있는 만큼, 회원 변호사들도 최신 기술을 업무에 적극 활용해 보기 바란다”며 “업무 경쟁력 강화를 위한 실질적인 지원을 아끼지 않겠다”고 밝혔다.&lt;br /&gt;&lt;br /&gt;김본환 대표는 “이번 협약을 통해 변호사 회원들에게 슈퍼로이어와 빅케이스 플러스의 선진화된 AI 서비스를 지원할 수 있게 돼 뜻깊다”며 “앞으로도 변호사회와 협력해 법률 AI 기술의 효용을 충분히 누릴 수 있는 환경 조성에 앞장서겠다”고 말했다.</description>
-			<pubDate>Fri, 07 Mar 2025 08:46:26 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/206150</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/206150</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/206150.jpg</media:thumbnail>
-			<dc:creator>조한주 기자</dc:creator>
-		</item>
-		<item>
-			<title>뉴진스, 어도어의 활동 금지 가처분 심문 출석… "신뢰관계 깨져" vs "일방 해지 안 돼"</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/206157.jpg" alt="n.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;‘NJZ’ 멤버 5명 《사진=연합뉴스》&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;‘NJZ’라는 이름으로 독자적인 활동을 시작한 뉴진스 멤버 5명이 7일 소속사 어도어가 제기한 활동 금지 가처분 심문에 직접 출석했다.&lt;p&gt;&amp;nbsp;   &lt;/p&gt;&lt;p&gt;서울중앙지법 민사50부(재판장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="3109"&gt;김상훈&amp;nbsp;&lt;/span&gt;수석부장판사)는 이날 어도어가 뉴진스를 상대로 낸 '기획사 지위보전 및 광고계약 체결 등 금지' 가처분 신청(&lt;b&gt;2025카합20037&lt;/b&gt;) 심문기일을 열었다. 가처분 심문에 당사자 출석 의무는 없지만 NJZ 멤버들은 어두운 계열의 옷을 입고 재판 내내 자리를 지키며 공방을 지켜봤다. 어도어 측에서는 김주영 대표이사가 출석했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;NJZ 멤버들은 2024년 11월 29일 어도어의 전속계약 위반을 이유로 계약 해지를 선언한 후 팀명을 변경하고 독자적인 활동을 시작했다. 이에 어도어는 2025년 1월 NJZ의 활동을 금지해달라는 가처분 신청을 제기했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;어도어 측은 "뉴진스는 어도어의 유일한 아티스트이며, 회사는 이 팀에 약 210억 원을 투자했다"며 "멤버들이 연습생 시절부터 뉴진스의 성공을 위해 노력했고, 전속계약을 해지할 만한 사유가 없다"고 주장했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;이어 "아이돌의 전속계약은 투자계약의 성격도 포함하기 때문에, 판례 역시 계약을 준수할 필요성을 인정하고 있다"며 "멤버들이 충분히 인지한 상태에서 체결한 계약이므로, 7년이라는 계약 기간이 과도하다고 볼 수 없다"고 강조했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;또한 "멤버들도 계약 이행이 회사에 중요한 영향을 미친다는 점을 알고 있었으며, 계약에는 ‘중요한 의무’를 위반한 경우에만 해지가 가능하다는 약정이 포함됐다"며 "일방적인 해지 선언만으로 계약이 종료될 수는 없다"고 했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;반면 NJZ 측은 "전속계약은 신뢰관계를 전제돼야 하며, 신뢰가 깨진 경우 계약 해지가 가능하다"고 주장했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;NJZ 측은 "법원 실무편람에서도 당사자의 협력이 없는 상태에서 계약 이행을 강제하는 것이 어렵다면, 보전의 필요성을 신중하게 판단해야 한다고 명시하고 있다"며 "창의성에 중대한 지장을 초래하는 경우 전속계약 해지는 폭넓게 인정될 수 있다"고 강조했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;또한 "하급심 판례에서도 전속계약 해지를 인정한 사례가 다수 존재하며, 매니저 퇴사를 이유로 계약을 해지한 사례도 있다"면서 "민희진 전 대표의 퇴사가 미친 영향은 이보다 훨씬 중대하므로, 가처분 신청은 기각돼야 한다"고 주장했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;그러면서 "(채권자가 주장하는 가처분) 보전의 필요성을 판단할 때는, 가수가 자유로운 의지를 갖고 활동할 수 있어야 하며, 전인격적 창의성이 요구된다는 점이 고려돼야 한다"며 "아이돌의 짧은 활동 생명을 감안하면, 부당한 차별이나 공격으로 신뢰관계가 파탄된 경우 정상적인 활동 지속이 불가능하다"고 설명했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;재판부는 NJZ 측 대리인에게 전속계약 해지 사유를 목차로 명확히 정리해 달라고 요청했다. 이후 양측 대표와 NJZ 멤버들이 직접 발언 기회를 가졌다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;김주영 어도어 대표는 "멤버들이 돌아오면, 저희가 가진 모든 역량과 진심을 다해 지원하겠다"고 밝혔다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;NJZ 멤버들은 각각 3~5분간 발언하며 "어도어와 신뢰가 깨져 더 이상 전속계약을 유지할 수 없다"는 입장을 피력했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
-			<pubDate>Fri, 07 Mar 2025 08:42:59 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/206157</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/206157</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/206157.jpg</media:thumbnail>
-			<dc:creator>안재명 기자</dc:creator>
-		</item>
-		<item>
-			<title>[신간소식] 성낙인 전 서울대 총장, 《헌법학》 제25판 발간</title>
-			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/thumb/180/206161.jpg" alt="206161.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;성낙인 전 서울대 총장이 &lt;b&gt;《헌법학》&lt;/b&gt; 제25판(법문사 펴냄)을 출간했다.&lt;br /&gt;&lt;br /&gt;이번 개정판은 2025년 1월 최신 판례와 개정법률, 헌법학 관련 논저들을 충실히 반영했다. 최근 법리 논쟁이 제기된 대통령의 형사상 특권부터 법률안 재의요구권, 국회의 탄핵소추까지 주요 현안이 상세히 담겼다.&lt;br /&gt;&lt;br /&gt;제2편 정치제도론에서는 현행 헌법에 규정된 대통령의 국가긴급권과 관련해 12·3 비상계엄 사태를 분석했다. &lt;br /&gt;&lt;br /&gt;저자는 책에서 “국가긴급권 발동의 목적은 정상적인 헌법 질서 회복을 위한 것”이라며 “윤석열 대통령의 비상계엄선포는 헌법이 규정한 상황적 요건을 갖추지 못하였을 뿐만 아니라 그 목적에도 위배된다”고 말했다.&lt;br /&gt;&lt;br /&gt;또 사전 통제 장치가 미흡하다는 점도 지적했다. 저자는 “급박한 상황에서 국민의 자유와 권리를 보호하고 국가의 존립을 수호할 책무를 지고 있는 대통령의 결단이 가장 중요하다”면서도 “적어도 대통령의 결단이 상황에 부합하는지 여부를 검증할 수 있는 최소한의 제도적 장치가 필요하다”고 강조했다. &lt;br /&gt;&lt;br /&gt;저자는 초판부터 87년 체제에서 대통령과 의회 사이의 관계를 분류해 왔으며, 이번 개정판에서 “87년 헌법은 천명을 다했다”며 “제7공화국 헌법을 제정할 때가 됐다”고 주장했다.&lt;br /&gt;&lt;br /&gt;또 현 상황에 대해서는 민주주의 규범을 지키지 않는 무한 정쟁이 낳은 비극적 결과라며, 87년 체제의 한계를 지적하고 제7공화국 헌법의 필요성을 다시 한번 강조했다.&lt;br /&gt;&lt;br /&gt;성 전 총장은 서울대학교 법학과를 나와 동 대학원에서 석·박사 과정과 프랑스 파리2대학 법학박사과정을 수료한 후 서울대 로스쿨 교수로 임용됐다. 이후 헌법재판소 자문위원, 한국공법학회 회장, 국회 헌법연구자문위원회 부위원장, 한국법학교수회 회장, 제26대 서울대 총장 등을 역임했다.</description>
-			<pubDate>Fri, 07 Mar 2025 08:41:10 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/206161</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/206161</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/206161.jpg</media:thumbnail>
-			<dc:creator>서하연 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
