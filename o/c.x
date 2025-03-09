@@ -13,6 +13,89 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>‘소음 피해’ 경기장 인근 서울 주민 14만명.. 주차요금·체육시설 50% 할인</title>
+      <link>https://www.chosun.com/national/national_general/2025/03/09/4HMLWREPUJFHBEHEPWSVGJF7I4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/03/09/4HMLWREPUJFHBEHEPWSVGJF7I4/</guid>
+      <dc:creator>박진성 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 09 Mar 2025 04:58:16 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LPZ5NQ7CBNPGNJIEAPKMZPJT44.jpeg"&gt;&lt;figcaption&gt;&lt;small&gt;3일 서울월드컵경기장에서 열린 K리그1 FC서울과 김천 상무의 경기 모습&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;잠실종합운동장, 서울월드컵경기장, 목동운동장 인근에 사는 주민 15만명가량이 오는 6월부터 체육시설 사용료와 주차요금을 최대 50% 감면받을 전망이다.&lt;br&gt;&lt;br&gt;9일 서울시에 따르면 이 같은 내용의 서울시립체육시설의 설치 및 운영에 관한 조례 시행규칙 개정안을 조만간 입법예고하고 조례·규칙 심의회 의결을 거쳐 6월 중 새 규칙을 공포할 계획이다.&lt;br&gt;&lt;br&gt;대형 경기장에는 스포츠 경기뿐 아니라 콘서트 등도 열리는데 이로 인한 소음과 주차난으로 불편을 겪는 주민들에게 일종의 보상을 주자는 취지다.&lt;br&gt;&lt;br&gt;잠실종합운동장, 서울월드컵경기장, 목동운동장 인근 주민이 지원 대상이다. 해당 시설에서 진행되는 각종 생활 체육교실 프로그램 수강료, 개인 연습 사용료, 주차장(부설 주차장 포함) 이용료를 최대 50% 감면해준다.&lt;br&gt;&lt;br&gt;경기장 인근 주민에 대한 지원 근거를 담은 서울시립체육시설 설치 및 운영에 관한 조례 개정안이 지난해 서울시의회 국민의힘 이성배 의원이 발의로 통과했는데, 이를 구체화한 것이다.&lt;br&gt;&lt;br&gt;다만, 외부 업체가 시에 임대료를 내고 운영하는 사우나와 같은 시설에 대한 할인은 제외다.&lt;br&gt;&lt;br&gt;서울시는 지원 대상을 꼽기 위해 지난해 4월부터 11월까지 경기장 소음으로 영향을 받는 지역을 조사했다.&lt;br&gt;&lt;br&gt;잠실종합운동장, 목동운동장, 서울월드컵경기장, 고척스카이돔 인근을 대상으로 대규모 스포츠 경기나 콘서트가 있을 때 발생하는 소음을 측정했다.&lt;br&gt;&lt;br&gt;구체적으로 보면 잠실종합운동장 소음 영향지역은 운동장 인근 0.52㎢로 분석됐다. 서울시 세대수 통계에 기반해 추정한 거주자는 836명이다.&lt;br&gt;&lt;br&gt;서울 최대 공연장이기도 한 서울월드컵경기장 소음 영향 지역은 9.08㎢로 거주자는 13만5481명으로 집계됐다.&lt;br&gt;&lt;br&gt;경기장이 있는 마포구 일대뿐 아니라 서대문구, 은평구, 영등포구까지 소음 피해가 있었다.&lt;br&gt;&lt;br&gt;목동운동장은 인근 0.69㎢에 소음 영향이 있었으며 거주자는 6505명으로 분석됐다.&lt;br&gt;&lt;br&gt;고척스카이돔은 돔구장 특성상 기준을 초과하는 소음 피해가 발생하지 않은 것으로 나왔다.&lt;br&gt;&lt;br&gt;향후 입법예고, 조례·규칙심의위원회를 거치며 지원 대상 거주지가 구체화될 것으로 보인다.&lt;br&gt;&lt;br&gt;서울시 관계자는 “구체적인 지원 방안을 마련해 6월부터 바로 시행할 수 있도록 준비하고 있다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>울릉도·독도 인근에 열대·아열대성 어류 증가</title>
+      <link>https://www.chosun.com/national/transport-environment/2025/03/09/Q2Q6AIUUSNHHNDLZHAHOQLK3A4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/03/09/Q2Q6AIUUSNHHNDLZHAHOQLK3A4/</guid>
+      <dc:creator>김아사 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 09 Mar 2025 04:34:34 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JNJ5YFN5GBFUXDIVJFSCSIHLVU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;바다의 수온이 높아지면서 울릉도·독도 주변에 열대나 아열대 바다에 사는 물고기 종류가 늘어난 것으로 나타났다.&lt;br&gt;&lt;br&gt;9일 국립생물자원관이 내놓은 ‘울릉도와 독도 생물다양성 특성 연구’ 보고서에 따르면 지난해 울릉도와 독도 주변 119종의 어류가 확인됐고 수온이 올라갈수록 관찰되는 종이 늘었다. 수온이 평균 10도 정도인 저수온기엔 52종, 24도 안팎인 고수온기엔 105종이 관찰됐다. &lt;br&gt;&lt;br&gt;본래 우리나라는 중위도 온대성 기후대에 위치해 어류 역시 온대성 어류가 주로 서식했다. 그러나 보고서는 최근 수온이 상승하면서 열대·아열대성 어류가 크게 늘었다고 분석했다.&lt;br&gt;&lt;br&gt;울릉도의 경우 저수온기에 온대성 어류가 59.5%, 열대·아열대성 어류가 37.8%를 차지하는 것으로 나타났지만, 고수온기엔 온대성 어류가 23.9%로 줄고 열대·아열대성 어류가 73.9%로 늘었다. 독도 역시 저수온기 58.5%와 23.9%인 온대성 어류와 열대·아열대성 어류 비율이 고수온기 27.1%와 73.9%로 역전됐다.&lt;br&gt;&lt;br&gt;독도 주변 바다에서 가장 많이 관찰된 어류 3종은 저수온기엔 온대성 어류 2종(가막베도라치와 개볼락이), 아열대성 어류 1종(자리돔)이었고, 고수온기에는 아열대성·열대성 어류 2종(자리돔과 어렝놀래기)과 온대성 어류 1종(돌돔)이었다. 보고서는 “수온 상승이 울릉도와 독도 주변 바다 어류 종수 증가에 영향을 주고 있는 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“아빠랑 살래요”라는 아들 잠 못자게 학대한 40대母 집행유예 </title>
+      <link>https://www.chosun.com/national/2025/03/09/6REHMPOTSBFINCCVER5HLGRFWI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2025/03/09/6REHMPOTSBFINCCVER5HLGRFWI/</guid>
+      <dc:creator>울산=김준호 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 09 Mar 2025 04:50:51 +0000</pubDate>
+      <content:encoded>술에 취해 10살 아들을 잠들지 못하게 학대하고, 신고를 받고 출동한 경찰관을 폭행한 40대 여성에게 징역형의 집행유예가 선고됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KNRAE2CTG775ASD46BRTJ6W7QA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;울산지법. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;울산지법 형사2단독 황형주 부장판사는 아동복지법 위반(아동학대), 공무집행방해 혐의로 재판에 넘겨진 A씨에게 징역 4개월에 집행유예 1년을 선고했다고 9일 밝혔다. 또 아동학대 재범 예방 강의 40시간 수강도 명령했다.&lt;br&gt;&lt;br&gt;판결문에 따르면 A씨는 지난해 4월 새벽 울산에 있는 자택에서 술에 취해 아들의 머리채를 잡아당기는 등 2시간 동안 잠들지 못하도록 학대한 혐의를 받는다. &lt;br&gt;&lt;br&gt;이혼 후 두 아들을 키워오던 A씨는 이날 막내아들 B군이 “아빠와 살고 싶다”고 말하자, 화가 나, 이처럼 범행한 것으로 드러났다. &lt;br&gt;&lt;br&gt;가족으로부터 신고를 받고 현장에 출동한 경찰관이 B군을 A씨와 분리 조치하려 하자, A씨는 소리를 지르면서 경찰관의 몸을 밀치고 발로 정강이를 걷어차는 등 행패를 부렸다. &lt;br&gt;&lt;br&gt;황형주 부장판사는 “피고인은 술에 취해 친아들을 학대했고, 현장에 출동해 공무를 수행 중인 경찰관에게 항의하며 유형력을 행사하는 등 죄책에 상응하는 처벌이 필요하다”며 “다만 A씨가 자신의 행동을 깊이 뉘우치고 있는 점, A씨가 이혼 후 두 아들을 실질적으로 양육하면서 경제적 어려움을 겪었고, 다른 자녀가 선처를 바라는 점 등을 참작했다”고 양형 이유를 밝혔다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“초중고 6명 중 1명 비만…비만 학생 20%, 당뇨병 전 단계”</title>
+      <link>https://www.chosun.com/national/welfare-medical/2025/03/09/XAZAP3UFVRHJJPLBX2HPFGQL3U/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/03/09/XAZAP3UFVRHJJPLBX2HPFGQL3U/</guid>
+      <dc:creator>강다은 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 09 Mar 2025 04:50:46 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/S52FUV4XKK7KC7432476GQFEUM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국내 소아·청소년 6명 중 1명이 비만이고, 비만한 학생의 절반은 당뇨병이나 고혈압 등 대사증후군 위험 요인을 1개 이상 보유한 것으로 추정된다는 연구 결과가 나왔다. 비만 학생의 20%는 당뇨병 전 단계인 것으로도 나타났다.&lt;br&gt;&lt;br&gt;9일 국민건강보험 건강보험연구원의 ‘아동·청소년 비만 예방 의료서비스 강화 방안 연구’에 따르면 영유아건강검진, 학생건강검진 표본조사 원시자료, 학교 밖 청소년검진 결과를 분석한 결과 2023년 아동·청소년의 비만 유병률은 영유아 8.3%, 학생 16.7%로 나타났다.&lt;br&gt;&lt;br&gt;영유아는 12명 중 1명, 초중고 학생은 6명 중 1명꼴로 비만인 셈이다.&lt;br&gt;&lt;br&gt;연구팀은 비만 학생을 대상으로 소아·청소년 대사증후군 위험요인인 고혈압, 당뇨병, 이상지질혈증, 비알코올성 지방간질환 보유 여부를 별도로 파악했는데 그 결과 2023년 기준 비만 학생의 16.4%는 고혈압 전 단계, 6.5%는 고혈압으로 의심됐다.&lt;br&gt;&lt;br&gt;비만 학생의 20.2%는 당뇨병 전단계, 1.1%는 당뇨병으로 추정됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>토지거래허가 해제 부작용 우려에…서울시 “평균 1.3%하락”</title>
+      <link>https://www.chosun.com/national/national_general/2025/03/09/J5MV2FWTNNHKBBXOWVCGLUIHXM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/03/09/J5MV2FWTNNHKBBXOWVCGLUIHXM/</guid>
+      <dc:creator>박진성 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 09 Mar 2025 04:46:50 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VCDQCIJ6NFPE3CASQPZBWDBLXA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2일 서울 남산에서 바라본 서울시내 아파트./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울시가 강남권 토지거래허가구역을 해제한 뒤 아파트 가격이 오르고 있다는 우려가 제기되자 평균 가격은 오히려 내려갔다고 9일 반박했다.&lt;br&gt;&lt;br&gt;토지거래허가제는 투기가 우려되는 지역에서 일정 규모 이상 집이나 땅을 거래할 때 관할 기초자치단체장의 허가를 받아야 하는 규제다. 주택은 2년간 실거주 목적 매매만 허용하며, 전세를 끼고 집을 매수하는 ‘갭투자’(전세 끼고 매매)가 불가능하다.&lt;br&gt;&lt;br&gt;서울시는 지난달 강남구 삼성·대치·청담동과 송파구 잠심을 약 5년 만에 규제 지역에서 풀었다. 이후 서울시 안팎에서는 강남권 집값 상승이 우려된다는 지적이 이어졌다.&lt;br&gt;&lt;br&gt;서울시는 이날 설명자료를 통해 잠·삼·대·청(잠실·삼성·대치·청담동) 토지거래허가구역 해제 전·후 22일간의 실거래 자료를 비교한 결과 전체 아파트 거래량은 해제 전 78건에서 해제 후 87건으로 9건 증가했다고 설명했다. &lt;br&gt;&lt;br&gt;서울시는 평균 가격은 오히려 1.3% 내려갔다고 했다. 해제 전 1㎡당 3020만원이었는데 이후 2982만원이 됐다는 것이다.&lt;br&gt;&lt;br&gt;중형 아파트를 대표하는 전용면적 84㎡를 기준으로 하면 가격이 소폭 상승했다. 평균 매매 가격이 26.9억원에서 27.1억원으로 1% 늘었다.&lt;br&gt;&lt;br&gt;서울시 관계자는 “집값 상승 기대심리를 반영해 호가를 높인 매물이 증가하고 있으나 매수자가 원하는 가격과 격차가 커 실거래로 이어진 사례는 많지 않다”고 했다.&lt;br&gt;&lt;br&gt;서울시는 국토부, 자치구와 합동으로 강남 3구를 비롯한 마포·용산·성동구 등 주요 지역에 대한 거래동향 등을 현장 점검할 계획이다.&lt;br&gt;&lt;br&gt;서울시 관계자는 ”허위매물 표시·광고행위, 담합 등 부동산 거래질서 교란행위 등에 대해서는 철저히 조사해 위법사항 적발 시 수사 의뢰와 국세청 통보 등 무관용 원칙으로 강력 대응할 방침”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>장애인 직원 명의로 대출받고 퇴직금 횡령한 복지사…法 “해고 정당”</title>
+      <link>https://www.chosun.com/national/court_law/2025/03/09/SPMQK7QJ4ZBVLEKEXBEZGW57TM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/03/09/SPMQK7QJ4ZBVLEKEXBEZGW57TM/</guid>
+      <dc:creator>박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 09 Mar 2025 04:41:58 +0000</pubDate>
+      <content:encoded>발달 장애인의 명의를 도용해 대출을 받고 퇴직금을 횡령한 사회복지사를 해임한 것은 정당하다는 법원 판단이 나왔다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/B42IYHVJAATN5GXFOVUC3D4FZM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울행정법원. / 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울행정법원 행정12부(재판장 강재원)는 최근 한국지체장애인협회 산하 시설에서 사무국장으로 근무했던 사회복지사 A씨가 중앙노동위원회를 상대로 낸 부당해고 구제 재심 판정 취소 소송에서 원고 패소로 판결했다고 9일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 해당 시설에서 근무하는 발달 장애인 직원 B씨를 담당하며, B씨의 기초생활 관련 업무 등을 담당했다. 이를 위해 A씨는 B씨의 공인인증서 등을 직접 관리했다고 한다.&lt;br&gt;&lt;br&gt;그러던 도중 A씨는 투자 실패로 큰 빚을 지고 신용불량자가 됐고, 2021년 5월 B씨의 공인인증서를 이용해 781만원을 대출받았다. 이를 시작으로 2022년 9월까지 총 6회에 걸쳐 4273여 만원을 대출받아 가로챘다. 또 A씨는 2023년 1월 B씨가 퇴직금 약 650만원을 중간 정산받은 것처럼 꾸며 자신의 계좌에 이체하기도 했다. &lt;br&gt;&lt;br&gt;A씨의 범행은 같은 해 4월 시설 회계 담당 직원에 의해 발각됐다. 협회 측은 A씨가 총 11건의 비위 행위를 저질러 1억1000여 만원 상당의 피해를 발생시켰다며, 그해 5월 해임을 결정했다. &lt;br&gt;&lt;br&gt;하지만 A씨는 B씨가 입은 피해 11건 중 4건은 혐의 없음 처리됐으며, 나머지 7건 역시 단순히 돈을 빌려 쓴 것에 불과하다고 주장했다. A씨는 협회가 소명 기회를 충분히 부여하지 않았다며 노동위에 구제 신청을 했지만 기각됐다. A씨는 노동위의 결정이 부당하다며 이 행정소송을 제기했다. &lt;br&gt;&lt;br&gt;법원 역시 A씨의 주장을 받아들이지 않았다. 재판부는 “A씨는 도움을 줘야 할 지위에 있는 피해자에게 고의적으로 손해를 가했다”며 “기본적 의무를 현저히 위배했고 그 불법성과 비난 가능성이 매우 크다”고 했다.&lt;br&gt;&lt;br&gt;또 A씨가 유죄 판결을 확정받은 점도 지적했다. 앞서 A씨는 이 사건으로 형사 고발돼 작년 9월 서울서부지법에서 업무상 횡령 등 7개 혐의로 징역 1년에 집행유예 2년을 선고받았다. 양측 모두 항소하지 않아 형이 확정됐다. &lt;br&gt;&lt;br&gt;재판부는 “A씨의 비위 행위로 인해 장애인 관련 시설인 이 시설의 대외적 평판이 훼손됐다”며 “협회가 A씨와의 고용 관계를 계속할 수 없다고 판단해 해고한 것이 사회통념상 현저하게 타당성을 잃은 것이라 할 수 없다”고 판단했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>尹 석방에 고무된 서부지법 난입 피고인측 “불구속 재판 가능성 높아졌다”</title>
+      <link>https://www.chosun.com/national/national_general/2025/03/09/OWBIYI2RQJFNHGR5UXNKQXN6DI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/03/09/OWBIYI2RQJFNHGR5UXNKQXN6DI/</guid>
+      <dc:creator>구아모 기자, 최하연 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 09 Mar 2025 04:29:18 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3MBETWKUI6N2ZJZJLZ4KEIGUXA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;1월 19일 새벽 윤석열 대통령에 대한 구속영장이 발부되자 서울 서부지법에 지지자들이 진입해 난동을 부리고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 대통령의 구속 영장 발부 소식을 듣고 서울서부지법에서 난동을 부린 피고인들에 대한 재판이 10일 본격화된다. 8일 윤석열 대통령이 구속 취소로 석방된 것을 계기로 난동자들의 변호인들은 “불구속 재판의 가능성이 높아졌다”는 입장이다. &lt;br&gt;&lt;br&gt;서울서부지방법원 형사합의11부(재판장 김우현)는 10일 오전 10시 특수건조물침입 등 혐의를 받는 법원 난동자 63명에 대한 첫 재판을 연다. 피고인이 많아 재판은 오전·오후 나눠서 진행된다. &lt;br&gt;&lt;br&gt;재판은 10일 오전 10시, 10일 오후 2시 30분, 17일 오전 10시, 17일 오후 2시 30분, 19일 오전 10시로 5차례에 나눠 진행된다. 추가로 재판에 넘겨진 난동자들의 재판도 14일, 19일, 26일에 나눠서 진행된다. &lt;br&gt;&lt;br&gt;사랑제일교회 특임전도사로 지목된 이형석·윤영보씨의 재판은 각각 10일, 14일에 열린다. 이씨 측 변호인은 “변호인으로서 대통령도 석방됐으니, 이 전도사를 포함한 피고인들도 불구속 상태로 재판을 받아야 할 이유가 생기지 않았냐”며 “불의한 구속영장에 대해 저항한 것이기 때문에 참작 여지가 생긴 것 아니냐”고 했다. 유씨 측 변호인은 “구속영장 발부 자체가 처음부터 부당했다는 점을 재판에서 적극적으로 소명할 것”이라고 했다.&lt;br&gt;&lt;br&gt;변호인단은 추가로 보석을 신청할 방침이다. 김용현 전 국방부 장관의 법률대리도 맡는 유승수 변호사는 “피고인들에게 유리하게 작용할 것으로 기대한다”며 “추가로 보석 신청할 계획이 있고, 일부 피고인은 개인적인 사정으로 보석을 청구하기도 했다”고 했다. &lt;br&gt;&lt;br&gt;서울서부지검은 지난 7일 기준 서부지법 난동 관련 78명을 기소했다. 이 중 1명만 불구속 상태로 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>붕괴 위험 속 공사 강행 중 근로자 사망… 사업주 ‘법정구속’</title>
+      <link>https://www.chosun.com/national/court_law/2025/03/09/3NXUMQP4RNBS5C5BVQJ4XD5R3I/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/03/09/3NXUMQP4RNBS5C5BVQJ4XD5R3I/</guid>
+      <dc:creator>원주=정성원 기자</dc:creator>
+      <description>붕괴 위험성이 나타났는데도 안전조치를 제대로 취하지 않고 무리한 방법으로 공사하다 근로자를 숨지게 한 70대 사업주가 법정 구속됐다.
+춘천지법 원주지원 형사3단독 황해철 판사는 업무상과실치사 등 혐의로 기소된 A(72)씨에게 징역 1년 2개월을 선고하고 법정 구속했다고 9일 밝혔다.
+</description>
+      <pubDate>Sun, 09 Mar 2025 04:02:52 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KYUTM35NP5F5GTBMEVJXMVTOYE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;춘천지법 원주지원. (재판매 및 DB금지)/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;붕괴 위험성이 나타났는데도 안전 조치를 제대로 취하지 않고 무리한 방법으로 공사하다 근로자를 숨지게 한 70대 사업주가 법정 구속됐다.&lt;br&gt;&lt;br&gt;춘천지법 원주지원 형사3단독 황해철 판사는 업무상과실치사 등 혐의로 기소된 A(72)씨에게 징역 1년 2개월을 선고하고 법정 구속했다고 9일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 2023년 7월 강원 횡성군 한 주택 공사장에서 붕괴 위험 방지 조치를 제대로 하지 않아 석축 보수 공사를 하던 근로자 B(79)씨가 석축에서 떨어져 나온 각석에 깔려 숨지게 한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;재판부는 판결문에서 “사업주 A씨가 사고 당시 15일 이상 집중호우로 지반이 약해진 데다 앞서 석축이 무너져 추가 사고 위험이 있었음에도 안전 조치를 제대로 하지 않았다”고 지적했다. A씨는 또 시방서에 따라 석축이 붕괴하지 않도록 계단식 공사를 해야 했지만, 수직에 가까운 기울기로 공사를 진행한 것으로 드러났다.&lt;br&gt;&lt;br&gt;재판부는 “업무상 주의 의무와 안전조치 의무를 위반해 피고인의 과실이 무겁다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘항공료에 숙박료까지’ 제주서 워케이션 1인당 최대 30만원 지원</title>
+      <link>https://www.chosun.com/national/regional/2025/03/09/WGUXPAOISJEQ3J2FKZIIPI2QBY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/03/09/WGUXPAOISJEQ3J2FKZIIPI2QBY/</guid>
+      <dc:creator>제주=오재용 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 09 Mar 2025 03:29:30 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TW64X7WMCBDJFFVBT3ETLUDBNA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서귀포시 혁신도시 내 복합혁신센터 2층에 조성한 워케이션 공공 오피스에서 워케이션 프로그램에 참여한 직원들이 빈백에 기대 앉아 노트북으로 업무를 보고 있다. /제주도&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;제주에서 일과 휴가를 병행하는 워케이션(휴가지 원격근무)을 하면 항공료와 숙박비, 여가비로 1인당 최대 30만원까지 지원받을 수 있다.&lt;br&gt;&lt;br&gt;제주도는 제주에서 워케이션을 하는 타지역 기업 임직원, 개인사업자, 프리랜서 등에게 총 30만원 한도 내에서 항공료, 오피스 숙박 등 이용료, 여가비 등을 지원할 계획이라고 9일 밝혔다.&lt;br&gt;&lt;br&gt;오피스 이용료 바우처는 제주지역 15개 민간 워케이션 오피스에서 1인 하루 5만원씩 지원받을 수 있으며, 여가 프로그램 바우처는 1인 5만원 범위에서 한차례 추가 지원된다. 여기에 항공권 바우처로 최대 10만원을 받을 수 있다.&lt;br&gt;&lt;br&gt;바우처 지원 신청은 10일부터 6월 4일까지 제주 워케이션 누리집(https://jejuworkation.or.kr/)에서 하면 된다.&lt;br&gt;&lt;br&gt;제주도는 또 올해부터 제주에 워케이션을 위해 찾은 기업이 플로깅 등 지역 봉사활동을 했을 때 가점을 부가하는 ‘제주도 특화인증 환경·사회·지배구조(ESG) 평가 인증 시스템’도 도입했다.&lt;br&gt;&lt;br&gt;여기에 민간 공유 오피스가 특정 산업군의 워케이션 참가자를 유치할 경우 도에서 비용을 지원하는 프로젝트형 바우처도 신설됐다. 제주도의 파트너사로 선정된 민간 오피스가 워케이션 관광객 유치를 위한 특화 프로그램 및 프로젝트를 기획해 제주도에 신청하면 심사를 통해 비용을 지원하는 방식이다.&lt;br&gt;&lt;br&gt;제주도는 2026년까지 휴가지 원격근무인 워케이션 인구 10만명 유치를 목표로 잡고 있다.&lt;br&gt;&lt;br&gt;김미영 제주도 경제활력국장은 “해외 기업·디지털 노마드를 상대로 한 제주로의 워케이션 유치, 공공오피스 내 다양한 기업 프로모션 등을 추진해 기업들이 더 자주, 더 편하게 제주에서 워케이션을 즐길 수 있도록 지원할 예정”이라고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>헌재, ‘尹 탄핵심판’ 이번주 결론낼까...변수 많아 늦춰질 가능성도</title>
       <link>https://www.chosun.com/national/court_law/2025/03/09/EV4T6IOCJZEZ3FLRFOAAM6764M/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/03/09/EV4T6IOCJZEZ3FLRFOAAM6764M/</guid>
@@ -842,61 +925,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/U6Z2CPKMHZF7JCPKBDGRQY6BL4.png"&gt;&lt;figcaption&gt;&lt;small&gt;/일러스트=조선디자인랩 정다운&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울의 한 산부인과 의사가 진료 중 환자를 간음한 혐의로 징역형을 선고받았다.&lt;br&gt;&lt;br&gt;7일 세계일보에 따르면, 서울중앙지방법원은 지난달 20일 피보호자간음 혐의로 기소된 산부인과 의사 A씨에게 징역 3년을 선고했다. 40시간의 성폭력 치료 프로그램 이수, 아동·청소년 관련 기관과 장애인 복지 시설에 5년간 취업 제한도 함께 명령했다.&lt;br&gt;&lt;br&gt;A씨는 서울 한 대형병원의 산부인과에서 전공의로 재직하고 있던 2023년 7월 퇴원을 앞둔 환자 B씨를 진료 중 추행한 혐의로 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;당시 진료실 안에는 A씨와 피해자만 있었다. 진료 의자 주변은 커튼이 쳐진 상태였으며 복도 쪽 진료실 출입문은 사건 당시 닫혀 있었다. &lt;br&gt;&lt;br&gt;A씨는 환자의 몸에 삽입한 건 자신의 신체가 아닌 검사 장비였다고 주장했지만 재판부의 판단은 달랐다. &lt;br&gt;&lt;br&gt;재판부는 피해자가 사건을 인지하고 곧바로 도와달라고 소리쳤으며 그 소리를 듣고 간호사 2명과 전공의 1명이 들어왔다고 일관되게 진술한 점, 범행 후 조사에서 피해자와 A씨의 혼합 DNA가 검출된 점, 피해자가 출산 경험이 있어 장비를 착각할 가능성이 낮다는 점 등을 고려했다.&lt;br&gt;&lt;br&gt;재판부는 판결문에서 “피고인은 산부인과 의사로, 피고인의 지시를 따를 수밖에 없는 피해자의 취약한 상태와 지위를 이용해 피해자를 간음했다”며 “이 사건으로 피해자는 심한 정신적 충격을 받았을 것으로 보이고, 범행의 수법과 경위에 비춰볼 때 피고인의 죄책이 무겁다”고 밝혔다.&lt;br&gt;&lt;br&gt;그러면서 “피고인이 형사처벌을 받은 전력이 없는 점, 피고인의 나이와 성행, 환경, 범행의 방식, 범행 후의 정황 등을 고려했다”고 설명했다.&lt;br&gt;&lt;br&gt;병원 측은 사건이 일어난 직후 A씨를 즉각 진료 배제시켰고 직위해제했다고 입장을 전했다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>법원, 尹대통령 구속 취소하며 김재규 재심 결정 언급…왜?</title>
-      <link>https://www.chosun.com/national/national_general/2025/03/07/WN23MNYHJRHYTFVWH5TN3S4HQM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/03/07/WN23MNYHJRHYTFVWH5TN3S4HQM/</guid>
-      <dc:creator>김명일 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 07 Mar 2025 09:09:21 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RFI4TIXWQVUHOGQFLGPATE2TGQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령이 지난달 20일 오후 서울 종로구 헌법재판소 대심판정에서 열린 탄핵심판 10차 변론 기일에 출석해 생각에 잠겨 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;법원이 7일 내란 우두머리 혐의로 구속 기소된 윤석열 대통령에 대한 구속을 취소하라고 결정하면서 ‘김재규 전 중앙정보부장에 대한 재심 개시 결정’ 사례를 언급했다. &lt;br&gt;&lt;br&gt;서울중앙지법 형사25부(재판장 지귀연)는 이날 윤 대통령 측이 청구한 구속 취소를 받아들였다. 구속 취소는 법이 정한 피고인 석방 제도 중 하나로, 구속 사유가 없거나 소멸된 때 구속을 취소하는 것이다. 재판부는 윤 대통령의 구속 기한이 만료된 상태에서 위법하게 기소된 것으로 봐야 한다고 판단했다.&lt;br&gt;&lt;br&gt;재판부는 또 설령 구속 기간이 만료되지 않은 상태에서 공소가 제기된 것이라 하더라도, 구속 취소의 사유가 인정된다고 판단했다. &lt;br&gt;&lt;br&gt;윤 대통령 측은 “공수처법상 공수처의 수사 범위에 내란죄가 포함돼 있지 않다”며 “공수처가 직권남용권리행사방해죄의 수사 과정에서 내란죄를 인지했다고 볼 만한 증거나 자료가 없다”고 주장했다. 또 공수처와 검찰청은 독립된 수사기관이지만 법률상 근거 없이 구속 기간을 서로 협의해 나눠 사용한 것과 사건을 넘길 때 신병 인치 절차를 거치지 않은 것도 절차적인 문제라고 했다. &lt;br&gt;&lt;br&gt;이에 대해 재판부는 “윤 대통령 측이 주장하는 구속 취소 이유와 관련 공수처법 등 관련 법령에 명확한 규정이 없다”며 “절차의 명확성을 기하고 수사 과정에서 적법성에 관한 의문의 여지를 해소하는 것이 바람직하므로 구속 취소 결정을 하는 것이 상당하다”고 했다. &lt;br&gt;&lt;br&gt;또 “만약 이러한 논란을 그대로 두고 형사재판 절차를 진행하는 경우 상급심에서의 파기 사유가 됨은 물론, 한참 시간이 지난 후에도 재심 사유가 될 수 있다”며 최근 재심이 결정된 ‘김재규 사건’을 예로 들었다. &lt;br&gt;&lt;br&gt;서울고법 형사7부(재판장 이재권)는 지난달 19일 박정희 전 대통령을 살해해 사형당한 김재규 전 중앙정보부장에 대한 수사와 재판이 위법하게 진행됐다는 취지로 재심 개시 결정을 했다. 당시 법조계에서도 “비상계엄을 선포한 윤석열 대통령에 대한 내란죄 형사재판, 탄핵심판 등이 진행되는 상황에서 미묘한 결정이 나왔다”는 반응이 나왔었다.&lt;br&gt;&lt;br&gt;김재규는 1979년 10월 26일 궁정동 안가에서 박정희 전 대통령을 시해하고, 이듬해 5월 24일 사형됐다. 김재규에게 적용된 혐의는 ‘내란목적 살인’ ‘내란수괴 미수’ 2가지였다. &lt;br&gt;&lt;br&gt;김재규의 재심 사건 변호인들은 “이 사건 수사 과정에서 있었던 가혹 행위에 대한 증언이 나왔고, 공판 녹취록과 공판조서가 상당 부분 차이가 있다”면서 “위헌적이고 위법한 수사와 공소 제기, 재판 과정에 대한 사법적 판단을 할 수 있다”고 했다. 김재규 측은 10·26 사건과 김재규에 대한 역사적 재평가가 필요하다고도 주장했다.&lt;br&gt;&lt;br&gt;이에 대해 재판부는 “계엄사령부 소속 수사관들이 김재규를 사건으로 수사하면서 수일간 구타와 전기 고문 등의 폭행과 가혹 행위를 한 것이 인정된다”며 “수사에 관여한 사법경찰관이 그 직무에 관한 죄를 범한 것이 증명되었음에도 그 범죄에 대한 공소시효가 완성돼 확정 판결을 받을 수 없는 때에 해당해 형사소송법이 정한 재심 사유가 있다”고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/FHAWELLQNJHNRCTXHYHHHMTWIE.jpg?width=594&amp;height=403&amp;auth=3844758221f4191fabcc0c4e1fb11088bbcaaa0fcc0870ca8eeb778c5008e1ed&amp;smart=true" type="image/jpeg" height="403" width="594">
-        <media:description type="plain">1979년 12월 김재규(가운데) 전 중앙정보부장이 재판을 받기 위해 법정에 출석한 모습. /조선일보 DB</media:description>
-      </media:content>
-    </item>
-    <item>
-      <title>배우 박민영, 모교 동국대에 5000만원 기부 “후배들 등록금 걱정 없길”</title>
-      <link>https://www.chosun.com/national/national_general/2025/03/07/7IIC2CHT7NGETN4UCZ4E5CGWB4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/03/07/7IIC2CHT7NGETN4UCZ4E5CGWB4/</guid>
-      <dc:creator>김명일 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 07 Mar 2025 09:16:46 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4IX4CVBLVMFUZGPEAVFJOBYPLQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;배우 박민영이 동국대 기부금 전달식에 참석한 모습. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;배우 박민영이 모교인 동국대에 ‘연극학부 장학기금 및 동국 건학 장학기금’ 5000만원을 기부했다.&lt;br&gt;&lt;br&gt;박민영은 7일 동국대 서울캠퍼스 본관에서 열린 기부금 전달식에서 “후배들이 등록금 걱정에서 조금이나마 벗어나 공부에 매진할 수 있도록 기부금을 써달라”며 “후배들의 꿈에 작은 보탬이라도 될 수 있다면 영광”이라고 말했다.&lt;br&gt;&lt;br&gt;이어 “배우로 활동하며 동국대학교 출신임이 항상 자랑스러웠다”며 “앞으로도 학교가 필요로 하는 일이라면 언제든 최선을 다해 돕고 싶다”고 했다.&lt;br&gt;&lt;br&gt;동국대 연극학부 04학번인 박민영은 2016년 개교 110주년 기념 홍보대사에 위촉되기도 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/7LVDEEQAIVCIJFJ5EH4GHGBUXI.jpg?width=525&amp;height=295&amp;auth=dcddf886f6fa4b4eca0d30d14c4019a386e473c1b2ae58a1a6e320a29afc3c4f&amp;smart=true" type="image/jpeg" height="295" width="525">
-        <media:description type="plain">동국대 박민영 배우 기부식</media:description>
-      </media:content>
-    </item>
-    <item>
-      <title>한국인 인기 관광지인데…국내 홍역 환자 72% ‘이곳’ 방문 이력 </title>
-      <link>https://www.chosun.com/national/national_general/2025/03/07/ISWKJ2JINVF5PBPJDVZRFI2Y4I/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/03/07/ISWKJ2JINVF5PBPJDVZRFI2Y4I/</guid>
-      <dc:creator>최혜승 기자 </dc:creator>
-      <description/>
-      <pubDate>Fri, 07 Mar 2025 08:36:04 +0000</pubDate>
-      <content:encoded>최근 국내 홍역 환자의 72%는 베트남 방문 이력이 있는 것으로 나타났다. 질병관리청은 해외 방문 전에는 백신 접종을 해달라고 당부했다. &lt;br&gt;&lt;br&gt;7일 질병청에 따르면, 국내 홍역 환자는 작년 49명, 올해는 전날 기준 16명 발생했다. 모두 해외여행을 다녀오거나 국내에서 환자와 접촉해 감염된 사례다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VHPEWUSZNZH2LIK4PIQUK4G7HQ.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=조선디자인랩 김영재&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;특히 작년 12월부터 이달 6일까지 발생한 홍역 환자 18명 중 13명(72%)은 베트남을 다녀온 것으로 확인됐다. 13명 중 1명을 제외하고 모두 홍역 백신 접종력을 모르거나 접종한 적이 없는 이들이었다. 유일한 백신 2회 접종자는 지난 1월 1주 미만으로 다낭을 다녀온 20대였다.&lt;br&gt;&lt;br&gt;이들의 연령은 0세부터 50대까지 다양했다. 1차 홍역 백신 접종 시기(생후 12~15개월) 이전의 영유아(생후 7~13개월)도 4명 포함됐다. 홍역 환자들의 베트남 체류 기간은 최소 5일에서 최대 1.5개월이었다. 이들은 귀국 후 발열을 동반한 기침, 콧물 등의 증상을 보이다가 발진이 발생했다.&lt;br&gt;&lt;br&gt;세계보건기구(WHO)에 따르면 전 세계적으로 홍역이 유행하고 있다. 작년 기준 전 세계 홍역 환자 수는 약 33만명으로, 2023년(약 32만명)과 2022년(약 17만명)에 비해 늘었다. 홍역 환자는 유럽, 중동, 아프리카 순으로 많고 한국인들이 많이 찾는 동남아시아와 서태평양 지역에서도 다수 발생하고 있다. &lt;br&gt;&lt;br&gt;작년 베트남의 홍역 환자 수는 2105명이다. 공식 홍역 환자 수가 가장 많은 국가는 아니지만, 국내 여행객이 많아 베트남 방문 이력을 가진 감염 환자가 꾸준히 보고되는 것으로 질병청은 추정하고 있다. &lt;br&gt;&lt;br&gt;홍역은 기침 또는 재채기를 통해 공기로 전파되는 전염성이 매우 강한 호흡기 감염병이다. 감염 시 발열·발진·구강 내 회백색 반점 등이 나타난다. 홍역에 대한 면역이 불충분한 사람이 환자와 접촉하면 90% 이상의 확률로 감염될 수 있다.&lt;br&gt;&lt;br&gt;지영미 질병청장은 “전 세계적으로 홍역이 유행하고 있는 만큼 여행 전 홍역 백신을 2회 모두 접종했는지 확인하고, 접종을 완료하지 못한 경우 출국 최소 6주 전부터 2회 접종을 완료해야 한다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/2FSRSPMZXFGSHMG6PQOHVKYME4.png?width=384&amp;height=288&amp;auth=7a1dca1052a2792b914ca54626858da2de3d0a9e739407d065c2b36af57be649&amp;smart=true" type="image/png" height="288" width="384">
-        <media:description type="plain">그래픽=조선디자인랩 김영재</media:description>
-        <media:credit role="author" scheme="urn:ebu"/>
-      </media:content>
-    </item>
-    <item>
-      <title>‘명태균 여론조사비 대납의혹’…대구시 임기제 공무원  사직서 제출</title>
-      <link>https://www.chosun.com/national/regional/2025/03/07/UOQYKIFDRRGL5NWIFAZGLSUPMQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/03/07/UOQYKIFDRRGL5NWIFAZGLSUPMQ/</guid>
-      <dc:creator>대구=노인호 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 07 Mar 2025 09:01:57 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/R2ZLJELYV7ZBD5MRCHJZMDHQCE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;창원지방검찰청으로 출석하며 취재진 질문에 답하고 있는 명태균씨/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘명태균 여론조사비 대납 의혹’을 받는 대구시 임기제 공무원 A씨가 7일 사직서를 제출했다. &lt;br&gt;&lt;br&gt;대구시는 이날 “A씨가 사직서를 제출했으며, 검찰 조사가 시작되면 언제라도 출석해 적극 해명하겠다는 뜻을 전했다”고 밝혔다.&lt;br&gt;&lt;br&gt;대구시 등에 따르면, 5급 상당 별정직으로 채용돼 최근까지 대구시 서울본부에서 일한 A씨는 2022년 대구시장 선거를 앞두고 명씨가 실질적으로 운영한 여론조사업체에 여론조사비 4370만 원을 대납한 의혹을 받고 있다.&lt;br&gt;&lt;br&gt;또 여론조사 비용 대납을 대가로 대구시 공무원에 채용된 의혹으로 홍준표 대구시장과 함께 검찰에 고발됐다. &lt;br&gt;&lt;br&gt;하지만, A씨는 “사인 간 거래일 뿐”이라며 여론조사 대납에 대해서는 선을 그었다. &lt;br&gt;&lt;br&gt;A씨는 최근 본지와의 통화에서 “사업상 채무가 있던 지인이 제3자의 계좌로 상환해줄 것을 요구해 한 차례 200만~300만원가량씩 수차례에 걸쳐 갚은 것뿐”이라며 “연구소나 여론조사 기관 등이 아니라 개인 명의 계좌라 이상하게 생각하지 않았다”고 해명했다. &lt;br&gt;&lt;br&gt;홍 시장 측도 “(2022년 대구시장 선거 당시) 홍준표 캠프와는 전혀 상관이 없고, (캠프에서) 명태균에게 여론조사를 의뢰한 사실도 없다”고 설명했다. 또 A씨를 서울본부에 채용한 것에 대해서는 “국회의원 비서관 출신이어서 원활한 국회 대응 차원에서 뽑은 것”이라고 밝혔다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>최상목, 오폭 사고에 “군 통수권자로서 송구… 軍, 재발 방지 대책 마련하라”</title>
-      <link>https://www.chosun.com/politics/goverment/2025/03/07/HQFKDUWVG5HXRL2KLJT3ZQCQ54/</link>
-      <guid isPermaLink="true">https://www.chosun.com/politics/goverment/2025/03/07/HQFKDUWVG5HXRL2KLJT3ZQCQ54/</guid>
-      <dc:creator>김경필 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 07 Mar 2025 08:23:12 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NKQJX35X3NMERPABHD3233NP2E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;7일 경기 포천시 이동면 노곡리에 지난 6일 공군 전투기의 오폭을 당한 건물과 화물차가 부서진 채로 방치돼 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최상목 대통령 권한대행 부총리 겸 기획재정부 장관은 7일 전날 공군 전투기 2대가 민가와 군부대를 오폭해 15명이 중경상을 입은 사고와 관련해 군에 “국민들이 불안해하시는 일이 없도록 재발 방지 대책을 마련하라”고 지시했다.&lt;br&gt;&lt;br&gt;기획재정부에 따르면, 최 대행은 7일 전날 경기 포천시에서 일어난 공군 KF-16 전투기 오폭 사고의 상세한 경위와 후속 조치에 관해 국방부 사고대책본부의 보고를 받고, “군 통수권자로서, 군사훈련 중 발생한 사고의 피해자 분들께 심심한 위로와 송구한 마음을 전한다”고 했다.&lt;br&gt;&lt;br&gt;최 대행은 이어서 군에 “철저한 조사를 통해 사고 원인을 명확히 규명하고, 그 결과에 따라 관련자에게 엄중하게 책임을 물으라”고 지시했다. 또 “피해자들에 대한 치료와 진료를 적극 지원하고, 신속하게 피해를 보상하며, 피해 시설을 조기에 복구하라”고 했다.&lt;br&gt;&lt;br&gt;최 대행은 “훈련 전 과정을 원점에서부터 면밀히 분석해, 향후 유사 사고를 근원적으로 차단할 수 있는 특단의 대책을 강구하라”고도 강조했다.&lt;br&gt;&lt;br&gt;지난 6일 경기 포천시 승진과학화훈련장 일대에서 진행된 통합 화력 실사격 훈련에 참여한 공군 KF-16 전투기 2대가 공대지 폭탄 MK-82 8발을 잘못 투하했다. 폭탄들은 타격 목표 지점에서 약 8㎞ 벗어난 지역에 떨어졌고, 민간인 10명과 군인 5명이 다쳤다. 주택 5채와 창고 1동, 군 성당 1동, 비닐하우스 1동, 1톤 화물차 1대 등이 파손됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>尹 구속 취소에 지지자들 한남동 관저로 집결… 경찰, 기동대 1100명 투입</title>
       <link>https://www.chosun.com/national/national_general/2025/03/07/QNW3HUIGQ5FGJFGORSNJDM6QWM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/03/07/QNW3HUIGQ5FGJFGORSNJDM6QWM/</guid>
@@ -907,33 +935,6 @@
 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이동식 단상 위에 올라선 한 남성은 “이제는 우리가 갈라질 필요가 없다. 윤 대통령을 중심으로 뭉쳐야 한다. 더 강력하게 뭉칠 것이고, 계엄령의 뜻을 받아 대한민국을 살려나갈 것”이라고 외쳤다.&lt;br&gt;&lt;br&gt;탄핵 반대 시위대도 관저 인근에 모습을 드러냈다. 이날 오후 4시쯤에는 관저 인근 루터교회 앞에서 윤석열out청년학생공동행동 소속 대학생 등 30여명이 긴급 기자회견을 열었다. 이들은 “내란수괴 윤석열을 구속하라” “내란공범 중앙지법 규탄한다” 등의 구호를 외쳤다.&lt;br&gt;&lt;br&gt;동국대 사회학과 재학생 홍예린(24)씨는 “윤석열 석방은 내란을 부추기는 짓”이라며 “내란 옹호 세력에 힘을 실어주는 것”이라고 주장했다. 이를 지켜본 일부 윤 대통령 지지자들은 고함을 치며 항의하기도 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RPPJYLQLSNIRXNI5KQXIK7GEPQ.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;법원이 윤석열 대통령의 구속 취소를 인용한 7일 서울 용산구 한남동 대통령 관저 인근에 윤 대통령 지지자들이 모여 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;분위기가 격화하자 경찰은 바리케이드로 기자회견 장소를 에워싸고 직접적인 충돌 상황에 대비했다. 관저 인근에 모인 지지자들은 경찰과 취재진을 밀치는 등 일대에는 혼란이 이어지고 있다. 이날 4시 기준 관저 인근에는 경찰 비공식 추산 500명의 인파가 모였다.&lt;br&gt;&lt;br&gt;관저 인근으로 인파가 속속 모여들면서 경찰에는 비상이 걸렸다. 경찰은 관저에 배치한 기동대를 기존 8개 부대(500여명)에서 18개 부대(1100여명)로 증원했다. 경찰 관계자는 “경력 증원을 검토 중”이라고 밝혔다.&lt;br&gt;&lt;br&gt;또 과거 집회가 열렸던 볼보빌딩과 한남초등학교, 루터교회 인근에 펜스를 설치하고 만일의 상황에 대비하고 있다.&lt;br&gt;&lt;br&gt;서울중앙지법은 윤 대통령 측이 구속 상태가 부당하다고 주장하며 낸 구속 취소 청구를 이날 받아들였다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>“그동안 고생하셨다” 서울구치소 앞에서 지지자들 환호</title>
-      <link>https://www.chosun.com/national/national_general/2025/03/07/QNLCFDXDMZBX7GLX6GHFXWWPOU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/03/07/QNLCFDXDMZBX7GLX6GHFXWWPOU/</guid>
-      <dc:creator>강지은 기자, 김나연 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 07 Mar 2025 05:49:37 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/O4BAUSNFHBGALIDKTU4T7UXZPM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;7일 오후 경기 의왕 서울구치소 앞에 윤석열 대통령의 구속취소 인용 소식을 들은 지지자들이 모였다./김나연 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;7일 오후 2시 30분쯤 경기 의왕 서울구치소 앞에는 윤석열 대통령의 석방 소식을 들은 시민 100여 명이 모였다. 태극기와 성조기를 든 이들은 구치소 정문 앞 차도 좌우를 점거하고 “윤석열 대통령”을 연호하며 “사필귀정이다” “대통령님 그동안 고생하셨어요”라고 외쳤다. 대통령 지지자들은 구치소 입구로부터 20m 떨어진 지점까지 늘어서 있었다.&lt;br&gt;&lt;br&gt;확성기 든 한 지지자는 “비로소 오늘 우리가 이겼다”고 했다. 또 “윤석열 대통령 구속은 처음부터 불법, 탈법, 위법이었다. 이제 대통령이 관저로 돌아갈 것”이라며 “탄핵이 기각되면 강력한 지도력으로 이 나라를 바로세워 주실 것을 기대하고 있다”고 했다.&lt;br&gt;&lt;br&gt;이날 법원은 윤석열 대통령의 구속취소 인용을 결정했다. 지난 1월15일 체포된 이후 51일, 지난 1월26일 구속기소된지 40일 만이다.&lt;br&gt;&lt;br&gt;경찰은 서울구치소에 기동대 7개 중대(오후 5시 기준)를 배치하는 등 혹시 모를 충돌 상황에 대비하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>홍준표, 尹 구속 취소에 “검찰, 항고 따위 하지말고 탄핵도 기각돼야”</title>
-      <link>https://www.chosun.com/politics/politics_general/2025/03/07/QLTRBDE2NJBRFBU2S3GVTHJU4M/</link>
-      <guid isPermaLink="true">https://www.chosun.com/politics/politics_general/2025/03/07/QLTRBDE2NJBRFBU2S3GVTHJU4M/</guid>
-      <dc:creator>이승규 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 07 Mar 2025 06:41:17 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZIOKJJWXKYLRRWDDLFMXIA7IOU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;홍준표 대구시장 /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;홍준표 대구시장은 7일 법원이 윤석열 대통령의 구속 취소 청구를 인용한 것에 대해 “내 주장을 받아준 법원 결정에 감사한다”라고 밝혔다.&lt;br&gt;&lt;br&gt;홍 시장은 이날 자신의 페이스북에서 “그동안 줄기차게 윤 대통령 구속은 불법 구속이니 구속 취소하라고 주장했다”며 “공수처장과 검찰총장, 서울고검장은 불법 수사의 책임을 지고 즉각 사퇴하길 바란다”고 했다.&lt;br&gt;&lt;br&gt;그러면서 “(검찰이)즉시 항고 따위는 안 하는 게 맞다. 즉시 항고까지 해서 기각되면 검찰 조직 전체의 문제가 될 수 있다”고 했다. 또 “검찰은 내란죄 수사권도 없는 공수처, 검찰에서 한 수사 서류는 모두 무효니 공소 취소부터 하라. 탄핵도 당연히 기각돼야 한다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SKV244ELR5KTFGHO2SJS2UH5AE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이철우 경북도지사/연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이철우 경북도지사도 이날 페이스북에 “윤석열 대통령 석방을 환영한다”며 “70년 만에 스스로 봉기한 우리의 평범한 이웃들이 사상전(思想戰)을 승리로 이끌었다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“진한 화장 후 잘 때도 안 지워”...덤프트럭 女기사의 가슴 아픈 사연</title>
-      <link>https://www.chosun.com/national/national_general/2025/03/07/DJ77STU3NFB4RCRDJLXMQYO7XU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/03/07/DJ77STU3NFB4RCRDJLXMQYO7XU/</guid>
-      <dc:creator>정아임 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 07 Mar 2025 07:39:14 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QPO65KLSGZEANC46EC2O6HHMRE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;28년차 덤프트럭 기사 고영선씨가 화장을 지우지 않고 잘 때도 진한 화장을 유지하고 있는 모습./MBN 특종세상&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;28년째 덤프트럭을 운전하는 50대 여성이 진한 화장을 하고 지우지 않는 사연이 전해졌다. &lt;br&gt;&lt;br&gt;지난 6일 방송된 MBN ‘특종세상’에서는 28년 차 덤프트럭 기사 58세 고영선씨가 출연해 일상을 공개했다.&lt;br&gt;&lt;br&gt;스모키 화장을 한 채 등장한 고씨는 1년 365일 화장을 지우지 않는다고 했다. 그는 새벽 3시에 일어나 씻은 뒤 다시 화장을 하는 모습을 보여줬다. 고씨는 “제가 좀 강하게 보여야 할 일이 있기 때문에 남들보다 좀 강하게 하고 있다”라고 말했다.&lt;br&gt;&lt;br&gt;고씨는 2시간 넘게 스모키 화장하고 점프슈트에 통굽 롱부츠를 신고 나섰다. 고씨는 “통굽 부츠가 오히려 더 편하다. 낮은 신발 신고는 운전 못 하겠더라. 보기에는 굉장히 불편해 보여도 굉장히 편하다”라고 했다.&lt;br&gt;&lt;br&gt;25톤 덤프트럭 운전대를 잡은 이유에 대해 “처음에는 남편이 팔이 부러지는 바람에 어쩔 수 없이 먹고살아야 하니까 하게 됐다. 엄청 힘들었다. 눈물도 많이 흘렸다. 하지만 애가 있기 때문에 자식을 위해서 참아야 하지 않나. 내가 놀고 있을 수는 없었다”라고 털어놨다.&lt;br&gt;&lt;br&gt;자신의 화장과 복장에 대해서는 “(여자라고 무시해서) 아주 강하게 보이려고 스모키 화장하기 시작했다”고 설명했다. 퇴근 후에도 화장을 지우지 않는 그는 “이렇게 안 하고 있으면 기운이 없다”고 했다.&lt;br&gt;&lt;br&gt;남편은 아내의 화장에 대해 “자기 개성 아닌가. 하고 싶은 대로 하는 거다. 현장에 가면 사람들이 다 무섭게 보고 접근을 안 한다”며 “맨 얼굴 보기가 힘들다. 오래돼서 생각도 안 난다”라고 덧붙였다.&lt;br&gt;&lt;br&gt;이에 대해 고씨는 “아무래도 흉터 때문이다. 화상 입은 것처럼 피부가 많이 파였다. 어렸을 때 피부병이라고 하고, 피해 다녀서 너무 충격받아서 이렇게 살아야 하나 싶었다”고 고백했다.&lt;br&gt;&lt;br&gt;고씨는 다섯 살부터 아버지의 실수로 턱 한쪽 피부에 화상 흉터가 생겼다. 어린 시절은 상처의 연속이었고, 화장으로 흉터를 가릴 수 있게 되면서 거울을 다시 볼 수 있게 됐다고 했다.&lt;br&gt;&lt;br&gt;그러면서 “화장 안 할 때는 자신감이 완전히 다운된다. 너무 바깥에 나가고 싶은 마음도 없고 모든 게 (싫었다). 또 화장하고 나서는 사람이 180도로 바뀌어버린다. 뭐든지 할 수 있다가 된다”라고 덧붙였다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>주유건 꽂은 채 도로 주행한 50대 여성…경찰 출동 소동</title>
       <link>https://www.chosun.com/national/national_general/2025/03/07/DCVWZH6PZBG5RHMO2US5JPVE5E/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/03/07/DCVWZH6PZBG5RHMO2US5JPVE5E/</guid>
@@ -941,18 +942,6 @@
       <description/>
       <pubDate>Fri, 07 Mar 2025 07:23:55 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AKAW2S3MGRBOLIOIQARNKSXVME.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;주유건을 꽂은 채 운행하고 있는 차량. /온라인 커뮤니티&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천에서 50대 여성이 실수로 주유소에서 주유를 한 후 주유건을 꽂은 채 차량을 몰아 경찰이 출동하는 소동이 빚어졌다.&lt;br&gt;&lt;br&gt;7일 인천 남동경찰서 등에 따르면 지난 4일 오후 6시쯤 인천시 남동구 구월동 도로에서 주유건을 꽂은 채 주행하는 차량이 있다는 신고가 경찰에 접수됐다.&lt;br&gt;&lt;br&gt;온라인 커뮤니티 등에 올라온 당시 사진 등을 보면 해당 차량은 주유건과 연결된 주유 호스가 도로에 끌리는 상황에서도 주행을 했다.&lt;br&gt;&lt;br&gt;차량 운전자인 50대 여성은 인근 주유소에서 기름을 넣은 뒤 실수로 주유건을 빼지 않고 20∼30m가량 차량을 운행한 것으로 파악됐다.&lt;br&gt;&lt;br&gt;경찰 관계자는 조선닷컴과의 통화에서 “운전자가 무면허‧음주운전을 한 정황은 없어 현장 종결 처리했다”고 밝혔다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>법무부 “즉시 항고하면 尹석방 안돼…검찰 석방 지휘 여부 기다리는 중”</title>
-      <link>https://www.chosun.com/national/court_law/2025/03/07/7OCD2I3DMBDFNP37XMD6LN7FIU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/03/07/7OCD2I3DMBDFNP37XMD6LN7FIU/</guid>
-      <dc:creator>박강현 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 07 Mar 2025 06:03:45 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/INJUXP7WNJFILAKKJ4FUP6FN6A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령이 지난 1월 21일 서울 종로구 헌법재판소에서 열린 윤석열 대통령 탄핵심판 3차 변론기일에 출석하고 있다./김지호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘12·3 비상계엄' 사태로 구속 기소돼 수감 중인 윤석열 대통령에 대해 법원이 구속을 취소하라고 7일 결정한 가운데, 한 법무부 관계자는 “검찰이 즉시 항고하면 윤 대통령이 석방되지 않는다”는 원론적 입장을 밝혔다.&lt;br&gt;&lt;br&gt;이 관계자는 이날 구속 취소 절차에 대해 “법원에서 구속 취소 통지를 검찰로 하면 검찰에서 주임 검사가 석방 지휘서를 (윤 대통령이 수감 중인) 서울 구치소로 보내야 한다”며 “서울 구치소에서는 석방 지휘서를 받으면 즉시 석방을 해야 한다”고 했다.&lt;br&gt;&lt;br&gt;그러면서 “다만 검찰 측이 (구속 취소 결정에 대해) 즉시 항고하면 윤 대통령이 석방되지 않는다”며 “현재 검찰의 석방 지휘 여부를 기다리고 있다”고 했다.&lt;br&gt;&lt;br&gt;이번 결정에 대해 윤 대통령 측은 “검찰은 즉시 대통령에 대한 석방을 지휘하라”고 촉구했다. 이어 “대통령의 구속 취소에 불구하고 형사소송법은 검찰의 즉시 항고 기간 7일 동안 대통령을 구금하도록 규정하고 있다”며 “하지만 구속 집행정지의 경우 법원의 결정에 대해 즉시 항고를 하는 것은 위헌이라고 한 헌법재판소의 결정이 있었으며 구속 취소의 경우에도 동일하므로 같은 논리에 의해 위헌이라 할 것”이라고 주장했다.&lt;br&gt;&lt;br&gt;서울중앙지법 형사25부(재판장 지귀연)는 이날 윤 대통령 측이 지난달 4일 청구한 구속 취소를 받아들였다. &lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/4PDWKAUCZ3VDCEE3XM5CAAC7AA.jpg?width=4778&amp;height=3185&amp;auth=d93614f98e9eceb59bfb4272a434de96e2b1d915509003c7c451568a0d7f0ad6&amp;smart=true" type="image/jpeg" height="3185" width="4778">
-        <media:description type="plain">ⓒ 뉴스1</media:description>
-      </media:content>
     </item>
     <item>
       <title>공수처 “검찰의 즉시항고 여부 지켜보겠다”</title>
