@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>김수현 측 “故김새론과 15살부터 연애? 명백한 허위사실”</title>
+      <link>https://www.chosun.com/national/people/2025/03/11/FYOV6HUGIBFAJBFUVISZSNESQE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/03/11/FYOV6HUGIBFAJBFUVISZSNESQE/</guid>
+      <dc:creator>이가영 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 10 Mar 2025 22:02:14 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6MC7T5J2J3CDGABVHIA6G2A7UY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;배우 고(故) 김새론(왼쪽), 김수현. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;배우 김수현 측이 고(故) 김새론과 교제설을 제기한 유튜브 채널에 대해 법적 대응을 예고했다. &lt;br&gt;&lt;br&gt;김수현 소속사 골드메달리스트는 10일 “가로세로연구소(가세연)가 유튜브 방송을 통해 김수현 배우와 관련해 주장한 내용은 명백한 허위사실”이라고 밝혔다. &lt;br&gt;&lt;br&gt;가세연은 이날 ‘[충격단독] 김새론 죽음 이끈 김수현 (김새론 15살 때부터 6년 열애)’ 제목의 방송에서 김새론이 15살이었던 2015년부터 당시 27살이었던 김수현과 연애했다고 주장했다. 또 2022년 김새론이 음주운전 사고를 일으켰을 당시 소속사였던 골드메달리스트의 대처가 부당했다는 김새론 유족의 말을 전했다. 김새론에 관한 비판적인 영상을 많이 올렸다고 유족이 지목한 유튜버 A씨와 골드메달리스트 매니저가 친분이 있다고도 주장했다. &lt;br&gt;&lt;br&gt;소속사는 “가세연은 당사와 김수현 배우가 유튜버 A씨와 결탁해 김새론 배우를 괴롭혔다는 취지로 악의적인 많은 주장들을 했으나 이는 모두 도저히 묵과할 수 없는 허위사실”이라며 “당사는 가세연에 대하여 취할 수 있는 가장 강력한 수준의 법적 대응을 검토할 예정”이라고 했다. &lt;br&gt;&lt;br&gt;이어 “한때 당사에 몸 담았던 김새론 배우의 사망 소식에 비통한 심정을 느끼고, 고인을 애도하고 있다”며 “그런데 가세연의 위와 같은 허위사실 유포는 고인이 생전 그렇게도 힘들어 했던 이른바 ‘사이버 렉카’의 행태를 그대로 답습하는 것으로서, 그저 자신의 이익을 위해 당사뿐만 아니라 고인의 명예를 훼손하는 것인 바, 당사는 이에 대해 엄정히 대응할 것”이라고 했다. &lt;br&gt;&lt;br&gt;소속사는 “부디 일고의 가치도 없는 허위사실들이 더 이상 유포되거나 확대, 재생산되지 않도록 해주실 것을 간곡히 요청드린다”고 했다. &lt;br&gt;&lt;br&gt;김새론은 지난달 16일 서울 성동구 자택에서 숨진 채 발견됐다.김수현과 김새론은 과거 골드메달리스트 소속 배우로 함께 활동했었다. 김수현 측은 지난해 3월에도 김새론과의 열애설이 불거지자 “사실무근”이라고 선을 그었다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>헌재가 변론 재개하면 마은혁 들어올 가능성… 尹측, 신청 놓고 고심</title>
       <link>https://www.chosun.com/national/court_law/2025/03/11/RQQ7E46VUNFNTC3HMN5XAPRHEA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/03/11/RQQ7E46VUNFNTC3HMN5XAPRHEA/</guid>
@@ -928,19 +937,6 @@
       <description/>
       <pubDate>Sat, 08 Mar 2025 11:17:37 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2AEFBTFBOFJCXJNBXBTTNJAES4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김동연 경기지사가 지난 5일 서울 마포구 김대중도서관에서 열린 일곱번째나라LAB·포럼 사의재 공동 심포지엄에서 발언하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김동연 경기지사는 8일 윤석열 대통령이 법원의 구속 취소 결정으로 석방되자 페이스북에 글을 올려 “내란정범들은 구속 수사 중인데 정작 내란 수괴는 석방됐다”고 비판했다.&lt;br&gt;&lt;br&gt;김 지사는 검찰이 법원의 결정에 즉시항고하지 않고 윤 대통령 석방을 지휘한 데 대해 “나라와 국민에 충성해야 할 검찰총장이 결국 임명권자이자 ‘검찰 수괴’에게 충성을 바쳤다”고 비난했다.&lt;br&gt;&lt;br&gt;김 지사는 그러나 “법꾸라지들이 물을 흐릴 수는 있어도 강물을 되돌릴 수는 없다”며 “봄은 반드시 온다”고 했다.&lt;br&gt;&lt;br&gt;김 지사는 “내란 단죄와 새로운 나라를 위해 흔들림 없이 나아가자”며 “(저도) 한 걸음 더 뛰겠다. 끝까지 빛의 연대로 함께하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>탄핵 찬성 집회 측 행진…“尹 석방, 검찰도 공범"</title>
-      <link>https://www.chosun.com/national/national_general/2025/03/08/XBL67VFAPBABPBRTQFMF7PTEWE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/03/08/XBL67VFAPBABPBRTQFMF7PTEWE/</guid>
-      <dc:creator>안준현 기자, 양인성 기자</dc:creator>
-      <description/>
-      <pubDate>Sat, 08 Mar 2025 10:20:04 +0000</pubDate>
-      <content:encoded>8일 검찰이 법원의 윤석열 대통령 구속 취소 결정에 따라 윤 대통령을 석방하면서, 대통령 탄핵을 찬성하는 집회 참가자들은 “대통령을 석방한 검찰도 공범”이라고 주장했다. 이들은 헌법재판소 인근 안국역과 광화문 등에서 집회를 하다 명동 방향으로 행진을 시작했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FLRVLIEKN5JRPCQCVE63G6QX4U.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;8일 오후 종로구 안국동 사거리에서 열린 야5당 공동 윤석열 파면 촉구 2차 범국민대회에서 참가자들이 윤 대통령 탄핵을 촉구하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 윤 대통령의 탄핵을 찬성하는 퇴진비상행동은 오후 5시부터 안국역 인근에서 ‘대개혁 비상행동 집회’를 열었다. 경찰 비공식 추산 1만명이 모였다. 이날 집회에는 서울지방고용청 앞에서 ‘세계 여성의 날’을 맞아 모인 민노총 조합원들과 촛불행동, 민주당 등 야 5당 지도부가 모였다.&lt;br&gt;&lt;br&gt;참석자들은 ‘극우국힘 규탄한다’ ‘내란수괴 윤석열 즉각 퇴진하라’ ‘김건희를 수사하라’ 등의 구호를 외쳤고, ‘내란종식 민주수호’ 등이 적힌 피켓을 들었다. 가수 이은미씨도 참석해 노래를 불렀다. 이날 집회에 온 이재명 민주당 대표는 “이 자리에서 저들의 군사 반란을 완전히 진압할 것”이라며 “위대한 국민과 함께 혁명을 완수하고, 내란이 종식될 때까지 끝까지 국민과 싸우겠다”고 말했다.&lt;br&gt;&lt;br&gt;집회가 열리고 있던 오후 5시 21분쯤, 검찰이 항고를 포기하고 윤 대통령이 석방됐다는 소식이 전해지자 집회 분위기는 격앙됐다. 사회자는 “범죄자 윤석열이 귀가를 한다고 한다” 했고, 한 참가자는 “아악!” 비명을 지르며 들고 있던 피켓을 던졌다. 뒤이어 참가자 전원이 일어나 “민심을 짓밟은 검찰을 규탄한다” “윤석열을 영원히 구속하라” 등의 구호를 외쳤다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/23MX43IF4JGE3CHSH7KT3VI4YA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;8일 오후 서울 종로구 안국동 사거리에서 열린 야5당 공동 윤석열 파면 촉구 2차 범국민대회에서 참가자들이 윤 대통령 탄핵을 촉구하고 있다. /남강호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;오후 6시 40분쯤 광화문에 모여 있던 탄핵 찬성 집회 참가자들은 명동 방향으로 행진을 시작했다. 무대 차량 위 발언자는 “비장한 결의로 출발해 농성을 시작할 것”이라고 했고, 참가자들은 뒤이어 ‘임을 위한 행진곡’을 불렀다. 이날 집회를 찾은 직장인 김모(33)씨는 “시민과 노동자가 피의자일 때는 하지 않던 창의성을 발휘해 권력자가 피의자일 때 더 관대한 해석을 했다”며 “굳이 이런 판단을 내린 법원을 납득하기 어렵다”고 했다. 대학생 이모(19)씨는 “고구마를 삼킨 답답한 심정”이라며 “(항고를 포기한) 검찰을 규탄한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/FLRVLIEKN5JRPCQCVE63G6QX4U.JPG?width=5052&amp;height=3186&amp;auth=b6a80c558137ec78d35b3f5c96e500182cc994d3688d5fdf29438ebb7e80caa1&amp;smart=true" type="image/jpeg" height="3186" width="5052">
-        <media:description type="plain">8일 오후 종로구 안국동 사거리에서 열린 야5당 공동 윤석열 파면 촉구 2차 범국민대회에서 참가자들이 윤 대통령 탄핵을 촉구하고 있다. /뉴스1</media:description>
-        <media:credit role="author" scheme="urn:ebu">(서울=뉴스1) 이동해 기자</media:credit>
-      </media:content>
     </item>
     <item>
       <title>탄핵 찬성단체 비상행동 “尹대통령 파면까지 지도부 철야 단식농성“</title>
