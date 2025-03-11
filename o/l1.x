@@ -6,6 +6,16 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>대법, '성남FC사건 검사 퇴정명령' 법관 기피신청 최종 기각</title>
+			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/206232.jpg" alt="186.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;성남FC 후원금 의혹 재판에서 '1일 직무대리 검사'에게 퇴정을 명령한 재판장에 대해 검찰이 낸 법관 기피 신청이 대법원에서 최종 기각됐다.&lt;p&gt;&amp;nbsp;   &lt;/p&gt;&lt;p&gt;대법원 3부(주심&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="455"&gt;엄상필&amp;nbsp;&lt;/span&gt;대법관)는 수원지검 성남지청이 낸 재항고(&lt;b&gt;2025모320&lt;/b&gt;)를 5일 기각했다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;검찰은 지난해 11월 14일 성남FC 후원금 의혹과 관련한 기업인과 성남시 공무원 등의 뇌물 의혹 사건(&lt;b&gt;2022고합260&lt;/b&gt;)을 담당하는 수원지법 성남지원 형사1부(재판장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="4922"&gt;허용구&lt;/span&gt;&amp;nbsp;부장판사)에 대해 법관 기피신청을 냈다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;허 부장판사는 지난해 11월 11일 공판에 출석한 부산지검 소속 정모 검사에 대해 퇴정을 명령했다. 부산지검 소속이면서 서울중앙지검 검사 직무대리를 발령 받은 상태에서, 수원지법 성남지원에 기소된 성남FC 사건 공판 때는 성남지청 검사로 하루씩 직무대리 발령을 받아 공판에 참여하는 것은 이중(중복) 직무대리 발령으로 검찰청법 제5조를 위반이라는 이유에서다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;이에 정 검사와 동석한 검사 4명은 즉각 이의신청을 제기하고 퇴정한 뒤 법관 기피신청을 했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;성남지원 형사3부는 지난해 11월 29일 "법관이 불공평한 재판을 할 염려가 있는 때에 해당하지 않는다"며 검찰의 기피신청을 받아들이지 않았다. 검찰이 불복했으나 수원고법에 이은 대법원의 판단도 마찬가지였다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;검찰의 법관 기피 신청에 따라 성남FC 후원금 의혹 사건 공판은 지난해 12월부터 4개월간 열리지 못했다. 대법원이 법관 기피 신청을 최종 기각함에 따라 공판기일은 다음달 8일부터 정상적으로 열릴 전망이다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;한편 허 부장판사의 검사 퇴정명령에 대한 검찰의 이의신청 항고심은 현재 수원고법에서 심리하고 있다.&lt;/p&gt;</description>
+			<pubDate>Tue, 11 Mar 2025 02:45:04 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/206232</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/206232</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/206232.jpg</media:thumbnail>
+			<dc:creator>홍윤지 기자</dc:creator>
+		</item>
+		<item>
 			<title>헌재, 최재해 감사원장·이창수 검사장 탄핵 13일 오전 10시 선고</title>
 			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/206234.jpg" alt="206234.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;최재해 감사원장·이창수 검사장 《사진=연합뉴스》&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;헌법재판소가 최재해 감사원장과&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="8022"&gt;이창수&amp;nbsp;&lt;/span&gt;서울중앙지검장 등 검사 3명에 대한 탄핵 인용 여부를 3월 13일 오전 10시 결정한다. 2024년 12월 5일 헌재에 탄핵이 접수된 지 97일 만이다.&lt;br /&gt;&lt;br /&gt;헌재는 최 원장과 이 지검장, 서울중앙지검&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="9799"&gt;조상원&amp;nbsp;&lt;/span&gt;4차장검사,&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="11669"&gt;최재훈&amp;nbsp;&lt;/span&gt;반부패수사2부장검사에 대한 탄핵심판 사건을 3월 13일 오전 10시에 선고한다고 3월 11일 밝혔다.&lt;br /&gt;&lt;br /&gt;이 지검장 등 검사 3인에 대해선 김건희 여사의 도이치모터스 주가조작 의혹 사건을 제대로 수사하지 않고 언론 브리핑에서 허위 사실을 공표했다는 등의 이유로 탄핵 소추당했다.&lt;br /&gt;&lt;br /&gt;최 원장은 대통령 집무실 및 관저 이전 감사를 부실하게 하고, 전현희 전 국민권익위원장에 대한 표적 감사를 했다는 등의 사유로 탄핵 소추됐다.&lt;br /&gt;&lt;br /&gt;헌재는 검사 탄핵심판 사건을 2월 24일, 최 원장 탄핵심판 사건을 2월 12일 각각 변론 종결했다.&lt;/p&gt;</description>
 			<pubDate>Tue, 11 Mar 2025 01:54:42 -0000</pubDate>
@@ -227,16 +237,6 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/206152</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/206152.jpg</media:thumbnail>
 			<dc:creator>홍윤지 기자</dc:creator>
-		</item>
-		<item>
-			<title>배우자 상속세 폐지 급물살</title>
-			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/206151.jpg" alt="23423526.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;상속세 개편 논의가 급물살을 타고 있다. 여당이 ‘배우자 상속세 전면 폐지’를 당론으로 추진하자 제1야당인 더불어민주당도 이에 동의하며 조속한 처리를 제안했다. &lt;b&gt;법률신문은 2월 20일 《재산 30억 넘으면 상속세 50%…고령 자산가 선택은 ‘절세 이혼’》, 3월 6일 《‘무조건 1.5 배우자 상속분’ 어머니는 서글프다》&lt;/b&gt; 등 지속적으로 시대에 뒤떨어진 상속제도에 대해 보도했는데, 정치권에서도 문제의식을 공유한 것이다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;span style="font-weight: bold;" serial="9300"&gt;이재명&amp;nbsp;&lt;/span&gt;더불어민주당 대표는 3월 7일 최고위원회의에서 국민의힘이 제안한 배우자 상속세 폐지 방안에 대해 “우리(민주당)도 동의할 테니 이번에 처리하면 좋겠다”고 화답했다. 이 대표는 “배우자 상속세 면제는 이혼이나 재산 분할 등을 고려하면 나름의 타당성이 있다”며 “부모나 배우자 사망 시 상속세 때문에 집을 떠나는 일이 없게 초부자 상속세 감세 같은 조건을 붙이지 말고 배우자 상속세 폐지를 처리하자”고 말했다.&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;span style="font-weight: bold;" serial="3877"&gt;권영세&lt;/span&gt;&amp;nbsp;국민의힘 비상대책위원장은 하루 앞선 3월 6일 비대위 회의에서 “배우자 간 재산 상속은 ‘세대 간 부의 이전’이 아니다”며 “배우자 상속세를 전면 폐지해야 한다”고 제안했다. 권 비대위원장은 이어 “미국, 영국, 프랑스 등 주요 선진국도 배우자 상속에 대해 과세하지 않는다”며 “징벌적 상속세 구조를 개선해야 한다”고 말했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;정부와 여당은 배우자 상속세 폐지는 물론 상속세 체계를 유산세 방식에서 유산취득세 방식으로 전환하는 방안을 추진 중이다. 상속세 및 증여세법 제13조에 따라 현행 유산세는 사망자의 재산 총액을 기준으로 세금을 부과하지만, 유산취득세로 개편하면 상속인이 실제 상속받은 금액에 대해 세금을 내게 된다. 최상목 대통령 권한대행(부총리 겸 기획재정부 장관)은 3월 4일 “낡은 상속세를 개편해야 할 때”라며 “정부는 상속세 공제를 합리화하고 납세자가 승계한 자산에 대해서만 세금을 부담하는 유산취득세로의 개편 방안을 3월 중 발표하고 법 개정을 위한 공론화 절차를 진행하겠다”고 밝혔다. 민주당은 배우자 상속세 공제 한도를 현행 5억 원에서 10억 원으로 상향하는 방안을 제안한 바 있다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;다만 여야가 최고세율 인하에 이견을 보이고 있고, 국민의힘은 ‘가업 승계 지원’에, 민주당은 ‘부자 감세 불가’에 초점을 맞추는 상황이라 여야 간 추가적인 세부 논의가 필요할 것으로 보인다.&lt;/p&gt;</description>
-			<pubDate>Fri, 07 Mar 2025 20:10:22 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/206151</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/206151</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/206151.jpg</media:thumbnail>
-			<dc:creator>김지현 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
