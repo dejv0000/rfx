@@ -13,6 +13,80 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>노한동 작가 “호지키스 행정·과도한 언론 대응이 공직사회 병들게 해”</title>
+      <link>https://www.chosun.com/national/national_general/2025/03/12/WKGUF52PPZAVBPUENFLJCZLX3Y/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/03/12/WKGUF52PPZAVBPUENFLJCZLX3Y/</guid>
+      <dc:creator>김혜민 기자, 박정훈 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 12 Mar 2025 11:58:06 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6PBYJWOPFZDGVM77YJ64JSHCYU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;'나라를 위해서 일한다는 거짓말' 노한동 전 서기관/조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난해 ‘나라를 위해서 일한다는 거짓말’이라는 책을 내 공직사회의 무능을 폭로한 노한동(38) 작가가 12일 서울대 강연에서 “‘호지키스 행정’과 과도한 언론 대응 등으로 공직사회가 망가지고 있다”고 지적했다.&lt;br&gt;&lt;br&gt;노 작가는 이날 오후 5시 서울 관악구 서울대 국가미래전략원에서 ‘한국 공직사회는 왜 그토록 무능해졌는가? 10년간 경험하고 관찰한 공직사회의 무능한 일상과 좌절에 관해’라는 강연을 진행했다. 노 작가는 문화체육관광부에서 10년간 근무하다가 4급 서기관으로 승진한 직후 사표를 던져 화제가 됐다. 이후 책을 통해 공직 사회 내부의 문제를 지적했다. &lt;br&gt;&lt;br&gt;이날 노 작가는 “중앙부처는 앞으로 한발 나아가기 위한 정책 수립을 위한 조직인데, 현상유지에만 골몰하고 있다”고 했다. 특히 “현장은 살피지 않은 채 보기 예쁜 보고서를 작성하는 데만 골몰하고 있다”며 ‘호지키스 행정’에 대해 크게 지적했다.&lt;br&gt;&lt;br&gt;또 노 작가는 공직자들이 형사처벌에 대한 두려움으로 인해 적극적으로 일을 하지 못한다는 점도 지적했다. 그는 “공직자의 권한은 없어지는데 책임은 높게 묻고 있다”며 “이로 인해 공직자들이 무력감에 빠지게 된다”고 했다. 특히 정치 양극화가 심해짐에 따라 정권이 교체될 때마다 주요 정책을 담당했다가 형사처벌을 받을 우려가 커지면서 공직자들이 처벌 면피에만 골몰하게 됐다는 것이다. 노 작가는 월성원전 자료 삭제 사건, TV조선 재승인 사건 등 주요 정책을 담당했다가 공직자들이 구속된 사건들을 예시로 들었다.&lt;br&gt;&lt;br&gt;노 작가는 공직 사회가 무능해진 이유로 ‘과도한 언론 대응’을 꼽기도 했다. 언론을 지나치게 의식한 나머지 사건 발생 시 재빠르게 말장난에 불과한 졸속대책만 낸다는 것이다. 노 작가는 그 예로 최근 일어난 대전 초등생 살인사건에 대한 교육부의 대처를 들었다. 그는 “해당 사건은 문제 원인과 해결방안이 뚜렷하지 않은 사건이었음에도 불구하고 교육부에서 48시간만에 대책이, 일주일만에 종합대책이 나왔다”며 공직사회가 언론을 너무 의식한 나머지 즉문즉답식으로 졸속대책만 만들고 있다고 꼬집었다.&lt;br&gt;&lt;br&gt;노 작가는 공직사회에 대한 대통령실 권한이 너무 강한 점 또한 문제로 짚었다. 그는 “엄연히 임명된 장·차관에 권한이 부여돼야 하는데, 현실에서는 대통령실이 인사를 뒤집는 등 실권을 행사하니 공직자들은 눈치만 보게 되는 상황이 발생한다“고 했다.&lt;br&gt;&lt;br&gt;한편 그는 최근 정부효율부 신설을 통해 공직사회를 대대적으로 개편하고 있는 도날드 트럼프 미국 대통령의 해결책에 대해선 거리를 뒀다. 그는 “공직사회를 어떻게 다뤄볼 것인가에 대한 문제의식에는 동의한다”면서도 “해당 발상은 내부적 상황을 고려하지 않은 외과적 수술에 불과하기에 (딱 맞는) 해답이라 생각하지는 않는다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>아시안게임 역대 최다 金 ... 한국 승마 전설 서정균 별세</title>
+      <link>https://www.chosun.com/national/obituary-personnel/2025/03/12/O4E4IE3V2NGOBN67W6EPVJ7U7M/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2025/03/12/O4E4IE3V2NGOBN67W6EPVJ7U7M/</guid>
+      <dc:creator>강우석 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 12 Mar 2025 12:48:32 +0000</pubDate>
+      <content:encoded>한국 아시안게임 역대 최다 금메달 보유자인 서정균(63) 청학승마클럽 감독이 12일 별세했다.&lt;br&gt;&lt;br&gt;1962년 서울 태생인 서 감독은 한국 승마의 선구자로 1986년 서울 대회부터 2006년 도하 대회까지 아시안게임에만 4차례 출전해 금메달 6개를 따냈다. 박태환(수영), 양창훈(양궁), 남현희, 구본길(이상 펜싱), 류서연(볼링)과 함께 한국 선수 아시안게임 최다 금메달 공동 1위다.&lt;br&gt;&lt;br&gt;서 감독은 1988년 서울 올림픽에도 출전해 마장마술 개인전에서 역대 승마 개인전 최고 순위인 10위에 오른 바 있다.&lt;br&gt;&lt;br&gt;빈소는 서울아산병원, 발인은 14일 오전 8시20분이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/6SVREI35JBCETKWHIJDUWEBWXM.jpg?width=240&amp;height=180&amp;auth=e14fa210e831ecb735e8d76e44cbfad287359c9f7f256bcdc29811b848a0a4b5&amp;smart=true" type="image/jpeg" height="180" width="240">
+        <media:description type="plain">아시안게임 통산 6번째 승마 금메달에 도전한다. 한국 승마의 대들보 서정균이 그의 애마인 애니콜과 다정스러운 포즈를 취하고 있다.</media:description>
+        <media:credit role="author" scheme="urn:ebu"/>
+      </media:content>
+    </item>
+    <item>
+      <title>사법정책자문위 “신속·공정 재판 위해 정년 없는 ‘시니어 판사’ 도입해야”</title>
+      <link>https://www.chosun.com/national/court_law/2025/03/12/YG5WNAKTCNASNIZCSRVCGDGRBM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/03/12/YG5WNAKTCNASNIZCSRVCGDGRBM/</guid>
+      <dc:creator>방극렬 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 12 Mar 2025 12:56:06 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SOX3OVYDVKGPTS3GUEM7VOEUYE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 대법원 청사 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대법원 사법정책자문위원회가 12일 법관 정년이 없이 재판을 하는 ‘시니어 판사’ 제도를 도입하자고 조희대 대법원장에게 건의했다.&lt;br&gt;&lt;br&gt;대법원장 자문 기구인 사법정책자문위는 이날 회의를 열고 “풍부한 재판 역량을 가진 판사가 정년 이후에도 적정한 재판 업무를 계속 담당하도록 하고, 이에 합당한 처우를 받을 수 있도록 하는 시니어 판사 제도를 도입할 필요가 있다”고 밝혔다.&lt;br&gt;&lt;br&gt;사법정책자문위는 “모든 국민에게 신속하고 공정한 재판을 제공하기 위해 법관의 정년과 정원에 얽매이지 않으면서 최대한 재판 역량을 발휘해야 한다”며 “판사의 생애 주기에 따른 재판 업무를 적정하게 조정하면서도, 운용 과정에서 정원 제한으로 인한 인력 부족이 발생하지 않도록 하는 방안을 추진할 필요가 있다”고 말했다.&lt;br&gt;&lt;br&gt;법원조직법상 판사의 정년은 65세이고, 대법원장과 대법관은 70세이다. 이를 일부 늘리되 보수는 조정하자는 취지로 해석된다.&lt;br&gt;&lt;br&gt;사법정책자문위는 또 “법원 강제집행 등을 처리하는 사법보좌관의 업무를 신청 사건 등으로 확대할 필요가 있다”며 “실질적 쟁송에 해당하지 않는 업무 영역에서 사법보좌관의 업무를 지속적으로 확대해 국민의 재판 청구권을 충실히 보장해야 한다”고 건의했다.&lt;br&gt;&lt;br&gt;사법보좌관은 일정 자격을 갖춘 법원 일반직 공무원 가운데 임명되는데, 법원의 재판 업무 중 정형적이고 큰 다툼이 없는 업무와 경매, 압류 및 추심 명령 등을 수행한다.&lt;br&gt;&lt;br&gt;그러면서 “사법보좌관의 전문성을 강화하는 동시에 그 역할에 맞는 자긍심과 동기를 부여하는 개선 방안을 마련해야 한다”며 “국민 신뢰를 제고할 수 있도록 사법보좌관의 직명을 업무 영역 및 직무 성격에 부합하게 변경하는 것을 고려할 필요가 있다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>대검, 천대엽 ‘즉시항고 필요’에 “법사위 상황 관련 검토 중”</title>
+      <link>https://www.chosun.com/national/court_law/2025/03/12/RJUUPSHMQFFF5BVVRIVC2SOK6E/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/03/12/RJUUPSHMQFFF5BVVRIVC2SOK6E/</guid>
+      <dc:creator>이슬비 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 12 Mar 2025 10:24:54 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KJVXIIW6WVJCZDBSNOXMNX5XIQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;심우정 검찰총장이 12일 서울 서초구 대검찰청으로 출근하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;천대엽 법원행정처장이 12일 윤석열 대통령에 대한 구속취소와 관련해 검찰의 즉시항고 제기가 필요하다고 국회에서 발언하자, 대검찰청은 “검토 중”이라고 밝혔다.&lt;br&gt;&lt;br&gt;대검은 기자단 공지를 통해 “국회 법제사법위원회 상황과 관련해 검토하고 있다”며 “구체적인 사항은 확인해 드릴 수 없다”고 했다. &lt;br&gt;&lt;br&gt;천 처장은 이날 법사위 현안질의에 출석해 “재판부 결정에도 검찰은 구속기간을 ‘날짜’로 계산하겠다고 하는 등 혼란이 지속되고 있다”라며 “(검찰의) 즉시항고를 통해 상급심 판단을 받는 것이 필요하다고 본다”고 했다.&lt;br&gt;&lt;br&gt;앞서 서울중앙지법이 윤 대통령 구속 기간 계산 문제와 수사의 적법성 문제를 이유로 들며 구속을 취소하자, 검찰은 “구속 기간을 ‘날짜’가 아닌 ‘시간’으로 계산하는 것은 수긍하기 어렵다”고 반발했다. 구속 기간에서 제외하는 영장 심사 기간을 ‘날짜가 아닌 시간’ 기준으로 해야 한다는 법원 결정은 관례에 어긋난다고 본 것이다. &lt;br&gt;&lt;br&gt;그러면서도 검찰은 구속 취소에 대한 즉시항고는 위헌성이 크다고 판단해 즉시항고를 하지 않았다. 앞서 헌법재판소가 보석과 구속집행정지에 대한 즉시항고는 두 차례 위헌 결정을 했기 때문이다. 이에 따라 윤 대통령은 지난 8일 석방됐다.&lt;br&gt;&lt;br&gt;천 처장은 윤 대통령이 석방된 상태에서도 검찰의 즉시항고가 가능하다고 했다. 천 처장은 “피고인을 석방하고 나서도 즉시항고를 통해 (상고심의) 판단을 받은 선례가 있다”며 “석방된 상태에서도 상고심의 법적 판단을 받는 것에는 장애가 없다”고 했다. 이 논리대로라면 검찰이 즉시항고를 할 수 있는 기한은 오는 14일까지다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>주식 사기 피해로 두 자녀와 극단선택 시도한 엄마… 항소심서 감형 호소</title>
+      <link>https://www.chosun.com/national/regional/chungcheong/2025/03/12/IZTRMXYDPNETXBH2GHV7PQ3KBM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2025/03/12/IZTRMXYDPNETXBH2GHV7PQ3KBM/</guid>
+      <dc:creator>대전=김석모 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 12 Mar 2025 12:32:18 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EBELH2SLNJ252IYRWKZGFF5PQA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대전고법. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;주식 투자사기로 1억원대의 손해를 보고 자녀 2명과 목숨을 끊으려다 초등학생 아들을 숨지게 한 혐의를 받는 40대 여성 A씨가 항소심에서 감형을 호소했다. &lt;br&gt;&lt;br&gt;12일 대전고법 형사1부(재판장 박진환) 심리로 열린 A(46)씨의 살인 혐의 사건 항소심에서 A씨 변호인은 “심신미약 상태에서 범행한 참작 할만한 사정이 많다”면서 감형을 요청했다. A씨는 1심에서 징역 7년을 선고받았다.&lt;br&gt;&lt;br&gt;A씨는 최후 진술에서 “주식 리딩방 사기를 당해 정신적인 충격으로 순식간에 무너져 내렸다”면서 “하지 말아야 할 행동으로 행복했던 가정을 잃었다”고 말했다. 이어 “병원에서 깨어난 후 무엇을 잃었는지 처절하게 깨달았다”고 말했다.&lt;br&gt;&lt;br&gt;그는 또 “남편 생각하면 눈물만 난다. 너무 큰 죄를 저질렀고, 무슨 말을 해도 되돌릴 수 없다”면서 “지금 힘들어하는 남편과 딸아이에게 도움이 되고 싶다. 더 늦기 전에 엄마이자 아내의 자리를 찾을 기회를 달라”고 말했다.&lt;br&gt;&lt;br&gt;검찰은 A씨 측의 항소를 기각하고 1심이 선고한 징역 7년 형을 유지해 줄 것을 재판부에 요청했다.&lt;br&gt;&lt;br&gt;A씨는 지난해 1월 충남 예산시 자택에서 아들·딸이 잠든 사이 극단적인 선택을 시도했다. 이 과정에서 A씨는 목숨을 건졌지만 초등학생 3학년이던 아들은 숨졌다. A씨와 함께 목숨을 건진 초등학생 2학년 딸은 뇌 병변 장애를 입었다.&lt;br&gt;&lt;br&gt;범행 2개월 전 주식투자 사기로 1억원이 넘는 피해를 본 A씨는 자신의 처지를 비관해 범행을 저지른 것으로 알려졌다. A씨의 딸은 장애 때문에 현재 24시간 간병인의 도움을 받아야 하는 것으로 전해졌다.&lt;br&gt;&lt;br&gt;1심 재판부는 “어머니로서 책임을 저버리고 범죄를 저지른 죄책이 크다”며 A씨에게 징역 7년을 선고했다.&lt;br&gt;&lt;br&gt;A씨 등에게 주식투자 사기로 피해를 준 B(41)씨는 징역 20년형을 선고받고 수감된 상태다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>인권위, 계엄 장성들 ‘보석 허가·불구속재판’ 촉구...“尹도 풀려났는데” </title>
+      <link>https://www.chosun.com/national/national_general/2025/03/12/4Y2PKUO6MFDCZIOHVMO2IVZZMA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/03/12/4Y2PKUO6MFDCZIOHVMO2IVZZMA/</guid>
+      <dc:creator>장윤 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 12 Mar 2025 11:51:57 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HZSB7O2XW5NWHDWF2WJSMJEOY4.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;김용원 국가인권위원회 상임위원이 지난달 18일 오전 서울 중구 인권위에서 열린 군인권보호위원회에 참석하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국가인권위원회(인권위)는 12일 비상계엄에 연루돼 구속기소된 군 장성들에 대한 보석 허가와 불구속 재판을 촉구했다.&lt;br&gt;&lt;br&gt;인권위 군인권보호관을 맡고 있는 김용원 상임위원은 중앙지역군사법원장에게 구속 중인 박안수 육군참모총장, 여인형 전 방첩사령관, 곽종근 전 특수전사령관, 이진우 전 수도방위사령관, 문상호 전 정보사령관 등 5명에 대한 신속한 보석 허가와 불구속 재판을 촉구하는 내용의 서한을 이날 전달했다. &lt;br&gt;&lt;br&gt;이는 지난달 18일 인권위 군인권보호위원회의 ‘군사법원의 일반인 접견 및 서신 수발 금지에 의한 인권침해 등’ 사건 결정에 따른 것이다. 구속된 장성 5명 중 4명은 지난달 13일 인권위에 중앙지역군사법원을 상대로 ‘일반인 접견 및 서신 수발 전면 금지 조치’를 철회하도록 요청하는 진정서를 제출했으며, 군인권소위는 신청 하루 만에 이들이 수용된 군 구금시설에 대한 조사를 진행한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;김 상임위원은 “계엄 선포에 대한 최고 책임자이자 군통수권자인 윤석열 대통령이 법원의 구속 취소 결정으로 석방됐음에도 불구하고 군 고위 지휘관들이 계속 구속된 상태로 재판을 받는 것은 어느 모로 보더라도 부당하다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/HZSB7O2XW5NWHDWF2WJSMJEOY4.JPG?width=3690&amp;height=2460&amp;auth=debf638fe4535bc2901b3db4bc540624666dd01e7496edd79ee80437179bd402&amp;smart=true" type="image/jpeg" height="2460" width="3690">
+        <media:description type="plain">김용원 국가인권위원회 상임위원이 지난달 18일 오전 서울 중구 인권위에서 열린 군인권보호위원회에 참석하고 있다./뉴스1</media:description>
+        <media:credit role="author" scheme="urn:ebu">(서울=뉴스1) 신웅수 기자</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>진보 교육감도 못견딘 민노총 시위... “강력 대응” 무슨 일?</title>
+      <link>https://www.chosun.com/national/education/2025/03/12/HWKWYJFLBZB6RLA4ZYDENADYOE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/education/2025/03/12/HWKWYJFLBZB6RLA4ZYDENADYOE/</guid>
+      <dc:creator>김민기 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 12 Mar 2025 11:18:23 +0000</pubDate>
+      <content:encoded>“상식을 넘어서는 불법 시위는 이제 제발 그만해 주십시오.”&lt;br&gt;&lt;br&gt;민노총 인사들이 교육청을 점거해 직원들 출근을 막고, 로비에서 대변을 보는 등 황당한 시위에 몸살을 앓던 서울시교육청이 “불법 시위에 강력 대응하겠다”며 12일 기자회견을 열었다. 일상적으로 시위를 겪는 서울교육청이 기자회견까지 열어 시위대를 비판한 것은 유례가 없는 일이다. 교육계에선 “얼마나 비상식적 시위였으면 친노조 성향인 진보 진영 정근식 교육감도 못 참았겠느냐”는 말이 나왔다. &lt;br&gt;&lt;br&gt;서울교육청에 따르면, 20여 명 규모 시위대는 지난달 19일부터 서울 종로구 서울교육청 현관 앞에서 텐트를 치고 철야 농성에 들어갔다. 이들이 현관을 막아 21일엔 출근하던 직원들이 집으로 돌아가 모두 재택근무를 했다. 27일 저녁엔 민노총 소속 서모씨가 “화장실을 못 가게 한다”고 주장하며 1층 로비에서 바지를 내리고 대변을 봤고, 다음 날엔 시위대 2명이 무단으로 교육감실을 1시간 동안 점거했다. 결국 이날 교육청이 경찰에 신고해 시위대 22명이 연행됐다. 21명은 이후 석방됐고, 경찰에게 침을 뱉은 금속노조 소속 1명에 대해 구속영장이 청구됐지만 법원은 “도주 우려가 없다”며 기각했다. &lt;br&gt;&lt;br&gt;이번 시위는 1년 전 전직 교사 지모씨가 ‘부당 전보’를 주장하면서 1인 시위를 벌인 게 시작이었다. &lt;br&gt;&lt;br&gt;지씨는 “2023년 중학교 근무 때 학생 간 성폭력 문제를 제기한 후 부당하게 인사 발령이 났다”고 주장하고 있다. 서울교육청은 “해당 성희롱 사안은 절차에 따라 가해자를 처벌했다”면서 “지씨를 다른 학교에 보낸 건 원래 인사 대상자였기 때문”이라고 했다. &lt;br&gt;&lt;br&gt;지씨는 학교장이 여덟 차례 복귀 명령을 내렸는데도 130일 가까이 무단 결근했다. 교육청은 무단 결근 책임을 물어 작년 9월 지씨를 해임했다. 지씨는 지난 4일 해임 무효 소송을 낸 상태다. &lt;br&gt;&lt;br&gt;서울교육청은 “작년 9월 민노총이 개입하면서 시위가 격화되고 비상식적으로 진행됐다”면서 “청사에서 대변을 보고 기물을 파손한 이들은 고발을 검토 중”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/F4W5F6NCC5SNKNLNZRSO35NUKA.jpg?width=720&amp;height=480&amp;auth=a733c3d0674dce2fd74526e238f1db02e18233150473834b5974eea5c01db830&amp;smart=true" type="image/jpeg" height="480" width="720">
+        <media:description type="plain">[자료사진]서울시교육청 청사</media:description>
+      </media:content>
+    </item>
+    <item>
       <title>법원행정처장 “尹 구속취소, 즉시항고해 상급심 판단 받아야"</title>
       <link>https://www.chosun.com/national/court_law/2025/03/12/SCNZYMJ56BG7XGYYIZOVUYBEBQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/03/12/SCNZYMJ56BG7XGYYIZOVUYBEBQ/</guid>
@@ -788,15 +862,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PKN6GV3MFQ52CK57JL5KGIE3CA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김병민 서울시 정무부시장. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 2021년 서울시장 보궐선거 당시 ‘정치 브로커’ 명태균씨가 오세훈 서울시장 관련 여론조사를 제공하고 오 시장 측이 비용을 냈다는 의혹을 수사 중인 검찰이 김병민 서울시 정무부시장을 소환해 조사한다.&lt;br&gt;&lt;br&gt;11일 본지 취재를 종합하면, 서울중앙지검 전담수사팀(팀장 이지형 차장검사)은 김 부시장에게 오는 13일 오후 1시 30분에 참고인 신분으로 출석해 조사를 받으라고 통보했다. 서울시 정무부시장은 시장을 보좌해 국회, 시의회, 언론, 정당 등과 서울시 업무를 협의‧조정한다.&lt;br&gt;&lt;br&gt;김 부시장은 본지 통화에서 “오 시장이 그동안 신속한 수사를 촉구한만큼, 적극 협조하는 차원에서 가장 빠른 (조사) 날짜를 골랐다”며 “명씨의 허위 주장들에 대해서 있는 그대로 얘기할 것”이라고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/T6GRP42RTR7RZZYC6MLM6TUUK4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;명태균씨. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰은 2021년 4월 서울시장 보궐선거 당시 명씨가 실질적으로 운영했던 여론조사 업체 ‘미래한국연구소’가 오 시장과 관련해 13차례 비공표 여론조사를 했고, 오 시장의 오랜 후원자로 알려진 사업가 김한정씨가 이를 앞두고 여론조사 비용 3300만원을 5차례에 걸쳐 냈다는 의혹을 수사 중이다. &lt;br&gt;&lt;br&gt;명씨는 검찰 조사에서 김씨와 함께 만난 ‘3자 회동’을 포함해 오 시장을 총 7차례 정도 식당과 오 시장의 당협 사무실 등에서 만났다고 주장하고 있다. 또 명씨는 오 시장이 선거를 앞두고 “나경원을 이기는 조사가 필요하다. 서울로 빨리 올라오라”고 했다거나, 오 시장이 “여론조사 비용은 김씨가 부담할 것”이라고 말했다고 주장한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;이에 대해 오 시장 측은 “명백한 허위”라는 입장을 밝힌 바 있다. 명씨가 했다는 여론조사 결과를 받은 적이 없으며 김씨와의 3자 회동 등도 없었다는 것이다. 오 시장은 이와 관련해 명씨를 중앙지검에 고소한 상태다.&lt;br&gt;&lt;br&gt;이종현 서울시 민생소통특보는 이날 낸 입장문에서 “(김 부시장은) 출석에 임해 5%의 사실에 95%의 허위를 섞고 있는 명태균 진술의 실체를 명확히 밝히도록 성실히 설명할 것”이라고 했다.&lt;br&gt;&lt;br&gt;앞서 검찰은 지난 10일 해당 의혹과 관련해 강철원 전 서울시 정무부시장과 박찬구 정무특보 등 오 시장 최측근 참모 2명을 조사했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>휘성 시신 주변서 주사기 발견... 부검서 약물 투여 여부도 검사</title>
-      <link>https://www.chosun.com/national/national_general/2025/03/11/4FH4DTNM5FCQ7MCRK64BMWTTXQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/03/11/4FH4DTNM5FCQ7MCRK64BMWTTXQ/</guid>
-      <dc:creator>유종헌 기자, 김병권 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 11 Mar 2025 11:14:25 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7HNVN5EY7FEL3HDOAH7ZFZSMIQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;가수 휘성이 지난 2019년 5월 서울 여의도 국회 의원회관에서 열린 '제7회 대한민국 예술문화인대상'에 음반프로듀서부문 수상자로 참석하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 10일 오후 서울 광진구 자택에서 숨진 채로 발견된 휘성(43·본명 최휘성) 시신 주변에서 주사기가 발견된 것으로 11일 알려졌다. &lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 당국은 최씨 시신을 수습하던 도중 시신 주변에 있던 주사기를 발견했다고 한다. &lt;br&gt;&lt;br&gt;12일 오전 최씨 시신을 부검할 예정인 국과수는 최씨가 약물을 투약한 게 맞는지, 투약한 물질이 마약인지 등을 들여다 볼 예정이다. &lt;br&gt;&lt;br&gt;앞서 최씨는 지난 2019년 9~11월 향정신성 수면 마취제인 프로포폴을 투약한 혐의로 기소, 2021년 항소심에서 징역 1년에 집행유예 2년이 확정됐다. 2020년에는 수면 유도 마취제인 에토미데이트를 맞고 쓰러진 채 발견되기도 했다. &lt;br&gt;&lt;br&gt;경찰 관계자는 “자세한 내용은 수사 사항이라 밝히기 어렵다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>‘사형수 이철수’ 구한 재미언론인 이경원씨 별세  </title>
       <link>https://www.chosun.com/national/people/2025/03/11/MS7Q3VPCOBCLVBEAP5TFNO3QJY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/people/2025/03/11/MS7Q3VPCOBCLVBEAP5TFNO3QJY/</guid>
@@ -804,36 +869,6 @@
       <description>'프리 이철수' '트루 빌리버', 억울한 사형수를 구한 것은 증인이 아시사인의 얼굴을 구분하지 못한다는 것을 증명한 기자 이경원이었다.  </description>
       <pubDate>Tue, 11 Mar 2025 10:42:00 +0000</pubDate>
       <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TMRUEKHJRBAC7EXTTKQZS4OICM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;탐사저널리즘의 모범을 보인 재미언론인 이경원 씨. 미국에서 '아시안 아메리칸 저널리즘의 대부'로 불렸다. &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;미국 주류 언론인으로 활동하며 사형수 이철수 씨의 누명을 벗겨낸 이경원 씨가 지난 9일 숙환으로 별세했다. 97세. 1960년 간호사 출신 페기 플라워 씨와 결혼한 그는 캘리포니아 사크라멘토에서 살아왔다. &lt;br&gt;&lt;br&gt;1928년 개성에서 태어난 그는 고려대 졸업 후 1950년 미국으로 이민, 1956년 테네시주 킹스포트 타임앤뉴스 기자로 입사했다. 아시아계 이민자 최초의 주류 일간지 기자였다. 애팔래치아 광부의 집단 진폐증 문제를 비롯, 낮은 곳을 향하는 탐사보도 기사의 모범을 보여줬다. 캘리포니아로 옮긴 후 훗날 영화 ‘트루 빌리버’ 다큐멘터리 ‘프리 이철수’로 제작되는 ‘운명의 기사’를 썼다. &lt;br&gt;&lt;br&gt;1973년 차이나타운 갱단 두목 살해 누명을 쓴 이철수씨 기사를 무려 120건이나 써 구명운동을 촉발시켰다. 목격자가 아시아인 얼굴을 구별하지 못했다는 사실을 밝혀낸 것이 결정적이었다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EZTN22JO6JOSJGJXF5PGHJ3YGE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;다큐멘터리 '프리 이철수' 포스터 앞에 선 이경원 씨. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 92년 간이식을 받은 후에도 열정적으로 활동한 그는 ‘아시안-아메리칸 저널리즘의 대부’로 평가 받는다. 장례식은 비공개로 치러지며, LA에서 추모식이 예정돼있다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>스쿨존서 초등생 치여 숨지게 한 40대 운전자 구속</title>
-      <link>https://www.chosun.com/national/court_law/2025/03/11/7ZJBMT7R65CJVGORBLSSKNJDGE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/03/11/7ZJBMT7R65CJVGORBLSSKNJDGE/</guid>
-      <dc:creator>정성원 기자</dc:creator>
-      <description>스쿨존에서 10대 초등학생을 차로 치어 숨지게 한 40대 운전자가 구속됐다.
-11일 대구지법 서부지원 서영애 부장판사는 특정범죄가중법상 어린이 보호구역 치사 혐의를 받는 40대 운전자 A씨에 대한 구속 전 피의자 심문(영장실질심사)에서 “도주 우려가 있다”며 구속영장을 발부했다.
-</description>
-      <pubDate>Tue, 11 Mar 2025 10:12:24 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YFMERL2TVFH3ZOE3O53YGE6HOI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원 로고. /조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;스쿨존에서 10대 초등학생을 차로 치어 숨지게 한 40대 운전자가 구속됐다.&lt;br&gt;&lt;br&gt;11일 대구지법 서부지원 서영애 부장판사는 특정범죄가중법상 어린이 보호구역 치사 혐의를 받는 40대 운전자 A씨에 대한 구속 전 피의자 심문(영장실질심사)에서 “도주 우려가 있다”며 구속영장을 발부했다.&lt;br&gt;&lt;br&gt;A씨는 지난달 21일 오후 6시 20분쯤 대구 달서구 진천동 한 골목길에서 B군을 승용차로 치어 숨지게 한 혐의를 받고 있다. 사고 당시 이 골목길은 어린이보호구역이었다.&lt;br&gt;&lt;br&gt;경찰 조사 결과 A씨는 음주 운전이나 과속은 하지 않은 것으로 확인됐다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “범죄가 중대하다고 판단해 구속영장을 신청했다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>킥보드 무단횡단 학생 경찰서 데려간 운전자, 고소 당해... 이유는</title>
-      <link>https://www.chosun.com/national/national_general/2025/03/11/OYBWLB7ZLRAN5KYYJEFYJRLKSU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/03/11/OYBWLB7ZLRAN5KYYJEFYJRLKSU/</guid>
-      <dc:creator>박선민 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 11 Mar 2025 10:05:44 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LK35C7ZDNNM67IISSH3VUXVQPI.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;2022년 5월 12일 오후 경기도 수원시의 한 거리에서 전동킥보드 이용자가 주행하고 있다. 기사 내용과 관련 없음. /뉴스1
-&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전동 킥보드를 타고 무단횡단하던 학생을 경찰서로 데려간 운전자가 아동학대 혐의로 재판에 넘겨졌다. &lt;br&gt;&lt;br&gt;11일 법조계에 따르면, 광주지법 형사8단독 김용신 부장판사는 이날 아동복지법 위반(아동학대) 혐의로 기소된 50대 운전자 A씨에 대한 첫 공판기일을 열었다.&lt;br&gt;&lt;br&gt;A씨는 작년 7월 광주 서구의 한 도로에서 전동 킥보드를 타고 도로를 무단횡단한 학생을 자신의 차량에 태워 경찰서로 데려간 혐의로 기소됐다. 당시 A씨는 도로를 횡단한 학생을 상대로 경적을 울리고 차량을 후진시켜 멈춰 세운 뒤, “교통사고가 날 뻔했다”며 학생을 자신의 차량에 태워 경찰서에 데려다 놓고 떠난 것으로 파악됐다. &lt;br&gt;&lt;br&gt;이후 학생 측이 A씨를 상대로 고소장을 제출했고, 검찰은 수사 끝에 A씨의 행위가 아동 학대에 해당한다고 판단했다고 한다. &lt;br&gt;&lt;br&gt;다만 A씨는 이번 재판에서 “위험한 행동을 알려주고 경찰서에 보내 훈육하려 데려갔을 뿐, 차량에 강제로 태우지 않았다”며 아동 학대 혐의를 부인했다.&lt;br&gt;&lt;br&gt;재판부는 사실관계를 확인하기 위해 관련자들을 증인 신문할 계획이다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>부산교육감 재선거 ‘3파전’으로 가나</title>
-      <link>https://www.chosun.com/national/regional/yeongnam/2025/03/11/TTA6PHXFJBAMFHVR5EFKABNRUY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/yeongnam/2025/03/11/TTA6PHXFJBAMFHVR5EFKABNRUY/</guid>
-      <dc:creator>박주영 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 11 Mar 2025 09:19:32 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4DZ7FK3GDRHPRPDESAD2BNTH2Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산시교육감 재선거 김석준 예비후보.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Y3PKSMFPRBEI7OIOHISLMEPV7E.png"&gt;&lt;figcaption&gt;&lt;small&gt;부산시교육감 재선거 정승윤 예비후보&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KI5PUZUBPFAQRAO2GUN24OVZLI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산시교육감 재선거 최윤홍 예비후보&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산시교육감 재선거(4월2일)의 구도가 요동을 치면서 짜여져 가고 있다. &lt;br&gt;&lt;br&gt;진보 진영 예비후보로 통하는 차정인(64) 전 부산대 총장이 11일 부산 부산진구 자신의 선거사무실에서 교육감 재선거 불출마를 선언했다. 차 전 총장은 이날 불출마 선언에서 “윤석열 내란 세력 심판을 위해 저의 도전을 멈추겠다”고 밝혔다. &lt;br&gt;&lt;br&gt;또 다른 진보진영 예비후보로 평가되는 김석준(68) 전 교육감은 이날 차 전 총장의 사퇴에 대한 논평 보도자료를 내고 “어떠한 일이 있어도 교육 현장에 극우세력이 등장하는 일만큼은 없게 할 것”이라고 답했다. &lt;br&gt;&lt;br&gt;이로써 당초 8명의 예비후보들이 보수·진보, 대학·초중등 교육 출신 등 여러 전선(戰線)으로 얽히며 각축전을 벌이던 교육감 재선거 구도가 현재 상황으론 진보 진영의 김 전 교육감과 보수진영으로 분류되는 정승윤(55) 전 국민권익위원회 부위원장·최윤홍(56) 부산시교육감 권한대행 등 3파전으로 압축됐다. &lt;br&gt;&lt;br&gt;3파전 구도는 지난 9일 중도·보수교육감 단일화 통합추진위의 4자 경선에서 정 전 부위원장이 승리하면서 ‘5파전’으로 갔다가 이 경선에 참여하지 않은 황욱 전 김해여고 교장이 같은 날 최 전 부교육감 지지선언을 하고 사퇴해 ‘4파전’으로 바뀌었다.&lt;br&gt;&lt;br&gt;4자 경선 결과가 발표된 날, 사무실 개소식을 가진 최 전 부교육감은 “중도·보수의 승리를 위해 완전한 단일화를 요청한다“는 입장문을 냈다. &lt;br&gt;&lt;br&gt;그 이틀 뒤인 이날 차 전 총장의 사퇴로 3파전으로 급변했다. 차 전 총장의 사퇴로 진보 진영 1명 대 보수 진영 2명간 대결 구도가 된 셈이다. &lt;br&gt;&lt;br&gt;최 전 부교육감과 정 전 부위원장 캠프에선 차 전 총장의 사퇴가 지난 9일 보수진영의 4자 경선 단일화에 영향을 받은 것으로 분석하고 있다. &lt;br&gt;&lt;br&gt;때문에 보수 진영에선 정 전 부위원장과 최 전 부교육감이 재선거 후보 등록 전 단일화할 것인지 여부에 주목하고 있다. &lt;br&gt;&lt;br&gt;부산시교육감 재선거 후보자 등록은 오는 13~14일 진행될 예정이다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>尹 구속 취소 ‘시간 계산법’에…대검 “대법 결정 전까지는 ‘날’로 산정”</title>
@@ -872,15 +907,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GKPCPTPDBUJVTN6OXRFEQ4CAIQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 1월 18~19일 서울 서부지방법원 난입 사태 당시 카메라에 포착된 '녹색 점퍼남' A씨의 모습. /뉴시스 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 1월 19일 발생한 서울 서부지방법원 난입 사태와 관련해 이른바 ‘녹색 점퍼남’으로 알려진 20대 남성 A씨는 당시 법원 후문을 강제 개방한 후 1층 당직실 창문을 부수고 청사 7층까지 진입한 것으로 나타났다.&lt;br&gt;&lt;br&gt;본지가 11일 국회를 통해 입수한 공소장을 보면 특수건조물침입, 특수공용물건손상 등 혐의를 받는 A씨는 법원 후문을 통해 경내에 들어간 뒤 1층 출입문에서 청사 진입을 막고 있던 경찰관을 향해 소화기를 분사한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;당초 알려진 대로 A씨는 후문에서 주운 경찰용 바리케이드 파편 막대기와 깃발 등으로 청사 1층 당직실 창문을 수차례 내리쳐 깨뜨린 후 내부로 진입, 7층까지 올라간 것으로 나타났다. 청사 7층은 윤 대통령에 대한 구속영장을 발부했던 차은경 부장판사의 집무실이 있던 곳이다. A씨는 청사 3층 내부 출입문에 설치된 출입 통제장치를 소화기로 내리쳐 부수려고 시도하기도 했다.&lt;br&gt;&lt;br&gt;A씨와 함께 특수건조물침입, 특수공용물건손상 등 혐의를 받는 B씨는 경찰 방패로 청사 1층 당직실 유리창을 부수고 건물 외벽 타일을 발로 걷어차 손상한 것으로 나타났다. 그는 당직실에 있던 CCTV 저장장치 보관함의 유리창을 걷어찬 뒤 네트워크 선을 잡아당겨 뽑고, 20리터 생수통에 담긴 물을 그 위에 쏟아붓기도 했다. 이어 생수통에 남은 물을 80만원 상당의 스크린도어 기계 위에 들이부어 망가뜨린 것으로도 확인됐다. B씨는 또 철제 안내판을 휘둘러 민사신청과 유리문을 부수려고 시도했으며 TV와 셋톱박스 등을 손상해 총 130만원 상당의 피해를 끼쳤다.&lt;br&gt;&lt;br&gt;검찰에 따르면 청사 7층에 진입해 차은경 판사를 찾는다며 법원 7층 복도를 배회하는 등 수색행위를 벌인 C씨도 있었다. C씨는 법원 출입문 셔터를 강제로 들어 올려 청사 내부로 들어간 뒤 곧장 7층으로 향했다. 그는 이 과정에서 쇠기둥으로 1층 출입문을 깨뜨려 50만원 상당의 재산 피해를 발생시켰다.&lt;br&gt;&lt;br&gt;이 밖에도 당시 법원 내부 진입을 막기 위해 근무 중인 경찰관을 발견, 청사 벽면으로 몰아세워 소지하던 은색 소화기로 때릴 것처럼 위협하던 이도 있었다. 그는 또 은색 소화기로 건물 외벽 타일을 23회가량 내리쳐 부쉈고, 청사 복도 유리 창문도 깨뜨린 것으로 나타났다.&lt;br&gt;&lt;br&gt;서부지법 난입 사태와 관련 공무집행방해·집회 및 시위에 관한 법률 위반 등 혐의로 기소된 서부지법 사태 가담자들 63명 중 23명에 대한 첫 공판이 지난 10일 열렸다. 나머지 24명은 오는 17일, 16명은 오는 19일 첫 재판을 받는다. 검찰은 이달 7일까지 총 78명을 기소했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>술안주로 즐겼는데 곰팡이가… “쿠팡 ‘곰곰 우육포’ 전량 회수·폐기” </title>
-      <link>https://www.chosun.com/national/national_general/2025/03/11/RZ4S5KHSQFBRXPDBPOLSNSCHPI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/03/11/RZ4S5KHSQFBRXPDBPOLSNSCHPI/</guid>
-      <dc:creator>문지연 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 11 Mar 2025 09:26:44 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SOPEOAUUMEE4EMMUBUSDAVIGJY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한국소비자원 마크. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;쿠팡 자회사가 판매한 자체 브랜드(PB) 제품 ‘곰곰 우육포’에서 곰팡이가 검출됐다.&lt;br&gt;&lt;br&gt;한국소비자원은 11일 시판 중인 육포 18개 제품의 안전성 등을 조사한 결과, 쿠팡 PB 전문 자회사 씨피엘비(CPLB)가 판매한 ‘곰곰 우육포’에서 곰팡이 오염 사실이 확인됐다고 밝혔다. 제조원은 홍선이며 소비기한은 오는 7월 29일인 제품이다.&lt;br&gt;&lt;br&gt;CPLB 측은 소비자원 권고에 따라 문제의 제품을 판매 중단하고 지난 1월 전량 회수해 폐기했다. 구매 고객에 대한 교환·환불 절차도 완료했다. 소비자로부터 접수된 위해 사례도 아직은 없다. CPLB 측은 제조사와 포장 재질 강화 등 개선 조치를 검토 중이라고 전했다.&lt;br&gt;&lt;br&gt;육포는 보통 술안주나 캠핑용 야외 간식으로 인기가 높다. 다만 수분이 남아 있는 반건조 식품인 만큼 유통·보관에 주의를 기울이지 않으면 쉽게 변질될 수 있다. 실제로 2021년 1월부터 작년 6월까지 소비자 위해감시시스템(CISS)에 접수된 위해 사례는 38건이다. 그중 섭취 후 복통·두드러기 등 이상 증상(19건)과 곰팡이 오염(12건) 등이 대부분이었다.&lt;br&gt;&lt;br&gt;이번 조사에서는 제품별 나트륨과 당류 함량이 큰 차이를 보인다는 사실도 드러났다. 육포의 나트륨 함량 범위는 117~248㎎으로 1일 영양성분 기준치(2000㎎)의 6~12% 수준이었다. 당류 함량은 최저 0.5g, 최대 5.6g으로 1일 영양성분 기준치(100g)의 1~6%로 나타났다.&lt;br&gt;&lt;br&gt;제품 간 가격 차도 1회 섭취 참고량(15g) 기준 416원에서 4740원까지 최대 11.4배나 됐다. 이외에 9개 제품에 변질 주의문구 등 정보가 부족해 개선이 필요하다는 지적도 나왔다. 소비자원은 “육포를 구매할 땐 나트륨·당류 함량과 가격 등을 종합적으로 고려할 필요가 있다”고 했다. 더 자세한 시험·분석 결과는 소비자24 홈페이지에서 확인할 수 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[단독] 텔레그램 협조로 마약 ‘판도라 상자’ 열리나...檢, 수사 착수</title>
       <link>https://www.chosun.com/national/court_law/2025/03/11/KSYLJJZLZJAD5PTGAJRLRGTOCQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/03/11/KSYLJJZLZJAD5PTGAJRLRGTOCQ/</guid>
@@ -888,24 +914,6 @@
       <description/>
       <pubDate>Tue, 11 Mar 2025 09:00:53 +0000</pubDate>
       <content:encoded>대검찰청이 일선에 “텔레그램으로부터 업무 협조를 받을 수 있으니 마약 범죄 수사 등에 이를 적극 활용하라”는 취지의 지시를 내린 것으로 11일 전해졌다. &lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 검찰은 최근 텔레그램과 범죄자 정보를 공유받을 수 있는 핫라인을 구축했다. 텔레그램은 지난해 중순부터 각국 정부의 정당한 요청이 있으면 사용자의 IP 주소와 전화번호를 제공하고 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6G7VHVIILI7FXJ3OGSZCYX525Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대검찰청 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰은 텔레그램의 협조로 그간 검거되지 않았던 마약사범에 대한 수사 기회가 열린 것으로 파악하고 있다. 검찰은 캐비닛에 잠들어 있던 사건 기록을 다시 확인하고, 그간 모니터링 해왔지만 신원 특정이 어려웠던 마약 조직에 대해서도 본격적으로 수사에 나서고 있다. &lt;br&gt;&lt;br&gt;텔레그램을 이용한 마약 거래는 대부분 비대면 방식인 이른바 ‘던지기’ 수법으로 이뤄진다. 이 때문에 거래 장소 일대 CCTV 영상이 남아있지 않다면 구매자를 검거하더라도 판매책을 붙잡기 어려웠다. 또 마약을 밀수하고 유통하는 일당도 서로 신원을 모르는 점조직 형태로 움직여 일부가 검거되더라도 나머지의 신원을 파악하지 못하는 경우가 있었다. 그러나 앞으로는 이들의 텔레그램 활동 내역이 남아있는 경우, 텔레그램 측 협조로 IP와 전화번호 등을 파악할 수 있게 된 것이다. 한 마약 담당 검사는 “그간 접근이 어려웠던 마약 범죄의 보고가 열린 셈”이라고 했다.&lt;br&gt;&lt;br&gt;이에 검찰은 그간 축적해왔던 모니터링 정보를 바탕으로 텔레그램에서 활동하는 마약 조직들에 대해 본격 수사를 전개하고 있다. 또 기존에 수사했던 마약 사건에서 검거되지 않은 마약사범의 흔적이 텔레그램에 남아있는지 여부를 파악 중인 것으로 전해졌다. 마약 외에도 딥페이크 제작·유통 등 성범죄, 보이스피싱 같은 금융사기에서도 텔레그램 측 협조를 받을 수 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/42SN4ASXBNHVTEN4MXNUDZSAPI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;적발된 마약 유통 조직이 던지기 수법을 통해 마약을 숨겨둔 뒤 구매자들에게 보낸 텔레그램 메시지. 기사와 직접 관련 없음. /동대문경찰서&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;다만 올해 국회가 검찰 특수활동비와 특정업무경비를 전액 삭감해 일선 검찰청들은 마약 수사에서 차질을 빚고 있는 것으로 전해졌다. 마약 범죄는 은밀하게 거래가 이뤄지기 때문에 장기간의 첩보 수집, 잠복 수사, 위장 거래, 정보원 관리 등 수사에 특활비나 특경비가 쓰인다.&lt;br&gt;&lt;br&gt;서울중앙지검 마약범죄 특별수사팀이 작년 11월 기소한 ‘프로포폴 병원 사건’의 경우, 다른 병원을 수사하다가 얻게 된 첩보를 바탕으로 수개월 간 CCTV를 분석해 병원을 특정했고, 이후 수사관들이 1주일간 병원 앞에서 잠복하며 프로포폴 투약자들을 하나하나 직접 눈으로 확인한 뒤 현장을 덮쳤다. 이처럼 장기간 잠복할 때는 하루 1만~2만원의 출장비가 부족해 특활비가 지급됐는데 이 돈이 끊긴 것이다.&lt;br&gt;&lt;br&gt;한 검찰 간부는 “텔레그램의 업무 협조로 마약 수사 기회가 열렸는데 정작 특활비·특경비 전액 삭감으로 일선에선 수사에 착수하기 더 어렵게 됐다”고 했다.&lt;br&gt;&lt;br&gt;한편 텔레그램은 당초 각국 수사기관에 일절 협조하지 않았지만, 지난해 8월 파벨 두로프 최고경영자가 프랑스에서 체포된 이후부터 범죄 수사에 협조하는 것으로 입장을 바꿨다.&lt;br&gt;&lt;br&gt;경찰도 텔레그램의 협조로 사이버 성 착취 집단 ‘자경단’ 총책 김녹완을 지난 1월 검거했다. 김녹완은 스스로를 ‘목사’라고 부르며 5년 동안 미성년자를 포함한 남녀 234명을 성착취한 혐의를 받는다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>구속 기간 ‘시간 계산법’에... 명태균·법원 난입범들도 “취소 신청”</title>
-      <link>https://www.chosun.com/national/national_general/2025/03/11/OTLOGFLSF5FXROKVCX67CP7ATQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/03/11/OTLOGFLSF5FXROKVCX67CP7ATQ/</guid>
-      <dc:creator>구아모 기자, 양인성 기자, 김도균 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 11 Mar 2025 08:46:35 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BAM6ZE7X2WAD6N5HAVUV4J62GA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원의 구속취소 청구 인용으로 석방된 윤석열 대통령./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 대통령에 대한 법원의 구속 취소 결정이 나오면서 정치 브로커 명태균과 서울서부지법 난동 사건 피고인들이 추가로 구속 취소 신청을 할 방침이다. 일반 재소자들 사이에서도 “윤 대통령 석방 때 판례에 따라 구속 취소 청구를 하자”는 기류가 확산되는 것으로 11일 나타났다.&lt;br&gt;&lt;br&gt;구속 피고인 및 재소자들 사이에서 이런 기대감이 퍼진 것은 윤 대통령 사례에서 ‘시간’을 기준으로 구속 기간을 계산하는 계산법을 적용해서다. 법원은 윤 대통령 구속 취소를 결정하면서 형사 사건 실무상에 ‘날’을 기준으로 계산했던 구속 기간을 ‘시간’으로 따지는 계산법을 내놓았다.&lt;br&gt;&lt;br&gt;서울서부지법 난동 사건 피고인들은 윤 대통령의 구속취소 판결이 나온 직후부터 구속취소 청구 방침을 세우고 법리 검토에 나섰다. 서부지법 난동 피고인들의 변호인단은 이미 서부지법 재판부에 대한 기피 신청을 잇달아 제기하고 있는 상황에서, 이번 구속취소 판결을 계기로 추가적인 구속취소 청구를 이어갈 계획이라고 밝혔다. &lt;br&gt;&lt;br&gt;구속 수감 중인 명태균 씨도 윤 대통령 석방 이후 구속 취소를 위한 서류를 만들어 이번 주 중 법원에 구속 취소를 할 방침이라고 밝혔다. 명씨 측 변호인은 “이번 주 중 구속 취소 신청을 할 방침”이라고 했다.&lt;br&gt;&lt;br&gt;난동 피고인 변호를 맡은 한 변호사는 “윤 대통령에 대한 구속 취소가 시간 기준으로 이루어진 만큼, 기존 날짜 기준이 아닌 시간 기준으로 판단받아야 한다는 논리가 가능해졌다”고 했다. 이들은 고위공직자범죄수사처의 수사권에 대해서도 법원이 의문한 점을 근거로 들기도 했다. 이와 관련 지난 10일 진행된 첫 재판에서 한 변호인은 “공수처에 수사권이 없는 만큼 공무집행방해 혐의는 성립되지 않는다”고 주장했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/74F4T26B3BCCROVEQT7VSZNK6U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;'옥바라지 카페'에 올라온 게시글 캡쳐.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이 같은 흐름은 일반 재소자들에게까지 빠르게 번지고 있다. 교도소 수감자들의 가족과 지인들이 정보를 공유하는 네이버의 ‘옥바라지 카페’에는 지난 9일 ‘윤통 석방으로 구속 영장에 대한 의견’이라는 제목의 글이 올라왔다. 해당 글에서는 “새로운 판례가 생겨 체포와 영장 발부 시간에 따라 구속 취소 소송을 할 수 있게 됐다”며 “소중한 가족이 여러분 곁으로 돌아가길 바란다”고 적혔다. 다른 게시글과 댓글에서도 “이제 시간으로 따져보자”, “변호사 선임해서 시간 기준 구속 취소 신청한다”는 반응이 줄을 잇고 있다. &lt;br&gt;&lt;br&gt;이런 분위기에 수사기관은 당혹감을 감추지 못하고 있다. 사정기관 관계자는 “지금까지는 날짜 기준으로 구속 기간을 계산했기 때문에 구속 만료일이 명확했지만, 이제는 시간 단위까지 따져야 하니 수사기관도 타이머라도 둬야 할 판”이라며 “시간 기준이 자리 잡으면, 조금이라도 계산이 틀리면 곧바로 구속 취소 신청이 들어올 수 있어 실무에 큰 혼란이 예상된다”고 했다.&lt;br&gt;&lt;br&gt;일각에서는 구속 취소 신청이 급증할 것이라는 우려도 나온다. 대법원에 따르면 2015년부터 지난해까지 전국 지방법원에 접수된 구속 취소 청구 사건은 총 1만1733건에 이른다. 이 가운데 8040건이 인용돼 68.52%의 인용률을 보였다.&lt;br&gt;&lt;br&gt;전문가들은 무분별한 구속 취소 청구가 이뤄질 경우 법적 안정성을 해칠 수도 있다고 지적했다. 최호진 단국대 법학과 교수는 “지금까지 관례적으로 날짜 기준으로 구속 기간을 계산해 왔지만, 윤 대통령 사례 이후 사법부 실무자들은 시간 기준을 요구하는 청구에 대응해야 하는 상황이 됐다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[단독] ’52시간 예외' 막힌 반도체... 특별연장근로 6개월로 확대</title>
-      <link>https://www.chosun.com/national/labor/2025/03/11/P2ARBAYLO5FTJFZFLAUDR6UJRA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/labor/2025/03/11/P2ARBAYLO5FTJFZFLAUDR6UJRA/</guid>
-      <dc:creator>곽래건 기자, 최인준 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 11 Mar 2025 08:30:16 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CAHGAJ3DJTT2II6GFNMBGWIK2M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;삼성전자 화성캠퍼스에 위치한 반도체 생산 공장 모습./조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;반도체 연구직에 대해 주 52시간 근무 예외를 적용하는 ‘반도체 특별법’이 국회 통과에 난항을 겪자, 정부가 특별 연장 근로 기간을 1회당 현재 3개월에서 6개월로 늘리기로 했다. 대신 이 경우 근로자 건강권 보호를 위해 6개월마다 건강검진을 의무화한다. &lt;br&gt;&lt;br&gt;정부는 11일 이 같은 방침을 사실상 확정하고, 이르면 12일 경제관계장관 회의 검토를 거쳐 발표할 계획인 것으로 알려졌다.&lt;br&gt;&lt;br&gt;특별 연장 근로는 주 52시간의 예외를 적용받아 주당 64시간까지 근무할 수 있는 제도다. 국민의힘 발의안대로 반도체 특별법에 주 52시간 적용 예외가 포함돼야 한다는 것이 정부 기본 입장이지만, 민주당과 노동계 등 반대로 입법이 지연되자 ‘이것이라도 해야 한다’며 대책을 내놓은 것이다. 법을 바꾸지 않고도 정부 차원에서 풀 수 있는 규제는 최대한 풀어주겠다는 취지다.&lt;br&gt;&lt;br&gt;특별 연장 근로는 노동자 개별 동의를 받은 뒤 고용부 장관 인가를 받으면 된다. 현재는 재해·재난이나 생명 보호, 기계 고장 등 돌발 상황, 업무량 급증, 반도체를 포함한 소재·부품·장비 등 R&amp;amp;D 5가지 경우에 한해 신청할 수 있다. 1회당 인가 기간은 최대 3개월이고, 총 3번 연장해 최대 12개월까지 쓸 수 있다.&lt;br&gt;&lt;br&gt;특별 연장 근로 제도 자체는 근로기준법에, 허용 사유는 시행규칙에 규정돼 있고 얼마나 허용해줄지 등은 고용부 지침으로 정하기 때문에 법령 개정 없이 확대 적용이 가능하다. 김문수 고용노동부 장관은 이날 “이 부분은 행정 조치여서 오래 걸리지 않는다. (확대 적용에) 한 달도 안 걸릴 수 있다”고 했다.&lt;br&gt;&lt;br&gt;정부는 신청 절차를 간소화하는 방안 등도 검토 중이다. 다만 근로자 개별 동의를 받게 돼 있는 현재의 규정은 그대로 유지할 방침인 것으로 전해졌다.&lt;br&gt;&lt;br&gt;정부의 대책 검토는 반도체 산업 위기를 더 이상 방치해서는 안 된다는 절박함에서 나왔다. 안덕근 산업통상자원부 장관은 이날 “미국·일본·대만은 국운을 걸고 반도체 생태계를 육성 중이고, 중국은 우리 주력인 메모리를 턱밑까지 쫓아왔다”며 “우리 반도체 업계만 근로 시간 규제에 발목이 잡혀 있다”고 했다.&lt;br&gt;&lt;br&gt;반도체 업계에선 “그나마 숨통이 트일 수 있을 것”이라는 반응이 나왔다. 기업들이 특별 연장 근로 기간이라도 늘려달라는 안을 ‘플랜B’로 정치권에 요구했는데 받아들여졌다는 것이다. 한 반도체 기업 고위 관계자는 “프로젝트를 할 때 개발 인력을 더 유연하게 투입하고 운용할 수 있을 것”이라며 “핵심 인력들이 시간 제약을 덜 받고 집중적으로 일하는 분위기도 형성될 것”이라고 말했다.&lt;br&gt;&lt;br&gt;그러나 임시 방편일 뿐 반도체 업계의 근본적 문제를 해소하기 어렵다는 평가도 적지 않다. 인공지능(AI) 칩 성능을 좌우하는 초미세 공정 기술과 반도체 신소재·장비 개발을 위해선 6개월 이상 걸리는 경우도 많다. 안기현 반도체산업협회 전무는 “속도가 생명인 반도체 분야에서 근무 시간 제약 자체를 두지 않는 더 과감한 규제 완화가 필요하다”며 “‘반도체 52시간 예외’ 적용안을 계속 건의할 것”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>이재명 ‘위증교사’ 2심 106일 만에 시작…다음 재판은 4월 1일</title>
