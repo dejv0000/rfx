@@ -13,6 +13,60 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>‘불법대출 의혹’ 檢 압수수색 받은 은행직원, 숨진 채 발견</title>
+      <link>https://www.chosun.com/national/incident/2025/03/12/3UITOOIVKRC33LF32GD4OV7WRQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/03/12/3UITOOIVKRC33LF32GD4OV7WRQ/</guid>
+      <dc:creator>인천=이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 12 Mar 2025 05:13:58 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GUS73YJGANAWZKG3WTIQSSVBXQ.webp"&gt;&lt;figcaption&gt;&lt;small&gt;검찰 로고. /조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;수십억원대 불법 대출 의혹으로 검찰의 수사선상에 올랐던 은행 직원이 최근 숨진 채 발견됐다. &lt;br&gt;&lt;br&gt;12일 경찰 등에 따르면 지난 4일 오전 인천시 서구의 한 주차장 차량 안에서 모 시중은행 직원인 50대 남성 A씨가 숨진 채 발견됐다. &lt;br&gt;&lt;br&gt;경찰은 A씨의 사망과 관련해 타살 흔적 등 범죄 관련성은 없는 것으로 보고, 구체적인 사망 경위를 조사하고 있다. &lt;br&gt;&lt;br&gt;A씨는 수십억원대 불법 대출 의혹으로 검찰의 수사를 받고 있었던 것으로 알려졌다.&lt;br&gt;&lt;br&gt;서울중앙지검 반부패수사1부(부장 이준동)는 지난달 A씨가 소속된 은행과 모 부동산 개발업체 등에 대한 압수수색을 했다. 검찰은 이 부동산 개발업체가 해당 은행으로부터 30억~40억원대 불법 대출을 받은 것으로 의심하고 있다. &lt;br&gt;&lt;br&gt;A씨도 검찰 수사 선상에 올라 최근 압수수색을 받은 것으로 전해졌다.&lt;br&gt;&lt;br&gt;불법 대출 의혹을 받는 이 은행은 지난 2023년 국회 국정감사에서 해당 개발업체 측에 신용보증기금의 보증이 나오기도 전에 100억원을 대출해줬다는 의혹이 제기되기도 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“하의 안 입은 아이가 버스에”...퇴근길 경찰이 챙긴 아이, 알고 보니  </title>
+      <link>https://www.chosun.com/national/national_general/2025/03/12/JRR6HTIGBNGTFDQIBKMQLGTV4U/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/03/12/JRR6HTIGBNGTFDQIBKMQLGTV4U/</guid>
+      <dc:creator>정아임 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 12 Mar 2025 05:10:54 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BUFHN4D66FHDNLSN2X5F4UQLME.png"&gt;&lt;figcaption&gt;&lt;small&gt;버스에서 하차한 아이가 갑자기 도로에 뛰어든 모습./유튜브 '경찰청'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;실종 상태였던 자폐 아이가 퇴근하던 경찰관의 도움으로 무사히 보호자 품으로 돌아갔다. &lt;br&gt;&lt;br&gt;지난 11일 대한민국 경찰청 유튜브 채널에는 ‘도로에 뛰어든 어린이, 뒤따라가던 사람의 정체는’이라는 제목의 영상이 올라왔다.&lt;br&gt;&lt;br&gt;영상에 따르면 지난 2일 오후 8시쯤 순경 A씨가 강서구 버스정류장에서 퇴근길 버스에 올라탔다. A씨는 앞서 탑승한 아이가 비가 내리는 추운 날씨에 하의를 입지 않고 홀로 버스에 탄 것을 발견했다. &lt;br&gt;&lt;br&gt;A씨는 아이가 길을 잃은 건 아닌지 걱정돼 조심스럽게 대화를 시도했지만, 아이는 대답 없이 창문만 바라봤다. &lt;br&gt;&lt;br&gt;아이가 하차 벨을 누르고 내릴 준비를 하자 A씨는 자신의 우산을 건넸다. 우산을 받아 들고 버스에서 하차한 아이는 갑자기 도로에 뛰어들었다. 자칫 큰 사고로 이어질 수 있는 위험한 상황을 목격한 A씨는 버스 기사에게 양해를 구하고 하차한 뒤 아이가 놀라지 않도록 다가가 구조했다. &lt;br&gt;&lt;br&gt;이후 아이를 편의점으로 데리고 가 경찰에 신고하고, 아이 목걸이에 적혀 있는 번호로 전화했다. 다행히 보호자와 연락이 되자 A씨는 아이가 있는 위치를 알렸다.&lt;br&gt;&lt;br&gt;알고 보니 약 2시간 전 경찰에 “자폐를 앓고 있는 아이가 사라졌다”는 실종신고가 접수된 상태였다. 소식을 듣고 한달음에 달려온 보호자는 아이를 보고 안도했고, 아이는 경찰을 껴안으며 고마운 마음을 표현했다.&lt;br&gt;&lt;br&gt;이를 본 네티즌들은 “아이 챙기는 모습이 감동적이다” “부모님을 찾아주신 경찰관님들에게 감사드린다” “아이 안전에 최선을 다하는 모습이 멋있다” 등 반응을 보였다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[단독] 경찰병원 서버 오전 중 1시간 30분 넘게 다운...“원인 파악 중”</title>
+      <link>https://www.chosun.com/national/national_general/2025/03/12/LH7WAKO5GVAQRDX5PKXBSOS5GY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/03/12/LH7WAKO5GVAQRDX5PKXBSOS5GY/</guid>
+      <dc:creator>김병권 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 12 Mar 2025 05:08:11 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NKWXMF5LR7XMHFDWPF4IKQD4LY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;12일 오전 서울 송파구 국립경찰병원의 서버가 1시간 30분 넘게 다운돼 환자들과 병원 관계자들이 불편을 겪었다. 현재는 모두 복구가 완료된 상황이다.&lt;br&gt;&lt;br&gt;경찰병원 관계자에 따르면, 이날 오전 9시 48분쯤부터 오전 11시 20분쯤까지 경찰병원 서버가 다운되는 사태가 발생했다. 이로 인해 환자 대기 시스템, 내부망, 경찰병원 홈페이지 등에 접속이 불가능했다. 서버 다운으로 인한 인명 피해는 없었다고 한다.&lt;br&gt;&lt;br&gt;병원 측은 “해킹으로 인한 서버 다운은 아니다”라면서도 “현재 정확한 원인을 파악 중”이라고 밝혔다. &lt;br&gt;&lt;br&gt;국립경찰병원은 경찰 공무원과 그 가족의 진료를 담당하기 위해 광복 후인 지난 1949년 개원했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>시신 싣고 이틀간 유기장소 물색… 30대 노래방 종업원 구속 기소</title>
+      <link>https://www.chosun.com/national/incident/2025/03/12/4LD6SZ6XKZHJXF72HSB34K2DEQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/03/12/4LD6SZ6XKZHJXF72HSB34K2DEQ/</guid>
+      <dc:creator>인천=이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 12 Mar 2025 04:28:36 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NHP6FFAZVV2SRPMCGVT3RXFJGM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;검찰 로고./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난달 경기 부천의 한 노래방에서 50대 여성을 살해한 30대 남성이 범행 후 이틀간 피해자 시신을 차량에 싣고 다니며 유기 장소를 물색한 것으로 조사됐다. &lt;br&gt;&lt;br&gt;인천지검 부천지청 형사2부(부장 황성민)는 살인과 시체유기 등 혐의로 30대 노래방 종업원 A씨를 구속 기소했다고 12일 밝혔다. &lt;br&gt;&lt;br&gt;A씨는 지난달 13일 오전 7시쯤 경기 부천시의 한 노래방에서 50대 여성 B씨의 목을 졸라 살해한 혐의 등을 받고 있다. &lt;br&gt;&lt;br&gt;검찰 조사 결과, A씨는 범행 후 숨진 B씨를 자신의 차량 뒷좌석에 태우고, 부천과 인천 일대를 돌아다니다 이튿날인 14일 오후 6시 30분쯤 인천 서구 경서동의 한 야산에 B씨 시신을 유기한 것으로 파악됐다. &lt;br&gt;&lt;br&gt;A씨는 이 과정에서 B씨 신용카드로 120여 만원을 쓰고, 반지 2개, 팔찌 1개 등 귀금속도 훔친 것으로 조사됐다. &lt;br&gt;&lt;br&gt;A씨는 B씨와 서로 모르던 사이였던 것으로 확인됐다.&lt;br&gt;&lt;br&gt;A씨는 경찰 조사에서 “B씨와 함께 술을 마시고 말다툼하다가 화가 나 범행했다”고 진술한 것으로 알려졌다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[단독] 한남동 관저 집회서 ‘경찰 폭행’... 민노총 조합원 2명 검찰 송치</title>
+      <link>https://www.chosun.com/national/national_general/2025/03/12/RVJNLPUMSBF3XDWDGNCKHLWWNY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/03/12/RVJNLPUMSBF3XDWDGNCKHLWWNY/</guid>
+      <dc:creator>구동완 기자, 김도균 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 12 Mar 2025 04:00:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JVSD7JPFB5KEXMSDQWUFVO56ZE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;1월 4일 서울 용산구 한남동 대통령 관저 인근에서 집회를 벌이던 민노총 조합원들이 관저 방향으로 행진하려다 경찰에 가로막혀 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 용산구 한남동 대통령 관저 앞 집회에서 경찰을 폭행한 혐의로 체포된 민주노총 조합원 2명이 검찰에 넘겨졌다.&lt;br&gt;&lt;br&gt;서울 은평경찰서는 12일 민노총 조합원 2명을 집회 및 시위에 관한 법률(집시법) 위반과 특수공무집행방해 혐의로 불구속 송치했다고 밝혔다.&lt;br&gt;&lt;br&gt;경찰에 따르면 이들은 1월 4일 오후 4시쯤 용산구 한남동 한남대로에서 관저 방면으로 행진을 시도하다 이를 저지하는 경찰을 폭행한 혐의를 받는다. 당시 폭행으로 경찰관 1명이 머리 쪽을 부상해 출혈이 발생했다.&lt;br&gt;&lt;br&gt;이들은 현행범으로 체포된 후 은평경찰서로 연행되었다가 마포경찰서 유치장으로 옮겨졌고 하루 만인 5일 석방됐다.&lt;br&gt;&lt;br&gt;민노총은 1월 3일 윤석열 대통령에 대한 고위공직자범죄수사처의 1차 체포영장 집행 시도가 무산되자 1만여 명의 조합원을 동원해 이날부터 1박 2일간 노숙 집회를 벌였다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“진한 화장 후 잘 때도 안 지워”...덤프트럭 女기사의 가슴 아픈 사연</title>
+      <link>https://www.chosun.com/national/national_general/2025/03/07/DJ77STU3NFB4RCRDJLXMQYO7XU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/03/07/DJ77STU3NFB4RCRDJLXMQYO7XU/</guid>
+      <dc:creator>정아임 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 07 Mar 2025 07:39:14 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2A22YAK22BFLZAIEMWEPJKE54Y.png"&gt;&lt;figcaption&gt;&lt;small&gt;28년차 덤프트럭 기사 고영선씨./MBN 특종세상&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;28년째 덤프트럭을 운전하는 50대 여성이 진한 화장을 하고 지우지 않는 사연이 전해졌다. &lt;br&gt;&lt;br&gt;지난 6일 방송된 MBN ‘특종세상’에서는 28년 차 덤프트럭 기사 58세 고영선씨가 출연해 일상을 공개했다.&lt;br&gt;&lt;br&gt;스모키 화장을 한 채 등장한 고씨는 1년 365일 화장을 지우지 않는다고 했다. 그는 새벽 3시에 일어나 씻은 뒤 다시 화장을 하는 모습을 보여줬다. 고씨는 “제가 좀 강하게 보여야 할 일이 있기 때문에 남들보다 좀 강하게 하고 있다”라고 말했다.&lt;br&gt;&lt;br&gt;고씨는 2시간 넘게 스모키 화장하고 점프슈트에 통굽 롱부츠를 신고 나섰다. 고씨는 “통굽 부츠가 오히려 더 편하다. 낮은 신발 신고는 운전 못 하겠더라. 보기에는 굉장히 불편해 보여도 굉장히 편하다”라고 했다.&lt;br&gt;&lt;br&gt;25톤 덤프트럭 운전대를 잡은 이유에 대해 “처음에는 남편이 팔이 부러지는 바람에 어쩔 수 없이 먹고살아야 하니까 하게 됐다. 엄청 힘들었다. 눈물도 많이 흘렸다. 하지만 애가 있기 때문에 자식을 위해서 참아야 하지 않나. 내가 놀고 있을 수는 없었다”라고 털어놨다.&lt;br&gt;&lt;br&gt;자신의 화장과 복장에 대해서는 “(여자라고 무시해서) 아주 강하게 보이려고 스모키 화장하기 시작했다”고 설명했다. 퇴근 후에도 화장을 지우지 않는 그는 “이렇게 안 하고 있으면 기운이 없다”고 했다.&lt;br&gt;&lt;br&gt;남편은 아내의 화장에 대해 “자기 개성 아닌가. 하고 싶은 대로 하는 거다. 현장에 가면 사람들이 다 무섭게 보고 접근을 안 한다”며 “맨 얼굴 보기가 힘들다. 오래돼서 생각도 안 난다”라고 덧붙였다.&lt;br&gt;&lt;br&gt;이에 대해 고씨는 “아무래도 흉터 때문이다. 화상 입은 것처럼 피부가 많이 파였다. 어렸을 때 피부병이라고 하고, 피해 다녀서 너무 충격받아서 이렇게 살아야 하나 싶었다”고 고백했다.&lt;br&gt;&lt;br&gt;고씨는 다섯 살부터 아버지의 실수로 턱 한쪽 피부에 화상 흉터가 생겼다. 어린 시절은 상처의 연속이었고, 화장으로 흉터를 가릴 수 있게 되면서 거울을 다시 볼 수 있게 됐다고 했다.&lt;br&gt;&lt;br&gt;그러면서 “화장 안 할 때는 자신감이 완전히 다운된다. 너무 바깥에 나가고 싶은 마음도 없고 모든 게 (싫었다). 또 화장하고 나서는 사람이 180도로 바뀌어버린다. 뭐든지 할 수 있다가 된다”라고 덧붙였다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>내년 치매환자 100만명 돌파...시설 가면 환자 당 연3138만원</title>
       <link>https://www.chosun.com/national/welfare-medical/2025/03/12/EPQTEVQUB5AATHEGCS2YXZ6MV4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/03/12/EPQTEVQUB5AATHEGCS2YXZ6MV4/</guid>
@@ -715,36 +769,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/L4GEXC5HOZAC5NA5TDDI7RQ23U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;울산에서 1박 2일 현장 체험학습을 갔던 고등학생이 숨지는 사고가 발생했다.&lt;br&gt;&lt;br&gt;11일 울산시교육청과 울산경찰청에 따르면 전날 오후 2시 55분쯤 울주군 상북면 학생교육원 클라이밍장에서 울산 동구 한 고등학교 1학년 A군(16)이 암벽 타기를 하던 도중 의식을 잃고 쓰러졌다.&lt;br&gt;&lt;br&gt;A군은 암벽을 3m 가량 오른 후 “내려주세요”라고 말한 뒤 내려오는 과정에서 과호흡을 일으키며 의식을 잃고 쓰러진 것으로 알려졌다.&lt;br&gt;&lt;br&gt;A군은 현장에서 심폐소생술을 받은 뒤 이날 오후 3시 25분쯤 119 구급대에 의해 병원으로 옮겨졌으나 숨졌다. 이 학생은 평소 지병은 없었던 것으로 확인됐다.&lt;br&gt;&lt;br&gt;A군이 참여한 체험 활동은 울산학생교육원에서 학교의 신청을 받아 고1 학생을 대상으로 시행하는 행복어울림교육 프로그램 중 하나였다.&lt;br&gt;&lt;br&gt;울산시교육청은 체험 당시 안전요원, 인솔 교사 등 5명이 배치된 상태에서 정상적으로 체험 활동이 이뤄졌다고 밝혔다.&lt;br&gt;&lt;br&gt;울산시교육청 관계자는 “건강에 이상 있는 학생들은 참여를 하지 않았고, 하기 전에도 준비 체조를 시행했다”고 말했다. 이어 “실습 전 신체가 불편한지 여부도 다시 확인했다”며 “A군 역시 그때는 이상이 없었는데 참여 중에 과호흡이 온 것으로 파악된다”고 했다.&lt;br&gt;&lt;br&gt;관계자는 “정확한 사인은 현재 알 수가 없다”며 “경찰은 부검 소견을 냈는데 유족 측에서 부검을 원하지 않고 있는 상황”이라고 했다. &lt;br&gt;&lt;br&gt;학교 측은 남은 체험 활동 일정을 취소하고 사고 발생 직후 학생들을 학교로 복귀시켰다.&lt;br&gt;&lt;br&gt;울산시교육청은 사고 직후 교육국장을 단장으로 하는 비상대책단을 꾸렸다. 비상대책단은 교육청, 교육청 위탁 기관인 위(Wee)센터, 정신건강복지센터, 청소년상담복지센터 직원 등 21명으로 구성됐다.&lt;br&gt;&lt;br&gt;시교육청은 또 이날부터 2주간 안전 점검 실시를 위해 학생교육원에서 진행되는 모든 체험 학습 프로그램을 중단했다.&lt;br&gt;&lt;br&gt;경찰도 A군의 정확한 사망 원인과 사고 경위를 조사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>법원, 이재명 공직선거법 2심 다음 달 26일 선고</title>
-      <link>https://www.chosun.com/national/court_law/2025/02/26/JKSIX5IGGFGKDMHVQXRUS3MWRU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/02/26/JKSIX5IGGFGKDMHVQXRUS3MWRU/</guid>
-      <dc:creator>유희곤 기자, 박강현 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 26 Feb 2025 08:38:25 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3BGTP4HZQNE77EF3ZV73UTVVYI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이재명 더불어민주당 대표가 26일 서울 서초구 서울중앙지법에서 열린 공직선거법 위반 항소심 공판에 출석하고 있다. /장련성 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이재명 더불어민주당 대표의 공직선거법 위반 사건 항소심 선고가 오는 3월 26일 오후 2시에 열린다.&lt;br&gt;&lt;br&gt;26일 서울고법 형사 6-2부(재판장 최은정)는 이 대표 항소심 결심 공판을 열고 다음 달 26일을 선고 기일로 잡았다. 검찰은 1심과 같은 징역 2년을 구형했다. 이 대표는 “구형이 중요한 게 아니라 실체가 중요하다. 사법부가 현명하게 그리고 정의롭게 실체적 진실에 입각해서 잘 판단할 것으로 생각한다”고 말했다.&lt;br&gt;&lt;br&gt;◇檢 “대통령 당선을 위한 반복적 거짓말”&lt;br&gt;&lt;br&gt;이 대표는 지난 대선을 앞둔 2021년 12월 방송 4곳에서 대장동 개발 실무자인 고(故) 김문기 전 성남도시개발공사 처장을 성남시장 재임 기간에 알았으면서도 몰랐다고 하고, 2021년 10월 국정감사에 나와 “국토교통부 협박으로 백현동 개발 부지 용도를 4단계 상향 조정했다”고 거짓말한 혐의(공직선거법 위반)로 2022년 9월 불구속 기소됐다. &lt;br&gt;&lt;br&gt;작년 11월 15일 1심은 이 대표에게 징역 1년에 집행유예 2년을 선고했다. “2015년 호주 출장 중 김 전 처장과 골프를 치지 않았다”와 백현동 부지 용도 변경과 관련한 이 대표 발언은 유죄를 인정했지만, “김 전 처장을 성남시장 재직 시절에는 몰랐고 경기지사가 된 후 알았다”는 말은 무죄라고 봤다.&lt;br&gt;&lt;br&gt;이날 검찰은 이 대표에게 징역 2년을 선고해달라고 재판부에 요청하면서 이 대표가 김 전 처장을 모른다고 한 부분에 대해 “김 전 처장과의 골프는 외유성이라는 논란을 피하기 위해 사전에 은밀히 준비됐고, 시간은 유동규까지 전 성남도시개발공사 기획본부장까지 3명이 5시간이었다”고 반박했다. 이 대표가 이틀 후 김 전 처장과 낚시를 함께한 점도 강조하며 “소수 인원과 낚시한 기억은 특별했을 게 분명하다”고 했다.&lt;br&gt;&lt;br&gt;이 대표의 백현동 거짓말 의혹에 대해서는 “피고인은 해당 발언 후 3년 반이 지나서도 (국토부 협박을 받은) 성남시 공무원이 누구인지, 언제 협박이 있었는지 특정하지 못하고 있다”고 했다.&lt;br&gt;&lt;br&gt;이어 구체적인 양형 사유를 설명하면서 “피고인이 국민적 관심이 최고조에 달했던 20대 대선에서 성남시장 시절 책임을 회피하고 (대통령) 당선을 위해 반복적으로 거짓말을 한 매우 중대한 사안”이라고 했다. 이어 “1위 후보와의 표차가 0.7%포인트였다는 점을 고려하면 피고인의 거짓말은 많은 유권자의 선택에 영향을 미친 것이 명백하다”고 했다.&lt;br&gt;&lt;br&gt;그러면서 “선거의 공정성과 민주주의라는 헌법 가치를 지키기 위해서는 거짓말로 유권자의 선택을 왜곡한 사람에 대해 지위 고하를 막론하고 공정한 처벌이 반드시 필요하다”고 했다.&lt;br&gt;&lt;br&gt;검찰은 이 대표의 자서전을 인용해 그의 범죄 혐의의 중대성을 강조하기도 했다. 검찰은 “피고인은 자서전에서 ‘거짓말 역시 국민과 자신에게 언젠가 씻을 수 없는 상처를 남긴다’면서 ‘선거에 지는 한이 있더라도 최소한 국민을 상대로 거짓말하지 말자는 것이 나의 소신이었다’고 했다”고 했다. 그러면서 이 대표가 페이스북에 올린 “가짜뉴스를 생산·유포하는 행위는 민주주의의 적이자 청산해야 할 대표적 적폐”라는 글도 언급했다.&lt;br&gt;&lt;br&gt;◇이재명 “김문기 ‘몰랐다’는 ‘기억에 없다’ 뜻&lt;br&gt;&lt;br&gt;반면 이 대표는 이날 피고인 신문에서 김 전 처장을 몰랐다고 한 발언에 대해 “기억에 남아 있지 않다는 뜻이었다”며 혐의를 부인했다. 이 대표는 2021년 12월 방송에서 ‘호주 여행을 11일이나 갔는데 어떻게 김 전 처장을 모를 수 있냐’는 질문에 대한 답변은 “‘거짓말하려는 게 아니라 접촉은 했겠지만 ‘기억에 남아 있지 않다’ ‘인지를 못 했다’는 취지였다”고 말했다.&lt;br&gt;&lt;br&gt;의혹이 제기됐을 당시 국민의힘이 제시한 이 대표와 김 전 처장 등의 호주 여행 사진에 대해 “조작한 거죠”라고 말한 데 대해서는 ‘즉흥적으로 답변하는 과정에서 나온 것 아니냐’는 변호인 질문에 “네”라고 답했다.&lt;br&gt;&lt;br&gt;백현동 관련 허위 발언 혐의에 대해서는 변호인이 ‘당시 구체적인 사실관계를 기억하지 못해 관련 설명이 조금 부정확하게 이뤄지고 정확하지 못한 표현이 튀어나오지 않았냐’는 취지의 질문에 “의무가 있는 걸 안 하면 ‘그게 문제가 된다’(고 한) 기억이 있어서 법률적 표현을 쓴 것”이라고 말했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QFVMAERTOVOYDPJFYYKERXZDJY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;더불어민주당 이재명 대표가 26일 서울고등법원에서 열린 공직선거법 위반 혐의 사건 2심 결심 공판을 마친 뒤 법정을 나서며 발언하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;◇李 “검찰 과해...허위라고 생각하고 말한 바 없어” 28분간 토로&lt;br&gt;&lt;br&gt;이 대표는 이날 오후 7시 13분부터 시작한 최후 변론에서 약 28분간 손짓을 하고 때로는 방청석도 응시하며 격정적으로 혐의를 반박했다. 이 대표는 “시장이 하는 일이 설명하기 어려울 정도로 많다”며 “기억하지 못하고 관심 갖지 못한 건 아예 입력도 안 된다”고 김 전 처장에 대해 허위로 발언할 의도가 없었다는 취지로 반박했다.&lt;br&gt;&lt;br&gt;‘백현동’ 발언과 관련해선 “‘협박’이라고 제가 과하게 표현했다”면서도 “처음엔 점잖게 ‘압박’이라고 했다가 얘기하다보니 협박이라고 표현해 문제된 발언을 했다”고 했다. 이어 “이걸 정확하게 물적 증거 없이 표현한 건 잘못”이라며 “표현상 제 부족함이라는 걸 감안해주시길 요청한다”고 했다.&lt;br&gt;&lt;br&gt;이 대표는 ‘위증교사 사건’ ‘검사 사칭 사건’ ‘법인카드 사건’ 등 그동안 본인이 기소된 여러 사건들을 언급하며 “너무 답답해서 드린 말씀인데, 하여튼 너무 검찰이 과하다”며 “저는 허위라고 생각하고 말한 바가 없다”고 주장했다. 또 “정상적인 검찰권 행사라고 생각되지 않는다. 제가 말을 나름 조심하는데도 하지도 않은 말을 이렇게 해석된다고 하면 어떻게 정치인이 말하겠느냐”고 했다.&lt;br&gt;&lt;br&gt;그러면서 “어쨌든 잘못이 있을 수 있다. 근데 저는 나름대로 최선을 다했다는 부탁을 드리고 싶다”며 잠시 방청석 쪽을 바라보기도 했다.&lt;br&gt;&lt;br&gt;이 대표는 재판을 마친 뒤 기자들에게 “구형이 중요한 게 아니라 실체가 중요하다. 사법부가 현명하게 그리고 정의롭게 실체적 진실에 입각해서 잘 판단할 것으로 생각한다”고 했다. &lt;br&gt;&lt;br&gt;이 대표 변호인도 최후 변론에서 “이 사건 공소 사실은 통상적인 허위 사실 공표와는 다르다. 해석과 추론에 의해서 허위 사실 공표 대상의 외연을 최대한 확장해서 구성한 것”이라며 “정적 제거 연장선에 있다. 인간의 기억력 한계를 무시하고, 부정확한 부분을 찾아내 허위 사실 공표를 문제 삼아 징역형을 선고하는 게 맞는 것인지 다시 한번 고려해달라”고 했다.&lt;br&gt;&lt;br&gt;◇벌금 100만원 이상 확정 시 대선 출마 불가&lt;br&gt;&lt;br&gt;1심에 이어 항소심에서도 징역형을 선고받고 이후 대법원 판단을 거쳐 형이 확정되면 이 대표는 국회의원직을 잃고 다음 대선을 포함해 향후 10년간 선거에 출마할 수 없게 된다. 선거법 사건은 벌금 100만원 이상이 확정되면 선거에 나갈 수 없다. &lt;br&gt;&lt;br&gt;아울러 공직선거법상 선거사범 재판 1심은 기소 후 6개월 내, 2·3심은 전심 선고 후 3개월 내 선고해야 한다고 규정한다. 이 대표의 1심이 작년 11월 15일에 나온 점을 감안하면, 2심 선고는 원래 이달 15일까지 이뤄져야 했다. 하지만 이보다 약 한 달 뒤에 2심 결론이 나오게 됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/GHRUAAYKXFGH3IWKKKNTJKGIG4.jpg?width=1742&amp;height=980&amp;auth=332b2f2e0ad4dc11eb26a2a501ad3ce96974a74d2dd42da2b049eede95919e39&amp;smart=true" type="image/jpeg" height="980" width="1742">
-        <media:description type="plain">2025년 2월 26일 오후 서울 서초구 서울중앙지방법원에서 이재명 대표가 공판에 출석하기 위해 청사로 향하고 있다. / 장련성 기자</media:description>
-      </media:content>
-    </item>
-    <item>
-      <title>‘놀멍 쉬멍 걸었더니’…제주올레 경제가치가 무려 ‘3175억’</title>
-      <link>https://www.chosun.com/national/regional/2025/03/11/OYAOCPDRVBEHDCFFUBY7YWLASM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/03/11/OYAOCPDRVBEHDCFFUBY7YWLASM/</guid>
-      <dc:creator>제주=오재용 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 11 Mar 2025 04:08:48 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QBJS5MLWJZOBZBLNYDU4M2NEUE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난해 11월 제주시 한경면 저지녹색농촌체험장에서 '2024 제주올레걷기축제' 개막식이 진행되고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;놀멍 쉬멍(놀면서, 쉬면서의 제주어) 즐기는 걷기여행 열풍을 이끈 제주 올레길의 경제적 가치가 3000억원을 웃돈다는 연구 결과가 나왔다. &lt;br&gt;&lt;br&gt;11일 제주연구원이 발표한 ‘제주올레의 경제적 가치 평가에 관한 연구’ 결과를 보면 제주 올레길의 경제적 가치는 이용가치 2142억원과 비이용가치 1033억원 등 총 3175억원으로 평가됐다.&lt;br&gt;&lt;br&gt;이용가치는 제주올레 방문객이 체감하는 경제적 혜택을 화폐로 환산한 것이다. 설문조사 결과 방문객들은 하루에 1인당 평균 7225원을 지불할 의향이 있다고 답했는데, 방문을 통해 얻는 만족감과 편익을 반영한 금액이다.&lt;br&gt;&lt;br&gt;비이용가치는 방문 여부와 관계없이 제주올레의 자연환경과 경관을 보전해야 한다는 사회적 인식을 반영한 가치다. 응답자들은 제주올레 보전을 위해 하루에 1인당 평균 1만6260원을 지불할 의향이 있다고 답했다.&lt;br&gt;&lt;br&gt;방문객들은 휴식·회복(58.2%)과 경관(52.0%)을 이용가치의 핵심 요소로 꼽았고, 비이용가치 조사에서는 보전(56.6%)과 유산(38.8%) 가치를 중요하게 평가했다.&lt;br&gt;&lt;br&gt;이번 조사는 제주올레 방문 경험이 있는 전국 20∼69세 성인 500명을 대상으로 진행됐다. 응답자의 31.8%는 제주도민, 68.2%는 관광객이었다.&lt;br&gt;&lt;br&gt;이현지 제주연구원 부연구위원은 “제주올레 이용객들은 올레를 단순한 관광지가 아니라 자연과 교감할 수 있는 중요한 공간으로 인식하고 있다”며 “제주올레의 지속 가능한 운영과 지역경제 활성화를 위해서는 행정 기관과 도민, 사단법인 제주올레의 지속적인 협력이 필요하다”고 제언했다.&lt;br&gt;&lt;br&gt;제주도를 천천히 걸으며 몸과 마음을 치유할 수 있도록 조성된 도보 여행길인 제주올레는 모두 27개 코스에 총길이는 437㎞에 달한다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>고의사고로 3년간 보험금 1억원 챙긴 30대 남성 구속</title>
-      <link>https://www.chosun.com/national/regional/yeongnam/2025/03/11/XIP4WBCQFJDKJIYFYQQSDOAYSA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/yeongnam/2025/03/11/XIP4WBCQFJDKJIYFYQQSDOAYSA/</guid>
-      <dc:creator>박주영 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 11 Mar 2025 04:11:41 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/M2ZQKMUDNJHWBB2YHHMHBWXXUE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;보험사기를 통해 1억원이 넘는 보험금을 챙긴 30대 A씨가 지난 2022년 1월 부산 수영구 민락동 한 도로에서 차선을 바꾸는 앞 차량을 고의로 들이받고 있다./부산경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;차선을 바꾸는 차량을 일부러 들이받아 보험금 1억원 이상을 챙긴 30대가 경찰에 붙잡혔다. &lt;br&gt;&lt;br&gt;부산경찰청은 “보험사기방지 특별법 위반 혐의로 30대 남성 A씨를 검찰에 구속 송치하고 나머지 일당 9명을 같은 혐의로 불구속 송치했다”고 11일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 2022년 4월 11일 오후 6시50분쯤 부산 남구 문현동 한 음식점 앞 교차로에서 우회전해 직진하는 차량을 뒤에서 고의로 들이 받은 뒤 합의금 등 보험금 1340만원을 받아 챙기는 등 2021년 3월부터 2024년 5월까지 고의사고를 11차례 내고 보험금 1억1000만원을 챙긴 혐의를 받고 있다. &lt;br&gt;&lt;br&gt;A씨와 함께 붙잡힌 일당 9명은 A씨의 전처나 지인들로 사고 당시 차량 조수석 등에 앉아 범행에 공모하는 대가로 보험금 80만~200여만원을 챙긴 혐의다. A씨는 주로 벤츠·아우디·BMW 등 외제차를 이용해 범행을 저질렀다. &lt;br&gt;&lt;br&gt;경찰은 “보험금을 더 많이 타내기 위해 주로 중고 외제차를 구입, 범행에 사용했다”며 “챙긴 보험금 대부분은 인터넷 도박 등으로 탕진했다”고 말했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>오세훈 “트럼프와 협상, 줄 건 주고 핵 잠재력 갖는 ‘굿딜’하자”</title>
       <link>https://www.chosun.com/national/regional/seoul/2025/03/11/7JGCCMCDZVHCTONZU5MK2XI6UI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/seoul/2025/03/11/7JGCCMCDZVHCTONZU5MK2XI6UI/</guid>
@@ -752,16 +776,6 @@
       <description/>
       <pubDate>Tue, 11 Mar 2025 03:40:41 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZW5UBTKS5BPSNBI2R5H4MOILMQ.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;오세훈 서울시장이 11일 오전 서울 여의도 국회 의원회관에서 열린 국회무궁화포럼 제6회 토론회에서 국민의례를 하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;오세훈 서울시장은 11일 윤석열 대통령 탄핵심판 선고와 관련해 “지금 상태에서 헌법재판소 결정이 내려진다면 국민들로부터 졸속이라는 비판을 받을 것”이라고 말했다.&lt;br&gt;&lt;br&gt;오 시장은 이날 국회 의원회관에서 열린 ‘국회무궁화포럼 토론회’ 참석 이후 기자들과 만나 “헌재의 탄핵심판 과정에서 실체적, 절차적 흠결이 반복적으로 노출됐다”면서 이같이 밝혔다. 그러면서 오 시장은 “감정적으로 격양돼 있는 찬반 진영에서 (어떤 결정이 나오더라도) 어느 한쪽이 동의할 수 없는 상황”이라며 “시간적 여유를 가지고 완벽한 결론을 내기 위해 다시 한번 보완적으로 진행하면서 실체적, 절차적 흠결을 치유할 필요가 있다”고 말했다. 여론이 숙성되지 않은 상태에서 헌재 결정이 내려지면 국민들로부터 졸속 결정이라는 비판에 노출될 가능성이 높다는 것이다.&lt;br&gt;&lt;br&gt;윤 대통령이 석방 후 여권 인사들을 만나며 ‘관저 정치’에 나설 것이라는 관측에 대해서 오 시장은 “필요하면 사람들을 만날 수 있는 것”이라며 “더불어민주당이 그런 만남조차도 경원(敬遠)시하는 논평을 냈던데 너무 무리한 주장”이라고 했다. 다만 윤 대통령 예방 계획에 대해서는 “현재로서는 계획이 없다”고 했다.&lt;br&gt;&lt;br&gt;윤 대통령 석방 이후 당내 대선 주자급 인사들의 입지가 좁아지는 것 아니냐는 물음에 대해 오 시장은 “주자들도 마음의 준비는 하고 있어야 하고, 두 달 안에 치러질 수밖에 없는 대선에서 꼭 필요한 준비 정도를 하는 것”이라며 “도리에 맞지 않는다는 측면에서 손 놓고 있다가 만약 (인용) 결정이 나오면 그때는 매우 당혹스럽고 시간에 쫓기게 되지 않겠나”라고 했다. 이어 오 시장은 “(대비하지 않으면) 우리가 위험하고 불안한 후보라고 생각하는 이재명 민주당 대표가 당선될 확률이 더 높아지는 것”이라며 “그런 일은 공당(公黨)으로서 있어서는 안 되겠다고 해서 주자들이 준비해 왔던 걸로 알고 있다”고 했다.&lt;br&gt;&lt;br&gt;오 시장은 정치 브로커 명태균씨 관련한 의혹과 관련해선 “검찰에서 불러주면 언제든 (조사에) 응할 생각”이라며 “명씨와 일당이 얼마나 허무맹랑한 주장을 하는지 밝히는 것은 검찰 수사밖에 없다”고 했다.&lt;br&gt;&lt;br&gt;이날 무궁화포럼 토론회에서 오 시장은 동맹국에 방위비 증액을 압박 중인 도널드 트럼프 미국 행정부와의 대미외교 안보 협상 방향을 두고 “줄 건 주고, 받을 건 받는 ‘굿 딜’을 하자”고 제안했다. 그러면서 “한국도 핵 잠재력을 가져야 한다”며 “이젠 (미국에)줄 것은 주고 받을 건 받아야 한다. 핵의 평화적 이용권을 보장하는 NPT(핵확산금지조약) 내에서 정당한 권리를 당당히 요구해야 한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>커닝하다 걸린 한림대 의대생 6명… 기소유예로 처벌 피해</title>
-      <link>https://www.chosun.com/national/court_law/2025/03/11/IDE5O57ORZDX5AVTVMBFO2MVTM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/03/11/IDE5O57ORZDX5AVTVMBFO2MVTM/</guid>
-      <dc:creator>춘천=정성원 기자</dc:creator>
-      <description>시험 부정 행위를 한 의대생들이 기소유예 처분을 받았다.
-11일 춘천지검에 따르면 최근 업무방해 혐의를 받는 한림대학교 의대생 6명에 대해 기소유예 처분을 내렸다.</description>
-      <pubDate>Tue, 11 Mar 2025 03:28:57 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TWIRU76SMZCA5JLOP5COWMRDCA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;강원 춘천시 효자동에 준공된 춘천지법(오른쪽)과 춘천지검 청사 모습. /정성원 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;시험 부정 행위를 한 의대생들이 기소유예 처분을 받았다.&lt;br&gt;&lt;br&gt;11일 춘천지검에 따르면 최근 업무방해 혐의를 받는 한림대학교 의대생 6명에 대해 기소유예 처분을 내렸다. 기소유예는 범죄 혐의는 인정되지만 검사가 여러 사유를 고려해 공소 제기를 미루는 처분이다.&lt;br&gt;&lt;br&gt;이들은 지난 2023년 10월 기생충들의 학명을 쓰는 시험에서 커닝 페이퍼를 보고 시험지에 답을 옮겨 적어 한림대 업무를 방해한 혐의를 받는다. &lt;br&gt;&lt;br&gt;이들은 커닝 페이퍼의 답을 옮겨 적은 사실을 인정했지만, 성적에 반영되지 않는 시험이라며 혐의를 부인했다. 하지만 경찰은 해당 시험이 기생충학 수업 방법의 하나로 매년 실시되는 만큼 커닝은 대학의 업무를 방해한 행위라 판단했다.&lt;br&gt;&lt;br&gt;검찰 역시 이들의 혐의를 인정했지만 사안이 경미하다고 판단, 피의자들을 재판에 넘기지 않았다.&lt;br&gt;&lt;br&gt;한편 한림대 측은 부정행위 적발 이후 학생들에게 구두 경고 조치를 취했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>휘성, 콘서트 5일 앞두고… 中 귀국 하루만에 사망</title>
@@ -917,24 +931,6 @@
       <description/>
       <pubDate>Mon, 10 Mar 2025 15:54:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OAXBQXRMKBFBLFT5ZOFD2DDB2M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김세환 전 선관위 사무총장&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김세환 전 중앙선거관리위원회 사무총장(장관급)이 아들의 지역 선관위 채용 과정에서 면접위원을 자신과 친한 사람으로 교체하라고 지시한 것으로 10일 확인됐다. 이 면접위원은 다른 면접위원에게 지원자가 김 전 총장의 아들이라는 것을 알렸고, 아들은 최종 합격했다. 김 전 총장은 아들이 지역 선관위에 채용된 이후 상급 기관으로 옮길 때도 부하 직원에게 “아들을 챙겨봐 달라”고 지시했으며, 아들이 마음대로 임차 계약한 오피스텔을 선관위가 ‘관사’로 승인해 월세를 내도록 했다는 게 검찰 수사 결과다. 선관위의 ‘부자(父子) 세습' 비리의 민낯이 드러난 것이다.&lt;br&gt;&lt;br&gt;◇절친한 면접위원 교체해 아들 채용&lt;br&gt;&lt;br&gt;김 전 총장은 작년 12월 직권남용 및 국가공무원법 위반 혐의로 기소됐다. 법무부가 국민의힘 주진우 의원실에 제출한 김 전 총장 공소장에 따르면, 김 전 총장은 중앙선관위 사무차장이던 2019년 11월 인천시선관위가 공고를 하기 전에 경력 직원 채용을 진행한다는 것을 미리 알고 당시 인천시선관위 총무과장에게 전화해 “공고문, 계획서가 있으면 보내달라” “이번에 우리 아들이 응시하려고 하니 잘 부탁한다”고 말했다. 이렇게 해서 김 전 총장은 응시 원서와 자기소개서 양식 등을 미리 받았다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UITAKR7CCZDRNHPVJLRUWUZOUA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=양인성&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김 전 총장 아들이 지원서를 제출하자, 인천시선관위 관계자들은 지원자가 누구인지 파악했다고 한다. 인천시선관위는 공정성을 위해 외부에서 면접위원을 선임할지 논의했지만, 최종적으로 중앙선관위 의견에 따라 내부 사람들로 면접위원을 구성하기로 했다. 이후 김 전 총장은 인천시선관위 총무과장을 만나, 자신과 친한 인천시선관위 선거과장을 면접위원에 포함하라고 지시했다. “(선거과장한테) 나에게 전화하라고 해”라는 말도 했다.&lt;br&gt;&lt;br&gt;선거과장은 그해 12월 진행된 면접 과정에서 다른 위원들에게 “김씨에 강화 출신에 중앙선관위 직원이면 누구겠어”라며, 응시한 사람이 김 전 총장 아들이라는 사실을 알렸다. 김 전 총장 아들은 최종 합격해 2020년 1월부터 인천시선관위 산하인 강화군선관위에서 근무했다.&lt;br&gt;&lt;br&gt;◇채용 후에도 계속되는 ‘아빠 찬스’&lt;br&gt;&lt;br&gt;김 전 총장 아들의 선관위 채용 이후에도 ‘아빠 찬스’는 계속됐다. 김 전 총장은 2020년 11월 인천시선관위 총무과장에게 “아들이 외부 교육을 마치면 강화군선관위로 돌아가지 않고 바로 인천시선관위로 전입할 수 있게 챙겨봐 달라”고 했다. 앞서 인천시선관위는 그해 7월 강화군선관위에서 최소 3년간 일해야 상급 기관인 인천시선관위로 전입을 신청할 수 있다는 규정을 만들었다. 하지만 인천시선관위 총무과장은 부하 직원에게 전입 지원 자격을 ‘근속 3년’에서 종전의 ‘근속 1년’으로 낮추라고 지시했다. 2020년 1월부터 강화군선관위에서 일한 김 전 총장 아들이 전입을 지원할 수 있게 만든 것이다. 김 전 총장 아들은 그해 12월 지원자 네 명 중 2순위로 선발됐다.&lt;br&gt;&lt;br&gt;◇오피스텔 월세도 선관위가 지급&lt;br&gt;&lt;br&gt;김 전 총장은 아들의 전입 심사가 시작되기 전인 2020년 11월 말 인천시선관위 총무과장에게 “(아들이 입주할) 관사를 하나 받을 수 있게 해달라”고 지시한 것으로도 조사됐다. 강화군에서 인천 시내까지 출퇴근이 어렵다는 이유였다. 인천시선관위에 빈 관사가 없다는 보고를 받은 김 전 총장은 중앙선관위 시설과장에게 전화해 “인천시선관위에 관사를 배정할 수 있는 방법을 알아보라”고 지시하기도 했다. &lt;br&gt;&lt;br&gt;김 전 총장 아들은 중앙선관위가 관사 추가 배정을 결정하기 전인 그해 12월 25일 자신의 명의로 오피스텔 임차 계약부터 체결했다고 한다. 보증금 300만원에 월세 35만원 조건이었다. 계약서에는 ‘월세는 인천시선관위에서 지급한다’는 특약 조항도 넣었다. 사흘 뒤 김씨는 인천시선관위 총무과를 찾아가 계약서를 주고, ‘임차 관사’ 배정을 요구하기도 했다. 이후 중앙선관위 승인을 받은 인천시선관위는 12월 29일 임차인 명의를 인천시선관위로 바꾸고는 김씨의 계약을 인수했다. 이 오피스텔은 선순위 근저당 8400만원이 설정된 ‘위험 매물’이었다. 보증보험 가입이 어렵고 이후 보증금을 챙기지 못할 수도 있는 상황이었지만, 중앙선관위를 거쳐 관사로 사용하는 것이 승인된 것이다. &lt;br&gt;&lt;br&gt;주진우 의원은 “선관위 부정부패의 끝을 보여준 사례”라며 “철저한 수사를 통해 비리를 명명백백히 밝혀야 할 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>계엄 여파에도… 서울 관광 온 외국인 늘어나</title>
-      <link>https://www.chosun.com/national/national_general/2025/03/11/QOGWS6DPDNFMBDITJWH2GJCJ54/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/03/11/QOGWS6DPDNFMBDITJWH2GJCJ54/</guid>
-      <dc:creator>박진성 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 10 Mar 2025 15:54:00 +0000</pubDate>
-      <content:encoded>12·3 비상계엄 사태와 대통령 탄핵 정국에도 올 1월 서울을 찾은 외국인 관광객이 코로나19 이전보다 증가한 것으로 나타났다.&lt;br&gt;&lt;br&gt;10일 서울시에 따르면, 올 1월 서울을 찾은 외국인 관광객은 90만명으로 코로나19 이전인 2019년 1월(88만명)보다도 2% 많았다. &lt;br&gt;&lt;br&gt;비상계엄 직후인 작년 12월 서울을 방문한 외국인 관광객은 102만명으로 2019년 12월(116만명)보다 12% 적었는데 1월 들어 반등한 것이다.&lt;br&gt;&lt;br&gt;서울시 관계자는 “비상계엄 직후 불안감을 느낀 외국인 관광객이 서울을 찾지 않을 것이란 우려가 컸지만 한국 사회가 빠르게 안정을 찾으면서 타격이 거의 없었던 것”이라고 했다. &lt;br&gt;&lt;br&gt;서울시는 작년 12월 서울윈터페스타 등 준비했던 행사와 축제를 예정대로 치렀고, 오세훈 시장도 외신 간담회 등에서 “서울은 안전하고 다채로운 즐길 거리가 준비돼 있다”고 홍보했다. 원·달러 환율이 상승해 여행 경비 부담이 줄어든 점이 영향을 미쳤다는 분석도 있다. &lt;br&gt;&lt;br&gt;올 1월에는 글로벌 여행 사이트인 ‘트립어드바이저’가 서울을 ‘나 홀로 여행하기 좋은 도시’ 1위로 선정하기도 했다.&lt;br&gt;&lt;br&gt;정란수 한양대 관광학부 겸임교수는 “1월 관광객 상당수가 12·3 비상계엄 이전에 서울 여행을 계획한 사람들”이라며 “비상계엄의 영향을 확인하려면 2월 추이도 봐야 한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[오늘의 날씨] 2025년 3월 11일</title>
-      <link>https://www.chosun.com/national/national_general/2025/03/11/MME3GLKNTVBJ3CZOAMU5DWNRZ4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/03/11/MME3GLKNTVBJ3CZOAMU5DWNRZ4/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Mon, 10 Mar 2025 15:50:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TYW6P45NAZFSZFKNI5DZV2TQ6Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[신문은 선생님] [고전 이야기] 대지주가 된 농부는 왜 땅에 집착했나… 삶의 뿌리이자 자존감이었기 때문이죠</title>
