@@ -13,6 +13,102 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>‘MBC 대주주’ 방문진 새 이사 임명 집행정지, 대법서 확정</title>
+      <link>https://www.chosun.com/national/court_law/2025/03/13/VXBOBSZPYZCCFHD7EHZA6PKOCE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/03/13/VXBOBSZPYZCCFHD7EHZA6PKOCE/</guid>
+      <dc:creator>방극렬 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 13 Mar 2025 14:02:58 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/S7RHYII5MVENJBLHY4IYMBWOUY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이진숙 방송통신위원장이 작년 8월 14일 국회 과학기술정보방송통신위원회에서 열린 방통위의 불법적 방문진 이사 선임 등 방송 장악 관련 2차 청문회에서 답변하고 있다. 왼쪽은 김태규 방통위 부위원장. /이덕훈 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;방송통신위원회(방통위)가 MBC 대주주인 방송문화진흥회(방문진)의 새 이사 6명을 선임한 데 대한 집행정지 결정이 13일 대법원에서 확정됐다.&lt;br&gt;&lt;br&gt;대법원 2부(주심 박영재 대법관)는 이날 방문진 이사 임명 처분 집행정지 결정에 대한 방통위의 재항고를 심리불속행으로 기각했다. 상고 대상이 아니라고 보고 심리 없이 2심을 확정한 것이다.&lt;br&gt;&lt;br&gt;앞서 이진숙 방통위원장과 김태규 부위원장은 취임 첫날인 작년 7월 31일 김동률·손정미·윤길용·이우용·임무영·허익범 등 6명을 새 방문진 이사로 임명했다. 방송통신위원회법에 따르면, 방통위는 상임위원 5명으로 구성되고 2인 이상 위원의 요구가 있으면 회의를 열어 주요 결정을 내릴 수 있게 돼 있다.&lt;br&gt;&lt;br&gt;이에 권태선 방문진 이사장 등은 방통위를 상대로 “후임 이사 임명 처분을 막아달라”며 임명 무효 소송과 집행정지 신청을 냈다. 후임 이사 임명이 정지되거나 무효가 돼 공석이 되면, 권 이사장 등 기존 이사들은 임기가 끝나도 계속 직무를 수행할 수 있게 돼 있다.&lt;br&gt;&lt;br&gt;1심은 작년 8월 “방통위가 새 이사 임명에 관한 절차를 준수했는지 등이 충분히 소명됐다고 보기 어렵다”며 집행정지를 결정했다. 같은 해 11월 2심도 집행정지 결정을 유지했다. 대법원이 이날 집행정지를 확정하면서 권 이사장 등이 직무를 계속 수행하게 됐다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>병원 로비서 경비원에 흉기 휘둔 40대 女 체포</title>
+      <link>https://www.chosun.com/national/regional/gyeonggi-incheon/2025/03/13/FZ3X6REHWNBRXM4REMEDBW5KRE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/gyeonggi-incheon/2025/03/13/FZ3X6REHWNBRXM4REMEDBW5KRE/</guid>
+      <dc:creator>신정훈 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 13 Mar 2025 13:44:31 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/54FTUISTLZDHJELX6W5GW5V5XU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;병원 로비에서 흉기를 휘두른 40대 여성이 경찰에 붙잡혔다. &lt;br&gt;&lt;br&gt;13일 오후 8시 50분쯤 경기 수원시 아주대병원 내 한 건물의 1층 로비에서 40대 여성 A씨가 해당 병원의 경비원 B씨에게 흉기를 휘둘렀다.&lt;br&gt;&lt;br&gt; A씨가 휘두른 흉기에 다친 B씨는 병원에서 치료를 받고 있다. &lt;br&gt;&lt;br&gt;신고를 받고 출동한 경찰은 A씨를 현행범으로 체포했다. &lt;br&gt;&lt;br&gt;경찰은 A씨 등을 상대로 정확한 범행 동기 등을 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>오세훈 ‘다시 성장이다’ 이달 24일 저서 출간</title>
+      <link>https://www.chosun.com/national/regional/seoul/2025/03/13/LZBSGXIGTVHV3EPT4XRI7IDEOQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/seoul/2025/03/13/LZBSGXIGTVHV3EPT4XRI7IDEOQ/</guid>
+      <dc:creator>박진성 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 13 Mar 2025 13:08:18 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/U6YP6EPT4BBRDAG7K75BVHKNOM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;24일 출간을 앞둔 오세훈 서울시장의 저서 '다시 성장이다'/서울시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;여권의 차기 대권주자인 오세훈 서울시장이 집필한 저서 ‘다시 성장이다’가 오는 24일 출간된다. 14일부터 주요 서점에서 예약 판매를 시작한다.&lt;br&gt;&lt;br&gt;13일 서울시와 출판사 김영사에 따르면 저서에는 ‘오세훈의 5대 동행, 미래가 되다’란 부제 아래 성숙한 선진국을 향해 나아가야 할 철학과 비전이 담겼다.&lt;br&gt;&lt;br&gt;5대 동행은 ▲ 자유 없는 번영은 없다: 도전·성취와의 동행 ▲ 디딤돌소득이 잠재력을 꽃 피운다: 약자와의 동행 ▲ 국민연금 ‘폭탄 돌리기’는 그만: 미래세대와의 동행 ▲ 지방의 자율권이 곧 경쟁력이다: 지방과의 동행 ▲ 기회의 땅, 트럼프의 미국: 국제사회와의 동행이다.&lt;br&gt;&lt;br&gt;오 시장은 혼돈과 격변의 시대에 대한민국이 선택의 기로에 섰으며, 골든타임이 흘러가고 있다고 진단한다.&lt;br&gt;&lt;br&gt;이어 한계에 봉착한 기존의 국가 발전전략을 전면적으로 개조해야 한다면서 최근 자신이 내세운 ‘KOrea Growth Again(KOGA·다시 성장하는 대한민국)’ 구호의 구체적인 비전과 달성 방안을 제시한다.&lt;br&gt;&lt;br&gt;나아가 질적 도약을 통해 진정한 선진화를 완수한 성숙한 나라, 미국·중국과 어깨를 나란히 하는 ‘대한민국 4.0’을 설계해야 한다고 했다.&lt;br&gt;&lt;br&gt;오 시장은 번영의 핵심은 경쟁력이고, 자유롭지 않으면 경쟁이 일어날 수 없다면서 “원칙과 질서를 세우는 일은 정부가 주도하고 나머지는 개인과 조직의 자유와 자율에 맡기는 게 바람직하다”고 했다.&lt;br&gt;&lt;br&gt;또 보수일수록, 보수이기 때문에 약자를 품어야 한다면서 ‘디딤돌소득’의 의미와 성과를 소개한다.&lt;br&gt;&lt;br&gt;기본사회, 기본소득 등 무상복지 제도에 대해선 ‘미래세대 약탈’로 규정하고 비판적인 시각을 밝힌다.&lt;br&gt;&lt;br&gt;그러면서 세대 간 정의를 회복하기 위해서라도 미래세대가 참여하는 연금 개혁과 노동시장 유연화 등 노동 개혁이 필요하다고 말한다.&lt;br&gt;&lt;br&gt;오 시장은 대한민국 전체의 성장 동력 확보를 위해 전국을 수도권과 충청권, 호남권, 대구·경북권, 부산·울산·경남권 등 5개 초광역권으로 나눠 각각을 글로벌 강소국 수준으로 키울 것을 제안한다.&lt;br&gt;&lt;br&gt;아울러 미국은 물론이고 자유주의 국가들과 협력 수준을 높이는 동시에 급속도로 강화되는 북한의 핵무기와 첨단 미사일 능력에 대응해 우리도 당장 핵무기를 만들지는 않지만 만들어 배치할 수 있는 능력인 ‘핵 잠재력’을 강화해야 한다고 주장한다.&lt;br&gt;&lt;br&gt;책에는 오 시장과 진중권 광운대 교수의 ‘끝장토론’ 내용도 담겼다.&lt;br&gt;&lt;br&gt;보수와 진보, 가진 자와 못 가진 자, 기성세대와 청년세대 간 갈등부터 낮은 출산율과 높은 고령화율, 트럼프발 관세 태풍과 북핵 위기에 이르기까지 현재 한국이 처한 현실을 진단하는 동시에 그 원인을 분석하고 해결책을 제시할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>김용현 前국방, 구속 취소 다시 청구</title>
+      <link>https://www.chosun.com/national/court_law/2025/03/13/GRB6M2XU6REBHIT5FVTMN7DPPI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/03/13/GRB6M2XU6REBHIT5FVTMN7DPPI/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 13 Mar 2025 13:19:59 +0000</pubDate>
+      <content:encoded>‘12‧3 비상계엄’을 주도한 혐의로 구속 기소된 김용현 전 국방 장관이 13일 구속 취소를 청구했다. 법원은 지난달 김 전 장관의 구속 취소 청구를 기각했는데, 다시 한 번 구속을 취소해달라고 한 것이다. 김 전 장관은 지난 7일 윤석열 대통령의 구속을 취소한 서울중앙지법 형사25부(재판장 지귀연)에서 형사 재판을 받고 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/C5DLQ2VBMNZH2ATRHF26YWLJLM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김용현 전 국방장관. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;앞서 재판부는 지난달 20일 김 전 장관의 첫 구속 취소 청구를 기각했다. 법원 관계자는 “형사소송법 제93조가 규정하는 구속의 사유가 없거나 소멸된 때에 해당하지 않는다”고 기각 이유를 밝혔다. 재판부는 지난 14일 구속 취소 청구를 접수한 뒤, 별도의 심문 기일을 갖지 않고 6일 만에 결정을 내렸다.&lt;br&gt;&lt;br&gt;김 전 장관 변호인단은 첫 구속 취소를 청구할 당시 “작년 12월 검찰이 김 전 장관을 영장 없이 긴급 체포한 것이 불법이기 때문에 인신 구속 상태가 해제돼야 한다”는 주장을 의견서에 담았다. 지난달 6일 법정에서 변호인은 “검찰이 영장 없이 체포한 것이 적법하다고 주장하는데 근본적으로 의문이 있다”며 “불법 체포 과정에서 획득한 증거는 불법 증거일 수밖에 없다”고 했다. &lt;br&gt;&lt;br&gt;구체적으로 변호인은 “형사소송법상 ‘긴급을 요한다’는 것은 체포영장을 받을 시간적 여유가 없는 때를 가리키는 것”이라며 “검찰 고위 관계자와 통화를 한 뒤 김 전 장관이 검찰에 자진출석해 임의출석이 분명하다”고 주장했다. 김 전 장관을 긴급 체포할 사유가 인정되지 않는다는 것이다. 변호인은 “인신 구속 상태가 빨리 해제되는 것이 실체적 진실 발견에 기여하는 것”이라고 말했다.&lt;br&gt;&lt;br&gt;김 전 장관 변호인단은 구속 취소가 기각되자 “기존 구속취소 청구는 영장없는 불법체포를 주된 이유로 하였다”며 “이후 밝혀진 불법공소제기, 불법구금, 인권위 권고의견 등을 모두 종합하여 구속 취소를 재청구할 예정”이라고 밝힌 바 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>법관기피 6차례, 망명 요청... 3년 반 걸린 친북조직 확정판결</title>
+      <link>https://www.chosun.com/national/court_law/2025/03/13/5SC6K7ASSFG6LH3B5U4PYNXC7Y/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/03/13/5SC6K7ASSFG6LH3B5U4PYNXC7Y/</guid>
+      <dc:creator>유종헌 기자, 이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 13 Mar 2025 12:10:37 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/H776ESCMBZAWFAJTMX3LSLGI3Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;충북동지회 조직원들이 지난 2021년 8월 영장실질심사를 위해 청주지법에 들어서고 있는 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;북한 지령을 받아 국내에 지하 조직을 만들고 활동한 혐의로 기소된 ‘자주통일 충북동지회’ 조직원 3명이 13일 대법원에서 실형을 확정받았다. 2021년 9월 기소 이후 3년 6개월 만이다.&lt;br&gt;&lt;br&gt;대법원 1부(주심 신숙희 대법관)는 국가보안법 위반 등의 혐의를 받는 충북동지회 위원장 손모(51)씨에게 징역 2년을 선고한 원심을 확정했다. 부위원장 윤모(54)씨, 고문 박모(61)씨에게도 각각 2심과 같이 징역 5년을 확정했다. 1심은 손씨 등 3명에게 각각 징역 12년을 선고했지만, 2심은 1심과 달리 범죄단체 조직 혐의를 무죄로 판단하면서 형량이 대폭 줄었다. 대법원 판단도 2심과 같았다. 이들이 중국과 캄보디아에서 북한 공작원과 만나 2만달러 공작금을 수수하고, 북한 지령에 따라 국내 정세를 보고한 혐의는 유죄로 인정됐다. 국회 외교통일위원장 발언 내용 등을 북한에 전달했다는 국보법상 간첩 혐의는 국가 안보를 해칠 만한 기밀로 볼 수 없다는 이유로 무죄가 됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DMSDFDBVHNE4XJLJT5UMSAZWCE.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=이진영&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;문재인 정부 말기부터 북한에 포섭돼 활동한 국내 조직들이 기소됐는데, 대법원에서 유죄가 확정된 것은 처음이다. 피고인들이 사용한 각종 ‘재판 지연 전술’은 다른 국보법 위반 사건에도 반복됐다. ‘민주노총 간첩단(수원)’은 2심이 진행 중이고, ‘자주통일 민중전위(창원)’ ‘ㅎㄱㅎ(제주)’는 아직 1심 판결도 나오지 않았다. &lt;br&gt;&lt;br&gt;충북동지회 위원장 손모(51)씨 등 3명은 2017년부터 북한 공작원의 지령을 받아 이적단체를 결성한 뒤 2만달러의 공작금을 수수한 혐의로 2021년 기소됐다. 검찰은 이들이 국가 기밀을 탐지·수집하고, 북한 공작원과 지령문·보고문을 주고받은 혐의도 적용했다. &lt;br&gt;&lt;br&gt;&lt;b&gt;◇2심 ‘범죄단체 조직’ 무죄로 대폭 감형&lt;/b&gt;&lt;br&gt;&lt;br&gt;1심 재판부는 작년 2월 “북한이 이들에게 수시로 지령을 내렸고, 이들은 북한을 본사라고 부르며 규율 위반자에 대해 북한에 징계를 요청하는 등 지휘 또는 명령과 복종·통솔 체계가 갖춰져 있다”며 이들에게 각각 징역 12년의 중형을 선고했다. 1심은 이들이 수차례 북한과 접선하고 공작금을 받은 혐의, 각종 정보를 수집해 북한에 보고한 혐의 등을 유죄로 인정했다. 또 이들의 충북동지회 결성이 형법상 범죄단체 조직에 해당한다며 관련 혐의도 유죄로 판단했다. 국보법 사건에서 범죄단체 조직죄가 인정된 것은 처음이었다. 1심은 다만 이들이 수집한 정보가 국가 안보를 해칠 만한 정도의 기밀이라고 할 수 없다며 국보법상 간첩 혐의는 무죄로 판단했고, 충북동지회를 이적 단체로 볼 수도 없다고도 했다. &lt;br&gt;&lt;br&gt;그런데 2심 재판부는 작년 10월 손씨에게 징역 2년, 나머지 2명에겐 징역 5년을 선고했다. 1심에서 유죄로 인정됐던 범죄단체 조직 혐의가 무죄로 뒤집히면서 형량이 크게 줄었다. 2심은 “충북동지회가 실질적으로 범죄단체라고 볼 수 있을 정도의 규모나 체계를 갖추고 있었다고 보기 어렵다”고 했다. 국보법상 간첩 혐의는 2심도 무죄로 판단했다. 대법원도 “2심 판단에 논리와 경험의 법칙을 위반하여 자유심증주의의 한계를 벗어나거나 법리를 오해한 잘못이 없다”고 했다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇재판부 기피 신청만 6차례&lt;/b&gt;&lt;br&gt;&lt;br&gt;기소 이후 1심 선고까지 2년 5개월이나 걸린 이 사건은 국보법 위반 사범들이 ‘재판 지연 전술’을 사용한 대표적 사례로 꼽힌다. 손씨 등 4명은 1심에서만 법관 기피 신청을 다섯 차례 냈다. 피고인 4명 중 3명은 법원 인사로 재판부가 바뀔 때마다 세 차례 법관 기피 신청을 내고, 기각되자 항고와 재항고를 반복했다. 나머지 1명은 뒤늦게 따로 기피 신청을 내는 ‘쪼개기’ 전술도 썼다. 법관 기피 신청을 내면 대법원에서 최종 판단이 나올 때까지 재판이 중단된다. 이들의 1심 재판은 총 11개월간 멈췄다. 재판이 늘어지는 동안 구속 기소됐던 피고인 3명은 보석 등으로 모두 풀려났다.&lt;br&gt;&lt;br&gt;손씨 등은 이외에도 위헌법률심판 제청 신청, 구속 집행정지 신청, 변호인 사임 등 방법으로 재판을 지연시켰다. 1심 선고를 이틀 앞두고는 국제연합(UN)에 ‘제3국 망명 지원’ 등을 요청하기도 했지만 받아들여지지 않았다. &lt;br&gt;&lt;br&gt;손씨 등은 항소심에서도 법관 기피 신청을 한 차례 냈다가 대법원에서 최종 기각됐다. 이 탓에 항소심 재판도 3개월 중단됐다. 이들과 함께 1심 재판을 받던 연락책 박모(54)씨는 2023년 10월 별도로 낸 법관 기피 신청에 대한 법원 판단이 늦어지면서 재판이 분리됐다. 박씨는 지난해 10월 징역 14년을 선고받고 현재 항소심이 진행 중이다. &lt;br&gt;&lt;br&gt;이들 이후 기소된 ‘민주노총 간첩단’ ‘자주통일 민중전위’ ‘ㅎㄱㅎ’ 사건의 피고인들도 비슷한 재판 지연 전술을 쓰고 있다. 법관 기피 신청, 국민참여재판 신청 등을 반복하는 것이다. 기소 당시 구속 상태였던 피고인 전원이 1심 재판 도중 구속 기한 만료 등을 이유로 한때 석방됐었다.&lt;br&gt;&lt;br&gt;법조계에선 법원도 이 사건들의 재판 지연에 한몫했다는 지적이 나온다. ‘자주통일 민중전위’ 사건의 경우 검찰이 2023년 3월 조직원들을 서울중앙지법에 구속 기소한 이후 2년간 유무죄를 가리는 정식 재판은 단 두 차례만 열렸다. 서울중앙지법은 작년 4월 피고인들의 요청을 받아들여 사건을 창원지법으로 이송했다. 당시 ‘집중 심리가 필요하다’며 피고인 거주지 인근 법원으로 사건을 보냈는데, 이후 쟁점·증거를 준비하는 준비기일만 네 차례 열렸을 뿐이다. 재판부 기피 신청 사건이 대법원까지 올라가면서 1심 재판은 멈춰 있다. ‘ㅎㄱㅎ’ 사건도 2023년 4월 기소됐지만 1년 11개월째 1심 재판이 공전 중이다. 한 법조인은 “법원이 재판 지연 목적이 분명해 보이는 피고인들의 신청에 대해선 받아들이지 않거나 빠르게 결론을 내야 한다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>법원행정처장 “엄중한 상황서 사법부 중립성 잃지 않아야”</title>
+      <link>https://www.chosun.com/national/court_law/2025/03/13/4YVIGV6UQVFBRA6QE2BXJNDYPE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/03/13/4YVIGV6UQVFBRA6QE2BXJNDYPE/</guid>
+      <dc:creator>김희래 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 13 Mar 2025 12:43:41 +0000</pubDate>
+      <content:encoded>천대엽 법원행정처장이 13일 전국 법원장들에게 “국가적으로 엄중한 상황에서 사법부와 법관의 생명과도 같은 객관성과 중립성을 잃지 않아야 한다”고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TE4TDVF326UJFLBNMVRZBKFUQI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;천대엽 법원행정처장. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;천 처장은 이날 충남 부여에서 열린 전국법원장간담회에 참석해 “오직 헌법과 법률에 의해 양심에 따라 독립해 신속·공정한 재판이 구현될 수 있도록 법원장들이 법원 구성원들을 격려하고 독려해 주기를 부탁한다”며 이같이 말했다.전국법원장간담회는 법원행정처장과 각급 법원 법원장 등이 참석해 사법부 주요 현안에 대해 논의하는 자리다. &lt;br&gt;&lt;br&gt;이날 간담회에는 총 42명이 참석했고, ‘신속하고 공정한 재판 구현을 위한 사무분담기간 장기화의 현황과 과제’를 주제로 토론이 진행됐다. 각 법원장들은 사무분담을 장기화하는 내용으로 개정된 예규에 따른 사무분담 과정에서 경험과 노하우, 관심사를 공유했다. 또 이와 관련해 법원행정처의 검토와 지원이 필요한 사항 등에 대해 의견을 나눴다. &lt;br&gt;&lt;br&gt;전국 법원장들은 또 ‘적정한 사건관리를 위한 업무 프로세스 개선방안’에 대해서도 토론했다. 각 법원의 특성에 맞는 적정한 인적 자원의 배분, 사무분담에 따른 효율적인 사건관리 등에 대해 법원장들이 경험을 공유했다.간담회 이틀 차인 14일엔 ‘서울서부지방법원 사태 이후 청사 안전관리방안’에 대한 토론을 진행할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘모바일 주민등록증’ 시대 열린다... 내일부터 발급</title>
+      <link>https://www.chosun.com/national/national_general/2025/03/13/5R5BVMV63VEUBBWEZWGEAEY4OU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/03/13/5R5BVMV63VEUBBWEZWGEAEY4OU/</guid>
+      <dc:creator>김영우 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 13 Mar 2025 11:21:56 +0000</pubDate>
+      <content:encoded>14일부터 주민등록증을 스마트폰에 담아 사용할 수 있게 된다. 1968년 주민등록증이 처음 생긴 이후 57년 만에 ‘모바일 주민등록증’ 시대가 열리는 것이다.&lt;br&gt;&lt;br&gt;행정안전부는 “14일부터 모바일 주민등록증 발급을 시작한다”고 13일 밝혔다. 작년 12월부터 세종, 경기 고양, 강원 홍천 등 9곳에서 시범 사업을 해왔는데 공식 시행하는 것이다.&lt;br&gt;&lt;br&gt;스마트폰에 ‘대한민국 모바일 신분증’ 앱을 깐 뒤 자신의 주소지 주민센터에 들러 발급받으면 된다. &lt;br&gt;&lt;br&gt;IC칩이 내장된 주민등록증을 발급받아 스마트폰에 터치하는 방식과 주민센터 창구에서 QR코드를 촬영하는 방식이 있다. 두 가지 방식 중 원하는 방식으로 발급받아 쓰면 된다.&lt;br&gt;&lt;br&gt;스마트폰 앱을 클릭하면 주민등록증과 똑같은 사진이 뜬다. 주민등록증을 쓸 일이 있을 때 이 사진을 보여주면 된다. 별도로 주민등록증을 들고 다닐 필요가 없어지는 것이다.&lt;br&gt;&lt;br&gt;오는 28일부터는 주소지와 상관없이 전국 주민센터 어디에서나 발급받을 수 있다.&lt;br&gt;&lt;br&gt;행안부는 2022년부터 운전면허증과 국가보훈등록증, 재외국민 신원증명서를 모바일로 발급하고 있다. 모바일 운전면허증을 발급받은 사람은 3년간 428만명으로 집계됐다. 운전면허증을 발급받은 사람 3명 중 1명꼴로 모바일 운전면허증을 쓰고 있는 것이다. &lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/ASXBKRENOJMQTCJMZNA77I3MME.jpg?width=5708&amp;height=3624&amp;auth=33089c68306feea386280f22900151e77fe78590708171da30adbcddcdab1ae9&amp;smart=true" type="image/jpeg" height="3624" width="5708">
+        <media:description type="plain">[대구=뉴시스] 이무열 기자 = 14일 대구 남구 봉덕2동 행정복지센터에서 한 시민이 발급받은 모바일 주민등록증을 들어 보이고 있다.
+
+모바일 주민등록증 발급지역은 다음 달 14일 까지 전국으로 단계적으로 확대한다. 2025.02.14. lmy@newsis.com</media:description>
+        <media:credit role="author" scheme="urn:ebu">lmy</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>성남 판교 야산서 오물 풍선 수거... 과거 북한이 보낸 것 추정</title>
+      <link>https://www.chosun.com/national/regional/gyeonggi-incheon/2025/03/13/4AGCOG7CINFYBG2WE2GNHCCQ74/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/gyeonggi-incheon/2025/03/13/4AGCOG7CINFYBG2WE2GNHCCQ74/</guid>
+      <dc:creator>신정훈 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 13 Mar 2025 11:07:34 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/X6PIIX2KCP4PX7YZBJH5TJJAWI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;분당경찰서 전경/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 성남시 판교에서 과거 북한이 날려 보낸 것으로 추정되는 오물 풍선이 발견돼 수거됐다. &lt;br&gt;&lt;br&gt;13일 오후 5시쯤 분당구 운중동 서판교IC 인근 야산에서 “비닐 형태의 오물 풍선을 발견했다”는 시민의 112 신고가 접수됐다.&lt;br&gt;&lt;br&gt;경찰관이 현장에 도착해 확인했을 때 오물 풍선에는 기폭장치로 의심되는 물체도 설치돼 있었다. &lt;br&gt;&lt;br&gt;경찰은 군 당국에 폭발물 처리반 출동을 요청했고, 군은 기폭장치를 거둬갔다. &lt;br&gt;&lt;br&gt;이날 발견된 오물 풍선은 오래된 듯 낡고 훼손된 상태였던 것으로 전해졌다. &lt;br&gt;&lt;br&gt;경찰 관계자는 “과거 북한에서 날린 오물 풍선이 이날 발견된 것으로 보인다”며 “군 당국이 기폭장치 폭발 위험성이 없다고 판단한 뒤 물체를 수거했다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>법원 내부망서 ‘구속 기간 계산’ 논란…“선례와 다른 판단도 가능”</title>
+      <link>https://www.chosun.com/national/court_law/2025/03/13/6A34QTX3AVE2VGI4P7OXX7PH4U/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/03/13/6A34QTX3AVE2VGI4P7OXX7PH4U/</guid>
+      <dc:creator>박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 13 Mar 2025 10:55:02 +0000</pubDate>
+      <content:encoded>윤석열 대통령에 대한 구속취소 결정 이후 법원 내부에서 구속기간 계산법을 둘러싼 논란이 이어지고 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RCDUZU42UZDPPAYLO6U3F5GYMI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원 로고. /조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;13일 법조계에 따르면, 창원지법 밀양지원 최수영 부장판사는 전날 법원 내부망(코트넷)에 부산지법 김도균 부장판사의 게시글에 반박하는 댓글을 남겼다. 앞서 김 부장판사는 지난 10일 코트넷에 ‘구속취소 유감’이라는 제목의 글을 올려 윤 대통령의 구속 취소를 결정한 서울중앙지법을 비판한 바 있다.&lt;br&gt;&lt;br&gt;김 부장판사는 ​법원이 윤 대통령의 구속 기간을 날짜가 아닌 시간 단위로 계산한 점에 대해 “(형사소송법상) 검사의 구속 기간은 10일로 정해져 있을 뿐이지 240시간으로 규정돼 있지 않다”면서 “종래의 실무를 완전히 뒤집는 취지이며 큰 혼란이 예상된다”고 했다.&lt;br&gt;&lt;br&gt;이에 대해 최 부장판사는 정면 반박했다. 최 부장판사는 “이견이 정면으로 쟁점이 됐을 때 연구와 숙고를 거쳐 다른 판단이 세워진다면 선례, 관행과 다른 결단이 요구된다”며 구속기간을 날짜로 계산하는 관례가 꼭 유지될 필요가 없다는 의견을 냈다.&lt;br&gt;&lt;br&gt;이어 “피의자의 구속기간에 있어 소위 관행이라 일컬어지는 내용이 헌법의 위임을 받은 형사소송법이 ‘구속수사에 필요한 기간’을 엄격히 정하고 있는 취지를 벗어난 결과를 묵인하는 것은 아닌지 살펴볼 여지가 있다”고 했다.&lt;br&gt;&lt;br&gt;또 “구속 기간에 산입하지 않는 기간을 ‘시간’ 단위로 계산해야 한다는 의견은 헌법 합치적 법률 해석으로서 충분히 제기할 만한 의견이라고 생각된다”고 덧붙였다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>백종원, 잇단 논란에 “모든 문제들은 제 불찰... 깊이 반성 중” 사과</title>
+      <link>https://www.chosun.com/national/national_general/2025/03/13/WNMDTQCPUVEHZBPIFHWZY664TY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/03/13/WNMDTQCPUVEHZBPIFHWZY664TY/</guid>
+      <dc:creator>박선민 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 13 Mar 2025 11:03:50 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3SC6FZSS64JW34VC4JZZXCQHYI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;백종원 더본코리아 대표이사가 작년 11월 오후 서울 영등포구 콘래드호텔에서 열린 더본코리아 기업설명회에 참석해 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;백종원 더본코리아 대표가 최근 불거진 여러 논란에 대해 사과했다. &lt;br&gt;&lt;br&gt;백 대표는 13일 더본코리아 홈페이지를 통해 “더본코리아와 관련된 여러 이슈로 인해 많은 분께 심려를 끼쳐드려 깊은 책임감을 느끼고 진심으로 사과드린다”며 “저희를 사랑하고 아껴주신 만큼 더 나은 모습과 제품으로 보답드려야 했으나, 그 기대에 미치지 못한 점이 많았다”고 했다. &lt;br&gt;&lt;br&gt;백 대표는 “특히 생산과 유통 과정에서 발생한 용납할 수 없는 잘못들에 대해 깊이 반성하고 있다”고 했다. 그러면서 “그동안 제기된 모든 문제들은 세심하게 살피지 못한 제 불찰”이라고 했다. &lt;br&gt;&lt;br&gt;백 대표는 “질책을 겸허히 받아들이고, 법적 사항을 포함한 모든 내용에 대해 신속히 개선할 것을 약속드린다”고 했다. 아울러 “상장사로서 주주 여러분의 기대에 부응하기 위해 전사적인 혁신과 성장을 이끌어가겠다”며 “저와 회사에 대해 지속적으로 관심과 기대를 보내주신 모든 분들께 다시 한번 깊이 사죄의 말씀을 드린다”고 했다. &lt;br&gt;&lt;br&gt;앞서 백 대표의 더본코리아는 국산 농산물을 써야 하는 농업진흥구역 식품 공장에서 수입 농산물을 사용해 농지법을 위반했다는 의혹에 휩싸였다. 이에 더본코리아는 “법령을 제대로 인지하지 못한 상태에서 수입산 원재료를 사용한 데 대해 진심으로 사과드린다”고 했다. &lt;br&gt;&lt;br&gt;다만 이후에도 논란은 이어졌다. 국산 농산물을 쓴다고 광고했는데 실제로는 수입 농산물이 쓰인 점이 드러난 것이다. 구체적으로 온라인 쇼핑몰 더본몰에서 ‘한신포차 낙지볶음’ 제품을 판매하며 국내산 마늘을 사용한다고 홍보했으나, 원산지 표기에는 중국산 마늘이 사용된 것으로 적혀 있었다.&lt;br&gt;&lt;br&gt;결국 백 대표는 원산지표시법 위반 혐의로 경찰 수사를 받게 됐다. 농산물품질관리원 서울사무소 특별사법경찰은 이날 백 대표가 원산지표시법을 위반했다는 신고를 접수하고, 백 대표를 입건해 수사하고 있다고 밝혔다.&lt;br&gt;&lt;br&gt;이외에도 백 대표는 더본코리아 빽햄의 돼지고기 함량이나 감귤맥주의 감귤 함량이 적다는 지적도 받았다. 또 더본외식산업개발원에서 실내에 LP가스통을 두고 요리하거나, 우리 농가를 돕자는 취지의 유튜브 영상에 브라질산 닭고기가 원재료인 제품을 노출한 일로도 구설에 올랐다.&lt;br&gt;&lt;br&gt;여러 논란 속 작년 11월 6일 상장한 더본코리아 주가가 하락세를 보이기도 했다. 상장 첫날 장중 6만4500원까지 올랐던 주가는 현재 공모가(3만4000원)보다 낮은 2만9000원 안팎에서 거래되고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>한양대, QS대학평가서 18개 분야 100위권…역대 최다</title>
       <link>https://www.chosun.com/national/education/2025/03/13/XBVBSZ23M5HFBIBCIHRGL3ZEIU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/education/2025/03/13/XBVBSZ23M5HFBIBCIHRGL3ZEIU/</guid>
@@ -734,15 +830,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SETDINCTY5CDVFSUFZDBM63KBA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[신문은 선생님] [생활 속 경제] ‘아무나 살 수 없는’ 물건에 수요 몰려… 1000원 볼펜도 한정판은 가격 10배로 뛰죠</title>
-      <link>https://www.chosun.com/national/nie/2025/03/13/2QWQMT4ZZ5E53FBBL7LZEIM4PM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2025/03/13/2QWQMT4ZZ5E53FBBL7LZEIM4PM/</guid>
-      <dc:creator>김나영 서울 양정중 사회과 교사</dc:creator>
-      <description/>
-      <pubDate>Wed, 12 Mar 2025 15:33:37 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/J5VPL3EQ7FBG3JIUS4JMG5L6WA.png"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=박상훈&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Q. 제 친구가 몇 달 전에 산 명품 패딩을 온라인 중고 마켓에 판다고 해요. 그 패딩 브랜드 이미지가 안 좋아졌기 때문이래요. 중고 마켓을 보니 최근 이 브랜드 제품이 많이 올라와 중고 가격이 크게 떨어졌다고 해요. 디자인이나 성능은 변한 게 없는데 이렇게 갑자기 가격이 달라질 수 있나요? &lt;/b&gt;&lt;br&gt;&lt;br&gt;A. 최근 우리나라의 지나친 교육열을 풍자한 한 개그우먼의 패러디 영상이 화제가 됐어요. 이 영상으로 인해 그가 입고 나온 패딩 브랜드에 우스꽝스러운 이미지가 생기면서 인기가 뚝 떨어지고 말았어요. 그러면서 온라인 중고 시장에 이 브랜드 제품이 대거 쏟아져 나왔다고 해요. &lt;br&gt;&lt;br&gt;이 패딩 브랜드는 처음엔 유명 연예인들이 입고 다녀서 인기가 많았어요. 문제는 지나치게 비싼 가격이었죠. 한 벌 가격이 수백만 원에 달해 ‘부자들이 입는 옷’이라는 이미지가 있었어요. 이로 인해 누군가는 이 브랜드를 더 사고 싶어 합니다. 누구나 가질 수 있는 물건보다는 일부만이 가질 수 있는 물건이 더 매력적이니까요. 이처럼 희소한 물건을 선호하는 현상을 스놉 효과(snob effect)라고 불러요. ‘스놉(snob)’은 고상한 체하는 사람이나 ‘속물’을 뜻하는 말이지요.&lt;br&gt;&lt;br&gt;기업들은 물건을 많이 팔기 위해 평범한 제품을 희소한 물건처럼 눈속임하기도 하는데요. 한정판 마케팅이 대표적인 사례예요. 1000원 정도에 살 수 있는 ‘국민 볼펜’ 브랜드도 한정판 디자인으로 나온 건 10배 넘는 가격에 팔립니다. 일부 출판사는 출판된 책의 표지만 교체해 가격을 올려 받기도 하죠. 패션 브랜드들은 일부러 제품을 적게 만들어서, 사람들이 매장에 줄을 서게 만들기도 합니다. ‘남들이 구하기 힘든 걸 어렵게 구했다’는 데서 오는 기쁨이 소비에서 얻는 가치의 많은 부분을 차지하기 때문이에요. &lt;br&gt;&lt;br&gt;이와 반대로 유행을 따라 다른 사람들과 같은 걸 소비하고자 하는 경향도 있어요. 이를 ‘밴드웨건 효과(bandwagon effect)’라고 합니다. 주변 친구들이 모두 특정 브랜드의 운동화를 신고 다닌다면, 나도 괜히 그 운동화를 따라 사고 싶은 마음이 생기죠. 스놉 효과와 밴드웨건 효과는 반대인 듯 보이지만 한 사람의 수요에 다른 사람들의 수요가 영향을 준다는 측면에서 같답니다. &lt;br&gt;&lt;br&gt;최근 화제가 됐던 패딩 브랜드는 지나치게 비싼 가격이라 처음엔 ‘아무나 살 수 없는 옷’이라는 인식이 있었어요. 사람들은 고가의 가격임에도 줄을 서서 이 패딩을 구매했고, 그러면서 이 패딩 브랜드 자체가 하나의 유행이 됐어요. 스놉 효과와 밴드웨건 효과가 모두 있었던 것이죠.&lt;br&gt;&lt;br&gt;그런데 패러디 영상으로 인해 부정적인 이미지가 생기면서 이 브랜드에 대한 선호도가 떨어지고 말았어요. 이젠 이 브랜드를 입고 다니는 게 유행에 뒤처지는 것처럼 되어버린 것이죠. 이런 이유로 갑자기 온라인 중고 시장에 매물이 많이 나오게 되고(공급 증가), 사고자 하는 사람은 적으니(수요 감소), 자연히 중고 가격이 내려가게 된 겁니다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[오늘의 날씨] 2025년 3월 13일</title>
       <link>https://www.chosun.com/national/national_general/2025/03/13/E7VHRUZSQBEBNOSBYEM7RDKCVI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/03/13/E7VHRUZSQBEBNOSBYEM7RDKCVI/</guid>
@@ -750,15 +837,6 @@
       <description/>
       <pubDate>Wed, 12 Mar 2025 15:30:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XXMZKSMYIVHR3CSIVIW7VPLQVI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>노한동 작가 “호지키스 행정·과도한 언론 대응이 공직사회 병들게 해”</title>
-      <link>https://www.chosun.com/national/national_general/2025/03/12/WKGUF52PPZAVBPUENFLJCZLX3Y/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/03/12/WKGUF52PPZAVBPUENFLJCZLX3Y/</guid>
-      <dc:creator>김혜민 기자, 박정훈 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 12 Mar 2025 11:58:06 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6PBYJWOPFZDGVM77YJ64JSHCYU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;'나라를 위해서 일한다는 거짓말' 노한동 전 서기관/조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난해 ‘나라를 위해서 일한다는 거짓말’이라는 책을 내 공직사회의 무능을 폭로한 노한동(38) 작가가 12일 서울대 강연에서 “‘호지키스 행정’과 과도한 언론 대응 등으로 공직사회가 망가지고 있다”고 지적했다.&lt;br&gt;&lt;br&gt;노 작가는 이날 오후 5시 서울 관악구 서울대 국가미래전략원에서 ‘한국 공직사회는 왜 그토록 무능해졌는가? 10년간 경험하고 관찰한 공직사회의 무능한 일상과 좌절에 관해’라는 강연을 진행했다. 노 작가는 문화체육관광부에서 10년간 근무하다가 4급 서기관으로 승진한 직후 사표를 던져 화제가 됐다. 이후 책을 통해 공직 사회 내부의 문제를 지적했다. &lt;br&gt;&lt;br&gt;이날 노 작가는 “중앙부처는 앞으로 한발 나아가기 위한 정책 수립을 위한 조직인데, 현상유지에만 골몰하고 있다”고 했다. 특히 “현장은 살피지 않은 채 보기 예쁜 보고서를 작성하는 데만 골몰하고 있다”며 ‘호지키스 행정’에 대해 크게 지적했다.&lt;br&gt;&lt;br&gt;또 노 작가는 공직자들이 형사처벌에 대한 두려움으로 인해 적극적으로 일을 하지 못한다는 점도 지적했다. 그는 “공직자의 권한은 없어지는데 책임은 높게 묻고 있다”며 “이로 인해 공직자들이 무력감에 빠지게 된다”고 했다. 특히 정치 양극화가 심해짐에 따라 정권이 교체될 때마다 주요 정책을 담당했다가 형사처벌을 받을 우려가 커지면서 공직자들이 처벌 면피에만 골몰하게 됐다는 것이다. 노 작가는 월성원전 자료 삭제 사건, TV조선 재승인 사건 등 주요 정책을 담당했다가 공직자들이 구속된 사건들을 예시로 들었다.&lt;br&gt;&lt;br&gt;노 작가는 공직 사회가 무능해진 이유로 ‘과도한 언론 대응’을 꼽기도 했다. 언론을 지나치게 의식한 나머지 사건 발생 시 재빠르게 말장난에 불과한 졸속대책만 낸다는 것이다. 노 작가는 그 예로 최근 일어난 대전 초등생 살인사건에 대한 교육부의 대처를 들었다. 그는 “해당 사건은 문제 원인과 해결방안이 뚜렷하지 않은 사건이었음에도 불구하고 교육부에서 48시간만에 대책이, 일주일만에 종합대책이 나왔다”며 공직사회가 언론을 너무 의식한 나머지 즉문즉답식으로 졸속대책만 만들고 있다고 꼬집었다.&lt;br&gt;&lt;br&gt;노 작가는 공직사회에 대한 대통령실 권한이 너무 강한 점 또한 문제로 짚었다. 그는 “엄연히 임명된 장·차관에 권한이 부여돼야 하는데, 현실에서는 대통령실이 인사를 뒤집는 등 실권을 행사하니 공직자들은 눈치만 보게 되는 상황이 발생한다“고 했다.&lt;br&gt;&lt;br&gt;한편 그는 최근 정부효율부 신설을 통해 공직사회를 대대적으로 개편하고 있는 도날드 트럼프 미국 대통령의 해결책에 대해선 거리를 뒀다. 그는 “공직사회를 어떻게 다뤄볼 것인가에 대한 문제의식에는 동의한다”면서도 “해당 발상은 내부적 상황을 고려하지 않은 외과적 수술에 불과하기에 (딱 맞는) 해답이라 생각하지는 않는다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>아시안게임 역대 최다 金 ... 한국 승마 전설 서정균 별세</title>
@@ -774,15 +852,6 @@
       </media:content>
     </item>
     <item>
-      <title>사법정책자문위 “신속·공정 재판 위해 정년 없는 ‘시니어 판사’ 도입해야”</title>
-      <link>https://www.chosun.com/national/court_law/2025/03/12/YG5WNAKTCNASNIZCSRVCGDGRBM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/03/12/YG5WNAKTCNASNIZCSRVCGDGRBM/</guid>
-      <dc:creator>방극렬 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 12 Mar 2025 12:56:06 +0000</pubDate>
-      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SOX3OVYDVKGPTS3GUEM7VOEUYE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 대법원 청사 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대법원 사법정책자문위원회가 12일 법관 정년이 없이 재판을 하는 ‘시니어 판사’ 제도를 도입하자고 조희대 대법원장에게 건의했다.&lt;br&gt;&lt;br&gt;대법원장 자문 기구인 사법정책자문위는 이날 회의를 열고 “풍부한 재판 역량을 가진 판사가 정년 이후에도 적정한 재판 업무를 계속 담당하도록 하고, 이에 합당한 처우를 받을 수 있도록 하는 시니어 판사 제도를 도입할 필요가 있다”고 밝혔다.&lt;br&gt;&lt;br&gt;사법정책자문위는 “모든 국민에게 신속하고 공정한 재판을 제공하기 위해 법관의 정년과 정원에 얽매이지 않으면서 최대한 재판 역량을 발휘해야 한다”며 “판사의 생애 주기에 따른 재판 업무를 적정하게 조정하면서도, 운용 과정에서 정원 제한으로 인한 인력 부족이 발생하지 않도록 하는 방안을 추진할 필요가 있다”고 말했다.&lt;br&gt;&lt;br&gt;법원조직법상 판사의 정년은 65세이고, 대법원장과 대법관은 70세이다. 이를 일부 늘리되 보수는 조정하자는 취지로 해석된다.&lt;br&gt;&lt;br&gt;사법정책자문위는 또 “법원 강제집행 등을 처리하는 사법보좌관의 업무를 신청 사건 등으로 확대할 필요가 있다”며 “실질적 쟁송에 해당하지 않는 업무 영역에서 사법보좌관의 업무를 지속적으로 확대해 국민의 재판 청구권을 충실히 보장해야 한다”고 건의했다.&lt;br&gt;&lt;br&gt;사법보좌관은 일정 자격을 갖춘 법원 일반직 공무원 가운데 임명되는데, 법원의 재판 업무 중 정형적이고 큰 다툼이 없는 업무와 경매, 압류 및 추심 명령 등을 수행한다.&lt;br&gt;&lt;br&gt;그러면서 “사법보좌관의 전문성을 강화하는 동시에 그 역할에 맞는 자긍심과 동기를 부여하는 개선 방안을 마련해야 한다”며 “국민 신뢰를 제고할 수 있도록 사법보좌관의 직명을 업무 영역 및 직무 성격에 부합하게 변경하는 것을 고려할 필요가 있다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>대검, 천대엽 ‘즉시항고 필요’에 “법사위 상황 관련 검토 중”</title>
       <link>https://www.chosun.com/national/court_law/2025/03/12/RJUUPSHMQFFF5BVVRIVC2SOK6E/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/03/12/RJUUPSHMQFFF5BVVRIVC2SOK6E/</guid>
@@ -790,15 +859,6 @@
       <description/>
       <pubDate>Wed, 12 Mar 2025 10:24:54 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KJVXIIW6WVJCZDBSNOXMNX5XIQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;심우정 검찰총장이 12일 서울 서초구 대검찰청으로 출근하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;천대엽 법원행정처장이 12일 윤석열 대통령에 대한 구속취소와 관련해 검찰의 즉시항고 제기가 필요하다고 국회에서 발언하자, 대검찰청은 “검토 중”이라고 밝혔다.&lt;br&gt;&lt;br&gt;대검은 기자단 공지를 통해 “국회 법제사법위원회 상황과 관련해 검토하고 있다”며 “구체적인 사항은 확인해 드릴 수 없다”고 했다. &lt;br&gt;&lt;br&gt;천 처장은 이날 법사위 현안질의에 출석해 “재판부 결정에도 검찰은 구속기간을 ‘날짜’로 계산하겠다고 하는 등 혼란이 지속되고 있다”라며 “(검찰의) 즉시항고를 통해 상급심 판단을 받는 것이 필요하다고 본다”고 했다.&lt;br&gt;&lt;br&gt;앞서 서울중앙지법이 윤 대통령 구속 기간 계산 문제와 수사의 적법성 문제를 이유로 들며 구속을 취소하자, 검찰은 “구속 기간을 ‘날짜’가 아닌 ‘시간’으로 계산하는 것은 수긍하기 어렵다”고 반발했다. 구속 기간에서 제외하는 영장 심사 기간을 ‘날짜가 아닌 시간’ 기준으로 해야 한다는 법원 결정은 관례에 어긋난다고 본 것이다. &lt;br&gt;&lt;br&gt;그러면서도 검찰은 구속 취소에 대한 즉시항고는 위헌성이 크다고 판단해 즉시항고를 하지 않았다. 앞서 헌법재판소가 보석과 구속집행정지에 대한 즉시항고는 두 차례 위헌 결정을 했기 때문이다. 이에 따라 윤 대통령은 지난 8일 석방됐다.&lt;br&gt;&lt;br&gt;천 처장은 윤 대통령이 석방된 상태에서도 검찰의 즉시항고가 가능하다고 했다. 천 처장은 “피고인을 석방하고 나서도 즉시항고를 통해 (상고심의) 판단을 받은 선례가 있다”며 “석방된 상태에서도 상고심의 법적 판단을 받는 것에는 장애가 없다”고 했다. 이 논리대로라면 검찰이 즉시항고를 할 수 있는 기한은 오는 14일까지다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>주식 사기 피해로 두 자녀와 극단선택 시도한 엄마… 항소심서 감형 호소</title>
-      <link>https://www.chosun.com/national/regional/chungcheong/2025/03/12/IZTRMXYDPNETXBH2GHV7PQ3KBM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2025/03/12/IZTRMXYDPNETXBH2GHV7PQ3KBM/</guid>
-      <dc:creator>대전=김석모 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 12 Mar 2025 12:32:18 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EBELH2SLNJ252IYRWKZGFF5PQA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대전고법. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;주식 투자사기로 1억원대의 손해를 보고 자녀 2명과 목숨을 끊으려다 초등학생 아들을 숨지게 한 혐의를 받는 40대 여성 A씨가 항소심에서 감형을 호소했다. &lt;br&gt;&lt;br&gt;12일 대전고법 형사1부(재판장 박진환) 심리로 열린 A(46)씨의 살인 혐의 사건 항소심에서 A씨 변호인은 “심신미약 상태에서 범행한 참작 할만한 사정이 많다”면서 감형을 요청했다. A씨는 1심에서 징역 7년을 선고받았다.&lt;br&gt;&lt;br&gt;A씨는 최후 진술에서 “주식 리딩방 사기를 당해 정신적인 충격으로 순식간에 무너져 내렸다”면서 “하지 말아야 할 행동으로 행복했던 가정을 잃었다”고 말했다. 이어 “병원에서 깨어난 후 무엇을 잃었는지 처절하게 깨달았다”고 말했다.&lt;br&gt;&lt;br&gt;그는 또 “남편 생각하면 눈물만 난다. 너무 큰 죄를 저질렀고, 무슨 말을 해도 되돌릴 수 없다”면서 “지금 힘들어하는 남편과 딸아이에게 도움이 되고 싶다. 더 늦기 전에 엄마이자 아내의 자리를 찾을 기회를 달라”고 말했다.&lt;br&gt;&lt;br&gt;검찰은 A씨 측의 항소를 기각하고 1심이 선고한 징역 7년 형을 유지해 줄 것을 재판부에 요청했다.&lt;br&gt;&lt;br&gt;A씨는 지난해 1월 충남 예산시 자택에서 아들·딸이 잠든 사이 극단적인 선택을 시도했다. 이 과정에서 A씨는 목숨을 건졌지만 초등학생 3학년이던 아들은 숨졌다. A씨와 함께 목숨을 건진 초등학생 2학년 딸은 뇌 병변 장애를 입었다.&lt;br&gt;&lt;br&gt;범행 2개월 전 주식투자 사기로 1억원이 넘는 피해를 본 A씨는 자신의 처지를 비관해 범행을 저지른 것으로 알려졌다. A씨의 딸은 장애 때문에 현재 24시간 간병인의 도움을 받아야 하는 것으로 전해졌다.&lt;br&gt;&lt;br&gt;1심 재판부는 “어머니로서 책임을 저버리고 범죄를 저지른 죄책이 크다”며 A씨에게 징역 7년을 선고했다.&lt;br&gt;&lt;br&gt;A씨 등에게 주식투자 사기로 피해를 준 B(41)씨는 징역 20년형을 선고받고 수감된 상태다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>인권위, 계엄 장성들 ‘보석 허가·불구속재판’ 촉구...“尹도 풀려났는데” </title>
@@ -853,15 +913,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CTTIBOYO3JMY5C672SMBDRTWOE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;미세먼지에 황사까지 유입된 12일 서을 종로구 광화문광장 인근에서 시민들이 마스크를 쓰고 이동하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한반도 전역이 흙먼지로 뒤덮이겠다.&lt;br&gt;&lt;br&gt;기상청과 국립환경과학원에 따르면, 내몽골고원과 고비사막에서 인 황사가 12일 밤부터 우리나라로 들어오기 시작해 밤사이 전국으로 확산, 13~14일 공기가 탁할 것으로 예상됐다.&lt;br&gt;&lt;br&gt;13일 미세먼지(PM10) 농도가 ‘매우 나쁨’을 기록할 것으로 보이는 인천·세종·충북·충남은 황사위기경보 ‘관심’ 단계가 발령됐다. 서울을 비롯한 나머지 지역도 미세먼지가 ‘나쁨’ 수준으로 짙겠다. &lt;br&gt;&lt;br&gt;12일 밤부터 중국 등지에서 초미세먼지(PM2.5)까지 날아오며 13일 오전 수도권·충청·호남·영남에서 해당 수치가 ‘나쁨’ 수준을 기록할 것으로 보인다. 몽골발 황사에 중국발 미세먼지가 겹치며 도시가 회색빛으로 변할 전망이다.&lt;br&gt;&lt;br&gt;대기 정체는 주말까지 이어질 것으로 보인다. 고기압 영향권에 들면서 기온은 포근하지만, 강한 바람이 불지 않는 탓에 흙먼지와 미세먼지가 내륙 바깥으로 씻겨나가지 못하겠다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>소상공인 울린 군부대 납품 사기, 경찰 수사…부산 4건 신고 </title>
-      <link>https://www.chosun.com/national/regional/yeongnam/2025/03/12/DIHIMKCJWVHN7B5VP6XMKRB5TQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/yeongnam/2025/03/12/DIHIMKCJWVHN7B5VP6XMKRB5TQ/</guid>
-      <dc:creator>박주영 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 12 Mar 2025 09:07:25 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/L4GEXC5HOZAC5NA5TDDI7RQ23U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;군인을 사칭해 “지역 군부대 전투식량을 납품해달라”며 소상공인들을 속여 돈을 가로채는 사건이 잇따라 발생해 경찰이 수사에 나섰다.&lt;br&gt;&lt;br&gt;부산경찰청은 “지역 소상공인을 상대로 군인을 사칭해 전투식량 납품 사기를 벌인 범행의 피해 사례가 남부경찰서와 해운대경찰서, 기장경찰서 등에 4건 접수돼 수사 중”이라고 12일 밝혔다.&lt;br&gt;&lt;br&gt;경찰에 따르면 올해 2월 군인을 사칭한 남성이 과일가게 등 소상공인들에게 전화를 걸어 부대에 물품을 납품해달라고 한 뒤 군부대 관련 서류나 구매 리스트를 위조해 보내는 방식으로 피해자들의 신뢰를 얻었다.&lt;br&gt;&lt;br&gt;이후 “훈련을 바로 나가야 하는데 전투식량 업체에 대금을 주는 것을 깜박했다”며 소상공인에게 대금을 대신 지급해 달라고 부탁한 뒤 입금받은 돈을 가로채 잠적했다.&lt;br&gt;&lt;br&gt;경찰은 “소상공인들의 업종이나 피해 금액은 달랐지만 범행 수법은 비슷했다”며 “남부경찰서 사건은 2900만원, 해운대경찰서 사건은 490만원의 피해가 발생하는 등 총 4건의 피해가 접수돼 범행에 활용된 계좌의 명의자 특정 등 수사를 진행 중”이라고 말했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>내일 0시부터 헌재 상공 드론 비행 금지</title>
       <link>https://www.chosun.com/national/national_general/2025/03/12/7YRJRP6MJJBWTJQQJLFACE32UE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/03/12/7YRJRP6MJJBWTJQQJLFACE32UE/</guid>
@@ -878,24 +929,6 @@
       <description/>
       <pubDate>Wed, 12 Mar 2025 08:47:29 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IRLFJ6FJ6JFUZPDD3PJEVO7KWQ.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;낚시줄 등에 부리가 얽힌 바다비오리./한국해양과학기술원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;우리나라 연안의 해양쓰레기가 계속 늘어나면서 해양 동물이 입는 피해가 갈수록 커지고 있다. &lt;br&gt;&lt;br&gt;한국해양과학기술원(KIOST)은 “국내 연안에서 발생한 해양 동물의 ‘해양쓰레기 얽힘’ 피해 데이터를 분석한 결과, 해안과 수중의 해양쓰레기가 생물 다양성과 해양 생태계에 심각한 위협을 가하고 있는 것으로 확인됐다”고 12일 밝혔다.&lt;br&gt;&lt;br&gt;이 연구는 KIOST와 동아시아바다공동체 ‘오션’ 연구팀이 한국 연안의 야생동물구조치료센터에서 수집한 피해 실태 자료와 언론 보도자료, 온라인 플랫폼(www.naturing.net) 자료, 직접 관찰 기록 등을 토대로 이뤄졌다. &lt;br&gt;&lt;br&gt;연구 결과에 따르면 지난 20년(2003∼2023년) 동안 바닷새류, 바다거북류, 어류, 해양포유류 등 해양동물 77종에서 낚싯줄, 바늘, 폐어구 등 국내 해양쓰레기 얽힘 피해 사례 428건을 확인했다. &lt;br&gt;&lt;br&gt;‘해양쓰레기 얽힘’이란 해양 동물들이 바다 수면 위나 수중에 있는 낚시바늘, 비닐 등 쓰레기에 걸리거나 삼켜서 몸을 움직이거나 먹이를 먹는 데 지장을 받는 현상을 뜻한다. &lt;br&gt;&lt;br&gt;피해 사례는 2003년 1건 수준에서 2011년 15건 등 그 이후 한 해 10여건 대로 늘었고, 2017년 24건·2019년 47건 등을 기록한 후 2020년대엔 한 해 30~70여건의 피해가 확인됐다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IRF5GETDDJANLEHGOJOG2O67SA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 20년간(2003~2023년) 국내 연안에서 발생한 해양쓰레기 얽힘 피해 사례 추이./한국해양과학기술원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt; KIOST 생태위해성연구부 노희진 연구원은 “해양쓰레기에 의한 피해가 지난 20년간 매년 들쭉날쭉하면서 추세적으로 크게 증가했다”며 “해양쓰레기가 국내 연안의 생물다양성과 해양생태계를 위협하는 정도가 심화되고 있다는 뜻”이라고 말했다.&lt;br&gt;&lt;br&gt;연구는 또 쓰레기 유형과 재질을 분류하고 생물 분류군, 서식지, 섭식 전략에 따른 피해 양상을 분석하고, 국제자연보전연맹(IUCN)에 등재된 멸종위기종과 국내 해양보호생물에 대한 위험성도 평가했다.&lt;br&gt;&lt;br&gt;해안가나 얕은 수층에서 먹이 활동을 하는 괭이갈매기 등 바닷새는 낚싯줄과 바늘로 인한 피해를 많이 봤고, 바다거북과 돌고래 등 수중 먹이 활동을 하는 종은 폐어구 얽힘 피해가 주를 이룬 것으로 조사됐다. &lt;br&gt;&lt;br&gt;피해 해양생물의 13%(10종, 44건)는 푸른바다거북(Chelonia mydas), 세가락갈매기(Rissa tridactyla) 등 국제자연보전연맹(IUCN) 적색목록 멸종 우려종으로 확인됐다.&lt;br&gt;&lt;br&gt;KIOST 측은 “이같은 연구 결과는 국제학술지인 ‘Marine Pollution Bulletin’ 2월호(온라인)에 게재됐다”며 “해양쓰레기 문제에 관한 관심을 환기시키는 계기가 됐으면 좋겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>한화 전설도 ‘갸웃’... ‘돈먹는 하마’ 전락 청주야구장, 또 보수  </title>
-      <link>https://www.chosun.com/national/regional/chungcheong/2025/03/12/B4ILKULWSJEM3PBZOUQYS64VEU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2025/03/12/B4ILKULWSJEM3PBZOUQYS64VEU/</guid>
-      <dc:creator>신정훈 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 12 Mar 2025 08:26:18 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VBER62WJEVMT3PC744UQDNA3NQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 8일 오후 청주야구장에서 열린 KBO리그 시범경기 두산 vs 한화전 모습./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;뜯고 또 고쳐 쓰는 46년 된 청주야구장을 청주시가 또 보수에 나선다. 이번엔 4억원을 들인다. &lt;br&gt;&lt;br&gt;청주시는 서원구 사직동 청주야구장의 시설을 개선한다고 12일 밝혔다. 시는 냉난방기 시설, 파손된 관람석, 홈런망 등을 교체한다. 특히 그동안 규모가 작고 어두운 데다 고장이 잦다는 지적이 끊이지 않았던 전광판도 가로 10미터 세로 1.4미터 규모 LED 전광판으로 교체한다. &lt;br&gt;&lt;br&gt;시는 이달 실시설계에 착수하고 4월에 공사를 시작해 6월까지 시설 개선을 마무리할 계획이다. &lt;br&gt;&lt;br&gt;하지만 이번 시설 보수를 두고 시민과 야구계 모두 시선이 곱지 않다. 십수 년 동안 쏟아부은 혈세만 수백억인데 효과는 크지 않기 때문이다. &lt;br&gt;&lt;br&gt;청주 야구장은 1979년 지어졌다. 46년의 세월이 흐른 만큼 시설도 낡았다. 비가 조금만 내려도 ‘갯벌’처럼 물이 고였고, 규모도 작아 홈런도 많이 나왔다. 투수들은 한국의 ‘쿠어스 필드’라고 부르며 청주구장을 투수들의 무덤이라고 꼽았다. 특히 부상 위험성도 커 프로야구 경기를 치르기에는 부족하다는 지적이 끊이지 않았다. &lt;br&gt;&lt;br&gt;이에 청주시는 2013년 42억원을 들여 인조 잔디를 깔아 배수 문제 개선에 나섰고, 관중석도 7400여 석에서 1만 500석으로 늘렸다. 2015년에는 9억 7000만원을 들여 청주야구장 외야 좌우 펜스를 100미터, 중앙 펜스까지 115미터로 이전보다 각각 2미터와 5미터가량 늘렸다. 2016년에는 1층 더그아웃 확장을 위해 8억원, 2018년에는 관람석 우레탄 교체와 조명 타워 교체를 위해 28억원을 썼다. 지난해에도 19억원을 들여 또다시 인조 잔디를 교체하는 등 2007년부터 지금까지 170억원이 넘는 혈세를 쏟아부었다.&lt;br&gt;&lt;br&gt;청주시가 땜질식으로 매년 야구장 보수 공사에 수억원을 쏟아붓는 이유는 프로야구 한화이글스 경기를 유치하기 위해서다. &lt;br&gt;&lt;br&gt;청주야구장은 한화이글스 제2 홈구장으로 사용하고 있다. 충청권 유일 야구단인 한화이글스 팬이 청주에도 많기 때문이다. 청주시도 이 때문에 매년 한화이글스 경기를 요청하는 것이다. &lt;br&gt;&lt;br&gt;하지만 대부분 경기는 대전 야구장에서 치러지고 청주에서는 매년 고작 5~7경기만 치러진다. 2016년과 2017년 각 6경기, 2018년과 2019년 각 7경기가 치러졌다. 코로나 시기에는 아예 경기가 없었다. 대대적인 시설 개선에 나섰던 지난해에도 고작 5경기를 치른 것이 전부다. 이유는 프로야구 경기를 치르기에는 여전히 시설이 적합하지 않기 때문이다.&lt;br&gt;&lt;br&gt;중앙 펜스는 잠실야구장(125미터)보다 10미터나 짧다. 선수들의 신체 조건이 발달하면서 타구를 더욱 멀리 보낼 수 있게 됐고, 펜스를 늘렸음에도 청주야구장은 여전히 소규모 구장으로 인식되고 있다. 또 선수들의 휴식 공간 부족, 지하에 있는 불펜, 미끄러운 인조잔디 등은 선수들의 경기력에도 악영향을 미치고 있다. &lt;br&gt;&lt;br&gt;실제 지난 8일과 9일 청주야구장에서 치러진 두산과의 시범경기 2연전에서 아찔한 상황이 발생했다. 한화의 올해 성적의 핵심으로 평가받는 플로리얼 선수가 수비 도중 미끄러졌다. 다행히 부상으로 이어지지는 않았지만, 선수단은 가슴을 쓸어내려야 했다. &lt;br&gt;&lt;br&gt;한화이글스 한 관계자는 “청주구장의 인조잔디가 미끄러워서 발이 밀린 것 같다”며 “부상으로 이어지지 않았지만, 당시에는 깜짝 놀랐다”고 말했다. &lt;br&gt;&lt;br&gt;올해도 청주시는 한화이글스 구단에 예정된 홈경기 73경기 중 6경기를 청주야구장에서 치러 줄 것을 요구했다. &lt;br&gt;&lt;br&gt;하지만 한화이글스 구단은 냉랭한 반응이다. 우선 청주 경기 3연전 기간 동안 선수단의 컨디션 문제가 크다. 홈경기라고는 하지만 원정 경기와 같은 상황이기 때문이다. 또 낡은 시설은 선수단의 부상 위험도 높인다. 게다가 3연전 기간에 5억원에 가까운 손실이 빚어진다. &lt;br&gt;&lt;br&gt;한화이글스 구단 관계자는 “올해 대전 홈구장이 첫선을 보이기 때문에 대전구장 운영에 집중하고 있다”며 “아직 청주 경기를 논의하지는 않았지만 선수단 안전, 컨디션 문제 등 고려할 부분이 많다”고 말했다. &lt;br&gt;&lt;br&gt;청주시는 프로야구 외에도 아마 야구인들을 위한 시설 개선이라는 입장이다. &lt;br&gt;&lt;br&gt;청주시 관계자는 “한 달 전 대관 예약을 신청받는데 이미 다음 달 구장 대관이 완료됐다”며 “시설 개보수를 통해 아마 야구인들에게 청주구장은 매우 훌륭한 시설이다”라고 말했다. &lt;br&gt;&lt;br&gt;한화이글스 전설 송진우 전 한화 투수코치도 다소 아쉽다는 입장이다. &lt;br&gt;&lt;br&gt;송 전 코치는 “청주야구장은 휴게 시설조차 없고 팬이 야구를 관람하기에 교통도 불편하고 좌석도 비좁다”며 “응원단 쪽은 계단 경사가 급해 관람객들이 위험해 보이기도 한다”고 지적했다.&lt;br&gt;&lt;br&gt;그러면서 “야구장은 팬과 선수단 모두가 하루를 즐길 수 있어야 하는데 지속된 개보수만으로 청주야구장을 운영하는 것은 한계가 있는 것 같다”면서 “프로야구단을 위해서만이 아니라 야구 저변 확대를 위해서라도 청주시가 조금 더 관심을 기울여 줬으면 좋겠다”고 했다. &lt;br&gt;&lt;br&gt;청주시는 청주야구장을 포함, 낙후된 체육시설 활용 방안을 고민하기 위해 ‘종합스포츠 콤플렉스 확충을 위한 중장기 계획 수립 용역’을 진행 중이다. 결과는 오는 8월 중 나올 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>법원, 대우조선해양건설 ‘회생절차 개시’ 결정</title>
-      <link>https://www.chosun.com/national/court_law/2025/03/12/EIROHPEBBNCMVCIHIKH4QZLRZA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/03/12/EIROHPEBBNCMVCIHIKH4QZLRZA/</guid>
-      <dc:creator>수원=김수언 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 12 Mar 2025 08:28:50 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7YDB7VX5DKMYDF245S3FGZMH2Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대우조선해양건설 로고. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;법원이 경영난을 겪고 있는 대우조선해양건설에 대한 회생절차 개시 결정을 내렸다.&lt;br&gt;&lt;br&gt;수원회생법원 제51부(재판장 김상규 법원장)는 12일 오후 이같이 결정했다고 밝혔다. 대우조선해양건설이 지난달 25일 수원회생법원에 법정관리를 신청한데 따른 것이다.&lt;br&gt;&lt;br&gt;법원은 “서울회생법원에서 회생절차가 진행됐으나 예상치 못한 공동주택 신축공사 관련한 대규모 손해배상 청구 등으로 인해 자금 유동성이 다시 악화됐다”고 밝혔다.&lt;br&gt;&lt;br&gt;법원은 관리인을 선임하지 않는 ‘관리인 불신임’ 결정을 내렸다.&lt;br&gt;&lt;br&gt;대우조선해양건설의 주요 채권자들로 구성된 채권자협의회는 향후 회사와 재무구조 개선 등 회생절차 진행 전반에 걸쳐 협의하게 된다. 또 회생담보권자인 건설공제조합의 추천을 받아 선임될 구조조정 담당 임원(CRO)이 회사의 자금수지 등을 감독하게 된다고 법원은 밝혔다.&lt;br&gt;&lt;br&gt;회생절차 개시에 따른 채권 신고 기간은 오는 27일까지, 채권 조사 기간은 다음달 10일까지다. 회생계획안 제출 기한은 내달 25일까지다.&lt;br&gt;&lt;br&gt;대우조선해양건설은 2022년 12월 서울회생법원에 법인 회생절차를 신청해 2023년 2월 회생 개시 결정을 받고 같은 해 11월 회생계획안을 인가 받았다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>법무장관 대행 “尹 구속취소 법원 결정 부당...본안서 다툴 예정”</title>
@@ -941,41 +974,6 @@
       <description/>
       <pubDate>Wed, 12 Mar 2025 07:40:28 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WFIBUWAJQBEK3PXOB2SXZ576UM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김나미 체육회 사무총장 내정자. / 조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대한체육회(회장 유승민)가 출범 후 105년 만에 처음으로 여성 사무총장을 발탁했다.&lt;br&gt;&lt;br&gt;체육회는 12일 신임 사무총장에 김나미(54) 전 국제바이애슬론 부회장을 임명했다. 27일 체육회 1차 이사회에서 동의 절차를 마치면 정식 취임하는 김나미 내정자는 알파인스키 국가대표 출신으로 평창 동계올림픽 유치위원회 위원과 국제바이애슬론연맹(IBU) 부회장을 지내며 국제 스포츠 무대에서 행정 경험을 쌓았다. &lt;br&gt;&lt;br&gt;대한철인3종협회 부회장과 체육인재육성재단 사무총장 등도 역임했다. 여성이 체육회 실무 총책임자인 사무총장을 맡은 건 1920년 조선체육회(대한체육회 전신)를 포함해 105년 만에 처음이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QMNB3RPXLJGIRJ3OCWFQFM4ZEQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김택수 진천선수촌장 내정자. / 조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;체육회는 신임 국가대표선수촌장에 김택수(55) 전 대한탁구협회 실무부회장을 내정했다. 김택수 선수촌장 내정자는 한국 탁구를 대표하는 스타 출신으로, 1992년 바르셀로나 올림픽 남자 복식 동메달을 획득했다. &lt;br&gt;&lt;br&gt;2004년 아테네 올림픽 때는 코치로 나서 유승민 회장의 남자 단식 금메달을 지휘했다. 지난해에는 부산 세계탁구선수권대회 사무총장을 맡아 성공적으로 대회를 치러냈다. &lt;br&gt;&lt;br&gt;유승민 회장은 “김나미 사무총장 내정자는 동계스포츠 전문가이자 국제 스포츠계에서 다양한 인사들과 긴밀한 교류를 이어왔고, 풍부한 역량을 바탕으로 향후 대한체육회의 발전과 주요 사업 추진에 큰 역할을 할 것”이라고 말했다.&lt;br&gt;&lt;br&gt;또 김택수 선수촌장 내정자에 대해선 “지도자 경력과 함께 다년간 행정 경험을 가진 분으로 선수촌을 한 단계 도약시킬 적임자”라고 밝혔다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>선거법 2심 선고 2주 앞두고.... 이재명, 위헌 심판 제청 또 신청  </title>
-      <link>https://www.chosun.com/national/court_law/2025/03/12/7ECQZDFWEBHJ7IUBRT24KEUA2E/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/03/12/7ECQZDFWEBHJ7IUBRT24KEUA2E/</guid>
-      <dc:creator>방극렬 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 12 Mar 2025 07:32:22 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UQLJHTX7NZNRJFSJKG4HMFN5O4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이재명 더불어민주당 대표가 지난달 26일 서울고등법원에서 열린 공직선거법 위반 사건 2심 결심 공판에 출석하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이재명 더불어민주당 대표가 공직선거법 위반 사건 2심 선고를 앞두고 재판부에 ‘위헌법률심판 제청’을 재차 신청한 것으로 12일 전해졌다. 지난달 이 사건 재판 중 “현행 선거법은 위헌”이라며 한차례 신청한데 이어 변론 종결 후에도 추가로 비슷한 신청을 낸 것이다. 법조계와 정치권에선 “최대한 선고를 지연하려는 의도”라는 비판이 나왔다.&lt;br&gt;&lt;br&gt;이 대표 측은 전날 선거법 사건을 심리하는 서울고법 형사6-2부(재판장 최은정)에 위헌법률심판 제청 신청서를 제출했다. 1심에서 징역 1년에 집행유예 2년이 선고된 자신의 허위 사실 유포 혐의와 관련한 선거법 250조 1항이 위헌이니 재판을 멈추고 헌법재판소에 판단을 구해달라는 것이다. 해당 조항은 ‘당선 목적으로 연설·방송·신문 등 방법으로 출생지·신분·경력·행위 등에 대해 허위 사실을 공표하면 5년 이하 징역 또는 3000만원 이하 벌금에 처한다’고 규정하는데, 이중 어느 부분이 위헌이라고 주장했는지는 알려지지 않았다.&lt;br&gt;&lt;br&gt;앞서 이 대표 측은 지난달 4일에도 2심 재판부에 동일한 조항에 대해 위헌법률심판 제청을 신청했었다. 당시엔 해당 조항의 ‘행위’ 부분에 대해 “지나치게 불명확하고 포괄적이라 표현의 자유를 침해한다”고 했다. 그러면서도 “선거법 재판은 지연되지 않을 것”이라고 했다. 이 대표 선거법 2심 재판은 지난달 26일 종결돼 오는 26일 선고가 예정돼 있다.&lt;br&gt;&lt;br&gt;법조계에서는 “이 대표가 2심 선고를 약 2주 남겨두고 변수를 만들어 재판을 미루기 위해 위헌법률심판 제청을 다시 신청한 것 아니냐”는 지적이 나왔다. 법원이 이 대표 신청을 받아들여 위헌법률심판을 제청하면 헌재에서 위헌 여부가 결론날 때까지 재판은 중단된다. 반면 재판부가 선고 당일 판결과 함께 신청을 기각할 수도 있다. 이미 헌재가 2021년 이 조항에 대해 재판관 전원 일치 의견으로 합헌 결정을 내렸기 때문에, 위헌 소지가 크지 않다는 게 중론이다.&lt;br&gt;&lt;br&gt;이에 대해 판사 출신 장동혁 국민의힘 의원은 “이 대표가 자신의 (선거법) 사건을 헌재로 끌고 가려는 건 재판을 지연시키기 위한 것”이라며 “위헌법률심판 제청 신청을 이용해 재판을 미루는 방법은 ‘민노총 간첩단’이 써먹었던 수법인데, 그들도 결국 징역 15년의 중형을 피하지는 못했다”고 말했다.&lt;br&gt;&lt;br&gt;민주당의 유력한 대선 후보인 이 대표가 2심에서 벌금 100만원 이상을 선고받고 대법원에서 그대로 판결이 확정될 경우 즉시 의원직을 상실하고, 다음 대선 출마도 불가능하다. 헌재가 윤석열 대통령을 탄핵 심판에서 파면할 경우 60일 내 조기 대선을 치러야 하는데, 이 대표 선거법 판결 확정 시점에 따라 출마 여부가 달라지게 된다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“기생충?” 한국인에게 자주 발견되는 머릿속 하얀 이물질 정체 </title>
-      <link>https://www.chosun.com/medical/2025/03/12/NBDCCOVCJRAONGGDQHIZV7SWUM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/medical/2025/03/12/NBDCCOVCJRAONGGDQHIZV7SWUM/</guid>
-      <dc:creator>이가영 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 12 Mar 2025 05:51:33 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SW44OG3MZZENRPDQQGTRT6EOI4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한국인 60대 여성의 엑스레이 사진에서 머리 부분에 흰색 이물질 수십개가 발견됐다. /﻿양성관 의정부백병원 가정의학과 과장 페이스북&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;60대 한국 여성의 머릿속에서 기생충처럼 보이는 수많은 이물질이 발견됐다. 이물질의 정체는 ‘금침’이었다. &lt;br&gt;&lt;br&gt;양성관 의정부백병원 가정의학과 과장은 최근 자신의 페이스북에 금침에 관한 글을 연이어 올렸다. 금실매선요법으로도 불리는 금침요법은 얇은 순금을 1㎝ 미만의 길이로 나눈 뒤 통증 부위에 주입하는 치료법이다. 금침이 뼈와 관절 주위 조직에 지속적인 자극을 줘 세포의 재생을 유도하고, 약해진 조직을 강하게 만들어 통증을 개선하는 데 도움을 주는 것으로 알려졌다. 하지만 이물질이 남아있는 경우 염증 악화와 2차 감염 등으로 이어질 수 있다. &lt;br&gt;&lt;br&gt;양 과장은 60대 여성의 머리 부분 엑스레이 사진을 공개하며 “환자에게서 1㎝ 크기의 수많은 이물질들이 보였다”며 “기생충? 전기칩? 외국이었다면, 특이한 환자 사례를 올리는 ‘케이스 리포트’에 해당하는 사진이었다”고 했다. &lt;br&gt;&lt;br&gt;하지만 한국 의사들은 헛웃음부터 짓는다며 양 과장은 “저 이물질은 기생충이나 전기선이 아니라 금침 자국이었다”고 했다. 다만 “위치가 독특했다. 주로 무릎이나 허리 등에서 자주 볼 수 있지만, 이번에는 머리였다”고 했다. &lt;br&gt;&lt;br&gt;양 과장은 “진단은 저 사진 한 장만으로 내릴 수 있었다”고 했다. 금침이 정수리 부분에 국한되었기 때문이다. 편두통이라면 한쪽에 금침이 치중되어 있고, 삼차신경통이면 눈쪽에서 금침이 발견됐을 것이고, 뇌암이나 뇌경색이었다면 환자가 멀쩡하게 걸어들어오지 못했을 것이라고 했다. &lt;br&gt;&lt;br&gt;양 과장이 내린 결론은 ‘긴장형 두통’이었다. 긴장하거나 걱정이 많아서 생기는 두통이었다. 이 말에 환자는 “머리 가운데가 자주 아파서 침도 맞아보고, 신경과에서 MRI도 찍었는데 아무 이상 없었다. 요즘 요양보호사 자격증 공부하고 나서부터 걱정이 더 많았다”며 “어쩜 그렇게 말씀을 속 시원하게 해주시냐”고 만족해했다고 한다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EFLBHOAWXRBYRO4GR37HVQLGJ4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;손과 무릎에서 금침이 발견된 사례가 ﻿의학학술지 ‘뉴잉글랜드 저널 오브 메디신(NEJM)에 실렸다. /﻿양성관 의정부백병원 가정의학과 과장 페이스북&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;양 과장은 “의학도 사람이 하는 일이라 지역마다 특색이 있다”며 “침 관련해서는 한국 의사가 전문가다. 자주 보기 때문”이라고 했다. 그러면서 의학 학술지 ‘뉴잉글랜드 저널 오브 메디신(NEJM)’에 실린 손, 무릎, 폐 등에서 발견된 금침 사례 사진을 올렸다. 그는 “미국과 유럽 중심의 NEJM에서는 침 관련 영상이 자주 특이 케이스로 올라오지만, 한국에서는 아주 평범한 경우”라며 “침으로 인한 기흉(폐에 구멍이 생겨 공기가 새는 질환)은 매우 흔하고, 심지어 위 내시경에서 침이 나오는 경우도 있다”고 했다. &lt;br&gt;&lt;br&gt;양 과장의 글은 다른 소셜미디어에서도 화제가 됐다. 수십만 회 조회되고, 수백 개의 댓글이 달렸다. 양 과장은 “물론 이 글을 보고도 끝까지 금침을 맞겠다고 고집하는 사람도 있겠지만, 분명 상당수 사람은 금침에 대한 불신을 갖게 될 것”이라며 “내 글을 읽고 1만명만 금침을 맞지 않는다면 미래에 수백 명의 사람이 금침으로 고통과 후유증을 겪지 않을 것”이라고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/YAYY5GOQVNE6HHEEDG6DJTVJRY.jpg?width=400&amp;height=225&amp;auth=5e9e2e510843e44d1492e4c25ca4dd28e658224169487dab24b0a184d15af280&amp;smart=true" type="image/jpeg" height="225" width="400">
-        <media:description type="plain">손과 무릎에서 금침이 발견된 사례가 ﻿의학학술지 ‘뉴잉글랜드 저널 오브 메디신(NEJM)에 실렸다. /﻿양성관 의정부백병원 가정의학과 과장 페이스북</media:description>
-        <media:credit role="author" scheme="urn:ebu"/>
-      </media:content>
-    </item>
-    <item>
-      <title>국과수 “휘성 사인 알 수 없어…정밀 검사 결과 나와야"</title>
-      <link>https://www.chosun.com/national/incident/2025/03/12/RROR645UNJBEJKONN3PYQCVNBM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/03/12/RROR645UNJBEJKONN3PYQCVNBM/</guid>
-      <dc:creator>안준현 기자, 안태민 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 12 Mar 2025 05:35:23 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/D4LW3JGVC5HTZFSUICM4E7ZCZ4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 10일 서울 광진구 자택에서 숨진 채 발견된 가수 휘성(43·본명 최휘성)에 대해 국립과학수사연구소가 12일 부검을 했으나 ‘사인 미상’이라는 1차 소견이 나왔다고 밝혔다.&lt;br&gt;&lt;br&gt;서울 광진경찰서는 이날 최씨의 시신을 부검한 국과수로부터 ‘사망 원인을 알 수 없다’는 1차 소견을 전달받았다고 밝혔다. 국과수는 “사인 판단 보류에 가깝다”고 했다.&lt;br&gt;&lt;br&gt;최씨의 명확한 사인을 밝히기 위해선 정밀 검사 결과가 나와야 한다. 정밀 검사 결과가 나오기 위해선 통상 2주에서 최대 4주가 소요된다.&lt;br&gt;&lt;br&gt;최씨는 지난 10일 서울 광진구 자양동의 한 아파트에서 심정지 상태로 발견돼 사망 판정을 받았다. 발견 당시 최씨의 주변에는 주사기가 놓여져 있었던 것으로 전해졌다.&lt;br&gt;&lt;br&gt;한편 이날 최씨의 소속사 타조엔터테인먼트 측은 “오는 14일 삼성서울병원 장례식장에 최씨의 빈소를 차린다”고 밝혔다. 소속사 측은 “본래 가족들끼리 조용히 장례를 치르려 했으나 유가족이 고심한 끝에 최씨를 기억하고 사랑해주셨던 많은 분들과 함께 추모의 시간을 마련하고자 한다”고 했다.&lt;br&gt;&lt;br&gt;최씨의 발인은 오는 16일, 장지는 광릉추모공원.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/PZDIYSMD3ZASFMUHHC2ACVJMLA.jpg?width=1704&amp;height=958&amp;auth=caf8cb60e6f628078e27db0d1af193c7d1111d6fff348f4588a1a6ded0e97fee&amp;smart=true" type="image/jpeg" height="958" width="1704">
-        <media:description type="plain">가수 휘성이 7일 서울 여의도 국회 의원회관에서 열린 '제7회 대한민국 예술문화인대상'에 음반프로듀서부문 수상자로 참석하고 있다. 휘성은 지난달 '에이미 논란'이 불거진 뒤 처음으로 카메라 앞에 모습을 드러낸다. 그는 에이미의 폭로글 당사자로 지목되며 억울한 누명을 쓴 바 있다. 2019.5.7/뉴스1</media:description>
-        <media:credit role="author" scheme="urn:ebu"/>
-      </media:content>
     </item>
   </channel>
 </rss>
