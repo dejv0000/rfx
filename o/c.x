@@ -13,6 +13,27 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>중고 외제차 29대 사들여 수억원 보험사기극 벌인 41명 일당 검거</title>
+      <link>https://www.chosun.com/national/national_general/2025/03/14/JJ57IZKL2BDUBLIOIIQA5DYHX4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/03/14/JJ57IZKL2BDUBLIOIIQA5DYHX4/</guid>
+      <dc:creator>광주광역시=진창일 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 14 Mar 2025 04:58:49 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3LFQWT63QRF76QSZAD7W65KDCU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;광주경찰청 전경. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;사고 이력이 많은 중고 외제차를 싸게 사들여 수억원 대 보험사기극을 벌인 41명 일당이 경찰에 검거됐다.&lt;br&gt;&lt;br&gt;광주경찰청 교통범죄수사팀은 14일 외제차를 타고 다니며 고의 교통사고를 내는 수법으로 수억원 상당의 보험금을 챙긴 혐의(보험사기방지특별법 위반)로 임모(38)씨와 전모(36)씨 등 41명을 검찰에 송치했다고 밝혔다.&lt;br&gt;&lt;br&gt;경찰에 따르면 임씨 등은 2022년 7월부터 2023년 8월까지 총 55회에 걸쳐 광주광역시와 전남 등 일대에서 진로를 변경하는 차량을 골라 고의로 들이받는 등 사고를 낸 뒤 피해를 입었다며 보험사로부터 합의금, 미수선 수리비 등 명목으로 8억1530만원 상당의 보험금을 챙긴 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;경찰은 “41명 중 주범은 4~5명으로 인지능력이 떨어지는 지인들을 끌어 모아 차량에 동승시키거나 직접 운전을 시킨 뒤 사고를 내도록 했고, 받아낸 보험금은 자신들이 더 챙겨가는 형태로 범행을 저질렀다”고 설명했다.&lt;br&gt;&lt;br&gt;이들은 중고차 업체로부터 사고 이력이 많은 외제차를 한번에 3~4대씩 싸게 구매한 뒤 자동차 단기 보험에 가입했고, 1~3차례 고의로 사고를 낸 뒤 폐차하는 수법으로 범죄 수익금을 나눠가졌다. 전씨는 차량을 반복해 구매하는 과정에서 차량 대금을 제공하면서 범행을 주도했다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “임씨 등은 공범들에게 진로를 변경하는 차량을 어떻게 들이받을 지 사고 방법을 연습시키는 등 치밀하게 범행을 준비했다”며 “사소한 법규위반도 고의사고의 표적이 될 수 있다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/3LFQWT63QRF76QSZAD7W65KDCU.jpg?width=719&amp;height=516&amp;auth=6e2d3936192cf73dd9ba09229343cb0ee44171c03d5c2d649cdad18241fd3a84&amp;smart=true" type="image/jpeg" height="516" width="719">
+        <media:description type="plain">광주경찰청 전경. /뉴시스</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>김수현 ‘깻잎쌈’ 사진 올렸다가…악플 시달린 ‘130만’ 의사 유튜버</title>
+      <link>https://www.chosun.com/national/national_general/2025/03/14/F4DZW6QUANGVFNZMSHBKIFDY6Q/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/03/14/F4DZW6QUANGVFNZMSHBKIFDY6Q/</guid>
+      <dc:creator>김가연 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 14 Mar 2025 04:56:50 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AWYDIWHZMRAAZFPQOINX427SBA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;배우 김수현. /MBC 유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;유튜브 채널을 운영하는 한 의사가 현재 배우 고(故) 김새론과 ‘미성년 교제 의혹’에 휩싸인 배우 김수현의 사진을 썼다가 사과하는 일이 벌어졌다.&lt;br&gt;&lt;br&gt;12일 유명 유튜브 채널 ‘닥터프렌즈’에는 ‘라면이 먹고 싶다면, 고기와 함께 깻잎쌈을 해보세요’라는 내용의 글이 게재됐다. 이 채널은 내과 전문의 우창윤, 이비인후과 전문의 이낙준, 정신건강의학과 전문의 오진승이 만든 채널로, 구독자 수 133만명을 보유하고 있다.&lt;br&gt;&lt;br&gt;문제가 된 글은 우창윤씨가 작성했다. 그는 “식이섬유와 단백질을 함께 섭취하면 정제 탄수화물의 흡수 속도가 느려져 혈당 상승이 적어진다. 탄단지 균형도 맞출 수 있고, 고추나 마늘을 함께 먹으면 더욱 좋다”고 설명하면서 최근 방송된 MBC 예능프로그램 ‘굿데이’에서 김수현이 라면을 깻잎에 싸 먹는 장면을 함께 첨부했다.&lt;br&gt;&lt;br&gt;그러면서 “아내가 김수현님 팬이라 함께 보다가 쌈을 드시는 모습이 훌륭하셔서 공유해 본다”고 덧붙였다.&lt;br&gt;&lt;br&gt;하지만 이후 비판 글이 잇따랐다. 네티즌 사이에선 김새론과 관련한 의혹이 해소되지 않은 상황에서 김수현의 사진을 쓴 것이 경솔한 것 아니냐는 비판이 나왔다. &lt;br&gt;&lt;br&gt;우씨는 결국 게시물을 삭제하고, 유튜브 커뮤니티를 통해 사과했다. 그는 “현재 논란이 되고 있는 배우와 어떤 관계도 없고 두둔할 생각도 전혀 없다”고 했다. 이어 자신의 하루 일과를 나열하며 “논란을 전혀 알지 못하고, 그저 제가 늘 하던 대로 식단에 대한 콘텐츠를 올렸던 것”이라고 말했다.&lt;br&gt;&lt;br&gt;그는 “게시물을 올리고 그날 예정된 라이브와 업무들을 마치고, 논란을 알게 됐다”라며 “사안을 확인한 다음 문제의 게시글을 삭제했고, 해명글을 올렸다”고 설명했다.&lt;br&gt;&lt;br&gt;우씨는 해명한 후에도 잇따르는 악성 댓글에 시달리고 있다고 토로했다. 그는 “가족들이, 특히 아내가 많이 힘들어한다”라며 “글을 쓴 건 저니까 스트레스받지 말라고 해도, 자꾸 자책을 하면서 댓글들을 보고 마음 아파하고 있다. 오해를 푸시길 바란다”고 호소했다.&lt;br&gt;&lt;br&gt;김수현 측은 이날 공식 입장문을 통해 “김수현씨와 김새론씨는 김새론씨가 성인이 된 이후인 2019년 여름부터 2020년 가을까지 교제했다”며 “김수현씨가 미성년자 시절의 김새론씨와 사귀었다는 것은 사실이 아니다”라고 밝혔다. 김수현 측이 고인과의 교제 사실을 인정한 것은 이번이 처음이다.&lt;br&gt;&lt;br&gt;김수현이 김새론의 경제적 문제를 외면했다는 의혹에 대해서는 “사실이 아니다”라며 “당시 골드메달리스트는 김새론씨 개인이 감당할 수 없는 남은 채무 전액을 변제했다. 골드메달리스트는 음주 운전 사건 이후 김새론씨의 배우 활동과 관련된 각종 위약금, 음주 운전으로 인해 피해를 입은 상인들에 대한 손해 배상 등을 김새론씨와 함께 해결해 나갔다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>김수현 측 “故김새론 성인된 후 교제…경제적 문제 외면 안했다”</title>
       <link>https://www.chosun.com/national/national_general/2025/03/14/RUMDBHQ4CVD6RG6SQOT5KASCEY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/03/14/RUMDBHQ4CVD6RG6SQOT5KASCEY/</guid>
@@ -851,16 +872,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KWEUDSJQFJEKBAIKLHZEKVF6QE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;연애 프로그램 '나는 솔로'에 출연한 25기 광수./SBS플러스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;연애 프로그램에 출연한 의사가 인구 약 3만1000명이 사는 강원도 인제를 떠날 수 없는 이유를 밝혀 화제다. &lt;br&gt;&lt;br&gt;지난 12일 방송된 ENA와 SBS 플러스 ‘나는 SOLO(나는 솔로)’에서는 25기 남성 출연자들의 직업이 공개됐다. &lt;br&gt;&lt;br&gt;눈길을 끈 출연자는 광수였다. 광수는 통상 직업과 나이, 사는 곳을 위주로 밝히는 자기소개에서 “하는 일이 딱히 중요하지 않다고 생각한다”며 “돈 버는 일보다 제가 의미 있게 했던 일들을 설명하겠다”고 입을 열었다.&lt;br&gt;&lt;br&gt;이어 “인공지능을 개발했지만 상용화는 되지 않았고 사진, 그림 등 예술을 즐긴다”고 말했다. &lt;br&gt;&lt;br&gt;광수가 끝내 직업을 밝히지 않고 자기소개가 끝나자 출연자들의 질문이 쏟아졌다.&lt;br&gt;&lt;br&gt;광수는 “정확히 직업이 무엇이냐”는 거듭된 질문에 다소 머뭇거리면서 “직업을 별로 자랑스럽게 생각하지는 않는다. 개업 의사다”라고 했다. “정형외과 의사냐”는 질문에는 “일반 의사”라고 답했다.&lt;br&gt;&lt;br&gt;강원도 인제에 거주하는 광수에게 “그곳을 떠날 수 있냐”는 여성 출연자의 질문이 나왔다. 그는 “떠날 수 없다”고 단호히 말했고 “주말 부부” 가능성도 언급했다. 그러면서 “(인제로) 오는 것은 상관없지만 서울에 가야 하면 주말에만 갈 수 있다”고 했다.&lt;br&gt;&lt;br&gt;또 광수는 “이전에 계셨던 의사가 돌아가신 후 혼자만 남았다”며 “동네에 유일하게 남은 의사 선생님이 저”라고 소개했다.&lt;br&gt;&lt;br&gt;이어 “동네 분들 제일 큰 걱정은 제가 서울 여자 만나서 인제를 떠나는 것”이라며 “하루에 평균 100명 이상 진료를 한다. 지난해에는 환자를 2만6000명 봤다”고 했다. &lt;br&gt;&lt;br&gt;아울러 광수는 연애를 하더라도 평일에는 사는 지역을 떠날 수 없다는 점을 강조하며 연간 수입에 대해 대략 5억원이 넘는다고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LB4U4MITJ5KY7LYPEZQAPBWU34.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울의 한 대학병원에서 의료진이 이동하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최근 지방에서는 의사 인력난이 심화하고 있다. 특히 의사가 없는 지역에서 의료를 책임지는 공중보건의사(공보의)도 줄어드는 상황이다.&lt;br&gt;&lt;br&gt;실제로 지방의료원은 고액의 연봉을 내걸고도 의사 구인에 어려움을 겪고 있는 것으로 나타났다. &lt;br&gt;&lt;br&gt;경남 산청군의료원은 2022년 11월부터 내과 전문의 채용을 위해 연봉 3억6000만원을 책정했지만 1년 넘게 걸려서야 내과 전문의를 구했다. 충북 단양군보건의료원도 응급의학과 전문의를 구하지 못해 애초 3억원 후반대였던 연봉을 4억2240만원까지 책정했으나 적임자를 구하지 못했다.&lt;br&gt;&lt;br&gt;이에 정부는 다음 달 ‘시니어 의사 활용 지원 사업’ 공모를 진행해 퇴직했거나 퇴직 예정인 ‘시니어 의사’ 110여 명을 지방의료원과 국립대병원, 지역 보건소 및 보건지소에 선발, 배치할 계획이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>서천 ‘묻지마 살인’ 34세 이지현 신상공개</title>
-      <link>https://www.chosun.com/national/regional/chungcheong/2025/03/13/NJZRI2JL7NEVBJNZRHC5YGC2NU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2025/03/13/NJZRI2JL7NEVBJNZRHC5YGC2NU/</guid>
-      <dc:creator>서천=김석모 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 13 Mar 2025 01:00:41 +0000</pubDate>
-      <content:encoded>야간에 산책 중이던 40대 여성을 별다른 이유 없이 살해한 이지현(34)의 신상 정보가 13일 공개됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XLP57E3HCBFSFGPRXBG6N2A3V4.png"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;앞서 충남경찰청은 지난 7일 신상정보공개심의위원회를 열고 이지현의 이름, 나이, 사진 등을 충남경찰청 누리집에 30일간 공개하기로 결정했다.&lt;br&gt;&lt;br&gt;심의위에는 경찰과 법조계·학계·의료계 등 외부 위원을 포함해 7명으로 구성됐다. 이들은 범죄의 잔인성, 피해의 중대성, 국민의 알권리, 재범방지 등 특정중대범죄 피의자 등 신상정보 공개에 관한 법률이 규정한 요건에 충족한다고 판단해 신상 공개를 결정했다.&lt;br&gt;&lt;br&gt;이지현은 지난2일 오후 9시45분쯤 충남 서천군 서천읍 사곡리 한 도로변에서 산책을 나온 A(여·40대)씨를 흉기로 찔러 살해하고 달아났다. 이튿날 자택에서 검거된 이지현은 경찰 조사에서 “최근에 사기를 당해서 돈을 많이 잃었고 세상이 도와주지 않아 힘들게 느껴졌다”면서 “흉기를 들고 나갔는데 A씨를 발견하고 충동적으로 범행을 저질렀다”고 말했다.&lt;br&gt;&lt;br&gt;하지만 경찰은 이지현이 계획적으로 범행을 저지른 것으로 판단했다. 경찰 조사결과 이지현은 사전에 흉기를 준비했고, 범행 현장 인근을 1시간 넘게 돌아다니며 범행대상을 찾아다닌 것으로 드러났다. 이지현의 휴대전화에선 세상에 대한 원망과 함께 ‘사람을 죽이겠다’는 메모글도 확인됐다.&lt;br&gt;&lt;br&gt;이지현은 살인 혐의로 지난 5일 구속됐고, 경찰은 보강 수사를 거쳐 지난 11일 검찰에 송치했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/BQOCEQHDOBD7HKXEXCS7JYE5QM.jpg?width=388&amp;height=291&amp;auth=4bb346a02cbd35ac57e8de344f8fa47332665539657743bd59f0400135173e82&amp;smart=true" type="image/jpeg" height="291" width="388"/>
-    </item>
-    <item>
       <title>이젠 주민등록증도 스마트폰 속으로…모바일 주민등록증 내일부터 전국 발급</title>
       <link>https://www.chosun.com/national/national_general/2025/03/13/EOHZERS2HNA7FFJX7ZTNGC74HE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/03/13/EOHZERS2HNA7FFJX7ZTNGC74HE/</guid>
@@ -895,15 +906,6 @@
       <description/>
       <pubDate>Thu, 13 Mar 2025 02:19:07 +0000</pubDate>
       <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JRGGFM5LCXAKBGRBF2JAHFBCCE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원 로고. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인터넷에 서울 대학가에서 살인을 하겠다는 예고 글을 올린 20대 남성이 항소심에서 징역형을 선고받고 법정 구속됐다. &lt;br&gt;&lt;br&gt;인천지법 형사항소3부(재판장 최성배)는 위계공무집행방해와 협박 등 혐의로 기소된 A(29)씨에게 징역 8개월에 집행유예 2년을 선고한 원심을 파기하고, 징역 4개월을 선고했다고 13일 밝혔다. 항소심 재판부는 또 도주 우려를 이유로 A씨를 법정에서 구속했다. &lt;br&gt;&lt;br&gt;재판부는 “게시글로 인해 경찰은 막대한 인력을 투입하지 않을 수 없고, 그만큼 다른 곳의 치안 공백이 발생할 우려가 크다”며 “다수의 시민들도 상당 시간 불안감과 공포감 속에 생활해야 한다”고 했다. 이어 “피고인의 재범 방지와 교화 가능성에만 초점을 맞춰 관대한 양형이 되풀이된다면, 유사 범죄를 억제하는 예방적 효과는 기대하기 어려울 것”이라고 했다. &lt;br&gt;&lt;br&gt;재판부는 “피고인이 범행을 모두 인정한 점, 협박 내용을 실현할 의사는 없었던 점, 게시글을 삭제하고 경찰에 자진 신고한 점, 불안장애 등으로 건강이 좋지 못했던 점 등을 고려했다”고 했다. &lt;br&gt;&lt;br&gt;A씨는 지난 2023년 8월 5일 오후 5시 48분쯤 인천시 부평구 자택에서 회원 수 2만5500명 규모의 한 인터넷 대학생 커뮤니티에 서울의 한 대학교 캠퍼스 인근에서 불특정 다수인을 상대로 살인을 하겠다는 글을 올려 협박한 혐의 등으로 기소됐다. &lt;br&gt;&lt;br&gt;A씨는 “다주겨버린다”(다 죽여버린다)는 제목의 글에 “사제 총 만들었다. 깡통에 구멍 뚫린다”는 내용을 담아 커뮤니티 게시판에 글을 올린 것으로 조사됐다. &lt;br&gt;&lt;br&gt;한 커뮤니티 회원이 A씨의 글을 본 뒤 112에 신고했고, 경찰관들이 해당 대학교 인근에 출동하기도 했다. 당시는 ‘분당 흉기 난동’과 ‘신림동 흉기 난동’ 등 범죄가 잇따르던 시기였다. &lt;br&gt;&lt;br&gt;1심 법원은 지난해 5월 “피고인의 범행으로 경찰력의 낭비를 초래하는 등 죄책이 가볍지 않다”면서도 “피고인이 과거 처벌받은 전력이 없고, 피고인 가족이 선처를 탄원한 점 등을 고려했다”며 징역형의 집행유예를 선고했다. &lt;br&gt;&lt;br&gt;A씨는 양형이 무겁다며, 검찰은 너무 가볍다며 각각 항소했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>법주사 승려들 도박혐의 ‘벗었다’...법원, 무죄 선고</title>
-      <link>https://www.chosun.com/national/regional/chungcheong/2025/03/13/PPND2GZ6PBCQZB6NA4NOR5Z7JU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2025/03/13/PPND2GZ6PBCQZB6NA4NOR5Z7JU/</guid>
-      <dc:creator>신정훈 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 13 Mar 2025 02:10:32 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7J4T6KTWKBDWTAAGIE74JXUW6Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;청주지법 전경. /신정훈 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;도박 혐의를 받던 법주사 승려들이 1심에서 무죄를 선고받았다. &lt;br&gt;&lt;br&gt;청주지법 형사4단독 강현호 판사는 13일 도박 혐의로 재판에 넘겨진 승려 A씨 등 6명에게 죄를 입증할 증거가 부족하다며 무죄를 선고했다.&lt;br&gt;&lt;br&gt;A씨 등은 2018년쯤 충북 보은군 법주사 사찰 등지에서 3회에 걸쳐 도박한 혐의를 받는다. &lt;br&gt;&lt;br&gt;앞서 이들은 다른 승려 한 명과 함께 300만∼800만원의 벌금형으로 약식기소됐으나 이에 불복해 정식재판을 청구했다.&lt;br&gt;&lt;br&gt;강 판사는 “이 사건은 피고인들과 함께 도박했다는 인물이 범행 일시와 장소를 명확히 제보하면서 수사가 시작됐다”며 “그러나 주요 증거인 제보자 진술이 번복되고 일관성이 없어 신빙성이 떨어진다”고 설명했다. &lt;br&gt;&lt;br&gt;그러면서 “도박 잘하는 법을 검색하거나 강원랜드에서 다수의 현금을 인출한 내역이 휴대전화 포렌식 등을 통해 확인돼 도박했을 가능성이 의심되기는 한다”며 “하지만 공소사실로 특정된 날짜와 장소에서 도박했다는 점이 명확히 입증되지 않는 이상 무죄를 선고할 수밖에 없다”고 판시했다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[단독] 尹탄핵 집회서 ‘무전기로 경찰 폭행’ 민노총 조합원 재판행... 20일 첫 공판</title>
