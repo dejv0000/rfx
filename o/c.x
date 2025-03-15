@@ -13,6 +13,28 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>유정복 인천시장, “찢는 정치, 잇는 정치로 바꿔 나가겠다”</title>
+      <link>https://www.chosun.com/national/regional/2025/03/15/SUDKPQI6TFBQBL47MZMOEI6RMU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/03/15/SUDKPQI6TFBQBL47MZMOEI6RMU/</guid>
+      <dc:creator>인천=이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 15 Mar 2025 05:03:57 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UKHBY5MAHZI6FCJDK3E5PDYEE4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;유정복 인천시장이 15일 인천 남동구 샤펠드 미앙에서 열린 '대한민국 대통합, 찢는 정치꾼, 잇는 유정복' 출판 기념 저자와의 대화에서 인사말을 하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;유정복 인천시장이 15일 “국민 분열을 가속화하는 ‘찢는’ 정치를 대한민국 대통합을 위한 ‘잇는’ 정치로 바꿔나가겠다”고 강조했다. &lt;br&gt;&lt;br&gt;유 시장은 이날 인천시 남동구 샤필드 미앙에서 ‘대한민국 대통합, 찢는 정치꾼 잇는 유정복’ 출판 기념 ‘저자와의 대화’ 행사에서 이같이 밝혔다. &lt;br&gt;&lt;br&gt;유 시장은 “우리나라가 그동안 많이 발전해 왔지만, 심각한 갈등과 분열에 따른 국민들의 아픔과 고통이 심각하다”며 “국민 분열을 가속화하고 자신의 정치적 이익을 얻고자 하는 정치꾼이 아닌 잇는 정치로 대통합을 이뤄가겠다”고 했다. &lt;br&gt;&lt;br&gt;유 시장은 이번 책에 12·3 비상계엄에 대한 입장과 분권형 개헌의 필요성, ‘천원주택’ 등 인천시장으로서 추진한 저출생 극복 정책, 정치인으로서 걸어온 길 등을 담았다. &lt;br&gt;&lt;br&gt;유 시장은 책 서문에 “대한민국은 지역, 계층, 세대 간 심각한 분열이 있고 정치 이념에 따른 분열도 심각한데, 정치권의 잘못이 크다”며 “찢겨진 대한민국을 대통합시킬 리더가 요구되고 있다”고 했다. 이어 “국민 대통합을 통한 새로운 대한민국을 만드는 것이 시대정신이라면 그 책임 또한 마다하지 않겠다”고 했다. &lt;br&gt;&lt;br&gt;유 시장은 16일 오후 2∼5시 서울 강남구 갤러리카페 G아르체에서도 이번 책 출판 기념 ‘저자와의 만남’ 행사를 진행할 예정이다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>살인예고 글 올려 신고된 유튜버, 구속 기각되자 헌재 앞서 활동중 </title>
+      <link>https://www.chosun.com/national/2025/03/15/NW7DGKNBKFDXVBWSLDV6I2KQ2Q/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2025/03/15/NW7DGKNBKFDXVBWSLDV6I2KQ2Q/</guid>
+      <dc:creator>주형식 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 15 Mar 2025 04:10:43 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/W2VOLMJCBG24W2LMSAQ2Y7DZCE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;14일 서울 종로구 헌법재판소 정문을 경찰이 바리케이트를 설치하고 통제하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;40대 유튜버 A씨가 살인 예고 글을 올려 경찰에 신고됐지만, 헌재 앞에서 계속 유튜브를 찍으며 활동하고 있는 것으로 15일 알려졌다. 앞서 A씨는 헌재 앞에서 경찰의 바리케이드를 파손한 혐의(공용물건손상 등)로 지난달 23일 현행범으로 체포됐다. 경찰은 A씨에 대해 구속영장을 신청했으나 법원에서 기각됐다.&lt;br&gt;&lt;br&gt;15일 경찰에 따르면 유튜버인 40대 남성 A씨는 문형배 헌법재판소장 권한대행 등을 살해하겠다는 협박 글을 올려 경찰에 신고됐다. 그의 유튜브 채널 정보란에는 “윤석열 대통령님의 직무 복귀를 위해 목숨 걸고 싸우겠다”며 “우리 윤카(윤 대통령)께서 직무 복귀하시면 제 역할은 끝난다. 만약 그게 안 될 시에는 몇몇 죽이고, 분신자살하겠다”는 취지의 내용이 적혀있다. 지난 13일에는 “문행배(문 대행)가 이상한 짓을 할 때에, 변장 등을 하고 잔인하게 죽이겠다”는 내용의 글을 올리기도 했다.&lt;br&gt;&lt;br&gt;토요일인 15일 A씨는 헌재 정문 앞에서 경찰이 쳐놓은 바리케이드 앞을 오가며 라이브 방송을 한 것으로 알려졌다. 경찰 관계자는 “안전 사고 가능성이 있는지 면밀히 살피겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/W2VOLMJCBG24W2LMSAQ2Y7DZCE.jpg?width=5000&amp;height=3333&amp;auth=95c2dc9bf9408cb952ab8cdb51b5fbd9833fc46423428dc539f692831807b2e5&amp;smart=true" type="image/jpeg" height="3333" width="5000">
+        <media:description type="plain">14일 서울 종로구 헌법재판소 정문을 경찰이 바리케이트를 설치하고 통제하고 있다. /뉴스1</media:description>
+        <media:credit role="author" scheme="urn:ebu">뉴스1</media:credit>
+      </media:content>
+    </item>
+    <item>
       <title>尹측 “곽종근 변호사들까지 내란 몰이 동원…거대 야당이 배후 세력”</title>
       <link>https://www.chosun.com/national/court_law/2025/03/15/AXF5RSI5ZFARRAHL4BHB3XB7VA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/03/15/AXF5RSI5ZFARRAHL4BHB3XB7VA/</guid>
@@ -933,24 +955,6 @@
       <media:content url="https://www.chosun.com/resizer/v2/N7HFQ4B7NJAD5FU3MHZKK37RC4.gif?width=640&amp;height=360&amp;auth=0aa5801330c098cdda32aee5d4ffe21db0561e4d0c862dffe36d3da037ca211e&amp;smart=true" type="image/jpeg" height="360" width="640">
         <media:description type="plain">지난 11일 ‘야간 통금 시간’이 시작되는 오후 5시 전후 서울 종로구 북촌한옥마을의 모습./장련성 기자</media:description>
       </media:content>
-    </item>
-    <item>
-      <title>[단독] 무안참사 3개월 만에 佛에 엔진 보내 분석</title>
-      <link>https://www.chosun.com/national/transport-environment/2025/03/14/NH4KWQTJCBGGZBHHJF5V2Q4IU4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/03/14/NH4KWQTJCBGGZBHHJF5V2Q4IU4/</guid>
-      <dc:creator>김아사 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 13 Mar 2025 20:00:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XIBHPKLDKBAWTJMJEMCO3QVRGM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 1월 3일 전남 무안국제공항에서 사고기 엔진을 크레인으로 옮기고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난해 12월 전남 무안공항에서 일어난 제주항공 여객기 참사를 조사하는 국토교통부 항공철도사고조사위원회가 사고 여객기 엔진 2개를 엔진 제작사(CFMI)가 있는 프랑스로 보내 사고 원인을 밝히기로 했다. 이 사고 관련 핵심 의문은 조류 충돌이 발생할 당시 조종사가 그대로 착륙하지 않고 왜 고도를 높이는 복행(復行)을 시도했는지다. 조사위는 프랑스에서 조사를 마치면 이에 대한 윤곽이 드러날 것으로 판단하고 있다.&lt;br&gt;&lt;br&gt;13일 본지 취재를 종합하면, 조사위는 늦어도 다음 달 초 프랑스로 엔진 2개를 이송해 분해 조사를 시행할 계획인 것으로 확인됐다. 조사위 관계자 7명도 조사에 동행한다.&lt;br&gt;&lt;br&gt;조사위는 사고 직전 4분 7초간 블랙박스 기록이 없는 상태에서 관제탑에 남아 있는 녹음, 공항 감시 카메라 등을 통한 영상, 생존자 등 관련자 진술을 통해 사고 상황을 복원하고 있다. 엔진은 항공기 점화, 출력뿐 아니라 전기 계통 작동과 연계돼 있고, ECU(전자 제어 장치) 등을 통해 항공기 데이터 처리에도 관여하는 만큼 엔진 분해 조사는 당시 항공기에 어떤 이상이 발생했는지를 밝힐 역할을 할 것으로 보인다.&lt;br&gt;&lt;br&gt;특히 조류 충돌 후 사고 항공기가 왜 그대로 착륙하지 않고 복행했는지를 규명할 열쇠로도 꼽힌다. 조종사 훈련 매뉴얼엔 조류 충돌 시 엔진 출력을 높이면 손상이 더 심해져 그대로 착륙하라고 나온다. 엔진 분해 조사에서 당시 항공기 상태가 드러나면 조종사 의사 결정 배경 역시 밝혀질 것이란 전망이다. 다만, 핵심 조사라면서도 엔진 이송이 늦은 것 아니냐는 비판도 나온다. 사고 발생 후 100일가량 된 시점에 엔진 분해 조사가 이뤄지는 것이기 때문이다.&lt;br&gt;&lt;br&gt;이 사건을 수사하는 전남경찰청 역시 수사본부 설치 70일이 넘었지만 아직 한 명도 피의자 입건을 하지 않고 있다. 로컬라이저(방위각 시설) 설치 관련 법 위반 등은 충분히 수사가 가능한데 속도가 늦다는 지적이 제기된다.&lt;br&gt;&lt;br&gt;한편, 국토부는 이날 국적 항공사가 신규 도입하는 항공기의 블랙박스에는 반드시 보조 전원 장치를 달도록 고시를 개정하겠다고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>멀쩡한 학교 새로 지어 3000억 쓴 경기교육청</title>
-      <link>https://www.chosun.com/politics/goverment/2025/03/14/OBACKILA3ZARHGRQAAMER2KETA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/politics/goverment/2025/03/14/OBACKILA3ZARHGRQAAMER2KETA/</guid>
-      <dc:creator>김경필 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 13 Mar 2025 16:18:43 +0000</pubDate>
-      <content:encoded>문재인 정부가 교육 분야 역점 사업으로 추진한 ‘그린 스마트 미래 학교’ 사업이 일선 교육청에서 심각한 재정 낭비를 일으키고 있다는 감사원 감사 결과가 나왔다. 감사원은 13일 공개한 경기도교육청 정기 감사 보고서에서 경기교육청이 그린 스마트 미래 학교 사업을 추진하면서 3012억원을 낭비했고, 앞으로 적게는 777억원에서 많게는 1374억원이 불필요하게 더 지출될 것으로 예상된다고 밝혔다.&lt;br&gt;&lt;br&gt;문 정부가 2020년 발표한 그린 스마트 미래 학교 사업은 2021년부터 올해까지 5년간 18조5000억원을 투입해 노후 학교 건물을 리모델링하거나 개축하는 사업이다. &lt;br&gt;&lt;br&gt;감사원에 따르면, 경기교육청은 이 사업의 일환으로 3조1864억원을 투입해 초·중·고등학교 230곳의 건물 382동을 리모델링하거나 개축하고 있다. 교육부는 이 사업이 노후도가 심한 건물이나 안전 등급이 낮은 건물, 석면 등 인체에 해로운 물질이 남아 있는 건물을 우선으로 해야 하고, 시설 개선 공사를 한 지 얼마 안 된 건물을 대상으로 해서는 안 된다는 기준을 제시했다. 그러나 경기교육청은 시설 개선 공사를 한 지 5년이 안 된 건물들도 헐어버린 뒤 새로 지었다. 그러면서도 정작 지은 지 40년이 지난 노후 건물이나 내진 설계가 돼 있지 않은 건물, 석면이 들어가 있는 건물 35동은 사업 대상에서 탈락시켰다.&lt;br&gt;&lt;br&gt;경기교육청은 또 학생 수 감소로 앞으로 다른 학교에 통·폐합될 가능성이 있는 학교나 아예 폐교될 가능성이 있는 학교 10곳을 사업 대상으로 선정한 것으로 나타났다. 화성시 화수초는 전교생이 2021년 69명에서 지난해 30명으로 줄었지만 사업 대상으로 선정됐다. 63억원을 투입해 철거 후 다시 지었다. &lt;br&gt;&lt;br&gt;경기교육청은 개축을 하는 것이 리모델링보다 훨씬 많은 비용이 들어가는데도 전체 사업 물량의 절반을 무조건 개축하기로 정해 놓고 사업을 벌였는데, ‘주어진 예산을 다 써야 한다’는 것이 이유였다. 감사원이 확인해 보니, 개축하기로 한 87동 가운데 80동(92.0%)은 기존 건물의 안전 등급에 문제가 없었다. 나머지 7동도 리모델링이 더 경제적인 것으로 나타났는데도 개축 대상으로 선정됐다. 감사원은 이 건물들을 철거하지 않고 리모델링했다면 2916억원을 덜 썼을 것이라고 지적했다.&lt;br&gt;&lt;br&gt;감사원은 경기교육청이 사업 물량의 25%는 임대형 민간 투자(BTL) 사업 방식으로 진행한 것도 문제라고 지적했다. BTL은 민간이 시설을 건설하고 소유권을 국가에 넘겨주되 일정 기간은 국가로부터 시설 임대료를 받는 방식인데, 기관에 자금이 부족할 때 쓰인다. 하지만 경기교육청은 자체 기금을 2조원 넘게 갖고 있었는데도 불필요하게 BTL을 진행해, 앞으로 민간에 최소 777억원에서 최대 1374억원을 임대료로 내야 하는 것으로 나타났다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>尹 탄핵심판 심리 기간, 박근혜 때 91일 넘을 듯</title>
