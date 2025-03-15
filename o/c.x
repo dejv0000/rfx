@@ -13,6 +13,46 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>尹측 “곽종근 변호사들까지 내란 몰이 동원…거대 야당이 배후 세력”</title>
+      <link>https://www.chosun.com/national/court_law/2025/03/15/AXF5RSI5ZFARRAHL4BHB3XB7VA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/03/15/AXF5RSI5ZFARRAHL4BHB3XB7VA/</guid>
+      <dc:creator>유희곤 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 15 Mar 2025 03:13:28 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QZP2RMHWZNFEPDAKGQX6D76HZ4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 대통령 변호인단은 15일 “곽종근 전 특수전사령관이 검찰 수사 과정에서 자수서를 3번 제출할 때마다 변호인이 교체됐다”면서 “거대 야당이 변호사를 동원해 윤 대통령에게 내란 몰이를 한 것”이라고 주장했다.&lt;br&gt;&lt;br&gt;전날 TV조선은 곽 전 사령관이 작년 12월 검찰 특별수사본부(본부장 박세현 서울고검장) 수사를 받을 때 진술서(자수서)를 3차례 제출했는데, 이 때마다 변호인이 바뀌었다고 보도했다. &lt;br&gt;&lt;br&gt;이들은 곽 전 사령관이 자수서를 제출할 때마다 관여했지만, 첫 번째와 두 번째 변호사는 검찰 피의자 조사에 한 번씩만 참여했다고 한다. 세 번째 변호사는 곽 전 사령관의 군사법원 영장심사 직전에 사임했다고 한다. 첫 번째 변호사는 헌법재판소의 윤 대통령 탄핵심판 청구인(국회) 측 대리인인 LKB 출신이고, 세 번째 변호사는 더불어민주당 부승찬 의원이 소개해 준 것으로 전해졌다. &lt;br&gt;&lt;br&gt;해당 변호사들은 취재진에게 “대표변호사 지시로 조사에 한 번 동행했을 뿐” “정치인이 아닌 지인 소개로 조사에 참여한 것” “자수서 작성에 관여한 바 없다”고 했다.&lt;br&gt;&lt;br&gt;윤 대통령 변호인단은 “조사 전에 자수서를 작성하는 것도 극히 드문 일인데 조사 때마다 자수서를 작성해 갔다는 것은 누군가의 강압이 아니라면 있을 수 없는 일”이라면서 “변호사들은 곽 전 사령관의 자수서를 받아 진술 감시까지만 하고, 변호사 윤리는 물론 인권을 보호한다는 변호사의 사명이나 최소한의 양심마저 버렸다”고 주장했다.&lt;br&gt;&lt;br&gt;그러면서 “누가 곽 전 사령관에게 변호사들을 보내 사전에 진술을 ‘조율’하고 (민주당 등 야당이) 원하는 방향의 진술을 하는지 ‘감독’했는지, 변호사들을 탄핵 공작과 내란 몰이의 도구로 이용한 자들이 누구인지 어렵지 않게 추측할 수 있다”며 야당을 비판했다.&lt;br&gt;&lt;br&gt;윤 대통령 변호인단은 “내란몰이에 동원된 변호사들은 국민 앞에 진실을 밝혀 역사의 죄인이 되지 않기를 바란다”면서 “곽 전 사령관 역시 모든 진실을 공개해야 한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>제주에 태풍급 비바람...아수라장 된 제주들불축제 행사장</title>
+      <link>https://www.chosun.com/national/regional/2025/03/15/QAORTB23VZFU3AM23YGLPRX734/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/03/15/QAORTB23VZFU3AM23YGLPRX734/</guid>
+      <dc:creator>김수언 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 15 Mar 2025 03:03:59 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/X6BYQYE6C5MQBMTNZTWHE5A47A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2025 제주들불축제 이틀째인 15일 제주시 애월읍 봉성리 새별오름 일대 축제 행사장이 강풍으로 인해 아수라장이 돼 있다. 제주시는 이날 오전 행사 전면 취소를 공지했다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;15일 제주에 강한 비바람이 몰아치고 있다. 제주 최대 봄축제 중 하나인 제주들불축제는 전면 취소됐고, 곳곳에선 시설물 피해도 발생하고 있다.&lt;br&gt;&lt;br&gt;제주지방기상청에 따르면 이날 오전 11시 기준 제주도 북부·동부·북부중산간에 강풍경보, 그 외 제주도 전역에는 강풍주의보가 각각 발효 중인 가운데 곳곳에선 바람이 순간풍속 초속 15∼25ｍ 내외로 매우 강하게 불고 있다. 제주도 전 해상에는 풍랑경보 또는 주의보가 발효 중이다. 산지에 내려졌던 대설주의보는 해제된 상태다.&lt;br&gt;&lt;br&gt;제주시는 기상 악화로 제주시 애월읍 봉성리 새별오름 일대에서 진행되고 있는 제주들불축제 행사 2∼3일차 일정을 모두 취소하기로 결정했다고 이날 밝혔다. 전날 개막한 이번 축제는 오는 16일까지 진행될 예정이었다.&lt;br&gt;&lt;br&gt;들불축제가 열리는 새별오름 지점에선 바람이 거세게 불고 있다. 일 최대순간풍속은 초속 24.8ｍ를 기록했다. 제주들불축제 현장은 사전에 설치해둔 각종 시설물이 바람에 날아가거나, 쓰러지는 등 정상적으로 행사가 진행되기 어려운 상황이다. 체험 프로그램이나 물품 판매 부스 등으로 사용하던 천막 수십동이 바람에 무너져 주저앉았고, 행사 물품 등도 날아가 아수라장이 됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/D2HJRXBIXIKU6LVY6BUYXQQXFM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;15일 강풍으로 파손된 제주시 내 한 신호등의 모습. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;곳곳에서는 신호등이 꺾이는 등 시설물 피해도 잇따르고 있다.&lt;br&gt;&lt;br&gt;제주소방안전본부에 따르면 이날 오전 7시 40분쯤 제주시 구좌읍 동복교차로 인근 신호등이 강풍에 꺾였다는 신고가 접수됐다. 제주시 한림읍 용운삼거리와 애월읍 애월읍사무소 인근에서도 신호등이 바람에 파손됐다.&lt;br&gt;&lt;br&gt;기상청은 오는 17일 늦은 오후까지 바람이 순간풍속 초속 20ｍ, 산지는 25ｍ 이상으로 매우 강하게 불 것으로 전망했다. 기상청 관계자는 “시설물 관리와 보행자 안전 등에 유의해야 하며, 항공기 지연 가능성이 있으니 사전에 운항정보를 확인하길 바란다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/X6BYQYE6C5MQBMTNZTWHE5A47A.jpg?width=6000&amp;height=4000&amp;auth=a46b5a5f17a1515ddd6e0e07d0a696db951493906ddd0254e9c19b4b67efc450&amp;smart=true" type="image/jpeg" height="4000" width="6000">
+        <media:description type="plain">2025 제주들불축제 이틀째인 15일 제주시 애월읍 봉성리 새별오름 일대 축제 행사장이 강풍으로 인해 아수라장이 돼 있다. 제주시는 이날 오전 행사 전면 취소를 공지했다. /연합뉴스</media:description>
+        <media:credit role="author" scheme="urn:ebu">박지호</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>2년 만에 구제역 발생…전남 영암서만 4건으로 늘어</title>
+      <link>https://www.chosun.com/national/national_general/2025/03/15/JTAZEMFVTZFTXGC5M4ACOOPMFM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/03/15/JTAZEMFVTZFTXGC5M4ACOOPMFM/</guid>
+      <dc:creator>김수언 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 15 Mar 2025 02:20:04 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Z5KURPWNJ5OBNKM27N7RWSZS4Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 14일 오전 구제역이 발생한 전남 영암군 한 한우농장 앞에서 방역본부 관계자들이 출입 통제 안내판을 설치하고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전남 영암군의 한 한우농가에서 구제역이 발생했다. 국내 농장에서 구제역 발생이 확인된 것은 지난 2023년 5월 이후 1년 10개월 만이다. 방역 당국은 집중 소독과 전국 농가 백신 접종을 앞당겨 확산을 막고 있다.&lt;br&gt;&lt;br&gt;15일 구제역 중앙사고수습본부(본부장 송미령 농림축산식품부 장관)에 따르면, 지난 14일 전남 영암군 도포면의 한우 농장에서 증상이 신고돼 정밀검사를 실시한 결과 구제역 발생이 확인됐다.&lt;br&gt;&lt;br&gt;이어 이날 영암군의 다른 한우농장 3곳에서도 추가로 구제역 발생이 확인돼, 국내 구제역 발생 농가가 모두 4곳으로 늘었다. 각 농장의 농장주가 구제역 의심 증상을 신고해 방역 당국이 정밀검사를 실시한 결과 세 농장에서 소 26마리가 양성 판정을 받았다. 세 농장은 최초 발생 농가에서부터 1∼1.7㎞ 떨어진 곳에 있다.&lt;br&gt;&lt;br&gt;중수본은 각 농장에 초동방역팀과 역학조사반을 보내 출입을 통제하고 임상 검사와 소독, 긴급 방역 조치를 실시하고 있다.&lt;br&gt;&lt;br&gt;구제역은 소, 돼지, 양 등 우제류(발굽이 둘로 갈라진 동물)가 바이러스에 감염돼 발생하는 질병으로 전염성이 매우 강해 국내에선 제1종 가축전염병으로 지정돼 있다.&lt;br&gt;&lt;br&gt;구제역에 감염된 가축은 입과 발굽 주변에 물집이 생기고, 40도 이상의 고열에 시달리면서 사료를 잘 먹지 않거나, 거품 섞임 침을 흘린다. 치사율이 높진 않지만, 식육 등의 질이 떨어져 공급을 할 수 없게 돼 축산 농가에 치명적이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AMSEOUTQEF7GS6EFNUHM7VQSI4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;박범수 농림축산식품부 차관이 지난 14일 오전 세종시 정부세종청사 농식품부 상황실에서 전남 영암군 한우농가에서 발생한 구제역 관련 중앙사고수습본부 회의를 주재하며 발언하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;구제역 중수본은 구제역 발생에 따라 영암군과 인접 7개 시·군(강진·나주·목포·무안·장흥·해남·화순)의 위기 경보를 ‘관심’에서 ‘심각’으로 상향했다. 그 외 지역의 위기 경보는 ‘주의’로 조정했다.&lt;br&gt;&lt;br&gt;중수본은 감염 방지를 위해 오는 16일 오전 8시까지 전국 축산 관계시설 종사자와 차량에 대해 일시이동중지 명령을 내렸다.&lt;br&gt;&lt;br&gt;또 영암군과 인접 7개 시·군의 우제류 농장 9216곳에서 기르는 가축 115만7000마리에 대해 구제역 예방 접종과 임상 검사를 하기로 했다.&lt;br&gt;&lt;br&gt;다음 달 시행하기로 한 전국 소·염소 농장 구제역 백신 접종은 이날부터 오는 22일까지 앞당겨 진행한다.&lt;br&gt;&lt;br&gt;중수본은 이번 구제역 발생으로 당장 한우 고기 수급에 미치는 영향은 제한적이라고 보고 있다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>전국 흐린 가운데 일부 지역 비나 눈...제주·구례·산청 대설주의보</title>
+      <link>https://www.chosun.com/national/transport-environment/2025/03/15/6UHTKAUB6VHIBI2D2YQLOIMDVM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/03/15/6UHTKAUB6VHIBI2D2YQLOIMDVM/</guid>
+      <dc:creator>정해민 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 15 Mar 2025 01:08:42 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XBGLD5OSPHGG32WJ5QUJ55N5WY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;15일 전국이 대체로 흐린 가운데 제주도와 남해안을 중심으로 비나 눈이 오겠다.&lt;br&gt;&lt;br&gt;기상청에 따르면 이날 낮 기온은 서쪽 지역을 중심으로 15도 이상 오르겠고 밤에는 기온이 크게 떨어지면서 일교차가 크게 벌어지겠다.&lt;br&gt;&lt;br&gt;낮 최고 기온은 9~15도로 평년(10~14도)과 비슷하겠다.&lt;br&gt;&lt;br&gt;경북 남부 동해안에도 비(높은 산지의 경우 비 또는 눈)가 내리는 곳이 있겠고, 전남 내륙과 경남 내륙은 오후에 비가 소강 상태를 보이겠다. &lt;br&gt;&lt;br&gt;오전 중에는 전북 지역에, 오후 6시까지는 경북 남부에 0.1㎜ 미만의 빗방울이 떨어지는 곳이 있겠다.&lt;br&gt;&lt;br&gt;한편 기상청은 이날 오전 9시 30분을 기해 제주도 산지와 전남 구례, 경남 산청에 대설주의보를 발효했다.&lt;br&gt;&lt;br&gt;대설주의보는 24시간 동안 눈이 5㎝ 이상 쌓일 것으로 예측될 때 내려진다. 눈길 운전이나 보행 안전에 유의해야 한다.&lt;br&gt;&lt;br&gt;남해 동부 바깥 먼바다, 제주도 동부 앞바다, 제주도 남서쪽 안쪽 먼바다, 제주도 남동쪽 안쪽 먼바다, 제주도 남쪽 바깥 먼바다에는 풍랑경보가 내려진 상태다.&lt;br&gt;&lt;br&gt;제주도 북부, 제주도 동부, 제주도 북부 중산간 지역에는 강풍경보가 내려졌다.&lt;br&gt;&lt;br&gt;강풍특보가 발효된 제주도를 중심으로 오는 17일까지 바람이 순간풍속 70㎞/h 이상(제주도 산지 90㎞/h 이상)으로 매우 강하게 부는 곳이 있겠다.&lt;br&gt;&lt;br&gt;비 또는 눈이 내리는 지역에서는 차량 운행 시 안전거리를 충분히 확보하고 감속 운행하는 등 교통안전에 유의해야 한다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>세계의 식탁 된 방콕… 어떤 미식을 상상하든 최고를 맛보게 됩니다</title>
       <link>https://www.chosun.com/national/weekend/2025/03/15/QQS55OCNUJBGLIJBY3HPYP2EEM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/weekend/2025/03/15/QQS55OCNUJBGLIJBY3HPYP2EEM/</guid>
@@ -895,19 +935,6 @@
       </media:content>
     </item>
     <item>
-      <title>헌재 “제3 장소서 金여사 조사, 편의 제공 아냐”</title>
-      <link>https://www.chosun.com/national/court_law/2025/03/14/DSUHTPI2WZB47NHM63XWWWEMBI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/03/14/DSUHTPI2WZB47NHM63XWWWEMBI/</guid>
-      <dc:creator>김나영 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 13 Mar 2025 15:53:33 +0000</pubDate>
-      <content:encoded>헌법재판소는 13일 최재해 감사원장에 이어 이창수 서울중앙지검장 등 검사 3명에 대한 탄핵 심판에서도 전원 일치 의견으로 기각 결정을 내렸다. 검사들은 김건희 여사의 ‘도이치모터스 주가조작’ 사건을 부실하게 수사해 불기소했다는 이유 등으로 탄핵소추됐는데, 헌재는 “수사 과정에서 헌법이나 법률을 위배했다고 볼 수는 없다”고 했다.&lt;br&gt;&lt;br&gt;앞서 국회는 작년 12월 5일 김 여사의 도이치모터스 주가조작 사건을 담당한 이 지검장과 조상원 중앙지검 4차장, 최재훈 중앙지검 반부패수사2부장에 대한 탄핵안을 통과시켰다. 검사들이 수사기관이 아닌 경호처 부속 청사에서 조사하는 등 김 여사에게 수사 편의를 제공하고, 제대로 수사하지 않은 채 불기소 처분을 내리는 등 편파·부실 수사를 했다고 주장했다. 또 검사들이 불기소 처분 결과를 언론과 국회 등에 설명하면서 거짓말을 했다는 점도 탄핵소추 사유로 삼았다.&lt;br&gt;&lt;br&gt;그러나 헌재는 김 여사 관련 수사는 검사의 수사 재량권에 따라 이뤄졌다고 판단했다. 수사팀이 작년 7월 김 여사를 서울 종로구의 대통령 경호처 부속 청사에서 조사한 것에 대해 “피의자가 수사관서에 출석해 조사받는 것이 현저히 곤란할 경우 다른 장소에서 조사를 고려할 수 있다”며 “대통령 배우자를 소환 조사하는 데 경호상 어려움이 있을 수 있고, 전례에 비춰 봐도 부당하게 편의를 제공한 것으로 볼 수 없다”고 했다.&lt;br&gt;&lt;br&gt;검찰이 김 여사에 대한 추가 수사를 하지 않은 부분에 대해서도 헌재는 “이 지검장 등은 수사가 시작된 뒤 약 3~4년이 지난 뒤에 수사에 관여하게 됐다”며 “(김 여사에 대한) 추가 수사 필요성을 판단할 자료가 충분하지 않았다”고 했다. 다만 “검찰이 증거를 수집하기 위해 적절히 수사를 했는지는 다소 의문이 있다”고 했다. 언론 브리핑과 국정감사 등에서 허위 사실을 말했다는 주장에 대해서도 “다소 부정확한 설명이었지만 의도가 있었다고 보기 어렵다”고 했다.&lt;br&gt;&lt;br&gt;헌재는 “탄핵소추 자체가 부적법하다”는 검사 측 주장도 기각했다. 헌재는 “국회의 탄핵소추안 의결 과정은 법정 절차가 준수됐고, 정치적 목적이나 동기가 내포돼 있다고 하더라도 이를 탄핵소추권 남용으로 단정할 수 없다”고 했다. 앞서 지난 1월 이진숙 방송통신위원장 탄핵안을 기각할 때도 헌재는 “국회가 탄핵소추권을 남용하지 않았다”고 했었다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/6H2ACKYV65Z6BC6XSBGXFB463Q.jpg?width=4405&amp;height=2627&amp;auth=66b624a16cabd2f68e6ebbcca62b5faaf6cc4dcbd33b2f51b0948ce2c75aa6ec&amp;smart=true" type="image/jpeg" height="2627" width="4405">
-        <media:description type="plain">이창수 서울중앙지검장(왼쪽부터), 조상원 중앙지검 4차장, 최재훈 중앙지검 반부패수사2부장이 24일 서울 종로구 헌법재판소에서 열린 검사 3인에 대한 탄핵심판 2차 변론기일에 출석해있다./뉴스1</media:description>
-        <media:credit role="author" scheme="urn:ebu">뉴스1</media:credit>
-      </media:content>
-    </item>
-    <item>
       <title>[단독] 무안참사 3개월 만에 佛에 엔진 보내 분석</title>
       <link>https://www.chosun.com/national/transport-environment/2025/03/14/NH4KWQTJCBGGZBHHJF5V2Q4IU4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/03/14/NH4KWQTJCBGGZBHHJF5V2Q4IU4/</guid>
@@ -924,33 +951,6 @@
       <description/>
       <pubDate>Thu, 13 Mar 2025 16:18:43 +0000</pubDate>
       <content:encoded>문재인 정부가 교육 분야 역점 사업으로 추진한 ‘그린 스마트 미래 학교’ 사업이 일선 교육청에서 심각한 재정 낭비를 일으키고 있다는 감사원 감사 결과가 나왔다. 감사원은 13일 공개한 경기도교육청 정기 감사 보고서에서 경기교육청이 그린 스마트 미래 학교 사업을 추진하면서 3012억원을 낭비했고, 앞으로 적게는 777억원에서 많게는 1374억원이 불필요하게 더 지출될 것으로 예상된다고 밝혔다.&lt;br&gt;&lt;br&gt;문 정부가 2020년 발표한 그린 스마트 미래 학교 사업은 2021년부터 올해까지 5년간 18조5000억원을 투입해 노후 학교 건물을 리모델링하거나 개축하는 사업이다. &lt;br&gt;&lt;br&gt;감사원에 따르면, 경기교육청은 이 사업의 일환으로 3조1864억원을 투입해 초·중·고등학교 230곳의 건물 382동을 리모델링하거나 개축하고 있다. 교육부는 이 사업이 노후도가 심한 건물이나 안전 등급이 낮은 건물, 석면 등 인체에 해로운 물질이 남아 있는 건물을 우선으로 해야 하고, 시설 개선 공사를 한 지 얼마 안 된 건물을 대상으로 해서는 안 된다는 기준을 제시했다. 그러나 경기교육청은 시설 개선 공사를 한 지 5년이 안 된 건물들도 헐어버린 뒤 새로 지었다. 그러면서도 정작 지은 지 40년이 지난 노후 건물이나 내진 설계가 돼 있지 않은 건물, 석면이 들어가 있는 건물 35동은 사업 대상에서 탈락시켰다.&lt;br&gt;&lt;br&gt;경기교육청은 또 학생 수 감소로 앞으로 다른 학교에 통·폐합될 가능성이 있는 학교나 아예 폐교될 가능성이 있는 학교 10곳을 사업 대상으로 선정한 것으로 나타났다. 화성시 화수초는 전교생이 2021년 69명에서 지난해 30명으로 줄었지만 사업 대상으로 선정됐다. 63억원을 투입해 철거 후 다시 지었다. &lt;br&gt;&lt;br&gt;경기교육청은 개축을 하는 것이 리모델링보다 훨씬 많은 비용이 들어가는데도 전체 사업 물량의 절반을 무조건 개축하기로 정해 놓고 사업을 벌였는데, ‘주어진 예산을 다 써야 한다’는 것이 이유였다. 감사원이 확인해 보니, 개축하기로 한 87동 가운데 80동(92.0%)은 기존 건물의 안전 등급에 문제가 없었다. 나머지 7동도 리모델링이 더 경제적인 것으로 나타났는데도 개축 대상으로 선정됐다. 감사원은 이 건물들을 철거하지 않고 리모델링했다면 2916억원을 덜 썼을 것이라고 지적했다.&lt;br&gt;&lt;br&gt;감사원은 경기교육청이 사업 물량의 25%는 임대형 민간 투자(BTL) 사업 방식으로 진행한 것도 문제라고 지적했다. BTL은 민간이 시설을 건설하고 소유권을 국가에 넘겨주되 일정 기간은 국가로부터 시설 임대료를 받는 방식인데, 기관에 자금이 부족할 때 쓰인다. 하지만 경기교육청은 자체 기금을 2조원 넘게 갖고 있었는데도 불필요하게 BTL을 진행해, 앞으로 민간에 최소 777억원에서 최대 1374억원을 임대료로 내야 하는 것으로 나타났다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>대검 “즉시항고 않겠다, 외부에 흔들리지 않을 것”</title>
-      <link>https://www.chosun.com/national/court_law/2025/03/14/ETN7RZPUE5GWTESBSWOIZUPF7A/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/03/14/ETN7RZPUE5GWTESBSWOIZUPF7A/</guid>
-      <dc:creator>유희곤 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 13 Mar 2025 16:18:21 +0000</pubDate>
-      <content:encoded>검찰은 “법원의 윤석열 대통령 구속 취소 결정에 즉시항고하지 않겠다는 기존 입장에 변함이 없다”고 13일 밝혔다. 전날 천대엽 법원행정처장(대법관)이 국회 법제사법위원회에 출석해 “검찰이 즉시항고해 상급 법원의 판단을 받아볼 필요가 있다”는 취지의 발언을 한 데 대해 답변을 내놓은 것이다.&lt;br&gt;&lt;br&gt;대검찰청은 이날 입장문을 내고 “구속 취소 결정에 대한 불복 여부는 검찰의 업무 범위에 속한다. 검찰총장이 숙고 끝에 준사법적 결정을 내린 이상, 어떠한 외부의 영향에도 흔들림이 없어야 한다”며 이같이 밝혔다.&lt;br&gt;&lt;br&gt;앞서 서울중앙지법 형사25부(재판장 지귀연)는 윤 대통령 측의 구속 취소 청구를 지난 7일 인용했다. 검찰이 구속 기한을 9시간 45분 넘겨 윤 대통령을 지난 1월 26일 기소한 게 위법했고, 구속 기간에 문제가 없더라도 윤 대통령을 구속했던 고위공직자범죄수사처(공수처)에 내란죄 수사권이 있는지가 명확하지 않다는 이유를 댔다.&lt;br&gt;&lt;br&gt;심우정 검찰총장은 법원 결정이 나온 다음 날 상급 법원의 판단이 나올 때까지 윤 대통령 구속 상태가 유지되는 즉시항고를 하지 않기로 하고, 수사팀에 윤 대통령 석방을 지휘했다.&lt;br&gt;&lt;br&gt;대검은 이날 “구속 기간 산정과 관련된 법원의 이번 결정은 오랫동안 (‘시간’이 아닌 ‘날(日)’을 기준으로 계산한) 실무례에 반해 부당하다”면서도 “(보석, 구속 집행 정지 등) 인신 구속과 관련된 즉시항고를 위헌으로 판단한 헌법재판소의 결정 취지, 수사 과정의 적법성에 의문의 여지가 없어야 한다는 법원 판단 등을 고려해 즉시항고를 하지 않고 본안(1심)에서 바로잡기로 했다”고 밝혔다.&lt;br&gt;&lt;br&gt;전날 천 처장은 국회에서 “재판부 결정에도 검찰은 구속 기간을 날짜 수로 계속 계산하겠다고 하는 등 혼란이 지속되고 있다”면서 “(규정상) 즉시항고 기간은 7일로, 금요일(14일)까지 항고 기간이 남아 있다. 즉시항고하면 상고심에서 법적 판단을 내리는 데 특별한 장애는 없다”고 말했다.&lt;br&gt;&lt;br&gt;천 처장의 발언 이후 검찰은 당혹해하는 분위기가 역력했다. 심 총장은 대검 간부들과 수사팀 의견을 다시 들은 것으로 전해졌다. 대검 한 간부는 “석방된 상태에서는 즉시항고가 안 된다고 판단하고 위헌성이 커서 안 한다는 게 검찰 판단이었는데, 대법관이 석방됐어도 즉시항고가 가능하다고 하니까 혼란이 왔다”고 말했다.&lt;br&gt;&lt;br&gt;법조계 일부에선 천 처장의 발언에 대한 비판도 나왔다. 차장검사 출신인 김종민 변호사는 자신의 페이스북에 “즉시항고 여부는 행정부인 검찰이 판단할 사안”이라면서 “법원행정처장의 노골적인 정치 행위”라고 했다. 부산지법원장을 지낸 강민구 변호사도 “헌재의 기존 판례를 무시했고, 법원행정처가 정치적 사건에서 한쪽 입장을 대변하는 것처럼 오해될 소지가 크다”고 지적했다. 윤 대통령 변호인단도 이날 “천 처장이 헌법 제103조에서 정한 법관의 독립을 침해했다”고 주장했다. 검찰은 “구속기간의 산정 방법 등에 대해 관계 기관과 정비 방안을 논의하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>탄핵 반대 240여 명, 헌재 인근에서 릴레이 삭발</title>
-      <link>https://www.chosun.com/national/2025/03/14/C6VVIVS7MJERPCGCI3LN25VZZE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2025/03/14/C6VVIVS7MJERPCGCI3LN25VZZE/</guid>
-      <dc:creator>한영원 기자, 장윤 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 13 Mar 2025 16:18:02 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XP5TPVB2OJJNJK4T425QV2D7DQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;13일 서울 종로구 헌법재판소 앞에서 윤석열 대통령 지지자들이 “윤 대통령 탄핵에 반대한다”며 삭발을 하고 있다. 이날 윤 대통령 지지자 200여 명이 삭발에 동참했다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 대통령 탄핵 심판 선고를 앞둔 13일 오후, 윤석열 대통령 지지자 160여 명이 서울 종로구 헌법재판소 앞에서 삭발식을 열었다. 헌재 인근 안국역 일대에서도 해병대자유통일추진본부 등 80여 명이 탄핵에 반대하는 의미로 삭발했다. 이들은 “헌법재판소는 우리가 집단 삭발을 하는 이유를 가벼이 여기지 말아야 한다”고 주장했다.&lt;br&gt;&lt;br&gt;‘탄핵 각하를 촉구하는 구국 결사 국민 모임’ 소속 160여 명은 이날 오후 2시부터 헌재 앞에서 10명씩 삭발을 시작했다. 이들은 손에 ‘선량한 국민을 유혈 혁명으로 내몰지 말라’고 적은 피켓을 들었다. 인천에서 온 강연구(71)씨는 “우리는 이미 나이가 먹어 죽으면 끝”이라며 “하지만 이제 열 살인 우리 손주들이 앞으로 살아갈 세상이 걱정돼 삭발식에 참여했다”고 했다. 날이 선 바리캉이 삭발식 참가자들의 머리를 훑을 때마다 바닥에는 머리카락이 수북이 쌓였다.&lt;br&gt;&lt;br&gt;삭발을 기다리는 사람들은 연신 사회자 선창에 따라 “힘내라 윤석열” “대한민국 함께한다” “탄핵 각하” “간첩당 해체” 구호를 외쳤다. 한 남성은 삭발 후 미국 대선 부정선거론자들의 구호인 ‘스톱 더 스틸(Stop the steal·도둑질을 멈춰라)’이라 적은 빨간 모자를 쓰고 “나라를 구하자! 삭발에 동참하자!”고 외쳤다. 대구에서 온 강중희(71)씨는 “손주들에게 부끄럽지 않은 할아버지가 되고 싶다”며 “자유민주주의를 지키기 위해 왔다”고 했다.&lt;br&gt;&lt;br&gt;이날 삭발식을 주도한 조양건 415부정선거국민투쟁본부 본부장은 “대한민국이 난국을 극복하는 방법은 재판관 전원 일치 각하뿐이고, 이는 현명한 재판관 8인의 선택에 달려 있다”고 말했다.&lt;br&gt;&lt;br&gt;윤 대통령의 변호인 석동현 변호사도 삭발식을 참관했다. 석 변호사는 “윤 대통령을 지키기 위한 눈물겨운 삭발식”이라며 “대통령께서 삭발식·단식 등 애쓰시는 여러분 소식을 모두 보고 듣고 있다. 우리의 염원이 모여 탄핵 심판에서 우리가 바라는 결과가 나올 것”이라고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>野 탄핵안 8전 8패… 그래도 책임지는 사람 없다</title>
-      <link>https://www.chosun.com/national/court_law/2025/03/14/YMUKUCL7AZHTNBK536SZT5ZL4M/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/03/14/YMUKUCL7AZHTNBK536SZT5ZL4M/</guid>
-      <dc:creator>김희래 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 13 Mar 2025 15:51:27 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PXKSXCRNBFABPAVZFD4NTHTPGA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이재명(왼쪽) 더불어민주당 대표가 13일 오후 국회 본회의에서 김민석 민주당 최고위원과 이야기하고 있다./남강호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최재해 감사원장과 이창수 서울중앙지검장 등 검사 3명에 대한 국회의 탄핵소추가 헌법재판소 재판관 8명 전원 의견으로 13일 기각됐다. 이로써 윤석열 정부 출범 후 헌재에 접수된 공직자 탄핵안 13건 중 8건이 모두 기각됐다. 더불어민주당 주도의 정치적 탄핵 남발에 제동이 걸리고 있는 것이다.&lt;br&gt;&lt;br&gt;헌재는 이날 오전 최 원장과 이 지검장, 조상원 중앙지검 4차장, 최재훈 중앙지검 반부패2부장에 대한 탄핵 심판 선고 기일을 열고 4명 모두에 대해 기각 결정을 내렸다. 지난해 12월 5일 최 원장과 검사들의 탄핵안이 헌재에 접수된 지 98일 만이다.&lt;br&gt;&lt;br&gt;국회는 최 원장에 대해 △감사원의 독립 의무 위반 △전현희 전 국민권익위원장 표적 감사 △대통령 관저 이전 부실 감사 등을 이유로 탄핵을 소추했지만, 헌재는 “법 위반이 중대해 국민의 신임을 박탈해야 할 정도에까지 이르렀다고 보기 어렵다”고 밝혔다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/P67L5YFIIFG3VLM6X5BS2R4DBE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;헌법재판소에서 탄핵안이 기각된 최재해 감사원장과 이창수 서울중앙지검장이 13일 직무에 복귀하며 소감을 밝히고 있다./고운호·박성원 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘도이치모터스 주가조작’과 관련해 김건희 여사를 불기소 처분하는 등 부실·편파 수사를 이유로 탄핵소추된 검사들에 대해서도 헌재는 “수사 관련 직무 집행을 하면서 헌법이나 법률을 위배했다고 볼 수 없다”고 판단했다. &lt;br&gt;&lt;br&gt;더불어민주당이 주도한 ‘줄탄핵’은 연이어 기각되고 있다. 현 정부 들어 민주당은 총 29건의 탄핵소추안을 발의했는데, 이 중 본회의를 통과해 헌재에 접수된 사건만 13건이다. 윤 대통령과 한덕수 총리 사건 등 심리가 진행 중인 5건을 빼면 나머지 탄핵안 전체가 기각됐다. 나머지 16건 중 12건은 철회되거나 폐기됐고, 4건은 국회 법제사법위원회에 계류돼 있다.&lt;br&gt;&lt;br&gt;이런 ‘줄탄핵’으로 국정 혼란에 행정 공백이 생기고, 혈세도 낭비됐지만 아무도 책임지는 사람은 없다. 민주당은 탄핵으로 수개월간 직무가 정지됐던 공직자들에게 사과조차 하지 않고 있다.&lt;br&gt;&lt;br&gt;윤 대통령은 지난해 12월 3일 비상계엄 선포를 하며 “(거대 야당이) 판사를 겁박하고 다수의 검사를 탄핵하는 등 사법 업무를 마비시키고, 행안부 장관 탄핵, 방통위원장 탄핵, 감사원장 탄핵, 국방 장관 탄핵 시도 등으로 행정부마저 마비시키고 있다”고 했다. 비상계엄의 배경으로 ‘줄탄핵’을 언급한 것이다. 윤 대통령 측 변호인단은 이날 “거대 야당의 탄핵소추가 근거 없는 ‘묻지 마 탄핵소추’였다는 것이 확인됐다”며 “헌재는 재판관 전원 일치 의견으로 대통령의 탄핵소추도 기각해야 한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>尹 탄핵심판 심리 기간, 박근혜 때 91일 넘을 듯</title>
