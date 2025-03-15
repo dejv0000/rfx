@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>인천공항 주차타워서 20대 남성 추락해 숨져</title>
+      <link>https://www.chosun.com/national/incident/2025/03/15/QUPG4SV4VJANLJCUWUITO3ZF44/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/03/15/QUPG4SV4VJANLJCUWUITO3ZF44/</guid>
+      <dc:creator>김수언 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 15 Mar 2025 08:21:09 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DZO6HYV7FNPPRPWKFGOSIGCRGI.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;인천광역시 중구 운서동에 있는 인천국제공항 주차장. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천국제공항 주차타워에서 20대 남성이 추락해 숨지는 사고가 나 경찰이 조사 중이다.&lt;br&gt;&lt;br&gt;15일 경찰에 따르면 이날 오전 9시1분쯤 인천 중구 운서동 인천공항 제2여객터미널 주차타워 옆에서 인천국제공항공사 자회사 직원인 A씨가 쓰러진 채 발견됐다.&lt;br&gt;&lt;br&gt;A씨는 신고를 받고 출동한 119구급대에 의해 심폐소생술을 받으며 인근 병원으로 옮겨졌으나 결국 숨졌다.&lt;br&gt;&lt;br&gt;A씨는 공항 주차타워 3층에서 타워 옆으로 추락한 것으로 파악됐다. A씨가 작업 중 추락한 것은 아닌 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰은 A씨 사망에 범죄 관련성은 없는 것으로 보고, 자세한 사고 원인을 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>세종대로 8차선 메운 ‘尹 탄핵 반대' 집회…구미서도 열려</title>
       <link>https://www.chosun.com/national/2025/03/15/CQQ332H75FAIRNUPNSEPVQX6DE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/2025/03/15/CQQ332H75FAIRNUPNSEPVQX6DE/</guid>
@@ -928,15 +937,6 @@
       <description/>
       <pubDate>Fri, 14 Mar 2025 01:44:01 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WYQ4DSXSL5EQZHMZKTQS4KJTXQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 3월 1일 오후 서울 세종대로에서 자유통일당(왼쪽)이 윤석열 대통령에 대한 탄핵 반대 집회를 열었고, 같은 시간 안국동 일대에서 더불어민주당을 비롯한 야 5당이 윤석열 대통령 탄핵 촉구 집회를 열었다. / 장련성 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;15일 서울 도심 곳곳에서 대규모 탄핵 찬반 집회가 열린다. 신고 인원은 11만5000여 명이다.&lt;br&gt;&lt;br&gt;윤 대통령 탄핵 반대 집회는 광화문과 여의도로 나뉘어 개최된다. 전광훈 사랑제일교회 목사가 이끄는 자유통일당은 이날 오후 1시부터 7시까지 서울 광화문 세종대로에서 ‘자유 통일을 위한 국민 대회’를 연다. 자유통일당은 이 집회에 총 5만명이 운집한다고 경찰에 신고했다. 손현보 부산세계로교회 목사가 이끄는 개신교계 단체인 ‘세이브코리아’는 오후 1시부터 4시까지 여의도에서 ‘국가 비상 기도회’를 진행한다.&lt;br&gt;&lt;br&gt;윤 대통령 탄핵 찬성 집회는 헌법재판소 인근 안국역 일대에서 오후 7시부터 열린다. 참여연대 등이 주도하는 ‘윤석열 즉각 퇴진·사회 대개혁 비상 행동(비상행동)’은 동십자 로터리에서 적선 로터리 방향 편도 전 차로에서 5만명 규모 집회를 연다고 경찰에 신고했다. 전국민주노동조합총연맹(민노총)은 서울고용청 앞에서 오후 3시부터 2만명 규모로 ‘3.15 전국노동자대회’를 진행한 뒤, 이후 안국역 쪽으로 합류해 비상행동과 함께 집회를 이어나간다는 방침이다. 전국농민회총연맹(전농)과 촛불행동 또한 광화문 부근에서 각각 1500명, 3000명 규모의 사전 집회를 진행한 뒤 비상행동의 본집회에 합류할 예정이다.&lt;br&gt;&lt;br&gt;경찰은 교통 혼잡에 따른 시민 불편을 최소화하기 위해 집회·행진 중 차량이 통행할 수 있는 가변차로를 운영하고 행사 구간 주변에 교통경찰 등을 배치할 예정이다. 경찰 관계자는 “가급적 지하철 등 대중교통을 이용하고, 차량을 이용할 경우 교통정보 등을 미리 확인해달라”고 당부했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>서울시, 강남3구·마용성 투기 세력 단속 현장점검반 투입</title>
-      <link>https://www.chosun.com/national/national_general/2025/03/14/IAWTKLSHVJBBBHUPTONHVFYBUY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/03/14/IAWTKLSHVJBBBHUPTONHVFYBUY/</guid>
-      <dc:creator>김영우 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 14 Mar 2025 01:43:44 +0000</pubDate>
-      <content:encoded>서울시가 주택 시장 투기·교란 수요 유입을 막기 위해 현장점검반을 투입하고 있다고 14일 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3MEESARDR5IXRHEXZNNGZJEI3Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;13일 서울 송파구의 한 아파트 단지. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울시에 따르면, 시는 지난주부터 강남구·서초구·송파구 등 강남 3구를 비롯해 마포구·용산구·성동구 등 주요 지역에 시·자치구 합동 현장점검반을 투입하고 있다.&lt;br&gt;&lt;br&gt;서울시 관계자는 “불법 행위가 적발되면 수사 의뢰와 국세청 통보 등 무관용 원칙으로 대응할 방침”이라고 했다. 이외에도 서울시는 최근 일 단위로 거래·가격 동향을 파악하는 등 시장 상황을 모니터링하고 있다.&lt;br&gt;&lt;br&gt;한편 서울시는 내년까지 예정된 7만1000가구 주택 공급을 차질 없이 진행해 주택 시장 안정을 유도한다는 계획이다. 올해 입주 예정 물량인 4만7000가구 중 30.9%인 1만4000호는 강남·서초·송파·강동 등 서울 동남권에 집중돼 있다.&lt;br&gt;&lt;br&gt;서울시 관계자는 “충분한 주택 공급 신호가 전달되면 동남권 집값 안정화에 긍정적인 영향을 미칠 것”이라고 했다.&lt;br&gt;&lt;br&gt;오는 11월과 12월 각각 8593가구, 5213가구 대단지 입주가 집중돼 있어, 서울시는 내년 상반기까지 전월세 시장 매물 물량이 안정적으로 공급될 것으로 전망하고 있다.&lt;br&gt;&lt;br&gt;서울시 관계자는 “중장기적으로 꾸준한 주택 공급을 통해 주택 시장 불안 심리를 해소할 것”이라고 했다. 올해 3만3000가구를 비롯해 2026년 2만3000가구, 2027년 3만4000가구 규모 주택이 차질 없이 착공될 수 있도록 할 계획이다.&lt;br&gt;&lt;br&gt;김성보 서울시 행정2부시장은 “적기에 양질의 물량이 충분히 공급될 수 있도록 정비사업 등을 촘촘히 관리할 것”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>국과수 “에어부산 화재 사고, 보조 배터리서 발화 추정”</title>
