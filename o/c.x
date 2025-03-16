@@ -13,6 +13,51 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>내일 출근길 꽃샘추위...곳곳 눈·비도</title>
+      <link>https://www.chosun.com/national/transport-environment/2025/03/16/K6BIY7CD4FGAJE3XHTQUYSE52Q/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/03/16/K6BIY7CD4FGAJE3XHTQUYSE52Q/</guid>
+      <dc:creator>박상현 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 16 Mar 2025 05:03:34 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2U6AFGEGONIETNBJRHSHUILTWI.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;평년보다 높았던 기온이 뚝 떨어진 16일 오전 제주시 도두동 무지개 해안도로에서 패딩을 입은 관광객이 주머니에 손을 넣은 채 걷고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;17일 전국에 꽃샘추위가 닥칠 것으로 예보됐다. 곳곳에 눈·비 소식도 있다.&lt;br&gt;&lt;br&gt;기상청에 따르면, 17일 바람이 강하게 불면서 서울의 출근길 기온이 영하 2도까지 떨어지는 등 전국적으로 아침 기온이 영하권에 머물 것으로 예상됐다. 이날 아침 최저기온은 영하 5도에서 영상 2도, 낮 최고기온은 5~10도로 예년보다 3~5도가량 낮겠다. 최근 평년보다 3도 가량 포근한 날이 이어지다가 기온이 급격하게 떨어지는 것이라 체감 추위는 더 심할 것으로 보인다.&lt;br&gt;&lt;br&gt;17일 수도권과 제주도는 새벽까지, 충북북부는 새벽에, 경북과 강원도는 낮까지 눈 또는 비가 내리는 곳이 있겠다. 늦은 밤에는 수도권과 충남권부터 다시 눈이나 비가 오기 시작하겠다.&lt;br&gt;&lt;br&gt;16일부터 17일 오후까지 이틀 동안 강원산지에는 10~30㎝, 경북북동산지에는 5~20㎝의 많은 눈이 내리겠다. 이밖에 강원내륙 5~15㎝, 경북북부 5~10㎝, 충북북부 3~10㎝, 경기동부 3~8㎝, 제주산지 1~5㎝, 서울·경기북서내륙·울릉도·독도에 1㎝ 내외의 눈이 예보됐다.&lt;br&gt;&lt;br&gt;특히 17일 밤부터 18일까지는 전국적으로 태풍이 온 듯 요란한 눈·비가 쏟아질 것으로 보인다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>서울시 “토지거래허가구역 해제후 잠·삼·대·청 집값 2.7%↑”</title>
+      <link>https://www.chosun.com/national/national_general/2025/03/16/FZKC6HTBEVGRPO6IL6Y2MFWCEI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/03/16/FZKC6HTBEVGRPO6IL6Y2MFWCEI/</guid>
+      <dc:creator>박진성 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 16 Mar 2025 04:27:40 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/V2LCIMPA22PVG3D3AR5PQ6SL6Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;송파구 아파트 단지의 모습/연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울시가 지난 달 송파구 잠실동, 강남구 삼성·대치·청담동 아파트 291곳에 대한 토지거래허가구역 규제를 푼 이후 이 지역 집값이 84㎡형 기준 평균 2.7% 오른 것으로 16일 나타났다.&lt;br&gt;&lt;br&gt;서울시는 토지거래허가구역 해제 전 후 각 30일간 거래를 분석한 자료를 발표했다.&lt;br&gt;&lt;br&gt;토지거래허가구역이 해제된 2월 13일부터 3월 14일까지 잠실·삼성·대치·청담동 아파트 평균 가격은 28억2000만원으로 해제 전 30일(1월 14일∼2월 12일) 평균 가격 27억2000만원보다 3.7% 올랐다.&lt;br&gt;&lt;br&gt;분석 대상을 전용면적 84㎡로 좁혀 보면 2월 13일∼3월 14일 평균 가격은 27억원으로 한 달 전인 26억3000만원보다 2.7% 상승했다.&lt;br&gt;&lt;br&gt;거래량은 전 평형 기준 토지거래허가 해제 이후가 이전보다 77건 늘어난 184건이었다. 84㎡는 거래량이 19건 증가한 66건이었다.&lt;br&gt;&lt;br&gt;세부적으로 송파구 잠실동 잠실엘스, 리센츠, 트리지움 84㎡는 지난 1월에는 집값이 하락하다 2∼3월 2.1∼2.9% 상승했다.&lt;br&gt;&lt;br&gt;토지거래허가 규제가 유지된 잠실 주공5단지 76㎡와 비교해 보면 이 아파트 집값은 1월까지 하락하다 2월에 0.7% 상승했다.&lt;br&gt;&lt;br&gt;올해 1월까지는 대체로 집값이 하락세였다가 토지거래허가구역 해제 혜택을 받은 아파트 집값이 더 큰 폭으로 오른 것이다.&lt;br&gt;&lt;br&gt;규제가 풀린 강남구 대치동 래미안 대치팰리스 84㎡는 2월에 거래가 한 건 있었으며 매매가는 12.7% 올랐다.&lt;br&gt;&lt;br&gt;규제가 유지된 대치 은마아파트를 보면 76㎡ 기준 올해 1∼2월 집값이 최대 1.3% 상승했다.&lt;br&gt;&lt;br&gt;서울시는 “토지거래허가 해제 후 최근 동향을 보면 가격이 오른 사례도 있으나 하락한 사례도 확인됐다”며 “부동산 실거래 동향과 현장 상황을 모니터링하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>36년만 양재대로 ‘자동차 전용’ 해제…오토바이 진입 가능</title>
+      <link>https://www.chosun.com/national/national_general/2025/03/16/RWP5XEUS65HIHMZ6DV6REDERUM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/03/16/RWP5XEUS65HIHMZ6DV6REDERUM/</guid>
+      <dc:creator>박진성 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 16 Mar 2025 04:43:18 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RN72ATKCSRPITBA57FLIO2UHFI.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;경찰이 작년 2월 서울 양재대로에서 자동차 전용도로에 진입한 이륜차를 단속하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;1989년부터 자동차 전용도로였던 서울 양재대로가 전용도로에서 36년만에 해제된다. 서울 상점가의 간판 재료 규제도 완화된다.&lt;br&gt;&lt;br&gt;서울시는 이같은 내용의 규제철폐안을 16일 발표했다.&lt;br&gt;&lt;br&gt;양재대로는 자동차전용도로 기준에 부합하지 않음에도 불구하고 교통 흐름을 이유로 1989년부터 ‘자동차 전용도로’로 지정·운영되고 있다.&lt;br&gt;&lt;br&gt;이륜차 운행과 버스 입석 승객이 금지돼있다. 좌석마다 안전띠도 있어야 한다. 이곳을 다니던 시내버스는 사실상 모두 위법이었던 셈이다.&lt;br&gt;&lt;br&gt;서울시 관계자는 “오토바이 운전자의 장거리 우회 운전 부담을 줄이고 시내버스가 적법하게 운행할 수 있도록 한 조치”라고 했다.&lt;br&gt;&lt;br&gt;소상공인 입간판 규제도 완화한다.&lt;br&gt;&lt;br&gt;규정상 옥외광고물은 목재나 아크릴 등 비철금속만 가능한데, 비싼 데다 부식에 취약해 소상공인들은 대체로 철제 입간판을 쓰고 있다.&lt;br&gt;&lt;br&gt;시는 이런 현실을 반영해 입간판 소재를 금속 등으로 완화하는 내용으로 조례를 개정할 계획이다.&lt;br&gt;&lt;br&gt;가로판매대·구두수선대 운영자 증명서 외부 부착 규정도 완화한다. 가판대에는 운영자의 이름, 사진, 생년월일이 포함된 증명서를 시설물 외부에 붙여놓게 돼있다. 개인정보 유출 위험이 큰 불필요한 규제라는 지적에 이 의무를 폐지할 계획이다.&lt;br&gt;&lt;br&gt;서울형 임차보증금 지원 자산 차감 기준도 완화한다.&lt;br&gt;&lt;br&gt;이는 서울에 사는 중위소득 120% 이하 주거 위기 가구에 최대 650만원의 임차보증금을 지원하는 사업인데, 650만원에서 보증금을 뺀 금액만 지원했던 것에서 350만원 이상을 초과하는 액수만큼 차감하는 것으로 바꿨다.&lt;br&gt;&lt;br&gt;예컨대 보증금 400만원인 집에서 거주한다면 기존엔 650만원에서 400만원을 뺀 250만원만 받을 수 있었지만, 앞으론 350만원을 초과하는 50만원만 제외하고 600만원까지 지원한다.&lt;br&gt;&lt;br&gt;와상 장애인콜택시 도입과 정신장애인 단독 탑승 제한도 완화했다.&lt;br&gt;&lt;br&gt;침대형 휠체어 이용 장애인도 탑승할 수 있게 특수 차량을 도입하며 정신장애인도 사전 신청 없이 혼자 택시를 탈 수 있도록 개선한다.&lt;br&gt;&lt;br&gt;서울시는 “앞으로도 시민들의 의견을 수렴해 현실에 맞지 않는 규제는 철폐하고 시민 불편과 번거로움을 높이는 제도는 완화하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>무주택 신혼부부 대상 ‘1000원 주택’…첫 입주자 모집 경쟁률 ‘7.36대 1’</title>
+      <link>https://www.chosun.com/national/regional/2025/03/16/HCYGPUWYKZBWROYDYI64RBZB4M/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/03/16/HCYGPUWYKZBWROYDYI64RBZB4M/</guid>
+      <dc:creator>인천=이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 16 Mar 2025 04:15:10 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KA5MO6C4HNLZBCCLXS4GLCYWMA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;인천시는 무주택 신혼부부 등을 대상으로 천원주택 임주자 모집을 진행한 결과 7.36대 1의 경쟁률을 기록했다고 16일 밝혔다. 사진은 지난 6일 인천시청 중앙홀에서 시작된 천원주택 입주자 모집 첫날 모습. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;무주택 신혼부부 등이 하루 1000원 정도인 한달 3만원의 임차료를 내고 최장 6년간 살 수 있는 ‘천원주택’ 첫 입주자 모집 결과 7대 1이 넘는 경쟁률을 나타냈다.&lt;br&gt;&lt;br&gt;16일 인천시에 따르면 지난 6일부터 14일까지 ‘천원주택’(매입임대형) 입주자 모집을 진행한 결과, 500가구 모집에 3681가구가 신청해 7.36대 1의 경쟁률을 기록했다.&lt;br&gt;&lt;br&gt;천원주택은 혼인신고일 기준 7년 이내 무주택 신혼부부와 예비 신혼부부, 한부모 가정 등이 하루 1000원 정도인 월 3만원의 임차료를 내고 최대 6년까지 살 수 있는 임대주택이다.&lt;br&gt;&lt;br&gt;신생아를 둔 가구가 1순위, 자녀가 있는 신혼부부가 2순위, 자녀가 없는 신혼부부가 3순위 등이다.&lt;br&gt;&lt;br&gt;인천시는 신청 가구 소득·자산조사 등을 거쳐 오는 6월 5일 시 산하 인천도시공사 인터넷 홈페이지에 입주자 선정 결과를 발표할 예정이다. &lt;br&gt;&lt;br&gt;선정된 입주자들은 주택 열람·지정, 계약 절차 등을 거쳐 7월부터 입주가 가능할 것으로 예상되고 있다. &lt;br&gt;&lt;br&gt;인천시는 오는 4월 중 ‘전세임대형’ 천원주택 입주자 모집을 추가로 진행할 계획이다. 전세임대형 천원주택은 입주 희망자가 전용 85㎡ 이하 시중 주택을 선택하면 인천도시공사와 집주인이 전세 계약을 맺어 지원하게 된다. &lt;br&gt;&lt;br&gt;모집 가구는 총 500가구로, 구체적인 일정과 신청 요건은 인천시와 인천도시공사 인터넷 홈페이지를 통해 공지될 예정이다. &lt;br&gt;&lt;br&gt;유정복 인천시장은 “이번 입주자 모집을 통해 신혼부부들에게 필요한 것이 무엇인지 느낄 수 있었다”며 “실효성 있는 주거정책을 지속해서 추진해 시민 주거 부담을 줄이기 위해 노력하겠다”고 말했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>檢, 6년 전 수사기관 사칭해 보이스피싱 하다 도주한 7명 구속 기소</title>
+      <link>https://www.chosun.com/national/national_general/2025/03/16/GRAO5EOMG5CDZMN4LQBNYYQK2U/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/03/16/GRAO5EOMG5CDZMN4LQBNYYQK2U/</guid>
+      <dc:creator>김병권 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 16 Mar 2025 03:35:11 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RB2PT5YA6S3XEY42DBLGLDZQQM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울동부지검/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;6년 전 중국에서 보이스피싱 범죄를 저지르다가 수사가 시작되자 도주한 7명이 구속 상태로 재판에 넘겨졌다. &lt;br&gt;&lt;br&gt;서울동부지검 보이스피싱 범죄 정부합동수사단(단장 홍완희)은 지난 14일 중국 대련·청도에서 활동하던 보이스피싱 콜센터 조직원 7명을 구속 기소했다고 밝혔다. &lt;br&gt;&lt;br&gt;이들은 지난 2017년 7월쯤부터 약 2년간 중국 대련, 청도 소재 보이스피싱 콜센터 조직에 가입해 수사기관을 사칭하는 방식으로 피해자 58명에게 약 29억원을 가로챈 혐의를 받는다.&lt;br&gt;&lt;br&gt;검찰은 해당 조직에 가입한 이들은 31명으로 파악했고, 이들 중 20명을 지난 2023년 12월 재판에 넘겼다. 피고인들은 하위 조직원이었음에도 지금까지 1년~7년의 징역형을 선고받았다고 한다. &lt;br&gt;&lt;br&gt;검찰은 수사가 시작된 이후 도주한 11명 중 7명을 지난달까지 검거해 지난 14일 구속 기소한 것이다. 이들 중 2명은 타인 명의의 휴대전화를 사용하고, 거처를 옮겨 다니는 방법으로 수사에 혼선을 주기도 했다. &lt;br&gt;&lt;br&gt;현재 검찰은 해외로 도주한 총책 ‘문성’ 등 가담 조직원 4명에 대해서는 인터폴 적색 수배, 국제형사 사법 공조 등을 통해 계속 추적 중이다.&lt;br&gt;&lt;br&gt;검찰 관계자는 “보이스피싱 범죄의 경우 불특정 다수를 상대로 한 범행으로, 그 피해가 매우 크고 하위 조직원이라고 하더라도 그 죄책이 결코 가볍지 않다”며 “오래 전 범행이거나 단순 가담 여부를 불문하고 끝까지 추적해 검거할 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>美‧日 재외국민 상대로 ‘대검 마약과’ 사칭 보이스피싱 기승… 檢 “‘찐센터’에 확인 먼저”</title>
       <link>https://www.chosun.com/national/court_law/2025/03/16/JVRZJWM5DFFPRCB6P6O5PSJ7DE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/03/16/JVRZJWM5DFFPRCB6P6O5PSJ7DE/</guid>
@@ -902,45 +947,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AE67WODOWJAC7J3XNBS2AF5CN4.png"&gt;&lt;figcaption&gt;&lt;small&gt;공사 건설 현장 사고 일러스트./조선디자인랩&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;동대문구 제기동의 재개발 공사 현장에서 50대 근로자가 콘크리트에 깔려 숨졌다.&lt;br&gt;&lt;br&gt;서울 동대문경찰서와 소방당국에 따르면 14일 오후 1시 35분쯤 동대문구 제기동 제기4구역 재개발사업지에서 2층 건물이 붕괴됐다. 이 사고로 건물 상태를 확인하던 50대 근로자 1명이 심정지 상태로 병원에 이송됐으나 사망했다. 현장에 함께 있던 굴삭기 기사 1명도 경상을 입었다. &lt;br&gt;&lt;br&gt;시공사는 현대건설로, 고용노동부는 현재 사고 현장에서 중대재해처벌법 위반 여부를 조사하고 있다. 중대재해처벌법은 중대산업재해 또는 중대시민재해가 발생할 경우 안전 및 보건 확보 의무 이행 여부에 따라 경영책임자 등을 처벌하거나 손해배상의무를 부과하는 내용을 골자로 한다. &lt;br&gt;&lt;br&gt;경찰과 소방당국은 정확한 사고 경위를 파악하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>대전 초등생 살해 언급하며 “나도 해칠수 있다”… 여교사 발언에 ‘발칵’</title>
-      <link>https://www.chosun.com/national/national_general/2025/03/14/LOEE4GJTDZFXVPO347MNBSGWDQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/03/14/LOEE4GJTDZFXVPO347MNBSGWDQ/</guid>
-      <dc:creator>김명일 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 14 Mar 2025 05:43:05 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/X4WX55AXSBGOJAEPHUXGIU3CIA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 관련 이미지. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대전 여교사 초등학생 살해 사건의 충격이 가시지 않은 상태에서 경북 영주의 한 초등학교 여교사가 학생들에게 ‘나도 너희를 해칠 수 있다’는 등의 발언을 했다는 신고가 접수돼 경찰이 수사에 나섰다. &lt;br&gt;&lt;br&gt;14일 경북 영주경찰서와 경북교육청 등에 따르면 경북 영주의 한 초등학교 학급 담임을 맡고 있는 30대 A교사가 일과 시간 중 학생들에게 대전 여교사 초등학생 살해 사건을 언급하며 ‘나도 너희를 해칠 수 있다’ ‘극단적 선택을 하고 싶다’는 등의 발언을 했다는 신고가 전날 접수됐다. &lt;br&gt;&lt;br&gt;신고를 접수받은 경찰은 A교사를 아동복지법 위반 혐의로 불구속 입건하고 조사에 착수했다. &lt;br&gt;&lt;br&gt;경찰 관계자는 조선닷컴과의 통화에서 “A교사는 학생들이 말을 안 들어서 대전에 이런 사건이 있었으니까 너희도 조심해야 한다는 취지로 이야기한 것뿐이라고 주장하고 있다”며 “A교사의 정신질환 여부 등은 개인정보라 공개할 수 없다”고 했다.&lt;br&gt;&lt;br&gt;교육청 관계자는 조선닷컴과의 통화에서 “관련 전문가들이 학교에 상주하면서 해당 학급 학생들을 대상으로 심리 검사를 진행하고 있다”며 “A교사는 현재 연가 중이라 학생들과 분리 조치가 됐다”고 했다. &lt;br&gt;&lt;br&gt;교육청 관계자는 “수사가 진행되는 동안에는 A교사를 출근 시키지 않을 예정”이라며 “혹시 몰라서 경찰에 학교 주변 순찰 강화를 요청했고, 학교 자체 순찰 인력도 충원한 상태다. 일단 경찰 조사 결과를 지켜볼 예정”이라고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>재개발 공사장서 납품업체 운전자 쇠파이프에 깔려 사망</title>
-      <link>https://www.chosun.com/national/incident/2025/03/11/6BS5IPOBT5AURMGJMEWEI23W7Q/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/03/11/6BS5IPOBT5AURMGJMEWEI23W7Q/</guid>
-      <dc:creator>한영원 기자, 장윤 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 11 Mar 2025 09:28:22 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AE67WODOWJAC7J3XNBS2AF5CN4.png"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=조선디자인랩·Midjourney&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;11일 오후 서울시 동대문구 이문3재정비촉진구역주택재개발 정비사업 공사장에서 납품업체 운전자인 30대 A씨가 공사 자재에 깔려 심정지 상태에 빠졌다.&lt;br&gt;&lt;br&gt;A씨는 심정지 상태로 발견됐으며, 소방대원의 심폐소생술(CPR)을 받으며 인근 병원으로 이송됐지만 숨졌다.&lt;br&gt;&lt;br&gt;경찰은 A씨가 화물차에서 쇠파이프를 내리다가 사고가 난 것으로 보고 자세한 경위를 조사하고 있다. &lt;br&gt;&lt;br&gt;해당 재개발 단지의 정비사업 시공사는 현대산업개발이다. 경찰은 이 시공사들에 중대재해처벌법이 적용되지는 않는다고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>尹 탄핵심판 선고 당일 경찰력 100% 동원...기동대 2만여명 투입</title>
-      <link>https://www.chosun.com/national/2025/03/14/UYXROP3VFNEWHDOQAPYFL2GUK4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2025/03/14/UYXROP3VFNEWHDOQAPYFL2GUK4/</guid>
-      <dc:creator>주형식 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 14 Mar 2025 05:12:57 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5J4CYZF235CB7E6U342MJQWBJ4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;14일 서울 종로구 헌법재판소 주변에 경찰 폴리스라인이 세워져 있다. /장련성 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰은 윤석열 대통령에 대한 탄핵 심판 선고 당일 ‘갑호비상’을 발령해 경찰력 100%를 동원하겠다고 14일 밝혔다. 가장 높은 단계의 비상근무 체제인 갑호비상이 발령되면 경찰력 100% 동원이 가능하고 경찰관들의 연차휴가가 중지된다.&lt;br&gt;&lt;br&gt;이호영 경찰청장 직무대행은 이날 오후 ‘탄핵선고일 대비 상황점검회의’를 열고 “총력 대응체계를 구축해 선고일을 전후로 사회적 혼란을 최소화하겠다”고 말했다.&lt;br&gt;&lt;br&gt;경찰청은 탄핵 심판 선고 전날에는 서울경찰청 ‘을호비상’을 통해 전국에 비상근무를 발령하고 선고 당일 전국 관서에 ‘갑호비상’을 발령할 예정이다. 을호비상이 발령되면 지휘관·참모는 지휘선상에 위치해야 하고 비상연락 체계를 유지해야 한다.&lt;br&gt;&lt;br&gt;경찰은 전국에 기동대 337개 부대, 2만여명을 투입할 예정이다. 아울러 기동순찰대·형사 등 가용 인력을 총동원한다.&lt;br&gt;&lt;br&gt;헌법재판소 주변에는 기동대와 안전펜스 등을 집중 배치하고, 헌재와 헌법재판관 안전 확보를 위해 전담 경호대와 형사, 경찰특공대를 전진 배치한다.&lt;br&gt;&lt;br&gt;국회·법원·수사기관 등 국가 주요 기관, 언론사, 국민의힘·더불어민주당 당사를 포함한 전국 시·도 당사 등에도 기동대를 배치한다.&lt;br&gt;&lt;br&gt;기동대는 과격·폭력시위에 대비해 신체보호복을 착용하고 캡사이신 등 이격용 분사기 등 경찰 장비도 휴대한다.&lt;br&gt;&lt;br&gt;아울러 서울 도심권 일대를 8개 권역으로 나눠 ‘특별 범죄예방강화구역’으로 지정한다. 권역별로 서울 경찰서장이 ‘지역장’으로 투입되고 기동순찰대·112지역경찰·형사·교통경찰 등 1300여명이 광범위한 치안 활동을 벌인다.&lt;br&gt;&lt;br&gt;총기 출고도 금지된다. 선고 전일 0시부터 선고일 3일 후 정오까지 경찰관서에 보관 중인 민간 소유 총기 8만6811정이 대상이다.&lt;br&gt;&lt;br&gt;경찰은 지자체·소방 등 유관기관과도 긴밀히 협조해 구급차 배치, 지하철 무정차 운행 등을 통해 안전사고를 예방한다.&lt;br&gt;&lt;br&gt;선고일 전후 헌재 일대는 ‘비행금지구역’으로 설정돼 드론 비행이 제한된다. 드론 불법 비행 시에는 전파 차단기 등을 통해 현장에서 포획하고 조종자는 처벌한다.&lt;br&gt;&lt;br&gt;이 직무대행은 “시설 파괴, 경찰관 폭행 등 공권력에 도전하는 행위에는 무관용 원칙으로 강력 대응할 것”이라며 “서울서부지법과 같은 불법 사태가 재발하지 않도록 엄정 대비하겠다”고 말했다.&lt;br&gt;&lt;br&gt;이어 “최악의 상황을 가정해 빈틈없이 대비하고 있다”며 “국민 여러분도 질서유지를 위한 경찰의 조치에 적극 협조해달라”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/5J4CYZF235CB7E6U342MJQWBJ4.jpg?width=4039&amp;height=2693&amp;auth=2d02d1adb18cb1a43ee879c96721e5a95dc8f358a1382aef7072d3fdbcc6af04&amp;smart=true" type="image/jpeg" height="2693" width="4039">
-        <media:description type="plain">14일 서울 종로구 헌법재판소 주변에 경찰 폴리스라인이 세워져 있다. /장련성 기자</media:description>
-      </media:content>
-    </item>
-    <item>
-      <title>배터리는 비닐백에… 기내 선반 보관 금지</title>
-      <link>https://www.chosun.com/national/national_general/2025/03/03/PFKH6KOBU5ALPNCLBGPW577VUM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/03/03/PFKH6KOBU5ALPNCLBGPW577VUM/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Sun, 02 Mar 2025 15:53:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XNRQB2SUJRBHJLLIBEEXWVCNNI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 1일 인천국제공항에서 한 관계자가 보조 배터리를 비닐봉지에 넣고 있다. 지난 1월 발생한 에어부산 화재가 보조 배터리에서 발생했다는 추정이 나오자 정부는 관련 규정을 강화했다. 앞으로 비행기 탑승 시 보조 배터리를 투명 비닐봉지에 담거나 단자를 절연 테이프로 막아야 한다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>김수현 측 “故김새론 성인된 후 교제…경제적 문제 외면 안했다”</title>
       <link>https://www.chosun.com/national/national_general/2025/03/14/RUMDBHQ4CVD6RG6SQOT5KASCEY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/03/14/RUMDBHQ4CVD6RG6SQOT5KASCEY/</guid>
@@ -984,18 +990,6 @@
       <description/>
       <pubDate>Fri, 14 Mar 2025 00:52:44 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/R2IMZMLMBRGWTDCZUYESIMCZIA.png"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=조선디자인랩·Midjourney&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경북 경산시 학교 공사현장에서 노동자 1명이 변압기에 깔려 숨졌다.&lt;br&gt;&lt;br&gt;14일 경북소방본부 등에 따르면 전날 오후 2시 18분쯤 경산시 진량읍의 초등학교 공사 현장에서 변압기를 내리던 중 60대 남성 A씨가 변압기에 깔렸다. A씨는 심정지 상태로 병원으로 옮겨졌으나 숨졌다. 경찰은 자세한 사고 경위를 수사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>오후 5시부터 야간 통금 4개월... 북촌 주민들 삶 어떻게 달라졌을까</title>
-      <link>https://www.chosun.com/national/regional/seoul/2025/03/14/LZRFVNESHVCGFC6NEQ7JX2EM4M/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/seoul/2025/03/14/LZRFVNESHVCGFC6NEQ7JX2EM4M/</guid>
-      <dc:creator>박진성 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 13 Mar 2025 16:25:36 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VBITSPRWOFGXVIOYANGJXKGTGU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 11일 ‘야간 통금 시간’ 전후 서울 종로구 북촌한옥마을의 모습.관광객들로 북적이던 북촌한옥마을(위 사진)은 오후 5시 통금 시간이 되자 한산해졌다(아래 사진). 카우보이 복장을 한 보안관들이 관광객들을 골목 밖으로 내보내고 있다./장련성 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“주민 거주지입니다. 소곤소곤 대화해주세요.”&lt;br&gt;&lt;br&gt;지난 11일 오후 2시 서울 종로구 가회동 북촌한옥마을. 한옥마을에 카우보이 옷을 입은 ‘보안관’이 등장했다. 외국인 관광객 8명이 한옥집 앞에서 큰소리로 얘기하자 보안관이 다가가 이렇게 말했다. 오후 5시가 되자 관광객들로 북적였던 골목은 한산해졌다. 보안관들은 “관광 시간이 끝났습니다. 내려가 주세요”라고 말하며 골목에서 사진을 찍던 관광객들을 밖으로 내보냈다.&lt;br&gt;&lt;br&gt;작년 11월 서울 종로구가 북촌 일대에 ‘야간 통행 금지’ 제도를 시행한 이후 풍경이다. 관광객들은 오후 5시부터 다음 날 오전 10시까지 북촌의 주거 지역을 다닐 수 없다. 어길 경우 과태료 10만원을 부과한다. 통금 제도를 시행한 건 1988년 이후 37년 만이다. 7월부터는 관광버스 통행도 금지한다. 2023년 북촌을 찾은 관광객 수는 665만명. 주민 수의 1000배에 달하는 관광객이 몰리면서 소음, 주차난 등 문제가 불거졌고 종로구가 나서 대책을 마련한 것이다.&lt;br&gt;&lt;br&gt;서울시에 따르면, 작년 11월부터 4개월간 가회동 지역의 유동 인구는 하루 평균 6593명으로 1년 전 같은 기간보다 262명(3.8%) 줄었다. 특히 야간 통금 시간의 유동 인구는 평균 5176명으로 1년 전보다 415명(7.4%) 줄었다. 통금 조치가 효과가 있었던 셈이다. 반면 낮 시간대(낮 12시~오후 5시)는 평균 1만5명으로 181명(1.8%) 증가했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EJEQ6L76ONDP5LR23SCEENGRVY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;11일 오후 서울 종로구 북촌한옥마을에서 보안관들이 구경온 한 외국인 관광객에게 통금을 설명하고 있다. /장련성 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;종로구 관계자는 “실제로 과태료를 부과한 사례는 없지만 수시로 안내·계도한 효과가 있는 것으로 보인다”고 했다. 이날 북촌에서 만난 일본인 관광객 다카하시(21)씨는 “서울 관광 안내 홈페이지에 ‘저녁에 가면 안 된다’고 쓰여 있어 일찍 찾아왔다”고 했다. 관광 가이드들도 저녁 코스로 북촌을 빼고 있다고 한다.&lt;br&gt;&lt;br&gt;북촌에 사는 주민들은 “이제 일상을 찾았다”고 입을 모았다. 주민 류보람(43)씨는 “예전엔 차 좀 빼달라고 전화하는 게 일이었는데 이젠 살 만하다”고 했다. 그는 “대문을 안 잠그면 관광객들이 들어와 깜짝깜짝 놀랐다”며 “집 마당에 드론이 들어온 적도 있다”고 했다. 주민 조모(49)씨는 “통금 이후 처음으로 저녁에 창문을 열었다”고 했다. 그는 “밤마다 담배 피우고 떠드는 관광객들 때문에 속을 끓였다”며 “층간 소음보다 더한데 어디 하소연할 곳도 없었다”고 했다.&lt;br&gt;&lt;br&gt;종로구에 따르면 소음, 쓰레기 등 문제로 북촌에서 접수된 주민 민원은 2018~2023년 1804건이었다. 하지만 통금을 실시한 이후 4달간 접수된 민원은 한 건도 없었다.&lt;br&gt;&lt;br&gt;줄어들기만 하던 주민 수도 다시 늘어날 조짐을 보이고 있다. 2019년 4400여 명이었던 가회동 인구는 작년 말 3800여 명까지 줄었다. 종로구 관계자는 “최근 전입 문의가 속속 들어오고 있다”며 “작년 말엔 젊은 부부가 아이를 데리고 북촌으로 이사 왔다”고 했다.&lt;br&gt;&lt;br&gt;하지만 상인들은 울상이다. 북촌에서 8년째 한복 대여 가게를 하고 있는 김모(46)씨는 “한복은 2시간 단위로 빌려주는데 오후 5시부터 통금이라 3시면 손님이 끊긴다”며 “요즘 매출이 1년 전의 절반밖에 안 된다”고 했다. 일부 상인은 법원에 통금을 풀어달라는 가처분 신청을 내겠다고 했다.&lt;br&gt;&lt;br&gt;정란수 한양대 관광학부 겸임교수는 “일본이나 이탈리아처럼 관광객들에게 관광세를 받아 주민이나 상인들을 위해 쓰거나 계절에 따라 탄력적으로 통금 시간을 운영하는 방법을 검토해볼 만하다”고 했다. 종로구는 “구가 나서서 북촌 가게들을 홍보하는 방안 등 보완 대책을 검토하고 있다”고 했다.&lt;br&gt;&lt;br&gt;일부 주민들은 한옥을 개조해 만든 이른바 ‘한옥스테이’ 숙박 업소들도 문제라고 지적했다. &lt;br&gt;&lt;br&gt;한옥마을에서 만난 한 주민은&lt;br&gt;&lt;br&gt; “한옥스테이에 투숙하면 통금 시간에도 마음대로 다닐 수 있다”며 “밤새 떠드는 단체 관광객들도 있다”고 했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JNPQZYU5C5DNRJZW4TNSXOWVTQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;11일 오후 서울 종로구 북촌한옥마을에서 카우보이 복장의 보안관이 오후 5시가 되자 관광객 퇴장을 유도하고 있다. 지난해 11월부터 북촌 주민의 사생활을 보호하기 /장련성 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/N7HFQ4B7NJAD5FU3MHZKK37RC4.gif?width=640&amp;height=360&amp;auth=0aa5801330c098cdda32aee5d4ffe21db0561e4d0c862dffe36d3da037ca211e&amp;smart=true" type="image/jpeg" height="360" width="640">
-        <media:description type="plain">지난 11일 ‘야간 통금 시간’이 시작되는 오후 5시 전후 서울 종로구 북촌한옥마을의 모습./장련성 기자</media:description>
-      </media:content>
     </item>
   </channel>
 </rss>
