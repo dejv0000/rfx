@@ -13,6 +13,22 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>출근길 많은 눈... 서울 역대 가장 늦은 대설주의보</title>
+      <link>https://www.chosun.com/national/transport-environment/2025/03/18/FLTKUJPILRGPDMDBBU7C56AKBU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/03/18/FLTKUJPILRGPDMDBBU7C56AKBU/</guid>
+      <dc:creator>이가영 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 17 Mar 2025 22:01:17 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WX5BZUA36NKMVN6GBMQVGXU3HI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;눈이 내린 18일 서울 종로구 광화문광장 위로 시민들이 출근길을 재촉하고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;18일 때아닌 북극한파로 서울에 역대 가장 늦은 대설주의보가 내려졌다. 수도권과 강원내륙을 중심으로 전날 밤부터 내린 많은 눈이 쌓인 가운데, 돌풍과 함께 우박이 떨어지는 곳도 있어 주의가 요구된다. &lt;br&gt;&lt;br&gt;기상청에 따르면 17일 오후 8시부터 18일 오전 6시까지 강원도 철원에는 14㎝의 눈이 내려 쌓였고, 경기 의정부(13.6㎝)와 포천(12.7㎝)에도 많은 눈이 내렸다. 서울 강북 지역(11.9㎝)도 10시간 동안 쌓인 눈의 양이 10㎝를 넘어섰다. &lt;br&gt;&lt;br&gt;영하 40도에 달하는 북극 한기를 동반한 강한 극 저기압이 내륙으로 유입돼 영향을 주고 있기 때문이다. 이에 따라 대설주의보는 수도권부터 충청도, 전라도, 경상도, 제주도까지 전국으로 확대됐다. 강원도와 울릉도에는 대설경보가 발효됐다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6MCLFGMBOVME3PGG555XMWGKP4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;폭설이 내린 18일 오전 경기도 의정부시의 한 도로 곁에 세워둔 자전거 위에 눈이 쌓여 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;3월 중하순 무렵에 대설특보가 전국 대부분 지역으로 확대된 건 2018년 이후 7년 만이다. 특히 서울의 대설특보는 관측이 제대로 이뤄진 1999년 이후 가장 늦은 기록이다. &lt;br&gt;&lt;br&gt;기상청은 수도권의 경우 이날 아침까지 시간당 최대 5㎝의 눈이 내릴 것으로 예상했다. 충청과 전라권은 이날 오전까지, 경상권은 이날 오후까지 눈이 이어질 것으로 보인다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SMEL6NT4OZL7FN7Z4HDLVYC3HY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;눈이 내린 18일 서울 종로구 광화문광장에서 한 시민이 눈 내리는 풍경을 촬영하고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;특히 강원동해안과 산지 일부 지역에는 이날 오후까지 시간당 최대 10㎝의 눈이 내릴 수 있다. 기상청은 “강원도를 중심으로 눈이 긴 시간 이어져 많고 무거운 눈에 의해 축사 및 비닐하우스가 붕괴되거나 소형 선박이 침몰 피해를 입을 수 있으니 유의해야 한다”고 했다. 이어 “많은 눈으로 인해 고립될 가능성도 있으니 사전에 교통 상황을 확인하고, 등산객들은 산행을 자제해 달라”고 당부했다. &lt;br&gt;&lt;br&gt;전국 대부분 지역에 내리던 눈 또는 비는 늦은 오후 수도권과 전라권을 시작으로 그칠 것으로 예보됐다. 이날 밤에는 전국 대부분 지역의 눈이 그치겠다. 다만 제주도 산지는 19일 새벽까지 눈이 이어지겠다. &lt;br&gt;&lt;br&gt;비 또는 눈이 내리는 지역에서는 돌풍과 함께 천둥‧번개가 치고, 우박이 떨어지는 곳도 있겠다. 기상청은 “가시거리가 짧아지고, 빙판길과 도로 살엄음이 나타나는 곳이 많겠으니 차량 운행 시 안전거리 확보 및 감속 운행 등으로 출근길 교통안전에 각별히 유의해 달라”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/HQPYI3OB5JBF3OMPHNXYYJJQYI.jpg?width=3970&amp;height=2233&amp;auth=57978751a1c0ec2d70c82022f496c4a748e3de8631588fd500c84382469c6b8c&amp;smart=true" type="image/jpeg" height="2233" width="3970">
+        <media:description type="plain"> 3월 눈 내리는 서울
+    (서울=연합뉴스) 신현우 기자 = 눈이 내린 18일 서울 종로구 광화문광장에서 한 관계자가 눈을 치우고 있다. 2025.3.18
+    nowwego@yna.co.kr/2025-03-18 07:38:44/
+&amp;lt;저작권자 ⓒ 1980-2025 ㈜연합뉴스. 무단 전재 재배포 금지, AI 학습 및 활용 금지&amp;gt;</media:description>
+        <media:credit role="author" scheme="urn:ebu">신현우</media:credit>
+      </media:content>
+    </item>
+    <item>
       <title>[단독] “사업 5년 지연”... 건설사가 정부 상대로 5000억대 역대 최대 소송</title>
       <link>https://www.chosun.com/national/transport-environment/2025/03/18/WOTCHLWVFVDNVKOK2NBYK44IJ4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/03/18/WOTCHLWVFVDNVKOK2NBYK44IJ4/</guid>
@@ -992,15 +1008,6 @@
       <description/>
       <pubDate>Sat, 15 Mar 2025 01:08:42 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XBGLD5OSPHGG32WJ5QUJ55N5WY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;15일 전국이 대체로 흐린 가운데 제주도와 남해안을 중심으로 비나 눈이 오겠다.&lt;br&gt;&lt;br&gt;기상청에 따르면 이날 낮 기온은 서쪽 지역을 중심으로 15도 이상 오르겠고 밤에는 기온이 크게 떨어지면서 일교차가 크게 벌어지겠다.&lt;br&gt;&lt;br&gt;낮 최고 기온은 9~15도로 평년(10~14도)과 비슷하겠다.&lt;br&gt;&lt;br&gt;경북 남부 동해안에도 비(높은 산지의 경우 비 또는 눈)가 내리는 곳이 있겠고, 전남 내륙과 경남 내륙은 오후에 비가 소강 상태를 보이겠다. &lt;br&gt;&lt;br&gt;오전 중에는 전북 지역에, 오후 6시까지는 경북 남부에 0.1㎜ 미만의 빗방울이 떨어지는 곳이 있겠다.&lt;br&gt;&lt;br&gt;한편 기상청은 이날 오전 9시 30분을 기해 제주도 산지와 전남 구례, 경남 산청에 대설주의보를 발효했다.&lt;br&gt;&lt;br&gt;대설주의보는 24시간 동안 눈이 5㎝ 이상 쌓일 것으로 예측될 때 내려진다. 눈길 운전이나 보행 안전에 유의해야 한다.&lt;br&gt;&lt;br&gt;남해 동부 바깥 먼바다, 제주도 동부 앞바다, 제주도 남서쪽 안쪽 먼바다, 제주도 남동쪽 안쪽 먼바다, 제주도 남쪽 바깥 먼바다에는 풍랑경보가 내려진 상태다.&lt;br&gt;&lt;br&gt;제주도 북부, 제주도 동부, 제주도 북부 중산간 지역에는 강풍경보가 내려졌다.&lt;br&gt;&lt;br&gt;강풍특보가 발효된 제주도를 중심으로 오는 17일까지 바람이 순간풍속 70㎞/h 이상(제주도 산지 90㎞/h 이상)으로 매우 강하게 부는 곳이 있겠다.&lt;br&gt;&lt;br&gt;비 또는 눈이 내리는 지역에서는 차량 운행 시 안전거리를 충분히 확보하고 감속 운행하는 등 교통안전에 유의해야 한다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>노랗게 물든 봄</title>
-      <link>https://www.chosun.com/national/national_general/2025/03/15/D4MUPWD4IFFSLA2XGCOKGT376A/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/03/15/D4MUPWD4IFFSLA2XGCOKGT376A/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Fri, 14 Mar 2025 20:12:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MCTLD2NI5VHJZJFTYM4SNZOUAQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/김영근 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;14일 오전 전남 구례군 산동면. 산수유가 노란 꽃망울을 활짝 터뜨렸다. 관광객들이 산수유꽃이 활짝 핀 산책로를 걷고 있다. 이날 구례군의 낮 기온은 최고 21도까지 올라 완연한 봄 날씨를 보였다. 구례군에서는 15일부터 산수유꽃 축제가 열릴 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
