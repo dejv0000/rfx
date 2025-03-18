@@ -13,6 +13,24 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>“요즘 72세의 몸, 12년 전 65세와 비슷... 노인 기준 달라져야”</title>
+      <link>https://www.chosun.com/national/national_general/2025/03/19/CLIWOP2BGNHEZN6AXJK5HNBULI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/03/19/CLIWOP2BGNHEZN6AXJK5HNBULI/</guid>
+      <dc:creator>김자아 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 18 Mar 2025 22:35:39 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Q54QHQZ6V2KT2G76YZMXK5IGQM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 종로구에서 노인들이 이동하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;요즘 70대는 예전과 달리 노인이라는 말이 무색하다는 이야기가 나오고 있다. 실제로 보건의학적 관점에서도 요즘 70대는 10여 년 전 60대 못지않게 건강하다는 분석 결과가 나왔다.&lt;br&gt;&lt;br&gt;이윤환 아주대의료원 노인보건연구센터 교수는 18일 보건복지부가 스페이스쉐어 서울역에서 연 제3차 노인연령 전문가 간담회에서 발제자로 나와 “건강 노화를 고려할 때 현재 70세는 예전 65세 수준”이라고 밝혔다.&lt;br&gt;&lt;br&gt;이 교수는 보건의학적 관점에서의 적정 노인연령을 살펴보기 위해 ‘건강노화’(Healthy Aging) 개념을 사용했다. 아프지 않고 건강하게 보내는 기간을 가리키는 ‘건강수명’(Healthy Life Expectancy)과 유사한 개념인데, 여기에 신체 기능 상태를 더 반영했다.&lt;br&gt;&lt;br&gt;2011년과 2023년의 신체 기능 장애율을 분석한 결과 고령자의 중증 장애 비율은 65∼69세의 경우 4.2%에서 2.4%로, 70∼74세는 4.9%에서 4.4%로 줄었다.&lt;br&gt;&lt;br&gt;세부 연령별로 비교했을 때는 2023년 70세의 기능 상태가 2011년 65세와 비슷한 수준이었다.&lt;br&gt;&lt;br&gt;기능 상태 등을 종합적으로 고려한 건강노화지수는 12년 사이 평균 1점 증가했다. 2011년 당시 65세의 건강노화지수(10.88)와 유사한 연령대는 2023년엔 72세(10.81)였다.&lt;br&gt;&lt;br&gt;이 교수는 건강 노화 연령의 상향 추세가 이어질 것으로 내다봤다. 이 교수가 제시한 통계에 따르면 노년기에 진입 중인 1차 베이비붐 세대(1955∼1964년)가 이전 산업화 세대(1945∼1954년생)에 비해 만성질환 유병률이 줄고 의료비 지출도 감소하고 있다.&lt;br&gt;&lt;br&gt;아울러 현재 65세인 노인 연령 조정의 필요성을 시사했다. 건강 수명이 평균 72.5세(2020년)로 나타나고, 노인들이 생각하는 노인 연령 기준이 71.6세(2023년도 노인 실태 조사)로 조사된 점이 그 이유다.&lt;br&gt;&lt;br&gt;이날 간담회의 또 다른 발제자인 권정현 한국개발연구원(KDI) 연구위원도 ‘고령층의 건강 개선과 근로 기간 연장을 위한 정책 대응 방향’을 발표하면서 다양한 지표들을 볼 때 고령층의 전반적인 건강 개선이 이뤄졌다고 전했다.&lt;br&gt;&lt;br&gt;다만 권 연구위원은 “사회경제적 지위에 따라 건강 수준에 뚜렷한 격차가 존재한다”며 “노인 연령 조정에 있어 고령 집단 내 이질성에 대한 고려가 필요하다”고 지적했다.&lt;br&gt;&lt;br&gt;또 법정 정년 상향 이전에 재고용 제도를 적극 운영해야 한다고 주장했다. 그는 근로·사업소득을 반영해 국민연금 수급액을 깎는 감액 제도는 “노인 연령 조정 방향과 배치되는 제도로, 폐지 또는 기준 상향 등을 고려할 필요가 있다”고 했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>외국인 10명 중 4명 월급 300만원… 주로 이곳에서 일한다</title>
+      <link>https://www.chosun.com/national/national_general/2025/03/19/CMKCHW4LGNDOZE4YCEN6SZ5RUA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/03/19/CMKCHW4LGNDOZE4YCEN6SZ5RUA/</guid>
+      <dc:creator>이가영 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 18 Mar 2025 22:19:02 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YOULOKJNZKA4Q7BPRLR4BGTZYU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난해 인천 남동구 인천외국인근로자지원센터에서 60여명의 외국인 근로자들이 상담을 받으려고 줄을 서서 대기하고 있다. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국내에 비전문취업(E-9) 비자로 체류하는 외국인이 30만명을 넘어선 가운데, 300만원 이상의 월급을 받는 외국인이 10명 중 4명에 달하는 것으로 나타났다. &lt;br&gt;&lt;br&gt;통계청은 18일 ‘2024년 이민자 체류 실태 및 고용 조사 결과-체류자격별 외국인의 한국 생활’을 발표했다. 작년 12월 발표한 이민자 체류 실태 및 고용 조사 결과를 체류자격별로 세분화한 자료다. &lt;br&gt;&lt;br&gt;지난해 국내 외국인 156만1000명 가운데 비전문취업 비자로 체류하는 외국인은 30만3000명으로 집계돼 처음으로 30만명 선을 넘어섰다. 비전문취업 비자는 내국인 인력 부족을 보완하기 위해 도입된 제도로, 고용허가제를 통해 외국인 비전문 인력이 한국에서 취업할 수 있도록 허용한 비자다. &lt;br&gt;&lt;br&gt;이들 가운데 99.7%인 30만2000명이 취업자다. 광‧제조업에 종사하는 이들이 80.5%로, 가장 많았다. 이어 농림어업(14.4%), 건설업(3.0%) 순이었다. 전문인력(50.5%), 결혼이민(34.4%), 영주권(32.7%), 재외동포(31.3%) 등 다른 비자를 가진 취업자 중에서도 광‧제조업에서 일하는 비중이 가장 높았다. 일각에서는 “외국인 없으면 공장이 안 돌아간다”는 말이 나온다. &lt;br&gt;&lt;br&gt;외국인 임금근로자의 절반가량인 51.2%는 월급으로 200만~300만원을 받았다. 300만원 이상은 37.1%를 차지했다. 특히 월급이 300만원 이상인 외국인 임금근로자 비중은 5년 전인 2020년 16.4%에 비해 크게 늘었다. &lt;br&gt;&lt;br&gt;외국인 남성은 취업, 여성은 결혼을 목적으로 한국에 체류하는 경우가 많았다. 남성은 비전문 취업(90.9%), 전문인력(71.8%), 방문취업(57.3%) 비중이 높고, 여성은 결혼이민(79.6%)과 유학생(53.3%) 비율이 높았다. &lt;br&gt;&lt;br&gt;외국인 국적 비중은 한국계 중국(31.6%), 베트남(15.0%) 순이고, 아시아(91.0%)의 비중이 높았다. 외국인의 59.0%가 수도권에 거주하며, 방문취업(80.3%), 영주(77.0%), 재외동포(76.9%)의 수도권 거주 비중이 특히 높았다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>헌재, 재판관 회의서 월급 3% ‘셀프 인상’</title>
       <link>https://www.chosun.com/national/court_law/2025/03/19/BKLK3WDC4VG5VNET5HVHFHWDUY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/03/19/BKLK3WDC4VG5VNET5HVHFHWDUY/</guid>
@@ -961,28 +979,6 @@
         <media:description type="plain">박단 대한전공의협의회 비상대책위원장이 10일 오전 서울 여의도 국회에서 열린 의료현장 정상화를 위한 정책 토론회에서 전공의 수련 환경 문제와 개선 방향을 주제로 발표하고 있다. /뉴시스</media:description>
         <media:credit role="author" scheme="urn:ebu">xconfind</media:credit>
       </media:content>
-    </item>
-    <item>
-      <title>내란 혐의 첫 재판… 김용현 “野 패악질이 계엄 원인”</title>
-      <link>https://www.chosun.com/national/court_law/2025/03/18/VP7LOBTDJVHXBJQIN3VA73IYVA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/03/18/VP7LOBTDJVHXBJQIN3VA73IYVA/</guid>
-      <dc:creator>박혜연 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 17 Mar 2025 15:55:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/J5G622KBE2FK5Z2FKOZO3RQLJQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김용현 전 국방부 장관이 서울 종로구 헌법재판소에서 열린 윤석열 대통령 탄핵심판 4차변론에 증인으로 출석해 발언하고 있다./헌법재판소&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;12·3 비상계엄에 가담한 혐의로 기소된 김용현 전 국방부 장관이 첫 재판에서 “비상계엄은 헌법상 대통령의 고유 권한일 뿐 불법적 내란 모의가 아니다”라고 주장했다. &lt;br&gt;&lt;br&gt;17일 서울중앙지법 형사25부(재판장 지귀연)에서는 내란 중요 임무 종사 등 혐의로 구속 기소된 김 전 장관과 노상원 전 정보사령관, 김용군 전 제3야전사령부 헌병대장의 첫 정식 재판이 열렸다. 윤석열 대통령을 비롯해 총 8명이 기소된 내란죄 재판이 본격적으로 시작된 것이다.&lt;br&gt;&lt;br&gt;세 사람은 모두 짙은 회색 정장 차림으로 법정에 나왔다. 흰머리가 부쩍 늘어난 김 전 장관은 법정에 들어서자마자 재판부를 향해 허리를 숙여 인사했다.&lt;br&gt;&lt;br&gt;이날 재판에서는 윤 대통령 호칭을 두고 한때 소란이 빚어졌다. 검찰이 공소 사실을 밝히는 도중 김 전 장관 측 변호사가 “탄핵 핵심 인물이라면 더불어민주당 대표 이재명일 텐데, 그자에 대해선 아무 이름도 말하지 않고 국가원수를 ‘대통령 윤석열’이라고 말하는 건 부적절하다”고 항의한 것이다.&lt;br&gt;&lt;br&gt;김 전 장관은 약 20분간 직접 비상계엄 선포의 정당성을 주장했다. 그는 “거대 야당이 22번 이상 탄핵을 발의하고 예산을 삭감하는 등 패악질로 국정이 마비​된 상황이었다. 야당의 패악질 때문에 이뤄진 것을 여야 갈등으로 몰아가는 건 맞지 않는다”고 했다. 김 전 장관은 또 이 대표와 한동훈 전 국민의힘 대표 등 정치인 체포를 지시한 적이 없다고 주장했다. 재판부가 “(정치인들을) 체포하라는 말을 하긴 했느냐”고 묻자 김 전 장관은 “안 했다. 오염된 진술들을 갖고 팩트처럼 이야기하는 것은 굉장히 위험하다”고 답했다. &lt;br&gt;&lt;br&gt;김 전 장관 등은 윤 대통령과 비상계엄 선포를 모의하고 실행에 옮긴 혐의 등으로 기소됐다. 이에 대해 김 전 장관은 “헌법상 대통령의 고유 권한인 비상계엄을 준비하기 위해 의견을 나눈 것을 어떻게 ‘불법 모의’라고 표현하는지 이해할 수 없다”고 했다.&lt;br&gt;&lt;br&gt;한편 경찰 특별수사단은 17일 윤 대통령의 체포 영장 집행을 방해한 혐의 등으로 김성훈 대통령경호처 차장과 이광우 경호본부장에 대한 구속영장을 또 신청했다. 김 처장은 네 번째, 이 본부장은 세 번째 구속영장이다. 두 사람에 대한 구속영장은 검찰이 ‘다툼 여지가 있다’ 등 이유로 번번이 반려했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/J5G622KBE2FK5Z2FKOZO3RQLJQ.jpg?width=910&amp;height=607&amp;auth=3235fee6073739491ecfb1480c1884bf369b02e0d87ededbcb1c25bdb09db0dc&amp;smart=true" type="image/jpeg" height="607" width="910">
-        <media:description type="plain">김용현 전 국방부 장관이 서울 종로구 헌법재판소에서 열린 윤석열 대통령 탄핵심판 4차변론에 증인으로 출석해 발언하고 있다./헌법재판소</media:description>
-        <media:credit role="author" scheme="urn:ebu">헌법재판소 제공</media:credit>
-      </media:content>
-    </item>
-    <item>
-      <title>지역 의료 살리기 위한 국립대병원 복지부 이관, 2년째 국회 문턱 못 넘어</title>
-      <link>https://www.chosun.com/national/welfare-medical/2025/03/18/UBSPQ2CAPJFMHOVU3OYF7QWYD4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/03/18/UBSPQ2CAPJFMHOVU3OYF7QWYD4/</guid>
-      <dc:creator>정해민 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 17 Mar 2025 15:54:00 +0000</pubDate>
-      <content:encoded>정부가 지역 의료와 필수 의료를 강화하기 위해 국립대 병원을 교육부에서 보건복지부로 이관하는 방안을 추진해 왔지만, 2년째 실현되지 않고 있다. &lt;br&gt;&lt;br&gt;17일 보건복지부에 따르면, 복지부는 지난 2023년 10월 국립대 병원 등을 중심으로 필수 의료를 강화하는 내용의 ‘필수 의료 혁신 전략’을 발표했다. 여기엔 국립대 병원 관리 업무를 현재 교육부에서 복지부로 이관하겠다는 계획도 담겨 있었다. 국립대 병원은 국립대학 소속이라 교육부가 담당해 왔지만, 보건·의료 정책을 총괄하는 복지부가 관리하는 것이 더 적합하다는 취지다. 수도권 대형 병원으로 환자들이 쏠리는 가운데 국립대 병원을 키우는 게 지역·필수 의료를 강화하는 데 핵심이라는 의견도 있었다. 전국 국립대 병원 17곳 가운데 서울대병원·분당서울대병원을 제외한 15곳이 지방에 있다. 복지부는 국립대에 전폭적으로 예산을 지원해 지역의 중추적 의료 기관으로 키운다는 계획이다. &lt;br&gt;&lt;br&gt;특히 현 정부 들어 ‘유보 통합’을 추진하며 복지부의 어린이집 업무를 교육부로 이관하는 데 성공하면서, 국립대 병원의 복지부 이관도 수월하게 진행될 것이란 전망이 있었다. ‘부처 밥그릇 싸움’ 때문에 교육부가 반대하는 상황은 아니라는 뜻이다. &lt;br&gt;&lt;br&gt;하지만 2년째 국립대 병원의 이관은 국회 문턱을 넘지 못하고 있다. 현재 국회엔 국립대 병원의 복지부 이관 법안이 4개나 발의돼 있지만, 상임위에서 한 차례도 논의된 적이 없다.&lt;br&gt;&lt;br&gt;법안 논의가 지지부진한 데는 서울대병원을 비롯한 국립대 병원들의 반대가 심한 영향으로 알려졌다. 국립대 병원장을 지낸 한 교수는 “복지부에서 국립대 병원을 맡으면 교육·연구 기능은 저평가되고, 병원의 자율성이 떨어질 것이라고 교수들이 우려하고 있다”고 말했다. &lt;br&gt;&lt;br&gt;일각에선 작년 2월 시작된 ‘의정 갈등’ 이후 복지부에 대한 의대 교수들의 반감이 커진 것도 한 이유로 알려졌다. &lt;br&gt;&lt;br&gt;대부분 국립대 병원은 의정 갈등 이전부터 경영난을 겪어왔는데, 의정 갈등 이후 재정난은 더 심각해졌다. 전공의들의 집단 사직으로 업무 부담이 늘어난 지역 국립대 병원 교수들이 수도권 대형 병원으로 대거 이동하기도 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>공항서 쓰러진 외국인 임산부, 2시간 넘게 산부인과 찾다가 구급차 출산</title>
