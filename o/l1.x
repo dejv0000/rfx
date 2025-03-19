@@ -6,6 +6,36 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>벽산엔지니어링 회생 절차 개시… "화공EPC·해외시공 대규모 손실"</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/206462.jpg" alt="34267.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;《사진=벽산엔지니어링 로고》&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;중견 건설사 벽산엔지니어링의 회생 절차가 진행된다.&lt;br /&gt;&lt;br /&gt;서울회생법원 제16부(재판장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="9974"&gt;원용일&amp;nbsp;&lt;/span&gt;부장판사, 주심&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="25754"&gt;남승정&lt;/span&gt;&amp;nbsp;판사)는 3월 4일 회생절차 개시 신청이 접수된 이후 5일 보전처분 및 포괄적 금지명령, 12일 대표자 심문절차를 거쳐 19일 회생절차 개시를 결정했다(&lt;b&gt;2025회합136&lt;/b&gt;). &lt;br /&gt;&lt;br /&gt;벽산엔지니어링은 2024년 기준 시공능력평가 순위 180위에 해당하는 업체다. 법원에 따르면 벽산엔지니어링은 화공 EPC(설계·조달·시공) 및 해외 시공 프로젝트에서 대규모 손실이 발생하면서 신용등급이 하락했다. &lt;br /&gt;&lt;br /&gt;이에 따라 자금 조달이 어려워지고 금융부채의 원리금 상환 부담이 증가했으며, 벽산파워 등에 대한 지급보증 채무의 현실화 우려도 커졌다. 이러한 요인들이 복합적으로 작용하면서 정상적인 회사 운영이 어려운 상황에 이른 것으로 알려졌다.&lt;br /&gt;&lt;br /&gt;법원은 이번 결정에서 별도의 관리인을 선임하지 않는 관리인불선임 결정을 내렸다. 이에 따라 현 경영진이 그대로 관리인의 역할을 수행하게 된다. 다만 경영진의 위법 행위가 밝혀질 경우 교체될 수 있다.&lt;br /&gt;&lt;br /&gt;또 주요 채권자들로 구성된 채권자협의회가 향후 회생절차 진행 및 재무구조 개선과 관련해 협의를 주도하게 된다. 채권자협의회 추천을 통해 선임될 구조조정 담당임원(CRO)이 벽산엔지니어링의 자금운용을 감독할 예정이다.&lt;br /&gt;&lt;br /&gt;채권자 목록은 4월 2일까지 제출해야 하며, 채권 신고는 4월 17일까지다. 채권 조사 기간은 5월 2일까지이며, 삼화 회계법인이 조사보고서를 5월 16일까지 제출할 예정이다. 회생계획안 제출 기한은 6월 20일까지다.</description>
+			<pubDate>Wed, 19 Mar 2025 06:05:30 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/206462</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/206462</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/206462.jpg</media:thumbnail>
+			<dc:creator>안재명 기자</dc:creator>
+		</item>
+		<item>
+			<title>김호중 측 "술타기 오해로 과도한 처벌 안 돼"… 항소심 선고 4월 25일</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/206460.jpg" alt="32425.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;트로트 가수 김호중 《사진=연합뉴스》&lt;/figcaption&gt;   &lt;/figure&gt;&lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;음주 뺑소니 사고로 기소된 트로트 가수 김호중(33) 씨 측이 항소심 최종변론에서 "‘술타기 수법’이라는 오해가 과도한 처벌로 이어져선 안 된다"며 감형을 요청했다.&lt;br /&gt;&lt;br /&gt;서울중앙지법 형사항소5-3부(재판장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="10013"&gt;김지선&lt;/span&gt;,&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="5470"&gt;소병진&lt;/span&gt;,&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="9623"&gt;김용중&amp;nbsp;&lt;/span&gt;부장판사)는 19일 김 씨의 항소심 결심공판을 진행했다(&lt;b&gt;2024노4047&lt;/b&gt;).&lt;br /&gt;&lt;br /&gt;이날 김 씨의 변호인 임혜진 법무법인 동인 변호사는 "김 씨는 자신의 잘못을 인정하고 깊이 반성하고 있다"며 "감사하게도 피해자인 택시 기사께서도 처벌을 원하지 않는다는 의사를 밝혔다"고 말했다.&lt;br /&gt;&lt;br /&gt;이어 "김 씨가 이 사건에서 이른바 '술타기 수법'(사고 후 음주로 혈중알코올농도 측정을 방해하는 방법)을 사용한 것이 아님에도 불구하고, 이런 오해가 과도한 처벌로 이어져선 안 된다"며 "만약 의도적으로 ‘술타기’를 시도했다면, 독주를 마시거나 일부 버리는 등의 행동을 했을 것"이라고 주장했다. 그러면서 "사고 직후 김 씨가 처음에는 술을 마시지 않았다고 주장했던 점을 보더라도, 통상적인 ‘술타기’ 수법과는 다르다"고 강조했다.&lt;br /&gt;&lt;br /&gt;또 김 씨 측은 특정범죄가중처벌법상 위험운전치상죄의 요건이 충족되지 않았다고 반박했다. 검찰은 CCTV 영상 속에 김 씨가 비틀거리는 모습 등을 근거로 김 씨가 만취 상태에서 운전했다고 주장했으나, 변호인 측은 "김 씨는 발목이 불편해 평소에도 공식 석상이 아니면 다리를 절뚝거린다"며 "사고는 음주의 영향이 아니라, 과도한 휴대전화 조작이 원인이었다"고 주장했다.&lt;br /&gt;&lt;br /&gt;목발을 짚고 나온 김 씨는 최후진술에서 "서울구치소에 수감돼 있던 동안 잘못을 하나도 빠뜨리지 않고 들여다보고 제 진심을 담아 반성하려고 노력했다"며 "제가 지은 죄는 평생 지워지지 않겠지만, 이번 일을 기폭제 삼아 이전과 다른 새 삶을 살도록 가꿔나가겠다"고 말했다.&lt;br /&gt;&lt;br /&gt;검찰은 "피고인의 항소를 기각하고, 검찰의 항소를 인용해 달라"며 1심과 동일하게 징역 3년 6개월을 구형했다. &lt;br /&gt;&lt;br /&gt;재판부는 4월 25일 판결을 선고할 예정이다.&lt;br /&gt;&lt;br /&gt;김 씨는 2024년 5월 9일 자정경 서울 강남구 압구정로에서 음주 상태로 운전하던 중 중앙선을 침범해 반대편 도로의 택시와 충돌한 뒤 달아나고, 매니저에게 대신 자수를 하도록 시킨 혐의로 기소됐다. 1심은 2024년 11월 김 씨에게 징역 2년 6개월을 선고하고 법정구속했다.&lt;/p&gt;</description>
+			<pubDate>Wed, 19 Mar 2025 06:01:45 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/206460</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/206460</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/206460.jpg</media:thumbnail>
+			<dc:creator>안재명 기자</dc:creator>
+		</item>
+		<item>
+			<title>법무법인 지평 자본시장그룹, ‘2025 지평 IPO 포럼’ 웨비나 개최</title>
+			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/thumb/180/206459.jpg" alt="46378_03.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;b&gt;&lt;a href="https://www.jipyong.com/kr/main/main.php" target="_blank"&gt;법무법인 지평&lt;/a&gt;&lt;/b&gt;(대표변호사&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="2162"&gt;김지홍&lt;/span&gt;·&lt;span style="font-weight: bold;" class="lawmanlink" serial="7965"&gt;이행규&lt;/span&gt;) 자본시장그룹은 오는 4월 2일 오후 2시 '2025 지평 IPO 포럼' 웨비나를 개최한다.&lt;br /&gt;&lt;br /&gt;급변하는 IPO 시장에서 상장을 준비하는 기업과 주관사가 상장 준비·심사 과정에서 마주하는 법률 이슈와 상장유지 요건 강화 등 최근 쟁점들을 살펴보고, 대응방안을 모색하기 위해서다.&lt;br /&gt;&lt;br /&gt;웨비나는 두 개의 세션으로 진행된다. 제1세션에서는&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="34630"&gt;김진하&lt;/span&gt;(40·변호사시험 4회) 파트너변호사가 'IPO 준비기업의 실무상 주요 쟁점'을,&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="32638"&gt;이유진&lt;/span&gt;(34·변시 6회) 파트너변호사가 '외국기업의 한국거래소 IPO'를 주제로 발표한다. 제2세션에서는 'IPO와 상장유지 제도 동향'을 주제로 공인회계사인 장영은 수석전문위원이 '2024년 IPO결산, 상장유지 제도개선(안)'에 대해 발표한다.&lt;br /&gt;&lt;br /&gt;이후 한국거래소에서 32년간 재직하고 부이사장을 역임해, 지평 상장유지 지원센터장을 맡고 있는 채남기 고문의 인터뷰와 앞선 발표에 대한 질의응답이 이어진다.&lt;br /&gt;&lt;br /&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="7965"&gt;이행규&lt;/span&gt;(53·28기) 법무법인 지평 대표변호사는 "성공적인 IPO를 위해 변화하는 IPO 시장 환경을 파악하고 대응해야 한다"며 "이번 웨비나가 IPO 상장 준비와 심사에 관한 유익한 정보를 제공하는 자리가 되길 바란다"고 말했다.&lt;br /&gt;&lt;br /&gt;이번 웨비나는 무료로 온라인에서 진행된다. 참가신청은 지평 홈페이지를 통해 가능하며, 신청자에게 웨비나 접속 링크와 사전안내문이 개별 메일로 발송될 예정이다.</description>
+			<pubDate>Wed, 19 Mar 2025 05:59:44 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/206459</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/206459</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/206459.jpg</media:thumbnail>
+			<dc:creator>서하연 기자</dc:creator>
+		</item>
+		<item>
 			<title>공수처, '계엄 모의 의혹' 원천희 국방정보본부장 소환조사</title>
 			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/206458.jpg" alt="54648.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;원천희 국방정보본부장 《사진=연합뉴스》&lt;/figcaption&gt;   &lt;/figure&gt;&lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;12·3 비상계엄 사태를 수사 중인 고위공직자범죄수사처(공수처)가 원천희 국방정보본부장을 소환조사했다.&lt;br /&gt;&lt;br /&gt;공수처는 3월 19일 내란공모혐의를 받는 원 본부장을 피의자 신분으로 불러 조사했다. 앞서 2월 21일 공수처는 원 본부장의 사무실과 주거지를 압수수색했다.&lt;br /&gt;&lt;br /&gt;원 본부장은 비상계엄 선포 전날인 지난해 12월 2일 문상호 전 정보사령관이 김용현 전 국방부 장관을 만나 대면보고 하는 자리에 동석한 것으로 알려졌다. 원 본부장은 이 자리에서 비상계엄을 사전 모의했다는 혐의를 받는다.&lt;br /&gt;&lt;br /&gt;문 전 사령관은 1일, 3일 노상원 전 정보사령관 등과 만나 중앙선거관리위원회 점거와 계엄사령부 합동수사본부 예하 '제2수사단' 조직 등을 논의한 것으로 파악됐다. 제2수사단은 계엄 선포 뒤 부정선거 관련 선거를 담당하기 위한 조직으로 알려졌다.&lt;br /&gt;&lt;br /&gt;공수처는 원 본부장이 계엄 선포를 사전에 인지하고 계엄 모의와 제2수사단 운영 논의에 관여했는지 들여다보고 있다.&lt;br /&gt;&lt;br /&gt;경찰청 국가수사본부는 1월 원 본부장을 조사하고, 2월 12일 원 본부장을 비롯한 군 관계자 6명을 공수처로 이첩했다. &lt;/p&gt;</description>
 			<pubDate>Wed, 19 Mar 2025 02:36:57 -0000</pubDate>
@@ -211,36 +241,6 @@
 			<link>https://www.lawtimes.co.kr/news/206448</link>
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/206448</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/206448.jpg</media:thumbnail>
-			<dc:creator>조한주 기자</dc:creator>
-		</item>
-		<item>
-			<title>수원지법 '전세사기 피해자 주거 안정을 위한 간담회'</title>
-			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/206447.jpg" alt="206447.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;수원지방법원(법원장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="2962"&gt;김세윤&lt;/span&gt;)은 17일 경기도 수원시 영통구 하동 수원법원종합청사 중회의실에서 ‘전세사기 피해자의 주거 안정을 위한 간담회’를 개최했다.&lt;br /&gt;&lt;br /&gt;간담회는 ‘전세사기 피해자 지원 및 주거 안정을 위한 특별법’ 종료를 앞두고, 전세사기 피해자가 임차인으로 있는 법원 경매 사건 중 우선매수권을 행사하려는 물건을 신속하게 매각하는 방안을 논의하기 위해 마련됐다. 특별법은 오는 5월 31일 종료될 예정이다.&lt;br /&gt;&lt;br /&gt;간담회에는 국토교통부 전세사기피해지원단 피해지원총괄과, 한국토지주택공사 주거복지본부 전세피해지원단 등이 참석했다. 이들은 전세사기 경매사건에 대한 각 기관의 입장과 협조 범위, LH 우선매수권 행사, 향후 매각 진행 방향에 대해 논의했다.&lt;br /&gt;&lt;br /&gt;수원지법 관계자는 “이번 간담회에서 논의된 사항이 다른 법원의 전세사기 피해자 경매 사건 처리에도 도움이 될 수 있도록 법원행정처에 결과를 보고할 계획”이라고 말했다.</description>
-			<pubDate>Tue, 18 Mar 2025 12:41:55 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/206447</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/206447</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/206447.jpg</media:thumbnail>
-			<dc:creator>조한주 기자</dc:creator>
-		</item>
-		<item>
-			<title>법무법인 디엘지, 국내 로펌 최초 태국 합작법인 ‘DLG &amp; AP’ 출범</title>
-			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/thumb/180/206440.jpg" alt="206440.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;b&gt;&lt;a href="https://dlglaw.co.kr/" target="_blank"&gt;법무법인 디엘지&lt;/a&gt;&lt;/b&gt;(대표변호사&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="5968"&gt;조원희&lt;/span&gt;‧&lt;span style="font-weight: bold;" class="lawmanlink" serial="28309"&gt;안희철&lt;/span&gt;)가 태국 AP Law Office와 손잡고 국내 최초로 태국 합작법인 ‘DLG &amp; AP’를 출범했다.&lt;br /&gt;&lt;br /&gt;3월 14일 태국 방콕 방나 지역 66타워에서 열린 개소식에는 태국 주재 한국 정부 기관과 대기업 관계자들이 참석했다.&lt;br /&gt;&lt;br /&gt;DLG &amp; AP는 태국을 비롯한 동남아시아 전역에 △기업 설립 △금융 및 자금 조달 △노무·인사 △세무 △IP 등록과 침해 대응 등은 물론, 다른 외국계 로펌은 잘 제공하지 않는 태국 내 소송 업무도 수행할 예정이다.&lt;br /&gt;&lt;br /&gt;합작법인의 대표변호사는 아피왓 낙참눈(Apiwat Narkchamnun) 태국 시니어 변호사가 맡고, 재무 등 회사 운영의 총괄은&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="9520"&gt;유정훈&lt;/span&gt;(51·사법연수원 32기) 디엘지 변호사가 담당한다. &lt;br /&gt;&lt;br /&gt;낙참눈 변호사는 기업법·중재·준법감시 전문가로, 10년 이상의 송무 경력을 지녔다. 국내 로펌에 합류한 최초의 태국 시니어 변호사이기도 하다. 유 변호사는 M&amp;A와 투자 구조 설계, 지배구조 및 규제 대응 분야의 전문가다. 약 20년 동안 캄보디아와 라오스, 미얀마, 태국 등지에서 한국 및 일본 기업의 법률 자문을 해왔다. &lt;br /&gt;&lt;br /&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="5968"&gt;조원희&lt;/span&gt;(55·30기) 디엘지 대표변호사는 “아시아 기업들의 글로벌 확장이 가속화되는 상황에서 양질의 크로스보더 법률 서비스를 제공하는 기반을 마련했다는 점에서 큰 의미가 있다”고 전했다.</description>
-			<pubDate>Tue, 18 Mar 2025 12:39:20 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/206440</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/206440</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/206440.jpg</media:thumbnail>
-			<dc:creator>박수현 기자</dc:creator>
-		</item>
-		<item>
-			<title>법무부, 전주대사습청과 수용자 위한 '전통 문화 예술공연'</title>
-			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/206439.jpg" alt="206439.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;법무부(장관 직무대행&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="3270"&gt;김석우&lt;/span&gt;)는 17일 오후 2시 전북특별자치도 전주시 완산구 평화동3가 전주교도소에서 수용자를 위한 전통예술 공연을 열었다. 이번 공연은 법무부와 전주대사습청이 함께 마련한 것으로, 수용자의 심성을 순화하고 사회 복귀에 대한 희망을 키우기 위해 기획됐다.&lt;br /&gt;&lt;br /&gt;이날 공연에서는 판소리, 사물놀이, 전통 무용 등 다양한 전통예술 공연이 펼쳐졌다. 법무부 교정본부 관계자는 “일상적으로 접하기 어려운 전통예술을 교도소 안에서도 경험할 수 있도록 기획한 프로그램”이라며 “문화를 통해 수용자들이 마음을 정화하고, 건강한 사회 복귀를 준비할 수 있도록 돕는 교정·교화 프로그램의 일환”이라고 설명했다.&lt;br /&gt;&lt;br /&gt;이번 공연에 참여한 전주대사습청은 사단법인 전주대사습놀이보존회가 ‘전주대사습놀이’를 계승하고 전통 문화예술의 저변을 확대하기 위해 2021년 설립한 단체다. 전주대사습놀이는 전주 지방에서 거행된 궁술대회(숙종), 전주 특유의 통인물 놀이(영조), 판소리·백일장(철종) 등에서 유래된 종합 민속 경연대회로, 일제강점기 때 단절됐다가 1975년 복원됐다.&lt;br /&gt;&lt;br /&gt;법무부는 전주대사습청과 협력해 전주교도소를 시작으로 11월까지 전국 17개 교정시설에서 순차적으로 공연을 진행할 예정이다. 법무부 관계자는 “앞으로도 문화예술을 활용한 교정·교화 프로그램을 지속적으로 운영해 수용자들의 심리적 안정을 도모하고, 성공적인 사회 복귀를 지원할 계획”이라고 밝혔다.</description>
-			<pubDate>Tue, 18 Mar 2025 12:36:57 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/206439</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/206439</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/206439.jpg</media:thumbnail>
 			<dc:creator>조한주 기자</dc:creator>
 		</item>
 	</channel>
