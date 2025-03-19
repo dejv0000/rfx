@@ -6,6 +6,26 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>법률신문·대한행정사회, '행정사 인식 제고' 위한 업무협약 체결</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/206465.jpg" alt="4353637.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: left; font-size:14px; line-height: 1.6em"&gt;대한행정사회가 19일 법률신문을 방문했다. 왼쪽부터 조중환 과장, 조훈환 국장, 황해봉 회장, 강창국 본부장.&lt;/figcaption&gt;   &lt;/figure&gt;&lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;법률신문(대표 이수형)과 대한행정사회(회장 황해봉)는 3월 19일 '행정사의 대국민 인식 제고를 위한 업무협약(MOU)'을 체결했다. &lt;br /&gt;&lt;br /&gt;업무협약에 따라 두 기관은 법조계를 비롯한 사회 전반에 행정사 업무와 역할에 대한 인식을 높이고, 양 기관 발전을 위해 긴밀히 협력하기로 했다.&lt;br /&gt;&lt;br /&gt;황 회장은 "행정사회는 사실상 행정안전부 산하의 유일한 공익 단체"라며 "국민들이 행정사 업무를 잘 알 수 있도록 양사가 서로 협력할 것"이라고 말했다.&lt;br /&gt;&lt;br /&gt;황 회장은 부산대 철학과를 졸업하고 독일 프라이부르크대 대학원에서 법학 석사 학위를, 경희대 대학원에서 법학 박사 학위를 취득했다. 1990년 제34회 행정고시에 합격한 그는 법제처 법제심의관, 국민권익위원회 행정심판국장, 한성대 행정대학원 겸임교수 등을 지냈다. 이후 2023년 6월부터 행정사회 제2대 회장으로 활동 중이다.&lt;br /&gt;</description>
+			<pubDate>Wed, 19 Mar 2025 12:37:39 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/206465</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/206465</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/206465.jpg</media:thumbnail>
+			<dc:creator>박수현 기자</dc:creator>
+		</item>
+		<item>
+			<title>강창효 변호사 본사 방문</title>
+			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/thumb/180/206464.jpg" alt="34537.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="21924"&gt;강창효&lt;/span&gt;(38·사법연수원 42기) 변호사가 19일 서울 서초구 법률신문사를 방문해 이수형 사장 등과 환담했다. 김은광 소속 변호사도 함께 방문해 인사를 나눴다.&lt;p&gt;   &lt;br /&gt;강 변호사는 "퇴직 후 개업하여 변호사로 근무한지 만 1년이 되어간다"며 "앞으로도 고객에게 적합한 법률서비스를 제공하기 위해 최선의 노력을 다 하겠다"고 말했다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;강 변호사는 서울대 법대를 졸업한 뒤 2009년 제51회 사법시험에 합격했다. 2016년 4월 대전지법 판사로 임관한 그는 수원지법·수원회생법원 판사 등을 지낸 뒤 2024년 퇴직했다. 현재 강창효 법률사무소의 대표변호사다.&lt;br /&gt;&lt;/p&gt;</description>
+			<pubDate>Wed, 19 Mar 2025 12:36:26 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/206464</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/206464</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/206464.jpg</media:thumbnail>
+			<dc:creator>박수연 기자</dc:creator>
+		</item>
+		<item>
 			<title>[판결] 민희진, 악플러 손해배상 일부 승소…法 "경멸적 인신공격"</title>
 			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/206474.jpg" alt="9866.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;민희진 전 어도어 대표 《사진=연합뉴스》&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;걸그룹 뉴진스(새 활동명 NJZ) 관련 분쟁으로 하이브와 결별한 민희진 전 어도어 대표가 자신을 상대로 악성 댓글을 단 사람들을 상대로 손해배상 청구 소송을 제기해 일부 승소했다.&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;서울중앙지법 민사202단독&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="19065"&gt;안현진&lt;/span&gt;&amp;nbsp;판사는 민 전 대표가 A 씨 등 8명에게 제기한 2400만 원 상당의 손해배상 소송(&lt;b&gt;2024가단5267294&lt;/b&gt;)에서 2월 10일 원고 일부승소 판결했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;안 판사는 악플러 4명에게 5만~10만 원의 위자료를 민 전 대표에게 주라고 판결했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;안 판사는 "원고에 대한 모욕적이고 경멸적인 인신공격으로 단순한 의견 표명으로서의 한계를 벗어났다"며 "원고의 사회적 평가를 저하할 만한 추상적 판단이나 경멸적 감정의 표현"이라고 판시했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;나머지 악플러 4명에 대해선 "모욕적·경멸적 의미가 비교적 경미하고 지나치게 악의적이지 않다"며 민 전 대표의 청구를 기각했다. 양측이 항소하지 않음에 따라 이 판결은 확정됐다.&lt;/p&gt;&lt;p&gt;&amp;nbsp; &lt;br /&gt;악플러들은 지난해 민 전 대표와 하이브 간 법적 분쟁을 다룬 기사에 "딱 세 글자 미XX" "쓰XX" 등 민 전 대표를 비방하는 댓글을 달았다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;하이브는 2024년 4월 민 전 대표가 하이브로부터 어도어를 독립시키고 경영권을 탈취하려고 한다는 입장을 발표했다. 이에 민 전 대표는 두 차례에 걸쳐 하이브 측 주장을 반박하는 기자회견을 열었다. 하이브는 같은해 8월 민 전 대표를 어도어 대표이사직에서 해임했고 민 전 대표는 어도어를 나왔다. 어도어는 올 1월, 뉴진스(NJZ) 멤버들을 상대로 서울중앙지법에 활동 금지 가처분을 신청했다. 가처분 결정은 이달 말 나올 전망이다.&lt;/p&gt;</description>
 			<pubDate>Wed, 19 Mar 2025 08:38:56 -0000</pubDate>
@@ -222,26 +242,6 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/206454</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/206454.jpg</media:thumbnail>
 			<dc:creator>안재명 기자</dc:creator>
-		</item>
-		<item>
-			<title>[포토] 내 마음의 풍경</title>
-			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/206457.jpg" alt="23426.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p style="text-align: left;"&gt;봄을 시샘한 날씨. 18일 서울법원종합청사 산수유나무에 눈이 내려 앉았다.&lt;/p&gt;&lt;p style="text-align: left;"&gt;&amp;nbsp;&lt;/p&gt;&lt;p style="text-align: right;"&gt;   &lt;b&gt;백성현 기자   stwhite@lawtimes.co.kr&lt;/b&gt;&lt;/p&gt;</description>
-			<pubDate>Tue, 18 Mar 2025 20:05:43 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/206457</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/206457</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/206457.jpg</media:thumbnail>
-			<dc:creator>인터넷 기자</dc:creator>
-		</item>
-		<item>
-			<title>"사재 출연, 형사 리스크 대응 차원?"</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/206449.jpg" alt="234225.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;《사진=MBK파트너스 로고》&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;김병주 MBK파트너스 회장이 “사재를 출연하겠다”고 밝힌 데 대해 그 배경에도 관심이 모아지고 있다. 사모펀드(PE)의 대주주가 투자 및 경영 실패에 따른 손실을 보전하는 차원에서 사재를 출연하는 것이 이례적이기 때문이다.&lt;p&gt;&amp;nbsp; &lt;br /&gt;MBK는 3월 16일 MBK 회사 명으로 낸 입장문에서 “김 회장은 특히 어려움이 예상되는 소상공인 거래처에 신속히 결제 대금을 지급할 수 있도록 재정 지원을 마련하겠다”고 밝혔다. 김광일 MBK 부회장은 3월 18일 서울 여의도 국회에서 열린 정무위원회 ‘홈플러스·MBK파트너스 및 삼부토건’ 관련 긴급 현안 질의에서 이와 관련 “홈플러스와 그 규모와 시기를 논의 중”이라고 말했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;법조계에서는 이번 사태가 검찰 수사와 재판으로 번질 수도 있을 것으로 보고 있다. 업무상 배임, 횡령, 사기 등 다양한 혐의로 수사가 확대될 수 있다고 본다. 이에 김 회장과 MBK가 선제적으로 대응하는 것이 아니냐는 분석을 내놨다. 악화된 여론을 달래기 위한 방어 전략이라는 해석이다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;한 대형 로펌 변호사는 “정무적 판단으로 보인다”며 “홈플러스 사태가 어떻게 수습되는지에 따라 경영진에게 형사적 책임을 물어야 한다는 여론이 형성될 수 있기 때문에 이를 고려한 판단을 내린 것 같다”고 말했다. 한 금융 전문 변호사도 “사모펀드 오너가 사재를 출연한 것을 처음 보는 것 같다”며 “돈이 문제가 아니라 형사 리스크를 줄이는 것이 중요하다고 본 것”이라고 했다.&lt;br /&gt;&lt;/p&gt;</description>
-			<pubDate>Tue, 18 Mar 2025 20:05:36 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/206449</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/206449</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/206449.jpg</media:thumbnail>
-			<dc:creator>임현경 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
