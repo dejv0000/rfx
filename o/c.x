@@ -13,6 +13,54 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>강남 유명 클럽 앞에서 집단 마약 투약…20대 女 의식 불명</title>
+      <link>https://www.chosun.com/national/incident/2025/03/19/TA5R7RFYZJAPFI5OCCMWFIVKTM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/03/19/TA5R7RFYZJAPFI5OCCMWFIVKTM/</guid>
+      <dc:creator>안준현 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 19 Mar 2025 04:44:32 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PODMGVEKJ3L3I6F4X7WK4M2VKY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 강남경찰서 전경./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 강남구 청담동의 한 유명 클럽 앞에서 남녀가 집단으로 마약을 투약하다 경찰에 입건됐다. 이들 중 한 명은 마약 투약 후 쓰러져 병원으로 이송됐으나 현재 의식 불명 상태다.&lt;br&gt;&lt;br&gt;서울 강남경찰서는 지난 15일 새벽 청담동의 한 클럽 앞 주차된 차량에서 함께 마약을 투약한 남녀 5명 중 4명을 마약류관리법 위반 등 혐의로 입건해 조사 중이라고 19일 밝혔다.&lt;br&gt;&lt;br&gt;이들의 범행은 이날 오전 9시 20분쯤 일당 중 한 명인 20대 여성 A씨가 의식을 잃고 쓰러지면서 밝혀졌다. “사람이 죽은 것 같다”는 신고를 받고 경찰과 소방이 출동했을 당시, 클럽 직원이 심폐소생술을 하고 있었다. 경찰은 남은 이들에 마약 간이 검사를 했고 양성 결과가 나왔다. 이 여성은 현재 의식 불명 상태로 위중한 상태다.&lt;br&gt;&lt;br&gt;경찰은 이들을 추적해 남성 2명을 이날 오전 긴급 체포하고, 이날 나머지 여성 B씨도 체포했다. A씨와 B씨는 자매 관계였다고 한다. 경찰은 남성 2명 중 마약을 건네준 C씨를 구속했고, 다른 남성 D씨와 여성 B씨는 초범인 이유로 불구속 수사 중이다. 경찰은 이들에게 마약을 준 유통책도 추적하고 있다.&lt;br&gt;&lt;br&gt;이들이 투약한 마약은 신종 마약의 일종으로 우울증 치료에 쓰이지만 극도의 착란 증세, 심하면 사망에 이르는 등 부작용을 일으킨다. 10여 년 전 미국에서 유행을 시작, 최근 한국 클럽 등 유흥가에서도 퍼지고 있다. &lt;br&gt;&lt;br&gt;경찰 관계자는 “현재 의식 불명인 여성은 과다 복용 등으로 심장에 악영향을 받고 쓰러진 것으로 보인다”며 “여성이 사망할 시 과실치사 혐의를 적용도 검토 중”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/PODMGVEKJ3L3I6F4X7WK4M2VKY.jpg?width=4000&amp;height=2252&amp;auth=fd28f2c30690cbb127ee9aa2091267525db6ae88e297530315769950ed48eb91&amp;smart=true" type="image/jpeg" height="2252" width="4000">
+        <media:description type="plain">서울 강남경찰서 전경./뉴스1</media:description>
+        <media:credit role="author" scheme="urn:ebu">뉴스1</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>선거법 위반 정동영 의원 벌금 70만원</title>
+      <link>https://www.chosun.com/national/court_law/2025/03/19/JZQVJ5CLMRBHFC4IZ5Y5NAIDUY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/03/19/JZQVJ5CLMRBHFC4IZ5Y5NAIDUY/</guid>
+      <dc:creator>전주=김정엽 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 19 Mar 2025 03:54:02 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VUYEKI62QBP5RMEOGYOOP5IHSA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;공직선거법 위반 혐의로 재판에 넘겨진 더불어민주당 정동영(전북 전주시병) 의원이 19일 재판을 받기 위해 전주지법 법정으로 향하고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;사전 선거 운동을 한 혐의로 기소된 더불어민주당 정동영(전북 전주시병) 의원이 1심에서 벌금 70만원을 선고받았다. &lt;br&gt;&lt;br&gt;전주지법 형사11부(재판장 김상곤)는 19일 공직선거법 위반 혐의(사전선거운동·허위사실 공표)로 기소된 정 의원에게 벌금 70만원을 선고했다. 이 형이 확정되더라도 정 의원은 의원직을 유지할 수 있다.&lt;br&gt;&lt;br&gt;정 의원은 지난 2023년 12월 13일 자신의 지역구에 있는 공동주택 위탁관리 업체 A사의 종무식에서 선거구민 250여명을 상대로 ‘자신에게 투표해달라’며 지지를 호소한 혐의로 기소됐다. 정 의원은 지난해 1월 9일엔 A사의 시무식에 참석해 지지를 호소한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;정 의원이 지지를 호소한 날은 공식 선거운동 기간이 아니었다. 제22대 총선의 공식 선거운동 기간은 지난 3월 28일부터 선거 전날인 4월 9일까지였다.&lt;br&gt;&lt;br&gt;정 의원은 여론조사를 앞두고 지지자들에게 응답 연령을 ‘20대로 해달라’고 요구한 의혹이 불거진 이후, 이에 대한 입장을 묻는 기자의 질의에 “저는 어디 가서 그런 이야기를 한 적이 없다. 음해고 엉터리 제보”라고 허위 답변을 한 혐의도 받고 있다.&lt;br&gt;&lt;br&gt;재판부는 사전선거 운동에 대해 “피고인은 연설 도중 ‘총선에서 표를 달라’고 명시적으로 요구하진 않았으나 당시 발언 경위나 의미를 보면 당선을 목적으로 지지를 구하는 표현을 했다고 보는 게 적절하다”고 판단해 일부 유죄를 선고했다.&lt;br&gt;&lt;br&gt;이어 허위사실 공표 혐의에 관해서는 “피고인이 기자에게 한 답변 취지나 태도, 그 당시의 종합적인 상황을 고려하면 당시 피고인에게 허위 발언에 대한 인식이나 고의가 있었다고 보이지 않는다”고 무죄를 선고했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/CMPMN5OIYBFOPHGQU2H2S3OHAQ.jpg?width=1901&amp;height=1425&amp;auth=8cc759b4a35c790289eebc9e9811a599114c38ec277332b929ac68a54a449ada&amp;smart=true" type="image/jpeg" height="1425" width="1901">
+        <media:description type="plain"> 법정 향하는 정동영 의원
+
+    (전주=연합뉴스) 나보배 기자 = 공직선거법 위반 혐의로 재판에 넘겨진 더불어민주당 정동영(전북 전주시병) 의원이 19일 재판을 받기 위해 전주지법 법정으로 향하고 있다. 2025.3.19
+    warm@yna.co.kr/2025-03-19 11:33:07/
+&amp;lt;저작권자 ⓒ 1980-2025 ㈜연합뉴스. 무단 전재 재배포 금지, AI 학습 및 활용 금지&amp;gt;</media:description>
+        <media:credit role="author" scheme="urn:ebu">나보배</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>검찰, ‘음주 뺑소니’ 혐의 김호중 2심서 징역 3년 6개월 구형</title>
+      <link>https://www.chosun.com/national/court_law/2025/03/19/OCP7W3FJSVEKLICAVZSVCYSYFQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/03/19/OCP7W3FJSVEKLICAVZSVCYSYFQ/</guid>
+      <dc:creator>김나영 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 19 Mar 2025 04:25:19 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TMR3NLGXGWTRAZGA53NQVMUQJU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;'음주 뺑소니' 혐의를 받는 트로트 가수 김호중 씨./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘음주 뺑소니’ 사고로 항소심 재판을 받고 있는 트로트 가수 김호중(33)씨에 대해 검찰이 징역 3년 6개월을 구형했다. 김씨에 대한 2심 선고는 다음 달 25일 나올 예정이다.&lt;br&gt;&lt;br&gt;19일 오전 서울중앙지법 형사항소5-3부(재판장 김지선)는 특정범죄가중처벌법상 위험운전치상 혐의 등을 받는 김씨에 대한 결심 공판을 열었다. 이날 재판에서 검찰은 “항소를 기각하고 원심의 구형을 인용해 주시길 바란다”며 1심과 동일한 형량을 구형했다. 작년 11월 1심 재판부는 김씨에게 징역 2년 6개월 실형을 선고했다.&lt;br&gt;&lt;br&gt;김씨 측은 지난 공판에 이어 이날도 사고 후 음주를 통해 혈중알코올농도 측정을 방해하는 이른바 ‘술타기 수법’을 사용하지 않았다고 거듭 주장했다.&lt;br&gt;&lt;br&gt;김씨 측 변호인은 “교통사고를 일으키고 도피한 점에 대해선 책임을 통감하다”면서도 “술타기 수법을 쓰지 않았는데 오해받아 과도한 처벌로 이어져선 안 된다”라고 했다. 김씨가 음주운전 후 매니저 장모씨에게 허위 자수를 하게 했다는 혐의에 대해서도 “소속사 본부장과 매니저 등이 결정한 데 따라 소극적 방조 정도에 해당할 뿐”이라며 교사 행위에 적극적으로 가담하지 않았다고 했다.&lt;br&gt;&lt;br&gt;최후진술에서 김씨는 “지난 사계절 서울구치소에 수감돼 최후변론까지 오는 동안 잘못을 하나도 빠뜨리지 않고 자세히 들여다보는 시간을 가졌다”며 “제가 지은 죄는 평생 지워지지 않겠지만, 이번 일을 기폭제 삼아 이전과 다른 새 삶을 살도록 가꿔나가겠다”라고 했다. 김씨와 함께 재판을 받고 있는 소속사 본부장과 전 매니저도 각각 선처를 호소했다.&lt;br&gt;&lt;br&gt;김씨는 지난해 5월 9일 오후 11시 44분쯤 서울 강남구 압구정로에서 술을 마시고 차를 몰다 중앙선을 침범해 반대편 차선을 주행하던 택시와 충돌한 뒤 달아나고, 매니저에게 대신 자수시킨 혐의로 구속 기소됐다. 음주운전 사실을 부인하던 김씨는 사고 열흘 만에 범행을 인정했다. 경찰은 음주운전 혐의를 적용해 김씨를 검찰에 송치했지만 기소 단계에서는 이 혐의가 빠졌다. 역추산만으로는 음주 수치를 확정하기 어렵다는 것이 검찰 판단이었다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>신기루도 당한 ‘사망설’ 가짜뉴스…“해도해도 너무한다”</title>
+      <link>https://www.chosun.com/national/national_general/2025/03/19/LFXNLWZ2JVFPNED6UQPX7SUN6E/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/03/19/LFXNLWZ2JVFPNED6UQPX7SUN6E/</guid>
+      <dc:creator>김자아 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 19 Mar 2025 04:06:15 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DEHXQOVAAFK4RC2KXABVOZAEDY.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;방송인 신기루./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;방송인 신기루가 자신의 사망설을 다룬 가짜 뉴스를 공유하며 “천벌받아 마땅하다”고 했다.&lt;br&gt;&lt;br&gt;신기루는 18일 자신의 소셜미디어(SNS)를 통해 “10년 안에 사망 이런 거까지는 백 번 양보해서 사람 일 모르는 거니까 그냥 넘어가줬다”며 이같이 썼다.&lt;br&gt;&lt;br&gt;이와 함께 공유한 ‘사망설’ 가짜 뉴스에는 그가 고혈압 쇼크로 자택에서 수면 중 사망했다는 구체적인 내용이 담겼다.&lt;br&gt;&lt;br&gt;신기루는 “(사망설은) 해도 해도 너무하다”며 “혈압 정상이다. 오늘도 양꼬치 먹고 왔는데 음식이 너무 맛있어서 쇼크였다”고 덧붙였다.&lt;br&gt;&lt;br&gt;또 그는 “손가락으로 이런 장난질하고, 어떻게든 살아보려고 남은 힘을 쥐어짜내면서 견뎌내는 사람들 죽이는 것들은 모두 천벌받아 마땅하다”고 했다.&lt;br&gt;&lt;br&gt;최근 SNS 등에는 유명인의 사망과 관련한 가짜 뉴스가 잇따라 올라오고 있다.&lt;br&gt;&lt;br&gt;앞서 배우 김영옥도 유튜브발 가짜 사망설의 희생양이 됐다. 이를 본 후배 김혜은은 오열했고, 김영옥은 동창들의 연락까지 받았다고 한다. &lt;br&gt;&lt;br&gt;결국 김영옥은 지난해 한 예능 프로그램에 출연해 “나 살아있다고 발표하려고 나왔다”며 “살날이 얼마 남지 않은 사람에게 그러지 말아 달라”고 했다.&lt;br&gt;&lt;br&gt;방송인 박명수도 지난해 9월 자신의 라디오 프로그램에서 ‘가짜 뉴스’와 관련한 이야기를 전했다.&lt;br&gt;&lt;br&gt;그는 “동료들 가짜 뉴스가 많이 나온다. 그거 믿고 ‘진짜냐’고 전화를 한다”며 “유튜브에 나오는 것들은 신뢰를 안 하는 게 좋다. 멀쩡하게 잘 살아계시는 배우님이 돌아가셨다고 한다. 그 사람한테 직접 듣지 않는 이상은 절대 믿으면 안 된다”고 강조했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>검찰, ‘캡틴아메리카’ 복장 尹 지지자 구속 기소</title>
       <link>https://www.chosun.com/national/court_law/2025/03/19/77GOINE7CNH5PFFBZGE4L3TX5M/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/03/19/77GOINE7CNH5PFFBZGE4L3TX5M/</guid>
@@ -878,24 +926,6 @@
       <content:encoded>권진회 경상국립대학교(GNU) 총장이 제7대 항공·철도사고조사위원회 위원장(차관급)으로 임명됐다. 임기는 오는 2028년 3월 16일까지 3년이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RDDHCPCMVKIZYWXZ22RVWDKRSE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;제7대 항공·철도사고조사위원회 위원장으로 임명된 권진회 경상국립대학교 총장. /경상국립대 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;항공·철도사고조사위원회(ARAIB)는 항공, 철도 사고 등의 원인 규명과 예방을 위한 사고 조사를 독립적으로 수행하는 국토교통부 소속 국가 기관이다. &lt;br&gt;&lt;br&gt;권 신임 위원장은 서울대 항공공학과를 졸업한 뒤 한국과학기술원(KAIST)에서 석사, 박사 학위를 취득했다. 삼성항공우주연구소 선임연구원(1993~1997년)을 거쳐 1997년 경상국립대 교수로 부임했고, 지난해 6월 경상국립대 총장으로 임명됐다.&lt;br&gt;&lt;br&gt;그는 앞서 항공·철도사고조사위원회 위원 및 위원장 직무대행 등을 역임했다. 현재 한국항공우주학회 석학회원으로 활동하고 있으며, 항공기 구조 설계와 관련한 다수의 논문과 저서를 집필하는 등 국내 항공·철도 사고 조사와 관련한 최고 전문가 중 한 명으로 꼽힌다.&lt;br&gt;&lt;br&gt;권진회 위원장은 “사고는 발생하지 않는 게 우선이고, 일단 발생했을 때 원인을 정확하게 규명하는 것이 중요하다”며 “대한민국의 항공·철도사고 조사 능력을 세계 최고 수준으로 끌어올리도록 최선을 다하겠다. 또 사고조사의 독립성을 강화하고, 조사 시스템의 신뢰도를 제고해 사고 재발 방지에 기여하겠다”고 말했다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>옆 자리 예매 후 취소, 고속버스 ‘편법 예매’ 어려워진다 </title>
-      <link>https://www.chosun.com/national/transport-environment/2025/03/18/PVAPQ2YS3BCOBFR7AEADROCOCM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/03/18/PVAPQ2YS3BCOBFR7AEADROCOCM/</guid>
-      <dc:creator>김아사 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 18 Mar 2025 02:04:05 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CDBZB4VZPNOFZDNCEUNUD5T6KU.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;지난해 10월 서울 서초구 서울고속버스터미널에서 시민들이 버스표를 구매하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;앞으로 고속버스 인접 좌석 두 개를 예매한 뒤, 출발 전후 한 자리를 취소해 누워가는 식의 예매 행태가 줄어들 전망이다. 정부가 취소 수수료를 상향하기로 결정했기 때문이다.&lt;br&gt;&lt;br&gt;국토교통부는 고속버스 승차권 취소 수수료 기준을 개편한다고 18일 밝혔다. 개편안은 오는 5월부터 시행된다.&lt;br&gt;&lt;br&gt;현재 고속버스는 평일·휴일 모두 버스 출발 전 최대 10%, 출발 후 30%의 취소 수수료를 부과하고 있다. 평일과 주말, 명절 취소 수수료가 같은데다 수수료율도 낮아 취소에 따른 ‘노쇼’ 문제가 계속해 제기 됐다. 고속버스는 기차와 달리 한번 취소되면 표를 되팔 수도 없어 손실도 컸다.&lt;br&gt;&lt;br&gt;특히 일부 승객들은 인접한 두 개 좌석을 예매한 뒤 출발 전후 한 좌석을 취소하는 방식으로 두 자리를 모두 사용하는 편법 이용을 하는 경우가 많았다. 출발 직전 취소할 경우 운임의 1.1배, 출발 후 취소해도 1.3배만 지불하면 두 개 좌석을 산 것처럼 편히 갈 수 있다는 것이다. 국토부에 따르면 지난해 두 개 좌석 이상 예매 후 일부 취소 건수는 12만6000건에 달했다.&lt;br&gt;&lt;br&gt;이에 정부는 수수료율을 높이기로 했다. 365일 10%로만 부과했던 출발 전 취소 수수료는 평일(월~목)과 주말(금~일, 공휴일), 명절(설·추석)로 구분해 각각 10%, 15%, 20%의 수수료를 부과한다. 수수료 부과 시간도 기존 출발 1시간 미만에서 출발 3시간 미만으로 바꾼다.&lt;br&gt;&lt;br&gt;출발 후 취소 수수료는 현행 30%에서 50%로 상향하고, 2027년까지 70%로 단계적 상향하기로 했다. 내년에는 60%로 취소 수수료가 올라간다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>법무부 “불법체류 외국인에 대한 국외호송 강제퇴거 적극 추진”</title>
-      <link>https://www.chosun.com/national/court_law/2025/03/18/3B3YJKEJRFCSNMBW77DUUYIYIE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/03/18/3B3YJKEJRFCSNMBW77DUUYIYIE/</guid>
-      <dc:creator>박강현 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 18 Mar 2025 01:54:23 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/A5ZKRGOBOID3QHR6K2XVBMDIE4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기도 과천시 법무부 청사. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;법무부는 본국 송환을 고의로 거부하던 불법체류 외국인을 출입국관리공무원이 직접 본국까지 호송해 강제퇴거를 집행했다고 18일 밝혔다. 향후 합리적 이유 없이 출국을 거부하는 외국인에 대해서는 국외호송 강제퇴거를 적극 추진하겠다고 했다.&lt;br&gt;&lt;br&gt;법무부는 중앙아시아 출신 A씨가 송환을 막기 위해 본국 여행증명서 발급을 거부한 뒤 신청서를 찢어버리는 등 협조하지 않았고, 국내 체류 허가를 요구하며 약 2년간(735일) 출국을 거부한 정황 등을 종합해 지난 12일 이 같은 조치를 취했다고 했다.&lt;br&gt;&lt;br&gt;A씨는 외국인보호소에 함께 있는 다른 외국인에게 욕설을 하고 위해를 가하는 등 보호 시설의 질서를 지속적으로 훼손한 것으로도 조사됐다. &lt;br&gt;&lt;br&gt;법무부 관계자는 “해당 국가의 대사관과 지속적인 업무 연락을 진행해 A씨의 여행증명서를 발급 받은 뒤 즉시 국외호송(출입국관리공무원이 송환에 불응하는 대상자를 송환국으로 직접 호송해 강제퇴거 집행) 계획을 수립·집행해 본국으로 송환을 완료했다”고 설명했다.&lt;br&gt;&lt;br&gt;법무부는 이처럼 강제퇴거 명령을 받고도 합리적 사유 없이 출국하지 않는 외국인에 대해 국외호송 강제퇴거 집행을 적극 추진한다는 방침이다. &lt;br&gt;&lt;br&gt;법무부는 각국 대사관과 협력을 강화해 여행증명서를 신속히 확보하고, 출국을 거부하는 외국인에 대한 국외호송 전담반을 운영해 이들을 신속히 본국으로 돌려보낼 계획이다. 강제 퇴거 대상인 외국인이 여권 등을 발급받을 수 없는 경우 여행증명서를 발급받아야 한다.&lt;br&gt;&lt;br&gt;그간 강제퇴거 명령을 받은 외국인들이 본국 여행증명서 신청을 거부하거나 출국편 항공기 내에서 난동을 피우는 경우 퇴거 집행이 곤란해 보호가 장기화되는 경우가 있었는데, 이를 방지하겠다는 것이다. &lt;br&gt;&lt;br&gt;김석우 법무부 장관 직무대행은 “체류 외국인 300만 시대를 대비해 국민 공감대에 바탕을 둔 지속 가능한 이민 정책을 추진할 것”이라며 “불법체류 외국인에 대해서는 적극적인 국외호송 강제퇴거 집행을 통해 국민이 안심할 수 있도록 엄정한 외국인 체류 질서를 확립해 나가겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>손목닥터9988′ 지구 6만바퀴 걸었다...작년 말까지 누적 3조4000억보</title>
       <link>https://www.chosun.com/national/national_general/2025/03/18/NM55AE7LGJBOJM3I2L7GCUZ6IQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/03/18/NM55AE7LGJBOJM3I2L7GCUZ6IQ/</guid>
@@ -903,24 +933,6 @@
       <description/>
       <pubDate>Tue, 18 Mar 2025 02:24:00 +0000</pubDate>
       <content:encoded>서울시의 건강 관리 앱 ‘손목닥터 9988’ 참여자가 194만명을 기록했다. 2021년 11월부터 작년 말까지 참여자들의 누적 걸음 수는 총 3조4373억 보(步)로 나타났다. 성인 보폭을 기준으로 했을 때 약 24억㎞에 해당하는 것으로, 지구를 5만9973바퀴를 돈 거리와 같다. 서울시는 18일 이 같은 손목닥터 사용자 분석 결과를 발표했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G74GMZK6QZ4QYYHE36JX4XQAPM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;손목닥터9988 인포그래픽&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;연령대별 이용 분석 결과, 지난해 70대 이상 참여자들이 높은 걸음 수를 기록했다. 60대 이상 참여자도 꾸준히 높은 걸음 수를 유지하는 것으로 나타났다. &lt;br&gt;&lt;br&gt;1인당 평균 걸음 수 최다 연령대는 2021년 60대(15만1178보), 2022년 60대(26만8634보), 2023년 60대(17만7630보)로 3년간 60대가 가장 많았다가 작년에 처음 70대(25만5812보)로 바뀌었다. 서울시 관계자는 “원래 65세까지만 이용할 수 있었는데 연령 제한을 없애면서 70대 이상 어르신들이 많이 참여하게 된 영향으로 보고 있다”고 했다.&lt;br&gt;&lt;br&gt;참여자들이 가장 많이 걷는 날은 수요일로, 수요일 1인당 연간 누적 걸음 수(20만2199보)는 걸음이 가장 적은 일요일(15만1148보)보다 약 36% 많았다.&lt;br&gt;&lt;br&gt;2024년 하루도 빠지지 않고 365일 8000보 이상(70세 이상은 5000보)을 걸어 매일 200포인트를 받은 참여자는 총 1186명이었다.&lt;br&gt;&lt;br&gt;그동안 가장 많은 포인트를 받은 사람은 총 43만2780포인트를 적립한 것으로 나타났다. 참여자들은 걸어서 모은 포인트를 주로 음식점(31.9%), 편의점·마트(22.5%), 약국(8.2%) 등에서 사용했다.&lt;br&gt;&lt;br&gt;한편 서울시는 이달 19일부터 손목닥터 포인트로 스마트 밴드 ‘갤럭시 핏3’를 할인 구매할 수 있는 특별 프로모션을 진행한다고 밝혔다.&lt;br&gt;&lt;br&gt; 5000포인트 이상 보유한 손목닥터 회원이라면 갤럭시 핏3를 특별 할인가인 5만5000포인트로 구매할 수 있다. 보유 포인트가 부족한 경우 서울페이 상품권을 활용해서도 구매할 수 있다. 서울시는 상반기와 하반기에 5만대씩 총 10만대를 공급할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“봄에 눈이라니”...폭설에 출근길 직장인들 애먹어 </title>
-      <link>https://www.chosun.com/national/national_general/2025/03/18/5MLOUB5UQJCA5GMDKFFW5FLF4E/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/03/18/5MLOUB5UQJCA5GMDKFFW5FLF4E/</guid>
-      <dc:creator>성남=김현수 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 18 Mar 2025 01:49:16 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AT7D6KZFJFOWZPNXXFZPJMLWZM.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;전국 곳곳에 많은 눈이 내린 18일 오전 경기 수원시 팔달구 팔달산에서 바라본 수원 시내 곳곳이 눈으로 쌓여있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“봄에 눈이라니....”&lt;br&gt;&lt;br&gt;18일 때 아닌 폭설로 인해 출근길에 나선 직장인들은 눈보라를 헤치며 종종걸음을 하고 있었다. 이날 오전 7시 우산에 한가득 쌓인 눈을 털며 지하철 분당선 모란역에 들어선 박다솜(36)씨는 “눈이 이렇게 많이 올 줄 몰랐다”며 “차를 놓고 지하철을 타러 왔는데 잘 한 것 같다”고 말했다. 아침 기온이 영하로 뚝 떨어지며 목도리와 장갑으로 중무장 한 채 발길을 재촉하던 김영선(51)씨는 “3월 중반이 지났는데 추위에 눈까지 오니 몸이 무겁다”며 “퇴근길엔 날씨가 풀렸으면 한다”고 했다.&lt;br&gt;&lt;br&gt;인근 버스 정류장도 북새통을 이뤘다. 눈 소식에 평소보다 일찍 집을 나섰다는 김재모(28)씨는 “다들 같은 생각인지 사람이 너무 많다”며 “지각하는 건 아닌지 걱정된다”고 했다. 미처 우산을 챙기지 못하고 나온 시민들이 버스 정류장 처마 아래에 모여 눈을 피하는 모습도 보였다. 답답한 도로 상황에 연신 휴대전화로 시간을 확인하다 지하철역으로 발길을 급하게 돌리는 한 남성은 “30분이나 일찍 나왔는데도 늦을 것 같다”며 “지하철은 상황이 좀 나을까 싶어 타려한다”고 한숨을 쉬었다.&lt;br&gt;&lt;br&gt;하늘을 전부 가릴 듯 내리는 눈에 도로마다 차량들도 가다 서기를 반복했다. 등굣길에 오른 학생들은 눈 소식에 마냥 신난 표정을 지었다. 이들은 수북하게 쌓인 눈에 발자국을 만드는가 하면, 친구에게 눈덩이를 만들어 던지기도 했다. 그 뒤에는 아이들이 눈길에 미끄러져 다치지 않을까 노심초사하는 부모들이 있었다.&lt;br&gt;&lt;br&gt;경기도에 따르면 이날 오전 6시 30분 기준 적설량은 의정부 13.6㎝, 포천 12.7㎝, 고양 10.9㎝, 남양주 10.2㎝, 양평 9㎝ 등 도내 평균 6㎝이다. 오전 5시 15분쯤 폭설로 인해 의정부경전철 전 구간의 운행이 2시간 10분가량 중단돼 출근길 시민들이 불편을 겪었다. 앞서 오전 0시 45분쯤 경기 안산시 상록구 수인로에서 20대 우즈베키스탄인이 승용차로 중앙분리대를 들이받아 숨졌다.&lt;br&gt;&lt;br&gt;경기도는 전날 오후 9시를 기해 재난안전대책본부 비상 1단계를 가동하고, 장비 1460대와 인력 2332명을 투입해 제설 작업을 벌이고 있다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“마은혁에 재판관 지위 임시 부여해달라” 헌재 가처분 접수돼</title>
-      <link>https://www.chosun.com/national/court_law/2025/03/18/6BI2DQ7GEZBPVMUVD75U7M2OX4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/03/18/6BI2DQ7GEZBPVMUVD75U7M2OX4/</guid>
-      <dc:creator>방극렬 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 18 Mar 2025 01:42:36 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/X2ZSCRMBWNMGXDA33QOMS7EK4Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;마은혁 헌법재판관 후보자. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“마은혁 헌법재판관 후보자의 임명 보류는 잘못”이라는 헌법재판소 결정에도 임명이 지연되자, 마 후보자에게 임시로 헌법재판관 지위를 부여해달라는 가처분 신청이 18일 헌재에 접수됐다. 야당은 최상목 대통령 권한대행에게 마 후보자를 임명하라고 압박하고 있다.&lt;br&gt;&lt;br&gt;법무법인 도담 김정환 변호사는 이날 ‘마 후보자의 정식 재판관 임명 절차가 완료될 때까지 재판관 지위를 부여해달라’는 취지의 임시 지위 가처분 신청서를 헌재에 제출했다고 밝혔다. 앞서 헌재는 지난달 27일 최 권한대행이 마 후보자를 임명하지 않은 것이 “국회의 헌재 구성권을 침해했다”고 재판관 전원 일치 결정을 내렸는데, 이를 따르지 않는 것은 위헌이니 헌재가 직접 재판관 지위를 부여해달라는 것이다.&lt;br&gt;&lt;br&gt;김 변호사는 신청서에서 “국가기관의 지위를 가지는 피신청인(최 권한대행)이 헌재의 결정을 이행하지 않고 있는 헌정사상 초유의 일이 발생하고 있다”며 “헌재 결정의 기속력을 무력화하는 것은 물론이고 국민의 신뢰를 바탕으로 하는 헌재의 결정에 모든 국가기관이 따라야 하는 법 원칙이 무너져 내리고 있다”고 주장했다.&lt;br&gt;&lt;br&gt;김 변호사는 “최 권한대행이 마 후보자를 임명하지 않아 여러 사건들이 적정한 심리와 결정을 받지 못하고 있다. 공정한 재판을 받을 권리를 침해하는 것”이라며 “마 후보자가 (재판관) 임시 지위를 부여받지 못해 공석이 계속되면 이는 추후 회복할 수 없는 손해에 해당한다”고 했다.&lt;br&gt;&lt;br&gt;이어 “임시 지위 부여 가처분은 헌재의 정상적 기능을 유지하기 위한 임시적이고 보충적인 조치”라며 “정상적 임명이 이뤄지기 전까지 (재판관) 임시 지위를 부여해 헌재 기능을 정상 작동시켜 달라”고 했다.&lt;br&gt;&lt;br&gt;그러나 헌재는 마 후보자 임명 보류 관련 권한쟁의 사건을 선고하면서 ‘마 후보자가 재판관 지위에 있다는 것을 확인해달라’는 국회 측 청구에 대해선 “헌재가 결정할 문제가 아니다”라며 각하했다. 마 후보자에게 재판관 지위를 부여하는 것은 헌재의 권한 밖이라 결정할 수 없다는 것이다.&lt;br&gt;&lt;br&gt;더불어민주당은 “최 권한대행이 마 후보자를 임명하지 않으면 내란 수괴” “권한대행이 앞장서 헌정질서를 유린하는 것”이라며 즉시 임명할 것을 요구하고 있다. 법조계와 정치권에서는 민주당이 추천한 마 후보자가 임명돼 윤석열 대통령 탄핵 심판 심리에 참여하게 될 경우 재판관 6인 이상 찬성이 필요한 탄핵안 인용에 영향을 줄 수 있다고 보고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>‘마약 투약’ 돈스파이크, 만기 출소 후 용산서 전해진 근황</title>
