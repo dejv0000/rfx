@@ -6,6 +6,16 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>공수처, '계엄 모의 의혹' 원천희 국방정보본부장 소환조사</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/206458.jpg" alt="54648.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;원천희 국방정보본부장 《사진=연합뉴스》&lt;/figcaption&gt;   &lt;/figure&gt;&lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;12·3 비상계엄 사태를 수사 중인 고위공직자범죄수사처(공수처)가 원천희 국방정보본부장을 소환조사했다.&lt;br /&gt;&lt;br /&gt;공수처는 3월 19일 내란공모혐의를 받는 원 본부장을 피의자 신분으로 불러 조사했다. 앞서 2월 21일 공수처는 원 본부장의 사무실과 주거지를 압수수색했다.&lt;br /&gt;&lt;br /&gt;원 본부장은 비상계엄 선포 전날인 지난해 12월 2일 문상호 전 정보사령관이 김용현 전 국방부 장관을 만나 대면보고 하는 자리에 동석한 것으로 알려졌다. 원 본부장은 이 자리에서 비상계엄을 사전 모의했다는 혐의를 받는다.&lt;br /&gt;&lt;br /&gt;문 전 사령관은 1일, 3일 노상원 전 정보사령관 등과 만나 중앙선거관리위원회 점거와 계엄사령부 합동수사본부 예하 '제2수사단' 조직 등을 논의한 것으로 파악됐다. 제2수사단은 계엄 선포 뒤 부정선거 관련 선거를 담당하기 위한 조직으로 알려졌다.&lt;br /&gt;&lt;br /&gt;공수처는 원 본부장이 계엄 선포를 사전에 인지하고 계엄 모의와 제2수사단 운영 논의에 관여했는지 들여다보고 있다.&lt;br /&gt;&lt;br /&gt;경찰청 국가수사본부는 1월 원 본부장을 조사하고, 2월 12일 원 본부장을 비롯한 군 관계자 6명을 공수처로 이첩했다. &lt;/p&gt;</description>
+			<pubDate>Wed, 19 Mar 2025 02:36:57 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/206458</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/206458</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/206458.jpg</media:thumbnail>
+			<dc:creator>임현경 기자</dc:creator>
+		</item>
+		<item>
 			<title>【오늘의 국회일정】 2025년 3월 19일</title>
 			<description>&lt;b&gt;◇상임위원회&lt;br /&gt;&lt;/b&gt;&lt;br /&gt;10:00 법제사법위원회 법안심사제1소위원회(본관 406호)&lt;br /&gt;&lt;br /&gt;14:00 법제사법위원회 전체회의(본관 406호)&lt;br /&gt;&lt;b&gt;&lt;br /&gt;◇의원실 세미나&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;14:00 강민국 의원실 등, (글로벌 체제전쟁 대한민국은 어디로?) 「미래자유연대」 국민 大 토론회(의원회관 제2소회의실)&lt;br /&gt;&lt;br /&gt;14:00 우재준 의원실 등, 2025년 건설안전 국회토론회 : 중소 건설업 재해예방을 위한 안전관리 실효성 제고 및 법령·제도 개선방안(의원회관 제3세미나실)&lt;br /&gt;&lt;br /&gt;14:00 이헌승 의원실, [2025 보훈보상제도 정책포럼] 국가책임과 보훈보상제도 발전 방향(의원회관 제1소회의실)&lt;br /&gt;&lt;br /&gt;14:00 백승아 의원실, 공교육 경쟁력 강화를 위한 학교행정업무경감사업 추진성과와 향후과제(의원회관 제4간담회의실)&lt;br /&gt;&lt;br /&gt;14:00 안호영 의원실 등, 생물다양성 협약에 따른 보호구역의 실태와 개선과제(의원회관 제1세미나실)&lt;br /&gt;&lt;br /&gt;14:00 박정현 의원실 등, 한국 경제 재도약 위한 탈탄소 녹색 수술 산업 역할과 지원방안 토론회(의원회관 제3간담회의실)&lt;br /&gt;&lt;b&gt;&lt;br /&gt;◇소통관 기자회견&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;09:00 유상범 의원, [상법 개정안 관련 기자회견]&lt;br /&gt;&lt;br /&gt;09:40 민병덕 의원, [홈플러스 공동대책위원회 제안 기자회견]&lt;br /&gt;&lt;br /&gt;10:20 이용우 의원, [현대제철 중대재해 관련 기자회견]&lt;br /&gt;&lt;br /&gt;13:20 김현 의원, [더불어민주당 팩트체크넷 민주파출소 일일 브리핑]&lt;br /&gt;&lt;br /&gt;14:00 김민전 의원, [탄핵심판 관련 기자회견]&lt;br /&gt;&lt;br /&gt;14:20 박대출 의원, [현안 관련 기자회견]&lt;br /&gt;&lt;br /&gt;14:40 나경원 의원, [정치 현안 관련 기자회견]&lt;br /&gt;&lt;br /&gt;15:00 강선영 의원, [부끄러운 선배들에 대한 대국민사과 기자회견]&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;b&gt;&lt;span style="font-size: 14px;"&gt;※ 상기 일정은 사정에 따라 변경될 수 있습니다.&lt;/span&gt;&lt;/b&gt;&lt;br /&gt;</description>
 			<pubDate>Tue, 18 Mar 2025 22:39:11 -0000</pubDate>
@@ -232,16 +242,6 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/206439</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/206439.jpg</media:thumbnail>
 			<dc:creator>조한주 기자</dc:creator>
-		</item>
-		<item>
-			<title>국회 정무위, 김병주 MBK 회장 없이 '홈플러스 사태' 현안질의</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/206451.jpg" alt="4262.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;《사진=연합뉴스》&lt;/figcaption&gt;   &lt;/figure&gt;&lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;여야가 18일 국회 정무위원회 현안질의에서 홈플러스의 기업회생절차 신청과 관련, 대주주인 사모펀드 MBK파트너스를 강하게 질타했다. 앞서 홈플러스의 대주주인 MBK파트너스의 김병주 회장은 불참 의사를 밝히고 출석하지 않았다. &lt;br /&gt;&lt;br /&gt;이날 국회에서 열린 정무위 전체회의에서 김광일 MBK파트너스 부회장 겸 홈플러스 공동대표 등을 상대로 홈플러스 사태에 대한 현안 질의가 진행됐다. 앞서 홈플러스는 3월 4일 법원에 기업회생 절차를 신청했고 MBK파트너스가 회생 신청 직전까지 기업어음(CP)을 발행해 투자자들에게 손실을 떠넘겼다는 의혹이 제기됐다.&lt;br /&gt;&lt;br /&gt;정무위는 앞서 3월 11일 긴급 현안질의를 위해 김병주 회장과 김광일 부회장, 조주연 홈플러스 공동대표, 금정호 신영증권 사장, 강경모 홈플러스 입점협회 부회장을 포함한 5명을 증인으로 채택했다.&lt;br /&gt;&lt;br /&gt;그러나 김 회장은 "MBK의 투자가 완료된 개별 회사(홈플러스) 경영에는 관여하지 않는다"는 사유서를 제출하며 불출석 의사를 밝혔다. 그는 3월 17일부터 19일까지 상하이와 홍콩 출장을 떠난 것으로 전해졌다.&lt;br /&gt;&lt;br /&gt;MBK파트너스는 3월 16일 "김 회장이 홈플러스 정상화를 위해 사재 출연을 검토하고 있다"고 밝혔지만, 이날 국회에 모습을 드러내지 않아 여야 의원들의 비판이 쏟아졌다.&lt;br /&gt;&lt;br /&gt;국민의힘 소속 윤한홍 정무위원장은 "사재 출연을 하겠다고 했으면 어느 정도 금액을 어떻게 투입해 피해를 막을 것인지까지 답해야 한다"며 "국민의 피해에 대해 민간 영역이라며 어물쩍 넘어갈 생각을 하지 말라"고 말했다.&lt;br /&gt;&lt;br /&gt;김광일 부회장은 김현정 더불어민주당 의원이 사재 출연 의지에 관해 묻자, "검토해 보겠다"고 답했다. &lt;br /&gt;&lt;br /&gt;국민연금공단 기금운용본부가 2015년 MBK파트너스의 홈플러스 인수에 투자한 점을 비판하는 목소리도 나왔다. &lt;br /&gt;&lt;br /&gt;여당 간사인 강민국 국민의힘 의원은 "국민연금은 국민의 피와 땀으로 조성되는 데 적대적 인수·합병(M&amp;A)을 하고 홈플러스를 망가뜨린 MBK파트너스에 투자한다면 대체 어느 국민이 이해하겠나"며 "MBK파트너스와 손절해야 한다"고 강조했다.&lt;br /&gt;&lt;br /&gt;MBK파트너스가 홈플러스 인수에 활용한 차입매수(LBO·Leveraged Buyout)에 대한 규제 필요성도 제기됐다. 차입매수는 인수 대상 기업의 자산을 담보로 대출을 받아 100% 지분을 확보하는 방식이다.&lt;br /&gt;&lt;br /&gt;김남근 민주당 의원은 "차입매수라는 인수 방식을 통해 2조 2천억 원만 투자하고 나머지는 홈플러스의 재산으로 인수 자금들 갚아 나가며 수익을 내겠다는 의사로 보인다"며 "회생 신청도 '투자금 회수 전략' 아닌가"라고 지적했다.&lt;br /&gt;&lt;br /&gt;한편 한기정 공정거래위원회 위원장도 이날 홈플러스 회생절차 개시와 관련해 대금 미지급 사태가 발생할 경우 지급명령 등을 통해 적시 조치하겠다고 밝혔다.&lt;br /&gt;</description>
-			<pubDate>Tue, 18 Mar 2025 12:36:11 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/206451</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/206451</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/206451.jpg</media:thumbnail>
-			<dc:creator>김지현 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
