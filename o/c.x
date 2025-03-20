@@ -13,6 +13,124 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>‘음주운전·불법숙박업 혐의' 문다혜... 檢, 징역 1년 구형</title>
+      <link>https://www.chosun.com/national/national_general/2025/03/20/BOVG7K2U5RF4LPWJFSAZZ2DPNE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/03/20/BOVG7K2U5RF4LPWJFSAZZ2DPNE/</guid>
+      <dc:creator>구동완 기자, 김도균 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 20 Mar 2025 02:50:19 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3KGW7UD7DFLYZJN5GMA5IDA5ZU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;음주운전과 불법 숙박업 운영 혐의로 불구속 기소된 문재인 전 대통령 딸 문다혜씨가 20일 오전 서울 서부지방법원에서 열린 첫 공판에서 징역 1년을 구형받은 뒤 청사를 떠나고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;음주운전과 불법 숙박업 운영 혐의로 불구속 기소된 문재인 전 대통령의 딸 문다혜(42)씨에게 징역 1년이 구형됐다.&lt;br&gt;&lt;br&gt;검찰은 20일 서울서부지법 형사5단독 김형석 판사의 심리로 열린 문씨에 대한 첫 공판에서 징역 1년을 선고해달라고 재판부에 요청했다.&lt;br&gt;&lt;br&gt;검찰은 “피고인의 혈중알코올농도 수치가 높았고 음주운전으로 개인 대물 교통사고를 발생시킨 점, 공중위생관리법 위반과 관련해 5년간 1억3650만원의 수익을 내 고액인 점을 고려해 달라”고 구형 이유를 밝혔다.&lt;br&gt;&lt;br&gt;이날 검은색 코트 차림에 목발을 짚고 법정에 나타난 문씨는 혐의를 모두 인정하고 법원에 반성문을 제출하기도 했다. 문씨는 재판에서 “제가 저지른 잘못에 대해 모두 인정하고 깊이 뉘우치고 있다”며 “저로 인해 피해를 본 피해자분께 진심 어린 사죄의 말씀을 드린다. 동일한 잘못을 반복하지 않을 것”이라고 했다.&lt;br&gt;&lt;br&gt;문씨는 지난해 10월 5일 용산구 이태원 해밀톤호텔 앞에서 만취 상태로 차를 몰며 차선을 바꾸다 뒤따라오던 택시와 부딪힌 혐의(도로교통법상 음주운전)를 받는다. 사고 당시 문씨의 혈중알코올농도는 0.149%로 면허 취소 기준(0.08%)을 넘겼다.&lt;br&gt;&lt;br&gt;문씨는 본인 소유의 서울 영등포구 오피스텔과 빌라와 제주시 한림읍 협재리에 있는 단독주택을 불법 숙박 업소로 운영한 혐의도 받고 있다. 문씨는 숙박업 신고를 하지 않고 오피스텔 등을 불법으로 숙박업에 이용했다. 공중위생법상 숙박업 등록 없이 영업 행위를 하다 적발되면 2년 이하 징역 또는 2000만원 이하 벌금형을 받는다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>수감자에 휴대폰·주사기 몰래 전달한 변호사… 휴대폰 유죄·주사기 무죄, 왜?</title>
+      <link>https://www.chosun.com/national/court_law/2025/03/20/63MAHMIOC5D47F7VLMJQEEXCE4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/03/20/63MAHMIOC5D47F7VLMJQEEXCE4/</guid>
+      <dc:creator>방극렬 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 20 Mar 2025 03:00:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JLQAMP3KDX6XR2H3ZWSTHZJTFM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 대법원 청사 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;변호사가 유치장에 구금된 피의자를 접견하면서 휴대전화와 약물 주사기를 몰래 건넨 혐의로 기소됐는데, 휴대전화는 유죄로 약물 주사기는 무죄가 확정됐다. 변호사의 접견을 관리하는 경찰관을 얼마나 적극적으로 속였는지 여부에 따라 유무죄가 갈린 것이다.&lt;br&gt;&lt;br&gt;대법원 3부(주심 엄상필 대법관)는 지난달 27일 위계공무집행방해 등 혐의로 기소된 변호사 김모씨에게 징역 4개월에 집행유예 1년을 선고한 원심을 확정했다고 20일 밝혔다.&lt;br&gt;&lt;br&gt;이 사건은 변호사인 김씨가 2021년 4월 수원남부경찰서 유치장에 구금된 한 피의자 A씨와 접견하면서 벌어졌다. 김씨는 A씨의 부탁을 받고 형집행법 상 반입 금지 물품인 휴대전화를 몰래 반입해 외부인과 통화하게 한 것으로 조사됐다. 김씨는 또 A씨 아내에게 진통제가 담긴 약물 주사기를 받아 두 차례 몰래 유치장에 반입해 A씨에게 전달하기도 했다. 검찰은 김씨가 유치장을 관리하는 경찰의 정당한 직무 집행을 방해했다고 보고 기소했다.&lt;br&gt;&lt;br&gt;1심은 김씨의 혐의를 모두 인정해 징역 6개월에 집행유예 2년을 선고했다. 1심은 “김씨는 변호사의 지위를 활용해 의뢰인 요청에 따라 휴대전화를 반입하고, 2회에 걸쳐 의약품을 반입했다”며 “죄질이 결코 가볍지 않다”고 했다.&lt;br&gt;&lt;br&gt;그런데 2심은 휴대전화는 유죄로 인정하면서 약물 주사기는 무죄로 판결하며 감형했다. 2심은 유죄 이유에 대해 “김씨는 휴대전화 2대를 준비한 상황에서 접견 신청을 했고, 접견실에 들어가면서 경찰관에 업무용 휴대전화 1대만 제출하고 개인 휴대전화 1대는 숨겨 반입했다”며 “경찰의 통상적인 업무 처리 과정 하에서는 적발이 어려운 위계를 사용해 직무 집행에 지장을 준 행위에 해당한다”고 했다.&lt;br&gt;&lt;br&gt;반면 약물 주사기 반입 부분에 대해서는 “경찰의 정당한 직무 집행을 방해했다는 점이 합리적 의심 여지없이 증명됐다고 보기 어렵다”며 무죄를 선고했다.&lt;br&gt;&lt;br&gt;2심은 “김씨가 주사기를 접견실 책상에 올려서 전달해 A씨가 투약하게 했는데, 경찰이 이를 적발하지 못했다”며 “통상적인 업무 처리를 진행해 CCTV 영상 등으로 접견 상황을 제대로 관찰했다면 김씨의 약물 주사기 반입·투약 관련 행위를 적발하는 것이 그다지 어렵지는 않은 것으로 보인다”고 지적했다. &lt;br&gt;&lt;br&gt;대법원은 “원심 판단에 위계공무집행방해죄의 성립에 관한 법리를 오해한 잘못이 없다”며 판결을 그대로 확정했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>술 취해 강의실 들어와 욕설한 고려대 교수... 강의자 교체</title>
+      <link>https://www.chosun.com/national/national_general/2025/03/20/5IANOAX6TZHZHEGZIQB7BO7KLM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/03/20/5IANOAX6TZHZHEGZIQB7BO7KLM/</guid>
+      <dc:creator>고유찬 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 20 Mar 2025 00:45:20 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/L7TQKU7V4ZFGTDL4XG3VCPZEFQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;고려대학교 전경. /고려대&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최근 만취 상태로 강의에 들어와 욕설한 고려대 경영대학 교수가 학생들의 집단 항의를 받아 강의자가 교체되는 사건이 일어났다.&lt;br&gt;&lt;br&gt;20일 고려대에 따르면 지난 14일 저녁 7시쯤 서울 성북구 안암동 고려대 경영관에서 진행된 KMBA 수업에 A 교수가 술에 취한 채 들어왔다.&lt;br&gt;&lt;br&gt;학생들이 “쉬시는 것이 어떠냐”고 권유하자 A 교수는 욕설과 함께 “난 테뉴어(정년 보장)를 받은 정교수라 너희가 문제를 삼아도 끄떡없다”는 취지의 발언을 한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;수강생들의 항의에 고려대는 이 사실을 확인하고 해당 수업 강의자를 교체했다. A 교수는 지난 18일 이메일을 통해 학생들에게 사과했다.&lt;br&gt;&lt;br&gt;고려대 관계자는 “서면 사과를 했고 오는 21일에는 강의실에서 A 교수가 직접 학생들에게 대면 사과도 진행할 예정”이라고 밝혔다. 고려대는 A 교수에 대한 징계를 검토 중이다.&lt;br&gt;&lt;br&gt;회계학 전공인 A 교수는 고려대 경영대학 소속으로, 한국회계학회장을 역임하기도 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>범죄피해구조금 20% 증액·지급대상 확대...개정 ‘범죄피해자 보호법’ 시행</title>
+      <link>https://www.chosun.com/national/court_law/2025/03/20/IRPNLHD74VETRLN56YIRRT64DQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/03/20/IRPNLHD74VETRLN56YIRRT64DQ/</guid>
+      <dc:creator>박강현 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 20 Mar 2025 02:53:29 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FMIKU47EYKGMSS6GOW7EZGE2SI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기도 과천 법무부 청사 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;앞으로 범죄피해자에게 지급되는 구조금이 약 20% 증액되고, 범죄피해자가 구조금을 받기 전 사망해도 그 유족이 이를 대신 받을 수 있게 된다. 또 가해자의 보유 재산을 폭넓게 조회할 수 있게 된다. &lt;br&gt;&lt;br&gt;그간 범죄피해자에게 제공되는 구조금이 부족하고, 지급 대상의 ‘사각지대’가 존재하며 가해자가 직장 및 급여를 숨겨 재산을 은닉하도록 방치한다는 지적 등이 제기됐다. &lt;br&gt;&lt;br&gt;법무부는 오는 21일부터 이 같은 내용이 담긴 개정 ‘범죄피해자 보호법’ 및 시행령·시행규칙이 시행된다고 20일 발표했다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇지급액 증액...피해자 직접 지원 강화&lt;/b&gt;&lt;br&gt;&lt;br&gt;정부는 우선 범죄피해자에게 제공되는 구조금 지급액을 20% 증액해 피해 회복을 돕겠다고 했다. 구조금을 산정할 때 기준금액(월급액 등)에 곱하는 개월수(40개월→48개월) 및 그 상한을 상향해 적용한다는 것이다. &lt;br&gt;&lt;br&gt;이에 따르면 피해자(월 평균수입 300만원)가 범죄로 인해 사망하고, 유족으로 배우자 및 중학생 자녀 1명이 있는 경우 유족구조금 지급액이 종전에는 유족 각자에게 6792만1600원이었지만 시행 후에는 유족 각자에게 8150만5920원이 된다. 지급액이 총 약 2717만원 늘어나는 것이다. &lt;br&gt;&lt;br&gt;&lt;b&gt;◇지급대상자 확대...외국인 결혼이민자도 받아&lt;/b&gt;&lt;br&gt;&lt;br&gt;또 한국인과 결혼을 한 외국인 결혼이민자들도 별다른 상호보증 없이 범죄피해자의 유족으로구조금을 받을 수 있다. 외국인 결혼이민자가 혼인관계(사실혼 포함)에서 출생한 자녀를 양육하고 장기체류자격이 있는 경우 상호보증이 필요 없게 된다.&lt;br&gt;&lt;br&gt;기존에는 결혼이민자의 해당국으로부터 상호보증이 있는 외국인만 구조금을 받을 수 있었는데 이같은 기준을 완화하는 것이다. &lt;br&gt;&lt;br&gt;또 장해·중상해구조금을 신청한 범죄피해자가 구조금 지급 전 사망한 경우에도 그 유족이 구조금을 받을 수 있도록 바뀐다. &lt;br&gt;&lt;br&gt;종전에는 범죄피해자가 구조금 지급 전 범죄피해와 무관하게 사망한 경우에 유족에게 구조금을 지급할 수 없었는데, 구조금 제도의 ‘사각지대’가 일정 부분 해소되는 것이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/X4N2SJSURBG6TEDDXP3MCPTPEQ.png"&gt;&lt;figcaption&gt;&lt;small&gt;/일러스트=조선디자인랩 정다운&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;◇가해자 보유재산 조회...구상권 행사 강화&lt;/b&gt;&lt;br&gt;&lt;br&gt;범죄피해를 일으킨 가해자의 보유 재산을 광범위하게 조회할 수 있는 규정도 마련된다. 그간 가해자가 직장이나 급여를 숨기고 재산을 은닉할 경우 보유 재산을 조회할 구체적 근거 규정이 없어 구상권 행사가 제한됐다. &lt;br&gt;&lt;br&gt;앞으로는 가해자의 동산·부동산·금융자산·급여 등을 조회해 신속하고 효과적인 집행이 가능해져 가해자에게 책임을 물을 수 있게 된다. 국민건강보험공단을 통해 직장 및 보수월액을 특정한 뒤 급여에 대해 바로 보전처분을 하거나 금융기관에 예금 잔액 등을 확인해 예금채권 압류·추심을 하는 등의 방식이 가능해지는 것이다. &lt;br&gt;&lt;br&gt;&lt;b&gt;◇구조금 분할 지급 및 범죄피해자 인권주간 신설&lt;/b&gt;&lt;br&gt;&lt;br&gt;이밖에도 연령이나 장애, 질병 등의 이유로 구조금을 관리하는 능력이 부족한 범죄피해자나 그 유족에게는 구조금 분할 지급이 가능하게 된다. 현행법은 구조금을 일시금으로 지급하도록 규정하는데, ​분할 지급 근거 규정이 마련되는 것이다. &lt;br&gt;&lt;br&gt;또 정부는 매년 11월 29일이 포함된 1주간을 ‘범죄피해자 인권주간’으로 지정해 범죄피해자 인권대회 행사 등을 개최해 범죄피해자 보호·지원 필요성 등을 홍보할 방침이다. &lt;br&gt;&lt;br&gt;법무부 관계자는 “이번 법령 개정으로 보다 두터워진 범죄피해자 보호·지원 제도를 범죄피해자들이 체감할 수 있도록 구체적 실무를 개선하고, 제도 정착에 만전을 기할 것”이라고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>유명 개그맨 내세운 600억 사기 투자 리딩방 “주범 특정 단서 못찾아”… 1년 만에 수사 중지</title>
+      <link>https://www.chosun.com/national/incident/2025/03/20/2BOWFZYRIVFSJFKDCHYFACDLSE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/03/20/2BOWFZYRIVFSJFKDCHYFACDLSE/</guid>
+      <dc:creator>인천=이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 20 Mar 2025 02:03:32 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/43J2BDNVJE5J7XT7E67U4YLZQM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;인천경찰청 전경./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;유명 개그맨을 광고모델로 내세워 모은 600억원대 투자금을 가로챈 투자 리딩방 사건을 수사하던 경찰이 주범에 대한 신원 확인 등에 어려움을 겪으면서 수사 중지를 결정했다. &lt;br&gt;&lt;br&gt;20일 경찰 등에 따르면 인천경찰청 형사기동대는 최근 유명 개그맨을 내세운 투자 리딩방 사기 사건에 대한 수사를 중지했다.&lt;br&gt;&lt;br&gt;경찰은 1년 정도 수사를 진행하는 동안 이 사건의 주범으로 지목되는 피의자 2명의 신원을 특정할 만한 단서를 확보하지 못해 수사 중지를 결정했다고 설명했다. &lt;br&gt;&lt;br&gt;수사 중지는 주요 피의자의 소재가 확인되지 않는 등의 이유로 장기화할 가능성이 있을 때 할 수 있다. 피의자의 신원을 특정할 단서가 있으면 언제든지 재개할 수 있다. &lt;br&gt;&lt;br&gt;지난해 3월쯤부터 피해자들의 고소로 불거지기 시작한 이 사건 피해자는 현재까지 140여명으로, 피해액은 600억원대에 이르는 것으로 파악됐다. 수사 초기 피해액은 15억원 규모였으나 이후 고소장이 계속해서 접수됐다. &lt;br&gt;&lt;br&gt;이 사건 주범 2명은 전직 장관 출신이 운영하는 사모투자 전문회사와 비슷한 이름의 불법 투자중개업체(SKYLAKE)를 세우고, 주식 투자 등으로 큰 돈을 번 것으로 알려진 유명 개그맨을 정식 계약 없이 광고모델로 내세운 투자 리딩방을 운영하며 투자자를 모았다. &lt;br&gt;&lt;br&gt;투자에 관심을 나타내는 이들에겐 이 개그맨 매니저라며 접근해 투자를 유도한 것으로 알려졌다. &lt;br&gt;&lt;br&gt;경찰은 주범 2명에게 대포통장이나 대포계정 등을 제공한 20~50대 남성 13명을 전자금융거래관리법 위반 등 혐의로 입건해 이들 중 2명은 구속 송치했으나, 주범들에 대한 신원은 1년 가까이 파악하지 못했다. &lt;br&gt;&lt;br&gt;경찰 관계자는 “주범을 특정할 수 있는 단서가 있으면 즉시 수사를 재개할 것”이라고 말했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“일하는데 왜 돈이 없어?”… 캥거루족 울린 윤성빈, 결국 사과까지</title>
+      <link>https://www.chosun.com/national/national_general/2025/03/20/WOTGBQGFEJBX7GCQ4BLNDL67WA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/03/20/WOTGBQGFEJBX7GCQ4BLNDL67WA/</guid>
+      <dc:creator>김자아 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 20 Mar 2025 00:19:24 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RTDVPXO2ZBAZBECYMPNA2R2AWM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;스켈레톤 전 국가대표 윤성빈./유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;올림픽 스켈레톤 금메달리스트 윤성빈(30)이 경제적인 이유로 부모와 함께 사는 이른바 ‘캥거루족’을 향해 “막 써서 돈이 없나”라는 취지의 발언을 했다가 논란이 일자 사과했다.&lt;br&gt;&lt;br&gt;20일 여러 온라인 커뮤니티에는 윤성빈이 최근 대학을 졸업한 뒤 취직을 하고도 부모로부터 독립하지 않고 얹혀 사는 ‘캥거루족’ 스태프와 대화하는 영상의 내용이 공유됐다.&lt;br&gt;&lt;br&gt;지난 13일 윤성빈의 유튜브 채널에 올라온 이 영상에서 윤성빈은 스태프가 “난 캥거루족”이라며 “요즘 30대도 캥거루족이 많다”고 말하자 “왜 그런 거냐. 독립을 왜 안 하냐”고 되물었다. 이에 스태프는 “돈이 없으니까”라며 “월세 내면 남는 돈이 없다”고 토로했다.&lt;br&gt;&lt;br&gt;윤성빈은 “돈이 없다니 막 써서 그렇나. 일하는데 왜 (돈이) 없냐”며 “물가가 비싸서 그렇나. 생활비를 아끼면 되지 않나”라고 했다.&lt;br&gt;&lt;br&gt;스태프는 “최저 시급을 받으면 월급이 200만~230만원인데 관리비, 월세로 100만원이 나간다. 그럼 130만원으로 살아야 하는데 식비랑 교통비 하면 진짜 얼마 안 남는다”라고 설명했다. &lt;br&gt;&lt;br&gt;윤성빈은 뒤늦게 ‘캥거루족’을 이해한 듯 “신입 때는 부모님 집에 들어가서 살아도 될 것 같다”고 말했다. 이 장면에 ‘캥거루족 추천’이라는 자막이 삽입되기도 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/H2L4WQSFJJFHJGHMHVYPYKXSRQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;스켈레톤 전 국가대표 윤성빈./유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤성빈의 ‘캥거루족’ 발언을 접한 일부 네티즌들은 “현실을 잘 모른다”며 부정적인 반응을 쏟아냈고, “경솔한 발언”이라는 식의 비판이 이어졌다. 다만 “설명 듣고 결국 이해하지 않았나” “자극적이긴 해도 맞는 말 했다” 등 윤성빈을 감싸는 의견도 있었다.&lt;br&gt;&lt;br&gt;논란이 이어지자 윤성빈은 지난 18일 이 영상의 댓글 기능을 제한한 데 이어 19일 결국 영상을 삭제하고 유튜브 채널을 통해 사과문을 올렸다.&lt;br&gt;&lt;br&gt;윤성빈은 “최근 업로드된 영상 속 발언과 이후 대응에 분노하고 상처받으신 시청자께 진심으로 사과드린다”며 “말을 전달하는 과정에 있어 저의 표정, 말투와 태도로 인해 누군가를 비하하고 폄하하려는 듯이 보일 수 있다는 것을 미처 생각하지 못하고 행동한 점 다시 한번 사과드린다”고 했다.&lt;br&gt;&lt;br&gt;그는 “절대 누군가를 비하하거나 폄하하려는 의도가 없었다는 것을 말씀드리고 싶다”며 “많은 분께서 지적해 주시듯이 저는 전반적인 사회 분위기와 여러 방면에 무지한 점이 많아 궁금했던 것을 물어보기 위함이었다”고 했다.&lt;br&gt;&lt;br&gt;그러면서 “저의 무지함과 의도와 별개로 현 상황을 빠르게 대처하지 못한 부분에 대해 진심으로 사과드린다”며 “앞으로 저의 이러한 부족한 점을 지속적으로 상기시키며 반성하고 고쳐나가겠다”고 덧붙였다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>20대 어린이집 교사, 장기기증으로 5명에 새삶 주고 하늘로</title>
+      <link>https://www.chosun.com/national/national_general/2025/03/20/W2OKTTGICRD5VJMHMI5B3HXDJ4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/03/20/W2OKTTGICRD5VJMHMI5B3HXDJ4/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 20 Mar 2025 01:49:56 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PVC3UC7OLBDUNKYT5VYDHLX3II.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;고(故) 이슬비씨. /한국장기조직기증원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;결혼을 앞두고 있던 20대 어린이집 교사가 뇌사 장기 기증으로 5명에게 생명을 나눠주고 하늘로 떠났다.&lt;br&gt;&lt;br&gt;20일 한국장기조직기증원은 지난달 27일 영남대학교병원에서 이슬비(29)씨가 뇌사 장기 기증으로 5명의 생명을 살리고 하늘의 천사가 되어 떠났다고 밝혔다.&lt;br&gt;&lt;br&gt;이씨는 지난 1월 28일 설 연휴에 부모님을 뵙기 위해 고향으로 이동하던 중 차량에서 의식을 잃고 쓰러져 병원으로 이송됐다. 이후 의식을 회복하지 못하고 뇌사 상태에 빠졌다. 이씨는 뇌사 장기 기증으로 심장, 폐장, 간장, 신장 등을 기증해 5명에게 생명을 나눠줬다.&lt;br&gt;&lt;br&gt;가족들은 이씨의 회복이 불가능하다는 진단을 받아들이기 어려웠으나 사랑하는 이가 고통 속에서 떠나는 대신 누군가의 생명을 살리는 선한 일을 하고 가길 바라는 마음으로 기증을 결심했다.&lt;br&gt;&lt;br&gt;대구에서 1남 1녀 중 막내로 태어난 이씨는 밝고 쾌활해 주변 사람들에게 많은 사랑을 받았다고 한다. 집에서는 부모님 속을 한 번도 썩인 적 없는 착하고 순수한 딸이었다. 이씨는 내년 1월에 남자친구와 결혼하기로 약속하고 준비를 하던 중 사고를 당했다. &lt;br&gt;&lt;br&gt;또 이씨는 어릴 때부터 아이들을 좋아해서 선생님이 되기를 꿈꿔왔고, 대학에서 아동학과를 졸업한 후 어린이집 교사로 일해왔다. 졸업 후 일을 쉰 적이 없을 정도로 성실했고, 아이가 다치거나 울면 본인이 더 마음 아파하는 가슴 따뜻한 선생님이었다.&lt;br&gt;&lt;br&gt;이씨의 어머니는 “내 딸 슬비야, 이 세상에서 최고의 딸이었고 엄마 인생에서 기쁨이고 최고의 행복이었어. 나중에 하늘에서 엄마랑 다시 만나자. 이 세상에서 제일 이쁜 내 딸 이슬비. 사랑해”라고 마지막 인사를 전했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>경찰, 헌재 앞 시위자 50여명 강제 해산</title>
+      <link>https://www.chosun.com/national/national_general/2025/03/20/7GUAJGYIFZH55NQO5L6BJOW7J4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/03/20/7GUAJGYIFZH55NQO5L6BJOW7J4/</guid>
+      <dc:creator>고유찬 기자, 장윤 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 20 Mar 2025 01:17:32 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SDG4LPOXP5E6NKDHIXPYI5WXQE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;20일 오전 서울 종로구 헌법재판소 인근에서 한 시위자가 경찰의 강제 해산 조치에 항의하며 바닥에 누워 저항하고 있다. /장윤 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰이 헌법재판소 인근 시위자들을 강제 해산했다.&lt;br&gt;&lt;br&gt;20일 경찰 등에 따르면, 서울 종로경찰서는 이날 오전 9시 30분쯤 헌재 인근 시위자 50여명에 대한 강제 해산에 나섰다.&lt;br&gt;&lt;br&gt;경찰 관계자는 해산에 앞서 헌재 인근 시위자들을 향해 “헌재 인근 시위자들이 계란 및 바나나를 던져 이미 1인 시위를 벗어난 행태를 하고 있다”며 “불법 집회이니 모두 이동해달라”고 밝혔다.&lt;br&gt;&lt;br&gt;하지만 일부 시위자들은 “탄핵 각하”를 외치고 버텼고, 경찰은 시위자들을 붙잡아 헌재 바깥쪽으로 끌어냈다. 일부는 경찰 바리케이드를 붙잡고 저항하거나 길거리에 앉아 버텼다. 경찰에게 거칠게 욕설하거나 몸싸움을 벌이기도 했다.&lt;br&gt;&lt;br&gt;이에 경찰은 “경찰관에게 욕설하거나 때리는 행위는 공무집행방해로, 현행범으로 체포될 수 있다”고 경고 방송을 진행했다. 이후 시위대를 한명씩 끌어내 헌재 바깥으로 이동시켰다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “해산 과정에서 체포된 인원은 없다”고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6ZJPMS4RHHLONCITB5PXB3HCWI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;20일 오전 서울 종로구 헌법재판소 앞에 누군가가 던진 계란이 떨어져 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;집회 및 시위에 관한 법률에 따라 헌법재판소 100ｍ 이내에선 집회가 금지되지만, 기자회견이나 1인 시위는 허용된다.&lt;br&gt;&lt;br&gt;윤 대통령 지지자들은 그간 1인 시위를 한다고 주장하며 헌재 앞에서 농성을 벌여 왔다.&lt;br&gt;&lt;br&gt;앞서 이날 헌재 앞에서는 더불어민주당 의원들이 윤석열 대통령의 신속한 파면을 촉구하는 기자회견을 진행했다.&lt;br&gt;&lt;br&gt;이 과정에서 민주당 백혜련 의원과 이건태 의원, 박민규 의원 등이 누군가 던진 계란에 맞는 일이 발생했다.&lt;br&gt;&lt;br&gt;백 의원 등은 기자회견이 끝난 뒤 서울 종로경찰서를 찾아 계란을 투척한 이를 처벌해달라는 고발장을 접수했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>함께 술 마시던 이웃 살해한 50대 체포</title>
+      <link>https://www.chosun.com/national/regional/chungcheong/2025/03/20/I3IDPQPK7ZEIPMQETO3FH7Z3TE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2025/03/20/I3IDPQPK7ZEIPMQETO3FH7Z3TE/</guid>
+      <dc:creator>신정훈 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 20 Mar 2025 00:45:57 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/L4GEXC5HOZAC5NA5TDDI7RQ23U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;함께 술을 마시던 이웃을 살해한 50대가 경찰에 붙잡혔다. &lt;br&gt;&lt;br&gt;충북 괴산경찰서는 20일 이웃 주민 50대 B씨를 흉기로 살해한 혐의로 A씨를 체포해 조사하고 있다.&lt;br&gt;&lt;br&gt;A씨는 전날 오후 8시 40분쯤 B씨 집에서 함께 술을 마시던 중 집에 있던 흉기를 휘둘러 그를 살해한 혐의를 받는다.&lt;br&gt;&lt;br&gt;A씨는 범행 직후 “사람을 찔렀다”고 경찰에 신고해 출동한 경찰에게 현행범으로 체포됐다.&lt;br&gt;&lt;br&gt;A씨는 경찰 조사에서는 “자해하려는 B씨를 제지하다 실수로 벌어진 일이다”라며 혐의를 부인하고 있는 것으로 전해졌다. &lt;br&gt;&lt;br&gt;경찰 관계자는 “A씨가 술에서 깨면 정확한 사건 경위를 조사할 계획”이라고 말했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>홍천 리조트 기숙사서 룸메이트 숨지게 한 60대 붙잡혀</title>
+      <link>https://www.chosun.com/national/incident/2025/03/20/O3FVZNVLLNCJTCMMECKJR4BECQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/03/20/O3FVZNVLLNCJTCMMECKJR4BECQ/</guid>
+      <dc:creator>홍천=정성원 기자</dc:creator>
+      <description>강원 홍천군 한 리조트 직원 기숙사에서 룸메이트를 넘어뜨려 숨지게 한 60대 청소 용역업체 직원이 경찰에 붙잡혔다.
+강원 홍천경찰서는 60대 A씨를 임의동행해 폭행치사 혐의 적용 여부를 조사하고 있다고 20일 밝혔다.</description>
+      <pubDate>Thu, 20 Mar 2025 00:44:50 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/54FTUISTLZDHJELX6W5GW5V5XU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;강원 홍천군 한 리조트 직원 기숙사에서 룸메이트를 넘어뜨려 숨지게 한 60대 청소 용역업체 직원이 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;강원 홍천경찰서는 60대 A씨를 임의동행해 폭행치사 혐의 적용 여부를 조사하고 있다고 20일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 이날 오전 3시 45분쯤 홍천군 서면 한 리조트 직원 기숙사에서 술을 마시고 룸메이트인 60대 B씨와 몸싸움을 하던 중 그를 넘어뜨려 숨지게 한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;A씨는 범행 뒤 스스로 신고해 자수했으며, 경찰에서 “B씨가 술병으로 나를 때려 대항하는 과정에서 사고가 났다”고 진술한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;B씨는 심정지 상태로 병원으로 옮겨졌지만 숨졌고, A씨도 몸싸움 과정에서 머리 등을 다쳐 치료를 받고 있다.&lt;br&gt;&lt;br&gt;경찰은 A씨 등을 상대로 정확한 사건 경위를 조사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>검찰, 오세훈 시장 집무실·공관 압수수색... 명태균 의혹 관련</title>
+      <link>https://www.chosun.com/national/national_general/2025/03/20/5YFRPBPYOZFBTAMFGDPTLKQQGE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/03/20/5YFRPBPYOZFBTAMFGDPTLKQQGE/</guid>
+      <dc:creator>최연진 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 20 Mar 2025 00:10:39 +0000</pubDate>
+      <content:encoded>서울중앙지검 명태균 사건 전담수사팀은 20일 오전 정치브로커 명태균씨 사건과 관련해 서울시청 오세훈 시장 집무실, 시장 공관 등에 대해 압수수색에 착수했다고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IWEI245ZIBDIRAEADPH7SSSY2Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;19일 오세훈 서울시장이 주택시장 안정화 방안을 발표하기 위해 정부종합청사 브리핑룸으로 입장하고 있다./ 고운호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울시도 “오전 9시쯤 검찰로부터 압수수색 통보를 받았다”며 “변호사 입회 하에 영장 범위를 확인하고 협조할 것”이라고 했다.&lt;br&gt;&lt;br&gt;검찰은 2021년 서울시장 재보궐 선거 당시 정치 브로커 명태균씨가 오세훈 서울시장 후보 캠프에 미공표 여론조사 13건을 제공했고, 오 시장의 후원자로 알려진 사업가 김한정씨가 3300만원을 대납했다는 의혹에 대해 수사 중이다. 압수 수색 영장에는 오 시장이 정치자금법 위반 혐의 피의자로 적시된 것으로 알려졌다. 압수 수색 대상에 포함된 강철원 전 서울시 정무부시장은 참고인 신분이라고 한다.&lt;br&gt;&lt;br&gt;검찰은 이 사건을 창원지검에서 중앙지검으로 이송한 뒤 후원자 김씨와 강철원 전 서울시 정무부시장, 박찬구 서울시 정무특보, 김병민 서울시 정무부시장 등을 불러 조사했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘승부’ 감독 “주연 유아인, 마약 논란 무책임…실망스러워”</title>
+      <link>https://www.chosun.com/national/national_general/2025/03/20/YNED225NAZHOJCYAA4SEOYQ5WI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/03/20/YNED225NAZHOJCYAA4SEOYQ5WI/</guid>
+      <dc:creator>김가연 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 20 Mar 2025 00:16:11 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/T5X22HX4BGBM2UOSGGJHGZ2TKU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;배우 유아인. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;영화감독 김형주가 자신의 신작 ‘승부’의 주연배우 유아인이 마약 투약 논란으로 물의를 빚은 것에 대해 “솔직히 실망스러웠다”고 밝혔다.&lt;br&gt;&lt;br&gt;19일 오후 서울 CGV 용산아이파크몰에서는 영화 ‘승부’ 기자간담회가 열렸다. 이 자리에서 김 감독은 “처음 이병헌·유아인이 캐스팅됐을 땐 세상을 다 가진 기분이었다. 이병헌 선배님부터 차례로 캐스팅이 됐는데 첫 순간부터 세상을 다 가진 것처럼 기쁘고 동시에 부담도 느꼈다”고 말했다.&lt;br&gt;&lt;br&gt;그는 “솔직하게 말씀드리면 유아인의 경우는 주연배우로서 어떻게 보면 무책임할 수 있고 실망스러운 사건이었다”고 솔직히 말했다. 이어 “배우이기 전에 사회 구성원으로 잘못을 범했고 처벌을 받고 있는 중이라 어떤 말씀을 더 드리기엔 어려운 것 같다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CVCEMYOYWZM5JBYD2CZQSYEMKM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김형주 감독. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김 감독은 “영화에 나온 대사처럼 지옥 같은 터널에 갇혀 있는 느낌이었다. 제가 할 수 있는 게 없었고 막막했다”고 토로했다. 그러면서 “이제야 개봉이라는 한 줄기 빛 덕분에 숨통이 트이는 기분이다. 되게 감격스럽다”라며 “스태프들도 배우들도 간절하게 개봉을 기다렸다. 여러 감정이 교차한다”고 심경을 밝혔다.&lt;br&gt;&lt;br&gt;그는 “선택과 판단은 대중의 몫이라 강요할 수 없다”면서도 “영화를 있는 그대로 봐주셨으면 하는 어려운 부탁을 드린다”고 대중에 호소했다. 이어 “영화가 세상에 나오기 전에 이미 상처를 받게 됐는데, 따뜻한 마음으로 연고라도 발라준다는 심정으로 봐주셨으면 좋겠다”고 덧붙였다.&lt;br&gt;&lt;br&gt;한편 ‘승부’는 대한민국 최고의 바둑 기사인 조훈현 국수와 이창호 국수의 이야기를 그렸다. 배우 이병헌이 조훈현 역을, 유아인이 이창호 역을 맡았다.&lt;br&gt;&lt;br&gt;유아인은 지난해 9월 마약류 상습 투약 혐의로 1심에서 징역 1년과 벌금 200만원, 추징금 150여만원을 선고받고 법정구속됐다. 그는 지난달 18일 항소심에서 징역 1년에 집행유예 2년과 벌금 200만원을 선고받고 석방됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“지하철에서 노숙인 부르튼 발에 로션 발라준 천사를 찾습니다”</title>
+      <link>https://www.chosun.com/national/national_general/2025/03/20/HWWAQWS2DRHMLLCIYRCMAH4ODE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/03/20/HWWAQWS2DRHMLLCIYRCMAH4ODE/</guid>
+      <dc:creator>이가영 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 20 Mar 2025 00:10:31 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2CQCREDXR5I73K6CZQ6CZAFPDE.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;서울지하철 4호선 객차 내부. 기사 내용과 관련 없음. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천공항에서 노숙 생활을 하는 A(66)씨의 아침은 항상 똑같이 시작된다. 공항철도 첫차를 타고 서울역에서 내려 인근 무료 급식소를 찾는다. 정성스러운 식사와 봉사자들의 친절함에 이끌려 매일 무료 급식소를 찾은 지 8개월이 됐다. &lt;br&gt;&lt;br&gt;그러나 고집스러울 만큼 물품 지원은 거부하는 A씨는 한겨울에도 맨발에 슬리퍼를 신고 다닌다. 손은 물론 양발이 모두 갈라지고 부르터서 보는 사람이 다 안쓰러울 정도다. 양말이라도 신으면 좋으련만 A씨는 “내 더러운 몸에 새 옷 입으면 그게 무슨 소용이냐”며 한사코 옷과 신발을 사양했다. 그는 “내 몸과 마음이 정돈되었을 때, 그때 깨끗한 옷을 입고 싶다”고 했고, 봉사자들은 그런 A씨의 뜻을 존중하기로 했다. &lt;br&gt;&lt;br&gt;그러던 어느 날, 무료 급식소에 온 A씨가 겨울 외투를 입고 있었다. 그는 “무료 급식소 오는 길에 천사를 만났다”고 했다. &lt;br&gt;&lt;br&gt;A씨가 아침 식사를 하며 무료 급식소 봉사자에게 전한 이야기는 다음과 같다. 여느 날과 같이 지하철 첫차를 탄 A씨는 좌석에 앉아 잠시 졸고 있었다고 한다. 그러다 발에 기분 좋은 느낌이 들어 눈을 떴더니 한 여성이 다가와 무릎을 꿇고는 A씨의 발에 핸드크림을 발라주고 있었다. A씨의 부르튼 손에도 로션을 발라준 여성은 A씨의 얇은 복장이 신경 쓰였는지 입고 있던 겉옷도 벗어줬다. &lt;br&gt;&lt;br&gt;A씨는 너무 놀랍기도 하고, 고마운 마음에 “종교가 있느냐”고 물었다. 종교 단체에서 봉사 활동을 하는 사람일 거라고 추측해서다. 여성은 “인천의 한 교회를 다닌다”고 답했다고 한다. 이후 여성은 A씨가 사양할 틈도 없이 “일하러 가야 한다”며 외투를 주고 지하철에서 내려 사라졌다. 나중에 보니 여성이 전해주고 간 옷 주머니에는 핸드크림과 만원짜리 몇 장이 들어있었다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/U733DNW3CVGINAGKRMFXGJYX7E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;인천공항에서 노숙 생활을 하는 A(66)씨가 지하철에서 만난 여성이 준 흰색 외투를 입고 있다. 외투 안에는 만원짜리 지폐 몇 장이 들어 있었다. /이랜드복지재단&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;A씨는 “지금까지 누구에게도 그런 대접을 받아본 적이 없었다. 저를 그렇게 대해주는 사람을 처음 만났다”며 눈물을 글썽였다. &lt;br&gt;&lt;br&gt;서울역 무료 급식소 ‘아침애 만나’는 A씨가 지하철에서 만난 익명의 천사를 찾고 있다. 여성이 남기고 간 외투와 ‘필그림교회’에 다닌다고 했던 것이 유일한 단서다. &lt;br&gt;&lt;br&gt;‘아침애 만나’를 운영하는 이랜드복지재단 관계자는 “A씨가 여성이 준 외투를 매일 입고 다닌다. ‘마치 하나님이 저를 감싸주시는 것 같은 기분이 든다’며 여름에도 입고 다닐 것이라고 했다”며 “A씨의 마음을 대신해 고마운 여성분에게 보답하고 싶다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>[단독] 李 2심 선고 앞두고… 헌재연구원 “허위사실 공표, 처벌 범위 너무 넓다” 논문 발표</title>
       <link>https://www.chosun.com/national/court_law/2025/03/20/2RP7TFCTWFFP5PGY6LYSG3Y7I4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/03/20/2RP7TFCTWFFP5PGY6LYSG3Y7I4/</guid>
@@ -735,42 +853,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5KKYJAGBZVGZNKYY4RMQBEL37I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;'서천 묻지마 살인 사건'의 피의자 이지현(34). /충남경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;야간에 산책 중이던 40대 여성을 별다른 이유 없이 살해한 이른바 ‘서천 묻지 마 살인 사건’의 유족이 피의자 이지현(34)의 엄벌을 탄원했다. &lt;br&gt;&lt;br&gt;피해자의 아버지 A씨는 16일 온라인에 검찰에 제출할 ‘서천 묻지마 살인 사건 가해자 엄벌 탄원서’를 올리며 네티즌에게 동의를 요청했다. A씨가 올린 탄원서에 ‘동의합니다’ 표시를 한 후 이름과 주소 등을 적어 제출하는 형식이다. &lt;br&gt;&lt;br&gt;A씨는 탄원서에서 “평범한 직장인으로 누구보다 가족을 아끼고 열심히 살아온 제 자녀는 일면식도 없는 피의자에 의해 처참하게 목숨을 잃었다”며 “제 큰아이가 이루 말할 수 없는 엄청난 고통을 겪으며 떠나갔을 생각에 저희 가족은 파괴되어 더 이상 살아갈 수 없는 지경에 이르렀다”고 했다. &lt;br&gt;&lt;br&gt;그는 “그러나 피의자는 고인과 유족에 대한 진정한 사과는커녕 검거 직후 즉시 변호사까지 선임하며 본인의 지적장애와 우발 범행을 주장하고, 본인에게 불리한 진술은 거부하는 등 자기방어와 처벌을 회피하는 데 급급하다”고 했다. &lt;br&gt;&lt;br&gt;A씨는 “피의자의 사건 당일 행적은 매우 계획적이고 주도면밀하다”고 주장했다. A씨에 따르면, 피의자 이지현은 며칠 동안 1시간 이상 현장을 배회하며 범행 대상을 물색했고, A씨의 딸이 나타나자 미리 준비한 흉기로 수십 군데를 찔렀다. 이후 행인들에게 발견되지 않도록 시신을 산책로 밖으로 유기하고, 길가에 있던 헌 이불로 덮어놓았다. A씨 딸의 휴대전화는 건너편 도로 하수구에 버려 찾을 수 없는 상태다. &lt;br&gt;&lt;br&gt;A씨는 “여기에 더해 사건 현장에 1시간가량 머물면서 마치 제 아이의 죽음을 마지막까지 확인하는 듯한 행동을 했다”며 “사건 현장은 방범카메라(CCTV)가 존재하지 않는다는 점도 피의자의 계획 범죄를 반증하고 있다”고 했다. 이어 “피의자가 서천읍사무소에서 행정 도우미로 10년 이상 근무했던 점 등을 종합하면 피의자는 자기 행동이 범죄라는 것을 인지하고 있었으며 충분히 책임질 수 있는 상태였음이 명백하다”고 했다. &lt;br&gt;&lt;br&gt;그는 “생명의 가치를 모르는 저 잔인한 가해자에게 무기징역 이상의 강력한 처벌이 내려지는 것만이 우리 가족에게 조금이라도 위안이 될 것 같다”며 “부디 피해자와 제 가족의 억울함을 풀어주시길 간곡히 탄원한다”고 했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/W4LXLK66SFGJ7P23CH7FCVDH44.png"&gt;&lt;figcaption&gt;&lt;small&gt;'서천 묻지마 살인사건' 피해자 유족이 올린 탄원서 일부. /네이버폼&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;앞서 충남경찰청은 지난 7일 신상정보공개심의위원회를 열고 이지현의 이름, 나이, 사진 등을 30일간 공개하기로 결정했다. 이지현은 지난 2일 오후 9시 45분쯤 충남 서천군 서천읍 사곡리 한 도로변에서 산책을 나온 40대 여성을 흉기로 찔러 살해하고 달아났다. 이튿날 자택에서 검거된 이지현은 “최근에 사기를 당해서 돈을 많이 잃었고 세상이 도와주지 않아 힘들게 느껴졌다”며 “충동적으로 범행을 저질렀다”고 했다. &lt;br&gt;&lt;br&gt;하지만 경찰 조사 결과 이지현은 사전에 흉기를 준비했고, 범행 현장 인근을 1시간 넘게 돌아다니며 범행 대상을 찾아다닌 것으로 드러났다. 이지현의 휴대전화에서는 세상에 대한 원망과 함께 ‘사람을 죽이겠다’는 메모글도 확인됐다. &lt;br&gt;&lt;br&gt;이지현은 살인 혐의로 지난 5일 구속됐고, 지난 11일 대전지검 홍성지청에 송치됐다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>친구들과 귀가하던 11살 초등생, 길 건너다 승용차에 치여 숨져</title>
-      <link>https://www.chosun.com/national/national_general/2025/03/19/H6ZXZEO3JBFWFKT2HSNFUREUMM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/03/19/H6ZXZEO3JBFWFKT2HSNFUREUMM/</guid>
-      <dc:creator>김명일 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 19 Mar 2025 01:05:11 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/X4WX55AXSBGOJAEPHUXGIU3CIA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 관련 이미지. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;친구들과 수영을 마친 후 귀가하던 11살 초등학생이 차에 치여 숨지는 사고가 발생했다.&lt;br&gt;&lt;br&gt;19일 전북 남원경찰서에 따르면 전날 오후 8시 55분쯤 남원시 한 도로에서 30대 남성이 몰던 승용차가 길을 건너던 A(11)군을 들이받았다. 이 사고로 A군이 심정지 상태로 병원으로 이송됐으나 결국 숨졌다.&lt;br&gt;&lt;br&gt;조사 결과 A군은 인근 수영장에서 수영을 한 뒤 친구들과 함께 귀가하기 위해 도로를 건너던 중이었다.&lt;br&gt;&lt;br&gt;경찰 관계자는 조선닷컴과의 통화에서 “A군을 포함한 아이들 3명이 도로를 건너는 중에 사고가 났다”며 “A군이 도로를 건너려고 빠르게 달렸는데 운전자가 이를 제대로 보지 못해 사고가 난 것으로 보인다”고 했다. &lt;br&gt;&lt;br&gt;경찰은 운전자를 교통사고처리 특례법상 치사 혐의로 입건해 사고 경위를 조사할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>의정부경전철 또 고장...“복구 작업 중”</title>
-      <link>https://www.chosun.com/national/national_general/2025/03/19/E3J2EEPFTJGO3AAZCPKKM4U6CY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/03/19/E3J2EEPFTJGO3AAZCPKKM4U6CY/</guid>
-      <dc:creator>의정부=김현수 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 19 Mar 2025 00:05:17 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YSJDCQ4KKFRXT2FXB5JUJE2EKQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;폭설이 내린 18일 오전 경기 의정부시 경전철 선로가 운행 중단으로 텅 비어 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;19일 오전 경기 의정부경전철 운행이 열차 고장으로 전날에 이어 또다시 중단됐다.&lt;br&gt;&lt;br&gt;의정부경전철에 따르면 이날 오전 7시 58분쯤 어룡역에서 곤제역 방향으로 운행 중이던 상선(발곡행 선로)에서 인버터(동력 변환 장치) 고장으로 열차가 멈췄다. 열차 운행은 30분 넘게 중단됐다.&lt;br&gt;&lt;br&gt;무인 운행되는 순환 노선인 의정부경전철은 후진이 불가능해, 한 대의 열차가 멈추면 전 구간 열차 운행이 중단되는 구조다.&lt;br&gt;&lt;br&gt;앞서 전날 오전에는 폭설로 의정부경전철이 오전 5시 15분부터 2시간 10분간 멈춰 섰다.&lt;br&gt;&lt;br&gt;의정부경전철 관계자는 “다음 열차가 고장 난 열차를 밀어 내는 방식으로 작업을 하고 있다”며 “곧 복구될 예정”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“요즘 72세의 몸, 12년 전 65세와 비슷... 노인 기준 달라져야”</title>
-      <link>https://www.chosun.com/national/national_general/2025/03/19/CLIWOP2BGNHEZN6AXJK5HNBULI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/03/19/CLIWOP2BGNHEZN6AXJK5HNBULI/</guid>
-      <dc:creator>김자아 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 18 Mar 2025 22:35:39 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Q54QHQZ6V2KT2G76YZMXK5IGQM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 종로구에서 노인들이 이동하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;요즘 70대는 예전과 달리 노인이라는 말이 무색하다는 이야기가 나오고 있다. 실제로 보건의학적 관점에서도 요즘 70대는 10여 년 전 60대 못지않게 건강하다는 분석 결과가 나왔다.&lt;br&gt;&lt;br&gt;이윤환 아주대의료원 노인보건연구센터 교수는 18일 보건복지부가 스페이스쉐어 서울역에서 연 제3차 노인연령 전문가 간담회에서 발제자로 나와 “건강 노화를 고려할 때 현재 70세는 예전 65세 수준”이라고 밝혔다.&lt;br&gt;&lt;br&gt;이 교수는 보건의학적 관점에서의 적정 노인연령을 살펴보기 위해 ‘건강노화’(Healthy Aging) 개념을 사용했다. 아프지 않고 건강하게 보내는 기간을 가리키는 ‘건강수명’(Healthy Life Expectancy)과 유사한 개념인데, 여기에 신체 기능 상태를 더 반영했다.&lt;br&gt;&lt;br&gt;2011년과 2023년의 신체 기능 장애율을 분석한 결과 고령자의 중증 장애 비율은 65∼69세의 경우 4.2%에서 2.4%로, 70∼74세는 4.9%에서 4.4%로 줄었다.&lt;br&gt;&lt;br&gt;세부 연령별로 비교했을 때는 2023년 70세의 기능 상태가 2011년 65세와 비슷한 수준이었다.&lt;br&gt;&lt;br&gt;기능 상태 등을 종합적으로 고려한 건강노화지수는 12년 사이 평균 1점 증가했다. 2011년 당시 65세의 건강노화지수(10.88)와 유사한 연령대는 2023년엔 72세(10.81)였다.&lt;br&gt;&lt;br&gt;이 교수는 건강 노화 연령의 상향 추세가 이어질 것으로 내다봤다. 이 교수가 제시한 통계에 따르면 노년기에 진입 중인 1차 베이비붐 세대(1955∼1964년)가 이전 산업화 세대(1945∼1954년생)에 비해 만성질환 유병률이 줄고 의료비 지출도 감소하고 있다.&lt;br&gt;&lt;br&gt;아울러 현재 65세인 노인 연령 조정의 필요성을 시사했다. 건강 수명이 평균 72.5세(2020년)로 나타나고, 노인들이 생각하는 노인 연령 기준이 71.6세(2023년도 노인 실태 조사)로 조사된 점이 그 이유다.&lt;br&gt;&lt;br&gt;이날 간담회의 또 다른 발제자인 권정현 한국개발연구원(KDI) 연구위원도 ‘고령층의 건강 개선과 근로 기간 연장을 위한 정책 대응 방향’을 발표하면서 다양한 지표들을 볼 때 고령층의 전반적인 건강 개선이 이뤄졌다고 전했다.&lt;br&gt;&lt;br&gt;다만 권 연구위원은 “사회경제적 지위에 따라 건강 수준에 뚜렷한 격차가 존재한다”며 “노인 연령 조정에 있어 고령 집단 내 이질성에 대한 고려가 필요하다”고 지적했다.&lt;br&gt;&lt;br&gt;또 법정 정년 상향 이전에 재고용 제도를 적극 운영해야 한다고 주장했다. 그는 근로·사업소득을 반영해 국민연금 수급액을 깎는 감액 제도는 “노인 연령 조정 방향과 배치되는 제도로, 폐지 또는 기준 상향 등을 고려할 필요가 있다”고 했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>외국인 10명 중 4명 월급 300만원… 주로 이곳에서 일한다</title>
-      <link>https://www.chosun.com/national/national_general/2025/03/19/CMKCHW4LGNDOZE4YCEN6SZ5RUA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/03/19/CMKCHW4LGNDOZE4YCEN6SZ5RUA/</guid>
-      <dc:creator>이가영 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 18 Mar 2025 22:19:02 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YOULOKJNZKA4Q7BPRLR4BGTZYU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난해 인천 남동구 인천외국인근로자지원센터에서 60여명의 외국인 근로자들이 상담을 받으려고 줄을 서서 대기하고 있다. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국내에 비전문취업(E-9) 비자로 체류하는 외국인이 30만명을 넘어선 가운데, 300만원 이상의 월급을 받는 외국인이 10명 중 4명에 달하는 것으로 나타났다. &lt;br&gt;&lt;br&gt;통계청은 18일 ‘2024년 이민자 체류 실태 및 고용 조사 결과-체류자격별 외국인의 한국 생활’을 발표했다. 작년 12월 발표한 이민자 체류 실태 및 고용 조사 결과를 체류자격별로 세분화한 자료다. &lt;br&gt;&lt;br&gt;지난해 국내 외국인 156만1000명 가운데 비전문취업 비자로 체류하는 외국인은 30만3000명으로 집계돼 처음으로 30만명 선을 넘어섰다. 비전문취업 비자는 내국인 인력 부족을 보완하기 위해 도입된 제도로, 고용허가제를 통해 외국인 비전문 인력이 한국에서 취업할 수 있도록 허용한 비자다. &lt;br&gt;&lt;br&gt;이들 가운데 99.7%인 30만2000명이 취업자다. 광‧제조업에 종사하는 이들이 80.5%로, 가장 많았다. 이어 농림어업(14.4%), 건설업(3.0%) 순이었다. 전문인력(50.5%), 결혼이민(34.4%), 영주권(32.7%), 재외동포(31.3%) 등 다른 비자를 가진 취업자 중에서도 광‧제조업에서 일하는 비중이 가장 높았다. 일각에서는 “외국인 없으면 공장이 안 돌아간다”는 말이 나온다. &lt;br&gt;&lt;br&gt;외국인 임금근로자의 절반가량인 51.2%는 월급으로 200만~300만원을 받았다. 300만원 이상은 37.1%를 차지했다. 특히 월급이 300만원 이상인 외국인 임금근로자 비중은 5년 전인 2020년 16.4%에 비해 크게 늘었다. &lt;br&gt;&lt;br&gt;외국인 남성은 취업, 여성은 결혼을 목적으로 한국에 체류하는 경우가 많았다. 남성은 비전문 취업(90.9%), 전문인력(71.8%), 방문취업(57.3%) 비중이 높고, 여성은 결혼이민(79.6%)과 유학생(53.3%) 비율이 높았다. &lt;br&gt;&lt;br&gt;외국인 국적 비중은 한국계 중국(31.6%), 베트남(15.0%) 순이고, 아시아(91.0%)의 비중이 높았다. 외국인의 59.0%가 수도권에 거주하며, 방문취업(80.3%), 영주(77.0%), 재외동포(76.9%)의 수도권 거주 비중이 특히 높았다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>헌재, 재판관 회의서 월급 3% ‘셀프 인상’</title>
       <link>https://www.chosun.com/national/court_law/2025/03/19/BKLK3WDC4VG5VNET5HVHFHWDUY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/03/19/BKLK3WDC4VG5VNET5HVHFHWDUY/</guid>
@@ -893,100 +975,6 @@
       <description/>
       <pubDate>Tue, 18 Mar 2025 15:52:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7ZOHLTQ7HVGZFE5QSFNT5LFE44.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;탁구 국가대표 신유빈(21)이 17일 “소아·청소년 환자 치료비로 써달라”며 1억원을 경기 수원시 가톨릭대 성빈센트병원에 기부했다. 수원 출신인 신유빈은 2022년에도 이 병원에 1000만원을 기부한 바 있다. 신유빈은 “많은 아이들이 건강과 미소를 되찾길 바란다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[오늘의 날씨] 2025년 3월 19일</title>
-      <link>https://www.chosun.com/national/national_general/2025/03/19/57XNT2XVQFFL5OQRFWSKSON72A/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/03/19/57XNT2XVQFFL5OQRFWSKSON72A/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Tue, 18 Mar 2025 15:50:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4JDW5COIOJAHPHVJNW7XPNT7PE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“아버지가 의사? 그럼 고백해”… 유명 유튜브가 대치동 초등생에 한 말</title>
-      <link>https://www.chosun.com/national/national_general/2025/03/18/OY2VNMSMH5G4BINIFOBEEB3VFI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/03/18/OY2VNMSMH5G4BINIFOBEEB3VFI/</guid>
-      <dc:creator>최혜승 기자 </dc:creator>
-      <description/>
-      <pubDate>Tue, 18 Mar 2025 13:35:16 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3SPIZYIZDJEQ7OE7XWWCITCC3U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;유튜브 채널 '워크맨'에서 초등학생들에게 거주 아파트와 부모님 직업 등의 질문을 던져 논란이 되고 있다./워크맨&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;구독자 400만명이 넘는 유명 유튜브 채널 진행자와 제작진이 서울 강남구 대치동의 초등학생들을 대상으로 거주 아파트와 부모 직업을 물어 논란이 일고 있다. 경제력에 따른 계층 구분을 부추긴다는 지적이 나온다. &lt;br&gt;&lt;br&gt;지난달 27일 유튜브 ‘워크맨’에는 아이돌 엔믹스의 멤버 해원이 토스트 가게에서 일일 아르바이트를 체험하는 영상이 올라왔다. 이날 해원은 가게를 찾은 초등학생들에게 “다들 여기(대치동) 살아요?”라며 대화를 시작했다. &lt;br&gt;&lt;br&gt;한 학생이 “압구정에 산다”고 하자, 해원은 “압구정 어디요?”라고 되물었다. 이 학생은 “현대아파트”라고 답했고, 해원은 놀란 표정을 지었다. 서울 강남구 압구정동의 현대아파트는 국내 재건축 시장에서 대표적인 고가 아파트로 꼽힌다. 지난 5일 현대2차 아파트(전용면적 198.41㎡, 11층)는 94억원에 거래되며 신고가를 기록한 바 있다. &lt;br&gt;&lt;br&gt;제작진은 또 다른 학생이 입고 있던 고가의 스톤아일랜드 패딩을 보고 “이 옷은 누가 사줬느냐”고 물었다. 이 학생이 “아버지가 사주셨다”고 하자, 해원은 “아버지가 스톤 아일랜드에서 일하시냐? 아니면 의사냐?”고 물었다. 이 학생이 “아니”라고 하자, 해원은 현대아파트에 거주한다고 했던 학생에게도 재차 “아버지가 의사냐?”고 물었다. &lt;br&gt;&lt;br&gt;그가 “맞다”고 대답하자, 제작진은 앞서 좋아하는 친구가 있다고 밝힌 이 학생에게 “그러면 그냥 고백해도 된다”며 거들었다. 이 장면에는 ‘알파 메일(Alpha Male) 조기 확정’이라는 자막이 추가됐다. 알파 메일은 무리 가운데 가장 높은 계급과 서열을 가진 개체를 뜻한다.&lt;br&gt;&lt;br&gt;이 장면을 두고 온라인 커뮤니티 등에선 제작진의 질문과 대화 내용이 부적절하다는 의견이 나왔다. 부촌에 거주하는 학생들에게 부모 직업을 구체적으로 물어보고 이를 찬양하는 듯한 발언이 부자 선망을 심화시키고 계급화를 부추긴다는 지적이다.&lt;br&gt;&lt;br&gt;네티즌들은 “어른들이 생각 없이 던진 말들이 요즘 학생들 사이의 ‘빌거’(빌라에 사는 거지) ‘엘사’(LH가 지은 임대아파트에 사는 사람) 같은 말을 만드는 것이고, 무의식중에 우월감을 심어주는 것 아니겠나” “압구정 현대아파트에 사는 의사 아들에게 고백받으면 여자는 다 받아줘야 하나” “어린아이들을 상대로 호구 조사는 왜 하는 것이냐 예의 없다” 등의 반응을 보였다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>3월 폭설, 출근길이 두려웠다... 경전철 멈추고 곳곳서 사고</title>
-      <link>https://www.chosun.com/national/transport-environment/2025/03/18/73LQ3XO46ZA5PCAZJ6Y2KE7ZIE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/03/18/73LQ3XO46ZA5PCAZJ6Y2KE7ZIE/</guid>
-      <dc:creator>박상현 기자, 박진성 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 18 Mar 2025 11:46:44 +0000</pubDate>
-      <content:encoded>때아닌 ‘3월 폭설’로 18일 전국이 한겨울 같은 하루를 보냈다. &lt;br&gt;&lt;br&gt;기상청에 따르면, 북극 찬 바람과 눈구름대를 동반한 저기압이 서해상을 통해 우리나라로 본격 유입되면서 18일 새벽부터 눈보라가 몰아쳤다. 15년 만에 가장 늦은 대설특보가 발효된 서울에는 이날 오전 5시 최고 11.9㎝의 눈이 쌓였다. 경기 이천 13.9㎝, 의정부 13.8㎝, 포천 13.5㎝, 가평 12.9㎝ 등 수도권을 중심으로 출근길에 10㎝ 넘는 눈이 쌓였다. 저기압이 한반도 서쪽에서 동쪽으로 빠르게 이동하면서 눈은 이날 오후 수도권부터 차차 그쳤다. &lt;br&gt;&lt;br&gt;동풍의 영향으로 이미 많은 눈이 쌓여 있던 강원도도 적설량이 많았다. 이날 향로봉(고성) 60.6㎝, 양구 29.5㎝, 화천 14.3㎝ 등이 새로 내려 쌓였고 일부 지역은 늦게까지 눈이 이어졌다. 호남권 무주(25.1㎝)·장수(16.9㎝)와 충청권 당진(11.5㎝)·충주(11㎝), 영남권 울릉(36.5㎝)·문경(11.5㎝)·함양(9.6㎝) 등에도 많은 눈이 내렸다. 제주도는 산지를 중심으로 10㎝ 안팎이 왔다.&lt;br&gt;&lt;br&gt;곳곳에서 눈으로 인한 사고가 속출했다. 이날 오전 5시 15분부터 2시간가량 의정부경전철 전 구간의 운행이 중단돼 출근길 시민들이 불편을 겪었다. 의정부경전철 관계자는 “폭설로 선로 신호기가 눈에 덮여 운행이 중단됐다”고 했다. 김포·제주 등에서 출발하는 항공기 8편이 결항했다. 전북 군산~어청도, 전남 목포~홍도 등 전국 69항로에서 여객선 90척이 운항을 멈췄다. 이날 오전 1시쯤에는 경기 안산시 상록구의 한 도로에서 승용차 1대가 중앙분리대를 들이받고 전복돼 우즈베키스탄인 운전자가 사망했다. 경찰은 사고 차량이 눈길에 미끄러진 것으로 보고 있다.&lt;br&gt;&lt;br&gt;오전 10시 40분쯤 전남 보성군 남해고속도로 초암산터널 인근에선 차량 41대가 잇따라 추돌하는 사고가 발생해 운전자 등 11명이 다쳤다. 이날 오후 강원도 삼척 해발 800m 고지대에 있는 강원대 도계캠퍼스에선 폭설로 차량 운행이 중단되며 학생과 교직원 300여 명이 고립되기도 했다.&lt;br&gt;&lt;br&gt;한편 19일에도 한파가 이어지겠다. 19일 전국의 아침 최저기온은 영하 6도에서 영상 2도, 낮 최고기온은 6~10도로 예보됐다. &lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/N2AYCCLYA5JRZOWBJEOWJLLKPA.jpg?width=5835&amp;height=3891&amp;auth=9152c6bc6d8045cdb687cdc97e058c7f7348577d668b9524ca9eb1251fe0db4d&amp;smart=true" type="image/jpeg" height="3891" width="5835">
-        <media:description type="plain">&lt;YONHAP PHOTO-1157&gt; 폭설로 운행 중단된 의정부경전철
-    (의정부=연합뉴스) 임병식 기자 = 폭설이 내린 18일 오전 경기도 의정부시 경기도북부청사역에 운행 중단 안내문이 내걸리며 출입이 통제되어 있다. 2025.3.18
-    andphotodo@yna.co.kr/2025-03-18 07:23:19/
-&lt;저작권자 ⓒ 1980-2025 ㈜연합뉴스. 무단 전재 재배포 금지, AI 학습 및 활용 금지&gt;</media:description>
-        <media:credit role="author" scheme="urn:ebu">임병식</media:credit>
-      </media:content>
-    </item>
-    <item>
-      <title>與김상욱 “계몽령? 왕정도 아니고... 보수가 가장 분개해야 정상”</title>
-      <link>https://www.chosun.com/national/national_general/2025/03/18/YHBDLRP2YNERJE2EIZ5DVM5X4Q/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/03/18/YHBDLRP2YNERJE2EIZ5DVM5X4Q/</guid>
-      <dc:creator>김혜민 기자, 강지은 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 18 Mar 2025 12:35:25 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MQQNZOIXOVOOREL2E3MOV7S3YU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;국민의힘 김상욱 의원이 지난해 12월 10일 서울 여의도 국회 소통관에서 대통령의 사죄와 즉시 하야 등을 촉구하는 기자회견을 하고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;18일 김상욱 국민의힘 의원이 12·3 비상계엄 사태를 두고 “‘계몽’이라는 말을 들었을 때 (민주주의가 아닌) 왕정주의라는 생각이 들었다”며 “누가 누굴 가르치느냐”고 했다. 이어 “12월 3일 대통령이 한 이상한 짓에 가장 분개해야 하는 건 보수주의자다. 그런데 진영 논리에 갇힌 보수주의자들은 같은 보수주의자인 나에게 ‘빨갱이’라고 한다”고 했다.&lt;br&gt;&lt;br&gt;이날 오후 김 의원은 서울대 관악캠퍼스에서 열린 정치외교학부 학생자치회 주관의 강연에 연사로 나섰다. 그는 “비상계엄 해제 후 열린 의원총회에서 수많은 의원님이 나눈 이야기에 나라와 국민에 대한 걱정은 없고 선거에만 신경 쓰는 것이 충격이었다”며 국민의힘을 비롯한 ‘보수주의자’들이 비상계엄에 보인 반응에 대한 비판을 이어갔다. 윤석열 대통령을 지지하는 의원들을 향해서는 “지금은 윤 대통령을 순교자로 만들어서 종교를 만들 수도 있을 것 같다”며 “대통령을 중심으로 강성 지지층이 모여 있고, 이 사람들을 끌어당기면 당권을 잡을 수 있다는 계산이 앞서는 것”이라고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IAN5WUNZ7ZDUVGNKALROSYM3EM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;18일 오후 서울대 관악캠퍼스에서 김상욱 국민의힘 의원이 강연을 하고 있는 모습./김혜민 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김 의원은 줄곧 비상계엄 사태에 비판적인 입장을 고수해왔다. 지난해 12월 4일 본회의 비상계엄 해제 요구안 표결에 참여한 국민의힘 의원 18명 중 한 명이고, 같은 달 14일에는 대통령 탄핵소추안 표결 때 찬성표를 던졌다고 공개했다. 국민의힘에선 ‘부결’ 또는 ‘불참’ 당론을 정했는데 김 의원이 따르지 않자 국민의힘 권성동 원내대표가 김 의원에게 탈당을 권유하기도 했다.&lt;br&gt;&lt;br&gt;당론에 반하는 행보에 대한 소감을 밝히기도 했다. 김 의원은 “현재 철저히 고립되고 공격받고 있다”며 “계란으로 바위치기 하고 있는 듯하다”고 했다. 그러면서도 “울산의 황태자였던 내가 지금 패가망신할 수도 있는 처지에 있지만, 매우 행복하다”며 “비겁하게 살 수는 없지 않나. 국회의원으로 있는 동안 부여된 사명과 책임을 다하겠다”고 했다.&lt;br&gt;&lt;br&gt;또 현재의 극단적 정치 진영에 대해서는 거짓 선동을 강력히 제재해야 함을, 고착화된 정당 구조 탈피를 위해서는 소선거구제를 폐지하고 중선거구제를 도입할 것을 주장했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>광주 북구청장의 ‘尹파면’ 불법 현수막 정치... 과태료 ‘셀프 부과’ 후 납부</title>
-      <link>https://www.chosun.com/national/national_general/2025/03/18/CLJBGCZ2HFCY5ITQUDPKG3HJU4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/03/18/CLJBGCZ2HFCY5ITQUDPKG3HJU4/</guid>
-      <dc:creator>광주광역시=진창일 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 18 Mar 2025 11:43:27 +0000</pubDate>
-      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MQBV7JPCFBPFRPSFBJHTB72OII.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;지난 10일 오후 광주 북구청사 건물 외벽에 문인 청장이 내건 '헌정유린 국헌문란 윤석열을 파면하라'는 대형 현수막. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;광주광역시에서 현직 구청장이 구청 외벽에 ‘윤석열 대통령을 파면하라’는 내용의 불법 현수막을 내걸어 과태료를 무는 일이 발생했다. 자신의 불법행위에 대해 자기 명의로 과태료를 부과하고 납부까지 했다.&lt;br&gt;&lt;br&gt;18일 광주 북구에 따르면, 문인 북구청장은 이날 북구에 옥외광고물법 위반 과태료 64만원을 납부했다.&lt;br&gt;&lt;br&gt;문 구청장은 앞서 지난 10일 북구청 외벽에 가로 2m, 세로 10m 크기 대형 현수막을 내걸었다. 사비 45만원을 들여 제작했다고 한다. 현수막에는 ‘헌정 유린 국헌 문란 윤석열을 파면하라’고 썼다. ‘문인 광주광역시 북구청장’이라는 이름도 붙였다. 문 구청장은 2022년 지방선거에서 더불어민주당 소속으로 출마해 당선됐다. 재선 구청장이다.&lt;br&gt;&lt;br&gt;국민의힘 광주시당은 곧바로 “현직 구청장이 정치적 중립을 지켜야 할 공공기관에 불법 현수막을 내걸었다”며 민원을 제기했다. &lt;br&gt;&lt;br&gt;이에 북구 광고물관리팀은 지난 12일 문 구청장에게 ‘17일까지 자진 철거하지 않으면 과태료 80만원을 부과하겠다’는 공문을 보냈고, 문 구청장이 현수막을 내리지 않자 과태료 80만원을 부과했다. 공문에는 문 구청장 명의 직인이 찍혀 있었다. 문 구청장은 이날 과태료를 20% 감경받아 64만원을 납부했다. 과태료를 빨리 납부하면 20%를 깎아준다.&lt;br&gt;&lt;br&gt;북구 관계자는 “현행 옥외광고물법상 공공 청사에는 공공 목적 광고물만 게시할 수 있는데 문 구청장이 정치적인 내용의 불법 현수막을 내걸었다”고 했다. 문 구청장은 “윤 대통령에 대한 탄핵이 인용될 때까지 현수막을 계속 걸겠다”며 “직원들에게도 구청장이라고 부담스러워하지 말고 법대로 집행하라고 했다”고 말했다. 광주시 북구 조례에 따르면, 불법 현수막을 걸 경우 최다 3번까지 과태료를 부과할 수 있다. 그러나 이후 강제로 철거할 수 있다는 규정은 없다. 북구 관계자는 “추가로 법적 검토가 필요하다”고 했다. 지역에선 “문 구청장이 내년 지방선거를 앞두고 이름을 알리기 위해 정치 행보를 하고 있다”는 비판이 나온다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/MQBV7JPCFBPFRPSFBJHTB72OII.JPG?width=5406&amp;height=3510&amp;auth=ad12d2494b71334fa4a0acf2c77e70ceee1af961cd915fa74cb6d4d1899a9fbd&amp;smart=true" type="image/jpeg" height="3510" width="5406">
-        <media:description type="plain">지난 10일 오후 광주 북구청사 건물 외벽에 문인 청장이 내건 '헌정유린 국헌문란 윤석열을 파면하라'는 대형 현수막이 걸려 있다. /뉴스1</media:description>
-        <media:credit role="author" scheme="urn:ebu">(광주=뉴스1) 박지현 기자</media:credit>
-      </media:content>
-    </item>
-    <item>
-      <title>검찰, ‘尹 체포 방해’ 김성훈 경호차장 구속영장 청구</title>
-      <link>https://www.chosun.com/national/national_general/2025/03/18/YFV5M5ZJ2JCFFEE3IQFWUXAJTQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/03/18/YFV5M5ZJ2JCFFEE3IQFWUXAJTQ/</guid>
-      <dc:creator>구아모 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 18 Mar 2025 09:25:11 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PEWGTWD6BBL5ZKE3ASVLX43QLY.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;법원의 구속취소 청구 인용으로 석방된 윤석열 대통령이 8일 오후 경기 의왕시 서울구치소에서 풀려난 가운데 지지자들에게 인사하는 윤 대통령의 곁에서 김성훈 경호차장이 밀착 경호를 하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰이 윤석열 대통령 체포 방해 혐의를 받는 김성훈 대통령 경호처 차장과 이광우 경호본부장에 대한 구속영장을 청구했다.&lt;br&gt;&lt;br&gt;18일 경찰청 국가수사본부는 서울서부지검이 전날 경찰이 신청한 김 차장과 이 본부장에 대한 구속영장을 서부지법에 청구했다고 밝혔다. 서울고검 영장심의위원회가 두 사람에 대한 구속영장 청구가 타당하다는 결론을 내린 지 12일 만이다.&lt;br&gt;&lt;br&gt;김 차장과 이 본부장은 경찰과 고위공직자범죄수사처의 윤 대통령 1차 체포 작전을 방해한 혐의(특수공무집행방해) 등을 받는다. 체포 저지 지시를 따르지 않은 경호처 간부를 부당하게 인사 조치한 혐의 등도 있다.&lt;br&gt;&lt;br&gt;검찰은 김 차장에 대한 경찰의 구속영장 신청을 앞서 3차례 기각했다. 경찰은 이에 서울고검영장심의위원회에 구속영장 심의 신청을 했고, 영장심의위는 지난 6일 영장 청구가 타당하다고 판단했다.&lt;br&gt;&lt;br&gt;앞서 특수단 관계자는 17일 오전 정례 기자 간담회에서 김 차장과 이 본부장에 대한 구속영장 재신청 방침을 밝히면서 “여러 차례 구속영장이 기각됐기 때문에 필요하다 싶은 보강 수사도 진행했고 서류도 정교하게 정리했다. 고위공직자범죄수사처와 필요한 협의도 다 했다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>검찰, 말다툼 하던 이웃 살해한 60대 징역 15년 구형</title>
-      <link>https://www.chosun.com/national/court_law/2025/03/18/HLI4KDEF7VBODKEVFIPMAJLBKE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/03/18/HLI4KDEF7VBODKEVFIPMAJLBKE/</guid>
-      <dc:creator>춘천=정성원 기자</dc:creator>
-      <description>말다툼을 하던 중 격분해 이웃을 살해한 60대 남성에게 검찰이 중형을 구형했다.
-18일 춘천지법 형사2부 심리로 열린 결심공판에서 검찰은 살인 혐의로 기소된 A(63)씨에게 징역 15년을 구형했다.
-</description>
-      <pubDate>Tue, 18 Mar 2025 09:46:16 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2NTS2EIZOHRCEDNDOYPWOU5M7A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;춘천지법 전경./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;말다툼을 하던 중 격분해 이웃을 살해한 60대 남성에게 검찰이 중형을 구형했다.&lt;br&gt;&lt;br&gt;18일 춘천지법 형사2부 심리로 열린 결심공판에서 검찰은 살인 혐의로 기소된 A(63)씨에게 징역 15년을 구형했다.&lt;br&gt;&lt;br&gt;A씨는 지난해 12월 3일 오전 강원 양구군 해안면 현리 한 주택에서 이웃 40대 B씨를 둔기로 때려 숨지게 한 혐의를 받고 있다. A씨는 B씨와 말다툼을 벌이던 중 격분해 이 같은 범행을 저질렀으며, 범행 직후 112에 신고해 자수했다.&lt;br&gt;&lt;br&gt;A씨는 재판 과정에서 피해자 유족과 합의하며 피해자 유족 측에서 처벌불원서를 재판부에 제출하기도 했지만 검찰은 범행 경위와 중대한 피해가 발생한 점을 고려, A씨에게 중형을 내려달라고 재판부에 요청했다.&lt;br&gt;&lt;br&gt;A씨의 선고 공판은 다음 달 10일 춘천지법에서 열린다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘26억 사기 피해’ 이민우, 구안와사 고백… “스트레스 때문, 완치 힘들어” </title>
-      <link>https://www.chosun.com/national/national_general/2025/03/18/LJ2BTWYJB5FHFO3KLTBFEGPZPA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/03/18/LJ2BTWYJB5FHFO3KLTBFEGPZPA/</guid>
-      <dc:creator>박선민 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 18 Mar 2025 06:43:26 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AYCLRENWXCRTQAYHA2AO2VYXCE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;신화 이민우. 2024.7.3/뉴스1 ⓒ News1 권현진 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그룹 신화 멤버 이민우가 안면신경마비로 투병 중이라고 밝혔다. &lt;br&gt;&lt;br&gt;이민우는 17일 자신의 인스타그램을 통해 얼굴 한쪽에 침 여러 개를 맞는 모습의 사진을 올린 뒤 “스트레스로 인해 신경이 망가져 버렸다”고 했다. &lt;br&gt;&lt;br&gt;이민우는 “안면마비, 구안와사는 초기 증상 72시간 이내 골든타임에 치료해야 완치할 수 있다”며 “저처럼 몇 년간 방치하면 완치는 힘들다”고 했다. 그러면서도 “그래도 꾸준히 치료를 받으면 좀 나아질 수 있다더라”고 했다. &lt;br&gt;&lt;br&gt;구안와사(안면신경마비)는 얼굴의 근육을 움직이는 안면 신경의 기능에 문제가 생겨 얼굴에 마비가 발생하는 것으로, 한쪽 얼굴 근육의 움직임 정도가 감소해 얼굴을 움직일 때 양쪽이 서로 비대칭이 된다. 발생 원인은 여러 가지가 있지만, 임상적으로 보면 대개 몸이 피로하거나, 스트레스를 받거나, 신경을 쓴 후, 또는 찬바람을 쐰 후 발생하는 경우가 많다. &lt;br&gt;&lt;br&gt;앞서 이민우는 방송작가인 지인 A씨로부터 26억원 규모의 사기 피해를 당한 것으로 알려졌다. 그는 한 예능 프로그램에서 직접 이 같은 사실을 고백하며 “금전적인 것보다 정신적인 고통이 너무 컸다”고 했다. 그러면서 “사람이 계속 세뇌를 당하면 자기 자아가 없어진다. 죽으라면 죽어야 하고 울라면 울어야 한다”고 당시 겪었던 정신적 트라우마를 털어놨다. &lt;br&gt;&lt;br&gt;사기 사건은 재판으로도 넘겨졌고, A씨는 1심에 이어 2심에서 징역 9년을 선고받았다. A씨는 이민우가 2019년 6월 성추행 혐의로 입건되자, “검찰 내부에 인맥이 있으니 무혐의를 받게 해주겠다” “고위직 검사에게 줄 돈이 필요하다” 등 말로 16억원을 편취한 것으로 조사됐다. 같은 해 12월 이민우가 무혐의 처분을 받자 A씨는 “검사들이 무혐의 처분을 번복하려 한다”면서 돈을 더 요구했고, 그렇게 피해 금액은 26억원으로 불어난 것으로 파악됐다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Q66OVDP6MUHK4MONISEJWP3UR4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이민우. /인스타그램 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이민우 측은 정신적으로 힘든 상황에서 ‘가스라이팅’을 당해 전 재산을 넘겼다고 주장했고, 재판부는 이 같은 주장을 받아들였다. 항소심 재판부는 “피고인은 이씨를 심리적으로 지배하고 위축시킨 사실이 있다”며 “이씨는 지속적으로 비하를 당하면서도 피고인에게 끊임없이 사죄하고 도움을 요청하는 등 정서적으로 의존했다”고 했다. 아울러 “이씨는 평생 모아온 재산을 잃고 경제적·정신적으로 극심한 고통을 호소하며 엄벌을 탄원하고 있다”며 “하지만 피고인은 재판 과정에서 납득하기 어려운 변명으로 혐의를 전면 부인하는 등 정황이 좋지 않고, 피해 회복을 위해 어떤 노력도 하지 않았다”고 했다. &lt;br&gt;&lt;br&gt;작년 12월 대법원 재판까지 이뤄졌지만, 피해 금액 일부가 중복으로 계산돼 다시 산정해야 한다는 취지로 기존 판결이 파기 환송되면서 최종 판결이 미뤄졌다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘마약 투약’ 돈스파이크, 만기 출소 후 용산서 전해진 근황</title>
-      <link>https://www.chosun.com/national/people/2025/03/18/6MD7NZ75KJCQ7EXACGOMAWCTWI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/03/18/6MD7NZ75KJCQ7EXACGOMAWCTWI/</guid>
-      <dc:creator>정아임 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 18 Mar 2025 01:35:24 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/K6X4EZQ6SFDZPHTO6IYOCMXGIY.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;작곡가 돈스파이크/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;마약 투약 혐의로 실형을 선고받은 작곡가 돈스파이크(48·김민수)가 최근 출소 후 레스토랑 운영에 집중하고 있다는 근황이 전해졌다. &lt;br&gt;&lt;br&gt;18일 연예매체 스타뉴스와 연예계에 따르면 돈스파이크는 이달 초 징역 2년의 형기를 마치고 출소했다. &lt;br&gt;&lt;br&gt;이후 그는 자숙의 시간을 보내며 서울 용산에 있는 한 레스토랑 경영에 집중하고 있는 것으로 알려졌다. 이곳은 돈스파이크가 마약 스캔들이 터지기 전인 2019년 개업한 양식 전문 레스토랑으로 알려졌다. &lt;br&gt;&lt;br&gt;앞서 돈스파이크는 2022년 9월 서울 강남구 역삼동의 한 호텔에서 필로폰 소지 및 투약한 혐의로 체포됐다.&lt;br&gt;&lt;br&gt;그는 2021년 12월부터 9차례에 걸쳐 4500만원 상당의 필로폰을 사들이고 14차례 투약한 혐의를 받았다. 또한 7회에 걸쳐 다른 사람에게 필로폰과 엑스터시를 건네고 20ｇ 상당의 필로폰을 소지한 혐의도 받았다. 이는 약 667회분에 달하는 양인 것으로 알려졌다. 그는 대법원에서 징역 2년을 선고받았다.&lt;br&gt;&lt;br&gt;이 과정에서 돈스파이크는 2010년에도 대마초 흡연 혐의로 벌금 5000만원, 같은 해 별건의 마약 혐의로 징역 1년에 집행유예 2년을 선고받은 사실이 드러나기도 했다. &lt;br&gt;&lt;br&gt;돈스파이크는 1996년 포지션 객원 멤버로 데뷔했다. 이후 MBC ‘나는 가수다’ 프로듀서로서 이름을 알렸다. 이후 먹방 캐릭터로 예능에서도 활발히 활약했다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
