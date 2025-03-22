@@ -13,6 +13,24 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>尹 대통령, 24일 형사재판 공판준비기일 불출석</title>
+      <link>https://www.chosun.com/national/court_law/2025/03/22/ZACVQLD6EZBSLPTVJP3HUBEGGI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/03/22/ZACVQLD6EZBSLPTVJP3HUBEGGI/</guid>
+      <dc:creator>김희래 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 22 Mar 2025 03:48:18 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/C7GMYOAMEZLMFNK7ERXDPCKDNE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령 변호를 맡고 있는 윤갑근 변호사가 지난 13일 서울 서초구 서울고검 앞에서 기자들의 질문에 답하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘내란 우두머리’ 혐의로 재판에 넘겨진 윤석열 대통령이 오는 24일 열리는 두 번째 공판준비기일에 출석하지 않기로 했다.&lt;br&gt;&lt;br&gt;22일 윤 대통령 측 변호인단에 따르면 윤 대통령은 24일 서울중앙지법 형사합의25부(재판장 지귀연)가 진행하는 내란 우두머리(수괴) 혐의 재판의 2차 공판준비기일에 출석하지 않는다.&lt;br&gt;&lt;br&gt;2차 공판준비기일에선 윤 대통령 측이 공소사실에 대한 입장을 밝히고 재판 쟁점 정리와 증거, 증인 채택 등이 진행될 전망이다. 윤 대통령 측은 “관련 절차에서는 변호인들이 출석해 공소사실 및 절차, 증거 등에 대해 의견을 진술하고 진행할 예정”이라고 했다.&lt;br&gt;&lt;br&gt;공판준비기일은 정식 공판에 앞서 향후 심리 계획 등을 정리하는 절차로 피고인의 법정 출석 의무는 없다. 다만 윤 대통령은 지난달 20일 열린 1차 공판준비기일엔 직접 출석했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘부동산 1타 강사’ 사망 관련, 강사 아내에 살인 혐의로 구속 영장 재신청</title>
+      <link>https://www.chosun.com/national/incident/2025/03/22/VGHAEAEOKZAZHJ2HIM5X7PCMLU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/03/22/VGHAEAEOKZAZHJ2HIM5X7PCMLU/</guid>
+      <dc:creator>이승규 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 22 Mar 2025 03:38:50 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YVDG5NUHAGLBN2TX6RYSUV7IWM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기 평택경찰서 전경./경기남부경찰서&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;공인중개사 시험 과목인 부동산 공법 분야 ‘1타 강사’로 불린 50대 남성의 사망과 관련해 경찰이 강사의 아내에 대한 구속 영장을 재신청했다. &lt;br&gt;&lt;br&gt;경기 평택경찰서는 살인 혐의로 50대 여성 A씨에 대해 구속 영장을 신청했다고 22일 밝혔다. A씨는 부동산 공법 분야 강사 B씨의 아내로, 지난달 15일 경기 평택시 주거지에서 B씨를 살해한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;원래 경찰은 A씨가 “남편이 이혼을 요구해 말다툼을 하던 중 홧김에 술병으로 머리를 쳤다”고 주장해 상해치사 혐의로 A씨에 대한 구속영장을 신청했다. 법원은 A씨가 증거 인멸이나 도주의 우려가 없다며 이를 기각했다. A씨가 범행 직후 스스로 경찰에 신고한 점도 이 같은 법원 판단에 영향을 준 것으로 알려졌다.&lt;br&gt;&lt;br&gt;그러나 보강 수사 과정에서 B씨 신체 주변에만 혈흔이 집중적으로 발견된 점 등을 토대로 경찰은 A씨에 대해 적용한 혐의를 상해치사에서 살인으로 변경했다. A씨가 누워있던 B씨를 일방적으로 공격했다고 판단한 것이다. 경찰 관계자는 “B씨가 선 채로 A씨와 다퉜다면 혈흔이 주변으로 흩날렸을 텐데 그렇지 않았다”고 했다.&lt;br&gt;&lt;br&gt;A씨의 두 번째 영장실질심사(구속 전 피의자 심문)는 오는 24일 수원지법 평택지원에서 열릴 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>헌재, 韓 총리 탄핵심판 선고 임박... 4가지 관전 포인트</title>
       <link>https://www.chosun.com/national/court_law/2025/03/22/W32WLKZJTNED3JUNN7ICEFPWQY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/03/22/W32WLKZJTNED3JUNN7ICEFPWQY/</guid>
@@ -863,15 +881,6 @@
       </media:content>
     </item>
     <item>
-      <title>법조계 다수 “한덕수 대부분 탄핵 사유 안돼… 기각될 것”</title>
-      <link>https://www.chosun.com/national/court_law/2025/03/21/LNRDINPWZZFVHIS6FT4UKD5CR4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/03/21/LNRDINPWZZFVHIS6FT4UKD5CR4/</guid>
-      <dc:creator>김은경 기자, 김나영 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 20 Mar 2025 16:02:49 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/L7KJY5ZAFFDVZG3K6W35P7UVK4.png"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한덕수 국무총리 탄핵소추 사유는 윤석열 대통령의 ‘내란 행위’에 대한 공모·묵인·방조, 국회가 추천한 헌법재판관 후보자 3명의 임명 거부, 내란 상설 특검 임명 회피, 김건희 특검법 거부, 한동훈 전 국민의힘 대표와의 ‘공동 국정 운영’ 시도 등 다섯 가지다. 헌재가 어떤 결론을 내릴지 다양한 전망이 나오지만, 법조계에서는 “쟁점이 대부분 유의미하지 않거나 파면에 이를 만큼 중대하지 않다”는 의견이 우세한 상황이다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇“의결 정족수 들어 각하 가능성” &lt;/b&gt;&lt;br&gt;&lt;br&gt;헌재는 우선 한 총리 탄핵 절차에 문제가 없었는지부터 판단한다. 대통령 권한대행을 맡고 있던 한 총리의 탄핵안을 의결할 때 우원식 국회의장이 의결 정족수를 대통령 기준(200석)이 아닌 국무위원 기준(151석)으로 결정한 것이 맞느냐는 것이다. 만약 200석을 채우지 못했으므로 탄핵소추가 잘못됐다고 판단하면 헌재는 각하 결정을 내린다. 이 경우, 한 총리가 탄핵소추된 다섯 가지 사유에 대한 판단도 따로 하지 않는다. 한 총리가 윤 대통령의 비상계엄을 공모, 묵인, 방조했는지 등도 판단하지 않는 것이다. 헌재연구관 출신 한 변호사는 “헌재 입장에서는 의결 정족수 문제로 각하하는 게 기술적으로 가장 부담 없는 선택이 될 것”이라며 “국정 안정을 위해 한 총리를 복귀시키는 것과 동시에 윤 대통령 탄핵 심판 선고에 대한 시간도 벌 수 있지 않겠느냐”고 했다. &lt;br&gt;&lt;br&gt;&lt;b&gt;◇“대부분 탄핵 사유 안 돼… 기각될 것”&lt;/b&gt;&lt;br&gt;&lt;br&gt;헌재는 지난달 19일 한 총리 탄핵 심판에서 변론 기일을 한 번 열어 약 90분 만에 종결했다. 따져봐야 할 쟁점이 많지도, 복잡하지도 않다는 뜻으로 해석됐다. 당시 한 총리는 국회 측의 탄핵소추 사유를 조목조목 반박하며 “대통령이 다시 생각하도록 최선을 다해 설득했고, 군 동원에도 관여한 사실이 전혀 없다”고 주장했다. 검찰은 김용현 전 국방부 장관의 공소장에 김 전 장관이 한 총리를 건너뛰고 바로 윤 대통령에게 계엄 선포를 건의했다고 적었다. 법조계에선 “국회 측의 탄핵 사유가 무리한 것이 많고, 일부 법 위반 사항이 있다고 하더라도 한 총리를 파면할 정도로 중대하지 않다”는 게 중론이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RN2QZ7VTIFFGNLETRQZPXNP3XE.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=박상훈&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;차진아 고려대 법학전문대학원 교수는 “한 총리의 탄핵 심판은 오로지 야당의 정치적 공세로 이뤄진 사건이기 때문에 심판 결과가 한 달 만에 나온다고 해도 이상하지 않다”며 “당연히 기각 결정이 나올 것”이라고 했다. 이인호 중앙대 법학전문대학원 교수도 “내란 상설 특검 임명 회피, 여당 대표와의 ‘공동 국정 운영’ 시도 등이 탄핵해야 하는 이유라는 게 말이 되느냐”며 “애초부터 탄핵 사유가 성립되지 않는 사건”이라고 말했다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇“재판관 임명 거부로 ‘인용’될 수도”&lt;/b&gt;&lt;br&gt;&lt;br&gt;일부에선 한 총리 탄핵안이 인용될 가능성도 거론된다. 한 총리가 국회가 추천한 헌법재판관 후보자 3명(마은혁·정계선·조한창)에 대한 임명을 거부했다는 사유가 문제 될 수 있다는 것이다. 이 가운데 헌법재판관 임명 거부는 앞서 헌재가 최상목 대통령 권한대행의 마은혁 후보자 임명 보류에 대한 권한쟁의 사건에서 “국회의 선출권을 침해했다”고 결론 낸 바 있다. 마 후보자를 임명하지 않는 행위가 위법이라고 이미 결정한 만큼 한 총리에 대해서도 이를 문제 삼아 탄핵할 수 있다는 것이다. 부장판사 출신 변호사는 “한 총리가 국무회의에 참석하는 등 윤 대통령의 계엄에 동조했다는 부분에 대해서는 파면에 이를 정도로 심각한 것은 아니라고 판단할 가능성이 높다”고 말했다.&lt;br&gt;&lt;br&gt;한편, 한 총리 탄핵 심판 선고에서는 윤 대통령 측이 제기한 절차적 쟁점에 관한 헌재의 판단도 일부 나올 것으로 보인다. 증거로 채택된 고위공직자범죄수사처의 수사 기록이 적법한 증거 효력이 있는지 여부, 계엄 선포를 위한 국무회의가 제대로 된 절차를 거쳤는지 등을 먼저 판단한 뒤, 한 총리의 관련 행위에 대한 위법성 여부를 판단해야 하기 때문이다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[단독] 1호 공공 산분장지 이르면 올해말 조성</title>
       <link>https://www.chosun.com/national/welfare-medical/2025/03/21/L2BPP4X2RRHKFHF7A46RJDEQHA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/03/21/L2BPP4X2RRHKFHF7A46RJDEQHA/</guid>
@@ -958,15 +967,6 @@
         <media:description type="plain">더불어민주당 이재명 대표와 박찬대 원내대표 등이 20일 오후 서울 여의도 국회에서 열린 제423회국회(임시회) 제2차 본회의에서 대화하고 있다./뉴스1</media:description>
         <media:credit role="author" scheme="urn:ebu">(서울=뉴스1) 김민지 기자</media:credit>
       </media:content>
-    </item>
-    <item>
-      <title>연대의대 교수비대위 “휴학은 정당한 권리, 불이익 줘선 안 돼”</title>
-      <link>https://www.chosun.com/national/welfare-medical/2025/03/21/7XQKUF3WXNEXVLBXWO2WQU6DF4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/03/21/7XQKUF3WXNEXVLBXWO2WQU6DF4/</guid>
-      <dc:creator>강다은 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 20 Mar 2025 15:57:24 +0000</pubDate>
-      <content:encoded>연세대 의대 교수들이 교육부의 ‘의대생 집단 휴학 불허’ 명령을 취소하라고 촉구하고 나섰다. “휴학은 존중받아야 할 결정”이라며 제자 보호에 나선 것이다. 반대로 대학 총장을 비롯해 의과대학 교수들 사이에선 학생들의 복귀를 촉구하는 목소리도 높아지고 있다. 집단 휴학 중인 의대생들의 복귀 시한이 임박한 가운데 이를 두고 교육계·의료계에서 이견이 나오며 혼란이 계속되고 있다. &lt;br&gt;&lt;br&gt;연세대 의과대학 교수비상대책위원회(비대위)는 20일 ‘교육부의 의대 집단 휴학 불가 알림에 대한 입장’을 통해 “학생들의 정당한 권리 행사인 정상적 일반 휴학을 지지하며 부당한 불이익이 발생하지 않도록 지키겠다”고 밝혔다. 학생들의 집단 휴학을 인정하지 않기로 한 전국 40개 대학 총장들을 비판하면서 학생들 편에 선 것이다. &lt;br&gt;&lt;br&gt;비대위는 “많은 학생이 자신의 정당한 권리를 무시당하고 제적이라는 상상해 본 적 없을 위협을 받고 있다”며 “정부는 부당한 휴학 불허 명령을 취소하고, 전공의와 학생을 대상으로 먼저 대화에 나서 직접 이들을 복귀시켜라”라고 했다.&lt;br&gt;&lt;br&gt;학생들의 복귀를 촉구하는 목소리도 커지고 있다. 지난 17일 서울의대 교수 4명이 의대생·전공의를 작심 비판한 데 이어 공식·비공식으로 의대생들을 향해 “이제는 돌아와야 한다”고 촉구했다. 곽재건 서울대학교병원 흉부외과 교수도 지난 18일 서울의대에서 열린 토론회에서 “복귀 여부는 개인의 신념과 선택에 달려 있지만, (복귀하려는 학생을) 겁박하지는 않았으면 좋겠다”며 “투쟁이 자유롭지 못할 경우 그 가치를 잃는다. 생명을 담보로 한 투쟁의 무게는 반드시 기억해야 한다”고 했다. &lt;br&gt;&lt;br&gt;정재훈 고려대 예방의학교실 교수는 18일 자신의 소셜미디어에 “과거에 힘들게 (수련 과정을) 겪었다고 해서 그것이 당연하거나 마땅히 반복되어야 하는 것은 아니다”면서도 “젊은 세대들도 의료계의 직업적 전문성이나 사회적 신뢰라는 측면에서도 활동을 돌아봐 주시면 감사하겠다”고 썼다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>대학 2년 다녔으면 의대 편입 가능… 전문대 졸업생·문과생도 지원할 수 있어</title>
