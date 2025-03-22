@@ -13,6 +13,33 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>중앙선 고속도로, 안동분기점 전면차단…산불 영향</title>
+      <link>https://www.chosun.com/national/2025/03/22/M3WSDDJYFRAUXA3HZEW6J5USFY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2025/03/22/M3WSDDJYFRAUXA3HZEW6J5USFY/</guid>
+      <dc:creator>김자아 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 22 Mar 2025 11:47:40 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QUE3GURENCOBRBE3U2AB2Z5TOY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;22일 경남 산청 시천면에서 산불이 발생해 도로까지 확산되고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;22일 경북 의성에서 발생한 대형 산불 영향으로 인근 고속도로 운행이 전면 차단됐다.&lt;br&gt;&lt;br&gt;한국도로공사는 이날 오후 9시 기준 산불 영향으로 부산울산선 청량IC∼장안IC 구간 양방향, 청주영덕선 서의성IC∼안동분기점 양방향, 중앙선 안동 분기점(상주방향) 3곳을 전면 차단했다.&lt;br&gt;&lt;br&gt;도로공사는 8시 40분쯤 안전 안내 문자를 전파해 주민 등에게 이런 사실을 알렸다.&lt;br&gt;&lt;br&gt;도로공사 관계자는 “산불로 연기가 퍼진 탓에 운전자 안전을 위해 주변 고속도로 일부를 통제했다”며 “산불 진화 상황을 보고 운행 재개 여부를 결정할 것”이라고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>산청군 산불 현장서 사망자 2명 추가 발견...사망 4명으로 늘어</title>
+      <link>https://www.chosun.com/national/incident/2025/03/22/UVIZCN7HWVH7PFQEQXPOR3Z6TU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/03/22/UVIZCN7HWVH7PFQEQXPOR3Z6TU/</guid>
+      <dc:creator>이승규 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 22 Mar 2025 12:13:34 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SKPMEA7Y6ISVGJ4FIECIJZ2K4A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;22일 경남 산청 시천면에서 전날 발생한 산불이 밤까지 이어지고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경남 산청군에서 발생한 산불과 관련해 사망자 2명이 추가로 발견되면서 산청군 산불 관련 사망자가 4명으로 집계됐다.&lt;br&gt;&lt;br&gt;22일 산림당국 등에 따르면 이날 산청군 시천면 산불 현장에서 사망자 2명이 추가로 발견됐다. 경찰 등은 이들의 정확한 신원과 사망 원인 등을 수사 중이다.&lt;br&gt;&lt;br&gt;앞서 산청군 산불 현장에선 창녕군 소속 공무원과 산불진화대원 등 9명이 고립됐다. 이중 산불진화대원 2명은 숨진 채 발견됐고, 또다른 산불진화대원과 공무원 2명은 실종된 상태였다. 나머지 산불진화대원 5명은 화상을 입고 병원으로 옮겨졌다.&lt;br&gt;&lt;br&gt;경찰과 소방당국은 이번에 발견된 사망자 2명이 앞서 실종 신고된 창녕군 공무원과 산불진화대원일 가능성을 염두에 두고 있다. 하지만 정확한 신원이 파악되지 않은만큼 이들이 또다른 산불 관련 사망자일 가능성도 배제하지 않고 조사를 진행 중이다.&lt;br&gt;&lt;br&gt;한편 지난 21일 오후 3시 26분쯤 발생한 산청군 산불은 30시간째 꺼지지 않고 있다. 산림당국은 야간 진화 작업을 벌이고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>경북 의성 산불 원인은 ‘성묘객 실화’...의성군 “조사 후 고발 검토”</title>
+      <link>https://www.chosun.com/national/incident/2025/03/22/UTCI7GPA6NA3DIW4HPO3CK6CVY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/03/22/UTCI7GPA6NA3DIW4HPO3CK6CVY/</guid>
+      <dc:creator>이승규 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 22 Mar 2025 10:39:29 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YUVYFEIXMNLRZAVOU5LVN6J4WY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt; 22일 경북 의성군 안평면 괴산리 야산에서 불이 나 확산한 가운데 의성읍 중리리 일대에서도 산불이 관측되고 있다. 산림 당국은 해가 지자 야간 대응 체제로 전환했다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경북 의성군에서 발생한 산불 원인이 성묘객이 실수로 불을 낸 실화에 따른 것으로 확인됐다. 의성군은 산불이 진화되는대로 해당 성묘객을 고발할 방침이다.&lt;br&gt;&lt;br&gt;22일 산림당국 등에 따르면 이날 오전 11시 24분쯤 119에 성묘객 A씨가 “묘지를 정리하던 중 실수로 불을 냈다”는 취지로 산불 신고를 했다.&lt;br&gt;&lt;br&gt;이 불이 삽시간에 퍼지면서 오후 7시 기준 산불 피해를 받거나 받을 수 있는 산불영향구역은 300ha(90만 평), 화선은 14.7km에 달한다. 진화율은 한때 50%였으나 바람 때문에 불길이 거세지면서 오후 7시 기준 4%로 줄어들었다.&lt;br&gt;&lt;br&gt;이 산불로 철파리, 업리 등 인근 마을 주민 등 484명이 요양병원과 의성체육관 등으로 대피한 상태다. 한국철도공사(코레일)는 산불이 발생하자 오후 3시 45분 중앙선 의성∼안동역 구간 열차 운행을 일시 중지했다.&lt;br&gt;&lt;br&gt;의성군 관계자는 “산불이 진화되는대로 특별사법경찰관을 통해 A씨를 조사한 뒤, 관련 법에 의거해 고발 검토할 것”이라고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>[속보] 정부, ‘산불 확산’ 울산·경상권에 재난사태 선포…중대본 가동</title>
       <link>https://www.chosun.com/national/national_general/2025/03/22/KZNMWGQPBJF2VP63QSMV5Z7D7E/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/03/22/KZNMWGQPBJF2VP63QSMV5Z7D7E/</guid>
@@ -849,33 +876,6 @@
       <description/>
       <pubDate>Fri, 21 Mar 2025 03:35:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UK5XK4RJVJKBH7L5ZYAGGI6OEU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2022년 5월 당시 강용석 무소속 경기도지사 후보 유세에서 찬조 연설을 하고 있는 정유라 씨. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘국정농단’사건 핵심 인물인 최서원(개명 전 최순실·69)씨의 딸 정유연(개명 전 정유라·29)씨가 지인의 돈 수억원을 빌려 갚지 않은 혐의로 검찰에 넘겨졌다.&lt;br&gt;&lt;br&gt;21일 경기 남양주 남부경찰서에 따르면 경찰은 지난 12일 정씨를 특정경제범죄 가중처벌법상 사기 혐의로 검찰에 송치했다.&lt;br&gt;&lt;br&gt;정씨는 2022년 9월부터∼2023년 11월까지 지인에게 총 6억9800만원을 빌리고 갚지 않은 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;피해자 측은 정씨가 모친의 변호사 선임비, 병원비 등이 필요하다는 이유로 자신에게 돈을 빌렸다고 진술한 것으로 알려졌다. 피해자 측은 이 과정에서 정씨가 국정농단 수사 당시 핵심 증거가 됐던 이른바 ‘국정농단 태블릿PC’를 담보로 삼았다고 주장한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;이 태블릿PC는 사건을 수사하던 검찰에서 보관하고 있었다. 이후 2023년 최씨 측에서 돌려달라며 국가를 상대를 소송을 내 승소한 이후 정씨가 보관하고 있었던 것으로 알려졌다.&lt;br&gt;&lt;br&gt;다만, 피해자 측에선 경찰 조사 당시 태블릿PC와 관련해 진술하지는 않았던 것으로 파악됐다. &lt;br&gt;&lt;br&gt;경찰 관계자는 “태블릿PC를 담보로 돈을 빌렸다는 피해자 측 주장 등에 대해 특별히 조사된 바는 없다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“메뉴 5개 시켰는데 영수증 50㎝”… 달라진 빽다방 영수증, 무슨 일 </title>
-      <link>https://www.chosun.com/national/national_general/2025/03/21/RHRFOAGJHBCJVA6Z3Z6QELICFU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/03/21/RHRFOAGJHBCJVA6Z3Z6QELICFU/</guid>
-      <dc:creator>박선민 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 21 Mar 2025 04:16:17 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6ZIFRQOY55BY5GGWROJWBCZ6XA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한 네티즌이 빽다방에서 메뉴 5개를 시키고 50㎝ 길이에 달하는 영수증을 받았다며 첨부한 사진. /온라인 커뮤니티&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;백종원 대표가 이끄는 더본코리아의 프랜차이즈 카페 빽다방에서 평소와 다르게 수십㎝에 달하는 길이의 영수증을 받았다는 후기 글이 온라인상에서 확산했다. 이는 매장에서 이용하는 재료의 전체 원산지를 표기하면서 벌어진 일로 파악됐는데, 일각에서 ‘과잉 표기’라는 지적이 제기되자 더본코리아 측은 개선 조치하겠다고 밝혔다. &lt;br&gt;&lt;br&gt;최근 온라인상에는 빽다방에서 메뉴를 시켰는데 지나치게 긴 길이의 영수증을 받았다는 후기 글이 잇달았다. 이들이 첨부한 사진에는 영수증 하단에 각종 재료의 원산지가 빼곡히 표기된 모습이 담겼다. 주문한 메뉴와 관련 없는 재료의 원산지도 모두 적혀 있었다.&lt;br&gt;&lt;br&gt;한 네티즌은 영수증 길이를 측정해보기도 했다. 이를 보면 메뉴를 5개밖에 시키지 않았으나 영수증 길이는 50㎝에 달했다. 네티즌들은 “영수증이 두루마리 휴지처럼 길다” “영수증이 너무 길어서 뭔가 했더니 다 원산지 표기더라” 등의 반응을 보였다. 빽다방에서 근무 중이라는 네티즌은 “영수증 종이(감열지) 자주 주문하게 생겼다”라는 글을 적었다. &lt;br&gt;&lt;br&gt;빽다방의 달라진 영수증이 최근 더본코리아에 불거진 원산지 표기 논란 때문인 것 아니냐는 의견도 나왔다. 백 대표는 자사 일부 제품의 외국산 재료 원산지를 국산인 것처럼 홍보해 원산지 표시법 위반 혐의를 받는 중이다. 국립농산물품질관리원은 더본코리아가 간장과 된장, 농림 가공품의 원산지를 거짓으로 표기했다고 보고 원산지 표시 위반 혐의로 형사 입건했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Z6VRPB7RJBEKLNUP5GFRTJZT7A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;빽다방 '긴 영수증' 후기 글들. /X·스레드&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이에 온라인상에서는 “원산지 표시 논란에 ‘빠짐없이 다 적어’ 이런 지침이라도 내려진 건가” “시킨 제품 원산지만 영수증에 나오면 되는 것 아니냐” 등 과잉 표기라고 지적하는 반응도 일부 나왔다. &lt;br&gt;&lt;br&gt;농수산물의 원산지 표시 등에 관한 법률에 따르면, 고객이 매장에서 취식할 경우 원산지 표시는 매장 내부에만 하면 된다. 다만 배달 주문 시에는 영수증이나 제품에 부착된 스티커 등을 통해 원산지를 표시해야 한다. 고객이 주문한 메뉴에 대한 원산지 정보만 제공하는 게 일반적이지만, 최근 빽다방은 전체 메뉴에 대한 원산지를 영수증에 표기한 것이다. &lt;br&gt;&lt;br&gt;더본코리아는 21일 “이번 일은 고객이 배달 주문 시 비조리 냉동 완제품을 요청하는 경우가 있어 배달 전표상 원산지 표기를 추가하다 보니 발생했다”고 밝혔다. 원래는 배달 플랫폼에 원산지 표기를 해왔는데, 배달 전표에 원산지를 추가하다 보니 영수증에 전체 원산지가 출력됐다는 설명이다. &lt;br&gt;&lt;br&gt;과잉 표기 논란에 대해 더본코리아는 “베이커리 등 비조리 냉동 완제품 배달 주문 고객에게만 원산지 정보가 전달될 수 있도록 빠르게 개선 조치 중”이라고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>대법 “녹음파일 증거, 원본 없다고 무조건 배제해선 안돼”</title>
-      <link>https://www.chosun.com/national/court_law/2025/03/21/6544AEOKNJGUFIGKGMN5TQOFHE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/03/21/6544AEOKNJGUFIGKGMN5TQOFHE/</guid>
-      <dc:creator>김은경 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 21 Mar 2025 03:03:12 +0000</pubDate>
-      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/J2W32RVNLKSZNVAXFSIKVEWPXA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대법원 전경 ⓒ 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;재판에 증거로 제출된 녹음파일의 원본이 없다는 이유만으로 증거 능력을 무조건 배제해서는 안 된다는 대법원 판단이 나왔다. 사본 파일의 검증 결과와 법정 진술, 수사 경위 등을 종합적으로 살펴 원본과의 동일성을 따져봐야 한다는 취지다.&lt;br&gt;&lt;br&gt;21일 법조계에 따르면 지난달 대법원 3부(주심 엄상필 대법관)는 사기 등 혐의로 기소된 A씨와 B씨에게 무죄를 선고한 원심을 깨고 사건을 의정부지방법원으로 돌려보냈다.&lt;br&gt;&lt;br&gt;A·B씨는 2018년부터 주식 투자 등 명목으로 피해자 C씨를 속여 2억7000만원을 가로챘다. B씨는 C씨에게 3000만원을 빌려줬다가 돌려받았는데도 못 받았다며 무고한 혐의도 받았다.&lt;br&gt;&lt;br&gt;재판에서는 피해자 C씨가 제출한 녹음파일을 증거로 볼 수 있는지가 쟁점이 됐다. 녹음파일에는 C씨가 피고인들에게 주식 투자를 권유 받고, 돈을 건넨 상황 등 핵심적인 내용이 담겼으나 원본이 아니었다. C씨는 휴대전화로 대화를 녹음하고 이를 컴퓨터나 외장 하드디스크 등에 옮겨놓은 뒤 휴대전화에 있는 원본은 대부분 삭제했다. 수사를 받을 때는 CD에 파일을 복사해 제출했다.&lt;br&gt;&lt;br&gt;복제·위조가 가능한 디지털 파일은 원본이 없을 경우 증거 능력을 입증하는 것이 까다로운데, 하급심 판단은 엇갈렸다. 1심 재판부는 녹음파일을 증거로 인정해 A씨에게 징역 2년 6개월, B씨에게 징역 4년을 선고했다. 녹음파일 일부와 C씨의 진술이 일치한다고 본 것이다.&lt;br&gt;&lt;br&gt;반면 2심은 무죄를 선고했다. 핵심 증거인 사본 녹음파일이 “복사 과정에서 편집되는 등 원본 내용 그대로 복사된 것이라는 점에 대한 입증이 없다”고 봤다. 2심 재판부는 또 현금이 오간 일시·장소에 피고인들이 없었다는 알리바이 일부를 인정했고, 피해자 진술에 신빙성이 부족하다는 점도 근거로 들었다.&lt;br&gt;&lt;br&gt;판결은 대법원에서 다시 뒤집혔다. C씨가 녹음파일을 인위적으로 편집·조작하지 않았다는 취지로 일관되게 진술했고, 일부 파일의 감정 결과도 이를 뒷받침한다고 인정한 것이다. 재판부는 “기록을 살펴보더라도 피해자의 의도나 특정한 기술에 따라 그 녹음이나 복사 과정에서 이 사건 녹음 파일의 내용이 편집·조작됐다고 의심할 만한 흔적은 보이지 않는다”고 밝혔다.&lt;br&gt;&lt;br&gt;대법원은 ‘사인(私人)이 복사한 사본을 증거로 제출한 경우, 원본과 사본을 직접 비교할 수 없는 때에는 녹음파일에 관여한 사람의 증언이나 진술, 녹음파일에 대한 검증·감정 결과, 수사 및 공판 심리의 경과 등 제반 사정을 종합해 사본의 원본 동일성 증명 여부를 판단할 수 있다’는 기존 판례를 인용했다.&lt;br&gt;&lt;br&gt;이어 “원심은 녹음파일의 원본이 현존하지 않는다는 이유만 들어 원본 동일성이 인정되지 않는다고 단정하고 증거능력을 부정해 그 내용을 심리하지 않았다”고 지적했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>몸싸움 중 떨어뜨린 금목걸이 어디에?...현직 경찰, 절도 혐의 입건</title>
-      <link>https://www.chosun.com/national/regional/chungcheong/2025/03/21/GALG7VZU5RGNXND53TYFKEJKCE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2025/03/21/GALG7VZU5RGNXND53TYFKEJKCE/</guid>
-      <dc:creator>신정훈 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 21 Mar 2025 02:04:51 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/N2HT6LX2QVARHFIYJ5RAAKN4O4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;충청북도경찰청 전경/충북경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;시민이 떨어뜨린 금목걸이에 손을 댄 현직 경찰관이 덜미를 잡혔다. &lt;br&gt;&lt;br&gt;충북경찰청은 시민들의 몸싸움 과정에서 떨어진 금목걸이를 챙겨 현장을 떠난 혐의(절도)로 청주 청원경찰서 모 지구대 소속 A경감을 불구속 입건했다고 21일 밝혔다.&lt;br&gt;&lt;br&gt;A경감은 이달 초 시민 간 몸싸움이 있다는 신고를 받고 출동했다가 B씨가 이 과정에서 떨어뜨린 금목걸이를 가져간 혐의를 받고 있다. &lt;br&gt;&lt;br&gt;금목걸이를 잃어버린 것을 알게 된 B씨의 신고로 인근 방범카메라를 확인한 경찰은 A경감의 절도 장면을 확인한 것으로 전해졌다. &lt;br&gt;&lt;br&gt;남성 금목걸이의 경우 보통 금 10돈 정도로 하는데, 현재 시세라면 피해 금액은 최소 500만원 이상으로 추정된다. &lt;br&gt;&lt;br&gt;경찰 관계자는 “수사 중이라 피해 금액과 자세한 사건 내용은 밝힐 수 없다”고 말했다. &lt;br&gt;&lt;br&gt;경찰은 최근 그를 직위해제하고 정확한 사건 경위를 조사하고 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>이재명 증인 불출석에 ‘김만배 대장동 재판’ 6분 만에 끝…“과태료 검토”</title>
