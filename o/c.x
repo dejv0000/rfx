@@ -13,6 +13,113 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>인천 서구 야산서 불…990㎡ 면적 산림 불에 타</title>
+      <link>https://www.chosun.com/national/national_general/2025/03/23/3VZBR6XCXVE2HDHVACAL7FSGEE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/03/23/3VZBR6XCXVE2HDHVACAL7FSGEE/</guid>
+      <dc:creator>인천=이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 23 Mar 2025 03:18:02 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AREHUKITO5MN7GW47JUMGIKRWU.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;산불 진화 출동하는 대형 진화헬기. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천 서구의 한 야산에서 불이나 약 990㎡ 면적의 산림을 태우고 꺼졌다. &lt;br&gt;&lt;br&gt;23일 산림청과 인천소방안전본부 등에 따르면 이날 오전 10시 42분쯤 인천시 서구 경서동 산 200-4 인근 야산에서 화재가 발생했다. &lt;br&gt;&lt;br&gt;이 불로 약 990㎡ 면적의 산림이 탄 것으로 파악됐다. &lt;br&gt;&lt;br&gt;소방 당국은 소방관 등 47명과 장비 17대를 투입해 진화에 나섰고, 이날 오전 11시 41분쯤 불을 껐다. &lt;br&gt;&lt;br&gt;소방 당국은 현재 정확한 피해 규모와 화재 원인 등을 조사하고 있다. &lt;br&gt;&lt;br&gt;인천 서구는 이날 오전 11시 35분쯤 “인근 주민은 입산을 자제하고 위급 상황 시 안전한 곳으로 대피 바란다”는 내용의 안전 안내문자를 발송했다. &lt;br&gt;&lt;br&gt;산림청은 지난 22일 인천지역의 산불재난 국가 위기경보를 ‘주의’에서 ‘경계’로 한 단계 상향 조정했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“건조하고 뜨거운 드라이기 들어온 듯”... 산청, 강풍에 진화 난항</title>
+      <link>https://www.chosun.com/national/regional/2025/03/23/TWZTGICKZVBGDITDKHHLNJFUVU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/03/23/TWZTGICKZVBGDITDKHHLNJFUVU/</guid>
+      <dc:creator>김주영 기자, 산청=김준호 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 23 Mar 2025 01:18:37 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KXQ7U53RUBNYZKG4LXOSBPC6LE.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;경남 산청 대형 산불이 사흘째로 접어든 23일 오전 산청군 시천면 일대에서 산불이 번지고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;사흘째로 접어든 경남 산청군 산불이 기상 악화로 헬기 투입이 지연되면서 진화 작업에 애를 먹고 있다. 건조한 날씨에 다소 강한 바람까지 예보된 상태다.&lt;br&gt;&lt;br&gt;23일 산청군에서 열린 산불 진화 브리핑에서 산림청 관계자는 “(산불 현장이) 건조하고 뜨거워 마치 드라이기 안에 들어와 있는 모습이라고 생각하면 된다”며 “내일 더 강한 바람이 예보돼 있어 오늘 최대한 큰 불을 잡는데 주력할 것”이라고 했다.&lt;br&gt;&lt;br&gt;산청군 시천면 신천리 한 야산에서는 지난 21일 오후 3시 26분쯤 불이 나 사흘째 이어지고 있다. 산림청 추산 산불 피해를 받거나 받을 수 있는 산불영향구역은 1329ha(헥타르)이고, 총 화선은 40km다. 23일 오전 9시 기준 진화율은 30%다. 날씨는 습도 50%, 바람은 초속 3.5m를 보이고 있다.&lt;br&gt;&lt;br&gt;박명균 경남도 행정부지사는 이날 브리핑에서 “일출 직후부터 헬기를 띄우려고 했으나, 산청 지역에 안개와 연기가 가득해 헬기 투입이 늦어졌다”고 말했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/J6IU33OAETSGKFP65E35S7JAVM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;박명균 경남도 행정부지사가 23일 산청군 산불 현장통합지휘본부에서 브리핑을 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;현재 공중진화대, 산불진화특수진화대, 소방, 군인 2049명이 투입돼 민가와 시설로의 산불 확산을 차단 중이다. 산림 당국은 기상이 좋아지는대로 산림청 헬기 14대, 경남도 헬기 7대, 군 헬기 7대 등 총 33대의 헬기를 동원해 진화에 나설 계획이다.&lt;br&gt;&lt;br&gt;불이 난 시천면 신천리 일대는 해발고도가 650~950m 높이로 높아 현장 진입이 어려운 점도 산불 진화를 어렵게 하고 있다. 산림청 관계자는 “불이 난 곳이 해발 약 950m이고, 불이 번져 간 곳도 650m 높이로 지리산과 이어져 있다”며 “산악지형이라 암석도 군데군데 있어 진화가 더 어려운 상황”이라고 말했다.&lt;br&gt;&lt;br&gt;이 불로 산불 진화에 나섰던 진화 대원과 공무원 등 4명이 숨지고 6명(중상 5명, 경상1명)이 부상을 입었다. 중상자들은 생명에는 지장이 없는 상태다.&lt;br&gt;&lt;br&gt;불은 주택 6채와 사찰 2곳 등 모두 15곳을 태우는 피해도 냈다. 인근 산청, 하동 마을 주민 330세대 461명은 대피령에 따라 산청 동의보감촌, 한국선비문화연구원 등 13곳으로 대피했다.&lt;br&gt;&lt;br&gt;남송희 산림청 국제산림협력관은 “3, 4월은 건조하면서 바람이 가장 많이 불어 대형 산불이 잘 발생한다”며 “산불 구역안에서 꺼진 불이 바람에 다시 살아나기 때문에 내일 바람이 더 불기 전에 가용재원을 투입해 신속히 진화할 것”이라고 말했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YBBSEEEV6JORND24ZT6PSGF4W4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;23일 오전 경남 산청군에서 발생한 대형 산불이 3일째 이어지고 있는 가운데 산림청 공중진화대가 진화작업에 투입되고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QLJO6V45LBLN7PZAWOYORBHQZQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;23일 오전 경남 산청군에서 발생한 대형 산불이 3일째 이어지고 있는 가운데 산청군 시천면 일대가 흰 연기로 뒤덮여 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt; &lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/QCARIDQTPXK67HZWC6GDRUT5AA.jpg?width=6720&amp;height=4480&amp;auth=b807461a4ccbd3ca144938cb0c1a1bd8c3b1e89f32fe879335ccc73f75d7249e&amp;smart=true" type="image/jpeg" height="4480" width="6720">
+        <media:description type="plain">경남 산청 대형 산불이 사흘째로 접어든 23일 오전 산청군 시천면 일대에서 산불이 번지고 있다. 2025.3.23/뉴스1 ⓒ News1 윤일지 기자</media:description>
+        <media:credit role="author" scheme="urn:ebu">뉴스1 ⓒ News1 윤일지 기자</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>울주 산불 ‘3단계’로 격상.. 의성 진화율 30%, 산청은 55%</title>
+      <link>https://www.chosun.com/national/regional/2025/03/23/FXLVOYMTDVBWDKS47TSWEU53BA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/03/23/FXLVOYMTDVBWDKS47TSWEU53BA/</guid>
+      <dc:creator>울산=김주영 기자, 산청=김준호 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 22 Mar 2025 23:45:57 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DTWI4IKCRZPTTMLRSVPULW7QKE.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;경남 산청 대형 산불이 사흘째로 접어든 23일 오전 산청군 시천면 일대에서 산불이 번지고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;울산 울주군에서 전날 난 산불이 이어지는 가운데 산림당국이 23일 산불 3단계를 발령했다. 또 경남 김해시 한림면에서 전날 난 산불도 대응 단계가 이날 1단계에서 2단계로 올라갔다. &lt;br&gt;&lt;br&gt;23일 산림청에 따르면 오전 7시 30분 기준 경남 산청 시천면·김해 한림면, 경북 의성 안계·안평·금성면, 울산 울주 온양읍 등 6곳에서 산불 진화 작업을 벌이고 있다.&lt;br&gt;&lt;br&gt;이 중 산불이 가장 심각한 산청 시천면과 의성 안평면, 울주 온양읍에는 대응 3단계가, 김해 한림면에는 대응 2단계가 각각 발령됐다. 대응 3단계는 예상 피해 면적 100(ha)헥타르 이상일 경우, 2단계는 50~100㏊ 미만일 경우 내려진다.&lt;br&gt;&lt;br&gt;◇산청 진화율 55%, 의성 진화율 30%&lt;br&gt;&lt;br&gt;산청 시천면 산불은 지난 21일 오후 3시 26분쯤 발생해 사흘째 이어지고 있다. 시천면 산불 진화에 나섰던 창녕군 산불진화대 인력 4명이 사망했고, 부상 6명(중상 5명, 경상 1명)이 발생하는 등 인명 피해도 발생했다. 인근 마을 주민 339명은 대피령에 따라 한국선비문화연구원 등으로 대피했다.&lt;br&gt;&lt;br&gt;산림청 추산 산불 피해를 받거나 받을 수 있는 산불영향구역은 1329ha이고, 총 화선은 40km다. 23일 오전 11시 기준 진화율은 55%다. 소방 당국은 진화 헬기 33대, 장비 217대, 인력 1351명을 투입해 진화에 나서고 있지만 강풍과 건조한 날씨 탓에 진화 작업에 애를 먹고 있다.&lt;br&gt;&lt;br&gt;의성 안평면 산불은 지난 22일 오전 11시 24분쯤 발생해 인근 지역으로 확산 중이다. 지난 22일 오전 11시 25분쯤 경북 의성군 안평면 괴산리에서 발생한 산불이 확산하면서 의성읍, 신평면 등 32개 마을 주민 392명이 실내 체육관, 마을회관 등으로 대피했다.&lt;br&gt;&lt;br&gt;산불영향구역은 550ha이며 총 화선은 22.6km다. 소방 당국은 장비 124대, 진화 요원 1356명 등을 투입해 밤새 진화 작업을 벌이고 있다. &lt;br&gt;&lt;br&gt;이날 오전 11시 기준 진화율은 30%로, 이날 오전 7시 2.8%보다 상당히 진척됐다.&lt;br&gt;&lt;br&gt;울산 울주군 온양읍 운화리 산불은 이날 오전 11시 현재 진화율 70%를 보이고 있다. &lt;br&gt;&lt;br&gt;지난 22일 낮 12시 12분쯤 발생한 불로 인근 음달경로당과 마을회관 주민 80명이 대피했다. 산불영향구역은 105ha이며 화선은 10.5km다. 산림 당국은 진화 헬기 12대, 장비 40대, 인력 1940명을 투입해 불을 진화하고 있다. &lt;br&gt;&lt;br&gt;김해 한림면 안곡리 한 야산에서는 지난 22일 오후 2시 2분쯤 불이 나 약 30ha를 태운 것으로 추산됐다.&lt;br&gt;&lt;br&gt;이 불로 인근 생림면 마을 주민 148명이 마을 회관으로 대피했다. 이날 오전 11시 기준 김해 산불은 76% 진화된 상태다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7Y3Q3LC6D5PMZHB2AVBHJNYKLM.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;경남 산청 대형 산불이 사흘째로 접어든 23일 오전 산청군 시천면에서 39사단 장병들이 산불 진화작업을 준비하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이번 산불로 고속도로 일부 구간도 차단되고 있다. &lt;br&gt;&lt;br&gt;청주영덕선 서의성IC~안동분기점(양방향), 중앙선 안동분기점(상주 방향) 고속도로 등이 전면 차단 중이다. 산불이 심각한 시천면, 안평면 등 지역도 인근 국도나 지방도로가 구간별로 차단되거나 서행 중이다.&lt;br&gt;&lt;br&gt;의성 산불로 전날 오후 7시 50분부터 운행이 중단된 중앙선 안동~경주간 열차 운행은 안전 점검을 마치고 이날 오전 6시 20분부터 정상 운행 중이다.&lt;br&gt;&lt;br&gt;정부는 이번 산불에 재난 사태를 선포하고 총력 대응 중이다. 행정안전부는 22일 오후 6시부로 울산, 경북, 경남 일원에 재난 사태를 선포했다. 고기동 행정안전부 장관 직무대행을 본부장으로 하는 중앙재난안전대책본부를 가동 중이다.&lt;br&gt;&lt;br&gt;산불로 재난 사태가 선포된 사례는 양양 산불(2005년 4월), 강원 동해안 산불(2019년 4월), 경북·강원 동해안 산불(2022년 3월) 등이 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BRNBOMVJPZPXXMW5K3F7E3SZIA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;23일 경북 의성군 의성실내체육관에 산불 이재민들이 대피해 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;재난 사태가 발령되면 재난경보 발령, 인력·장비 및 물자의 동원, 위험 구역 설정, 대피 명령 등을 내릴 수 있다. 발령 지역엔 공무원 비상 소집, 여행 자제 권고, 그 밖에 재난 예방에 필요한 조치 등이 취해진다.&lt;br&gt;&lt;br&gt;전국에서 산불이 잇따르자 정부는 서울·경기·인천 등 수도권, 강원·제주를 제외한 전 지역에 산불경계 ‘심각’ 단계를 발령하고 모니터링 및 초기 대응 강화에 나서고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/BRNBOMVJPZPXXMW5K3F7E3SZIA.jpg?width=1300&amp;height=864&amp;auth=1cb2704fc555d8b8cb7e0ded2bdd7e04bd57f3a4cf0996509513a8225205726c&amp;smart=true" type="image/jpeg" height="864" width="1300">
+        <media:description type="plain">23일 경북 의성군 의성실내체육관에 산불 이재민들이 대피해 있다. /연합뉴스</media:description>
+        <media:credit role="author" scheme="urn:ebu">윤관식</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>감귤나무 가지치기 나섰다가 ‘악’...제주서 손가락 절단 사고 잇따라 발생</title>
+      <link>https://www.chosun.com/national/regional/2025/03/23/5XWBAP5SLZHQBLBMIEZBCZTMNQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/03/23/5XWBAP5SLZHQBLBMIEZBCZTMNQ/</guid>
+      <dc:creator>제주=오재용 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 23 Mar 2025 02:28:29 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JQWQZYVV2XIXRIZKRZ6IQP2HUM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;제주 감귤 전정 파쇄기./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제주에서 감귤나무 가지치기 작업을 하다가 손가락이 절단되는 사고ㄱ가가 잇따라 발생했다.&lt;br&gt;&lt;br&gt;23일 제주도소방안전본부에 따르면 전날 오후 1시 39분쯤 서귀포시 성산읍 수산리에서 70대 남성이 감귤나무 가지치기 작업을 하던 중 왼쪽 세 번째 손가락이 절단돼 서울 강북으뜸병원에서 접합수술을 받는 등 이날에 만 7건의 손가락 절단 사고가 발생했다.&lt;br&gt;&lt;br&gt;이날 오후 2시 42분에는 성산읍 난산리에서 70대 여성이 전동가위로 가지치기 작업을 하다가 왼쪽 검지가 부분 절단돼 서울에 있는 병원에서 접합수술을 받았다.&lt;br&gt;&lt;br&gt;이어 오후 2시 54분쯤 서귀포시 안덕면 서광리에서는 70대 남성이 기계톱으로 전정 작업 중 왼쪽 엄지, 검지, 장지를 크게 다쳐 병원으로 옮겨졌다.&lt;br&gt;&lt;br&gt;이 밖에도 제주시 한경면 신창리, 조천읍 조천리, 애월읍 봉성리에서도 감귤나무 가지치기 작업 중 손가락 절단 사고가 잇따라 발생했다.&lt;br&gt;&lt;br&gt;또 같은 날 오후 1시 54분쯤 서귀포시 회수동에서는 전정한 감귤나무 파쇄작업을 하던 남성이 오른쪽 손을 크게 다쳐 병원에서 봉합수술을 받기도 했다.&lt;br&gt;&lt;br&gt;소방안전본부는 최근 제주에서 가지치기 작업 중 손가락 절단이나 파쇄기로 인한 부상이 거의 매일 발생하고 있다며 전동가위를 사용할 경우 가급적 나뭇가지를 절단 부위에서 멀리 잡고 작업해야 한다고 당부했다. &lt;br&gt;&lt;br&gt;전동가위는 전기모터를 이용해 날카로운 날을 고속으로 움직이는 절단도구다. 기존 재래식 전정가위에 비해 손쉽게 가지치기를 할 수 있다. 강력한 힘 때문에 자칫하면 절단 사고로 이어질 수 있다．&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>김해공항서 택시 인도로 돌진…운전기사 사망·승객 중상</title>
+      <link>https://www.chosun.com/national/regional/yeongnam/2025/03/23/L7VSWCIRT5EUDCCBD3NYKEM54I/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/yeongnam/2025/03/23/L7VSWCIRT5EUDCCBD3NYKEM54I/</guid>
+      <dc:creator>박주영 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 23 Mar 2025 02:17:41 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6QVH44XHRVDS7CXHYZEXHLA37M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;23일 오전 6시30분쯤 부산 강서구 김해공항 국제선 청사 앞 도로에서 승객을 태운 택시가 인도로 돌진했다./부산경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김해공항 국내선 청사 앞 도로에서 승객을 태운 택시가 갑자기 청사로 돌진해 운전기사가 숨지고 승객이 크게 다쳤다.&lt;br&gt;&lt;br&gt;23일 오전 6시 30분쯤 부산 강서구 김해국제공항 국내선 앞 도로에서 승객을 태운 택시가 갑자기 인도 쪽으로 돌진해 기둥과 청사 1번 게이트 외벽을 들이받고 멈춰 섰다.&lt;br&gt;&lt;br&gt;이 사고로 70대 택시 운전자 A씨가 의식불명 상태에서 병원으로 옮겨졌으나 숨졌다. 60대 여성 승객 B씨는 크게 다쳐 병원에서 치료받고 있다.&lt;br&gt;&lt;br&gt;이 택시는 김해공항 국제선 청사 출구 앞에서 승객을 태우고 가던 중 국내선 청사 도로 앞에서 갑자기 갑자기 급가속해 인도로 돌진한 것으로 알려졌다. &lt;br&gt;&lt;br&gt;경찰은 목격자 진술과 공항도로 방범카메라(CCTV), 택시 블랙박스 등의 영상 분석을 통해 정확한 사고 경위를 조사하고 있다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>유연석 70억, 이하늬 60억, 조진웅 11억…연예인 줄줄이 세금 추징 왜?</title>
+      <link>https://www.chosun.com/national/national_general/2025/03/23/VV6J4VZNDFGLREQRRYV2DU554E/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/03/23/VV6J4VZNDFGLREQRRYV2DU554E/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 22 Mar 2025 23:29:13 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IGZUBABPYBBYTE6YNDRNWMW6XA.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;배우 조진웅. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최근 배우 이하늬, 유연석, 이준기, 조진웅 등이 줄줄이 세금 추징 대상에 올라 화제가 되고 있다. 이들은 모두 법인을 설립한 후 세금을 납부해 왔다는 공통점이 있는데 과세 당국이 이런 관행에 제동을 건 것이라는 분석이 나온다. &lt;br&gt;&lt;br&gt;배우 조진웅의 소속사 사람엔터테인먼트는 22일 공식 입장을 통해 “과세 당국의 정기 세무조사 과정에서 세금 약 11억원을 부과받았다”며 “과세 관청의 결정에 대한 법리적인 판단을 받아보기 위해 조심스럽게 조세심판원 심판을 청구했고, 현재 심리가 진행 중”이라고 밝혔다.&lt;br&gt;&lt;br&gt;소속사에 따르면 조진웅이 법인을 설립하고 일반적인 세무 처리 방법에 따라 법인 수익에 대해 법인세를 신고·납부해 왔으나, 과세 당국에서는 이를 개인 소득세 납부 대상으로 봤다.&lt;br&gt;&lt;br&gt;앞서 세금 약 60억원을 추징당한 배우 이하늬, 약 70억원을 추징당한 배우 유연석, 약 9억원을 추징당한 이준기 모두 비슷한 사례였다. 이들은 모두 법인을 설립해 세금을 납부하다가 세금 추징을 당했다.&lt;br&gt;&lt;br&gt;일례로 이준기는 2014년 1월 제이지엔터테인먼트를 설립한 후 같은 해 나무엑터스와 전속계약을 체결했다. 이후 나무엑터스가 이준기 개인이 아닌 제이지엔터테인먼트에 출연료 등을 지급하고 제이지엔터는 이준기 개인 출연료를 법인 매출로 산정해 법인세를 납부했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7CUPWOLJ6CPPYABJ3E2746WAGY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;배우 이하늬. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;개인이 내는 소득세 세율은 6~45%이지만 법인의 경우 9~24%로, 법인 최고 세율이 낮은데 과세 관청은 이를 조세 회피를 위한 행동으로 본 것이다.&lt;br&gt;&lt;br&gt;이준기도 조진웅과 같이 세금 추징에 대해 조세심판원의 판단을 받아보고자 심판을 청구했고, 현재 심리가 진행 중에 있다고 밝혔다. &lt;br&gt;&lt;br&gt;유연석은 지난 1월 과세 전 적부심사를 청구했다. 과세 전 적부심사는 납세자가 과세 당국의 조치에 이의가 있을 경우 청구하는 일종의 불복 절차다.&lt;br&gt;&lt;br&gt;이에 따라 조세심판원 판단과 적부심사 결과 등에 귀추가 주목되고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>여수 도심 달리던 람보르기니 화재 발생해 전소</title>
+      <link>https://www.chosun.com/national/national_general/2025/03/23/MVKGBTHJFZGIJIVJGZVZE5PRPI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/03/23/MVKGBTHJFZGIJIVJGZVZE5PRPI/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 23 Mar 2025 01:47:06 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/N4OFQSAFEUZQLAVKMJRG63RUKU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전남 여수에서 불이 난 람보르기니 차량. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전남 여수시 도심을 달리던 람보르기니 차량이 엔진룸에서 시작된 불로 전소됐다. &lt;br&gt;&lt;br&gt;23일 전남 여수소방서에 따르면 전날 오후 1시 37분쯤 여수시 안산동의 한 도로에서 주행 중이던 람보르기니 차량에 화재가 발생했다.&lt;br&gt;&lt;br&gt;화재가 발생한 직후 운전자는 차량에서 빠져나왔고 인명 피해는 발생하지 않았다.&lt;br&gt;&lt;br&gt;불은 신고를 받고 출동한 소방대에 의해 약 8분 만에 진화됐지만 고가의 차량이 전소되면서 소방서 추산 5400만원 상당의 재산 피해가 발생했다.&lt;br&gt;&lt;br&gt;소방 당국은 차량 엔진룸에서 불이 시작된 것으로 보고 정확한 화재 원인을 조사하고 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>사흘째 산불에 축구장 4600개 산림 불타… 4명 사망·주민 1500여 명 대피</title>
+      <link>https://www.chosun.com/national/national_general/2025/03/23/P3ND4CYL55BSVBHOVRCSH4MDMI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/03/23/P3ND4CYL55BSVBHOVRCSH4MDMI/</guid>
+      <dc:creator>김영우 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 23 Mar 2025 00:41:14 +0000</pubDate>
+      <content:encoded>지난 21일부터 시작된 경남 산청 산불과 22일 시작된 경북 의성·울산 울주·경남 김해 산불로 총 3286㏊ 넓이 산림이 불에 탄 것으로 확인됐다. 축구장 4600개 규모다. 이번 산불로 대피한 주민도 1500명에 이른 것으로 나타났다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/L3X6JYJGZNNR3L65U6TKV47XI4.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;22일 오전 11시 45분쯤 경북 의성군 안평면에서 시작한 산불이 계속 확산하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;23일 행정안전부 중앙재난안전대책본부에 따르면, 지난 21일 시작된 경남 산청 산불은 23일 오전 7시 기준 1329㏊의 산림을 태웠지만, 아직도 진화율은 30%에 그치고 있다. 이번 산불로 주민 335명이 대피했고, 주택 10가구가 전소했다. 앞서 22일 오후 산불을 진화하던 진화대원 등 4명이 사망하고, 부상자도 10명 발생했다.&lt;br&gt;&lt;br&gt;경북 의성 산불 역시 23일 오전 7시 기준 1802㏊의 산림을 태웠고, 진화율은 2.8%에 그쳐 있다. 주택 24가구가 전소했고, 5가구는 일부가 불에 탔다. 주민 951명이 의성체육관과 점곡체육관 등으로 대피해 있고, 산림 당국은 헬기 50대와 인력 1356명을 동원해 진화 작업을 진행하고 있다.&lt;br&gt;&lt;br&gt;울산 울주 산불은 산림 85㏊를, 경남 김해 산불은 70.11㏊를 불태웠고, 진화율은 각각 70%, 20%다. 산불로 대피한 주민은 울주 80명, 김해 148명이다.&lt;br&gt;&lt;br&gt;앞서 행안부는 22일 오후 5시 30분 중대본을 구성하고, 이어 오후 6시에는 울산·경북·경남 지역에 재난 사태를, 같은 날 오후 10시 30분에는 경남 산청군에 특별재난지역을 선포했다.&lt;br&gt;&lt;br&gt;중대본 관계자는 “인명 피해가 예상되는 지역의 주민들은 지속적으로 대피하도록 하고, 신속히 진화를 마칠 수 있도록 하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>산불 피해 경남 산청군 특별재난지역 선포</title>
+      <link>https://www.chosun.com/national/national_general/2025/03/23/TFZZZVAVVBABNC5FRYEGFRXCZU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/03/23/TFZZZVAVVBABNC5FRYEGFRXCZU/</guid>
+      <dc:creator>김영우 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 23 Mar 2025 00:40:30 +0000</pubDate>
+      <content:encoded>지난 21일부터 시작된 경남 산청 산불과 22일 시작된 경북 의성·울산 울주·경남 김해 산불로 총 3286㏊ 넓이 산림이 불에 탄 것으로 확인됐다. 이번 산불로 대피한 주민도 1500명에 이른 것으로 나타났다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/L3X6JYJGZNNR3L65U6TKV47XI4.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;22일 오전 11시 45분쯤 경북 의성군 안평면에서 시작한 산불이 계속 확산하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;23일 행정안전부 중앙재난안전대책본부에 따르면, 지난 21일 시작된 경남 산청 산불은 23일 오전 7시 기준 1329㏊의 산림을 태웠지만, 아직도 진화율은 30%에 그치고 있다. 이번 산불로 주민 335명이 대피했고, 주택 10가구가 전소했다. 앞서 22일 오후 산불을 진화하던 진화대원 등 4명이 사망하고, 부상자도 중상 5명을 포함해 총 6명 발생했다.&lt;br&gt;&lt;br&gt;경북 의성 산불 역시 23일 오전 7시 기준 1802㏊의 산림을 태웠고, 진화율은 2.8%에 그쳐 있다. 주택 24가구가 전소했고, 5가구는 일부가 불에 탔다. 주민 951명이 의성체육관과 점곡체육관 등으로 대피해 있고, 산림 당국은 헬기 50대와 인력 1356명을 동원해 진화 작업을 진행하고 있다.&lt;br&gt;&lt;br&gt;울산 울주 산불은 산림 85㏊를, 경남 김해 산불은 70.11㏊를 불태웠고, 진화율은 각각 70%, 20%다. 산불로 대피한 주민은 울주 80명, 김해 148명이다.&lt;br&gt;&lt;br&gt;앞서 행안부는 22일 오후 5시 30분 중대본을 구성하고, 이어 오후 6시에는 울산·경북·경남 지역에 재난 사태를 선포했다.&lt;br&gt;&lt;br&gt;한편 정부는 이날 경남 산청군을 특별재난지역으로도 선포했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DTWI4IKCRZPTTMLRSVPULW7QKE.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;경남 산청 대형 산불이 사흘째로 접어든 23일 오전 산청군 시천면 일대에서 산불이 번지고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;행정안전부는 22일 최상목 대통령 권한대행이 경남 산청군을 특별재난지역으로 선포했다고 밝혔다. &lt;br&gt;&lt;br&gt;행안부 관계자는 “21일 오후 3시 28분쯤 경남 산청군에서 발생한 산불 피해를 정부 차원에서 신속하게 수습하고 피해자를 지원하기 위한 것”이라고 말했다.&lt;br&gt;&lt;br&gt;이번 특별재난지역 선포는 ‘대형 산불’로 인한 선포 사례 중 여섯째로, 2023년 4월 산불이 발생했던 강원 강릉 이후 2년 만이다.&lt;br&gt;&lt;br&gt;특별재난지역 선포에 따라 피해자 지원을 비롯한 조치가 이뤄지게 된다. 정부는 산불로 피해를 입은 시설의 복구비를 국비로 지원하고, 피해 주민에게는 생활 안정 지원을 비롯해 지방세 등 납부유예, 공공요금 감면 등을 지원한다.&lt;br&gt;&lt;br&gt;고기동 중앙재난안전대책본부장은 “피해를 입은 분들께서 하루빨리 일상으로 복귀할 수 있도록 지원 대책을 조속히 마련하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>이틀째 접어든 경북 의성 산불…헬기 50대 투입, 진화 작업 재개</title>
+      <link>https://www.chosun.com/national/regional/2025/03/23/OPGAS7PVIREJHE36ZLTFJDSNIQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/03/23/OPGAS7PVIREJHE36ZLTFJDSNIQ/</guid>
+      <dc:creator>의성=노인호 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 22 Mar 2025 23:31:25 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/H7PXDHCA4VJZ5GUZUUSK75GVPY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;23일 오전 경북 의성군 의성읍 철파리에서 소방대원들이 민가로 번진 불을 끄고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경북 의성 괴산리 야산에서 발생한 산불 이틀째인 23일 산림 당국은 헬기 50대를 투입하는 등 진화 작업을 재개했다.&lt;br&gt;&lt;br&gt;23일 산림 당국에 따르면, 산림 당국은 일출 시간인 오전 6시 30분을 전후로 의성에서만 헬기 50대를 투입해 산불 진화에 나섰다. 괴산리 야산에서 시작한 산불의 진화율은 이날 오전 7시 기준 2.8%에 머물러 있다.&lt;br&gt;&lt;br&gt;경북도 관계자는 “해가 진 이후에는 헬기를 동원한 산불 진화 작업이 힘들어 확산 저지에만 주력했다”며 “일출과 동시에 헬기를 대거 투입해 산불 진화에 나섰다”고 말했다.&lt;br&gt;&lt;br&gt;이날 헬기를 포함해 소방 진화대 272명 등 2319명의 인력, 소방차 266대, 급수차 10대, 진화차량 311대도 투입됐다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DGYKK7CRWFDP5AFLWY6C47CM3Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;22일 오후 경북 의성군 안평면 괴산리에서 발생한 산불이 확산되자 주민들이 의성종합운동장 실내체육관으로 대피해 있다. /권광순 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;현재 의성읍, 신평면 등 32개 마을 주민 1128명이 실내체육관, 마을회관 등으로 대피했다. 또 의성군공립요양병원에 입원해 있던 환자 128명 등 330여 명도 인근 안동과 문경병원으로 이송됐다. &lt;br&gt;&lt;br&gt;또 주택 25채가 모두 불타는 등 민가 29채가 피해를 입었지만, 현재까지 인명 피해는 없는 것으로 파악됐다.&lt;br&gt;&lt;br&gt;전날 오후 3시 45분 중단됐던 의성 인근 중앙선 철도 열차 운행도 재개됐다. 한국철도공사는 “의성 지역 산불로 중단된 중앙선 안동∼경주간 열차 운행은 안전 점검을 마치고 금일 정상 운행한다”고 이날 밝혔다.&lt;br&gt;&lt;br&gt;앞서 산림청은 전날 오전 11시 24분쯤 의성군 안평면 괴산리 야산에서 산불이 발생하자 2시간 46분 만인 오후 2시 10분쯤 산불 3단계를 발령했다. 산불 3단계는 피해 추정 면적이 100∼3000㏊ 미만에, 초속 11m 이상 강풍이 불고 진화 시간이 24∼48시간 미만으로 예상될 때 발령한다.&lt;br&gt;&lt;br&gt;의성군은 한 성묘객이 묘지를 정리하던 중 불을 냈으며 직접 119에 신고했다고 설명했다.&lt;br&gt;&lt;br&gt;의성군 관계자는 “산불이 진화되는 대로 특별사법경찰관을 통해 A씨를 조사한 뒤, 관련 법에 따라 고발 검토할 것”이라고 했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>서울 지하철 2호선 신도림서 탈선…홍대입구~서울대입구 외선 운행중단</title>
+      <link>https://www.chosun.com/national/national_general/2025/03/23/I65PR4FFN5EVFIDI7JG34UQLPQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/03/23/I65PR4FFN5EVFIDI7JG34UQLPQ/</guid>
+      <dc:creator>김영우 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 22 Mar 2025 23:58:15 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FDCPGN3PZ5K2LA4XGNLXLOOCAA.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;작년 12월 6일 서울 구로구 지하철 2호선 신도림역 승강장에서 시민들이 지하철을 타고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;23일 서울 지하철 2호선 신도림역에서 열차 탈선 사고가 발생해 홍대입구역~서울대입구역 구간의 외선순환 열차 운행이 중단됐다.&lt;br&gt;&lt;br&gt;서울교통공사에 따르면, 이날 오전 7시 50분쯤 2호선 신도림역에서 출고되던 열차 1대가 승강장에 정차하던 도중 차막이에 추돌해 탈선했다.&lt;br&gt;&lt;br&gt;이 사고로 홍대입구역~서울대입구역 구간의 외선순환 열차 운행이 중단됐다. 반대 방향인 내선순환 열차는 정상 운행 중이다.&lt;br&gt;&lt;br&gt;공사 관계자는 “운행 중단 구간을 대체할 수 있는 버스 등 교통 수단을 준비하고 있다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>“돈 없다”며 전세금 못 준다는 집주인, 전세 사기가 아니라고?</title>
       <link>https://www.chosun.com/national/national_general/2025/03/23/DJFR5W5PC5BTBJUQUZ26JLSIKE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/03/23/DJFR5W5PC5BTBJUQUZ26JLSIKE/</guid>
@@ -857,97 +964,6 @@
 의대생들이 정부의 의대 증원 방침에 반발해 동맹 휴학 중인 가운데 의과대학이 있는 전국 40개 대학 총장 모임 '의과대학 선진화를 위한 총장협의회'는 정당한 사유 없는 의대생들의 휴학계를 21일까지 반려하는데 합의했다. 이날 연세대·고려대·경북대 의대는 1학기 등록을 마감하며 27일 서울대, 28일 경희대 등 이달 말까지 각 대학이 제시한 복귀 시한이 이어진다. 2025.03.21. mangusta@newsis.com&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전국 의대 교수들이 의대 정원 증원 처분을 취소해달라며 제기한 소송이 21일 법원에서 각하됐다. 재판부는 의대 교수들이 이번 사건 당사자가 될 수 없다고 보고 심리하지 않고 종결했다.&lt;br&gt;&lt;br&gt;서울행정법원 행정11부(재판장 김준영)는 21일 김창수 전국의과대학교수협의회(전의교협) 회장 등 33명이 보건복지부·교육부 장관을 상대로 낸 ‘입학정원 취 증원처분 취소’ 청구 소송을 각하했다.&lt;br&gt;&lt;br&gt;이번 판단은 의료계와 수험생 등이 정부의 의대 증원 방침을 멈춰달라며 잇따라 제기한 취소 소송 가운데 나온 첫 판결이다. &lt;br&gt;&lt;br&gt;재판부는 “원고들에게 피고 교육부 장관의 입학정원 증원 배정처분의 취소를 구할 원고적격이 인정되지 않는다”고 밝혔다. 복지부 장관 증원 발표에 대해서는 “행정청의 내부적 의사결정을 대외적으로 공표한 것에 불과하다”며 “항고소송의 대상이 되는 처분으로 보기 어렵다”고 했다. 증원은 교육부의 배정에 따라 이뤄지기 때문에 복지부 발표는 소송 대상이 아니라는 뜻이다.&lt;br&gt;&lt;br&gt;지난해 2월 보건복지부는 2025학년도 전국 의과대학 입학정원을 2000명 증원한다고 발표했다. 교육부는 각 대학에서 의대 입학정원 증원 신청을 받아 증원분을 배정했다.&lt;br&gt;&lt;br&gt;의대 교수협의회를 비롯한 의료계는 이에 반발해 처분 취소 소송과 집행정지 신청 등을 동시에 제기했다. 앞서 집행정지 신청은 대법원까지 올라갔지만 재판부는 의대 교수와 전공의, 의대 입학이 확정되지 않은 수험생은 소송의 당사자가 될 수 없다고 판단해 기각·각하했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>“제주 항공권 ‘이때’가 가장 싸다”… 한국은행 직원이 콕 집은 시기, 언제?</title>
-      <link>https://www.chosun.com/national/national_general/2025/03/21/QWVZ7AIJHNDANJZJVVG7SHSV7Y/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/03/21/QWVZ7AIJHNDANJZJVVG7SHSV7Y/</guid>
-      <dc:creator>최혜승 기자 </dc:creator>
-      <description/>
-      <pubDate>Fri, 21 Mar 2025 05:27:12 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G44UM42F3NKLFGF77YIA4MOM5I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;완연한 봄날씨를 보인 21일 오전 제주 서귀포시 성산읍 성산일출봉 광치기해변 인근에 조성된 유채꽃밭에 상춘객이 찾아와 즐거운 시간을 보내고 있다./뉴시스
-&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제주행 항공권은 언제 가장 저렴할까. 요일별로는 화요일부터 목요일 사이 늦은 오후 출발하는 항공편이, 시기별로는 12월부터 3월이 상대적으로 싸다는 분석이 나왔다.&lt;br&gt;&lt;br&gt;21일 한국은행에 따르면 조강철 한은 물가동향팀 차장은 최근 사보 ‘한은소식’에 이 같은 분석을 담은 기고문을 실었다. 조 차장은 ‘가격 차별’ 개념으로 항공권 가격에 접근했다. &lt;br&gt;&lt;br&gt;가격이 오를 때 수요량이 민감하게 반응하면 가격 탄력성이 높은 것이다. 따라서 기업들은 수요의 가격 탄력성이 높은 집단에는 낮은 가격을 받고, 비탄력적인 집단에는 높은 가격을 각각 매겨 이윤을 높인다는 설명이다. &lt;br&gt;&lt;br&gt;조 차장은 “화요일 항공권을 구입하는 소비자들은 평일에 제주 여행을 할 수 있으므로 토요일 항공권 구입 소비자들보다 시간 여유가 많다”며 “출발 요일보다는 항공권 가격에 상대적으로 민감하게 반응할 가능성이 크다”고 했다. 그러면서 “이는 화요일 항공권 구입 소비자들이 가격 탄력성이 더 높다는 것을 의미하고, 자연스럽게 화요일 항공권 가격이 토요일 항공권보다 싸지게 된다”고 설명했다.&lt;br&gt;&lt;br&gt;조 차장은 “결국 저렴한 제주행 항공권을 구하기 위해서는 어떤 계절, 요일, 시간대가 관광객 입장에서 수요의 가격 탄력성이 높은지 생각해보면 된다”며 “2023년의 경우 10월, 5월, 8월, 4월, 6월 순으로 관광객이 많았다. 이에 12~3월, 7월, 9월에는 항공권 수요의 가격 탄력성이 높아 가격이 저렴한 편”이라고 했다. &lt;br&gt;&lt;br&gt;이어 “요일별로는 주중인 화요일에서 목요일 사이 제주로 출발하는 항공권이, 시간대별로는 늦은 오후 이후 저녁 시간대가 수요의 가격 탄력성이 높아 가격이 싸다”고 했다.&lt;br&gt;&lt;br&gt;조 차장은 다만 “무조건 싼 항공권을 구입한다고 해서 전체 비용을 낮출 수 있는 것은 아니다”라며 “저녁 시간대에 출발하는 항공권을 구입한다면 추가로 숙박 비용이 더 들 수 있다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>현직 해양경찰 음주운전 적발…신호 대기 중 졸다가 사고</title>
-      <link>https://www.chosun.com/national/incident/2025/03/21/3E3LCZVPSNGAVPJJNWIXQEDCLI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/03/21/3E3LCZVPSNGAVPJJNWIXQEDCLI/</guid>
-      <dc:creator>인천=이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 21 Mar 2025 07:06:03 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EXMXXGJ2TFJHPAMBFUKNAI6PRE.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;음주운전 단속하는 경찰./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;현직 해양경찰이 술을 마시고 운전하다 신호 대기 중 앞 차량을 들이받는 사고를 내 경찰에 붙잡혔다. &lt;br&gt;&lt;br&gt;인천 연수경찰서는 도로교통법상 음주운전 혐의로 해양경찰청 소속 경사 A씨를 수사하고 있다고 21일 밝혔다. &lt;br&gt;&lt;br&gt;A씨는 지난 19일 오후 11시 40분쯤 인천시 연수구 연수동의 한 사거리에서 음주운전을 하다가 사고를 낸 혐의를 받고 있다. A씨는 신호 대기 중 졸다가 앞에 있던 버스를 들이받은 것으로 파악됐다. &lt;br&gt;&lt;br&gt;당시 A씨의 혈중알코올농도는 0.076%였던 것으로 조사됐다. 0.076%는 면허 정지(0.03% 이상~0.08% 미만)에 해당하는 수치다. &lt;br&gt;&lt;br&gt;경찰 관계자는 “이번 사고에 대한 피해 조사 후 (A씨를) 입건할 예정”이라고 말했다. &lt;br&gt;&lt;br&gt;해양경찰청은 A씨를 직위 해제하고 수사 결과가 나온 뒤 징계위원회를 열 예정이다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“의료 인재 양성 산실될 것”...울산대 ‘아산의학관’ 개관</title>
-      <link>https://www.chosun.com/national/2025/03/21/ME47QPQMAFBK5LL5RWW3KNITFQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2025/03/21/ME47QPQMAFBK5LL5RWW3KNITFQ/</guid>
-      <dc:creator>울산=김준호 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 21 Mar 2025 04:59:31 +0000</pubDate>
-      <content:encoded>울산대학교가 지역 의료 인재 양성을 목표로 새로운 교육 공간인 ‘아산의학관’을 21일 개관했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/C57MBMAYBRBILKWKF5JWHHWGUA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;울산 동구 옛 한마음회관을 리모델링해 개관한 울산대학교 의과대학의 교육 공간인 '아산의학관’. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;울산대는 이날 울산시 동구 아산의학관에서 오연천 총장, 김두겸 울산시장, 김종훈 동구청장, 노진율 HD현대중공업 대표이사, 박승일 서울아산병원장, 박종하 울산대병원장 등이 참석한 가운데 개관식을 가졌다.&lt;br&gt;&lt;br&gt;아산의학관은 울산대가 HD현대중공업으로부터 400억원 상당의 옛 한마음회관 건물을 기부받으면서 추진됐다. 한마음회관은 1991년 동구에 본사를 둔 현대중공업(현 HD현대중공업)이 지역 주민의 문화·예술·스포츠 활동 장려를 위해 설립한 시설이다. 지난 2023년 말까지 운영하고, 지난해부터 운영을 중단했다. &lt;br&gt;&lt;br&gt;지난해 시설을 기부받은 울산대는 강의실과 연구시설, 도서관 및 행정시설 등을 포함한 교육 공간으로 리모델링했다. &lt;br&gt;&lt;br&gt;아산의학관은 지하 2층~지상 5층, 연면적 1만3480.79㎡ 규모다. 지하 1층 헬스장과 수영장은 시민에게 개방한다. 지상 1~2층에는 강의실, 도서관, 학습실, 동아리실 등 학생 교육을 위한 공간이 들어섰다. 앞으로 늘어날 학생 수를 감안해 120명까지 수용 가능하다. &lt;br&gt;&lt;br&gt;지상 3~4층에는 글로컬대학 사업으로 추진하는 울산대·서울아산병원·울산과학기술원(UNIST)이 협력하는 미래 메디컬 캠퍼스 혁신파크가 조성됐다. 대학과 병원이 공동 연구를 수행하는 의사과학자 중심 의료혁신센터 역할을 하게 된다.&lt;br&gt;&lt;br&gt;울산대는 아산의학관 개관으로 의과대학이 기존 서울아산병원 중심의 교육 구조에서 벗어나, 울산에서 학생 교육과 연구를 활성화할 수 있는 환경을 갖추게 됐다고 설명했다.&lt;br&gt;&lt;br&gt;임영석 울산대 의과대학장은 “아산의학관 개관을 통해 의과대학 교육과 연구가 더욱 강화될 것”이라며 “지역 의료 수준을 높이고, 지역 의료 인프라를 확충하는데 기여하겠다”고 말했다.&lt;br&gt;&lt;br&gt;오연천 울산대 총장은 “아산의학관 개관은 단순한 교육시설 확장을 넘어 울산의 의료 발전과 의과대학 교육 혁신을 위한 중요한 발걸음이다”며 “지역사회와 협력해 미래 의료를 선도할 인재를 양성하는 데 최선을 다하겠다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>현직 대통령실 경호처 직원, 음주 상태로 경찰 폭행...현행범 체포</title>
-      <link>https://www.chosun.com/national/incident/2025/03/21/W3H6LIZYEBAUFEPM5TBAC3NVDA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/03/21/W3H6LIZYEBAUFEPM5TBAC3NVDA/</guid>
-      <dc:creator>장윤 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 21 Mar 2025 06:50:12 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LFJ4YTY3JBCBVFHGRO2ZPLQ26U.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;대통령경호처 엠블럼/대통령실 공식 홈페이지&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 용산경찰서는 술에 취한 상태로 경찰을 폭행한 현직 대통령실 경호처 소속 직원을 공무집행방해 혐의로 현행범으로 체포했다. &lt;br&gt;&lt;br&gt;경찰은 지난 20일 오후 10시 40분쯤 용산구 한강로1가에서 “술에 취한 남성들이 몸싸움을 벌이고 있다”는 시민 신고를 받고 출동했다. 대통령실 경호처 소속 직원 30대 남성 A씨는 출동해 싸움을 말리던 경찰 한 명을 폭행해 부상을 입혔다.&lt;br&gt;&lt;br&gt;경찰은 A씨를 상대로 정확한 사건 경위를 조사할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>렌터카로 인천공항 외국인 대상 불법 운송…일당 18명 적발</title>
-      <link>https://www.chosun.com/national/incident/2025/03/21/QZNER6Y3CVGTZHCDBUS3PMCCKU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/03/21/QZNER6Y3CVGTZHCDBUS3PMCCKU/</guid>
-      <dc:creator>인천=이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 21 Mar 2025 06:41:59 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RI2O5P5PN7CSVHYGBCFT4UTI7U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천공항을 찾은 외국인들에게 돈을 받고 불법 차량 운송을 해온 일당이 경찰에 적발됐다. &lt;br&gt;&lt;br&gt;인천국제공항경찰단은 여객자동차운수사업법 위반 혐의로 A(35)씨 등 16명을 불구속 입건하고, 호객행위자 2명을 범칙금 처분했다고 21일 밝혔다.&lt;br&gt;&lt;br&gt;경찰은 지난 2월부터 최근까지 인천공항 무등록 유상 운송 행위 근절을 위한 특별 단속에서 이들을 적발했다고 설명했다. &lt;br&gt;&lt;br&gt;A씨 등은 인천공항에서 외국인 관광객을 차량에 태워 불법으로 실어 나른 혐의를 받고 있다. &lt;br&gt;&lt;br&gt;이들은 사회관계망서비스(SNS)로 탑승객을 모은 뒤 렌터카 등을 이용해 적게는 7만원에서 많게는 30만원의 요금을 받고 불법 운송한 것으로 조사됐다. &lt;br&gt;&lt;br&gt;현행 여객자동차 운수사업법에 따르면 등록 절차 없이 돈을 받고 운송행위를 하면 2년 이하의 징역 또는 2000만원 이하의 벌금형을 받을 수 있다. &lt;br&gt;&lt;br&gt;경찰은 오는 11월 아시아태평양경제협력체(APEC) 정상회의 개최를 앞두고 외국인 대상 범죄 등을 예방하기 위해 이번 단속을 실시했다. &lt;br&gt;&lt;br&gt;경찰 관계자는 “불법 운송 행위에 강력히 대응해 공항 이용객 등 관광객을 보호하고 범죄를 예방할 수 있도록 하겠다”고 말했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>공수처, 대검찰청 압수수색... 이정섭 검사 ‘전과기록 누설’ 혐의 수사</title>
-      <link>https://www.chosun.com/national/court_law/2025/03/21/SDVXPG2NVZGKZLJVPLHA5LOYSQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/03/21/SDVXPG2NVZGKZLJVPLHA5LOYSQ/</guid>
-      <dc:creator>이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 21 Mar 2025 05:11:33 +0000</pubDate>
-      <content:encoded>이정섭 대전고검 검사가 처남의 부탁을 받고 특정인의 범죄 경력을 조회했다는 의혹을 수사 중인 고위공직자범죄수사처(공수처)가 21일 대검찰청을 압수 수색하고 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ACSOQWOIKJMURKV2SVTS6OUUQI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;고위공직자범죄수사처(공수처) 현판./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;공수처 수사4부(부장 차정현)는 이날 “검사의 공무상비밀누설 혐의 사건 관련 자료 확보를 위해 압수 수색 영장을 집행 중”이라고 밝혔다. 공수처는 대검 정보통신과를 압수 수색해 이 검사의 메신저 기록 및 전과 기록 조회 여부 등을 확인할 방침인 것으로 전해졌다. 압수 수색 영장은 서울중앙지법에 청구해 발부받았다고 한다.&lt;br&gt;&lt;br&gt;이 검사는 자녀의 초등학교 진학을 위해 2021년 4월 실제로 거주하고 있지 않은 서울 강남구의 한 아파트에 위장 전입하고 2020년 12월 한 리조트에서 대기업 임원으로부터 객실료를 받은 혐의를 받는다. 이 밖에도 처가 가사도우미의 전과 기록을 조회했다는 혐의(공무상비밀누설)를 받는다. 민주당 측 고발로 수사에 착수한 서울중앙지검 형사1부(부장 김승호)는 이 검사를 지난 6일 기소하면서, 공무상비밀누설 혐의는 공수처로 이첩했다.&lt;br&gt;&lt;br&gt;이 의혹은 김의겸 전 의원이 2023년 10월 국정감사 당시 처음 제기했다. 당시 이 검사는 수원지검에서 ‘쌍방울 불법 대북 송금’ ‘경기도 법인카드 유용’ 등 이재명 더불어민주당 대표 관련 사건 수사를 지휘하고 있었다. 의혹이 제기되자 검찰은 이 검사를 대전고검으로 이동시켰다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UYADFBIUYSI2BVL3NTKC25PEFA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이정섭 대전고검 검사./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;민주당은 그해 12월엔 이 검사가 비위 의혹으로 정상적인 직무를 수행할 수 없다며 탄핵 소추도 했다. 하지만 헌법재판소는 작년 8월 재판관 9명의 전원일치 의견으로 이를 기각했다.&lt;br&gt;&lt;br&gt;공수처는 이날 이 검사의 처남댁인 조국혁신당 강미정 대변인을 참고인으로 소환해 조사하고 있다. 강 대변인은 이날 공수처 청사에서 기자들에게 “검찰이 촉박하게 시효 만료 직전 사건을 공수처에 이첩한 부분은 안타깝다”고 말했다. 이 사건의 공소시효는 오는 29일까지다.&lt;br&gt;&lt;br&gt;법조계에선 이 검사가 누설한 혐의를 받는 전과 기록이 공무상 비밀에 해당하는지 여부가 쟁점이 될 것이라고 보고 있다. 한 차장검사 출신 법조인은 “판례가 많지 않은 사안으로 알고 있다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>검찰, 김종인 전 국민의힘 비대위원장 소환...명태균 의혹 관련</title>
-      <link>https://www.chosun.com/national/court_law/2025/03/21/FRYBVQLJCRHC5OKMP5K4WHTE6E/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/03/21/FRYBVQLJCRHC5OKMP5K4WHTE6E/</guid>
-      <dc:creator>유종헌 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 21 Mar 2025 05:10:25 +0000</pubDate>
-      <content:encoded>정치 브로커 명태균씨 관련 의혹을 수사하는 검찰이 김종인 전 국민의힘 비상대책위원장을 21일 소환해 조사 중이다.&lt;br&gt;&lt;br&gt;서울중앙지검 명태균 의혹 전담수사팀(팀장 이지형 차장검사)은 이날 오전 김 전 위원장을 참고인 신분으로 불러 조사하고 있다. 검찰은 김 전 위원장을 상대로 명씨를 알게 된 경위, 2021년 서울시장 보궐선거 당시 명씨로부터 여론조사 결과를 공유받은 이유 등을 조사할 전망이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JZWBOA37JJUNJ5JTK7NBXN3NOI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김종인 전 국민의힘 비상대책위원장. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰은 명씨가 실질적으로 운영한 여론조사업체 미래한국연구소가 오 시장 관련 미공표 여론조사 13건을 실시하고, 오 시장의 후원자인 사업가 김한정씨가 여론조사 비용 3300만원을 대납했다는 의혹을 수사하고 있다. &lt;br&gt;&lt;br&gt;김 전 위원장도 명씨로부터 오 시장 관련 여론조사 결과를 수시로 보고받았다는 의혹이 제기된 상태다. 명씨는 언론 인터뷰에서 김 전 위원장을 ‘정치적 아버지’로 부르기도 했다. &lt;br&gt;&lt;br&gt;반면 김 전 위원장은 명씨가 오 시장 당선에 기여할 위치에 있지 않고, 과시욕 때문에 자신과의 친분을 부풀렸다는 입장이다. &lt;br&gt;&lt;br&gt;검찰은 최근 명씨와 미래한국연구소 부소장 강혜경씨, 김씨 등을 조사한 데 이어 전날에는 오 시장의 서울시청 집무실 등을 압수수색 했다. &lt;br&gt;&lt;br&gt;검찰은 압수물 분석과 관련자 조사가 마무리되는 대로 오 시장을 불러 조사할 전망이다. &lt;br&gt;&lt;br&gt;오 시장은 전날 “매우 기다리던 절차가 진행됐다”며 “조속한 시일 내 조사받기를 기다리고 있다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>정유라, 6억 9000만원 빌린 뒤 돈 안 갚아…사기 혐의로 검찰 송치</title>
-      <link>https://www.chosun.com/national/incident/2025/03/21/26USFBW7IFF2ZN4WK5WZ7ZNCQ4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/03/21/26USFBW7IFF2ZN4WK5WZ7ZNCQ4/</guid>
-      <dc:creator>남양주=김수언 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 21 Mar 2025 03:35:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UK5XK4RJVJKBH7L5ZYAGGI6OEU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2022년 5월 당시 강용석 무소속 경기도지사 후보 유세에서 찬조 연설을 하고 있는 정유라 씨. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘국정농단’사건 핵심 인물인 최서원(개명 전 최순실·69)씨의 딸 정유연(개명 전 정유라·29)씨가 지인의 돈 수억원을 빌려 갚지 않은 혐의로 검찰에 넘겨졌다.&lt;br&gt;&lt;br&gt;21일 경기 남양주 남부경찰서에 따르면 경찰은 지난 12일 정씨를 특정경제범죄 가중처벌법상 사기 혐의로 검찰에 송치했다.&lt;br&gt;&lt;br&gt;정씨는 2022년 9월부터∼2023년 11월까지 지인에게 총 6억9800만원을 빌리고 갚지 않은 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;피해자 측은 정씨가 모친의 변호사 선임비, 병원비 등이 필요하다는 이유로 자신에게 돈을 빌렸다고 진술한 것으로 알려졌다. 피해자 측은 이 과정에서 정씨가 국정농단 수사 당시 핵심 증거가 됐던 이른바 ‘국정농단 태블릿PC’를 담보로 삼았다고 주장한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;이 태블릿PC는 사건을 수사하던 검찰에서 보관하고 있었다. 이후 2023년 최씨 측에서 돌려달라며 국가를 상대를 소송을 내 승소한 이후 정씨가 보관하고 있었던 것으로 알려졌다.&lt;br&gt;&lt;br&gt;다만, 피해자 측에선 경찰 조사 당시 태블릿PC와 관련해 진술하지는 않았던 것으로 파악됐다. &lt;br&gt;&lt;br&gt;경찰 관계자는 “태블릿PC를 담보로 돈을 빌렸다는 피해자 측 주장 등에 대해 특별히 조사된 바는 없다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘봄 기운’ 되찾은 한반도...중국발 미세먼지에 공기는 탁해 </title>
-      <link>https://www.chosun.com/national/transport-environment/2025/03/21/NM4CU4U2QJCGZE34KPTMYV74NU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/03/21/NM4CU4U2QJCGZE34KPTMYV74NU/</guid>
-      <dc:creator>박상현 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 21 Mar 2025 02:38:57 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KU5PSA3P3ZJ4JLJPQQM6HFRVTA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;미세먼지 수치가 ‘나쁨’을 보인 21일 서울 종로구 일대가 뿌옇다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;꽃샘추위가 끝나고 봄 기운을 되찾았지만 서풍(西風)에 실린 ‘봄의 불청객’ 미세먼지 때문에 주말에도 공기가 탁하겠다.&lt;br&gt;&lt;br&gt;기상청에 따르면, 21일 중국발 미세먼지로 수도권·강원영서·충청·광주·전북·부산·제주의 미세먼지가 ‘나쁨’ 수준으로 짙었다. 오전에는 강원영동과 영남도 한때 미세먼지가 ‘나쁨’ 수준이었다.&lt;br&gt;&lt;br&gt;중국에서 미세먼지가 계속 들어오며 토요일인 22일에도 대기질은 나쁠 전망이다. 22일 전국 대부분 지역에서 미세먼지가 ‘나쁨’ 수준일 것으로 예상됐다. 강원영동과 부산을 제외한 영남만 ‘보통’ 수준을 보이겠다.&lt;br&gt;&lt;br&gt;따뜻한 서풍 덕에 날은 포근할 것으로 예상된다. 당분간 한낮 기온은 20도 안팎까지 오를 것으로 보인다. 이는 예년보다 3~10도 가량 높은 것이다. 주말인 22~23일 아침 최저기온은 1~12도, 낮 최고기온은 15~25도 수준을 보일 것으로 예보됐다.&lt;br&gt;&lt;br&gt;이달 말까지는 꽃샘추위 없이 포근한 날이 이어질 것으로 보인다. 다만 환절기 들어 비구름대를 동반한 저기압이 자주 형성되며 간간이 비를 뿌리겠다. 다음주 수요일인 26일에는 수도권과 강원영서, 27일에는 남부지방과 제주도에 각각 비가 예보됐다. 이후 3월 말까진 비 소식 없이 대체로 포근할 것으로 기상청은 내다봤다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>가수 KCM, 두 딸 아빠였다…“12년 늦었지만 후련해”</title>
-      <link>https://www.chosun.com/national/national_general/2025/03/21/BD7YYORLOFELHNTRFWWYUNW7FU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/03/21/BD7YYORLOFELHNTRFWWYUNW7FU/</guid>
-      <dc:creator>김자아 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 21 Mar 2025 02:30:02 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QDWXG4XHZUEDR7KR3MURPYQ2N4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;가수 KCM./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;가수 KCM(43·강창모)이 13세·3세 두 딸을 둔 아빠라는 사실을 밝히고 심경을 밝혔다.&lt;br&gt;&lt;br&gt;KCM은 20일 인스타그램에 “조심스럽게 내 마음을 전한다”며 “12년 정도 늦었지만 축하한다고 말씀해준 모든 분들에게 감사 인사부터 드린다”고 했다.&lt;br&gt;&lt;br&gt;이는 전날 전해진 KCM의 ‘두 딸’ 소식에 관한 심경으로, 소속사 A2Z와 연예계에 따르면 KCM은 2012년에 첫째 딸을, 2022년에 둘째 딸을 얻었다.&lt;br&gt;&lt;br&gt;두 딸은 모두 KCM이 4년 전 결혼한 9살 어린 일반인 여성 사이에서 태어났다. 두 사람은 첫째가 생겼을 때 교제 중이긴 했지만 사정상 결혼식을 하진 못했다고 한다. &lt;br&gt;&lt;br&gt;KCM과 여자친구는 2021년 혼인신고를 해 정식 부부가 됐다. 코로나 시기라 결혼식을 미루고 간소한 언약식을 했다고 한다. &lt;br&gt;&lt;br&gt;이듬해 한 예능프로그램에 출연해 10년 연애 끝에 결혼했다고 밝힌 바 있으나, 자녀 여부는 공개하지 않았다.&lt;br&gt;&lt;br&gt;KCM은 “지금 이 순간을 위해 긴 시간 잘 견뎌온 아내와 아이들에게도 고맙다. 소중한 가족을 지키기 위해 부족하지만 최선을 다했고 조심스레 걸어왔다”며 “혹여나 놀라거나 상처를 받은 팬들께는 고개 숙여 사과드린다. 좋은 아빠, 떳떳한 남편이 되고 싶다는 마음이 너무 앞서 미숙했다”고 했다.&lt;br&gt;&lt;br&gt;이어 “후련하고 벅차다. 더 진실되고 보다 책임감 있는 모습으로 지금처럼 열심히 살겠다”며 “지켜봐주고 응원해준 모든 분들께 감사드린다. 돌이켜보니 고마운 분들이 많다. 평생 갚겠다. 더 열심히 노래하겠다”고 덧붙였다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>2개월 사이 음주운전 두 번 적발 인천시의원,  ‘출석정지 30일’ 징계</title>
       <link>https://www.chosun.com/national/national_general/2025/03/21/YCRDPHK3HBHAZNONRVQR4KXOAI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/03/21/YCRDPHK3HBHAZNONRVQR4KXOAI/</guid>
@@ -982,15 +998,6 @@
       <description/>
       <pubDate>Thu, 20 Mar 2025 16:22:14 +0000</pubDate>
       <content:encoded>법원이 이재명 더불어민주당 대표에게 ‘쌍방울 불법 대북 송금’ 사건 관련 재판부 기피신청 각하 결정문을 여섯 차례 발송했지만 이 대표가 수령하지 않은 것으로 20일 확인됐다. 이 대표가 작년 12월 “법관들이 불공정한 재판을 할 우려가 있다”며 기피신청을 내 재판이 3개월 넘게 중단된 상태인데 그 결정문을 받지 않고 있다는 것이다. &lt;br&gt;&lt;br&gt;법조계에 따르면, 수원지법은 지난달 11일 이 대표가 낸 기피신청에 대해 각하 결정을 했다. 법원 정기 인사에 따라 재판부 법관들이 바뀌었다는 이유였다.&lt;br&gt;&lt;br&gt;법원은 이 대표와 그의 변호사들에게 각하 결정문을 발송했다. 변호사들은 지난달 13~14일 결정문을 받은 것으로 확인됐다. &lt;br&gt;&lt;br&gt;그러나 이 대표에게는 ‘폐문부재’를 이유로 전달되지 않았다. 당사자가 집에 없고 문이 닫혀 있었다는 뜻이다. 세 차례 결정문이 반송되자 법원은 집행관을 인천 계양구 이 대표 집에 보냈다. 집행관이 세 차례 이 대표 집을 방문했으나 같은 이유로 결정문을 전달하지 못했다. &lt;br&gt;&lt;br&gt;이 대표는 작년 6월 대북 송금 사건으로 기소됐지만 이후 공판준비기일만 3차례 열렸을 뿐 본재판은 아직 열리지 않았다.&lt;br&gt;&lt;br&gt;이에 대해 이건태 민주당 법률 대리인은 “집에 사람이 없어서 못 받은 것이지 재판 지연과 무관하다”며 “변호인이 받았기 때문에 각하 결정의 효력도 발생한 것”이라고 밝혔다. &lt;br&gt;&lt;br&gt;한편, 이 대표의 아내 김혜경씨는 ‘경기도 법인 카드 유용’ 사건과 관련해 검찰의 기소유예 처분을 취소해 달라는 헌법소원을 지난달 헌법재판소에 낸 것으로 알려졌다. 수원지검은 작년 11월 이 대표 등을 기소하면서 김씨에게는 “혐의는 인정되지만 배우자가 같은 혐의로 기소된 점을 고려했다”며 기소유예 처분을 내렸다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>대학 2년 다녔으면 의대 편입 가능… 전문대 졸업생·문과생도 지원할 수 있어</title>
-      <link>https://www.chosun.com/national/education/2025/03/21/GNJIRSSDDVANTG63BI6JUABBLQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2025/03/21/GNJIRSSDDVANTG63BI6JUABBLQ/</guid>
-      <dc:creator>김민기 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 20 Mar 2025 15:56:56 +0000</pubDate>
-      <content:encoded>의대생들이 등록 마감까지 복귀하지 않아 제적 인원이 발생하면 빈자리를 편입학으로 채우는 방안을 적극 검토하고 있다. 지금도 전국 의대들은 다른 학과들처럼 자퇴, 성적 부진으로 인한 제적 등으로 결원이 생기면 ‘편입학’을 통해 충원할 수 있다. 하지만 지금까지 의대는 결원 발생이 적어 편입 모집 인원도 적은 편이었다. 일부 의대가 한 자릿수 편입 모집을 해왔고, 아예 모집을 안 하는 대학도 많다. 전국적으로 편입학 규모는 매년 40~50명 수준이었다. &lt;br&gt;&lt;br&gt;의대 편입은 대학에서 2학년 이상 수료한 사람이 지원할 수 있다. 학과는 무관하다. 전문대 졸업생이나 문과 출신도 지원할 수 있다. 하지만 ‘이전 대학에서 생물, 화학 과목을 6학점씩 이수’ 등 지원 자격을 두거나 자체적으로 생물, 화학 시험을 보는 경우가 많다. 이 때문에 입시 업계에 따르면 서울 상위권 자연대 출신이 편입 합격자의 70~80%다. 나머지는 상위권 공대 출신이고, 문과 출신은 5% 미만이라고 한다. &lt;br&gt;&lt;br&gt;편입생 선발 방법은 대학마다 다르다. 생물 화학 자체 시험을 보는 학교도 있지만, 필기 시험 없이 공인 영어 성적과 학점, 면접으로 선발하는 대학도 있다. 입시 업계 관계자는 “의대 편입은 모집 인원이 워낙 적어 수험생들이 치대, 약대 등 편입을 같이 준비하는 경우가 많다”며 “의대 편입 경쟁률이 60대1 수준인데, 합격자 대부분 토익 성적이 만점이고 학점도 만점에 가깝다”고 했다. &lt;br&gt;&lt;br&gt;편입생들은 의대 교육 과정에서 예과 2년은 건너뛰고 본과 1학년부터 시작한다. 이전 대학을 3년간 다녔거나, 아예 졸업했더라도 의대에 편입하면 본과 1학년이다.&lt;br&gt;&lt;br&gt;현재 모든 의대들이 발생한 결원만큼 모두 편입으로 뽑을 수 있는 건 아니다. 대학의 편입생 인원은 교육부 규정에 따라 정해진다. 교육부는 4대 요건(부지 면적, 건물, 교수, 수익용 재산)을 따져 대학을 1~6등급으로 나누고 등급별로 편입생 인원에 차등을 주고 있다. 1등급은 결원을 전원 충원할 수 있지만, 6등급은 15%만 뽑을 수 있다. 이에 따라 일부 대학이 “올해 의대에서 대규모 제적이 발생하면 기존 등급에 관계없이 모두 편입생으로 충원할 수 있게 규제를 완화해달라”고 교육부에 건의한 상태다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>이재명 또 재판 지연술?…법관 기피 각하 결정문 6차례 수령 안해</title>
