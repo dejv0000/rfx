@@ -13,6 +13,33 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>세탁기에 비쳐 촬영된 ‘37분의 성폭행’…범행 부인하던 20대 중형</title>
+      <link>https://www.chosun.com/national/national_general/2025/03/23/JH7ROXQH4VBIFCB5HAK444PZ5Q/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/03/23/JH7ROXQH4VBIFCB5HAK444PZ5Q/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 23 Mar 2025 04:44:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VDZIEJTKE63QO375J37JOA3HAQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원 관련 이미지. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;당초 성폭행 혐의를 강하게 부인하던 20대 남성이 범행 장면이 세탁기 플라스틱 뚜껑에 비친 것이 촬영돼 항소심에서도 중형을 선고받았다. &lt;br&gt;&lt;br&gt;23일 서울고법 춘천재판부 형사1부(이은혜 부장판사)는 성폭행, 성폭력처벌법 위반, 특수감금, 강제추행 등 혐의로 재판에 넘겨진 A(24)씨에게 징역 7년을 선고했다고 밝혔다. 아동·청소년과 장애인 관련 기관 등에 7년간 취업 제한과 7년간 위치추적 전자장치(전자발찌) 부착 명령도 내렸다.&lt;br&gt;&lt;br&gt;A씨는 지난해 3~4월 교제하던 피해자 B씨를 수차례 성폭행한 혐의로 재판에 넘겨졌다. 공소장에 따르면 A씨는 휴대전화에 여성들의 나체 사진과 성관계 영상을 촬영해 둔 사실을 들킨 뒤 결별을 통보받자 이튿날 B씨를 찾아가 장시간 감금하고 성폭행했다.&lt;br&gt;&lt;br&gt;당초 A씨는 범행을 전면 부인했고, 피해자 진술 말고는 객관적인 증거가 없는 상황이었다. 피해자는 약 39분 분량의 증거 영상을 제출했는데, 영상 속 가해자와 피해자가 나타나는 건 2분여에 불과했다.&lt;br&gt;&lt;br&gt;그러나 수사팀은 이 영상 속 세탁기 플라스틱 뚜껑에 나머지 약 37분간의 A씨 범행 장면이 비쳐 촬영된 사실을 확인하고 대검 법과학분석과에 영상 확대와 화질 개선 등 감정을 요청해 선명한 증거를 확보했다. 범행을 부인하던 A씨는 수사팀이 영상 분석 결과 등 증거를 제시하자 모두 자백했다. 특히 수사팀은 다른 여성들에 대한 A씨의 추가 범죄 사실까지 밝혀 재판에 넘겼다.&lt;br&gt;&lt;br&gt;항소심 재판부는 “피고인의 죄질이 매우 나쁘고, 수사 과정에서 줄곧 변명으로 일관해 엄중한 처벌이 불가피하다”면서도 “피고인이 당심에 이르러 각 범행을 모두 자백하면서 반성하는 모습을 보이고 있고, 이 사건 각 범행 이전까지는 아무런 처벌 전력이 없으며 당심에 이르러 피해자 한 명과 추가 합의한 점 등을 종합해 형을 정했다”고 양형 이유를 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>배달 도중 신호위반해 사망한 라이더…법원 “업무상 재해”</title>
+      <link>https://www.chosun.com/national/court_law/2025/03/23/XT46ASJUHVEPTL6I64E2L3HDWE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/03/23/XT46ASJUHVEPTL6I64E2L3HDWE/</guid>
+      <dc:creator>김나영 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 23 Mar 2025 04:32:59 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PN2FKJA7XJHIVLOA2K6VUFQYEA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 양재동에 위치한 서울가정법원·서울행정법원 청사./전기병 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;음식 배달 중 신호 위반으로 사망한 배달 기사가 업무상 재해를 당한 것이라는 법원 판단이 나왔다. 단순 부주의로 인한 것이 아니라 신속하게 배달을 하는 과정에서 발생한 사고인 만큼, 산업재해로 봐야 한다는 것이다.&lt;br&gt;&lt;br&gt;서울행정법원 행정8부(재판장 이정희)는 최근 A씨의 유가족이 “유족 급여와 장례비를 지급하라”며 근로복지공단을 상대로 낸 소송에서 원고 승소로 판단했다고 23일 밝혔다. &lt;br&gt;&lt;br&gt;2023년 9월 한 음식 배달 업체에서 근무하던 A씨는 배달할 음식을 가지러 가기 위해 교차로에서 오토바이로 주행 중이었다. 좌회전 신호로 바뀌었지만 A씨는 이를 무시한 채 직진했고, 결국 맞은편에서 좌회전하던 차량과 충돌했다. 사고 직후 A씨는 병원으로 옮겨졌으나 비장파열로 인한 저혈량성 쇼크로 이틀 후 사망했다. &lt;br&gt;&lt;br&gt;A씨의 유족들은 A씨가 재해를 당했다며 근로복지공단에 유족급여와 장례비를 청구했다. 그러나 근로복지공단이 이같은 비용 지급을 거부하자 유가족들은 소송을 냈다.&lt;br&gt;&lt;br&gt;이 사건의 쟁점은 A씨의 사망이 범죄행위(신호위반)에 의한 것인지 여부였다. 산업재해보상보험법 제37조 제2항은 ‘근로자의 범죄행위 또는 그것이 원인이 돼 발생한 사망’의 경우 업무상 재해로 인정하지 않고 있기 때문이다. 근로복지공단은 “신호위반이라는 망인의 일방적 중과실로 인해 사고가 발생했다”며 업무상 재해가 아니라는 입장이었다.&lt;br&gt;&lt;br&gt;재판부는 A씨 유가족의 손을 들어줬다. A씨가 신호를 어겨서 사고가 난 것은 맞지만, 배달 업무 과정에서 불가피하게 발생한 사고라는 것이다. 재판부는 “배달 업무 특성상 고객의 불만이 발생하지 않도록 신속하게 음식을 배달해야 할 필요성이 있었다”며 “이 사건 사고가 A씨의 신호위반이 원인이 되어 발생한 사고인 점은 인정되나, 이는 업무수행을 위한 운전 과정에서 통상 수반되는 위험의 범위 내에 있다고 보인다”고 판단했다. &lt;br&gt;&lt;br&gt;재판부는 A씨가 사고 당일에만 배달 업무 32번을 수행한 점 등을 이유로 A씨가 판단력이 저하된 상태에서 신호위반을 했을 가능성이 크다고 봤다. A씨의 사업주와 동료 배달기사들이 배달 업무가 급박하게 이루어진다는 내용의 진정서 등을 제출한 점도 고려됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>건조 특보 확대, 산불 위기경보 ‘심각’</title>
+      <link>https://www.chosun.com/national/transport-environment/2025/03/23/HW3TPVCYLBCQHD7AWPGTGTAOXY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/03/23/HW3TPVCYLBCQHD7AWPGTGTAOXY/</guid>
+      <dc:creator>김아사 기자</dc:creator>
+      <description>23일 기상청은 따뜻한 서풍이 불며 동쪽 지역을 중심으로 대기가 건조해지고 있다며 산불 예방에 각별히 유의해달라고 밝혔다.</description>
+      <pubDate>Sun, 23 Mar 2025 04:27:19 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZSJZJL4V5MSLRB2D22ZIGIMLBQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;23일 기상청은 대기가 건조해진다며 화재 관리에 각별히 유의해달라고 밝혔다/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;23일 기상청은 따뜻한 서풍이 불며 동쪽 지역을 중심으로 대기가 건조해지고 있다며 산불 예방에 각별히 유의해달라고 밝혔다.&lt;br&gt;&lt;br&gt;기상청에 따르면 이날 오전 9시를 기점으로 경북 동해안과 대구, 포항, 경주 등의 건조 주의보는 건조 경보로 변경됐다. 강원도 태백, 충북 제천·단양·영동, 전북 무주, 경북 구미·김천·상주·안동, 경남 양산·밀양·창년, 대구 등 동쪽 지역 곳곳에도 건조 주의보가 내려졌다. 기상청은 27일 전까지 강수가 예정돼 있지 않고 건조 특보가 확대될 가능성이 있다며 화재에 유의해야 한다고 했다. 산림청은 지난 22일 전국 모든 지역에 산불 위기 경보 단계를 ‘경계’와 ‘심각’으로 상향해 발령했다.&lt;br&gt;&lt;br&gt;건조한 날씨가 이어지는 건 대기를 메마르게 만든 서풍의 영향으로 꼽힌다. 남쪽의 고기압이 시계방향, 북쪽의 저기압이 반대로 회전하며 따뜻한 남서풍이 밀려들어 기온이 높아지게 되고, 기온이 상승하면서 대기가 더 건조해지는 것이다. 현재 서해안을 제외한 전국 대부분 지역의 습도는 25% 이하다.&lt;br&gt;&lt;br&gt;월요일인 24일엔 전국 대부분 지역에 순간 풍속 55㎞/h 안팎(산지 70㎞/h 안팎)의 강한 바람이 불겠다. &lt;br&gt;&lt;br&gt;아침 최저기온은 7~12도, 낮 최고기온은 14~24도로 예보됐다. 서울이 19도, 대전 22도, 광주 21도, 대구 23도, 부산 17도를 기록하겠다. 미세먼지 농도는 수도권·강원권·충청권·호남권·영남권은 ‘나쁨’ 그 밖의 권역은 ‘보통’으로 예상된다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>인천 서구 야산서 불…990㎡ 면적 산림 불에 타</title>
       <link>https://www.chosun.com/national/national_general/2025/03/23/3VZBR6XCXVE2HDHVACAL7FSGEE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/03/23/3VZBR6XCXVE2HDHVACAL7FSGEE/</guid>
@@ -944,26 +971,6 @@
       </media:content>
     </item>
     <item>
-      <title>말다툼하던 남자친구 흉기로 살해한 20대 女…‘징역 10년’ 선고 </title>
-      <link>https://www.chosun.com/national/court_law/2025/03/21/2QZEL6SB6ZA43JGLPNPMIF2ALU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/03/21/2QZEL6SB6ZA43JGLPNPMIF2ALU/</guid>
-      <dc:creator>인천=이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 21 Mar 2025 07:42:16 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JRGGFM5LCXAKBGRBF2JAHFBCCE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원 로고./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;말다툼하던 남자친구를 흉기로 찔러 살해한 20대 여성에게 중형이 선고됐다. &lt;br&gt;&lt;br&gt;인천지법 형사13부(재판장 김기풍)는 살인 혐의로 기소된 A(여‧24)씨에 대해 징역 10년을 선고했다고 21일 밝혔다. &lt;br&gt;&lt;br&gt;A씨는 지난해 11월 24일 오후 4시쯤 인천시 미추홀구 학익동의 한 오피스텔에서 함께 살던 30대 남자친구 B씨에게 흉기를 휘둘러 살해한 혐의로 기소됐다. &lt;br&gt;&lt;br&gt;A씨는 B씨와 말다툼을 벌이다 범행한 것으로 파악됐다. B씨는 119구급대에 의해 병원으로 옮겨졌으나 숨졌다. &lt;br&gt;&lt;br&gt;재판부는 “피고인의 범행 방법과 결과 등을 비춰봤을 때 죄질이 좋지 않다”며 “수사 기관 조사 당시 사실과 다른 진술을 해 범행을 숨기고자 하고, 피해자 유족과 합의하거나 용서받지 못했다”고 했다. &lt;br&gt;&lt;br&gt;이어 “늦게나마 자신의 잘못을 인정한 점, 우발적으로 범행한 점 등을 고려했다”고 양형 이유를 설명했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘의대 증원 취소해달라’ 소송, 법원서 첫 각하 판결</title>
-      <link>https://www.chosun.com/national/court_law/2025/03/21/LU6X6BV5T5E55BPBPQ6LTDRFCI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/03/21/LU6X6BV5T5E55BPBPQ6LTDRFCI/</guid>
-      <dc:creator>김은경 기자, 박혜연 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 21 Mar 2025 05:08:14 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3BH7HXINBVIRPNIFG4253PHTKQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;[서울=뉴시스] 김선웅 기자 = 21일 서울 소재 의과대학의 모습.
-
-의대생들이 정부의 의대 증원 방침에 반발해 동맹 휴학 중인 가운데 의과대학이 있는 전국 40개 대학 총장 모임 '의과대학 선진화를 위한 총장협의회'는 정당한 사유 없는 의대생들의 휴학계를 21일까지 반려하는데 합의했다. 이날 연세대·고려대·경북대 의대는 1학기 등록을 마감하며 27일 서울대, 28일 경희대 등 이달 말까지 각 대학이 제시한 복귀 시한이 이어진다. 2025.03.21. mangusta@newsis.com&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전국 의대 교수들이 의대 정원 증원 처분을 취소해달라며 제기한 소송이 21일 법원에서 각하됐다. 재판부는 의대 교수들이 이번 사건 당사자가 될 수 없다고 보고 심리하지 않고 종결했다.&lt;br&gt;&lt;br&gt;서울행정법원 행정11부(재판장 김준영)는 21일 김창수 전국의과대학교수협의회(전의교협) 회장 등 33명이 보건복지부·교육부 장관을 상대로 낸 ‘입학정원 취 증원처분 취소’ 청구 소송을 각하했다.&lt;br&gt;&lt;br&gt;이번 판단은 의료계와 수험생 등이 정부의 의대 증원 방침을 멈춰달라며 잇따라 제기한 취소 소송 가운데 나온 첫 판결이다. &lt;br&gt;&lt;br&gt;재판부는 “원고들에게 피고 교육부 장관의 입학정원 증원 배정처분의 취소를 구할 원고적격이 인정되지 않는다”고 밝혔다. 복지부 장관 증원 발표에 대해서는 “행정청의 내부적 의사결정을 대외적으로 공표한 것에 불과하다”며 “항고소송의 대상이 되는 처분으로 보기 어렵다”고 했다. 증원은 교육부의 배정에 따라 이뤄지기 때문에 복지부 발표는 소송 대상이 아니라는 뜻이다.&lt;br&gt;&lt;br&gt;지난해 2월 보건복지부는 2025학년도 전국 의과대학 입학정원을 2000명 증원한다고 발표했다. 교육부는 각 대학에서 의대 입학정원 증원 신청을 받아 증원분을 배정했다.&lt;br&gt;&lt;br&gt;의대 교수협의회를 비롯한 의료계는 이에 반발해 처분 취소 소송과 집행정지 신청 등을 동시에 제기했다. 앞서 집행정지 신청은 대법원까지 올라갔지만 재판부는 의대 교수와 전공의, 의대 입학이 확정되지 않은 수험생은 소송의 당사자가 될 수 없다고 판단해 기각·각하했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>2개월 사이 음주운전 두 번 적발 인천시의원,  ‘출석정지 30일’ 징계</title>
       <link>https://www.chosun.com/national/national_general/2025/03/21/YCRDPHK3HBHAZNONRVQR4KXOAI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/03/21/YCRDPHK3HBHAZNONRVQR4KXOAI/</guid>
@@ -971,15 +978,6 @@
       <description/>
       <pubDate>Fri, 21 Mar 2025 02:31:37 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XVI7RE5KSAQNTALKCYLUMAOCLM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;21일 '출석정지 30일' 징계가 확정된 인천시의회 신충식 의원./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2개월 사이 두 번의 음주운전이 적발된 인천시의회 무소속 신충식 의원이 21일 ‘출석정지 30일’의 징계를 받았다. &lt;br&gt;&lt;br&gt;인천시의회는 이날 오전 제301회 임시회 1차 본회의에서 ‘의원(신충식) 징계의 건’을 상정해 통과시켰다. 재석의원 32명 중 26명이 찬성했다. 반대는 4명, 기권은 2명이었다. &lt;br&gt;&lt;br&gt;정해권 인천시의회 의장은 “이번 징계안 가결로 신 의원은 30일간 출석이 정지됨을 알려드린다”며 “이번 일을 계기로 다른 의원들도 300만 인천시민의 기대에 부응할 수 있도록 최선을 다해달라”고 말했다. &lt;br&gt;&lt;br&gt;시의원 징계는 경고와 공개 사과, 출석정지 30일 이하, 제명 등 4가지로, 출석정지 30일은 3번째로 높은 징계 수위라고 인천시의회는 설명했다. &lt;br&gt;&lt;br&gt;인천시의회가 소속 의원에 대한 징계안을 확정한 건 1991년 개원 이후 처음이다. &lt;br&gt;&lt;br&gt;신 의원은 2개월 사이 두 번이나 음주운전으로 적발돼 이번 시의회 징계를 받게 됐다. &lt;br&gt;&lt;br&gt;신 의원은 지난해 12월 24일 인천 서구 자신의 아파트 지하 주차장에서 술을 마시고 운전한 혐의(도로교통법 위반)로 입건돼 지난달 검찰에 의해 기소됐다. &lt;br&gt;&lt;br&gt;신 의원은 검찰 수사가 진행되던 지난달 16일 인천 서구의 한 음식점에서 자신의 아파트 지하 주차장까지 약 3㎞를 음주운전하고, 주차된 차량을 들이받은 혐의(도로교통법 위반)로 또다시 입건돼 최근 기소됐다. &lt;br&gt;&lt;br&gt;두 번 모두 신 의원 혈중알코올농도는 면허 취소 수치에 해당하는 0.08% 이상이었던 것으로 조사됐다. 신 의원은 이날 본회의에 출석한 뒤, 자신의 징계안 심의를 앞두고 퇴장했다. &lt;br&gt;&lt;br&gt;신 의원은 최근 소속 정당이던 국민의힘을 탈당했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>이우용 삼성서울병원 암병원장, ‘암 예방의 날’ 맞아 훈장</title>
-      <link>https://www.chosun.com/national/welfare-medical/2025/03/21/HP7E3FYBPNAVLCJWPRCQNX3F7A/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/03/21/HP7E3FYBPNAVLCJWPRCQNX3F7A/</guid>
-      <dc:creator>강다은 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 21 Mar 2025 01:37:23 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VKBTLCIVOFDWFKGGKIYU2XA42A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2024년 9월 25일 서울 강남구 삼성의료원. 이우용 삼성서울병원 암병원장이 본지와 인터뷰를 갖고 있다. /김지호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘제18회 암 예방의 날’을 맞아 대장암 연구 등에 힘쓴 이우용 삼성서울병원 암병원장이 홍조 근정훈장을 받았다.&lt;br&gt;&lt;br&gt;보건복지부는 21일 서울 중구 웨스틴조선호텔에서 암 예방의 기념식을 열고 이 원장을 비롯한 암 예방·관리 유공자 98명에 포상했다.&lt;br&gt;&lt;br&gt;이 원장은 지난 36년간 꾸준한 연구 활동으로 대장암 극복을 위한 학술 발전에 기여한 공로를 인정받았다.&lt;br&gt;&lt;br&gt;다학제 진료, 암 환자 삶의 질 개선 등으로 삼성서울병원 암병원을 지난해 세계암병원 평가에서 아시아 1위, 세계 3위로 끌어올리기도 했다.&lt;br&gt;&lt;br&gt;국립암센터에 혈액암 및 조혈모세포이식 시스템을 구축한 엄현석 부속병원장, 암 검진 제도 개선과 암 환자 진료비 부담 경감 등에 기여한 김남훈 국민건강보험공단 급여상임이사는 각각 국민포장을 받았다.&lt;br&gt;&lt;br&gt;복지부에 따르면 우리나라 암 환자 수는 2022년 신규 발생 기준으로 28만2천47명이다. 암 발생률은 10만 명당 287명, 암 사망률은 10만 명당 77명으로, 미국(각각 367명, 82.3명), 영국(307.8명, 98.3명)보다 낮은 수준이라고 복지부는 설명했다.&lt;br&gt;&lt;br&gt;암 예방의 날 ‘3월 21일’엔 암 발생의 ⅓은 예방 활동 실천으로 예방이 가능하고, ⅓은 조기 진단과 치료로 완치가 가능하며, 나머지 ⅓도 적절한 치료로 완화가 가능하다는 ‘3-2-1’의 뜻이 담겼다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>경남 양산 경부고속도로서 추돌사고…1명 사망 </title>
