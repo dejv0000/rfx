@@ -13,6 +13,27 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>[속보] 명일동 싱크홀 실종자, 18시간 만에 심정지 상태로 발견</title>
+      <link>https://www.chosun.com/national/incident/2025/03/25/XEIZ3JE3CRHCFLSGX7DA2RFE6I/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/03/25/XEIZ3JE3CRHCFLSGX7DA2RFE6I/</guid>
+      <dc:creator>안준현 기자, 이민경 기자, 안태민 기자, 김병권 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 25 Mar 2025 04:02:16 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JQTX7IKZXFHEPKJSBKBLHRIZFE.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;25일 오전 서울 강동구 한영외고 앞 도로에서 대형 싱크홀이 발생하면서 소방과 경찰이 주변을 통제하고 있다. /장련성 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;​지난 24일 오후 서울 강동구 명일동 한영외고 앞 도로에서 발생한 싱크홀(땅꺼짐)로 추락한 남성 박모(34)씨가 심정지 상태로 발견됐다. 싱크홀 발생 18시간 만이다.&lt;br&gt;&lt;br&gt;소방 당국은 25일 브리핑을 열고 “이날 오전 11시 22분쯤 실종자를 발견했고, 오후 12시 36분쯤 구조를 완료했다”고 했다. 이어 “호흡과 의식이 없는 심정지 상태로 발견됐다”고 밝혔다. 박씨는 현재 인근 병원으로 이송됐다.&lt;br&gt;&lt;br&gt;박씨는 싱크홀 발생 지점으로부터 고덕동 방향 약 50m 떨어진 곳에서 발견됐다. 박씨는 24일 오후 6시 29분쯤 오토바이를 타고 이곳을 지나가다 싱크홀에 추락했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EL6VCCAJPZHANIMUBGORRBLXQY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;25일 오전 서울 강동구 한영외고 앞 도로에서 대형 싱크홀이 발생하면서 소방과 경찰이 주변을 통제하고 있다. /장련성 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;소방 당국은 싱크홀 발생 후 하수도에서 나오는 물과 뒤섞인 흙으로 인해 사건 초기 구조 작업에 어려움을 겪었다. 어젯밤 두 차례 내부 진입을 시도했으나 실패했고, 흐르는 물을 멈추고 배수한 뒤 중장비를 이용해 진입에 성공했다.&lt;br&gt;&lt;br&gt;25일 새벽 실종자의 휴대전화와 오토바이는 발견됐으나 실종자는 발견되지 않았다. 그러나 싱크홀 발생 16시간 만에 18m 지하 흙더미에서 실종자를 발견했다.&lt;br&gt;&lt;br&gt;소방 당국은 실종자가 발견되면서 24일 오후 6시 43분에 내렸던 소방 대응 1단계를 25일 오후 12시 41분 해제했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/JQTX7IKZXFHEPKJSBKBLHRIZFE.JPG?width=5346&amp;height=3007&amp;auth=9cbad3d4fefe93bdb3a1f7259e39d0ac5ee4c37c6399021f0471f17c4eb92de3&amp;smart=true" type="image/jpeg" height="3007" width="5346">
+        <media:description type="plain">2025년 3월 25일 오전 서울 강동구 대명초교입구 교차로 인근에서 대형 싱크홀이 발생하면서 소방과 경찰이 주변을 통제하고 있다. /장련성 기자</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>검찰, 문다혜 뇌물 수수 피의자 전환... 타이이스타젯 특혜 취업 의혹</title>
+      <link>https://www.chosun.com/national/court_law/2025/03/25/MUWBOHGQK5HCZNI32KWLGUTOBQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/03/25/MUWBOHGQK5HCZNI32KWLGUTOBQ/</guid>
+      <dc:creator>전주=김정엽 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 25 Mar 2025 04:05:14 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/76IDTRGCCZ5VM3CTOZREA73LOY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;'음주운전 혐의'를 받는 문재인 전 대통령의 딸 문다혜 씨가 지난해 10월 18일 오후 서울 용산구 용산경찰서에 피의자 신분으로 출석하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;문재인 전 대통령의 전 사위 서모씨의 ‘타이이스타젯 특혜 채용’ 의혹을 수사중인 검찰이 문 전 대통령의 딸 다혜씨를 뇌물수수 혐의로 최근 입건한 것으로 확인됐다. &lt;br&gt;&lt;br&gt;전주지검은 25일 “지난해 시민단체가 서울 종로경찰서에 다혜씨에 대한 뇌물수수 관련 고발장을 제출했는데, 지난달 이 사건을 이송받았다”고 밝혔다. 고발장에는 서씨가 타이이스타젯에 임원으로 특혜 취업해 다혜씨가 이로 인한 이익을 봤기 때문에 뇌물수수 공모 관계가 성립한다는 내용 등이 담겼다고 한다. &lt;br&gt;&lt;br&gt;앞서 다혜씨는 이 사건과 관련해 참고인 신분으로 조사를 받았는데, 이제는 피의자 신분으로 조사를 받아야 한다. 다혜씨는 그동안 검찰 소환 조사에 불응한 데 이어 검찰의 출장·유선 조사도 거부해왔다. &lt;br&gt;&lt;br&gt;검찰은 지난해 다혜씨의 자택 등을 압수수색하면서 문 전 대통령을 ‘뇌물 수수 등 피의자’라고 적시한 것으로 알려졌다. 뇌물 액수는 서씨가 2018년 7월~2020년 4월 이상직 전 민주당 의원이 실소유한 태국 항공사 타이이스타젯에 임원으로 취업해 받은 급여와 체류비 등 2억2300여 만원으로 특정했다고 한다. 문 전 대통령 부부가 딸 부부의 생계비 일부를 부담해왔는데, 서씨의 취업으로 이런 문제가 해결된 만큼 타이이스타젯 채용 자체가 문 전 대통령에 대한 직접 이익이 된다는 취지다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>동물 학대해 죽이면 최대 징역 3년, 직장 내 성범죄 양형기준도 신설</title>
       <link>https://www.chosun.com/national/court_law/2025/03/25/A7K2WBP7J5AWFIFWLPUJXEODSY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/03/25/A7K2WBP7J5AWFIFWLPUJXEODSY/</guid>
@@ -86,15 +107,6 @@
       <description/>
       <pubDate>Tue, 25 Mar 2025 02:54:38 +0000</pubDate>
       <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NEB72YMFAVHRJKGS7DXJM5DJ5A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원 로고. /조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;온라인상에서 유명 아이돌 그룹의 콘서트 티켓과 사인 등을 받아준다고 속여 피해자들로부터 2400만원을 받아 가로챈 30대에게 실형이 선고됐다.&lt;br&gt;&lt;br&gt;25일 법조계에 따르면, 대전지법 형사 8단독 이미나 부장판사는 사기 혐의로 기소된 A(30)씨에게 징역 6개월을 선고했다.&lt;br&gt;&lt;br&gt;A씨는 2023년 11월 13일부터 2024년 3월 1일까지 온라인 커뮤니티에서 아이돌 그룹 엔하이픈·NCT 등의 콘서트와 롤드컵 결승전 티켓 등을 판다고 속여 피해자 6명으로부터 모두 2400여만원을 가로챈 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;그는 콘서트에 관심을 보이는 피해자와 계속 연락하며 ‘가수 사인 대금’ 명목으로 추가 비용을 입금받거나 환불을 원하는 피해자에게는 처리비용이 든다며 각각 25만∼45만원의 수수료로 더 받아 챙겼지만, 그는 공연 관계자도 아니었고 티켓을 보유하지도 않았던 것으로 조사됐다.&lt;br&gt;&lt;br&gt;A씨는 인터넷 사기 범행으로 기소돼 2003년 9월 26일 500만원의 벌금형을 확정받았음에도 2개월도 안 돼 이 같은 범행을 되풀이한 것으로 확인됐다.&lt;br&gt;&lt;br&gt;이 부장판사는 “반성하지 않고 또다시 같은 범행을 저질러 죄질이 매우 불량하다”며 “피해자 1명을 제외한 나머지 피해자들에게 피해금을 전부 변제하지도 못했다”고 실형 선고 이유를 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“딸이 숨을 안 쉰다!” 외침에 뛰어나간 경찰…응급조치로 심정지 20대 살렸다</title>
-      <link>https://www.chosun.com/national/national_general/2025/03/25/NDSCET2XJRCYTBNZTW6SJDXLFE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/03/25/NDSCET2XJRCYTBNZTW6SJDXLFE/</guid>
-      <dc:creator>김명일 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 25 Mar 2025 02:51:57 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GLGEH6CQM4RB3ZVIZQHOBHSGFA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기 성남위례파출소 배연운 경장이 A씨를 상대로 심폐소생술을 하는 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘딸이 갑자기 의식을 잃었다’며 아버지가 파출소로 데려온 심정지 상태의 20대 여성을 경찰관들이 응급처치로 구한 사연이 뒤늦게 알려졌다. &lt;br&gt;&lt;br&gt;25일 경기남부경찰청에 따르면 지난 1월 5일 오후 9시 45분쯤 경기 성남시 성남위례파출소에 한 중년 남성이 달려와 “딸이 숨을 쉬지 않는다”며 다급한 목소리로 도움을 요청했다.&lt;br&gt;&lt;br&gt;당시 근무 중이던 배연운 경장과 동료 경찰관들은 남성의 안내에 따라 파출소 주차장으로 달려갔다. 남성의 차량 보조석에는 20대 여성 A씨가 의식을 잃은 채 앉아 있었다.&lt;br&gt;&lt;br&gt;경찰관들은 A씨가 심정지 상태임을 확인하고 곧장 파출소 안으로 옮겼다. 이후 배 경장은 A씨에게 심폐소생술(CPR)을 실시했고 동료 경찰관은 119 구급대에 도움을 요청했다.&lt;br&gt;&lt;br&gt;배 경장이 CPR을 이어간 지 1분여 만에 A씨는 호흡을 회복했다. 다만 의식은 돌아오지 않았다. 경찰관들은 119 구급대가 도착하기 전까지 약 10분간 A씨에게 말을 걸며 팔과 다리를 끊임없이 주물렀다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AU6MHBN7BVTFZGC62LXGJG6J3M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기 성남위례파출소 배연운 경장. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰관들의 노력 덕분에 A씨는 곧 의식을 되찾았고, 119 구급대가 현장에 도착했을 때는 특별한 이상 징후가 없는 상태였다. A씨는 병원으로 이송돼 기본적인 검사를 마친 뒤 건강하게 귀가했다.&lt;br&gt;&lt;br&gt;A씨는 평소 자율신경계 질환인 기립성 빈맥 증후군(혈액이 심장으로 충분히 공급되지 않아 어지럼증과 실신을 유발하는 증상)을 앓고 있었다고 한다.&lt;br&gt;&lt;br&gt;사고 당일에는 부모님이 운영하는 카페에서 일하다 갑자기 몸을 가누지 못하는 증상이 나타나 아버지의 차량으로 귀가하고 있던 중이었다.&lt;br&gt;&lt;br&gt;경기남부경찰청은 경찰의 활동을 알리기 위해 이달부터 다양한 현장 사례를 콘텐츠로 제작해 공유하는 ‘나는 경찰’ 프로젝트를 시작했는데 성남위례파출소 사례를 첫 사례로 선정했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>“딸이 숨을 안 쉰다!” 외침에 뛰어나간 경찰…응급조치로 심정지 20대 살렸다</title>
@@ -925,15 +937,6 @@
       <description/>
       <pubDate>Sun, 23 Mar 2025 20:08:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZPZIWIOIGFAFDM4SWCUAYQQ5AQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;23일 서울 광화문광장에서 외국인 관광객들이 반팔 티셔츠를 입고 걸어가고 있다. 이날 경북 구미의 한낮 기온이 28.5도까지 오르는 등 전국 곳곳에서 3월 역대 최고 기록이 나왔다. 서울의 낮 최고 기온은 24도로 역대 3월 최고 기온 중 둘째로 높았다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>의대 정상화, 이번주 20곳 등록 여부에 달렸다</title>
-      <link>https://www.chosun.com/national/education/2025/03/24/Y7VBOCVLJNGKBJIFLIB2ESWNJI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2025/03/24/Y7VBOCVLJNGKBJIFLIB2ESWNJI/</guid>
-      <dc:creator>김민기 기자, 정해민 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 23 Mar 2025 16:19:43 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/E5HZLDGW6BGZHMONC4OEM42FA4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울대·가톨릭대를 포함해 전국 40개 의대 가운데 20곳이 앞으로 1주일 동안 등록을 마감하기로 하면서 의대생 복귀 여부를 가를 분수령이 될 전망이다. 23일 서울의 한 의과대학 입구로 걸어 들어가는 학생들의 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;연세대와 고려대 등 의대 5곳에서 지난 21일 1학기 등록을 마감한 가운데 서울대·가톨릭대 등 추가로 20곳 의대가 정한 의대생 복귀 시한이 앞으로 1주일 안에 돌아온다. 교육계에서는 “이번 주가 올해 의대 교육이 정상적으로 이뤄질지를 결정할 분수령”이라고 했다. 이런 가운데 미등록 학생에게는 제적 예정 통지서가 발송되는 등 강경 대응 기조도 이어지고 있다.&lt;br&gt;&lt;br&gt;의대가 있는 전국 40개 대학 총장들의 모임인 ‘의과대학 선진화를 위한 총장협의회(의총협)’는 전국 40개 의대 중 35곳이 학생 휴학계 반려를 완료했다고 22일 밝혔다. 나머지 5곳도 조만간 휴학계를 반려할 예정이다. 의총협은 지난 19일 회의를 갖고 “올해는 휴학을 승인하지 않겠다”고 밝힌 바 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PZ5ILUNZTJFADIEQUSVYEH5WDU.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=송윤혜&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;의대생들이 돌아와야 하는 ‘복귀 데드라인’이 속속 다가오고 있다. 24일엔 건양대가 등록을 마감한다. 서울대·이화여대·부산대·동국대 4곳은 27일을 데드라인으로 정했고, 경희대·인하대·전남대·조선대·충남대·강원대·가톨릭대 7곳은 28일까지 복귀 신청을 받는다. 경상국립대도 변동 가능성이 있으나 일단 28일을 마감일로 정한 것으로 알려졌다. 을지대는 30일, 가톨릭관동대·건국대·단국대·아주대·충북대·한양대 6곳은 31일 마감 예정이다. 향후 1주일 동안 20곳의 학생 복귀 여부가 결정되는 것이다. 지난 21일 이미 마감을 한 5곳(연세대·연세대원주·고려대·경북대·차의과대)을 더하면 총 25곳이다. 이 외 대학들은 마감일을 언제로 할지 조정 중이다.&lt;br&gt;&lt;br&gt;이미 복귀 마감을 한 대학에서 예상보다 많은 학생이 복귀 의사를 밝히며, 대학가에선 ‘다른 의대에서도 학생 복귀가 이어지고 교육 정상화가 가능할 것’이란 기대가 커지고 있다. 앞서 연세대와 고려대에서 학생 절반가량이 등록 신청을 한 것으로 파악됐다. ‘의료계 단일 대오’가 깨지고 있다는 신호에 복학 마감을 앞둔 다른 대학들도 영향을 받을 것이란 전망이 나온다. 반면 의대생 단체인 대한의과대학·의학전문대학원학생협회(의대협)는 각 대학들이 확인한 ‘절반 복귀’ 입장과는 달리 “80~90%대의 학생들이 등록하지 않은 것으로 내부적으로 파악하고 있다”고 했다. &lt;br&gt;&lt;br&gt;일부 수업 거부 흐름도 나타나고 있다. 23일 교육부에 따르면, 고려대 의대 학생 단체 소속 학생들은 지난 22일 의대생들이 모인 카카오톡 단체 대화방에서 ‘등록금 미납 실명 인증’을 요구하는 글을 올렸다. 교육부는 이 같은 ‘실명 인증 요구’가 복학 원서 제출을 방해하는 것이라 보고 경찰에 수사 의뢰를 했다. 지난 21일 등록금 납부를 마감한 고려대는 26일까지는 복학 원서를 제출해야 한다고 안내한 상태다. &lt;br&gt;&lt;br&gt;학생들이 등록만 하고 실제 수업엔 나오지 않을 가능성도 있다. 교육부는 이달 말일까지 대학들 복귀 신청 현황과 실제 수업 참여 여부를 살피겠다는 방침이다. 교육부는 앞서 의대생 복귀 시 2026학년도 의대 모집 인원을 증원 전인 3058명으로 하겠다고 밝혔다. 이 과정에서 정부는 ‘100% 복귀’보다는 ‘정상적인 수업 여부’를 더 따지겠다는 방침으로 알려졌다. 복귀 신청을 한 의대생들이 실제 수업에 출석할지가 관건이다.&lt;br&gt;&lt;br&gt;정부와 대학은 ‘수업 거부 시 강경 대응’이란 기조엔 변함이 없다는 입장이다. 21일 등록 마감한 5개 의대에서 미등록한 학생에 대한 ‘제적 예정 통지서’는 24일 발송될 예정이다. 교육부 관계자는 “미등록 학생을 위해 추가 등록 기간을 열어주는 등의 ‘구제 방안’은 없다”고 했다. 향후 발생하는 의대 수업 방해 행위에 대해서도 엄격히 대응하고 수사 의뢰를 한다는 방침이다.&lt;br&gt;&lt;br&gt;다만 의대생들 가운데 “제적이 걱정돼 등록을 택했다”면서도 불만을 나타내는 이도 많다. 수도권 의대 본과 3학년 A씨는 “최근 들어서는 의대 학장들까지 학생들에게 ‘총구’를 겨누는 것 같아 서운하다”고 했다. ‘의료 정책에 대한 정부의 발표가 바뀌며 혼선이 생기는데 책임은 아무도 지지 않는다’는 불만도 나온다. 정부는 지난해 수련을 거친 의사에게만 개원 권한을 부여하는 ‘개원 면허제’ 도입을 검토한다고 밝힌 바 있는데, 최근 들어선 “개원 면허제는 검토하고 있지 않다”고 했다. 의대협은 앞서 대정부 요구안에서 “정부는 의료 정책을 졸속 추진하여 발생한 현 사안의 책임을 시인하고 국민에게 사과하라”고 했었다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>회사 괜히 그만뒀나… 자영업자 절반 최저임금도 못 벌어</title>
