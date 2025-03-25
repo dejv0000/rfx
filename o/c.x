@@ -13,6 +13,136 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>낙동강물 퍼다 뿌렸다...불길 밀려오는 하회마을 방어전</title>
+      <link>https://www.chosun.com/national/incident/2025/03/25/QLG6KVPKPRAERFKHXHVMUITGLA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/03/25/QLG6KVPKPRAERFKHXHVMUITGLA/</guid>
+      <dc:creator>허윤희 기자, 안동=이승규 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 25 Mar 2025 13:57:47 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EV7J4XQAWFBYNHQJJD4FMYF45M.gif"&gt;&lt;figcaption&gt;&lt;small&gt;중앙고속도로 남안동IC 주변 &amp;lt;독자제공&amp;gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 22일 경북 의성에서 시작된 산불이 바람을 타고 안동, 청송 등으로 번지면서 국가유산 보호에 비상이 걸렸다. 안동에는 봉정사 대웅전 등 국보 5건과 보물 49건이 있다.&lt;br&gt;&lt;br&gt;25일 오후 의성군의 ‘천년 고찰’ 고운사가 전소됐다. 유네스코 세계문화유산인 안동 하회마을과 병산서원도 불에 탈 위기에 놓였다. 소방 당국은 병산서원 등에 물을 뿌리며 방어에 나섰다. 국가유산청은 이날 국가유산 재난 위기 경보 중 최고 단계인 ‘심각’을 발령했다. 심각 경보가 발령된 건 처음이다. &lt;br&gt;&lt;br&gt;◇의성 ‘고운사’ 전소&lt;br&gt;&lt;br&gt;산림 당국 등에 따르면 이날 오후 4시 50분쯤 의성군 단촌면의 사찰인 고운사에 산불이 덮쳐 완전히 불탔다. 승려 등 20여 명은 안동 서후면의 봉정사로 대피해 인명 피해는 없었다. 고운사 도륜 스님은 “(산불로) 전각이 남아있는 게 하나도 없다”고 했다. &lt;br&gt;&lt;br&gt;고운사는 대한불교조계종 제16교구의 본사(本寺)로 신라 신문왕 때인 681년 의상대사가 창건한 것으로 알려졌다. 신라 학자인 최치원이 이곳에 머물며 가운루와 우화루 등 누각을 지었다. 고운사라는 이름도 최치원의 자(字)인 ‘고운(孤雲)’에서 딴 것이다. 보물인 석조여래좌상과 가운루 등 국가유산이 있다. &lt;br&gt;&lt;br&gt;경북도는 전날 소방차를 동원해 고운사 주변에 물을 뿌렸지만 강풍을 타고 넘어온 산불을 막지는 못했다. 고운사의 보물 3점 중 석조여래좌상은 인근 안동청소년문화센터로 옮겨 화를 면했지만 연수전과 가운루는 전소됐다. 의성군에서는 지난 22일 안평면의 사찰인 운람사도 불에 탔다.&lt;br&gt;&lt;br&gt;이날 드라마 ‘미스터 션샤인’ 촬영지로 유명해진 안동 길안면의 만휴정도 불탔다.&lt;br&gt;&lt;br&gt;◇하회마을과 병산서원도 위기&lt;br&gt;&lt;br&gt;이날 오후 산불은 남풍을 타고 북진했다. 안동시 풍천면의 유네스코 세계문화유산인 하회마을과 병산서원에서도 소방 당국이 만일의 사태에 대비하고 있지만 언제 불길이 덮칠지 알 수 없는 상황이다. 불은 이날 오후 10시 기준 하회마을에서 8km 떨어진 곳까지 접근했다.&lt;br&gt;&lt;br&gt;경북소방본부는 소방헬기를 동원해 낙동강 물을 퍼서 하회마을과 병산서원에 뿌렸다. 소방차도 하회마을에 5대, 병산서원에 4대 배치했다. 누구나 불을 끌 수 있게 마을 안에 있는 소화전 30곳도 전부 열어놨다.&lt;br&gt;&lt;br&gt;안동시는 오후 5시쯤 하회마을 주민들에게 ‘저우리 마을로 대피 바란다’는 긴급재난문자를 보냈다. 소방 당국은 하회마을과 병산서원 주변에 화재 지연제 등을 뿌렸다. 하회마을 주민들도 나서서 초가 지붕에 물을 뿌렸다. 주민 류상익(47)씨는 “언제 불길이 닥칠지 몰라 손발이 다 떨린다”고 했다.&lt;br&gt;&lt;br&gt;하회마을은 풍산 류씨(豊山 柳氏)가 모여 사는 집성촌이다. 낙동강이 마을을 둘러싸고 흐른다. 2010년 유네스코 세계유산이 됐다. 마을 곳곳에 사당, 정자 등 문화유산이 있다.&lt;br&gt;&lt;br&gt;풍산 류씨의 종가인 양진당과 서애 류성룡의 생가인 충효당은 보물로 지정됐다. 중요민속자료로 지정된 건축물도 9곳 있다. 1999년 영국 여왕 엘리자베스 2세가 국빈 방문해 주목을 받았고, 20년 후인 2019년 엘리자베스 2세 여왕의 아들인 앤드루 왕자도 방문했다. &lt;br&gt;&lt;br&gt;병산서원은 서애 류성룡의 학문과 업적을 기리기 위해 세운 서원이다. ‘한국에서 가장 아름다운 서원’ ‘자연과 사람이 어우러진 서원 건축의 백미’로 꼽힌다. 2019년 유네스코 세계유산에 올랐다. 병산서원 만대루(晩對樓)가 보물로 지정됐다.&lt;br&gt;&lt;br&gt;우리나라에서 가장 오래된 목조건축물인 안동 봉정사도 위험한 상황이다. 국보 극락전과 대웅전 등을 보유하고 있는 사찰이다. 2018년 유네스코 세계유산에 등재됐다.&lt;br&gt;&lt;br&gt;이날 청송군에도 산불이 번지면서 주왕산 국립공원 안에 있는 대전사도 위태롭게 됐다. 대전사는 의상대사가 창건한 사찰로 보물 보광전 등 문화유산이 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/EV7J4XQAWFBYNHQJJD4FMYF45M.gif?width=685&amp;height=381&amp;auth=bf18985fa2a3cf5f9830270296e40fb9a0be657d026f737316ded89b7fe70b8b&amp;smart=true" type="image/jpeg" height="381" width="685">
+        <media:description type="plain">중앙고속도로 남안동IC 주변 &amp;lt;독자제공&amp;gt;</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>[단독] 안동·청송으로 번진 산불... 재소자 3500명 대피 결정 </title>
+      <link>https://www.chosun.com/national/court_law/2025/03/25/CMXVWHTFHNEERCGXGBXQURRXMQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/03/25/CMXVWHTFHNEERCGXGBXQURRXMQ/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 25 Mar 2025 10:35:16 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2RSKDAK5PRJ5HMTJF3OQQQTZSU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경북 의성 산불이 청송군으로 확산된 25일 경북 청송군 청송문화예술회관에서 바라본 산이 불타고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경북 의성군에서 시작한 산불이 25일 청송군까지 번지자, 법무부 교정본부에서 경북북부교도소(옛 청송교도소)에 있는 재소자들을 대피시키기로 결정한 것으로 확인됐다. 교정본부는 산불이 안동시로도 번진 점을 감안해, 안동교도소 재소자들도 함께 대피시키기로 결정했다고 이날 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/M2G4HY6OXYPXDU555VFNM6U64E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;청송 군청 바로 뒤까지 온 산불./독자 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 교정 당국은 경북북부제1~3교도소, 경북직업훈련교도소, 안동교도소의 재소자들의 이송 절차에 착수했다. 대피해야 할 재소자는 경북북부교도소 2700여 명, 안동교도소 800여 명이다. 이동 차량이 마련되는 대로 대피를 시작할 방침이다. 한 교정본부 관계자는 “경북북부교도소 인근까지 산불이 번진 상태”라며 “빠르게 준비를 마치고 재소자들을 이동시킬 계획”이라고 했다. 재소자들은 대구지방교정청 산하 13개 수감시설로 대피하게 된다.&lt;br&gt;&lt;br&gt;앞서 청송군은 이날 오후 5시 44분쯤 안전안내문자를 통해 “산불이 확산함에 따라 전 군민은 산불과 멀리 떨어져 안전한 곳으로 대피하길 바란다”고 알렸다. 안동시는 이날 오후 5시 “관내 산불이 우리 시 전역으로 확산하고 있으니 전 시민은 안전한 곳으로 대피하라”고 안내했고, 5시 5분에도 “관내 전역으로 산불이 확산 중”이라며 “전 시민은 안전한 곳으로 대피하고 먼저 대피하신 분들은 안전한 곳에 머물러 달라”고 요청했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6HKG2AD4X5CXLBQJP337QZHFY4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경북 청송군 진보면 경북 북부 제2교도소(옛 청송교도소) 전경./조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;청송군은 앞서 불이 군 경계인 5~6km까지 다가오자 청송국민체육센터 등 총 23곳에 대피소를 마련하고 만일의 사태에 대비해 주민 대피용 대형 버스 3대를 군청에 대기시켰다. 또 거동이 불편한 노인복지시설 입소자 299명은 버스 30대로 청송의료원 등 8곳으로 이송시킬 준비를 마쳤다. 청송군 관계자는 “산불 확산에 대비해 산불 전문 예방 진화대 60명 등 총 360명을 현장에 투입할 준비를 하는 한편 유관 부서와 24시간 연락 체계를 유지하고 있다”고 했다. &lt;br&gt;&lt;br&gt;한편, 안동시 풍산면에는 세계문화유산인 안동 하회마을이 있는데 근방 10㎞까지 화마가 번진 상태다. 이 밖에도 국립경국대(옛 안동대) 인근까지 불이 번졌다고 한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SFNRR27UPJOFHMMM43ZAKMIF34.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;25일 경북 안동 하회마을에서 소방관이 산불에 대비해 물을 뿌리고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/C3PYTN6HQZAGRN7WSIXZKIZ7HU.gif?width=500&amp;height=327&amp;auth=129c41fb4f7cd95c3dbd83a27fc925077412e7951f6cc7fc3b9237b56a8d17a4&amp;smart=true" type="image/jpeg" height="327" width="500">
+        <media:description type="plain">경북 의성군 산불 발생 나흘째인 25일 산불이 안동시 남후면 광음리 마을 인근까지 번지고 있다. /연합뉴스, 뉴스1, 뉴시스</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>“마을이 다 타고 있다, 도와달라”…안동 주민 눈물에 후원금 이어져</title>
+      <link>https://www.chosun.com/national/national_general/2025/03/25/OFQKNSAO2NCU3GO4YMWG5WLTLM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/03/25/OFQKNSAO2NCU3GO4YMWG5WLTLM/</guid>
+      <dc:creator>정아임 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 25 Mar 2025 13:46:33 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/O7ZOMJAFVRHJVPUN5XW6NTHZRI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;안동시 길안면 새마을지도자협의회 정근수 회장이 영상을 통해 화재로 인한 급박한 상황을 알리고 있다./SOOP&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;안동 산불 현장을 찾은 한 유튜버의 실시간 방송을 통해 피해 주민의 목소리가 전해지자, 시청자들의 후원금이 이어졌다. &lt;br&gt;&lt;br&gt;25일 유튜브 채널 ‘무대뽀조성근’을 운영하는 A씨는 안동 산불 현장에서 인터넷 방송 플랫폼 SOOP(숲·구 아프리카TV)을 통해 라이브 방송을 진행했다. &lt;br&gt;&lt;br&gt;영상에는 안동시 길안면 새마을지도자협의회 정근수 회장이 등장해 급박한 상황을 알렸다. 정 회장은 “지금 물품들이 너무 부족해서 좀 염치없지만 도와주십시오”라며 “식사라든지 모든 것이 부족하다”고 말했다. 이어 “하루 한 끼에 700인분 정도가 필요한데 만약에 이게 장기전으로 가면 27일부터는 준비할 능력이나 인원이 부족하다”고 한 뒤 눈물을 흘렸다. &lt;br&gt;&lt;br&gt;정 회장은 “정말 절실하게, 절실하게 부탁 좀 드린다”며 “좀 도와주십시오. 주민들이 다 죽어가고 있고 마을이 다 타고 있다. 좀 도와주십시오. 정말로, 정말로 부탁드린다. 어렵지만 좀 도와주십시오. 저희도 최선을 다하고 있지만 그게 안 된다”고 했다.&lt;br&gt;&lt;br&gt;정 회장의 모습을 실시간으로 지켜본 시청자들은 계속해서 별풍선으로 후원금을 보냈다. 25일 오후 3시 기준 약 200만원이 모인 것으로 알려졌다. A씨는 후원금 전액은 길안면 소방본부의 소방대원 및 공무원들의 저녁 식사비로 후원된다고 밝혔다. &lt;br&gt;&lt;br&gt;해당 영상은 여러 온라인 커뮤니티에도 널리 공유됐다. 이를 본 네티즌들은 “울컥하신 거 너무 마음 아프다” “비가 좀 왔으면 좋겠다” “현장에 갈 수는 없지만 조금이라도 후원하겠다” 등의 반응을 보였다. &lt;br&gt;&lt;br&gt;한편 지난 22일 경북 의성에서 시작한 산불은 강풍을 타고 안동·청송·영양·영덕 등으로 확산하고 있다. 산림청은 25일 전국에 산불 재난 국가 위기 경보 최고 수준인 ‘심각’ 단계를 발령했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“배달 헬맷에 탈모 올 만큼 열심히 산 효자”… 싱크홀 희생자 유족 오열</title>
+      <link>https://www.chosun.com/national/national_general/2025/03/25/XL3KD333MFB4XMAJBRL5WMKNXI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/03/25/XL3KD333MFB4XMAJBRL5WMKNXI/</guid>
+      <dc:creator>이민경 기자, 안태민 기자, 안준현 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 25 Mar 2025 12:30:57 +0000</pubDate>
+      <content:encoded>지난 24일 오후 서울 강동구 명일동 한영외고 앞 도로에서 발생한 싱크홀(땅꺼짐)로 참변을 당한 오토바이 운전자 박모(34)씨는 배달 일을 위해 쓴 헬멧에 머리가 눌려 탈모가 올 만큼 열심히 사는 청년이었다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IFFJW4X4JCX3ZRU5SSZQOTOBHY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;25일 서울 강동구 대명초등학교 인근 사거리에서 발생한 대형 싱크홀(땅 꺼짐) 사고로 매몰된 30대 오토바이 운전자의 유가족이 소방대원들의 부축을 받으며 이동하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;25일 오후 서울 강동구 중앙보훈병원 장례식장에 차려진 박씨의 빈소를 찾은 이미정(62)씨는 “너무 일찍 철이 든 효자였다”며 고인을 회상했다. 이씨는 고인의 어머니와 40년 지기 친구다.&lt;br&gt;&lt;br&gt;“몇 년 전 아버지를 여의고 집안 가장이 됐어요.” 이씨는 고인을 생각하며 이같이 말했다. 20대 시절 아버지를 잃고 갑작스레 집안 가장이 됐다. 사업을 크게 하셨던 아버지가 건강이 악화되면서 고인은 사업 인수인계를 받았다. 그런데 인수인계 한 달 만에 아버지가 세상을 떠났다. 이씨는 “곱게 자란 예쁜 아이가 사업을 물려받으면서 너무 힘들어했다”고 말했다.&lt;br&gt;&lt;br&gt;물려받은 사업은 순탄치 않았다. 사업이 어려워지고 빚이 생기자 배달 플랫폼 ‘배달의민족’ 라이더 일을 시작했다. 사업 일을 하면서 남은 시간에는 오토바이 배달을 하며 가정의 생계를 이어 나간 것이다. 고인은 소문난 효자이기도 했다. 이씨는 “(고인) 엄마가 아들 고생한다고 어디를 가지 못했다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TPNFNMYPHVB4DJJYHFVXV2BDMY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;25일 오전 서울 강동구 한영외고 교차로 인근에서 대형 싱크홀이 발생하면서 소방과 경찰이 주변을 통제하고 있다. /장련성 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;고인은 이발 비용을 아끼려 여동생과 어머니에게 직접 이발을 부탁할 만큼 생활력도 강한 편이었다. 이씨는 “친구가 며칠 전에 아들 머리를 목욕탕에서 깎아줬다고 했다”며 “맨날 헬멧을 써서 머리가 다 빠졌다고 하더라. 그 정도로 열심히 산 애가 이렇게 되다니”라며 말을 잇지 못했다.&lt;br&gt;&lt;br&gt;이씨는 고인이 최근 오토바이가 고장 나 배달 일을 못했다고 했다. 타던 오토바이가 고장 나 수리에만 1주일이 걸렸다. 이어 이씨는 “어제 뉴스를 보고 있는데 명일동에서 오토바이 추락이라고 해 설마 친구 아들일까 걱정했는데, 오토바이 수리를 맡겼다고 들어서 안심했었다”며 “사고 전날 오토바이 수리가 끝나서 오토바이를 받은 길에 사고가 났다더라. 이게 무슨 일이냐”고 했다. &lt;br&gt;&lt;br&gt;고인은 사고가 난 당일도 배달 일을 하다 변을 당한 것으로 알려졌다. 배달의민족 측은 “고인이 배민 커넥터로 등록해 활동한 게 맞는다”며 “조문 및 유족의 심리 상담, 법률 상담, 산재 보험 등 필요 사항을 적극 지원할 계획”이라고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LQQBLDXCXBD75L4HW3G2MZ2W44.png"&gt;&lt;figcaption&gt;&lt;small&gt;24일 서울 강동구 명일동 한영외고 앞 도로에서 발생한 싱크홀에 오토바이가 그대로 추락하는 모습 /더불어민주당 양부남 의원실&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;◇“자기 힘든 얘기 하나도 안 하는 묵묵한 우리 조카…" &lt;/b&gt;&lt;br&gt;&lt;br&gt;고인의 외삼촌인 안정환(56)씨는 그저 환하게 웃고 있는 조카의 영정 사진만을 바라봤다. 안씨는 “자기 힘든 얘기는 안 하고 묵묵히 일만 하던 착한 아이였다”고 했다. 이어 “최근에 돈을 받을 게 있어 소송 중인 게 있었고, 사업에 배달까지 투잡을 뛰다 보니 많이 힘들어했지만 내색하지 않았다”고 했다.&lt;br&gt;&lt;br&gt;그러면서 “자기는 30이 넘었지만 결혼도 안 하고, 어머니를 모시고 살면서 여동생은 결혼시킨 오빠였다”며 “할머니에게도 늘 잘하고, 집안 모든 어른에게 예의 바른 조카”였다고 했다. 안씨는 연신 “우리 착한 조카”를 읊으며 현실이 현실이 아닌 것처럼 허공을 봤다.&lt;br&gt;&lt;br&gt;고인은 지난 24일 서울 강동구 명일동 한영외고 앞에서 발생한 싱크홀에 오토바이와 추락했다. 다음 날인 25일 오전 소방에 의해 심정지 상태로 발견됐고, 이어 중앙보훈병원으로 이송돼 사망 판정을 받았다. 고인의 발인은 28일 오전 6시 30분, 장지는 분당추모공원이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>트랙터 끌고 온 전농, 남태령서 경찰과 10시간 넘게 대치</title>
+      <link>https://www.chosun.com/national/national_general/2025/03/25/Z4UYKUQEN5BXXLNVD7AKLOYKHU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/03/25/Z4UYKUQEN5BXXLNVD7AKLOYKHU/</guid>
+      <dc:creator>박정훈 기자, 김나연 기자, 김혜민 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 25 Mar 2025 11:56:11 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G7JDSHQB3ZHKBHKHHLP3D3YLSI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;25일 오후 서울 서초구 남태령 고개 인근에서 전국농민회총연맹(전농) 소속 트랙터들이 멈춰서 있다. 2025.3.25 /박성원 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘윤석열 대통령 파면’을 주장하며 ‘트랙터 상경(上京) 시위’를 예고한 전국농민회총연맹(전농)이 25일 서울 서초구 남태령 인근에서 트랙터 수십 대를 실은 화물차를 몰고 경찰과 10여 시간 이상 대치했다. 전날 법원은 전농 산하 ‘전봉준 투쟁단’이 예고했던 트랙터 시위를 불허했지만 전농은 집회를 예정대로 강행했다. 이에 윤 대통령 지지 세력까지 몰리면서 남태령 인근은 아수라장이 됐다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LWTWQRUYPBINHKRH7QF2O726UE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt; 25일 전국농민회총연맹(전농) 회원들이 서울 서초구 남태령고개 일대에서 윤석열 대통령 탄핵을 촉구하며 모인 가운데 트랙터가 실어진 트럭들이 세워져 있다. 전농은 이날 집회를 마친 뒤 광화문 방면으로 트랙터 행진할 계획이었으나 법원의 결정으로 불허됐다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 오전 10시쯤부터 서울 서초구 남태령고개엔 트랙터를 실은 화물차 등을 이끈 전농 회원들이 집결하기 시작했다. 트랙터 41대를 실은 트럭 33대를 끌고 온 농민 700여 명은 이날 오후 2시쯤 남태령역 인근 3개 차로를 점거한 뒤 ‘내란수괴 윤석열 즉각 파면’ 등 손팻말을 들고 “농민들의 행진을 보장하라”고 외쳤다. 전농 회원들이 트랙터를 차에서 내려 끌고 가게 해달라고 요구하며 차도 쪽으로 내려오자 경찰이 이를 막는 과정에서 물리적 충돌도 발생했다. 이날 집회엔 국회 농해수위 간사를 맡고 있는 이원택 의원 등 민주당 의원 5명과 김재연 진보당 상임대표 등이 참석했다. &lt;br&gt;&lt;br&gt;경찰은 경기 과천에서 서울 서초구로 진입하는 남태령고개 경계에서부터 트랙터 진입을 막았지만, 이후 트랙터를 화물차에 실은 채로 집회 장소까지 이동하는 것은 허용하기로 협의했다. 다만 경찰은 서울 광화문으로의 행진엔 트랙터 하차를 불허한다는 방침이다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YAN75WKTYBD25KSGSZDJRE3P4Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;25일 오후 서울 서초구 남태령역 인근에서 전국농민회총연맹(전농) 등과 윤석열 대통령 지지자들이 각각 피켓 시위를 하는 가운데 경찰이 도로를 통제하고 있다. 2025.3.25 /박성원 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤 대통령 지지 세력과 전농 간 대치 상황도 이어졌다. 이날 오후 3시쯤 전농 측과 50m가량 떨어진 곳에선 윤 대통령 지지 세력 120여 명이 집결해 ‘탄핵각하’ 등 손팻말과 성조기, 태극기를 든 채 “빨갱이들 물러가라”라는 구호를 외쳤다. 5시 30분쯤에는 일부 우파 유튜버가 전농 집회 현장으로 접근하자 경찰 기동대가 대여섯 겹으로 둘러싸 충돌을 막기도 했다.&lt;br&gt;&lt;br&gt;전농은 지난해 12월 21일에도 윤 대통령 체포를 촉구하며 트랙터 30여 대와 트럭 50여 대를 이끌고 상경 집회를 벌이다 경찰과 28시간 대치한 끝에 경찰 저지를 뚫고 한남동 대통령 관저 인근까지 행진했다. 당시 시위를 주도한 일부 전농 지휘부는 교통 방해 등 혐의로 입건돼 수사를 받고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/G7JDSHQB3ZHKBHKHHLP3D3YLSI.jpg?width=5472&amp;height=3648&amp;auth=8583e157ec535a08a5433a42a8d55d0de8c3ef462ec5e84826284e5b9771b979&amp;smart=true" type="image/jpeg" height="3648" width="5472">
+        <media:description type="plain">25일 오후 서울 강남구 세곡동사거리에서 전국농민회총연맹(전농) 소속 트랙터들이 멈춰서 있다. 2025.3.25 /박성원 기자</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>의대생 내부서 ‘복귀 의사 존중해야’ 의견 나와</title>
+      <link>https://www.chosun.com/national/welfare-medical/2025/03/25/XRCTIW5F6BHYTJVRVBWEBQ7FAI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/03/25/XRCTIW5F6BHYTJVRVBWEBQ7FAI/</guid>
+      <dc:creator>곽래건 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 25 Mar 2025 13:09:53 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6EZL3OBCVVGTVMI6JMAVBDLUIA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;고려대 의대 전 학생대표 입장문. /독자 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;고려대 의과대학의 전 학생대표 5명이 “불필요한 시선 없이 자신의 거취를 결정할 자유를 충분히 보장받아야 한다”며 복귀하겠다는 의대생의 의사도 존중받아야 한다는 취지의 입장문을 발표했다. 의대생 사이에서 이런 의견이 공개적으로 나온 것은 이번이 처음이다.&lt;br&gt;&lt;br&gt;25일 김다은 35대 고려대 의예과 학생회장 등 고대 의대의 전 학생대표 5명은 ‘존경하는 학우 여러분들께’라는 입장문을 내고 이같은 의견을 냈다. &lt;br&gt;&lt;br&gt;이들은 “현 사태가 1년 넘게 지속되며 리스트 작성 및 공유, 무분별한 마녀 사냥, 서로에 대한 비난과 감시 등이 이어지는 동안 학우들이 제대로 보호받지 못했다”며 “책임은 오롯이 개인의 몫이었으나 선택은 온전한 자유의지로 내릴 수 없는 분위기였다”고 했다.&lt;br&gt;&lt;br&gt;이어 “스스로 숙고한 후 판단할 수 있는 대화의 장이 더더욱 필요했으나 그동안 우리의 의견을 자유롭게 개진할 수 있는 분위기를 조성하지 못했다”며 “학생 보호를 최우선의 가치로 삼아야 할 전 학생대표로서 책임을 깊이 통감한다”고 했다.&lt;br&gt;&lt;br&gt;이들은 “서로를 감시하고 비난하는 것은 이 사태를 해결하는 데 도움이 되지 않는다”며 “본인의 결정을 주저함 없이 실행할 수 있는 환경이 마련돼야 한다”고 밝혔다. 그러면서 “각자의 선택이 존중받고, 어떠한 결정에도 위축되지 않는 환경을 만들어야 한다”고 했다.&lt;br&gt;&lt;br&gt;고려대는 지난 21일 복학 등록이 마감됐다. 일부 학생은 복귀했지만, 학교 측은 조만간 학칙에 따라 미등록 학생을 제적 처리한다는 방침이다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>청송서 불에 탄 60대 여성 시신 발견...“산불 피하다 숨진 듯”</title>
+      <link>https://www.chosun.com/national/incident/2025/03/25/7MJR5EN5YFEYFE3MU777RFI5XI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/03/25/7MJR5EN5YFEYFE3MU777RFI5XI/</guid>
+      <dc:creator>이승규 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 25 Mar 2025 12:54:48 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OQFMO2S7WB6CRD32OPGMK34KLE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경북 청송군에서 60대 여성이 불에 탄 시신으로 발견됐다.&lt;br&gt;&lt;br&gt;25일 경찰 등에 따르면 이날 오후 7시쯤 청송군 청송읍의 한 거리에서 A(65)씨가 숨진 채 발견됐다. A씨의 시신은 불에 탄 상태였다. 인근에는 A씨의 차량이 발견됐다.&lt;br&gt;&lt;br&gt;경찰은 A씨가 대피 명령에 따라 산불을 피하기 위해 이동하던 중 변을 당한 것으로 보고 정확한 사고 경위를 수사 중이다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>소방청, 의성 산불에 올해 첫 ‘대응 3단계’ 발령</title>
+      <link>https://www.chosun.com/national/national_general/2025/03/25/T4D7YTDQCZEOHATDKIVKL67S4U/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/03/25/T4D7YTDQCZEOHATDKIVKL67S4U/</guid>
+      <dc:creator>박진성 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 25 Mar 2025 11:01:26 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YAJ47JBHWRNOTHKDKGTG6IZFJ4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경북 의성군 산불 발생 나흘째인 25일 의성군 단촌면 하화1리에 강풍에 날아온 산불 불씨로 인한 화재가 발생해 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;소방청은 지난 22일 경북 의성군에서 발생한 산불이 지속 확산함에 따라 소방 비상 대응 단계를 기존 2단계에서 3단계로 상향한다고 25일 밝혔다.&lt;br&gt;&lt;br&gt;소방 비상 대응단계는 1·2·3단계로 나눠진다. 이 중 3단계는 가장 높은 대응 단계다. 5개 이상 소방서의 보유 자원을 총력 대응한다. 소방청장이 화재 진압을 직접 지휘할 수 있다. 국가 차원의 동원 및 지원이 가능하다.&lt;br&gt;&lt;br&gt;소방당국이 올해 산불 등 재난으로 대응 3단계를 발령하기는 이번이 처음이다.&lt;br&gt;&lt;br&gt;소방청은 3단계 발령에 따라 전국 특수구조대 9개대를 경북지역으로 출동시켰다.&lt;br&gt;&lt;br&gt;경북 안동하회마을 등 주요지역 방어를 위해 대용량포방사시스템을 전진배치했다. 또 대용량 및 원거리 방수가 가능한 고성능 화학차도 파견했다.&lt;br&gt;&lt;br&gt;소방당국은 민가와 사찰 등 시설 보호에 총력 대응하고, 주민 대피 유도 및 인명구조·보호에 최우선으로 나선다. 현장에서 활동하는 소방대원 안전관리도 강화한다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>김수현, 대만 팬미팅 결국 닷새 앞두고 취소...“위약금 13억 추정”</title>
+      <link>https://www.chosun.com/national/national_general/2025/03/25/R3WN2XCWLRFFJJ2HNQRD3MKL5U/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/03/25/R3WN2XCWLRFFJJ2HNQRD3MKL5U/</guid>
+      <dc:creator>정아임 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 25 Mar 2025 12:18:15 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ELDLYO3ZJ6BDZ5GRVPIFCSYUME.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;배우 김수현 / MBC 굿데이&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;배우 김수현이 오는 30일로 예정됐던 대만 팬미팅을 닷새 앞두고 취소했다. &lt;br&gt;&lt;br&gt;대만 세븐일레븐은 25일 공식 계정을 통해 “김수현 팬 미팅이 배우의 일정 조정으로 참석할 수 없어 취소됐다. 회원들에게 불편을 끼치게 된 점 양해 부탁드린다”고 했다. 행사 티켓도 환불 절차를 밟는다.&lt;br&gt;&lt;br&gt;김수현은 당초 오는 30일 대만 현지 세븐일레븐이 주최하는 가오슝 벚꽃축제 행사 겸 팬 이벤트에 참석할 예정이었다. 이 행사는 김수현이 김새론과의 교제설 논란에 휩싸인 이후 처음으로 대중과 만나는 공개 행사라 관심을 모은 바 있다.&lt;br&gt;&lt;br&gt;외신에 따르면 팬 미팅 위약금은 3000만 위안(약 13억 2270만원)에 달하는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;앞서 지난 10일 유튜브 채널 가로세로연구소는 김수현이 미성년자였던 김새론과 교제했다는 의혹을 제기했고, 두 사람이 함께 찍은 사진 등을 공개했다. &lt;br&gt;&lt;br&gt;논란이 일자 김수현의 소속사는 당초 김수현과 김새론의 교제 사실을 인정하지 않다가 지난 14일 입장문을 통해 “김새론씨가 성인이 된 이후인 2019년 여름부터 2020년 가을까지 교제했다”고 밝혔다. 아울러 김세의 가로세로연구소 대표를 협박 등의 혐의로 고발했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>국립경국대 안동캠퍼스에 대피령</title>
+      <link>https://www.chosun.com/national/incident/2025/03/25/VNDT3QP22VESNG76BZ75RUMXHU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/03/25/VNDT3QP22VESNG76BZ75RUMXHU/</guid>
+      <dc:creator>김정엽 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 25 Mar 2025 11:25:33 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GGAGJ2PXEFMXVLBEBWQ4KSXOWY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;25일 경북 안동시 남선면 인근 야산으로 불이 번지고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경북 의성에서 발생한 산불이 안동까지 확산하면서 국립경국대 안동캠퍼스에도 대피령이 내려졌다.&lt;br&gt;&lt;br&gt;25일 본지 취재를 종합하면 안동시는 25일 오후 7시 38분쯤 “관내 산불이 안동대(현 국립경국대 안동캠퍼스) 주변으로 확산 중이니, 학생 및 주변 시민은 안전한 곳으로 대피하라”고 안내했다. 경국대는 국립안동대학교와 경북도립대학교가 지난 1일 통합해 출범한 4년제 국립대학교다.&lt;br&gt;&lt;br&gt;경국대에는 1000여명의 학생이 있는 것으로 알려졌는데, 이들은 현재 안전한 곳으로 대피하고 있는 것으로 전해졌다. 국립경국대 측은 교직원들이 비상근무에 들어간 상태다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>태풍보다 센 초속 30m 강풍... 사방으로 불씨 뿌린다</title>
+      <link>https://www.chosun.com/national/transport-environment/2025/03/25/DRY6NU3Q3JD3DGZYDEMCZ7RUOE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/03/25/DRY6NU3Q3JD3DGZYDEMCZ7RUOE/</guid>
+      <dc:creator>박상현 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 25 Mar 2025 11:07:02 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/O75XGPHXZ5KP5A5WQ247ZJFDWE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt; 경북 의성군 산불 발생 나흘째인 25일 의성군 안계면 안정리 일대에서 산불이 강한 바람을 타고 인근 야산으로 번지고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;25일 태풍급 강풍이 몰아치며 불씨가 바람을 타고 떠다니는 ‘비화(飛火)’로 인해 영남 산불이 확산했다. 26일과 27일에도 지붕이 날아갈 정도의 거센 바람이 불 것으로 예보됐다.&lt;br&gt;&lt;br&gt;기상청에 따르면, 25일 우리나라 북쪽과 남쪽에 각각 자리한 저기압과 고기압 사이로 비좁은 ‘바람길’이 생기며 태풍 수준의 강풍이 전국을 휩쓸었다. 25일 전국 대부분 지역에 강풍특보가 발효됐고, 순간 최대 풍속 초속 20~30m의 바람이 불었다. 태풍의 기준이 되는 바람이 ‘초속 17m 이상’인데 이보다 강한 바람이 봄에 분 것이다. 이날 충남 천안과 충북 충주에선 각각 초속 21.4m, 19.4m의 바람이 불며 2007년 이후 18년 만에 역대 3월 최대 풍속 기록을 갈아치웠다. 전북 정읍도 초속 19.3m의 강풍이 불며 2022년 기록을 경신했다.&lt;br&gt;&lt;br&gt;강풍특보는 25일 밤 대부분 해제됐으나, 경북 산지를 중심으로 26일 새벽까지 초속 20m 내외의 강한 바람이 불었다. 강한 바람 탓에 산불이 크게 난 영남은 26일에도 산불이 사방으로 확산할 우려가 크다. 바람은 풍향에 따른 ‘주풍’과 지형에 따른 ‘국지풍’으로 나뉜다. 현재 우리나라의 주풍은 서풍(西風)이다. 이 바람이 소백산맥을 포함한 백두대간을 타고 넘으며 고온 건조해져 영남을 비롯한 우리나라 동쪽을 메마르게 만들고 있다. 그런데 이 바람은 산지와 부딪치며 ‘국지풍’도 일으킨다. 국지풍은 따로 방향이 정해져 있지 않고 사방으로 퍼진다. 25일 경북 의성에서 갑자기 바람의 방향이 북쪽으로 바뀌며 불씨가 안동·청송까지 올라간 것도 국지풍의 영향으로 풀이된다. 26일에도 건조도를 높이는 서풍과 방향을 예측할 수 없는 국지풍이 함께 영향을 미칠 전망이다. 분지와 산맥 사이로 난 바람길에 더해, 강풍으로 인해 불씨가 산에서 산으로 껑충껑충 옮겨가고 있다. 국립산림과학원에 따르면 불똥이 상승 기류와 강풍을 만나면 최대 2㎞ 정도 날아갈 수 있다.&lt;br&gt;&lt;br&gt;비구름대가 남쪽에서 들어오는 27일에도 간판이 흔들릴 정도인 순간풍속 초속 15m 내외의 강한 바람이 전역에 불겠다. 이때는 주풍이 남서풍으로 바뀌면서 남해안으로 들어온 기압골이 북동진하며 바람 또한 북쪽을 주로 향할 것으로 예상된다. 이후 28~30일에는 북쪽에서 찬 바람이 내려오며 바람의 방향이 다시 남쪽으로 변할 전망이다. 풍향이 수시로 바뀌며 불씨가 사방으로 번질 수 있는 상황이 되는 것이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YAJ47JBHWRNOTHKDKGTG6IZFJ4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경북 의성군 산불 발생 나흘째인 25일 의성군 단촌면 하화1리에 강풍에 날아온 산불 불씨로 인한 화재가 발생해 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/YAJ47JBHWRNOTHKDKGTG6IZFJ4.jpg?width=3910&amp;height=2930&amp;auth=a32254612715de86a4f8e3276f7e0acc2d6fd5f7aac406c3ef36f0f4550bc526&amp;smart=true" type="image/jpeg" height="2930" width="3910">
+        <media:description type="plain">경북 의성군 산불 발생 나흘째인 25일 의성군 단촌면 하화1리에 강풍에 날아온 산불 불씨로 인한 화재가 발생해 있다./연합뉴스</media:description>
+        <media:credit role="author" scheme="urn:ebu">윤관식</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>딸 특혜 채용 의혹에... 검찰총장 “근거없는 주장”</title>
+      <link>https://www.chosun.com/national/court_law/2025/03/25/IS44ZYP5PFEMDM3Y3BK5RX3UH4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/03/25/IS44ZYP5PFEMDM3Y3BK5RX3UH4/</guid>
+      <dc:creator>이슬비 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 25 Mar 2025 11:38:42 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZG3EKDMY327VLZHUFWUZCHJGKU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;심우정 검찰총장이 지난 19일 서울 서초구 대검찰청으로 출근하고 있다. /뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;심우정 검찰총장이 더불어민주당이 전날 제기한 딸의 특혜 채용 의혹에 대해 25일 “근거 없는 의혹 제기”라며 “강한 유감을 표한다”고 했다. &lt;br&gt;&lt;br&gt;심 총장은 이날 입장문을 내고 “총장의 장녀는 채용공고에 따라 공정하고 투명한 절차를 거쳐 국립외교원 연구원으로 채용됐다”라며 “이는 인사청문회 과정에서 이미 상세히 소명하고 검증을 거친 내용”이라고 했다. &lt;br&gt;&lt;br&gt;심 총장은 딸의 작년 국립외교원 연구원 채용과 관련해 “ ‘근무개시일은 2024년 4월 1일, 자격요건은 해당 분야의 석사학위 소지자 등’이었다”라며 “장녀는 지원 당시 석사학위 취득 예정자로서 석사학위 수여 예정 증명서를 제출했고, 근무개시일 이전에 석사학위를 취득해 자격요건을 충족했다”고 밝혔다. &lt;br&gt;&lt;br&gt;또 심 총장은 올해 딸이 외교부 연구원으로 최종 합격한 데 대해서는 “외교부 채용 절차 역시 관련 법령에 따라 투명하고 공정하게 진행 중인 것으로 외교부에서 밝힌 바가 있다”라고 했다. 심 총장은 “당시 ‘국제정치 분야 석사 학위 소지자로서 해당 분야 실무경력 2년 이상인 자, 영어 쓰기·말하기 능통자 등’이 응시자격 요건이었다”라며 “장녀가 국립외교원 연구원, 서울대학교 국제대학원 연구보조원, 유엔(UN) 산하 기구 인턴 등 2년 이상의 실무 경력은 물론 토익 만점 등으로 모든 자격 요건을 충족했다”고 했다. &lt;br&gt;&lt;br&gt;심 총장은 “장녀는 대한민국의 다른 모든 청년과 같이 본인의 노력으로 채용 절차에 임했으며, 현재 국회에 자료 제출을 위한 외교부의 개인정보 제공 요청에도 동의한 상태”라며 “가족을 상대로 근거 없는 의혹 제기가 계속되고 있는 것에 대해 강한 유감을 표한다”고 말했다.&lt;br&gt;&lt;br&gt;더불어민주당 한정애 의원은 전날 국회 외교통일위원회 전체회의에서 “자격 요건에 미달했지만, 국립외교원과 외교부에 1년 간격으로 합격했다”며 “아버지가 심 총장이었기 때문에 가능했을 일”이라고 주장했다. &lt;br&gt;&lt;br&gt;한 의원이 제기한 의혹은 크게 두 가지다. 작년 국립외교원 연구원 채용 당시 딸은 ‘석사학위 취득 예정자’ 신분이었기 때문에 ‘석사학위 소지자 또는 학사학위 소지 후 2년 이상 관련 분야 근무자’ 라는 요건에 맞지 않아 특혜라고 주장했다. 또 올해 2월 외교부의 연구원 나급 공무직 전형에서는 응시자격이 ‘경제전공’에서 ‘국제정치전공’으로 바뀐 뒤 심 총장 딸이 지원해 합격했는데, 이 과정에서 특혜가 있었다고 주장했다. 한 의원은 작년 채용 당시 국립외교원장이 심씨의 대학원 수업을 지도한 박철희 주일대사라는 점도 지적했다. &lt;br&gt;&lt;br&gt;외교부도 특혜 채용 의혹은 사실이 아니라고 반박했다. 조태열 외교부 장관은 전날 국회에서 “지난주 도쿄에 가서 (작년 국립외교원장이었던) 박철희 주일대사를 만났는데, 심씨는 아는 바 없는 사람이고 투명한 절차에 따라 했다는 답변을 들었다”고 했다. 외교부는 이날 입장문에서 “국립외교원 계약직 연구원으로, 블라인드 원칙에 따라 공개경쟁을 통해 채용된 것”이라며 “그간 해당 직위 채용 시 대상자를 포함한 응시자들에게 채용 전 학위취득 예정이라는 점을 공식 문서로 증빙하면 자격 요건이 된다고 인정해왔다. (심 총장 딸은) 작년 2월말 취득 기준 석사학위 수여 예정 증명서를 제출했다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>국가유산청, 사상 첫 국가유산 위기 경보 ‘심각’ 발령</title>
+      <link>https://www.chosun.com/national/national_general/2025/03/25/CJDNDESNKNG3RP2Z2MGDPGV2YE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/03/25/CJDNDESNKNG3RP2Z2MGDPGV2YE/</guid>
+      <dc:creator>박진성 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 25 Mar 2025 11:16:10 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MJFRUR3VE5ORTPMMM6WV2TM3F4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경북 의성군 산불 발생 나흘째인 25일 의성군 고운사 입구 인근에 세워진 최치원 문학관이 전소되고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경북 의성, 안동 등에서 발생한 산불이 좀처럼 잦아들지 않는 가운데 국가유산청이 국가유산 재난 국가위기 경보 수준을 사상 처음 ‘심각’ 단계로 격상했다.&lt;br&gt;&lt;br&gt;국가유산청은 25일 오후 5시 30분 기준으로 전국의 국가유산 재난 국가위기 경보를 ‘심각’ 단계로 발령했다고 밝혔다.&lt;br&gt;&lt;br&gt;경보 단계는 관심, 주의, 경계, 심각으로 나뉜다.&lt;br&gt;&lt;br&gt;국가유산청은 “의성군, 안동시 등의 대형 산불과 전국에서 발생하는 동시다발적 산불로 인한 국가유산 화재 피해 우려가 매우 높다”고 설명했다.&lt;br&gt;&lt;br&gt;안동시는 25일 오후 3시 31분쯤 재난 문자를 통해 “의성 산불이 풍천면으로 확산 중”이라며 주민 대피 명령을 내렸다.&lt;br&gt;&lt;br&gt;풍천면과 붙어 있는 풍산면에는 유네스코 세계문화유산인 하회마을과 병산서원이 있다.&lt;br&gt;&lt;br&gt;이날 세계문화유산인 안동 하회마을 앞 10㎞까지 화마가 번져 국가유산청은 민속유산팀과 역사유적정책과 관계자들을 현장으로 급파했다.&lt;br&gt;&lt;br&gt;의성군에 있는 천년고찰 고운사 건물은 이날 모두 불에 탔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>尹 대통령, 헌재 앞 단식하던 지지자에게 전화해 “단식 중단” 권유</title>
       <link>https://www.chosun.com/national/court_law/2025/03/25/J76EOL7EZREPBEGURMQKQXKXVM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/03/25/J76EOL7EZREPBEGURMQKQXKXVM/</guid>
@@ -758,24 +888,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WRUYKUGBZJGQLLJOTXKYZEZ2EQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[스피킹이 강해지는 영어] be-all and end-all</title>
-      <link>https://www.chosun.com/national/nie/english/2025/03/25/RK2M2AUDWVF2DBZHWKSO3HREX4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/english/2025/03/25/RK2M2AUDWVF2DBZHWKSO3HREX4/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Mon, 24 Mar 2025 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TY6KMSDZMBC6HDUFZKHIKFTMYY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[매일매일 중국어 한마디] 노선, 경로</title>
-      <link>https://www.chosun.com/national/nie/chinese/2025/03/25/NNLBQ3YPNNBKLN6VL2UGDTPLYM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese/2025/03/25/NNLBQ3YPNNBKLN6VL2UGDTPLYM/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Mon, 24 Mar 2025 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Q3FKIUHRYNDTDIOO65ALLDC7WU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[두근두근 뇌 운동] [2587] 칼럼 풀어 읽기</title>
       <link>https://www.chosun.com/national/nie/2025/03/25/2QOGC7BKTRDDNIHLOHUI3ZKWUA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/nie/2025/03/25/2QOGC7BKTRDDNIHLOHUI3ZKWUA/</guid>
@@ -783,33 +895,6 @@
       <description/>
       <pubDate>Mon, 24 Mar 2025 15:34:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GV54XKEYGFDJREJJZ4U5ZLSCGM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[입에 착착 붙는 일본어] 목표가[전망이] 서다</title>
-      <link>https://www.chosun.com/national/nie/japanese/2025/03/25/DDR3XAGQTVFIXPDZP2ALMCNEWQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/japanese/2025/03/25/DDR3XAGQTVFIXPDZP2ALMCNEWQ/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Mon, 24 Mar 2025 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/C7K72UEXMBFXXH5BIRTX7P64AM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>인천 중구 폐목재 야적장서 화재...“안전 유의” 안전문자도</title>
-      <link>https://www.chosun.com/national/incident/2025/03/24/3HJWEIX66VBWLCJW7YLZDWM22M/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/03/24/3HJWEIX66VBWLCJW7YLZDWM22M/</guid>
-      <dc:creator>인천=이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 24 Mar 2025 14:20:38 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MHVNB2B2WJHGXODIDACQLHGZVI.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;119 소방 로고./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천 중구 북성동의 한 폐목재 야적장에서 화재가 발생해 소방 당국이 진화에 나섰다. &lt;br&gt;&lt;br&gt;24일 인천소방본부 등에 따르면 이날 오후 9시 48분쯤 인천시 중구 북성동 1가 인근 폐목재 야적장에서 화재가 발생했다.&lt;br&gt;&lt;br&gt;소방 당국은 소방관 등 72명과 장비 30여대를 투입해 진화작업을 벌이고 있다. &lt;br&gt;&lt;br&gt;아직까지 확인된 인명피해는 없는 것으로 파악됐다. &lt;br&gt;&lt;br&gt;소방 당국 관계자는 “폐목재 야적장 화재 신고가 접수돼 현재 진화작업을 하고 있다”며 “발령된 대응단계는 없다”고 말했다. &lt;br&gt;&lt;br&gt;인천시는 이날 오후 10시 50분쯤 “화재로 연기가 다량 발생 중이니 인근 주민분들은 창문을 닫고 안전에 유의하여 주시기 바란다”는 내용의 안전 안내 문자를 발송했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>골목 배회하다 달리는 차에 팔 ‘스윽’… 재수생이 돈 번 방법</title>
-      <link>https://www.chosun.com/national/national_general/2025/03/24/KTYXXBWFR5H4RDT25RJIGA2UOU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/03/24/KTYXXBWFR5H4RDT25RJIGA2UOU/</guid>
-      <dc:creator>박선민 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 24 Mar 2025 13:54:08 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/O74WJUAKOBBZVBEBLPXU3PUIHA.png"&gt;&lt;figcaption&gt;&lt;small&gt;사기 혐의로 검찰에 넘겨진 20대의 범행 당시 모습. 의도적으로 차량에 팔을 부딪친 뒤 피해자에게 통증을 호소하고 있다. /대전경찰청 유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;주행 중인 차에 일부러 팔을 부딪치고는 합의금을 요구하는 방식으로 돈을 뜯어낸 20대가 검찰에 넘겨졌다.&lt;br&gt;&lt;br&gt;대전둔산경찰서는 24일 사기 혐의로 20대 A씨를 불구속 송치했다고 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 작년 12월부터 지난 1월까지 서구 탄방동 일대 이면도로를 배회하며 주행 중인 차량의 조수석 사이드미러에 일부러 팔을 부딪치는 이른바 ‘손목치기’ 수법으로 고의 사고를 낸 뒤 운전자로부터 합의금을 받아 챙긴 혐의를 받는다. &lt;br&gt;&lt;br&gt;A씨는 보험 접수를 거부하고 치료비 명목으로 합의금을 요구한 것으로 조사됐다. 대전경찰청은 유튜브를 통해 범행 당시 상황이 담긴 영상을 공개했는데, 여기에는 A씨가 골목을 돌아다니다 서행 중인 차량에 다가가 의도적으로 팔을 가져다대는 장면이 고스란히 담겼다. &lt;br&gt;&lt;br&gt;이런 수법으로 A씨가 16명의 피해 운전자로부터 받아낸 돈은 185만원인 것으로 파악됐다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TU3ALCL3YNDJXEELK5OV6HGPTU.gif"&gt;&lt;figcaption&gt;&lt;small&gt;경찰이 잠복 수사 끝에 포착한 범행 장면. /대전경찰청 유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;A씨 범행은 “보행자와 사고가 나서 합의금을 줬지만, 고의 사고가 의심된다”는 다수의 신고로 덜미가 잡혔다. 신고를 받고 잠복 수사에 나선 경찰이 A씨가 범행하고 합의금을 편취하는 현장을 포착해 현행범으로 체포했다. &lt;br&gt;&lt;br&gt;A씨는 재수생으로, 경찰 조사에서 “스트레스 풀려고 그랬다”는 취지로 범행을 자백한 것으로 알려졌다. &lt;br&gt;&lt;br&gt;경찰 관계자는 “합의금을 요구하는 교통사고가 발생하면 경찰과 보험사에 신고하길 바란다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[단독] 달리던 오토바이 쑥 빠졌다…명일동 싱크홀 사고 순간</title>
@@ -860,33 +945,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LRSZFB7IQRWPUXHOIY476PLDRE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전국농민회총연맹(전농)의 트랙터들이 지난해 12월  22일 오후 서초구 남태령에서 대규모 집회를 갖은 후 대통령 한남관저로 향하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;법원이 전국농민회총연맹(전농) 산하 ‘전봉준 투쟁단’이 예고했던 ‘트랙터 상경 시위’를 24일 불허했다. 법원은 집회일(25일)이 촉박해 심문 기일을 별도로 잡지 않고 이 같은 결정을 내렸다. &lt;br&gt;&lt;br&gt;서울행정법원 행정3부(재판장 최수진)는 이날 전농이 25일 예고한 윤석열 대통령 파면 촉구 ‘트랙터 상경 집회’를 불허했다. 앞서 전농은 트랙터 20대와 1t 트럭 50대를 동원해 상경 집회를 벌이겠다고 경찰에 신고했지만, 경찰은 교통사고 등을 우려로 집회를 제한했다. 집회가 예정된 남태령 고개는 경기 과천·안양·수원 등 경기 남부 지역에서 서울 강남과 서초·사당 방면으로 진입하는 차량들이 집중되는 주요 길목이다.&lt;br&gt;&lt;br&gt;이에 전농은 전날 법원에 집행 정지 신청을 냈고, 이날 재판부는 교통사고 우려 등을 이유로 트랙터의 서울 진입은 불허했다. 다만 트럭은 20대까지만 진입을 허용했고, 출퇴근 시간이 아닌 오전 10시부터 오후 5시 사이에만 서울 진입이 가능하다고 결정했다. 서울경찰청은 “법원이 허용한 부분은 최대한 보장하되, 불허한 부분에 대해서는 법과 원칙에 따라 엄정 대응하겠다”고 했다. &lt;br&gt;&lt;br&gt;전농은 이날 즉각 입장을 내고 “집회 및 시위의 자유에 반하는 결정”이라며 “즉시 항고를 제기하겠다”고 했다. 행정소송법에 따르면 집행정지와 관련해선, 즉시 항고를 하더라도 법원 결정의 집행을 정지하는 효력은 없다. 전농은 법원의 판단과 관계없이 집회를 예정대로 진행할 계획인 것으로 전해졌다. 경찰은 물리적 충돌 방지를 위해 25일 남태령 일대에 기동대 14개 부대(900여 명)를 투입할 예정이다.&lt;br&gt;&lt;br&gt;한편 박현수 서울경찰청장 직무대리는 이날 윤석열 대통령에 대한 탄핵 심판 선고 당일 헌법재판소 반경 100m 이내를 차벽으로 둘러싸 접근이 불가능한 ‘진공 상태’로 만들겠다며 국회의원들도 예외가 없다고 밝혔다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>쇼호스트 정윤정, ‘욕설 논란’ 2년 만에 NS홈쇼핑으로 복귀</title>
-      <link>https://www.chosun.com/national/national_general/2025/03/24/MZNTIF6IDFDMDLS7RSWIQ4243Y/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/03/24/MZNTIF6IDFDMDLS7RSWIQ4243Y/</guid>
-      <dc:creator>박선민 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 24 Mar 2025 10:43:01 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UO46FFEVXZGQPKAWNLGORF3VLA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;쇼호스트 정윤정씨. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;생방송 중 욕설을 해 논란이 됐던 쇼호스트 정윤정씨가 NS홈쇼핑을 통해 복귀했다. &lt;br&gt;&lt;br&gt;24일 업계에 따르면 정씨는 지난 21일 오후 7시 35분에 방송된 NS홈쇼핑 ‘더마큐어’ 화장품 판매 방송에 게스트로 출연했다. &lt;br&gt;&lt;br&gt;앞서 정씨는 2023년 1월 28일 현대홈쇼핑 방송에서 자신이 판매하는 화장품이 매진됐음에도 방송을 조기 종료할 수 없다며 “××”이라는 욕설을 해 물의를 일으켰다. 제작진이 발언 정정을 요구하자 “예능처럼 봐 달라. 홈쇼핑도 예능 시대가 오면 안 되느냐”라고도 했다. 이에 욕설 논란이 불거졌고, 정씨는 같은 해 4월 현대홈쇼핑으로부터 무기한 출연 금지 처분을 받는 등 사실상 업계에서 퇴출당했다. &lt;br&gt;&lt;br&gt;이후 정씨는 욕설 논란 약 6개월 만에 NS홈쇼핑 협력사 측 게스트로 복귀를 준비했지만, ‘꼼수 복귀’라는 비판 속 복귀가 무산됐다. 당시 방송통신심의위원장까지 TV홈쇼핑 7사 대표와 만난 자리에서 “큰 사회적 물의를 일으킨 쇼호스트에 대해 제재가 내려진 지 6개월도 안 돼서 변칙적인 방법으로 다시 홈쇼핑 방송 출연 기회를 주는 데 대해 소비자들이 어떻게 생각할지 깊이 생각해봐야 한다”고 지적했다. &lt;br&gt;&lt;br&gt;이번 복귀는 NS홈쇼핑과 직접 계약한 것은 아니며, 화장품 제조사와의 계약을 통해 게스트로 출연한 것으로 알려졌다. 이에 따라 향후 방송 출연 여부는 해당 협력사 계획에 따라 결정될 것으로 보인다. &lt;br&gt;&lt;br&gt;NS홈쇼핑 관계자는 “NS홈쇼핑은 고객 신뢰를 최우선 가치로 삼고 있으며, 방송 윤리를 철저히 준수하고 있다”며 “이번 출연 결정 또한 내부적으로 면밀한 검토를 거쳤으며, 방송 과정에서 고객 신뢰를 유지하기 위한 최선의 노력을 기울일 것”이라고 했다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>부산교육감 재선거, 보수 단일화 끝내 무산</title>
-      <link>https://www.chosun.com/national/education/2025/03/24/TLFKPAA4NJBI7JSRZU3Y24SFSE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2025/03/24/TLFKPAA4NJBI7JSRZU3Y24SFSE/</guid>
-      <dc:creator>김민기 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 24 Mar 2025 11:55:47 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/C45Z7ONFSNCH5HCK5BC75LT24E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김석준 전 부산시교육감, 정승윤 부산대 로스쿨 교수, 최윤홍 전 부산시교육감 권한대행(왼쪽부터)&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전임 교육감의 불법으로 치러지는 부산시교육감 재선거가 일주일 앞으로 다가온 가운데, 보수 진영 후보들의 단일화가 사실상 무산됐다. 이전 부산교육감 선거에서도 보수 진영은 단일화에 실패해 진 경우가 많았는데, 이번에도 분열한 것이다. 진보 단일 후보인 김석준 후보는 현재 교사 불법 특별채용 혐의로 재판을 받고 있어 당선되면 ‘교육감 사법 리스크’가 계속 이어지게 된다. &lt;br&gt;&lt;br&gt;부산시선거관리위원회에 따르면, 오는 4월 2일 열리는 부산교육감 재선거에 김석준 전 부산시교육감, 정승윤 부산대 로스쿨 교수, 최윤홍 전 부산시교육감 권한대행 등 3명이 최종 후보로 등록했다. &lt;br&gt;&lt;br&gt;이 가운데 보수 후보로 나선 정승윤 교수와 최윤홍 전 권한대행은 단일화를 추진해왔지만 24일 무산됐다고 발표했다. 앞서 지난 9일 중도·보수 진영 예비 후보 4명은 경선을 거쳐 정 후보를 단일 후보로 선출했다. 경선에 참여한 박종필 전 부산교총 회장, 박수종 전 부산교육청 창의환경교육지원단장, 전영근 전 부산교육청 교육국장은 경선 결과에 승복한다고 밝혔다. 그런데 최윤홍 후보가 뒤늦게 출마를 결정하면서 보수 후보가 2명이 돼, ‘반쪽짜리 단일화’라는 말이 나왔다. 이에 정 후보가 최 후보에게 2차 단일화를 제안했고 최 후보가 승낙하며 여론조사 방법을 택하기로 한 것이다. &lt;br&gt;&lt;br&gt;두 후보는 투표 용지 인쇄가 시작되는 24일 전까지 합의하겠다고 밝힌 바 있다. 투표 용지가 인쇄된 다음에 단일화를 하면 사퇴 후보 이름도 그대로 인쇄돼 사표(死票)가 발생할 수 있기 때문이다. 그런데 23일 최 후보가 “정 후보 측이 여론조사를 조작했다”면서 정 후보를 선거관리위원회에 고발했다. 정 후보는 “조작 사실이 전혀 없다”고 반박했다. 결국 양 후보 측은 24일 소셜미디어에 단일화가 깨졌다고 알리며 완주 의사를 밝혔다. &lt;br&gt;&lt;br&gt;부산 교육감 선거에서 보수 후보들이 단일화를 못 해 패한 일은 수차례 있었다. 2014·2018년 선거에서 진보 측은 김석준 후보로 단일화했지만, 보수 후보들은 분열돼 김 후보에게 내리 졌다. 2022년 선거에서 단일화에 성공한 하윤수 보수 후보가 결국 김 전 교육감의 3선을 막았다. &lt;br&gt;&lt;br&gt;8년간 부산교육감을 지냈고 이번에 다시 진보 단일 후보로 출마한 김석준 전 교육감은 현재 2018년 교육감 재직 당시 국가보안법 위반으로 해직된 전교조 교사 4명을 특별 채용한 혐의로 재판을 받고 있다. 아직 1심 판결도 안 나왔다. 하지만 김 전 교육감의 혐의가 작년 8월 대법원에서 유죄 확정 판결을 받아 직을 상실한 조희연 전 서울교육감과 유사하기 때문에 당선 후에도 ‘사법 리스크’가 계속될 것이란 우려가 나온다. 이번 재선거로 당선되는 교육감의 잔여 임기는 1년 2개월에 불과하다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>용인 연료전지 연구소서 수소 실험 중 폭발...5명 다쳐</title>
-      <link>https://www.chosun.com/national/regional/2025/03/24/RJE4J4P2D5CNHKOG2663J4LLD4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/03/24/RJE4J4P2D5CNHKOG2663J4LLD4/</guid>
-      <dc:creator>김주영 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 24 Mar 2025 10:56:07 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FSFOJSH7UVGTLA7TWU5UWIFTLA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;24일 오후 경기 용인시 수지구 성복동에 있는 연료전지 개발 연구소에서 폭발 사고가 나 연구원 5명이 경상을 입었다. /경기도소방재난본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;24일 오후 3시 54분쯤 경기 용인시 수지구 성복동에 있는 연료전지 개발 연구소 1층에서 폭발 사고가 났다.&lt;br&gt;&lt;br&gt;소방 당국은 “1층 연구실에서 수소 실험 중 폭발 사고가 났다”는 신고를 받고 현장에 출동했다.&lt;br&gt;&lt;br&gt;이 사고로 연구실 내부에 있던 직원 등 5명이 경상을 입어 인근 병원으로 이송됐다.&lt;br&gt;&lt;br&gt;소방 당국은 신고 접수 10여 분 만인 오후 4시 8분 폭발로 인해 발생한 불을 완전히 껐다.&lt;br&gt;&lt;br&gt;이 연구실은 방폭(防爆)벽으로 시공돼 다른 시설로 불길이 확산하지는 않았던 것으로 파악됐다.&lt;br&gt;&lt;br&gt;경찰과 소방 당국은 자세한 폭발 원인 등을 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>‘60억대 PF 불법 대출 알선’ 한투증권 임직원 불구속 기소</title>
       <link>https://www.chosun.com/national/court_law/2025/03/24/YJLK5K4QQBEBBD32H4ITJUM5MM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/03/24/YJLK5K4QQBEBBD32H4ITJUM5MM/</guid>
@@ -906,51 +964,6 @@
       <media:content url="https://www.chosun.com/resizer/v2/5DPZSAY6U5CIBJPX43X4VUJK4A.jpg?width=3000&amp;height=4000&amp;auth=deb96fc7ca502c33d0962e62ce4b96f56bbed2f15e50d585b5b413e00f136254&amp;smart=true" type="image/jpeg" height="4000" width="3000">
         <media:credit role="author" scheme="urn:ebu"/>
       </media:content>
-    </item>
-    <item>
-      <title>법원, 전농 상경집회서 트랙터 불허...“트럭만 20대 허용”</title>
-      <link>https://www.chosun.com/national/court_law/2025/03/24/TVRYMTNG7ZF3DN4V7OJ7GTMEVQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/03/24/TVRYMTNG7ZF3DN4V7OJ7GTMEVQ/</guid>
-      <dc:creator>김나영 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 24 Mar 2025 09:57:41 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/M2UWK2ZTKNIV6M6RWJVXNEQTQY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전국농민회총연맹(전농)의 트랙터들이 작년 12월 서울 서초구 남태령에서 대규모 집회를 가진 뒤 대통령 한남관저로 향하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;법원이 전국농민회총연맹(전농) 산하 ‘전봉준 투쟁단’이 예고한 트랙터 상경 시위를 24일 불허했다. 법원은 해당 집회일(25일)이 촉박해 심문기일을 별도로 열지 않고 이같은 결정을 내렸다.&lt;br&gt;&lt;br&gt;법조계에 따르면 서울행정법원 행정3부(재판장 최수진)는 이날 전농이 경찰의 집회 금지 통고에 맞서 제기한 집행정지 신청을 일부 인용했다. 법원은 “트랙터의 서울 진입은 불허하되, 트럭은 20대까지만 진입을 허용한다”고 밝혔다. 다만 트럭도 오전 10시부터 오후 5시 사이에만 진입이 가능하다.&lt;br&gt;&lt;br&gt;앞서 전봉준 투쟁단은 오는 25일 트랙터 20대와 1t 트럭 50대를 동원해 서울 남태령에서 광화문까지 행진하는 상경 집회를 벌이겠다고 경찰에 신고했다. 그러나 서울경찰청은 충돌 우려와 교통 불편 등을 이유로 트랙터·트럭의 행진 참여를 금지했다. 전농 측은 이같은 조치가 부당하다며 23일 행정법원에 경찰의 금지 통고에 대한 집행정지를 신청했다. 집행정지는 행정청의 처분으로 회복하기 어려운 손해가 발생할 우려가 있다고 인정될 경우 처분 효력을 멈추는 제도다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>뉴진스 5명, ‘독자활동 금지’ 법원 결정에 이의 신청</title>
-      <link>https://www.chosun.com/national/court_law/2025/03/24/4JTGFTG5GRCDNHVCI5QLTMV4AQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/03/24/4JTGFTG5GRCDNHVCI5QLTMV4AQ/</guid>
-      <dc:creator>박혜연 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 24 Mar 2025 09:23:32 +0000</pubDate>
-      <content:encoded>걸그룹 뉴진스(새 활동명 NJZ)가 독자적으로 연예 활동을 해서는 안된다는 법원 판단에 불복해 이의신청을 했다. NJZ는 현재 연예기획사 어도어와 전속계약 분쟁을 벌이고 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XYEBD3P5IDKA3FVLHKDWTAUI7I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;그룹 뉴진스(왼쪽부터 하니, 민지, 혜인, 해린, 다니엘) / 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;24일 법조계에 따르면 NJZ 멤버 5명은 서울중앙지법 민사50부(재판장 김상훈)에 지난 21일 가처분 이의 신청서를 제출했다. 이날은 어도어가 NJZ 멤버들을 상대로 낸 ‘기획사 지위보전 및 광고계약 체결 등 금지’ 가처분 신청을 재판부가 전부 인용한 당일이다. &lt;br&gt;&lt;br&gt;가처분을 신청한 당사자(어도어)는 기각될 경우 2심에 바로 항고할 수 있다. 가처분 신청의 상대방(뉴진스)은 이의를 신청해 받아들여지지 않았을 경우 항고할 수 있다. 앞서 법원은 어도어가 제기한 가처분을 인용했기 때문에 뉴진스 측이 이의신청을 했고, 법원이 다시 이를 받아들이지 않으면 항고하는 절차를 밟게 된다.&lt;br&gt;&lt;br&gt;NJZ 멤버들은 모회사인 하이브가 어도어의 대표였던 민희진씨를 해임하면서 음반 제작에 공백이 생긴 점 등을 이유로 지난해 11월 어도어 측에 전속계약 해지를 통보했다. 어도어가 전속계약상 의무를 위반해 신뢰 관계가 파탄났다는 것이다. 이에 어도어 측은 지난 1월 “NJZ의 광고 계약 체결 등 독자적인 활동을 금지해달라”는 취지의 가처분 신청을 냈다.&lt;br&gt;&lt;br&gt;앞서 NJZ 멤버들은 지난 7일 열린 이 사건 심문에 직접 출석해 ‘어도어와 활동하고 싶지 않다’는 의사를 밝혔다. 또 “민 전 대표는 우리 팀에 속한다”며 민 전 대표를 대표이사직에서 해임한 어도어와 하이브를 비판한 바 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>집행유예 기간에 또…술 취해 80대 노모 폭행한 60대 아들 </title>
-      <link>https://www.chosun.com/national/regional/2025/03/24/JQ3TIP66BVBF3DE3IRVICDGZRY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/03/24/JQ3TIP66BVBF3DE3IRVICDGZRY/</guid>
-      <dc:creator>우정식 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 24 Mar 2025 09:11:19 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/L4GEXC5HOZAC5NA5TDDI7RQ23U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;집행유예 기간 중에 80대 노모를 폭행하고 괴롭힌 60대 아들이 경찰에 현행범으로 체포됐다.&lt;br&gt;&lt;br&gt;대전둔산경찰서는 노모를 둔기로 폭행한 혐의(특수존속폭행)로 60대 A씨에 대해 구속영장을 신청했다고 24일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 22일 오후 2시쯤 대전 서구 둔산동 한 아파트에서 술에 취한 상태로 집에 있던 도구를 휘둘러 함께 살고 있는 친모 B씨를 다치게 한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;B씨의 신고를 받고 출동한 경찰은 집에 있던 A씨를 현행범으로 체포했다. B씨는 크게 다치지는 않아 당일 병원에서 치료받고 퇴원한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰 조사 결과, A씨는 지난해에도 동종 범행으로 구속됐다가 법원에서 집행유예를 선고받고 풀려났던 것으로 확인됐다.&lt;br&gt;&lt;br&gt;A씨는 무직으로 노모 B씨와 단둘이 살고 있는 것으로 파악됐다.&lt;br&gt;&lt;br&gt;경찰은 누범기간에 재범한 A씨에 대해 구속영장을 신청하고 어머니 B씨를 보호기관에 연계하기로 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>법원, 이재명에 과태료 300만원... 대장동 재판 증인 또 불출석</title>
-      <link>https://www.chosun.com/national/court_law/2025/03/24/GB4YN52OEZC5BPWFPXYOEUOTAI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/03/24/GB4YN52OEZC5BPWFPXYOEUOTAI/</guid>
-      <dc:creator>박혜연 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 24 Mar 2025 01:40:20 +0000</pubDate>
-      <content:encoded>법원이 김만배씨 등 대장동 일당의 배임 재판에 증인으로 출석하지 않은 이재명 더불어민주당 대표에게 24일 과태료 300만원을 부과했다. 지난 21일 재판에 이날 재판도 이 대표의 불출석으로 단 6분 만에 끝났다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HILXRPJCPVHWJVN7YGJUHUMVWQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이재명 더불어민주당 대표(앞줄 오른쪽)와 박찬대 원내대표가 24일 오전 서울 여의도 국회에서 비공개 최고위원회의를 마친 뒤 광화문 천막당사 현판식 및 최고위에 참석하기 위해 이동하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지법 형사22부(재판장 조형우)는 이날 특정범죄가중처벌법상 배임 등 혐의로 기소된 김만배씨 등 대장동 민간업자 5명에 대한 1심 공판을 진행했다. 이날 이 대표에 대한 증인 신문이 예정돼 있었지만, 이 대표가 출석하지 않으면서 무산됐다.&lt;br&gt;&lt;br&gt;재판부는 “통상 절차에 따라 증인(이 대표)에게 과태료 300만원을 부과한다”고 밝혔다. 이 대표는 법정에 나오는 대신, 같은 날 광화문에서 열린 천막당사 현판식과 최고위원회 등에 참석했다.&lt;br&gt;&lt;br&gt;앞서 이 대표는 지난 21일 재판에서도 증인으로 소환됐으나, 불출석 사유서를 제출하고 법정에 나오지 않았다. 당시 재판부는 “이 대표의 불출석 사유서에는 포괄적인 내용만 기재됐다”며 “24일 재판에도 안 나오면 과태료 부과를 검토하겠다”고 밝힌 바 있다. &lt;br&gt;&lt;br&gt;그러나 이 대표는 이날 재판에 나오지 않으면서, 별도의 불출석 사유서나 의견서를 법원에 제출하지 않은 것으로 확인됐다. 증인으로 채택됐는데도 정당한 사유 없이 재판에 나오지 않는다면 법원은 형사소송법에 따라 강제 구인장을 발부하거나 500만원 이하의 과태료를 부과할 수 있다. 과태료 부과에도 출석하지 않으면 7일 이내 감치에 처할 수 있다.&lt;br&gt;&lt;br&gt;김씨 등 대장동 민간 업자들은 이 대표가 성남시장 재임 당시 성남시와 유착해 대장동 사업에서 성남도시개발공사에 4895억원의 손해를 끼친 혐의로 2021년 10월 기소됐다. 이 대표 역시 이들과 유착해 이익을 몰아준 혐의로 서울중앙지법에서 재판을 받고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“꿈에서 깰 시간”... ‘뉴진스 찐팬’ 김앤장 출신 변호사의 비판 </title>
-      <link>https://www.chosun.com/national/national_general/2025/03/24/BGHXDF7Q2ZHMFLZHYGNFWLFVSE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/03/24/BGHXDF7Q2ZHMFLZHYGNFWLFVSE/</guid>
-      <dc:creator>이가영 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 24 Mar 2025 00:53:23 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OGEMO6CKU5DSDM77M5E6PHNCTI.gif"&gt;&lt;figcaption&gt;&lt;small&gt;그룹 뉴진스(NJZ·왼쪽부터 하니, 민지, 혜인, 해린, 다니엘)가 7일 오후 서울 서초구 서울중앙지방법원에서 열린 '어도어, 뉴진스 상대 기획사 지위보전 및 광고계약 체결 등 금지 가처분' 심문기일을 마친 후 취재진의 질문에 답변하고 있다. /뉴지스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;법원의 가처분 인용 결정으로 독자 활동에 제동이 걸린 뉴진스(새 활동명 NJZ) 멤버들이 외신을 통해 “법원 판단에 실망했다”고 밝히자 법조계에서는 “우려스럽다”는 반응이 나왔다. &lt;br&gt;&lt;br&gt;김앤장 법률사무소 출신의 고상록 변호사(법무법인 필)는 22일 자신의 유튜브 채널에 미국 시사주간지 타임의 뉴진스 인터뷰 기사를 공유하면서 “이 기사에 ‘한 변호사(One Lawyer)’로 저도 등장한다. 한마디 할 충분한 자격이 있다고 생각한다”며 “우려스럽다”고 밝혔다. 고 변호사는 작년 9월 뉴진스의 1차 기자회견 당시 “하이브가 위대한 기업이 되고자 한다면 아티스트를 인기 상품 취급해서는 안 된다”고 해 온라인 커뮤니티에서 ‘뉴진스 찐팬’으로 불리는 인물이다. &lt;br&gt;&lt;br&gt;그러나 고 변호사는 이번 뉴진스의 외신 인터뷰를 두고는 “법원의 판단이 나온 직후에 이런 태도를 취한다면 ‘거짓말을 하고 다른 동료를 공격하며 상대를 악마화하는 방식으로 업계나 회사의 부조리와 맞선다는 것이냐’는 비판을 피하기 어렵다”고 지적했다. &lt;br&gt;&lt;br&gt;고 변호사는 “처음에는 민희진 전 어도어 대표와 동조해 모회사를 공격하고, 다른 레이블과 그 소속 아티스트를 공격하더니 이제는 (K팝) 산업을 부정하고 끝내는 법원마저 무시하고, 한국 전체를 한심한 사회로 몰아넣고 혐한 발언을 내뱉기에 이르렀다면 그다음에 이들이 설 자리는 어디인가”라고 했다. &lt;br&gt;&lt;br&gt;이어 “계약을 무시하고 법으로 해결이 안 되니 국회로 달려가고, 이제는 그마저 안 통하니 아예 K팝 아이돌 육성 시스템을 서양인의 시각에서 비판해온 팝의 본고장의 유력 언론사로 달려가 그 구미에 맞춘 듯한 단어들을 쏟아내며 순교자를 자처한다”고 했다. &lt;br&gt;&lt;br&gt;그러면서 “이 사건의 본질이 인권 침해라는 헛소리는 우리나라 국회에서 한 번 하고 말았어야 했다”며 “다름 아닌 자신들의 변호사가 법원에 유리하다고 제출한 증거에서 거짓말이 모두 드러난 마당에, 꼴랑 영어로 하는 외신과의 인터뷰라고 그걸 부여잡고 여전사 노릇을 한다고 해서 이 사안의 본질이 덮이지 않는다”고 했다. &lt;br&gt;&lt;br&gt;고 변호사는 “이제는 꿈에서 깨어날 시간”이라며 “법원 결정이 나오고 나서 미처 다시 한번 전열을 가다듬고 생각을 정리하기 전에 얼결에 진행한 인터뷰에서 내뱉은 실수라고 믿고 싶을 뿐”이라고 했다. &lt;br&gt;&lt;br&gt;고 변호사는 자신의 발언이 화제가 되자 23일 새로운 글을 올리고 “오늘은 뉴진스가 오랜 시간 준비해온 무대를 공개하는 날이었다”며 “이유 여하를 막론하고, 제 글로 인해 멤버들이 기대하던 무대에 다소 불편한 상황이 생겼다고 느꼈을 수도 있겠다는 생각이 든다”고 했다. &lt;br&gt;&lt;br&gt;그는 “부디 오늘 공연이 안전하게 잘 마무리되었기를 바라며 멤버들이 무대 위에서 팬들로부터 따뜻한 응원과 진심 어린 지지를 받았기를 진심으로 바란다”고 했다. 그러면서 “뉴진스 멤버들과 그 부모님들이 앞으로 옳은 방향으로 행동해 나간다면, 아낌없이 칭찬과 응원을 보낼 것”이라고 했다. &lt;br&gt;&lt;br&gt;한편에서는 뉴진스 측의 변론 전략을 재검토해야 한다는 의견도 나왔다. 작년 10월 뉴진스 팬덤 버니즈를 대리해 어도어 및 하이브를 상대로 고소장을 제출했던 이현곤 변호사는 23일 소셜미디어에 “이 사건은 계약 해지의 귀책 사유를 묻는 소송이 되어서는 안 된다. 사건이 한번 흙탕물 속에 빠지면 책임 소재는 알 수 없게 된다”고 했다. 이 변호사는 “중요한 것은 어도어와 뉴진스 사이의 신뢰 관계가 돌이킬 수 없게 파탄되었다는 점이고, 이 사실만 입증하면 된다”며 “판례가 신뢰 관계의 파괴를 계약 해지 사유로 인정하고 있다”고 주장했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RUAZKXMRHQRUDTC34WNWC4NFPM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;뉴진스는 23일 홍콩 '컴플렉스콘' 공연 말미에서 "법원의 결정을 준수해 모든 활동을 멈추기로 했다"고 밝혔다. /플렉스콘&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;앞서 서울중앙지법 민사합의50부(재판장 김상훈)는 지난 21일 어도어가 낸 가처분 신청을 전부 인용했다. 재판부는 “제출된 채무자(뉴진스)의 주장과 자료만으로는 채권자(어도어)가 이 사건의 전속 계약상 중요한 의무를 위반함으로써 그 해지 사유가 발생했다거나, 그로 인하여 상호 간의 신뢰 관계가 돌이킬 수 없을 정도로 파탄됐다는 점이 충분히 소명됐다고 보기 어렵다”고 판단했다. 이에 따라 뉴진스 멤버들은 본안 소송의 1심 결과가 나올 때까지 어도어와의 협의 없이는 독자적인 음악 활동을 할 수 없게 됐다. &lt;br&gt;&lt;br&gt;뉴진스는 22일 타임에 “K팝 산업이 하룻밤에 변화할 것이라고 생각하지는 않았다”며 “이것이 한국의 현실일지도 모른다”고 했다. 멤버들은 “우리는 그러기에 변화와 성장이 필요하다고 느낀다”며 “한국이 우리를 혁명가로 만들고 싶어 하는 것 같다”고 했다. &lt;br&gt;&lt;br&gt;다음 날인 23일 홍콩 ‘컴플렉스콘’ 공연 말미에서 “저희는 법원의 결정을 준수해 모든 활동을 멈추기로 했다”고 밝혔다. 뉴진스 멤버들의 이 같은 결정은 활동 중단을 감수하더라도 어도어로는 돌아가지 않겠다는 의지를 드러낸 것으로 해석된다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>입양해 평생 키운 딸이 전재산 들고 도주… 폐지 줍는 할머니 사연</title>
