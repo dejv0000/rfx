@@ -6,6 +6,26 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>법무법인 디엘지, '새로운 네트워크, 새로운 시장' 한일스타트업 포럼 성료</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/206660.jpg" alt="206660.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;일본 도쿄 시부야 스타트업 서포트에서 열린 한일스타트업 포럼 현장&lt;/figcaption&gt;   &lt;/figure&gt;&lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;   &lt;b&gt;&lt;a href="https://dlglaw.co.kr/" target="_blank"&gt;법무법인 디엘지&lt;/a&gt;&lt;/b&gt;(대표 변호사&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="5968"&gt;조원희&lt;/span&gt;‧&lt;span style="font-weight: bold;" class="lawmanlink" serial="28309"&gt;안희철&lt;/span&gt;)와 코리아스타트업포럼(의장 한상우)은 3월 25일 일본 도쿄 시부야 스타트업 서포트에서 한일스타트업 포럼을 개최했다. 한일 스타트업 간 교류와 협력을 촉진하고 스타트업 생태계 확장을 도모하기 위해서다. &lt;br /&gt;&lt;br /&gt;이번 포럼은 '새로운 네트워크, 새로운 시장'을 주제로 개최됐다. △양국 스타트업 생태계 현황 발표 △성공 사례 공유 △글로벌 시장 진출 전략 논의 △네트워킹 세션으로 진행됐다.&lt;br /&gt;&lt;br /&gt;한상우 코리아스타트업포럼 의장은 "한국과 일본은 서로 다른 강점을 지닌 스타트업 생태계를 보유해 상호 보완적 협력을 통해 양국 스타트업 산업 성장에 이바지할 수 있을 것"이라며 "코스포 또한 주요 신산업 중심으로 양국 협력 및 네트워크를 강화하는 데 앞장설 것"이라는 포부를 밝혔다.&lt;br /&gt;&lt;br /&gt;김홍영 법무법인 디엘지 글로벌비즈니스지원센터 센터장은 "이번 포럼이 한일 스타트업 간 협력을 강화하고 일본 시장 진출을 원하는 한국 스타트업에 실질적 지원을 제공하는 계기가 되길 기대한다"고 전했다.&lt;br /&gt;&lt;br /&gt;엄윤미 아산나눔재단 이사장은 "재단은 창업 생태계 확장과 네트워크 구축을 적극 지원하겠다"고 말했다.&lt;br /&gt;&lt;br /&gt;이날 포럼에는 한일 스타트업 지원 기관, 스타트업 기업 및 관계자 등 약 40명이 참석했다. 시부야 스타트업 서포트와 아산나눔재단이 후원했다.&lt;/p&gt;</description>
+			<pubDate>Wed, 26 Mar 2025 05:20:17 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/206660</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/206660</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/206660.jpg</media:thumbnail>
+			<dc:creator>안현 기자</dc:creator>
+		</item>
+		<item>
+			<title>태평양 류광현·박지연 변호사, ALB '아시아 TMT 우수 변호사 50인' 선정</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/206659.jpg" alt="206659.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;류광현·박지연 변호사&lt;/figcaption&gt;   &lt;/figure&gt;&lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;   &lt;b&gt;&lt;a href="https://www.bkl.co.kr/law?lang=ko" target="_blank"&gt;법무법인 태평양&lt;/a&gt;&lt;/b&gt;(대표변호사&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="8313"&gt;이준기&lt;/span&gt;)은 TMT(통신·미디어·기술) 그룹의&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="853"&gt;류광현&lt;/span&gt;(58·사법연수원 23기),&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="424"&gt;박지연&lt;/span&gt;(51·31기) 변호사가 아시아 법률 전문 매체 Asian Legal Business(ALB)에서 발표한 '2025 아시아 지역 TMT 우수 변호사 50인(Super 50 TMT Lawyers)'에 선정됐다고 3월 26일 밝혔다.&lt;br /&gt;&lt;br /&gt;해당 리스트는 아시아 지역에서 방송·통신·정보기술 분야에 전문성을 가진 변호사를 대상으로 기업 사내변호사 및 법무팀의 평가를 바탕으로 선정된다. 류광현 변호사와 박지연 변호사는 각각 2021년과 2023년에 이어 두 번째로 이름을 올렸다.&lt;br /&gt;&lt;br /&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="853"&gt;류광현&amp;nbsp;&lt;/span&gt;변호사는 넷플릭스, 구글코리아, KT 등 국내외 주요 기업의 통신, 정보보호, 전자상거래 관련 자문을 수행해 왔다. 방송통신위원회, 기획재정부 등의 고문변호사로 활동한 바 있으며 2022년에는 과학기술정보통신부 장관 표창을 받았다.&lt;br /&gt;&lt;br /&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="424"&gt;박지연&lt;/span&gt;&amp;nbsp;변호사는 'LG유플러스의 CJ헬로 인수', '구글 인앱결제 정책에 대한 인터넷기업협회 신고 대리', '무궁화 6A호 위성 계약 검토' 등 TMT 분야 주요 자문을 맡아왔다. 또한 '2022 아·태 여성 변호사 시상식' ICT 부문 수상, Global Data Review의 '우먼 인 데이터 2022' 선정 등 국제적으로도 활동을 인정받았다.&lt;br /&gt;&lt;br /&gt;한편 태평양 TMT 그룹은 1980년대 후반 설립됐고 약 70여 명의 전문 인력으로 구성돼 있다. 판교 분사무소를 중심으로 모빌리티, 블록체인, 인공지능(AI) 등 신기술 특화 태스크포스를 운영하며 관련 법률 자문을 수행하고 있다.&lt;/p&gt;</description>
+			<pubDate>Wed, 26 Mar 2025 05:18:48 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/206659</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/206659</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/206659.jpg</media:thumbnail>
+			<dc:creator>이진영 기자</dc:creator>
+		</item>
+		<item>
 			<title>위법·무효인 기소였어도 공소시효는 정지될까</title>
 			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/images/5478.png" alt="5478.png" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;개정된 검찰청법을 따르지 않고 수사 개시 검사가 공소를 제기해 법원에서 공소가 기각된 사건이 발생했다. 검찰은 이 사건을 다시 기소했는데, 공소시효 완성과 정지 여부를 두고 논란이 일고 있다.&lt;p&gt;&lt;br /&gt;광주지법 형사12부(재판장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="16357"&gt;박재성&amp;nbsp;&lt;/span&gt;부장판사)는 공직선거법 위반 혐의로 기소된&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="17692"&gt;정준호&amp;nbsp;&lt;/span&gt;더불어민주당 의원의 사건에서 “공소 제기 절차가 법률 규정에 위반됐다”며 2월 14일 공소기각 판결했다(&lt;b&gt;2024고합368&lt;/b&gt;). 법원은 ‘검사는 자신이 수사 개시한 범죄에 대해서는 공소를 제기할 수 없다’는 검찰청법 제4조 제2항에 따라 위법한 기소였다고 판단했다. 광주지검은 공소 기각 판결이 나오자 항소하지 않고 3월 7일 재기소했다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;정 의원 측은 “공소시효가 완성됐다”고 문제 제기하며 즉각 반발했다. 공직선거법 제268조 제1항에 따르면 공직선거법 위반 사건의 공소시효는 당해 선거일 후 6개월이 지나면 완성된다. 제22대 국회의원 선거는 2024년 4월 10일 실시됐다. 이 조항을 적용하면 같은 해 10월 10일 정 의원 사건의 공소시효가 완성됐으므로 검찰이 이 사건을 2025년 3월 7일 재기소한 것은 위법한 기소라는 입장이다. 정 의원은 “법원이 지적했듯 공소제기 자체가 법률상 무효인데 공소시효가 어떻게 정지될 수 있느냐”고 말했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;반면 검찰은 최초 기소한 시점부터 공소시효가 정지됐기 때문에 같은 사건을 다시 기소할 수 있다는 입장이다. 광주지검 관계자는 “법원 판결을 존중하고 선거 사건을 신속 처리하며 처벌 공백을 막기 위해 즉시 적법절차에 따라 다시 기소하기로 결정한 것”이라며 “형사소송법 제253조에 따라 시효는 공소의 제기로 정지되므로, 공직선거법도 기소 시점부터 공소시효가 정지돼 재기소에 문제가 없다”고 말했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp; &lt;br /&gt;검찰 주장의 근거는 형사소송법 제253조 제1항이다. 해당 조항은 ‘시효는 공소의 제기로 진행이 정지되고 공소기각 또는 관할위반의 재판이 확정된 때로부터 진행한다’고 정한다. 법조에서는 형사소송법 제253조 제1항의 해석을 두고 의견이 갈리고 있다.&lt;/p&gt;</description>
 			<pubDate>Wed, 26 Mar 2025 01:28:37 -0000</pubDate>
@@ -218,26 +238,6 @@
 			<link>https://www.lawtimes.co.kr/news/206640</link>
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/206640</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/206640.jpg</media:thumbnail>
-			<dc:creator>이진영 기자</dc:creator>
-		</item>
-		<item>
-			<title>대한상사중재원 국제중재센터 새 사무총장에 푸이키 타 프랑스변호사</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/206639.jpg" alt="206639.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;푸이키 타 프랑스변호사&lt;/figcaption&gt;   &lt;/figure&gt;&lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;푸이키 엠마누엘 타(Pui-Ki Emmanuelle Ta) 프랑스 변호사가 오는 4월 1일 대한상사중재원 국제중재센터(의장 장승화) 제3대 사무총장으로 취임한다.&lt;br /&gt;&lt;br /&gt;타 신임 사무총장은 국제중재 분야에서 20년 넘는 경력을 쌓아온 베테랑이다. 아시아 관련 사건만 1000건 이상을 다룬 아시아 중재 분야의 최고 전문가로 꼽힌다. 국제상공회의소(ICC) 국제중재법원 사무국 변호사로서 파리 본부와 홍콩 사무소에서 15년 이상 근무하며, ICC의 국제적 확장에 기여한 바 있다. 최근에는 홍콩에 위치한 국제 온라인 분쟁해결센터 eBRAM에서 최고경영자 및 사무총장으로 활동했다.&lt;br /&gt;&lt;br /&gt;이번 인사는 지난해 장승화(62·사법연수원 16기) 국제중재센터 의장 취임 이후 진행된 개편 작업의 연장선이다. 센터는 국제중재규칙 개정, 국제중재센터의 지배구조 선진화, 국제 중재 전문 인력 영입 등을 추진해 왔다.&lt;br /&gt;&lt;br /&gt;타 사무총장은 “국제중재규칙 개정과 지배구조 개편 등 국제중재센터가 큰 변화를 겪는 중요한 시기에 합류하게 돼 기쁘고, 무거운 책임감을 느낀다”며 “국제중재센터가 최상의 분쟁 해결 서비스를 제공할 수 있도록 힘쓰고, 한국의 국제중재 전문가들과 함께 서울이 세계적인 중재 허브로 거듭나는 데 기여하고 싶다”고 밝혔다.&lt;br /&gt;&lt;br /&gt;장승화 의장은 “타 신임 사무총장의 리더십 아래, 국제중재센터가 아시아 중재 커뮤니티를 넘어 전 세계적으로도 최고 수준의 서비스를 제공하는 기관으로 재도약할 것으로 확신한다”고 말했다.</description>
-			<pubDate>Tue, 25 Mar 2025 07:32:26 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/206639</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/206639</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/206639.jpg</media:thumbnail>
-			<dc:creator>조한주 기자</dc:creator>
-		</item>
-		<item>
-			<title>2023·2024년… 변리사 2300여 명, 공익활동 '5만3200시간'</title>
-			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/thumb/180/206623.jpg" alt="206623.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;대한변리사회(회장 김두규)의 제3기 공익활동 기간(2023년 1월~2024년 12월) 동안 변리사 2316명이 공익활동에 참여한 시간이 5만3226시간에 달하는 것으로 나타났다.&lt;br /&gt;&lt;br /&gt;대한변리사회(회장 김두규)는 25일 변리사회의 공익활동 시간이 직전 주기인 2기(2021년 1월~2022년 12월) 대비 약 25% 증가했다고 밝혔다. 변리사 공익활동 의무 시행 첫해인 2020년 1기 당시 참여 시간은 1만여 시간이었다. 이후 2기부터는 각 주기별 기간이 2년으로 늘었다.&lt;br /&gt;&lt;br /&gt;변리사 공익활동은 지난 2017년 정기총회에서 회칙을 통해 도입됐고, 2023년 7월 개정된 변리사법 시행으로 법적 의무로 전환됐다. &lt;br /&gt;&lt;br /&gt;활동 유형별로는 개별 사회봉사 활동이 1만8294시간으로 가장 많았고, 산업재산권 상담 및 출원 등을 포함한 전문성 기반 재능기부가 1만8234시간으로 뒤를 이었다. 이밖에 공익상담센터에서의 무료 상담, 온라인 지식재산 상담, 사회취약계층 대상 상담 및 대학·기업 대상 지식재산권 교육 등 실무와 밀접한 활동들이 다수 진행됐다.&lt;br /&gt;&lt;br /&gt;변리사회는 공익활동 수요 증가에 맞춰 참여 기회를 확대해 나갈 방침이다. 최근 전자메일 정리 캠페인을 통한 탄소중립 실천을 시작했고, 4월에는 사회취약계층 지원을 위한 제빵 봉사 행사가 예정돼 있다. 6월 26일 제1회 '변리사의 날'에는 국민 대상 산업재산권 상담을 진행한다. 2025년 하반기에는 서울시자원봉사센터와 청년 대상 기획 봉사 프로그램도 운영할 계획이다.&lt;br /&gt;&lt;br /&gt;김두규 회장은 "기술경쟁이 치열해지는 시대에 변리사의 공공적 역할이 더욱 중요해지고 있다"며 "전문성과 공익성을 결합한 활동이 지속될 수 있도록 다양한 사회공헌 기회를 마련해 나가겠다"고 말했다.</description>
-			<pubDate>Tue, 25 Mar 2025 05:54:57 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/206623</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/206623</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/206623.jpg</media:thumbnail>
 			<dc:creator>이진영 기자</dc:creator>
 		</item>
 	</channel>
