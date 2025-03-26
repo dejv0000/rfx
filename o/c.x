@@ -13,6 +13,74 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>[속보] 경북 의성서 헬기 추락, 조종사 1명 사망…“전국 헬기 운항 중지”</title>
+      <link>https://www.chosun.com/national/2025/03/26/6PPEMP5H4BBJ5PINRWGXTQO4FQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2025/03/26/6PPEMP5H4BBJ5PINRWGXTQO4FQ/</guid>
+      <dc:creator>최혜승 기자 , 의성=이승규 기자, 박진성 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 26 Mar 2025 04:16:25 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/O66I7GGN3FACHODLP3H42IECGQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt; 의성 산불 현장서 헬기 추락
+    (의성=연합뉴스) 26일 오후 경북 의성군 신평면에서 강원 인제 임차 헬기인 S76 에어팰리스 1200L가 추락해 현장에서 소방관들이 불을 끄고 있다.  2025.3.26 [독자 제공, 재판매 및 DB 금지]
+    sunhyung@yna.co.kr/2025-03-26 13:35:50/
+&amp;lt;저작권자 ⓒ 1980-2025 ㈜연합뉴스. 무단 전재 재배포 금지, AI 학습 및 활용 금지&amp;gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경북 의성지역 산불을 진압중이던 헬기 1대가 26일 오후 추락해 조종사 1명이 사망했다. 산림당국은 전국 산불진화 헬기 운항을 중지했다.&lt;br&gt;&lt;br&gt;산림당국 등에 따르면 이날 오후 12시 50분쯤 경북 의성군신평면 교안리 인근 야산에 헬기가 추락했다는 신고가 접수됐다. 산림청 관계자는 “노란색 헬기 한 대가 떨어졌다는 목격자 신고가 있었다”고 말했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IPWUPITY6ZIF5O2LTX7C37MI7I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;YONHAP PHOTO-3986&gt; 의성 산불 현장서 헬기 추락&#13;
+    (의성=연합뉴스) 26일 오후 경북 의성군 신평면에서 강원 인제 임차 헬기인 S76 에어팰리스 1200L가 추락했다. 2025.3.26 [독자 제공, 재판매 및 DB 금지]&#13;
+    sunhyung@yna.co.kr/2025-03-26 13:32:32/
+&lt;저작권자 ⓒ 1980-2025 ㈜연합뉴스. 무단 전재 재배포 금지, AI 학습 및 활용 금지&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;소방당국은 헬기 안에 있던 조종사 1명이 추락 현장에서 사망한 것을 확인했다고 밝혔다.&lt;br&gt;&lt;br&gt;이 헬기는 강원 인제군에서 화재 진압 지원을 나온 헬기다. S-76B 기종이다. &lt;br&gt;&lt;br&gt;소방과 산림당국은 정확한 인명피해 규모와 사고 경위를 파악하고 있다.&lt;br&gt;&lt;br&gt;산림청 중앙사고수습본부는 “사고 즉시 전국에서 투입된 산불진화 헬기에 대해서 안전을 위해 운항 중지토록 조치했다”고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UFJBK6HCQVMETHWKLV2LN3XAXQ.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;(안동=뉴스1) 공정식 기자 = 의성 산불 나흘째인 25일 오전 경북 안동시 길안면 백자리 민가 뒷산에서 산불진화에 투입된 헬기가 강풍을 뚫고 쉴 새 없이 물을 퍼 나르고 있다. 2025.3.25/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[속보] 이재명, 서울고법 도착...선거법 2심 선고 곧 시작</title>
+      <link>https://www.chosun.com/national/court_law/2025/03/26/RF47TKBJVRGLTP4P3OLJBDH6OM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/03/26/RF47TKBJVRGLTP4P3OLJBDH6OM/</guid>
+      <dc:creator>유종헌 기자, 이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 26 Mar 2025 04:50:11 +0000</pubDate>
+      <content:encoded>이재명 더불어민주당 대표가 26일 공직선거법 항소심 선고 공판에 출석하기 위해 서울고법에 도착했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OLRNFXIA6E3AYDWC7LZ4MV7O6A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이재명 더불어민주당 대표가 25일 오전 서울 서초구 서울중앙지방법원에서 열린 '대장동 배임·성남FC 뇌물' 관련 1심 공판에 출석하고 있다. 2025.3.25/뉴스1 ⓒ News1 오대일 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이 대표는 이날 오후 1시 50분쯤 법원에 도착해 민주당 의원들과 악수한 뒤 법원 내로 향했다. 이 대표는 심경을 묻는 취재진에 “(선고가) 끝나고 말씀드리겠다”고만 답했다. &lt;br&gt;&lt;br&gt;이 대표가 법원 건물 안으로 들어서자 이 대표를 기다리던 지지자들이 “이재명”을 연호했다. 이 대표는 지지자들에 손짓을 한 뒤 법정으로 들어섰다.&lt;br&gt;&lt;br&gt;이날 민주당에서는 박범계·박주민·전현희·한민수·이해식 의원 등 약 40명의 국회의원이 법원을 찾았다. &lt;br&gt;&lt;br&gt;서울고법 형사6-2부(재판장 최은정)는 이날 오후 2시부터 이 대표의 공직선거법 위반 사건 항소심 선고 기일을 연다. 지난해 11월 15일 1심이 징역 1년에 집행유예 2년을 선고한 지 약 4개월 만이다.&lt;br&gt;&lt;br&gt;이 대표가 이 사건으로 벌금 100만원 이상을 확정받을 경우 의원직을 상실하고 다음 대선에도 출마할 수 없다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>이찬원‧수지 1억원 쾌척…산불 피해에 스타들 ‘기부 행렬’</title>
+      <link>https://www.chosun.com/national/national_general/2025/03/26/HRAZAVZA2ZH3DACOM5OAPN24K4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/03/26/HRAZAVZA2ZH3DACOM5OAPN24K4/</guid>
+      <dc:creator>김가연 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 26 Mar 2025 04:33:16 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GKVHA6X26ZAKTGGVRRD6YJ4GLU.png"&gt;&lt;figcaption&gt;&lt;small&gt;가수 겸 배우 수지, 가수 이찬원. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경북 의성 등 전국 곳곳에서 발생한 산불로 피해가 속출하고 있는 가운데, 이재민들을 돕기 위한 연예인들의 기부 손길이 이어지고 있다.&lt;br&gt;&lt;br&gt;가수 이찬원은 26일 희망브리지 전국재해구호협회에 울산·경북·경남 지역 산불 피해 지원을 위해 성금 1억원을 기부했다.&lt;br&gt;&lt;br&gt;이찬원 소속사는 “이찬원이 산불 피해 관련 보도를 접한 뒤 기부를 결정했다. 특히 출생지인 울주에서 발생한 피해인 만큼 더욱 마음을 쓰게 됐고, 모두가 무사히 일상을 회복하고 따뜻한 봄을 맞이하길 바라고 있다”고 했다.&lt;br&gt;&lt;br&gt;가수 겸 배우 수지도 “산불 피해가 확산하고 있다는 소식을 접하고 도움이 절실한 상황이라 마음을 함께하고 싶었다”며 1억원을 쾌척했다.&lt;br&gt;&lt;br&gt;배우 임시완은 희망브리지에 3000만원을 기부했다. 2019년 강원 산불을 시작으로 매년 재난 발생 시마다 기부를 해온 임시완은 “갑작스러운 산불로 삶의 터전을 잃은 분들의 고통이 클 것 같아 작은 마음을 보탰다. 어려운 시기에 조금이나마 위로가 되길 바란다”고 했다.&lt;br&gt;&lt;br&gt;배우 천우희도 경상도 지역 산불 피해 지원 및 소방관 지원을 위해 4000만원을 기부했다. 천우희는 “산불 피해 소식을 접하고 작게나마 힘이 되길 바라는 마음으로 기부를 결심했다. 산불이 하루빨리 진화되고, 피해를 본 이웃들이 일상으로 조속히 돌아가길 바란다”고 했다. 이어 “재난 때마다 앞장서 대응하고 계신 소방관분들께도 조금이나마 도움이 됐으면 한다”고 덧붙였다.&lt;br&gt;&lt;br&gt;방송인 유재석, 고민시, NCT 해찬, 김나영, 박보영은 5000만원, 배우 소유진은 3000만원, 방송인 유병재, 심진화, 그룹 위너 김진우, 이승윤은 1000만원을 기부했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“불길 번지고 재 날리는데”…안동 골프장, 라운딩 강행 논란</title>
+      <link>https://www.chosun.com/national/national_general/2025/03/26/ONGLK623RBHLPHKZUG3ONYVUDY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/03/26/ONGLK623RBHLPHKZUG3ONYVUDY/</guid>
+      <dc:creator>최혜승 기자 </dc:creator>
+      <description/>
+      <pubDate>Wed, 26 Mar 2025 04:46:09 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/R7KR536EZJAHJL4WG34ITI67O4.gif"&gt;&lt;figcaption&gt;&lt;small&gt;안동의 한 골프장 주차장 뒤편으로 산불이 타오르고 있는 모습./온라인 커뮤니티&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경북 안동 소재의 한 골프장이 산불 위기에서도 라운딩을 강행했다는 주장이 나왔다. 이에 대해 골프장 측은 “당시 바람만 불었고 불길은 보이지 않았던 상태였다”며 플레이를 안 한 비용에 대해선 환불 조치할 예정이라고 했다.&lt;br&gt;&lt;br&gt;이 골프장 캐디라고 밝힌 A씨는 지난 25일 한 온라인 커뮤니티에 “근무하다 산불에 죽을 뻔했다”며 이 같은 글을 적었다. &lt;br&gt;&lt;br&gt;A씨는 “의성군에서 산불이 처음 난 날부터 골프장에선 타는 냄새가 났고 마스크 없이 일을 못할 정도로 연기와 재가 날렸다”고 했다. 그는 “이날 60팀가량이 예약돼 있었는데 골프장 인근 중앙고속도로를 양방향 통제한다는 소식에 5팀이 예약을 사전 취소했다. 예약을 취소하지 못한 나머지 팀은 와서 골프를 쳐야 하는 상황이었다”고 했다.&lt;br&gt;&lt;br&gt;A씨가 맡은 팀은 오후 1시부터 골프를 치기 시작했다. 플레이를 시작할 때만 해도 마스크를 끼면 괜찮았으나 오후 3시 30분쯤부터 상황이 급변했다고 한다. &lt;br&gt;&lt;br&gt;그는 “전반 플레이가 끝나고 그늘집에 들른 직후 갑자기 하늘이 어두워지고 굵은 재가 쏟아졌다”며 “멀리서 불길도 보이기 시작했다. 바람이 강해 불이 빠르게 이동하는 게 눈에 보일 정도였다”고 했다. 이어 “후반 플레이를 들어가야 하는데 너무 무서워 고객들과 상의하고 있었는데 직원이 와서 ‘후반 들어가야 한다’며 재촉했다”고 주장했다. 결국 A씨가 맡은 팀은 “캔슬을 안 해주면 그냥 가겠다”며 자발적으로 게임을 철수했다고 한다.&lt;br&gt;&lt;br&gt;그는 “코스 안에는 여전히 많은 팀이 남아 있었다”며 “휴장은 못 했어도 예약 취소 안 된다고 하는 건 진짜 아니다. 아무리 골프장들이 돈에 미쳤다지만 오늘 역대급 대참사 날 뻔했다. 골프장은 다 탔다고 하더라”고 적었다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GWJQCMPPJVCQHDLGPMD56XZLYE.gif"&gt;&lt;figcaption&gt;&lt;small&gt;산불이 번진 안동 일대 골프장에서 탈출하는 영상./ 온라인커뮤니티&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;A씨가 함께 올린 영상에는 골프장 입구 바로 옆 도로까지 불이 번진 모습이 담겼다. 골프장 주차장에서 보이는 산은 시뻘겋게 불타고 있었다.&lt;br&gt;&lt;br&gt;이와 관련, 골프장 측은 26일 조선닷컴에 “산불이 났는데 플레이를 강행한 건 아니다”라면서 “전날 바람이 불었고 불길이 보이지 않았다. 한 팀이 중간에 바람이 너무 불고 연기가 많이 난다며 철수하고 올라와서 계산을 하는 도중에 불길이 번지기 시작해 대피한 것”이라고 했다. 그린피에 대해선 “친 만큼만 요금을 받았다”며 “갑자기 불이 번져서 환불이 어려웠다. 나머지 팀에 대해선 현금으로 반환해드릴 예정”이라고 했다.&lt;br&gt;&lt;br&gt;골프장 측은 “클럽하우스는 괜찮은 상태이나 호수 인근이 소실됐다”며 “당분간 운영은 어려울 것 같다”고 했다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘尹 파면’ 현수막 내건 광주 북구청장에 2차 과태료 부과 </title>
+      <link>https://www.chosun.com/national/national_general/2025/03/26/QLYL2E6WXJEATOCXRSGIPSFILY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/03/26/QLYL2E6WXJEATOCXRSGIPSFILY/</guid>
+      <dc:creator>광주광역시=진창일 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 26 Mar 2025 04:49:17 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5VSILYTGIJCGXLU2SER3EPMTYY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 10일 오후 광주 북구청사 건물 외벽에 문인 청장이 내건 '헌정유린 국헌문란 윤석열을 파면하라'는 대형 현수막. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;구청 외벽에 ‘윤석열 대통령을 파면하라’는 내용의 현수막을 내걸어 과태료를 물었던 문인 광주광역시 북구청장이 현수막을 철거하지 않아 또다시 과태료 부과 처분을 받았다.&lt;br&gt;&lt;br&gt;광주 북구청은 26일 문인 북구청장에게 옥외광고물법 위반 2차 과태료 105만원을 부과했다. 북구 광고물관리팀은 이날 문 구청장에게 ‘현수막을 철거하지 않으면 과태료를 부과하겠다’는 공문을 보내고 이 같은 처분을 내렸다.&lt;br&gt;&lt;br&gt;문 구청장은 지난 10일 북구청 외벽에 가로 2m, 세로 10m 크기 대형 현수막을 내걸었다. 현수막에는 ‘헌정 유린 국헌 문란 윤석열을 파면하라’고 썼다. ‘문인 광주광역시 북구청장’이라는 이름도 붙였다. 문 구청장은 2022년 지방선거에서 더불어민주당 소속으로 출마해 당선된 재선 구청장이다&lt;br&gt;&lt;br&gt;북구 광고물관리팀은 지난 12일 문 구청장에게 ‘17일까지 자진 철거하지 않으면 과태료 80만원을 부과하겠다’는 공문을 보냈고, 문 구청장이 현수막을 내리지 않자 이튿날인 지난 18일 과태료 80만원을 부과했다. 문 구청장은 1차 과태료를 조기 납부해 20% 감경받아 64만원을 냈다. 2차 과태료를 조기 납부하면 84만원을 내면 된다.&lt;br&gt;&lt;br&gt;북구 관계자는 과태료 부과 이유에 대해 “현행 옥외광고물법상 공공 청사에는 공공 목적 광고물만 게시할 수 있는데 문 구청장이 정치적인 내용의 불법 현수막을 내걸었다”고 설명했다. &lt;br&gt;&lt;br&gt;이에 대해 문 구청장은 “윤 대통령에 대한 탄핵이 인용될 때까지 현수막을 계속 걸겠다”며 “직원들에게도 구청장이라고 부담스러워하지 말고 법대로 집행하라고 했다”고 했다.&lt;br&gt;&lt;br&gt;광주시 북구 조례에 따르면, 불법 현수막을 걸 경우 최다 3번까지 과태료를 부과할 수 있다. 3차 과태료는 135만원 상당으로 예상된다. 그러나 이후 강제로 철거할 수 있다는 규정은 없다. 북구 관계자는 “강제 철거 여부는 법적 검토가 필요하다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/TIDMZCRLH5ACSYDWMVPV7OBW2E.jpg?width=5406&amp;height=3510&amp;auth=be7e93ad4a6653f2cbe9e056d7f84e0f9e9a8a6e06790e384be17049ff5581f4&amp;smart=true" type="image/jpeg" height="3510" width="5406">
+        <media:description type="plain">10일 오후 광주 북구청사 건물 외벽에 문인 청장이 내건 '헌정유린 국헌문란 윤석열을 파면하라'는 대형 현수막이 걸려 있다.(광주 북구 제공. 재판매 및 DB금지)2025.3.10/뉴스1</media:description>
+        <media:credit role="author" scheme="urn:ebu">뉴스1</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>결국 지리산 국립공원도 뚫렸다… 산청 산불 계속 확산</title>
+      <link>https://www.chosun.com/national/2025/03/26/LUYAV7YLGFCV3CVJPB76HPHRTM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2025/03/26/LUYAV7YLGFCV3CVJPB76HPHRTM/</guid>
+      <dc:creator>산청=김준호 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 26 Mar 2025 04:24:34 +0000</pubDate>
+      <content:encoded>지난 21일부터 시작한 경남 산청 산불이 결국 지리산에 닿았다. &lt;br&gt;&lt;br&gt;26일 지리산국립공원 경남사무소와 산림당국에 따르면 산청군 시천면 구곡산 기슭에서 발생한 불길이 인근 삼장면 황금능선을 따라 오후 12시30분쯤 지리산 국립공원 경계를 넘어 200m 안까지 파고 들었다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6M6RR26JLVXPGIJNQFKACV6EJQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지리산국립공원 경남사무소 직원들이 26일 오전부터 산청군 시천면 구곡산 인근 및 지리산 경계 200m 지점에서 산불 진화 작업을 벌이고 있다. (지리산국립공원 제공, 재판매 및 DB 금지) 2025.3.26/뉴스1 ⓒ News1 한송학 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;당시 지상에서 방화선을 구축하고 있던 지리산국립공원 경남사무소 직원 등은 거센 화염에 현장에서 긴급하게 철수했다고 한다. &lt;br&gt;&lt;br&gt;산림청 관계자는 “최대한 불길을 차단하기 위해 애썼는데, 불길이 경계를 넘은 것으로 파악된다”면서 “헬기로 진화를 하고 있지만 낙엽층이 많아 진화 효과가 떨어진다”고 했다.&lt;br&gt;&lt;br&gt;두터운 낙엽층 때문에 속불이 살아 있어 불을 꺼도 바람에 다시 살아나는 일이 반복되고 있다. &lt;br&gt;&lt;br&gt;특히 이날 헬기 대부분이 하동 옥종면 등 민가로 향하는 불길을 잡기 위해 투입되면서 지리산 국립공원 쪽 진화 작업은 더딘 것으로 전해졌다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TKYMZWQ2UJ5QEEJFES7MZQR2WU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경남 산청 대형 산불 닷새째인 25일 지리산과 인접한 산청군 시천면 구곡산 일대에 산불이 번져 주민들이 걱정스러운 마음으로 산불을 지켜보고 있다. 2025.3.25/뉴스1 ⓒ News1 윤일지 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;산림당국은 “전국적으로 산불이 동시다발로 발생한 만큼 헬기 투입은 인명 보호를 우선으로 배치하고 있다”고 했다. &lt;br&gt;&lt;br&gt;산청·하동 산불 진화율은 75%로 오전 대비 더 줄었다. &lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/TKYMZWQ2UJ5QEEJFES7MZQR2WU.jpg?width=6594&amp;height=4362&amp;auth=dda50040c5b29f440439f4fa3009d094dd1ca20b7bc2060ba6bafd66b1e1c98b&amp;smart=true" type="image/jpeg" height="4362" width="6594">
+        <media:description type="plain">경남 산청 대형 산불 닷새째인 25일 지리산과 인접한 산청군 시천면 구곡산 일대에 산불이 번져 주민들이 걱정스러운 마음으로 산불을 지켜보고 있다. 2025.3.25/뉴스1 ⓒ News1 윤일지 기자</media:description>
+        <media:credit role="author" scheme="urn:ebu">뉴스1 ⓒ News1 윤일지 기자</media:credit>
+      </media:content>
+    </item>
+    <item>
       <title>소화기로 산불 끄는 교도관 모습에…“안쪽이 어떡해” 재소자 가족 분노</title>
       <link>https://www.chosun.com/national/national_general/2025/03/26/QS4XQFR5WRC6ZOEVEVQISGPJZE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/03/26/QS4XQFR5WRC6ZOEVEVQISGPJZE/</guid>
@@ -879,51 +947,6 @@
       <content:encoded>이화영 전 경기도 평화부지사가 북한으로부터 고급 정원수인 금송과 주목 보내달라는 요청을 받자 5억원 상당의 금송·주목을 산림복구 지원 목적으로 꾸며 북한에 보낸 것으로 나타났다.&lt;br&gt;&lt;br&gt;25일 주진우 국민의힘 의원실이 제출받은 공소장에는 이씨가 금송·주목은 산림복구에 부적합하다는 보고를 받고도 지원을 강행한 정황이 상세히 담겼다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YZG62I6KJBFTNGNBU63TUSNDSA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이화영 전 경기도 평화부지사. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;공소장에 따르면, 이씨는 2018년 9월 안부수 아태평화교류협회 회장으로부터 “북한의 김성혜 조선아시아태평양평화위원회 실장이 금송과 주목을 원한다”는 요청을 전달받았다. 이에 같은 해 10월 김성혜 실장을 만나 황해도 스마트팜 지원 사업과 함께 10억원 상당의 금송·주목을 지원해줄 것을 약속했다.&lt;br&gt;&lt;br&gt;약속이 이행되지 않자 북한은 안씨를 독촉했다. 김영철 조선아태위 위원장은 2018년 12월 안씨에게 “내가 이화영 부지사를 두 달 전 만났을 때 이 부지사가 묘목 지원, 양묘장 사업, 황해도 시범농장 사업을 얘기했는데 진행되는 것이 하나도 없다”면서 “김성혜 실장이 이 부지사 말만 믿고 (김정은) 위원장에게 추진 계획을 보고한 것이 문제를 일으켰다”고 했다.&lt;br&gt;&lt;br&gt;안씨로부터 이 같은 사실을 전달받은 이씨는 2019년 1월 중국 섬양에서 신명섭 전 경기도 평화협력국장과 함께 김 실장을 만나 금송 및 주목 지원 사업을 바로 지원하겠다고 약속했다.&lt;br&gt;&lt;br&gt;그러나 경기도 평화기반조성과는 금송과 주목을 인도적 목적으로 경기도 기금을 써 지원하는 것은 어렵다고 이씨에게 보고했다. 당시 보고에는 “금송은 주로 정원수(조경수)로 많이 심으며 산림녹화용으로 부적합하고, 북한 지역에 식재시 동해(凍害)를 입을 가능성이 있어 정상적인 생육이 가능할지 여부는 불명확” “금송은 일본이 원산지로 일왕을 상징하는 나무로 알려짐” 같은 내용이 담겼다.&lt;br&gt;&lt;br&gt;이씨는 이 같은 내부 검토 결과를 경기도 남북교류협력위원회 자료에 그대로 기재하면 심의를 통과하지 못할 것으로 판단했다고 한다. 이에 관련 자료에 ‘북한 산림 황폐화로 인해 홍수와 산사태가 빈번하니 북한에 대한 인도적 차원에서 산림복구를 위한 묘목을 지원하겠다’고 허위로 작성하게 하고, 남북교류협력위원회에도 비슷한 취지로 설명했다. 검찰은 이씨의 묘목 지원 사업 관련 범행에 직권남용, 위계공무집행방해, 지방재정법 위반 혐의를 적용했다.&lt;br&gt;&lt;br&gt;한편 검찰은 이씨가 2021년 대선 당시 쌍방울그룹에게 이재명 후보를 쪼개기 후원하도록 한 혐의(정치자금법 위반), 지난해 국회에서 ‘술자리 회유’ 의혹을 허위로 제기한 혐의(위증) 등으로도 기소했다.&lt;br&gt;&lt;br&gt;이씨는 2021년 7월 김성태 전 쌍방울 회장에게 “이낙연과 함께 경선을 하니까 압도적으로 후원금이 들어와야 한다”면서 “(후원금 모집 시작) 첫날이 중요하다”고 요청했다. 김씨가 “얼마나 냈으면 좋겠냐”고 묻자 이씨는 “한 2억원쯤 할 수 있겠냐”면서 “1인당 한도는 1000만원”이라고 했다. 이에 김씨는 쌍방울 직원 등 총 13명 명의로 9000만원을 ‘쪼개기 후원’했다.&lt;br&gt;&lt;br&gt;이씨는 2018년 5월 경기도지사 선거 당시에도 김씨에게 후원을 요청하며 “100만원씩 쪼개서 보내야 한다” “기업이 나서면 안 되고 개인이 한 것으로 해야 한다”고 말한 것으로 조사됐다. 당시 김씨는 11명 명의로 800만원을 기부했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>노동청, 민희진에 ‘직장내 괴롭힘’ 과태료 부과…”불복 절차 진행”</title>
-      <link>https://www.chosun.com/national/national_general/2025/03/25/KN2RI57GOJEADKDTKLQFDW3QGI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/03/25/KN2RI57GOJEADKDTKLQFDW3QGI/</guid>
-      <dc:creator>이가영 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 25 Mar 2025 03:11:09 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HL2OBGU5BRBZM35IVMCRVZJRLQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;민희진 전 어도어 대표. / 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;민희진 전 어도어 대표가 직장 내 괴롭힘 혐의로 노동청으로부터 과태료를 부과받을 전망이다. 민 전 대표 측은 “근로기준법 법리를 오해한 부분이 확인됐다”며 정식 불복 절차를 진행할 예정이라고 밝혔다. &lt;br&gt;&lt;br&gt;25일 고용노동부에 따르면, 서울지방고용노동청 서울서부지청은 최근 민씨에게 과태료를 부과하겠다고 사전 통지했다. &lt;br&gt;&lt;br&gt;어도어에서 퇴사한 A씨는 작년 8월 어도어 임원 B씨로부터 직장 내 괴롭힘을 당했다고 회사에 신고하자 민씨가 이를 무마하려 하고, 가해자로 지목된 B씨를 감쌌다고 주장했다. B씨는 민씨의 측근으로 불린 인물이다. A씨는 또한 민씨도 자신에게 폭언 등을 했다며 노동 당국에 진정을 제기했다. &lt;br&gt;&lt;br&gt;서울서부지청은 민씨가 직장 내 괴롭힘을 저지르고 사용자로서 직장 내 괴롭힘을 객관적으로 조사하지 않았다고 인정했다. 근로기준법 제76조의3은 직장 내 괴롭힘 신고를 접수하거나 이를 인지한 사용자는 지체 없이 사실을 확인하기 위한 객관적 조사를 실시해야 한다고 규정한다. &lt;br&gt;&lt;br&gt;정확한 과태료 액수는 알려지지 않았다. 다만 현행 법령은 사용자가 직장 내 괴롭힘을 저지른 경우 1000만원 이하 과태료를, ‘지체 없는 객관적 조사’ 의무를 어긴 경우 500만원 이하 과태료를 부과하게 되어 있다.&lt;br&gt;&lt;br&gt;앞서 민씨는 진정을 제기한 직원 A씨의 주장을 공개적으로 반박했다. 당시 민씨는 하이브 측과의 분쟁이 한창이었던 상황으로, A씨의 주장에는 다른 배경이 있을 수 있다는 의혹을 제기했다. &lt;br&gt;&lt;br&gt;민씨 측은 이번 과태료 부과 결정에 대해서도 받아들일 수 없다는 입장을 밝혔다. 민씨 측은 “해당 사건의 처리 결과에 대한 회신문을 검토한 결과, 직장 내 괴롭힘으로 판단한 발언 전후의 사실관계가 잘못 인정되고 근로기준법의 법리를 오해한 부분이 확인됐다”고 했다. 이어 “신속하게 행정청에 의견을 제출하는 등 정식 불복 절차를 진행할 예정이며 진정 사건의 정확한 진상을 규명하고 억울한 누명을 벗을 예정”이라고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>검찰, ‘불법 대출 의혹’ 여의도 신한은행 지점 압수 수색</title>
-      <link>https://www.chosun.com/national/court_law/2025/03/25/RXCQQJFTWJCYXGNRYAVA5JOAX4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/03/25/RXCQQJFTWJCYXGNRYAVA5JOAX4/</guid>
-      <dc:creator>박강현 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 25 Mar 2025 03:05:34 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/III7XXNCSNA2ZPL7EJEOHVE2QM.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초동에 위치한 서울중앙지검. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전직 은행원이 관여된 불법 대출 의혹을 수사 중인 검찰이 25일 신한은행 지점을 압수 수색했다.&lt;br&gt;&lt;br&gt;서울중앙지검 반부패수사3부(부장 이승학)는 이날 서울 여의도역 인근 신한은행 지점에 수사 인력을 보내 압수 수색 영장을 집행했다.&lt;br&gt;&lt;br&gt;검찰은 해당 지점에서 근무했던 차장급 직원 A씨가 위조된 사문서 등을 통해 은행원 출신 사업가 김모씨의 대출을 도왔다는 의혹을 수사 중인 것으로 알려졌다. &lt;br&gt;&lt;br&gt;검찰은 A씨의 이 같은 비리 정황을 포착한 금융감독원 검사 결과를 넘겨받아 이 사건을 수사해 온 것으로 전해졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>여전히 세계 곳곳서 팔린다는 ‘짝퉁’ 불닭볶음면… 진품과 차이는</title>
-      <link>https://www.chosun.com/national/national_general/2025/03/25/5UK6FE46FBEEBBXBQFIPWKRN2Y/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/03/25/5UK6FE46FBEEBBXBQFIPWKRN2Y/</guid>
-      <dc:creator>박선민 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 25 Mar 2025 03:04:44 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JYSW2FVNI5HTXPB7XTBBGAM5F4.png"&gt;&lt;figcaption&gt;&lt;small&gt;25일 서경덕 교수가 올린 짝퉁 불닭볶음면 사진. /페이스북&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국내외에서 큰 인기를 끌고 있는 삼양식품 불닭볶음면의 짝퉁 상품이 여전히 전 세계 곳곳에서 팔리는 것으로 알려졌다. 모조 불닭볶음면의 외관은 실제 삼양의 불닭볶음면과 매우 흡사하지만, 제조 국가와 기업명 등에서 차이를 보인다. &lt;br&gt;&lt;br&gt;최근 미국 최대 온라인 커뮤니티 ‘레딧’에는 삼양 불닭볶음면과 거의 흡사한 외관의 라면 사진과 함께 진품 여부를 묻는 글이 올라왔다. 작성자는 “원래 오리지널 불닭볶음면만 팔던 동네 가게에서 정체불명의 이 녀석을 발견했다”며 “아직 먹어보진 않았는데, 뭔가 되게 수상쩍다”고 했다. &lt;br&gt;&lt;br&gt;작성자가 올린 ‘불닭볶음면’ 사진을 보면, 삼양 불닭 캐릭터 ‘호치’ 이미지가 그대로 이용됐고, 이름은 까르보 불닭볶음면이라고 적혀 있다. 필체마저 삼양의 불닭볶음면에 적힌 것과 유사하다. 라면 봉지 오른쪽 하단에는 ‘KOREA’라고 적혀 마치 한국에서 생산됐다는 느낌을 준다. 왼편에는 돼지고기가 포함되지 않았다는 할랄 인증 마크와 함께 중량이 적혀 있다. 이 때문에 얼핏 삼양의 해외 수출용 불닭볶음면처럼 보이기도 한다. &lt;br&gt;&lt;br&gt;하지만 자세히 보면, 이상한 점들이 눈에 띈다. 우선 라면 이름은 까르보 불닭볶음면이지만, 라면 봉지 색상이 노란색이다. 삼양에도 노란색 봉지를 사용하는 불닭 시리즈가 있지만, 이는 치즈 불닭볶음면에 적용된다. 까르보 불닭볶음면 봉지 색상은 분홍색이다. 작성자가 올린 ‘불닭볶음면’ 사진 가운데 가장 눈에 띄는 건 왼쪽 상단에 적힌 기업명이다. 삼양식품 마크가 있어야 할 곳에 ‘빙고원’(BINGOONE)이라는 기업명이 적혔다. &lt;br&gt;&lt;br&gt;뒷면에 표기된 제품 정보에는 원산지가 중국(MADE IN P.R.C)이라고 적혀있다. ‘빙고원’ 메일 주소도 자체 도메인이 아닌 지메일이 사용됐다. 연락처 역시 중국 국제번호 형식이 아니다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3A452JHURBFHNE2FNGB2WIZP2U.png"&gt;&lt;figcaption&gt;&lt;small&gt;한 해외 네티즌이 가품 여부를 물으며 첨부한 짝퉁 불닭볶음면 사진. /레딧&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이에 해외 네티즌들은 댓글을 통해 작성자가 구매한 라면이 모조품이라는 근거들을 제시하고 시식을 만류했다. 네티즌들은 “까르보나라 포장은 분홍색이다. 라면도 모조품이 있는 줄 처음 알았다” “빙고원은 불닭볶음면을 만드는 회사가 아니다” “중국산 가짜 불닭 같다” 등의 반응을 보였다. &lt;br&gt;&lt;br&gt;불닭볶음면 가품 논란은 이 라면이 세계적인 인기를 끈 이후 지속되어 온 문제다. 모조품 대부분 중국에서 제작된 것으로 추정된다. 2021년 한국식품산업협회가 국내 식품 업체들과 협의체를 구성해 짝퉁 불닭볶음면을 포함해 여러 K푸드 모조품을 만드는 중국의 청도태양초식품과 정도식품을 상대로 소송을 제기해 2023년 일부 승소했지만, 여전히 중국산 짝퉁이 세계 곳곳에서 유통되는 모양새다. &lt;br&gt;&lt;br&gt;서경덕 성신여대 교수도 25일 자신의 페이스북을 통해 이 문제를 언급했다. 그는 “최근 해외에 거주하는 많은 네티즌이 제보를 해 줘서 알게 됐다”며 “포장지의 캐릭터 모습 및 글씨체도 비슷하고, ‘KOREA 마크’와 ‘할랄 마크’까지도 붙어 있어서 해외 소비자들이 진품을 구분하기가 쉽지 않은 상황”이라고 했다. &lt;br&gt;&lt;br&gt;서 교수는 국내 주요 식품 업체들이 중국 K푸드 모조품 생산·유통 기업들을 상대로 제기한 소송에서 일부 승소했을 당시 중국 법원이 판결한 배상액이 턱없이 적었다며 “한국 정부도 우리 기업이 해외에서 지식재산권을 보호받을 수 있도록 적극적인 대응을 펼쳐야만 할 것”이라고도 했다. 이어 “이런 짝퉁 식품이 전 세계에서 기승을 부리면 요즘 잘나가는 ‘K푸드’ 이미지에도 안 좋은 영향을 끼칠 수 있다”며 “짝퉁을 전 세계에 판매하는 중국 업체도 이젠 그만해야 할 것”이라고 했다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>미공개 정보로 부동산 사들여 30억 시세 차익…法, 전 인천시의원 ‘징역 2년’</title>
-      <link>https://www.chosun.com/national/court_law/2025/03/25/KVDQLUTFXBFMJEZJOJE5NCMK6Q/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/03/25/KVDQLUTFXBFMJEZJOJE5NCMK6Q/</guid>
-      <dc:creator>인천=이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 25 Mar 2025 02:45:04 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2IZ2QTOI65M3ZELNLM544E2NGQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;미공개 정보를 이용해 부동산을 사들여 30억원 가까운 시세차익을 본 전 인천시의원 A씨./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;공무원에게 얻은 미공개 정보를 이용해 부동산을 사들여 30억원 가까운 시세차익을 챙긴 전직 인천시의원에게 실형이 선고됐다. &lt;br&gt;&lt;br&gt;인천지법 형사17단독 김은혜 판사는 부패방지 및 국민권익위원회 설치와 운영에 관한 법률 위반 혐의로 기소된 전직 인천시의원 A(65)씨에 대해 징역 2년을 선고했다고 25일 밝혔다. 김 판사는 또 A씨가 미공개 정보를 이용해 사들인 토지를 몰수했다. 법정 구속은 하지 않았다. &lt;br&gt;&lt;br&gt;A씨는 지난 2017년 8월 7일 인천시의회 건설교통위원회 위원장으로 재직하면서 알게 된 미공개 정보를 이용해 인천시 서구 백석동 한들도시개발 사업지구 일대 부지 3435㎡를 19억6000만원에 사들인 뒤, 30억원이 넘는 시세차익을 얻은 혐의로 기소됐다. &lt;br&gt;&lt;br&gt;A씨는 해당 부지를 사들이기 전, 인천시 담당자로부터 한들지구도시개발사업의 내용과 추진 현황, 인‧허가 진행사항, 인‧허가 시점 등 일반에게 공개되지 않은 내용을 보고 받았다. 그는 이를 토대로, 이번 사업 실시계획이 인가되면 지가가 상승할 것으로 예상하고, 이 부지를 사들인 것으로 조사됐다. &lt;br&gt;&lt;br&gt;해당 부지는 시가 49억5000만원의 상업용지와 환지처분 될 예정이었다. 매매가액의 약 2.5배에 달하는 상당한 이득을 얻을 수 있었다. 환지는 도시개발 사업 과정에서 토지주들에게 돈 대신 다른 땅으로 보상하는 방식이다.&lt;br&gt;&lt;br&gt;A씨가 해당 부지를 구입하고 2주 뒤, 한들도시개발사업은 실시계획 인가를 받았다. &lt;br&gt;&lt;br&gt;경찰은 지난 2021년 한국토지주택공사(LH) 직원들의 땅 투기로 촉발된 부동산 비리 사건을 계기로 전반적인 수사를 진행하는 과정에서 A씨를 적발했다. &lt;br&gt;&lt;br&gt;A씨는 재판 과정에서 “한들도시개발사업의 실시계획 인가 진행 사항, 관계기관 협의 상황, 시점 등에 대해선 사업 조합원들 사이에 공개된 잘 알려진 정보였다”고 주장했으나, 법원은 업무처리 과정에서 알게 된 비밀에 해당한다고 판단했다. &lt;br&gt;&lt;br&gt;김 판사는 “피고인은 시의원으로 재직하던 중 소관부처로부터 개발사업의 실시계획 인가에 관해 외부에 알려지지 않은 사항을 보고 받고, 그 정보를 이용해 부동산을 취득했다”며 “관련 공무원에게 적극적으로 정보 제공을 요청해 죄책이 가볍지 않다”고 했다. &lt;br&gt;&lt;br&gt;이어 “공직자에 대한 국민의 신뢰를 훼손하는 등 사회적 폐해가 크므로 엄하게 처벌할 필요성이 있다”며 “동종 전과나 벌금형을 초과하는 형사처벌 전력이 없는 점 등을 고려했다”고 말했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“아이돌 콘서트 표·사인 받아 준다”...2400만원 가로챈 30대</title>
-      <link>https://www.chosun.com/national/regional/2025/03/25/VWZCTBG4XJBEDCRKFUBXSUFXMI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/03/25/VWZCTBG4XJBEDCRKFUBXSUFXMI/</guid>
-      <dc:creator>우정식 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 25 Mar 2025 02:54:38 +0000</pubDate>
-      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NEB72YMFAVHRJKGS7DXJM5DJ5A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원 로고. /조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;온라인상에서 유명 아이돌 그룹의 콘서트 티켓과 사인 등을 받아준다고 속여 피해자들로부터 2400만원을 받아 가로챈 30대에게 실형이 선고됐다.&lt;br&gt;&lt;br&gt;25일 법조계에 따르면, 대전지법 형사 8단독 이미나 부장판사는 사기 혐의로 기소된 A(30)씨에게 징역 6개월을 선고했다.&lt;br&gt;&lt;br&gt;A씨는 2023년 11월 13일부터 2024년 3월 1일까지 온라인 커뮤니티에서 아이돌 그룹 엔하이픈·NCT 등의 콘서트와 롤드컵 결승전 티켓 등을 판다고 속여 피해자 6명으로부터 모두 2400여만원을 가로챈 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;그는 콘서트에 관심을 보이는 피해자와 계속 연락하며 ‘가수 사인 대금’ 명목으로 추가 비용을 입금받거나 환불을 원하는 피해자에게는 처리비용이 든다며 각각 25만∼45만원의 수수료로 더 받아 챙겼지만, 그는 공연 관계자도 아니었고 티켓을 보유하지도 않았던 것으로 조사됐다.&lt;br&gt;&lt;br&gt;A씨는 인터넷 사기 범행으로 기소돼 2003년 9월 26일 500만원의 벌금형을 확정받았음에도 2개월도 안 돼 이 같은 범행을 되풀이한 것으로 확인됐다.&lt;br&gt;&lt;br&gt;이 부장판사는 “반성하지 않고 또다시 같은 범행을 저질러 죄질이 매우 불량하다”며 “피해자 1명을 제외한 나머지 피해자들에게 피해금을 전부 변제하지도 못했다”고 실형 선고 이유를 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>‘울퉁불퉁 덜커덩’...로마 거리 흉내낸 제주 산지천 ‘사괴석 도로’ 퇴출</title>
       <link>https://www.chosun.com/national/regional/jeju/2025/03/25/RQVLOGCYNVHCLJHNVSNNZJD5RA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/jeju/2025/03/25/RQVLOGCYNVHCLJHNVSNNZJD5RA/</guid>
@@ -931,15 +954,6 @@
       <description/>
       <pubDate>Tue, 25 Mar 2025 01:53:46 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DQUOH2NRUVA3RHOCC2MYSAZO3U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;제주시 산지로에 설치된 사괴석 도로./독자 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘명품 거리’를 꿈꿨던 제주시 산지로에 깔린 ‘사괴석’이 8년 만에 철거된다.&lt;br&gt;&lt;br&gt;25일 제주시에 따르면 예산 15억원을 투입해 이달 중 산지로(동문로터리~산지천 용진교) 450m 구간 도로에 깔린 사괴석을 걷어내고 오는 10월 말까지 아스콘으로 포장한다. 사괴석(四塊石)은 육면체의 화강석을 도로면에 깔아서 울퉁불퉁하게 만든 것이다. &lt;br&gt;&lt;br&gt;제주시는 지난 2017년 탐라문화광장 조성 당시 구도심 활성화를 위해 산지천 동쪽 이 구간을 ‘차 없는 거리’와 ‘세계음식테마거리’로 조성하기 위해 사괴석으로 포장했다. 산지천 사괴석 도로는 로마 등 유럽 옛 도시의 거리를 모델로 추진됐다. 사괴석을 까는 도로 건설 비용은 아스콘 포장 비용보다 8배나 들어가는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;하지만 세계음식테마거리에는 맥주 전문 음식점과 카페마을, 게스트하우스를 유치하려고 했지만 민간 투자자가 나오지 않으면서 사업은 무산됐고, 사괴석 포장 도로는 애물단지가 됐다.&lt;br&gt;&lt;br&gt;이후 이 도로에는 버스와 화물차 등 대형 차량 통행이 빈번해 지면서 도로 곳곳이 움푹 파였고, 이로 인해 노면 충격과 소음, 돌가루 분진이 날렸다.&lt;br&gt;&lt;br&gt;주민들은 “운전자는 물론 통행하는 주민 모두가 불편하고, 비포장도로나 다름없을 정도로 진동과 소음이 발생하고 있다”며 지속적으로 민원을 제기했다.&lt;br&gt;&lt;br&gt;제주시 관계자는 “산지로와 임항로를 오가는 차량마다 진동과 소음 불편 민원이 잇따르면서 아스콘 포장으로 교체하게 됐다”며 “빠르면 이번 주 내로 계약을 마무리하고 착공에 나서겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;제주시는 현행 4차로를 2차로로 줄인 뒤 보행로와 녹지공간을 확장하기로 했다. 이에 따라 산지천을 따라 폭 1.5m로 조성된 보행로는 최대 5m까지 늘어나 보행환경이 개선된다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“민증 안 보던데요”…10대에 술 판매한 노래방 업주 벌금 1000만원</title>
-      <link>https://www.chosun.com/national/national_general/2025/03/25/2E77GNIKSJHJDEGZFPQ2RRLSDE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/03/25/2E77GNIKSJHJDEGZFPQ2RRLSDE/</guid>
-      <dc:creator>최혜승 기자 </dc:creator>
-      <description/>
-      <pubDate>Tue, 25 Mar 2025 01:50:15 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NGF6LIB2YFASPESKNAP26UZWJM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원 /일러스트=정다운&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한밤중 노래연습장에 온 청소년들의 신분증을 검사하지 않고 주류까지 판매한 70대 업주가 항소심에서 벌금형을 선고받았다.&lt;br&gt;&lt;br&gt;25일 법조계에 따르면 춘천지법 형사1부(부장판사 심현근)는 음악 산업 진흥에 관한 법률 위반, 청소년 보호법 위반 혐의로 기소된 여성 A(71)씨의 항소심에서 원심을 파기하고 벌금 1000만원을 선고했다.&lt;br&gt;&lt;br&gt;A씨는 2023년 3월 1일 오후 10시 30분쯤 강원 춘천시에서 운영하는 노래연습장에 청소년 8명의 신분증 검사를 제대로 하지 않고 출입시킨 혐의로 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;노래연습장 업자는 대통령령이 정하는 출입 시간(오전 9시부터 오후 10시까지) 이외에 청소년을 노래연습장에 출입시켜서는 안 된다.&lt;br&gt;&lt;br&gt;A씨는 또 같은 해 9월 27일 오전 2시쯤 16세 여학생 3명의 신분증을 확인하지 않고 노래연습장에 출입시키고 소주 1병과 맥주 2캔을 판매한 혐의로 기소됐다.&lt;br&gt;&lt;br&gt;A씨는 재판 과정에서 “청소년들의 신분증을 모두 확인했다”고 주장했으나, 청소년들은 수사기관에서부터 법정에 이르기까지 “A씨가 신분증을 확인하지 않았다”고 진술했다.&lt;br&gt;&lt;br&gt;1심 재판부는 청소년들 진술이 충분히 신빙성이 있다고 보고 출입시간 이외에 청소년을 들인 사건에는 벌금 500만원, 출입시간 이외에 노래연습장에 온 청소년들에게 술을 판매한 사건에는 벌금 700만원을 각각 선고했다.&lt;br&gt;&lt;br&gt;A씨는 “형량이 무거워 부당하다”며 항소했다. 그러나 항소심 재판부는 “피고인은 과거 동종 범죄로 여러 차례 처벌받은 전력이 있음에도 재차 범행했다. 범행을 인정하지 않는 등 범행 후 정황도 좋지 않다”며 A씨가 원심 판결에 대해 제기한 항소 사건들을 병합해 심리, 벌금 1000만원을 선고했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>“집단 최면 걸린 듯 안 믿는데, 제적·유급 엄포 아니다...내년 증원 0명 무산될 수도”</title>
