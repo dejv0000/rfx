@@ -13,6 +13,24 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>전북 무주 주택에서 난 불, 야산 확산…8시간째 진화 중</title>
+      <link>https://www.chosun.com/national/national_general/2025/03/27/G3SDSXLKN5F3BLRX2WUP2HNTZY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/03/27/G3SDSXLKN5F3BLRX2WUP2HNTZY/</guid>
+      <dc:creator>이가영 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 26 Mar 2025 21:51:28 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/O36YYLWKHRPUDFZKYOV537E7QY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;26일 오후 9시 21분쯤 전북 무주군 부남면의 한 주택에서 난 불이 산으로 번져 연기가 치솟고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전북 무주군의 한 주택에서 난 불이 산불로 번져 확산하고 있다. &lt;br&gt;&lt;br&gt;전북특별자치도 소방본부에 따르면 26일 오후 9시 21분쯤 무주군 부남면에서 발생한 산불은 현재 인근 적상면 야산으로 번진 상태다. 처음 이 불은 주택에서 났으나 바람을 타고 인접한 야산으로 번지면서 걷잡을 수 없이 확산했다. &lt;br&gt;&lt;br&gt;소방 당국은 화재 발생 40여 분 만인 오후 10시 11분쯤 관할 소방서 전체 인력이 출동하는 대응 1단계를 발령하고, 차량 59대와 인력 246명을 동원해 불길을 잡고 있다. 이때부터 시작된 진화 작업은 8시간 넘게 진행 중이다. &lt;br&gt;&lt;br&gt;소방 당국은 야산 경계를 중심으로 숲에 물을 뿌리는 등 저지선을 구축해 불길이 확산하는 것을 막고 있다. 현재까지 인명 피해는 없는 것으로 확인됐다. &lt;br&gt;&lt;br&gt;무주군은 인접 4개 마을 주민에게 마을회관 등 안전한 장소로 대피하라는 안전 문자를 발송했다. 밤새 불길이 민가 반대 방향으로 향하자 주민들은 현재 ‘자택 대기’ 상태로 상황을 지켜보고 있다. &lt;br&gt;&lt;br&gt;전북소방본부 관계자는 “야간에 화재가 난 데다 바람까지 불어 일단 저지선을 구축해 불길이 민가 방향으로 오지 않도록 막고 있다”며 “다행히 야산 방향으로 불길이 향해 주민들은 자택으로 돌아간 상태”라고 전했다. 이어 “날이 밝은 대로 추가 인력과 소방 헬기를 투입해 진화 작업을 이어갈 예정”이라고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>안동 병산서원 인근 산불 밤새 소강상태…“비 예보에 기대”</title>
+      <link>https://www.chosun.com/national/national_general/2025/03/27/R6N5XVAOGJGZFHCVTM5S2JY2OU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/03/27/R6N5XVAOGJGZFHCVTM5S2JY2OU/</guid>
+      <dc:creator>이가영 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 26 Mar 2025 21:15:38 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AK46VY2TLZJV7JJM6H4VJITW7Y.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;26일 오후 경북 안동시 세계문화유산인 병산서원에 소방차 등이 대기하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경북 의성에서 발생한 산불이 강한 바람을 타고 경북 북부 지역을 강타한 가운데, 세계문화유산인 안동 병산서원 인근까지 진출한 산불이 밤새 소강상태를 보였다.&lt;br&gt;&lt;br&gt;27일 소방 당국에 따르면 전날 밤 서원에서 직선거리로 3㎞ 떨어진 풍천면 인금리 야산까지 접근한 불길은 밤새 크게 확산하지 않고 비슷한 기세를 유지했다.&lt;br&gt;&lt;br&gt;밤새 바람이 초속 1∼2ｍ로 약하게 불고 방향도 서원 쪽과 비껴 있어서 별다른 피해는 발생하지 않은 것으로 당국은 보고 있다.&lt;br&gt;&lt;br&gt;서원 인근과 하회마을은 여전히 연무로 가득한 가운데 소방대원 50여 명과 소방 차량 10여 대가 만일의 사태에 대비해 대기 중이다. 소방 당국은 날이 밝는 대로 하회마을과 병산서원 건물과 소나무 숲 등에 물을 뿌리는 작업을 이어갈 계획이다.&lt;br&gt;&lt;br&gt;산림 당국도 이 일대 연무가 어느 정도 걷히면 헬기를 띄워 인근 야산에 물을 투하해 산불의 접근을 선제적으로 차단할 방침이다.&lt;br&gt;&lt;br&gt;이날 하회마을 일대에 비가 내릴 것으로 예보되면서 번져가는 불의 기세를 꺾을 수 있을지 주목된다. 소방 관계자는 “오전과 오후에 한때 1㎜ 안팎씩 비가 내릴 것으로 예보됐다”며 “예상 강수량이 크게 부족해 보이지만 하회마을과 병산서원으로 불이 접근하는 것을 최대한 늦출 수 있도록 진화에 최선을 다하겠다”고 말했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OIULXJPPMJLH5NT4EX3HDNMM5I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;26일 밤 경북 의성군 옥산면 신계2리 기룡산에서 민가 방향으로 산불이 번지고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한편, 지난 22일 의성에서 발생한 산불이 사흘 만인 지난 24일 인접한 안동 길안면을 비롯해 남선면, 임하면 일부 마을까지 확산하며 안동을 덮치기 시작했다. &lt;br&gt;&lt;br&gt;이 산불은 계속 확산해 발생 나흘째인 지난 25일 안동 전역에 주민 대피령을 내리게 했고, 동진을 이어가면서 청송까지 넘어갔다. 청송으로 퍼진 산불은 같은 날 영덕에까지 영향을 미쳤다. 또 북동쪽으로도 향해 영양으로도 번졌다. &lt;br&gt;&lt;br&gt;이처럼 경북 북동부를 강타한 의성 산불은 안동 지역에만 산불영향구역이 3만7000여㏊(지자체 자체 추산)로 추정될 만큼 큰 피해를 불러오고 있다. 또 주거지 등에서 미처 대피하지 못했거나 대피하던 이들을 화마가 덮쳐 영덕 8명, 영양 6명, 안동 4명, 청송 3명 등 20명이 넘는 사망자를 냈다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>“李 항소심 결론, 발언 조각내 무죄로 몰아간 제2의 권순일 판결”</title>
       <link>https://www.chosun.com/national/court_law/2025/03/27/M5LGCRY3PZD73IQIHPYFXM7L5M/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/03/27/M5LGCRY3PZD73IQIHPYFXM7L5M/</guid>
@@ -805,15 +823,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TUT7ONAE2ZC4LL3QI6GMHDDFJI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;교정정보 빅데이터 시각화 서비스 /법무부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;법무부는 26일부터 교정본부 홈페이지(www.corrections.go.kr)에서 전국 교도소와 구치소 관련 주요 통계를 한눈에 볼 수 있는 ‘교정 정보 빅데이터 시각화 서비스’를 제공한다고 밝혔다.&lt;br&gt;&lt;br&gt;서비스 이용자는 전국 교정기관의 일반·연령 및 성별 수용 현황, 마약류·조직폭력·정신질환 수용자 현황과 접견·심리치료·상담·출정 현황 등 15개 분야의 월별 통계를 그래픽 등으로 볼 수 있다. &lt;br&gt;&lt;br&gt;연도별 통계에서는 1990년부터 작년까지의 수용인원 변화, 인구 10만명당 수용인원, 교정공무원 현황, 죄명별 수용 인원, 가석방 및 연도별 외부의료시설 진료 현황을 확인할 수 있다.&lt;br&gt;&lt;br&gt;신용해 교정본부장은 “교정 데이터는 그동안 쉽게 접근하기 어려운 측면이 있었는데, 앞으로 국민이 쉽게 접근하고 이해할 수 있는 빅데이터 시각화 기법을 적용해 교정 통계를 제공해서 교정 행정의 투명성과 효율성을 높이겠다”고 했다.&lt;br&gt;&lt;br&gt;전국 교도소와 구치소에 수용된 인원은 지난 2월 말 기준 6만1947명으로 형이 확정된 기결수가 4만1119명, 재판이 진행 중인 미결수가 2만828명이었다. 연령별로는 50대가 가장 많은 1만3344명(21.54%)이었고 이어 40대(1만3306명·21.48%), 30대(1만2748명·20.58%) 순이었다. 성별로는 여성이 8.7%인 5391명이었다.&lt;br&gt;&lt;br&gt;전국 교정시설은 민영교도소 포함 총 55개이다. 안양교도소가 1963년 7월 준공돼 가장 오래됐고, 거창구치소가 가장 최근인 2023년 1월 설립됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>“이상한데” 행인들 신고에…21층 높이 매달린 외벽 작업자 심정지로 발견</title>
-      <link>https://www.chosun.com/national/national_general/2025/03/26/CGVQ37NYVBD3PNEVJDESDFZLHY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/03/26/CGVQ37NYVBD3PNEVJDESDFZLHY/</guid>
-      <dc:creator>최혜승 기자 </dc:creator>
-      <description/>
-      <pubDate>Tue, 25 Mar 2025 23:45:40 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/P5R7LF3QMRE7FBK2JXN76BVT3Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;119 일러스트. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;충남 아산시의 공사 현장에서 외벽 작업을 하던 50대 인부가 심정지 상태로 발견됐다.&lt;br&gt;&lt;br&gt;26일 아산소방서에 따르면 전날 오후 2시 32분쯤 충남 아산시 배방읍 장재리의 48층짜리 아파트 건설 공사 현장에서 외벽 작업을 하던 50대 A씨가 심정지 상태로 발견됐다. A씨는 21층 높이에 매달려 있었다. &lt;br&gt;&lt;br&gt;당시 공사장을 지나던 행인이 “공사 현장에서 일하던 인부가 줄에 매달려서 외벽에 부딪히고 있다”며 소방 당국에 신고한 것으로 알려졌다. &lt;br&gt;&lt;br&gt;출동한 소방 당국은 고층에 매달려 있던 A씨를 지상으로 구조한 뒤 그가 호흡과 의식이 없는 심정지 상태인 것을 확인하고 병원으로 옮겼다. &lt;br&gt;&lt;br&gt;경찰은 A씨가 강풍으로 외벽에 부딪혀 사고가 난 것으로 추정하고 정확한 사고 경위를 조사하고 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>목줄에 묶여 피할 수도 없다… 거센 산불에 홀로 남겨진 개들</title>
       <link>https://www.chosun.com/national/national_general/2025/03/26/NNPLK2SFXJG4ZJAUHG5VREYNMU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/03/26/NNPLK2SFXJG4ZJAUHG5VREYNMU/</guid>
@@ -989,15 +998,6 @@
       <description/>
       <pubDate>Tue, 25 Mar 2025 09:18:50 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JV7RSDEGCC7BYRWTBRIOMLRRK4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;인천경찰청./ 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전자칠판 납품 비리 사건을 수사하고 있는 경찰이 현직 인천시의원 2명 등 총 5명의 구속영장을 신청했다.&lt;br&gt;&lt;br&gt;인천경찰청 반부패경제수사대는 뇌물수수 혐의로 A씨와 B씨 등 현직 인천시의원 2명의 구속영장을 신청했다고 25일 밝혔다. &lt;br&gt;&lt;br&gt;경찰은 또 이들에게 뇌물을 준 혐의(뇌물공여)로 전자칠판 납품업체 대표 등 관계자 3명의 구속영장을 함께 신청했다. &lt;br&gt;&lt;br&gt;검찰은 이들의 구속영장을 이날 법원에 청구했다. &lt;br&gt;&lt;br&gt;A씨와 B씨 등 시의원 2명은 인천시교육청이 추진한 학교 전자칠판 사업과 관련해 업체로부터 금품을 받은 혐의를 받고 있다. &lt;br&gt;&lt;br&gt;이들은 전자칠판 업체들이 납품할 수 있도록 인천지역 학교에 영향력을 행사하고, 리베이트 명목으로 납품 금액의 20%를 받은 것으로 알려졌다. &lt;br&gt;&lt;br&gt;업체 대표 등 전자칠판 납품업체 관계자 3명은 이들 시의원에게 금품을 제공한 혐의를 받는다. &lt;br&gt;&lt;br&gt;이번 사건과 관련해 경찰이 입건한 피의자는 인천시의원 2명을 포함해 총 9명이다. &lt;br&gt;&lt;br&gt;경찰은 지난해 9월 인천시의원들이 전자칠판 업체들의 납품을 돕고 이를 대가로 리베이트를 받았다는 의혹이 있다는 인천시민‧교육단체들의 진정서를 접수해 수사에 착수했다. &lt;br&gt;&lt;br&gt;경찰은 지난해 11~12월 납품업체 대표의 자택과 사무실을 비롯해, 시의원 2명의 자택과 사무실 등을 압수수색해 관련 자료들을 확보했다. &lt;br&gt;&lt;br&gt;경찰 관계자는 “지난 6개월간 압수수색을 비롯해 관련자 조사와 통신 내역 확인, 자금 추적 등 광범위하게 수사했다”며 “전자칠판 사업 전반을 철저히 수사할 것”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>헌재, 27일 일반 사건 선고… 尹선고 4월로 넘어갈 가능성 커</title>
-      <link>https://www.chosun.com/national/court_law/2025/03/25/IOS3IX4XXJAD3IYY67FNDRIJIU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/03/25/IOS3IX4XXJAD3IYY67FNDRIJIU/</guid>
-      <dc:creator>김나영 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 25 Mar 2025 08:58:23 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3WZ773EHFW4WRJD6PPJWTWUKPU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;23일 서울 종로구 헌법재판소에서 깃발이 바람에 날리고 있다./뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;헌법재판소가 오는 27일 일반 사건에 대한 선고를 내린다. 당초 윤석열 대통령 탄핵심판 등 주요 사건이 몰려 일반 사건 선고를 미룰 수도 있다는 전망도 나왔지만, 내달 퇴임을 앞둔 재판관들이 있는 만큼 일정을 그대로 진행할 방침이다.&lt;br&gt;&lt;br&gt;헌재는 25일 공지를 내고 “27일 오전 10시 대심판정에서 선고를 진행한다”라고 밝혔다. 매월 마지막 주 목요일은 헌재의 정기 선고일로, 이날 헌재는 한 달 동안 심리한 헌법소원 사건 등에 대한 결정을 한꺼번에 낸다. 이번 달 헌재가 선고할 일반 사건은 헌법소원 10건과 기소유예 취소 30건으로 총 40건이다.&lt;br&gt;&lt;br&gt;당초 윤 대통령 탄핵 선고가 임박했다는 소문이 돌면서 헌재가 이번 달 정기 선고를 건너뛰지 않겠냐는 추측이 나왔다. 이번 달 초였던 지난 24일엔 한덕수 총리 탄핵 선고가 있었고, 주요 사건에 대한 평의도 연일 이어가고 있기 때문이다. 하지만 내달 18일 문형배 헌재소장 권한대행과 이미선 재판관이 퇴임하는 만큼 그동안 이들이 심리해 온 사건에 대한 선고를 내리기로 한 것으로 보인다.&lt;br&gt;&lt;br&gt;한편 헌재는 이날까지 윤 대통령에 대한 탄핵 선고일을 지정하지 않았다. 지금까지 헌재가 선고 2~3일 전 선고 날짜를 알려왔던 점, 선고일을 연달아 잡지 않았던 점을 고려하면 윤 대통령 탄핵선고 일자는 다음 주로 넘어갈 가능성이 크다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
