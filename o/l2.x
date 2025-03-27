@@ -45,7 +45,7 @@
 			<dc:creator>정거장</dc:creator>
 		</item>
 		<item>
-			<title>법조광장 : [김기원의 작은 기원] (1) 사법제도가 바라봐야 할 곳 - 판검사 중심 사법제도에서
+			<title>김기원의 작은 기원 : (1) 사법제도가 바라봐야 할 곳 - 판검사 중심 사법제도에서
 국민과 변호사는 무력하다
 억울한 국민 생겨나는
 악순환의 고리 끊으려면
@@ -92,6 +92,16 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/opinion/206595</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/thumb/256/206595.jpg</media:thumbnail>
 			<dc:creator>고승철</dc:creator>
+		</item>
+		<item>
+			<title>법조광장 : 이어폰을 버립시다</title>
+			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/thumb/256/206604.jpg" alt="023425.jpg" /&gt;&lt;/p&gt;&lt;p style="text-align: center;"&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;법조인 중에도 본인이나 그 자녀들에게 귓구멍에 집어넣는 이어폰을 사용하는 예가 많이 있습니다&lt;/p&gt;&lt;p&gt;.&lt;/p&gt;&lt;p&gt;그것은 소리의 진동이 일차로 고막에 충격을 주어, 5년만 그 상태로 살면 고막파열이 일어나거나, 구멍이 뚫리는 경우가 대부분으로 결국 난청으로 되는 경우가 발생합니다. 대부분의 청소년들이 양쪽귀에 꼽고 다니다가 하나를 분실하면 새로 사달라고 합니다. 이런 경우에는 경제적 비용도 만만치 않습니다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 320px;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/256/206604.jpg" alt="ear.jpg" style="width: 320px; height: 214px;" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;《사진=어도비스톡》&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;이를 해결하기 위해 과학자들이 골전도 이어폰을 만들었습니다. 그 이어폰은 고막을 건드리지 않고 외귀의 뼈에 진동을 주고 청신경에 진동이 되어 소리가 전달되는 구조라 아무리 오래써도 귓병이 안생깁니다. 그 기술력이 일제(한번 충전 후 12시간 사용)와 국산(한번 충전 후 4시간 사용)간에 차이가 납니다. 전자는 후자에 비해 가격도 3배 차이납니다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;보건복지부에 이어폰 사용금지를 유도할 의향이 있는지 알아본 결과 이어폰이 공산품이어서 산자부과 협의를 해야하는 등 쉬운일이 아니라는 답변을 들었습니다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;여하간에 집에 있는 이어폰 대신 골전도 이어폰을 사용하여 건강을 되찾아 오래 오래 건강하게 사시기 바랍니다.&amp;nbsp;&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;   &lt;span style="font-weight: bold;" serial="6118"&gt;주기동&lt;/span&gt;&lt;b&gt;&amp;nbsp;변호사(한국의료분쟁조정중재원 부산지원장·전 서울고법 부장판사)&lt;/b&gt;&lt;/p&gt;</description>
+			<pubDate>Tue, 25 Mar 2025 20:07:17 -0000</pubDate>
+			<category>opinion</category>
+			<link>https://www.lawtimes.co.kr/opinion/206604</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/opinion/206604</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/256/206604.jpg</media:thumbnail>
+			<dc:creator>주기동</dc:creator>
 		</item>
 		<item>
 			<title>비욘드 로스쿨 : 선택 과목을 '선택'하는 용기</title>
@@ -147,20 +157,6 @@ OECD국 중 두 번째로 많아
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/opinion/206481</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/thumb/256/206481.jpg</media:thumbnail>
 			<dc:creator>이상직</dc:creator>
-		</item>
-		<item>
-			<title>경찰수사실무와 법률이야기 : 개방형 조사실이 필요한 이유 - 개방된 공간에서 신문하면
-단독 조사라 보기 어려워
-위법성 논란 줄어들고
-수사관 부담 줄일 수 있어
-합법·실효성 동시 확보 가능</title>
-			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/thumb/256/206504.jpg" alt="435347.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;2016년 12월, OO 경찰서 소속 A 경위는 주거침입 사건 피의자를 신문하면서 B 경장을 참여인으로 기재하고 그의 인장으로 기명날인하였다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;이후 허위공문서작성 및 행사죄로 기소되어 유죄 판결을 받았으며, 피의자가 사망한 후 국가를 상대로 한 유족의 손해배상 소송에서도 국가의 2000만 원 배상 책임이 인정되었고, A 경위는 결국 구상책임까지 부담하게 되었다.&lt;/p&gt;&lt;p&gt;A 경위가 형사처벌을 받은 이유는 형사소송법 제243조를 위반하여 단독으로 신문을 진행한 후, B 경장의 동의 없이 그의 기명날인을 한 점 때문이었다. 일선 경찰서에서는 현실적으로 단독 신문이 불가피한 경우가 많지만, 이러한 관행이 사법적 판단에서 문제로 지적된 것이다.&lt;/p&gt;&lt;p&gt;&lt;b&gt;&lt;br /&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;진술녹음제도와 조사공간 변화&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;&amp;nbsp;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;2019년 12월 경찰청은 모든 수사부서에서 진술녹음제도를 시행하도록 지시하였고, 조사공간과 사무공간을 분리하는 표준 설계안을 마련하여 조사실을 증설하였다. 2021년에는 형사소송법 개정에 따라 영상녹화 및 진술녹음 시스템을 더욱 강화하라는 지시가 내려졌다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;이에 따라 수사부서 사무실은 피의자신문 공간과 분리되어 업무 효율성이 높아졌지만, 예상치 못한 문제가 발생했다. 피의자신문의 경우 형사소송법 제243조에 따라 사법경찰관리를 반드시 참여시켜야 하는데, 독립된 조사실에서 이를 준수하려면 항상 2인 1조로 움직여야 하는 불편함이 생겼다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;과중한 업무를 맡고 있는 수사관 입장에서는 몇 시간 동안 단순 참여 업무를 수행하기 어렵고, 이에 따라 참여 사법경찰관이 조사실을 이탈하는 경우가 빈번해졌다. 이러한 현실 속에서, 과연 피의자신문에 참여하지 않은 사법경찰관에게 직무유기 책임을 물을 수 있는지, 조서에 기명날인한 경우 허위공문서작성죄가 적용될 수 있는지 논란이 되고 있다.&lt;/p&gt;&lt;p&gt;&lt;b&gt;&lt;br /&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;책상 여러 개 낮은 칸막이로 구분&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;&amp;nbsp;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;필자는 이러한 문제를 해결하기 위한 대안으로 ‘개방형 조사실’을 제안한다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;과거 구치소 수사접견실에서는 개별 조사실이 아닌 개방된 공간에 여러 개의 책상을 배치하고, 낮은 칸막이로 구분하여 수사관과 피조사자가 한 공간에서 조사하는 방식을 운영했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;이러한 방식은 단독 조사의 위법성 논란을 줄일 수 있는 현실적인 대안이 될 수 있다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;필자는 과거 원거리 출장 중 구치소에서 피의자를 신문할 때 다른 수사관으로부터 참여인 서명을 부탁받은 경험이 있다. 개방된 공간에서는 단독 조사가 이루어졌다고 보기 어려우므로 위법성 논란이 줄어든다. 현재 범죄수사규칙에 따라 조사에 참여한 경찰관의 신원을 고지해야 하지만, 개방형 조사실을 도입하면 현실적인 운영 방식과 법적 요구를 조화시킬 수 있다.&lt;/p&gt;&lt;p&gt;&lt;b&gt;&lt;br /&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;형사정책적 개선 필요성&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;&amp;nbsp;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;형사정책 결정권자는 위법성 논란이 없는 피의자신문 방법을 연구하고, 보다 유연한 방식으로 시스템을 개선해야 한다. 법령 내에서 훈령·예규·지침을 마련하여 수사관이 허위공문서작성죄로 처벌받지 않도록 실질적인 대안을 제공해야 한다. 개방형 조사실 도입과 같은 시스템 개선이 이루어진다면, 일선 수사관들의 업무 부담을 줄이고, 피의자신문 절차의 합법성과 실효성을 동시에 확보할 수 있을 것이다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;   &lt;b&gt;박수만 교수(경찰수사연수원·수사실무연구회)&lt;/b&gt;&lt;/p&gt;&lt;p&gt;   &lt;b&gt;&amp;nbsp;&lt;/b&gt;&lt;/p&gt;&lt;div style="margin-bottom:15px; padding:15px; background-color:#eeeeee"&gt;&lt;b&gt;박수만 경찰수사연수원 교수요원&lt;br /&gt;&lt;/b&gt;   &lt;p&gt;- 건국대 신문방송학과 졸업&lt;/p&gt;   &lt;p&gt;- 강서경찰서 과학수사팀·경제범죄수사팀 근무. 국가수사본부 재산범죄·명예범죄 전문수사관, 경찰청 전임수사관.&lt;/p&gt;   &lt;/div&gt;</description>
-			<pubDate>Fri, 21 Mar 2025 20:06:59 -0000</pubDate>
-			<category>opinion</category>
-			<link>https://www.lawtimes.co.kr/opinion/206504</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/opinion/206504</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/256/206504.jpg</media:thumbnail>
-			<dc:creator>박수만</dc:creator>
 		</item>
 	</channel>
 </rss>
