@@ -13,6 +13,24 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>잦아든 바람, 높은 습도에...간밤 의성 산불 진화율 95%</title>
+      <link>https://www.chosun.com/national/incident/2025/03/28/N2V4LQGIFRFJZJCEPJLFHG4VBM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/03/28/N2V4LQGIFRFJZJCEPJLFHG4VBM/</guid>
+      <dc:creator>이승규 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 27 Mar 2025 22:51:45 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ERZO6K6T6VO6NM6WBYWLHUPP5A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt; 28일 경북 의성군 산림이 일주일간 지속된 산불로 폐허가 돼 있다. 산림 당국은 이날 오전 5시 기준 의성 지역의 산불 진화율은 95%라고 밝혔다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 22일부터 이레째 지속되고 있는 경북 의성 산불 진화율이 95%에 달했다. 간밤에 잠시 내린 비와 높은 습도, 잦아든 바람 등 날씨가 돕는 가운데 진화 인력을 대거 투입하면서다. 다만 이날 오후쯤 강풍이 예상되면서 산불이 재발화할 수 있는 만큼, 산림 당국은 진화 작업에 총력을 기울일 방침이다. &lt;br&gt;&lt;br&gt;28일 산림당국 등에 따르면 경북 의성군의 산불 진화율은 62%에서 95%로, 안동시는 63%에서 85%, 청송군은 80%에서 89%, 영양군은 60%에서 76%, 영덕군은 55%에서 65%로 각각 증가했다.&lt;br&gt;&lt;br&gt;평균 진화율은 전날 63%에서 85%로 늘었다. 전체 산불영향구역은 4만 5157ha로 역대 최대다.&lt;br&gt;&lt;br&gt;산림 당국은 간밤에 30분 정도 내린 비와 습도가 높은 날씨, 잦아든 바람이 진화 작업에 도움이 된 것으로 보고 있다. 산림 당국은 전날 밤 산불 진화 인력 3700명과 고성능 산불 진화차와 소방차 등 진화 장비 651대를 투입해 야간 진화에 나섰다.&lt;br&gt;&lt;br&gt;다만 이날 오후쯤 강풍이 예상되면서 산불이 재발화할 수 있기에 안심할 수는 없다는 게 산림 당국의 입장이다.&lt;br&gt;&lt;br&gt;산림청 관계자는 “간밤에 날씨 여건이 좋아 진화 인력을 집중 투입해 진화율을 높였다”면서도 “아직 주불 진화를 선언할 단계는 아니며, 강풍에 대비하면서 최대한 진화에 총력을 다하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>전자칠판 설치 돕고 리베이트 받은 혐의… 인천시의원 2명 구속</title>
+      <link>https://www.chosun.com/national/court_law/2025/03/28/RG7NDE3K5RETHL4FM5Q5CYXXZI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/03/28/RG7NDE3K5RETHL4FM5Q5CYXXZI/</guid>
+      <dc:creator>인천=이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 27 Mar 2025 23:02:41 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/T6HTFSUZMFM6DDQNR5VEQ5ER64.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전자칠판 납품 사업과 관련해 업체 관계자들로부터 금품을 받은 혐의를 받는 인천시의회 소속 조현영 의원(왼쪽)과 신충식 의원이 지난 27일 구속 전 피의자 심문(영장실질심사)을 받기 위해 인천지법으로 들어서고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;학교에 전자칠판을 설치하도록 영향력을 행사하고, 이를 납품한 업체로부터 뇌물을 받은 혐의를 받는 현직 인천시의원 2명이 28일 구속됐다.&lt;br&gt;&lt;br&gt;인천경찰청 반부패경제범죄수사대는 28일 특정범죄가중처벌 등에 관한 법률상 뇌물 혐의로 인천시의회 신충식(51)의원과 조현영(50)의원을 구속했다고 밝혔다. &lt;br&gt;&lt;br&gt;경찰은 또 이들에게 뇌물을 건넨 혐의를 받는 전자칠판 납품업체 관계자 2명 중 대표 A씨를 함께 구속했다. &lt;br&gt;&lt;br&gt;최상수 인천지법 영장전담 부장판사는 전날 오후 이들 시의원 2명과 A씨에 대한 구속 전 피의자 심문(영장실질심사)을 진행한 뒤, 이들에 대한 구속영장을 발부했다. &lt;br&gt;&lt;br&gt;최 판사는 “증거인멸과 도주의 우려가 있다”며 이같이 판단했다. &lt;br&gt;&lt;br&gt;이들과 함께 구속 전 피의자 심문을 받은 업체 관계자 2명에 대해선 “범행가담 정도, 수사 경과 등에 비춰 구속의 필요성과 상당성을 인정하기 어렵다”거나 “증거를 인멸하거나 도주할 염려가 없다”는 이유로 각각 구속영장을 기각했다. &lt;br&gt;&lt;br&gt;신 의원과 조 의원은 전날 오후 2시 10분쯤 구속 전 피의자 심문이 열리는 인천지법에 잇따라 출석했다. &lt;br&gt;&lt;br&gt;취재진에 아무런 말 없이 법원 안으로 들어간 신 의원과 달리, 조 의원은 금품 수수 혐의를 인정하느냐는 취재진 질문에 “아니다”라고 하고, “시민에게 할 말은 없느냐”는 질문엔 “(영장실질심사) 결과를 보고 이야기하겠다”고 했다. &lt;br&gt;&lt;br&gt;납품업체 대표 등 업체 관계자 3명도 이날 구속 전 피의자 심문을 위해 잇따라 인천지법으로 들어갔다. &lt;br&gt;&lt;br&gt;신 의원과 조 의원 등 시의원 2명은 2022년 말부터 지난해 초까지 인천시교육청의 학교 전자칠판 사업과 관련해 A씨 등 납품업체 관계자들로부터 금품을 받은 혐의를 받고 있다. &lt;br&gt;&lt;br&gt;이들은 A씨 업체가 납품할 수 있도록 인천지역 학교에 영향력을 행사하고, 리베이트 명목으로 납품 금액의 20%를 받은 것으로 파악됐다.&lt;br&gt;&lt;br&gt;A씨 등 전자칠판 납품업체 관계자 3명은 이들 시의원에게 금품을 제공한 혐의를 받는다.&lt;br&gt;&lt;br&gt;굥찰은 이번 전자칠판 납품 비리 사건과 관련해 입건한 피의자는 시의원 2명 5명을 포함해 총 9명이다. 나머지 피의자 4명은 전자칠판 납품업체 관계자는 아닌 것으로 알려졌다. &lt;br&gt;&lt;br&gt;경찰은 지난해 9월부터 이번 사건에 대한 수사에 착수했다. 인천지역 10여개 시민‧교육단체들 당시 인천시의원들이 전자칠판 업체들의 납품을 돕고 이를 대가로 리베이트를 받았다는 의혹이 있다는 내용의 진정서를 경찰에 제출했다. &lt;br&gt;&lt;br&gt;경찰은 지난해 11~12월 납품업체 대표의 자택과 사무실을 비롯해, 시의원 2명의 자택과 사무실 등을 압수수색해 관련 자료들을 확보했다.&lt;br&gt;&lt;br&gt;이와 별도로, 신 의원은 지난해 12월과 지난 2월, 각각 음주운전을 하다가 적발돼 검찰에 의해 불구속 기소됐다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>“의대생들, 모든 총장이 대변인·후견인 될테니 학교 돌아와 대화하자”</title>
       <link>https://www.chosun.com/national/education/2025/03/28/IR7SZ2WGDFEQ3BXDYJPZOYK7FI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/education/2025/03/28/IR7SZ2WGDFEQ3BXDYJPZOYK7FI/</guid>
@@ -850,15 +868,6 @@
       </media:content>
     </item>
     <item>
-      <title>“연기 기둥 솟아 올랐다”…나사 위성에도 포착된 한국 산불</title>
-      <link>https://www.chosun.com/national/national_general/2025/03/27/XQ3GKSWCYNBMPMLXKU3ETR74ME/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/03/27/XQ3GKSWCYNBMPMLXKU3ETR74ME/</guid>
-      <dc:creator>김자아 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 27 Mar 2025 00:05:34 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QMECJAIPQZBJLF2R4NYF3NLERI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 22일 나사의 위성 아쿠아(Aqua)에 탑재된 센서 모디스(MODIS)가 촬영한 한국 화재 상황./나사 지구관측소&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 21일부터 전국 곳곳에서 발생한 산불이 건조한 바람을 타고 빠르게 확산하고 있는 가운데, 미국 항공우주국(NASA·나사)이 화재 상황이 담긴 한반도 위성 사진을 공개했다.&lt;br&gt;&lt;br&gt;나사가 운영하는 나사 지구관측소(NASA Earth Observatory)는 지난 25일 ‘한국 전역에서 발생한 산불’이라는 제목의 글을 올리고 위성 사진을 공개했다.&lt;br&gt;&lt;br&gt;이 사진은 지난 22일 나사의 위성 아쿠아(Aqua)에 탑재된 센서 모디스(MODIS)가 촬영한 것으로, 대형 산불이 발생한 경남 산청과 경북 의성을 중심으로 자욱한 연기가 해안가까지 뒤덮인 모습이 담겼다.&lt;br&gt;&lt;br&gt;나사 지구관측소는 “연기 기둥 중 하나는 안동 근처 의성 산불 지역에서 솟아올랐다”며 “1000명 이상의 주민들이 대피했고, 고속도로와 철도 노선의 여러 구간이 폐쇄됐으며 고대 사찰이 화재로 소실됐다”고 설명했다.&lt;br&gt;&lt;br&gt;이어 “남쪽으로 보이는 또 다른 큰 연기 기둥은 산청에서 발생했다”며 “AP통신에 따르면 빠르게 번지는 대형 화재로 여러 부상자와 사망자가 발생했다. 산악 지형과 강풍으로 인해 확산을 막기 어려운 상황”이라고 했다.&lt;br&gt;&lt;br&gt;27일 현재 산불은 나사 지구관측소가 공개한 위성 사진 상황보다 더 심각해졌다. &lt;br&gt;&lt;br&gt;의성에서 시작한 산불은 안동, 청송, 영양, 영덕까지 확산했고 산청에서 시작해 하동으로 번진 산불도 진정세를 보이다 다시 확산해 지리산국립공원 경계 내부까지 번졌다.&lt;br&gt;&lt;br&gt;행정안전부 ‘국민 안전관리 일일상황’ 보고서에 따르면 의성에서 시작된 경북 산불의 영향 구역은 27일 오전 5시 기준 2만6704㏊까지 확대됐다. 지난 25일 오후 6시 68%였던 진화율은 26일 오후 6시 기준 23.5%가 됐다.&lt;br&gt;&lt;br&gt;이 산불로 경북 4개 시군에서 사고로 숨진 헬기 조종사를 포함해 모두 22명이 사망하고 18명이 중·경상을 입은 것으로 잠정 집계했으며, 주민 2만2026명이 대피한 것으로 집계됐다.&lt;br&gt;&lt;br&gt;산청에서 시작된 산불의 영향 구역도 1708㏊로 늘면서 진화율은 87%에서 77%로 낮아졌다. 산청에서는 진화 대원 4명이 사망하고 9명이 중·경상을 입었다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>지리산 사수 위해 미군 대형헬기 뜬다...안개로 대기 중</title>
       <link>https://www.chosun.com/national/2025/03/27/LX2U3LWNBJCTRBJ6PKHRO6LVUI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/2025/03/27/LX2U3LWNBJCTRBJ6PKHRO6LVUI/</guid>
@@ -902,15 +911,6 @@
       <description/>
       <pubDate>Wed, 26 Mar 2025 15:57:40 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SY4OCIPBHYNKFTZY7DFUC4EKCE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;26일 오후 경북 의성군 신평면 교안리 산불 현장에 투입된 헬기가 추락해 경찰이 사고 현장 주변을 통제하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;26일 경북 의성의 산불 현장에서 진화 작업을 하던 헬기가 추락해 조종사 1명이 숨졌다. 조종사 박모(73)씨가 제작된 지 30년 된 헬기를 몰고 연기 속을 날다가 전깃줄에 걸려 추락한 것으로 알려졌다. 앞서 지난 22일에는 경남 산청에서 산불을 끄던 진화 대원 4명이 숨졌다. 갑자기 바람의 방향이 바뀌며 불 속에 고립됐다. &lt;br&gt;&lt;br&gt;지난 21일부터 전국 곳곳의 산불 현장에 투입된 진화 대원은 1만117명, 헬기는 118대다. 이들은 매일 역대 최악의 산불과 사투를 벌이고 있다.&lt;br&gt;&lt;br&gt;26일 산림청 등에 따르면, 이날 낮 12시 51분쯤 의성군 신평면의 한 산에서 물을 뿌리던 헬기 1대가 추락했다.&lt;br&gt;&lt;br&gt;헬기는 추락한 직후 화염에 휩싸이며 전소했다. 사고 헬기는 미국 시코르스키사가 1995년 제작한 S-76A 기종이다. 물 1200L를 실을 수 있다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4F5WL572QNDHXJGOZUUQTKHKRA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;잔해만 남은 헬기 - 26일 오후 경북 의성군 신평면 교안리의 산불 현장에서 소방대원들이 진화 작업 중 추락한 헬기를 바라보고 있다. 추락한 헬기가 전소하면서 조종사 1명이 숨졌다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;조종사 박씨는 비행 경력 40년의 베테랑이라고 한다. 전날 의성 현장에 투입됐다. 이날 혼자 헬기를 몬 것으로 조사됐다.&lt;br&gt;&lt;br&gt;조종사들은 박씨에 대해 “후배들이 따르던 따뜻한 선배였다”고 했다.&lt;br&gt;&lt;br&gt;경찰은 “헬기가 진화 작업을 하다가 전깃줄에 걸려 추락했다”는 목격자 진술을 토대로 정확한 사고 경위를 조사하고 있다.&lt;br&gt;&lt;br&gt;의성 산불 현장에서 불을 끄고 있는 조종사 이동규씨는 “그동안 대형 산불 현장을 많이 봤지만 골짜기가 많은 의성은 바람의 방향이 수시로 바뀐다”며 “연기 사이로 비행하다 보면 아찔할 때가 많다”고 했다. &lt;br&gt;&lt;br&gt;조종사 안성철(46)씨는 “조종사들은 한번 헬기를 탈 때 8시간씩 비행한다”며 “2시간에 한 번씩 기름 넣을 때 20분 정도 쉬면서 화장실도 다녀오고 김밥도 먹는다”고 했다. 해가 지면 비행은 끝나지만 오후 10시쯤까지 헬기를 점검하고 작전 회의를 한다. 다음 날 오전 6시면 바로 출동해야 하기 때문이다. 안씨는 “하루에 8시간 비행하면 120번 물을 뿌릴 수 있다”며 “한 번이라도 더 뿌려야 한다는 생각뿐”이라고 했다.&lt;br&gt;&lt;br&gt;산불은 헬기가 공중에서 수천L씩 물을 뿌리며 큰불을 잡으면 진화 대원들이 숲속을 훑으며 잔불을 정리하는 방식으로 진압한다. 진화 대원들은 지상에서 호스로 ‘방어선’을 치고 밀려오는 불길을 막기도 한다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4ITTNYTTQJEHDC3MSUFS5KQN5M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지친 대원들 - 헬기 사고 수습을 마친 대원들이 철수를 준비하고 있는 모습. /장련성 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 25일 안동시 길안면 백자리 현장에서 만난 진화 대원들은 마을을 지키기 위해 땀을 뻘뻘 흘리고 있었다. 불길과 마을의 거리는 불과 100m. 뿌연 연기 속에서 시뻘건 화염이 치솟았다. 매캐한 연기가 코를 찔렀다. 대원들은 호스를 끌고 오솔길조차 없는 산을 타고 올랐다. 경사가 40도는 돼 보였다. 방화복 등 장비의 무게는 27㎏이었다.&lt;br&gt;&lt;br&gt;곳곳에서 ‘타다닥’ 소리가 나며 불꽃이 튀었다. 경력 30년 차인 박현중(52)씨는 “안동엔 소나무가 많아서 이렇게 불꽃이 튄다”며 “불꽃이 강풍을 타고 날아다니니 더 위험하다”고 했다. &lt;br&gt;&lt;br&gt;또 다른 대원 안성국(46)씨는 “다 껐다 싶어도 바람이 세게 불면 다시 불이 붙는다”며 “낙엽 아래 숨어 있는 잔불까지 축축하게 죽여야 불을 다 끄는 것”이라고 했다. 그는 “차에서 하루 2~3시간 자면서 이러고 있네요. 그래도 불은 꼭 꺼야죠”라며 씩 웃었다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MDJEZD4RTJML3H3A62HBWKVR2E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경남 산청군에서 발생한 산불 사흘째인 23일 시천면 중태마을에서 산불진화대원이 휴식을 취하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전날 끔찍한 화마 속에서 필사적으로 탈출한 주민들은 “생지옥 같았다”고 했다.&lt;br&gt;&lt;br&gt;의성 산불이 동해안까지 넘어온 25일 영덕군에선 대피 차량이 한꺼번에 몰리면서 7번 국도가 꽉 막혔다. 주민들은 “불덩이가 비처럼 쏟아져 차에도 불이 붙었다”며 “너나 할 거 없이 차 문을 열고 나와 뛰었다”고 했다.&lt;br&gt;&lt;br&gt;영덕 축산항에서는 불길이 바닷가까지 밀고 내려와 주민 100여 명이 방파제 위에 고립됐다. 신고를 받고 출동한 해경 경비함이 이들을 전부 구조했다. 어민 이모씨는 “뒤로는 바다, 앞으로는 불길이라 죽었다 싶었는데 구사일생했다”고 말했다.&lt;br&gt;&lt;br&gt;지난 25일 오후 5시쯤 중앙고속도로 남안동IC 부근을 달리던 한 운전자는 “불길이 몰아쳐 급하게 차를 돌려 역주행했다”고 말했다. 하천에 몸을 던져 목숨을 건진 이들도 있었다. 영양군 석보면에 사는 한 주민은 “뜨거운 열기에 타이어가 터졌다”며 “급한 마음에 차에서 내려 근처 도랑에 몸을 던졌다”고 했다. &lt;br&gt;&lt;br&gt;청송군 파천면의 한 노부부는 차를 몰고 대피하다 불길에 도로가 막히자 근처 밭으로 돌진했다. 불길은 탈 게 없었던 밭으로 들어오지 않았고 노부부는 50분쯤 뒤 무사히 탈출했다고 한다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[오늘의 날씨] 2025년 3월 27일</title>
-      <link>https://www.chosun.com/national/national_general/2025/03/27/JW2RR6ENQFFAZH635X7GIJ4B2Q/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/03/27/JW2RR6ENQFFAZH635X7GIJ4B2Q/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 26 Mar 2025 16:41:45 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VOKHAWNI4RG2NN4YGL52EJYDBE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>고대·연대 “미복귀 의대생 28일 제적 처리”... 750명 달해</title>
