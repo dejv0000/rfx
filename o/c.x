@@ -13,6 +13,75 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>尹 탄핵 찬성 집회 헌법재판소 인근서 열려</title>
+      <link>https://www.chosun.com/national/national_general/2025/03/29/JJW4O6DNLBEDLPDSPXG5A3Y7XQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/03/29/JJW4O6DNLBEDLPDSPXG5A3Y7XQ/</guid>
+      <dc:creator>이민경 기자, 양인성 기자, 구아모 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 29 Mar 2025 07:51:48 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OCYALAIL6BHHDM3YOYHD5XZUUM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;29일 오후 헌재 인근 안국역 1번 출구 앞에서 시민단체  촛불행동이 탄핵을 촉구하는 집회를 열었다. /이민경 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;29일 오후 서울 헌법재판소 인근에서 윤석열 대통령 탄핵 찬성 집회가 열렸다. 안국역 1번 출구 앞에서 촛불승리전환행동(촛불행동)이 집회를 진행하고 있다. ‘윤석열 즉각 퇴진·사회 대개혁 비상행동(비상행동)’은 오후 5시부터 경복궁 동십자각 앞에서 집회를 시작한다. 더불어민주당 등 야(野) 5당은 국회에서 도보 행진을 진행한 뒤 비상행동 집회에 합류할 예정이다. &lt;br&gt;&lt;br&gt;이날 오후 3시부터 촛불행동은 서울 헌재 인근 안국역 1번 출구 앞에서 탄핵을 촉구하는 집회를 열었다. 윤 대통령의 변호인 석동현 변호사의 ‘대통령 국민변호인단’이 진행하는 탄핵 반대 집회에서 110여m 떨어진 곳이다. 경찰 비공식 추산 1500명이 모였다.&lt;br&gt;&lt;br&gt;집회 참가자들은 ‘탄핵으로 민생회복’ ‘내란동조 국민의힘&lt;i&gt; &lt;/i&gt;해체하라!’ ‘마은혁을 임명하라’ 등의 내용이 적힌 피켓을 들고 “내란종식 민주수호” “윤석열 즉각 파면!” 등 구호를 외쳤다. 참가자는 헌법재판소 재판관들의 이름을 하나씩 연호하며 “(국민의 외침을) 들어라!”고 복창했다. 집회에서 아이돌그룹 소녀시대의 ‘힘내’, 부석순의 ‘거침없이’ 등 노래가 울려 퍼졌다.&lt;br&gt;&lt;br&gt;민주노총은 오후 3시 30분쯤 명동 1번 출구 앞에서 집회를 열고 동십자각으로 행진했다. ‘윤석열 즉각 퇴진·사회 대개혁 비상 행동’은 오후 5시부터 8시 30분까지 경복궁 앞 동십자각에서 10만명 규모 집회를 연다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>잡힐 듯 안 잡히는 지리산 불...“가파른 경사·두터운 낙엽층 때문" </title>
+      <link>https://www.chosun.com/national/2025/03/29/VXSIDP6ANJGF5DD3SU5MM2AK74/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2025/03/29/VXSIDP6ANJGF5DD3SU5MM2AK74/</guid>
+      <dc:creator>산청=김준호 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 29 Mar 2025 06:52:48 +0000</pubDate>
+      <content:encoded>“경사도 30도 지형에서 초속 6m 바람이 불면 바람이 없는 평지 조건과 비교해 약 79배까지 불이 더 빨리 확산합니다. 지리산 현장은 이보다 더 하죠.”&lt;br&gt;&lt;br&gt;경남 산청에서 발생한 산불이 9일째 이어지는 가운데 지리산으로 번진 불길이 잡힐 듯 잡히지 않고 있다. 헬기가 물을 뿌리고 간 산자락에는 여전히 흰 연기가 연신 피어오르고 있다. &lt;br&gt;&lt;br&gt;산림청 국립산림과학원 소속 권충근 박사는 “지리산 현장의 경사가 매우 급한데다, 진화 요원이 접근할 진입로(임도)가 없어 어려움이 크다”고 했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MGHT7RSYWVEUBEMEQUZP2QVVZQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;29일 경남 산청 산불현장통합지휘본부에서 지리산 산불이 지속하는 원인을 설명하고 있는 권충근 박사. /산청=김준호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경사가 심한 곳에서 발생한 산불은 확산 속도가 가속화된다고 한다. 이는 불길이 상승하는 성질이 있기 때문. &lt;br&gt;&lt;br&gt;권 박사에 따르면 경사도 30도 지형에서 초속 6m 바람이 불 경우 바람이 없는 평지에서 발생한 불에 비해 확산 속도가 79배 빠르다. 급한 경사에서는 불길이 더욱 위로 빠르게 올라가고, 바람까지 강하게 불면 더욱 빨라질 수밖에 없다. 산림청은 산불 브리핑 때마다 “경사는 곧 풍속과 비슷하다”고 설명하고는 했다.&lt;br&gt;&lt;br&gt;지리산으로 번진 산불 현장은 환경이 열악하다. 천왕봉 턱밑까지 접근한 불길을 잡기 위해 방화선을 구축하러 갔던 한 산불진화대원은 “손으로 땅을 짚어서 가야 할 정도로 가파르다. 경사도가 40도가 넘는 구간도 많다”면서 “바람도 순간적으로 초속 15m 안팎으로 불고, 계곡 쪽에는 돌풍이 불 때도 있다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3NA4WG2WNVE4RJJEPE2YMCSJEU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 26일 밤부터 27일 새벽 사이 산림청 공중진화대, 산림청 산불재난특수진화대가 산청군 시천면 동당리에서 지리산 국립공원 방향과 민가로 옮겨가는 불길을 저지하기 위해 사투를 벌이고 있다. 이곳은 큰 경사와 두터운 낙엽층, 산죽(키작은 대나무)으로 인해 진화에 어려움을 겪는 지역이다./산림청 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;두터운 낙엽층도 지리산에 번진 불이 계속 살아나는 데 일조하고 있다. 국립산림과학원 연구진이 지난 28일 밤부터 29일 새벽 사이 지리산 산불 현장을 직접 조사한 결과 현장에 쌓인 낙엽층 깊이는 최대 1m 정도였다. 성인 허리 높이다. 권 박사는 “1ha로 보면 300~400t의 연료량이 쌓여 있는 셈이다”고 했다.&lt;br&gt;&lt;br&gt;여기에 두터운 낙엽층 내부로 바람에 날린 불씨가 침투하면서 새롭게 불이 붙는 현상이 이어지고 있다. 현장에는 활엽수인 굴참나무와 침엽수인 소나무가 빽빽하게 자라고 있다고 한다. 남송희 국제산림협력관은 “헬기가 공중에서 물을 아무리 뿌려도 고밀도의 숲 때문에 실제로 지표면까지 물이 들어가지 못하고 있다”면서 “공중진화대 등 사람이 직접 들어가 불을 끌 수밖에 없다”고 했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3TX6FMFNKVLJJBO7MYU7S2IPDA.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;육군 39사단 장병들이 29일 새벽 경남 산청군 산불 현장에서 산불 진화 작업을 펼치고 있다. /육군 제39보병사단&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;산불 현장까지 인력과 장비가 접근할 진입로도 부족하다. 사실상 길을 새로 뚫으면서 현장에 접근하는 상황이다. &lt;br&gt;&lt;br&gt;산림청은 “급경사지와 고밀도의 숲 구조로 효과적인 진화가 어렵고, 진입로 부족으로 진화대원과 장비 투입에 어려움이 크다”면서 “이번 산불을 계기로 대용량 산불진화 헬기 등 장비 확대, 적절한 수목 밀도를 조절하는 숲 가꾸기, 임도 추가 개설, 전문진화요원 양성 등의 필요성이 확인됐다”고 했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UTIDNAWHZZBLHFNBSRISUVUDUQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;28일 오전 11시30분 경남 산청 산불 진화를 위해 투입된 육군과 공군의 치누크 헬기가 인근 산청양수 상부댐에서 물을 담고 있다./산청=김준호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한편, 지리산으로 번진 산청 산불은 오후 3시 기준 진화율이 99%다. 남은 불길은 약 1km다. 지리산 천왕봉(1915m)과 직선거리로 4.5km까지 근접했던 불길은 총력전을 벌여 약 2km 뒤로 후퇴시켰다고 한다. 진화율은 높지만 바람에 불씨가 이리저리 날리는 비산화(飛散火)&lt;b&gt; &lt;/b&gt;때문에 안심하기는 이른 상황이다. 산림청 소속 공중진화대·특수진화대 등 전문 진화 인력을 중심으로 지상에서 잔여 불길을 제거하는 중이다. &lt;br&gt;&lt;br&gt;공중에서는 주한미군·육군·공군의 치누크 헬기를 비롯한 54대의 헬기가 지리산국립공원 안으로 번진 불길을 잡기 위해 물 폭탄을 쏟고 있다. 경남도 관계자는 “9일째 얼마나 물을 퍼날랐는지, 저수지 물이 말라갈 정도”라고 했다. &lt;br&gt;&lt;br&gt;이번 불로 인한 피해 면적은 1858ha다. 지리산국립공원 내 산림 132ha도 불에 탄 것으로 추정된다. 축구장 184개 크기다. &lt;br&gt;&lt;br&gt;지난 22일 불을 끄러 현장에 투입된 창녕군 소속 산불진화대원 등 4명이 숨지고, 10명이 다쳤다. 이제까지 2135명의 이재민이 발생했고, 주택 등 83곳이 불에 탔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/3NA4WG2WNVE4RJJEPE2YMCSJEU.jpg?width=4000&amp;height=3000&amp;auth=c3a03bcc13ec3ea0ffa1cd647d9727723c02df680b58150a5d4c01e789ba39e4&amp;smart=true" type="image/jpeg" height="3000" width="4000">
+        <media:description type="plain">지난 26일 밤부터 27일 새벽 사이 산림청 공중진화대, 산림청 산불재난특수진화대가 산청군 시천면 동당리에서 지리산 국립공원 방향과 민가로 옮겨가는 불길을 위해 사투를 벌이고 있다. 이곳은 큰 경사와 두터운 낙엽층, 산죽(키작은 대나무)으로 인해 진화에 어려움을 겪는 지역이다./산림청 제공</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>尹 탄핵 반대 집회 광화문·여의도서 열려</title>
+      <link>https://www.chosun.com/national/national_general/2025/03/29/VETYOQE6MBEH7PLRWGIT6HSP6I/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/03/29/VETYOQE6MBEH7PLRWGIT6HSP6I/</guid>
+      <dc:creator>양인성 기자, 이민경 기자, 구아모 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 29 Mar 2025 05:46:51 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XX6OI4H565AUXPJWPYBQCUEVVY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;29일 오후 서울 광화문광장에서 열린 자유통일당과 대한민국바로세우기운동본부가 주최한 '자유 통일을 위한 국민 대회'에서 참석자들이 피켓을 들고 구호를 외치고 있다. 2025.3.29 /박성원 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;29일 오후 서울 광화문과 여의도 등 도심 곳곳에서 윤석열 대통령 탄핵 반대 집회가 열렸다. 광화문 세종대로에서는 전광훈 사랑제일교회 목사가 주도하는 대한민국바로세우기국민운동본부(대국본)·자유통일당이, 여의도 의사당대로에서는 손현보 부산세계로교회 목사가 이끄는 개신교계 단체 세이브코리아가 각각 집회를 개최했다. &lt;br&gt;&lt;br&gt;이날 오후 2시쯤 광화문 세종대로에는 왕복 8차로를 가득 메운 인파가 몰렸다. 오후 2시 기준으로 경찰 비공식 추산 2만여 명이 모였다. 참가자들은 ‘탄핵 원천 무효’ ‘이재명 즉각 구속’ ‘탄핵 각하’ ‘CHINA OUT’ 등이 적힌 피켓을 들고 있었다. 집회 참가자들은 “탄핵 기각” “탄핵 각하” 등의 구호를 외쳤다.&lt;br&gt;&lt;br&gt;전국 각지에서 광화문 집회에 참석한 이들도 많았다. ‘청주’ ,‘안동’, ‘원주’, ‘대전’, ‘충북 진천’, ‘옥천’, ‘연천’ 등의 지역명이 적힌 깃발이 곳곳에서 보였다. 광주광역시 서구에서 집회에 온 최원준(32)씨는 “오전 6시 50분 기차를 타고 올라왔는데, 탄핵 선고 앞두고 마지막 주말 집회될 수 있을 것 같아서 왔다”며 “야당의 입법 독재, 줄탄핵에 반대하기 위해 집회에 참석했다”고 했다. 경기 김포에서 왔다는 양창길(76)씨는 “이재명이 무죄면 구치소에 들어가 있는 사기 범죄자들 진작에 다 풀려났어야 한다”며 “자유민주주의를 지켜야 한다는 책임감으로 이 자리에 나왔다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AAF74AWAS5CUDAHXMLEASBWW64.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;29일 오후 서울 광화문광장에서 자유통일당과 대한민국바로세우기운동본부가 주최한 '자유 통일을 위한 국민 대회'에서 참석자들이 태극기를 흔들며 윤석열 대통령 탄핵 반대 구호를 외치고 있다. /박성원 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 김용현 전 국방부 장관 측 유승수 변호사가 옥중 서신을 읽기도 했다. 김 전 장관은 편지를 통해 “종북·종중·매국노 무리들이 만든 ‘집단적 권력(카르텔)’과 끝까지 투쟁해야 한다“며 ”끝까지 힘을 모아, 힘차게 싸웁시다”고 전했다.&lt;br&gt;&lt;br&gt;여의도에서도 세이브코리아 주도의 탄핵 반대 집회가 오후 1시부터 시작됐다. 이들은 태극기와 성조기를 손에 들고 ‘대통령 복귀’ ‘대통령 윤석열’ 같은 구호를 외치며, 헌재의 탄핵 각하 결정을 촉구했다. 경찰 비공식 추산으로 3000여 명이 참가했다. 집회엔 국민의힘 윤상현·조배숙·박대출 의원도 모습을 드러냈다.&lt;br&gt;&lt;br&gt;탄핵을 찬성하는 맞불 집회도 이날 오후 열릴 예정이다. 윤 대통령 탄핵을 촉구하는 ‘윤석열 즉각 퇴진·사회 대개혁 비상행동(비상행동)’은 오후 5시부터 경복궁 동십자각 앞에서 집회를 시작한다. 비상행동 측은 “100만명 동원”을 예고했으며, 경찰에 신고한 인원은 10만명이다. 더불어민주당 등 야(野) 5당은 국회에서 도보 행진을 진행한 뒤 비상행동 집회에 합류할 예정이다. 이들의 신고 인원은 약 2만명이다. &lt;br&gt;&lt;br&gt;경찰은 이날 서울 도심에만 3000여 명의 기동대를 투입해 집회 인파를 관리하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/XX6OI4H565AUXPJWPYBQCUEVVY.jpg?width=3404&amp;height=2802&amp;auth=e52182ed54857ebd4c331d1537d043da8367e5214e458bcd79510eb1a6f49474&amp;smart=true" type="image/jpeg" height="2802" width="3404">
+        <media:description type="plain">29일 오후 서울 광화문광장에서 열린 자유통일당과 대한민국바로세우기운동본부가 주최한 '자유 통일을 위한 국민 대회'에서 참석자들이 피켓을 들고 구호를 외치고 있다. 2025.3.29 /박성원 기자</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>“소방대원 헌신에 감사”… 안동 산불현장 달려간 이 커피체인점 </title>
+      <link>https://www.chosun.com/national/national_general/2025/03/29/OTNC3F47DNDE5IEUX4QCSATG7A/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/03/29/OTNC3F47DNDE5IEUX4QCSATG7A/</guid>
+      <dc:creator>김가연 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 29 Mar 2025 07:14:12 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AJAUP4CUYZDNNIVXAZ6YIG6GEU.png"&gt;&lt;figcaption&gt;&lt;small&gt;커피 브랜드 컴포즈커피가 공개한 사진. 음료를 들고 가는 소방대원들의 모습이 담겼다. /인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;저가 커피 브랜드 컴포즈커피가 경북 안동을 찾아 산불과 맞서 싸우는 소방대원들에게 커피 등 음료와 디저트를 제공한 사실이 알려져 온라인상에서 화제가 됐다.&lt;br&gt;&lt;br&gt;컴포즈커피는 28일 공식 인스타그램 계정을 통해 “전날부터 안동 화재 현장에서 구호 활동과 화재 진압에 전념하고 계신 소방대원분들께 아메리카노와 레몬에이드, 자몽에이드 등 음료와 디저트를 정성껏 제공해 드리고 있다”고 밝혔다.&lt;br&gt;&lt;br&gt;이어 “최근 발생한 산불로 피해를 입으신 이재민분들을 돕기 위해 밤낮으로 현장에서 애쓰고 계신 소방대원과 관계자 여러분께 진심 어린 감사와 응원의 마음을 전한다”고 했다.&lt;br&gt;&lt;br&gt;그러면서 “29일부터는 청송 지역으로 이동하여 지원 활동을 계속 이어갈 예정”이라며 “현장에서 준비된 물량이 부족하지 않도록 추가 발주를 통해 최선을 다해 지원하겠다”고 했다.&lt;br&gt;&lt;br&gt;컴포즈커피는 “지금 이 순간에도 힘든 여건 속에서 최선을 다해 화재 진압과 피해 복구를 위해 노력하시는 모든 소방대원 및 관계자분들께 다시 한번 감사의 인사를 드린다”며 “여러분의 안전과 건강을 진심으로 기원한다”고 했다. 그러면서 “하루빨리 화재가 완전히 진압되어 이재민분들이 편안한 일상을 되찾으실 수 있기를 간절히 바란다”고 덧붙였다.&lt;br&gt;&lt;br&gt;업체는 커피차에서 음료를 받아 들고가는 소방대원들의 모습이 담긴 사진도 함께 공개했다. 이 사진 속 커피차에는 ‘당신이 진정한 영웅입니다’라고 적힌 현수막이 걸려있다.&lt;br&gt;&lt;br&gt;컴포즈커피가 소방대원들을 위해 음식과 음료를 제공한 사실은 온라인커뮤니티 등을 통해 공유되며 화제가 됐다. 이 소식을 접한 네티즌들은 “정말 좋은 일이다. 앞으로 커피는 여기서만 먹어야겠다” “감사하다” “돈쭐내주고 싶다” 등 반응을 보였다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>경북 경찰, 역대 최대 피해 낸 경북 의성 산불 수사 본격화</title>
+      <link>https://www.chosun.com/national/regional/2025/03/29/QTLDABHLFVEU3O4VUOSYS6UWHM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/03/29/QTLDABHLFVEU3O4VUOSYS6UWHM/</guid>
+      <dc:creator>의성=노인호 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 29 Mar 2025 06:33:29 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/V6OHOY3AFZJF5M4AOGFXY2RCMQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경북경찰청 형사기동대와 과학수사계가 29일 경북산불 최초 발화 추정 지점인 의성군 괴산리 야산에서 현장 조사를 하고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경북경찰청이 29일 의성 산불 최초 발화 추정 지점에 대한 현장 조사를 진행하는 등 본격적인 수사에 나섰다. &lt;br&gt;&lt;br&gt;경북경찰청 형사기동대와 과학수사계 소속 경찰관들은 이날 경북 의성 산불 최초 발화지로 추정되는 의성군 괴산리 야산 내 한 묘지를 찾아 2시간가량 현장 조사를 벌였다. 이 과정에서 봉분 주변에서 떨어져 있던 라이터 1개를 수거하고, 봉분과의 거리 등도 측정한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;경찰은 현장 조사 이후 최대한 빠른 시일 내에 국립과학수사연구원, 소방 당국 등과의 합동 감식을 진행할 계획이다.&lt;br&gt;&lt;br&gt;경북경찰청은 지난 28일 산불 피해 지역 관할 지자체인 의성군 특별사법경찰(특사경)으로 부터 관련 자료를 넘겨받았다. 통상 산불 관련 수사는 해당 지자체 특사경이 맡는다. 하지만 특사경의 수사를 지휘하는 검찰이 대규모 사망자와 문화재 피해 등이 발생한 만큼 산림보호법 뿐 아니라 형법과 문화재보호법 적용을 검토해야 한다며 특사경이 경찰과 협조해야 한다는 의견을 냈다. &lt;br&gt;&lt;br&gt;경찰 관계자는 “기초적인 조사를 마친 뒤 A씨를 소환해 조사할 예정”이라며 “아직 구체적인 소환 일정은 결정되지 않았다”고 말했다. &lt;br&gt;&lt;br&gt;한편 역대 산불 중 가장 큰 피해를 낸 경북 의성 산불은 발생한지 6일 만인 지난 28일 오후 5시 주불이 진화됐다. 지난 22일 경북 의성에서 시작된 산불은 안동, 청송, 영양, 영덕으로 번지면서 사망 26명, 부상 25명 등 50여명의 사상자를 냈다. 추산된 피해 면적은 4만5157㏊로 역대 가장 큰 피해를 남긴 2000년 강원 강릉·삼척 산불(2만3794ha)의 약 2배, 서울 면적의 74%정도에 달했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“싱크홀 사고 탓에 딸 학교 대체 급식” 불만 글 쓴 김경화, 결국 사과</title>
+      <link>https://www.chosun.com/national/national_general/2025/03/29/OHO5FXC6CBHNFI7XG3FF6UG4OE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/03/29/OHO5FXC6CBHNFI7XG3FF6UG4OE/</guid>
+      <dc:creator>문지연 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 29 Mar 2025 05:17:06 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LNWGP5BOQBHWNOEVGXHHLJSNM4.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;MBC 아나운서 출신 방송인 김경화. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;MBC 아나운서 출신 방송인 김경화(48)가 서울 강동구 싱크홀(땅 꺼짐) 사고 여파로 자녀 학교 급식이 비조리 음식으로 대체됐다는 불만 글을 썼다가, 비판 여론에 결국 사과했다.&lt;br&gt;&lt;br&gt;김경화는 29일 인스타그램에 “죄송합니다. 고개 숙여 사과드립니다. 제 생각이 짧았습니다”라고 시작하는 글을 올렸다. 그는 “제 입장에 묻혀 다른 상황들을 제대로 바라보지 못했다. 제 부족함”이라며 “신중하지 못했던 제 행동을 죄송하게 생각한다. 더 성숙해져야 하는데 많이 모자라다”고 했다.&lt;br&gt;&lt;br&gt;이어 “혹여라도 제 글로 상처나 피해가 있으신 분들께, 그리고 여러모로 해결을 위해 애써주고 계신 학교에도 죄송한 마음을 전한다”며 “다시 한번 고개 숙여 죄송하다”고 덧붙였다.&lt;br&gt;&lt;br&gt;앞서 김경화는 전날 “저희 둘째가 학교에서 먹은 급식이다. 간식도 아니고 점심시간에 나온 급식”이라며 식단을 공개했다. 빵 두 개와 컵 과일, 우유 한 팩이 식판에 놓인 사진이었다.&lt;br&gt;&lt;br&gt;김경화는 “학교 앞에서 얼마 전 큰 사고가 있어 안타까운 인명 피해가 있었고 일대의 안전 문제로 학교는 대형 시설이라 안전이 확보될 때까지는 가스 공급이 안 된다고 한다”며 “그런 이유로 사고 후 아이들의 점심·저녁 급식이 중단되고 대신 이런 비조리 음식이 제공되고 있다”고 했다.&lt;br&gt;&lt;br&gt;그러면서 “선생님들은 배달 음식으로 따뜻한 식사를 하신다고 한다. ‘학생과 교사는 같아야 하지 않냐’는 한 교사의 의견은 묵살됐다더라”며 “제 자식만 알아서도 아니고 따뜻한 밥을 먹이는 게 부모의 도리라고 생각하고 살았던 사람인지라, 이 상황을 이해하려고 해도 이해가 안 간다”고 말했다.&lt;br&gt;&lt;br&gt;또 “이번 사태가 너무 속상하다”며 “방울토마토 몇 알이 힘들까, 사과주스 하나가 비싼 걸까. 단체 주문이 안 되면 삼삼오오 주문해서라도 따뜻한 밥을 먹을 수 있게 해줘야 하지 않느냐”고도 했다.&lt;br&gt;&lt;br&gt;이 글을 두고 일부 네티즌 사이에서는 비난의 목소리가 터져 나왔다. 안타까운 사망자까지 발생한 사고에 개인적인 불만을 토로하는 건 경솔하다는 지적이었다. “이게 학교 잘못이냐” “돌아가신 분도 있는데 급식 하나로 유난이다” “이럴 시간에 도시락을 싸라” 등의 댓글도 이어졌다.&lt;br&gt;&lt;br&gt;앞서 이번 싱크홀은 지난 24일 오후 강동구 명일동 한영외고 앞 도로에서 발생했다. 크기는 가로 18m, 세로 20m, 깊이 18m 규모다. 이 사고로 배달 부업을 하던 30대 오토바이 운전자 한 명이 사망했고, 도로 함몰 직전 도로를 통과한 차량 운전자 한 명은 병원에서 치료받고 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>법원 “명지대 입학정원 감축 중복처분 위법...2차 처분 취소해야”</title>
+      <link>https://www.chosun.com/national/court_law/2025/03/29/QNIBAULYV5EZJJP6AYNYW4EVJY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/03/29/QNIBAULYV5EZJJP6AYNYW4EVJY/</guid>
+      <dc:creator>김나영 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 29 Mar 2025 05:14:05 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TKMPTTXXRBBDRGIRXSBYQ5KRCE.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초동에 위치한 서울중앙지방법원, 서울고등법원,서울회생법원/이명원 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;교육부가 동일한 시정명령을 위반했다는 이유로 명지대 재단에 두 차례나 입학정원 감축 처분을 내린 건 위법하다는 법원 판단이 나왔다. &lt;br&gt;&lt;br&gt;서울고법 행정7부(재판장 구희근)는 지난 20일 명지대를 운영하는 학교법인 명지학원이 교육부를 상대로 “2020학년도 입학정원 감축 처분을 취소하라”며 낸 소송에서 1심을 뒤집고 원고 승소로 판결했다.&lt;br&gt;&lt;br&gt;재판부는 “피고가 하나의 시정명령 위반 행위에 관해 수개의 제재 처분을 한 것으로 볼 여지가 많아 이 사건 처분은 그 처분 사유가 존재하지 않으므로 취소돼야 한다”고 설명했다.&lt;br&gt;&lt;br&gt;앞선 2017년 교육부는 명지학원이 명지대 용인캠퍼스 내 노인복지시설인 엘펜하임의 임대보증금 전액을 법인운영비로 사용하고 있다며 시정을 요구했다. 교육부의 사립대학(법인) 관리 안내에 따르면 임대보증금은 임대기간 종료 시 반환해야 하는 금액인 만큼, 반드시 금융기관에 예치하도록 규정하고 있기 때문이다. &lt;br&gt;&lt;br&gt;이같은 요구에 명지학원은 2017년 엘펜하임을 매각해 138억여원을 보전한 뒤, 나머지는 향후 4년 간 매년 50억원씩 보전하겠다는 내용의 연도별 보전 계획을 제출했다. 그러나 명지학원이 2017년 138억원을 보전하지 못하자 교육부는 이듬해 7월 명지대의 2019학년도 입학정원을 5%를 감축하라는 처분을 내렸다. 이 행정 처분은 법적 다툼 끝에 지난 2022년 2월 대법원에서 확정됐다.&lt;br&gt;&lt;br&gt;문제는 그 다음이다. 명지학원이 2018년에도 계획을 지키지 못한 것이다. 교육부는 또 다시 2020학년도 입학정원 5% 감축 처분을 내렸다. 명지학원은 교육부의 연이은 제재 처분이 부당하다며 행정소송을 냈다.&lt;br&gt;&lt;br&gt;1심은 교육부 손을 들어줬다. 재판부는 교육부가 각기 다른 연도에 발생한 미이행 행위를 이유로 명지학원에 별개 처분을 내린 것이라고 판단했다.&lt;br&gt;&lt;br&gt;그러나 2심은 2020학년도와 2019학년도 정원 감축 처분 사유의 사실관계가 동일하므로 교육부가 중복처분을 내렸다고 봤다.&lt;br&gt;&lt;br&gt;2심 재판부는 교육부 주장대로 연도별 시정명령 이행 여부에 따라 제재를 내릴 경우 “교육부에 사실상 아무런 제한을 두지 않는 광범위한 재량을 부여하는 것이 돼 부당하고, 원고로서는 반복적인 제재 처분을 받을 수 있어 그 적용 범위가 지나치게 확대된다”고 판단했다.&lt;br&gt;&lt;br&gt;한편 교육부는 명지대가 2019년에도 보전계획을 이행하지 않았다는 이유로 또다시 5% 입학정원을 감축하는 처분을 내렸다. 이에 대한 행정소송도 진행 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>경북 산불 사망자 2명 추가...26명으로 늘어</title>
       <link>https://www.chosun.com/national/incident/2025/03/29/CGBXVXFBWRB2VHGWD4QH6Q4H2I/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/03/29/CGBXVXFBWRB2VHGWD4QH6Q4H2I/</guid>
@@ -829,15 +898,6 @@
       <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EKKIFFIDOVB4TPW456MMOYWLG4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/일러스트=조선디자인랩 정다운&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;소개팅 앱에서 처음 만난 여성이 술과 우울증약을 복용하고 잠에 든 틈을 타 수차례 성폭행한 혐의로 20대 남성이 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;서울 구로경찰서는 지난 25일 준강간 혐의로 20대 남성 A(29)씨를 입건해 조사 중이라고 28일 밝혔다. A씨는 지난 23일 오전 12시 30분쯤 소개팅 앱을 통해 처음 만난 B씨와 함께 술을 마신 후 B씨의 거주지인 서울 구로구의 한 오피스텔에서 B씨를 수차례 간음한 혐의를 받고 있다. 당시 B씨는 술과 우울증약(졸피뎀)을 복용한 채 잠에 든 상태였던 것으로 알려졌다.&lt;br&gt;&lt;br&gt;25일 오전 11시쯤 B씨는 “준강간을 당했다”며 경찰에 신고했고, 즉시 출동한 경찰은 피해자가 범죄 현장에서 착용한 속옷 등 증거를 확보하고 해바라기센터에 피해자를 인계했다. 이후 A씨를 특정한 경찰은 동의하에 A씨를 임의 동행 검거했다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “현재 1차 피의자 조사를 마친 상태”라며 “정확한 혐의를 조사 중”이라고 밝혔다.&lt;br&gt;&lt;br&gt;한편 성폭력 피해자 5명 중 1명은 ‘어플 만남’ 등 일시적 관계에서 범행을 당한 것으로 나타났다. 해바라기센터에 따르면, 2023년 센터를 찾은 성폭력 피해자 중 22.5%는 소개팅 앱 등을 통한 ‘일시적 관계’에서 피해를 당한 것으로 조사됐다. 일시적 관계에서 발생한 성폭력 피해 사례 비율은 2021년 20.8%, 2022년 21%, 2023년 22.5%로 증가 추세다.&lt;br&gt;&lt;br&gt;지난 2022년 6월에는 소개팅앱에서 만난 여성 2명에게 ‘물뽕’이라 불리는 마약류 GHB의 원료(GBL)를 술에 타 먹인 뒤 성폭행을 시도한 남성에게 징역 4년이 선고됐다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[신문은 선생님] [재밌다, 이 책!] 백신 접종은 ‘개인의 자유’일까… 면역은 사회가 함께 가꾸는 정원이죠</title>
-      <link>https://www.chosun.com/national/nie/2025/03/27/YY46L3Y255HRLIR6C7WWJHV6RA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2025/03/27/YY46L3Y255HRLIR6C7WWJHV6RA/</guid>
-      <dc:creator>이진혁 출판편집자</dc:creator>
-      <description/>
-      <pubDate>Wed, 26 Mar 2025 16:35:26 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JDRIEEYEOBBHDCW422TRS7CU3A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;면역에 관하여 &lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;율라 비스 지음｜김명남 옮김｜출판사 열린책들｜가격 1만7000원&lt;/b&gt;&lt;br&gt;&lt;br&gt;‘불주사’를 들어본 적이 있나요? 저를 비롯해 과거 많은 학생들을 공포에 떨게 한 주사였는데요. 우리나라가 넉넉하지 않은 시절엔 알코올램프로 바늘을 달궈 소독을 해가며 주사 하나로 돌려가며 백신 접종을 했어요. 그 주사를 맞고 흉터가 생긴 형, 누나들을 보며 제 차례가 오지 않길 바란 기억이 있습니다. 요즘도 사그라들지 않는 백신에 대한 논란을 보면 문득 그때의 공포가 떠올라요. &lt;br&gt;&lt;br&gt;‘면역에 관하여’는 백신에 관한 책입니다. 이 책은 코로나19가 발생하고 백신을 둘러싼 논쟁이 폭발하기 전인 2014년에 쓰였어요. 그럼에도 미국의 저널리스트이자 논픽션 작가인 저자는 백신에 대한 두려움으로 이야기를 시작합니다. 저자는 “백신으로 인한 심한 부작용은 드물지만, 정확히 얼마나 드문지는 계량하기 어렵다”라며 백신의 불확실성을 인정하지요. &lt;br&gt;&lt;br&gt;이 두려움의 뿌리에는 백신에 대한 무지함이 있다고 합니다. 예컨대, 수은 화합물은 2002년에 이미 아동 백신에서 제거됐지만, 10년이 지나서도 사람들의 머릿속엔 아직 백신에 수은이 있을 거라는 두려움이 남아 있어요.&lt;br&gt;&lt;br&gt;백신이 꺼림칙한 또 다른 이유는 병원체를 직접 몸에 투여하기 때문입니다. 무언가 나쁜 것이 몸에 들어온다는 두려움이 있다는 것이죠. 저자의 설명은 이러한 막연한 두려움을 해소하는 처방전과도 같습니다. 그는 사람이 병균에 노출되지 않았을 때 오히려 면역 체계에 장애가 생긴다고 설명하지요. 저자에 따르면 이미 사람들은 일상생활에서 다양한 경로로 백신보다 더한 정도의 유해 물질을 섭취하고 있다고 합니다. 우리가 가장 안전하다고 믿는 ‘모유’ 또한 슈퍼마켓에서 팔린다면 식품 안전 기준에 걸릴 것이라면서요. &lt;br&gt;&lt;br&gt;백신을 반대하는 이들이 주로 내세우는 ‘자연 면역’에 대해서도 의문을 제기합니다. 한국에서도 한때 수두 백신을 맞히지 않고, 일부러 아이를 수두에 전염되게 하는 ‘수두 파티’가 유행한 적이 있죠. 저자는 자연 면역 방식의 경우 사망률이 백신보다 현저히 높다며 “자연이 늘 선하지는 않다”고 합니다. &lt;br&gt;&lt;br&gt;저자는 마치 코로나19 때의 논란을 예견이라도 한 듯, 백신 접종 거부가 ‘개인의 자유’라는 주장을 반박합니다. 실제로 코로나 시기의 백신 논쟁은 주로 공공과 개인의 이익이 충돌하는 것처럼 나타났는데요. 저자는 한 개체의 면역은 종 전체의 문제로 이어진다는 점을 강조합니다. 현대사회에서도 개개인의 건강은 서로가 서로에게 빚을 지고 있는 측면이 있다는 것이지요.&lt;br&gt;&lt;br&gt;이 책은 의학적 지식뿐 아니라 한 개인이 그가 속한 사회와 어떤 방식으로 관계를 맺고 있는지에 대한 통찰을 제공합니다. “면역은 우리가 함께 가꾸는 정원이다”라는 저자의 말이 큰 울림을 줍니다. 의학이나 과학을 잘 알지 못하는 사람도 쉽게 이해할 수 있도록 에세이에 가까운 문체로 백신에 대한 다양한 장면을 보여주는 점도 이 책의 장점이에요. 고대 신화나 문학 작품을 들어 설명하기도 하고, 때로는 저자의 일상을 통해 면역의 세계를 이해할 수 있게 해줘요.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>의대 총장 협의회 “학생 돌아와 정상 수업 이뤄지면, 26학년도 ‘3058명’ 조정 재확인” </title>
       <link>https://www.chosun.com/national/education/2025/03/28/7UAPVNXMWFFM5NWVLMYWUNDD2U/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/education/2025/03/28/7UAPVNXMWFFM5NWVLMYWUNDD2U/</guid>
@@ -876,32 +936,6 @@
       </media:content>
     </item>
     <item>
-      <title>‘남국의 상징’ 제주 야자수, 거리서 사라진다</title>
-      <link>https://www.chosun.com/national/regional/2025/03/28/UKQEAXP7OVARTGHR3BCWF6KX7M/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/03/28/UKQEAXP7OVARTGHR3BCWF6KX7M/</guid>
-      <dc:creator>제주=오재용 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 28 Mar 2025 02:33:47 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TCSYYLBI5BLJZIEINOVHMCHEEY.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;28일 오전 제주시 탑동 거리에서 워싱턴야자수를 제거하는 작업이 진행되고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;1980년대 제주 곳곳에 가로수로 심어져 ‘남국의 관광지’를 상징했던 야자수가 퇴출 운명에 놓였다. &lt;br&gt;&lt;br&gt;제주시는 제주시 탑동 이마트에서 제주항 임항로까지 1.2㎞ 구간에 심은 ‘워싱턴야자수’ 117그루를 뽑고, 이팝나무 등으로 교체하는 가로수 수종 갱신 사업을 진행하고 있다고 28일 밝혔다. 이 일대 야자수를 제거하는 작업은 4월 초 마무리될 예정이다.&lt;br&gt;&lt;br&gt;제주시는 2021년부터 제주시내 야자수를 이팝나무와 수국, 먼나무 등 다른 나무로 대체하고 있다. 이번 작업이 끝나면 제주시 내 20개 구간의 야자수 총 1325그루 중 절반쯤이 다른 나무로 대체된다.&lt;br&gt;&lt;br&gt;제주에서 야자수는 1982년쯤부터 가로수로 식재됐다. 하지만 야자수가 생장 속도가 빠르고 다 자라면 아파트 3층 높이인 15∼27ｍ에 달해 안전사고 우려를 낳고 있다.&lt;br&gt;&lt;br&gt;탑동 야자수의 경우 가로수 화단이 노후화된 데다 화단에 비해 워싱턴야자수 키가 커 강풍에 취약하다는 지적을 받아왔다.&lt;br&gt;&lt;br&gt;태풍이 불 때면 야자수가 부러지거나 뽑혀 쓰러지고, 날카로운 가시가 달린 잎이나 꽃대가 떨어져 보행자 안전을 위협하는 사례가 종종 발생했다. 또 키 큰 야자수가 전선과 접촉해 정전 사고를 일으키기도 했다.&lt;br&gt;&lt;br&gt;제주시 관계자는 “현재 식재된 야자수는 태풍과 강풍 등으로 안전사고는 물론 매년 고가 사다리차를 동원해 가지치기를 해야 하는 등 도심 가로수로는 적합하지 않다는 전문가 의견에 따라 수종을 교체하고 있다”고 말했다.&lt;br&gt;&lt;br&gt;한편, 지난해 말 기준 제주도 내 전체 가로수 12만2924그루 가운데 야자수는 3334그루, 약 2.7%에 그친다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/EP3M35YVTBKI7KNOU5L5WBJTH4.jpg?width=6000&amp;height=4000&amp;auth=c73e45856513b514d16ebf47cb4231002483542df61bf3127059b6b7e0e7a0cf&amp;smart=true" type="image/jpeg" height="4000" width="6000">
-        <media:description type="plain">&lt;YONHAP PHOTO-4695&gt; 퇴출되는 '남국의 상징' 제주 야자수
-    (제주=연합뉴스) 박지호 기자 = 28일 오전 제주시 탑동 거리의 워싱턴야자수가 뽑혀 있다.
-    제주시는 안전문제 야기 등의 이유로 탑동 일대 워싱턴야자수 117그루를 다른 나무로 교체하는 작업을 진행하고 있다. 2025.3.28
-    jihopark@yna.co.kr/2025-03-28 10:13:21/
-&lt;저작권자 ⓒ 1980-2025 ㈜연합뉴스. 무단 전재 재배포 금지, AI 학습 및 활용 금지&gt;</media:description>
-        <media:credit role="author" scheme="urn:ebu">박지호</media:credit>
-      </media:content>
-    </item>
-    <item>
-      <title>치매 노모 폭행해 갈비뼈 부러뜨린 50대 男 징역형</title>
-      <link>https://www.chosun.com/national/court_law/2025/03/28/QOIZ3I77ORCU3COCSOUMRU37MQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/03/28/QOIZ3I77ORCU3COCSOUMRU37MQ/</guid>
-      <dc:creator>인천=이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 28 Mar 2025 02:25:44 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AZWLNE2CUVC4BNXL5R7VBKVCJY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;인천지방법원./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;화가 난다는 이유로 치매 증상이 있는 80대 어머니를 폭행해 갈비뼈를 부러뜨린 50대 아들에게 징역형이 선고됐다. &lt;br&gt;&lt;br&gt;인천지법 형사1단독 이창경 판사는 특수존속상해, 노인복지법 위반 등 혐의로 기소된 A(51)씨에 대해 징역 2년을 선고했다고 28일 밝혔다. &lt;br&gt;&lt;br&gt;이 판사는 이와 함께 A씨에게 40시간의 가정폭력 치료프로그램 이수와 5년간 노인 관련기관 취업제한을 명령했다. &lt;br&gt;&lt;br&gt;A씨는 지난해 7월 30일 인천시 남동구 자택에서 치매 증상이 있는 어머니 B(82)씨를 폭행해 다치게 한 혐의 등으로 기소됐다. &lt;br&gt;&lt;br&gt;A씨는 어머니가 “네 아비 잘 죽었다”며 3년 전 사망한 아버지를 언급하자 화가 나 유리잔으로 어머니의 머리를 내리쳤다. 이어 이불로 어머니의 얼굴을 감싸 숨을 못 쉬게 하고, 30여차례에 걸쳐 얼굴과 복부 등을 때렸다. 아들의 폭행으로 B씨는 갈비뼈가 부러지는 등 전치 6주 진단을 받았다. &lt;br&gt;&lt;br&gt;A씨는 지난해 11월 집에서 술을 마시고 극단적 선택을 시도하는 과정에서 이를 말리는 어머니의 목을 조르고 흉기를 휘두른 혐의도 받았다. &lt;br&gt;&lt;br&gt;B씨는 당시에도 A씨의 흉기에 손목을 다쳐 20여일간 병원 치료를 받았다. &lt;br&gt;&lt;br&gt;이 판사는 “피고인은 치매 증상으로 저항할 수 없는 연약한 어머니를 상대로 심각한 범행을 저질러 죄질이 좋지 않다”며 “친모를 상대로 한 반인륜적 범죄라는 점에서 비난 가능성도 작지 않다”고 했다. &lt;br&gt;&lt;br&gt;이어 “아버지가 사망한 뒤 일용직 노동자로 일하며 어머니를 혼자 모시고 살면서, 생활고 등으로 신변을 비관하던 중 자제력을 잃고 충동적으로 저지른 범행으로 보인다”며 “피고인이 반성하는 점, 피해자가 아들의 처벌을 원치 않고 형제자매들도 선처를 요구하고 있는 점 등을 고려했다”고 양형 이유를 설명했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>이재명 ‘대장동 배임 재판’ 증인 또 불출석…법원 “과태료 500만원 추가”</title>
       <link>https://www.chosun.com/national/court_law/2025/03/28/WFWDQG7V2NEVXKK3GELUEZVJUA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/03/28/WFWDQG7V2NEVXKK3GELUEZVJUA/</guid>
@@ -909,15 +943,6 @@
       <description/>
       <pubDate>Fri, 28 Mar 2025 01:12:41 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/65BCRJZ2D5L7DG3F4INZMRVV3Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;더불어민주당 이재명 대표가 28일 오전 민주당 대전시당에서 열린 최고위원회의에서 발언하고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이재명 더불어민주당 대표가 28일 대장동 사업 민간업자들의 재판에 증인으로 채택되고도 불출석해 과태료 500만원을 추가로 부과받았다. 재판부는 “다음 기일에도 불출석할 경우 다음 절차를 검토하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;서울중앙지법 형사22부(재판장 조형우)는 28일 화천대유 대주주 김만배씨 등 대장동 민간 업자들의 배임 혐의 재판에 증인으로 소환된 이 대표가 이날 출석하지 않자 이같이 결정했다. 재판부는 “(이 대표가) 오늘 기일에 소환장을 따로 받았고 과태료 결정까지 했는데도 나오지 않았다”라고 했다. 이에 따라 이 대표는 지난 24일 부과받은 과태료 300만원에 이날 과태료까지 총 800만원을 내게 됐다. &lt;br&gt;&lt;br&gt;증인신문이 예정된 이 대표가 출석하지 않으면서 이날 재판은 8분 만에 끝났다. 앞선 두 번의 기일에서도 이 대표가 불출석해 재판이 6분 만에 종료됐다. 사실상 재판이 일주일째 멈춰 있는 셈이다. 같은 시각 이 대표는 국립대전현충원에서 열린 서해 수호의 날 기념식에 참석했다.&lt;br&gt;&lt;br&gt;이 대표 측은 지난 14일&amp;nbsp;불출석 사유서를 제출한 만큼 문제가 없다는 입장이다. 그러나 재판부는 “지난 14일 제출된 이 대표의 불출석 사유서에는 포괄적인 내용만 기재됐다”며 불출석 사유서가 충분치 않다고 밝힌 바 있다.&amp;nbsp;&lt;br&gt;&lt;br&gt;재판부는 “오는 31일 예정된 증인신문에도 나오지 않을 경우 다음 절차를 검토하겠다”고 했다. 과태료보다 더 강력한 수단을 써서 증인을 소환할 가능성을 내비친 것이다. 법원은 증인이 연이은 과태료 부과에도 출석하지 않을 시 법원은 구인장을 발부하거나 7일 이내로 감치할 수 있다. &lt;br&gt;&lt;br&gt;다만 이 대표의 경우 불체포특권이 있는 국회의원 신분인 만큼, 구인장을 발부하기 위해선 체포동의요구를 받아내야 한다. 법원의 인신구속사무의 처리에 관한 예규 제8조는 “법원 또는 판사는 회기 중에 있는 국회의원인 증인에 대하여 체포영장 또는 구속영장을 발부하려고 하는 경우에는 체포동의요구를 해야 한다”고 규정하고 있다.&lt;br&gt;&lt;br&gt;재판에 불출석한 증인을 반드시 구인하는 건 아니다. 법원 관계자는 “과태료를 중복으로 부과했다고 해서 반드시 구인이나 감치 단계로 넘어가는 것은 아니다”라면서 “증인 소환 방식은 전적으로 재판부 재량에 달려 있다”고 설명했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“어려웠던 시절 부정 승차”… 손 편지와 20만원 남기고 떠난 여성</title>
-      <link>https://www.chosun.com/national/national_general/2025/03/28/QVXIV62JUVFPLLU7QP4NI7XEZM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/03/28/QVXIV62JUVFPLLU7QP4NI7XEZM/</guid>
-      <dc:creator>박선민 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 28 Mar 2025 01:59:19 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EGAWDZPYFRCDTGHXFWDOD66A3A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;60대 추정 여성이 전달하고 간 손 편지와 현금. /서울교통공사&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;과거 지하철 요금을 제대로 내지 않았다며 사과 편지와 현금이 든 봉투를 전달한 한 시민의 사연이 전해졌다. &lt;br&gt;&lt;br&gt;28일 서울교통공사에 따르면, 지난 25일 지하철 7호선 가산디지털단지역 고객안전실에 60대로 보이는 여성 A씨가 조심스럽게 들어와 직원에게 노란색 편지 봉투를 전한 뒤 황급히 자리를 떴다.&lt;br&gt;&lt;br&gt;직원이 확인해보니, 봉투에는 손 편지 한 장과 함께 현금 5만원 4장, 총 20만원이 들어 있었다. &lt;br&gt;&lt;br&gt;편지에는 과거 자신이 요금을 지불하지 않고 지하철에 탑승한 점을 사과하는 내용이 담겼다. “수고 많으십니다. 다름 아니고 많이 늦었지만 지금 보상하려 합니다”라는 고백으로 시작하는 편지에는 “지난 세월 생활이 어려웠던 시절에 몇 번인지 숫자도 기억할 수 없어서…그냥 소액이지만 지금이라도 보상하고자 합니다. 그동안 죄송했습니다”는 내용이 담겼다. &lt;br&gt;&lt;br&gt;A씨는 “수고 많이들 하시고 늘 건강하시고 행복하세요”라며 편지를 마무리했다.&lt;br&gt;&lt;br&gt;과거 대중교통 운임을 제대로 내지 않고 탑승한 점을 뒤늦게 반성하고 보상한 시민 사례는 이번이 처음은 아니다. 2023년에는 한 익명의 승객이 “수년 전 서울시 지하철 요금을 정직하게 내지 않고 이용을 했으며, 잘못을 만회하고 싶고 정말 죄송합니다”는 편지와 함께 25만원을 동봉해 보낸 사연이 전해졌던 바 있다. &lt;br&gt;&lt;br&gt;부정 승차 행위는 ‘편의 시설 부정 이용죄’에 해당해 형사처벌을 받을 수 있다. 부정 승차하다 적발되면 승차 구간 운임과 그 운임의 30배인 부과금을 물어야 한다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>“팔 한 짝 내놓을 각오도 없이”... 박단, 의대생 복귀 공개 반대</title>
@@ -983,36 +1008,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XA3CLVCFJVIFPAGSQQG2VM5SWM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전국민주노동조합총연맹이 27일 오후 서울 용산구 서울역 앞에서 '윤석열 즉각 파면! 내란세력 청산! 사회대개혁 쟁취!' 총파업 총력투쟁대회에 앞서 광화문광장 방향으로 행진을 하고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전국민주노동조합총연맹(민노총)은 27일 “윤석열 대통령의 파면을 촉구하기 위한 총파업에 돌입한다”며 서울 도심에서 1만2000명(경찰 비공식 추산) 규모의 대규모 집회를 열었다. 전날 이재명 더불어민주당 대표가 공직선거법 위반 사건 항소심에서 무죄를 선고받은 직후 탄핵 찬성 단체들이 ‘윤 대통령 파면’을 외치며 헌법재판소 압박에 총공세에 나선 모양새다.&lt;br&gt;&lt;br&gt;민노총은 이날 “내란 수괴 윤석열이 감옥에서 웃으며 걸어나오고 내란 부역자들이 뻔뻔히 얼굴을 쳐들고 다니는 지금 헌법재판소는 도대체 무엇을 더 기다리고 있단 말인가”라면서 “헌재는 민주주의와 주권자의 명령을 배신했다. 이제 헌재도 심판의 대상”이라고 했다.&lt;br&gt;&lt;br&gt;그러면서 “헌재가 선고 기일을 확정할 때까지 매주 한 차례씩 총파업할 예정”이라고 했다. 이들은 ‘더 이상 미룰 수 없다! 윤석열을 파면하라! 내란 세력 청산하자!’라는 현수막을 들고 “헌재는 주권자의 요구에 화답하라!” 같은 구호를 외쳤다. 이들 주변엔 “검찰도 공범이다!” “국민의힘 내란당 해체!”라고 외치는 야권 지지자 수백 명이 모여 있었다. 일부 지지자는 윤 대통령 탄핵 반대 집회 참석자들에게 “반국가 세력 물러가라”고 외치기도 했다. 경찰 통제로 양측 간 충돌은 없었다.&lt;br&gt;&lt;br&gt;민노총의 집회 및 행진으로 서울 도심에서는 극심한 교통 체증이 빚어졌다. 민노총 집회는 이날 오후 3시부터 서울역과 명동, 을지로 등 서울 도심 반경 1km 내 3개 장소에서 시작됐다. 오후 4시에는 광화문 광장으로 모이는 시위대 행렬이 길게 늘어지며 인근 교차로와 골목길 등에서의 차량 통행이 30분 넘게 중단됐다. 골목길은 오가지 못한 차량으로 꽉 찼고, 집회 소음에 일부 시민은 귀를 틀어막기도 했다. 이날 경찰은 기동대 20개 부대(1200명)를 동원해 집회 관리에 나섰다. &lt;br&gt;&lt;br&gt;서울교통정보시스템(TOPIS·토피스)에 따르면 이날 세종대로 사거리 근처 차량 통행 속도는 평균 2km/h 정도로 사람이 걷는 속도보다 느렸다. 일반적인 도심 차량 통행 속도는 15km/h 정도다. &lt;br&gt;&lt;br&gt;</content:encoded>
       <media:content url="https://www.chosun.com/resizer/v2/V6TSBHHGKJFLBAH6L6EZFYCSV4.jpg?width=5369&amp;height=2870&amp;auth=565720d91a073c6b2d7803462ac65697975ff7bf14088c4795b54f4ce6bb0380&amp;smart=true" type="image/jpeg" height="2870" width="5369">
         <media:description type="plain">27일 오후 서울 광화문광장에서 전국민주노동조합총연맹(민주노총) 조합원들이 윤석열 대통령의 즉각 파면을 촉구하는 집회를 갖고 있다. 2025.3.27 /박성원 기자</media:description>
-      </media:content>
-    </item>
-    <item>
-      <title>기상청 “자정까지 영남에 비구름대 재차 진입...경북북부 새벽 빗방울 가능성”</title>
-      <link>https://www.chosun.com/national/transport-environment/2025/03/27/YUR7HNJ6YFDFHLKKODJGRKZ52E/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/03/27/YUR7HNJ6YFDFHLKKODJGRKZ52E/</guid>
-      <dc:creator>박상현 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 27 Mar 2025 10:29:51 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZWK74IRROVKZVLOTY4TNQSJGKY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;엿새째 산불이 잦아들고 있지 않은 27일 오후 6시 20분께 의성군청 임시청사에 비가 내리자 자원봉사자들이 기뻐하고 있다. 하지만 비는 10여분 내리다가 그쳤다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;27일 오후 6시 10분 비구름대가 산불 지역인 경북 의성에 진입하며 18분 간 1㎜의 ‘짧고 굵은’ 비를 뿌리고 빠져나갔다. 기상청은 이날 자정까지 다른 비구름대가 재차 영남에 진입할 수 있다고 내다봤다.&lt;br&gt;&lt;br&gt;기상청에 따르면, 또 다른 비구름대가 오후 8시 30분을 전후해 영남을 통과할 것으로 보인다. 비구름대가 산지와 충돌하며 경로가 바뀔 수 있기 때문에 정확한 강수 지역을 특정하기는 어렵지만, 영남을 지나갈 가능성은 높은 상황이다.&lt;br&gt;&lt;br&gt;이후 자정까지 한반도 서쪽에 있는 구름대가 또 한 차례 영남을 향할 것으로 보인다. 이 구름대의 영향으로 경북북부에는 28일 새벽에 빗방울이 떨어질 가능성이 있다.&lt;br&gt;&lt;br&gt;다만 경남 산청은 지리산이 있어 비구름대가 쉽게 진입하지 못할 것으로 예상됐다. 이에 산청의 27일 강수량은 0.2㎜에서 더 많아지진 못할 것으로 전망됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>검찰, ‘리베이트 비용 속여 법인세 포탈’ 혐의 중외제약 기소</title>
-      <link>https://www.chosun.com/national/court_law/2025/03/27/372PICKPHJA37K66WFS625UQKY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/03/27/372PICKPHJA37K66WFS625UQKY/</guid>
-      <dc:creator>이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 27 Mar 2025 10:18:16 +0000</pubDate>
-      <content:encoded>검찰이 리베이트 비용을 복리후생비 등의 명목으로 속여 15억여 원의 법인세를 포탈한 혐의로 JW중외제약 법인과 대표이사를 27일 재판에 넘겼다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FGNXZDAZ6JCEJEBA2QW5HUJQMI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울중앙지검 청사./조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지검 조세범죄조사부(부장 이진용)는 이날 JW중외제약과 신영섭 대표이사를 특정범죄가중처벌 등에 관한 법률 위반(조세), 조세범처벌법 위반 혐의로 불구속 기소했다고 밝혔다.&lt;br&gt;&lt;br&gt;구체적으로 중외제약은 의사들에 대한 리베이트 비용 등 사용처가 불명확한 자금 약 78억원을 손금에 산입해 2016∼2018년 사이 법인세 약 15억6000만원을 포탈한 혐의를 받는다.&lt;br&gt;&lt;br&gt;회사 측은 승인 취소된 신용카드 영수증과 임직원이 아닌 다른 사람의 신용카드 영수증을 이용해 리베이트 비용 등을 복리후생비 등의 명목으로 지출한 뒤 손금에 산입한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;앞서 서울서부지검도 JW중외제약을 리베이트 제공 혐의로 재판에 넘겼으며, 서울중앙지검은 회사로부터 리베이트를 수수한 의사를 지난해 기소했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“우산 좀 써보자”...엿새간 산불 이어진 경북 의성에 굵은 비 </title>
-      <link>https://www.chosun.com/national/national_general/2025/03/27/566TQUXMYVFATI6LTXJCA5TZ34/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/03/27/566TQUXMYVFATI6LTXJCA5TZ34/</guid>
-      <dc:creator>이승규 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 27 Mar 2025 09:32:31 +0000</pubDate>
-      <content:encoded>지난 22일부터 엿새 동안 산불이 이어진 경북 의성군에 비가 내렸다. 우산을 써야 할 만큼 굵은 빗줄기가 내리면서 산불 지휘본부에선 박수가 터져 나왔다.&lt;br&gt;&lt;br&gt;27일 오후 6시쯤 경북 의성군 철파리의 현장통합지휘본부에 비가 내리자 현장에 대기하던 산림청 직원들과 소방관, 자원봉사자들이 “드디어 비 온다 우산 좀 써보자”고 소리쳤다. 자원봉사자 김명숙(58)씨는 친구에게 전화를 걸어 “여기 의성에 비 온다, 이제 집에 갈 수 있겠다”고 들뜬 목소리로 소식을 전했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CANHPSQ5LVOM7LBZO7T4AHVPM4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt; 27일 경북 의성군 산림청 산불 현장 지휘 본부 일대에 비가 내리자 자원봉사자들이 환호성을 내지르고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;산림청 소속 직원들은 “비 좀 맞자, 간만의 비다”라며 우산을 쓰지 않고 한동안 빗속에서 환성을 질렀다. 그치지 않고 내리는 비에 지휘본부 여기저기서 박수와 환호 소리가 끊이질 않았다. 자원봉사자들은 비가 내리는 모습을 영상으로 촬영하면서 “내가 살다 살다 비 오는 모습을 찍는다”고 웃었다.&lt;br&gt;&lt;br&gt;대구지방기상청에 따르면 강수량은 오후 7시쯤 2mm에 달할 것으로 예보됐으나, 비가 내린지 약 40분만인 오후 6시 40분쯤 그쳤다. 의성군 현장의 기상실황 시스템상 강수량은 1mm으로 측정됐다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/YZGOLRWZFFE43G6XTZMCEJUN6Q.gif?width=800&amp;height=450&amp;auth=29d25102c7e0a946288938780f0da34178d9dbecf07fb6b6da22eb44b3ac9435&amp;smart=true" type="image/jpeg" height="450" width="800">
-        <media:description type="plain">지난 22일부터 엿새 동안 산불이 이어진 경북 의성군에 비가 내렸다. /이승규 기자</media:description>
       </media:content>
     </item>
   </channel>
