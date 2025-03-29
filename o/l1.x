@@ -6,6 +6,16 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>검찰, 문재인 전 대통령 소환 통보…뇌물수수 혐의</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/206761.jpg" alt="23423525.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: left; font-size:14px; line-height: 1.6em"&gt;문재인 전 대통령의 딸 다혜 씨가 20일 서울서부지법에서 청사를 떠나고 있다. 《사진=연합뉴스》&lt;/figcaption&gt;   &lt;/figure&gt;&lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="1359"&gt;문재인&lt;/span&gt;&amp;nbsp;전 대통령의 자녀 다혜 씨 가족의 특혜 채용, 태국 이주 지원 의혹 등을 수사하는 검찰이 문 전 대통령에게 소환 조사를 통보했다. &lt;br /&gt;&lt;br /&gt;29일 법조에 따르면, 전주지검 형사3부(&lt;span style="font-weight: bold;" class="lawmanlink" serial="15066"&gt;배상윤&amp;nbsp;&lt;/span&gt;부장검사)는 지난달 문 전 대통령에게 소환 조사 일정을 통보한 것으로 알려졌다. &lt;br /&gt;&lt;br /&gt;검찰은 이스타항공 창업자인 이상직 전 더불어민주당 의원이 2018년 중소벤처기업진흥공단 이사장으로 임명된 대가로 문 전 대통령의 전 사위 서모 씨와 다혜 씨 가족에게 특혜를 제공했다는 의혹에 대해 수사하고 있다. &lt;br /&gt;&lt;br /&gt;이 전 의원이 이사장 임명 대가로 항공업 경력이 없는 서 씨를 태국 저가 항공사 타이이스타젯 전무로 영입하고, 다혜 씨 가족의 태국 이주를 도왔다는 의혹이다.&lt;br /&gt;&lt;br /&gt;검찰은 서 씨가 타이이스타젯 근무 기간 받은 급여와 이주비 2억2300여 만원을 문 전 대통령에 대한 뇌물로 보고 있다. 문 전 대통령이 서 씨의 취업으로 다혜 씨에 대한 금전적 지원을 중단했다는 것이다.&lt;br /&gt;&lt;br /&gt;검찰은 뇌물수수 혐의로 입건된 문 전 대통령과 다혜 씨에 대한 피의자 조사를 이어갈 것으로 보인다.</description>
+			<pubDate>Sat, 29 Mar 2025 03:25:46 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/206761</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/206761</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/206761.jpg</media:thumbnail>
+			<dc:creator>임현경 기자</dc:creator>
+		</item>
+		<item>
 			<title>【오늘의 국회일정】 2025년 3월 29일</title>
 			<description>&lt;b&gt;◇의원실 세미나&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;11:00 권칠승 의원실 등, 느린학습자 사회적 인식제고를 위한 토크콘서트(의원회관 제1세미나실)&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;b&gt;&lt;span style="font-size: 14px;"&gt;※ 상기 일정은 사정에 따라 변경될 수 있습니다.&lt;/span&gt;&lt;/b&gt;</description>
 			<pubDate>Fri, 28 Mar 2025 22:35:48 -0000</pubDate>
@@ -232,16 +242,6 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/206737</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/206737.jpg</media:thumbnail>
 			<dc:creator>안재명 기자</dc:creator>
-		</item>
-		<item>
-			<title>차세대 전자소송 시스템 오류…서울변회, 회원 의견 수렴 및 개선 요청 나서</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/206733.jpg" alt="57848.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;1월 31일 개편된 대한민국 법원 사법정보공개포털 홈페이지&lt;/figcaption&gt;   &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;서울지방변호사회(회장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="10599"&gt;조순열&lt;/span&gt;)는 1월 31일부터 운영 중인 대법원의 '차세대 전자소송·미래등기 시스템'과 관련해 회원 불편 사항을 법원행정처에 전달하고 개선을 요청했다고 밝혔다.&lt;br /&gt;&lt;br /&gt;서울변회는 3월 21일 회원들에게 이메일을 통해 전자소송 관련 상황을 안내하고 전자소송 시스템 사용 중 겪은 불편 사항에 대한 의견을 수렴했다.&lt;br /&gt;&lt;br /&gt;차세대 전자소송 시스템은 개편과 함께 본격 운영에 들어갔으나 시행 직후부터 서류 제출 및 사건 기록 열람 등 일부 기능이 제대로 작동하지 않는 오류가 발생했다. &lt;br /&gt;&lt;br /&gt;서울변회는 이러한 문제를 해결하기 위해 최근 법원행정처와 간담회를 갖고 회원들의 요구사항을 상세히 전달했다고 밝혔다. 간담회에서 법원행정처는 "전자소송 시스템과 관련된 오류를 해결 중이며 앞으로도 서울변회 회원들의 요청을 충실히 반영해 신속한 문제 해결에 나서겠다"고 답변한 것으로 전해졌다.&lt;br /&gt;&lt;br /&gt;서울변회는 향후 형사사법절차의 전자화 확대와 관련해서도 회원들과의 사전 의견 수렴을 통해 부작용을 최소화하겠다는 입장이다. &lt;br /&gt;&lt;br /&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="10599"&gt;조순열&lt;/span&gt;(53·사법연수원 33기) 회장은 "회원들의 불편이 신속히 해결될 수 있도록 집행부는 지속적으로 노력하겠다"며 "전자소송 시스템과 관련한 개선 의견이 있는 경우 설문조사를 통해 적극 제시해 달라"고 말했다.&lt;br /&gt;&lt;br /&gt;서울변회는 설문 참여자에게 공익활동 1시간 인정과 함께 회원포인트 300점을 부여할 예정이다.&lt;/p&gt;</description>
-			<pubDate>Fri, 28 Mar 2025 06:05:13 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/206733</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/206733</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/206733.jpg</media:thumbnail>
-			<dc:creator>안현 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
