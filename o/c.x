@@ -13,6 +13,42 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>“꺼진 줄 알았는데 왠 연기?”… 경북도 “재발화 아냐, 잔불 정리 중”</title>
+      <link>https://www.chosun.com/national/2025/03/29/UCOAFJ2MFZAVTKKJATH4PEERBI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2025/03/29/UCOAFJ2MFZAVTKKJATH4PEERBI/</guid>
+      <dc:creator>안동=권광순 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 29 Mar 2025 02:07:45 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PL6CVM7FIBPC3G5AZD5GPQ3GFM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;산불전문예방진화대가 29일 오전 경북 안동시 고하리 부근 산에서 잔불 진화 작업을 하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경북 안동과 의성 등 경북 북부지역 일부 산에서 연기가 다시 피어오르자 이를 확인하려는 민원과 주민들의 신고가 속출했다. 경북도는 29일 “실제 재발화보다는 잔불 정리 과정에서 발생한 연기”라며 “재발화는 아니다”고 밝혔다. &lt;br&gt;&lt;br&gt;경북도와 산림당국 등에 따르면 안동시 남후면 고상리 남안동IC 인근에서 28일 밤부터 연기가 다시 피어올라 헬기 11대가 출동했다. 소방 당국은 전날 오후 10시쯤부터 잇단 연기 발생 신고를 접수했으며, 이날 오전 잔불 진화를 완료했다. &lt;br&gt;&lt;br&gt;한국도로공사는 이날 오전 5시부터 중앙고속도로 남안동IC∼서안동IC 구간을 전면 통제했으나, 잔불 진화 완료 후 오전 9시 15분부터 통행을 재개했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BNLRTVBCYJGWPPWC2RSNLGKP54.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;29일 오전 경북 의성군 사곡면 신감리 한 야산에서 소방대원들이 잔불을 진압하고 있다. /의성119안전센터&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경북 의성군 신평면 교안1리와 증율1리 일대와 사곡면 신감리 일대에서도 연기가 나 주민 신고가 잇따랐다. 산림청은 오전 7시 30분부터 헬기 3대와 산불진화대와 공무원, 육군 50사단 장병 등 280명을 투입해 잔불을 정리하는 작업을 벌이고 있다. &lt;br&gt;&lt;br&gt;의성군 관계자는 “진화 대원들이 등짐 펌프를 지고 산에 올라가 연기가 나면 끄고, 또 연기가 나면 다시 끄는 상황이 반복되고 있다”며 “주말까지 잔불 정리 작업은 이어질 것”이라고 했다.&lt;br&gt;&lt;br&gt;이번 산불로 경북 안동·의성·청송·영양·영덕 등지에서 사망 25명, 중상 5명, 경상 24명 등 총 54명의 사상자가 발생했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>경남 산청 산불 대피령...산림당국 “오늘 지리산 주불 진화 목표”</title>
+      <link>https://www.chosun.com/national/national_general/2025/03/29/XLPTO37CEJG6TC4ICYXMJ3A3VU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/03/29/XLPTO37CEJG6TC4ICYXMJ3A3VU/</guid>
+      <dc:creator>김현수 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 29 Mar 2025 01:51:43 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FTLDLCBO6FKT3P7O7R5YALR3EI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경남 산청에서 발생한 산불 9일째인 29일 산림 당국이 마지막 남은 화선인 지리산권역 주불 진화를 목표로 진화작업을 이어가고 있다. 사진은 이날 오전 6시경 산청군 황점마을 일대의 모습. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경남 산청에서 발생한 산불이 9일째 산림을 태우는 가운데 산청군이 일부 지역에 대피령을 내렸다. 산림당국은 마지막 화선이 형성된 지리산 권역에 방어선 구축을 강화하고 진화작업을 이어가고 있다.&lt;br&gt;&lt;br&gt;산청군은 29일 오전 8시 33분쯤 삼장면 신촌마을 주민들에게 ‘산불 확산 위험이 있으니 안전한 곳으로 대피하라’는 재난 안전 문자를 발송했다. 대피령이 내려진 지역은 지리산 천왕봉 반대 방향이다. 아직 불길이 확산하지는 않았지만, 이날 오전 바람 방향이 바뀌며 불씨가 옮겨갈 우려가 있는 것으로 알려졌다. 산불 현장 인근 주민 713명은 대피 중이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OG3WZTJPEIHYLEM7G4K235SK7I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경남 산청 산불 현장의 공중진화대 진화 작업. /산림청 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;산림 당국은 이날 주불을 잡는다는 목표다. 산림청은 전날 하동권 주불 진화를 완료한 뒤 마지막 화선인 지리산 권역에 오전부터 헬기 55대와 인력 1598명, 차량 224대를 투입해 주불 진화에 집중하고 있다. 산림당국에 따르면 진화율은 이날 오전 7시 기준 96%로 집계됐다.&lt;br&gt;&lt;br&gt;임상섭 산림청장은 이날 산불 현장에서 브리핑을 열고 “주불이 남은 내원계곡은 낙엽층이 두꺼워 산불 진화에 어려움이 많은 지역”이라며 “오늘은 일출과 동시에 헬기와 인력을 투입해 주불 진화에 총력을 기울이고 있다”고 말했다. 불이 붙은 곳은 지리산국립공원 경계구역이다. 산불영향 구역은 1858㏊, 총 화선은 71㎞로 남은 길이는 지리산 권역 2.8㎞이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>尹 대통령 탄핵 선고, 결국 4월로...이르면 다음 주 3~4일 예상</title>
+      <link>https://www.chosun.com/national/court_law/2025/03/29/QMA4C5WLSBBLDLZYJWF5PJJZFA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/03/29/QMA4C5WLSBBLDLZYJWF5PJJZFA/</guid>
+      <dc:creator>김나영 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 29 Mar 2025 01:36:10 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JBDOPEXVZVP6FMQOMIPREBEENA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;헌법재판소의 윤석열 대통령 탄핵 심판 결정이 다가오고 있는 가운데 23일 서울 종로구 헌법재판소에 게양된 깃발이 바람이 날리고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;헌법재판소가 지난 28일에도 윤석열 대통령 탄핵 선고일을 지정하지 않으면서 선고는 4월로 넘어가게 됐다.&lt;br&gt;&lt;br&gt;헌재는 전날인 28일 오후에도 윤 대통령 탄핵 등에 대한 평의를 열었지만 선고일과 관련해선 결론을 내리지 못한 것으로 알려졌다. 다음주 첫 평일인 31일에 탄핵 선고일을 공지한다고 해도, 통상 선고일 2~3일 전 날짜를 고지했던 점을 고려하면 선고일은 달을 넘어가게 되는 것이다.&lt;br&gt;&lt;br&gt;이에 따라 이르면 오는 3일이나 4일에 윤 대통령 탄핵 선고일이 잡힐 가능성이 커졌다. 만약 평의가 더 늦어져 4월 첫 주를 넘기게 되더라도, 문형배 헌재소장 권한대행과 이미선 재판관이 퇴임하는 4월 18일 전에는 결론을 낼 것이란 전망이 크다.&lt;br&gt;&lt;br&gt;당초 헌재가 지난달 25일 윤 대통령 탄핵심판에 대한 변론 절차를 끝낸 만큼 이달 중 선고가 나올 것이라는 예상이 우세했다. 하지만 변론이 종결된 지 한 달이 넘도록 아무런 소식이 들려오지 않으면서 재판관들이 합의에 이르지 못한 것이 아니냐는 우려가 커지고 있다.&lt;br&gt;&lt;br&gt;한편 헌재는 지난 24일에는 한덕수 국무총리의 탄핵심판에 대한 선고를, 지난 27일에는 헌법소원 등 일반 사건에 대한 선고를 내리는 등 일정을 소화했다. 이에 대해 이인호 중앙대 교수는 “헌재가 다른 탄핵 사건이나 권한쟁의 등 업무가 몰려 과부화된 상태일 것”이라면서 “아무리 대통령 심판을 최우선으로 처리한다고 해도 물리적으로 한 사건에만 집중하기 어려운 상황”이라고 설명했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>중부지방 눈·비 조금… 기온 평년보다 3∼6도 낮아</title>
+      <link>https://www.chosun.com/national/welfare-medical/2025/03/29/QDWR3E4URVB4HFIDKMNPC5G6ZU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/03/29/QDWR3E4URVB4HFIDKMNPC5G6ZU/</guid>
+      <dc:creator>오유진 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 29 Mar 2025 00:57:41 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TNNBQBKMEX4M3PQZ3WUYIEHIAA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;눈 내리는 거리. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;토요일인 29일은 전국에 구름이 많다가 밤부터 맑아지겠다. 기온은 당분간 평년보다 낮겠다.&lt;br&gt;&lt;br&gt;오전부터 오후까지 수도권과 강원 내륙·산지, 충청권에는 비 또는 눈이 내리는 곳이 있겠다. 강원 동해안과 전라권, 경북 북부 내륙·남서 내륙·북동 산지, 경남 북서 내륙, 제주도는 오전부터 오후까지, 제주도는 아침에 빗방울이 떨어지거나 눈발이 날리겠다.&lt;br&gt;&lt;br&gt;예상 강수량은 경기 동부와 강원 내륙·산지 5㎜ 미만, 서울·인천·경기 서부와 서해 5도, 대전·세종·충남·충북, 울릉도·독도 1㎜ 안팎이다. 눈은 강원 산지에 1∼5㎝, 경기 북서부·동부와 강원 내륙에 1㎝ 안팎씩 오겠다.&lt;br&gt;&lt;br&gt;북서쪽에서 찬 공기가 남하하면서 기온은 평년보다 3∼6도가량 낮겠다. 아침엔 내륙을 중심으로 서리가 내리거나 얼음이 어는 곳도 있겠다. 낮 최고 기온은 5∼14도로 예보됐다.&lt;br&gt;&lt;br&gt;건조특보가 발효된 강원 남부 내륙·산지와 충북, 광주·전라 동부, 경상권은 대기가 매우 건조하겠다. 또 전국에 순간풍속이 시속 55㎞(초속 15ｍ) 안팎인 강한 바람이 불겠으니 화재 예방에 각별히 유의해야 한다.&lt;br&gt;&lt;br&gt;바다 물결은 동해·서해 앞바다에서 0.5∼2.0m, 남해 앞바다에서 0.5∼1.5m로 일겠다. 안쪽 먼바다(해안선에서 약 200㎞ 내의 먼바다) 파고는 동해 0.5∼4.0m, 서해 1.0∼2.5m, 남해 0.5∼2.5m로 예측된다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>경북 안동서 밤사이 산불 재발화… 남안동IC~서안동IC 전면 차단</title>
       <link>https://www.chosun.com/national/national_general/2025/03/29/54YYDN2X2RADHPDEDWQ6PFWM6M/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/03/29/54YYDN2X2RADHPDEDWQ6PFWM6M/</guid>
@@ -884,33 +920,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EQPMQGJ2GQWJKHFPMMPZFGLZVA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 종로 서울대 의과대학에서 한 시민이 지나고 있다. 서울대 의대생들은 최근 투쟁 방식 투표를 통해 우선 단체 휴학을 풀고 복귀하기로 결정했다. 연세대와 고려대도 대다수 학생들이 복귀하기로 했다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;의대생들의 복귀 움직임으로 집단 휴학 사태가 1년여 만에 새 국면을 맞은 가운데, 전공의 대표 박단씨가 “아직 주저앉을 때가 아니다”라며 복귀 반대 입장을 냈다.&lt;br&gt;&lt;br&gt;박단 대한전공의협의회 비상대책위원장은 28일 오전 자신의 페이스북에 ‘양자택일 : 미등록 휴학, 혹은 복학’이라는 제목의 글을 올려 이같이 밝혔다.&lt;br&gt;&lt;br&gt;박 위원장은 “연세대는 등록 후 수업에 성실히 참여한다는 각서를 받고 있다. 고려대는 복학 원서 작성 후 철회 시 자퇴로 처리한다고 한다”며 “정부와 대학은 일 년 내내 고압적인 입장을 견지하고 있으며, 자유 선택을 존중한다던 교수는 사실상 위계를 이용해 찍어누르고 있다”고 했다.&lt;br&gt;&lt;br&gt;이어 “상대의 칼끝은 내 목을 겨누고 있는데, 팔 한 짝 내놓을 각오도 없이 뭘 하겠다고. 등록 후 수업 거부를 하면 제적에서 자유로운 건 맞나”라며 “저쪽이 원하는 건 결국 ‘굴종’ 아닌가”라고 했다. 그러면서 “죽거나 살거나, 선택지는 둘뿐”이라며 “아직 주저앉을 때가 아니다”라고 했다.&lt;br&gt;&lt;br&gt;앞서 서울대 의대생들은 사실상 전원 복귀를 결정했고, 연세대·고려대도 복귀율이 80%를 넘을 것으로 예상된다. 의료계 내부에선 1년 넘게 유지된 단일 대오에 균열이 생기고 있다는 평가가 나온다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>‘산불 난리인데…’ 화성 태행산 정상에 인화물질 경찰 수사 </title>
-      <link>https://www.chosun.com/national/national_general/2025/03/28/C6IOTCAAQVD33HNBKSNOO2NR3E/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/03/28/C6IOTCAAQVD33HNBKSNOO2NR3E/</guid>
-      <dc:creator>김명일 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 28 Mar 2025 01:02:55 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7WY35SL6HVLRUUCFMXKGEE3OZ4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기 화성시 태행산 정상 데크에 인화물질이 뿌려져 있는 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;영남 지역에서 발생한 대형 산불로 인명 피해가 커지고 있는 가운데 누군가 경기도 화성의 산 정상에 인화물질을 뿌려 경찰이 수사에 나섰다. &lt;br&gt;&lt;br&gt;28일 경찰과 소방 당국에 따르면 전날 오후 2시 10분쯤 화성시 비봉면 태행산 정상 데크에 인화물질이 흩뿌려진 채 발견됐다. &lt;br&gt;&lt;br&gt;경찰은 소방당국으로부터 공조 요청을 받고 현장으로 출동해 폐오일로 추정되는 물질이 정상 데크 곳곳에 뿌려져 있는 것을 확인했다.&lt;br&gt;&lt;br&gt;경찰은 해당 물질을 담았던 것으로 추정되는 기름통도 현장에서 발견했다.&lt;br&gt;&lt;br&gt;경찰은 등산객 등으로부터 “며칠 전부터 해당 물질이 흩뿌려져 있었다”는 진술을 확보했다. 경찰은 현장 안전 조치와 함께 용의자를 추적하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“얼굴에 도랑 물 적시며 1시간 기어간 엄마”…목숨 건 산불 탈출</title>
-      <link>https://www.chosun.com/national/national_general/2025/03/28/37N2Q7RWV5A5VLDPVMDBV3I2KA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/03/28/37N2Q7RWV5A5VLDPVMDBV3I2KA/</guid>
-      <dc:creator>김자아 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 28 Mar 2025 01:34:52 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JREECNVO6FVYPXOKXX27BFXLKE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경북 의성산불이 강풍을 타고 영덕으로 확산된 26일 오전 매정 1리 마을 곳곳이 쑥대밭으로 변해 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경북 의성에서 시작된 산불이 옮겨 붙은 영덕에서 얼굴에 물을 묻혀가며 1시간을 기어가 대피한 주민의 사연이 전해졌다.&lt;br&gt;&lt;br&gt;영덕 산불 이재민의 딸 A씨는 산불이 번지던 중 통신 마비로 연락이 닿지 않았던 어머니의 이야기를 지난 27일 KBS를 통해 전했다.&lt;br&gt;&lt;br&gt;A씨는 “영덕군 화천리에 대피하라는 안내가 없었다”며 “집에 홀로 있던 어머니는 ‘아직 멀었구나’라고 생각하며 천천히 귀중품을 챙기던 중 산불이 몰려왔다”고 했다.&lt;br&gt;&lt;br&gt;타닥타닥 소리에 이상함을 느껴 밖으로 나와본 A씨 어머니는 연기와 불똥이 튀는 모습을 보고 챙기던 귀중품을 내팽개치고 몸만 겨우 빠져나왔다고 한다.&lt;br&gt;&lt;br&gt;그는 “연기 때문에 한 치 앞도 보이지 않아 차를 타고 갈 상황도 아니었다더라. 어머니는 손에 휴대폰만 쥐고 도랑으로 뛰어내려 대피했다”며 “연기가 매우면 얼굴을 강물에 적시면서 1시간을 기어갔다고 한다”고 전했다.&lt;br&gt;&lt;br&gt;그가 공개한 집 밖 감시카메라(CCTV) 영상에는 지난 25일 오후 8시 50분쯤 서서히 빨간 불빛이 보이며 불똥이 날아다니더니 약 10분 만에 온 집이 불길로 뒤덮이는 장면이 담겼다.&lt;br&gt;&lt;br&gt;영덕의 통신 마비로 한동안 어머니와 연락이 닿지 않았다는 A씨는 “연락이 안 되는 3시간 동안 엄청 걱정했다”며 울먹였다.&lt;br&gt;&lt;br&gt;그러면서 “영덕의 상황을 알리기 위해 영상을 공개했다”며 “오후 9시쯤 대피하라는 안전 문자가 도착했는데 그때는 이미 집이 화마로 다 뒤덮였던 시간이었다”고 덧붙였다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MY2G4GYJY5EFDJBVIQDTR5YBMA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;10분 만에 불길에 휩싸인 영덕 화천리의 A씨 어머니 집./KBS&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전문가들은 산불 발생 시 물이 찬 곳으로 대피할 경우 천연 보호막을 형성해 적절한 대피처가 될 수 있다고 조언한다. 다만 물이 마른 계곡 등에는 연기가 모여 쌓일 가능성이 크기 때문에 질식의 위험이 높아져 주의가 필요하다.&lt;br&gt;&lt;br&gt;이병두 국립산림과학원 산림재난·환경연구부장은 앞서 YTN을 통해 “물이 있는 계곡은 괜찮은데 보통 이 시기에는 마른 계곡이 많다”며 “진화대원에게도 열기가 갇히는 계곡에는 들어가지 않는 게 좋다고 교육한다”고 말했다.&lt;br&gt;&lt;br&gt;영덕에서는 이날 도로에 세워진 차량에서 60대 산불 감시원 1명이 숨진 채 발견되는 등 이번 산불로 총 9명의 사망자가 나왔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>전국 산불, 서울 면적 80% 삼켰다... 부상 5명 늘어 65명 사상</title>
-      <link>https://www.chosun.com/national/national_general/2025/03/28/W42KFNYABFDNXM2CSYRQ4UVMJA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/03/28/W42KFNYABFDNXM2CSYRQ4UVMJA/</guid>
-      <dc:creator>최연진 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 28 Mar 2025 00:37:30 +0000</pubDate>
-      <content:encoded>전국 곳곳의 산불로 인한 사망·부상자가 총 65명으로 집계됐다.&lt;br&gt;&lt;br&gt;행정안전부 중앙재난안전대책본부에 따르면, 28일 오전 6시 기준 산불사태로 인한 인명피해는 사망 28명, 중상 9명, 경상 28명 등 65명으로 전날보다 늘었다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GZF7W2AF6KC4Y6MKUBOHSF7ERY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;공군 CH-47 헬기가 워터버킷(Water Bucket)의 물을 싣고 의성군 화재 지역으로 날아가고 있는 모습. /공군&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 오전 5시 기준 진화 작업이 진행되는 곳은 경북 의성(진화율 95%)과 안동(85%), 영덕(65％), 영양(76%), 청송(89%), 경남 산청·하동(86%) 등 6곳이다. 전북 무주와 경남 김해, 충북 옥천, 울산 울주 언양·온양 등 5곳은 진화가 끝났다.&lt;br&gt;&lt;br&gt;이번 산불로 산림 4만8150㏊ 규모가 피해 영향에 놓였다. 2000년 동해안 산불 피해를 뛰어넘는다.&lt;br&gt;&lt;br&gt;축구장 6만7400개 규모, 서울 면적(6만523ha)의 80%에 달한다.&lt;br&gt;&lt;br&gt;산불 확산에 따라 집을 떠났다가 귀가하지 못한 이재민은 2407가구 8078명으로 파악됐다. 또 주택과 농업시설 등 3481곳이 산불 피해를 본 것으로 집계됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>“미역국에 김치” 6시간 산불 진화한 소방관의 ‘짠한’ 저녁 식사</title>
       <link>https://www.chosun.com/national/national_general/2025/03/28/FMX5Y2QBZRBR3JK5PR2OY4EXJM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/03/28/FMX5Y2QBZRBR3JK5PR2OY4EXJM/</guid>
@@ -918,15 +927,6 @@
       <description/>
       <pubDate>Thu, 27 Mar 2025 23:46:50 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JCSKJJIH3JGGHLYTPR4IJUTRSI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한 소방관이 "오후 2시부터 8시까지 불 끄고 온 뒤 저녁 식사"라며 올린 사진. /온라인 커뮤니티&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경북 의성에서 시작된 불이 5개 지역으로 확산하며 전례 없는 피해를 입힌 가운데, 산불 진화 최전선에서 애쓰는 소방관의 빈약한 식단이 공개됐다. &lt;br&gt;&lt;br&gt;28일 다수 소셜미디어와 온라인 커뮤니티에는 ‘오후 2시부터 8시까지 산불 진화한 소방관 저녁 식사’ 등 제목의 게시물이 올라왔다. 이 사진은 지난 25일 현직 소방관 A씨가 자신의 소셜미디어에 올린 것으로 전해졌다. &lt;br&gt;&lt;br&gt;공개된 사진에는 검게 그을린 방화복과 방바닥에 놓인 단출한 식사가 담겨 있다. 일회용 식기에는 미역국에 만 밥이 들어 있었고, 반찬은 콩자반과 김치가 전부였다. &lt;br&gt;&lt;br&gt;이를 본 네티즌들은 “힘드실 텐데 밥이라도 잘 챙겨줘야 하는 것 아니냐” “진짜 너무하다. 목숨 걸고 불 끄는데 저게 말이 되나” 등 부실한 식단에 안타까움을 표했다. &lt;br&gt;&lt;br&gt;A씨는 “어딘지는 언급하기 그렇지만 산불 현장에서 보내온 것”이라며 “모두의 관심이 참으로 감사하다. 저는 그저 소방관들뿐만 아니라 국가와 국민을 위해 이렇게 힘들게 일하시는 분들의 처우가 개선되기를 바랄 뿐”이라고 했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IHY4DX4IPJJ4PIBRLCYXJCDFSM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;27일 안동 하회마을에서 소방관들이 김밥 등으로 끼니를 때우며 대기하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;27일 산불 연기로 뒤덮인 경북 안동 하회마을에서 소방관들이 김밥 등으로 끼니를 때우며 대기하는 모습이 언론사 카메라에 포착되기도 했다. &lt;br&gt;&lt;br&gt;소방관이자 작가로 활동하는 백경(필명)은 27일 소셜미디어에 “친한 동료가 산불 지원 다녀온 뒤에 ‘나 순직할 뻔했어’라고 하기에 농담하는 줄 알았다”며 “차 구워진 거 보고 농담이 아니란 걸 알았다”고 했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QUWOXD3OHVCGJMYWK5UXB3MEPA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;소방관이자 작가 백경(필명)이 올린 산불 진압에 투입됐던 소방차 사진. /백경 X(옛 트위터)&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그가 올린 사진 속 소방차 외부는 불에 그을려 울퉁불퉁해진 모습이었다. 백경은 “비 내리고 불이 잡히면 친구를 집에 불러야겠다”며 “살아줘서 고맙다는 말은 간지러우니 돼지고기나 실컷 구워서 먹여야겠다”고 했다. &lt;br&gt;&lt;br&gt;이처럼 고생하는 소방관을 돕겠다는 온정의 손길도 이어지고 있다. 경북 안동시 당북동의 한 국숫집에는 “산불 진화 소방 공무원님들 무료 식사 제공”이라는 현수막이 걸렸다. 이 식당은 27일 오전부터 산불 진압에 힘쓰는 소방관들에게 직접 만든 국수를 무상으로 제공하기로 했다. &lt;br&gt;&lt;br&gt;식당 사장은 “직접 산불을 끌 수는 없지만 전국에서 온 소방관들을 도울 방법을 고민했다”며 “김밥으로 끼니를 때우는 소방관의 모습을 보고 따뜻한 한 끼라도 대접하고 싶었다”고 했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UMBDZ7V6GJA6VPKHNZAWFTYE54.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경북 안동의 한 국숫집에는 "산불 진화 소방 공무원님들 무료 식사 제공" 현수막이 내걸렸다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경북 영덕의 한 휴게소도 소방대원들에게 무료로 식사를 제공하고 있다. 휴게소 운영자는 “당연히 해야 하는 일이라고 생각한다”며 “식사를 무료로 제공한다는 게 더 많이 알려져서 많은 분이 오셨으면 한다”고 했다. &lt;br&gt;&lt;br&gt;전국재해구호협회가 소방관 보호 장비를 지원하기 위해 기부금 모금에 나서자 4일 만에 11억원을 돌파하기도 했다. &lt;br&gt;&lt;br&gt;28일 산림 당국에 따르면 이날 오전 5시 기준 경북 산불의 평균 진화율은 85%를 기록하고 있다. 이번 불로 인명 피해만 24명이나 발생했고, 산불 영향 구역에 포함된 경북 북부의 면적은 4만5000여㏊로 추정돼 역대 최대가 될 가능성이 높다. 성묘객 실화로 시작된 경북 북부 산불은 역대 최악의 피해를 불러온 산불로 기록될 전망이다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[오늘의 날씨] 2025년 3월 28일</title>
-      <link>https://www.chosun.com/national/national_general/2025/03/28/PP7FQHMRAZGYZBO5VDUBDE4ZDU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/03/28/PP7FQHMRAZGYZBO5VDUBDE4ZDU/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 27 Mar 2025 20:06:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/53YTXTNP65E6VK63D7NMLK3S4Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[법없이도 사는법] ‘확대사진’이냐 ‘조작’이냐, 논란의 판결 내용 보니 </title>
