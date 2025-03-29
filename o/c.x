@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>경북 산불 사망자 2명 추가...26명으로 늘어</title>
+      <link>https://www.chosun.com/national/incident/2025/03/29/CGBXVXFBWRB2VHGWD4QH6Q4H2I/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/03/29/CGBXVXFBWRB2VHGWD4QH6Q4H2I/</guid>
+      <dc:creator>이승규 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 29 Mar 2025 04:55:48 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YMUYIJA2YRPAVDNQ26L4IR4J3M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt; 29일 경북산불 최초 발화 추정 지점인 의성군 괴산리 야산 묘지가 불에 타면서 검게 변해 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경북에서 산불 피해로 인해 2명이 추가로 숨진 것으로 확인됐다.&lt;br&gt;&lt;br&gt;29일 경찰과 산림당국 등에 따르면 전날 의성군 단촌면의 한 주택에서 80대 남성 A씨로 추정되는 시신 1구가 발견됐고, 안동병원에서 화상을 입고 치료받던 영양군 석보면 주민인 60대 남성 B씨가 숨진 것으로 파악됐다.&lt;br&gt;&lt;br&gt;B씨는 지난 25일 석보면 화매리 삼의계곡에서 숨진 삼의리 이장의 처남이다. 이장과 그 아내, 처남댁 등 3명은 차량 안에서 숨진 채 발견됐다. B씨도 같은 날 중상을 입고 병원으로 옮겨졌으나 끝내 숨졌다.&lt;br&gt;&lt;br&gt;경찰은 지난 25일 의성군 단촌면에 불길이 밀어닥칠 때 A씨가 미처 집에서 빠져나오지 못한 채 불길에 휩싸인 것으로 보고 정확한 사망 원인을 조사 중이다. &lt;br&gt;&lt;br&gt;이들이 숨지면서 경북 지역 산불 관련 사망자는 29일 기준 26명으로 늘었다. 지역별로는 의성 2명, 안동 4명, 청송 4명, 영양 7명, 영덕 9명이다.&lt;br&gt;&lt;br&gt;지난 22일 경남 산청면에서 숨진 산불진화대원 4명을 포함하면 이번 영남권 산불 전체 사망자는 30명으로 집계된다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>“꺼진 줄 알았는데 왠 연기?”… 경북도 “재발화 아냐, 잔불 정리 중”</title>
       <link>https://www.chosun.com/national/2025/03/29/UCOAFJ2MFZAVTKKJATH4PEERBI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/2025/03/29/UCOAFJ2MFZAVTKKJATH4PEERBI/</guid>
@@ -1005,15 +1014,6 @@
       <media:content url="https://www.chosun.com/resizer/v2/YZGOLRWZFFE43G6XTZMCEJUN6Q.gif?width=800&amp;height=450&amp;auth=29d25102c7e0a946288938780f0da34178d9dbecf07fb6b6da22eb44b3ac9435&amp;smart=true" type="image/jpeg" height="450" width="800">
         <media:description type="plain">지난 22일부터 엿새 동안 산불이 이어진 경북 의성군에 비가 내렸다. /이승규 기자</media:description>
       </media:content>
-    </item>
-    <item>
-      <title>서울고법 “리니지M 모방한 웹젠, 엔씨소프트에 169억 배상해야”</title>
-      <link>https://www.chosun.com/national/court_law/2025/03/27/DZ2XUCL7T5HDVMA6HCRYPWAWLY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/03/27/DZ2XUCL7T5HDVMA6HCRYPWAWLY/</guid>
-      <dc:creator>박혜연 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 27 Mar 2025 09:23:25 +0000</pubDate>
-      <content:encoded>엔씨소프트의 대표 게임 ‘리니지M’을 웹젠이 일부 표절했다는 항소심 판결이 나왔다. 웹젠은 엔씨소프트에 국내 게임 저작권 분쟁 사상 최고 배상액인 169억원을 지급해야 한다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6D75WMTBVO62F3QCLZYAHD5COI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;엔씨소프트 리니지M&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울고법 민사5-1부(재판장 송혜정)는 27일 엔씨소프트가 웹젠을 상대로 낸 저작권 침해 중지 등 청구 소송에서 “웹젠은 엔씨소프트에 169억여 원을 배상하라”고 판결했다. 앞서 1심에서는 배상액이 10억원으로 인정됐는데, 2심에서 배상액이 17배가량 대폭 늘어난 것이다. 이 판결은 가집행이 가능해, 엔씨소프트는 법적 조치를 즉시 집행할 수 있다.&lt;br&gt;&lt;br&gt;엔씨소프트는 웹젠이 ‘리니지M’의 핵심 요소를 비슷하게 따라 해 게임 ‘R2M’을 출시했다며 2021년 소송을 제기했다. 1심은 “웹젠이 엔씨소프트의 저작권을 침해했다고 볼 수는 없지만, 상당한 투자와 노력이 담긴 성과물을 무단으로 모방하는 부정경쟁 행위를 저질렀다”고 판단했다. 널리 알려져 있는 것과 비슷한 상품을 만들어 팔면 부정경쟁방지법 위반으로 민·형사상 책임을 질 수 있다. &lt;br&gt;&lt;br&gt;1심은 웹젠이 엔씨소프트에 10억원을 배상하고, R2M 게임 서비스를 중단하라고 판결했다. 다만, 웹젠이 법원에 낸 강제집행 정지 가처분 신청이 받아들여지면서 게임 서비스는 유지됐다.&lt;br&gt;&lt;br&gt;엔씨소프트는 2심에서 손해배상 청구액을 600억원으로 높여 항소했다. 2심 역시 1심과 비슷한 취지로 엔씨소프트의 손을 들어줬다. 웹젠의 저작권 침해는 받아들이지 않았지만, 부당경쟁 행위는 인정한 것이다. &lt;br&gt;&lt;br&gt;특히 2심은 배상액을 대폭 늘렸다. 2심은 “웹젠이 R2M의 일부 게임 내용을 수정한 것은 사실이지만, 그럼에도 여전히 부정경쟁 행위는 지속되고 있다”며 “청구액은 합계 매출액의 10%에 상당한 금액으로 판단했다”고 했다.&lt;br&gt;&lt;br&gt;이 판결로 웹젠은 R2M 서비스를 중단하고 엔씨소프트에 169억여 원을 지급해야 한다. 웹젠 측은 “조속히 상고할 예정”이라며 “서비스 중단 판결은 강제집행정지를 신청할 계획”이라고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
