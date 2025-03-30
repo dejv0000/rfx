@@ -13,6 +13,24 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>한예슬 기사에 “양아치 날라리” 악플러 2심서 뒤집혀 무죄, 왜?</title>
+      <link>https://www.chosun.com/national/national_general/2025/03/30/AZZ5CK3VENFQBPOHANV4RTLH2I/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/03/30/AZZ5CK3VENFQBPOHANV4RTLH2I/</guid>
+      <dc:creator>이혜진 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 30 Mar 2025 11:11:51 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WJ6NRAZI3ZDL3N5NBMOVVJITLY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;배우 한예슬 /한예슬 인스타그램 캡쳐&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;배우 한예슬의 남편 관련 기사에 ‘양아치’ ‘날라리’라는 표현을 쓰며 비난성 댓글을 단 네티즌이 2심에서 무죄를 확정받았다. &lt;br&gt;&lt;br&gt;29일 법조계에 따르면, 서울중앙지법 5-2형사부(부장 김용중)는 모욕 혐의로 기소된 A씨에 대해 항소심에서 무죄를 선고했다. 검찰이 상고하지 않으면서 최근 판결이 확정됐다. A씨는 지난 2021년 7월 4일 당시 한예슬의 남자친구였던 남편 관련 기사에 “이래서 양아치 날라리들은 안되는 것임. 나잇값 좀 하자. 불혹(40세)에 뭐 하는 짓임?”이라는 댓글을 작성했다. &lt;br&gt;&lt;br&gt;한예슬은 이에 A씨를 모욕 혐의로 고소했다. A씨는 약식기소로 벌금 30만원이 선고됐으나 불복해 정식 재판을 청구했다.&lt;br&gt;&lt;br&gt;1심 재판에서 A씨 측은 “댓글의 표현이 사회적 평가를 훼손할 만한 모욕적 표현이 아니며 피해자(한예슬)를 직접 지칭한 것도 아니다”라는 취지로 주장했다. 그러나 1심 재판부는 A씨의 행위를 유죄로 판단해 벌금 30만원을 선고했다. &lt;br&gt;&lt;br&gt;1심 재판부는 “해당 기사의 피해자 이름 옆에 40세라는 점이 기재된 점을 고려하면 해당 댓글은 피해자를 지칭하는 글이거나, 최소한 피해자를 포함한 관련 인물들을 지칭하는 것이라고 판단된다”고 밝혔다. 이어 “국립국어원 표준국어대사전에 따르면 양아치는 ‘거지를 속되게 이르는 말’이고, 날라리는 ‘언행이 어설퍼서 미덥지 못한 사람을 낮잡아 이르는 말’인 점을 고려하면 비하하는 의미가 담겨있다”며 “경멸적 감정의 표현이라고 판단되는 이상 표현의 자유로 보호된다고 볼 수 없다”고 했다.&lt;br&gt;&lt;br&gt;그러나 2심 재판부는 원심을 뒤집고 무죄를 선고했다. 2심 재판부는 “A씨가 사용한 표현이 지나치게 악의적이라고 단정할 수 없으며 유명 연예인에 대한 각종 루머가 난무하는 것이 현실”이라며 “A씨는 피해자 개인에 대한 경멸이 아니라 연예계의 행태에 대한 경멸에 중점이 있는 것으로 보인다”고 했다. 또 “잘못된 행동이라는 점은 명백하나 처벌 대상이 될 정도로 위법성을 갖추진 못했다”고 판단했다. &lt;br&gt;&lt;br&gt;한예슬은 2021년 5월 연극배우 출신 10세 연하 류성재 씨와의 열애를 인정하고 공개 연애를 이어왔으며, 3년의 열애 끝에 지난해 5월 혼인신고를 마쳤다고 밝혔다. &lt;br&gt;&lt;br&gt;한예슬은 2001년 슈퍼모델로 데뷔했으며, 시트콤 ‘논스톱4’(2003~2004), 드라마 ‘구미호 외전’(2004), ‘환상의 커플’(2006), ‘미녀의 탄생’(2014~2015), ‘빅이슈’(2019), 영화 ‘용의주도 미스신’(2007) 등에 출연했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HQ34QLZMLVA5BOKWUPWRBI3F6M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;배우 한예슬. /유튜브 채널 '한예슬 is'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>부산대 의대생 전원 복귀 결정</title>
+      <link>https://www.chosun.com/national/national_general/2025/03/30/5SEDUMHBJZCNZMYU37BSINVTJ4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/03/30/5SEDUMHBJZCNZMYU37BSINVTJ4/</guid>
+      <dc:creator>김정엽 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 30 Mar 2025 11:26:21 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EOAQG3ZVCNMH5HPCOWWW432ZCQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경남 양산시 부산대학교 양산캠퍼스 의과대학을 지나는 시민./연합뉴스 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정부가 이번 달까지 복귀하지 않는 의대생을 제적하겠다며 강경한 모습을 보이고 있는 가운데 부산대 의대생들이 모두 복귀하기로 했다.&lt;br&gt;&lt;br&gt;부산대는 의대생 600여 명이 전원 복귀하기로 결정했다고 30일 밝혔다. 이날 부산대 의대생 비상대책위원회는 논의를 거쳐 복귀하기로 결정하고, 이 같은 사실을 학교에 알렸다고 한다. 대학은 이날 오후 6시부터 전산 시스템을 개방해 31일까지 등록·복학·수강 신청 등을 완료하도록 안내하고 있다.&lt;br&gt;&lt;br&gt;앞서 부산대 의대는 애초 지난 27일 오후 6시까지 의과대학 복학·등록·수강 신청을 받고, 이때까지 복귀하지 않으면 31일 제적 예정을 통보한 뒤 4월 5일부터 본격적인 제적 절차에 들어가겠다고 예고했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>[단독] 빅5 출근 전공의 2배 늘어… 전공의 단일 대오도 깨지나</title>
       <link>https://www.chosun.com/national/welfare-medical/2025/03/30/X2EWL2OTAFCKLMWGZHCOBXF3EM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/03/30/X2EWL2OTAFCKLMWGZHCOBXF3EM/</guid>
@@ -978,28 +996,6 @@
       <description/>
       <pubDate>Fri, 28 Mar 2025 06:34:47 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NRCI557PINZTQWBDOKEDSELCU4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;공직선거법 위반 항소심에서 무죄를 선고받은 이재명 더불어민주당 대표가 26일 오후 서울 서초구 서울고등법원에서 열린 공직선거법 위반 혐의 2심 선고 공판을 마친 뒤 고 지지자들을 향해 인사를 하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대법원이 이재명 더불어민주당 대표의 공직선거법 위반 사건을 28일 접수했다. 이틀 전인 지난 26일 항소심에서 이 대표에게 무죄 선고를 내린 지 약 48시간 만이다.&lt;br&gt;&lt;br&gt;서울고법은 이날 “이 대표의 공직선거법위반 소송기록을 대법원에 접수했다”고 밝혔다. 고법 관계자는 “선거범죄 사건의 경우 최대한 신속히 기록과 증거물 등을 송부해야 한다는 예규에 따른 것”이라고 설명했다.&lt;br&gt;&lt;br&gt;법원 선거범죄사건의 신속 처리 등에 관한 예규 제9조는 “선거범죄사건에 대하여 항소 또는 상고가 제기된 경우, 그 판결을 선고한 지방법원 또는 고등법원의 각 재판부는 상급심에서 법정기간 내에 판결을 선고함에 지장이 없도록 최대한 신속히 소송기록과 증거물 등을 송부한다”고 규정하고 있다.&lt;br&gt;&lt;br&gt;이 대표는 지난 대선을 앞둔 2021년 12월 방송에서 대장동 개발 실무 책임자인 고(故) 김문기 성남도시개발공사 처장을 성남시장 재직 중에 알면서도 몰랐다고 하고, 같은 해 10월 국정감사에서 “국토교통부 협박으로 백현동 부지 용도를 상향했다”고 발언해 허위 사실 공표 혐의로 2022년 9월 기소됐다.&lt;br&gt;&lt;br&gt;1심은 이 대표의 “해외 출장 중 김씨와 골프를 치지 않았다”는 발언과 백현동 관련 발언이 거짓말이라고 보고 징역 1년에 집행유예 2년을 선고했다. 그러나 2심 재판부는 이 대표의 발언이 ‘의견 표명’에 해당한다며 허위사실공표죄를 적용할 수 없다고 봤다.&lt;br&gt;&lt;br&gt;항소심 재판부가 이 대표에게 무죄를 선고하자, 검찰은 하루 만인 지난 27일 상고했다. 검찰은 “재판부가 일반 선거인의 상식과 부합하지 않는 판단을 해 공직선거법상 허위사실공표죄에 관한 법리를 오해한 위법이 있다”면서 상고 취지를 밝혔다.&lt;br&gt;&lt;br&gt;원심 법원으로부터 소송 기록을 송달받은 후, 대법은 사건 당사자들에게 상고기록접수통지서를 보낸다. 상고인은 통지서를 받아본 날부터 20일 이내에 상고이유서를 제출해야 한다. 대법이 피상고인에게 상고이유서를 송달하면, 피상고인은 10일 이내에 이에 대한 답변서를 내게 된다. 이 무렵 대법에선 해당 사건을 심리할 주심 대법관과 재판부를 결정한다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>울주 이어 영덕·영양도 나흘 만에 주불 잡았다</title>
-      <link>https://www.chosun.com/national/national_general/2025/03/28/YDBEID5R3RBUXNBSFCYOM2W5TA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/03/28/YDBEID5R3RBUXNBSFCYOM2W5TA/</guid>
-      <dc:creator>김영우 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 28 Mar 2025 06:11:50 +0000</pubDate>
-      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CMJ6MG7WXZOK3K62QZXA2LQNJA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;28일 오후 경북 영덕군 영덕읍 노물리 마을이 산불 피해로 폐허로 변해 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경북 의성 산불이 퍼져나가 시작된 영덕과 영양 지역 산불의 주불이 28일 잡혔다. 25일 두 지역으로 산불이 퍼진 지 나흘 만이다. 지난 22일 시작된 경북 의성 산불은 인근 안동, 청송, 영양, 영덕 등으로 퍼져나갔는데, 영덕과 영양에서 주불이 잡혔다.&lt;br&gt;&lt;br&gt;산림청 중앙사고수습본부는 28일 오후 2시 30분쯤 경북 영덕 지역의 주불 진화를 완료했다고 밝혔다. 산림 당국은 이날 영덕 지역의 산불 진화를 위해 헬기 26대, 인력 1007명을 투입했다.&lt;br&gt;&lt;br&gt;산림청 관계자는 “22일 시작된 경북 의성 산불의 영향을 받은 곳 중 주불이 잡힌 건 영덕이 처음”이라고 말했다.&lt;br&gt;&lt;br&gt;이번 산불로 인한 영덕 지역의 산불 피해 면적은 8050㏊다. 전체 화선은 108㎞였다.&lt;br&gt;&lt;br&gt;이어 오후 4시쯤에는 경북 영양군이 “영양 산불의 주불도 잡혔다”고 발표했다. 영양군 관계자는 “진화 대원들이 잔불을 끄고 있다”고 말했다.&lt;br&gt;&lt;br&gt;앞서 지난 22일 시작된 울산 울주군 온양읍에서 시작된 산불 역시 128시간 만인 27일 오후 8시 40분쯤 주불 진화가 완료됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PWZVB5ISVFL43EJ4ZEM4XEV2LE.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;(영덕=뉴스1) 최창호 기자 = 28일 산림청 소속 S-64 초대형 진화핼기가 경북 영덕군 산불 현장으로 출동하고 있다. 2025.3.28/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/CMJ6MG7WXZOK3K62QZXA2LQNJA.jpg?width=5280&amp;height=3956&amp;auth=47942073f80a3c0b68157160b5fe642b315cc8b5ef4783c84efeaad493550896&amp;smart=true" type="image/jpeg" height="3956" width="5280">
-        <media:description type="plain">28일 오후 경북 영덕군 영덕읍 노물리 마을이 산불 피해로 폐허로 변해 있다./연합뉴스</media:description>
-        <media:credit role="author" scheme="urn:ebu">손형주</media:credit>
-      </media:content>
-    </item>
-    <item>
-      <title>“산불 피해견 줄 사료 2t 도난당해”… 동물단체 반환 호소 </title>
-      <link>https://www.chosun.com/national/national_general/2025/03/28/3WBCIJ4VQNGH5IPRRBOBJR776I/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/03/28/3WBCIJ4VQNGH5IPRRBOBJR776I/</guid>
-      <dc:creator>박선민 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 28 Mar 2025 07:15:41 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/J5II4NEJTJB2HJR3CKJJFDPB3I.png"&gt;&lt;figcaption&gt;&lt;small&gt;동물구조단체 위액트 활동가와 봉사자 등이 산불 피해견들을 위한 사료를 트럭에서 내리고 있는 모습. /인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한 동물구조단체가 경북 산불 피해 지역 중 한 곳인 영덕에서 피해견을 위한 사료를 도난당했다며 반환을 호소했다. &lt;br&gt;&lt;br&gt;동물구조단체 위액트는 28일 인스타그램을 통해 “산불 피해견들 사료 2t이 사라졌다”며 “어제 늦은 밤부터 자정까지 봉사자님들과 사료 2t을 영덕 군민운동장 한 켠에 쌓아 두었는데, 오늘 오전 산더미처럼 쌓아둔 사료가 보이지 않았다”고 밝혔다. &lt;br&gt;&lt;br&gt;방범카메라 확인 결과 청년 5~6명이 사료를 전부 실어갔다고 단체는 밝혔다. 단체는 “영덕 군민운동장에 사료를 모아놓고 이를 거점으로 (산불 생존 피해견) 수색을 진행하고 있다”며 “그런데 수색을 다녀온 사이, 사료가 1포도 남김없이 사라져 봉사자들과 활동가들은 난감한 상황”이라고 했다. 그러면서 “사료가 필요한 군민들께 나누고자 했던 것 역시 어렵게 됐다”고 했다. &lt;br&gt;&lt;br&gt;단체는 사료를 가져간 이들을 향해 반환을 요구하기도 했다. 단체는 “오후 5시까지 되돌려놓지 않을 시 법적 조치를 취하겠다”며 “반환이 어려운 경우, 사료 위치 정보라도 보내달라”고도 했다. 단체가 첨부한 영상과 사진 등에는 밤새 쌓아둔 사료가 실제로 다 사라지고 없는 모습이 담겼다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/F3W5IFXOEBAKJJYURFVUDVBRUE.png"&gt;&lt;figcaption&gt;&lt;small&gt;동물단체가 도난당한 사료 반환을 요청하는 공지를 올렸다. /인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;단체는 “차에 구비해 놓은 사료가 소량 남아있어 마을 개들을 위한 밥, 물 급여는 가능하지만 금방 부족해질 것으로 예상된다”며 “사료를 기다렸을 영덕 군민들께 죄송하단 말씀 전한다”고 했다. &lt;br&gt;&lt;br&gt;앞서 영덕에서는 지난 25일과 26일 산불 확산으로 주민이 긴급하게 대피하면서 집에 홀로 남은 개가 다수 확인됐다. 동물의 경우 정부가 피해 규모를 파악하지는 않기 때문에 구체적 통계는 없지만, 단체별 집계를 취합하면 그 수가 상당할 것이라는 분석이 나온다. 이번 산불로 산림 4만8150㏊ 규모가 피해 영향에 놓인 것으로 파악됐다. &lt;br&gt;&lt;br&gt;지난 23일부터 산청, 영덕, 의성 등지에서 구조 활동을 이어 온 위액트는 “산불의 규모가 워낙 커서 얼마나 많은 생명들이 뜨거운 불 속에 갇혀 죽어가고 있는지 가늠조차 되지 않는다”며 “모든 동물을 구조할 수는 없지만, 앞으로 이곳에서 계속 살아가야 할 동물들을 위해 우리가 할 수 있는 최선을 다할 예정”이라고 했다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>“팔 한 짝 내놓을 각오도 없이”... 박단, 의대생 복귀 공개 반대</title>
