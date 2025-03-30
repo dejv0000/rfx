@@ -13,6 +13,69 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>내일 출근길 영하권 꽃샘추위, 낮부터 점차 풀려</title>
+      <link>https://www.chosun.com/national/transport-environment/2025/03/30/UB5H3HL2RFF6TPXSNTMMS2BSEE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/03/30/UB5H3HL2RFF6TPXSNTMMS2BSEE/</guid>
+      <dc:creator>김아사 기자</dc:creator>
+      <description>31일 월요일 오전엔 기온이 뚝 떨어지는 꽃샘추위가 기승을 부리며 춥겠다. 다만, 오후엔 기온이 다소 올라 평년 수준을 회복할 것으로 보인다. 당분간 이처럼 일교차가 큰 날씨가 이어질 것으로 보인다. </description>
+      <pubDate>Sun, 30 Mar 2025 04:47:12 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/USY35NGJ5JNVDI7CNQLOGDHQWA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;3월의 마지막 주말인 30일 봄 꽃이 핀 서울 종로의 한 거리에 갑작스레 눈이 휘날리고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;31일 월요일 오전엔 기온이 뚝 떨어지는 꽃샘추위가 기승을 부리며 춥겠다. 다만, 오후엔 기온이 다소 올라 평년 수준을 회복할 것으로 보인다. 당분간 이처럼 일교차가 큰 날씨가 이어질 것으로 보인다. &lt;br&gt;&lt;br&gt;30일 기상청에 따르면 월요일엔 북서쪽의 찬 고기압이 확장하면서 기온이 떨어진다. 아침 최저 기온은 영하 5도에서 3도를 기록하겠다. 서울이 0도, 대전·대구 영하 1도, 광주 1도, 부산 3도를 나타낼 전망이다. 이는 평년보다 3~7도 낮은 수준이다. 낮 최고 기온은 11~15도를 나타내겠다. &lt;br&gt;&lt;br&gt;당분간 일교차가 큰 날씨가 이어지지만, 날이 지날수록 따뜻한 서풍 영향이 확대되며 기온이 올라갈 것으로 보인다. 수요일부터는 아침 최저기온이 영상권을 회복할 것으로 전망된다.&lt;br&gt;&lt;br&gt;기상청은 수도권과 강원 남부 내륙 및 산지, 충청권 내륙, 전라권 동부, 경상권을 중심으로 대기가 매우 건조하겠으니 화재 예방에도 신경 써야 한다고 전했다.&lt;br&gt;&lt;br&gt;31일 미세먼지 농도는 전 권역이 좋음∼보통 수준으로 예상되나, 수도권은 밤부터 ‘나쁨’ 수준일 것으로 전망됐다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“매달 30% 수익”…코인 투자 사기 일당 ‘징역형’</title>
+      <link>https://www.chosun.com/national/regional/yeongnam/2025/03/30/RVPXEWUURBE6PNQ6NJL43QRSAA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/yeongnam/2025/03/30/RVPXEWUURBE6PNQ6NJL43QRSAA/</guid>
+      <dc:creator>박주영 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 30 Mar 2025 04:37:03 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ORZPI2ZPIP73KNDTBE373LX4AQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산 연제구 거제동 부산지방·고등법원 전경./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;가상화폐 투자로 고수익을 올릴 수 있다고 속여 투자금 6억원을 챙긴 일당에게 징역형이 선고됐다.&lt;br&gt;&lt;br&gt;부산지법 형사6부(재판장 김용균)는 특정경제범죄 가중처벌 등에 관한 법률 위반(사기) 혐의로 재판에 넘겨진 한 투자 업체 대표 A씨 등 3명에게 징역 4년 6개월, 징역 3년 6개월, 징역 2년 6개월을 각각 선고했다고 30일 밝혔다.&lt;br&gt;&lt;br&gt;A씨 등은 지난 2019년 6월 부산의 한 건물에 투자 회사를 설립한 뒤 “세계 1000여 개의 우량 코인(가상화폐)을 선별 매매해 매월 30%의 수익을 올릴 수 있도록 해주겠다”고 속여 투자자를 모집한 뒤 투자금 6억1000만원을 받아 가로챈 혐의를 받고 있다. &lt;br&gt;&lt;br&gt;재판부는 “A씨 등은 피해자들이 코인 투자에 관한 지식이 부족한 점을 악용해 범행했다”며 “코인을 바꿔가며 투자자들을 속이는 등 범행 수법과 경위가 매우 좋지 않다”고 밝혔다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>하회마을 위협한 또 다른 의성 산불, 과수원서 쓰레기 태우다 시작</title>
+      <link>https://www.chosun.com/national/national_general/2025/03/30/PMXB4OXB25CIPFK32DF5FPUX7U/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/03/30/PMXB4OXB25CIPFK32DF5FPUX7U/</guid>
+      <dc:creator>의성=노인호 기자, 김영우 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 30 Mar 2025 04:28:06 +0000</pubDate>
+      <content:encoded>경북 의성에서 시작돼 인근 안동·청송·영양·영덕 등으로 번진 산불 화재의 실화자가 당초 알려진 성묘객 이외에 추가로 있는 것으로 확인됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/53R43Y2D7RK2NEXECFZ27ETH7E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;29일 경북 안동시 길안면 한 야산이 산불로 인해 검게 변해 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;산림 당국은 경북 의성군 안계면의 한 과수원에서 주인이 농사용 쓰레기를 태우다 불이 시작된 것으로 보고 있다.&lt;br&gt;&lt;br&gt;30일 산림 당국에 따르면 지난 22일 오후 2시 39분쯤 경북 의성군 안계면에서 산불이 발생했다. 같은 날 오전 11시 25분쯤 성묘객 실화로 경북 의성군 안평면에서 불이 난 지 3시간쯤 지나서였다.&lt;br&gt;&lt;br&gt;안계면에서 시작된 산불은 남서풍을 타고 안동 지역으로 번져 세계문화유산인 안동 하회마을과 병산서원을 위협했다.&lt;br&gt;&lt;br&gt;산림 당국과 의성군은 안계면 산불이 서산영덕고속도로 옆에 있는 과수원에서 시작된 것으로 보고 있다. 과수원에서는 농자재 쓰레기와 농약 봉지 등을 태운 흔적이 발견됐다.&lt;br&gt;&lt;br&gt;의성군 관계자는 “관련 내용을 접수받아 현장 조사를 진행 중”이라며 “과수원 주인은 현재 집에 없는 것으로 파악됐다”고 말했다.&lt;br&gt;&lt;br&gt;의성군 특별사법경찰(특사경)은 기초 조사를 진행한 뒤 사건을 경찰에 이첩할 예정이다. 앞서 지난 28일 의성군 특사경은 성묘객 실화로 발생한 안평면 산불 관련 수사를 경북경찰청으로 이첩했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>검찰, 文정부 ‘사드 기밀 누설’ 의혹 정의용 전 국가안보실장 소환</title>
+      <link>https://www.chosun.com/national/court_law/2025/03/30/7FCCVY33ZVANVBRUNMBMHGALM4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/03/30/7FCCVY33ZVANVBRUNMBMHGALM4/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 30 Mar 2025 04:30:40 +0000</pubDate>
+      <content:encoded>문재인 정부 안보라인 고위직 인사들이 사드(THAAD·고고도미사일방어체계) 정식 배치를 늦추기 위해 한‧미 양국간 군사작전 내용을 외부에 유출했다는 의혹을 수사 중인 검찰이 정의용 전 국가안보실장을 30일 소환 조사하고 있는 것으로 전해졌다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QRC6CNQ7HJOBXCGZVV3HHECJNA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;정의용 전 국가안보실장./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 서울중앙지검 공공수사3부(부장 김태훈)는 이날 정 전 실장을 피의자 신분으로 불러 조사 중인 것으로 알려졌다. &lt;br&gt;&lt;br&gt;이 의혹은 정 전 실장과 서주석 전 국가안보실 1차장, 정경두 전 국방부 장관, 이기헌 전 대통령비서실 시민참여비서관 등 4명이 2017년 성주군에 임시 배치돼 있던 사드의 정식 배치를 지연시키고자 1년 이상 시간이 걸리는 ‘일반 환경영향평가’를 거치도록 하고, 평가를 위한 협의회 구성을 미뤘다는 내용이다. &lt;br&gt;&lt;br&gt;이 과정에서 2급 비밀에 해당하는 사드 포대의 미사일 교체 관련 한미 군사작전을 중국 측과 사드 배치에 반대하는 시민단체에 유출했다는 것이 의혹의 핵심이다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BWCMR2CBR5DGPAZ5KRD5TI7EYI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2017년 9월 6일 사드(고고도 미사일 방어체계) 발사대 추가배치가 임박한 가운데 경북 성주군 초전면 소성리 사드기지에서 미군들이 배치된 사드 주변에 모여 있다. /조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전직 군 장성 모임인 대한민국수호예비역장성단이 지난 2023년 7월 공익 감사를 청구하며 감사가 시작됐다. 감사원은 감사 결과를 바탕으로 작년 10월 대검찰청에 이들 네 명에 대한 수사를 요청했다. &lt;br&gt;&lt;br&gt;검찰은 지난 1월 서 전 차장의 주거지와 경북 성주군 소성리 마을회관 인근 사드기지 반대 집회 장소 등을 압수 수색하며 본격적인 수사에 착수했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>지리산 위협하던 경남 산청 산불, 213시간 만에 주불 잡혀</title>
+      <link>https://www.chosun.com/national/national_general/2025/03/30/WK5PCXEDQ5FS7OPYQCHO6FGLRI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/03/30/WK5PCXEDQ5FS7OPYQCHO6FGLRI/</guid>
+      <dc:creator>산청=김준호 기자, 김영우 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 30 Mar 2025 04:00:34 +0000</pubDate>
+      <content:encoded>지난 21일 경남 산청군 시천면에서 시작된 산불이 30일 잡혔다. 산불이 시작된 지 213시간 만이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7SNCXYANENOMVFN3DEL76GNGJ4.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;30일 오전 경남 산청 산불 현장에 산림청이 헬기를 동원해 진화 작업을 벌이고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;산림청은 이날 오후 1시 브리핑을 열고 “오늘 오후 1시를 기해 산청과 하동 지역의 모든 주불이 진화됐다”고 발표했다.&lt;br&gt;&lt;br&gt;앞서 지난 21일 오후 3시 26분쯤 경남 산청군 시천면에서 시작된 산불은 인근 하동군으로도 번져 총 1858㏊의 산림을 불태웠다. 산불은 지리산 국립공원 안으로도 파고들어 28일에는 천왕봉 남쪽 4.5㎞ 지점까지 번지기도 했다.&lt;br&gt;&lt;br&gt;브리핑에 나선 임상섭 산림청장은 “산불 진화가 빠르게 이뤄지지 못한 것은 두꺼운 활엽수 낙엽층이 있었기 때문”이라며 “꺼진 산불이 다시 되살아나는 일이 반복됐다”고 말했다.&lt;br&gt;&lt;br&gt;이어 임 청장은 “산불 현장은 해발 900m의 높은 봉우리에 위치해 있었고, 접근을 위해 필요한 임도가 없었다”며 “진화 대원의 이동을 막는 활엽수 낙엽층과, 밀도가 높은 작은 나무와 풀들 때문에 인력을 투입하기 어려웠다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FF4SZ746UZPBNKJWFXJNGTGGGA.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;육군 50보병사단이 경북 산불 피해지역인 의성군과 안동, 영덕, 영양, 청송군에 병력을 투입, 잔불진화작업을 하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경남 산청 산불의 주불 진화가 완료되면서 지난 21일 이곳을 시작으로 전국 11곳에서 발생한 중·대형 산불의 모든 불길이 잡히게 됐다.&lt;br&gt;&lt;br&gt;임 청장은 “각 지자체에서 잔불 진화를 철저히 해주실 것을 당부드린다”고 했다.&lt;br&gt;&lt;br&gt;지난 21일부터 전국 11곳에서 중·대형 산불이 발생하면서 지금까지 30명이 사망했고, 45명이 부상을 입었다. 산불로 불에 탄 산림 면적은 총 4만8238㏊로 집계됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DGDUJTJCTVPBVPT3IHYBXENLS4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;30일 경북 안동시 일직면 국곡리에서 산불 피해 주민들이 전소된 집을 살펴보고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>처제 신용카드로 ‘카드깡’한 형부... 대법 “친족상도례로 처벌 면제 안돼”</title>
+      <link>https://www.chosun.com/national/court_law/2025/03/30/LYFRCDLTEFC3XGMGVQ3BW463HU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/03/30/LYFRCDLTEFC3XGMGVQ3BW463HU/</guid>
+      <dc:creator>김은경 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 30 Mar 2025 03:31:45 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UZL5QG7Y2O7A3H4KPRHWOI5XMQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대법원 전경. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;친족의 신용카드를 도용한 범죄에 대해 가맹점·금융기관도 피해자일 수 있기 때문에 친족상도례(친족 간 재산범죄 처벌을 면제해주는 조항)로 처벌을 면제해선 안 된다고 대법원이 판결했다.&lt;br&gt;&lt;br&gt;30일 법조계에 따르면 대법원 1부(주심 노태악 대법관)는 최근 처제 신용카드 정보를 무단으로 사용해 7700여만원을 가로챈 A(36)씨에게 친족상도례를 적용해 형을 면제한 2심 판결을 깨고 사건을 창원지법으로 돌려보냈다.&lt;br&gt;&lt;br&gt;A씨는 지난 2021년 12월부터 2022년 2월까지 같이 살던 처제 B씨의 신용카드 비밀번호와 계좌번호, 인적사항 등을 도용해 약 7700만원을 가로챈 혐의(컴퓨터 등 사용 사기)로 재판에 넘겨졌다. 처제 신용카드로 현금서비스를 신청하거나 결제한 뒤, 수수료를 제외한 금액을 현금으로 돌려받는 이른바 ‘카드깡’ 방식을 썼다. A씨는 이밖에도 회삿돈 1억2000만원가량을 횡령한 혐의(업무상횡령), 중고 거래 사기로 13만원을 챙긴 혐의(사기)도 받았다.&lt;br&gt;&lt;br&gt;1심은 A씨 혐의를 모두 인정해 징역 1년 8개월을 선고했다. 반면 2심은 업무상 횡령과 중고 사기 혐의에 대해서만 형을 내려 1년 5개월을 선고했다. 2심 재판부는 “동거 친족인 B씨가 피해자라면 친족상도례 규정을 적용해야 한다”며 처제 카드를 도용한 혐의를 유죄로 판단하면서도 형은 면제했다.&lt;br&gt;&lt;br&gt;대법원 판단은 달랐다. 카드 도용 범죄의 피해자를 가맹점이나 대출금융기관으로 본다면 처벌을 내릴 수 있다고 봤다. &lt;br&gt;&lt;br&gt;대법원은 검사가 제출한 수사보고서에 ‘계좌이체의 경우 금융기관 간 거래가 먼저 이뤄지고, 카드결제의 경우에도 카드사가 가맹점에 금액을 먼저 지급한 뒤 최종적으로 소비자가 카드 대금을 지급하는 구조이므로 직접 피해자는 카드사·금융기관’이라는 취지가 기재돼있다는 점을 들어 “피해자를 가맹점 또는 대출금융기관 등으로 기소한 것으로 볼 여지가 충분하다”고 했다.&lt;br&gt;&lt;br&gt;이어 “피해자가 누구인지 명확히 하도록 한 뒤에 친족상도례 적용 여부를 판단했어야 한다”며 이 부분을 다시 심리·판단하도록 했다.&lt;br&gt;&lt;br&gt;한편, 친족 사이에서 일어난 재산 범죄를 처벌하지 않는다는 친족상도례 조항은 작년 6월 헌법재판소에서 헌법불합치 결정을 받았다. &lt;br&gt;&lt;br&gt;대법원은 다만 “이 사건에까지 헌법불합치 결정의 소급효를 인정할 경우, 오히려 그 조항에 따라 형이 면제됐던 사람들에게 형사상 불이익이 미치게 된다”며 “이 조항(친족상도례)은 헌법불합치 결정이 있는 날부터 효력을 상실한다고 봐야 한다”고 했다. &lt;br&gt;&lt;br&gt;A씨 범죄는 헌법불합치 결정 전에 이뤄진 것이어서 친족상도례 적용을 검토할 수 있지만, 피해자를 친족(처제)이 아닌 카드사·금융기관으로 보면 처벌할 수 있다는 취지다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>고대 의대생, 전원 복학 신청 완료...주요 대학 의대 사실상 ‘전원 등록’ </title>
+      <link>https://www.chosun.com/national/education/2025/03/30/3ZR4BE22JVBF7J63E6226JTJ6M/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/education/2025/03/30/3ZR4BE22JVBF7J63E6226JTJ6M/</guid>
+      <dc:creator>김민기 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 30 Mar 2025 03:35:38 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NO24GCF2PFN7HNSOUOGXCFMGJY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 성북구 고려대학교 의과대학./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;고려대 의대생 전원이 올해 1학기 복학 신청을 했다.&lt;br&gt;&lt;br&gt;30일 고려대의료원 관계자는 “군 입대 등 불가피한 사유를 제외하고, 의대생 전원이 복학 신청을 완료했다”고 밝혔다. 군 휴학생 110여 명과 이미 등록이 완료된 25학번 신입생을 제외한 모든 복학 대상자가 복귀를 한 것이다. 고려대 의대 학장단은 전날 오후 추가 복학 신청을 한 학생들을 대상으로 면담을 진행한 것으로 알려졌다. &lt;br&gt;&lt;br&gt;앞서 지난 21일 등록을 마감한 고려대 의대는 절차에 따라 미등록 학생들에 대해 제적 통지서를 발송할 예정이었다. 그러나 복학 희망자의 면담 신청이 잇따르며 등록 기간을 31일 오전까지 연장하기로 한 바 있다.&lt;br&gt;&lt;br&gt;주요 의대에서 사실상 전원이 등록하는 흐름이 이어지고 있다. 서울대 의대에선 등록 대상자 전원이 등록해 제적생이 나오지 않았고, 연세대 의대에선 1명을 제외한 모든 학생이 수업 참여 의사를 밝혔다. 울산대, 성균관대에서도 학생들이 ‘전원 복학’으로 뜻을 모았다.&lt;br&gt;&lt;br&gt;주요 대학들에서 학생 복귀가 이어짐에 따라 아직 등록 마감이 남은 학교에서도 복귀 행렬이 이어질지 교육계 관심이 쏠린다. 경희대·충북대 등은 30일까지, 가천대·건국대·계명대·단국대·대구카톨릭대·아주대·원광대·한양대는 31일까지 복귀 신청을 받는다. 교육부는 31일 전국 40개 의대의 학생 복귀 현황을 취합한다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>의사면허 정지 중 검진 결과 통보한 의사...法 “의료행위 해당”</title>
       <link>https://www.chosun.com/national/court_law/2025/03/30/32HJSQPPUVCNNDYUFGOZUS2XIU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/03/30/32HJSQPPUVCNNDYUFGOZUS2XIU/</guid>
@@ -910,72 +973,6 @@
       <description>음주운전으로 세 번이나 처벌받고도 또다시 음주운전을 하다 적발된 50대 남성이 항소심에서 감형을 받았다. 범행 사실을 모두 인정하고, 동종 범행 전과가 이 사건 범행으로부터 10여년 전에 발생했다는 것이 이유다.</description>
       <pubDate>Fri, 28 Mar 2025 06:17:38 +0000</pubDate>
       <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XLHYXSFDS7EC76F7GN3OSE5WVU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;춘천지방법원./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;음주운전으로 세 번이나 처벌받고도 또다시 음주운전을 하다 적발된 50대 남성이 항소심에서 감형을 받았다. 범행 사실을 모두 인정하고, 동종 범행 전과가 이 사건 범행으로부터 10여 년 전에 발생했다는 것이 이유다.&lt;br&gt;&lt;br&gt;춘천지법 형사1부(재판장 심현근)는 도로교통법 위반(음주운전) 혐의로 기소된 A(54)씨에게 징역 1년 6개월을 선고한 원심을 깨고 징역 1년을 선고했다고 28일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난해 6월 27일 강원도 태백시 한 도로에서 혈중알코올농도 0.185%의 만취 상태로 차량을 운전한 혐의로 기소됐다. A씨는 도로에 정차한 상태로 잠이 들면서 음주 사실이 들통났다.&lt;br&gt;&lt;br&gt;앞서 A씨는 지난 2015년 10월 음주운전죄로 징역 6개월에 집행유예 2년을 선고받는 등 음주 운전으로 3차례나 처벌받은 전력이 있음에도 이 같은 범죄를 또다시 저질렀다.&lt;br&gt;&lt;br&gt;A씨는 재판 과정에서 “밀린 임금을 받기 위해 운전을 했다”며 선처를 호소했지만, 1심 재판부는 밀린 임금을 받기 위해 따지려고 음주운전을 한 점, 음주운전으로 처벌을 받은 전력이 있는 점 등을 이유로 징역 1년 6개월을 선고했다.&lt;br&gt;&lt;br&gt;그러나 A씨는 1심 선고 이후 원심의 형이 너무 무겁다며 항소했다.&lt;br&gt;&lt;br&gt;항소심 재판부는 “피고인의 죄질은 매우 불량하나 범행을 모두 인정하고 있다”면서 “동종 범행 전과로 수차례 처벌받은 전력이 있으나 동종 범행 전과가 이 사건 범행으로부터 약 10여 년 전인 점 등을 양형에 참작했다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘15세 이하’ 아이돌 오디션, 결국 방송 취소… “출연자 보호” </title>
-      <link>https://www.chosun.com/national/national_general/2025/03/28/KMWOLKAZN5HXFLSCG2Z7QTPC64/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/03/28/KMWOLKAZN5HXFLSCG2Z7QTPC64/</guid>
-      <dc:creator>박선민 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 28 Mar 2025 05:35:02 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2FZHTDXSFNCFRK2NTQWSZTNI6Y.png"&gt;&lt;figcaption&gt;&lt;small&gt;MBN '언더피프틴' 참가자 프로필. /언더피프틴 소셜미디어&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;8세 이상 15세 이하 여아들을 상대로 진행하는 걸그룹 오디션 서바이벌 ‘언더피프틴’이 미성년자를 상업적으로 소비한다는 논란 속 결국 방영 취소됐다. &lt;br&gt;&lt;br&gt;MBN은 28일 공식 입장을 통해 “오는 3월 31일 첫 방송 예정이었던 ‘언더피프틴’에 대한 제작사 크레아스튜디오의 방송 취소 입장을 확인했다”며 “방송은 무산됐지만 크레아스튜디오와의 협력 관계는 계속 유지할 예정”이라고 했다.&lt;br&gt;&lt;br&gt;‘언더피프틴’ 제작진 역시 같은 날 “깊은 고심과 회의 끝에 현재 예정되어 있던 3월 31일 방송 일정을 취소하고 출연자 보호와 재정비를 하는 것이 최선의 방법이라고 결정했다”며 “앞으로 프로그램의 본질과 참가자들의 진심이 훼손되지 않도록 제작하겠다”고 했다. &lt;br&gt;&lt;br&gt;‘언더피프틴’은 만 15세 이하 여아 K팝 가수 지망생 59명이 경쟁하는 경연 프로그램으로, ‘미스트롯’과 ‘미스터트롯’ 등을 흥행시킨 서혜진 크레아스튜디오 대표가 기획했다.&lt;br&gt;&lt;br&gt;제작진에 따르면, 참가자들은 본인의 참여 의사와 보호자 동의하에 프로그램에 지원했으며, 제작진은 미성년자 출연자 보호를 위한 녹화 준수 사항을 적용했다. 참가자 보호자와의 논의를 통해 스타일링을 결정했고, 녹화 주간 연습 시간을 최대 35시간으로 제한했다고 한다. 보호자와 제작진이 연습실 픽업 등 상시 관리하고, 학습권 보장을 위해 무리한 일정은 배제했다고 제작진은 전했다.&lt;br&gt;&lt;br&gt;다만 참가자들의 어린 나이를 고려할 때 상업적 목적의 프로그램 제작이 부적절하다는 지적이 지속해서 제기됐다. 특히 티저 영상에 10대 지원자가 노출이 있는 의상으로 퍼포먼스를 하는 장면이 포함돼 논란이 됐다. 이에 제작진은 지난 25일 긴급 제작보고회를 열고 해명에 나서기도 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>아파트 관리비 7억원 횡령한 40대 경리 구속 송치</title>
-      <link>https://www.chosun.com/national/national_general/2025/03/28/XJUFOX2DCBBLVKH4GJAU7ETDZQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/03/28/XJUFOX2DCBBLVKH4GJAU7ETDZQ/</guid>
-      <dc:creator>광주광역시=진창일 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 28 Mar 2025 05:54:22 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/D5Z4ZSGASZAJLB7WDQBLNOQRVU.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;광주 광산경찰서 전경. /광주경찰청 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;수억원에 달하는 아파트 관리비를 횡령한 40대 관리사무소 경리 직원이 검찰에 넘겨졌다.&lt;br&gt;&lt;br&gt;광주 광산경찰서는 28일 특정경제범죄가중처벌법상 업무상 횡령 혐의로 광주광역시 광산구의 한 아파트 관리사무소 경리 직원 A(48)씨를 구속 송치했다고 밝혔다.&lt;br&gt;&lt;br&gt;경찰에 따르면 A씨는 지난해부터 최근까지 30여회에 걸쳐 아파트 관리비와 장기수선충당금 등 총 7억여원을 빼돌린 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;A씨는 홀로 경리 업무를 맡고 있었고, 정상 지출한 것처럼 서류를 위조해 전기·수도 요금과 인건비 등을 자신의 계좌로 빼돌린 것으로 조사됐다.&lt;br&gt;&lt;br&gt;아파트 측은 A씨가 지난 5일 관리비 통장에 남아 있던 약 3000만원을 모두 인출한 뒤 잠적하자, 횡령 사실을 확인하고 경찰에 고소장을 냈다.&lt;br&gt;&lt;br&gt;경찰은 지난 21일 경기 부천시에서 A씨를 체포하고 약 700만원을 회수했다. A씨는 경찰 조사에서 “빚을 갚는 데 돈을 사용했다”는 취지의 진술을 한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/D5Z4ZSGASZAJLB7WDQBLNOQRVU.JPG?width=2562&amp;height=1498&amp;auth=7e91fc3aa5f7cd57f12d94acdb5948ea242a9db7a337c455cc34b62ade8509eb&amp;smart=true" type="image/jpeg" height="1498" width="2562">
-        <media:description type="plain">광주 광산경찰서 전경. /광주경찰청 제공</media:description>
-      </media:content>
-    </item>
-    <item>
-      <title>공수처, ‘전과 조회해 누설’ 혐의 이정섭 검사 기소 </title>
-      <link>https://www.chosun.com/national/court_law/2025/03/28/H62QX7MOJZBRTJBNABMTTCCP5M/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/03/28/H62QX7MOJZBRTJBNABMTTCCP5M/</guid>
-      <dc:creator>이슬비 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 28 Mar 2025 05:32:12 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QU2C4MFN65OMGCLGITUICSLGD4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이정섭 대전고검 검사가 지난해 5월 28일 서울 종로구 헌법재판소에서 열리는 자신에 대한 탄핵 사건 2차 변론기일에 출석하며 취재진의 질문에 답하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘자녀 위장 전입’과 ‘리조트 객실료 수수’ 등의 혐의로 기소된 이정섭 대전고검 검사가 처가의 부탁을 받고 처남집 가사도우미의 전과기록을 조회해 알려준 혐의로 추가 기소됐다. &lt;br&gt;&lt;br&gt;고위공직자범죄수사처(공수처) 수사 4부(부장 차정현)는 28일 이 검사를 공무상 비밀누설 혐의로 불구속 기소했다고 밝혔다. 검사는 동부지검 부장검사 시절인 2020년 3월 후배 검사에게 자신의 처남집 가사도우미의 전과 정보를 조회하도록 하고, 이 정보를 자신의 아내를 통해 처남댁에 알려준 혐의를 받는다. &lt;br&gt;&lt;br&gt;공수처는 21~24일 대검찰청과 서울동부지검을 압수수색하고 26일 대검을 추가 압수수색 했다. 공수처는 “수사를 통해 확보한 자료와 진술 등 확인되는 사실관계, 판례 등을 종합적으로 검토한 결과 이 검사의 공무상비밀누설죄가 인정된다고 판단했다”고 설명했다.&lt;br&gt;&lt;br&gt;검찰은 지난 6일 이 검사를 딸의 명문 초등학교 진학을 위해 위장전입(주민등록법 위반)을 하고, 강원 엘리시안 강촌 리조트에서 대기업 임원에게 접대를 받고(청탁금지법 위반), 처가의 부탁을 받고 가사도우미 등의 범죄 기록을 조회(형사절차전자화법 위반)한 혐의로 기소했다. 전과 기록을 무단으로 조회한 범죄 사실은 같지만, 검찰은 공수처 수사대상인 공무상비밀누설 혐의는 공수처로 이첩했다. &lt;br&gt;&lt;br&gt;&lt;b&gt;◇檢, ‘후배 검사·실무관 시켜 사건 무단조회’ 공소장 적시&lt;/b&gt;&lt;br&gt;&lt;br&gt;전날 국회에 제출된 이 검사 공소장에 따르면, 이 검사는 후배 검사와 실무관을 시켜 가사도우미 범죄 이력과 처남이 연루된 사건을 조회한 것으로 나타났다. &lt;br&gt;&lt;br&gt;이 검사는 서울동부지검 형사6부 부장검사로 재직하던 2020년 3월 후배 검사에게 처남 집에서 일하는 가사도우미의 전과를 조회하도록 한 뒤 전과 정보를 아내를 통해 처남댁인 강미정(조국혁신당 대변인)씨에게 알려준 것으로 조사됐다. &lt;br&gt;&lt;br&gt;이 검사는 또 수원지검 형사3부 부장검사로 재직하던 2020년 10월 처남이 근로기준법 위반 혐의로 경찰 조사를 받게 되자, 실무관을 통해 검찰 송치 여부 등 사건 정보를 조회한 것으로 검찰은 보고 있다. &lt;br&gt;&lt;br&gt;이 검사는 그해 11월에도 평소 친분이 있던 업체 대표가 수원지검에 고발되자 실무관을 통해 고발인 이름과 업체명 등을 넣어 사건 진행 경과를 두 차례 조회한 것으로 조사됐다. &lt;br&gt;&lt;br&gt;이 검사가 엘리시안 강촌 리조트에서 리조트 운영사 부사장을 지낸 대기업 고위 임원으로부터 3차례에 걸쳐 총 354만원을 수수한 혐의도 공소장에 담겼다. 이 검사는 2020년 12월 C씨가 예약해준 리조트에서 가족 등 일행 9명과 함께 3박 4일간 투숙한 뒤 씨가 객실 요금과 저녁 식사 비용 등 약 145만원을 법인카드로 대신 결제하게 했다. 또 2021년 12월 102만원, 2022년 12월 107만원의 리조트 숙박 대금 및 식사 비용을 이 임원의 법인카드로 대신 결제하게 한 것으로 조사됐다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>강원 대설특보, 제주 벚꽃만발, 영남 건조특보…어지러운 한반도의 3월</title>
-      <link>https://www.chosun.com/national/transport-environment/2025/03/28/DEBYVT4LFZCAVKGS3EK65UTHXU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/03/28/DEBYVT4LFZCAVKGS3EK65UTHXU/</guid>
-      <dc:creator>박상현 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 28 Mar 2025 05:29:27 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NNCI4F24FVJGHIVWFZ2J6E255Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;다시 꽃샘추위가 찾아온 28일 오전 서울 도심에서 시민이 겨울외투를 입고 신호를 기다리고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이번 주말 북쪽에서 찬 바람이 내려오며 꽃샘추위가 찾아오겠다. 강풍이 불면서 한겨울 수준으로 체감기온을 뚝 떨어뜨릴 전망이다. ‘봄의 한복판’인 4월을 앞두고 영남엔 극단적 메마름, 강원도엔 대설, 제주도엔 벚꽃 만개 등 한반도의 3월이 어지러운 모습을 보이고 있다.&lt;br&gt;&lt;br&gt;기상청에 따르면, 27일 밤부터 한랭건조한 북풍(北風)이 내려오며 주말인 29~30일 기온이 크게 떨어지겠다.&lt;br&gt;&lt;br&gt;29~30일 전국에 간판이 흔들릴 정도인 순간풍속 초속 15m의 바람이 불겠고, 특히 대륙고기압이 보내는 찬 공기가 가장 먼저 들어오는 한반도 서쪽을 중심으로는 태풍(초속 17m 이상)보다 강한 초속 20m 내외의 세찬 바람이 불 것으로 보여 강풍특보가 발효됐다. 찬 바람이 기온을 크게 떨어뜨리면서 29~30일 기온은 최저 영하 5도에서 영상 2도, 최고 7~12도로 예보됐다. 서울의 경우 최저기온은 영상 1도지만 체감기온은 영하 2도로 실제 피부로 느끼는 추위가 더 심하겠다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JREECNVO6FVYPXOKXX27BFXLKE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경북 의성산불이 강풍을 타고 영덕으로 확산된 26일 오전 매정 1리 마을 곳곳이 쑥대밭으로 변해 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;북풍은 중국 쪽 대륙에서 불어오는 바람이다. 습기가 거의 없어서 매우 건조하다. 이에 한반도가 북풍에 덮히는 29~30일에 전국적으로 건조도가 심해지겠고, 이 바람이 태백산맥과 소백산맥을 넘으며 더 건조해지는 영남 일대엔 건조도가 극에 달하겠다. 현재 경북 전역과 경남·강원·충청·호남에 발효된 건조특보는 주말동안 특보구역이 더 확대할 것으로 예상된다.&lt;br&gt;&lt;br&gt;강원산지엔 28~29일 이틀간 2~7㎝의 폭설이 예고되며 대설특보가 발효됐다. 동풍(東風)이 동해상을 통과하며 강수 구름대가 만들어지고, 북풍과 만나 얼면서 눈이 뿌려질 것으로 보인다. 반면 제주도엔 지난 27일 작년보다 5일 빠르게 벚꽃이 만발했다. 제주 벚꽃은 이달 26일 개화해 하루 만에 만발한 것으로 관측됐다. 그러나 28일 제주에 강풍특보가 발효됐고, 거센 바람이 한동안 이어질 것으로 보여 벚꽃 상당수가 떨어질 것으로 예상되고 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HOALRERVZJPUXBHAWXI4DTCR2M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;제주 전농로 왕벚꽃 축제를 하루 앞둔 27일 오후 제주시 삼도일동에서 우산을 쓴 관광객들이 벚꽃 구경에 빠져 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘36년 법관’ 출신이 쓴  尹탄핵일지  </title>
-      <link>https://www.chosun.com/national/court_law/2025/03/28/QCN7ACCCSNE3XHKSE57NER6SJE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/03/28/QCN7ACCCSNE3XHKSE57NER6SJE/</guid>
-      <dc:creator>양은경 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 28 Mar 2025 05:23:39 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JTLBAXKPAVCO5IV5MJXS75442Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;AI도움 받아 탄핵절차 쟁점 분석한 '백척간두 끝자락에 서서'/강민구변호사 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산지법원장을 지낸 강민구 변호사(67.사법연수원 14기)가 12·3계엄 이후 윤석열 대통령 탄핵 과정을 기록한 ‘백척간두 끝자락에 서서’(바른디자인 펴냄)를 펴냈다. &lt;br&gt;&lt;br&gt;‘36년 법관의 탄핵일지’라는 부제의 이 책은 ‘아무리 목적이 숭고하더라도 절차가 무너지면 법치는 붕괴한다’는 원칙을 강조하며 공수처 내란죄 수사의 적법성 문제, 대통령 탄핵소추 과정의 절차적 하자, 검찰과 공수처의 공조 수사가 초래한 혼란 등을 절차적 정당성 측면에서 지적한다. &lt;br&gt;&lt;br&gt;법원 재직 시절부터 IT전문가로 통했던 저자는 이런 이슈를 GPT4o, 그록, 퍼플렉시티, XAI 등 최신 AI로 분석하고 있다. AI가 보는 내란죄 성립 여부, 공수처와 검찰의 공조 수사가 초래한 법치주의의 위기, AI가 설명하는 대통령 권한대행의 헌법재판관 임명권, AI가 설명하는 대통령 탄핵심판 기각 논거 등이 이 책의 주제다. &lt;br&gt;&lt;br&gt;예를 들어 마은혁 후보의 헌법재판관 임명 보류가 국회의 권한을 침해하는지에 대해 헌법 111조 3항이 ‘재판관 중 3인은 국회에서 선출하는 자를 대통령이 임명한다’고 규정하고 있는 점을 들어 국회가 보유한 권한은 ‘재판관 선출권’이라고 결론내린다. &lt;br&gt;&lt;br&gt;그러면서 헌재가 국회가 주장하지 않은 ‘헌법재판소 구성권’을 침해당했다고 결정한 것은 헌법에 명시된 대통령 권한을 무력화했다고 비판하는 식이다. &lt;br&gt;&lt;br&gt;아울러 국회가 탄핵사유 중 형사범죄로서 내란죄를 철회한 것은 박근혜 전 대통령 탄핵심판에서 뇌물죄를 배제한 것과 다르다고 분석했다.&lt;br&gt;&lt;br&gt; 당시 소추사유였던 형법상 뇌물죄를 배제한 것은 심판 과정에서 사유를 조정한 데 따른 것이었지만 이번에는 국회 의결 이후 소추단이 사유를 임의로 철회했기 때문에 탄핵절차의 적법성과 정당성을 훼손할 소지가 있다는 것이다. 이는 헌재의 판단 기준, 법리적 논증 등을 종합한 결과라고 저자는 밝혔다. &lt;br&gt;&lt;br&gt;강 변호사는 “각종 쟁점에 대한 분석과 논리를 정리하고 주장을 교차 검증하며 객관성을 높이고자 했다”며 “법치주의라는 가치가 단순히 법조인이나 정치인만의 문제가 아니라 모든 국민이 지켜야 할 공동체의 기본 가치임을 깨닫게 될 것”이라고 밝혔다.&lt;br&gt;&lt;br&gt;강 변호사는 서울대 법학과를 졸업하고 1982년 제 24회 사법시험에 합격한 뒤 대구지법 부장판사, 서울고법 부장판사, 부산지법원장, 법원도서관장 등을 지냈고 2024년 퇴임했다. &lt;br&gt;&lt;br&gt; &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“하늘이 빨갰는데 살았어요”…사탕 들고 경찰 찾아온 영덕 초등생의 편지</title>
-      <link>https://www.chosun.com/national/national_general/2025/03/28/UMOXGVAC7FC6REVVKUOXPCFAYU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/03/28/UMOXGVAC7FC6REVVKUOXPCFAYU/</guid>
-      <dc:creator>김자아 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 28 Mar 2025 04:50:49 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/B2PJHBHMWVDP7FZMIXFRZFNMOA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;영덕파출소에 찾아온 초등학생들./영덕경찰서&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경북 의성군에서 시작된 산불이 강풍을 타고 영덕 등 경북 북부와 동해안으로 확산하는 가운데, 영덕의 한 초등학교 학생들이 진화에 투입된 경찰과 소방관에게 감사 편지를 전달했다.&lt;br&gt;&lt;br&gt;28일 영덕경찰서에 따르면 전날 오후 2시 35분쯤 경북 영덕군 영덕읍 영덕파출소에 야성초등학교에 재학 중인 5학년 여학생 5명이 찾아왔다.&lt;br&gt;&lt;br&gt;학생들은 파출소 밖에 서 있던 경찰관들에게 막대사탕과 직접 쓴 손편지를 전달하고서 인사를 한 뒤 돌아갔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UBTNWLTQTZAEFI6DIA6QWSMKBE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;영덕파출소에 찾아온 초등학생이 쓴 편지./영덕경찰서&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;학생들은 편지에 “요즘 산불 때문에 힘드시죠”라며 소방관과 경찰관을 향한 감사한 마음을 담았다.&lt;br&gt;&lt;br&gt;이들은 “불나는데 집 지킨다고 하는 분들 대피시키고 고생 많으시다”며 “처음 겪는 일이라 소방관이나 경찰관도 놀랐을 것이고, 영덕에 사는 사람도 갑자기 대피하라고 해서 놀랐다”고 했다.&lt;br&gt;&lt;br&gt;대피 당시 상황에 대해서도 “25일 밤 12시쯤 대피하려고 짐 싸서 집 밖으로 나오니 하늘이 빨개서 무서웠다. 창문으로는 뿌옜는데 밖에서 보니 빨갰다”며 “대피는 잘해서 살았고 다행히 집도 살았다. 살 수 있었던 것은 소방관과 경찰관 덕분이라고 생각한다. 우리 지역 지켜줘서 감사하다”고 적었다.&lt;br&gt;&lt;br&gt;영덕경찰서 관계자는 “경찰관과 소방관의 노고를 알아주는 어린이들의 마음이 오히려 고맙다”고 말했다.&lt;br&gt;&lt;br&gt;영덕에서는 이번 산불로 모두 9명이 희생됐다. 산림청과 각 자치단체에 따르면 이날 오전 5시 기준 영덕군의 진화율은 65%를 기록하고 있다. 화선 108㎞ 중 70㎞에 대한 진화가 완료됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“영화 훼방 놓을 것”… 한지민 협박·모욕 30대 검찰 송치</title>
-      <link>https://www.chosun.com/national/national_general/2025/03/28/4QVLERTBGFEPTMBF2YKTYFMHPE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/03/28/4QVLERTBGFEPTMBF2YKTYFMHPE/</guid>
-      <dc:creator>박선민 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 28 Mar 2025 04:34:06 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VB73GFPA67VEY2O3FXPRLDNPBQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;배우 한지민. /뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;배우 한지민(43)을 향해 악성 게시물을 남긴 30대 여성이 검찰에 불구속 송치됐다. &lt;br&gt;&lt;br&gt;서울 강남경찰서는 28일 30대 여성 A씨를 한지민에 대한 협박·모욕 혐의로 불구속 송치했다고 밝혔다. &lt;br&gt;&lt;br&gt;A씨는 작년 9∼10월 자신의 소셜미디어 계정에 “한지민이 출연하는 영화에 훼방을 놓겠다” “입 닫아라” 등의 글을 19건 게재한 혐의를 받는다. 이 과정에서 A씨는 자신이 작성한 모욕·협박 글에 한지민과 그의 지인들까지 태그한 것으로 조사됐다. &lt;br&gt;&lt;br&gt;경찰은 소속사로부터 고소장을 접수한 뒤, 미국에 있는 소셜미디어 운영사에 협조를 요청해 A씨의 신원을 특정한 것으로 알려졌다. &lt;br&gt;&lt;br&gt;앞서 한지민 소속사 BH엔터테인먼트는 작년 11월 한지민에 대해 악성 글을 게재한 악플러를 서울 강남경찰서에 고소했다고 밝힌 바 있다. &lt;br&gt;&lt;br&gt;당시 소속사는 “한지민에 대해 지속적으로 악의적 비방과 인신공격을 일삼고 무분별한 허위 사실을 유포한 정황을 확인해 법무법인을 선임한 후 강남경찰서에 고소장을 제출했다”며 “앞으로도 각종 소셜미디어, 온라인 커뮤니티, 카페, 포털 사이트 등에서 한지민 배우에 대해 공공연하게 행해지고 있는 명예훼손과 모욕에 대해 지속적으로 강경하게 법적으로 대응할 것”이라고 했다. &lt;br&gt;&lt;br&gt;소속사는 “온라인상에서 소속 배우들의 명예를 훼손하고 인격을 모욕하는 행위는 명백한 범죄 행위이며, 합의와 선처는 절대 없음을 알려드린다”며 악성 게시물 등에 대한 제보를 요청하기도 했다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>가톨릭대·성균관대 등 13개 의대... 오늘 등록 절차 마감</title>
