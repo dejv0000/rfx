@@ -13,6 +13,24 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>[단독] 빅5 출근 전공의 2배 늘어… 전공의 단일 대오도 깨지나</title>
+      <link>https://www.chosun.com/national/welfare-medical/2025/03/30/X2EWL2OTAFCKLMWGZHCOBXF3EM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/03/30/X2EWL2OTAFCKLMWGZHCOBXF3EM/</guid>
+      <dc:creator>오유진 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 30 Mar 2025 08:52:04 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UP3RLMPBZVMYPH5LE7OFX3GZ54.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 2일 서울 시내 한 대학 병원에서 이동하는 의료진. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정부의 의대 증원 방침에 반발해 휴학했던 의대생들이 속속 학교로 돌아와, 지난해 2월 수련 병원을 떠난 전공의들의 복귀에도 영향을 미칠지 주목된다. 최근 의대생 복학 움직임에 따라 2026학년도 의대 모집 인원이 증원 전인 3058명으로 회귀할 가능성이 커지자, 수련 병원 복귀를 고민하는 전공의가 늘고 있다. &lt;br&gt;&lt;br&gt;30일 보건복지부에 따르면, 전국 수련 병원에서 근무 중인 전공의는 인턴 211명, 레지던트 1~4년 차 1461명 등 총 1672명이다. 전공의 집단 사직 이전(1만3531명)의 12.4% 수준이다. 다만 전공의 출근율이 8.7%(1176명)에 불과했던 작년 10월과 비교하면 300명 가까이(3.7%포인트) 늘었다.&lt;br&gt;&lt;br&gt;국내 5대 병원의 전공의 수도 늘었다. 국민의힘 서명옥 의원실이 보건복지부에서 제출받은 자료에 따르면, 올해 ‘5대 주요 병원에서 근무 중인 전공의는 총 393명이다. 서울대병원 103명, 서울성모병원 101명, 삼성서울병원 83명, 세브란스병원 60명, 서울아산병원 46명이다. 지난해 10월 당시 이 병원들의 전공의는 총 204명이었는데, 두 배 가까이로 는 것이다.&lt;br&gt;&lt;br&gt;그동안 전공의들은 ‘의대 증원 백지화’ 등을 포함한 7대 요구안을 고수하며 ‘단일 대오’를 유지해 왔다. 그러나 최근 의대생 복귀와 정부의 2026학년도 의대 증원 ‘0명’ 약속에 따라 전공의 내부에서도 회의감과 분위기 변화 조짐이 동시에 나타나고 있다.&lt;br&gt;&lt;br&gt;남은 전공의 복귀 기회는 통상 7~8월 하반기 모집 때다. 하반기 모집은 상반기 미충원 인원이나 중도 결원을 대상으로 진행된다. 정부가 예외적으로 그 전에 추가 모집을 허용하면 전공의를 추가 선발할 수 있다. 다만 복지부 관계자는 “전공의나 병원 측의 추가 모집 요청은 아직 없다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>충남대 의대생 전원 복귀...지방 국립대로 첫 사례</title>
+      <link>https://www.chosun.com/national/education/2025/03/30/RRCPPJ2ANFCZZDYJ3O2SMVXQ2Y/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/education/2025/03/30/RRCPPJ2ANFCZZDYJ3O2SMVXQ2Y/</guid>
+      <dc:creator>최인준 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 30 Mar 2025 08:46:22 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VMCC5CKUUNM4BD73HHXXU5QE5U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대전 중구 충남대학교 의과대학 건물/연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;충남대 의대생이 전원 학교에 복귀한다. 지방 국립대 중 집단 휴학을 끝내고 전원 복귀한 사례는 이번이 처음이다. &lt;br&gt;&lt;br&gt;30일 대학가에 따르면 충남대는 등록 마감 시한이었던 지난 28일 기준 의대생 전원이 복귀를 마친 것으로 나타났다. 의대 학생회가 전원 복귀를 결정하면서 지방 국립대에서는 가장 먼저 모든 학부생이 학교로 돌아가기로 한 것이다. 충남대 의대생 전원 복귀를 계기로 아직 미등록 휴학생 비율이 높은 대학에서도 복학이 더 늘어날 것으로 보인다.&lt;br&gt;&lt;br&gt;교육부는 31일을 ‘의대생 복귀 마감일’로 정하고 각 대학의 의대생 복귀를 촉구하고 있다. 서울대 등 의대생 등록 절차를 마친 대학들은 31일부터 수업을 재개할 예정이다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>청주서 중앙선 넘은 승용차, 경차와 충돌…3명 사망·6명 부상</title>
       <link>https://www.chosun.com/national/regional/2025/03/30/AQQHIYCBP5CIJMWTVLHX4HOKKQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/03/30/AQQHIYCBP5CIJMWTVLHX4HOKKQ/</guid>
@@ -982,24 +1000,6 @@
       <description/>
       <pubDate>Fri, 28 Mar 2025 07:15:41 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/J5II4NEJTJB2HJR3CKJJFDPB3I.png"&gt;&lt;figcaption&gt;&lt;small&gt;동물구조단체 위액트 활동가와 봉사자 등이 산불 피해견들을 위한 사료를 트럭에서 내리고 있는 모습. /인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한 동물구조단체가 경북 산불 피해 지역 중 한 곳인 영덕에서 피해견을 위한 사료를 도난당했다며 반환을 호소했다. &lt;br&gt;&lt;br&gt;동물구조단체 위액트는 28일 인스타그램을 통해 “산불 피해견들 사료 2t이 사라졌다”며 “어제 늦은 밤부터 자정까지 봉사자님들과 사료 2t을 영덕 군민운동장 한 켠에 쌓아 두었는데, 오늘 오전 산더미처럼 쌓아둔 사료가 보이지 않았다”고 밝혔다. &lt;br&gt;&lt;br&gt;방범카메라 확인 결과 청년 5~6명이 사료를 전부 실어갔다고 단체는 밝혔다. 단체는 “영덕 군민운동장에 사료를 모아놓고 이를 거점으로 (산불 생존 피해견) 수색을 진행하고 있다”며 “그런데 수색을 다녀온 사이, 사료가 1포도 남김없이 사라져 봉사자들과 활동가들은 난감한 상황”이라고 했다. 그러면서 “사료가 필요한 군민들께 나누고자 했던 것 역시 어렵게 됐다”고 했다. &lt;br&gt;&lt;br&gt;단체는 사료를 가져간 이들을 향해 반환을 요구하기도 했다. 단체는 “오후 5시까지 되돌려놓지 않을 시 법적 조치를 취하겠다”며 “반환이 어려운 경우, 사료 위치 정보라도 보내달라”고도 했다. 단체가 첨부한 영상과 사진 등에는 밤새 쌓아둔 사료가 실제로 다 사라지고 없는 모습이 담겼다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/F3W5IFXOEBAKJJYURFVUDVBRUE.png"&gt;&lt;figcaption&gt;&lt;small&gt;동물단체가 도난당한 사료 반환을 요청하는 공지를 올렸다. /인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;단체는 “차에 구비해 놓은 사료가 소량 남아있어 마을 개들을 위한 밥, 물 급여는 가능하지만 금방 부족해질 것으로 예상된다”며 “사료를 기다렸을 영덕 군민들께 죄송하단 말씀 전한다”고 했다. &lt;br&gt;&lt;br&gt;앞서 영덕에서는 지난 25일과 26일 산불 확산으로 주민이 긴급하게 대피하면서 집에 홀로 남은 개가 다수 확인됐다. 동물의 경우 정부가 피해 규모를 파악하지는 않기 때문에 구체적 통계는 없지만, 단체별 집계를 취합하면 그 수가 상당할 것이라는 분석이 나온다. 이번 산불로 산림 4만8150㏊ 규모가 피해 영향에 놓인 것으로 파악됐다. &lt;br&gt;&lt;br&gt;지난 23일부터 산청, 영덕, 의성 등지에서 구조 활동을 이어 온 위액트는 “산불의 규모가 워낙 커서 얼마나 많은 생명들이 뜨거운 불 속에 갇혀 죽어가고 있는지 가늠조차 되지 않는다”며 “모든 동물을 구조할 수는 없지만, 앞으로 이곳에서 계속 살아가야 할 동물들을 위해 우리가 할 수 있는 최선을 다할 예정”이라고 했다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>이화영 제기 ‘대북송금 재판부 기피신청’, 대법원서 최종 기각</title>
-      <link>https://www.chosun.com/national/court_law/2025/03/28/DVGXYNC5ENAPTG6K6ATFVZVP5U/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/03/28/DVGXYNC5ENAPTG6K6ATFVZVP5U/</guid>
-      <dc:creator>수원=김수언 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 28 Mar 2025 06:12:52 +0000</pubDate>
-      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YZG62I6KJBFTNGNBU63TUSNDSA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이화영 전 경기도 평화부지사가 지난해 10월 25일 오후 서울 여의도 국회 법제사법위원회에서 열린 법무부·법제처·감사원·고위공직자범죄수사처·헌법재판소·대법원 종합 국정감사에 출석해 김성태 전 쌍방울 회장 관련 질의에 답변하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;쌍방울 그룹의 불법 대북송금과 관련해 이재명 더불어민주당 대표와 함께 공범으로 기소된 이화영 전 경기도 평화부지사가 낸 ‘수원지법 형사 11부 법관 기피신청’이 28일 대법원에서 최종 기각됐다. 지난해 11월 “재판부를 바꿔달라”며 시작된 이 전 부지사 측의 기피신청 사건이 4개월여 만에 마무리된 것이다.&lt;br&gt;&lt;br&gt;법조계에 따르면 대법원 2부는 이날 이 전 부지사 측의 ‘기피 기각결정에 대한 재항고’를 기각했다. 기피신청 1·2심을 심리한 수원지법, 수원고법의 판단대로 ‘재판부가 불공평한 재판을 할 염려가 있다고 볼 만한 객관적인 사정이 인정된다고 볼 수 없다’는 것이다.&lt;br&gt;&lt;br&gt;이 전 부지사 측은 지난해 11월 8일 자신과 이 대표의 대북송금 관련 특정범죄 가중처벌 등에 관한 법률상 제3자 뇌물, 외국환거래법 위반, 남북교류협력법 위반 혐의 사건을 맡은 수원지법 형사11부 재판부 법관 3명에 대한 기피신청을 냈다. 기피신청은 재판 중인 법관들을 바꿔달라는 것이다. 형사소송법상 기피신청이 접수되면 대법원의 최종 판단이 나올 때까지 재판은 멈춘다.&lt;br&gt;&lt;br&gt;이 전 부지사 측 변호인은 “해당 재판부가 이미 이 전 부지사에 유죄를 선고해 공정한 재판을 받을 권리를 침해했다”고 주장했다. 수원지법 형사11부가 심리했던 이 전 부지사의 대북송금 1심 재판이, 현재 진행 중인 이 대표와 자신의 제3자 뇌물 사건과 동일한 사실과 쟁점을 공유하고 있다는 것이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Z2VVRJWTVGWQCFDYTENURA4N44.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기도지사 재임 당시 이재명 더불어민주당 대표와 이화영 전 경기도 평화부지사가 기념촬영을 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;당시 형사11부 재판장이었던 신진우 부장판사는 2022년 10월부터 이 전 부지사의 쌍방울 억대 뇌물 수수·대북송금 혐의 1심 사건을 심리했고, 지난해 6월 도지사 방북비용 명목 등 800만 달러가 북한에 넘어간 사실 등을 모두 인정하며 이 전 부지사에 징역 9년 6월을 선고했다. 다만, 기피신청이 접수된 이후인 지난달 신 부장판사와 배석판사 등 법관 3명은 법원 정기인사로 모두 자리를 옮겼다.&lt;br&gt;&lt;br&gt;이 대표 역시 지난해 12월 13일 같은 재판부를 상대로 법관 기피신청을 제기했는데, 법원은 지난달 이를 각하했다. 인사 이동으로 법관들이 모두 바뀌어서 기피 사유를 판단할 필요가 없다는 것이다.&lt;br&gt;&lt;br&gt;이 대표와 이 전 부지사 측이 낸 기피신청에 대한 법원 판단이 마무리되면서 곧 이들에 대한 재판 절차가 재개될 것으로 보인다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“비 좀 내려 주이소”...산청 이웃한 함양서 기우제 </title>
-      <link>https://www.chosun.com/national/2025/03/28/GGRSEYQP6JGYTKR2FTECGZKWXE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2025/03/28/GGRSEYQP6JGYTKR2FTECGZKWXE/</guid>
-      <dc:creator>산청=김준호 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 28 Mar 2025 05:55:48 +0000</pubDate>
-      <content:encoded>“비 좀 내려주이소. 우리 마을은 물론 산청에도 사이좋게 나눠 내려 주이소.”&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KFHLQTIFUNDLLIM6KC5VSMQKGA.jpeg"&gt;&lt;figcaption&gt;&lt;small&gt;28일 오전 11시 경남 함양군 마천면 강청리 백무동 천왕할매공원에서 주민들이 ‘한신계곡 기우제’를 열었다. 산청 산불 등 재난 극복을 위해 매년 4월10일~20일 사이 열던 기우제를 앞당겼다. /함양군&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;경남 산청에서 발생한 산불이 8일째 꺼지질 않자 이웃한 함양군 주민들이 ‘재난 극복’을 위한 기우제를 지냈다.&lt;br&gt;&lt;br&gt;28일 함양군에 따르면 이날 오전 11시쯤 마천면 강청리 백무동 천왕할매공원에서 ‘한신계곡 기우제’를 열었다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HIWQFPCWE5CHJLB6C52S7ABTNU.jpeg"&gt;&lt;figcaption&gt;&lt;small&gt;28일 오전 11시 경남 함양군 마천면 강청리 백무동 천왕할매공원에서 주민들이 ‘한신계곡 기우제’를 열었다. 산청 산불 등 재난 극복을 위해 매년 4월10일~20일 사이 열던 기우제를 앞당겼다. /함양군&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한신계곡은 2010년 국가지정문화재 명승 제72호로 지정된 자연유산이다. 이곳에서는 예전부터 큰일이 있을 때마다 천왕할매신상에서 소원을 비는 전통 의식이 있었다고 한다. 최근에는 매년 4월10일~20일 사이에 기우제를 열었다. 보통 한해 주민의 평안을 기원하고, 가뭄을 끝낼 비를 내려달라고 기원한다. &lt;br&gt;&lt;br&gt;하지만 이번에는 이웃한 산청 지역의 산불 소식에 날짜를 앞당겼다. &lt;br&gt;&lt;br&gt;도촌백무동마을 박혜숙(68) 이장은 “술을 올리고, 삼배를 하면서 ‘비 좀 내려달라. 우리 마을에도, 이웃한 산청에도 내려달라’고 빌었다”며 “이번 기우제로 모두의 마음을 모아 자연의 조화와 마을의 평안을 찾는 계기가 되길 바란다”고 말했다.&lt;br&gt;&lt;br&gt;한편, 지난 21일 오후 발생한 산청 산불은 8일째 여전히 꺼지질 않고 있다. 건조한 날씨와 바람을 타고 지난 26일 지리산국립공원 경계를 넘어섰다. 주봉인 천왕봉(1915m)에 4.5km까지 접근했다. 지난 27일 비소식이 예보됐지만, 전날 밤과 이날 새벽까지 0.4mm 내리는 데 그쳤다. 산림당국은 지리산에 번지는 불길을 막기 위해 주한미군 헬기 등 헬기 43대를 동원해 산불 확산에 주력하고 있다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>“팔 한 짝 내놓을 각오도 없이”... 박단, 의대생 복귀 공개 반대</title>
