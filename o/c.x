@@ -13,6 +13,51 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>[단독] 칼 소지 70대 남성, 국회 의원회관 들어가다 검색대에 적발</title>
+      <link>https://www.chosun.com/national/national_general/2025/03/31/TVFXWFIQQ5BZRL732RXHWA6WBU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/03/31/TVFXWFIQQ5BZRL732RXHWA6WBU/</guid>
+      <dc:creator>안태민 기자, 구동완 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 31 Mar 2025 11:28:39 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CJ5DKSL2M5ROSPVBSCETKPLFLA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;국회의사당 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;70대 남성이 국회 의원회관에 흉기를 가지고 들어가려다 적발됐다.&lt;br&gt;&lt;br&gt;31일 서울 영등포경찰서 등에 따르면 70대 남성 A씨는 이날 오후 4시 25분쯤 영등포구 국회 의원회관 후문 안내실 검색대를 통과하던 중 캠핑용 칼을 소지하고 있던 것이 적발돼 퇴거 조치됐다.&lt;br&gt;&lt;br&gt;A씨는 현장에서 방호과와 국회 경비대에 의해 퇴거 조치된 것으로 전해졌다. 경찰 관계자는 “A씨가 소지하고 있던 칼이 녹슬어 펴지지 않는 상태라 위험성이 없어, 검색대 직원이 귀가 조처했다”고 밝혔다.&lt;br&gt;&lt;br&gt;최근 정치인들을 대상으로 한 테러 행위가 잇따라 발생하고 있다. 2022년 송영길 당시 더불어민주당 대표는 대선 지원 유세 도중 둔기로 머리를 맞는 사고를 당했다. 이듬해에는 40대 남성이 한동훈 당시 법무부 장관의 자택 현관문 앞에 흉기를 놓아두고 도주했다.&lt;br&gt;&lt;br&gt;지난해 1월에는 이재명 더불어민주당 대표가 습격당한 데 이어 배현진 국민의힘 의원이 중학생에게 돌덩이로 머리를 여러 차례 맞는 사건이 발생하기도 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[단독] 의대 40곳 중 36곳 ‘의대생 전원 등록’ 마쳤다</title>
+      <link>https://www.chosun.com/national/education/2025/03/31/MX3GKQL76VHDZBJNCD65YMDTUY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/education/2025/03/31/MX3GKQL76VHDZBJNCD65YMDTUY/</guid>
+      <dc:creator>표태준 기자, 오주비 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 31 Mar 2025 13:26:01 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VFOEQXLRHI5YUX3CZGIBDE7ZOI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 시내 한 의과대학의 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전국 40개 의과대학 가운데 36개 의대에서 학생들이 전원 1학기 등록을 마친 것으로 확인됐다. 정부의 의대 증원 정책에 반발해 작년 2월부터 1년 넘게 ‘미등록 휴학’에 나섰던 의대생들이 올해 제적을 피하고자 대부분 등록을 마친 것이다.&lt;br&gt;&lt;br&gt;31일 본지 취재를 종합하면, 전국 40개 의대 중 36개 의대의 학생들 중 극소수를 제외하고 사실상 전원이 이날 등록을 마쳤다. 지난주 서울대·연세대·고려대 의대 학생들이 전원 등록하기로 결정한 데 이어 수일 만에 사실상 거의 모든 의대생이 등록하기로 결정한 것이다. &lt;br&gt;&lt;br&gt;이날 등록 마감인 가톨릭관동대와 고신대도 의대생들이 전원 등록하기로 했다. 다만 인하대와 한림대 이날 등록 마감이지만, 학생 등록 현황을 공개하지 않았다. 학생들 간에 등록에 대한 의견 차이가 있어 전원 등록이 이뤄졌는지는 아직 불투명한 상황인 것으로 알려졌다.&lt;br&gt;&lt;br&gt;4월 1일 추가 등록을 받는 경상국립대와 동국대 의대의 경우 학생들 사이에서 “일단 전원 등록하자”는 의견이 모여진 것으로 알려져, 전원 복귀할 것으로 보인다.&lt;br&gt;&lt;br&gt;정부·대학은 의대생 복귀를 전제로 내년도 의대 모집 인원을 증원 전(3058명)으로 돌리기로 결정했다. 사실상 거의 모든 의대생이 1학기 등록을 마친 만큼 학생들이 수업만 들으면 내년 의대 증원은 철회된다.&lt;br&gt;&lt;br&gt;다만 학생들 사이에서 제적을 피하기 위해 등록만 하고 수업은 거부하자는 기조가 있어 아직 마지막 고비는 남은 상황이다. 이날 전국 의대에서는 일부 학생이 수업을 듣기 위해 학교 현장에 돌아왔지만, 아직도 많은 학생이 실제 수업을 들을지는 고민하는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;이에 울산대와 고려대, 경희대 등은 당분간 온라인 수업을 진행하기로 했다. 복학생들이 학교에 수업 들으러 왔다가 의료계 커뮤니티에 신상이 공개돼 괴롭힘 당하는 일을 막기 위한 조치다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>부산 교육감 사전투표율 5.87% 역대 최저... 커지는 직선제 폐지론</title>
+      <link>https://www.chosun.com/national/education/2025/03/31/PTZMLZSJTBHXNNY4YHG7DQHZUQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/education/2025/03/31/PTZMLZSJTBHXNNY4YHG7DQHZUQ/</guid>
+      <dc:creator>최인준 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 31 Mar 2025 11:46:08 +0000</pubDate>
+      <content:encoded>오는 2일 실시되는 부산시 교육감 재선거의 사전 투표율이 역대 최저치를 기록했다. 최종 투표율도 저조할 것으로 관측되면서 ‘교육감 직선제 폐지’ 목소리가 다시 커질 전망이다.&lt;br&gt;&lt;br&gt;지난달 28~29일 이틀간 실시된 부산시 교육감 재선거 사전 투표율이 5.87%로 나타났다. 이는 지난 2014년 사전 투표제 도입 이후 치러진 전국 광역 단위 선거 중 가장 낮은 수치다. 지난해 서울시 교육감 보궐 선거 사전 투표율이 8.28%로 역대 최저였는데, 이번 선거가 기록을 갈아 치운 것이다. 교육감 단독 선거로 진행된 데다, 탄핵 정국과 산불 등에 가려져 어느 때보다 유권자 관심이 낮았던 게 주 요인으로 분석된다. &lt;br&gt;&lt;br&gt;이에 따라 부산시 교육감 재선거 최종 투표율도 20%를 넘기 어려울 것이라는 전망이 나온다. 지난해 서울시 교육감 보궐선거 투표율은 23.5%, 2023년 울산시 교육감 보궐선거 투표율은 26.5%였다. &lt;br&gt;&lt;br&gt;교육감 선거 투표율이 지나치게 낮게 나오면서 직선제의 한계를 지적하는 목소리가 높아지고 있다. 교육감 직선제는 지난 2006년 비리와 담합 등으로 얼룩진 간선제 방식을 혁신해 주민이 참여하는 교육 자치를 달성하자는 취지로 도입됐다. 하지만 학령기 자녀가 없는 유권자들의 관심이 낮은 데다 교육감 선거 과정이 정책보다 보수·진보 진영 대결의 장으로 변질되는 등 부작용이 드러나고 있다. 윤석열 정부는 ‘교육감 직선제 개선’을 공약으로 내걸었다. 국회에서도 직선제 폐지 법안이 발의됐지만, 논의가 제대로 이뤄지지 않고 있다. &lt;br&gt;&lt;br&gt;직선제로 인한 사회적 비용은 갈수록 늘고 있다. 교육감 선거를 치를 때마다 막대한 혈세가 들어간다. 지난해 10월 서울시 교육감 선거 관리 비용으로 서울시 교육청이 부담한 비용은 480억원가량으로 추산되고, 후보 출마 보전 비용도 100억원가량이 들어간 것으로 알려졌다. &lt;br&gt;&lt;br&gt;직선제 도입 이후 선거 경쟁이 과열되면서 교육감 선거 비용도 늘고 있다. 전국 17개 시도교육감 선거 후보들은 1인당 평균 선거 비용을 10억원 정도씩 썼다. 지난 2022년 경기도 교육감 선거에서 임태희 현 교육감은 40억원이 넘는 선거 비용을 지출했다. 지자체장과 달리 교육감 후보는 당적을 가질 수 없어서 당 지원 없이 후보 개인이 모든 선거 비용을 조달해야 한다. 막대한 선거 비용을 마련하는 과정에서 뒷돈을 받거나 이권이 개입하기도 한다. 직선제 시행 이후 선거 기간 뇌물 수수, 정치자금법 위반으로 11명의 교육감이 유죄 판결을 받았고, 이 중 6명이 실형을 살았다. &lt;br&gt;&lt;br&gt;한 교육계 관계자는 “부산 교육감은 연 5조원이 넘는 예산과 막대한 권한을 손에 쥔 자리인데도 무관심 속에서 선거가 진행되는 것은 문제가 있다”며 “직선제 유지에 대한 진지한 고민이 필요한 시점”이라고 말했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/57JBT3V6FJLUZGOQOQAAYWNQRU.jpg?width=4440&amp;height=3138&amp;auth=fa8a94d5832f605a5dbf7e2f2799244fecb28e777c6762992b864390bcf3dc47&amp;smart=true" type="image/jpeg" height="3138" width="4440">
+        <media:description type="plain">&lt;YONHAP PHOTO-5395&gt; 한 표 행사하는 유권자들 
+    (부산=연합뉴스) 강선배 기자 = 부산시교육감 재선거 사전투표 첫날인 28일 부산 남구청 대강당에 마련된 대연 제6동 사전투표소에서 시민들이 소중한 한 표를 행사하고 있다. 
+    이번 사전투표는 28·29일 이틀간 오전 6시부터 오후 6시까지 부산지역 206개 사전투표소에서 실시된다.
+ 2025.3.28 
+    sbkang@yna.co.kr/2025-03-28 11:22:35/
+&lt;저작권자 ⓒ 1980-2025 ㈜연합뉴스. 무단 전재 재배포 금지, AI 학습 및 활용 금지&gt;</media:description>
+        <media:credit role="author" scheme="urn:ebu">강선배</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>계엄 당일 ‘국회 출입통제’ 증언...“경찰청장 지시”</title>
+      <link>https://www.chosun.com/national/court_law/2025/03/31/4XRK7REEZ5HEPBUIEOJJD22S5I/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/03/31/4XRK7REEZ5HEPBUIEOJJD22S5I/</guid>
+      <dc:creator>김은경 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 31 Mar 2025 10:30:53 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YVFHEAWYGO53LWGCGFIW2BWXUE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;'12·3 비상계엄' 사태 당시 내란에 가담한 혐의로 기소된 조지호 경찰청장이 20일 오전 서울 서초동 서울중앙지방법원에서 열린 첫 공판에 출석하고 있다. 조 청장과 김봉식 전 서울경찰청장은 윤석열 대통령의 지시를 받고 계엄 당시 경찰병력 약 2000명을 동원해 국회와 중앙선거관리위원회 시설들을 봉쇄한 혐의를 받는다. 2025.3.20/뉴스1 ⓒ News1 박정호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;12·3 비상계엄 당시 포고령 발동 이후 2차 국회 봉쇄가 조지호 경찰청장과 김봉식 전 서울경찰청장의 지시에 따라 이뤄졌다는 경찰 간부들의 법정 증언이 나왔다. 다만 이들은 “실제 투입된 경력이 국회를 봉쇄할 수 있는 수준은 아니었다”고 진술했다.&lt;br&gt;&lt;br&gt;서울중앙지법 형사25부(재판장 지귀연)는 31일 내란중요임무종사 혐의로 기소된 조지호 경찰청장과 김봉식 전 서울경찰청장, 윤승영 전 경찰청 국가수사본부 수사기획조정관과 목현태 전 국회경비대장 등 4명의 대한 재판을 진행했다.&lt;br&gt;&lt;br&gt;이날 주진우 당시 서울경찰청 경비부장과 오부명 경북경찰청장(전 서울청 공공안전차장) 등이 증인으로 출석해 비상계엄 ‘국회 봉쇄’ 당시 상황을 진술했다. ​지난해 12월 3일 윤석열 대통령이 비상계엄을 선포하자 국회경비대는 오후 10시 46분쯤부터 국회 출입을 20분정도 통제했다가 다시 열어준 뒤, 오후 11시 37분 국회의원을 포함한 전면 통제에 나섰다.&lt;br&gt;&lt;br&gt;주 전 경비부장은 국회 전면 통제 지시가 재차 내려오자 현장에서는 혼란이 있었다고 설명했다. 포고령 1호의 ‘정치활동을 금지한다’는 조항이 국회의원 출입 통제와 상충되는지 각자 의견으로 논란이 있었다는 것이다. 그는 “최현석 당시 서울청 생활안전차장이 ‘긴급 시 포고령은 법률적 효과가 있다’고 말했다”며 “김 전 청장이 그 말을 듣고는 결론을 내리며 ‘이거 조지호 경찰청장 지시다’라고 손사래를 치고, 포고령에 따라야 한다고 말했다”고 했다.&lt;br&gt;&lt;br&gt;‘조 청장이 포고령에 근거해서 지시한 것이냐’고 묻자 주 전 경비부장은 “그 부분은 모른다”면서 “김 전 청장이 현장에서 ‘청장님 지시’라고 말해 조 청장 지시로 인식했다”고 답했다.&lt;br&gt;&lt;br&gt;다만 주 전 경비부장은 변호인 측 반대신문에서 국회 봉쇄 지시가 내려올 당시 계엄에 대한 언급은 없었다고 진술했다. 또, 경력 배치 때 출입 차단 목적이 아닌 우발 상황과 충돌을 방지하고 안전 관리를 위한 것이었는지 묻자 “그것은 맞는다”고 했다.&lt;br&gt;&lt;br&gt;주 전 경기부장은 실제 국회 외곽에 투입된 300여명의 경력으로 국회 봉쇄가 가능한가에 대해 “불가능하다”고 답했다. 어느 정도 인원이어야 봉쇄할 수 있는지 묻자 주 전 경비부장은 “국회 둘레가 2.5km이고 산술적으로 따지면 서울 전 부대를 동원해도 불가능하다”며 “전국 경력을 다 동원해도 경찰 부대로 통제한다는 건 장담은 못 한다”고 말했다. &lt;br&gt;&lt;br&gt;오부명 청장은 이날 “임정주 경찰청 경비국장을 통해 ‘포고령이 발령됐으니 다시 국회를 전면 차단하라. 청장님 지시’라는 얘길 듣고 이를 서울청장에게 전달했다”고 증언했다. 그는 2차 봉쇄 이후 전화가 왔을 때 ‘포고령이 있더라도 의원 출입을 막는 건 다시 한번 생각해보시고 건의해달라’고 했지만 받아들여지지 않았다고도 했다.&lt;br&gt;&lt;br&gt;조 청장과 김 전 청장은 비상계엄 당시 경찰 부대를 보내 국회를 봉쇄하고 ‘정치인 체포조’ 운영에 가담한 혐의를 받는다. 앞서 지난 20일 열린 첫 재판에서 조 청장과 김 전 청장은 국헌 문란의 의도가 없었고 “평상시와 마찬가지로 치안 임무를 수행한 것에 불과하다”며 혐의를 부인했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>대륙아주·서울변회도 산불 기부...법조계도 지원 나서</title>
       <link>https://www.chosun.com/national/court_law/2025/03/31/5AFRWM2O7VEUHAQ4RALLFJCRJI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/03/31/5AFRWM2O7VEUHAQ4RALLFJCRJI/</guid>
@@ -625,28 +670,6 @@
       <content:encoded>29일 서울 도심 곳곳에서 윤석열 대통령 탄핵 찬성·반대 집회가 열린다. 주말마다 대규모 집회를 벌이던 찬탄·반탄 단체들은 “이번 집회에 총력을 다하겠다”고 예고했다. 이날 서울 도심에서만 51만명이 집회 인원으로 신고됐다. &lt;br&gt;&lt;br&gt;탄핵 반대 측은 총 31만명이 집회에 참가한다고 신고했다. 전광훈 사랑제일교회 목사가 주도하는 대한민국바로세우기국민운동본부는 이날 오후 1시부터 8시까지 서울 광화문 세종대로(대한문~동화면세점)에서 집회를 한다. 집회 인원으로는 20만명을 신고했다. 손현보 부산세계로교회 목사가 주도하는 개신교계 단체 세이브코리아도 오후 1~5시 여의도 의사당대로에서 집회를 열 예정이다. 경찰에 신고한 인원은 10만명이다. 윤 대통령의 변호인 석동현 변호사가 주도하는 대통령 국민변호인단은 오전 7시 헌재 일대를 행진한 후 정문 앞에서 릴레이 기자회견을 한다. 우리공화당은 오후 1시부터 3시까지 숭례문에서 종로3가까지 행진한 뒤 저녁까지 집회를 이어간다.&lt;br&gt;&lt;br&gt;탄핵 찬성 집회는 주로 경복궁 일대에서 열린다. ‘윤석열 즉각 퇴진·사회 대개혁 비상 행동’은 오후 5시부터 8시 30분까지 경복궁 앞 동십자각에서 10만명 규모 집회를 연다. 촛불승리전환행동도 오후 3시 안국역 1번 출구 앞에서 10만명 규모 집회를 한다고 신고했다. 경찰은 교통경찰 220여 명과 기동대 2000여 명을 투입해 집회 인파 관리에 나설 예정이다.&lt;br&gt;&lt;br&gt;한편 경찰은 윤 대통령 탄핵 심판 선고 당일 헌법재판소 인근에 탄핵 찬·반 집회 구역 사이 200~300m 구간을 기동대 버스 차벽과 펜스 등으로 분리해 ‘완충 구역’을 설정할 예정이라고 이날 밝혔다. 선고 결과에 따라 양측의 물리적 충돌이 일어날 상황을 대비하겠다는 취지다. 지난 14일 이호영 경찰청장 직무대행은 “선고 당일 분신이나 물리적 충돌, 폭력 사태 등 모든 상황을 염두에 두고 대비하고 있다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>연세대 의대 ‘미등록 제적’ 1명뿐... 학장 “복학 후 수업 안 들으면 유급”</title>
-      <link>https://www.chosun.com/national/education/2025/03/28/BB4YJE2JJBABDPX56GC27YQ5CM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2025/03/28/BB4YJE2JJBABDPX56GC27YQ5CM/</guid>
-      <dc:creator>오주비 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 28 Mar 2025 10:54:18 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/REOY7FQDNBMDBIOAV4SBP37GU4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 24일 서울 서대문구 연세대학교 의과대학 모습. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;연세대 의대생 중 올해 1학기 등록을 하지 않은 학생은 1명뿐인 것으로 28일 확인됐다. &lt;br&gt;&lt;br&gt;이날 최재영 연세대 의대 학장은 의대 교수들에게 보내는 글에서 “많은 교수님의 우려와는 달리 대부분 학생이 수업 참여 의사를 확약하고, 복학 신청을 했다”고 밝혔다.&lt;br&gt;&lt;br&gt;이어 “2025년 3월 28일 17시 등록 마감 결과 1명을 제외하고는 모든 학생이 복학 신청과 등록을 했다”며 “오늘 우리 대학에선 1명의 제적 학생이 발생했다”고 설명했다. &lt;br&gt;&lt;br&gt;최 학장은 “앞으로 정상적인 수업이 진행되기 위해선 많은 고비가 있을 것 같다”며 가장 걱정되는 것은 복학 이후 다른 학생들이 수업 듣는 걸 방해하는 학생이라고 했다. &lt;br&gt;&lt;br&gt;연세대 의대는 앞으로 의대 학사 일정은 수업 받고자 하는 학생들을 보호하는 것을 최우선으로 할 계획이다. &lt;br&gt;&lt;br&gt;최 학장은 “수업에 참여하지 않는 학생들은 수업 일수 기준에 맞춰 유급 처리할 것이며, 수업 방해 행위가 발견될 경우 즉각 징계위원회를 개최한다”고 밝혔다.&lt;br&gt;&lt;br&gt;또 “용기 내어 학교로 돌아와 수업에 참여하는 많은 학생을 따뜻하게 격려해주시기 바란다”고도 했다. &lt;br&gt;&lt;br&gt;연세대는 지난 21일 의대 1학기 등록을 마감했다. 이후 지난 24일 학교는 연세대 의대생 881명 중 끝내 등록을 하지 않은 398명(45.2%)에게 ‘미등록 제적 예정 통보서’를 보냈다. 이들은 28일 제적 처리될 예정이었다. &lt;br&gt;&lt;br&gt;하지만 통보서를 받은 학생과 학부모들의 등록 문의가 쏟아지면서, 학교에서 28일까지 추가로 등록을 받아준 것이다. &lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/REOY7FQDNBMDBIOAV4SBP37GU4.jpg?width=5666&amp;height=3828&amp;auth=e2d9369804b4356b0123d9a98feba012cb220921c1bc4bd47c0af54cc7dec723&amp;smart=true" type="image/jpeg" height="3828" width="5666">
-        <media:description type="plain">지난 24일 서울 서대문구 연세대학교 의과대학 모습. /연합뉴스</media:description>
-        <media:credit role="author" scheme="urn:ebu">류영석</media:credit>
-      </media:content>
-    </item>
-    <item>
-      <title>“홈플러스 채권 판매 4일 뒤 회생 신청…이건 사기” 138억 물린 회사, MBK 고소</title>
-      <link>https://www.chosun.com/national/national_general/2025/03/31/5BHBEYZUQRBX5CZ4JTUCF3VQQA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/03/31/5BHBEYZUQRBX5CZ4JTUCF3VQQA/</guid>
-      <dc:creator>이가영 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 31 Mar 2025 00:13:51 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OBJBFWZUSL56CJ3LTY2DKY6IMM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;20일 서울의 한 홈플러스 매장 앞으로 시민이 걸어가고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국내 한 상장사가 홈플러스‧MBK파트너스 경영진이 신용 등급 강등을 미리 알고도 이를 숨기고 단기 채권을 발행했다며 김병주 MBK파트너스 회장 등을 고소했다. 이 회사가 매입한 홈플러스 관련 단기 채권 규모는 총 138억원에 이른다. &lt;br&gt;&lt;br&gt;31일 법조계에 따르면 국내 A상장사는 최근 김병주 MBK파트너스 회장과 김광일 부회장, 조주연 홈플러스 대표이사를 특정경제범죄가중처벌 등에 관한 법률 위반(사기) 등 혐의로 고소했다. &lt;br&gt;&lt;br&gt;고소장에 따르면, A사는 지난 1월 10일부터 2월 28일까지 홈플러스의 전자단기사채 및 ABSTB(카드 대금 기초 유동화 증권)를 총 138억원어치 사들였다. &lt;br&gt;&lt;br&gt;A사가 마지막으로 채권을 사들인 지난달 28일, 홈플러스는 신용 등급이 ‘A3’에서 ‘A3-’로 하락했다고 밝혔다. 주말과 임시공휴일 이후인 이달 4일 0시쯤 기업회생절차(법정관리)를 신청했고, 법원은 대표자 심문을 한 뒤 신청 11시간 만에 회생 절차 개시를 결정했다. &lt;br&gt;&lt;br&gt;A사가 홈플러스의 정상 결제를 믿고 채권을 사들인 지 불과 나흘 만에 벌어진 일이다. &lt;br&gt;&lt;br&gt;A사 측은 김 회장 등이 채권 부도를 이미 알고 있었다고 주장했다. A사는 고소장에서 “김병주 회장의 지시에 따라 경영진은 증권사 담당자들에게 홈플러스의 재무 상태가 양호하고, 향후 부도 내지 회생, 파산 신청 계획이 없다는 등의 취지로 설명했다”며 “그러나 사실은 홈플러스의 재무 상태가 악화되어 기업어음, 전자단기사채, ABSTB의 지급이 정지되거나 부도가 날 위험을 잘 알고 있었다”고 했다. 이어 “이른 시일 내에 홈플러스에 대한 회생 신청을 할 계획을 갖고 있었음에도 위와 같은 위험에 대해 증권사 및 구매 예정인 기업, 개인들에게 이를 고지하지 않았다”고 했다. &lt;br&gt;&lt;br&gt;이번 고소를 담당한 법무법인 더킴로펌 관계자는 “김 회장 등 MBK파트너스 경영진의 악행으로 인해 A사는 회사와 가계의 존망을 장담할 수 없을 정도로 피해를 입어 위태로운 상황에 처해 있다”며 “나아가 국민 경제 전체에 끼치는 피해는 너무도 막대하므로 수사기관의 엄정하고 신속한 수사가 절실하다”고 밝혔다. &lt;br&gt;&lt;br&gt;지난 3일 기준 홈플러스 단기채권 판매 잔액 규모는 5949억원에 이르며, 증권사 등을 통해 개인 투자자에게 팔린 규모는 2075억원으로 파악된다. &lt;br&gt;&lt;br&gt;금융감독원은 홈플러스가 언제부터 회생 절차 신청을 준비했는지, 언제 필요성이 있다고 판단했는지 등을 조사하고 있다. 홈플러스가 회생을 계획하고도 6000억원에 육박하는 단기 채권을 발행했다면 사기 발행‧판매 혐의가 적용될 수 있어서다. &lt;br&gt;&lt;br&gt;MBK파트너스는 홈플러스 기업회생절차 신청 준비를 시작한 시점은 2월 28일부터이며 공식적으로 회생신청을 결정한 이사회 결의는 3월 3일이라고 밝혔다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[단독] 울산대 이어 성균관대 의대생도 ‘전원 복학’ 결정</title>
       <link>https://www.chosun.com/national/education/2025/03/28/MEM46QGSGZATJEEHO7KDJRKHBM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/education/2025/03/28/MEM46QGSGZATJEEHO7KDJRKHBM/</guid>
@@ -963,24 +986,6 @@
       <media:content url="https://www.chosun.com/resizer/v2/WVRJPTQWZVGIZKGF6KBSAHASTU.jpg?width=3693&amp;height=2462&amp;auth=131636ae37b92b499bac4defd154113edcaa9e3f48f8845ad44d69b59e910df5&amp;smart=true" type="image/jpeg" height="2462" width="3693">
         <media:description type="plain">2025년 3월 27일 오전 영남에서 발생한 산불이 일주일째 계속되고 있는 가운데 경북 청송군을 관통하는 도로가 뿌연 연기로 가득한 모습이다. 중앙재난안전대책본부는 현재까지 산불로 인해 26명이 사망했다고 발표했다. /장련성 기자</media:description>
       </media:content>
-    </item>
-    <item>
-      <title>경찰, ‘성폭행 혐의 피소’ 장제원 전 의원 오늘 소환조사</title>
-      <link>https://www.chosun.com/national/national_general/2025/03/28/S4Q73LGTSRDTNJKOXLXWWN4L6U/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/03/28/S4Q73LGTSRDTNJKOXLXWWN4L6U/</guid>
-      <dc:creator>고유찬 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 28 Mar 2025 10:14:56 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VYXW6J7JSMN75XIWIVS5HI6XVQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;장제원 전 국민의힘 의원. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰이 성폭행 혐의로 피소된 장제원 전 국민의힘 의원을 소환해 조사했다. &lt;br&gt;&lt;br&gt;서울경찰청은 준강간치상 혐의로 입건된 장 전 의원을 28일 소환해 조사했다고 이날 밝혔다. 지난 1월 고소장이 접수된 뒤 첫 조사다. &lt;br&gt;&lt;br&gt;서울경찰청 여성안전과는 이날 “장 전 의원에 대한 출석 조사를 진행했으며, 관련 진술과 증거관계 등을 종합적으로 판단해 계속 수사 예정”이라고 언론 공지를 통해 밝혔다.&lt;br&gt;&lt;br&gt;경찰은 올해 1월 A씨의 고소장을 접수한 후 관련 수사를 진행해왔다.&lt;br&gt;&lt;br&gt;장 전 의원은 2015년 11월 부산 모 대학 부총장으로 재직하던 당시 자신의 비서였던 A씨를 성폭행했다는 의혹을 받고 있다. &lt;br&gt;&lt;br&gt;A씨는 장 전 의원 총선 출마를 앞두고 선거 포스터를 촬영한 뒤 뒤풀이 자리에서 술을 마셨고, 이후 장 전 의원이 성폭력을 저질렀다고 경찰에 진술한 것으로 알려졌다. &lt;br&gt;&lt;br&gt;장 전 의원은 해당 혐의를 부인하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>4월로 넘어간 ‘尹 선고’… 헌재, 오늘도 선고일 못 정해 </title>
-      <link>https://www.chosun.com/national/court_law/2025/03/28/OYLIZT6H2RFK7KVGUCPRI6YCKM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/03/28/OYLIZT6H2RFK7KVGUCPRI6YCKM/</guid>
-      <dc:creator>이슬비 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 28 Mar 2025 10:21:16 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AZXIRYLKVA5VPAYLX3DLDTOQTA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원의 구속취소 청구 인용으로 석방된 윤석열 대통령이 지난 8일 오후 경기 의왕시 서울구치소에서 풀려나 지지자들에게 인사하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;헌법재판소가 28일에도 윤석열 대통령 탄핵심판 선고일을 정하지 못하면서 선고는 4월로 넘어가게 됐다. 헌재는 통상 선고일 2~3일 전에 공지해 왔는데, 다음 주 월요일인 이달 31일 선고 일정을 알려도 실제 선고는 4월 2~3일쯤 이뤄지기 때문이다.&lt;br&gt;&lt;br&gt;헌법재판관들은 이날 오후 평의를 열었지만 1시간 만에 종료한 것으로 알려졌다. 헌재는 지난달 25일 변론을 종결한 후 거의 매일 평의를 열어 사건을 심리해왔다. 그러나 최근에는 1시간 만에 짧게 끝내거나, 일반 헌법소원 사건을 선고한 지난 27일에는 아예 평의를 열지 않았다고 한다. &lt;br&gt;&lt;br&gt;이에 법조계에서는 “평의가 길어지는 건 선고 시점이나 결과에 대한 재판관들 간 의견 조율이 안 됐다고 봐야 한다”며 “재판관들이 사이에 이견이 있는 게 분명하다”는 말이 나온다. 이날은 윤석열 대통령 탄핵 심판 사건이 접수된 지 104일째로, 노무현(63일)·박근혜(91일) 전 대통령 때보다 늦은 결정이 된다. 이날도 선고일을 알리지 않은 것은 재판관들이 의견을 밝히는 평결이 끝나지 않았거나, 결정문 완성이 안 됐다는 뜻이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/L52SIWSWSFBBLC4GNWEJINDN6Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이미선, 문형배 재판관/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;◇4월 18일 문형배·이미선 퇴임 前 선고하나&lt;/b&gt;&lt;br&gt;&lt;br&gt;선고일이 4월로 넘어가면서 문형배 헌재소장 권한대행과 이미선 재판관이 퇴임하는 오는 4월 18일 이전에 선고가 이뤄질 수 있을지 주목된다. 4월에는 ‘4·2 재보궐 선거’도 있다. &lt;br&gt;&lt;br&gt;이들이 퇴임하면 현재 8인에서 6인 체제가 된다. 두 재판관 퇴임 전에 결정문 작성이 끝났다면, 재판관 구성이 바뀌지 않은 한 퇴임한 뒤에 선고하는 것도 가능하다고 헌재는 해석하고 있다. &lt;br&gt;&lt;br&gt;다만 선고가 아무리 늦어져도 두 재판관이 퇴임하는 오는 4월 18일 이전에는 선고가 이뤄질 것이라는 관측이 지배적이다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
