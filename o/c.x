@@ -13,6 +13,34 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>“평생 살며 받아온 사랑을 동네에 돌려 주고 싶다”…1억원 익명 기부한 80대</title>
+      <link>https://www.chosun.com/national/regional/yeongnam/2025/04/01/UZRPTCHXT5AD7BXCVHCHDQTQKU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/yeongnam/2025/04/01/UZRPTCHXT5AD7BXCVHCHDQTQKU/</guid>
+      <dc:creator>박주영 기자</dc:creator>
+      <description>최근 부산 부산진구 범천2동 주민센터에 80대 어르신이 찾아왔다. 
+“평생 살아오며 많은 사랑을 받은 동네와 이웃을 위해 뭔가를 하고 싶다”며 현금다발 등을 건넸다. 5만원짜리 현금과 수표 등 1억원이었다. </description>
+      <pubDate>Tue, 01 Apr 2025 09:35:25 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3LXRQPBTLRCMRCVKP3FADXT3WU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산 부산진구 부전동 부산진구청 전경./부산진구&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최근 부산 부산진구 범천2동 주민센터에 80대 어르신이 찾아왔다. &lt;br&gt;&lt;br&gt;“평생 살아오며 많은 사랑을 받은 동네와 이웃을 위해 뭔가를 하고 싶다”며 현금다발 등을 건넸다. 5만원짜리 현금과 수표 등 1억원이었다. &lt;br&gt;&lt;br&gt;주민센터 측은 전혀 예상치 못한 거액 기부에 놀랐다. 주민센터 측은 “감사하다”는 인사를 하며 신원 사항 등을 물었다. 그러나 그는 “외부에 알려지지 않으면 좋겠다. 익명으로 해달라”고 신신당부했다.&lt;br&gt;&lt;br&gt;또 “지역 사회에 평생 받아온 사랑을 돌려주고 싶었고 어려운 이웃들에게 조금이나마 보탬이 됐으며 좋겠다”는 말을 남긴 채 총총히 주민센터를 떠났다. &lt;br&gt;&lt;br&gt;한정민 범천2동장은 “지금 같은 어수선하고 팍팍한 상황에 어르신 천사의 값진 나눔이 너무 고맙고 감동스럽게 느껴졌다”며 “그 소중한 뜻이 헛되지 않도록 동네 주민들을 위해 기부금을 쓸 것”이라고 말했다.&lt;br&gt;&lt;br&gt;범천2동은 1일 이 기부금을 출생아 기저귀 지원, 아동·청소년 운동화 지원, 청년 대상 프로필 사진 촬영 지원, 중장년 대상 밑반찬 지원, 취약계층 집수리 지원 등 동네 주민들 일상에 직접적으로 도움이 되는 일에 쓰기로 했다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>물바다 된 영종역 승강장... 누군가 소화전 버튼 눌렀다</title>
+      <link>https://www.chosun.com/national/incident/2025/04/01/VQB6OH23ZJHKHIMCNGQRRGYH4E/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/04/01/VQB6OH23ZJHKHIMCNGQRRGYH4E/</guid>
+      <dc:creator>인천=이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 01 Apr 2025 09:13:10 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/X2K4M2M4OIF5GXRB665YHUOLMI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;1일 인천 중구 운북동 공항철도 영종역 승강장에 쏟아지는 물./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;공항철도 영종역 승강장에 소화전 물이 쏟아져 이용객들이 불편을 겪었다. 공항철도를 이용한 승객 중 한명이 역내 소화전 작동 버튼을 임의로 누른 것으로 파악됐다. &lt;br&gt;&lt;br&gt;1일 공항철도(주)에 따르면 이날 오전 9시 30분쯤 인천시 중구 운북동 영종역 1층 승강장에 물이 들어찼다는 신고가 역무실에 접수됐다. &lt;br&gt;&lt;br&gt;이 사고로 공항철도 이용객들이 승강장에 고인 물을 피해 열차에 탑승하는 등 불편을 겪었다. 다행히 열차 지연 사고 등이 발생하진 않았다. &lt;br&gt;&lt;br&gt;공항철도 측은 역사 2층 대합실 소화전이 터지면서 1층 승강장 쪽으로 물이 쏟아져 내린 것으로 보고 있다. &lt;br&gt;&lt;br&gt;공항철도는 물이 고인 지역 주변을 통제하고, 소화전 설비와 전기 시설 점검 등 안전 조치를 진행했다. &lt;br&gt;&lt;br&gt;공항철도 관계자는 “방범카메라(CCTV) 확인 결과 30대로 추정되는 남성이 역내 설치돼 있는 소화전의 버튼을 임의로 누르는 장면을 확인했다”며 “이 남성은 역 밖으로 빠져나갔다”고 했다. 이어 “이번 일을 어떻게 처리할지 내부적으로 검토하고 있다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>20석에 수만명 몰렸다…尹 탄핵심판 선고  방청신청 폭주</title>
+      <link>https://www.chosun.com/national/court_law/2025/04/01/IYFCWBBCHJA2HG3OJOSACXRMUA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/04/01/IYFCWBBCHJA2HG3OJOSACXRMUA/</guid>
+      <dc:creator>김은경 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 01 Apr 2025 08:43:06 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NKZQDN5HHZHHVATPAYY4S6V4Y4.png"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령 탄핵심판 선고일 방청 신청/헌법재판소 홈페이지 캡처&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;1일 헌법재판소가 윤석열 대통령 탄핵심판 선고일에 약 20석의 일반인 방청석을 배정하겠다고 발표했다. 오후부터 시작된 방청 신청에는 수만명이 몰리며 접속 지연이 벌어졌다.&lt;br&gt;&lt;br&gt;헌재는 이날 오전 윤 대통령 탄핵 선고 일시를 4일 오전 11시로 발표하고, 오후 4시부터 홈페이지를 통해 일반인 방청 신청을 받기 시작했다. 신청이 열리자 순식간에 수만 명이 몰렸고 오후 5시 30분 기준 접속 대기자가 약 5만7000여명에 달했다.&lt;br&gt;&lt;br&gt;탄핵심판 선고가 진행되는 헌재 대심판정 방청석은 총 104석이다. 헌재는 이 가운데 약 20석을 온라인 추첨으로 일반인에게 배정하기로 했다. 방청 신청은 3일 오후 5시까지 받을 예정이다. &lt;br&gt;&lt;br&gt;전자 추첨을 거쳐 당첨된 인원에게는 문자메시지로 방청 절차를 안내할 예정이다. 청사 안전을 위해 선고 당일에는 현장 접수 없이 당첨된 방청객만 입장할 수 있다.&lt;br&gt;&lt;br&gt;헌재는 지난 2017년 박근혜 전 대통령 탄핵 선고 당시 24석의 일반인 방청을 배정했는데, 1만9096명이 신청해 경쟁률이 796대1에 달했다. 윤 대통령 탄핵 선고 방청 경쟁률은 이를 훌쩍 웃돌 것으로 예상된다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>울산대 의대생들, 복귀 하루만에 휴학계... 학교 “일괄 반려”</title>
       <link>https://www.chosun.com/national/regional/2025/04/01/CG6B3LM77VEANJYQUDLVDG7XZM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/04/01/CG6B3LM77VEANJYQUDLVDG7XZM/</guid>
@@ -901,24 +929,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7WY35SL6HVLRUUCFMXKGEE3OZ4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기 화성시 태행산 정상 데크에 폐오일이 뿌려져 있는 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;영남 지역에서 발생한 대형 산불로 역대 최악의 피해가 발생한 가운데 수도권의 산 정상 부근에 폐오일을 뿌린 60대 남성이 경찰에 자수했다.&lt;br&gt;&lt;br&gt;31일 경기 화성서부경찰서는 재물손괴 혐의로 60대 남성 A씨를 형사 입건했다고 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 21일 화성시 비봉면 태행산 정상 데크 바닥에 자동차 엔진에서 나온 폐오일을 뿌린 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;A씨의 범행은 지난 27일 한 시민의 신고로 알려졌다. A씨는 이 사건이 언론 보도를 통해 알려지자 지난 28일 경찰서를 찾아가 자수했다.&lt;br&gt;&lt;br&gt;자동차 정비 관련 업무에 종사하는 A씨는 경찰 조사에서 “‘백패킹족’ 때문에 휴식 공간이 없고, 쓰레기도 많이 나와 데크에 텐트를 치지 못하게 하려고 범행을 했다”고 진술한 것으로 알려졌다. &lt;br&gt;&lt;br&gt;경찰은 A씨를 상대로 정확한 사건 경위를 조사하고 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>중부지방 눈·비 조금… 기온 평년보다 3∼6도 낮아</title>
-      <link>https://www.chosun.com/national/welfare-medical/2025/03/29/QDWR3E4URVB4HFIDKMNPC5G6ZU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/03/29/QDWR3E4URVB4HFIDKMNPC5G6ZU/</guid>
-      <dc:creator>오유진 기자</dc:creator>
-      <description/>
-      <pubDate>Sat, 29 Mar 2025 00:57:41 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TNNBQBKMEX4M3PQZ3WUYIEHIAA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;눈 내리는 거리. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;토요일인 29일은 전국에 구름이 많다가 밤부터 맑아지겠다. 기온은 당분간 평년보다 낮겠다.&lt;br&gt;&lt;br&gt;오전부터 오후까지 수도권과 강원 내륙·산지, 충청권에는 비 또는 눈이 내리는 곳이 있겠다. 강원 동해안과 전라권, 경북 북부 내륙·남서 내륙·북동 산지, 경남 북서 내륙, 제주도는 오전부터 오후까지, 제주도는 아침에 빗방울이 떨어지거나 눈발이 날리겠다.&lt;br&gt;&lt;br&gt;예상 강수량은 경기 동부와 강원 내륙·산지 5㎜ 미만, 서울·인천·경기 서부와 서해 5도, 대전·세종·충남·충북, 울릉도·독도 1㎜ 안팎이다. 눈은 강원 산지에 1∼5㎝, 경기 북서부·동부와 강원 내륙에 1㎝ 안팎씩 오겠다.&lt;br&gt;&lt;br&gt;북서쪽에서 찬 공기가 남하하면서 기온은 평년보다 3∼6도가량 낮겠다. 아침엔 내륙을 중심으로 서리가 내리는 곳도 있겠다. 낮 최고 기온은 5∼14도로 예보됐다.&lt;br&gt;&lt;br&gt;건조특보가 발효된 강원 남부 내륙·산지와 충북, 광주·전라 동부, 경상권은 대기가 매우 건조하겠다. 또 전국에 순간풍속이 시속 55㎞(초속 15ｍ) 안팎인 강한 바람이 불겠으니 화재 예방에 각별히 유의해야 한다.&lt;br&gt;&lt;br&gt;바다 물결은 동해·서해 앞바다에서 0.5∼2.0m, 남해 앞바다에서 0.5∼1.5m로 일겠다. 안쪽 먼바다(해안선에서 약 200㎞ 내의 먼바다) 파고는 동해 0.5∼4.0m, 서해 1.0∼2.5m, 남해 0.5∼2.5m로 예측된다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[오늘의 날씨] 2025년 3월 29일</title>
-      <link>https://www.chosun.com/national/national_general/2025/03/29/I2R56RCWF5EFDG6BCP5HWMGEMA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/03/29/I2R56RCWF5EFDG6BCP5HWMGEMA/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Fri, 28 Mar 2025 20:07:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SCLKMQCIUBG33GSJAT645YONVI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>3년간 논문 70편 발표... 고려대 최연소 교수 된 27세 강지승 박사</title>
       <link>https://www.chosun.com/national/national_general/2025/03/31/BVSRPKA2VBEHVMNKF3NXYPM2UU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/03/31/BVSRPKA2VBEHVMNKF3NXYPM2UU/</guid>
@@ -962,19 +972,6 @@
       <description/>
       <pubDate>Mon, 31 Mar 2025 01:23:35 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UAOJSXLHYQCA22HC7DQFX5TLOQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울시 '남산 곤돌라' 조성안. /서울시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울시의 ‘남산 곤돌라’ 공사에 대한 법원의 집행정지 결정이 항고심에서도 유지됐다. 이에 따라 내년 봄부터 곤돌라를 운행하려던 서울시 계획도 차질을 빚게 됐다.&lt;br&gt;&lt;br&gt;31일 법조계에 따르면, 서울고법 행정3부(재판장 윤강열)는 28일 서울시 도시관리계획결정 처분 집행정지 결정에 대한 시의 항고를 기각했다.&lt;br&gt;&lt;br&gt;앞서 서울행정법원은 남산 케이블카를 운영하는 한국삭도공업과 환경단체 등이 “곤돌라 공사를 중단하라”며 서울시를 상대로 낸 도시관리계획 결정 처분 집행정지 신청을 작년 10월 인용했다. 남산 곤돌라 설치가 기존 케이블카 운영사인 한국삭도공업 등에게 회복하기 어려운 손해를 입힐 수 있고, 이를 예방하기 위한 긴급한 필요가 인정된다는 것이다.&lt;br&gt;&lt;br&gt;서울시가 이에 불복해 곧바로 항고했으나 항고심도 집행정지 결정을 유지했다.&lt;br&gt;&lt;br&gt;서울시가 추진하는 남산 곤돌라는 지하철 4호선 명동역 인근에 있는 남산예장공원과 남산 정상을 연결한다. 최대 10명이 탈 수 있는 캐빈 25대를 운행할 예정이었지만, 법원의 집행정지 및 유지 결정으로 공사가 지연·중단될 상황에 놓였다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[단독] 울산대 이어 성균관대 의대생도 ‘전원 복학’ 결정</title>
-      <link>https://www.chosun.com/national/education/2025/03/28/MEM46QGSGZATJEEHO7KDJRKHBM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2025/03/28/MEM46QGSGZATJEEHO7KDJRKHBM/</guid>
-      <dc:creator>오주비 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 28 Mar 2025 13:10:20 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/P34H6IHV5BAATE77FRQ253G2GI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 4일 텅 빈 성균관대 의대 강의실. /독자 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;성균관대 의대 학생회가 28일 전체 학생을 대상으로 자체 투표를 진행한 결과, 절반 이상이 복귀 의견을 낸 것으로 나타났다. 이에 따라 성균관대 의대 학생들은 28일 자정까지 전원 복학 신청을 하기로 결정했다.&lt;br&gt;&lt;br&gt;이날 대학 등에 따르면, 성균관대 의대 학생들은 이날 오전부터 ‘1학기 등록 여부’ 투표를 실시했다. 그 결과 ‘등록 찬성’ 의견이 53%, ‘등록 반대’는 47% 나오면서 자정까지 전원 복학 신청할 것으로 확인됐다. &lt;br&gt;&lt;br&gt;당초 성균관대 의대는 이날 오후 5시까지였던 복학 신청 마감을 이날 자정까지로 연장했다. 학생과 학부모들이 등록 문의를 많이 하면서, 학교 측에서 복학 신청을 자정까지 연장해 받기로 결정한 것이다. &lt;br&gt;&lt;br&gt;한편 지난 27일 서울대 의대 학생들이 전원 등록한 데 이어, 이날 울산대 의대 학생들도 내부 논의를 거쳐 전원 복귀하기로 결정했다. 연세대 의대는 28일 등록 마감 결과 미등록 제적 학생이 ‘1명’밖에 나오지 않았다. &lt;br&gt;&lt;br&gt;28일 등록을 마감하려 했던 가톨릭대 의대는 등록 마감을 30일까지로 연장했다. 가톨릭 의대 관계자는 “학생 상당수가 복학 신청을 했다”고 밝혔다. 교육계 관계자는 “이른바 ‘빅5 의대(서울대·연세대·성균관대·가톨릭대·울산대)’는 학생 상당수가 등록은 하자는 분위기”라고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/P34H6IHV5BAATE77FRQ253G2GI.jpg?width=4000&amp;height=2252&amp;auth=a5b24c014a63f040311bada33c4f51b6f84d51278105b7a45f4787e0e1c7f51b&amp;smart=true" type="image/jpeg" height="2252" width="4000">
-        <media:description type="plain">지난 4일 텅 빈 성균관대 의대 강의실. /독자 제공</media:description>
-        <media:credit role="author" scheme="urn:ebu">오주비 기자</media:credit>
-      </media:content>
     </item>
     <item>
       <title>점점 짧아지는 헌재 평의… “결론 조율 안되는 듯”</title>
