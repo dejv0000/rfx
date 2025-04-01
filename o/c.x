@@ -13,6 +13,57 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>산불 덮치자 수십명 업고 뛴 외국인 선원... 법무부, 장기 거주 자격 부여 검토</title>
+      <link>https://www.chosun.com/national/court_law/2025/04/01/3ULIGY2HOFGQNIMFTP53A2YJXI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/04/01/3ULIGY2HOFGQNIMFTP53A2YJXI/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 01 Apr 2025 10:56:13 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/I2GMZRWH35KLXAG7WTA7GR2HXE.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;인도네시아 국적의 수기안토(오른쪽)씨가 지난달 31일 산불 피해를 입은 경북 영덕군 축산면 경정 3리에서 당시 급박했던 순간 등을 설명하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난달 25일 ‘의성 산불’이 영덕군을 덮쳤을 당시 주민을 업고 대피를 도운 인도네시아 국적 선원에 대해, 법무부가 장기 거주 자격 부여를 검토하겠다고 1일 밝혔다.&lt;br&gt;&lt;br&gt;주민들의 대피를 도운 선원은 수기안토씨다. 산불이 영덕군까지 닥치자, 수기안토씨가 주민 여러 명을 업고 마을에서 300m 거리의 방파제까지 대피를 도왔다는 것이다. 수기안토씨가 대피시킨 주민들은 수십여 명이라고 한다.&lt;br&gt;&lt;br&gt;수기안토씨는 연합뉴스와의 인터뷰에서 “할매가 걸음을 빨리 못 걸으니까 일일이 집에 가서 업고 나왔다”고 대피 당시 상황을 설명했다. 8년 전 입국한 수기안토씨는 영덕군에서 선원으로 생활해와 경상도 사투리에도 능숙하다고 한다.&lt;br&gt;&lt;br&gt;언론을 통해 이러한 사연이 알려지자, 법무부가 수기안토씨에게 장기 거주 자격 부여 검토에 착수한 것이다. 출입국관리법시행령에 따르면 법무 장관이 우리나라에 특별한 기여를 했거나, 공익의 증진에 이바지했다고 인정하는 외국인의 경우 장기 거주 자격을 부여할 수 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/MZWY4YWDGKAHUJZIDUYY5QS4LU.jpg?width=5568&amp;height=3712&amp;auth=52b603a6a62aa8fdeb7efac61d3ff677db1d6896fd6784c03e74dc55877024f0&amp;smart=true" type="image/jpeg" height="3712" width="5568">
+        <media:description type="plain">인도네시아 국적의 수기안토(31)씨가 31일 산불이 휩쓸고 간 경북 영덕군 축산면 경정 3리에서 불에 탄 집 앞에서 당시 구조 상황 등을 설명하고 있다. 수기안토 씨는 25일 강풍을 타고 급속히 확산된 산불이 마을로 덮친 상황에서 주민 수 십 여명을 업고 부축해 마을 방파제로 구조했다. 2025.3.31/뉴스1 ⓒ News1 최창호 기자</media:description>
+        <media:credit role="author" scheme="urn:ebu">뉴스1 ⓒ News1 최창호 기자</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>‘인천~서울역 30분’ GTX-B, 5월 착공</title>
+      <link>https://www.chosun.com/national/transport-environment/2025/04/01/GQFCK7TY2JCVHAXKCYEASRYC5A/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/04/01/GQFCK7TY2JCVHAXKCYEASRYC5A/</guid>
+      <dc:creator>김아사 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 01 Apr 2025 12:00:37 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4MVNUSIPKZB5BF4NSUEWOLPUGY.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=양인성&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;자금 조달 문제로 1년 이상 착공이 지연돼온 수도권광역급행철도(GTX)-B가 5월 공사를 시작한다. 국토교통부는 1일 “GTX-B에 대한 민간 업체의 착공 보고서 제출이 지난 31일 완료됐다”고 밝혔다. 착공 보고서가 제출됐다는 건 업체가 공사 준비를 마쳤다고 국토부에 정식 보고한 것으로, 공사 절차가 시작됐다는 의미다.&lt;br&gt;&lt;br&gt;GTX-B는 인천 송도(인천대 입구)에서 신도림, 여의도, 서울역, 용산, 청량리 등을 거쳐 남양주 마석을 잇는 약 82.8㎞의 광역급행철도 노선이다. 인천대 입구~용산, 상봉~마석 구간은 민간 업체가 사업을 맡는 구간으로 4조2894억원이 투입된다. 용산~상봉은 세금으로 짓는 재정 구간으로 2조7774억원의 공사비가 책정됐다. 국토부는 2030년 개통을 목표로 사업을 추진하고 있지만, 공사 기간이 72개월로 예정돼 2031년쯤 개통이 이뤄질 전망이다. 완공되면 인천대 입구역에서 서울역까지 걸리는 시간이 기존 80분에서 20~30분으로 줄어들게 된다. &lt;br&gt;&lt;br&gt;GTX-B 공사는 늦어도 지난해 중순 시작될 예정이었다. 지난해 3월 착공식도 열었다. 그러나 시공사인 건설사와 투자사 간 계약 조항 관련 이견이 발생하며 상황이 지연됐다. 계약의 세부 조항을 놓고 양측이 대립한 것인데, 최근 대우건설이 투자사인 신한은행 측의 요구 조건을 수용하면서 문제가 해결됐다. &lt;br&gt;&lt;br&gt;앞으로 국토부와 대우건설 컨소시엄은 관련 지방자치단체와 도로·공원 점용 등 관련 인·허가 절차를 진행한다. 국토부 관계자는 “인·허가 관련 협의는 상당 부분 진행돼 있다”며 “착공 보고서 제출로 실제 절차에 들어갈 수 있게 된 것”이라고 했다.&lt;br&gt;&lt;br&gt;GTX-B가 착공 절차를 시작했지만, 경기 양주와 수원을 잇는 GTX-C는 사업 진행에 어려움을 겪는 것으로 전해졌다. GTX-C의 경우 일부 건설사가 4조6084억원으로 책정된 공사비 증액을 요구하며 집단 탈퇴 의사를 내비친 것으로 알려졌다. 당초 GTX-C는 예비타당성 조사 통과, 착공식 등이 모두 B 노선보다 빨랐다. 그러나 공사비 증가와 건설 경기 침체 등 탓에 노선 전체가 민자 사업으로 진행되는 C 노선의 진행이 더 늦어지게 된 것이다. GTX-C의 2028년 개통 목표는 달성하기 어려울 전망이다.&lt;br&gt;&lt;br&gt;한편 국토부는 지난해 3월 30일 개통한 GTX-A의 1년간 누적 이용객 수가 771만783명으로 집계됐다고 밝혔다. GTX-A는 수서~동탄을 운행하는 남부 구간과 운정~서울역을 운행하는 북부 구간으로 나뉘어 있다. 국토부는 2026년엔 삼성역을 무정차 통과하는 방식으로 운행하고, 2028년 삼성역까지 완전 개통할 것이라고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>경북 산불 부상자 1명 치료 중 숨져… 사망자 27명</title>
+      <link>https://www.chosun.com/national/regional/2025/04/01/6GH32M7K7RDO7ENGHKYCPBBXBY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/04/01/6GH32M7K7RDO7ENGHKYCPBBXBY/</guid>
+      <dc:creator>정성원 기자</dc:creator>
+      <description>경북지역 산불로 인한 사망자가 1명 늘었다.
+1일 경북 영덕군에 따르면 이날 영덕읍 화천리에 사는 A(63)씨가 산불로 중상을 입고 치료를 받던 중 숨졌다.
+</description>
+      <pubDate>Tue, 01 Apr 2025 12:14:30 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MBREJ2QAGZNEPMT7YIYUIJGONU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;1일 경북 영덕군 영덕읍 석리 한 마을이 산불로 쑥대밭이 된 가운데 한국LPG사업관리원 관계자가 피해 상황을 조사하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경북지역 산불로 인한 사망자가 1명 늘었다.&lt;br&gt;&lt;br&gt;1일 경북 영덕군에 따르면 이날 영덕읍 화천리에 사는 A(63)씨가 산불로 중상을 입고 치료를 받던 중 숨졌다.&lt;br&gt;&lt;br&gt;이에 이번 경북 산불로 인한 사망자는 27명으로 늘었다. 지역별로는 영덕 10명, 영양 7명, 안동·청송 각 4명, 의성 1명이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘텔레그램에 의사 국시 문제 유출’... 의대생 448명 무더기 검찰 송치</title>
+      <link>https://www.chosun.com/national/national_general/2025/04/01/ML7QAG6MBZELTAYQJFLCQRWLKY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/01/ML7QAG6MBZELTAYQJFLCQRWLKY/</guid>
+      <dc:creator>장윤 기자, 양인성 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 01 Apr 2025 11:58:45 +0000</pubDate>
+      <content:encoded>경상대·부산대·인제대·동아대·고신대 등 응시생 448명을 경찰이 의사 국가시험 실기시험 문제를 유출한 뒤 공유한 혐의로 검찰에 넘겼다. 서울 광진경찰서는 2023년 의사 국가시험에 응시한 부산·경남 의대 응시생 440여 명을 복원된 실기시험 문항을 공유받아 시험을 친 혐의(위계에 의한 공무집행방해)로 검찰에 송치했다고 이날 밝혔다. 그해 실기시험 합격자가 3045명이었던 점을 고려하면 14.7%에 달하는 인원이 검찰 수사를 받게 된 것이다.&lt;br&gt;&lt;br&gt;경찰에 따르면 부·울·경 의학대학 5곳 대표 24명은 실기시험 문제를 유출·공유하기로 짜고, 같은 해 8월 부산에서 만나 구체적인 실행 방법을 논의했다. 시험이 약 두 달에 걸쳐 하루에 60~70명씩 진행된다는 점을 노린 것이다. 한 달 뒤인 9월 1일부터 같은 해 11월 3일까지 시험 응시생 448명은 시험을 치고 알게 된 시험 문항을 복원했다. 이후 텔레그램 비밀 대화방을 통해 이 같은 문항을 공유한 후 실기시험에 들어간 것으로 경찰 조사 결과 확인됐다. 경찰은 같은 해 11월쯤 한국보건의료인국가시험원에서 수사 의뢰를 받고 수사에 착수했다.&lt;br&gt;&lt;br&gt;경찰 조사에 따르면, 실기시험 문제는 ‘문제 은행’식으로 출제돼 먼저 시험에 응시한 학생들의 과거 문제 유형이 쌓일수록 이후 시험을 치르는 학생들이 비슷한 문제를 접할 확률이 높아진다. 국가시험원은 사전에 수험생들에게 “소셜미디어 등을 통한 실기시험 문제의 복원과 공유를 절대 금지하며, 위반 시 민형사 처벌을 받을 수 있다”고 여러 번 공지했지만 이들은 40일에 걸쳐 문제를 복원해 공유한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;이번 사건에 연루된 신규 의사 448명 전부가 재판에 넘겨져 집행유예를 포함해 금고형 이상을 받으면 의사 면허가 취소된다. 그보다 낮은 형량이 나와도 정부는 의료법에 따라 부정행위를 한 사람의 합격을 무효화하고, 향후 3회 의사 시험을 치지 못하게 하는 행정처분을 내릴 수 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>경남에 ‘지역필수의사’ 온다...5년간 근무할 24명 채용 </title>
+      <link>https://www.chosun.com/national/2025/04/01/7J7COXQHVBGPXAH6MN7NKJPV3U/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2025/04/01/7J7COXQHVBGPXAH6MN7NKJPV3U/</guid>
+      <dc:creator>창원=김준호 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 01 Apr 2025 11:22:48 +0000</pubDate>
+      <content:encoded>경남도가 보건복지부가 주관하는 ‘지역필수의사제 시범사업’ 공모에 최종 선정됐다고 1일 밝혔다. 이에 따라 5년간 지역에 근무할 필수의사 24명을 확보할 수 있게 됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SPATOJQITVTNQUA7DKM4H432EM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경남도청. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지역필수의사제 운영지원 시범사업은 의사가 종합병원급 이상 지역의료기관에서 필수과목을 진료해 장기간 근무할 수 있도록 지역근무수당과 정주 여건을 지원하는 사업이다.&lt;br&gt;&lt;br&gt;지역필수의사는 필수진료 8개 과(내과·외과·산부인과·소아청소년과·응급의학과·심장혈관흉부외과·신경과·신경외과) 분야 5년차 이내 전문의 중 5년간 지역 근무를 계약한 의사를 말한다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KVCNU7EVLYFO674ZTPNO6QK5LA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경상국립대병원. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경남에서는 양산부산대학교병원·삼성창원병원·경상국립대학교병원 등 도내 권역별 상급종합병원 3곳이 참여한다. 암이나 심·뇌혈관 질환과 소아과, 응급의학과 등 주요 필수진료 과목을 중심으로 지역필수의사 24명을 새로 채용하게 된다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NNEWU2FYJ4IXZ7VO76SWG33GMM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;양산부산대병원. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경남도는 지역필수의사에게 계약 기간 월 400만원의 지역근무수당을 지급한다. 또 주거·교통·문화생활 지원을 위한 ‘동행 정착금’ 100만 원도 추가로 지원한다. 지역 근무 처우를 개선하고 우수한 지역 의사를 안정적으로 확보하려는 취지다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MVUKEPFCDWWGAEMIQEEHKFGS34.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;삼성창원병원. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;배우자와 자녀 등 동반 가족을 대상으로는 ‘전입가족 환영금’ ‘양육지원금’ ‘자녀학자금’ 등을 지원해 지역필수의사가 안정적인 환경에서 장기간 근무할 수 있도록 적극적으로 지원할 방침이다. &lt;br&gt;&lt;br&gt;이도완 경남도 보건의료국장은 “경남은 수도권과 거리가 멀어 지역의사 확보에 더 많은 어려움을 겪고 있다”며 “이번 사업이 지역의 의료격차를 없애고 지역 주민들에게 더 나은 의료 서비스를 제공하는 계기가 될 것이다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>“평생 살며 받아온 사랑을 동네에 돌려 주고 싶다”…1억원 익명 기부한 80대</title>
       <link>https://www.chosun.com/national/regional/yeongnam/2025/04/01/UZRPTCHXT5AD7BXCVHCHDQTQKU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/yeongnam/2025/04/01/UZRPTCHXT5AD7BXCVHCHDQTQKU/</guid>
@@ -879,54 +930,6 @@
       <description/>
       <pubDate>Sat, 29 Mar 2025 07:51:48 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TYPBWTAB5FH23F4Q7ZMNYKCVLU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;29일 오후 서울 광화문 동십자각 앞에서 윤석열즉각퇴진·사회대개혁 비상행동(비상행동)이 주최한 윤석열 대통령 탄핵을 촉구하는 집회에서 참석자들이 구호를 외치고 있다. /박성원 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;29일 오후 서울 광화문 동십자각 앞 도로에서 윤석열 대통령 탄핵 찬성 집회가 열렸다. ‘윤석열 즉각 퇴진·사회 대개혁 비상행동(비상행동)’은 오후 5시부터 경복궁 동십자각 앞에서 집회를 시작했다. 안국역 1번 출구 앞에서 촛불승리전환행동(촛불행동)이 집회를 진행한 뒤 합류했다. 더불어민주당 등 야(野) 5당은 국회에서 도보 행진을 진행한 뒤 비상행동 집회에 참석했다. 경찰은 탄핵 찬성 집회에 약 1만 5000명(비공식)이 모인 것으로 파악했다.&lt;br&gt;&lt;br&gt;이날 오후 5시부터 윤 대통령 탄핵을 촉구하는 ‘윤석열 즉각 퇴진·사회 대개혁 비상 행동’은 주최 집회가 사직로 일대에서 열렸다. 탄핵 반대 집회가 열리는 광화문 광장에서 300m 떨어진 곳이다. 탄핵 찬·반 경계를 두고 기동대 버스 총 21대로 ‘차벽’이 설치됐다. 경찰은 비상행동 집회에 1만 2000명(비공식)이 모인 것으로 집계했다. &lt;br&gt;&lt;br&gt;집회 참가자들은 EDM(전자음악) 노래에 맞춰 “파면 파면 윤석열 파면” “선고 선고 헌재는 선고” 구호를 외쳤다. 집회 깃발에는 ‘천마신교’ ‘트위터는 인생의 낭만’ ‘강철의 수호자’ ‘엘펜하임 제3마탑 마도공학 연구원 노조’ ‘국제 그로구 사수대 한국지부’ 등 독특한 단체명이 적혀 있었다.&lt;br&gt;&lt;br&gt;인천 서구에서 온 배동선(33)씨는 “탄핵 선고가 늦게 나오다 보니 자꾸 세대 간 갈등으로 번지고 있다”며 “헌재가 빨리 선고를 내려 사회적 비용도 줄이고 갈등이 커지는 상황이 끝났으면 좋겠다”고 했다. 신정일(82·서울 양천구)씨는 “때가 어느 때인데 비상계엄을 선포하느냐”며 “민주주의가 군사정권 시절로 퇴보하는 걸 막고, 정의를 지키려 나왔다”고 했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TRGLC5CNO5CTTJPQUSZOJOQOL4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;29일 오후 서울 광화문 동십자각 앞에서 윤석열즉각퇴진·사회대개혁 비상행동(비상행동)이 주최한 윤석열 대통령 탄핵을 촉구하는 집회에서 참석자들이 구호를 외치고 있다. /박성원 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;집회 연단에 오른 박찬대 원내대표는 뮤지컬 ‘영웅’의 ‘장부가’를 무반주로 부른 뒤 “12·3 내란 사태 일어난 지 117일째, 윤 탄핵 106일째, 헌재 변론 종결한 지 33일째인데 헌재는 아직도 윤통 파면 선고 내리지 않았다”고 했다. 이어 한덕수 국무총리와 관련, “헌법 수호의 책무를 저버리고 헌정 붕괴 상태를 지속시킨다면 반드시 책임을 묻겠다”고 했다.&lt;br&gt;&lt;br&gt;앞서 오후 3시부터 촛불행동은 서울 헌재 인근 안국역 1번 출구 앞에서 탄핵을 촉구하는 집회를 열었다. 윤 대통령의 변호인 석동현 변호사의 ‘대통령 국민변호인단’이 진행하는 탄핵 반대 집회에서 110여m 떨어진 곳이다. 경찰 비공식 추산 2000명이 모였다. 민주노총은 오후 3시 30분쯤 명동 1번 출구 앞에서 집회를 열고 500여 명이 동십자각으로 행진했다. 부산·광주·대구 등 10개 지역에서 총 4600여명(경찰 비공식 추산)이 탄핵을 촉구하는 집회를 열었다.&lt;br&gt;&lt;br&gt;집회 참가자들은 ‘탄핵으로 민생회복’ ‘내란동조 국민의힘&lt;i&gt; &lt;/i&gt;해체하라!’ ‘마은혁을 임명하라’ 등의 내용이 적힌 피켓을 들고 “내란종식 민주수호” “윤석열 즉각 파면!” 등 구호를 외쳤다. 참가자는 헌법재판소 재판관들의 이름을 하나씩 연호하며 “(국민의 외침을) 들어라!”고 복창했다. 집회에서 아이돌그룹 소녀시대의 ‘힘내’, 부석순의 ‘거침없이’ 등 노래가 울려 퍼졌다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>尹 탄핵 반대 집회 광화문·여의도서 열려</title>
-      <link>https://www.chosun.com/national/national_general/2025/03/29/VETYOQE6MBEH7PLRWGIT6HSP6I/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/03/29/VETYOQE6MBEH7PLRWGIT6HSP6I/</guid>
-      <dc:creator>양인성 기자, 이민경 기자, 구아모 기자</dc:creator>
-      <description/>
-      <pubDate>Sat, 29 Mar 2025 05:46:51 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XX6OI4H565AUXPJWPYBQCUEVVY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;29일 오후 서울 광화문광장에서 열린 자유통일당과 대한민국바로세우기운동본부가 주최한 '자유 통일을 위한 국민 대회'에서 참석자들이 피켓을 들고 구호를 외치고 있다. /박성원 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;29일 오후 서울 광화문과 여의도 등 도심 곳곳에서 윤석열 대통령 탄핵 반대 집회가 열렸다. 광화문 세종대로에서는 전광훈 사랑제일교회 목사가 주도하는 대한민국바로세우기국민운동본부(대국본)·자유통일당이, 여의도 의사당대로에서는 손현보 부산세계로교회 목사가 이끄는 개신교계 단체 세이브코리아가 각각 집회를 개최했다. 경찰 비공식 추산으로 전국 각지 반탄 집회에 4만여 명이 모였다.&lt;br&gt;&lt;br&gt;이날 오후 2시쯤 광화문 세종대로에는 왕복 8차로를 가득 메운 인파가 몰렸다. 오후 2시 기준으로 경찰 비공식 추산 2만여 명이 모였다. 참가자들은 ‘탄핵 원천 무효’ ‘이재명 즉각 구속’ ‘탄핵 각하’ ‘CHINA OUT’ 등이 적힌 피켓을 들고 있었다. 집회 참가자들은 “탄핵 기각” “탄핵 각하” 등의 구호를 외쳤다. 자유통일당 집회엔 3만명(경찰 비공식 추산)이 모였다.&lt;br&gt;&lt;br&gt;전국 각지에서 광화문 집회에 참석한 이들도 많았다. ‘청주’ ,‘안동’, ‘원주’, ‘대전’, ‘충북 진천’, ‘옥천’, ‘연천’ 등의 지역명이 적힌 깃발이 곳곳에서 보였다. 광주광역시 서구에서 집회에 온 최원준(32)씨는 “오전 6시 50분 기차를 타고 올라왔는데, 탄핵 선고 앞두고 마지막 주말 집회될 수 있을 것 같아서 왔다”며 “야당의 입법 독재, 줄탄핵에 반대하기 위해 집회에 참석했다”고 했다. 경기 김포에서 왔다는 양창길(76)씨는 “이재명이 무죄면 구치소에 들어가 있는 사기 범죄자들 진작에 다 풀려났어야 한다”며 “자유민주주의를 지켜야 한다는 책임감으로 이 자리에 나왔다”고 했다. 이날 자유통일당 집회에 최대 3만명이 참석했다. 안국역 5번 출구 앞에선 신남성연대가 주최한 탄핵 반대 집회가 별도로 열려 2000여명(경찰 비공식 추산)이 모였다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AAF74AWAS5CUDAHXMLEASBWW64.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;29일 오후 서울 광화문광장에서 자유통일당과 대한민국바로세우기운동본부가 주최한 '자유 통일을 위한 국민 대회'에서 참석자들이 태극기를 흔들며 윤석열 대통령 탄핵 반대 구호를 외치고 있다. /박성원 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 김용현 전 국방부 장관 측 유승수 변호사가 옥중 서신을 읽기도 했다. 김 전 장관은 편지를 통해 “종북·종중·매국노 무리들이 만든 ‘집단적 권력(카르텔)’과 끝까지 투쟁해야 한다“며 ”끝까지 힘을 모아, 힘차게 싸웁시다”고 전했다.&lt;br&gt;&lt;br&gt;여의도에서도 세이브코리아 주도의 탄핵 반대 집회가 오후 1시부터 시작됐다. 이들은 태극기와 성조기를 손에 들고 ‘대통령 복귀’ ‘대통령 윤석열’ 같은 구호를 외치며, 헌재의 탄핵 각하 결정을 촉구했다. 경찰 비공식 추산으로 서울 여의도에 9600여 명이, 울산 극동방송 인근 집회엔 6000여 명이 참가했다. 여의도 집회엔 국민의힘 윤상현·조배숙·박대출 의원도 모습을 드러냈다.&lt;br&gt;&lt;br&gt;대국본 집회에는 오후 17시 10분 기준 경찰 비공식 추산 최대 3만명이 참여했다. 안국역 5번 출구 앞에선 신남성연대가 주최한 탄핵 반대 집회가 별도로 열려 경찰 비공식 추산 2000명이 모였다. 경찰은 이날 서울 도심에만 3000여 명의 기동대를 투입해 집회 인파를 관리하고 있다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/XX6OI4H565AUXPJWPYBQCUEVVY.jpg?width=3404&amp;height=2802&amp;auth=e52182ed54857ebd4c331d1537d043da8367e5214e458bcd79510eb1a6f49474&amp;smart=true" type="image/jpeg" height="2802" width="3404">
-        <media:description type="plain">29일 오후 서울 광화문광장에서 열린 자유통일당과 대한민국바로세우기운동본부가 주최한 '자유 통일을 위한 국민 대회'에서 참석자들이 피켓을 들고 구호를 외치고 있다. 2025.3.29 /박성원 기자</media:description>
-      </media:content>
-    </item>
-    <item>
-      <title>법원 “명지대 입학정원 감축 중복처분 위법...2차 처분 취소해야”</title>
-      <link>https://www.chosun.com/national/court_law/2025/03/29/QNIBAULYV5EZJJP6AYNYW4EVJY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/03/29/QNIBAULYV5EZJJP6AYNYW4EVJY/</guid>
-      <dc:creator>김나영 기자</dc:creator>
-      <description/>
-      <pubDate>Sat, 29 Mar 2025 05:14:05 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TKMPTTXXRBBDRGIRXSBYQ5KRCE.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초동에 위치한 서울중앙지방법원, 서울고등법원,서울회생법원/이명원 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;교육부가 동일한 시정명령을 위반했다는 이유로 명지대 재단에 두 차례나 입학정원 감축 처분을 내린 건 위법하다는 법원 판단이 나왔다. &lt;br&gt;&lt;br&gt;서울고법 행정7부(재판장 구희근)는 지난 20일 명지대를 운영하는 학교법인 명지학원이 교육부를 상대로 “2020학년도 입학정원 감축 처분을 취소하라”며 낸 소송에서 1심을 뒤집고 원고 승소로 판결했다.&lt;br&gt;&lt;br&gt;재판부는 “피고가 하나의 시정명령 위반 행위에 관해 수개의 제재 처분을 한 것으로 볼 여지가 많아 이 사건 처분은 그 처분 사유가 존재하지 않으므로 취소돼야 한다”고 설명했다.&lt;br&gt;&lt;br&gt;앞선 2017년 교육부는 명지학원이 명지대 용인캠퍼스 내 노인복지시설인 엘펜하임의 임대보증금 전액을 법인운영비로 사용하고 있다며 시정을 요구했다. 교육부의 사립대학(법인) 관리 안내에 따르면 임대보증금은 임대기간 종료 시 반환해야 하는 금액인 만큼, 반드시 금융기관에 예치하도록 규정하고 있기 때문이다. &lt;br&gt;&lt;br&gt;이같은 요구에 명지학원은 2017년 엘펜하임을 매각해 138억여원을 보전한 뒤, 나머지는 향후 4년 간 매년 50억원씩 보전하겠다는 내용의 연도별 보전 계획을 제출했다. 그러나 명지학원이 2017년 138억원을 보전하지 못하자 교육부는 이듬해 7월 명지대의 2019학년도 입학정원을 5%를 감축하라는 처분을 내렸다. 이 행정 처분은 법적 다툼 끝에 지난 2022년 2월 대법원에서 확정됐다.&lt;br&gt;&lt;br&gt;문제는 그 다음이다. 명지학원이 2018년에도 계획을 지키지 못한 것이다. 교육부는 또 다시 2020학년도 입학정원 5% 감축 처분을 내렸다. 명지학원은 교육부의 연이은 제재 처분이 부당하다며 행정소송을 냈다.&lt;br&gt;&lt;br&gt;1심은 교육부 손을 들어줬다. 재판부는 교육부가 각기 다른 연도에 발생한 미이행 행위를 이유로 명지학원에 별개 처분을 내린 것이라고 판단했다.&lt;br&gt;&lt;br&gt;그러나 2심은 2020학년도와 2019학년도 정원 감축 처분 사유의 사실관계가 동일하므로 교육부가 중복처분을 내렸다고 봤다.&lt;br&gt;&lt;br&gt;2심 재판부는 교육부 주장대로 연도별 시정명령 이행 여부에 따라 제재를 내릴 경우 “교육부에 사실상 아무런 제한을 두지 않는 광범위한 재량을 부여하는 것이 돼 부당하고, 원고로서는 반복적인 제재 처분을 받을 수 있어 그 적용 범위가 지나치게 확대된다”고 판단했다.&lt;br&gt;&lt;br&gt;한편 교육부는 명지대가 2019년에도 보전계획을 이행하지 않았다는 이유로 또다시 5% 입학정원을 감축하는 처분을 내렸다. 이에 대한 행정소송도 진행 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>창원NC파크 구조물 떨어져 다친 20대 여성, 끝내 사망</title>
-      <link>https://www.chosun.com/national/national_general/2025/03/31/AHEBH5TIYRD5LEKTQXFWHWADH4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/03/31/AHEBH5TIYRD5LEKTQXFWHWADH4/</guid>
-      <dc:creator>김명일 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 31 Mar 2025 05:53:34 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HIPBG6FTYZN7RE7VM6SMZP53E4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 29일 경남 창원시 마산회원구 창원NC파크에서 NC 다이노스와 LG 트윈스 경기 중 3루 방향 건물에 설치된 구조물(상단부 가운데) 일부가 떨어지는 사고가 발생했다. 사진은 지난 30일 촬영한 현장 모습. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경남 창원시 마산회원구 창원NC파크 구조물 추락사고로 머리를 다쳐 치료받던 20대 여성 관중이 끝내 사망했다.&lt;br&gt;&lt;br&gt;31일 마산동부경찰서에 따르면 프로야구 경기가 열리던 지난 29일 오후 5시 17분쯤 마산회원구 창원NC파크 3루 매점 인근에서 20대 여성 A씨가 위에서 떨어진 구조물에 맞아 머리 등을 크게 다쳤다.&lt;br&gt;&lt;br&gt;A씨는 병원에 이송된 뒤 중환자실에서 치료를 받아오다가 이틀 만인 이날 오전 11시 15분쯤 사망했다.&lt;br&gt;&lt;br&gt;사고 당일 경남 창원NC파크에서는 NC와 LG 트윈스의 정규 시즌 경기가 진행되고 있었다. 구장 3루 쪽 매점 벽에 설치된 구조물이 아래로 떨어지면서 매점 앞에 줄을 서고 있던 관중들을 덮쳤다. &lt;br&gt;&lt;br&gt;이 사고로 A씨와 10대인 여동생 B씨 등 3명이 다쳤다.&lt;br&gt;&lt;br&gt;B씨는 쇄골이 골절돼 병원에서 치료 중이며 나머지 한 명은 다리에 타박상을 입은 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰은 국립과학수사연구원 등과 현장 감식을 진행하는 한편 정확한 사고 경위를 조사할 계획이다.&lt;br&gt;&lt;br&gt;창원NC파크를 홈구장으로 쓰는 프로야구단 NC다이노스는 사고 직후 공식 입장문을 통해 “안타깝게 다친 분들의 빠른 쾌유를 기원하고, 구단이 할 수 있는 필요한 조치에 최선을 다하고 있다”면서 “향후 이와 같은 사고가 재발하지 않도록 관계 기관과 정확한 사고 원인을 규명하고 대책을 수립해 철저히 이행할 것”이라고 했다.&lt;br&gt;&lt;br&gt;한국야구위원회(KBO)는 지난 30일 예정된 NC-LG전을 연기하고, 창원 NC파크 경기장 안전 점검을 진행하기 위해 4월 1일부터 3연전으로 펼쳐지는 NC 다이노스-SSG 랜더스 경기를 무관중으로 진행한다고 발표했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>尹 대통령 탄핵 선고, 결국 4월로...이르면 다음 주 3~4일 예상</title>
-      <link>https://www.chosun.com/national/court_law/2025/03/29/QMA4C5WLSBBLDLZYJWF5PJJZFA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/03/29/QMA4C5WLSBBLDLZYJWF5PJJZFA/</guid>
-      <dc:creator>김나영 기자</dc:creator>
-      <description/>
-      <pubDate>Sat, 29 Mar 2025 01:36:10 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JBDOPEXVZVP6FMQOMIPREBEENA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;헌법재판소의 윤석열 대통령 탄핵 심판 결정이 다가오고 있는 가운데 23일 서울 종로구 헌법재판소에 게양된 깃발이 바람이 날리고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;헌법재판소가 지난 28일에도 윤석열 대통령 탄핵 선고일을 지정하지 않으면서 선고는 4월로 넘어가게 됐다.&lt;br&gt;&lt;br&gt;헌재는 전날인 28일 오후에도 윤 대통령 탄핵 등에 대한 평의를 열었지만 선고일과 관련해선 결론을 내리지 못한 것으로 알려졌다. 다음주 첫 평일인 31일에 탄핵 선고일을 공지한다고 해도, 통상 선고일 2~3일 전 날짜를 고지했던 점을 고려하면 선고일은 달을 넘어가게 되는 것이다.&lt;br&gt;&lt;br&gt;이에 따라 이르면 오는 3일이나 4일에 윤 대통령 탄핵 선고일이 잡힐 가능성이 커졌다. 만약 평의가 더 늦어져 4월 첫 주를 넘기게 되더라도, 문형배 헌재소장 권한대행과 이미선 재판관이 퇴임하는 4월 18일 전에는 결론을 낼 것이란 전망이 크다.&lt;br&gt;&lt;br&gt;당초 헌재가 지난달 25일 윤 대통령 탄핵심판에 대한 변론 절차를 끝낸 만큼 이달 중 선고가 나올 것이라는 예상이 우세했다. 하지만 변론이 종결된 지 한 달이 넘도록 아무런 소식이 들려오지 않으면서 재판관들이 합의에 이르지 못한 것이 아니냐는 우려가 커지고 있다.&lt;br&gt;&lt;br&gt;한편 헌재는 지난 24일에는 한덕수 국무총리의 탄핵심판에 대한 선고를, 지난 27일에는 헌법소원 등 일반 사건에 대한 선고를 내리는 등 일정을 소화했다. 이에 대해 이인호 중앙대 교수는 “헌재가 다른 탄핵 사건이나 권한쟁의 등 업무가 몰려 과부화된 상태일 것”이라면서 “아무리 대통령 심판을 최우선으로 처리한다고 해도 물리적으로 한 사건에만 집중하기 어려운 상황”이라고 설명했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘산불 난리인데…’ 화성 태행산 정상에 폐오일 뿌린 남성 자수</title>
-      <link>https://www.chosun.com/national/national_general/2025/03/31/UEFQKJ6KEBFI7D25WZDF3RKQ5M/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/03/31/UEFQKJ6KEBFI7D25WZDF3RKQ5M/</guid>
-      <dc:creator>김명일 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 31 Mar 2025 05:32:59 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7WY35SL6HVLRUUCFMXKGEE3OZ4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기 화성시 태행산 정상 데크에 폐오일이 뿌려져 있는 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;영남 지역에서 발생한 대형 산불로 역대 최악의 피해가 발생한 가운데 수도권의 산 정상 부근에 폐오일을 뿌린 60대 남성이 경찰에 자수했다.&lt;br&gt;&lt;br&gt;31일 경기 화성서부경찰서는 재물손괴 혐의로 60대 남성 A씨를 형사 입건했다고 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 21일 화성시 비봉면 태행산 정상 데크 바닥에 자동차 엔진에서 나온 폐오일을 뿌린 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;A씨의 범행은 지난 27일 한 시민의 신고로 알려졌다. A씨는 이 사건이 언론 보도를 통해 알려지자 지난 28일 경찰서를 찾아가 자수했다.&lt;br&gt;&lt;br&gt;자동차 정비 관련 업무에 종사하는 A씨는 경찰 조사에서 “‘백패킹족’ 때문에 휴식 공간이 없고, 쓰레기도 많이 나와 데크에 텐트를 치지 못하게 하려고 범행을 했다”고 진술한 것으로 알려졌다. &lt;br&gt;&lt;br&gt;경찰은 A씨를 상대로 정확한 사건 경위를 조사하고 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>3년간 논문 70편 발표... 고려대 최연소 교수 된 27세 강지승 박사</title>
