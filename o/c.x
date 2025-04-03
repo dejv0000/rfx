@@ -13,6 +13,18 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>‘낙상 마렵다’ 신생아 학대 혐의 간호사, 결국… ”강력 징계 준비”</title>
+      <link>https://www.chosun.com/national/national_general/2025/04/04/UXRUXG6NWREPFNYAGN7B7OZYWE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/04/UXRUXG6NWREPFNYAGN7B7OZYWE/</guid>
+      <dc:creator>이가영 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 03 Apr 2025 22:25:23 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UIZPMXAVD5BBPNN27I4LVYV7HA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대구가톨릭대병원 간호사가 자신의 인스타그램에 올린 사진. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대구가톨릭대학교병원 신생아 중환자실에서 간호사가 환아를 학대한 일이 알려져 공분을 산 가운데 병원장이 환아 부모에게 직접 사과했다. 또한 병원 측은 가해 간호사에 대한 강력한 징계를 준비하는 것으로 알려졌다. &lt;br&gt;&lt;br&gt;김윤영 대구가톨릭대병원장은 3일 오후 학대 피해 환아 부모를 만나 사과하고, 병원 측의 잘못을 인정했다. 환아 부모 측의 요구를 받아들여 대국민 사과도 약속했다. &lt;br&gt;&lt;br&gt;병원 측은 사직서를 제출한 가해 간호사에 대해 중징계를 할 방침이다. 병원 측이 준비 중인 징계는 ▲재취업 금지 ▲퇴직금 미지급 및 연금 수령 막기 ▲간호사 자격 박탈 등이다. &lt;br&gt;&lt;br&gt;병원 측은 또한 학대 피해 부모에게 보건복지부 조사 및 대구경찰청 수사에 적극 협조할 것도 약속했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/A6PGBGW35JCH3BWDEWHE3W3JPI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대구가톨릭대병원 신생아실 간호사가 소셜미디어에 올린 사진. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;학대 피해 환아 부모는 병원 측에 재발 방지 대책 및 보상 방법 등을 서면으로 만들어 확인시켜 줄 것을 요구했다. 환아의 아버지 A씨는 “우리 아이 말고도 추가로 학대당한 아이가 최소 3명이 더 있다”며 “학대 피해 사실이 알려진 후에 여러 곳에서 추가로 제보가 들어왔다”고 했다. 이어 “우리뿐만 아니라 다른 피해 부모와 아이들에게도 똑같이 해줄 것을 요구했다”고 했다. &lt;br&gt;&lt;br&gt;A씨는 지난 2일 대구 남부경찰서에 학대 간호사 B씨 등을 아동 학대 혐의로 고소했다. 사건은 대구경찰청으로 이첩돼 수사 중이다. 아동 학대 피해자가 10세 미만인 경우 대구경찰청이 직접 수사한다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Y4AJGD2O3BB3VJDCL6LC5F4DTE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대구가톨릭대병원 신생아실 간호사가 소셜미디어에 올린 사진. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;앞서 간호사 B씨는 자신의 소셜미디어에 중환자실 환아를 무릎에 앉히거나 끌어안은 사진과 함께 “낙상 마렵다(낙상시키고 싶다)” 등의 문구를 게시해 학대한 혐의를 받고 있다. &lt;br&gt;&lt;br&gt;피해 환아 가족이 공개한 사진을 보면, 아직 자가 호흡을 하지 못하는 환아를 상대로 “진짜 성질 더럽네”라고 말하거나, 신생아의 양팔을 감싼 사진과 함께 “악지르는 것 보니 내일 퇴원해도 되겠고만 왜 왔는데. 오자마자 열받아서 억제 시킴”이라고 한 사례도 있었다. &lt;br&gt;&lt;br&gt;병원 측은 현재 신생아중환자실 전체 간호사를 상대로 학대 사례가 더 있는지 등을 조사하고 있다. 추가 피해가 확인된 환아의 부모에게는 차례로 피해 사실을 알릴 방침이다. &lt;br&gt;&lt;br&gt;다만, 병원 측은 이번 사건에 대해 ‘간호사의 개인적 일탈 행위’라고 강조했다. 병원 관계자는 “상황의 심각성을 인지하고 있다”며 “후속 절차를 현재 논의 중”이라고 밝혔다. &lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/XEM6EJCDL5FZTAGYQUMYMLSZRU.jpg?width=1041&amp;height=665&amp;auth=fb70991affcdbda879b5d1a05ed92ed2e49c568acc055c6d15770022d89b795c&amp;smart=true" type="image/jpeg" height="665" width="1041">
+        <media:description type="plain">대구의 한 상급종합병원 신생아중환자실(NICU) 간호사가 입원 중인 신생아의 사진을 무단으로 촬영해 소셜미디어에 올리고 부적절한 발언을 한 장면. /블라인드</media:description>
+      </media:content>
+    </item>
+    <item>
       <title>이동필 前 장관 “9년 농사 30분 만에 다 태운 산불… 누가 귀농하겠나”</title>
       <link>https://www.chosun.com/national/national_general/2025/04/04/TH2VUUO7HZBGJA3VALCNV63PJI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/04/TH2VUUO7HZBGJA3VALCNV63PJI/</guid>
@@ -781,15 +793,6 @@
       <media:content url="https://www.chosun.com/resizer/v2/V2GZZRSKBBEPDB252SQ5FPAPBA.png?width=1200&amp;height=675&amp;auth=abec08b144fa20edc235a6d7e81849ef42bd0ff8300f6218d82db29987704434&amp;smart=true" type="image/png" height="675" width="1200">
         <media:description type="plain">일러스트=이철원</media:description>
       </media:content>
-    </item>
-    <item>
-      <title>[신문은 선생님] [재밌다, 이 책!] 나무 쓰러지는 소리·개미의 ‘혼인비행’… 숲속의 동식물들도 서로 소통한대요</title>
-      <link>https://www.chosun.com/national/nie/2025/04/03/37CKTEAYQJG4LC2X2ERTM6LIIE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2025/04/03/37CKTEAYQJG4LC2X2ERTM6LIIE/</guid>
-      <dc:creator>이진혁 출판편집자</dc:creator>
-      <description/>
-      <pubDate>Wed, 02 Apr 2025 16:54:54 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SWQEW6WVTBF6FMI7I5MTBCH5QA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;숲은 생각한다&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;에두아르도 콘 지음｜차은정 옮김｜출판사 사월의책｜가격 2만3000원&lt;/b&gt;&lt;br&gt;&lt;br&gt;‘인간은 만물의 영장이다’라는 말이 있습니다. 실제로 오랫동안 우리는 인간만이 생각하고 감정을 느낀다고 믿어 왔지요. 그런데 숲도 생각을 할 수 있다면 어떨까요. 나뭇잎들이 바람을 타고 흔들리는 것이 서로 말을 주고받는 것이고, 동물들 또한 자신들만의 세계관을 갖고 있다면요? 인류학 교수인 저자는 이러한 질문을 품고 아마존의 깊은 숲속으로 들어갑니다. &lt;br&gt;&lt;br&gt;책은 재규어로 변신해 가축이나 인간을 습격하는 ‘재규어 인간’이 존재한다는 기묘한 이야기로 시작됩니다. 언뜻 허무맹랑한 이야기처럼 들리지요. 하지만 이 서사는 숲에서 살아남으려면 다른 생물의 눈을 빌려 세상을 볼 필요가 있다는 메시지를 주기 위한 것이랍니다. 재규어 또한 판단을 합니다. 재규어는 숲속에서 만나는 인간들을 보고 자신과 같은 ‘포식자’로 볼 수도 있고, 아니면 먹잇감으로 인식할 수도 있지요. 재규어가 어떻게 생각하는지에 따라, 재규어를 마주친 인간의 생사가 결정된다는 것입니다. 이처럼 동물 또한 독립적인 주체라는 점을 강조하는 것이죠.&lt;br&gt;&lt;br&gt;책은 숲의 생명체들이 서로 소통하고 있다는 다양한 증거를 제시합니다. 언어가 없는데 무슨 소통이 가능하냐고 반문할 수 있지요. 이에 저자는 “모든 생명체는 기호를 통해 소통한다”고 주장해요. 가령 야자나무가 쓰러지는 소리는 누군가에게는 단순한 소음에 불과하지만 양털원숭이에게는 특별한 위험 신호가 될 수 있습니다. 나무에서 주로 생활하는 그들의 생활 터전이 위협받고 있다는 의미가 될 수도 있고, 나무를 쓰러뜨릴 정도로 덩치가 큰 포식자가 나타났다는 뜻이 될 수도 있기 때문이죠. &lt;br&gt;&lt;br&gt;따라서 나무 쓰러지는 소리는 특정한 의미를 지닌 하나의 ‘기호’가 됩니다. 숲속에선 ‘종을 초월하는 소통’도 일어납니다. 개미의 ‘혼인 비행’은 개구리나 뱀 같은 동물들에게 우기가 끝났음을 알려주는 기호가 됩니다. 숲 인근의 주민들 또한 사냥개가 내는 소리로 여러 위험 요소를 판단하지요.&lt;br&gt;&lt;br&gt;숲에서 다양한 소통이 일어난다는 주장은 자연을 수탈 대상으로만 여기는 인간의 태도에 경종을 울립니다. 저자는 인간의 영향이 미치지 않은 곳에서 자연이 어떤 방식으로 상호작용을 하고 여러 생물을 길러내는지 보여줘요. 어쩌면 자연은 인간이 없을 때 더 잘 살아갈 수 있다는 사실을 깨닫게 되기도 하지요.&lt;br&gt;&lt;br&gt;이 책은 저자가 4년간 아마존 숲에서 주민들과 함께 지내며 관찰한 내용을 쓴 논픽션입니다. 연구 대상은 아마존 숲에 한정되지만, 책을 읽고 나면 시선은 지구 전체를 향하게 됩니다. 인간과 비인간이 얽혀 사는 거대한 ‘생태계’의 모습을 머릿속에 그리게 되죠. “숲처럼 생각해야 한다”는 저자의 외침이, ‘인간이란 무엇인가’를 생각해보게 합니다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>3.1도 높았던 날씨가 영남 산을 잿더미로…</title>
