@@ -6,14 +6,33 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
-			<title>[속보] 대리인단 "윤 대통령 탄핵심판 선고일 불출석"</title>
-			<description>&lt;p style="text-align: center; "&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/206861.jpg" alt="lawtimes.jpg" /&gt;&lt;br /&gt;&lt;/p&gt;&lt;br /&gt;</description>
+			<title>'도이치모터스 주가조작' 권오수·전주 등 징역형 집유 확정</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/206862.jpg" alt="23432425.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: left; font-size: 14px; line-height: 1.6em;"&gt;도이치모터스 권오수 전 회장이 2일 서울고법에서 열린 '주가 조작' 의혹 재판에 출석하고 있다. 《사진=연합뉴스》&lt;/figcaption&gt;   &lt;/figure&gt;&lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;b&gt;[대법원 판결]&lt;/b&gt;&lt;br /&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="8480"&gt;윤석열&amp;nbsp;&lt;/span&gt;대통령의 배우자 김건희 여사가 연루됐다는 의혹이 제기된 도이치모터스 주가 조작 사건의 '전주(錢主)'와 권오수 전 도이치모터스 회장 등 관련자들에게 대법원이 유죄를 확정했다.&lt;p&gt;&amp;nbsp;   &lt;/p&gt;&lt;p&gt;대법원 형사3부(주심&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="9051"&gt;이숙연&amp;nbsp;&lt;/span&gt;대법관)는 3일 자본시장과 금융투자업에 관한 법률 위반 등 혐의로 기소된 권 전회장과 전주 손모 씨 등 9명에게 모두 유죄를 선고한 원심을 확정했다(&lt;b&gt;2024도15788&lt;/b&gt;).&lt;br /&gt;&lt;b&gt;&lt;br /&gt;[사실관계 및 하급심 판단]&lt;/b&gt;&lt;br /&gt;권 전 회장은 2009~2012년 도이치모터스 최대 주주이자 대표이사로 재직하며 주가 조작 '선수'와 증권사 임직원 등 13명과 공모해 157개의 차명계좌를 이용해 도이치모터스 주식 1599만 주(636억 원 상당)를 불법 거래한 혐의를 받았다. 검찰은 권 전 회장이 무자본 우회상장 과정에서 투자사들의 수익을 보장하고 대주주 지분 유지 등을 위해 선수 등을 동원해 코스닥 상장 주식 시세를 조종했다고 판단, 2021년 12월 권 전 회장을 구속기소했다. 손 씨는 본인과 배우자, 회사 명의 계좌 등 총 4개 계좌를 활용해 고가매수 등 이상매매 주문을 제출하고 대량매집행위 등 방식으로 시세조종에 가담한 혐의로 기소됐다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;1심은 권 전 회장에게 징역 2년에 집행유예 3년 및 벌금 3억 원을 선고했다. 손 씨에 대해선 손 씨가 전주에 해당하지만 권 전 회장 등과 공모해 시세조종 행위에 가담했다고 인정하기 어렵다고 보고 무죄를 선고했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;항소심은 형량을 높여 권 전 회장에게 징역 3년에 집행유예 4년 및 벌금 5억 원을 선고했다. 손 모 씨는 유죄로 뒤집혀 징역 6개월에 집행유예 1년을 선고받았다.&lt;/p&gt;&lt;p&gt;&amp;nbsp; &lt;br /&gt;항소심은 "권 전 회장은 상장회사의 최대주주 겸 대표이사의 지위에 있음에도 사회적 책임을 외면하고 시세조종을 지시하고 직접 시세조종 행위에 가담하기도 했다"며 "큰 책임이 있는데도 범행 일체를 부인해 비난 가능성이 높다"고 판단했다. 또 "손 씨는 정범인 피고인들에게 돈을 빌려준 전주가 아니라, 이들이 제2차 시세조종 행위를 하는 사실을 인식하고 이에 편승해 자신의 이익을 도모하면서도 서로의 이익을 위해 이를 도와줄 의사를 가졌다"며 "이로 인해 자신의 자금을 동원하는 방법으로 도이치모터스 주식을 대량으로 매수해 정범의 행위를 용이하게 했다"고 판시했다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;주가조작에 가담한 혐의로 함께 기소된 나머지 피고인들에게는 징역 8월~2년에 집행유예 2~3년이 선고됐다.&lt;br /&gt;&lt;b&gt;&lt;br /&gt;[대법원 판단]&lt;/b&gt;&lt;br /&gt;대법원은 항소심 판단에 문제가 없다고 보고 검찰과 피고인 측 판단을 모두 기각했다. 대법원은 "공소사실(이유 무죄 및 면소 부분 제외)을 유죄로 판단한 원심판결에 필요한 심리를 다하지 않은 채 논리와 경험의 법칙을 위반하여 자유심증주의의 한계를 벗어나거나 무죄추정의 원칙, 증거재판주의, 공판중심주의, 직접심리주의, 공모관계, 기능적 행위지배, 구 자본시장법 위반죄에서의 시세조종행위, 시세조종의 목적 등에 관한 법리를 오해하고 판단을 누락한 잘못이 없다"고 밝혔다.&lt;/p&gt;</description>
+			<pubDate>Thu, 03 Apr 2025 04:13:33 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/206862</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/206862</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/206862.jpg</media:thumbnail>
+			<dc:creator>홍윤지 기자</dc:creator>
+		</item>
+		<item>
+			<title>"헌재, 오로지 헌법과 양심에 따라 판단하길"…한국법학교수회, 尹 탄핵 선고 기자회견</title>
+			<description>한국법학교수회(회장 최봉경 서울대 법학전문대학원 교수)는 2일 국회 소통관에서 기자회견을 열고 윤석열 대통령 탄핵 선고 관련 시국성명서를 발표했다. 이날 기자회견에는 최봉경 회장, 이상훈 사무처장, 전종익·김연미 대의원, 고명수 이사, 윤준영 사무국장, 김한규 더불어민주당 의원 등이 참석했다.&lt;br /&gt;&lt;br /&gt;최 회장은 "법이 능사가 아니고 법이 만능이 되어서도 아니 된다"며 "법에 정해진 권한이라도 균형 잡힌 절제된 행사가 필요하다"고 강조했다. 이어 "헌법은 극단적 대립이 아니라 서로 부대끼며 함께 살아가는 가치다원적 사회를 지향하고 있다"며 "양보와 타협, 상호 존중의 정신이 절실히 필요한 때"라고 제언했다. &lt;br /&gt;&lt;br /&gt;한국법학교수회는 제5차 시국성명서를 통해 "대통령 탄핵 심판은 우리 헌정질서의 수호·유지를 위한 중차대한 사건"이라며 "헌재가 사회적 혼란을 최소화하기 위해 곧 대통령 탄핵 심판 결정을 선고하기로 한 것은 다행이 아닐 수 없으며 오로지 헌법과 양심에 따라 판단하길 바란다"고 당부했다. &lt;br /&gt;&lt;br /&gt;그러면서 "이것이 헌재가 헌법의 가치를 수호하고 헌법기관으로서 품위를 지킬 수 있는 유일한 길이자, 헌정질서의 회복을 열망하는 국민 모두에게 가장 시급하고 긴요한 일"이라고 덧붙였다.</description>
+			<pubDate>Thu, 03 Apr 2025 04:07:16 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/206848</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/206848</guid>
+			<dc:creator>김지현 기자</dc:creator>
+		</item>
+		<item>
+			<title>[속보] 尹, 4일 탄핵 심판 선고 기일 불출석</title>
+			<description>&lt;p style="text-align: center; "&gt;   &lt;img src="https://image.lawtimes.co.kr/thumb/180/206861.jpg" alt="lawtimes.jpg" /&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;&lt;span style="caret-color: #3f3f3f; color: #3f3f3f; font-family: Gulim; font-size: 14px; letter-spacing: -0.65px;"&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style="font-weight: bold;" serial="8480"&gt;윤석열&amp;nbsp;&lt;/span&gt;대통령이 자신에 대한 헌법재판소 탄핵 심판 사건 선고 기일에 불출석한다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;윤 대통령의 변호인단은 4일 오전 11시 열리는 "(헌재) 탄핵 심판 선고기일에 윤 대통령은 출석하지 않기로 결정했다"고 3일 밝혔다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;변호인단은 "혼잡이 우려되는 상황에서 질서 유지와 대통령 경호 문제를 종합적으로 고려했다"고 설명했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;헌재가 국회의 탄핵소추를 인용하면 윤 대통령은 파면된다. 기각 또는 각하할 경우 즉시 직무에 복귀한다. 파면 결정을 위해선 현직 재판관 8인 가운데 6인 이상의 찬성이 필요하다.&lt;/p&gt;</description>
 			<pubDate>Thu, 03 Apr 2025 03:01:34 -0000</pubDate>
 			<category>news</category>
 			<link>https://www.lawtimes.co.kr/news/206861</link>
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/206861</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/206861.jpg</media:thumbnail>
-			<dc:creator>인터넷 기자</dc:creator>
+			<dc:creator>우빈 기자</dc:creator>
 		</item>
 		<item>
 			<title>영산법률문화재단 신임 이사장에 이인복 전 대법관</title>
@@ -218,26 +237,6 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/206833</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/206833.jpg</media:thumbnail>
 			<dc:creator>박수현 기자</dc:creator>
-		</item>
-		<item>
-			<title>"독방 없대요" 다인실 쓰는 변호사들</title>
-			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/206825.jpg" alt="2342526.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;로펌들이 사무실 공간 확보에 어려움을 겪으면서 일부 로펌에서 저연차 변호사들에게 다인실을 제공하는 사례가 늘고 있다. 변호사 수 증가로 공간 부족 문제가 심화되자 개방형 사무실 도입해야 한다는 의견이 나오는가 하면 변호사에게 1인실을 제공해 온 관행이 깨졌다는 불만도 나온다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;   &lt;b&gt;&lt;a href="https://www.bkl.co.kr/law?lang=ko" target="_blank"&gt;법무법인 태평양&lt;/a&gt;&lt;/b&gt;은 1년차 변호사에게는 다인실을, 2년차 이상부터는 1인실을 제공해 왔다. 그런데 최근에는 이를 지키지 못하고 있다. 태평양 소속 변호사는 “아직 개인실을 배정받지 못했다”며 “회사에서 건물 확장 후 1인실을 배정해 준다고 설명을 들었다”고 말했다. &lt;b&gt;&lt;a href="https://www.kimchang.com/ko/main.kc" target="_blank"&gt;김·장 법률사무소&lt;/a&gt;&lt;/b&gt;와 &lt;b&gt;&lt;a href="https://www.jipyong.com/kr/main/main.php" target="_blank"&gt;법무법인 지평&lt;/a&gt;&lt;/b&gt;도 일부 변호사들에게 다인실을 제공하고 있다. &lt;b&gt;&lt;a href="https://www.law-lin.com/" target="_blank"&gt;법무법인 린&lt;/a&gt;&lt;/b&gt;은 공유 오피스를 활용 중이다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;로펌 입장에서 다인실은 궁여지책이다. 변호사 수가 늘면서 사무 공간이 부족해졌기 때문이다. 태평양 관계자는 “과밀화는 대부분의 회사가 겪고 있는 문제일 것"이라며 "건물 한 층을 추가로 확보하는 공사를 진행 중이지만, 건물 내 다른 입주사가 있어 임차가 쉽지 않은 상황이다”라고 말했다. 김·장 관계자는 “내부 공사로 일시적으로 공간이 부족한 상황”이라고 말했다. 지평 관계자도 “공간 사정 등을 반영해 일부 변호사가 다인실을 쓰는 경우가 있다”고 했다. 린 관계자는 “공간 부담으로 공유 오피스 사용을 권장하고 있다”고 말했다.&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;로펌들은 다인실이 신입 변호사의 조직 적응에 긍정적인 영향을 줄 수 있다고 보고 있다. 태평양 관계자는 “신입 변호사들이 다양한 업무를 경험하는 ‘풀(Pool) 제도’를 활성화하기 위해서는 선배·동기들과의 자유로운 교류가 가능한 공간이 필요하다”고 했다. 지평 측도 “빠른 소통이 가능해 업무 효율이 높은 장점이 있다”고 했고, 린 관계자 역시 “공유 오피스 도입 이후 변호사들 간 협업이 강화됐다”고 말했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;해외 로펌들 중에는 개방형 사무실을 도입한 사례가 많다. 미국의 프라이드 프랭크(Fried Frank)는 2018년 워싱턴 사무소에 인턴과 신입 변호사를 위한 ‘네이버후드(Neighborhood)’ 공간을 마련했다. 이 공간은 책상과 협업 공간, 전화 부스, 휴게 공간 등이 마련된 완전 개방형 사무실이다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;호주의 대표 로펌 길버트+토빈(Gilbert+Tobin)은 2016년 시드니 사무소에서 개인 사무실을 모두 없애고 개방형 사무실을 도입했다.&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;다인실을 사용 중인 일부 저연차 변호사들은 불만이다. 대형 로펌의 한 변호사는 “고객과 통화할 때나, 검수를 받으러 갈 때 불편한 면이 있다”고 말했다. 다른 대형 로펌의 변호사는 “아무래도 다인실을 쓰게 되면 조심해야 하는 부분이 있다”며 “대부분의 변호사들은 선호하지 않을 것 같다”고 말했다.&lt;/p&gt;</description>
-			<pubDate>Tue, 01 Apr 2025 20:06:02 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/206825</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/206825</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/206825.jpg</media:thumbnail>
-			<dc:creator>박수현 기자</dc:creator>
-		</item>
-		<item>
-			<title>[판결] 변호사 운전기사는 가사사용인 아닌 근로자</title>
-			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/thumb/180/206824.jpg" alt="206824.jpg" /&gt;&lt;/p&gt;&lt;p&gt;   &lt;b&gt;&amp;nbsp;&lt;/b&gt;&lt;/p&gt;&lt;b&gt;[법원 판결]&lt;/b&gt;&lt;br /&gt;변호사의 출·퇴근 운전기사로 고용된 사람은 가사사용인이 아니며 근로기준법상 근로자에 해당된다는 법원 판단이 나왔다.&lt;p&gt;&amp;nbsp;   &lt;/p&gt;&lt;p&gt;서울북부지법 민사30단독&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="3655"&gt;김관중&amp;nbsp;&lt;/span&gt;판사(전담법관)는 2024년 11월 20일 A 씨가 B 씨와 B 씨의 배우자 C 씨를 상대로 낸 임금 청구소송에서 원고일부승소 판결했다(&lt;b&gt;2023가소440267&lt;/b&gt;).&lt;br /&gt;&lt;b&gt;&lt;br /&gt;[사실 관계]&lt;/b&gt;&lt;br /&gt;A 씨는 2017년 11월부터 2023년 8월까지 B 씨 부부를 위한 자동차 운전 업무에 종사했다. B 씨는 한 법무법인의 고문 변호사로서 서울 서초구 소재 법인 사무실에 출근해 근무했다. 이 과정에서 A 씨는 B 씨와 B 씨의 손자를 집에서 태워 손자가 다니는 학교를 거쳐 법무법인 건물까지 운전했고, 건물 경비실에서 오후까지 대기하다가 오후 2시 30분경 손자의 학교에 가서 다시 태워 인근 학원에 데려다줬다. 이후 B 씨의 법무법인 건물로 복귀해 오후 4시 10분경 B 씨를 태우고 손자의 학원에 가서 손자를 태워 함께 B 씨의 집으로 돌아왔다. 또한 B 씨의 배우자 C 씨가 월 1회 병원에 갈 때 C 씨를 태우고 운전했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;A 씨는 "B 씨 부부에게 고용된 근로기준법상 근로자"라고 주장하면서 퇴직금과 해고예고 수당을 지급하라고 청구했다. 그런데 B 씨 부부는 "A 씨가 가사사용인으로서 근로기준법 적용 대상이 아니다"라고 맞섰다.&lt;br /&gt;&lt;b&gt;&lt;br /&gt;[법원 판단]&lt;/b&gt;&lt;br /&gt;김 판사는 A 씨가 근로기준법상 근로자이고, B 씨 부부의 가사사용인에 해당하지 않는다고 판단했다. 이에 따라 A 씨에게 퇴직금과 해고예고수당을 지급하라고 했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;김 판사는 "가사사용인에 대해 근로기준법 적용을 배제한 입법취지는 가정의 운전기사·가정부·파출부 등 주로 사생활과 관련된 업무를 수행하는 피용자에 대해 근로시간이나 임금 등 근로조건에 관한 규제를 통한 국가적 감독 행정을 미치게 하는 것이 바람직하지 않기 때문이라는 데 있다"며 "A 씨는 B 씨의 변호사 업무를 위한 출퇴근, 손자의 등하교, C 씨의 병원 왕래 등에 필요한 운전 업무를 제공하기 위해 고용됐고, A 씨가 가사사용인에 해당한다는 B 씨 부부의 주장은 받아들일 수 없다"고 밝혔다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;김 판사는 A 씨의 고용주로 B 씨 부부가 아닌 B 씨만 인정된다고 봤다. 김 판사는 "A 씨의 근무 기간 동안 임금이 주로 C 씨의 예금계좌에서 이체되긴 했으나, B 씨가 변호사 업무를 위한 출퇴근과 함께 손자의 등하교, C 씨의 병원 왕래 등을 위해 A 씨를 고용했다고 인정돼 C 씨가 공동 고용주의 지위에 있다고 인정하기는 어렵다"고 설명했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
-			<pubDate>Tue, 01 Apr 2025 20:06:00 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/206824</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/206824</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/206824.jpg</media:thumbnail>
-			<dc:creator>한수현 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
