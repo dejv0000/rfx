@@ -13,6 +13,87 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>법원, 방통위 ‘KBS 신임 감사’ 임명 집행정지 신청 기각</title>
+      <link>https://www.chosun.com/national/court_law/2025/04/04/2GPZKUYJ2RG65M2N46BPDEW35M/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/04/04/2GPZKUYJ2RG65M2N46BPDEW35M/</guid>
+      <dc:creator>김은경 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 04 Apr 2025 10:52:25 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OEBZGNT3UENMGFESEC5IEXVBUA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 영등포구 KBS 사옥. /뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;박찬욱 전 한국방송공사(KBS) 감사가 ‘2인 체제’ 방송통신위원회의 신임 KBS 감사 임명에 반발해 낸 집행정지 신청이 법원에서 받아들여지지 않았다.&lt;br&gt;&lt;br&gt;서울행정법원 행정11부(재판장 김준영)는 4일 박 전 감사가 방통위를 상대로 제기한 KBS 감사 임명 처분 집행정지 신청을 기각했다. &lt;br&gt;&lt;br&gt;이진숙 방통위원장과 김태규 부위원장으로 구성된 ‘2인 체제’의 방통위는 지난 2월 28일 정지환 전 KBS 보도국장을 신임 감사에 임명하기로 의결했다. 작년 12월 25일로 임기가 끝난 박 전 감사는 2인 체제에서 감사 임명이 이뤄진 것은 불법이라며 법원에 무효 확인 소송과 집행정지 신청을 냈다. &lt;br&gt;&lt;br&gt;방통위는 대통령이 지명한 2명과 국회가 추천하는 3명(여당 1명·야당 2명) 등 5인의 합의제 기구다. 그런데 국회 추천 방통위원 3자리가 작년 8월 이후 공석이 되면서 지금까지 2인 체제로 운영되고 있다. 현행법상 방통위 의결 정족수는 2인 이상이다.&lt;br&gt;&lt;br&gt;재판부는 이 같은 상황에서 감사위가 새 감사를 임명한 것이 명백하게 위법하다고는 볼 수 없다고 판단했다. “박 감사가 제출한 자료만으로 이번 임명 처분의 위법이 객관적으로 명백한 것이라는 점이 충분히 소명됐다고 하기 어렵다”고 했다.&lt;br&gt;&lt;br&gt;재판부는 또 “이미 3년의 임기를 마치고 후임자가 임명될 때까지 일시적·잠정적으로 감사 직무를 수행하는 지위에 있는 신청인(박 감사)이 신임 감사 임명으로 입는 손해의 정도는, 임기를 시작하는 후임자가 효력 정지로 입는 손해보다 크다고 할 수 없다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>뉴진스 부모들 “분열설 사실 아냐, 멤버들 서로 깊이 신뢰”</title>
+      <link>https://www.chosun.com/national/national_general/2025/04/04/H2QJVQGZSNHULNSQ43K257RO5E/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/04/H2QJVQGZSNHULNSQ43K257RO5E/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 04 Apr 2025 12:55:26 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QZYMB63OT5LXI73F2AXKCBSAUY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;그룹 뉴진스(왼쪽부터 하니, 민지, 혜인, 해린, 다니엘). /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그룹 뉴진스 멤버의 부모 측이 ‘멤버의 부모들 사이에 분열이 생겼다’라는 보도에 대해 “사실이 아니다”라는 입장을 밝혔다. 뉴진스는 현재 하이브 산하 레이블 어도어와 전속 계약 분쟁을 벌이고 있다. &lt;br&gt;&lt;br&gt;4일 뉴진스 멤버 민지, 하니, 다니엘, 해린, 혜인의 부모들은 소셜미디어를 통해 “일부 매체들을 통해 보도된 ‘멤버의 부모들 사이에 분열이 생겼다’는 내용은 전혀 사실이 아니다”라며 “오해를 바로잡기 위해 해당 입장을 밝힌다”라고 했다.&lt;br&gt;&lt;br&gt;부모들은 “멤버 5인은 모두 하이브로 돌아갈 수 없다는 확고한 입장을 가지고 있으며, 이는 각자 가족과 충분한 상의 끝에 내린 결정”이라며 “애초에 다섯 명 전원이 동의하지 않으면 법적 대응도 시작하지 않기로 약속한 만큼, 멤버들은 서로를 깊이 신뢰하고 단결하고 있다”라고 했다.&lt;br&gt;&lt;br&gt;이어 “현재도 멤버들은 동일한 입장을 고수하고 있으며, 저희 부모들 역시 자녀들의 의사를 전적으로 존중하며 변함없이 지지하고 있다”며 “멤버들은 현재 어려운 상황임에도 다섯 명이 자주 만나며 변함없는 우정을 이어가고 있고, 저희 부모들 역시 이러한 어려움을 계기로 더욱 주기적으로 소통하며 돈독한 관계를 이어가고 있다”고 했다. &lt;br&gt;&lt;br&gt;부모들은 “가족 간 분열, 멤버 이탈 등 근거 없는 루머가 기사화되는 것을 보며 당혹스럽고 유감스럽다”며 “마치 분열을 조장하려는 누군가의 의도가 느껴졌기에, 대응할 가치가 없다고 생각했었지만 특정 멤버들의 실명이 거론되는 수준에 이르렀기에 이 입장을 밝힌다”고 했다. &lt;br&gt;&lt;br&gt;뉴진스 미성년자 멤버 부모 사이에서 전속 계약 해지 소송을 위한 친권 행사에 이견이 발생했고, 이 문제를 해결하려고 가정법원에서 재판을 받았다는 의혹에 대해서는 “친권 문제는 한 개인의 가정사”라며 “해당 사안을 ‘어도어와의 법적 분쟁’과 연관 지어 악의적으로 활용하는 일이 앞으로 없길 바란다”고 했다.&lt;br&gt;&lt;br&gt;한편 뉴진스와 소속사 간의 전속 계약 분쟁은 지난해 4월 하이브와 민희진 어도어 전 대표의 갈등으로 시작됐다. 뉴진스 멤버들은 지난해 11월 29일부터 어도어의 의무 미이행 등을 이유로 전속 계약이 해지됐다고 주장하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>종교계 “법의 시간 끝나, 이젠 대화와 타협의 시간”</title>
+      <link>https://www.chosun.com/national/national_general/2025/04/04/44Q2UIOIAJEPHERUFIRKI3XHRU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/04/44Q2UIOIAJEPHERUFIRKI3XHRU/</guid>
+      <dc:creator>김한수 종교전문 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 04 Apr 2025 12:13:38 +0000</pubDate>
+      <content:encoded>종교계는 4일 윤석열 대통령 탄핵에 대한 헌재의 판단을 존중하고 화합을 이루자는 내용의 담화를 잇따라 발표했다.&lt;br&gt;&lt;br&gt;조계종 총무원장 진우 스님은 “이 엄중한 결정 앞에 국민 모두가 성숙한 자세로 법의 판단을 존중할 것을 간곡히 요청드린다”며 “정치적 입장과 생각은 다를 수 있지만 헌법 절차에 따른 최종적인 법적 판단을 존중하지 않는다면 그 피해는 고스란히 우리 국민 모두에게 되돌아올 것”이라고 말했다. 진우 스님은 또 “오늘의 판단은 끝이 아니라 더 나은 나라를 향한 새로운 시작”이라며 “우리가 지켜야 할 것은 한 사람의 권력도, 특정 이념도 아닌 이 나라의 민주주의와 국민의 삶”이라고 말했다.&lt;br&gt;&lt;br&gt;한국천주교주교회의 의장 이용훈 주교도 “윤석열 대통령 탄핵 심판이라는 법의 시간은 일단락됐다”며 “이제 바로 이어지는 정치의 시간에, 우리나라를 이끌어 갈 새 대통령을 잘 선출할 수 있도록 지혜를 모아야 하겠다”고 말했다. &lt;br&gt;&lt;br&gt;한국교회총연합(한교총·대표회장 김종혁 목사)은 성명을 통해 “헌재의 결정을 존중한다”며 “정부는 법이 정한 절차에 따라 대통령 선거를 차질 없이 수행하며, 여당과 야당은 국민적 갈등을 선동하지 말고 국회로 돌아가 상대를 인정하고 존중하면서 대화와 타협의 정치를 통해 대의민주주의를 복원하라”고 말했다. 한교총은 국민 분열을 막을 수 있는 권력구조로의 개편도 촉구했다.&lt;br&gt;&lt;br&gt;원불교는 나상호 교정원장 명의의 담화문을 통해 “헌법재판소의 결정을 존중해야 한다”며 “정치권은 갈라진 국민의 마음을 하나로 회복하기 위해 진정성 있는 사과가 절실히 필요하다”고 말했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>헌재 앞 ‘진공 작전’ 통했다...이번엔 찬반 집회 부상자 0명</title>
+      <link>https://www.chosun.com/national/national_general/2025/04/04/FKW72OCJCRFZRFIO64I5ZSTIZY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/04/FKW72OCJCRFZRFIO64I5ZSTIZY/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 04 Apr 2025 11:49:43 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QSNU5AAQNE6GNS4CXLMXLP65BM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;4일 오전 서울시 종로구 헌법재판소 주변 도로가 윤석역 대통령 탄핵 심판 선고를 앞두고 차벽으로 둘러 싸여 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;헌법재판소가 4일 윤석열 전 대통령의 탄핵소추안을 인용했지만 우려했던 극단적인 폭력 시위는 발생하지 않았다. 경찰이 헌재 반경 150ｍ를 진공 상태로 만든 이른바 ‘진공 작전’이 유효했다는 평가가 나온다.&lt;br&gt;&lt;br&gt;경찰은 탄핵 심판 선고 당일인 이날 헌재 반경 150m 이내를 차벽으로 둘러싸고 국회의원은 물론 누구도 접근을 불가능하게 하는 ‘진공 상태’로 만들었다. &lt;br&gt;&lt;br&gt;그 결과 경찰과 소방 당국에 따르면 이날 서울 종로 일대에서는 경상자 2명만 나왔다. 길을 걷다 넘어져 현장 처치를 받은 이들이었다. 사실상 이번 집회로 인한 부상자는 0명이다.&lt;br&gt;&lt;br&gt;현재까지 현행범으로 체포된 것은 남성 1명뿐이다. 이 남성은 탄핵이 인용되자 경찰 버스 유리창을 곤봉으로 깨다가 경찰 기동대원들에게 체포됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HESDV6IXPJARHL5YERLR7NH6GI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;헌법재판소가 윤석열 대통령에 대한 탄핵을 인용한 4일 오전 서울 안국역 인근에서 윤 대통령의 지지자들이 경찰 버스를 부수고 있다. /박성원 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 2017년 3월 10일 박근혜 전 대통령 탄핵 선고 당일 지지자들이 극도로 흥분해 항의하는 과정에서 사망자 4명이 발생했던 것과는 대조적이다.&lt;br&gt;&lt;br&gt;선고 직후 일부 탄핵 반대 시위대가 바리케이드를 향해 달려들거나 차로에 뛰어드는 등 돌발행동을 했지만 대기하던 경찰에 의해 이격 조치됐다. &lt;br&gt;&lt;br&gt;경찰은 이날 최고 단계 비상 체제인 ‘갑호 비상’을 발령하고 전국에 기동대 338개 부대 2만여 명을 배치했다.&lt;br&gt;&lt;br&gt;특히 종로·중구 일대는 특별범죄예방강화구역으로 설정해 8개 구역으로 나누고, 경찰서장 8명이 각 구역 ‘책임 서장’을 맡아 관리했다. &lt;br&gt;&lt;br&gt;‘갑호 비상’을 발동했던 경찰은 이날 오후 6시부로 근무 단계를 완화했다.&lt;br&gt;&lt;br&gt;경찰청 경비안전계는 이날 오후 6시부터 서울경찰청에는 가용 경찰력 50% 이내 동원이 가능한 ‘을호 비상’을, 다른 시·도 경찰청에는 비상 연락망과 출동 대기 태세를 유지하는 ‘경계 강화’를 각각 발령한다고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>이재명 ‘위증교사’ 항소심, 6월 3일 결심...7월쯤 선고할 듯</title>
+      <link>https://www.chosun.com/national/court_law/2025/04/01/S7FDISA3RBFVDNLEEK6C7EX7MA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/04/01/S7FDISA3RBFVDNLEEK6C7EX7MA/</guid>
+      <dc:creator>김은경 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 01 Apr 2025 07:16:47 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/N2JAEEP7XZNB3L5T2DS7NYFO3M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이재명 더불어민주당 대표가 1일 서울 서초구 중앙지법에서 열린 대장동 배임 및 성남FC 뇌물 의혹 1심 속행 공판에 출석하고 있다. 2025.4.1/뉴스1 ⓒ News1 박지혜 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이재명 더불어민주당 대표의 ‘위증 교사’ 사건 항소심 재판부가 다음달 20일 첫 정식 재판을 열기로 했다. 이어 6월 3일 두 번째 공판에서 변론을 마무리한다. &lt;br&gt;&lt;br&gt;서울고법 형사3부(재판장 이승한)는 1일 이 대표와 위증 혐의를 받는 김진성씨의 2차 공판준비기일을 열고 이같이 결정했다. 선고일은 추후 지정할 예정이나, 통상 변론 종결부터 선고까지 한 달 정도 걸리는 점을 감안하면 7월 초 선고 가능성이 높다. &lt;br&gt;&lt;br&gt;위증교사 사건은 이 대표가 변호사이던 2002년 방송사 PD와 함께 당시 김병량 성남시장의 비리를 파헤친다며 검사를 사칭해 취재한 일에서 시작됐다. 이 대표는 이 사건으로 벌금 150만원이 확정됐다. &lt;br&gt;&lt;br&gt;이후 2018년 경기지사 선거 토론회에서 이 대표는 검사 사칭 사건을 놓고 “제가 한 게 아닌데 누명을 썼다”고 말해, 허위사실 공표 혐의로 재판을 받았다. 김병량 전 시장의 수행비서였던 김씨는 법정에서 ‘이 대표가 누명을 썼다’는 취지로 증언했고, 이 대표는 무죄를 받았다. 이 대표는 해당 재판에서 김씨에게 거짓 증언을 시켰다는 혐의(위증교사)로 2023년 10월 기소됐다.&lt;br&gt;&lt;br&gt;지난해 11월 1심 재판부는 김씨의 위증 혐의를 인정해 벌금 500만원을 내렸으나 이 대표에게는 “거짓 증언을 해달라고 요구하거나 위증하도록 할 고의가 있었다고 볼 수 없다”며 무죄를 선고했다.&lt;br&gt;&lt;br&gt;검찰은 이에 “1심 재판부가 분리할 수 없는 사실관계를 무리하게 나눴고, 그 중 일부를 참이라고 판단해 전체 증언이 위증이 아니라고 판단했다”며 항소했다. 1심에서 “위증을 했다”고 자백했던 김씨는 “의견 내지 생각이었다”며 혐의를 부인하는 취지의 의견서를 2심 재판부에 제출했다.&lt;br&gt;&lt;br&gt;항소심 재판부는 이날 검찰 측이 신청한 김씨를, 이 대표 측이 신청한 신모 변호사를 증인으로 채택했다. 신 변호사는 2019년 이 대표 허위사실공표 혐의 재판의 변호인단 중 한 명으로, 김씨가 법정에서 증언하기 전 통화했던 인물이다.&lt;br&gt;&lt;br&gt;재판부는 다음달 20일 첫 공판에서 김진성씨에 대한 증인 신문을 진행하고, 이 대표와 김씨 사이 통화 녹음파일도 법정에서 재생하기로 했다. 6월 3일 두 번째 공판에서 신 변호사의 증인 신문을 진행한 뒤, 양측 최종 진술을 듣고 심리를 마무리할 계획이다.&lt;br&gt;&lt;br&gt;한편 이 대표는 이날 위증교사 사건 준비기일에 참석하지 않았다. 대신 위증교사 준비기일이 열린 312호 바로 옆 311호 법정에서 진행된 ‘대장동 사건’ 1심 재판에 출석했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>파주 주상복합 신축 현장서 떨어진 콘크리트에 맞아 1명 숨져</title>
+      <link>https://www.chosun.com/national/regional/2025/04/04/BFWSPGNG35AN5DAIUJJJQCBGYE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/04/04/BFWSPGNG35AN5DAIUJJJQCBGYE/</guid>
+      <dc:creator>김주영 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 04 Apr 2025 11:45:50 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VC2Z4NT6RMB7G6LBS65GME2FDU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;현대건설이 시공을 맡은 경기 파주시 한 주상복합 건설 현장에서 중대재해가 발생한 지점. /조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 파주시의 주상복합 건설 현장에서 근로자가 낙하물에 맞아 숨지는 사고가 발생해 경찰이 수사에 나섰다.&lt;br&gt;&lt;br&gt;4일 경기북부경찰청에 따르면 지난 달 15일 오후 3시 20분쯤 파주시 와동동에서 현대건설이 시공중인 주상복합 건설 현장에서 근로자 A(55)씨가 건물에서 떨어진 콘크리트 잔해를 맞고 병원으로 이송됐으나 4일 오전 숨졌다.&lt;br&gt;&lt;br&gt;이 콘크리트 잔해는 지름 약 12㎝, 두께는 5㎝ 정도로, 49층 높이 건물 상층부에서 떨어졌다.&lt;br&gt;&lt;br&gt;사고 당시 A씨는 안전모를 쓰고 있었으나 머리를 크게 다친 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰은 콘크리트 타공 작업을 했던 하청업체 소속 남성 2명을 업무상 과실치사 혐의로 입건했다.&lt;br&gt;&lt;br&gt;또 A씨가 사망함에 따라 현대건설의 중대재해처벌법 위반 여부도 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>부산 반얀트리 화재 시공사 회장 등 6명 구속</title>
+      <link>https://www.chosun.com/national/regional/2025/04/04/VCVNC4MOVFCPFOZ4Z5SD64NRXM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/04/04/VCVNC4MOVFCPFOZ4Z5SD64NRXM/</guid>
+      <dc:creator>부산=김주영 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 04 Apr 2025 11:08:25 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EDK4CAJWSBV7N6GMB6XDANCCWI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 2월 16일 부산 기장군 반얀트리 호텔 신축 공사장 화재 현장에서 경찰과 과학수사대 화재감식팀, 소방 당국, 국립과학수사연구원, 국립재난안전원 등 관계자들이 합동 감식을 하기 위해 이동하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 2월 6명이 숨진 부산 기장군 반야트리 리조트 화재 사고와 관련해 시공사인 삼정기업 경영책임자 등 6명이 구속됐다.&lt;br&gt;&lt;br&gt;4일 부산경찰청, 부산고용노동청에 따르면 부산지법 동부지원은 이날 중대재해 처벌 등에 관한 법률 위반 혐의로 삼정기업 박정오 회장과 박상천 대표에 대해 청구된 구속영장을 발부했다.&lt;br&gt;&lt;br&gt;산업안전보건법 위반과 업무상과실치사 혐의로 삼정기업 소속 현장소장과 하청업체 대표, 현장소장, 작업자 등 4명의 구속영장도 발부했다.&lt;br&gt;&lt;br&gt;이들은 지난 2월 반얀트리 리조트 화재 당시 화재 감시 인력을 배치하지 않는 등 안전, 보건 관리를 소홀히 한 혐의를 받는다.&lt;br&gt;&lt;br&gt;당시 현장에는 다수의 근로자가 용접, 절단 작업과 함께 여러 화기 작업을 하고 있었는데도 제대로 된 안전 조치가 이뤄지지 않은 것으로 조사됐다.&lt;br&gt;&lt;br&gt;법원은 이날 사안의 중대성과 증거인멸 우려 등을 고려해 구속영장을 발부했다고 밝혔다.&lt;br&gt;&lt;br&gt;경영 책임자가 중대재해처벌법 위반 혐의로 구속된 것은 화성 아리셀 화재 사고, 영풍 석포제련소 아르신 누출 사고에 이어 세 번째다.&lt;br&gt;&lt;br&gt;지난 2월 14일 오전 10시 51분쯤 부산 기장군 오시리아 관광단지 오랑대공원 인근의 ‘반얀트리 해운대 부산’ 신축 공사 현장에서 불이 나 작업자 6명이 숨졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>안양 로봇 제조공장서 불.. 대응 1단계 발령 진화중</title>
+      <link>https://www.chosun.com/national/regional/2025/04/04/RIOEIH7U5RBOXGUVEUAOOXZCZA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/04/04/RIOEIH7U5RBOXGUVEUAOOXZCZA/</guid>
+      <dc:creator>김주영 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 04 Apr 2025 10:30:22 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZNATOKVX724V3C52WTWO4NZAUY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;4일 오후 4시 23분쯤 경기 안양시 동안구의 한 산업용 로봇 제조공장에서 불이 나 소방당국이 진화중이다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;4일 오후 4시 23분쯤 경기 안양시 동안구의 한 산업용 로봇 제조공장에서 불이 났다.&lt;br&gt;&lt;br&gt;소방 당국은 신고를 받고 현장에 출동해 이 공장 3층에 있던 2명을 에어매트로 낙하하도록 했으며 4층 테라스에서 3명을 구조했다.&lt;br&gt;&lt;br&gt;구조자 5명 중 에어매트로 뛰어내린 2명은 목과 허리 통증을 호소해 인근 병원으로 이송됐다.&lt;br&gt;&lt;br&gt;공장 내부에 있던 약 50명은 스스로 대피해 화재로 인한 인명 피해는 발생하지 않았다.&lt;br&gt;&lt;br&gt;소방 당국은 오후 4시 40분쯤 큰 불길을 잡았다.&lt;br&gt;&lt;br&gt;하지만 불길이 확산할 우려가 있고, 불을 완전히 끄는 데 오래 걸릴 것으로 보고 이날 오후 5시 25분 대응 1단계를 발령해 진화 작업중이다.&lt;br&gt;&lt;br&gt;대응 1단계는 3∼7개 소방서에서 31∼50대의 장비를 동원하는 경보령이다.&lt;br&gt;&lt;br&gt;경찰과 소방 당국은 이 공장 3층 배전반에서 불길이 시작된 것으로 보고 정확한 화재 경위를 조사할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>귀가하는 초등학생에 “정치인 살해하겠다” 협박한 60대 입건</title>
+      <link>https://www.chosun.com/national/2025/04/04/HLXCGMVJ7ZAFPG47KAZK5GNZBI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2025/04/04/HLXCGMVJ7ZAFPG47KAZK5GNZBI/</guid>
+      <dc:creator>김주영 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 04 Apr 2025 10:17:04 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SK24OX4NX7LFMOQCFETMN3GATI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;귀가하는 초등학생에게 특정 정치인을 살해하겠다고 언급한 60대 남성이 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;4일 충남 천안동남경찰서는 공중협박죄 등의 혐의로 60대 A씨를 불구속 입건해 조사 중이라고 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 2일 오후 10시쯤 천안시 청당동의 한 초등학교 인근에서 귀가하는 학생들을 상대로 특정 정치인의 이름을 언급하며 “죽여버리고 싶다”고 말한 혐의를 받는다.&lt;br&gt;&lt;br&gt;신고를 받고 출동한 경찰은 A씨를 현행범으로 체포했다.&lt;br&gt;&lt;br&gt;경찰은 A씨를 상대로 자세한 범행 경위 등을 조사할 계획이다.&lt;br&gt;&lt;br&gt;지난 2일 천안에서는 유튜브 방송 중 살인을 예고한 40대 남성 B씨가 공중협박죄 적용 첫 사례로 검거된 바 있다. &lt;br&gt;&lt;br&gt;B씨는 지난달 31일 오후 6시 54분쯤 천안시 서북구 두정동 노상에서 유튜브 생방송을 진행하던 중 “누구 한 명 죽이고 싶다”는 발언을 해 공중을 협박한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;공중협박죄는 불특정 다수를 향한 살인 예고 등에 대한 처벌을 강화하기 위해 지난 달 18일부터 시행되고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>경찰, 尹 사저 앞 집회에 제한 통고...“법원 인근, 尹 재판에 영향”</title>
       <link>https://www.chosun.com/national/national_general/2025/04/04/X5IWYB3OIBGUHH5ZIWKYVTHTZE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/04/X5IWYB3OIBGUHH5ZIWKYVTHTZE/</guid>
@@ -835,69 +916,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/36OXAPNPJ7PBTTPDOHWXBOMESI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대구의 한 대형 병원 신생아중환자실에서 근무하는 간호사가 자신의 소셜미디어(SNS)에 올린 게시물. 신생아 환아 사진과 함께 "낙상 마렵다(낙상시키고 싶다)"는 글을 올렸다./온라인 커뮤니티 캡처&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대구 한 상급종합병원 신생아 중환자실에서 아기의 사진을 무단으로 올리고 폭언을 한 간호사 등을 경찰이 수사 중이다.&lt;br&gt;&lt;br&gt;대구경찰청은 아동 학대 등 혐의로 이 병원 간호사 A씨와 병원장 B씨 등을 입건했다고 3일 밝혔다. 이날 피해 아동의 부친이 A씨 등에 대한 고소장을 경찰에 제출하면서다.&lt;br&gt;&lt;br&gt;A씨는 지난달 31일 소셜미디어 인스타그램에 중환자실에 입원한 아기 사진과 함께 ‘낙상 마렵다(아기를 떨어뜨리고 싶다)’ 등 글을 올리고, 멸균 장갑을 끼지 않은 채 아기의 몸을 다룬 혐의 등을 받고 있다. 의료계에 따르면 신생아 중환자실은 면역력이 약한 아기나 중증 신생아들이 치료를 받는 병동으로, 감염 예방을 위해 의료진의 멸균 장갑 착용이 필수다.&lt;br&gt;&lt;br&gt;사건이 알려지면서 A씨는 병원 측에 사직 의사를 전달했다. 병원 측은 A씨를 근무에서 배제하고 수사 결과에 따라 징계할 방침이다. 대한간호협회는 “간호사 전체에 대한 신뢰를 흔드는 사안인 만큼 엄중한 조치가 이뤄지도록 관계 당국과 협력하겠다”는 입장문을 냈다.&lt;br&gt;&lt;br&gt;한편 피해 아동의 부친은 경찰에 “피해 아동과 가해 간호사가 더 있다는 제보를 받았다”는 의견을 전달했다. 경찰은 정확한 사건 경위와 추가 피해 아동 여부 등을 수사할 방침이다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>안산천 물들인 ‘시퍼런 물질’… 가정집서 흘러나왔다, 무슨 일?</title>
-      <link>https://www.chosun.com/national/national_general/2025/04/03/NERJBZDOJNHMJJ7CKTOZ5JA6DY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/03/NERJBZDOJNHMJJ7CKTOZ5JA6DY/</guid>
-      <dc:creator>문지연 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 03 Apr 2025 09:01:14 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VHIYPS45GPSWIHRZDYXJCFMQYY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한 가정집에서 유출된 수성페인트로 안산천 상류가 파랗게 물든 모습. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 안산시 안산천 상류가 파랗게 물들며 벌어진 소동의 원인이 밝혀졌다. 한 시민이 가정집에서 수성용 페인트 20ℓ를 무심코 흘려보낸 것이었다.&lt;br&gt;&lt;br&gt;3일 안산시에 따르면 전날 오후 6시쯤 “안산천 상류 벌말천에 파란색 물이 흐른다”는 시민 제보가 시청에 접수됐다. 환경정책과 공무원들이 현장을 점검한 결과, 하천엔 의문의 파란색 물질이 흐르고 있었다. 다행히 독성 물질이 유출됐을 때 발생하는 물고기 폐사 현상은 없었다.&lt;br&gt;&lt;br&gt;공무원들은 파란색 물질이 흘러나오는 하수관을 찾아 30여 분간 추적했고, 한 가정집에서 유출됐다는 사실을 확인했다. 이어 “집에서 20ℓ 파란색 수성 페인트를 하수구로 버렸다”는 당사자 진술도 받아냈다.&lt;br&gt;&lt;br&gt;안산시는 탱크로리 펌프차, 포크레인, 양수기, 부직포 등 장비를 총동원해 밤샘 정화 작업을 벌였다. 그리고 14시간 30여 분 만인 이날 오전 8시 30분쯤 페인트 제거를 완료했다. &lt;br&gt;&lt;br&gt;시 관계자는 언론에 “유출 당사자는 별생각 없이 페인트를 버린 것으로 보인다”며 “페인트가 독성 물질은 아니지만 폐기물로 분류됨에 따라 경찰에 고발할지를 검토해 조치할 예정”이라고 전했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>尹선고 일반인 방청 ‘하늘의 별 따기’... 20석인데 10만명 신청</title>
-      <link>https://www.chosun.com/national/court_law/2025/04/03/G66LZELMFJGBPGOKWFKBFCJX6M/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/04/03/G66LZELMFJGBPGOKWFKBFCJX6M/</guid>
-      <dc:creator>김나영 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 03 Apr 2025 08:55:32 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/R5O3AEYNBY56DTFTRSYAWURR2A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령에 대한 헌법재판소의 탄핵 심판 선고일을 하루 앞둔 3일 서울 종로구 헌법재판소 대심판정 모습./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;4일 헌법재판소에서 예정된 윤석열 대통령 탄핵 선고에 10만명에 가까운 시민들이 방청 신청을 했다. 경쟁률도 약 4800대1에 달해 역대 최고치를 기록했다.&lt;br&gt;&lt;br&gt;헌재는 3일 “오늘 오후 5시부로 종료된 윤 대통령 사건의 일반인 방청석 20석에 대해 총 9만6370명이 신청했다”며 “경쟁률은 4818.5대1″이라고 밝혔다. 지난 1일부터 사흘 간 하루에 약 3만명 꼴로 방청 신청을 한 셈이다. 앞서 박근혜 전 대통령 탄핵 심판 당시엔 일반인 방청석 24석에 1만9000여명이 몰렸는데, 이때보다 신청자가 약 5배 많다.&lt;br&gt;&lt;br&gt;지난 1일 헌재는 “4월 4일 오전 11시 헌재 대심판정에서 윤 대통령의 탄핵심판 사건 선고를 진행한다”며 “방송사의 생중계와 일반인 방청이 허용된다”고 밝혔다. 일반 방청을 신청하기 위해 수만 명이 몰리면서 헌재 홈페이지는 한때 접속 지연이 벌어지기도 했다. 헌재 홈페이지 접속자는 최다 9만명에 달했다. &lt;br&gt;&lt;br&gt;방청인 선정은 전자 추첨 방식으로 이뤄질 예정이다. 헌재는 추첨을 통해 뽑힌 당첨자에게 문자 메시지로 방청 절차를 안내할 방침이다. 선고 당일에는 청사 안전을 위해 미리 당첨된 방청객과 취재진 등만 헌재에 입장할 수 있다.&lt;br&gt;&lt;br&gt;한편 윤 대통령 대리인단은 “윤 대통령은 4일 예정된 탄핵심판 선고 기일에 출석하지 않기로 했다”고 밝혔다. 국회 측에서는 소추위원인 정청래 국회 법제사법위원장과 변호인단이 모두 출석할 예정인 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>부산 초중고에 ‘탄핵심판 생중계 시청 안내’ 공문</title>
-      <link>https://www.chosun.com/national/regional/yeongnam/2025/04/03/BJ5VJYH7DNCAVHZWWAPGGR2MC4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/yeongnam/2025/04/03/BJ5VJYH7DNCAVHZWWAPGGR2MC4/</guid>
-      <dc:creator>박주영 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 03 Apr 2025 08:21:06 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SSMKHRRX53BLM36LQX4TRNVDBE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산 부산진구 양정동 부산시교육청 전경./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산시교육청이 오는 4일 예정된 ‘헌법재판소의 대통령 탄핵 선고 생중계 시청 안내’ 공문을 3일 보냈다. 교육청 관계자는 “김석준 교육감의 지시사항”이라고 말했다. 이날 오전 취임한 진보성향 김 교육감이 낸 제1호 공문인 셈이다. &lt;br&gt;&lt;br&gt;김 교육감은 취임 후 가진 회의에서 “4일 오전 11시 역사적인 현장이 펼쳐진다. 이 시간이 헌법과 민주주의를 다시 생각하는 시간이 되기를 바란다”고 말한 것으로 알려졌다. &lt;br&gt;&lt;br&gt;시교육청은 이날 공문에서 “‘부산광역시교육청 학교민주시민교육 활성화 조례‘, ‘2025년 주요 업무계획 중 상호존중 민주시민교육‘에 따라 이 생중계를 민주시민교육 활동에 활용하기 바란다”고 밝혔다. &lt;br&gt;&lt;br&gt;다만 ‘학교교육공동체 협의를 거쳐 교육과정 운영상황을 고려해 자율시행. 교과(사회, 한국사 등)·창의적 체험활동 시간 등 활용, 교사의 정치적 중립 의무 준수해 교육’ 등의 유의사항을 덧붙였다.&lt;br&gt;&lt;br&gt;그러나 일각에선 “이 시점에 취임하자마자 이같은 공문을 보낸 것은 시청 안내가 아니라 권고로 읽힌다”며 “고도의 법 이념과 논리 등이 깔려 있고 서로 견해가 확연히 갈리는 사회 현안을 ‘민주시민교육‘이란 미명하게 초·중학생 등 아직 어린 학생들의 교실로 바로 끌어들이는 것은 교육적으로 바람직하지 않고 위험하다”는 지적이 나오고 있다.&lt;br&gt;&lt;br&gt;&amp;nbsp;&lt;br&gt;&lt;br&gt;&amp;nbsp;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>민노총 “탄핵 기각땐 총파업... 공장 멈추고 거리 나와 싸우자”</title>
-      <link>https://www.chosun.com/national/labor/2025/04/03/VYMN36I27VDHTJLREX4DPRTPUU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/labor/2025/04/03/VYMN36I27VDHTJLREX4DPRTPUU/</guid>
-      <dc:creator>정해민 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 03 Apr 2025 08:22:16 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HR4EBBKITJI5VEABIU2U3K42KI.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;양경수 민주노총 위원장이 3일 서울 종로구 안국역 6번 출구 인근에서 열린 '민주노총 확대 간부 결의대회'에서 구호를 외치고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 대통령의 탄핵 심판 선고를 하루 앞둔 3일 민주노총이 탄핵이 기각되면 전면 총파업에 돌입하겠다고 밝혔다.&lt;br&gt;&lt;br&gt;민주노총은 이날 대의원 대회를 열고 이런 내용을 담은 단일 안건을 의결했다. 재적 대의원 1782명 중 1177명이 참석해 만장일치로 안건을 통과시켰다.&lt;br&gt;&lt;br&gt;이에 따라 윤 대통령의 탄핵이 기각될 경우, 민주노총은 즉시 조합원 설명회·규탄 대회를 개최한다. 주말인 5일에는 비상 중앙집행위원회를 열어 총파업 방법을 구체화하고 7일부터 총파업에 들어갈 전망이다. 반면 탄핵이 인용되면 5일 전국에서 ‘파면 승리 대회’를 열기로 했다.&lt;br&gt;&lt;br&gt;양경수 민주노총 위원장은 “혹여라도 헌법재판소가 주권자의 명령에 반하는 판단을 한다면 민주노총은 조직적 명운을 걸고 그 즉시 거리로 뛰쳐나와야 한다”며 “공장을 멈추고, 컴퓨터를 끄고, 펜을 멈추고, 모든 것을 멈추고 거리로 달려 나와 함께 싸우자”고 밝혔다.&lt;br&gt;&lt;br&gt;그러나 민주노총은 현재 쟁의권을 지닌 사업장이 거의 없다. 쟁의권은 노조가 합법적으로 파업 등 쟁의 행위를 할 수 있는 권리를 뜻한다. 윤 대통령 탄핵 기각으로 총파업이 현실화하면, 민주노총은 쟁의권 없이 불법 정치 파업을 하게 되는 것이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>4일 탄핵 선고로 서울 시내 주요 도로 통제…버스 우회 운행</title>
-      <link>https://www.chosun.com/national/national_general/2025/04/03/QINPEMEDEFAFJAYYAM22NXDJP4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/03/QINPEMEDEFAFJAYYAM22NXDJP4/</guid>
-      <dc:creator>김영우 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 03 Apr 2025 08:31:53 +0000</pubDate>
-      <content:encoded>윤석열 대통령 탄핵 심판 선고일인 4일 율곡로와 삼일대로, 북촌로 등 서울 시내 곳곳의 주요 도로가 통제된다. 이 구간을 지나는 시내버스 노선은 정류소를 무정차 통과하거나 도로를 우회해 운행한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NEMTZAUOU5JUVDG6HLDZKAZV3E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령 탄핵심판 선고를 하루 앞둔 3일 서울 종로구 안국역 일대가 통제되고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;3일 서울시 등에 따르면, 이날 0시부터 헌법재판소 인근 율곡로 안국동사거리~창덕궁교차로, 삼일대로 안국역~낙원상가, 북촌로 재동초등학교~안국역 구간의 양방향 차량 통행이 제한되고 있다.&lt;br&gt;&lt;br&gt;윤 대통령 탄핵 심판 선고일인 4일에는 집회가 예상되는 주요 지점의 교통 통제도 이뤄질 예정이다. 종로와 세종대로, 한강대로, 한남대로 등이 대상이다. 서울시 관계자는 “현장 상황에 따라 경찰이 유동적으로 통행을 제한할 예정”이라고 말했다.&lt;br&gt;&lt;br&gt;이곳을 지나는 서울 시내버스 200여 노선도 경찰의 통제에 따라 버스 정류소를 무정차 통과하거나 도로를 우회해 운행한다. 서울시는 버스 정류소 안내판과 서울시 교통 정보 시스템 ‘TOPIS’ 등에 버스 운행 정보를 표시할 계획이다.&lt;br&gt;&lt;br&gt;한편 지하철 역시 상황에 따라 무정차 통과와 역사 폐쇄가 진행된다.&lt;br&gt;&lt;br&gt;서울 종로구 헌법재판소 인근에 있는 지하철 3호선 안국역은 이미 3일 오후 4시부터 무정차 통과를 시작했다. 6개 출구도 모두 폐쇄돼 5일 오전 1시까지 역 안으로 진입할 수 없다.&lt;br&gt;&lt;br&gt;당초 서울교통공사는 4일 오전 5시부터 역을 폐쇄하고 이날 첫차부터 열차를 무정차 통과시킬 예정이었지만, 경찰의 요청에 따라 계획을 앞당겼다.&lt;br&gt;&lt;br&gt;공사 관계자는 “선고일 전날부터 집회에 참석하기 위해 사람들이 안국역에 몰려들 위험이 있었다”고 말했다. 공사는 4일 오전 5시부터는 종로3가역 4·5번 출구도 폐쇄할 방침이다.&lt;br&gt;&lt;br&gt;역 근처에서 집회가 열릴 것으로 예상되는 1호선 종각역·시청역, 5호선 광화문역·여의도역, 6호선 한강진역·이태원역 등 11개 역은 현장 상황에 따라 무정차 통과와 역사 폐쇄를 진행한다. 주요 집회 지점을 지나는 2·3·5·6호선은 임시 열차를 각 2대씩 총 8대 편성한다.&lt;br&gt;&lt;br&gt;공사 관계자는 “안전 사고가 발생하지 않도록 최선을 다하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>인천 내항 1‧8부두 재개발, 뮤지엄파크 조성...인천시 ‘속도 낸다’</title>
-      <link>https://www.chosun.com/national/regional/2025/04/03/7PDW63ZWBRF3RI3G6IIK3EGQ7U/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/04/03/7PDW63ZWBRF3RI3G6IIK3EGQ7U/</guid>
-      <dc:creator>인천=이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 03 Apr 2025 08:19:24 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SNWL75KTRLYZ32FFYT6ZIN3KVA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;인천항 내항 전경./인천항만공사&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;원도심 균형 발전 등을 목표로 인천시가 추진하는 ‘제물포르네상스 프로젝트’의 핵심 사업인 ‘인천항 내항 1‧8부두 재개발 사업’이 속도를 낼 수 있게 됐다. 인천의 첫 시립미술관이 될 ‘인천뮤지엄파크’ 조성 사업도 청신호가 켜졌다. &lt;br&gt;&lt;br&gt;인천시는 내항 1‧8부두 재개발 사업과 인천뮤지엄파크 조성 사업이 최근 행정안전부의 지방재정 중앙투자심사에서 사업 타당성과 적합성 등을 인정받아 통과됐다고 3일 밝혔다. &lt;br&gt;&lt;br&gt;광역자치단체가 총사업비 300억원 이상의 신규 사업을 추진하려면, 행안부의 지방재정 중앙투자심사에서 반드시 통과해야 한다&lt;br&gt;&lt;br&gt;내항 1‧8부두 재개발 사업은 인천시 중구 북성동 인천항 내항 1‧8부두 42만9000㎡ 부지에 주거, 상업, 문화 복합 시설 등을 조성하는 내용으로 추진된다. 수도권 대표 해양 문화 공간으로 만들겠다는 게 인천시 구상이다.&lt;br&gt;&lt;br&gt;인천시는 항만재개발법에 따른 사업 계획 수립, 실시 계획 승인 등 절차를 연내에 마치고, 내년 상반기 단지 조성 공사를 시작할 예정이다. 단지 분양을 위한 활동도 함께 추진해 2028년 단지 조성 공사가 마무리되면 곧바로 시설물이 들어설 수 있게 할 방침이다. &lt;br&gt;&lt;br&gt;인천뮤지엄파크 조성 사업은 인천시 미추홀구 학익동 587의 53 일원 4만1170㎡ 부지에 지하 1층, 지상 2층, 연면적 3만7830여㎡ 규모의 미술관‧박물관과 연면적 1050여㎡ 규모의 예술공원 등을 신설하는 내용으로 추진된다. 2028년 준공을 목표로, 총사업비 3117억원이 투입된다. &lt;br&gt;&lt;br&gt;인천뮤지엄파크에 들어설 미술관은 인천시 첫 시립미술관이다. 박물관 공간은 연수구 옥련동에 있는 인천시립박물관이 이전해 사용하게 된다. 인천시는 시립박물관이 인천뮤지엄파크로 이전하면, 기존에 활용하던 옥련동 박물관 부지와 건물은 매각하는 방안을 검토 중이다. &lt;br&gt;&lt;br&gt;인천시는 인천뮤지엄파크가 문을 열면 시민들의 문화예술 분야 접근성이 크게 개선될 것으로 기대하고 있다. &lt;br&gt;&lt;br&gt;이번 행안부 지방재정 중앙투자심사에선 2028년까지 인천시 부평구 인천가족공원에 6만기 규모의 봉안당 등을 추가 건립하는 내용의 ‘인천가족공원(3-3단계 조성’ 사업과 인천 지역 벤처기업 지원을 위한 ‘인천스타트업파크 펀드 2호’ 조성 사업 등도 함께 통과됐다. &lt;br&gt;&lt;br&gt;유정복 인천시장은 “이번에 중앙투자심사를 통과한 사업들을 성공적으로 추진해 인천이 글로벌 도시로 도약하는 토대를 마련하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘文 지인에게 인사 청탁’ 김홍희 前 해경청장 구속 기소</title>
-      <link>https://www.chosun.com/national/court_law/2025/04/03/N2YDJWW34FFILLN6KAPBQTQGFY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/04/03/N2YDJWW34FFILLN6KAPBQTQGFY/</guid>
-      <dc:creator>유희곤 기자, 이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 03 Apr 2025 07:28:02 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FFPSVF5LT5J3HGEI4UPZQLTMMM.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;김홍희 전 해양경찰청장 /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지검 형사5부(부장 김태헌)는 문재인 전 대통령 인척이자 중학교·대학교 동문에게 승진을 청탁하고, 뇌물을 수수한 뒤 서해 경비함정 발주 사양을 낮춘 혐의(뇌물수수, 직권남용 등)로 김홍희 전 해양경찰청장을 3일 구속 기소했다.&lt;br&gt;&lt;br&gt;김 전 청장은 문 전 대통령의 인척인 한의사 이모씨에게 해경청장 승진을 청탁한 혐의를 받고 있다. 치안감이었던 김 전 청장은 이씨 측에 이력서를 보냈고, 한 번에 두 계급 위인 치안총감으로 승진해 2020년 3월 해경청장에 임명됐다. 이때 함정 부품 납품업체인 A사는 김 전 청장에게 승진 대가로 금품 제공을 약속하고, 이씨와 브로커 박모씨에겐 승진 청탁 명목으로 3년 6개월에 걸쳐 10억2000만여 원을 보낸 것으로 조사됐다. A사로부터 1012만원가량의 금품을 추가로 받은 김 전 청장이 A사에 해경 일감을 몰아줬다고 검찰은 보고 있다.&lt;br&gt;&lt;br&gt;이후 A사는 동해 경비함정 엔진 납품을 따냈고, 대가로 13억여 원을 이씨와 박씨가 관리하는 유령법인 계좌로 송금한 것으로 조사됐다. 검찰은 이씨를 알선수재 혐의로, A사 관계자 3명은 뇌물공여 등 혐의로 불구속 기소했다. 박씨는 지난 1월 구속 기소했다. 박씨는 문 전 대통령의 경남 양산 자택을 지어준 사람이라고 한다.&lt;br&gt;&lt;br&gt;A사는 해경이 서해 경비함정 도입을 추진하던 2020~2021년 김 전 청장에게 금품 3700만원을 제공한 것으로도 조사됐다. 해경은 이미 설계를 마친 상태였으나, 김 전 청장 지시로 설계를 변경했다고 한다. A사가 동해 경비함정에 납품한 것과 같은 엔진을 서해 경비함정에도 납품하기 위해 범행을 벌인 것으로 검찰은 의심한다.&lt;br&gt;&lt;br&gt;다만 검찰은 실제 이씨가 문 전 대통령에게 김 전 청장 승진을 실제 청탁했는지는 확인하지 못했다. 검찰 관계자는 “이씨의 구속영장이 두 차례 기각됐고, 이씨도 청탁 사실을 부인했고, 구체적인 물증도 나오지 않았다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>“월급 반 줄테니”…지인과 짜고 대리입영시킨 20대, 집유</title>
       <link>https://www.chosun.com/national/regional/2025/04/03/VBEJOJMITZEIPKSY4LHAW73QZY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/04/03/VBEJOJMITZEIPKSY4LHAW73QZY/</guid>
@@ -905,15 +923,6 @@
       <description/>
       <pubDate>Thu, 03 Apr 2025 07:21:27 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NEB72YMFAVHRJKGS7DXJM5DJ5A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원 로고. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;군 복무를 대신 해줄테니 월급을 반씩 나눠 갖자고 제안한 지인과 짜고 병역법을 위반한 혐의(대리입영)로 기소된 최모(22)씨에게 징역형의 집행유예가 선고됐다.&lt;br&gt;&lt;br&gt;대전지법 형사8단독 이미나 부장판사는 3일 사기, 병역법 위반, 위계 공무집행 방해 등의 혐의로 기소된 최씨에게 징역 1년 6개월에 집행유예 3년을 선고했다. 이와 함께 최씨에 대한 보호관찰도 명령했다.&lt;br&gt;&lt;br&gt;최씨는 인터넷 커뮤니티에서 알게 된 조모(20대)씨가 지난해 7월부터 자기를 대신해 군 복무할 수 있도록 신체검사를 받고 대리 입영하게 한 혐의로 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;별다른 직업이 없어 생활고를 겪던 조씨가 “군인 월급의 절반을 주면 대신 현역 입영해 주겠다”고 제안했고, 최씨가 이를 승낙하면서 범행이 이뤄진 것으로 조사됐다.&lt;br&gt;&lt;br&gt;최씨는 본인 인증 절차를 통과할 수 있도록 자기 신분증과 휴대전화 등을 조씨에게 넘겨줬다. 조씨는 건네받은 신분증 등을 병무청 직원들에게 제출하는 등 최씨 행세를 하며 입영 신체검사를 받고 지난해 7월부터 실제 강원도 모 부대에서 2달여간 군 생활을 했다. &lt;br&gt;&lt;br&gt;검찰 등에 따르면, 최씨 대신 입대한 조씨는 최씨의 신분증을 들고 강원도 홍천의 신병교육대에 입소했다. 군 입영 절차에 따라 병무청 직원이 신분증을 검사하는 등 신원 확인 절차를 거쳤지만 조씨는 아무런 제재 없이 대리 입대해 신분 확인 절차가 허술했다는 지적이 나왔다. 조씨는 20대 후반, 최씨는 20대 초반으로 나이 차가 있는 데다 체격도 다른 것으로 알려졌다.&lt;br&gt;&lt;br&gt;대리 입영 사건은 군 복무를 하지 않고 있는 최씨에게 병사 월급이 나온 것을 알게 된 최씨 가족이 병무청에 자진 신고하면서 범행이 드러났다. 공범 조씨는 “병사 월급이 예전처럼 적지 않은 데다 의식주를 해결하기 위해 입영했다”며 범죄 사실을 인정했다고 한다. 조씨는 과거 입대했다가 정신 건강 등을 이유로 중도 전역한 것으로 알려졌다. &lt;br&gt;&lt;br&gt;대리 입영 사례가 적발된 것은 1970년 병무청이 설립된 이후 처음이라고 한다.&lt;br&gt;&lt;br&gt;이 부장판사는 “최씨가 이미 2022년 입영 신체검사에서 4급 판정을 받았지만, 조씨와 짜고 보충역 대신 현역 입영을 지원해 입영 통지서가 발급됐기 때문에 병역법 위반죄가 인정된다”고 판단했다.&lt;br&gt;&lt;br&gt;이어 “피고인은 다른 사람에게 대리 신체검사를 받게 하고 입대까지 하게 해 국가 행정 절차 신뢰도를 심각하게 훼손했고, 급여까지 송금받아 죄질이 불량하다”며 “다만 대리입영 사실을 가족에게 알렸고, 지능이 낮아 사회적 의사소통·상호작용이 힘든 점, 조씨의 협박에 동조한 점 등 심신상태와 범행 경위를 살펴보면 참작할 사정이 있다”고 양형 이유를 밝혔다.&lt;br&gt;&lt;br&gt;앞서 춘천지법은 지난 2월 사기, 병역법 위반, 위계공무집행방해, 주민등록법 위반 혐의로 기소된 공범 조씨에 대해 징역 1년 6개월에 집행유예 2년을 선고했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“林道 늘려야”... 박완수 경남지사, 정부에 개선 촉구</title>
-      <link>https://www.chosun.com/national/2025/04/03/TYC3NOY4AJEEVEXN5ODPR3535I/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2025/04/03/TYC3NOY4AJEEVEXN5ODPR3535I/</guid>
-      <dc:creator>창원=김준호 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 03 Apr 2025 07:37:28 +0000</pubDate>
-      <content:encoded>경남 산청 등 영남을 할퀴고 간 대형 산불과 관련해 박완수 경남도지사가 정부와 여당에 임도(林道) 개설 등 제도적 개선을 촉구했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LERTIRAESVBGNG3KDPQLWNO65E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;박완수 경남도지사는 3일 국회에서 열린 ‘산불 피해 대책 당정협의회’에 참석해 임도 개설 등 제도 개선을 촉구했다. /경남도&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;3일 경남도에 따르면 박 지사는 국회에서 열린 ‘산불 피해 대책 당정협의회’에 참석해 이같이 요청했다. 박 지사가 언급한 임도는 소방차가 들어갈 수 있는 숲 속 찻길을 말한다. 지난 21일 오후 3시 26분쯤 산청에서 발생한 산불은 30일 오후 1시 큰불을 잡기까지 213시간 이어졌다. 험한 산악지형과 함께 임도 부족이 산불 장기화의 원인으로 꼽혔다. &lt;br&gt;&lt;br&gt;박 지사는 “산악 지형인데다, 국립공원 내에 임도가 없어 야간 진화대 투입이 어려웠다”며 “산불 예방과 신속한 대응을 위해 국립공원 내 임도 개설이 반드시 필요하다”고 했다. 산림청에 따르면 임도가 있는 산은 소방차가 숲 속 깊이 들어가 밤에도 진화 작업을 할 수 있어 산불 진화 효율이 5배 이상 높다. 임도로부터 1m 멀어질수록 산불 피해 면적이 1.55㎡ 증가한다는 조사 결과도 있다. 하지만 우리나라는 산림 1ha당 임도가 4.1m로, 독일(54m)이나 일본(24.1m)보다 임도 수가 적은 것으로 나타났다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ETSE7Z3LU2KR4BMRZKQ5CQICFI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 28일 경남 산청 산불을 끄기 위해 육군 치누크 헬기가 진화 작업을 벌이고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;박 지사는 “국립공원의 경우 임도뿐만 아니라 저수조 등 기본적인 진화 인프라가 전혀 갖춰져 있지 않은 상황이었다”며 “국립공원 관리 체계에 대한 검토가 필요하다”고 했다.&lt;br&gt;&lt;br&gt;야간에도 진화할 수 있는 대응 장비의 확충도 촉구했다. 이번 산불에서 큰 역할을 한 헬기의 경우 야간에는 안전 문제 등으로 투입하지 못했던 현실을 지적한 것이다.&lt;br&gt;&lt;br&gt;박 지사는 “야간에는 헬기도 못 띄우고, 사실상 장비 투입은 손을 놓는 수준이다”며 “드론이나 조명타워 등 특화된 야간대응 장비 확충에 대한 대책 마련이 시급해 보인다”고 했다. 이밖에 지자체가 운영하는 전문진화대의 처우 개선, 산불 피해 이재민 주거비 추가 지원, 국립 남부권 산불방지센터 설립, 산불 피해지역 지원 특별법 제정 등 23건의 정책과 사업을 정부와 여당에 건의했다.&lt;br&gt;&lt;br&gt;이날 당정협의회에는 경남‧경북‧울산 시도지사를 비롯해 권영세 국민의힘 비상대책위원장, 권성동 원내대표 등 국민의힘 지도부와 농림축산식품부 장관, 산림청장 등 관련 부처 장‧차관 등 관계자 30여명이 참석했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>미성년 여자친구 가스라이팅하고 상습 폭행...20대 남성 징역 5년</title>
@@ -941,15 +950,6 @@
       <description/>
       <pubDate>Thu, 03 Apr 2025 06:07:07 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LJ47OVNWTHRQHLPDFAKYSUDBZU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원 로고./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천과 경기지역 건설 현장에서 소속 노조원 채용을 요구하며 현장 소장 등을 협박해 5000만원을 뜯어낸 노조 간부들에게 유죄가 선고됐다. &lt;br&gt;&lt;br&gt;인천지법 형사11단독 김샛별 판사는 폭력 행위 등 처벌에 관한 법률상 공동공갈 혐의로 기소된 모 노조 지부장 A(56)씨에 대해 징역 1년에 집행유예 2년을 선고했다고 3일 밝혔다. 또 80시간의 사회봉사를 명령했다. &lt;br&gt;&lt;br&gt;A씨와 함께 기소된 노조 간부 B(53)씨 등 4명에겐 각각 징역 4~8개월에 집행유예 2년과 40~80시간의 사회봉사를 명령했다. 또 다른 노조 간부 C(39)씨에겐 벌금 200만원을 선고했다. &lt;br&gt;&lt;br&gt;A씨 등은 지난 2022년 2~8월 인천시 서구와 경기도 부천시 등 수도권 공사 현장에서 현장 소장 등 건설회사 관계자를 협박해 6차례에 걸쳐 5000여만원을 뜯어낸 혐의로 기소됐다. &lt;br&gt;&lt;br&gt;이들은 “우리 노조원을 채용해달라”고 요구한 뒤 거절을 당하면 고출력 확성기로 노조 가요 등을 틀어 주민들의 민원 신고를 유발한 것으로 조사됐다. &lt;br&gt;&lt;br&gt;또 외국인 근로자 불법 채용 등 불법 행위를 신고할 것처럼 압박한 다음, “노조원 고용이 어려우면 발전기금을 달라”고 요구한 것으로 파악됐다. &lt;br&gt;&lt;br&gt;김 판사는 “범행 경위와 내용, 횟수, 피해 정도 등에 비춰 사안이 가볍지 않다”며 “피고인 A씨는 받아낸 돈 일부를 개인적인 용도로 쓴 것으로 보인다”고 했다. &lt;br&gt;&lt;br&gt;이어 “피고인들이 잘못을 인정하며 반성하고 있고, 노조가 없어진 상태여서 재범 가능성이 높지 않아 보인다”며 “갈취한 금액 대부분을 노조 운영비 등 명목으로 사용한 것으로 보이는 점, 일부 피해 회사가 선처를 원하는 점 등을 고려했다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>신동호 EBS 사장 임명 효력정지 심문…‘2인 방통위’ 적법성 공방</title>
-      <link>https://www.chosun.com/national/court_law/2025/04/03/MA4VJYJFRNC3HMM6LFSXEJMAM4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/04/03/MA4VJYJFRNC3HMM6LFSXEJMAM4/</guid>
-      <dc:creator>김은경 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 03 Apr 2025 05:40:46 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5WUTPSFVMNITXM7A334L2AFS6A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김유열 EBS 현 사장이 3일 서울 서초구 서울행정법원에서 열리는 신동호 사장 임명 집행정지 신청 심문기일에 출석하기 전 입장을 밝히고 있다./ 연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;신동호 한국교육방송공사(EBS) 신임 사장 임명의 효력을 멈춰달라며 전직 EBS 사장이 제기한 가처분 신청의 심문이 3일 열렸다&lt;br&gt;&lt;br&gt;서울행정법원 행정2부(재판장 고은설)는 이날 오전 김유열 전 EBS 사장이 방송통신위원회를 상대로 낸 사장 임명 처분 효력 정지 가처분 신청의 심문을 진행했다. 신청인인 김 전 사장은 직접 법정에 출석해 “불법적 임명으로 경영권을 일거에 박탈당했다”고 말했다.&lt;br&gt;&lt;br&gt;이날 심문에서는 방통위 ‘2인 체제’에서 나온 의결이 적법한지가 쟁점이 됐다. 현행법상 방통위는 대통령이 지명한 2명과 국회가 추천하는 3명(여당 1명·야당 2명) 등 5인으로 구성되는데, 작년 8월 말 국회 추천 방통위원 3자리가 공석이 되면서 지금까지 ‘2인 체제’로 운영되고 있다. 방통위 의결 정족수는 2인 이상으로, 지난달 26일 방통위는 2인의 의결로 신동호 신임 EBS 사장을 임명했다.&lt;br&gt;&lt;br&gt;김유열 전 사장 측은 2명만으로 구성된 방통위 의결에 대한 절차적 위법 논란이 계속되고 있고, 위법성을 인정한 법원 결정과 판결이 수차례 있었다는 취지로 주장했다. 김 전 사장 대리인은 “지난해 2인 체제로 (MBC 대주주인) 방송문화진흥회 신임 이사를 임명했을 때도 행정법원이 위법하다고 판단했고 대법원에서 확정됐다”고 했다.&lt;br&gt;&lt;br&gt;이에 방통위 측은 지난달 헌법재판소의 이진숙 방통위원장 탄핵심판 선고에서 ‘2인 체제’에 대한 판단이 4대4로 갈린 것을 들어 명백한 위법이 아니라고 주장했다. 방통위 대리인은 “대법원 전원합의체 판례에 따르면 행정 처분이 무효가 되려면 일반인이 보기에도 명백하게 무효(위법)임이 인정돼야 한다”며 “헌재에서 4대4로 판결이 갈렸다는 것은 ‘명백하게 무효’라는 조건을 충족하지 못 했다는 것”이라고 했다. &lt;br&gt;&lt;br&gt;이에 김 전 사장 대리인은 “반대로 헌법재판관 8인 중 4인은 방통위원장이 ‘2인 체제’ 의결을 강행한 것이 파면될 정도로 중대한 법 위반이라고 판단했다”며 “이를 헌재가 2인 체제 의결을 적법하게 본 것이라고 주장하는 건 헌재 결정 취지를 왜곡하는 것”이라고 했다.&lt;br&gt;&lt;br&gt;법정에서는 김 전 사장이 신 사장 임명에 대해 다툴 수 있는 자격이 있는지를 놓고도 공방이 벌어졌다. 김 전 사장은 지난달 7일로 임기가 끝났으나 ‘후임자가 임명될 때까지 그 직무를 수행한다’는 EBS법에 따라 사장직을 계속 수행하던 가운데 방통위가 신 사장을 임명했다. &lt;br&gt;&lt;br&gt;방통위 대리인은 “김 전 사장의 임기는 이미 끝난 상태이고, 신임 사장이 임명된 순간 법적으로 사장 자격이 종료됐다“고 주장했다. 이어 “이번 효력 정지가 인용된다고 하더라도 신청인의 종료된 임기가 재개되는 것은 아니다”라고 했다. 행정소송을 내려면 행정청의 위법한 처분으로 신청인의 회복하기 어려운 손해를 예방하기 위한 긴급한 필요가 있어야 하는데, 신임 사장이 임명됐다고 해서 김 전 사장이 손해를 본 게 없다는 주장이다.&lt;br&gt;&lt;br&gt;김 전 사장 측은 이에 “임명 처분이 취소되거나 무효가 되면 적법한 후임자가 임명되지 않은 상태가 되기 때문에 정관·규정에 따라 사장으로 복귀한다고 봐야 한다”고 맞섰다. 이어 “(사장으로서 받는) 보수 등 경제적 이익뿐 아니라 방송·교육 분야 전문가로서 가치관을 실현하는 것은, 적법한 후임자가 임명되기 전까지 신청인이 누릴 수 있는 이익이기 때문에 가처분을 신청할 조건이 충분하다”고 했다.&lt;br&gt;&lt;br&gt;법정에 출석한 김 전 사장은 발언권을 얻어 “EBS는 정치적 중립을 가장 모범적으로 지켜 온 공영방송사”라며 “불법적 임명으로 유사 이래 처음으로 정치적 중립성이 흔들리고 있다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>8대0 만장일치부터 4대4 기각까지… 쏟아지는 예측, 나름 이유 있다</title>
