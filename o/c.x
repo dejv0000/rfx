@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>조두순, 아이들 하교 시간에 또 무단 외출… “형사 입건 검토”</title>
+      <link>https://www.chosun.com/national/national_general/2025/04/05/UMQ6HXBAMJFI7JSWAS2QPXK3DM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/05/UMQ6HXBAMJFI7JSWAS2QPXK3DM/</guid>
+      <dc:creator>박선민 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 04 Apr 2025 21:43:12 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YC6EQTCZR5KHVBB2WUYLZTDOXU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;야간 외출 제한 명령을 어기고 집을 나섰다 적발돼 전자장치 부착 등에 관한 법률 위반 혐의로 불구속 기소된 아동 성범죄자 조두순이 작년 3월 11일 오전 경기도 안산시 수원지방법원 안산지원에서 열린 첫 공판을 마치고 나오며 취재진 질문에 답하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;아동 성범죄자 조두순이 2023년 12월 외출 제한 명령을 어긴 데 이어 또 다시 무단 외출한 것으로 파악됐다. &lt;br&gt;&lt;br&gt;5일 연합뉴스에 따르면, 조두순은 지난달 30일 오후 5시 30분쯤 거주 중인 다가구주택 내 거주지를 나서 이 건물 1층으로 내려갔다.&lt;br&gt;&lt;br&gt;조두순은 현장에 있던 보호관찰관이 이를 제지하자, 수 분 뒤 집으로 돌아간 것으로 전해졌다.&lt;br&gt;&lt;br&gt;현재 조두순의 외출 제한 시간은 등·하교 시간대인 오전 7~9시 및 오후 3~6시와 야간 시간대인 오후 9시부터 이튿날 오전 6시까지이다.&lt;br&gt;&lt;br&gt;안산보호관찰소는 전자장치 부착 등에 관한 법률 위반 혐의로 조두순을 형사 입건 조처하는 방안을 검토 중이라고 한다. &lt;br&gt;&lt;br&gt;조두순의 무단 외출은 처음이 아니다. 앞서 그는 2023년 12월 4일 오후 9시 5분쯤 오후 9시 이후 야간 외출 금지 명령을 위반한 혐의로 징역 3개월을 선고받고 복역한 바 있다. &lt;br&gt;&lt;br&gt;당시 조두순은 빌라 공동 현관문으로부터 6∼7ｍ 거리에 위치한 방범 초소로 걸어와 근무 중이던 경찰관 2명에게 말을 건 것으로 조사됐다. 경찰관이 귀가를 설득했으나, 한동안 거부하다 약 40분만에 귀가한 것으로 파악됐다. 그는 “아내와 다퉜다”며 가정불화 등을 이유로 댄 것으로 알려졌다. &lt;br&gt;&lt;br&gt;작년 3월 20일 1심에서 징역 3개월을 선고받은 조두순은 곧바로 법정 구속됐고, 같은 해 6월 19일 수원구치소에서 출소해 주거지로 돌아갔다. &lt;br&gt;&lt;br&gt;조두순은 2008년 12월 안산시 한 교회 앞에서 초등학생을 납치, 성폭행하고 중상을 입힌 혐의로 징역 12년형을 선고받았다. 조두순은 형기를 채우고 2020년 12월 12일 출소해 안산 모처에서 거주하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>尹이 지명한 정형식이 尹파면 결정문 썼다</title>
       <link>https://www.chosun.com/national/court_law/2025/04/05/5L3OQSW645EANPEGFWAMHCAMHQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/04/05/5L3OQSW645EANPEGFWAMHCAMHQ/</guid>
@@ -938,15 +947,6 @@
       <description/>
       <pubDate>Thu, 03 Apr 2025 15:53:00 +0000</pubDate>
       <content:encoded>서울중앙지검 형사5부(부장 김태헌)는 3일 경비함정 도입 과정에서 뇌물을 받고 성능 기준을 낮춰 일감을 몰아준 혐의(뇌물수수) 등으로 김홍희 전 해양경찰청장을 구속 기소했다. 검찰은 또 김 전 청장과 함께 금품을 수수한 현직 총경 2명과 뇌물을 준 A사 관계자 3명, 브로커 2명 등 7명도 기소했다.&lt;br&gt;&lt;br&gt;김 전 청장은 함정 장비 업체인 A사 관계자들의 도움으로 해경청장에 임명되자, A사가 해경 사업을 수주할 수 있도록 성능 기준을 낮추는 등 도운 혐의를 받고 있다. 김 전 청장은 그 대가로 2020년 4월부터 2022년 5월까지 A사 측으로부터 약 4790만원의 뇌물을 받은 것으로 조사됐다. &lt;br&gt;&lt;br&gt;실제 A사는 김 전 청장 임명 직후인 2020년 7월경 동해함 사업에 엔진을 납품하고, 이듬해 ‘서해함’ 사업에서도 엔진 납품을 수주하는 등 매출만 342억원에 이르는 것으로 파악됐다. 이 과정에서 김 전 청장은 A사에 유리하도록 함정 설계를 변경하는 등 편의를 제공한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;검찰 조사에서는 A사 관계자들이 문재인 전 대통령 인척인 한의사 이모씨 등에게 실제 김 전 청장의 승진을 청탁하고 10억원가량의 뇌물을 전달한 것으로 드러났다. 검찰은 이씨 등도 알선수재 혐의로 기소했지만, 실제 문 전 대통령 등에게 김 전 청장의 승진 청탁이 이뤄졌는지 여부는 확인하지 못했다고 한다. &lt;br&gt;&lt;br&gt;검찰 관계자는 “이 사건은 해경 최고위 간부와 업체 간 유착뿐만 아니라, 인사권자와 특별한 관계가 있는 브로커를 통한 승진 청탁, 사업 수주, 금품 수수가 연결된 고도의 부패 범죄”라고 설명했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>홍남표 창원시장 당선 무효형 확정</title>
-      <link>https://www.chosun.com/national/court_law/2025/04/04/KLG2OHRSKJB6XFSTVURLI7LKRI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/04/04/KLG2OHRSKJB6XFSTVURLI7LKRI/</guid>
-      <dc:creator>박혜연 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 03 Apr 2025 15:53:00 +0000</pubDate>
-      <content:encoded>당내 경선 후보자를 매수한 혐의 등으로 기소된 홍남표 경남 창원시장이 대법원에서 당선 무효형을 확정받았다. 양승태 전 대법원장이 홍 시장의 상고심 변호를 맡았지만, 원심의 유죄 판결을 뒤집지는 못했다.&lt;br&gt;&lt;br&gt;대법원 3부(주심 대법관 이숙연)는 3일 공직선거법 위반 혐의로 기소된 홍 시장에게 징역 6개월에 집행유예 1년을 선고한 원심을 확정했다. 이로써 홍 시장은 시장직을 잃게 됐다. 공직선거법상 선거 범죄로 벌금 100만원 이상의 형이 확정되면 곧바로 직을 상실하고, 피선거권도 박탈된다. &lt;br&gt;&lt;br&gt;홍 시장은 2022년 6·1 지방선거를 앞두고 자신의 캠프 총괄선대본부장과 공모해 국민의힘 당내 경선 경쟁 후보였던 A씨에게 경제특보 등 공직을 약속하며 출마를 포기하게 한 혐의로 2022년 11월 기소됐다.&lt;br&gt;&lt;br&gt;1심은 홍 시장이 A씨의 불출마를 유도하는 데 직접 관여했다는 증거가 부족하다며 무죄를 선고했으나, 2심은 홍 시장이 캠프 관계자와 공모해 A씨를 매수한 혐의를 유죄로 인정, 홍 시장에게 징역 6개월에 집행유예 1년을 선고했다. 대법원 역시 2심 판결에 잘못이 없다고 보고 홍 시장의 상고를 기각했다.&lt;br&gt;&lt;br&gt;홍 시장은 상고심에서 양 전 대법원장을 변호인으로 선임해 논란이 됐다. 양 전 대법원장은 ‘사법 행정권 남용’ 사건으로 기소됐다가 작년 1월 무죄를 선고받은 뒤 법무법인 클라스한결의 고문 변호사로 활동 중이다. 그는 현재 서울고법에서 2심 재판을 받고 있다.&lt;br&gt;&lt;br&gt;양 전 대법원장은 홍 시장 사건 외에도 산업안전보건법 위반 혐의로 기소된 중견기업 한신공영 사건 등 대법원 사건을 수임하면서 논란이 됐다. 전직 대법원장이 대법원 사건을 맡는 일은 법조계에서 이례적이기 때문이다. 한 부장판사 출신 변호사는 “전직 대법원장으로서 선후배 법조인들을 생각해 사건 수임에 신중해야 한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>광화문·안국역·한남동 관저 앞... 내일 15만명 집회 신고</title>
