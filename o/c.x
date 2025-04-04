@@ -13,6 +13,47 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>전한길 “예상과 달리 인용돼 당황... 결과 승복하겠다” </title>
+      <link>https://www.chosun.com/national/national_general/2025/04/04/Z7RPQHQQ3RA3VHGOTUTYWZTP5A/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/04/Z7RPQHQQ3RA3VHGOTUTYWZTP5A/</guid>
+      <dc:creator>박선민 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 04 Apr 2025 05:00:51 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/O7MQWMCVO5MFHIATVY75JV5UQU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt; 전한길 강사가 지난달 27일 경남 거제시 고현매립지에서 열린 국민의힘 박환기 거제시장 후보 집중유세에서 지지 발언을 하고 있다. /뉴시스
+&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 전 대통령 탄핵 반대를 주장해온 한국사 일타 강사 전한길씨는 4일 헌법재판소의 탄핵 인용 결정이 나오자, 당황스럽다는 반응을 보이면서도 결과에 승복하겠다고 밝혔다. &lt;br&gt;&lt;br&gt;전씨는 4일 자신의 유튜브 채널을 통해 헌재의 윤 전 대통령 탄핵 심판 선고 장면을 실시간으로 지켜보던 중 탄핵 인용이 확정되자 책상을 내려치면서 얼굴을 감싸쥐었다.&lt;br&gt;&lt;br&gt;전씨는 “전한길의 입장을 말씀드리겠다”면서 고개를 숙이고 한숨을 내쉰 뒤 “먼저 예상치 못한 결과를 봐서 많이 당황스럽다”고 했다. 이어 “저와 같은 입장에서 윤 대통령 탄핵 반대, 직무 복귀를 주장해오신 모든 국민 여러분께 제가 많이 부족했다는 생각이 든다”며 “미안하고 죄송한 마음”이라고 했다. &lt;br&gt;&lt;br&gt;전씨는 “우리가 추구한 가치는 (탄핵) 찬반을 떠나 국민 통합, 자유민주주의 수호, 법치·공정·상식 가치가 존중되는 사회를 만드는 것이었다”며 “개인의 이익을 위해서가 아니라 국가, 국민 그리고 미래 세대를 위해 투쟁했다. 진실하고 정직했으며, 보편적 가치를 추구해왔다고 생각한다”고 했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/M2OEO5PQ3RB5VN3IRXOI757SGE.png"&gt;&lt;figcaption&gt;&lt;small&gt;한국사 강사 전한길씨가 헌재 탄핵 인용 결정 소식을 듣고 말을 잊지 못하고 있다. /유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그러면서도 그는 헌재의 결정에 승복한다고 밝혔다. 전씨는 “어떤 결과가 나오든 결과에 승복하겠다고 약속드렸다”며 “저와 같은 뜻이었던 분들께 탄핵 선고 결과를 받아들이시길 부탁드린다. 이게 바로 우리가 추구하는 자유민주주의, 법치주의이기 때문”이라고 했다. &lt;br&gt;&lt;br&gt;전씨는 그러나 “헌재의 선고 내용 자체가 보편적 가치라고 생각하지는 않는다”고 했다. 그는 미국의 대표적인 오판 중 하나로 꼽히는 ‘드레드 스콧 판결’(1857년 미국 연방대법원이 ‘헌법은 백인만을 위해 제정된 것으로 흑인에게는 아무런 권리가 없으며 그들은 일종의 자산’이라고 선언한 사건) 사례를 들며 “헌재 결과에 대해서는 승복하지만, 이건 개개인에 대한 공격과 판결에 대한 저항을 자제해 달라는 것이지, 헌재 선고 내용 자체를 비판하지 말라는 것은 아니다”라고 했다. &lt;br&gt;&lt;br&gt;전씨는 “오늘의 패배는 하루짜리 패배일 뿐”이라며 “조기 대선에서 반드시 보수파가 승리해서 자유민주주의가 실현되고, 법치 공정 상식이 살아나는 대한민국을 후손과 미래 세대에 물려주도록 다시 한번 싸우자”라고 했다. &lt;br&gt;&lt;br&gt;이날 헌법재판소는 윤 전 대통령의 탄핵을 헌법재판관 8명 전원일치 의견으로 인용했다. 윤 전 대통령이 12·3 비상계엄을 선포한 때로부터 122일 만, 작년 12월 14일 탄핵소추안이 접수된 때로부터 111일 만이다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[속보] 尹 “국민 위해 일할 수 있어 큰 영광… 기대 부응 못해 죄송”</title>
+      <link>https://www.chosun.com/national/court_law/2025/04/04/LVNTXARHDJGTDAIQQFFMV2Z4CI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/04/04/LVNTXARHDJGTDAIQQFFMV2Z4CI/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 04 Apr 2025 04:58:09 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CZYSXHCRXJEBDCBHYCKHN26JLQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령이  지난 3월 8일 경기도 의왕시 서울구치소 앞에서 경호차량에서 내려 지지자들에게 인사하며 구치소를 나서고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;4일 헌법재판소가 윤석열 전 대통령의 탄핵을 전원일치 의견으로 인용했다. 윤 전 대통령은 “사랑하는 국민, 대한민국을 위해 일할 수 있어서 큰 영광이었다”며 “기대에 부응하지 못해 너무나 안타깝고 죄송하다”는 입장을 밝혔다. 다음은 윤 전 대통령의 입장 전문.&lt;br&gt;&lt;br&gt;사랑하는 국민 여러분,&lt;br&gt;&lt;br&gt;그동안 대한민국을 위해&lt;br&gt;&lt;br&gt;일할 수 있어서 큰 영광이었습니다.&lt;br&gt;&lt;br&gt;많이 부족한 저를&lt;br&gt;&lt;br&gt;지지해 주시고 응원해 주신 여러분께&lt;br&gt;&lt;br&gt;깊이 감사드립니다.&lt;br&gt;&lt;br&gt;여러분의 기대에 부응하지 못해&lt;br&gt;&lt;br&gt;너무나 안타깝고 죄송합니다.&lt;br&gt;&lt;br&gt;사랑하는 대한민국과&lt;br&gt;&lt;br&gt;국민 여러분을 위해&lt;br&gt;&lt;br&gt;늘 기도하겠습니다.&lt;br&gt;&lt;br&gt;윤석열 드림&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/4HT6JJEQLYDQ6BLWQ5G3ZSCE2E.jpg?width=2132&amp;height=1488&amp;auth=ff98b7e5608883dfbf42f3f280fe2d210eaad05a938e15c2b9b32a2029a1cf8a&amp;smart=true" type="image/jpeg" height="1488" width="2132">
+        <media:description type="plain">윤석열 대통령이 지난 24년 8월 29일 서울 용산 대통령실청사 브리핑룸에서 국정브리핑 및 기자회견을 마치고 퇴장하고 있다. (뉴스1 DB)2025.4.4/뉴스1 ⓒ News1 박지혜 기자</media:description>
+        <media:credit role="author" scheme="urn:ebu">뉴스1 ⓒ News1 박지혜 기자</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>양산 27층 아파트서 도장작업하던 60대 근로자 추락해 숨져</title>
+      <link>https://www.chosun.com/national/regional/2025/04/04/EHVIJMGT4JG43FQYOO642ZP4LU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/04/04/EHVIJMGT4JG43FQYOO642ZP4LU/</guid>
+      <dc:creator>양산=김주영 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 04 Apr 2025 04:07:41 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QPX47X24OW42GXCZ4KIVOWBZ2I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 3일 오후 1시 11분쯤 경남 양산시 동면 약 80ｍ 높이 27층 아파트 옥상에서 외벽 도장·보수작업에 투입된 60대 근로자 A씨가 지상으로 추락했다.&lt;br&gt;&lt;br&gt;이 사고로 A씨는 크게 다쳐 병원으로 이송됐으나 숨졌다.&lt;br&gt;&lt;br&gt;고용노동부 창원지청에 따르면 A씨는 이 아파트 도장·보수 작업을 맡은 원청업체가 일용직으로 고용한 근로자로 전해졌다.&lt;br&gt;&lt;br&gt;노동부 창원지청은 A씨가 작업을 시작하기 위해 달비계(공중작업을 할 수 있도록 매단 의자)에 타려다가 일어난 사고로 보고, 정확한 사고 경위를 조사하고 있다.&lt;br&gt;&lt;br&gt;또 A씨를 고용한 업체를 상대로 산업안전보건법과 중대재해처벌법 위반 여부도 조사 중이다.&lt;br&gt;&lt;br&gt;현장에는 달비계와 관련한 작업 중지 명령이 내려진 상태다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>지하철 6호선 한강진역 오후1시15분부터 운행 재개</title>
+      <link>https://www.chosun.com/national/national_general/2025/04/04/3NKN6MZMLZDMRJCQAFN7NDSAYY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/04/3NKN6MZMLZDMRJCQAFN7NDSAYY/</guid>
+      <dc:creator>박진성 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 04 Apr 2025 04:28:26 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IQ3UMMDMFVIP5OV74DKTYERZXI.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;4일 서울 용산구 한강진역이 무정차 통과를 실시하며 출입이 통제되고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울교통공사는 4일 “오후 1시15분부터 6호선 한강진역 폐쇄를 풀고 지하철을 정상운행한다”고 밝혔다.&lt;br&gt;&lt;br&gt;한강진역 주변 대통령 관저 인근엔 아침부터 많은 집회 인파가 모여 오전 9시부터 지하철을 무정차통과했다. 이어 9시35분 역사를 폐쇄했다.&lt;br&gt;&lt;br&gt;이날 오후 1시15분 기준 헌법재판소 앞인 3호선 안국역만 지하철을 무정차 통과하고 있다.&lt;br&gt;&lt;br&gt;이밖에 종각역, 시청역, 종로3가역, 을지로입구역, 경복궁역, 광화문역, 여의도역, 여의나루역, 이태원역, 버티고개역 등 주요 역은 안전사고 우려 시 무정차 통과를 시행하고, 필요시 경찰 인력 지원으로 출입구 차단 및 통제 조치를 시행한다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>박단 “윤석열 탄핵, 진심으로 환영한다”</title>
       <link>https://www.chosun.com/national/welfare-medical/2025/04/04/VGUENFOACBHE5CISXXB4XE6YZU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/04/04/VGUENFOACBHE5CISXXB4XE6YZU/</guid>
@@ -819,24 +860,6 @@
 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;유명 한국사 강사 전한길이 넷플릭스 인기 드라마 ‘폭싹 속았수다’에 특별출연했으나 통편집된 사실이 알려졌다.&lt;br&gt;&lt;br&gt;최근 온라인커뮤니티 등에서는 전한길이 2023년 자신이 활동하는 한국사 시험 카페에 올린 글이 화제가 됐다.&lt;br&gt;&lt;br&gt;전한길은 당시 이 글에서 ‘폭싹 속았수다’에 특별출연하게 됐다고 말했는데, 지난달 28일 최종회가 공개된 이후 전한길의 모습을 드라마 속 어디에서도 찾아볼 수 없게 되자 일부 시청자들이 의문을 제기한 것이다.&lt;br&gt;&lt;br&gt;전한길은 극중 금명(아이유)이 창업한 인터넷 강의업체 관련 장면에서 특별출연한 것으로 전해졌다. 그의 분량이 모두 편집된 것을 두고, 일각에서는 전한길이 정치색을 드러낸 것이 편집에 영향을 미친 것이 아니냐는 추측도 나왔다. 전한길은 지난 1월 말부터 윤석열 대통령 탄핵 반대를 주장하는 전국 순회 집회에 주요 연사로 참석해왔다. &lt;br&gt;&lt;br&gt;하지만 제작진은 전한길의 정치적 입장에 대한 논란이 일기 전, 이미 편집이 완료된 상태였다는 입장인 것으로 알려졌다. 2일 ‘폭싹 속았수다’ 측은 언론에 “전한길이 특별 출연한 건 맞지만, 더 수준 높은 작품을 보여드리기 위해 다양한 편집과 재촬영을 진행했다”고 말했다. 전한길이 맡기로 했던 분량은 전문 재연 배우가 채운 것으로 전해졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>차 타려는 행인에 다짜고짜 주먹질… 한국서 행패 부린 외국인 BJ 논란 </title>
-      <link>https://www.chosun.com/national/national_general/2025/04/03/APKFS6ZH7VBHZIYR2CKBTDTMAE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/03/APKFS6ZH7VBHZIYR2CKBTDTMAE/</guid>
-      <dc:creator>박선민 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 03 Apr 2025 03:30:16 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7AIUKWNW2JE2VGUW6NKHK2DYJU.png"&gt;&lt;figcaption&gt;&lt;small&gt;BJ '블랙 데이브'. /페이스북&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;미국계 소말리아인인 유튜버 조니 소말리가 국내에서 기행을 벌이다 재판에 넘겨진 가운데, 또 다른 외국인 BJ가 한국에서 라이브 방송을 하며 행인을 폭행하는 등 행패를 부려 논란이 되고 있다. &lt;br&gt;&lt;br&gt;지난달 31일 온라인상에는 미국 뉴욕 출신 래퍼이자 스케이트 보더로도 활동 중인 BJ ‘블랙 데이브’가 차량에 탑승하려는 행인에게 다가가 다짜고짜 주먹을 날리며 욕설을 퍼붓는 모습이 담긴 영상이 확산했다. &lt;br&gt;&lt;br&gt;인도에 걸쳐 차를 세운 것에 대한 항의 차원이었던 것으로 추측되나, 구체적인 전후 맥락은 확인되지 않았다. 다만 남성은 조수석 문 쪽에 서 있다 무방비로 폭행당했고, 남성은 반발할 세도 없이 그대로 자리를 떴다. 데이브는 폭행당한 남성이 반격하려 하자, 남성을 향해 큰 소리로 “내 몸에 손대지 말라”며 욕설을 내뱉기도 했다. &lt;br&gt;&lt;br&gt;당시 데이브는 호주 인터넷 방송 플랫폼 ‘킥(Kick)’을 통해 라이브 방송 중이었기에, 이 장면은 고스란히 송출됐다. 한 네티즌이 이 장면만을 녹화해 온라인에 공유하면서, 논란이 불거진 것이다. 네티즌들은 “왜 외국인이 자기 나라도 아닌 한국에서 이런 짓을 하는 거냐” “이런 건 눈감아줘선 안 된다” 등의 반응을 보였다. &lt;br&gt;&lt;br&gt;최근 국내에서 기행을 벌이다 재판에 넘겨진 조니 소말리가 연상된다는 반응도 나왔다. 미국계 소말리아인 유튜버 소말리는 작년 10월 서울 마포구의 한 편의점에서 노래를 크게 틀고 컵라면 국물을 테이블에 쏟는 등 업무를 방해한 혐의로 재판에 넘겨졌다. 이 외에도 소말리는 같은 달 마포구의 길거리에서 악취가 나는 생선 봉지를 들고 다수의 행인에게 말을 걸어 불쾌감을 유발하고, 버스와 지하철에 탑승해 음악을 크게 틀고 춤을 추며 소란을 피운 혐의도 받는다. &lt;br&gt;&lt;br&gt;지난달 7일 소말리에 대한 첫 공판이 열렸는데, 이때도 법원에 1시간 지각하고 방청석에 앉은 지인에게 웃으며 ‘메롱’ 자세를 취하는 등 반성하지 않는 듯한 태도를 보여 눈살을 찌푸리게 했다. 재판부가 소말리에게 “다음 기일엔 시간을 맞춰 나오라”고 지적하기까지 했다. 소말리의 다음 공판 기일은 오는 9일로 예정돼 있다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KHY4CO5TVBTUF2CE5KOLCX7SHM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;조니 소말리. /온라인 커뮤니티 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;소말리에 이어 데이브까지 외국인 인터넷 방송인이 일반 시민에게 직접적인 피해가 갈 정도의 부적절한 행위를 하는 상황이 잇달아 발생하면서, 일각에서는 이들을 강력히 처벌해야 한다는 목소리가 나온다.&lt;br&gt;&lt;br&gt;서경덕 성신여대 교수는 3일 자신의 페이스북을 통해 “최근 한국에 들어와 난동을 부리는 해외 유튜버들이 늘어 큰 문제가 되고 있다”며 “더 이상 나라를 조롱하고 행인을 위협하는 외국인 유튜버들이 국내에서 설치지 못하도록 해야만 할 것”이라고 했다. &lt;br&gt;&lt;br&gt;서 교수는 “이런 상황은 한국에서 ‘평화의 소녀상’에 입맞춤을 하는 등 온갖 기행을 서슴지 않았던 조니 소말리의 영향이 컸다고 볼 수 있다”며 “현재 재판 중인 ‘조니 소말리’에게 강력한 처벌을 내려 좋은 선례를 만들어야 할 것”이라고 했다. 아울러 “이런 민폐 유튜버들은 강제 추방하는 것이 맞다고 생각한다”고 했다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>한라산서 4t 자연석 훔치다 ‘쿵’ 떨어뜨린 업자들, 처벌은?</title>
-      <link>https://www.chosun.com/national/regional/2025/04/03/ZHA2SN5SUZAFJBWMH44O3AWDMM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/04/03/ZHA2SN5SUZAFJBWMH44O3AWDMM/</guid>
-      <dc:creator>제주=오재용 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 03 Apr 2025 03:24:43 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OX4DES2NXZJKBJPDMHVLEWMKWA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;제주 한라산국립공원 인근에서 업자들이 훔치려다 실패한 자연석./제주도 자치경찰단&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제주 한라산국립공원 인근에서 4t 가량의 자연석을 훔치려던 일당에게 1심에서 징역형이 선고됐다.&lt;br&gt;&lt;br&gt;제주지법 형사2부는 3일 산림자원의 조성 및 관리에 관한 법률 위반 혐의로 구속기소 된 70대 A씨에 대해 징역 2년을, 불구속기소 된 50대 B씨에 대해 징역 10개월에 집행유예 2년을 선고했다.&lt;br&gt;&lt;br&gt;검찰 공소사실에 따르면 A씨 등은 지난해 7월 21일 오후부터 이튿날 새벽까지 중장비를 동원해 한라산국립공원 인근 계곡에 있는 높이 1.5ｍ, 무게 4t 가량의 자연석을 캐낸 혐의를 받는다.&lt;br&gt;&lt;br&gt;A씨는 범행 장소에서 전기톱 등으로 주변 나무를 잘라 차량 진입로를 확보한 후, B씨를 불러 함께 도르래, 로프 등 장비를 이용해 이튿날 새벽까지 약 12시간 동안 자연석 1점을 캐냈다.&lt;br&gt;&lt;br&gt;하지만 이들은 캐낸 자연석을 1t 트럭에 실어 운반하던 중 150여 ｍ 떨어진 등산로에 떨어뜨렸고, 날이 밝아오자 범행이 발각될 것을 우려해 그대로 도주한 것으로 파악됐다.&lt;br&gt;&lt;br&gt;조사 결과 이들은 자연석을 훔쳐 되팔 목적으로 범행을 저질렀다. 수사망을 피하기 위해 야간 시간대 방범카메라가 없는 숲길을 이용한 것으로 나타났다.&lt;br&gt;&lt;br&gt;재판부는 “A씨는 동종 범죄로 처벌받은 전력이 다수 있으며, 특히 집행유예 기간에 범죄를 저질렀다”며 “두 피고인 모두 범행을 반성하고 인정하고 있는 점과 훔치려고 했던 자연석이 반환된 점 등도 고려해 형을 정했다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[속보] 尹 탄핵심판 선고 출석 안한다…“질서 유지·경호 고려" </title>
       <link>https://www.chosun.com/national/court_law/2025/04/03/EAZMGNGHJNEFTGK5SLG5YO6JNY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/04/03/EAZMGNGHJNEFTGK5SLG5YO6JNY/</guid>
@@ -889,24 +912,6 @@
       <description/>
       <pubDate>Thu, 03 Apr 2025 02:07:47 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7G3DEMIBJQHJXPUPTGVTC6EZR4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2일 서울 여의도 국회에서 열린 더불어민주당 회복과 성장을 위한 정년연장 TF 출범식에서 소병훈 위원장이 인사말을 하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;더불어민주당이 2일 출범한 정년 연장 관련 태스크포스(TF)에 한국노총과 민주노총이 참여한 것을 두고 ‘경사노위(경제사회노동위원회) 패싱’ 논란이 일고 있다. 현재 경사노위는 정년연장 관련 노·사·정의 공식 논의 기구인데, 여기엔 참여하지 않으면서 야당 논의에만 참여하는 건 부적절하다는 것이다.&lt;br&gt;&lt;br&gt;민주당이 꾸린 정년연장 TF엔 한국경영자총협회, 중소기업중앙회, 청년 세대 대표인 청년 유니온 뿐 아니라 한국노총과 민주노총이 모두 참여했다. 민주당은 TF 논의를 바탕으로 9월 정기 국회에서 정년 연장 법률안을 제출하고 11월까지 통과시키겠다는 목표를 세웠다.&lt;br&gt;&lt;br&gt;정년 연장은 경영계와 노동계의 입장이 첨예하게 갈리는 데다, 그 여파가 어느 정책 결정보다 큰 만큼 사회적 대화 기구인 경사노위에서 충분히 논의하자는 게 당초 노사정의 합의였다. 그러나 민주노총은 아예 논의에 참여하지 않았고, 한국노총은 지난해 12월 계엄 사태 후부터 발을 뺐다.&lt;br&gt;&lt;br&gt;양대 노총의 경사노위 패싱은 경사노위에서 치고받으며 논쟁하는 것보다, 비슷한 주장을 하는 민주당과의 논의가 더 주장 관철에 효과적이라고 여긴 탓으로 분석된다. 양대 노총은 법적 정년 연장을 상향하자는 의견이고, 경영계는 퇴직 후 재고용을 주장하며 맞서고 있는데 민주당에서도 법적 정년 자체를 늘리자는 개정안이 다수 발의된 상태기 때문이다. 한 국책연구원 관계자는 “경사노위의 노사정 논의 결과가 아직 나오지도 않은 상태에서 여기에선 빠지고 국회 논의만 참여하겠다는 건 절차를 뭉개겠다는 소리 밖에 안 된다”며 “사회적 논의기구를 만든 의미가 사라진다”고 했다. &lt;br&gt;&lt;br&gt;이에 대해 경사노위 측은 “경사노위에서 논의한 안은 어떤 식으로든 참고될 것”이라는 입장이지만, 내부에선 강한 비판 분위기가 감지된다. 올해 진행되는 가장 중요한 논의에서 역할을 하지 못하면 경사노위 무용론에 시달릴 수 밖에 없기 때문이다. 경사노위는 한국노총이 복귀하지 않을 경우, 노동계가 반대해 온 공익위원 안을 발표하는 방향도 검토하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘평화의 물결, 세계로’…제주 4·3사건 추념식 봉행</title>
-      <link>https://www.chosun.com/national/regional/2025/04/03/N6THCBCTXNBWNL6OH4OXT77UAE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/04/03/N6THCBCTXNBWNL6OH4OXT77UAE/</guid>
-      <dc:creator>제주=오재용 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 03 Apr 2025 02:18:11 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AAUXC4W4NJLBPAGR32FL3TJGJQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한덕수 대통령 권한대행 국무총리가 3일 제주특별자치도 4·3 평화공원에서 열린 '77주년 4·3 희생자 추념식'에서 추념사를 하고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘제77주년 4·3 희생자 추념식’이 3일 제주 4·3 평화공원에서 생존 희생자와 유족 등 약 2만명이 참석한 가운데 열렸다.&lt;br&gt;&lt;br&gt;올해 추념식은 ‘4·3의 숨결은 역사로, 평화의 물결은 세계로’를 주제로 진행됐다. 제주 4·3 사건을 극복한 제주인의 정신을 강조하며 유사한 비극을 겪은 세계인들에게 위로와 희망을 전하는 염원을 담았다.&lt;br&gt;&lt;br&gt;추념식은 오전 10시 4·3 희생자를 기리는 묵념으로 시작해 헌화 및 분향, 추념사, 평화의 시 낭송, 유족사연, 추모공연 등의 순으로 진행됐다.&lt;br&gt;&lt;br&gt;추념광장 내 ‘평화의 종’을 영상 입체(3D) 기법으로 구현해 4·3 77주년을 상징하는 7의 숫자를 담아 7회 타종과 함께 본행사가 시작됐다. 묵념 사이렌은 1분간 제주도 전역에 울렸다.&lt;br&gt;&lt;br&gt;한덕수 대통령 권한대행 국무총리는 이날 추념사를 통해 “제주 4·3 정신은 지금 우리에게 무엇보다 중요한 화합과 상생의 가르침을 주고 있다”며 “이념과 세대, 지역과 계층 간의 갈등을 넘어서지 못하면 지금의 위기를 극복하기 어려우며 대한민국의 지속가능한 성장도 불가능할 것”이라고 말했다.&lt;br&gt;&lt;br&gt;한 대행은 “서로 용서하고 화해하며 다시 일어선 4·3의 숨결로 대한민국을 하나로 모으고 미래로 힘차게 나아갈 수 있기를 기대한다”며 “정부는 국민 여러분과 함께 진정한 화합과 통합의 시대를 열기 위해 온 힘을 다하겠다”고 말했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;이번 추념식에서는 4·3 문화 해설사 홍춘호 씨가 스토리텔링 방식으로 제주 4·3 사건의 역사를 소개했다. 제주 4·3 기록물 유네스코 세계기록유산 등재 활동 등이 담긴 영상도 소개됐다.&lt;br&gt;&lt;br&gt;유족 사연으로는 4·3 당시 29세였던 고(故) 김희숙씨 유해에 대한 유전자 감식을 통해 당시 4세였던 아들 김광익씨, 손자 김경현씨까지 3대가 70여년 만에 만난 이야기가 소개됐다.&lt;br&gt;&lt;br&gt;가수 양희은씨와 벨라어린이합창단이 ‘애기 동백꽃의 노래’, ‘상록수’를 부르는 추모 공연을 하며 추념식을 마무리했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[단독]고대 의대 본과 2년 63.5% 수업 들어</title>
-      <link>https://www.chosun.com/national/education/2025/04/03/IOUPFGHXE5DBBKRT3ZP2X2AFYE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2025/04/03/IOUPFGHXE5DBBKRT3ZP2X2AFYE/</guid>
-      <dc:creator>최인준 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 03 Apr 2025 01:29:37 +0000</pubDate>
-      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7TWJI7WDMNPF3AYGCEJ5T7F2RA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울대 의대/뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;강성 의대생 단체 주도로 전국 의대에서 수업 거부 움직임이 나타나는 가운데 서울대·연세대·고려대 등 상위권 의대를 중심으로 수강률이 높아지면서 수업 정상화 기미를 보이기 시작했다. &lt;br&gt;&lt;br&gt;3일 교육계에 따르면 서울대는 지난 2일 기준 본과 4학년 111명 중 72명(64.8%)이 수업을 듣고 있는 것으로 확인됐다. 연대는 본과 4학년 93명 44명(47%)이 수업을 듣고 있고, 본과 3학년도 비슷한 수준의 수강률을 보이는 것으로 나타났다. 이에 비해 수업에 복귀한 본과 1, 2학년의 비율은 낮지만 이번 주 초부터 늘어나고 있는 것으로 알려졌다. 고려대는 본과 2학년 74명 중 47명(63.5%)이 강의실로 돌아왔다. 이들 대학의 수업 출석률은 이번 주 들어 계속 오르고 있다. &lt;br&gt;&lt;br&gt;이 같은 수치는 지난 2일 오전 의대생 단체인 ‘대한의과대학·의학전문대학원학생협회’(의대협)가 자체 조사해 발표한 전국 의대(40곳 중 15곳) 평균 수강률(3.9%)과 큰 차이를 보인다. 의대협은 최근 복학한 각 의대 학생들을 대상으로 설문 조사한 결과 고려대는 수강률이 1.57%, 연세대는 5.65%인 것으로 나타났다고 밝혔다. &lt;br&gt;&lt;br&gt;서울의 한 의대 고위 관계자는 “지난달 말 의대 복학 사태 때와 마찬가지로 현재 수업 거부도 강성 의대생 단체가 주도하는 의대생 단일 대오가 깨지기 시작한 것으로 보인다”고 말했다. 지난달 의대협 주도로 ‘미등록 투쟁’ 움직임이 거세게 일었지만 서울대가 전원 복귀 의사를 밝힌 것을 시작으로 주요 대학 학생들이 복학 등록을 한 것처럼 수업 복귀도 이와 비슷한 흐름을 보일 것이라는 설명이다. &lt;br&gt;&lt;br&gt;교육부에 따르면 정부 의대 증원 정책에 반발해 지난해부터 집단 휴학했던 전국 40개 의대(의학전문대학원 포함) 중 인제대를 제외한 39개교 학생들이 전원 복귀한 상황이다. 정부가 의대생 복귀 시한으로 정한 지난달 31일 기준 전국 40개 의대 학생의 복귀율은 96.9%로 집계됐다. 제적자는 총 2명이다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>종로구, 헌재 인근 상인에 대출 이자 지원 </title>
