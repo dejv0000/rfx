@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>﻿로또 100억 ‘대박’ 터졌나…1등 수동 5개 무더기 당첨 명당은?</title>
+      <link>https://www.chosun.com/national/national_general/2025/04/05/3CBEFYRLE5AENA6WJMTA5WUS7Y/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/05/3CBEFYRLE5AENA6WJMTA5WUS7Y/</guid>
+      <dc:creator>이가영 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 05 Apr 2025 13:30:23 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/D5JWD5PNWNE7HOANH6A2R5TFW4.png"&gt;&lt;figcaption&gt;&lt;small&gt;제1166회 로또복권 1등 당첨 번호. /동행복권 홈페이지&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제1166회 로또복권 추첨에서 1등 당첨자 5명이 판매점 한 곳에서 탄생했다. 만약 한 명이 같은 번호로 5개의 로또를 구매한 것이라면 당첨금은 100억원이 넘는다. &lt;br&gt;&lt;br&gt;로또복권 운영사 동행복권은 제1166회 로또복권 추첨에서 ‘14, 23, 25, 27, 29, 42’가 1등 당첨 번호로 뽑혔다고 5일 밝혔다. 2등 보너스 번호는 ‘16’이다. &lt;br&gt;&lt;br&gt;당첨 번호 6개를 모두 맞힌 1등 당첨자는 14명으로 20억7232만원씩 받는다. 1등 당첨자 가운데 6명이 ‘자동’을 선택했고, ‘수동’은 8명이었다. &lt;br&gt;&lt;br&gt;특히 서울 용산구 신문가판점에서 수동으로 복권을 산 1등 당첨자 5명이 나왔다. 동일인이라면 그가 받을 당첨금은 103억6160만원이다. &lt;br&gt;&lt;br&gt;통상 한 판매점에서 수동으로 1등 당첨자가 여럿 나왔다면, 동일 인물일 가능성이 높다. 자신이 선호하는 동일한 번호로 5개의 로또를 사는 경우가 많아서다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NSAWLGIKHNA75G4HVUO2Y4XGLI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;제1003회 로또복권 1등 번호 5개를 찍은 당첨 용지(왼쪽), 이 로또 당첨 용지의 QR코드를 확인한 화면.  /온라인 커뮤니티&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;앞서 제1003회 로또복권에서 1등 5개가 한 판매점에서 나왔는데, 이후 1등 당첨자는 온라인에 ‘90억 로또 인증’이라며 같은 번호 5개를 구입한 로또 용지를 인증했다. 제1052회 때에도 판매점 한 곳에서 수동 1등 당첨자가 3명이 탄생했는데, 실제 당첨자는 한 명이었던 것으로 밝혀졌다. &lt;br&gt;&lt;br&gt;한편 당첨 번호 5개와 보너스 번호가 일치한 2등은 80명으로 각 6044만원씩을 받는다. 당첨 번호 5개를 맞힌 3등은 2803명으로 173만원씩을 받는다. 당첨 번호 4개를 맞힌 4등(고정 당첨금 5만원)은 14만7837명, 당첨 번호 3개가 일치한 5등(고정 당첨금 5000원)은 245만6735명이다. &lt;br&gt;&lt;br&gt;당첨금 지급 기한은 지급 개시일로부터 1년(휴일인 경우 익영업일)이다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>“사기탄핵 저주” “6월 대선은 없다” 尹 탄핵 불복한 자유통일당, 광화문서 집회</title>
       <link>https://www.chosun.com/national/national_general/2025/04/05/ABP62SFNANGGBO4TQTXMUVSTBU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/05/ABP62SFNANGGBO4TQTXMUVSTBU/</guid>
@@ -920,15 +929,6 @@
       <description/>
       <pubDate>Fri, 04 Apr 2025 00:49:10 +0000</pubDate>
       <content:encoded>1979년 세계여자농구선수권대회 2위, 1990·1994년 아시안게임 여자농구 연속 우승 당시 대표팀을 지휘한 정주현 전 여자농구 대표팀 감독이 3일 오전 11시 50분 별세했다. 향년 90세. &lt;br&gt;&lt;br&gt;고인은 1935년 경기도 연천에서 태어나 광신중고교, 경희대를 졸업했다. 공군 농구팀에서 활약하다 제일은행, 코오롱에서 코치, 감독을 맡았다. &lt;br&gt;&lt;br&gt;1979년 서울에서 열린 세계여자농구선수권대회에서 여자 대표팀을 지휘한 정 전 감독은 동구권 국가들이 불참한 가운데 박찬숙, 강현숙 등의 활약으로 미국을 94대82로 꺾었지만 골 득실 차로 미국에 이어 2위를 차지하는 파란을 일으켰다. 이후 1990년 베이징 아시안게임과 1994년 히로시마 아시안게임 우승도 달성했다. 여자농구 대표팀 감독 시절 선수로 뛴 이옥자 전 여자프로농구 KDB생명 감독과 결혼했다. &lt;br&gt;&lt;br&gt;1990년대 말 일본 여자농구 샹송화장품 사령탑을 맡아 하승진의 누나 하은주를 지도하기도 했다. 샹송화장품 총감독, 미쓰비시 기술고문 등을 거쳐 2014년 부인 이옥자씨가 일본여자농구 아이신 감독을 맡자 기술고문을 역임했다. &lt;br&gt;&lt;br&gt;유족은 부인 이씨와 사이에 2녀(정하나·정샛별)가 있다. 빈소는 강남세브란스병원 장례식장 2호실, 발인 5일 낮 12시, 장지 연천군 백학면 선영. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>대통령 관저 인근 지하철 한강진역 무정차 통과</title>
-      <link>https://www.chosun.com/national/national_general/2025/04/04/JRGMO5XVVVHGXEAUC4S35OQTGQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/04/JRGMO5XVVVHGXEAUC4S35OQTGQ/</guid>
-      <dc:creator>박진성 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 04 Apr 2025 00:04:54 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JYEUBPLGSVOUFJHBHDZAGYEBTE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령 탄핵심판을 앞둔 4일 서울 용산구 한남동 대통령 관저 앞에서 윤석열 대통령 탄핵 반대 집회 참가자들이 태극기와 성조기를 흔들고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 대통령 탄핵 심판 2시간을 앞두고 윤 대통령 관저 인근 지하철이 무정차 통과한다. 광화문 등 도심을 지나는 시내버스는 우회 운행한다.&lt;br&gt;&lt;br&gt;4일 서울교통공사는 윤석열 대통령 관저 인근 6호선 한강진역이 이날 오전 9시부로 무정차 통과한다고 밝혔다. 출구도 폐쇄한다.&lt;br&gt;&lt;br&gt;앞서 헌법재판소 인근 3호선 안국역은 전날인 3일 오후 4시부터 무정차 통과하고 역사 전체 출구가 통제됐다. 안국역과 인접한 종로3가역 4·5번 출구도 폐쇄됐다.&lt;br&gt;&lt;br&gt;이날 오전 11시 대통령 탄핵 선고를 앞두고 한강진역 인근에 오전부터 많은 집회 인파가 모여드는 등 극심한 혼잡이 예상됨에 따라 인파 관리를 위해 취한 조치다. 한강진역 인근에는 대통령 관저가 있어 탄핵 찬·반 집회가 자주 열린다.&lt;br&gt;&lt;br&gt;서울교통공사는 현장 인파 상황에따라 △1호선 종각역 △1·2호선 시청역 △1·3·5호선 종로3가역 △2호선 을지로입구역 △3호선 경복궁역△ 5호선 광화문역·여의도역·여의나루역△6호선 한강진역·이태원역·버티고개역을 무정차 통과할 수 있다고 했다.&lt;br&gt;&lt;br&gt;광화문, 종로, 안국역 등 도심을 지나는 시내버스는 무정차통과하거나 우회운행하고 있다. &lt;br&gt;&lt;br&gt;북한남삼거리~한남오거리, 서울역~삼각지역 양방향도 무정차 통과중인데, 집회가 종료된 이후에 다시 정차할 예정이다.&lt;br&gt;&lt;br&gt;공사 관계자는 “모두의 안전을 위한 조치인 만큼 안전을 위해 적극적인 협조를 부탁한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>‘낙상 마렵다’ 신생아 학대 혐의 간호사, 결국… ”강력 징계 준비”</title>
