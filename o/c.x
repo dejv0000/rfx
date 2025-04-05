@@ -13,6 +13,78 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>조기 대선에 수능 전 ‘6월 모의고사’ 일정도 변경되나</title>
+      <link>https://www.chosun.com/national/education/2025/04/05/FLM7ON4A2JFA5BPPJ6MTY6PL3M/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/education/2025/04/05/FLM7ON4A2JFA5BPPJ6MTY6PL3M/</guid>
+      <dc:creator>김민기 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 05 Apr 2025 02:30:44 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FN3WJLBM3RD6BLBVUC26THDYOQ.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;학생들이 전국연합학력평가를 치르는 모습./김동환 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 전 대통령 파면 선고로 조기 대선이 확정됨에 따라 학교 학사일정에도 변경이 예상된다. 조기 대선일로 6월 3일이 유력하게 거론되면서 수능 모의평가 일정도 변경될 것이란 전망이 나온다.&lt;br&gt;&lt;br&gt;한국교육과정평가원이 주관하는 전국연합학력평가(모의평가)는 6월과 9월 두 차례 열린다. 올해 모의평가는 6월 3일, 9월 3일 예정돼 있다. 모의평가는 학생들이 수능 전 자신의 위치를 가늠해 볼 수 있는 시험이다.&lt;br&gt;&lt;br&gt;헌법재판소의 윤석열 전 대통령 파면 선고로 6월 3일이 조기 대선일로 검토되는 상황이라, 모의평가 일정도 변경될 것이란 전망이 나온다. 대선일은 국가공휴일이고, 학사일정을 정상적으로 진행하기 어렵기 때문이다. 한덕수 대통령 권한대행 국무총리는 60일 이내에 대선을 치러야 한다는 규정에 따라 5월 24일~6월 3일 중 하루를 대통령 선거일로 지정할 전망이다. 정치권 안팎에선 6월 3일이 유력하게 검토되는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;교육부는 6월 모의평가 일정 변경은 가능하며 6월 3일로 조기 대선일이 결정된다면 시험 일정을 변경한다는 방침이다. 6·9월 모의평가 시험일이 공고된 후 일자를 변경해 재공고한 적은 지금까지 없었다. 대통령 권한 대행은 헌재의 탄핵 선고 10일 이내에 대선일을 공고해야 한다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘탄핵 인용’ 尹 전 대통령, 14일 ‘내란 혐의’ 정식 재판 시작</title>
+      <link>https://www.chosun.com/national/court_law/2025/04/05/DGRXZ2IFEJDAHIPHB4C7MSVZEY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/04/05/DGRXZ2IFEJDAHIPHB4C7MSVZEY/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 05 Apr 2025 02:52:46 +0000</pubDate>
+      <content:encoded>헌법재판소가 4일 윤석열 전 대통령의 탄핵을 인용하면서, 윤 전 대통령은 직을 내려놓고 내란 혐의 형사 재판에 임하게 됐다. 직을 잃으면서 헌법에 규정된 불소추(不訴追) 특권도 더 이상 적용받지 못하게 됐다. 검찰과 고위공직자범죄수사처(공수처)는 기소‧수사 여부에 대해 검토 중인 것으로 알려졌다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7OCXABX3Z3WIWXNXVBVPTBR7DI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;◇형사 재판엔 ‘피고인 尹' 직접 출석해야&lt;/b&gt;&lt;br&gt;&lt;br&gt;5일 법조계에 따르면, 서울중앙지법 형사25부(재판장 지귀연)는 오는 14일 내란 우두머리 혐의로 기소된 윤 전 대통령의 첫 정식 재판을 연다. 윤 전 대통령은 지난 2월 첫 공판 준비 기일 당시 출석했지만, 지난달 2차 준비 기일엔 출석하지 않았다. 준비 기일은 정식 공판에 앞서 심리 계획 등을 정리하는 절차로 피고인이 법정에 출석할 의무는 없다. 그러나 오는 14일부터는 정식 재판이 진행되는 것이기에, 윤 전 대통령이 매 재판마다 출석해야 한다.&lt;br&gt;&lt;br&gt;첫 재판에선 최상목 경제부총리와 조태열 외교 장관에 대한 증인 신문이 진행될 예정이다. 다만 재판부는 2차 준비 기일에서 “최 부총리와 조 장관이 출석하기 어렵다면 증인 신문을 21일로 연기하겠다”면서 검찰을 향해 “예비적으로 다른 증인도 신청해달라”고 했다. 또 4월 21일·28일, 5월 8일을 공판 기일로 지정했다.&lt;br&gt;&lt;br&gt;윤 전 대통령 측은 준비 기일 당시 공소 사실을 모두 부인했다. 또 내란죄 수사권이 없는 공수처에서 초기 수사가 이뤄졌으므로 검찰의 기소는 위법하고, 공소장에 공소사실이 명확히 특정되지 않았다는 주장도 펼쳤다. 검찰은 재판부에 증인을 38명 신청했다. 검찰은 “38명을 먼저 신문한 다음 나머지 증인에 대한 추가 입증 계획을 밝히겠다”고 했다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇검찰, ‘비상계엄’ 매듭짓나... 명태균 의혹도 수사 중&lt;/b&gt;&lt;br&gt;&lt;br&gt;검찰은 ‘12‧3 비상계엄’과 관련해 윤 전 대통령을 직권남용권리행사방해 혐의로 추가 기소하는 것을 검토하고 있는 것으로 전해졌다. 검찰 비상계엄 특별수사본부(본부장 박세현 서울고검장)는 지난 1월 26일 윤 전 대통령을 구속 기소했지만, 이때 직권남용 혐의는 빠졌다. 헌법에서 규정하는 불소추 특권에 따라 내란 혐의만 기소할 수 있었기 때문이다. 특수본이 앞서 기소한 김용현 전 국방장관 등 주요 관계자들에게는 직권남용 혐의가 적용돼 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3XMN6GRIBENRACWHGS2HEIPZQQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;정치 브로커 명태균씨./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰은 정치 브로커 명태균씨 관련 의혹에 대해서도 윤 전 대통령 수사가 필요하다는 입장이다. 의혹의 핵심은 윤 전 대통령 측이 지난 대선 당시 명씨 측으로부터 여론조사 결과를 모두 81회 제공받고, 그 대가로 여론조사 비용 대신 김영선 전 의원에게 보궐선거 공천을 줬다는 것이다. 한 시민단체가 지난해 윤 전 대통령 부부와 명씨 등을 정치자금법 위반 혐의로 고발했고, 검찰은 명씨가 이 시기 사용하던 ‘황금폰’을 지난해 12월 확보해 분석을 사실상 마친 상태다.&lt;br&gt;&lt;br&gt;서울고검에서는 무혐의 처분된 김건희 여사의 ‘디올백 수수’ 의혹 및 ‘도이치모터스 주가 조작 연루’ 의혹에 대한 항고를 검토 중이다. 서울고검이 재기 수사 명령을 내릴 경우 이에 대한 수사도 다시 시작될 전망이다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇공수처에도 고발 사건 산적... ‘고발 사주’ 의혹까지&lt;/b&gt;&lt;br&gt;&lt;br&gt;윤 전 대통령이 고발된 사건은 공수처에도 있다. 대표적인 것이 ‘순직 해병’ 사건이다. 이 사건은 윤 전 대통령이 수해 복구 작업 도중 순직한 채수근 상병 사건의 수사 기록 이첩 보류를 지시하고, 이미 이첩된 사건 기록을 회수하라고 국방부에 지시했다는 내용이 핵심이다. 시민단체, 정당 등이 직권남용 혐의로 고발한 상태다. 또 검찰이 수사 중인 명씨 관련 의혹, 김 여사의 디올백 수수에 대한 뇌물 혐의 고발도 공수처에 접수돼 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ACSOQWOIKJMURKV2SVTS6OUUQI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;고위공직자범죄수사처(공수처)./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;공수처는 윤 전 대통령이 검찰총장이던 2020년 제기된 ‘고발 사주’ 의혹도 수사 중이다. 이 의혹 제보자인 조성은씨가 윤 전 대통령 부부, 한동훈 전 국민의힘 대표, 김웅 전 국민의힘 의원 등을 고발했고, 공수처는 이를 수사3부(부장 이대환)에 배당했다. 앞서 공수처가 직접 기소한 손준성 검사장 사건은 1심에서 유죄가 선고됐으나 2심에서 무죄로 뒤집혔다. 공수처가 상고해 대법원이 심리 중이다. &lt;br&gt;&lt;br&gt;공수처는 이 밖에도 윤 전 대통령이 검찰총장 시절 ‘울산시장 선거 개입’ 사건 기소를 무리하게 지휘했다며 황운하 조국혁신당 의원이 고발한 사건을 접수한 상태다.&lt;br&gt;&lt;br&gt;다만 공수처는 윤 전 대통령 수사를 곧바로 본격화하지는 않을 것으로 전해졌다. 비상계엄과 관련한 군·경 관계자 수사가 일부 남아 있어, 이 사건들을 마무리하는 게 우선이라고 한다. 공수처는 모든 검사와 수사관이 참여하는 비상계엄 수사 TF(태스크포스) 체제로 운영되고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>고양서 트럭이 오토바이 추돌…50대 운전자 숨져</title>
+      <link>https://www.chosun.com/national/regional/gyeonggi-incheon/2025/04/05/KBCFQDDLVJFGRJRL5RHONPIW4A/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/gyeonggi-incheon/2025/04/05/KBCFQDDLVJFGRJRL5RHONPIW4A/</guid>
+      <dc:creator>박주영 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 05 Apr 2025 01:40:08 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7WGFB2D2QZELXCNQYK443QVDYE.png"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=조선디자인랩 정다운&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 고양시 한 도로에서 25t 덤프트럭이 앞서가던 오토바이를 추돌해 오토바이 운전자가 숨졌다. &lt;br&gt;&lt;br&gt;5일 경찰과 소방 당국에 따르면 지난 4일 오전 6시 40분쯤 경기 고양시 일산서구 덕이동의 한 편도 4차로에서 25t 덤프트럭이 앞서 달리던 250cc 오토바이 뒤를 들이받았다.&lt;br&gt;&lt;br&gt;이 사고로 오토바이 운전자 50대 남성 A씨가 덤프트럭에 깔려 심정지 상태로 병원으로 옮겨졌으나 숨졌다.&lt;br&gt;&lt;br&gt;트럭 운전자 50대 남성 B씨는 경찰에서 “오토바이를 미처 보지 못했다”는 취지로 진술한 것으로 전해졌다. 경찰은 B씨를 교통사고처리특례법상 치사 혐의로 입건하고 정확한 사고 경위를 조사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“돈 갚아줘”…초등 동창에 총구 겨눈 60대, 징역 6년 </title>
+      <link>https://www.chosun.com/national/regional/gangwon/2025/04/05/DYINF2QC7FDNXL3SNX3DKMZGI4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/gangwon/2025/04/05/DYINF2QC7FDNXL3SNX3DKMZGI4/</guid>
+      <dc:creator>박주영 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 05 Apr 2025 01:23:17 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HC5UFRKA6NOBE7TUP5TEJCTY5Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울고법 춘천재판부./뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;금전 문제로 갈등을 빚던 초등 동창생에게 총구를 겨누고 위협한 60대에게 살인미수죄가 적용돼 중형이 선고됐다. &lt;br&gt;&lt;br&gt;서울고법 춘천재판부 형사1부(재판장 이은혜)는 살인미수와 총포화약법 위반 등 혐의로 기소된 A(68)씨가 낸 항소를 기각하고, 징역 6년을 선고한 원심 판단을 유지했다고 5일 밝혔다. 또 원심과 같이 10년간 위치추적 전자장치 부착을 명령했다.&lt;br&gt;&lt;br&gt;A씨는 지난해 3월 30일 친구 B(66)씨의 춘천 집에 총알이 장전된 무허가 소총과 과도, 전자충격기, 총알 등을 들고 찾아가 마당에 있던 B씨를 총으로 쏴 살해하려한 혐의로 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;A씨는 당시 탄환이 장전된 소총의 총구를 B씨에게 향하게 하고 방아쇠를 당겼으나 총이 작동하기 위한 주요 부품 중 하나인 노리쇠가 후퇴하는 바람에 장전 총알이 밑으로 빠져나와 격발되지 않았던 것으로 조사됐다. &lt;br&gt;&lt;br&gt;A씨는 B씨와 초등학교 동창 사이로 빌려준 돈 일부를 돌려받지 못해 감정이 좋지 않던 중 자신에 대한 B씨의 고소와 112 신고가 잇따르면서 감정의 골이 깊어지자 범행을 저지른 것으로 파악됐다. &lt;br&gt;&lt;br&gt;재판부는 “동종 전과가 다수 있고, 그중 6건은 폭력 범죄로 실형을 받은 전력이 있으며 감금, 폭행 등 피해자를 상대로 반복적으로 범행을 저지르고 있어 비난 가능성이 매우 높다”며 “이로 볼 때 원심의 양형이 재량의 합리적 범위에서 이뤄진 것으로 판단된다”고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“집 안서 짖지마”…반려견 학대 40대, 벌금 500만원</title>
+      <link>https://www.chosun.com/national/regional/gangwon/2025/04/05/2U25UL4XMNA6XCAFDVEB4C466U/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/gangwon/2025/04/05/2U25UL4XMNA6XCAFDVEB4C466U/</guid>
+      <dc:creator>박주영 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 05 Apr 2025 00:57:16 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KYUTM35NP5F5GTBMEVJXMVTOYE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;춘천지법 원주지원./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;집안에서 짖는 반려견을 팽개치는 등 학대한 혐의 등을 받는 40대가 벌금형 처벌을 받았다.&lt;br&gt;&lt;br&gt;춘천지방법원 원주지원은 동물보호법위반 및 공무집행방해혐의로 재판에 넘겨진 A(48)씨에게 벌금 500만원을 선고했다고 5일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난해 11월 24일 오전 0시 27분쯤 자신의 아파트에서 4년생 반려견이 짖자 목덜미를 잡아 여러 차례 바닥에 팽개치는 등 동물을 학대한 혐의 등으로 재판받았다.&lt;br&gt;&lt;br&gt;또 같은 날 비슷한 시각 ‘부모님이 심하게 싸운다‘는 112 신고를 받고 출동한 경찰관이 난폭한 행동을 저지하자 이 경찰관 멱살을 잡아 벽으로 밀어 폭행한 혐의도 받았다. &lt;br&gt;&lt;br&gt;재판부는 “화를 주체하지 못해 애꿎은 반려견에게 고통을 주고, 이를 지켜본 자녀에게 좋지 못한 영향을 끼쳤을 것으로 보인다”며 “또 정당한 공권력 행사를 방해하는 공무방해죄도 엄벌 필요성이 있지만 초범이고 반성하는 태도를 보여 형을 정했다”고 밝혔다.&lt;br&gt;&lt;br&gt;검찰은 재판 이후 법원에 항소했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>구타 등 2살 딸 학대 20대 아빠…잘못 반성해 항소심서 선처 </title>
+      <link>https://www.chosun.com/national/regional/gangwon/2025/04/05/W2STPLADZNBLDDCEP246ZNWPPA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/gangwon/2025/04/05/W2STPLADZNBLDDCEP246ZNWPPA/</guid>
+      <dc:creator>박주영 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 05 Apr 2025 00:27:59 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Z63QE7USVKL3YPQOMRKAOEBJCE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;춘천지법 전경./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;주먹, 숟가락으로 때리는 등 두돌 지난 딸을 학대한 혐의로 실형을 선고받았던 20대 아빠가 자신의 행동을 뉘우쳐 항소심서 집행유예로 감형됐다. &lt;br&gt;&lt;br&gt;춘천지법 형사1부(재판장 심현근)는 아동복지법상 아동학대와 상해 혐의로 재판에 넘겨진 A(29)씨에게 징역 10개월을 선고한 원심판결을 깨고, 징역 10개월에 집행유예 2년을 선고했다고 5일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난해 5월 11일 집에서 딸 B(2)양이 울자 “시끄러워 짜증난다”며 “나가 죽어라”는 등 욕설을 하고 마대 걸레 자루로 B양 몸을 수십차례 때린 혐의 등을 받고 있다. &lt;br&gt;&lt;br&gt;그는 또 이틀 뒤 같은 이유로 “왜 태어났느냐”라며 B양을 구타하거나 밥을 흘린다는 이유로, 잠을 자지 않고 시끄럽게 운다는 이유로 주먹, 숟가락 등으로도 때리기도 한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;1심을 맡은 춘천지법 원주지원은 “단지 형편이 어렵고 노동이 고되다거나 만 2세6개월된 아이가 다소 말을 듣지 않았다고 이런 행동을 했다는 건 도저히 이해하기 어렵다”며 징역 10개월의 실형을 선고했다.&lt;br&gt;&lt;br&gt;1심 후 ‘형이 무겁다‘는 A씨와 ‘가볍다‘는 검찰 등이 모두 항소했다. 양측 주장을 살핀 항소심 재판부는 “A씨가 구금되었던 동안 반성하는 시간을 가졌다고 보이는 점과 1심 판결 이후 A씨의 아내가 처벌을 원하지 않는다는 의사를 표시한 점을 고려해 보호관찰 명령을 달아 징역형의 집행유예를 선고한다”고 판결했다. &lt;br&gt;&lt;br&gt;.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“연 50% 이자 보장”…코인 투자사기 29억 가로챈 30대  </title>
+      <link>https://www.chosun.com/national/regional/yeongnam/2025/04/05/VSCG2XMKXRDYJIWEUA26ZBSSAY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/yeongnam/2025/04/05/VSCG2XMKXRDYJIWEUA26ZBSSAY/</guid>
+      <dc:creator>박주영 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 05 Apr 2025 00:11:05 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZKQ45U7VNJ3AOABGF6DWNYM56U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;창원지법 전경/뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“코인에 투자하면 연 최대 50％ 이자를 주겠다“고 속여 수십억원의 투자금을 받아 가로챈 30대가 실형을 선고받았다.&lt;br&gt;&lt;br&gt;창원지법 형사2부(재판장 김성환)는 특정경제범죄 가중처벌 등에 관한 법률 위반(사기) 등 혐의로 재판에 넘겨진 30대 A씨에게 징역 3년을 선고했다고 5일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 2021년 12월부터 2023년 8월까지 “코인에 투자하면 원금은 물론 연 최대 50%의 이자까지 지급하겠다”고 속여 피해자 B씨로부터 324회에 걸쳐 29억3400만원을 받아 챙긴 혐의 등을 받고 있다. &lt;br&gt;&lt;br&gt;A씨는 오픈 채팅방을 통해 알게 된 B씨에게 재력가, 투자 전문가 행세를 하며 접근해 범행을 저지른 것으로 조사됐다. 하지만 그는 별다른 직업이나 재산이 없었고 코인 투자로 수십억원을 날린 상태였다. &lt;br&gt;&lt;br&gt;A씨는 B씨로부터 받은 투자금을 생활비로 탕진하거나 일명 ‘돌려막기‘로 이자 지급에 쓴 뒤 점점 더 많은 돈을 받아 가로챈 것으로 드러났다. &lt;br&gt;&lt;br&gt;재판부는 “A씨가 범행 중 일부를 이자 명목으로 반환하기는 했지만 완전한 피해 회복으로 보기 어렵고 B씨가 엄벌을 탄원한다”며 “다만 B씨의 무리한 투자로 피해가 확대된 측면도 있는 점 등을 고려했다”고 판시했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>이승기, 정산금 소송 승소… 법원 “후크, 5억8000만원 지급하라”</title>
+      <link>https://www.chosun.com/national/national_general/2025/04/05/WN6HE4L6LZG7HEHJMHGSLGOZDM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/05/WN6HE4L6LZG7HEHJMHGSLGOZDM/</guid>
+      <dc:creator>박선민 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 04 Apr 2025 23:34:11 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DTKLBLL26DILE2UF7PN5UGTQPI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;가수 겸 배우 이승기. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;가수 겸 배우 이승기의 전 소속사 후크엔터테인먼트(현 초록뱀미디어)가 “이승기로부터 9억원 상당의 광고 수수료를 돌려받아야 한다”고 낸 소송에서 일부 패소, 되레 돈을 더 돌려줘야 한다는 법원 판결을 받았다. &lt;br&gt;&lt;br&gt;서울중앙지법 민사합의20부(이세라 부장판사)는 4일 후크가 이승기를 상대로 낸 채무부존재 확인 소송에서 “후크는 이승기에게 5억8000만원을 지급하라”며 “나머지 초록뱀의 보수 청구 및 반송 청구를 모두 기각한다”고 판결했다.&lt;br&gt;&lt;br&gt;앞서 양측은 2022년부터 정산금을 두고 갈등을 빚었다.&lt;br&gt;&lt;br&gt;이승기는 18년간 몸담은 후크로부터 데뷔 이후 음원 사용료를 한 푼도 정산받지 못했다고 주장하며 같은 해 11월 계약 내용을 따져 묻는 내용증명을 보냈다. 이에 후크는 자체 계산한 정산금 약 54억원을 지급한 후 “더는 채무가 없음을 확인받겠다”는 취지로 채무부존재 확인 소송을 제기했으나, 돌연 “광고 수익에서 수수료를 공제하지 않아 돈을 너무 많이 정산해줬다”며 9억원을 되돌려 줘야 한다고 주장을 바꿨다. 그러자 이승기 측은 정산에 대해 합의한 적이 없고, 미지급금 액수도 실제와 다르다며 후크를 상대로 맞소송을 제기했다. &lt;br&gt;&lt;br&gt;이를 두고 재판부는 “수수료를 공제하지 않고 전액을 정산 대상으로 하기로 하는 묵시적 합의가 있었다고 보는 것이 타당하다”며 후크의 주장을 받아들이지 않았다. 설령 합의가 없었다고 하더라도, 후크 측이 9억원을 지급할 의무가 없다는 사실을 알면서도 이승기에게 이미 이를 지급해 반환을 청구할 수 없다고도 봤다. &lt;br&gt;&lt;br&gt;반면 이승기는 후크로부터 음반·음원 수익 정산금 중 변제되고 남은 5억8000만원과 지연손해금을 받을 수 있다고 판단했다. 재판부는 “원고는 전속 계약 기간 정산금 지급 의무를 대부분 이행하지 않았고, 정산을 위한 기초 작업도 제대로 수행하지 않았다”며 “고의 내지 중대한 과실로 고도의 신뢰 관계를 파괴하는 행위에 해당한다”고 했다. &lt;br&gt;&lt;br&gt;한편 이승기는 후크를 상대로 소송에 나선 건 단순히 밀린 돈 때문이 아니라며 후크로부터 받은 정산금을 전액 기부하겠다고 밝힌 바 있다. 이승기는 2022년 12월 자신의 소셜미디어를 통해 “누군가 흘린 땀의 가치가 누군가의 욕심에 부당하게 쓰여선 안 된다는 걸 알리는 게 할 수 있는 최선의 사명이라 생각했다”며 “50억원 정도가 들어왔지만, 후크의 계산법을 이해할 수 없기에 앞으로 계속 법정에서 다툴 것 같다”고 했다. 그러면서 “미정산금이 얼마가 되든 전액 기부하겠다. 하루아침 생각이 아니다. 후크와 싸움을 결심한 순간, 제가 받을 돈을 힘들고 어려운 사람들을 위해 전액 쓰고자 결심했다”고 했다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>조두순, 아이들 하교 시간에 또 무단 외출… “형사 입건 검토”</title>
       <link>https://www.chosun.com/national/national_general/2025/04/05/UMQ6HXBAMJFI7JSWAS2QPXK3DM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/05/UMQ6HXBAMJFI7JSWAS2QPXK3DM/</guid>
@@ -861,19 +933,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JYEUBPLGSVOUFJHBHDZAGYEBTE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령 탄핵심판을 앞둔 4일 서울 용산구 한남동 대통령 관저 앞에서 윤석열 대통령 탄핵 반대 집회 참가자들이 태극기와 성조기를 흔들고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 대통령 탄핵 심판 2시간을 앞두고 윤 대통령 관저 인근 지하철이 무정차 통과한다. 광화문 등 도심을 지나는 시내버스는 우회 운행한다.&lt;br&gt;&lt;br&gt;4일 서울교통공사는 윤석열 대통령 관저 인근 6호선 한강진역이 이날 오전 9시부로 무정차 통과한다고 밝혔다. 출구도 폐쇄한다.&lt;br&gt;&lt;br&gt;앞서 헌법재판소 인근 3호선 안국역은 전날인 3일 오후 4시부터 무정차 통과하고 역사 전체 출구가 통제됐다. 안국역과 인접한 종로3가역 4·5번 출구도 폐쇄됐다.&lt;br&gt;&lt;br&gt;이날 오전 11시 대통령 탄핵 선고를 앞두고 한강진역 인근에 오전부터 많은 집회 인파가 모여드는 등 극심한 혼잡이 예상됨에 따라 인파 관리를 위해 취한 조치다. 한강진역 인근에는 대통령 관저가 있어 탄핵 찬·반 집회가 자주 열린다.&lt;br&gt;&lt;br&gt;서울교통공사는 현장 인파 상황에따라 △1호선 종각역 △1·2호선 시청역 △1·3·5호선 종로3가역 △2호선 을지로입구역 △3호선 경복궁역△ 5호선 광화문역·여의도역·여의나루역△6호선 한강진역·이태원역·버티고개역을 무정차 통과할 수 있다고 했다.&lt;br&gt;&lt;br&gt;광화문, 종로, 안국역 등 도심을 지나는 시내버스는 무정차통과하거나 우회운행하고 있다. &lt;br&gt;&lt;br&gt;북한남삼거리~한남오거리, 서울역~삼각지역 양방향도 무정차 통과중인데, 집회가 종료된 이후에 다시 정차할 예정이다.&lt;br&gt;&lt;br&gt;공사 관계자는 “모두의 안전을 위한 조치인 만큼 안전을 위해 적극적인 협조를 부탁한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>헌재, 尹 운명 가를 마지막 평의 시작... 최종 결정문 곧 확정</title>
-      <link>https://www.chosun.com/national/court_law/2025/04/04/DUEF3RJVPFERXL3ALJKUA7J7AY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/04/04/DUEF3RJVPFERXL3ALJKUA7J7AY/</guid>
-      <dc:creator>김나영 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 03 Apr 2025 23:36:06 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZHUCAJ7GBNMBNAX6XETBEVGNCY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;문형배(왼쪽부터) 헌법재판소장 권한대행, 이미선, 김형두, 조한창, 정정미, 김복형, 정계선 헌재 재판관이 4일 윤석열 대통령 탄핵 심판 선고를 앞두고 서울 종로구 헌법재판소에 각각 출근하고 있다./김지호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;4일 오전 11시 헌법재판소 대심판정에서 예정된 윤석열 대통령의 탄핵심판 선고를 앞두고 헌법재판관 전원이 등청했다. 재판관들은 이날 선고 전 마지막 평의를 시작한 것으로 전해졌다. 최종 결정문은 이 평의에서 확정될 전망이다.&lt;br&gt;&lt;br&gt;재판관들은 경호차량 1~2대의 경호를 받으며 헌재에 모습을 드러냈다. 가장 먼저 등청한 재판관은 윤 대통령 탄핵 사건의 주심(主審)인 정형식 재판관이었다. 정 재판관은 오전 6시 54분쯤 검은 정장 차림에 서류 가방을 들고 청사 안으로 들어갔다.&lt;br&gt;&lt;br&gt;나머지 재판관들도 오전 7시 30분~8시 30분 사이에 차례로 출근했다. 7시 34분쯤 김복형 재판관은 취재진들에게 고개를 한 번 숙인 뒤 청사 본관으로 들어갔고, 이어 정계선(7시 43분), 이미선(7시 56분), 김형두(7시 59분), 정정미 (8시 15분), 조한창(8시 17분) 재판관이 출근을 마쳤다. 문형배 헌재소장 권한대행은 가장 마지막인 오전 8시 22분쯤 등청했다. 재판관들은 모두 어두운 정장 차림에, 아무 말도 하지 않은 채 본관으로 들어갔다.&lt;br&gt;&lt;br&gt;이날 헌재에서 탄핵을 인용하면 윤 대통령은 선고가 나오는 즉시 대통령직을 잃는다. 반대로 재판관 3명 이상이 기각이나 각하 의견을 낼 경우, 윤 대통령은 곧바로 직무에 복귀한다.&lt;br&gt;&lt;br&gt;지난해 12월 14일 더불어민주당이 주도한 국회 측은 12·3 비상계엄을 선포한 윤 대통령에 대한 탄핵소추안을 통과시켰다. 이후 헌재의 탄핵 심판 과정에서 정리된 윤 대통령의 탄핵소추 사유는 비상계엄 선포 요건 위반, 포고령의 위헌·위법성, 군·경을 동원한 국회 봉쇄 시도, 정치인 체포 지시, 중앙선거관리위원회 장악 시도 등 총 5가지다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/QNAG7IKHTZOVFD7SMKM57NZWF4.jpg?width=3691&amp;height=2604&amp;auth=4ae543b05ec155c70ced1ac70208231f095f20994c0a2fccbb87996d5376e0d3&amp;smart=true" type="image/jpeg" height="2604" width="3691">
-        <media:description type="plain">[서울=뉴시스] 사진공동취재단 = 윤석열 대통령 탄핵심판 선고기일인 4일 오전 문형배 헌법재판소장 권한대행이 서울 종로구 헌법재판소로 출근하고 있다. 2025.04.04. photo@newsis.com</media:description>
-        <media:credit role="author" scheme="urn:ebu">ryuhj</media:credit>
-      </media:content>
-    </item>
-    <item>
       <title>‘낙상 마렵다’ 신생아 학대 혐의 간호사, 결국… ”강력 징계 준비”</title>
       <link>https://www.chosun.com/national/national_general/2025/04/04/UXRUXG6NWREPFNYAGN7B7OZYWE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/04/UXRUXG6NWREPFNYAGN7B7OZYWE/</guid>
@@ -884,69 +943,6 @@
       <media:content url="https://www.chosun.com/resizer/v2/XEM6EJCDL5FZTAGYQUMYMLSZRU.jpg?width=1041&amp;height=665&amp;auth=fb70991affcdbda879b5d1a05ed92ed2e49c568acc055c6d15770022d89b795c&amp;smart=true" type="image/jpeg" height="665" width="1041">
         <media:description type="plain">대구의 한 상급종합병원 신생아중환자실(NICU) 간호사가 입원 중인 신생아의 사진을 무단으로 촬영해 소셜미디어에 올리고 부적절한 발언을 한 장면. /블라인드</media:description>
       </media:content>
-    </item>
-    <item>
-      <title>[단독] 국민연금 둘이 합쳐 月 500만원 넘게 받는 ‘부부’ 나왔다</title>
-      <link>https://www.chosun.com/national/welfare-medical/2025/04/04/AOC7VETODBALVERRXO2S36G5QY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/04/04/AOC7VETODBALVERRXO2S36G5QY/</guid>
-      <dc:creator>곽래건 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 03 Apr 2025 20:02:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OQ6PTSVV6BNI4ZVHS654RASMMM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;국민연금 상담 창구. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;남편과 아내 합쳐 월 500만원 넘게 국민연금을 받는 부부가 나왔다. &lt;br&gt;&lt;br&gt;3일 국민연금공단 등에 따르면 현재 부부 합산 국민연금 최고 수령액은 월 542만7630원으로 나타났다. 제주에 사는 60대 후반 부부로 남편(69)은 월 259만7670원, 아내(68)는 282만9960원을 받고 있다. 부부 모두 1988년 국민연금 도입 첫해부터 가입했다. 가입 기간이 남편은 27년 9개월, 아내는 28년 8개월에 달한다. 부부가 납부한 보험료는 남편 8506만1100원, 아내 8970만5400원. 총 1억7476만6500원이다. 국민연금은 가입 기간과 납입 금액에 따라 매달 받는 연금 수령액이 크게 달라진다. &lt;br&gt;&lt;br&gt;남편은 원래 2017년 1월부터 월 157만6970원의 연금을 받을 수 있었다고 한다. 그러나 5년 연기해 2022년 1월부터 연금을 받기 시작했다. 국민연금은 수급 시기를 늦추면 더 많은 금액을 받을 수 있다. 남편의 첫 월 연금액이 233만2090원으로 올라갔다. 아내도 원래 2019년 5월부터 월 180만6260원을 받을 수 있었지만 5년 연기했다. 작년 5월부터 276만6340원을 받기 시작했다. 국민연금은 매년 물가 상승에 따라 연금액이 올라간다. 올해의 경우 작년보다 2.3% 늘었다. &lt;br&gt;&lt;br&gt;부부가 받는 월 542만원은 노후 생활에 부족함이 없는 액수다. 국민연금연구원이 작년 12월 공개한 부부의 노후 적정 월 생활비는 296만9000원이었다. 해당 부부는 국민연금으로만 이보다 1.8배의 금액을 타는 것이다. &lt;br&gt;&lt;br&gt;‘부부 국민연금 수급자’는 계속 늘고 있다. 2019년 약 35만5000쌍이었지만 지난해 11월 77만4964쌍으로 5년 만에 배 이상이 됐다. 다만 부부 수급자의 월평균 연금액은 지난해 11월 기준 108만1668원에 그친다. 가입 기간이 짧거나, 외벌이 등으로 은퇴 전 소득이 낮았던 가입자가 포함돼 있기 때문이다. &lt;br&gt;&lt;br&gt;국민연금은 주부도 가입 가능하다. 부부 모두 가입해 수급권을 얻으면, 남편과 아내 모두 각자의 연금을 숨질 때까지 받는다. 다만 한쪽이 먼저 사망하면 남은 배우자는 자신의 연금과 배우자가 남긴 ‘유족 연금’(배우자, 자녀, 부모 등 생계를 의지하던 가족에게 주는 연금) 중 하나를 선택해야 한다. 남은 배우자가 유족 연금 대신 본인의 연금을 택할 경우 유족 연금의 30%를 추가로 받을 수 있다.&lt;br&gt;&lt;br&gt;부부가 아닌 개인으로는 지난해 11월 기준 월 289만3550원이 최고 연금 수급액이었다. 20년 이상 가입자의 월평균 수령액은 108만6336원이었고, 가입 기간이 10~19년인 경우 월평균 수령액은 43만3212원에 그쳤다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[단독] 교수 엄마 찬스로 치전원 간 학생… 대법원 “입학 취소”</title>
-      <link>https://www.chosun.com/national/court_law/2025/04/04/UEMBA3VLRVF7FHXWHPX4JA27OQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/04/04/UEMBA3VLRVF7FHXWHPX4JA27OQ/</guid>
-      <dc:creator>박강현 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 03 Apr 2025 20:02:00 +0000</pubDate>
-      <content:encoded>교수 어머니가 제자들에게 각종 실험과 논문 작성 등을 시키고, 이 실적을 딸의 치의학전문대학원(치전원) 입시에 이용했다가 입학이 취소된 것은 적법하다는 대법원 판단이 나왔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MP2HBDP4CNB73ODWUW6X6LNYJI.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초동 대법원. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대법원 2부(주심 박영재 대법관)는 지난달 13일 A씨가 서울대를 상대로 낸 입학 취소 처분 무효 확인 소송에서 원고 패소 판결한 원심을 확정했다고 3일 밝혔다.&lt;br&gt;&lt;br&gt;교육부와 검찰 조사 결과, 성균관대 약학대학 교수였던 이모씨는 2016년 대학생이던 딸 A씨의 연구 과제를 위해 제자들에게 동물 실험을 시키고 이 실험 결과를 바탕으로 논문을 쓰도록 지시했다. A씨는 실험을 몇 차례 참관했을 뿐이었지만, 논문은 A씨 단독 저술로 SCI(과학기술 논문 인용 색인 지수)급 저널에 실렸다. 이런 실적으로 A씨는 2018년 서울대 치전원에 합격했다.&lt;br&gt;&lt;br&gt;이 같은 사실이 알려지자 서울대는 2019년 8월 A씨의 치전원 입학을 취소했다. A씨는 논문 작성 등에 상당 부분 관여했다고 주장하며 2020년 1월 소송을 냈다.&lt;br&gt;&lt;br&gt;1심은 “입학 취소 사유 중 논문을 직접 작성하지 않았음에도 마치 직접 작성한 것처럼 논문을 (입시 과정에서) 제출한 부분이 존재한다”며 원고 패소로 판결했고, 2심도 A씨의 항소를 기각했다. A씨는 상고했지만 대법원은 ‘심리불속행 기각’으로 원심을 확정했다. 심리불속행 기각은 상고 대상이 못 돼 심리 없이 원심대로 확정하는 절차다.&lt;br&gt;&lt;br&gt;이씨 모녀는 이 소송과 별도로 업무 방해 등의 혐의로 2019년 5월 기소됐고, 지난해 7월 서울중앙지법은 이씨에게 징역 3년 6개월을, A씨에게 징역 10개월에 집행유예 2년을 각각 선고했다. 양측 모두 항소해 현재 2심이 진행 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>헌재, 오늘 오전까지 최종 결정문 다듬어</title>
-      <link>https://www.chosun.com/national/court_law/2025/04/04/HMJW5UHHJRCPRAVFTFPCSTFPJE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/04/04/HMJW5UHHJRCPRAVFTFPCSTFPJE/</guid>
-      <dc:creator>김희래 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 03 Apr 2025 15:55:00 +0000</pubDate>
-      <content:encoded>윤석열 대통령 탄핵 심판 선고를 하루 앞둔 3일 헌법재판소는 막바지 선고 준비를 이어갔다. 재판관 8명은 이날도 평의를 열어 최종 결정문의 세부 문구 등을 조율한 것으로 전해졌다. 특히 헌재 본관 건물은 외부인 출입이 철저히 통제돼 극비리에 선고 준비가 이뤄졌다.&lt;br&gt;&lt;br&gt;법조계에 따르면, 헌재 재판관들은 지난 2일 두 차례 평의를 연 데 이어 3일에도 오전부터 평의를 열었다. 앞서 지난 1일 윤 대통령 사건을 결론짓고 선고일(4일)을 알렸지만, 재판관들은 계속 평의를 이어가며 결정문에 들어갈 별개·보충 의견 등을 다듬고 있는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;다만 최종 결정문이 확정됐는지는 확인되지 않았다. 헌재 공보관은 “평결 이후 재판관 평의 내용은 전달받지 않고 있다”며 “(결정문 확정 여부는) 알 수 없다”고 했다. 그동안 헌재가 평의 관련 사항을 간략하게라도 확인해 준 점을 고려하면 보안이 대폭 강화된 것으로 보인다.&lt;br&gt;&lt;br&gt;윤 대통령의 탄핵 심판 결정문은 선고일인 4일 오전에 최종 확정될 가능성도 배제할 수 없다. 실제 2017년 3월 박근혜 전 대통령의 탄핵 심판 선고 때는 최종 결정문이 선고일 오전에 확정된 것으로 알려져 있다. 헌재는 그동안 한덕수 국무총리, 최재해 감사원장 등 굵직한 탄핵심판 사건에 대한 선고를 모두 오전 10시에 진행해 왔는데, 윤 대통령의 선고 시각은 오전 11시로 다른 사건 선고 시각보다 1시간 늦게 잡았다. 부장판사 출신 한 변호사는 “선고일 오전 마지막 평의를 열어 결정문 문구 하나하나를 철저히 점검하기 위해 선고 시작을 다소 늦췄을 가능성이 있다”고 했다.&lt;br&gt;&lt;br&gt;결정문도 평소와 달리 4일 오후에나 공개하기로 했으며, 별도 보도 자료도 제공하지 않는다고 한다. 비실명화 작업과 보도 자료 작성 과정에서 결정 내용이 유출되는 것을 막기 위해서다. 특히 재판관들은 외부인이 출입할 수 없는 헌재 구내식당에서 식사를 해결하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘방청 신청’ 놓고도 양측 기싸움… 20석에 10만명 몰려</title>
-      <link>https://www.chosun.com/national/national_general/2025/04/04/QQS5WIGS3ZAIHIOXXCON6GHCJA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/04/QQS5WIGS3ZAIHIOXXCON6GHCJA/</guid>
-      <dc:creator>김혜민 기자, 최하연 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 03 Apr 2025 15:55:00 +0000</pubDate>
-      <content:encoded>윤석열 대통령 탄핵 심판 선고 방청을 신청한 시민이 3일 10만명 가까이 몰렸다. 신청이 마감된 이날 오후 5시, 헌법재판소는 총 9만6370명이 방청을 신청했다고 밝혔다. 이 중 20명만이 헌재 대심판정 방청석에 입장할 수 있어, 경쟁률은 4818대1이었다. 역대 대통령 탄핵 심판 선고 방청 신청 중 최고 수치다. 2004년 5월 노무현 전 대통령 탄핵 선고 경쟁률은 21대1(60명 선발에 1278명 신청)이었고, 2017년 3월 박근혜 대통령 탄핵 선고 경쟁률은 795대1(24명 선발에 1만9096명 신청)이었다.&lt;br&gt;&lt;br&gt;앞서 헌재는 지난 1일 윤 대통령 탄핵 심판 선고 기일을 4일로 발표하고, 이날 오후 4시부터 홈페이지에서 방청 신청을 받았다. 헌재 관계자는 “방청 신청 공지가 올라간 후 5분에 한 번꼴로 문의 전화가 온다”고 했다. 방청 신청 사이트 접속자는 최다 9만명에 달했다. 방청 신청이 시작된 1일부터 소셜미디어에서는 방청 신청 인증 게시물이 줄을 잇고 있다. 이번 방청 신청에 참여한 장진우(26)씨는 “처음에 신청하려고 들어가 보니, 동시 접속자만 6만명이 넘고 1시간 이상 대기를 해서 (신청을) 포기하려 했다”며 “몇 시간 뒤에 겨우 성공했다”고 했다. 직장인 A씨는 “오랜 대기 시간 때문에 신청을 포기하는 대신 당일 연차를 쓰고 TV 생중계를 보겠다는 친구가 많다”고 했다. 헌재는 이날 오후 5시 신청을 마감했고, 전자 추첨을 거쳐 문자 메시지로 당첨 사실을 알렸다. 헌법재판소 정문 안내실에서 방청권을 교부한다. 심판정 입정은 오전 10시 20분부터 50분까지다.&lt;br&gt;&lt;br&gt;방청 신청을 두고 “반대 세력이 당첨되는 것을 막아야 한다”며 탄핵 찬반 세력 간 신경전도 벌어지고 있다. “쪽수 싸움에서 질 수 없다”며 신청을 독려하는 글이 지난 1일부터 X(옛 트위터), 스레드 등에 잇따라 올라오고 있다. 구정우 성균관대 사회학과 교수는 “두 세력이 거리에서는 물론 온라인에서도 강하게 맞붙어 탄핵 방청 신청 과열화로 이어지는 양상”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>복학 이어 수업 참여 의대생 갈수록 늘어</title>
-      <link>https://www.chosun.com/national/education/2025/04/04/ZHD23LPOAFGDZLPVNJOOFJTHYU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2025/04/04/ZHD23LPOAFGDZLPVNJOOFJTHYU/</guid>
-      <dc:creator>최인준 기자, 표태준 기자, 오주비 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 03 Apr 2025 15:55:00 +0000</pubDate>
-      <content:encoded>강경 의대생 단체에서 ‘수업 거부’로 대정부 투쟁을 이어가는 가운데, 서울대·연세대·고려대 등 주요 의대 본과 학생들 위주로 수업 참여율이 40~60%대로 높은 것으로 나타났다. 여전히 예과생(1·2학년)들의 수업 참여율은 낮지만 ‘수업 거부’라는 의대생 ‘단일 대오’는 깨지고 있는 것이다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CFEAQLVTN5AHPNLKJVKUXNHOUE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;3일 서울 연세대 의대 건물로 학생이 들어가고 있다. 이날 서울대·고려대를 포함한 주요 의대의 일부 학년에서 수업 참여가 늘어난 것으로 나타났다. /고운호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;3일 본지 취재를 종합하면, 서울대는 본과 4학년 111명 중 72명(64.8%)이 의대 수업을 듣고 있는 것으로 확인됐다. 연세대는 본과 4학년 93명 중 44명(47.3%)이 수업에 참여 중이고, 본과 3학년도 비슷한 상황이다. 고려대는 본과 2학년 74명 중 47명(63.5%)이 강의실로 돌아왔다. 다음 주부터 본격 시작되는 임상 실습을 앞두고 유급 처분을 걱정한 본과생들이 대거 수업에 복귀한 결과로 풀이된다.&lt;br&gt;&lt;br&gt;대학가에선 주요 대학을 시작으로 다른 의대에서도 수업 참여가 늘어날 것이라는 전망이 나온다. 지난달에도 의대생 단체 주도로 ‘미등록 투쟁’ 움직임이 일었지만 정부와 대학들이 학칙대로 제적한다는 원칙을 고수하자 주요 의대부터 ‘전원 복학’으로 기운 바 있다.&lt;br&gt;&lt;br&gt;한편 “수업을 거부하는 학생들은 원칙대로 유급 처리해야 한다”는 목소리가 대학가에서 커지고 있다. 서울의 한 의대 관계자는 “의대 교육 정상화가 절박한 만큼 ‘유급’을 원칙대로 적용할 수밖에 없다”면서 “학생들이 피해를 보지 않도록 하루빨리 수업에 복귀하길 바란다”고 말했다.&lt;br&gt;&lt;br&gt;연세대 의대 교수 517명은 이날 단체 성명을 내고 “용기를 내어 학교로 돌아온 이상 젊음의 소중한 시간을 희생하지 말고, 수업에 참여하여 주길 희망한다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LEHCMJOGMFGI7G7GD2EMHVWFPU.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=이진영&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;◇“수업 불참 땐 유급, 원칙 확실히 해야 의대생 돌아올 것”&lt;/b&gt;&lt;br&gt;&lt;br&gt;주요 의대 본과 학생들을 중심으로 수업 참여율이 높아진 것은 더 이상 수업에 빠지면 ‘유급’을 당할 수 있기 때문이다. 고려대는 3일 본과생들의 병원 실습을 시작했다. 서울대, 연세대는 다음 주 실습이 시작된다. 대학마다 기준이 다르지만, 전체 실습 일수의 4분의 1 또는 3분의 1을 빠지면 성적과 관계없이 유급 처리된다. 의사 면허 자격 시험인 국가고시에도 응시할 수 없다.&lt;br&gt;&lt;br&gt;주요 대학들은 최근 학생들에게 이런 점을 알리며 수업 참여를 호소했다. 고려대는 1학기 개강일(3월 4일)이 아닌 복학 신청 마감일인 3월 31일을 수업 시작일로 하고, 이를 기준으로 수업·실습 일정의 3분의 1을 빠질 경우 유급 대상이 될 수 있다는 내용의 학사 원칙을 의대생들에게 안내했다. 연세대도 오는 7일 시작되는 임상 실습을 앞두고 사전 강의를 진행하며 “본과생은 해당 수업을 이수하지 않으면 교수 판단에 따라 학기 중 유급 통보를 할 수 있다”고 공지했다. &lt;br&gt;&lt;br&gt;의대는 보통 전공 과목 하나라도 F를 받으면 유급된다. 본과생들의 실습은 모두 전공 과목이기 때문에 교양 수업을 주로 듣는 예과생들보다 부담이 크다. 본과 3·4학년은 강경한 의대생 단체 지도부들보다 선배인 경우가 많아 예과생들에 비해 압박을 덜 받은 측면도 있다.&lt;br&gt;&lt;br&gt;정부와 대학들은 지난해 의대생들의 집단 휴학을 받아준 데 이어 올해도 대규모 제적을 막기 위해 개강일과 등록금 납부일을 늦춰준 바 있다. 그 결과, 3일 기준 전국 의대 40곳 중 39곳에서 전원 등록금을 내고 복학 신청을 마쳤다. 대규모 제적을 피한 것이다. &lt;br&gt;&lt;br&gt;전국 의대에서는 수강 신청과 시험 기간 일정 등을 연기했고, 일부 학교에선 출석 확인 절차 없이 온라인·동영상 수업으로 강의를 대체하고 있다. 이에 다른 학과 학생들 사이에선 “왜 의대생에게만 과도하게 특혜를 주느냐”는 비판이 나오는 상황이다.&lt;br&gt;&lt;br&gt;일부 학교 측이 수업을 거부하는 학생에 대해 미온적으로 대처하는 기류도 있다는 것이다. 성균관대는 학생 대다수가 수업 거부로 최근 유급 대상이 됐는데도 처리를 미루고 있다. 최근 수업에 복귀한 서울 지역의 한 의대생은 “학생들이 수업에 들어오게 하려면 대학이 원칙을 지키는 모습을 보여줘야 한다”면서 “수업을 거부하는 학생이 유급되지 않으면 복귀한 학생만 욕을 먹는 게 아니냐”고 말했다.&lt;br&gt;&lt;br&gt;본과생들은 유급 우려 등으로 수업 참여율이 높아지고 있지만, 예과생들은 여전히 낮은 편이다. 대한의과대학·의학전문대학원학생협회(의대협)는 지난 2일 자체 조사 결과, 전국 40개 의대 중 15곳의 평균 수강률이 3.9%라고 주장했다. 대체로 예과생들은 강의를 듣는 비율이 낮은 것으로 알려져 있다. 한 의대 교수는 “저학년 학부생들에겐 의대 교수보다 전공의가 더 무서운 존재”라며 “일부 강성 전공의들이 의대협을 통해 학부생에게 수업 복귀를 하지 못하도록 압박하고 있어 수업 복귀 문제가 쉽게 풀리기 어려운 상황”이라고 했다.&lt;br&gt;&lt;br&gt;일부 수업 복귀가 이뤄지는 가운데 의대생들 사이에선 4일 헌법재판소의 윤석열 대통령 탄핵 선고 결과를 본 뒤 수업 거부 지속 여부를 결정하자는 목소리가 나오고 있는 것으로 알려졌다. 윤 대통령이 복귀할 경우 교육부가 내놓은 ‘내년도 증원 0명’ 조정안에 변동이 생길 가능성이 있어 헌재 선고 전에 수업 복귀 여부에 대해 결정을 내리기 어렵다는 것이다.&lt;br&gt;&lt;br&gt;연세대 의대 교수 517명은 이날 단체 성명에서 “학장단이 학사 정상화 추진 과정에서 원칙을 지키고자 했던 학사 일정에 대해 대학의 취지를 학생들에게 설명하고 공감대를 형성하기 위한 소통이 충분하지 않아 학생들이 받았을 심리적 부담과 상처를 이해한다”고 했다. 그러면서 학장단에 “향후 학생 의견을 반영하는 구조를 마련하기 위해 학생들과 적극적으로 대화할 것을 요구한다”고 했다.&lt;br&gt;&lt;br&gt;한편 대한의사협회는 이날 미복귀 의대생에 대한 제적 처분이 이뤄질 경우 의사들의 휴진·파업까지 진행할 수 있다고 밝혔다. 김성근 의협 대변인은 “학생 제적이 현실화하고 있어 여러 투쟁 방식을 논의 중”이라며 “집회와 휴진 파업을 모두 고려하고 있고 이미 날짜를 포함한 기본적인 투쟁 계획을 확정했다”고 했다. 의협 측은 “미등록, 수업 거부 등으로 제적 위기에 놓인 의대생이 수백에서 수천 명에 달하는 것으로 파악하고 있다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>진보 교육청 10곳 “탄핵 선고 시청 가능” 학교에 공문 보내</title>
-      <link>https://www.chosun.com/national/education/2025/04/04/NNOEGRUGEFHDVCE2X65PNN5HFU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2025/04/04/NNOEGRUGEFHDVCE2X65PNN5HFU/</guid>
-      <dc:creator>김민기 기자, 오주비 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 03 Apr 2025 15:53:00 +0000</pubDate>
-      <content:encoded>전국 시·도교육청 17곳 가운데 진보 성향 교육감이 이끄는 10곳이 학생들에게 윤석열 대통령 탄핵 심판 선고 생중계를 보도록 권하는 공문을 보낸 것으로 나타났다.&lt;br&gt;&lt;br&gt;부산시교육청은 3일 관내 초·중·고교에 보낸 ‘헌법재판소 대통령 탄핵 선고 생중계 시청 안내’라는 제목의 공문에서 “4일 대통령 탄핵 심판 선고 생중계가 예정돼 있으니, (생중계를) 민주주의 절차와 헌법 기관 기능에 관한 교육 활동에 활용하기 바란다”고 했다. 전날 교육감 재선거에서 진보 진영 단일 후보로 당선된 김석준 부산교육감의 취임 후 첫 지시에 따른 것이었다. 김 교육감은 “4일 오전 11시 역사적인 현장이 펼쳐진다”며 “헌법과 민주주의를 다시 생각하는 시간이 되기 바란다”고 했다.&lt;br&gt;&lt;br&gt;학생들이 탄핵 선고 생중계 시청을 하도록 권고하는 내용의 공문을 하달한 교육청은 서울·부산·인천·광주·울산·세종·충남·전북·전남·경남 10곳이다. 모두 현재 진보 교육감이 수장을 맡고 있다. 진보 교육감들은 별도로 온라인을 통해 헌재 선고를 보도록 홍보했다. 김대중 전남교육감은 지난 1일 소셜미디어(SNS)를 통해 탄핵 시청 권고 공문 발송 사실을 알리며 “시청 여부는 각 학교가 자율적으로 정하되, 가능한 많은 학생이 선고를 시청하도록 하겠다”고 했다. 최교진 세종교육감도 2일 소셜미디어에서 “선고를 바라볼 학생들의 표정이 궁금하다. 학생들에게는 잊지 못할 교육 과정이 될 것”이라고 했다. &lt;br&gt;&lt;br&gt;전국교직원노동조합(전교조)도 3일 성명을 통해 “전국에 있는 모든 학생이 민주 시민 교육의 역사적 체험을 하도록 헌재 선고를 봐야 한다”고 주장했다. 전교조는 모든 시·도교육청에 일선 학교에서 탄핵 심판 생중계를 볼 수 있도록 안내 공문을 보낼 것을 요청했다. 반면 초등교사노조는 “교육감의 정치 성향에 따라 시청 권장 여부가 결정된 것”이라며 “학부모 민원이 부담된다”고 했다. 중도·보수 교육감이 있는 7곳은 별도로 선고 생방송 시청 관련 공문을 보내지 않았다.&lt;br&gt;&lt;br&gt;일각에선 교육청의 선고 생방송 시청 권고를 두고 ‘교사의 정치적 견해를 학생에게 주입할 수 있다’는 비판이 제기됐다. 이에 교육부는 3일 교육청 17곳에 공문을 보내 ‘교육에서의 정치적 중립 등 관련 법령을 위반하지 말아야 하며 시청을 위해 학교 수업을 변경하는 경우 적법한 절차를 거쳐야 한다’고 했다. 교육부 관계자는 “헌재 생중계 방송을 시청하는 학교에서 교사가 자신의 정치적 생각을 드러내선 안 된다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>김홍희 前 해경청장 기소… 文 인척에 승진 청탁 혐의</title>
-      <link>https://www.chosun.com/national/court_law/2025/04/04/FDXC7S5LKRDW7PODXMSNDHINFY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/04/04/FDXC7S5LKRDW7PODXMSNDHINFY/</guid>
-      <dc:creator>이민준 기자, 유희곤 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 03 Apr 2025 15:53:00 +0000</pubDate>
-      <content:encoded>서울중앙지검 형사5부(부장 김태헌)는 3일 경비함정 도입 과정에서 뇌물을 받고 성능 기준을 낮춰 일감을 몰아준 혐의(뇌물수수) 등으로 김홍희 전 해양경찰청장을 구속 기소했다. 검찰은 또 김 전 청장과 함께 금품을 수수한 현직 총경 2명과 뇌물을 준 A사 관계자 3명, 브로커 2명 등 7명도 기소했다.&lt;br&gt;&lt;br&gt;김 전 청장은 함정 장비 업체인 A사 관계자들의 도움으로 해경청장에 임명되자, A사가 해경 사업을 수주할 수 있도록 성능 기준을 낮추는 등 도운 혐의를 받고 있다. 김 전 청장은 그 대가로 2020년 4월부터 2022년 5월까지 A사 측으로부터 약 4790만원의 뇌물을 받은 것으로 조사됐다. &lt;br&gt;&lt;br&gt;실제 A사는 김 전 청장 임명 직후인 2020년 7월경 동해함 사업에 엔진을 납품하고, 이듬해 ‘서해함’ 사업에서도 엔진 납품을 수주하는 등 매출만 342억원에 이르는 것으로 파악됐다. 이 과정에서 김 전 청장은 A사에 유리하도록 함정 설계를 변경하는 등 편의를 제공한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;검찰 조사에서는 A사 관계자들이 문재인 전 대통령 인척인 한의사 이모씨 등에게 실제 김 전 청장의 승진을 청탁하고 10억원가량의 뇌물을 전달한 것으로 드러났다. 검찰은 이씨 등도 알선수재 혐의로 기소했지만, 실제 문 전 대통령 등에게 김 전 청장의 승진 청탁이 이뤄졌는지 여부는 확인하지 못했다고 한다. &lt;br&gt;&lt;br&gt;검찰 관계자는 “이 사건은 해경 최고위 간부와 업체 간 유착뿐만 아니라, 인사권자와 특별한 관계가 있는 브로커를 통한 승진 청탁, 사업 수주, 금품 수수가 연결된 고도의 부패 범죄”라고 설명했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>광화문·안국역·한남동 관저 앞... 내일 15만명 집회 신고</title>
