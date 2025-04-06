@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>곤봉으로 경찰버스 부순 尹지지자 구속… “도망할 염려”</title>
+      <link>https://www.chosun.com/national/court_law/2025/04/06/ZBVCEHYU6FGJ7OEPOBGXYPOIYY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/04/06/ZBVCEHYU6FGJ7OEPOBGXYPOIYY/</guid>
+      <dc:creator>방극렬 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 06 Apr 2025 08:26:40 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SDJ7VLWEPQKCYZMPK45PQF3BFI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 4일 윤석열 전 대통령 탄핵 인용 직후인 오전 11시 30분쯤, 서울 안국역 인근에서 20대 남성이 곤봉으로 경찰버스 창문을 파손했다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;헌법재판소의 윤석열 전 대통령 탄핵 인용 결정에 격분해 경찰버스를 파손한 남성이 6일 구속됐다.&lt;br&gt;&lt;br&gt;서울중앙지법 염혜수 판사는 이날 20대 남성 이모씨의 영장실질심사를 진행한 뒤 “도망할 염려가 있다”며 구속했다.&lt;br&gt;&lt;br&gt;경찰에 따르면, 이씨는 헌재가 지난 4일 윤 전 대통령 파면을 선고한 직후 서울 안국역 5번 출구 앞에 세워진 경찰버스 유리창을 곤봉으로 부순 혐의(특수공용물건손상 등)를 받는다. 경찰은 범행 직후 이씨를 체포하고 곤봉을 압수한 뒤, 구속영장을 신청해 발부받았다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>대구 산불 진화 중 헬기 추락...70대 조종사 1명 사망  </title>
       <link>https://www.chosun.com/national/incident/2025/04/06/G4VAZKRKRJAMHFXADJW35EIDAE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/04/06/G4VAZKRKRJAMHFXADJW35EIDAE/</guid>
@@ -879,15 +888,6 @@
       <description/>
       <pubDate>Fri, 04 Apr 2025 06:16:31 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JHPLWMAGLFPRFIRAC7J57R4ZAU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;4일 오전 울산 울주군 온양읍 운화리 대운산에서 관계기관이 산불 원인 조사를 위해 현장 합동감식을 하고 있다. 이날 감식에는 경찰과 국립과학수사연구원, 소방, 울주군 특사경 등 7곳이 참여했다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;울산에서 난 산불 중 역대 최대 피해를 낸 울주 온양읍 대운산 산불에 대한 발화 원인을 규명하기 위한 합동 감식이 4일 진행됐다.&lt;br&gt;&lt;br&gt;울산경찰청은 이날 오전 울주군 온양읍 운화리 산불 발생 현장에서 국립과학수사연구원, 소방 당국, 울주군 특별사법경찰관 등과 함께 현장 감식을 했다고 밝혔다.&lt;br&gt;&lt;br&gt;경찰은 대운산 산불의 최초 발화지로 추정되는 이곳에서 용접 작업이 이뤄졌다는 목격자 진술을 토대로 정확한 발화 원인 등을 확인하는 데 주력했다.&lt;br&gt;&lt;br&gt;불길이 확산한 방향, 지형의 상태, 현장 주변에 남아 있는 증거물 등이 있는지도 살펴봤다.&lt;br&gt;&lt;br&gt;인근 농막에서 용접 작업을 한 것으로 알려진 60대 용의자 A씨에 대한 출석 조사는 지자체의 피해 현황 조사 마무리 후에 이뤄진다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “정확한 피해 규모를 파악한 뒤 용의자를 불러 진술을 받을 것”이라고 말했다.&lt;br&gt;&lt;br&gt;지난달 22일 발생한 대운산 산불은 931㏊(헥타르)의 임야를 태우고 닷새 만에 진화됐다. 이 과정에서 진화 작업을 하던 공무원 2명이 가벼운 상처를 입었고 주택과 창고 등 민간 건물 여러 채가 탔다.&lt;br&gt;&lt;br&gt;경찰은 오는 7일 오전에는 지난달 25일 발생한 울주 언양읍 화장산 산불에 대한 합동감식을 벌일 계획이다.&lt;br&gt;&lt;br&gt;화장산 산불은 등산객 실화로 추정되고 있으나 용의자는 특정되지 않았다. 경찰은 방범카메라 영상 분석 등을 통해 화장산 산불 용의자를 찾고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>파평 윤씨 집성촌 논산 노성면 “안타까운 결과” 탄식</title>
-      <link>https://www.chosun.com/national/regional/chungcheong/2025/04/04/EYI6Z5GVRFGIRLW5OY4GITSYSI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2025/04/04/EYI6Z5GVRFGIRLW5OY4GITSYSI/</guid>
-      <dc:creator>논산=김석모 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 04 Apr 2025 05:40:41 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HMEDL2VDY5FMFKR6QEZR4B4IKY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;4일 오후 충남 논산시 노성면 한 길가에 걸려있는 탄핵 반대 현수막. /김석모 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“아이고, 결국 탄핵이네….”&lt;br&gt;&lt;br&gt;4일 오전 충남 논산시 노성면 한 노인회관. 노인 5명이 텔레비전 앞에 모여 헌법재판소의 윤석열 전 대통령 탄핵 심판을 생중계로 지켜보고 있었다. 오전 11시 22분, 문형배 헌재소장 권한대행이 “피청구인 대통령 윤석열을 파면한다”고 주문을 낭독하자 노인회관 내부는 한동안 적막해졌다. 윤 전 대통령의 탄핵이 인용됐다는 사실을 뒤늦게 깨달은 전모(85)씨는 “어쩔 수 없는 결과가 나왔다”면서 “국정을 잘 운영해 임기를 모두 채울 줄 알았는데 안타깝다”고 말했다.&lt;br&gt;&lt;br&gt;논산시 노성면 일대는 파평 윤씨 종친들이 모여사는 곳이다. 노성면 교촌리에는 조선시대의 학자 윤증이 살았던 명재고택(중요민속문화제 190호)이 있다. 조선시대 노론 송시열과 대립한 소론의 영수 윤증은 윤 전 대통령의 10대조 종조부(從祖父)다. 윤 전 대통령은 지난해 4월 명재고택을 찾았고, 앞서 2021년 8월 대통령 선거 예비후보자 신분일 때도 명재고택을 방문한 인연이 있다. &lt;br&gt;&lt;br&gt;헌재의 탄핵 인용 결과에 대해 지역 주민들은 당혹감과 안타까움을 드러냈다.&lt;br&gt;&lt;br&gt;노성면 병사리에 거주하는 윤여추(76)씨는 “비상계엄은 대통령이 너무 성급하게 실행했다”면서 “야당이 예산을 삭감하는 등 국가의 정책에 훼방을 놓으니 어쩔 수 없이 비상계엄을 선택해 탄핵이라는 결과가 나왔다”고 말했다. 주민 오모(82)씨는 “국정 운영에 있어 순리대로 풀어나갈 방법을 찾았어야 했다”면서 “비상계엄은 결국 무리수였고, 국민들의 공감도 얻어내지 못했다”고 말했다.&lt;br&gt;&lt;br&gt;노성면 마을 입구 여러곳에는 ‘사기 탄핵 기각하라’는 현수막이 내걸려 있었다. 일부 주민은 헌재의 결정을 부정하기도 했다. 윤모(69)씨는 “헌재의 결정은 받아 들일 수 없다”면서 “대통령이 비상계엄을 선포하지 않았더라면 야당의 횡포를 국민들이 알 수나 있었겠나”라고 말했다. 그는 “그동안 국정을 위해 최선을 다하셨는데…”라며 “같은 집안 사람이라 하는 소리가 아니다. 너무 마음이 아프다”고도 했다.&lt;br&gt;&lt;br&gt;탄핵 결정 이후 국정 혼란이 하루빨리 수습되길 소망하는 주민도 있었다. 이모(65)씨는 “헌재의 결정은 되돌릴 수도 없고 승리, 패배로 나눠 볼 것도 아니다”면서 “여야가 모두 헌재 결정을 인정하고, 국정이 잘 운영될 수 있도록 협치해 나가야 한다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>전한길 “예상과 달리 인용돼 당황... 결과 승복하겠다” </title>
