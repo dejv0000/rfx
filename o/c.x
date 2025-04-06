@@ -13,6 +13,28 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>“저게 뭐야”...대낮 차 트렁크에 대형견 매달고 끌고 간 운전자 </title>
+      <link>https://www.chosun.com/national/2025/04/06/4V7Z77JTDVGYBOIIJSNLUIJDVI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2025/04/06/4V7Z77JTDVGYBOIIJSNLUIJDVI/</guid>
+      <dc:creator>김준호 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 06 Apr 2025 13:54:04 +0000</pubDate>
+      <content:encoded>충남 당진에서 승용차 트렁크에 대형견을 매달고 도로를 달리는 사건이 발생해 경찰이 수사에 나섰다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CF3NWGOHCRC7FOB3XG4EPZLL4M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;6일 오후 충남 당진시 한 도로에서 차량 트렁크에 매달린 대형견이 끌려가는 영상 캡처. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;충남 당진경찰서는 대형견을 매달고 주행한 운전자 A씨를 상대로 입건 전 조사를 벌이고 있다고 6일 밝혔다.&lt;br&gt;&lt;br&gt;앞서 이 상황을 본 목격자가 경찰에 신고한 것으로 전해졌다. 경찰에 따르면 A씨는 이날 오후 1시쯤 당진시 대덕동의 한 도로에서 대형견을 트렁크에 매달고 주행한 것으로 조사됐다. &lt;br&gt;&lt;br&gt;경찰이 확보한 영상에서 대형견은 목이 밧줄로 묶인 채 축 늘어져 두 다리와 꼬리가 아스팔트 바닥에 닿은 채 끌려간다고 한다. &lt;br&gt;&lt;br&gt;경찰 신고를 한 목격자는 연합뉴스와의 인터뷰에서 “다른 차들이 마구 경적을 울리며 항의하는 상황이었고 처음엔 저게 뭔지 몰라 굉장히 당황했다”며 “가까이 붙어 확인해보니 대형견이 매달려 있어 너무 놀랐다”고 당시 상황을 전했다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “조사 결과 (당시에) 살아있는 개로 확인됐고, 운전자 신원도 파악했다”며 “A씨 이동동선, 동물 학대 증거 등을 추가로 조사하고 동물보호법 위반 혐의로 입건해 정확한 경위를 파악할 방침이다”고 말했다. &lt;br&gt;&lt;br&gt;해당 대형견은 끝내 목숨을 잃은 것으로 전해졌다. &lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/FENBL2RRYFHPTMY2LFI4XY74TM.jpg?width=980&amp;height=735&amp;auth=1c0c6a2979d239c85036347333fa3e6583671755536b344b2a687d2d1d5daff1&amp;smart=true" type="image/jpeg" height="735" width="980">
+        <media:description type="plain">6일 오후 충남 당진시 한 도로에서 차량 트렁크에 매달린 대형견이 끌려가는 영상 캡처. /연합뉴스</media:description>
+        <media:credit role="author" scheme="urn:ebu"/>
+      </media:content>
+    </item>
+    <item>
+      <title>바지선 벙커에 물 채우고 지인 감금, 둔기 폭행… 가혹행위한 40대 징역 2년</title>
+      <link>https://www.chosun.com/national/national_general/2025/04/06/FXWD6MO4A5HGROQQMHMDUM2FWQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/06/FXWD6MO4A5HGROQQMHMDUM2FWQ/</guid>
+      <dc:creator>최혜승 기자 </dc:creator>
+      <description/>
+      <pubDate>Sun, 06 Apr 2025 10:44:36 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/U6Z2CPKMHZF7JCPKBDGRQY6BL4.png"&gt;&lt;figcaption&gt;&lt;small&gt;/일러스트=조선디자인랩 정다운&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;바지선 내 벙커에 물을 채워 지인을 감금하고 가혹행위를 한 40대가 항소심에서도 징역형을 선고받았다. &lt;br&gt;&lt;br&gt;6일 법조계에 따르면 서울고법 춘천재판부 제1형사부(이은혜 부장판사)는 중감금치상, 특수공무집행방해 혐의로 기소된 A(47)씨 측 항소를 기각하고 원심과 같은 징역 2년을 선고했다.&lt;br&gt;&lt;br&gt;A씨는 작년 6월 27일부터 7월 1일까지 지인 B(51)씨를 자신이 살고 있는 바지선에 감금하고 가혹행위를 해 전치 2주의 상처를 입힌 혐의로 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;판결문에 따르면 A씨는 작년 6월 27일 오전 1시 30분쯤 강원 화천군의 집에서 잠을 자고 있던 B씨를 깨워 차량에 태웠다. A씨는 차 안에서 함께 술을 마시던 중 “사람을 죽였다”고 말했다. 이에 겁을 먹은 B씨가 “집에 가겠다”며 자리를 피하려 하자, A씨는 B씨와 함께 유원지 선착장으로 이동한 뒤 바지선으로 데려갔다.&lt;br&gt;&lt;br&gt;A씨는 전기 이발기로 B씨의 머리를 밀고 “넌 죽었어” “13시간 남았어”라며 주먹질하거나 망치로 어깨를 폭행했다. &lt;br&gt;&lt;br&gt;또 밀폐된 지하 벙커에 B씨를 들어가게 한 뒤 호스를 넣어 물을 채우며 B씨를 1시간가량 감금했다. 이후 벙커 밖으로 나온 B씨에게 강물 위에 설치된 그네를 타게 하고 “2시간을 깎아주겠다”며 그네 줄을 밀고 당기며 겁을 줬다.&lt;br&gt;&lt;br&gt;공포심을 느낀 B씨가 극단적 선택을 생각하며 강물에 뛰어들었으나, A씨는 B씨를 건져내 다시 가혹 행위를 이어갔다.&lt;br&gt;&lt;br&gt;이후 A씨는 B씨에게 집으로 가 총기를 가져오라고 시켰다. 이에 B씨의 모친이 집을 나가지 못하도록 막아서자 “빨리 안 나오면 돌로 찍어 죽여버리겠다”고 협박한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;이 밖에도 A씨는 119 신고로 출동한 구급 대원들을 병원으로 바로 이송해 주지 않는다는 이유로 위협하고 출동한 경찰관들이 테이저건을 조준하자 자해하려고 한 혐의도 받는다. &lt;br&gt;&lt;br&gt;결국 A씨는 중감금치상, 특수공무집행방해 혐의로 기소됐다. 1심은 “피해자는 상당한 육체적·정신적 고통을 느꼈을 것으로 보인다”며 실형을 내렸다.&lt;br&gt;&lt;br&gt;A씨는 형이 무겁다며 항소했으나 2심은 “피해자가 원심에 이어 당심에서도 피고인 처벌을 원하지 않는다는 의사를 표시했지만, 수사 과정에서부터 처벌불원서 작성을 종용한 사정 등에 비춰보면 피해자가 과연 적정하게 피해 보상을 받았는지 의문이 든다”며 기각했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>곤봉으로 경찰버스 부순 尹지지자 구속… “도망할 염려”</title>
       <link>https://www.chosun.com/national/court_law/2025/04/06/ZBVCEHYU6FGJ7OEPOBGXYPOIYY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/04/06/ZBVCEHYU6FGJ7OEPOBGXYPOIYY/</guid>
@@ -879,25 +901,6 @@
       <description/>
       <pubDate>Fri, 04 Apr 2025 06:22:23 +0000</pubDate>
       <content:encoded>피해자의 진술이 ’특별히 신빙할(믿을) 수 있는 상태(특신상태)’에서 나왔다는 것이 증명되지 않는다면, 피해자의 법정 증언 없이 조서를 증거로 채택할 수 없다는 대법원 판단이 나왔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/N5BGHLJ7INCJFHGRI7COETXTW4.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초동 대법원. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;4일 법조계에 따르면 대법원 2부(주심 오경미 대법관)는 지난달 13일 특수절도, 공동폭행 등 혐의로 기소된 A씨에게 무죄를 선고한 원심을 확정했다.&lt;br&gt;&lt;br&gt;우즈베키스탄 국적 유학생 A씨는 같은 유학생인 피해자 B씨가 1000만원을 빌렸지만 돈을 갚지 않자, 지난 2022년 8월 돈을 받아낼 목적으로 공범과 함께 B씨의 여권을 훔치고 폭행한 혐의 등으로 재판에 넘겨졌다. &lt;br&gt;&lt;br&gt;피해자 B씨는 이후 경찰에 신고해 진술 조서를 작성했고, 검찰은 이 같은 증거 등을 근거로 A씨를 기소했다. &lt;br&gt;&lt;br&gt;하지만 1심에서 증인으로 채택된 B씨는 법정에 출석했으나 늦게 나와 증인 신문을 받지 못했다. B씨는 다음 기일을 고지 받은 뒤 출석하지 않았고, 국내에 체류하고 있는 게 확인됐는데도연락이 닿지 않아 결국 증인 신문 자체가 진행되지 않았다.&lt;br&gt;&lt;br&gt;이 사건의 쟁점은 B씨 경찰 진술 조서의 증거 능력을 인정할 수 있는지였다. 형사소송법 314조는 “공판 기일에 진술을 해야하는 사람이 사망, 질병, 외국 거주 등 사유로 진술할 수 없는 때에는 그 조서를 증거로 할 수 있다”면서도 “다만 진술 또는 작성이 특히 신빙할 수 있는 상태 하에서 행해진 때에 한한다”고 규정하고 있다.&lt;br&gt;&lt;br&gt;앞서 1심은 “B씨가 증인 신문을 회피했다기보다는 부득이한 사정이 생긴 것으로 보인다”면서 조서의 증거 능력을 인정하고, A씨에게 징역 8개월에 집행유예 2년을 선고했다.&lt;br&gt;&lt;br&gt;그러나 2심은 “피해자 B씨는 국내에 체류하면서도 일절 연락을 받지 않아 결국 증인 신문이 이뤄지지 못했는데, 이는 의도적으로 증인 신문을 회피한 것으로 볼 여지가 많다. B씨가 법정 출석이 불가능한 상황이 아니었고, 조서도 특별히 신빙할 수 있는 상태에서 작성됐다고 보기 어렵다”며 조서를 증거에서 배제, 1심 판단을 뒤집고 무죄를 선고했다. &lt;br&gt;&lt;br&gt;대법원도 2심이 법리를 오해한 잘못 등이 없다며 검찰 측 상고를 기각해 판결을 확정했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>역대 최대 피해 울산 울주, 산불 합동감식</title>
-      <link>https://www.chosun.com/national/regional/2025/04/04/GN63VKVAF5FSVAC2BSLYAI76PM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/04/04/GN63VKVAF5FSVAC2BSLYAI76PM/</guid>
-      <dc:creator>울산=김주영 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 04 Apr 2025 06:16:31 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JHPLWMAGLFPRFIRAC7J57R4ZAU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;4일 오전 울산 울주군 온양읍 운화리 대운산에서 관계기관이 산불 원인 조사를 위해 현장 합동감식을 하고 있다. 이날 감식에는 경찰과 국립과학수사연구원, 소방, 울주군 특사경 등 7곳이 참여했다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;울산에서 난 산불 중 역대 최대 피해를 낸 울주 온양읍 대운산 산불에 대한 발화 원인을 규명하기 위한 합동 감식이 4일 진행됐다.&lt;br&gt;&lt;br&gt;울산경찰청은 이날 오전 울주군 온양읍 운화리 산불 발생 현장에서 국립과학수사연구원, 소방 당국, 울주군 특별사법경찰관 등과 함께 현장 감식을 했다고 밝혔다.&lt;br&gt;&lt;br&gt;경찰은 대운산 산불의 최초 발화지로 추정되는 이곳에서 용접 작업이 이뤄졌다는 목격자 진술을 토대로 정확한 발화 원인 등을 확인하는 데 주력했다.&lt;br&gt;&lt;br&gt;불길이 확산한 방향, 지형의 상태, 현장 주변에 남아 있는 증거물 등이 있는지도 살펴봤다.&lt;br&gt;&lt;br&gt;인근 농막에서 용접 작업을 한 것으로 알려진 60대 용의자 A씨에 대한 출석 조사는 지자체의 피해 현황 조사 마무리 후에 이뤄진다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “정확한 피해 규모를 파악한 뒤 용의자를 불러 진술을 받을 것”이라고 말했다.&lt;br&gt;&lt;br&gt;지난달 22일 발생한 대운산 산불은 931㏊(헥타르)의 임야를 태우고 닷새 만에 진화됐다. 이 과정에서 진화 작업을 하던 공무원 2명이 가벼운 상처를 입었고 주택과 창고 등 민간 건물 여러 채가 탔다.&lt;br&gt;&lt;br&gt;경찰은 오는 7일 오전에는 지난달 25일 발생한 울주 언양읍 화장산 산불에 대한 합동감식을 벌일 계획이다.&lt;br&gt;&lt;br&gt;화장산 산불은 등산객 실화로 추정되고 있으나 용의자는 특정되지 않았다. 경찰은 방범카메라 영상 분석 등을 통해 화장산 산불 용의자를 찾고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>전한길 “예상과 달리 인용돼 당황... 결과 승복하겠다” </title>
-      <link>https://www.chosun.com/national/national_general/2025/04/04/Z7RPQHQQ3RA3VHGOTUTYWZTP5A/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/04/Z7RPQHQQ3RA3VHGOTUTYWZTP5A/</guid>
-      <dc:creator>박선민 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 04 Apr 2025 05:00:51 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/O7MQWMCVO5MFHIATVY75JV5UQU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt; 전한길 강사가 지난달 27일 경남 거제시 고현매립지에서 열린 국민의힘 박환기 거제시장 후보 집중유세에서 지지 발언을 하고 있다. /뉴시스
-&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 전 대통령 탄핵 반대를 주장해온 한국사 일타 강사 전한길씨는 4일 헌법재판소의 탄핵 인용 결정이 나오자, 당황스럽다는 반응을 보이면서도 결과에 승복하겠다고 밝혔다. &lt;br&gt;&lt;br&gt;전씨는 4일 자신의 유튜브 채널을 통해 헌재의 윤 전 대통령 탄핵 심판 선고 장면을 실시간으로 지켜보던 중 탄핵 인용이 확정되자 책상을 내려치면서 얼굴을 감싸쥐었다.&lt;br&gt;&lt;br&gt;전씨는 “전한길의 입장을 말씀드리겠다”면서 고개를 숙이고 한숨을 내쉰 뒤 “먼저 예상치 못한 결과를 봐서 많이 당황스럽다”고 했다. 이어 “저와 같은 입장에서 윤 대통령 탄핵 반대, 직무 복귀를 주장해오신 모든 국민 여러분께 제가 많이 부족했다는 생각이 든다”며 “미안하고 죄송한 마음”이라고 했다. &lt;br&gt;&lt;br&gt;전씨는 “우리가 추구한 가치는 (탄핵) 찬반을 떠나 국민 통합, 자유민주주의 수호, 법치·공정·상식 가치가 존중되는 사회를 만드는 것이었다”며 “개인의 이익을 위해서가 아니라 국가, 국민 그리고 미래 세대를 위해 투쟁했다. 진실하고 정직했으며, 보편적 가치를 추구해왔다고 생각한다”고 했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/M2OEO5PQ3RB5VN3IRXOI757SGE.png"&gt;&lt;figcaption&gt;&lt;small&gt;한국사 강사 전한길씨가 헌재 탄핵 인용 결정 소식을 듣고 말을 잊지 못하고 있다. /유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그러면서도 그는 헌재의 결정에 승복한다고 밝혔다. 전씨는 “어떤 결과가 나오든 결과에 승복하겠다고 약속드렸다”며 “저와 같은 뜻이었던 분들께 탄핵 선고 결과를 받아들이시길 부탁드린다. 이게 바로 우리가 추구하는 자유민주주의, 법치주의이기 때문”이라고 했다. &lt;br&gt;&lt;br&gt;전씨는 그러나 “헌재의 선고 내용 자체가 보편적 가치라고 생각하지는 않는다”고 했다. 그는 미국의 대표적인 오판 중 하나로 꼽히는 ‘드레드 스콧 판결’(1857년 미국 연방대법원이 ‘헌법은 백인만을 위해 제정된 것으로 흑인에게는 아무런 권리가 없으며 그들은 일종의 자산’이라고 선언한 사건) 사례를 들며 “헌재 결과에 대해서는 승복하지만, 이건 개개인에 대한 공격과 판결에 대한 저항을 자제해 달라는 것이지, 헌재 선고 내용 자체를 비판하지 말라는 것은 아니다”라고 했다. &lt;br&gt;&lt;br&gt;전씨는 “오늘의 패배는 하루짜리 패배일 뿐”이라며 “조기 대선에서 반드시 보수파가 승리해서 자유민주주의가 실현되고, 법치 공정 상식이 살아나는 대한민국을 후손과 미래 세대에 물려주도록 다시 한번 싸우자”라고 했다. &lt;br&gt;&lt;br&gt;이날 헌법재판소는 윤 전 대통령의 탄핵을 헌법재판관 8명 전원일치 의견으로 인용했다. 윤 전 대통령이 12·3 비상계엄을 선포한 때로부터 122일 만, 작년 12월 14일 탄핵소추안이 접수된 때로부터 111일 만이다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[속보] 尹 “국민 위해 일할 수 있어 큰 영광… 기대 부응 못해 죄송”</title>
