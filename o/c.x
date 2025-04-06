@@ -13,6 +13,168 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>[입에 착착 붙는 일본어] 꼼꼼하게 점검하다</title>
+      <link>https://www.chosun.com/national/nie/japanese/2025/04/08/PSPZJWYNQ5BO7OTFEWCRSJ3I4M/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/japanese/2025/04/08/PSPZJWYNQ5BO7OTFEWCRSJ3I4M/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Sun, 06 Apr 2025 21:02:38 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/N2AST7GCQ5EZBP6QGEJ6XCJD64.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[오늘의 날씨] 2025년 4월 7일</title>
+      <link>https://www.chosun.com/national/national_general/2025/04/07/G5IT4DEPXFCJFNMWKOJKPAMXXU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/07/G5IT4DEPXFCJFNMWKOJKPAMXXU/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Sun, 06 Apr 2025 20:10:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/D6BDEWZ5EBDRJLAVNPIDLACCLY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[스피킹이 강해지는 영어] it’s not unheard of</title>
+      <link>https://www.chosun.com/national/nie/english/2025/04/07/DV7IXVP4MRFHPLCS5SFKLGNGJM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/english/2025/04/07/DV7IXVP4MRFHPLCS5SFKLGNGJM/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Sun, 06 Apr 2025 20:04:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IQMRWNJCIVDLFGISNX2HNM55DA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[매일매일 중국어 한마디] 가격이 합리적이다, 서민 친화적이다</title>
+      <link>https://www.chosun.com/national/nie/chinese/2025/04/07/NDNEAQS3EFCLTHYDEZLUHJFP64/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese/2025/04/07/NDNEAQS3EFCLTHYDEZLUHJFP64/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Sun, 06 Apr 2025 20:04:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KROFEYSEUJFJDJHAXJ43UFTRKU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[신문으로 배우는 실용한자] 편액(扁額)</title>
+      <link>https://www.chosun.com/national/nie/chinese_character/2025/04/07/C3KVJBPUF5D6DCJKSLYGPNE2BE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese_character/2025/04/07/C3KVJBPUF5D6DCJKSLYGPNE2BE/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Sun, 06 Apr 2025 20:02:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/N2GC3K7UFRGIFMIHQTGKOVSFR4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[두근두근 뇌 운동] [2596] 암호로 바꿔 쓰기</title>
+      <link>https://www.chosun.com/national/nie/2025/04/07/3DRR553U45AEFD4FW3JO2JQ76Y/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/2025/04/07/3DRR553U45AEFD4FW3JO2JQ76Y/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Sun, 06 Apr 2025 20:00:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MQ3MMY5KONGBLD2WEUHONSBQ64.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>국민연금 사각지대 놓인 국민 1000만명</title>
+      <link>https://www.chosun.com/national/welfare-medical/2025/04/07/4XWCSWZ4VNARJA3Q5XCCDFVYBA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/04/07/4XWCSWZ4VNARJA3Q5XCCDFVYBA/</guid>
+      <dc:creator>곽래건 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 06 Apr 2025 16:15:28 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/P6UNK4MDONBTNOAQBUVIBT6RXI.png"&gt;&lt;figcaption&gt;&lt;small&gt;/이태경 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김재준(41·가명)씨는 대학을 졸업하고 아르바이트로 사회생활을 시작해 중소기업 공장 보안팀과 소규모 제조 업체 등을 옮겨가며 근무했다. 그는 15년 전 국민연금 보험료를 처음 납부했지만, 실직 상태였던 시기를 포함하면 아직 연금 수급을 위한 최소 가입 기간(10년)을 채우지 못했다. 현재도 실직 상태여서 연금 보험료를 내지 못하고 있다.&lt;br&gt;&lt;br&gt;최근 국민연금 재정 보강을 위한 모수 개혁이 국회에서 일단락된 가운데, 경기 침체 등으로 국민연금 보험료를 내지 못하거나 국민연금 가입률이 낮은 특수 형태​ 근로자 등 ‘연금 사각지대‘가 전체 경제활동층의 3분의 1에 이르는 것으로 나타났다. 최근 국민연금 최고 수급액이 부부 합산 월 542만원에 달했지만, 연금 납부 기간이 짧고 소득 수준이 낮은 가입자 가운데 연금만으로는 노후 대비가 어려운 이도 적지 않다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/H4SIY5AB75BSXHL3AS4W4D3LSI.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=김의균&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;6일 국민연금공단에 따르면, 작년 11월 기준 국민연금 가입 대상인 18~59세 2994만명 가운데 국민연금에 가입해 정상 납부 중인 사람은 1788만명(59.7%)이다. 또 181만명(6.1%)은 국민연금 가입 대상은 아니지만, 공무원·사학연금 등 직역 연금 가입자로 노후 대비에 비교적 문제가 없는 이들이다. &lt;br&gt;&lt;br&gt;반면 국민연금에 가입했지만 사업 중단, 실직·휴직 등으로 소득이 없어 국민연금 납부 대상에서 일시적으로 제외됐거나 13개월 이상 체납한 사람(납부 예외자, 장기 체납자)이 342만명(11.4%)에 이른다. &lt;br&gt;&lt;br&gt;특히 특수 고용직이나 프리랜서 등 지역 가입자 대상이 되는 고용 방식을 중심으로 국민연금 미가입자도 683만명(22.8%)에 이르렀다. &lt;br&gt;&lt;br&gt;국민연금 납부 예외자·체납자에 미가입자를 합친 ‘국민연금 사각지대‘가 총 1025만명(인구 대비 34.2%)에 달하는 셈이다. 우리나라 주 경제활동층(18~59세) 셋 중 한 명은 국민연금을 통한 노후 대비에서 소외돼 있는 것이다. &lt;br&gt;&lt;br&gt;이 가운데 사정상 국민연금을 낼 수 없는 납부 예외자는 2020년 309만8000명에서 작년 11월 278만명까지 줄었다. 장기 체납자도 같은 기간 104만7000명에서 64만명으로 감소했다. 그러나 적지 않은 수가 여전히 국민연금을 내지 못하고 있다. &lt;br&gt;&lt;br&gt;국민연금은 18세 이상, 60세 미만 국민이라면 의무적으로 가입한다. 소득 없는 학생이나 주부 등도 본인이 원하면 가입할 수 있다. 국민연금에 가입했더라도 사업을 중단한 자영업자나 실직자 등은 보험료 납부가 일시 정지되는 ‘납부 유예자’ 신분이 된다. 납부 유예자로 있는 기간은 연금 수령을 위한 가입 기간에 포함되지 않는다. 보험료 장기 체납 시기도 연금 가입 기간에 포함되지 않는다. 최소 10년 가입을 채우지 못하면 연금을 못 받고, 10년이 넘더라도 체납 기간이 길어지면 연금 수령액이 줄어든다. &lt;br&gt;&lt;br&gt;최근 급증하고 있는 배달 라이더 등 플랫폼 노동자나 프리랜서 상당수도 사실상 사각지대에 놓여 있다. 배달 라이더는 특수 형태 근로 종사자로 분류돼 지역 가입자로 가입해야 하는데, 회사와 보험료를 절반씩 나눠 내는 직장인과 달리 보험료 전액을 본인이 부담해 가입률이 낮다. 프리랜서도 사정이 비슷하다. 또한 월 60시간 미만 근무하는 비정규직 단시간 근로자는 국민연금 의무 가입 대상이 아니다. 한국노총 위원장 출신인 김동만 한국플랫폼 프리랜서 노동공제회 이사장은 “국민연금이 기본적으로 정규직과 전일제 노동을 전제로 설계한 사회보험 제도이다 보니, 비정규직이나 단시간 근로자 등은 상대적으로 소외되고 있다”고 했다. &lt;br&gt;&lt;br&gt;문제는 이들이 노후 빈곤에 시달리면 향후 기초생활수급자 증가 등으로 결국 세금을 통한 국민 부담이 커진다는 점이다. 정부는 저소득 근로자를 위해 국민연금 등 보험료를 지원해 주는 ‘두루누리 사업‘을 2012년 도입했고, 지역 가입자 중 납부 재개자의 보험료 50%를 1년 동안 지원해 주고 있다. 그러나 사각지대를 해소하기엔 여전히 부족하다는 지적이다. &lt;br&gt;&lt;br&gt;이용하 전 국민연금연구원장은 “국민연금에 소득 재분배 기능이 있다지만 저소득층 상당수는 보험료를 내지 않아 그 기능이 제대로 작동하지 않는다”며 “국민연금을 보완하는 기초연금 재편 등 연금 구조 개혁으로 사각지대를 줄여야 한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“주민 모두가 산불감시원”… 8만5000그루 금강송 지킨다</title>
+      <link>https://www.chosun.com/national/national_general/2025/04/07/YHNXWZWGPBESXIEXWJAUGTATLA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/07/YHNXWZWGPBESXIEXWJAUGTATLA/</guid>
+      <dc:creator>울진=박진성 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 06 Apr 2025 16:35:04 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NOTSMMD3BJDZRM5C4EJLCHIE3E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;5일 경북 울진군 금강송면 소광리 금강송 숲에서 만난 소광리 주민들. 국내 최대 금강송 군락지를 지키는 사람들이다. 식목일인 이날 금강송 아래서 파이팅을 외치고 있다./ 고운호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 5일 경북 울진군 금강송면 소광리. 국내 최대 금강송(金剛松) 군락지가 있는 마을이다. 이날 특별한 식목일 행사가 열렸다. 마을 주민 5명이 부인회장 집 거실에 모여 앉아 늙은 호박을 쪼개고 있었다. 지난달 산불 피해를 입은 경북 영덕군에 보낼 호박찰떡을 만드는 중이었다. 소나무 묘목 300그루는 전날 심었다. 박월선(61)씨는 “남의 일 같지가 않아서요. 호박찰떡이 든든하고 소화도 잘돼서 최고예요. 드시고 얼른 기운 차리시면 좋겠어요”라고 했다. 마을 주민인 천동수 산림청 소광리산림생태관리센터 주무관은 ‘FOREST POLICE(숲 경찰)’라고 쓰인 빨간색 조끼를 입고 집집마다 다니며 불씨를 점검했다. 그는 “금강송 수백 그루 심는 것보다 불 안 나게 막는 게 더 중요하다”고 했다.&lt;br&gt;&lt;br&gt;소광리에는 37가구 60여 명이 산다. 서울 여의도 면적의 13배(3700ha)에 달하는 광활한 산에 200년 넘는 금강송 8만5000그루가 자라고 있다. 340여 년 전인 조선 숙종 땐 ‘봉산(封山)’으로 지정해 특별 관리했다. 금강송 한 그루만 베어도 곤장 100대를 때렸다.&lt;br&gt;&lt;br&gt;금강송은 보통 소나무와 달리 30m 높이까지 곧게 자란다. 300년 이상 자란 금강송은 어른 2명이 팔을 벌려도 다 감싸지 못할 정도로 굵다. 나이테가 촘촘해 더 단단하고 송진이 많아 잘 썩지도 않는다. 그래서 조선 왕실에서 궁궐을 지을 때 썼다.&lt;br&gt;&lt;br&gt;수백 년간 금강송 숲을 지켜온 주인공은 주민들이었다. 이 산자락에는 과거부터 화전민(火田民)이 많이 살았는데 산불을 막기 위해 주민들끼리 당번을 정해 산불을 감시하는 전통이 있었다. 주민 최수목(64)씨는 “왼쪽 팔뚝에 ‘산불 조심’ 완장을 차고 16㎞씩 산을 타고 다녔다”며 “담배 피우는 사람이 있으면 호루라기를 불고 산불 일지에 이름을 써 마을 이장한테 보고했다”고 했다. &lt;br&gt;&lt;br&gt;정부는 1970년대부터 주민들을 산불 감시원으로 채용했다. 감시 일을 하는 대신 송이를 캘 수 있게 했다. 현재는 10명이 ‘생태관리원’이란 이름으로 일하고 있다. 산림청 소광리산림생태관리센터 소속 계약직 직원이다. 박소영 울진국유림관리소장은 “눈 감고도 숲을 다니는 분들이라 공무원들이 오히려 배우고 있다”고 말했다.&lt;br&gt;&lt;br&gt;지난달 25일 경북 의성 산불이 울진과 가까운 영덕과 영양까지 번지며 마을에 비상이 걸렸다. 불길이 태풍급 서풍을 타고 마을 50㎞ 앞까지 번졌다. 금강송을 지키는 본부인 생태관리센터 주변 스프링클러가 일제히 물을 뿜어 ‘물 방어막’을 만들었다. 마을 주민들은 ‘등짐펌프’에 물을 채웠다. 배낭처럼 생긴 물통에 호스를 달아 물을 뿌릴 수 있게 만든 것이다. 다행히 바람이 북풍으로 바뀌며 불길은 사그라들었다.&lt;br&gt;&lt;br&gt;주민들은 “매년 봄 불이 날 텐데 전국 곳곳에 임도(林道)를 만들어 방어선을 구축해야 한다”고 했다. 임도는 산불이 나면 소방차가 들어가 불을 끌 수 있게 만든 숲속 길이다.&lt;br&gt;&lt;br&gt;금강송 숲에는 2021년 만든 임도(7.4㎞)가 있다. 국내 1호 산불 진화용 임도다.&lt;br&gt;&lt;br&gt;이 임도는 2022년 울진 산불 때 위력을 발휘했다. 당시 산불은 울진 대부분 지역을 휩쓸었다. 주민들은 임도에서 불길을 막아냈다. 주민 이현석(68)씨는 “소방차 100대가 임도에서 일주일간 밤낮없이 물을 뿌렸다”며 “주민들도 양수기, 등짐펌프 등을 다 들고 나와 힘을 보탰다”고 했다. 주민들은 그날을 ‘소광리대첩’이라고 부르며 자랑스러워했다. 이씨는 “임도가 없었으면 낮에 헬기로만 불을 끄다 금강송이 다 탔을지도 모른다”고 했다.&lt;br&gt;&lt;br&gt;요즘 지구 온난화로 기온이 오르며 수백 년을 버틴 금강송도 말라 죽어가고 있다. 600년 산 금강송도 고사(枯死) 위기에 놓였다. 김진업 소광2리 이장은 “6·25전쟁도 산불도 버텼는데 하늘이 제일 무섭다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[신문은 선생님] [재밌다, 이 책!] 노랫말에서 가장 인기있는 계절은 ‘봄’… 제목은 ‘너를 향한 사랑 고백’ 가장 많아</title>
+      <link>https://www.chosun.com/national/nie/2025/04/07/YTFJY3OOZBCSZM2WQ2QUETW324/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/2025/04/07/YTFJY3OOZBCSZM2WQ2QUETW324/</guid>
+      <dc:creator>표정훈 출판평론가</dc:creator>
+      <description/>
+      <pubDate>Sun, 06 Apr 2025 16:40:29 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WHATUL4IZNEO5KOWA272U2UNF4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;노래의 언어&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;한성우 지음 l 출판사 어크로스 l 가격 1만6000원&lt;/b&gt;&lt;br&gt;&lt;br&gt;노래는 멜로디도 중요하지만 가사, 곧 노랫말이 중요합니다. 부르는 사람도 듣는 사람도 좋은 노랫말에 감동을 느끼며 노래에 젖어들곤 하지요. 노랫말은 시(詩)이기도 합니다. 예컨대 중국 고전 시가집인 ‘시경(詩經)’은 고대 중국의 유행가를 모아놓은 가사집이기도 합니다. ‘노래의 언어’는 국어국문학자 한성우 교수(인하대학교)가 1923년부터 2016년까지 나온 우리 노래 2만6000여 곡을 연구한 결과입니다. 여러 가지 통계 기법을 활용하여 노랫말을 분석했습니다.&lt;br&gt;&lt;br&gt;사계절이 비교적 뚜렷한 우리나라에서 노랫말에 가장 많이 등장하는 계절은 무엇일까요? 바로 봄입니다. 그다음으론 겨울, 여름, 가을 순이고요. 특히 봄은 ‘봄날’ ‘봄바람’ ‘봄비’ ‘새봄’ ‘봄소식’ ‘봄밤’ ‘봄꽃’ 등 무려 1572개의 관련 단어가 노랫말에 나온다고 합니다. 추운 겨울을 보내고 반갑게 맞이하는 계절이니 날씨, 풍경, 느낌 등을 붙일 수 있는 말을 다양하게 넣어 노랫말을 만드는 것이지요. 노래 제목에선 겨울, 봄, 여름, 가을 순이었답니다.&lt;br&gt;&lt;br&gt;노래 제목에 가장 많이 나오는 단어는? 사랑입니다. 그다음으로 나, 너, 그대, 사람입니다. 노랫말에서는 ‘나’가 가장 많고, 너, 것, 사랑, 그대라고 합니다. 저자는 이를 두고 “1인칭이 노랫말을 장악하고 있다”고 말합니다. 가요 대부분이 ‘2인칭에 대한 1인칭의 사랑 고백’이라는 것이지요. 작사가든 노래 부르는 사람이든 자신의 감정을 넣어 작사하고 부르기 마련이니 많은 노래가 자연스럽게 ‘나의 노래’가 됩니다.&lt;br&gt;&lt;br&gt;노랫말은 사회 상황과 정치의 영향을 받기도 했습니다. 송창식이 작사하고 부른 ‘왜 불러’(1975)는 이렇게 시작됩니다. “왜 불러 왜 불러 돌아서서 가는 사람을 왜 불러 왜 불러.” 이 노래는 권위주의 정권 시절 금지곡으로 지정되었습니다. 이유는 ‘왜 불러’가 반말이어서 건전한 사회 풍토를 해칠 수 있다는 것이었습니다. 이 노래는 영화 ‘바보들의 행진’에서 청년들이 경찰에 쫓기는 장면에 삽입되었는데, 체제에 대한 비판으로 해석됐던 것이지요.&lt;br&gt;&lt;br&gt;최근 가수 로제가 브루노 마스와 함께 불러 세계적 인기를 모은 ‘아파트’(APT.) 덕분에 윤수일의 노래 ‘아파트’(1982)가 주목받기도 했지요. 각지에서 서울로 몰려든 사람들로 도시가 포화 상태에 이르자, 주거 공간 부족을 해결하기 위해 본격적으로 아파트가 건설되기 시작했습니다. ‘별빛’과 ‘갈대숲’을 보기 힘든 도시에서 “별빛이 흐르는 다리를 건너 바람 부는 갈대숲을 지나 언제나 나를 언제나 나를 기다리던 너의 아파트”가 숲을 이루었습니다.&lt;br&gt;&lt;br&gt;그런데 국어국문학자가 대중가요 노랫말을 연구한다는 게 좀 이상하지 않나요? 저자는 말합니다. “기쁠 때나 슬플 때나 늘 우리 곁에 있는 노래. 가락과 장단이 중심인 듯하지만 우리 마음속에 마지막까지 남는 건 노랫말이다.” 그래서 이 책의 부제목은 ‘유행가에서 길어 올린 우리말의 인문학’입니다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[신문은 선생님] [산 이야기] 폐허가 된 산림 복원하는 ‘칡’… 토양 완전 회복엔 100년 걸려요</title>
+      <link>https://www.chosun.com/national/nie/2025/04/07/WVGC43GWPVC5TOOXJ3IQAAXLFM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/2025/04/07/WVGC43GWPVC5TOOXJ3IQAAXLFM/</guid>
+      <dc:creator>신준범 월간 산 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 06 Apr 2025 16:40:13 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/24IF3JZPYZEYFBOT7WDDUM36PM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 28일 경북 의성군 점곡면 상공에서 촬영한 잿더미가 된 산림의 모습. /장련성 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최근 경상도 지역에서 발생한 산불로 수만 명의 이재민이 생겨났어요. 피해를 입은 모든 분께 위로를 전합니다. 산불 피해가 복구되면 사람들은 다시 집으로 돌아가지만, 산과 산에 사는 동식물들은 어떻게 될까요? 산도 사람처럼 생명을 다하는 걸까요? 결론부터 이야기하면, 산은 죽지 않습니다. 6·25전쟁 시기 많은 산이 포화에 휩싸이며 깎여나갔지만, 산은 초록의 숲으로 다시 일어났습니다.&lt;br&gt;&lt;br&gt;어떤 식물들에는 산불이 기회가 되기도 합니다. 산의 흙 속 깊은 곳에는 숱하게 많은 씨앗들이 마치 잠든 듯 오랜 시간 머물러 있습니다. 키 큰 나무들이 쓰러지고 없어져 햇볕과 바람이 땅에 닿을 때까지 몇 개월, 몇 년, 수십 년을 기다리기도 해요. 산불은 이 씨앗들에 잠을 깨우는 ‘알람’과도 같습니다. 산불로 인한 뜨거운 열과, 인근 식물이 없어지며 들어오는 햇빛이 씨앗의 발아를 유도하는 것이죠. &lt;br&gt;&lt;br&gt;산불이 나고 약 50일이 지나면 이런 풀들이 세상 밖으로 나와 잎을 펼친답니다. 그동안 높고 빽빽한 나무들 아래, 햇볕이 닿지 않았던 땅의 식물들이 자라기 시작해요. 이 과정에서 아이를 돌보는 엄마 같은 역할을 하는 식물이 있답니다. 바로 ‘칡’이에요. 칡은 산불이 나면 폐허가 된 땅을 복원하는 역할을 해요. 칡은 가장 먼저 숲에 돌아와 공기 중에 있는 질소를 땅에 고정시켜 흙을 비옥하게 만들지요.&lt;br&gt;&lt;br&gt;이후 키 큰 나무들이 새 숲을 일궈요. 소나무, 오리나무, 벚나무, 팥배나무 같은 많은 햇빛을 필요로 하는 나무들이 먼저 자라나지요. 이 나무들이 아늑한 새 보금자리를 만들면, 그 뒤를 이어 햇빛이 부족해도 비교적 잘 자라는 신갈나무, 굴참나무, 상수리나무 등이 나타난답니다. &lt;br&gt;&lt;br&gt;인위적으로 특정 나무를 심어 숲을 만들기도 한답니다. 지자체와 산림청이 산불 피해 지역의 지형과 토양 상태를 토대로 인공림 조성을 검토하지요.&lt;br&gt;&lt;br&gt;그렇다고 산불을 낙관적으로만 바라볼 순 없어요. 사람은 피부에 살짝 화상을 입어도 목숨이 위태롭지는 않지만, 나무는 불에 껍질이 살짝만 타더라도 치명적인 상태일 가능성이 높아요. 껍질 아래에 있는 양분과 물을 전달하는 통로가 손상됐을 확률이 높기 때문이에요.&lt;br&gt;&lt;br&gt;나무 한 그루에는 100종이 넘는 생명체가 의지하며 살아갑니다. 따라서 산불로 나무들이 사라지면 수천, 수만의 생명체 또한 함께 사라질 수밖에 없습니다.&lt;br&gt;&lt;br&gt;산불은 자연의 순환을 일으키기도 하지만, 이런 순환은 결코 짧은 시간 안에 이뤄지지 않아요. 국립산림과학원에 따르면 산불이 한 번 나면 개미가 돌아오는 데 13년, 새는 19년, 야생동물은 35년이 걸리고, 토양이 완전 회복되는 데는 100년이 걸린다고 해요. 불이 나면 토양의 양분까지도 함께 소실되기 때문입니다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[신문은 선생님] [클래식 따라잡기] 스위스의 정밀함·스페인의 열정 겸비한 관현악 대가</title>
+      <link>https://www.chosun.com/national/nie/2025/04/07/UBUII5E5AJGSXEQ3NIKXCHWAPQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/2025/04/07/UBUII5E5AJGSXEQ3NIKXCHWAPQ/</guid>
+      <dc:creator>김성현 문화전문기자, 기획·구성=윤상진 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 06 Apr 2025 16:39:55 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VTHBRAJSWBHLHGL2SOUUTQIWRA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;피아니스트 문지영이 지난 1일 예술의전당 교향악축제 개막 연주회에서 작곡가 모리스 라벨의 ‘왼손을 위한 피아노 협주곡’을 협연하고 있어요. /예술의전당&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;올해는 프랑스 작곡가 모리스 라벨(1875~1937)의 탄생 150주년입니다. 피아니스트 조성진은 기념 음반을 발표하고, 피아니스트 손열음이 동료 연주자들과 결성한 악단인 ‘고잉홈 프로젝트’나 예술의전당 교향악축제 등은 공연도 열고 있지요.&lt;br&gt;&lt;br&gt;라벨은 같은 선율이 무한 반복되는 듯한 환상을 불러일으키는 ‘볼레로’나 앙코르로 사랑받는 ‘죽은 왕녀를 위한 파반’ 같은 곡들로 유명합니다. 이 작품들 외에도 라벨의 음악적 매력이나 공로는 적지 않지요. 그동안 라벨에 대해 잘 몰랐던 다섯 가지를 소개합니다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BIQYRTTIXNBILKGKLRSJXY5HAA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;피아니스트 조성진은 올해 라벨 탄생 150주년을 맞아 작곡가의 피아노 협주곡과 독주곡들을 담은 음반들을 냈어요. /유니버설뮤직&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;①스위스적 정교함, 스페인적 열정&lt;/b&gt;&lt;br&gt;&lt;br&gt;라벨은 스위스 출신의 발명가이자 엔지니어였던 아버지와 스페인 출신의 어머니 사이에서 태어났습니다. 스페인 접경 지역인 프랑스 서남단의 시부르가 작곡가의 고향이지요. 아버지 피에르 조제프 라벨(1832~1908)은 내연 기관 발명에 공로가 컸던 초기 자동차 산업의 선구자 가운데 하나였지요.&lt;br&gt;&lt;br&gt;라벨의 음악에는 스위스의 정밀성과 스페인의 열정이 공존한다고 하는 것도 이 때문입니다. 실제로 동료 작곡가 스트라빈스키는 “스위스 시계 장인”이라고 부르기도 했지요. 부산시향과 함께 라벨 관현악 전곡을 연주했던 지휘자 최수열 연세대 교수는 “라벨은 연주자의 재량을 없앤다고 느낄 만큼 뉘앙스와 속도, 연주 방식 등에 대해 상세하고 치밀하게 적어 놓았던 작곡가”라며 “그의 악보만 보아도 엄격함과 정밀성을 느낄 수 있다”고 했습니다.&lt;br&gt;&lt;br&gt;반면 ‘스페인 광시곡’ 같은 관현악이나 오페라 ‘스페인의 한때(L’heure espagnole)’에서는 당장 제목부터 스페인적 향취가 고스란히 드러나지요. 그의 대표곡인 ‘볼레로’ 역시 스페인 춤곡입니다. 이처럼 차가운 이성과 뜨거운 열정의 공존이야말로 라벨 음악의 묘한 매력입니다.&lt;br&gt;&lt;br&gt;&lt;b&gt;②음악 영재가 작곡 콩쿠르는 낙선&lt;/b&gt;&lt;br&gt;&lt;br&gt;라벨은 열네 살에 파리 음악원에 들어갔던 영재 출신입니다. 2년 뒤에는 피아노 부문 수석을 차지했지요. 라벨의 피아노 독주곡인 ‘밤의 가스파르’는 “피아노 음악 역사상 손가락을 가장 꼬이게 만드는 작품 중 하나”(평론가 해럴드 숀버그)로 불릴 만큼 까다로운 난곡(難曲)입니다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RNU57INRJRHWHAGZHH7PLOA4R4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;1차 세계대전 당시 라벨은 트럭 운전병으로 참전했어요. 독일군의 폭격이 빗발치는 최전방에서 무기 수송 임무를 맡기도 했지요. /위키피디아&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;하지만 라벨은 정작 작곡 분야에서 인정받기까지 꽤 오랜 시간이 걸렸습니다. 17세기부터 프랑스에서는 예술 분야 우승자를 선정하는 대회를 열었는데 이 대회를 ‘로마 대상(Prix de Rome)’이라고 불렀지요. 프랑스 대회인데도 ‘로마 대상’이라고 부른 것은 우승자에게 로마에서 체류할 수 있는 기회를 선사했기 때문입니다. 음악 분야에서는 베를리오즈(1830년), 샤를 구노(1839년), 비제(1857년), 드뷔시(1884년) 같은 쟁쟁한 작곡가들이 우승을 차지했습니다.&lt;br&gt;&lt;br&gt;반면 라벨은 5번이나 이 대회에서 연거푸 고배를 마시고 말았습니다. 특히 1905년 마지막 낙선 때는 예선 탈락하는 바람에 판정의 공정성을 놓고서 논란이 벌어졌지요. ‘라벨 사건(L’affaire Ravel)’으로 불렸던 이 사태로 파리 음악원장이 사퇴하는 등 프랑스 음악계도 한바탕 홍역을 앓았습니다. 라벨도 청년 시절에는 “이 불운이 저를 좌절케 한다”고 토로했지요.&lt;br&gt;&lt;br&gt;&lt;b&gt;③1차 대전 참전, 독일 음악 금지엔 ‘반대’&lt;/b&gt;&lt;br&gt;&lt;br&gt;1914년 1차 세계 대전이 발발하자 라벨은 프랑스 공군에 입대를 신청했습니다. 공군 조종사를 꿈꿨지만 나이와 심장 이상 등으로 보류 판정을 받자 결국 이듬해 포병 부대의 트럭 운전병으로 입대했지요. 그 뒤 독일군의 폭격이 빗발치는 최전방에서 무기 수송 임무를 맡기도 했습니다. 스트라빈스키도 “그의 나이와 명성을 감안하면 손쉬운 길을 걷거나 아무 일도 하지 않을 수도 있었다”면서 라벨의 용기에 감탄했지요.&lt;br&gt;&lt;br&gt;1차 대전 당시 프랑스에서는 독일 음악을 전면 금지하자는 운동이 벌어졌습니다. 하지만 라벨은 여기에 반대 의사를 밝혔지요. “프랑스 작곡가들이 외국 동료들의 작품을 전면적으로 무시하는 건 위험한 일”이며, “풍성한 우리 음악 예술이 곧 쇠퇴하고 뻔한 공식에 고립되고 말 것”이라는 소신 때문이었습니다.&lt;br&gt;&lt;br&gt;&lt;b&gt;④ ‘인상주의’로 불렸지만 좋아하지 않아&lt;/b&gt;&lt;br&gt;&lt;br&gt;흔히 라벨과 드뷔시는 ‘인상주의(印象主義)’ 작곡가로 불립니다. 원래 인상주의는 19세기 후반 프랑스 파리를 중심으로 일어난 미술 사조였지요. 모네 같은 인상주의 화가들은 실내가 아니라 야외에서 시시각각으로 빛에 따라 변화하는 자연을 화폭에 담고자 했지요.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZTYL2O4SBRHG7LLXNK5LB236IY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;라벨(사진 가운데 앉은 이)의 음악에 매료된 미국 작곡가 조지 거슈윈(맨 오른쪽)은 라벨에게 작곡을 배우고 싶어 했지만, 라벨은 ‘일류(一流) 거슈윈이 될 수 있는데 굳이 이류(二流) 라벨이 될 필요는 없다’면서 완곡하게 사양했지요. /모리스 라벨 재단&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;프랑스 작곡가들에게도 자연스럽게 같은 명칭이 붙었지만, 정작 드뷔시와 라벨은 이 말을 반기지 않았다는 점도 흥미롭습니다. 드뷔시는 “몇몇 어리석은 자들에게, 특히 비평가들에게 오용되고 있는 용어”라며 반감을 드러냈지요. 라벨 역시 인상주의라는 말에 국한되지 않고 바로크 음악부터 재즈까지 다양한 조류에 대해 폭넓은 관심을 보였습니다.&lt;br&gt;&lt;br&gt;라벨은 1902년 선배 드뷔시의 오페라 ‘펠레아스와 멜리장드’ 초연을 보고 감동해서 당시 14회 전 공연을 보았다고 합니다. 하지만 둘의 관계는 점차 소원해졌지요. 당시 프랑스 음악계 인사들도 양쪽의 지지자로 나뉘어 상호 비판을 하는 경우까지 생겼습니다. 둘은 인상주의로 함께 묶이지만, 실제 음악에는 차이도 적지 않습니다. 프랑스 음악학자 롤랑 마뉘엘은 ‘음악의 기쁨’에서 “드뷔시가 서정의 마법사라면, 라벨은 감각의 마법사”라는 멋진 비유를 들기도 했지요.&lt;br&gt;&lt;br&gt;&lt;b&gt;⑤당대 최고의 관현악 귀재&lt;/b&gt;&lt;br&gt;&lt;br&gt;라벨의 음악에서 빼놓을 수 없는 점은 관현악 편곡의 귀재였다는 사실입니다. 일찍부터 피아노곡을 먼저 작곡한 다음에 오케스트라를 위해 직접 편곡하는 습관을 들였기 때문이지요. 그래서 라벨의 작품은 피아노곡과 관현악곡이 모두 존재하는 경우가 적지 않습니다.&lt;br&gt;&lt;br&gt;‘관현악 대가(大家)’라는 라벨의 매력을 고스란히 느낄 수 있는 작품이 러시아 작곡가 무소륵스키의 ‘전람회의 그림’입니다. 원곡은 피아노곡이지만, 라벨은 1922년 오케스트라를 위한 관현악으로 편곡했지요. 본래 편곡보다는 원곡을 높이 사는 것이 클래식 음악계의 풍토이지만, 이 곡만은 라벨의 관현악 편곡이 무소륵스키의 피아노 원곡보다 즐겨 연주될 만큼 ‘역전’된 것도 사실입니다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[부음] 김경주 서울 은평구약사회 지도위원 별세 외</title>
+      <link>https://www.chosun.com/national/obituary-personnel/2025/04/07/4X3YNZIBFJHS3MADQOOOHN6NOY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2025/04/07/4X3YNZIBFJHS3MADQOOOHN6NOY/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Sun, 06 Apr 2025 16:37:19 +0000</pubDate>
+      <content:encoded>▲&lt;b&gt;김경주&lt;/b&gt; 서울 은평구약사회 지도위원 별세, &lt;b&gt;김혜선&lt;/b&gt; 시모어컴퍼니 대표·&lt;b&gt;김재윤&lt;/b&gt; 로킷헬스케어 사장 모친상=4일18시20분 신촌세브란스병원, 발인 7일7시, (02)2227-7500&lt;br&gt;&lt;br&gt;▲&lt;b&gt;두정자&lt;/b&gt; 별세, &lt;b&gt;이현영&lt;/b&gt;·&lt;b&gt;이현용&lt;/b&gt;·&lt;b&gt;이현호&lt;/b&gt;·&lt;b&gt;이현숙&lt;/b&gt; 모친상, &lt;b&gt;구재헌&lt;/b&gt; 장모상, &lt;b&gt;유윤덕&lt;/b&gt;·&lt;b&gt;채숙희&lt;/b&gt;·&lt;b&gt;김수연&lt;/b&gt; 시모상, &lt;b&gt;이강준&lt;/b&gt; 머니투데이 사회부 기자·&lt;b&gt;이지은&lt;/b&gt;·&lt;b&gt;이정수&lt;/b&gt;·&lt;b&gt;이승훈&lt;/b&gt;·&lt;b&gt;이민수&lt;/b&gt;·&lt;b&gt;이나은 &lt;/b&gt;조모상, &lt;b&gt;구현성&lt;/b&gt;·&lt;b&gt;구현서&lt;/b&gt; 외조모상=5일17시30분 전북 익산 원광대병원, 발인 7일12시30분, (063)855-1734&lt;br&gt;&lt;br&gt;▲&lt;b&gt;박상인&lt;/b&gt; 별세, &lt;b&gt;박형수&lt;/b&gt; 국민의힘 원내수석부대표·&lt;b&gt;박형도&lt;/b&gt; 부친상=6일1시5분 경북 울진군의료원, 발인 8일8시, (054)785-7800&lt;br&gt;&lt;br&gt;▲&lt;b&gt;정광숙&lt;/b&gt; 별세, &lt;b&gt;박준규&lt;/b&gt; CJB 청주방송 미디어전략국 제작팀장 장모상=6일3시 충북 청주성모병원, 발인 8일8시, (043)210-5182&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[부음] ‘나성에 가면’ 세샘트리오 출신, 가수·작곡가 홍신복씨 별세</title>
+      <link>https://www.chosun.com/national/obituary-personnel/2025/04/07/N76QNERKJJCD3DIVNCMCRT4BQE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2025/04/07/N76QNERKJJCD3DIVNCMCRT4BQE/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Sun, 06 Apr 2025 16:36:33 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/O3V27SGHKZBZZC7PN7FSE6EHHI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;1970년대 히트곡 '나성에 가면'을 부른 세샘트리오 출신 가수 홍신복이 6일 별세했다. 향년 72세. /홍신복 유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;1970년대 ‘나성에 가면’을 부른 세샘트리오 출신 가수 홍신복(72)이 6일 별세했다.&lt;br&gt;&lt;br&gt;1953년 대구 출생인 그는 1977년 권성희·전항과 세샘트리오를 결성, 이듬해 ‘나성에 가면’을 히트시켰다. 이후 가수 김수희의 ‘고독한 연인’ 등을 작곡했다. 2022년 유튜브 채널을 열고 직접 노래한 영상 등을 올렸다. 빈소 서울 도봉구 한일병원장례식장, 발인 8일 오전 5시 30분. (02)902-3440&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘산불 義人’ 인도네시아인 3명에 특별 기여자 체류 자격 부여</title>
+      <link>https://www.chosun.com/national/national_general/2025/04/07/TDEJQZMRPRE7BOBENVQAGEVMUE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/07/TDEJQZMRPRE7BOBENVQAGEVMUE/</guid>
+      <dc:creator>김영우 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 06 Apr 2025 16:36:08 +0000</pubDate>
+      <content:encoded>지난달 경북 영덕의 산불 현장에서 주민들을 대피시킨 인도네시아 출신 외국인 근로자 3명이 정부로부터 ‘특별 기여자 체류 자격’을 받는다. 이 자격을 얻으면 국내에 장기 체류할 수 있고 5년 후엔 영주권도 받을 수 있다. 취업도 자유롭게 할 수 있다.&lt;br&gt;&lt;br&gt;정부는 6일 열린 중앙재난안전대책본부 회의에서 인도네시아 국적 수기안토(31)씨와 레오 디피요(24)씨, 비키 셉타 에카 사푸트라(24)씨 등 3명에게 특별 기여자 체류 자격을 부여하기로 했다고 밝혔다. &lt;br&gt;&lt;br&gt;영덕 축산면 경정3리에 사는 대게잡이배 선원 수기안토씨와 디피요씨는 지난달 25일 오후 10시쯤 산불이 경정3리까지 번지자 주민들을 약 300m 떨어진 방파제로 대피시킨 공로를 인정받았다. 이들은 당시 “할머니 산에 불이 났어요”라고 소리치며 잠든 주민들을 깨웠다. 몸이 불편한 주민 7명은 업어서 대피시켰다고 한다. 마을 이장 김필경(56)씨는 “이들이 없었다면 마을 사람 절반은 목숨이 위험했을 것”이라고 했다. &lt;br&gt;&lt;br&gt;사푸트라씨는 같은 날 오후 11시쯤 민간 구조대장 전대헌(52)씨와 함께 경정3리 방파제에 모여 있던 주민 30여 명을 보트에 태워 축산항으로 대피시켰다. 산불이 방파제까지 덮치려던 순간이었다.&lt;br&gt;&lt;br&gt;이들의 헌신 덕분에 경정3리 마을 주민들은 전부 안전하게 대피했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>탄핵 후 투쟁 나선 의협, 20일 총궐기 대회 열어 의개특위 해체 등 요구</title>
+      <link>https://www.chosun.com/national/welfare-medical/2025/04/07/QPAJYBVQHZC6RMOLHLBJYEKYK4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/04/07/QPAJYBVQHZC6RMOLHLBJYEKYK4/</guid>
+      <dc:creator>오유진 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 06 Apr 2025 16:15:48 +0000</pubDate>
+      <content:encoded>윤석열 전 대통령 파면 이후 대한의사협회(의협)가 10개월 만에 다시 대대적인 대정부 투쟁에 나서기로 했다. &lt;br&gt;&lt;br&gt;대한의사협회는 5일 보도자료를 통해 “지난 4일 대통령 탄핵 선고 이후 긴급 상임이사회를 개최했다”며 “오는 20일 예정으로 의료 정상화를 위한 전국의사궐기대회(가칭)를 통해 조속한 의료 환경의 정상화를 위한 노력을 정부가 빠르게 해 줄 것을 촉구하고자 한다”고 밝혔다. 의협은 이를 위해 오는 13일 오후 전국 대표자 회의를 소집하는 한편, 16개 시도의사회와도 논의를 거쳐 ‘의료 정상화를 이루기 위한 투쟁’의 일정과 내용을 확정할 예정이다. &lt;br&gt;&lt;br&gt;의협이 대대적인 궐기 대회를 갖는 건 지난해 6월 총궐기 대회 이후 10개월 만이다. 의료계에서는 “오는 6월로 예정된 대선과 7~8월의 전공의 하반기 추가 모집을 앞두고 의협 측이 전공의 복귀 계기 마련을 위해 ’2027학년도 이후에도 의대 증원 제로(0)' 등을 여야 정당에 압박하기 위해 나섰다”는 관측이 나왔다. 의협 측은 정부 주도의 의료개혁특별위원회(의개특위) 해체와 의료 혼란 책임자 문책 등도 요구하고 있다. 이재명 더불어민주당 대표는 지난해 9월 윤석열 정부의 ‘2000명 증원’을 터무니없다고 하면서도 “의대 정원 증원의 방향이나 지향은 바람직하다”고 했고, 국민의힘 주요 대선 주자들도 ‘증원 기조는 유지해야 한다’는 입장이다. &lt;br&gt;&lt;br&gt;한편 교육부는 조기 대선이 6월 3일로 확정될 경우, 이날로 예정된 고3 수능 모의 평가 시험일을 변경할 예정이라고 6일 밝혔다. 교육부 관계자는 “이번 주 국무회의에서 대선 일정이 정해지면 즉시 학생들에게 변경 사항을 안내할 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>경북 산불 폐기물 처리비, 5개 시군 1500억 넘을 듯</title>
+      <link>https://www.chosun.com/national/national_general/2025/04/07/6YPADKKOFZF4FGCIV3BGXLPVWM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/07/6YPADKKOFZF4FGCIV3BGXLPVWM/</guid>
+      <dc:creator>대구=이승규 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 06 Apr 2025 16:13:58 +0000</pubDate>
+      <content:encoded>지난달 경북 지역 산불로 발생한 폐기물 처리 비용이 역대 산불 중 가장 클 것으로 추산됐다.&lt;br&gt;&lt;br&gt;경북도는 산불 피해를 본 의성·안동·청송·영양·영덕 지역의 폐기물 처리 비용이 1500억원을 넘을 것으로 추정된다고 6일 밝혔다.&lt;br&gt;&lt;br&gt;지난달 22일 의성에서 시작된 산불은 안동, 청송, 영양, 영덕까지 번졌다. 이 불로 주택 4200여 채가 불타 잔해가 생겼다. 그동안 가장 큰 피해를 남겼던 2022년 울진 산불 때는 주택 415채가 불타 폐기물 8만4400t이 발생했다. 이를 처리하는 데 155억5000만원이 들었다. &lt;br&gt;&lt;br&gt;경북도 관계자는 “불탄 주택 수가 10배에 달해 폐기물 처리 비용도 그만큼 많이 들 것으로 예상된다”고 했다. 이번 경북 산불은 산림 등 약 4만5000ha를 태워 역대 최악의 산불로 기록됐는데 폐기물 처리 비용 또한 막대한 것이다. &lt;br&gt;&lt;br&gt;한편, 경북도는 이날 “대동·TYM·LS엠트론·아세아텍 등 국내 농기계 업체 4곳이 의성, 안동, 청송, 영양, 영덕 등 산불 피해 지역에 농기계 79대를 무료로 빌려주기로 했다”고 밝혔다. &lt;br&gt;&lt;br&gt;지난달 22일부터 28일까지 7일간 이어진 산불로 경북 의성 등 시군 5곳에서 농기계 6785대가 불에 탔다. 밭과 농작물뿐 아니라 농기계까지 피해를 보면서 지역은 농업 기반 자체가 붕괴한 상황이다. 의성은 마늘, 청송은 사과, 영양은 고추가 주민들의 주요 수입원이다. &lt;br&gt;&lt;br&gt;경북도는 농민들이 다시 일어설 수 있도록 시군 농기계임대사업소가 보유한 농기계 3040대를 무상으로 빌려주고 있다. 이번에 산불 피해를 보지 않은 다른 시군에서 104대를 당겨 와 지원하기도 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>尹정부 대통령기록물 오늘부터 이관 작업</title>
+      <link>https://www.chosun.com/national/court_law/2025/04/07/3JL3DD3S6BCNHDE3YAEH5SOHMA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/04/07/3JL3DD3S6BCNHDE3YAEH5SOHMA/</guid>
+      <dc:creator>김나영 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 06 Apr 2025 16:08:26 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/56XK6GYJWDXA2MMXCR2G5A734M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;문형배 헌법재판소장 권한대행이 4일 오전 서울 종로구 헌법재판소 대심판정에서 윤석열 대통령 탄핵심판 인용 결정문을 낭독하고 있다. /김지호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;헌법재판소의 윤석열 전 대통령 파면 결정에 따라, 윤석열 정부에서 생산된 대통령 기록물의 이관 작업이 본격적으로 이뤄진다.&lt;br&gt;&lt;br&gt;행정안전부는 행안부 산하의 대통령기록관이 이르면 7일부터 대통령 기록물 생산 기관을 찾아 이관 대상 기록물에 대한 현황 파악에 나선다고 6일 밝혔다. 현장 점검 대상 기관은 대통령비서실과 국가안보실, 대통령경호처 등을 비롯해 민주평화통일자문회의와 같은 대통령 자문 기관 등 총 28곳이다.&lt;br&gt;&lt;br&gt;대통령기록물관리법에 따르면, 대통령기록관은 대통령이 궐위된 경우 대통령 기록물 생산 기관에 대해 대통령 기록물의 이동이나 재분류 금지를 요구하고, 현장 점검을 해야 한다. 대통령 기록물 생산 기관은 대통령 궐위 즉시 이관 대상 대통령 기록물을 확인해 목록을 작성하는 등 필요한 조치를 취하도록 돼 있다. 대통령기록관은 이번 현장 점검에서 생산 기관들이 관련 규정을 제대로 지키는지 살펴보겠다는 방침이다.&lt;br&gt;&lt;br&gt;앞서 대통령기록관은 지난 4일 윤 전 대통령의 탄핵이 인용된 이후 이동혁 대통령기록관장을 단장으로 한 ‘이관 추진단’을 설치하고, 대통령 기록물 생산 기관과 이관 작업을 위한 실무 협의에 들어갔다. 또 대통령 기록물 생산 기관에 차기 대통령의 임기가 개시되기 전까지 대통령 기록물이 안전하고 신속하게 이관될 수 있도록 정리하고, 무단 손상·은닉·멸실 또는 반출되는 상황이 발생하지 않도록 협조를 요청하는 공문도 발송했다. 기록물의 정리 및 분류 작업이 완료되면 대통령기록관으로 이송되고, 이관 목록과 기록물 검수 절차를 거쳐 대통령기록관 서고에 입고된다.&lt;br&gt;&lt;br&gt;한편 문형배 헌재소장 권한대행은 탄핵 선고 이튿날인 5일 짧은 소회를 밝혔다. 문 권한대행은 헌재 공보관을 통해 “탄핵 심판 절차가 원만하게 진행되도록 충실한 보도를 해주신 언론인들과 헌재의 안전을 보장해 주신 경찰 기동대 대원들께 감사드린다”며 “탄핵 심판이 무리 없이 끝난 데에는 헌신적인 헌법 연구관들과 열정적인 사무처 직원들의 기여가 있었다”고 했다. 문 권한대행은 이미선 재판관과 오는 18일 퇴임한다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘내란 혐의’ 형사재판 14일 첫 공판</title>
+      <link>https://www.chosun.com/national/court_law/2025/04/07/BQQOLQMXF5DLZOKRZCGOTZUPVY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/04/07/BQQOLQMXF5DLZOKRZCGOTZUPVY/</guid>
+      <dc:creator>박강현 기자, 유희곤 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 06 Apr 2025 16:08:01 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MEMYXTPIEK4SR57QVYN4Z3AOP4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령이 지난 2월 13일 헌법재판소 변론기일에 자리한 모습./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 4일 탄핵당한 윤석열 전 대통령은 오는 14일부터 내란 혐의에 대한 형사 법정에 출석해 재판을 받는다. 대통령직에서 물러나 불소추 특권이 사라진 만큼, 윤 전 대통령은 비상계엄과 관련해 직권 남용 권리 행사 방해 혐의로 추가 기소될 수 있다. 정치 브로커 명태균씨와 관련한 정치자금법 위반 사건과 순직 해병 사건 수사도 받을 것으로 보인다.&lt;br&gt;&lt;br&gt;6일 법조계에 따르면 서울중앙지법 형사25부(재판장 지귀연)는 내란 우두머리 혐의로 기소된 윤 전 대통령의 첫 공판 기일을 오는 14일 진행한다. 지난 1월 구속 기소된 윤 전 대통령은 지난 2월 20일 열린 첫 번째 공판 준비 기일에는 출석했지만, 구속이 취소된 뒤 열린 지난달 24일 두 번째 공판 준비 기일에는 나오지 않았다. 앞으로 열리는 정식 공판에는 모두 출석해야 한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/27SNTS5T6BEHJFTHBISI2TDNSI.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=양인성&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;첫 공판에서는 검찰의 공소 사실 요지 낭독, 윤 전 대통령 측의 입장 진술 이후 검찰 측이 신청한 조성현 수방사 1경비단장과 김형기 특수전사령부 1특전대대장의 증인 신문이 진행된다. 윤 전 대통령 측은 내란죄 수사권이 없는 고위공직자범죄수사처(공수처)의 수사는 위법하고, 국헌 문란 목적이 없었던 만큼 검찰이 적용한 내란죄도 성립할 수 없다는 입장이다.&lt;br&gt;&lt;br&gt;앞서 7일에는 같은 법원에서 조지호 경찰청장과 김봉식 전 서울경찰청장 등의 3차 공판 기일이 열린다. 이날 공판에선 임정주 경찰청 경비국장과 최현석 전 서울청 생활안전차장 등 경찰 고위 간부들의 증인 신문이 예정돼 있다. 10일에는 김용현 전 국방부 장관, 노상원 전 정보사령관, 김용군 예비역 대령의 3차 공판이 진행된다.&lt;br&gt;&lt;br&gt;비상계엄과 관련해 군경 지휘부는 형법상 내란 혐의와 직권 남용 혐의도 받고 있다. 검찰 비상계엄 특별수사본부(본부장 박세현 서울고검장)는 현직 대통령은 내란과 외환죄만 소추 대상이어서 지난 1월 윤 전 대통령에게 내란 혐의만 적용했는데, 추후 윤 전 대통령에게 직권 남용 혐의도 적용할 가능성이 크다. 이 과정에서 윤 전 대통령 대면 조사도 시도할 수 있다.&lt;br&gt;&lt;br&gt;한편 정치 브로커 명태균씨 관련 의혹을 수사 중인 서울중앙지검 전담수사팀(팀장 이지형 차장검사)은 윤 전 대통령과 배우자 김건희 여사에 대한 수사를 본격화할 것이라는 관측이 나온다. 윤 전 대통령은 지난 대선을 앞두고 명씨 측에게서 여론조사 결과를 81차례 제공받고, 그 대가로 김영선 전 국민의힘 의원이 2022년 6월 보궐선거에 공천되도록 했다는 의혹을 받고 있다. 윤 전 대통령 부부는 지난 총선에서도 명씨 요청을 받고 국민의힘에 특정 후보 공천을 요구한 의혹도 제기된 상태다.&lt;br&gt;&lt;br&gt;이 밖에 공수처에서는 윤 전 대통령이 2023년 수해 복구 작업 중 숨진 고(故) 채모 상병 수사와 관련해 외압을 행사했다는 의혹을 수사 중이다. 경찰은 윤 전 대통령이 대통령경호처를 통해 공수처의 체포영장 집행을 막으려 한 혐의를 수사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>“저게 뭐야”...대낮 차 트렁크에 대형견 매달고 끌고 간 운전자 </title>
       <link>https://www.chosun.com/national/2025/04/06/4V7Z77JTDVGYBOIIJSNLUIJDVI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/2025/04/06/4V7Z77JTDVGYBOIIJSNLUIJDVI/</guid>
@@ -733,15 +895,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XQFD64LELVH7TLZGWTOW6KMG2U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;4일 오후 서울 서초구 윤석열 전 대통령의 사저가 아직 한산한 모습이다. 이날 오전 헌법재판소는 윤 전 대통령에 대한 탄핵 선고를 내렸다. 2025.4.4 /박성원 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 전 대통령 탄핵이 인용된 4일, 경찰이 윤 전 대통령의 사저가 있는 서울 서초구 아크로비스타 주변에 예정된 집회들에 제한 통고를 내렸다.&lt;br&gt;&lt;br&gt;서울 서초경찰서는 아크로비스타 주변으로 신고됐던 집회들을 4일 제한했다. 윤 전 대통령의 지지 단체와 진보 시민단체들이 신고한 이 집회들은 이달 내에 열릴 예정이었다.&lt;br&gt;&lt;br&gt;경찰은 집회 신고 장소가 윤 전 대통령의 재판이 진행 중인 서울중앙지방법원 반경의 100m 이내라는 점에서 이 같은 결정을 내렸다. &lt;br&gt;&lt;br&gt;경찰 관계자는 “법원 인근에서 집회가 열릴 경우, 판결에 영향을 미칠 가능성이 있다”고 설명했다.&lt;br&gt;&lt;br&gt;향후 아크로비스타 인근에서 집회를 열겠다고 신고하는 경우에도 경찰은 같은 이유로 제한 통고를 내릴 방침이다.&lt;br&gt;&lt;br&gt;한편 이날 탄핵이 인용된 윤 전 대통령은 서울 한남동 관저를 떠나 사저가 있는 아크로비스타로 돌아갈 것으로 예상된다. &lt;br&gt;&lt;br&gt;윤 전 대통령은 대통령 당선 이후에도 관저에 입주하기 전 6개월가량을 이곳에서 출퇴근했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>“안희정, 성폭행 피해자에 8304만원 배상” 판결 확정</title>
-      <link>https://www.chosun.com/national/court_law/2025/04/04/WDQM7AWIH5HSDCHQPPNEQLLADI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/04/04/WDQM7AWIH5HSDCHQPPNEQLLADI/</guid>
-      <dc:creator>김나영 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 04 Apr 2025 08:38:13 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YN4DOP4ORJM5QGMW77JNYLVRFU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2022년 8월 수행비서를 성폭행한 혐의로 실형을 선고받은 안희정 전 충남도지사가 3년6개월간 복역을 마치고 경기 여주교도소를 나서고 있는 모습./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;안희정 전 충남도지사와 충남도가 성폭행 피해자 김지은씨에게 8300여만원을 배상해야 한다는 2심 판결에 양측이 모두 상고하지 않으면서 해당 판결이 4일 확정됐다. 이로써 김씨가 제기한 손해배상 소송은 청구한 지 약 5년 만에 마무리됐다.&lt;br&gt;&lt;br&gt;법조계에 따르면 서울고법 민사3부(재판장 배용준)가 지난달 12일 원고 일부 승소로 선고한 이 사건 판결은 4일 확정됐다. 민사 재판은 당사자가 판결문을 송달받은 날로부터 2주 이내에 상고하지 않으면 판결이 확정되는데, 안 전 지사와 충남도, 김씨 모두 기한 내 상고장을 제출하지 않았다. 앞서 2심 재판부는 “안 전 지사 측이 김씨에게 8304만원을 배상하라”고 판결했다.&lt;br&gt;&lt;br&gt;안 전 지사는 수행 비서였던 김씨를 2017년 7월부터 이듬해 2월까지 수차례 성폭행 및 성추행한 혐의로 기소됐다. 이 사건은 김씨가 2018년 3월 한 방송에 출연해 피해 사실을 폭로하면서 알려졌다. 안 전 지사는 2019년 9월 대법원에서 징역 3년 6개월이 확정돼 복역했고, 2022년 8월 만기 출소했다.&lt;br&gt;&lt;br&gt;김씨는 이 사건 수사와 형사 재판 과정에서 “2차 가해로 외상 후 스트레스 장애(PTSD)를 겪었다”며 2020년 7월 안 전 지사와 충남도를 상대로 총 3억원의 위자료를 청구하는 소송을 냈다. 안 전 지사 측은 “정신적 피해와 성폭행 간 인과관계가 없다”며 책임을 부인했다. 실제로 재판은 김씨의 PTSD를 입증하기 위한 신체 감정 절차가 길어지면서 오래 지연됐다. 1심 판결은 소송 제기 4년 만인 작년 5월에 나왔다.&lt;br&gt;&lt;br&gt;김씨를 대리한 변호인은 지난달 2심 선고 직후 “2심 재판부에서 원고 측 주장이 받아들여지지 않아 유감”이라며 “판결문을 받아본 뒤 대법원에 상고할 지 차차 결정할 것”이라고 밝힌 바 있지만, 결국 상고하지 않았다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>세이브코리아 손현보 “헌재 결정 승복, 대선때 反민주 공약 나오면 전면 나설 것”</title>
       <link>https://www.chosun.com/national/national_general/2025/04/04/TLYIZOC2ERFEZC377UCTWYGTLA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/04/TLYIZOC2ERFEZC377UCTWYGTLA/</guid>
@@ -749,15 +902,6 @@
       <description/>
       <pubDate>Fri, 04 Apr 2025 08:50:37 +0000</pubDate>
       <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JYHKDZJXORIDDELN6XNXCHLRCQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;손현보 부산 세계로교회 목사가 1일 오후 서울 영등포구 여의도 여의대로에서 열린 '세이브코리아 3·1절 국가비상기도회'에서 발언을 하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;4일 헌법재판소가 윤석열 대통령 탄핵을 인용하자 손현보 부산세계로교회 목사의 주도로 서울 여의도와 전국 각지에서 대규모 탄핵 반대 집회를 이끌어왔던 개신교계 단체 ‘세이브코리아’는 성명을 내고 “대한민국의 일원으로서 오늘 헌재의 결정을 받아들인다”고 밝혔다. 이어 “어떤 경우에도 폭력이 있어서는 안 될 것”이라고 했다. 세이브코리아는 5일 여의도 국회 인근에서 2만명 규모 집회를 열겠다고 경찰에 신고했지만 선고 직후 취소했다. &lt;br&gt;&lt;br&gt;손 목사는 이날 본지 통화에서 헌재 결정에 대해 “아쉬운 점은 많지만 판결을 받아들여야지 안 받아들이면 안 된다”고 했다. 그는 지난 2월 본지 인터뷰에서도 “탄핵엔 반대하지만 인용돼도 불복하지는 않겠다”고 밝힌 바 있다. 그는 또 “아직 상대가 정해지지는 않았지만 대선 과정에서 반(反)교회적·반사회적·반민주적 공약이 나온다면 전면적으로 나설 것”이라고 밝혀 향후 활동에 여지를 남겼다.&lt;br&gt;&lt;br&gt;손 목사는 이날 낮 유튜브를 통해서도 “아쉬운 마음은 많지만 국민들과 성도(聖徒)들이 이 나라가 어떻게 이끌어져 가는지, 어떤 곳에 문제가 많은지 전부 다 알게 됐다”며 “국민들이 깨어나서 아스팔트에서 기도하게 되면서 자유민주주의가 얼마나 중요한지 깨닫게 됐다”고 했다. 그는 또 “이제는 이념과 정치 성향을 떠나서 국민이 화합하고 하나 돼 이 나라를 지켜나가고 무엇보다 자유민주주의 체제를 지켜나가야 할 것”이라고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TWEQQOEBFRDEFNAJLJHJOMPJ64.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;세이브코리아 손현보 목사가 20일 서울 영등포구 한 공유오피스에서 본지와 인터뷰를 하고 있다. /남강호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;다음은 손 목사와의 인터뷰 전문.&lt;br&gt;&lt;br&gt;-헌재 선고가 나왔다. 어떻게 봤나?&lt;br&gt;&lt;br&gt;“아쉬운 점이 많다. 헌재도 역시 정치적인 면도 있으니까. 아쉽다.”&lt;br&gt;&lt;br&gt;-판결 직후 세이브코리아는 헌법재판소 결정을 받아들인다는 성명을 발표했다. 또 세계로교회 유튜브를 통해서도 헌재 결정을 수용한다고 했다.&lt;br&gt;&lt;br&gt;“국가 기관에서 하는 판결을 우리가 받아들여야지 그걸 안 받아들이면 안 된다. 그동안 아스팔트에서 나라와 민족을 위해 하나님께 도움을 청하는 기도를 했고, 그 기도는 반드시 이뤄질 것이다.”&lt;br&gt;&lt;br&gt;-세이브코리아는 성명에서 ‘폭력이 있어서는 안 된다’고 했다.&lt;br&gt;&lt;br&gt;“그런 건 기본이고, 시민으로서 당연한 의무이다.”&lt;br&gt;&lt;br&gt;-야외 집회를 취소했다. 유튜브에서는 각자 교회에서 기도하자고 했다.&lt;br&gt;&lt;br&gt;“이제 지방과 야외에서 모이는 것은 중단한다. 원래 이게(세이브코리아 집회) 시작될 때에 이런 대통령 탄핵 상황을 초래한 사람은 이재명이라고 봤다. 이 모든 상황의 기승전결은 이재명 때문에 일어난 것이다. 가만히 있는 대통령이 무엇 때문에 계엄을 했겠나. 그런데 이제 일단은 (탄핵에 대해) 결론이 났기 때문에 지금 야외 아스팔트에서 모이는 집회는 중단하고, 지금 대통령 선거가 시작되었으니까 잘 되도록 기도해야 한다.”&lt;br&gt;&lt;br&gt;-‘재정비의 시간’을 갖겠다고 했다. &lt;br&gt;&lt;br&gt;“지금까지 아스팔트에 나가서 한 일들을 검토, 평가할 것이다.”&lt;br&gt;&lt;br&gt;-지난 2월 인터뷰에선 탄핵 인용이 될 경우엔 대선 운동으로 전환하겠다고 했다. 앞으로 계획은.&lt;br&gt;&lt;br&gt;“지금까지 아직 상대가 정해진 것도 아니고. 그러나 교회가 볼 때 반교회적, 반성경적, 반사회적이라는 생각이 드는 공약을 낸다든지 하면 또 전면적으로 반대할 수 밖에 없다.”&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>인제대 의대생도 복귀...40개 의대 등록 완료 </title>
-      <link>https://www.chosun.com/national/education/2025/04/04/H7V52SRE75HW7GGZJY7DZMTL3Y/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2025/04/04/H7V52SRE75HW7GGZJY7DZMTL3Y/</guid>
-      <dc:creator>김민기 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 04 Apr 2025 09:07:37 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NH7G5YU2QBFFLESVGHODSCVSMM.png"&gt;&lt;figcaption&gt;&lt;small&gt;인제대 전경./인제대&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전국 40개 의대 중에서 유일하게 복귀 의사를 밝히지 않았던 인제대 의대 학생들이 모두 학교로 돌아왔다.&lt;br&gt;&lt;br&gt;4일 인제대는 이날 기준 모든 의대 학생이 등록 또는 복학 신청을 마쳤다고 밝혔다. 인제대 의대 복귀 대상자는 370명이었는데 모두 학교로 돌아온 것이다.&lt;br&gt;&lt;br&gt;앞서 1일 교육부가 발표한 자료에 따르면, 전국 40개의 대학 가운데 서울대, 고려대를 비롯한 35곳에서 100% 등록률을 보였고, 4곳은 90% 이상이었다. 인제대 의대만 복귀율이 저조해 75%에 달하는 학생이 제적 위기였는데 이날 기준 전원 등록을 완료한 것이다. &lt;br&gt;&lt;br&gt;이로써 전국 의대 40곳에서 사실상 전원이 등록 절차를 마쳤다. 서울대·연세대·고려대 등 주요 의대 본과 학생들 위주로 수업 참여율이 40~60%대를 기록 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>네이버·다음·구글, 탄핵 인용  직후 ‘전 대통령’으로 수정</title>
@@ -769,33 +913,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YM6P5O3PNJHL3NFBM7H25KMXDE.png"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령 프로필./네이버&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;헌법재판소가 윤석열 전 대통령 탄핵소추안을 인용하자 포털 사이트들도 윤석열 대통령이 아닌 ‘전 대통령’으로 관련 인물 정보를 일제히 수정했다.&lt;br&gt;&lt;br&gt;4일 오전 11시 22분 헌재가 윤 전 대통령의 탄핵소추안을 인용한 직후 네이버·다음·네이트 등 주요 포털에서 ‘윤석열’을 검색하면 ‘전 대통령’으로 나오기 시작했다. 김건희 여사 역시 ‘전 영부인’이라는 호칭으로 변경했다.&lt;br&gt;&lt;br&gt;구글에서도 윤석열 전 대통령은 ‘전 대한민국 대통령’으로 변경됐다. 김건희 전 영부인은 여전히 ‘대한민국의 영부인’으로 소개되고 있으나 김 전 영부인 관련 상세 페이지에 들어가면 ‘대한민국의 기업인’으로 명시돼 있다.&lt;br&gt;&lt;br&gt;헌재는 이날 탄핵소추안의 주요 사유였던 ▲비상계엄 선포 요건 미비 ▲위헌적 포고령 1호 ▲국회 봉쇄 시도 ▲선거관리위원회 장악 시도 ▲정치인·법관 등 주요 인사 체포 지시 등 5가지 혐의가 모두 헌법이나 법률을 위반했다고 판단했다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>이재명, ‘대장동 재판 증인 불출석’ 과태료에 이의 신청</title>
-      <link>https://www.chosun.com/national/court_law/2025/04/04/RGBK2MD3OZF43EPO6YAIJWKJ5A/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/04/04/RGBK2MD3OZF43EPO6YAIJWKJ5A/</guid>
-      <dc:creator>유종헌 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 04 Apr 2025 08:50:49 +0000</pubDate>
-      <content:encoded>이재명 더불어민주당 대표가 대장동 민간업자들의 재판에 증인으로 소환되고도 불출석하다가 재판부로부터 과태료를 부과받자 불복해 이의신청을 냈다.&lt;br&gt;&lt;br&gt;이 대표는 지난 3일 김만배(화천대유 대주주)씨 등 대장동 민간업자들의 배임 사건을 심리하는 서울중앙지법 형사합의22부(재판장 조형우)에 ‘과태료 결정에 대한 이의신청서’ 2건을 제출했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VSPNPREBGBOPFE6ATQSDIVQTD4.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;이재명 더불어민주당 대표가 4일 서울 여의도 국회에서 헌법재판소의 윤석열 대통령 파면 결정에 대한 입장을 밝히고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;앞서 이 재판부는 이 대표를 증인으로 채택해달라는 검찰 신청을 받아들여 소환장을 보냈다. 그러나 이 대표는 국회 의정 활동 등을 이유로 지난달 21일, 24일, 28일, 31일 등 네 차례 연속 불출석했다. 이 대표는 지난달 14일 불출석 신고서를 냈지만 재판부는 받아들이지 않았다.&lt;br&gt;&lt;br&gt;이 대표 불출석으로 재판이 파행되자 재판부는 지난달 24일 과태료 300만원을 부과했고, 같은 달 28일에는 과태료 500만원을 추가로 부과했다. 이에 이 대표가 이의를 제기한 것이다.&lt;br&gt;&lt;br&gt;검찰은 지난달 31일 재판에서 이 대표를 구인해달라고 재판부에 요청했다. 재판부는 “국회의원은 헌법상 불체포 특권이 규정돼 있어 강제조치가 가능한지 고민 중”이라며 결정을 미뤘다.&lt;br&gt;&lt;br&gt;재판부는 오는 7일 재판에도 이 대표를 증인으로 채택한 상태다. 이 대표가 이날도 불출석할 경우 법원은 먼저 다른 증인들에 대한 신문을 진행할 가능성이 있다. 또는 이 대표에 대해 구인 절차를 밟을 수도 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>대통령기록관, 尹정부 기록물 이관 작업 착수</title>
-      <link>https://www.chosun.com/national/national_general/2025/04/04/PP27A2DGJ5C2VFRKYAE53YUZCU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/04/PP27A2DGJ5C2VFRKYAE53YUZCU/</guid>
-      <dc:creator>최연진 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 04 Apr 2025 08:31:40 +0000</pubDate>
-      <content:encoded>행정안전부 대통령기록관은 4일 ‘대통령 기록물 관리에 관한 법률’에 따라 기록물 이관 작업에 착수했다고 밝혔다. 윤석열 전 대통령이 직을 상실함에 따른 절차다. &lt;br&gt;&lt;br&gt;대통령 기록물은 대통령이 직무 수행과 관련해 생산·접수한 기록물과 ,이에 준하는 기록물을 의미한다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/F6V7LOW4YBZ43NQGXGDTJNKMWY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;세종시 어진동 대통령기록관. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대통령기록관은 우선 이관추진단을 설치하고 대통령 기록물 생산 기관과 실무 협의에 들어갔다. &lt;br&gt;&lt;br&gt;이관 대상 기관은 대통령기록물법에 명시된 대통령 보좌기관, 권한대행, 경호기관, 자문기관 등이다. 대통령기록관은 “탄핵 인용 즉시 각 생산 기관에 ‘제20대 대통령 기록물 이관 협조 요청’ 공문을 발송했다”고 밝혔다.&lt;br&gt;&lt;br&gt;기록물의 정리 및 분류 작업이 완료되면 대통령기록관으로 이송되고, 이관 목록과 기록물 검수 절차를 거쳐 서고에 입고하게 된다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>서울경찰, 오후 6시부터 비상근무 하향 조정...‘갑호→을호'</title>
-      <link>https://www.chosun.com/national/national_general/2025/04/04/Y4RWRN2FDZEKTIZCRWQZZGZKJ4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/04/Y4RWRN2FDZEKTIZCRWQZZGZKJ4/</guid>
-      <dc:creator>김명진 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 04 Apr 2025 08:06:06 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZCMQOIVL3BARRMFSPFOCA6BYDM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;4일 오전 헌법재판소의 윤석열 대통령 탄핵 심판 선고를 앞두고 서울 주한미국대사관 앞 도로에 경찰 버스와 경찰이 동원한 것으로 추정되는 관광버스 차벽이 세워져 있다. 이날 헌법재판소가 윤석열 전 대통령의 탄핵을 헌법재판관 8명 전원일치 의견으로 인용했다. /장련성 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 대통령 탄핵 심판 선고일인 4일 전국 경찰서에 경찰력을 100% 동원하는 비상근무 최고 단계인 ‘갑호비상’을 발동했던 경찰이 오후 6시부로 근무 단계를 완화한다.&lt;br&gt;&lt;br&gt;경찰청 경비안전계는 이날 오후 6시부터 서울경찰청에는 가용 경찰력 50% 이내 동원이 가능한 ‘을호 비상’을, 다른 시·도 경찰청에는 비상 연락망과 출동 대기 태세를 유지하는 ‘경계 강화’를 각각 발령한다고 밝혔다.&lt;br&gt;&lt;br&gt;경찰청 관계자는 “헌법재판소의 탄핵 선고 이후 현 시간까지 전반적으로 서울 시내 치안 상황이 안전해졌고, 100% 동원 체제를 유지할 필요가 없다고 판단했다”며 “100여 일간 경비 업무에 투입된 기동대 직원들 사기도 고려했다”고 했다.&lt;br&gt;&lt;br&gt;앞서 경찰은 탄핵 심판 선고일 폭력 사태가 발생할 가능성을 고려해 이날 전국 기동대 338개 부대 소속 2만여 명을 동원했다. 그중 62%인 210개 부대 소속 1만2600명을 서울에 집중적으로 배치했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>모두가 숨죽인 22분… 헌재, 尹·야당 모두 질책했다</title>
       <link>https://www.chosun.com/national/court_law/2025/04/04/4PIZV7TBZJH7FDDEVWHSAFIRTI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/04/04/4PIZV7TBZJH7FDDEVWHSAFIRTI/</guid>
@@ -803,129 +920,6 @@
       <description/>
       <pubDate>Fri, 04 Apr 2025 07:23:20 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2CMEIXE2GWCVAUKNDFTBYIFOAA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;문형배 헌법재판소장 권한대행이 4일 오전 서울 종로구 헌법재판소 대심판정에서 윤석열 전 대통령 탄핵심판 인용 결정문을 낭독하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;4일 오전 10시 59분, 문형배 헌법재판소장 권한대행을 비롯한 8명의 헌법재판관이 헌법재판소 대심판정 안으로 들어섰다.&lt;br&gt;&lt;br&gt;11시 정각 문 권한대행이 “지금부터 2024헌나8 대통령 윤석열 탄핵 사건에 대한 선고를 시작하겠습니다”라고 선언하면서 헌정 사상 세 번째로 현직 대통령 탄핵 심판 선고가 시작됐다.&lt;br&gt;&lt;br&gt;탄핵 심판 결정문의 핵심을 요약한 ‘선고 요지’는 처음부터 끝까지 문 권한대행이 낭독했다. 대심판정 방청석에는 내외신 기자 10여 명과 여야 국회의원들이 자리했다. 4819대1의 경쟁률을 뚫고 방청에 당첨된 일반인 16명도 앉아 있었다.&lt;br&gt;&lt;br&gt;문 권한대행이 선고 요지를 낭독하는 동안 분위기는 엄숙했지만 윤 전 대통령 측과 국회 측 반응은 엇갈렸다. &lt;br&gt;&lt;br&gt;비상계엄 선포, 국회 군경 투입, 계엄포고령 발령, 중앙선거관리위원회 장악 시도, 법조인 위치 확인 시도 등 다섯 가지 탄핵 사유에 대한 헌재 판단이 나올 때마다 윤 전 대통령 변호인단에서는 깊은 한숨이 나왔다. 일부 대리인은 고개를 푹 숙이거나 얼굴을 감싸쥐기도 했다. 반면 국회 측 대리인단은 문 권한대행이 사안별 위헌적인 요소를 지적하는 대목에서 고개를 끄덕였다. &lt;br&gt;&lt;br&gt;헌재의 선고 요지에는 윤 전 대통령의 헌법·법률 위반을 밝히는 내용뿐 아니라, 윤 전 대통령이 비상계엄의 명분으로 앞세웠던 야당의 전횡을 지적하는 내용도 담겼다. 윤 전 대통령이 취임한 후 비상계엄을 선포하기 전까지 더불어민주당 등 야당이 탄핵안 22건을 발의해 고위공직자의 직무가 중단되고, 헌정 사상 최초로 국회 예산결산특별위원회에서 예산 증액 없이 감액에 대해서만 야당 단독으로 의결했다는 점 등이었다.&lt;br&gt;&lt;br&gt;문 권한대행은 이 대목에서 국회 측 대리인단을 향해 몸을 돌려 낭독을 이어갔다. 특히 “(윤 전 대통령이) 야당의 전횡으로 국정이 마비되고 국익이 현저히 저해되어 가고 있다고 인식해 이를 어떻게든 타개해야 한다는 막중한 책임감을 느꼈을 것으로 보인다”는 문장을 읽을 때는 여러 차례 국회 측을 쳐다보기도 했다.&lt;br&gt;&lt;br&gt;반대로 “피청구인(윤 전 대통령)과 국회 사이에 발생한 대립은 (비상계엄의 방식이 아닌) 민주주의의 원리에 따라 해소돼야 할 정치의 문제”라고 지적할 때는 윤 전 대통령 측 변호인석을 바라봤다. 헌재는 “계엄을 선포함으로써 국가긴급권 남용의 역사를 재현해 국민을 충격에 빠트리고, 사회․경제․정치․외교 전 분야에 혼란을 야기했다”며 “위헌·위법 행위는 국민의 신임을 배반한 것으로, 헌법 수호의 관점에서 용납될 수 없는 중대한 법 위반 행위에 해당한다”고 했다. &lt;br&gt;&lt;br&gt;문 권한대행은 선고 이유를 모두 설명한 뒤 마지막으로 주문을 읽기 전 “탄핵사건이므로 선고 시각을 확인하겠다”며 오른쪽으로 눈을 돌려 시계를 확인했다. 오전 11시 22분. 헌재는 2017년 박근혜 전 대통령 탄핵심판 때도 결정문에 선고 시각을 명시했다. 탄핵 사건은 헌재의 다른 심판과 달리 주문을 읽는 순간 효력이 발생하는 만큼 분 단위로 시간을 명확하게 해 향후 발생할 수 있는 법적 논란을 없앤다는 취지이다.&lt;br&gt;&lt;br&gt;마지막으로 문 권한대행이 “주문, 피청구인 대통령 윤석열을 파면한다”고 하고 퇴장하자 방청석에서는 야당 의원들 사이에 “감사합니다”라는 외침과 탄성이 터져 나왔다.&lt;br&gt;&lt;br&gt;재판관들은 이날 오전 6시 54분 주심인 정형식 재판관을 시작으로 8시 22분 문 권한대행까지 8명이 모두 등청을 마쳤다. 재판부는 선고 전 마지막으로 모여 평의를 하고 결정문을 최종 확정했다고 한다. 선고가 끝나고 이미선·정계선·정정미·정형식·조한창 등 일부 재판관은 낮 12시쯤 대기하던 차량을 타고 헌재를 떠났다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[오늘의 운세]  4월 6일 일요일 (음력 3월 9일 乙巳)</title>
-      <link>https://www.chosun.com/national/national_general/2025/04/04/ZHEAFAOVEBB4RKF52CHQXZFOBE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/04/ZHEAFAOVEBB4RKF52CHQXZFOBE/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Fri, 04 Apr 2025 08:05:00 +0000</pubDate>
-      <content:encoded>&lt;p&gt;&lt;div class="chosun_unse"&gt;&lt;iframe src="https://image.chosun.com/arc/unse_iframe.html" frameborder="0" scrolling="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;style&gt;.chosun_unse{position:relative;width:100%;height:350px;box-sizing:border-box}.chosun_unse&gt;iframe{position:absolute;top:0;left:0;width:100%;height:100%;overflow-y:hidden}@media all and (max-width:1024px){.chosun_unse{height:350px}}@media all and (max-width:1023px){.chosun_unse{height:350px}}@media all and (max-width:528px){.chosun_unse{height:270px}}@media all and (max-width:384px){.chosun_unse{height:190px}}&lt;/style&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;p&gt;&lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani01.gif"&gt;  	&amp;nbsp;	 36년생 운동과 식습관이 건강 관건. 48년생 미끼 커도 강가에서 고래 못 잡는 법. 60년생 상처 될 말은 가급적 자제하도록. 72년생 길동무 좋으면 먼 길도 가까운 법. 84년생 두루 포용한 뒤 엄격한 관리가 뒤따라야. 96년생 분주다사한 중 즐거운 하루.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt;  &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani02.gif"&gt;	&amp;nbsp;	 37년생 떠나기도 머물기도 어렵구나. 49년생 순간 오판이 오래 후유증 남긴다. 61년생 자식, 아랫사람이라도 말은 가려 하도록. 73년생 결정할 일은 다음으로 미루라. 85년생 투자 생각했다면 주변 정보 수집 먼저. 97년생 주변 도움으로 난제 풀린다.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani03.gif"&gt;	&amp;nbsp;	 38년생 주도권 잃고 입지 축소되는 시기. 50년생 머리로 계산 말고 심장으로 느끼도록. 62년생 꼭 할 일이면 망설일 필요 무엇. 74년생 이용당하거나 뒤통수 맞기를 조심. 86년생 소띠와 동업은 빚내서라도 하라. 98년생 눈에 안 보이는 것도 관심과 애정을.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani04.gif"&gt;	&amp;nbsp;	 27년생 의욕 너무 앞서면 손해 부른다. 39년생 배우자 뜻 따르면 무사 안녕. 51년생 누런색과 숫자 5, 10 피하도록. 63년생 승부가 나지 않을 듯. 75년생 베푼 만큼 보답 있다. 87년생 물결 흐르듯 자연스럽게 가라. 99년생 타인과 비교는 양날의 검.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani05.gif"&gt;	&amp;nbsp;	 28년생 머슴이 나갈 제는 주인집 흉을 낸다. 40년생 오늘에 충실해야. 52년생 내용보다 포장이 중요할 때가 있다. 64년생 고집하지 말고 융통성을 발휘하라. 76년생 남쪽 문은 피하는 것이 상책. 88년생 송충이는 솔잎 먹어야. 00년생 어울려 더불어 살아라.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani06.gif"&gt;	&amp;nbsp;	 29년생 자손으로 인한 웃음꽃 핀다. 41년생 아무리 반가운 손님도 사흘. 53년생 쟁기질 못하는 농부 황소 탓. 65년생 내 기분만 앞세우면 주변이 불편. 77년생 여행은 손해가 많다. 89년생 같은 실수를 반복하지 않도록. 01년생 부탁할 일이 있다면 지금 당장.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani07.gif"&gt;	&amp;nbsp;	 30년생 공것이 비싸게 치일 수도. 42년생 마음이 산란하면 되는 일이 없다. 54년생 감정 조절에 신경 써야 할 듯. 66년생 기쁨과 근심은 동전의 양면. 78년생 경솔한 언행이 화를 초래한다. 90년생 이성의 유혹이 있으니 사전에 주의. 02년생 전반적 흐름은 원만.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani08.gif"&gt;	&amp;nbsp;	 31년생 실수 없도록 말을 가려서 하라. 43년생 늙은 말이 무거운 짐을 졌구나. 55년생 경거망동 마라. 67년생 이미 함께하였다면 믿고 가라. 79년생 재물이 하늘로부터 오니 풍족하다. 91년생 인생은 대담한 모험이다. 03년생 분수에 넘치는 지출은 삼가도록.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani09.gif"&gt;	&amp;nbsp;	 32년생 생각은 너무 많아도 병. 44년생 다 된 밥에 코 빠뜨릴라. 56년생 하나를 얻었다면 하나는 양보하라. 68년생 친구로 인한 스트레스다. 80년생 바른 충고도 잦으면 소원해진다. 92년생 훌륭한 묘책도 시운이 받쳐줘야. 04년생 서쪽에 서기(瑞氣)가 감돈다.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani10.gif"&gt;	&amp;nbsp;	 33년생 자손이 내 맘 같지 않구나. 45년생 비판보다 칭찬 많이 하도록. 57년생 적게 먹으면 약주 많이 먹으면 독주. 69년생 자가 운전 안 이로우니 대중교통 이용. 81년생 가는 이 붙잡지 말고 오는 이 막지 마라. 93년생 단점 극복할 때 장점 살아난다.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani11.gif"&gt;	&amp;nbsp;	 34년생 건강 호전되더라도 무리하진 마라. 46년생 하기 싫어도 해야 할 때 있다. 58년생 준비 안 돼 있으면 기회 온들 무슨 소용. 70년생 일 잘될 땐 넘어져도 떡함지에 엎어진다. 82년생 뜻 있으니 길은 열린다. 94년생 먼저는 근심스럽고 뒤에는 평안하다.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani12.gif"&gt;	&amp;nbsp;	 35년생 임시방편은 근본적 문제 해결 어렵다. 47년생 앞길 구만 리니 조급해하지 마라. 59년생 흰색과 숫자 4, 9 행운 부른다. 71년생 변덕쟁이 되기 싫으면 일관성 유지하도록. 83년생 일에 빠져 지친 일벌레는 되지 말아야. 95년생 완만히 진행하면 목적 달성은 가능.	&lt;br&gt;
-&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;한소평 금오산방 강주  &lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;			&lt;/p&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/4MTFRYWHBJA7XOKKF7G7JPLX5U.png?width=800&amp;height=420&amp;auth=4651b5b20b5d4901424204d1456faee02e4b064ff509db23945deabf4404c8ef&amp;smart=true" type="image/png" height="420" width="800"/>
-    </item>
-    <item>
-      <title>“구준엽, 故 서희원과 사별 후 12kg 빠져...가족들이 돌보는 중"</title>
-      <link>https://www.chosun.com/national/people/2025/04/04/VTEI2YZG7FF4XGIP74Y7ZCQB4E/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/04/04/VTEI2YZG7FF4XGIP74Y7ZCQB4E/</guid>
-      <dc:creator>정아임 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 04 Apr 2025 08:01:06 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YBHJHQMO4JAHRLKICV26OSRHVA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;구준엽과 고(故) 서희원. /인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그룹 클론 출신 DJ 구준엽이 아내인 대만 배우 쉬시위안(서희원·48)을 그리워하며 슬픔에 빠져 있다는 외신 보도가 나왔다. &lt;br&gt;&lt;br&gt;4일 소후닷컴 등 중화권 매체는 “구준엽이 서희원의 유해를 묻은 뒤 더 이상 공식 석상에 나오지 않고 있다. 그는 12kg 정도가 빠졌으며, 매일 울고 있다”고 보도했다.&lt;br&gt;&lt;br&gt;보도에 따르면 구준엽이 서희원의 유해를 진바오산(금보산) 추모공원에 안치한 후 칩거 중이다. 서희원의 동생 쉬디시(서희제)와 가족들이 구준엽을 보살피고 있다고 한다. &lt;br&gt;&lt;br&gt;매체는 “구준엽의 고통을 덜어주기 위해 서희제의 가족들은 매주 구준엽을 초대해 저녁 식사를 같이 하고 있다. 대만에서 구준엽과 함께 있던 친구는 한 명뿐이었다. 구준엽은 가족도 없이 엄청난 고통을 겪었다. 이에 서희제의 가족이 구준엽을 보살피며 격려하고 있다”고 전했다.&lt;br&gt;&lt;br&gt;구준엽은 현재 모든 활동을 중단한 채 아내 서희원을 기리기 위한 동상 제작에 매달리고 있다. 아직 동상은 완성되지 않았지만, 금보산 추모공원에 동상을 세울 장소를 예약해 둔 것으로 알려졌다.&lt;br&gt;&lt;br&gt;구준엽과 서희원은 1990년대 후반 교제한 뒤 헤어졌다가 20여 년 만에 다시 만나 2022년 결혼했다. 코로나19 여파로 결혼식 없이 양국에서 혼인신고를 마쳐 법적 부부가 됐다. 이후 구준엽은 대만과 한국에 오가며 활동해 왔다.&lt;br&gt;&lt;br&gt;하지만 서희원은 일본 여행 중 독감에 걸린 뒤 폐렴 합병증으로 지난 2월 3일 세상을 떠났다. 서희원의 장례식은 지난달 진바오산에서 엄수됐고 구준엽이 아내의 유골함을 품에 안고 직접 묘역까지 옮겼다. &lt;br&gt;&lt;br&gt;당초 고인의 생전 뜻에 따라 수목장을 치르기로 했으나 가족들은 논의를 거쳐 장례 장소를 다시 정했다. 구준엽은 언제든지 사랑하는 아내를 찾아갈 수 있는 독립적인 공간을 갖고 싶다는 뜻을 표한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[오늘의 운세]  4월 5일 토요일 (음력 3월 8일 甲辰)</title>
-      <link>https://www.chosun.com/national/national_general/2025/04/04/ABK2F22MURH6PIQSYMFXBL4R4M/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/04/ABK2F22MURH6PIQSYMFXBL4R4M/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Fri, 04 Apr 2025 08:00:00 +0000</pubDate>
-      <content:encoded>&lt;p&gt;&lt;div class="chosun_unse"&gt;&lt;iframe src="https://image.chosun.com/arc/unse_iframe.html" frameborder="0" scrolling="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;style&gt;.chosun_unse{position:relative;width:100%;height:350px;box-sizing:border-box}.chosun_unse&gt;iframe{position:absolute;top:0;left:0;width:100%;height:100%;overflow-y:hidden}@media all and (max-width:1024px){.chosun_unse{height:350px}}@media all and (max-width:1023px){.chosun_unse{height:350px}}@media all and (max-width:528px){.chosun_unse{height:270px}}@media all and (max-width:384px){.chosun_unse{height:190px}}&lt;/style&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;p&gt;&lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani01.gif"&gt;  	&amp;nbsp;	 36년생 먼저 칭찬하고 베푸는 게 필살기. 48년생 묶인 매듭 서서히 풀린다. 60년생 만족 모르면 구중궁궐도 철창 감옥. 72년생 과거는 잊고 미래 위해 나아가라. 84년생 명월 구름 속에 숨으니 한 치 앞도 어둡다. 96년생 따라잡으려 말고 나란히 함께 가라.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt;  &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani02.gif"&gt;	&amp;nbsp;	 37년생 문서로 인한 근심 주의 필요. 49년생 생나무도 마른나무 옆 두면 타는 법. 61년생 잠재력은 무궁하나 실행 안 할 뿐. 73년생 늙은 준마는 구유에 있어도 뜻이 천 리를 달린다. 85년생 현재 아닌 미래의 눈으로 보고 가라. 97년생 가다 멈추면 아니 간 만 못하리.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani03.gif"&gt;	&amp;nbsp;	 38년생 관재수 염려되니 언행 삼가라. 50년생 만족스럽지 않되 불평은 마라. 62년생 쉴 때 일할 때 정확히 구분하라. 74년생 부모 되긴 쉬워도 부모 노릇은 어렵다. 86년생 바닥을 쳤다면 상승은 기정사실. 98년생 위인은 없다. 위대한 도전이 있을 뿐.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani04.gif"&gt;	&amp;nbsp;	 27년생 인생사 새옹지마. 39년생 금전과 명예는 상반. 51년생 사행성 사업에 관심 두지 마라. 63년생 남쪽은 귀인이 오는 길목. 75년생 오늘과 내일에 집중하는 것이 상책. 87년생 비관도 낙관도 금물. 99년생 순간 기분에 편승하지 마라.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani05.gif"&gt;	&amp;nbsp;	 28년생 귀인이 와서 도우니 소망을 이루리라. 40년생 배우자와의 다툼을 경계. 52년생 호미 든 거지는 없다. 64년생 밖으로 돌아 좋을 일 없다. 76년생 서쪽 문은 피하는 것이 상책. 88년생 싸우지 않고 이기는 법을 찾아봐야. 00년생 살림에는 눈이 보배.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani06.gif"&gt;	&amp;nbsp;	 29년생 기다려라. 반응할 때까지 기다려라. 41년생 경솔한 처신으로 구설 잡음이 염려. 53년생 소화기 계통 질환을 주의. 65년생 집안이 편해야 행복. 77년생 물고기는 물을 떠나 살 수 없다. 89년생 부뚜막의 소금도 넣어야 짠 법. 01년생 뒤처지지 않도록 서둘러야.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani07.gif"&gt;	&amp;nbsp;	 30년생 남을 움직이려면 나부터 움직여야. 42년생 개미구멍에 십 리 둑이 무너진다. 54년생 중요한 결정은 다음으로. 66년생 실수를 두려워 마라. 78년생 웃는 얼굴에 침 못 뱉는다. 90년생 친구 사이에 다투면 오래간다. 02년생 자세를 낮추고 머리를 숙이라.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani08.gif"&gt;	&amp;nbsp;	 31년생 단번에 처리하기에는 역부족. 43년생 균형과 조화만이 살길. 55년생 드문드문 걸어도 황소걸음. 67년생 장미꽃은 가시 사이에 자란다. 79년생 평범한 속에 비범함을 찾도록. 91년생 넉넉한 곳간에서 예의도 나는 법. 03년생 예상보다 심각한 상황은 아니다.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani09.gif"&gt;	&amp;nbsp;	 32년생 꾸미기는 사람 몫, 이루기는 하늘 몫. 44년생 생각이 너무 많아도 문제. 56년생 어느 정도의 희생은 불가피할 듯. 68년생 비뇨기과, 부인과에 진료. 80년생 주동하지 말고 조용히 따라가라. 92년생 의심병은 약이 없다. 04년생 주변의 시기 질투를 조심.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani10.gif"&gt;	&amp;nbsp;	 33년생 판단과 결정에 융통성 발휘하도록. 45년생 싫다고 아니할 수 없다면 즐겁게 하라. 57년생 입성이 날개니 품위 있게 잘 입어라. 69년생 가까운 지인일수록 경계의 끈 놓지 마라. 81년생 낮은 곳과 궂은일에 기쁨이 곱절. 93년생 이 기회 놓치면 어느 때를 다시 보랴.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani11.gif"&gt;	&amp;nbsp;	 34년생 용두사미 되지 않도록. 46년생 옳은 줄 알면서 하지 않는 건 허물. 58년생 인심 얻기는 들어주고 수렴하는 게 최고. 70년생 교묘한 거짓은 우둔한 진실만 못하다. 82년생 큰 부자는 부유해도 교만하지 않는 법. 94년생 고되고 힘들어도 보상 있는 하루.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani12.gif"&gt;	&amp;nbsp;	 35년생 투자와 이동 변화는 이롭지 않다. 47년생 어두운 터널 속이면 머지않아 밝은 세상 볼 것. 59년생 불필요한 지출과 과분한 소비 줄이도록. 71년생 신임 얻어야 세상 얻을 수 있다. 83년생 버리고 정리할 건 과감하게. 95년생 시작 쉽지만 마무리가 어렵구나.	&lt;br&gt;
-&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;한소평 금오산방 강주  &lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;			&lt;/p&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/4MTFRYWHBJA7XOKKF7G7JPLX5U.png?width=800&amp;height=420&amp;auth=4651b5b20b5d4901424204d1456faee02e4b064ff509db23945deabf4404c8ef&amp;smart=true" type="image/png" height="420" width="800"/>
-    </item>
-    <item>
-      <title>안국역 폐쇄 종료...4시32분부터 지하철도 정상운행</title>
-      <link>https://www.chosun.com/national/national_general/2025/04/04/GT5ERH6K7BEADPI3YGMNNN2MBA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/04/GT5ERH6K7BEADPI3YGMNNN2MBA/</guid>
-      <dc:creator>최연진 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 04 Apr 2025 07:35:11 +0000</pubDate>
-      <content:encoded>서울교통공사는 4일 “오후 4시32분부로 지하철 3호선 안국역 폐쇄 및 무정차 통과를 종료한다”고 밝혔다. 이에 따라 모든 출구가 열리고 지하철도 정상 운영된다.&lt;br&gt;&lt;br&gt;서울교통공사는 앞서 3일 오후 4시부터 종로구 헌법재판소 인근에 있는 안국역의 6개 출구를 모두 폐쇄했다. 또 지하철도 무정차 통과시켰었다.&lt;br&gt;&lt;br&gt;한남동 관저 인근인 지하철 6호선 한강진역도 인파 밀집 우려로 이날 오전 9시부터 지하철이 무정차 통과했으나, 오후 1시15분부터 정상 운행 중이다. 출입구도 한때 폐쇄됐다가 현재는 정상 운영하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>탄핵 반대 주도한 세이브코리아 “헌재 선고 승복... 집회 취소”</title>
-      <link>https://www.chosun.com/national/national_general/2025/04/04/RKKO5TFI2JCUDPE4QBKQSZESXI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/04/RKKO5TFI2JCUDPE4QBKQSZESXI/</guid>
-      <dc:creator>고유찬 기자, 김도연 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 04 Apr 2025 06:27:20 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7KSECQ4IYJOH3N5572Z4OX723Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;헌법재판소가 윤석열 전 대통령의 파면을 선고한 4일 서울 용산구 한남동 대통령 관저 인근에서 열린 탄핵 반대 집회 화면에 헌재 파면 결정 소식이 중계되고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;4일 헌법재판소가 윤석열 대통령 탄핵을 전원일치 의견으로 인용하자 그동안 탄핵 반대 집회를 열어 온 보수 단체들은 줄줄이 승복 의사를 밝히고 예정했던 집회를 취소하겠다고 했다.&lt;br&gt;&lt;br&gt;손현보 부산세계로교회 목사의 주도로 서울 여의도와 전국 각지에서 대규모 탄핵 반대 집회를 이끌어왔던 개신교계 단체 ‘세이브코리아’는 헌법재판소 판결 직후 성명을 내고 “대한민국의 일원으로서 오늘 헌재의 결정을 받아들인다”고 밝혔다. 이어 “어떤 경우에도 폭력이 있어서는 안 될 것”이라고 했다.&lt;br&gt;&lt;br&gt;세이브코리아와 함께 반탄 집회를 주도한 한국사 강사 전한길씨도 유튜브 채널 실시간 방송에서 “헌재의 선고 결과에 대해 승복한다”며 “그것이 바로 우리가 추구하는 자유민주주의이고 법치주의이기 때문”이라고 했다.&lt;br&gt;&lt;br&gt;전씨는 “오늘의 패배는 오늘 하루만의 패배일 뿐”이라며 “조기 대선에서 이기면 된다”고 했다. 그러면서 “저는 이재명에 맞서 보수파에 나올 어떤 후보도 통합된 후보라면 누구든 지지하겠다”고 했다.&lt;br&gt;&lt;br&gt;세이브코리아는 앞서 예고했던 5일 2만명 규모의 여의도 집회를 취소했다. 세이브코리아 관계자는 “5일 집회는 취소하기로 결정했다”며 “비록 정치적 구호는 달랐을지라도, 두 달 내 치러질 대통령 선거를 앞두고 국민들이 화합하고 하나 돼 더 나은 대한민국을 만들어 나가야 한다”고 했다.&lt;br&gt;&lt;br&gt;윤 전 대통령의 변호인 석동현 변호사가 주도하는 대통령 국민변호인단 측도 예고했던 반탄 집회를 취소했다. 국민변호인단 측인 배의철 변호사는 이날 오후 입장문을 통해 “오늘(4일) 용산 대통령실 앞 집회는 취소됐다”며 “제 마음속 윤석열 대통령은 오늘로 복귀했다. 오늘 선고에 좌절하지 않고 국민들과 함께 제2 건국을 위한 싸움을 계속해나가겠다”고 했다.&lt;br&gt;&lt;br&gt;다만 전광훈 목사를 주축으로 한 대한민국바로세우기국민운동본부(대국본)과 자유통일당은 기존 예고대로 5일 오후 서울 광화문 일대에서 약 20만명 규모 집회를 열겠다고 했다. 대국본은 4일 입장문을 내고 “국민이 납득하기 어려운 지점이 많은 매우 유감스럽고 안타까운 결정”이라며 “정치적 공세와 편향된 언론들의 여론몰이에 의해 이뤄진 부당한 결정이므로 인정할 수 없다”고 주장했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>신고 없이 주식 거래...김상철 한컴 회장, 1심 벌금 2000만원</title>
-      <link>https://www.chosun.com/national/incident/2025/04/04/N7OZZZARNFDNZE42HLNEAXBYNU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/04/04/N7OZZZARNFDNZE42HLNEAXBYNU/</guid>
-      <dc:creator>성남=김현수 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 04 Apr 2025 06:20:43 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EFA7JFJ4R6MSVIMYDBPFARTOCI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기 성남시 한글과컴퓨터 본사. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;계열사의 주식 변동사항을 제대로 신고하지 않아 자본시장법을 위반한 김상철(72) 한글과컴퓨터그룹 회장에게 벌금형이 선고됐다.&lt;br&gt;&lt;br&gt;수원지법 성남지원 형사6단독 임락균 판사는 4일 자본시장과 금융투자업에 관한 법률 위반 혐의로 기소된 김 회장에게 벌금 2000만원을 선고했다.&lt;br&gt;&lt;br&gt;재판부는 “피고인이 범행을 인정하고 반성하고 있다”며 유죄를 인정했다. 다만 “최대주주인 피고인이 이 사건 범행에 이르게 된 경위와 죄책이 가볍지 않고 일반 투자자들에게 혼란을 초래한 점 등을 고려해 형을 정했다”고 판시했다.&lt;br&gt;&lt;br&gt;김 회장은 2019~2020년 계열사 한컴위드의 주식 3억원 상당을 15회에 걸쳐 거래해 1% 이상의 주식 소유 변동이 발생했는데도 금융위원회에 신고하지 않은 혐의로 올해 1월 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;김 회장은 이와 별개로 가상화폐로 90억원대 비자금을 조성한 혐의로 수원지검 성남지청의 수사를 받고 있다. 검찰은 김 회장이 ‘가상화폐 비자금 조성’ 사건 전반을 주도한 것으로 보고 수사 중이다. 앞서 가상화폐 비자금 조성 사건에 가담해 특정경제범죄가중처벌법상 배임 혐의로 재판에 넘겨진 김 회장의 차남 김모(36)씨는 지난해 1심과 2심에서 각각 징역 3년을 선고받았다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘백현동 개발 특혜’ 민간업자, 1심서 징역형 집행유예</title>
-      <link>https://www.chosun.com/national/court_law/2025/04/04/EHSE54ZMUFB63JUT2QBEKY3AP4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/04/04/EHSE54ZMUFB63JUT2QBEKY3AP4/</guid>
-      <dc:creator>이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 04 Apr 2025 06:07:22 +0000</pubDate>
-      <content:encoded>백현동 개발 사업 당시 특혜를 받았다는 의혹이 제기된 민간업자 정바울(아시아디벨로퍼 대표)씨가 4일 1심에서 징역형의 집행유예를 선고받았다. 검찰은 백현동 개발사업 시행사 등의 법인자금 480억여 원에 대한 횡령‧배임 혐의로 정씨를 기소했는데, 1심은 이 중 상당수를 인정하지 않았다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SHTONFAKAYTHCMLEBBZLTYCXEA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;'백현동 개발 특혜 의혹' 사건의 핵심 인물 중 한 명인 정바울 아시아디벨로퍼 대표. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지법 형사27부(재판장 우인성)는 이날 정씨에게 징역 2년에 집행유예 4년을 선고했다. 재판부는 정씨가 페이퍼컴퍼니와 허위 자문용역계약을 맺고 수수료 명목으로 4억원을 챙긴 혐의(업무상배임), 아파트분양 광고대행업체에 실제보다 부풀린 용역대금을 지급하고 10%인 6억원을 현금으로 되돌려받아 챙긴 혐의(특경가법상 횡령)를 유죄로 인정했다. 또 가족 등 12명을 본인이 실소유한 법인의 허위 직원으로 등재해 급여 등 명목으로 수십억원을 횡령한 혐의 등도 유죄로 판단했다.&lt;br&gt;&lt;br&gt;다만 재판부는 이 사건 핵심인 ‘로비스트’ 김인섭씨가 정씨에게 백현동 개발사업 인허가 해결 대가를 요구하고, 정씨가 77억원을 지급했다는 혐의는 무죄로 봤다. 재판부는 “알선증재에는 처벌규정이 없어, 회사의 이익을 도모하기 위한 알선증재에 대해서 불법의사를 인정하기 어렵다”고 했다. &lt;br&gt;&lt;br&gt;재판부는 정씨가 실소유한 법인을 분양대행 업체로 선정해 외주를 주는 방식으로 차액 96억원을 챙긴 혐의, 단가를 부풀려 차액 156억원을 챙긴 혐의도 인정하지 않았다. 법원은 “정씨가 범행을 통해 횡령한 회사 자금이 97억원에 이르는 것으로 인정된다”면서도 “백현동 개발 사업은 성남시와 합의된 대로 기부 채납이 이뤄진 점, 아파트 공사를 마친 점, 상당수 지인이 선처를 탄원하는 점 등을 비롯해 정씨가 고령인 점 등을 종합해 형량을 정했다”고 밝혔다.&lt;br&gt;&lt;br&gt;백현동 개발은 성남시 분당구 백현동 옛 한국식품연구원 부지에 아파트를 세운 사업이다. 정씨가 이재명 더불어민주당 대표의 과거 성남시장 후보 선대위원장 출신인 김인섭씨를 영입한 뒤 성남시가 부지 용도를 4단계 높여주면서 아파트 건설이 가능해졌다. 이후 정씨의 아시아디벨로퍼가 3000억원대 분양 수익을 거두면서 특혜 의혹이 제기됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>대법 “신빙성 증명 안된 피해자 진술조서, 법정 진술 없으면 증거로 못써”</title>
-      <link>https://www.chosun.com/national/court_law/2025/04/04/K5LNGFQIY5F65AGTAO42COMGMY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/04/04/K5LNGFQIY5F65AGTAO42COMGMY/</guid>
-      <dc:creator>박강현 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 04 Apr 2025 06:22:23 +0000</pubDate>
-      <content:encoded>피해자의 진술이 ’특별히 신빙할(믿을) 수 있는 상태(특신상태)’에서 나왔다는 것이 증명되지 않는다면, 피해자의 법정 증언 없이 조서를 증거로 채택할 수 없다는 대법원 판단이 나왔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/N5BGHLJ7INCJFHGRI7COETXTW4.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초동 대법원. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;4일 법조계에 따르면 대법원 2부(주심 오경미 대법관)는 지난달 13일 특수절도, 공동폭행 등 혐의로 기소된 A씨에게 무죄를 선고한 원심을 확정했다.&lt;br&gt;&lt;br&gt;우즈베키스탄 국적 유학생 A씨는 같은 유학생인 피해자 B씨가 1000만원을 빌렸지만 돈을 갚지 않자, 지난 2022년 8월 돈을 받아낼 목적으로 공범과 함께 B씨의 여권을 훔치고 폭행한 혐의 등으로 재판에 넘겨졌다. &lt;br&gt;&lt;br&gt;피해자 B씨는 이후 경찰에 신고해 진술 조서를 작성했고, 검찰은 이 같은 증거 등을 근거로 A씨를 기소했다. &lt;br&gt;&lt;br&gt;하지만 1심에서 증인으로 채택된 B씨는 법정에 출석했으나 늦게 나와 증인 신문을 받지 못했다. B씨는 다음 기일을 고지 받은 뒤 출석하지 않았고, 국내에 체류하고 있는 게 확인됐는데도연락이 닿지 않아 결국 증인 신문 자체가 진행되지 않았다.&lt;br&gt;&lt;br&gt;이 사건의 쟁점은 B씨 경찰 진술 조서의 증거 능력을 인정할 수 있는지였다. 형사소송법 314조는 “공판 기일에 진술을 해야하는 사람이 사망, 질병, 외국 거주 등 사유로 진술할 수 없는 때에는 그 조서를 증거로 할 수 있다”면서도 “다만 진술 또는 작성이 특히 신빙할 수 있는 상태 하에서 행해진 때에 한한다”고 규정하고 있다.&lt;br&gt;&lt;br&gt;앞서 1심은 “B씨가 증인 신문을 회피했다기보다는 부득이한 사정이 생긴 것으로 보인다”면서 조서의 증거 능력을 인정하고, A씨에게 징역 8개월에 집행유예 2년을 선고했다.&lt;br&gt;&lt;br&gt;그러나 2심은 “피해자 B씨는 국내에 체류하면서도 일절 연락을 받지 않아 결국 증인 신문이 이뤄지지 못했는데, 이는 의도적으로 증인 신문을 회피한 것으로 볼 여지가 많다. B씨가 법정 출석이 불가능한 상황이 아니었고, 조서도 특별히 신빙할 수 있는 상태에서 작성됐다고 보기 어렵다”며 조서를 증거에서 배제, 1심 판단을 뒤집고 무죄를 선고했다. &lt;br&gt;&lt;br&gt;대법원도 2심이 법리를 오해한 잘못 등이 없다며 검찰 측 상고를 기각해 판결을 확정했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[속보] 尹 “국민 위해 일할 수 있어 큰 영광… 기대 부응 못해 죄송”</title>
-      <link>https://www.chosun.com/national/court_law/2025/04/04/LVNTXARHDJGTDAIQQFFMV2Z4CI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/04/04/LVNTXARHDJGTDAIQQFFMV2Z4CI/</guid>
-      <dc:creator>이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 04 Apr 2025 04:58:09 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CZYSXHCRXJEBDCBHYCKHN26JLQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령이  지난 3월 8일 경기도 의왕시 서울구치소 앞에서 경호차량에서 내려 지지자들에게 인사하며 구치소를 나서고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;4일 헌법재판소가 윤석열 전 대통령의 탄핵을 전원일치 의견으로 인용했다. 윤 전 대통령은 “사랑하는 국민, 대한민국을 위해 일할 수 있어서 큰 영광이었다”며 “기대에 부응하지 못해 너무나 안타깝고 죄송하다”는 입장을 밝혔다. 다음은 윤 전 대통령의 입장 전문.&lt;br&gt;&lt;br&gt;사랑하는 국민 여러분,&lt;br&gt;&lt;br&gt;그동안 대한민국을 위해&lt;br&gt;&lt;br&gt;일할 수 있어서 큰 영광이었습니다.&lt;br&gt;&lt;br&gt;많이 부족한 저를&lt;br&gt;&lt;br&gt;지지해 주시고 응원해 주신 여러분께&lt;br&gt;&lt;br&gt;깊이 감사드립니다.&lt;br&gt;&lt;br&gt;여러분의 기대에 부응하지 못해&lt;br&gt;&lt;br&gt;너무나 안타깝고 죄송합니다.&lt;br&gt;&lt;br&gt;사랑하는 대한민국과&lt;br&gt;&lt;br&gt;국민 여러분을 위해&lt;br&gt;&lt;br&gt;늘 기도하겠습니다.&lt;br&gt;&lt;br&gt;윤석열 드림&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/4HT6JJEQLYDQ6BLWQ5G3ZSCE2E.jpg?width=2132&amp;height=1488&amp;auth=ff98b7e5608883dfbf42f3f280fe2d210eaad05a938e15c2b9b32a2029a1cf8a&amp;smart=true" type="image/jpeg" height="1488" width="2132">
-        <media:description type="plain">윤석열 대통령이 지난 24년 8월 29일 서울 용산 대통령실청사 브리핑룸에서 국정브리핑 및 기자회견을 마치고 퇴장하고 있다. (뉴스1 DB)2025.4.4/뉴스1 ⓒ News1 박지혜 기자</media:description>
-        <media:credit role="author" scheme="urn:ebu">뉴스1 ⓒ News1 박지혜 기자</media:credit>
-      </media:content>
-    </item>
-    <item>
-      <title>尹지지자들 “잘못된 판결” 망연자실... 찬탄 집회선 “이겼다” 환호성</title>
-      <link>https://www.chosun.com/national/national_general/2025/04/04/CCGFDT5BH5GVHKHNB7GNZOAFGE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/04/CCGFDT5BH5GVHKHNB7GNZOAFGE/</guid>
-      <dc:creator>김도연 기자, 조민희 기자, 한영원 기자, 김혜민 기자, 김도균 기자, 이민경 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 04 Apr 2025 03:00:15 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/K4AJF42RE5PBHACN25YY3SFMLU.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령의 탄핵 심판이 인용된 4일 서울 용산구 한남동 대통령 관저 앞에서 자유통일당 관계자 및 윤석열 전 대통령 지지자들이 허탈한 표정을 짓고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;4일 헌법재판소가 재판관 전원 일치 의견으로 윤석열 전 대통령 탄핵을 인용하자, 탄핵 찬반 시위대의 분위기는 극명하게 갈렸다. 찬탄 집회에서는 환호성이 터져 나오고 장구와 꽹과리 소리가 울려 퍼졌다. 반탄 집회에서는 눈물을 흘리며 울먹이는 시민들이나, 경찰 버스를 부수는 시위대도 보였다.&lt;br&gt;&lt;br&gt;이날 오전 11시 22분쯤 문형배 헌법재판소장대행이 윤 전 대통령 파면을 결정하자 서울 한남동 관저 앞 찬탄 집회에서는 “와” 하는 환호성이 터졌다. 춤을 추는 시민도 장구와 꽹과리를 두드리며 환호하는 이도 있었다. 찬탄 시위대는 서로 얼싸안으면서 “이겼다! 대한민국 만세” “위대한 국민 만세” “위대한 민주주의 만세” 같은 구호를 외쳤다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6RXC2CG5KJPGTPNWMTT3I5XMFU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;헌법재판소가 윤석열 전 대통령 탄핵 사건에 대해 인용을 선고한 4일 서울 종로구 안국동 일대에서 탄핵에 찬성한 시민들이 헌재의 파면 선고에 환호하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 안산에서 왔다는 강현진(52)씨는 “어젯밤 윤 전 대통령이 탄핵될 생각에 설레서 밤을 꼬박 샜다”면서 “분위기상 파면될 것 같았지만 요즘 말도 안 되는 일이 많아서 걱정이 된 것도 사실이다. 그래도 선고 들으며 정의는 살아있구나 안도했다”며 울먹였다.&lt;br&gt;&lt;br&gt;광화문 동십자각 일대에서 열린 찬탄 집회도 축제 분위기였다. 문 소장 대행이 선고 요지를 읽어 내려가며 “탄핵 소추 의결이 부적법하다고 볼 수 없다”고 말하는 대목에서는 시민들 사이에서 환호성이 터졌다. 응원 도구인 부부젤라를 불면서 “우리가 이겼다” “슬픔 이제 안녕”이라고 시민들은 외쳤다.&lt;br&gt;&lt;br&gt;같은 시간, 관저 앞 탄핵 반대 시위대는 숨죽이며 헌재 생중계 화면을 보고 있었다. 문 대행이 피청구인 윤 전 대통령 측 주장을 부정하는 발언을 내놓을 때마다 욕설 등 극단적 반응이 나왔다. 한 시민은 발을 동동 구르면서 “어떡해, 인용될 것 같다”며 얼굴을 싸매는 모습이었다.&lt;br&gt;&lt;br&gt;결국 탄핵이 인용되자 반탄 집회에 참가한 한 여성은 “이게 말이 되는 판결이냐! 어떡해, 우리 대통령님!”이라고 외쳤다. 또 다른 한 남성은 얼굴이 빨갛게 상기된 모습으로 ”헌법재판소 앞으로 쳐들어 가자!“며 소리를 질렀다. 관저 앞 반탄 시위를 이끈 전광훈 목사는 “우리에겐 국민저항권이 아직 남아있다”며 “내일 광화문 광장으로 모여야 한다. 광화문에 안 모이는 사람들은 북한에 살기를 원하는 사람으로 간주하자”라고 했다.&lt;br&gt;&lt;br&gt;안국역에서 열린 약 500명 규모 반탄 시위대도 선고 결과에 좌절하는 모습이었다. 헌재 선고 전, 태극기와 성조기를 흔들며 ”탄핵 기각“ “윤석열 대통령 우리가 지킨다”라고 외치던 반탄 시민들은 문 대행이 요지를 읽어 내려가자 “아 미치겠네” “이게 말이 되느냐”며 항의했다. 일부 참가자는 윤 전 대통령 파면 결정이 난 뒤, 경찰 폴리스라인을 발로 차는 모습을 보였다. &lt;br&gt;&lt;br&gt;군복과 방독면 차림으로 집회에 나온 한 시민은 경찰 버스에 달려들어 곤봉으로 창문을 깨뜨리다가 시민들이 제지하기도 했다. 경찰은 이 남성을 공용물건손상 혐의로 현행범으로 체포하고 곤봉을 압수했다.&lt;br&gt;&lt;br&gt;대통령변호인단 주도로 전쟁기념관 앞에서 열린 반탄 집회에서도 선고 결과에 좌절하는 시민들이 여럿 보였다. 한 중년 남성은 태극기로 사진 찍는 취재진 카메라를 때리면서 화를 냈다. 경기 동탄에서 왔다는 선희준(29)씨는 “말도 안 되는 결과다. 변론에서 오염된 진술임이 밝혀졌는데 어떻게 채택됐느냐”며 “앞으로 방향으로 나아가야 할지 가늠할 수조차 없다. 헌재는 잘못된 판결을 했다”고 했다.&lt;br&gt;&lt;br&gt;윤 전 대통령 지지자 카페에서도 헌재의 인용 결정이 나오자 “끝이네요…” “이게 뭔가요” “너무 암울하다” “허탈합니다” 같은 글이 쏟아졌다. “더 뭉쳐야 된다고 생각합니다” “이럴 거면 왜 시간을 끌었느냐” “진짜 정상적으로 돌아가는 게 하나도 없다” “이제 공산주의가 되면 어떡하나” 같은 반응도 올라왔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/R7L4NEIIABGFXLPTWHZSJJ7UQA.png?width=1600&amp;height=900&amp;auth=4b361db71de57705d538b10a6fdc9f15ef4a508cda0432061b67807e21fba3b1&amp;smart=true" type="image/png" height="900" width="1600">
-        <media:description type="plain">엇갈린 시위대 반응</media:description>
-      </media:content>
     </item>
     <item>
       <title>헌재, 尹 대통령 탄핵 결정...전원일치 인용</title>
@@ -939,15 +933,6 @@
         <media:description type="plain">윤석열 대통령이 2월13일 서울 종로구 헌법재판소에서 열리는 탄핵심판 8차 변론에 출석하고 있다. 사진공동취재단</media:description>
         <media:credit role="author" scheme="urn:ebu"/>
       </media:content>
-    </item>
-    <item>
-      <title>헌재 주변 경찰 7000여명 투입... 선고 앞두고 일반인 출입 차단</title>
-      <link>https://www.chosun.com/national/national_general/2025/04/04/WYFIUO2XFRF4ZLR6QH4LEGKYTI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/04/WYFIUO2XFRF4ZLR6QH4LEGKYTI/</guid>
-      <dc:creator>김도연 기자, 안준현 기자, 김혜민 기자, 한영원 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 04 Apr 2025 01:16:09 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Y4WOIT4I6JNBHNUQBOM4CRKE4M.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령 탄핵 심판 선고일인 4일 오전 서울 종로구 헌법재판소 인근 거리 통행이 통제되고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 대통령의 탄핵 심판 선고가 이뤄지는 4일 오전 헌법재판소 앞은 초긴장 상태다. 경찰은 이날 자정을 기점으로 ‘갑호 비상’을 내리며 서울에 기동대 1만4000여 명을 투입해 치안 유지에 나섰다.&lt;br&gt;&lt;br&gt;이날 오전 6시 기준 헌재와 광화문, 종로 일대에는 기동대 110여 부대 7000여 명이 투입됐다. 헌재 인근에는 경찰특공대가 배치돼 청사를 보호하고, 기동대도 캡사이신과 장봉 등을 준비 중이다.&lt;br&gt;&lt;br&gt;이날 오전 9시쯤 헌재 정문 앞에서 경찰은 현재 경찰과 헌재 직원, 취재진 외 일반인의 헌재 앞 인도 통행을 막고 있었다. 취재진 또한 기자증과 신분증을 함께 보여줘야 통행을 허가할 정도로 철저히 통제했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3UGLLTVJZBHZ5B4F5WBFRZ7VNE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령의 탄핵심판이 열리는 4일 오전 서울 종로구 헌법재판소 앞에는 보호구를 착용하고 방패를 든 경찰 특공대가 배치됐다./안준현 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;오전 10시쯤 안국역 5번 출구 앞에는 탄핵 반대 집회 참가자 약 200명이 모여들었다. 인도 한편에는 전날부터 이곳에서 밤을 샌 듯 돗자리를 깔고 은박지를 두르고 있는 시위자 10여 명도 보였다. 초록색 전투복 조끼를 입고 손전등을 들고 나온 남성, 군용 헬멧과 선글라스를 쓰고 온 참가자, 헬멧과 방독면을 쓰고 온 참가자도 보였다.&lt;br&gt;&lt;br&gt;해병 군복을 입은 인원 20명 가량이 “탄핵 각하”를 외치며 낙원상가 방면에서 행진하기도 했다. 시위대 사이에서도 “탄핵 각하”라는 구호가 터져나왔다. 태극기와 성조기를 판매하는 노점상도 탄핵 반대 집회에 등장했다. ‘애국보급 원가’라고 쓰인 팻말을 목에 건 한 남성이 태극기와 성조기 2개를 합쳐 1000원에 판매했다.&lt;br&gt;&lt;br&gt;탄핵 찬성 측은 이들과 200~300m 떨어진 안국역 인근 동십자각, 송현공원 등지에 집결했다. 오전 9시 30분쯤 송현공원 앞에서도 밤샘 집회를 이어온 시위대가 온몸에 은박 비닐을 두르고 있는 모습이었다. 오전 10시 30분 기준 일대에 모인 9000여 명(경찰 비공식 추산)의 시위자들은 ‘헌재는 만장일치로 윤석열 탄핵’ ‘국민의힘 위헌 정당 해체‘ ’민주주의 우리가 지킨다‘ 등의 문구가 적힌 손팻말을 들었다.&lt;br&gt;&lt;br&gt;한편 경찰은 이날 불법행위에 엄정 대응하겠다는 방침이다. 헌재 주변에 국가수사본부 형사·수사 인력 1237명을 투입하고, 현장에서 체포된 사람들은 서울 시내 21개 경찰서 유치장에 연행할 계획이다. 폭력 시위자에게는 이격용 분사기(캡사이신)와 경찰봉 등을 사용할 수 있도록 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>1970∼90년대 전성기 여자농구 대표팀 감독 정주현씨 별세</title>
@@ -969,24 +954,6 @@
       <media:content url="https://www.chosun.com/resizer/v2/XEM6EJCDL5FZTAGYQUMYMLSZRU.jpg?width=1041&amp;height=665&amp;auth=fb70991affcdbda879b5d1a05ed92ed2e49c568acc055c6d15770022d89b795c&amp;smart=true" type="image/jpeg" height="665" width="1041">
         <media:description type="plain">대구의 한 상급종합병원 신생아중환자실(NICU) 간호사가 입원 중인 신생아의 사진을 무단으로 촬영해 소셜미디어에 올리고 부적절한 발언을 한 장면. /블라인드</media:description>
       </media:content>
-    </item>
-    <item>
-      <title>‘주짓수狂’ 저커버그, UFC와 파트너십... 親트럼프 행보?  </title>
-      <link>https://www.chosun.com/national/people/2025/04/03/75C3X5HSPNFWJFU2HTVNYVQMMI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/04/03/75C3X5HSPNFWJFU2HTVNYVQMMI/</guid>
-      <dc:creator>김휘원 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 03 Apr 2025 12:12:24 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DTG5IKYSHNC5BJUUN37DHR63SI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2022년 10월 1일 미국 네바다주 라스베이거스의 실내 경기장 UFC APEX에서 마크 저커버그(왼쪽) 메타 최고경영자가 데이나 화이트 UFC 회장과 기념사진을 촬영하고 있다./게티이미지코리아&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;페이스북·인스타그램의 모회사 메타(Meta)가 종합격투기 단체 UFC와 2일 파트너십을 체결했다. 이에 마크 저커버그 메타 최고경영자(CEO)의 또 다른 친(親)트럼프 행보라는 해석이 나오고 있다. 데이나 화이트 UFC 회장이 도널드 트럼프 대통령과 가까운 사이이기 때문이다. 직접 종합격투기 대회에 참가하는 등 UFC 마니아로 알려진 저커버그는 앞서 지난 1월 화이트를 메타 이사로 임명했었다. &lt;br&gt;&lt;br&gt;UFC는 메타의 첨단 기술을 활용한 경기 홍보, 체험 이벤트 등을 선보일 계획이다. 데이나 화이트 회장은 이날 파트너십 체결 소식을 전하며 “앞으로 우리의 공식 마케팅 파트너로서 메타가 보유한 인공지능(AI) 웨어러블 기기와 소셜미디어 플랫폼 등을 활용해 이전과 비교할 수 없는 몰입감을 제공할 것”이라고 했다. &lt;br&gt;&lt;br&gt;파트너십에 따라 메타의 소셜미디어 서비스 스레드를 UFC의 공식 소통 채널로 하고, ‘파이트 나이트(Fight Night)’ 등 이벤트 경기가 열릴 때 UFC의 상징인 옥타곤(팔각형 링)에 메타 로고가 노출될 예정이다.&lt;br&gt;&lt;br&gt;UFC 측은 메타의 AI 안경을 활용해 새로운 경기 경험을 제공하겠다면서 기대감을 끌어올렸다. UFC 팬들은 이 안경을 통해 현장에서 경기를 보는 듯한 체험을 할 수 있을 것으로 예상하고 있다. &lt;br&gt;&lt;br&gt;UFC는 또 선수들의 전력을 분석하는 새로운 랭킹 시스템 개발에도 메타와 협력할 것이라고 밝혔다. 구체적인 계약 금액이나 조건은 알려지지 않았지만 로이터 등은 메타가 다년간 수백만 달러를 UFC에 지원할 예정이라고 전했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘백종원 급식소’에 나타난 BTS 진…산불 피해 지역 찾아 봉사</title>
-      <link>https://www.chosun.com/national/people/2025/04/03/EYPBSVKK4RC53E3PLO24JMOYNA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/04/03/EYPBSVKK4RC53E3PLO24JMOYNA/</guid>
-      <dc:creator>정아임 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 03 Apr 2025 11:47:29 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TANTXJY6WNLGTPZ3CG2XCOR7OY.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;방탄소년단(BTS) 진./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그룹 방탄소년단(BTS) 멤버 진이 산불 피해 지역인 경북 안동시를 찾아 식사 봉사를 했다.&lt;br&gt;&lt;br&gt;3일 소속사 빅히트 뮤직에 따르면 진은 이날 산불 피해 지역인 안동시 길안면 길안중학교에서 식사 봉사에 나섰다.&lt;br&gt;&lt;br&gt;피해 지역 주민들의 목격담에 따르면 진은 검은색 모자와 카디건 차림에 더본 앞치마를 매고 봉사를 진행했다. 진은 다른 봉사자들과 함께 배식하며 주민들에게 위로의 말을 전한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;한 주민은 언론에 “다른 봉사자들 속에서 티 내지 않고 일만 열심히 하더라”며 진이 성실하게 봉사에 임했다고 전했다.&lt;br&gt;&lt;br&gt;길안중학교는 진과 친분이 있는 백종원 대표의 더본코리아가 무료 급식소를 차린 곳이다. 더본코리아는 지난달 28일부터 길안중학교에서 무료 급식소를 운영하며 매 끼 300인분 이상의 음식을 만들어 이재민과 소방대원들에게 식사를 제공하고 있다.&lt;br&gt;&lt;br&gt;빅히트 뮤직은 “산불로 피해를 입은 분들에게 조그마한 도움이라도 드리고 싶어서 봉사활동에 동참하게 됐다”고 밝혔다.&lt;br&gt;&lt;br&gt;진은 백종원과 예능물 등에 함께 출연하며 인연을 맺었다. 진은 지분 투자 방식으로 백종원 더본코리아와 함께 농업회사법인 예산도가를 설립, 증류주 ‘아이긴’(IGIN)을 출시한 바 있다. &lt;br&gt;&lt;br&gt;진이 속해 있는 방탄소년단은 경상도 지역 산불 피해 지원을 위해 거액을 기부해 화제가 됐다. 멤버 정국이 10억원을 기부한 데 이어 RM(김남준)·제이홉·슈가 등도 이재민을 위해 써달라며 각 1억원씩 기부했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
