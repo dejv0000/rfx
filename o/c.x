@@ -13,6 +13,18 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>“세 보이려 새겼는데, 너무 후회”…문신 제거 과정 공개한 유튜버</title>
+      <link>https://www.chosun.com/national/national_general/2025/04/10/6UUQLKV5VNHGFOG3FJ6UDYAVSQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/10/6UUQLKV5VNHGFOG3FJ6UDYAVSQ/</guid>
+      <dc:creator>김자아 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 09 Apr 2025 22:30:02 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DQT6SFXL5FFCNP5275BOHUTDNA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;유튜버 조두팔의 문신 제거 전 모습./유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;41만명의 구독자를 보유한 유명 유튜버가 문신을 지우는 과정을 공개하면서 “문신을 했던 것을 미친 듯이 후회한다”고 털어놨다. &lt;br&gt;&lt;br&gt;10일 여러 온라인 커뮤니티와 소셜미디어(SNS) 등에는 아프리카TV BJ 출신 유튜버 ‘조두팔(24·본명 조수진)’이 지난 5일 자신의 채널에 올린 문신 제거 영상 내용이 공유됐다. 조두팔은 두 딸을 둔 엄마로, 일상과 육아 모습 등을 공개하는 유튜버다.&lt;br&gt;&lt;br&gt;한 팔을 가득 뒤덮은 이른바 ‘긴팔 문신’을 새긴 조두팔은 “문신을 지우기로 했다. (문신을 한 지) 4년 정도 됐다. 좀 세 보이고 싶은 마음에 하게 됐다”며 “그런데 지금 보면 그냥 후회한다. 어쨌든 많이 늦었지만 지금부터라도 지우려고 한다. (지우는 데) 시간이 1년 반 정도 걸린다고 한다”고 말했다.&lt;br&gt;&lt;br&gt;이후 문신을 제거하는 과정을 보여줬다. 팔 전체에 마취 크림을 바른 뒤 일정 시간이 지나면 마취 크림을 지우고 시술에 들어가는 방식이다.&lt;br&gt;&lt;br&gt;시술을 마친 조두팔은 “진짜 이렇게 아플 줄 몰랐다”며 “지금까지 한 수술 중 제일 아프다. 이게 무슨 느낌이냐면, 팔 한쪽이 그냥 너무 아프다. 진짜 죽을 것 같다. 말로 표현이 안 된다, 너무 아프다”고 했다.&lt;br&gt;&lt;br&gt;이어 “고통을 말로 표현할 수 없다”며 울컥했다. 문신을 제거한 팔은 시뻘겋게 물든 모습이었다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CO45YX64IBD6JEHP7SVERHNDKU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;유튜버 조두팔이 문신 제거 과정을 공개했다./유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;다음 날 조두팔은 “팔이 붓긴 했지만 아프지는 않다. 이제 팔도 잘 구부려진다”면서 “웬만하면 울지 않는데 시술받으면서 살짝 눈물이 나올 정도로 진짜 아팠다”고 했다.&lt;br&gt;&lt;br&gt;시술 후 일주일이 지나고 난 뒤의 모습도 공개했다. 부기는 여전하지만, 시술 전 모습과 비교했을 때 색이 옅어진 듯 보였다.&lt;br&gt;&lt;br&gt;조두팔은 “병원에서 준 연고를 바르고 있다. 관리가 진짜 중요하다고 한다”며 “댓글에 1회차는 아무것도 아니고 강도도 갈수록 셀 거라고 해서 약간 무섭기는 하다”고 했다. 또 문신을 한 자신을 향해 “미친 듯이 후회하고 있다”고도 말했다.&lt;br&gt;&lt;br&gt;문신 제거는 피부에 주입된 색소를 모두 제거해야 하는 만큼 고통이 심한 시술로 잘 알려져 있다. 주로 레이저 시술로 진행하며, 시술 과정은 비교적 간단하지만 여러 차례에 걸친 시술이 필요하다. 다만 레이저로 제거 시술을 받아도 흉터나 잔상이 남아 문신 전 원래의 피부 상태로 돌아가기는 어렵다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/CO45YX64IBD6JEHP7SVERHNDKU.jpg?width=860&amp;height=483&amp;auth=1064d1d86b3ad2fc0f4d4cfc70130cdaae324c6d7972ace036e1ca3669cbf903&amp;smart=true" type="image/jpeg" height="483" width="860">
+        <media:description type="plain">유튜버 조두팔이 문신 제거 과정을 공개했다./유튜브</media:description>
+      </media:content>
+    </item>
+    <item>
       <title>“글짓기하면 합천여중” 125명이 상 탔다</title>
       <link>https://www.chosun.com/national/2025/04/10/FSAJIFZ25JC75JUDYWRDKW6TPM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/2025/04/10/FSAJIFZ25JC75JUDYWRDKW6TPM/</guid>
@@ -895,16 +907,6 @@
       <description/>
       <pubDate>Tue, 08 Apr 2025 12:41:53 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OTKVVUKHWS5X4ZYZHIU336BPBQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이재명 더불어민주당 대표가 8일 서울 서초구 중앙지법에서 열린 대장동 배임 및 성남FC 뇌물 의혹 1심 속행 공판에 출석하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대장동·위례·백현동·성남FC 사건에서 피고인으로 재판을 받는 이재명 더불어민주당 대표의 재판이 내달에도 예정대로 진행된다. 이 대표 측은 “다음달엔 선거 유세가 있으니 재판을 뺄 수 있게 해달라”라고 요청했지만, 재판부는 “이미 너무 많이 빠졌다”며 허가하지 않았다.&lt;br&gt;&lt;br&gt;서울중앙지법 형사33부(재판장 이진관)는 8일 이 대표와 정진상 전 민주당 정무조정실장의 대장동 재판을 진행했다. 해당 재판은 지난 2월 법관 정기 인사로 재판장과 배석 판사 2명이 모두 교체돼 재판 갱신 절차를 진행 중이다.&lt;br&gt;&lt;br&gt;이날 재판 갱신 절차를 마무리한 재판부는 내달 13일과 27일을 공판기일로 추가로 지정했다. 이에 이 대표 측은 “27일은 대통령 선거 일주일 전”이라며 “선거 유세 기간이라 기일을 빼줬으면 좋겠다”고 요청했다. 검찰 측이 “재판을 그대로 진행하는 게 좋다”며 반대하자, 이 대표 측은 “대통령 선거라는 일정은 피고인 개인의 문제가 아니다”라고 맞섰다.&lt;br&gt;&lt;br&gt;재판부가 정확히 어떤 일정이 있느냐고 질문하자, 이 대표 측은 “아직 정해지지 않았는데 이런저런 토론회라든가 국민들에게 알려야 하는 선거 자체 행사들이 많이 있다”고 했다. 그러자 재판부는 “구체적 일정이 정해지면 법원에 관련 자료를 제출하고 필요한 경우 미리 허가를 받으라”며 일단 계획대로 기일을 지정했다. 기일은 예정대로 진행하되, 불출석 사유서를 제출할 경우 상황에 따라 허가할 수 있다는 가능성을 내비친 것이다.&lt;br&gt;&lt;br&gt;한편 윤석열 전 대통령이 파면되면서 제21대 대통령 선거일은 오는 6월 3일로 확정됐다. 공식 선거운동 기간은 오는 5월 12일부터 6월 2일까지다. 이 대표는 9일 당 대표직을 사퇴하고 본격적인 대선 출마에 나선다는 방침이다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>국립산림과학원 “영남 산불로 온실가스 약 366만t 배출”</title>
-      <link>https://www.chosun.com/national/regional/2025/04/08/MQIFC5XNQZHWRHLKWSOU3V6SMM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/04/08/MQIFC5XNQZHWRHLKWSOU3V6SMM/</guid>
-      <dc:creator>정성원 기자</dc:creator>
-      <description>지난달 영남 지역에서 발생한 산불로 360만t이 넘는 온실가스가 배출된 것으로 조사됐다.
-산림청 국립산림과학원은 지난달 21일부터 30일까지 경북·경남·울산 등에서 발생한 산불로 약 336만t의 온실가스가 배출된 것으로 추정된다고 8일 밝혔다.</description>
-      <pubDate>Tue, 08 Apr 2025 12:27:09 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FYNT6XR7OVAZ5DLBWGCAZY5XVE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 25일 경북 의성군 고운사 주변 산이 불타고 있는 모습. 경북은 우리나라에서 가장 소나무가 많은 지역이다. 이번 산불은, 불에 취약한 소나무로 인해 피해규모가 더 커졌다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난달 영남 지역에서 발생한 산불로 360만t이 넘는 온실가스가 배출된 것으로 조사됐다.&lt;br&gt;&lt;br&gt;산림청 국립산림과학원은 지난달 21일부터 30일까지 경북·경남·울산 등에서 발생한 산불로 약 366만t의 온실가스가 배출된 것으로 추정된다고 8일 밝혔다. 이는 중형차 약 3400만대가 서울~부산을 왕복할 때 발생하는 온실가스 배출량과 같다.&lt;br&gt;&lt;br&gt;산불이 발생하면 나뭇잎과 가지가 타면서 이산화탄소 등 온실가스가 배출되며, 산불 피해 면적과 산림의 양 등을 바탕으로 온실가스 배출량을 추정한다.&lt;br&gt;&lt;br&gt;이번 산불에 따른 잠정 산불영향구역은 4만8239ha. 온실가스 배출량은 이산화탄소 324만5000t, 메탄 27만2000t, 아산화질소 14만3000t 등이다.&lt;br&gt;&lt;br&gt;김래현 국립산림과학원 산림탄소연구센터장은 “산불피해지 조사를 통해 피해 면적 등이 늘어나면 온실가스 배출량도 늘어날 수 있다”면서 “산불이 발생하면 대기 중으로 많은 양의 온실가스가 즉각 배출되므로 산불 예방에 적극적으로 동참해 주길 바란다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>北 6·25때 서울대병원 집단학살... 진실화해위, 20년만에 인정</title>
