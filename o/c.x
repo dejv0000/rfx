@@ -13,6 +13,105 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>부산시보건환경연구원 여자 탈의실에 ‘몰카‘…경찰 수사</title>
+      <link>https://www.chosun.com/national/regional/yeongnam/2025/04/10/CCG6CFCVXBHPJB45VTAXQDA644/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/yeongnam/2025/04/10/CCG6CFCVXBHPJB45VTAXQDA644/</guid>
+      <dc:creator>부산=박주영 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 10 Apr 2025 10:07:52 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TUGYWY7D5ULKLPVMXPIHXKCDTI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산 연제구 연산동 부산시청 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산시보건환경연구원 소속 한 남성 직원이 여자 탈의실에 몰래 카메라를 설치한 사실이 드러나 경찰이 수사하고 있다. &lt;br&gt;&lt;br&gt;부산 북부경찰서는 “지난 9일 ‘부산시보건환경연구원 여자 탈의실에 불법 카메라가 설치돼 있다‘는 신고가 들어와 수사를 진행 중”이라고 10일 밝혔다. &lt;br&gt;&lt;br&gt;이 카메라는 지난 9일 오후 9시쯤 부산시보건환경연구원 당직 근무자가 발견했다. 신고를 받은 경찰은 현장에 출동, 문제의 카메라를 수거해 조사하고 있다. &lt;br&gt;&lt;br&gt;경찰은 또 10일 이 불법 카메라를 설치했다고 자수해 온 이 연구원 50대 남성 직원을 상대로 설치 시점과 경위 등을 조사하고 있는 것으로 알려졌다. &lt;br&gt;&lt;br&gt;부산시보건환경연구원은 이 사건이 불거지자 A씨를 출근하지 않도록 통보하는 등 격리 조치했다.&lt;br&gt;&lt;br&gt;경찰은 “수사가 진행 중인 사안으로 자세한 수사 사항은 알려줄 수 없다”고 말했다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>변협 “정부, 신규 변호사 1200명 이하로 줄여야”</title>
+      <link>https://www.chosun.com/national/court_law/2025/04/10/FE54VZIFB5DAXCEZ7USYCORGDY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/04/10/FE54VZIFB5DAXCEZ7USYCORGDY/</guid>
+      <dc:creator>김은경 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 10 Apr 2025 09:33:10 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3LRX4FQETLPAHQDDUN3AFV7L6A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 강남구 대한변협회관. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대한변호사협회(변협)가 현재 연간 1700명대 배출되는 신규 변호사 수를 1200명 이하로 줄여야 한다고 정부에 촉구했다.&lt;br&gt;&lt;br&gt;변협은 10일 성명을 내고 “변호사 과잉 공급에 따른 수임 경쟁이 과도해지면서 이탈자가 속출하고 있다”며 “이는 고스란히 국민의 피해와 사법 불신으로 이어지고 있다”고 했다.&lt;br&gt;&lt;br&gt;이어 “연간 적정 변호사 배출 수는 아무리 높게 잡아도 1200명 남짓”이라며 “정부 당국에 신규 변호사 배출 수를 대폭 감축할 것을 요구한다”고 했다. &lt;br&gt;&lt;br&gt;번협은 일본과 비교해 인구 수 대비 변호사 수가 과도하다고 주장했다. 변협은 “우리나라와 법조 체계가 가장 유사한 일본과 비교하면 인구 수 대비 변호사 수는 2배, 신규 변호사 배출 수는 약 3배 수준”이라고 했다.&lt;br&gt;&lt;br&gt;법무부는 매년 9월쯤 변호사시험 실시 계획을 공시하고, 이듬해 합격자 발표 당일 변호사시험관리위원회 심의를 통해 합격자 수를 결정한다. 변협은 “대략적인 합격자 수가 이미 정해진 상태에서 대동소이한 복수의 안 중 하나가 다수결로 결정된다”며 “현실이 외면된 채 매번 변호사 업계와 무관한 다수 위원의 이해관계에 따라 신규 변호사 배출 수가 결정되어왔다”고 했다.&lt;br&gt;&lt;br&gt;그러면서 “정부는 올해 변호사시험 실시계획 공고 시부터 2026년 변호사시험 합격자 수의 범위를 구체적으로 공시하고, 논의 과정에서 일선 변호사의 현실적 의견이 반영되도록 충분한 시간을 부여해야 한다”고 주장했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>경주 남산서 소나무재선충병 벌목 중 미지정 국가유산 훼손될 뻔</title>
+      <link>https://www.chosun.com/national/regional/2025/04/10/2X23FO2KCNHTBEMB6R7F2LOQOY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/04/10/2X23FO2KCNHTBEMB6R7F2LOQOY/</guid>
+      <dc:creator>경주=노인호 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 10 Apr 2025 09:28:53 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2HZYSJJ2NEJWCRVC6RX3NSSZHY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경주시가 소나무재선충병 확산 차단을 위해 감염 소나무를 벌목하는 과정에서 문화재인 약사여례좌상이 손상될 뻔했다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;소나무재선충병 확산을 막기 위해 감염된 소나무를 제거하던 중 경주시의 관리 부실로 문화재가 파손될 뻔한 일이 발생했다. &lt;br&gt;&lt;br&gt;10일 경주시 등에 따르면, 경주시 의뢰로 소나무재선충병 확대를 막기 위해 재선충 감염 소나무 제거 작업을 하던 중 소나무가 쓰러지면서 ‘용장계 사곡 제1사지 약사여래좌상‘과 충돌했다. 다행히 좌상이 파손되지는 않았다. &lt;br&gt;&lt;br&gt;이 좌상은 머리 부분이 없지만 몸체가 비교적 잘 남아 있는 비지정 국가유산으로, 주변에는 문화재(국가유산) 해설판이 세워져 있다. &lt;br&gt;&lt;br&gt;경주시는 소나무재선충병 매개충인 솔수염하늘소가 성충이 되기 이전인 이달 말까지 남산을 비롯해 경주 곳곳에서 피해목 제거 작업을 진행하고 있다. 문화재보호구역인 남산에서는 중장비를 쓰기 어려워 사람이 직접 소나무를 자르는 방식으로 제거 작업을 하고 있다.&lt;br&gt;&lt;br&gt;경주시 관계자는 “보물 등 지정 국가유산은 작업 전 관리를 하지만, 미지정 국가문화유산에 대해서는 제대로 관리하지 못했다”며 “앞으로 국가유산 주변 소나무 제거 작업 시 관련 교육을 좀 더 강화하겠다”고 말했다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[단독] 박성재 법무, 직무 복귀 후 “수장 공백 초래 송구... 절치부심해달라”</title>
+      <link>https://www.chosun.com/national/court_law/2025/04/10/YQUNMR7TUVHY7H2HUH6GEQOWEQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/04/10/YQUNMR7TUVHY7H2HUH6GEQOWEQ/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 10 Apr 2025 09:37:51 +0000</pubDate>
+      <content:encoded>10일 헌법재판소의 탄핵 기각 결정으로 직무에 복귀한 박성재 법무장관이 법무부‧검찰 구성원들에게 “오랫동안 수장 공백을 초래한 것에 대해 송구하다는 말씀과 감사 인사를 드린다”며 “모든 구성원 여러분이 절치부심(切齒腐心)하는 마음으로 업무에 매진해 주시기를 당부드린다”는 입장을 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/V3LED57UWJAUVNRMIPR46AHGCM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;탄핵 기각으로 직무에 복귀한 박성재 법무 장관이 10일 경기 과천 법무부 청사로 출근하고 있다. / 고운호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 박 장관은 이날 법무부 내부망에 ‘법무부 장관 복귀 인사말씀’이라는 글을 올려 이 같은 입장을 밝혔다. “지난해 12월 12일 탄핵 소추돼 119일간 자리를 비웠다”며 운을 뗀 박 장관은 “업무에 복귀하면서 ‘우리 사회의 안정과 법치를 확립’하는 것이 제가 마지막까지 해야 할 일이라는 생각을 했다”며 “오늘부터 신속히 현안 업무를 보고받고 정상적인 업무를 수행할 것”이라고 했다.&lt;br&gt;&lt;br&gt;박 장관은 검찰 구성원들에게는 특히 “사회적 관심 사건에 대해 좌고우면(左顧右眄) 하지 말고, 공정하면서도 신속한 수사로 우리 사회의 법치주의를 철저히 확립해 주시기를 부탁드린다”고 당부했다.&lt;br&gt;&lt;br&gt;헌재는 이날 오후 2시 선고를 열고, 재판관 8명 전원일치 의견으로 박 장관에 대한 탄핵심판 청구를 기각했다. 박 장관은 오후 2시 43분쯤 정부과천청사 법무부로 출근하면서 취재진에게 “개인적으로 탄핵될 정도의 잘못을 하지 않았다고 최후 진술에서 말씀드렸다”면서 “헌재의 현명한 결정에 감사드린다”고 했다. &lt;br&gt;&lt;br&gt;지난 4일 윤석열 전 대통령이 파면된 데 대해 박 장관은 “헌재의 결정을 존중할 수밖에 없다”고 했다. 비상계엄이 해제된 작년 12월 4일 밤 대통령 안전 가옥에서 이상민 전 행정안전부 장관, 김주현 민정수석, 이완규 법제처장과 회동한 것을 내란 관여로 볼 수 없다고 한 헌재 판단에 대한 질문에는 “아니 계엄이 끝났는데 그걸…”이라고 답했다. 이날 박 장관 출근길에는 법무부 김석우 차관, 변필건 기획조정실장 등이 마중 나왔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>삼성전자, 반도체 ‘특별연장근로’ 특례 1호’</title>
+      <link>https://www.chosun.com/national/labor/2025/04/10/RSAZW3WL2VBE3LUMLMQ2VJI3PM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/labor/2025/04/10/RSAZW3WL2VBE3LUMLMQ2VJI3PM/</guid>
+      <dc:creator>김아사 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 10 Apr 2025 09:28:08 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WCQ4AASM2BMI3HQ7LK7ONLYER4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 삼성전자 서초사옥/ 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;삼성전자가 반도체 연구개발직 ‘특별 연장 근로’의 1회 인가 기간을 6개월로 늘린 특례의 첫 적용 대상이 됐다. &lt;br&gt;&lt;br&gt;10일 고용노동부에 따르면 고용노동부 경기지청은 전날 삼성전자의 특별 연장 근로 신청을 인가했다. 특별 연장 근로는 주 52시간의 예외를 적용받아 주당 64시간까지 근무할 수 있는 제도다. 고용노동부 인가를 받으면 삼성전자 연구개발직 근로자들은 첫 3개월은 주당 최대 64시간, 그다음 3개월은 주당 최대 60시간 일할 수 있다.&lt;br&gt;&lt;br&gt;이는 정부가 지난달 14일 반도체 산업 경쟁력 강화를 위해 반도체 연구개발직에 한해 1회당 특별연장근로 인가 기간을 기존 3개월에서 6개월로 확대하고, 6개월 한 차례 더 연장할 수 있는 특례를 신설한 결과다. 고용노동부 관계자는 “다른 반도체 기업도 신청 준비를 하고 있는 것으로 알고 있다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>구청서 차 부수고 불 지른 전 공무원...구속영장 신청</title>
+      <link>https://www.chosun.com/national/regional/2025/04/10/RWFY6WPXX5DWXKVKCJVVJZF6RQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/04/10/RWFY6WPXX5DWXKVKCJVVJZF6RQ/</guid>
+      <dc:creator>울산=김주영 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 10 Apr 2025 09:24:39 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SK24OX4NX7LFMOQCFETMN3GATI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;자신이 근무했던 구청을 찾아가 주차된 차량을 부수고 화단에 불을 낸 40대가 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;울산 중부경찰서는 10일 공용 건조물 방화 미수 등의 혐의로 전직 공무원 A씨에 대해 구속영장을 신청했다. A씨는 이날 새벽 3시 40분쯤 울산 중구청사 바로 옆 화단 2곳에 인화물질을 뿌리고 불을 지른 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;그는 범행 직후 자신이 몰고 온 차를 타고 그대로 도주했다. 당시 화단에서 불길이 솟는 것을 발견한 당직 공무원들이 소화기로 불을 끈 뒤 119에 신고했다. 인명 피해는 없었다.&lt;br&gt;&lt;br&gt;경찰은 인근 방범카메라(CCTV) 영상 분석 등을 통해 용의자를 추적해 주거지에 있던 A씨를 붙잡았다.&lt;br&gt;&lt;br&gt;A씨는 지난달 29일 밤 11시10분쯤에는 중구청 주차장에서 차량 2대를 둔기로 내리쳐 파손한 혐의도 받고 있다. A씨는 수년 전 중구청에서 근무했으나 현재는 공무원이 아닌 것으로 알려졌다. 그는 중구에서 징계 등의 처분을 받은 적은 없는 것으로 전해졌다.&lt;br&gt;&lt;br&gt;경찰은 “A씨에 대해 구속영장을 신청한 뒤 정확한 범행 동기 등을 추가 조사하고 있다”고 말했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>대구 군위서 산불...주민 1명 숨진 채 발견</title>
+      <link>https://www.chosun.com/national/incident/2025/04/10/YA4LJ7VMGNBBXFPXKVFRWSWDZM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/04/10/YA4LJ7VMGNBBXFPXKVFRWSWDZM/</guid>
+      <dc:creator>이승규 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 10 Apr 2025 09:17:59 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/S4JNNA63IJHXYPIIBJ7DXGEVSU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고/조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대구 군위군의 한 야산에서 불이 나 산림 당국이 진화 작업을 한 뒤 불에 타 숨진 남성 1명을 발견했다. &lt;br&gt;&lt;br&gt;10일 오후 2시 12분쯤 대구 군위군 의흥면 수북리에서 산불이 났다. 산림 당국은 산불 진화 헬기 2대와 진화 인력 등을 투입해 약 1시간여 만인 오후 3시 17분쯤 불길을 잡았다.&lt;br&gt;&lt;br&gt;그러나 산불 현장에서 인근 주민인 A(91)씨가 불에 타 숨진 채 발견됐다. A씨 집은 산불이 난 야산과 인접해 있지만 불에 타진 않았다. .&lt;br&gt;&lt;br&gt;경찰 관계자는 “A씨의 사망에 현재까지 별다른 범죄 혐의점은 보이지 않는다”며 “A씨가 집 안이 아닌 현장 인근에 있다 불길에 휩쓸려 숨졌을 경우 등 여러 가능성을 염두에 두고 정확한 사망 경위를 조사 중”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>목동 고교서 고3 남학생이 수업 중 여성 교사 폭행</title>
+      <link>https://www.chosun.com/national/national_general/2025/04/10/33D3MMOMYBGUVN4V2QZ4ZYNBHU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/10/33D3MMOMYBGUVN4V2QZ4ZYNBHU/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 10 Apr 2025 09:10:05 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YWKOL52VUFHPFCR5CQBIZ2SYAU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;가해 학생이 피해 교사를 가격하는 장면. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 목동의 한 고등학교에서 수업 중 남학생이 여성 교사를 폭행해 교육 당국이 조사에 나섰다. &lt;br&gt;&lt;br&gt;10일 서울교육청에 따르면 이날 오전 10시쯤 서울 양천구 목동의 한 고등학교에서 이 학교 3학년 남학생이 수업 중 휴대전화를 쥔 손으로 여성 교사의 얼굴을 가격했다.&lt;br&gt;&lt;br&gt;당시 교실에 있었던 다른 학생 등의 증언에 따르면 가해 학생은 수업 시간에 휴대전화로 게임을 하다가 교사가 이를 지적하자 실랑이를 벌인 끝에 이 같은 행동을 했다고 한다. 피해 교사의 부상 정도는 알려지지 않았다. &lt;br&gt;&lt;br&gt;서울시교육청 관계자는 조선닷컴과의 통화에서 “현재 가해 학생과 피해 교사 분리 조치는 이뤄진 상태”라며 “자세한 사건 경위는 파악 중”이라고 밝혔다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>김부선, ‘김흥국과 불륜설’에 분노 “인격살해 당해… 고소 예정”</title>
+      <link>https://www.chosun.com/national/national_general/2025/04/10/PVS73HSBGFHR7GHFREUUJ7UDNU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/10/PVS73HSBGFHR7GHFREUUJ7UDNU/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 10 Apr 2025 08:33:17 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MA6C7JZ7SUB43ROTMXFXKHOVCA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;배우 김부선(왼쪽)과 가수 김흥국. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;배우 김부선이 자신과 가수 김흥국과의 불륜설 등을 퍼뜨린 네티즌들에 법적 대응을 하겠다고 밝혔다. &lt;br&gt;&lt;br&gt;김부선은 10일 자신의 유튜브 채널을 통해 “어제 법률 상담을 받고 왔다”며 “변호사가 국내 거주자면 범인을 잡을 수 있다고 했고 자료를 준비해서 내일 중 성동경찰서 사이버수사대에 고소할 예정”이라고 했다. &lt;br&gt;&lt;br&gt;김부선은 “감당하기 힘든 인격 살해를 당했기에 부득이 법의 도움을 받기로 했다”며 특히 한 네티즌은 자신과 가수 김흥국이 불륜을 저질렀다는 허위 사실도 유포했다고 밝혔다. &lt;br&gt;&lt;br&gt;김부선은 “김흥국과는 손 한번 잡은 적이 없는데 (불륜설을 퍼뜨린) 범죄자는 간이 배 밖으로 나온 것 같다”고 했다. &lt;br&gt;&lt;br&gt;김부선은 지난 8일에도 라이브 방송을 통해 악플로 인해 고통을 받고 있다고 토로했다. 그는 “도저히 감당이 안 돼 간신히 끊었던 진정제까지 먹었다”고도 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>법원 “방통위 MBC ‘신장식의 뉴스하이킥’ 제재 처분 취소해야”</title>
+      <link>https://www.chosun.com/national/court_law/2025/04/10/WREK5SJQWZDHDBIINLRPKN5PL4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/04/10/WREK5SJQWZDHDBIINLRPKN5PL4/</guid>
+      <dc:creator>김나영 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 10 Apr 2025 08:39:10 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PN2FKJA7XJHIVLOA2K6VUFQYEA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 강남대로 193(양재동) 서울가정법원·서울행정법원 청사./전기병 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;작년 총선을 앞두고 방송통신위원회가 MBC 라디오 ‘신장식의 뉴스하이킥’에 내린 법정 제재를 취소하라는 법원 판단이 나왔다.&lt;br&gt;&lt;br&gt;서울행정법원 행정13부(재판장 진현섭)는 10일 MBC가 방송통신위원회를 상대로 낸 “제재조치 처분을 취소해달라”며 낸 소송에서 원고 승소로 판결했다.&lt;br&gt;&lt;br&gt;작년 1월 ‘신장식의 뉴스하이킥’ 방송은 이재명 당시 더불어민주당 대표 피습 사건을 다뤘다. 이 방송에서 한 출연자는 “경찰 수사는 정치적 의미를 축소하는 데 초점을 두고 있는 것 아닌지 의문이다”라며 테러범이 보수 정당 소속일 수 있다는 취지로 발언했다. &lt;br&gt;&lt;br&gt;이어진 방송에서 이들은 고(故) 문익환 목사 추모 사업을 언급하며 윤석열 전 대통령의 대북 정책을 비판하기도 했다. 출연자들은 “지금의 상황은 언제 국지전이 벌어질지도 모르는 상황이 됐다” “백악관에서 윤석열 대통령에 대해 친일 집안 출신이라고 논평했다” 등의 발언을 했다.&lt;br&gt;&lt;br&gt;방통위는 해당 방송이 공정성을 위반했다고 보고 작년 3월 프로그램 관계자에 대한 징계 조치를 내렸다. 해당 제재를 내릴 당시 방통위는 방통위원장과 부위원장만으로 이뤄진 ‘2인 체제’로 구성됐다.&lt;br&gt;&lt;br&gt;MBC는 같은 해 5월 제재 처분을 취소해달라며 행정법원에 소송을 내고 집행정지를 신청했다. 법원은 작년 6월 집행정지 신청을 받아들였다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>희망브리지, 산불피해 복구 성금 387억원 모금… 구호물품 45만점 지원</title>
+      <link>https://www.chosun.com/national/national_general/2025/04/10/RZMUUB7MGBF63J5OUYWMZSWCJU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/10/RZMUUB7MGBF63J5OUYWMZSWCJU/</guid>
+      <dc:creator>김승범 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 10 Apr 2025 08:32:32 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DOPVZ2KV2VHMNJ3JFBBEN2KAPQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;희망브리지 전국재해구호협회 관계자들이 영남 지역 산불 피해자들에게 제공할 구호물품을 나르고 있다. /희망브리지 전국재해구호협회&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;희망브리지 전국재해구호협회는 최근 영남 지역을 중심으로 발생한 대규모 산불 피해 복구를 위해 총 387억여원의 성금을 모금했다고 10일 밝혔다.&lt;br&gt;&lt;br&gt;이는 9일까지 집계된 금액으로 기부 행렬에는 수많은 개인과 기업은 물론 그룹 세븐틴과 방탄소년단(BTS) 멤버 정국, 가수 제니·아이유, 방송인 유재석 등 유명인들도 동참했다.&lt;br&gt;&lt;br&gt;희망브리지는 산불 피해가 발생한 3개 시·도 65개 지역에 응급구호키트와 생활필수품 등 총 45만여 점의 구호물품을 지원했다. 또 현대차그룹 후원으로 제작된 특수 이동형 세탁차량을 투입해 5.9t 분량의 이불·옷가지·수건 등의 세탁을 지원했다. 이와 함께 소방대원과 산불진화대원에게 총 800인분의 식사를 제공했다.&lt;br&gt;&lt;br&gt;희망브리지 송필호 회장은 “이번 산불은 예상보다 피해 범위가 넓고 회복까지 오랜 시간이 걸릴 것으로 보인다”면서 “끝까지 피해 이웃 곁에서 함께하며, 국민 여러분의 따뜻한 마음이 제대로 전달될 수 있도록 지속적인 관심을 기울이겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>부산 ‘유튜버 살인범’ 항소심도 무기징역  </title>
       <link>https://www.chosun.com/national/court_law/2025/04/10/KS7AQ72FRVDG5ECTBGCXK5XJVM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/04/10/KS7AQ72FRVDG5ECTBGCXK5XJVM/</guid>
@@ -820,36 +919,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LJ47OVNWTHRQHLPDFAKYSUDBZU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원 로고./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;병원에서 불법 처방받은 졸피뎀(수면유도제) 수천정을 판매하거나 이를 구매해 상습 복용한 40대 남녀에게 징역형의 집행유예가 선고됐다. 졸피뎀을 처방받도록 가짜 진료기록부를 작성한 피부과 병원 의사 2명은 각각 벌금형을 선고받았다.&lt;br&gt;&lt;br&gt;9일 법조계에 따르면 대전지법 형사5단독 장원지 부장판사는 마약류 관리에 관한 법률 위반(향정) 혐의로 기소된 40대 A씨에게 징역 10개월에 집행유예 2년을, 같은 혐의를 받는 40대 여성 B씨에게는 징역 1년 6개월에 집행유예 3년을 각각 선고했다. 또 두 사람에게 각각 1600만원을 추징하도록 명령했다. &lt;br&gt;&lt;br&gt;A씨는 2019년 9월부터 2023년 10월까지 4년에 걸쳐 졸피뎀 성분의 알약 3984정을 처방받아 B씨에게 판매했고, B씨는 이를 상습적으로 복용한 혐의를 받고 있다. 졸피뎀은 수면제의 일종으로 마약류(향정신성 의약품)에 해당한다.&lt;br&gt;&lt;br&gt;A씨는 대전 유성구의 한 피부과 병원에서 졸피뎀을 반복해 처방받은 것으로 조사됐다. 이 병원 의사 2명이 A씨의 장인, 처남, 배우자 등 가족 이름으로 된 가짜 진료기록부를 87차례나 작성해줬기에 가능했다.&lt;br&gt;&lt;br&gt;의료법을 위반해 재판에 넘겨진 피부과 의사 2명은 각각 벌금 800만원과 300만원을 선고받았다.&lt;br&gt;&lt;br&gt;장 부장판사는 “범행 횟수가 많고 장기간에 걸쳐 반복적으로 이뤄진 점을 고려하면 엄벌이 필요하다”며 “의사로서 진료기록을 허위 작성한 죄책도 절대 가볍지 않다”고 설명했다. 이어 “다만 피고인들이 잘못을 인정하고 반성하는 점 등을 고려했다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>세진重·영남알프스케이블카, 산불 피해 울주군에 1억 성금</title>
-      <link>https://www.chosun.com/national/regional/2025/04/09/N6GZ3ZN57BCSHEZBM34HALZ7QE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/04/09/N6GZ3ZN57BCSHEZBM34HALZ7QE/</guid>
-      <dc:creator>울산=김주영 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 09 Apr 2025 07:59:33 +0000</pubDate>
-      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/74QZ2QBAEVFFPHUNUNS2OBAVXU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;세진중공업과 영남알프스케이블카사(社)는 9일 울주군청에서 (왼쪽부터)윤덕중 부군수, 전영도 울산사회복지공동모금회장, 이순걸 울주군수, 김진종 세진중공업 전무, 이동학 영남알프스케이블카 본부장 등이 참석한 가운데 산불 피해 복구 성금 1억원을 전달했다. /울주군&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;울산 향토기업인 세진중공업과 울주군에 케이블카 설치를 추진 중인 영남알프스케이블카사(社)가 산불 피해 복구를 위해 9일 울주군에 성금 1억원을 전달했다.&lt;br&gt;&lt;br&gt;울주군은 이날 이순걸 군수와 윤덕중 부군수, 김진종 세진중공업 전무, 이동학 영남알프스케이블카 본부장 등이 참석한 가운데 성금 전달식을 가졌다고 밝혔다.&lt;br&gt;&lt;br&gt;성금은 사회복지공동모금회를 통해 산불 피해 지역 긴급 구호와 피해 복구, 이재민 생필품 지원, 주거 안전 확보 등에 사용된다.&lt;br&gt;&lt;br&gt;윤지원 세진중공업 부사장은 “갑작스러운 산불로 큰 피해를 본 지역의 피해 복구와 피해 주민들의 일상 회복에 도움이 되기를 바란다”며 “다양한 피해 복구 지원 활동에도 적극 나서겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;이순걸 군수는 “소중한 성금에 감사드린다”며 “조속한 피해 복구를 위해 최선을 다하겠다”고 말했다.&lt;br&gt;&lt;br&gt;세진중공업 임직원들은 희망나눔 봉사단을 운영하며 지역 사회복지시설과 요양원, 장애인보호작업장에 대한 후원금 기부와 봉사 활동, 사랑의 김장 나누기 사업 등도 하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“인생 난이도 올리는 법”… 도용 면허로 경찰과 추격전 벌인 10대들 </title>
-      <link>https://www.chosun.com/national/national_general/2025/04/09/KMVIEQLZIBCF3GHMKMA4A647AI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/09/KMVIEQLZIBCF3GHMKMA4A647AI/</guid>
-      <dc:creator>박선민 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 09 Apr 2025 07:15:11 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VHB6MQDMCJGNDKWM3DGALOOCMY.png"&gt;&lt;figcaption&gt;&lt;small&gt;10대가 도용 면허증으로 빌린 렌터카로 녹색불이 켜진 횡단보도를 그대로 질주하고 있다. /경찰청 유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;도용한 면허증을 이용해 차를 빌린 뒤 도심에서 경찰과 난폭 운전을 하며 추격전을 벌인 10대들이 체포됐다. &lt;br&gt;&lt;br&gt;9일 대전중부경찰서에 따르면, A(16)군과 B(16)군 등 10대 2명은 지난 1월 30일 오후 9시 15분쯤 대전 동구 대전역 인근 도로에서 렌터카 업체 직원의 추격을 피하는 과정에서 녹색불이 켜진 횡단보도로 그대로 돌진하고, 급하게 차선 변경을 하는 이른바 ‘칼치기’를 일삼는 등 대전 도심 5㎞ 구간을 20분여간 난폭하게 운전한 혐의를 받는다. 이 과정에서 A군은 렌터카에 접근하는 업체 직원을 차로 치고 도주한 것으로도 파악됐다. &lt;br&gt;&lt;br&gt;이들은 신고받고 도착한 경찰과 약 20분간 추격전을 벌이기도 했다. 당시 상황은 경찰청 공식 유튜브 채널에 올라온 ‘미성년자 추격전, 인생 난이도 올리는 법’ 제목의 영상에 고스란히 담겼다. 블랙박스 영상을 보면, 청소년들은 경찰의 정차 명령을 무시한 채 중앙선을 침범하고 역주행하는 등 위험천만한 질주를 이어갔다. 그렇게 약 4개 동을 넘나들며 곡예 운전을 지속하던 이들은 신호 대기 중이던 앞 차량에 막혀 더 이상 도주하지 못하게 됐고, 결국 경찰에 현행범으로 체포됐다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7PEQQVQYGNA6LPWMVKJKTJHBKQ.gif"&gt;&lt;figcaption&gt;&lt;small&gt;도용 면허증으로 빌린 렌터카로 경찰과 추격전을 벌이는 모습. /경찰청 유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;앞서 B군이 도용한 운전면허증으로 렌터카 업체를 통해 승용차를 빌려 운전하다, 중간에 A군과 운전자 위치를 바꾼 것으로 조사됐다. 대여 당시 면허증 사진과 얼굴이 달라 도용한 사실을 알아차린 렌터카 업체 직원이 저지하려고 했으나, B군은 차를 몰고 달아났다고 한다. 같은 차에 다른 10대 2명도 타고 있었는데, 이들은 무면허 운전 등을 방조한 혐의를 받는다. &lt;br&gt;&lt;br&gt;다만 경찰에 검거될 당시 10대들은 ‘내렸으면 된 거 아니냐’는 등 적반하장식 태도를 보였다고 한다. 대전동부경찰서 차영은 경위는 TV조선에 “하차했을 때 ‘죄송하다’ 이런 얘기가 아니라 ‘알겠어요. 내렸으면 됐잖아요.’ 이런 식으로 (말했다)”고 했다. 이들은 경찰 조사에서는 “운전해보고 싶어서 차를 빌리게 됐다”고 진술한 것으로 알려졌다. &lt;br&gt;&lt;br&gt;경찰 관계자는 “피의자 일부는 학교 밖 청소년들”이라며 “동승자들에 대해서는 여죄 여부 등을 추가로 조사해 송치할 계획”이라고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/7PEQQVQYGNA6LPWMVKJKTJHBKQ.gif?width=609&amp;height=320&amp;auth=20d831915ea48f413e4987e129ff52d5fbab87dfc614e7a560b63105bc6f2c00&amp;smart=true" type="image/jpeg" height="320" width="609">
-        <media:description type="plain">도용 면허증으로 빌린 렌터카로 경찰과 추격전을 벌이는 모습. /경찰청 유튜브</media:description>
-      </media:content>
-    </item>
-    <item>
-      <title>‘무시했다고 오해’ 마트 계산원 27차례 찌른 20대…항소심도 징역 7년</title>
-      <link>https://www.chosun.com/national/national_general/2025/04/09/FQ53ZDTVEZC3ZHD7EM4X5D76TU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/09/FQ53ZDTVEZC3ZHD7EM4X5D76TU/</guid>
-      <dc:creator>김명일 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 09 Apr 2025 07:38:34 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VDZIEJTKE63QO375J37JOA3HAQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원 관련 이미지. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;강원도의 한 마트에서 무시를 당했다고 오해해 50대 여성 계산원을 흉기로 27차례 찔러 살해하려 한 20대 남성이 항소심에서도 중형을 선고받았다.&lt;br&gt;&lt;br&gt;9일 서울고법 춘천재판부 형사1부(이은혜 부장판사)는 살인미수 혐의로 기소된 A(29)씨에게 원심과 마찬가지로 징역 7년을 선고하고 5년간 보호관찰과 함께 치료감호를 명령했다.&lt;br&gt;&lt;br&gt;A씨는 지난해 5월 26일 오후 1시 44분쯤 강원 횡성군 한 마트 계산대 앞에서 계산원인 50대 여성 B씨의 머리와 얼굴, 목 등을 흉기로 27차례 찔러 살해하려 한 혐의로 재판을 받아왔다.&lt;br&gt;&lt;br&gt;조사 결과 A씨는 사건 당일 낮 12시 57분쯤 오전 담당 계산원이 자신을 향해 ‘미친’이라고 말했다고 착각해 화가 나 복수할 생각으로 집에 있던 흉기를 가지고 재차 마트를 찾았다.&lt;br&gt;&lt;br&gt;마트를 찾은 A씨는 교대 근무 중이던 B씨에게 “오전 근무자는 어디에 있느냐”고 물었다. 이에 B씨가 “식사하러 갔다”고 말했음에도 A씨는 “모른다”고 대답한 것으로 오해해 범행을 저질렀다. &lt;br&gt;&lt;br&gt;B씨는 사건 직후 병원으로 이송돼 목숨은 건졌으나 외상 후 스트레스 장애를 안게 됐다.&lt;br&gt;&lt;br&gt;항소심 재판부는 “죄질이 매우 좋지 않고, 피해자로부터 용서받지도 못했으며, 피해 회복을 위한 별다른 노력도 기울이지 않았다”며 원심 형량을 유지했다.&lt;br&gt;&lt;br&gt;다만 재판부는 A씨가 정신질환으로 인해 심신이 미약한 상태에서 범행했다고 보이는 점과 초범인 점, 재범 위험성 등을 고려해 검찰의 치료감호 청구를 받아들였다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>국토부, 서울·부산 20분 이동 ‘하이퍼튜브’ 개발 본격화</title>
       <link>https://www.chosun.com/national/transport-environment/2025/04/09/7IWF7Y3W4ZATZPPA7JSD7KFNEM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/04/09/7IWF7Y3W4ZATZPPA7JSD7KFNEM/</guid>
@@ -857,60 +926,6 @@
       <description/>
       <pubDate>Wed, 09 Apr 2025 07:18:31 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YM3P7FTUEK36AMGH45VMUGNUBY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;하이퍼튜브 시스템 개념도/국토교통부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국토교통부가 ‘철로 위 비행기’라 불리는 차세대 초고속 교통수단 ‘하이퍼 튜브’의 핵심 기술 개발에 착수한다고 9일 밝혔다. 하이퍼튜브는 진공에 가까운 아진공(기압 0.001~0.01) 상태의 튜브에 자기 부상 기술로 열차를 띄워 이동시키는 교통 시스템이다. 속도가 시속 1200㎞로 비행기보다 빨라 서울~부산 이동이 20분 만에 가능해진다.&lt;br&gt;&lt;br&gt;하이퍼튜브 상용화를 위해서는 차량이 고속 주행하는 데 필요한 자기 부상 기술뿐 아니라 아진공 상태의 튜브 설계, 차량 설계 기술 등이 필요하다. 국토부는 올해 36억8000만원 등 2027년까지 127억원을 투자한다는 계획이다. 그동안은 한국철도기술연구원 중심으로 연구를 진행해 왔는데, 지난 2020년 실제 모형을 17분의 1로 줄인 모형 시험에서 1019㎞/h의 속도를 내는 데 성공한 적이 있다.&lt;br&gt;&lt;br&gt;그러나 사업성에 의문을 제기하는 시각도 많다. 실제 정부는 이전에도 전북 새만금 지역에 하이퍼튜브 시험장 등 종합시험센터를 짓겠다며 1조1000억원 규모 사업을 추진했지만 예비타당성조사 문턱을 넘지 못했다. 과학기술정책연구원은 당시 “사업 타당성이 부족하다”고 판단했다. 긴 거리를 진공에 가까운 상태를 유지하는 게 기술적으로 어려운 데다, 사고 발생 시 안전 문제도 해결되지 않았다는 것이다. 최초의 유인 주행 테스트에 성공했던 영국 회사 버진 하이퍼루프 원 역시 이 같은 문제를 해결하지 못해 2023년 운영을 중단했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“아파트 입구는 얼굴, 화물차는 뒤에 대라”…입주민 손편지에 와글와글</title>
-      <link>https://www.chosun.com/national/national_general/2025/04/09/6VIVUJ32QNEJ3IBC5ZAA3QMCPQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/09/6VIVUJ32QNEJ3IBC5ZAA3QMCPQ/</guid>
-      <dc:creator>정아임 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 09 Apr 2025 06:56:49 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OSJPLR7CSZH2VBZPIIHVVBQH7Q.png"&gt;&lt;figcaption&gt;&lt;small&gt;지방의 한 아파트 입주민이 화물차 유리창에 주차 관련 손편지를 남겼다./보배드림&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지방의 한 아파트 입주민이 아파트 주차장에 주차된 화물차 차주에게 쓴 손 편지를 두고 온라인에서 갑론을박이 벌어졌다. &lt;br&gt;&lt;br&gt;지난 8일 한 온라인 커뮤니티에는 ‘몰상식한 어느 아파트’라는 제목의 글과 함께 손 편지 사진이 함께 올라왔다. &lt;br&gt;&lt;br&gt;손 편지에는 “존경하는 화물차 차주님, 아파트 입구 쪽은 우리 아파트의 얼굴이며, 우리가 사는 집입니다. 차를 주차할 때 뒤편 주차장에 주차해 주시면 감사하겠습니다”라며 “차량 소유자 회사나 공장, 물류창고에 주차해 놓고 오시면 더욱더 감사하겠다”라고 적혀 있었다. &lt;br&gt;&lt;br&gt;작성자 A씨는 “나는 차주가 아니고 그냥 지나가다 봤는데, 탑차가 가장 가쪽에 예쁘게 주차돼 있었는데도 저런 쪽지가 붙어 있는 걸 보고 어처구니가 없었다”고 했다. A씨에 따르면, 30년 가까이 된 이 아파트는 29~32평대로 구성된 소규모 단지다.&lt;br&gt;&lt;br&gt;A씨는 화물차가 깔끔하게 주차된 사진과 함께 해당 아파트의 실제 위치도 공개했다. A씨는 “문제가 된 화물차 외에도 약 3대 정도의 화물차에 같은 쪽지가 붙어 있었고, 이들 차량 모두 아파트에 정식 주차 등록된 차량이며 주차도 정상적으로 돼 있었다”고 했다. &lt;br&gt;&lt;br&gt;이 게시물을 여러 온라인 커뮤니티에 확산했다. 네티즌들은 “주차 공간에 정상적으로 주차된 차량에 쪽지를 붙이는 건 오히려 갑질이다” “자기만 고상하다는 듯한 태도가 더 민폐” 등의 댓글을 달았다. 반면 “화물차는 별도 주차장에 세워야 하는 게 맞다” “큰 차는 통행에 방해된다” 등의 반응도 있었다.&lt;br&gt;&lt;br&gt;아파트 단지에 화물차를 주차할 때는 아파트 주차장 규정을 확인해야 한다. 아파트 관리 규정은 아파트마다 다르지만, 대다수 아파트에서는 관리규약 및 주차장 관리 규정에 따라 16승 이상 승합차, 2.5t 이상의 화물차량의 단지 내 주차를 금지하고 있다. 다만 입주민들의 동의를 거쳐 주차 제한 화물 차량의 규모를 결정하는 등 합의를 통해 주차 등록을 하면 주차가 가능하다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>뇌물수수 혐의로 입건된 서거석 전북교육감…“악의적인 흑색선전”</title>
-      <link>https://www.chosun.com/national/incident/2025/04/09/PGZHHRNUYVAZ5GSH4HXWDCGSJM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/04/09/PGZHHRNUYVAZ5GSH4HXWDCGSJM/</guid>
-      <dc:creator>전주=김정엽 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 09 Apr 2025 07:15:44 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CBKBUT754KYGJY62SIRDR22WSQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서거석 전북도교육감이 지난 1월 21일 전주지방법원에서 지방자치 교육에 관한 법률 위반 혐의 항소심을 마치고 나와 취재진의 질의에 답변을 하고 있다./뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서거석 전북도교육감이 장학사 승진과 관련해 뇌물을 받은 혐의로 경찰 수사를 받고 있다. 서 교육감은 “악의적인 흑색선전에 엄정히 대처할 것”이라며 혐의를 부인했다. &lt;br&gt;&lt;br&gt;전북경찰청은 뇌물수수 혐의로 서거석 교육감을 입건해 수사하고 있다고 9일 밝혔다. 경찰은 서 교육감이 지난 2022년 4~5월쯤 A씨로부터 1200만원 상당의 금품을 수수한 것으로 보고 있다. &lt;br&gt;&lt;br&gt;당시 A씨는 금품을 건네며 자녀의 장학사 승진을 청탁한 것으로 알려졌다. 하지만 A씨의 자녀는 장학사로 승진하지 못했다고 한다. 경찰 관계자는 “서 교육감을 최근 뇌물수수 혐의로 입건했고, 현재 수사 초기여서 구체적인 내용은 확인해 줄 수 없다”고 말했다.&lt;br&gt;&lt;br&gt;경찰 수사가 시작되자 서거석 교육감은 입장문을 통해 “당시 그 어느 누구로부터 일체의 뇌물을 받은 사실이 없다”며 “내년 교육감 선거를 앞두고 악의적인 흑색선전이며 맞고소를 하겠다”고 밝혔다. &lt;br&gt;&lt;br&gt;그는 “이번 사건과 관련해 경찰에 신속한 수사를 강력히 촉구한다”며 “경찰 수사에서 진실은 밝혀질 것이며 앞으로도 선거를 앞두고 이 같은 악의적인 명예훼손에 대해서는 엄정 대처하겠다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문은 선생님] [숨어있는 세계사] 수십 년간 이어진 물 분쟁… 강물 두고 상·하류 국가 간 싸웠죠</title>
-      <link>https://www.chosun.com/national/nie/2025/04/02/4ZKDB7CYJJDKPNCL5ZM7XSUUZI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2025/04/02/4ZKDB7CYJJDKPNCL5ZM7XSUUZI/</guid>
-      <dc:creator>서민영 계남고 역사 교사, 기획·구성=윤상진 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 01 Apr 2025 16:49:43 +0000</pubDate>
-      <content:encoded>지난달 22일은 ‘세계 물의 날’이었어요. 인류의 무분별한 자연 개발로 인해 환경이 파괴되고 주변 강이나 바다가 오염돼 먹을 수 있는 물이 점차 줄어들고 있는데요. 이에 ‘유엔(UN)’은 물 부족 문제의 심각성을 일깨우기 위한 취지로 이 같은 날을 제정했답니다.&lt;br&gt;&lt;br&gt;오늘날 우리는 물을 당연한 것으로 여기며 사용하고 있지만, 과거부터 많은 국가들은 물을 차지하기 위해 치열한 전쟁을 벌여왔답니다. ‘경쟁자’를 의미하는 영어 단어 ‘라이벌(rival)’은 ‘강’을 뜻하는 라틴어 ‘리부스(rivus)’에서 유래했지요. 하나의 하천이 여러 나라를 거쳐 흐르는 지역에선 물을 두고 갈등이 존재했고 일부는 지금도 지속되고 있습니다. 오늘은 물을 두고 벌어진 역사적 갈등을 알아보겠습니다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RHJOMUV2FFHDZP4H4B2DA53IE4.png"&gt;&lt;figcaption&gt;&lt;small&gt;물 분쟁이 일어난 주요 지역을 표시한 지도. /그래픽=이진영&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;건조한 중동 지역에서 분쟁 많죠&lt;/b&gt;&lt;br&gt;&lt;br&gt;세계에서 물 분쟁이 가장 심각한 곳 중 하나는 건조한 기후를 갖고 있는 중동 지역입니다. 특히 이스라엘, 시리아, 요르단 등이 접해 있는 ‘요르단강’에서 큰 분쟁이 벌어졌지요. 물 부족 문제를 둘러싼 갈등에 국가들의 정치 대립까지 더해졌거든요.&lt;br&gt;&lt;br&gt;이스라엘을 세운 유대인들과 아랍인들은 이스라엘 건국(1948년) 전부터 종교적·정치적으로 대립해 왔어요. 이스라엘을 인정하지 않은 아랍 국가들과의 충돌로 시작된 전쟁이 네 차례에 걸쳐 발발한 ‘중동 전쟁’이에요. 그중에서도 1967년 발생한 ‘제3차 중동 전쟁’은 요르단강을 둘러싼 갈등이 전쟁의 주요 원인 중 하나였죠.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3QCLJ72K7NGOJPAFL3XAYFOVEA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;1967년 제3차 중동전쟁에서 이스라엘 군인들이 가자지구에 진입하고 있어요. 요르단강을 둘러싼 갈등이 전쟁 원인 중 하나였습니다. /브리태니커·위키피디아&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;요르단강은 시리아와 레바논의 국경 지대에서 발원해 이스라엘 서쪽의 사해(死海)로 흘러 들어가는 강이에요. 이스라엘이 건국될 당시만 하더라도 요르단강 유역의 주민들은 요르단강에서 안정적으로 물을 얻을 수 있었죠. &lt;br&gt;&lt;br&gt;그러나 1950년대에 접어들면서 이스라엘이 건조한 땅들을 경작 가능한 농지로 바꾸기 시작하면서 요르단강에서 많은 양의 물을 끌어왔고, 이것이 물 부족 문제를 초래했습니다. 이스라엘은 점차 더 많은 양의 물을 사용했는데요. 이에 대응해 시리아는 1960년대에 요르단강 상류의 흐름을 바꿔 이스라엘로 흘러가는 물을 줄이려는 프로젝트를 벌입니다. 나아가 시리아는 팔레스타인의 반(反)이스라엘 무장 단체들을 지원하고, 이집트와 군사동맹을 맺으며 반이스라엘 노선을 더욱 강화했어요. &lt;br&gt;&lt;br&gt;정치·군사적 대립이 이어지던 이스라엘과 아랍 국가들 관계에서 요르단강 문제는 갈등에 기름을 부은 것과 마찬가지였어요. 이스라엘도 가만있지 않았습니다. 이스라엘의 이집트 선제공격으로 시작된 전쟁은 단 6일 만에 이스라엘의 승리로 끝나게 됩니다. 전쟁 후 이스라엘은 요르단강의 발원지와 맞닿아 있는 골란고원을 점령하며 더 많은 물을 사용할 수 있게 됐죠. 하지만 요르단강 서안에 거주하는 팔레스타인 사람들은 사용할 수 있는 물이 크게 줄어들었습니다. 정치 갈등으로 인한 팔레스타인 사람들의 고통은 현재 진행형이죠. &lt;br&gt;&lt;br&gt;&lt;b&gt;상·하류 국가 간 분쟁으로 이어져&lt;/b&gt;&lt;br&gt;&lt;br&gt;중동 지역을 흐르는 유프라테스·티그리스강을 두고서도 오랜 기간 갈등이 이어져 왔습니다. 두 강은 모두 튀르키예 지역에서 발원해 시리아와 이라크를 거친 뒤 페르시아만으로 흐르죠. 이 3국 사이엔 두 강을 두고 수십 년 동안 갈등이 이어지고 있어요.&lt;br&gt;&lt;br&gt;갈등은 1970년대 중반에 본격화됐어요. 시리아가 유프라테스강 인근 저수지에 물을 채우기 위해 댐을 닫은 거예요. 이로 인해 유프라테스강 하류 이라크로 흘러가는 유량이 급감했고, 이라크는 심각한 물 부족 사태를 겪었습니다. 이라크는 시리아에 댐 문을 열라고 했지만, 시리아가 이를 거부하자 국경 지대에 군대를 배치하며 군사적 압박을 하기에 이릅니다. 다른 아랍 국가들이 중재에 나서 시리아가 일정 수준 이상 물을 흘려보내기로 합의한 뒤에야 전쟁의 불씨가 꺼질 수 있었죠.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VDGRXCQV3VGR7J7YU3TJQCNLDU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;1990년 완공한 튀르키예의 아타튀르크댐. 이 댐을 포함해 튀르키예가 유프라테스강 상류에 지은 여러 댐 때문에 하류 지역인 시리아와 이라크는 사용할 수 있는 물의 양이 크게 줄어들었어요. /브리태니커·위키피디아&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;1980년대에는 튀르키예가 시리아와 비슷한 방식으로 수자원을 통제하기 시작했어요. 여러 개의 댐을 짓고, 저수지를 채우기 위해 유프라테스강의 흐름을 일정 기간 차단한 거예요. 이 때문에 하류 지역의 시리아와 이라크는 생활용수와 농업용수 공급에 큰 타격을 받게 됐어요.&lt;br&gt;&lt;br&gt;시리아는 튀르키예에 불만을 품고 쿠르드족 반란 세력과 비밀 협약을 맺어 원조를 제공했어요. 쿠르드족은 튀르키예에서 차별받아 온 소수 민족인데, 일부 쿠르드족은 독립을 요구하며 튀르키예 정부와 갈등 관계에 있었거든요. 이라크 대통령이었던 사담 후세인도 튀르키예의 정책을 두고 복수를 하겠다며 위협하기도 했어요. &lt;br&gt;&lt;br&gt;국제사회의 중재와 외교 협상이 맺어지며 전쟁은 일어나지 않았지만, 3국의 갈등은 지금까지도 여전히 지속되고 있어요.&lt;br&gt;&lt;br&gt;&lt;b&gt;오늘날에도 물 분쟁 계속돼&lt;/b&gt;&lt;br&gt;&lt;br&gt;인도도 물을 놓고 방글라데시와 갈등을 겪어 왔어요. 인도는 인구가 급격하게 증가한 데다 주변에 강은 많지만 환경 오염 때문에 이용할 수 있는 물이 많지 않아 물이 부족하답니다.&lt;br&gt;&lt;br&gt;인도인들이 성스럽게 여기는 갠지스강은 인도 북동부를 지나 벵골만 하류에 있는 방글라데시로 흘러가요. 그런데 비가 거의 오지 않는 건기에는 갠지스강을 이용하기 어려워요. 따라서 인도는 1970년대 방글라데시 국경 근처에 댐을 건설해 건기엔 강물을 가두었고 우기엔 댐을 열어 물을 방류했어요. 이 때문에 방글라데시의 가뭄과 홍수가 심해졌습니다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4MTKOE3ILNCMDJN73CRHSFMQ5M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;인도 바라나시 지역에서 촬영한 갠지스강. 갠지스강은 많은 사람에게 생활 용수를 공급하지요. /브리태니커·위키피디아&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;방글라데시의 항의가 이어져 양국은 1977년 갠지스강 이용에 관한 협정을 맺었어요. 건기에도 충분한 물이 방글라데시로 흐르도록 보장하는 내용이었지만, 아직도 방글라데시 주민들은 수량이 부족하다고 말하고 있어 완전히 분쟁이 끝나지는 않은 상태죠. &lt;br&gt;&lt;br&gt;오늘날에도 세계 곳곳에선 물을 둘러싼 분쟁의 씨앗이 자라고 있습니다. 최근 중국은 히말라야산맥과 티베트고원에서 흘러나오는 물줄기를 사용하기 위해 댐 건설을 추진하고 있는데, 하류에 있는 동남아 국가들은 댐 때문에 물이 부족해질까 봐 경계하고 있습니다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“새 시대의 박정희 되겠다”...이철우 경북지사 대선 출마 선언</title>
-      <link>https://www.chosun.com/politics/politics_general/2025/04/09/JSE5WB5KGRERHDVOKM6MHVEYMQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/politics/politics_general/2025/04/09/JSE5WB5KGRERHDVOKM6MHVEYMQ/</guid>
-      <dc:creator>이승규 기자, 이해인 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 09 Apr 2025 05:54:15 +0000</pubDate>
-      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/N2T4EHIBBNEZZJTM6JS4BTOTQA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이철우 경북도지사가 9일 오후 서울 여의도 국회 소통관에서 열린 기자회견에서 제21대 대통령선거 출마선언을 하고 있다. /남강호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이철우 경북지사가 9일 경북 구미의 박정희 대통령 생가에서 제21대 대통령 선거 출마 선언을 했다. 이 지사는 “새로운 시대의 박정희가 되어 대한민국을 초일류 국가로 만들겠다”고 했다. 이어진 서울 여의도 국회 기자회견에는 국민의힘 이인선, 정희용, 임종득, 인요한, 이달희 의원 등이 찾았다.&lt;br&gt;&lt;br&gt;이 지사는 이날 대선 출마 기자회견에서 “경제성장률은 제로에 가깝고 갈등은 치유할 수 없을 만큼 깊어져 점차 무너져가는 대한민국을 이대로 볼 수 없어 분연히 출마했다”며 “새마을, 고속도로, 제철, 과학기술, 원자력, 산림 녹화 등 정책과 혁신으로 나라를 발전시킨 박정희 정신이 필요하며, 내가 새로운 시대의 박정희가 되겠다”고 했다.&lt;br&gt;&lt;br&gt;이 지사는 “좌파 정치는 그동안 광우병 시위, 사드 전자파 등 국민을 속이고 선동하며 대통령을 탄핵했고 탈원전, 부동산 폭등으로 국가 경제를 발목잡았으며, 남녀 갈등, 양극화 확대로 국민을 분열시켰다”며 “그렇게 누적된 모순이 아니었다면 훨씬 더 발전했을 우리나라가 성장이 정체돼 청년은 생존 위기에 몰리고 출산율도 급락했다”고 했다.&lt;br&gt;&lt;br&gt;이 지사는 또 “대통령이 되면 분권형 헌법 개정을 통해 협치의 제7공화국을 열겠다”며 “87 헌법 체제를 끝내고 권력을 분산해 합의제 정치로 바꾸고, 중앙과 지방도 분권해 나라 곳곳에서 혁신과 성장이 일어나도록 하겠다”고 했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CDGZK6COSYH6BSWOTZ2GS42K3Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이철우 경북도지사가 9일 구미 박정희 전 대통령 생가에서 대선 출마 기자회견을 하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이 지사는 미래 먹거리와 저출생 극복에 대해서도 언급했다. 그는 “AI, 반도체, 로봇, 양자 컴퓨팅 등 국가 전략 기술 분야에 500조원을 투자해 기술 경쟁력을 높이고, 저출생과 전쟁 운동을 범국민적으로 전개하겠다”며 “결혼, 출산을 힘들게 하는 모든 문화를 바꾸고 가족이 행복할 수 있는 나라를 만들겠다”고 했다. 이 지사는 또 “원전, 과학기술연구소, 국방과학연구소 등을 조성하고 한·미·일 3국의 안보 협력을 강화하겠다”며 “경제개발 5개년 계획과 산림녹화사업 정신을 계승해 경제와 환경을 체계적으로 관리해나가겠다”고 했다.&lt;br&gt;&lt;br&gt;이 지사는 이날 오후에는 서울 여의도 국회에서 권영세 비대위원장과 만나 당 지도부를 향해 역선택 방지 조항 적용과 함께 ‘감동을 주는 경선’을 만들어달라고 요청했다. 역선택 방지 조항은 국민여론조사 때 다른 당을 지지한다고 답하는 경우 여론조사에서 제하는 것이다. 그는 “우리 당 경선 룰이 상대가 좋아할 후보를 뽑는 방식이 돼선 안 된다”며 보수 진영 결집을 강조했다.&lt;br&gt;&lt;br&gt;이어 기자들과 만나 경선 방식에 대해 “(당심) 100%로 하면 좋겠지만, 과거 관례가 있으니 당 비율을 높이고 국민 비율을 낮춰 7 대 3 정도로 하는 게 좋겠다”며 “(대선 후보로) 나온 사람들은 적어도 토론 한두 번은 할 수 있는 기회를 줘야 한다”고 답했다. &lt;br&gt;&lt;br&gt;경북 김천 출신인 이 지사는 상주시·의성군 등에서 교편을 잡다 2001~2005년 국가정보원 국장을 역임했다. 이후 경북도 정무부지사를 거쳐 2008년과 2012년, 2016년에는 고향인 김천시에서 3선 국회의원으로 선출됐다. 국민의힘의 전신인 새누리당 원내대변인, 자유한국당 최고위원 등을 맡았고, 2018년 제32대 경북도지사로 당선됐으며, 2022년 재선에 성공했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘백현동 뇌물 수수’ 전준경 민주연구원 전 부원장 1심서 징역 2년 6개월</title>
-      <link>https://www.chosun.com/national/court_law/2025/04/09/VTIAUIOVLBEIZJFEAFGAJEM2NI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/04/09/VTIAUIOVLBEIZJFEAFGAJEM2NI/</guid>
-      <dc:creator>김나영 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 09 Apr 2025 05:36:20 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PI7T6VG5HJJ55F7ABOSXCZEO7Q.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;작년 3월 백현동 개발업자 등으로부터 수억 원을 받은 혐의를 받고 있는 전준경 민주연구원 전 부원장이 서울 서초구 서울중앙지법에서 열리는 구속 전 피의자 심문(영장실질심사)에 출석하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;백현동 부동산 개발업자 등으로부터 8억원대 금품을 받은 혐의로 기소된 전준경(60) 전 민주연구원 부원장이 1심에서 실형을 선고받고 법정 구속됐다.&lt;br&gt;&lt;br&gt;서울중앙지법 형사27부(재판장 우인성)는 9일 특정범죄가중처벌법상 알선수재와 뇌물수수 혐의로 기소된 전씨에 대해 “공소사실을 전부 유죄로 인정한다”며 징역 2년 6개월형을 내렸다. 재판부는 전씨에게 벌금 5200만원과 추징금 약 8억원도 명령했다.&lt;br&gt;&lt;br&gt;전씨는 국민권익위원회 비상임위원, 용인시정연구원 원장 등으로 재직했던 2015년 7월부터 2023년 말까지 정바울씨가 회장으로 있는 아시아디벨로퍼 등 부동산 개발업체 7곳으로부터 국민권익위 민원 해결과 지자체 인허가 청탁 알선 명목으로 7억8208만원과 고급 승용차를 제공받은 혐의로 작년 4월 재판에 넘겨졌다. 전씨는 2017년 경기 안산시 신길온천 개발 사업 업체로부터 권익위 고충민원 관련 활동의 대가로 2600만원을 챙긴 혐의도 받았다.&lt;br&gt;&lt;br&gt;재판부는 “업체들로부터 금품을 받은 건 인정하지만 권익위 직무 관련 대가성은 없었으며 정당한 고문료였다”라는 전씨 측 주장에 대해 “알선행위가 과거의 것이나 정당한 직무행위를 대상으로 하는 경우에도 알선수재죄는 성립한다”며 받아들이지 않았다. 뇌물수수 혐의에 대해서도 “공무원의 직무와 금품의 수수·요구·약속이 전체적으로 대가관계가 있으면 뇌물죄가 성립한다”고 봤다.&lt;br&gt;&lt;br&gt;전씨는 2015~2018년 권익위 비상임위원, 2020년 용인시정연구원장을 거쳐 2021년 민주당 싱크탱크인 민주연구원 부원장을 지냈다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>창원지법, 정치자금법 위반 혐의 명태균 보석 결정</title>
-      <link>https://www.chosun.com/national/2025/04/09/OISRQV227VGP5KABD6DAOTLDF4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2025/04/09/OISRQV227VGP5KABD6DAOTLDF4/</guid>
-      <dc:creator>창원=김준호 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 09 Apr 2025 05:23:20 +0000</pubDate>
-      <content:encoded>공천 대가 혐의로 구속 기소 된 정치 브로커 명태균씨의 보석이 허가됐다. &lt;br&gt;&lt;br&gt;창원지법 형사4부(재판장 김인택)는 9일 정치자금법 위반 혐의로 구속기소 된 명씨와 김영선 전 의원 측의 보석 신청을 받아들였다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3BPF6PWAEIOSLF74NXZ272XRBY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;명태균(왼쪽)씨와 김영선 전 국민의힘 의원. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;법원은 보석 조건으로 명씨 등에 대해 주거지 제한과 보증금 5000만원 납입, 거주지 변경 시 허가 의무, 법원 소환 시 출석 의무, 증거인멸 금지 의무 등을 내걸었다.&lt;br&gt;&lt;br&gt;재판부는 “재판 진행 경과 등에 비춰 볼 때 구속기간 만료 내 공판 종결이 어려울 것으로 보이는 점, 피고인의 방어권 보장 측면 등을 고려해 조건부로 보석을 허가했다”고 설명했다. &lt;br&gt;&lt;br&gt;두 사람은 지난해 11월 15일 구속된 지 약 5개월 만에 풀려나게 됐다. &lt;br&gt;&lt;br&gt;명씨와 김 전 의원은 지난 2022년 8월부터 2023년 11월까지 김 전 의원을 경남 창원 의창 지역구 국회의원 선거 후보자로 추천하는 일과 관련해 김 전 의원 회계책임자였던 강혜경씨를 통해 8070만원을 주고받은 혐의로 기소됐다.&lt;br&gt;&lt;br&gt;또 김태열 전 미래한국연구소장과 함께 2022년 6·1지방선거를 앞두고 당시 경북 고령군수와 대구시의원 예비후보로 출마한 A, B씨에게서 당시 지방선거 공천 추천과 관련해 2억4000만원을 받은 혐의도 받는다.&lt;br&gt;&lt;br&gt;앞서 명씨 측은 지난해 12월에도 보석 신청을 했으나 법원은 받아들이지 않았다.&lt;br&gt;&lt;br&gt;현재 법원에 기소된 정치자금법 사건 외에도 명씨에 대한 수사는 중앙지검에서 이어가고 있다.&lt;br&gt;&lt;br&gt;중앙지검이 수사할 핵심 의혹은 크게 세 가지다. 명시가 윤 전 대통령 부부를 통해 국민의힘 공천에 개입했는지 여부, 명씨가 각종 여론조사를 조작해 유력 정치인 등에게 제공하며 선거에 관여했는지 여부, 오세훈 서울시장의 측근에게 돈을 받고 여론조사를 해줬는지 등이다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>‘청와대 습격’ 北 무장공비 출신 김신조 목사 별세</title>
@@ -923,15 +938,6 @@
       <media:content url="https://www.chosun.com/resizer/v2/MUQU3OGUUVB23GHN3S2T2GZED4.jpg?width=2810&amp;height=1871&amp;auth=7429ee7e69d393688be9c54c4cb99d5cc5dfed5478c4b2b7f4f190c11de9d522&amp;smart=true" type="image/jpeg" height="1871" width="2810">
         <media:description type="plain">1968년 1월 21일 북한의 청와대 습격사건의 생존자인 김신조 목사가 2013년 1월 11일 경기도 남양주에서 당시 상황을 설명하고 있다./조선일보DB</media:description>
       </media:content>
-    </item>
-    <item>
-      <title>딸 40년 성폭행에 손녀까지… 70대 남성에 판사도 “개탄스럽다”</title>
-      <link>https://www.chosun.com/national/national_general/2025/04/09/OCSX4P7JSVC33FKT7DYVAWPRXY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/09/OCSX4P7JSVC33FKT7DYVAWPRXY/</guid>
-      <dc:creator>박선민 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 09 Apr 2025 05:18:49 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2XGEBA7463VL7Z3B224ZHBQ4LA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대전지법 천안지원. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;40년간 친딸을 성폭행하고 손녀까지 성폭행한 70대 남성에게 중형이 선고됐다.&lt;br&gt;&lt;br&gt;8일 법조계와 뉴스1 등에 따르면, 대전지법 천안지원 제1형사부(재판장 전경호)는 전날 성폭력범죄의처벌등에관한특례법위반(친족관계에의한강간) 등 혐의로 구속기소된 70대 A씨에게 징역 25년을 선고했다. &lt;br&gt;&lt;br&gt;A씨는 1985년부터 최근까지 자신의 딸 B씨를 277회 성폭행하고, B씨를 임신시켜 낳은 손녀이자 딸인 C양에게도 지속적으로 성폭력을 행사한 혐의로 재판에 넘겨졌다. 특히 A씨는 C양이 10살도 되기 전 범행한 것으로 조사됐다. &lt;br&gt;&lt;br&gt;B씨는 성인이 되는 과정에서 여러 차례 탈출을 시도했으나 벗어날 수 없었고, 지속된 성폭행에 4번의 임신과 중절을 반복한 것으로 파악됐다. 하지만 딸 C양마저 자신과 같은 피해를 겪고 있다는 사실을 알고 이를 대물림할 수 없다는 판단에 비로소 A씨를 신고했고, 검찰은 그를 성폭력 범죄의 처벌 등에 관한 특례법 위반 등의 혐의로 구속 기소했다. &lt;br&gt;&lt;br&gt;A씨는 자신의 범행을 부인했으나, 재판부는 DNA 분석 결과와 피해자 진술의 일관성 등을 근거로 범죄 사실을 유죄로 판단했다. 재판부는 B씨가 장기간 피해 사실을 밝히지 못한 점에 대해서는 ‘순응하는 것만이 자신을 지키는 방법이라고 생각했다’는 진술을 받아들였다. &lt;br&gt;&lt;br&gt;결국 재판부는 A씨에게 형 기준이 정한 권고형 10년~21년 4개월보다 높은 징역 25년형을 선고했다. 재판부는 “보호받아야 할 가정에서 피해를 입은 피해자들은 여성으로서 평범하고 행복한 인생을 누릴 기회를 박탈당했다”며 “모녀가 서로 겪은 고통을 바라보면서 살아갈 수밖에 없는 것이 더 비극적으로 보인다”고 했다. 아울러 “그럼에도 불구하고 피고인은 범행을 완강히 부인하며 모든 책임을 피해자에게 돌리고 있다”며 “양심의 가책을 조금이라도 느끼는지 도무지 알 수 없다. 중형이 마땅하다”고 했다. &lt;br&gt;&lt;br&gt;이번 판결 과정에서 전경호 부장판사는 “우리 사회에서 일어날 수 있는 일인지 개탄스럽다”고 지적하기도 했다. 그는 “개인의 자유와 인권 보장을 지향해 온 우리 사회에서 상상조차 하기 힘든 범죄”라며 “인간의 본성에 대한 깊은 회의를 불러일으켜 사회적으로도 큰 충격을 줄 수 있다”고 했다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>등굣길 초등생 2명 차량으로 유인… 20대 외국인 긴급체포</title>
@@ -959,15 +965,6 @@
       <description/>
       <pubDate>Wed, 09 Apr 2025 04:09:10 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MP6PXDJNAVGJVEDS2B6TTP5R6A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서대문구의 한 골목에 종량제 쓰레기봉투들이 버려져 있는 모습. /고운호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;종량제 봉투에 닭발이나 토마토꼭지 등 일반 쓰레기가 일부 섞여 있는 사유로 과태료 처분을 받았다는 주장이 잇따라 제기됐다. 일각에서는 포상금을 노린 ‘파파라치’ 단속반이 등장했다는 주장도 나왔으나, 이는 사실과 다른 것으로 확인됐다. &lt;br&gt;&lt;br&gt;9일 온라인 커뮤니티에는 ‘요즘 난리 난 종량제 봉투 파파라치 상황’이라는 제목으로 한 네티즌이 소셜미디어(SNS)에 올린 글이 공유됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MFIQATZ4NVF6JETWU673A7MGVE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;온라인상에 확산하는 일반쓰레기 배출 논란./온라인 커뮤니티&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;작성자 A씨는 “토마토 꼭지 일반 쓰레기로 버렸다고 10만원, 닭뼈에 살 남았다고 10만원, 고무장갑 일반 쓰레기로 버렸다고 10만원. 이거 진짜 우리나라 이야기 맞나. 택배 송장 뒤져서 기어이 과태료 먹인다더라”며 최근 온라인상에 공유된 사례들을 언급했다.&lt;br&gt;&lt;br&gt;A씨는 음식물이 묻은 쓰레기를 버렸다는 이유로 수원시 영통구청으로부터 과태료 5만원을 부과받았다는 주장이 담긴 네티즌 B씨의 글도 공유했다.&lt;br&gt;&lt;br&gt;B씨는 “다들 조심해라. 사무실에서 종이로 된 도시락 먹고 안 헹궈서 버렸다는 이유로 (과태료 고지서가) 날아왔다”며 “오염된 건 분리수거 안 하고 일반 쓰레기로 분류한다고 해서 그냥 버렸더니 버리는 쓰레기도 퐁퐁으로 헹궈 버리라고 한다”고 했다.&lt;br&gt;&lt;br&gt;영통구청 측은 온라인상 공유된 사례가 실제 과태료 부과 대상과는 차이가 있다는 입장이다.&lt;br&gt;&lt;br&gt;환경위생과 관계자는 조선닷컴과의 통화에서 “쓰레기 무단 투기와 혼합 배출 등이 적발되면 과태료가 부과될 수 있다”면서도 “일반적으로 음식물이 묻은 도시락을 제대로 헹구지 않았다거나 부적합 쓰레기가 일부 포함됐다는 이유만으로는 과태료를 부과하지 않는다”고 했다. &lt;br&gt;&lt;br&gt;그러면서 “과태료는 종량제 봉투를 사용하지 않았거나 부적합 쓰레기가 종량제 봉투의 절반 이상을 차지하는 등 과도하게 혼합 배출을 한 경우 부과된다”고 설명했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/H43X2XQ7IFBLJAEXVC5N2PG7OA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;수원시 영통구청이 보낸 '쓰레기 혼합배출' 관련 과태료 고지서./스레드&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt; 일각에서는 ‘종량제 봉투 파파라치’로 활동하는 어르신들을 조심해야 한다는 주장도 나왔다. 버려진 종량제 봉투를 열어본 뒤 혼합 배출을 적발하면 일종의 포상금을 지급받을 수 있어 어르신들이 적극적으로 파봉 작업에 나서고 있다는 주장이다. B씨는 “억울해서 환경 미화하시는 분께 물었더니 집중 단속 기간이라 어르신들이 포상금 받으려고 단속하고 다닌다더라”고 했다. &lt;br&gt;&lt;br&gt;온라인에는 몇몇 어르신들이 바닥에 비닐봉지를 깐 뒤 종량제 봉투를 열어보는 모습이 담긴 사진이 공유돼 ‘파파라치’ 주장에 힘이 실렸다. 한 네티즌은 이런 모습을 직접 목격했다며 “개인 정보가 담긴 택배 송장이나 영수증을 버릴 때 조심하라”고 당부하기도 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RQYM5ALQBBCH7J2ZW5PRIT2YKY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;종량제 봉투를 열어보는 단속원들./스레드&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그러나 이 같은 ‘파파라치’ 포상금 의혹은 사실이 아닌 것으로 확인됐다. &lt;br&gt;&lt;br&gt;파봉 작업을 벌이는 이들은 무단 투기 단속원으로, 단속원들은 포상금이 아닌 임금을 받고 각 지방자치단체에 채용된다. 채용 기간 동안 상시 활동하는 이들은 관내를 돌아다니며 종량제 봉투 미사용이나 혼합 배출 등을 단속한다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>마용주 신임 대법관 “재판 신속·공정하게...결론은 국민 상식에 맞아야”</title>
-      <link>https://www.chosun.com/national/court_law/2025/04/09/R7YDGR543JBTTOSTEYVC4XGNJ4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/04/09/R7YDGR543JBTTOSTEYVC4XGNJ4/</guid>
-      <dc:creator>김은경 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 09 Apr 2025 01:58:41 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SLB2XI6YDJK53I4WNKVK55RRKM.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;마용주 신임 대법관이 9일 서울 서초구 대법원에서 열린 취임식에 취임사를 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;마용주(56·사법연수원 23기) 신임 대법관이 9일 취임했다. &lt;br&gt;&lt;br&gt;마 대법관은 이날 서울 서초구 대법원에서 열린 취임식에서 “대법원은 법률 해석을 통해 규범적 가치를 선언하며 우리 사회의 갈등을 해소하고 나아갈 방향을 제시해야 한다”며 “법률의 문언을 벗어난 것이 아니라면 소수자 보호와 미래지향적 가치 등을 위해 한발이라도 앞으로 나아가겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;그는 “국가의 엄중한 상황 속 지난 몇 달 동안 사법부에 대한 국민의 요구를 확인할 수 있었다”고 했다. 이어 “헌법을 수호하고 사법부의 독립을 지키며 사법부 본연의 임무인 재판을 충실히 하라는 것이었다”며 “너무나 당연하기에 오히려 소홀하지 않았는지 반성하면서, 다시 한 번 가슴에 새기게 됐다”고 말했다.&lt;br&gt;&lt;br&gt;마 대법관은 윤석열 전 대통령이 탄핵 소추로 직무 정지돼 있었던 지난해 12월 26일 국회 인사청문회를 통과했다. 이후 103일 만에 임기를 시작한 것이다.&lt;br&gt;&lt;br&gt;마 대법관은 취임사에서 “재판은 신속하면서 공정해야 한다”며 재판 지연 문제에 관해서도 언급했다. 그는 “최근 어려운 여건 속에서도 법관 임용·정원 관련 법률이 개정되고 법관의 인사 주기와 사무분담을 장기화하는 등 많은 성과가 있었다”며 “이를 바탕으로 사법부 전체의 역량과 업무의 효율을 향상시키기 위해 내부의 지혜를 모아야 한다”고 했다.&lt;br&gt;&lt;br&gt;또 “많은 분이 현재의 사법부 상황을 우려하면서 법관의 독립이 법관의 고립을 의미하는 것은 아니라고 고언하고 있다”고도 했다. 이어 “선배 법관의 경험과 노하우를 존중하고 익혀서 발전을 이루려는 마음가짐도 중요하다. 후배 법관의 고충을 이해하고 같이 해결하려는 소통과 배려도 꼭 필요하다”고 덧붙였다.&lt;br&gt;&lt;br&gt;마 대법관은 “법은 절대적 이성의 산물이지만, 그 해석과 적용은 현실에 뿌리를 둬야 한다”며 “무엇보다 수범자인 국민 모두가 받아들일 수 있는 상식에 맞아야 한다”고 강조했다. 이어 “내가 내린 결론은 상식에 맞는가, 여기에 답할 수 있어야 국민이 납득할 수 있는 올바른 결론이라 믿는다”고 했다.&lt;br&gt;&lt;br&gt;그러면서 “헌법을 수호하고 사법부의 독립을 지킨 용감한 법관, 재판에 열과 성을 다하는 헌신적인 법관, 그렇지만 당사자, 특히 사회적 약자에게는 한없이 따뜻한 법관이 되겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;경남 합천 출신의 마 대법관은 부산 낙동고와 서울대 법대를 졸업해 1997년 서울지법에서 판사를 시작했다. 2017년부터 4년간 대법원 사건의 법리 검토를 총괄하는 대법원 선임재판연구관과 수석재판연구관을 연이어 맡았다. 법원행정처 인사관리심의관·윤리감사관을 지내 사법 행정에도 밝다. 마 대법관의 임기는 2031년 4월까지다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
