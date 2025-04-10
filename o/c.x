@@ -13,6 +13,51 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>‘71년간 한국서 사목’ 프랑스 출신 두봉 주교 선종</title>
+      <link>https://www.chosun.com/national/national_general/2025/04/10/LHTZSEQXZRDMPEXLDGIDUMT26Y/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/10/LHTZSEQXZRDMPEXLDGIDUMT26Y/</guid>
+      <dc:creator>정아임 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 10 Apr 2025 13:44:26 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GUSQHCWYMBE5ZP3YIN43PJO6O4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;13일 경북 의성 봉양면 문화마을에서 두봉 주교가 인터뷰 하고 있다. /신현종 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;6·25 전쟁 직후 한국으로 파견 나와 70년 넘게 사목 활동을 한 프랑스 출신 두봉 레나도(프랑스명 르레 뒤퐁) 주교가 10일 96세의 나이로 선종했다. &lt;br&gt;&lt;br&gt;천주교 소식통에 따르면 두봉 주교는 이달 6일 뇌경색으로 안동병원에서 긴급 시술을 받은 후 병원에서 치료 중이었으나, 끝내 이날 생을 마감했다.&lt;br&gt;&lt;br&gt;두봉 주교는 1929년 프랑스 오를레앙의 가톨릭 신자 가정에서 3남 2녀 중 차남으로 태어났다. 21세에 파리외방전교회에 입회했고, 이후 로마 그레고리안 대학과 동대학원에서 수학하고 1953년 6월 사제품을 받았다.&lt;br&gt;&lt;br&gt;두봉 주교는 6·25 전쟁 직후인 1954년 12월 한국에 파견됐다. 대전 대흥동천주교회에서 10년간 보좌로 사목했으며, 대전교구 학생회 지도신부, 가톨릭 노동청년회 지도신부, 대전교구청 상서국장 등을 지냈다. 그는 1969년 교황 바오로 6세로부터 주교 서품을 받고 초대 안동교구장으로 취임해 약 21년간 교구를 이끌다 1990년 12월 퇴임했다.&lt;br&gt;&lt;br&gt;두봉 주교는 ‘가난한 교회’를 내걸고 사회적 약자를 위해 일했다. 안동교구장으로 재임하던 1973년 그는 경북 영주에 한센병 환자를 위한 다미안 의원을 세웠고, 1978년 12월에는 가톨릭농민회 안동교구연합회를 설립했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VBCO6ICELNC5ZP6YR3D56FC6HA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;1969년 7월 25일 주교가 된 것을 기념해 김수환 추기경(앞줄 왼쪽 두 번째) 과 기념 촬영을 한 두봉 주교(앞줄 왼쪽 세 번째). /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;특히 두봉 주교는 농민의 권익 보호를 중요하게 여겼다. 1978년 발생한 ‘오원춘 사건’이 이를 보여주는 대표적인 일화다.&lt;br&gt;&lt;br&gt;당시 농민회 영양군 청기 분회장이던 오원춘씨가 ‘영양군이 감자 경작을 권장했지만, 종자가 불량해 싹이 나지 않는다’며 대책위원회를 만들고 항의했고, 당국은 농민들의 요구를 묵살했다. 이에 안동교구 사제단이 나서 피해를 보상받게 됐는데 이후 오씨가 괴한들에게 납치·폭행당한 것이다. 사제들이 진상 조사를 추진하면서 정부와 천주교가 대립하는 시국 사건으로 번졌다. 외무부가 두봉 주교에게 자진 출국 명령까지 내렸다.&lt;br&gt;&lt;br&gt;두봉 주교는 바티칸에 가서 ‘어려운 사람을 걱정하고, 힘을 주고, 희망을 주는 것이 교회의 사명’이라고 자신의 신념을 설명했고 당시 요한 바오로 2세 교황은 두봉의 손을 들어줬다. 이 사태는 10·26 사건으로 박정희 정권이 무너지면서 막을 내렸다.&lt;br&gt;&lt;br&gt;두봉 주교는 2019년 특별 귀화자로 선정돼 국적 증서를 받으면서 한국·프랑스 이중국적자가 됐다. 최근에는 성당을 겸하는 의성의 한 공소(公所)에서 생활하며 주민들을 대상으로 미사를 주례하거나 멀리서 찾아오는 신자들에게 고해성사를 해주며 지냈다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>끈질긴 문자 설득으로 ‘6억원 보이스피싱’ 피해 막은 경찰관</title>
+      <link>https://www.chosun.com/national/regional/2025/04/10/RHAOZZ5CDVG2XE7RY6ZSCX2ELA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/04/10/RHAOZZ5CDVG2XE7RY6ZSCX2ELA/</guid>
+      <dc:creator>김주영 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 10 Apr 2025 13:26:19 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZDD5MBKMQY7DV3RYQRS5YTF4ZY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전남 광양경찰서. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;6억원이 든 통장을 들고 전화금융사기(보이스피싱) 범죄자와 만나러 가던 60대 남성이 경찰관의 끈질긴 설득 덕분에 피해를 모면했다.&lt;br&gt;&lt;br&gt;10일 전남 광양경찰서에 따르면 지난 9일 오후 6시쯤 112종합상황실에 한 여성의 다급한 신고 전화가 걸려 왔다.&lt;br&gt;&lt;br&gt;60대 남편 A씨가 대포통장 개설 문제로 수사를 받기 위해 6억원가량이 든 은행 통장을 모두 들고 서울로 향하고 있다는 내용이었다.&lt;br&gt;&lt;br&gt;보이스피싱이란 점을 감지한 112 상황실의 기호필 경위는 A씨에게 수차례 전화를 했으나 전화가 안 됐다. 이에 기 경위는 A씨에게 간곡한 내용의 문자 메시지를 여러 차례 보냈다.&lt;br&gt;&lt;br&gt;A씨와 겨우 연락이 닿았으나 이미 보이스피싱범의 말에 속아 넘어간 탓에 A씨는 기 경위의 말을 믿지 않으려 했다.&lt;br&gt;&lt;br&gt;이에 기 경위는 보이스피싱범이 A씨에게 호텔로 찾아오라고 하고, 통장을 챙겨 오라고 하는 등 수상한 점을 설명하며 A씨를 계속 설득했다.&lt;br&gt;&lt;br&gt;A씨는 끝내 휴게소에서 차를 멈춰 세웠다.&lt;br&gt;&lt;br&gt;기 경위는 고속도로순찰대에 협조 요청을 해 A씨를 찾아갔고, 휴대전화에 설치된 악성코드를 발견했다.&lt;br&gt;&lt;br&gt;A씨는 경찰에 “죄를 지어본 적 없는 사람에게 범죄 피의자로 연루됐다고 하니 정신이 나갔던 것 같다”며 “퇴직금 등 전 재산을 빼앗길 뻔해 아찔한 순간이었다”고 감사 인사를 전했다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “알지 못하는 문자메시지 링크는 접속하지 않아야 한다”며 “앞으로도 범죄 피해 예방에 최선을 다하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>경호처 “尹, 형사 법정 지하로 들어가게 해달라” 법원에 요청</title>
+      <link>https://www.chosun.com/national/court_law/2025/04/10/CTRBBQTEFZBE3ACINKYAKURIOI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/04/10/CTRBBQTEFZBE3ACINKYAKURIOI/</guid>
+      <dc:creator>김은경 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 10 Apr 2025 11:59:17 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2W6PYVSIHGPGR5OSVIHIKDV33Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대통령경호처가 오는 14일 윤석열 전 대통령이 형사 법정에 출석할 때 법원 지하를 통해 입정할 수 있게 해달라고 요청한 것으로 10일 알려졌다. 법원은 11일 지하주차장 출입을 허가할지 여부를 포함해&lt;b&gt; &lt;/b&gt;윤 전 대통령 형사재판 대비 경비 계획을 발표하기로 했다.&lt;br&gt;&lt;br&gt;법원 청사를 관리하는 서울고등법원은 이날 “경호처에서 윤 전 대통령의 지하 주차장 출입을 요청했다”고 밝혔다. &lt;br&gt;&lt;br&gt;서울중앙지법 형사25부(재판장 지귀연)은 내란 혐의로 기소된 윤 전 대통령의 첫 공판을 14일 진행한다. 윤 전 대통령은 앞으로 열리는 정식 재판에 모두 출석해야 한다.&lt;br&gt;&lt;br&gt;윤 전 대통령은 11일 오후 5시 서울 용산구 한남동 대통령 관저에서 퇴거할 예정이다. 지난 4일 헌법재판소의 탄핵심판 인용으로 파면되면서 전직 대통령으로서 예우가 박탈됐지만, 전직대통령법에 따라 최장 10년간 경호처의 경호를 받는다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[단독] 시한보다 11일 빨리... 검찰, 이재명 선거법 상고이유서 제출</title>
+      <link>https://www.chosun.com/national/court_law/2025/04/10/OLNISZ6FKJDGZP7FVRB6MZEK24/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/04/10/OLNISZ6FKJDGZP7FVRB6MZEK24/</guid>
+      <dc:creator>양은경 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 10 Apr 2025 10:25:42 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/67OESN5QKJIYDFVFNRMENMDHTE.JPG"&gt;&lt;figcaption&gt;&lt;small&gt; 공직선거법 위반 항소심에서 무죄를 선고받은 이재명 더불어민주당 대표가 지난달 26일 오후 서울 서초구 서울고등법원에서 열린 공직선거법 위반 혐의 2심 선고 공판을 마친 뒤 입장을 밝히고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰이 10일 이재명 전 민주당 대표의 공직선거법 위반 상고이유서를 제출한 것으로 확인됐다. 법정 제출 기한보다 열흘 이상 빠른 것으로, 신속한 재판 진행을 위한 조치로 풀이된다. &lt;br&gt;&lt;br&gt;본지 취재를 종합하면 검찰은 이날 담당 재판부인 대법원 3부에 상고이유서를 제출했다. 형사소송법에 따르면 검찰은 대법원으로부터 소송기록 접수 통지를 받은 날부터 20일 내에 상고이유서를 제출해야 한다. &lt;br&gt;&lt;br&gt;소송기록 접수 통지는 항소심 사건 기록이 대법원에 접수됐음을 알리는 공식 문서다. 그에 따르면 검찰의 상고이유서 제출 기한은 오는 21일까지다. 법정 기한보다 열흘 이상 빨리 낸 것이다.&lt;br&gt;&lt;br&gt;이 전 대표가 검찰 상고이유서를 송달받으면 그로부터 10일 이내에 답변서를 제출할 수 있다. 형사소송법에는 ‘제출할 수 있다’는 임의규정 형식으로 돼 있지만 소송실무상 답변서 제출 기간인 10일을 보장해 주는 경우가 많다. 따라서 이 전 대표에 대한 상고이유서 송달이 늦어지면 그만큼 재판 진행이 늦어질 수 있다. &lt;br&gt;&lt;br&gt;한편 이 전 대표에 대한 소송기록 접수통지서는 10일 현재까지 송달되지 않고 있다. 대법원은 지난달 31일 이 전 대표에게 통지서를 송달했지만 이 전 대표가 해당 서류를 수령하지 않으면서 반송 처리됐다. 이에 대법원은 서울남부지법·인천지법 소송 집행관에게 이 전 대표 자택과 사무실로 직접 송달을 진행해 달라고 요청한 상태다.&lt;br&gt;&lt;br&gt;이 전 대표는 2심에서 무죄를 선고받았기 때문에 법적으로 상고를 할 수 없다. 따라서 소송기록 접수통지서의 경우 수령하지 않았다고 하더라도 재판 진행이 불가능한 것은 아니다. 그러나 검찰이 10일 제출한 상고이유서의 경우 앞으로 송달이 안 되면 답변서 제출기간인 ‘10일’이 시작되지 않아 소송에 차질을 빚을 수 있다. &lt;br&gt;&lt;br&gt;이 전 대표는 지난 대선을 앞둔 2021년 12월 방송에서 대장동 개발 실무 책임자인 고(故)김문기 전 성남도개공 개발사업 1처장을 성남시장 재직중에는 몰랐다고 한 발언 및 같은해 10월 국정감사에서 국토부 협박으로 백현동 부지 용도를 상향했다고 발언해 공직선거법상 허위사실 공표 혐의로 기소됐다. &lt;br&gt;&lt;br&gt;1심은 2년 2개월간의 재판을 거쳐 이 전 대표에게 의원직 상실형인 징역 1년에 집행유예 2년을 선고했다. 그러나 2심은 지난달 26일 이 전 대표에게 무죄를 선고했다. 검찰이 상고하면서 지난달 28일 사건이 대법원에 접수됐고 대법원 3부에 배당됐다. 공직선거법상 1심은 6개월, 2·3심은 각각 3개월 내에 선고해야 하며 이 사건 3심 선고 기한은 6월 26일이다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>강원 고성 비무장지대서 산불...일몰로 헬기 철수</title>
+      <link>https://www.chosun.com/national/regional/2025/04/10/R3UISYSD3ZHLRNP4AIUU57SGXE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/04/10/R3UISYSD3ZHLRNP4AIUU57SGXE/</guid>
+      <dc:creator>김주영 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 10 Apr 2025 10:58:17 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/224242D7RCYBB4GF3T6LP4UAKI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;산림청 진화 헬기 등이 출동을 준비하는 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;10일 오후 5시 5분쯤 강원 고성군 현내면 비무장지대(DMZ) 안에서 산불이 났다.&lt;br&gt;&lt;br&gt;산림청은 불이 나자 산림청 임차 헬기 1대와 지자체 임차 헬기 1대 등을 투입해 진화에 나섰으나, 오후 7시 현재 일몰로 철수한 상태다.&lt;br&gt;&lt;br&gt;산림 당국은 날이 밝는 대로 헬기를 다시 투입해 불길을 잡겠다는 계획이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>부산시보건환경연구원 여자 탈의실에 ‘몰카‘…경찰 수사</title>
       <link>https://www.chosun.com/national/regional/yeongnam/2025/04/10/CCG6CFCVXBHPJB45VTAXQDA644/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/yeongnam/2025/04/10/CCG6CFCVXBHPJB45VTAXQDA644/</guid>
@@ -851,15 +896,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OKDCW6DY7RPEPPO45UHBAPZ4IE.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 대검찰청./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대검찰청이 오는 6월 3일 시행되는 21대 대통령선거를 앞두고 ‘선거 전담 수사반’을 편성하고 불법 선거운동에 엄정하게 대처하겠다고 밝혔다. &lt;br&gt;&lt;br&gt;대검은 “전국 검찰청에 선거 전담 수사반을 편성하고 단계별 비상근무를 시행하는 등 선거사범 수사에 만전을 기하도록 지시했다”고 9일 밝혔다.&lt;br&gt;&lt;br&gt;대검은 당내 경선운동 방법 위반, 여론조사 관련 규정 위반, 사회관계망서비스(SNS) 등 각종 매체를 이용한 허위사실공표, 집회를 빙자한 불법선거운동, 선거폭력 등을 대표적인 선거 범죄로 지목했다.&lt;br&gt;&lt;br&gt;대검은 “특히 이번 선거는 당내경선, 재외투표, 사전투표, 본투표가 모두 단기간에 집중적으로 진행됨에 따라 과열·혼탁 선거의 우려가 크다”며 “선거에 중대한 영향을 미칠 수 있는 불법 선거사범에 대해 유관기관과 협력해 엄정 대처하도록 지시했다”고 강조했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>경찰, ‘중국 간첩 99명 체포’ 보도한 스카이데일리 압수 수색</title>
-      <link>https://www.chosun.com/national/national_general/2025/04/09/RC2ISQFFPJHQPK7EATVU7TG7EM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/09/RC2ISQFFPJHQPK7EATVU7TG7EM/</guid>
-      <dc:creator>김명진 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 09 Apr 2025 07:52:05 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5MMYR2VJ372RSDZ67IYYJWNIEM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 마크. photo 뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰이 12·3 비상계엄 당일 ‘계엄군이 선거연수원에서 중국인 간첩단 99명을 체포했다’고 보도한 스카이데일리를 9일 압수 수색했다.&lt;br&gt;&lt;br&gt;서울경찰청 사이버수사대는 이날 오전 9시쯤 서울 중구 스카이데일리 본사로 수사관들을 보내 해당 기사를 쓴 허겸 기자의 휴대전화와 노트북 등 관련 자료를 압수 수색했다고 밝혔다. 앞서 경찰은 조정진 전(前) 스카이데일리 대표 자택을 찾아가 휴대전화 등을 압수했다.&lt;br&gt;&lt;br&gt;스카이데일리는 지난 1월 16일 ‘비상계엄 당일 경기도 수원시 소재 선거연수원에 있던 중국인 99명이 주일 미군 기지로 압송됐고, 검거된 이들은 미군 측에 인계돼 평택항을 거쳐 일본 오키나와 미군 기지로 이송됐다’고 보도했다.&lt;br&gt;&lt;br&gt;그러나 이 같은 기사 내용에 대해 주한미군은 물론 중앙선관위·경찰 등 관계 기관은 “근거가 전혀 없다”고 했다. 선관위는 “명백한 허위 사실”이라고 반박하며 지난 1월 20일 스카이데일리와 허겸 기자를 공무집행방해·명예훼손 등 혐의로 경찰에 수사를 의뢰했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>근절되지 않는 양귀비 불법 재배…경북 동해안서 적발 건수 3년 연속 증가</title>
       <link>https://www.chosun.com/national/regional/2025/04/09/BRAIOZG3JJDCFHVXJKSUWLWIMA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/04/09/BRAIOZG3JJDCFHVXJKSUWLWIMA/</guid>
@@ -867,56 +903,6 @@
       <description/>
       <pubDate>Wed, 09 Apr 2025 07:49:05 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TQA647UJUVBPPLHW2TOI5CSIUA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;포항해경 관계자들이 지난해 5월 경북지역 해안가 텃밭 등에서 불법 재배한 양귀비를 압수하고 있다./포항해경&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경북 포항과 경주 등 동해안 지역에서 양귀비 등 마약류를 불법 재배하다 적발되는 사례가 해마다 늘어나고 있다. &lt;br&gt;&lt;br&gt;9일 포항해양경찰서와 울진해양경찰서에 따르면 포항·경주·울진·영덕 지역에서 양귀비 등을 불법 재배하다 해경에 적발된 건수는 2022년 18건, 2023년 29건, 2024년 51건으로 매년 늘어나고 있다. &lt;br&gt;&lt;br&gt;해경에 따르면, 관절통과 신경통 치료에 효과가 있다고 생각한 노인들이 민간요법으로 사용하기 위해 양귀비 등을 재배하는 경우가 적지 않다고 한다. 지난해 5월에는 포항시 북구 흥해읍에 사는 70대 A씨는 자신의 집과 인근 텃밭에서 양귀비 1663주를 몰래 재배하다가, 포항시 남구 청림동에 사는 70대 B씨는 비닐하우스 등에서 양귀비 1013주를 불법으로 재배해오다 포항해경에 적발돼 재배하던 양귀비 전량을 폐기했다. &lt;br&gt;&lt;br&gt;하지만, 적발된 이들 대부분이 노인으로, 고의성 등이 확인되지 않아 실제 기소로 이어지는 경우는 많지 않은 상황이라고 한다. &lt;br&gt;&lt;br&gt;포항해경에 따르면, 2022년부터 지난해까지 양귀비 불법 재배로 포항해경에 적발된 건수는 62건에 이르지만, 입건해 송치한 사례는 5건에 불과하다. &lt;br&gt;&lt;br&gt;해경 관계자는 “노인들의 경우 범죄 혐의가 없는 경우가 많아 계도만 하고 실제 기소까지 이어지는 경우는 많지 않다. 다만, 동종 전과가 있거나 고의성 등이 확인될 경우는 입건해 기소했다”고 말했다. &lt;br&gt;&lt;br&gt;한편 해경은 양귀비 등 마약류 불법 재배가 끊이지 않는 만큼 양귀비 개화기 등에 맞춰 6월 말까지 마약류 불법 재배를 집중 단속할 예정이다. 마약류 취급 자격이나 허가 없이 마약류인 양귀비 등을 재배·매매·사용하다 적발되면 마약류 관리에 관한 법률에 따라 5년 이하의 징역 또는 5000만원 이하의 벌금에 처해진다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>법무장관 대행 “지금 韓대행은 행정부 수반, 재판관 지명 가능”</title>
-      <link>https://www.chosun.com/national/court_law/2025/04/09/27IBEE5KR5AYVIV5QBK5ORO6Y4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/04/09/27IBEE5KR5AYVIV5QBK5ORO6Y4/</guid>
-      <dc:creator>이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 09 Apr 2025 07:46:10 +0000</pubDate>
-      <content:encoded>한덕수 대통령 권한대행이 대통령 몫 헌법재판관 후보자를 지명한 데 대해 김석우 법무장관 직무대행은 9일 “행정부 수반으로서 임명한 것”이라는 입장을 밝혔다. 국회가 선출한 마은혁 헌법재판관을 임명한 문제와는 다른 차원이라는 것이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/64VPZPHDWNG5DAERIAJBNLWGAU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김석우 법무장관 직무대행이 9일 서울 여의도 국회에서 열린 국회 법제사법위원회 전체회의에 참석해 의원들의 질의에 답하고 있다. /남강호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김 대행은 이날 국회 법제사법위원회 전체회의에서 “기본적으로 마 재판관 임명 때와는 (대통령) 궐위 상태로 사정이 변경된 게 가장 크다”며 이같이 말했다. 탄핵 심판이 진행 중일 때는 대통령이 ‘사고’ 상황이었다고 볼 수 있지만, 파면 이후는 ‘궐위’ 상황으로 볼 수 있어 권한 행사 범위가 달라진다는 것이다.&lt;br&gt;&lt;br&gt;김 대행은 “사고의 경우엔 탄핵 심판이 계속되는 경우도 포함되는데 탄핵 심판 결과에 따라 대통령이 (직무에) 복귀할 가능성을 배제하지 못한다”며 “그러면 복귀할 수 있는 대통령의 의중과 (대행이) 다른 결정을 하면 안 되기 때문에 가급적 (임명을) 자제해야 한다는 게 사고 시에 나타나는 부분”이라고 했다. 그러면서 “궐위 상태라면 탄핵이 결정된 대통령이 직무에 복귀할 가능성이 제로(0)”라며 “학계에서는 적극적으로 (대행이 권한을) 행사할 수 있다는 의견이 있는 것으로 안다”고 말했다.&lt;br&gt;&lt;br&gt;이 밖에도 김 대행은 전날 한 대행이 헌법재판관 후보자로 지명한 이완규 법제처장과 함상훈 서울고법 부장판사의 경우 대통령 몫이라는 점에서도 국회 선출 몫이었던 마 재판관과 상황이 다르다고 설명했다. 김 대행은 “대통령이 헌법재판관 9명을 임명하지만 국회 선출 3명과 대법원장 지명 3명에 대해 임명하는 것은 국가원수로서 고도의 상징적 지위에서 임명하는 것”이라고 했다. 반면 대통령 몫 3명에 대한 임명은 “입법, 사법, 행정이 골고루 임명하는 것이라 국가 원수 자격이 아닌 행정부 수반으로 임명하는 것이라고 학계에서 이해하고 있다”며 “한 대행 입장에서는 충분히 특별한 논란 없이 임명할 수 있다고 생각했을 것 같다”고 했다.&lt;br&gt;&lt;br&gt;김 대행은 한 총리가 헌법재판관 후보자를 지명할 때 자신과 논의했느냐는 물음엔 “(제가) 의견을 낸 상황은 아니었다”며 “(전날) 발표하시기 전에 이런 이유로 됐다고 국무위원들을 상대로 설명했다”고 답했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>강릉 성산면 산불, ‘6‧25 전쟁 사용 추정 불발탄 자연 발화’가 원인</title>
-      <link>https://www.chosun.com/national/regional/2025/04/09/FLIXV2G7IVDQFHT6ABXEM2XED4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/04/09/FLIXV2G7IVDQFHT6ABXEM2XED4/</guid>
-      <dc:creator>강릉=정성원 기자</dc:creator>
-      <description>지난 7일 강원 강릉시 성산면 어흘리에서 발생한 산불의 원인으로 6·25 전쟁 당시 사용된 불발탄이 지목됐다.
-9일 강원도에 따르면 지난 7일 오후 1시 28분쯤 강릉시 성산면 어흘리 한 야산에서 불이 나 임야 10㎡가 소실됐다. 다행히 불은 인명피해 없이 20여분 만에 진화됐다.</description>
-      <pubDate>Wed, 09 Apr 2025 07:37:47 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LC5C5AQJUJBWJG5TSK36DO2FRI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;강원 강릉 성산면 산불 현장에서 발견된 불발탄./강원도&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 7일 강원 강릉시 성산면 어흘리에서 발생한 산불의 원인으로 6‧25 전쟁 당시 사용된 불발탄이 지목됐다.&lt;br&gt;&lt;br&gt;9일 강원도에 따르면 지난 7일 오후 1시 28분쯤 강릉시 성산면 어흘리 한 야산에서 불이 나 임야 10㎡가 소실됐다. 다행히 불은 인명 피해 없이 20여 분 만에 진화됐다. 산림 당국은 산불 현장에서 6·25 전쟁 당시 사용했을 것으로 추정되는 불발탄을 발견했으며, 이 불발탄이 자연 발화해 산불이 발생한 것으로 추정했다.&lt;br&gt;&lt;br&gt;이번에 발견된 불발탄은 백린탄으로, 백린탄은 공기와 접촉할 경우 자연 발화 가능성이 있는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;강원도 관계자는 “불발탄에 의한 자연 발화는 이례적인 일”이라며 “현재 불발탄은 안전하게 제거된 상태”라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[오늘의 운세]  4월 10일 목요일 (음력 3월 13일 己酉)</title>
-      <link>https://www.chosun.com/national/national_general/2025/04/09/J7US4XVRO5H3FIY5GNXBBQ6UXU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/09/J7US4XVRO5H3FIY5GNXBBQ6UXU/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 09 Apr 2025 08:05:00 +0000</pubDate>
-      <content:encoded>&lt;p&gt;&lt;div class="chosun_unse"&gt;&lt;iframe src="https://image.chosun.com/arc/unse_iframe.html" frameborder="0" scrolling="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;style&gt;.chosun_unse{position:relative;width:100%;height:350px;box-sizing:border-box}.chosun_unse&gt;iframe{position:absolute;top:0;left:0;width:100%;height:100%;overflow-y:hidden}@media all and (max-width:1024px){.chosun_unse{height:350px}}@media all and (max-width:1023px){.chosun_unse{height:350px}}@media all and (max-width:528px){.chosun_unse{height:270px}}@media all and (max-width:384px){.chosun_unse{height:190px}}&lt;/style&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;p&gt;&lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani01.gif"&gt;  	&amp;nbsp;	36년생 이 기회 놓치고 미루면 후회. 48년생 등잔 밑 더 어두운 법. 내부 잘 살피도록. 60년생 낭떠러지와 벼랑 끝에도 생명의 꽃은 핀다. 72년생 꿀단지에 빠진 개미 떼 되지 마라. 84년생 대마(大馬)라도 한 수에 무너지는 법. 96년생 성급히 덤벼들어 될 일 아닌 듯.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt;  &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani02.gif"&gt;	&amp;nbsp;	37년생 성취 기쁨 맛볼 하루. 49년생 가시적인 현상은 한계가 있다. 61년생 수많은 재산 있어도 건강보다 큰 자산은 없다. 73년생 지금 당장은 고민이지만 대수롭게 생각 마라. 85년생 뱀띠와의 관계에 이익 창출. 97년생 결과 불분명한 일에 무리할 것 없다.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani03.gif"&gt;	&amp;nbsp;	38년생 최선 다했다면 나머지는 하늘 몫. 50년생 소비지출 심한 시기니 절약 필요. 62년생 쓴 말 들으면 몸에 좋은 약이다 여겨라. 74년생 돈 빌려줬다면 마음 고생할 수도. 86년생 이웃집 개가 내 집에서 짖으면 액운 따른다. 98년생 봉사의 마음으로 임하면 만사태평.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani04.gif"&gt;	&amp;nbsp;	27년생 할 말이 있어도 오늘은 참도록. 39년생 허례 삼가고 내실 기하라. 51년생 명예가 아니면 슬하에 경사. 63년생 동료나 친구의 도움이 기대. 75년생 지난날의 실패가 힘 될 줄이야. 87년생 내 몫이 아니니 욕심내지 마라. 99년생 느긋하게 관망하라.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani05.gif"&gt;	&amp;nbsp;	28년생 소소하게 여겼던 일들을 시도해 보도록. 40년생 허세보다 실속을 챙기라. 52년생 적당한 운동은 보약보다 낫다. 64년생 새로운 도전과 기회를 즐겨라. 76년생 의욕과 자신감이 충만한 하루. 88년생 뜻밖에 귀인이 도움 줄 듯. 00년생 조율과 주선은 나의 몫.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani06.gif"&gt;	&amp;nbsp;	29년생 자손의 경사에 웃음꽃 만발. 41년생 어차피 할 일이면 즐겁게 하라. 53년생 욕심 버리고 능력에 맞게 진행하라. 65년생 마음의 거리를 좁히는 것이 먼저. 77년생 매매나 문서 거래에 주의가 필요. 89년생 남쪽은 피하는 것이 상책. 01년생 욕심으로 인한 번민이다.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani07.gif"&gt;	&amp;nbsp;	30년생 느긋한 여유로 차분하게 진행하라. 42년생 타협과 협상이 필요한 시점. 54년생 적당한 선에서 매듭짓도록. 66년생 배우자와의 다툼을 경계하라. 78년생 토끼띠와의 거래는 주의 필요. 90년생 시비 구설이 있다면 전화위복. 02년생 흰색과 숫자 4, 9 행운 부른다.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani08.gif"&gt;	&amp;nbsp;	31년생 이 빠진 사발 신세. 43년생 연합과 동조로 지원군을 확보해야. 55년생 과도한 욕심은 손실 부른다. 67년생 명장은 연장 탓하지 않는 법. 79년생 금전 문제는 해결 기미 보인다. 91년생 어려운 일이 있어도 무난히 해결. 03년생 이 보 전진을 위한 일 보 후퇴.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani09.gif"&gt;	&amp;nbsp;	32년생 서북은 피하는 게 좋다. 44년생 늙은 말이 무거운 짐 졌구나. 56년생 웃음은 만복 근원. 68년생 붉은색과 숫자 2, 7 행운 부른다. 80년생 장수가 칼 잃은 격. 92년생 복잡다단할수록 길은 하나임을 기억. 04년생 과도한 목표는 삶을 힘들게 한다.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani10.gif"&gt;	&amp;nbsp;	33년생 말은 아끼고 귀는 기울여야. 45년생 천 리 가는 말도 사람 없이 가겠나. 57년생 산해진미가 입맛 돋워도 건강에는 해롭다. 69년생 문제도 해답도 자신에게 있다. 81년생 10년 보고도 속내 모른다더니. 93년생 처음은 잘 풀린 듯하나 뒤탈 대비하도록.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani11.gif"&gt;	&amp;nbsp;	34년생 결정할 일은 나중으로 미루라. 46년생 시기와 질투 있다면 잘되고 있는 것. 58년생 조급히 서두르면 될 일도 안 된다. 70년생 한계 있으니 작은 것에 만족하라. 82년생 주변 유혹을 경계하라. 94년생 인생은 장거리 마라톤, 처음부터 무리할 것 없다.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani12.gif"&gt;	&amp;nbsp;	35년생 감언이설에 안 속도록 주의. 47년생 노력한 만큼 결실은 있을 듯. 59년생 가능한 자녀와 많은 시간을 보내라. 71년생 오늘 당장 마무리 지으려 마라. 내일도 있다. 83년생 노루 쫓다 잡은 토끼 놓칠라. 95년생 작은 배는 바다 가기에 적합하지 않다.	&lt;br&gt;
-&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;한소평 금오산방 강주  &lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;			&lt;/p&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/4MTFRYWHBJA7XOKKF7G7JPLX5U.png?width=800&amp;height=420&amp;auth=4651b5b20b5d4901424204d1456faee02e4b064ff509db23945deabf4404c8ef&amp;smart=true" type="image/png" height="420" width="800"/>
-    </item>
-    <item>
-      <title>졸피뎀 4000정 ‘불법 처방받아 판매·복용’ 40대 남녀, 집유</title>
-      <link>https://www.chosun.com/national/regional/2025/04/09/MFBGLI3AJBDDBKNOZTSQ7LJQQE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/04/09/MFBGLI3AJBDDBKNOZTSQ7LJQQE/</guid>
-      <dc:creator>대전=우정식 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 09 Apr 2025 07:21:37 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LJ47OVNWTHRQHLPDFAKYSUDBZU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원 로고./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;병원에서 불법 처방받은 졸피뎀(수면유도제) 수천정을 판매하거나 이를 구매해 상습 복용한 40대 남녀에게 징역형의 집행유예가 선고됐다. 졸피뎀을 처방받도록 가짜 진료기록부를 작성한 피부과 병원 의사 2명은 각각 벌금형을 선고받았다.&lt;br&gt;&lt;br&gt;9일 법조계에 따르면 대전지법 형사5단독 장원지 부장판사는 마약류 관리에 관한 법률 위반(향정) 혐의로 기소된 40대 A씨에게 징역 10개월에 집행유예 2년을, 같은 혐의를 받는 40대 여성 B씨에게는 징역 1년 6개월에 집행유예 3년을 각각 선고했다. 또 두 사람에게 각각 1600만원을 추징하도록 명령했다. &lt;br&gt;&lt;br&gt;A씨는 2019년 9월부터 2023년 10월까지 4년에 걸쳐 졸피뎀 성분의 알약 3984정을 처방받아 B씨에게 판매했고, B씨는 이를 상습적으로 복용한 혐의를 받고 있다. 졸피뎀은 수면제의 일종으로 마약류(향정신성 의약품)에 해당한다.&lt;br&gt;&lt;br&gt;A씨는 대전 유성구의 한 피부과 병원에서 졸피뎀을 반복해 처방받은 것으로 조사됐다. 이 병원 의사 2명이 A씨의 장인, 처남, 배우자 등 가족 이름으로 된 가짜 진료기록부를 87차례나 작성해줬기에 가능했다.&lt;br&gt;&lt;br&gt;의료법을 위반해 재판에 넘겨진 피부과 의사 2명은 각각 벌금 800만원과 300만원을 선고받았다.&lt;br&gt;&lt;br&gt;장 부장판사는 “범행 횟수가 많고 장기간에 걸쳐 반복적으로 이뤄진 점을 고려하면 엄벌이 필요하다”며 “의사로서 진료기록을 허위 작성한 죄책도 절대 가볍지 않다”고 설명했다. 이어 “다만 피고인들이 잘못을 인정하고 반성하는 점 등을 고려했다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>국토부, 서울·부산 20분 이동 ‘하이퍼튜브’ 개발 본격화</title>
