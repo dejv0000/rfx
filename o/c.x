@@ -13,6 +13,87 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>男 지방공무원, 임신한 배우자 ‘검진 동행’ 휴가 10일 생긴다</title>
+      <link>https://www.chosun.com/national/national_general/2025/04/10/YJ2IPITTAVCPFOHA776YFH5S44/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/10/YJ2IPITTAVCPFOHA776YFH5S44/</guid>
+      <dc:creator>최연진 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 10 Apr 2025 05:07:46 +0000</pubDate>
+      <content:encoded>남성 지방 공무원이 배우자의 임신 기간 중 검진에 동행할 때 쓸 수 있는 휴가가 신설된다.&lt;br&gt;&lt;br&gt;행정안전부는 이 같은 내용을 담은 ‘지방공무원 복무규정’ 개정안을 10일부터 5월 20일까지 입법 예고한다고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KRLPJAVYWEG7S77QURDLIAI2NA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;개정안에 따르면, 남성 공무원은 10일의 범위에서 임신한 배우자의 검진에 동행하기 위한 ‘임신검진 동행휴가’를 사용할 수 있게 된다. 현재 여성 공무원은 10일 내에서 임신검진 휴가를 사용할 수 있으나, 남성 공무원은 임신 검진에 동행할 때 자신의 연가를 사용해왔다. &lt;br&gt;&lt;br&gt;행안부는 “앞으로는 남성 공무원도 ‘임신검진 동행휴가’를 쓸 수 있게 돼 임신기부터 돌봄에 동참할 수 있게 되는 것”이라고 했다.&lt;br&gt;&lt;br&gt;임신 초기 또는 후기 여성 공무원의 휴식이나 병원 진료 등을 위한 ‘모성 보호 시간’ 사용도 보장된다.&lt;br&gt;&lt;br&gt;현재 임신 중인 여성 공무원은 1일 2시간 범위에서 ‘모성 보호 시간’ 사용을 신청해 승인받게 돼 있는데, 앞으로는 임신 12~32주일 때 ‘모성 보호 시간’ 사용을 신청하면 승인권자가 반드시 허용해야 한다.&lt;br&gt;&lt;br&gt;김민재 행안부 차관보는 “앞으로도 임신·출산·양육기의 지방공무원이 아이를 낳고 키우면서 직무도 부담 없이 병행할 수 있는 근무 여건을 조성할 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[속보] 감사원 “2023 새만금 잼버리 파행, 조직위·여가부·전북도 모두 책임”</title>
+      <link>https://www.chosun.com/politics/goverment/2025/04/10/G5ORR4MYYBAD5NNH7LIU5OHAPY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/politics/goverment/2025/04/10/G5ORR4MYYBAD5NNH7LIU5OHAPY/</guid>
+      <dc:creator>김경필 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 10 Apr 2025 05:00:18 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3TQZAJCPFZEX5AUJN6GLR7A42I.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;2023년 8월 8일 전북 부안군 새만금세계스카우트잼버리 대회장에서 참가자들을 철수시키기 위해 수천 대의 버스가 대기하고 있다. /김영근 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2023년 8월 전북 새만금에서 열린 세계스카우트잼버리의 파행은 대회 조직위원회와 감독 기관인 여성가족부, 대회를 유치한 전라북도의 부실·무책임 행정이 겹쳐 일어난 사태인 것으로 감사원이 결론 내렸다.&lt;br&gt;&lt;br&gt;전북도는 야영에 부적합한 갯벌 매립지를 대회 장소로 정해놓고서는, 한국스카우트연맹에 미리 기반 시설 공사를 해놓겠다는 허위 계획서를 제출해 개최지로 선정됐다. 이 과정에서 1991년에 이미 세계잼버리를 성공적으로 개최한 적이 있는 강원 고성군은 떨어졌다. 국회가 만든 새만금세계잼버리법에 따라 대회 조직위가 구성되면서, 잼버리 운영에 전문성이 있는 한국스카우트연맹이 대회 준비를 주도하지 못하게 됐고, 조직위 감독·지원을 맡은 여가부는 국제 행사 개최 경험이 전무한 여가부 퇴직 공무원을 조직위 사무총장으로 보냈다. 조직위는 대회 준비를 부실하게 했고, 대회가 열리고 참가자 다수가 온열 질환으로 쓰러지거나 음식물 공급이 제한되고 화장실에 물이 나오지 않는 문제 등이 벌어졌는데도 “뭐가 그렇게 문제냐”는 태도로 일관했다. 여가부는 대회 준비가 되지 않았다는 사실을 알고서도 한덕수 국무총리 주재 국무회의에 ‘준비가 완료됐다’고 허위 보고해, 정부가 대회 전에 보완 대책을 세울 기회를 갖지 못하게 했다.&lt;br&gt;&lt;br&gt;감사원은 10일 공개한 ‘새만금 세계스카우트잼버리 추진 실태’ 감사 보고서에서 이같이 지적하고, “추진 주체(조직위·여가부·전북도 등)의 역량이 부족하고 행사 준비 중요성에 대한 인식이 미흡한 가운데, 생활 서비스 준비 부족, 시설 부실 설치, 현장 대응 미숙, 부적합 부지 선정 등 업무 처리가 총체적으로 부실해 새만금 잼버리 성공 개최에 실패했다”고 진단했다. 이와 관련해 감사원은 여가부와 전북도에 담당 업무 부실을 이유로 ‘기관 주의’를 주고, 여가부·전북도·전북교육청에 공무원 5명을 징계하라고 했다. 김현숙 전 여가부 장관, 여가부 출신 최창행 조직위 사무총장 등 이미 퇴직해 징계가 불가능한 7명에 대해선 나중에 공무원으로 재임용되지 못하도록 비위 행위를 기록으로 남기도록 했다. 대회 준비 상황 허위 보고 등에 관여한 공무원 6명에 대해선 징계와 별도로 수사 기관에 사건을 넘겨 수사하도록 했다.&lt;br&gt;&lt;br&gt;정부와 전북도, 부안군이 새만금 잼버리 개최와 파행 후 수습을 위해 쓴 돈은 3683억원에 달했다. 이 가운데 176억원은 정부가 새만금 야영을 중지시키고 참가자들을 전국 곳곳의 숙소로 대피시킨 뒤 대체 프로그램을 운영하는 데 투입된 돈이었다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>이번 주말 ‘벚꽃 엔딩’...전국 강풍 동반 폭우</title>
+      <link>https://www.chosun.com/national/transport-environment/2025/04/10/YQCVFIXDWNGDTEOU623WZMJ7PE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/04/10/YQCVFIXDWNGDTEOU623WZMJ7PE/</guid>
+      <dc:creator>박상현 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 10 Apr 2025 04:46:43 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TPPFFUH4XEHU47ZLTOB5Z433K4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 8일 서울 송파구 석촌호수를 찾은 시민들이 활짝 핀 벚꽃을 즐기고 있다. /송파구&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이번 주말 ‘벚꽃 엔딩’을 맞을 것으로 전망됐다. 비구름대가 크게 발달하면서 강풍과 함께 많은 비를 쏟을 것으로 보여 벚꽃을 비롯한 봄꽃 상당수가 떨어질 것으로 보인다.&lt;br&gt;&lt;br&gt;기상청에 따르면, 주말인 12∼13일 전국에 강풍과 낙뢰를 동반한 비가 내릴 것으로 예상됐다. 비는 토요일인 12일 오전 제주에서 시작해 오후 전국으로 확대된 뒤 13일 새벽까지 이어지겠다. 이후 비가 잠깐 그쳤다가 13일 아침부터 14일까지 중부지방을 중심으로 재차 비가 오겠다.&lt;br&gt;&lt;br&gt;13일은 수도권·강원영서, 14일엔 중부지방과 호남·경북에 주로 비가 내리겠다.&lt;br&gt;&lt;br&gt;비구름대가 크게 발달하면서 봄비치고 강수량이 많을 것으로 전망됐다. 남쪽에서 고온다습한 공기가 불어 수증기를 공급해 제주와 남부지방 강수량이 상대적으로 많겠다. 이에 제주산지엔 호우주의보가 내려질 가능성이 있다.&lt;br&gt;&lt;br&gt;12~14일 예상 강수량은 수도권과 강원·충청 5~20㎜, 경북 5~20㎜, 경남·호남 5~50㎜, 제주 20~80㎜ 등으로 예보됐다.&lt;br&gt;&lt;br&gt;이번 비는 여러 저기압이 순차적으로 한반도를 통과하면서 내리겠다. 12일부터 13일 새벽까지는 우리나라 북쪽 대기 상층에 북극 바람이 떨어져나온 절리저기압이 자리한 가운데 하층으로 중국 상하이 쪽에서 남부지방으로 향하는 저기압이 내려오며 비가 내리겠다.&lt;br&gt;&lt;br&gt;저기압이 남부지방으로 내려오는 과정에서 남쪽의 따뜻한 수증기가 다량 유입되며 제주와 남부지방에 많은 비를 뿌리겠다. 대기가 불안정해지면서 벼락이 칠 수 있다.&lt;br&gt;&lt;br&gt;이어 13∼14일은 북쪽 절리저기압이 남쪽으로 내려오면서 우리나라로 서풍 계열 바람이 불어 비가 오겠다. 13일은 서풍, 14일은 남서풍이 주로 불면서 강수 구역이 달라질 것으로 보인다.&lt;br&gt;&lt;br&gt;한반도 북쪽에 자리하는 절리저기압은 영하 35도 안팎의 찬 공기를 품고 남하할 것으로 보여, 우리나라가 절리저기압 영향권에 드는 13∼14일 기온이 큰 폭으로 떨어지겠다. 이에 경기동부과 강원내륙·산지, 충북북부산지, 경북북부산지를 중심으로 눈이 내려 쌓일 수 있다. 강원산지는 적설이 5㎝ 안팎에 달할 것으로 예상됐다.&lt;br&gt;&lt;br&gt;12∼13일 전국에 간판이 흔들릴 정도인 순간풍속 시속 70㎞ 이상의 강풍이 불겠다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘흉기소지죄’ 시행 첫날 흉기 들고 산책로 활보한 중국인 체포</title>
+      <link>https://www.chosun.com/national/national_general/2025/04/10/LLD4QHKNCNBB7KMBG7325V6A7U/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/10/LLD4QHKNCNBB7KMBG7325V6A7U/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 10 Apr 2025 04:53:58 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FVTGVQCPGJHUNE3JW2G4P5TCUU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 8일 흉기를 들고 이동하고 있는 A씨. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘공공장소 흉기소지죄’가 시행된 첫날 서울 도심에서 흉기를 꺼내든 중국인이 체포됐다.&lt;br&gt;&lt;br&gt;10일 서울경찰청은 지난 8일 오후 5시 40분쯤 서울 성동구 청계천 산책로에서 행인들을 향해 흉기를 빼든 혐의로 50대 중국인 남성 A씨를 검거해 조사 중이라고 밝혔다.&lt;br&gt;&lt;br&gt;공공장소 흉기소지죄는 정당한 이유 없이 도로·공원 등 공공장소에서 흉기를 소지하고 이를 드러내 불안감이나 공포심을 일으키면 3년 이하의 징역 또는 1000만원 이하의 벌금에 처하도록 한다.&lt;br&gt;&lt;br&gt;2023년 서울 신림역과 경기 분당 서현역에서 잇달아 흉기 난동 살인이 발생하면서 형법에 공공장소 흉기 소지죄 신설이 추진됐고, 지난달 20일 국회를 통과해 이달 8일부터 시행 중이다.&lt;br&gt;&lt;br&gt;사건 당일 경찰은 ‘청계천 산책로 쪽에 어떤 남성이 흉기를 들고 있다’는 신고를 접수받고 출동해 인근 수색 후 A씨를 검거하고 흉기를 압수했다.&lt;br&gt;&lt;br&gt;A씨는 자신이 들고 있던 흉기는 낚싯대 손질용이었다는 취지로 해명한 것으로 알려졌다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>사업가 지인 위협해 현금 1억5000만원 강탈…중국인 2명 체포</title>
+      <link>https://www.chosun.com/national/incident/2025/04/10/TUY7NPUZZNFD7JARJZWYP5MBKE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/04/10/TUY7NPUZZNFD7JARJZWYP5MBKE/</guid>
+      <dc:creator>인천=이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 10 Apr 2025 04:29:21 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SK24OX4NX7LFMOQCFETMN3GATI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;무역 사업을 하는 중국인 지인을 흉기로 위협해 현금 1억5000만원을 빼앗아 달아난 중국인들이 경찰에 붙잡혔다. &lt;br&gt;&lt;br&gt;인천 연수경찰서는 특수강도 혐의로 중국 국적의 30대 남성 A씨 등 2명을 체포해 조사하고 있다고 10일 밝혔다. &lt;br&gt;&lt;br&gt;A씨 등은 지난 8일 오후 8시 20분쯤 인천시 연수구 연수동의 한 오피스텔에서 지인인 중국인 사업가 50대 남성 B씨를 흉기로 위협해 현금 1억5000만원을 빼앗아 달아난 혐의를 받고 있다. &lt;br&gt;&lt;br&gt;A씨 등은 평소 알고 지내던 B씨가 집 안에 현금을 많이 갖고 있다는 사실을 알고 집 앞에서 기다렸다가 문을 열고 들어가는 B씨를 뒤따라가 범행한 것으로 파악됐다. &lt;br&gt;&lt;br&gt;“중국인에게 강도를 당했다”는 B씨의 신고를 받고 수사에 나선 경찰은 지난 9일 오후 7시쯤 서울의 한 호텔에 있던 A씨 등 2명을 긴급 체포했다. &lt;br&gt;&lt;br&gt;경찰은 이들과 함께 범행한 후 중국으로 달아난 다른 30대 중국인 2명에 대해선 인터폴에 적색수배를 요청할 예정이다. &lt;br&gt;&lt;br&gt;경찰 관계자는 “피의자 등을 상대로 구체적인 범행 동기 등을 조사하고 있다”며 “구속영장을 신청할 예정”이라고 말했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>대선 불출마 김태흠 “도정에 충실… 환골탈태의 계기로 삼아야”</title>
+      <link>https://www.chosun.com/national/regional/chungcheong/2025/04/10/YQOZ5T74E5DDNABCDP76PV6A6Y/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2025/04/10/YQOZ5T74E5DDNABCDP76PV6A6Y/</guid>
+      <dc:creator>홍성=김석모 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 10 Apr 2025 04:42:44 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UTPV24ARED5FFQBIDBCI3JYWEI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김태흠 충남지사. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김태흠 충남지사는 10일 “조기 대선에 출마하지 않고 충남도정에만 충실하겠다”고 밝혔다. 국민의힘 소속 김 지사는 그동안 충청권을 대표하는 대선 경선 출마자로 거론돼 왔다. 하지만 혼란스러운 정국 상황을 고려해 도정을 안정시키는 데 집중하겠다는 결론을 내린 것으로 보인다.&lt;br&gt;&lt;br&gt;김 지사는 이날 자신의 소셜미디어(SNS)를 통해 “대한민국은 극한 진영 대립으로 인한 정국 혼란과 글로벌 관세 전쟁으로 불확실성이 가중되는 등 시국이 어수선하다”면서 “제게 주어진 소명과 역할에 대해 많이 고민했다. 지금은 김태흠을 위한 시간이 아니라는 결론에 이르렀다”고 밝혔다.&lt;br&gt;&lt;br&gt;대선 경선에 돌입하는 국민의힘에는 “환골탈태의 계기로 삼아야 한다”고 말했다. 그는 “촉박한 일정이지만 단순히 반(反)이재명 정서에 기대어 대선을 치르면 필패할 것”이라며 “당 소속 대통령의 탄핵에 대한 성찰과 자성이 우선돼야 하고, 보수의 철학과 미래의 비전을 제시해 환골탈태의 계기로 삼아야 한다”고 했다.&lt;br&gt;&lt;br&gt;김 지사는 “도정에 충실하면서 할 수 있는 역할을 찾아 최선을 다하겠다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>박형준 부산시장 대통령 경선 불출마…“요청 뜻 못 받들어 죄송”</title>
+      <link>https://www.chosun.com/national/national_general/2025/04/10/XIJI5OEOWRAK7JWRKPWDWIBPRY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/10/XIJI5OEOWRAK7JWRKPWDWIBPRY/</guid>
+      <dc:creator>박주영 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 10 Apr 2025 03:55:50 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZRABNS6FXVXLBHEK6UIHDS6IEY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;박형준 부산시장./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;오는 6월 3일 조기 대선을 위한 국민의힘 경선 참여 여부를 놓고 고민 중이었던 것으로 알려졌던 박형준 부산시장이 당내 경선에 참여하지 않겠다고 했다.&lt;br&gt;&lt;br&gt;박 시장은 10일 자신의 SNS에 “많은 분으로부터 당내 경선에 참여해 새로운 리더십 구축에 일조하라는 요청을 받았지만, 저의 의지와 힘이 못 미쳐 그 뜻을 받들지 못해 송구스럽게 생각한다”는 글을 올렸다. &lt;br&gt;&lt;br&gt;그러나 “이 심대한 위기의 시간에 후보 혼자의 권력이 아니라 후보들 사이의 합작, 나아가 광범위한 중도 보수세력의 합작에 의해 권력을 창출하고 권력을 운용하는 초유의 정치 혁신이 꼭 이뤄져야 한다”고 했다. &lt;br&gt;&lt;br&gt;박 시장은 “그렇게 해야만 오늘의 위기를 극복할 수 있고 이 나라를 어디로 끌고 갈지도 모를 세력이 입법 독재에 이어 행정 권력까지 독점하는 사태에 대한 국민의 깊은 불안과 두려움을 해소할 수 있다”며 “이런 합작의 리더십을 구축하는 데 조금이라도 도움이 된다면 저도 힘을 보태겠다”고 말했다.&lt;br&gt;&lt;br&gt;조기 대선이 결정되면서 박 시장은 국민의힘 대선 경선 참여 후보 중의 한 사람으로 거론됐다. 주변 지지자들로부터 “입법, 행정 경험과 어젠다 및 담론 제시 능력을 갖춘 능력을 살려 새로운 리더십 구축에 나서라”는 권유를 받고 있다는 얘기가 돌았다. 때문에 ‘정치 지형이 변하면 박 시장이 대선에 뛰어들 수 있을 것‘이라는 전망이 나오기도 했다.&lt;br&gt;&lt;br&gt;박 시장은 최근 ‘대한민국 재건을 위한 명령‘이란 소책자를 내놨다. 이 책에서 박 시장은 ‘동맹을 강화하고 글로벌 연대로 나아가는 리더십을 펼쳐라‘, ‘저성장과 저출생을 극복할 혁신균형발전 리더십을 발휘하라‘, ‘강한 리더십을 위해 합작 리더십을 구축하라‘는 등 7가지 리더십을 제시했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>검찰, ‘농협은행 부당대출 의혹’ 서영홀딩스 대표 소환</title>
+      <link>https://www.chosun.com/national/court_law/2025/04/10/EF6RBQ7DSFB7ND4SIBDZUK4D3I/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/04/10/EF6RBQ7DSFB7ND4SIBDZUK4D3I/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 10 Apr 2025 04:42:07 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VVKB2RMLYFNUNHMKYYGSPUIGCA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 서울중앙지방검찰청에 경찰 버스가 주차돼 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;NH농협은행의 수십억원대 부당대출 의혹을 수사 중인 서울중앙지검 반부패수사1부(부장 이준동)가 부당대출을 받은 것으로 지목된 차주 업체 서영홀딩스의 한상권 대표를 10일 피의자로 소환해 조사하고 있다.&lt;br&gt;&lt;br&gt;검찰은 서영그룹 측이 농협은행으로부터 30∼40억원대 불법대출을 받은 혐의를 수사 중이다. 서영그룹은 수도권 지역 일간지인 경기신문의 모그룹이다.&lt;br&gt;&lt;br&gt;검찰은 지난 2월 농협은행 본사와 서영홀딩스, 서영산업개발그룹을 압수 수색하며 본격 수사에 착수했다. 전날인 9일엔 서영홀딩스와 서영산업개발그룹을 한 차례 더 압수 수색한 것으로 전해졌다. 지난달에는 서영홀딩스 재무·회계 담당 임원으로 알려진 손모씨를 소환해 조사한 바 있다.&lt;br&gt;&lt;br&gt;농협은행 부당대출 의혹은 2023년 국정감사에서 처음 알려졌다. 당시 농협은행이 서영홀딩스에 신용보증기금의 보증이 나오기도 전 100억원을 대출해줬다는 의혹이 제기된 것이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>창원에 공공어린이재활병원 생긴다...부울경 장애아동 치료 거점 </title>
+      <link>https://www.chosun.com/national/2025/04/10/SH4IUYZKZNBMFGG5FCHKQBMXXM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2025/04/10/SH4IUYZKZNBMFGG5FCHKQBMXXM/</guid>
+      <dc:creator>창원=김준호 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 10 Apr 2025 04:27:04 +0000</pubDate>
+      <content:encoded>부산·울산·경남(부울경) 장애아동의 재활과 치료를 전담하고, 장거리 치료 부담을 덜어 줄 공공어린이재활병원이 경남 창원에 문을 연다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WFHMGHMX5BAPTOSIIXYARXLURE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경남 창원에 조성되는 공공어린이재활병원 조감도. /경남도&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경남도는 10일 창원에서 ‘창원경상국립대학교병원 경남권(부울경) 넥슨어린이재활병원’ 착공식을 열었다. &lt;br&gt;&lt;br&gt;병원은 창원경상국립대병원 인근 창원시 성산구 남산동 일대 1만5043㎡ 부지에 지하 1층~지상 4층, 연면적 7542.34㎡ 규모로 건립된다. &lt;br&gt;&lt;br&gt;병원 건립에는 국비와 지방비, 넥슨재단 기부금 등 총 428억원의 사업비가 투입된다. 내년 1월 개원 예정이다. 현재 운영 중인 충남권 공공어린이재활병원에 이어 전국 2번째다. &lt;br&gt;&lt;br&gt;병원은 50병상 규모로, 재활의학과·소아청소년과·소아치과 등 3개 진료과로 구성된다. 근골격초음파실·임상병리실 등 5개 검사실을 비롯해 물리치료실·작업치료실·로봇치료실·재활심리치료실 등 26개 재활치료실도 갖춘다. &lt;br&gt;&lt;br&gt;로봇보행치료기 등 첨단 재활장비도 도입할 예정이다. 병원 운영은 창원경상국립대병원이 맡는다. 의사 5명, 간호사 14명, 보건직 46명 등이 근무할 예정이다. &lt;br&gt;&lt;br&gt;경남도에 따르면 그동안 부산과 울산, 경남에는 지역 내 장애아동 재활관련 치료 병원이 없어 수도권 등으로 장거리 치료를 받아야 했다. 내년 초 이 병원이 개원하면 부산과 울산, 경남 지역 18세 이하 장애아동 1만4000여명이 안정적이고, 체계적인 재활의료 서비스를 받을 수 있을 것으로 기대된다. &lt;br&gt;&lt;br&gt;박완수 경남도지사는 “경남권 공공어린이재활병원은 부울경 내에서 맞춤식 집중 치료와 교육, 돌봄을 병행하는 의료기관으로서 역할을 할 것”이라고 말했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>“호기심에 붙였다”… 원주 치악산 일대 방화 30대 구속</title>
       <link>https://www.chosun.com/national/incident/2025/04/10/SI7M7DAPD5GBBDHH7IPRUNB7UQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/04/10/SI7M7DAPD5GBBDHH7IPRUNB7UQ/</guid>
@@ -851,73 +932,6 @@
       <content:encoded>국가보안법 위반 혐의로 1심에서 법정 구속된 친북 조직 ‘자주통일 충북동지회’의 연락책 박모(54)씨가 항소심 재판부에 대해 낸 기피 신청이 기각되자 즉시항고한 것으로 9일 확인됐다. 박씨는 이미 1심 당시 기피 신청을 두 차례 내면서 재판을 지연시켰는데, 항소심에서도 같은 전술을 쓰고 있는 것이다. 박씨의 기피 신청으로 재판은 두 달째 열리지 않고 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EKCZ3OKCOZDXRNDAI6OWFWFF6Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대법원 깃발./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 대전고법 청주재판부 형사2부는 박씨가 항소심 재판을 맡은 형사1부를 상대로 낸 기피 신청을 지난달 27일 기각했다. 그러나 박씨는 지난 4일 기각 결정에 불복해 즉시항고했다. 박씨의 기피 신청은 대법원에서 최종 판단을 받게 됐는데, 대법원 판단이 나오기 전까지 재판은 열리지 않는다.&lt;br&gt;&lt;br&gt;박씨는 지난해 9월 1심에서 징역 14년과 자격정지 14년을 선고받고 법정구속됐다. 재판부는 충북동지회가 형법이 규정하는 ‘범죄단체’에 해당한다고 판단했다. 북한의 지령에 따라 국내 정보를 제공한 혐의, 중국 선양에서 북측이 제공한 공작금 2만달러를 받은 혐의 등을 유죄로 인정했다. 2018년 4월 캄보디아에서 다른 조직원이 북측 공작원을 만날 수 있도록 도운 혐의도 유죄로 봤다.&lt;br&gt;&lt;br&gt;박씨와 검찰 모두 항소하면서 항소심은 대전고법 청주재판부 형사1부가 심리하게 됐는데, 이 재판부는 다른 충북동지회 조직원 3명에게 유죄를 선고한 바 있다. 이에 박씨는 “다른 조직원들에게 유죄를 선고한 재판부에서 재판받는 것은 부당하다”며 기피를 신청한 것이다.&lt;br&gt;&lt;br&gt;기피 신청을 법원이 심리하는 기간이 박씨의 구속기간에 포함되지는 않는다. 다만 항소심 재판이 두 차례만 열린 상태여서, 기피 신청이 최종 기각되더라도 박씨는 재판 도중 풀려날 가능성이 높은 상황이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/M6AHVDN4G4HQJLXJ47XPTUZAP4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;창원자통 조직원들이 영장실질심사에 출석하고 있는 모습./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이 같이 기피 신청을 통해 재판을 지연시키는 수법이 만연하다는 것이 법조계 분석이다. 대표적인 사례로는 창원지법에서 1심 재판 중인 ‘창원 자주통일 민중전위’(자통) 조직원들이 있다. 이들은 서울중앙지법 형사30부에서 재판을 받을 당시 재판부 기피를 신청해 6개월간 재판이 멈췄었다. 작년 4월 사건이 창원지법으로 이송됐는데, 첫 정식재판이 열리기도 전에 이들은 재판부 기피를 다시 신청했고, 항고와 재항고를 반복해 냈다. 재판은 5개월 넘게 열리지 않고 있다. 박씨 사건과 마찬가지로 대법원이 기피 여부를 심리 중이다.&lt;br&gt;&lt;br&gt;또 이재명 더불어민주당 대표의 측근 이화영(전 경기도 평화부지사)씨가 대북송금 재판부에 대해 기피 신청을 내 재판을 4개월 넘게 중단 시킨 바 있다. 지난달 28일 대법원이 최종 기각하며 재판은 재개될 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>굶주려 죽고 사체 먹고...반려견 21마리 버리고 이사 간 주인</title>
-      <link>https://www.chosun.com/national/national_general/2025/04/09/VAB2R2FLHRCS5O7KNU4KOEI5EA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/09/VAB2R2FLHRCS5O7KNU4KOEI5EA/</guid>
-      <dc:creator>최혜승 기자 </dc:creator>
-      <description/>
-      <pubDate>Wed, 09 Apr 2025 01:17:43 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HRUPPSP2WBEPVNQVYZ7ZWX4WQ4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;반려견/일러스트 정다운&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;반려견이 21마리까지 불어나 감당하기 어렵게 되자 이들을 놔두고 이사를 간 40대 남성이 징역형의 집행유예를 선고받았다.&lt;br&gt;&lt;br&gt;9일 법조계에 따르면 서울북부지법 형사13단독 김보라 판사는 지난 2일 동물보호법 위반 혐의로 기소된 A(44)씨에게 징역 6개월에 집행유예 2년, 벌금 100만원을 선고하고 80시간의 사회봉사를 명령했다.&lt;br&gt;&lt;br&gt;A씨는 작년 2월 24일 서울 동대문구의 자신의 주거지에 반려견 21마리를 내버려두고 다른 곳으로 이사해 학대한 혐의를 받는다.&lt;br&gt;&lt;br&gt;이 반려견들은 같은 달 29일 112 신고로 출동한 경찰에 구조될 때까지 닷새 동안 방치됐다. 먹이도 없이 버려진 탓에 반려견 중 3마리는 죽었고, 굶주린 다른 반려견들이 그 사체를 뜯어먹기도 했다.&lt;br&gt;&lt;br&gt;A씨는 2020년부터 주거지에서 반려견 1쌍을 키우기 시작했다. 그러다 반려견이 계속 번식하며 21마리까지 늘어나자 사료값과 배설물 처리 등에 부담을 느껴 범행을 저지른 것으로 조사됐다.&lt;br&gt;&lt;br&gt;재판부는 “키우던 반려견을 방치해 3마리를 죽게 하고, 나머지는 유기한 범행을 저질렀음에도 수사기관에서 반성하지 않는 태도를 보이는 등 죄질이 불량하다”며 “현재는 범행을 모두 시인하고 반성하고 있는 것으로 보이는 점 등을 참작해 형을 정한다”고 판시했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[단독] 이공계 우수학생 장학금 환수결정자 21%가 ‘의대 진학’... 절반 이상 환수도 못 해</title>
-      <link>https://www.chosun.com/national/education/2025/04/09/CZ3XC7FV4REBNHCJLMFBYMQ5LI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2025/04/09/CZ3XC7FV4REBNHCJLMFBYMQ5LI/</guid>
-      <dc:creator>오주비 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 09 Apr 2025 01:42:33 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/33MYGBD3WSGIBBLGRFDAK2FNQQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 시내 한 의과대학의 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이공계 우수학생 국가 장학금 중 일부가 ‘의대 진학’을 준비한 이들에게 지급된 것으로 나타났다. 이공계 산업 발전과 과학 기술 분야 국가 경쟁력 향상을 위해 만든 국가 장학금이 부적절하게 쓰이고 있는 것이다.&lt;br&gt;&lt;br&gt;9일 정성국 국민의힘 의원실이 한국장학재단에서 제출받은 ‘이공계 우수학생 국가 장학금 지원 현황’ 자료에 따르면, 최근 5년간 해당 장학금 환수 결정이 내려진 258명 중 54명(약 21%)의 환수 사유는 ‘의대 진학’이었다. &lt;br&gt;&lt;br&gt;한국장학재단 관계자는 “이들은 기존 이공계 학과를 졸업한 후 다시 의대로 진학한 경우”라고 했다. 정부가 4년 내내 이들 54명의 이공계 학과 등록금과 학업 장려비 등을 내줬는데, 학교 졸업 후 의대로 가버린 것이다. 이에 이공계 우수학생 국가 장학금이 본래 취지에 맞지 않게, 의대 가려고 준비하는 이공계 대학생들에게 부적절하게 쓰이고 있다는 지적이 나오고 있다. &lt;br&gt;&lt;br&gt;이공계 우수학생 국가 장학금(대통령과학장학금, 국가우수장학금)은 뛰어난 이공계 학생들이 학업에 전념할 수 있도록 정부가 매 학기 등록금(전액)과 학업 장려비 등을 최대 4~5년간 지원해주는 장학 사업이다. 이 장학금을 받은 학생들은 학교를 거의 공짜로 다니는 대신, 졸업 후 일정 기간 이공계 산업 및 학계 등에 종사해야 한다. 만약 의무 종사 기간을 채우지 않으면 그간 받았던 장학금은 환수 조치 된다. 학교를 다니던 중 이공계 이외 분야로 전공을 바꿔도 마찬가지다. &lt;br&gt;&lt;br&gt;그런데 정부는 의대 진학자에게 지급된 이공계 장학금 13억5100만원 중 7억4300만원은 환수조차 하지 않는다. 지급된 장학금의 절반 이상이 환수되지 않는 것이다. 이는 정부가 이공계 우수학생 장학금을 환수할 때 초기 2년의 지급액은 환수하지 않기 때문이다. &lt;br&gt;&lt;br&gt;더하여 오는 6월 이공계지원특별법 개정안이 시행되면 앞으로 이공계 산학연에 의무 종사하지 않아도 장학금이 환수 조치 대상에 포함되지 않는다.&lt;br&gt;&lt;br&gt;정성국 국민의힘 의원은 “이공계 우수학생 국가 장학금은 의대에 진학하는 이들이 아닌, 장학금이 정말 필요한 이공계 인재들에게 쓰여야 한다”며 “초기 2년 지급액에 대한 미환수 문제 등을 해결할 제도 개선이 필요하다”고 말했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/33MYGBD3WSGIBBLGRFDAK2FNQQ.jpg?width=2671&amp;height=1666&amp;auth=77e18e4a07ec5da1ee7d1c8c7ba6d24bfa83aa415a73b883d9b3fcb2c12c613a&amp;smart=true" type="image/jpeg" height="1666" width="2671">
-        <media:description type="plain">서울 시내 한 의과대학의 모습. /뉴스1</media:description>
-        <media:credit role="author" scheme="urn:ebu">뉴스1 ⓒ News1 김도우 기자</media:credit>
-      </media:content>
-    </item>
-    <item>
-      <title>한국계 NASA 우주비행사 조니 김, ISS 도착</title>
-      <link>https://www.chosun.com/national/people/2025/04/09/KEDG42INM5GNZHR3QJ54D3SXTY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/04/09/KEDG42INM5GNZHR3QJ54D3SXTY/</guid>
-      <dc:creator>김효인 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 08 Apr 2025 16:28:50 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OTQFNPYFIRF6JAGPFZKABGH5VI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;조니 김. /로이터 연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한국계 미국인 우주비행사 조니 김(41)이 국제우주정거장(ISS)에 도착하는 데 성공했다. 2017년 의사이자 해군 장교 신분으로 1600대1의 경쟁률을 뚫고 미 항공우주국(NASA)의 우주비행사로 선발된 지 약 8년 만에 꿈을 이뤘다. &lt;br&gt;&lt;br&gt;조니 김과 러시아 우주비행사 세르게이 리지코프, 알렉세이 주브리츠키를 태운 우주선 소유스 MS-27은 8일 오후 2시 47분(한국 시각) 카자흐스탄 우주기지에서 발사돼 오후 6시 3분 ISS 도킹에 성공했다. 우주비행사들은 앞으로 8개월간 과학 조사와 기술 시연 임무를 수행한 뒤 지구로 귀환할 예정이다.&lt;br&gt;&lt;br&gt;조니 김은 어린 시절의 가정 폭력 등 난관을 극복하고 이라크 전쟁에서 활약해 다수의 훈장을 받은 입지전적 인물로 알려져 있다. 전투 현장에서 맞닥뜨린 비참한 의료 현실을 개선하려 군의관에 지원했고, 하버드대 의학전문대학원에서 의사 면허를 취득했다. 이후 우주에서 과학 연구를 수행하며 인류 발전에 기여하기 위해 NASA 우주비행사가 됐다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[오늘의 날씨] 2025년 4월 9일</title>
-      <link>https://www.chosun.com/national/national_general/2025/04/09/LNQLMJUMOZCOJC4P2GYYCRXR3Q/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/09/LNQLMJUMOZCOJC4P2GYYCRXR3Q/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Tue, 08 Apr 2025 20:03:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TJOTS3BYRVDJDKW4ADGQCSSFMU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>의교협 “내년 의대 정원 3058명 빨리 확정해달라”</title>
-      <link>https://www.chosun.com/national/education/2025/04/09/JM5P4NHUZFHJJM6RQMVX5TJ23I/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2025/04/09/JM5P4NHUZFHJJM6RQMVX5TJ23I/</guid>
-      <dc:creator>최인준 기자, 오유진 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 08 Apr 2025 16:15:38 +0000</pubDate>
-      <content:encoded>의료 단체 모임인 한국의학교육협의회(의교협)가 ‘의대 정원 동결을 조속히 확정해 달라’고 정부에 공식 요구했다. 교육부가 하루빨리 내년도 의대 모집 인원을 증원 전(3058명)으로 되돌리겠다고 확정해줘야 의대생들의 수업 참여율을 높일 수 있다는 것이다. &lt;br&gt;&lt;br&gt;의교협은 정부와 여야에 보낸 공문을 통해 “늦어도 이달 둘째 주까지 수업 정상화가 이뤄지지 않으면 학사 운영에 큰 어려움이 발생한다”며 “이번 주 중 내년도 의대 모집 인원을 3058명으로 확정해 발표해줄 것을 건의한다”고 8일 밝혔다. 1996년 설립된 의교협은 대한의사협회(의협)를 비롯해 대한병원협회·대한의학회·전국의과대학교수협의회 등 12개 의료 단체가 소속돼 있다. 의교협은 공문에서 “정부가 2026년 의과대학 모집 인원을 3058명으로 동결하기로 수용한 것은 의료계와 교육계의 다양한 논의를 반영한 중요한 조치”라며 “이 덕분에 학생들이 등록하여 제적되는 상황을 막았다”고도 했다. &lt;br&gt;&lt;br&gt;의협도 의료 정상화를 위해 내년 의대 정원 확정이 필요하다고 밝혔다. 의협은 8일 브리핑을 열고 “의료 정상화는 차기 정부가 들어서기 전에 현 정부가 해결해야 하는 과제”라며 “정부와 국회에 의료 정상화를 위한 의료계 제안을 논의할 수 있는 장을 마련해 줄 것을 정식 요청한다”고 했다. 의협은 “각 대학 상황을 보면 교육이 불가능한 것으로 판단되는 곳들이 있는데 이는 학생들뿐 아니라 교수들의 의견”이라며 “교육부는 해당 대학들에 대한 자세한 실사를 거쳐 제대로 교육이 가능한지 확인해 2026년 의대 정원을 확정해달라”고 했다. 또 “(의대) 교육이 불가능하다고 판단되는 경우 모집 인원을 줄여달라”고 했다. &lt;br&gt;&lt;br&gt;교육부는 의대별 학생들의 수업 복귀 현황을 보면서 내년 모집 인원 확정 시기를 저울질하고 있다. 서울대 본과생은 최근 사실상 전원 수업에 복귀했지만 아직 연세대, 고려대 등 일부 의대에선 본과생 복귀가 더딘 상황이다. 교육부 측은 “본과생 고학년을 중심으로 수업에 돌아오고 있어 예과생들도 따라 복귀할 것으로 기대한다”면서도 “각 대학의 복귀율 상황을 더 지켜보고 내년 모집 정원 확정 발표 시기를 판단할 예정”이라고 밝혔다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>사드 기밀 유출 의혹… 정의용·정경두 기소</title>
-      <link>https://www.chosun.com/national/court_law/2025/04/09/JMTP5MQQYNGS7NQ7D76CZJTV3Q/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/04/09/JMTP5MQQYNGS7NQ7D76CZJTV3Q/</guid>
-      <dc:creator>유희곤 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 08 Apr 2025 16:14:58 +0000</pubDate>
-      <content:encoded>주한 미군 사드(THAAD·고고도 미사일 방어 체계) 정식 배치를 늦추기 위해 한·미 군사작전 내용을 외부에 유출한 의혹을 수사한 서울중앙지검 공공수사3부(부장 김태훈)는 8일 정의용 전 청와대 국가안보실장과 정경두 전 국방부 장관을 직권남용 혐의로 불구속 기소하고, 이들의 군사기밀보호법 위반 혐의는 군검찰로 이송했다. 또 서주석 전 국가안보실 1차장은 직권남용과 공무상 비밀 누설 혐의로 기소했다.&lt;br&gt;&lt;br&gt;검찰에 따르면, 정 전 실장과 정 전 장관은 2020년 5월 국방부 지역협력반장에게 사드 기지의 유도탄 등을 교체하는 내용의 군사작전정보(군사 2급 비밀)를 사드 반대 단체에 알려주라고 지시한 혐의를 받는다.&lt;br&gt;&lt;br&gt;서 전 차장은 국방부 차관이었던 2018년 4월 2차례, 국가안보실 1차장이었던 2020년 8월부터 2021년 4월 6차례 등 총 8차례에 걸쳐 사드 장비 및 공사 자재 반입 정보를 누설한 혐의다. 또 2018년 4월 ‘사드 기지에 공사 자재를 반입하라’는 국방부 장관 지시를 받고도 임의로 현장 지휘관에게 작전 중단을 명령한 혐의도 받고 있다.&lt;br&gt;&lt;br&gt;검찰은 정 전 실장 등이 주한 미군 철수 등을 주장하는 외부 세력이 사드 반대 단체를 주도하고 있다는 사실을 보고받고도 군사 작전 정보를 누설한 것으로 보고 있다. 작전 당일 집회 참가 인원은 평소보다 최대 4배 늘었고, 이에 대응하기 위한 경찰력도 최대 49배 증가했다.&lt;br&gt;&lt;br&gt;사드는 2017년 4월 경북 성주군에 임시 배치됐다. 약식 절차인 소규모 환경 평가를 하기로 했지만, 문재인 정부 출범 직후 장시간이 소요되는 일반 환경영향평가로 전환됐다. 환경영향평가는 윤석열 정부 출범 이후인 2023년 6월에야 끝났다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>중국 10대 소년까지 공군기지 촬영 “아버지가 공안”</title>
-      <link>https://www.chosun.com/national/national_general/2025/04/09/7HEU2MGNO5HPDNOKS4W6F6URCU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/09/7HEU2MGNO5HPDNOKS4W6F6URCU/</guid>
-      <dc:creator>수원=김현수 기자, 수원=김수언 기자, 이슬비 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 08 Apr 2025 16:14:42 +0000</pubDate>
-      <content:encoded>경기 수원의 공군기지 근처에서 전투기를 촬영하다 붙잡힌 중국인 고등학생이 경찰에 “아버지가 중국 공안(公安)이다”라고 진술한 것으로 알려졌다. 최근 중국인이 군사 시설 등을 무단 촬영하다 적발되는 사례가 잇따르는 가운데, 경찰이 사실관계 확인에 나섰다. &lt;br&gt;&lt;br&gt;8일 수사 당국에 따르면, 지난달 21일 중국인 고등학생 2명이 수원에 있는 공군 제10전투비행단 근처에서 F-16 전투기 등을 촬영하다 경찰에 검거됐다. 경찰은 이들을 군사기지 및 군사시설 보호법 위반 혐의로 입건하고, 출국 정지시킨 상태다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2FFJH3NIV5BGZP7UBUOC2VXME4.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=양인성&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;수사 당국 관계자는 “전투기가 이착륙하는 모습을 찍은 사진이 100장 가까이 나왔다”며 “기지 내부를 찍은 사진은 없었다”고 했다.&lt;br&gt;&lt;br&gt;이들은 주민 신고를 받고 출동한 경찰에 검거됐다. 공군기지에서 수백m 떨어진 논밭에서 DSLR 카메라와 휴대전화로 촬영한 것으로 알려졌다. 망원렌즈를 쓰진 않았다고 한다.&lt;br&gt;&lt;br&gt;경찰은 이들을 경기남부경찰청으로 임의 동행해 조사했다. 이들은 “중국에서 고등학교를 다니고 있으며 특별 휴가를 받고 한국에 왔다” “비행기 사진을 찍는 게 취미다”라고 진술한 것으로 알려졌다. 이들 중 한 명은 “아버지 직업이 공안이다”라고 진술했다고 한다. &lt;br&gt;&lt;br&gt;수사 과정에서 이들이 지난달 18일 관광 비자로 입국한 뒤 경기 평택 오산 공군기지를 찾아가 미군의 F-35 스텔스 전투기를 촬영한 사실도 드러났다. F-35 스텔스 전투기는 미군이 우방국에만 수출하는 전략 자산으로 중국이 경계하는 무기 중 하나다.&lt;br&gt;&lt;br&gt;수사 당국은 이들의 휴대전화에서 부산행 열차를 예약한 사실도 확인한 것으로 알려졌다. 수사 당국은 이들이 미 항공모함을 촬영하기 위해 부산행 열차 표를 끊었을 가능성이 있다고 보고 있다.&lt;br&gt;&lt;br&gt;수사 당국 관계자는 “입국하자마자 중요 군사 시설과 미군의 전략 자산을 촬영한 점 등을 보면 계획적으로 범행을 저지른 것 같다”며 “휴대전화를 디지털 분석해 대공(對共) 혐의가 있는지 수사 중”이라고 했다. 중국 공안과 관련성도 조사 중인 것으로 알려졌다. &lt;br&gt;&lt;br&gt;이와 관련해 한 군사 전문가는 “10대 고등학생들이 어떻게 군사 시설의 위치나 미 항공모함의 입항 일정 등을 파악하고 있었는지 조사할 필요가 있다”고 했다.&lt;br&gt;&lt;br&gt;중국인들이 국가 주요 시설을 몰래 촬영하거나 군사 정보 등을 빼내다 적발된 사례는 최근 1년 새 드러난 것만 5건이다. 작년 6월에는 중국인 유학생 3명이 부산항에 정박 중인 미 항공모함을 드론으로 촬영하다 검거됐다. 당시 항공모함은 한미일 군사훈련에 참가하기 위해 입항했다. 중국인 유학생들은 경계 작전 중이던 육군 간부에게 붙잡혔다. 이들이 찍은 5분짜리 동영상에는 항공모함은 물론 해군 기지 건물도 찍힌 것으로 알려졌다. 이들은 경찰 조사에서 “호기심에 촬영했다”고 진술했다. &lt;br&gt;&lt;br&gt;드론으로 국가정보원을 찍은 중국인도 있었다. 올 1월에는 제주국제공항을 드론으로 무단 촬영한 중국인 관광객이 적발됐다. 제주공항은 국가 중요 시설 중 가장 높은 등급인 ‘가급’ 시설이다. 지난달 29일에는 현역 군인을 매수해 한미 연합 훈련 계획 등을 수집한 중국인이 체포되기도 했다. 수사 당국은 이 중국인이 속한 조직의 총책이 중국군 소속이라는 정황을 확보한 것으로 알려졌다. 수사 당국 관계자는 “실제로는 비슷한 사례가 더 많을 것으로 보인다”고 했다.&lt;br&gt;&lt;br&gt;그러나 적발하더라도 엄중 처벌하기 어렵다. 수사 당국 관계자는 “중국인은 간첩 행위를 하더라도 간첩죄를 적용할 수 없다 보니 보통 군사 기지 및 군사 시설 보호법 위반 혐의로 입건한다”며 “처벌 수위가 최대 3년 이하 징역이나 3000만원 이하의 벌금에 그친다”고 했다.&lt;br&gt;&lt;br&gt;현행 간첩법은 ‘적국(북한)’을 위해서 한 간첩 행위만 처벌한다. 처벌 수위가 사형, 무기 또는 7년 이상의 징역으로 무겁다. 지난해 정치권이 ‘적국’을 ‘외국’으로 바꾸는 내용의 간첩법 개정안에 합의했으나 더불어민주당이 “남용의 우려가 있다”며 반대해 국회 문턱을 넘지 못하고 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>문무일 “2019년 尹 차기 검찰총장 반대...본인에게 양해 구했다”</title>
       <link>https://www.chosun.com/national/national_general/2025/04/08/IXLPNZNOM5DLVCMFINHWR7G76E/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/08/IXLPNZNOM5DLVCMFINHWR7G76E/</guid>
@@ -925,24 +939,6 @@
       <description/>
       <pubDate>Tue, 08 Apr 2025 13:46:12 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VDX2KSGFZBFSRD37GLSN2RZN4I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;문무일 전 검찰총장, 박영선 전 중소벤처기업부 장관, 유재일 법무법인 광장 변호사가 8일 오후 6시 서울 마포구 서강대학교 정하상관에서 '민주주의와 법률가의 역할'을 주제로 열린 특강 후 좌담을 진행하고 있다.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;문무일 전 검찰총장이 재임 시절인 2019년 윤석열 당시 서울중앙지검장이 차기 검찰총장으로 이름이 오르내리자 “‘언젠가 검찰총장을 할 테니 너무 서두르지 말고 이번에는 다른 분이 하면 좋겠다’고 본인에게 양해를 구했다”며 반대했다고 말했다.&lt;br&gt;&lt;br&gt;문 전 총장은 8일 오후 6시 서울 마포구 서강대 정하상관에서 열린 ‘민주주의와 법률가의 역할’을 주제로 한 특강에서 이같이 밝혔다.&lt;br&gt;&lt;br&gt;문 전 총장은 ‘후임 검찰총장으로 윤 전 대통령이 오는 데 반대하셨다고 안다’는 박영선 전 중소벤처기업부 장관의 질문에 “반대했다기보단 시기적으로 안 맞다고 여겼다”고 했다. 그러면서 “어느 정부든 첫 총장은 전 정부를 사정하게 돼 있다. 그러다 보면 조직이 많이 망가진다”며 “두 번째 총장은 조직을 추슬러야 한다. 다음 세 번째는 대통령 힘이 빠지는 시기니 그 정부 비리가 쏟아진다. 세 번째 총장은 그걸 (수사를) 해야 한다. 윤 전 대통령은 세 번째가 맞겠다고 여겼다”고 했다.&lt;br&gt;&lt;br&gt;윤 전 대통령에 대한 헌법재판소의 파면 결정에 대해서도 “법률가는 법리로 말하는데 법리상 너무 명백했다”며 “법률가는 어떤 평가를 할 때 선악이 느껴지게 하는 표현을 하면 안 된다. 이번 결정문에 그런 평가가 절제된 것을 보고 후배들과 사회 구성원에 좋은 영향을 준다고 생각했다”고 했다.&lt;br&gt;&lt;br&gt;문 전 총장은 검찰개혁에 대한 소신을 밝히기도 했다. 문 전 총장은 “검찰이 기소 후 법원의 통제를 받듯 경찰의 수사 또한 통제받아야 한다”며 “수사는 유일하게 합법적으로 개인의 기본권을 침해할 수 있는 행위인 만큼 제대로 된 통제가 중요하다”고 했다. &lt;br&gt;&lt;br&gt;공수처에 대한 비판도 이어졌다. 문 전 총장은 “(공수처가) 수사를 쉽게 생각하는 것 같다”며 “아무나 수사관 자리에 앉혀 놓으면 수사가 되고, 죄 지은 사람 앉혀 놓으면 술술 진술하고 그럴 거라고 생각한 듯하다”고 했다.&lt;br&gt;&lt;br&gt;앞서 문 전 총장은 재임 시절 문재인 정권의 검·경 수사권 조정 문제와 관련해 “엉뚱한 부분에 손을 댄 것”이라며 반대 입장을 공개적으로 밝힌 바 있다.&lt;br&gt;&lt;br&gt;행사 사회를 맡은 박 전 장관은 “검찰총장이 (검·경 수사권 조정에 반대하니) 검찰이 다 반대할 것 아닌가”라며 “근데 윤석열 당시 서울중앙지검장에게 전화를 걸어 문의하니 ‘솔직히 관심 없다. 검찰총장과 저는 생각이 다르다’고 해 소스라치게 놀랐다”고도 했다.&lt;br&gt;&lt;br&gt;국회 사법개혁특별위원장이었던 박 전 장관은 “검찰의 상명하복 문화에서 검찰총장 의견에 반하는 이야기를 그것도, 국회 사개특위 위원장에게 했다”며 “이분을 굉장히 개혁적이라고 생각했다. 요즘 유행하는 ‘폭삭 속았수다’의 한 테마가 될 수 있겠다”고 했다.&lt;br&gt;&lt;br&gt;이날 특강은 서강대 ‘생각의 창’ 주최로 열렸다. ‘생각의 창’은 서강대 기획처장 김상용 교수와 박 전 중소벤처기업부 장관이 공동으로 운영하는 서강멘토링센터의 프로그램이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>이재명 측 “5월 유세 많아 재판 빼달라” 법원 “이미 많이 빠졌다”</title>
-      <link>https://www.chosun.com/national/court_law/2025/04/08/XZSCUOQKN5A35FH7BA7FRVLBPM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/04/08/XZSCUOQKN5A35FH7BA7FRVLBPM/</guid>
-      <dc:creator>김나영 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 08 Apr 2025 12:41:53 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OTKVVUKHWS5X4ZYZHIU336BPBQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이재명 더불어민주당 대표가 8일 서울 서초구 중앙지법에서 열린 대장동 배임 및 성남FC 뇌물 의혹 1심 속행 공판에 출석하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대장동·위례·백현동·성남FC 사건에서 피고인으로 재판을 받는 이재명 더불어민주당 대표의 재판이 내달에도 예정대로 진행된다. 이 대표 측은 “다음달엔 선거 유세가 있으니 재판을 뺄 수 있게 해달라”라고 요청했지만, 재판부는 “이미 너무 많이 빠졌다”며 허가하지 않았다.&lt;br&gt;&lt;br&gt;서울중앙지법 형사33부(재판장 이진관)는 8일 이 대표와 정진상 전 민주당 정무조정실장의 대장동 재판을 진행했다. 해당 재판은 지난 2월 법관 정기 인사로 재판장과 배석 판사 2명이 모두 교체돼 재판 갱신 절차를 진행 중이다.&lt;br&gt;&lt;br&gt;이날 재판 갱신 절차를 마무리한 재판부는 내달 13일과 27일을 공판기일로 추가로 지정했다. 이에 이 대표 측은 “27일은 대통령 선거 일주일 전”이라며 “선거 유세 기간이라 기일을 빼줬으면 좋겠다”고 요청했다. 검찰 측이 “재판을 그대로 진행하는 게 좋다”며 반대하자, 이 대표 측은 “대통령 선거라는 일정은 피고인 개인의 문제가 아니다”라고 맞섰다.&lt;br&gt;&lt;br&gt;재판부가 정확히 어떤 일정이 있느냐고 질문하자, 이 대표 측은 “아직 정해지지 않았는데 이런저런 토론회라든가 국민들에게 알려야 하는 선거 자체 행사들이 많이 있다”고 했다. 그러자 재판부는 “구체적 일정이 정해지면 법원에 관련 자료를 제출하고 필요한 경우 미리 허가를 받으라”며 일단 계획대로 기일을 지정했다. 기일은 예정대로 진행하되, 불출석 사유서를 제출할 경우 상황에 따라 허가할 수 있다는 가능성을 내비친 것이다.&lt;br&gt;&lt;br&gt;한편 윤석열 전 대통령이 파면되면서 제21대 대통령 선거일은 오는 6월 3일로 확정됐다. 공식 선거운동 기간은 오는 5월 12일부터 6월 2일까지다. 이 대표는 9일 당 대표직을 사퇴하고 본격적인 대선 출마에 나선다는 방침이다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>北 6·25때 서울대병원 집단학살... 진실화해위, 20년만에 인정</title>
-      <link>https://www.chosun.com/national/2025/04/08/MQ5SK4XTEFDGNM4W7M3L63DQEI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2025/04/08/MQ5SK4XTEFDGNM4W7M3L63DQEI/</guid>
-      <dc:creator>장윤 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 08 Apr 2025 12:04:18 +0000</pubDate>
-      <content:encoded>6·25전쟁 당시 북한 인민군이 국군 부상병과 우리 측 민간 환자 최소 330명 이상을 총살한 ‘서울대병원 학살 사건’에 대해 진실·화해를 위한 과거사정리위원회(진실화해위)가 ‘집단 학살’로 8일 규정했다. 진실화해위는 정부에 북한 당국의 공식 사과 요구 및 피해 구제책 마련 등을 촉구할 예정이다. 정부의 이번 사건 규명은 전쟁 전후 민간인·군인 희생의 진상을 규명하겠다며 설립된 독립 조사 기관인 진실화해위가 지난 2005년 출범한 지 20년 만에야 이뤄졌다.&lt;br&gt;&lt;br&gt;이 사건은 서울대병원 간호 보조원으로 일하면서 사건을 목격한 고(故) 유월임씨 조카 최롱(82)씨가 지난 2022년 6월 진실 규명을 신청해 그해 9월 조사가 시작됐다. 진실화해위는 미 극동사령부 ‘한국전쟁범죄조사단(Korean War Crimes Division·KWC)’이 북한 포로 심문 및 사건 목격자 진술 등을 종합해 작성한 80쪽짜리 결과 보고서와 현장 조사 및 기타 문헌 자료를 비교·대조하는 방식으로 이 사건을 확인했다.&lt;br&gt;&lt;br&gt;이번 사건에서 유일하게 실명(實名)이 확인된 희생자는 조영일 소령이다. 육사 2기로 육군병참학교 부교장이었던 조 소령은 사건 당시 병원 경비 임무 수행 중 실종됐다. 유해도 지금까지 수습하지 못하고 있다. 조 소령의 딸 조성희씨는 지난 2010년 본지 인터뷰에서 “그해 6월 25일 아침 일찍 아버지가 비상전화를 받고 급히 출근했고, 다시는 돌아오지 않았다”며 “밀고 내려온 인민군들이 사람들을 잡아다가 인민재판을 열어 많은 사람들 앞에서 총으로 쏴 죽였다”고 했다. 이날 진실화해위는 북한 인민군들이 희생자들을 매장했다는 서울대병원 뒷산에 대한 정부의 유해 발굴이 필요하다고 권고했다.&lt;br&gt;&lt;br&gt;이 사건 전말은 KWC 보고서 등으로 외부에 이미 공개돼 있었다. 1963년 서울대병원 후문에는 ‘이름 모를 자유전사(自由戰士)비’라는 제목의 위령비도 건립됐지만, 그러나 국가보훈부가 이 위령비를 현충 시설로 지정한 건 사건 60여 년이 지난 2012년이었다.&lt;br&gt;&lt;br&gt;당초 진실화해위는 지난달 25일 소위원회에서 희생자 규모를 1000명으로 추정해 안건을 통과시켰다. 서울대병원 병상이 800개에 달했고 병상은 물론 복도까지 환자들로 가득했다는 증언 및 공식 문건 등을 기반으로 한 추정치였다. 그러나 이날 전체회의에서는 희생자를 ‘최소 330명 이상’이라고 규정했다. 진실화해위 관계자는 “희생자를 200명 수준으로 규정한 미군 KWC 보고서는 전범(戰犯) 재판 기소를 염두에 두고 작성됐기 때문에 희생자 규모가 과소 평가된 측면이 있다”며 “당시 기록 등이 전쟁 중 소각돼 피해자 신원을 제대로 규명할 수 없다는 점을 감안해 (1000명에서) 희생자 규모를 다소 축소했다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>박나래 용산 자택에 도둑 침입… “귀중품 도난, 경찰 신고 완료”</title>
