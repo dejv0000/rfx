@@ -13,6 +13,99 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>투자사기 충격 ‘동반자살 시도’…아들 살해 친모, 2심도 징역 7년 </title>
+      <link>https://www.chosun.com/national/regional/2025/04/11/OJINY2EAJFGVJCIHNTYR5F7RE4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/04/11/OJINY2EAJFGVJCIHNTYR5F7RE4/</guid>
+      <dc:creator>우정식 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 11 Apr 2025 03:21:22 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NEB72YMFAVHRJKGS7DXJM5DJ5A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원 로고. /조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;1억원대 주식 투자사기 피해를 본 뒤 극단적 선택을 시도하는 과정에서 초등생 아들을 숨지게 한 40대 친모가 2심에서도 1심과 같은 징역 7년을 선고받았다.&lt;br&gt;&lt;br&gt;대전고법 형사1부(재판장 박진환)는 11일 살인 혐의 사건 항소심에서 A씨(46)의 항소를 기각하며, 1심과 같은 징역 7년을 유지했다.&lt;br&gt;&lt;br&gt;A씨 변호인은 결심 공판에서 “심신미약 상태에서 범행한 사정 등을 참작해달라”며 선처를 호소했다. &lt;br&gt;&lt;br&gt;하지만 2심 재판부는 “A씨의 여러 주장은 이미 1심에서 충분히 고려한 것으로 양형을 바꿀만한 새로운 사정을 발견하지 못했다”고 기각 이유를 설명했다.&lt;br&gt;&lt;br&gt;A씨는 지난해 1월 충남 예산의 집에서 아들·딸이 잠든 방 안에서 함께 극단적인 선택을 시도했다. 이 과정에서 A씨는 목숨을 건졌지만, 초등학생 3학년 아들이 숨지면서 A씨에게 살인 혐의가 적용됐다. 뇌변병 장애를 입은 초등생 딸은 24시간 간병인의 도움을 받아야 하는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;A씨는 범행 2개월 전 보이스피싱 주식 투자 사기를 당해 1억원이 넘는 피해를 본 후 자신의 처지를 비관해온 것으로 조사됐다.&lt;br&gt;&lt;br&gt;앞서 A씨에게 피해를 준 범죄조직에 가담해 피해자를 양산한 B씨(41)는 징역 20년형을 선고받고 수감 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>특혜 채용 의혹 文 전 사위도 입건…피의자 6명 됐다</title>
+      <link>https://www.chosun.com/national/court_law/2025/04/11/3YQXFFXCRNA23D7XTIJ6QIU2ZY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/04/11/3YQXFFXCRNA23D7XTIJ6QIU2ZY/</guid>
+      <dc:creator>전주=김정엽 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 11 Apr 2025 03:15:49 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/L5RNEG7TSUFZA475MNRN5FHNUA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;문재인 더불어민주당 대선후보가 2017년 5월 8일 오후 서울 광화문광장에서 진행된 제19대 대통령 선거 마지막 유세에서 딸 문다혜 씨와 손자로부터 카네이션을 선물받고 기념촬영을 하고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;문재인 전 대통령의 전 사위 서모(45)씨의 ‘타이이스타젯 특혜 채용’ 의혹을 수사중인 검찰이 서씨를 문 전 대통령과 같은 혐의를 적용해 피의자로 입건한 것으로 파악됐다.&lt;br&gt;&lt;br&gt;11일 법조계 등에 따르면 전주지검 형사3부(부장 배상윤)는 뇌물수수 혐의로 서씨를 불구속 입건했다. 앞서 검찰은 참고인 신분이었던 문 전 대통령의 딸 다혜씨도 같은 혐의로 피의자로 전환했다. &lt;br&gt;&lt;br&gt;현재까지 이 사건 피의자는 문 전 대통령과 다혜씨, 서씨, 이상직 전 의원(뇌물공여), 박석호 타이이스타젯 대표(업무상 배임), 지난해 12월 기소된 조현옥 전 청와대 인사수석(직권남용권리행사방해) 등 6명이다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ARWJWXBWGZDFPB3JLQMAP5T3NQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이상직 전 더불어민주당 의원이 중소벤처기업진흥공단 이사장 시절인 지난 2019년 12월 5일 전북 전주시 전북도의회 기자실을 방문해 간담회를 하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰은 문 전 대통령 등이 받은 뇌물 액수를 2억2300여 만원으로 특정했다. 서씨가 2018년 7월~2020년 4월 이상직 전 민주당 의원이 실소유한 태국 항공사 타이이스타젯에 임원으로 취업해 받은 급여와 체류비 등을 뇌물로 보고 있다. 검찰은 과거 게임 회사에서 일했던 서씨가 항공업계 실무 경험이 전혀 없는데도 타이이스타젯에 임원으로 입사한 배경이 석연치 않다고 보고 수사에 착수했다. 이 전 의원이 중소벤처기업진흥공단(중진공) 이사장이 된 직후 서씨가 취직한 데 대가성이 있다고 보고 있다.&lt;br&gt;&lt;br&gt;검찰은 문 전 대통령 부부가 다혜씨 가족의 생활비를 책임지다가 서씨가 취직한 뒤 생활비를 주지 않은 것으로 파악했다. 이 때문에 이 전 의원이 준 서씨 월급 등을 뇌물로 보고 있는 것이다. &lt;br&gt;&lt;br&gt;2018년 6~7월 전 사위 서씨의 타이이스타젯 취업과 딸 다혜씨 가족의 태국 이주는 비밀리에 진행된 것으로 알려졌다. 이 전 의원은 2018년 3월 중진공 이사장으로 임명됐고, 이때가 문 전 대통령의 전 사위 서씨가 게임 회사를 그만둔 시점이다. 이 전 의원이 직접 나서 3개월여 만에 해외 취업과 이주 등이 이뤄졌다. 6~7월 서씨가 먼저 출국했고, 이어 다혜씨가 구기동 빌라를 매각한 뒤 아들을 데리고 태국으로 출국했다. 이때 중진공 직원이 개입해 이들의 태국 정착을 도왔다. 다혜씨는 태국에서 돌아온 뒤 2020년 말부터 청와대 관저에서 자녀와 함께 거주해 논란이 됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“광명 신안산선 공사 현장 지하 기둥에 균열” 신고...도로 통제 중</title>
+      <link>https://www.chosun.com/national/incident/2025/04/11/O645JHCBKBDYHK6PJFU2L3LNQE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/04/11/O645JHCBKBDYHK6PJFU2L3LNQE/</guid>
+      <dc:creator>광명=김수언 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 11 Apr 2025 00:29:47 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AVM3FKC6BBOAJC5GRROVCDK6YU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;광명시 일직동 신안산선 복선전철 5-2공구 공사현장. 10일 밤 11시58분 일직동 신안산선 복선전철 5-2공구에서 붕괴위험 신고가 접수된 가운데 경찰과 소방,  공사관계자 등이 인근 주민들의 우회 통행을 안내하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;11일 새벽 경기도 광명시 일직동 신안산선 환기구 공사 현장에서 지하 기둥에 균열이 생겼다는 신고가 접수됐다. 경찰은 혹시 모를 붕괴 위험 등에 대비해 주변 도로를 통제 중이다.&lt;br&gt;&lt;br&gt;경기 광명경찰서에 따르면 이날 오전 12시 30분쯤 광명시 일직동 신안산선 복선전철 민간투자사업 제5-2공구 현장에서 “지하철 공사 중 기둥에 균열이 생겼다. 붕괴 위험이 있다”는 취지의 신고가 광명시청을 통해 접수됐다. &lt;br&gt;&lt;br&gt;공동 대응에 나선 경찰은 현장에 출동해 광명 양지사거리부터 안양 호현삼거리까지 오리로 1㎞ 구간을 통제하고, 안전 조치를 했다.&lt;br&gt;&lt;br&gt;현장에서 일하던 근로자 17명은 스스로 대피했으며, 다친 사람은 없었다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HAJD6TQFDJB3XAZOWTQCO5PNIM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지하 기둥에 균열이 갔다는 신고가 접수된 11일 오전 경기 광명시 일직동 신안산선 복선전철 민간투자사업 제5-2공구 현장에서 소방 관계자들이 현장을 통제하고 있다. /경기도소방재난본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;광명시는 오전 2시 8분부터 3차례에 걸쳐 안전안내 문자를 보내 “일직동 신안산선 환기구 공사 붕괴 위험으로 인해 빛가온초 앞 양방향 교통 통제 중”이라고 알렸다.&lt;br&gt;&lt;br&gt;공사 관계자들은 신고 접수 직후 현장 안전 점검을 실시하고, 곧바로 보강공사에 들어갔다. 경찰은 지반 침하 현상 등을 우려해 대비 중이다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “공사 관계자들과 감리 전문가 등에 따르면, 기둥의 균열이 크진 않은 것으로 파악된다”며 “만약에 발생할 사고를 막기 위해 안전이 확보될 때까지 계속 도로를 통제할 방침”이라고 말했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>이재명, 열흘 만에 ‘선거법 위반’ 상고심 소송기록접수통지서 수령</title>
+      <link>https://www.chosun.com/national/court_law/2025/04/11/656JBZHKHBDPJE5TPJ6GSRSKKM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/04/11/656JBZHKHBDPJE5TPJ6GSRSKKM/</guid>
+      <dc:creator>김나영 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 11 Apr 2025 01:05:10 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NVKWYYRCLWMCOPR5DG6UHUS5KE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이재명 더불어민주당 전 대표가 10일 21대 대통령 선거 출마 영상을 공개했다. 이 전 대표는 먹고 사는 문제를 해결하고 고통 없는 삶을 추구하는 '먹사니즘'을 넘어, 실용주의를 앞세워 더 행복한 삶을 지향하는 '잘사니즘' 등을 강조했다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘공직선거법 위반 사건’ 관련 상고심을 앞둔 이재명 전 더불어민주당 대표가 소송기록접수통지서 등 소송 서류를 수령했다. &lt;br&gt;&lt;br&gt;11일 법조계에 따르면 이 전 대표는 전날 사무원을 통해 법원이 발송한 소송기록접수 통지서와 상고장 부본, 국선변호인 선정 안내 고지서 등을 받았다. 소송기록접수통지서는 항소심 사건 기록이 대법원에 접수됐음을 알리는 공식 문서다.&lt;br&gt;&lt;br&gt;앞서 대법원은 지난달 31일 이 전 대표에게 소송기록접수 통지서를 보냈으나, 이 전 대표 측이 일주일 넘게 수령하지 않아 폐문부재(당사자가 없고 문이 닫혀 있음)로 반송됐다. 이에 대법원은 지난 7일 서울남부지법·인천지법 소속 집행관에게 인편으로 직접 전달하도록 요청했다. 집행관 송달은 우편으로 송달이 이뤄지지 않을 때 실시하는 ‘특별 송달’이다.&lt;br&gt;&lt;br&gt;검찰도 같은 날 담당 재판부인 대법원 3부에 상고이유서를 제출했다. 이 전 대표가 검찰 상고이유서를 송달받으면 그로부터 10일 이내에 이에 대한 답변서를 제출할 수 있다. 답변서 제출 절차까지 마무리되면 대법원은 주심 대법관을 정하고 본격적인 심리에 착수하게 된다.&lt;br&gt;&lt;br&gt;이 전 대표는 지난 대선을 앞둔 2021년 12월 방송에서 대장동 개발 실무 책임자인 고(故) 김문기 성남도시개발공사 처장을 성남시장 재직 중에 알면서도 몰랐다고 하고, 같은 해 10월 국정감사에서 “국토교통부 협박으로 백현동 부지 용도를 상향했다”고 발언해 허위 사실 공표 혐의로 2022년 9월 기소됐다.&lt;br&gt;&lt;br&gt;1심은 이 전 대표에게 징역 1년에 집행유예 2년을 선고했지만, 2심은 지난달 26일 이 전 대표에게 무죄를 선고했다. 검찰이 상고하면서 이 사건은 지난달 28일 대법원에 접수됐다.&lt;br&gt;&lt;br&gt;한편 이 전 대표는 11일 기자회견을 열고 제21대 대통령 선거 출마를 선언했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“대국민 사기극 피의자” 표현에 2억 소송... 기성용 폭로자들, 항소심도 패소</title>
+      <link>https://www.chosun.com/national/national_general/2025/04/11/EP7LOY56GVCL5OB2GXFUDELAFE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/11/EP7LOY56GVCL5OB2GXFUDELAFE/</guid>
+      <dc:creator>박선민 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 11 Apr 2025 01:45:03 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GRCZSIUDTBFOXJRLBLWTMIGTN4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2021년 3월 31일 기성용이 초등학교 시절 후배에게 성폭력을 가했다는 의혹으로 고소인 조사를 받기 위해 서울 서초경찰서에 출석했다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;축구선수 기성용(FC서울·36)의 성폭력 의혹을 제기한 폭로자들이 기성용을 대리했던 변호사를 상대로 낸 손해배상 소송 항소심에서도 패소했다.&lt;br&gt;&lt;br&gt;서울중앙지법 민사항소7-2부(해덕진 김동현 김연화 부장판사)는 10일 성폭력 의혹 폭로자 A씨와 B씨가 기성용의 법률 대리인이었던 송상엽 변호사를 상대로 낸 손해배상 청구 소송 2심에서 1심과 같이 원고 패소로 판결했다.&lt;br&gt;&lt;br&gt;앞서 A씨와 B씨는 2021년 2월 초등학생 시절 기성용을 비롯한 선배들로부터 성폭력을 당했다고 주장했고, 송 변호사는 이런 혐의를 부인하는 과정에서 이들을 ‘대국민 사기극 피의자’ 등으로 표현했다. 이에 A씨와 B씨는 같은 해 5월 변호사의 표현이 허위 사실 유포에 의한 명예훼손이라며 고소장을 제출하고 2억원 규모의 손해배상 소송을 제기했다. &lt;br&gt;&lt;br&gt;다만 작년 8월 1심은 원고 패소 판결을 내렸다. 당시 재판부는 “해당 표현은 다소 자극적이긴 하지만, 의뢰인의 입장을 대변한 것”이라고 판시했다. 아울러 “의뢰인이 유명한 축구 선수이고 원고들의 언론에 대한 폭로로 인해 사건이 국민에게 널리 알려진 상황이었다”며 “언론을 상대로 의혹이 사실이 아님을 강변하는 것도 법률 대리인으로서 필요한 범위 내의 업무로 볼 수 있다”고 했다. &lt;br&gt;&lt;br&gt;경찰은 기성용의 성폭력 의혹에 대해 지난 2023년 8월 증거가 충분치 않다며 불송치 결론을 내렸다. 당시 경찰은 기성용에게 명예훼손으로 고소당한 A씨와 B씨에 대해서도 같은 결정을 했다. &lt;br&gt;&lt;br&gt;다만 기성용은 경찰 무혐의 결정과 별개로 성폭력 의혹을 제기한 A씨와 B씨를 상대로 5억원 규모의 손해배상 소송을 냈다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>경북도, 6월까지 ‘산불 피해 주민 마음 회복 프로그램’ 운영</title>
+      <link>https://www.chosun.com/national/regional/2025/04/11/AQWBYKUTI5DADLBORNEJIUDZUM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/04/11/AQWBYKUTI5DADLBORNEJIUDZUM/</guid>
+      <dc:creator>노인호 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 11 Apr 2025 01:39:01 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7KNFZJEOTRGFJMWUI2KGVRGDFI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경북도는 ‘산불피해 주민 마음 회복 프로그램’을 운영한다고 11일 밝혔다. 사진은 경북 영주 국립산림치유원에서 휴식을 취하고 있는 시민들의 모습./국립산림치유원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경북도는 국립산림치유원과 함께 ‘산불 피해 주민 마음 회복 프로그램’을 운영한다고 11일 밝혔다. &lt;br&gt;&lt;br&gt;산불로 심리적 충격과 일상 붕괴를 겪은 피해 주민이 마음의 안정을 되찾고 다시 일상으로 복귀할 수 있도록 돕기 위한 프로그램이다. 산불 피해 주민과 그 가족이라면 누구나 시·군 단체 신청을 통해 무료로 참여할 수 있다. 영주시 봉현면 국립산림치유원에서 1박 2일 숙박형 프로그램으로 오는 6월까지 진행할 계획이다. &lt;br&gt;&lt;br&gt;경북도에 따르면, 숲의 소리, 자연의 향기, 편안한 움직임이 어우러진 이 활동은 불안, 불면, 외상 후 스트레스(PTSD) 증상 해소에 실질적인 효과가 있다고 한다. &lt;br&gt;&lt;br&gt;조현애 경북도 산림자원국장은 “산불이 남긴 상처는 외상뿐 아니라 마음 깊은 곳까지 이어지는 만큼 피해 주민들에게 작지만 의미 있는 위로가 되고, 치유와 회복의 출발점이 될 수 있길 바란다”며 “이번 프로그램을 시작으로, 산불 등 재난 발생 이후 주민 심리 회복을 돕기 위한 공공 치유 서비스를 지속적으로 확대해 나갈 계획”이라고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>주말 전국에 강한 봄비...일요일 꽃샘추위</title>
+      <link>https://www.chosun.com/national/transport-environment/2025/04/11/SS7MMAMWABCMHILY45RZW2AWLU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/04/11/SS7MMAMWABCMHILY45RZW2AWLU/</guid>
+      <dc:creator>박상현 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 11 Apr 2025 01:54:07 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PHC2Z2FL35P5RH3C5FKLOMEZW4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;봄비가 내린 지난달 27일 부산 연제구의 한 거리에서 우산을 쓴 시민들이 활짝 핀 벚꽃나무 아래를 지나가고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이번 주말 전국에 강한 봄비가 예고됐다. 돌풍과 천둥·번개를 동반한 요란한 비가 쏟아질 것으로 전망됐다. 세찬 비에 봄꽃도 대부분 떨어질 것으로 보인다.&lt;br&gt;&lt;br&gt;기상청에 따르면, 12일 중국 상하이 부근에서 발달한 저기압이 우리나라를 통과하며 전국에 비가 내리겠다. 비는 12일 오전 제주에서 시작돼 오후에 전국으로 확대되겠다. 비는 12일 밤 대부분 그치겠으나, 경기동부·강원·충북·경상 일부 지역에선 13일 새벽까지 이어지는 곳이 있겠다. 12~13일 예상 강수량은 수도권과 강원·충청 5~20mm, 호남·영남 5~50㎜, 제주 10~80mm 등이다.&lt;br&gt;&lt;br&gt;비구름대는 강풍도 동반하겠다. 12일 오후부터 수도권과 충남·전라·제주, 밤부터 강원·충북·경상권에 간판이 흔들릴 정도인 순간풍속 초속 20m의 세찬 바람이 불겠다. 태풍의 순간풍속이 초속 17m 이상이기에 태풍급의 바람이 부는 셈이다.&lt;br&gt;&lt;br&gt;13일에는 꽃샘추위가 찾아올 것으로 보인다. 현재 한반도 북쪽으로 영하 35도 안팎의 북극 찬 공기를 머금은 절리저기압이 자리하고 있는데, 이곳에서 불어오는 찬 바람이 기온을 크게 떨굴 것으로 예상됐다. 12일 아침 최저기온은 5~13도, 낮 최고기온은 15~22도로 평년보다 2~7도 가량 높겠고, 13일은 최저 2~9도, 최고 11~17도로 평년보다 2~8도 가량 낮겠다. 찬 바람 탓에 13일 강원산지에는 1~5㎝의 눈이 내리겠고, 강원내륙에도 1㎝ 안팎의 적설이 예상됐다.&lt;br&gt;&lt;br&gt;찬 바람과 강수는 다음주까지 이어지면서 월요일 출근길이 혼잡할 것으로 보인다. 14일 새벽 수도권과 강원·충청·경북에 비나 눈이 내리기 시작해 오전에 호남, 오후에 경남으로 강수가 확대되겠다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>57년 세월, 형·동생이 됐다… 김신조 장례식장 온 간첩신고 나무꾼</title>
+      <link>https://www.chosun.com/national/national_general/2025/04/11/FA6WJZ22O5BV7LIKOLBP6TPBJY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/11/FA6WJZ22O5BV7LIKOLBP6TPBJY/</guid>
+      <dc:creator>이가영 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 11 Apr 2025 01:01:12 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Q7MNVBBLZVIVRKAGHYEW5RDJ2Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 10일 오후 서울 영등포구 고 김신조 목사 빈소에서 우성제(왼쪽부터)씨와 고인의 아내, 딸이 기념사진을 찍고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;10일 오후 ‘청와대 습격 사건’의 북한 무장 공비 출신 고(故) 김신조 목사의 빈소가 차려진 서울 영등포구 장례식장에 우성제(77)씨가 나타났다. 우씨는 고인을 포함한 북한 민족보위성 정찰국 124부대 소속 공작원 31명의 침투 사실을 경찰에 처음 신고한 ‘나무꾼 4형제’ 중 막내다. &lt;br&gt;&lt;br&gt;이들의 인연은 57년 전으로 거슬러 올라간다. 1968년 1월 19일 눈으로 덮인 경기도 파주군 천현면 법원리 삼봉산 기슭에서 나무꾼 우씨 4형제는 북한 공작원 무리와 마주쳤다. 우씨 나이 20살 때였다. &lt;br&gt;&lt;br&gt;김씨와 우씨는 2014년 한 방송에 함께 출연해 당시를 회상했다. 김씨는 “우리를 본 나무꾼들이 지게와 나무를 다 버리고 가더라. 이건 분명히 신고하러 가는 것이었다”고 했다. &lt;br&gt;&lt;br&gt;급하게 나무꾼들을 붙잡아온 북한 공작원들 사이에서 투표가 벌어졌다. 자신들을 발견한 민간인들을 살릴 것인가, 죽일 것인가. ‘청와대로 가는 길에 만나는 누구든 무조건 죽이고 땅에 파묻어서 흔적을 없애라’는 것이 임무였다고 한다. &lt;br&gt;&lt;br&gt;김씨는 “죽이는 건 간단한데, 땅이 얼어서 팔 수가 없었다”며 “심지어 4명을 묻을 땅을 파야 하는데 땅을 파겠다고 나서는 사람이 없었다”고 했다. 투표 결과는 ‘살리자’는 쪽이 절대다수였다고 한다. &lt;br&gt;&lt;br&gt;다만, 나무꾼들이 신고하지 못하도록 해야 했다. 김씨는 “사람들은 물질에 약하지 않나. 당시 북한에서도 귀하던 시계를 풀어주고, 통일되면 지역 군수를 시켜주겠다는 제안도 했다”며 “그야말로 무장공비식 포섭이었다”고 했다. &lt;br&gt;&lt;br&gt;하지만, 우씨가 기억하는 당시 상황은 조금 다르다. 우씨는 “누가 봐도 간첩인 사람들이 엿도 주고, 오징어도 주는데 죽을 상황에 먹히기나 했겠느냐”며 “신고하지 않겠다는 서약서를 쓰라는 말에 그제야 ‘살길이 있는가 보다’ 생각이 들었다”고 했다. &lt;br&gt;&lt;br&gt;서약서를 쓰자 북한 공작원은 자신들 때문에 일을 못했으니 팔아서 쓰라며 시계를 건넸다고 한다. 우씨는 그러나 “그 시계, 나중에 보니 팔아도 돈도 안 되는 시계였다”고 말하며 웃었다. &lt;br&gt;&lt;br&gt;그렇게 나무꾼들을 풀어주고 김씨 일행은 계속 서울을 향해 나아갔다. 이틀 뒤 북한산 비봉에 도달하자 아침부터 헬리콥터가 떠다니고, 도로는 통제되어 있었다. 김씨는 “그때 나무꾼들이 신고했다는 걸 딱 느꼈다”고 했다. 실제로 우씨 형제들은 ‘신고하면 마을을 쑥대밭으로 만들겠다’는 협박에도 풀려난 그 길로 파출소에 들러 신고했다. &lt;br&gt;&lt;br&gt;&lt;b&gt;◇”계속 만나보니 우리 형님 같더라고”&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LOIEY7LMM5AHHHQXDNNVG6YWKQ.png"&gt;&lt;figcaption&gt;&lt;small&gt;2014년 함께 방송에 출연한 김신조(오른쪽)씨와 우성제씨. /MBN&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김씨와 우씨는 절대 함께할 수 없을 것 같은 사이지만, 최근까지 여러 차례 왕래하며 인연을 이어왔다. 우씨는 “나중에 여러 단체에서 하는 ‘김신조 루트’ 따라가기 행사 등에서 자주 만나게 됐다”며 “만나다 보니 친숙해지고, 저보다 연배도 많으시니 우리 형님 같고. 그러다가 계속 친하게 지내고 있다”고 했다. 우씨는 김씨가 1997년 서울성락교회 목사 안수를 받던 자리에도 참석해 누구보다 아낌없는 축하를 보냈다고 한다. &lt;br&gt;&lt;br&gt;김씨는 “처음에는 약속을 안 지키고 신고했으니 아무리 생각해도 나무꾼 형제들이 괘씸했다”고 했다. 하지만 “우씨 형제가 없었다면 작전 실패도 없고, 대한민국이 공산화됐을 수 있다”며 “비록 가난한 나무꾼이지만 얼마나 애국자냐”고 추켜세웠다. 김씨는 생전 여러 차례 “우씨 형제가 대한민국을 살렸다”고 했다. &lt;br&gt;&lt;br&gt;그렇게 50년 넘게 우정을 이어온 김씨에게 작별 인사를 하기 위해 우씨는 장례식장을 찾았다. 우씨는 조문 후 김씨 아내의 손을 맞잡고 한동안 놓지 못했다. &lt;br&gt;&lt;br&gt;그는 “지난해 여름 치매를 앓고 계신 중에도 동생을 알아보고 반가워하던 모습이 눈에 선하다”며 “건강하게 더 오래 사셨으면 좋았을 텐데, 아쉽고 슬프다. 좋은 곳에서 영면하시길 바랄 뿐”이라고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>가수 김정민 아들, 日국가대표로 U-17 아시안컵 출전해 첫 득점</title>
+      <link>https://www.chosun.com/national/people/2025/04/11/H5DD7SDMCVBWZJQTFHU2Y3F3RQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/04/11/H5DD7SDMCVBWZJQTFHU2Y3F3RQ/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 11 Apr 2025 00:32:51 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CZYUJTKQAPNJLCU7ALHEFYBJHM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;오산중 2학년 때의 김도윤과 김정민. /스포츠조선&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;가수 김정민(57)의 아들 김도윤(17‧일본명 다니 다이치)이 2025 아시아축구연맹(AFC) 17세 이하(U-17) 아시안컵에 일본 대표로 출전해 첫 득점을 기록했다. &lt;br&gt;&lt;br&gt;김도윤은 11일 사우디아라비아 타이프 오카즈 스포츠 클럽 경기장에서 열린 호주와 조별리그 B조 최종전 후반 41분에 왼발 슈팅으로 대회 첫 득점을 했다.&lt;br&gt;&lt;br&gt;이날 김도윤은 후반 33분 교체로 투입돼 8분 만에 골을 넣었으나 일본은 결국 2-3으로 졌다.&lt;br&gt;&lt;br&gt;김도윤은 김정민과 일본인 아내 다니 루미코의 둘째다. 이중 국적인 그는 K리그1 FC서울 산하 유소년팀인 오산중학교에서 뛰다가 일본으로 유학을 떠났다. 현재 일본 J리그 사간 도스 U-18세팀에서 뛰고 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MKMJXCPOPBBMRH2EBE6BICCWOE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;과거 가수 김정민이 둘째 아들 김도윤과 함께 출연한 방송 장면. /JTBC&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김도윤은 과거 일본 매체와의 인터뷰에서 “일본에 가고 싶었다. 이적한다면 가장 강한 팀이 좋겠다고 생각했다”며 “그래서 당시 우승을 했던 사간 도스를 선택했다”고 말했다.&lt;br&gt;&lt;br&gt;조별리그 성적 1승 1무 1패를 거둔 일본은 호주(1승 1무 1패·골 득실 －2)에 골 득실차(＋2)로 앞서 B조 1위를 확정했다.&lt;br&gt;&lt;br&gt;한국은 C조 2위로 조별리그를 통과해 일본과는 준결승에서 만날 수 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[단독] 다자녀 전형, 형제 ‘2명’이어도 지원 가능한 대학들 등장</title>
+      <link>https://www.chosun.com/national/education/2025/04/11/MKJ5PB6VCJEVHI2OU7AVEJGZ6E/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/education/2025/04/11/MKJ5PB6VCJEVHI2OU7AVEJGZ6E/</guid>
+      <dc:creator>오주비 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 11 Apr 2025 00:20:20 +0000</pubDate>
+      <content:encoded>두 자녀 가정 자녀들도 ‘다자녀 특별전형’을 쓸 수 있도록 한 대학들이 등장했다. 그동안 대입 다자녀 특별전형은 주로 셋 이상 자녀를 둔 가정이 대상이었는데, 자격 기준을 완화하는 대학들이 늘고 있는 것이다. 지방 대학들이 지원자를 늘리기 위한 전략이라는 분석도 있다. &lt;br&gt;&lt;br&gt;올해 고3들이 지원하는 2026학년도 대학 입시에서 대전대와 우송대, 선문대 등 3곳이 다자녀 특별 전형 지원 자격을 기존 ‘3자녀 이상’에서 ‘2자녀 이상’ 가정으로 낮췄다. 형제가 두 명 이상이면 가정 형편과 상관 없이 지원할 수 있다.&lt;br&gt;&lt;br&gt;대학들은 고등교육법에 따라 전체 모집 인원의 10% 정도를 저소득층, 장애인, 탈북자 등 사회적 배려 대상자를 뽑아야 한다. 이들은 별도 ‘기회 균형 전형’으로 뽑기 때문에 일반 학생들에 비해 입학이 수월한 편이다. 최근 저출산이 심각해지면서 ‘기회 균형 전형 대상’에 다자녀 가정 자녀를 포함시키는 대학이 늘어나고 있다. &lt;br&gt;&lt;br&gt;대입에서 다자녀 기준을 완화한 대학들은 다자녀 가정 범위를 확대하는 정부 정책 방향을 따른 것이라고 밝혔다. 대통령 직속 저출산고령사회위원회는 2021년 다자녀 정책 지원 대상 기준을 ‘세 자녀 이상’에서 ‘두 자녀 이상’으로 낮췄다. 당시 위원회는 “세 자녀 이상 가구가 전체 유자녀 가구 중 7.4% 정도로 축소된 만큼 정책 혜택 체감도를 높이기 위해 두 자녀로 완화하기로 했다”고 설명했다. 이에 따라 자녀가 둘 이상인 가정은 어린이집 입소 1순위, 공공주택 우선 공급 혜택 등을 받고 있다.&lt;br&gt;&lt;br&gt;인구 감소로 학생 모집이 쉽지 않은 대학들이 지원자 수를 늘리기 위한 방편으로 다자녀 기준을 낮추는 측면도 있다. 특히 기회 균형 전형은 자격 기준이 까다롭기 때문에 지원율도 낮은 편이다. 선문대 관계자는 “사실 세 자녀 가정이 많지 않기 때문에 두 자녀 가정으로 대상을 확대하면 지원율이 높아질 것”이라고 말했다. &lt;br&gt;&lt;br&gt;일각에선 다자녀 가정 자녀를 사회적 배려 대상으로 보는 게 맞느냐는 목소리도 있다. 자녀가 많을수록 양육비와 교육비가 많이 드는 건 맞지만, 소득이 높고 경제적 여유가 있을수록 아이를 많이 낳는 분위기이기 때문이다. ‘기회 균형 전형’ 대상에 다자녀 가정을 포함시키면 저소득층 자녀, 장애인 등 다른 대상들이 대학에 입학할 기회가 줄어들 수도 있다. 실제로 올해 카이스트의 ‘기회 균형 전형’ 입학생 가운데 다자녀 가정 자녀는 59명 중 25명(42%)으로 기초 생활 수급자(11명), 농어촌 출신(11명), 차상위(4명), 다문화(4명) 등에 비해 압도적으로 많았다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/RF6CVCBXANAKTDXNFQ375GPYHQ.jpg?width=700&amp;height=425&amp;auth=3dd9a1a409862f6c5eb5e91392edd71e63bf9b7103bf6fa0757a023bd84d793f&amp;smart=true" type="image/jpeg" height="425" width="700">
+        <media:description type="plain">선문대 제공</media:description>
+      </media:content>
+    </item>
+    <item>
       <title>[단독] 고려대 의대 본과 3·4학년 110여명 유급 결정</title>
       <link>https://www.chosun.com/national/education/2025/04/11/62YLHTAWOZETBLYUSFTF2GZB4Y/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/education/2025/04/11/62YLHTAWOZETBLYUSFTF2GZB4Y/</guid>
@@ -830,69 +923,6 @@
       </media:content>
     </item>
     <item>
-      <title>광운대·국립창원대, 첨단산업 분야 교류·협력 업무협약</title>
-      <link>https://www.chosun.com/national/education/2025/04/10/T23UQB4V4JACVLQTF5LM6XC4BY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2025/04/10/T23UQB4V4JACVLQTF5LM6XC4BY/</guid>
-      <dc:creator>김승범 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 10 Apr 2025 01:56:57 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KXU2YF5LMRHQLC4AKLGVVGFLYA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;광운대와 국립창원대가 9일 광운대 화도관 혁신전략회의실에서 첨단 산업 분야 교류와 협력을 위한 업무협약(MOU)을 체결한 후 국립창원대 박민원 총장(왼쪽)과 광운대 천장호 총장이 업무협약서를 들어보이고 있다.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;광운대학교와 국립창원대학교는 9일 첨단 산업 분야 교류와 협력을 위한 업무협약(MOU)을 체결했다고 밝혔다. &lt;br&gt;&lt;br&gt;두 대학은 첨단산업 분야 혁신 R&amp;amp;D 과제 공동 발굴, 첨단산업 분야 기업과 연계한 현장실습 프로그램 공동 운영, 첨단산업 분야 공동교육과정 및 공동 학위과정 운영, 첨단산업 분야 관련 학회 신설 및 정기적 세미나 공동 개최, 대형 R&amp;amp;D 사업 수주를 통한 연구비 확보, 기타 첨단산업 분야 산학협력에 관해 협력하기로 했다.&lt;br&gt;&lt;br&gt;광운대 천장호 총장은 “국립창원대학교와의 긴밀한 협력을 통해 산학연 연계 기반의 공동 연구, 교육과정 개발, 현장 중심의 실습 프로그램 등을 확대해 나갈 것”이라며 “앞으로도 지속적인 교류를 통해 양 대학의 경쟁력을 높이고, 국가와 지역사회 발전에 기여할 수 있도록 적극적으로 노력하겠다”고 말했다. 국립창원대 박민원 총장은 “첨단산업 분야 고급인재 양성을 위해 두 학교가 실질적·다각적 협력을 추진함으로써 지역과 국가 미래 발전에 앞장서 나갈 것”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>서울 지하철 7호선 숭실대입구역서 연기 발생…40분간 무정차 통과</title>
-      <link>https://www.chosun.com/national/national_general/2025/04/10/WNGX4S2XJBFO5LYJVKTV5AILMM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/10/WNGX4S2XJBFO5LYJVKTV5AILMM/</guid>
-      <dc:creator>김영우 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 10 Apr 2025 01:29:23 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TEEZEGZWAJA4BBZ4G3CWLQGTV4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 지하철 승강장. 기사와는 관계 없음. /장련성 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;10일 서울 지하철 7호선 숭실대입구역에서 연기가 발생해 7호선 양방향 열차가 오전 9시 50분쯤부터 40분간 무정차 통과했다.&lt;br&gt;&lt;br&gt;서울교통공사에 따르면, 이날 오전 9시 30분 숭실대입구역 지하 2층 대합실에서 연기가 발생했다.&lt;br&gt;&lt;br&gt;공사는 이에 따라 오전 9시 50분쯤부터 오전 10시 28분까지 7호선 상·하행선 양방향 열차를 모두 무정차 통과시켰다.&lt;br&gt;&lt;br&gt;공사 관계자는 “에스컬레이터 용접 작업 중 불똥이 튀어 연기가 난 것으로 보고 있다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘음주 사망 사고’ 조형기 “텔레비전에 내가 나왔으면”</title>
-      <link>https://www.chosun.com/national/national_general/2025/04/10/JV3W5GKNMZEPRBO6MNJI7UZ2FA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/10/JV3W5GKNMZEPRBO6MNJI7UZ2FA/</guid>
-      <dc:creator>박선민 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 10 Apr 2025 00:22:48 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/P6ZYZGP6ONF43JPCDUSGMICSEI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;방송인 조형기. /Osen&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;과거 음주 운전 사망 사고 전력이 재조명되면서 방송가에서 자취를 감췄던 방송인 조형기(66)씨가 한 연예인 모임에서 TV출연을 하고 싶다는 뜻을 밝힌 사실이 뒤늦게 전해졌다. &lt;br&gt;&lt;br&gt;조씨의 비교적 최근 모습이 포착된 건 작년 12월 2일 유튜브 채널 ‘스마일 공연단’에 올라온 한 영상에서다. &lt;br&gt;&lt;br&gt;영상에서 조씨는 ‘탤런트 연우회 정기모임’ 플래카드가 걸린 무대에 올라 “TV에 나올 기회가 점점 줄어들고 있지 않나. 이 자리에서 늘 이게 천직이라 생각하고 기죽지 않고 열심히 하는 모습이 너무 보기 좋고 감동”이라며 “동요 중에 ‘텔레비전에 내가 나왔으면 정말 좋겠네’ 그런 노래가 있다. 이제는 동요가 아니라 우리들의 노래가 된 것 같다”고 했다. &lt;br&gt;&lt;br&gt;조씨는 방송 출연 기회가 줄어든 데 대해 “요즘엔 xx할 xx들이 애들 나오는 프로그램밖에 안 만든다”고 불만을 토로했다. 이어 “옛날에는 실장이면 40세, 검사면 50세쯤 되는 사람을 썼다. 근데 지금은 한 스물 몇 살이 검사, 실장님을 한다”며 “아버지도 점점 젊어진다”고 했다. 아울러 “임금님은 영조, 정조 빼고 다 애들이 한다”며 “그럼 그 밑에서 조형기가 정 2품을 하겠어, 정 3품을 하겠어. 자연히 ‘까이는’ 거다”라고 했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5QDZSJCDRRAJXAQQSPKOUSWQFE.png"&gt;&lt;figcaption&gt;&lt;small&gt;방송인 조형기의 근황이 작년 12월 한 유튜브 채널에 올라온 영상을 통해 뒤늦게 알려졌다. /유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그는 “내년엔 소재가 다양해져서 텔레비전에 내가 나왔으면 정말 좋겠네가 되길 진심으로 바란다”는 인사말을 끝으로 짧은 무대 인사를 마쳤다. &lt;br&gt;&lt;br&gt;조씨는 1991년 음주 운전 사고를 내 30대 여성을 숨지게 한 혐의 등으로 징역 2년에 집행유예 3년을 선고받았다. 당시엔 이 사건이 큰 주목을 받지 못했으나, 사고 전력이 인터넷을 타고 뒤늦게 알려지면서 비판이 일자 2017년을 끝으로 방송가에서 모습을 감췄다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“애국가 부르면 일당 100만원”…한화이글스 이색 꿀알바 모집 </title>
-      <link>https://www.chosun.com/national/national_general/2025/04/10/JF5PFDPXTBCFLEZWKDHNJECPEI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/10/JF5PFDPXTBCFLEZWKDHNJECPEI/</guid>
-      <dc:creator>최혜승 기자 </dc:creator>
-      <description/>
-      <pubDate>Thu, 10 Apr 2025 00:21:54 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SYP7V2AKZ5EMRETL6ACEVUTP24.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한화이글스 시구, 시타, 애국가 제창 아르바이트 모집 공고./ 알바몬·잡코리아&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;프로야구 경기에서 시구·시타를 하거나 애국가를 부르면 일급 100만원을 받을 수 있는 아르바이트 공고가 올라왔다.&lt;br&gt;&lt;br&gt;10일 잡코리아와 알바몬은 오는 30일 대전 한화생명 볼파크에서 열리는 한화이글스와 LG트윈스 간 경기의 시구자, 시타자, 애국가 제창 아르바이트를 모집한다고 밝혔다.&lt;br&gt;&lt;br&gt;시구자는 잡코리아, 시타자는 알바몬 플랫폼에서 모집한다. 자신만의 특별한 사연이나 지원 동기 등을 작성해 제출하면 심사를 거쳐 최종 선발될 예정이다.&lt;br&gt;&lt;br&gt;성과에 따라 인센티브도 지급한다. 시구자가 시구 시속 100㎞를 달성하면 10만원, 120㎞는 20만원을 추가 지급한다. 시타자는 시타 후 ‘알바몬 뿔 포즈’를 취하면 10만원을 보너스로 받는다.&lt;br&gt;&lt;br&gt;애국가 제창은 최대 3팀을 선발한다. 국적과 나이 제한 없이 누구나 지원할 수 있으며, 팀별로 노래하는 영상을 소셜미디어나 유튜브에 올린 뒤 지원서에 링크를 첨부해 제출하면 된다.&lt;br&gt;&lt;br&gt;이번 아르바이트 모집은 오는 20일까지 진행된다. 결과는 22일 잡코리아와 알바몬 홈페이지를 통해 발표하고 개별 안내할 예정이다.&lt;br&gt;&lt;br&gt;잡코리아와 알바몬은 작년에도 시구·시타 아르바이트를 모집한 바 있다. 당시 이벤트 공고는 조회 수 25만회, 지원자 2만2559명을 기록하며 큰 반응을 얻었고, 잡코리아는 애국가 제창 알바까지 모집을 확대했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>경북 산불 피해 규모 눈덩이…영농철 맞은 농가 도움 손길 절실</title>
-      <link>https://www.chosun.com/national/regional/yeongnam/2025/04/05/OYJIFQ2PARELVB6C632LUL7P34/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/yeongnam/2025/04/05/OYJIFQ2PARELVB6C632LUL7P34/</guid>
-      <dc:creator>박주영 기자</dc:creator>
-      <description/>
-      <pubDate>Sat, 05 Apr 2025 06:32:42 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WIRMCCKYVDRVYFAOLCGNPXX2PA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 29일 경북 영덕군 영덕읍 석리 해안 마을 곳곳이 산불 피해로 인해 새까맣게 그을려 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;의성·안동·청송·영덕·영양 등 경북 산불 피해 규모가 계속 늘고 있다. &lt;br&gt;&lt;br&gt;5일 경북도 등에 따르면 이번 경북 산불에 따른 농축업 분야 피해는 오전 8시 30분 기준으로 농작물 3831㏊, 시설하우스 454동, 축사 223동, 농기계 6745대 등으로 집계됐다. 이틀 전인 지난 3일 집계인 농작물 3785ha, 시설하우스 423동, 축사 217동, 농기계 6230대 등에 비해 더 늘어난 것이다.&lt;br&gt;&lt;br&gt;불에 탄 주택도 4042채로 지난 3일 3915채보다 129채가 늘어났고 영덕 양식장 5곳의 피해도 강도다리·은어 등 47만 마리로 이틀 전보다 11만 마리가 증가했다. &lt;br&gt;&lt;br&gt;산불 피해 집계는 아직 진행 중이서 그 규모는 더 늘어날 것으로 전망된다. 경북도 측은 “공공시설은 오는 8일까지, 사유 시설은 오는 15일까지 피해조사를 진행할 예정”이라고 말했다. &lt;br&gt;&lt;br&gt;또 산불에 따른 이재민은 4000명 이상으로 추산되며, 5개 시·군 주민 3495명이 아직 귀가하지 못하고 체육관, 마을회관, 연수원 등에서 대피 생활을 이어가고 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3JJQOGLS3ZEVLICCJNXFBRK5BU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 1일 경북 영덕군 영덕읍에서 육군 50사단 장병들이 산불 피해 복구 작업을 하고 있다./김동환 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경북도와 산불 피해를 입은 군들은 이같은 피해조사와 함께 영농철을 맞은 피해 농가들이 하루 빨리 농사에 나설 수 있도록 긴급 지원에 나서고 있다. &lt;br&gt;&lt;br&gt;안동시는 예산 55억원을 들여 트랙터·승용제초기 등 각종 농기계를 장·단기로 임대한 뒤 산불 피해 농가들에 지원할 계획이다.&lt;br&gt;&lt;br&gt;영덕군은 복숭아, 사과 등 과수 재배 농가가 방제 시기를 놓치지 않도록 긴급히 스피드스프레이어 20대를 신규로 구매했다.&lt;br&gt;&lt;br&gt;영양군은 트랙터, 경운기, 관리기 등 밭갈이용 농기계 피해가 발생한 농가들이 적기에 영농을 추진할 수 있도록 농작업 대행료를 지원한다. &lt;br&gt;&lt;br&gt;경북도 측은 “과감한 행정 처리를 통해 피부에 와 닿는 산불피해 복구와 주민 지원을 해 나갈 것”이라고 말했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“닭발 등 팔려고”…원산항 다녀온 몽골 선박 50대 선장 구속</title>
-      <link>https://www.chosun.com/national/national_general/2025/04/08/YPFJIS3GEVAHDN32NNRAVGMJVU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/08/YPFJIS3GEVAHDN32NNRAVGMJVU/</guid>
-      <dc:creator>박주영 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 08 Apr 2025 02:56:24 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WUEGKFAT7ZAEJP5AQMWK3T4M6I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산 해경 등 합동수사팀이 지난 3월 소·돼지·닭 등의 내장이나 발 등 부산물을 팔려고 정부 승인없이 북한 원산항을 다녀온 몽골선적 S호 화물을 조사하고 있다./부산해경&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산항에 정박해 있던 몽골선적 화물선을 몰고 한국 정부의 허가 없이 북한을 다녀온 인도네시아 국적 선장이 검찰에 구속 송치됐다.&lt;br&gt;&lt;br&gt;부산해양경찰서는 남북교류협력에 관한 법률 위반 혐의 등으로 인도네시아 국적 선장 A(57)씨를 검찰에 구속 송치했다고 8일 밝혔다.&lt;br&gt;&lt;br&gt;해경에 따르면 A씨는 지난 2월 9일 부산항에서 소·돼지·닭 등 육류의 부산물 450여t을 실은 화물선 S호(1517t)를 몰고 출항한 뒤 정부 승인 없이 북한 원산항을 오간 혐의를 받고 있다. A씨는 지난 2월 11일 원산항에 도착해 머물다 3월5일 출항해 사흘 뒤 급유를 목적으로 부산항 남외항에 들어왔다.&lt;br&gt;&lt;br&gt;해경은 “현행법에 따르면 외국 선박이더라도 남북한 간에 선박 등 수송 장비를 운행할 경우 통일부의 승인을 받아야 한다”고 말했다. 이 화물선은 대만의 한 법인 소유로 A씨를 포함, 총 8명의 인도네시아 국적 선원이 타고 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TSG7EKCQGRGH3EXE3SJTFI4U5A.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;지난 2월 부산항을 떠나 북한 원산항에 정박해 있는 몽골선적 S호(1517t) 위성사진./부산해경&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;해경은 관세청, 국정원 등 관계기관과 공조해 해당 법인과 A씨를 입건했다. A씨 등은 해경 조사에서 “육류 부산물 450t을 팔기 위해 북한 원산항에 갔지만 결국 거래가 무산돼 그대로 다시 부산항으로 돌아왔다”고 진술했다. &lt;br&gt;&lt;br&gt;해경은 A씨 등이 북한을 다녀온 사실관계를 확인하고 입출항 신고를 허위로 한 경위, 원산항을 찾은 이유와 목적 등을 조사했다. 해경 등은 A씨 등의 간첩 활동 등 대공 혐의 등에 대해서도 조사 중이다. 이 화물선은 당국의 조사가 진행되는 동안 출항이 금지된 상태로 부산항 남외항에 정박해 있어야 한다. &lt;br&gt;&lt;br&gt;해경 관계자는 “승인받지 않고 북한을 기항하거나 출·입항지를 허위로 신고하는 행위는 국가 안보에 심각한 영향을 미친다”며 “앞으로도 외교부·국정원 등 관계기관과의 공고한 협력을 통해 해상에서의 안보 침해 행위에 대해 강력히 대응할 것”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“엔화 비싼데 일본 왜 가?”…뚝 떨어진 인기, 중국에도 밀렸다</title>
-      <link>https://www.chosun.com/national/national_general/2025/04/10/BJ26IGQRIBAOZI7H22TCM6SNIE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/10/BJ26IGQRIBAOZI7H22TCM6SNIE/</guid>
-      <dc:creator>김자아 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 10 Apr 2025 00:07:54 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WOYVFBHF45OXTKIIXIJDTU77QA.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;인천국제공항 제1터미널 내 한 항공사 출국 수속 게이트. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;엔화가 1000원대를 돌파하면서 일본 여행 수요도 줄어들고 있다.&lt;br&gt;&lt;br&gt;10일 교원투어에 따르면 올해 5월 초 황금연휴(5월 1~6일) 출발 기준 일본 여행 예약량은 전년 대비 45% 감소한 것으로 나타났다. &lt;br&gt;&lt;br&gt;예약 순위도 지난해 3위에서 5위로 떨어지면서 태국과 중국에도 밀렸다. 올해 예약 순위는 베트남(18.7%), 유럽(17.2%), 태국(14.4%), 중국(11.7%), 일본(9.3%) 순, 지난해는 베트남(24.4%), 유럽(15.5%), 일본(13.1%), 태국(12.2%), 필리핀(5.7%) 순이었다.&lt;br&gt;&lt;br&gt;엔화는 지난 2년간 850원~910원대 사이로 약세가 이어지면서 일본 여행 시장은 대호황기였다. 지난해 일본을 방문한 한국인 관광객 수는 약 882만명으로 역대 최대치를 기록하기도 했다.&lt;br&gt;&lt;br&gt;그러나 오랫동안 유지됐던 엔저(엔화 약세)가 끝나면서 상황이 달라졌다.&lt;br&gt;&lt;br&gt;지난 2월 970원대까지 치솟은 엔화는 지난 4일 1000원대를 돌파했다. 법무부 통계월보에 따르면 올해 2월 일본을 찾은 한국인 방문객 수는 81만 5231명으로 전월(93만 5815명) 대비 12.9% 줄어든 것으로 나타났다.&lt;br&gt;&lt;br&gt;여기에 일본이 ‘오버투어리즘(과잉 관광)’에 따른 지역 피해를 줄이고자 각종 관광세를 대폭 올리면서 여행객 부담은 더욱 커졌다. &lt;br&gt;&lt;br&gt;일본 정부는 입국세를 현행 1000엔에서 5000엔으로 인상하고 주요 관광지 입장료를 인상하는 등의 방안을 검토 중이며, 각 지방자치단체는 외국인 대상 숙박세를 도입하거나 인상하는 방안을 검토 중이다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>“세 보이려 새겼는데, 너무 후회”…문신 제거 과정 공개한 유튜버</title>
       <link>https://www.chosun.com/national/national_general/2025/04/10/6UUQLKV5VNHGFOG3FJ6UDYAVSQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/10/6UUQLKV5VNHGFOG3FJ6UDYAVSQ/</guid>
@@ -939,33 +969,6 @@
       <description/>
       <pubDate>Wed, 09 Apr 2025 16:15:52 +0000</pubDate>
       <content:encoded>국회의원 공천을 대가로 돈을 주고받은 혐의 등으로 구속 기소된 ‘정치 브로커’ 명태균(55)씨와 김영선(65) 전 국회의원이 보석으로 풀려났다. 두 사람이 작년 11월 15일 구속된 이후 약 5개월 만이다. &lt;br&gt;&lt;br&gt;창원지법 형사4부(재판장 김인택)는 9일 정치자금법 위반 등 혐의로 구속 기소된 명씨와 김 전 의원 측의 보석 신청을 받아들였다고 밝혔다. 재판부는 “구속 기간 안에 공판을 끝내기 어려울 것으로 보이는 점, 피고인의 방어권 보장 등을 종합적으로 고려해 조건부로 보석을 허가했다”고 설명했다. &lt;br&gt;&lt;br&gt;이들의 구속 기간은 오는 6월 2일까지로 그 전에 1심 판결을 선고하기 어려운 상황이다. 재판이 지연된 데다 신문해야 할 증인이 남아 있기 때문이다. 구속 기간은 기소 후 최대 6개월이다. 이번 결정으로 두 사람은 불구속 상태로 재판을 받게 됐다.&lt;br&gt;&lt;br&gt;다만 주거지가 제한되고 옮길 경우 법원의 허가를 받아야 한다. 법원이 소환하면 반드시 출석해야 하고 증거를 인멸해서도 안 된다. 보증금 5000만원도 내야 한다. &lt;br&gt;&lt;br&gt;명씨 측은 작년 12월 “무릎 통증이 있는데도 치료를 받지 못하고 있고 사건의 핵심 증거인 ‘황금폰(명씨의 휴대전화)’을 검찰에 제출해 증거인멸 우려도 사라졌다”며 법원에 보석 허가 청구서를 냈다.&lt;br&gt;&lt;br&gt;김 전 의원 측도 지난 2월 법원에 보석을 신청했다.&lt;br&gt;&lt;br&gt;명씨는 이날 오후 6시 30분쯤 창원교도소를 나왔다. 취재진에게 아무런 입장을 밝히지 않고 떠났다. 김 전 의원은 보증금 납부 절차를 마무리하지 못해 10일쯤 나올 예정이다.&lt;br&gt;&lt;br&gt;명씨와 김 전 의원은 2022년 8월부터 2023년 11월까지 김 전 의원의 회계 책임자였던 강혜경씨를 통해 8070만원을 주고받은 혐의로 기소됐다. 검찰은 이 돈이 2022년 6월 국회의원 재·보궐 선거 당시 김 전 의원을 경남 창원 의창 지역구 후보로 추천한 대가로 본다. &lt;br&gt;&lt;br&gt;2022년 지방선거를 앞두고 경북 고령군수와 대구시의원 예비후보로 각각 출마한 배모씨와 이모씨에게서 “공천을 받게 해주겠다”며 총 2억4000만원을 챙긴 혐의도 있다. &lt;br&gt;&lt;br&gt;명씨와 김 전 의원의 1심 재판은 3차 공판까지 마쳤다. 4차 공판은 오는 22일 열릴 예정이다.&lt;br&gt;&lt;br&gt;검찰은 기소된 정치자금법 위반 혐의 외에도 명씨와 관련된 의혹에 대해 수사를 이어가고 있다. 명씨가 윤석열 전 대통령 부부를 통해 국민의힘 공천에 개입했는지, 2021년 서울시장 보궐선거 당시 오세훈 후보 측에 미공표 여론조사를 해주고 돈을 받았는지 등 의혹이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[오늘의 날씨] 2025년 4월 10일</title>
-      <link>https://www.chosun.com/national/national_general/2025/04/10/OVNXFT7DEBG2BOUOHZMB4PLXN4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/10/OVNXFT7DEBG2BOUOHZMB4PLXN4/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 09 Apr 2025 15:35:31 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DG2VJG4S5VBFPBSLVK7BRVMGTM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>검찰, ‘명태균 채용 청탁 의혹’ 경남도평생교육진흥원 압수수색</title>
-      <link>https://www.chosun.com/national/regional/2025/04/09/FVBV4JAFA5AIBIAULDDZGPAYUI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/04/09/FVBV4JAFA5AIBIAULDDZGPAYUI/</guid>
-      <dc:creator>김주영 기자, 창원=김준호 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 09 Apr 2025 09:47:34 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/S5PZV5B56JMQRMMKXQL5ZMSA3M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경남 창원시 성산구 창원지방검찰청. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰이 정치 브로커 명태균씨의 채용 청탁 의혹과 관련해 본격적인 수사에 나섰다.&lt;br&gt;&lt;br&gt;9일 본지 취재를 종합하면 창원지검 형사4부(부장 김호경)는 이날 오전 경남도인재평생교육진흥원을 압수수색했다.&lt;br&gt;&lt;br&gt;검찰은 명씨가 박완수 경남지사 측에 자신의 처남 채용을 청탁했다는 의혹과 관련해 압수수색에 나선 것으로 파악됐다.&lt;br&gt;&lt;br&gt;경남도인재평생교육진흥원은 경남도의 출연기관이다. 명씨 처남이 지난 2023년 초 전문 임기제 직원으로 채용된 대학생 기숙사 남명학사를 위탁 운영하고 있다.&lt;br&gt;&lt;br&gt;창원지검 관계자는 “이날 오전 진흥원으로 가서 조사한 것은 맞다”며 “자세한 내용은 수사 중이라 알려줄 수 없다”고 말했다.&lt;br&gt;&lt;br&gt;더불어민주당 경남도당은 지난해 12월 명씨가 처남을 경남도 산하기관에 채용시키기 위해 박 지사 측에 청탁했다는 의혹을 제기하고, 박 지사와 명씨를 부정 청탁 및 금품 수수 금지에 관한 법률 위반 혐의로 검찰에 고발했다.&lt;br&gt;&lt;br&gt;경남도는 민주당 경남도당의 고발에 근거 없는 정치 공세라는 입장이다.&lt;br&gt;&lt;br&gt;앞서 도는 채용 청탁 의혹과 관련해 비서실 관계자가 명씨 처남의 이력서를 건네받은 적은 있으나 즉시 파쇄했다고 해명했다. 또 채용은 블라인드 방식으로 이뤄졌고 해당 기관 감사에서도 인사 규정 위반은 확인되지 않았다고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“장당 2000원에 바꿔드려요”… ‘지브리풍’ 열풍에 등장한 신종 거래</title>
-      <link>https://www.chosun.com/national/national_general/2025/04/09/ONQ4327IYRAA5K3XK3AQKSVNNY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/09/ONQ4327IYRAA5K3XK3AQKSVNNY/</guid>
-      <dc:creator>박선민 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 09 Apr 2025 09:30:40 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4RWFTI2N2VFPBCY5KZDMIE4LHU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;챗GPT를 활용해 사진을 지브리 스타일로 변환해주겠다는 내용의 중고 거래 플랫폼 글들. /온라인 커뮤니티&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;오픈AI의 챗GPT를 활용해 ‘스튜디오 지브리’ 등 유명 애니메이션 업체 화풍을 흉내 낸 이미지를 만드는 것이 유행하면서, 중고 거래 플랫폼에는 이를 유료로 변환해 주겠다는 상업성 글까지 올라오기 시작했다. 이에 저작권 등을 지적하는 의견이 나오자, 중고 거래 플랫폼들은 제재에 나섰다. &lt;br&gt;&lt;br&gt;중고 거래 플랫폼 번개장터는 8일 공지를 통해 “AI 생성 이미지의 저작권 및 소유권에 대한 기준이 아직 명확하지 않아, 해당 상품 거래가 분쟁 소지 및 법적 이슈로 이어질 가능성이 있다”며 “AI를 통해 생성된 이미지 기반 상품에 대해 거래를 제한하고 있다”고 밝혔다. &lt;br&gt;&lt;br&gt;번개장터가 이 같은 공지를 한 건 최근 돈을 받고 챗GPT를 활용해 사진을 원하는 스타일의 애니메이션 화풍으로 변환해 준다는 식의 판매 글이 잇따른 데 따른 것이다. &lt;br&gt;&lt;br&gt;이런 흐름은 다른 중고 거래 플랫폼 당근마켓에서도 나타났다. 이에 당근마켓 역시 생성형 AI를 활용해 요청에 따라 가공한 사진들은 거래가 불가능하다고 공지했다. 자사 중고 거래 성격에 맞지 않는다는 이유에서다. 당근마켓 측은 “이런 상품의 유상 거래는 구매자가 기대와 다른 결과물을 받게 되어 분쟁으로 이어질 수 있어서 거래를 금지하고 있다”며 “관련 게시글을 등록하거나 신고가 접수되는 경우 서비스 이용이 제한될 수 있다”고 했다.&lt;br&gt;&lt;br&gt;앞서 오픈AI가 새 이미지 생성 모델 ‘챗GPT-4o’을 도입한 이후, ‘하울의 움직이는 성’ ‘센과 치히로의 행방불명’ 등 일본 애니메이션 제작사인 지브리의 화풍이 큰 인기를 끌었다. 이 때문에 이미지 생성 수요가 폭발적으로 늘면서 샘 울트먼 오픈AI 최고경영자(CEO)는 “그래픽처리장치(GPU)가 녹아내리고 있다”고 표현하기도 했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4MRYFTSDRGWOIIGJ6DWWIPKC2U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지브리 화풍으로 바꾼 샘 올트먼 오픈AI CEO의 X 계정 프로필 사진. /샘 올트먼 X&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;중고 거래 플랫폼에 올라온 생성형 AI 활용 판매 글들도 대부분 사진을 주면 챗GPT를 활용해 지브리 스타일로 변환해준다는 내용이었다. 가격대는 장당 500~3000원 사이에 구성됐다. 판매자들은 “사진 보내주시면 지브리 스타일로 만들어 드려요” “웨딩 커플 사진 보내주시면 지브리 스타일로 변경해드려요” 등의 내용으로 홍보했다. 당근마켓에서는 업체로 등록한 뒤 “간직하고픈 사진을 생성형 AI를 활용해 지브리 스타일로 바꿔드리겠다”는 판매자까지 등장했다.&lt;br&gt;&lt;br&gt;중고 거래 플랫폼들이 생성형 AI를 활용한 이미지 거래를 제한하고 나선 것과 별개로, 온라인상에서는 이 돈벌이 수단을 두고 다양한 반응이 나온다. “아직 저작권 침해라고 단정되지 않았으니 문제 되지 않는다”는 반응과 “창작 스타일을 빌려 상업적으로 이용하는 건 문제”라는 의견이 맞섰다. &lt;br&gt;&lt;br&gt;저작권 침해 논란을 두고서는 업계에서도 의견이 갈린다. 오픈AI가 지브리를 비롯한 애니메이션 제작사들과 저작권 계약을 맺었는지 공개되지 않은 상태에서 저명한 제작사나 만화의 화풍을 활용하는 것은 저작권 침해로 이어질 수 있다는 우려가 나온 반면, 저작권 침해로 단언하기 어렵다는 견해도 있다. &lt;br&gt;&lt;br&gt;다만 박애란 한국저작권위원회 변호사는 “저작권법상 스타일이나 화풍 같은 아이디어 영역은 저작물로 보호되지 못하고 표현이 보호된다는 원칙이 있다”며 “저작권법상 보호받지 못해도 부정경쟁 방지법 같은 다른 법을 위반할 소지가 있을 수 있다”고 연합뉴스에 말했다. 이어 “AI를 학습시키는 과정에서 구체적인 저작물을 사용한 것이 저작권 침해인지에 대한 쟁점이 있다”며 “관련 소송 등 분쟁들이 계속 생기고 있다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
