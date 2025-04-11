@@ -13,6 +13,55 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>법원, 尹 지하 주차장 비공개 출석 허용...“특혜 아닌 청사 방호 차원”</title>
+      <link>https://www.chosun.com/national/court_law/2025/04/11/2BLHS36WG5AXPAPVVICFXIOKQ4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/04/11/2BLHS36WG5AXPAPVVICFXIOKQ4/</guid>
+      <dc:creator>박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 11 Apr 2025 05:15:08 +0000</pubDate>
+      <content:encoded>법원이 윤석열 전 대통령이 오는 14일 열리는 첫 형사 재판에 ‘지하 주차장’을 통해 비공개로 출석하는 것을 허용하기로 했다. 전직 대통령이 지하 주차장을 이용해 재판에 출석하는 것은 이번이 처음이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TRUGEUJOQCWB3LV7O5B7NBWNQM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령이 지난 4일 헌법재판소가 대통령 탄핵을 만장일치로 인용하면서 파면됐다. 사진은 윤 전 대통령이 지난 2월 13일 헌법재판소 변론기일에 자리한 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울법원종합청사의 방호를 담당하는 서울고법은 11일 “윤 전 대통령이 차량을 이용해 지하 주차장을 통해 진출입하는 것을 요청할 경우 허용할 예정”이라고 밝혔다. 앞서 대통령실 경호처는 윤 전 대통령이 지하 주차장을 통해 법원에출석할 수 있게 해달라고 요청한 바 있다. &lt;br&gt;&lt;br&gt;법원은 “윤 전 대통령에 대한 특혜가 아닌 청사 방호 차원의 결정”이라고 했다. 해당 재판을 담당하는 검사도 지하 주차장으로 출입할 예정이라고 한다. 또 다른 주요 사건 관계자들과의 동선 충돌 가능성을 막고, 민원인들의 불편과 혼란을 최소화하기 위해 이 같이 결정했다고 한다. &lt;br&gt;&lt;br&gt;다만 전직 대통령이 지하 주차장으로 법정에 출석한 전례는 없다. 박근혜 전 대통령은 2017년 파면 이후 구속영장 실질심사를 받기 위해 법원에 출석할 당시, 다른 피고인들과 마찬가지로 지상 출입구를 이용했다. 이명박 전 대통령 역시 2019년 보석으로 석방된 뒤 불구속 재판을 받을 때 지상 출입구를 이용했다. &lt;br&gt;&lt;br&gt;법원 관계자는 “첫 공판 기일이자 탄핵 직후라는 상황을 고려한 조치”라며 “앞으로도 지하 주차장 진출입을 계속 허용할지는 적절한 시점에 다시 검토할 예정”이라고 밝혔다.&lt;br&gt;&lt;br&gt;또 법원은 윤 전 대통령의 출석 방법이 변경될 수 있는 가능성을 열어두겠다고 밝혔다. 법원은 “피고인의 출석 여부나 출석 시 차량 이용 여부 등은 미리 확정할 수 없는 것”이라며 “실제 윤 전 대통령이 지하 주차장으로 출입할지 여부는 재판 당일까지도 변동될 수 있다”고 덧붙였다. &lt;br&gt;&lt;br&gt;서울중앙지법 형사25부(재판장 지귀연)는 오는 14일 윤 전 대통령의 내란 우두머리 혐의 첫 공판을 진행한다. 이날 윤 전 대통령은 ‘자연인’ 신분으로는 처음 법원에 출석할 예정이다.&lt;br&gt;&lt;br&gt;법원은 이날 청사 내외부의 보안을 전반적으로 강화한다고 밝혔다. 14일에는 법원이 사전에 촬영을 허가한 구역에서만 취재진의 촬영이 가능하다. 또한 11일 오후 8시부터 14일 자정까지 일반 차량의 청사 출입이 전면 금지된다. 소송 당사자나 변호사 등의 차량도 법원에 출입할 수 없다.&lt;br&gt;&lt;br&gt;법원은 이날 일부 출입구를 폐쇄하고 강화된 보안 검색을 실시할 예정이다. 법원 출입구 앞에서 소지품 검사 등을 실시할 예정이며, 시위 용품을 소지한 경우 경내 출입이 제한된다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>수업중 교사 얼굴 때린 고3…교육청 “사안 중대, 이르면 다음주 징계위”</title>
+      <link>https://www.chosun.com/national/national_general/2025/04/11/KVXIURRWVJFQPBBBQOQH4XR55Y/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/11/KVXIURRWVJFQPBBBQOQH4XR55Y/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 11 Apr 2025 04:56:40 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WGREXSTK6JDS3IMJW5RLBPMIKE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;가해 학생이 피해 교사를 가격하는 장면./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 한 고등학교에서 수업 중 3학년 남학생이 여성 교사를 폭행한 사건과 관련, 가해 학생의 징계 여부를 논의하는 징계위원회가 이르면 다음 주 열린다.&lt;br&gt;&lt;br&gt;11일 서울시교육청에 따르면 해당 학교 관할 교육지원청의 지역교권보호위원회(교보위)는 이르면 다음 주, 늦어도 이달 중에는 개최된다. &lt;br&gt;&lt;br&gt;‘교원의 지위 향상 및 교육활동 보호를 위한 특별법(교원지위법)’에 따르면 학생이 교육활동을 침해할 경우 교보위에서 봉사, 특별교육, 출석 정지, 학급 교체, 전학, 퇴학 중 하나에 해당하는 조치를 하도록 교육장에게 요청할 수 있다.&lt;br&gt;&lt;br&gt;서울시교육청 관계자는 조선닷컴에 “사안이 중대하다고 판단해 최대한 빨리 진행할 예정”이라며 “이미 올라와 있는 관할청 내 다른 사건들보다 이번 사건을 우선해 처리할 예정”이라고 밝혔다. &lt;br&gt;&lt;br&gt;가해 학생은 사건 당일인 전날 보호자와 함께 귀가 조치했고, 이날은 진술서 작성을 위해 학교는 방문하되 다른 구성원과 접촉하지 않도록 분리했다. &lt;br&gt;&lt;br&gt;서울시교육청 관계자는 “해당 학생과 관련해 과거에 유사 사례가 보고된 것은 없다”며 “해당 학생은 특수교육 대상자도 아니었다”고 했다. &lt;br&gt;&lt;br&gt;피해 교사에 대해서는 “이날부터 특별 휴가에 들어갔다”며 “정확한 부상 정도는 알지 못하지만 병원 치료가 상태라고 한다”고 설명했다. &lt;br&gt;&lt;br&gt;서울시교육청은 이날 변호사, 상담사, 장학사로 구성된 긴급보호반을 파견해 사건 처리와 관련한 실무 논의를 진행할 예정이다.&lt;br&gt;&lt;br&gt;서울시교육청에 따르면 전날 오전 10시쯤 서울의 한 고등학교에서 이 학교 3학년 남학생이 수업 중 휴대전화를 쥔 손으로 여성 교사의 얼굴을 가격했다.&lt;br&gt;&lt;br&gt;당시 교실에 있었던 다른 학생 등의 증언에 따르면 가해 학생은 수업 시간에 휴대전화로 게임을 하다가 교사가 이를 지적하자 실랑이를 벌인 끝에 이 같은 행동을 했다고 한다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘삐끼삐끼’ 이주은, LG트윈스 응원단 합류… 대만 소속사 “병행 허용”</title>
+      <link>https://www.chosun.com/national/people/2025/04/11/OT7CIPUSLFECBN5Q5IM33YK4AA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/04/11/OT7CIPUSLFECBN5Q5IM33YK4AA/</guid>
+      <dc:creator>박선민 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 11 Apr 2025 05:02:28 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GBBZOF6NEY74Y2U44YFE6GZXEI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이주은 치어리더. /뉴시스 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘삐끼삐끼 춤’으로 유명해진 후 대만까지 진출한 치어리더 이주은이 LG트윈스 응원단에 합류했다.&lt;br&gt;&lt;br&gt;프로야구 LG트윈스는 10일 공식 인스타그램 계정을 통해 이주은을 신규 응원단으로 영입했다고 밝혔다. &lt;br&gt;&lt;br&gt;이주은도 자신의 인스타그램을 통해 이 같은 소식을 알렸다. 그러면서 “올 시즌 최선을 다해 LG트윈스가 우승하는 그날까지 열심히 응원하겠다”고 했다. &lt;br&gt;&lt;br&gt;이주은은 2024시즌 KIA 치어리더로 활동하며 삐끼삐끼 춤으로 큰 인기를 끈 뒤, 지난 1월 대만 푸본 엔터테인먼트와 전속 계약을 맺었다. 당시 푸본이 이주은을 영입하면서 1000만 대만 달러(약 4억4000만원)를 지급했다는 ‘거액 계약금설’이 나오기도 했다. &lt;br&gt;&lt;br&gt;삐끼삐끼 춤은 KIA 투수가 상대 타자를 삼진 아웃시킬 때 치어리더가 추는 짧은 춤으로, 드럼 비트와 디제이(DJ)의 스크래치 연주에 맞춰 엄지손가락을 들고 팔을 흔드는 동작이다. 이주은이 화장을 고치다 무심한 표정으로 이 춤을 추는 영상이 바이럴됐고, 이후 미 일간 뉴욕타임스(NYT)에도 소개될 정도로 화제를 모았다. &lt;br&gt;&lt;br&gt;이번 이주은의 LG트윈스 응원단 활동은 대만 활동에 지장을 주지 않는 선에서 한국 활동도 허용한다는 대만 소속사와의 상호 합의에 따른 것으로 알려졌다. &lt;br&gt;&lt;br&gt;대만중앙통신(CNA)에 따르면, 푸본 측은 공식 입장을 통해 “이주은과는 대만 전속 매니지먼트 계약을 체결했지만, 계약 전부터 대만 활동에 지장을 주지 않는 선에서 한국 활동도 가능하다는 점에 상호 합의했다”며 “우리는 이주은의 한국 활동에 대해 존중과 지지를 보낸다”고 했다. 이어 “이주은은 앞으로 대만 내 광고 모델 활동, 팬 행사 등 다양한 일정에도 적극 참여할 계획”이라며 “추가 활동 일정은 추후 공개할 예정”이라고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/QOANCYFFHBC2VA2EEXPNNZA6LI.jpg?width=357&amp;height=201&amp;auth=b4892dff19848e2aa6859d8862a2969b682d6faefa189b05307c6f5bb3e60791&amp;smart=true" type="image/jpeg" height="201" width="357">
+        <media:description type="plain">이주은 치어리더</media:description>
+        <media:credit role="author" scheme="urn:ebu"/>
+      </media:content>
+    </item>
+    <item>
+      <title>경찰, 울산항만공사 압수수색… 인사비리 의혹 관련</title>
+      <link>https://www.chosun.com/national/regional/2025/04/11/RASVO6UMFNFCZFOKBPLSMER37M/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/04/11/RASVO6UMFNFCZFOKBPLSMER37M/</guid>
+      <dc:creator>울산=김주영 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 11 Apr 2025 04:35:33 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GCPG537C35U2R43OF5TXVRUGJQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;울산항만공사. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;울산경찰청이 인사 비리 의혹과 관련해 울산항만공사에 대해 11일 압수수색을 벌이고 있다.&lt;br&gt;&lt;br&gt;울산경찰청 반부패경제범죄수사대는 이날 오전 10시부터 수사관들을 울산항만공사에 보내 압수수색에 나섰다.&lt;br&gt;&lt;br&gt;수사관들은 인사 관련 부서 등에서 직원 역량 평가 서류 등 승진 관련 자료를 확보 중인 것으로 알려졌다. &lt;br&gt;&lt;br&gt;울산항만공사는 지난해 진행한 자체 감사에서 개인 역량 평정 및 승진 후보자 명부 작성 등에 오류가 있는 것으로 지적된 바 있다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “수사 중인 사안이어서 구체적으로 확인해줄 수 없다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘NC파크 추락 사고’… 경찰, 창원시·시설공단·NC 등 압수수색 </title>
+      <link>https://www.chosun.com/national/regional/2025/04/11/FBOEJTSCGFHWXOPAQF76KYDY2Q/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/04/11/FBOEJTSCGFHWXOPAQF76KYDY2Q/</guid>
+      <dc:creator>창원=김주영 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 11 Apr 2025 04:08:06 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/72GSOZHVR5FNDGSGV3CZYXBK2Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경남 창원시 마산회원구 창원NC파크. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난달 경남 창원NC파크에서 발생한 구조물 추락 사망사고와 관련, 경찰이 창원시 등을 압수수색 중이다.&lt;br&gt;&lt;br&gt;11일 경남경찰청에 따르면 경찰은 이날 오전부터 창원시와 창원시설공단, 창원NC파크 등 3곳을 압수수색하고 있다. &lt;br&gt;&lt;br&gt;이번 압수수색은 지난달 29일 창원NC파크에서 발생한 구조물 추락 사고와 관련된 것으로 전해졌다. 당시 이곳에서는 길이 2.6ｍ, 폭 40㎝, 무게 60㎏가량인 외벽 구조물 ‘루버’가 추락하면서 아래에 있던 야구 팬 3명이 다치는 사고가 발생했다. 이 중 20대 여성 1명이 치료 도중 숨졌다. &lt;br&gt;&lt;br&gt;경찰은 창원시 안전 담당, 체육 관련 부서 등을 압수수색해 정기 위험성 평가 등 문서를 확인하고 있는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰은 최근 사고 현장에서 합동 감식을 벌였으며, 중대재해처벌법 적용 여부 등을 검토 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>투자사기 충격 ‘동반자살 시도’…아들 살해 친모, 2심도 징역 7년 </title>
       <link>https://www.chosun.com/national/regional/2025/04/11/OJINY2EAJFGVJCIHNTYR5F7RE4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/04/11/OJINY2EAJFGVJCIHNTYR5F7RE4/</guid>
@@ -844,24 +893,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JZNHXWVON4EHZYJY745A77GBZ4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;제주시 시가지 전경./조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제주지역 고도 규제가 30년 만에 전면 완화될 전망이다.&lt;br&gt;&lt;br&gt;오영훈 제주지사는 10일 제주도청에서 연 기자간담회에서 “제주도가 과도하게 고도 지구 규제를 받고 있어서 기존 지구에서 수익률이 나지 않으니 외부를 개발해 나가는 팽창 방식으로 개발이 이뤄졌다”며 기존 도심지 고도 완화를 시사했다.&lt;br&gt;&lt;br&gt;제주도는 지난해 4월부터 ‘압축도시 조성을 위한 고도 관리 방안 수립 용역‘을 추진해 고도 지구 해제를 검토하고 있다.&lt;br&gt;&lt;br&gt;제주도 관계자는 “앞으로 문화유산지구나 군사보호시설 등 고도 제한이 꼭 필요하다고 판단되는 지역을 제외하고는 고도 지구를 전면 해제하는 방안을 검토하고 있다”고 말했다.&lt;br&gt;&lt;br&gt;이에 따르면 별도 고도 관련 규정이 없을 경우 주거지역은 45ｍ, 상업지역은 55ｍ로 일괄적으로 적용된다.&lt;br&gt;&lt;br&gt;현재 주거지역 고도는 15∼45ｍ, 상업지역 고도는 15∼55ｍ 범위에서 제한돼 있다. 지구단위계획을 적용하면 최대 고도가 더 높아진다.&lt;br&gt;&lt;br&gt;제주지역 고도 지구는 267곳이며 주거·상업지역의 92%가 이에 해당한다. 또 용도지역, 지구단위 계획구역별로 건축물 높이가 다르게 제한돼 있고 개별법과 세부 규정에 따라 지역별 고도 기준도 제각각이다.&lt;br&gt;&lt;br&gt;이번 용역은 고밀도 개발을 통한 압축 도시 조성을 위한 방안을 찾는 것이 목표다. 당장 재건축, 재개발 과정에서 경제성을 높이는 효과가 발생할 수 있을 것으로 보인다.&lt;br&gt;&lt;br&gt;제주도는 이번 용역에 따른 도민 설명회를 거쳐 고도 지구 정비를 위한 도시관리계획 재정비 및 고시, 조례 개정 등 절차를 내년까지 진행한 후 2027년 상반기부터 시행할 방침이다.&lt;br&gt;&lt;br&gt;현재 고도 지구는 제주도개발특별법에 따른 고도별 관리계획에 의해 1996년 제주도 경관 고도 규제계획이 수립돼 적용됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>‘4세 아동 사망’ 경기 양주 태권도 관장, 징역 30년</title>
-      <link>https://www.chosun.com/national/incident/2025/04/10/AGXWX42HKBAURA52DVWVL7T33Y/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/04/10/AGXWX42HKBAURA52DVWVL7T33Y/</guid>
-      <dc:creator>의정부=김현수 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 10 Apr 2025 02:17:11 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CIIRJ5ZU4SU6EAK3BSY7IF2WWA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;자신이 운영하는 태권도장에서 5살 남자아이를 심정지 상태로 빠뜨린 관장이 19일 경기 의정부경찰서에서 검찰로 송치되고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;4세 아동을 학대해 숨지게 한 혐의로 재판에 넘겨진 30대 태권도장 관장이 중형을 선고받았다.&lt;br&gt;&lt;br&gt;의정부지법 형사11부(재판장 오창섭)는 10일 아동학대 살해 등 혐의로 구속기소 된 30대 남성 A씨에게 징역 30년을 선고했다.&lt;br&gt;&lt;br&gt;재판부는 판결문에서 “피고인은 이 사건 학대 행위 후 피해 아동을 방치하면 사망할 위험 내지 가능성이 있음을 인식했음에도 피해 아동을 약 27분간 방치했다”며 “다른 피해 아동들에 대해서도 상당 기간 학대를 했고, 단지 장난으로 치부하는 태도를 보이는 등 과연 진실이 있는 지조차 가늠하기 어렵다”고 밝혔다. &lt;br&gt;&lt;br&gt;이어 “다른 사범에게 책임을 전가하는 등 변명하고 있고, 피해 아동이 의식이 없는 상태에서도 혼자 태권도장으로 올라와 CCTV 영상을 삭제하고 사범에게 허위 증언을 강요하고 증거 인멸을 시도하는 등 죄질이 좋지 않다”며 “일반인이라면 당연히 사망의 위험이 있다는 걸 인식할 수 있었을 것”이라고 양형 이유를 설명했다.&lt;br&gt;&lt;br&gt;앞서 검찰은 지난달 20일 결심 공판에서 A씨에게 무기징역을 구형했다. A씨는 지난해 7월 12일 오후 7시쯤 경기 양주시 덕계동 소재 자신의 태권도장에서 B(4)군을 말아 놓은 매트 안에 거꾸로 넣고 방치해 사망에 이르게 한 혐의로 구속 기소됐다. &lt;br&gt;&lt;br&gt;경찰은 포렌식을 통해 A씨가 지난해 5월부터 사건 직전까지 최소 140차례 B군을 학대한 사실을 확인했다. A씨는 B군 외에도 다른 피해 아동 26명에게 볼을 꼬집고 때리는 등 124차례에 걸쳐 신체적·정서적 학대도 일삼은 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>종묘 옆 율곡로 일대 용적률·높이 규제 완화…지구단위계획 재정비</title>
-      <link>https://www.chosun.com/national/national_general/2025/04/10/DFQRO4FM4JHDZDNVGHTVPLOQFI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/10/DFQRO4FM4JHDZDNVGHTVPLOQFI/</guid>
-      <dc:creator>김영우 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 10 Apr 2025 00:34:06 +0000</pubDate>
-      <content:encoded>서울 종로구 종묘 옆 율곡로 일대의 용적률과 높이 규제가 완화된다.&lt;br&gt;&lt;br&gt;서울시는 지난 9일 열린 도시·건축공동위원회에서 이 같은 내용의 ‘율곡로 지구단위계획 변경안’을 수정 가결했다고 10일 밝혔다. 율곡로 지구단위계획이 변경된 것은 2008년 이후 17년 만이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/C4ESNUYH3RFRXCNBCIOHEF33Y4.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=조선디자인랩 이연주&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이 지역은 바로 옆에 종묘가 있고, 대학로와 율곡로에 붙어 있다. 서울 지하철 1호선 종로5가역과 동대문역도 근처에 있다.&lt;br&gt;&lt;br&gt;이번 지구단위계획 변경에 따라 이 지역 대로변에 있는 일반상업지역의 용적률은 최고 660%까지 완화된다. 기준 용적률도 기존 400%에서 600%로 상향된다. 이면도로변에 있는 일반상업지역은 최고 용적률 550%로 올라간다.&lt;br&gt;&lt;br&gt;지역 특성과 서울시 정책 방향에 부합하면 높이 인센티브를 줘, 높이 규제 역시 완화해주기로 했다.&lt;br&gt;&lt;br&gt;지역 활성화를 위해 블록 단위로 설정돼 있는 최대 개발 규모 계획을 폐지하고, 공동 개발 규제를 완화해 토지 소유자가 공동 개발을 추진할 수 있도록 유도한다.&lt;br&gt;&lt;br&gt;이외에도 종묘 등 문화유산과 연계한 환경 개선 가이드라인을 제시하고, 보행 환경도 개선해 주민과 방문객의 편의를 높인다.&lt;br&gt;&lt;br&gt;조남준 서울시 도시공간본부장은 “이번 지구단위계획 재정비로 서울의 중심부지만 다소 침체돼 있는 지역의 개발 동력을 확보하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>“고속도로 갓길에 할머니가?”… 쉬는 날 위험천만 사고 막은 경찰관</title>
       <link>https://www.chosun.com/national/national_general/2025/04/10/PXBZ74TTVJDKXPGLRXKQY3C2TM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/10/PXBZ74TTVJDKXPGLRXKQY3C2TM/</guid>
@@ -883,15 +914,6 @@
       </media:content>
     </item>
     <item>
-      <title>등굣길 초등생 2명 차로 유인해 성추행…20대 외국인 구속영장</title>
-      <link>https://www.chosun.com/national/incident/2025/04/10/DW6IVEKPHRGQ3KULPEMKEP4SLE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/04/10/DW6IVEKPHRGQ3KULPEMKEP4SLE/</guid>
-      <dc:creator>인천=이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 10 Apr 2025 01:40:19 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OU4LQLHPASM6GEZSM7US2F5UKM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;인천경찰청./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;등굣길 초등학생 2명을 차로 유인해 성추행한 혐의를 받는 20대 외국인에 대해 구속영장이 신청됐다. &lt;br&gt;&lt;br&gt;인천경찰청 여성청소년범죄수사계는 추행 등 목적 약취 유인 혐의로 우즈베키스탄 국적의 20대 남성 A씨에 대한 구속영장을 신청했다고 10일 밝혔다. &lt;br&gt;&lt;br&gt;경찰에 따르면 A씨는 지난 8일 오전 8시 40분쯤 인천시 연수구 연수동의 한 초등학교 인근에서 남녀 초등생 2명을 잇따라 자신의 차량으로 유인해 성추행한 혐의를 받고 있다. &lt;br&gt;&lt;br&gt;A씨는 “길을 알려달라”며 초등생들에게 접근해 5분 정도씩 차에 태웠다가 내려준 것으로 파악됐다. &lt;br&gt;&lt;br&gt;A씨 차에서 내린 아이들은 등교했으며, 이들 중 한 학생으로부터 피해 사실을 전해 들은 교사가 경찰에 신고했다. &lt;br&gt;&lt;br&gt;경찰 관계자는 “(성폭력 보호 지원 기관인) 해바라기센터에서 학생들의 진술을 받았다”며 “혐의가 무겁다고 판단해 구속영장을 신청했다”고 말했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>‘故 이예람 중사 사건 수사개입 혐의’ 전익수, 대법서 무죄 확정 </title>
       <link>https://www.chosun.com/national/court_law/2025/04/10/YTIZSSKNQ5BUZCWBP6WFNJUV4I/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/04/10/YTIZSSKNQ5BUZCWBP6WFNJUV4I/</guid>
@@ -899,28 +921,6 @@
       <description/>
       <pubDate>Thu, 10 Apr 2025 01:38:18 +0000</pubDate>
       <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XEVE6ZIBYUKIJVGR4RALPFMWCI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;고(故) 이예람 중사 사망 사건을 수사한 군 검사에게 부당한 위력을 행사한 혐의로 기소된 전익수 전 공군 법무실장이 지난 2023년 서울중앙지방법원 공판에 출석하는 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;공군 고(故) 이예람 중사 사건 수사에 불법 개입한 혐의로 재판에 넘겨진 전익수(55) 전 공군본부 법무실장이 10일 대법원에서 무죄가 확정됐다.&lt;br&gt;&lt;br&gt;대법원 2부(주심 오경미 대법관)는 이날 특정범죄 가중처벌법상 면담강요 혐의로 기소된 전 전 실장의 상고심에서 무죄를 선고한 원심을 확정했다.&lt;br&gt;&lt;br&gt;전 전 실장은 2021년 3월 공군 20전투비행단 소속이던 이예람 중사가 선임 부사관에게 성추행당한 사건의 군 검찰 수사를 지휘한 인물이다. 그는 이 중사 관련 보안 정보를 자신에게 전달한 혐의로 군무원 양모씨에 대해 구속영장이 청구되자, 해당 영장을 청구한 군 검사에게 전화해 “영장이 잘못됐다”고 추궁하고 위력을 행사한 혐의를 받았다. &lt;br&gt;&lt;br&gt;이 중사는 수사가 제대로 이뤄지지 않는 상황에서 2차 가해에 시달린 끝에 그해 5월 극단적 선택을 했다. 이후 군 검찰의 부실 수사와 사건 축소·은폐 의혹이 불거지며 특검 수사가 진행됐고, 특검은 2022년 9월 전 전 실장 등 8명을 재판에 넘겼다.&lt;br&gt;&lt;br&gt;앞서 1·2심은 전 전 실장의 행동이 매우 부적절했다고 지적하면서도, 법리적으로 면담강요죄를 적용할 수 없다며 무죄로 판단했다. &lt;br&gt;&lt;br&gt;면담강요는 형사사건 수사·재판과 관련해 ‘필요한 사실을 알고 있는 사람’에게 정당한 사유 없이 만나자고 하는 경우에 성립되는 죄로, 군 검사에게 위력을 행사한 전 전 실장의 행위에는 적용할 수 없다는 것이 1·2심 재판부의 공통된 판단이었다. 작년 8월 항소심 재판부는 무죄를 선고한 1심을 유지하며 “형사적으로 처벌할 수 없다는 것이 그 행위가 정당하거나 법적으로 정당화돼야 한다는 의미가 아님은 분명하다”고 강조했다.&lt;br&gt;&lt;br&gt;대법원은 이날 “원심이 법리를 오해한 잘못이 없다”며 무죄를 최종 확인했다.&lt;br&gt;&lt;br&gt;대법원은 전 전 실장에게 공무상 비밀을 누설한 혐의로 함께 재판에 넘겨진 군무원 양씨에 대해서도 벌금 500만원의 원심 판결을 확정했다. 당시 비난 여론을 반전시킬 의도로 허위사실과 공무상 비밀을 언론에 누설한 공군 공보담당 중령 정모씨에 대한 징역 2년의 원심도 확정됐다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>소액 당첨 복권 재구매했더니 20억 잭팟… “며칠간 잠도 못 자” </title>
-      <link>https://www.chosun.com/national/national_general/2025/04/10/NP3LWNTB5JGZRLVRM6OHOOTUSE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/10/NP3LWNTB5JGZRLVRM6OHOOTUSE/</guid>
-      <dc:creator>최혜승 기자 </dc:creator>
-      <description/>
-      <pubDate>Thu, 10 Apr 2025 01:25:03 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/V5VKJPJRR2EERWGN2RMFOGBKIA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;스피또2000 59회차 1등 복권./동행복권 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;딸과 산책을 하던 중 구매한 복권이 당첨돼 20억원을 수령하게 된 당첨자의 사연이 공개됐다.&lt;br&gt;&lt;br&gt;10일 복권수탁사업자 동행복권에 따르면, A씨는 최근 경기도 포천 한 복권 판매소에서 산 스피또2000 59회차 복권 1등에 당첨됐다. 스피또2000의 1등 당첨금은 10억원으로, A씨는 1세트(2장)를 구매해 2장이 동시에 당첨되면서 20억원을 받게 됐다.&lt;br&gt;&lt;br&gt;A씨는 “평소 로또 복권과 스피또 복권을 구매하고 있다”며 “어느 날 저녁을 먹고 딸과 함께 산책을 나왔는데 복권 판매소를 지나치게 됐다. 지난번 구매했던 스피또 복권 중 소액 당첨된 게 있어 해당 복권을 바꿔야겠다는 생각에 판매점을 들렀고, 스피또2000 복권을 재구매했다”고 회상했다. &lt;br&gt;&lt;br&gt;A씨는 가족들이 모두 집에 있을 때 복권 당첨 여부를 확인했고, 1등에 당첨되자 믿을 수 없었다고 말했다. &lt;br&gt;&lt;br&gt;A씨는 “당첨이 된 건지 긴가민가해 딸을 급히 불렀다”며 “딸이 ‘1등 당첨이 맞는 것 같다’고 이야기했고 너무 놀라 딸과 함께 소리쳤다”고 말했다. &lt;br&gt;&lt;br&gt;이어 “큰 소리에 놀란 남편도 달려와 1등 당첨을 확인했고 서로 기뻐하며 축하해줬다”며 “너무 큰 기쁨에 며칠 동안 잠도 안 오고 심장이 계속 두근거렸다”고 했다.&lt;br&gt;&lt;br&gt;A씨는 당첨금 20억원으로 대출금을 상환하고 집 구매에 보탤 계획이라고 밝혔다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>전남 목포서 화물차·승용차 충돌사고…3명 사상</title>
-      <link>https://www.chosun.com/national/national_general/2025/04/10/4LLDSHBJXBASRP3MS3JTUBRM3I/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/10/4LLDSHBJXBASRP3MS3JTUBRM3I/</guid>
-      <dc:creator>목포=진창일 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 10 Apr 2025 00:55:36 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4P4S53UZD44RPVA3RIZ5ICKJHA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 9일 오후 10시 30분쯤 전남 목포시 축복동의 한 도로에서 화물차와 승용차가 부딪히는 사고가 발생한 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전남 목포에서 화물차와 승용차가 충돌, 1명이 숨지고 2명이 다쳤다.&lt;br&gt;&lt;br&gt;10일 전남소방본부 등에 따르면 지난 9일 오후 10시 27분쯤 전남 목포시 축복동의 한 도로에서 5t 화물차와 승용차가 충돌해 승용차 탑승자 40대 A씨가 숨졌다. 승용차 운전자는 중상, 화물차 운전자는 경상을 입어 병원으로 옮겨졌다.&lt;br&gt;&lt;br&gt;이 사고로 화물차가 도로변에 있던 가로등 제어함을 들이받고 승용차에서는 10여 분 동안 불이 났지만, 소방당국에 의해 진화됐다.&lt;br&gt;&lt;br&gt;경찰 조사 결과, 두 차량 운전자는 음주나 무면허 운전은 아니었던 것으로 파악됐다. 경찰은 방범카메라·블랙박스 등 영상을 분석하는 등 정확한 사고 경위를 조사할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/4P4S53UZD44RPVA3RIZ5ICKJHA.jpg?width=1632&amp;height=918&amp;auth=6d6054f5c41404c9d63e09dd49eddf115c567a4b232c62d2e2127a1c98340c64&amp;smart=true" type="image/jpeg" height="918" width="1632">
-        <media:description type="plain">지난 9일 오후 10시 30분쯤 전남 목포시 축복동의 한 도로에서 화물차와 승용차가 부딪히는 사고가 발생한 모습. /뉴스1</media:description>
-        <media:credit role="author" scheme="urn:ebu">뉴스1</media:credit>
-      </media:content>
     </item>
     <item>
       <title>“세 보이려 새겼는데, 너무 후회”…문신 제거 과정 공개한 유튜버</title>
