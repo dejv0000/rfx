@@ -6,6 +6,16 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>[판결] 대법, '공직선거법 위반' 강용석 변호사 징역형 집행유예 확정</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/207107.jpg" alt="3453636.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;강용석 변호사 《사진=연합뉴스》&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;2022년 6·1 지방선거를 앞두고 선거운동을 대가로 금품을 제공한 혐의 등으로 기소된&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="4269"&gt;강용석&lt;/span&gt;(56·사법연수원 23기) 변호사(전 국회의원)에게 징역형의 집행유예가 확정됐다. 대법원 형사1부(주심&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="1287"&gt;노경필&amp;nbsp;&lt;/span&gt;대법관)는 공직선거법 위반 등 혐의로 기소된 강 변호사에게 징역 1년6개월에 집행유예 3년을 선고한 원심을 3월 27일 확정했다(&lt;b&gt;2025도824&lt;/b&gt;).&lt;br /&gt;&lt;b&gt;&lt;br /&gt;[사실관계]&lt;/b&gt;&lt;br /&gt;강 변호사는 2022년 지방선거 당시 경기도지사 후보로 출마해 선거운동을 도운 업체 대표이자 자신의 처남인 윤 모 씨에게 이체한 6억6000만 원 중 불상의 금액을 선거운동 비용으로 지급한 혐의로 불구속 기소됐다. 선거운동을 도운 또 다른 업체에 수천만 원의 용역 대금을 부풀려 지급하는 등 부당한 금품을 제공한 혐의도 받았다. 소셜 미디어(SNS) 관리와 보도자료 작성 등 선거운동 관련 업무를 한 대가로 유튜브 채널 '가로세로연구소'의 직원에게 300만 원을 지급한 혐의도 있었다.&lt;br /&gt;&lt;b&gt;&lt;br /&gt;[하급심 판단]&lt;/b&gt;&lt;br /&gt;1심은 징역 1년 6개월에 집행유예 3년을 선고했다. 1심 재판부는 "선거운동 기구를 통해 해야 할 관련 업무를 용역계약을 체결하는 방식으로 자신의 가족, 친족이 설립한 회사 등에 외주를 주면서 그 대가로 상당한 금액을 지급하고, 후보자의 인스타그램 관리 등을 한 직원에게 법정 수당을 현저히 초과한 돈을 지급함으로써 공직선거법의 입법취지를 정면으로 침해했다"며 "범행 경위, 수단과 방법 등에 비추어 죄질이 매우 불량하다"고 했다. 또 "강 변호사가 국회의원을 역임한 유명 정치인인데다가 여러 차례 선거에 출마한 경험까지 있음을 고려하면, 경기도지사 선거라는 공적 영역에 가족회사라는 사적인 이해관계를 접목시켜 현행법의 테두리를 넘나든 행위는 더욱 비난 가능성이 높다"며 "공직선거법 위반죄로 인한 2회의 벌금형 전과가 있음에도 또다시 동종 범행을 저질렀다"고 밝혔다.&lt;p&gt;&lt;br /&gt;다만 선거사무원들에게 허용 가격 범위가 넘는 음식을 제공한 혐의, 선거관리위원회에 식사 명단 등을 허위로 제공한 혐의는 무죄로 판단했다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;항소심도 1심 판단에 잘못이 없다고 보고 검사와 강 변호사 측 항소를 모두 기각했다.&lt;br /&gt;&lt;b&gt;&lt;br /&gt;[대법원 판단]&lt;/b&gt;&lt;br /&gt;대법원의 판단도 같았다. 대법원은 "원심 판결 이유를 관련 법리와 적법하게 채택된 증거에 비추어 살펴보면, 원심 판단에 필요한 심리를 다하지 않은 채 논리와 경험 법칙을 위반하여 자유심증주의 한계를 벗어나거나 공직선거법위반죄 성립, 공모공동정범, 증거능력, 공소사실 특정, 불가벌적 사후행위 등에 관한 법리를 오해한 잘못이 없다"며 상고를 기각하고 강 변호사에 대한 징역 1년6개월에 집행유예 3년을 확정했다.&lt;/p&gt;</description>
+			<pubDate>Fri, 11 Apr 2025 03:08:17 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/207107</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/207107</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/207107.jpg</media:thumbnail>
+			<dc:creator>홍윤지 기자</dc:creator>
+		</item>
+		<item>
 			<title>한국신문윤리위원회 위원장에 이동원 전 대법관</title>
 			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 370px;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/207109.jpg" alt="437.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;이동원 전 대법관&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;한국신문윤리위원회(이사장 서창훈 전북일보 회장)는 4월 9일 열린 제163차 이사회에서&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="8769"&gt;이동원&lt;/span&gt;(62·사법연수원 17기) 전 대법관을 위원장으로 인준했다. 임기는 2년이다.&lt;br /&gt;&lt;br /&gt;새 윤리위원에는 손동영 서울경제 발행인과 박학용 디지털타임즈 발행인이 위촉됐다.&lt;br /&gt;&lt;br /&gt;서울 경복고와 고려대 법학과를 졸업한 이 전 대법관은 1985년 제27회 사법시험에 합격해 1991년 서울형사지법 판사로 임관했다. 이후 대법원 재판연구관, 전주지법 부장판사, 서울중앙지법 부장판사, 수원지법 평택지원장, 대전고법 부장판사, 서울고법 부장판사, 수원지법 수석부장판사, 제주지법원장 등을 역임했다. 2018년 8월부터 2024년 8월까지 대법관을 지냈다. 현재는 고려대 로스쿨 석좌교수를 지내고 있다.&lt;/p&gt;</description>
 			<pubDate>Fri, 11 Apr 2025 02:17:25 -0000</pubDate>
@@ -227,15 +237,6 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/207051</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/207051.jpg</media:thumbnail>
 			<dc:creator>김지현 기자</dc:creator>
-		</item>
-		<item>
-			<title>대검, 전국 검찰청에 대선 전담 수사반 편성…"불법선거 엄정 대처"</title>
-			<description>대검찰청이 6월 3일 실시되는 21대 대통령선거를 앞두고 선거 전담 수사반을 꾸려 불법 선거운동에 엄정 대처하겠다는 방침을 세웠다.&lt;br /&gt;&lt;br /&gt;대검은 "전국 검찰청에 선거 전담 수사반을 편성하고 단계별 비상근무를 실시하는 등 선거사범 수사에 만전을 기하도록 지시했다"고 9일 밝혔다.&lt;br /&gt;&lt;br /&gt;대검은 당내 경선운동 방법 위반, 여론조사 관련 규정 위반, 사회관계망서비스(SNS) 등 각종 매체를 이용한 허위사실공표, 집회를 빙자한 불법선거운동, 선거폭력 등을 대표적인 선거 범죄로 지목했다.&lt;br /&gt;&lt;br /&gt;대검은 "이번 선거는 당내경선, 재외투표, 사전투표, 본투표가 모두 단기간에 집중돼 과열·혼탁 선거의 우려가 크다"며 "선거에 중대한 영향을 미칠 수 있는 불법 선거사범에 대해 유관기관과 협력해 엄정 대처하겠다"고 강조했다.</description>
-			<pubDate>Wed, 09 Apr 2025 12:14:22 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/207050</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/207050</guid>
-			<dc:creator>우빈 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
