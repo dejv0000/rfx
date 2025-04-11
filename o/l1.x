@@ -6,6 +6,26 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>한국신문윤리위원회 위원장에 이동원 전 대법관</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 370px;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/207109.jpg" alt="437.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;이동원 전 대법관&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;한국신문윤리위원회(이사장 서창훈 전북일보 회장)는 4월 9일 열린 제163차 이사회에서&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="8769"&gt;이동원&lt;/span&gt;(62·사법연수원 17기) 전 대법관을 위원장으로 인준했다. 임기는 2년이다.&lt;br /&gt;&lt;br /&gt;새 윤리위원에는 손동영 서울경제 발행인과 박학용 디지털타임즈 발행인이 위촉됐다.&lt;br /&gt;&lt;br /&gt;서울 경복고와 고려대 법학과를 졸업한 이 전 대법관은 1985년 제27회 사법시험에 합격해 1991년 서울형사지법 판사로 임관했다. 이후 대법원 재판연구관, 전주지법 부장판사, 서울중앙지법 부장판사, 수원지법 평택지원장, 대전고법 부장판사, 서울고법 부장판사, 수원지법 수석부장판사, 제주지법원장 등을 역임했다. 2018년 8월부터 2024년 8월까지 대법관을 지냈다. 현재는 고려대 로스쿨 석좌교수를 지내고 있다.&lt;/p&gt;</description>
+			<pubDate>Fri, 11 Apr 2025 02:17:25 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/207109</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/207109</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/207109.jpg</media:thumbnail>
+			<dc:creator>박수현 기자</dc:creator>
+		</item>
+		<item>
+			<title>법무법인 화우 자산관리센터, 유산정리본부 신설 및 유산정리 서비스 개시</title>
+			<description>&lt;p style="text-align: center;"&gt;   &lt;b&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/207108.jpg" alt="34534637.jpg" style="width: 320px; height: 214px;" /&gt;&lt;/b&gt;&lt;/p&gt;&lt;b&gt;&lt;a href="https://www.hwawoo.com/kor/main?lang=ko" target="_blank"&gt;법무법인 화우&lt;/a&gt;&lt;/b&gt;(대표변호사&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="8808"&gt;이명수&lt;/span&gt;)는 자산관리센터 내 유산정리본부를 신설하고 상속인을 위한 통합형 유산정리 서비스를 개시했다고 11일 밝혔다. 화우 관계자에 따르면 유산정리 서비스는 국내 대형로펌 중 첫 시도다.&lt;br /&gt;&lt;br /&gt;유산정리 서비스는 상속 개시 이후 발생할 수 있는 금융·법률·세무·부동산 관련 리스크를 진단하고 맞춤형 해결책을 제시하는 원스톱 솔루션이다.&lt;br /&gt;&lt;br /&gt;유산정리본부 및 유산정리 서비스 론칭은 화우 조세그룹과 자문관리센터의 전문가들이 주도했다. 화우의 유산정리 서비스는 하나은행 리빙트러스트센터를 만들고 유언대용신탁을 도입한 배정식 수석전문위원을 중심으로 박현정 전 하나은행 리빙트러스트 센터장, '한권으로 끝내는 상속과 증여' 공동 저자&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="15944"&gt;양소라&lt;/span&gt;(45·사법연수원 37기) 변호사, 공인회계사 자격이 있는&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="27930"&gt;허시원&lt;/span&gt;(41·변호사시험 2회) 변호사가 맡는다. &lt;br /&gt;&lt;br /&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="7001"&gt;전완규&lt;/span&gt;(53·31기) 자산관리센터장은 "화우의 고객 최우선주의 방침에 따라 피상속인과 상속인들의 현실적인 고민과 니즈를 반영해 화우 자산관리센터가 유산정리본부를 신설했다"며 "상속 분쟁 예방과 조기 해결 등을 비롯해 자산관리 분야에서 최고의 서비스를 제공하기 위한 노력을 지속하겠다"고 말했다.&lt;br /&gt;&lt;br /&gt;</description>
+			<pubDate>Fri, 11 Apr 2025 02:15:18 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/207108</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/207108</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/207108.jpg</media:thumbnail>
+			<dc:creator>안현 기자</dc:creator>
+		</item>
+		<item>
 			<title>【오늘의 국회일정】 2025년 4월 11일</title>
 			<description>&lt;b&gt;◇국회의장&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;10:00 2025년 국회 생생텃밭 개장식(국회헌정회 앞 좌측 텃밭)&lt;br /&gt;&lt;br /&gt;11:00 제106주년 대한민국임시정부 수립 기념식(국립대한민국임시정부기념관 의정원홀)&lt;br /&gt;&lt;br /&gt;14:00 광복 80주년 대한민국임시정부 수립 보훈단체 합동기념식(국립서울현충원 임시정부요인기념비)&lt;br /&gt;&lt;b&gt;&lt;br /&gt;◇의원실 세미나&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;09:00 이기헌 의원실 등, 원(ONE) 태권도 국제학술 포럼(의원회관 제1소회의실)&lt;br /&gt;&lt;br /&gt;10:00 박정 의원실 등, (접경지역 내일포럼) 접경지역 시장군수협의회 간담회(의원회관 제2세미나실)&lt;br /&gt;&lt;br /&gt;10:00 김성환 의원실 등, 주택 난방 탈탄소화를 위한 히트펌프 정책 방향 모색 토론회(의원회관 제9간담회의실)&lt;br /&gt;&lt;br /&gt;13:00 정을호 의원실, 대학언론의 독립성 확보를 위한 대학언론법 입법간담회(의원회관 제6간담회의실)&lt;br /&gt;&lt;br /&gt;14:00 김윤 의원실 등, [돌봄통합지원법 국회 토론회] 정책에서 실행으로, 돌봄통합지원법의 실효성을 말하다(의원회관 제3간담회의실)&lt;br /&gt;&lt;br /&gt;14:00 윤종오 의원실 등, 경제주권 폭망 '미국 USTR보고서-한국의 무역장벽' 진단과 대응(의원회관 제4간담회의실)&lt;br /&gt;&lt;br /&gt;14:00 송석준 의원실 등, 미래 혁신 모빌리티 하이퍼튜브 정책토론회(의원회관 제1세미나실)&lt;br /&gt;&lt;br /&gt;14:30 정혜경 의원실 등, 미디어 속 혐오표현 개선과 차별금지법 : 방송/통신 속 차별표현 및 혐오선동 규제 논의를 중심으로(의원회관 제7간담회의실)&lt;br /&gt;&lt;br /&gt;15:00 박균택 의원실 등, 군형법상 항명죄에 대한 헌법적 고찰(의원회관 제10간담회의실)&lt;br /&gt;&lt;b&gt;&lt;br /&gt;◇소통관 기자회견&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;10:00 이해식 의원, [현안 관련 기자회견]&lt;br /&gt;&lt;br /&gt;10:20 윤종오 의원, [윤석열 세금특혜방지법(지방세특례제한법 개정안)발의 기자회견]&lt;br /&gt;&lt;br /&gt;13:20 김현 의원, [더불어민주당 팩트체크넷 민주파출소 일일 브리핑]&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;b&gt;&lt;span style="font-size: 14px;"&gt;※ 상기 일정은 사정에 따라 변경될 수 있습니다.&lt;/span&gt;&lt;/b&gt;&lt;br /&gt;</description>
 			<pubDate>Thu, 10 Apr 2025 22:35:59 -0000</pubDate>
@@ -216,25 +236,6 @@
 			<link>https://www.lawtimes.co.kr/news/207050</link>
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/207050</guid>
 			<dc:creator>우빈 기자</dc:creator>
-		</item>
-		<item>
-			<title>법무법인 대륙아주, 시니어산업 지원 전문 ASL팀 발족</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/207047.jpg" alt="3453536.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: left; font-size:14px; line-height: 1.6em"&gt;법무법인 대륙아주의 ASL팀. 배우성 고문, 이태선·김희대 변호사, 이규철 대표변호사, 최종만 전 호반건설 사장, 이형기 전 현대산업개발 전무, 전재기·문주혜 변호사. (왼쪽부터)&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;b&gt;&lt;a href="http:// https://www.draju.com/ko/main/main.html" target="_blank"&gt;법무법인 대륙아주&lt;/a&gt;&lt;/b&gt;(대표변호사&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="8690"&gt;이규철&lt;/span&gt;)는 시니어산업 지원 전문팀(Advance Senior Life Team, ASL팀)을 발족했다고 9일 밝혔다.&lt;br /&gt;&lt;br /&gt;ASL팀은&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="8690"&gt;이규철&lt;/span&gt;(61·사법연수원 22기) 대표변호사를 중심으로&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="1567"&gt;김희대&lt;/span&gt;(59·30기) 변호사,&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="10278"&gt;전재기&lt;/span&gt;(51·33기) 건설부동산팀 팀장,&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="33285"&gt;문주혜&lt;/span&gt;(37·변호사시험 5회)·&lt;span style="font-weight: bold;" class="lawmanlink" serial="35038"&gt;이태선&lt;/span&gt;(38·7회) 변호사, 배우성 고문 등이 참여한다. 최종만 전 호반건설 사장, 이형기 전 현대산업개발 전무, 이윤학 전 BNK자산운용 대표 등 외부 전문가들도 자문위원으로 함께한다.&lt;br /&gt;&lt;br /&gt;대륙아주는 2024년 3월 동명대학교, 조선대학교와 협력 관계를 구축하고 대학기반은퇴자공동체(UBRC) 사업을 자문해왔다. UBRC는 미국 스탠퍼드대를 비롯한 100여 개 대학에서 30여 년간 운영돼 온 모델로, 교육과 복지를 결합한 새로운 형태의 시니어 커뮤니티다. 대륙아주는 수도권 소재 10여 개 대학과도 추가 협의를 진행 중이다.&lt;br /&gt;&lt;br /&gt;대륙아주 ASL팀은  △대학의 평생교육 기능과 시니어 커뮤니티를 연계한 연령친화적 대학 구현 △노후 부지 재개발을 통한 재개발 기반 은퇴 커뮤니티(RBRC) 조성 △시니어타운 관련 자산운용·리츠·토큰증권 등 금융상품에 대한 법률·투자 자문 등의 분야에서 활동할 계획이다.&lt;br /&gt;&lt;br /&gt;이규철 대표변호사는 "시니어 산업은 다양한 분야의 전문성이 융합돼야 시너지를 낼 수 있다"며 "앞으로도 전문 인재 확보에 적극 나서 고도화된 자문 서비스를 제공하겠다"고 밝혔다.&lt;br /&gt;&lt;br /&gt;배우성 고문은 "요양시설 중심의 기존 노년 라이프에서 벗어나 삶의 질을 유지하면서 미래를 설계하려는 액티브 시니어 세대의 수요가 급증하고 있다"며 "UBRC에 대한 기대감이 높다"고 전했다.&lt;br /&gt;</description>
-			<pubDate>Wed, 09 Apr 2025 08:39:49 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/207047</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/207047</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/207047.jpg</media:thumbnail>
-			<dc:creator>안현 기자</dc:creator>
-		</item>
-		<item>
-			<title>사법정책자문위 "법원, 형사절차 초기 피고인 장애 정보 확인하고 진술 조력해야"</title>
-			<description>사법정책자문위원회(위원장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="3865"&gt;권오곤&lt;/span&gt;)는 장애·연령 등으로 의사소통에 어려움이 있는 사회적 약자의 방어권과 사법 접근권을 보장하기 위해 형사재판 절차에서 법원이 피고인의 장애 정보를 확인하고 진술 조력을 할 필요가 있다고 건의했다.&lt;p&gt;&amp;nbsp;   &lt;/p&gt;&lt;p&gt;자문위는 9일 오후 '장애인 등을 위한 사법지원 제고 방안'을 안건으로 제10차 회의를 개최하고&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="6022"&gt;조희대&amp;nbsp;&lt;/span&gt;대법원장에게 이 같이 건의했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp; &lt;br /&gt;자문위는 "법원은 헌법상 재판받을 권리를 누구에게나 차별 없이 보장하기 위하여, 장애인, 노인 등 사회적 약자가 사법절차와 서비스를 제약 없이 이용할 수 있도록 정당한 편의를 제공함으로써 사법접근권을 보장할 책무가 있다"고 밝혔다. 그러면서 "현재 운용되고 있는 사회적 약자에 대한 사법지원제도를 체계화하고 사법지원에 관한 법원 내외부의 인식을 제고해 사법지원 제도를 좀 더 실효성 있고 일관되게 집행할 방안을 마련할 필요가 있다"고 제안했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;자문위는 △사회적 약자에 대한 사법지원의 원칙, 내용, 절차, 인력, 교육 등 제도 전반을 체계적으로 규율하는 내부 규범을 마련하고 △사법지원 업무와 정책을 총괄해 관리하고 집행할 조직과 기구를 마련해야 한다고 밝혔다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;또 "장애인, 노인 등 사회적 약자가 법원 시설에 제한 없이 접근할 수 있도록 물리적 시설 환경을 개선하고, 법원이 제공하는 사법정보를 쉽게 습득하여 그에 기한 의사소통을 할 수 있는 다양한 수단을 제공하기 위해 노력해야 한다"고 건의했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
-			<pubDate>Wed, 09 Apr 2025 08:23:53 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/207049</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/207049</guid>
-			<dc:creator>홍윤지 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
