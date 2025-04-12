@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>한소희, 사생활 논란 후 심경 고백?… “되돌아보면 볼품없던 순간도”</title>
+      <link>https://www.chosun.com/national/people/2025/04/12/IVN6QCNPKZC3JB2I5AG2DYLPCA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/04/12/IVN6QCNPKZC3JB2I5AG2DYLPCA/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 12 Apr 2025 09:00:34 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CGZUQKMAABAD3PKF4ELOXM5BDE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;배우 한소희. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;사생활 논란에 휩싸였던 배우 한소희(32)가 “되돌아보니 볼품없던 순간도 있었다”며 그동안 벌어졌던 일에 대한 심경을 밝히는 듯한 글을 올려 화제가 되고 있다.&lt;br&gt;&lt;br&gt;한소희는 지난 11일 블로그에 올린 글에서 “과거가 현재를 만들기에, 저도 자주 되돌아보는 편이라 생각해 보면 볼품없던 순간도 있었고, 옳다고 확신했던 것들이 아니었을 때가 대부분이었다”며 “그것에 매몰돼 있지 않으려 한다”고 했다.&lt;br&gt;&lt;br&gt;한소희는 “항상 더 나은 방향을 향해 나아가고자 애쓰지만, 삶은 종종 ‘뱁새가 황새를 따라가다 가랑이가 찢어진다’는 말처럼, 저는 요즘 제 분수와 역량에 맞는 하루들을 보내려고 노력한다”며 “매번 최고와 최선을 고집할 수는 없으니까. 그럴싸한 말들로 늘어놨지만 제가 줄곧 말하고자 하는 것은 ‘꽤 멋지지 않아도 우리네 인생을 살자’인 것 같다”고 했다.&lt;br&gt;&lt;br&gt;이어 “블로그는 저에게 참 따뜻한 소통 창구”라며 “자주는 못 오지만, 영화 촬영이 끝나고 휴가를 받아 최대한 여러분들과 자주 대화하고자 한다”고 활발한 소통을 예고했다. &lt;br&gt;&lt;br&gt;한소희는 팬들에겐 “나이가 들어가며 느끼는 건, 역시 건강이 최고라는 거다. 아프지 말고 또 만나자”고 했다.&lt;br&gt;&lt;br&gt;한소희는 ‘#인생 다 살아본 척’ ‘#나 혼자 감동’ ‘#내 코가 석자인데 가르치려 듦’ 등의 태그와 함께 고장 난 ATM 기기에 붙은 안내문 사진도 올렸다. 안내문엔 ‘불편을 드려 죄송합니다. 빠른 시일 내에 버르장머리를 고쳐 놓겠습니다’라는 문구가 적혀 있었다. 사생활 논란에 대한 입장으로 해석됐다. &lt;br&gt;&lt;br&gt;한소희는 지난해 동료 배우 류준열(39)과 열애 사실이 알려졌으나 환승 연애 의혹이 불거진 후 결별했다. 류준열은 가수 겸 배우 혜리(31)와 2017년부터 공개 열애를 했었다. 이 과정에서 혜리가 소셜미디어에 “재밌네”라는 글을 올리자, 한소희가 “저도 재미있네요”라는 글을 올려 논란이 되기도 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>“야 이 XX야” 상관인 장교 공동폭행‧모욕한 부사관, 결국 </title>
       <link>https://www.chosun.com/national/national_general/2025/04/12/JA5BGZBNPFH4LDZ2M2B3IMOFC4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/12/JA5BGZBNPFH4LDZ2M2B3IMOFC4/</guid>
@@ -909,19 +918,6 @@
       <media:content url="https://www.chosun.com/resizer/v2/CLIEM6FXPFCIJONHAV2JEHHOME.jpg?width=1600&amp;height=900&amp;auth=c0d9e413ada96c17541afeeb3bb1a9274240fed4e6676b72ec830ac23e22812a&amp;smart=true" type="image/jpeg" height="900" width="1600">
         <media:description type="plain">국민학교 재학 중이던 공씨가 스웨덴의 한 부부로부터 후원 받은 크레파스와 스케치북으로 그린 그림을 들고 있는 모습.(왼쪽 사진)
 공씨가 스웨덴 부부에게 보냈던 편지.(오른쪽 사진)/공삼현씨</media:description>
-      </media:content>
-    </item>
-    <item>
-      <title>중국發 미세먼지·몽골 황사까지… 숨 막히는 봄</title>
-      <link>https://www.chosun.com/national/transport-environment/2025/04/11/DBZQ3L47FBH25KV73Y6JT7YT4E/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/04/11/DBZQ3L47FBH25KV73Y6JT7YT4E/</guid>
-      <dc:creator>박상현 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 10 Apr 2025 15:55:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6FRGZDAKN333FFXL3G7YJPR6OU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 용산구 남산에서 바라본 서울 도심 위로 누런 황사띠가 펼쳐져 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;봄철은 중국발(發) 미세 먼지에 더해 고비사막과 내몽골고원에서 발원한 황사까지 겹치며 공기 질이 크게 탁해진다. 미세 먼지(PM10)와 초미세 먼지(PM2.5)에 섞인 각종 오염 물질과 바이러스가 눈과 코로 들어가면서 염증을 일으키고, 알레르기성 질환으로 발전하게 된다.&lt;br&gt;&lt;br&gt;10일 국립환경과학원과 기상청에 따르면, 11일 오전 서울을 비롯한 수도권과 충청·전북에서 초미세 먼지 수치가 ‘나쁨’을 기록할 것으로 전망됐다. 10일 곳곳에 황사비가 내린 데 이어 우리나라가 고기압 영향권에 들면서 대기 정체로 미세 먼지가 내륙 바깥으로 씻겨나가지 못한 것이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RNXMMTHFKJDTPBZLFUUB6VIKH4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대구 지역 초미세 먼지 농도가 '나쁨'을 보인 10일 대구 북구 산격동에서 바라본 도심이 뿌옇다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;올봄은 서풍(西風)이 주로 불면서 중국 등지에서 온 미세 먼지가 우리나라에 자주 쌓이고 있다. 봄철 한랭 건조한 북풍이 주로 불면 꽃샘추위를, 온난 습윤한 남풍이 불면 이상 고온을 견인하지만, 중국 내륙을 통과하는 서풍이 자주 불면 많은 미세 먼지를 동반하게 된다. 서울은 지난달 10일 자동차 운행 제한 등 미세 먼지 비상 저감 조치를 내렸는데, 봄(3~5월)에 비상 저감 조치를 낸 것은 2021년 3월 이후 4년 만이었다. &lt;br&gt;&lt;br&gt;서풍에 실려온 미세 먼지는 봄바람을 타고 우리 몸으로 들어온다. 미세 먼지가 눈으로 들어가면 결막을, 코로 들어가면 코 점막에 상처를 내고, 생채기 난 부위로 바이러스가 침투해 각종 질환으로 이어지게 된다. 미세 먼지로 인한 알레르기성 질환을 예방하려면 수시로 인공 눈물을 넣거나 물로 콧속을 씻어내는 것이 좋다. 환경부 관계자는 “미세 먼지는 노출을 줄이는 것이 최선이고, 외출 시엔 마스크·선글라스 등을 착용해 오염과의 접촉을 줄여야 한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/6FRGZDAKN333FFXL3G7YJPR6OU.jpg?width=3804&amp;height=2273&amp;auth=3b736f14c70bdd375084db31ae40eb77e483f92a7807bc80cf047709396ec88c&amp;smart=true" type="image/jpeg" height="2273" width="3804">
-        <media:description type="plain">서울 용산구 남산에서 바라본 서울 도심 위로 누런 황사띠가 펼쳐져 있다./뉴스1</media:description>
-        <media:credit role="author" scheme="urn:ebu">김진환</media:credit>
       </media:content>
     </item>
     <item>
