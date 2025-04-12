@@ -6,6 +6,15 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>'내란 우두머리 혐의' 尹... 14일 첫 공판 법정 내 촬영 불가</title>
+			<description>4월 14일로 예정된&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="8480"&gt;윤석열&amp;nbsp;&lt;/span&gt;전 대통령의 내란우두머리 혐의 형사 재판의 첫 공판을 앞두고, 재판부가 법정 내 사진·영상 촬영을 허용하지 않기로 했다. &lt;br /&gt;&lt;br /&gt;서울중앙지법 형사25부(재판장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="7225"&gt;지귀연&amp;nbsp;&lt;/span&gt;부장판사)는 11일 윤 전 대통령의 첫 공판기일에 언론사의 법정 내 촬영을 금지하기로 결정했다. 별도의 불허 사유는 밝히지 않았다. &lt;br /&gt;&lt;br /&gt;대법원의 법정 방청 및 촬영 등에 관한 규칙에 따르면 피고인이 동의할 경우 재판부는 법정 내부 촬영을 허가할 수 있다. 언론사가 촬영을 요청하면, 재판부는 피고인 측에 우편 송달 등을 통해 동의 여부를 확인하는 절차를 거치게 된다.&lt;br /&gt;&lt;br /&gt;다만 재판부는 피고인의 동의가 없더라도 법정 내 촬영이 공공의 이익에 부합할 경우 이를 허가할 수 있다.&lt;br /&gt;&lt;br /&gt;2017년 5월 박근혜 전 대통령의 국정농단 사건의 첫 재판과 2018년 5월 이명박 전 대통령의 뇌물수수 사건 첫 재판 때는 법정 내 촬영이 허가된 바 있다.&lt;br /&gt;</description>
+			<pubDate>Sat, 12 Apr 2025 08:38:21 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/207169</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/207169</guid>
+			<dc:creator>박수현 기자</dc:creator>
+		</item>
+		<item>
 			<title>【오늘의 국회일정】 2025년 4월 12일</title>
 			<description>&lt;b&gt;◇의원실 세미나&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;14:00 윤상현 의원실 등, 자유민주주의와 청년의 미래를 위한 2030 세대 토론회(의원회관 제1세미나실)&lt;br /&gt;&lt;br /&gt;15:00 김준형 의원실 등, 트럼프 2기의 미중대립과 우리 경제 대응방안(의원회관 제3세미나실)&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;b&gt;&lt;span style="font-size: 14px;"&gt;※ 상기 일정은 사정에 따라 변경될 수 있습니다.&lt;/span&gt;&lt;/b&gt;</description>
 			<pubDate>Fri, 11 Apr 2025 22:39:27 -0000</pubDate>
@@ -232,16 +241,6 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/207116</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/207116.jpg</media:thumbnail>
 			<dc:creator>박수현 기자</dc:creator>
-		</item>
-		<item>
-			<title>[판결] 대법, '공직선거법 위반' 강용석 변호사 징역형 집행유예 확정</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/207107.jpg" alt="3453636.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;강용석 변호사 《사진=연합뉴스》&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;2022년 6·1 지방선거를 앞두고 선거운동을 대가로 금품을 제공한 혐의 등으로 기소된&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="4269"&gt;강용석&lt;/span&gt;(56·사법연수원 23기) 변호사(전 국회의원)에게 징역형의 집행유예가 확정됐다. 대법원 형사1부(주심&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="1287"&gt;노경필&amp;nbsp;&lt;/span&gt;대법관)는 공직선거법 위반 등 혐의로 기소된 강 변호사에게 징역 1년6개월에 집행유예 3년을 선고한 원심을 3월 27일 확정했다(&lt;b&gt;2025도824&lt;/b&gt;).&lt;br /&gt;&lt;b&gt;&lt;br /&gt;[사실관계]&lt;/b&gt;&lt;br /&gt;강 변호사는 2022년 지방선거 당시 경기도지사 후보로 출마해 선거운동을 도운 업체 대표이자 자신의 처남인 윤 모 씨에게 이체한 6억6000만 원 중 불상의 금액을 선거운동 비용으로 지급한 혐의로 불구속 기소됐다. 선거운동을 도운 또 다른 업체에 수천만 원의 용역 대금을 부풀려 지급하는 등 부당한 금품을 제공한 혐의도 받았다. 소셜 미디어(SNS) 관리와 보도자료 작성 등 선거운동 관련 업무를 한 대가로 유튜브 채널 '가로세로연구소'의 직원에게 300만 원을 지급한 혐의도 있었다.&lt;br /&gt;&lt;b&gt;&lt;br /&gt;[하급심 판단]&lt;/b&gt;&lt;br /&gt;1심은 징역 1년 6개월에 집행유예 3년을 선고했다. 1심 재판부는 "선거운동 기구를 통해 해야 할 관련 업무를 용역계약을 체결하는 방식으로 자신의 가족, 친족이 설립한 회사 등에 외주를 주면서 그 대가로 상당한 금액을 지급하고, 후보자의 인스타그램 관리 등을 한 직원에게 법정 수당을 현저히 초과한 돈을 지급함으로써 공직선거법의 입법취지를 정면으로 침해했다"며 "범행 경위, 수단과 방법 등에 비추어 죄질이 매우 불량하다"고 했다. 또 "강 변호사가 국회의원을 역임한 유명 정치인인데다가 여러 차례 선거에 출마한 경험까지 있음을 고려하면, 경기도지사 선거라는 공적 영역에 가족회사라는 사적인 이해관계를 접목시켜 현행법의 테두리를 넘나든 행위는 더욱 비난 가능성이 높다"며 "공직선거법 위반죄로 인한 2회의 벌금형 전과가 있음에도 또다시 동종 범행을 저질렀다"고 밝혔다.&lt;p&gt;&lt;br /&gt;다만 선거사무원들에게 허용 가격 범위가 넘는 음식을 제공한 혐의, 선거관리위원회에 식사 명단 등을 허위로 제공한 혐의는 무죄로 판단했다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;항소심도 1심 판단에 잘못이 없다고 보고 검사와 강 변호사 측 항소를 모두 기각했다.&lt;br /&gt;&lt;b&gt;&lt;br /&gt;[대법원 판단]&lt;/b&gt;&lt;br /&gt;대법원의 판단도 같았다. 대법원은 "원심 판결 이유를 관련 법리와 적법하게 채택된 증거에 비추어 살펴보면, 원심 판단에 필요한 심리를 다하지 않은 채 논리와 경험 법칙을 위반하여 자유심증주의 한계를 벗어나거나 공직선거법위반죄 성립, 공모공동정범, 증거능력, 공소사실 특정, 불가벌적 사후행위 등에 관한 법리를 오해한 잘못이 없다"며 상고를 기각하고 강 변호사에 대한 징역 1년6개월에 집행유예 3년을 확정했다.&lt;/p&gt;</description>
-			<pubDate>Fri, 11 Apr 2025 03:08:17 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/207107</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/207107</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/207107.jpg</media:thumbnail>
-			<dc:creator>홍윤지 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
