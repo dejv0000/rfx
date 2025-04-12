@@ -6,6 +6,15 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>(금주 법조계 주요일정) 4월 14~19일</title>
+			<description>&lt;b&gt;△14일(월)&lt;br /&gt;&lt;/b&gt;-서울중앙지법, '내란우두머리 혐의' 윤석열 전 대통령 1차 공판(오전 10시)&lt;br /&gt;-서울남부지법, '특수공무집행 방해 등 혐의' 황교안 외 26명 자유한국당 패스트트랙 사건 공판(오전 10시)&lt;br /&gt;-대한변호사협회, 변호사 배출 수 감축을 위한 대규모 집회(오전 11시 30분, 과천 중앙동 정부과천종합청사 앞)&lt;br /&gt;&lt;b&gt;&lt;br /&gt;△15일(화)&lt;/b&gt;&lt;br /&gt;-대법원 2부 선고(오전 10시)&lt;br /&gt;-서울중앙지법, '특정범죄가중처벌등에관한법률위반(뇌물 등) 혐의' 이재명 전 민주당 대표 외 1명 74차 공판(오전 10시)&lt;br /&gt;-서울중앙지법, '독점규제및공정거래에관한법률위반 등 혐의' 최지성 전 삼성 미래전략실장 외 3명 6차 공판준비기일(오전 11시)&lt;br /&gt;-서울남부지법, '자본시장과금융투자업에관한법률위반 혐의' 윤관, 구연경 공판(오전 11시20분)&lt;br /&gt;-서울고법, '특정경제범죄가중처벌등에관한법률위반(횡령) 등 혐의' 박삼구 전 금호그룹회장 외 4명 공판(오후 2시30분)&lt;br /&gt;-서울고법, '정당법위반 혐의' 윤관석 전 민주당 의원 외 2명 공판(오후 3시)&lt;br /&gt;-법무법인 화우·마이크로소프트, 'AI시대, 기업은 무엇을 준비해야 하는가' 세미나(오후 3시, 삼성동 아셈타워 34층 화우연수원)&lt;br /&gt;&lt;b&gt;&lt;br /&gt;△16일(수)&lt;/b&gt;&lt;br /&gt;-법무법인 대륙아주·헤럴드경제, 공동주최 산업안전법제포럼 4월 초청 강연 '정진우 서울과학기술대학교 안전공학과 교수- 중대재해처벌법 판결 동향으로 바라본 대응 전략'(오전 7시 30분, 장충동2가 앰배서더 서울 풀만 호텔 19층 남산홀)&lt;br /&gt;-서울중앙지법, '내란중요임무종사 등 혐의' 조지호 외 3명 4차 공판(오전 10시)&lt;br /&gt;-서울고법, '권남용권리행사방해 등 혐의’ 양승태 전 대법원장 외 2명 공판(오후 2시)&lt;br /&gt;-서울중앙지법, '사기 등 혐의' 박기수 아도인터내셔널 계열사 대표 외 3명 1차 공판(오후 2시50분)&lt;br /&gt;-서울중앙지법, '사기 등 혐의' 이천석 아도인터내셔널 대표 외 1명 1차 공판(오후 4시)&lt;br /&gt;&lt;b&gt;&lt;br /&gt;△17일(목)&lt;/b&gt;&lt;br /&gt;-서울남부지법, '자본시장과금융투자업에관한법률위반 등 혐의' 강영권 전 에디슨모터스 회장 외 9명 공판(오전 10시)&lt;br /&gt;-서울중앙지법, '특정경제가중처벌등에대한위반(사기 등) 혐의' 김현재 케이삼흥 회장 외 4명 3차 공판(오전 10시20분)&lt;br /&gt;-법무법인 율촌, 2025년 공정거래 그룹 상반기 고객 초청 세미나 '2025년 주목해야 할 공정거래 트렌드'(오후 3시,  삼성동 법무법인 율촌 39층 Lecture Hall)&lt;br /&gt;-법무법인 바른, '인공지능과 우리의 미래(민원기 총장)' 4월 목요세미나(오후 12시, 대치동 법무법인 바른 15층 대강당)&lt;br /&gt;-법무법인 바른, 상속신탁연구회 제100회 세미나 &amp; 출판기념회(오후 6시, 대치동 섬유센터빌딩 9층 바른 회의실)&lt;br /&gt;&lt;b&gt;&lt;br /&gt;△18일(금)&lt;/b&gt;&lt;br /&gt;-서울중앙지법, '특정경제가중처벌등에관한법률위반(사기 등) 혐의' 이상영 대우산업개발 회장 외 4명 18차 공판(오전 10시)&lt;br /&gt;-서울중앙지법, '내란주요임무종사 등 혐의' 김용현 외 2명 4차 공판(오전 10시)&lt;br /&gt;-서울고법, '상관명예훼손 등 혐의' 박정훈 대령 공판(오전 10시)&lt;br /&gt;-서울남부지법, 신한은행-라임자산운용 '손해배상청구의 소' 7차 변론(오전 10시10분)&lt;br /&gt;-서울남부지법, '폭력행위등처벌에관한법률위반(공동폭행) 등 혐의' 박범계 외 9명 민주당 패스트트랙 사건 공판(오후 2시)&lt;br /&gt;-서울남부지법, '출판물에의한명예훼손 등 혐의' 신성식 외 1명 공판(오후 2시)&lt;br /&gt;&lt;b&gt;&lt;br /&gt;△19일(토)&lt;/b&gt;&lt;br /&gt;-서울지방변호사회, 2025 춘계 등산야유회(등산)(오전 7시, 충남 청양군 대치면 칠갑산)</description>
+			<pubDate>Sat, 12 Apr 2025 22:08:14 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/207159</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/207159</guid>
+			<dc:creator>인터넷 기자</dc:creator>
+		</item>
+		<item>
 			<title>'내란 우두머리 혐의' 尹... 14일 첫 공판 법정 내 촬영 불가</title>
 			<description>4월 14일로 예정된&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="8480"&gt;윤석열&amp;nbsp;&lt;/span&gt;전 대통령의 내란우두머리 혐의 형사 재판의 첫 공판을 앞두고, 재판부가 법정 내 사진·영상 촬영을 허용하지 않기로 했다. &lt;br /&gt;&lt;br /&gt;서울중앙지법 형사25부(재판장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="7225"&gt;지귀연&amp;nbsp;&lt;/span&gt;부장판사)는 11일 윤 전 대통령의 첫 공판기일에 언론사의 법정 내 촬영을 금지하기로 결정했다. 별도의 불허 사유는 밝히지 않았다. &lt;br /&gt;&lt;br /&gt;대법원의 법정 방청 및 촬영 등에 관한 규칙에 따르면 피고인이 동의할 경우 재판부는 법정 내부 촬영을 허가할 수 있다. 언론사가 촬영을 요청하면, 재판부는 피고인 측에 우편 송달 등을 통해 동의 여부를 확인하는 절차를 거치게 된다.&lt;br /&gt;&lt;br /&gt;다만 재판부는 피고인의 동의가 없더라도 법정 내 촬영이 공공의 이익에 부합할 경우 이를 허가할 수 있다.&lt;br /&gt;&lt;br /&gt;2017년 5월 박근혜 전 대통령의 국정농단 사건의 첫 재판과 2018년 5월 이명박 전 대통령의 뇌물수수 사건 첫 재판 때는 법정 내 촬영이 허가된 바 있다.&lt;br /&gt;</description>
 			<pubDate>Sat, 12 Apr 2025 08:38:21 -0000</pubDate>
@@ -230,16 +239,6 @@
 			<link>https://www.lawtimes.co.kr/news/207089</link>
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/207089</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/images/3436.png</media:thumbnail>
-			<dc:creator>박수현 기자</dc:creator>
-		</item>
-		<item>
-			<title>홈플러스, 법원에 채권자목록 제출... 2조 7000억 원 규모</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/207116.jpg" alt="54647.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;서울시내 한 홈플러스 매장. 《사진=연합뉴스》&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;기업회생 절차(법정관리)를 밟고 있는 홈플러스의 채권액이 2조 7000억여 원에 달하는 것으로 나타났다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;서울회생법원 회생4부(재판장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="6335"&gt;정준영&amp;nbsp;&lt;/span&gt;법원장, 주심&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="30060"&gt;김소영&amp;nbsp;&lt;/span&gt;부장판사)는 4월 11일 홈플러스가 전날 채권자목록을 제출했다고 밝혔다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;회생담보권은 4건 약 269억 원 규모이며, 회생채권은 총 2894건 약 2조 6691억 원에 달한다. 회생채권은 담보신탁채권, 대여금채권, 기업어음(CP), 전자단기사채, 기업구매전용카드채권, 물품대금채권 등으로 구성됐다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;채권자들은 4월 11일부터 홈플러스의 공식 홈페이지 공지사항 내 '채권자목록 조회 시스템'을 통해 채권 내용을 확인할 수 있다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;만약 채권자목록에 자신의 채권이 누락돼 있거나 채권액이 맞지 않는 경우, 4월 24일 전까지 법원에 채권신고를 해야 한다. 공지사항란에 있는 채권신고서류를 작성해 서울회생법원에 직접 방문 제출하거나, 우편 제출하면 된다. 전자소송 사용자로 등록된 채권자의 경우, 재판부로부터 전자소송 인증번호를 발급받은 뒤 서류를 제출하면 된다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;앞서 홈플러스는 3월 4일 서울회생법원에 회생절차 개시를 신청했고, 법원은 약 11시간 만에 회생절차 개시를 결정했다. 홈플러스는 신용등급 강등으로 인한 잠재적 자금이슈에 선제적으로 대응하기 위한 방안이었다고 밝힌 바 있다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;채권 조사 기간은 5월 8일까지이다. 조사보고서는 삼일회계법인이 5월 22일까지 제출해야 하며, 회생계획안 제출 기한은 6월 12일까지다.&lt;/p&gt;&lt;p&gt;   &lt;span style="color: #3f3f3f; font-family: Gulim; font-size: 14px; letter-spacing: -0.65px;"&gt;&lt;/span&gt;&lt;span style="color: #3f3f3f; font-family: Gulim; font-size: 14px; letter-spacing: -0.65px;"&gt;&lt;/span&gt;&lt;/p&gt;</description>
-			<pubDate>Fri, 11 Apr 2025 04:55:47 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/207116</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/207116</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/207116.jpg</media:thumbnail>
 			<dc:creator>박수현 기자</dc:creator>
 		</item>
 	</channel>
