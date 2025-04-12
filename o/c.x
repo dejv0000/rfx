@@ -13,6 +13,51 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>“야 이 XX야” 상관인 장교 공동폭행‧모욕한 부사관, 결국 </title>
+      <link>https://www.chosun.com/national/national_general/2025/04/12/JA5BGZBNPFH4LDZ2M2B3IMOFC4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/12/JA5BGZBNPFH4LDZ2M2B3IMOFC4/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 12 Apr 2025 08:05:16 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VDZIEJTKE63QO375J37JOA3HAQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원 관련 이미지. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;육군에서 부사관으로 복무할 당시 상관인 장교를 폭행한 20대 남성이 징역형의 집행유예를 선고받았다.&lt;br&gt;&lt;br&gt;12일 인천지법 형사9단독 정제민 판사는 상관 공동폭행과 상관 모욕 등 혐의로 기소된 A(27)씨에게 징역 1년에 집행유예 2년을 선고했다고 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 2023년 10월 하사로 복무하던 시기에 육군 한 부대 전투형 창고에서 상관인 중위 B씨를 폭행한 혐의 등으로 재판을 받아왔다.&lt;br&gt;&lt;br&gt;A씨는 당시 훈련 물자를 정리하던 중 다른 장교들이 도와주지 않자 동료 부사관과 함께 B씨에게 화풀이를 했다. A씨가 B씨 몸을 뒤에서 양팔로 잡고, 또 다른 부사관 C씨가 B씨 복부를 주먹으로 3차례 때렸다.&lt;br&gt;&lt;br&gt;A씨는 앞서 같은 해 9월에는 C씨 집에 모여 술을 마시다가 B씨가 소주 대신 맥주를 마시겠다고 하자 “야 이 XX야”라며 모욕하기도 했다.&lt;br&gt;&lt;br&gt;A씨는 비슷한 시기 생활관에서 부하인 상병을 관물대 옷 수납장에 밀어 넣은 뒤 폭행한 혐의 등도 있다.&lt;br&gt;&lt;br&gt;정 판사는 “피고인은 부대원들이 보는 앞에서 (다른 부사관과 함께) 상관을 폭행하거나 모욕했다. 별다른 이유 없이 병사를 반복해서 때리기도 했다. 피고인의 범행이 소속 부대의 군기에 미친 영향을 고려하면 책임이 가볍지 않다”면서도 “범행을 모두 인정하면서 반성하는 태도를 보였고, 당시 사건으로 징계 처분을 받고 군인 신분을 잃은 점 등을 고려했다”고 양형 이유를 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>형사 재판 피고인석 앉은 尹 모습 촬영 안된다… 재판부 불허</title>
+      <link>https://www.chosun.com/national/court_law/2025/04/12/J2VTE4VB2NBIZKJIHYZPCUROEE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/04/12/J2VTE4VB2NBIZKJIHYZPCUROEE/</guid>
+      <dc:creator>박강현 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 12 Apr 2025 07:14:30 +0000</pubDate>
+      <content:encoded>이틀 앞으로 다가온 윤석열 전 대통령의 내란 혐의 첫 정식 형사 재판에서 피고인석에 앉은 윤 전 대통령의 모습 등 법정 상황이 사진·영상으로 공개되지 않을 예정이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MBNUU3B6BJBYHFKBIX56J4URAA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령이 11일 오후 서울 한남동 관저를 나가면서 지지자들을 향해 손을 흔들고 있다. /김지호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;12일 본지 취재를 종합하면 이 사건을 담당하는 서울중앙지법 형사25부(재판장 지귀연)는 오는 14일 오전 10시에 열리는 윤 전 대통령의 ‘내란 우두머리’ 혐의 첫 공판 기일에 대한 언론사의 법정 내 촬영 신청을 받아들이지 않기로 전날(11일) 결정했다. &lt;br&gt;&lt;br&gt;해당 언론사는 전날 오후 4~5시쯤 법정 촬영 관련 신청서를 제출했고, 당일 오후 늦게까지 재판 업무가 있었던 재판부는 일과 시간을 넘겨 이 같은 결정을 내렸다고 한다. 구체적인 불허 이유는 알려지지 않았다.&lt;br&gt;&lt;br&gt;이에 따라 윤 전 대통령이 법정에 들어와 피고인석에 앉아 있거나 발언하는 장면 등은 공개되지 않을 것으로 보인다. 윤 전 대통령은 전날 서울 한남동 관저를 떠나 서초동 사저로 돌아왔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZAKREK32ZZPAVBHW4MV2XTRLA4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울중앙지법. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;법원의 ‘법정 방청 및 촬영 등에 관한 규칙’에 따르면 재판장은 피고인의 동의가 있는 때에 한해 촬영 신청에 대한 허가를 할 수 있다. 다만, 피고인의 동의 여부에 관계없이 촬영 등 행위를 허가하는 게 공공의 이익을 위해 상당하다고 인정되는 경우에도 허가할 수 있다. &lt;br&gt;&lt;br&gt;윤 전 대통령은 민주화 이후 형사 재판을 받는 다섯 번째 전직 대통령이다. 앞서 전두환·노태우·이명박·박근혜 전 대통령이 재판을 받았다.&lt;br&gt;&lt;br&gt;12·12 사건과 뇌물 수수 혐의로 1996년 함께 법정에 선 전·노 전 대통령 재판의 경우엔 90초 동안 취재진의 촬영이 허용됐다. &lt;br&gt;&lt;br&gt;2017년 박 전 대통령의 국정농단 사건 첫 정식 재판, 이듬해 5월 이 전 대통령의 뇌물수수·횡령 등 사건 첫 정식 재판 때 이들이 피고인석에 앉은 모습이 언론을 통해 공개된 바 있다.&lt;br&gt;&lt;br&gt;당시 재판부는 공공의 이익 등을 고려해 촬영을 허가한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>尹 사저 복귀 첫 주말… 지지자들 광화문·서초동 집회</title>
+      <link>https://www.chosun.com/national/national_general/2025/04/12/4RRQU7YLSRG4HGQJLI272YUSJE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/12/4RRQU7YLSRG4HGQJLI272YUSJE/</guid>
+      <dc:creator>고유찬 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 12 Apr 2025 07:13:55 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VEGH3RWDUZNELODRV3L42QCR2I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;12일 서울 세종대로에서 자유통일당이 연 광화문 국민대회에서 집회 참가자들이 탄핵 무효 등을 외치고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 전 대통령이 서초동 사저로 복귀한 이튿날인 12일 서울 광화문과 사저 인근에선 지지자들의 집회가 열렸다.&lt;br&gt;&lt;br&gt;전광훈 목사가 주축인 대한민국바로세우기운동본부(대국본)는 주말을 맞아 이날 오후 1시 종로구 광화문 일대에서 ‘국민저항권 광화문 국민대회’를 열었다. 오후 2시 기준 1만여명(경찰 비공식 추산)이 모였다.&lt;br&gt;&lt;br&gt;세종대로 사거리 동화면세점부터 시작한 시위 행렬은 서울시청 앞까지 늘어섰다. 비가 내리는 가운데 참가자들은 한 손에는 우산을, 다른 손에는 태극기와 성조기를 들었다. 이들은 “윤 어게인” “사기 탄핵” 등 구호를 외쳤다.&lt;br&gt;&lt;br&gt;사회자는 “반드시 윤석열 대통령이 제자리로 돌아와 불법 사기 탄핵의 진실을 밝혀야 한다”고 주장했다. 국민의힘 조배숙 의원도 무대에 올라 “탄핵 심판 선고가 끝이 아니다. 대통령 선거가 남아 있고 우리는 하나가 돼야 한다”고 말했다.&lt;br&gt;&lt;br&gt;윤 전 대통령 지지 단체인 ‘자유대학’ 등은 오후 2시 서초동 사저와 가까운 지하철 2·3호선 교대역 8번 출구에서 ‘온리 윤석열 어게인 집회’를 개최했다. 오후 3시 기준 2000명(경찰 비공식 추산)이 모였다.&lt;br&gt;&lt;br&gt;이들은 태극기와 함께 ‘윤 어게인’이 적힌 손팻말을 흔들며 “불법 탄핵” “탄핵 무효” 등의 구호를 외쳤다. 윤 전 대통령 이름을 연호하기도 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“손흥민 나이가 문제, 팀 위해 제외해야” BBC가 전한 현지 여론</title>
+      <link>https://www.chosun.com/national/people/2025/04/12/6OE6TUAHQFEXVKYHRTNOZ5MYTI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/04/12/6OE6TUAHQFEXVKYHRTNOZ5MYTI/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 12 Apr 2025 06:49:58 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6EOZIVSEVRMMBDWNP4GUEXGNG4.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 25일 오후 경기 수원월드컵경기장에서 열린 2026 국제축구연맹(FIFA) 북중미 월드컵 아시아 3차 예선 B조 8차전 대한민국과 요르단의 경기, 대한민국 손흥민이 공격에 실패하자 아쉬워하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;잉글랜드 프로축구 프리미어리그(EPL) 토트넘 홋스퍼의 손흥민(32)이 최근 부진한 모습을 보이자 현지 팬들이 “나이가 너무 많다”며 냉정한 평가를 하고 있는 것으로 알려졌다. &lt;br&gt;&lt;br&gt;영국 BBC는 11일 ‘우리는 토트넘의 주장 손흥민의 최근 활약에 대한 팬들의 의견을 요청했다’며 그 결과를 공개했다. 대부분의 팬은 손흥민의 나이가 너무 많다는 점을 지적하며 부정적인 답변을 내놨다.&lt;br&gt;&lt;br&gt;션(Sean)이라는 팬은 “손흥민의 문제는 나이”라며 “신체적으로 하락하고 있다”고 했다. 션은 “토트넘 팬들은 손흥민이 이제 3∼4일 간격으로 경기를 뛸 수 없다는 점을 현실로 받아들여야 한다. 손흥민은 일주일 정도 완전히 쉬어야 한다”고 지적했다.&lt;br&gt;&lt;br&gt;리처드(Richard)라는 팬은 “손흥민이 주장 완장을 크리스티안 로메로에게 넘겨줘야 한다고 본다. 손흥민이 자유롭게 자신을 보여줄 수 있도록 해야 한다”고 했다.&lt;br&gt;&lt;br&gt;렌(Len)이라는 팬은 “손흥민도 나이를 피해 갈 수는 없다. 안타깝지만 더는 예전처럼 뛰어난 선수가 아니다. 팀을 위해서라도 그를 빼야 한다”라고 말했고, 찰리(Charlie)라는 팬은 “손흥민이 나이가 들면서 스피드가 떨어지고, 이것이 경기력에 큰 영향을 준다고 생각한다”고 했다.&lt;br&gt;&lt;br&gt;이 밖에 로리(Rory)라는 팬은 “손흥민은 훌륭한 선수였지만 이제는 뛰어난 백업 자원으로 뛰어야 할 시기”라며 “경기 중반 이후 투입되면 지친 수비수들을 상대로 경기에 더 큰 영향을 줄 것 같다”고 했다.&lt;br&gt;&lt;br&gt;BBC는 11일 토트넘과 아인라흐트 프랑크푸르트와의 2024-2025 유럽축구연맹(UEFA) 유로파리그 8강 1차전(1-1 무)이 끝나고 난 뒤 손흥민에 대해 “더는 토트넘에서 꼭 필요한 존재는 아닐 수도 있다”고 평가하기도 했다.&lt;br&gt;&lt;br&gt;손흥민은 토트넘에서 9시즌 연속 두 자릿수 득점을 기록하고 있지만, 최근 현지 언론으로부터 혹평을 받고 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>브아걸 가인  “엄마가 날 살렸다“... 자숙 후 5년 만에 심경 고백</title>
+      <link>https://www.chosun.com/national/people/2025/04/12/X6C72ISNAJBULF75CMGANFGTEQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/04/12/X6C72ISNAJBULF75CMGANFGTEQ/</guid>
+      <dc:creator>정아임 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 12 Apr 2025 05:35:18 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XATWGKYWDZD6FIGF3KY4Y2LJ7A.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;브라운아이드걸스 멤버 가인. /인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그룹 브라운아이드걸스 멤버 가인이 프로포폴 투약 논란 후 5년 만에 심경을 전했다.&lt;br&gt;&lt;br&gt;지난 11일 2AM 멤버 임슬옹의 개인 유튜브 채널 ‘옹스타일’에는 가인이 출연했다. 가인은 2019년 향정신성 의약품인 프로포폴 불법 투약 혐의로 적발돼 2020년 벌금형을 받은 바 있다. 가인은 이날 논란 이후 5년 만에 당시 겪었던 어려움에 대해 털어놨다. &lt;br&gt;&lt;br&gt;가인은 “어떤 사건이 좀 있지 않았나. 심적으로도, 건강도 많이 안 좋았다. 우울증, 불면증, 공황장애처럼 우리 일을 하다 보면 기본적으로 많이 오는 것들이 있지 않나. 집에서 시간을 계속 보내게 되더라”고 했다.&lt;br&gt;&lt;br&gt;가인은 슬럼프가 시작되려고 할 때 어머니가 극복을 도와줬다고 했다. 그는 “엄마가 가게를 운영하셨는데 거기에 나를 끌고 나가셨다. 나는 못 간다고 했다. 직원이 6~7명이 있는데, 그때 나에 대해 안 좋은 기사도 나고 그럴 때였다. 나는 안 나겠다고 했는데 다음 날 끌고 갔다. 그래서 나갔는데 일주일은 너무 곤욕이었다. 내 기사를 봐서 다 알 텐데, 그 친구들과 일하는 것 자체가 너무 힘들었다”고 말했다.&lt;br&gt;&lt;br&gt;이어 “그런데 하루 지나고 이틀 지나고 거의 매일 일하고 집에 와서 몸이 힘드니까 지쳐 잤다. 핸드폰도 안 봤다. 어릴 때 알바도 안 해보고 일을 시작했다. 엄마가 나에게 맡겨두고 점점 안 나오기 시작해서 내가 해야 할 일들이 늘어났다. 그래서 직원들과 같이 퇴근했다”고 이야기했다.&lt;br&gt;&lt;br&gt;또한 “오후 3시~4시에 시작해서 11~12시쯤 일이 끝났다. 다음 날 출근해야 하니까 집에 와도 외로울 틈이 없다. 집에 와서 넷플릭스 보면서 밥 먹고 청소하고 스트레칭하고 잠들었다. 엄마가 그렇게 하게 했던 교육이 나에게 맞았다. 눈물이 날 거 같다. 엄마도 뒤에서 많이 힘들었을 거다. 그 순간이 지금 나를 살린 것 같다”며 눈물을 흘렸다.&lt;br&gt;&lt;br&gt;그러면서 “너무 고마웠던 게 엄마다. 아니면 내가 지금 어떻게 됐을지, 3년이란 시간을 어떻게 버텼을까 싶다. 엄마에게 죄송한 게 내가 젊었을 때 잘 나가고 있을 때는 엄마를 잘 찾지 않다가 힘들어지니까 엄마한테 손을 벌리게 된 게 조금 미안하다. 그래서 잘하고 싶고 효도를 해야겠다는 마음이 크다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>전국 비 예보에, 고속도로 교통량도 줄어</title>
       <link>https://www.chosun.com/national/national_general/2025/04/12/D3OSG4GF5RBF7LHJ7CECBZXTYE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/12/D3OSG4GF5RBF7LHJ7CECBZXTYE/</guid>
@@ -878,55 +923,6 @@
         <media:description type="plain">서울 용산구 남산에서 바라본 서울 도심 위로 누런 황사띠가 펼쳐져 있다./뉴스1</media:description>
         <media:credit role="author" scheme="urn:ebu">김진환</media:credit>
       </media:content>
-    </item>
-    <item>
-      <title>‘韓대행 재판관 지명 사건’ 주심에 마은혁</title>
-      <link>https://www.chosun.com/national/court_law/2025/04/11/BUSUYFQT6JBJ5AMEJVZDUCKH4I/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/04/11/BUSUYFQT6JBJ5AMEJVZDUCKH4I/</guid>
-      <dc:creator>김희래 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 10 Apr 2025 15:53:00 +0000</pubDate>
-      <content:encoded>지난 9일 취임한 마은혁 헌법재판관이 한덕수 대통령 권한대행의 대통령 몫 헌법재판관 후보자(이완규·함상훈) 지명에 대한 헌법소원과 효력 정지 가처분 사건의 주심을 맡은 것으로 10일 전해졌다. 주심 재판관은 재판관들이 의견을 교환하는 평의를 주도하고 결정문 초안을 작성하는 역할을 한다.&lt;br&gt;&lt;br&gt;헌법재판소는 이날 무작위 전자 배당 방식을 통해 한 권한대행의 헌법재판관 후보자 지명이 위헌인지 다투는 사건들을 마 재판관에게 배당한 것으로 알려졌다. 헌법소원 등 사건이 배당되면 헌재는 30일 이내에 사건이 적법 요건을 갖췄는지를 판단해 각하 여부를 결정해야 한다. 사건이 각하되지 않으면, 재판관 9명이 평의를 통해 인용이나 기각 결정을 내리게 된다.&lt;br&gt;&lt;br&gt;다만 효력 정지 가처분 사건은 본안 판단을 내리기 전 일정 기간 효력을 정지하는 처분이어서 더 빨리 결론이 나온다. 특히 오는 18일 문형배 헌재소장 권한대행과 이미선 재판관이 퇴임을 앞두고 있어, 그 이전에 가처분 결정이 나올 가능성이 높다는 게 법조계 관측이다. 재판관 5명 이상이 가처분 신청을 인용하면, 한 권한대행의 후임 재판관 지명은 효력이 정지된다.&lt;br&gt;&lt;br&gt;한 권한대행은 지난 8일 마 재판관을 임명하면서 문 권한대행과 이 재판관 후임으로 이완규 법제처장, 함상훈 서울고법 부장판사를 지명했다. 윤석열 전 대통령이 파면돼 대통령 궐위 상태가 되자, 대통령 몫 헌법재판관 2명에 대해 한 권한대행이 적극적인 권한 행사에 나선 것이다.&lt;br&gt;&lt;br&gt;이에 법무법인 도담 소속 김정환 변호사와 법무법인 덕수 등은 지난 9일 한 권한대행의 헌법재판관 후보자 지명에 대해 헌법소원과 효력 정지 가처분 신청을 냈다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>헌재 “안가 회동만으로 내란 가담 볼 수 없어”</title>
-      <link>https://www.chosun.com/national/court_law/2025/04/11/PXZDP3MHTVASHLDW33WM6JTSNM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/04/11/PXZDP3MHTVASHLDW33WM6JTSNM/</guid>
-      <dc:creator>김은경 기자, 김나영 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 10 Apr 2025 15:53:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NDW5BDWOUATRQOPEH3DH55TH6M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;탄핵안 기각으로 직무 복귀한 박성재 법무부 장관이 10일 경기 과천 법무부 청사로 출근하며 취재진 질문에 답하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;헌법재판소가 10일 박성재 법무부장관에 대한 국회의 탄핵 청구를 재판관 전원일치 의견으로 기각했다. 이에 따라 작년 12월 12일 국회에서 탄핵소추안이 통과되며 직무가 정지됐던 박 장관은 119일 만에 복귀했다. 박 장관은 선고 직후 과천 법무부 청사로 출근하며 “장기간 업무를 비웠기 때문에 한시라도 빨리 정상적으로 업무를 수행하기 위해 노력하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;헌재는 이날 “평의에 참여한 재판관 8인의 전원 일치된 의견으로 탄핵 심판 청구를 기각한다”고 선고했다. 지난 9일 취임한 마은혁 재판관은 심리 및 선고에 참여하지 않았다. &lt;br&gt;&lt;br&gt;국회가 박 장관을 탄핵소추한 이유는 윤석열 전 대통령의 내란 행위에 가담한 점, 국회의 각종 자료 제출 요구를 거부한 점, 국회 본회의 도중에 퇴장한 점 등이다. 헌재는 핵심 쟁점이었던 윤 전 대통령 내란 행위 동조에 대해 “비상계엄 선포에 가담했다고 인정할 증거 또는 객관적 자료가 부족하다”고 했고, 국회에서 퇴장한 부분은 “퇴장해서는 안 된다는 법령상 근거를 찾아보기 어렵다”고 했다.&lt;br&gt;&lt;br&gt;이날 헌재는 박 장관의 탄핵소추 사유를 조목조목 짚으며 국회 측의 주장이 근거 없다고 지적했다. 국회는 박 장관이 작년 12월 3일 비상계엄 선포 직전 국무회의에서 계엄에 적극 반대하지 않았고, 이튿날 삼청동 안가에서 비상계엄 후속 조치를 논의했다는 점을 핵심 탄핵 사유로 삼았는데 헌재는 “비상계엄이 해제된 대통령 안전 가옥에서 회동했다는 사정만으로 내란 행위에 관여했다고 볼 수 없다”고 했다. 계엄 선포 직후 법무부 간부들을 통해 서울동부구치소에 구금 시설을 마련하도록 지시했다는 의혹도 “인정할 증거 또는 객관적 자료가 없다”고 했다. &lt;br&gt;&lt;br&gt;또 박 장관이 국회가 요구한 대전지검의 10년간 특수활동비 사용 내역을 제출하지 않은 데 대해 헌재는 위법이 아니며 오히려 국회가 절차를 위반했다고 판단했다. 현행법상 국회가 자료를 요구할 때는 제출일 7일 전까지 기관에 목록이 도착해야 하는데, 국회 법제사법위원회는 3일 전에야 보냈다는 것이다. 헌재는 “국회의 서류 제출 요구가 적법하지 않아 이에 대한 거부 행위는 법에 위반된다고 볼 수 없다”고 했다. &lt;br&gt;&lt;br&gt;박 장관이 최서원(개명 전 최순실)씨의 조카 장시호씨의 서울 구치소 출정 기록을 제출하라는 국회 요구를 거부한 점은 위법한 부분이 있으나 파면할 정도는 아니라고 했다.&lt;br&gt;&lt;br&gt;국회는 박 장관이 ‘김건희 여사 특검법’ 재표결 도중 본회의장을 퇴장한 것도 탄핵 사유로 삼았지만 헌재는 “박 장관은 당시 법률안 재의를 요구한 이유를 설명하기 위해 자발적으로 나온 것이어서 출석 의무가 없었으며, 표결이 마감될 때까지 퇴장해서는 안 된다는 법령상 근거도 없다”고 했다. 박 장관이 이재명 당시 민주당 대표를 노려봤다는 부분에 대해선 따로 판단하지 않았다.&lt;br&gt;&lt;br&gt;윤석열 정부 때 더불어민주당이 주도해 고위 공직자를 탄핵 소추한 사건은 총 13건이다. 이 중 11건이 결과가 나왔는데, 윤 대통령 사건을 제외한 나머지 10건은 모두 기각됐다. 이날 선고에는 국회 측 법률 대리인과 국회의원은 참석하지 않았다.&lt;br&gt;&lt;br&gt;한편 헌재는 이날 우원식 국회의장이 한덕수 대통령 권한대행의 탄핵소추안을 의결하면서 정족수를 대통령 기준(200석)이 아닌 국무위원 기준(151석)으로 결정한 데 대해 국민의힘 의원들이 낸 권한쟁의 심판은 재판관 6(각하)대2(인용) 의견으로 각하했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/NDW5BDWOUATRQOPEH3DH55TH6M.jpg?width=4971&amp;height=3557&amp;auth=c8418a272e061df4d01de3a6967e91a9835aebb94d455a1a633677f536cb3ad4&amp;smart=true" type="image/jpeg" height="3557" width="4971">
-        <media:description type="plain">탄핵안 기각으로 직무 복귀한 박성재 법무부 장관이 10일 경기 과천 법무부 청사로 출근하며 취재진 질문에 답하고 있다. /뉴스1</media:description>
-        <media:credit role="author" scheme="urn:ebu">뉴스1</media:credit>
-      </media:content>
-    </item>
-    <item>
-      <title>4세 어린이 학대 살해 태권도관장 징역 30년형</title>
-      <link>https://www.chosun.com/national/national_general/2025/04/11/5WVBXEPPGFDKJLB3KDJEDY43EI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/11/5WVBXEPPGFDKJLB3KDJEDY43EI/</guid>
-      <dc:creator>의정부=김현수 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 10 Apr 2025 15:53:00 +0000</pubDate>
-      <content:encoded>자신이 운영하는 태권도장에서 4세 어린이를 학대해 숨지게 한 혐의로 기소된 관장이 1심에서 징역 30년형을 선고받았다. &lt;br&gt;&lt;br&gt;의정부지법 형사11부(재판장 오창섭)는 10일 아동학대 살해 등 혐의로 구속 기소된 관장 A(39)씨에게 징역 30년을 선고했다. 또 아동학대 치료 프로그램 40시간 이수, 10년간 아동·청소년 관련 기관 취업 제한을 명령했다. 1심이 확정되면 출소한 후에도 10년간 태권도장을 운영할 수 없게 된다. &lt;br&gt;&lt;br&gt;A씨는 작년 7월 12일 양주시 덕계동 자신의 태권도장에서 말아서 세워 놓은 매트 안에 B군을 거꾸로 넣고 27분간 방치해 숨지게 한 혐의로 재판에 넘겨졌다. 당시 B군이 “꺼내달라”고 소리쳤는데도 외면했고 태권도 사범이 B군을 꺼내야 한다고 했지만 거절한 사실도 드러났다. B군이 혼수상태에 빠졌지만 A씨는 바로 심폐소생술을 하지 않았다. B군을 같은 건물에 있는 이비인후과병원으로 옮긴 뒤 다시 도장으로 돌아와 도장 내부의 방범카메라 영상을 삭제한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;추가 범행도 드러났다. 경찰은 태권도장 내부의 방범 카메라를 분석하고 관원 250여 명을 전부 조사해 A씨가 B군을 최소 140차례 학대한 사실을 확인했다. 다른 어린이 26명에게도 총 124차례 신체적·정서적 학대를 한 것으로 조사됐다. 아이들의 볼을 꼬집고 때리거나 매트에 거꾸로 넣는 일이 잦았던 것으로 알려졌다.&lt;br&gt;&lt;br&gt;재판부는 “A씨는 B군을 (매트 안에) 방치하면 사망할 위험이 있다는 사실을 인식했는데도 약 27분간 방치했다”며 “(A씨는) 사망의 고의가 없었다고 주장하나 일반인이라면 당연히 사망의 위험이 있다는 걸 인식할 수 있었을 것”이라고 했다. 이어 “다른 태권도 사범에게 책임을 전가하는 등 변명하고 있고, B군이 의식이 없는 상태에서도 혼자 태권도장에 올라와 방범카메라 영상을 삭제하는 등 죄질이 매우 불량하다”며 “다른 어린이들에게도 상당 기간 학대를 했고, 단지 장난으로 치부하는 태도를 보이는 등 과연 진실이 있는지조차 가늠하기 어렵다”고 했다.&lt;br&gt;&lt;br&gt;앞서 검찰은 지난달 열린 결심 공판에서 A씨에게 무기징역을 구형했다. A씨 측은 “과한 행동이 있었던 건 인정하지만 고의성과 상습성은 없었다”고 했다. &lt;br&gt;&lt;br&gt;B군의 어머니는 1심 선고 직후 “우리나라 아동법이 너무 약하다”며 “사형보다 더한 벌을 받아야 하는데 납득이 되지 않는다”고 했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>좌우 막론하고 괴담 판쳐도… 처벌은 가벼웠다</title>
-      <link>https://www.chosun.com/national/2025/04/11/GVHFWLTZL5HWHO6XTUFDLZWVAQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2025/04/11/GVHFWLTZL5HWHO6XTUFDLZWVAQ/</guid>
-      <dc:creator>김명진 기자, 강지은 기자, 김도연 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 10 Apr 2025 15:53:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2HT5AKLVOZHYBE7MZNJUVR6HM4.png"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=백형선&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울경찰청 사이버수사대는 작년 12·3 비상계엄 당일 계엄군이 선거연수원에서 중국인 간첩단 99명을 체포했다고 보도한 매체 스카이데일리 허모 기자를 10일 불러 조사한 것으로 알려졌다. 경찰은 전날 스카이데일리 본사 등을 압수 수색했다. 이 매체는 지난 1월 16일 “계엄군이 미군과 공동 작전으로 선거연수원을 급습해 중국 국적자 99명을 체포했다”고 보도했었다. 미 군·정부 당국이 잇따라 “모두 거짓”이라고 했지만, 인터넷·소셜미디어 등을 통해 급속도로 퍼졌다. 이 매체는 “보도 내용은 엄연한 사실이다. 취재원이 ‘미군 소식통’”이라고 했다. 그러나 이 소식통은 미국 영화 ‘캡틴 아메리카’ 복장으로 주한 중국 대사관에 진입하려다 지난달 구속 기소된 안모씨였다. 안씨는 자신을 미 CIA ‘블랙 요원’ 마이클 피터스 대위라고 주장했지만, 그는 한국군 병장 출신으로 미국에는 가 본 적도 없던 것으로 밝혀졌다.&lt;br&gt;&lt;br&gt;우리 사회는 과거에도 사회를 혼란스럽게 한 각종 ‘괴담’들로 큰 비용을 치렀다. 대부분 사실이 아닌 것으로 밝혀졌지만, 괴담을 퍼뜨린 이들 상당수는 어떤 처벌도 받지 않은 것으로 나타났다. 정치권은 허위 사실을 진화하기는커녕 적극적으로 퍼뜨렸다. 명백한 허위 사실 유포에도 수사기관이 손을 놓거나, 법원이 무죄를 선고했다. 괴담을 만들거나 이를 퍼뜨린 사람들은 책임을 지지 않고, 괴담으로 인한 피해를 결국 국민이 감당한 것이다.&lt;br&gt;&lt;br&gt;대표적 사례가 ‘천안함 미군 개입설’이다. 2010년 3월 북한의 어뢰 공격으로 침몰한 천안함 피격 사건이 일어나자 인터넷 사이트 서프라이즈 전 대표 신상철씨는 “천안함은 미군 또는 제3의 함정과 충돌했을 가능성이 높다”고 했다. 거짓으로 밝혀졌지만 대법원은 2022년 신씨에게 무죄를 선고했다. 당시 법원은 신씨 주장이 모두 허위라고 인정하면서도 “(그의 발언이) 공공의 이익을 위한 것”이라며 면죄부를 줬다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/F2CMRV7T5BEAREF5NXMX2SOLWM.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=백형선&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘괴담’과 ‘가짜 뉴스’는 우리 사회 고비 때마다 등장해 국민을 혼란하게 했다. 2014년 304명이 사망한 세월호 참사 당시에도 좌파 진영은 ‘미군 잠수함 충돌설’을 제기했다. 종북 성향 매체 ‘자주민보’ 객원기자 정모 씨는 “미국이 박근혜와 짜고 고의적으로 우리 아이들과 국민 304명을 학살했다”고 했었지만, 사실무근이었다. &lt;br&gt;&lt;br&gt;2020년 9월 서해를 표류하던 해양수산부 공무원 이대준씨가 북한군에 의해 피살됐을 때는 ‘자진 월북설’이 제기됐었다. 그 괴담을 적극 퍼뜨린 이는 김어준씨다. 현재 유튜브 구독자 209만명의 김씨는 위안부 피해자 이용수 할머니가 지난 2020년 정의기억연대 윤미향 전 이사장의 기부금 유용 의혹을 폭로했을 때도 “냄새가 난다” “(회견문을) 할머니가 쓴 것이 아닌 게 명백해 보인다”며 ‘배후설’을 제기했었다. 경찰 조사 결과 사실이 아니었고, 이후 명예훼손 혐의로 고발당했지만 검찰은 그를 불기소 처분했다. 방심위로부터 ‘주의’ 처분만을 받았을 뿐이다.&lt;br&gt;&lt;br&gt;2008년 광우병 공포를 확산시켰던 MBC PD수첩 제작진은 최고 정직 3개월 수준의 징계를 받았다. 해당 프로그램 작가가 “출범 100일 된 (이명박) 정권의 정치적 생명 줄을 끊어놓는” 일을 해냈다고 고백할 정도였지만, 그조차도 법원은 2012년 무효화했다. 서울 도심 시위를 주도해 주요 거리를 마비시켰던 시민단체들 또한 아무런 책임을 지지 않았다.&lt;br&gt;&lt;br&gt;허위 사실을 진화해야 할 정치인들은 오히려 괴담을 적극 퍼뜨리면서 음모론을 재생산했다. 사드(고고도 미사일 방어 체계) 반대 세력이 “사드 전자파가 성주 참외를 오염시킨다”는 괴담을 퍼뜨리자, 민주당 의원들은 반대 집회에서 “전자파에 몸이 튀겨질 것 같다”고 노래 부르며 가발을 쓴 채 춤을 췄다. 민주당 박주민 의원은 사드 전자파가 인체에 무해하다는 정부 조사 결과가 나온 뒤에도 “(정부 발표를) 100% 믿을 수 없다”고 했다.&lt;br&gt;&lt;br&gt;같은 당 설훈 의원은 천안함 피격 사건 배후와 관련, “북한 소행이라는 데 반론의 여지도 있다”고 해 북한을 옹호한다는 비판을 받았다. 이용수 할머니의 정의연 폭로 기자회견에 대한 김어준씨의 의혹 제기에 최민희 의원은 “이 할머니의 (윤미향에 대한) 거부감이 납득이 안 된다”고 했다. 이들 중 누구도 사과하거나 책임지는 사람은 없었다. 성동규 중앙대 교수는 “명백한 허위 뉴스를 퍼뜨리는 데 대해선 우리 사회가 더 엄격한 ‘무관용 원칙’을 적용해야 한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>AI 교과서 학습은 이렇게</title>
-      <link>https://www.chosun.com/national/national_general/2025/04/11/IK7ZOBTE3ZE43OS2CFAAD4EZ5M/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/11/IK7ZOBTE3ZE43OS2CFAAD4EZ5M/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 10 Apr 2025 15:53:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NST54EKXRFAARNRKNX42M4K43U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;10일 대구 달성군 용계초등학교에서 열린 인공지능(AI) 디지털 교과서 공개 수업에서 학생들이 AI 교과서가 담긴 태블릿 PC를 누르며 학습을 하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>사찰 음식에 반해… 정관 스님 요리책 낸 스위스인들</title>
