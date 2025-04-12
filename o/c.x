@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>전국 비 예보에, 고속도로 교통량도 줄어</title>
+      <link>https://www.chosun.com/national/national_general/2025/04/12/D3OSG4GF5RBF7LHJ7CECBZXTYE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/12/D3OSG4GF5RBF7LHJ7CECBZXTYE/</guid>
+      <dc:creator>오경묵 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 12 Apr 2025 04:24:48 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5KMKVZ2HK4P2WJKGP6VFEZCSAY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경부고속도로. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;토요일인 12일은 전국적으로 비 소식이 예보된 탓에, 평소 토요일보다 교통량이 줄어들 것으로 전망된다.&lt;br&gt;&lt;br&gt;한국도로공사에 따르면, 이날 전국 고속도로 이용차량은 506만대로 예상된다. 전주(535만대)보다 29만대 줄었다. &lt;br&gt;&lt;br&gt;지방 방향으로는 오전 6~7시부터 정체가 시작됐다. 정체는 오후 7~8시쯤 해소될 것으로 예상된다. 서울 방향으로는 오후 5~6시쯤 정체가 절정에 달했다가, 오후 10~11시쯤 풀릴 것으로 전망된다.&lt;br&gt;&lt;br&gt;이날 오전 10시에 서울에서 지방 주요도시를 향해 출발했다면, 부산까지는 5시간 30분이 걸릴 것으로 예상된다. 울산 5시간 10분, 강릉 3시간, 대전 2시간 50분, 광주 4시간 30분, 목포 5시간, 대구 4시간 30분이다. 반대로 지방에서 서울까지는 부산 5시간 30분, 울산 5시간, 강릉 2시간 40분, 양양 1시간 50분, 대전 2시간, 광주 3시간 40분, 목포 4시간 10분, 대구 4시간 30분이다.&lt;br&gt;&lt;br&gt;일요일인 13일에는 450만대가 전국 고속도로를 이용할 것으로 보인다. &lt;br&gt;&lt;br&gt;도로공사는 “이번 주말은 전국 비 예보가 있어, 강풍을 동반하는 비바람도 예상됨에 따라 출발 전 제동장치나 와이퍼, 타이어 등 점검이 필요하다”며 “비가 오는 구간을 통과할 때는 속도를 20~50% 줄이고, 차간 거리를 유지해야 하며, 주간 시간이라도 전조등을 켜서 차량의 위치를 알리는 것이 좋다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>박나래, 전현무 취중 라방 논란에 “다 이해한다” 위로</title>
       <link>https://www.chosun.com/national/people/2025/04/12/DJUTX4WNQRAIDBAUSQFAROULGU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/people/2025/04/12/DJUTX4WNQRAIDBAUSQFAROULGU/</guid>
@@ -918,15 +927,6 @@
       <description/>
       <pubDate>Thu, 10 Apr 2025 15:53:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NST54EKXRFAARNRKNX42M4K43U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;10일 대구 달성군 용계초등학교에서 열린 인공지능(AI) 디지털 교과서 공개 수업에서 학생들이 AI 교과서가 담긴 태블릿 PC를 누르며 학습을 하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>허위 계획서에 허위 보고… 잼버리, 시작부터 엉망이었다</title>
-      <link>https://www.chosun.com/politics/goverment/2025/04/11/Y3BOF3LSFVDMTPRZIBUAPYOIBA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/politics/goverment/2025/04/11/Y3BOF3LSFVDMTPRZIBUAPYOIBA/</guid>
-      <dc:creator>김경필 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 10 Apr 2025 15:53:00 +0000</pubDate>
-      <content:encoded>2023년 8월 전북 새만금에서 열린 세계스카우트잼버리의 파행은 대회 조직위원회와 감독 기관인 여성가족부, 대회를 유치한 전라북도의 부실·무책임 행정이 겹쳐 일어난 사태인 것으로 감사원이 10일 결론 내렸다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3DKODRNYUBGVBN4D6OPIPEOSEI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;더위에 지친 잼버리 대원들 - 2023년 8월 새만금 세계스카우트잼버리에 참가한 스카우트 대원들이 천막 밑에서 더위를 피하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;감사원이 이날 공개한 감사 보고서에 따르면, 전북도는 2015년 야영에 부적합한 갯벌을 잼버리 유치 장소로 정했다. 이곳은 비가 오면 빗물이 빠지지 않아 며칠씩 침수될 수 있는 곳이었고, 그늘도 없었다. 전북도는 한국스카우트연맹에 ’2019년까지 부지 기반 시설 개발을 완료하고, 참가자들이 그늘로 삼을 수 있도록 포플러나무 10만 그루를 심겠다’는 내용을 담은 개최 계획서를 제출했다.&lt;br&gt;&lt;br&gt;하지만 이 계획서는 허위였다고 감사원은 밝혔다. 전북도가 계획서를 제출하기 전에 이미 부지 개발은 2022년에야 완료되는 것으로 바뀐 상태였고, 갯벌이었던 곳에 나무를 심는 것이 가능할지는 검토조차 되지 않았다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5AGHIIOTC5HFTB7BVUYKEDX6NI.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=정인성&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;새만금은 이 계획서를 바탕으로 한국의 세계잼버리 유치 후보지로 선정됐고, 1991년 세계잼버리를 성공적으로 개최한 적 있는 강원 고성군은 떨어졌다. 감사원이 당시 부지 선정 평가위원들에게 물어보니, 전원이 “계획서가 허위였다는 것을 알았다면 새만금을 평가 대상에서 제외하거나 불이익을 줬을 것”이라고 답했다.&lt;br&gt;&lt;br&gt;전북도는 뒤늦게 2017년 9월 문재인 정부와 당시 여당이었던 더불어민주당에 농지관리기금을 써서 부지를 매립해 달라고 요구했다. 농림축산식품부는 농지 조성에만 쓸 수 있는 이 기금으로 부지를 매립하는 것이 법령 위반이라는 것을 알았지만, 청와대의 ‘재검토’ 요청을 받고 1845억원을 들여 부지를 매립해줬다. 한편 포플러나무 10만 그루 심기는 토양에 염분이 많아 불가능한 것으로 드러났고, 화분이나 덩굴식물 터널을 설치해 그늘을 마련한다는 대안도 예산 부족 등의 이유로 실현되지 않았다. &lt;br&gt;&lt;br&gt;국회는 2018년 새만금세계잼버리법을 제정해, 잼버리 조직위를 구성하고 여가부가 이를 감독하게 했다. 정작 잼버리 운영에 전문성이 있는 스카우트연맹은 거의 관여하지 못하게 됐다. 여가부는 조직위 사무총장에 퇴직을 앞둔 공무원을 앉혔고, 이 공무원은 국제 행사 경험이 없었다. 조직위 직원 159명 가운데 국제 행사 경험이 있는 직원은 10명에 불과했다.&lt;br&gt;&lt;br&gt;조직위는 폭염 대비 물품, 급식, 의료, 방제, 폐기물 처리, 화장실 청소 등 거의 모든 분야의 준비를 부실하게 했다. 폭염 경보가 발령되고 온열 질환자가 쏟아지는데도 참가자들에게는 하루에 생수 1병만 지급됐는데, 조직위가 ‘수돗물을 마시면 된다’고 판단한 것이 그 이유였다. 식자재 보관 선반은 야외에 방치했다가 곰팡이가 슬었고, 식자재 배송 지연으로 끼니를 굶는 참가자가 나오기도 했다. 2023년 8월 5일 정부 회의에서 한덕수 총리가 “화장실 청소가 안 된 곳이 있다”고 지적하자 조직위 사무총장은 “그게 뭐가 대수입니까?”라고 반문했다.&lt;br&gt;&lt;br&gt;여가부는 조직위를 지원하기 위해 부 내에 설치한 ‘잼버리지원단’ 자리를 한직으로 취급했고, 6차례 현장 점검도 구체적인 계획 없이 현장을 둘러보기만 했다고 한다. 김현숙 당시 여가부 장관 등은 잼버리 준비가 다 되지 않았다는 것을 알았으면서도, 개막 일주일 전 국무회의에서 ‘준비 완료’라고 보고했다. 감사원은 이로 인해 “타 부처 인력 투입 등 정부 차원의 보완 대책을 마련할 사실상 마지막 기회를 놓쳤다”고 지적했다.&lt;br&gt;&lt;br&gt;감사원은 여가부와 전북도에 ‘기관 주의’를 주고, 여가부·전북도·전북교육청에 공무원 5명을 징계하라고 했다. 이미 퇴직해 징계가 불가능한 7명에 대해선 나중에 공무원으로 재임용되지 못하도록 비위 내용을 기록으로 남기도록 했다. 잼버리 준비 상황 허위 보고 등에 관여한 6명은 징계와 별도로 수사기관에 넘겨 수사를 받도록 했다. 여가부와 전북도는 각각 “감사 결과를 겸허히 수용한다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>사찰 음식에 반해… 정관 스님 요리책 낸 스위스인들</title>
