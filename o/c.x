@@ -13,6 +13,24 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>13시간 만에 드러낸 안전모...광명 신안산선 공사장 붕괴 현장서 1명 구조 </title>
+      <link>https://www.chosun.com/national/incident/2025/04/12/MNLMOOBQRJC2HMEZMAUYEAETO4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/04/12/MNLMOOBQRJC2HMEZMAUYEAETO4/</guid>
+      <dc:creator>광명=김현수 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 12 Apr 2025 11:03:06 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/E5IW2K52PFNXLMDTAADWIVWWLQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;12일 오전 4시 27분쯤 경기 광명시 일직동 신안산선 지하터널 붕괴 사고 현장에서 고립됐던 20대 굴착기 기사가 사고 발생 13시간여만에 구조되고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“제가 살 수 있을까요. 제발 구조해주세요...”&lt;br&gt;&lt;br&gt;12일 새벽, 경기도 광명시 신안산선 지하터널 공사 현장. 무너진 터널 아래서 한 남성이 구조대의 품에 안겼다. 전날 오후 3시 13분쯤, 공사 중이던 지하터널이 붕괴되면서 굴착기 기사 A씨(20대)가 지하 30m 지점에 고립됐다.&lt;br&gt;&lt;br&gt;초기에는 구조대와의 전화 통화가 가능할 정도로 의식이 명료했지만, 구조가 장시간 이어지면서 A씨의 상태는 급속히 악화됐다. 붕괴 직후부터 밤새 이어진 구조 작업 끝에 A씨는 이날 오전 4시 27분 잔해 속에서 무사히 구조됐다.&lt;br&gt;&lt;br&gt;발견 당시 A씨는 하반신이 흙더미에 파묻힌 상태였고 탈수 증상을 보였지만, 의식은 또렷했다. 구조대는 초코우유에 빨대를 꽂아 마시게 하며 수분을 공급했다. 현장에 있던 소방대원은 “오랜 시간 압박을 받았지만 A씨는 침착하게 버텼다”고 전했다.&lt;br&gt;&lt;br&gt;구조 작업은 난관의 연속이었다. 곳곳에 철근과 H빔 구조물이 얽혀 있었고, 추가 붕괴 우려도 컸다. 특히 A씨의 복부를 가로지르던 철골 구조물을 무리하게 제거할 경우 쇼크 위험이 있어, 구조대는 손으로 흙을 조금씩 파내며 접근했다.&lt;br&gt;&lt;br&gt;크레인을 동원해 상판을 하나씩 들어 올리고, 구조대원들이 직접 지하로 내려갔다. 곧 이어 A씨의 하얀색 안전모가 처음 모습을 드러냈다. A씨는 “정말 구조될 수 있느냐”고 수차례 물었다. 그는 다발성 압박손상과 쇄골 골절, 탈수 증상 등으로 아주대병원에서 치료를 받고 있으나 생명에는 지장이 없는 상태로 전해졌다.&lt;br&gt;&lt;br&gt;한편 사고 당시 현장에 함께 있었던 포스코이앤씨 소속 50대 근로자 B씨는 아직 발견되지 않고 있다. 소방당국은 B씨가 컨테이너 내부에 있을 가능성을 염두에 두고, 총 6개 컨테이너를 수색했지만 흔적은 나오지 않았다. 경찰과 소방은 휴대전화 위치 추적과 근로자 진술을 바탕으로 수색 범위를 좁히고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“남편과 분리수거 나갔다가…” 5억 대박 난 여성, 무슨 일?</title>
+      <link>https://www.chosun.com/national/national_general/2025/04/12/VQDU24FLKVFMFISDYWK3XQTRPY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/12/VQDU24FLKVFMFISDYWK3XQTRPY/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 12 Apr 2025 10:47:21 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LMPM4WDO2JCBJLLWI3BYEV2RGU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;A씨 부부. /동행복권&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;남편과 함께 분리수거를 하러 나갔다가 집 앞에서 구입한 복권이 1등에 당첨됐다는 여성의 사연이 알려져 화제다.&lt;br&gt;&lt;br&gt;12일 동행복권에 따르면 최근 제주시의 한 복권 판매점에서 ‘스피또1000’ 93회차를 구매한 여성 A씨가 1등에 당첨돼 5억원을 수령했다.&lt;br&gt;&lt;br&gt;A씨는 당시 복권을 구매한 이유에 대해 “한 달에 한 번씩 복권을 구매하고 있다”며 “이전에 구매해서 소액 당첨됐던 스피또 복권을 모아서 남편과 함께 분리수거를 끝내고 집 앞 복권판매점에 들렀다”고 했다. &lt;br&gt;&lt;br&gt;A씨는 “소액 당첨된 13장의 복권을 스피또1000 13장으로 재구매했고 복권은 집에 들어와 긁어봤다”며 “그 복권 중 하나가 1등에 당첨된 것을 확인했다. 너무 놀라 화장실 문을 열고 샤워 중인 남편에게 1등 당첨 소식을 전했다. 남편은 평소 장난을 많이 치던 제가 한 말을 믿지 않았다”고 당시 상황을 회상했다.&lt;br&gt;&lt;br&gt;샤워를 끝내고 나온 남편은 당첨 복권을 보고 나서야 1등 당첨 사실을 믿으며 놀라워했다고 한다.&lt;br&gt;&lt;br&gt;당첨금 사용 계획에 대해서는 “평소 지나다니면서 보았던 보육원이 생각났다. 보육원에 당첨금 일부를 기부할 생각이다. 나머지 금액은 아직 계획이 없다”고 답했다.&lt;br&gt;&lt;br&gt;A씨는 당첨자 소감 한마디에 ‘누구나 될 수 있습니다!’라고 적었다.&lt;br&gt;&lt;br&gt;스피또는 동전 등으로 긁어 빠르게 당첨 확인이 가능한 인쇄복권이다. 당첨금에 따라 스피또500·1000·2000의 3종으로 나뉜다. 스피또1000의 최대 당첨금은 5억원이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>한소희, 사생활 논란 후 심경 고백?… “되돌아보면 볼품없던 순간도”</title>
       <link>https://www.chosun.com/national/people/2025/04/12/IVN6QCNPKZC3JB2I5AG2DYLPCA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/people/2025/04/12/IVN6QCNPKZC3JB2I5AG2DYLPCA/</guid>
@@ -964,24 +982,6 @@
       <description/>
       <pubDate>Thu, 10 Apr 2025 10:25:42 +0000</pubDate>
       <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/67OESN5QKJIYDFVFNRMENMDHTE.JPG"&gt;&lt;figcaption&gt;&lt;small&gt; 공직선거법 위반 항소심에서 무죄를 선고받은 이재명 더불어민주당 대표가 지난달 26일 오후 서울 서초구 서울고등법원에서 열린 공직선거법 위반 혐의 2심 선고 공판을 마친 뒤 입장을 밝히고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰이 10일 이재명 전 민주당 대표의 공직선거법 위반 상고이유서를 제출한 것으로 확인됐다. 법정 제출 기한보다 열흘 이상 빠른 것으로, 신속한 재판 진행을 위한 조치로 풀이된다. &lt;br&gt;&lt;br&gt;본지 취재를 종합하면 검찰은 이날 담당 재판부인 대법원 3부에 상고이유서를 제출했다. 형사소송법에 따르면 검찰은 대법원으로부터 소송기록 접수 통지를 받은 날부터 20일 내에 상고이유서를 제출해야 한다. &lt;br&gt;&lt;br&gt;소송기록 접수 통지는 항소심 사건 기록이 대법원에 접수됐음을 알리는 공식 문서다. 그에 따르면 검찰의 상고이유서 제출 기한은 오는 21일까지다. 법정 기한보다 열흘 이상 빨리 낸 것이다.&lt;br&gt;&lt;br&gt;이 전 대표가 검찰 상고이유서를 송달받으면 그로부터 10일 이내에 답변서를 제출할 수 있다. 형사소송법에는 ‘제출할 수 있다’는 임의규정 형식으로 돼 있지만 소송실무상 답변서 제출 기간인 10일을 보장해 주는 경우가 많다. 따라서 이 전 대표에 대한 상고이유서 송달이 늦어지면 그만큼 재판 진행이 늦어질 수 있다. &lt;br&gt;&lt;br&gt;한편 이 전 대표에 대한 소송기록 접수통지서는 10일 현재까지 송달되지 않고 있다. 대법원은 지난달 31일 이 전 대표에게 통지서를 송달했지만 이 전 대표가 해당 서류를 수령하지 않으면서 반송 처리됐다. 이에 대법원은 서울남부지법·인천지법 소송 집행관에게 이 전 대표 자택과 사무실로 직접 송달을 진행해 달라고 요청한 상태다.&lt;br&gt;&lt;br&gt;이 전 대표는 2심에서 무죄를 선고받았기 때문에 법적으로 상고를 할 수 없다. 따라서 소송기록 접수통지서의 경우 수령하지 않았다고 하더라도 재판 진행이 불가능한 것은 아니다. 그러나 검찰이 10일 제출한 상고이유서의 경우 앞으로 송달이 안 되면 답변서 제출기간인 ‘10일’이 시작되지 않아 소송에 차질을 빚을 수 있다. &lt;br&gt;&lt;br&gt;이 전 대표는 지난 대선을 앞둔 2021년 12월 방송에서 대장동 개발 실무 책임자인 고(故)김문기 전 성남도개공 개발사업 1처장을 성남시장 재직중에는 몰랐다고 한 발언 및 같은해 10월 국정감사에서 국토부 협박으로 백현동 부지 용도를 상향했다고 발언해 공직선거법상 허위사실 공표 혐의로 기소됐다. &lt;br&gt;&lt;br&gt;1심은 2년 2개월간의 재판을 거쳐 이 전 대표에게 의원직 상실형인 징역 1년에 집행유예 2년을 선고했다. 그러나 2심은 지난달 26일 이 전 대표에게 무죄를 선고했다. 검찰이 상고하면서 지난달 28일 사건이 대법원에 접수됐고 대법원 3부에 배당됐다. 공직선거법상 1심은 6개월, 2·3심은 각각 3개월 내에 선고해야 하며 이 사건 3심 선고 기한은 6월 26일이다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[단독] 박성재 법무, 직무 복귀 후 “수장 공백 초래 송구... 절치부심해달라”</title>
-      <link>https://www.chosun.com/national/court_law/2025/04/10/YQUNMR7TUVHY7H2HUH6GEQOWEQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/04/10/YQUNMR7TUVHY7H2HUH6GEQOWEQ/</guid>
-      <dc:creator>이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 10 Apr 2025 09:37:51 +0000</pubDate>
-      <content:encoded>10일 헌법재판소의 탄핵 기각 결정으로 직무에 복귀한 박성재 법무장관이 법무부‧검찰 구성원들에게 “오랫동안 수장 공백을 초래한 것에 대해 송구하다는 말씀과 감사 인사를 드린다”며 “모든 구성원 여러분이 절치부심(切齒腐心)하는 마음으로 업무에 매진해 주시기를 당부드린다”는 입장을 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/V3LED57UWJAUVNRMIPR46AHGCM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;탄핵 기각으로 직무에 복귀한 박성재 법무 장관이 10일 경기 과천 법무부 청사로 출근하고 있다. / 고운호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 박 장관은 이날 법무부 내부망에 ‘법무부 장관 복귀 인사말씀’이라는 글을 올려 이 같은 입장을 밝혔다. “지난해 12월 12일 탄핵 소추돼 119일간 자리를 비웠다”며 운을 뗀 박 장관은 “업무에 복귀하면서 ‘우리 사회의 안정과 법치를 확립’하는 것이 제가 마지막까지 해야 할 일이라는 생각을 했다”며 “오늘부터 신속히 현안 업무를 보고받고 정상적인 업무를 수행할 것”이라고 했다.&lt;br&gt;&lt;br&gt;박 장관은 검찰 구성원들에게는 특히 “사회적 관심 사건에 대해 좌고우면(左顧右眄) 하지 말고, 공정하면서도 신속한 수사로 우리 사회의 법치주의를 철저히 확립해 주시기를 부탁드린다”고 당부했다.&lt;br&gt;&lt;br&gt;헌재는 이날 오후 2시 선고를 열고, 재판관 8명 전원일치 의견으로 박 장관에 대한 탄핵심판 청구를 기각했다. 박 장관은 오후 2시 43분쯤 정부과천청사 법무부로 출근하면서 취재진에게 “개인적으로 탄핵될 정도의 잘못을 하지 않았다고 최후 진술에서 말씀드렸다”면서 “헌재의 현명한 결정에 감사드린다”고 했다. &lt;br&gt;&lt;br&gt;지난 4일 윤석열 전 대통령이 파면된 데 대해 박 장관은 “헌재의 결정을 존중할 수밖에 없다”고 했다. 비상계엄이 해제된 작년 12월 4일 밤 대통령 안전 가옥에서 이상민 전 행정안전부 장관, 김주현 민정수석, 이완규 법제처장과 회동한 것을 내란 관여로 볼 수 없다고 한 헌재 판단에 대한 질문에는 “아니 계엄이 끝났는데 그걸…”이라고 답했다. 이날 박 장관 출근길에는 법무부 김석우 차관, 변필건 기획조정실장 등이 마중 나왔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>삼성전자, 반도체 ‘특별연장근로’ 특례 1호’</title>
-      <link>https://www.chosun.com/national/labor/2025/04/10/RSAZW3WL2VBE3LUMLMQ2VJI3PM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/labor/2025/04/10/RSAZW3WL2VBE3LUMLMQ2VJI3PM/</guid>
-      <dc:creator>김아사 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 10 Apr 2025 09:28:08 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WCQ4AASM2BMI3HQ7LK7ONLYER4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 삼성전자 서초사옥/ 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;삼성전자가 반도체 연구개발직 ‘특별 연장 근로’의 1회 인가 기간을 6개월로 늘린 특례의 첫 적용 대상이 됐다. &lt;br&gt;&lt;br&gt;10일 고용노동부에 따르면 고용노동부 경기지청은 전날 삼성전자의 특별 연장 근로 신청을 인가했다. 특별 연장 근로는 주 52시간의 예외를 적용받아 주당 64시간까지 근무할 수 있는 제도다. 고용노동부 인가를 받으면 삼성전자 연구개발직 근로자들은 첫 3개월은 주당 최대 64시간, 그다음 3개월은 주당 최대 60시간 일할 수 있다.&lt;br&gt;&lt;br&gt;이는 정부가 지난달 14일 반도체 산업 경쟁력 강화를 위해 반도체 연구개발직에 한해 1회당 특별연장근로 인가 기간을 기존 3개월에서 6개월로 확대하고, 6개월 한 차례 더 연장할 수 있는 특례를 신설한 결과다. 고용노동부 관계자는 “다른 반도체 기업도 신청 준비를 하고 있는 것으로 알고 있다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
