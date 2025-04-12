@@ -13,6 +13,60 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>박나래, 전현무 취중 라방 논란에 “다 이해한다” 위로</title>
+      <link>https://www.chosun.com/national/people/2025/04/12/DJUTX4WNQRAIDBAUSQFAROULGU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/04/12/DJUTX4WNQRAIDBAUSQFAROULGU/</guid>
+      <dc:creator>정아임 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 12 Apr 2025 02:59:42 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G2QHFH6KG5HGRHCQDFG6LL57LU.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;방송인 박나래./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;방송인 전현무와 가수 보아의 취중 라이브 방송에서 방송인 박나래가 자신이 언급된 것과 관련해 “다 이해한다”고 했다. &lt;br&gt;&lt;br&gt;박나래는 11일 방송된 MBC 예능 프로그램 ‘나 혼자 산다’에서 함께 출연한 전현무에게 “오늘 왜 이렇게 얼굴이 핼쑥하냐. 다이어트에 제일 좋은 게 마음고생”이라고 말했다. 이는 앞서 논란이 된 보아와 전현무의 라이브 방송 논란을 염두에 둔 발언이었다.&lt;br&gt;&lt;br&gt;전현무는 “미안하게 됐다. 다시 한번 죄송하다”며 박나래에게 고개를 숙였다. 이에 박나래는 “사과할 게 뭐가 있느냐. 자꾸 그러니까 오빠 귀가 와인 색깔 같다. 마성의 남자”라며 “걱정하지 마라. 보아한테도 연락받았다. 너무 죄송해하더라. 나는 ‘재미있다’ ‘다 이해한다’고 했다”고 위로했다.&lt;br&gt;&lt;br&gt;앞서 지난 5일 밤 전현무는 가수 보아와인스타그램을 통해 취중 라이브 방송을 진행했다. 두 사람의 얼굴은 취기로 붉어진 모습이었다. 보아는 방송 진행 도중 전현무의 어깨에 기대거나 전현무의 얼굴을 만지작거리는 등의 모습을 보이기도 했다.&lt;br&gt;&lt;br&gt;당시 방송에서 한 팬이 전현무와 박나래의 열애설이 사실인지에 대해 묻자, 보아는 “안 사귈 것 같다. 오빠(전현무)가 아깝다”고 말했다. 이 사실이 알려지자 네티즌들 사이에서는 “무례한 발언” “취한 상태에서 다른 연예인을 언급하는 건 보기 좋지 않다” 등의 비판이 나왔다.&lt;br&gt;&lt;br&gt;논란이 일자 보아는 지난 7일 팬 소통 커뮤니티 위버스를 통해 사과문을 올리고 “소셜미디어(SNS) 라이브에서 보여드렸던 저의 경솔한 언행과 발언, 미성숙한 모습으로 불편함을 느끼셨을 모든 분들께 사과드린다”고 했다.&lt;br&gt;&lt;br&gt;전현무 역시 지난 9일 자신의 인스타그램을 통해 “지난 토요일 인스타 라이브 방송과 관련한 제 공식 사과가 늦었다”라며 “라이브 도중 공연히 언급된 박나래에게 방송 직후 바로 사과의 뜻을 전했다. 불쾌했을 상황에도 너그럽게 이해해준 나래에게 미안하고 고맙다”고 전했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘광명 지하터널 붕괴’ 고립자 1명, 13시간만에 구조</title>
+      <link>https://www.chosun.com/national/regional/2025/04/12/6AMCOHHT7NHRHPH4QXSG5LW4Q4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/04/12/6AMCOHHT7NHRHPH4QXSG5LW4Q4/</guid>
+      <dc:creator>오재용 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 12 Apr 2025 00:10:58 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EXVHFRUKBYSB7G4LZIN672IRVQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 11일 오후 경기 광명시 일직동 신안산선 공사 현장 인근이 붕괴돼 사고 현장이 통제되고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;경기 광명시 신안산선 지하터널 공사현장 붕괴 사고로 고립됐던 20대 작업자가 13시간 만에 구조됐다. 다만 작업자 1명은 여전히 실종 상태다.&lt;br&gt;&lt;br&gt;12일 경찰과 소방당국에 따르면 굴착기 기사 A씨는작 이날 오전 4시 27분쯤 광명 신안산선 제5-2공구 지하터널에서 구조됐다. A씨는 지난 11일 오후 3시 15분쯤 이곳이 붕괴되면서 지하로 떨어졌다.&lt;br&gt;&lt;br&gt;A씨는 생명에는 지장이 없는 것으로 전해졌다. 그는 고립된 이후 휴대전화로 구조대와 연락을 주고 받았으며, 구조될 당시에도 의식이 있었던 것으로 전해졌다. 다른 작업자인 50대 B씨는 여전히 실종 상태다. &lt;br&gt;&lt;br&gt;소방 당국은 ‘실종된 B씨가 사고 당시 컨테이너에 있었다’는 취지의 진술을 확보, 중장비를 투입해 컨테이너 인양 방안을 검토하고 있다. B씨는 포스코이앤씨 소속 근로자로 전날 해당 공사 구간 붕괴 우려 신고 후 현장 안전진단 및 보강 작업에 투입됐다가, 잔해물과 함께 매몰된 것으로 추정된다.&lt;br&gt;&lt;br&gt;당국은 수색 이틀째인 이날 현장에 구조견 7마리와 500t급 크레인 등 중장비를 구조 작업에 투입한 상태다. 소방 관계자는 “B씨가 컨테이너에 있을 가능성을 열어 놓고 수색을 진행하고 있다”면서도 “정확한 위치가 확인된 것은 아니다. 오후에 강풍과 함께 비가 예보된 만큼 그 전에 구조가 이뤄질 수 있도록 최선을 다하겠다”고 말했다.&lt;br&gt;&lt;br&gt;이번 사고는 작업자들이 보강공사를 하던 중에 발생했다. 지난 10일 오후 10시쯤 신안산선 제5-2공구 지하터널 내부 기둥에서 쇳소리와 함께 균열이 다수 발견됐다. 이 기둥은 아치(arch) 구조로 공사중인 지하터널의 무게를 버티는 역할을 하는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;붕괴 위험이 있다고 판단한 야간근무 소장은 작업자 17명을 모두 대피시키고 광명시에도 관련 사실을 전달한 것으로 전해졌다. 광명시도 이 같은 내용을 경찰에 알렸다.&lt;br&gt;&lt;br&gt;사고 당일인 지난 11일 오전 7시쯤부터는 본격적인 보강공사가 시작됐다. 작업자 18명(하부 12명, 상부 6명)이 균열이 생긴 부분에 H빔을 용접하는 방식으로 보강 작업을 진행했다.&lt;br&gt;&lt;br&gt;하지만 보강공사가 한창이던 오후 3시 15분쯤 소음과 먼지와 함께 지하터널 현장이 붕괴됐다. 하부 작업자 12명은 이상징후를 감지하고 대피했으나, 상부 작업자 중 A씨와 B씨가 지하로 떨어졌다.&lt;br&gt;&lt;br&gt;붕괴 이후 소방당국과 광명시는 2차 피해를 막고자 인근 600여세대 아파트에 거주하는 주민 2300여명을 체육관 등으로 대피시켰다. 또 인근의 전기와 도시가스도 차단했다.&lt;br&gt;&lt;br&gt;국토교통부는 사고대책본부를 꾸리고 조사를 진행하고 있다. 경찰 역시 사고 원인을 분석 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘위증교사’ 혐의 재판받던 전북교육감 처남 숨진 채 발견</title>
+      <link>https://www.chosun.com/national/regional/2025/04/12/U7YTUMMLHBGNHLDWK46UCYXXX4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/04/12/U7YTUMMLHBGNHLDWK46UCYXXX4/</guid>
+      <dc:creator>오재용 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 12 Apr 2025 01:45:46 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7CMIQAGNNNF2ZGX3CTEGJGAL4A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰/조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt; 위증교사 혐의로 재판받던 서거석 전북교육감의 처남 유모씨가 숨진 채 발견됐다.&lt;br&gt;&lt;br&gt;12일 전북경찰청에 따르면 이날 오전 8시쯤 진안군 용담댐 인근에 세워진 차 안에서 유씨가 숨져 있는 것을 가족이 발견해 신고했다. 유씨는 가족과 서로 위치를 공유하는 휴대전화 앱을 설치한 것으로 파악됐다.&lt;br&gt;&lt;br&gt;그는 자신의 휴대전화에 ‘재판받는 게 힘들다’는 내용의 메시지를 남긴 것으로 알려졌다. 유씨는 서 교육감의 허위사실 공표 재판을 앞두고 이 사건의 핵심증인인 이귀재 전북대학교 교수에게 거짓 증언을 시킨 혐의로 지난해 6월 기소됐고, 오는 5월 3차 공판을 앞두고 있다. &lt;br&gt;&lt;br&gt;그는 최근 재판에서도 변호인을 통해 “이 교수가 자발적으로 위증했다”고 주장하며 적극적으로 무죄를 다퉜다.&lt;br&gt;&lt;br&gt;피고인이 사망함에 따라 유씨에 대한 재판은 공소기각 결정이 날 것으로 보인다. 경찰은 유족 등을 상대로 유씨의 사망 원인과 경위 등을 조사하고 있다.&lt;br&gt;&lt;br&gt;※ 우울감 등 말하기 어려운 고민이 있거나 주변에 이런 어려움을 겪는 가족·지인이 있을 경우 자살예방 상담전화 ☎109 또는 자살예방SNS상담 “마들랜”에서 24시간 전문가의 상담을 받을 수 있습니다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>전국에 강풍 동반한 비 예보…“벚꽃 다 떨어지겠네”</title>
+      <link>https://www.chosun.com/national/national_general/2025/04/12/QYBTTH6VXRHHHOCQXZJYLAIDCQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/12/QYBTTH6VXRHHHOCQXZJYLAIDCQ/</guid>
+      <dc:creator>오경묵 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 12 Apr 2025 01:47:41 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/26QPAPHVPAKTVDRPOODJZ4MAII.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;제주시 조천읍 함덕해수욕장에서 우산을 쓰거나 우비를 입은 관광객들이 발걸음을 옮기고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;토요일인 12일은 전국이 대체로 흐리고 비가 내리겠다. 오후부터 밤 사이에는 전국에서 비가 내릴 전망이다. 늦은 밤부터 강원 산지에는 비 또는 눈이 내릴 것으로 보인다.&lt;br&gt;&lt;br&gt;이날 낮 최고 기온은 16~24도로 예보됐다. 미세먼지 농도도 전국이 ‘좋음’~‘보통’ 수준이다. 다만 서울·인천·경기 남부·충남 등은 오전에 일시적으로 ‘나쁨’ 수준이 나타나는 곳도 있겠다.&lt;br&gt;&lt;br&gt;이날 오후부터는 전국 곳곳에 바람이 강하게 불겠다. 수도권과 충남, 전라, 경남 남해안, 제주 등은 오후부터 순간풍속 시속 70㎞ 이상의 바람이 부는 곳이 있겠다. 돌풍은 밤부터 강원도와 충북 등지로 확대될 전망이다. &lt;br&gt;&lt;br&gt;일요일인 13일은 중부 지방은 대체로 흐리고 남부 지방은 가끔 구름이 많은 가운데 곳곳에 비가 내리겠다. 강원 동해안과 충남권 내륙, 전북 동부, 경상권에는 새벽까지 비가 이어지는 곳도 있겠다. &lt;br&gt;&lt;br&gt;12~13일 예상 강수량은 부산·울산·경남남해안·경남남서내륙 20~60㎜, 서해5도 20~50㎜, 서울·인천·경기·대전·세종·충남 10~40㎜, 충북·전북 10~30㎜, 대구·경북·울릉·독도 5~20㎜ 등이다. 강원 산지에는 1~5㎝, 강원 내륙에는 1㎝ 내외의 눈이 예보됐다. 비나 눈이 내리는 지역에서는 돌풍과 함께 천둥·번개가 치는 곳이 있겠다. 전국적으로 바람도 매우 강하게 불겠다&lt;br&gt;&lt;br&gt;아침 최저기온은 1~9도, 낮 최고기온은 10~16도로 예보됐다. 아침 기온이 낮게 떨어지겠고, 강한 바람이 불어 체감온도가 더 낮아 쌀쌀하니 건강관리에 유의해야 한다.&lt;br&gt;&lt;br&gt;내주 초인 14일에도 이번 주말처럼 날씨가 궂을 것으로 예보됐다. 이날 새벽 수도권과 강원 내륙·충청 지방부터 비 또는 눈이 내리기 시작해 오전에 호남과 경북, 오후에 경남으로 확대된 뒤 밤에 멎겠다. 기온은 아침 최저 2~9도, 낮 최고 10~16도로 평년 기온을 밑돌겠다.&lt;br&gt;&lt;br&gt;화요일인 15일은 전국에 구름이 많다가 차차 맑아지겠다. 16일부터 일주일간은 아침 기온이 5~15도, 낮 기온이 16~26도로 평년 기온과 비슷하거나 조금 높을 것으로 예상된다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“죽여버릴까”...잘못 건 전화 한 통에 27번 연락에 협박까지 한 40대</title>
+      <link>https://www.chosun.com/national/national_general/2025/04/12/JQKRHGFMDRECTGMO5OC2N73ZKE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/12/JQKRHGFMDRECTGMO5OC2N73ZKE/</guid>
+      <dc:creator>정아임 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 12 Apr 2025 01:29:06 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SKAPAZQXV5KJNHCV3TRZZGHAV4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원 로고./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;자기 모친에게 실수로 전화를 했다는 이유로 수차례 연락을 시도하고 찾아가 협박한 40대가 실형을 선고받았다.&lt;br&gt;&lt;br&gt;서울고법 춘천재판부 형사1부(이은혜 부장판사)는 12일 업무방해, 스토킹 처벌법 위반 등 혐의로 기소된 A(44)씨에게 원심과 같은 징역 1년 6개월을 선고하고, 40시간의 스토킹 치료프로그램 이수를 명령했다고 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 2023년 9월 13일 동해시 한 주점 업주 B씨가 자신의 모친에게 실수로 전화를 걸었다는 이유로 이튿날까지 11차례에 걸쳐 B씨에게 전화를 걸고, B씨가 자신의 전화를 받지 않자 그의 아내에게 같은 달 27일까지 16차례에 걸쳐 전화하거나 문자 메시지를 전송한 혐의로 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;그는 또 주점에 찾아가 B씨에게 고성을 지르거나 욕설하며 “죽여버릴까” 등 발언으로 협박하고, 출동한 경찰에 체포될 때까지 주점에서 행패를 부리며 업무를 방해한 혐의도 추가됐다.&lt;br&gt;&lt;br&gt;A씨 측은 재판 과정에서 “외상 술값이 남아 있지 않았음에도 B씨가 모친에게 전화해 술값을 변제하라고 말한 것에 항의하기 위해 주점에 찾아갔을 뿐 협박하지 않았다”고 주장했다. 하지만 이는 받아들여지지 않았다. &lt;br&gt;&lt;br&gt;1심을 맡은 춘천지법 강릉지원은 “피고인은 여러 차례 형사처벌을 받은 전력이 있을 뿐만 아니라 이 사건의 피해자들에 대한 강제추행과 업무방해로 징역형의 집행유예 판결을 선고받아 현재 집행유예 기간에 있음에도 또다시 같은 피해자들을 상대로 범행을 저질러 죄질이 나쁘다”며 실형을 선고했다.&lt;br&gt;&lt;br&gt;양측의 불복으로 항소심 재판부가 사건을 다시 살폈으나 판단은 뒤바뀌지 않았다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>3살 때 서울역서 잃어버린 가족...50년 만에 재회한 사연</title>
+      <link>https://www.chosun.com/national/national_general/2025/04/12/HC7MUHBQUJF6DDDJZUSSA6LI5M/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/12/HC7MUHBQUJF6DDDJZUSSA6LI5M/</guid>
+      <dc:creator>정아임 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 11 Apr 2025 23:51:14 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/V4HFHQZWKWBK5NEMY667ZIBE2U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;3살 때 가족을 잃어버린 남성이  유전자 검사를 통해 50년 만에 가족을 찾았다./부산 중부경찰서&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;3살 때 서울역에서 가족과 헤어진 50대 남성이 유전자 검사를 통해 50년 만에 가족과 상봉한 사연이 전해졌다. &lt;br&gt;&lt;br&gt;11일 부산 중부경찰서에 따르면 1975년 3월 실종 당시 3세였던 강모(53)씨는 서울역에서 아버지와 뜻하지 않게 헤어졌다. &lt;br&gt;&lt;br&gt;강씨는 이후 부산에 있는 보육원 등 시설에서 생활해 왔다. 생사조차 알지 못하는 가족을 찾고 싶다는 생각이 든 강씨는 지난 2월 1일 중부경찰서를 방문해 도움을 요청했다. 그는 자신의 이름, 생일조차도 모르며 가족에 대한 기억도 없는 상태였다. &lt;br&gt;&lt;br&gt;경찰은 강씨에게 유전자 채취를 권유했고, 아동권리보장원에 유전자 검사 의뢰도 요청했다. 경찰청이 2004년부터 장기실종자를 찾기 위해 운영 중인 ‘유전자 등록 제도’를 활용하기 위해서였다.&lt;br&gt;&lt;br&gt;이후 반가운 소식이 들려왔다. 알고 보니 2023년 86세로 사망한 강씨의 모친이 생전에 유전자를 등록해 놓은 것이었다. 경찰은 탐문 수사 끝에 서울에 거주하는 강씨의 1살 터울 누나와 연락이 닿았다.&lt;br&gt;&lt;br&gt;강씨 남매는 중부경찰서에서 마련한 상봉식에서 만나 그동안 살아왔던 이야기 등을 나눴다. &lt;br&gt;&lt;br&gt;강씨 누나는 “오래전부터 잃어버린 동생을 찾기 위해 헤어진 가족을 찾아주는 방송에도 출연했지만 소용없었다”며 “죽은 줄로만 알았던 동생을 다시 만나 너무 기쁘다”고 말했다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “어머니가 돌아가시면 동생을 찾을 수 없을 것 같다는 생각에 강씨 누나가 모친의 유전자를 미리 등록했다더라”며 “앞으로도 DNA 분석을 적극 활용해 장기 실종자 찾기에 최선을 다하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>[이별전쟁] “노력은 너나 해” 두 번 바람 핀 아내의 이 말이 비수가 됐다</title>
       <link>https://www.chosun.com/national/court_law/2025/04/12/7QOL46Y7OBHLLCTCDKEHCLZRUA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/04/12/7QOL46Y7OBHLLCTCDKEHCLZRUA/</guid>
@@ -790,15 +844,6 @@
       </media:content>
     </item>
     <item>
-      <title>[단독] 고가 암·희귀질환 치료제 건보 적용까지 평균 1년… 그 사이 환자는 세상 떠나</title>
-      <link>https://www.chosun.com/national/welfare-medical/2025/04/11/DFPTFLHG6JFFJJOJWIN6COTWFU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/04/11/DFPTFLHG6JFFJJOJWIN6COTWFU/</guid>
-      <dc:creator>오유진 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 10 Apr 2025 20:04:00 +0000</pubDate>
-      <content:encoded>암이나 희소 질환 치료에 쓰이는 고가(高價) 약에 건강보험 보장이 적용되기까지 평균 1년 가까이 걸리는 것으로 나타났다. &lt;br&gt;&lt;br&gt;10일 국민의힘 서명옥 의원실이 건강보험심사평가원(심평원)에서 받은 자료에 따르면, 2016~2024년 건보 급여 목록에 올라간 항암제와 희소 질환 치료제는 총 112개다. 이 약제들이 건보 급여로 등록되기까지 걸린 평균 기간은 약 317일로, 10개월 넘는 것으로 집계됐다. 이 가운데 18개는 6개월 미만, 55개는 6개월 이상~1년 미만, 37개는 1년 이상~2년 미만, 2개는 2년 이상 걸렸다. 혈액암의 일종인 다발성 골수종 치료제 ‘포말리스트캡슐’은 등재까지 824일이 걸렸다. 유전성 질환인 척수성 근위축증 치료제 ‘에브리스디건조시럽’도 792일 걸려 건보가 적용됐다.&lt;br&gt;&lt;br&gt;치료제가 건보에 등재되면 약값의 90~95%를 건보가 내게 돼 환자 부담은 크게 줄어든다. 심평원은 건보 등재에 앞서 약제 치료 효과에 비해 가격이 적절한지 등을 심사한다. 제약사가 심평원에 보험 적용을 신청하면, 심평원 약제급여평가위원회에서 약의 치료 효과와 경제성 등을 종합적으로 따져 평가한다. 심평원은 “최근 효과가 있는 고가 신약에 대한 수요가 늘면서 보험 등재 신청도 증가하고 있다”고 했다.&lt;br&gt;&lt;br&gt;급여 등재가 안 된 치료제는 비급여 의약품으로 분류돼, 병원에서 처방받더라도 환자가 약값을 전액 부담해야 한다. 문제는 항암제 상당수는 한 달에 많게는 수천만 원이 들어가 환자들이 보험 등재를 기다리다 치료 시기를 놓친다는 것이다. 실제로 급성 백혈병을 앓던 12세 차은찬군은 2021년 6월 한 회 투약비만 5억원에 달하는 면역 항암제 ‘킴리아’의 건보 적용을 기다리다 세상을 떠났다. 이듬해 1월 국가인권위원회는 생명과 직결된 신약이 건보에 신속하게 등재될 수 있는 제도가 필요하다는 의견을 보건복지부 장관에게 표명했다.&lt;br&gt;&lt;br&gt;프랑스, 네덜란드, 독일 등 유럽연합 국가들은 혁신 신약 건보 제도를 통해 일단 사용 허가를 받은 약품은 모두 건보 등재를 하도록 한다. 희소 질환자를 돕기 위해서다. 미국과 일본은 대체 치료제가 없는 희소 질환 신약은 ‘우선 심사 제도’를 통해 신속하게 사용 승인을 내주고 있다.&lt;br&gt;&lt;br&gt;서명옥 의원은 “암·희소 질환 치료제의 급여 등재가 지연돼 환자 생명이 위협받아선 안 된다”면서 “심사 절차를 효율화해서 꼭 필요한 치료제부터 심사 기간을 단축해 나가야 한다”고 말했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[단독] 스웨덴 할머니가 55년 고이 간직한 한국 소년의 꿈</title>
       <link>https://www.chosun.com/national/national_general/2025/04/11/2U5O772V2NEKDLEDIQ5DUOCDMY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/11/2U5O772V2NEKDLEDIQ5DUOCDMY/</guid>
@@ -811,15 +856,6 @@
         <media:description type="plain">국민학교 재학 중이던 공씨가 스웨덴의 한 부부로부터 후원 받은 크레파스와 스케치북으로 그린 그림을 들고 있는 모습.(왼쪽 사진)
 공씨가 스웨덴 부부에게 보냈던 편지.(오른쪽 사진)/공삼현씨</media:description>
       </media:content>
-    </item>
-    <item>
-      <title>때이른 봄바람 타고, 꽃가루 알레르기도 빨리 덮쳤다</title>
-      <link>https://www.chosun.com/national/transport-environment/2025/04/11/SZZZSGL6BVB37NXCFC2EXOYTBU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/04/11/SZZZSGL6BVB37NXCFC2EXOYTBU/</guid>
-      <dc:creator>정해민 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 10 Apr 2025 15:55:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SCXUL42KSNH3ZJ2QV6T5Z4MS54.png"&gt;&lt;figcaption&gt;&lt;small&gt;게티이미지코리아&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울에 사는 직장인 이모(30)씨는 지난달 초부터 재채기, 콧물, 코막힘 등 비염 증상이 나타나 동네 의원을 다니고 있다. 이씨는 “일할 때 집중도 잘 안 되고 만성 피로에 시달리고 있다”며 “보통 3월 말이나 4월 초쯤 비염 증상이 생기는데 올해는 더 일찍 나타나 고생”이라고 했다. &lt;br&gt;&lt;br&gt;온난화로 봄 시작이 앞당겨지면서, 봄철 불청객인 꽃가루 알레르기가 찾아오는 시기도 점점 빨라지고 있다. 10일 국립기상과학원에 따르면, 이달 1~10일 경기 한양대구리병원 인근에서 채집한 꽃가루는 총 152개로 작년 같은 기간(141개)보다 7.8% 증가했다. 환경부 관계자는 “봄이 갈수록 앞당겨지면서 꽃가루 날림 현상도 빨라지고 있다”고 했다. 올 3월 평균 기온은 영상 7.6도로 작년 3월(6.9도)보다 따뜻했다. &lt;br&gt;&lt;br&gt;꽃가루 알레르기 때문에 병원을 찾는 환자도 갈수록 늘고 있다. 이비인후과 전문의 12명이 근무하는 하나이비인후과병원의 이상덕 원장은 “올해는 3월부터 알레르기성 비염이나 결막염으로 병원을 찾는 환자가 늘었다”고 했다. 건강보험심사평가원에 따르면, 알레르기성 비염 환자는 2021년 491만1876명에서 2023년 743만373명으로 50% 넘게 증가했다. 같은 기간 알레르기성 결막염 환자는 9% 증가해 200만명에 육박했고, 천식 환자도 52.6% 늘어 100만명을 넘어섰다. 한두희 서울대병원 이비인후과 교수는 “알레르기성 비염 환자 등의 증가는 코로나가 한창일 때 낮아졌던 병원 접근성이 회복된 영향으로 추정된다”면서 “코로나를 거치며 호흡기 증상에 대한 국민들의 관심이 늘어나 조금이라도 불편함을 느끼면 병원을 가는 경우가 증가했을 수도 있다”고 말했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GSBYJGXGYZB5BJOBG6IDNRUIDE.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=양진경&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;꽃가루 알레르기를 일으키는 주범은 꽃보다 나무다. 참나무·오리나무·자작나무·삼나무처럼 번식을 위해 봄바람에 꽃가루를 날려 보내는 ‘풍매화(風媒花)’가 알레르기를 주로 일으킨다. 통상 4월 초순부터 5월 하순까지 꽃가루를 날리는 참나무는 산속에서 자라지만, 최근 점점 도심에도 심고 있다. 물가 등에 주로 자라는 오리나무의 꽃가루도 바람에 실려 도심까지 날아올 수 있다. 한대식물인 자작나무는 남한에 자생하지 않지만 전국 골프장, 휴양 시설, 신규 아파트 단지에 조경 목적으로 심는 추세다. 삼나무는 일제강점기에 일본에서 들여와 제주도와 남해안에 심었고, 삼나무 때문에 봄에 제주도 여행을 갔다가 알레르기에 시달리는 사람이 많은 것으로 알려져 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DOWAO4COM5GVRBF42ONRPTHYVQ.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=양진경&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;꽃가루 지수는 ‘낮음’~‘매우 높음’의 4단계로 나누는데, 10일 전남 광양에서는 꽃가루(참나무) 위험 지수가 ‘높음’을 보였다. 대부분의 알레르기 환자에게 증상이 나타날 수 있어 야외 활동 자제를 권고하는 수준이다. 부산, 울산, 경남 창원·김해·양산은 ‘보통’으로, 알레르기 환자에게 야외 활동 시 선글라스와 마스크를 착용하도록 권고했다. 11일에는 경북 포항, 대구 일부와 경산 등지로 ‘보통’ 예보가 확대되고, 12일에는 경남·전남 남해안 일부 지역이 ‘높음’을 보일 전망이다. &lt;br&gt;&lt;br&gt;알레르기 질환은 집먼지진드기나 찬 기온, 황사·미세 먼지에 의해서도 심해진다. 봄철에는 겨우내 옷장에 보관 중이던 봄옷을 꺼내 입는 과정에서 알레르기가 심해질 수 있다. 따뜻하고 습한 곳을 좋아하는 집먼지진드기는 주로 옷이나 침구류, 카펫 등에 살고, 곰팡이도 습기를 좋아하기 때문이다. 또 봄철을 맞아 새벽이나 밤에 운동을 하거나, 큰 일교차로 인해 감기에 걸려 알레르기 증상이 악화하는 경우가 많다. &lt;br&gt;&lt;br&gt;이상덕 원장은 “꽃가루 알레르기가 발생하기 전부터 알레르기를 낮추는 약물을 복용하면 증상이 미미하거나 거의 없이 꽃가루 시즌을 넘어갈 수 있다”고 했다. 권혁수 서울아산병원 알레르기내과 교수는 “꽃가루 알레르기를 방치하면 수면에도 큰 영향을 미치기 때문에 효과와 안전성이 입증된, 코에 뿌리는 스테로이드제(스프레이) 등으로 적절히 치료하는 것이 중요하다”고 했다. 또 코를 세척하고 점안액을 넣으면 자극을 줄일 수 있다. &lt;br&gt;&lt;br&gt;일상에선 꽃가루 농도가 높은 날에는 실내에서 창문을 닫고, 외출할 때 마스크나 모자 등으로 얼굴을 가리는 것이 좋다. 꽃가루가 잘 달라붙는 니트나 털옷은 피해야 하고, 꽃가루가 많은 날 낮에 빨래를 밖에 널어 말리지 않아야 한다. 외출 후 손과 얼굴을 깨끗이 씻는 것이 좋다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>중국發 미세먼지·몽골 황사까지… 숨 막히는 봄</title>
@@ -911,24 +947,6 @@
       <content:encoded>아이와 함께 놀면서 과학에 대한 호기심도 키워줄 수 있다면 얼마나 좋을까요? 사인펜과 휴지만 있으면 눈앞에서 다양한 색이 여러 갈래로 퍼지는 마법 같은 장면을 만날 수 있어요. 아이에겐 신기함을 주고 아빠에게는 아이와의 대화거리를 만들어 주지요. &lt;br&gt;&lt;br&gt;먼저 다양한 색의 수성 사인펜(검정·초록·빨강·보라 등)과 휴지 또는 키친타월을 준비해 주세요. 투명한 유리컵도 함께요. 그다음 휴지나 키친타월을 세로로 길게 잘라 주세요. 폭은 3cm 정도로 휴지가 쉽게 끊어지지 않게 해주세요. 그러곤 휴지 한쪽 끝에 사인펜으로 작은 점을 찍어주세요. 이제 컵에 물을 1~2cm 높이로 담고, 점이 찍히지 않은 반대쪽 끝 부분을 물에 살짝 담가 주세요. 그럼 물이 휴지를 타고 올라가 점과 만나면서 색이 퍼지는 것을 관찰할 수 있어요. &lt;br&gt;&lt;br&gt;특히 검은색 점은 물과 닿았을 때 파란색·보라색·노란색 등으로 갈라지게 됩니다. 이런 현상을 보며 아이에게 ‘왜 검은색인데 여러 색이 나올까?’ ‘가장 먼저 나온 색은 뭐였지?’와 같은 질문을 던져 보세요. 아이는 아빠와 색깔에 대해 이야기하며 자연스럽게 호기심이 커지죠.&lt;br&gt;&lt;br&gt;한 색깔처럼 보이는 잉크엔 사실 여러 색소가 섞여 있어요. 잉크는 물을 따라 휴지 위를 이동하는데, 색소마다 이동 속도가 달라 서로 다른 위치에서 멈추게 되지요. 그래서 하나의 색이 여러 색으로 분리되어 보이는 거예요. 알고 보면 과학적 원리가 숨겨져 있어 더욱 흥미롭지요. 놀이 전에 이 색에서는 무슨 색이 나올지 예측해 보는 것도 좋아요. 커피 필터, 신문지, A4 용지 등 다양한 종이로 실험해서 결과를 비교해 볼 수도 있어요. 종이의 재질에 따라 물의 흡수 속도와 색소의 분리 정도가 달라지는 것을 관찰할 수 있어요.&lt;br&gt;&lt;br&gt;놀이를 마친 뒤 휴지를 잘 말려서 집 안에 전시를 해도 좋겠죠. ‘검은색에서 나온 무지개’처럼 작품에 이름을 붙여주면 놀이의 여운이 오래 남게 되지요. 색이 퍼지는 찰나의 순간이 아이에겐 아빠와의 특별한 추억이 될 수 있어요.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LRTVQUHOPJEHVOZKSUCDYV5HZY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;황성한 '기적의 아빠 육아' 저자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[오늘의 날씨] 2025년 4월 11일</title>
-      <link>https://www.chosun.com/national/transport-environment/2025/04/11/LINF7XJNYNFXFLWJFQJAPY7WGU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/04/11/LINF7XJNYNFXFLWJFQJAPY7WGU/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 10 Apr 2025 15:50:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ITNCTMUU2ZCV7ISBOVF5O4PG7Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>죽 뿌려 ‘토사물’인 척...만취 승객들 협박해 1.5억 뜯은 택시 기사</title>
-      <link>https://www.chosun.com/national/national_general/2025/04/11/QLZ2QTCWQJBCRLFLLXBOQG53PI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/11/QLZ2QTCWQJBCRLFLLXBOQG53PI/</guid>
-      <dc:creator>정아임 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 10 Apr 2025 15:31:08 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/L4GEXC5HOZAC5NA5TDDI7RQ23U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;승객들이 만취한 틈을 타 택시에 토를 한 것처럼 꾸며 폭행당했다며 합의금을 뜯어낸 택시 기사가 경찰에 붙잡혔다. 피해자는 160명에 달하고 피해액도 1억5000만원 정도인 것으로 추산됐다.&lt;br&gt;&lt;br&gt;서울 종암경찰서는 10일 상습공갈 혐의로 택시 기사 A씨를 구속 송치했다고 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 만취 승객을 선별해 택시에 태운 후 한적한 곳에 차를 세운 후 미리 조제한 ‘가짜 토사물’을 택시 안과 자신의 얼굴에 뿌리고 돈을 요구한 것으로 조사됐다.토사물은 A씨가 마트에서 죽, 콜라, 커피 등을 구입 후 섞어 만든 것으로 실제 구토물처럼 보이게끔 위장한 혼합물이었다.&lt;br&gt;&lt;br&gt;A씨는 만취해 잠든 승객을 깨운 후 “운전 중 폭행을 당했다”며 “운전자 폭행으로 처벌받으면 1000만원의 벌금을 받을 수 있다”고 협박했다. 그는 형사 합의금·세차 비용·파손된 안경 구입비 등 명목으로 적게는 30만원부터 많게는 600만원의 합의금을 받았다.&lt;br&gt;&lt;br&gt;A씨는 피해자들이 명확한 상황 인지를 할 수 없는 점을 노려 차량에 블랙박스를 설치하지 않은 채 범행을 반복해왔다. &lt;br&gt;&lt;br&gt;경찰은 입금 계좌·카드 내역 등을 분석해 A씨가 이 같은 수법으로 160여 명으로부터 총 1억5000여 만원을 받은 것으로 추산했다. 그는 약 1년간 서울·경기·충청 일대에서 승객에게 합의금을 뜯어낸 것으로 파악됐다.&lt;br&gt;&lt;br&gt;A씨의 범행은 최근 한 승객이 운전자 폭행 혐의로 경찰 조사를 받으면서 드러났다. 이 승객은 ‘만취해도 절대 토하지 않는다’며 억울함을 호소했다. 경찰은 이후 만취한 것처럼 A씨의 택시에 탑승한 뒤 범행 장면을 채증하고 현장에서 그를 검거했다. &lt;br&gt;&lt;br&gt;서울 종암경찰서는 지난 1일 상습 공갈 혐의로 택시 기사 A씨를 구속했으며 해당 사건을 서울북부지검에 송치했다고 10일 밝혔다. 경찰 관계자는 “동일 수법으로 국민이 피해를 입지 않도록 각별한 유의가 필요하다”고 당부했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>‘71년간 한국서 사목’ 프랑스 출신 두봉 주교 선종</title>
       <link>https://www.chosun.com/national/national_general/2025/04/10/LHTZSEQXZRDMPEXLDGIDUMT26Y/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/10/LHTZSEQXZRDMPEXLDGIDUMT26Y/</guid>
@@ -972,24 +990,6 @@
       <description/>
       <pubDate>Thu, 10 Apr 2025 09:28:08 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WCQ4AASM2BMI3HQ7LK7ONLYER4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 삼성전자 서초사옥/ 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;삼성전자가 반도체 연구개발직 ‘특별 연장 근로’의 1회 인가 기간을 6개월로 늘린 특례의 첫 적용 대상이 됐다. &lt;br&gt;&lt;br&gt;10일 고용노동부에 따르면 고용노동부 경기지청은 전날 삼성전자의 특별 연장 근로 신청을 인가했다. 특별 연장 근로는 주 52시간의 예외를 적용받아 주당 64시간까지 근무할 수 있는 제도다. 고용노동부 인가를 받으면 삼성전자 연구개발직 근로자들은 첫 3개월은 주당 최대 64시간, 그다음 3개월은 주당 최대 60시간 일할 수 있다.&lt;br&gt;&lt;br&gt;이는 정부가 지난달 14일 반도체 산업 경쟁력 강화를 위해 반도체 연구개발직에 한해 1회당 특별연장근로 인가 기간을 기존 3개월에서 6개월로 확대하고, 6개월 한 차례 더 연장할 수 있는 특례를 신설한 결과다. 고용노동부 관계자는 “다른 반도체 기업도 신청 준비를 하고 있는 것으로 알고 있다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>목동 고교서 고3 남학생이 수업 중 여성 교사 폭행</title>
-      <link>https://www.chosun.com/national/national_general/2025/04/10/33D3MMOMYBGUVN4V2QZ4ZYNBHU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/10/33D3MMOMYBGUVN4V2QZ4ZYNBHU/</guid>
-      <dc:creator>김명일 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 10 Apr 2025 09:10:05 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YWKOL52VUFHPFCR5CQBIZ2SYAU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;가해 학생이 피해 교사를 가격하는 장면. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 목동의 한 고등학교에서 수업 중 남학생이 여성 교사를 폭행해 교육 당국이 조사에 나섰다. &lt;br&gt;&lt;br&gt;10일 서울교육청에 따르면 이날 오전 10시쯤 서울 양천구 목동의 한 고등학교에서 이 학교 3학년 남학생이 수업 중 휴대전화를 쥔 손으로 여성 교사의 얼굴을 가격했다.&lt;br&gt;&lt;br&gt;당시 교실에 있었던 다른 학생 등의 증언에 따르면 가해 학생은 수업 시간에 휴대전화로 게임을 하다가 교사가 이를 지적하자 실랑이를 벌인 끝에 이 같은 행동을 했다고 한다. 피해 교사의 부상 정도는 알려지지 않았다. &lt;br&gt;&lt;br&gt;서울시교육청 관계자는 조선닷컴과의 통화에서 “현재 가해 학생과 피해 교사 분리 조치는 이뤄진 상태”라며 “자세한 사건 경위는 파악 중”이라고 밝혔다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>희망브리지, 산불피해 복구 성금 387억원 모금… 구호물품 45만점 지원</title>
-      <link>https://www.chosun.com/national/national_general/2025/04/10/RZMUUB7MGBF63J5OUYWMZSWCJU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/10/RZMUUB7MGBF63J5OUYWMZSWCJU/</guid>
-      <dc:creator>김승범 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 10 Apr 2025 08:32:32 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DOPVZ2KV2VHMNJ3JFBBEN2KAPQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;희망브리지 전국재해구호협회 관계자들이 영남 지역 산불 피해자들에게 제공할 구호물품을 나르고 있다. /희망브리지 전국재해구호협회&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;희망브리지 전국재해구호협회는 최근 영남 지역을 중심으로 발생한 대규모 산불 피해 복구를 위해 총 387억여원의 성금을 모금했다고 10일 밝혔다.&lt;br&gt;&lt;br&gt;이는 9일까지 집계된 금액으로 기부 행렬에는 수많은 개인과 기업은 물론 그룹 세븐틴과 방탄소년단(BTS) 멤버 정국, 가수 제니·아이유, 방송인 유재석 등 유명인들도 동참했다.&lt;br&gt;&lt;br&gt;희망브리지는 산불 피해가 발생한 3개 시·도 65개 지역에 응급구호키트와 생활필수품 등 총 45만여 점의 구호물품을 지원했다. 또 현대차그룹 후원으로 제작된 특수 이동형 세탁차량을 투입해 5.9t 분량의 이불·옷가지·수건 등의 세탁을 지원했다. 이와 함께 소방대원과 산불진화대원에게 총 800인분의 식사를 제공했다.&lt;br&gt;&lt;br&gt;희망브리지 송필호 회장은 “이번 산불은 예상보다 피해 범위가 넓고 회복까지 오랜 시간이 걸릴 것으로 보인다”면서 “끝까지 피해 이웃 곁에서 함께하며, 국민 여러분의 따뜻한 마음이 제대로 전달될 수 있도록 지속적인 관심을 기울이겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
