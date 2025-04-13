@@ -13,6 +13,64 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>상관 청탁 받고 승진 도와준 소방간부...법원 “징계 타당”</title>
+      <link>https://www.chosun.com/national/court_law/2025/04/13/GHEHR7OUM5GARDKUMTBKMRCOOE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/04/13/GHEHR7OUM5GARDKUMTBKMRCOOE/</guid>
+      <dc:creator>김은경 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 13 Apr 2025 04:11:18 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GRUFMIXB7DQLE4Q3AUH6LRGJHM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;상관에게 승진을 도와달라는 청탁을 받고 승진 관련 정보를 수시로 알려주는 등 인사에 관여한 소방 간부에게 3개월 정직을 내린 소방청 징계는 정당하다는 판결이 나왔다.&lt;br&gt;&lt;br&gt;13일 법조계에 따르면 서울행정법원 행정3부(재판장 최수진)는 소방청 간부 A씨가 소방청장을 상대로 낸 징계처분 취소 소송에서 원고 패소로 판결했다.&lt;br&gt;&lt;br&gt;A씨는 지난 2021년 전해철 행정안전부 장관 비서실에 파견 근무하던 당시 중앙119구조본부장이던 최병일 전 소방청 차장에게 소방정감 승진을 도와달라는 청탁을 받았다.&lt;br&gt;&lt;br&gt;이후 장관에게 보고할 소방정감 승진 후보자 4명의 명단이 ‘가나다’ 순으로 올라오자, A씨는 신열우 당시 소방청장에게 ‘최 전 차장을 1순위로 추천하기 위해 현 직급(승진일) 순으로 보고하자’는 의견을 낸 것으로 조사됐다. 이후 장관에게 보고서를 제시하면서 승진일로 보면 최 전 차장이 가장 빠르다고 설명했고, 장관이 이를 듣고 최 전 차장 이름에 숫자 ‘1’을 적자 A씨는 이를 최 전 차장에게 알려주기도 했다.&lt;br&gt;&lt;br&gt;A씨는 며칠 뒤 전 전 장관에게 “(당시)소방청 차장을 부산소방재난본부장으로 전보시키고, 소방정감 승진자를 소방청 차장으로 인용하는 게 좋다”는 의견을 내며 “최 전 차장이 적임자”라고 보고했다. 장관이 동의했고, A씨는 최 전 차장에게 “이 얘기는 절대 하지 마십시오”라며 이를 알려줬다. A씨는 최 전 차장의 인사검증 기간 전직 청와대 인사들을 통해 인사검증 진행 과정과 그 경위를 확인해 전달하기도 했다.&lt;br&gt;&lt;br&gt;그해 최 전 차장은 실제 소방정감으로 승진했고, 소방청 차장으로 발령됐다. 최 전 차장이 재임하던 2021년 A씨는 같은 계급 승진 연수에 비해 이례적으로 빠른 3년 11개월 만에 소방령에서 소방정으로 승진했다.&lt;br&gt;&lt;br&gt;소방청 징계의결서에 따르면&amp;nbsp; A씨는 최 전 차장의 승진 이후 장관이 ‘차기 소방청장으로 누가 좋겠느냐’라고 묻자 “최 전 차장이 적임자”라고 답한 것으로도 조사됐다. 최 전 차장은 이후 소방청장 후보로도 거론됐는데, 이 과정에서 A씨는 청와대 전직 인사들을 통해 알게 된 청장 인사검증 진행 과정이나 경쟁 후보의 세평을 최 전 차장과 공유하기도 했다.&lt;br&gt;&lt;br&gt;이 같은 사실이 알려지자 소방청은 A씨가 소방공무원의 성실의무와 품위유지를 위반했다고 판단해 정직 3개월 징계를 내렸다. A씨는 승진을 조력한 일에 대가성이 없었고, 정당한 업무였다고 주장하면서 소청심사위에 소청을 냈지만 기각되자 행정소송을 제기했다.&lt;br&gt;&lt;br&gt;법원은 징계위의 정직 3개월 처분이 정당하다고 봤다. 재판부는 “공직자가 승진 조력 청탁을 받은 뒤 인사권자에게 청탁한 사람을 적임자로 보고하고, 승진과 관련한 정보를 청탁자에게 알려주는 행위는 공무원 승진 절차의 공정성을 심하게 해치는 행위”라며 “A씨의 비위행위로 인해 공직기강이 문란하게 된 정도가 비교적 크다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>대법 “실질적 주거·생계 같이 해야 1세대”</title>
+      <link>https://www.chosun.com/national/court_law/2025/04/13/76PB4URLERFH3MQZO3EOV3OHE4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/04/13/76PB4URLERFH3MQZO3EOV3OHE4/</guid>
+      <dc:creator>김희래 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 13 Apr 2025 03:52:34 +0000</pubDate>
+      <content:encoded>재개발 조합이 주택을 분양할 때 ‘동일 세대’ 기준은 주민등록이 아닌 실제 생계를 함께 하는지 여부로 판단해야 한다는 대법원 판단이 나왔다. 대법원이 ‘동일 세대’ 개념에 대한 기준을 밝힌 것은 이번이 처음이다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Y2LAKG3UZV7ZTGKM2RLS65X5VU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대법원 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;13일 법조계에 따르면, 대법원 2부(주심 오경미 대법관)는 A씨 등이 경기 성남지역의 한 주택재개발정비사업조합을 상대로 제기한 수분양권 존재 확인 등 청구 소송에서 원고 패소로 판단한 원심판결을 파기하고 지난달 27일 사건을 수원고법으로 돌려보냈다.&lt;br&gt;&lt;br&gt;원고들은 재개발 구역 조합원으로서 2019년 조합에 분양 신청을 했다. A씨와 배우자 B씨는 A씨 명의로 주택 하나를, A씨의 동생 C씨는 단독 명의로 주택 하나를 신청했다. B씨와 C씨는 A씨의 아버지 D씨의 세대원으로 주민등록이 되어 있다. 실제로 B씨는 미국에서, C씨는 한국의 다른 곳에서 거주 중이다.&lt;br&gt;&lt;br&gt;조합은 B씨와 C씨가 주민등록상 같은 세대로 등록된 것을 문제 삼았다. 옛 ‘도시 및 주거환경정비법’과 관련 조례가 재개발 분양 시 ‘1세대 1주택’ 원칙을 적용하는데, 두 사람이 같은 세대라면 주택을 각각 분양받을 수 없다는 취지였다. 이에 조합은 원고들이 총 1개 주택만 분양받을 수 있도록 관리처분계획을 세웠다. 원고들은 B씨와 C씨가 같은 주소지로 등록돼있긴 하지만 각각 다른 곳에서 거주 중이기 때문에 조합의 이 같은 조치가 부당하다며 소송을 제기했다.&lt;br&gt;&lt;br&gt;1심 재판부는 “원고들은 각각 별개의 세대를 이뤄 독립된 생활을 한 것이어서 하나의 세대에 해당하지 않는다”고 했다. 그러나 2심은 주민등록법령에 따라 작성된 주민등록표 등을 기준으로 동일 세대 여부를 판단해야 한다며 원고 패소로 판결했다.&lt;br&gt;&lt;br&gt;대법원은 2심 판단을 뒤집었다. 대법원은 “실질적으로 주거와 생계를 같이하고 있지 않았던 이상 이들을 ‘동일한 세대’를 이루고 있는 관계라고 할 수 없고 ‘하나의 세대’에 해당하지 않는다”고 밝혔다. 주민등록상 같은 세대로 묶여있더라도 함께 생활하고 있지 않다면 동일 세대로 볼 수 없다는 것이다.&lt;br&gt;&lt;br&gt;또 “주민등록표 등재 등 형식만을 기준으로 1세대 여부를 판단한다면 실제로 주거와 생계를 같이하고 있으면서도 형식적으로 주민등록만 달리 두고 있는 경우 여러 채의 주택을 분양받을 수 있다는 결론으로 이어지고, 이른바 ‘위장 세대 분리’를 막지 못하는 폐단이 발생하게 된다”고 덧붙였다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>서울 마포구 애오개역 인근서 싱크홀 발생…인명 피해는 없어</title>
+      <link>https://www.chosun.com/national/national_general/2025/04/13/POIS2OBHHZCTBD5A77XLPQ527A/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/13/POIS2OBHHZCTBD5A77XLPQ527A/</guid>
+      <dc:creator>안태민 기자, 김병권 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 13 Apr 2025 03:22:17 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PZPR32R4UJDWRPZA3EHELNCSHY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;13일 오전 서울 마포구 애오개역 인근에서 발생한 땅 꺼짐 사고의 원인을 파악하기 위해 서울 서부도로사업소에서 싱크홀 밑 부분을 파고 있다./안태민 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 마포구 애오개역 2번 출구 옆 차도에서 직경 약 40cm, 깊이 약 130cm의 땅 꺼짐 사고가 발생해 경찰이 인근 도로를 통제 중이다. &lt;br&gt;&lt;br&gt;마포소방서에 따르면, 13일 오전 8시50분쯤 애오개역 2번 출구 인근에서 “도로 밑이 약간 푹 꺼져있다”는 신고가 접수됐다. 이로 인한 인명, 재산 피해는 없었지만, 경찰은 땅 꺼짐이 발생한 애오개역 2번 출구 옆 2개 차로에 걸쳐 차량 통행을 통제하고 있다. 서울교통공사도 애오개역 2번 출구에서의 출입을 막고 있다.&lt;br&gt;&lt;br&gt;마포구에 따르면, 이날 오후 12시 40분쯤 싱크홀 밑 부분에 있던 하수도관이 파열된 것이 발견됐다. 마포구 관계자는 “서울 서부도로사업소에서 정확한 원인을 파악 중이고 도로 복구 등 조치를 할 예정”이라며 “아직 하수도관 파열과 싱크홀 사이의 연관성은 파악 중”이라고 밝혔다. 서울 서부도로사업소는 정확한 원인을 파악하기 위해 싱크홀 아랫 부분을 파 둔 상황이다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>부산 도시철도 사상~하단 공사현장 부근서 대형 싱크홀</title>
+      <link>https://www.chosun.com/national/2025/04/13/DEVMSWHZ45CXZLNTJ77LGGN5XI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2025/04/13/DEVMSWHZ45CXZLNTJ77LGGN5XI/</guid>
+      <dc:creator>부산=김준호 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 13 Apr 2025 01:08:46 +0000</pubDate>
+      <content:encoded>부산 사상구 도시철도 공사 현장 인근에서 대형 싱크홀(땅 꺼짐)이 발생했다. 현재까지 인명 피해는 없는 것으로 전해졌다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZO3T6R2CDJGBTEC3LHBJXR3P4I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;13일 부산 도시철도 사상∼하단선 공사 현장 주변에 가로 5m, 세로 3m 크기의 대형 싱크홀이 생겼다. /부산경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IBHTSS6X7VGWXIR3HWDGBOPYAE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;13일 부산 도시철도 사상∼하단선 공사 현장 주변에 가로 5m, 세로 3m 크기의 대형 싱크홀이 생겼다. /부산경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;13일 경찰과 사상구에 따르면 이날 오전 5시 40분쯤 사상구 학장동 한 도로 위 횡단보도에서 가로 5m, 세로 3m, 깊이 3~4m로 추정되는 대형 싱크홀이 생겼다. &lt;br&gt;&lt;br&gt;앞서 40분 전쯤 경찰로부터 “싱크홀이 발생할 것 같다”는 신고를 공유받고, 사상구청 직원들이 안전조치를 하던 중 발생한 것으로 전해졌다. 사상구 관계자는 “현장에 출동해 안전조치 중 싱크홀이 발생했다”고 전했다. 현재 지자체와 경찰은 도로를 통제하고, 방호벽을 설치한 뒤 보수 작업을 진행하고 있다. &lt;br&gt;&lt;br&gt;사고 현장은 부산 사상~하단 도시철도 공사 현장 인근으로 파악됐다. 특히 국내 최장 길이 도심 고가도로인 동서고가로 밑 다리 교각과 불과 몇m 떨어진 지점이라, 보수와 함께 대책 마련이 시급하다는 지적이다. 현재 부산시와 시공사도 현장에 나와 원인 조사를 하고 있다. &lt;br&gt;&lt;br&gt;사상~하단선 공사 현장에서는 지난해 9월에도 대형 싱크홀이 생겨 트럭 2대가 8m 아래로 추락하는 등 최근 1년 사이에만 수차례 땅 꺼짐 현상이 발생했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WGZFBKEYN5B5LKDU4YRPLKHPIE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;13일 부산 도시철도 사상∼하단선 공사 현장 주변에 가로 5m, 세로 3m 크기의 대형 싱크홀이 생겼다. /부산경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 2월 18일 부산시 지하사고조사위원회는 지난해 9월 싱크홀 사고와 관련해 “이례적인 폭우와 부실한 차수 공법 등에 의한 것으로 추정된다”고 발표한 바 있다.&lt;br&gt;&lt;br&gt;2015년 착공한 사상~하단 선은 도시철도 2호선 사상역에서 1호선 하단역을 잇는 총 연장 6.9km(7개 정거장) 길이로, 내년 말 개통을 목표로 공사가 진행 중이다. &lt;br&gt;&lt;br&gt;한편, 지난 3월 24일 오후에는 서울 강동구 명일동 한영외고 앞 도로에서 가로 20m, 세로 20m, 깊이 20m 규모 싱크홀이 발생해 오토바이 등이 추락하는 사고가 발생했다. 30대 오토바이 운전자가 이 사고로 숨진 채 발견됐다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“왜 꾸짖어”… 80대 모친 흉기 협박한 아들 ‘집유 2년’</title>
+      <link>https://www.chosun.com/national/court_law/2025/04/13/DUSOBF6PNJFLFIGEK6B2JFRHPI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/04/13/DUSOBF6PNJFLFIGEK6B2JFRHPI/</guid>
+      <dc:creator>춘천=정성원 기자</dc:creator>
+      <description>자신을 꾸짖었다는 이유로 80대 모친을 흉기로 협박한 60대 아들에게 법원이 집행유예를 선고했다.
+춘천지법 형사1단독 송종환 부장판사는 특수존속협박 등 혐의로 기소된 A(60)씨에게 징역 1년에 집행유예 2년을 선고했다고 13일 밝혔다.
+</description>
+      <pubDate>Sun, 13 Apr 2025 02:05:14 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZLIV57VBXEVRI4PCFOKSZDQEKE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;춘천지법 / 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;자신을 꾸짖었다는 이유로 80대 모친을 흉기로 협박한 60대 아들에게 법원이 집행유예를 선고했다.&lt;br&gt;&lt;br&gt;춘천지법 형사 1단독(부장판사 송종환)은 특수존속협박 등 혐의로 기소된 A(60)씨에게 징역 1년에 집행유예 2년을 선고했다고 13일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 2023년 11월 강원 춘천시 자택에서 B(84)씨에게 뜨거운 물을 부으려고 하거나 B씨에게 흉기를 들이대며 협박한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;A씨는 또 이를 말리던 형제들의 멱살을 잡거나 흉기로 위협하기도 했다.&lt;br&gt;&lt;br&gt;A씨는 B씨가 재산 상속 등의 문제로 형제들에게 욕설하는 자신을 꾸짖자 홧김에 이 같은 범행을 저지른 것으로 조사됐다.&lt;br&gt;&lt;br&gt;송 부장판사는 “피고인이 충분히 잘못을 인정하고 반성하는 점, 피해자들과 합의해 피해자들이 처벌을 원치 않는 점 등을 양형에 참작했다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“손녀딸 같아서”… 10대 여학생 허벅지 쓸어내린 80대 ‘집유 2년’</title>
+      <link>https://www.chosun.com/national/court_law/2025/04/13/PRHM6ZDIIBE35O4LAK5VHAX53Q/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/04/13/PRHM6ZDIIBE35O4LAK5VHAX53Q/</guid>
+      <dc:creator>원주=정성원 기자</dc:creator>
+      <description>10대 여학생을 성추행한 80대 남성에게 법원이 집행유예를 선고했다. 이 남성은 손녀딸 같았고, 대화 과정에서 생긴 일이라며 혐의를 부인했으나 법원은 이를 받아들이지 않았다.
+13일 법조계에 따르면 춘천지법 원주지원 형사1부는 아동·청소년의 성 보호에 관한 법률 위반(강제추행) 혐의로 기소된 A(82)씨에게 징역 1년에 집행유예 2년을 선고했다.
+</description>
+      <pubDate>Sun, 13 Apr 2025 02:03:24 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KYUTM35NP5F5GTBMEVJXMVTOYE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;춘천지법 원주지원. (재판매 및 DB금지)/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;10대 여학생을 성추행한 80대 남성에게 법원이 집행유예를 선고했다. 이 남성은 손녀딸 같았고, 대화 과정에서 생긴 일이라며 혐의를 부인했으나 법원은 이를 받아들이지 않았다.&lt;br&gt;&lt;br&gt;13일 법조계에 따르면 춘천지법 원주지원 형사1부는 아동·청소년의 성 보호에 관한 법률 위반(강제추행) 혐의로 기소된 A(82)씨에게 징역 1년에 집행유예 2년을 선고했다.&lt;br&gt;&lt;br&gt;A씨는 작년 9월 28일 오후 7시 30분쯤 강원 원주시 한 아파트 인근 버스정류장에서 B(15)양에게 길을 물어보며 다가가 자신의 손등으로 B양의 허벅지를 쓸어내리는 등 성추행한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;A씨는 재판 과정에서 “손녀딸 같다. 대화 과정에서 발생한 일이며 추행의 고의가 없었다”고 주장했으나 재판부는 피해자가 상당한 성적 불쾌감을 받은 점, A씨가 동종 범죄로 처벌받은 전력이 다수 있는 점 등을 이유로 이를 받아들이지 않았다.&lt;br&gt;&lt;br&gt;재판부는 “당시 중학생인 B양이 일면식이 없던 A씨를 무고할 이유가 없어 보인다”면서 “추행의 정도나 유형력 행사의 정도가 비교적 중하다고 보기 어려운 점 등을 양형에 참작했다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>[이별전쟁] 두 번 외도하고 이혼 요구...아내는 재산 절반에 양육권까지 욕심냈다 </title>
       <link>https://www.chosun.com/national/court_law/2025/04/13/HWKASM2BGJBRXECAMCB7V4BTQA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/04/13/HWKASM2BGJBRXECAMCB7V4BTQA/</guid>
@@ -829,24 +887,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GCPG537C35U2R43OF5TXVRUGJQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;울산항만공사. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;울산경찰청이 인사 비리 의혹과 관련해 울산항만공사에 대해 11일 압수수색을 벌이고 있다.&lt;br&gt;&lt;br&gt;울산경찰청 반부패경제범죄수사대는 이날 오전 10시부터 수사관들을 울산항만공사에 보내 압수수색에 나섰다.&lt;br&gt;&lt;br&gt;수사관들은 인사 관련 부서 등에서 직원 역량 평가 서류 등 승진 관련 자료를 확보 중인 것으로 알려졌다. &lt;br&gt;&lt;br&gt;울산항만공사는 지난해 진행한 자체 감사에서 개인 역량 평정 및 승진 후보자 명부 작성 등에 오류가 있는 것으로 지적된 바 있다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “수사 중인 사안이어서 구체적으로 확인해줄 수 없다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>‘NC파크 추락 사고’… 경찰, 창원시·시설공단·NC 등 압수수색 </title>
-      <link>https://www.chosun.com/national/regional/2025/04/11/FBOEJTSCGFHWXOPAQF76KYDY2Q/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/04/11/FBOEJTSCGFHWXOPAQF76KYDY2Q/</guid>
-      <dc:creator>창원=김주영 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 11 Apr 2025 04:08:06 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/72GSOZHVR5FNDGSGV3CZYXBK2Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경남 창원시 마산회원구 창원NC파크. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난달 경남 창원NC파크에서 발생한 구조물 추락 사망사고와 관련, 경찰이 창원시 등을 압수수색 중이다.&lt;br&gt;&lt;br&gt;11일 경남경찰청에 따르면 경찰은 이날 오전부터 창원시와 창원시설공단, 창원NC파크 등 3곳을 압수수색하고 있다. &lt;br&gt;&lt;br&gt;이번 압수수색은 지난달 29일 창원NC파크에서 발생한 구조물 추락 사고와 관련된 것으로 전해졌다. 당시 이곳에서는 길이 2.6ｍ, 폭 40㎝, 무게 60㎏가량인 외벽 구조물 ‘루버’가 추락하면서 아래에 있던 야구 팬 3명이 다치는 사고가 발생했다. 이 중 20대 여성 1명이 치료 도중 숨졌다. &lt;br&gt;&lt;br&gt;경찰은 창원시 안전 담당, 체육 관련 부서 등을 압수수색해 정기 위험성 평가 등 문서를 확인하고 있는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰은 최근 사고 현장에서 합동 감식을 벌였으며, 중대재해처벌법 적용 여부 등을 검토 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>투자사기 충격 ‘동반자살 시도’…아들 살해 친모, 2심도 징역 7년 </title>
-      <link>https://www.chosun.com/national/regional/2025/04/11/OJINY2EAJFGVJCIHNTYR5F7RE4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/04/11/OJINY2EAJFGVJCIHNTYR5F7RE4/</guid>
-      <dc:creator>우정식 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 11 Apr 2025 03:21:22 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NEB72YMFAVHRJKGS7DXJM5DJ5A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원 로고. /조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;1억원대 주식 투자사기 피해를 본 뒤 극단적 선택을 시도하는 과정에서 초등생 아들을 숨지게 한 40대 친모가 2심에서도 1심과 같은 징역 7년을 선고받았다.&lt;br&gt;&lt;br&gt;대전고법 형사1부(재판장 박진환)는 11일 살인 혐의 사건 항소심에서 A씨(46)의 항소를 기각하며, 1심과 같은 징역 7년을 유지했다.&lt;br&gt;&lt;br&gt;A씨 변호인은 결심 공판에서 “심신미약 상태에서 범행한 사정 등을 참작해달라”며 선처를 호소했다. &lt;br&gt;&lt;br&gt;하지만 2심 재판부는 “A씨의 여러 주장은 이미 1심에서 충분히 고려한 것으로 양형을 바꿀만한 새로운 사정을 발견하지 못했다”고 기각 이유를 설명했다.&lt;br&gt;&lt;br&gt;A씨는 지난해 1월 충남 예산의 집에서 아들·딸이 잠든 방 안에서 함께 극단적인 선택을 시도했다. 이 과정에서 A씨는 목숨을 건졌지만, 초등학생 3학년 아들이 숨지면서 A씨에게 살인 혐의가 적용됐다. 뇌변병 장애를 입은 초등생 딸은 24시간 간병인의 도움을 받아야 하는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;A씨는 범행 2개월 전 보이스피싱 주식 투자 사기를 당해 1억원이 넘는 피해를 본 후 자신의 처지를 비관해온 것으로 조사됐다.&lt;br&gt;&lt;br&gt;앞서 A씨에게 피해를 준 범죄조직에 가담해 피해자를 양산한 B씨(41)는 징역 20년형을 선고받고 수감 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>특혜 채용 의혹 文 전 사위도 입건…피의자 6명 됐다</title>
       <link>https://www.chosun.com/national/court_law/2025/04/11/3YQXFFXCRNA23D7XTIJ6QIU2ZY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/04/11/3YQXFFXCRNA23D7XTIJ6QIU2ZY/</guid>
@@ -856,15 +896,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/L5RNEG7TSUFZA475MNRN5FHNUA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;문재인 더불어민주당 대선후보가 2017년 5월 8일 오후 서울 광화문광장에서 진행된 제19대 대통령 선거 마지막 유세에서 딸 문다혜 씨와 손자로부터 카네이션을 선물받고 기념촬영을 하고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;문재인 전 대통령의 전 사위 서모(45)씨의 ‘타이이스타젯 특혜 채용’ 의혹을 수사중인 검찰이 서씨를 문 전 대통령과 같은 혐의를 적용해 피의자로 입건한 것으로 파악됐다.&lt;br&gt;&lt;br&gt;11일 법조계 등에 따르면 전주지검 형사3부(부장 배상윤)는 뇌물수수 혐의로 서씨를 불구속 입건했다. 앞서 검찰은 참고인 신분이었던 문 전 대통령의 딸 다혜씨도 같은 혐의로 피의자로 전환했다. &lt;br&gt;&lt;br&gt;현재까지 이 사건 피의자는 문 전 대통령과 다혜씨, 서씨, 이상직 전 의원(뇌물공여), 박석호 타이이스타젯 대표(업무상 배임), 지난해 12월 기소된 조현옥 전 청와대 인사수석(직권남용권리행사방해) 등 6명이다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ARWJWXBWGZDFPB3JLQMAP5T3NQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이상직 전 더불어민주당 의원이 중소벤처기업진흥공단 이사장 시절인 지난 2019년 12월 5일 전북 전주시 전북도의회 기자실을 방문해 간담회를 하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰은 문 전 대통령 등이 받은 뇌물 액수를 2억2300여 만원으로 특정했다. 서씨가 2018년 7월~2020년 4월 이상직 전 민주당 의원이 실소유한 태국 항공사 타이이스타젯에 임원으로 취업해 받은 급여와 체류비 등을 뇌물로 보고 있다. 검찰은 과거 게임 회사에서 일했던 서씨가 항공업계 실무 경험이 전혀 없는데도 타이이스타젯에 임원으로 입사한 배경이 석연치 않다고 보고 수사에 착수했다. 이 전 의원이 중소벤처기업진흥공단(중진공) 이사장이 된 직후 서씨가 취직한 데 대가성이 있다고 보고 있다.&lt;br&gt;&lt;br&gt;검찰은 문 전 대통령 부부가 다혜씨 가족의 생활비를 책임지다가 서씨가 취직한 뒤 생활비를 주지 않은 것으로 파악했다. 이 때문에 이 전 의원이 준 서씨 월급 등을 뇌물로 보고 있는 것이다. &lt;br&gt;&lt;br&gt;2018년 6~7월 전 사위 서씨의 타이이스타젯 취업과 딸 다혜씨 가족의 태국 이주는 비밀리에 진행된 것으로 알려졌다. 이 전 의원은 2018년 3월 중진공 이사장으로 임명됐고, 이때가 문 전 대통령의 전 사위 서씨가 게임 회사를 그만둔 시점이다. 이 전 의원이 직접 나서 3개월여 만에 해외 취업과 이주 등이 이뤄졌다. 6~7월 서씨가 먼저 출국했고, 이어 다혜씨가 구기동 빌라를 매각한 뒤 아들을 데리고 태국으로 출국했다. 이때 중진공 직원이 개입해 이들의 태국 정착을 도왔다. 다혜씨는 태국에서 돌아온 뒤 2020년 말부터 청와대 관저에서 자녀와 함께 거주해 논란이 됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>“광명 신안산선 공사 현장 지하 기둥에 균열” 신고...도로 통제 중</title>
-      <link>https://www.chosun.com/national/incident/2025/04/11/O645JHCBKBDYHK6PJFU2L3LNQE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/04/11/O645JHCBKBDYHK6PJFU2L3LNQE/</guid>
-      <dc:creator>광명=김수언 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 11 Apr 2025 00:29:47 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AVM3FKC6BBOAJC5GRROVCDK6YU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;광명시 일직동 신안산선 복선전철 5-2공구 공사현장. 10일 밤 11시58분 일직동 신안산선 복선전철 5-2공구에서 붕괴위험 신고가 접수된 가운데 경찰과 소방,  공사관계자 등이 인근 주민들의 우회 통행을 안내하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;11일 새벽 경기도 광명시 일직동 신안산선 환기구 공사 현장에서 지하 기둥에 균열이 생겼다는 신고가 접수됐다. 경찰은 혹시 모를 붕괴 위험 등에 대비해 주변 도로를 통제 중이다.&lt;br&gt;&lt;br&gt;경기 광명경찰서에 따르면 이날 오전 12시 30분쯤 광명시 일직동 신안산선 복선전철 민간투자사업 제5-2공구 현장에서 “지하철 공사 중 기둥에 균열이 생겼다. 붕괴 위험이 있다”는 취지의 신고가 광명시청을 통해 접수됐다. &lt;br&gt;&lt;br&gt;공동 대응에 나선 경찰은 현장에 출동해 광명 양지사거리부터 안양 호현삼거리까지 오리로 1㎞ 구간을 통제하고, 안전 조치를 했다.&lt;br&gt;&lt;br&gt;현장에서 일하던 근로자 17명은 스스로 대피했으며, 다친 사람은 없었다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HAJD6TQFDJB3XAZOWTQCO5PNIM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지하 기둥에 균열이 갔다는 신고가 접수된 11일 오전 경기 광명시 일직동 신안산선 복선전철 민간투자사업 제5-2공구 현장에서 소방 관계자들이 현장을 통제하고 있다. /경기도소방재난본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;광명시는 오전 2시 8분부터 3차례에 걸쳐 안전안내 문자를 보내 “일직동 신안산선 환기구 공사 붕괴 위험으로 인해 빛가온초 앞 양방향 교통 통제 중”이라고 알렸다.&lt;br&gt;&lt;br&gt;공사 관계자들은 신고 접수 직후 현장 안전 점검을 실시하고, 곧바로 보강공사에 들어갔다. 경찰은 지반 침하 현상 등을 우려해 대비 중이다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “공사 관계자들과 감리 전문가 등에 따르면, 기둥의 균열이 크진 않은 것으로 파악된다”며 “만약에 발생할 사고를 막기 위해 안전이 확보될 때까지 계속 도로를 통제할 방침”이라고 말했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>이재명, 열흘 만에 ‘선거법 위반’ 상고심 소송기록접수통지서 수령</title>
       <link>https://www.chosun.com/national/court_law/2025/04/11/656JBZHKHBDPJE5TPJ6GSRSKKM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/04/11/656JBZHKHBDPJE5TPJ6GSRSKKM/</guid>
@@ -872,24 +903,6 @@
       <description/>
       <pubDate>Fri, 11 Apr 2025 01:05:10 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NVKWYYRCLWMCOPR5DG6UHUS5KE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이재명 더불어민주당 전 대표가 10일 21대 대통령 선거 출마 영상을 공개했다. 이 전 대표는 먹고 사는 문제를 해결하고 고통 없는 삶을 추구하는 '먹사니즘'을 넘어, 실용주의를 앞세워 더 행복한 삶을 지향하는 '잘사니즘' 등을 강조했다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘공직선거법 위반 사건’ 관련 상고심을 앞둔 이재명 전 더불어민주당 대표가 소송기록접수통지서 등 소송 서류를 수령했다. &lt;br&gt;&lt;br&gt;11일 법조계에 따르면 이 전 대표는 전날 사무원을 통해 법원이 발송한 소송기록접수 통지서와 상고장 부본, 국선변호인 선정 안내 고지서 등을 받았다. 소송기록접수통지서는 항소심 사건 기록이 대법원에 접수됐음을 알리는 공식 문서다.&lt;br&gt;&lt;br&gt;앞서 대법원은 지난달 31일 이 전 대표에게 소송기록접수 통지서를 보냈으나, 이 전 대표 측이 일주일 넘게 수령하지 않아 폐문부재(당사자가 없고 문이 닫혀 있음)로 반송됐다. 이에 대법원은 지난 7일 서울남부지법·인천지법 소속 집행관에게 인편으로 직접 전달하도록 요청했다. 집행관 송달은 우편으로 송달이 이뤄지지 않을 때 실시하는 ‘특별 송달’이다.&lt;br&gt;&lt;br&gt;검찰도 같은 날 담당 재판부인 대법원 3부에 상고이유서를 제출했다. 이 전 대표가 검찰 상고이유서를 송달받으면 그로부터 10일 이내에 이에 대한 답변서를 제출할 수 있다. 답변서 제출 절차까지 마무리되면 대법원은 주심 대법관을 정하고 본격적인 심리에 착수하게 된다.&lt;br&gt;&lt;br&gt;이 전 대표는 지난 대선을 앞둔 2021년 12월 방송에서 대장동 개발 실무 책임자인 고(故) 김문기 성남도시개발공사 처장을 성남시장 재직 중에 알면서도 몰랐다고 하고, 같은 해 10월 국정감사에서 “국토교통부 협박으로 백현동 부지 용도를 상향했다”고 발언해 허위 사실 공표 혐의로 2022년 9월 기소됐다.&lt;br&gt;&lt;br&gt;1심은 이 전 대표에게 징역 1년에 집행유예 2년을 선고했지만, 2심은 지난달 26일 이 전 대표에게 무죄를 선고했다. 검찰이 상고하면서 이 사건은 지난달 28일 대법원에 접수됐다.&lt;br&gt;&lt;br&gt;한편 이 전 대표는 11일 기자회견을 열고 제21대 대통령 선거 출마를 선언했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“대국민 사기극 피의자” 표현에 2억 소송... 기성용 폭로자들, 항소심도 패소</title>
-      <link>https://www.chosun.com/national/national_general/2025/04/11/EP7LOY56GVCL5OB2GXFUDELAFE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/11/EP7LOY56GVCL5OB2GXFUDELAFE/</guid>
-      <dc:creator>박선민 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 11 Apr 2025 01:45:03 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GRCZSIUDTBFOXJRLBLWTMIGTN4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2021년 3월 31일 기성용이 초등학교 시절 후배에게 성폭력을 가했다는 의혹으로 고소인 조사를 받기 위해 서울 서초경찰서에 출석했다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;축구선수 기성용(FC서울·36)의 성폭력 의혹을 제기한 폭로자들이 기성용을 대리했던 변호사를 상대로 낸 손해배상 소송 항소심에서도 패소했다.&lt;br&gt;&lt;br&gt;서울중앙지법 민사항소7-2부(해덕진 김동현 김연화 부장판사)는 10일 성폭력 의혹 폭로자 A씨와 B씨가 기성용의 법률 대리인이었던 송상엽 변호사를 상대로 낸 손해배상 청구 소송 2심에서 1심과 같이 원고 패소로 판결했다.&lt;br&gt;&lt;br&gt;앞서 A씨와 B씨는 2021년 2월 초등학생 시절 기성용을 비롯한 선배들로부터 성폭력을 당했다고 주장했고, 송 변호사는 이런 혐의를 부인하는 과정에서 이들을 ‘대국민 사기극 피의자’ 등으로 표현했다. 이에 A씨와 B씨는 같은 해 5월 변호사의 표현이 허위 사실 유포에 의한 명예훼손이라며 고소장을 제출하고 2억원 규모의 손해배상 소송을 제기했다. &lt;br&gt;&lt;br&gt;다만 작년 8월 1심은 원고 패소 판결을 내렸다. 당시 재판부는 “해당 표현은 다소 자극적이긴 하지만, 의뢰인의 입장을 대변한 것”이라고 판시했다. 아울러 “의뢰인이 유명한 축구 선수이고 원고들의 언론에 대한 폭로로 인해 사건이 국민에게 널리 알려진 상황이었다”며 “언론을 상대로 의혹이 사실이 아님을 강변하는 것도 법률 대리인으로서 필요한 범위 내의 업무로 볼 수 있다”고 했다. &lt;br&gt;&lt;br&gt;경찰은 기성용의 성폭력 의혹에 대해 지난 2023년 8월 증거가 충분치 않다며 불송치 결론을 내렸다. 당시 경찰은 기성용에게 명예훼손으로 고소당한 A씨와 B씨에 대해서도 같은 결정을 했다. &lt;br&gt;&lt;br&gt;다만 기성용은 경찰 무혐의 결정과 별개로 성폭력 의혹을 제기한 A씨와 B씨를 상대로 5억원 규모의 손해배상 소송을 냈다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>경북도, 6월까지 ‘산불 피해 주민 마음 회복 프로그램’ 운영</title>
-      <link>https://www.chosun.com/national/regional/2025/04/11/AQWBYKUTI5DADLBORNEJIUDZUM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/04/11/AQWBYKUTI5DADLBORNEJIUDZUM/</guid>
-      <dc:creator>노인호 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 11 Apr 2025 01:39:01 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7KNFZJEOTRGFJMWUI2KGVRGDFI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경북도는 ‘산불피해 주민 마음 회복 프로그램’을 운영한다고 11일 밝혔다. 사진은 경북 영주 국립산림치유원에서 휴식을 취하고 있는 시민들의 모습./국립산림치유원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경북도는 국립산림치유원과 함께 ‘산불 피해 주민 마음 회복 프로그램’을 운영한다고 11일 밝혔다. &lt;br&gt;&lt;br&gt;산불로 심리적 충격과 일상 붕괴를 겪은 피해 주민이 마음의 안정을 되찾고 다시 일상으로 복귀할 수 있도록 돕기 위한 프로그램이다. 산불 피해 주민과 그 가족이라면 누구나 시·군 단체 신청을 통해 무료로 참여할 수 있다. 영주시 봉현면 국립산림치유원에서 1박 2일 숙박형 프로그램으로 오는 6월까지 진행할 계획이다. &lt;br&gt;&lt;br&gt;경북도에 따르면, 숲의 소리, 자연의 향기, 편안한 움직임이 어우러진 이 활동은 불안, 불면, 외상 후 스트레스(PTSD) 증상 해소에 실질적인 효과가 있다고 한다. &lt;br&gt;&lt;br&gt;조현애 경북도 산림자원국장은 “산불이 남긴 상처는 외상뿐 아니라 마음 깊은 곳까지 이어지는 만큼 피해 주민들에게 작지만 의미 있는 위로가 되고, 치유와 회복의 출발점이 될 수 있길 바란다”며 “이번 프로그램을 시작으로, 산불 등 재난 발생 이후 주민 심리 회복을 돕기 위한 공공 치유 서비스를 지속적으로 확대해 나갈 계획”이라고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>주말 전국에 강한 봄비...일요일 꽃샘추위</title>
@@ -944,20 +957,6 @@
     cityboy@yna.co.kr/2025-03-21 14:49:09/
 &lt;저작권자 ⓒ 1980-2025 ㈜연합뉴스. 무단 전재 재배포 금지, AI 학습 및 활용 금지&gt;</media:description>
         <media:credit role="author" scheme="urn:ebu">이진욱</media:credit>
-      </media:content>
-    </item>
-    <item>
-      <title>[단독] 스웨덴 할머니가 55년 고이 간직한 한국 소년의 꿈</title>
-      <link>https://www.chosun.com/national/national_general/2025/04/11/2U5O772V2NEKDLEDIQ5DUOCDMY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/11/2U5O772V2NEKDLEDIQ5DUOCDMY/</guid>
-      <dc:creator>김도연 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 10 Apr 2025 20:02:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CLIEM6FXPFCIJONHAV2JEHHOME.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;국민학교 재학 중이던 공씨가 스웨덴의 한 부부로부터 후원 받은 크레파스와 스케치북으로 그린 그림을 들고 있는 모습.(왼쪽 사진)
-공씨가 스웨덴 부부에게 보냈던 편지.(오른쪽 사진)/공삼현씨&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“보내주신 6월 회비 4400원 정말 잘 받았읍니다. 머나먼 스웨덴 나라에서 보내주신 회비를 가지고 저의 학비와 교복을 샀읍니다. 학교에 가서 친구들에게 양친(養親)님 자랑도 합니다. …(중략)… 양친님. 우리 한국은 지금 무더운 여름철입니다. 다음 편지 낼 때까지 안녕하기를 빌면서 이만 씁니다.”(1969년 6월 30일)&lt;br&gt;&lt;br&gt;영미권 인터넷 커뮤니티 ‘레딧(reddit)’에 작년 8월 이 같은 내용이 적힌 편지가 올라왔다. 사용자들은 영어를 쓰는데 편지 내용은 한글이었다. 이 편지 글쓴이는 “스웨덴 북부에 사는 친할머니가 돌아가셨는데 이해하지 못하는 편지가 발견됐다. 번역을 도와달라”고 했다. 할머니가 55년간 고이 간직했던 이 편지는 누렇게 색이 바랬지만, 찢어지거나 얼룩진 부분은 없었다. 이 글엔 4000건이 넘는 추천이 달렸다. 영어를 쓰는 외국인들이 한 문장씩 영어로 번역해 200개가 넘는 댓글을 올렸다. 이들은 “할머니가 정말 훌륭한 분이다” “가슴이 뭉클하다. 다른 편지도 읽고 싶다”고 했다.&lt;br&gt;&lt;br&gt;편지 발신자는 부산의 한 퇴직 교사 공삼현(66)씨다. 국민학교 2학년인 지난 1967년부터 5년간 스웨덴의 한 부부에게 후원을 받았다. 한국에서 약 7500㎞ 떨어진 북유럽 스웨덴의 한 부부가 크레파스, 스케치북, 동화책 등을 보낸 날이면 공씨는 친구들에게 “양친이 보내준 귀한 선물”이라며 온 동네를 돌며 자랑했다.&lt;br&gt;&lt;br&gt;먼 나라 스웨덴 부부는 공씨에게 매달 교육비로 3000~4000원을 지원했다. 편지에 언급된 ‘4400원’을 지금 물가로 환산하면 13만원 정도다. 매달 학교에서 공부할 수 있는 돈을 받을 때마다 공씨는 정성스럽게 편지를 써 스웨덴으로 보냈다. 그런 편지가 30통이 넘는다. 공씨는 부부가 보내준 크레파스로 그린 그림도, 그 그림을 들고 찍은 사진도 보냈다.&lt;br&gt;&lt;br&gt;‘스웨덴 부부’는 공씨가 다니던 학교에 세계 동화 전집도 보내줬다. 이 때문에 가난한 학생들이 새로 생긴 ‘학급문고’에서 마음껏 책을 읽을 수 있었다.&lt;br&gt;&lt;br&gt;어린 공씨와 스웨덴 부부가 특별한 인연을 맺은 건 6·25전쟁 이후 설립된 한 자선 병원이 후원자를 연결해 준 덕분이었다. 미국·영국 등에서 전후(戰後) 복구를 위해 한국을 찾은 외국인 의사와 간호사들이 부산 사하구 괴정동에서 아픈 아이들을 무료로 치료해 줬고 부활절·성탄절엔 선물을 나눠줬다. 공씨는 “코쟁이 의사, 간호사들이 매일같이 나를 반겨줬던 기억이 생생하다”고 했다.&lt;br&gt;&lt;br&gt;1959년 태어난 공씨는 그해 가을 사라호 태풍으로 집을 잃었다. 이 때문에 유년 시절 내내 정부가 마련해 준 임시 거처에서 살았다. 국민학생 시절 하루 한 끼도 못 먹는 날이 허다했다고 한다. 공씨는 “자선 병원에 가면 쌀밥에 소고기국을 공짜로 준다고 하니 늘 그곳을 찾아갔다”며 “그곳에서 스웨덴의 ‘양친’과 연결해 줬다”고 했다.&lt;br&gt;&lt;br&gt;공씨가 스웨덴 양친과 소식이 끊긴 것은 그가 중학교에 입학할 무렵이었다. 성년이 돼서는 ‘스웨덴 부모’ 이름마저 잊고 살았다. 그런데 이달 초 한국 소셜미디어에서 공씨의 편지가 외국 사이트에서 화제가 됐다는 사실이 뒤늦게 알려졌다. 본지가 지난 8일 공씨에게 전화해 ‘이 편지가 기억나시느냐’고 했다. 그는 “정말 까맣게 잊고 살았는데 돌아가셨습니꺼”라고 했다.&lt;br&gt;&lt;br&gt;56년 전 ‘스웨덴 양친’에게 썼던 편지를 통화에서 읽었더니 공씨는 울음 섞인 목소리로 말했다. “우얍니꺼. 학교에서 경시대회에 나갔던 것도, 친구들과 눈썰매를 탔던 일도 다 감사 편지에 담았었는데 부끄럽게도 50년 넘게 잊고 살아왔습니다. 그때 받은 양친의 사진마저 잃어버렸네예….”&lt;br&gt;&lt;br&gt;공씨는 스웨덴 부부에게 보낸 편지에서 “앞으로 전교에서 1등을 하겠다”고 약속했었다. 그는 실업계 학교인 부산상고를 졸업한 뒤 부산대 사범대학에 합격해 부산에서 35년간 교사로 일했다. 지난 2022년 중학교 교감으로 퇴직할 때 녹조근정훈장을 받았다. 은퇴한 뒤 지금은 부산의 한 교회에서 장로로 있다.&lt;br&gt;&lt;br&gt;공씨는 “만나 뵐 수만 있다면 지금이라도 스웨덴으로 기꺼이 달려가 감사했다고 인사를 드리고 싶은데 이젠 만날 수가 없다”며 “먼 나라 양친에게 받은 믿음에 보답하기 위해 주위에 더 베풀고 살아가겠다”고 했다. “마지막으로 그분들께 편지를 쓸 수 있다면 이래 쓸랍니다. 저를 이만치 이끌어 주셔서 감사하다고요. 그분들의 아들, 딸들에게도 진심으로 고맙다고 전하고 싶습니더.”&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/CLIEM6FXPFCIJONHAV2JEHHOME.jpg?width=1600&amp;height=900&amp;auth=c0d9e413ada96c17541afeeb3bb1a9274240fed4e6676b72ec830ac23e22812a&amp;smart=true" type="image/jpeg" height="900" width="1600">
-        <media:description type="plain">국민학교 재학 중이던 공씨가 스웨덴의 한 부부로부터 후원 받은 크레파스와 스케치북으로 그린 그림을 들고 있는 모습.(왼쪽 사진)
-공씨가 스웨덴 부부에게 보냈던 편지.(오른쪽 사진)/공삼현씨</media:description>
       </media:content>
     </item>
     <item>
