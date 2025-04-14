@@ -13,6 +13,51 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>“‘칭챙총’ 야유하더니 물병 던져”… 伊 여행 간 50대 부부가 겪은 일</title>
+      <link>https://www.chosun.com/national/national_general/2025/04/14/S6QEPOLVMJA6XIO5YQYYE4K3TY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/14/S6QEPOLVMJA6XIO5YQYYE4K3TY/</guid>
+      <dc:creator>박선민 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 14 Apr 2025 13:31:31 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FGSIJLYNB5FSNCVYLZ4BZTVMLM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;50대 한국인 부부가 이탈리아 여행 중 현지 학생들로부터 인종차별을 당했다는 사연이 전해졌다. &lt;br&gt;&lt;br&gt;이 같은 사연은 남편 A씨가 지난 1일 유튜브에 당시 촬영한 상황을 편집해 올리면서 알려졌다. &lt;br&gt;&lt;br&gt;A씨에 따르면, 그는 지난달 27일 그의 아내와 함께 이탈리아 롬바르디아주의 인기 관광지인 코모 호수를 찾았다. 이곳에서 한 무리의 현지 학생들을 만났는데, 이들은 이유 없이 별안간 A씨 부부를 향해 ‘칭챙총’이라며 야유를 시작했다고 한다. ‘칭챙총’은 서구권에서 동아시아인의 언어를 희화화해 조롱할 때 쓰이는 인종차별적 용어다. &lt;br&gt;&lt;br&gt;이에 A씨는 혹시 모를 상황에 대비해 영상 촬영을 시작하곤, 학생들을 향해 영어로 “지금 너네 중 누군가 우리에게 ‘칭챙총’이라고 말하지 않았냐”고 물었다. 학생들이 “그렇다”고 인정하자, A씨는 “칭챙총은 나쁜 단어다. 이를 사용하면 인종차별주의자인 것”이라며 아이들을 타일렀다. 이 같은 지적에 학생들이 수긍하는 모습을 보이면서 상황은 일단락되는 듯했다.&lt;br&gt;&lt;br&gt;하지만 이후 기차역에서 다시 마주친 학생들은 재차 A씨 부부를 향해 ‘칭챙총’을 외쳤다고 한다. A씨는 이후의 상황을 영상에 담았는데, 여기에는 학생들이 A씨를 향해 큰 소리로 야유하는 모습이 담겼다. 학생들을 인솔하는 교사가 A씨 촬영을 저지하는 장면도 포착됐다. 이를 두고 A씨는 “학생들이 칭챙총 할 때는 가만히 있다가, 영상을 찍으니 찍지 말라고만 한다”라고 했다. 학생들은 촬영을 저지하는 교사 뒤로 휴대전화를 꺼내 들곤 역으로 A씨 부부를 촬영하기도 했다. &lt;br&gt;&lt;br&gt;충돌 상황은 여기에서 끝나지 않았다. 떠나려는 A씨 부부에게 학생 한 명이 물병을 던졌다고 한다. A씨는 “영상에는 담기지 않았지만, 뒤돌아서 가는 우리에게 학생 하나가 물병을 던졌다”며 “학생들이 인종차별을 아무 경각심 없이 표출하고, 선생은 말리지도 않는 모습이 매우 실망스럽다”고 했다. &lt;br&gt;&lt;br&gt;이후 A씨는 언론 인터뷰에서 당시 상황을 상세히 털어놓기도 했다. 그는 KBS 인터뷰에서 “(기차역에서) 단체로 우르르 ‘칭챙총’ 이러면서 야유를 보내더라”며 “아내가 굉장히 겁에 질렸었다”고 했다. 그러면서 “애들 중에 누군가가 물병을 던졌다. 그 후로도 ‘칭챙총’이라며 야유를 계속했는데, 대응하는 건 위험할 것 같아서 그대로 현장을 떠났다”고 했다. &lt;br&gt;&lt;br&gt;A씨의 영상은 국내 온라인상에 빠르게 퍼지면서 네티즌들의 비판을 샀다. 네티즌들은 “학생들이야 백번 양보해서 그러려니 해도, 교사가 훈육할 의지를 보이지 않는 게 더 문제” “이탈리아 국민 수준이 이 정도라니” 등의 반응을 보였다. “스페인에서 초등학생들이 칭챙총하는데 인솔 교사가 모르는 척하는 것을 경험한 적이 있다”며 비슷한 사연을 공유한 네티즌도 있었다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>마약 영화 ‘야당’ 속 집단 정사신… 선정성 비판에 감독 입장은</title>
+      <link>https://www.chosun.com/national/national_general/2025/04/14/ZV32ZSRD25DK3LJCWJBGKLGU6I/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/14/ZV32ZSRD25DK3LJCWJBGKLGU6I/</guid>
+      <dc:creator>박선민 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 14 Apr 2025 12:09:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SGXNEU5MZYRF62VVMRAJP24Q6M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;영화 '야당' 스틸 컷. 야당 역할을 맡은 배우 강하늘과 검사 역할을 맡은 배우 유해진이 대화하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;마약 범죄 영화 ‘야당’의 황병국 감독이 영화 속 등장하는 집단 정사신에 대해 “처음부터 수위를 세게 만들려고 하지 않았다”면서도 “자료 조사 과정에서 마약판이 너무나 참혹하다는 사실을 알게 됐다”고 했다. &lt;br&gt;&lt;br&gt;14일 영화계에 따르면, 황 감독은 지난 8일 서울 강남구 한 카페에서 진행한 언론 인터뷰에서 “영화보다 더 심한 것들을 많이 들었다. 영화에서는 순화했지만, 그래도 관객이 그것을 보고 충격을 받고 마약이 위험하다는 것을 알았으면 했다”며 이같이 말했다. &lt;br&gt;&lt;br&gt;‘야당’은 수사기관에 마약 범죄 정보를 제공하고, 검거된 마약사범에게 감형 흥정을 해주며 이익을 취하는 일종의 브로커를 의미하는 마약판 은어다. 국내 기사에서 종종 언급되기도 한다. 이에 따르면, 2020년엔 야당을 끼고 법원에 마약사범의 허위 수사공적서를 제출한 경찰관이 유죄를 선고받았다. 범죄 수사에 기여한 제보를 감형 사유로 인정하는 대법원 양형 기준을 악용, 마약사범은 감형받기 위해 제보가 필요하고 경찰관은 승진에 유리한 수사 실적을 쌓는 데 제보가 필요하다는 점을 노린 것이다. 이번 영화에선 야당이 출세에 목마른 검사와 결탁하는 내용이 담겼다. &lt;br&gt;&lt;br&gt;황 감독은 합법과 불법의 경계에 선 인물이 존재한다는 사실에 흥미를 느끼고 이를 조명한 영화를 제작하게 됐다고 한다. 그는 야당에 대해 “선인도, 악인도, 합법도, 불법도 아닌 ‘필요악’ 같은 느낌”이라며 “뉴스에 나온 국내 큰 마약 사건들은 대부분 야당이 관련돼 있다고 보면 된다”고 했다. &lt;br&gt;&lt;br&gt;영화 자체는 마약이라는 소재를 다루는 만큼 청소년 관람 불가 등급을 받았다. 이와 관련해 황 감독은 “마약의 심각성과 위험성을 전해주고 싶었는데, 그러다 보니 15세 관람가에 맞게 아름답게 그릴 수 없었다”고 했다. &lt;br&gt;&lt;br&gt;황 감독은 영화 제작을 위해 자료 조사를 하면서 알게 된 마약 중독자 사례에 대해서도 자세히 언급했다. 그는 “한 호텔에 마약 범죄자가 있다고 해서 형사가 체포하러 갔는데, 범죄자가 임산부였다더라”고 했다. 또 “마약 치료 센터에 갔을 때는 옆자리에 20대 남성이 있었는데 아이큐(지능지수)가 65라더라”며 “마약을 하면 아이큐가 떨어진다. 이 친구는 아이큐가 낮아 군대를 안 간다더라. 치료를 받으러 왔는데 자기 주머니에서 전화기가 울려도 전화기를 못 찾는다. 옆 사람이 찾아줘야 한다”고 했다. 영화에 등장하는 마약 범죄 에피소드 대부분 역시 취재 과정에서 알게 된 실제 사건들을 반영했다고 한다. &lt;br&gt;&lt;br&gt;황 감독은 마약사범을 검거하는 데 그치지 않고, 사회 복귀를 위한 재활 인프라 구축 또한 병행돼야 한다고 강조했다. 그는 “전 세계에서 마약과 전쟁을 해서 이긴 나라는 없다. 미국도 많은 돈과 인력을 투여했지만, 더 많아지고 있다. 우리나라도 마찬가지”라며 “그래서 치료도 병행해야 한다. 유일하게 마약률이 떨어지는 나라가 포르투갈인데 그곳은 담배와 도박처럼 마약도 국가에서 치료해 준다. 검거만 해서 될 일은 아닌 것 같다”고 했다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>술자리서 동포에게 흉기 휘두른 30대 베트남인</title>
+      <link>https://www.chosun.com/national/regional/honam/2025/04/14/TC2CWUDARJHOPK7OB6CACPBHAE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/honam/2025/04/14/TC2CWUDARJHOPK7OB6CACPBHAE/</guid>
+      <dc:creator>김석모 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 14 Apr 2025 12:43:03 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/426BC2U5B633HRD6PTZD7FDRSU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;목포경찰서. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지인들과의 술자리에서 말다툼 중 동포에게 흉기를 휘두른 30대 베트남인이 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;전남 목포경찰서는 살인미수 혐의로 베트남 국적 A(30대)씨에 대해 구속영장을 신청했다고 14일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 13일 오후 7시 30분쯤 전남 목포시 대성동 한 원룸에서 같은 베트남 국적인 B(20대)씨에게 흉기를 휘두른 혐의를 받는다.&lt;br&gt;&lt;br&gt;A씨는 이날 처음 만난 B씨에게 훈계하던 중 B씨가 받아들이지 않고 대들자 이에 격분해 흉기를 휘두른 것으로 조사됐다.&lt;br&gt;&lt;br&gt;이날 원룸에 함께 있던 다른 지인들의 신고를 받고 출동한 경찰은 A씨를 현행범으로 체포했다. 병원으로 이송된 B씨는 생명에는 지장이 없는 것으로 알려졌다. &lt;br&gt;&lt;br&gt;경찰은 A씨를 상대로 정확한 사건 경위를 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>변협 “신규 변호사 배출 수 1200명 수준으로 줄여야”</title>
+      <link>https://www.chosun.com/national/court_law/2025/04/14/HW34BOEMD5ATDG6TETDBOPDOOE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/04/14/HW34BOEMD5ATDG6TETDBOPDOOE/</guid>
+      <dc:creator>김희래 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 14 Apr 2025 12:03:36 +0000</pubDate>
+      <content:encoded>대한변호사협회(변협)가 14일 정부과천청사 법무부 정문 앞에서 집회를 열고 “연 1700명대 신규 변호사 배출 규모를 1200명 수준으로 줄여야 한다”고 촉구했다. 변호사 공급 과잉으로 업계가 포화에 이르러 여러 부작용이 나타나고 있다는 주장이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BRLS3Z2PLBNRVJRICVXLCSEMMU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대한변호사협회 김정욱 회장을 비롯한 변호사들이 14일 경기도 과천시 정부과천청사 앞에서 변호사 배출 수 감축 요구 기자회견을 하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김정욱 변협 회장은 이날 집회에서 “연간 적정 변호사 배출 수는 아무리 높게 잡아도 1200명 수준”이라며 “법무부는 올해 변호사시험 합격자부터 적정 규모로 공급에 나서 달라”고 했다. 그는 또 “한국과 법조 체계가 가장 유사한 일본과 비교하면, 한국은 ‘인구 대비 변호사 수’가 일본의 약 2배, ‘인구 대비 법조 인접 자격사 수’는 약 6배에 달한다”고 했다. 법조 인접 자격사란 법무사와 세무사, 노무사 등을 말하는데, 한국 법률 시장의 경쟁 수준이 과도하게 높다는 것이다.&lt;br&gt;&lt;br&gt;특히 김 회장은 “변호사 1인당 월평균 수임 건수는 2008년 약 7건에서 2021년 기준 약 1건으로 급감했고, 한 달 동안 한 건도 수임하지 못하는 변호사도 적지 않다”고 했다. 그러면서 “과도한 수임 경쟁으로 공공성을 지닌 법률 시장이 상업적으로 변질됐고, 의뢰인들의 민원과 변호사들의 징계 건수도 늘어나고 있다”고 했다. 과도한 경쟁이 법률 서비스의 질적 저하로 이어져 국민의 사법 불신이 커지고 있다는 취지다. &lt;br&gt;&lt;br&gt;변협에 따르면, 로스쿨이 도입된 2009년 1만1016명이던 변호사 수는 지난해 3만6535명으로 세 배 넘게 늘었다. 특히 2020년부터는 매년 1700명이 넘는 신규 변호사가 배출되고 있다. 법무부는 이달 25일 올해 초 실시한 제14회 변호사시험의 합격자 발표를 앞두고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>수사받던 구미 지역 새마을금고 이사장 숨진 채 발견</title>
+      <link>https://www.chosun.com/national/regional/yeongnam/2025/04/14/W62LD6BUYVGYFNZEHCJQR23ZWY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/yeongnam/2025/04/14/W62LD6BUYVGYFNZEHCJQR23ZWY/</guid>
+      <dc:creator>김석모 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 14 Apr 2025 10:57:24 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QKDLOV6Y6A4GRD66Y34JZISNKE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;구미경찰서./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰의 수사를 받던 경북 구미의 한 지역 새마을금고 이사장이 숨진 채 발견됐다.&lt;br&gt;&lt;br&gt;14일 오전 10시 45분쯤 경북 구미시 한 야산에서 지역 새마을금고 이사장 A(60대)씨가 숨진 채 발견됐다.&lt;br&gt;&lt;br&gt;A씨의 가족은 이날 오전 0시쯤 A씨가 귀가하지 않고, 전화도 받지 않자 경찰에 실종 신고한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰과 소방당국은 50여명을 투입해 수색에 나선 끝에 숨져 있는 A씨를 발견했다.&lt;br&gt;&lt;br&gt;경찰은 현장에서 A씨가 작성한 것으로 보이는 유서도 함께 발견했다. 경찰은 타살 혐의점은 없는 것으로 보고 있다.&lt;br&gt;&lt;br&gt;A씨는 지난 3월 치러진 제1회 전국 동시 새마을금고 이사장 선거와 관련해 위탁선거법 위반 혐의로 수사를 받아온 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “A씨의 사망과 관련해 범죄 혐의점은 없는 것으로 보고 있다”면서 “선거 관련 수사는 별개로 진행될 예정”이라고 말했다. &lt;br&gt;&lt;br&gt;※우울감 등 말하기 어려운 고민이 있거나 주변에 이런 어려움을 겪는 가족ㆍ지인이 있을 경우 자살예방 상담전화 ☎1393, 정신건강 상담전화 ☎1577-0199, 희망의 전화 ☎129, 생명의 전화 ☎1588-9191, 청소년 전화 ☎1388, 청소년 모바일 상담 ‘다 들어줄 개’ 어플, 카카오톡 등에서 24시간 전문가의 상담을 받을 수 있습니다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>백종원 ‘남극의 셰프’ 편성 연기… MBC “조기 대선 여파”</title>
       <link>https://www.chosun.com/national/national_general/2025/04/14/IOES2WUO3JC5LCL57Y5CT65QIQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/14/IOES2WUO3JC5LCL57Y5CT65QIQ/</guid>
@@ -565,51 +610,6 @@
       <description/>
       <pubDate>Sun, 13 Apr 2025 15:50:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/L3EFADOL2VAYPMZN7QSEQC5NJI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문으로 배우는 실용한자] 반가(班家)</title>
-      <link>https://www.chosun.com/national/nie/chinese_character/2025/04/14/OSHDMW7DJZDYPIJCHWJNGF3SQM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese_character/2025/04/14/OSHDMW7DJZDYPIJCHWJNGF3SQM/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Sun, 13 Apr 2025 15:50:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BTVHNG3WYFBOBPBDFHY7O4LZ3E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[입에 착착 붙는 일본어] ~일색, ~투성이, ~뿐임</title>
-      <link>https://www.chosun.com/national/nie/japanese/2025/04/14/2LL24VECCRDFXPZLHBH44NWUGA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/japanese/2025/04/14/2LL24VECCRDFXPZLHBH44NWUGA/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Sun, 13 Apr 2025 15:50:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DMHFRVI3S5GYVGCHZV2DGJAGBY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[매일매일 중국어 한마디] 코를 골다</title>
-      <link>https://www.chosun.com/national/nie/chinese/2025/04/14/WTVSOAIV45G2FNNHLCUOX4XSRA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese/2025/04/14/WTVSOAIV45G2FNNHLCUOX4XSRA/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Sun, 13 Apr 2025 15:50:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MGQZ4UEAHVCZVNLJGUE2CL5H5M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[스피킹이 강해지는 영어] as clear as mud</title>
-      <link>https://www.chosun.com/national/nie/english/2025/04/14/JRCFW77X2BB73NM4UFPV45DJPA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/english/2025/04/14/JRCFW77X2BB73NM4UFPV45DJPA/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Sun, 13 Apr 2025 15:50:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/C3KIRBK5RRC75MYZRAYPX3SQ5E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[두근두근 뇌 운동] [2601] 칙칙폭폭 꼬리 잇기</title>
-      <link>https://www.chosun.com/national/nie/2025/04/14/ZH6LEIMVSFDRHE3TM4OFA6642Y/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2025/04/14/ZH6LEIMVSFDRHE3TM4OFA6642Y/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Sun, 13 Apr 2025 15:50:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SLZCIT7I2ZCFJE47AN3THAGN2A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>경주경찰, 음주운전 상습범 2명 차량 압수</title>
