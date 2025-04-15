@@ -13,6 +13,33 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>이국종 “입만 터는 문과 출신들이 해먹는 나라” 의료 체계 작심 비판</title>
+      <link>https://www.chosun.com/national/welfare-medical/2025/04/15/A6HWG3JWXRH47GVHBX45XH3MK4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/04/15/A6HWG3JWXRH47GVHBX45XH3MK4/</guid>
+      <dc:creator>곽래건 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 15 Apr 2025 08:41:07 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/U7V6MWHAOJJPVJ2BIODEHPHNGA.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;지난 3월 5일 대전 국군간호사관학교에서 열린 제 65기 사관생도 졸업 및 임관식에 참석한 이국종 국군대전병원장. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;아주대병원 중증외상센터장을 지냈던 이국종 국군대전병원장이 군의관 후보 대상 강연에서 “한평생 외상외과에서 일했는데, 바뀌는 건 하나도 없더라”며 국내 의료 체계에 대한 작심 발언을 쏟아냈다.&lt;br&gt;&lt;br&gt;해당 발언은 지난 14일 충북 괴산의 한 훈련소에서 의무사관 후보생을 대상으로 한 강연에서 나온 것으로 알려졌다. 일부 참석자가 의사 전용 SNS(소셜미디어)에 발언 일부를 올렸고, 이후 다른 일반 온라인 커뮤니티로 퍼지며 알려졌다고 한다. &lt;br&gt;&lt;br&gt;이 원장은 “여기 오기 싫었다. 후배들한테 미안해서 해줄 말이 없는데 교장이 병원까지 찾아와 해달라 하는데 나도 국방부에서 월급 받는 입장이라 수락했다”고 한 뒤 비판 발언을 쏟아냈다. 이 원장은 임진왜란, 병자호란, 6·25 등을 언급하며 “이게 수 천년간 이어온 조선반도의 DNA고, 이건 바뀌지 않는다. 절이 싫으면 중이 떠나라”고 했다. 그러면서 “조선 반도는 입만 터는 문과 x들이 해먹는 나라”라고 했다.&lt;br&gt;&lt;br&gt;그는 강의에서 본인이 현업 시절 동료들이 외상외과를 관둔 사례를 쭉 보여줬다고 한다. 그러면서 “서울대와 세브란스 의사들과 공무원들에게 평생 괴롭힘 당하며 살기 싫으면 바이탈과 하지 마라”고 했다. 이어 “내 인생 망했다. 나랑 같이 외상외과 일하던 윤○○ 교수는 과로로 죽었다. 너희는 그렇게 되지 마라”고 했다. &lt;br&gt;&lt;br&gt;국군대전병원에서 군의관 한 명이 미국의사면허 시험 1차에 합격했다는 사실도 알렸다. 이 원장은 “내가 국군대전병원 지하창고를 독서실로 개조했는데, 정신과 군의관 한 명이 거기서 USMLE(미국 의사 면허 시험) 1차를 붙었다”며 “너무 기특해서 플래카드까지 달아줬다. 조선에는 가망이 없으니 너희도 절이 싫으면 중이 떠나듯 탈조선하라”고 했다.&lt;br&gt;&lt;br&gt;이 원장은 이어 “교수들 중간착취자들 맞다. 나는 (전공의) 복귀자랑 패싸움이라도 벌어져 반 정도는 죽어있을 줄 알았는데 (전공의들이) 다들 착하다”고 했다. 그러면서 “감귤 정도로 놀리는 것 보니 귀엽다”고 했다. ‘감귤’은 수련 병원으로 복귀한 전공의와 의대생을 비하해 부르는 표현으로, ‘감사한 의사’라는 뜻이다.&lt;br&gt;&lt;br&gt;그는 현 의료체계가 전공의를 착취하는 구조라는 취지의 발언도 했다. 이 원장은 “전공의 짜내서 벽에 통유리 바르고 에스컬레이터 만드는 데 돈 달라 하니까 수가 올리라하면 ×소리 취급하는 것 아니냐”고 했다. 그러면서 “움집, 텐트만 있어도 서울대병원, 세브란스면 진료 보러 온다. 서울대 병원에 대리석 안 발라도 다 기어온다”고 했다.&lt;br&gt;&lt;br&gt;본지는 해당 발언의 진위를 묻기 위해 이 원장 측에 연락했지만 이 원장 측은 “현재 답변이 불가능하다”고 했다.&lt;br&gt;&lt;br&gt;이 원장은 작년 6월 대전에서 연 강연에서 “(현 정부의) 급격한 의대 정원 증원이 필수 의료 기피 문제를 해결하기 위한 근본 대책이 될 수 없다”고 비판한 적이 있다. 그는 당시 “현재 의료계는 벌집이 터졌고 전문의는 더는 배출되지 않아 없어질 것”이라며 “불가항력적 의료소송 부담, 원가에도 못 미치는 고질적인 저수가를 해결해 의사들이 실제 수련받은 과에서 근무할 수 있는 환경부터 만들어야 한다”고 지적했다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>연세대 의대 본과 4학년 48명 ‘유급’ 확정</title>
+      <link>https://www.chosun.com/national/education/2025/04/15/UA7FQHW7W5C23HG4MOIKJHHIZY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/education/2025/04/15/UA7FQHW7W5C23HG4MOIKJHHIZY/</guid>
+      <dc:creator>최인준 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 15 Apr 2025 09:38:05 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZNU3GRYRFJOMJBZ45NQRV7VEXA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;연세대 의대/뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;연세대가 15일 의대 본과 4학년 48명에 대한 유급 처분을 확정했다. 임상 실습 수업 위주로 듣는 본과 4학년의 경우 나머지 1학기는 물론 2학기에도 학교를 다닐 수 없어 사실상 1년을 통째로 쉬어야 한다.&lt;br&gt;&lt;br&gt;15일 대학가에 따르면 연세대 의대는 이날 교수 회의를 열고 수업 일수를 채우지 않은 본과 4학년 48명에 대해 유급 처분을 내리기로 최종 결정했다. 본과 4학년(군 입대 휴학 35명 포함 총 127명) 중 약 38%에 해당하는 숫자다. &lt;br&gt;&lt;br&gt;연세대는 지난 7일 수업 복귀를 하지 않은 본과 4학년 48명에게 문자 메시지로 유급 예정 통지서를 보냈다.&amp;nbsp;학교는 지난 주까지 유급 예정 본과생에게 이의 신청을 받았지만 대부분 학생이 별도 이의 신청을 하지 않은 것으로 알려졌다. 연세대는 조만간 유급 시한이 다가오는 본과 1~3학년 학생들에 대한 유급 여부 심의도 진행할 예정이다. &lt;br&gt;&lt;br&gt;정부의 의대 증원 정책에 반발한 의대생들의 수업 복귀가 계속되면서 유급,제적 사태가 이어지고 있다. 고려대는 지난 14일 수업 일수를 채우지 않은 본과 3,4학년 125명에 대해 유급 처분을 통보하겠다고 밝혔다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“부자연스러운 행동에 주사기까지 떨어뜨려”… 20대 마약사범, 시민 신고로 체포</title>
+      <link>https://www.chosun.com/national/incident/2025/04/15/2MV5OROUQ5GN7IEUDP7RW4TY3Y/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/04/15/2MV5OROUQ5GN7IEUDP7RW4TY3Y/</guid>
+      <dc:creator>인천=이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 15 Apr 2025 09:17:50 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2XKCUM5SFREPZESXBBIPYJ2NA4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;인천 삼산경찰서. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“주사기를 바닥에 떨어뜨리는 모습을 보고, 이상하다고 생각했어요.”&lt;br&gt;&lt;br&gt;지난 4일 오후 7시 50분쯤 인천 부평구 부평동의 한 약국에서 약사와 이야기를 나누던 제약회사 영업사원 홍모(36)씨는 약국에 들어온 검은색 패딩 차림의 20대 남성이 수상쩍었다. &lt;br&gt;&lt;br&gt;주변을 두리번거리면서 초조해하는 부자연스러운 모습이 영화에서나 보던 마약사범의 모습과 무척이나 닮아 있었다.&lt;br&gt;&lt;br&gt;홍씨는 “그 남성이 주머니에서 주사기를 꺼냈다”며 “그 주사기를 버리려 약국에 온 것 같았는데, 주사기를 떨어뜨리더라. 마약을 의심할 수밖에 없었다”고 했다. &lt;br&gt;&lt;br&gt;홍씨는 약국에서 볼일을 마치고 밖으로 나섰는데, 그 남성은 여전히 약국 주변을 서성이고 있었다. 홍씨는 “고령의 여성 약사 혼자 운영하는 약국이었는데, 문득 걱정이 돼 112에 신고했다”며 “그런데 그 남성은 경찰이 도착하기 전 사라졌다”고 했다. &lt;br&gt;&lt;br&gt;경찰은 오후 8시 34분쯤 약국 인근의 한 교회에서 홍씨가 신고한 20대 남성 A씨를 긴급 체포했다. 해당 교회 관계자가 “젊은 남성이 교회에 들어왔다”고 경찰에 신고했는데, 출동해보니 홍씨가 신고한 사람과 같은 인물이었다. &lt;br&gt;&lt;br&gt;A씨를 상대로 한 간이 시약검사에선 마약류 양성 반응이 확인됐다. 경찰은 마약류 관리에 관한 법률 위반 혐의로 A씨를 입건했다. &lt;br&gt;&lt;br&gt;A씨는 “텔레그램에서 필로폰을 구매해 투약했다”고 경찰에 진술한 것으로 알려졌다. &lt;br&gt;&lt;br&gt;인천 삼산경찰서는 마약사범 검거에 도움을 준 홍씨에게 지난 14일 감사장과 함께 포상금 30만원을 지급했다. 지난 1월부터 시행된 ‘112 신고 공로자 포상 등에 관한 규정’에 따른 인천 지역 첫 번째 포상금 지급 사례다. &lt;br&gt;&lt;br&gt;삼산서 관계자는 “수상한 행동을 눈여겨 보고 용기를 내 준 신고자께 감사드린다”며 “다른 분들도 조금이라도 범죄가 의심되는 상황을 발견하면 112에 적극 신고해달라”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>“유아 사교육 6개 받아도 안 받은 어린이와 언어 능력 차이 없어”  </title>
       <link>https://www.chosun.com/national/education/2025/04/15/AWQRLL3WCVGEFP5TNKULYDGI7Y/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/education/2025/04/15/AWQRLL3WCVGEFP5TNKULYDGI7Y/</guid>
@@ -953,36 +980,6 @@
         <media:description type="plain">윤석열 대통령이 4일 헌법재판소가 대통령 탄핵을 만장일치로 인용하면서 파면됐다. 사진은 윤석열 대통령이 지난 2월 13일 헌법재판소 변론기일에 자리한 모습. /뉴스1</media:description>
         <media:credit role="author" scheme="urn:ebu">뉴스1</media:credit>
       </media:content>
-    </item>
-    <item>
-      <title>72년 만에 ‘감사 메달’ 받은 93세 美 참전용사</title>
-      <link>https://www.chosun.com/national/people/2025/04/14/XBUR2SAYUJENXOHZ23SLD3YNFI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/04/14/XBUR2SAYUJENXOHZ23SLD3YNFI/</guid>
-      <dc:creator>뉴욕=윤주헌 특파원</dc:creator>
-      <description/>
-      <pubDate>Sun, 13 Apr 2025 15:52:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZGG6TECF2RHGPHNEC5FKTAO63A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;6·25 참전용사 잭 플로이드(왼쪽)는 이훈구씨의 도움을 받아 지난 9일 국가보훈부에서 '평화의 사도 메달'을 받았다./이훈구씨 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“벌써 70년이 넘는 세월이 흘렀습니다. 제가 젊음을 바쳐 지킨 대한민국은 그동안 많은 업적을 이뤘습니다. 이 상을 받게 돼 무한한 영광이고 감격스러울 뿐입니다.”&lt;br&gt;&lt;br&gt;12일 전화로 만난 93세 노병(老兵)의 목소리는 마치 참전 당시 피 끓던 20대 청년마냥 또렷하게 살아 있었다. 미국 텍사스 남부의 국경 도시 미션 시티에 살고 있는 잭 플로이드(93)는 6·25전쟁 참전 용사다. 그는 지난 9일 한국 국가보훈부가 참전 용사에게 수여하는 ‘평화의 사도 메달(Ambassador for Peace Medal)’을 받았다. 이 메달은 2010년 국가보훈부가 6·25 60주년을 기념해 각국 참전 용사들의 희생과 공헌을 기리고자 제정했다.&lt;br&gt;&lt;br&gt;플로이드가 72년 만에 이 메달을 받게 된 과정엔 한국계 미국인 이훈구(64)씨와의 우연한 만남이 숨어 있었다. 플로이드는 지난해 말 오래된 컴퓨터를 고치기 위해 집 근처 수리점에 들렀다. 수리점 주인이 미국 시민권자인 한국계 이씨였다. 2000년 국내 대기업 법인에서 일했던 이씨는 이후 미국에 정착했다.&lt;br&gt;&lt;br&gt;이씨가 한국계라는 사실을 안 플로이드는 자신이 6·25 참전 용사라고 말하며 휴대전화에 가지고 다니던 전쟁 사진을 보여줬다. “충성!” 이야기를 들은 이씨가 플로이드에게 거수경례를 했다. 이씨는 “나의 조국 대한민국을 지키기 위해 젊은 시절 헌신적으로 참전하셨기에 오늘의 대한민국이 있고 내가 있다는 생각을 하니 감사한 마음이 들었다”고 했다.&lt;br&gt;&lt;br&gt;이씨는 플로이드에게 식사를 권유했지만 건강상 이유로 어렵다는 대답을 들었다. ‘그러면 무엇을 해드릴 수 있을까’ 고민하던 이씨는 휴스턴의 대한민국 영사관에 전화해 “6·25에 참전하신 용사를 위해 한국이 무엇을 해줄 수 있느냐”고 물었다. “참전 증빙 서류를 보내면 대한민국 정부가 주는 ‘평화의 사도 메달’을 받을 수 있다”는 대답을 들은 이씨는 이 사실을 플로이드에게 전달했고 이후 메달이 수여됐다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/C3UG3FEOHVGI7M2FH3QQU4WMMI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;6·25 참전 용사인 잭 플로이드가 20살이던 1952년, 당시 전쟁이 한창인 한반도에 미 해병대 소속으로 파병돼 막사(幕舍) 앞 전술 차량에 앉아 찍은 사진. 좌측 하단에 적힌 영문 약호는 ‘미 해병 1사단(MAR DIV) 1연대(REGT) 1대대(BN)’를 의미한다./이훈구씨 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;11일 본지 인터뷰에서 플로이드는 마치 70여 년 전 일이 지금 눈앞에 펼쳐지는 듯 참전 당시 상황을 생생하게 얘기했다. 고등학교를 졸업한 뒤 육군 보급 창고에서 일하던 그는 1951년 미 해병대에 입대했다. 미 해병대는 6·25전쟁에서 한국군을 돕고 있었고, 그는 그 해 12월 14일 캘리포니아주 샌디에이고에서 미 해군 수송선에 탑승해 한반도로 향했다. &lt;br&gt;&lt;br&gt;1952년 1월 2일 도착한 한국은 살을 엘 듯이 추웠다. 그가 밟은 한국 땅은 ‘속초리’(현 속초시)였다. “도시라고 할 수도 없는, 아무도 살지 않는 황무지였지요.” 미 해병 1사단 1연대 대전차 중대에 배속된 플로이드를 포함해 15명의 군인을 태운 트럭은 동부 38선 포성이 울리는 곳으로 향했다. 10여 개 마을을 지나자 최전방에 도착했고, 멀리 계곡 사이에 북한군이 보였다. 부대는 북한군의 전차 침투를 저지하며 참호전을 벌였다. 2시간 동안 대전차전을 수행하고 약 30m 떨어진 텐트에 들어가 몸을 녹인 뒤 다시 돌아오곤 했다. 플로이드는 “8~10명의 해병대원이 텐트에 들어가 난로에 하키 퍽처럼 생긴 초콜릿 블록을 넣은 핫초코를 만들어 마시며 추위를 견뎠다”며 “정말 지독한 일상(a deadly routine)이었다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/H3JVSS5P7RD5TFUPTYAMPSEIFA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;잭 플로이드가 갖고 있는 참전 당시 사진&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;1952년 7월 미 해병 1사단은 38선 서부로 이동했다. 그는 본부 및 지원 중대로 이동해 전사자와 부상자 보고 담당이 됐다. 그리고 반년이 흐른 1953년 1월 10일 인천에서 다시 미 해군 수송선을 타고 샌프란시스코를 통해 미국으로 돌아왔다. 13개월에 이르는 6·25 참전이 그렇게 끝났다. 마지막 순간까지 그를 괴롭힌 건 한반도의 지독한 추위였다고 했다. &lt;br&gt;&lt;br&gt;플로이드는 이후 베트남전에도 참전했고 해병대에서 육군으로 20여 년을 복무한 뒤 전역했다. 지금도 자신이 목숨을 바쳐 싸운 때를 기억하기 위해 당시 찍은 사진을 휴대전화에 저장하고 다닌다. 플로이드는 “당시 전쟁엔 유엔군과 한국 해병대도 함께 북한군에 대항해 싸웠고 그들은 훌륭한 군인들이었다”며 “그들은 조국을 위해 싸운 용감한 사람들이었다”고 했다. 이어 “내 이야기가 한국을 지키기 위해 그곳에 가야 했던 사람들의 삶에 대해 조금이라도 이해하는 데 도움이 됐으면 좋겠다”면서 “전쟁 이후 엄청나게 발전한 한국을 존경한다”고 말했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/C3UG3FEOHVGI7M2FH3QQU4WMMI.jpg?width=1946&amp;height=1301&amp;auth=328b8cb557997248f587f9baad0666fb051f675dfdf05cecf2507ad9680e19ee&amp;smart=true" type="image/jpeg" height="1301" width="1946">
-        <media:description type="plain">6·25 참전 용사인 잭 플로이드가 20살이던 1952년, 당시 전쟁이 한창인 한반도에 미 해병대 소속으로 파병돼 막사(幕舍) 앞 전술 차량에 앉아 찍은 사진. 좌측 하단에 적힌 영문 약호는 ‘미 해병 1사단(MAR DIV) 1연대(REGT) 1대대(BN)’를 의미한다./이훈구씨 제공</media:description>
-      </media:content>
-    </item>
-    <item>
-      <title>[오늘의 날씨] 2025년 4월 14일</title>
-      <link>https://www.chosun.com/national/national_general/2025/04/14/ALAOVJVAJNFITCKEMP4TC5MRZI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/14/ALAOVJVAJNFITCKEMP4TC5MRZI/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Sun, 13 Apr 2025 15:50:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/L3EFADOL2VAYPMZN7QSEQC5NJI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>김신조 장례식장 찾은 57년 전 간첩 신고 나무꾼</title>
-      <link>https://www.chosun.com/national/2025/04/12/5UBVW7EU7BAFFHPXSUW2HQQVQI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2025/04/12/5UBVW7EU7BAFFHPXSUW2HQQVQI/</guid>
-      <dc:creator>고유찬 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 11 Apr 2025 16:35:42 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4HW7Y4RNLJDVPNJTBIVT5HRWMU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 10일 오후 서울 영등포구 고(故) 김신조 목사 빈소에서 1968년 남침 당시 김 목사를 처음 경찰에 신고한 우성제(왼쪽부터)씨와 김 목사의 아내, 딸이 촬영하고 있는 모습. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘청와대 습격 사건’의 북한 무장 공비 출신 고(故) 김신조 목사의 빈소가 차려진 10일 오후 서울 영등포구 장례식장에 70대 백발 노인이 나타났다. 이 노신사는 1968년 1월 19일 대통령 암살조 김신조 일당의 침투 사실을 경찰에 처음으로 신고한 ‘나무꾼 4형제’ 중 막내 우성제(77)씨다. 첫 만남에선 ‘적’이었지만 나중엔 둘도 없는 형·동생 사이가 됐다. 우씨는 이날 조문 뒤 김 목사 아내의 손을 맞잡고 한동안 고개를 떨궜다.&lt;br&gt;&lt;br&gt;우씨와 김 목사 인연은 57년 전으로 거슬러 올라간다. 11일 본지 통화에서 당시 상황이 어제처럼 기억나느냐는 질문에 우씨는 큰 한숨을 쉬었다. 1968년 1월 19일 북한 민족보위성 정찰국 124부대 소속 공작원 32명이 청와대를 향해 얼어붙은 경기 연천 고랑포 여울목을 건넜다. 김신조 부대였다. 이들은 기관단총 31정, 실탄 9300발, 권총 31정, 대전차 수류탄 252발과 방어용 수류탄 252발, 단검 31정으로 중무장한 특수부대였다.&lt;br&gt;&lt;br&gt;눈으로 덮인 경기도 파주군 천현면 법원리 삼봉산 기슭에서 우씨 4형제가 이들과 마주쳤다. “군인 너덧이 서 있는데 딱 봐도 국군이 아니더라니까요. AK소총에 권총에 수류탄까지....” 소위 계급을 붙인 병사가 성제·철제 형제에게 “아까 네 명이던데 나머지 둘은 어디 있느냐”고 했다.&lt;br&gt;&lt;br&gt;우씨가 “26사단에서 훈련 나온 거 아니냐. 우리 집에 가서 따뜻한 국이라도 먹자”고 하니, “우리는 지하혁명당 소속”이라는 대답이 돌아왔다. 이 군인들은 “6개월 뒤 남조선이 해방된다”며 “지상낙원이 온다”고도 했다. 공비들 사이에서 투표가 벌어졌다. 이 형제들을 살릴 것인가, 죽일 것인가. 청와대로 가는 길에 만나는 누구든 무조건 죽이고 땅에 파묻어서 흔적을 없애라는 임무를 받았기 때문이다. 투표 결과 살리고 죽이자는 의견이 반으로 갈렸다. 결국 “땅이 얼어 결국 묻지도 못하는 데 살려두자”는 결론이 났다. 오징어·엿도 주면서 신고하지 말라고 했다.&lt;br&gt;&lt;br&gt;우씨는 “우리를 회유한답시고 선물이라면서 조잡한 일제 시계를 줬다”며 “나중에 보니 돈도 얼마 안 되는 거더라”라고 했다. 그는 “우리는 날짜·요일 다 나오는 일제 세이코 시계도 있었는데...”라고 했다. 이들은 신고하지 않겠다는 서약서를 쓰고 풀려났다. 우씨가 내려와서 파출소로 곧바로 신고하니 밤 9시였다. “신고하면 집을 쑥대밭으로 만들겠다”는 협박에도 자신들이 본 광경을 빼놓지 않고 이야기했다. 경찰은 한동안 믿지 못했다.&lt;br&gt;&lt;br&gt;우씨 형제들은 이후에도 사건이 벌어진 이곳 초리골에 남았다. 목사가 된 김 목사는 이후로 몇 년마다 초리골에 찾아와 우씨 형제들과 만났다. 막내 나무꾼 우씨는 무장 공비를 신고한 공로로 경찰관이 돼 2005년 퇴직했다. 32년간 근무하면서 절반 넘게 대공 업무를 했다.&lt;br&gt;&lt;br&gt;우씨는 김 목사가 이후 안보 강연 등에 나서면서 “제대로 전향했구나”라며 “그때부터 형님에 대한 마음이 열렸다”고 했다. 이후 이들은 1년에 두세 번 만나 점심, 저녁을 했다. 우씨는 이날 “목숨을 무릅쓰고 (김 목사를) 신고했지만, 후회하지 않는다”며 “좋아하는 분이지만, (북한 간첩은) 다시 신고할 수 있으면 또 할 것”이라고 했다. 이어 “평안한 곳에 갔을 거다. 편히 쉬시길 바란다”고 했다. 김 목사 아내 최정화(80)씨는 “(우씨가) 빈소에서 글썽이는 눈으로 손을 꼭 잡아줬다”며 “외로운 남편의 인생에 친구이자 동생이 되어줘서 감사하다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
