@@ -13,6 +13,113 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>주점서 시민 상대 행패... 잡고보니 신입 경찰 </title>
+      <link>https://www.chosun.com/national/2025/04/15/C7PVOIRCH5BQNNLHPGSZZROD5Q/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2025/04/15/C7PVOIRCH5BQNNLHPGSZZROD5Q/</guid>
+      <dc:creator>김준호 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 15 Apr 2025 12:58:33 +0000</pubDate>
+      <content:encoded>경남지역 한 신입 경찰이 술에 취해 잇따라 주점에서 행패를 부리다 입건됐다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5HPNCCSPHEPUBFJBWYQVPRV3LQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경남경찰청. /뉴스1
+&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경남경찰청은 특수협박 등 혐의로 20대 순경 A씨를 불구속 입건했다고 15일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 6일 오전 2시 15분쯤 창원시 성산구 한 주점에서 여성 피해자에게 의자를 던질 듯이 협박한 혐의 등을 받는다. 당시 그는 피해 여성과 시비가 붙어 말다툼을 벌이다, 이 같은 짓을 저지른 것으로 전해졌다. &lt;br&gt;&lt;br&gt;지난 1월 임용된 A씨는 창원의 한 관내 파출소에 배치돼 실습받던 중이었다고 한다. &lt;br&gt;&lt;br&gt;이 사건으로 직위 해제된 그는 지난 11일 중앙경찰학교를 졸업한 다음 날인 지난 12일 밤에도 같은 주점을 찾아 난동을 부렸다. &lt;br&gt;&lt;br&gt;술에 취해 손님에게 시비를 걸고, 이를 말리던 종업원을 위협하다 신고를 받고 출동한 경찰에 체포됐다. A씨는 체포 당시 거리로 나와서도 지나가는 행인들에게도 시비를 걸었던 것으로 전해졌다. &lt;br&gt;&lt;br&gt;경찰 관계자는 “사건을 엄정히 수사한 뒤 결과에 따라 조처하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘수억원대 금품 수수’ 이베스트 前본부장 구속… “증거 인멸 염려”</title>
+      <link>https://www.chosun.com/national/court_law/2025/04/15/BPQSTE6PKFFGVN37PZMIP7AQSM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/04/15/BPQSTE6PKFFGVN37PZMIP7AQSM/</guid>
+      <dc:creator>김나영 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 15 Apr 2025 13:31:04 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NEREDNU2E5WXIAQUDKA37XYE6Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울중앙지법과 서울고법이 있는 서초동 법원청사./성형주 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대출을 주선한 대가로 시행사로부터 수억원대의 금품을 받은 혐의를 받는 이베스트투자증권 전 본부장이 구속됐다.&lt;br&gt;&lt;br&gt;서울중앙지법 정재욱 영장전담 부장판사는 15일 특정경제범죄가중처벌등에관한법률 위반(사금융알선 등) 혐의를 받는 이베스트투자증권 전 본부장 남모씨에 대한 영장실질심사를 진행한 뒤 구속 영장을 발부했다. 정 부장판사는 “증거를 인멸할 염려가 있다”며 발부 사유를 밝혔다.&lt;br&gt;&lt;br&gt;남씨는 2018년부터 2022년까지 시행사 두 곳에 대출을 해주는 대가로 수억원대 금품을 받은 혐의를 받는다. 검찰은 남씨가 직접 시행 사업에 투자하며 여러 대출을 주선해 온 단서도 포착한 것으로 전해졌다. &lt;br&gt;&lt;br&gt;이번 구속 영장을 청구한 서울중앙지검 반부패수사3부(부장 이승학)는 ‘금융권 대출 비리’를 집중 수사하고 있다. 지난 11일에는 불법 대출과 금품 수수 혐의로 신한은행 차장급 직원 진모씨에 대한 구속 영장을 청구하기도 했다. 법원은 해당 청구도 받아들였다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘90세’ 이순재, 건강 악화로 시상식 불참… “응원과 격려 필요”</title>
+      <link>https://www.chosun.com/national/people/2025/04/15/2E6IL65UOFGY5K5DLTRUHGZXYE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/04/15/2E6IL65UOFGY5K5DLTRUHGZXYE/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 15 Apr 2025 12:47:43 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4PQDTMFH35HOPMZUDCR2M2REI4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;배우 이순재 /이태경 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;배우 이순재(90)가 건강 악화로 제37회 한국 PD대상 시상식에 참석하지 못했다. &lt;br&gt;&lt;br&gt;15일 녹화 중계된 시상식은 지난 9일 서울 여의도동 KBS별관에서 진행됐으며, 이순재는 KBS 드라마 ‘개소리’를 통해 배우 부문 수상자로 선정됐다. &lt;br&gt;&lt;br&gt;이순재를 대신해 대리 수상한 소속사 이승희 대표는 “선생님이 몸이 불편하셔서 참석하지 못했다. 선생님께서 한국PD대상 관계자분들, 심사하신 분들에게 정말 감사하다고 인사를 전해달라고 하셨다”며 “선생님이 조금 아프시다. 여러분의 응원과 격려가 필요하다. 선생님 힘내라고 파이팅 한 번만 해주시면 감사하겠다”고 대리 수상 소감을 전했다.&lt;br&gt;&lt;br&gt;이순재는 현재 거동이 불편한 상황으로 휴식을 취하며 회복 중인 것으로 알려졌다. &lt;br&gt;&lt;br&gt;이순재는 1935년생으로 현재 활동 중인 배우들 중 최고령이다. 이순재는 활발한 활동을 이어오다 지난해 10월 건강 문제로 공연 중이던 연극을 전면 취소하고 3개월간 휴식을 취한 바 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UG7PAA53YNAQZFZIXZTV4UZ2AI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;배우 이순재가 지난 1월 11일 방영된 '2024 KBS 연기 대상'에서 대상 수상 소감을 말하고 있다. /KBS&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이순재는 지난해 KBS 2TV 드라마 ‘개소리’에서 개의 목소리를 듣게 된 원로 배우를 연기했다.&lt;br&gt;&lt;br&gt;이순재는 개소리로 지난 1월 11일 ‘2024 KBS 연기대상’에서 대상을 받아 역대 연기대상 중 최고령 대상 수상자가 됐다.&lt;br&gt;&lt;br&gt;대상을 받은 이순재는 “살다 보니 이런 날도 있네”라며 “귀한 상을 받게 됐다. 60살 먹어도 잘하면 상 주는 거다. 공로상이 아니다. 연기를 연기로 평가해야지 인기나 다른 조건으로 평가하면 안 된다. 이 상은 개인의 상이 아니다”라고 수상 소감을 전했다.&lt;br&gt;&lt;br&gt;당시에도 이순재는 이전보다 야윈 모습으로 등장했고, 무대에도 후배 배우들의 부축을 받으며 올랐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/4PQDTMFH35HOPMZUDCR2M2REI4.jpg?width=2607&amp;height=1466&amp;auth=ca5991be3a4d1f0a769ffbf9e33a13094dc2303f808843d40ac8e9e294c7d9d7&amp;smart=true" type="image/jpeg" height="1466" width="2607">
+        <media:description type="plain">배우 이순재 /이태경 기자</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>한덕수 권한대행, 광주 ‘1000원 백반집’에 후원·손편지</title>
+      <link>https://www.chosun.com/politics/goverment/2025/04/15/6BT5LGVCQNHC3BOUFWENVZJ3HM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/politics/goverment/2025/04/15/6BT5LGVCQNHC3BOUFWENVZJ3HM/</guid>
+      <dc:creator>김경필 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 15 Apr 2025 12:12:27 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AHBUV4S2EVKG7NKUGAW3HE3JVE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;15일 광주 동구 대인시장에 있는 ‘해뜨는식당’ 관계자들이 한덕수 대통령 권한대행 국무총리가 전달한 식재료를 들고 기념 사진을 찍고 있다. /국무총리실&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한덕수 대통령 권한대행 국무총리가 15일 광주에서 어려운 이웃에게 1000원에 식사를 제공한 식당을 사비로 후원했다고 국무총리실이 밝혔다.&lt;br&gt;&lt;br&gt;총리실에 따르면, 한 대행은 이날 오후 광주 동구 대인시장에 있는 ‘해뜨는식당’에 사비로 산 식재료와 손편지를 전달했다. 한 대행은 이 식당이 필요한 식재료를 추가로 살 수 있도록 인근 식재료 가게에도 사비로 선결제를 해뒀다.&lt;br&gt;&lt;br&gt;한 대행은 이날 오후 광주 서구의 기아 공장을 찾아 기아·현대자동차그룹 경영진과 간담회를 하고, 미국의 자동차·부품 관세 부과에 따른 자동차 산업계의 애로 사항을 듣고 대응책을 논의했다.&lt;br&gt;&lt;br&gt;한 대행은 이어서 해뜨는식당을 방문하려 했으나, 다른 일정이 생겨 방문하기 어렵게 되자 총리실 관계자를 통해 후원의 뜻을 전달했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G7IF5T7YRRKBNJOJ6642FX5CDI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한덕수 대통령 권한대행 국무총리가 15일 오후 광주 동구 대인시장에 있는 ‘해뜨는식당’에 전달한 손편지. /국무총리실&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한 대행은 손편지에서 “김윤경 사장님이 시작하신 1000원 백반 식당을 따님이 뒤를 이어 15년째 운영하고 계시다고 들었다”며 “꼭 한번 뵙고 싶었는데 일정이 여의치 않아 멀리서 감사 말씀만 전하고 간다”고 했다.&lt;br&gt;&lt;br&gt;한 대행은 이어 “시장 다른 점포 사장님들도 많이 도와주신다고 들었다”며 “대인시장과 해뜨는식당 모두 건승하셨으면 한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>이재명 측 “선거기간 재판 출석 어려워”...檢과 또 공방</title>
+      <link>https://www.chosun.com/national/court_law/2025/04/15/2YWDCX4AMREDFEE4WJEYHTSI2E/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/04/15/2YWDCX4AMREDFEE4WJEYHTSI2E/</guid>
+      <dc:creator>김은경 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 15 Apr 2025 10:58:49 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5RT7KQM5ZYTD5SNQIKMRYZHJ74.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이재명 전 더불어민주당 대표가 15일 오전 서울 서초구 서초동 서울중앙지방법원에서 열린 대장동 배임 및 성남FC뇌물 1심 속행 공판에 출석하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대장동 개발 비리 의혹 사건의 피고인으로 재판을 받는 이재명 전 더불어민주당 대표 측이 대선 선거운동 기간인 5월 재판 날짜를 잡는 것을 두고 검찰과 공방을 벌였다.&lt;br&gt;&lt;br&gt;서울중앙지법 형사33부(재판장 이진관)는 15일 이 전 대표와 정진상 전 민주당 정무조정실장의 ‘대장동·위례·백현동·성남FC 뇌물' 사건 공판을 열었다. 이 재판은 지난 2월 법관 정기 인사로 재판부가 교체된 뒤 갱신 절차를 진행하고 있다.&lt;br&gt;&lt;br&gt;검찰은 이날 공판이 끝나고 재판부에 5월 23일 금요일을 추가 공판 기일로 지정하자고 요청했다. 이 전 대표와 정 전 실장의 다른 재판이 없어 출석이 가능하다는 취지다. 재판부는 지난 8일 열린 직전 공판에서 5월 재판 일정을 미리 논의하며 23일을 제안했는데, 이 전 대표와 정 전 실장 측에서 다른 사건 재판이 잡혀 있다며 난색을 표하자 13일과 27일을 기일로 지정했었다.&lt;br&gt;&lt;br&gt;검찰의 추가 기일 지정 요청에 이 전 대표 변호인은 “대선 불과 1~2주 전”이라며 대선 공식 선거 기간이고 막바지 선거 기간인데 예정에 없던 재판을 넣는 것은 많은 애로가 있다”고 했다.&lt;br&gt;&lt;br&gt;정 전 실장의 변호인도 “최근 상황에서 다른 때에는 금요일에 재판이 없는데, 금요일까지 재판을 잡아 일주일에 2번씩 해야 하는 상황은 아니지 않느냐”며 “추가로 기일을 지정하는 것은 변호인단으로선 상당히 어렵다”고 말했다.&lt;br&gt;&lt;br&gt;이에 재판부는 “23일을 말씀드렸던 건 22일이 안돼서였고, 그 주에 2번 재판하는 취지는 아니었다”며 “23일에 피고인들의 재판이 없는 것은 확인이 됐고 (추가 기일 지정에 대해선) 고민해 보겠다”고 답했다.&lt;br&gt;&lt;br&gt;한편, 이 전 대표는 이날 공판에 출석하면서 “대선 출마 선언 후 첫 재판인데 한 말씀 부탁드린다” “앞으로 대선 일정 중 재판에 어떻게 출석할 것인가” 등을 묻는 취재진 질문에 답하지 않았다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>온난화로 빨라진 봄, 꽃가루도 16일 빨리 왔다</title>
+      <link>https://www.chosun.com/national/transport-environment/2025/04/15/3QRM4CP4CREPRN4N4PYXRY6N6Q/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/04/15/3QRM4CP4CREPRN4N4PYXRY6N6Q/</guid>
+      <dc:creator>박상현 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 15 Apr 2025 12:01:13 +0000</pubDate>
+      <content:encoded>올해는 봄철 알레르기를 일으키는 나무 꽃가루가 과거보다 대체로 이른 시기에 날리기 시작했고, 과거보다 더 일찍 끝날 전망이라고 기상청이 15일 밝혔다. 현재 한창인 수목 유발 알레르기 질환이 짧고 굵게 끝날 수 있다는 것이다. &lt;br&gt;&lt;br&gt;이날 기상청은 서울 등 8개 도시의 주요 꽃가루 유발 나무 9종과 잔디 등 식물 4종의 날림 시기를 분석한 ’2025년 꽃가루 달력’을 발표했다. 예년(2007~2017년)에 비해 최근(2014~2024년) 앞당겨진 꽃가루 날림 기록을 분석해 올해 전망을 참고토록 한 것이다. &lt;br&gt;&lt;br&gt;올해 8개 도시에서 봄철 수목류 꽃가루가 날리는 시기는 평균 3일 빨라진 것으로 나타났다. 제주가 평균 7일, 중부지방이 5일, 남부지방이 1일 빨라졌다. 기상청은 “온난화로 봄이 빨라져 꽃가루를 일찍 뿜어냈고, 앞당겨지는 여름으로 인해 습도가 조기에 높아지기 때문”이라고 설명했다. 꽃가루는 건조한 날씨에 미풍에도 멀리 날아가는 반면, 비가 자주 오고 습도가 올라가면 잠잠해진다.&lt;br&gt;&lt;br&gt;서울을 기준으로 봄철 알레르기를 유발하는 느릅나무의 경우, 예년엔 3월 30일부터 날리기 시작했는데, 올해는 16일 앞선 3월 14일부터 날리기 시작했다. 앞으로 약 3개월간 지속될 전망이다. &lt;br&gt;&lt;br&gt;오리나무는 예년보다 5일 빠른 2월 9일부터 날리기 시작한 데다 꽃가루가 날리는 기간이 예년(79일)보다 18일이 단축된 총 61일로 현재는 사실상 종료된 상태라고 기상청은 밝혔다.&lt;br&gt;&lt;br&gt;대표적 알레르기 유발 수목인 참나무는 예년(4월 10일)과 시작 시기는 동일하지만 날림 기간이 총 41일에서 32일로 단축돼 앞으로 한 달 정도만 견디면 될 전망이다. &lt;br&gt;&lt;br&gt;수목별 날림 시기가 조정되면서 올해는 여러 수목이 동시 다발적으로 꽃가루를 뿜어내는 특징을 보이고 있다. 아파트와 골프장 등에 조경 목적으로 많이 심은 자작나무의 경우 예년보다 늦은 지난달 31일 꽃가루 날림이 시작됐지만 총 지속 기간은 73일에서 48일로 크게 단축돼 5월 중하순엔 영향에서 벗어날 것으로 보인다. &lt;br&gt;&lt;br&gt;한 달 전부터 꽃가루가 날리고 있는 개암나무는 지속 기간이 총 85일에서 38일로 47일이 줄어 내주쯤엔 그칠 것으로 예상됐고, 지난주부터 꽃가루가 날리고 있는 은행나무는 꽃가루 농도(일정 면적당 꽃가루 수)가 예년의 3배로 측정될 정도로 짧고 굵게 끝날 전망이다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/P6ZCENJIKRA5DL2T33XODXH4YE.jpg?width=5760&amp;height=3840&amp;auth=a0f499e66b59934ac4026df3bdff8d21ee7f6c62e08f5283b323f4126c19e690&amp;smart=true" type="image/jpeg" height="3840" width="5760">
+        <media:credit role="author" scheme="urn:ebu">Jin-Oh Hyun</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>일가족 5명 살해한 가장, 범행 후 “가족이 집단 자살” 문자</title>
+      <link>https://www.chosun.com/national/incident/2025/04/15/PU5TAO2SOVF47GG35TNQWVXFPU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/04/15/PU5TAO2SOVF47GG35TNQWVXFPU/</guid>
+      <dc:creator>용인=김현수 기자, 용인=김수언 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 15 Apr 2025 11:56:56 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FDHBPARAHJJCFEPILAYT4ROZE4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;사업실패로 부모와 처자식 등 5명을 살해한 혐의로 긴급 체포된 50대 남성 A씨를 태운 호송차량이 15일 오후 경기도 용인서부경찰서로 들어서고 있다.
+
+A씨는 이날 오전 경기 용인시 수지구 아파트 자택에서 80대 부모와 50대 배우자, 10~20대 자녀 등 자신의 가족 5명을 목 졸라 살해한 혐의를 받고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 용인에서 50대 가장이 80대 부모와 아내, 딸 등 일가족 5명을 살해한 사건이 발생했다. 그는 범행 후 광주광역시로 도주해 극단적 선택을 시도했지만 생명에는 지장이 없는 것으로 알려졌다. 경찰은 이 가장이 사업 실패를 비관해 가족을 살해한 것으로 추정하고 있다. &lt;br&gt;&lt;br&gt;용인서부경찰서는 15일 살인 혐의로 50대 A씨를 긴급체포했다고 밝혔다. &lt;br&gt;&lt;br&gt;앞서 이날 오전 9시 55분쯤 용인 수지구의 한 아파트에서 일가족 5명이 숨진 채 발견됐다. 시신에서는 목을 졸린 흔적이 확인됐다. 경찰 관계자는 “수면제를 먹여 잠들게 한 뒤 차례로 목을 졸라 살해한 것으로 보인다”고 전했다.&lt;br&gt;&lt;br&gt;숨진 5명은 A씨의 80대 부모, 50대 아내, 20대와 10대 딸로 조사됐다. 현장에선 A씨가 쓴 메모가 발견됐다. ‘가족을 다 죽이고 나도 죽겠다’는 내용인 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰은 A씨가 이날 새벽 자신의 승용차를 몰고 도주한 사실을 확인하고 A씨의 휴대전화와 차량을 추적했다. &lt;br&gt;&lt;br&gt;그리고 이날 오전 11시 10분쯤 사건 현장에서 240km 떨어진 광주광역시의 한 오피스텔에서 A씨를 붙잡았다. 당시 A씨도 수면제를 복용하고 쓰러진 상태였다고 경찰은 전했다. A씨는 광주광역시의 대학병원에서 치료를 받은 뒤 용인서부경찰서로 압송됐다. &lt;br&gt;&lt;br&gt;A씨는 범행 후 자신의 누나에게 ‘가족이 집단 자살했다’는 문자 메시지를 보냈고, 이를 이상하게 생각한 A씨 누나가 119에 신고한 것으로 파악됐다. 현장에 출동한 소방 당국과 경찰은 아파트 현관문을 강제로 열고 들어가 숨진 일가족 5명을 발견했다. &lt;br&gt;&lt;br&gt;경찰은 A씨가 사업 실패 등을 비관해 가족을 살해한 것으로 추정하고 있다. A씨가 용인 집과 광주를 오가며 사업을 하다가 큰 빚을 졌다는 말도 나온다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “정확한 범행 동기는 A씨를 조사해봐야 알 수 있을 것 같다”며 “A씨의 채무 관계, 통신 기록 등을 확보해 사업 실패나 채무 문제 때문에 범행했는지 확인할 계획”이라고 했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BWIKDJ6VOJMBBIQ7X7XL44TDQA.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;경기 용인시의 한 아파트에서 일가족으로 추정되는 5명을 살해한 50대 A 씨가 경찰에 검거됐다. 용인서부경찰서는 살인 혐의로 A 씨를 형사 입건해 조사하고 있다고 15일 밝혔다. 
+
+사진은 이날 오후 일가족이 숨진 채 발견된 경기 용인시의 한 아파트의 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;살인 사건이 난 아파트 주민들은 “아침에 119가 찾아와 불이 난 줄 알았다”며 “이런 끔찍한 살인 사건이 벌어졌을 줄은 상상도 못했다”고 했다. 70대 주민 B씨는 “(A씨 가족은) 평소 이웃과 교류가 없는 조용한 가족이었다”고 했다. 경찰은 숨진 일가족에 대해 부검을 실시할 예정이다. &lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/FDHBPARAHJJCFEPILAYT4ROZE4.jpg?width=1980&amp;height=1254&amp;auth=e7ca1c868c5dc7b0fd9a88cf402b1dba50f86407b7e2e50ec6dd71825d9934a6&amp;smart=true" type="image/jpeg" height="1254" width="1980">
+        <media:description type="plain">사업실패로 부모와 처자식 등 5명을 살해한 혐의로 긴급 체포된 50대 남성 A씨를 태운 호송차량이 15일 오후 경기도 용인서부경찰서로 들어서고 있다.
+
+A씨는 이날 오전 경기 용인시 수지구 아파트 자택에서 80대 부모와 50대 배우자, 10~20대 자녀 등 자신의 가족 5명을 목 졸라 살해한 혐의를 받고 있다. /뉴시스</media:description>
+        <media:credit role="author" scheme="urn:ebu">JTK</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>‘16년 도주’ 살인미수 피의자, 증명서 떼러 경찰서 갔다가 붙잡혔다</title>
+      <link>https://www.chosun.com/national/national_general/2025/04/15/K3KQYD5HBREAXBMDRPRLXF5W6A/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/15/K3KQYD5HBREAXBMDRPRLXF5W6A/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 15 Apr 2025 11:59:40 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ONLIRWDOL5AX3HGALQM4PWA7CI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 구로경찰서 민원실을 찾아갔다가 붙잡힌 A씨(왼쪽). /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;살인미수 혐의로 16년간 경찰에 쫓겨온 60대 남성이 스스로 경찰서 민원실을 찾아갔다가 붙잡혀 재판을 받게 됐다.&lt;br&gt;&lt;br&gt;15일 서울 은평경찰서는 지난달 17일 60대 남성 A씨를 살인미수 혐의로 검거했다고 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 2009년 10월 19일 은평구에서 경쟁 관계에 있는 이웃 노래방 업주 B씨를 살해하기 위해 불이 붙은 시너를 담은 깡통과 둔기를 들고 찾아간 혐의를 받는다.&lt;br&gt;&lt;br&gt;당시 B씨를 대신해 A씨를 제지하려 했던 노래방 직원이 온몸에 큰 화상을 입었다. A씨는 범행 직후 달아났고, 최근까지 경찰에 검거되지 않았다.&lt;br&gt;&lt;br&gt;하지만 A씨는 지난달 운전경력증명서를 발급받기 위해 서울 구로경찰서 민원실을 스스로 찾아갔고, 신원을 확인한 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;경찰로부터 사건을 넘겨받은 서울서부지검은 지난 9일 A씨를 구속 기소했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“징하게 감사허요” 꾹꾹 눌러 쓴 할머니 손 편지...기부금 쏟아졌다 </title>
+      <link>https://www.chosun.com/national/2025/04/15/QDD3EQE7RZFMVC4IZKIJDHDP3A/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2025/04/15/QDD3EQE7RZFMVC4IZKIJDHDP3A/</guid>
+      <dc:creator>김준호 기자, 조홍복 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 15 Apr 2025 11:17:27 +0000</pubDate>
+      <content:encoded>“우리 마을에 이불 빨래방 맹그러 줘서 참말로 고맙소잉. 다들 복 많이 받을 것이오.”&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2BZEXVPOOBERNKIWOVJCRKYXUA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전남 곡성군이 지역 어르신들을 위해 추진한 고향사랑 지정기부 ‘마을 빨래방을 선물하세요’가 목표액을 달성했다. 사진은 지역 한 어르신이 기부자들에게 감사 인사를 쓴 손 편지. /곡성군&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전남 곡성군이 지역 어르신들을 위해 추진한 고향사랑 지정기부 ‘마을 빨래방을 선물하세요’가 목표액을 달성했다. &lt;br&gt;&lt;br&gt;곡성군은 지난해 7월부터 모금을 시작한 세 번째 고향사랑 지정 기부 사업인 ‘어르신 돌봄을 위한 마을 빨래방 프로젝트’에 1억8860만원이 모였다고 15일 밝혔다. &lt;br&gt;&lt;br&gt;이 프로젝트는 60대 이상 인구 비율이 50% 이상이면서 전국 평균보다 독거노인 비율이 높다는 점을 고려해 추진됐다. 곡성군은 “바쁜 농번기와 겨울을 보내고 나면 이불에는 먼지가 한가득이지만, 혼자 사시는 어르신 가구에는 큰 가정용 세탁기가 없다”면서 “이동 세탁 서비스도 찾아가야 할 마을이 많아 한계가 많았다”고 했다. &lt;br&gt;&lt;br&gt;곡성군은 어르신 가구의 빨래 고민을 해결하면서 독거노인의 근황을 파악할 수 있는 형태의 빨래방을 조성하기로 했다. 예산은 고향사랑기부제 지정 기부 사업으로 마련하기로 했다. 고향 사랑 기부제는 자기 고향 등에 기부하면 특산품을 답례로 주는 제도다. 기부자는 연말에 세액공제 혜택도 받을 수 있다. 작년 6월부터 지역의 특정 사업에 기부할 수 있게 하면서 지자체마다 다양한 사업을 시도하고 있다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WIFQFGBDXBBKZFZQIKOGEEHCUU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전남 곡성군이 지역 어르신들을 위해 추진한 고향사랑 지정기부 ‘마을 빨래방을 선물하세요’가 목표액을 달성했다. /고향사랑e음 캡처&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;곡성군은 사업에 동참한 이들의 공감을 유도하고자 지역에 사는 할머니의 손 편지를 기부자들에게 보내기도 했다. 곡성군 입면 흑석마을에 사는 80대 어르신 ‘담양댁’은 꾹꾹 눌러 쓴 손 편지로 기부자들에게 고마움을 전했다.&lt;br&gt;&lt;br&gt;그는 “시상(세상)이 좋아져서 세탁기가 있지만, 나도 인자 나이가 80세가 넘어강께 무릎이랑 허리가 아파서 집에서는 빨래를 아예 못허요”라며 “일 년에 한 번만 빨래 차가 마을을 찾아와 (두꺼운 이불은) 장롱에 넣어 놓고 나는 얇은 이불을 놓고 내내 살고 있소”라고 적었다. 이어 “우리 마을에 이불 빨래하는 곳이 생겨, 자식들 명절에 올 때도 맘 놓고 이불 꺼내놓고 쓰라 한다”며 “이불 빨래방 맹그러(만들어) 줘서 참말로 고맙소잉. 여러분님들 덕택에 얼마 안 남았지만, 편히 살다 가겠소”라고 적었다.&lt;br&gt;&lt;br&gt;한글을 깨친 지 몇 년 되지 않은 이 어르신의 손 편지는 소셜미디어(SNS) 등으로 퍼지면서 화제가 됐다. ‘편지만 읽었는데 눈시울을 적신다’ ‘진한 사투리에서 돌아가신 엄마 생각이 난다’는 등의 댓글이 이어졌다. 1500여 명이 응원 메시지와 함께 고향사랑 기부금을 보냈다. 올해 12월 말까지 모으려던 모금 목표액 1억8860만원은 9개월 만에 달성했다.&lt;br&gt;&lt;br&gt;곡성군은 이 기부금을 활용해 고령화율이 높은 지역 2곳에 마을 빨래방을 설치한다. 빨래방에는 대형 세탁기와 건조기 등을 갖출 예정이다. 또 배송 차량 1대와 빨래방 운영단을 꾸려 어르신 가구의 빨래를 수거하고, 배송하는 서비스도 제공할 예정이다. &lt;br&gt;&lt;br&gt;한편, 곡성군은 지역 소아과 출장 진료(시즌1)와 상주 의사 진료(시즌2) 등 2건의 지정기부 사업에 이어 이번 3번째 지정기부 사업도 성공했다.&lt;br&gt;&lt;br&gt;조상래 곡성군수는 “지역 어르신들이 깨끗한 이불을 덮고 편히 주무실 수 있도록 이른 시일 내에 사업을 추진하겠다”며 “다른 지정 기부 사업이 기부자분들의 마음을 두드릴 수 있도록 다양한 시도를 멈추지 않겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“박나래 자택 우연히 절도? 매우 위험했다” 프로파일러의 경고 </title>
+      <link>https://www.chosun.com/national/national_general/2025/04/15/XISD2JQLU5H5DILXG7KEXAB3XY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/15/XISD2JQLU5H5DILXG7KEXAB3XY/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 15 Apr 2025 11:18:17 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G2QHFH6KG5HGRHCQDFG6LL57LU.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;방송인 박나래. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;방송인 박나래(40)의 자택에 침입해 금품을 훔친 용의자가 경찰에 붙잡힌 가운데 연예인 자택을 공개하는 예능 프로그램이 범죄 위험을 초래할 수 있다는 경고가 나왔다. &lt;br&gt;&lt;br&gt;배상훈 프로파일러는 15일 YTN 라디오에 출연해 “경찰이 아마 한남동 쪽에서 셀럽이나 연예인들을 (대상으로) 주로 (범행)하는 전문 꾼들을 수사하는 과정에서 검거한 것 같다”며 “제가 보기에는 (용의자가) 셀럽이나 연예인들만을 주로 노리는 전문적인 꾼 같다”고 했다.&lt;br&gt;&lt;br&gt;용의자가 박나래의 집인 줄 몰랐다고 주장하는 것에 대해서는 “실제로 모를 수가 없다. 왜냐하면 주변에 가보면 박나래 집이라는 거 금방 안다. 상식적으로도 말이 안 되는 것”이라며 “여러 전과가 있는 범죄자인데 그거는 그냥 재판에서 유리한 형량을 받기 위해서 하는 소리”라고 했다. &lt;br&gt;&lt;br&gt;그는 “특히 박나래씨 같은 경우가 안 좋은 것이 집을 공개하는 프로그램이 있지 않나? 셀럽이나 연예인들은 자기 집보다는 소속사가 마련해 준 다른 집을 공개하는 것이 보통의 관례라고 알고 있는데 이 프로그램은 실제 살고 있는 집을 공개해 매우 위험하다”라며 “전문 털이범들은 몇 장면만 봐도 어떤 보안 시설이 어떻게 돼 있다는 걸 금방 안다”라고 했다. &lt;br&gt;&lt;br&gt;배상훈 프로파일러는 “박나래 씨 자체가 위험했던 거다. 그렇게 방송을 하면 안 됐다”라며 “미국의 헐리우드 같은 데서도 유명인들 집에 침입해서 물건만 훔치려다 권총을 쏘거나 이런 경우가 나타날 수 있다. 일정이 없는 상태에서 (박나래 씨가) 있을 수도 있고 아니면 박나래 씨 가족이나 지인이 머물 수도 있는 거니까 매우 위험하다. 침입 절도는 강도의 위험성이 늘 상존하는 것”이라고 했다. &lt;br&gt;&lt;br&gt;이어 “소속사에서는 보안 컨설팅을 받아서 대비를 해야 된다. 프로그램이 좋다고 해서 다 공개하는 것은 반작용도 있다”며 “그걸 노리는 범죄자가 있으니 제한된 선은 지켜야 된다”고 했다. &lt;br&gt;&lt;br&gt;박나래는 용산구 자택에서 귀금속 등 수천만 원 상당의 금품을 도난당했다며 지난 8일 경찰에 신고했다. 서울 용산경찰서는 최근 절도 등의 혐의로 A씨를 긴급 체포해 구속 수사 중이라고 14일 밝혔다.&lt;br&gt;&lt;br&gt;박나래는 2021년 서울 용산구 이태원에 위치한 단독주택을 약 55억원에 매입했다. 이후 MBC 예능 프로그램 ‘나 혼자 산다’를 통해 집 내부를 공개해 화제가 됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>이국종 “입만 터는 문과 출신들이 해먹는 나라” 의료 체계 작심 비판</title>
       <link>https://www.chosun.com/national/welfare-medical/2025/04/15/A6HWG3JWXRH47GVHBX45XH3MK4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/04/15/A6HWG3JWXRH47GVHBX45XH3MK4/</guid>
@@ -822,33 +929,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6A2H24YFZBC73J2MRO2ORFVEMI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;박형준 부산시장, 박완수 경남도지사, 김두겸 울산시장(왼쪽부터)이 14일 부산 연제구 부산시청에서 부울경 초광역경제동맹 정책협의회를 가진 뒤 협력을 다짐하고 있다./부산시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산·울산·경남 시·도지사 3명은 14일 부산 연제구 부산시청에서 부울경 초광역경제동맹 정책협의회를 열고 공동성명서를 발표했다. &lt;br&gt;&lt;br&gt;박형준 부산시장과 김두겸 울산시장, 박완수 경남도지사는 이날 성명서를 통해 “이번 대선과정에서 대통령과 국회 역할 분담을 새롭게 하고 중앙 정부와 지방 정부의 권한을 배분하는 이중 분권 개헌을 반드시 이뤄내야 한다”고 말했다. &lt;br&gt;&lt;br&gt;이들 3명의 시·도지사는 “이번 대선은 분열과 증오의 전장이 아닌 후보들 모두가 국가의 새 비전을 제시하고 국민 앞에 희망의 미래를 약속하는 전환점이 되기를 희망한다”며 이같이 밝혔다. &lt;br&gt;&lt;br&gt;이들은 이어 “국민은 국가의 미래를 걱정하는데 정치는 진영논리와 과거에 사로잡혀 단 한 걸음도 앞으로 나아가지 못하는 상황이 지속된다면 국론은 더욱 분열되고 국가 경쟁력과 신인도는 갈수록 저하될 것이 분명하다”며 “이제는 우리 정치가 극단의 대치를 중단하고 국민을 향해 고개를 숙일 때”라고 했다.&lt;br&gt;&lt;br&gt;시도지사들은 또 ”그 어떤 당리당략도 국민의 삶을 돌보는 일과 국가 발전에 우선할 수는 없다”며 “우리 부울경 시·도지사는 먼저 부울경 시·도민 통합을 위해 나아가 국민 대통합을 위해 앞장설 것“이라고 말했다.&lt;br&gt;&lt;br&gt;이들은 “부울경 초광역경제동맹은 그동안 지역의 미래를 선도할 신성장 산업 육성전략을 함께 수립하고 실천해 나가는 중”이라며 “이같은 노력에 더해 동남권 순환광역철도·초광역권 도심 융합특구 지정 등 핵심 21개 사업에 대한 중앙정부 지원을 이끌어 내도록 최선을 다할 것“이라고 말했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>수면유도제 술에 섞어 실신시키고 강도짓…40대男 ‘징역형’</title>
-      <link>https://www.chosun.com/national/court_law/2025/04/14/KRBS2DHOINFUPMA53YLQJ7BHTY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/04/14/KRBS2DHOINFUPMA53YLQJ7BHTY/</guid>
-      <dc:creator>인천=이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 14 Apr 2025 07:13:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Z2PS5AGOH2HATKVJGNMPNUIQB4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원 로고. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;함께 술을 마시던 60대 여성에게 수면유도제로 쓰이는 졸피뎀 성분의 약을 먹여 2000만원 상당의 금품을 빼앗은 40대 남성에게 징역형이 선고됐다. &lt;br&gt;&lt;br&gt;인천지법 형사16부(재판장 윤이진)는 강도 혐의로 기소된 A(49)씨에 대해 징역 4년 6개월을 선고했다고 14일 밝혔다. &lt;br&gt;&lt;br&gt;A씨는 지난 2월 6일 오후 10시 25분쯤 인천시 남동구의 한 술집에서 업주 B(여‧66)씨가 차고 있던 금팔찌와 목걸이, 반지 등 2180만원 상당의 금품을 빼앗은 혐의로 기소됐다. &lt;br&gt;&lt;br&gt;A씨는 B씨가 졸피뎀 성분이 섞인 술을 먹은 뒤 항거 불능 상태에 빠지자 범행한 것으로 조사됐다. A씨는 함께 술을 마시던 B씨가 자리를 비운 사이 몰래 수면유도제로 쓰이는 졸피뎀 성분이 든 약품을 B씨의 술잔에 넣은 것으로 파악됐다.&lt;br&gt;&lt;br&gt;재판부는 “6차례의 동종 전과가 있기도 한 피고인은 자신이 처방받은 졸피뎀 성분의 약품을 갖고 다니면서, 피해자가 혼자 있을 때를 노려 계획적으로 범행해 죄질이 좋지 않다”며 “실신한 피해자를 방치해 다치게 하기도 했다”고 했다. 또 “피해자에게 금전적인 피해 외에도 상당한 신체적‧정신적 추가 피해를 발생시켰다”고 했다. &lt;br&gt;&lt;br&gt;이어 “피고인이 희귀병 진단을 받고 치료를 받는 등 정신적으로 불안정하고, 경제적으로 곤궁한 상태에서 범행한 점, 피해품의 일부가 피해자에게 반환된 점, 반성하고 있는 점 등을 고려했다”고 양형 이유를 설명했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>법무장관 “韓대행, 행정부 몫 헌법재판관 임명 가능”</title>
-      <link>https://www.chosun.com/national/court_law/2025/04/14/ARNQ2L6HXRD75OTMXLEUW2LZQY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/04/14/ARNQ2L6HXRD75OTMXLEUW2LZQY/</guid>
-      <dc:creator>박강현 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 14 Apr 2025 07:07:39 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KJKXNHYVHZEWVAZWGLA4WKAWCE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;박성재 법무부 장관이 14일 오후 서울 여의도 국회 본회의장에서 김영배 더불어민주당 의원의 정치·외교·통일·안보에 관한 대정부질문에 답하고 있다. /남강호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;박성재 법무부 장관이 한덕수 대통령 권한대행 국무총리가 대통령 몫의 헌법재판관 후보자 2명(이완규·함상훈)을 지명한 것과 관련해 “필요성이 있다면 임명할 수 있다고 생각한다”고 14일 말했다.&lt;br&gt;&lt;br&gt;박 장관은 이날 국회 대정부질문에서 더불어민주당 김영배 의원(서울 성북구갑)이 “법제처가 발간한 헌법주석서에는 대통령 직무대행의 범위는 ‘현상유지 위주로 해야 된다’ ‘새로운 걸 하면 안 된다’ 이렇게 돼 있다”며 견해를 묻자 “헌법재판소 구성이 입법, 사법, 행정으로 나눠서 임명하도록 돼 있는데 지금 문제가 되는 부분은 행정부 몫”이라며 이같이 밝혔다.&lt;br&gt;&lt;br&gt;박 장관은 “우리 헌법에는 대통령 권한대행의 권한 범위에 대해서 특별한 규정이 없고 학계나 실무에서는 다양한 견해가 있는 것으로 안다”면서 “궐위와 사고는 다르다고 생각을 한다. 총리께서 (이런 부분을 감안해) 판단하고 결정한 것으로 안다”고 했다. 헌법상 궐위는 파면, 사망, 사임 등의 이유로 대통령직이 공석이 된 경우를 뜻하고, 사고는 질병, 요양, 탄핵소추에 의한 권한 정지 등으로 대통령 직무를 수행할 수 없는 경우를 말한다. &lt;br&gt;&lt;br&gt;박 장관은 한 권한대행이 지난해 12월 26일 ‘임명을 포함한 대통령의 중대한 고유권한 행사는 자제하라는 것이 우리 헌법과 법률에 담긴 일관된 정신’이라고 발표한 것에 대해선 “대통령께서 권한 정지 상태인 경우와 완전히 궐위된 상태가 상황이 조금 다른 것 아닌가 생각한다”고 했다.&lt;br&gt;&lt;br&gt;이어 “이 부분에 대해서는 공화정의 가장 기본 정신인 삼권분립 원칙도 많이 고려해야 된다고 생각한다”고 강조했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2GUNE3N6EZJH5IE37KOI6L74NM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;박성재 법무부 장관이 14일 오후 서울 여의도 국회에서 열린 제424회 국회 제2차 본회의 정치·외교·통일·안보 분야 대정부질문에서 김영배 더불어민주당 의원 질문에 답변하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;또 김 의원이 “‘한덕수 권한대행이 내란 공범이라는 차원에서 (그에게) 충성한다’는 말씀을 듣기 싫으시면 (한 권한대행에게) 헌재 재판관 지명을 당장 철회하라고 보고하라”고 하자 박 장관은 “총리께서 여러 가지를 고려해서 결정한 것으로 알고 있고 그 결정을 존중한다”며 “특히 헌재에 가처분 사건으로 계류 중에 있으니까 제가 옳고 그름을 다 말씀드리기에는 적절하지 않다”고 덧붙였다.&lt;br&gt;&lt;br&gt;박 장관은 이날 김 의원이 “‘법꾸라지(법+미꾸라지)’ 면모를 정확히 보여주고 있다”고 비난하자 “표현이 과하다”며 반발하기도 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>전국법관대표회의 김예영 의장 연임...부의장에 이호산 </title>
-      <link>https://www.chosun.com/national/court_law/2025/04/14/TE736R7R3BHTXAGBAC25TVWTMA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/04/14/TE736R7R3BHTXAGBAC25TVWTMA/</guid>
-      <dc:creator>김은경 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 14 Apr 2025 06:14:37 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LR5XWC3QCNND3A5YKHOMYZQLWY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;조희대 대법원장이 14일 경기도 고양시 사법연수원에서 열린 전국법관대표회의에서 인사말을 하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전국법관대표회의가 14일 사법연수원에서 정기회의를 열고 김예영(50·사법연수원 30기) 서울남부지법 부장판사를 의장으로 재선출했다. 김 부장판사는 작년에 이어 의장직을 1년 연임하게 됐다. &lt;br&gt;&lt;br&gt;서울대 법대 출신인 김 의장은 2001년 창원지법에서 판사를 시작해 서울중앙지법·서부지법 판사, 전주지법·서울중앙지법·동부지법 부장판사 등을 지냈다. 진보 성향 판사들 모임인 국제인권법연구회 창립회원이며 2017년 김명수 전 대법원장이 구성한 ‘사법제도 개혁을 위한 실무준비단’에서 활동했다.&lt;br&gt;&lt;br&gt;부의장에는 이호산(51·34기) 광주고법 고법판사가 선출됐다. 2005년 광주지법에서 임관해 서울중앙지법·북부지법 판사, 광주지방법원 부장판사 등을 지냈다.&lt;br&gt;&lt;br&gt;법관대표회의는 전국 각급 법원의 대표 판사 126명으로 구성된 회의체다. 2017년 양승태 전 대법원장의 ‘사법행정권 남용 의혹’을 계기로 만들어져 2018년 상설화됐다. 사법행정 및 법관 독립에 대해 의견을 밝히거나 건의할 수 있고, 사법행정 담당자에게 설명을 요구할 권한이 있다. &lt;br&gt;&lt;br&gt;법관대표회의는 이날 의장단을 선출하고 이어진 회의에서 분과위원회 구성 등 향후 계획을 논의했다고 밝혔다. 또 법원행정처 담당자에게 지방권 고등법원의 배석판사 전보인사 및 올해 개통한 차세대전자소송 재판사무시스템에 관해 설명을 들었다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>이성배 MBC 아나, 17년 만에 퇴사… “혼란의 길 갈 것”</title>
       <link>https://www.chosun.com/national/people/2025/04/14/VBMHMNX7ARFVRDTDN4HULCR6UE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/people/2025/04/14/VBMHMNX7ARFVRDTDN4HULCR6UE/</guid>
@@ -858,19 +938,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/22QXSZQG6ZEPFETAP4UDZLM3II.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이성배 아나운서가 입사 17년 만에 MBC를 떠난다. /페이스북&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이성배(44) 아나운서가 17년 만에 MBC를 떠난다.&lt;br&gt;&lt;br&gt;이 아나운서는 14일 인스타그램과 페이스북 등 개인 소셜미디어에 글을 써 “오늘 MBC에 마지막 인사를 드린다”며 퇴사 소식을 알렸다. 그는 “17년 전 낯선 출입증 하나를 목에 걸고 처음 방송국에 들어섰던 날이 아직도 선명하다”며 “그리고 오늘 그 출입증을 내려놓는다”고 했다.&lt;br&gt;&lt;br&gt;이어 “MBC는 제게 단순한 직장이 아니었다. 제가 말하는 사람으로, 생각하는 사람으로, 그리고 시대를 전하는 사람으로 살아가게 만든 삶의 터전이었다”며 “수많은 방송의 순간들, 기쁨과 아쉬움이 교차했던 날들, 긴장 속에서 울고 웃었던 동료들과 시청자 여러분 덕분에 오늘의 제가 있음을 잊지 않겠다”고 말했다.&lt;br&gt;&lt;br&gt;그러면서 “지금 저는 그 익숙하고 따뜻했던 자리에서 한 걸음 물러나 혼란의 시대로 뛰어드는 결심을 했다”며 “돌아갈 수 없는 길임을 알면서도 제 삶을 새로운 길에 던져본다”고 했다. 마지막엔 “그 끝에 누군가를 위한 변화의 시작이 있기를 바란다”며 “그 길이 제가 MBC에서 배운 ‘공적인 언어’와 ‘진심의 태도’로 채워지길 희망한다”고 덧붙였다.&lt;br&gt;&lt;br&gt;이 아나운서의 갑작스러운 퇴사에 향후 행보에도 이목이 쏠리고 있다. 앞서 TV조선은 이 아나운서가 홍준표 전 대구시장의 대선 경선 캠프에 합류한다고 보도하기도 했다. 이에 따르면 그는 홍 전 시장 캠프의 대변인을 맡을 예정이다. 이날 출정식을 연 홍 전 시장은 오후 4시부터 대변인 인선 등을 포함한 캠프 인선을 발표한다.&lt;br&gt;&lt;br&gt;2008년 MBC 공채 아나운서로 입사한 이 아나운서는 뉴스와 라디오 등에서 활발히 활동했다. ‘생방송 오늘 아침’ ‘생방송 금요 와이드’ ‘스포츠 매거진’ ‘섹션TV 연예통신’ 등 교양과 스포츠는 물론 ‘진짜 사나이’ 같은 예능에서도 다방면으로 활약했다. &lt;br&gt;&lt;br&gt;2023년엔 비영리 사회적 협동조합 ‘한국데이터정보사회연구소’를 설립해 개인정보 데이터와 보안 문제를 연구해 왔다. 2012년 ‘우리들의 일밤-신입사원’에서 만난 MC 탁예은씨와 결혼해 슬하에 아들 한 명을 뒀으나, 1년여 만에 이혼했다. 이후 이 아나운서는 2022년 네 살 연하의 회사원과 재혼했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title> 북극 공기 품고 왔다, 4월 날씨 역주행 시킨 ‘저기압’ 정체</title>
-      <link>https://www.chosun.com/national/transport-environment/2025/04/14/PWSTNSTQQZBJ3NJEQUVYFXURSE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/04/14/PWSTNSTQQZBJ3NJEQUVYFXURSE/</guid>
-      <dc:creator>정해민 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 14 Apr 2025 05:26:26 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6Q7UKIEYFJMLVOPWXQHPOWICVU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;14일 경남 함양군 백전면의 벚나무에 밤새 내린 눈이 하얗게 쌓여있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;봄을 맞아 벚꽃이 만개한 가운데, 지난 주말 전국에 강풍을 동반한 비와 눈이 내리면서 기상청 관측 이래 처음으로 4월 중순 서울에 눈이 쌓였다.&lt;br&gt;&lt;br&gt;4월 중순에 눈이 내리는 등 요란한 봄 날씨가 우리나라를 찾아온 이유는 북쪽에서 온 차가운 ‘절리 저기압’이 한반도에 영향을 미쳤기 때문이다.&lt;br&gt;&lt;br&gt;절리 저기압은 북극에서 떨어져 나온 찬 공기 덩어리다. 대기 상층에는 지구의 자전 때문에 서쪽에서 동쪽으로 길게 제트 기류가 흐르고 있다. 남북 간의 온도 차이가 줄면 제트 기류가 구불구불하게 흐르게 되는데, 이때 제트 기류 일부가 떨어져 나와 생긴 차가운 저기압이 바로 절리 저기압이다.&lt;br&gt;&lt;br&gt;현재 절리 저기압은 영하 30도 이하의 찬 공기를 수반해 대기 상하층 기온 차를 벌어지게 하고 있다. 이 때문에 대기가 불안정해져 눈과 비가 내릴 때 강풍이 불고 천둥 번개도 치는 것이다.&lt;br&gt;&lt;br&gt;지난 13일 기상청 관측 이래 사상 처음으로 서울에 눈이 쌓였지만, 4월에 내리는 눈이 극히 드문 현상은 아니다. 5년 전인 2020년 4월 22일에는 진눈깨비가 내렸다. 2000년 이후로도 2012년, 2013년, 2018년 4월에도 진눈깨비와 눈이 내렸다.&lt;br&gt;&lt;br&gt;절리 저기압의 영향으로 14일에도 전국이 대체로 흐린 가운데 강풍과 천둥 번개를 동반한 비 또는 눈이 오는 날씨가 이어지겠다. 절리 저기압은 16일 한반도를 빠져나갈 전망이다. 이에 15일부터 전국이 차차 맑아져 16일 대체로 맑겠다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/6Q7UKIEYFJMLVOPWXQHPOWICVU.jpg?width=3266&amp;height=2032&amp;auth=d7f3c647f61d1b403a140e456bb3f145b19e345b6af7b3eba91bd3b9df69c554&amp;smart=true" type="image/jpeg" height="2032" width="3266">
-        <media:description type="plain">14일 경남 함양군 백전면의 벚나무에 밤새 내린 눈이 하얗게 쌓여있다. /연합뉴스</media:description>
-        <media:credit role="author" scheme="urn:ebu">사진부공용</media:credit>
-      </media:content>
-    </item>
-    <item>
       <title>9900원 빵 뷔페에 남겨진 음식 쓰레기들…”직원들 피눈물 난다”</title>
       <link>https://www.chosun.com/national/national_general/2025/04/14/X3LRVVZO2RBJHPTLYRIMLLBLHQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/14/X3LRVVZO2RBJHPTLYRIMLLBLHQ/</guid>
@@ -878,33 +945,6 @@
       <description/>
       <pubDate>Mon, 14 Apr 2025 04:57:14 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SLVUKRW4TVFR7C654IXXXMRMZ4.png"&gt;&lt;figcaption&gt;&lt;small&gt;9900원에 1시간 동안 뚜레쥬르 빵을 무제한으로 먹을 수 있어 '가성비'로 인기를 끌고 있는 'TLJ  그린플레이트'에서 음식물 쓰레기가 너무 많이 발생한다는 지적이 제기됐다. /유튜브 '독거또랭이'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘오픈런’을 해야 할 정도로 인기를 끌고 있는 빵 뷔페에서 버려지는 빵이 수두룩한 것으로 드러났다. 남긴 음식에 대한 규제가 없다 보니 다양한 빵을 가져와 맛만 보고 버리는 이들이 많은 것으로 풀이된다. &lt;br&gt;&lt;br&gt;CJ푸드빌이 운영하는 뚜레쥬르는 신규 콘셉트로 만든 프리미엄 매장 TLJ 강남‧압구정 직영점에서 빵 뷔페 ‘그린 플레이트’를 운영하고 있다. 성인 9900원, 미취학 아동 6900원에 음료 한 잔과 뚜레쥬르의 빵을 1시간 동안 무제한으로 먹을 수 있다. 압구정점은 매일 오전 7시부터 10시까지 선착순 50명을 한정해 손님을 받는데, 오는 30일까지 운영된다. 강남점은 주말 오전 8시부터 11시까지 최대 42팀이 이용할 수 있으며 언제까지 운영될지는 정해지지 않았다. &lt;br&gt;&lt;br&gt;빵 뷔페에서는 유럽 식사빵인 ‘포카치아 존’을 운영하며 크림 가득 모카번, 마담 얼그레이 크림번, 과일 페스트리, 샌드위치 등 뚜레쥬르의 인기 제품을 맛볼 수 있다. 여기에 쪽파 크림 소금 버터롤, 다양한 과일을 이용한 파라다이스 생크림 케이크 시리즈 등 직영점 한정 메뉴도 있다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HJLQIUI3E5FS5CK4SLW7ZM3FSM.png"&gt;&lt;figcaption&gt;&lt;small&gt;TLJ 빵 뷔페 '그린 플레이트'에 진열된 빵들. /유튜브 '영원한 깐부'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;TLJ 빵 뷔페가 ‘가성비’ 이미지로 인기몰이를 하면서 찾는 이들도 많아졌다. 강남점의 경우 오전 4시부터 줄을 서기 시작해 7시에는 이미 선착순 42팀이 마감되는 등 ‘오픈런’이 발생했다. 각종 소셜미디어에도 그린플레이트를 다녀왔다는 이들의 후기가 다수 올라왔다. 구독자 14만여 명을 보유한 빵 전문 유튜버 ‘빵튜브 뽀니’는 지난달 30일 TLJ 강남 직영점에서 웨이팅하는 영상을 올리며 “오전 8시부터 운영되는데 7시부터 줄이 어마어마하게 길어져 이 시간에 오면 늦겠다”고 했다. 유튜버 ‘각궁이의 이색맛집’ 역시 “오전 7시 5분에 웨이팅했는데 11시에나 먹을 수 있었다”고 했다. &lt;br&gt;&lt;br&gt;그러나 버려지는 빵이 너무 많다는 지적도 제기됐다. 유튜버 ‘독거또랭이’는 퇴식구 모습을 보여주며 “무슨 푸드 파괴자들만 모였냐. 골라 먹고, 쑤셔 놓고 손도 안 댄 것들이 허다하다”고 했다. 그는 “좋은 뜻으로 시작한 뷔페, 열심히 하는 직원분들 피눈물 난다”며 “빵이 무슨 죄를 졌냐. 깨끗하게 먹은 접시 인증 좀 하자”고 지적했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2OIT6VB6HNCO7OYUDHTGZOBAEM.png"&gt;&lt;figcaption&gt;&lt;small&gt;9900원 빵 뷔페 퇴식구에 먹다 남은 빵들이 가득 놓여 있다. /유튜브 '독거또랭이'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘빵튜브 뽀니’ 역시 “사람들이 한 입만 먹고 버린 빵이 엄청 많다. 정말 심하게 남기더라”며 “최소한의 규제는 필요하지 않을까 하는 아쉬움이 들었다”고 환경부담금 등 규제의 필요성을 언급했다. &lt;br&gt;&lt;br&gt;먹다 남은 제품은 포장할 수 없는데, 몰래 가방에 넣는 이들을 봤다는 목격담도 나왔다. 유튜브 채널 ‘영원한 깐부’를 운영하는 부부는 “장발장이 있었다. 먹다 남은 거 가져가는 것도 아니고, 그냥 새 빵을 냅킨에 싸서 가방으로 쏙 (넣더라)”고 했다. &lt;br&gt;&lt;br&gt;이와 관련 CJ푸드빌 관계자는 조선닷컴에 “온라인에서 논란이 된 부분에 대해서는 파악하고 있으며 논의를 통해 추후 운영 방침을 정할 예정”이라고 밝혔다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“소고기 원산지 속여 판다”…허위제보한 40대 전직 호텔 조리사 구속기소</title>
-      <link>https://www.chosun.com/national/regional/2025/04/14/4WNR2FNTSVA6VN6ET3EEWZCYF4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/04/14/4WNR2FNTSVA6VN6ET3EEWZCYF4/</guid>
-      <dc:creator>대구=노인호 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 14 Apr 2025 04:59:49 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5TKTRKGXQXCIQMC7HKPXJUKOQU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대구고검, 지검 청사./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;자신이 일했던 5성급 호텔 내 식당에서 ‘소고기 원산지를 속여 판다”며 수사기관과 언론사 등에 허위 제보한 40대 전 호텔 조리사가 구속 기소됐다.&lt;br&gt;&lt;br&gt;대구지검 형사3부(부장 남계식)는 무고, 명예훼손 등의 혐의로 A씨를 구속 기소했다고 14일 밝혔다. &lt;br&gt;&lt;br&gt;A씨는 “호텔에서 수입산 소고기를 한우 1등급이라고 표시해 판매한다”는 허위 진정서를 국민신문고에 접수하고, 단속 시점에 맞춰 호주산 소고기와 한우를 섞어 단속에 적발되도록 한 뒤 이를 언론사에 허위 제보한 혐의를 받고 있다. &lt;br&gt;&lt;br&gt;A씨는 잦은 지각과 여성 실습생 성희롱 등으로 사직권고를 받자 이에 앙심을 품고 이 같은 범행을 저지른 것으로 조사됐다. &lt;br&gt;&lt;br&gt;검찰에 따르면, 이 호텔은 점심 뷔페에는 호주산 육회를, 저녁 뷔페에는 한우 육회를 제공해왔으며, 육회는 미리 10~15일치 절단한 후 냉동 보관해뒀다가 사용했다고 한다. 한식 파트 조리사였던 A씨는 잘라 놓은 소고기의 원산지를 육안으로 구분할 수 없는 점을 노려 단속에 앞서 몰래 섞어 둔 것으로 검찰 조사 결과 드러났다.&lt;br&gt;&lt;br&gt;검찰 관계자는 “호주산 소고기만을 사용하는 점심 뷔페에도 한우가 혼합된 육회가 제공된 사실에 의심을 품고 수사에 들어갔다”며 “무고 사범 등 악의적인 사법 방해 사범에 대해서는 무관용의 원칙에 따라 엄정 대응하여 국가의 형사 사법 기능이 올바르게 작동될 수 있도록 최선을 다하겠다”고 밝혔다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“여성 초급 장교 성폭행 하려했다”...검찰, 공군 대령 구속 기소</title>
-      <link>https://www.chosun.com/national/regional/chungcheong/2025/04/14/GTOEX4UXXVDFDEIKXQWUG5DS54/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2025/04/14/GTOEX4UXXVDFDEIKXQWUG5DS54/</guid>
-      <dc:creator>신정훈 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 14 Apr 2025 04:54:45 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XABPZXTMVNE3DTD7CQA46IUZEE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;청주지검 전경.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;여성 초급 장교를 추행하고 성폭행을 하려 한 공군 대령이 구속 상태로 재판에 넘겨졌다. &lt;br&gt;&lt;br&gt;청주지검은 군형법상 강제추행·강간치상 혐의로 공군 제17전투비행단 소속 A 대령을 구속 기소했다고 14일 밝혔다. &lt;br&gt;&lt;br&gt;A 대령은 지난해 10월 24일 부대 밖에서 부대원과 회식 후 자신을 관사까지 바래다준 초급 장교 B씨를 관사 내에서 성폭행하려다 미수에 그친 혐의를 받는다.&lt;br&gt;&lt;br&gt;그는 또 관사로 이동 전 들른 즉석 사진 부스 안에서 B씨의 신체를 만지고, 이동하면서도 추행을 했던 것으로 조사됐다. A 대령은 조사 과정에서 범행 사실을 모두 부인했다. &lt;br&gt;&lt;br&gt;하지만 B씨는 A씨의 범행에 저항하다 다쳤다며 전치 2주의 진단서를 경찰에 제출했고, 검찰도 추행 장면이 담긴 관사 인근 방범카메라 영상 등을 토대로 피해자의 진술이 신빙성이 있다고 판단한 것으로 전해졌다. &lt;br&gt;&lt;br&gt;사건 이후 공군은 A 대령을 보직 해임했다. 또 재판 결과에 따라 그의 징계 여부를 결정할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“머리카락이 나요” 탈모 치료 효과 속인 식품 광고 무더기 적발</title>
-      <link>https://www.chosun.com/national/welfare-medical/2025/04/14/TX235ZEHZRC2PNGQOK3FKVKPX4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/04/14/TX235ZEHZRC2PNGQOK3FKVKPX4/</guid>
-      <dc:creator>곽래건 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 14 Apr 2025 03:50:51 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/T7SMAYP6K747KJJYW6ZNZF7BPY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;탈모 예방·치료 효과 있다는 불법 광고/식품의약품안전처 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“★탈모 개선★효과 만빵! 500mg 60캡슐 1박스."&lt;br&gt;&lt;br&gt;“먹는 탈모약, 여성용 탈모, 건조 맥주 효모 영양제.”&lt;br&gt;&lt;br&gt;식품의약품안전처가 10일 “탈모 예방·치료나 탈모 증상 개선 효능·효과가 없는데도 마치 있는 것처럼 속인 온라인 광고 게시글 192건을 적발했다”고 밝혔다.&lt;br&gt;&lt;br&gt;식약처에 따르면 식품이나 건강기능식품 중 탈모 예방·치료나 탈모 증상 개선 효능·효과가 인정된 제품은 없다. 그러나 온라인에서는 ‘탈모 예방’, ‘탈모에 좋은’, ‘탈모 개선’ 등으로 광고하며 제품을 파는 사례가 다수 있었다고 한다.&lt;br&gt;&lt;br&gt;식약처 점검 결과 적발된 192건 중 절대 다수인 191건(99.5%)이 탈모 예방·치료에 효능·효과가 있는 것처럼 오인하게 하거나 혼동시키는 광고였다. ‘먹는 탈모약’ 등 의약품이 아닌데 의약품으로 인식하게 만드는 광고도 1건(0.5%) 적발됐다.&lt;br&gt;&lt;br&gt;다만, ‘윤기나 탄력 등 모발상태 개선에 도움’을 주는 개별인정형 건강기능식품 기능성 원료(4종)는 문제가 없는 것으로 인정됐다.&lt;br&gt;&lt;br&gt;식약처는 “탈모치료제 등의 의약품이나 기능성화장품과 달리 식품은 탈모 예방·치료·개선에 도움을 줄 수 있다고 인정받은 기능성 원료나 성분이 없다“며 “온라인으로 식품을 구매할 때 탈모에 대해 검증되지 않은 의학적 효증이나 효과를 내세우는 광고에 ‘혹’하지 말아야 한다”고 했다.&lt;br&gt;&lt;br&gt;식약처는 방송통신심의위원회에 해당 게시물의 차단을 요청하고 관할 지방자치단체에 행정처분 등을 요청했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>尹 첫 형사 재판서 42분간 발언…“내란 그림은 ‘코미디’ 같은 얘기”</title>
@@ -938,24 +978,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FAHARB5LMVAGXMUNAIXI7FSAQ4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 13일에 이어 14일 오전 7시쯤 부산 사상구 감전동 새벽시장 인근 도로에서 지름 3m, 깊이 4m 가량의 싱크홀이 또 발생했다. 싱크홀이 발생한 곳은 사상~하단선 도시철도 공사 현장 인근으로 지난 13일 생긴 사상구 학장동 싱크홀과 200여m 떨어져 있다./부산시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;가로 5m, 세로 3m의 대형 싱크홀이 발생한 부산 사상구에 하루 만인 14일 오전 또 싱크홀이 발견됐다. &lt;br&gt;&lt;br&gt;14일 부산 사상구와 부산시 등에 따르면 이날 오전 7시40분쯤 부산 사상구 감전동 새벽시장 맞은편 도로에 지름 3m, 깊이 4m 싱크홀이 발생했다. 이 싱크홀은 부산도시철도 사상~하단선 시공사 관계자가 순찰 중 발견했다. &lt;br&gt;&lt;br&gt;이날 발견된 싱크홀은 하루 전 생긴 사상구 학장동 싱크홀에서 200여m 떨어진 곳이다. 사상구는 현재 이 도로 중 1개 차선을 통제하고 복구 공사를 진행하고 있다. 사상구 측은 “인명피해나 사고 등은 발생하지 않았다”고 말했다. &lt;br&gt;&lt;br&gt;앞서 지난 13일 오전 5시 30분쯤 사상구 학장동 사상~하단선 공사장 인근 도로에 가로 5m, 세로 3m, 깊이 4~5m로 추정되는 대형 싱크홀이 발생했다. 사상구 등은 4차로 전체를 막고 복구 공사에 들어가 14일 오전 6시 차량 소통을 재개했다.&lt;br&gt;&lt;br&gt;부산시와 사상구 등은 이들 싱크홀에 대한 복구와 함께 발생원인 등에 대한 조사를 벌이기로 했다. 시 관계자는 “싱크홀 발생 원인은 아주 복합적이어서 이들 싱크홀이 뭐 때문에 생겼다고 정확히 얘기하기 어렵다”며 “전문가의 정밀 조사 결과가 나와야 추정할 수 있을 것”이라고 말했다. &lt;br&gt;&lt;br&gt;시에 따르면 싱크홀 원인 조사는 규정상 구덩이 크기 100㎥, 깊이 2m 이상 규모의 경우 국토부와 협의해 조사를 하도록 돼 있다. 시 측은 ”학장동 싱크홀에 대한 조사는 국토부와 협의 중“이라고 말했다. &lt;br&gt;&lt;br&gt;이번 싱크홀 발생으로 사상~하단선 공사장 인근에서 일어난 싱크홀 현상은 작년 이후 10건이 넘는 것으로 알려졌다. 또 통상 싱크홀이 폭우가 온 뒤에 발생해 온 것과 달리 이번 두 사례는 최근 비가 내리지 않았는데도 생겨 시민들을 더 불안하게 하고 있다. &lt;br&gt;&lt;br&gt;때문에 “비가 많이 내려서 그런 것도 아니고 이 도시철도 공사 현장 주변 도로엔 언제 어디서 또 싱크홀이 생길지 모른다는 것이니 더 불안하다”는 얘기들이 나오고 있다. &lt;br&gt;&lt;br&gt;&amp;nbsp;사상~하단선은 부산도시철도 2호선 사상역에서 1호선 사하구 하단역까지 6.9km(7개 정거장)를 연장해 잇는 도시철도다. 내년 말 개통이 목표다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>동료 의원에 장어·돼지고기 선물...최학범·박인 경남도의원 검찰 송치</title>
-      <link>https://www.chosun.com/national/2025/04/14/JEZUKOUQJ5BEDP43TDC2MTVI6U/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2025/04/14/JEZUKOUQJ5BEDP43TDC2MTVI6U/</guid>
-      <dc:creator>창원=김준호 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 14 Apr 2025 02:09:14 +0000</pubDate>
-      <content:encoded>후반기 의장단 선거를 앞두고 동료 의원들에게 금품을 살포했다는 의혹을 받는 최학범 경남도의회 의장과 박인 부의장이 검찰에 송치됐다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/B7VPOAYKUJGOBXVIIB6BMTDQKQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경남도의회. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경남경찰청 반부패경제범죄수사1계는 지난해 6월 제12대 경남도의회 후반기 의장단 선거를 앞두고 동료 의원들에게 금품을 돌린 혐의로, 국민의힘 소속 최 의장(정치자금법 위반)과 박 부의장(뇌물공여)을 각각 검찰에 송치했다고 14일 밝혔다. 최 의장은 제 3자를 거쳤고, 박 부의장은 본인이 직접 보낸 사실이 확인되면서 혐의가 달리 적용됐다.&lt;br&gt;&lt;br&gt;최 의장은 지난해 5월쯤 전직 도의원 A씨와 공모해 현역 경남도의원 18명에게 개당 10만원 상당의 장어 선물 세트를 돌린 혐의를 받는다. 경찰은 최 의장과 공모한 A씨가 자신이 속한 법인 자금으로 금품을 마련한 뒤, 최 의장 이름을 적어 보낸 것으로 판단하고 있다. A씨도 정치자금법 위반 혐의로 검찰에 넘겨졌다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UMWGMJWUOTX7GLOMQ3DN3JCTFA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;최학범 경남도의회 의장. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최 의장은 “A씨의 독자적인 행동으로 자신과는 무관한 일”이라는 취지로 혐의를 부인하는 것으로 전해졌다. 하지만 경찰은 선물 세트가 최 의장 명의로 발송된 점, 후반기 의장 선거를 앞두고 있었던 점 등을 고려해 의장단 선거에서 표를 기대하고 금품을 건넨 것으로 보고, 기소 의견으로 검찰에 송치했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KBKW2I75VRHMZAMKU6YBBA7XTA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;박인 경남도의회 부의장. /경남도의회&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;박 부의장 역시 후반기 의장단 선거를 앞두고 동료 의원 56명에게 1인당 시가 6만원 상당의 돼지고기 선물 세트를 택배로 보낸 혐의를 받는다. 박 부의장은 “통상적이고, 의례적인 선물이었다”며 선거를 염두하고 건넨 것은 아니라는 입장인 것으로 전해졌다. &lt;br&gt;&lt;br&gt;경남도의회는 의원 64명 중 국민의힘이 60명이다. 국민의힘 경선 결과가 의장단 선거 결과로 직결되는 구조다. &lt;br&gt;&lt;br&gt;경찰은 금품을 받은 도의원들에 대해서도 조사했지만, 선거와 관련해 받은 게 아니라고 부인하고 있고, 고의성이 없었다고 보고 불송치하기로 결정했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>이상한 4월 날씨 어떻게 되나...내일부터 차차 맑아져 모레 평년 기온 회복</title>
-      <link>https://www.chosun.com/national/transport-environment/2025/04/14/GY2F3GQGYZD6XHKLOGLHYVIVPA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/04/14/GY2F3GQGYZD6XHKLOGLHYVIVPA/</guid>
-      <dc:creator>정해민 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 14 Apr 2025 01:58:19 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/H6IKC6LDHJJS3HLIH2HYDBSEVU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;14일 서울 종로구 광화문네거리에 비가 내리고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;월요일인 14일 전국 대부분 지역에 비 또는 눈이 내리는 가운데, 15일부터 차차 맑아질 전망이다.&lt;br&gt;&lt;br&gt;14일 기상청은 “내일 전국에 구름이 많다가 차차 맑아진다”며 “새벽까지 강원 영동과 충북 남부, 전라 동부, 경상권, 제주도에 비 또는 눈이 이어지겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;이날 오전 10시 기준 수도권 서부에는 천둥·번개를 동반한 시간당 5mm 안팎의 비가 내렸다. 그 밖 중부 지방과 일부 남부 지방에는 시간당 1mm 미만의 비 또는 눈이 내렸다.&lt;br&gt;&lt;br&gt;15일 새벽까지 예상 강수량은 강원도 5~10mm, 광주·전남, 전북 5~20mm, 부산·울산·경남, 대구·경북, 울릉도·독도 5~20mm, 제주도 5~10mm로 예보됐다.&lt;br&gt;&lt;br&gt;눈, 비, 강풍, 작은 우박 등을 동반한 이례적 4월 중순 날씨는 15일부터 회복될 것으로 보인다. 15일은 전국이 구름 많다가 차차 맑아지겠으며, 16일은 전국이 대체로 맑겠다.&lt;br&gt;&lt;br&gt;15일 기온은 평년(최저 3~10도, 최고 16~21도)보다 3~8도 정도 낮겠으나, 16일부터는 평년과 비슷해질 것으로 전망됐다.&lt;br&gt;&lt;br&gt;기상청은 “오늘과 내일 아침 기온이 전국 대부분 지역에서 0~5도 정도로 낮겠고 바람도 강하게 불어 체감 온도는 더욱 낮아 춥겠으니 건강 관리와 농작물 관리에 유의하기 바란다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>선배 가수도 “혼나야겠네” 저격…인성 논란 아이돌, 결국 사과</title>
       <link>https://www.chosun.com/national/national_general/2025/04/14/PSQPNIDC5RGZ3GUGDC2KEPUFZE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/14/PSQPNIDC5RGZ3GUGDC2KEPUFZE/</guid>
@@ -966,19 +988,6 @@
       <media:content url="https://www.chosun.com/resizer/v2/G5NQJYDISL7KSQVMC473SV24XI.jpg?width=988&amp;height=1352&amp;auth=3818a7c71846814e9f0aa924893840a596e595669ed4bfb1eff24f63648b5edf&amp;smart=true" type="image/jpeg" height="1352" width="988">
         <media:description type="plain">더보이즈 선우 ⓒ News1</media:description>
         <media:credit role="author" scheme="urn:ebu">KwonHyonJin</media:credit>
-      </media:content>
-    </item>
-    <item>
-      <title>尹 전대통령 형사재판 오늘 첫 공판... 법정 내 촬영은 불허</title>
-      <link>https://www.chosun.com/national/court_law/2025/04/14/GSMVBCOLOFBYJBUY3LCU4RA6SI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/04/14/GSMVBCOLOFBYJBUY3LCU4RA6SI/</guid>
-      <dc:creator>김은경 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 13 Apr 2025 15:54:00 +0000</pubDate>
-      <content:encoded>윤석열 전 대통령이 14일 오전 10시 ‘내란 우두머리’ 혐의 사건 첫 공판에 출석한다. 지난 4일 헌법재판소의 탄핵 인용으로 파면된 지 열흘 만이다. &lt;br&gt;&lt;br&gt;서울중앙지법 형사합의25부(재판장 지귀연) 심리로 진행되는 이날 공판에서는 검찰 측 증인인 조성현 수도방위사령부 1경비단장과 김형기 특수전사령부 1특전대대장에 대한 신문이 예정돼 있다. 두 사람 모두 윤 전 대통령이 계엄 당일 “의원들 끌어내라”는 지시를 했는지 확인하기 위한 증인이다.&lt;br&gt;&lt;br&gt;앞서 법원은 윤 전 대통령 측이 요청하는 경우, 지하 주차장을 통해 차량으로 출입하는 것을 허용하기로 했다. 법원은 지난 11일 오후 8시부터 14일 자정까지 일반 차량의 출입을 통제한다. 다른 재판을 받는 사람이나 변호사들도 보안 검색을 거쳐 걸어서 출입해야 한다.&lt;br&gt;&lt;br&gt;윤 전 대통령이 피고인석에 앉아 있거나 발언하는 모습은 공개되지 않을 것으로 보인다. 법원 규칙에는 피고인이 반대하더라도 재판장이 공공의 이익을 위해 상당하다고 판단하면 재판 촬영을 허가할 수 있는데, 이 사건 재판부는 언론사의 법정 내 촬영을 허용하지 않기로 했다. &lt;br&gt;&lt;br&gt;지금까지 재판정에 섰던 전직 대통령 가운데 법정 촬영이 불허된 적은 없다. 1996년 12·12 군사 반란과 뇌물 수수 등 혐의로 기소됐던 전두환·노태우 전 대통령 재판에선 90초 동안 취재진 촬영이 허용됐고, 2017년 박근혜 전 대통령, 2018년 이명박 전 대통령 사건 때도 법정 내 모습이 언론에 공개됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/TRUGEUJOQCWB3LV7O5B7NBWNQM.jpg?width=4136&amp;height=3208&amp;auth=fc7b2c61efe5cac7369fedaf1dc406300db979f1b24f2af8375483e5882a92b5&amp;smart=true" type="image/jpeg" height="3208" width="4136">
-        <media:description type="plain">윤석열 대통령이 4일 헌법재판소가 대통령 탄핵을 만장일치로 인용하면서 파면됐다. 사진은 윤석열 대통령이 지난 2월 13일 헌법재판소 변론기일에 자리한 모습. /뉴스1</media:description>
-        <media:credit role="author" scheme="urn:ebu">뉴스1</media:credit>
       </media:content>
     </item>
   </channel>
