@@ -13,6 +13,24 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>50년된 흙집의 열악한 상황…아이들은 냄새 난다고 따돌림 당했다</title>
+      <link>https://www.chosun.com/national/national_general/2025/04/16/YKJUV5H2W5CMDN3RRESKNEYIOU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/16/YKJUV5H2W5CMDN3RRESKNEYIOU/</guid>
+      <dc:creator>이가영 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 15 Apr 2025 23:08:32 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DZUQYM3GVNCVPCX4J4DRUYHVF4.jpeg"&gt;&lt;figcaption&gt;&lt;small&gt;권성필(55·가명)씨와 10대 쌍둥이 형제가 살던 50년된 흙집의 상태. /이랜드복지재단&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;사고로 한쪽 눈을 실명한 홀아버지 밑에서 자라던 아이들이 학교에서 시작된 관심으로 따뜻한 가정을 되찾은 사연이 전해졌다. &lt;br&gt;&lt;br&gt;16일 이랜드복지재단에 따르면, 권성필(55‧가명)씨와 쌍둥이 수민‧수빈(15) 형제는 작년 여름 돌아가신 할아버지가 살던 경기도 포천의 50년 된 흙집으로 이사 왔다. 벽을 지탱하는 흙은 부서져 내리고, 처마에는 구멍이 숭숭 뚫려 있었다. 쥐들이 드나들고, 노출된 전기선은 언제든 화재를 일으킬 수 있는 위험을 안고 있었다. &lt;br&gt;&lt;br&gt;그러나, 이곳만이 세 사람이 머무를 유일한 보금자리였다. 권씨는 몇 년 전 건설 현장 사고로 한쪽 눈이 실명됐다. 여기에 폐 수술까지 받은 후로는 체력이 크게 저하되어 예전처럼 일을 할 수 없게 됐다. 건설 현장에서 월 10일 정도 일하며 채 100만원도 되지 않는 수입으로 두 아들을 키우려다 보니 월세집도 이들에게는 사치였다. &lt;br&gt;&lt;br&gt;겨울이 되면서 오래된 흙집의 문제는 더욱 커졌다. 전기료 미납금이 500만원을 넘어서며 전기가 끊겼고, 낡은 보일러는 고장 난 상태였다. &lt;br&gt;&lt;br&gt;형제를 더욱 힘들게 만든 건 임시방편으로 만든 화장실이었다. 단열이 되지 않아 입김이 하얗게 서릴 정도였고, 전등도 없어서 밤에 사용하는 건 생각하기도 어려웠다. 수민이는 “주전자에 물을 받아 끓여서 세수했는데, 너무 추워서 그 물마저도 금세 식어버렸다”며 “어두워서 무섭기도 했다. 화장실 가는 게 제일 힘들었다”고 했다. &lt;br&gt;&lt;br&gt;&lt;b&gt;◇아이들의 위기를 눈치챈 담임 선생님의 연락&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZDIFGTUP6ZFNFO4DUNUEE6CLMY.png"&gt;&lt;figcaption&gt;&lt;small&gt;/일러스트=조선디자인랩 정다운&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;씻지 못하는 상황은 아이들의 학교생활에도 큰 지장을 줬다. 친구들은 냄새가 난다며 수민이와 수빈이를 멀리했고, 이로 인해 두 형제는 점점 더 위축되어 갔다. &lt;br&gt;&lt;br&gt;이들의 변화를 처음 감지한 건 형제의 담임 선생님이었다. 친구들과 멀어지고 수업 참여도가 떨어지는 두 형제의 모습이 평소와 달랐기 때문이다. 선생님은 주민센터에 아이들을 도울 방법이 없는지 문의했고, 이는 지역 복지관으로 연계됐다. 학교에서 시작된 관심이 주민센터와 민간단체의 협업으로 이어지는 중요한 계기가 됐다. &lt;br&gt;&lt;br&gt;&lt;b&gt;◇”이제는 웃으면서 빨래도 해요”&lt;/b&gt;&lt;br&gt;&lt;br&gt;가족의 어려운 사정을 접한 이랜드복지재단은 ‘SOS 위고’ 프로그램을 통해 긴급 지원에 나섰다. 우선 200만원으로 전기 요금 미납금 일부를 해결해 전기 공급이 가능하도록 했다. 오랫동안 작동하지 않았던 보일러도 수리했고, 동절기를 버틸 수 있는 임시 생계비도 지원했다. &lt;br&gt;&lt;br&gt;이와 함께 초록우산어린이재단을 통한 아이들의 정기 후원도 이어졌다. 지역 복지관에서는 주말마다 반찬을 지원해주어 권씨와 두 아이가 반찬 걱정 없이 식사할 수 있는 환경이 갖춰졌다. &lt;br&gt;&lt;br&gt;가족의 일상은 놀라울 정도로 달라졌다. 수민이와 수빈이는 매일 씻을 수 있게 됐고, 깨끗한 옷을 입고 학교에 갔다. 친구들과의 관계도 조금씩 회복되기 시작했다. &lt;br&gt;&lt;br&gt;수빈이는 “형이 주말마다 빨래를 하고, 저는 설거지를 도맡아 한다”고 했다. 아이들은 아픈 아버지를 대신해 집안일을 도우며 가족의 정을 키워나가고 있다. &lt;br&gt;&lt;br&gt;수민이는 재단에 보낸 편지에서 “돌아가신 할아버지가 살던 낡고 허름한 집이지만 그래도 아버지와 함께 살 수 있어서 좋다”며 “추운 겨울 따뜻하게 보낼 수 있도록 해주셔서, 그리고 아버지의 걱정을 덜어주셔서 감사하다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>베란다에 18시간 갇힌 할머니…경찰, ‘이것’ 보고 구조했다</title>
+      <link>https://www.chosun.com/national/national_general/2025/04/16/HEQ23TJY3JCGHPZAYSJY63AWUQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/16/HEQ23TJY3JCGHPZAYSJY63AWUQ/</guid>
+      <dc:creator>이가영 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 15 Apr 2025 22:11:20 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DVYC3NHIDJVQ5ZJRTAOOYX5UWE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;12일 서울시 종로구 독립문역 주변의 한 아파트 고층에 옷으로 엮은 줄이 걸려 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울의 한 고층아파트에서 베란다에 나갔다가 문이 잠기는 바람에 고립된 독거노인이 순찰 중이던 경찰관 손에 무사히 구조됐다. &lt;br&gt;&lt;br&gt;종로경찰서는 교남파출소 소속 유재일 경사와 김두태 경장이 지난 12일 오전 10시쯤 종로구 독립문역 주변을 순찰하던 중 인근 아파트 베란다에 갇힌 70대 할머니를 구조했다고 16일 밝혔다. &lt;br&gt;&lt;br&gt;이 할머니는 11일 오후 4시쯤 화분에 물을 주러 베란다에 나갔다가 베란다 출입문이 잠기면서 약 18시간 동안 꼼짝없이 갇히게 됐다. 집이 고층인 데다 인근 도로의 차량 통행 소리에 묻혀 할머니의 구조 요청은 들리지 않았고, 이튿날 새벽에는 눈까지 내려 자칫 저체온증으로 생명이 위험해질 수도 있는 상황이었다. &lt;br&gt;&lt;br&gt;지쳐가던 할머니는 궁여지책으로 옷가지를 엮어 기다란 줄을 만들어 베란다 밖으로 던졌다. 할머니의 필사적인 ‘구조 신호’는 다행히도 순찰 중이던 유 경사와 김 경장의 눈에 띄었다. &lt;br&gt;&lt;br&gt;무슨 일이 있다는 것을 직감한 두 사람은 할머니의 집 위층 베란다로 올라가 추위와 공포에 떨던 할머니의 상태를 확인했다. 곧바로 현관문 비밀번호를 파악해 무사히 할머니를 밖으로 빼냈다. &lt;br&gt;&lt;br&gt;경찰은 “무심코 지나칠 수 있는 구조 신호를 놓치지 않고 신속하게 판단해 생명을 구조한 것이 큰 의미가 있다”며 “지역사회 안전망 구축과 경찰의 세심한 순찰이 얼마나 중요한지 재확인하는 계기가 됐다”고 밝혔다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>광주 기아차 공장 찾아간 한덕수</title>
       <link>https://www.chosun.com/politics/goverment/2025/04/16/OJQR5I4YYVAL5PIZLJK7DQDFV4/</link>
       <guid isPermaLink="true">https://www.chosun.com/politics/goverment/2025/04/16/OJQR5I4YYVAL5PIZLJK7DQDFV4/</guid>
@@ -903,24 +921,6 @@ A씨는 이날 오전 경기 용인시 수지구 아파트 자택에서 80대 �
       <description/>
       <pubDate>Mon, 14 Apr 2025 15:53:00 +0000</pubDate>
       <content:encoded>서울대 교수회가 학생들 적성 발굴을 위해 학과 간 경계가 없는 무전공 선발을 확대하자고 14일 제안했다. &lt;br&gt;&lt;br&gt;서울대 교수회는 이날 발표한 ‘대한민국 교육개혁 제안’에서 “열린 전공(무전공) 선발을 확대해야 한다”며 “특히 학과 단위보다 넓은 계열 단위로 학생을 선발한 뒤 전공을 고르게 하는 ‘광역 선발’이 적절하다”고 했다. &lt;br&gt;&lt;br&gt;개혁안에는 지방거점국립대가 서울대와 지도 교수, 전공 수업 등을 공유하며 학생들이 ‘공동 졸업장’을 받을 수 있게 하자는 제안도 담겼다. 또 대입 과정에서 학생의 선택권을 보장하기 위해 1년에 수능 시험을 3∼4번씩 보고 최고 점수 혹은 점수의 평균치를 입시에 반영하는 방안도 제안했다.&lt;br&gt;&lt;br&gt;이번 개혁안은 서울대 교수들의 자치 단체인 교수회 차원에서 마련됐다. 개혁안에 담긴 내용이 곧바로 정책에 반영되는 것은 아니다. 교수회 관계자는 “개혁안을 실현할 수 있도록 대학 본부와 교육부, 정치권과 협의할 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[부음] 신수현 별세 외</title>
-      <link>https://www.chosun.com/national/national_general/2025/04/15/ZGXEDMOBMNALJBIVUVQT47BMRE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/15/ZGXEDMOBMNALJBIVUVQT47BMRE/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Mon, 14 Apr 2025 15:51:00 +0000</pubDate>
-      <content:encoded>▲&lt;b&gt;신수현 &lt;/b&gt;별세, &lt;b&gt;김우승 &lt;/b&gt;前 한양대 총장·&lt;b&gt;김우경 &lt;/b&gt;가천대 길병원장·&lt;b&gt;김우철 &lt;/b&gt;모친상=14일9시51분 인천 가천대 길병원, 발인 16일8시, (032)460-3444&lt;br&gt;&lt;br&gt;▲&lt;b&gt;임재순 &lt;/b&gt;별세, &lt;b&gt;권태망 &lt;/b&gt;前 국회의원 모친상=13일23시40분 부산의료원, 발인 16일5시30분, (051)607-2990&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[인사] 세계일보 외</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2025/04/15/33IK77VY6NEI3HC7ETY3EK5U44/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2025/04/15/33IK77VY6NEI3HC7ETY3EK5U44/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Mon, 14 Apr 2025 15:51:00 +0000</pubDate>
-      <content:encoded>▲세계일보 ▷편집국 부국장 겸 산업부장 김기동▷외교안보부장 이귀전▷국제부장 강구열&lt;br&gt;&lt;br&gt;▲조선영상비전◇보직·승진▷영상취재1부장 직무대행 민봉기◇보임·승진▷영상취재2부장 조남훈▷사진부장 오종찬◇부장대우 승진▷영상편집부장 직무대행 국차주▷방송영상부 윤일수▷사진부 김영근▷사진부 신현종&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>세계여성법관협회 아시아·태평양 지역이사에 신숙희 대법관 선출</title>
