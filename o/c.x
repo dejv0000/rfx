@@ -13,6 +13,24 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>인천공항, 5월 연휴에 출국장 1시간 일찍 연다</title>
+      <link>https://www.chosun.com/national/transport-environment/2025/04/16/4WKS6KHV55BRPBARW2SAHXJOCA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/04/16/4WKS6KHV55BRPBARW2SAHXJOCA/</guid>
+      <dc:creator>김아사 기자</dc:creator>
+      <description>인천공항이 5월 연휴 기간 출국장을 1시간 일찍 개장하고, 보안 검사 인력을 3배로 늘린다고 밝혔다. 지난 설 연휴 동안 이용객이 몰린 탓에 대기줄이 수십미터에 이르는 등 불편이 커지자 대책을 내놓은 것이다.</description>
+      <pubDate>Wed, 16 Apr 2025 05:07:23 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GGKDOZHVVVVLQVVYYG6P4ZBPNI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 1월 23일 인천국제공항 1터미널 출국장이 이용객들로 붐비는 모습/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천공항이 5월 연휴 기간 출국장을 1시간 일찍 개장하고, 보안 검사 인력을 3배로 늘린다고 밝혔다. 지난 설 연휴 동안 이용객이 몰린 탓에 대기줄이 수십미터에 이르는 등 불편이 커지자 대책을 내놓은 것이다.&lt;br&gt;&lt;br&gt;인천공항은 16일 “4월30일부터 5월 6일 연휴 기간 일 평균 21만1000명이 공항을 이용할 것”이라며 이 같은 내용의 ‘연휴 혼잡 완화 대책’을 발표했다. &lt;br&gt;&lt;br&gt;인천공항은 대기줄이 주로 오전 9시 전에 이어진다는 것을 감안해, 다음 달 1일부터 3일까지 출국장 개장 시간을 1시간 당겨 오전 5시에 열겠다고 밝혔다. 대기줄을 늘린 주범으로 지목된 보안 검색대엔 인력을 평시 인원(17명)의 3배인 56명을 투입하기로 했다.&lt;br&gt;&lt;br&gt;빠른 수속을 도와주는 자동 수하물 위탁(셀프 백드랍) 기기는 기존 144대에서 150대로 늘리고, 기기 사용법을 안내하기 위한 인력도 기존(17명) 보다 늘어난 26명을 배치한다. 주차난을 해결 하기 위해 갓길과 공연장, 헬기장 등을 임시주차장으로 사용해 6331개 주차 면을 늘리기로 했다. 인천공항 관계자는 “5월 성수기 연휴때는 평소와 같이 2~3시간 전에 오면 충분할 것”이라고 했다.&lt;br&gt;&lt;br&gt;한편, 인천공항은 이날 지난 1분기 여객이 전년 동기보다 7.8% 늘어난 1860만6590명을 기록했다고 밝혔다. 이는 역대 최고 수치다. 지역별로 보면 중국(24.1%)과 동북아(16.1%), 미주(10.8%), 일본(10.4%) 등이 증가세를 이끌었다. 운항도 전년 대비 5.47% 늘어난 10만5817회를 기록했다. 올해 국제선 여객은 7303만~7664만명에 이를 것이라고 예측됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>범죄 피해로 퇴사·이직해도 실업급여 받는다...검찰·고용노동부 지침 마련</title>
+      <link>https://www.chosun.com/national/court_law/2025/04/16/YOC3UGUK6RCB5OPKL4NTBIBTHM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/04/16/YOC3UGUK6RCB5OPKL4NTBIBTHM/</guid>
+      <dc:creator>박강현 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 16 Apr 2025 04:51:04 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KWJ7J534YREVPIFN4Z4AW7QUOQ.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초동 대검찰청. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰과 고용노동부가 범죄 피해로 인해 정상적으로 일을 할 수 없는 근로자가 자발적으로 퇴사한 경우에도 ‘정당한 이직 사유’가 인정되면 보다 쉽게 실업급여를 받을 수 있도록 내부 지침을 마련했다.&lt;br&gt;&lt;br&gt;그동안 범죄 피해로 업무 수행이 어려운 경우에도 실업급여 지원이 가능했지만, 직장을 떠나는 등 자발적 퇴사에 해당하는 경우에는 수급 자격 인정에 대한 판단 기준이 명확하지 않아 수급이 제한돼 피해자 지원에 한계가 있다는 지적이 있었다.&lt;br&gt;&lt;br&gt;대검찰청은 고용노동부와 일정한 요건을 갖춘 범죄 피해자의 실업급여 수급 자격에 관해 논의한 뒤 구체적 방안을 마련해 시행 중이라고 16일 밝혔다.&lt;br&gt;&lt;br&gt;우선 대검과 노동부는 범죄 피해자가 자발적으로 퇴사한 경우에도 정당한 이직 사유가 있으면 실업급여를 지급하기로 했다. &lt;br&gt;&lt;br&gt;이러한 정당한 이직 사유가 인정되려면 기본적으로 범죄 피해와 퇴사 간 인과 관계가 있어야 한다. 근무지에서 범죄가 발생하거나 가해자가 직장 동료인 경우 또는 가해자로부터 보복 등 추가 범죄 피해가 우려돼 퇴사한 경우 등이 이에 해당한다. 단순히 범죄 피해가 있다는 것만으로는 정당한 이직 사유가 인정될 수는 없는 것이다.&lt;br&gt;&lt;br&gt;이후 신청자가 제출한 범죄 피해 사실 관련 각종 증빙 자료(공소장, 판결문 등)를 고용센터 담당자가 종합적으로 검토해 정당한 이직 사유에 해당하는지 여부를 판단하는 방식으로 절차가 진행된다.&lt;br&gt;&lt;br&gt;이 과정에서 검찰과 경찰은 피해자들이 이러한 증빙 자료를 위해 고용센터와 수사기관 등을 반복적으로 방문하는 불편을 겪지 않도록 범죄 피해 사실 관련 서류를 직접 고용센터에 제공하기로 했다.&lt;br&gt;&lt;br&gt;앞서 검찰은 지난 2일에는 범죄 피해자가 관련 사건의 사건접수·배당 통지 등 형사 절차 진행 상황을 문자 메시지로 통지받을 수 있도록 시스템을 개선한 바 있다.&lt;br&gt;&lt;br&gt;아울러 피해자의 사건기록 열람·등사권을 강화하고 치료비 지원, 피해자들을 위한 가압류 신청 등 법률 지원을 할 수 있도록 일선 검찰청에 지시하기도 했다.&lt;br&gt;&lt;br&gt;대검 관계자는 “형사절차 단계에서 피해자의 지위를 강화하고, 빈틈없는 피해자 보호·지원이 이뤄질 수 있도록 지속적으로 제도 개선을 추진할 것“이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>정부, 내년 의대 모집 인원 증원 전 3058명으로 동결하기로</title>
       <link>https://www.chosun.com/politics/goverment/2025/04/16/4EQ4SJPGGBEUZOB4RO5JPZQMDY/</link>
       <guid isPermaLink="true">https://www.chosun.com/politics/goverment/2025/04/16/4EQ4SJPGGBEUZOB4RO5JPZQMDY/</guid>
@@ -883,15 +901,6 @@ A씨는 이날 오전 경기 용인시 수지구 아파트 자택에서 80대 �
       <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RR7DC3LADBBITJXGMWUGVWMRDE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;15일 제주에서 김포로 출발 예정이었던 에어서울 항공기의 비상 탈출 슬라이드가 내려오면서 항공기가 활주로에 멈춰있다./독자 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제주국제공항에서 이륙중이던 항공기 안에서 승객이 비상구를 열어 출발이 지연되는 일이 발생했다.&lt;br&gt;&lt;br&gt;15일 오전 8시 15분쯤 제주발 김포행 에어서울 RS902편 항공기가 이륙을 위해 활주로에 진입하던 중 한 30대 여성 승객이 비상구를 열었다. 이로 인해 비상 탈출 슬라이드까지 내려오면서 항공기는 기동 불능 상태가 됐고, 주기장으로 견인돼 결항됐다.&lt;br&gt;&lt;br&gt;이 승객은 ‘답답하다’며 문을 연 것으로 전해졌다. &lt;br&gt;&lt;br&gt;경찰에 따르면 이 승객은 항공기가 이동중 갑자기 달려가서 비상문을 열었다고 했다. 승무원들이 A씨를 현행범으로 체포한 뒤 경찰에 인계했다. 경찰은 “A씨가 정신과 진료를 받은 것으로 조사됐다”며 “항공보안법 위반 혐의로 입건할 예정”이라고 말했다.&lt;br&gt;&lt;br&gt;이 항공기는 오늘 오전 8시 10분 승객 200여 명을 태우고 김포공항으로 출발할 예정이었다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>경찰, ‘작업 중 직원 사망’ 아워홈 용인 공장 압수수색</title>
-      <link>https://www.chosun.com/national/incident/2025/04/15/2BGHN45PXRBBLOLRZ7BCL3FSEY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/04/15/2BGHN45PXRBBLOLRZ7BCL3FSEY/</guid>
-      <dc:creator>김수언 기자, 용인=김현수 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 15 Apr 2025 01:07:26 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZR6KDOCDS5DB4BJVWGH6QWHBMM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 강서구 아워홈 본사./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰이 식자재 유통 및 단체 급식 업체 ‘아워홈’의 용인 공장에서 발생한 작업자 사망 사고와 관련해 15일 압수수색을 진행하고 있다.&lt;br&gt;&lt;br&gt;경기 용인동부경찰서는 이날 오전 9시부터 용인시 처인구 남사읍에 있는 아워홈 용인2공장에 수사관을 보내 압수수색 영장을 집행하고 있다고 밝혔다.&lt;br&gt;&lt;br&gt;경찰은 수사관 10여 명을 투입해 공장에서 이뤄지는 공정 및 안전·보건과 관련 자료, 위험성 평가서 등을 확보하고 있다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “유관 기관과의 합동 감식도 진행한다”고 했다. 감식에는 경찰 과학수사팀과 한국산업안전보건공단, 사고가 난 기계 제작업체 관계자 등이 참여했다.&lt;br&gt;&lt;br&gt;앞서 지난 4일 오전 11시 23분 가공식품 생산 공장인 아워홈 용인2공장 어묵류 생산 라인에서 30대 남성 근로자 A씨가 기계에 목이 끼이는 사고가 났다. A씨는 심정지 상태로 병원으로 이송돼 치료받았으나, 닷새 만인 지난 9일 결국 사망했다.&lt;br&gt;&lt;br&gt;경찰은 업무상과실치사 혐의로 공장장 1명을 형사 입건하고, 본격적인 수사를 진행 중이다.&lt;br&gt;&lt;br&gt;노동부도 산업안전보건법 및 중대재해처벌법 위반 여부에 대한 수사에 착수했다. &lt;br&gt;&lt;br&gt;구미현 아워홈 대표이사는 지난 9일 “유가족께 진심으로 깊은 애도와 위로의 말씀을 드리며, 현장의 동료 직원들에게도 사과와 위로의 말씀을 전한다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>산불 복구는 어떻게… ‘강원 옥계의 실험’에 답이 있다</title>
       <link>https://www.chosun.com/national/transport-environment/2025/04/15/N3QDTVLGLFD4VEI2FJQCZ5MPJ4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/04/15/N3QDTVLGLFD4VEI2FJQCZ5MPJ4/</guid>
@@ -956,15 +965,6 @@ A씨는 이날 오전 경기 용인시 수지구 아파트 자택에서 80대 �
       <description/>
       <pubDate>Mon, 14 Apr 2025 15:53:00 +0000</pubDate>
       <content:encoded>서울대 교수회가 학생들 적성 발굴을 위해 학과 간 경계가 없는 무전공 선발을 확대하자고 14일 제안했다. &lt;br&gt;&lt;br&gt;서울대 교수회는 이날 발표한 ‘대한민국 교육개혁 제안’에서 “열린 전공(무전공) 선발을 확대해야 한다”며 “특히 학과 단위보다 넓은 계열 단위로 학생을 선발한 뒤 전공을 고르게 하는 ‘광역 선발’이 적절하다”고 했다. &lt;br&gt;&lt;br&gt;개혁안에는 지방거점국립대가 서울대와 지도 교수, 전공 수업 등을 공유하며 학생들이 ‘공동 졸업장’을 받을 수 있게 하자는 제안도 담겼다. 또 대입 과정에서 학생의 선택권을 보장하기 위해 1년에 수능 시험을 3∼4번씩 보고 최고 점수 혹은 점수의 평균치를 입시에 반영하는 방안도 제안했다.&lt;br&gt;&lt;br&gt;이번 개혁안은 서울대 교수들의 자치 단체인 교수회 차원에서 마련됐다. 개혁안에 담긴 내용이 곧바로 정책에 반영되는 것은 아니다. 교수회 관계자는 “개혁안을 실현할 수 있도록 대학 본부와 교육부, 정치권과 협의할 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[오늘의 날씨] 2025년 4월 15일</title>
-      <link>https://www.chosun.com/national/national_general/2025/04/15/6U2TNTQFMBC45FFTLAJSGNIBIM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/15/6U2TNTQFMBC45FFTLAJSGNIBIM/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Mon, 14 Apr 2025 15:50:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ENVJXV24HJEQTLIYVNXWG3EHRE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[기자의 시각] 당신의 ‘스웨덴 養親’께 감사 편지를</title>
