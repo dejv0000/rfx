@@ -13,6 +13,84 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>‘사법 행정권 남용’ 항소심, 오는 8월 결심</title>
+      <link>https://www.chosun.com/national/court_law/2025/04/16/RWPRMUJWEFD27NL6QMSOYPYCVQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/04/16/RWPRMUJWEFD27NL6QMSOYPYCVQ/</guid>
+      <dc:creator>김은경 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 16 Apr 2025 09:56:23 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/K42EVVAJKZHS5HOONXLCWRVDUY.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;양승태 전 대법원장(왼쪽부터), 고영한 전 대법관, 박병대 전 대법관. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;양승태 전 대법원장 등의 이른바 ‘사법 행정권 남용’ 사건의 항소심 결론이 이르면 9월에 나올 전망이다.&lt;br&gt;&lt;br&gt;서울고법 형사14-1부(재판장 박혜선)는 16일 양 전 대법원장과 박병대·고영한 전 대법관의 직권남용 등 혐의 재판에서 “오는 8월 20일을 변론 종결 날짜로 정하겠다”고 했다. &lt;br&gt;&lt;br&gt;양 전 대법관은 ‘재판 개입’ ‘판사 블랙리스트’ ‘법관 비위 은폐’ 등 47가지 혐의로 2019년 2월 재판에 넘겨졌다. 1심은 작년 1월 “대법원장이 재판에 개입할 권한은 없고, 권한이 있는 사안에 대해서도 직권을 아예 행사하지 않거나 남용하지 않았다”며 전부 무죄를 선고했다. 함께 재판에 넘겨진 두 대법관도 무죄를 선고받았다.&lt;br&gt;&lt;br&gt;이날 공판에서는 양 전 대법원장과 두 대법관의 변호인들의 구두 변론이 이어졌다. 양 전 대법원장의 변호인은 검찰이 핵심 증거인 임종헌 전 법원행정처 차장의 이동식 저장 장치(USB)을 압수하는 과정과 법원행정처가 임의 제출한 증거 등이 위법하게 수집됐다고 했다. &lt;br&gt;&lt;br&gt;진보 성향 판사 모임인 국제인권법연구회 소속 판사들을 탈퇴하도록 했다는 혐의에 대해 양 전 대법관 측은 1심 재판 당시 법정 증언을 인용해 “(모임을) 없애자는 것이 아니라 법관이 집단적으로 외부에 의사 표현을 하는 것에 있어 기준을 마련하고 문제가 발생하지 않도록 하라는 의미였다는 증언이 있었다”고 했다.&lt;br&gt;&lt;br&gt;박 전 대법관 변호인은 재임 시절 일부 판사들을 ‘물의 야기 법관’으로 별도 관리하면서 다른 법원으로 발령한 혐의에 대해서 “법원 조직법에 따른 인사 범위에 해당한다”며 “개별 판사들이 어떤 특정 보직에 갈 권리가 있는 것도 아니다”라고 했다.&lt;br&gt;&lt;br&gt;양 전 대법원장 등에 대한 다음 공판은 6월 11일에 열릴 예정이다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>워크아웃·회생절차 동시에...서울회생법원 ‘K-구조조정’ 제도 도입</title>
+      <link>https://www.chosun.com/national/court_law/2025/04/16/JKJPIIZZARAIXIEV4UGQM5FDEQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/04/16/JKJPIIZZARAIXIEV4UGQM5FDEQ/</guid>
+      <dc:creator>김은경 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 16 Apr 2025 09:15:58 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3HWSMBXGFOKHYYO4H77VAWT5FE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울회생법원 전경.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울회생법원이 내달부터 ‘예방적 자율구조조정(Pre-ARS)’ 제도를 실시한다. 기존 워크아웃(기업 재무 구조 개선작업)과 회생 절차를 결합한 ‘하이브리드 구조조정’도 도입한다.&lt;br&gt;&lt;br&gt;서울회생법원은 이날 서울 서초구 서울회생법원에서 ‘기업회생 제도개선 설명회’를 열고 이같은 차세대 구조조정 제도를 내달 1일부터 시범 실시한다고 밝혔다.&lt;br&gt;&lt;br&gt;Pre-ARS는 기업이 회생절차 개시를 신청하기 전 비공개로 금융기관 등 주요 채권자와 협상할 수 있도록 조정 절차를 열어주는 제도다. 핵심은 위기 초기에 기업 재정 상태를 시장에 노출하지 않고 비공개로 진행하는 것이다.&lt;br&gt;&lt;br&gt;이 같은 예방적 제도를 마련한 것은 법원에 기업회생절차 개시를 신청하는 것만으로 이미 도산기업이라는 낙인이 찍혀 거래처나 고객이 이탈하는 등 정상적인 사업이 어려워지는 경우를 막기 위해서다. 낙인 효과가 두려워 회생 신청을 주저하다가 기업을 살릴 ‘골든 타임’을 놓치고 연명이 어려운 지경에 이르는 경우가 많다는 것이 서울회생법원의 설명이다. &lt;br&gt;&lt;br&gt;기업 구조조정에서 예방 절차를 도입하거나 법원 안팎의 제도를 결합하는 방식의 하이브리드는 세계적인 추세라고 서울회생법원은 밝혔다. 미국의 구조조정지원약정(RSA) 제도가 대표적이다. 글로벌 렌터카 업체인 ‘허츠’ 와 유명 화장품 기업인 ‘레브론’ 등이 RSA를 통해 구조조정을 성공적으로 진행했다.&lt;br&gt;&lt;br&gt;구체적으로는 법원의 조정 절차를 활용한다. 재정적으로 빚을 갚기 어려운 상황에 처한 기업이 서울회생법원에 조정 신청을 하면, 법원은 비공개로 조정기일을 열어 기업과 주요 채권자가 변제 기간을 연장하거나 금리를 낮추는 등 ‘채무 조정’을 할 수 있도록 한다. 이 과정에서 필요하면 기업 부담으로 채권자들을 위한 자문 담당 법무법인이나 회계법인 등 전문가를 선임할 수도 있다.&lt;br&gt;&lt;br&gt;서울회생법원은 기존 워크아웃과 회생절차를 결합한 형태의 ‘하이브리드 구조조정’ 제도도 함께 시행한다고 밝혔다. 기업이 워크아웃을 진행하는 동안에도 법정관리를 받을 수 있도록 하는 새로운 방식이다. 법원은 워크아웃에 돌입한 기업에 대해 채권자가 재산을 강제집행할 수 없도록 포괄적 금지명령을 내리고, 포괄적 영업 허가로 기업이 정상 영업을 유지할 수 있도록 지원한다. 기업은 금융채권을 조정하고 신규 자금을 유치는 워크아웃에 집중할 수 있게 된다.&lt;br&gt;&lt;br&gt;Pre-ARS를 통해 합의가 이뤄지지 않은 경우에는 P플랜(사전회생계획안)이나 워크아웃, 하이브리드 구조조정 등 자율적으로 선택해 구조조정을 이어갈 수 있다. 정준영 서울회생법원장은 “워크아웃과 회생절차의 장점을 결합한 ‘K-구조조정’ 제도가 탄생할 것”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘선우은숙 친언니 강제추행’ 유영재 “많이 반성했다”…검찰, 2심도 징역 5년 구형</title>
+      <link>https://www.chosun.com/national/national_general/2025/04/16/BHZATXSRPNBYLNJR5POMKVKQ5M/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/16/BHZATXSRPNBYLNJR5POMKVKQ5M/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 16 Apr 2025 09:47:30 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MRCEHKHW2BA7XCWJCJFZ7YBH4U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;배우 선우은숙과 방송인 유영재. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;배우 선우은숙(66)의 전 남편인 아나운서 출신 방송인 유영재(62)가 선우은숙 친언니 강제추행 혐의로 1심에 이어 항소심에서도 징역 5년을 구형받았다. &lt;br&gt;&lt;br&gt;16일 수원고법 형사2-3부(박광서 김민기 김종우 고법판사) 심리로 열린 유영재의 성폭력범죄의 처벌 등에 관한 특례법 위반(친족관계에 의한 강제추행) 혐의 사건 항소심 결심공판에서 검찰은 이 같은 형을 선고해 달라고 재판부에 요청했다.&lt;br&gt;&lt;br&gt;1심 재판부는 지난 1월 23일 유영재에게 징역 2년 6월 및 40시간 성폭력 치료 프로그램 이수, 아동·청소년·장애인 관련 기관에 5년간 취업 제한을 선고했다. 유영재는 불구속 상태로 재판을 받아오다 1심 선고 직후 법정 구속됐다.&lt;br&gt;&lt;br&gt;유영재는 최후 진술에서 “고통스러워하고 있을 피해자에게 머리 숙여 깊이 사과드린다. 교도소에서 많이 반성했다”며 “한순간 그릇된 판단으로 이렇게 온 것에 대해 반성하고 있다”고 말했다.&lt;br&gt;&lt;br&gt;유영재는 2023년 5회에 걸쳐 선우은숙 친언니에게 불미스러운 신체 접촉을 하는 등 강제추행한 혐의를 받는다.&lt;br&gt;&lt;br&gt;선우은숙과 유영재는 2022년 만나 기독교 신자라는 공통 분모를 통해 인연을 맺은 것으로 알려졌다. 이들은 만난 지 8일 만에 결혼을 약속한 뒤 두 달 만에 혼인신고를 해 법적 부부가 됐다고 밝혀 화제가 됐었다. 이후 지난해 4월 이혼했다.&lt;br&gt;&lt;br&gt;현재 선우은숙 측이 제기한 혼인 취소 소송은 이 사건과 별개로 진행 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[속보] 헌재, ‘韓대행 헌법재판관 지명’ 효력정지 가처분 만장일치 인용</title>
+      <link>https://www.chosun.com/national/court_law/2025/04/16/CANGJ626B5DBZNI63CERE36ATQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/04/16/CANGJ626B5DBZNI63CERE36ATQ/</guid>
+      <dc:creator>박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 16 Apr 2025 09:05:12 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/27PJMYNXYJBHXKQSGWCM5PE3OE.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;한덕수 대통령 권한대행 국무총리가 14일 서울 종로구 정부서울청사에서 열신 국무회의에서 의사봉을 두드리고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;헌법재판소가 16일 한덕수 대통령 권한대행에 대한 ‘헌법재판관 후보자 지명’ 효력 정지 가처분 신청을 만장일치로 인용했다. 지난 8일 한 권한대행이 이완규 법제처장과 함상훈 서울고법 부장판사를 대통령 몫 헌법재판관 후보자로 지명한 지 8일 만이다. 이로써 한 권한대행의 재판관 지명 및 임명 절차는 본안 판단이 나올 때까지 중단된다.&lt;br&gt;&lt;br&gt;헌재는 법무법인 도담 김정환 변호사가 낸 ‘권한대행의 대통령 몫 재판관 지명에 관한 효력정지 가처분 신청’을 이날 인용하면서, “대통령의 권한을 대행하는 국무총리가 재판관을 지명·임명할 권한을 행사할 수 있다고 단정할 수 없다”고 했다.&lt;br&gt;&lt;br&gt;또 “한 권한대행이 재판관을 지명·임명한다면 ‘헌법과 법률이 정한 자격과 절차’에 의해 임명된 ‘재판관’이 아닌 사람에 의해 재판을 받게 돼 재판받을 권리를 침해할 수 있다”고 했다.&lt;br&gt;&lt;br&gt;한 권한대행이 이·함 후보자를 지명함으로써 사실상 임명 절차가 개시됐고, 이를 저지하지 않으면 두 후보자가 가까운 시일 내 재판관으로 임명될 가능성이 높다는 점도 언급했다.&lt;br&gt;&lt;br&gt;헌재는 “한 권한대행이 후보자를 재판관으로 임명하고 나면, 적시에 후보자의 재판관 지위를 다투거나 심리에 관여하는 것을 막을 수 있을지 불분명하다”면서 “후보자가 관여해 종국 결정이 선고되는 경우 재심이 허용되지 않을 가능성도 존재한다”고 했다.&lt;br&gt;&lt;br&gt;아울러 “한 권한대행에게 재판관을 지명·임명할 권한이 없다면 임명 행위로 인해 헌법 재판 사건의 모든 당사자들의 재판을 받을 권리가 침해될 수 있다”고 했다.&lt;br&gt;&lt;br&gt;이어 “만약 가처분이 기각됐다가 (추후) 이 사건 헌법소원 심판 청구가 인용될 경우, 후보자가 재판관으로서 관여한 헌재 결정 등의 효력에 의문이 제기되는 등 헌재의 심판 기능 등에 극심한 혼란이 발생하게 된다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/27PJMYNXYJBHXKQSGWCM5PE3OE.JPG?width=1164&amp;height=754&amp;auth=c4b701c8cecebd0ef123876e2f062a2760b130a424d7f497176d265f608fe965&amp;smart=true" type="image/jpeg" height="754" width="1164">
+        <media:description type="plain">한덕수 대통령 권한대행 국무총리가 14일 서울 종로구 정부서울청사에서 열신 국무회의에서 의사봉을 두드리고 있다. (총리실 제공, 재판매 및 DB 금지) 2025.4.14/뉴스1 ⓒ News1 임세영 기자</media:description>
+        <media:credit role="author" scheme="urn:ebu">뉴스1 ⓒ News1 임세영 기자</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>“정상 국가 회복 위해 대선서 승리해야”… 유정복 시장, 오세훈 시장과 차담회</title>
+      <link>https://www.chosun.com/national/national_general/2025/04/16/QXY3CU7J3RGENINHFNAJ7432CA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/16/QXY3CU7J3RGENINHFNAJ7432CA/</guid>
+      <dc:creator>이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 16 Apr 2025 08:54:34 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IXN4IILGALZ7P7SFFAXSTO6XS4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;유정복 인천시장(사진 오른쪽)이 16일 오세훈 서울시장을 만나 사진을 촬영하고 있다./ 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국민의힘 대통령 후보 경선에 나선 유정복 인천시장은 16일 오세훈 서울시장을 만나 “대한민국을 정상적인 국가로 회복시키기 위해 대선에서 승리해야 한다”고 강조했다. &lt;br&gt;&lt;br&gt;유 시장은 이날 서울시청에서 오 시장과 차담회를 갖고 “수도권에서 이겨야만 대한민국에서 이길 수 있고, 국민을 위한 올바른 국가 정책을 펴나갈 수 있다”며 이같이 말했다. &lt;br&gt;&lt;br&gt;오세훈 시장은 3선 국회의원에 이어 인천시장으로 두 번째 재직하며 쌓은 정치‧현장 감각 등이 향후 국가 운영을 위한 큰 자산이 될 것이라고 화답했다. &lt;br&gt;&lt;br&gt;유 시장과 오 시장은 서울시의 민생 복지정책인 ‘디딤돌 소득’과 저소득층 교육정책인 ‘서울런’ 등 정책의 전국 확대 방안에 대해서도 논의하며 공감대를 형성했다. &lt;br&gt;&lt;br&gt;유 시장은 이후 기자들과 만난 자리에서 ‘윤보명퇴(윤석열은 보내고, 이재명은 퇴출하자)’를 강조하며 국민의힘의 쇄신 필요성을 언급했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>강릉 주택 공사현장서 60대 컨테이너에 깔려 숨져</title>
+      <link>https://www.chosun.com/national/incident/2025/04/16/3UX2HGKTKVH4XCN5U2JAGGFY4U/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/04/16/3UX2HGKTKVH4XCN5U2JAGGFY4U/</guid>
+      <dc:creator>강릉=정성원 기자</dc:creator>
+      <description>16일 오후 1시 51분쯤 강원 강릉시 죽헌동 한 이동식 주택 공사현장에서 A(61)씨가 주택용 컨테이너에 깔려 숨졌다.
+이날 사고는 주택용 컨테이너를 크레인으로 이동하던 중 발생했으며 바람에 의해 균형을 잃고 넘어진 컨테이너가 A씨를 덮쳤다.
+</description>
+      <pubDate>Wed, 16 Apr 2025 08:58:48 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FFGDX4YTHFHDLKQMSEPZ25UHCU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;16일 오후 강원 강릉시 죽헌동 한 이동식 주택 공사 현장에서 크레인으로 이동하던 주택용 컨테이너가 근로자를 덮쳤다./강원소방본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;16일 오후 1시 51분쯤 강원 강릉시 죽헌동 한 이동식 주택 공사현장에서 A(61)씨가 주택용 컨테이너에 깔려 숨졌다.&lt;br&gt;&lt;br&gt;이날 사고는 주택용 컨테이너를 크레인으로 이동하던 중 발생했으며 바람에 의해 균형을 잃고 넘어진 컨테이너가 A씨를 덮쳤다.&lt;br&gt;&lt;br&gt;경찰은 목격자 등을 상대로 정확한 사고 경위를 조사 중이다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>법원, 뉴진스 이의신청 기각…‘독자활동 금지’ 유지</title>
+      <link>https://www.chosun.com/national/court_law/2025/04/16/UKFCJOJSOVEGZIJRC2K7NS46MY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/04/16/UKFCJOJSOVEGZIJRC2K7NS46MY/</guid>
+      <dc:creator>박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 16 Apr 2025 08:39:05 +0000</pubDate>
+      <content:encoded>걸그룹 뉴진스 멤버들이 독자적인 연예계 활동을 금지한 법원 결정에 불복해 이의신청을 냈지만 받아들여지지 않았다. 뉴진스는 소속사 어도어와 전속계약 분쟁을 벌이고 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FFOUZVASHEJNNB4PFKZ56DE2CM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;그룹 뉴진스(왼쪽부터 혜인, 하니, 해린, 다니엘)가 지난달 7일 서울 서초구 서울중앙지방법원에서 어도어 측이 멤버들을 상대로 제기한 ‘기획사 지위보전 및 광고계약 체결 등 금지’ 가처분 첫 심문기일을 마친 후 법원을 나서고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지법 민사50부(재판장 김상훈)는 16일 뉴진스 멤버들이 낸 가처분 이의신청을 기각했다.&lt;br&gt;&lt;br&gt;앞서 법원은 지난달 21일 어도어가 뉴진스 멤버들을 상대로 낸 ‘기획사 지위 보전 및 광고 계약 체결 금지’ 가처분 신청을 전부 인용했다. 이에 뉴진스 측은 같은 날 곧바로 재판부에 이의신청을 제기했다.&lt;br&gt;&lt;br&gt;앞서 뉴진스 멤버들은 모회사인 하이브가 어도어의 대표였던 민희진씨를 해임하면서 음반 제작에 공백이 생긴 점 등을 이유로, 지난해 11월 어도어 측에 전속계약 해지를 통보했다. 어도어가 전속계약상 의무를 위반해 신뢰 관계가 파탄났다는 취지다.&lt;br&gt;&lt;br&gt;이후 뉴진스 멤버들은 이름을 바꾸고 어도어에게서 벗어나 독자적인 연예계 활동을 시작했다. 그러나 법원이 어도어가 “뉴진스의 광고 계약 체결 등 독자적인 활동을 금지해달라”며 낸 가처분 신청을 받아들이면서 활동에 제동이 걸렸다.&lt;br&gt;&lt;br&gt;만약 뉴진스 멤버들이 이의신청 기각 결정에 불복한다면 법원에 항고를 제기할 수 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>한달만에 노인 수백명 운전면허 자진반납…‘파격 혜택’ 뭐길래</title>
+      <link>https://www.chosun.com/national/national_general/2025/04/16/4WALAL5RNBHZXDHTTUM566QSI4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/16/4WALAL5RNBHZXDHTTUM566QSI4/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 16 Apr 2025 08:45:23 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AIL4NFMBYMYNQ6SRFNCZG57ZFM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 2020년 서울 광화문광장에서 고령 운전자 면허증 자진반납 퍼포먼스를 하고 있다. /고성민 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;울산 울주군이 운전면허 반납 시 고령 운전자에게 제공하는 혜택을 대폭 확대해 한 달 만에 수백 명의 노인이 자발적으로 운전면허를 반납했다고 밝혔다.&lt;br&gt;&lt;br&gt;16일 울주군에 따르면, 울주군은 올해 신규 시책으로 65세 이상 고령 운전자가 운전면허를 자진 반납하면 온누리상품권 40만원을 지급했다. 울산시가 제공하는 10만원 상당 교통카드를 포함하면 총 50만원의 혜택을 받을 수 있는 것이다.&lt;br&gt;&lt;br&gt;사업 시행 이후 지난 3월 한 달간 인센티브 지급 실적은 총 410건을 기록해 지난해 전체 실적인 358건을 초과했다. 읍면별 배부 수량 450개 중 91.1%가 소진됐으며, 특히 범서읍, 언양읍, 온양읍 등 6개 읍면은 배부된 물량을 모두 지급했다. 연령별 비중을 살펴보면 70세 이상 운전면허 반납자가 78%로 가장 많았다. &lt;br&gt;&lt;br&gt;최근 70대 이상 고령 운전자가 몰던 차량에서 교통사고가 빈번하게 발생했는데 고령자 면허 반납으로 교통사고 발생을 사전에 예방하는 효과를 거둘 것이란 평가가 나온다. &lt;br&gt;&lt;br&gt;울주군은 고령 운전자 운전면허 자진 반납 인센티브가 조기 소진됨에 따라 추경을 통한 온누리상품권 추가 확보에 나섰다.&lt;br&gt;&lt;br&gt;또한 최대한 많은 수량의 교통카드를 배정받을 수 있도록 울산시에 교통카드 추가 확보 협조를 요청했다.&lt;br&gt;&lt;br&gt;울주군은 운전면허 자진 반납 유도와 함께 운전이 어려운 노인이 보다 안전한 환경에서 생활할 수 있도록 교통 지원 정책을 강화할 방침이다. 운전면허 반납자뿐만 아니라 전체 고령층의 이동 편의를 고려해 오는 9월부터 65세 이상 노인을 대상으로 시내버스 요금 지원 사업 등을 추진한다.&lt;br&gt;&lt;br&gt;울주군 관계자는 “인센티브가 조기에 소진될 정도로 고령 운전자의 면허 반납에 대한 관심이 높은 만큼 향후 수요를 충분히 반영한 추가 지원에 나서겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>[단독] 마약 투약 집유 중 약물운전...벽산그룹 3세 불구속 기소</title>
       <link>https://www.chosun.com/national/court_law/2025/04/16/BHT7QIHQNBFHTKORWXUAYSRFHU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/04/16/BHT7QIHQNBFHTKORWXUAYSRFHU/</guid>
@@ -887,75 +965,6 @@ A씨는 이날 오전 경기 용인시 수지구 아파트 자택에서 80대 �
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6PRX55PZ4FPZ5OAFZMW2H3NY6M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;배우 김수현이 지난 31일 오후 서울 마포구 한 호텔에서 배우 고 김새론이 미성년자이던 시절 교제했다는 의혹에 대해 반박하는 기자회견을 하고 있다. /연합뉴스 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;배우 김수현 측이 온라인상에 확인되지 않은 주장을 퍼뜨린 악플러와 사이버 레커 등을 명예훼손죄와 모욕죄로 고소했다고 밝혔다. &lt;br&gt;&lt;br&gt;소속사 골드메달리스트는 15일 “최근 당사 소속 아티스트 김수현 씨를 향한 악의적 게시글과 댓글, 허위 사실 등이 온라인상에 무분별하게 게시 및 확산되고 있다”며 “당사는 이러한 악질적 행위에 대해 팬분들의 적극적인 제보와 자체 모니터링을 바탕으로 전날 정보통신망법상 명예훼손죄 및 형법상 모욕죄 혐의로 수사기관에 고소장을 제출했다”고 했다. &lt;br&gt;&lt;br&gt;소속사는 “익명이라는 점을 이용해 가짜 뉴스를 만들고 사이버 불링을 초래하는 영상 및 숏츠를 제작하는 ‘사이버 레커’의 행태도 심각하다”며 “최근 사이버 렉카의 신원이 밝혀지고 법적 대응이 이뤄지고 있는 만큼 당사 역시 유튜브와 X와 같은 해외 플랫폼에 대해서도 해외 법률 대리인과 연계하여 강경 대응할 것”이라고 했다. 아울러 “아티스트의 명예를 훼손하는 악성 게시물들에 추가 고소를 이어나갈 예정”이라고 했다. &lt;br&gt;&lt;br&gt;앞서 김수현이 고(故) 김새론이 미성년자이던 시절부터 교제했다는 의혹이 제기됐다. 김수현은 교제 사실을 부인하다 지난달 31일 직접 긴급 기자회견을 열고 “고인이 미성년자이던 시절엔 사귀지 않았고, 고인이 성인이 된 2019년부터 1년여간 교제했다”고 밝혔다. &lt;br&gt;&lt;br&gt;하지만 유족 측이 유튜브 채널 가로세로연구소를 통해 김수현의 주장을 반박하는 사진과 영상 등을 지속적으로 공개하면서 논란은 지속됐다. &lt;br&gt;&lt;br&gt;김수현은 의혹을 제기한 김새론 유족 측과 가세연을 정보통신망 이용 촉진 및 정보 보호 등에 관한 법률 위반 등으로 고소하고, 110억원의 손해배상청구 소송을 제기한 상태다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>석촌호수에 지름 7m 빛 조각품 ‘더 스피어’, 23일 완공</title>
-      <link>https://www.chosun.com/national/national_general/2025/04/15/X4QE7LAAOFBVDPCJZJN5J3NXWA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/15/X4QE7LAAOFBVDPCJZJN5J3NXWA/</guid>
-      <dc:creator>박진성 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 15 Apr 2025 05:43:48 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7N2N4GR4LBC4BMZTPW5JQVSTKI.jpeg"&gt;&lt;figcaption&gt;&lt;small&gt;석촌호수에 놓일 더 스피어의 모습/송파구&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 송파구는 석촌호수에 미디어아트 빛 조각품인 ‘더 스피어(The Sphere)’가 23일 완공된다고 15일 밝혔다. &lt;br&gt;&lt;br&gt;특수 곡면형 LED 디스플레이로 제작한 지름 7ｍ의 구(球) 형태다. 4K 해상도의 고화질이며, 3096개 LED 패널로 구성됐다. 송파구 관계자는 “햇빛 아래서도 선명하게 작품을 볼 수 있을 것”이라고 말했다.&lt;br&gt;&lt;br&gt;더 스피어는 총 27종의 미디어아트 콘텐츠를 표출한다.&lt;br&gt;&lt;br&gt;▲현재 날씨·시각을 이미지로 표현한 기본화면 ▲평화의 문, 더 트로피 등 송파 명소를 보여주는 워킹 투게더 ▲석촌호수의 사계 ▲송파구 캐릭터 하하호호 이모지 ▲화성, 목성 등 행성이 땅 위에 내려앉은 듯한 태양계 시리즈 ▲명화 시리즈 ▲한글날 등 각종 기념일 시리즈 등 예술성 있고 다채로운 영상이 시선을 사로잡는다.&lt;br&gt;&lt;br&gt;관람객과 소통하는 양방향 콘텐츠도 마련된다. 키오스크로 사진을 촬영하면 유화, 웹툰, 동양화 등 화풍으로 변환된 사진이 둥근 화면에 떠오른다. 당일 결과물들은 야간에 콜라주 형태로 별도 전시된다. 청년 작가 참여 등을 통한 콘텐츠 개발도 검토 중이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ERF5VI7EGZB6FHKFBJM53U247A.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;석촌호수에 놓일 더 스피어의 모습/송파구&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;오전 9시부터 오후 10시까지 가동되고 향후 변동될 수 있다. 마지막 1시간은 그날 방문객들의 체험 결과물을 표출해 도심 밤 감성을 더할 예정이며, 체험자들의 개인정보 데이터는 즉시 파기된다.&lt;br&gt;&lt;br&gt;준공에 앞서 송파구는 시설 주변을 꽃이 있는 쉼터 ‘더 스피어 가든’으로 단장 중이다. 오는 21일에는 외국인 인플루언서를 특별 초청한 투어를 진행해 전 세계에 홍보할 계획이다.&lt;br&gt;&lt;br&gt;서강석 구청장은 “더 스피어는 높은 기술력과 예술성의 결정체”라며 “더 스피어를 감상하시고 송파대로 가로정원을 걸어 가락시장까지 즐겨 보시길 바란다”라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>경제적 지원 요구 거절한 부모…앙심 품고 불 지른 30대女, 유죄</title>
-      <link>https://www.chosun.com/national/court_law/2025/04/15/UJBCZFEP6VAUPGMTLLXO67RQGQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/04/15/UJBCZFEP6VAUPGMTLLXO67RQGQ/</guid>
-      <dc:creator>인천=이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 15 Apr 2025 05:43:45 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HEBVOC2PXCVQGNNKW2ODXHWJKU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원 로고./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경제적인 도움을 달라는 요구를 거절했다는 이유로 부모의 집에 불을 지른 30대 여성에게 징역형의 집행유예가 선고됐다. &lt;br&gt;&lt;br&gt;인천지법 형사13부(재판장 김기풍)는 현주건조물방화 혐의로 기소된 A(여‧37)씨에 대해 징역 2년에 집행유예 3년을 선고했다고 15일 밝혔다.&lt;br&gt;&lt;br&gt;재판부는 또 A씨에게 보호관찰을 받을 것과 80시간의 사회봉사, 40시간의 정신심리치료강의 수강 등을 명령했다. &lt;br&gt;&lt;br&gt;A씨는 지난 2월 15일 오후 3시 48분쯤 부모가 사는 인천시 계양구의 3층짜리 단독주택 1층 사무실 공간에 불을 지른 혐의로 기소됐다.&lt;br&gt;&lt;br&gt;그는 미리 준비한 휘발유 2L를 뿌린 뒤 라이터로 불을 붙여, 사무실 60㎡와 집기류 등을 태웠다. 피해액은 소방서 추산 638만원 규모로 파악됐다. &lt;br&gt;&lt;br&gt;A씨는 허리디스크 치료비와 이혼 소송 비용 등을 어머니 B씨에게 요구했으나 거절당하자 앙심을 품고 범행한 것으로 조사됐다. &lt;br&gt;&lt;br&gt;재판부는 “자칫하면 다수의 생명과 재산에 중대한 피해를 발생시킬 위험성이 있었다는 점에서 죄질이 좋지 않다”며 “이 사건 방화로 인해 구급차와 소방차 여러 대가 현장으로 출동하였고, 큰 사고로 이어질 수 있었던 위험성이 큰 범행이었다는 점에서 피고인의 죄책도 무겁다”고 했다. &lt;br&gt;&lt;br&gt;이어 “다만 피고인이 반성하는 점, 벌금형 외에 형사처벌 전력은 없는 점, 피해자들이 피고인의 처벌을 원하지 않는 점 등을 고려했다”고 양형 이유를 설명했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>제주항공 참사 유족들 “수사 지지부진” 전남경찰 항의 방문</title>
-      <link>https://www.chosun.com/national/national_general/2025/04/15/QB6TULEA2RDHHO4CZ47NUWR3HY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/15/QB6TULEA2RDHHO4CZ47NUWR3HY/</guid>
-      <dc:creator>무안=진창일 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 15 Apr 2025 05:13:05 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/M6NYSAMJ45GU3GABGJX3KMXUIE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난해 12월 30일 ‘제주항공 참사’가 발생한 전남 무안군 무안국제공항 활주로의 모습. /장련성 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제주항공 참사 유가족들이 진척이 없는 수사에 항의하고, 책임자들에 대한 법적 조치 계획 공개할 것을 경찰에 요구했다.&lt;br&gt;&lt;br&gt;12·29 제주항공 여객기 참사 유가족 협의회는 15일 수사 진행 경과 및 확보된 조사 자료에 대한 서면 제출과 질의권 보장, 수사 결과에 따른 법적·행정적 조치 계획 공개 등 요구가 담긴 항의 서한을 전남경찰청에 전달했다.&lt;br&gt;&lt;br&gt;유가족들은 서한을 통해 “유가족들은 참사 이후 지금까지 경찰의 수사 과정을 믿고 묵묵히 기다려왔다”면서도 “그러나 수사 진행 상황에 대한 공식적인 보고나 위법 사항에 대한 법적 조치가 전혀 이루어지지 않고 있으며, 유가족은 점점 깊은 실망과 우려를 느끼고 있다”고 했다.&lt;br&gt;&lt;br&gt;전남경찰청은 지난해 12월 29일 무안국제공항에서 일어난 제주항공 참사 이후 수사본부를 꾸려 무안공항, 부산지방항공청 무안출장소, 제주항공 서울사무실 3개소를 대상으로 압수수색을 했다.&lt;br&gt;&lt;br&gt;사고 당시 관제 음성 파일, 활주로 감시카메라(CCTV) 영상 및 로컬라이저 건설 도면 등 1000여 점을 압수했고 제주항공 대표와 임직원, 국토부, 공항공사 직원 등 50여 명을 참고인 신분으로 조사했지만, 아직 형사입건자는 없다.&lt;br&gt;&lt;br&gt;유가족들은 “사고로 가족을 잃은 고통 위에 ‘기다림’이라는 짐을 오랜 시간 짊어지고 있다”며 “이제 더 이상 형식적인 절차만으로는 납득할 수 없다”고 했다. 이들은 유가족들을 상대로 한 경찰의 정기 면담 및 수사 경과 브리핑을 요구했다.&lt;br&gt;&lt;br&gt;유가족들은 “서한 접수일로부터 일주일 이내에 납득할 수 있는 공식 입장과 조치 계획이 제시되지 않으면 경찰의 책임 이행 여부에 대한 법적 절차를 진행할 수밖에 없다”고 했다.&lt;br&gt;&lt;br&gt;전남경찰청 제주항공 여객기 사고 수사본부는 “사고와 로컬라이저(착륙 유도 장치)의 인과관계를 객관적으로 규명하기 위해 지난 2월 26일 경찰, 국립과학수사연구원, 항공사고조사위원회 등에서 기초 조사를 마쳤고, 합동 정밀 조사를 통해 항공기와 둔덕의 충격량 등 물리적 분석이 이루어질 예정”이라고 밝혔다.&lt;br&gt;&lt;br&gt;이어 “사고기 이동 경로, 엔진의 수리 이력 등에 대해 교수, 법영상 전문가 등 자문위원을 통해 분석 중”이라며 “다만, 블랙박스 분석, 엔진 분해 조사 등에 대해서는 사조위와 협조를 통해 결과를 기다리고 있고, 사법 절차대로 수사 진행할 예정”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/M6NYSAMJ45GU3GABGJX3KMXUIE.jpg?width=700&amp;height=665&amp;auth=b1d61862eed59b880f2e45ec59b8bb5f4d132d4a274307633977aabd99e3a17d&amp;smart=true" type="image/jpeg" height="665" width="700">
-        <media:description type="plain">지난해 12월 30일 ‘제주항공 참사’가 발생한 전남 무안군 무안국제공항 활주로의 모습. /장련성 기자</media:description>
-      </media:content>
-    </item>
-    <item>
-      <title>온누리상품권 되팔아 국가 보조금 62억 가로챈 상인 등 5명 송치</title>
-      <link>https://www.chosun.com/national/incident/2025/04/15/J3BFJJKFRRCELC6RHDNXIKW6CA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/04/15/J3BFJJKFRRCELC6RHDNXIKW6CA/</guid>
-      <dc:creator>대구=이승규 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 15 Apr 2025 04:23:55 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/X7YN2SZXCNF65C7PNFBSEGHU5E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;범죄에 쓰인 온누리상품권/대구경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전통시장에서 현금 대신 쓰이는 ‘온누리상품권’을 부정적 방법으로 유통하고 되파는 방식으로 국가 보조금 수십억을 가로챈 상품권 판매업주 등 5명이 검찰에 송치됐다.&lt;br&gt;&lt;br&gt;대구경찰청 반부패·경제범죄수사대는 사기 등 혐의로 가게 업주인 남성 A(41)씨를 검찰에 구속 송치하고 또 다른 상품권 가맹점주 등 4명을 불구속 송치했다고 15일 밝혔다.&lt;br&gt;&lt;br&gt;A씨 등은 지난 2023년 1월부터 작년 11월 사이 대구에서 온누리상품권 1300억원 상당을 할인된 금액으로 사들인 뒤, 별다른 물품 구매나 거래 없이 은행에서 전액 환전해 국가보조금 62억원 상당을 가로챈 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;전통시장 및 상점가 육성을 위한 특별법에 따르면 온누리상품권은 실제 금액의 5% 정도 할인된 금액으로 구매할 수 있다. 소상공인진흥공단이 정부의 간접 보조금을 지원받아 발행하고 금융기관에서 이를 5% 할인해 판매한다. 1만원 상품권을 9500원에 구매할 수 있는 셈이다.&lt;br&gt;&lt;br&gt;물품 거래 등을 통해 고객에게 온누리상품권을 받은 상점이 상품권을 금융기관에 제출하면 상품권에 적힌 금액 전부를 환전받을 수 있다. 가령 고객이 9500원을 내고 1만원 상당의 온누리상품권을 산 뒤, 전통시장에서 거래 대금으로 이 상품권을 내면, 상인은 이 상품권을 금융기관에서 현금 1만원으로 환전할 수 있는 구조다. 현금 9500원을 1만원으로 돌려받을 수 있는 셈이다. 이 과정에서 5% 금액(500원)은 국가 보조금으로 충당된다.&lt;br&gt;&lt;br&gt;A씨 등이 노린 것은 이 보조금이었다. A씨 등은 브로커를 통해 1300억원 상당의 온누리 상품권을 5% 할인된 가격으로 구매한 뒤, 별다른 거래가 없었음에도 정상 유통된 상품권인 척 금융기관에서 환전해 62억원 상당의 차액(국가 보조금)을 가로챈 것으로 조사됐다. &lt;br&gt;&lt;br&gt;이중 A씨는 더 많은 수익을 위해 타인 명의로 허위 가맹점 2곳을 만든 뒤, 허위 계산서를 발행해 환전 한도를 늘렸다. A씨 등 가맹점주 5명이 가로챈 국가 보조금 62억원 중 57억원을 A씨가 타낸 것으로 파악됐다. &lt;br&gt;&lt;br&gt;경찰은 범죄 수익금 62억원 중 23억원을 기소 전 추징 보전(피의자가 기소 전에 범죄 수익을 처분하지 못하도록 하는 조치)했다. 나머지 39억원은 A씨 등이 생활비 등으로 탕진한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;장찬익 반부패·경제범죄수사계장은 “A씨 등 5명 외에도 9명을 같은 혐의로 추가 입건해 수사 중”이라며 “앞으로도 온누리상품권 부정 유통 사범을 엄정 단속할 방침”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>지나던 트럭에 다짜고짜 ‘주먹질’…난동범이 갑자기 던진 물건은</title>
-      <link>https://www.chosun.com/national/national_general/2025/04/15/E7P7BA6X2BCTHN3LBMZE4QPJZI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/15/E7P7BA6X2BCTHN3LBMZE4QPJZI/</guid>
-      <dc:creator>이가영 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 15 Apr 2025 03:28:43 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UGBU7373SVATHNSVXTGNRVZA6I.gif"&gt;&lt;figcaption&gt;&lt;small&gt;도봉경찰서는 서울 도봉구 한 주택가에서 지나던 차량에 갑자기 행패를 부린 남성이 구속됐다고 15일 밝혔다. /유튜브 '경찰청'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대낮에 주택가를 서성이며 시민들에게 행패를 부린 남성이 구속됐다. 경찰 조사 결과 그는 대마초를 흡입한 것으로 드러났다. &lt;br&gt;&lt;br&gt;15일 서울 도봉경찰서에 따르면 남성 A씨는 지난달 도봉구의 한 주택가에서 지나가는 차량을 상대로 위협을 가하는 등 난동을 부려 현장에서 체포됐다. &lt;br&gt;&lt;br&gt;당시 CCTV 영상을 보면, 조용한 주택가를 서성이던 A씨는 괜히 시민들에게 시비를 걸었다. 그러다 트럭 한 대를 마주치자 아무런 이유 없이 운전자를 위협하기 시작했다. 운전석 창문으로 손을 넣어 멱살을 잡기도 하고, 차량 문을 주먹으로 때리고 열어젖히는 등 행패를 부렸다. &lt;br&gt;&lt;br&gt;신고를 받고 출동한 경찰이 제지에 나섰으나 A씨는 바닥에 드러누워 난동을 이어갔다. 심상치 않은 상황에 경찰관이 추가로 투입된 끝에 몸부림치는 A씨를 체포할 수 있었다. &lt;br&gt;&lt;br&gt;이 과정에서 A씨는 은색 통에 담긴 무언가를 집어던졌다. 확인 결과 이는 대마초였다. A씨는 마약 검사 결과에서도 양성 반응이 나왔고, 결국 구속됐다. 마약류관리법상 대마 또는 대마초 종자의 껍질을 흡연하거나 섭취한 사람은 5년 이하 징역 또는 5000만원 이하 벌금에 처한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/B2733B5U7BG23O4YOPJSNMMUHI.png"&gt;&lt;figcaption&gt;&lt;small&gt;난동을 부리던 남성은 경찰 체포 과정에서 대마초를 던졌고, 마약 양성 반응이 확인되어 구속됐다. /유튜브 '경찰청'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/UGBU7373SVATHNSVXTGNRVZA6I.gif?width=400&amp;height=381&amp;auth=8578d6c97da0293c17df38e2b9184f7a467407f038c52fad4177465a167fb9e7&amp;smart=true" type="image/jpeg" height="381" width="400">
-        <media:description type="plain">도봉경찰서는 서울 도봉구 한 주택가에서 지나던 차량에 갑자기 행패를 부린 남성이 구속됐다고 15일 밝혔다. /유튜브 '경찰청'</media:description>
-      </media:content>
-    </item>
-    <item>
-      <title>아기공룡 둘리 살던 쌍문동에 1900가구 공급…100번째 신통기획</title>
-      <link>https://www.chosun.com/national/national_general/2025/04/15/BY3LTBZGTZBIZCZNX34L367NC4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/15/BY3LTBZGTZBIZCZNX34L367NC4/</guid>
-      <dc:creator>김영우 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 15 Apr 2025 03:55:53 +0000</pubDate>
-      <content:encoded>애니메이션 ‘아기공룡 둘리’와 드라마 ‘응답하라 1988’의 배경이 된 서울 도봉구 쌍문동 일대에 1900가구 규모 아파트 단지가 들어설 전망이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IJFBQOKJSEWOLZBFARTJZE7SCM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 도봉구 쌍문동 81 일대 예상 조감도. /서울시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울시는 이 같은 내용의 ‘쌍문동 81 주택정비형 재개발사업 신속통합기획안’을 확정지었다고 15일 밝혔다. 서울시가 100번째로 내놓은 신속통합기획안이다. 신속통합기획(신통기획)은 서울시가 재개발·재건축 사업의 초기부터 개입해 진행 속도를 당기는 제도다. 2021년 9월 도입됐다.&lt;br&gt;&lt;br&gt;이번 신통기획 대상지인 도봉구 쌍문동 81 일대는 쌍문근린공원과 한신초, 정의여중·고 등이 인근에 있다. 지하철 4호선 쌍문역에선 걸어서 5분 정도 걸린다. 과거 주택 재건축 정비구역으로 지정됐지만 사업성 부족 등으로 2017년 정비구역이 해제됐다.&lt;br&gt;&lt;br&gt;서울시는 주변에서 진행되고 있는 개발 사업 등을 고려해 용도지역을 한 단계 상향했다. 이로써 용적률 300%, 최고 39층, 1900가구 규모 단지를 공급할 수 있게 됐다. 서울시 관계자는 “사업성을 향상시켜 사업이 재개될 수 있게 동력을 확보한 것”이라고 했다.&lt;br&gt;&lt;br&gt;지역의 역사·문화 자원 등을 활용해 지역 정체성을 살린 단지로 만든다. 이를 위해 함석헌기념관과 연계한 문화공원을 조성하고, 문화예술인마을 골목길을 따라 주민 공동 시설을 조성할 예정이다.&lt;br&gt;&lt;br&gt;차량이 단지로 들어가는 진입로 역할을 하는 노해로의 교통 흐름도 개선한다. 이를 위해 노해로에 차로 2개를 추가로 확보해 4차선 도로에서 6차선 도로로 넓히고, 통학로로 사용되는 노해로55길은 차도와 보도를 분리한다.&lt;br&gt;&lt;br&gt;서울시는 이번에 마련된 신통기획안을 바탕으로 올해 안에 이 일대의 정비 계획 수립을 마무리한다는 방침이다.&lt;br&gt;&lt;br&gt;조남준 서울시 도시공간본부장은 “쌍문동 일대 노후 주거지가 현대적인 주거 단지로 재탄생할 수 있도록 지원하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>검찰, 이베스트 前 본부장 구속영장 청구… 수억원대 금품 받고 대출 주선 혐의</title>
-      <link>https://www.chosun.com/national/court_law/2025/04/15/AVFWFQS5DBGFVPTWENOQ42WBZA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/04/15/AVFWFQS5DBGFVPTWENOQ42WBZA/</guid>
-      <dc:creator>이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 15 Apr 2025 02:29:04 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TNINNXKMBYMCWJCC7O4B7GAGFA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울중앙지검./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지검 반부패수사3부(부장 이승학)가 대출을 주선한 대가로 시행사로부터 수억원대의 금품을 받은 혐의를 받는 이베스트투자증권 전 본부장 남모씨에 대해 특정경제범죄가중처벌법상 수재, 사금융알선 혐의로 구속영장을 청구한 것으로 15일 확인됐다.&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 남씨는 2018년부터 2022년까지 시행사 두 곳에 대출을 해주는 대가로 수억원대 금품을 받은 혐의를 받는다. 검찰은 남씨가 직접 시행 사업에 투자하며 여러 대출을 주선해 온 단서도 포착한 것으로 전해졌다. 남씨에 대한 구속영장 실질심사는 오늘 서울중앙지법에서 열린다. 구속 여부는 오후 늦게 결정될 전망이다.&lt;br&gt;&lt;br&gt;검찰은 ‘금융권 대출 비리’를 집중 수사하고 있다. 지난 11일에는 불법 대출과 금품 수수 혐의로 신한은행 차장급 직원 진모씨를 구속했다. 지난달엔 부동산 프로젝트파이낸싱(PF) 시행사에 수십억원의 무등록 대부업체 대출을 알선한 혐의를 받는 한국투자증권 임직원을 불구속 기소했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>국회의원 20%가 종부세 납부…1년 새 평균 재산 10억원 늘었다</title>
       <link>https://www.chosun.com/national/national_general/2025/04/15/2FIKLAFB2RCPXCTHDJK4YQRJHU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/15/2FIKLAFB2RCPXCTHDJK4YQRJHU/</guid>
@@ -972,15 +981,6 @@ A씨는 이날 오전 경기 용인시 수지구 아파트 자택에서 80대 �
       <description/>
       <pubDate>Tue, 15 Apr 2025 03:07:20 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/L4GEXC5HOZAC5NA5TDDI7RQ23U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 용인시 한 아파트에서 일가족으로 추정되는 5명을 살해한 50대가 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;경기 용인서부경찰서는 살인 혐의로 A씨를 형사 입건했다고 15일 밝혔다.&lt;br&gt;&lt;br&gt;경찰에 따르면, 이날 오전 9시 55분쯤 A씨의 거주지인 용인시 수지구 아파트에서 일가족으로 추정되는 5명이 숨진 채 발견됐다. 경찰은 소방당국의 공동대응 요청을 받고 현장에 출동해 숨진 이들을 발견했다.&lt;br&gt;&lt;br&gt;이들의 시신에서 타살 흔적을 발견됨에 따라 경찰은 이 집 거주자인 A씨를 용의자로 특정해 검거했다. A씨는 경찰 조사를 받을 수 있는 건강 상태가 아닌 것으로 알려졌다. A씨와 사망자들 간 관계 등은 아직 밝혀지지 않았다.&lt;br&gt;&lt;br&gt;경찰은 A씨를 상대로 자세한 경위를 조사할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>힘들게 영어유치원 보냈더니…“사교육 효과 없다” 반전 연구결과</title>
-      <link>https://www.chosun.com/national/national_general/2025/04/15/QW6ON3FBGNE2TOJQIMCS726XUE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/15/QW6ON3FBGNE2TOJQIMCS726XUE/</guid>
-      <dc:creator>김자아 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 15 Apr 2025 02:50:05 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LFO53JAM2FOM5MVZ7WSNBQ4QXY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 강남구 한 영어유치원에 주차된 통학버스./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;유명 영어 유치원에 들어가기 위해 치르는 시험 이른바 ‘4세 고시’가 성행할 정도로 영유아 사교육이 과열된 가운데, 영유아기 사교육 경험이 아이의 언어 능력과 학업 수행 등에 별다른 효과를 내지 못한다는 연구 결과가 나왔다.&lt;br&gt;&lt;br&gt;김은영 육아정책연구소 선임연구위원은 15일 교육부 직원을 대상으로 한 ‘영유아 사교육 인식개선을 위한 교육’에서 이러한 내용의 실증 연구 결과를 공개한다.&lt;br&gt;&lt;br&gt;김 위원이 연구책임을 맡은 ‘영유아기 사교육 경험과 발달에 관한 연구’에 따르면 영유아 사교육의 시작 연령은 점차 낮아지고 비용은 증가하고 있는 반면, 사교육 경험은 단기적으로 언어능력이나 어휘력과 상관이 없고 영향도 없는 것으로 나타났다.&lt;br&gt;&lt;br&gt;문제해결 능력과도 별 상관성이 없었으며, 초등학교 진학 시 학업 수행 능력에도 별 효과를 내지 못했다.&lt;br&gt;&lt;br&gt;다만 예술 사교육에 참여한 아동은 예방책 능력이 높은 것으로 분석됐다.&lt;br&gt;&lt;br&gt;사교육 경험은 성실성, 자존감, 개방성, 타인 이해 등 정서·행동 특성과도 상관이 없는 것으로 나타났다.&lt;br&gt;&lt;br&gt;자존감과 자아 존중감, 삶의 만족도 등 사회 정서적 측면에서는 사교육의 효과가 없거나 오히려 부정적 영향을 미치는 것으로 조사됐다.&lt;br&gt;&lt;br&gt;연구진은 “아동의 지능지수와 가구 소득, 부모 학력 등 다양한 변수를 통제했음에도 사교육의 독립적 효과는 미미했다”며 “이는 사교육 효과가 과대 평가됐을 가능성과 함께 아동 발달에 사교육 외 다른 요인이 중요한 역할을 할 수 있음을 시사한다”고 강조했다.&lt;br&gt;&lt;br&gt;김 선임연구위원은 “영유아기 사교육 참여율이 높아지는 추세지만 영유아기 사교육 참여는 단기적·중장기적으로 실질적인 효과가 없는 것으로 나타났다”며 “과도한 사교육은 놀이와 휴식 시간을 감소시켜 오히려 아동의 전인적 성장에 부정적 영향을 미칠 수 있다”고 말했다.&lt;br&gt;&lt;br&gt;교육부는 영유아 발달에 적합한 양육·교육 방법 등에 관하여 전문적이고 정확한 정보 제공을 위한 온라인 콘텐츠 제작·송출 등으로 영유아 사교육에 대한 사회적 인식을 개선해 나가기 위해 지속 노력해 나갈 예정이다．&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
