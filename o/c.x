@@ -13,6 +13,69 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>‘광명 지하터널 붕괴’ 실종자 1명 숨진 채 발견… 사고 닷새만</title>
+      <link>https://www.chosun.com/national/incident/2025/04/16/LOWHXT6TMNC2BDEUVN3TB3JS6Q/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/04/16/LOWHXT6TMNC2BDEUVN3TB3JS6Q/</guid>
+      <dc:creator>광명=김현수 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 16 Apr 2025 10:51:13 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HHKT4PEUPVK25HZELQ6ILDWFIM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;
+붕괴 사고가 발생한 경기 광명시 신안산선 지하터널 공사 현장에서 16일 구조대원들이 실종자 1명에 대한 수색 작업을 진행하고 있다. /경기도소방재난본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 광명시 신안산선 지하터널 공사 현장에서 발생한 붕괴 사고로 실종됐던 포스코이앤씨 소속 50대 근로자 A씨가 사고 발생 124시간여 만에 매몰 잔해 속에서 숨진 채 발견됐다.&lt;br&gt;&lt;br&gt;16일 소방청에 따르면 A씨는 이날 오후 8시 3분쯤 구조대의 수색 과정 중 발견됐다. 앞서 구조대는 이날 오후 6시 30분쯤 내시경 카메라를 통해 A씨의 신체 일부를 확인했다. 발견 당시 A씨는 붕괴 잔해 속에 갇힌 상태였다. 소방 당국은 오후 8시 11분쯤 실종자를 수습해 중앙대 광명병원으로 이송했다고 밝혔다. &lt;br&gt;&lt;br&gt;이번 사고는 지난 11일 오후 3시 13분쯤 광명시 일직동 신안산선 5-2공구 지하터널 공사 현장에서 발생했다. 상부 도로와 함께 구조물이 붕괴되면서, 지하 21m 지점에서 A씨가 매몰됐다.&lt;br&gt;&lt;br&gt;사고 발생 이후 수색 작업은 어려움을 겪었다. 사고 엿새째인 이날 오후 1시 13분쯤 구조대원 16명이 투입돼 수색 및 장애물 제거 작업을 벌이던 중, 현장 붕괴 감지 센서가 작동해 지반 이상 움직임이 포착됐다. 이에 따라 구조 당국은 오후 2시 10분 모든 인원을 철수시켰다. 이후 관계기관 회의를 통해 수색 재개 여부를 논의했다.&lt;br&gt;&lt;br&gt;사고 직후 소방당국은 A씨와 함께 현장에 고립된 20대 굴착기 기사 B씨도 확인했다. B씨는 사고 발생 약 13시간 만인 지난 12일 오전 무사히 구조됐다. 그는 사고 직후부터 전화 연락이 가능했지만, 사고 발생 약 1시간 뒤에는 전원이 완전히 꺼져 위치 추적이 어려웠던 것으로 전해졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>경찰, 용인 일가족 5명 살해 50대 가장 구속영장 신청</title>
+      <link>https://www.chosun.com/national/national_general/2025/04/16/HAYXCMNMPJBY7LZ6ML3JZBRHJM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/16/HAYXCMNMPJBY7LZ6ML3JZBRHJM/</guid>
+      <dc:creator>용인=김현수 기자, 진창일 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 16 Apr 2025 13:01:55 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZBCPTQIQO5E66UMP7G4WMD7OHY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부모와 처자식 등 일가족 5명을 살해한 50대 가장 A씨가 지난 15일 경기도 용인서부경찰서로 압송되고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰이 경기 용인에서 일가족 5명을 살해한 50대 가장에 대해 구속영장을 신청했다.&lt;br&gt;&lt;br&gt;경기 용인서부경찰서는 16일 존속살해 혐의로 체포된 A씨(50대)에 대해 구속영장을 신청했다고 밝혔다. 경찰에 따르면 A씨는 지난 14일 경기 용인의 한 아파트에서 80대 부모, 50대 아내, 10대와 20대 딸 등 일가족 5명을 수면제를 먹인 뒤 살해한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;그는 지난 15일 새벽 광주광역시로 도주했다가 같은 날 오전 경찰에 검거됐다. 경찰은 A씨가 떠먹는 요구르트에 수면제를 타서 가족들에게 먹인 뒤 잠든 틈을 타 목을 졸라 살해한 것으로 보고 있다.&lt;br&gt;&lt;br&gt;현장에서 발견된 A4용지 한 장 분량의 자필 메모에는 ‘범행을 저지르고 본인도 죽겠다’는 등의 내용이 담겨 있는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰은 A씨가 광주광역시에서 민간임대 아파트 분양 사업을 해오는 과정에서 사업 부진과 채무 문제로 극심한 스트레스를 받았을 가능성에 무게를 두고 있다. 메모에는 구체적인 채무 규모나 금전적 상황은 적혀 있지 않았다.&lt;br&gt;&lt;br&gt;A씨에 대한 구속 전 피의자 심문(영장실질심사)는 이르면 오는 17일쯤 열릴 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/ZBCPTQIQO5E66UMP7G4WMD7OHY.jpg?width=1980&amp;height=1254&amp;auth=deaa471065206a05b6a51e1551590a692be76e99cd1c304365a47800ca53b265&amp;smart=true" type="image/jpeg" height="1254" width="1980">
+        <media:description type="plain">부모와 처자식 등 일가족 5명을 살해한 50대 가장 A씨가 지난 15일 경기도 용인서부경찰서로 압송되고 있다. /연합뉴스</media:description>
+        <media:credit role="author" scheme="urn:ebu">연합뉴스</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>포항 철도 건널목에서 화물열차-트레일러 충돌…인명피해 없어</title>
+      <link>https://www.chosun.com/national/national_general/2025/04/16/6YWMBQ27NNHRDOROXT4KXOCTRM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/16/6YWMBQ27NNHRDOROXT4KXOCTRM/</guid>
+      <dc:creator>진창일 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 16 Apr 2025 12:05:50 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RMV4V2DY5ADFHD45NUBJLOCS4I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;119 소방 로고. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;포항의 한 철도 건널목에서 화물열차와 트레일러 화물차가 충돌해 경찰이 사고 조사에 나섰다.&lt;br&gt;&lt;br&gt;16일 경북소방본부 등에 따르면 이날 오후 4시 22분쯤 포항시 남구 괴동역 인근 철도 건널목에서 화물열차와 트레일러 화물차가 충돌했다는 신고가 접수됐다. 화물차는 건널목을 건너던 중 차체가 차단기에 걸리면서 멈췄던 것으로 전해졌다.&lt;br&gt;&lt;br&gt;사고로 인명 피해는 발생하지 않았다. 화물열차 기관사가 화물차를 미리 발견하고 속도를 줄이면서 큰 사고로 이어지진 않은 것으로 알려졌다. 경찰은 정확한 사고 경위를 조사할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/RMV4V2DY5ADFHD45NUBJLOCS4I.jpg?width=860&amp;height=484&amp;auth=19c6cdaf8b845e0d2bef2704881178da16df0bfcc9a62ad7e0ec99cfd4e0976c&amp;smart=true" type="image/jpeg" height="484" width="860">
+        <media:description type="plain">119 소방 로고. /연합뉴스</media:description>
+        <media:credit role="author" scheme="urn:ebu">연합뉴스</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>의대 동결에도, 일부 의대생들 “3058명? 복귀와 상관 없어” 강경</title>
+      <link>https://www.chosun.com/national/welfare-medical/2025/04/16/RORVCLEDJNGO7OSI5CJUCC6ZG4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/04/16/RORVCLEDJNGO7OSI5CJUCC6ZG4/</guid>
+      <dc:creator>오경묵 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 16 Apr 2025 11:19:43 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZG2GVVXK5TUXRTRGRANC66E2NQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울의 한 의과대학. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정부와 대학이 2026학년도 의대 모집 인원을 증원 이전인 3058명으로 되돌리기로 한 가운데, 강경 의대생들은 투쟁 기조를 계속 이어나가야 한다는 입장을 밝혔다. 또 ‘유급 위기’가 자신들의 협상력을 키울 수 있을 것으로 봤다.&lt;br&gt;&lt;br&gt;16일 의료계에 따르면 이날 오후 의대 3곳의 학생들은 합동 간담회를 열고 이 같은 내용을 공유한 것으로 알려졌다. 이 학교 학생회장 3명은 PPT 20여 장 분량의 문건을 통해 향후 투쟁 방향 등을 설명했다고 한다.&lt;br&gt;&lt;br&gt;이들은 정부가 제시한 ‘모집 인원 3058명’안과 한국의과대학·의학전문대학원협회(KAMC)가 제안한 교육과정 ‘5.5년제’에 대해 “집중해야 할 의제가 아니다”라고 선을 그었다. 의대생의 복귀 여부와 해당 방안들의 시행 여부에 큰 상관관계가 없고, 복귀 명분이 되지 않는다는 것이다.&lt;br&gt;&lt;br&gt;일부 대학 의대생들의 유급이 확정됐고, 나머지도 유급 위기인 데 대해서는 자신들의 협상력이 도리어 커질 수 있는 기회로 해석했다. 대학(병원) 입장에서는 학생과 수련병원 인력 공백이 1년 추가되는 데다, 2026학년도 신입생 모집에 차질이 생기기 때문이다. 또 조기 대선을 앞둔 정치권 상황을 놓고는 “당선 직후 허니문 기간에 의정 갈등을 바라는 (대선) 후보는 없다”고 했다.&lt;br&gt;&lt;br&gt;의대협은 스스로와 대전협을 “의료계 목소리의 원천”으로 평가했다. 의정 갈등 국면에서 전공의와 의대생의 역할이 컸고, 의료계의 발언력이 커진 것도 본인들의 투쟁 덕분이라는 것이다. 휴학 투쟁 이유에 대해서는 “의료 인력 수급을 담당하는 전문 집단으로서 존재감을 드러내기 위한 것”이라고 했고, 미등록·미복학을 놓고는 “단일대오를 유지하기 위한 방법”이라고 했다. 최근 수업 거부에 대해서는 “전국 의대생이 모두 한자리에서 같은 목소리를 내는 것이 중요하다”고 했다.&lt;br&gt;&lt;br&gt;의료계 내부 상황에 대한 평가도 있었다. 김택우 대한의사협회(의협) 회장에 대해서는 “전공의, 학생 목소리를 최대한 반영하려고 하지만 교수, 개원의, 시도의사회 압박을 무시하긴 어렵다”고 했다. 의협 구성원인 교수, 개원의, 시도의사회에 대해서는 “대선 캠프(합류)를 위해 (사태의) 조기 종료를 원한다”고 해석했다. &lt;br&gt;&lt;br&gt;의대 학장 단체인 KAMC에 대해서는 “교육자라기보다 이권 카르텔에 가깝다”며 노골적으로 반감을 드러냈다. 이들은 KAMC를 놓고 “지난 3월 제적 협박을 주도했다”며 “제적 협박에 따른 등록 전환으로 이득을 취했고, 제주도 호화 호텔을 예약해 축하 파티까지 진행했다”고 주장했다.&lt;br&gt;&lt;br&gt;이들은 “누구에게 언제 무엇을 요구할 것인가를 고려하되, 적절한 시기가 올 때까지 준비해야 한다”며 “(대선 국면인) 현재로써는 누구와도 대화를 시작하기 어렵다”고 했다. 그러면서 “대관 업무를 통해 추후 대화 상대를 확보해야 한다”고 했다.&lt;br&gt;&lt;br&gt;의대생 단체인 대한의과대학·의학전문대학원학생협회(의대협)는 해당 문건과 무관하다는 입장이다. 이선우 의대협 비대위원장은 “특정 학교에서만 (얘기가) 이뤄진 내용으로, 의대협과는 관계가 없다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>방첩사 과장 “계엄날 국수본에 체포 대상 불러줬다”</title>
+      <link>https://www.chosun.com/national/court_law/2025/04/16/7ZUVT22H4JH6NBPSLQ2Y5YXMZQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/04/16/7ZUVT22H4JH6NBPSLQ2Y5YXMZQ/</guid>
+      <dc:creator>김은경 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 16 Apr 2025 11:05:48 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WDTDWNMXT4N7PEBXT4HQWGX3JM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;'12·3 비상계엄' 사태 관련 내란중요임무종사 등 혐의로 기소된 조지호 전 경찰청장이 16일 오전 서울 서초구 서울중앙지방법원에서 열린 공판에 출석하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;구민회 국군방첩사령부 수사조정과장이 12·3 비상계엄 당시 경찰청 국가수사본부 측에 체포 대상 정치인을 불러주고, 체포조 편성을 위해 경찰 수사관을 요청했다고 법정에서 증언했다.&lt;br&gt;&lt;br&gt;서울중앙지법 형사25부(재판장 지귀연)는 16일 내란중요임무종사 혐의로 기소된 조지호 경찰청장과 윤승영 전 경찰청 국가수사본부 수사기획조정관 등 경찰 지휘부 4명의 공판을 열고 구민회 과장에 대한 증인 신문을 했다.&lt;br&gt;&lt;br&gt;구 과장은 비상계엄 당일 밤 김대우 방첩사 방첩수사단장으로부터 체포 대상 14명의 명단을 전해 들어 받아 적은 뒤, 김 단장 지시에 따라 방첩사·경찰·국방부 조사본부 각 5명씩 한 조를 꾸려 대상자를 각각 체포하도록 국회에 출동시켰다고 진술했다.&lt;br&gt;&lt;br&gt;김 단장 지시로 “경찰에 호송 차량을 요청하고 국방부 조사본부에는 구금시설 여부를 확인했다”고도 말했다. 검찰이 “경찰 등 수사권이 있는 기관이 체포하고, 방첩사는 신병을 인계받아 구금하는 역할 등 나누도록 지시한 것이냐”고 묻자 “맞습니다”라고 답했다.&lt;br&gt;&lt;br&gt;구 과장은 이현일 전 경찰청 국가수사본부 수사기획계장과 통화에서 “경찰 100명이 온다고 들었는데 명단을 알려달라”고 요청했다고 증언했다. 검찰은 이 계장이 구 과장으로부터 체포조 편성을 위한 수사관 지원 요청을 받은 뒤 이를 윤승영 전 조정관에게 보고했고, 조지호 청장에게까지 전달됐다고 보고 있다. &lt;br&gt;&lt;br&gt;구 과장은 당시 누군가와 통화하며 “누굴 체포하라는 겁니까”라는 질문을 받고 “이재명, 한동훈입니다”라고 말했는데, 통화 대상이 명확히 기억나지는 않는다고 했다. 다만 “통화 목록과 시간을 보니 이현일 전 계장에게 말한 것으로 추정된다”고 했다.&lt;br&gt;&lt;br&gt;윤 전 조정관의 변호인은 반대신문에서 “일면식이 없는 이 계장에게 체포 대상자를 언급한 것은 정보 부서에 있는 사람의 보안 의식과는 맞지 않는 것 같다”고 했고, 구 과장은 “당시에는 이게 지켜야 할 보안 대상이라고 인식하지 않았다”고 답했다.&lt;br&gt;&lt;br&gt;이날 예정됐던 박창균 전 영등포경찰서 형사과장 증인 신문은 연기됐다. 재판부는 오는 29일 다음 공판에서 이현일 전 계장과 박창균 전 과장을 이어서 신문할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>여친과 다투다... 반려견 가스불에 태운 20대 남성 체포</title>
+      <link>https://www.chosun.com/national/national_general/2025/04/16/OETAAXVXGVDONGYGQPIAS4XKAA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/16/OETAAXVXGVDONGYGQPIAS4XKAA/</guid>
+      <dc:creator>이혜진 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 16 Apr 2025 11:17:58 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PODMGVEKJ3L3I6F4X7WK4M2VKY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 강남경찰서 전경./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;여자친구와 다투다 반려견을 가스불에 태워 학대한 혐의로 20대 남성이 경찰에 붙잡혔다. &lt;br&gt;&lt;br&gt;16일 서울 강남경찰서는 동물보호법 위반, 재물손괴 혐의로 20대 남성 A씨를 입건했다고 밝혔다. A씨는 지난 14일 오후 11시 40분쯤 서울 강남구 논현동의 한 주택에서 여자친구와 다투다가 반려견을 가스불에 태워 다치게 한 혐의를 받고 있다. 경찰은 여자친구의 신고를 받고 출동해 A씨를 현행범으로 체포했다. 반려견은 털 일부가 불에 그을렸으나 생명에는 지장이 없는 것으로 알려졌다. &lt;br&gt;&lt;br&gt;경찰은 반려견의 실소유주를 확인하는 한편, A씨가 반려견을 고의로 가스불에 태웠는지 등 구체적인 사건 경위를 조사하고 있다. 경찰은 교제 폭력 가능성도 열어두고 수사를 진행 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>‘사법 행정권 남용’ 항소심, 오는 8월 결심</title>
       <link>https://www.chosun.com/national/court_law/2025/04/16/RWPRMUJWEFD27NL6QMSOYPYCVQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/04/16/RWPRMUJWEFD27NL6QMSOYPYCVQ/</guid>
@@ -908,61 +971,6 @@ A씨는 이날 오전 경기 용인시 수지구 아파트 자택에서 80대 �
       <description/>
       <pubDate>Tue, 15 Apr 2025 07:09:53 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OEP23TEMYVH2ZDUPWL7E4R6IAA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원 로고. /조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;술을 마신 상태에서 홧김에 지인을 흉기로 살해한 50대에게 항소심에서도 1심과 같은 징역 15년이 선고됐다.&lt;br&gt;&lt;br&gt;대전고법 형사3부(재판장 김병식)는 살인 혐의로 기소된 A씨와 검찰이 제기한 항소를 모두 기각하고 원심과 같은 징역 15년을 선고했다고 15일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난해 8월 충남 홍성군 자신의 주거지에서 함께 일하던 후배 B씨를 흉기로 찔러 살해한 혐의로 기소됐다.&lt;br&gt;&lt;br&gt;평소 B씨가 자신을 무시한다는 생각을 갖고 있었던 A씨는 당시 술에 취해 잠을 자던 도중 B씨가 자신을 깨우자 격분해 범행한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;앞서 1심 재판부는 “살인은 인간 생명을 침해하는 행위로 결과가 참혹하고 어떤 방법으로도 피해 복구가 불가능한 중대한 범죄”라며 “피고인이 범행을 모두 인정하고, 계획적으로 피해자를 살해한 것으로 보이지는 않은 점을 고려했다”고 판시했다.&lt;br&gt;&lt;br&gt;A씨는 항소심 재판에서는 “살인의 고의가 없었다”고 주장했다. 하지만 재판부는 이를 받아들이지 않았다.&lt;br&gt;&lt;br&gt;2심 재판부는 “경찰과 검찰 수사 단계에서 화가 나서 찔렀다는 진술을 했고, 범죄분석관의 분석을 토대로 ‘살인의 고의가 없었다’는 주장을 받아들이지 않는다”며 “사실관계는 인정하고 고의성 여부만 다퉜기 때문에 원심 판단을 바꿀 만한 양형 조건의 변화가 있다고 보이지 않는다”고 항소 기각 사유를 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>서울 하수관 30%는 50년 넘은 ‘초고령’…종로구가 비중 가장 높아</title>
-      <link>https://www.chosun.com/national/national_general/2025/04/15/RZVLKPW57ZD57GN454QMYZB3FM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/15/RZVLKPW57ZD57GN454QMYZB3FM/</guid>
-      <dc:creator>김영우 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 15 Apr 2025 06:26:52 +0000</pubDate>
-      <content:encoded>서울 시내 하수관로의 30%가 매설된 지 50년이 넘은 것으로 나타났다. 종로구는 50년 이상 된 하수관로의 비중이 50%를 넘어섰다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZIX2ZTF3ZVGVLGEVNCH2JRLQGA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 25일 오전 서울 강동구 대명초교입구 교차로 인근의 모습. 전날 저녁 대형 싱크홀이 발생해 소방과 경찰이 주변을 통제하고 있다. /장련성 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;15일 진선미 의원(더불어민주당)이 서울시로부터 제출받은 자료에 따르면, 2023년 12월 기준 서울 하수관로 1만866㎞ 중 30.4% 수준인 3300㎞가 사용을 시작한 지 50년 이상인 것으로 나타났다. 30년 이상인 하수관로는 6029㎞로 전체의 55.5%에 달한다. 서울시는 사용 연수가 30년을 넘는 하수관을 ‘노후 하수관’으로 분류하고 있다.&lt;br&gt;&lt;br&gt;자치구별로 사용 연수가 50년 이상인 하수관 비율을 살펴보면, 종로구가 53.5%로 가장 높았다. 서울 시내 자치구 중 유일하게 50%를 넘겼다. 용산구(48.5%), 성북구(47.7%), 영등포구(45.7%) 등이 뒤를 이었다. 이외에 마포구(45.4%)와 구로구(43.5%), 성동구(42.2%) 등도 50년 이상 하수관 비율이 40%를 넘겼다.&lt;br&gt;&lt;br&gt;30년 이상 하수관 비율은 종로구(66.3%), 도봉구(66.2%), 용산구(65.2%), 영등포구(63.6%), 서초구(63.2%) 등 순으로 나타났다.&lt;br&gt;&lt;br&gt;노후 하수관은 지반 침하(싱크홀)의 주요 원인으로 꼽힌다. 국토부에 따르면, 최근 5년(2020~2024년) 동안 전국에서 발생한 지반 침하 867건 중 394건(45.4%)이 하수관 손상 때문에 일어났다.&lt;br&gt;&lt;br&gt;진선미 의원은 “정부와 지자체가 안전 관련 정보를 투명하게 공개하고, 하수관로 정비 등 재발 방지 대책을 신속하게 마련해야 한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>강제추행 피해자 무고 혐의...오태완 의령군수, 1심서 군수직 상실형 </title>
-      <link>https://www.chosun.com/national/2025/04/15/QBCY6W3JYREDFG6YMJBPGFB6BM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2025/04/15/QBCY6W3JYREDFG6YMJBPGFB6BM/</guid>
-      <dc:creator>창원=김준호 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 15 Apr 2025 06:50:08 +0000</pubDate>
-      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FT7NZ3ICWAB7MR4VSN2FOTVVQU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;오태완 경남 의령군수. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;강제추행 피해 여성을 무고한 혐의로 재판에 넘겨진 오태완 경남 의령군수가 1심에서 군수직 상실형을 선고받았다.&lt;br&gt;&lt;br&gt;창원지법 마산지원 형사3단독 김남일 부장판사는 15일 무고 혐의로 기소된 오 군수에게 징역 8개월에 집행유예 2년을 선고했다. &lt;br&gt;&lt;br&gt;선출직 공직자는 일반 형사사건에서 금고형 이상을 받아 최종 확정되면 직을 잃게 된다.&lt;br&gt;&lt;br&gt;이번 사건은 지난달 대법원에서 벌금 1000만원으로 확정된 오 군수의 강제추행 사건과 관련돼 있다. 오 군수는 이 사건에서 금고형 미만의 벌금형을 선고 받아 군수직을 유지할 수 있었다.&lt;br&gt;&lt;br&gt;앞서 오 군수는 2021년 6월 의령군의 한 식당에서 군청 출입 기자들과 저녁 모임을 하던 중 한 여성 기자를 강제 추행한 혐의로 2022년 1월 재판에 넘겨졌다. &lt;br&gt;&lt;br&gt;당시 오 군수는 자신의 혐의를 전면 부인하면서 “정치적 의도를 가진 거짓”이라며 해당 기자를 무고·명예훼손으로 고소했다.&lt;br&gt;&lt;br&gt;오 군수는 강제추행 사건으로 1심에서 징역 6개월에 집행유예 2년을 받았고, 검찰은 오 군수가 2차 피해를 야기했다며 무고 혐의를 추가로 기소했다.&lt;br&gt;&lt;br&gt;법원은 강제추행 사건이 확정되기 전까지 무고 재판 심리를 지연했다가, 지난달 오 군수의 강제추행 사건이 벌금형으로 최종 확정되자 무고 재판을 진행했다. &lt;br&gt;&lt;br&gt;김 부장판사는 “이 사건은 피고인이 피해자에게 고소를 당하자 무고죄로 맞고소한 사안이다. 그 과정에서 (피해자의) 고소를 정치 공작이라 주장하며 음모론을 제기했다”면서 “이런 태도가 피해자에 대한 2차 가해 행위라고 평가할 만하고 죄질도 가볍지 않다”고 했다. 그러면서 “뒤늦게나마 범행을 인정하고 반성하는 점과 이 사건 발단이 된 강제추행의 추행 정도가 무겁다고 볼 수 없는 점 등을 참작한다”고 양형 이유를 밝혔다. &lt;br&gt;&lt;br&gt;오 군수는 이날 1심 선고 직후 기자들과 만나 “군민들께 죄송하다는 말씀을 드린다”며 “변호사와 항소 여부를 검토하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>외국인 유학생 출석률 조작한 대학교수 ‘집유 2년’</title>
-      <link>https://www.chosun.com/national/court_law/2025/04/15/D7VRXET5FVDC7PEJIAW6JFL3WY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/04/15/D7VRXET5FVDC7PEJIAW6JFL3WY/</guid>
-      <dc:creator>원주=정성원 기자</dc:creator>
-      <description>외국인 유학생의 출석률을 허위로 조작한 대학교수가 법원으로부터 집행유예를 선고받았다.
-춘천지법 원주지원 형사2단독 박현진 부장판사는 위계공무집행방해 등 혐의로 기소된 A(63)씨에게 징역 10개월에 집행유예 2년을 선고했다고 15일 밝혔다.</description>
-      <pubDate>Tue, 15 Apr 2025 07:03:27 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KYUTM35NP5F5GTBMEVJXMVTOYE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;춘천지법 원주지원./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;외국인 유학생의 출석률을 허위로 조작한 대학교수가 법원으로부터 징역형의 집행유예를 선고받았다.&lt;br&gt;&lt;br&gt;춘천지법 원주지원 형사2단독 박현진 부장판사는 위계공무집행방해 등 혐의로 기소된 A(63)씨에게 징역 10개월에 집행유예 2년을 선고했다고 15일 밝혔다.&lt;br&gt;&lt;br&gt;또 취업체류 자격이 없는 외국인 유학생의 취업을 알선한 혐의로 기소된 취업 알선 업체 대표 B(68)·C(44)씨에게 징역 10개월에 집행유예 2년을, 외국인 유학생을 불법 고용한 제조 업체 대표 D(64)씨에겐 벌금 1000만원을 각각 선고했다.&lt;br&gt;&lt;br&gt;강원도 원주시 모 대학 교수인 A씨는 지난 2022년 6월 외국인 유학생 E씨의 출석률을 실제(22%)보다 높은 74.5%로 기재해 주는 등 불법으로 외국인 유학생의 체류 기간 연장을 도와준 혐의를 받고 있다. 수사 결과 A 교수는 지난 2023년 9월까지 182차례에 걸쳐 이 같은 방법으로 출입국외국인사무소의 직무집행을 방해한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;B씨와 C씨는 지난 2022년 6월부터 2023년 11월까지 취업체류자격이 없는 외국인 유학생 26명의 취업을 알선한 혐의를, D씨는 2022년 2월부터 2023년 12월까지 자신이 운영하는 제조업체에 취업 활동을 할 수 없는 외국인 유학생 95명을 고용한 혐의를 받는다.&lt;br&gt;&lt;br&gt;박 부장판사는 “피고인들의 범죄는 외국인 체류 질서를 어지럽혀 출입국 행정을 교란하는 것”이라며 “다만 한국인 근로자로 대체하기 어려운 분야에 고용됐던 점 등을 양형에 참작했다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>바다 없는 제천에 해녀 추모비?... ‘최고령 출향 해녀’ 김화순 기린다 </title>
-      <link>https://www.chosun.com/national/regional/chungcheong/2025/04/15/PFUK5LRSSJB2LFRXT5ITVBRJ34/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2025/04/15/PFUK5LRSSJB2LFRXT5ITVBRJ34/</guid>
-      <dc:creator>제천=신정훈 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 15 Apr 2025 07:00:37 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NXDUOMKA4VGAVIUI5B4AL4I7FY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;바다에 몸을 던져 독도경비대원 시신을 인양했던 고 김화순 해녀의 생전 모습./ 제천 지적박물관&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;바다가 없는 내륙 지역인 충북 제천에 해녀를 기리는 추모비가 세워졌다. &lt;br&gt;&lt;br&gt;충북 제천 지적박물관은 지난 10일 송학면 도화로 개나리추모공원에 제추 출향 해녀인 고(故) 김화순(1921~2020) 추모비를 세웠다고 15일 밝혔다. &lt;br&gt;&lt;br&gt;김씨의 추모비는 1.7m 높이로 개나리추모공원에 있는 그의 묘소 앞에 세워졌다. 추모비에는 ‘삶의 터전으로 울릉도·독도 바다를 일군 제주 출항 해녀, 제천에 잠들다’라고 적혀있다. &lt;br&gt;&lt;br&gt;김씨는 1921년 제주에서 태어나 10대 때부터 물질을 시작했다. 결혼 뒤 군산과 부산, 속초를 거쳐 1974년 남편과 함께 울릉도로 이주해 해녀 생활을 이어갔다.&lt;br&gt;&lt;br&gt;2005년 남편이 사망한 뒤에도 해녀 생활을 이어가던 김씨는 90세 때인 2011년 당시 국내 ‘최고령’ 해녀 타이틀을 얻었지만, 그해 건강이 나빠져 물질을 그만뒀다. &lt;br&gt;&lt;br&gt;특히 그는 1982년에는 독도경비 중 순직한 독도경비대 주재원 경위와 권오광 수경의 시신을 인양한 공로로 다른 해녀 등과 함께 울릉경찰서로부터 감사장을 받기도 했다.&lt;br&gt;&lt;br&gt;김씨는 2016년 큰아들이 살고 있는 충북 제천으로 이주했고, 4년 뒤인 2020년 노환으로 숨을 거뒀다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/B4XM7BVV6VB2THPOA2PJOGDTYE.jpeg"&gt;&lt;figcaption&gt;&lt;small&gt;충북 제천 지적박물관은 지난 10일 충북 제천시 개나리추모공원에서 고 김화순 해녀 추모비 제막식을 진행했다./제천 지적박물관&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지적박물관은 지난 10일 추모비 앞에서 김윤배 울릉도독도해양연구기지 대장, 박영기 제천시의회 의장 등이 참석한 가운데 제막식을 했다.&lt;br&gt;&lt;br&gt;이범관 지적박물관장은 “김씨는 독도경비대 대원의 시신을 인양하기 위해 스스로 바다에 뛰어들었다”며 “그의 정신은 평범한 사람이 나라를 지키기 위해 일어섰던 제천 의병정신을 떠오르게 해 그의 추모비를 세우게 됐다”고 설명했다. &lt;br&gt;&lt;br&gt;지적박물관과 충북도, 제천시는 청풍호 독도 모형 설치, 김화순 해녀 기념관과 등대를 건립하는 등 숭모 사업을 추진할 계획이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>폐지 모은 돈으로…산불 성금 10만원 낸 60대 기초생활 수급자</title>
-      <link>https://www.chosun.com/national/regional/2025/04/15/5NINSUVCINCBZOVVEUVPFNIHFQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/04/15/5NINSUVCINCBZOVVEUVPFNIHFQ/</guid>
-      <dc:creator>경주=노인호 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 15 Apr 2025 06:51:46 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6QKMXPLVKJE2HIN22LWMKJRCKA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경주 한 시민이 폐지 등을 모아 판 돈으로 산불성금을 기탁했다. /경주시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 11일 오후 경북 경주시 성건동행정복지센터. 60대 여성 A씨가 작은 비닐봉투 하나를 조심스럽게 내밀며 “산불 피해 주민들에게 써 달라”고 말했다. 봉투 안에는 현금 10만3830원이 들어 있었다. &lt;br&gt;&lt;br&gt;A씨는 “산불로 무너진 집터와 울고 있는 이웃들을 보며 마음이 놓이지 않았다”며 “내 손으로 직접 모은 작은 성의가 누군가에게 도움이 됐으면 한다”고 전했다.&lt;br&gt;&lt;br&gt;국민기초생활보장 수급자로, 당뇨 등의 질환을 앓고 있는 A씨는 폐지 등을 모아 판 돈으로 어렵게 생계를 이어가고 있는 상황이라고 한다. 하지만 산불로 피해를 본 이웃들을 위해 폐지와 깡통 등을 모아 판 돈을 내놓은 것이라고 복지센터 측은 설명했다. &lt;br&gt;&lt;br&gt;성건동행정복지센터 관계자는 “이번 뿐만 아니라 과거에도 소액 기부는 해오셨던 분”이라며 “본인이 알려지는 것을 원하지 않고 있어 자세하게 설명하기는 곤란하다”고 말했다. &lt;br&gt;&lt;br&gt;이날 기탁한 A씨의 성금은 경북사회복지공동모금회를 통해 경북 북부지역 산불 피해자 지원에 전액 사용될 예정이다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>김수현 “악플러·사이버 레커 강경 대응... 고소장 제출”</title>
-      <link>https://www.chosun.com/national/national_general/2025/04/15/LHCTK6M3IVAHBOVFCNY4Y2CGHQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/15/LHCTK6M3IVAHBOVFCNY4Y2CGHQ/</guid>
-      <dc:creator>박선민 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 15 Apr 2025 05:46:11 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6PRX55PZ4FPZ5OAFZMW2H3NY6M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;배우 김수현이 지난 31일 오후 서울 마포구 한 호텔에서 배우 고 김새론이 미성년자이던 시절 교제했다는 의혹에 대해 반박하는 기자회견을 하고 있다. /연합뉴스 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;배우 김수현 측이 온라인상에 확인되지 않은 주장을 퍼뜨린 악플러와 사이버 레커 등을 명예훼손죄와 모욕죄로 고소했다고 밝혔다. &lt;br&gt;&lt;br&gt;소속사 골드메달리스트는 15일 “최근 당사 소속 아티스트 김수현 씨를 향한 악의적 게시글과 댓글, 허위 사실 등이 온라인상에 무분별하게 게시 및 확산되고 있다”며 “당사는 이러한 악질적 행위에 대해 팬분들의 적극적인 제보와 자체 모니터링을 바탕으로 전날 정보통신망법상 명예훼손죄 및 형법상 모욕죄 혐의로 수사기관에 고소장을 제출했다”고 했다. &lt;br&gt;&lt;br&gt;소속사는 “익명이라는 점을 이용해 가짜 뉴스를 만들고 사이버 불링을 초래하는 영상 및 숏츠를 제작하는 ‘사이버 레커’의 행태도 심각하다”며 “최근 사이버 렉카의 신원이 밝혀지고 법적 대응이 이뤄지고 있는 만큼 당사 역시 유튜브와 X와 같은 해외 플랫폼에 대해서도 해외 법률 대리인과 연계하여 강경 대응할 것”이라고 했다. 아울러 “아티스트의 명예를 훼손하는 악성 게시물들에 추가 고소를 이어나갈 예정”이라고 했다. &lt;br&gt;&lt;br&gt;앞서 김수현이 고(故) 김새론이 미성년자이던 시절부터 교제했다는 의혹이 제기됐다. 김수현은 교제 사실을 부인하다 지난달 31일 직접 긴급 기자회견을 열고 “고인이 미성년자이던 시절엔 사귀지 않았고, 고인이 성인이 된 2019년부터 1년여간 교제했다”고 밝혔다. &lt;br&gt;&lt;br&gt;하지만 유족 측이 유튜브 채널 가로세로연구소를 통해 김수현의 주장을 반박하는 사진과 영상 등을 지속적으로 공개하면서 논란은 지속됐다. &lt;br&gt;&lt;br&gt;김수현은 의혹을 제기한 김새론 유족 측과 가세연을 정보통신망 이용 촉진 및 정보 보호 등에 관한 법률 위반 등으로 고소하고, 110억원의 손해배상청구 소송을 제기한 상태다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>국회의원 20%가 종부세 납부…1년 새 평균 재산 10억원 늘었다</title>
