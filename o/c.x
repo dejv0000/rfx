@@ -13,6 +13,51 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>부산 실내수영장서 감전 추정 사고...1명 숨지고 1명 다쳐</title>
+      <link>https://www.chosun.com/national/incident/2025/04/17/W4OQLN7VQVE4FLDVY7LMBG4DZU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/04/17/W4OQLN7VQVE4FLDVY7LMBG4DZU/</guid>
+      <dc:creator>김수언 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 17 Apr 2025 14:10:01 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SZQHZW2NFV4ULTTZ4FGN6F3VDE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산중부경찰서 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;17일 오후 부산의 한 실내 수영장에서 감전으로 추정되는 사고가 나 1명이 숨지고 1명이 다쳤다.&lt;br&gt;&lt;br&gt;경찰 등에 따르면 이날 오후 2시 45분쯤 부산 중구의 한 실내 수영장 출입문 앞에서 70대 남성 A씨가 갑자기 쓰러졌다. A씨는 심정지 상태로 인근 병원으로 옮겨졌지만 결국 숨졌다. 경찰은 감전 사고가 난 것으로 추정하고 있다.&lt;br&gt;&lt;br&gt;또 당시 A씨를 부축하려던 50대 남성 B씨도 발 부위를 다쳤다. B씨 부상 역시 감전으로 추정되는 것으로 알려졌다. B씨는 생명에 지장이 없는 상태다.&lt;br&gt;&lt;br&gt;사고 발생 즉시 건물 관계자가 전력을 차단했고, 수영장 운영도 중단됐다. 추가 인명 피해는 없었다.&lt;br&gt;&lt;br&gt;경찰은 시설 관계자 등을 상대로 정확한 사망원인을 조사하는 한편, 한국전력공사와 국립과학수사연구원 등과 함께 합동감식을 벌일 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>경남서 어린이집 야외수업 중 장애아동 물에 빠져 숨져 </title>
+      <link>https://www.chosun.com/national/incident/2025/04/17/ZBTW5TSENNAEBCKT76LSYA6ZKU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/04/17/ZBTW5TSENNAEBCKT76LSYA6ZKU/</guid>
+      <dc:creator>김수언 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 17 Apr 2025 13:12:21 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EEEBSWSEZE37FL7GWRIROUOFZI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경남서 한 장애 아동이 어린이집 야외수업 중 물에 빠져 숨지는 사고가 났다.&lt;br&gt;&lt;br&gt;17일 경찰 등에 따르면 지적장애가 있는 9살 A군이 지난 15일 오후 경남의 한 장애아동 전문 어린이집 야외수업 중 갑자기 사라졌다. 당시 어린이집 교사들과 아동들은 함께 댐 근처 수변 산책로서 활동 중이었던 것으로 알려졌다. &lt;br&gt;&lt;br&gt;특수학교에 다니는 A군은 평소 학교 수업을 마친 뒤 해당 어린이집에서 오후 시간을 보내는 것으로 전해졌다.&lt;br&gt;&lt;br&gt;교사들은 A군이 사라지자 원장과 경찰에 연락을 한 것으로 파악됐다.&lt;br&gt;&lt;br&gt;이후 경찰과 소방 등 당국이 수색작업에 나섰고, A군은 산책로 아래 호수에 빠진 채 발견됐다. A군은 병원으로 옮겨졌지만 결국 사망 판정을 받았다.&lt;br&gt;&lt;br&gt;경찰은 타살 혐의점은 없다고 보고 정확한 사고 경위를 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>서울시, 부동산 조직 확대·개편…‘부동산정책개발센터’ 다음달 출범</title>
+      <link>https://www.chosun.com/national/national_general/2025/04/17/XVMWGCFP5FEL5ACW7L2KQQBR6Q/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/17/XVMWGCFP5FEL5ACW7L2KQQBR6Q/</guid>
+      <dc:creator>김영우 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 17 Apr 2025 13:11:46 +0000</pubDate>
+      <content:encoded>서울시가 부동산 정책의 전문성을 높이기 위해 기존 조직을 확대·개편하고 ‘부동산정책개발센터’를 출범한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FHHHPLXAKE3I6Y2WHBPJA7DLI4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울시청 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울시는 이 같은 내용이 담긴 ‘서울특별시 행정기구 설치 조례 시행규칙 일부개정안’을 17일 입법 예고했다.&lt;br&gt;&lt;br&gt;개정안에 따르면 서울시는 주택실 산하 주택정책지원센터를 부동산정책개발센터로 개편한다. 센터에서는 부동산 시장 안정 대책 연구, 부동산 정책 수립 시 시장 영향 분석, 부동산 금융·세제 분석 및 제도 개발 등을 담당하게 된다.&lt;br&gt;&lt;br&gt;기존에 도시공간본부 토지관리과에서 담당하던 토지거래허가구역 지정·해제 등 관련 업무는 주택실 주택정책과로 이관한다. 토지관리과는 토지거래허가구역 사후 이용 실태 조사와 관리를 맡게 된다.&lt;br&gt;&lt;br&gt;서울시는 “부동산 정책 관련 사전 검증 체계를 강화하고, 체계적인 부동산 정책을 추진하기 위해 개정하려는 것”이라고 설명했다.&lt;br&gt;&lt;br&gt;개정된 시행규칙은 입법 예고 후 후속 절차를 거쳐 다음 달 중 시행될 예정이다.&lt;br&gt;&lt;br&gt;앞서 서울시는 지난 2월 서울 잠실·삼성·대치·청담 등 토지거래허가구역을 해제했지만, 해제 이후 집값이 올라가자 한 달여 만에 강남 3구와 용산구 전체를 토지거래허가구역으로 지정했다.&lt;br&gt;&lt;br&gt;서울시는 지난달 27일 대변인 명의의 성명서를 내고 “서울시 주택 사업 담당 인력들은 수요 측면을 면밀히 살피는 데 다소 부족한 면이 있었다”며 “관련 조직의 전문성을 보강하는 내용의 개선 대책을 수립하고 있다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘불법 도박 고백’ 개그맨 이진호, 검찰 송치… 사기죄는 미인정</title>
+      <link>https://www.chosun.com/national/national_general/2025/04/17/D7WHH33RYRFBPJ74X553UKBOIQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/17/D7WHH33RYRFBPJ74X553UKBOIQ/</guid>
+      <dc:creator>문지연 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 17 Apr 2025 12:27:18 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/A232IWEDMRDABFSY3S5EIQ57QM.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;개그맨 이진호씨가 작년 10월 22일 서울 강남경찰서에 피의자 신분으로 출석하던 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인터넷 불법 도박 사실을 고백한 개그맨 이진호(39)씨가 검찰에 넘겨졌다.&lt;br&gt;&lt;br&gt;서울 강남경찰서는 이씨를 상습 도박 혐의로 검찰에 불구속 송치했다고 17일 밝혔다. 앞서 국민신문고를 통해 이씨의 도박·사기 혐의를 조사해달라는 민원을 접수한 뒤 수사에 착수한 지 약 6개월 만이다. 다만 차용금 사기 혐의는 피해자 진술이 없어 인정되지 않았다.&lt;br&gt;&lt;br&gt;이씨는 작년 10월 인스타그램에 장문의 글을 써 2020년부터 인터넷 불법 도박 사이트를 이용해 감당하기 힘든 빚을 떠안게 됐다고 털어놨다. 당시 그는 “금전적인 손해도 손해지만, 무엇보다 저를 믿고 돈을 빌려주신 분들께 너무 죄송했다”며 “제게 남겨진 채무는 무슨 일이 있어도 변제해 나갈 것을 약속드린다”고 했다.&lt;br&gt;&lt;br&gt;과거 이씨는 도박 자금을 충당하기 위해 개그맨 이수근, 그룹 방탄소년단(BTS) 멤버 지민, 가수 영탁 등 연예계 동료들에게 10억 원대 돈을 빌린 것으로 드러났다. 이 외에 방송국 임원·PD·작가들과 대부업체에서도 수억 원을 빌려 쓴 사실이 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>법원 “가세연, ‘쯔양 사생활’ 영상 삭제해야” 가처분 인용</title>
+      <link>https://www.chosun.com/national/court_law/2025/04/17/PAUBQLSLLNB25FS4OZ5KJSHELA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/04/17/PAUBQLSLLNB25FS4OZ5KJSHELA/</guid>
+      <dc:creator>방극렬 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 17 Apr 2025 11:01:02 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZLIEWJB5AVBRRIU4LXF7DOXTDU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;가로세로연구소 대표 김세의씨를 협박 등 혐의로 고소한 유튜버 쯔양씨가 16일 경찰 조사를 위해 서울 강남구 강남경찰서로 출석하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;구독자 1100만명의 유튜버 쯔양이 자신의 사생활 관련 영상을 동의 없이 게재한 유튜브 채널 가로세로연구소(가세연) 등을 상대로 “영상을 내려달라”며 낸 가처분 신청을 법원이 받아들였다.&lt;br&gt;&lt;br&gt;서울중앙지법 민사51부(재판장 박상언)는 17일 쯔양이 가세연과 가세연 대표 김세의씨를 상대로 낸 ‘영상 게시물 삭제 및 게시 금지’ 가처분 신청 사건에서 일부 인용 결정을 내렸다고 밝혔다.&lt;br&gt;&lt;br&gt;이 사건은 가세연이 지난해 7월 구제역, 전국진, 카라큘라 등 3명의 유튜버가 등장하는 ‘쯔양 협박 모의’ 녹취록을 동의 없이 공개하고, 이어 쯔양의 사생활 관련 ‘폭로 영상’ 등을 올린 것이 발단이다. 쯔양은 김씨를 스토킹처벌법 위반과 협박·강요 등 혐의로 고소했고, 이어 작년 12월 영상을 내려달라는 가처분을 냈다.&lt;br&gt;&lt;br&gt;재판부는 이날 가세연이 게시한 영상들에 대해 “쯔양의 사회적 가치와 평가를 저하시키기에 충분한 내용일 뿐 아니라 사생활의 비밀로 보호돼야 하는 사항을 침해하는 내용임이 소명된다”며 “불특정 다수가 시청할 수 있는 유튜브 채널에 이를 올리는 행위는 쯔양의 명예 및 사생활의 비밀을 위법하게 침해하는 행위로서 허용될 수 없다”고 밝혔다.&lt;br&gt;&lt;br&gt;다만 재판부는 쯔양 측이 가세연이 영상을 삭제하지 않는 경우 비용을 부담하게 하라며 낸 간접강제 신청 등은 받아들이지 않은 것으로 전해졌다.&lt;br&gt;&lt;br&gt;고소 사건을 수사한 경찰은 증거 불충분 등을 이유로 지난 2월 김씨에 대해 불송치 결정을 내렸지만, 검찰은 쯔양 측 이의신청을 받아들여 지난달 경찰에 보완 수사를 요구했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>똥기저귀로 보육교사 때리고 비빈 40대여성... 항소심서 징역 6개월</title>
       <link>https://www.chosun.com/national/national_general/2025/04/17/GZVX3QZEPRAWHOJGQ6PO4GZEKE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/17/GZVX3QZEPRAWHOJGQ6PO4GZEKE/</guid>
@@ -884,15 +929,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UZURNPHRTRBXHL4HBNUQYJHHRU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2023년 축제 당시 상온에서 운반되는 생고기./온라인 커뮤니티&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;연이은 논란에 휘말린 더본코리아가 이번엔 ’2023년 홍성 글로벌 바비큐 페스티벌' 현장에서 생고기를 적절하게 보관하지 않았다는 의혹이 제기돼 경찰이 내사에 착수했다.&lt;br&gt;&lt;br&gt;충남 홍성경찰서는 ‘홍성 바비큐 페스티벌’ 주최 측이 축제에 납품됐던 생고기를 상온에 방치한 채 용달차로 운반했다는 신고가 국민신문고에 접수돼 사실관계를 파악하고 있다고 16일 밝혔다.&lt;br&gt;&lt;br&gt;앞서 온라인 커뮤니티에는 2023년 11월 더본코리아가 용역을 맡아 진행된 바비큐 페스티벌의 위생 관리가 부적절했던 것 아니냐는 주장이 제기됐다.&lt;br&gt;&lt;br&gt;네티즌이 공개한 사진에는 생고기가 냉장 설비 차량이 아닌 일반 용달차에 실려 운반되는 모습이 담겼다.&lt;br&gt;&lt;br&gt;또 지난해 같은 행사에서 행사 기간 중 남은 고기를 비닐에 씌운 채 방치했다는 의혹도 제기됐다.&lt;br&gt;&lt;br&gt;경찰은 “생고기 운반 업체는 더본코리아 협력업체인 것으로 보인다”며 “전날 사건을 접수했고 운반 업체를 대상으로 우선 사실관계를 파악할 예정”이라고 말했다.&lt;br&gt;&lt;br&gt;충남 예산경찰서는 더본코리아의 농지법 위반 의혹에 관해 내사 중이다.&lt;br&gt;&lt;br&gt;농업진흥구역에 있는 생산시설은 국내산 농산물로 식품을 생산해야 하지만 더본코리아 백석공장은 수입산 콩으로 된장을 만들었다는 의혹이 국민신문고를 통해 제기됐다.&lt;br&gt;&lt;br&gt;더본코리아 측은 전날 입장문을 내고 직속 감사 조직과 홍보팀을 만들겠다고 밝혔다.&lt;br&gt;&lt;br&gt;더본코리아는 “최근 축제 현장의 위생 관리 등 일련의 사안에 대해 무거운 책임감을 느낀다”며 “식품 안전과 위생 관리 시스템을 전면 재정비하기 위해 전담 부서를 즉시 가동했고, 외부 전문가를 보강해 현장의 모든 과정을 원점에서 재설계하고 있다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>‘대덕특구 재창조 허브’ 기능...대전 ‘마중물 플라자’ 착공</title>
-      <link>https://www.chosun.com/national/regional/2025/04/16/6VNPPPVA4JHS3AWHFW2OTLWBXU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/04/16/6VNPPPVA4JHS3AWHFW2OTLWBXU/</guid>
-      <dc:creator>우정식 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 16 Apr 2025 05:58:13 +0000</pubDate>
-      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/64ET5TMQ55AATAONZHISVDHH2Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;16일 착공한 대전 마중물 플라자 조감도. /대전시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대덕특구 재창조 사업의 허브 기능을 할 ‘마중물 플라자’ 건립이 본격화된다.&lt;br&gt;&lt;br&gt;대전시는 16일 마중물 플라자 건립 사업 기공식을 개최했다고 밝혔다. 총 337억원을 투입해 한국전자통신연구원(ETRI) 부지 내에 조성하는 마중물 플라자는 정보통신기술(ICT)에 기반한 복합 공간으로, 내년 12월 준공될 예정이다.&lt;br&gt;&lt;br&gt;건물은 지상 5층으로 대지면적 4034㎡, 건축 연면적 8782㎡ 규모로 지어진다. 창업 지원과 기술사업화, 시민 교류 기능 등이 집약되는 시설이다. 1층과 2층에는 시민을 위한 ICT 전시홍보관, 카페, 강의실이 들어설 예정이다.&lt;br&gt;&lt;br&gt;3층에는 연구 장비 공동 활용센터, 기술지원실이 들어서고, 4층과 5층에는 ICT 기술창업 공간이 마련된다.&lt;br&gt;&lt;br&gt;시는 마중물 플라자가 대덕특구의 우수한 연구 성과가 창업과 기업 성장으로 이어지는 ICT 창업 생태계를 구축하고, 청년 과학자들의 지역 정착을 유도할 것으로 기대하고 있다.&lt;br&gt;&lt;br&gt;대전시 관계자는 “마중물 플라자를 대전 과학기술 산업화의 거점이자 시민과 과학이 만나는 혁신의 허브로 조성하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>인천공항, 5월 연휴에 출국장 1시간 일찍 연다</title>
       <link>https://www.chosun.com/national/transport-environment/2025/04/16/4WKS6KHV55BRPBARW2SAHXJOCA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/04/16/4WKS6KHV55BRPBARW2SAHXJOCA/</guid>
@@ -929,24 +965,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LLCXRO2WLZDNHALLITZTLVTLZI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대형견 세 마리에 입마개를 채우지 않고 대형 쇼핑몰을 활보한 견주./인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대형견 세 마리에 입마개를 채우지 않고 대형 쇼핑몰을 활보한 견주에 대해 온라인에서 갑론을박이 벌어지고 있다. &lt;br&gt;&lt;br&gt;견주 A씨는 지난 10일 자신의 인스타그램에 “오랜만에 빵 사러 왔다”며 반려견 세 마리와 함께 유명 쇼핑 복합 시설을 찾은 영상을 올렸다. 해당 쇼핑몰은 반려동물 출입이 가능한 곳이다.&lt;br&gt;&lt;br&gt;당시 A씨는 양손에 목줄을 쥐고 입마개 하지 않은 대형견 세 마리와 쇼핑몰을 돌아다녔다. 개를 본 한 시민이 “늑대 아니냐?”고 깜짝 놀라자, A씨는 “울프독”이라며 설명해 주기도 했다. &lt;br&gt;&lt;br&gt;이 영상은 이후 여러 온라인 커뮤니티와 소셜미디어에 확산했다. 이를 본 네티즌들은 “대형견인데 입마개는 왜 안 했냐” “혹여나 아이들한테 달려들까 무섭다” “타인에게 위협적인 행동 같다” 등의 반응을 보였다.&lt;br&gt;&lt;br&gt;이에 A씨는 문제 될 게 없다며 글을 올렸다. 그는 긴급 상황 시 통제 가능하다며 “내 힘으로도 충분히 통제할 수 있는 목줄을 착용하고 있다. 일반 목줄이나 하네스는 개들이 힘쓰거나 날뛰면 남녀를 떠나서 감당 안 될 것”이라고 했다.&lt;br&gt;&lt;br&gt;이어 “개 관련 사고가 잦아서 우려는 이해하지만, 가서 누구 물어뜯을 개들이거나 내가 통제가 안 되면 애초에 안 데리고 다닌다”면서 “‘우리 개는 안 물어요’라고 하는 게 아니다. 모든 개는 물 수 있다. 단, 개가 누군가를 물 상황을 안 만들고, 물려고 한들 통제할 수 있다”고 했다.&lt;br&gt;&lt;br&gt;입마개와 관련해서는 “법적 맹견 아니면 입마개는 필수가 아니다. 공격성 있으면 크기, 견공 무관하게 해야 하는 거 맞다”라면서도 “하지만 개 무서워하거나 싫어하면 대체로 이 쇼핑몰에 안 온다. 국내 대표 반려견 동반 쇼핑몰이라 같이 쇼핑할 수 있고, 개 운동장도 있고 개 유모차 대여도 해주는 펫 친화적인 곳”이라고 했다.&lt;br&gt;&lt;br&gt;한편, 동물보호법 제21조, 22조 등에 따르면 아메리칸 핏불테리어, 스태퍼드셔 테리어, 스테퍼드셔 불테리어, 로트와일러, 도사견과 5종 견종과 교배된 혼합견은 맹견으로 분류되어 반드시 입마개를 해야 한다. 울프독은 2018년 맹견으로 지정된 바 있으나, 이후 법 개정을 통해 일부 견종이 제외되면서 현재 울프독은 맹견으로 포함되어 있지 않다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>100% 재생에너지로 제주 전체 전력 돌렸다</title>
-      <link>https://www.chosun.com/national/regional/2025/04/16/3MFZDKQUFBH5DCBIQKG7OOSTBM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/04/16/3MFZDKQUFBH5DCBIQKG7OOSTBM/</guid>
-      <dc:creator>제주=오재용 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 16 Apr 2025 02:30:40 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Y2NM6O6EDA4JPLMPYAET4LKXS4.gif"&gt;&lt;figcaption&gt;&lt;small&gt;제주 풍력발전단지./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제주도내 전체 전력 사용량을 100% 재생에너지로 충당하는 ‘RE100’을 달성했다.&lt;br&gt;&lt;br&gt;16일 제주도에 따르면 지난 14일 오전 11시부터 오후 3시까지 4시간 동안 제주지역 전력을 풍력과 태양광 등 재생에너지원만으로 생산·공급했다.&lt;br&gt;&lt;br&gt;또 재생에너지 생산량이 제주지역 전체 소비량을 초과해 잉여 전력을 제1해저연계선과 제3해저연계선을 통해 육지부로 송전했다. 이는 제주의 재생에너지 공급 역량을 실질적으로 입증하는 사례라고 제주도는 평가했다.&lt;br&gt;&lt;br&gt;이번 성과는 날씨 조건과 전력 계통 유연성 향상이 결합한 결과로 분석된다.&lt;br&gt;&lt;br&gt;14일 강풍 특보에 풍력발전 이용률이 51.8%(오후 1시 기준)에 달했고, 태양광 발전도 적절한 일조량과 온도 조건으로 73.1%(오후 1시 기준)의 높은 이용률을 기록했다.&lt;br&gt;&lt;br&gt;육지부와 제주 간 연결된 해저연계선(HVDC)은 시간당 최대 180㎿의 역송이 가능한 양방향 송전 기능으로 재생에너지 공급 과잉 문제를 효율적으로 해소했다.&lt;br&gt;&lt;br&gt;제주도는 이번 사례를 바탕으로 전력거래소와 함께 재생에너지 비율 확대를 위한 설비 운영 방안을 논의하고 있다. 올해 말까지 68㎿ 규모의 대용량 에너지저장장치(BESS)를 준공해 재생에너지 수용 능력을 추가 확보할 계획이다.&lt;br&gt;&lt;br&gt;양제윤 제주도 혁신산업국장은 “이번 성과는 에너지 대전환을 추진하는 제주의 방향이 옳다는 것을 입증했을 뿐만 아니라 제주가 RE100 실현을 위한 실증 무대로 자리매김할 수 있는 가능성을 보여준 상징적인 이정표”라고 평가했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>드라마 음악에 쓰는 돈 月 4만원인데...해지에는 절반이 ‘불편’ 경험</title>
-      <link>https://www.chosun.com/national/national_general/2025/04/16/22PDGLBI55BY3IBPMC427C6VWA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/16/22PDGLBI55BY3IBPMC427C6VWA/</guid>
-      <dc:creator>최연진 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 16 Apr 2025 02:35:25 +0000</pubDate>
-      <content:encoded>온라인 동영상 서비스(OTT)나 음악 스트리밍, 쇼핑 멤버십과 같은 ‘구독서비스’ 이용자 중 절반이 충분한 안내를 받지 못한 채 무료체험 종료 후 자동 결제되는 경험을 한 것으로 조사됐다. 서비스를 해지하는 데에도 어려움을 겪은 것으로 나타났다.&lt;br&gt;&lt;br&gt;서울시는 이 같은 ‘구독서비스 이용 현황 실태조사’ 결과를 16일 발표했다. 작년 12월 18~27일 전국 20~50대 남녀 2000명을 대상으로 조사한 것이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WKIFYI5CLAHFBN7XTAMTEQ5O4Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;구독 서비스 이용 현황/서울시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;응답자의 95.9%는 ‘하나 이상의 구독 서비스를 이용 중’이라고 했다. OTT 이용률이 90.1%로 가장 높고, 쇼핑 멤버십(83.8%)과 음악 스트리밍(73.4%)이 뒤를 이었다. 음악 스트리밍은 한 곳만 이용하는 비율이 높지만, OTT와 쇼핑 멤버십은 두 개 이상 서비스를 같이 이용하는 비율이 높았다.&lt;br&gt;&lt;br&gt;구독서비스의 월평균 지출액은 4만530원이다. OTT 2만2084원, 쇼핑 멤버십 1만5426원, 음악 스트리밍 1만667원 순이다. 연령별 지출액은 30대가 4만5148원으로 가장 많았고, 20대가 4만4428원으로 뒤를 이었다.&lt;br&gt;&lt;br&gt;이용자 다수는 서비스 해지를 어렵게 만드는 ‘다크패턴(온라인 눈속임 상술)’이 존재한다고 느끼는 것으로 조사됐다. 56%는 ‘무료 구독서비스 체험 후 유료 전환 또는 자동결제’를 경험했다고 응답했다. 또 49%는 ‘사전에 안내가 충분하지 않았다’고 했다. &lt;br&gt;&lt;br&gt;58.4%는 ‘서비스 구독 해지에 어려움을 겪은 경험이 있다’고 했다. 해지 메뉴 찾기가 어려움(52.4%), 복잡한 해지 절차(26.5%), 가입·해지 방법이 다름(17.1%) 등이 주요 이유로 꼽힌다.&lt;br&gt;&lt;br&gt;이와 관련, 서울시전자상거래센터는 OTT, 쇼핑 멤버십, 배달, 승차, 음악스트리밍 등 5개 분야의 13개 주요 구독서비스 해지 단계의 다크패턴 실태를 조사했다. 그 결과 반복 간섭(92.3%), 취소·탈퇴 방해(84.6%), 잘못된 계층구조(소비자 오인 유도·69.2%) 등 서비스 해지를 어렵게 만드는 설계가 전반에 적용된 것으로 파악됐다. 해지 단계에서 ‘유지하기’ 버튼에만 진한 색상을 적용하고 ‘해지하기’는 화면 모서리에 희미한 글씨나 버튼 모양의 테두리 없이 글자만 표시해 이용자가 잘못된 선택을 하도록 유도하는 식이었다.&lt;br&gt;&lt;br&gt;지난 2월 14일부터 개정 전자상거래법 시행으로 다크패턴 사용이 금지됨에 따라, 서울시는 위반 소지가 있는 사업자에게 해당 내용을 알리고 시정할 수 있도록 조치할 예정이다.&lt;br&gt;&lt;br&gt;개정법에 따르면, 온라인 인터페이스를 운영하는 전자상거래업자 또는 통신판매업자가 소비자의 착각이나 부주의를 유발해 불필요한 지출을 유도할 수 있는 인터페이스를 설계·운영할 경우 500만원 이하의 과태료를 물린다.&lt;br&gt;&lt;br&gt;김명선 서울시 공정경제과장은 “구독경제가 일상화되고 의존도가 높아지면서 자동결제와 해지 단계에 발생하는 다크패턴은 단순 불편을 넘어 소비자 권익 침해까지 이어질 수 있다”며 “새로운 소비 유형을 지속 모니터링해 소비자가 불이익을 겪지 않게 하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>경찰, 대통령실·한남동 공관촌 압수 수색 </title>
       <link>https://www.chosun.com/national/national_general/2025/04/16/QLUDLTMU2FE57B25DPCA5SE46Q/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/16/QLUDLTMU2FE57B25DPCA5SE46Q/</guid>
@@ -963,24 +981,6 @@
       <description/>
       <pubDate>Wed, 16 Apr 2025 01:51:13 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5XWGM4DKYFMBNGLMCSIWJDEHXQ.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;사진은 이날 오후 일가족이 숨진 채 발견된 경기 용인시의 한 아파트의 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“요플레에 수면제를 타서 가족을 재웠고, 저항 없이 살해한 것으로 보인다.”&lt;br&gt;&lt;br&gt;경기 용인에서 50대 가장 A씨가 부모와 아내, 두 딸 등 일가족 5명을 살해한 사건을 수사 중인 경찰이 현장에서 확보한 정황을 바탕으로 본격적인 수사에 들어갔다. A씨가 남긴 메모에는 ‘분양이 잘 됐으면 다 해결됐을 텐데’라는 문장이 적혀 있어, 사업 실패로 인한 심리적 압박이 범행의 원인으로 추정되고 있다.&lt;br&gt;&lt;br&gt;16일 용인서부경찰서에 따르면, 피해자들은 지난 15일 용인 수지구의 아파트 자택 각자의 방 침대 위에 가지런히 누운 채 숨진 채 발견됐다. 외부 침입 흔적이나 몸싸움의 흔적은 없었다. 침대 곁에는 모두 요플레가 놓여 있었으며, 경찰은 A씨가 요플레에 수면제를 타서 가족들에게 먹인 뒤 잠든 틈을 타 목을 졸라 살해한 것으로 보고 있다.&lt;br&gt;&lt;br&gt;현장에서는 수면제 포장지나 영수증 등 범행에 사용된 물품 관련 증거는 발견되지 않았다. 술이나 다른 약물도 없었으며 정확한 약물 종류와 구매 시점은 현재까지 확인되지 않았다. A씨의 정신과 진료 이력 등도 아직 파악되지 않은 상태다.&lt;br&gt;&lt;br&gt;현장에서 발견된 A4용지 한 장 분량의 자필 메모에는 “분양이 잘 되면 다 해결될 텐데”라는 문장이 적혀 있었다. 경찰은 A씨가 건설업에 종사하며 분양 사업을 진행했으며, 사업 부진과 채무 문제로 극심한 스트레스를 받았을 가능성에 무게를 두고 있다. 메모에는 구체적인 채무 규모나 금전적 상황은 적혀 있지 않았다.&lt;br&gt;&lt;br&gt;경찰은 A씨의 금융 거래 기록과 통신 내역, 약물 구입 경위 등을 추적 중이다. 또, 숨진 가족들에 대해 부검을 의뢰해 수면제의 종류와 복용량 등 정확한 사인을 밝힐 계획이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>오늘 낮 20도 넘어 포근...일교차도 20도 “건강 조심”</title>
-      <link>https://www.chosun.com/national/transport-environment/2025/04/16/RQYFPZHRNJHOHLZ57R6ED3C6AM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/04/16/RQYFPZHRNJHOHLZ57R6ED3C6AM/</guid>
-      <dc:creator>정해민 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 16 Apr 2025 01:22:52 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YII3AGUD77RIVWHGXUU6S6IPGI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 15일 오전 제주시 조천읍 서우봉에 활짝 핀 유채꽃 뒤로 전날 내린 눈이 쌓여있는 한라산이 보이고 있다. 기상청은 16일부터 꽃샘추위가 해소되고 포근한 봄 날씨가 이어지겠다고 예보했다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;16일 전국 대부분 지역에서 낮 기온이 20도 이상으로 오르면서 포근해지지만, 당분간 낮과 밤의 기온차가 15도 안팎으로 크게 벌어질 전망이다.&lt;br&gt;&lt;br&gt;기상청에 따르면, 이날 낮부터 기온이 점차 오르면서 당분간 기온이 평년(최저 3~11도, 최고 16~22도)보다 2~6도 가량 높겠다. 이날 낮 최고 기온은 18~26도다. 전날(11.5~17.8도)보다 높다.&lt;br&gt;&lt;br&gt;기상청은 “17일까지 전국 대부분 지역에서 낮과 밤의 기온차가 15도 내외로 크겠으니 건강 관리에 유의하기 바란다”고 했다. 이날 일교차는 20도 정도로 예보됐다.&lt;br&gt;&lt;br&gt;이날 오후부터 전국 대부분 지역에서 바람이 순간 풍속 55km/h 내외로 강하게 부는 곳이 있겠다. 특히 제주도 북부·중산간·산지에는 순간 풍속 70km/h 이상으로 매우 강하게 불면서 강풍 특보가 발효될 것으로 보인다. 오전 9시 10분을 기해 전남 흑산도와 홍도에도 강풍 주의보가 내려졌다.&lt;br&gt;&lt;br&gt;17일 새벽부터 오전 사이 인천, 경기 남부 지역에 가끔 비가 내리는 곳이 있겠다. 늦은 새벽부터 오후 사이에는 강원 중·남부 내륙, 산지 지역에 가끔 비가 내리겠다. 예상 강수량은 5㎜ 미만이다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>국회의원 20%가 종부세 납부…1년 새 평균 재산 10억원 늘었다</title>
-      <link>https://www.chosun.com/national/national_general/2025/04/15/2FIKLAFB2RCPXCTHDJK4YQRJHU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/15/2FIKLAFB2RCPXCTHDJK4YQRJHU/</guid>
-      <dc:creator>안준현 기자, 김혜민 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 15 Apr 2025 02:22:24 +0000</pubDate>
-      <content:encoded>22대 국회의원의 20%(299명 중 60명)가 종합부동산세 납부 대상으로, 일반 국민(1.8%)의 11배가 넘는 것으로 조사 결과 나타났다. 22대 국회의원의 1인당 재산 평균은 42억8547만원으로, 지난해 5월(33억3000만원)보다 약 10억원 늘었다. 22대 의원 중 부동산 재산이 가장 많은 이는 박정 더불어민주당 의원으로, 건물 약 382억2000만원과 토지 1000여 만원 등 총 382억5000만원을 신고했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/K5E5WORB3QNF7AVSI4PUC7KEPU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경실련, 22대 국회의원 부동산 보유 및 종부세 실태발표 기자회견&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경제정의실천시민연합(경실련)은 15일 오전 기자회견을 열고 ’22대 국회의원 부동산 보유 및 종부세 실태 발표’를 공개했다. 2025년 3월 국회공보에 공개된 22대 국회의원 299명(조국 전 의원 제외)의 재산 내역을 분석한 결과, 국회의원의 1인당 전체 재산 평균은 42억8547만원이며 이 중 부동산 재산은 19억5289만원이다. 무주택자 65명, 1주택자 173명, 2주택 이상 다주택자는 61명이었다.&lt;br&gt;&lt;br&gt;경실련은 이 자료 내역을 바탕으로 현행 종부세 과세 기준을 적용해 집계한 결과, 299명 중 60명이 종부세 납세 대상자였다고 밝혔다. 경실련 관계자는 “전체 국민 중 종부세 납세 대상 비율은 1.8%인 것과 비교하면 국회의원의 부동산 재산이 월등히 많다”고 했다.&lt;br&gt;&lt;br&gt;부동산 재산 상위 1위는 박정 더불어민주당 의원으로 부동산 재산 382억5200만원을 신고했다. 박 의원은 정계 입문 전 ‘박정어학원’을 설립한 학원 경영인 출신이다. 이어 박덕흠 국민의힘 의원(314억8400만원), 김은혜 의원(201억7700만원), 서명옥 의원(186억7400만원), 백종헌 의원(183억3300만원), 김기표 의원(81억4500만원), 정점식 의원(81억1500만원), 이언주 의원(77억7500만원), 김기현 의원(76억4200만원), 고동진 의원(72억4700만원) 순이다. 10명 중 국민의힘 의원 7명, 더불어민주당 의원 3명이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZT36EKRGVNIQBAPY4ZO6JLMGV4.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;서울 강남구 서울강남우체국 우편물류과에서 직원들이 종합부동산세(종부세) 고지서를 발송하기위해 분류작업을 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한편 경실련은 2023년 종부세 과세 기준이 완화됨에 따라 종부세 납부액 감소 혜택을 받은 의원이 22명이라고도 했다. 2023년 이전 기준을 적용하면 종부세를 납부하는 의원이 82명인데, 종부세 기준 완화에 따라 60명으로 줄었다는 취지다. 2023년 종부세 납부 기준은 1세대 1주택 단독 명의는 11억원에서 12억원, 1주택 공동 명의 기준은 12억원에서 18억원, 다주택자는 6억원에서 9억원으로 완화됐다. &lt;br&gt;&lt;br&gt;경실련은 “종부세 완화가 서민 감세라고 주장하지만, 혜택은 국민이 아니라 일부 정치인 등 상위 1％가 크게 누리고 있다고 볼 수 있다”고 주장했다.&lt;br&gt;&lt;br&gt;한편 부동산과 주식 등 전체 재산 1위는 안철수 의원으로 총 1385억원의 재산을 신고했다. 이어 박정 의원(562억원), 박덕흠 의원(535억원), 백종헌 의원(398억원), 서명옥 의원(387억원) 순으로 상위 10명의 재산 평균은 1인당 433억원이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
