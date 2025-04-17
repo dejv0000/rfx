@@ -13,6 +13,148 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>제주 도심지 ‘25층 아파트’ 들어선다</title>
+      <link>https://www.chosun.com/national/regional/2025/04/17/E6JOLUUTFBB67GDZD677CB4JL4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/04/17/E6JOLUUTFBB67GDZD677CB4JL4/</guid>
+      <dc:creator>제주=오재용 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 17 Apr 2025 03:31:28 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JZNHXWVON4EHZYJY745A77GBZ4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;제주시 시가지 전경./조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제주 도심지에 25층 높이 아파트 건축이 가능해진다. &lt;br&gt;&lt;br&gt;제주도는 지역내 대부분 아파트 단지 지역의 건축물을 25층까지 지을 수 있도록 하는 도시계획조례안 개정을 추진한다고 17일 밝혔다.&lt;br&gt;&lt;br&gt;이번 조례 개정 추진으로 제주 도심지 아파트 단지 등이 포함된 제2종 일반주거지역의 층수 제한이 기존 15층 이하에서 25층 이하로 완화된다. 또 제1종 일반주거지역의 층수 제한은 기존 5층 이하에서 7층 이하로 완화된다. 임대주택의 경우 제1종 일반주거지역이더라도 10층까지 지을 수 있다.&lt;br&gt;&lt;br&gt;또 중심상업지역에서 주상복합건물을 건축할 경우 공동주택 부분의 연면적 합계 비율은 기존 70%에서 90%까지 완화돼 주상복합건물 부분에서 거주지 주택 부분을 더 늘릴 수 있게 된다.&lt;br&gt;&lt;br&gt;이번 조례 개정안에는 또 제주도가 추진 중인 고도 관리 방안이 확정될 때까지 고도지구 내 소규모주택 정비사업과 공공주택건설사업에 대해 내년 연말까지 한시적으로 고도 제한 적용을 배제하기로 했다. 또 자연녹지지역에서 음식점 건축이 가능해지게 되며 인근 도로 너비에 따른 건축 행위도 다소 완화된다.&lt;br&gt;&lt;br&gt;제주도는 지난해 말부터 전문가와 관련 단체, 관련 부서가 참여한 전담 조직을 통해 규제개선 효과가 높은 과제를 발굴해 이번 개정 조례안에 반영했다. &lt;br&gt;&lt;br&gt;현주현 제주도 도시계획과장은 “도시가 외곽으로 팽창하는 것보다는 기존 도심지에 건물 층수를 높여 고밀도로 개발하기 위한 차원”이라며 도심지 재건축이 활성화될 것으로 기대했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“강제 철거 반대” 미아리 텍사스 여성들 구청 앞에서 집회 </title>
+      <link>https://www.chosun.com/national/national_general/2025/04/17/3HTR52VM6FB6NGSHUWMSCOOF6I/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/17/3HTR52VM6FB6NGSHUWMSCOOF6I/</guid>
+      <dc:creator>최하연 기자, 안준현 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 17 Apr 2025 03:29:42 +0000</pubDate>
+      <content:encoded>서울 강북의 마지막 남은 성매매 집결지로 불리는 ‘미아리 텍사스(서울 성북구 하월곡동 소재)’의 강제 철거에 반발한 미아리 성매매 종사자들이 17일 오전부터 서울 성북구청 앞에서 천막 농성을 시작했다. 전날 서울북부지방법원이 미아리텍사스의 철거를 위한 명도 집행에 나서면서, 이를 막겠다는 취지다. 이들 중 일부는 옷을 벗은 채 도로 위에 드러누우며 저항했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5MOLTIOQD6NDIZCLUAE4OJAVMA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;17일 오전 서울 성북구청 앞에서 미아리 성노동자 이주대책위원회가 미아리 텍사스 명도집행 단행에 반발하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;미아리 성노동자 이주대책위원회(이주대책위) 50여 명(경찰·주최 추산)이 이날 오전 5시 30분부터 서울 성북구청 앞에서 천막 농성을 시작했다. 현장에는 경찰 기동대 15명이 배치됐고, 이 중 절반은 방패를 들고 있었다. 성북구 직원들과 성북경찰서 경찰 30여 명이 구청 건물과 시위대 사이에 서서 상황을 지켜봤다.&lt;br&gt;&lt;br&gt;이날 오전 7시쯤 찾은 이곳에선 한국여성단체연합 20여 명과 미아리 성노동자 30여 명이 모였다. 이들은 ‘우리는 살고 싶다’ ‘성북구청은 우리 성노동자들의 현실에 맞는 이주 대책을 강구하라’ ‘갑질, 악질 롯데건설 OUT’ 등이 적힌 피켓을 성북구청 앞 인도와 성북구청 입구 등에 세웠다. “이승로(성북구청장) 사퇴하고 성북구청 해체하라” “주민 생명을 보장하라”는 구호도 외쳤다.&lt;br&gt;&lt;br&gt;이들 중 일부는 어제 법원의 명도 집행 당시 신발도 신지 못했다며 맨발로 서 있거나, 잠옷 차림인 경우도 있었다. 이어 불법 추심에 시달리다 작년 9월 스스로 목숨을 끊은 30대 싱글맘 S씨를 추모하며 묵념했다. S씨도 &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZKDD5UJOGZJTTHT2BSHRK2B56M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;17일 서울 성북구청 앞에서 열린 미아리 성노동자 이주대책 마련 촉구 집회에서 참가자들이 구호를 외치고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 시위에는 경찰과 집회 참여자 간의 대치도 벌어졌다. 오전 6시쯤 경찰이 “시위 신고가 오전 9시부터 돼 있다”며 시위 적법성 여부를 점검했고, 경찰 10여 명이 출동해 채증을 시작하자 시위 참여자들이 “무슨 행위가 있었는지 밝히지도 않고 채증부터 하는 건 부당하다”며 목소리를 높였다. 경찰은 “물리적 충돌은 현재까지 없었다”고 했다.&lt;br&gt;&lt;br&gt;이들은 재개발로 인한 미아리 텍사스 폐쇄에 항의하기 위해 지난 2023년 11월부터 성북구청 앞에서 집회를 해왔다. 이번 집회는 전날 서울북부지법의 명도 집행에 대한 항의로, 명도 집행은 임대차 관계가 종료되었는데도 임차인이 부동산을 집주인에게 반환하지 않는 등의 상황에서 임대인이 이를 강제로 집행하는 것을 뜻한다. 어제 집행 과정에서도 경찰과 성매매 종사자 간의 대치가 발생하기도 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title> [단독] 일가족 살해한 가장, 작년 시작한 분양사기가 비극 불렀다</title>
+      <link>https://www.chosun.com/national/national_general/2025/04/17/AHGIFDNK65F73ODAZ2GLGXJJW4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/17/AHGIFDNK65F73ODAZ2GLGXJJW4/</guid>
+      <dc:creator>광주광역시=진창일 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 17 Apr 2025 02:14:14 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZBCPTQIQO5E66UMP7G4WMD7OHY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부모와 처자식 등 일가족 5명을 살해한 50대 가장 A씨가 지난 15일 경기도 용인서부경찰서로 압송되고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;불 꺼진 적막한 아파트 모델하우스. 경기 용인에서 일가족 5명을 살해하고 극단적 선택을 시도한 가장 이모(56)씨가 쓰던 사무실에서 만난 그의 동업자 A씨는 “사업 부진에 내몰리자 막판에 벌인 허위 과장 아파트 분양 마케팅이 이 사건의 화근이 된 것 같다”고 말했다.&lt;br&gt;&lt;br&gt;17일 본지가 입수한 광주 동부경찰서의 압수수색 영장에 따르면, 이씨가 주도한 광주 동구 산수동 일대 민간 임대 아파트 창립추진위원회와 분양 업무 대행사는 지난해 10월부터 최근까지 “2년 후 입주 가능하고 100% 보증금 반환 가능하다” “땅도 거의 매입됐고, 남은 땅도 다 매입한다” “HUG(주택도시보증공사) 보증에 가입돼 있으니 믿어도 된다”라고 속이면서 투자자를 모았다.&lt;br&gt;&lt;br&gt;이씨는 지난 14일 경기 용인의 한 아파트에서 80대 부모, 50대 아내, 10대와 20대 딸 등 일가족 5명을 수면제를 먹인 뒤 살해한 혐의로 경찰에 긴급 체포됐다. &lt;br&gt;&lt;br&gt;광주 동부경찰서는 이씨가 가족을 살해하기에 앞서 아파트 분양 사업을 추진하는 과정에서 계약금을 돌려받지 못했다는 분양 사기 내용이 담긴 고소장을 접수받고 이씨 등을 수사하고 있었다.&lt;br&gt;&lt;br&gt;이씨는 3년 전인 2022년부터 A씨와 광주에서 민간 임대 아파트 분양 사업을 시작했다.&lt;br&gt;&lt;br&gt;A씨는 “이씨는 다른 아파트 분양 업무 대행사 간부로 일하다가 지금 문제가 된 땅이 사업성이 높다고 보고 본인이 직접 민간 임대 아파트를 세우려 했다”며 “이씨가 대행사를 차려 투자자를 모집하고 나는 월급을 받으면서 현 부지 소유주들에게 토지 사용 승낙을 받는 작업을 맡기로 역할을 나눴다”고 말했다.&lt;br&gt;&lt;br&gt;이들이 아파트를 세우려 했던 부지는 약 7000평 규모로 2022년 당시 절반 상당의 토지를 확보해 광주 동구청 건축과에 지역주택조합원 모집 신고를 했다. &lt;br&gt;&lt;br&gt;경찰은 “이들의 조합 설립을 위한 토지 사용권원 확보율이 허가 기준인 50% 미만인 30.47%에 불과해 모집 신고가 반려됐다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BT5O5GBQSROXZHKRIBM3R5FV54.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부모와 처자식 등 일가족 5명을 살해한 50대 가장 A씨가 지난 15일 경기도 용인서부경찰서로 압송되고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;A씨는 “토지 사용 승낙을 한 사람 중 일부가 취소해 주택 조합 설립이 무산됐고, 협동조합형 민간 임대주택 형태로 분양 사업을 추진하려고 2023년 2월 창립추진위원회를 세웠다”고 했다.&lt;br&gt;&lt;br&gt;협동조합형 민간 임대주택은 협동조합 기본법에 따라 30가구 이상 민간 임대주택을 지어 조합원에게 우선 공급하는 사업이다. 정식 절차대로라면 추진위원회를 꾸려 발기인 5명 이상을 모집한 뒤 부지 80% 이상의 사용 동의서를 확보해 협동조합을 설립한다.&lt;br&gt;&lt;br&gt;이때 발기인들은 투자자 형태로 출자금을 협동조합 창립위원회에 내는데, 조합 설립 전 발기인 상태에서는 출자금 반환 및 철회 등에 관한 법적 규정이 없어 계약을 해지해도 투자금을 반환받기 어렵다.&lt;br&gt;&lt;br&gt;경찰은 이에 대해 압수수색영장에 “민간 임대주택에 관한 특별법 규제를 회피하기 위해 조합을 설립하지 않고 조합원이 아닌 발기인을 모집하는 방식으로 피해자들을 유인했다”고 적시했다.&lt;br&gt;&lt;br&gt;이들은 343세대 규모 민간 임대아파트를 세우려 했지만, 지난해 5월까지 투자자를 50여 명밖에 못 모았다. A씨는 “부동산 경기가 안 좋아 투자자를 못 모으니 돈이 없어서 기껏 만든 모델하우스에서도 쫓겨나 한여름에 에어컨도 없는 사무실에서 버티기도 했다”고 했다.&lt;br&gt;&lt;br&gt;부진을 거듭하던 분양 사업은 지난해 10월부터 최근까지 투자자 161명을 추가로 끌어모으면서 갑자기 활기가 돌았다. 이씨가 다른 분양 업무 대행사를 끌어들이면서 생긴 일이었다.&lt;br&gt;&lt;br&gt;A씨는 “이씨가 투자자에게 계약금 3000만원을 받으면 80%인 2400만원을 주기로 하고 B대행사에게 투자자 모집을 맡겼다”며 “이때부터 허위 분양 광고가 본격적으로 시작된 것”이라고 했다.&lt;br&gt;&lt;br&gt;경찰은 “계약금의 상당액이 분양업체 수수료 등 성과금으로 소진되는 구조에서 회원 가입 철회를 요구하는 일부 피해자들에게 계약서 내용을 빌미로 반환을 거부하면서 임대 사업이 무산될 가능성이 높아 피해자가 양산될 우려가 상당하다”고 지적했다.&lt;br&gt;&lt;br&gt;B 대행사가 투자자를 끌어모으려고 압수수색 영장에 명시된 것처럼 투자자가 혹할 만한 거짓이 담긴 분양 사기 형태의 광고를 했고, 투자자들이 이에 속아 낸 돈이 대행사에 성과금 등 형태로 흘러갔다는 것이다.&lt;br&gt;&lt;br&gt;이씨의 민간 임대 아파트 창립위원회에 돈을 낸 투자자는 200여 명으로 금액으로는 60억원 규모에 달하는 것으로 추정된다. 이 중 계약을 해지하고 돈을 돌려달라고 한 투자자는 60여 명, 금액은 18억원 상당이라고 한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NBU3ZKHEZBLIVPAJU2QHRQ6KM4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부모와 처자식 등 일가족 5명을 살해한 50대 가장 A씨가 지난 15일 경기도 용인서부경찰서로 압송되고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;A씨는 “계약금 80%를 주겠다고 하니 대행사가 눈에 불을 켜고 광고를 했다”며 “대행사 팀원급이 받는 계약 성사 수당만 1건당 400만원에 달했고, 투자자가 계약을 해지하려 해도 돈을 돌려주지 않으려고 전화도 안 받았다”고 했다.&lt;br&gt;&lt;br&gt;이어 “밑 빠진 독에 물 붓기 식으로 사업을 벌이다 계약금 반환을 놓고 민형사 소송이 들어오니 이씨가 B대행사와 돈을 토해내자는 협의도 했다”며 “그런데 협의 중 일가족을 살해하고 극단적 선택을 시도한 것”이라고 했다.&lt;br&gt;&lt;br&gt;광주 동부경찰서는 B 대행사 대표 C씨를 아파트 분양 사기 혐의로 조사 중이다. 압수수색 영장에는 C씨의 공동 범행에 대해 “민간 임대 아파트 계약자 모집을 전반적으로 관리하는 업체 대표로, ‘2년 후 입주 가능’ ‘10년 후 시세보다 저렴한 가격 분양 전환’ ‘국가가 보증하는 서민 민간 임대 아파트’란 말로 거짓말했다”는 내용이 담겨있다.&lt;br&gt;&lt;br&gt;A씨는 “돈을 돌려주자는 협의는 잘 안 됐던 것으로 안다”며 “이씨는 자신이 분양 업무 대행사에 근무하면서 아파트 분양에 성공해 돈도 만져봤던 사람”이라고 했다.&lt;br&gt;&lt;br&gt;이어 “사업이 안 풀리니 이씨 가족이 살고 있던 아파트를 팔고 같은 아파트 단지에 전세로 옮겨 살았다”며 “돈이 없어 해외 유학 가 있던 딸도 불러들였다”고 했다. 또 “이씨는 평소 아버지에 대해서도 미대 출신으로 교장까지 한 대단한 사람이라고 해왔다”며 “본인도 기독교 신자인데 왜 이런 극단적 선택을 했는지 모르겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/ZBCPTQIQO5E66UMP7G4WMD7OHY.jpg?width=1980&amp;height=1254&amp;auth=deaa471065206a05b6a51e1551590a692be76e99cd1c304365a47800ca53b265&amp;smart=true" type="image/jpeg" height="1254" width="1980">
+        <media:description type="plain">부모와 처자식 등 일가족 5명을 살해한 50대 가장 A씨가 지난 15일 경기도 용인서부경찰서로 압송되고 있다. /연합뉴스</media:description>
+        <media:credit role="author" scheme="urn:ebu">연합뉴스</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>고사리손으로 쓰러진 엄마 구한 9세 아들…“어린이집에서 배웠어요”</title>
+      <link>https://www.chosun.com/national/national_general/2025/04/17/EG26CIY5ZZCQTMVWDVNXDV6LFY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/17/EG26CIY5ZZCQTMVWDVNXDV6LFY/</guid>
+      <dc:creator>김자아 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 17 Apr 2025 03:02:19 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LI2O2POGVJD6XGGDPLEBBTJ2LI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;쓰러진 어머니를 심폐소생술로 구한 초등학생 정태운(9)군./tvN&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;갑자기 쓰러진 어머니를 심폐소생술로 살린 초등학생의 사연이 전해졌다.&lt;br&gt;&lt;br&gt;경기도 부천에 사는 부원초등학교 3학년 정태운(9)군은 지난 16일 방송된 tvN ‘유 퀴즈 온 더 블럭’에 출연해 어머니를 구한 상황을 떠올렸다.&lt;br&gt;&lt;br&gt;경기도 부천소방서에 따르면 정군의 어머니는 지난 1월8일 오후 10시20분쯤 부천 자택에서 급성 심근경색으로 쓰러졌다.&lt;br&gt;&lt;br&gt;정군은 당시 상황에 대해 “갑자기 주방에서 ‘쿵’ 소리가 나서 가보니 엄마가 거품을 물고 누워 있었다”고 했다.&lt;br&gt;&lt;br&gt;쓰러진 어머니를 발견한 정군의 대처는 침착했다. 정군은 “엄마가 숨 쉬는지 확인하고 119에 신고해서 119가 올 때까지 심폐소생술을 했다. 엄마가 쓰러져 있어서 무섭기도 했는데 침착하게 했다”고 말했다.&lt;br&gt;&lt;br&gt;정군은 “6세 때부터 어린이집, 태권도장에서 (심폐소생술을) 배웠고 예전에 다닌 원미초등학교랑 지금 다니는 초등학교에서도 배웠다”며 심폐소생술 교육을 받은 덕에 적절한 대처를 할 수 있었다고 답했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GTD6P3IB2BBKBCGCZLF5WJ4RSY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;심폐소생술 유공 부천소방서장 상장을 받은 정태운군./부천소방서&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정군은 구급대원이 도착할 때까지 7분간 심폐소생술을 이어갔다. 어머니는 호흡과 맥박이 제대로 돌아오지 않는 위급한 상황이었다. 의식이 없는 상태로 병원으로 이송된 어머니는 이후 심장 질환 치료를 받고 퇴원해 현재 건강을 회복해 일상생활을 하고 있다.&lt;br&gt;&lt;br&gt;MC 유재석은 정군의 손을 만지며 “고사리손이다. 이 조그마한 손으로 어머니를 구조했다”며 “어른들도 3분 이상 심폐소생술은 힘들다”고 했다.&lt;br&gt;&lt;br&gt;이어 “누구에게나 올 수 있는 상황이다. 골든타임이 4분이다. 4분 안에 긴급한 조치가 취해져야 한다. 흉부 압박을 해서 심폐소생술을 해야 한다”고 강조했다.&lt;br&gt;&lt;br&gt;정군은 이 일로 소방서장 상장을 받았다. 부천소방서는 지난달 정군에게 심폐소생술 유공 소방서장 상장을 수여했다. 지준호 부천소방서장은 “신속하고 정확한 119 신고 및 심폐소생술로 어머니를 구한 태운 학생에게 감사의 마음을 전한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/GTD6P3IB2BBKBCGCZLF5WJ4RSY.jpg?width=600&amp;height=420&amp;auth=ad73382d9003ca3beb7d236047269520e1d64e49c6fdee4e960177c74c905313&amp;smart=true" type="image/jpeg" height="420" width="600">
+        <media:description type="plain">심폐소생술 유공 부천소방서장 상장을 받은 정태운군./부천소방서</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>문다혜, 1심서 벌금 1500만원... ‘음주운전·불법숙박업’ 혐의</title>
+      <link>https://www.chosun.com/national/national_general/2025/04/17/3HDMGQSB3NBSXAZJJDIHDNW6ZE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/17/3HDMGQSB3NBSXAZJJDIHDNW6ZE/</guid>
+      <dc:creator>구동완 기자, 안태민 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 17 Apr 2025 02:35:13 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GCNSMJRN5ZK77FCBQUHSCMIQ3Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;음주운전과 불법 숙박업 혐의로 기소된 문재인 전 대통령의 딸 문다혜씨가 17일 서울 마포구 서울서부지방법원에서 열린 1심 선고 공판을 마친 뒤 차량으로 이동하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;음주운전과 불법 숙박업 운영 혐의로 불구속 기소된 문재인 전 대통령의 딸 문다혜(42)씨에게 벌금형이 선고됐다.&lt;br&gt;&lt;br&gt;서울서부지법 형사5단독 김형석 판사는 17일 도로교통법상 음주운전과 공중위생관리법 위반 혐의로 재판에 넘겨진 문씨에게 벌금 1500만원을 선고했다. 검찰은 지난 3월 문씨에 대해 징역 1년을 구형했다.&lt;br&gt;&lt;br&gt;재판부는 이날 “피고인의 음주운전과 관련해 혈중알코올농도 수치가 높고 신고하지 않은 숙박업을 장기간 운영해 매출액이 고액인 점을 고려했을 때 죄질이 가볍지 않다”면서도 “잘못을 인정하고 깊이 뉘우치고 있는 점, 해당 사건 이전에 형사처벌 전력이 없는 점 등을 양형에 참작했다”고 선고 이유를 밝혔다.&lt;br&gt;&lt;br&gt;이날 검정색 자켓을 입고 법원에 출석한 문씨는 재판을 마친 뒤 선고 결과에 대한 입장과 항소 계획을 묻는 기자들의 질문에 별다른 답을 하지 않고 자리를 떠났다.&lt;br&gt;&lt;br&gt;문씨는 지난해 10월 5일 용산구 이태원 해밀톤호텔 앞에서 만취 상태로 차를 몰며 차선을 바꾸다 뒤따라오던 택시와 부딪힌 혐의(도로교통법상 음주운전)로 재판에 넘겨졌다. 사고 당시 문씨의 혈중알코올농도는 0.149%로 면허 취소 기준(0.08%)을 넘겼다.&lt;br&gt;&lt;br&gt;문씨는 본인 소유의 서울 영등포구 오피스텔과 빌라, 제주시 한림읍 협재리에 있는 단독주택을 불법 숙박 업소로 운영한 혐의도 받는다. 문씨는 숙박업 신고를 하지 않고 오피스텔 등을 불법으로 숙박업에 이용했다. 공중위생법상 숙박업 등록 없이 영업 행위를 하다 적발되면 2년 이하 징역 또는 2000만원 이하 벌금형을 받는다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“이제는 초여름” 한낮 대전 27도·서울 24도...내일은 대구 29도</title>
+      <link>https://www.chosun.com/national/transport-environment/2025/04/17/VU25GQGM65CNVDKGWJ2REU36TU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/04/17/VU25GQGM65CNVDKGWJ2REU36TU/</guid>
+      <dc:creator>정해민 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 17 Apr 2025 03:06:39 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IQESL25L4NMAPFJM7SKQIUXZEA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;곳곳에서 초여름에 가까운 날씨가 이어진 17일 서울 종로구 광화문광장에서 외국인 관광객이 물놀이를 하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;17일 일본 남쪽 해상에 자리한 고기압 가장자리를 타고 우리나라로 남서풍이 불면서, 기온이 예년 이맘때보다 2∼6도 높은 수준을 유지하겠다. 초여름 수준으로 한낮 기온이 올라갈 전망이다.&lt;br&gt;&lt;br&gt;기상청은 이날 낮 기온을 18~27도로 예보했다. 전날(18.1~26.8도)보다 조금 높거나 비슷한 수준이다. 기상청은 “전국 내륙을 중심으로 낮과 밤의 기온차가 15도 내외로 크겠으니, 건강관리에 유의하기 바란다“고 했다.&lt;br&gt;&lt;br&gt;한편 늦은 오후(오후 3~6시)부터 밤(오휴 6시~밤 12시) 사이 대기 상층으로 북쪽에서 기압골이 다가오면서 강원 내륙·산지에 5㎜ 미만의 비를 뿌리겠다.&lt;br&gt;&lt;br&gt;이 비에는 황사가 섞여 있을 수 있다. 지난 15일 고비사막에서 발원한 황사가 우리나라를 지나는 중이기 때문이다. 이날 황사 일부가 대기 하층으로 미세먼지(PM10) 농도가 높아지는 지역이 있을 수 있으나, 전반적으로는 영향이 적을 전망이다. &lt;br&gt;&lt;br&gt;또 기압골이 접근해오며 남고북저 기압계가 만들어져 전국에 강풍이 이어지겠다. 이날까지 전국 곳곳에 순간풍속 시속 55㎞(15㎧) 안팎의 강풍이 불겠으며, 제주북부·중산간·산지엔 18일 새벽까지 순간풍속 시속 70㎞(산지는 90㎞) 이상의 더 거센 강풍이 불겠다.&lt;br&gt;&lt;br&gt;한편 18일은 대구의 낮 기온이 29도까지 오르는 등 곳곳에서 초여름에 가까운 날씨가 이어지겠다. 아침 최저기온은 10∼16도, 낮 최고기온은 16∼29도로 예년보다 2∼6도가량 높겠다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>김수로 “코로나19로 죽을 뻔...인생의 큰 깨달음 얻었다”</title>
+      <link>https://www.chosun.com/national/people/2025/04/17/CGNOTGW3N5EHRAQZ6YAUCCRE7E/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/04/17/CGNOTGW3N5EHRAQZ6YAUCCRE7E/</guid>
+      <dc:creator>정아임 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 17 Apr 2025 02:42:42 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SY62KTPGRNHMVMUE3GN5GT5VPM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;배우 김수로./인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;배우 김수로(54)가 신종 코로나바이러스 감염증(코로나19)으로 죽을 뻔했다고 밝혔다. &lt;br&gt;&lt;br&gt;김수로는 지난 14일 공개된 유튜브 채널 ‘짠한형 신동엽’에 출연해 “사실 몇 년 전에 진짜로 죽을 고비를 넘겼다”고 말했다. &lt;br&gt;&lt;br&gt;그는 “돌아가신 분들이 너무 많아서 나는 어디 가서 얘기를 못 하겠더라. 내가 정말로 코로나19로 죽을 뻔했다”며 “아무도 모른다. 아내밖에 모른다”고 했다.&lt;br&gt;&lt;br&gt;이어 “집에 산소포화도 기계가 꼭 있어야 하는 이유가 있더라. 산소포화도가 90 밑으로 떨어지면 119에 전화해야 한다. 어떤 병으로 생을 마감할 때는 (본인이) 죽는 걸 모른다”며 “호흡이 천천히 안 되면서, 자면서 (죽는데) 내가 이걸 경험했다. 이때 옆에 (누군가) 있지 않으면 그냥 죽는 거다”라고 설명했다. &lt;br&gt;&lt;br&gt;또한 “격리를 위해 간호 인력들이 나를 끌고 내려가려고 집을 방문했을 때 엉엉 울었다. 내가 붙들려 나가니까 길거리에 사람이 하나도 없더라. 날 완벽한 바이러스로 본 것”이라며 “감염되면 안 되는 게 맞는데...그게 맞지만 ‘세상이 나를 버렸구나’라는 생각이 들었다. 눈물이 많이 났다. 정말 인생의 큰 깨달음을 얻었다”고 했다. &lt;br&gt;&lt;br&gt;그러면서 “그걸 경험하고 내 인생이 바뀌었다”며 “이제는 세상을 바라볼 때 용서 못 할 것도 없고, 다 좋고 사랑스럽다. 다 용서가 된다”고 덧붙였다.&lt;br&gt;&lt;br&gt;한편, 김수로는 1993년 ‘투캅스’ 1편에 단역으로 출연하며 영화계 데뷔했다. 이후 영화 ‘쉬리’ ‘주유소 습격사건’ 등 다수의 영화에 출연하며 본격적으로 활약했다. 이 외에도 드라마 ‘신사의 품격’, 예능프로그램 ‘패밀리가 떴다’ 등 방송가에서도 활발하게 활동했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>딥페이크 성범죄 7개월간 963명 검거…70%가 10대였다</title>
+      <link>https://www.chosun.com/national/national_general/2025/04/17/GOQT5BSSX5HGTDZCLZUKNP5EXA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/17/GOQT5BSSX5HGTDZCLZUKNP5EXA/</guid>
+      <dc:creator>최혜승 기자 </dc:creator>
+      <description/>
+      <pubDate>Thu, 17 Apr 2025 02:26:19 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YFKHGXIILZE35BIR36NFSUUQHA.png"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=김의균&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰이 딥페이크 성범죄를 7개월간 집중 단속해 963명을 검거했다. 전체 검거 인원의 70%가 10대였으며 촉법소년(만 10세 이상~14세 미만)도 72명 붙잡혔다. &lt;br&gt;&lt;br&gt;경찰청 국가수사본부는 작년 8월 28일부터 지난달 31일까지 딥페이크 성착취물 범죄 행위를 집중 단속했다고 17일 밝혔다. 그 결과 1429건의 관련 범죄를 적발하고 이 중 963명을 검거, 59명을 구속했다. 집중 단속 시행 이전인 작년 1~8월 267명이 검거된 것과 비교하면 260% 늘었다. &lt;br&gt;&lt;br&gt;연령별 검거 인원은 ▲10대 669명(촉법소년 72명) ▲20대 228명 ▲30대 51명 ▲40대 11명 ▲50대 이상 4명이다. 10대와 20대는 전체 검거인원의 93.1%를 차지했다. &lt;br&gt;&lt;br&gt;검거된 인원 중에는 2023년 8월부터 지난 3월까지 아이돌그룹의 이름을 딴 텔레그램 방을 운영하며 연예인들에 대한 허위 영상물 약 1100개를 제작·유포한 사례가 있었다. &lt;br&gt;&lt;br&gt;2022년 11월부터 작년 8월까지 대학생 피해자들의 이름과 학교명을 표기한 텔레그램 방을 개설해 딥페이크를 약 270회 유포한 피의자도 있었다.&lt;br&gt;&lt;br&gt;경찰은 방송통신심의위원회 및 디지털성범죄피해자지원센터 등 유관기관에 피해 영상물 1만535건 삭제·차단을 요청했다. &lt;br&gt;&lt;br&gt;경찰은 성폭력처벌법 개정에 따라 오는 6월 4일부터 딥페이크 성범죄 피해자가 성인일 경우에도 위장 수사가 가능해지는 만큼 이를 적극 활용할 방침이다.&lt;br&gt;&lt;br&gt;경찰청은 “딥페이크를 이용해 성적 허위 영상물을 제작하는 행위뿐 아니라 단순히 소지·구입·시청하는 경우도 처벌 대상이 된다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>불법 홀덤펍 등 도박장 주택가로…경찰 “단속 피하려”</title>
+      <link>https://www.chosun.com/national/regional/yeongnam/2025/04/17/YGC7WDANKREDXPJNT27G736AXI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/yeongnam/2025/04/17/YGC7WDANKREDXPJNT27G736AXI/</guid>
+      <dc:creator>박주영 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 17 Apr 2025 02:20:57 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6FOTCGUG65FKVF3R4YJ3MM2PRQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산경찰청 형사기동대가 최근 도박장으로 운영된 불법 홀덤펍에서 압수한 돈 등 증거물./부산경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;불법 홀덤펍 등 도박장이 오피스텔이나 주택가로 숨어들고 있는 것으로 드러났다.&lt;br&gt;&lt;br&gt;부산경찰청은 부산 시내 오피스텔 등에서 50억원대 불법 홀덤펍(카드로 하는 포커게임의 일종) 도박장을 운영한 혐의(도박장소 개설 등)로 40대 A씨 등 업주 2명을 구속 송치하고 나머지 일당과 손님 등 60명을 불구속 송치했다고 17일 밝혔다.&lt;br&gt;&lt;br&gt;경찰에 따르면 A씨 등은 2022년 11월부터 2024년 4월까지 부산 강서구 명지동에 불법 홀덤펍 도박장을 차려놓고 판돈 50억원대의 도박을 하게 하면서 게임용 칩을 현금으로 환전해 주며 판돈의 10%를 수수료로 챙긴 혐의를 받고 있다. &lt;br&gt;&lt;br&gt;경찰 관계자는 “A씨 등은 경찰의 불법 홀덤펍 단속이 강화되자 지난해 4월 상가 업소를 정리하고 주거지 오피스텔로 장소를 옮겨 도박장을 운영하다 붙잡혔다”고 말했다. &lt;br&gt;&lt;br&gt;조사 결과, 이들은 일반음식점으로 업종을 신고해 음료를 마시며 오락으로 홀덤펍을 즐기는 곳처럼 꾸몄지만 실제로는 불법 도박장을 운영한 것으로 드러났다. &lt;br&gt;&lt;br&gt;이들은 또 조직폭력배 등을 동원해 카카오톡이나 SNS 광고를 통해 손님을 모집하고 도박장 안팎에 CCTV를 설치해 신원이 확인된 사람만 입장시키며 경찰 단속을 피해온 것으로 파악됐다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “단골손님들의 직업은 조직폭력배, 주부, 동물병원 수의사, 장례지도사 등으로 다양했다”고 말했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QZETZQAYR5EL7KI5KAZXRD2ELM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산경찰청 형사기동대가 최근 부산 연제구 연산동 한 단독주택에 개설, 운영 중인 '불법 파워볼 도박장'을 급습하고 있다./부산경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰은 또 불법 파워볼(로또처럼 숫자가 쓰인 공 여러 개를 뽑으면 나오는 숫자를 이용하는 게임) 도박장을 개설한 혐의로 50대 여성 운영자 B씨를 구속 송치하고 종업원 1명과 도박참여자 2명을 불구속 송치했다.&lt;br&gt;&lt;br&gt;B씨는 지난 2023년 9월부터 2024년 6월까지 부산 연제구 연산동 한 가정주택에서 파워볼을 모방한 인터넷 중계 화면을 방송하면서 20억원대 복권구매식 불법 도박장을 운영한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;경찰은 “이들의 파워볼은 복권 구매 한도가 무제한이고, 시간 제한 없이 24시간 구매할 수 있었다”며 “단속에 대비해 CCTV를 통해 24시간 출입자를 감시하는 것은 물론 잠겨진 철제 2중 문을 통해 미리 전화로 확인된 인물만 입장시켰다”고 말했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[단독] 현역 군인 수사권 없는 경찰, ‘계엄 연루 현역’ 수사해 공수처 이첩</title>
+      <link>https://www.chosun.com/national/court_law/2025/04/17/VH3W4PVXUFEKJDKIW5NQP3YGNI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/04/17/VH3W4PVXUFEKJDKIW5NQP3YGNI/</guid>
+      <dc:creator>이민준 기자, 유희곤 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 17 Apr 2025 01:38:19 +0000</pubDate>
+      <content:encoded>이른바 ‘12‧3 비상계엄 사태’를 두고 검찰‧경찰‧고위공직자범죄수사처(공수처) 세 기관은 경쟁적으로 수사를 벌여왔다. 검찰이 윤석열 전 대통령을 기소하면서 수사기관 간 경쟁은 잦아들었지만, 이 과정에서 불거진 각 기관의 수사권에 대한 논란은 계속되고 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/T2HPH2LYRNI2HE47NFDD43PQMU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰청 국가수사본부./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;명시적으로 내란 혐의에 대해 직접 수사를 개시할 수 있는 경찰은 국가수사본부에 비상계엄 특별수사단(특수단)을 별도로 꾸린 뒤 비상계엄 수사를 벌여왔다. 그러나 경찰은 현행법상 직접 수사 대상이 아닌 현역 군인까지 피의자 또는 참고인으로 조사해 공수처에 사건을 다수 이첩한 것으로 17일 확인됐다. 법조계에서는 경찰의 수사에 대해 “위법으로 볼 여지가 있다”는 지적이 나온다.&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 경찰 특수단은 이날까지 공수처에 비상계엄 관련 사건 40여 건을 이첩한 것으로 전해졌다. 이 중 15건은 현역 군인이 피의자인 사건이라고 한다. 현역 군인에 대한 재판권은 성범죄, 군인‧군무원 사망, 군인이 되기 전 저지른 범죄 등 일부를 제외하고는 군사법원에 있다. 경찰이 현역 군인을 내란 혐의로 수사할 수 있는 근거는 없는 셈이다. &lt;br&gt;&lt;br&gt;실제 경찰은 작년 12월 15일 예비역인 노상원 전 정보사령관과 함께 현역 군인인 문상호 전 정보사령관을 긴급체포한 뒤 서울중앙지검에 사후 승인을 요청했다. 그러나 검찰은 다음 날 요청을 받아들이지 않았다. 당시 현역 군인 신분이던 문 전 사령관에 대한 긴급체포는 군사법경찰 역할을 하는 국방부 조사본부가 했어야 하고, 사후 승인도 군검사가 해야 한다는 취지였다.&lt;br&gt;&lt;br&gt;현행법상 공수처 검사는 군검사 직무를 수행할 수 있다. 장성급 군인의 비위, 직권남용 혐의에 대한 수사 권한도 있다. 영관급 군인에 대한 수사도 장성급 군인들의 공범으로 보고 수사가 가능하다고 공수처는 보고 있지만, 이들을 내란 혐의로 직접 기소할 권한이 공수처엔 없다. 이 때문에 공수처는 현역 군인이 피의자인 사건들을 조만간 군검찰로 이첩할 계획인 것으로 전해졌다. 앞서 공수처는 경찰에서 풀려난 문 전 사령관을 작년 12월 18일 체포해 구속한 뒤, 12월 26일 군검찰로 사건을 보낸 바 있다.&lt;br&gt;&lt;br&gt;법조계에선 비상계엄 사태에 연루된 현역 군인에 대한 수사는 처음부터 군검찰 또는 국방부 조사본부가 맡았어야 한다는 지적이 나온다. 한 법조계 관계자는 “군검찰이 최종적으로 기소를 하더라도, 군사법원에서 경찰이 조사했던 피의자 신문 조서 등에 대한 증거능력을 인정하지 않을 가능성이 높다”며 “수사 실적에만 매달리다 원칙을 어긴 셈”이라고 했다. 경찰에 피의자로 입건된 한 군인 측 관계자는 “(군검찰이 포함된) 검찰 특별수사본부와 경찰에서 이중으로 조사받았는데 4개월째 결론이 나지 않아 힘든 상황”이라고 전하기도 했다.&lt;br&gt;&lt;br&gt;이와 관련해 경찰 특수단 관계자는 지난 14일 브리핑에서 “검찰로 송치했던 현역 군인 2명은 군검찰로 이첩했다”며 “경찰의 군인 수사 문제에 대해 (검찰이) 송치받기 곤란해 했던 것으로 안다”고 말했다. 이전에는 공수처로 이첩했던 현역 군인 사건을 최근엔 군검찰로 바로 보낸 것이다. 부장검사 출신 변호사는 “세밀하지 못했던 수사권 조정이 불러일으킨 문제”라며 “전면적인 개정이 필요한 상황”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘전자칠판 납품비리’ 구속 인천시의원 1명 석방…구속적부심 인용</title>
+      <link>https://www.chosun.com/national/court_law/2025/04/17/NIQYCZ7ZIVBGPBS43EDWFMRVDA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/04/17/NIQYCZ7ZIVBGPBS43EDWFMRVDA/</guid>
+      <dc:creator>인천=이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 17 Apr 2025 01:58:04 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RZJNBMOJGRSV7D5G26LTNL3ANY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원의 구속적부심사 인용 결정으로 석방된 조현영 의원./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전자칠판을 설치하도록 학교에 영향력을 행사하고 납품한 업체로부터 뇌물을 받은 혐의로 최근 구속된 2명의 인천시의원 중 한명이 석방됐다. &lt;br&gt;&lt;br&gt;인천지법 정우영 부장판사는 특정범죄 가중처벌 등에 관한 법률상 뇌물 혐의로 구속된 조현영 인천시의회 의원에 대한 구속적부심사를 진행한 뒤 인용 결정했다고 17일 밝혔다. &lt;br&gt;&lt;br&gt;법원은 “인용할 만한 타당한 이유가 있다”며 이같이 결정하고, 조 의원에 대해 보증금 1000만원이나 보증서를 내라는 조건을 붙였다. &lt;br&gt;&lt;br&gt;구속적부심사는 피의자가 구속의 적법성을 다투며 법원에 재차 판단을 요구하는 절차다. 인용될 경우 석방된다. &lt;br&gt;&lt;br&gt;법원은 조 의원과 함께 구속적부심사를 청구한 신충식 인천시의원과 전자칠판 납품업체 대표 A씨에 대해선 기각 결정했다. 법원은 “구속적부심사를 청구할 이유가 없다”고 했다. &lt;br&gt;&lt;br&gt;신 의원과 조 의원 등 2명은 중학교 교감 B씨와 함께 2023년 10월부터 지난해 4월까지 인천시교육청의 20억원대 전자칠판 설치 지원 사업과 관련해 A씨 등 업체 관계자로부터 금품을 수수한 혐의를 받고 있다. &lt;br&gt;&lt;br&gt;이들은 A씨 등 업체의 전자칠판이 학교에 납품되도록 도와주고 리베이트 명목으로 납품 금액의 20% 수준인 3억8000만원을 요구해 이 중 2억2000만원을 받은 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰은 이번 전자칠판 납품비리 사건과 관련, 신 의원과 조 의원, A씨를 비롯해 총 9명을 입건해 검찰에 송치했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘허위 사실 유포했다’…경찰서장 명예훼손으로 고소한 부하 직원</title>
+      <link>https://www.chosun.com/national/incident/2025/04/17/ZTNW5IRTXJHNDCUPOPWQMHFDPU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/04/17/ZTNW5IRTXJHNDCUPOPWQMHFDPU/</guid>
+      <dc:creator>김정엽 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 17 Apr 2025 01:50:51 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FZXKRC7VWWQKEUWM764BBW4KAE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전북 지역의 한 경찰서에 근무하는 경찰 간부가 허위 사실을 유포했다는 이유로 자신의 상관인 서장을 고소했다. &lt;br&gt;&lt;br&gt;17일 전북경찰청 등에 따르면 전북 지역 한 경찰서에 근무하는 A(50대)경감이 최근 자신의 상관인 B(50대)서장을 명예훼손 등의 혐의로 전주지검에 고소했다.&lt;br&gt;&lt;br&gt;고소장에는 ‘당직 근무 날 술을 마시지 않았는데 B서장이 이를 마치 사실인 것처럼 직원들에게 퍼뜨렸다’는 내용이 담겼다고 한다. B서장은 관련 혐의를 부인하고 있는 것으로 알려졌다. &lt;br&gt;&lt;br&gt;B서장은 지난해 8월부터 이 경찰서에서 근무했고, A경감은 이전부터 근무했다고 한다. 경찰서에서 근무하던 A경감은 최근 한 파출소로 자리를 옮긴 상태다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “서로의 입장이 달라 현재 사실관계를 파악하고 있다”고 말했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[부음] 임호상(소리기획 대표)씨 모친상</title>
+      <link>https://www.chosun.com/national/regional/2025/04/17/P7WLOP7A6BHRFPI4HORQOIUWMI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/04/17/P7WLOP7A6BHRFPI4HORQOIUWMI/</guid>
+      <dc:creator>여수=조홍복 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 17 Apr 2025 01:59:26 +0000</pubDate>
+      <content:encoded>▲&lt;b&gt;조삼순&lt;/b&gt; 별세, &lt;b&gt;임호상&lt;/b&gt; 소리기획 대표 모친상=17일6시24분 여수 제일병원장례식장, 발인 19일9시, (061)692-4444&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“몸이 너무 가렵다”...서울 한 대학교 남자 기숙사서 ‘옴’ 발생 </title>
+      <link>https://www.chosun.com/national/national_general/2025/04/17/YG3FH4ASERAIDNO5V67T45DGDI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/17/YG3FH4ASERAIDNO5V67T45DGDI/</guid>
+      <dc:creator>정아임 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 17 Apr 2025 00:40:20 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VB5MWGBBDZBNVK7ZJ4FNMRK5HQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;피부확대경으로 본 옴진드기. /대한피부과학회&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 노원구 삼육대학교의 남자 기숙사에서 2명의 학생이 옴에 걸려 귀가하는 일이 발생했다. &lt;br&gt;&lt;br&gt;17일 삼육대 등에 따르면 지난 10일 남자 기숙사에 거주하는 학생 두 명이 옴에 걸린 것으로 확인됐다. &lt;br&gt;&lt;br&gt;학교 측은 해당 학생 두 명을 즉시 귀가시켰으며, 다음 날 건물 전체 소독을 완료했다. 또 기숙사생들에게 문자 등으로 옴 발생 사실을 공지했다. &lt;br&gt;&lt;br&gt;이후 15일에는 여자 기숙사에 거주하는 학생 한 명이 가려움을 호소했으나, 검사 결과 옴에 걸린 것은 아닌 것으로 파악됐다. &lt;br&gt;&lt;br&gt;학교 측은 학생들의 우려를 고려해 여자 기숙사 건물 또한 소독 조치 중이라고 설명했다. 또 옴이 발생한 층에 거주하는 학생들에게는 아래층 방문을 자제해달라고 요청했으며, 기숙사생들에게는 도서관 대신 기숙사 안에서 공부하도록 안내하고 있다고 덧붙였다.&lt;br&gt;&lt;br&gt;학교 측은 15일 소셜미디어 단체 대화방을 통해 ‘기숙사에 옴 환자가 발생해 소독을 실시한다’고 공지했다. 공지가 얼마 지나지 않아 지워지며 일부 구성원이 문제를 제기하기도 했다. &lt;br&gt;&lt;br&gt;대학생 커뮤니티 에브리타임의 삼육대 게시판에는 “전염병이면 발생 근원지는 제대로 공지해줘야 하는 것 아닌가” 등의 글이 잇따라 올라왔다. &lt;br&gt;&lt;br&gt;삼육대 관계자는 조선닷컴과의 통화에서 “현재까지 추가 감염자는 나오지 않았으나 잠복기를 고려해 예의 주시 중”이라며 “옴에 걸리는 것은 눈에 보이지 않기 때문에 예방 차원에서 기숙사 학생들에게 옴 치료제를 제공해 바를 수 있도록 했다”고 설명했다. &lt;br&gt;&lt;br&gt;옴은 옴진드기가 피부에 기생하면서 생긴다. 이 진드기가 피부 각질층에 굴을 만들면서 심한 가려움증이 생기고, 대개 4∼6주 정도 잠복기를 거친다. 옴을 치료하려면 자기 전 목 아래 전신에 약을 바르고 다음 날 아침에 씻어내야 한다. 옴은 전염성이 매우 높아 환자는 물론 그 가족 및 접촉한 사람도 증상의 유무와 상관없이 함께 치료를 받아야 한다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>60대 중국인 근로자, 태양광 시설 설치하다 공장 지붕서 추락사</title>
+      <link>https://www.chosun.com/national/regional/2025/04/17/3AXSFJPD4JFYPNSRVPO6T4O4RE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/04/17/3AXSFJPD4JFYPNSRVPO6T4O4RE/</guid>
+      <dc:creator>경산=노인호 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 16 Apr 2025 23:44:35 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G2KBPR4B3WIUSUCDFN5DSTMTDE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경산경찰서&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경북 경산의 한 공장 지붕에서 태양광 시설을 설치하던 외국인 근로자가 추락해 병원으로 옮겼으나 숨졌다. &lt;br&gt;&lt;br&gt;17일 경북 경산경찰서에 따르면 지난 16일 오후 2시 31분쯤 진량읍 한 자동차 부품 공장에서 중국 국적인 60대 남성 A씨가 공장 지붕에 태양광 시설을 설치하다 8m 아래로 떨어졌다. 이후 A씨는 병원으로 이송됐지만 숨졌다. A씨는 태양광 업체 소속 근로자인 것으로 조사됐다. &lt;br&gt;&lt;br&gt;경찰은 A씨가 소속된 태양광 업체 관계자와 목격자 등을 상대로 정확한 사고 경위를 조사 중이다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>20살 최연소 사시 합격자, 8년간 다니던 김앤장 떠난 뒤 근황</title>
       <link>https://www.chosun.com/national/national_general/2025/04/17/L3KXPUC47ZEDPPCCZTJIRF76ME/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/17/L3KXPUC47ZEDPPCCZTJIRF76ME/</guid>
@@ -730,45 +872,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/B2K7U2RDL5DZNJSVJYPE34OAXI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국내 노동법 분야 최고 권위자로 꼽히는 신홍(86) 전 중앙노동위원회 위원장이 15일 별세했다. 고려대 법대 교수, 서울시립대 총장을 지낸 신 전 위원장은 김영삼 정부에서 노사정위원회 위원장, 노무현 정부에서 중노위 위원장을 지냈다. 중노위의 일방적 행정 지도를 최소화하고 노사 의견을 존중하는 조정 중심 운영을 한 걸로 유명하다. 이로 인해 당시 중노위 조정 성립률은 최고치인 57%를 기록했다. 1997년 킬리만자로를 등정했을 정도로 등산 애호가로도 알려졌다. 빈소 순천향 서울병원, 발인 17일 오전 6시 15분. (070)4109-8472.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[인사] 행정안전부 외</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2025/04/16/4TDXPK7RFRCFXLFU7KQGEN3R7E/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2025/04/16/4TDXPK7RFRCFXLFU7KQGEN3R7E/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Tue, 15 Apr 2025 16:42:12 +0000</pubDate>
-      <content:encoded>▲&lt;b&gt;행정안전부&lt;/b&gt;▷상황총괄담당관 박준동▷안전사업조정과장 김재웅▷안전개선과장 유지선▷자연재난대응과장 지용구▷복구지원과장 박종빈&lt;br&gt;&lt;br&gt;▲&lt;b&gt;문화체육관광부&lt;/b&gt;▷게임콘텐츠산업과장 최재환▷관광산업정책과장 이영민&lt;br&gt;&lt;br&gt;▲&lt;b&gt;산업통상자원부&lt;/b&gt;▷전력시장과장 엄재영&lt;br&gt;&lt;br&gt;▲&lt;b&gt;고용노동부&lt;/b&gt;▷노동행정인공지능혁신과장 김수진&lt;br&gt;&lt;br&gt;▲&lt;b&gt;국립중앙박물관&lt;/b&gt;▷국립경주박물관 교육문화교류과장 이정원&lt;br&gt;&lt;br&gt;▲&lt;b&gt;서울경제TV&lt;/b&gt;▷금융증권부장 김대웅&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[부음] 김용래씨 별세 외</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2025/04/16/NAFLSCQKNBHPJOSPN4MMICXWKE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2025/04/16/NAFLSCQKNBHPJOSPN4MMICXWKE/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Tue, 15 Apr 2025 16:41:45 +0000</pubDate>
-      <content:encoded>▲&lt;b&gt;김용래 &lt;/b&gt;별세, &lt;b&gt;백종원&lt;/b&gt;·&lt;b&gt;백선하&lt;/b&gt; 서울대병원 신경외과 교수 모친상, &lt;b&gt;박용희&lt;/b&gt;·&lt;b&gt;박순범&lt;/b&gt; 시모상=15일6시 서울대병원, 발인 17일8시, (02)2072-2091&lt;br&gt;&lt;br&gt;▲&lt;b&gt;이재호 &lt;/b&gt;별세, &lt;b&gt;이정선&lt;/b&gt; 남편상, &lt;b&gt;이소영&lt;/b&gt;·&lt;b&gt;이하영&lt;/b&gt; 한국콘텐츠진흥원 소통홍보팀장 부친상=13일16시 건국대병원, 발인 17일6시30분, (02)2030-7902&lt;br&gt;&lt;br&gt;▲&lt;b&gt;전성근 &lt;/b&gt;별세, &lt;b&gt;전윤희&lt;/b&gt; 강원일보 편집부 차장 부친상, &lt;b&gt;진율원&lt;/b&gt; jk컴퍼니 대표 장인상=15일9시55분 원주민중요양병원, 발인 17일6시30분, (033)732-4670&lt;br&gt;&lt;br&gt;▲&lt;b&gt;최월순 &lt;/b&gt;별세, &lt;b&gt;김원일&lt;/b&gt; 법무법인 화우 변호사·&lt;b&gt;김원태&lt;/b&gt;·&lt;b&gt;김원웅&lt;/b&gt; 모친상, &lt;b&gt;임명숙&lt;/b&gt;·&lt;b&gt;이지윤&lt;/b&gt;·&lt;b&gt;이미영&lt;/b&gt; 시모상, &lt;b&gt;김재인&lt;/b&gt;·&lt;b&gt;김재휘&lt;/b&gt;·&lt;b&gt;김재덕&lt;/b&gt;·&lt;b&gt;김재림&lt;/b&gt;·&lt;b&gt;김재욱&lt;/b&gt;·&lt;b&gt;김재원&lt;/b&gt; 조모상, &lt;b&gt;이은선&lt;/b&gt; 시조모상=15일5시 서울성모병원, 발인 17일5시10분, (02)2258-5963&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>방일영문화재단, 30일까지 언론인 저술·출판 지원 접수</title>
-      <link>https://www.chosun.com/national/people/2025/04/16/FU7XWXB4LBBK7JTKFTQZWAIDPE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/04/16/FU7XWXB4LBBK7JTKFTQZWAIDPE/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Tue, 15 Apr 2025 16:40:45 +0000</pubDate>
-      <content:encoded>&lt;b&gt;방일영문화재단&lt;/b&gt;(이사장 변용식)은 30일까지 2025년 상반기 언론인 저술‧출판 지원 신청을 받는다. 신청 대상은 전‧현직 언론인과 언론학자이며 선정자 1인당 800만원의 지원금이 지급된다. (지원금을 받으면 1년 내 책을 출간해야 한다.) 방일영문화재단 홈페이지(&lt;a href="http://www.bangfound.org/" rel=""&gt;www.bangfound.org&lt;/a&gt;) 참조. (02) 724-5042&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>스드메 추가금만 수백만원… 결혼 첫발부터 ‘호구’</title>
-      <link>https://www.chosun.com/national/welfare-medical/2025/04/16/PIQHXAJNKRCERPXJ5A5G4RPAWQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/04/16/PIQHXAJNKRCERPXJ5A5G4RPAWQ/</guid>
-      <dc:creator>오경묵 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 15 Apr 2025 16:23:27 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/53QZRIP7OZGR3GZOFNJMD6MOOU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;예비부부들에게 ‘스드메(스튜디오 촬영·드레스·메이크업)’ 서비스의 높은 비용은 큰 부담으로 다가온다. 사진은 한 웨딩 박람회에서 웨딩드레스를 둘러보고 있는 예비부부. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대기업에 다니는 직장인 조모(35·남)씨는 지난해 결혼을 앞두고 스튜디오 촬영을 한 뒤 앨범을 만드는 과정에서 촬영비나 앨범 제작비와는 별도로 ‘컨펌비’ 27만원을 추가로 냈다. 촬영 후 사진 원본 1200여 장 가운데 앨범에 넣을 20장을 골라 스튜디오 측에 보정을 요청했는데, 업체 측이 보정 결과를 확인하려면 추가 비용을 내라고 통보했기 때문이다. 조씨는 “돈을 안 내면 수개월 뒤 앨범이 제작된 뒤에야 사진을 확인할 수 있다고 해 울며 겨자 먹기로 냈다”고 말했다.&lt;br&gt;&lt;br&gt;결혼 준비 과정의 필수 요소로 꼽히는 ‘스(스튜디오 촬영)·드(드레스)·메(메이크업)’ 비용이 급등하고 있다. 결혼 준비의 1단계로 예식장을 정한 예비부부들은 2단계로 결혼 준비 대행업체(웨딩플래너)와 스드메를 계약한다. 그런데 최근 수년간 물가 인상 기조가 이어진 데다, 각종 추가금이 세분화되면서 가격이 급격히 올라 ‘스드메플레이션(스드메+인플레이션)’이라는 말까지 나올 정도다. 결혼 정보업체 듀오의 결혼 비용 실태 보고서에 따르면, 2020년 235만원이었던 스드메 비용은 올해 441만원으로 5년 사이 87% 올랐다. 같은 기간 소비자물가지수는 100에서 114로 14% 올랐다. 소비자물가지수 상승률에 비해 스드메 비용 상승률이 6배를 넘는 것이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/S6QY3FG4IREWHPXOYITPHS4EYQ.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=김성규&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;스드메 가격이 급격하게 오르는 이유로는 ‘깜깜이 가격 구조’가 주요 원인으로 꼽힌다. 결혼 준비 대행업체와 패키지 계약을 맺더라도 실제 서비스를 제공받을 업체를 어떤 곳으로 정하는지, 어떤 제품·서비스를 고르는지에 따라 추가금이 발생한다. 비싼 돈을 내고도 제대로 된 서비스를 받지 못하거나, 마지못해 추가금을 내는 경우가 많은 이유다. 기획재정부가 지난해 발표한 결혼 서비스 실태 조사를 보면, ‘스드메 패키지’를 이용한 신혼부부 가운데 87.8%는 추가금을 낸 것으로 나타났다. 평균 추가금은 173만원이었고, 최대 1300만원을 낸 경우도 있었다.&lt;br&gt;&lt;br&gt;지난해 결혼한 공무원 김모(34·여)씨는 메이크업을 받은 뒤 ‘흑채’ 비용까지 추가로 부담했다. 김씨는 “머리숱이 없어 보인다며 흑채 몇 번 뿌렸는데 3만원, 뒷머리를 간단히 다듬는 데 또 3만원이 붙었다”며 “얼리 스타트 비용까지 총 15만원을 추가로 냈다”고 말했다. 메이크업 업체들은 오전 9시 이전에 메이크업을 받으면 ‘얼리 스타트’ 명목으로, 오후 5시 이후에 끝나는 경우에는 ‘레이트 아웃’ 명목으로 10만원 안팎의 추가금을 받는다. &lt;br&gt;&lt;br&gt;드레스의 경우 시착을 할 때 업체당 3~4벌을 기준으로 5만~10만원의 ‘피팅비’를 별도로 부담해야 한다. 하지만 신부 마음대로 드레스를 고르지 못하고, 사진 촬영도 금지된다. 스드메 패키지 계약 형태에 따라 드레스 업체를 고르기만 해도 수십만 원에서 수백만 원의 추가금이 나가는 경우도 적지 않다. 결혼 준비 대행업체들이 패키지 계약엔 비교적 저렴한 업체를 끼워 넣고, 다른 업체를 고르면 ‘옵션비’를 추가로 부과하는 식이다. ‘드레스 업그레이드’ 추가금도 있다. 같은 업체에서도 기본 형태가 아닌 ‘블랙 라인’ 등 고가 드레스를 고를 경우 추가 비용이 붙는 것이다.&lt;br&gt;&lt;br&gt;스튜디오 촬영을 할 때는 신부의 드레스 착용을 돕는 ‘이모님’ 비용으로 25만원 안팎을 추가로 부담해야 한다. 촬영 도중 머리 모양을 바꾸고 싶다면 ‘헤어 변형’을 신청해야 하는데, 약 30만원의 추가금이 붙는다. 촬영 후 사진 원본·수정본 데이터 구매나 앨범 사진 추가, 액자 테두리 교환에도 별도의 비용이 붙는다.&lt;br&gt;&lt;br&gt;이은희 인하대 소비자학과 교수는 “스드메 업체들이 무분별하게 가격을 올리더라도 예비부부들이 ‘결혼은 평생 한 번’이라는 이유로 저항하지 못하고 수용하는 경우가 많다”며 “가격 표시제를 의무화하고, 추가금의 경우 기본 가격 대비 일정 수준을 넘지 못하도록 하는 방식으로 깜깜이 구조를 없애야 한다”고 했다.&lt;br&gt;&lt;br&gt;&lt;b&gt;☞스·드·메&lt;/b&gt;&lt;br&gt;&lt;br&gt;스튜디오 촬영·드레스·메이크업의 첫 글자를 딴 말. 통상 결혼식에 앞서 촬영해 앨범으로 남기는 사진, 앨범과 본식을 위한 드레스 대여 및 화장·머리 단장 서비스를 뜻한다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/53QZRIP7OZGR3GZOFNJMD6MOOU.jpg?width=1280&amp;height=728&amp;auth=1dc1cab58adb9c7de8c3620fbbdfd8abb4f826e9b60f0d481620db1ddf6b26aa&amp;smart=true" type="image/jpeg" height="728" width="1280">
-        <media:description type="plain">서울 한 호텔에서 열린 웨딩 박람회에서 예비 부부가 웨딩드레스를 구경하고 있다. /뉴스1</media:description>
-      </media:content>
-    </item>
-    <item>
       <title>‘韓의 재판관 지명’ 가처분, 금주 결론 나올 듯</title>
       <link>https://www.chosun.com/national/court_law/2025/04/16/IH76TQT7FNBRNFSRCR2NFIDEPA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/04/16/IH76TQT7FNBRNFSRCR2NFIDEPA/</guid>
@@ -778,15 +881,6 @@
       <content:encoded>한덕수 대통령 권한대행이 대통령 몫 헌법재판관 후보자 2명(이완규·함상훈)을 지명한 효력을 정지해 달라는 가처분 사건 선고가 이르면 이번 주 나올 전망이다. 헌법재판소는 15일 평의를 열고 재판관 지명에 대한 헌법소원과 권한쟁의 심판의 가처분 사건을 심리했다. 16일에도 오전, 오후 내내 평의를 진행할 방침이다. 법조계에선 “헌재가 오는 18일 문형배·이미선 재판관 퇴임 전, 후임자 지명 문제를 스스로 결정하려는 것 같다”는 분석이 나온다.&lt;br&gt;&lt;br&gt;한 권한대행이 지난 8일 신임 재판관 후보자로 이완규 법제처장과 함상훈 서울고법 부장판사를 지명하자, 김정환 변호사와 민주사회를 위한 변호사 모임(민변) 등은 헌재에 “권한대행의 재판관 지명은 위헌”이라며 헌법소원과 효력 정지 가처분을 신청했다. 우원식 국회의장도 같은 취지의 권한쟁의 심판과 가처분을 신청했다. 헌재는 마은혁 재판관을 주심으로 지정하고 신속하게 심리에 나섰다. 재판관 9명 중 5명 이상이 가처분을 인용하면 한 권한대행의 재판관 지명은 효력이 정지된다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4Q56JSSZQFDHJKOHWQWFSS6RAA.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=백형선&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;◇가처분 신청 자격 있나… 없으면 ‘각하’&lt;/b&gt;&lt;br&gt;&lt;br&gt;재판관 지명의 효력을 다투는 가처분 사건의 쟁점은 크게 두 가지다. ‘당사자가 가처분을 신청할 자격이 있는지’와 ‘권한 대행의 대통령 몫 재판관 지명이 위헌인지’ 하는 것이다.&lt;br&gt;&lt;br&gt;김 변호사 등은 “한 권한대행에 의해 위헌적인 재판관이 지명·임명되면, 현재 헌법 소송을 수행 중인 변호사나 재판 당사자가 재판받을 권리가 침해된다”고 주장하고 있다. 우 의장도 “국회의 재판관 후보자에 대한 임명 동의안 심의·표결권 등 인사 청문권이 침해됐다”고 했다.&lt;br&gt;&lt;br&gt;그러나 한 권한대행 측은 “재판관 지명이 변호사들이나 국회의 권한을 침해하지 않아 각하해야 한다”는 입장이다. 또 “재판관 후보자 발표는 헌법소원 대상인 ‘공권력 행사’가 아닌, 임명을 위한 내부적 절차에 불과해서 가처분 대상이 될 수 없다”고 맞서고 있다.&lt;br&gt;&lt;br&gt;법조계에서는 신청인 자격을 두고 엇갈린 평가가 나온다. 한 헌법 전문가는 “헌재에서 소송을 수행하거나 재판을 받고 있다는 이유로 재판관 지명에 대한 헌법 소원을 허용한다면, 앞으로 마음에 안 드는 재판관이 지명될 때마다 마구잡이로 소송을 낼 수 있게 될 것”이라고 했다. 반면 헌법연구관 출신 노희범 변호사는 “자격이 없는 재판관이 임명되면 적법하게 재판받을 권리가 침해된다고 볼 수 있다”고 했다.&lt;br&gt;&lt;br&gt;한편, 권한쟁의 사건에서 국회는 소송 자격이 없다는 것이 법조계의 중론이다. 노 변호사는 “한 권한대행이 재판관을 지명해 국회의 인사 청문회를 막거나 방해했다고 보기는 어렵다”고 했다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇‘대통령 몫’ 지명 가능한지... 의견 분분&lt;/b&gt;&lt;br&gt;&lt;br&gt;권한대행이 대통령 몫 재판관을 지명하는 일의 위헌 여부에 관해선 학계에서도 의견이 갈린다. 다수설은 “권한대행은 ‘현상 유지’ 차원에서만 대통령 권한을 행사할 수 있어서, 대통령 몫 재판관을 임명하는 적극적 행위는 허용되지 않는다”는 것이다. 김 변호사 등도 “한 권한대행이 재판관을 지명한 것은 차기 대통령의 임명권을 선취하는 것으로 위헌”이라고 주장한다.&lt;br&gt;&lt;br&gt;하지만 “헌법은 대통령 권한대행의 권한 행사 한계를 따로 규정하지 않아 재판관 지명이 가능하다”는 반론도 만만치 않다. 한 권한대행 측은 최근 헌재에 “권한대행은 헌법이 정하고 있는 대통령의 모든 권한을 행사할 수 있다”는 취지의 의견서를 냈다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇헌재, 후보자 청문 자료 제출 안 해 논란&lt;/b&gt;&lt;br&gt;&lt;br&gt;헌재가 재판관 지명에 대한 가처분을 인용하면, 헌법 소원이나 권한쟁의 사건의 결론이 나올 때까지 두 후보자 지명 및 임명 절차는 중단된다. 한 권한대행이 지명한 두 후보자의 임명은 사실상 취소되고, 차기 대통령이 새로운 후보자를 지명·임명할 가능성이 높아지는 것이다.&lt;br&gt;&lt;br&gt;반대로 기각되면, 한 권한대행은 재판관 후보자들의 인사 청문 요청안을 제출하고, 국회는 20일 내 인사 청문회를 개최해야 한다. 국회가 인사 청문회를 열지 않으면 한 권한대행은 10일 내 기일을 정해 청문 경과 보고서를 보내달라고 요청하고, 국회가 재차 거부하면 한 권한대행이 직접 재판관을 임명할 수 있다.&lt;br&gt;&lt;br&gt;한편, 헌재는 가처분 선고를 앞두고 두 재판관 후보자의 인사 청문회에 필요한 학력·경력 사항 등 서류를 인사혁신처에 제출하지 않은 것으로 확인됐다. 후보자들의 인사 청문 대응단도 꾸리지 않았다고 한다. 헌재 관계자는 “인사 청문 절차에는 협조하겠지만, 가처분 사건이 진행 중이라 서류 제출 등은 검토가 필요하다”고 했다. 이에 대해 정치권에서는 “헌재가 가처분 사건 결론을 내리기 전에 재판관 임명을 못 하게 하려고 서류 제출 등을 미루고 있는 것 아니냐”는 말이 나왔다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>승객이 비상문 열어… 이륙 못한 비행기</title>
-      <link>https://www.chosun.com/national/national_general/2025/04/16/6MTQS7KLZNENTGOV3MRS6HPUT4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/16/6MTQS7KLZNENTGOV3MRS6HPUT4/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Tue, 15 Apr 2025 16:30:47 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TQHWUYALXZHXVMDM4YRJPVCYQY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;15일 오전 8시 15분쯤 제주국제공항 활주로에서 이륙 준비 중이던 김포행 에어서울 여객기의 비상구가 갑자기 열렸다. 비상 탈출용 슬라이드까지 펼쳐졌다. 이 여객기에 탄 30대 탑승객이 “답답하다”면서 문을 연 것. 승객 200여 명은 다른 여객기로 갈아타는 불편을 겪었다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>“美 체류기간 넘기면, 영원히 여행 못 가”</title>
       <link>https://www.chosun.com/national/national_general/2025/04/16/COCSDVDMMBFT5HQC2HLM32NWWQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/16/COCSDVDMMBFT5HQC2HLM32NWWQ/</guid>
@@ -794,55 +888,6 @@
       <description/>
       <pubDate>Tue, 15 Apr 2025 16:29:49 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VZX2VEWZRZBMXJHY3GLI7KQFMQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;주한 미국 대사관이 미국 방문 시 비자에 따른 체류 기간을 준수할 것을 강조하는 공지문을 발표했다. &lt;br&gt;&lt;br&gt;미 대사관은 15일 소셜미디어 X(옛 트위터)에 올린 공지문에서 “미국에서 허가된 체류 기간을 한 번이라도 초과하면 미국 여행이 영구적으로 금지되거나 과거에 비자 면제 프로그램 자격 조건을 충족했더라도 향후 비자 발급이 어려워질 수 있다”고 밝혔다. 그러면서 “영사들과 이민 당국은 여러분의 체류 기간 초과 여부를 확인할 수 있다”면서 “규정을 준수하는 것은 본인의 책임”이라고 했다. 트럼프 행정부가 불법 이민자를 즉각 추방하는 등 이민 강경책을 추진하자 비자 관련 조치도 강화된 것이다. &lt;br&gt;&lt;br&gt;불상사를 예방하려면 미국 방문 시 발급받은 비자가 허가하는 체류 기간을 확인하고 입국한 뒤에는 체류 만료일 전에 미국에서 출국해야 한다. 미국은 ESTA(전자 여행 허가)를 통해 한국 국적자에게 사실상 무비자 입국을 허용하고 있다. 이를 발급받은 방문자는 미국에 90일까지 체류할 수 있다. 기간을 초과해 체류할 경우 미국 재방문을 ‘영구히’ 불허하겠다는 것이 트럼프 행정부 방침이다.&lt;br&gt;&lt;br&gt;체류 중 비자 목적과 다른 활동을 하다 적발될 경우에도 즉각 추방 등 처벌을 받을 수 있다. 한국 국적자가 가장 많이 이용하는 ESTA는 비영리 목적의 단기 출장 및 여행, 환승 등만 허용한다. ESTA로 입국해 영리 목적의 상거래 등을 해서는 안 된다는 것이다. 식당 또는 거리에서 벌이는 사소한 시비에서 비롯된 소란 행위나 음주 운전 등도 향후 미 방문의 제한 사항이 될 수 있다.&lt;br&gt;&lt;br&gt;목적에 맞는 비자를 소지했고, 소란 행위가 없었더라도 미 공항 출입국 심사에서 정치·사회적으로 예민한 발언을 하면 입국 거부 등을 당할 수 있다. 최근 미 영주권을 가진 한국인이 미국 입국 심사에서 트럼프 대통령을 부정적으로 묘사한 이미지를 소지한 점 등을 이유로 입국하지 못했다는 보도도 나왔다. &lt;br&gt;&lt;br&gt;미 국무부는 지난 11일 X에 “비자 심사는 비자 발급 후에도 중단되지 않는다”며 “우리는 비자 소지자가 법과 이민 규정을 준수하는지 계속 확인하고, 그렇지 않으면 비자를 취소하고 추방할 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>국회의원 평균 재산 1년 만에 10억 늘어</title>
-      <link>https://www.chosun.com/national/national_general/2025/04/16/ZC4NPS26FNGLRDIYJCNFA5LSS4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/16/ZC4NPS26FNGLRDIYJCNFA5LSS4/</guid>
-      <dc:creator>안준현 기자, 김혜민 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 15 Apr 2025 16:29:02 +0000</pubDate>
-      <content:encoded>현직 국회의원 중 종합부동산세(종부세)를 내는 비율이 20％에 이르는 것으로 15일 나타났다. &lt;br&gt;&lt;br&gt;경제정의실천시민연합(경실련)이 이날 발표한 ‘국회의원 부동산 보유 및 종부세 실태 발표’에 따르면 22대 국회의원 299명 중 종부세를 내는 의원은 총 60명으로 20.1%였다. 2022년 주택 보유 현황 통계를 기준으로 국민 2177만 가구 중 12억원을 초과하는 주택 소유 가구는 39만7000가구다. 이를 토대로 경실련은 일반 국민의 종부세 납부 비율을 1.8％ 수준으로 추정했다. 이를 토대로 비교하면 종부세를 내는 국회의원 비율은 일반 국민의 11배가 넘는다고 경실련은 밝혔다. &lt;br&gt;&lt;br&gt;의원 1인당 전체 재산 평균 42억8547만원 중 부동산 재산은 19억5289만원이었다. 2주택 이상 다주택자도 전체의 20%가 넘는 61명이었다. 현직 의원 중 부동산 재산이 가장 많은 의원은 더불어민주당 박정 의원이었다. 건물 약 382억4000만원과 토지 1000여만원 등 총 382억5000만원을 신고했다. 이어 국민의힘 박덕흠(314억8000만원), 김은혜(201억8000만원), 서명옥(186억7000만원), 백종헌(183억3000만원) 의원 순이었다. 부동산과 주식을 합치면 재산 1위는 안철수(1385억2000만원) 의원이었다. 22대 국회의원의 1인당 재산 평균은 42억8547만원으로, 지난해 5월(33억3000만원)보다 약 10억원 늘었다. 경실련 관계자는 국회의원의 평균 재산이 늘어난 것에 대해 “임기 중 토지 및 주택 추가 매입이나 집값 상승이 요인인 것으로 보인다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“바이탈과 하지 마라, 입만 터는 문과×들이 조선 반도 다 해먹어”</title>
-      <link>https://www.chosun.com/national/welfare-medical/2025/04/16/TAP6UVPITVCIZIXXQ5FFHNQZSI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/04/16/TAP6UVPITVCIZIXXQ5FFHNQZSI/</guid>
-      <dc:creator>곽래건 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 15 Apr 2025 16:28:42 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3LMTLO3B3VDYJCFD4SW4AM2YS4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;중증 외상 분야 권위자인 이국종 국군대전병원장이 군의관 후보생들에게 “한평생 외상외과에서 일했는데, 바뀌는 건 하나도 없더라”며 국내 의료 체계에 대한 비판 발언을 쏟아낸 사실이 15일 알려졌다.&lt;br&gt;&lt;br&gt;발언은 지난 14일 충북 괴산의 한 훈련소에서 열린 의무사관 후보생 대상 강연에서 나왔다. 일부 참석자가 의사 전용 소셜미디어에 발언 일부를 올렸고, 이후 다른 일반 온라인 커뮤니티 등에 퍼졌다. &lt;br&gt;&lt;br&gt;이 원장은 이 강연에서 과거 동료 의사들이 외상외과에서 그만둔 사례를 언급했다. 그는 “나랑 같이 외상외과 일하던 윤○○ 교수는 과로로 죽었다. 너희는 그렇게 되지 마라”고 했다. 그러면서 “서울대와 세브란스 의사들과 공무원들에게 평생 괴롭힘당하며 살기 싫으면 바이탈과(생명과 직결된 과) 하지 마라”면서 “조선 반도는 입만 터는 문과 ×들이 해먹는 나라”라고도 했다.&lt;br&gt;&lt;br&gt;그는 “내 인생 (역시) 망했다” “여기(훈련소 강연에) 오기 싫었다. 후배들한테 미안해서 해줄 말이 없었다”고 했다. &lt;br&gt;&lt;br&gt;그는 현재 재직 중인 국군대전병원에서 군의관 한 명이 미국 의사 면허 시험 1차에 합격했다고 언급했다. 그러면서 “(1차 합격이) 너무 기특해서 플래카드까지 달아줬다”며 “조선에는 가망이 없으니 너희도 절이 싫으면 중이 떠나듯 탈조선하라”고 했다.&lt;br&gt;&lt;br&gt;현 의료 체계가 전공의를 착취하는 구조라는 취지의 발언도 했다. 이 원장은 “교수들이 ‘중간 착취자’들 맞다”며 “전공의 짜내서 (병원이) 벽에 통유리 바르고 에스컬레이터 만들면서 돈 달라 하니까 (의료계가) 수가 올려달라 하면 ×소리 취급하는 것 아니냐”고 했다. &lt;br&gt;&lt;br&gt;이 원장은 아주대병원 중증외상센터장으로 재직하던 2017년에도 “(필수 의료인 외상 분야에서) 나는 연간 10억원의 적자를 만드는 원흉이 됐다”는 글을 교내 소식지에 써 화제가 됐다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>강제 아닌 권고 수준 가격 공개 정책에… ‘깜깜이 스드메’ 여전</title>
-      <link>https://www.chosun.com/national/welfare-medical/2025/04/16/UNHWFFN5A5C5VFINSFB6FPWFMU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/04/16/UNHWFFN5A5C5VFINSFB6FPWFMU/</guid>
-      <dc:creator>오유진 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 15 Apr 2025 16:24:10 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CLGNK3HVBOBDP2QPRPIZ7QSUIA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울의 한 웨딩박람회를 찾은 예비부부가 드레스 등 결혼 관련 상품을 둘러보고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정부는 지난 5개월간 예비부부들의 ‘스드메(스튜디오·드레스·메이크업)’ 비용 부담을 덜어주기 위한 종합 대책을 추진해 왔지만, 바뀐 건 거의 없다. &lt;br&gt;&lt;br&gt;정부는 지난해 11월 14일 기획재정부·공정거래위원회·여성가족부를 비롯한 관계 부처 합동 ‘결혼 서비스 발전 지원 방안’에서 크게 다섯 가지 스드메 대책을 내놨다. 업계 자율로 스드메 가격을 공개하고, 결혼 서비스법을 제정해 가격 공개를 제도화하며, 표준 약관 제정 등으로 소비자 보호를 강화하겠다고 했다. 또 주요 결혼식장 및 결혼 준비 대행업체 간 핫라인을 구축하고, 부당한 표시·광고도 수시로 점검·시정하겠다고 했다. &lt;br&gt;&lt;br&gt;그러나 각종 한계로 인해 다섯 대책 가운데 한 개 정도만 도입되고 나머지는 지지부진하거나 사실상 실패한 상태다.&lt;br&gt;&lt;br&gt;이 가운데 핵심으로 꼽히는 ‘스드메 가격 자율 공개’는 유명무실해졌다는 평가다. 정부 대책에 따라 지난 1월부터 소비자원의 가격 정보 서비스 사이트 ‘참가격’을 통해 결혼 준비 대행 서비스 가격을 공개하고 있지만, 15일 현재 가격을 공개한 업체는 10곳뿐이다. 시중에서 많이 찾는 스드메 주요 업체 약 200곳 가운데 5%에 불과하다. 정부 관계자는 “현재로서는 가격 공개가 강제가 아니라서 참여가 저조하다”고 했다. 또 공개된 가격 정보도 항목별로 쪼개진 가격 리스트를 나열한 수준에 그친다. &lt;br&gt;&lt;br&gt;정부는 지난해 하반기에 스드메 업체들을 법 테두리에서 관리하고, 가격 공개를 제도화하기 위해 ‘결혼 서비스법’ 제정을 추진하겠다고 했지만 이뤄지지 않았다. 업체들을 효율적으로 관리하기 위한 ‘핫라인 구축’과, 부당 표시·광고를 수시 점검하겠다고 한 약속도 이뤄지지 않고 있다. 별도 신고·등록 없이 운영되는 스드메 업체들은 연락이 끊기면 주소·연락처조차 확인 불가능한 경우가 많다. &lt;br&gt;&lt;br&gt;한편 공정위는 지난 3일 스드메 관련 부당 계약 조건과 과도한 위약금을 개선하기 위한 표준 계약서를 제정했다. 예비부부들이 ‘깜깜이’ 상태로 계약서에 서명부터 했다가 추후 추가금 폭탄을 맞는 일을 줄여주기 위해서다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/CLGNK3HVBOBDP2QPRPIZ7QSUIA.jpg?width=4072&amp;height=2688&amp;auth=889ebc7818bc00c4c078cdc8898f0aabb76985a3d98a4875e71a9ed6d004fc8b&amp;smart=true" type="image/jpeg" height="2688" width="4072">
-        <media:description type="plain">서울의 한 웨딩박람회를 찾은 예비부부가 드레스 등 결혼 관련 상품을 둘러보고 있다. /뉴스1</media:description>
-        <media:credit role="author" scheme="urn:ebu">뉴스1</media:credit>
-      </media:content>
-    </item>
-    <item>
-      <title>차라리 스드메 직접 하겠다, 예비 신부들 ‘추가금 방어’ 꿀팁 공유</title>
-      <link>https://www.chosun.com/national/welfare-medical/2025/04/16/D2MWOTZNGRCN5NIRWMKQANBCJA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/04/16/D2MWOTZNGRCN5NIRWMKQANBCJA/</guid>
-      <dc:creator>곽래건 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 15 Apr 2025 16:23:52 +0000</pubDate>
-      <content:encoded>부담이 큰 ‘스·드·메(스튜디오·드레스·메이크업)' 비용을 아끼고자 예비 부부들은 갖가지 방법을 동원한다. &lt;br&gt;&lt;br&gt;최근 결혼식을 올린 30대 A씨는 스튜디오 촬영용 웨딩드레스를 중고 거래 플랫폼인 ‘당근마켓’에서 3만원에 샀다. 새 드레스는 8만원인데, 중고품을 사 비용을 크게 아낀 것이다. 드레스는 촬영을 마친 뒤 중고로 내놨다. A씨는 “사진 촬영만을 위해 새 드레스를 살 필요까지는 없다고 생각했다”며 “중고라 걱정도 했지만, 막상 사진을 보니 마음에 들었다”고 했다.&lt;br&gt;&lt;br&gt;실제 15일 당근마켓에 들어가 ‘웨딩드레스’라고 검색하자 ‘촬영용’ ‘스냅용’ ‘피로연용’ 등의 문구가 붙은 중고 웨딩드레스가 판매 중인 것만 약 120벌 검색됐다. 수십만 원짜리 고가 중고품도 있었지만 대부분 2만~10만원 정도에 팔고 있었다. 온라인에서는 3만~10만원에 촬영용 웨딩드레스를 빌려주는 업체도 다수 영업 중이었다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/C3NY2QT7VFHMVI6W2KPUGG3VCE.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=김성규&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;값비싼 스튜디오 촬영을 자체 해결하는 경우도 많다. 스튜디오 촬영 비용이 100만~400만원인데, 셀프로 하면 수십만원으로 해결할 수 있기 때문이다. 보통 1시간에 10여 만원, 2시간에 20만원 선이면 대여용 스튜디오를 빌릴 수 있다. 스튜디오에 따라 카메라를 빌려주는 곳도 있다. 카메라를 잘 다루는 친구를 부르거나, 부부 스스로 촬영하는 식이다. 셀프 웨딩을 전문으로 하는 스튜디오 업체도 등장했다. 아예 야외에서 휴대폰 등을 이용해 예비 부부 둘이서만 알아서 사진을 찍는 일도 적지 않다. 한 신부는 “신랑과 알아서 야외 촬영을 했는데, 화려하진 않았지만 사진 찍는 과정부터 추억이 됐다”며 “덕분에 비용을 크게 아낄 수 있었다”고 했다.&lt;br&gt;&lt;br&gt;메이크업 비용을 아끼려고 화장은 스스로 하고 머리만 전문가에게 맡기거나, 제휴 업체보다 요금이 싼 ‘출장 메이크업 아티스트’를 부르기도 한다. &lt;br&gt;&lt;br&gt;예비 신혼부부들 사이에선 ‘추가금 방어’라는 말도 유행한다. 스드메 과정에서 업체에 추가금을 내지 않는 노하우, 이른바 ‘꿀팁’을 소셜미디어에 올리는 것이다. ‘나는 추가금 방어에 실패했지만 다른 부부들은 상술에 당하지 않으면 좋겠다’며 경험담을 올리는 경우도 많다. 결혼 준비 온라인 카페에 단계별, 항목별로 스드메 지출 내용을 올린 뒤 서로 항목을 검증해 주기도 한다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>9살 초등생 치고 달아난 뺑소니범… 알고보니 음주운전이었다</title>
-      <link>https://www.chosun.com/national/national_general/2025/04/16/ETZBMRUJJJEXLFKEKGNZNWOGZY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/16/ETZBMRUJJJEXLFKEKGNZNWOGZY/</guid>
-      <dc:creator>김명일 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 15 Apr 2025 15:50:43 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NYQ52LBRTVA5VPTMJR5GG6XS4Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;A씨가 사고를 내기 직전 모습. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;보행자 신호에 정상적으로 횡단보도를 건너던 초등학생을 차량으로 치고 달아났다가 붙잡힌 운전자가 음주운전을 한 사실이 추가로 밝혀졌다. 사고 당시 차량에는 동승자 2명도 있었던 것으로 파악됐다.&lt;br&gt;&lt;br&gt;15일 경기 남양주남부경찰서는 특정범죄가중처벌법상 도주치상, 도로교통법상 음주운전 등 혐의로 50대 남성 A씨를 불구속 입건해 조사 중이라고 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 9일 오후 7시 40분쯤 경기 남양주시 다산동의 한 사거리에서 제네시스 차량을 몰고 우회전을 하던 중 초등학생인 9세 B군을 치고 달아났다. 당시 B군은 보행자 신호에 정상적으로 횡단보도를 건너던 중이었다.&lt;br&gt;&lt;br&gt;B군은 곧바로 병원으로 옮겨졌으나 현재까지 중태에 빠져 의식을 되찾지 못하고 있는 것으로 전해졌다.&lt;br&gt;&lt;br&gt;사고 직후 경찰은 주변 방범카메라 등을 통해 차량 번호를 확보하고, 해당 차량이 법인 리스 차량이라는 사실을 밝혀냈다.&lt;br&gt;&lt;br&gt;이에 경찰은 리스 업체에 대한 압수수색영장을 신청해 운전자를 특정했다. 경찰의 연락을 받은 A씨는 사고 다음 날인 10일 오후 5시 55분쯤 경찰서에 자진 출석했다.&lt;br&gt;&lt;br&gt;A씨는 당초 경찰 조사에서 “운전한 것은 맞지만 사고가 난 사실은 알지 못했다”는 취지로 진술한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰은 A씨의 음주운전을 의심하고 동선을 추적한 끝에, 지인 2명과 술을 마신 뒤 이들과 함께 사고 차량에 탑승한 사실을 확인했다. A씨는 경찰이 관련 증거를 제시하자 뒤늦게 음주운전 사실을 인정했다.&lt;br&gt;&lt;br&gt;경찰은 동승자들에 대해서는 음주운전 방조 혐의 적용 여부를 검토 중이다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>의대생 복귀율 낮지만, 내년 ‘증원 0명’ 확정할 듯</title>
@@ -856,51 +901,6 @@
         <media:description type="plain">지난달 28일 서울의 한 의과대학 앞으로 시민들이 오가고 있다. /뉴스1</media:description>
         <media:credit role="author" scheme="urn:ebu">뉴스1</media:credit>
       </media:content>
-    </item>
-    <item>
-      <title>[신문은 선생님] [알립니다] 중등 NIE 과정 수강생 모집</title>
-      <link>https://www.chosun.com/national/nie/2025/04/16/FD3QXOPLEFENVKOTW6FIQU4354/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2025/04/16/FD3QXOPLEFENVKOTW6FIQU4354/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Tue, 15 Apr 2025 15:36:20 +0000</pubDate>
-      <content:encoded>조선일보 NIE교육센터에서 중학생 대상 NIE 수강생을 모집합니다. NIE(신문 활용 교육) 수업은 시사, 인문, 과학 등 다방면의 기사를 읽고 사고력과 창의력을 키우는 과정입니다. 자세한 내용은 홈페이지(&lt;a href="https://nie.chosun.com" rel="" title="https://nie.chosun.com"&gt;nie.chosun.com&lt;/a&gt;)를 참고하세요.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HVX4ZIW74VE4TJAMHRB35O2GEE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;▲&lt;b&gt;개강일&lt;/b&gt;: 5월 1일(목), 강좌별 상이&lt;br&gt;&lt;br&gt;▲&lt;b&gt;기간 및 비용&lt;/b&gt;: 2개월(6회)/30만원&lt;br&gt;&lt;br&gt;▲&lt;b&gt;장소&lt;/b&gt;: 서울시 강남구 대치동 조선일보 NIE 논술학원&lt;br&gt;&lt;br&gt;▲&lt;b&gt;문의&lt;/b&gt;: 02-724-6024, 02-6956-6109&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문은 선생님] [예쁜 말 바른 말] [390] ‘곤욕’과 ‘곤혹’</title>
-      <link>https://www.chosun.com/national/nie/2025/04/16/KK3BUBTU5VB7NDKMD46QOB4NPY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2025/04/16/KK3BUBTU5VB7NDKMD46QOB4NPY/</guid>
-      <dc:creator>류덕엽 교육학 박사·전 서울 양진초 교장</dc:creator>
-      <description/>
-      <pubDate>Tue, 15 Apr 2025 15:35:39 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5UNYJ5AGVRH25LH45BQNAB7RFU.png"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;*제한된 땅을 두고 갈등이 빚어져 지자체가 (곤욕, 곤혹)을 치르기도 했다. &lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;*미국의 관세 정책으로 세계 여러 나라 기업들이 (곤욕, 곤혹)스러워하고 있다. &lt;/b&gt;&lt;br&gt;&lt;br&gt;괄호 안에 들어갈 말을 골라 보세요. 정답은 순서대로 ‘곤욕’과 ‘곤혹’입니다. ‘곤욕’과 ‘곤혹’은 비슷한 상황에서 쓰이는 것처럼 보이지만, 의미는 분명히 다르답니다.&lt;br&gt;&lt;br&gt;‘곤욕(困辱)’은 심한 모욕이나 참기 힘든 일을 당하는 것을 뜻합니다. 예를 들면 ‘호되게 곤욕을 당했다’와 같이 써요. 유의어는 ‘수모’ ‘치욕’ 등이 있어요. 가끔 발음을 헷갈려 ‘곤역을 치르다’와 같이 잘못 쓰는 경우가 있는데, ‘곤역’은 표준어가 아닙니다.&lt;br&gt;&lt;br&gt;‘곤혹(困惑)’은 곤란한 일을 당해 어찌할 바를 모르는 난처한 상태를 말합니다. 유의어는 ‘당혹’이에요. &lt;br&gt;&lt;br&gt;두 단어 모두 ‘곤할 곤(困)’ 자를 써서 어려운 상황을 표현하지만, 뒤에 붙는 한자에 따라 의미가 달라집니다. ‘곤욕’은 ‘욕될 욕(辱)’ 자를 써요. 모욕을 당했거나 수치스러운 상황을 떠올리면 돼요. ‘곤혹’은 ‘미혹할 혹(惑)‘ 자를 써요. 난처하고 당황스러운 상태를 말하죠.&lt;br&gt;&lt;br&gt;&lt;b&gt;[예문]&lt;/b&gt;&lt;br&gt;&lt;br&gt;-그 기업인은 돌출 발언으로 곤욕을 치렀다.&lt;br&gt;&lt;br&gt;-고깃집에서 나올 때면 옷에 배어든 냄새 때문에 곤혹스럽다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문은 선생님] [동물 이야기] 바다거북 중 가장 작아… 번식기 땐 수천 마리가 육지로 상륙한대요</title>
-      <link>https://www.chosun.com/national/nie/2025/04/16/HS6SDWGIHZGEDOEGBSVZUO6A74/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2025/04/16/HS6SDWGIHZGEDOEGBSVZUO6A74/</guid>
-      <dc:creator>정지섭 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 15 Apr 2025 15:35:21 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VFVDIPFFGJCO7MTVYSALFHYAK4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;올리브바다거북은 바다거북 중 가장 몸집이 작아요. 알을 낳을 때 수백~수천 마리의 거북이 모여들죠. /Christine Figgener(Texas A&amp; M University)&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인도 동남부 도시 첸나이에서는 요즘 바닷가 모래사장에 알을 낳으러 올라오는 거북들의 안전한 번식을 위해 주민들이 팔을 걷어붙였대요. 떠돌이 개 등 다른 동물들이 알을 훔쳐 먹거든요. 주민들은 거북이 낳아 놓은 알을 조심스럽게 파내어 안전한 곳으로 옮겨서 다시 묻어 줬어요. 이렇게 사람들이 애지중지 보호하는 녀석들은 바다거북 중에서 몸집이 가장 작은 올리브바다거북이랍니다. &lt;br&gt;&lt;br&gt;세계적으로 총 일곱 종류의 바다거북이 있는데요. 올리브바다거북의 등딱지 길이는 70㎝예요. 가장 큰 바닥거북인 장수거북(등딱지 길이 2.4m)의 3분의 1도 안 되죠. 이름처럼 다 자라면 등딱지가 짙은 올리브색을 띤답니다. 바다거북들은 종류별로 등딱지 무늬가 제각각인데요. 올리브바다거북은 위에서 내려다보면 머리에서 꼬리 방향으로 세로 세 줄, 가로 다섯~아홉 줄씩 줄무늬가 있어요. 대부분의 바다거북처럼 올리브바다거북 역시 태평양·인도양·대서양 등 큰 바다에 널리 분포하고 있는데요. 대서양에선 서아프리카와 남아메리카 사이 바다에서만 발견된대요. 유럽과 북아메리카를 잇는 북대서양에선 보기 어렵다는 얘기죠. &lt;br&gt;&lt;br&gt;그런데 어느 바다에서 발견되느냐에 따라 생김새가 조금씩 다르대요. 가령 서아프리카 쪽에 사는 녀석들이 상대적으로 덩치가 크고요. 태평양 동쪽에 서식하는 녀석들은 등딱지가 상대적으로 더 높이 솟아 있고, 대부분 등딱지에 가로로 다섯 줄이 나 있대요. 대서양 서쪽에 사는 녀석들일수록 몸 색깔은 더 밝아요. &lt;br&gt;&lt;br&gt;바다거북을 이야기할 때 빼놓을 수 없는 게 바로 귀소본능인데요. 몸에 내비게이션을 장착한 것처럼 자기가 알껍데기를 깨고 나온 바닷가를 찾아내 그곳에서 알을 낳죠. &lt;br&gt;&lt;br&gt;올리브바다거북의 번식 장면은 유독 유난스럽답니다. 평생을 바다에서 살며 땅에 올라갈 일이라곤 알을 낳을 때 정도인데요. 이때 수백~수천 마리의 거북이 모래사장에 모여들어 구덩이를 파고 50~200개 알을 낳죠. 바다거북은 보통 알을 다 낳으면 그 위에 뒷발로 모래를 덮어요. 그런데 한정된 지역에 갑자기 많은 거북이 몰려들다 보니 이 과정에서 다른 거북이 이미 알을 낳아 놓은 구덩이를 파헤치고 자기 알을 낳는 경우가 벌어지기도 해요. 이렇게 암컷들이 집단으로 상륙하는 시기는 해마다 제각각이어서 예측이 어렵대요. 과학자들은 달의 주기, 바람, 암컷의 몸에서 분비되는 호르몬 등 여러 요인이 복합적으로 작용해 상륙 시기가 결정된다고 말합니다.&lt;br&gt;&lt;br&gt;올리브바다거북은 번식기에 수천 마리가 땅으로 올라오기 때문에 사람과 포식자의 눈에 잘 띄어요. 2017년엔 우리나라 동해에서 죽은 올리브바다거북이 발견되면서 우리 바다에도 살고 있다는 게 확인됐고, 다른 바다거북 네 종류(매부리·붉은·장수·푸른)에 이어 해양보호생물로 공식 지정됐답니다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문은 선생님] [숨어있는 세계사] 프랑스혁명 후 퍼진 징병제… 러·우 전쟁으로 다시 확산되죠</title>
-      <link>https://www.chosun.com/national/nie/2025/04/16/NZAAT5DERJCX3LNYYMJNFRQL6U/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2025/04/16/NZAAT5DERJCX3LNYYMJNFRQL6U/</guid>
-      <dc:creator>정세정 옥길새길중학교 역사 교사, 기획·구성=윤상진 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 15 Apr 2025 15:34:32 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4LD2JLNBHRBXVLFOPH4SP2J6WE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;기원전 7세기 그리스 지역에서 제작된 것으로 추정되는 꽃병의 그림. 투구와 갑옷을 착용하고 창과 방패를 든 중장보병들이 그려져 있어요. /위키피디아&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최근 태국에서 미모의 여성들이 징병검사를 받는 모습이 화제가 됐어요. 이들은 남성에서 여성으로 성전환 수술을 받은 사람들인데, 징병제를 시행하고 있는 태국은 성전환 수술을 받으면 군 복무는 하지 않더라도 검사는 받아야 한대요. &lt;br&gt;&lt;br&gt;징병제는 성별이나 나이, 건강 상태 등 일정한 조건을 갖춘 국민을 의무적으로 입대시키는 제도예요. 이는 우리나라를 비롯해 몇몇 국가들만 채택하고 있는 정책인데요. 최근엔 징병제를 확대하거나 재도입을 검토하고 있는 유럽 국가들이 늘어났다고 합니다. 러시아·우크라이나 전쟁 여파로 국제 정세가 불안정해졌기 때문이에요. 오늘은 징병제의 역사를 알아보겠습니다.&lt;br&gt;&lt;br&gt;&lt;b&gt;자유 병역과 강제 병역&lt;/b&gt;&lt;br&gt;&lt;br&gt;모든 나라는 자국의 안보를 지키기 위해 군대를 두고 있어요. 그리고 군대에 갈 사람을 모집하기 위해 국가별 사정에 맞는 병역 제도를 갖고 있지요. 병역 제도엔 크게 ‘자유 병역’과 ‘강제 병역’이 있어요. 자유 병역은 군 복무를 희망하는 사람들로 군대를 구성하는 것을 말해요. 모병제가 대표적입니다.&lt;br&gt;&lt;br&gt;한편 강제 병역은 개인의 의사와 상관없이 일정한 조건에 적합한 국민을 군대에 보내 복무시키는 것을 말해요. 흔히 징병제라고 하죠. 징병제는 국가의 필요에 따라 국민을 군에 동원할 수 있다는 이점이 있지만, 그 역사는 길진 않답니다. 근대 이전까지는 주로 시민들이 스스로 군대에 입대해 싸우거나, 돈을 받고 싸우는 용병을 고용해 전쟁을 하는 형태였거든요.&lt;br&gt;&lt;br&gt;&lt;b&gt;고대 그리스·로마군은 스스로 무장&lt;/b&gt;&lt;br&gt;&lt;br&gt;고대 그리스에서 군대는 대부분 군인이 되길 희망하는 시민들로 구성됐습니다. 아테네와 같은 도시국가에선 ‘호플리테스’라고 부르는 중장보병들이 군대의 주를 이뤘어요. 창과 검, 방패를 들고 청동 투구와 갑옷을 입은 보병이었죠. &lt;br&gt;&lt;br&gt;그런데 이 무기와 갑옷은 국가가 지급한 것이 아니었어요. 전쟁이 나면 시민들이 자비로 무장을 갖추고 참여했지요. 당시엔 군 복무가 시민이 정치적 권리를 행사하기 위한 의무이자 권리로 여겨졌어요. 무기와 갑옷은 값이 꽤 나갔기 때문에, 스스로 무장을 할 수 있는 중산층 이상의 남성만 군대에 갈 수 있었죠. 반면 여성과 노예, 외국인은 병역은 물론 정치 참여도 할 수 없었어요. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SSBYZYZOARB7JOQMENT7VNP7O4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;알프스산을 넘고 있는 스위스 용병들. 16세기에 그려졌어요. 근대 이전 많은 유럽 국가들은 용병을 주요 전투원으로 활용했습니다. /위키피디아&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;로마는 초기 공화정 시절에 시민군 체제를 유지했어요. 전쟁이 나면 주로 자영농들을 군인으로 동원했는데, 이들은 그리스처럼 자비를 들여 스스로 무장해야 했어요. 하지만 로마가 이탈리아반도를 넘어 지중해 전역으로 영토를 넓히면서, 장기간 원정과 전투를 감당하기엔 자영농 중심의 시민군으로는 한계가 있었죠. 결국 기원전 2세기 말, 로마는 군제 개혁을 단행해 빈민들도 군 복무를 할 수 있도록 합니다. 하지만 병사들은 점차 국가보단 자신을 이끄는 장군에게 충성했어요. 자신의 장군에게서 토지와 금전적 보상을 받으면서 점차 장군의 사병(私兵)이 되어간 거죠.&lt;br&gt;&lt;br&gt;이런 경향은 시간이 흐르며 용병 제도로 이어지게 됩니다. 중세 유럽에 들어서면서 전문적으로 전투를 수행하는 직업 용병 집단들이 등장한 거죠. 근대 이전까지 많은 유럽 국가들은 자국 병력과 함께 많은 수의 용병을 군대에 편성했어요. 하지만 용병은 계약 조건에 따라 소속을 바꾸는 등 신뢰성 문제가 있었고, 대개 외국인이어서 자국 병사들과 협동 작전을 수행하는 데에도 어려움이 많았습니다.&lt;br&gt;&lt;br&gt;&lt;b&gt;프랑스 혁명 이후 징병제 확산&lt;/b&gt;&lt;br&gt;&lt;br&gt;18세기 프랑스 혁명기에 등장한 징병제는 근대 국가가 오늘날과 같은 상비군 체제를 갖추는 데 결정적인 전환점이 되었습니다. 프랑스는 1789년 혁명을 통해 왕정을 무너뜨리고 공화국을 선포하지요. 그리고 군주 루이 16세를 단두대에서 처형합니다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YWU34UZIWVD4DHOXTJIBCQWLP4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;1792년 프랑스 혁명군이 프로이센·오스트리아 연합군에 승리한 ‘발미 전투’를 묘사한 그림이에요. 프랑스는 징집령을 내려 유럽의 군주제 국가들의 동맹에 맞섰죠. /위키피디아&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;당시 유럽 각국의 군주들은 혁명의 불씨가 자국으로 번질 것을 두려워해 ‘대(對)프랑스 동맹’을 결성하고 프랑스와의 전쟁에 나섰습니다. 프랑스는 자국을 지키기 위해 1793년 징집령을 내리고, 18세에서 25세 사이의 건강한 남성을 징집하기 시작했어요. 이로 인해 프랑스 군대 규모는 기존 30만 수준에서 단기간에 64만명 이상으로 급증했습니다. 여기에 애국심과 혁명 정신에 고무된 시민들의 자발적인 입대까지 이어지면서, 1794년 프랑스는 100만명이 넘는 대규모 군대를 보유하게 됩니다. 이들은 용병과는 달리 강한 민족의식과 애국심으로 뭉쳐 있었지요.&lt;br&gt;&lt;br&gt;징병제는 병력 충원이 용이하고 유지 비용도 상대적으로 적게 들어 프랑스 혁명기 동안 큰 효과가 나타났죠. 이 경험을 계기로 다른 유럽 국가들도 징병제를 채택하게 됩니다.&lt;br&gt;&lt;br&gt;&lt;b&gt;러·우 전쟁으로 재도입 논의도&lt;/b&gt;&lt;br&gt;&lt;br&gt;특히 두 차례의 세계대전 동안에는 대규모 병력을 신속하게 확보해야 했기 때문에 많은 국가가 징병제를 유지할 수밖에 없었어요. 냉전 시기부턴 군대의 규모보다는 전문성과 효율성이 중시되면서 많은 나라가 징병제를 폐지하고 모병제로 전환하기 시작합니다. 주요 국가 중엔 먼저 영국이 1960년대 징병제를 폐지하고 모병제를 도입했어요. 냉전이 종식된 1990년대부터는 프랑스를 비롯해 이탈리아, 독일 등도 잇따라 징병제를 폐지하고 모병제로 전환했지요. &lt;br&gt;&lt;br&gt;그런데 최근 러시아·우크라이나 전쟁이 3년이 넘게 이어지면서, 유럽에서는 징병제를 확대하거나 재도입하려는 움직임이 나타나고 있습니다. 특히 러시아와 가까운 발트해 연안 국가들과 스칸디나비아반도 국가들에서 이런 경향이 두드러지고 있지요. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GDUE3MIOVZCZ7OIERWVN7B7F4Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2022년 11월 라트비아의 훈련장에서 NATO(북대서양조약기구)군 탱크들이 사격 연습을 하는 모습. 라트비아는 최근 징병제를 다시 도입했습니다. /로이터 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;라트비아는 작년에 징병제를 부활시켰고, 이미 남녀 대상 징병제를 시행하고 있는 노르웨이와 스웨덴은 국방 예산을 늘리고 징집병과 예비군을 늘리는 정책을 추진하고 있어요. 또한 독일, 영국, 루마니아, 체코 등도 징병제 부활을 두고 논의를 하고 있는 상황입니다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[두근두근 뇌 운동] [2603] 알록달록 단어 팔레트</title>
-      <link>https://www.chosun.com/national/nie/2025/04/16/5SWPRJDGRRB7LA5YQDXZOWYTZI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2025/04/16/5SWPRJDGRRB7LA5YQDXZOWYTZI/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Tue, 15 Apr 2025 15:33:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Z2C7WG7IZVEK3AXSWMZVBFK66Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[오늘의 날씨] 2025년 4월 16일</title>
