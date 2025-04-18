@@ -13,6 +13,55 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>검찰, ‘마약 투약 혐의’ 이철규 의원 아들 구속영장 청구... 경찰 신청 영장</title>
+      <link>https://www.chosun.com/national/court_law/2025/04/18/HTVVXVKEDNFAFEUR2XIT7ENN7Q/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/04/18/HTVVXVKEDNFAFEUR2XIT7ENN7Q/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 18 Apr 2025 09:44:38 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EQH7MKF2BTA5XMUB472Y3PTFIM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 3월 13일, 서울 여의도 국회에서 열린 의원총회에 참석한 이철규 국민의힘 의원./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰이 마약 투약 혐의를 받는 국민의힘 이철규 의원 아들 이모씨에 대해 18일 구속영장을 청구한 것으로 확인됐다.&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 서울중앙지검은 이날 서초경찰서의 신청을 받아 이씨에 대해 마약류관리법 위반 혐의로 구속영장을 청구했다. 검찰은 이씨의 공범 2명도 함께 구속영장을 청구한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;이씨는 지난해 10월 이른바 ‘던지기’ 수법으로 서초구 주택가 화단에 묻힌 액상 대마를 찾으려다 미수에 그친 혐의로 경찰에 검거됐다. 최초 112 신고 시점부터 검거까지는 53일이 걸렸다. 경찰 관계자는 지난달 브리핑에서 “일반 마약 사건도 바로 검거하는 경우가 있지만, 보강 수사도 해야 하고 공범이 없는지도 확인해야 한다”며 “이 사건에선 통신 수사도 같이 했기 때문에 분석에 시간이 소요됐다”고 했다. 이씨가 마약 관련 전력이 있는지에 대해서는 “불기소한 기록이 있다”며 “검찰 처분이라 말씀드리기 적절하지 않다”고 했다.&lt;br&gt;&lt;br&gt;서초경찰서는 이씨의 모발에서 대마 양성 반응이 나왔다는 국립과학수사연구원의 감정 결과를 토대로 그가 대마를 흡연하거나 섭취했는지도 함께 수사해왔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>강남 아파트서 경비원 무차별 폭행한 배달기사 재판 넘겨져</title>
+      <link>https://www.chosun.com/national/court_law/2025/04/18/NS5OPYRD4FH6XJ3NCC2BQG7VWY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/04/18/NS5OPYRD4FH6XJ3NCC2BQG7VWY/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 18 Apr 2025 09:23:08 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BHIVXTMYEZH7ZB56OO7UHUQT7I.png"&gt;&lt;figcaption&gt;&lt;small&gt;지난 1월 배달기사에게 무차별 폭행당한 아파트 경비원을 도운 입주민이 에픽하이 투컷으로 밝혀졌다. /유튜브 '에픽하이'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지검 형사8부(부장 장재완)는 오토바이 출입을 막는다는 이유로 아파트 경비원을 무차별 폭행한 배달 기사 김모씨를 특수상해 혐의로 재판에 넘겼다고 18일 밝혔다.&lt;br&gt;&lt;br&gt;김씨는 지난해 12월 서울 강남구의 한 아파트에서 60대 후반 경비원 A씨를 오토바이로 들이받은 뒤, 주먹으로 머리 등을 때리고 넘어뜨린 혐의를 받는다.&lt;br&gt;&lt;br&gt;A씨는 출입 금지 구역에 김씨가 오토바이를 타고 들어온 것을 발견하고 제지하는 과정에서 폭행당한 것으로 전해졌다. A씨는 전치 4주의 상해를 입었다고 한다.&lt;br&gt;&lt;br&gt;경찰로부터 사건을 송치받은 검찰은 영상 및 피해 사진 분석, 관련자 조사 등을 거쳐 김씨에 대한 구속영장을 청구했지만, 법원은 “도주 및 증거인멸 우려가 없다”며 기각했다. 이후 보강수사를 거쳐 전날 불구속 상태로 김씨를 재판에 넘겼다.&lt;br&gt;&lt;br&gt;검찰은 A씨의 의료비 및 심리치료 등 경제적 지원을 범죄피해자지원센터에 의뢰했다. 또 법정에 증인으로 출석할 경우 수사관의 법정 동행과 비대면 증언을 지원할 예정이다. &lt;br&gt;&lt;br&gt;이 사건은 현장에 달려와 김씨의 폭행을 말린 입주민이 유명 그룹 에픽하이 멤버 투컷(김정식)이란 사실이 알려지며 화제가 됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘영덕 산불’서 “할매” 외치며 주민 구조한 인니 선원들... 법무장관 표창 수상</title>
+      <link>https://www.chosun.com/national/court_law/2025/04/18/A7FHCITR2VC7PEFJVUEULVVPWE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/04/18/A7FHCITR2VC7PEFJVUEULVVPWE/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 18 Apr 2025 09:11:56 +0000</pubDate>
+      <content:encoded>지난달 산불이 경북 영덕군을 덮쳤을 당시 마을 주민 다수를 구조한 인도네시아 국적 선원들에 대해 법무부가 18일 장관 표창을 수여하고, 특별기여자 거주 체류 자격을 부여했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XUAHTU62ZNPQPHROHQLHAOEL2E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;18일 경기 정부과천청사 법무부 건물에서 열린 영덕군 산불 구호 외국인 표창장 수여식에서 표창장을 수상한 인도네시아 국적 수기안토(왼쪽부터), 사푸트라 비키 셉타 에카, 디피오 레오 씨가 기념촬영을 하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 표창을 받은 인도네시아 국적 선원은 수기안토(31), 디피오 레오(24), 사푸트라 비키 셉타 에카(24) 3명이다. 이들은 지난달 25일 경북 영덕군에서 발생한 산불이 경정3리 해안 마을까지 빠르게 번지자, 마을에 살고 있는 노인 등 주민 대다수를 대피시켰다. 이들은 “할매”라고 외치며 이웃 주민들을 찾고, 거동이 불편한 주민들의 경우 직접 업고 안전한 곳까지 대피시켰다고 한다.&lt;br&gt;&lt;br&gt;언론 보도를 통해 사연이 알려지자 법무부는 검토를 거쳐 특별기여자 거주 체류 자격을 부여했다. 현행 출입국관리법 시행령에 따르면, 우리나라에 특별한 기여를 했거나 공익 증진에 이바지했다고 인정되는 외국인에게는 거주(F-2) 자격이 주어진다. 해외에 있는 배우자와 자녀 등 가족도 해당된다. 이들은 모두 고용허가제 어선원 자격으로 우리나라에 입국했었는데, 안정적으로 정착할 수 있게 됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/W55JIOSABJIU3NPFVDYBCXI6KY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;박성재 법무 장관이 18일 경기 정부과천청사 법무부 건물에서 열린 영덕군 산불 구호 외국인 표창장 수여식에서 축사를 하고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;수기안토씨는 “동네 노인분들은 나의 가족이나 다름없다. 당연히 해야 할 일을 한 것”이라며 “언젠가는 한국에서 성공해서 선장이 되는 것이 꿈”이라고 했다. 박 장관은 “인도네시아 세 분의 용기 있는 행동으로 많은 분의 생명을 구할 수 있었다”며 “국가적 재난으로 힘든 시기에 국민들의 가슴에 깊은 울림을 주었고 큰 위로를 주었다. 이분들이 대한민국 사회에서 안정적으로 살아갈 수 있도록 적극 뒷받침하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>이용섭 전 광주시장 “지역 국회의원·시장 등 선출직, 사실상 민주당 임명”</title>
+      <link>https://www.chosun.com/national/national_general/2025/04/18/2UMCKQ5FSZEK7FHERV525X5Q2U/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/18/2UMCKQ5FSZEK7FHERV525X5Q2U/</guid>
+      <dc:creator>광주광역시=진창일 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 18 Apr 2025 09:11:50 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2VVGAFSVJNI4NOIOJRSMSZ4KTE.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;이용섭 전 광주시장이 2023년 11월 19일 광주광역시 서구 김대중컨벤션센터에서 열린 이준석&amp;이언주 톡톡 콘서트에서 축사를 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이용섭 전 광주시장이 광주광역시 정치구조에 대해 “특정 정당의 독점체제”라는 날 선 발언을 내놨다.&lt;br&gt;&lt;br&gt;이 전 시장은 18일 광주경영자총협회(이하 광주경총) 금요조찬 포럼 강연자로 나서 “지역 국회의원이나 시장 등 선출직은 시민이 뽑는 것이 아니고 사실상 민주당이 임명한다”고 말했다.&lt;br&gt;&lt;br&gt;광주경총 금요조찬 포럼은 매주 금요일 CEO, 기관·단체장, 오피니언 리더가 강사로 나서 경제, 경영, 고용, 노동, 사회문화, 인문학 등 분야에 대해 발언하는 행사다.&lt;br&gt;&lt;br&gt;이 전 시장은 2018년 지방선거에서 광주시장에 당선됐고, 2022년 지방선거를 앞둔 재선에 도전했지만, 민주당 경선에서 고배를 마신 뒤 재선에 실패했다.&lt;br&gt;&lt;br&gt;이 전 시장은 “광주는 특정 정당의 독점체제로 인해 각종 자원배분에서 소외된 천수답 도시”라며 “광주를 정치도시이고 민주화의 도시라고 하지만 지역 정치는 매우 후진적이다. 전국적 정치인은 없고 정치적 영향력은 날로 축소되고 있다”고 했다.&lt;br&gt;&lt;br&gt;이 시장은 광주·전남 시·도 행정통합 등 지역현안에 대해서도 입장을 밝혔다. &lt;br&gt;&lt;br&gt;그는 “광주와 전남의 소규모 지방자치단체로는 수도권의 블랙홀을 막아낼 수 없고 인구 감소도 극복할 수 없다”며 “중대선거구제 개편으로 다당제 기반의 정당간 경쟁체제를 갖추어야 정권에 관계없이 발전할 수 있다”고 했다.&lt;br&gt;&lt;br&gt;차기 광주시장 출마설에 대해 이 전 시장은 “젊고 역량 있는 후배들이 광주를 이끌어야 한다”며 선을 그었다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/2VVGAFSVJNI4NOIOJRSMSZ4KTE.JPG?auth=08458499797c1b467ab36bffb60b5987388b2ee218005edff6690c47770a36c5&amp;smart=true&amp;width=1012&amp;height=1416" type="image/jpeg" height="1416" width="1012">
+        <media:description type="plain">이용섭 전 광주시장이 2023년 11월 19일 광주광역시 서구 김대중컨벤션센터에서 열린 이준석&amp;이언주 톡톡 콘서트에서 축사를 하고 있다. /뉴스1</media:description>
+        <media:credit role="author" scheme="urn:ebu">(광주=뉴스1) 김동수 기자</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>대한법률구조공단 신임 이사장에 김영진 변호사</title>
+      <link>https://www.chosun.com/national/court_law/2025/04/18/N5DOKT2BWZB6LDNZYRTMAXXG2A/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/04/18/N5DOKT2BWZB6LDNZYRTMAXXG2A/</guid>
+      <dc:creator>이슬비 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 18 Apr 2025 08:44:35 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Q3O3GEH6JVHH3HMRV5TBUEWDTY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김영진(오른쪽) 신임 대한법률구조공단 이사장이 18일 박성재 법무장관으로부터 임명장을 수여받았다./법무부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김영진(사법연수원 21기) 변호사가 대한법률구조공단 이사장으로 임명됐다.&lt;br&gt;&lt;br&gt;법무부는 대한법률구조공단 후보추천위원회의 추천을 받아 김 변호사를 16대 대한법률구조공단 이사장으로 임명했다고 18일 밝혔다. 법률구조공단은 사회 취약 계층에 무료 법률 지원 서비스를 제공하는 법무부 산하 공공기관이다. 임기는 3년이다.&lt;br&gt;&lt;br&gt;김 신임 이사장은 고려대 법대를 졸업하고 대검찰청 형사2과장, 법무부 대변인 등을 지낸 뒤 2016년부터 변호사로 일하고 있다. &lt;br&gt;&lt;br&gt;법무부는 “검사, 변호사로서의 다양한 경력을 바탕으로 대한법률구조공단의 사회·경제적 약자에 대한 법률구조 사업의 발전에 크게 기여할 것으로 기대된다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>“음료수 사줄까”... 강남구 초교서 납치 미수 신고 잇따라</title>
       <link>https://www.chosun.com/national/incident/2025/04/18/FVDWIF6XA5EY7OEYSRLYDMA2PY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/04/18/FVDWIF6XA5EY7OEYSRLYDMA2PY/</guid>
@@ -897,15 +946,6 @@
       </media:content>
     </item>
     <item>
-      <title>제주 도심지 ‘25층 아파트’ 들어선다</title>
-      <link>https://www.chosun.com/national/regional/2025/04/17/E6JOLUUTFBB67GDZD677CB4JL4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/04/17/E6JOLUUTFBB67GDZD677CB4JL4/</guid>
-      <dc:creator>제주=오재용 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 17 Apr 2025 03:31:28 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JZNHXWVON4EHZYJY745A77GBZ4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;제주시 시가지 전경./조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제주 도심지에 25층 높이 아파트 건축이 가능해진다. &lt;br&gt;&lt;br&gt;제주도는 지역내 대부분 아파트 단지 지역의 건축물을 25층까지 지을 수 있도록 하는 도시계획조례안 개정을 추진한다고 17일 밝혔다.&lt;br&gt;&lt;br&gt;이번 조례 개정 추진으로 제주 도심지 아파트 단지 등이 포함된 제2종 일반주거지역의 층수 제한이 기존 15층 이하에서 25층 이하로 완화된다. 또 제1종 일반주거지역의 층수 제한은 기존 5층 이하에서 7층 이하로 완화된다. 임대주택의 경우 제1종 일반주거지역이더라도 10층까지 지을 수 있다.&lt;br&gt;&lt;br&gt;또 중심상업지역에서 주상복합건물을 건축할 경우 공동주택 부분의 연면적 합계 비율은 기존 70%에서 90%까지 완화돼 주상복합건물 부분에서 거주지 주택 부분을 더 늘릴 수 있게 된다.&lt;br&gt;&lt;br&gt;이번 조례 개정안에는 또 제주도가 추진 중인 고도 관리 방안이 확정될 때까지 고도지구 내 소규모주택 정비사업과 공공주택건설사업에 대해 내년 연말까지 한시적으로 고도 제한 적용을 배제하기로 했다. 또 자연녹지지역에서 음식점 건축이 가능해지게 되며 인근 도로 너비에 따른 건축 행위도 다소 완화된다.&lt;br&gt;&lt;br&gt;제주도는 지난해 말부터 전문가와 관련 단체, 관련 부서가 참여한 전담 조직을 통해 규제개선 효과가 높은 과제를 발굴해 이번 개정 조례안에 반영했다. &lt;br&gt;&lt;br&gt;현주현 제주도 도시계획과장은 “도시가 외곽으로 팽창하는 것보다는 기존 도심지에 건물 층수를 높여 고밀도로 개발하기 위한 차원”이라며 도심지 재건축이 활성화될 것으로 기대했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>“강제 철거 반대” 미아리 텍사스 여성들 구청 앞에서 집회 </title>
       <link>https://www.chosun.com/national/national_general/2025/04/17/3HTR52VM6FB6NGSHUWMSCOOF6I/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/17/3HTR52VM6FB6NGSHUWMSCOOF6I/</guid>
@@ -938,42 +978,6 @@
       <media:content url="https://www.chosun.com/resizer/v2/GTD6P3IB2BBKBCGCZLF5WJ4RSY.jpg?width=600&amp;height=420&amp;auth=ad73382d9003ca3beb7d236047269520e1d64e49c6fdee4e960177c74c905313&amp;smart=true" type="image/jpeg" height="420" width="600">
         <media:description type="plain">심폐소생술 유공 부천소방서장 상장을 받은 정태운군./부천소방서</media:description>
       </media:content>
-    </item>
-    <item>
-      <title>문다혜, 1심서 벌금 1500만원... ‘음주운전·불법숙박업’ 혐의</title>
-      <link>https://www.chosun.com/national/national_general/2025/04/17/3HDMGQSB3NBSXAZJJDIHDNW6ZE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/17/3HDMGQSB3NBSXAZJJDIHDNW6ZE/</guid>
-      <dc:creator>구동완 기자, 안태민 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 17 Apr 2025 02:35:13 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GCNSMJRN5ZK77FCBQUHSCMIQ3Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;음주운전과 불법 숙박업 혐의로 기소된 문재인 전 대통령의 딸 문다혜씨가 17일 서울 마포구 서울서부지방법원에서 열린 1심 선고 공판을 마친 뒤 차량으로 이동하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;음주운전과 불법 숙박업 운영 혐의로 불구속 기소된 문재인 전 대통령의 딸 문다혜(42)씨에게 벌금형이 선고됐다.&lt;br&gt;&lt;br&gt;서울서부지법 형사5단독 김형석 판사는 17일 도로교통법상 음주운전과 공중위생관리법 위반 혐의로 재판에 넘겨진 문씨에게 벌금 1500만원을 선고했다. 검찰은 지난 3월 문씨에 대해 징역 1년을 구형했다.&lt;br&gt;&lt;br&gt;재판부는 이날 “피고인의 음주운전과 관련해 혈중알코올농도 수치가 높고 신고하지 않은 숙박업을 장기간 운영해 매출액이 고액인 점을 고려했을 때 죄질이 가볍지 않다”면서도 “잘못을 인정하고 깊이 뉘우치고 있는 점, 해당 사건 이전에 형사처벌 전력이 없는 점 등을 양형에 참작했다”고 선고 이유를 밝혔다.&lt;br&gt;&lt;br&gt;이날 검정색 자켓을 입고 법원에 출석한 문씨는 재판을 마친 뒤 선고 결과에 대한 입장과 항소 계획을 묻는 기자들의 질문에 별다른 답을 하지 않고 자리를 떠났다.&lt;br&gt;&lt;br&gt;문씨는 지난해 10월 5일 용산구 이태원 해밀톤호텔 앞에서 만취 상태로 차를 몰며 차선을 바꾸다 뒤따라오던 택시와 부딪힌 혐의(도로교통법상 음주운전)로 재판에 넘겨졌다. 사고 당시 문씨의 혈중알코올농도는 0.149%로 면허 취소 기준(0.08%)을 넘겼다.&lt;br&gt;&lt;br&gt;문씨는 본인 소유의 서울 영등포구 오피스텔과 빌라, 제주시 한림읍 협재리에 있는 단독주택을 불법 숙박 업소로 운영한 혐의도 받는다. 문씨는 숙박업 신고를 하지 않고 오피스텔 등을 불법으로 숙박업에 이용했다. 공중위생법상 숙박업 등록 없이 영업 행위를 하다 적발되면 2년 이하 징역 또는 2000만원 이하 벌금형을 받는다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“이제는 초여름” 한낮 대전 27도·서울 24도...내일은 대구 29도</title>
-      <link>https://www.chosun.com/national/transport-environment/2025/04/17/VU25GQGM65CNVDKGWJ2REU36TU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/04/17/VU25GQGM65CNVDKGWJ2REU36TU/</guid>
-      <dc:creator>정해민 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 17 Apr 2025 03:06:39 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IQESL25L4NMAPFJM7SKQIUXZEA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;곳곳에서 초여름에 가까운 날씨가 이어진 17일 서울 종로구 광화문광장에서 외국인 관광객이 물놀이를 하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;17일 일본 남쪽 해상에 자리한 고기압 가장자리를 타고 우리나라로 남서풍이 불면서, 기온이 예년 이맘때보다 2∼6도 높은 수준을 유지하겠다. 초여름 수준으로 한낮 기온이 올라갈 전망이다.&lt;br&gt;&lt;br&gt;기상청은 이날 낮 기온을 18~27도로 예보했다. 전날(18.1~26.8도)보다 조금 높거나 비슷한 수준이다. 기상청은 “전국 내륙을 중심으로 낮과 밤의 기온차가 15도 내외로 크겠으니, 건강관리에 유의하기 바란다“고 했다.&lt;br&gt;&lt;br&gt;한편 늦은 오후(오후 3~6시)부터 밤(오휴 6시~밤 12시) 사이 대기 상층으로 북쪽에서 기압골이 다가오면서 강원 내륙·산지에 5㎜ 미만의 비를 뿌리겠다.&lt;br&gt;&lt;br&gt;이 비에는 황사가 섞여 있을 수 있다. 지난 15일 고비사막에서 발원한 황사가 우리나라를 지나는 중이기 때문이다. 이날 황사 일부가 대기 하층으로 미세먼지(PM10) 농도가 높아지는 지역이 있을 수 있으나, 전반적으로는 영향이 적을 전망이다. &lt;br&gt;&lt;br&gt;또 기압골이 접근해오며 남고북저 기압계가 만들어져 전국에 강풍이 이어지겠다. 이날까지 전국 곳곳에 순간풍속 시속 55㎞(15㎧) 안팎의 강풍이 불겠으며, 제주북부·중산간·산지엔 18일 새벽까지 순간풍속 시속 70㎞(산지는 90㎞) 이상의 더 거센 강풍이 불겠다.&lt;br&gt;&lt;br&gt;한편 18일은 대구의 낮 기온이 29도까지 오르는 등 곳곳에서 초여름에 가까운 날씨가 이어지겠다. 아침 최저기온은 10∼16도, 낮 최고기온은 16∼29도로 예년보다 2∼6도가량 높겠다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>불법 홀덤펍 등 도박장 주택가로…경찰 “단속 피하려”</title>
-      <link>https://www.chosun.com/national/regional/yeongnam/2025/04/17/YGC7WDANKREDXPJNT27G736AXI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/yeongnam/2025/04/17/YGC7WDANKREDXPJNT27G736AXI/</guid>
-      <dc:creator>박주영 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 17 Apr 2025 02:20:57 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6FOTCGUG65FKVF3R4YJ3MM2PRQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산경찰청 형사기동대가 최근 도박장으로 운영된 불법 홀덤펍에서 압수한 돈 등 증거물./부산경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;불법 홀덤펍 등 도박장이 오피스텔이나 주택가로 숨어들고 있는 것으로 드러났다.&lt;br&gt;&lt;br&gt;부산경찰청은 부산 시내 오피스텔 등에서 50억원대 불법 홀덤펍(카드로 하는 포커게임의 일종) 도박장을 운영한 혐의(도박장소 개설 등)로 40대 A씨 등 업주 2명을 구속 송치하고 나머지 일당과 손님 등 60명을 불구속 송치했다고 17일 밝혔다.&lt;br&gt;&lt;br&gt;경찰에 따르면 A씨 등은 2022년 11월부터 2024년 4월까지 부산 강서구 명지동에 불법 홀덤펍 도박장을 차려놓고 판돈 50억원대의 도박을 하게 하면서 게임용 칩을 현금으로 환전해 주며 판돈의 10%를 수수료로 챙긴 혐의를 받고 있다. &lt;br&gt;&lt;br&gt;경찰 관계자는 “A씨 등은 경찰의 불법 홀덤펍 단속이 강화되자 지난해 4월 상가 업소를 정리하고 주거지 오피스텔로 장소를 옮겨 도박장을 운영하다 붙잡혔다”고 말했다. &lt;br&gt;&lt;br&gt;조사 결과, 이들은 일반음식점으로 업종을 신고해 음료를 마시며 오락으로 홀덤펍을 즐기는 곳처럼 꾸몄지만 실제로는 불법 도박장을 운영한 것으로 드러났다. &lt;br&gt;&lt;br&gt;이들은 또 조직폭력배 등을 동원해 카카오톡이나 SNS 광고를 통해 손님을 모집하고 도박장 안팎에 CCTV를 설치해 신원이 확인된 사람만 입장시키며 경찰 단속을 피해온 것으로 파악됐다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “단골손님들의 직업은 조직폭력배, 주부, 동물병원 수의사, 장례지도사 등으로 다양했다”고 말했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QZETZQAYR5EL7KI5KAZXRD2ELM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산경찰청 형사기동대가 최근 부산 연제구 연산동 한 단독주택에 개설, 운영 중인 '불법 파워볼 도박장'을 급습하고 있다./부산경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰은 또 불법 파워볼(로또처럼 숫자가 쓰인 공 여러 개를 뽑으면 나오는 숫자를 이용하는 게임) 도박장을 개설한 혐의로 50대 여성 운영자 B씨를 구속 송치하고 종업원 1명과 도박참여자 2명을 불구속 송치했다.&lt;br&gt;&lt;br&gt;B씨는 지난 2023년 9월부터 2024년 6월까지 부산 연제구 연산동 한 가정주택에서 파워볼을 모방한 인터넷 중계 화면을 방송하면서 20억원대 복권구매식 불법 도박장을 운영한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;경찰은 “이들의 파워볼은 복권 구매 한도가 무제한이고, 시간 제한 없이 24시간 구매할 수 있었다”며 “단속에 대비해 CCTV를 통해 24시간 출입자를 감시하는 것은 물론 잠겨진 철제 2중 문을 통해 미리 전화로 확인된 인물만 입장시켰다”고 말했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[단독] 현역 군인 수사권 없는 경찰, ‘계엄 연루 현역’ 수사해 공수처 이첩</title>
-      <link>https://www.chosun.com/national/court_law/2025/04/17/VH3W4PVXUFEKJDKIW5NQP3YGNI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/04/17/VH3W4PVXUFEKJDKIW5NQP3YGNI/</guid>
-      <dc:creator>이민준 기자, 유희곤 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 17 Apr 2025 01:38:19 +0000</pubDate>
-      <content:encoded>이른바 ‘12‧3 비상계엄 사태’를 두고 검찰‧경찰‧고위공직자범죄수사처(공수처) 세 기관은 경쟁적으로 수사를 벌여왔다. 검찰이 윤석열 전 대통령을 기소하면서 수사기관 간 경쟁은 잦아들었지만, 이 과정에서 불거진 각 기관의 수사권에 대한 논란은 계속되고 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/T2HPH2LYRNI2HE47NFDD43PQMU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰청 국가수사본부./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;명시적으로 내란 혐의에 대해 직접 수사를 개시할 수 있는 경찰은 국가수사본부에 비상계엄 특별수사단(특수단)을 별도로 꾸린 뒤 비상계엄 수사를 벌여왔다. 그러나 경찰은 현행법상 직접 수사 대상이 아닌 현역 군인까지 피의자 또는 참고인으로 조사해 공수처에 사건을 다수 이첩한 것으로 17일 확인됐다. 법조계에서는 경찰의 수사에 대해 “위법으로 볼 여지가 있다”는 지적이 나온다.&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 경찰 특수단은 이날까지 공수처에 비상계엄 관련 사건 40여 건을 이첩한 것으로 전해졌다. 이 중 15건은 현역 군인이 피의자인 사건이라고 한다. 현역 군인에 대한 재판권은 성범죄, 군인‧군무원 사망, 군인이 되기 전 저지른 범죄 등 일부를 제외하고는 군사법원에 있다. 경찰이 현역 군인을 내란 혐의로 수사할 수 있는 근거는 없는 셈이다. &lt;br&gt;&lt;br&gt;실제 경찰은 작년 12월 15일 예비역인 노상원 전 정보사령관과 함께 현역 군인인 문상호 전 정보사령관을 긴급체포한 뒤 서울중앙지검에 사후 승인을 요청했다. 그러나 검찰은 다음 날 요청을 받아들이지 않았다. 당시 현역 군인 신분이던 문 전 사령관에 대한 긴급체포는 군사법경찰 역할을 하는 국방부 조사본부가 했어야 하고, 사후 승인도 군검사가 해야 한다는 취지였다.&lt;br&gt;&lt;br&gt;현행법상 공수처 검사는 군검사 직무를 수행할 수 있다. 장성급 군인의 비위, 직권남용 혐의에 대한 수사 권한도 있다. 영관급 군인에 대한 수사도 장성급 군인들의 공범으로 보고 수사가 가능하다고 공수처는 보고 있지만, 이들을 내란 혐의로 직접 기소할 권한이 공수처엔 없다. 이 때문에 공수처는 현역 군인이 피의자인 사건들을 조만간 군검찰로 이첩할 계획인 것으로 전해졌다. 앞서 공수처는 경찰에서 풀려난 문 전 사령관을 작년 12월 18일 체포해 구속한 뒤, 12월 26일 군검찰로 사건을 보낸 바 있다.&lt;br&gt;&lt;br&gt;법조계에선 비상계엄 사태에 연루된 현역 군인에 대한 수사는 처음부터 군검찰 또는 국방부 조사본부가 맡았어야 한다는 지적이 나온다. 한 법조계 관계자는 “군검찰이 최종적으로 기소를 하더라도, 군사법원에서 경찰이 조사했던 피의자 신문 조서 등에 대한 증거능력을 인정하지 않을 가능성이 높다”며 “수사 실적에만 매달리다 원칙을 어긴 셈”이라고 했다. 경찰에 피의자로 입건된 한 군인 측 관계자는 “(군검찰이 포함된) 검찰 특별수사본부와 경찰에서 이중으로 조사받았는데 4개월째 결론이 나지 않아 힘든 상황”이라고 전하기도 했다.&lt;br&gt;&lt;br&gt;이와 관련해 경찰 특수단 관계자는 지난 14일 브리핑에서 “검찰로 송치했던 현역 군인 2명은 군검찰로 이첩했다”며 “경찰의 군인 수사 문제에 대해 (검찰이) 송치받기 곤란해 했던 것으로 안다”고 말했다. 이전에는 공수처로 이첩했던 현역 군인 사건을 최근엔 군검찰로 바로 보낸 것이다. 부장검사 출신 변호사는 “세밀하지 못했던 수사권 조정이 불러일으킨 문제”라며 “전면적인 개정이 필요한 상황”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>‘전자칠판 납품비리’ 구속 인천시의원 1명 석방…구속적부심 인용</title>
