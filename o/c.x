@@ -13,6 +13,51 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>DJ DOC 이하늘, 명예훼손 혐의로 검찰 송치</title>
+      <link>https://www.chosun.com/national/national_general/2025/04/18/CFWCTU3D2ZEUNBI7R44OU5EAAM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/18/CFWCTU3D2ZEUNBI7R44OU5EAAM/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 18 Apr 2025 13:30:20 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BEQY4H3ICVQ322TRMVG2EBALGQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;DJ DOC 이하늘. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그룹 DJ DOC의 이하늘(54)이 한 연예기획사 대표의 명예를 훼손한 혐의로 검찰에 넘겨졌다.&lt;br&gt;&lt;br&gt;18일 경찰 등에 따르면 서울 마포경찰서는 이하늘을 정보통신망법상 명예훼손 혐의로 지난 7일 불구속 송치했다.&lt;br&gt;&lt;br&gt;이하늘은 유튜브 등을 통해 자신과 법적 분쟁을 벌여온 가수 주비트레인(본명 주현우)의 소속사 이모 대표가 범죄자라고 주장하는 등 허위 사실을 유포한 혐의를 받는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;이하늘은 이날 한 언론에 “상대편에서 막무가내로 고소하고 있는데, 저 역시도 명예훼손·허위사실 유포 등 혐의로 맞고소를 진행할 계획”이라고 입장을 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“예상 연수익 2500억”...국내 최초 ‘1억 구독’ 유튜버는</title>
+      <link>https://www.chosun.com/national/national_general/2025/04/18/A3IZIUFDQZDBZIX2TJIEXXCDOA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/18/A3IZIUFDQZDBZIX2TJIEXXCDOA/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 18 Apr 2025 12:08:39 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/C3H6VPHZZFHGRLLUH5YPR6QN4E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;구독자 1억명 달성 축하 게시물. /유튜브 채널 '김프로'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국내 최초로 구독자 1억명을 돌파한 유튜버가 탄생했다. &lt;br&gt;&lt;br&gt;유튜브 채널 ‘김프로KIMPRO’는 지난 17일 구독자 1억명을 돌파했다고 밝혔다. &lt;br&gt;&lt;br&gt;유튜브 채널 분석 사이트 ‘녹스인플루언서’와 ‘플레이보드’에 따르면 한국에서 구독자 1억명을 돌파한 유튜브 채널은 김프로가 처음이다. &lt;br&gt;&lt;br&gt;국내 구독자 2위는 걸그룹 블랙핑크 공식 유튜브 채널 ‘BLACKPINK(구독자 9640만명)’이고, 3위는 그룹 방탄소년단(BTS) 공식 유튜브 채널 ‘BANGTANTV(구독자 8010만명)’이다. &lt;br&gt;&lt;br&gt;김프로는 국내 개인, 전체 유튜브 채널 중 가장 많은 구독자를 보유하고 있으며 전 세계 기준으로는 14위다.&lt;br&gt;&lt;br&gt;김프로는 이날 공지를 통해 “믿기지 않지만 드디어 우리 김프로 채널이 1억 구독자를 달성했다”며 “함께 달려온 멤버들, 그리고 언제나 저희 영상을 봐주시고 응원해주신 구독자 여러분 덕분에 이런 꿈같은 순간을 맞이할 수 있었다. 진심으로 감사드린다”라고 했다. &lt;br&gt;&lt;br&gt;김프로는 “이 숫자 안에는 여러분의 시간, 관심, 그리고 웃음이 담겨 있다고 믿는다”며 “앞으로도 더 재미있고, 더 좋은 콘텐츠로 보답하겠다. 우리의 이야기, 이제부터가 진짜 시작이다”라고 했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QCTQANRMKZEC7FPTP3CSY3FHWU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;유튜브 채널 '김프로' 홈화면.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘김프로’는 인플루언서 김동준과 사촌동생 유백합이 함께 제작한 콘텐츠를 선보이고 있다. 2023년부터는 유하영, 정희림이 합류해 ‘OK TEAM’으로 활동 중이다. 먹방, 챌린지, 상황극 등을 하며 해외 네티즌들에게 더 인기가 많다. &lt;br&gt;&lt;br&gt;‘녹스인플루언서’에 따르면 김프로의 예상 일일 수익은 약 7억원, 예상 연수익은 약 2500억원으로 나타났다.&lt;br&gt;&lt;br&gt;다만 유튜브 채널 실제 수익은 광고 유형, 시청 지역 등에 따라 큰 차이가 있을 수 있다. 해당 금액은 추정치일 뿐이며 실제 연수익은 유튜버 본인만 알 수 있다. 일각에선 김프로가 최근 쇼츠 위주의 영상을 올리고 있어 실제 수익이 많지 않을 것이란 추정도 나온다. &lt;br&gt;&lt;br&gt;쇼츠는 일반 영상과 달리 재생 시간이 짧고 자동으로 반복 재생이 되기 때문에 조회 수를 쉽게 올릴 수 있다. 광고 단가도 일반 영상보다 낮다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>주차타워 뚫고 돌진한 SUV…난간 걸쳐 추락 면했다</title>
+      <link>https://www.chosun.com/national/national_general/2025/04/18/APB77MTYGVAX5J7ZK3OPJDPMPU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/18/APB77MTYGVAX5J7ZK3OPJDPMPU/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 18 Apr 2025 12:33:17 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2JPB65YVHVLQDFEXI2ODTLGRKY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;18일 전남 순천시 오천동 한 주차타워에서 SUV가 난간 밖으로 돌진했다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전남 순천시의 한 주차타워에서 스포츠유틸리티차량(SUV)이 난간 밖으로 돌진하는 사고가 발생했다.&lt;br&gt;&lt;br&gt;18일 소방당국 등에 따르면 이날 오후 4시쯤 전남 순천시 오천동의 한 주차타워 2층에서 SUV 차량이 난간 밖으로 돌진했다.&lt;br&gt;&lt;br&gt;SUV 앞쪽 범퍼가 맞은편 난간에 걸치면서 다행히 추락 사고로 이어지지는 않았다.&lt;br&gt;&lt;br&gt;차에 타고 있던 50대 운전자 A씨는 소방 당국에 의해 구조됐으며 크게 다치지 않아 병원으로 이송되지 않았다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CNMZ7M6H32AUMJJVSP36UMETAU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;순천 주차타워 SUV 돌진 사고. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;A씨는 음주나 무면허 상태는 아닌 것으로 확인됐다.&lt;br&gt;&lt;br&gt;경찰은 A씨가 운전 미숙으로 사고를 낸 것으로 보고 정확한 사고 경위를 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>정부, 메이슨에 항소 포기... 860억 배상해야</title>
+      <link>https://www.chosun.com/national/court_law/2025/04/18/7S3C4OPT7RFNJMT5HAXSUATLSY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/04/18/7S3C4OPT7RFNJMT5HAXSUATLSY/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 18 Apr 2025 11:59:21 +0000</pubDate>
+      <content:encoded>한국 정부가 삼성 합병으로 손해를 본 미국계 헤지펀드 메이슨 캐피털에 3200만달러(438억여 원)를 배상하라는 투자자‧국가 간 소송(ISDS) 중재 판정에 대한 취소 소송이 기각되자 항소를 포기했다. 이에 따라 정부는 메이슨 측에 860억여 원을 물어줘야 한다.&lt;br&gt;&lt;br&gt;이 사건은 2015년 삼성물산과 제일모직 합병 승인 과정에서 불거졌다. 삼성물산 지분 2.2%를 가지고 있었던 메이슨 측은 한국 정부가 삼성물산 대주주이던 국민연금에 합병에 찬성하라고 지시해 2억달러 규모의 손해를 입었다고 주장했다. 삼성물산 주식 가치가 하락한 상황에서 두 회사가 합병해 손해를 봤다는 주장이다. 메이슨은 2018년 네덜란드 상설중재재판소(PCA)에 ISDS를 제기하고 2635억여 원 배상을 청구했다.&lt;br&gt;&lt;br&gt;우리 정부는 “한국 정부가 국민연금을 동원한 증거가 없고, 국민연금의 합병 찬성은 삼성물산의 주주로서 자신의 의결권을 행사한 것일 뿐”이라고 주장했다. 그러나 PCA는 작년 4월 “한국 정부가 메이슨에 438억여 원과 연 5% 지연 이자, 법률 비용, 중재 비용 등을 지급하라”고 판정했다. 정부는 작년 7월 싱가포르 국제상사법원에 중재판정을 취소해 달라며 소송을 냈지만, 싱가포르 법원은 지난달 20일 이를 기각했다.&lt;br&gt;&lt;br&gt;항소를 포기한 정부는 메이슨 측에 지급해야 할 총 배상액이 860억여 원이라고 보고 있다. PCA가 지연 이자 계산의 시작점을 삼성물산‧제일모직 합병이 승인된 2015년 7월 17일로 정하면서 액수가 크게 늘었다고 한다. 정부 관계자는 “항소 제기 시 발생하는 추가 비용 등을 고려해 항소를 제기하지 않기로 했다”고 밝혔다. 정부는 메이슨 측과 지급 시기를 조율하고 있는 것으로 전해졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>경찰, 이상민 前 장관 소환…단전·단수 의혹 조사</title>
+      <link>https://www.chosun.com/national/national_general/2025/04/18/JB4BGVJW7FEYBKKC37XXMCMNLM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/18/JB4BGVJW7FEYBKKC37XXMCMNLM/</guid>
+      <dc:creator>김명진 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 18 Apr 2025 10:50:47 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/I4X7P75HZZPMHDXEORD6T6RJMI.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;이상민 전 행정안전부장관이 지난 2월 4일 서울 여의도 국회에서 열린 윤석열 정부 비상계엄 선포를 통한 내란 혐의 진상규명 국정조사 특별위원회 2차 청문회에 출석해 발언하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰 비상계엄 특별수사단은 18일 내란 혐의를 받는 이상민 전 행정안전부 장관을 불러 조사하고 있다.&lt;br&gt;&lt;br&gt;경찰에 따르면 이 전 장관은 이날 오후 피의자 신분으로 경찰에 출석해 조사받고 있다.&lt;br&gt;&lt;br&gt;이 전 장관은 작년 12월 3일 비상계엄 국무회의가 열리기 전, 윤석열 전 대통령으로부터 특정 언론사에 대한 단전·단수를 지시받아 허석곤 소방청장 등에게 전달한 혐의를 받고 있다. 이 전 장관은 지난 2월 11일 헌법재판소의 윤 전 대통령 탄핵심판 7차 변론에 증인으로 나서 “단전·단수 지시를 받은 적 없다”고 관련 의혹을 부인했다. &lt;br&gt;&lt;br&gt;앞서 경찰은 지난 2월 18일 이 전 장관의 내란 혐의와 관련해 이 전 장관 자택과 서울·세종 장관 집무실을 압수 수색했었다. 16일에도 이 전 장관 혐의 입증에 필요하다며 대통령 집무실 CCTV 자료에 대한 압수 수색을 시도했지만 경호처와 10시간 대치 끝에 빈손으로 철수했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>검찰, ‘마약 투약 혐의’ 이철규 의원 아들 구속영장 청구... 경찰 신청 영장</title>
       <link>https://www.chosun.com/national/court_law/2025/04/18/HTVVXVKEDNFAFEUR2XIT7ENN7Q/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/04/18/HTVVXVKEDNFAFEUR2XIT7ENN7Q/</guid>
@@ -906,33 +951,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MFJGKD553JL5JKZW34HQD35J4A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령 파면 직후 곤봉으로 경찰 버스 유리창을 부순 피의자 이모씨가 11일 오전 서울 성북구 성북경찰서에서 검찰로 송치되고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지검 형사2부(부장 조아라)는 헌법재판소가 윤석열 전 대통령 탄핵을 인용한 데 격분해 경찰버스를 파손한 남성 이모씨를 구속 기소했다고 17일 밝혔다.&lt;br&gt;&lt;br&gt;이씨는 지난 4일 윤 전 대통령 탄핵 인용 선고 직후 서울 안국역 5번 출구 앞에 세워진 경찰 소속 중형버스의 뒷유리창을 곤봉으로 부순 혐의(특수공용물건손상)를 받는다. 경찰은 현장에서 이씨를 체포하고 곤봉을 압수한 뒤 구속영장을 신청했다. &lt;br&gt;&lt;br&gt;서울중앙지법 염혜수 판사는 지난 6일 이씨의 구속영장 실질심사를 진행하고, 도망할 염려가 있다며 구속영장을 발부했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EH5NI7UHKWNZ5KPZ5NQAJ5SZ3E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;4일 오전 11시 30분쯤 서울 종로구 안국역 5번 출구 인근 수운회관 앞에서 한 남성이 쇠파이프로 경찰버스 창문을 부쉈다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이씨를 제외하고 탄핵 선고일 당시 소요 사태를 벌여 체포된 사람은 없는 것으로 전해졌다. 길을 걷다 넘어져 현장에서 처치를 받은 경상자 2명만 나왔다고 한다. 경찰은 탄핵 심판 선고 전부터 헌재 반경 150m 이내 구역을 ‘진공 상태’로 만드는 등 헌재 일대 안전 확보에 만전을 기했다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>다음주 尹 법정 모습 공개된다... 법원, 촬영 허가</title>
-      <link>https://www.chosun.com/national/court_law/2025/04/17/WJCTZNLLAFDCBG4MUQRDKLS64I/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/04/17/WJCTZNLLAFDCBG4MUQRDKLS64I/</guid>
-      <dc:creator>박혜연 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 17 Apr 2025 06:56:28 +0000</pubDate>
-      <content:encoded>내란 우두머리 혐의로 기소된 윤석열 전 대통령의 법정 내 모습이 오는 21일 처음으로 공개된다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NZNZRZIOFZE47JEH7UJYA5XLKU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구에 위치한 서울중앙지법과 서울고법 청사./박강현 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;17일 법조계에 따르면, 서울중앙지법 형사25부(재판장 지귀연)는 오는 21일 오전 10시 열리는 윤 전 대통령의 2차 공판 기일에서 취재진의 사진&lt;b&gt;·&lt;/b&gt;영상 촬영을 허가하기로 했다. 다만 생중계는 허용되지 않는다.&lt;br&gt;&lt;br&gt;법원은 “피고인에 대한 의견 요청 절차 등을 거친 뒤 국민적 관심도와 알 권리, 피고인 등의 법익 등을 종합적으로 고려해 법정 촬영을 허가했다”고 설명했다.&lt;br&gt;&lt;br&gt;앞서 재판부는 지난 14일 열린 첫 공판에서는 촬영 신청을 받아들이지 않았다. 촬영 요청이 촉박하게 제출돼 피고인 의견 청취 등 필요한 절차를 밟지 못했다는 이유였다. 재판부는 “나중에 (촬영) 요청이 제출되면 피고인의 의견을 물어 검토하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;이후 법조 기자단 영상 취재진이 또다시 촬영을 신청하자, 재판부는 지난 15일 윤 전 대통령 측에 법정 촬영에 관한 의견서를 요청했다. 이에 윤 전 대통령 측은 “법정 내 촬영이 무죄 추정의 원칙에 어긋날 수 있다”는 취지의 의견서를 제출한 것으로 전해졌다. &lt;br&gt;&lt;br&gt;재판부는 피고인 측 의견을 종합 검토한 뒤 촬영 허가 결정을 내렸다. 대법원 규칙에 따르면 재판장은 피고인의 동의가 없더라도 공공의 이익을 위해 상당하다고 판단되면 법정 촬영을 허가할 수 있다.&lt;br&gt;&lt;br&gt;촬영은 윤 전 대통령이 피고인석에 착석하고 공판이 본격 시작되기 전까지만 허가될 예정이다. 지정된 장소에서 사전에 허가를 받은 영상 기자단만 촬영할 수 있다. &lt;br&gt;&lt;br&gt;앞서 2017년 5월 박근혜 전 대통령의 국정 농단 사건 첫 공판과 2018년 5월 이명박 전 대통령의 뇌물 수수·횡령 혐의 첫 공판도 법정 촬영이 허가된 바 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>착한 택시라더니… 논란 싣고 달리는 택시협동조합</title>
-      <link>https://www.chosun.com/national/transport-environment/2025/04/15/BJ7YOAOQPZEIDIBSO4F43CB6KU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/04/15/BJ7YOAOQPZEIDIBSO4F43CB6KU/</guid>
-      <dc:creator>김아사 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 14 Apr 2025 15:53:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/63IYIHZASVGZ3JL7Y7BB67H3PY.png"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=이철원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;법인택시 업체들이 경영난과 수익성 악화에 허덕이는 사이 개인택시와 법인택시 중간 성격의 ‘택시 협동조합’이 전국적으로 100곳을 넘어선 것으로 나타났다. 협동조합들이 ‘사납금을 없앤 착한 택시’라는 점을 내세워 기사 가입을 늘리고 있는 것이다.&lt;br&gt;&lt;br&gt;전문가들은 협동조합 증가가 택시 업계 전체를 흔들 뇌관이 될 수 있다고 말한다. 기사들이 협동조합에 가입할 때, 적게는 수천만 원에서 1억원 가까운 목돈을 내야 하는데 이 돈의 사용이나 관리가 제대로 이뤄지지 않고 있기 때문이다. 특히 택시 기사 70%가 60세 이상 고령으로 노후 생계를 위해 일하고 있는 점을 고려하면 심각한 사회문제가 될 수 있다는 우려도 나온다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/P4B7ZDPXEBCMVOZ63CYMP4BOF4.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=이철원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;협동조합 택시는 기존 법인·개인택시의 틀을 깨는 모델이다. 법인택시는 회사에 속한 기사(근로자)가 모는 택시이고, 개인택시는 개인 사업자가 운영하는 택시다. 협동조합 택시는 양자의 성격을 함께 갖는다. 협동조합도 법인이기 때문에 이에 속한다는 점에서 법인택시이지만, 기사가 조합에 출자하기 때문에 기사의 법적 지위는 사업자로 바뀌는 것이다. 법인택시이면서도 사납금(기준금)이 없는 개인택시처럼 운행이 가능한 것도 이 점을 활용한 것이다. &lt;br&gt;&lt;br&gt;문제는 기사들이 내는 목돈, ‘출자금’의 사용과 관리다. 기사들은 수천만 원을 내고 협동조합에 들어간다. 협동조합은 출자금을 낸 기사 모두가 동등한 권리를 갖는다고 말하지만, 실상은 대표단 등 소수에 의해 운영되는 경우가 대부분이다. 이 때문에 횡령·배임 이슈가 끊이지 않는다. &lt;br&gt;&lt;br&gt;국내 1호 택시 협동조합이었던 A사의 경우 출자금 사용을 두고 고소·고발전뿐 아니라 출자금을 돌려받지 못한 택시 기사가 분신(焚身)하는 일도 벌어졌다. 결국 2023년 설립자이던 국회의원 출신 박모씨는 구속됐다. 대구 지역 B 업체는 이사장 등이 주유소에 납부해야 할 금액을 빼돌리고 개인 채무를 조합에 넘겨, 조합원 대부분이 출자금을 되돌려받지 못하는 상황으로 이어졌다. 신성우 전국서택련택시노동조합 위원장은 “전국 협동조합 절반 이상이 출자금 관련 문제를 안고 있는 것으로 파악하고 있다”고 했다.&lt;br&gt;&lt;br&gt;애초 협동조합 모델 자체가 사업주만을 위한 것이라는 비판도 나온다. 사업주 입장에선 자기 자본 없이도 출자금을 내는 택시 기사들만 모아 업체를 운영할 수 있기 때문이다. 서울의 경우 50대 면허를 모으면 택시업을 할 수 있다. 허가 절차는 있지만 형식상 절차다. &lt;br&gt;&lt;br&gt;실제 현재 경영 어려움에 빠진 법인택시 업체들이 협동조합으로 속속 전환하고 있다. 법인택시 가동률 저하로 면허 값이 하락해 업체를 넘기는 것도 어려워졌는데, 협동조합으로 전환하면 택시 기사들에게 출자금 형식으로 법인택시 면허 값(서울 기준, 3000만원가량)의 2배가 넘는 돈(5000만~8000만원)을 받을 수 있기 때문이다. 사업주들은 이런 과정을 주도하며 대부분 대표(이사장) 직도 유지한다. 이들 중 일부는 기사 보험료와 차량 수리비, 유류비 등 운행에 필요한 비용 대부분을 기사에게 부담시키는 경우도 있는 것으로 확인됐다. 이는 불법행위다.&lt;br&gt;&lt;br&gt;그럼에도 택시 기사들이 협동조합에 들어가는 이유는, 법인택시를 받아 개인택시처럼 운행할 수 있다는 점 때문이다. 현재 서울의 개인택시 면허는 1억2000만원가량에 거래되고 있는데, 협동조합에선 이보다 적은 돈을 내고 개인택시 운행이 가능해진다는 것이다. &lt;br&gt;&lt;br&gt;그러나 횡령·배임 등이 발생하지 않는다 하더라도, 조합이 경영 어려움 등에 빠질 경우 부작용이 너무 크다는 게 전문가들 얘기다. 조합원이 표를 행사하는 협동조합 특성상 편 가르기 행태나, 전문성을 갖추지 못한 집단이 득세하는 경우도 많기 때문이다. 이사장부터 이사, 감사, 재무 담당 등 경영진 전부가 택시 기사로만 이뤄진 경우도 많다고 한다. 택시 협동조합이 가장 번성한 대구의 경우 상당수 택시 업체가 경영상 어려움을 겪는 것도 이와 무관치 않다는 분석이다. 법인택시의 경우 회사 경영이 어려우면 기사가 그만두면 끝이지만, 협동조합 체제에선 기사가 평생 모은 목돈인 출자금을 돌려받지 못할 가능성이 크다. &lt;br&gt;&lt;br&gt;&lt;b&gt;☞협동조합택시&lt;/b&gt;&lt;br&gt;&lt;br&gt;법인택시와 개인택시의 중간 성격을 갖는 택시. 외형은 법인택시지만, 기사가 조합에 출자하기 때문에 법적 지위는 개인 사업자다. 기사는 회사에 사납금을 내진 않지만, 협동조합 가입 시 수천만 원의 출자금을 내야 한다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“원금, 수익 보장한다” 속여 5억여원 뜯어낸 50대 여성, 구속</title>
-      <link>https://www.chosun.com/national/incident/2025/04/17/YGXBZKGFU5EBRBEE7LXM374SDY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/04/17/YGXBZKGFU5EBRBEE7LXM374SDY/</guid>
-      <dc:creator>이승규 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 17 Apr 2025 04:41:58 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AVF77PSR442OIUGTY5LFWV3XR4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;원금과 수익을 보장한다며 지인을 속여 투자금 수억원을 가로챈 50대 여성이 검찰에 송치됐다.&lt;br&gt;&lt;br&gt;대구경찰청 반부패·경제범죄수사대는 사기 혐의로 50대 여성 A씨를 구속 송치했다고 17일 밝혔다. A씨는 2023년 3~10월 지인인 B씨에게 “백화점 상품권을 헐값에 대량 구입한 뒤 개인에게 판매하면 수익을 얻을 수 있다”며 “이 사업에 투자하면 매월 4% 수익을 얻을 수 있고, 원금도 환불이 필요하면 한 달 안에 돌려주겠다”며 속여 5억 3000만원을 가로챈 혐의를 받고 있다. A씨는 B씨를 속이기 위해 범행 초기에는 수익금 명목으로 일부 금액을 돌려주는 식으로 신뢰를 쌓다가 거액을 가로챈 것으로 조사됐다.&lt;br&gt;&lt;br&gt;경찰 조사 결과 A씨가 B씨에게 제안한 상품권 사업은 실체가 없었고, A씨는 B씨에게 가로챈 투자금 대부분을 자기 빚을 갚는 데 쓰거나 생활비로 쓴 것으로 파악됐다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “고수익 보장이나 원금 보장 등의 문구로 투자를 유도하는 사례가 많은 만큼, 투자 전 사업의 실체를 반드시 확인하고 고수익 보장에 대한 객관적 자료를 확인할 필요가 있다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>수업참여율 26%에도… 2026학년도 의대 ‘증원 0명’ 확정</title>
       <link>https://www.chosun.com/national/education/2025/04/17/3CWXVH2NAFGTLO6GJ2QDGOCNQE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/education/2025/04/17/3CWXVH2NAFGTLO6GJ2QDGOCNQE/</guid>
@@ -968,18 +986,6 @@
       </media:content>
     </item>
     <item>
-      <title>고사리손으로 쓰러진 엄마 구한 9세 아들…“어린이집에서 배웠어요”</title>
-      <link>https://www.chosun.com/national/national_general/2025/04/17/EG26CIY5ZZCQTMVWDVNXDV6LFY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/17/EG26CIY5ZZCQTMVWDVNXDV6LFY/</guid>
-      <dc:creator>김자아 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 17 Apr 2025 03:02:19 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LI2O2POGVJD6XGGDPLEBBTJ2LI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;쓰러진 어머니를 심폐소생술로 구한 초등학생 정태운(9)군./tvN&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;갑자기 쓰러진 어머니를 심폐소생술로 살린 초등학생의 사연이 전해졌다.&lt;br&gt;&lt;br&gt;경기도 부천에 사는 부원초등학교 3학년 정태운(9)군은 지난 16일 방송된 tvN ‘유 퀴즈 온 더 블럭’에 출연해 어머니를 구한 상황을 떠올렸다.&lt;br&gt;&lt;br&gt;경기도 부천소방서에 따르면 정군의 어머니는 지난 1월8일 오후 10시20분쯤 부천 자택에서 급성 심근경색으로 쓰러졌다.&lt;br&gt;&lt;br&gt;정군은 당시 상황에 대해 “갑자기 주방에서 ‘쿵’ 소리가 나서 가보니 엄마가 거품을 물고 누워 있었다”고 했다.&lt;br&gt;&lt;br&gt;쓰러진 어머니를 발견한 정군의 대처는 침착했다. 정군은 “엄마가 숨 쉬는지 확인하고 119에 신고해서 119가 올 때까지 심폐소생술을 했다. 엄마가 쓰러져 있어서 무섭기도 했는데 침착하게 했다”고 말했다.&lt;br&gt;&lt;br&gt;정군은 “6세 때부터 어린이집, 태권도장에서 (심폐소생술을) 배웠고 예전에 다닌 원미초등학교랑 지금 다니는 초등학교에서도 배웠다”며 심폐소생술 교육을 받은 덕에 적절한 대처를 할 수 있었다고 답했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GTD6P3IB2BBKBCGCZLF5WJ4RSY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;심폐소생술 유공 부천소방서장 상장을 받은 정태운군./부천소방서&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정군은 구급대원이 도착할 때까지 7분간 심폐소생술을 이어갔다. 어머니는 호흡과 맥박이 제대로 돌아오지 않는 위급한 상황이었다. 의식이 없는 상태로 병원으로 이송된 어머니는 이후 심장 질환 치료를 받고 퇴원해 현재 건강을 회복해 일상생활을 하고 있다.&lt;br&gt;&lt;br&gt;MC 유재석은 정군의 손을 만지며 “고사리손이다. 이 조그마한 손으로 어머니를 구조했다”며 “어른들도 3분 이상 심폐소생술은 힘들다”고 했다.&lt;br&gt;&lt;br&gt;이어 “누구에게나 올 수 있는 상황이다. 골든타임이 4분이다. 4분 안에 긴급한 조치가 취해져야 한다. 흉부 압박을 해서 심폐소생술을 해야 한다”고 강조했다.&lt;br&gt;&lt;br&gt;정군은 이 일로 소방서장 상장을 받았다. 부천소방서는 지난달 정군에게 심폐소생술 유공 소방서장 상장을 수여했다. 지준호 부천소방서장은 “신속하고 정확한 119 신고 및 심폐소생술로 어머니를 구한 태운 학생에게 감사의 마음을 전한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/GTD6P3IB2BBKBCGCZLF5WJ4RSY.jpg?width=600&amp;height=420&amp;auth=ad73382d9003ca3beb7d236047269520e1d64e49c6fdee4e960177c74c905313&amp;smart=true" type="image/jpeg" height="420" width="600">
-        <media:description type="plain">심폐소생술 유공 부천소방서장 상장을 받은 정태운군./부천소방서</media:description>
-      </media:content>
-    </item>
-    <item>
       <title>‘전자칠판 납품비리’ 구속 인천시의원 1명 석방…구속적부심 인용</title>
       <link>https://www.chosun.com/national/court_law/2025/04/17/NIQYCZ7ZIVBGPBS43EDWFMRVDA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/04/17/NIQYCZ7ZIVBGPBS43EDWFMRVDA/</guid>
@@ -987,15 +993,6 @@
       <description/>
       <pubDate>Thu, 17 Apr 2025 01:58:04 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RZJNBMOJGRSV7D5G26LTNL3ANY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원의 구속적부심사 인용 결정으로 석방된 조현영 의원./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전자칠판을 설치하도록 학교에 영향력을 행사하고 납품한 업체로부터 뇌물을 받은 혐의로 최근 구속된 2명의 인천시의원 중 한명이 석방됐다. &lt;br&gt;&lt;br&gt;인천지법 정우영 부장판사는 특정범죄 가중처벌 등에 관한 법률상 뇌물 혐의로 구속된 조현영 인천시의회 의원에 대한 구속적부심사를 진행한 뒤 인용 결정했다고 17일 밝혔다. &lt;br&gt;&lt;br&gt;법원은 “인용할 만한 타당한 이유가 있다”며 이같이 결정하고, 조 의원에 대해 보증금 1000만원이나 보증서를 내라는 조건을 붙였다. &lt;br&gt;&lt;br&gt;구속적부심사는 피의자가 구속의 적법성을 다투며 법원에 재차 판단을 요구하는 절차다. 인용될 경우 석방된다. &lt;br&gt;&lt;br&gt;법원은 조 의원과 함께 구속적부심사를 청구한 신충식 인천시의원과 전자칠판 납품업체 대표 A씨에 대해선 기각 결정했다. 법원은 “구속적부심사를 청구할 이유가 없다”고 했다. &lt;br&gt;&lt;br&gt;신 의원과 조 의원 등 2명은 중학교 교감 B씨와 함께 2023년 10월부터 지난해 4월까지 인천시교육청의 20억원대 전자칠판 설치 지원 사업과 관련해 A씨 등 업체 관계자로부터 금품을 수수한 혐의를 받고 있다. &lt;br&gt;&lt;br&gt;이들은 A씨 등 업체의 전자칠판이 학교에 납품되도록 도와주고 리베이트 명목으로 납품 금액의 20% 수준인 3억8000만원을 요구해 이 중 2억2000만원을 받은 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰은 이번 전자칠판 납품비리 사건과 관련, 신 의원과 조 의원, A씨를 비롯해 총 9명을 입건해 검찰에 송치했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>계란까기·고기삶기 거부한 조리원들... 대전 학교들 급식 중단 파동</title>
-      <link>https://www.chosun.com/national/education/2025/04/17/VEFV3HI2WRD4FCDZ7RAV3AZYQA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2025/04/17/VEFV3HI2WRD4FCDZ7RAV3AZYQA/</guid>
-      <dc:creator>표태준 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 16 Apr 2025 16:03:42 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EPCQVJEHHBA6NJTR67AQDKIEMQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;미역 없는 미역국… 대전서 급식 불만 폭발 “얘들아 오늘도 단체 도시락이야” - 16일 급식 중단 사태를 겪고 있는 대전 중구 글꽃중에서 학생들이 줄지어 학교 측에서 임시 제공한 도시락을 받고 있다. 이 학교는 급식 조리원들이 미역 자르기와 계란 까기 등 까다로운 식재료 손질 업무를 거부해 ‘미역 없는 미역국’이 제공되는 등 파행을 겪다가 조리원들이 단체 병가를 내 급식이 중단됐다. /신현종 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“아이들 볼모로 하는 쟁의행위 철회하라!”&lt;br&gt;&lt;br&gt;16일 오전 7시 대전 서구 둔산여고 정문 앞, 학부모 6명이 피켓을 들고 서서 이렇게 외쳤다. 피켓에는 ‘학부모 가슴이 찢어진다. 김치 포함 3찬이 웬 말이냐’고 적혀 있었다. 학부모들은 지난 7일부터 매일 아침 이런 시위를 하고 있다.&lt;br&gt;&lt;br&gt;이 학교는 급식 조리원들의 파업으로 점심과 석식이 부실하게 나오다가 지난 2일부터 석식이 중단된 상태다. 학생들은 배달 음식을 시켜 먹고 야간 자율 학습을 하거나 그냥 귀가하고 있다. &lt;br&gt;&lt;br&gt;둔산여고의 급식 사태는 민노총 전국학교비정규직노동조합(학비노조) 대전지부가 작년 6월부터 급식 조리원 처우 개선을 요구하며 대전시교육청과 교섭을 벌이다 지난 2월 결렬되자 쟁의행위에 돌입했기 때문이다. 개학과 동시에 조리원들은 ‘노동 간소화’를 요구하며 재료 손질 등을 거부하고 있다. 그 결과 여러 학교에서 일부 재료가 빠진 음식이 나오고, 교직원들이 조리를 대신하는 일이 벌어지고 있다. &lt;br&gt;&lt;br&gt;급식을 중단하는 학교도 늘고 있다. 대전 중구 글꽃중은 조리원들이 11일 점심 배식 후 식판을 씻지 않고 퇴근한 뒤 단체 병가를 내 급식이 중단됐다. 계란 까기 등 까다로운 식재료 손질을 거부하며 학교 측과 갈등을 빚다가 아예 출근을 안 하겠다고 나선 것이다. 이 학교에선 지난 7일 조리원들이 긴 미역 손질을 거부해 점심에 ‘미역 없는 미역국’이 나오기도 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UOKA45HU7RHOLCBPWEAOATBAJM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;급식 대신 집에서 싸온 도시락 - 16일 급식 파행을 겪는 대전 중구 글꽃중에서 학생이 집에서 싸온 도시락을 먹고 있다. /신현종 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대전 지역 조리원들은 1인당 급식 인원을 80명 이하로 낮춰 줄 것과 노동 강도를 높이는 행위 금지 등을 요구하고 있다. 예컨대, ‘교직원 (별도) 배식 금지’ ‘냉면기 사용 제한(월 2회)’ ‘반찬 수 3찬(김치 포함) 제한’ ‘사골, 덩어리 고기 삶기 금지’ ‘튀김·부침 메뉴 주 2회 초과 금지’ 등이다. &lt;br&gt;&lt;br&gt;실제 시·도교육청들이 채용하는 조리원들은 무기계약직으로 사실상 정년이 보장되지만 노동 강도에 비해 임금이 낮아 정년 전에 퇴사하는 이도 많다. 월급은 200만~300만원 정도다. 학비노조에 따르면, 작년 조기 퇴사율은 60.4%에 달한다. &lt;br&gt;&lt;br&gt;하지만 대전시교육청 측은 조리원들의 요구가 과하고, 학생 건강을 해칠 수 있어 받아들이기 어렵다는 입장이다. 대전시교육청 측은 “조리원 1인당 평균 급식 인원을 2019년 116명에서 지난해 105명으로 줄였는데, 노조 요구대로 조리원 정원을 급격하게 늘리는 건 불가능하다”면서 “반찬 수나 조리 방식을 제한하는 것은 학생들의 다양한 영양소 섭취를 저해할 수 있어 수용 불가”라고 말했다. &lt;br&gt;&lt;br&gt;학생·학부모들은 반복되는 ‘급식 파업’에 싸늘한 분위기다. 이번엔 특히 ‘재료 손질 거부’ 등 노조 요구가 알려지며 “너무한 것 아니냐”는 반응이다. 지난 8일 둔산여고에선 조리원들이 돼지국밥의 재료 손질을 거부해 교직원들이 대신 고기를 삶기도 했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PV3FBW6U2ZDB3DYWXVDPQ3CLVM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;학교 조리원 규탄하는 학부모들 - 지난 15일 대전 서구 둔산여고 앞에서 학부모들이 이 학교 조리원들을 규탄하는 시위를 하고 있다. 이 학교는 조리원들이 ‘노동 간소화’를 요구하며 재료 손질 등을 거부해 점심과 석식이 부실하게 나오다가 지난 2일 석식이 중단된 상태다. /독자 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;둔산여고 2학년 학부모 김경석씨는 “사실상 시중 판매 제품을 간단히 조리해 주고, 반찬도 김치 포함 3개만 주겠다는 이 황당한 요구를 부모가 어떻게 받아들이겠느냐”며 “아이들 밥을 볼모로 매번 파업을 할 것이라면 급식을 위탁하자는 의견이 많다”고 말했다. 대전 학부모 커뮤니티에도 “급식이 애들을 위한 건데 귀족 공무직 밥벌이 수단이 된 것 같다” “조리원 없애고 위탁 급식하라”는 글과 댓글이 수백 개씩 쏟아지고 있다.&lt;br&gt;&lt;br&gt;둔산여고 학생회도 11일 입장문을 내고 “학교 급식을 담보로 학생들의 건강권을 위협하는 행위는 절대 바람직하지 않다”며 “건강하고 안정적인 급식 제공을 강력히 요구한다”고 했다. 학생들은 조리원들이 계속 투쟁하면 급식을 집단으로 거부하겠다고 했다. &lt;br&gt;&lt;br&gt;현재 전국 대부분 학교들은 학교마다 조리원을 두고 급식을 만들어 제공하는 ‘직영 급식’을 하고 있다. 2006년 CJ푸드시스템(현 CJ프레시웨이)이 위탁 급식을 맡은 학교들에서 집단 식중독 증세가 나타난 후 학교급식법이 개정돼 2010년부터 직영 급식이 의무화됐기 때문이다. &lt;br&gt;&lt;br&gt;학부모들 사이에선 “직영 급식 전환 후 급식 환경이 되레 열악해졌다”는 얘기도 나온다. 전국 5만명에 달하는 조리원 상당수가 민노총에 가입해 ‘노조 파워’가 강해졌고, 파업이 잦아 ‘급식 대란’도 자주 일어난다는 것이다. 일각에선 학교 급식 시장의 경쟁 요소가 사라지며 급식의 질이 정체됐다는 분석도 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
