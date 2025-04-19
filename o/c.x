@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>여수 섬마을서 복어 먹은 60대 3명 마비 증상… “1명 의식 불명”</title>
+      <link>https://www.chosun.com/national/national_general/2025/04/19/MYSZW5RU5VALJN53QSVGSJQHZM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/19/MYSZW5RU5VALJN53QSVGSJQHZM/</guid>
+      <dc:creator>최혜승 기자 </dc:creator>
+      <description/>
+      <pubDate>Sat, 19 Apr 2025 14:07:41 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QY64ZT5ZQCCCK6QJ3B6VBCTNSQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;제주소방안전본부 119구급차량. 기사와 관련 없음./뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전남 여수 섬마을에서 복어를 잘못 먹고 마비 증세를 보인 60대 3명이 병원으로 이송됐다.&lt;br&gt;&lt;br&gt;19일 전남소방본부 등에 따르면, 이날 오후 5시 42분쯤 여수시 남면 연도리에서 60대 3명이 복어를 먹고 중독 증상을 보인다는 신고가 해경에 접수됐다. &lt;br&gt;&lt;br&gt;이 가운데 60대 남성 1명은 전신마비 증세를 보이며 의식을 잃었고, 나머지 2명은 안면부 마비 증상을 보인 것으로 알려졌다.&lt;br&gt;&lt;br&gt;신고를 받은 해경은 경비함정을 동원해 환자들을 여수 월전항으로 옮겼다. 이들은 여수 병원으로 분산 이송돼 치료를 받고 있다.&lt;br&gt;&lt;br&gt;당국은 복어 독으로 인한 사고로 추정하고 정확한 경위를 조사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>도로 중앙선 걷던 치매 노인 차에 치여 사망… 30대 운전자 무죄 이유는</title>
       <link>https://www.chosun.com/national/national_general/2025/04/19/GM3WQK56MJDNNMB4E7LOCLKPTU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/19/GM3WQK56MJDNNMB4E7LOCLKPTU/</guid>
@@ -978,15 +987,6 @@
       <description/>
       <pubDate>Thu, 17 Apr 2025 15:55:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QGPYPEG7SFBBPP6VA2Z2I6I6J4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/박성원 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;17일 서울 종로구 광화문광장 분수 터널에서 웃으며 물놀이하는 쌍둥이 자매를 어머니가 뒤따르고 있다. 이날 서울의 낮 최고기온은 24.7도(송월동 기준)로 올 들어 최고치를 기록했다. 사흘 전 ‘4월 싸락우박’이 내렸던 서울 날씨가 초여름처럼 바뀐 것이다. 18일에는 대구 29도, 포항 27도, 광주 26도 등 남부 지방을 중심으로 낮 최고기온이 더 오를 전망이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>남성 직원 출산 휴가 사용률 100%… 제조업체도 육아 문제없죠</title>
-      <link>https://www.chosun.com/culture-life/culture_general/2025/04/18/SSBFEHKURFFOVD3Y6PRJ6ZSYW4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/culture-life/culture_general/2025/04/18/SSBFEHKURFFOVD3Y6PRJ6ZSYW4/</guid>
-      <dc:creator>화성=김아사 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 17 Apr 2025 15:50:00 +0000</pubDate>
-      <content:encoded>전자 부품·필터 제조 업체 ‘시노펙스’에서 개발 업무를 하는 최형석(35)씨는 매일 아침 아이의 어린이집 등원을 맡고 있다. 최씨는 “유연 근무제를 활용해 평소보다 30분이나 1시간가량 늦게 출근하고 있다”며 “맞벌이를 하고 있어 아침이 가장 바쁜데, 회사 덕에 육아 난도가 줄어든 것 같다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TJK7VNV6HJBXFPPDBJJYVHK3FA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 9일 경기도 화성시 동탄산단의 전자 부품·필터 제조 업체 시노펙스 방교 사업장에 근무하는 직원들이 한데 모여 자녀를 안고 있다. 이 회사는 육아기 단축 근로, 유연 근무, 재택근무 등 다양한 출산·육아 제도를 갖췄다. /박성원 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;시노펙스는 제조업이라는 근무 특성상 남성 직원이 더 많은 회사다. 지난해 말 기준 직원 172명 중 140명(81%)이 남성이다. 제조 업체 가운데는 출산이나 육아 관련 제도를 제대로 갖추지 못했거나 제도가 있더라도 허울뿐인 곳이 많다. 특히 대기업이 아닌 중소·중견 기업 중엔 아직도 육아나 출산이 일에 방해된다고 인식하는 곳도 있다는 게 업계 관계자들 얘기다.&lt;br&gt;&lt;br&gt;중견기업인 시노펙스가 저출산 문제에 공감하고 관련 제도를 정비하기 시작한 건 2017년부터다. 처음엔 작은 변화로 출발했다. 임신한 이들에게 별도의 주차 공간을 마련해 주고, 출산 축하금 등을 전달하는 것이었다. 시노펙스 관계자는 “직원들이 육아나 출산으로 어려움을 겪을수록 업무 효율도 떨어진다는 생각을 했다”고 말했다. &lt;br&gt;&lt;br&gt;이후 회사는 기본적인 출산휴가와 육아휴직뿐 아니라, 육아기 근로시간 단축, 육아기 재택근무, 유연 근무제 등 출산·육아와 관련해 이용할 수 있는 제도를 갖췄다. 결혼기념일에도 휴가를 부여했다. 대체 인력을 갖추는 데 한계가 있는 중소, 중견기업에선 흔치 않은 일이었다. 최씨는 “회사에 육아휴직 얘기를 했더니 곧바로 대체 인력을 뽑아줬다”며 “회사엔 육아 때문에 이직했다는 동료들도 있다”고 했다. 실제 비슷한 규모의 제조 업체 사이에서도 시노펙스는 출산·육아하기 좋은 기업으로 소문이 났다고 한다. 작년엔 저출산고령사회위원회로부터 일·가정 양립 우수 기업으로 선정됐다.&lt;br&gt;&lt;br&gt;시노펙스가 제도를 갖추는 것만큼 중점을 둔 건 제도의 실제 사용이다. 누구도 눈치 보지 않고 제도를 제대로 이용하는 분위기를 만들자는 것이었다. 지난 2017년 전 직원의 직급을 ‘프로’로 통일한 것도 이런 이유가 작용했다. 하급자가 육아기 재택근무 등을 신청하고 상급자가 결제해주는 구조가 아니라, 수평적 관계에서 자유롭게 제도를 사용하자는 취지였다. 직원들은 “아무리 좋은 혜택이 있더라도 실제로 쓸 수 있는 분위기 조성이 돼 있지 않으면 그림의 떡”이라며 “제도를 편하게 이용할 수 있어 좋다”고 입을 모았다. 6년째 회사에 근무 중인 오수정(35)씨는 “첫아이를 낳고 육아휴직을 사용하고 복귀했다가 둘째가 생겨 다시 쉬게 됐지만, 누구도 눈치를 주지 않고 축하해 줬다”고 했다. 실제 시노펙스는 여성 육아휴직 사용률과 복귀율, 남성 배우자 출산휴가 사용률이 모두 100%인 회사다. &lt;br&gt;&lt;br&gt;시노펙스가 육아와 출산을 적극적으로 장려하는 건, 경력 단절이 회사에 큰 손해라고 판단하기 때문이다. 출산이나 아이의 양육 문제로 퇴사자가 발생하면 새 인원을 뽑아야 하는데, 이들을 교육하고 경력을 쌓는 데 시간과 비용이 더 소모된다는 것이다. 실제 이 회사에서 가장 먼저 여성 육아휴직을 사용한 직원은 경력 단절 없이 지난 2022년 임원으로 승진하기도 했다. &lt;br&gt;&lt;br&gt;시노펙스는 출산·육아 휴직을 택한 직원이 공백 없이 업무에 복귀하도록 1~2개월 전부터 휴직자와 접촉해 면담도 갖는다. 이전에 하던 일을 할 수도 있고, 다른 직무나 팀으로 이동하는 것도 가능하다. 서아람(42)씨의 경우, 개발실 소속이었지만 육아휴직 후 지원팀으로 업무를 바꿨다. 서씨는 “회사 복귀를 앞두고 긴장되는 마음도 있었지만, 동료들과 어떤 업무를 맡게 될지 이야기하니 복귀가 한결 수월했다”고 했다. &lt;br&gt;&lt;br&gt;서씨는 복귀 후에도 유연 근무제, 재택근무, 30분 단위로 사용할 수 있는 휴가 시스템 등을 적극 활용하고 있다고 한다. 그는 “어린 아이를 육아할 땐, 아이가 아픈 일이 많아 잠깐이라도 시간을 내는 게 너무 중요하다”며 “30분 단위로 연차 사용이 가능한 것을 비롯해 육아에 큰 도움이 되는 제도가 많다”고 했다. 회계팀에서 일하고 있는 오수정씨는 “육아기 단축 근무 제도 같은 건 법으로 쓰게끔 돼 있지만, 실제로 주변 지인이나 친구 중엔 사용한 경우를 보지 못했다”며 “첫째 때 1년을 사용했고, 남편이 육아휴직을 마치면 조만간 또 활용할 예정이라 주변에서 부러워한다”고 했다.&lt;br&gt;&lt;br&gt;사측은 이런 제도 활용으로 업무 효율과 일의 집중도가 크게 올랐다고 평가하고 있다. 주 40시간 근무를 채우면, 오전 10시~오후 3시 외에는 자유롭게 퇴근할 수 있기 때문에 직원들 입장에서도 보다 능동적으로 업무를 진행할 수 있다는 것이다.&lt;br&gt;&lt;br&gt;이는 가시적 성과로도 이어지고 있다. 출산·육아 관련 제도를 정비하기 전인 2016년 회사의 매출은 1550억원, 영업이익은 107억원이었지만 지난해엔 매출 2383억, 영업이익 212억원을 기록했다. 매출은 54%, 영업이익은 98% 오른 것이다. 퇴사자 역시 계속 감소하고 있다. 지난해엔 2023년 대비 퇴사자가 22% 줄었다. 정민재 시노펙스 경영지원본부장은 “출산과 육아에 대한 관심과 지원이 회사의 성장에도 크게 기여한 것으로 판단하고 있다”며 “직원들과의 소통을 통해 이런 문화를 더 정착해갈 것”이라고 했다.&lt;br&gt;&lt;br&gt;-&lt;br&gt;&lt;br&gt;중견기업연합회와 조선일보가 공동 기획합니다. 저출생 완화를 위해 일·가정 양립과 남녀 고용 평등에 앞장선 기업의 사례를 소개합니다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
