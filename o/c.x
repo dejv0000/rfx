@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>동두천 단층주택서 화재...빠져나오지 못한 10대 1명 사망 </title>
+      <link>https://www.chosun.com/national/incident/2025/04/19/JA2QZRQUORECTGNWKXHOOPBEUU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/04/19/JA2QZRQUORECTGNWKXHOOPBEUU/</guid>
+      <dc:creator>우정식 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 19 Apr 2025 04:27:45 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OQZUM5VSMNHJLBL7HBJ2FRWSAE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 18일 오후 불이 난 동두천 단층 주택 화재 현장 모습. /경기도북부소방재난본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 동두천시의 한 단층 주택에서 불이 나 10대 1명이 집 밖으로 미처 빠져나오지 못하고 숨졌다.&lt;br&gt;&lt;br&gt;19일 경찰과 소방 당국에 따르면 전날 오후 8시 20분쯤 경기 동두천시 생연동의 한 단층 주택에서 불이 났다. 화재 당시 10대인 A양은 자신의 방에 있었고, A양의 큰아버지인 60대 B씨는 다른 방에서 잠들어 있었던 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰은 주택 입구 쪽에서 ‘펑’ 하는 소리와 함께 불이 시작되자, A양이 급히 119에 신고한 뒤 B씨를 깨운 것으로 보고 있다.&lt;br&gt;&lt;br&gt;B씨는 불을 끄려고 애를 썼지만, 불이 순식간에 번지면서 결국 화상을 입고 집 밖으로 급히 피신했다.&lt;br&gt;&lt;br&gt;불길이 순식간에 집 안을 뒤덮자, A양은 밖으로 빠져나오지 못한 채 안쪽 뒷방으로 몸을 피한 것으로 전해졌다. 불이 걷잡을 수 없이 번지고 천장 일부가 무너지면서 A양은 하체가 깔려 빠져나오지 못한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;해당 주택에서는 A양과 B씨를 포함해 3대 가족 7명이 오랫동안 함께 살아왔다고 한다. 조부모가 세상을 떠난 이후는 A양과 A양의 부모, 큰 아버지 B씨 등 5명이 살고 있던 것으로 파악됐다.&lt;br&gt;&lt;br&gt;화재 당시 A양 부모 등 3명은 외출 중이었고, 집에는 A양과 큰아버지만 있었다고 한다.&lt;br&gt;&lt;br&gt;소방 당국은 장비 34대와 인력 123명을 동원해 약 1시간 35분 만에 불을 껐다. &lt;br&gt;&lt;br&gt;경찰과 소방 당국은 주택 입구 쪽에서 불이 시작된 것으로 추정하고 정확한 화재 원인과 피해 규모 등을 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>이상민 前 장관 밤샘 조사 후 귀가…단전·단수 의혹</title>
       <link>https://www.chosun.com/national/national_general/2025/04/19/AN4IIXOTJ5HZNB2N7KIXL56K4Q/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/19/AN4IIXOTJ5HZNB2N7KIXL56K4Q/</guid>
@@ -969,15 +978,6 @@
       <description/>
       <pubDate>Thu, 17 Apr 2025 15:50:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7BTKOFTE25BE3JASTIZEFROY2M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>휴가 중 성폭행하려던 군인, 범행 후 母에게 “심신미약 주장하면 돼”</title>
-      <link>https://www.chosun.com/national/national_general/2025/04/18/ZJ2TZYU4L5H5PNURYXAXCQXGSY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/18/ZJ2TZYU4L5H5PNURYXAXCQXGSY/</guid>
-      <dc:creator>문지연 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 17 Apr 2025 15:32:48 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JHWE22LGVBCVHJU35XWRGTUTZU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 중앙지방법원 로비에 법원 마크가 밝게 빛나고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;휴가 중 상가 화장실에서 일면식 없는 여성을 성폭행하려던 20대 현역 군인이 범행 직후 가족과의 대화에서 ‘심신미약을 주장하면 된다’고 말했다는 법정 진술이 나왔다.&lt;br&gt;&lt;br&gt;대전지법 형사11부(재판장 박우근)는 17일 성폭력 범죄의 처벌 등에 관한 특례법 위반(강간 등 살인) 및 특수방실침입 등 혐의로 기소된 A씨에 대한 2차 공판을 열었다. 이날 재판에서는 사건 직후 A씨와 함께 병원에 동행했던 경찰관 B씨의 증인 신문 절차가 진행됐다.&lt;br&gt;&lt;br&gt;B씨는 “당시 A씨가 극단적 선택을 시도하는 등 도주·자해 방지를 위해 병원에 동행했다. 봉합 수술이 끝난 뒤 A씨는 부친을 병실 밖으로 나가라고 한 뒤 모친과 대화했다”며 “첫마디가 ‘외삼촌과 외할아버지 돈도 많은데 도와줄 사람 없냐’ ‘심신 미약을 주장하면 된다’는 취지의 말이었다”고 했다.&lt;br&gt;&lt;br&gt;이어 “모친이 ‘심신미약 판정을 받은 것이 있었냐’고 묻자 A씨는 ‘군대에서 그린캠프를 다녀왔다’고 대답했다”며 “병실 내부에서 A씨와 모친이 대화하는 걸 직접 들었고 이를 수사보고서로 작성했다”고 말했다.&lt;br&gt;&lt;br&gt;이에 A씨 측 변호인은 “A씨는 정신적 혼란 상태였고 경찰이 개인적 판단으로 사적 대화를 보고서로 작성한 것이 적절한지 의문”이라고 반박했다. 또 A씨가 장기간 은둔 생활을 하던 중 범죄 관련 영화를 다수 접한 영향으로 ‘심신미약’이라는 용어를 사용했을 가능성이 있다며, 정확한 판단을 위해 정신감정이 필요하다고 주장했다.&lt;br&gt;&lt;br&gt;검찰은 A씨의 정신감정이 불필요하다고 밝혔으나 재판부는 A씨 측 요청을 받아들였다. 재판부는 다음 공판에 A씨에 대한 정신감정 결과를 바탕으로 피고인 신문을 진행할 방침이다. 피해자인 20대 여성 C씨를 상대로 한 진술 절차도 함께 한다.&lt;br&gt;&lt;br&gt;앞서 A씨는 지난 1월 8일 오후 3시 30분쯤 대전 중구의 한 상가 여자 화장실에서 C씨를 흉기로 위협해 성폭행을 시도하고, 이 과정에서 흉기를 휘둘러 상해를 입힌 혐의를 받는다. 당시 A씨는 피를 흘린 채 살려달라고 말하는 C씨를 위협하며 “마지막으로 성관계를 해달라”고 요구한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;C씨는 사건 직후 응급 수술을 받았으며 현재는 생명에 지장이 없는 상태다. A씨는 범행 후 인근 아파트 옥상에서 극단적 선택을 시도했으나 경찰에 의해 긴급 체포됐다. 조사 결과 휴가를 나왔던 A씨는 C씨와 일면식 없는 사이였고, 화장실에 들어가던 C씨를 따라가 범행한 것으로 파악됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>“강제 철거 반대” 미아리 텍사스 여성들 구청 앞에서 집회 </title>
