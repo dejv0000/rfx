@@ -6,6 +6,15 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>(이번주 법조계 주요일정) 4월 21일~25일</title>
+			<description>&lt;b&gt;△21일(월)&lt;/b&gt;&lt;br /&gt;-서울중앙지법, '특정범죄가중처벌등에관한법률위반(뇌물) 등 혐의' 유동규 외 4명 178차 공판(오전 10시)&lt;br /&gt;-서울중앙지법, '내란우두머리 혐의' 윤석열 전 대통령 2차 공판(오전 10시)&lt;br /&gt;-서울중앙지법, '산업기술의유출방지및보호에관한법률위반 등 혐의' 최진석 전 삼성전자 상무 외 2명 8차 공판(오후 2시)&lt;br /&gt;-대한변호사협회, 제29회 우수변호사상 시상식(오후 4시, 서초동 대한변협회관 지하 1층 대회의실)&lt;br /&gt;&lt;b&gt;&lt;br /&gt;△22일(화)&lt;/b&gt;&lt;br /&gt;-서울중앙지법, '부정경쟁방지및영업비밀보호에관한법률위반(영업비밀국외누설등) 등 혐의' 이동호 외 5명 24차 공판(오전 10시)&lt;br /&gt;-서울중앙지법, '특정범죄가중처벌등에관한법률위반(뇌물) 등 혐의' 이재명 더불어민주당 대표 외 1명 75차 공판(오전 10시30분)&lt;br /&gt;-서울남부지법, '사기 혐의' 이은애 전 국회의원 선고(오후 2시)&lt;br /&gt;-서울중앙지법, '특정경제범죄가중처벌등에관한법률위반(배임) 등 혐의' 구영배 큐텐 대표 외 9명 2차 공판(오후 2시)&lt;br /&gt;-법무법인 태평양, 통상전략혁신 허브 출범 기념 '트럼프 2기 100일: 평가와 전망' 컨퍼런스 (오후 2시 30분 종로구 공평동 센트로폴리스빌딩 25층 세미나실)&lt;br /&gt;­-서울지방변호사회, 사내변호사 멘토링 프로그램 (오후 7시, 서초동 변호사회관 지하 1층 회의실)&lt;br /&gt;&lt;b&gt;&lt;br /&gt;△23일(수)&lt;/b&gt;&lt;br /&gt;-서울중앙지법, '노동조합및노동관계조정법위반 등 혐의' 허영인 SPC그룹 회장 외 18명 42차 공판(오전 9시40분)&lt;br /&gt;-법무법인 지평·한국스포츠과학원·한국스포츠엔터테인먼트법학회, 제34차 스포츠정책포럼 (오후 2시, 송파구 방이동 서울올림픽파크텔 올림피아홀)&lt;br /&gt;-한국지식재산협회, '상표관련 최신 판례 연구' 상표디자인저작권분과 세미나 (오후 2시 30분, 대치동 바른빌딩 15층 대강당)&lt;br /&gt;-서울고법, '특정범죄가중처벌등에관한법률위반(뇌물) 등 혐의' 송영길 소나무당 대표 공판(오후 3시30분)&lt;br /&gt;&lt;b&gt;&lt;br /&gt;△24일(목)&lt;/b&gt;&lt;br /&gt;-대법원 1부 선고(오전 10시)&lt;br /&gt;-서울남부지법, '자본시장과금융투자업에관한법률위반 등 혐의' 장현국 전 위메이드 대표 공판(오전 10시)&lt;br /&gt;-서울남부지법, '자본시장과금융투자업에관한법률위반 등 혐의' 신현성 전 차이코퍼레이션 총괄대표 외 8명 공판(오전 10시)&lt;br /&gt;-서울중앙지법, '내란중요임무종사 등 혐의' 김용현 전 국방부장관 외 2명 5차 공판(오전 10시)&lt;br /&gt;-대법원 3부 선고(오전 11시)&lt;br /&gt;-서울남부지법, 특정경제범죄가중처벌등에관한법률위반(배임) 등 혐의' 김우동 조광ILI 대표 공판(오후 2시)&lt;br /&gt;-서울고법, '직권남용권리행사방해 등 혐의' 임종헌 전 법원행정처 차장 공판(오후 2시)&lt;br /&gt;-법무법인 율촌·안전신문, '중대시민재해 사례와 대비 방안' 세미나(오후 2시, 삼성동 법무법인 율촌 39층 Lecture Hall)&lt;br /&gt;&lt;b&gt;&lt;br /&gt;△ 25일(금)&lt;/b&gt;&lt;br /&gt;-법무부, 제62회 법의 날 행사(오전 10시, 정부과천청사 3동 지하 대회의실)&lt;br /&gt;-서울중앙지법, '특정범죄가중처벌등에관한법률위반(뇌물) 등 혐의' 유동규 외 4명 179차 공판(오전 10시)&lt;br /&gt;-서울중앙지법, '직권남용권리행사방해 등 혐의' 서훈 외 4명 50차 공판(오전 10시)&lt;br /&gt;-한국법제연구원, 제1차 글로벌경쟁력포럼 '현행 농산물 도매시장 제도의 현황과 문제점'(오후 12시, 서울 중구 북창동 스프라지르 명동 회의실)&lt;br /&gt;­-법무법인 광장, '동아프리카 지역의 강제실향 상황과 대응' 강연 (유엔난민기구 동아프리카 본부장) (오후 12시 서울 중구 소공동 신관 1층 아카데미아실)&lt;br /&gt;-서울남부지법, '특정경제범죄가중처벌등에관한법률위반(배임) 등 혐의' 김성수 카카오엔터 대표 공판(오후 2시)</description>
+			<pubDate>Sat, 19 Apr 2025 22:06:16 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/207352</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/207352</guid>
+			<dc:creator>인터넷 기자</dc:creator>
+		</item>
+		<item>
 			<title>【오늘의 국회일정】 2025년 4월 19일</title>
 			<description>&lt;b&gt;◇국회의장&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;08:30 제65주년 4.19 기념 민주묘지 참배(국립 4.19민주묘지)&lt;br /&gt;&lt;b&gt;&lt;br /&gt;◇의원실 세미나&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;10:30 김준형 의원실 등, 국제질서 대격변과 대한민국의 선택(의원회관 제3세미나실)&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;b&gt;&lt;span style="font-size: 14px;"&gt;※ 상기 일정은 사정에 따라 변경될 수 있습니다.&lt;/span&gt;&lt;/b&gt;</description>
 			<pubDate>Fri, 18 Apr 2025 22:38:07 -0000</pubDate>
@@ -232,16 +241,6 @@
 			<link>https://www.lawtimes.co.kr/news/207345</link>
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/207345</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/207345.jpg</media:thumbnail>
-			<dc:creator>서하연 기자</dc:creator>
-		</item>
-		<item>
-			<title>대한법무사협회, 산불피해 복구위한 성금 3천만 원 기탁</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/207348.jpg" alt="2545346.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;이강천 대한법무사협회 협회장, 황인식 사회복지공동모금회 사무총장&lt;/figcaption&gt;   &lt;/figure&gt;&lt;/div&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;대한법무사협회(협회장 이강천)는 4월 18일 오후 3시 서울 중구 정동 사회복지공동모금회 중앙회를 방문해 산불 피해 복구를 위한 성금 3000만 원을 전달했다.&lt;br /&gt;&lt;br /&gt;이번 성금은 최근 경남 산청과 경북 의성 등에서 발생한 산불로 피해를 입은 이재민들을 돕기 위해 마련됐다.&lt;br /&gt;&lt;br /&gt;이번 모금에는 서울중앙회, 경기중앙회, 강원회, 대전세종충남회 등 전국 11개 지방회가 자발적으로 참여했다. 이재민 발생 지역과 인접한 대구경북회, 경남회 등의 지방회들은 각 피해 지역 관청을 직접 방문해 기부할 예정이다.&lt;br /&gt;&lt;br /&gt;전달식에는 이강천 협회장을 비롯해 김정실 전문위원, 류선재 서울중앙지방법무사회장, 강채원 서울서부지방법무사회장과 황인식 사회복지공동모금회 사무총장이 참석했다.&lt;br /&gt;&lt;br /&gt;이강천 협회장은 “법무사는 국민과 함께하는 생활법률전문가로서 단순한 법률서비스를 넘어 국민의 어려움에 공감하고 행동해야 한다”며 “작은 정성이지만 피해 주민들의 일상 회복에 도움이 되기를 바란다”고 말했다.</description>
-			<pubDate>Fri, 18 Apr 2025 09:17:53 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/207348</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/207348</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/207348.jpg</media:thumbnail>
 			<dc:creator>서하연 기자</dc:creator>
 		</item>
 	</channel>
