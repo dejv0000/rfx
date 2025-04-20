@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>모텔서 난동 부리고 “빵 가도 상관없어” 경찰 때린 60대… 결국 징역형</title>
+      <link>https://www.chosun.com/national/national_general/2025/04/20/NHJ6SUKRJRHMFNXONCWKV43XPI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/20/NHJ6SUKRJRHMFNXONCWKV43XPI/</guid>
+      <dc:creator>박선민 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 20 Apr 2025 11:30:38 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XZNY52NO3NDIVLTLHJKCRAEY4Y.png"&gt;&lt;figcaption&gt;&lt;small&gt;/일러스트=조선디자인랩 정다운&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;만취 상태로 모텔 영업을 방해하고, “빵(교도소)에 들어가도 상관없다”며 경찰관을 폭행한 60대가 실형을 선고받았다. &lt;br&gt;&lt;br&gt;춘천지법 형사3단독 박동욱 판사는 업무방해와 공무집행방해 혐의로 기소된 A(61)씨에게 징역 8개월을 선고했다고 20일 밝혔다. &lt;br&gt;&lt;br&gt;A씨는 지난 2월 10일 춘천시 한 모텔 로비에서 만취 상태로 욕설과 함께 고성을 지르며 30분간 영업을 방해한 혐의로 재판에 넘겨졌다. 이뿐만 아니라 A씨는 파출소에서 경찰관을 향해 “나는 오늘 빵에 들어가도 상관없다”며 욕설을 퍼붓고 때린 혐의도 받는다. &lt;br&gt;&lt;br&gt;조사 결과 A씨는 과거에도 실형을 선고받고 복역한 전력이 있는 것으로 드러났다. 그는 2022년 1월 보복 협박죄 등으로 징역 8개월을, 같은 해 10월 특수상해죄 등으로 징역 1년 6개월을 복역했다. &lt;br&gt;&lt;br&gt;재판부는 “폭력 범죄와 다른 범죄로 여러 차례 처벌받은 전력이 있는 점, 누범 기간 중 재차 범행한 점 등을 종합해 형을 정했다”고 판시했다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>검찰, ‘김치·와인 강매 의혹’ 이호진 전 태광그룹 회장 재차 무혐의</title>
       <link>https://www.chosun.com/national/court_law/2025/04/20/K7R44J5QI5BLVB3JUM7D3CCFXE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/04/20/K7R44J5QI5BLVB3JUM7D3CCFXE/</guid>
@@ -973,15 +982,6 @@
       <description/>
       <pubDate>Fri, 18 Apr 2025 06:32:32 +0000</pubDate>
       <content:encoded>서울대 여성 동문들의 사진을 합성해 음란물을 만들어 텔레그램으로 유포한 이른바 ‘서울대 딥페이크’ 사건의 주범이 항소심에서 감형받았다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MR4E56ZFANCE5PVDYC2MX6JAZE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=백형선&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울고법 형사8부(재판장 김성수)는 18일 아동·청소년의 성보호에 관한 법률 위반(성착취물 제작·배포) 등 혐의로 기소된 주범 박모씨에게 징역 10년을 선고한 1심 판결을 깨고 징역 9년을 선고했다. &lt;br&gt;&lt;br&gt;1심에서 징역 4년을 선고받았던 공범 강모씨도 징역 3년 6개월로 감형됐다. 재판부는 두 사람에게 성폭력 치료 프로그램 80시간 이수와 아동·청소년 관련 기관 취업 제한 5년을 명령했다.&lt;br&gt;&lt;br&gt;재판부는 “피고인들은 지인과 주변 사람들의 사진을 이용해 성적 모멸감을 들게 하는 사진과 영상을 만들었다는 점에서 죄질이 불량하다”며 “특히 박씨는 이를 피해자들에게 보내 농락했다는 점에서 비난 가능성이 크다”고 질타했다. 다만 피고인들이 일부 피해자들과 합의한 점, 박씨가 2심에서 범행을 모두 인정한 점을 참작해 감형했다고 밝혔다.&lt;br&gt;&lt;br&gt;진녹색 수의를 입은 두 사람은 피고인석에서 일어나 고개를 숙이고 있었다. 박씨는 선고를 듣는 내내 몸을 부들부들 떨며 눈물을 흘렸다. 특히 재판부가 “피해자들과 합의한 점을 참작했다”고 하자 박씨는 입을 막고 울음을 삼켰다. &lt;br&gt;&lt;br&gt;재판부가 “주문, 원심을 파기한다”며 감형을 선고하자, 방청석에서는 “말도 안 된다” “정말인 거냐”는 탄식이 새어 나왔다.&lt;br&gt;&lt;br&gt;박씨와 강씨는 2020년 7월부터 작년 2월까지 서울대 동문 12명을 포함해 여성 61명의 얼굴 사진을 합성해 음란물 2034개를 만들고 이를 텔레그램 대화방 등을 통해 유포한 혐의로 기소됐다. 동문들 사진은 졸업 앨범이나 소셜미디어 등에서 구했다고 한다.&lt;br&gt;&lt;br&gt;특히 박씨는 텔레그램 채널과 단체 채팅방 200여 개를 만들고, 비슷한 성적 취향을 가진 사람들을 찾아 채팅방 링크를 전해주며 음란물을 공유·유포했다. 또 허위 영상물을 얼굴 사진의 주인공인 피해자에게 46차례 직접 전송하고, 강씨에게 사진을 보내 음란물을 만들도록 했다.&lt;br&gt;&lt;br&gt;이들은 모두 서울대 출신이지만, 재학 중 알게 된 사이는 아니라고 한다. 두 사람은 ‘서울대생’ ‘능욕’ 등 제목의 텔레그램 대화방에서 만난 사이로 알려졌다.&lt;br&gt;&lt;br&gt;박씨는 서울대 인문대를 졸업한 뒤 외무고시 등에 도전했지만 연거푸 낙방해 학부만 10년 다녔고, 강씨는 서울대 사회대를 졸업해 서울대 로스쿨에 진학했지만 변호사 시험에 떨어진 상태였다.&lt;br&gt;&lt;br&gt;앞서 1심은 “국내 최고 지성이 모인 대학에서 동문 피해자들을 상대로 소위 ‘지인 능욕’ 성범죄를 저질렀다”며 “음란물을 두고 두 사람이 나눈 대화를 보면 극히 혐오스럽고 저질스럽다”며 박씨에게 징역 10년, 강씨에게 징역 4년을 선고했다. &lt;br&gt;&lt;br&gt;선고 이후 피해자 측 김민아 변호사는 “피고인들의 진지한 사과나 반성은 없었지만 일부 피해자들의 합의가 양형에 반영된 것 같다”며 “딥페이크 성범죄는 여성을 성적 대상화하는 것이다. 이 사건을 범죄로 인정해 사회적인 경종을 울리는 계기가 됐다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>밀양 성폭행 가해자 신상 무단 공개 유튜버 ‘집행인’ 징역 3년 </title>
-      <link>https://www.chosun.com/national/2025/04/18/L6RHI23YMZFA7E2TRWD7EZQ2CY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2025/04/18/L6RHI23YMZFA7E2TRWD7EZQ2CY/</guid>
-      <dc:creator>창원=김준호 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 18 Apr 2025 06:25:29 +0000</pubDate>
-      <content:encoded>20여 년 전 경남 밀양에서 발생한 여중생 집단 성폭행 사건의 가해자 신상을 무단으로 공개한 혐의를 받는 유튜버 ‘집행인’이 실형을 선고받았다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4S25RT5MIJF4TO7MR4NACWCHLY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;밀양 여중생 집단 성폭행 사건 가해자들의 신상을 폭로한 유튜브 채널 '집행인' 영상. /유튜브 캡처&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;창원지법 형사6단독 우상범 부장판사는 18일 정보통신망 이용 촉진에 관한 법률 위반(명예훼손), 업무방해 등의 혐의로 기소된 유튜브 채널 ‘집행인’의 운영자 A(20대)씨에게 징역 3년을 선고하고, 566만원 추징을 명령했다. 또 함께 기소된 해당 유튜브 채널 영상 제작자에게는 징역 2년 6개월을 선고했다.&lt;br&gt;&lt;br&gt;A씨 등은 지난해 6월부터 8월까지 자신의 유튜브 채널에 밀양 성폭행 사건 가해자들 신상이 담긴 영상을 무단으로 게재한 혐의로 기소됐다. &lt;br&gt;&lt;br&gt;또 밀양 성폭행 사건 가해자로 지목된 사람의 가족이 운영하는 식당을 그대로 공개해 영업을 방해한 혐의도 받는다.&lt;br&gt;&lt;br&gt;경찰 조사 결과 A씨 등은 밀양 여중생 성폭행 사건에 대한 대중의 관심도가 높아지자, 사실이 확인되지 않은 제보나 인터넷 검색을 통해 얻은 자료를 수집해 영상을 제작했다.&lt;br&gt;&lt;br&gt;이 과정에서 실제 사건과 관련 없는 사람들의 신상을 공개하는 등 피해를 줬다. 피해자는 20여 명 정도로 알려졌다.&lt;br&gt;&lt;br&gt;우 부장판사는 “유튜브나 SNS를 통해 가짜 정보를 관망하는 현상을 이제는 우리 사회가 용인할 수 없는 지경에 이르렀다”며 “이를 엄벌해 최소한의 신뢰성을 확보할 필요가 있다”고 했다. &lt;br&gt;&lt;br&gt;한편, 밀양 성폭행 사건과 관련해 가해자 신상을 공개한 유튜버들은 대부분 검찰 조사를 받고 있거나 재판에 넘겨진 상태다. A씨와 마찬가지로 밀양 성폭행 사건 가해자 신상을 공개한 유튜버 채널 ‘전투토끼’ 운영자 B(30대)씨에 대한 선고는 내달 23일 창원지법에서 열린다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WH7AYXDK7JGHTAYPKSG3MG2LEU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=김성규&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰은 지난 2월 결심 공판에서 B씨에게 징역 5년을 구형했다. 또 공무원으로 근무하면서 남편인 B씨에게 개인 정보를 무단으로 조회하고 이를 넘긴 아내에게는 징역 3년이 구형됐다. 또 밀양 성폭행 사건의 가해자 신상을 가장 먼저 공개한 유튜버 채널 ‘나락보관소’ 운영자 C(30대)씨는 현재 서울남부지검에서 수사를 받고 있다. &lt;br&gt;&lt;br&gt;이들은 이슈를 끌기 위해 확인되지 않은 사실 등을 퍼트리는 소위 ‘사이버 레커’로 불린다. 사이버 레커는 온라인에서 특정 이슈에 대해 자극적이거나, 부적절한 콘텐츠를 제작하고 빠르게 퍼뜨리는 이들을 말한다. 제대로 된 사실 검증 없이, 짜깁기 영상으로 마치 ‘레커(견인차)’처럼 조회 수를 끌어들인다는 의미에서 붙여진 이름이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
