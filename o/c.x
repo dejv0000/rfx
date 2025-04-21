@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>불 꺼줬더니 “소화기값 물어내라”…식당 주인의 황당 요구</title>
+      <link>https://www.chosun.com/national/national_general/2025/04/22/ECBBKWYAMZCGTBMPZRY4V4TYRQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/22/ECBBKWYAMZCGTBMPZRY4V4TYRQ/</guid>
+      <dc:creator>김자아 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 21 Apr 2025 22:21:40 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZFKO3P2IY5VF3SX5IGWEKDNADU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;소화기./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;식당에 비치된 소화기로 상가 건물 앞에 붙은 불을 끈 행인이 식당 주인에게 ‘소화기 값을 물어내라’는 요구를 받은 사연이 전해졌다.&lt;br&gt;&lt;br&gt;현직 소방관이자 작가로 활동하는 백경(필명)은 지난 19일 자신의 엑스(X·옛 트위터)에 최근 소방서에 걸려 온 전화 한 통을 소개했다.&lt;br&gt;&lt;br&gt;게시글에 따르면 소방서에 전화를 한 사람은 한 상가 앞에 난 불을 끈 행인 A씨였다. A씨는 쓰레기가 쌓여 있는 전봇대 주변에 누군가 담배꽁초를 던져 불이 나기 시작하는 것을 발견하고 건물 1층 식당에 비치된 소화기로 불을 껐다. A씨의 신속한 대처로 불은 소방차가 현장에 도착하기 전에 잡혔다.&lt;br&gt;&lt;br&gt;그런 A씨에게 돌아온 것은 감사 인사가 아닌 ‘소화기 값’ 청구서였다. A씨는 소방서에 소화기 값을 물어내야 하는지 물어보기 위해 전화를 건 것이다.&lt;br&gt;&lt;br&gt;당시 A씨는 “진짜 물어내 줘야 하는 거냐” “소화기는 어디서 사야 하는 거냐”고 물었다고 한다. 이에 백경은 “저도 이런 경우가 처음”이라며 “인터넷에 ABC 소화기 검색하면 나오긴 한다”고 안내했다고 한다. 비상용으로 구비하는 ABC 분말 소화기는 인터넷에서 2만원 안팎에 살 수 있었다.&lt;br&gt;&lt;br&gt;백경은 “바람이 불어서 불이 상가 건물로 옮겨붙을 수 있는 상황이었는데 식당 사장님은 쓸모를 다한 소화기가 못내 아쉬웠던 모양이다”라며 “선의를 베푼 이에게 돌아간 건 감사 인사가 아닌 영수증이었다”고 했다.&lt;br&gt;&lt;br&gt;A씨는 “다시는 나서지 말아야겠다”고 말했다고 한다. 백경은 “세상은 그렇게 또 의인을 한 명 잃었다”고 안타까워했다.&lt;br&gt;&lt;br&gt;네티즌들은 “물에 빠진 사람 구했더니 보따리 내놓으라는 게 이런 거구나” “음식을 대접해도 시원찮을 판에 영수증이라니 할 말이 없다”라는 등 반응을 보였다.&lt;br&gt;&lt;br&gt;미국 퍼듀대 약학대학 박치욱 교수도 이 글을 인용해 “불 꺼준 사람에게 소화기 값을 내라고 하다니 어느 식당인지 알려달라. 자신의 이기적인 행동이 사회에 얼마나 해로운 영향을 끼치는지 알게 해줘야 한다”고 했다.&lt;br&gt;&lt;br&gt;그러면서 “이런 어이없는 요구하는 사람에게 절대 돈 주지 마라. 정 받고 싶으면 민사소송 걸라고 하고, 이런 거로 소송 걸었다가는 사회에서 매장될 거라 절대 소송 못 걸 것”이라며 “식당 주인이 기어코 소화기 값을 받아야겠다면 건물주가 내야 한다. 덕분에 건물이 불에 타지 않았으니까. 왜 선한 일을 한 사람이 그 비용을 감당해야 하느냐”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>美 스탠퍼드대, 내달 한국서 ‘나이트-헤네시 장학생’ 설명회</title>
       <link>https://www.chosun.com/national/people/2025/04/22/CKTLV56KFBEQHISHMP56KRMPF4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/people/2025/04/22/CKTLV56KFBEQHISHMP56KRMPF4/</guid>
@@ -708,15 +717,6 @@
       <media:content url="https://www.chosun.com/resizer/v2/IY4Q2BKK7JG6TOZXOGTCB5D2IQ.gif?width=1036&amp;height=583&amp;auth=40002574ec3953dfd0d8388b1e26a51a1c8638fbe8b5cb8922e53061fae062f1&amp;smart=true" type="image/jpeg" height="583" width="1036">
         <media:description type="plain">봉천동 아파트-GIF2</media:description>
       </media:content>
-    </item>
-    <item>
-      <title>스티로폼 컵라면 용기서 미세 플라스틱 검출…생수병서도 나와</title>
-      <link>https://www.chosun.com/national/transport-environment/2025/04/21/STF344DT5VH5XOIQL7S45LOAP4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/04/21/STF344DT5VH5XOIQL7S45LOAP4/</guid>
-      <dc:creator>박상현 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 21 Apr 2025 02:17:59 +0000</pubDate>
-      <content:encoded>뜨거운 물을 부은 스티로폼 재질의 컵라면 용기에서 다량의 미세 플라스틱이 검출된 것으로 나타났다. 국내 식품 용기에 대한 안정성 기준에는 아직 미세 플라스틱이 포함돼 있지 않다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JE7MR5JIIUBJFNPRFUBZ4WIOJE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;잘게 쪼개져 바다로 들어간 미세 플라스틱. /조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;21일 국민의힘 임이자 의원실에 따르면, 최근 국가공인시험·검사 연구기관인 KOTITI시험연구원이 시중에 유통되는 A 사의 스티로폼 재질 컵라면 용기를 대상으로 검출 실험을 한 결과 5㎛(마이크로미터·1m의 100만 분의 1) 크기의 폴리에틸렌(PE) 12개, 폴리스타이렌(PS) 2개, 폴리에틸렌 테레프탈레이트(PET) 3개 등 총 17개의 미세 플라스틱이 나온 것으로 조사됐다.&lt;br&gt;&lt;br&gt;해당 실험은 내용물을 빼낸 컵라면 용기에 섭씨 100도의 물을 부은 후 30분 동안 방치했을 때 물속에 미세 플라스틱 조각이 떨어져나왔는지 확인하는 방식으로 진행됐다. 실험 방법은 공인 시험법인 라만 분광법과 적외선 분광분석법이 사용됐다.&lt;br&gt;&lt;br&gt;미세 플라스틱의 유해성은 아직 뚜렷하게 밝혀진 바가 없지만 작은 입자가 몸으로 들어온 후 혈액을 돌거나 장기에 붙어 문제를 일으킬 수 있다는 지적이 꾸준히 제기되고 있다. 특히 해양, 토양, 동·식물의 먹이사슬 등 생태계를 파괴하거나 인간의 몸에 축적돼 세포 손상이나 염증을 유발하고 호르몬 교란을 일으킬 수 있다는 우려가 나온다.&lt;br&gt;&lt;br&gt;먹는 물이 담긴 페트(PET)병에서도 미세 플라스틱이 검출된 사례가 있다. 지난해 국립환경과학원이 2022~2023년 시중에 판매되는 생수 제품 30개를 조사한 결과, 28개 제품에서 미세 플라스틱이 검출됐다. 500㎖ 생수병에 많게는 13개의 미세 플라스틱이 들어 있었다.&lt;br&gt;&lt;br&gt;현재 시중에 유통 중인 식품 포장 용기에는 미세 플라스틱에 대한 안전성 기준이 없다. 식약처는 “용기·포장에 대한 기준·규격은 주기적으로 재평가한다”면서 “미세 플라스틱에 대한 국민의 관심이 높아진 만큼 국내외 관련 연구 결과 등을 검토해 필요한 경우 관리 방안을 마련할 계획”이라고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/N26KSUIYSFIOPI4IJPUHAMU4LE.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;국민의힘 임이자 의원. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;임이자 의원은 “플라스틱 사용에 따른 환경과 인간에 대한 유해성 관리 영역을 보다 촘촘하게 할 필요가 있다”며 “종이·스테인리스 용기 등 미세 플라스틱 발생 가능성이 적은 대체 용기가 연구될 필요가 있다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[단독] 봉천동 방화 이면에 층간소음…방화범과 피해주민 쌍방 폭행</title>
