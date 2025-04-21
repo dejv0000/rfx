@@ -13,6 +13,24 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>해외 순방 때도 현대차 탔다...교황, 한국과 인연 재조명 </title>
+      <link>https://www.chosun.com/national/national_general/2025/04/21/43JP364VJVHAVLLI6SYFRCSBVI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/21/43JP364VJVHAVLLI6SYFRCSBVI/</guid>
+      <dc:creator>박선민 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 21 Apr 2025 11:53:48 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3NR4H4HRLVDB5HFOXPBNYBAEK4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;프란치스코 교황은 2014년 방한 당시 "작은 차를 타겠다"고 원해 '쏘울'을 이용했다. /김지호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;프란치스코 교황(88)이 21일 선종한 가운데, 과거 한국과의 각별한 인연도 재조명되고 있다. &lt;br&gt;&lt;br&gt;프란치스코 교황은 2014년 8월 아시아 국가 중에서는 처음으로 한국을 방문했다. 전 세계로 보면 브라질, 이스라엘에 이어 세 번째 방문지로 한국을 택한 것이다. 요한 바오로 2세에 이어 한국을 방문한 두 번째 교황이기도 하다. &lt;br&gt;&lt;br&gt;방한 중 프란치스코 교황은 세월호 참사 유족을 위로하고 일본군 위안부 피해자나 꽃동네 장애인 등 고통받거나 소외된 이들과 마주했다. “한반도 평화를 마음속에 깊이 간직하고 왔다”며 한반도 평화를 기원하기도 했다. &lt;br&gt;&lt;br&gt;프란치스코 교황은 방탄 리무진 의전 차량 대신 한국 브랜드 기아의 소형차 ‘쏘울’을 타고 이동하는 검소하고 소탈한 행보로도 화제를 모았다. 당시 프란치스코 교황은 신변 안전에 대한 우려에도 대중과 가까이하기 위해 가장 작은 급의 한국차를 ‘포프모빌’(교황의 차량)로 타고 싶다는 뜻을 교황방한준비위원회에 전한 것으로 알려졌다. 바티칸 교황 전용 차량에 부여되는 ‘SCV 1’ 번호판이 달린 쏘울 차량 뒷좌석에서 프란치스코 교황이 활짝 웃는 얼굴로 시민들에게 손을 흔드는 장면이 포착됐다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/X25GEHCLGRO2PBJHH7BBFN3SXY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;프란치스코 교황이 작년 9월 싱가포르 가톨릭 주니어 칼리지를 찾아 현대차의 전기차 ‘아이오닉5′를 타고 학생들의 환호에 손을 흔들며 답하고 있다. /EPA 연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;작년 9월엔 아시아·오세아니아를 순방 중인 프란치스코 교황이 싱가포르에서 현대차 전용 전기차 아이오닉5를 탄 장면이 포착돼 이목을 끌었다. 싱가포르 내 이동 수단이자 의전 차량으로 한국 브랜드의 전기차를 선택한 것이다. 교황이 흰색 아이오닉5에서 창문을 열고 싱가포르 시민을 향해 손을 흔드는 장면도 여러 차례 목격됐다.&lt;br&gt;&lt;br&gt;교황은 올해 봄 경북 지역을 중심으로 산불이 확산해 큰 피해가 발생하자 위로의 뜻을 표명하기도 했다. 교황청 국무원장 피에트로 파롤린 추기경은 지난달 28일 한국 가톨릭교회와 행정 당국에 보낸 전보에서 “(교황은) 한국 여러 지역에서 발생한 산불로 인하여 발생한 생명의 위협과 피해에 대해 깊이 우려하고 있다”고 했다. 그는 “(교황이) 희생자들의 영혼을 전능하신 하느님의 자비에 맡기시며, 사랑하는 이들을 잃은 유가족들에게 진심 어린 애도를 표했다”며 “대한민국 공동체 전체에 위로와 치유, 그리고 굳셈의 축복을 주시기를 하느님께 간구하고 계신다”고 덧붙였다.&lt;br&gt;&lt;br&gt;프란치스코 교황의 인선에서도 한국에 대한 관심을 읽을 수 있다. 한국인 추기경은 그간 총 4명이 배출됐는데, 이 가운데 절반인 2명을 프란치스코 교황이 임명했다. 염수정(82) 안드레아 추기경(2014년 서임)과 유흥식(74) 라자로 추기경(2022년 서임) 등이다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QNZIOQ5KYWEIGRPDZ7HGIJNCZQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2014년 8월 4박5일의 방한 일정을 마친 프란치스코 교황이 경기도 성남 서울공항을 통해 출국하기 전 손을 흔들어 인사하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;특히 유흥식 추기경은 프란치스코 교황과 가깝게 소통한 측근으로 꼽힌다. 2023년 9월 가톨릭 성지인 바티칸의 성 베드로 대성전에 한국 최초 사제인 성 김대건 안드레아 신부(1821∼1846)의 성상이 세워졌는데, 이는 유 추기경의 의지와 프란치스코 교황의 한국에 대한 애정이 결합한 결실로 풀이된다. 아시아 성인의 성상이 성 베드로 대성전에 설치된 건 교회 역사상 처음 있는 일이다. &lt;br&gt;&lt;br&gt;또 프란치스코 교황은 2027년 ‘세계청년대회’(WYD) 개최지를 서울로 결정, 방한을 약속한 바 있다. 세계 각지에서 수십만~수백만 명의 가톨릭 청년들이 한자리에 모이는 만큼 WYD는 가톨릭계 주요 행사 중 하나다. 천주교 서울대교구는 2027년 서울 대회에 내외국인을 합해 적게는 40만~50만명, 많게는 70만~80만명이 참가할 것으로 관측했다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>비대면 대출 받아 편취... 대법 “사람 안 속여 사기죄 아냐”</title>
+      <link>https://www.chosun.com/national/court_law/2025/04/21/C3EDLRDWWRFD5BLTDSNK2TPFYU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/04/21/C3EDLRDWWRFD5BLTDSNK2TPFYU/</guid>
+      <dc:creator>방극렬 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 21 Apr 2025 11:50:51 +0000</pubDate>
+      <content:encoded>대법원 2부(주심 권영준 대법관)가 최근 스마트폰 카드사 앱을 이용해 수천만 원을 대출받고 갚지 않은 혐의(사기)로 기소된 60대 박모씨에게 징역 8개월에 집행유예 2년을 선고한 원심 판결을 파기 환송했다고 21일 밝혔다. 형법상 사기죄는 사람을 속여야 성립하는데, 앱을 통한 비대면 전산 자동 심사 방식의 카드론 대출은 이 요건을 충족하지 못해 처벌이 어렵다는 취지다. 처벌 기준 등을 정비하지 않으면 유사 범죄가 잇따를 수 있다는 지적이 나온다.&lt;br&gt;&lt;br&gt;박씨는 2022년 6월 대출금을 갚을 의사나 능력이 없으면서 스마트폰의 카드사 앱을 통해 2차례에 걸쳐 3450만원을 대출받은 것으로 조사됐다. 이미 3억원가량 빚이 있던 박씨는 대출금을 상환하지 못했고, 검찰은 사기죄로 기소했다.&lt;br&gt;&lt;br&gt;1·2심은 “범행 의도가 인정된다”며 징역 8개월에 집행유예 2년을 선고했다. 그러나 대법원은 “사람을 기망하지 않으면 사기죄로 처벌할 수 없다”는 기존 판례를 인용해 원심을 뒤집었다. 대법원은 “박씨가 카드사 앱에 자금 용도, 보유 자산 등을 입력한 데 따라 대출이 전산상 자동 처리돼 송금됐고, 직원이 개입한 사정은 보이지 않는다”며 “카드사 직원 등 사람을 기망했다고 볼 수 없다”고 했다.&lt;br&gt;&lt;br&gt;국내 카드 대출 규모(전업 카드사 8곳)는 약 44조원, 1170만여 건으로 이 가운데 상당수가 비대면으로 이뤄지고 있다. 현직 한 부장판사는 “갚을 생각 없이 비대면 대출을 받아 상환하지 않을 경우 민사상 배상 책임을 져야 한다”며 “비슷한 대출 범죄를 방지하기 위해 형사 책임을 물을 방법을 고민해야 한다”고 말했다. 한 법조인은 “카드사에서 심사 과정을 엄격히 하는 등 대출 관리에 나설 필요도 있다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>신분당선서 지퍼 내리고 중요부위 노출한 ‘군복男’…경찰 추적 중</title>
       <link>https://www.chosun.com/national/national_general/2025/04/21/RCNIWDWC55CNLIIKDRZIAUWDE4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/21/RCNIWDWC55CNLIIKDRZIAUWDE4/</guid>
@@ -516,24 +534,6 @@
       <description/>
       <pubDate>Sun, 20 Apr 2025 20:15:05 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G7FZHAW4TFCNBEBGXDXSTLXI6E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[스피킹이 강해지는 영어] weigh on</title>
-      <link>https://www.chosun.com/national/nie/english/2025/04/21/LMBNHIY2IFHDFJYLKVP6MCNYZM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/english/2025/04/21/LMBNHIY2IFHDFJYLKVP6MCNYZM/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Sun, 20 Apr 2025 20:14:35 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/I4DLZHTU6VFX5DF356WVETAKZU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[두근두근 뇌 운동] [2606] 초성 이어가기</title>
-      <link>https://www.chosun.com/national/nie/2025/04/21/23EDKQH75VDXZFF2DSDZGITBBQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2025/04/21/23EDKQH75VDXZFF2DSDZGITBBQ/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Sun, 20 Apr 2025 20:14:02 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/T2KQZTN4BFF2FDLYXNJARKVQBU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>달리기 좋은 초여름 날씨</title>
