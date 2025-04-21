@@ -13,6 +13,81 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>전장연 지하철 시위 재개에... 서울시 “형사 고발·손배소 방침”</title>
+      <link>https://www.chosun.com/national/national_general/2025/04/21/HBWDTN7KLNHRREQ3OMLVVJVKTI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/21/HBWDTN7KLNHRREQ3OMLVVJVKTI/</guid>
+      <dc:creator>김영우 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 21 Apr 2025 04:57:14 +0000</pubDate>
+      <content:encoded>21일 4호선 혜화역 등에서 진행된 전국장애인차별철폐연대(전장연)의 지하철 시위에 대해 서울시가 “가능한 모든 수단을 동원해 엄정 대응하겠다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Q3WJZDSDTNOWPIBDI76BOEDL5U.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;전국장애인차별철폐연대(전장연) 회원들이 21일 오전 서울 지하철 4호선 혜화역 동대문 방면 승강장에서 '출근길 지하철 탑니다' 시위를 벌이고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울시에 따르면, 전장연은 이날 오전 8시부터 서울 지하철 4호선 혜화역과 오남역, 선바위역 등에서 시위를 벌였다. 이에 따라 오남역과 선바위역에서는 35분가량 열차가 운행되지 못했고, 혜화역에서도 열차 운행이 13분가량 지연됐다. 혜화역은 오전 9시쯤부터 22분간 하행선 열차가 무정차 통과하기도 했다.&lt;br&gt;&lt;br&gt;서울시는 이날 전장연의 시위로 열차 지연에 따른 2100만원가량의 손실이 발생한 것으로 보고 있다. 이날 오전 7시부터 10시까지 열차 지연 등에 관한 민원도 245건 접수됐다.&lt;br&gt;&lt;br&gt;서울시 관계자는 “시위 대응 과정에서 직원이 부상을 입기도 했다”고 말했다.&lt;br&gt;&lt;br&gt;서울시는 전장연의 시위에 대해 관할 경찰서에 형사 고발 조치하고, 지하철 운행 지연에 따른 손해배상과 업무 방해에 대해서는 소송을 제기할 방침이다.&lt;br&gt;&lt;br&gt;서울시 관계자는 “이전에 해왔던 대로 엄정 대응한다는 계획을 세운 것”이라며 “앞으로도 오늘과 같은 일이 생긴다면 법적 조치를 취하는 등 강력히 대응하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>새 헌재소장 권한대행에 김형두 재판관 선출</title>
+      <link>https://www.chosun.com/national/court_law/2025/04/21/MKAHVVJDDNE47DEWEJPKL6CZOY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/04/21/MKAHVVJDDNE47DEWEJPKL6CZOY/</guid>
+      <dc:creator>방극렬 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 21 Apr 2025 05:05:03 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/I47SGWOY3VJBHBKN4HSKMOD5CA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김형두 재판관이 21일 헌법재판소장 권한대행으로 선출됐다. 사진은 김 재판관이 지난 4일 서울 종로구 헌법재판소 대심판정에서 열린 윤석열 대통령 탄핵심판 선고에 입장해 있는 모습./ 사진공동취재단&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;헌법재판소가 21일 오전 10시 재판관 평의를 열고 김형두 헌법재판관을 헌재소장 권한대행으로 선출했다고 밝혔다. 김 권한대행은 차기 대통령에 의해 신임 헌재소장이 지명될 때까지 권한대행으로 헌재를 이끌 전망이다.&lt;br&gt;&lt;br&gt;김 권한대행은 지난 18일 문형배·이미선 전 재판관이 퇴임하면서 남게 된 재판관 7명 중 최선임이다. 헌재는 작년 10월 이종석 전 헌재소장이 퇴임한 이후 권한대행 체제로 운영되고 있다. 최근까지 문형배 전 재판관이 권한대행을 맡아 윤석열 대통령 탄핵 사건을 심리·선고했다.&lt;br&gt;&lt;br&gt;김 권한대행은 전북 정읍 출신으로 법원행정처 차장과 서울중앙지법 민사2수석부장, 서울고법 부장판사 등을 지냈다. 김명수 전 대법원장이 재판관으로 지명해 2023년 3월 취임, 6년의 임기를 시작했다.&lt;br&gt;&lt;br&gt;헌재는 소장을 포함한 재판관 9명으로 구성되는 것이 원칙이다. 이들은 모두 대통령이 임명하는데 3명은 대통령 본인이 선택한 사람, 3명은 국회가 선출한 사람, 나머지 3명은 대법원장이 지명한 사람을 임명한다. 헌재소장은 국회의 동의를 받아 재판관 중에서 대통령이 임명한다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>광주 봉선동 아동병원 화재 7분 만에 진압…인명피해 없어</title>
+      <link>https://www.chosun.com/national/national_general/2025/04/21/JZV4YOFZANCRRCYP6R7RPJDBX4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/21/JZV4YOFZANCRRCYP6R7RPJDBX4/</guid>
+      <dc:creator>광주광역시=진창일 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 21 Apr 2025 04:44:54 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UZS2S7E32L6HJ446VK2ADAK2RI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;12시 33분쯤 광주광역시 남구 봉선동의 한 아동병원에서 발생한 화재 모습. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;광주광역시의 한 아동병원에서 불이 나 환자와 의료진 등이 대피하는 소동이 벌어졌다.&lt;br&gt;&lt;br&gt;21일 소방당국에 따르면 이날 낮 12시 33분쯤 광주 남구 봉선동의 한 아동병원에서 불이 났다는 119신고가 접수됐다. 화재는 출동한 소방대원들에 의해 약 7분 만에 완전히 진압됐다.&lt;br&gt;&lt;br&gt;화재로 환자와 의료진 등 수십명이 병원 밖으로 대피했고, 인명 피해는 발생하지 않았다.&lt;br&gt;&lt;br&gt;경찰과 소방 당국은 병원 건물 옥상에서 불이 시작된 것으로 보고 정확한 화재 원인과 피해 규모를 조사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/UZS2S7E32L6HJ446VK2ADAK2RI.jpg?width=720&amp;height=550&amp;auth=3dbf244aa0b2038a0851063d0efeecbd24c06f672838ee4291a447cce0e0bc9c&amp;smart=true" type="image/jpeg" height="550" width="720">
+        <media:description type="plain">12시 33분쯤 광주광역시 남구 봉선동의 한 아동병원에서 발생한 화재 모습. /뉴시스</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>미쓰에이 민, 비연예인 사업가와 결혼한다…7년 전 지인소개로 만나</title>
+      <link>https://www.chosun.com/national/people/2025/04/21/BP6NFSRFFJFXTGZJ7B6GTPDUUE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/04/21/BP6NFSRFFJFXTGZJ7B6GTPDUUE/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 21 Apr 2025 04:36:25 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6PAXKU6A4BEJ5C642CYLZVMBEA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;미쓰에이 민. /인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;걸그룹 미쓰에이 출신 가수 민(본명 이민영‧34)이 비연예인 사업가와 결혼한다고 밝혔다.&lt;br&gt;&lt;br&gt;21일 소속사 K타이거즈 엔터테인먼트는 “민이 6월 7일 결혼한다”며 “비연예인인 예비 신랑과 양가 가족을 배려해 결혼식은 서울 모처에서 비공개로 진행할 예정”이라고 밝혔다.&lt;br&gt;&lt;br&gt;소속사에 따르면 두 사람은 2018년 한 콘서트에서 지인 소개로 만나 만남을 이어왔다. &lt;br&gt;&lt;br&gt;민은 이날 자신의 소셜미디어를 통해 “저는 오는 6월, 오랜 시간 곁을 지켜준 소중한 사람과 인생의 새로운 시작을 함께 하기로 했다”며 “기쁠 때도, 지칠 때도 늘 따뜻하게 손 내밀어 주었던 사람과 서로의 하루를 함께 걸어가려 한다”고 했다. &lt;br&gt;&lt;br&gt;민은 “부족한 저를 믿고 응원해주신 가족, 지인, 친구들, 그리고 언제나 마음을 나눠주신 팬 여러분께 진심으로 감사드린다”며 “그 고마움을 잊지 않고, 앞으로도 더 좋은 모습으로 보답할 수 있도록 노력하겠다”고 했다. &lt;br&gt;&lt;br&gt;민은 2010년 걸그룹 미쓰에이로 데뷔해 ‘배드 걸 굿 걸’(Bad Girl Good Girl), ‘다른 남자 말고 너’ 등으로 사랑을 받았다. 미쓰에이 멤버(지아, 민, 수지, 페이) 중 결혼하는 것은 민이 처음이다. 민은 2017년 미쓰에이 해체 이후 솔로 가수, 뮤지컬 배우 등으로 활동하고 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>민노총 위원장, MZ 조합원과 ‘루프탑 파티’ 돌연 취소한 이유</title>
+      <link>https://www.chosun.com/national/labor/2025/04/21/JVHO2NZBBNHG7EO2O7FWLJH3GY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/labor/2025/04/21/JVHO2NZBBNHG7EO2O7FWLJH3GY/</guid>
+      <dc:creator>정해민 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 21 Apr 2025 04:03:23 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2M3PAMAKIBB53EKFZLFWHVD2XE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/민주노총&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;민주노총이 청년 조합원 등을 대상으로 ‘루프탑 파티’를 기획했다가 돌연 취소했다. ‘고공 농성 중인 조합원들을 외면하는 것이 아니냐’는 취지의 내부 비판에 부딪혔기 때문이다.&lt;br&gt;&lt;br&gt;21일 노동계에 따르면, 민주노총은 오는 24일 서울 마포구의 한 대여 공간에서 ‘루프탑 파티’를 열 예정이었다. 한강이 내려다 보이는 이곳은 ‘한강뷰 파티룸’으로 잘 알려져 있다.&lt;br&gt;&lt;br&gt;지난 2월 민주노총은 청년 조합원을 중심으로 활동하는 모임 ‘세빛사(세상을 빛내는 사람들)’를 만들었다. 당초 이 행사는 양경수 민주노총 위원장이 세빛사 회원 30명 정도를 만나 ‘토크·포토 타임' ‘루프탑 바비큐 파티’ ‘경품 추첨’ 등을 하겠다는 계획이었다.&lt;br&gt;&lt;br&gt;그러나 루프탑 파티를 약 일주일 앞둔 지난 18일 행사는 돌연 취소됐다. 민주노총은 “SNS 등을 통해 본 행사(루프탑 파티)가 고공 농성 중인 동지들을 존중하지 않거나 외면하는 것처럼 보인다는 의견이 있음을 확인했다”며 “이에 기존 일정대로 행사를 진행하는 것은 당초의 행사 기획 취지와 무관하게 불편함을 줄 수 있다고 판단하여 취소하기로 했다”고 밝혔다. 양경수 위원장도 “고공 농성하는 동지들의 마음을 잘 고려하지 못했던 것 같다”고 했다.&lt;br&gt;&lt;br&gt;현재 민주노총 조합원들은 총 3곳에서 고공 농성을 하고 있다. 서비스연맹 세종호텔지부(서울 명동역), 금속노조 거제통영고성조선하청지회(경남 거제시), 금속노조 한국옵티칼하이테크지회(경북 구미시) 등이다. 이중 금속노조 한국옵티칼하이테크지회의 고공 농성은 이날로 470일째 이어지고 있다. 조합원 A씨는 “루프탑 파티 공간에서는 세 곳의 루프탑(고공 농성) 노동자들은 안 보이나 보다”라고 했다.&lt;br&gt;&lt;br&gt;자신을 민주노총의 청년 조합원이라고 밝힌 B씨는 페이스북을 통해 “나는 청년에 속하는 사람인데 위원장이랑 고기를 먹고 싶지 않다. 그러려고 조합원으로 들어간 것도 아니다”라며 “‘청년 세대로서 너희가 원하는 건 이런 거지?’하고 보여준 것이 루프탑 파티라는 건 좀 모욕적”이라고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>유명 부동산 강사 남편 둔기로 살해한 50대 구속 기소</title>
+      <link>https://www.chosun.com/national/court_law/2025/04/21/TW3KWECJ25CPFN75XZHUTY7YLA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/04/21/TW3KWECJ25CPFN75XZHUTY7YLA/</guid>
+      <dc:creator>평택=김수언 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 21 Apr 2025 03:40:42 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WP2LHO6FEFA7ZQJ52AEGHJELNM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;수원지검 평택지청. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;유명 부동산 강사인 남편을 둔기로 내려쳐 살해한 혐의를 받는 50대가 구속 상태로 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;21일 수원지검 평택지청 형사1부(부장 황수연)는 살인 혐의로 A(55)씨를 지난 18일 구속 기소했다고 밝혔다.&lt;br&gt;&lt;br&gt;검찰에 따르면 A씨는 지난 2월 15일 오전 3시쯤 경기도 평택시의 한 아파트에서 누워있는 남편 B씨의 머리 부분을 양주병으로 여러 차례 가격해 살해한 혐의를 받는다.&lt;br&gt;&lt;br&gt;A씨는 남편으로부터 이혼을 요구받자, 남편의 외도를 의심하고 심하게 다툰 후 격분해 범행한 것으로 조사됐다고 검찰은 밝혔다.&lt;br&gt;&lt;br&gt;조사 당시, A씨는 “남편이 흉기로 위협을 했고, 우발적으로 범행했다”고 주장한 것으로 알려졌다. 그러나 검찰이 혈흔 분석 등 법의학 자문을 실시한 결과, 남편 B씨는 누워있는 상태로 가격을 당한 것으로 파악됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EXW7ER2Q7AKVNTORWJWPYFXPR4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부동산공법 일타 강사 A씨가 생전 강의 중인 모습. /A씨 유튜브 캡처&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰은 또 A씨의 휴대전화를 압수해 분석해 외도 의심 등 범행 동기를 파악했다.&lt;br&gt;&lt;br&gt;남편 B씨는 유명 부동산 일타강사로 활동해 온 것으로 알려졌다.&lt;br&gt;&lt;br&gt;검찰 관계자는 “피해자와 유족의 억울함이 없도록 과학수사 기법을 이용해 범죄의 전모와 피고인 주장의 허위성을 명백히 했다”며 “피고인에게 범죄에 상응하는 중형이 선고되도록 공소 유지에 만전을 기할 것”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>광명 신안산선 지하터널 붕괴…시공사·하청업체 관계자 3명 입건</title>
+      <link>https://www.chosun.com/national/incident/2025/04/21/2CBLVNNH6FHSHCHHSBOT7BM4TI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/04/21/2CBLVNNH6FHSHCHHSBOT7BM4TI/</guid>
+      <dc:creator>수원=김현수 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 21 Apr 2025 03:48:44 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FJ7JONAJELBR3DCUOCBZNE34WY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기 광명시 일직동 신안산선 복선전철 5-2공구 붕괴 현장. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 광명시 신안산선 지하터널 붕괴 사고를 수사 중인 경찰이 공사 관계자 3명을 피의자로 입건했다.&lt;br&gt;&lt;br&gt;경기남부경찰청 신안산선 붕괴 사고 수사전담팀은 업무상 과실치사상 혐의로 시공사인 포스코이앤씨와 하청업체, 감리사 소속 현장 관계자 등 총 3명을 형사 입건했다고 21일 밝혔다.&lt;br&gt;&lt;br&gt;이들은 지난 11일 오후 3시 13분쯤 광명시 일직동 신안산선 복선전철 제5-2공구 지하터널 공사 현장 붕괴 사고와 관련해 안전 관리 책임을 소홀히 한 혐의를 받고 있다. 당시 사고로 근로자 1명이 숨지고, 또 다른 1명이 부상을 입었다. 경찰은 이들이 안전 관리 책임을 다하지 못한 정황이 있다고 보고 있다.&lt;br&gt;&lt;br&gt;사고 당시 지하 구조물과 상부 도로가 동시에 붕괴되며 대형 참사로 이어졌고, 경찰은 참고인 신분으로 조사하던 인물을 처음으로 피의자로 전환했다.&lt;br&gt;&lt;br&gt;경찰은 확보한 방범카메라 영상과 근로자 진술을 토대로 붕괴 조짐부터 실제 사고 발생까지의 경위를 면밀히 재구성 중이다. 포스코이앤씨 측으로부터 제출받은 설계도 등 각종 서류도 분석 중이다.&lt;br&gt;&lt;br&gt;현장 감식은 아직 시작되지 않았다. 경찰 관계자는 “현장 내부 붕괴 위험이 여전히 높아 출입이 제한돼 있다”며 “현장 진입은 구조 검토 및 안전 진단이 완료된 이후에나 가능할 것으로 보인다”고 했다.&lt;br&gt;&lt;br&gt;국토교통부 사고조사위원회는 사고 직후 해당 구간에 공사 중지 및 진입 금지 명령을 내린 상태다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>부산 케이블 공장 60대 근로자 추락사</title>
+      <link>https://www.chosun.com/national/regional/yeongnam/2025/04/21/66ETFKW4AFGZNAYV46SKYOTTHQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/yeongnam/2025/04/21/66ETFKW4AFGZNAYV46SKYOTTHQ/</guid>
+      <dc:creator>부산=박주영 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 21 Apr 2025 03:54:48 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CLQR42BZQNHEFIKFZZ6CJTRIXA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 20일 60대 근로자가 떨어져 숨진 채 발견된 부산 강서구 한 케이블 생산공장의 2층 화물용 승강기 문./부산 강서경찰서&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산의 한 케이블 생산공장에서 60대 근로자가 화물용 승강기 통로 아래로 떨어져 숨졌다. &lt;br&gt;&lt;br&gt;21일 부산강서경찰서에 따르면 지난 20일 오전 7시48분쯤 부산 강서구 B케이블 공장 화물용 승강기 통로 1층 바닥에서 60대 A씨가 숨진 채 발견됐다. &lt;br&gt;&lt;br&gt;A씨를 발견, 경찰에 신고한 직장 동료는 “지난 19일 야간 근무조로 출근한 A씨가 그날 오후 9시 좀 지나서부터 보이지 않아 한참을 찾던 중 다음 날 아침 승강기 통로 바닥에 피를 흘린 채 숨져 있는 A씨를 발견했다”고 말했다. &lt;br&gt;&lt;br&gt;경찰 조사 결과, A씨는 지난 19일 오후 7시 출근해 오후 9시20분쯤 ‘부품을 가지러 공장 건물 2층 금형실에 갔다오겠다‘고 한 후 돌아오지 않았다. &lt;br&gt;&lt;br&gt;경찰은 “A씨가 2층으로 올라가 금형실로 들어가려다 화물용 승강기 통로 바닥으로 추락한 것으로 추정된다”며 “금형실 출입문과 2층 승강기 문이 똑같이 생겨 착각한 것 같다”고 말했다. 당시 화물용 승강기는 건물 5층에 올라가 있었던 것으로 파악됐다. &lt;br&gt;&lt;br&gt;경찰 관계자는 “정확한 사고 경위와 함께 A씨가 5층으로 올라간 상황에서 닫혀 있었을 2층 화물용 승강기 문을 어떻게 열 수 있었는지, 안전 규정이 잘 지켜지고 있었는지 등 여부에 대해 조사하고 있다”고 말했다.&lt;br&gt;&lt;br&gt;&amp;nbsp;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>봉천동 화재, 농약 살포기로 불 질렀다... 방화 용의자 사망  </title>
       <link>https://www.chosun.com/national/national_general/2025/04/21/DTO4SWLUINEH3OJVILQN5RVZ2I/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/21/DTO4SWLUINEH3OJVILQN5RVZ2I/</guid>
@@ -614,69 +689,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EPH3NTWDKVGAD2BHH6HLY3XFMA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원 로고./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전기기능장 실기시험 문제를 유추할 수 있는 은어를 인터넷에 올린 30대 남성에게 징역형이 선고됐다. &lt;br&gt;&lt;br&gt;인천지법 형사 7단독 문종철 판사는 국가기술자격법 위반 혐의로 기소된 A(36)씨에 대해 징역 6개월을 선고했다고 20일 밝혔다. &lt;br&gt;&lt;br&gt;A씨는 지난 2023년 8월 20일부터 22일까지 인천인력개발원에서 진행된 전기기능장 실기시험에서 2차례에 걸쳐 시험문제를 유출한 혐의로 기소됐다. &lt;br&gt;&lt;br&gt;당시 시험장 관리위원이던 A씨는 미리 문제지를 보고, 휴대전화를 이용해 전기기능장 수험생들이 회원인 인터넷 카페에 시험문제를 짐작할 수 있는 은어를 올렸다. &lt;br&gt;&lt;br&gt;그는 시험 둘째 날 ‘최솟값‘을 구하는 문제를 확인한 뒤엔, “어제 고기 먹었더니 최소 먹고싶다”는 글을, 다음 날 ‘가장 작은 수부터 정렬하는 오름차순에 따라 대응되는‘이라는 내용의 시험문제를 보고는 “‘최소’ 먹고 ‘중간대’ 갔다가 ‘큰 집’ 갈까”라는 글을 시험 전 각각 게시했다. &lt;br&gt;&lt;br&gt;A씨는 재판 과정에서 “우연히 예상 문제를 제시했을 뿐 시험문제를 유출한 것이 아니다”라고 주장했으나 법원은 이를 받아들이지 않았다. &lt;br&gt;&lt;br&gt;법원은 A씨가 시험 내용을 살펴볼 수 있었고, 문제지 개봉 이후에도 휴대전화를 사용한 것으로 보인다며 비밀을 누설한 사실을 인정할 수 있다고 판단했다. &lt;br&gt;&lt;br&gt;문 판사는 “(피고인은)비뚤어진 영웅심리, 공명심 등으로 국가기술자격시험의 문제를 유추할 수 있는 내용을 인터넷 카페 게시판에 유출했고, 이로 인해 시험의 공정성과 신뢰성이 크게 훼손됐다”며 “변명으로 일관하며 범행을 반성하고 있지도 않다”고 했다. &lt;br&gt;&lt;br&gt;이어 “자기 과시 욕구 외에 경제적인 이득과 같은 다른 목적으로 범행한 것으로 보이지 않는 점 등을 고려했다”고 양형 이유를 설명했다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>순수익 부풀려 치킨집 넘기려던 업주, 사기죄로 ‘집유’</title>
-      <link>https://www.chosun.com/national/regional/2025/04/20/A2UPMZEZLFCAVGJL5OQOOTLVDE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/04/20/A2UPMZEZLFCAVGJL5OQOOTLVDE/</guid>
-      <dc:creator>우정식 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 20 Apr 2025 01:33:37 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YFMERL2TVFH3ZOE3O53YGE6HOI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원 로고. /조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;프랜차이즈 치킨집을 다른 사람에게 넘기는 과정에서 수익을 부풀린 혐의로 재판에 넘겨진 업주에게 징역형의 집행유예가 선고됐다.&lt;br&gt;&lt;br&gt;20일 법조계에 따르면 대전지법 형사4단독 이제승 부장판사는 사기 혐의로 기소된 치킨집 업주 A씨에게 징역 1년에 집행유예 2년을 선고하고, 사회봉사 80시간도 명령했다.&lt;br&gt;&lt;br&gt;A씨는 치킨집의 매출액이 8000만원일 때 순수익이 760만∼1200만원인데도 인터넷 카페에 “월 순수익이 1600만∼1800만원 발생한다”고 속여 양수인으로부터 계약금과 권리금 명목으로 총 8000만원을 받은 혐의로 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;A씨는 “순수익에 대해 단언한 적은 없으며, 계약할 때 정산 내역서를 양수인 측에 보여줬다”고 주장했다.&lt;br&gt;&lt;br&gt;법원은 A씨가 인터넷 카페에 올린 광고 글에서 순수익에 대해 거짓이 없다고 밝힌 점과 양도·양수 계약이 체결된 뒤에 정산 내역서를 제공한 점 등을 이유로 이 주장을 받아들이지 않았다.&lt;br&gt;&lt;br&gt;이 부장판사는 “매출액 대비 순수익을 허위 고지해 피해자에게 손해를 가했고, 편취 금액도 적지 않아 죄책이 가볍지 않다”며 “다만 피해자와 민사 소송에서 합의가 이뤄졌고, 피해자에게도 피해 발생 또는 확대에 일정 부분 책임이 있는 점 등을 고려했다”고 양형 이유를 밝혔다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>인천 아파트 옥상 외벽에서 콘크리트 조각 떨어져… 50대 여성 중상</title>
-      <link>https://www.chosun.com/national/incident/2025/04/20/SPAF2NN4YBFGJAHRVWYQLP7LLA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/04/20/SPAF2NN4YBFGJAHRVWYQLP7LLA/</guid>
-      <dc:creator>인천=이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 20 Apr 2025 01:36:04 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZW64ITF47V7YXWMIHRP3CQVG5I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;떨어진 건물 외벽 조각./ 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천 미추홀구의 한 아파트 옥상 외벽에서 콘크리트 조각이 떨어져 지나가던 50대 여성이 다쳤다. &lt;br&gt;&lt;br&gt;20일 인천소방본부에 따르면 지난 19일 오전 11시 6분쯤 인천 미추홀구 숭의동 15층짜리 아파트 옥상 외벽에서 콘크리트 조각이 떨어졌다. 이 사고로 입주민 50대 여성 A씨가 머리를 맞아 부상을 입었다. &lt;br&gt;&lt;br&gt;“돌이 떨어져서 어떤 사람이 피를 흘리고 있다”는 신고를 받고 출동한 소방 당국은 A씨를 인근 종합병원 응급실로 이송했다. A씨는 생명엔 지장이 없는 것으로 알려졌다. &lt;br&gt;&lt;br&gt;소방 관계자는 “A씨가 의식이 있는 상태로 병원으로 옮겨졌다”며 “자세한 원인 등은 파악 중”이라고 말했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MDZ7G3DSJAPSPHZKWNX3LQTCXY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;건물 옥상 외벽./ 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>﻿“점심 굶은 돈이에요” 산불 이재민 돕기 나선 외국인 노동자들</title>
-      <link>https://www.chosun.com/national/national_general/2025/04/20/VEX26EVNMNBVTCKRZA4TYY5YXU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/20/VEX26EVNMNBVTCKRZA4TYY5YXU/</guid>
-      <dc:creator>이가영 기자</dc:creator>
-      <description/>
-      <pubDate>Sat, 19 Apr 2025 23:34:53 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Y2JLFFTYKZHI3DFOEHKTMY6NUE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기도 포천의 다문화 가정 지원센터 '하랑센터'를 찾은 외국인 노동자들이 경북 산불 이재민들을 위해 기부하고 있다. /이랜드복지재단&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“TV에서 산불로 집 잃은 분들을 보며 가슴이 아팠어요. 우리도 힘들지만, 그분들은 더 힘들잖아요. 이젠 저희가 도울 차례입니다.”&lt;br&gt;&lt;br&gt;20일 이랜드복지재단에 따르면, 지난달 경북 일대를 덮친 대형 산불의 참상이 뉴스로 전해지자 경기도 포천의 ‘하랑센터’ 단체대화방에는 이 같은 글이 올라왔다. ‘하랑센터’는 다문화가족 지원센터로, 다문화 청소년들과 외국인 노동자들이 한국 사회에 잘 적응할 수 있도록 돕고 있다. &lt;br&gt;&lt;br&gt;중국, 필리핀, 캄보디아, 태국, 방글라데시 등 9개국 출신 청소년들과 외국인 노동자들은 산불 피해를 본 이재민들을 돕기 위해 나섰다. 누가 시킨 것은 아니었다. 그저 ‘우리도 뭔가 할 수 있지 않을까’ 하는 마음이 시작이었다. 이들은 “편의점 아르바이트비를 모았다” “용돈을 아꼈다” “하루 점심을 굶었다”며 각자의 방식으로 정성을 모았다. &lt;br&gt;&lt;br&gt;하랑센터 박승호 센터장은 “이 아이들, 차비 아끼려고 비가 오는 날에도 30분씩 걸어서 센터에 오는 친구들”이라며 “어떤 아이는 ‘오늘 점심 안 먹은 돈으로 기부하겠다’며 천 원짜리 지폐를 내밀었다. 그때 제 눈시울이 뜨거워졌다”고 했다. &lt;br&gt;&lt;br&gt;기부에 참여한 한 학생은 1만원을 내밀며 고개를 푹 숙였다고 한다. 박 센터장이 “왜 그러냐?”고 물었더니 학생은 “너무 적어서 부끄러워요”라고 답했다고 한다. 박 센터장은 아이의 손을 잡고 “이 1만원은 누군가의 10만원보다 훨씬 값진 거야. 네 진심이 담긴 돈이니까”라고 말했다고 당시를 회상했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IJVOQ6FW3VC2XNUMFYRB4VZO2Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;산불 피해 긴급 모금에 참여한 이들의 봉투. /이랜드복지재단&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;용돈 3000원을 기부한 학생은 “처음에는 무슨 도움이 될까 싶어서 망설였다”며 “액수보다 마음이 중요하다는 센터장님의 말을 듣고 용기가 생겼다”고 했다. 또 다른 학생은 기부 후 “저도 이렇게 누군가를 도울 수 있다는 게 너무 기쁘다”며 “항상 받기만 했는데, 제가 도울 수 있음에 감사해요. 제 인생에서 처음으로 누군가에게 도움이 됐다”고 했다. &lt;br&gt;&lt;br&gt;하랑센터는 진로 멘토링과 긴급 자금 지원 등을 받아온 기관이다. 도움을 받는 입장이었던 이들이 누군가를 돕는 주체로 나선 것이다. 박 센터장은 “아이들이 자신의 소중한 것을 내어놓는 그 순간, 제 마음이 뭉클했다”며 “감사하다는 말로는 정말 다 표현할 수가 없었다. 누군가를 도운 이 경험은 아이들에게 성장의 계기가 될 것”이라고 했다. &lt;br&gt;&lt;br&gt;이들은 지난달 말부터 약 2주간 모금을 진행해 총 260만원을 모아 이랜드복지재단에 전달했다. 재단은 이들이 모은 성금을 경북 지역 산불 피해 지역 복구와 이재민 지원을 위해 사용할 예정이다. 하랑센터의 청소년들은 추후 산불 피해 지역을 직접 찾아 봉사활동도 펼칠 계획이다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>여수 섬마을서 복어 먹은 60대 3명 마비 증상… “1명 의식 불명”</title>
-      <link>https://www.chosun.com/national/national_general/2025/04/19/MYSZW5RU5VALJN53QSVGSJQHZM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/19/MYSZW5RU5VALJN53QSVGSJQHZM/</guid>
-      <dc:creator>최혜승 기자 </dc:creator>
-      <description/>
-      <pubDate>Sat, 19 Apr 2025 14:07:41 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QY64ZT5ZQCCCK6QJ3B6VBCTNSQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;제주소방안전본부 119구급차량. 기사와 관련 없음./뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전남 여수 섬마을에서 복어를 잘못 먹고 마비 증세를 보인 60대 3명이 병원으로 이송됐다.&lt;br&gt;&lt;br&gt;19일 전남소방본부 등에 따르면, 이날 오후 5시 42분쯤 여수시 남면 연도리에서 60대 3명이 복어를 먹고 중독 증상을 보인다는 신고가 해경에 접수됐다. &lt;br&gt;&lt;br&gt;이 가운데 60대 남성 1명은 전신마비 증세를 보이며 의식을 잃었고, 나머지 2명은 안면부 마비 증상을 보인 것으로 알려졌다.&lt;br&gt;&lt;br&gt;신고를 받은 해경은 경비함정을 동원해 환자들을 여수 월전항으로 옮겼다. 이들은 여수 병원으로 분산 이송돼 치료를 받고 있다.&lt;br&gt;&lt;br&gt;당국은 복어 독으로 인한 사고로 추정하고 정확한 경위를 조사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>도로 중앙선 걷던 치매 노인 차에 치여 사망… 30대 운전자 무죄 이유는</title>
-      <link>https://www.chosun.com/national/national_general/2025/04/19/GM3WQK56MJDNNMB4E7LOCLKPTU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/19/GM3WQK56MJDNNMB4E7LOCLKPTU/</guid>
-      <dc:creator>최혜승 기자 </dc:creator>
-      <description/>
-      <pubDate>Sat, 19 Apr 2025 08:28:34 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7DY7I56RJJGUHEGWM2TI34LNCY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=조선디자인랩·Midjourney&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;도로 중앙선을 걷던 치매 노인을 차로 치어 숨지게 한 30대 운전자가 1심에서 무죄를 선고받았다.&lt;br&gt;&lt;br&gt;전주지법 형사6단독(김현지 판사)은 교통사고처리 특례법 위반(치사) 혐의로 기소된 A(31)씨에게 무죄를 선고했다고 19일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 2023년 12월 23일 오후 7시 5분쯤 전북 완주군 상관면 한 도로에서 중앙분리대를 따라 걸어오던 B(83)씨를 차로 치어 숨지게 한 혐의로 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;검찰은 “피고인이 전방주시를 게을리했다”며 운전자가 주의 의무를 다하지 않았다고 봤으나, A씨 변호인은 “이 사고는 불가항력”이라며 무죄를 주장했다.&lt;br&gt;&lt;br&gt;재판부는 A씨의 손을 들어줬다. 도로 환경과 차량 속도, 법리 등을 종합적으로 검토한 결과 운전자가 당시 사고를 예견해 피하는 건 불가능하다고 판단했다.&lt;br&gt;&lt;br&gt;재판부는 “당시 피해자는 어두운 옷을 입고 중앙분리대를 따라 차량 진행 방향 반대쪽을 향해 걷고 있었다”며 “일반적인 운전자 입장에서 왕복 4차로의 중앙선을 따라 마주 오는 보행자가 있을 것이라고 예견하는 건 어려워 보인다”고 했다.&lt;br&gt;&lt;br&gt;이어 “사고가 발생한 도로의 제한 속도가 시속 80㎞인데 A씨는 시속 83.2㎞로 주행했다”며 “A씨의 위반 정도가 시속 3㎞에 불과하므로 제한 속도를 준수했다고 하더라도 사고를 방지할 수 있었을지에 대해서는 의문이 든다”고 했다. &lt;br&gt;&lt;br&gt;재판부는 “또 사건 당일 일몰 시각은 오후 5시 22분이었는데 이 사고는 오후 7시 5분에 발생했으며 사고 지점에는 가로등이 설치돼 있지 않았다”며 “어두운 도로에서 차량 전조등을 켜 장애물을 확인할 수 있는 영역은 약 40ｍ인데, 시속 80㎞가 넘는 속도로 달리던 차가 40ｍ 전에 보행자를 인지해 충돌을 피하는 상황은 기대하기 어렵다”고 밝혔다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>통영 추봉도 해상서 유람선·낚시 어선 충돌…4명 부상</title>
-      <link>https://www.chosun.com/national/regional/2025/04/19/FFNZ4TYVVNCATBKBM6V6CAYI2A/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/04/19/FFNZ4TYVVNCATBKBM6V6CAYI2A/</guid>
-      <dc:creator>우정식 기자</dc:creator>
-      <description/>
-      <pubDate>Sat, 19 Apr 2025 07:18:43 +0000</pubDate>
-      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TIZXGZ56YJEXVGZIBSODXDLFMU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;19일 오후 1시 48분쯤 경남 통영시 한산면 추봉도 북쪽 1.8㎞ 해상에서 승선원 154명을 태운 유람선 A호(113t)와 승선원 4명이 탄 낚시 어선 B호(3t)가 충돌해, 낚시 어선의 승선원 4명이 다쳤다. /통영해경&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;19일 오후 1시 48분쯤 경남 통영시 한산면 추봉도 북쪽 1.8㎞ 해상에서 승선원 154명을 태운 유람선 A호(113t)와 승선원 4명이 탄 낚시 어선 B호(3t)가 충돌했다.&lt;br&gt;&lt;br&gt;이 사고로 낚시 어선 B호의 상부가 일부 파손됐고, 이 배에 타고 있던 4명이 크고 작은 부상을 입고 병원으로 이송됐다.&lt;br&gt;&lt;br&gt;유람선 A호의 물적·인적 피해는 발생하지 않았다고 한다.&lt;br&gt;&lt;br&gt;사고 발생 후 유람선 승객의 신고를 받고 출동한 통영해경은 어선의 침몰 등을 막기 위해 바닷속 수색을 벌인 결과, 별다른 이상이 없는 것을 확인해 B호를 거제시 고당항으로 예인 중이다.&lt;br&gt;&lt;br&gt;해경은 사고 선박의 선장 등을 대상으로 정확한 사고 경위를 조사할 계획이다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘연돈’ 사장, 백종원과 불화설에 “큰 도움 많이 받고 있다…이상한 소문 많아"</title>
-      <link>https://www.chosun.com/national/national_general/2025/04/19/VDDSQAQSZVHGPN4RZZIXCELP5M/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/19/VDDSQAQSZVHGPN4RZZIXCELP5M/</guid>
-      <dc:creator>최혜승 기자 </dc:creator>
-      <description/>
-      <pubDate>Sat, 19 Apr 2025 07:01:36 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SQIQ6H4SLVDMBJIJNFJ6WE4LB4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;연돈 운영하는 김응서씨(왼쪽), 백종원 더본코리아 대표./인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;SBS ‘골목식당’으로 이름을 알린 돈가스 전문점 ‘연돈’ 사장이 “더본코리아 백종원 대표 도움 덕분에 행복하게 잘 지낸다”고 밝혔다. 백 대표가 연돈을 앞세워 호텔을 홍보하고 착취한다는 의혹이 온라인에서 제기되자 해명에 나선 것으로 풀이된다.&lt;br&gt;&lt;br&gt;연돈을 운영하는 김응서씨는 18일 인스타그램에 “요즘 백 대표님과 제 관계에 대해 이상한 소문이 많아져 글을 올린다”고 운을 뗐다. &lt;br&gt;&lt;br&gt;김씨는 “2021년 매출 대비 이익이 현저히 낮다는 글을 봤다”며 “이는 코로나19 때문으로, 당시엔 매출을 올릴 수 있는 상황이 아니었다”고 했다. 이어 “그 후 백 대표님의 도움으로 큰 매장으로 이전했고, 지금은 매출과 이익이 크게 늘었다”며 “연돈은 이전에도 지금도 백 대표님께 큰 도움을 받고 있다”고 설명했다.&lt;br&gt;&lt;br&gt;김씨는 “백 대표님 도움 덕분에 제주도에 잘 정착해 살고 있다”며 “이곳에서 행복하게 잘 지내고 있다”고 했다.&lt;br&gt;&lt;br&gt;김씨와 백 대표는 2018년 SBS ‘골목식당’을 통해 인연을 맺었다. 이후 연돈이 큰 인기를 끌자 김씨는 2019년 제주도 더본호텔 인근으로 매장을 이전했다.&lt;br&gt;&lt;br&gt;최근 백 대표와 더본코리아가 각종 논란에 휘말린 가운데, 일부 유튜브와 온라인 커뮤니티에선 ‘백 대표가 더본호텔 활성화를 위해 연돈을 이용했고 김씨를 착취한다’는 의혹이 제기되기도 했다.&lt;br&gt;&lt;br&gt;한편 백 대표와 더본코리아는 올해 초 빽햄 선물세트 가격 논란을 비롯해 안전관리 및 사업법 위반, 농지법 위반 등으로 홍역을 치르고 있다. 최근에는 더본코리아 직원이 술자리에 여성 지원자를 불러낸 것으로 알려져 고용노동부가 조사에 나섰다.&lt;br&gt;&lt;br&gt;연이은 논란에 더본코리아는 “일련의 사안에 대해 무거운 책임감을 느낀다”며 “뼈를 깎는 조직·업무 혁신을 통한 고객 신뢰 회복에 총력을 다하겠다”고 입장을 밝혔다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>‘곡우’인 일요일 남부 봄비... 일교차 15도 안팎</title>
       <link>https://www.chosun.com/national/education/2025/04/19/VPLRLC75WRFCNFEOWPPHFQH44Q/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/education/2025/04/19/VPLRLC75WRFCNFEOWPPHFQH44Q/</guid>
@@ -702,18 +714,6 @@
       <description/>
       <pubDate>Sat, 19 Apr 2025 00:07:11 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/E5JRQTMALRVFMI4NDFM5RDLEFM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한 시민이 우산을 쓰고 발걸음을 옮기고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;토요일인 19일 전국이 대체로 흐리고 곳곳에서 비가 내릴 전망이다.&lt;br&gt;&lt;br&gt;기상청에 따르면, 이날 오전 6시부터 수도권과 강원내륙·산지에 내리기 시작한 비가 오후에는 전국 대부분 지역으로 확대되겠다. 수도권은 밤까지 그 밖의 지역은 일요일인 20일 새벽까지 비가 내리는 곳이 있겠다.&lt;br&gt;&lt;br&gt;20일까지 예상 강수량은 △경기북동부 5~30㎜ △서울, 인천, 경기남서부, 서해5도 5~20㎜ △강원북부내륙·산지 10~40㎜ △강원내륙·산지(북부 제외) 5~30㎜ △강원동해안 5~10㎜ △대전, 세종, 충남, 충북 5~20㎜ △광주, 전남, 전북 5~10㎜ △부산, 울산, 경남, 경북, 울릉도·독도 5~10㎜ △대구, 경북중남부내륙, 경북동해안 5㎜ 미만 △제주도 5~20㎜다.&lt;br&gt;&lt;br&gt;미세먼지 농도는 오전까지는 수도권에서 ‘나쁨’ 수준이다 낮부터 원활한 연직(상, 하층) 확산과 청정한 남풍 기류가 유입되면서 농도가 낮아져 전 권역이 ‘보통’ 수준일 것으로 예상된다.&lt;br&gt;&lt;br&gt;아침 최저기온은 △서울 14도 △ 대전 16도 △대구 16도 △전주 17도 △광주 16도 △부산 15도 △춘천 12도 △강릉 15도 △제주 15도 △울릉도·독도 13도 등이다.낮 최고기온은 △서울 19도 △대전 25도 △대구 24도 △전주 25도 △광주 25도 △부산 19도 △춘천 20도 △강릉 24도 △제주 23도 △울릉도·독도 18도 등이다.&lt;br&gt;&lt;br&gt;기상청 관계자는 “비가 내리는 지역에서는 가시거리가 짧아지고, 도로가 미끄러운 곳이 있겠으니 차량 운행 시 안전거리를 충분히 확보하고 감속 운행하는 등 교통안전에 각별히 유의해야 한다”고 당부했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>공짜 지하철이 낳은 ‘실버 택배’… 유골함까지 배달한다</title>
-      <link>https://www.chosun.com/national/national_general/2025/04/19/44LDYSHBCJAVNDOY6GYGF3HUZ4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/19/44LDYSHBCJAVNDOY6GYGF3HUZ4/</guid>
-      <dc:creator>조민희 기자, 김도균 기자, 구아모 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 18 Apr 2025 15:55:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/K3SXPIACBREP5L7RXI2GF4IDYQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;18일 오전 서울 서초구 신분당선 청계산입구역에서 실버 택배원 최영식씨가 신발끈을 고쳐 매고 있다. 이날 최씨는 청계산 화훼단지에서 개원 축하 선물인 대나무 화분을 받아 서울 성동구의 한 개인 병원에 배달했다. 최씨는 “사람이 좋아서 일을 안 할 수가 없다”며 “사무실에서 사람들과 대화하는 것도 낙이고, 지하철에서 사람 구경하며 살맛 난다”고 했다./장련성 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“어디로 가져다 드릴까요? 알겠습니다. 다음 타자 출발!”&lt;br&gt;&lt;br&gt;15일 오전 9시 서울 중구 예관동의 ‘실버 퀵(택배)’ 사무실에 전화벨 소리가 울리자 사장 배기근(76)씨가 ‘실버 택배’라고 적은 흰색 종이를 집어 들었다. 배달 물품은 전통 자수 용품. 경기 부천에서 서울 동대문까지 33km를 날라야 한다. 배씨가 “직전 접수한 것까지 배달 두 건을 한 번에 할 수 있네. 땡 잡았다”고 하자 맞은편 소파에 앉아있던 60~70대 어르신 다섯 명이 앞다퉈 “내가 가겠다”고 했다. 사무실 문에는 ‘장수의 비결. 늙으면 미움 살 소리, 헐뜯는 소리와 군소릴랑 하지도 말고 알면서도 모르는 척 어수룩하게 하소’라고 적은 종이가 붙어있었다.&lt;br&gt;&lt;br&gt;하루에 2만~3만보를 걸으면서 일하는 어르신들이 있다. 대중교통을 타고 도보로 택배품을 나르는 ‘실버 택배원’이다. 은행 서류나 인감도장, 명품 의류·가방, 유골함까지 온갖 물품을 배달하느라 도심 곳곳을 누빈다. 도마뱀 같은 반려 동물을 배송하거나 초등학생들을 하교시키는 일도 도맡는다. 사장 배씨는 “영정 사진이나 유골함 의뢰가 들어오면 직원들이 숙연해진다”며 “다른 물품보다 더 꽁꽁 싸매서 배송을 부탁드린다”고 했다. 이들의 주 일터는 지하철. 65세 이상은 지하철을 탈 때 요금을 내지 않기 때문이다. 배달료는 1시간 이내면 1만2000원, 인천·경기 등 수도권은 2만~3만원이다. 충남·강원 지역도 3만~5만원 주면 달려간다. 오토바이 퀵서비스(20km 기준 약 2만5000원)의 절반 수준이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HQ6NXZSLLVD5VLUBJGEUS2Y3G4.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=김현국&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘실버 퀵’ 사무실엔 하루 평균 60~80건 의뢰가 들어온다. 본지 취재팀은 지난 14~18일 닷새간 실버 택배원 6명과 배달에 동행했다. 이들과 함께 지하철·도보로 이동한 거리는 총 580km다. 15일 오전 9시 30분, 최모(72)씨에게 ‘왕복 일감’이 배당됐다. 물건을 배달한 뒤 사무실에 돌아오지 않고 한 번에 두 가지를 배달할 수 있다는 뜻이다. “11시까지 가보겠습니다.” 고객과 통화를 마친 최씨가 교통 정보 앱 2~3종을 번갈아 보더니 을지로4가역 계단을 빠른 걸음으로 내려갔다. 키 161cm에 57kg으로 군살 하나 없는 최씨 걸음을 따라가기 힘들었다. 그는 “동선을 철저히 계획하고 움직이지 않으면 도착 시각이 늦어진다”며 “맨 오른쪽 지하철 칸에 타면 제일 빠르다”고 했다.&lt;br&gt;&lt;br&gt;최씨는 역무원, 지하철 기관사로 31년을 서울 지하철 역사에서 일한 뒤 14년 전 퇴직했다. 10년 전 ‘삼식이’가 될 수 없다며 택배 일을 시작했다. 한 달에 들어오는 수익은 60만~80만원. 점심 값 등으로 나가는 돈을 빼면 남는 건 40만원 정도다.&lt;br&gt;&lt;br&gt;사무실로 복귀했더니 ‘콜’을 기다리던 어르신 네 명이 신문을 읽거나 믹스 커피를 마시며 대화를 나누고 있었다. 김모(75·경기 남양주)씨의 별명은 ‘연중무휴’다. 휴무도 없이 매일 사무실에 발 도장을 찍기 때문이다. 정모(65·서울 강동구)씨는 노래 강사로 일하다가 코로나 사태로 직업을 잃었다. 먹고살기가 막막한데 일감이 없어 우울증을 앓았다. 그런데 ‘실버 퀵’ 일을 하면서 활력을 되찾았다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/F5Q3AHVCOJAXDKWZQPFKM62CNE.png"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SZCQBWPFZBEJJCAMONYA3DMZVE.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=김현국&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“충남 아산까지 ‘은행 전장표’ 배달이요!” 조사웅(79)씨가 사무실을 나서자 남은 어르신들이 “박사 잘 다녀와”라고 했다. 7년 차 베테랑이라서 이런 별명이 붙었다. 서울서 충남까지 가는 장거리 퀵 비용은 3만5000원이다. 이 중 1만500원(30%)은 회사가, 나머지는 조씨가 가져간다. 화학 회사에서 40여 년 일하다가 IMF 때 실직했다. 조씨는 “근조기를 배송할 때는 특히 이동이 어렵다”며 “수도권 장례식장에 가려면 버스를 1시간 이상 기다려야 해 ‘차 좀 태워달라’고 부탁하는데 근조기를 보고 다들 거부한다”고 했다.&lt;br&gt;&lt;br&gt;최근 65세 이상이 적용받는 지하철 무임승차 연령을 높여야 한다는 여론이 커져 실버 택배원들의 우려도 커지고 있다. 실버 퀵은 노임은 낮아도 지하철로 이동하면 비용이 사실상 제로(0)라 이윤을 남길 수 있는데, 지하철 비용을 내야 한다면 수익이 크게 줄 수 있기 때문이다. 실버 퀵 업체가 늘어 경쟁이 치열해지는 것도 이들에게는 걱정이다.&lt;br&gt;&lt;br&gt;“서둘러야 해요.” 16일 오전 9시 동행한 최모(73)씨는 빨간불로 바뀌기 직전 횡단보도를 내달렸다. 그는 “남들은 푼돈 벌려고 애쓴다 하지만 한 푼이 아쉽다”고 했다. 1년 1개월 경력의 최씨가 강동구 둔촌동에서 강남 도산공원까지 배달한 물품은 4kg짜리 무광 페인트통. 그는 가방에 항상 소보로·단팥빵을 챙겨 다닌다. 이북 피란민 출신인 최씨 어머니는 그가 돌이 되기도 전에 돌아가셨다고 했다. 그는 “어머니 젖도 못 먹고 자라서 그랬는지 평생 배가 고팠다”며 “끼니를 못 챙길 때가 많은데 늦더라도 식사는 꼭 하려고 한다”고 했다.&lt;br&gt;&lt;br&gt;경기 부천에 사는 장명정(86)씨는 새벽 4시에 일어나 첫차를 타고 서울 중구 사무실에 매일 6시 도착한다. 건설 회사에서 25년 근무한 장씨는 택배 일로 모은 돈으로 오는 7월 결혼하는 손녀 결혼식에 500만원을 보탰다고 했다. “60년 내내 꼬박 일하고 있지만 지치지 않습니다. 일 자체가 살아가는 의미거든요.”&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/K3SXPIACBREP5L7RXI2GF4IDYQ.jpg?auth=d47f16b8f7017afdbe73e5f83666cbbc03d8e68e3f1b0725ae6ff2007fc00bb7&amp;smart=true&amp;width=3904&amp;height=2603" type="image/jpeg" height="2603" width="3904">
-        <media:description type="plain">2025년 4월 18일 오전 서울 서초구 청계산입구역에서 6년째 실버 택배 일을 하고 있는 최영식(76세)씨가 지하철을 기다리면서 신발끈을 묶고 있다. /장련성 기자</media:description>
-      </media:content>
     </item>
     <item>
       <title>한국미의 정수, 종묘 정전</title>
