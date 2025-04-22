@@ -6,6 +6,36 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>이재명 전 대표 '선거법' 상고심 대법원 2부 배당…주심 박영재 대법관</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/207409.jpg" alt="207409.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;《사진=연합뉴스》&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="9300"&gt;이재명&amp;nbsp;&lt;/span&gt;더불어민주당 전 대표의 공직선거법 위반 혐의 상고심 사건이 대법원 2부에 배당됐다.&lt;p&gt;&amp;nbsp;   &lt;p&gt;대법원은 22일 이 전 대표의 공직선거법 위반 혐의 사건을&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="1658"&gt;오경미&lt;/span&gt;·&lt;span style="font-weight: bold;" class="lawmanlink" serial="3751"&gt;권영준&lt;/span&gt;·&lt;span style="font-weight: bold;" class="lawmanlink" serial="455"&gt;엄상필&lt;/span&gt;·&lt;span style="font-weight: bold;" class="lawmanlink" serial="651"&gt;박영재&amp;nbsp;&lt;/span&gt;대법관으로 구성된 2부에 배당했다. 주심은&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="651"&gt;박영재&amp;nbsp;&lt;/span&gt;대법관이 맡는다.&lt;/p&gt;   &lt;p&gt;&amp;nbsp;&lt;/p&gt;   &lt;p&gt;이 전 대표는 민주당 대선 후보 시절 2021년 고(故) 김문기 전 성남도시개발공사 개발1처장 및 성남 백현동 한국식품연구원 부지의 용도변경 특혜 의혹과 관련해 허위사실을 공표한 혐의로 2022년 9월 재판에 넘겨졌다.&lt;/p&gt;   &lt;p&gt;&amp;nbsp;&lt;/p&gt;   &lt;p&gt;1심은 이 전 대표의 발언 일부가 허위사실이라고 보고 징역 1년에 집행유예 2년을 선고했다. '김문기 씨와 골프를 치지 않았다'는 발언이 허위사실 공표라고 보고 유죄로 판단했다. 백현동 발언에 대해선 "이 대표가 자발적으로 용도지역을 변경한 것"이라며 유죄로 봤다.&lt;/p&gt;   &lt;p&gt;&amp;nbsp;&lt;/p&gt;   &lt;p&gt;2024년 3월 항소심은 1심이 유죄로 판단한 발언까지 모두 무죄라고 보고 이 전 대표에게 무죄를 선고했다.&lt;/p&gt;   &lt;p&gt;&lt;br /&gt;이 전 대표는 공직선거법 위반 사건 관련 검찰의 상고이유서에 대한 답변서를 21일 대법원에 제출했다.&lt;/p&gt;   &lt;/p&gt;</description>
+			<pubDate>Tue, 22 Apr 2025 04:24:24 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/207409</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/207409</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/207409.jpg</media:thumbnail>
+			<dc:creator>홍윤지 기자</dc:creator>
+		</item>
+		<item>
+			<title>[속보] 이재명 '선거법 사건' 재판 상고심 전원합의체 회부</title>
+			<description>&lt;p style="text-align: center; "&gt;   &lt;img src="https://image.lawtimes.co.kr/thumb/180/207414.jpg" alt="lawtimes.jpg" /&gt;&lt;br /&gt;&lt;/p&gt;&lt;br /&gt;</description>
+			<pubDate>Tue, 22 Apr 2025 03:51:26 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/207414</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/207414</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/207414.jpg</media:thumbnail>
+			<dc:creator>인터넷 기자</dc:creator>
+		</item>
+		<item>
+			<title>[판결] "그렇고 그런 사이" 술자리 발언 부사관, 상관 명예훼손 유죄 확정</title>
+			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/207405.jpg" alt="207405.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;b&gt;[판결 결과]&lt;/b&gt;&lt;br /&gt;술자리에서 상관에 대해 부적절한 관계를 암시하는 발언을 한 군인이 상관명예훼손 혐의로 유죄 확정 판결을 받았다.&lt;p&gt;&amp;nbsp;  &lt;br /&gt;대법원 형사3부(주심&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="455"&gt;엄상필&lt;/span&gt;&amp;nbsp;대법관)는 4월 3일 상관명예훼손으로 재판에 넘겨진 부사관 A 씨의 상고를 기각하고 징역 6개월, 집행유예 1년 선고한 원심을 확정했다(&lt;b&gt;2025도456&lt;/b&gt;).&lt;br /&gt;&lt;b&gt;&lt;br /&gt;[사실 관계]&lt;/b&gt;&lt;br /&gt;A 씨는 같은 부대 부사관 2명과 술을 마시던 자리에서 피해자 B를 지칭하며 "주임원사와 그렇고 그런 사이다"라고 말해 상관의 명예를 훼손한 혐의로 군사 재판에 넘겨졌다. &lt;br /&gt;&lt;b&gt;&lt;br /&gt;[쟁점]&lt;/b&gt;&lt;br /&gt;상관명예훼손죄의 구성요건인 공연성 성립 여부&lt;br /&gt;&lt;b&gt;&lt;br /&gt;[하급심 판단]&lt;/b&gt;&lt;br /&gt;1심을 맡은 제3지역군사법원은 A 씨에게 유죄를 인정하고 징역 6개월에 집행유예 1년을 선고했다. 항소심 역시 1심 판결에 사실오인이나 법리오해가 없다고 보고 A 씨의 항소를 기각했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;항소심은 "피고인의 발언은 불특정 또는 다수인에게 전파될 개연성이 있고, 피고인에게 그러한 전파가능성을 용인하는 내심의 의사가 있었던 것으로 인정할 수 있다"고 판단했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;또한 "남녀가 불륜 관계에 있다는 것은 일반적으로도 다른 사람들 사이에 회자되기 쉬운 내용인데다가, 특히 같은 부대에서 근무하는 피해자들의 불륜 관계의 경우 폐쇄적인 군 조직의 특성 등에 비추어 부대원들의 입에 오르내리기 좋은 소재"라고 설명했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp; &lt;br /&gt;재판부는 이어 "피고인은 사건 당시 (다른 부사관과) 셋이서 술자리를 했고, 그 전부터도 어느 정도 친분 관계가 있었던 것으로 보이나, 매우 민감한 내용인 이 사건 발언까지 비밀을 보장해 줄 정도로 피고인과 사이의 친분이 두터웠다고 보이지 않는다"고 덧붙였다.&lt;br /&gt;&lt;b&gt;&lt;br /&gt;[대법원 판단]&lt;/b&gt;&lt;br /&gt;대법원은 "원심의 판단에 논리와 경험의 법칙을 위반해 자유심증주의의 한계를 벗어나거나 상관명예훼손죄의 성립에 관한 법리를 오해해 판결에 영향을 미친 잘못이 없다"며 상고를 기각하고 원심을 확정했다.&lt;/p&gt;</description>
+			<pubDate>Tue, 22 Apr 2025 03:09:03 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/207405</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/207405</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/207405.jpg</media:thumbnail>
+			<dc:creator>안재명 기자</dc:creator>
+		</item>
+		<item>
 			<title>"시대와 환경의 변화에 유연하게 대처하는 공단" - 김영진 대한법률구조공단 16대 이사장 취임식</title>
 			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/207404.jpg" alt="207404.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;김영진 대한법률구조공단 이사장이 임직원들과 기념촬영을 하고 있다.&lt;/figcaption&gt;   &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;제16대 대한법률구조공단 이사장으로 임명된&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="2697"&gt;김영진&lt;/span&gt;(62·사법연수원 21기) 신임 이사장의 취임식이 4월 21일 경북 김천시 율곡동 대한법률구조공단 본부에서 열렸다.&lt;br /&gt;&lt;br /&gt;김 이사장은 서울 경희고와 고려대를 졸업하고, 1992년 사법연수원 수료 후 서울지검 동부지청 검사로 임관했다. 이후 서울북부지검 부부장검사, 울산지검 형사3부장검사, 청주지검 제천지청장, 대검찰청 형사2과장·조직범죄과장, 서울중앙지검 강력부장검사 등을 지냈다. 2010년에는 법무부 대변인으로 근무하고, 이후 대검 범죄정보기획관, 수원지검 1차장검사 등을 역임해 검찰과 법무부에서 수사·기획·공보 등을 맡았다. 2016년부터는 김앤장 법률사무소에서 변호사로 근무했다.&lt;br /&gt;&lt;br /&gt;김 이사장은 취임사에서 “사회적·경제적 약자의 정당한 권리보호를 위해 최선을 다하는 기본과 원칙에 충실한 유능한 공단이 될 것”이라며 “특히 고객 우선이라는 자세로 공단을 찾는 분들을 더욱 친절하게 배려하고 사후관리를 철저히 해 국민의 만족도를 높이고 분쟁의 종국적 해결을 위해 최선을 다 할 것”이라고 말했다.&lt;br /&gt;&lt;br /&gt;이어 “인공지능을 비롯한 기술의 발달과 변호사 수의 증가에 따라 법률 분야는 도전과 변화에 직면하고 있어, 법률 지원이 필요한 사각지대를 발굴해 국민에게 실질적 도움이 되는 유연하고 전문성이 우수한 공단을 만들겠다”고 덧붙였다.&lt;/p&gt;</description>
 			<pubDate>Tue, 22 Apr 2025 01:30:20 -0000</pubDate>
@@ -209,34 +239,6 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/207331</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/207331.jpg</media:thumbnail>
 			<dc:creator>박수연 기자</dc:creator>
-		</item>
-		<item>
-			<title>사법 선진국은 법관 급여에 신경 … 미국·영국은 3억~5억 원 수준</title>
-			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/thumb/180/207329.jpg" alt="23525.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;해외 주요 사법 선진국들은 법관의 급여 수준을 상대적으로 높게 책정하고 있다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;사법정책연구원(원장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="9060"&gt;이승련&lt;/span&gt;)이 발간한 연구보고서 등에 따르면, 미국 연방법원의 법관은 연방의회가 정한 급여와 보수를 지급받는다. 이 급여는 연방의회 의원 및 고위 공무원의 급여와 대등한 수준으로 책정된다. 2022년 기준으로 미국 연방대법원장의 연봉은 28만6700달러(약 4억636만 원), 연방대법관은 27만4200달러(약 3억8859만 원), 연방항소법원 법관은 23만6900달러(약 3억3573만 원), 연방지방법원 법관은 22만3400달러(약 3억1664만 원)이다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;주법원 법관의 보수는 각 주의 법률에 따라 정해진다. 대부분의 주에서는 법관이 일정 요건을 충족하면 퇴직 후 연금을 받을 수 있는 제도를 운영하고 있으며, 재직 기간과 퇴직 당시의 연령에 따라 현직 때 급여의 최대 70~80%까지 연금으로 수령할 수 있다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;영국은 법관을 직급별로 세분화해 차등 보수를 지급하고 있다. 2023년 4월 기준 연봉은 1등급(Lord Chief Justice)이 29만4821파운드(약 5억5472만 원), 1.1등급(대법원장, 항소법원 민사부장 등)이 26만3256파운드(약 4억9533만 원), 2등급(부대법원장, 대법관, 고급법원 각 부의장)이 25만4274파운드(약 4억7843만 원), 3등급(항소법원 법관)이 24만1796파운드(약 4억5495만 원), 4등급(고등법원 법관)이 21만2351파운드(약 3억9955만 원), 5등급(상급 순회판사)이 17만304파운드(약 3억2043만 원), 5.1등급(상급심 법원 판사 등)이 16만 4015파운드(약 3억860만 원), 5.2등급(순회판사)이 15만7705파운드(약 2억9673만 원), 7등급(지방판사)이 12만6514파운드(약 2억3804만 원)의 급여를 받는다. 원화로 환산하면 연봉 2억3000만 원에서 5억5000만 원 수준이다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;벨기에도 법관의 급여 수준이 높은 편이다. 2022년 6월 기준 초임 법관의 월급은 6092.12유로(약 981만 원), 경력 12년차 법관은 7571.11유로(약 1220만 원)를 받는다. 법관의 보수는 벨기에 공무원 중 가장 높은 수준이며, 22년간 근무한 법관은 정년 후 직전 5년간 평균 임금의 75%를 연금으로 수령할 수 있다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;싱가포르도 법관의 급여 수준을 로펌 업계 최고 연봉자들과 큰 차이가 나지 않도록 유지하고 있다. 싱가포르 정부는 매년 법관의 급여 수준을 점검하고 조정하는 체계를 운영하고 있다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;   &lt;b&gt;박수연 기자&amp;nbsp; &amp;nbsp;sypark@lawtimes.co.kr&lt;/b&gt;&lt;/p&gt;&lt;p&gt;   &lt;b&gt;안현 기자&amp;nbsp; hyun@lawtimes.co.kr&lt;/b&gt;&lt;/p&gt;</description>
-			<pubDate>Sun, 20 Apr 2025 20:08:36 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/207329</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/207329</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/207329.jpg</media:thumbnail>
-			<dc:creator>박수연 기자</dc:creator>
-		</item>
-		<item>
-			<title>[판결] 경남FC 전력강화팀 과장 해고 '부당'…법원 "선수 선급금 면제, 독단 아냐"</title>
-			<description>외국인 선수를 다른 구단으로 이적시키며 선수에게 지급했던 선급금 반환을 임의로 면제해줬다는 이유로 경남FC가 전력강화팀 과장을 해고한 것은 부당해고라는 법원 판결이 나왔다.&lt;br /&gt;&lt;br /&gt;서울행정법원 행정13부(재판장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="714"&gt;박정대&lt;/span&gt;&amp;nbsp;부장판사)는 1월 23일 경남FC가 중앙노동위원회 위원장을 상대로 낸 부당해고구제재심판정취소소송에서 원고 패소 판결했다(&lt;b&gt;2023구합88016&lt;/b&gt;). 전력강화팀 과장 A 씨는 경남FC로부터 해고 통보를 받은 직후 경남지방노동위원회(이하 지노위)에 구제 신청을 했고, 지노위는 A 씨의 손을 들어줬다. 경남FC는 이에 불복해 중앙노동위원회(이하 중노위)에 재심을 신청했으나, 중노위는 지노위와 같은 이유로 재심 신청을 기각했다. 결국 경남FC는 행정법원에 소송을 제기했다. &lt;br /&gt;&lt;b&gt;&lt;br /&gt;[사실 관계]&lt;/b&gt;&lt;br /&gt;2021년 1월 경남FC는 에르난데스, 윌리안과 입단계약을 체결했다. 당시 A 씨는 경남FC와 외국인 선수 간 가계약서 작성을 도왔다. 가계약서에는 바이아웃(다른 구단으로 이적 시 그 구단이 일정 금액 이상의 이적료를 제시하면, 선수의 소속 구단을 거치지 않고 선수와 협의하면 된다는 내용) 약정이 규정돼 있었으나, 이후 작성된 본계약서에는 바이아웃 약정이 명시적으로 존재하지 않았다.&lt;br /&gt;&lt;br /&gt;경남FC는 2022년 1월 에르난데스와 윌리안에게 연봉 선지급금을 지급했다. 이후 에르난데스는 2022년 6월 대전하나시티즌와 가계약서에 명시된 바이아웃보다 높은 금액으로 이적에 합의했고, 2022년 7월 윌리안 역시 바이아웃보다 많은 금액으로 인천유나이티드FC 이적을 결정했다. 경남FC는 이 과정에서 A 씨가 양수 구단으로부터 높은 이적료를 지급 받는 대신, 외국인 선수로부터 받아야 할 선급금을 임의로 면제해줬다고 주장했다.  &lt;br /&gt;&lt;br /&gt;결국 A 씨는 2023년 2월 경남FC로부터 ①출장 여비 허위 청구 및 과다지급 ②원정 경기 숙박비 부당 수령 ③외국인 선수 2명을 다른 구단으로 이적 계약 추진하면서 외국인 선수 2명에게 선지급 된 급여를 구단의 동의 없이 반환 받지 않게 했다는 이유로 해고됐다.&lt;br /&gt;&lt;br /&gt;지노위와 중노위는 ①, ② 징계사유는 인정된다고 했으나 ③ 징계사유는 인정되지 않고, 징계해고 결정은 양정이 과중하다고 판정했다. 경남FC는 이에 불복해 행정소송을 제기했다. 경남FC와 A 씨는 소송에서 ③ 징계사유만 다퉜다.&lt;br /&gt;&lt;b&gt;&lt;br /&gt;[법원 판단]&lt;/b&gt;&lt;br /&gt;법원은 A 씨의 주장을 받아들였다. 재판부는 "A 씨가 경남FC로부터 받은 징계사유는 '다른 구단에서 바이아웃보다 높은 이적료를 지급받는 대신 선수로부터 반환 받았어야 할 선지급분 급여를 임의로 면제했다는 것'"이라며 "에르난데스의 이적 계약 당시 A 씨가 전력강화팀장 B 씨에게 선지급금 및 상계처리를 보고하는 내용의 통화 녹취가 있고, 윌리안의 이적도 같은 방식으로 진행됐을 것"이라고 설명했다. 재판부는 "합의서에 대표이사의 직인이 날인돼 있고, 이것은 대표이사가 선지급금 상계처리를 승인하는 의미"라고도 덧붙였다. &lt;br /&gt;&lt;br /&gt;재판부는 "만일 선지급금 상계처리를 A 씨가 독단적으로 했다면, 이후 감사가 이뤄질 당시 외국인 선수 선지급금 관련한 일을 문제 삼지 않은 것은 이해하기 어렵다"고 판단했다. 또 "A 씨가 상부에 보고하지 않거나, 상부의 반대에도 불구하고 독단적으로 이적료를 상계처리 했을 동기가 보이지 않는다"고 밝혔다. &lt;br /&gt;&lt;br /&gt;아울러 "경남FC는 외국인 선수와의 바이아웃 약정이 존재하지 않았다고 주장하는데, 바이아웃 약정은 존재했음을 인정할 수 있다"고 판단했다. 재판부는 "본계약서에 바이아웃이라는 문구가 존재하지 않는 것은 사실이나, 명시적 문구가 누락된 것에 불과하다"며 "상급자들은 바이아웃에 관한 내용을 충분히 인지할 수 있었다"고 봤다.&lt;br /&gt;</description>
-			<pubDate>Sun, 20 Apr 2025 00:06:30 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/207324</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/207324</guid>
-			<dc:creator>박수현 기자</dc:creator>
-		</item>
-		<item>
-			<title>[판결] '청주간첩단' 사건 피고인 국정원 정보공개소송 일부 승소</title>
-			<description>‘충북동지회 국가보안법 위반 의혹’ 사건(청주 간첩단 사건)의 피고인이 국가정보원을 상대로 낸 정보공개 소송에서 최종 일부 승소했다. 국정원 내부 지침인 ‘정보활동 기본 지침’과 관련해 항소심은 국정원이 공개를 거부한 6·7·11조를 제외한 나머지 부분의 거부 처분을 취소했는데, 대법원도 이 같은 판단에 문제가 없다고 보고 원심을 확정했다. 대법원 특별1부(주심&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="1287"&gt;노경필&amp;nbsp;&lt;/span&gt;대법관)는 A 씨가 국정원장을 상대로 제기한 정보 비공개 처분 취소 소송 상고심에서 원고 일부 승소 판결한 원심을 3월 27일 확정했다(&lt;b&gt;2024두42291&lt;/b&gt;).&lt;br /&gt;&lt;b&gt;&lt;br /&gt;[사실관계]&lt;/b&gt;&lt;br /&gt;충북동지회는 북한으로부터 2만 달러 상당의 공작금을 받아 국내 정세 등을 보고한 혐의로 재판에 넘겨졌다. A 씨는 이 단체의 연락책이었는데 2021년 9월 다른 간부 3명과 같이 국가보안법 위반(특수잠입 및 탈출), 범죄단체 조직 등 혐의로 기소됐다.&lt;p&gt;&lt;br /&gt;청주지법에서 1심 재판을 받던 A 씨는 국정원이 자신을 2003년부터 장기간 불법 사찰하고 위법하게 수집한 증거를 근거로 기소했으니 수사 절차의 적법성을 확인할 필요가 있다며 2021년 10월 18일 국정원에 정보활동기본지침 공개를 청구했다. 2020년 개정된 국정원법은 국정원의 대공수사권을 폐지하고 직무수행의 원칙·범위∙절차 등을 해당 지침에 담도록 규정한다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;국정원은 ‘공공기관의 정보공개에 관한 법률(정보공개법)’에 따라 △국정원의 조직 정보 △국가안보에 중대한 이익을 현저히 해칠 우려가 있는 비공개 정보라는 이유로 공개를 거부했다. A 씨는 이에 “해당 지침은 국정원 조직 및 국가 안전 보장과 직접적 관련이 없다”며 행정소송을 냈다.&lt;br /&gt;&lt;b&gt;&lt;br /&gt;[하급심 판단]&lt;/b&gt;&lt;br /&gt;1심은 총 12개 조문으로 구성된 정보활동기본지침을 비공개 열람한 뒤, 구체적 업무처리 방식을 담은 제7조를 제외한 나머지 11개 조항은 국민의 알 권리 보장을 위해 공개돼야 한다고 판단했다. 1심은 제7조에 대해 “국정원의 구체적 정보활동 절차에 관한 것으로, 공개될 경우 정보활동의 상대방이 국정원의 업무처리 방식과 내용을 사전에 인지하고 대응함으로써 국정원의 정당한 업무수행에 지장을 초래할 우려가 있다”며 “국정원이 공개를 거부한 것은 적법하다”고 밝혔다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;항소심은 제7조에 더해 제6조와 제11조도 비공개 대상에 해당한다고 판단했다. 항소심은 “지침 제6조는 국정원이 직무수행과 관련해 취할 수 있는 조치의 범위를 구체화한 것으로, 공개될 경우 국가의 중대한 이익을 현저히 해칠 우려가 있다고 인정되는 정보”라고 밝혔다. 제11조에 대해서도 “국정원의 정보활동 보호를 위해 직원이나 국정원이 취할 수 있는 각종의 조치 등을 규정한 것으로 공개될 경우 국정원의 정당한 업무수행에 지장을 초래할 우려가 있다”고 판단했다.&lt;br /&gt;&lt;b&gt;&lt;br /&gt;[대법원 판단]&lt;/b&gt;&lt;br /&gt;대법원은 “원심 판결 이유를 관련 법리와 기록에 비추어 살펴보면, 원심 판단은 정당하다”며 “국정원이 상고이유로 주장하는 바와 같은 비공개대상정보 해당 여부에 대한 법리오해의 잘못이 없다”며 원심을 확정했다.&lt;br /&gt;&lt;b&gt;&lt;br /&gt;[관련 재판 현황]&lt;/b&gt;&lt;br /&gt;A 씨는 2024년 9월 1심에서 징역 14년을 선고받고 항소심이 진행 중이다. 다른 간부 3명은 3월 13일 대법원에서 징역 2~5년을 확정받았다.&lt;/p&gt;</description>
-			<pubDate>Sun, 20 Apr 2025 00:06:26 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/207315</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/207315</guid>
-			<dc:creator>홍윤지 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
