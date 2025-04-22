@@ -13,6 +13,24 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>강남 테슬라 사이버트럭에 발길질 남성, 중국인 관광객이었다</title>
+      <link>https://www.chosun.com/national/national_general/2025/04/23/4EMLDTUIXVHDZK2UGIO6GGMHBY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/23/4EMLDTUIXVHDZK2UGIO6GGMHBY/</guid>
+      <dc:creator>이가영 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 22 Apr 2025 23:07:14 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YRHOP6OYWZGLFLX6MJOX67M4GM.gif"&gt;&lt;figcaption&gt;&lt;small&gt;지난 15일 오전 2시쯤 30대 중국인 관광객이 서울 강남구 논현동에서 모 병원 소유의 사이버트럭을 발로 차 사이드미러를 부수고 달아난 혐의를 받는다. /병원 스레드&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 강남에서 1억원 상당의 테슬라 사이버트럭 등 수입차 5대를 발로 찬 30대 남성이 중국인 관광객으로 밝혀졌다. &lt;br&gt;&lt;br&gt;서울 강남경찰서는 특수폭행, 재물손괴, 업무방해 등 혐의로 구속된 30대 남성 A씨가 여행 비자로 입국한 중국인이라고 23일 밝혔다. &lt;br&gt;&lt;br&gt;경찰에 따르면 A씨는 지난 15일 오전 2시쯤 논현동 호텔에 묵다가 직원을 손전등으로 폭행하는 등 난동을 부리고 배달용 오토바이를 쓰러트린 후, 인근 모 병원 소유의 사이버트럭을 발로 차 사이드미러를 부수고 달아난 혐의를 받는다. 또 인근 BMW 매장으로 이동해 시승용 차량 4대를 발로 차 조수석 쪽 문을 부순 혐의도 있다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LVVF7WHOUVES3ONXVR55QGWB6Y.png"&gt;&lt;figcaption&gt;&lt;small&gt;A씨의 발길질로 파손된 사이버트럭 사이드미러 모습. /JTBC&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;A씨는 트럭을 부수는 범행 10분 전에는 편의점에서 직원에게 폭언하고 전자담배를 훔치는 등 난동을 부린 것으로 알려졌다. &lt;br&gt;&lt;br&gt;경찰은 지난 18일 오후 A씨를 경기 성남에서 긴급 체포했으며 다음 날 구속영장을 발부받았다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>현영, 명품 사은품 판매 논란…“불법 아니다” 해명</title>
+      <link>https://www.chosun.com/national/national_general/2025/04/23/JZW2QMPZ4ZD4PGADPUYGRPJCCE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/23/JZW2QMPZ4ZD4PGADPUYGRPJCCE/</guid>
+      <dc:creator>김자아 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 22 Apr 2025 22:31:08 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6GQ5O7WXDFG5HOPPR6SN6DXI2M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;방송인 현영./온라인 커뮤니티&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;방송인 현영이 명품 브랜드의 사은품을 판매했다가 논란이 일자 해명했다. &lt;br&gt;&lt;br&gt;현영은 22일 자신의 소셜미디어(SNS)를 통해 “지난달에 소개해드렸던 디올 제품 관련해서 몇 가지 공지해 드리겠다”며 글을 올렸다.&lt;br&gt;&lt;br&gt;그는 “고객님들이 선호할 수 있는 제품을 소개해 드리기 위해 정식 구매 대행업체를 통해서 구매 대행 소개 수수료를 받고 소개해드린 이벤트 제품”이라고 했다. 즉 사은품이 아니라, 정식 통관 루트를 거쳐 들어온 제품을 판매한 것이라는 설명이다.&lt;br&gt;&lt;br&gt;현영은 “앞으로도 고객님들이 만족도 높은 쇼핑을 하실 수 있도록 직원 모두 더욱더 열심히 노력하겠다”고 덧붙였다.&lt;br&gt;&lt;br&gt;의류 사업으로 ’80억원 매출’을 달성하며 성공한 사업가로 주목받은 현영은 현재 뷰티 브랜드를 운영하며 SNS를 통해서도 공동구매(공구) 등을 진행하고 있다.&lt;br&gt;&lt;br&gt;앞서 현영은 최근 자신의 SNS를 통해 진행한 라이브 방송에서 명품 브랜드 디올에서 사은품을 판매했다. 사은품은 핑크색 디올 파우치와 미니 사이즈의 파운데이션, 립글로즈, 마스카라, 향수로 구성된 4종 키트였다.&lt;br&gt;&lt;br&gt;그는 “매장에서 많이 구매한 VIP 고객만 받는 한정 어메니티로 나온 제품이다. 저는 8만5000원에 판매할 수 있다. QR코드도 있고, 디올 정품”이라고 소개했다.&lt;br&gt;&lt;br&gt;게시글을 통해서도 “국내 백화점에서 17만원 구매 고객에게 파우치만 증정한다. 현재 품절 대란템”이라며 “키트 4종은 1종류당 12만원씩 총 48만원을 구매해야만 증정 가능하다. (판매 상품은) 총 65만원 구매 고객이 받는 사은품”이라고 설명했다.&lt;br&gt;&lt;br&gt;일부 네티즌들 사이에서 “사은품을 되파는 것은 불법 아니냐”는 지적이 나왔으나, 현영은 “아니다”라고 했다. &lt;br&gt;&lt;br&gt;현행법상 사은품은 법적으로 판매나 나눔이 금지되지 않는다. 다만 미니어처 화장품이 브랜드가 제공하는 샘플일 경우 화장품법 제16조 및 제37조에 따라 1년 이하의 징역 또는 1000만원 이하의 벌금에 처해질 수 있다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>응급실 지키다가… 10분 만에 준비해 화재 현장으로</title>
       <link>https://www.chosun.com/opinion/specialist_column/2025/04/23/GYP6DHSJ7RCXJMKSA4NSOMXDDQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/opinion/specialist_column/2025/04/23/GYP6DHSJ7RCXJMKSA4NSOMXDDQ/</guid>
@@ -758,15 +776,6 @@
       </media:content>
     </item>
     <item>
-      <title>[부음] 문상호 前 국회의장 비서실장 별세 외</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2025/04/22/ZYSSWTM7FRATBOX5F4GK2N6VSQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2025/04/22/ZYSSWTM7FRATBOX5F4GK2N6VSQ/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Mon, 21 Apr 2025 15:53:00 +0000</pubDate>
-      <content:encoded>▲&lt;b&gt;문상호&lt;/b&gt; 前 국회의장 비서실장 별세, &lt;b&gt;박순옥&lt;/b&gt; 남편상, &lt;b&gt;문선영&lt;/b&gt;·&lt;b&gt;문일수&lt;/b&gt;·&lt;b&gt;문선애&lt;/b&gt;·&lt;b&gt;문선원&lt;/b&gt; 부친상, &lt;b&gt;진영휘&lt;/b&gt;·&lt;b&gt;한기훈&lt;/b&gt;·&lt;b&gt;유세근&lt;/b&gt; 장인상, &lt;b&gt;조윤미&lt;/b&gt; 시부상=21일12시55분 신촌세브란스병원, 발인 23일8시, (02)2227-7500&lt;br&gt;&lt;br&gt;▲&lt;b&gt;이연수&lt;/b&gt; 별세, &lt;b&gt;임삼례&lt;/b&gt; 남편상, &lt;b&gt;이찬규&lt;/b&gt; 중앙대 행정부총장·&lt;b&gt;이형규&lt;/b&gt;·&lt;b&gt;이진규&lt;/b&gt;·&lt;b&gt;이인규&lt;/b&gt;·&lt;b&gt;이혜정&lt;/b&gt; 부친상, &lt;b&gt;김인봉&lt;/b&gt; 장인상, &lt;b&gt;은애란&lt;/b&gt;·&lt;b&gt;박춘옥&lt;/b&gt;·&lt;b&gt;박명옥&lt;/b&gt; 시부상=20일6시18분 분당서울대병원, 발인 22일5시, (031)787-1503&lt;br&gt;&lt;br&gt;▲&lt;b&gt;정병채&lt;/b&gt; 별세, &lt;b&gt;정찬숙&lt;/b&gt;·&lt;b&gt;정찬우&lt;/b&gt; 前 한국거래소 이사장·&lt;b&gt;정찬수&lt;/b&gt;·&lt;b&gt;정현주&lt;/b&gt; 부친상=21일16시8분 신촌세브란스병원, 발인 24일7시, (02)2227-7500&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>이영우 前 서울대병원장 별세</title>
       <link>https://www.chosun.com/national/obituary-personnel/2025/04/22/U2ZJALDPQNAXJOVEMEGF2GQL2M/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2025/04/22/U2ZJALDPQNAXJOVEMEGF2GQL2M/</guid>
@@ -774,15 +783,6 @@
       <description/>
       <pubDate>Mon, 21 Apr 2025 15:53:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/A7ZVXYWXG5AOTCOX73LDLXMUZA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이영우(89) 전 서울대병원장이 지난 21일 별세했다. 이 병원장은 1960년 서울대 의대를 졸업한 후 서울대병원 내과 과장, 서울대분당병원 추진본부장 등을 지냈다. 1995년부터 1998년까지 서울대병원 제10대 원장을 지냈다. 대한순환기학회 회장 및 대한내과학회 회장을 역임하면서 순환기학 발전에 크게 기여했다. 고혈압과 동맥경화증 분야에서도 많은 연구 업적을 남겼다. 유족은 아내 유초선씨, 장남 이상훈씨, 장녀 이상미씨, 차남 이상권씨. 빈소 서울대병원 장례식장, 발인 24일 오전 8시. (02)2072-2020&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>오늘 지구의 날… “다함께 플라스틱 줄여요”</title>
-      <link>https://www.chosun.com/national/national_general/2025/04/22/PYJZH6OBL5F7HDWCETFFYT5BBY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/22/PYJZH6OBL5F7HDWCETFFYT5BBY/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Mon, 21 Apr 2025 15:53:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CVT6MNESLRAGZCCR7H77IQO5GA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘지구의 날’을 하루 앞둔 21일 오후 경기 수원시 영통구 수원시자원순환센터. 플라스틱 페트병 등 폐기물이 가득 쌓여 있다. 작업 차량이 폐기물을 밀어내고 있다. 지구의 날은 1969년 미국 캘리포니아주에서 발생한 원유 유출 사고를 계기로 1970년 제정됐다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[신문은 선생님] [재미있는 과학] 전파에 담아 우주로 보낸 K팝, 외계인이 들을 수 있을까요</title>
