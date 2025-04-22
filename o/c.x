@@ -13,6 +13,82 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>핸들 뽑고 폭죽 쏘며 ‘빙빙’... 외국인 폭주족 42명 검거</title>
+      <link>https://www.chosun.com/national/incident/2025/04/22/YWPCGGW2UFATPJAZKZSJ7OK4EA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/04/22/YWPCGGW2UFATPJAZKZSJ7OK4EA/</guid>
+      <dc:creator>수원=김현수 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 22 Apr 2025 12:15:56 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UM6E5XC43QSG2NH34T73J3DKZI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;A 씨 등의 범행 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 화성과 안산, 평택 등의 도로에서 난폭 운전을 한 외국인 폭주족이 경찰에 붙잡혔다. 이들은 카자흐스탄, 우즈베키스탄, 러시아 등 국적의 근로자로 한밤중 인적이 드문 도로에서 레이싱(달리기 경주), 드리프트(급커브를 도는 기술) 등을 한 것으로 조사됐다. 일부는 달리던 차량에서 핸들을 뽑아 창밖으로 내보이며 자랑하거나 하늘을 향해 폭죽을 쏘기도 했다.&lt;br&gt;&lt;br&gt;경기남부경찰청은 공동위험행위 및 도로교통법 위반 등 혐의로 외국인 근로자 등 42명을 검거했다고 21일 밝혔다. 주범으로 지목된 카자흐스탄 국적의 A(20대)씨는 구속 송치했다.&lt;br&gt;&lt;br&gt;A씨 등은 지난해 3월부터 11월까지 약 70차례에 걸쳐 난폭 운전을 한 혐의를 받고 있다. 새벽 시간 인적이 드문 공단 주변의 대로를 택했다. 이들은 폭주 영상을 촬영해 소셜미디어에 올리며 참가자를 모은 것으로 조사됐다. 영상 촬영에는 드론도 동원했다. &lt;br&gt;&lt;br&gt;이들이 올린 영상을 보면, 개조한 차량들이 흰 연기를 내뿜으며 텅 빈 대로 한가운데를 빙빙 돌거나 레이싱 경주를 벌였다. 복면을 쓴 사람이 조수석 창문에 걸터앉은 채로 드리프트를 하는 모습도 있다. 드리프트 장면을 촬영하던 사람이 차량에 치일 뻔하기도 했다. 도로 바닥에는 차량의 타이어 자국이 어지럽게 남았다.&lt;br&gt;&lt;br&gt;이들은 소셜미디어를 통해 모였으며 경찰이 출동하면 흩어지는 방식으로 단속을 피한 것으로 알려졌다. &lt;br&gt;&lt;br&gt;경찰은 “외국인들이 대로를 막고 드리프트를 해 무섭다”는 시민 제보를 받고 소셜미디어 운영자 B(30대 카자흐스탄인)씨의 집을 압수수색했다. 여기서 확보한 영상 700여 개를 분석해 불법 행위 70여 건을 확인했다.&lt;br&gt;&lt;br&gt;이번에 검거된 42명 중 29명이 외국인으로, 국적은 카자흐스탄 10명, 우즈베키스탄 8명, 러시아 8명, 키르기스스탄 2명, 몽골 1명 등이다. 한국인 직장인과 대학생 등도 검거됐다.&lt;br&gt;&lt;br&gt;A씨와 B씨는 불법 체류자인 것으로 조사됐다. &lt;br&gt;&lt;br&gt;A씨는 경찰 조사에서 “외국인 근로자들에게 중고차를 파는데 차량을 홍보하기 위해 드리프트 영상을 찍어 올렸다”고 진술한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/NHLODB4BGVF75ABVMBH7MGEO2U.JPG?width=272&amp;height=153&amp;auth=92b1ae9268407c62d0326de434b0cd57c5e92957f452ce809bf99691aee320fb&amp;smart=true" type="image/jpeg" height="153" width="272">
+        <media:description type="plain">A 씨 등의 범행 모습. (경기남부경찰청 제공. 재판매 및 DB 금지) 2025.4.22/뉴스1</media:description>
+        <media:credit role="author" scheme="urn:ebu">뉴스1</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>건진법사, ‘김여사 선물용’ 6000만원 목걸이 받은 의혹</title>
+      <link>https://www.chosun.com/national/2025/04/22/SFEFIBDKIZEH5BQGVSFBSQS3RY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2025/04/22/SFEFIBDKIZEH5BQGVSFBSQS3RY/</guid>
+      <dc:creator>고유찬 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 22 Apr 2025 12:14:24 +0000</pubDate>
+      <content:encoded>서울남부지검 가상자산범죄합동수사단(단장 박건욱)은 무속인 ‘건진법사’ 전성배(65)씨가 윤석열 전 대통령 배우자 김건희 여사 ‘선물용’이라면서 6000만원대 명품 다이아몬드를 받아 전달한 정황을 수사하고 있는 것으로 22일 전해졌다. 다만 전씨는 검찰 조사에서 “목걸이를 김 여사에게 전달한 적은 없다”고 진술한 것으로 전해졌다. 검찰은 전씨가 김 여사에게 금품을 제공한 대가로 인사·공천 청탁을 한 적이 있는지를 조사하겠다는 계획이다.&lt;br&gt;&lt;br&gt;검찰은 지난 20일 오후 피의자 신분으로 전씨를 소환 조사했다. 앞서 전씨는 2018년 지방선거 당시 경북 영천시장 예비 후보자에게서 불법 정치 자금 1억원을 받은 혐의로 지난 1월 기소됐었다. 검찰은 전씨가 사용했던 이른바 ‘법사폰’을 조사하는 과정에서 통일교(현재 세계평화통일가정연합) 전 관계자 윤모 전 본부장이 ‘김 여사 선물’이라며 최고가 목걸이를 전씨에게 전달한 기록을 포착한 것으로 전해졌다. 검찰은 전씨가 인사 청탁과 또 다른 공천 청탁에도 관여했을 가능성을 두고 수사 범위를 확대하겠다는 계획이다. &lt;br&gt;&lt;br&gt;검찰은 전씨가 2022년 윤석열 국민의힘 대선 후보 선거대책본부 내 네트워크본부에서 ‘고문’으로 일한 인연을 바탕으로 추가 인사·공천 청탁을 시도했는지도 확인하고 있는 것으로 전해졌다. 앞서 윤 전 대통령은 대선 과정에서 전씨가 ‘무속 비선’이라는 의혹이 제기되자 캠프에서 직책을 맡은 적이 없다고 했었다. 그러나 전씨는 “윤 전 대통령과 윤한홍 국민의힘 의원 등 여권 인사들과 친분이 있다”고 진술한 것으로 전해졌다. 하지만 윤 의원은 지난 18일 소셜미디어 글에서 “언론에서 제기하는 여러 의혹과 관련해 (전씨와) 대가 등 금전 거래를 했던 사실이 없다”고 했다.&lt;br&gt;&lt;br&gt;검찰은 전씨의 ‘법사폰’을 통해 지난해 9월부터 12월까지 전씨가 김건희 여사의 모친인 최은순씨와 10차례 통화한 사실도 파악한 것으로 전해졌다. 전씨는 과거 김 여사가 운영하던 전시 기획 업체 ‘코바나컨텐츠’에서 고문을 맡았었다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“생계비 보장” vs “업종별 차등”... 내년도 최저임금 심의 시작</title>
+      <link>https://www.chosun.com/national/labor/2025/04/22/BAMSUCU4E5A6NENTWVCEUAO75E/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/labor/2025/04/22/BAMSUCU4E5A6NENTWVCEUAO75E/</guid>
+      <dc:creator>정해민 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 22 Apr 2025 12:10:55 +0000</pubDate>
+      <content:encoded>최근 물가 상승과 미국발(發) 무역 전쟁 여파가 이어지는 가운데 내년도 최저임금 심의가 22일 시작됐다. 올해 최저임금이 시간당 1만30원으로 사상 처음 1만원을 넘긴 상황에서 내년 최저임금 인상률이 얼마로 결정될지 주목된다. &lt;br&gt;&lt;br&gt;고용노동부 산하 최저임금위원회(최임위)는 이날 정부세종청사에서 1차 전원 회의를 열었다. 근로자 위원은 실질 임금 감소에 따른 최저임금 인상 필요성을 주장했고, 사용자 위원은 경기 침체와 경영 불확실성 증가로 인한 동결 필요성을 주장한 것으로 알려졌다. &lt;br&gt;&lt;br&gt;양대 노총은 이날 기자회견에서 “최저임금을 생계비 보장 수준으로 현실화하고, 최저임금 사각지대에 있는 특수 고용·플랫폼 노동자의 적용 대상을 확대해야 한다”고 했다. 현재 택배·배달 기사 등 특수 고용 노동자와 플랫폼 노동자 등 도급 근로자는 최저임금을 적용받지 않고 성과에 따라 임금을 받는다. 류기섭 한국노총 사무총장은 “(올해는) 내란 사태와 탄핵, 조기 대선으로 이어지는 정치적 격변기 속에서 최저임금 심의를 진행하게 됐다”며 “이번 심의 결과는 새 정부의 노동 정책을 평가하는 첫 번째 가늠자가 될 것”이라고 주장했다.&lt;br&gt;&lt;br&gt;반면 류기정 한국경영자총연합회 전무는 “최저임금 논의는 한계에 다다른 영세 중소기업과 소상공인의 지불 능력을 충분히 고려해야 한다”며 “업종별 구분 적용도 보다 진전된 결과를 반드시 도출할 때라고 생각한다”고 했다. 최임위가 정리한 실태 조사에 따르면, 상시 근로자 300인 미만 사업주 60.4%는 내년 최저임금으로 ‘동결’을 요구했다.&lt;br&gt;&lt;br&gt;특히 중소기업과 소상공인 업계에선 간이 음식점업, 택시 운송업, 편의점업 등 취약 업종에 최저임금을 차등 적용해야 한다고 주장하고 있다. 업종별 차등화는 현행법에 명시돼 있어 법 개정 없이도 시행 가능하지만, 1988년 한 해만 적용됐다. 지역별·연령별 차등화 필요성도 제기된다. 미국·일본·독일·영국·네덜란드 등에선 업종·지역·연령별 최저임금 차등화를 다양하게 시행하고 있다.&lt;br&gt;&lt;br&gt;올해 최저임금(시간당 1만30원)은 전년 대비 1.7% 올라 사상 처음 1만원을 넘었다. 문재인 정부 때인 2018년 최저임금은 7530원으로 16.4% 올랐고, 2019년 8350원(인상률 10.9%), 2020년 8590원(2.87%), 2021년 8720원(1.5%), 2022년 9160원(5.05%), 2023년 9620원(5%), 2024년 9860원(2.5%)으로 이어졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>이재명 대장동 재판, 대선 일주일 전에도 열린다</title>
+      <link>https://www.chosun.com/national/court_law/2025/04/22/PS37DC6BPJHSPABNJGOMM2ETUI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/04/22/PS37DC6BPJHSPABNJGOMM2ETUI/</guid>
+      <dc:creator>김나영 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 22 Apr 2025 12:00:23 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/236BOXKYVPE6NTFX6MY3BLJLEY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대권 도전에 나선 이재명 더불어민주당 전 대표가 22일 오전 서울 서초구 서울중앙지방법원에서 열린 '대장동 배임 및 성남FC 뇌물' 1심 속행 공판에 출석하며 지지자들에게 손인사를 하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대장동·위례·백현동·성남FC 사건에서 피고인으로 재판을 받는 이재명 더불어민주당 전 대표의 재판이 대통령 선거를 일주일 앞두고도 진행된다. 다만 재판부는 5월 중 이미 잡아둔 날짜 외에 추가로 기일을 지정하진 않았다.&lt;br&gt;&lt;br&gt;서울중앙지법 형사33부(재판장 이진관)는 22일 이 전 대표와 정진상 전 민주당 정무조정실장의 대장동 재판을 진행했다. 해당 재판은 지난 2월 법관 정기 인사로 재판장과 배석 판사 2명이 모두 교체돼 재판 갱신 절차를 진행 중이다.&lt;br&gt;&lt;br&gt;이날 재판부는 갱신 절차를 마무리한 뒤 재판 일정과 관련해서 “기존 지정된 (13일과 27일) 기일대로 진행하겠다”며 추가 공판기일을 잡지 않겠다고 밝혔다. 재판부는 앞선 재판에서 내달 23일에도 재판을 진행하는 것이 어떠냐고 제시했는데, 이 전 대표 측은 선거가 임박한 시점이라며 난색을 표한 바 있다. 다만 대선 일주일 전인 내달 27일에는 예정대로 재판이 진행된다.&lt;br&gt;&lt;br&gt;이날 양측은 재판 진행 절차를 두고 신경전을 벌이기도 했다. 피고인 측은 증거 조사 절차와 관련해서 “핵심적이고 중요한 증거가 수사 초기에 제출된 정영학 녹취록”이라며 “녹음 파일을 법정에서 직접 재생해서 들었으면 한다”라고 주장했다. 그러자 검찰 측은 “입증계획에 따라 주요 증인의 증언을 먼저 듣고 필요한 부분에 있어서는 서면 증거나 녹음파일을 추가적으로 입증하는 것이 바람직하다”라고 반박했다.&lt;br&gt;&lt;br&gt;한편 이날 대법원은 이 전 대표의 공직선거법 위반 상고심을 전원합의체로 심리하기로 결정한 뒤 합의 기일을 열었다. 주심은 박영재 대법관이 맡았다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>봉천동 방화범, ‘세차 건’으로 불 질렀을 가능성</title>
+      <link>https://www.chosun.com/national/national_general/2025/04/22/C7OMXAQO35AV3MMEDN7WHHUNQY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/22/C7OMXAQO35AV3MMEDN7WHHUNQY/</guid>
+      <dc:creator>박정훈 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 22 Apr 2025 12:05:02 +0000</pubDate>
+      <content:encoded>지난 21일 서울 관악구 봉천동 아파트에서 발생한 방화 사건 현장에 대한 합동 감식이 22일 진행됐다. 경찰은 이 불로 숨진 방화 용의자 이모(61)씨가 방화에 쓴 도구가 당초 추정했던 농약 살포기가 아니라 세차장에서 쓰는 고압 분사기일 가능성을 염두에 두고 있는 것으로 전해졌다.&lt;br&gt;&lt;br&gt;서울 관악경찰서는 이날 오전 소방, 한국전기안전공사 등과 방화 사건이 벌어진 아파트에서 합동 현장 감식을 진행했다고 밝혔다. 감식 결과와 인근 CCTV 영상 등을 토대로 정확한 화재 원인을 조사할 방침이다. 경찰은 숨진 이씨의 사인을 확인하기 위해 국립과학수사연구원(국과수)에 부검을 의뢰했다. 경찰은 “이씨가 유서를 남기기는 했지만 정말 자살한 것인지, 방화 중 불이 붙어 숨진 것인지를 파악해야 한다”고 했다. 국과수는 이날 “불로 인한 사망”이라는 1차 구두 소견을 냈다.&lt;br&gt;&lt;br&gt;이날 현장 감식에서는 아파트 내부 곳곳에 설치된 방화문이 열려 있는 상태였다. 법적으로 방화문은 언제나 닫힌 상태를 유지해야 한다. 경찰 관계자는 “의무 위반 사항이 확인되면 안전 관리 책임자를 추가 입건할 방침”이라고 했다.&lt;br&gt;&lt;br&gt;경찰은 용의자 이씨가 불을 지를 때 쓴 도구와 기름통 등도 분석해 달라고 국과수에 요청했다. 경찰 관계자는 “범행 도구가 거의 타버려 육안으로는 확인이 어려운 상황”이라며 “기름통에 들어 있던 액체 성분과 정확한 범행 도구가 무엇인지 정밀 분석을 의뢰했다”고 했다. 앞서 경찰은 이씨가 방화에 사용한 도구가 농약 살포기로 추정된다고 했었다.&lt;br&gt;&lt;br&gt;경찰은 전날 화재 현장에서 이씨의 것으로 추정되는 휴대전화도 확보해 국과수에 디지털 포렌식을 의뢰했다. 경찰은 이를 통해 방화 도구 구매 과정 및 계획 여부 등을 조사할 방침인 것으로 전해졌다. 경찰은 “필요시 이씨 자택 압수 수색도 진행한다는 방침”이라고 했다. &lt;br&gt;&lt;br&gt;경찰에 따르면, 방화 용의자 이씨는 따로 직업이 없고, 정신병력도 없는 것으로 조사됐다. 방화 관련 전과는 없지만 20여 년 전 무면허 음주 운전 전력이 있는 것으로 알려졌다. 관악구는 ‘이재민 현장 접수 창구’를 설치해 피해 가구 현황을 파악한 뒤 이재민을 위한 대피 시설과 급식비 및 숙박비를 지원할 예정이다. 서울주택도시공사에서도 화재로 인한 피해 가구 복구와 주거 이전에 나설 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“홍채 인식하면 현금 2만원” 청소년 유인... 긴급 스쿨벨 발령</title>
+      <link>https://www.chosun.com/national/national_general/2025/04/22/UGT32I7Z5BCA7N4RYEUKMC5SAU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/22/UGT32I7Z5BCA7N4RYEUKMC5SAU/</guid>
+      <dc:creator>구아모 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 22 Apr 2025 11:55:18 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6J3WQKNSJBRS6PN4TPWRVRMVWI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울경찰청 로고. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최근 청소년에게 돈을 준다며 홍채 정보를 요구하는 수법이 퍼지자 경찰이 22일 올해 처음으로 ‘긴급 스쿨벨’을 발령했다. 스쿨벨은 서울 시내 초·중·고 1373교와 학부모 78만 명에게 온라인을 통해 휴대전화 앱으로 주요 소식을 일괄 전파하는 알림 시스템이다.&lt;br&gt;&lt;br&gt;경찰에 따르면 최근 카카오톡 채팅방 등을 통해 “홍채를 인식하면 현금 2만원을 준다”며 미성년자를 유인해 홍채 등 민감한 개인 정보를 수집하는 사례가 늘고 있다. 친구들을 가입시키면 현금을 추가로 지급하는 ‘피라미드 방식’으로 운영되는 것으로 전해졌다. 경찰 관계자는 “홍채 정보는 금융 거래나 본인 인증, 출입 시스템 등에 사용되는 고유 생체 정보”라며 “비밀번호처럼 바꿀 수도 없는 민감 정보라, 한 번 유출되면 평생 악용될 가능성이 있다”고 경고했다.&lt;br&gt;&lt;br&gt;청소년들을 겨냥해 소셜미디어에서 ‘꽝 없는 룰렛 게임’이라 홍보하며 입금을 유도, 이후 당첨금을 지급하지 않거나 계정을 차단하는 사기 수법도 유행하고 있다. 경찰은 돈을 내고 게임에 참가하는 경우 도박죄가 성립할 수 있다면서, 출처가 불명확한 소셜미디어상 금전 거래는 자제하라고 했다. 경찰 관계자는 “피해가 의심되면 112, 117(학교폭력 신고)에 신고하거나 학교 전담 경찰관(SPO)과 상담하라”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>김건희 여사, 변호인 선임... 검찰, 소환 일정 조율 중</title>
+      <link>https://www.chosun.com/national/court_law/2025/04/22/AD25MGXJ6FEMPFFPJ5JFSBUBQI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/04/22/AD25MGXJ6FEMPFFPJ5JFSBUBQI/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 22 Apr 2025 11:19:11 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/47RAEJ62VS74OIZZAMK7E6VH2A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령 부인 김건희 여사가 지난 11일 서울 서초구 서초동 자택 앞에서 지지자들과 인사를 나누고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 대선 당시 정치 브로커 명태균씨로부터 여론조사 결과를 미리 제공 받고, 그 비용 대신 김영선 전 의원의 공천을 도왔다는 ‘공천개입’ 의혹으로 고발된 김건희 여사가 22일 변호인을 선임한 것으로 확인됐다. 검찰은 대선 전 김 여사에 대한 대면조사가 필요하다고 보고 소환 일정을 조율하는 것으로 전해졌다.&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 김 여사 측 변호인은 이날 오후 검찰에 변호인 선임계를 냈다. 작년 10월 김 여사가 이 의혹으로 고발된 지 6개월여 만이다. 보궐선거 공천을 하루 앞둔 2022년 5월 9일 김 여사와 명씨가 김 전 의원의 공천을 논의한 통화 녹음 파일이 공개된 점, 명씨가 2021년 7월 “내일 공표될 여론조사 자료”라며 “보안 유지해 달라”고 부탁하자 김 여사가 “넵 충성”이라고 답한 대화 사진을 확보한 점 등을 고려할 때 검찰은 대면 조사가 조속히 이뤄져야 한다는 입장이다.&lt;br&gt;&lt;br&gt;검찰은 공천개입 의혹을 처음 폭로한 강혜경씨를 조사하면서 윤 전 대통령 측에게 여론조사 결과 81건이 전달된 정황을 확보한 것으로 전해졌다. 여론조사 비용은 3억7000여 만원 수준으로, 이 비용을 내는 대신 김 전 의원의 공천을 도왔다고 검찰은 의심한다. &lt;br&gt;&lt;br&gt;이와 관련해 서울중앙지검 전담수사팀(팀장 이지형 차장검사)은 지난 2월 중순 창원지검에서 사건을 이송한 뒤 김 여사 측에 대면 조사가 필요하다는 입장을 전달했던 것으로 알려졌다. 당시 김 여사 측은 윤 전 대통령의 탄핵 심판이 진행 중인 점, 건강 문제로 출석이 어려운 점 등을 들며 출석 여부를 확답하지 않은 것으로 전해졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>검찰, 전광삼 시민사회수석 참고인 소환... ‘오세훈 여론조사’ 의혹</title>
+      <link>https://www.chosun.com/national/court_law/2025/04/22/AKO3Y5TATBDWBAVIY5VJW4RVVE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/04/22/AKO3Y5TATBDWBAVIY5VJW4RVVE/</guid>
+      <dc:creator>이민준 기자, 유희곤 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 22 Apr 2025 11:20:50 +0000</pubDate>
+      <content:encoded>오세훈 서울시장이 정치 브로커 명태균씨 측으로부터 여론조사 결과를 제공받았다는 의혹을 수사하는 검찰이 22일 전광삼 대통령실 시민사회수석을 소환해 조사하는 것으로 전해졌다. 검찰은 서울시장 보궐선거 당시 명씨 측이 수행한 여론조사 결과를 보도할 언론사를 전 수석이 연결해줬다는 의혹을 살펴보는 것으로 전해졌다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UPW4V2A7KAWPXMXEOA4KK5RMJQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전광삼 대통령실 시민사회수석./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 서울중앙지검 전담수사팀(팀장 이지형 차장검사)은 이날 전 수석을 참고인 신분으로 소환했다. 수사팀은 오 시장 측과 전 수석이 지난 2021년 서울시장 보궐선거 당시 수차례 연락을 주고받은 정황을 확보한 것으로 전해졌다. 이 과정에서 명씨 측의 여론조사가 언론에 보도될 수 있도록 전 수석이 영향력을 행사했는지 여부를 확인하는 것으로 알려졌다. 전 수석이 오 시장 캠프에 소속된 적은 없었다고 한다.&lt;br&gt;&lt;br&gt;검찰이 수사하는 오 시장 관련 의혹의 핵심은 오 시장이 보궐선거 당시 명씨가 실질적으로 운영한 여론조사업체 미래한국연구소로부터 미공표 여론조사 13건을 전달받고, 오 시장의 후원자로 알려진 사업가 김한정씨가 여론조사 비용 3300만원을 대납했다는 것이다. 명씨 측은 모두 7차례 오 시장과의 만남이 있었다는 입장이지만, 오 시장 측은 2번의 만남 이후 관계를 끊어냈다고 반박하고 있다.&lt;br&gt;&lt;br&gt;이와 관련해 검찰은 명씨와 미래한국연구소 부소장 출신 강혜경씨, 김씨를 연이어 조사하고, 김종인 전 국민의힘 비상대책위원장도 참고인으로 조사했다. 지난달엔 오 시장의 서울시청 집무실과 시장 공관도 압수 수색해 오 시장의 휴대전화와 PC 등을 확보했다. 검찰은 최근 압수물 분석을 마친 것으로 전해졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>검찰, ‘北간첩 혐의’ 전 민노총 간부 항소심서도 징역 20년 구형</title>
       <link>https://www.chosun.com/national/court_law/2025/04/22/6UIJVQE5YVBP7MB7LVDYBHL6VY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/04/22/6UIJVQE5YVBP7MB7LVDYBHL6VY/</guid>
@@ -836,55 +912,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KI4RGFJMVUMK32BSEHXYD7V5P4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;강풍을 동반한 봄비가 내린 지난 13일 서울 영등포구 윤중로를 찾은 시민들과 관광객들이 여의도 봄꽃축제 마지막 날을 즐기고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;초여름을 방불케하던 더위가 21~22일 비가 내리며 주춤할 것으로 전망됐다. &lt;br&gt;&lt;br&gt;기상청에 따르면, 21일 늦은 밤 제주부터 비가 내리기 시작해 22일 오전 전국으로 확대되겠다. 비는 22일 밤 대부분 그치겠으나 강원도에선 23일 아침까지 비가 이어지는 곳이 있겠다.&lt;br&gt;&lt;br&gt;예상 강수량은 수도권·강원도 1~50㎜, 충청·전북·대구·경북·울릉도·독도 10~40㎜, 광주·전남·부산·울산·경남·제주북부 20~60㎜, 제주(북부 제외) 30~120㎜로 예보됐다. 제주엔 시간당 20~30㎜, 남해안과 지리산 부근엔 시간당 10~20㎜의 집중호우가 퍼부으면서 산사태 발생 가능성이 있다.&lt;br&gt;&lt;br&gt;비가 올 때 전국에 순간풍속 초속 15m 안팎의 강풍이 예상됐다. 저기압이 가까이 지나는 전남해안과 경남해안, 제주에는 순간풍속이 초속 20m 안팎으로 더 거세겠다.&lt;br&gt;&lt;br&gt;비가 내리면서 더웠던 기온은 평년 수준을 되찾겠다. 22일 아침 최저기온은 11~17도로 평년 보다 2~6도 높겠으나 낮 최고기온은 16~21도로 평년기온과 비슷할 것으로 보인다. 22일 서울의 최저·최고기온이 각각 섭씨 17도, 18도로 예상되는 등 한동안 크게 벌어졌던 일교차도 줄어들겠다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>‘만취해 과속 운전’ 경찰과 추격전 벌인 20대, 불구속 송치 </title>
-      <link>https://www.chosun.com/national/regional/2025/04/21/B6MBZVKJOBAMHCUFDCKMYCXDTY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/04/21/B6MBZVKJOBAMHCUFDCKMYCXDTY/</guid>
-      <dc:creator>대전=우정식 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 21 Apr 2025 08:29:12 +0000</pubDate>
-      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7V73PHTIK5FP7H33NLZNZYQ66Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰이 도주하던 음주운전자를 체포하고 있는 모습. /대전경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대전 동부경찰서는 만취 상태로 음주운전을 하다가 단속에 나선 경찰을 피해 도주한 혐의(음주운전 등)로 20대 A씨를 검찰에 불구속 송치했다고 21일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난달 10일 오전 1시 10분쯤 대전 동구 판암동 일대에서 음주운전을 하다가 경찰의 정차 명령을 무시한 채 15분 동안 5∼6㎞가량을 도주한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;‘음주운전이 의심된다’는 신고를 받고 A씨를 추격한 경찰은 계속 멈추지 않고 달아나던 A씨의 차량을 두 차례 고의로 들이받아 정차시킨 뒤 A씨를 검거했다.&lt;br&gt;&lt;br&gt;경찰 조사 결과 A씨는 도주 당시 시속 100∼120㎞의 속도로 운전하고 여러 차례 교통신호를 위반했다. 적발 당시 A씨의 혈중알코올농도는 0.119％로 면허취소 수준이었던 것으로 조사됐다.&lt;br&gt;&lt;br&gt;A씨는 경찰 조사에서 “정차 명령과 추격을 받은 것이 처음이라 무서워서 계속 달아났다”고 진술했다고 한다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[오늘의 운세]  4월 22일 화요일 (음력 3월 25일 辛酉)</title>
-      <link>https://www.chosun.com/national/national_general/2025/04/21/BYOEBFX5HFAFNIBT2EHFJ4O6RQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/21/BYOEBFX5HFAFNIBT2EHFJ4O6RQ/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Mon, 21 Apr 2025 08:50:46 +0000</pubDate>
-      <content:encoded>&lt;p&gt;&lt;div class="chosun_unse"&gt;&lt;iframe src="https://image.chosun.com/arc/unse_iframe.html" frameborder="0" scrolling="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;style&gt;.chosun_unse{position:relative;width:100%;height:350px;box-sizing:border-box}.chosun_unse&gt;iframe{position:absolute;top:0;left:0;width:100%;height:100%;overflow-y:hidden}@media all and (max-width:1024px){.chosun_unse{height:350px}}@media all and (max-width:1023px){.chosun_unse{height:350px}}@media all and (max-width:528px){.chosun_unse{height:270px}}@media all and (max-width:384px){.chosun_unse{height:190px}}&lt;/style&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;p&gt;&lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani01.gif"&gt;  	&amp;nbsp;	 36년생 조바심 내지 말고 순리에 맡기도록. 48년생 묶였던 손발 풀리니 활동이 자유자재. 60년생 적정선 마무리가 상책. 72년생 극성스럽게 한다고 될 일 아니다. 84년생 무심한 말 한마디가 손실 부른다. 96년생 이성 간 다툼은 시비 구설 전조.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt;  &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani02.gif"&gt;	&amp;nbsp;	 37년생 지나친 운동은 건강 해친다. 49년생 삼 년 부친 논밭도 다시 보고 사랬다. 61년생 날고 기는 이도 끈질긴 이는 못 당한다. 73년생 선입견 버리고 진솔하게 다가가라. 85년생 칭찬보다 책선하는 벗 필요. 97년생 실속 없는 빈 강정 되진 말아야.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani03.gif"&gt;	&amp;nbsp;	 38년생 문제 해결 실마리 찾으리라. 50년생 단시간에 결판 보려 하지 말라. 62년생 밤길은 혼자 가기 적합하지 않다. 74년생 밖 나가고 싶어도 오늘은 집 안에 있어라. 86년생 지나친 고집이 실패 부를 수도. 98년생 불행은 행운의 가면 쓰고 온다.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani04.gif"&gt;	&amp;nbsp;	 27년생 뇌, 심혈관 질환 주의. 39년생 두드리면 열리리라. 51년생 건강 문제로 근심 생길 수도. 63년생 문서로 근심 생기니 각별히 삼가도록. 75년생 남 일 관여 말라. 87년생 누런색과 숫자 5, 10이 행운 부른다. 99년생 서두르지 말라.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani05.gif"&gt;	&amp;nbsp;	 28년생 아프면 동쪽 의사에게 진료. 40년생 웃을 일 없어도 웃어라. 52년생 겸손 없는 권력은 위험천만. 64년생 돼지띠와 관계 주의. 76년생 전문성을 살리는 방향으로 가라. 88년생 뜻하지 않은 소식에 기쁨 곱절. 00년생 존경은 돈으로 살 수 없다.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani06.gif"&gt;	&amp;nbsp;	 29년생 손실을 만회할 호기. 41년생 기대치를 낮추면 후회는 없다. 53년생 약간의 시비 구설은 유명세다. 65년생 노상 횡액을 절대 주의. 77년생 재정 경색 올 수도. 89년생 승패를 장담하기 어려운 상황. 01년생 이왕 할 일이면 지금 당장 하도록.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani07.gif"&gt;	&amp;nbsp;	 30년생 의사 표현을 분명히 하라. 42년생 뜻밖에 귀인이 도울 듯. 54년생 괜한 말이 화를 초래할 수도. 66년생 누런 옷 입은 이가 귀인. 78년생 복지부동도 또 다른 처신. 90년생 위상에 걸맞은 자격을 갖추도록. 02년생 세상만사 정성이 제일 중요.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani08.gif"&gt;	&amp;nbsp;	 31년생 인장(印章)을 깊이 감추라. 43년생 장거리 여행은 삶에 활력. 55년생 큰 활약이 기대되는 시기. 67년생 무른 감도 꼭지를 떼고 먹으랬다. 79년생 선택을 정당화하려 말라. 91년생 가족이 최고 조력자. 03년생 벙어리 삼 년 귀머거리 삼 년.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani09.gif"&gt;	&amp;nbsp;	 32년생 하고 싶은 말 많아도 참아라. 44년생 봄눈 녹듯 근심 걱정도 사라질 듯. 56년생 혈압과 심장 질환 주의. 68년생 있는 듯 없는 듯 지내라. 80년생 주위 사람과 비교 말라. 92년생 자신감을 잃지 않는 것이 중요. 04년생 새우가 몸이 커서 굽히던가.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani10.gif"&gt;	&amp;nbsp;	 33년생 지나친 소유욕이 질투심 유발할 수도. 45년생 성공은 위험 무릅쓸 때 온다. 57년생 돼지띠와 거래하면 유익. 69년생 남쪽 문은 피하는 게 상책. 81년생 냉정한 판단과 정확한 계산 필요. 93년생 멈추지 않는 이상 천천히 가는 건 문제없다.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani11.gif"&gt;	&amp;nbsp;	 34년생 건강 염려되면 서쪽 의사에게 문진받으라. 46년생 푸른색과 숫자 3, 8에 행운. 58년생 공상도 실행하면 현실 된다. 70년생 신중한 처신에 허물 적다. 82년생 모든 일은 시간이 다 해결해 준다. 94년생 냄새 나는 거름이 향기로운 꽃 키우는 법.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani12.gif"&gt;	&amp;nbsp;	 35년생 바람에 안 흔들리는 나무는 없다. 47년생 잃었다 근심하거나 얻었다 기뻐할 것 없다. 59년생 천만 변동 있어도 침묵과 안정 유지. 71년생 측근 경계하면 후회 적다. 83년생 오래 먹은 고깃국 맛있는 줄 모른다. 95년생 마음 평정과 안정 지켜라.	&lt;br&gt;
-&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;한소평 금오산방 강주  &lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;			&lt;/p&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/4MTFRYWHBJA7XOKKF7G7JPLX5U.png?width=800&amp;height=420&amp;auth=4651b5b20b5d4901424204d1456faee02e4b064ff509db23945deabf4404c8ef&amp;smart=true" type="image/png" height="420" width="800"/>
-    </item>
-    <item>
-      <title>“정치·진영논리에 휘둘리는 교육감 선거제도 고쳐야”</title>
-      <link>https://www.chosun.com/national/regional/yeongnam/2025/04/21/FAFXA3W3CJECJDJZVVE5I6EVXQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/yeongnam/2025/04/21/FAFXA3W3CJECJDJZVVE5I6EVXQ/</guid>
-      <dc:creator>부산=박주영 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 21 Apr 2025 08:23:53 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2H724F4ZNNHZHMWMMBUDWRQX4M.png"&gt;&lt;figcaption&gt;&lt;small&gt;21일 열린 부산시의회 임시회에서 교육감 선거제도 개편 촉구 5분 발언을 한 박중묵 부산시의원./부산시의회&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;교육감 선거가 갈수록 ‘교육의 정치적 중립성‘이라는 헌법 정신과 멀어지고 있어 선거 제도를 개편해야 한다는 주장이 제기됐다. &lt;br&gt;&lt;br&gt;부산시의회 기획재경위원회 박중묵 의원(국민의힘·동래1)은 21일 제328회 임시회 5분 자유발언에서 “헌법정신과 괴리된, 대표성도 없는 교육감 선거제도 개편을 촉구한다”고 말했다. &lt;br&gt;&lt;br&gt;박 의원은 이날 발언을 통해 “교육감 선거는 헌법, 지방교육자치법 등에 따라 정치적 중립이 명확하게 지켜져야 하지만 지난 2일 치러진 부산시 교육감 재선거는 탄핵 정국과 맞물려 극도의 정치색을 보이면서 헌법정신이 완전히 무시됐고 보수·진보라는 진영 대결만 부각됐다”고 말했다. &lt;br&gt;&lt;br&gt;박 의원은 또 “소모적 진영 정쟁에 물든 이번 교육감 재선거는 2007년 첫 직선제 선거제 도입 이후 역대 최저 투표율(22.8%)을 기록했다”며 “당선인 득표율이 51%라고 하나 전체 유권자를 기준으로 보면 11.6%에 그쳐 대표성도 심각히 결여된 상황”이라고 지적했다. &lt;br&gt;&lt;br&gt;박 의원은 “정치적 중립성 부재는 단지 선거 과정으로 그치지 않고 교육감 임기 중에도 이어져 교육감 정치적 성향에 맞춰 이전의 정책을 갈아엎고 새로운 정책이 추진되면서 많은 혼란이 초래되기도 한다”며 “그 모든 피해는 애먼 우리 아이들에게 전가된다”고 말했다. &lt;br&gt;&lt;br&gt;그는 이어 “따라서 지방 교육자치의 헌법적 가치에 따라 교육의 본질과 교육의 정신을 살릴 수 있는 선거제도로 개편할 필요가 있다”며 “부산시장과 교육감이 나서 어젠다를 던지고 국가 차원의 공론화를 해달라”고 요청했다. &lt;br&gt;&lt;br&gt;박 의원은 “김석준 신임 교육감 첫 지시인 ‘초중고 탄핵 선고 생중계 시청 권고‘에 따라 초등 1~2학년 교실에서도 1시간 내내 방송을 틀어 놓게 한 것은 많은 문제가 있다”며 “김 교육감은 ‘이념 말고 교육, 좌우 말고 미래, 앞만 보고 달려가겠다‘고 한 약속처럼 학교 현장에서 정치적 중립성이 훼손되는 일이 없도록 해달라”고도 했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“사귈까”…가스라이팅으로 또래 여성에게 100억 원 상당 뜯어낸 20대 구속 기소</title>
-      <link>https://www.chosun.com/national/regional/2025/04/21/43XVSPBJCFCL3IVDK3CDLWOG3Y/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/04/21/43XVSPBJCFCL3IVDK3CDLWOG3Y/</guid>
-      <dc:creator>대구=노인호 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 21 Apr 2025 08:19:34 +0000</pubDate>
-      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZZIYPHNOGXH6JHZXNCQOVQX4SI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대구고검, 지검 청사./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;또래 여성에게 사귈 것처럼 접근해 심리적으로 지배한 뒤, 현금 등 100억원 상당을 받아내 가로챈 20대가 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;대구지검 형사2부(부장 김성원)는 사기 등의 혐의로 A씨를 구속 기소했다고 21일 밝혔다. 또 A씨가 은닉한 범죄 수익 중 일부를 보관한 혐의로 20대 B씨를 불구속 기소했다.&lt;br&gt;&lt;br&gt;A씨는 2023년 11월쯤 인터넷 커뮤니티를 통해 알게 된 20대 여성 C씨를 알게 됐다. 이후 사귀는 척 속이며 C씨를 심리적으로 지배하기 시작해 지난달까지 재력가인 C씨의 부모의 계좌 등에 있던 현금 등 100억원가량을 받아 가로챈 혐의를 받고 있다. &lt;br&gt;&lt;br&gt;A씨는 이렇게 빼돌린 100억원 중 70억원가량을 자금 추적이 어려운 상품권으로 바꾸고, 다시 개인 상품권 업자에게 되팔아 현금화한 뒤 숨긴 것으로 조사됐다. &lt;br&gt;&lt;br&gt;검찰은 수사 과정에서 확보한 압수물인 29억원 상당의 현금과 상품권, 명품 시계와 가방 등에 가압류를 신청했다.&lt;br&gt;&lt;br&gt;검찰 관계자는 “피고인들이 죄에 상응하는 형을 받을 수 있도록 최선을 다하겠다”고 말했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>글로벌특별법·산은 이전…부산시, 대선 지역공약 제안</title>
       <link>https://www.chosun.com/national/regional/yeongnam/2025/04/21/DDOPMNYREBDH5BNR7NQTUDPJWE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/yeongnam/2025/04/21/DDOPMNYREBDH5BNR7NQTUDPJWE/</guid>
@@ -901,42 +928,6 @@
       <description/>
       <pubDate>Mon, 21 Apr 2025 08:13:57 +0000</pubDate>
       <content:encoded>이재명 전 더불어민주당 대표가 공직선거법위반 사건 관련 검찰의 상고이유서에 대한 답변서를 21일 대법원에 제출했다. 대법원은 이르면 22일 주심 대법관을 배당하고 본격 심리에 착수할 전망이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BNOKFZOG5G6ZNUOO3ZKQNFOATI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이재명 전 더불어민주당 대표가 지난 8일 서울 서초구 중앙지법에서 열린 대장동 배임 및 성남FC 뇌물 의혹 1심 속행 공판에 출석하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;21일 법조계에 따르면, 이 전 대표 측은 답변서 제출 기한 마지막 날인 이날 대법원 3부에 답변서를 제출했다. 또 올해 2월 퇴직한 이재희 전 서울고법 부장판사를 변호인으로 새로 선임했다.&lt;br&gt;&lt;br&gt;이 전 대표 측은 지난 11일과 14일 각각 인편과 우편으로 검찰이 제출한 상고이유서를 송달받았다. 상고이유서에 대한 답변서 제출 기한은 최초 송달일 다음 날부터 열흘 이내다. 이 전 대표 측이 답변서를 제출한 데 따라 대법원은 주심 대법관을 배당 등 본격적인 심리에 돌입할 전망이다.&lt;br&gt;&lt;br&gt;대법원 사건의 배당에 관한 내규에 따르면, 상고 본안사건은 답변서 제출 기한 만료되면 주심을 배당한다. 이 전 대표 사건은 이르면 22일 주심이 배당될 것으로 보인다. 주심은 법원행정처장을 제외한 12명의 대법관 중 1명이 선정되고, 같은 소부 소속 3명의 대법관도 심리에 참여한다.&lt;br&gt;&lt;br&gt;이 전 대표는 지난 2021년 대선을 앞두고 고(故) 김문기 성남도시개발공사 1처장과 경기 성남시 백현동 한국식품연구원의 부지 용도변경과 관련해 허위 사실을 공표한 혐의로 2022년 9월 기소됐다. &lt;br&gt;&lt;br&gt;1심은 재판 2년 2개월 만인 지난해 11월 이 후보에 대해 징역 1년에 집행유예 2년을 선고했다. 반면 2심은 1심을 뒤집고 지난달 26일 이 전 대표에게 무죄를 선고했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>’학동 붕괴 사고’ 현대산업개발, 8개월 영업정지 취소소송 1심 패소</title>
-      <link>https://www.chosun.com/national/court_law/2025/04/21/K4NJ24TNEZAXZNOLY722KFEFP4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/04/21/K4NJ24TNEZAXZNOLY722KFEFP4/</guid>
-      <dc:creator>방극렬 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 21 Apr 2025 07:57:42 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LH63K5SGI5NBXGJRKOC5L54V3U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;17명의 사상자를 낸 광주광역시 학동 4구역 재개발 사업지의 철거 건물 붕괴 사고 현장./ 연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2021년 광주광역시 학동 철거 건물 붕괴 사고의 원청사인 HDC현대산업개발이 서울시가 내린 영업정지 처분을 취소해달라며 소송을 냈다가 1심에서 패소했다.&lt;br&gt;&lt;br&gt;서울행정법원 행정9부(재판장 김국현)는 21일 현대산업개발이 서울시를 상대로 낸 영업정지 처분 취소 청구를 기각했다. 재판부는 “현대산업개발의 건축물 해체 공사가 부실했고, 중대한 과실도 있었다”며 “영업정지 처분 사유가 인정된다”고 밝혔다.&lt;br&gt;&lt;br&gt;이 사건은 2021년 6월 광주 학동 재개발 4구역에서 철거 중인 건물이 인근을 지나던 버스를 덮쳐 9명이 사망하고 8명이 다친 사고가 발단이다. 현대산업개발은 2018년 2월 주택재개발 정비사업 조합과 2282세대를 건축하는 재개발 시공 계약을 체결하고, 2020년 9월 하도급 업체 등을 통해 해체 공사를 진행했다. 이 과정에서 부실 시공이 이뤄지면서 17명의 사상자가 발생한 것이다.&lt;br&gt;&lt;br&gt;이에 서울시는 2022년 3월 “현대산업개발이 해체 공사를 부실하게 해 건물이 붕괴되고 인명 피해를 끼쳤다”며 8개월의 영업정지 행정처분을 내렸다. 현대산업개발은 “고의나 중대한 과실이 없다”며 불복 소송과 함께 효력정지 신청을 냈다. 법원은 그해 4월 “서울시 처분을 1심 판결 선고 이후 30일까지 정지한다”고 결정했는데, 이날 판결에 따라 효력정지가 종료될 수 있게 됐다.&lt;br&gt;&lt;br&gt;재판부는 “건물 해체 과정에서 내력이 저하되고 하중 지지구조가 변경되는 등 구조적 불안전성을 유발할 수 있었다”면서 “현대산업건설이 구조 안전진단 등 안전성 평가를 했어야 하는데, 이러한 안전조치를 취하거나 지시하지 않고 만연히 방치했다”고 밝혔다. 또 약 30t(톤)인 굴착기를 사용하면서도 안전유도자를 배치하지 않고, 지반이 불균형하게 침하하는 것을 방지하지 않는 등 필요한 조치를 하지 않은 점도 지적됐다.&lt;br&gt;&lt;br&gt;재판부는 “현대산업개발은 법령상 직접 인정되는 주의 의무조차 이행하지 않았다. 그중 하나라도 이행했다면 사고를 방지하거나 적어도 피해를 줄일 수 있었을 것”이라며 “중과실이 있었다고 할 수밖에 없다”고 했다. 이어 “건물의 해체 공사가 부실하게 시공된 것은 명백하고, 이는 업무상 주의 의무를 위반한 것과 인과관계가 인정된다”며 “영업정지 8개월 처분에 재량권을 일탈·남용한 위법이 없다”고 했다.&lt;br&gt;&lt;br&gt;현대산업개발은 즉시 항소하면서 1심 판결에 대한 효력정지 가처분 신청을 하겠다는 방침이다. 현대산업개발 측은 “이번 판결은 고객과 주주, 협력사 등 이해관계자 모두에게 영향을 미치는 만큼 항소가 불가피하다”며 “현재 공사가 진행 중인 현장은 행정처분과 무관하게 공사가 진행될 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘보좌관 성추행 혐의’ 박완주 前 민주당 의원 보석 기각...“증거 인멸 우려”</title>
-      <link>https://www.chosun.com/national/court_law/2025/04/21/WKL3H6CYMZFA3JB4TCRFOEP7ZI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/04/21/WKL3H6CYMZFA3JB4TCRFOEP7ZI/</guid>
-      <dc:creator>김나영 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 21 Apr 2025 06:19:54 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MHHLHYID55JRJJCBBGZOFG6EFQ.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;2023년 10월 박완주 당시 더불어민주당 의원이 대전 한국전자통신연구원(ETRI)에서 열린 과학기술정보방송통신위원회 국정감사에서 질의하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;보좌관을 성추행한 혐의로 1심에서 실형을 선고받고 법정구속 된 박완주(59) 전 의원이 보석을 신청했으나 법원이 받아들이지 않았다.&lt;br&gt;&lt;br&gt;서울고법 형사12-1부(재판장 홍지영)는 21일 박 전 의원이 낸 보석 청구를 기각했다. 법원 관계자는 “증거 인멸과 도망 우려가 있다”며 기각 이유를 설명했다.&lt;br&gt;&lt;br&gt;박 전 의원은 2021년 12월 서울 영등포구의 한 노래주점과 인근 주차장에서 당시 보좌관이었던 A씨를 강제추행한 혐의로 2023년 7월 기소됐다. 이밖에도 박 전 의원은 2022년 4월 A씨가 더불어민주당 젠더폭력신고상담센터에 성추행을 신고하자 면직을 시도하고(직권남용권리행사방해), 같은 해 5월 지역구 관계자들에게 A씨가 합의를 시도했다고 알린 혐의(명예훼손)도 받는다.&lt;br&gt;&lt;br&gt;작년 12월 1심 재판부는 “피해자는 오랫동안 믿고 따르던 상사에게 당해 성적 수치심, 모멸감 등 상당한 정신적 충격으로 고통 받았다”며 강제추행과 명예훼손 혐의를 유죄로 인정해 박 전 의원에게 징역 1년을 선고했다. 다만 강제추행으로 외상 후 스트레스 장애를 입었다는 혐의(강제추행치상)와 직권남용권리행사방해 등 혐의에 대해서는 무죄라고 판결했다.&lt;br&gt;&lt;br&gt;박 전 의원의 항소심은 내달 13일 두 번째 공판기일이 예정돼 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>16세 트로트 가수 김다현에 ’73회' 비방한 50대 남성 결국</title>
-      <link>https://www.chosun.com/national/people/2025/04/21/M7YJR6SKFREVNGYEOBX7WKTBDA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/04/21/M7YJR6SKFREVNGYEOBX7WKTBDA/</guid>
-      <dc:creator>정아임 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 21 Apr 2025 06:27:49 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G7WXJBRJEGN55WOMGLIEK5LEFQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;트로트 가수 김다현./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;트로트 가수 김다현(16)을 향해 온라인에서 상습적으로 악성 댓글을 남긴 50대 악플러가 징역형을 선고받았다.&lt;br&gt;&lt;br&gt;21일 소속사 엔트로엔터테인먼트에 따르면 지난 16일 대구지방법원 제6형사단독(유성현 부장판사)은 모욕 혐의로 재판에 넘겨진 A(58)씨에게 징역 4개월에 집행유예 2년을 선고했다.&lt;br&gt;&lt;br&gt;A씨는 2023년 7월부터 4개월간 방송국 인터넷 시청자 게시판에 김다현에 대해 총 73회, 아버지 김봉곤 훈장에 대해서는 총 67회에 걸쳐 모욕하는 글을 게재한 혐의로 기소됐다.&lt;br&gt;&lt;br&gt;재판부는 “(피고인의 게시글로 인해) 피해자들, 특히 어린 나이의 피해자 김다현이 감내하기 쉽지 않은 정도의 정신적 고통을 당하였을 것으로 보이므로, 그 비난 가능성이 크다”라며 “피고인은 피해자들로부터 용서받지 못했다”고 양형 이유를 밝혔다.&lt;br&gt;&lt;br&gt;김다현 측의 변호를 맡아 온 법무법인 인의로 김경은 대표변호사는 “공인의 인격권도 존중받아야 한다”며 “특히 나이 어린 연예인 및 가족을 상대로 한 근거 없는 악의적 게시글의 파장은 더욱 심각하다”고 말했다. &lt;br&gt;&lt;br&gt;이어 “표현의 자유가 타인의 명예를 훼손해서는 안 되며 이번 판결을 계기로 특정 연예인에게 상처를 주는 게시글이 사라지길 바란다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>전장연 지하철 시위 재개에... 서울시 “형사 고발·손배소 방침”</title>
-      <link>https://www.chosun.com/national/national_general/2025/04/21/HBWDTN7KLNHRREQ3OMLVVJVKTI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/21/HBWDTN7KLNHRREQ3OMLVVJVKTI/</guid>
-      <dc:creator>김영우 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 21 Apr 2025 04:57:14 +0000</pubDate>
-      <content:encoded>21일 4호선 혜화역 등에서 진행된 전국장애인차별철폐연대(전장연)의 지하철 시위에 대해 서울시가 “가능한 모든 수단을 동원해 엄정 대응하겠다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Q3WJZDSDTNOWPIBDI76BOEDL5U.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;전국장애인차별철폐연대(전장연) 회원들이 21일 오전 서울 지하철 4호선 혜화역 동대문 방면 승강장에서 '출근길 지하철 탑니다' 시위를 벌이고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울시에 따르면, 전장연은 이날 오전 8시부터 서울 지하철 4호선 혜화역과 오남역, 선바위역 등에서 시위를 벌였다. 이에 따라 오남역과 선바위역에서는 35분가량 열차가 운행되지 못했고, 혜화역에서도 열차 운행이 13분가량 지연됐다. 혜화역은 오전 9시쯤부터 22분간 하행선 열차가 무정차 통과하기도 했다.&lt;br&gt;&lt;br&gt;서울시는 이날 전장연의 시위로 열차 지연에 따른 2100만원가량의 손실이 발생한 것으로 보고 있다. 이날 오전 7시부터 10시까지 열차 지연 등에 관한 민원도 245건 접수됐다.&lt;br&gt;&lt;br&gt;서울시 관계자는 “시위 대응 과정에서 직원이 부상을 입기도 했다”고 말했다.&lt;br&gt;&lt;br&gt;서울시는 전장연의 시위에 대해 관할 경찰서에 형사 고발 조치하고, 지하철 운행 지연에 따른 손해배상과 업무 방해에 대해서는 소송을 제기할 방침이다.&lt;br&gt;&lt;br&gt;서울시 관계자는 “이전에 해왔던 대로 엄정 대응한다는 계획을 세운 것”이라며 “앞으로도 오늘과 같은 일이 생긴다면 법적 조치를 취하는 등 강력히 대응하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>봉천동 아파트 주민들 “폭탄 터진 줄” “드르륵 소리 났다” 증언</title>
