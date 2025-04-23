@@ -13,6 +13,89 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>광주 광산구 저수지서 신원미상 여성 숨진 채 발견</title>
+      <link>https://www.chosun.com/national/incident/2025/04/23/P4BDOHJXINADFF2QV2IPA6Z5XI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/04/23/P4BDOHJXINADFF2QV2IPA6Z5XI/</guid>
+      <dc:creator>정성원 기자</dc:creator>
+      <description>23일 오후 4시 50분쯤 광주 광산구 용곡동 한 저수지에서 사람이 숨진 채 떠 있는 것을 낚시하던 시민이 발견해 경찰에 신고했다.
+신고를 받고 출동한 119구급대는 현장에서 신원 미상의 여성 시신을 수습했다.
+</description>
+      <pubDate>Wed, 23 Apr 2025 10:00:54 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6H4OBCD2DYE62AC53TTHAIXI5U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;광주 광산경찰서./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;23일 오후 4시 50분쯤 광주 광산구 용곡동 한 저수지에서 사람이 숨진 채 떠 있는 것을 낚시하던 시민이 발견해 경찰에 신고했다.&lt;br&gt;&lt;br&gt;신고를 받고 출동한 119구급대는 현장에서 신원 미상의 여성 시신을 수습했다. 시신에선 외상 등 범죄 혐의점은 발견되지 않았다.&lt;br&gt;&lt;br&gt;경찰은 목격자 등을 상대로 정확한 사건 경위를 조사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“뎅기열·코로나 한 번에 치료”... 현대바이오, 먹는 치료제 본격 임상 돌입</title>
+      <link>https://www.chosun.com/national/welfare-medical/2025/04/24/WPVMOMJF3RASXJQ7PDHQWTEQFU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/04/24/WPVMOMJF3RASXJQ7PDHQWTEQFU/</guid>
+      <dc:creator>오유진 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 23 Apr 2025 10:00:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G3BOXFHMTJ5BAJB2EGC4SUA6XI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;국제 학술지 '스몰(Small)'지 표지논문에 선정된 제프티./현대바이오&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;뎅기열, 지카, 코로나 등 여러 바이러스 질환을 한 번에 치료할 수 있는 먹는 치료제가 본격적인 임상 시험에 들어간다.&lt;br&gt;&lt;br&gt;23일 현대바이오사이언스는 자체 개발한 범용 항(抗)바이러스제 ‘제프티’가 베트남 보건당국으로부터 임상 2·3상 시험 승인을 받았다고 밝혔다. 제프티는 뎅기열과 지카, 코로나, A형 독감 등 주요 감염병에 동시에 효과를 내도록 개발된 경구용 치료제다.&lt;br&gt;&lt;br&gt;특히 뚜렷한 치료제가 없었던 뎅기열 치료에 제프티가 새로운 대안으로 주목받고 있다. 지금까지 뎅기열은 증상 발현 이후 수액 등 치료에만 의존해왔다. 감염자의 절반 이상이 증상이 없거나 감기처럼 가볍게 지나가기 때문에 진단이 늦고, 치료 시점을 놓치는 경우가 많다.&lt;br&gt;&lt;br&gt;기후 변화로 모기 개체 수가 늘면서 뎅기열은 최근 전 세계적으로 빠르게 확산하고 있다. 세계보건기구(WHO)에 따르면, 2023년 전 세계 뎅기열 감염자는 650만명에 달한다. 이 중 7300명이 사망했다.&lt;br&gt;&lt;br&gt;현대바이오는 “제프티처럼 여러 열대 질환에 효과가 있는 약을 초기에 투여하면 진단 지연에 따른 위험을 줄이고 치료 골든타임을 확보할 수 있다”며 “이번 약이 임상에서 효과와 안전성을 입증하면, 초기 증상이 뚜렷하지 않은 열대 감염병에 대한 조기 대응 수단이 될 수 있을 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[단독] 정부, 20년 만에 항공철도사고조사위 조사관 증원</title>
+      <link>https://www.chosun.com/national/transport-environment/2025/04/23/UR6H3VTMGJAGJF6ERFJNTGDKII/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/04/23/UR6H3VTMGJAGJF6ERFJNTGDKII/</guid>
+      <dc:creator>김아사 기자</dc:creator>
+      <description>정부가 무안 제주항공 참사 등을 조사하는 항공철도조사고조사위원회의 항공조사관을 증원하기로 했다. 2006년 사조위 설립 후 조사관 인원을 늘리는 건 처음 있는 일이다. </description>
+      <pubDate>Wed, 23 Apr 2025 08:52:11 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PP7TOQRBHZCQTX3PEGWULUGEB4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 1월 7일 전남 무안군 무안국제공항에서 항공철도사고조사위원회 관계자와 경찰특공대원이 사고 현장을 살피고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정부가 무안 제주항공 참사 등을 조사하는 항공철도사고조사위원회의 항공 조사관을 증원하기로 했다. 2006년 사조위 설립 후 조사관 인원을 늘리는 건 처음 있는 일이다. &lt;br&gt;&lt;br&gt;현재 사조위는 항공 조사관 9명, 철도 조사관 5명, 행정 담당 15명 등 29명으로 구성돼 있다. 충원되는 인원은 총 7명으로 모두 항공 조사관이다. 이 가운데 정부가 무안 참사 등 사고에 따라 충원하기로 결정한 조사관은 6명이다. 그전에 이미 증원이 결정된 1명도 별도 채용 절차를 밟고 있다. 국토부 고위 관계자는 23일 “6명 충원과 관련해 기획재정부, 행정안전부와 협의가 거의 됐고 상반기 충원 예정”이라고 했다.&lt;br&gt;&lt;br&gt;사조위 안팎에선 조사관을 늘려야 한다는 지적이 계속돼 왔다. 항공 운항편 증가로 업무는 크게 늘었는데 인원은 항상 부족해 조사관들이 행정 일까지 보고 있기 때문이다. ICAO(국제민간항공기구)는 항공 사고 조사를 사고 발생일로부터 1년 이내에 완료하라고 권고하고 있는데, 우리는 인력부터 이를 달성할 여력을 갖추지 못했다는 전문가 지적이 나왔다. &lt;br&gt;&lt;br&gt;실제 미국의 사조위 격인 NTSB(연방교통안전위원회)는 전체 인원이 400명이 넘고 조사관 수만 198명이다. 캐나다 교통안전위원회(TSB) 역시 전체 인원이 200명이고, 일본 교통안전위원회(JTSB)도 180명 조직을 운영 중이다. 사조위 관계자는 “2006년 30만회이던 항공기 운항은 지난해 70만회를 넘었다”며 “우리 사조위는 다른 나라와 달리 드론 등 초경량 비행 장치 조사도 맡고 있어 인력 부족이 더 심각한 상황”이라고 했다. &lt;br&gt;&lt;br&gt;한편, 사조위는 무안공항에서 사고가 난 제주항공 항공기 엔진을 프랑스에서 분해 조사한 뒤, 오는 6월쯤 보고서를 내놓을 예정이다. 엔진 분해 분석은 이번 사고의 향방을 가를 핵심 조사로 꼽힌다. 사조위 관계자는 “최종 보고서가 나올 때까지 앞으로도 1년 이상 시간이 소요되는 만큼, 조사한 내용 중 정확한 근거로 확신할 수 있는 부분은 공개할 예정”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>고용차관 “포스코이앤씨 본사·사업장 37곳 감독"</title>
+      <link>https://www.chosun.com/national/labor/2025/04/23/CARCDFUKM5BJJMMIVDOF3ZULHY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/labor/2025/04/23/CARCDFUKM5BJJMMIVDOF3ZULHY/</guid>
+      <dc:creator>정해민 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 23 Apr 2025 09:04:41 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CNQIHQXGPVRC6W5JHJ6WS6VXLE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김민석 고용노동부 장관 직무대행(차관)이 23일 오후 서울 여의도 국회에서 열린 환경노동위원회 제424회국회(임시회) 제1차 전체회의에 출석해 의원 질의에 답하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최근 붕괴 사고가 발생한 신안산선 지하 터널 시공사인 포스코이앤씨의 본사와 전체 사업장 30%에 대해 고용노동부가 감독에 나선다.&lt;br&gt;&lt;br&gt;장관 직무대행인 김민석 고용부 차관은 23일 국회 환경노동위원회 전체 회의에서 “포스코이앤씨에서 중대 재해 7건이 발생해 본사 및 전체 사업장 30%에 해당하는 37개 사업장에 대해 감독을 실시할 예정”이라고 밝혔다. &lt;br&gt;&lt;br&gt;포스코이앤씨는 지난 11일 터널 붕괴 사고가 발생한 경기 광명 신안산선 전철 공사의 시공사다. 이 사고로 노동자 1명이 숨지고 1명이 크게 다쳤다.&lt;br&gt;&lt;br&gt;고용부는 신안산선 사고 이후 포스코이앤씨의 전국 현장 중 터널·철도·도로 건설 공사 현장 13곳에서 산업 안전 감독을 하겠다고 밝힌 바 있다. &lt;br&gt;&lt;br&gt;그러나 고용부의 산업 안전 감독을 받고 있던 지난 21일 포스코이앤씨가 시공하는 대구 중구의 아파트 공사 현장에서 노동자가 숨지는 중대 재해가 재차 발생했다.&lt;br&gt;&lt;br&gt;한편 기상캐스터 고(故) 오요안나씨에 대한 직장 내 괴롭힘 의혹과 관련해 김 차관은 “MBC 내 여러 직종을 감독 중”이라며 “결과를 분석한 뒤 타 방송사까지 감독할지 여부를 검토하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>검찰, ‘음주운전·불법숙박업’ 문다혜 1심 벌금형에 항소</title>
+      <link>https://www.chosun.com/national/national_general/2025/04/23/6AETDUZMR5BZJOMELQQ3QQOBWM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/23/6AETDUZMR5BZJOMELQQ3QQOBWM/</guid>
+      <dc:creator>구동완 기자, 안태민 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 23 Apr 2025 09:33:48 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GCNSMJRN5ZK77FCBQUHSCMIQ3Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;음주운전과 불법 숙박업 운영 혐의로 기소된 문재인 전 대통령의 딸 문다혜씨가 지난 17일 서울 서부지방법원에서 열린 1심 선고 공판을 마친 뒤 차량으로 이동하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰이 음주운전과 불법 숙박업 운영 혐의로 재판에 넘겨진 문재인 전 대통령의 딸 문다혜씨에 대한 1심 벌금형 판결에 불복해 항소를 제기했다.&lt;br&gt;&lt;br&gt;서울서부지검은 죄질과 범행 기간·경위 등을 감안해 양형이 부당하다는 취지로 항소했다고 23일 밝혔다.&lt;br&gt;&lt;br&gt;서울서부지법은 지난 17일 도로교통법상 음주운전과 공중위생관리법 위반 혐의로 기소된 문씨에게 벌금 1500만원을 선고했다.&lt;br&gt;&lt;br&gt;재판부는 당시 “피고인의 음주운전과 관련해 혈중알코올농도 수치가 높고 신고하지 않은 숙박업을 장기간 운영해 매출액이 고액인 점을 고려했을 때 죄질이 가볍지 않다”면서도 “잘못을 인정하고 깊이 뉘우치고 있는 점, 해당 사건 이전에 형사처벌 전력이 없는 점 등을 양형에 참작했다”고 설명했다.&lt;br&gt;&lt;br&gt;앞서 검찰은 지난 3월 문씨에 대해 징역 1년을 구형했다.&lt;br&gt;&lt;br&gt;문씨는 지난해 10월 5일 용산구 이태원 해밀톤호텔 앞에서 만취 상태로 차를 몰며 차선을 바꾸다 뒤따라오던 택시와 부딪힌 혐의(도로교통법상 음주운전)로 재판에 넘겨졌다. 사고 당시 문씨의 혈중알코올농도는 0.149%로 면허 취소 기준(0.08%)을 넘겼다.&lt;br&gt;&lt;br&gt;문씨는 본인 소유의 서울 영등포구 오피스텔과 빌라, 제주시 한림읍 협재리에 있는 단독주택을 불법 숙박 업소로 운영한 혐의도 받는다. 문씨는 숙박업 신고를 하지 않고 오피스텔 등을 불법으로 숙박업에 이용했다. 공중위생법상 숙박업 등록 없이 영업 행위를 하다 적발되면 2년 이하 징역 또는 2000만원 이하 벌금형을 받는다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>전광삼 “PNR-언론사 연결시켜준 게 전부...PNR 어떻게 알게 됐는지는 기억 안 나”</title>
+      <link>https://www.chosun.com/national/court_law/2025/04/23/G2HDM22DHFDMHG5CG32BZS3JNY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/04/23/G2HDM22DHFDMHG5CG32BZS3JNY/</guid>
+      <dc:creator>박강현 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 23 Apr 2025 09:23:24 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CIFUK2AWT5NCJLJ3QFUAAF53RM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;정치 브로커 명태균씨가 지난 22일 경남 창원시 성산구 창원지방법원에서 열린 제4차 공판에 출석하며 취재진 질문에 답하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘정치 브로커’ 명태균씨의 여론조사 조작 의혹 등을 수사하고 있는 검찰이 전광삼 대통령실 시민사회수석을 상대로 명씨 측에 공표 여론조사를 진행할 한 언론사를 소개해준 경위를 물은 것으로 파악됐다. 전 수석은 “명태균이라는 사람을 현재까지 만난 적이 없고 오세훈 캠프에서 활동한 적도 없다”는 입장이다. 기자 출신인 전 수석은 윤석열 정부 출범 이후 대통령실 시민소통 비서관으로 일하다 작년 총선에 출마하기 위해 대통령실을 떠난 뒤 시민사회수석으로 대통령실에 복귀했다.&lt;br&gt;&lt;br&gt;23일 본지 취재를 종합하면 전 수석은 전날(22일) 검찰에 출석해 4시간 정도 참고인 신분으로 조사를 받았다. 검찰은 지난 2021년 서울시장 보궐선거 당시 명씨 측이 수행한 여론조사 결과를 보도할 언론사를 전 수석이 연결해줬다는 의혹을 살펴본 것으로 전해졌다.&lt;br&gt;&lt;br&gt;이 의혹은 2021년 초 명씨가 당시 오세훈 시장 후보 캠프에서 전 수석을 만나 서울시장 후보 여론조사를 위한 규모 있는 언론사가 필요하다고 요청하자 이에 전 수석이 조사 결과를 보도해줄 언론사 부장급 간부를 연결해줬다는 것을 골자로 하고 있다.&lt;br&gt;&lt;br&gt;전 수석은 이에 대해 “여론조사 업체 피플네트웍스리서치(PNR)와 한 언론사를 연결해준 사실은 맞는다”면서도 “PNR을 어떻게 알게 됐는지는 기억이 안 난다”고 주장했다. PNR은 미래한국연구소(미한연)가 각종 공표용 여론조사를 의뢰한 업체로, 미한연은 명씨가 실질적으로 운영했다고 알려진 업체다.&lt;br&gt;&lt;br&gt;전 수석은 PNR과 언론사를 연결시켜준 계기에 대해선 “내 소신은 언론사가 직접 궁금한 걸 물어봐야지 여론조사 기관이 궁금한 걸 물어보고 언론사가 그걸 그대로 받아쓰는 것은 지양해야 된다는 것”이라며 “공동 여론조사에 관심 있는 친한 기자와 관련 얘기를 나눴고, PNR이라는 곳이 언론사하고 정기적으로 정치 관련 중요 이슈 등에 대해 공동 여론조사를 좀 해보려고 하는 것 같다는 얘기를 듣고 연결시켜줬다”고 했다. &lt;br&gt;&lt;br&gt;다만 그는 PNR이라는 업체를 어떻게 알게 됐는지에 관해선 “어느 모임에서 들은 것 같은데 정확히 언제 있었던 어떤 자리였는지는 기억이 안 난다”며 “2020년 6월부터 2021년 7월쯤까지 내가 특별히 하는 일이 없었기 때문에 여러 자리에 나가 사람을 만나고 다녔다”고 설명했다.&lt;br&gt;&lt;br&gt;전 수석은 “(PNR에 대해 들은 자리 이후) ‘김태열’이라는 사람한테 전화가 왔고 언론사 관련 얘기를 하길래 친한 부장급 기자 연락처를 넘겨줬다”며 “이때 처음이자 마지막으로 김태열과 연락했다. 당연히 당시엔 PNR 대표인줄 알았다”고 주장했다. 김씨는 미한연 소장을 맡았던 사람으로 명씨 측 인물로 알려졌다. &lt;br&gt;&lt;br&gt;그는 “김씨가 명씨로부터 내 연락처를 받았다고 주장하는 걸로 알고 있다”며 “명씨가 내 명함도 갖고 있다고 했는데, (명씨를) 만난 적이 없는데 어떻게 내 명함을 갖고 있던건지 모르겠다”며 “건너건너 (명씨가) 내 명함과 연락처를 받았을 수도 있겠지만, 전반적으로 확실하지 않은 게 너무 많다”고 말했다.&lt;br&gt;&lt;br&gt;전 수석은 이 같은 의혹에 대한 비유로 “누군가가 ‘본인 회사에서 무언가를 하려고 하는데 해줄 수 있는 회사가 없느냐’라고 물어봐서, 내가 ‘이 회사하고 얘기해봐라’는 식으로 연결시켜준 게 전부”라며 “그리고 난 (그 일에 대해) 까먹었는데, (연결시켜준) 둘 사이에 무언가를 해서 의혹을 받고 있다면 내가 죄를 지은 것이라고 할 수 있느냐”고 주장했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>국토부 장관 “보조 배터리 비닐 정책, 재검토”</title>
+      <link>https://www.chosun.com/national/transport-environment/2025/04/23/W7J6L3Y2WVAVXPNWUOHHYFA2GQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/04/23/W7J6L3Y2WVAVXPNWUOHHYFA2GQ/</guid>
+      <dc:creator>김아사 기자</dc:creator>
+      <description>박상우 국토교통부 장관은 23일 보조 배터리 화재 예방 대책으로 내놨던 ‘비닐봉지’ 사용에 대해 “종합적으로 다시 한번 따져보겠다”는 입장을 밝혔다. 비닐봉지가 화재를 막는 데 도움이 안 되고, 보안 검색 요원들에게 비닐봉지 제공 업무가 내려지며 연휴 기간 출국 대란 우려만 커졌다는 지적이 나온 데 따른 것이다.</description>
+      <pubDate>Wed, 23 Apr 2025 08:47:45 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PGZ4CCPSUJGV5IUKZJPDUL6AQ4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;배터리 보관용 비닐/연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;박상우 국토교통부 장관은 23일 보조 배터리 화재 예방 대책으로 내놨던 ‘비닐봉지’ 사용에 대해 “종합적으로 다시 한번 따져보겠다”는 입장을 밝혔다. 비닐봉지가 화재를 막는 데 도움이 안 되고, 보안 검색 요원들에게 비닐봉지 제공 업무가 내려지며 연휴 기간 출국 대란 우려만 커졌다는 지적이 나온 데 따른 것이다.&lt;br&gt;&lt;br&gt;박 장관은 23일 국회 국토교통위원회 전체회의에 참석해 국회 측의 지적을 받고 이같이 말했다. 맹성규 국토교통위원장은 “공항 검색대에서 비닐봉지를 나눠주고 항공사 직원에게 보조배터리를 비닐에 넣어서 보여주도록 업무 지침을 만들었는데 검색대 요원이 왜 과도한 업무를 분담해야 하느냐”며 “앞서 무안공항 참사가 있었고 에어부산 화재까지 터지자 국토부가 놀라서 호들갑하는 것”이라고 지적했다.&lt;br&gt;&lt;br&gt;국토부는 최근 한국공항공사와 인천공항공사에 ‘보조배터리 및 전자담배 기내 반입 관리 지침’ 공문을 보냈다. 여기엔 보안 검색 시 배터리를 꺼내 바구니에 넣으라고 안내한 뒤, 보안 검색 요원이 필요한 승객에게 비닐봉지를 제공하라는 내용이 담겼다. &lt;br&gt;&lt;br&gt;공사 안팎에선 전형적인 ‘보여주기식’ 정책이라는 비판이 나왔다. 승객들이 보안 검색 때 비닐봉지에 배터리를 담더라도 검색 후 면세 공간 등으로 이동하면서 빼는 경우가 많아 효과가 거의 없기 때문이다.&lt;br&gt;&lt;br&gt;더욱이 비닐봉지가 화재 예방에 도움이 안 된다는 게 전문가들 견해다. 배터리 비닐봉지 대책은 정부가 지난 1월 ‘에어부산 사고’ 후 기내 화재를 막기 위한 대책 중 하나로 발표한 것이다. 에어부산 사고는 ‘배터리 내부 합선’으로 시작됐을 가능성이 큰 상황이다. 그런데 정작 비닐봉지는 배터리 단자에 클립 같은 이물질이 끼면서 생기는 ‘외부 합선’은 막을 수 있지만 ‘내부 합선’은 막지 못한다. 또한 요즘 나오는 배터리 대부분은 애초에 외부 합선은 차단하는 구조로 만들어졌기 때문에 외부 합선을 막기 위해 비닐봉지에 또 담을 필요가 없다는 의견도 있다. 박 장관은 “환경 문제를 유발한다는 지적도 있어 종합적으로 다시 한번 따져보겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>대법, 김용현 ‘선관위 서버 증거보전 신청’ 최종 기각</title>
+      <link>https://www.chosun.com/national/court_law/2025/04/23/2UJWLJALFBHV7IAC2GQAHTTFRI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/04/23/2UJWLJALFBHV7IAC2GQAHTTFRI/</guid>
+      <dc:creator>방극렬 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 23 Apr 2025 08:57:09 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7FWSCWBWIFDVPB4XQCBM7TLD6U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김용현 전 국방부 장관. /헌법재판소&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;12·3 비상계엄 사건의 핵심 피의자인 김용현 전 국방부 장관이 부정선거 의혹을 주장하며 중앙선거관리위원회 서버 등에 대해 낸 증거 보전 신청이 대법원에서 최종 기각됐다.&lt;br&gt;&lt;br&gt;23일 법조계에 따르면, 대법원 2부(주심 박영재 대법관)는 김 전 장관이 선관위 서버와 장비, 실물 기기 등에 대해 낸 증거 보전 신청을 지난 11일 최종 기각했다. 증거 보전은 정식 재판 전 법원이 미리 증거를 조사해 보전하는 절차다.&lt;br&gt;&lt;br&gt;김 전 장관 측은 구속 기소 전인 작년 12월 19일 “비상계엄의 정당성 등을 증명하기 위해 선관위 관련 증거 보전이 필요하다”며 신청했지만, 법원에서 모두 기각됐다. 김 전 장관 측은 신청 당시 “수사기관과 대법원, 선관위가 선거에 관한 의혹을 부채질했다”고 주장했다.&lt;br&gt;&lt;br&gt;한편, 서울중앙지법 형사25부(재판장 지귀연)에서 심리 중인 김 전 장관 내란죄 재판은 검찰 측 요청에 따라 비공개 증인 신문이 진행되고 있다. 정보사령부 관계자 등 현역 군인을 공개 재판하면 국가안보에 해가 될 수 있다는 이유다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>법무부, ‘채널A 사건 수사지휘’ 이정현 검사장 정직 1개월 징계</title>
+      <link>https://www.chosun.com/national/court_law/2025/04/23/PZFBCLZGXRHQZNFCTTE7JJOO5M/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/04/23/PZFBCLZGXRHQZNFCTTE7JJOO5M/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 23 Apr 2025 08:59:25 +0000</pubDate>
+      <content:encoded>지난 2020년 이른바 ‘검언유착’으로 알려진 채널A 사건 수사를 지휘했던 이정현 법무연수원 연구위원(검사장)에 대해 법무부가 정직 1개월의 징계를 의결한 것으로 23일 전해졌다. 이 위원은 서울중앙지검 1차장 시절 이 사건 수사를 맡았고, 이후 대검찰청 공공수사부장을 지냈다. 윤석열 전 대통령이 임기를 시작한 뒤 ‘한직’으로 분류되는 법무연수원 연구위원으로 자리를 옮겼다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RJRTH526EHZLF2E5SL3CNHDVZQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법무부 과천 청사 전경./조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대검은 작년 12월 이 위원이 연구위원으로서 성실의무를 위반하고, 품위를 손상시켰다며 법무부에 징계를 청구했다. 법무연수원 운영 규정에 따라 연구위원은 1년 이내에 연구논문을 제출해야 하는데 이 위원이 이를 내지 않았고, 제출기한 연장 승인도 받지 않았다는 것이다.&lt;br&gt;&lt;br&gt;이와 관련해 이 위원 측은 법무부의 징계가 부당하다는 입장을 이날 밝혔다. 이 위원은 “안전관리 일반, 산업안전보건법, 중대재해처벌법 등 3개의 대주제에 따라 2만7000여 쪽에 달하는 방대한 국내외 자료를 심도 있게 검토하여 산업안전과 관련한 법적 체계를 망라하는 내용의 논문을 작성하겠다는 계획서를 제출했다”며 “서울과학기술대 교수와의 협의 하에 계속 연구를 진행하고 있는 사정을 상세하게 소명하였다”고 했다. 이어 “단지 서면으로 연장 승인을 받지 않았다는 형식적인 규정 위반을 들어 징계를 단행한 것”이라고 했다.&lt;br&gt;&lt;br&gt;이 위원은 연장 승인 규정에 대해서도 “훈시조항에 불과하다”며 “수사가 장기간에 걸쳐 이루어졌다는 이유만을 들어 징계를 하지 못하는 것과 마찬가지”라고 했다.&lt;br&gt;&lt;br&gt;이 밖에도 이 위원은 “윤석열 정권 출범 직후 좌천성 인사를 당한 것”이라며 “당시 직무 태만이나 직무 소홀 등 어떠한 사유도 존재하지 않았다”고 했다. 또 징계위원회의 절차가 형식적으로 진행됐다고도 밝혔다.&lt;br&gt;&lt;br&gt;이 위원은 “법무부의 부당한 징계처분을 바로잡기 위한 모든 노력을 다할 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>‘이혼숙려캠프’ 측 “故 강지용 애도…누 되지 않고자 출연분 삭제”</title>
       <link>https://www.chosun.com/national/national_general/2025/04/23/QSJYXNYHOFD5NBVWIDKPZRRK5I/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/23/QSJYXNYHOFD5NBVWIDKPZRRK5I/</guid>
@@ -828,15 +911,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IP52KT3KORGT6N2PUCA6B3NBHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울남부지검 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;법무법인 광장 전직 직원들이 미공개 정보를 이용해 부당이득을 취한 혐의로 구속됐다.&lt;br&gt;&lt;br&gt;서울남부지검은 자본시장법 위반 혐의를 받는 법무법인 ‘광장’의 전산실 전직 직원 A(30대·남)씨와 B(40대·남)씨를 지난 15일 구속했다고 22일 밝혔다.&lt;br&gt;&lt;br&gt;이들은 2023년 MBK파트너스가 한국타이어 지주회사인 ‘한국앤컴퍼니’ 주식을 공개매수하는 과정에서, 해당 정보를 사전에 입수해 주식을 매수한 뒤 수십억 원의 부당이득을 얻은 혐의를 받는다.&lt;br&gt;&lt;br&gt;검찰은 A씨와 B씨가 광장이 MBK파트너스의 공개매수 자문을 맡는 과정에서 전산실 소속으로 근무하며 미공개 정보를 불법적으로 취득한 것으로 보고 있다.&lt;br&gt;&lt;br&gt;이 사건은 금융위원회 산하 증권선물위원회가 검찰에 통보하면서 수사가 시작됐다. 서울남부지검은 지난달 19일 서울 중구에 위치한 법무법인 광장 사무실을 압수수색했다.&lt;br&gt;&lt;br&gt;검찰은 당초 전산실 직원만 연루된 것으로 파악했으나, 이후 광장 소속 기업자문 그룹 소속 변호사 C씨도 지인에게 관련 정보를 전달한 혐의로 압수수색을 받은 것으로 확인됐다.&lt;br&gt;&lt;br&gt;검찰은 관련자들에 대한 추가 조사를 이어가고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>여름·겨울 오락가락 끝난다... 비 그치면 완연한 봄</title>
-      <link>https://www.chosun.com/national/transport-environment/2025/04/22/N3PBH4RF7RDWDP7CWROY4MEAQE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/04/22/N3PBH4RF7RDWDP7CWROY4MEAQE/</guid>
-      <dc:creator>박상현 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 22 Apr 2025 06:02:51 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7MILREQR55OXZORYPNUAWJV7OM.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;봄비가 내린 22일 오후 경기 수원시 한 거리에서 시민들이 우산을 쓰고 지나가고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;비구름대가 물러난 23일 전국이 대체로 맑겠고 미세먼지도 없어서 봄 나들이를 떠나기 좋을 것으로 전망됐다.&lt;br&gt;&lt;br&gt;기상청에 따르면, 23일 우리나라는 중국 상하이 부근에서 제주남쪽해상으로 이동하는 고기압 가장자리에 들면서 하늘이 대체로 맑겠다. 23일 서울의 기온이 최저 14도, 최고 23도를 기록하는 등 전국에서 완연한 봄 정취를 느낄 수 있을 전망이다. 23일 전국 아침 최저기온은 8~16도, 낮 최고기온은 14~25도로 예보됐다. 수도권과 강원·충북을 중심으로는 일교차가 15도 내외로 크게 벌어질 것으로 예상됐다.&lt;br&gt;&lt;br&gt;비 소식 없이 포근한 날씨는 이달 말까지 이어질 것으로 보인다. 기상청은 중기예보에서 이달 말까지 우리나라가 주로 고기압 영향권에 드는 가운데 기온은 최저 4~13도, 최고 16~25도로 평년 수준일 것으로 내다봤다. &lt;br&gt;&lt;br&gt;다만 이 기간 강원영동을 중심으로 대기가 건조해질 것으로 보여 산불 등 화재에 주의해야한다. 보통 건조도가 높은 시기는 5월 중순까지다. 5월 말이 되면 따뜻한 남풍(南風)이 한반도로 불어오기 시작하며 습도가 높아지게 된다. 남풍의 성질이 온난습윤에서 고온다습으로 변해가며 봄의 끝에서 여름의 시작으로 넘어가게 되는 것이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>보수 유튜버 고성국, 생방송 도중 혼절…“병원서 정밀 검사 중”</title>
       <link>https://www.chosun.com/national/national_general/2025/04/22/7XZ54ZTM5NEVPFABFRQGXKUZSY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/22/7XZ54ZTM5NEVPFABFRQGXKUZSY/</guid>
@@ -855,36 +929,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DG3LMTE57FABXMN5CMM4LT5FMI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;16일 밴드 콜드플레이의 내한 공연 스탠딩 좌석에서 목마를 탄 듯한 관객의 모습이 포착됐다. /X(옛 트위터) @coldplayaccess&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;8년 만에 내한공연을 펼치고 있는 밴드 콜드플레이의 콘서트에서 목마를 탄 관객이 포착되어 논란이 일고 있다. &lt;br&gt;&lt;br&gt;지난 17일 한 온라인 커뮤니티에는 ‘콘서트에서 목마했다가 욕먹었어’라는 제목의 글이 올라왔다. &lt;br&gt;&lt;br&gt;글쓴이 A씨는 “내 앞에 다 키 큰 남자들이라 안 보여서 애인이 목마 태워줬는데, 뒤에서 내려오라고 뭐라고 하더라”며 “그냥 무시하고 보는데 계속 애인을 툭툭 쳐서 결국 싸움 났다”고 했다. 이어 “해외 페스티벌 가보면 아무도 뭐라고 안 하는데 우리나라는 왜 이러냐?”며 “진심으로 기분 나빴다”고 했다. 댓글로 A씨는 자신이 “스탠딩” 좌석에서 목마를 탔다고 밝혔다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4TM6KTVCFJD55E7L4DK63JSPYA.png"&gt;&lt;figcaption&gt;&lt;small&gt;17일 한 온라인 커뮤니티에는 "콘서트에서 애인이 목마 태워줬는데 욕 먹었다"는 글이 올라왔다. /인스티즈&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이 글에 네티즌들은 “네가 목마를 타면 뒤에 사람들은 어떻게 보냐” “다 큰 성인이 목마, 나잇값 좀 해라” “정상적인 사람들은 뒤에 사람이 없을 정도로 먼 곳에서만 목마를 탄다”며 대부분 부정적인 반응을 보였다. 하지만 A씨는 “그럼 외국인들은 왜 뭐라고 안 하고 봐주나. 콘서트니까 서로 이해해야 한다” “외국에서 (목마로) 욕먹는다고? 너 외국 안 가봤지”라며 자신의 주장을 굽히지 않았다. &lt;br&gt;&lt;br&gt;일각에서는 “진짜로 목마 태웠으면 이미 온라인에 퍼졌을 거다. (대본) 새롭게 짜오라”며 A씨가 네티즌들의 반응을 얻기 위해 거짓말하는 것이라고 의심했다. &lt;br&gt;&lt;br&gt;그러나 이내 “방금 트위터에서 영상 봤다” “혹시 이거 글쓴이냐”는 댓글들이 이어졌다. 콜드플레이 관련 게시물을 올리는 X(옛 트위터) 계정에 스탠딩 좌석에서 목마를 탄 듯한 관객의 모습이 찍힌 영상이 올라온 것이었다. &lt;br&gt;&lt;br&gt;지난 16일 올라온 영상에는 콜드플레이의 대표곡 ‘비바 라 비다’(Viva la Vida) 노래 도중 긴 머리의 관객이 불쑥 솟아오르는 모습이 담겼다. 목마를 탄 듯 다른 관객들보다 유독 상체가 튀어나온 이 관객은 노래에 맞춰 뛰면서 휴대전화로 영상을 찍었다. 30초 분량의 영상이 끝날 때까지 해당 관객은 다른 이들보다 큰 키를 유지한 것으로 보아 계속 목마를 타고 있던 것으로 추정된다.&lt;br&gt;&lt;br&gt;이후 여러 소셜미디어와 온라인 커뮤니티에는 A씨의 글과 목마 관람 영상이 함께 퍼지며 논란이 일었다. 네티즌들은 “목마 태운 남자친구와 그 여자친구, 끼리끼리”라며 매너가 아니라고 지적했다. 일부 네티즌은 영미권 최대 온라인 커뮤니티 레딧에서도 “다른 사람들이 춤출 수 있을 만큼 공간이 넓다면 몰라도 밀집된 공간에서 목마 타는 건 민폐”라고 지적했다며 “외국이라고 해서 괜찮은 건 아니다”라고 했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/734LJGM62VKEJNVR77JQVVYXNU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;밴드 '콜드플레이(Coldplay)'가 16일 오후 경기 고양 고양종합운동장에서 두 번째 내한공연 '라이브 네이션 프레젠츠 콜드플레이 : 뮤직 오브 더 스피어스 딜리버드 바이 디에이치엘(LIVE NATION PRESENTS COLDPLAY : MUSIC OF THE SPHERES DELIVERED BY DHL)'을 펼치고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한편, 콜드플레이는 지난 16일 고양종합운동장에서 첫 공연을 시작해 오는 25일까지 같은 장소에서 총 6회 콘서트를 진행한다. 내한 공연으로는 역대 최장 기간이자 최다 관객(회당 5만명‧총 30만명) 기록이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>해외직구 반품 관세 환급금 1억4000만원 가로챈 세관 공무원</title>
-      <link>https://www.chosun.com/national/incident/2025/04/22/VZ7S5YLWORBTLBSNZ5EOGAAL44/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/04/22/VZ7S5YLWORBTLBSNZ5EOGAAL44/</guid>
-      <dc:creator>인천=이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 22 Apr 2025 05:14:58 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/U6NIQ6QGTWYIRCOTCLOCWWHV4Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;인천공항세관 전경./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;해외직구 한 물건을 반품한 구매자들이 받아야 할 관세 환급금 1억여원을 가로챈 세관 공무원이 구속 송치됐다. &lt;br&gt;&lt;br&gt;인천국제공항경찰단은 사기 등 혐의로 인천공항세관 소속 공무원 30대 A씨를 구속해 검찰에 송치했다고 22일 밝혔다. &lt;br&gt;&lt;br&gt;A씨는 지난 2019년 12월부터 2022년 1월까지 60여차례에 걸쳐 해외직구 한 물건을 반품한 구매자들이 받아야 할 관세 환급금 1억4000여만원을 가로챈 혐의를 받고 있다. &lt;br&gt;&lt;br&gt;A씨는 해외직구 반품 관세 환급을 구매자들이 신청한 것처럼 속이는 방법으로 범행한 것으로 알려졌다. &lt;br&gt;&lt;br&gt;인천공항세관은 자체 업무 조사 과정에서 문제를 확인해 경찰에 고발했다. &lt;br&gt;&lt;br&gt;경찰 조사 결과 A씨는 공범 없이 혼자 범행한 것으로 파악됐다. &lt;br&gt;&lt;br&gt;경찰 관계자는 “범죄 수익금은 환수하지 못했다”며 “A씨 개인적인 용도로 사용한 것으로 파악됐다”고 말했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“오래 하는 사람이 잘한다”…걸그룹 출신 싱글맘 ‘보험왕’ 됐다</title>
-      <link>https://www.chosun.com/national/people/2025/04/22/KYAN7YUY3REQXE2WVW2XNOJVOI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/04/22/KYAN7YUY3REQXE2WVW2XNOJVOI/</guid>
-      <dc:creator>정아임 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 22 Apr 2025 05:03:07 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/APN4C6CFC4B44JUVBP3CYX6U2M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;그룹 쥬얼리 출신 조민아(왼쪽)와 1위 시상식 사진./인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그룹 ‘쥬얼리’ 출신 조민아(41·본명 조하랑)가 보험 설계사로 전국 1위에 등극해 화제를 모으고 있다.&lt;br&gt;&lt;br&gt;조민아는 지난 20일 자신의 인스타그램에 “잘하는 사람이 오래 하는 게 아니라 오래 하는 사람이 잘한다”라며 “꾸준하게, 행복하게. 앞으로도 오래 하자”라며 자신의 근황을 전했다. &lt;br&gt;&lt;br&gt;공개된 사진에는 보험설계사로 일하며 성과 1위를 기록해 상장을 받는 모습이 담겼다. 이와 함께 ‘DB보험사’ ‘전국 1위’라는 해시태그도 덧붙였다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PUY5J3RGPX4VIV7OP7RZF6RZZM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;그룹 쥬얼리 출신 '조민아'/인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;앞서 조민아는 지난해 9월 보험 설계사로 새로운 도전에 나선 모습을 공개했다. 당시 조민아는 DB손해보험 김포TC지점 보상 처리 서비스 담당자라고 적힌 사원증과 ‘팀장’ 직함이 쓰인 이름표를 공개하면서 보험업에 종사 중인 사실을 알렸다. TC(Total Consulting) 업무는 전화 상담과 대면 영업 활동을 결합한 것으로, 보험 가입 상담부터 기존 가입 보험 상품의 장단점을 비교해 주는 역할을 한다.&lt;br&gt;&lt;br&gt;이후 조민아는 지난 2월에도 2024년 4분기 개인 부문 TC 전국 4위를 기록한 사실을 알리기도 했다. 그는 “7번째 DB Queen 수상, 가수로 무대에 서지 않으면 마이크 잡을 일이 없을 줄 알았는데 감사하게도 매달 마이크를 잡고 있다. 다음번 수상 소감으로는 노래 선물을 드려야겠다”라며 “항상 수고해 주시는 모든 스태프, 한 공간에서 서로 힘 주고받는 김포 TC 식구들, 진심으로 사랑합니다, 감사합니다”라고 소감을 밝혔다.&lt;br&gt;&lt;br&gt;1995년 아역배우로 데뷔한 조민아는 2002년 ‘쥬얼리’에 합류했다가 2005년 탈퇴했다. 이후 2020년 비연예인과 결혼해 슬하에 아들을 뒀다. 조민아는 2022년 12월 이혼 소송을 마무리했고, 홀로 아들을 키우고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/APN4C6CFC4B44JUVBP3CYX6U2M.jpg?width=719&amp;height=450&amp;auth=4109905aaf1737748f1761fd1966c5a8d3f6e1a16f05ca7551ffc2454cbe5125&amp;smart=true" type="image/jpeg" height="450" width="719">
-        <media:description type="plain">그룹 쥬얼리 출신 조민아(왼쪽)과 1위 시상식 사진./인스타그램</media:description>
-      </media:content>
-    </item>
-    <item>
-      <title>결혼할 듯 속여 지적장애인 재산 가로챈 50대...2심서 형량 늘어</title>
-      <link>https://www.chosun.com/national/regional/2025/04/22/5QOBQXOE5FAELKUP4J3IRDUSQQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/04/22/5QOBQXOE5FAELKUP4J3IRDUSQQ/</guid>
-      <dc:creator>우정식 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 22 Apr 2025 05:35:04 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OEP23TEMYVH2ZDUPWL7E4R6IAA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원 로고. /조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;결혼할 것처럼 행세하며 지적장애인의 재산을 빼돌린 혐의로 1심에서 징역형을 선고받은 50대에게 2심에서 형량이 늘어난 징역 3년이 선고됐다.&lt;br&gt;&lt;br&gt;22일 법조계에 따르면 대전지법 형사2-1부(재판장 박준범)는 준사기 혐의로 재판에 넘겨진 50대 A씨에 대한 항소심에서 징역 1년 6개월을 선고한 원심을 깨고 징역 3년을 선고했다.&lt;br&gt;&lt;br&gt;A씨는 식당 종업원으로 일할 당시 손님으로 알게 된 B씨의 지적 능력과 경제적 판단 능력이 부족한 점을 이용해 그의 연금과 대출금 등 총 1억4000만원 상당을 가로챈 혐의로 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;A씨는 B씨와 마치 결혼할 것처럼 행세하면서 B씨 계좌의 비밀번호를 받아 연금을 인출하고, B씨 앞으로 대출도 받은 것으로 조사됐다.&lt;br&gt;&lt;br&gt;1심 선고 후 검찰과 A씨 모두 항소해 진행된 항소심에서 2심 재판부는 1심의 형량이 너무 가볍다고 봤다.&lt;br&gt;&lt;br&gt;2심 재판부는 “피고인은 지능지수가 낮은 피해자를 상대로 장기간에 걸쳐 거액을 가로채 죄질이 더할 나위 없이 불량하다”며 “피해자 명의로 대출도 받아 피해자는 그와 관련한 다수의 송사에도 휘말려 곤경에 처해 있다”고 지적했다.&lt;br&gt;&lt;br&gt;그러면서 “피해자나 가족으로부터 용서받지 못했고, 피해 회복도 거의 이뤄지지 않았다”며 “피해자 가족이 엄벌을 탄원하고, 동종 범죄로 처벌받은 전력도 있어 원심이 선고한 형은 지나치게 가볍다고 보는 게 타당하다”고 판시했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[속보] 이재명 공직선거법 상고심, 대법원 전원합의체 회부...노태악 대법관은 회피</title>
       <link>https://www.chosun.com/national/court_law/2025/04/22/QEJMIMKO45AD5GJS7LVHMKRATY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/04/22/QEJMIMKO45AD5GJS7LVHMKRATY/</guid>
@@ -892,51 +936,6 @@
       <description/>
       <pubDate>Tue, 22 Apr 2025 03:07:26 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/N3RZ7ZHLVYOHHL5OWKP3OEYRSU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대권 도전에 나선 이재명 더불어민주당 전 대표가 22일 오전 서울 서초구 서울중앙지방법원에서 열린 '대장동 배임 및 성남FC 뇌물' 1심 속행 공판에 출석하며 지지자들에게 손인사를 하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이재명 더불어민주당 전 대표의 공직선거법 위반 사건이 대법원 전원합의체에 회부됐다. &lt;br&gt;&lt;br&gt;22일 대법원은 이 전 대표의 공직선거법 위반 상고심 사건을 대법원 전원합의체로 회부했다고 밝혔다. 대법원은 이날 사건을 오경미·권영준·엄상필·박영재 대법관으로 구성된 2부에 배당했다가, 곧바로 전원합의체에 회부했다. 주심은 박영재 대법관이 맡았다. &lt;br&gt;&lt;br&gt;대법원장을 포함한 대법관 13명이 참여하는 전원합의체는 소부 소속 대법관 사이 의견이 일치하지 않거나 대법원 판례를 변경할 필요가 있는 경우 등 주요 사건에 한해 열린다. 이 전 대표의 과거 공직선거법 사건도 2020년 7월 전원합의체에서 판결했다.&lt;br&gt;&lt;br&gt;전원합의체 회부와 동시에 노태악 대법관은 ‘회피 신청’을 했다. 회피는 법관이 개인적인 사유나 사건 당사자와의 관계 등의 이유로 사건을 공정하게 처리하기 어렵다고 판단할 때 스스로 재판에서 배제하는 것을 말한다. 대법원은 “중앙선거관리위원장인 노 대법관이 공직선거법 위반 사건에 대해 회피 신청을 했다”고 설명했다.&lt;br&gt;&lt;br&gt;이 전 대표는 지난 2021년 대선을 앞두고 고(故) 김문기 성남도시개발공사 1처장과 경기 성남시 백현동 한국식품연구원의 부지 용도변경과 관련해 허위 사실을 공표한 혐의로 2022년 9월 기소됐다. 대장동 개발 실무 책임자였던 김 처장을 성남시장 재직 중 알았으면서 “몰랐다”고 말하고, 같은 해 10월 국정감사에서 “국토교통부 협박으로 백현동 부지 용도를 상향했다”고 발언한 것이 문제가 됐다.&lt;br&gt;&lt;br&gt;1심은 지난해 11월 이 후보의 발언 일부에 대해 유죄로 판단하고 징역 1년에 집행유예 2년을 선고했다. 그러나 지난달 26일 2심은 이 전 대표의 발언 전부를 허위로 볼 수 없다며 무죄를 선고했다. 검찰이 상고하면서 대법원 판단을 받게 됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘이재명 암살단을 모집한다’ … SNS에 협박 글 올린 30대男 검거</title>
-      <link>https://www.chosun.com/national/incident/2025/04/22/CHB7JMWOOZEF5CL3AHQBXRKVQU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/04/22/CHB7JMWOOZEF5CL3AHQBXRKVQU/</guid>
-      <dc:creator>인천=이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 22 Apr 2025 03:11:54 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MIFTZCYR56A5IAFPTEM3ABNWT4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고./ 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이재명 더불어민주당 대선 경선 후보를 협박하는 내용의 글을 SNS(사회관계망서비스)에 올린 30대 남성이 경찰에 붙잡혔다. &lt;br&gt;&lt;br&gt;인천 삼산경찰서는 협박 혐의로 30대 남성 A씨를 붙잡아 조사하고 있다고 22일 밝혔다. &lt;br&gt;&lt;br&gt;A씨는 지난 20일 오후 11시쯤 인천시 부평구 자택에서 ‘이재명 암살단을 모집한다’는 내용의 글을 자신의 SNS에 게시한 혐의를 받고 있다. &lt;br&gt;&lt;br&gt;“(SNS에) 협박 글이 올라와 있다”는 신고를 받고 수사에 나선 경찰은 IP(인터넷프로토콜) 주소 등을 토대로 글을 올린 사람의 신원을 확인하고, 지난 21일 오후 3시 30분쯤 주거지에 있던 A씨를 붙잡았다. &lt;br&gt;&lt;br&gt;A씨는 경찰에 “장난삼아 글을 올렸다”고 진술한 것으로 알려졌다. &lt;br&gt;&lt;br&gt;경찰 관계자는 “협박죄는 피해자가 원치 않으면 가해자를 처벌할 수 없는 반의사불벌죄”라며 “민주당 측에 처벌 의사를 확인하고, A씨의 검찰 송치 여부를 결정할 예정”이라고 말했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>이재명 선거법 상고심 주심 맡은 박영재 대법관은 누구</title>
-      <link>https://www.chosun.com/national/court_law/2025/04/22/QGZHPUGRVNBCDNIAKUS747T22A/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/04/22/QGZHPUGRVNBCDNIAKUS747T22A/</guid>
-      <dc:creator>김은경 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 22 Apr 2025 01:47:24 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3OSX7TPYZRNOFH2WDP3JABKDEQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;박영재 대법관이 지난 3월 20일 서울 서초구 대법원에서 열린 성폭력 범죄의 처벌에 관한 특례법 위법(강간 등 치상) 등에 대한 전원 합의체 선고에 입장해 대기하고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이재명 전 더불어민주당 대표의 공직선거법 위반 사건의 상고심 주심을 맡은 박영재(56·사법연수원 22기) 대법관은 사법 행정 경험과 법률 지식을 두루 갖춘 것으로 평가받는다.&lt;br&gt;&lt;br&gt;박 대법관은 조희대 대법원장이 작년 6월 당시 윤석열 대통령에게 임명 제청을 했고 국회 청문회를 거쳐 같은 해 8월 대법관으로 임명됐다. &lt;br&gt;&lt;br&gt;박 대법관은 신속하고 공정한 재판을 강조해왔다. 대법관 후보자 시절 국회 인사청문회에서 “상고심 재판을 담당할 기회가 주어진다면 복잡하게 얽혀 있는 재판 지연 문제를 해결하는 데 저의 경험과 지식을 보태 우리 법원이 국민의 신뢰를 회복하는 데 최선을 다하겠다”고 했다.&lt;br&gt;&lt;br&gt;취임사에서 “사법부에 대한 신뢰는 신속하고 공정한 재판에 달려 있다고 해도 과언이 아니다”라면서 “결과의 타당성을 위해 치열하게 고민하면서도, 소송당사자를 배려하며 신속하고 공정하게 절차를 진행하는 자세가 필요하다”고 밝히기도 했다.&lt;br&gt;&lt;br&gt;박 대법관은 부산 출신으로, 배정고와 서울대 법학과를 졸업해 1996년 서울지법 동부지원 판사로 임관했다. 대전고법·서울고법·부산고법을 거쳤고 2009년에는 사법연수원 교수로 재직했다.&lt;br&gt;&lt;br&gt;법원행정처에서 인사담당관과 기획조정실장을 역임했고, 김명수 전 대법원장 재임 기간 법원행정처 차장을 지내기도 했다. 법원행정처에서 재판연구원 증원, 형사 전자소송 시스템·미래 등기 시스템 구축, 민사 항소이유서 제출 도입을 맡는 등 사법 행정 경험이 풍부하다는 평가다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>대법, 이재명 공직선거법 상고심 배당… 주심 박영재 대법관</title>
-      <link>https://www.chosun.com/national/court_law/2025/04/22/VXJ7TKEIYNGARHGHJY23BNDDHM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/04/22/VXJ7TKEIYNGARHGHJY23BNDDHM/</guid>
-      <dc:creator>김나영 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 22 Apr 2025 01:11:22 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WM3IGNSGR7BGIJPZQDYGX7GR7Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 대법원 모습./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;더불어민주당 이재명 전 대표의 공직선거법 위반 사건의 상고심을 담당할 재판부가 정해졌다. 담당 재판부 배당 절차까지 마친 대법원은 본격적으로 사건 심리에 돌입할 전망이다.&lt;br&gt;&lt;br&gt;대법원은 22일 이 전 대표의 공직선거법 위반 사건을 오경미·권영준·엄상필·박영재 대법관으로 구성된 2부에 배당했다가, 곧바로 전원합의체에 회부했다. 전원합의체는 법원행정처장을 제외한 13명으로 구성된다.&amp;nbsp;주심은 박영재 대법관이 맡았다. 주심은 법원행정처장을 제외한 12명의 대법관 중 1명이 무작위로 선정된다.&lt;br&gt;&lt;br&gt;전날인 21일은 검찰이 제출한 상고 이유서에 대한 이 전 대표 측의 답변서 제출 마감 기한이었다. 대법원 사건의 배당에 관한 내규에 따르면, 상고 본안사건은 답변서 제출 기한이 만료되면 주심을 배당하도록 되어 있다. 이 전 대표 측은 마지막 날인 이날 답변서를 제출했다. 답변서에는 무죄 선고를 내린 2심 판결이 옳다는 내용을 담은 것으로 알려졌다.&lt;br&gt;&lt;br&gt;이 전 대표는 지난 2021년 대선을 앞두고 고(故) 김문기 성남도시개발공사 1처장과 경기 성남시 백현동 한국식품연구원의 부지 용도변경과 관련해 허위 사실을 공표한 혐의로 2022년 9월 기소됐다.&lt;br&gt;&lt;br&gt;1심은 재판 2년 2개월 만인 지난해 11월 이 후보에 대해 징역 1년에 집행유예 2년을 선고했다. 반면 2심은 1심을 뒤집고 지난달 26일 이 전 대표에게 무죄를 선고했다.&lt;br&gt;&lt;br&gt;이제 막 첫발을 뗀 3심 심리 결과는 이르면 6월 중반에 나올 것으로 예상된다. 공직선거법에 따르면 선거법 위반 사건은 1심은 6개월, 2심과 3심은&amp;nbsp;3개월&amp;nbsp;이내에 선고하도록 되어 있기 때문이다. 다만 법조계에서는 이 전 대표가 오는 6월 3일 대통령 선거의 유력 후보인 점 등이 변수로 작용해 심리가 지연될 가능성이 있다는 관측도 나온다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>비 새는 마을회관 지붕 고치다 추락…뇌사 70대, 3명 살리고  떠났다</title>
-      <link>https://www.chosun.com/national/national_general/2025/04/22/EWX6GE4S5ZGLXAY773HO7EF3LY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/22/EWX6GE4S5ZGLXAY773HO7EF3LY/</guid>
-      <dc:creator>최혜승 기자 </dc:creator>
-      <description/>
-      <pubDate>Tue, 22 Apr 2025 01:48:41 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VMX5V6WMX5AIDDB7SQXTYVDZCE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경북대병원에서 뇌사 장기기증으로 간장, 신장(양측)을 3명에게 기증하고 숨진 故정대순(73)씨./한국장기조직기증원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;마을회관 지붕을 수리하던 중 낙상 사고로 뇌사 상태에 빠진 70대 가장이 3명에게 새 삶을 나누고 하늘로 떠났다.&lt;br&gt;&lt;br&gt;한국장기조직기증원은 지난달 24일 경북대병원에서 정대순(73)씨가 간과 양쪽 신장을 각각 3명에게 기증하고 숨졌다고 22일 밝혔다.&lt;br&gt;&lt;br&gt;고인은 지난달 13일 비가 새는 마을회관 지붕을 수리하던 중 추락해 병원에 긴급 이송됐으나 끝내 의식을 회복하지 못하고 뇌사 상태가 됐다.&lt;br&gt;&lt;br&gt;고인은 생전 “삶의 끝에서 누군가 도울 수 있다면 내가 가진 것을 나누고 싶다”는 말을 자주 했다. 유족은 이런 고인의 뜻을 존중해 장기 기증을 결심했다. &lt;br&gt;&lt;br&gt;유족에 따르면 고인은 경북 봉화군에서 3남 4녀 중 막내로 태어났다. 열네 살 때부터 과수원과 양계장 일을 시작했으며 매일 새벽 4시에 하루를 시작할 정도로 부지런했다. 밝고 쾌활한 성격으로 사람들과 어울리기 좋아했다. &lt;br&gt;&lt;br&gt;고인의 자녀들은 “아버지는 부지런한 모습으로 가족을 이끌어주시며 큰 가르침을 주셨다”며 “모든 일에 솔선수범하며 헌신하셨던 아버지를 존경하고 더 많은 시간을 함께하지 못한 것이 마음에 남는다. 이제는 편히 쉬시길 바란다”고 마지막 인사를 전했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>혜화역서 이틀째 출근길 시위 벌이던 전장연, 20분 만에 강제 퇴거</title>
-      <link>https://www.chosun.com/national/national_general/2025/04/22/5HELPKMWLNHI3GYZ2VZSESVACE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/22/5HELPKMWLNHI3GYZ2VZSESVACE/</guid>
-      <dc:creator>김혜민 기자, 김병권 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 22 Apr 2025 01:02:57 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FNRW46WRMRMTTOUEELYS4S3FD4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;22일 오전 서울 혜화역 승강장에서 선전전을 벌이던 전국장애인차별철폐연대(전장연) 회원들이 서울교통공사 지하철보안관들에 의해 강제 퇴거당하고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;22일 오전 서울 지하철 4호선 혜화역에서 이틀째 출근길 선전전을 벌이던 전국장애인차별철폐연대(전장연)가 약 20분 만에 강제 퇴거당했다.&lt;br&gt;&lt;br&gt;전장연은 22일 오전 8시부터 혜화역 승강장(동대문 방면)에서 선전전을 벌였으나, 서울교통공사 측은 오전 8시 4분쯤부터 ‘철도안전법 위반’을 이유로 들며 퇴거를 요청했다.&lt;br&gt;&lt;br&gt;전장연이 이에 응하지 않자 공사 측은 8시 16분쯤 지하철보안관 등을 동원해 이들을 역 바깥으로 이동시켰다. 퇴거는 약 20분 만인 오전 8시 35분쯤 모두 완료됐으나 퇴거 과정에서 양측 간에 고성이 오가고 물리적 충돌도 빚어졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>美 스탠퍼드대, 내달 한국서 ‘나이트-헤네시 장학생’ 설명회</title>
