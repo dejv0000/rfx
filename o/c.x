@@ -13,6 +13,74 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>부산서 고교생 집단폭행… 폭행 모습 휴대전화로 촬영</title>
+      <link>https://www.chosun.com/national/incident/2025/04/23/DDO2MFZQQVGIHFGNUB4BDJZLRE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/04/23/DDO2MFZQQVGIHFGNUB4BDJZLRE/</guid>
+      <dc:creator>정성원 기자</dc:creator>
+      <description>부산에서 고교생 집단폭행 사건이 발생해 경찰이 수사에 나섰다.
+23일 부상 동래경찰서에 따르면 최근 부산 동래구 한 빌라 주차장에서 고교생 2~3명이 동급생 1명을 집단으로 폭행했다.</description>
+      <pubDate>Wed, 23 Apr 2025 12:54:33 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ARZWYKVXJPJIDB72363ZBUEI5E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산동래경찰서 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산에서 고교생 집단폭행 사건이 발생해 경찰이 수사에 나섰다.&lt;br&gt;&lt;br&gt;23일 부상 동래경찰서에 따르면 최근 부산 동래구 한 빌라 주차장에서 고교생 2~3명이 동급생 1명을 집단으로 폭행했다. 또 가해 학생들은 다른 일행에게 폭행 장면을 휴대전화로 촬영하도록 지시한 것으로 알려졌다. 피해 학생은 이 일로 코뼈가 부러지는 등 전치 3주의 진단을 받았다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “영상을 외부로 유포했는지 여부 등 자세한 폭행 경위를 조사하고 있다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>광화문광장에 뜬 옥외 전광판… “뉴욕 타임스스퀘어보다 압도적”</title>
+      <link>https://www.chosun.com/national/weekend/2025/04/19/DEZ67GA7IBA4TFSJNS5A4HCI4Q/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/weekend/2025/04/19/DEZ67GA7IBA4TFSJNS5A4HCI4Q/</guid>
+      <dc:creator>김성윤 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 23 Apr 2025 12:08:59 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TEUUIOLERZD5XE4TF3QTEK5K5Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&amp;lt;아무튼주말&amp;gt;  옥외전광판  (아무튼주말 게재 전 사용금지)- 영상미디어 이신영기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 15일 오후 3시, 서울 광화문광장에서 한 무리의 외국인 관광객이 기념사진을 찍고 있었다. 그런데 방향이 특이했다. 보통 광화문광장 기념사진은 경복궁과 북악산을 배경으로 촬영하지만, 그들은 정반대였다. &lt;br&gt;&lt;br&gt;아랍에미리트에서 왔다는 아미르(36)씨는 “저 거대한 전광판을 배경으로 찍고 싶었다”며 코리아나호텔 외벽을 덮은 초대형 디지털 옥외광고판을 가리켰다. 이 전광판은 가로 22m, 세로 60m로 면적(약 1300㎡)이 농구 코트 3개를 합친 것과 비슷하다. 아미르씨는 “광화문광장 어디서나 전광판이 보이더라”며 “미국 뉴욕 타임스스퀘어에도 가봤지만 그보다 압도적인 것 같다”고 했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/36OX3R2FOVAM5OMDAHH2JYRNSI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 광화문광장에서 코리아나호텔 외벽 디지털 옥외광고판을 촬영하는 여성들. /이신영 영상미디어 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;옥외광고는 경기 불황으로 꽁꽁 얼어붙은 광고 시장에서 드물게 성장세다. 초고화질 디스플레이 등 외형적 변화뿐 아니라 빅데이터·인공지능 등 정보통신 기술과의 융합을 통한 디지털화에 성공하며 새로운 매체로 진화한 덕분이다. 뉴욕 타임스스퀘어, 런던 피카딜리서커스, 오사카 도톤보리 같은 랜드마크를 만들겠다며 정부가 ‘옥외광고물 자유표시구역’을 늘리고 있어, 디지털 옥외광고의 성장 속도에는 앞으로 더 탄력이 붙을 전망이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JAP442WVKVBULGYQB66I7QBX6M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;디지털 옥외광고가 즐비한 강남역 인근 강남대로. /이신영 영상미디어 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;옥외광고 시장은 2017년부터 연평균 약 7%씩 커지고 있다. 한국지방재정공제회 한국옥외광고센터가 발간한 ‘2024 옥외광고통계’에 따르면, 옥외광고 시장 규모는 2022년에 4조원을 넘었다. 2024년에도 4조3017억원으로 성장세를 유지한 것으로 추산된다. &lt;br&gt;&lt;br&gt;디지털 옥외광고가 특히 호황이다. 2022년 매출액이 1조2862억원으로 전년 대비 33.9% 증가하며 처음으로 1조원을 돌파했다. 2023년에는 1조5072억원으로 17.2% 불어나면서 전체 옥외광고 시장의 성장을 이끌고 있다. 이 추세는 세계적으로도 비슷하다. 글로벌 시장조사기관 스태티스타에 따르면, 2027년 세계 디지털 옥외광고 시장은 166억달러(약 24조원)로 2020년 대비 2배로 커질 전망이다.&lt;br&gt;&lt;br&gt;인쇄·방송 광고와 함께 이른바 ‘레거시 미디어(전통 매체)’로 분류되던 옥외광고는 ‘프로그래매틱 기술’과 만나며 타기팅이나 성과 측정이 어렵다는 기존 옥외광고의 한계를 극복하고 혁신적 뉴 미디어로 진화했다. &lt;br&gt;&lt;br&gt;광고 업계 관계자는 “프로그래매틱 기술은 머신러닝(기계학습)·빅데이터 분석 등으로 광고 타깃을 설정하고, 보행자 시선 움직임으로 광고 주목도를 확인하는 ‘시선 추적 분석 기술’이나 날씨·교통 상황에 따라 광고 소재를 실시간 조정하는 ‘DCO’ 기술 등을 적용한다”며 “디지털 옥외광고로 TPO(시간·장소·상황)에 맞춤한 광고 송출이 가능해졌다”고 했다. &lt;br&gt;&lt;br&gt;국내 화장품 업체 마케팅 담당 임원은 “홍대 앞 매장 인근 건물에 디지털 옥외광고를 내보냈더니 손님 유입에 직접적으로 효과가 있었다”며 “광고비는 다른 매체보다 상대적으로 저렴하면서 광고 수정은 쉬워 가성비가 높다”고 했다. &lt;br&gt;&lt;br&gt;CJ ENM 계열 메조미디어는 최근 트렌드 보고서에서 “디지털 옥외광고는 대형 화면으로 콘텐츠를 즐기는 재미를 주는 데다 관심사나 동선에 따라 맞춤 광고를 송출할 수 있다”며 “온·오프라인 광고 매체를 적절하게 융합한다면, 광고 피로도를 낮추면서 전환율(유도된 행위를 한 소비자 비율)을 극대화할 수 있다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KBFR7SI5L5DSVA2UHE3K7FUXC4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;신분당선 강남역 역사 내 설치된 디지털 옥외광고. /이신영 영상미디어 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;옥외 전광판 전성시대가 열리고 있다. 정부가 지난해 말 서울 광화문과 명동, 부산 해운대 일대를 제2기 ‘옥외광고물 자유표시구역’으로 지정한 것도 호재다. 세계적 관광 명소 조성을 목표로 모양, 크기, 색깔, 설치 방법 등 옥외광고물 규제를 대폭 완화하는 지역을 확대하는 추세다. &lt;br&gt;&lt;br&gt;2016년 서울 강남 코엑스 일대가 최초로 옥외광고물 자유표시구역으로 지정돼 크기나 형태가 다양한 옥외광고물 20여 개가 설치·운영되고 있다. 일각에서 지적하듯이 이른바 ‘빛 공해’는 풀어야 할 숙제다. &lt;br&gt;&lt;br&gt;광화문에는 코리아나호텔 외에도 KT, 교보생명, 동아일보, 세종문화회관, 동화면세점 등이 디지털 옥외광고판을 설치했거나 설치를 검토 중인 것으로 알려졌다. 몇 년 뒤면 그 일대가 뉴욕 타임스스퀘어처럼 대형 전광판으로 꾸며진 관광 명소가 될 수도 있다는 뜻이다. 광고업계 관계자는 “이 추세는 자유표시구역으로 지정된 곳뿐 아니라 다른 지역에도 옥외광고가 증가하는 효과를 가져올 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/TEUUIOLERZD5XE4TF3QTEK5K5Q.jpg?width=5217&amp;height=3478&amp;auth=b6634294874ea9874129e563f9e4a4151de6e68bc814eeb08c4b0d92e97616d4&amp;smart=true" type="image/jpeg" height="3478" width="5217">
+        <media:description type="plain">서울 광화문광장에서 코리아나호텔 외벽 디지털 옥외광고판을 촬영하는 여성들. /이신영 영상미디어 기자</media:description>
+        <media:credit role="author" scheme="urn:ebu">영상미디어 이신영기자 </media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>여주 물류창고 공사 현장서 50대 근로자 추락해 숨져</title>
+      <link>https://www.chosun.com/national/incident/2025/04/23/5SOSGYME5JASFHJNBJGRMPCYBM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/04/23/5SOSGYME5JASFHJNBJGRMPCYBM/</guid>
+      <dc:creator>정성원 기자</dc:creator>
+      <description>23일 오전 8시 30분쯤 경기 여주시 산북면 한 물류창고 신축 공사 현장에서 50대 근로자 A씨가 8m 높이에서 추락해 숨졌다.</description>
+      <pubDate>Wed, 23 Apr 2025 11:57:24 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/L4GEXC5HOZAC5NA5TDDI7RQ23U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;23일 오전 8시 30분쯤 경기 여주시 산북면 한 물류창고 신축 공사 현장에서 50대 근로자 A씨가 8m 높이에서 추락해 숨졌다. A씨는 건물 3층가량 높이의 고소 작업대 위에서 패널 공사 기초에 쓰일 뼈대를 만드는 작업을 하던 중 사고를 당한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰은 공사 관계자 등을 상대로 정확한 사고 경위를 조사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>검찰, ‘尹 공천개입 의혹’ 관련 김태우 전 강서구청장 조사</title>
+      <link>https://www.chosun.com/national/court_law/2025/04/23/MLVHHMOVSNCNLFJ22NVDFI2YQY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/04/23/MLVHHMOVSNCNLFJ22NVDFI2YQY/</guid>
+      <dc:creator>박강현 기자, 이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 23 Apr 2025 11:56:51 +0000</pubDate>
+      <content:encoded>윤석열 전 대통령 부부의 공천개입 의혹을 수사 중인 검찰이 윤 전 대통령이 공천에 관여했다는 의혹이 제기된 김태우 전 서울 강서구청장을 불러 조사했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AXZJO5QBSJMA7LZCXM7CNUFH6U.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;김태우 전 강서구청장. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;23일 본지 취재를 종합하면, 서울중앙지검 전담수사팀(팀장 이지형 차장검사)은 최근 김 전 구청장을 상대로 지난 2022년 6.1 지방선거를 앞두고 윤 전 대통령이 강서구청장 공천에 개입했는지 등을 확인한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;윤 전 대통령은 검찰 수사관 출신인 김 전 구청장이 국민의힘 강서구청장 후보로 단수 공천받도록 영향력을 행사한 의혹을 받고 있다.&lt;br&gt;&lt;br&gt;앞서 김 전 구청장은 문재인 청와대의 특별감찰반에 근무하면서 당시 민정수석실에서 여러 건의 감찰 무마가 이뤄졌다고 폭로해 지난 2021년 1월 공무상 비밀누설 혐의로 1심에서 징역 1년에 집행유예 2년을 선고받았다. &lt;br&gt;&lt;br&gt;이로 인해 그의 공천을 둘러싸고 당시 당내 반발도 있었던 것으로 알려졌다. 공무 수행 중 징역형 유죄가 확정되면 재보궐 선거를 치러야 하기 때문이다.&lt;br&gt;&lt;br&gt;하지만 김 전 구청장은 공천을 받았고, 실제 선거에서 51.3%의 득표율로 민주당 김승현 당시 후보(48.7%)를 2.6%포인트 차이로 누르고 구청장에 당선됐다. &lt;br&gt;&lt;br&gt;이와 관련해 당시 국민의힘 대표였던 이준석 개혁신당 의원은 지난해 11월 “강서구 당협위원장 셋이 (김태우 공천에) 다 반대하는데 이렇게 가면 안 될 것 같다”고 하자, 윤 전 대통령이 “그 사람들은 맨날 ‘안 된다’고 하는 사람들이다. 지면 민주당을 돕는 일 아니냐”고 말했다고 주장한 바 있다.&lt;br&gt;&lt;br&gt;결국 김 전 구청장은 2023년 5월 대법원에서 징역형이 확정돼 구청장직을 잃었는데, 윤 전 대통령이 석 달 만에 그를 사면하면서 그해 10월 보궐선거에 다시 국민의힘 공천을 받아 출마하기도 했다. &lt;br&gt;&lt;br&gt;당초 국민의힘은 ‘당 소속 선출직의 귀책사유가 있을 경우 무공천한다’는 당규에 따라 무공천도 검토했지만, 윤 전 대통령이 김 전 구청장을 사면하면서 방향을 선회한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>검찰, 건진법사 자택 ‘신권 5000만원’ 출처 추적</title>
+      <link>https://www.chosun.com/national/national_general/2025/04/23/FPQABDPW2RGRTJCBLSPMITLOIA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/23/FPQABDPW2RGRTJCBLSPMITLOIA/</guid>
+      <dc:creator>박정훈 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 23 Apr 2025 11:43:38 +0000</pubDate>
+      <content:encoded>서울남부지검 가상자산범죄합동수사단(단장 박건욱)은 무속인 ‘건진법사’ 전성배(65)씨 자택에서 지난해 말 압수한 5000만원 ‘신권 뭉칫돈’의 출처를 추적하고 있는 것으로 23일 전해졌다. 검찰은 전씨가 윤석열 정부에서 여러 인사로부터 기도비를 명목으로 금품을 수수하고, 여권 인사에게 인사·공천 청탁을 시도했는지 확인하고 있는 것으로 전해졌다.&lt;br&gt;&lt;br&gt;본지 취재를 종합하면 검찰은 작년 12월 서울 서초구 양재동 전씨 집에서 현금 5만원권 묶음 3300매(총 1억6500만원)를 압수했다. 이 중 5000만원어치 신권은 ‘한국은행’이 적힌 비닐로 포장돼 있었다. 비닐엔 기기 번호, 담당자, 책임자, 일련번호와 함께 윤석열 전 대통령 취임 3일 뒤인 ‘2022년 5월 13일’이라는 날짜가 찍혀 있었다. 시중에서 볼 수 없는 형태의 뭉칫돈이다. 한국은행 관계자는 “국책은행인 한은은 개인 대출을 하지 않는다”며 “거액의 신권 뭉칫돈은 개인이 아닌 일반 시중은행이 지급준비금 등을 현찰로 인출하려 할 때 내주는 것”이라고 했다. 전씨는 누구에게 받은 돈인지 기억이 안 난다고 진술한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;앞서 검찰은 작년 전씨의 강남구 역삼동 법당 및 집을 압수 수색하면서 대기업 임원들과 정치권 인사, 법조인 등 수백여 장의 명함을 확보한 것으로 전해졌다. 법조계 인사는 “개인 명목이 아닌 대량의 현금이 인사 청탁 목적으로 전씨에게 전달됐다면 돈을 준 사람도 업무상 횡령 등의 혐의가 적용될 수 있다”고 했다. 검찰은 전씨가 윤 전 대통령 배우자 김건희 여사 ‘선물용’이라면서 6000만원대 명품 다이아몬드 목걸이를 수수해 전달한 혐의도 수사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘마약 투약 혐의’ 이철규 아들 구속…“도망 염려” </title>
+      <link>https://www.chosun.com/national/court_law/2025/04/23/BBWREEIOWJAPBJZ2XZ7FNENN4U/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/04/23/BBWREEIOWJAPBJZ2XZ7FNENN4U/</guid>
+      <dc:creator>박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 23 Apr 2025 11:22:52 +0000</pubDate>
+      <content:encoded>마약 투약 혐의로 경찰에 붙잡힌 국민의힘 이철규 의원의 아들이 23일 구속됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WKEGRL4HW5MDBLSM2EB5CGC53U.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;마약 투약 혐의를 받는 이철규 국민의힘 의원 아들 이 모씨가 23일 오전 서울 서초구 서울중앙지방법원에서 열린 구속 전 피의자심문(영장실질심사)을 마친 뒤 법원을 나서고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지법 이정재 영장전담 부장판사는 이날 마약류관리법상 대마 투약·수수 혐의를 받는 이 의원의 아들 이모씨에 대한 영장실질심사를 진행한 뒤 구속 영장을 발부했다. 이씨와 동행한 공범 정모씨도 구속됐다. 이 부장판사는 “도망할 염려가 있다”고 사유를 밝혔다. &lt;br&gt;&lt;br&gt;이씨는 작년 10월 서울 서초구 주택가 화단에 이른바 ‘던지기’ 수법으로 묻혀져 있던 액상 대마를 찾으려다 미수에 그친 혐의를 받는다. 당시 이씨는 아내 등 2명과 렌터카를 타고 현장을 찾은 것으로 조사됐다. &lt;br&gt;&lt;br&gt;경찰은 이씨의 모발에서 대마 양성 반응이 나왔다는 국립과학수사연구원의 감정 결과를 토대로 지난 18일 구속영장을 신청했다. 이씨는 과거에도 대마 혐의로 검찰에 송치됐지만 불기소 처분을 받은 전력이 있는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;한편 이날 서울 서초경찰서는 이씨의 아내, 즉 이 의원의 며느리에 대해서도 국과수에 마약 정밀 검사를 의뢰한 결과 대마 양성 반응이 나왔다고 밝혔다. 경찰은 이들 부부를 상대로 대마 유통 경로 등을 조사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>갯벌서 물에 불은 고양이 사체들 발견...“익사시킨 듯”</title>
+      <link>https://www.chosun.com/national/national_general/2025/04/23/BLVWB2PCSFG6HGTOEBX47ENSTE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/23/BLVWB2PCSFG6HGTOEBX47ENSTE/</guid>
+      <dc:creator>정아임 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 23 Apr 2025 10:59:58 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BZAMOFLHJ5CV5JJLSZOMXCEKKM.png"&gt;&lt;figcaption&gt;&lt;small&gt;지난 22일 광양시 태인동 명당공원에서 숨진 채 발견된 고양이./'카라' 인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전남 광양시 갯벌에서 물에 불은 고양이 사체가 잇따라 발견돼 경찰이 수사에 나섰다. &lt;br&gt;&lt;br&gt;23일 동물권 행동단체 카라에 따르면 전날 낮 12시쯤 광양시 태인동 명당공원 앞 갯벌에서 물에 불어 부패된 고양이 사체가 발견됐다. 고양이는 통조림 캔이 있는 포획틀에 갇혀 숨진 상태였다.&lt;br&gt;&lt;br&gt;카라는 “누군가 고양이를 먹이로 유인해 포획한 뒤 죽이기 위해 고의적으로 포획 틀을 놓아둔 채 익사시킨 것으로 보인다”며 “해당 갯벌 지대는 섬진강으로부터 내려온 물이 남해 바다로 이어져 배도 들어오는 곳”이라고 했다.&lt;br&gt;&lt;br&gt;앞서 지난 20일에도 이 공원 일대에서 노란 무늬 고양이와 카오스 무늬 고양이가 숨진 채 발견됐다. 최초 발견자는 “한 고양이는 온몸에 물이 가득 찼는지 무게가 매우 무거웠다. 또 다른 고양이는 사체가 심하게 부패해 뼈와 가죽만 남은 정도였다”고 전했다.&lt;br&gt;&lt;br&gt;카라는 고양이들의 발견 장소와 상태 등을 볼 때 동일한 수법으로 살해된 것으로 추측했다. 카라는 “명당공원 지역에서 포획 틀을 들고 다니는 자를 목격한 분이 있다면 꼭 연락 부탁드린다”며 “명당공원 외에도 광양시 내에서 유사한 내용을 목격했다면 제보 부탁드린다”고 당부했다.&lt;br&gt;&lt;br&gt;현행 동물보호법상 동물을 학대로 죽음에 이르게 한 경우 3년 이하의 징역형 또는 3000만원 이하의 벌금형에 처해질 수 있다.&lt;br&gt;&lt;br&gt;카라는 이번 사건과 관련해 가해자를 동물보호법 위반 혐의로 광양경찰서에 고발했다. &lt;br&gt;&lt;br&gt;경찰도 동물 학대 가능성이 높은 것으로 보고 사건 경위를 조사할 방침이다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>광주 광산구 저수지서 신원미상 여성 숨진 채 발견</title>
       <link>https://www.chosun.com/national/incident/2025/04/23/P4BDOHJXINADFF2QV2IPA6Z5XI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/04/23/P4BDOHJXINADFF2QV2IPA6Z5XI/</guid>
@@ -835,46 +903,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2CIJBSZZV5EOLJBJQNNHFGSPTM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/일러스트=조선디자인랩 정다운&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;30년 넘게 가정폭력에 시달리다 아버지를 살해한 혐의로 재판에 넘겨진 30대 남성에 대해 검찰이 징역 15년을 구형했다. &lt;br&gt;&lt;br&gt;검찰은 22일 서울서부지방법원 형사합의12부(부장판사 최정인) 심리로 열린 이모(34)씨의 존속살해 혐의 사건 결심 공판에서 이같이 요청했다. &lt;br&gt;&lt;br&gt;검찰은 “피고인은 아버지로부터 30년 이상 폭력과 폭언에 시달리다 사건 당시 분노를 이기지 못하고 범행에 이르게 됐다고 자백하고 있다”며 “그러나 이 사건은 극악무도한 존속 살해로 가족 공동체의 윤리와 질서를 무너뜨린 중대한 범죄”라고 구형 이유를 설명했다.&lt;br&gt;&lt;br&gt;이씨는 이날 최후 진술에서 “30년이 넘는 기간 어머니와 저를 향한 아버지의 폭력과 폭언을 견뎌왔다”며 “성인이 된 이후 암 환자인 어머니를 남겨두고 혼자 독립할 수 없어 견디며 살았지만 순간 화를 참지 못했다”고 했다. &lt;br&gt;&lt;br&gt;이어 “어머니를 보호하고자 한 것이다. 얼마나 큰 잘못을 했는지 반성하고 있다”며 “사랑하는 어머니의 아들로 돌아갈 기회를 준다면 사회 구성원으로서 최선의 노력을 다하겠다”고 말했다. &lt;br&gt;&lt;br&gt;이씨 변호인은 “사건 당일도 망인의 폭언으로 갈등이 시작, 피고인은 이를 제지하려는 마음에서 미필적 고의에 의해 우발적으로 범행한 것을 고려해달라”며 “피고인은 자신의 행위가 얼마나 큰 잘못인지 깨닫고 반성하고 있다”고 했다. 이어 “본 사건 이전에 어떤 전과도 없던 점, 피고인의 가족과 친구, 선생님 등 주변인들이 선처를 탄원하고 있는 점, 피고인이 어머니를 부양하고자 하는 강한 의지를 가진 점 등을 고려해 선처해 주시길 바란다”고 했다. &lt;br&gt;&lt;br&gt;이씨는 작년 10월 27일 서울 은평구에 있는 한 다세대 주택에서 어머니에게 술값을 달라며 폭언하는 70대 아버지를 둔기로 때려 살해한 혐의로 구속 기소됐다.&lt;br&gt;&lt;br&gt;이씨는 범행 5일 뒤 어머니와 함께 극단적 선택을 시도했으나 실패한 후 경찰에 자수했다. 경찰 조사 결과 2017년과 2021년 이 가정에서 가정폭력 신고가 들어온 것으로 파악됐다.&lt;br&gt;&lt;br&gt;이씨의 선고 기일은 다음 달 12일 오전 10시에 열릴 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>대학 동문 등 얼굴에 나체사진 딥페이크 합성‧유포…檢, 8명 ‘구속 기소’</title>
-      <link>https://www.chosun.com/national/incident/2025/04/22/I6HY4R7KLNECZFMNGNEWWT7ZYM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/04/22/I6HY4R7KLNECZFMNGNEWWT7ZYM/</guid>
-      <dc:creator>인천=이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 22 Apr 2025 07:38:11 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4MORMCANKZHSFAOSCYHPZOYJQQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;인천지방검찰청./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대학교 동문이나 지인 여성의 얼굴에 다른 사람의 나체사진을 합성하고 유포한 일당이 법정에 서게 됐다. &lt;br&gt;&lt;br&gt;인천지검 여성아동범죄조사부(부장 정희선)는 성폭력범죄의 처벌 등에 관한 특례법상 허위 영상물 편집‧반포 등 혐의로 대학원생 A(24)씨 등 8명을 구속 기소했다고 22일 밝혔다. &lt;br&gt;&lt;br&gt;A씨 등은 지난 2022년 8월부터 지난해 12월까지 여성 41명을 대상으로 허위 영상물을 제작한 뒤 텔레그램에 개설한 이른바 ‘지인 능욕방’에 유포한 혐의를 받고 있다. &lt;br&gt;&lt;br&gt;이 단체 대화방의 관리자 B(31)씨는 피해자들의 사진을 2570여차례 편집‧합성해 2270여차례 게시한 것으로 조사됐다. 또 다른 공범 C(19)씨는 성 착취물 3020개를 갖고 있던 것으로 파악됐다. &lt;br&gt;&lt;br&gt;A씨 등은 인공지능(AI)을 이용한 ‘딥페이크’ 기술이나 사진 편집 프로그램으로 대학교 동문 여성과 지인 등의 얼굴에 다른 여성의 나체사진을 합성하는 방식으로 범행했다. &lt;br&gt;&lt;br&gt;이들은 SNS나 포털 블로그 등에 게시된 피해자들의 사진과 개인정보를 이용해 성범죄물을 제작해 피해자들의 이름과 소속 대학 이름을 넣은 ‘00대 000 공개 박제방’을 만들어 유포했다. &lt;br&gt;&lt;br&gt;검찰은 피해자의 ‘잊힐 권리’를 보장하기 위해 허위 영상물 삭제‧차단 지원을 디지털성범죄피해자지원센터에 의뢰하고 신체적‧정신적 피해 회복을 위한 지원을 하는 등 다각적인 방안을 시행했다고 설명했다. &lt;br&gt;&lt;br&gt;검찰 관계자는 “텔레그램사에 국제 공조를 요청해 단체 대화방 참여자들의 인적 사항을 특정했다”며 “경찰과 긴밀히 협력해 딥페이크 등 디지털 성범죄에 엄정 대처하겠다”고 말했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>대구 아파트 지하 주차장서 ‘충전 중 전기차’ 화재…지상 견인 뒤 진화</title>
-      <link>https://www.chosun.com/national/regional/2025/04/22/HDLAPKLVY5BITLBVROTFOKOJ54/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/04/22/HDLAPKLVY5BITLBVROTFOKOJ54/</guid>
-      <dc:creator>대구=노인호 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 22 Apr 2025 07:34:16 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SQZPFI7L7FDW7JPBBENVNLZ7SY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대구 아파트 지하 주차장에서 충전 중 불이난 전기차./대구소방안전본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;22일 오전 5시 50분쯤 대구 달서구 두류동 한 아파트 지하 2층 주차장에서 충전 중이던 전기차에서 불이 났다. &lt;br&gt;&lt;br&gt;‘전기차에서 불이 났다’는 신고를 받은 출동한 소방 당국은 도착 34분 만에 큰 불은 잡았다. 이후 불이 난 차량을 지상으로 견인한 뒤 이동식 수조를 설치해 2시간 24분 만인 이날 8시 14분 완전히 진화했다.&lt;br&gt;&lt;br&gt;이 불로 전기차 충전 시설이 일부 탔지만, 인명 피해는 없는 것으로 파악됐다. &lt;br&gt;&lt;br&gt;경찰과 소방 당국은 화재 원인과 피해 규모 등을 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[오늘의 운세]  4월 23일 수요일 (음력 3월 26일 壬戌)</title>
-      <link>https://www.chosun.com/national/national_general/2025/04/22/E7LCNBXDT5AUBGODYHORLN455Q/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/22/E7LCNBXDT5AUBGODYHORLN455Q/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Tue, 22 Apr 2025 08:00:00 +0000</pubDate>
-      <content:encoded>&lt;p&gt;&lt;div class="chosun_unse"&gt;&lt;iframe src="https://image.chosun.com/arc/unse_iframe.html" frameborder="0" scrolling="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;style&gt;.chosun_unse{position:relative;width:100%;height:350px;box-sizing:border-box}.chosun_unse&gt;iframe{position:absolute;top:0;left:0;width:100%;height:100%;overflow-y:hidden}@media all and (max-width:1024px){.chosun_unse{height:350px}}@media all and (max-width:1023px){.chosun_unse{height:350px}}@media all and (max-width:528px){.chosun_unse{height:270px}}@media all and (max-width:384px){.chosun_unse{height:190px}}&lt;/style&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;p&gt;&lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani01.gif"&gt;  	&amp;nbsp;	 36년생 몸 건강도 좋지만 마음 건강 유의. 48년생 감정 치우치면 일 그르친다. 60년생 페달 안 밟는 자전거는 멈춰 있거나 넘어지거나. 72년생 배우자 관계에 현명한 처신 필요. 84년생 삼베 중의에 방귀 새듯 쉽구나. 96년생 남들 뭐라 하든 자신만의 길을 가라.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt;  &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani02.gif"&gt;	&amp;nbsp;	 37년생 성급하면 대어 낚기 어렵다. 49년생 가족이나 자녀로 인한 곤란 예상. 61년생 아랫사람 배려와 보살핌으로 행복한 하루. 73년생 미래 투자에 인색해하지 마라. 85년생 사사로운 감정에 안 휘둘리도록 경계. 97년생 불확실한 상황일수록 확고한 목적 의식 필요.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani03.gif"&gt;	&amp;nbsp;	 38년생 조금만 참으면 안정적인 상황 전개될 듯. 50년생 적극적 대응보다 관망 필요. 62년생 가당치 않은 일이면 꿈도 꾸지 마라. 74년생 쉽게 얻으면 쉽게 잃는 게 세상 이치. 86년생 삼 년 먹여 기른 강아지가 주인 발등 문다. 98년생 노력 비해 소득 적을 수도.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani04.gif"&gt;	&amp;nbsp;	 27년생 상황 바뀌어도 원칙 지켜라. 39년생 북쪽 문은 피하는 것이 상책. 51년생 식복 재복이 넉넉하다. 63년생 우울감은 우울감을 전이시키는 법. 75년생 지나고 보면 별일 아니다. 87년생 자신감만 있으면 세상은 모두 내 편. 99년생 동업은 생각도 마라.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani05.gif"&gt;	&amp;nbsp;	 28년생 상처는 나아도 흉은 남는 법. 40년생 모르는 것이 약이 되는 수 있다. 52년생 입은 닫고 귀는 열어라. 64년생 급작스러운 변화는 피하는 것이 상책. 76년생 소띠와의 관계에 주의 필요. 88년생 소문만 듣고 판단하면 손해. 00년생 인색은 친구도 멀게 한다.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani06.gif"&gt;	&amp;nbsp;	 29년생 숫자 5, 10 행운 부른다. 41년생 소소한 일은 웃고 넘겨라. 53년생 골치 아픈 일이 원만히 해결. 65년생 투자나 매매는 불리하니 다음 기회에. 77년생 동쪽 문으로 출입이 유익하다. 89년생 되로 주니 말로 받는구나. 01년생 저자세로 임하는 것이 상책.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani07.gif"&gt;	&amp;nbsp;	 30년생 변칙이 아닌 정석대로 진행하라. 42년생 입은 재앙을 부르는 문. 54년생 서기(瑞氣)가 서쪽에서 비친다. 66년생 밸런스가 중요한 시기. 78년생 거스를 수 없다면 대세를 따르라. 90년생 사소한 말(言)로 큰일을 그르친다. 02년생 분수를 지키면 하루가 편안.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani08.gif"&gt;	&amp;nbsp;	 31년생 조급하게 서두르지 마라. 43년생 산토끼 잡으려다 집토끼 놓칠라. 55년생 지나침은 모자람만 못한 법. 67년생 한 줌의 불씨가 태산을 태운다. 79년생 귀인의 도움으로 어려움이 풀린다. 91년생 섣달 추위에 모시 적삼 입은 격. 03년생 놓친 고기가 크다 했다.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani09.gif"&gt;	&amp;nbsp;	 32년생 눈앞 이익보다 장기적 안목이 필요. 44년생 주변 사람으로 인한 번민. 56년생 막혔던 물꼬가 트이는 시기. 68년생 간담(肝膽) 질환은 즉시 진료. 80년생 함께하는 일에 이익이 크다. 92년생 자존심보다 목적 달성이 먼저. 04년생 최고를 희망하되 최악도 대비.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani10.gif"&gt;	&amp;nbsp;	 33년생 이동과 변화에 적극 대처하라. 45년생 잘 먹은 음식이 보약보다 낫다. 57년생 감정적, 유희적인 일에 시간 낭비 마라. 69년생 무심한 일상 습관이 자신을 만든다. 81년생 언쟁은 손실 초래, 주의가 필요. 93년생 처지와 분수 고려 안 한 결정은 후회막급.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani11.gif"&gt;	&amp;nbsp;	 34년생 중앙 피해 가장자리로 걷고 앉아라. 46년생 숫자 4, 9와 흰색은 행운 부른다. 58년생 능력 이상의 성과와 보상 따른다. 70년생 나무는 껍질, 사람은 체면이 중요. 82년생 고민 걱정은 묵히지 말고 즉시 해소하도록. 94년생 학수고대한 소원은 언제나 이뤄질까.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani12.gif"&gt;	&amp;nbsp;	 35년생 묘책 있으나 성사는 어렵다. 47년생 함께 손잡고 나아가는 게 인생살이. 59년생 마음에 안 차도 칭찬을 잊지 마라. 71년생 감정으로 추진한 일이 망신 부른다. 83년생 어딜 가든 누구를 만나든 자중자애. 95년생 고집과 일관성이 성사의 밑거름.	&lt;br&gt;
-&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;한소평 금오산방 강주  &lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/p&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/4MTFRYWHBJA7XOKKF7G7JPLX5U.png?width=800&amp;height=420&amp;auth=4651b5b20b5d4901424204d1456faee02e4b064ff509db23945deabf4404c8ef&amp;smart=true" type="image/png" height="420" width="800"/>
-    </item>
-    <item>
       <title>이재명 상고심, 대법 전원합의체 회부... 곧바로 첫 회의 열어 심리</title>
       <link>https://www.chosun.com/national/court_law/2025/04/22/P74A4F4EQJGUNLNOGLF2QON6KM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/04/22/P74A4F4EQJGUNLNOGLF2QON6KM/</guid>
@@ -882,33 +910,6 @@
       <description/>
       <pubDate>Tue, 22 Apr 2025 05:10:48 +0000</pubDate>
       <content:encoded>대법원이 22일 오전 이재명 더불어민주당 전 대표의 공직선거법 위반 사건을 전원합의체에 회부하고, 이날 오후 첫 합의 기일을 열었다. 대법관 전원합의체가 회의를 열고 본격적인 심리에 나선 것이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BWKV2CCJO4SU2QRTCDNP2KTFVU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대권 도전에 나선 이재명 더불어민주당 전 대표가 22일 오전 서울 서초구 서울중앙지방법원에서 열린 '대장동 배임 및 성남FC 뇌물' 1심 공판에 출석하며 지지자들에게 손인사를 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대법원은 이날 오전 이 전 대표의 공직선거법 위반 사건의 주심을 배당하고, 사건을 오경미·권영준·엄상필·박영재 대법관으로 구성된 2부에 배당했다가, 곧바로 전원합의체에 회부했다. 주심은 박영재 대법관이, 재판장은 조희대 대법원장이 맡는다.&lt;br&gt;&lt;br&gt;법조계에서는 대법원이 주심을 배당한 당일에 사건을 전원합의체에 회부하고, 회의까지 여는 것이 이례적이라는 반응이 나온다. 한 법원 관계자는 “소부에 사건을 맡기지 않고 전원합의체에 올렸다는 것은 대선을 염두에 둔 때문인 것 같다”고 했다. &lt;br&gt;&lt;br&gt;이 사건은 조 대법원장이 대법관들의 의견을 들어 전원합의체에 회부하도록 지정했다고 한다. 대법원 내규는 ‘중대한 공공의 이해관계와 관련되거나 국민적 관심도가 매우 높은 사건’에 대해 대법원장이 전원합의체 합의 기일에서 심리할 사건으로 지정할 수 있도록 규정하고 있다.&lt;br&gt;&lt;br&gt;대법원장을 포함한 대법관 13명이 참여하는 전원합의체는 소부 소속 대법관 사이 의견이 일치하지 않거나 대법원 판례를 변경할 필요가 있는 경우, 부에서 재판하는 것이 적당하지 않다고 인정되는 경우 등에 열린다.&lt;br&gt;&lt;br&gt;다만 노태악 대법관은 이 사건에 대한 회피 신청을 했다. 회피는 법관이 개인적인 사유나 사건 당사자와의 관계 등의 이유로 사건을 공정하게 처리하기 어렵다고 판단할 때 스스로 재판에서 배제하는 것을 말한다. 대법원은 “중앙선거관리위원장인 노 대법관이 공직선거법 위반 사건에 대해 회피 신청을 했다”고 설명했다.&lt;br&gt;&lt;br&gt;이 전 대표는 지난 2021년 대선을 앞두고 고(故) 김문기 성남도시개발공사 1처장과 경기 성남시 백현동 한국식품연구원의 부지 용도 변경과 관련해 허위 사실을 공표한 혐의로 2022년 9월 기소됐다. 대장동 개발 실무 책임자였던 김 처장을 성남시장 재직 중 알았으면서 “몰랐다”고 말하고, 같은 해 10월 국정감사에서 “국토교통부 협박으로 백현동 부지 용도를 상향했다”고 발언한 것이 문제가 됐다.&lt;br&gt;&lt;br&gt;1심은 지난해 11월 이 전 대표의 발언 일부에 대해 유죄로 판단하고 징역 1년에 집행유예 2년을 선고했다. 그러나 지난달 26일 2심은 이 전 대표의 발언 전부를 허위로 볼 수 없다며 무죄를 선고했다. 검찰이 상고하면서 이 전 대표는 대법원 판단을 받게 됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>이혼 전 별거 중인 남편 명의로 5000만원 대출받은 아내 실형 </title>
-      <link>https://www.chosun.com/national/national_general/2025/04/22/ZEWWCPKANNE3THADMKKFCR5KY4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/22/ZEWWCPKANNE3THADMKKFCR5KY4/</guid>
-      <dc:creator>김명일 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 22 Apr 2025 07:27:27 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VDZIEJTKE63QO375J37JOA3HAQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원 관련 이미지. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이혼을 앞두고 별거 중인 상태에서 남편 명의로 몰래 거액을 대출받은 30대 여성이 실형을 선고받았다.&lt;br&gt;&lt;br&gt;22일 청주지법 형사4단독 강현호 판사는 사문서위조·위조사문서행사 혐의로 재판에 넘겨진 30대 여성 A씨에게 징역 10개월을 선고했다고 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난해 1월 충북 청주의 한 은행을 방문해 이혼을 앞두고 별거 중이던 남편 B씨의 명의로 5000만원을 대출받은 혐의다.&lt;br&gt;&lt;br&gt;A씨는 위조한 B씨 도장으로 대출을 받은 것으로 조사됐다.&lt;br&gt;&lt;br&gt;B씨는 본인 확인 절차 없이 대출을 승인한 은행을 상대로 민사소송을 진행 중인 것으로 알려졌다.&lt;br&gt;&lt;br&gt;강 판사는 “피고인은 피해 회복을 위한 노력을 다하지 않았고 피해자는 엄벌을 탄원하고 있다”며 “하지만 피고인이 피해금의 일부를 피해자와의 사이에 둔 자녀를 위해 썼고, 초범인 점을 참작했다”고 양형 이유를 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>부산 도시철도 사상~하단선 대형 땅꺼짐…“부실 시공·감독 탓"</title>
-      <link>https://www.chosun.com/national/regional/yeongnam/2025/04/22/Z7I6QBCUTBF3ZN6BXRVQQL4J3U/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/yeongnam/2025/04/22/Z7I6QBCUTBF3ZN6BXRVQQL4J3U/</guid>
-      <dc:creator>박주영 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 22 Apr 2025 07:17:58 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OUPK643LOZH6BP3DEOYPIL75PM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산시 감사위원회가 22일 부산 도시철도 사상~하단선 주변 땅꺼짐 발생 등과 관련한 특별감사 결과를 발표하고 있다./부산시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난해 9월 발생한 부산 사상∼하단 도시철도 2공구 구간 2곳의 대형 땅꺼짐(싱크홀)이 시공사와 감리단의 차수벽 관련 부실시공, 공사 발주기관인 부산교통공사의 소홀한 관리·감독 등에서 비롯됐다는 부산시 감사 결과가 나왔다.&lt;br&gt;&lt;br&gt;부산시 감사위원회는 “지난해 잇따라 발생한 ‘부산도시철도 사상∼하단선’ 대형 땅 꺼짐 관련 특정 감사를 지난해 10월 21일부터 11월 15일까지 진행한 결과, 공사 과정에서 품질·안전·시공 관리에 과실이 있었고 규정 위반 사항도 다수 발견됐다“고 22일 밝혔다.&lt;br&gt;&lt;br&gt;시 감사위가 이날 발표한 특정감사 결과에 따르면 지난해 9월 21일 사상구 새벽로에서 발생한 2곳의 대형 땅꺼짐(가로 4m·세로 8m·깊이 5m, 가로 5m·세로 7m·깊이 5m)은 379㎜에 달하는 집중호우와 부실한 물막이(차수) 공사, 시공관리 소홀 등이 복합적으로 작용해 발생했다. &lt;br&gt;&lt;br&gt;이 땅꺼짐은 당시 굴착 작업을 위해 공사 구간 빗물 관로를 옆으로 옮기면서 연결관을 기존 관 굵기보다 작은 것으로 사용하고 이들 관의 접합도 튼튼히 하지 않아 집중호우에 연결 부위가 깨졌고 빗물이 대량 지하로 새나가 토사를 쓸어가면서 발생한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;감사위 측은 “또 시공사가 지하철이 다니는 구조물 좌우에 화학약제를 주입, 흙을 콘크리트처럼 굳히는 공법을 적용했는데 이 공법이 충분한 차수 기능을 발휘할 수 있는지 품질시험을 제대로 하지 않은 채 공사를 진행한 것도 땅꺼짐 발생 원인 중 하나로 보인다”고 말했다.&lt;br&gt;&lt;br&gt;이 땅꺼짐이 발생하기 전에도 현장 좌우의 차수벽에서 물이 계속 새 나와 공사가 중단된 적도 있었다고 감사위 측은 밝혔다. 윤희연 감사위원장은 “차수벽 누수 현상은 차수 공사를 부실하게 했다는 뜻”이라며 “차수벽 누수로 인한 공사 중단 사실을 안 부산교통공사도 시공사 측에 대책 수립과 실행을 지시만 했지 실제로 이행됐는지 확인을 하지 않는 등 관리 감독을 소홀히 했다”고 밝혔다.&lt;br&gt;&lt;br&gt;또 시공사와 건설사업관리단은 차수 공사의 품질시험 성과 검토, 흙막이 가시설 공사의 세부 안전관리계획 이행 등 시공 관리를 부실하게 했던 것으로 드러났다. &lt;br&gt;&lt;br&gt;감사위원회는 이에 따라 시정·주의 등 행정 조치 10건, 훈계 등 신분상 조치 10건, 과다계상된 공사비 11억5900만원 감액 조치 등을 하도록 부산교통공사에 요구했다. 또 시공사와 건설사업관리단(감리단)에 대해선 벌점을 부과하라고 부산교통공사에 통보했다. &lt;br&gt;&lt;br&gt;부산도시철도 사상∼하단선은 2호선 사상역에서 1호선 하단역까지 총연장 6.9㎞에 7개 정거장 규모로, 2026년 말 개통을 목표로 건설이 진행 중이다. 당초 2023년 완공 예정이었으나 연약지반과 누수 발생 등으로 인해 3년 늦춰졌다. 사업비는 8287억원이다. 현재 공정률은 70% 남짓이다. &lt;br&gt;&lt;br&gt;사상~하단선 공사 현장 주변에서 2023년 3차례, 2024년 8차례 땅꺼짐이 생겼고, 올들어 지금까지 3차례 발생했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>검찰, ‘미공개 정보 이용 의혹’ 법무법인 광장 전 직원 구속</title>
-      <link>https://www.chosun.com/national/national_general/2025/04/22/KFGVPFRNJFEMLCNH5GLRHFJYDI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/22/KFGVPFRNJFEMLCNH5GLRHFJYDI/</guid>
-      <dc:creator>고유찬 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 22 Apr 2025 06:55:06 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IP52KT3KORGT6N2PUCA6B3NBHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울남부지검 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;법무법인 광장 전직 직원들이 미공개 정보를 이용해 부당이득을 취한 혐의로 구속됐다.&lt;br&gt;&lt;br&gt;서울남부지검은 자본시장법 위반 혐의를 받는 법무법인 ‘광장’의 전산실 전직 직원 A(30대·남)씨와 B(40대·남)씨를 지난 15일 구속했다고 22일 밝혔다.&lt;br&gt;&lt;br&gt;이들은 2023년 MBK파트너스가 한국타이어 지주회사인 ‘한국앤컴퍼니’ 주식을 공개매수하는 과정에서, 해당 정보를 사전에 입수해 주식을 매수한 뒤 수십억 원의 부당이득을 얻은 혐의를 받는다.&lt;br&gt;&lt;br&gt;검찰은 A씨와 B씨가 광장이 MBK파트너스의 공개매수 자문을 맡는 과정에서 전산실 소속으로 근무하며 미공개 정보를 불법적으로 취득한 것으로 보고 있다.&lt;br&gt;&lt;br&gt;이 사건은 금융위원회 산하 증권선물위원회가 검찰에 통보하면서 수사가 시작됐다. 서울남부지검은 지난달 19일 서울 중구에 위치한 법무법인 광장 사무실을 압수수색했다.&lt;br&gt;&lt;br&gt;검찰은 당초 전산실 직원만 연루된 것으로 파악했으나, 이후 광장 소속 기업자문 그룹 소속 변호사 C씨도 지인에게 관련 정보를 전달한 혐의로 압수수색을 받은 것으로 확인됐다.&lt;br&gt;&lt;br&gt;검찰은 관련자들에 대한 추가 조사를 이어가고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>보수 유튜버 고성국, 생방송 도중 혼절…“병원서 정밀 검사 중”</title>
@@ -936,15 +937,6 @@
       <description/>
       <pubDate>Tue, 22 Apr 2025 03:07:26 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/N3RZ7ZHLVYOHHL5OWKP3OEYRSU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대권 도전에 나선 이재명 더불어민주당 전 대표가 22일 오전 서울 서초구 서울중앙지방법원에서 열린 '대장동 배임 및 성남FC 뇌물' 1심 속행 공판에 출석하며 지지자들에게 손인사를 하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이재명 더불어민주당 전 대표의 공직선거법 위반 사건이 대법원 전원합의체에 회부됐다. &lt;br&gt;&lt;br&gt;22일 대법원은 이 전 대표의 공직선거법 위반 상고심 사건을 대법원 전원합의체로 회부했다고 밝혔다. 대법원은 이날 사건을 오경미·권영준·엄상필·박영재 대법관으로 구성된 2부에 배당했다가, 곧바로 전원합의체에 회부했다. 주심은 박영재 대법관이 맡았다. &lt;br&gt;&lt;br&gt;대법원장을 포함한 대법관 13명이 참여하는 전원합의체는 소부 소속 대법관 사이 의견이 일치하지 않거나 대법원 판례를 변경할 필요가 있는 경우 등 주요 사건에 한해 열린다. 이 전 대표의 과거 공직선거법 사건도 2020년 7월 전원합의체에서 판결했다.&lt;br&gt;&lt;br&gt;전원합의체 회부와 동시에 노태악 대법관은 ‘회피 신청’을 했다. 회피는 법관이 개인적인 사유나 사건 당사자와의 관계 등의 이유로 사건을 공정하게 처리하기 어렵다고 판단할 때 스스로 재판에서 배제하는 것을 말한다. 대법원은 “중앙선거관리위원장인 노 대법관이 공직선거법 위반 사건에 대해 회피 신청을 했다”고 설명했다.&lt;br&gt;&lt;br&gt;이 전 대표는 지난 2021년 대선을 앞두고 고(故) 김문기 성남도시개발공사 1처장과 경기 성남시 백현동 한국식품연구원의 부지 용도변경과 관련해 허위 사실을 공표한 혐의로 2022년 9월 기소됐다. 대장동 개발 실무 책임자였던 김 처장을 성남시장 재직 중 알았으면서 “몰랐다”고 말하고, 같은 해 10월 국정감사에서 “국토교통부 협박으로 백현동 부지 용도를 상향했다”고 발언한 것이 문제가 됐다.&lt;br&gt;&lt;br&gt;1심은 지난해 11월 이 후보의 발언 일부에 대해 유죄로 판단하고 징역 1년에 집행유예 2년을 선고했다. 그러나 지난달 26일 2심은 이 전 대표의 발언 전부를 허위로 볼 수 없다며 무죄를 선고했다. 검찰이 상고하면서 대법원 판단을 받게 됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>美 스탠퍼드대, 내달 한국서 ‘나이트-헤네시 장학생’ 설명회</title>
-      <link>https://www.chosun.com/national/people/2025/04/22/CKTLV56KFBEQHISHMP56KRMPF4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/04/22/CKTLV56KFBEQHISHMP56KRMPF4/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Mon, 21 Apr 2025 15:53:00 +0000</pubDate>
-      <content:encoded>스탠퍼드대 한국총동문회(회장 김재열)는 성균관대와 함께 ‘나이트-헤네시 장학생’(Knight-Hennessy Scholars·KHS) 설명회를 5월 6~7일 연다고 21일 밝혔다. 6일에는 한국과학기술원(KAIST) 서울캠퍼스, 7일엔 성균관대 국제홀에서 각각 설명회가 열린다. 스탠퍼드대 석박사 과정 학생들을 대상으로 전공에 관계없이 매년 100명을 선발한다. 장학생으로 뽑히면 3년까지 등록금 전액과 생활비, 연 1회 스탠퍼드대를 오가는 왕복 여행 경비를 지급한다. 지원서는 6월 1일부터 받는다. KHS는 나이키 창업자 필 나이트가 기부한 기금을 바탕으로 조성됐다. 스탠퍼드대 전 총장이자 현재 알파벳 의장 존 헤네시 이름을 따 2016년 설립됐다. 2018년부터 장학생을 선발하기 시작, 2023년까지 6년간 424명을 뽑았다. KHS 모금액은 7억5000만달러(약 1조원)로 전 세계 대학 장학금 중 최대 규모로 알려져 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>저탄소 실천할 때마다 포인트 제공… 녹색 소비 문화 확산에 앞장</title>
