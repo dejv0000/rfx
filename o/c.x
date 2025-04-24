@@ -13,6 +13,78 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>올해 변호사시험 합격자 1744명… 작년보다 1명 줄어</title>
+      <link>https://www.chosun.com/national/court_law/2025/04/24/5ELJCK24L5B4PN2L5BHFV4IAXE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/04/24/5ELJCK24L5B4PN2L5BHFV4IAXE/</guid>
+      <dc:creator>박강현 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 24 Apr 2025 09:42:15 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FMIKU47EYKGMSS6GOW7EZGE2SI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기도 과천 법무부 청사 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;올해 제 14회 변호사시험에서 총 1744명(총점 880.1점 이상)이 합격했다.&lt;br&gt;&lt;br&gt;법무부는 24일 변호사시험 관리위원회 심의 의견 및 대법원·대한변호사협회·법학전문대학원협의회 등 유관기관 의견과 법학전문대학원 도입 취지를 고려해 이같이 결정했다고 밝혔다.&lt;br&gt;&lt;br&gt;올해 변호사시험은 지난 1월 14일부터 18일(16일 휴식일)까지 진행됐다.&lt;br&gt;&lt;br&gt;합격자는 지난해 13회 시험(1745명)보다 1명 줄었다. 사실상 차이가 없는 수준이다. 12회 시험 합격자는 1725명(응시자 3255명)이었다.&lt;br&gt;&lt;br&gt;합격률은 전체 응시자(3336명) 대비 52.28％로, 전년(3290명 중 53％)과 비교해 소폭 하락했다. 초시 합격률(올해 14기 석사 학위 취득자 대비 합격률)은 74.78%를 기록했다.&lt;br&gt;&lt;br&gt;총 입학정원(2000명) 대비 합격률은 87.2％, 졸업 후 5년 동안 5회의 응시 기회를 모두 사용한 응시자의 최종 누적 합격률은 88.29％로 집계됐다.&lt;br&gt;&lt;br&gt;채점 결과 등 구체적 통계 자료는 다음 달 중 법무부 홈페이지에 게시할 예정이다.&lt;br&gt;&lt;br&gt;한편 법무부는 작년에 이어 올해에도 휴대전화나 커닝페이퍼를 소지·사용한 부정행위자 2명을 적발했고, 이들에게 이번 시험 무효 및 5년 간 응시자격 제한 처분을 내렸다고 밝혔다. &lt;br&gt;&lt;br&gt;법무부는 “휴대전화 단순 소지 행위, 시험관리관의 소지품 확인 요구 및 제출 지시에 불응하는 행위도 부정행위에 해당하도록 변호사시험법 시행령을 개정하는 등 시험관리 강화 방안을 마련해 시행할 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘尹부부 공천개입 의혹 수사’ 검찰, 구상찬 전 의원 참고인 소환</title>
+      <link>https://www.chosun.com/national/court_law/2025/04/24/3WR2D5ERYJEJHMG37LQS63V7YI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/04/24/3WR2D5ERYJEJHMG37LQS63V7YI/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 24 Apr 2025 10:09:48 +0000</pubDate>
+      <content:encoded>윤석열 전 대통령 부부 공천 개입 의혹을 수사하는 검찰이 김태우 전 강서구청장 캠프의 공동선거대책위원장을 맡았던 구상찬 전 의원을 24일 소환해 조사했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/T3TK4CA275MOFHOOUYHH7CUOBU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;국민의힘 김태우 강서구청장 보궐선거 후보의 선거대책위원회가 2023년 9월 28일 오전 발산역 인근에서 연 선대위 출정식에서 참가자들이 손을 들어올리고 있다. 왼쪽부터 구상찬 전 의원, 김기현 대표, 김태우 후보, 나경원 전 의원, 김성태 전 의원. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 서울중앙지검 전담수사팀(팀장 이지형 차장검사)은 이날 구 전 의원을 참고인 신분으로 불러 윤 전 대통령이 김 전 구청장의 공천에 개입했는지 여부를 캐물었다. 이 과정에서 구 전 의원이 윤 전 대통령으로부터 공천과 관련해 연락을 받았는지, 경선 과정에서 김 전 구청장을 지지하라는 요구를 받았는지 등을 상세히 물었다고 한다.&lt;br&gt;&lt;br&gt;그러나 구 전 의원은 “김 전 구청장의 공천은 윤 전 대통령과 무관하다”는 취지로 진술한 것으로 전해졌다. 공천 전후로 윤 전 대통령 측으로부터 연락을 받거나 만난 사실도 없다는 것이 구 전 의원 입장이라고 한다. 또 공천 개입 의혹의 핵심 인물인 정치 브로커 명태균씨에 대해서도 구 전 의원은 지난해 의혹이 불거질 당시 언론 보도를 통해 처음 알게 됐다고 진술한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;이와 관련해 검찰은 최근 김 전 구청장을 직접 조사하기도 했다. 김 전 구청장은 이날 본지에 “2022년 공천은 윤 전 대통령과는 관계가 없다”는 입장을 밝혔다.&lt;br&gt;&lt;br&gt;한편, 검찰은 이날 윤 전 대통령 부부가 공천에 개입했다는 의혹이 불거진 평택시장 선거 당시 국민의힘 경선에 출마했던 공재광 전 평택시장도 참고인으로 불러 조사했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>김용현 등 ‘내란 재판’서 尹 탄핵결정문 증거 신청...변호인 즉각 반발</title>
+      <link>https://www.chosun.com/national/court_law/2025/04/24/WFROYKWPLRAM5FINAW6YFENSOI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/04/24/WFROYKWPLRAM5FINAW6YFENSOI/</guid>
+      <dc:creator>김은경 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 24 Apr 2025 10:03:57 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HZWPBZ4FMI5UBP32UTJDXF2E3Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김용현 전 국방부 장관. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;12·3 비상계엄에 가담한 혐의로 기소된 김용현 전 국방부 장관 등 군 지휘부의 재판에서 검찰이 헌법재판소의 윤석열 전 대통령의 탄핵심판 결정문을 증거로 신청했다. 김 전 장관 측은 즉각 반발했다.&lt;br&gt;&lt;br&gt;서울중앙지법 형사25부(재판장 지귀연)는 24일 내란 중요 임무 종사 등 혐의를 받는 김 전장관과 노상원 전 정보사령관, 김용군 전 국방부 조사본부 수사본부장에 대한 5차 공판 기일을 열었다.&lt;br&gt;&lt;br&gt;검찰은 이날 “국헌문란 목적 등을 입증하기 위해 (윤 전 대통령) 탄핵심판 결정문을 추가 증거로 신청한다”고 했다. &lt;br&gt;&lt;br&gt;이에 김 전 장관 측은 “헌재는 탄핵심판에서 형사 소송과 다르게 증거 능력을 완화해 사실을 인정했다”며 반발했다. 증거 법칙을 형사 소송보다 완화해서 적용한 판결의 결정문을 형사 소송에서 채택하는 것은 맞지 않다는 것이다. 김 전 장관의 변호인은 “헌재가 헌법 소송의 특수성을 감안해 (증거를) 형사 소송과 달리 취급한다는 것을 분명히 하기도 했다”고 말했다.&lt;br&gt;&lt;br&gt;이날 공판에선 이른바 ‘햄버거집 모의’와 관련해 국군정보사령부 소속 김봉규 대령에 대한 증인 신문을 비공개로 진행했다. 이 재판은 지난달 27일 정보사 소속 증인들에 대한 신문이 시작된 2차 공판 이후 이날까지 4차례 연속 비공개로 열렸다. 국가 기밀을 다루는 정보사 소속 증인들의 신상정보나 부대·동선 등이 공개돼선 안 된다는 이유다.&lt;br&gt;&lt;br&gt;한편 재판부는 오는 9월까지 약 15차례의 공판 기일을 지정해 두겠다는 방침을 밝혔다. 한 달에 3~4차례 기일이 열릴 것으로 보인다. 구체적인 기일은 추후 양측 일정을 조율해 확정할 예정이다. 다음 공판 기일은 내달 14일에 진행된다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[부음] 김점룡 前 조선일보 판매국 부국장 별세 외</title>
+      <link>https://www.chosun.com/national/obituary-personnel/2025/03/17/3OWOJ7ZJMVGSFBLTL7PWWQ5RUI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2025/03/17/3OWOJ7ZJMVGSFBLTL7PWWQ5RUI/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Sun, 16 Mar 2025 15:52:00 +0000</pubDate>
+      <content:encoded>▲&lt;b&gt;김점룡&lt;/b&gt; 前 조선일보 판매국 부국장 별세, &lt;b&gt;이경애&lt;/b&gt; 남편상, &lt;b&gt;김상현&lt;/b&gt;∙&lt;b&gt;김상운&lt;/b&gt; 부친상, &lt;b&gt;안윤희&lt;/b&gt; 시부상=15일8시 국립중앙의료원, 발인 19일8시, (02)2262-4800&lt;br&gt;&lt;br&gt;▲&lt;b&gt;신욱희 &lt;/b&gt;서울대 정치외교학부 교수 별세, &lt;b&gt;이영부&lt;/b&gt; 남편상, &lt;b&gt;신동훈&lt;/b&gt; 동생상, &lt;b&gt;신승혜&lt;/b&gt; 오빠상=16일4시55분 분당서울대병원, 발인 18일11시, (031)787-1510&lt;br&gt;&lt;br&gt;▲&lt;b&gt;박분순&lt;/b&gt; 별세, &lt;b&gt;구자익&lt;/b&gt; 前 전북대 학생과장 모친상=16일7시 전북대병원, 발인 18일9시, (063)250-1443&lt;br&gt;&lt;br&gt;▲&lt;b&gt;정용일&lt;/b&gt; 별세, &lt;b&gt;최선자&lt;/b&gt; 남편상, &lt;b&gt;정승원&lt;/b&gt; 다이닝브랜즈그룹 재무담당 이사∙&lt;b&gt;정수진&lt;/b&gt; 더이뎀 대표 부친상, &lt;b&gt;이원재&lt;/b&gt; 케이디켐 영업팀장 장인상, &lt;b&gt;김지윤&lt;/b&gt; 회계사 시부상=16일0시11분 서울아산병원, 발인 18일7시20분, (02)3010-2000&lt;br&gt;&lt;br&gt;▲&lt;b&gt;이정임&lt;/b&gt; 별세, &lt;b&gt;이수현&lt;/b&gt; 보해양조 홍보팀장 모친상=16일13시50분 광주광역시 스카이장례식장, 발인 18일13시30분, (062)951-1004&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“샤워 하루에 1번 권장”... 여름철 앞두고 올라온 회사 공지문 </title>
+      <link>https://www.chosun.com/national/national_general/2025/04/24/672RFTOJBVFEZIMJUMQ67ZGN7E/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/24/672RFTOJBVFEZIMJUMQ67ZGN7E/</guid>
+      <dc:creator>정아임 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 24 Apr 2025 09:01:03 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VJUZGYKMHVF65JFL27QGFV4QLI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;샤워 관련 이미지. /CNN&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;여름철을 앞두고 한 회사에서 ‘하루에 1회 이상 샤워를 해달라’는 공지문을 올려 눈길을 끌고 있다. &lt;br&gt;&lt;br&gt;24일 소셜미디어 엑스(옛 트위터)에는 “경영지원팀에서 1일 1샤워 공지가 떴다”는 글과 함께 회사 공지문을 캡처한 사진이 올라왔다. &lt;br&gt;&lt;br&gt;작성자 A씨는 “회사는 다 같이 생활하는 공간이니까 이런 걸 공지해줘서 오히려 고맙긴 하다”면서 “가끔 빨래 잘못 말린 거 그대로 입고 오는 분들 있어서 곤란했다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JCSGR7BPTZGIVGRRI73D3TID4M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;'1일 1샤워'를 권장하는 회사 공지문./X(옛 트위터)&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;공개된 사진에 따르면 해당 회사 경영지원팀은 “사무실 내에서 쾌적한 근무 환경을 유지하는 것이 더욱 중요해지고 있다”며 “이에 따라 전사적으로 ‘쾌적한 사무 환경 조성을 위한 청결 관리 캠페인’을 한다”고 안내했다.&lt;br&gt;&lt;br&gt;먼저 경영지원팀은 ‘개인위생 관리 팁’으로 여름철에는 하루 1회 이상 샤워를 권장했다. 이어 깨끗한 옷 착용과 탈취제나 물티슈 등 개인 물품을 통해 상쾌한 컨디션을 유지하고 통풍이 잘되는 옷차림으로 근무할 것을 당부했다.&lt;br&gt;&lt;br&gt;또 ‘쾌적한 환경 조성’을 위해 “근무 전과 점심 식사 후 환기는 필수”라며 “에어컨과 공기청정기 가동을 적극 활용하고 공용 공간은 사용 후 환기와 정리를 해달라”고 했다.&lt;br&gt;&lt;br&gt;그러면서 “‘나한테서 냄새는 안 나겠지’라는 생각은 착각이다. 주변에서 얘기하지 않을 뿐”이라며 “담배 냄새와 운동 후 땀 냄새, 생리 현상 냄새 등을 주의해달라”고 덧붙였다.&lt;br&gt;&lt;br&gt;이 내용을 접한 네티즌들은 “회사에서 이런 공지문을 띄우는 건 처음 본다” “상상도 못 한 공지다” “우리 회사에도 공지 내려왔으면 좋겠다” 등의 반응을 보였다. &lt;br&gt;&lt;br&gt;한편 과거 취업포털 인크루트가 361명의 직장인을 대상으로 실시한 ‘직장 내 이미지와 냄새’ 설문조사에 따르면 대부분은 직장 내에서 동료에게서 불쾌한 냄새를 경험한 적이 있다고 답했다. ‘이성 동료의 냄새 중 가장 참기 힘든 냄새’로는 여성 응답자의 38%, 남성 응답자의 33%가 모두 ‘옷에 밴 담배 냄새’를 꼽았다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘880억대 부당대출 의혹’ 기업은행 전·현직 직원... 검찰, 구속영장 청구</title>
+      <link>https://www.chosun.com/national/court_law/2025/04/24/S4Q5LB4V5NFENOHYWKWCAYPLBI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/04/24/S4Q5LB4V5NFENOHYWKWCAYPLBI/</guid>
+      <dc:creator>이민준 기자, 유희곤 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 24 Apr 2025 09:02:22 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/V442XGSYU3K3JCJ4TF3XXCTIY4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 을지로 IBK 기업은행 본사. /기업은행 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;882억원대 부당 대출 의혹을 수사하는 검찰이 IBK기업은행 전·현직 직원에 대해 구속영장을 청구한 것으로 24일 확인됐다. &lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 서울중앙지검 반부패수사1부(부장 이준동)는 지난 23일 기업은행 전직 직원 김모씨와 현직 직원 조모씨에 대해 불법대출 관련 혐의로 구속영장을 청구했다. &lt;br&gt;&lt;br&gt;검찰은 김씨와 조씨가 허위 사업보고서를 작성해 부당대출을 일으키는 방식으로 수십차례 범행을 저지른 것으로 보고 구속영장을 청구한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;앞서 발표된 금감원 검사 결과, 14년간 근무하다 퇴직한 김씨는 관련자 28명과 공모해 51회에 걸쳐 785억원의 부당 대출을 받았다. 2017년 6월부터 작년 7월까지 대출 관련 증빙 서류나 상환 능력 관련 자료를 허위로 작성하는 방식이었다. 김씨의 아내인 기업은행 대출심사센터 직원 A씨도 부당 대출에 관여한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;김씨는 부동산 개발사와 함께 미분양 상가에 대한 부당 대출도 알선했다는 것이 금감원 검사 결과다. 자신의 입사 동기들이 지점장으로 있는 서울 지점 세 곳에 대출 신청을 하고 그 대가로 12억원을 수수한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;앞서 기업은행은 지난 1월 240억여 원 규모의 배임 사고가 발생했다고 공시했다. 금융감독원은 현장검사에 착수했고, 부당대출 규모는 882억원에 달한다고 발표했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘프로야구 독점중계 대가로 억대 금품’ KBO 임원 1심 무죄</title>
+      <link>https://www.chosun.com/national/court_law/2025/04/24/6RFVEH2ROVGZHH2XKIWWPUC2HY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/04/24/6RFVEH2ROVGZHH2XKIWWPUC2HY/</guid>
+      <dc:creator>김나영 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 24 Apr 2025 08:46:15 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3FTGPTVCXJGOPCYLMP3UYTQ3YI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구에 위치한 서울중앙지법 청사의 모습./조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;프로야구 독점 중계권을 유지해주는 대가로 억대 금품을 받은 혐의로 재판에 넘겨진 한국야구위원회(KBO) 자회사 임원에게 1심에서 무죄가 선고됐다.&lt;br&gt;&lt;br&gt;서울중앙지법 형사23부(재판장 오세용)는 24일 배임수재·범죄수익은닉규제법 위반 혐의로 기소된 이모씨에게 무죄를 선고했다. 이씨는 KBO의 리그 중계권 판매 등을 전담하는 자회사 KBOP 임원으로 활동하며 프로야구 중계권 판매 업무를 담당한 인물이다.&lt;br&gt;&lt;br&gt;재판부는 “업체의 중계권 획득 경위는 KBOP 내부 정책적 판단이라 볼 수 있다”며 “검사가 드는 사정들만으로는 부정 청탁이 있었다고 인정하기 어렵다”라고 판단했다.&lt;br&gt;&lt;br&gt;이씨는 2013년 4월부터 2016년 8월까지 KBO 중계권 판매 대행업체 에이클라엔터테인먼트(에이클라) 대표 홍모씨로부터 IPTV 독점중계권을 유지해달라는 청탁을 받았다. 이후 자신의 배우자를 통해 허위 용역을 제공한 것처럼 꾸며 41회에 걸쳐 1억9500여만원을 수수한 혐의로 재판에 넘겨졌다. 에이클라는 SPOTV 등 스포츠 중계방송 채널을 운영 중인 회사다.&lt;br&gt;&lt;br&gt;재판부는 이씨의 배우자가 콘텐츠 계약을 대가로 받은 돈에 대해서도 “계약의 실체가 없다거나 중계권 청탁 대가로 대금을 지급했다고 보기는 어렵다”라고 봤다.&lt;br&gt;&lt;br&gt;한편 횡령 혐의 등으로 이씨와 함께 기소된 홍모씨는 이날 재판에서 징역 2년에 집행유예 3년을 선고받았다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>다세대 주택에서 마약 투약한 중국인 5명 체포</title>
+      <link>https://www.chosun.com/national/incident/2025/04/24/Q3M3UDSTKRAC3NCPM75FVGZGDM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/04/24/Q3M3UDSTKRAC3NCPM75FVGZGDM/</guid>
+      <dc:creator>인천=이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 24 Apr 2025 08:45:19 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/L4GEXC5HOZAC5NA5TDDI7RQ23U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 시흥시의 한 다세대 주택에서 필로폰을 투약한 중국인 5명이 경찰에 붙잡혔다. &lt;br&gt;&lt;br&gt;인천경찰청 국제범죄수사계는 마약류 관리에 관한 법률 위반 혐의로 A씨 등 30~40대 중국인 남녀 5명을 체포했다고 24일 밝혔다. &lt;br&gt;&lt;br&gt;A씨 등은 지난 22일 오후 11시쯤 경기도 시흥시 정왕동의 한 다세대 주택에서 필로폰을 투약한 혐의를 받고 있다. &lt;br&gt;&lt;br&gt;경찰은 마약 투약 혐의로 수사하던 A씨에 대한 체포영장 집행을 위해 현장을 찾았다가 함께 필로폰을 투약하던 중국인 4명을 현행범으로 체포했다. &lt;br&gt;&lt;br&gt;A씨 등은 경찰의 간이 시약 검사에서 마약류 양성 반응이 나온 것으로 파악됐다. &lt;br&gt;&lt;br&gt;경찰은 이들이 투약한 정확한 마약 성분 등을 확인하기 위해 A씨 등의 모발과 소변을 채취해 국립과학수사연구원에 정밀 감정을 의뢰했다. &lt;br&gt;&lt;br&gt;경찰은 이들이 마약을 구입한 경로 등에 대해 추가로 수사할 방침이다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>수원구치소, ‘천사의 가루’ 의심 마약류 적발... 교정시설 내 마약탐지 강화 방침</title>
       <link>https://www.chosun.com/national/court_law/2025/04/24/N3PAAATVZRBZ5GK7WEHVTRLT3M/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/04/24/N3PAAATVZRBZ5GK7WEHVTRLT3M/</guid>
@@ -796,24 +868,6 @@ A씨는 이날 0시쯤 “열흘 전 설악산 둘레길에서 살인을 저질�
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G3BOXFHMTJ5BAJB2EGC4SUA6XI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;국제 학술지 '스몰(Small)'지 표지논문에 선정된 제프티./현대바이오&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;뎅기열, 지카, 코로나 등 여러 바이러스 질환을 한 번에 치료할 수 있는 먹는 치료제가 본격적인 임상 시험에 들어간다.&lt;br&gt;&lt;br&gt;23일 현대바이오사이언스는 자체 개발한 범용 항(抗)바이러스제 ‘제프티’가 베트남 보건당국으로부터 임상 2·3상 시험 승인을 받았다고 밝혔다. 제프티는 뎅기열과 지카, 코로나, A형 독감 등 주요 감염병에 동시에 효과를 내도록 개발된 경구용 치료제다.&lt;br&gt;&lt;br&gt;특히 뚜렷한 치료제가 없었던 뎅기열 치료에 제프티가 새로운 대안으로 주목받고 있다. 지금까지 뎅기열은 증상 발현 이후 수액 등 치료에만 의존해왔다. 감염자의 절반 이상이 증상이 없거나 감기처럼 가볍게 지나가기 때문에 진단이 늦고, 치료 시점을 놓치는 경우가 많다.&lt;br&gt;&lt;br&gt;기후 변화로 모기 개체 수가 늘면서 뎅기열은 최근 전 세계적으로 빠르게 확산하고 있다. 세계보건기구(WHO)에 따르면, 2023년 전 세계 뎅기열 감염자는 650만명에 달한다. 이 중 7300명이 사망했다.&lt;br&gt;&lt;br&gt;현대바이오는 “제프티처럼 여러 열대 질환에 효과가 있는 약을 초기에 투여하면 진단 지연에 따른 위험을 줄이고 치료 골든타임을 확보할 수 있다”며 “이번 약이 임상에서 효과와 안전성을 입증하면, 초기 증상이 뚜렷하지 않은 열대 감염병에 대한 조기 대응 수단이 될 수 있을 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[단독] 정부, 20년 만에 항공철도사고조사위 조사관 증원</title>
-      <link>https://www.chosun.com/national/transport-environment/2025/04/23/UR6H3VTMGJAGJF6ERFJNTGDKII/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/04/23/UR6H3VTMGJAGJF6ERFJNTGDKII/</guid>
-      <dc:creator>김아사 기자</dc:creator>
-      <description>정부가 무안 제주항공 참사 등을 조사하는 항공철도조사고조사위원회의 항공조사관을 증원하기로 했다. 2006년 사조위 설립 후 조사관 인원을 늘리는 건 처음 있는 일이다. </description>
-      <pubDate>Wed, 23 Apr 2025 08:52:11 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PP7TOQRBHZCQTX3PEGWULUGEB4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 1월 7일 전남 무안군 무안국제공항에서 항공철도사고조사위원회 관계자와 경찰특공대원이 사고 현장을 살피고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정부가 무안 제주항공 참사 등을 조사하는 항공철도사고조사위원회의 항공 조사관을 증원하기로 했다. 2006년 사조위 설립 후 조사관 인원을 늘리는 건 처음 있는 일이다. &lt;br&gt;&lt;br&gt;현재 사조위는 항공 조사관 9명, 철도 조사관 5명, 행정 담당 15명 등 29명으로 구성돼 있다. 충원되는 인원은 총 7명으로 모두 항공 조사관이다. 이 가운데 정부가 무안 참사 등 사고에 따라 충원하기로 결정한 조사관은 6명이다. 그전에 이미 증원이 결정된 1명도 별도 채용 절차를 밟고 있다. 국토부 고위 관계자는 23일 “6명 충원과 관련해 기획재정부, 행정안전부와 협의가 거의 됐고 상반기 충원 예정”이라고 했다.&lt;br&gt;&lt;br&gt;사조위 안팎에선 조사관을 늘려야 한다는 지적이 계속돼 왔다. 항공 운항편 증가로 업무는 크게 늘었는데 인원은 항상 부족해 조사관들이 행정 일까지 보고 있기 때문이다. ICAO(국제민간항공기구)는 항공 사고 조사를 사고 발생일로부터 1년 이내에 완료하라고 권고하고 있는데, 우리는 인력부터 이를 달성할 여력을 갖추지 못했다는 전문가 지적이 나왔다. &lt;br&gt;&lt;br&gt;실제 미국의 사조위 격인 NTSB(연방교통안전위원회)는 전체 인원이 400명이 넘고 조사관 수만 198명이다. 캐나다 교통안전위원회(TSB) 역시 전체 인원이 200명이고, 일본 교통안전위원회(JTSB)도 180명 조직을 운영 중이다. 사조위 관계자는 “2006년 30만회이던 항공기 운항은 지난해 70만회를 넘었다”며 “우리 사조위는 다른 나라와 달리 드론 등 초경량 비행 장치 조사도 맡고 있어 인력 부족이 더 심각한 상황”이라고 했다. &lt;br&gt;&lt;br&gt;한편, 사조위는 무안공항에서 사고가 난 제주항공 항공기 엔진을 프랑스에서 분해 조사한 뒤, 오는 6월쯤 보고서를 내놓을 예정이다. 엔진 분해 분석은 이번 사고의 향방을 가를 핵심 조사로 꼽힌다. 사조위 관계자는 “최종 보고서가 나올 때까지 앞으로도 1년 이상 시간이 소요되는 만큼, 조사한 내용 중 정확한 근거로 확신할 수 있는 부분은 공개할 예정”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>고용차관 “포스코이앤씨 본사·사업장 37곳 감독"</title>
-      <link>https://www.chosun.com/national/labor/2025/04/23/CARCDFUKM5BJJMMIVDOF3ZULHY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/labor/2025/04/23/CARCDFUKM5BJJMMIVDOF3ZULHY/</guid>
-      <dc:creator>정해민 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 23 Apr 2025 09:04:41 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CNQIHQXGPVRC6W5JHJ6WS6VXLE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김민석 고용노동부 장관 직무대행(차관)이 23일 오후 서울 여의도 국회에서 열린 환경노동위원회 제424회국회(임시회) 제1차 전체회의에 출석해 의원 질의에 답하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최근 붕괴 사고가 발생한 신안산선 지하 터널 시공사인 포스코이앤씨의 본사와 전체 사업장 30%에 대해 고용노동부가 감독에 나선다.&lt;br&gt;&lt;br&gt;장관 직무대행인 김민석 고용부 차관은 23일 국회 환경노동위원회 전체 회의에서 “포스코이앤씨에서 중대 재해 7건이 발생해 본사 및 전체 사업장 30%에 해당하는 37개 사업장에 대해 감독을 실시할 예정”이라고 밝혔다. &lt;br&gt;&lt;br&gt;포스코이앤씨는 지난 11일 터널 붕괴 사고가 발생한 경기 광명 신안산선 전철 공사의 시공사다. 이 사고로 노동자 1명이 숨지고 1명이 크게 다쳤다.&lt;br&gt;&lt;br&gt;고용부는 신안산선 사고 이후 포스코이앤씨의 전국 현장 중 터널·철도·도로 건설 공사 현장 13곳에서 산업 안전 감독을 하겠다고 밝힌 바 있다. &lt;br&gt;&lt;br&gt;그러나 고용부의 산업 안전 감독을 받고 있던 지난 21일 포스코이앤씨가 시공하는 대구 중구의 아파트 공사 현장에서 노동자가 숨지는 중대 재해가 재차 발생했다.&lt;br&gt;&lt;br&gt;한편 기상캐스터 고(故) 오요안나씨에 대한 직장 내 괴롭힘 의혹과 관련해 김 차관은 “MBC 내 여러 직종을 감독 중”이라며 “결과를 분석한 뒤 타 방송사까지 감독할지 여부를 검토하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>검찰, ‘음주운전·불법숙박업’ 문다혜 1심 벌금형에 항소</title>
       <link>https://www.chosun.com/national/national_general/2025/04/23/6AETDUZMR5BZJOMELQQ3QQOBWM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/23/6AETDUZMR5BZJOMELQQ3QQOBWM/</guid>
@@ -832,24 +886,6 @@ A씨는 이날 0시쯤 “열흘 전 설악산 둘레길에서 살인을 저질�
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CIFUK2AWT5NCJLJ3QFUAAF53RM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;정치 브로커 명태균씨가 지난 22일 경남 창원시 성산구 창원지방법원에서 열린 제4차 공판에 출석하며 취재진 질문에 답하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘정치 브로커’ 명태균씨의 여론조사 조작 의혹 등을 수사하고 있는 검찰이 전광삼 대통령실 시민사회수석을 상대로 명씨 측에 공표 여론조사를 진행할 한 언론사를 소개해준 경위를 물은 것으로 파악됐다. 전 수석은 “명태균이라는 사람을 현재까지 만난 적이 없고 오세훈 캠프에서 활동한 적도 없다”는 입장이다. 기자 출신인 전 수석은 윤석열 정부 출범 이후 대통령실 시민소통 비서관으로 일하다 작년 총선에 출마하기 위해 대통령실을 떠난 뒤 시민사회수석으로 대통령실에 복귀했다.&lt;br&gt;&lt;br&gt;23일 본지 취재를 종합하면 전 수석은 전날(22일) 검찰에 출석해 4시간 정도 참고인 신분으로 조사를 받았다. 검찰은 지난 2021년 서울시장 보궐선거 당시 명씨 측이 수행한 여론조사 결과를 보도할 언론사를 전 수석이 연결해줬다는 의혹을 살펴본 것으로 전해졌다.&lt;br&gt;&lt;br&gt;이 의혹은 2021년 초 명씨가 당시 오세훈 시장 후보 캠프에서 전 수석을 만나 서울시장 후보 여론조사를 위한 규모 있는 언론사가 필요하다고 요청하자 이에 전 수석이 조사 결과를 보도해줄 언론사 부장급 간부를 연결해줬다는 것을 골자로 하고 있다.&lt;br&gt;&lt;br&gt;전 수석은 이에 대해 “여론조사 업체 피플네트웍스리서치(PNR)와 한 언론사를 연결해준 사실은 맞는다”면서도 “PNR을 어떻게 알게 됐는지는 기억이 안 난다”고 주장했다. PNR은 미래한국연구소(미한연)가 각종 공표용 여론조사를 의뢰한 업체로, 미한연은 명씨가 실질적으로 운영했다고 알려진 업체다.&lt;br&gt;&lt;br&gt;전 수석은 PNR과 언론사를 연결시켜준 계기에 대해선 “내 소신은 언론사가 직접 궁금한 걸 물어봐야지 여론조사 기관이 궁금한 걸 물어보고 언론사가 그걸 그대로 받아쓰는 것은 지양해야 된다는 것”이라며 “공동 여론조사에 관심 있는 친한 기자와 관련 얘기를 나눴고, PNR이라는 곳이 언론사하고 정기적으로 정치 관련 중요 이슈 등에 대해 공동 여론조사를 좀 해보려고 하는 것 같다는 얘기를 듣고 연결시켜줬다”고 했다. &lt;br&gt;&lt;br&gt;다만 그는 PNR이라는 업체를 어떻게 알게 됐는지에 관해선 “어느 모임에서 들은 것 같은데 정확히 언제 있었던 어떤 자리였는지는 기억이 안 난다”며 “2020년 6월부터 2021년 7월쯤까지 내가 특별히 하는 일이 없었기 때문에 여러 자리에 나가 사람을 만나고 다녔다”고 설명했다.&lt;br&gt;&lt;br&gt;전 수석은 “(PNR에 대해 들은 자리 이후) ‘김태열’이라는 사람한테 전화가 왔고 언론사 관련 얘기를 하길래 친한 부장급 기자 연락처를 넘겨줬다”며 “이때 처음이자 마지막으로 김태열과 연락했다. 당연히 당시엔 PNR 대표인줄 알았다”고 주장했다. 김씨는 미한연 소장을 맡았던 사람으로 명씨 측 인물로 알려졌다. &lt;br&gt;&lt;br&gt;그는 “김씨가 명씨로부터 내 연락처를 받았다고 주장하는 걸로 알고 있다”며 “명씨가 내 명함도 갖고 있다고 했는데, (명씨를) 만난 적이 없는데 어떻게 내 명함을 갖고 있던건지 모르겠다”며 “건너건너 (명씨가) 내 명함과 연락처를 받았을 수도 있겠지만, 전반적으로 확실하지 않은 게 너무 많다”고 말했다.&lt;br&gt;&lt;br&gt;전 수석은 이 같은 의혹에 대한 비유로 “누군가가 ‘본인 회사에서 무언가를 하려고 하는데 해줄 수 있는 회사가 없느냐’라고 물어봐서, 내가 ‘이 회사하고 얘기해봐라’는 식으로 연결시켜준 게 전부”라며 “그리고 난 (그 일에 대해) 까먹었는데, (연결시켜준) 둘 사이에 무언가를 해서 의혹을 받고 있다면 내가 죄를 지은 것이라고 할 수 있느냐”고 주장했다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>국토부 장관 “보조 배터리 비닐 정책, 재검토”</title>
-      <link>https://www.chosun.com/national/transport-environment/2025/04/23/W7J6L3Y2WVAVXPNWUOHHYFA2GQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/04/23/W7J6L3Y2WVAVXPNWUOHHYFA2GQ/</guid>
-      <dc:creator>김아사 기자</dc:creator>
-      <description>박상우 국토교통부 장관은 23일 보조 배터리 화재 예방 대책으로 내놨던 ‘비닐봉지’ 사용에 대해 “종합적으로 다시 한번 따져보겠다”는 입장을 밝혔다. 비닐봉지가 화재를 막는 데 도움이 안 되고, 보안 검색 요원들에게 비닐봉지 제공 업무가 내려지며 연휴 기간 출국 대란 우려만 커졌다는 지적이 나온 데 따른 것이다.</description>
-      <pubDate>Wed, 23 Apr 2025 08:47:45 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PGZ4CCPSUJGV5IUKZJPDUL6AQ4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;배터리 보관용 비닐/연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;박상우 국토교통부 장관은 23일 보조 배터리 화재 예방 대책으로 내놨던 ‘비닐봉지’ 사용에 대해 “종합적으로 다시 한번 따져보겠다”는 입장을 밝혔다. 비닐봉지가 화재를 막는 데 도움이 안 되고, 보안 검색 요원들에게 비닐봉지 제공 업무가 내려지며 연휴 기간 출국 대란 우려만 커졌다는 지적이 나온 데 따른 것이다.&lt;br&gt;&lt;br&gt;박 장관은 23일 국회 국토교통위원회 전체회의에 참석해 국회 측의 지적을 받고 이같이 말했다. 맹성규 국토교통위원장은 “공항 검색대에서 비닐봉지를 나눠주고 항공사 직원에게 보조배터리를 비닐에 넣어서 보여주도록 업무 지침을 만들었는데 검색대 요원이 왜 과도한 업무를 분담해야 하느냐”며 “앞서 무안공항 참사가 있었고 에어부산 화재까지 터지자 국토부가 놀라서 호들갑하는 것”이라고 지적했다.&lt;br&gt;&lt;br&gt;국토부는 최근 한국공항공사와 인천공항공사에 ‘보조배터리 및 전자담배 기내 반입 관리 지침’ 공문을 보냈다. 여기엔 보안 검색 시 배터리를 꺼내 바구니에 넣으라고 안내한 뒤, 보안 검색 요원이 필요한 승객에게 비닐봉지를 제공하라는 내용이 담겼다. &lt;br&gt;&lt;br&gt;공사 안팎에선 전형적인 ‘보여주기식’ 정책이라는 비판이 나왔다. 승객들이 보안 검색 때 비닐봉지에 배터리를 담더라도 검색 후 면세 공간 등으로 이동하면서 빼는 경우가 많아 효과가 거의 없기 때문이다.&lt;br&gt;&lt;br&gt;더욱이 비닐봉지가 화재 예방에 도움이 안 된다는 게 전문가들 견해다. 배터리 비닐봉지 대책은 정부가 지난 1월 ‘에어부산 사고’ 후 기내 화재를 막기 위한 대책 중 하나로 발표한 것이다. 에어부산 사고는 ‘배터리 내부 합선’으로 시작됐을 가능성이 큰 상황이다. 그런데 정작 비닐봉지는 배터리 단자에 클립 같은 이물질이 끼면서 생기는 ‘외부 합선’은 막을 수 있지만 ‘내부 합선’은 막지 못한다. 또한 요즘 나오는 배터리 대부분은 애초에 외부 합선은 차단하는 구조로 만들어졌기 때문에 외부 합선을 막기 위해 비닐봉지에 또 담을 필요가 없다는 의견도 있다. 박 장관은 “환경 문제를 유발한다는 지적도 있어 종합적으로 다시 한번 따져보겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>대법, 김용현 ‘선관위 서버 증거보전 신청’ 최종 기각</title>
-      <link>https://www.chosun.com/national/court_law/2025/04/23/2UJWLJALFBHV7IAC2GQAHTTFRI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/04/23/2UJWLJALFBHV7IAC2GQAHTTFRI/</guid>
-      <dc:creator>방극렬 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 23 Apr 2025 08:57:09 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7FWSCWBWIFDVPB4XQCBM7TLD6U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김용현 전 국방부 장관. /헌법재판소&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;12·3 비상계엄 사건의 핵심 피의자인 김용현 전 국방부 장관이 부정선거 의혹을 주장하며 중앙선거관리위원회 서버 등에 대해 낸 증거 보전 신청이 대법원에서 최종 기각됐다.&lt;br&gt;&lt;br&gt;23일 법조계에 따르면, 대법원 2부(주심 박영재 대법관)는 김 전 장관이 선관위 서버와 장비, 실물 기기 등에 대해 낸 증거 보전 신청을 지난 11일 최종 기각했다. 증거 보전은 정식 재판 전 법원이 미리 증거를 조사해 보전하는 절차다.&lt;br&gt;&lt;br&gt;김 전 장관 측은 구속 기소 전인 작년 12월 19일 “비상계엄의 정당성 등을 증명하기 위해 선관위 관련 증거 보전이 필요하다”며 신청했지만, 법원에서 모두 기각됐다. 김 전 장관 측은 신청 당시 “수사기관과 대법원, 선관위가 선거에 관한 의혹을 부채질했다”고 주장했다.&lt;br&gt;&lt;br&gt;한편, 서울중앙지법 형사25부(재판장 지귀연)에서 심리 중인 김 전 장관 내란죄 재판은 검찰 측 요청에 따라 비공개 증인 신문이 진행되고 있다. 정보사령부 관계자 등 현역 군인을 공개 재판하면 국가안보에 해가 될 수 있다는 이유다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>법무부, ‘채널A 사건 수사지휘’ 이정현 검사장 정직 1개월 징계</title>
       <link>https://www.chosun.com/national/court_law/2025/04/23/PZFBCLZGXRHQZNFCTTE7JJOO5M/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/04/23/PZFBCLZGXRHQZNFCTTE7JJOO5M/</guid>
@@ -857,42 +893,6 @@ A씨는 이날 0시쯤 “열흘 전 설악산 둘레길에서 살인을 저질�
       <description/>
       <pubDate>Wed, 23 Apr 2025 08:59:25 +0000</pubDate>
       <content:encoded>지난 2020년 이른바 ‘검언유착’으로 알려진 채널A 사건 수사를 지휘했던 이정현 법무연수원 연구위원(검사장)에 대해 법무부가 정직 1개월의 징계를 의결한 것으로 23일 전해졌다. 이 위원은 서울중앙지검 1차장 시절 이 사건 수사를 맡았고, 이후 대검찰청 공공수사부장을 지냈다. 윤석열 전 대통령이 임기를 시작한 뒤 ‘한직’으로 분류되는 법무연수원 연구위원으로 자리를 옮겼다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RJRTH526EHZLF2E5SL3CNHDVZQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법무부 과천 청사 전경./조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대검은 작년 12월 이 위원이 연구위원으로서 성실의무를 위반하고, 품위를 손상시켰다며 법무부에 징계를 청구했다. 법무연수원 운영 규정에 따라 연구위원은 1년 이내에 연구논문을 제출해야 하는데 이 위원이 이를 내지 않았고, 제출기한 연장 승인도 받지 않았다는 것이다.&lt;br&gt;&lt;br&gt;이와 관련해 이 위원 측은 법무부의 징계가 부당하다는 입장을 이날 밝혔다. 이 위원은 “안전관리 일반, 산업안전보건법, 중대재해처벌법 등 3개의 대주제에 따라 2만7000여 쪽에 달하는 방대한 국내외 자료를 심도 있게 검토하여 산업안전과 관련한 법적 체계를 망라하는 내용의 논문을 작성하겠다는 계획서를 제출했다”며 “서울과학기술대 교수와의 협의 하에 계속 연구를 진행하고 있는 사정을 상세하게 소명하였다”고 했다. 이어 “단지 서면으로 연장 승인을 받지 않았다는 형식적인 규정 위반을 들어 징계를 단행한 것”이라고 했다.&lt;br&gt;&lt;br&gt;이 위원은 연장 승인 규정에 대해서도 “훈시조항에 불과하다”며 “수사가 장기간에 걸쳐 이루어졌다는 이유만을 들어 징계를 하지 못하는 것과 마찬가지”라고 했다.&lt;br&gt;&lt;br&gt;이 밖에도 이 위원은 “윤석열 정권 출범 직후 좌천성 인사를 당한 것”이라며 “당시 직무 태만이나 직무 소홀 등 어떠한 사유도 존재하지 않았다”고 했다. 또 징계위원회의 절차가 형식적으로 진행됐다고도 밝혔다.&lt;br&gt;&lt;br&gt;이 위원은 “법무부의 부당한 징계처분을 바로잡기 위한 모든 노력을 다할 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>유재석이 광고한 ‘멀티비타민’ 회수된 까닭은...“즉시 복용 중단해야”</title>
-      <link>https://www.chosun.com/national/national_general/2025/04/23/2BH3LSEECBEHLPAZAYBWBU3KVI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/23/2BH3LSEECBEHLPAZAYBWBU3KVI/</guid>
-      <dc:creator>정아임 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 23 Apr 2025 08:12:46 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/W6UT7IYQWRGD3OM555U52YAMIY.png"&gt;&lt;figcaption&gt;&lt;small&gt;고려은단 멀티비타민 올인원 광고./고려은단&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;건강기능식품 브랜드 고려은단의 ‘멀티비타민 올인원’ 일부 제품이 기준치를 초과한 요오드 검출로 식품의약품안전처의 회수 조치를 받았다. &lt;br&gt;&lt;br&gt;22일 식약처에 따르면 회수 대상은 소비기한이 2027년 2월 10일로 표시된 1560㎎ 60정 제품이며, 바코드 번호는 ’8809497531729′다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TJWW7VYZDFCB3DUZLKPK5ZDFMA.png"&gt;&lt;figcaption&gt;&lt;small&gt;기준치를 초과한 요오드 검출로 식품의약품안전처로부터 판매 중단과 회수 조치를 받은 제품./식품의약품안전처&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이 제품은 요오드 함량이 60㎍으로 표시됐으나, 실측 결과 129.6㎍이 검출됐다. 이는 표시 기준 허용 범위(표시량의 80~150%)를 넘어선 216%에 해당하는 수치다. 요오드는 갑상선 호르몬 합성에 중요한 필수 미네랄이지만, 과잉 섭취 시 갑상선 기능 이상 등의 부작용이 발생할 수 있어 주의가 필요하다.&lt;br&gt;&lt;br&gt;이 제품은 유재석을 광고 모델로 발탁해 홍보를 진행했으며 2022년 생산 실적 기준 국내 판매량 1위를 기록했다.&lt;br&gt;&lt;br&gt;제조사인 고려은단헬스케어는 자체 전수조사를 통해 이 문제를 확인한 뒤 식약처에 자진 신고했다고 밝혔다. 회사는 조선닷컴에 “현재 부적합 제품은 시중에 유통되고 있지 않고, 기 구매한 소비자들은 연락을 드려서 회수하고 있는 중”이라고 했다. 이어 “정확한 원인을 조사 중이며, 제조 공정 전반의 품질 관리 체계를 강화하고 있다”고 했다.&lt;br&gt;&lt;br&gt;식약처는 소비자들에게 해당 제품을 보관 중일 경우 즉시 복용을 중단하고, 구입처에 반품해 줄 것을 당부했다. 판매자에 대해서도 즉각적인 판매 중단 조치를 요청한 상태다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[단독] 文 전 대통령 인척 직접 찾아가 프로필 전달... 내정 통보 받자 감사 인사한 해경 수장</title>
-      <link>https://www.chosun.com/national/court_law/2025/04/23/YSC2H2AFYVGMBMZWHSVCERTORE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/04/23/YSC2H2AFYVGMBMZWHSVCERTORE/</guid>
-      <dc:creator>이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 23 Apr 2025 08:10:44 +0000</pubDate>
-      <content:encoded>함정 엔진 공급 업체로부터 뇌물을 받고 서해 경비함정 발주 사양을 낮춰준 혐의 등으로 재판에 넘겨진 김홍희 전 해양경찰청장(치안총감)이 해경청장 임명 전 문재인 전 대통령의 인척 이모씨를 찾아가 자신의 인사 프로필을 직접 전달한 것으로 23일 확인됐다. 김 전 청장은 당시 청와대로부터 해경청장 내정 사실을 전달받은 뒤에도 이씨를 찾아가 감사 인사를 했다고 한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Z3HWP2OYNPJW2I5OWSLYDY5OGM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김홍희 전 해양경찰청장. / 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;법무부가 이날 국민의힘 주진우 의원실에 제출한 39쪽 분량 공소장에 따르면, 김 전 청장이 한의사인 이씨를 처음 만난 것은 남해지방해양경찰청장이던 2019년 여름이었다. 김씨는 이때 이씨와 문 전 대통령이 특별한 관계라는 것을 알고, 해경 함정에 장비를 납품하던 고등학교 후배 A씨가 이씨와 아는 사이인 것도 알게 됐다. 이씨는 문 전 대통령과 중학교, 대학교 동문인 사이로, 이씨의 배우자는 김정숙 여사와 이종사촌 사이라고 한다.&lt;br&gt;&lt;br&gt;A씨는 김 전 청장이 해양경찰청 차장(치안정감)으로 승진하면 해경이 발주하는 함정과 관련한 발주를 따내는 데 도움을 받을 수 있다고 보고, 이씨에게 김 전 청장의 승진을 청탁한 것으로 조사됐다. 그런데 2019년 8월 해양경찰법이 개정되면서 해경 출신만 청장을 맡을 수 있게 됐다. 당시 치안정감이 1명뿐이어서, 치안감이었던 김 전 청장도 차기 해경청장 물망에 오른 것이다. 김 전 청장은 이를 A씨에게 알렸고, 이에 A씨가 해경 차장이 아닌 해경청장으로 김 전 청장이 승진할 수 있도록 청탁했다고 검찰은 의심한다.&lt;br&gt;&lt;br&gt;A씨의 청탁 이후인 2019년 말~2020년 1월 사이, 김 전 청장은 오전 7시 30분 이씨의 한의원을 찾아가 자신의 인사 프로필을 1부 건넨 것으로 조사됐다. 이때 김 전 청장은 이씨에게 “승진에 도움을 주시면 (A씨가 관여하는) 장비 납품사에 도움을 주겠다”는 취지로 말했다고 한다. 당시 이씨는 김 전 청장의 승진 청탁을 받아들이고, 그 대가로 A사가 함정 관련 사업을 수주하면 그 매출의 3%를 받기로 약정한 상태였다.&lt;br&gt;&lt;br&gt;김 전 청장은 2020년 3월 청와대 측에서 해경청장으로 내정됐다는 통보를 받았다. 그날 바로 이씨를 찾아갔고, 감사 인사를 건넸다.&lt;br&gt;&lt;br&gt;서울중앙지검 형사5부(부장 김태헌)는 김 전 청장을 비롯해 함께 금품을 수수한 현직 총경 2명, A씨 등 납품사 관계자 3명, 이씨 등 브로커 2명을 3일 재판에 넘겼다.&lt;br&gt;&lt;br&gt;검찰 관계자는 “이 사건은 해경 최고위 간부와 업체 간 유착뿐만 아니라, 인사권자와 특별한 관계가 있는 브로커를 통한 승진 청탁, 사업 수주, 금품 수수가 연결된 고도의 부패 범죄”라고 설명했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>검찰, ‘6000만원 수수’ 노웅래에 징역 4년 구형</title>
-      <link>https://www.chosun.com/national/court_law/2025/04/23/7KWH3CBEKNBHBL52BY2WRQKGXA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/04/23/7KWH3CBEKNBHBL52BY2WRQKGXA/</guid>
-      <dc:creator>김은경 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 23 Apr 2025 08:12:03 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GVXY5SD2TY42IOX6KOY5CCSZL4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;노웅래 전 더불어민주당 의원. / 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;뇌물·불법 정치자금 6000만원을 받은 혐의로 재판에 넘겨진 노웅래 전 더불어민주당 의원에게 검찰이 징역 4년을 구형했다.&lt;br&gt;&lt;br&gt;검찰은 23일 서울중앙지법 형사4단독 박강균 부장판사 심리로 열린 노 전 의원의 뇌물수수 등 혐의 결심 공판에서 “노 전 의원에게 징역 4년과 벌금 2억원을 선고하고 5000만원의 추징을 명령해달라”고 요청했다. &lt;br&gt;&lt;br&gt;검찰은 최종 의견을 통해 “4선 국회의원이라는 피고인의 당내 입지와 영향력을 고려하면 죄책과 비난 가능성이 매우 크다”며 “뇌물 합계액이 6000만원에 달하고 청탁 사항을 이행한 것이 드러났는데도 범행을 부인하고 수사 단계에서 증거 은닉·인멸을 시도하는 등 재판에 임하는 태도도 책임을 물어 마땅하다”고 했다.&lt;br&gt;&lt;br&gt;노 전 의원은 이날 최후 진술에서 “국회의원에 4번 당선됐지만 패거리와 파당 정치에 몸담지 않았고 돈 문제에 휘말린 적 없었다”며 “검찰의 편파적 수사에 정치적 사형선고를 받았다”고 했다. 그는 모든 혐의를 부인하면서 “4선 의원, 19년 기자로서 깨끗하게 공적 생활을 해온 삶이 부정되지 않도록 재판장님께서 현명하게 판단을 내려달라”고 말했다.&lt;br&gt;&lt;br&gt;노 전 의원은 2020년 2∼12월 사업가 박모씨에게 태양광 발전 사업 편의 제공, 물류센터 인허가 알선 등 명목으로 5차례에 걸쳐 6000만원을 수수한 혐의로 2023년 불구속 기소됐다.&lt;br&gt;&lt;br&gt;재판부는 오는 6월 함께 재판을 받는 박씨에 대해 한 차례 공판을 추가로 연 뒤에 선고일을 지정하기로 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>’李 선거법’도 주심이 판결문 안 써… 재판장 중심의 요즘 ‘대등 재판부’</title>
-      <link>https://www.chosun.com/national/court_law/2025/04/23/GA75OHDVOJFEDEW7EUNRUCTSVI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/04/23/GA75OHDVOJFEDEW7EUNRUCTSVI/</guid>
-      <dc:creator>방극렬 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 23 Apr 2025 08:01:33 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SKAPAZQXV5KJNHCV3TRZZGHAV4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 서울중앙지법·서울고법. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;요즘 법원에서는 판사 3명으로 구성된 합의부 중에서 지위나 기수, 경력이 비슷한 ‘대등 재판부’를 흔히 볼 수 있다. 부장판사 1명과 배석판사 2명으로 구성된 전통적 합의부와 달리, 중견 판사들이 대등한 위치에서 사건을 심리하고 합의하는 구조다. 올해 서울고법에는 고법판사 3명으로 이뤄진 재판부가 23곳, 고법부장 3명으로 이뤄진 재판부가 8곳 있다. 서울중앙지법에도 부장판사 3명으로 이뤄진 17개의 항소 합의부가 있다.&lt;br&gt;&lt;br&gt;대등 재판부에서는 세 판사가 소송을 지휘하는 재판장 역할과, 판결문을 작성하는 주심 역할을 돌아가면서 나눠 맡는다. 부장판사가 재판장을, 배석이 주심을 맡는 기존 비(非)대등 재판부와 가장 큰 차이다. 수평적 관계인 재판장과 주심이 기록을 모두 꼼꼼히 보고, ‘실질적 3자 합의’가 이뤄지게 하자는 취지로 김명수 전 대법원장 재임기에 일선 법원으로 확대됐다. &lt;br&gt;&lt;br&gt;지난달 이재명 전 더불어민주당 대표의 공직선거법 위반 사건에서 1심의 징역형을 뒤집고 무죄를 선고한 서울고법 형사6부도 고법판사 3명으로 구성된 대등 재판부다. 이 사건의 재판장은 최은정 부장판사, 주심은 이예슬 부장판사가 맡았다. 그런데 통상적으로 알려진 것과 달리 이 전 대표 사건은 재판장인 최 부장판사가 판결문을 주도해서 쓴 것으로 전해졌다. 해당 재판부는 원래부터 재판장이 소송 지휘뿐 아니라 판결문 작성까지 도맡아왔다고 한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GB72JY5BB6CWQTSZU7L5FTRRZQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 3월 26일 이재명 당시 더불어민주당 대표가 서울 서초구 서울고등법원에서 열린 공직선거법 위반 혐의 2심 선고 공판을 마친 후 법원을 나서고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;일선 판사들에 따르면, 각급 법원 대등 재판부 상당수는 형사6부처럼 재판장에게 주심 역할까지 맡긴 채 운영되고 있다고 한다. 특히 기록이 많고 사건 처리 부담이 큰 형사 합의부에서 재판장과 주심을 사실상 일원화하는 경향이 뚜렷한 것으로 알려졌다. 한 고법판사는 “판결문을 재판장과 주심 중 누가 쓸지는 각 재판부마다 알아서 결정하고 있다”면서도 “형사 대등 재판부는 대부분 재판장이 판결문 작성 업무를 맡고 있고 민사나 행정은 주심이 쓰는 경우가 많다”고 했다. 지방법원의 항소 합의부도 마찬가지 상황이라고 한다.&lt;br&gt;&lt;br&gt;재판장에게 주심 역할을 몰아주는 이유는 재판 진행과 심리의 효율성 때문이다. 한 명의 판사가 책임지고 소송을 지휘하며 판결문을 쓰는 것이 사건을 빠르게 처리할 수 있다는 것이다. 막대한 분량의 증거 등 소송 기록을 재판장과 주심 두 사람이 모두 꼼꼼히 봐야 하는 부담도 덜 수 있다.&lt;br&gt;&lt;br&gt;동등한 경력으로 구성된 재판부가 합의를 보다 수월하게 하기 위해 역할을 합친 측면도 있다. 판결 방향을 두고 재판장과 주심의 견해가 갈리면 선고가 난망해진다는 것이다. 다른 고법판사는 “재판장과 주심의 판단이 다른 경우 결론을 합의하기가 참 어렵게 된다”며 “대등 재판부에서 주요 사건에 대한 합의가 잘 안돼 판사들 사이가 나빠지는 경우도 종종 있다고 들었다”고 했다.&lt;br&gt;&lt;br&gt;법원 내부에서는 실질적 합의를 지향하는 대등 재판부의 원래 취지가 무색해진 것 아니냐는 지적이 나온다. 한 고법부장은 “재판장과 주심 두 사람이 책임감을 갖고 기록을 본 뒤 토론을 거쳐 합의하라는 취지로 대등 재판부가 만들어졌는데, 이를 한 쪽으로 몰아주면 결국 재판장이 심리를 주도할 가능성이 커진다”고 말했다. 대등 재판부가 판사 한 명이 사건을 처리하는 단독부처럼 운영될 것이라는 우려는 수년 전부터 나왔다.&lt;br&gt;&lt;br&gt;반면 주심 판사가 판결문을 쓰지 않더라도 충실히 사건을 검토하고, 합의도 충실히 이뤄지고 있다는 반론도 있다. 다른 고법부장은 “실제로는 판결문을 회람(回覽)하는 과정에서 주심뿐 아니라 주심이 아닌 판사도 적극 의견을 개진하고 논리를 보태며 합의하고 있다”며 “판결문을 누가 쓰느냐는 크게 중요하지 않다”고 말했다.&lt;br&gt;&lt;br&gt;한편, 법조계에서는 근거와 역할이 모호한 주심 판사와 관련된 규정을 재정비하자는 제언도 나온다. 양창수 전 대법관은 최근 법률신문 기고글에서 “재판장과 달리 주심 법관에 대해서는 어디에도 그 근거 법령이 일절 인용돼 있지 않다”며 “주심 법관의 무게 내지 역할에 대하여 관심이 적지 않은데, 법률에 정면으로 규정하는 것이 필요하다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>일부러 교통사고 낸 경찰, 왜?… 한밤중 만취 도주범 검거 순간</title>
