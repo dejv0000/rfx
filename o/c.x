@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>오늘 2심 선고 앞둔 김호중, 반성문 130장 냈다 </title>
+      <link>https://www.chosun.com/national/national_general/2025/04/25/OFB3KYFOV5BW3GVT4YHMJNQZ64/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/25/OFB3KYFOV5BW3GVT4YHMJNQZ64/</guid>
+      <dc:creator>이가영 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 24 Apr 2025 22:10:03 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G5UWGNELU5CMLN5NSG44FC5YB4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;음주운전 뺑소니 혐의를 받는 가수 김호중이 작년 5월 서울중앙지법에서 열린 영장실질심사를 마친 뒤 호송차로 향하고 있다. /스포츠조선&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;음주 운전 뺑소니 혐의로 실형을 선고받은 가수 김호중(34)의 항소심 선고일이 25일 열리는 가운데, 그가 총 130여 장의 반성문을 법원에 제출한 것으로 나타났다. &lt;br&gt;&lt;br&gt;서울중앙지법 형사항소5-3부(재판장 김지선)는 특정범죄가중처벌법상 위험운전치상 혐의 등을 받는 김호중의 항소심 선고기일을 이날 진행한다. &lt;br&gt;&lt;br&gt;김호중은 앞서 지난달 진행된 항소심 두 번째 공판 직전까지 무려 100장의 반성문을 써냈다. 선고일이 다가오자 34장의 반성문을 추가로 제출했다. &lt;br&gt;&lt;br&gt;선처를 바라는 팬들의 탄원서도 계속 접수되고 있다. 김호중과 함께 기소된 소속사 매니저와 본부장 역시 반성문을 제출한 것으로 알려졌다. &lt;br&gt;&lt;br&gt;김호중은 작년 5월 9일 밤 11시 40분쯤 서울 강남구 압구정동 도로에서 반대편 도로에 있는 택시를 들이받는 사고를 낸 뒤 달아나고, 매니저에게 대신 자수시킨 혐의로 재판에 넘겨졌다. &lt;br&gt;&lt;br&gt;작년 11월 1심은 김호중에게 징역 2년 6개월을 선고했다. 1심 재판부는 “자신이 저지른 잘못에 대한 일말의 죄책감을 가졌는지 의문”이라며 “객관적인 증거인 방범카메라(CCTV)에 음주 영향으로 비틀거리는 게 보이는데도 납득하기 어려운 변명으로 부인하는 등 범행 후 정황이 불량하다”고 지적했다. &lt;br&gt;&lt;br&gt;김호중과 검찰은 선고 직후 곧바로 항소장을 제출했다. 검찰은 지난달 19일 열린 항소심 결심 공판에서 김호중에게 1심과 동일한 징역 3년 6개월을 구형했다. &lt;br&gt;&lt;br&gt;김호중 측은 음주를 통해 혈중알코올농도 측정을 방해하는 이른바 ‘술타기 수법’을 사용하지 않았다고 거듭 주장했다. 김호중 측 변호인은 “교통사고를 일으키고 도피한 점에 대해서는 책임을 통감한다”면서도 “술타기 수법을 쓰지 않았는데 오해받아 과도한 처벌로 이어져서는 안 된다”고 했다. &lt;br&gt;&lt;br&gt;김호중은 최후 진술에서 “지난 사계절 서울구치소에 수감돼 최후 변론까지 오는 동안 잘못을 하나도 빠뜨리지 않고 자세히 들여다보는 시간을 가졌다”며 “제가 지은 죄는 평생 지워지지 않겠지만, 이번 일을 기폭제 삼아 이전과 다른 새 삶을 살도록 가꿔나가겠다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>대법원 ‘李 선거법’ 벌써 2차례 심리... 이례적 속도전</title>
       <link>https://www.chosun.com/national/court_law/2025/04/25/C66OTMWOGJATPA64MG4K7EKNVQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/04/25/C66OTMWOGJATPA64MG4K7EKNVQ/</guid>
@@ -921,15 +930,6 @@ A씨는 이날 0시쯤 “열흘 전 설악산 둘레길에서 살인을 저질�
       <description/>
       <pubDate>Wed, 23 Apr 2025 11:22:52 +0000</pubDate>
       <content:encoded>마약 투약 혐의로 경찰에 붙잡힌 국민의힘 이철규 의원의 아들이 23일 구속됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WKEGRL4HW5MDBLSM2EB5CGC53U.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;마약 투약 혐의를 받는 이철규 국민의힘 의원 아들 이 모씨가 23일 오전 서울 서초구 서울중앙지방법원에서 열린 구속 전 피의자심문(영장실질심사)을 마친 뒤 법원을 나서고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지법 이정재 영장전담 부장판사는 이날 마약류관리법상 대마 투약·수수 혐의를 받는 이 의원의 아들 이모씨에 대한 영장실질심사를 진행한 뒤 구속 영장을 발부했다. 이씨와 동행한 공범 정모씨도 구속됐다. 이 부장판사는 “도망할 염려가 있다”고 사유를 밝혔다. &lt;br&gt;&lt;br&gt;이씨는 작년 10월 서울 서초구 주택가 화단에 이른바 ‘던지기’ 수법으로 묻혀져 있던 액상 대마를 찾으려다 미수에 그친 혐의를 받는다. 당시 이씨는 아내 등 2명과 렌터카를 타고 현장을 찾은 것으로 조사됐다. &lt;br&gt;&lt;br&gt;경찰은 이씨의 모발에서 대마 양성 반응이 나왔다는 국립과학수사연구원의 감정 결과를 토대로 지난 18일 구속영장을 신청했다. 이씨는 과거에도 대마 혐의로 검찰에 송치됐지만 불기소 처분을 받은 전력이 있는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;한편 이날 서울 서초경찰서는 이씨의 아내, 즉 이 의원의 며느리에 대해서도 국과수에 마약 정밀 검사를 의뢰한 결과 대마 양성 반응이 나왔다고 밝혔다. 경찰은 이들 부부를 상대로 대마 유통 경로 등을 조사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“뎅기열·코로나 한 번에 치료”... 현대바이오, 먹는 치료제 본격 임상 돌입</title>
-      <link>https://www.chosun.com/national/welfare-medical/2025/04/24/WPVMOMJF3RASXJQ7PDHQWTEQFU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/04/24/WPVMOMJF3RASXJQ7PDHQWTEQFU/</guid>
-      <dc:creator>오유진 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 23 Apr 2025 10:00:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G3BOXFHMTJ5BAJB2EGC4SUA6XI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;국제 학술지 '스몰(Small)'지 표지논문에 선정된 제프티./현대바이오&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;뎅기열, 지카, 코로나 등 여러 바이러스 질환을 한 번에 치료할 수 있는 먹는 치료제가 본격적인 임상 시험에 들어간다.&lt;br&gt;&lt;br&gt;23일 현대바이오사이언스는 자체 개발한 범용 항(抗)바이러스제 ‘제프티’가 베트남 보건당국으로부터 임상 2·3상 시험 승인을 받았다고 밝혔다. 제프티는 뎅기열과 지카, 코로나, A형 독감 등 주요 감염병에 동시에 효과를 내도록 개발된 경구용 치료제다.&lt;br&gt;&lt;br&gt;특히 뚜렷한 치료제가 없었던 뎅기열 치료에 제프티가 새로운 대안으로 주목받고 있다. 지금까지 뎅기열은 증상 발현 이후 수액 등 치료에만 의존해왔다. 감염자의 절반 이상이 증상이 없거나 감기처럼 가볍게 지나가기 때문에 진단이 늦고, 치료 시점을 놓치는 경우가 많다.&lt;br&gt;&lt;br&gt;기후 변화로 모기 개체 수가 늘면서 뎅기열은 최근 전 세계적으로 빠르게 확산하고 있다. 세계보건기구(WHO)에 따르면, 2023년 전 세계 뎅기열 감염자는 650만명에 달한다. 이 중 7300명이 사망했다.&lt;br&gt;&lt;br&gt;현대바이오는 “제프티처럼 여러 열대 질환에 효과가 있는 약을 초기에 투여하면 진단 지연에 따른 위험을 줄이고 치료 골든타임을 확보할 수 있다”며 “이번 약이 임상에서 효과와 안전성을 입증하면, 초기 증상이 뚜렷하지 않은 열대 감염병에 대한 조기 대응 수단이 될 수 있을 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>‘성착취’ 자경단 피해자 총 261명…공범 2명 구속 기소</title>
