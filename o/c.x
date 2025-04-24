@@ -13,6 +13,60 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>홍현희 아들도 신은 ‘그 신발’ 사겠다고… 인천 백화점서 고성에 몸싸움까지</title>
+      <link>https://www.chosun.com/national/national_general/2025/04/24/HXD7NSDENFEJJN5W4DYL7LHUBA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/24/HXD7NSDENFEJJN5W4DYL7LHUBA/</guid>
+      <dc:creator>김자아 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 24 Apr 2025 13:25:02 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/F4Z7DJEWNJA4NDGXSBVAWQUYSQ.gif"&gt;&lt;figcaption&gt;&lt;small&gt;인천 미추홀구 관교동의 한 백화점에 '아동용 신발'을 구매하기 위해 모인 인파./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;유명 스포츠 브랜드의 아동용 신발을 구매하려는 인파가 인천의 한 백화점에 몰리면서 몸싸움이 벌어지는 소동이 빚어졌다.&lt;br&gt;&lt;br&gt;24일 인천 미추홀경찰서에 따르면 이날 오전 10시 55분쯤 관교동 A백화점에서 “인파가 몰려 혼잡하다”는 112 신고가 접수됐다.&lt;br&gt;&lt;br&gt;당시 이 백화점 스포츠 의류 아동복 매장 앞에는 아동용 신발을 구매하려는 손님 100여 명이 한꺼번에 몰렸던 것으로 파악됐다. 그러다 이들 사이에서 ‘순서’를 둘러싼 싸움이 벌어졌고 고성이 오갔던 것으로 전해졌다.&lt;br&gt;&lt;br&gt;백화점 측은 당초 오전 10시 30분 개장을 앞두고 3층 입구 쪽에서 ‘오픈런’을 기다리던 고객들에게 번호표를 나눠줬다. 이후 출입문이 열리자 비상구 등 다른 출입문으로 들어온 고객들도 구매 행렬에 합류했다.&lt;br&gt;&lt;br&gt;현장에서는 번호표를 받은 손님과 받지 못한 손님이 뒤섞이며 구매 순번을 놓고 항의가 빗발쳤다. 매장 측이 번호표와 상관없이 고객들에게 물품을 판매하면서 혼란은 더욱 커진 것으로 전해졌다.&lt;br&gt;&lt;br&gt;한 고객은 “매장 앞에서 기다리는데 계속 고성이 오가고 일부 손님끼리 몸싸움이 벌어지기도 했다”고 설명했다.&lt;br&gt;&lt;br&gt;경찰은 현장에 출동해 인파를 통제했으나, 폭행 등 형사사건으로 접수된 사항은 없는 것으로 파악됐다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “손님들 간 감정이 격해졌던 것 같다”며 “이로 인해 접수된 사건은 없는 것으로 안다”고 말했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NLFHPBIESVFYLLU6MOHIZM3EVM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;개그우먼 홍현희 남편 제이쓴(왼쪽)이 백화점 오픈런으로 산 아들 신발(오른쪽)./유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한편 출시가 8만5000원대인 이 신발은 아이들 혼자 쉽게 신고 벗을 수 있는 밴딩 구조와 통기성 좋은 소재, 미끄럼 방지 아웃솔로 만들어져 부모들 사이에서 품절 대란을 빚었다.&lt;br&gt;&lt;br&gt;최근 개그우먼 홍현희의 남편 제이쓴도 유튜브 채널을 통해 이 신발을 사기 위해 백화점 오픈런을 하는 모습을 공개해 화제였다. &lt;br&gt;&lt;br&gt;이 영상에는 백화점 개장과 동시에 매장 앞에 줄이 길게 늘어선 모습, 원하는 색상과 사이즈가 없어도 일단 신발을 구매하는 손님들의 모습 등이 담겼다. 결국 구매에 성공한 제이쓴은 이 영상에 “아빠가 해냈다”는 자막을 달았다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>경북 의성 산불 실화 피의자 2명 모두 구속영장 기각</title>
+      <link>https://www.chosun.com/national/regional/2025/04/24/AOTBHBK3DVBINLKXCUPXDVYX2I/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/04/24/AOTBHBK3DVBINLKXCUPXDVYX2I/</guid>
+      <dc:creator>김주영 기자, 의성=이승규 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 24 Apr 2025 12:44:09 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MDDUHVWFEZLDZM5QC4WZOUP6ZY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;24일 경북 의성군 대구지방법원 의성지원에서 경북 의성 산불과 관련해 산림보호법상 실화 혐의를 받는 50대 성묘객이 구속 전 피의자 심문(영장실질심사)을 받고 법정을 나서고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 달 경북 의성 산불을 낸 실화(失火) 혐의를 받고 있는 피의자 2명에 대한 구속영장이 모두 기각됐다.&lt;br&gt;&lt;br&gt;대구지법 의성지원 공병훈 영장전담판사는 24일 성묘객 50대 A씨와 과수원 임차인 60대 B씨에 대한 구속 전 피의자 심문(영장실질심사)을 열고 이같이 결정했다고 밝혔다.&lt;br&gt;&lt;br&gt;공 판사는 “피의자들의 실화를 입증할 주요 증거들이 이미 수집돼 있으며, 실화와 다른 원인이 경합해 수만 헥타르(㏊)에 달하는 산림이 소훼되는 결과가 초래되었을 가능성을 배제할 수 없다”고 밝혔다. 이어 “피의자들의 행위와 인과관계가 있는 피해 범위를 확정하는 부분에 관해 다툼의 여지가 있다”고 했다.&lt;br&gt;&lt;br&gt;그러면서 “제출된 수사 기록만으로는 주거 부정, 도망 및 증거 인멸에 대한 소명이 부족한 점 등을 종합해 현 단계에서는 구속 사유를 인정하기 어렵다”고 덧붙였다.&lt;br&gt;&lt;br&gt;앞서 이날 오후 3시부터 의성지원에서는 두 피의자에 대한 영장실질심사가 각기 10여분간 진행됐다.&lt;br&gt;&lt;br&gt;A씨는 경찰 수사에서 혐의를 인정했으며, B씨는 이날까지 혐의 사실을 부인 중이다.&lt;br&gt;&lt;br&gt;A씨는 지난달 22일 의성군 안평면 괴산리에서 조부모 묘에 자라난 어린 나무를 태우려고 나무에 불을 붙였다가 불을 낸 혐의(산림보호법 위반)를 받고 있다.&lt;br&gt;&lt;br&gt;B씨는 의성군 안계면 용기리 한 과수원에서 영농 소각물을 태웠다가 산불로 확산하게 한 혐의(산림보호법 위반)를 받고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“일본한텐 질 수 없어”…콜드플레이가 불붙인 뜻밖의 ‘한일전’ </title>
+      <link>https://www.chosun.com/national/national_general/2025/04/24/UYTZOXATLVGIBGBRSXCDBC3GH4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/24/UYTZOXATLVGIBGBRSXCDBC3GH4/</guid>
+      <dc:creator>김자아 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 24 Apr 2025 11:38:12 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2KKCEFCI6JJYTJI266CP5KBCUA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;세계적인 밴드 '콜드플레이(Coldplay)'가 지난 16일 오후 경기 고양 고양종합운동장에서 내한공연을 하고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;8년 만에 내한한 세계적인 밴드 콜드플레이(Coldplay) 공연장에서 때아닌 한일전이 벌어지고 있다. 콜드플레이가 월드투어에서 재사용하는 LED 팔찌 ‘자이로밴드’의 회수율 기록 경쟁인데, 한국은 일본을 꺾고 회수율 1위를 기록 중이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5QHGX52GV5EYJFOWMSMM5R3LA4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 22일 콜드플레이 공연 콘서트장에 띄워진 '자이로 밴드' 회수율./온라인 커뮤니티&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;24일 공연 업계에 따르면 지난 22일 경기 고양종합운동장 주경기장에서 열린 콜드플레이 콘서트장 전광판을 통해 공개된 ‘팔찌 재활용 리더보드’에서 서울의 팔찌 회수율이 99%로 나타나 일본 도쿄(97%)를 꺾고 1위를 기록했다. &lt;br&gt;&lt;br&gt;지난 16일부터 오는 25일까지 6회에 걸쳐 내한 콘서트를 열고 있는 콜드플레이는 월드투어 공연에서 환경을 지키려는 노력의 일환으로 야광봉 대신 친환경 재질로 만든 ‘자이로밴드’를 관객들에게 나눠준 뒤 공연이 끝나면 회수해 다음 공연 때 재사용한다.&lt;br&gt;&lt;br&gt;원격 제어 신호로 무대마다 색이 바뀌는 자이로밴드는 객석까지 아름답게 연출해 콜드플레이 공연만의 특징으로 자리 잡았다.&lt;br&gt;&lt;br&gt;주최 측은 매 공연마다 월드투어 도시별 자이로밴드 회수율을 콘서트장에 띄우는데, 이는 국민 의식 함양을 자극하고 도시 간 선의의 경쟁을 유도한다는 평이 나온다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VN2RGODPN5C3PIRM7MMH7WYMP4.gif"&gt;&lt;figcaption&gt;&lt;small&gt;콜드플레이 공연장 객석에서 관객이 팔에 찬 '자이로밴드'가 빛나는 모습./온라인 커뮤니티&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지금까지 공개된 ‘팔찌 재활용 리더보드’에 따르면 서울 공연 전까지 가장 높은 회수율을 보인 도시는 일본 도쿄와 핀란드 헬싱키로 97% 회수율을 보였다. 덴마크 코펜하겐(96%), 홍콩(94%) 등이 그 뒤를 이었다.&lt;br&gt;&lt;br&gt;앞서 고양에서 첫 콘서트가 열린 지난 16일 팔찌 회수율은 96%로 나타났다. 그러자 팬들은 소셜미디어(SNS)에서 “일본에는 질 수 없다” “한일전 시작이다” “저 스코어를 보고도 반납 안 하면 한국인 아니다” 등의 반응을 보이며 반납을 독려했다.&lt;br&gt;&lt;br&gt;이후 18일 콘서트에서 팔찌 회수율은 98%를 기록하며 서울이 1위에 올랐고, 19일 공연에서도 99%의 높은 회수율을 보이며 1위 자리를 유지 중이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4ZLTCNGBUNDLZB4TM3EUA2CAHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;중국인 인플루언서(왼쪽)가 "한국에서 자이로밴드를 반납하지 말라"며 영상을 올렸다가 삭제했다./온라인 커뮤니티&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이렇듯 손목 밴드 회수율이 국가 간 경쟁으로 이어지다 보니, 일각에서는 일부러 다른 나라의 회수율을 낮추려는 시도도 일어나고 있다.&lt;br&gt;&lt;br&gt;최근 한 중국인 인플루언서는 콜드플레이 서울 공연을 방문했다며 “우린 팔찌를 반환했지만 한국에 가는 사람들은 절대 돌려주지 말라”는 내용의 영상을 공개해 논란을 빚었다. 영상을 본 일부 중국 네티즌도 “한국을 회수율 꼴찌로 만들자” “서울 콘서트에서 팔찌 박스를 들고 도망가겠다” 등의 반응을 보이며 이에 호응했다.&lt;br&gt;&lt;br&gt;이후 이 인플루언서는 영상을 삭제하고 “그저 장난이었다”고 해명했지만 국내 네티즌들 사이에서는 “환경 보호를 위한 노력을 조롱한 행위다” “의도적으로 한국을 깎아내리려는 저급한 행동” 등의 비판이 이어졌다.&lt;br&gt;&lt;br&gt;콜드플레이는 평소에도 환경 보호를 위한 행동에 앞장서고 있다.&lt;br&gt;&lt;br&gt;2019년에는 환경 오염 우려로 월드투어를 잠정 중단했으며, 2021년부터는 탄소 배출량을 절반 이하로 줄이겠다는 목표를 세우고 투어를 재개했다. &lt;br&gt;&lt;br&gt;이후 태양광 패널 설치, 지속가능 항공 연료(SAF) 사용, 생분해성 종이 꽃가루 사용 등 친환경 공연을 이어오고 있다. 또 티켓이 한 장 판매될 때마다 나무를 한 그루 심어, 투어에서 발생하는 탄소 발자국을 상쇄하고 있다. 그 결과 2022~2023년 공연에서 발생한 탄소가 2016~2017년 투어 대비 59% 줄어든 것으로 전해졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>문 열린 차에서 금품 수천만원어치 훔쳐 달아난 50대 구속 </title>
+      <link>https://www.chosun.com/national/regional/2025/04/24/LHRCF4LE2BCP7BJXYLOGSZANA4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/04/24/LHRCF4LE2BCP7BJXYLOGSZANA4/</guid>
+      <dc:creator>김주영 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 24 Apr 2025 11:32:13 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2M3RS6OX4OD56HWUC3LBAXTDDM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대전 서부경찰서는 주차된 차 안에서 수천만 원의 금품을 훔친 혐의(절도)로 50대 A씨를 구속했다고 24일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 16일 오전 4시쯤 대전 서구 변동 일대에 주차된 차를 물색하다 문이 열린 차 안에 들어가 조수석 서랍에 있던 순금 팔찌와 목걸이, 시계 등 경찰 추산 6300만원 상당의 금품을 훔쳐 달아난 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;A씨는 경찰 추격을 피하려 여러 차례 옷을 갈아입기도 했다. 하지만 경찰이 범행 현장 폐쇄회로(CC)TV를 분석해 이동 동선을 파악하면서 범행 하루 만에 검거됐다.&lt;br&gt;&lt;br&gt;경찰 조사 결과 그는 지난 6일 오전 5시쯤 갈마동 일대에서도 같은 수법으로 문이 열린 차에 접근해 현금 85만원을 훔쳐 달아난 것으로 드러났다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘사법 행정권 남용’ 임종헌 항소심, 오는 8월 결심</title>
+      <link>https://www.chosun.com/national/court_law/2025/04/24/BOD757PILJA4NJNYQYGOBFVIWY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/04/24/BOD757PILJA4NJNYQYGOBFVIWY/</guid>
+      <dc:creator>박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 24 Apr 2025 10:46:04 +0000</pubDate>
+      <content:encoded>이른바 ‘사법 행정권 남용’ 사건의 실무 총책임자로 기소된 임종헌 전 법원행정처 차장의 항소심이 오는 8월 마무리될 예정이다. &lt;br&gt;&lt;br&gt;같은 사건으로 기소된 양승태 전 대법원장과 박병대·고영한 전 대법관의 항소심도 비슷한 시기에 결심이 예정돼 있어, 이르면 9월 이 사건 핵심 인물들에 대한 항소심 판결이 나올 전망이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7WRCTZN6WRDWTFRYQAGQNZBHIY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;임종헌 전 법원행정처 차장이 작년 2월 1심 선고를 받기 위해 서울중앙지법으로 들어가는 모습. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울고법 형사12-1부(재판장 홍지영)는 24일 직권남용권리행사방해 등 혐의로 기소된 임 전 차장의 항소심 공판에서 “6월 26일 한 차례 더 기일을 진행하고 8월 28일 정도에 결심하는 것을 예상한다”고 했다.&lt;br&gt;&lt;br&gt;임 전 차장은 2012년 8월~2017년 3월 양 전 대법원장 시절 법원행정처 기획조정실장과 차장으로 근무하며 사법 행정권을 남용한 혐의로 2018년 11월 기소됐다. &lt;br&gt;&lt;br&gt;임 전 차장은 상고법원 도입을 위해 박근혜 정부의 도움을 받을 목적으로 일제 강제 동원 피해자 소송 등에 개입하고, 블랙리스트로 지목된 ‘물의 야기 법관’을 별도 관리했다는 혐의를 받았다. 양 전 대법원장이 기소되지 않은 ‘위안부 손해배상 재판 개입’ ‘전·현직 국회의원 6명의 재판 청탁 의혹’ 등 혐의도 받았다.&lt;br&gt;&lt;br&gt;앞서 1심은 작년 4월 임 전 차장의 재판 개입과 판사 블랙리스트 관리 등 주요 혐의에 대해서는 대부분 무죄를 선고했지만, 일부 혐의에서 유죄를 인정해 징역 2년에 집행유예 3년을 선고했다. &lt;br&gt;&lt;br&gt;1심 재판부는 “피고인은 오랜 기간 대내외적인 비난과 질타의 대상이 됐다”며 “본 재판만으로도 5년 넘는 기간 동안 유죄로 판명된 범죄보다 몇 배 많은 혐의를 벗기 위해 수많은 시간과 비용을 소비하는 일종의 사회적 형벌을 치렀다”고 한 바 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>강릉 옥계항에 코카인 2t 밀반입한 필리핀 선원 2명 구속</title>
+      <link>https://www.chosun.com/national/regional/2025/04/24/G7JTVBUWOZHK7ASLLUNEJWI3FE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/04/24/G7JTVBUWOZHK7ASLLUNEJWI3FE/</guid>
+      <dc:creator>김주영 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 24 Apr 2025 10:51:21 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AD3UNR3UJZJWZOF54MVWYMOIPA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 2일 강원 강릉시 옥계항에 정박한 외국 선박에서 마약인 코카인을 적발한 동해지방해양경찰청과 관세청 관계자들이 1kg 단위의 코카인이 든 박스를 옮기고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 2일 강원도 강릉시 옥계항으로 마약인 코카인을 대량으로 밀반입한 혐의를 받는 필리핀 선원 2명이 구속됐다.&lt;br&gt;&lt;br&gt;춘천지법 강릉지원 윤동연 영장 전담 부장판사는 24일 특정범죄 가중처벌 등에 관한 법률 위반(마약) 혐의로 청구된 필리핀 선원 2명에 대한 구속영장을 발부했다.&lt;br&gt;&lt;br&gt;윤동연 판사는 “도주 우려가 있어 구속의 사유와 필요성이 인정된다”고 밝혔다.&lt;br&gt;&lt;br&gt;이들은 중남미 마약 카르텔 조직원들과 연계해 중남미에서 생산한 코카인을 노르웨이 국적 ‘L호’ 선박에 적재한 후 동남아시아 등에서 활동하는 또 다른 마약상에게 운반하는 역할을 한 혐의를 받는다.&lt;br&gt;&lt;br&gt;이들은 1인당 약 300∼400만 페소(한화 약 7500만원∼1억원 상당)의 대가를 받기로 하고, 2월 8일 페루에서 파나마로 항해하던 중 코카인을 실은 보트와 접선해 코카인 약 2t을 넘겨받아 선박 기관실 내 은닉한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;이 선박은 충남 당진항과 중국 장자강항, 자푸항 등을 거쳐 지난 2일 오전 6시 30분쯤 옥계항에 화물을 싣지 않은 상태로 입항했다.&lt;br&gt;&lt;br&gt;마약 의심 물질을 실은 선박이 한국으로 입항한다는 정보를 입수한 해경과 세관은 즉각 L호 선박을 수색해 코카인 의심 물질을 다량 발견했다.&lt;br&gt;&lt;br&gt;발견된 코카인 분량은 시가 1조원 상당으로 수백만명이 동시에 투약할 수 있는 규모다.&lt;br&gt;&lt;br&gt;중량 기준으로 역대 최대 규모라는 것이 관세청의 설명이다.&lt;br&gt;&lt;br&gt;이들 외에도 이미 하선한 필리핀 선원들과 마약 카르텔 조직원 등에 대해 강도 높은 수사가 이어지고 있다.&lt;br&gt;&lt;br&gt;이들은 옥계항 입항 전까지 여러 차례에 걸쳐 해상에서 다른 선박으로 코카인을 넘기려 했으나, 기상 악화 등으로 실패한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;옥계항 출항 이후 다른 선박과 접선 계획 정황도 드러난 가운데 최종 목적지는 아직 수사 중이다.&lt;br&gt;&lt;br&gt;관세청과 해경청은 선원들이 국제 마약 밀매 조직과 연관됐을 가능성도 확인하기 위해 미국 연방수사국(FBI), 미국 마약단속국(DEA), 경찰청, 필리핀 수사기관 등과 공조 수사를 하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>올해 변호사시험 합격자 1744명… 작년보다 1명 줄어</title>
       <link>https://www.chosun.com/national/court_law/2025/04/24/5ELJCK24L5B4PN2L5BHFV4IAXE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/04/24/5ELJCK24L5B4PN2L5BHFV4IAXE/</guid>
@@ -790,28 +844,6 @@ A씨는 이날 0시쯤 “열흘 전 설악산 둘레길에서 살인을 저질�
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ARZWYKVXJPJIDB72363ZBUEI5E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산동래경찰서 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산에서 고교생 집단폭행 사건이 발생해 경찰이 수사에 나섰다.&lt;br&gt;&lt;br&gt;23일 부상 동래경찰서에 따르면 최근 부산 동래구 한 빌라 주차장에서 고교생 2~3명이 동급생 1명을 집단으로 폭행했다. 또 가해 학생들은 다른 일행에게 폭행 장면을 휴대전화로 촬영하도록 지시한 것으로 알려졌다. 피해 학생은 이 일로 코뼈가 부러지는 등 전치 3주의 진단을 받았다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “영상을 외부로 유포했는지 여부 등 자세한 폭행 경위를 조사하고 있다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>광화문광장에 뜬 옥외 전광판… “뉴욕 타임스스퀘어보다 압도적”</title>
-      <link>https://www.chosun.com/national/weekend/2025/04/19/DEZ67GA7IBA4TFSJNS5A4HCI4Q/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/weekend/2025/04/19/DEZ67GA7IBA4TFSJNS5A4HCI4Q/</guid>
-      <dc:creator>김성윤 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 23 Apr 2025 12:08:59 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TEUUIOLERZD5XE4TF3QTEK5K5Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&amp;lt;아무튼주말&amp;gt;  옥외전광판  (아무튼주말 게재 전 사용금지)- 영상미디어 이신영기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 15일 오후 3시, 서울 광화문광장에서 한 무리의 외국인 관광객이 기념사진을 찍고 있었다. 그런데 방향이 특이했다. 보통 광화문광장 기념사진은 경복궁과 북악산을 배경으로 촬영하지만, 그들은 정반대였다. &lt;br&gt;&lt;br&gt;아랍에미리트에서 왔다는 아미르(36)씨는 “저 거대한 전광판을 배경으로 찍고 싶었다”며 코리아나호텔 외벽을 덮은 초대형 디지털 옥외광고판을 가리켰다. 이 전광판은 가로 22m, 세로 60m로 면적(약 1300㎡)이 농구 코트 3개를 합친 것과 비슷하다. 아미르씨는 “광화문광장 어디서나 전광판이 보이더라”며 “미국 뉴욕 타임스스퀘어에도 가봤지만 그보다 압도적인 것 같다”고 했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/36OX3R2FOVAM5OMDAHH2JYRNSI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 광화문광장에서 코리아나호텔 외벽 디지털 옥외광고판을 촬영하는 여성들. /이신영 영상미디어 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;옥외광고는 경기 불황으로 꽁꽁 얼어붙은 광고 시장에서 드물게 성장세다. 초고화질 디스플레이 등 외형적 변화뿐 아니라 빅데이터·인공지능 등 정보통신 기술과의 융합을 통한 디지털화에 성공하며 새로운 매체로 진화한 덕분이다. 뉴욕 타임스스퀘어, 런던 피카딜리서커스, 오사카 도톤보리 같은 랜드마크를 만들겠다며 정부가 ‘옥외광고물 자유표시구역’을 늘리고 있어, 디지털 옥외광고의 성장 속도에는 앞으로 더 탄력이 붙을 전망이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JAP442WVKVBULGYQB66I7QBX6M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;디지털 옥외광고가 즐비한 강남역 인근 강남대로. /이신영 영상미디어 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;옥외광고 시장은 2017년부터 연평균 약 7%씩 커지고 있다. 한국지방재정공제회 한국옥외광고센터가 발간한 ‘2024 옥외광고통계’에 따르면, 옥외광고 시장 규모는 2022년에 4조원을 넘었다. 2024년에도 4조3017억원으로 성장세를 유지한 것으로 추산된다. &lt;br&gt;&lt;br&gt;디지털 옥외광고가 특히 호황이다. 2022년 매출액이 1조2862억원으로 전년 대비 33.9% 증가하며 처음으로 1조원을 돌파했다. 2023년에는 1조5072억원으로 17.2% 불어나면서 전체 옥외광고 시장의 성장을 이끌고 있다. 이 추세는 세계적으로도 비슷하다. 글로벌 시장조사기관 스태티스타에 따르면, 2027년 세계 디지털 옥외광고 시장은 166억달러(약 24조원)로 2020년 대비 2배로 커질 전망이다.&lt;br&gt;&lt;br&gt;인쇄·방송 광고와 함께 이른바 ‘레거시 미디어(전통 매체)’로 분류되던 옥외광고는 ‘프로그래매틱 기술’과 만나며 타기팅이나 성과 측정이 어렵다는 기존 옥외광고의 한계를 극복하고 혁신적 뉴 미디어로 진화했다. &lt;br&gt;&lt;br&gt;광고 업계 관계자는 “프로그래매틱 기술은 머신러닝(기계학습)·빅데이터 분석 등으로 광고 타깃을 설정하고, 보행자 시선 움직임으로 광고 주목도를 확인하는 ‘시선 추적 분석 기술’이나 날씨·교통 상황에 따라 광고 소재를 실시간 조정하는 ‘DCO’ 기술 등을 적용한다”며 “디지털 옥외광고로 TPO(시간·장소·상황)에 맞춤한 광고 송출이 가능해졌다”고 했다. &lt;br&gt;&lt;br&gt;국내 화장품 업체 마케팅 담당 임원은 “홍대 앞 매장 인근 건물에 디지털 옥외광고를 내보냈더니 손님 유입에 직접적으로 효과가 있었다”며 “광고비는 다른 매체보다 상대적으로 저렴하면서 광고 수정은 쉬워 가성비가 높다”고 했다. &lt;br&gt;&lt;br&gt;CJ ENM 계열 메조미디어는 최근 트렌드 보고서에서 “디지털 옥외광고는 대형 화면으로 콘텐츠를 즐기는 재미를 주는 데다 관심사나 동선에 따라 맞춤 광고를 송출할 수 있다”며 “온·오프라인 광고 매체를 적절하게 융합한다면, 광고 피로도를 낮추면서 전환율(유도된 행위를 한 소비자 비율)을 극대화할 수 있다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KBFR7SI5L5DSVA2UHE3K7FUXC4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;신분당선 강남역 역사 내 설치된 디지털 옥외광고. /이신영 영상미디어 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;옥외 전광판 전성시대가 열리고 있다. 정부가 지난해 말 서울 광화문과 명동, 부산 해운대 일대를 제2기 ‘옥외광고물 자유표시구역’으로 지정한 것도 호재다. 세계적 관광 명소 조성을 목표로 모양, 크기, 색깔, 설치 방법 등 옥외광고물 규제를 대폭 완화하는 지역을 확대하는 추세다. &lt;br&gt;&lt;br&gt;2016년 서울 강남 코엑스 일대가 최초로 옥외광고물 자유표시구역으로 지정돼 크기나 형태가 다양한 옥외광고물 20여 개가 설치·운영되고 있다. 일각에서 지적하듯이 이른바 ‘빛 공해’는 풀어야 할 숙제다. &lt;br&gt;&lt;br&gt;광화문에는 코리아나호텔 외에도 KT, 교보생명, 동아일보, 세종문화회관, 동화면세점 등이 디지털 옥외광고판을 설치했거나 설치를 검토 중인 것으로 알려졌다. 몇 년 뒤면 그 일대가 뉴욕 타임스스퀘어처럼 대형 전광판으로 꾸며진 관광 명소가 될 수도 있다는 뜻이다. 광고업계 관계자는 “이 추세는 자유표시구역으로 지정된 곳뿐 아니라 다른 지역에도 옥외광고가 증가하는 효과를 가져올 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/TEUUIOLERZD5XE4TF3QTEK5K5Q.jpg?width=5217&amp;height=3478&amp;auth=b6634294874ea9874129e563f9e4a4151de6e68bc814eeb08c4b0d92e97616d4&amp;smart=true" type="image/jpeg" height="3478" width="5217">
-        <media:description type="plain">서울 광화문광장에서 코리아나호텔 외벽 디지털 옥외광고판을 촬영하는 여성들. /이신영 영상미디어 기자</media:description>
-        <media:credit role="author" scheme="urn:ebu">영상미디어 이신영기자 </media:credit>
-      </media:content>
-    </item>
-    <item>
-      <title>여주 물류창고 공사 현장서 50대 근로자 추락해 숨져</title>
-      <link>https://www.chosun.com/national/incident/2025/04/23/5SOSGYME5JASFHJNBJGRMPCYBM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/04/23/5SOSGYME5JASFHJNBJGRMPCYBM/</guid>
-      <dc:creator>정성원 기자</dc:creator>
-      <description>23일 오전 8시 30분쯤 경기 여주시 산북면 한 물류창고 신축 공사 현장에서 50대 근로자 A씨가 8m 높이에서 추락해 숨졌다.</description>
-      <pubDate>Wed, 23 Apr 2025 11:57:24 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/L4GEXC5HOZAC5NA5TDDI7RQ23U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;23일 오전 8시 30분쯤 경기 여주시 산북면 한 물류창고 신축 공사 현장에서 50대 근로자 A씨가 8m 높이에서 추락해 숨졌다. A씨는 건물 3층가량 높이의 고소 작업대 위에서 패널 공사 기초에 쓰일 뼈대를 만드는 작업을 하던 중 사고를 당한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰은 공사 관계자 등을 상대로 정확한 사고 경위를 조사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>검찰, ‘尹 공천개입 의혹’ 관련 김태우 전 강서구청장 조사</title>
       <link>https://www.chosun.com/national/court_law/2025/04/23/MLVHHMOVSNCNLFJ22NVDFI2YQY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/04/23/MLVHHMOVSNCNLFJ22NVDFI2YQY/</guid>
@@ -837,26 +869,6 @@ A씨는 이날 0시쯤 “열흘 전 설악산 둘레길에서 살인을 저질�
       <description/>
       <pubDate>Wed, 23 Apr 2025 11:22:52 +0000</pubDate>
       <content:encoded>마약 투약 혐의로 경찰에 붙잡힌 국민의힘 이철규 의원의 아들이 23일 구속됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WKEGRL4HW5MDBLSM2EB5CGC53U.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;마약 투약 혐의를 받는 이철규 국민의힘 의원 아들 이 모씨가 23일 오전 서울 서초구 서울중앙지방법원에서 열린 구속 전 피의자심문(영장실질심사)을 마친 뒤 법원을 나서고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지법 이정재 영장전담 부장판사는 이날 마약류관리법상 대마 투약·수수 혐의를 받는 이 의원의 아들 이모씨에 대한 영장실질심사를 진행한 뒤 구속 영장을 발부했다. 이씨와 동행한 공범 정모씨도 구속됐다. 이 부장판사는 “도망할 염려가 있다”고 사유를 밝혔다. &lt;br&gt;&lt;br&gt;이씨는 작년 10월 서울 서초구 주택가 화단에 이른바 ‘던지기’ 수법으로 묻혀져 있던 액상 대마를 찾으려다 미수에 그친 혐의를 받는다. 당시 이씨는 아내 등 2명과 렌터카를 타고 현장을 찾은 것으로 조사됐다. &lt;br&gt;&lt;br&gt;경찰은 이씨의 모발에서 대마 양성 반응이 나왔다는 국립과학수사연구원의 감정 결과를 토대로 지난 18일 구속영장을 신청했다. 이씨는 과거에도 대마 혐의로 검찰에 송치됐지만 불기소 처분을 받은 전력이 있는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;한편 이날 서울 서초경찰서는 이씨의 아내, 즉 이 의원의 며느리에 대해서도 국과수에 마약 정밀 검사를 의뢰한 결과 대마 양성 반응이 나왔다고 밝혔다. 경찰은 이들 부부를 상대로 대마 유통 경로 등을 조사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>갯벌서 물에 불은 고양이 사체들 발견...“익사시킨 듯”</title>
-      <link>https://www.chosun.com/national/national_general/2025/04/23/BLVWB2PCSFG6HGTOEBX47ENSTE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/23/BLVWB2PCSFG6HGTOEBX47ENSTE/</guid>
-      <dc:creator>정아임 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 23 Apr 2025 10:59:58 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BZAMOFLHJ5CV5JJLSZOMXCEKKM.png"&gt;&lt;figcaption&gt;&lt;small&gt;지난 22일 광양시 태인동 명당공원에서 숨진 채 발견된 고양이./'카라' 인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전남 광양시 갯벌에서 물에 불은 고양이 사체가 잇따라 발견돼 경찰이 수사에 나섰다. &lt;br&gt;&lt;br&gt;23일 동물권 행동단체 카라에 따르면 전날 낮 12시쯤 광양시 태인동 명당공원 앞 갯벌에서 물에 불어 부패된 고양이 사체가 발견됐다. 고양이는 통조림 캔이 있는 포획틀에 갇혀 숨진 상태였다.&lt;br&gt;&lt;br&gt;카라는 “누군가 고양이를 먹이로 유인해 포획한 뒤 죽이기 위해 고의적으로 포획 틀을 놓아둔 채 익사시킨 것으로 보인다”며 “해당 갯벌 지대는 섬진강으로부터 내려온 물이 남해 바다로 이어져 배도 들어오는 곳”이라고 했다.&lt;br&gt;&lt;br&gt;앞서 지난 20일에도 이 공원 일대에서 노란 무늬 고양이와 카오스 무늬 고양이가 숨진 채 발견됐다. 최초 발견자는 “한 고양이는 온몸에 물이 가득 찼는지 무게가 매우 무거웠다. 또 다른 고양이는 사체가 심하게 부패해 뼈와 가죽만 남은 정도였다”고 전했다.&lt;br&gt;&lt;br&gt;카라는 고양이들의 발견 장소와 상태 등을 볼 때 동일한 수법으로 살해된 것으로 추측했다. 카라는 “명당공원 지역에서 포획 틀을 들고 다니는 자를 목격한 분이 있다면 꼭 연락 부탁드린다”며 “명당공원 외에도 광양시 내에서 유사한 내용을 목격했다면 제보 부탁드린다”고 당부했다.&lt;br&gt;&lt;br&gt;현행 동물보호법상 동물을 학대로 죽음에 이르게 한 경우 3년 이하의 징역형 또는 3000만원 이하의 벌금형에 처해질 수 있다.&lt;br&gt;&lt;br&gt;카라는 이번 사건과 관련해 가해자를 동물보호법 위반 혐의로 광양경찰서에 고발했다. &lt;br&gt;&lt;br&gt;경찰도 동물 학대 가능성이 높은 것으로 보고 사건 경위를 조사할 방침이다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>광주 광산구 저수지서 신원미상 여성 숨진 채 발견</title>
-      <link>https://www.chosun.com/national/incident/2025/04/23/P4BDOHJXINADFF2QV2IPA6Z5XI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/04/23/P4BDOHJXINADFF2QV2IPA6Z5XI/</guid>
-      <dc:creator>정성원 기자</dc:creator>
-      <description>23일 오후 4시 50분쯤 광주 광산구 용곡동 한 저수지에서 사람이 숨진 채 떠 있는 것을 낚시하던 시민이 발견해 경찰에 신고했다.
-신고를 받고 출동한 119구급대는 현장에서 신원 미상의 여성 시신을 수습했다.
-</description>
-      <pubDate>Wed, 23 Apr 2025 10:00:54 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6H4OBCD2DYE62AC53TTHAIXI5U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;광주 광산경찰서./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;23일 오후 4시 50분쯤 광주 광산구 용곡동 한 저수지에서 사람이 숨진 채 떠 있는 것을 낚시하던 시민이 발견해 경찰에 신고했다.&lt;br&gt;&lt;br&gt;신고를 받고 출동한 119구급대는 현장에서 신원 미상의 여성 시신을 수습했다. 시신에선 외상 등 범죄 혐의점은 발견되지 않았다.&lt;br&gt;&lt;br&gt;경찰은 목격자 등을 상대로 정확한 사건 경위를 조사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>“뎅기열·코로나 한 번에 치료”... 현대바이오, 먹는 치료제 본격 임상 돌입</title>
@@ -893,15 +905,6 @@ A씨는 이날 0시쯤 “열흘 전 설악산 둘레길에서 살인을 저질�
       <description/>
       <pubDate>Wed, 23 Apr 2025 08:59:25 +0000</pubDate>
       <content:encoded>지난 2020년 이른바 ‘검언유착’으로 알려진 채널A 사건 수사를 지휘했던 이정현 법무연수원 연구위원(검사장)에 대해 법무부가 정직 1개월의 징계를 의결한 것으로 23일 전해졌다. 이 위원은 서울중앙지검 1차장 시절 이 사건 수사를 맡았고, 이후 대검찰청 공공수사부장을 지냈다. 윤석열 전 대통령이 임기를 시작한 뒤 ‘한직’으로 분류되는 법무연수원 연구위원으로 자리를 옮겼다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RJRTH526EHZLF2E5SL3CNHDVZQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법무부 과천 청사 전경./조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대검은 작년 12월 이 위원이 연구위원으로서 성실의무를 위반하고, 품위를 손상시켰다며 법무부에 징계를 청구했다. 법무연수원 운영 규정에 따라 연구위원은 1년 이내에 연구논문을 제출해야 하는데 이 위원이 이를 내지 않았고, 제출기한 연장 승인도 받지 않았다는 것이다.&lt;br&gt;&lt;br&gt;이와 관련해 이 위원 측은 법무부의 징계가 부당하다는 입장을 이날 밝혔다. 이 위원은 “안전관리 일반, 산업안전보건법, 중대재해처벌법 등 3개의 대주제에 따라 2만7000여 쪽에 달하는 방대한 국내외 자료를 심도 있게 검토하여 산업안전과 관련한 법적 체계를 망라하는 내용의 논문을 작성하겠다는 계획서를 제출했다”며 “서울과학기술대 교수와의 협의 하에 계속 연구를 진행하고 있는 사정을 상세하게 소명하였다”고 했다. 이어 “단지 서면으로 연장 승인을 받지 않았다는 형식적인 규정 위반을 들어 징계를 단행한 것”이라고 했다.&lt;br&gt;&lt;br&gt;이 위원은 연장 승인 규정에 대해서도 “훈시조항에 불과하다”며 “수사가 장기간에 걸쳐 이루어졌다는 이유만을 들어 징계를 하지 못하는 것과 마찬가지”라고 했다.&lt;br&gt;&lt;br&gt;이 밖에도 이 위원은 “윤석열 정권 출범 직후 좌천성 인사를 당한 것”이라며 “당시 직무 태만이나 직무 소홀 등 어떠한 사유도 존재하지 않았다”고 했다. 또 징계위원회의 절차가 형식적으로 진행됐다고도 밝혔다.&lt;br&gt;&lt;br&gt;이 위원은 “법무부의 부당한 징계처분을 바로잡기 위한 모든 노력을 다할 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>일부러 교통사고 낸 경찰, 왜?… 한밤중 만취 도주범 검거 순간</title>
-      <link>https://www.chosun.com/national/national_general/2025/04/23/QIUVNLH2MFAATABZXTDG4PKHFM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/23/QIUVNLH2MFAATABZXTDG4PKHFM/</guid>
-      <dc:creator>문지연 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 23 Apr 2025 06:17:13 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KSR4W7ONR5CDJP7HNTZSCGOZMQ.gif"&gt;&lt;figcaption&gt;&lt;small&gt;순찰차가 음주운전 차량 뒤를 일부러 들이받는 순간. /경찰청 유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰의 순찰차가 만취 상태로 도주하던 음주 차량을 고의 추돌해 붙잡는 순간이 공개됐다.&lt;br&gt;&lt;br&gt;한밤중 추격전은 지난달 10일 오전 1시 10분쯤 대전 동구 판암동 일대에서 발생했다. 당시 판암파출소 송준호 경사와 김선 경장은 음주 의심 신고를 받고 잠복하던 중 골목에서 나오는 문제의 차량을 발견하고 뒤를 쫓기 시작했다.&lt;br&gt;&lt;br&gt;22일 경찰청 유튜브에 올라온 영상을 보면, 음주 의심 차량은 천천히 움직이다 순찰차를 지나치자마자 급격히 속도를 높여 달린다. 김 경장은 “RPM 올라가는 소리가 딱 들렸다”며 “그 차 옆으로 가 창문을 내리면서 세우라고 했더니 ‘알겠다’는 표시를 하더라”라고 했다.&lt;br&gt;&lt;br&gt;두 사람이 탄 순찰차는 음주 의심 차량 앞을 막기 위해 속도를 줄였다. 그러자 이를 본 상대 운전자는 그때부터 붙잡힐 마음이 없다는 듯 시속 100㎞를 밟으며 달아났다. 점점 더 속도를 높이더니 급기야는 좁은 골목길을 시속 80~90㎞로 위험천만하게 달렸다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Y5WHUB3UGRETBG2CTSGCDB57GY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;음주운전 차량이 반대쪽 차선 차량을 무시하고 돌진하려던 모습. /경찰청 유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이후 8차선 사거리를 향해 가던 차량은 반대 차선에서 주행하던 차량마저 무시하고 돌진하려 했다. 송 경사는 “우리 속도로 비춰봤을 때 적어도 시속 130~140㎞는 밟은 것 같다”고 기억했다. 결국 경찰은 차량 뒤를 들이받아 속도를 줄이는 방법을 선택했다.&lt;br&gt;&lt;br&gt;그렇게 1차 충격 후 속도는 현저히 줄었지만 상대 운전자는 멈추지 않았다. 뚫린 길을 따라 무작정 달리던 그는 한 주차장 안으로 들어갔고, 더 이상 달아날 곳을 찾지 못하자 주차 방지턱까지 넘어가며 돌아나가려 했다. 이때 두 경찰관은 2차 충격을 가했다.&lt;br&gt;&lt;br&gt;송 경사는 “주차장으로 들어갔는데도 핸들을 꺾고 도주하려고 하더라”며 “저희가 부득이 또 2차 충격을 가해 아예 고정해 버렸다”고 했다. 김 경장은 “(운전자에게) 술 냄새는 당연히 많이 났다”며 “본인이 슬리퍼도 안 신고 내릴 정도였다”고 말했다.&lt;br&gt;&lt;br&gt;음주 측정 결과 운전자의 혈중알코올농도는 0.119%로 면허취소 수준이었다. 그는 경찰 조사에서 “정차 명령과 추격을 받은 게 처음이라 무서워서 계속 달아났다”고 진술한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;송 경사는 “근무하라고 저희한테 주어진 권한과 장비인데 적재적소에 사용해야지, 안 그러면 다 무용지물이지 않나”라며 “충분히 그럴 만한 가치가 있었고 그래서 망설임 없이 바로 순찰차로 충격을 한 것 같다”고 전했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>‘성착취’ 자경단 피해자 총 261명…공범 2명 구속 기소</title>
@@ -941,15 +944,6 @@ A씨는 이날 0시쯤 “열흘 전 설악산 둘레길에서 살인을 저질�
       <media:content url="https://www.chosun.com/resizer/v2/AR2YFWYOARFRZPGO6SVHPV3UA4.jpg?width=438&amp;height=328&amp;auth=d5df672dbb6848d83c9225462594e20a14136d6cfe40f36cda0f06a565792891&amp;smart=true" type="image/jpeg" height="328" width="438">
         <media:description type="plain">고 강지용./JTBC</media:description>
       </media:content>
-    </item>
-    <item>
-      <title>대법, 24일에도 ‘이재명 선거법’ 전합 심리… 사건 처리 속도전</title>
-      <link>https://www.chosun.com/national/court_law/2025/04/23/65IQ43GJKZFBNELT4QUAGIIDMA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/04/23/65IQ43GJKZFBNELT4QUAGIIDMA/</guid>
-      <dc:creator>방극렬 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 23 Apr 2025 00:26:08 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RS4VSECUUATTKPZFLWQ2BDSNHM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이재명 더불어민주당 대표가 지난 3월 26일 서울 서초구 서울고등법원에서 열린 공직선거법 위반 혐의 2심 선고 공판을 마친 후 법원을 나서고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대법원 전원합의체(전합)가 오는 24일 이재명 전 더불어민주당 대표의 공직선거법 위반 사건 상고심 두 번째 합의 기일을 연다. 22일 전합에 회부하고 첫 합의 기일을 진행한지 이틀 만에 다시 회의를 하는 것이다. 대법원이 이 전 대표 사건 처리에 속도를 내고 있는 모습이다. &lt;br&gt;&lt;br&gt;대법원은 23일 “이 전 대표 선거법 사건의 전합 속행 기일이 24일로 지정됐다”고 공지했다. 대법원은 전날 오전 이 사건을 소부(小部)에 배당했다가 2시간 만에 조희대 대법원장 직권으로 전합에 회부하고 곧바로 대법관 전원이 참여하는 첫 합의 기일을 열었다.&lt;br&gt;&lt;br&gt;이어 본격 심리에 착수한 지 이틀 만에 두 번째 합의 기일을 추가로 잡으면서 후속 검토에 나선 것이다. 대법원이 유력 대선 주자인 이 전 대표 사건을 대선 전 처리하겠다는 의지를 사실상 드러낸 것으로 평가된다. 이 전 대표 사건의 재판장은 조 대법원장이, 주심은 박영재 대법관이 맡는다.&lt;br&gt;&lt;br&gt;법원조직법과 대법원 내규 등에 따르면, 중대한 공공의 이해관계와 관련되거나 국민적 관심도가 매우 높은 사건은 소부가 아닌 대법관 전원이 참여하는 전합에서 심리하도록 규정돼있다. 다만 중앙선거관리위원장인 노태악 대법관은 선거법 사건이라는 이유로 스스로 회피해서 조 대법원장을 비롯한 대법관 12명이 재판을 맡게 됐다.&lt;br&gt;&lt;br&gt;이 전 대표는 민주당 대선 후보였던 2021년 대장동 개발 실무 책임자였던 고(故) 김문기씨를 성남시장 시절 몰랐다고 말하고, 국정감사에 나가 국토교통부 협박으로 백현동 부지 용도를 상향했다고 발언해 허위 사실 공표 혐의로 재판에 넘겨졌다. 1심은 징역 1년에 집행유예 2년을 선고했으나, 항소심은 지난달 26일 무죄를 선고했다.&lt;br&gt;&lt;br&gt;전합에서는 이 전 대표 발언의 뜻과, 이를 허위 사실 공표죄로 처벌할 수 있는지가 쟁점이 될 전망이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
