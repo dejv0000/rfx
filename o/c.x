@@ -13,6 +13,92 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>[속보] 서울 강남 코엑스서 화재 추정 연기…관람객 대피 </title>
+      <link>https://www.chosun.com/national/national_general/2025/04/25/CSCDUHZVTRHFFPM44NL4CUJXL4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/25/CSCDUHZVTRHFFPM44NL4CUJXL4/</guid>
+      <dc:creator>김나연 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 25 Apr 2025 02:33:34 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SUTCGF2G55O23FGHZIW3J3SRFQ.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;25일 서울 강남구 코엑스 내 입점한 식당에서 화재로 연기가 발생하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;25일 오전 서울 강남구 삼성동 코엑스 2층에 입점한 식당에서 화재가 발생해 소방 당국이 진화 작업 중이다.&lt;br&gt;&lt;br&gt;소방 관계자는 “오늘 오전 11시 6분에 신고가 접수됐다”며 “인명 피해 등은 확인 중”이라고 했다. 소방당국은 소방차량 20대, 소방관 71명을 동원해 화재 진압에 나섰고 오전 11시 42분쯤 초진을 완료했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HWPBPCE7QZGTLJYT6I727FI4YQ.png"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;코엑스 내부에 있던 시민과 인근 상업시설 근무자 등 인파 수백명이 건물 바깥으로 대피했다. 이 불로 오전 11시 44분 기준으로 영동대로 왼편 코엑스~삼성역 구간 하위 차로가 통제되고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[속보] 문재인 전 대통령 뇌물 사건, 서울중앙지법 형사21부 배당</title>
+      <link>https://www.chosun.com/national/court_law/2025/04/25/6FFOVT6QG5G37MGYADRPODLPSA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/04/25/6FFOVT6QG5G37MGYADRPODLPSA/</guid>
+      <dc:creator>방극렬 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 25 Apr 2025 02:56:04 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7HGUSHO5WBMNUNGAIURSOXNUBI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;문재인 전 대통령./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전 사위 서모씨의 ‘타이이스타젯 특혜 채용’ 의혹으로 기소된 문재인 전 대통령의 뇌물 사건이 서울중앙지법 선거·부패 전담부인 형사21부에 배당됐다.&lt;br&gt;&lt;br&gt;서울중앙지법은 25일 문 전 대통령 사건을 형사21부(재판장 이현복)에 배당했다고 밝혔다.&amp;nbsp;문 전 대통령이 전날 특정범죄 가중처벌 등에 관한 법률 위반(뇌물) 혐의로 불구속 기소된 지 하루 만이다.&lt;br&gt;&lt;br&gt;문 전 대통령은 사위였던 서씨의 취업과 딸 가족의 태국 이주 등을 도운 대가로 2018년 3월 이상직 전 의원에게 중소벤처기업진흥공단 이사장 자리를 주고, 2020년 4월 총선 때 더불어민주당 공천을 도운 혐의를 받는다. 전 사위 서씨는 이 전 의원이 실소유한 태국 저가 항공사 타이이스타젯 임원으로 취업해 2018년 8월~2020년 4월 월급과 집세 등 2억1700만원을 받은 것으로 조사됐다.&lt;br&gt;&lt;br&gt;전주지검은 2021년 12월 시민단체의 고발로 이 사건 수사에 착수해 관계자들을 조사했지만, 사건의 중대성과 범행 장소(청와대) 등을 고려해 중앙지법에 기소했다.&lt;br&gt;&lt;br&gt;중앙지법 형사21부는 재판장인 이현복(사법연수원 30기) 부장판사와 이경주(변호사 시험 30회)·김현우(변시 8회) 배석 판사로 구성돼있다. 이 부장판사는 법원행정처 홍보심의관과 대법원 재판연구관 등을 거친 엘리트 법관으로 꼽힌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[단독] ‘문 케어’ 이후 두통으로 MRI 찍은 중국인 9배↑... “외국인 무임승차 논란 여전”</title>
+      <link>https://www.chosun.com/national/welfare-medical/2025/04/25/FUPMWBFGMBFP5GCFN3PR7H5SYE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/04/25/FUPMWBFGMBFP5GCFN3PR7H5SYE/</guid>
+      <dc:creator>오유진 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 25 Apr 2025 03:00:30 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AHJFO3TWVBANJFMXG2DSPEKCII.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;뇌 MRI 사진. /영 카디프대&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;건강보험 보장성 강화 정책, 이른바 ‘문 케어’ 시행 이후 단순 두통으로 뇌 MRI를 촬영한 중국인이 9배 가까이 급증한 것으로 나타났다.&lt;br&gt;&lt;br&gt;25일 국회 보건복지위원회 소속 국민의힘 서명옥 의원실이 국민건강보험공단에서 받은 자료에 따르면, 지난해 뇌·뇌혈관 MRI를 촬영한 인원은 총 135만6778명으로, 2017년(48만2051명)보다 2.8배 증가했다. 같은 기간 중국인 환자는 5291명에서 2만185명으로 3.8배 늘어나, 전체보다 증가 폭이 더 컸다.&lt;br&gt;&lt;br&gt;특히 ‘두통’으로 MRI를 촬영한 인원은 2017년 7250명에서 지난해 3만8287명으로 5.3배 증가했다. 중국인만 놓고 보면, 99명에서 871명으로 8.8배 뛰었다.&lt;br&gt;&lt;br&gt;고가의 뇌 MRI에 건강보험 적용이 대폭 확대된 시점은 문재인 정부 시절인 2018년 10월부터다. 이전까지는 뇌경색 등 중증 뇌 질환에 한해 건보 적용이 됐지만, 이후 두통·어지럼증 등 비교적 가벼운 증상에도 보험이 적용되면서 MRI 촬영이 급격히 늘었다.&lt;br&gt;&lt;br&gt;실제 문 케어 시행 후 3년간 뇌 MRI 촬영 건수는 연평균 51.2%씩 증가했다. 2022~2023년에는 연 150만 건에 달했다.&lt;br&gt;&lt;br&gt;문제는 외국인 건보 가입자 중 절반가량을 차지하는 중국 국적자들 가운데, 보험료를 내지 않으면서도 한국인과 동일한 건보 혜택을 누리는 사례가 적지 않다는 것이다.&lt;br&gt;&lt;br&gt;건보에 가입된 외국인은 2019년 말 121만명에서 2023년 말 146만명으로 25만명 늘었다. 이 가운데 중국 국적자는 70만명으로 전체 외국인 중 48%를 차지할 정도로 가장 많다. 뒤이어 베트남(15만명), 우즈베키스탄(7만명), 네팔(5만명) 순이다.&lt;br&gt;&lt;br&gt;특히 중국은 외국인 건보 가입자가 많은 10국 가운데 유일하게 적자를 내고 있다. 2019년 -987억원, 2021년 -109억원, 2022년 -229억원 등 적자를 기록했다.&lt;br&gt;&lt;br&gt;이 같은 논란이 계속되자, 정부는 지난해 4월 국내에 입국하는 외국인과 재외국민은 6개월 이상 거주해야만 건보 가입자의 피부양자가 될 수 있도록 요건을 강화했다.&lt;br&gt;&lt;br&gt;서명옥 의원은 “외국인의 건보 ‘무임승차’ 논란은 여전히 끊이지 않는다”며 “중국인 무임승차 논란과 과도한 MRI 촬영 문제를 방지하는 등 건보 재정 건전성을 지키기 위한 제도 개선이 시급하다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>서울고검, 김건희 ‘도이치모터스 주가 조작 연루’ 의혹 재수사 결정</title>
+      <link>https://www.chosun.com/national/court_law/2025/04/25/3LFZWJBETJFP7LOF2UW6GOVKVY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/04/25/3LFZWJBETJFP7LOF2UW6GOVKVY/</guid>
+      <dc:creator>이민준 기자, 유희곤 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 25 Apr 2025 01:39:41 +0000</pubDate>
+      <content:encoded>윤석열 전 대통령의 부인 김건희 여사의 ‘도이치모터스 주가 조작 연루’ 의혹에 대해 검찰이 재수사를 결정했다고 25일 밝혔다. 서울중앙지검이 지난해 10월 불기소를 결정하자 고발인들이 항고한 데 따른 것이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/L73S2EUNEVIFZMFK7FI3MSUOWY.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령 부인 김건희 여사가 지난 11일 한남동 관저를 퇴거해 사저인 서울 서초구 아크로비스타로 들어서며 지지자들과 인사를 나누고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;항고는 고소‧고발인이 지방검찰청·지청의 불기소 처분이 타당한지 고등검찰청에 판단해달라고 요구하는 절차다. 고등검찰청은 항고장을 검토한 뒤 고소·고발인의 이의 제기가 타당하다고 판단하면 재기 수사, 공소 제기 등을 명령하거나 직접 재수사할 수 있다.&lt;br&gt;&lt;br&gt;앞서 이 의혹을 고발한 최강욱 전 의원과 황희석 변호사는 검찰이 불기소를 결정하자 지난해 10월 항고장을 제출했다. 최 전 의원은 133쪽 분량의 항고이유서를 제출할 당시 기자들과 만나 “불기소 결정은 참으로 부끄럽고 후안무치한 일”이라며 “멀쩡하게 살아있는 증거를 외면하면서까지 최고 권력을 행사하고 있는 여성의 범죄를 묵인했던 것은 아닌지 반드시 규명돼야 한다”고 말했다.&lt;br&gt;&lt;br&gt;서울중앙지검 반부패수사2부(부장 최재훈)는 불기소 결정서에서 김 여사 명의 계좌 3개(대신·미래에셋·DS투자증권)가 권오수 전 도이치모터스 회장 등의 주가조작(통정매매 47건·종가관여주문 1건)에 사용된 사실은 인정된다면서도 “김 여사 명의 계좌에서 주가조작(시세조종)성 주문 등이 제출됐다는 이유만으로 김 여사에게 공모나 방조 혐의를 적용할 수 없다”고 했다. &lt;br&gt;&lt;br&gt;그러나 서울고검은 권 전 회장 등 공범에 대한 대법원 판결이 확정된 점을 고려할 때 관련자들에 대한 추가 조사 필요성이 있다고 판단한 것으로 전해졌다. 재수사는 서울고검이 직접 맡는다.&lt;br&gt;&lt;br&gt;한편, 서울고검은 함께 제기된 ‘디올백 수수’ 의혹 불기소에 대한 항고는 기각했다고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>올해 변시 합격자 1744명… 변협 “변호사 과잉공급 외면” 반발</title>
+      <link>https://www.chosun.com/national/court_law/2025/04/25/NX7HBHH7NZHMFEJTEMLIFEZCFY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/04/25/NX7HBHH7NZHMFEJTEMLIFEZCFY/</guid>
+      <dc:creator>방극렬 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 25 Apr 2025 01:55:41 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GBDG6QZXZ5O4BCDG5NES5O2JLM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대한변호사협회 소속 변호사들이 14일 경기도 과천시 정부과천청사 앞에서 변호사 배출 수 감축 요구 기자회견을 하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;법무부가 올해 변호사 시험 합격자 수를 1744명으로 정한 데 대해 대한변호사협회(변협)가 25일 “일선 변호사의 상식적인 요청을 외면한 결정에 깊은 유감을 표한다”고 밝혔다.&lt;br&gt;&lt;br&gt;변협은 이날 “객관적인 통계와 지표에 따라 적정 변호사 수를 산정하고, 변호사 과잉 공급에 따라 발생하고 있는 국민의 피해와 사회적 폐단을 고려해 합격자 수를 1200명 이내로 결정해야 한다고 누차 밝혔는데, 이를 법무부가 외면했다”며 “과잉 공급으로 인한 국민의 피해, 각종 사회적 폐단에 대한 지적이 오롯이 반영되지 못했다”고 반발했다.&lt;br&gt;&lt;br&gt;법무부는 전날 변호사 시험 관리위원회 심의 의견 및 대법원·변협·법학전문대학원협의회 등 유관 기관 의견 등을 고려해 올해 합격자 수를 작년보다 1명 줄어든 1744명으로 결정했다고 발표했다.&lt;br&gt;&lt;br&gt;변협은 “총 15명으로 구성된 관리위 위원 중 변호사는 단 3명”이라며 “변호사 직역과 직접적인 관련이 없어 업계 실태를 제대로 알지 못하는 일부 위원들은 합격자 수를 1800명 이상으로 결정해야 한다는 의견을 내기도 했다”고 했다. 이어 “객관적인 통계와 지표를 고려하면 현행 법조 인력 수급 정책은 정상 범주를 한참 벗어났다”며 “변호사 시험 관리위 구성에 구조적 문제가 있다”고 주장했다.&lt;br&gt;&lt;br&gt;다만 변협은 “지난 5년간 추이를 살펴보았을 때, 이번 법무부 결정은 응시자가 예년에 비해 증가했음에도 합격자가 감소한 최초의 사례”라며 “매해 아무런 근거 없이 이뤄지던 합격자 수 상승을 일단 저지했다는 점에 의미가 있다”고 했다.&lt;br&gt;&lt;br&gt;그러면서 “정부는 객관적인 통계와 지표를 연구해 우리 사회 적정 변호사 수를 산정하라” “법조 인접 자격사를 단계적으로 감축하고 통폐합하라” 등 5가지 요구 사항을 밝혔다. 변협은 “향후 변호사 수 정상화를 위해 모든 노력을 다하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>주말 전국 강풍에 동쪽 건조 “산불 조심”</title>
+      <link>https://www.chosun.com/national/transport-environment/2025/04/25/JBTEACYQLRGNFLYQXUW2SI7TNI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/04/25/JBTEACYQLRGNFLYQXUW2SI7TNI/</guid>
+      <dc:creator>정해민 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 25 Apr 2025 01:47:31 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XWE4PWVWVLORZLD45JN6IG35ZE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 1월 경북 포항시에서 산불조심을 알리는 깃발이 바람에 펄럭이고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;주말에는 전국에 바람이 강하게 불겠다. 동쪽 지역을 중심으로 대기가 차차 건조해져 산불 등 화재 발생에 유의해야 한다.&lt;br&gt;&lt;br&gt;25일 기상청은 “당분간 전국에 바람이 순간 풍속 55km/h 이상(산지 70km/h 이상)으로 강하게 부는 곳이 있겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;26일 밤부터 강원 산지와 경북 북동 산지, 27일 새벽부터 강원 동해안과 경북 북부 동해안을 중심으로 바람이 순간 풍속 70km/h 이상(산지 90km/h 이상)으로 매우 강하게 불 전망이다.&lt;br&gt;&lt;br&gt;동쪽 지역을 중심으로 대기가 차차 건조해질 것으로 보인다. 기상청은 “산지를 중심으로 바람도 강하게 불면서 작은 불씨가 큰 불로 번질 수 있으니 산불을 포함한 각종 화재 예방에 유의해야 한다”고 했다.&lt;br&gt;&lt;br&gt;이날 북서쪽에서 찬 공기가 남하하면서 26일 아침까지 평년보다 기온이 조금 낮을 것으로 예보됐다. 기온은 26일 낮부터 평년 수준으로 회복될 전망이다.&lt;br&gt;&lt;br&gt;26일 새벽부터 아침 사이 일부 경기 북부·동부, 강원 내륙, 충북, 전라 동부, 경북 북부 내륙을 중심으로 아침 기온이 0도 안팎으로 내려가는 곳이 있겠다.&lt;br&gt;&lt;br&gt;한편 제주도는 27일 밤부터 비 소식이 있다. 예상 강수량은 5mm 안팎이다.&lt;br&gt;&lt;br&gt;26일 아침 최저 기온은 2~10도, 낮 최고 기온은 16~25도, 26일 아침 최저 기온은 6~15도, 낮 최고 기온은 16~25도로 예보됐다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“이게 1만2000원?” 충북장애인도민체전 부실 도시락 논란</title>
+      <link>https://www.chosun.com/national/national_general/2025/04/25/6XFK3MC255DHXKOUXYQ6AZYWHQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/25/6XFK3MC255DHXKOUXYQ6AZYWHQ/</guid>
+      <dc:creator>이가영 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 25 Apr 2025 01:00:26 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PWH6XEEVRVH43E7HKOKHHAEO74.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;24일 열린 제19회 충북장애인도민체육대회에 참가한 선수단에 제공된 1만2000원짜리 도시락. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;충북 충주에서 열린 제19회 충북장애인도민체육대회 개막식에 참가한 선수단에 부실한 도시락이 제공돼 논란이다. 체육회 측은 “개최지로서 꼼꼼히 챙기지 못한 데 대해 사과드린다”고 밝혔다. &lt;br&gt;&lt;br&gt;25일 충주시장애인체육회 등에 따르면 전날 충주 호암체육관에서는 시군 선수단과 관계자 1400여 명이 참여한 장애인도민체전 개막식이 열렸다. 행사 도중 일부 선수단에는 1인당 1만2000원 상당의 도시락이 지급됐다. &lt;br&gt;&lt;br&gt;그러나 가격대와 달리 구성이 부실하다는 논란이 일었다. 제공된 반찬은 풋고추와 김, 김치, 무말랭이, 깻잎절임 등에 그쳤다. 이 도시락은 충주에 사업장을 둔 A업체가 납품한 것이었다. &lt;br&gt;&lt;br&gt;선수 및 관계자들의 항의가 잇따르자, A업체는 뒤늦게 “도시락 납품량이 몰리며 준비가 미흡했다”고 인정했다. 도시락값은 재료비 수준인 절반만 받기로 한 것으로 전해졌다. &lt;br&gt;&lt;br&gt;A업체를 선수단에 소개한 시장애인체육회 관계자는 “개최지로서 꼼꼼히 챙기지 못한 데 대해 사과드린다”며 “불편을 겪은 선수 및 관계자들을 위해 현장에서 음료와 간식 등을 추가 제공했다”고 밝혔다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HFHDH3YBEFHDZCD6QQ5XP3HTQU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;24일 열린 제19회 충북장애인도민체육대회에 참가한 선수단에 제공된 1만2000원짜리 도시락. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/N23TZT45VJBMNJAZBBFTAX2YPE.jpg?auth=82287c6f5e3cdf86d1b6991f0cfa801fc1eb1a778ac01ce0baaaa0842e0ff556&amp;smart=true&amp;width=900&amp;height=506" type="image/jpeg" height="506" width="900">
+        <media:description type="plain">24일 열린 제19회 충북장애인도민체육대회에 참가한 선수단에 제공된 1만2000원짜리 도시락. /연합뉴스</media:description>
+        <media:credit role="author" scheme="urn:ebu"/>
+      </media:content>
+    </item>
+    <item>
+      <title>경찰·노동부, ‘광명 신안산선 붕괴사고’ 관련 포스코이앤씨 압수수색</title>
+      <link>https://www.chosun.com/national/incident/2025/04/25/7AVNOG4KU5GMZC5E2WNEOM2I6U/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/04/25/7AVNOG4KU5GMZC5E2WNEOM2I6U/</guid>
+      <dc:creator>수원=김수언 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 25 Apr 2025 00:47:19 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PVUAJ6OGJSBWU6OTK57FBGRVI4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기 광명시 일직동 신안산선 복선전철 5-2공구 붕괴 현장. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 광명시 신안산선 지하터널 공사 현장 붕괴 사고를 수사 중인 경찰과 고용노동부가 25일 포스코이앤씨에 대한 압수수색에 나섰다. 사고 발생 14일 만이다.&lt;br&gt;&lt;br&gt;경찰 등에 따르면 경기남부경찰청 신안산선 공사장 붕괴사고 수사전담팀과 고용노동부 성남지청은 이날 오전 9시쯤부터 해당 공사 시공사인 포스코이앤씨 본사 사무실과 현장 사무실 등에 대해 압수수색 영장을 집행 중이다. 압수수색 대상은 모두 7개 업체, 9곳으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰 수사관 60여명과 고용노동부 근로감독관 등 모두 90여명 규모가 현장에 투입돼 관련 문건 등을 확보 중이다.&lt;br&gt;&lt;br&gt;이 사고는 지난 11일 오후 3시 13분쯤 광명시 일직동 신안산선 5-2공구 지하 터널 공사 현장에서 발생했다. 터널을 지지하던 기둥이 무너지면서 지상에서 작업 중이던 50대 작업자 A씨(포스코이앤씨 소속)와 20대 굴착기 기사가 매몰됐다. 20대 기사는 구조됐으나 A씨는 사고 발생 5일 후인 16일 숨진 채 발견됐다.&lt;br&gt;&lt;br&gt;경찰은 업무상 과실치사상 혐의로 시공사인 포스코이앤씨와 하청업체, 감리사 소속 현장 관계자 등 총 3명을 형사입건하고 수사 중이다.&lt;br&gt;&lt;br&gt;경찰은 확보한 방범카메라(CCTV) 영상과 근로자 진술을 토대로 붕괴 조짐부터 실제 사고 발생까지의 경위를 면밀히 재구성하고 있다. 포스코이앤씨 측으로부터 제출받은 설계도 등 각종 서류도 분석 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘레전드들이 어쩌다…’ 강동희·임창용 같은 날 실형, 법정구속은 면해</title>
+      <link>https://www.chosun.com/national/national_general/2025/04/25/FLJ4BBAI5NGYLJBDLJSPLEV3ZQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/25/FLJ4BBAI5NGYLJBDLJSPLEV3ZQ/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 24 Apr 2025 23:59:18 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/245B3CXA3FG27EDGCFYQVXVRNE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;스포츠 레전드 스타들인 전 프로농구 선수 강동희와 전 프로야구 선수 임창용이 24일 나란히 실형을 선고받았다. 다만 두 사람 모두 법정 구속은 면했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HO6V47WMJ6CXT7FGYPNSDWG3LY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전 프로농구 선수 강동희. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천지법 형사17단독 김은혜 판사는 이날 업무상 횡령‧배임 혐의로 기소된 강동희에게 징역 1년 2개월을 선고했다. 김 판사는 강동희와 함께 기소된 농구교실 법인 관계자 A씨에게는 징역 1년 실형을, 다른 3명에게는 징역 9개월∼징역 1년에 집행유예 2년을 선고했다. &lt;br&gt;&lt;br&gt;김 판사는 징역형을 선고한 강동희와 A씨에 대해선 “피해 회복 기회 부여를 위해 법정 구속은 하지 않는다”고 했다.&lt;br&gt;&lt;br&gt;강동희는 지난 2018년 5~10월 농구 교실을 운영하는 과정에서 A씨 등 직원 4명과 법인 자금 1억600만원을 빼돌려 쓴 혐의 등으로 기소됐다. 또 농구 교실 자금 2100만원으로 변호사 비용을 내거나 새 사무실을 계약해 법인에 손해를 끼친 혐의를 받았다.&lt;br&gt;&lt;br&gt;한국 농구 국가대표, 프로농구 감독 등으로 활약한 강동희는 앞서 2011년 브로커들에게 4700만원을 받고 후보 선수들을 프로농구 정규리그 일부 경기에 투입해 승부를 조작한 사실이 드러나 2013년 징역 10월이 확정됐고, 한국농구연맹(KBL)에서도 제명됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/A2B2DHI7XIHA7IL6THWLJBSXQQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전 프로야구 선수 임창용. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;같은 날 광주지법 형사11단독 김성준 부장판사는 사기 혐의로 기소된 임창용에게 징역 8개월을 선고했다. 임창용은 2019년 12월 필리핀 마닐라에서 지인에게서 카지노 도박 자금을 빌린 뒤 갚지 않은 혐의다. 김 판사는 임창용이 도주할 우려가 없다며 법정 구속하지는 않았다.&lt;br&gt;&lt;br&gt;임창용 측은 도박을 위해 돈을 빌린 것은 맞지만 현금이 아닌 도박 칩이었고, 액수 자체도 1억 5000만원이 아닌 7000만원 상당에 불과해 모두 변제했다고 주장했다.&lt;br&gt;&lt;br&gt;임창용은 1995년 해태 타이거즈에서 프로야구 선수 생활을 시작해 삼성 라이온즈를 거쳐 일본과 미국의 프로 무대에서도 활동한 바 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/ITMVGRU2FJEK7H7MCM26MF6YAY.jpg?auth=90d4e3ad7b8e898a799ca8f5ce837fea776f3b09eb9708496866e5436b49a4e2&amp;smart=true&amp;width=1600&amp;height=900" type="image/jpeg" height="900" width="1600"/>
+    </item>
+    <item>
       <title>오늘 2심 선고 앞둔 김호중, 반성문 130장 냈다 </title>
       <link>https://www.chosun.com/national/national_general/2025/04/25/OFB3KYFOV5BW3GVT4YHMJNQZ64/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/25/OFB3KYFOV5BW3GVT4YHMJNQZ64/</guid>
@@ -709,15 +795,6 @@ A씨는 이날 0시쯤 “열흘 전 설악산 둘레길에서 살인을 저질�
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3KWGGGFQHT3SN2NJTCVKOUZRWY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;박상돈 천안시장. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;공직선거법 위반 혐의로 기소된 박상돈 충남 천안시장이 대법원에서 당선 무효형을 확정 받았다. &lt;br&gt;&lt;br&gt;대법원 3부(주심 엄상필 대법관)는 24일 공직선거법상 허위사실 공표 등 혐의로 재판에 넘겨진 박 시장의 재상고심에서 6개월에 집행유예 2년을 선고한 원심을 확정했다. &lt;br&gt;&lt;br&gt;이로써 박 시장은 시장직을 잃게 됐다.공직선거법상 선거 범죄로 벌금 100만원 이상의 형이 확정되면 곧바로 직을 상실하고, 향후 5년간 선거 출마도 제한된다. &lt;br&gt;&lt;br&gt;박 시장은 2022년 지방선거에서 천안시청 공무원 조직을 이용해 선거 홍보 영상물을 제작하고 이를 개인 유튜브에 올리는 등 선거운동을 한 혐의로 기소됐다. 또 예비 후보자 홍보물과 선거 공보물에 ‘천안시 고용률이 전국 2위, 실업률은 전국 최저’라고 기재해 허위 사실을 공표한 혐의도 받았다. 인구 50만명 이상의 지방자치단체를 대상으로 한 순위라는 점을 누락해, 마치 전국 228개 지자체 전체 순위인 것처럼 표기됐다는 것이다.&lt;br&gt;&lt;br&gt;당초 2심은 박 시장에게 징역 1년에 집행유예 2년을 선고했다. 대법원은 작년 9월 이 판결을 깨고 사건을 대전고법으로 돌려보냈다. 박 시장이 공무원 지위를 이용해 선거운동한 혐의를 유죄로 판단한 것은 문제가 없지만, 홍보물 순위에서 인구 기준을 누락한 것이 고의적이라고 보기는 어렵다고 판단했다.&lt;br&gt;&lt;br&gt;대전고법은 파기환송심에서 징역 6개월에 집행유예 2년을 선고했다. 박 시장의 허위사실 공표 혐의에 대해 “피고인이 인구 기준 누락을 인식했다거나 용인했다고 합리적 의심의 여지 없이 증명됐다고 보기 어렵다”며 이 부분을 무죄로 다시 판결했다. 대법원은 이날 “공소사실 일부를 유죄로 인정한 원심 판결을 확정한다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>‘8촌 이내 근친혼’ 무효법이 멈췄다...4개월째 입법 공백</title>
-      <link>https://www.chosun.com/national/court_law/2025/04/24/DLI5JGLA7JBOZJCRRWANN3Z3YI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/04/24/DLI5JGLA7JBOZJCRRWANN3Z3YI/</guid>
-      <dc:creator>박강현 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 24 Apr 2025 02:29:15 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FMIKU47EYKGMSS6GOW7EZGE2SI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기 과천 법무부 청사 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;법무부가 헌법재판소 결정에 따라 근친혼(近親婚) 범위를 ‘8촌 이내 무효’에서 ‘4촌 이내 무효, 8촌 이내 취소’로 완화하는 법 개정을 추진하고 있지만, 비상계엄 등의 여파로 입법 공백 사태가 4개월째 계속되고 있는 것으로 24일 나타났다. 법조계에서는 이러는 사이 모든 혈족 간 결혼이 이뤄지더라도 막지 못하는 혼란이 발생할 수 있다는 우려가 나온다.&lt;br&gt;&lt;br&gt;헌재는 2022년 10월 8촌 이내 혈족 간 혼인을 일률적으로 무효로 하는 민법 제815조 제2호가 혼인의 자유를 침해해 헌법에 위반된다며 헌법불합치 결정을 내렸다. 그러면서 해당 조항을 2024년 12월 31일까지 개정하라고 했다. 헌법불합치는 헌법에 위배되는 법의 효력을 바로 정지할 경우 생기는 혼란을 막기 위해 법 개정 시한을 두는 결정이다.&lt;br&gt;&lt;br&gt;헌재의 결정은 근친혼이 혈족 간 신분 관계 등에 혼란을 초래해 가족 제도를 심각하게 훼손하는 경우는 ‘혼인 무효’, 나머지는 ‘혼인 취소’를 통해 가족의 기능과 안정성을 보호해야 한다는 취지로 해석됐다. 그러나 혼인이 무효되면 처음부터 부부가 아니었던 것으로 간주돼 이들 사이에 출생한 자녀는 혼외자가 되고, 상속 등에 관한 권리 역시 무효가 돼 여러 문제가 생길 것이라는 우려가 법조계에서 제기됐다.&lt;br&gt;&lt;br&gt;헌재 결정에 따라 법무부는 국회와 협의를 거쳐 4촌 이내 혈족 간 혼인은 무효로 하되 8촌 이내 혈족 간 혼인은 취소 사유로 판단하도록 하는 법률안을 마련했다. 혼인 취소에선 혼인 중 출생자 지위가 유지돼 자녀의 법적 지위 등을 보장할 수 있다. 이후 이런 내용을 담은 민법 개정안을 작년 10월 유상범 국민의힘 의원이 대표 발의했지만, 아직 법제사법위원회에 계류돼 있다. 법무부 관계자는 “12·3 비상계엄 이후 다른 현안들이 많았고, 현재 대선 정국까지 겹쳐 우선순위에서 밀리고 있는 것 같다”고 했다. &lt;br&gt;&lt;br&gt;작년 말까지 법 개정이 이뤄지지 않으면서, 위헌 결정이 난 ‘근친혼 무효 조항’은 법적 효력을 상실한 상태다. 8촌 이내 근친혼을 ‘금지’하는 민법 제809조 1항이 있긴 하지만, 이를 막기 위한 혼인 무효 조항이 멈춰져 있어 혈족 간 결혼이 허용돼 있는 셈이다. 이런 시기 8촌 이내 혼인이 이뤄지더라도 무효로 되돌릴 수 없다는 것이다. 한 법조인은 “입법 공백 상태에서 가족 제도를 뒤흔들 만한 친족 간 결혼이 이뤄질 수도 있다”면서 “국회가 하루빨리 법 개정 작업에 나서야 한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[단독] 집단 유급 D-6… 이주호, 의대생들에 ‘마지막 대화’ 제안</title>
       <link>https://www.chosun.com/national/education/2025/04/24/JKHFKULSVFGFBGFIKYWO4GEDWU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/education/2025/04/24/JKHFKULSVFGFBGFIKYWO4GEDWU/</guid>
@@ -736,15 +813,6 @@ A씨는 이날 0시쯤 “열흘 전 설악산 둘레길에서 살인을 저질�
       <content:encoded>테무, 쉬인, 알리익스프레스 등 중국 온라인 플랫폼에서 파는 어린이용 완구에서 국내 사용이 금지된 가습기 살균제 성분의 유해 물질이 검출됐다.&lt;br&gt;&lt;br&gt;24일 서울시에 따르면, 어린이날을 앞두고 테무, 쉬인, 알리익스프레스에서 판매 중인 완구 25종에 대해 안전성 검사를 한 결과 4개 제품이 부적합 판정을 받았다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DOT6XFHLDRFSFF2BBKCFW2VCRE.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=조선디자인랩 김영재&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;구체적으로 키링 인형 1종에서는 국내 기준치의 278.6배인 프탈레이트계 가소제(DEHP·디에틸헥실프탈레이트)가 검출됐다. 프탈레이트계 가소제는 내분비계 장애 물질로 생식 기능에 영향을 미치며 접촉 시 눈, 피부 등에 자극을 일으킬 수 있다. 국제암연구소가 지정한 인체발암가능물질(2B등급)로 분류된다. &lt;br&gt;&lt;br&gt;어린이 점토 1종에서는 국내 사용이 금지된 CMIT(클로로메틸아이소티아졸리논)와 MIT(메틸아이소티아졸리논)가 나왔다. 이 성분들은 가습기 살균제 원료로 사용돼 유해성 논란이 일었던 바 있다. 일정 농도 이상 노출 시 피부, 호흡기, 눈 등에 강한 자극을 줄 수 있어 어린이 제품에서는 사용이 금지돼 있다.&lt;br&gt;&lt;br&gt;학습 완구 2종은 물리적 시험에서 국내 기준 부적합 판정을 받았다. 저울 형태의 완구는 하늘색 고정판 바닥 부분이 날카롭게 제작돼 사용 중 찔림이나 베임 등의 우려가 제기됐다. 집게와 봉제공을 이용한 분류 놀이 완구는 삼킴 사고 예방을 위한 경고 표시 누락, 파손 시 찔림·베임 등의 위험이 있는 것으로 확인됐다.&lt;br&gt;&lt;br&gt;서울시는 이번 검사 결과를 토대로 해당 부적합 제품에 대해 각 플랫폼에 판매 중단을 요청한 상태다. 서울시는 “시민들도 해외 직구 어린이 제품 구매 시 각별히 주의해달라”고 했다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>초등생 8명 추행한 ‘공포의 방과후 강사’ 결국…</title>
-      <link>https://www.chosun.com/national/national_general/2025/04/24/BOA4RU7YKZEXPAHGZINCMLVZHY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/24/BOA4RU7YKZEXPAHGZINCMLVZHY/</guid>
-      <dc:creator>김명일 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 24 Apr 2025 02:35:24 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VDZIEJTKE63QO375J37JOA3HAQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원 관련 이미지. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;자신이 가르치던 초등학생들을 장기간 성추행한 방과 후 강사가 항소심에서도 중형을 선고받았다.&lt;br&gt;&lt;br&gt;24일 광주고법 전주재판부 제1형사부(양진수 부장판사)는 성폭력범죄의 처벌 등에 관한 특례법 위반(13세 미만 미성년자 위계 등 추행) 혐의 등으로 기소된 30대 남성 A씨의 항소심 선고공판에서 징역 6년을 선고한 원심을 유지했다고 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 2021년부터 2023년까지 전북 지역 초등학교에서 방과 후 수업을 하며 여학생 8명을 추행한 혐의로 재판을 받아왔다.&lt;br&gt;&lt;br&gt;A씨는 재판 과정에서 형사 공탁을 통해 감형을 노렸으나 피해 학생 부모들은 공탁금 수령을 거부하며 재판부에 엄벌을 탄원했다.&lt;br&gt;&lt;br&gt;항소심 재판부는 “피고인이 범행한 대상은 자신을 보호할 능력이 없는 초등학생”이라며 “피고인은 장기간에 걸쳐 여러 피해자를 대상으로 범행해 죄질이 매우 나쁘다”고 꾸짖었다.&lt;br&gt;&lt;br&gt;이어 “피고인이 비록 초범이고 형사 공탁을 했다고는 하나, 부모들이 공탁금 회수 동의서를 내며 엄벌을 바라고 있는 점 등을 고려할 때 원심 선고 이후에 새로운 사정 변경이 있다고는 볼 수 없다”고 양형 이유를 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[단독] 檢, ‘미공개 정보 이용’ MBK 파트너스 압수수색</title>
       <link>https://www.chosun.com/national/national_general/2025/04/24/YQ6N6HY6IVCVLPXQAJ6DC6DDCU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/24/YQ6N6HY6IVCVLPXQAJ6DC6DDCU/</guid>
@@ -752,15 +820,6 @@ A씨는 이날 0시쯤 “열흘 전 설악산 둘레길에서 살인을 저질�
       <description/>
       <pubDate>Thu, 24 Apr 2025 02:03:14 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/D3ZB6ESB5TZDR4VGVEGUANGM5E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울남부지방검찰청 /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰이 고려아연 경영권 분쟁 당시 미공개 정보를 이용했다는 의혹 등을 받는 MBK파트너스에 대한 압수수색에 착수한 것으로 24일 확인됐다.&lt;br&gt;&lt;br&gt;서울남부지검 금융·증권범죄합수부(부장 안창주)는 이날 오전 자본시장법 위반 혐의로 서울 종로구 MBK 본사를 비롯한 사무실 5곳과 경영진 주거지 7곳 등 총 12곳에 검사와 수사관을 보내 압수수색을 진행 중이다. &lt;br&gt;&lt;br&gt;검찰은 MBK파트너스가 지난해 고려아연 측과 경영권 분쟁을 벌일 때 미공개 정보를 이용하고 부정거래를 한 혐의가 있는지 등을 들여다보고 있는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;앞서 검찰은 지난 23일 유상증자 부정거래 의혹을 받는 고려아연과 그 주관사인 미래에셋증권 등 사무실 6곳과 경영진 주거지 5곳 등 총 11곳에 자본시장법 위반 혐의로 압수수색을 진행 중이라고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>배우자 살해한 로펌 美변호사에...대법 “징역 25년”</title>
-      <link>https://www.chosun.com/national/court_law/2025/04/24/BXSQY5DSS5B4TEOMUWVPT5O2YM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/04/24/BXSQY5DSS5B4TEOMUWVPT5O2YM/</guid>
-      <dc:creator>김나영 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 24 Apr 2025 02:16:05 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BQXBE6SEMFOVRESK2CYCMIDAMY.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;2023년 12월 둔기로 아내를 살해한 혐의를 받는 대형 로펌 출신 변호사 현모씨가 서울 서초구 서울중앙지방법원에서 열린 구속 전 피의자 심문(영장실질심사)에 출석하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;별거 중이던 배우자를 둔기로 무차별적으로 때려 살해한 혐의로 재판에 넘겨진 미국 변호사가 대법원에서 징역 25년형을 선고받았다.&lt;br&gt;&lt;br&gt;대법원 1부(주심 서경환 대법관)는 24일 이혼소송 중인 배우자를 살해한 혐의로 기소된 변호사 현모씨를 유죄로 인정한 원심 판결을 확정했다. 피고인 측은 상고심에서 현장 상황이 녹음된 파일의 증거능력과 피고인의 심신장애 여부를 따져야 한다고 주장했지만, 대법원은 “원심이 심판대상으로 삼은 바가 없는 것을 상고심에 이르러 비로소 주장하는 것으로서 적법한 상고이유가 되지 못한다”라고 판단했다.&lt;br&gt;&lt;br&gt;현씨는 2023년 12월 서울 종로구의 자택에서 배우자를 살해한 혐의로 재판에 넘겨졌다. 당시 두 사람은 10년의 결혼 생활 끝에 이혼 소송을 내고 별거 중이었다. 현씨는 자녀의 옷과 책가방을 가져가려고 찾아온 배우자와 말다툼을 벌였고, 이 과정에서 배우자를 쇠파이프로 수차례 가격한 뒤 목을 졸라 살해했다. 두 사람은 금전 문제와 성격 차이 등으로 다툼이 잦았던 것으로 전해졌다.&lt;br&gt;&lt;br&gt;이 사건은 현씨가 전 국회의원의 자녀이자, 국내 대형 로펌 소속 미국 변호사라는 사실이 알려지며 더욱 세간의 주목을 받았다. 현씨는 해당 사건에 연루된 직후 퇴직 처리됐다.&lt;br&gt;&lt;br&gt;앞서 1·2심은 현씨에게 징역 25년을 선고했다. 작년 12월 2심 재판부는 “이 사건 범행 동기는 당시 피고인이 피해자한테서 느꼈던 불만과 평소 결혼생활로 피해자에게 쌓인 불만이 복합적으로 작용한 것으로 봄이 타당하다”며 우발적으로 저지른 범행이라는 현씨 측의 주장을 받아들이지 않았다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>밤늦게 무인카페 들어온 여성 3명, 엉망진창 테이블 보더니</title>
@@ -794,15 +853,6 @@ A씨는 이날 0시쯤 “열흘 전 설악산 둘레길에서 살인을 저질�
       </media:content>
     </item>
     <item>
-      <title>인천 고물상에서 항공기 탑재 연습탄 발견…군 당국 조사</title>
-      <link>https://www.chosun.com/national/incident/2025/04/24/YC23XC2VXREQ5KBCKGVBT54YRY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/04/24/YC23XC2VXREQ5KBCKGVBT54YRY/</guid>
-      <dc:creator>인천=이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 24 Apr 2025 02:19:50 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RMV4V2DY5ADFHD45NUBJLOCS4I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;119 소방 로고. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천의 한 고물상에서 항공기에 탑재되는 연습탄이 발견돼 군 당국이 조사에 나섰다. &lt;br&gt;&lt;br&gt;24일 인천소방본부에 따르면 전날 오전 9시 13분쯤 인천시 서구 대곡동의 한 고물상에서 폭탄 의심 물체가 발견됐다는 신고가 접수됐다. &lt;br&gt;&lt;br&gt;소방 당국은 군(軍)에 공동 대응을 요청했고, 현장에 출동한 군 폭발물처리반(EOD)은 폭탄 의심 물체 1개를 수거했다. &lt;br&gt;&lt;br&gt;신고된 폭탄 의심 물체는 폭발하지 않는 항공기 탑재 연습탄인 것으로 파악됐다. 군 당국은 이 연습탄이 2005년에 제작됐고, 무게는 약 11㎏, 길이는 50㎝, 지름은 10㎝라고 설명했다. &lt;br&gt;&lt;br&gt;또 연습탄 코 부분과 날개 부분에 금속으로 된 물체가 부착되는 등 개조된 흔적이 있었다고 덧붙였다. &lt;br&gt;&lt;br&gt;군 당국은 수거한 연습탄의 정확한 유출 경위 등에 대해 조사할 예정이다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>‘코로나 기간 현장 예배’ 김문수, 벌금형 확정...대선 출마에 지장 없어</title>
       <link>https://www.chosun.com/national/court_law/2025/04/24/2VD6P6O4DFGUFNGAWSVAJUJ3GM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/04/24/2VD6P6O4DFGUFNGAWSVAJUJ3GM/</guid>
@@ -828,24 +878,6 @@ A씨는 이날 0시쯤 “열흘 전 설악산 둘레길에서 살인을 저질�
       <description/>
       <pubDate>Thu, 24 Apr 2025 01:16:31 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/COKNWHAEZFPBDM25TK65YKKYVM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이른바 '고발 사주' 의혹으로 기소된 손준성 검사장이 작년 12월 6일 서울 서초구 서울고등법원에서 열린 2심 선고 공판에 출석하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이른바 ‘고발 사주 의혹’으로 재판에 넘겨진 손준성 대구고검 차장검사(검사장)가 24일 대법원에서 무죄를 확정받았다. &lt;br&gt;&lt;br&gt;대법원 1부(주심 노경필 대법관)는 이날 공직선거법 위반 등 혐의로 기소된 손 검사장에게 무죄를 선고한 원심을 확정했다. 고위공직자범죄수사처(공수처)가 2022년 5월 이 사건을 수사해 기소한 지 약 3년 만에 나온 최종 결론이다.&lt;br&gt;&lt;br&gt;대법원은 “원심 판단에 공직선거법의 ‘선거에 영향을 미치는 행위’ 등에 관한 법리를 오해하는 등 판결에 영향을 미친 잘못이 없다”고 밝혔다.&lt;br&gt;&lt;br&gt;고발 사주 의혹은 윤석열 전 대통령이 검찰총장이던 2020년 4·15 총선을 앞두고 자신과 아내의 명예를 훼손한 혐의로 유시민씨, 최강욱 전 더불어민주당 의원 등을 고발해 달라며 미래통합당(현 국민의힘) 측에 사주했다는 것이다. 손 검사장은 두 차례에 걸쳐 범여권 인사에 대한 고발장을 당시 미래통합당 국회의원 후보였던 김웅 전 의원에게 텔레그램으로 전달한 혐의로 기소됐다.&lt;br&gt;&lt;br&gt;공수처는 손 검사장을 기소하면서, 함께 고발된 윤 전 대통령 등은 무혐의 처분했다. 사건 당시 민간인이었던 김 전 의원은 공수처 수사 대상이 아니라 검찰로 이첩됐는데, 이후 검찰이 불기소했다. 결국 손 검사장만 고발 사주 의혹으로 재판을 받게 됐다.&lt;br&gt;&lt;br&gt;1심은 손 검사장이 김 전 의원에게 고발장을 보냈다는 점을 인정하며 징역 1년을 선고했다. 반면 2심은 작년 12월 이를 뒤집고 무죄 판결을 내렸다. 2심 재판부는 “손 검사장이 고발장 관련 정보 수집·작성에 관여한 사실은 인정된다”면서도 “손 검사장이 고발장을 직접 (김 전 의원에게) 보냈다는 것을 증명하는 직·간접 증거가 없다”고 밝혔다. 이에 따라 손 검사장의 선거법 및 개인정보보호법 위반, 공무상 비밀 누설 등 혐의 모두를 무죄로 판단했다.&lt;br&gt;&lt;br&gt;다만 2심은 “손 검사장이 고발장 등을 검찰총장(윤석열) 등 검찰 고위 간부에게 직무 보고로 작성·전송했을 가능성이 있다”고 했다. 윤 전 대통령의 지시에 따라 고발장을 만들었을 가능성을 배제하지 않은 것이다.&lt;br&gt;&lt;br&gt;공수처가 상고했지만 대법원은 원심 판단이 맞는다고 보고 기각했다. 공수처가 이프로스(검찰 내부망)와 킥스(형사사법정보시스템)에서 위법하게 증거를 수집했다는 점도 대법원에서 인정됐다.&lt;br&gt;&lt;br&gt;한편, 고발 사주 의혹으로 민주당에 의해 탄핵소추돼 헌법재판소에 계류 중인 손 검사장의 탄핵 심판도 재개될 전망이다. 헌재는 작년 4월 ‘같은 사유의 형사소송이 진행 중’이라는 이유로 재판 절차를 정지했는데, 이날 확정 판결이 나왔기 때문이다. 헌재 관계자는 “재판관 2명이 공석인 상황이라, 언제 탄핵 심판을 다시 진행하는 것이 적절할지 재판부에서 논의하고 있다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>제주 고사리 꺾다보니, 여기가 어디?...길잃음 사고 하루 2건 이상 발생</title>
-      <link>https://www.chosun.com/national/regional/2025/04/24/W5SDNMBR3VF5VCG2VT3DR47YPA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/04/24/W5SDNMBR3VF5VCG2VT3DR47YPA/</guid>
-      <dc:creator>제주=오재용 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 24 Apr 2025 01:24:01 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KLIMWEADBBOMF6XPOOWLW2SR24.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;제주 고사리./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 18일 오후 8시쯤 제주시 구좌읍 행원리 만장굴 인근에서 60대 남성이 고사리를 꺾다 길을 잃었다는 신고가 접수됐다.&lt;br&gt;&lt;br&gt;소방 당국은 야간 시간대 시야 확보가 안 돼 구조에 어려움을 겪었으나 드론 열화상 기능을 이용해 실종객을 찾았다.&lt;br&gt;&lt;br&gt;이달 14일 서귀포시 성산읍 모구리오름에서는 구조견 ‘나르샤’가 길을 잃은 70대 여성을 발견하기도 했다.&lt;br&gt;&lt;br&gt;이처럼 고사리 철을 맞아 제주에서 길 잃음 사고가 끊이지 않고 있다.&lt;br&gt;&lt;br&gt;24일 제주소방안전본부에 따르면 이달 1일부터 제주에선 총 65건의 길 잃음 사고가 발생했다. 이 중 58건은 고사리 채취 중 일어난 것으로 나타났다. 하루 평균 2건 넘게 길 잃음 신고가 접수되고 있다.&lt;br&gt;&lt;br&gt;구조객은 대부분 60~70대였다. 구조된 대부분은 상태가 양호했지만, 6명은 가벼운 부상을 입거나 질병으로 병원 등으로 옮겨져 치료를 받았다. &lt;br&gt;&lt;br&gt;소방 관계자는 “깊숙한 산에서 고사리만 보며 이동하다 보면 위치 감각을 쉽게 잃는다”며 “고사리 채취 때는 길 잃음 사고에 대비해 일행과 동반하고, 휴대전화와 보조배터리, 호각, 여벌옷, 물 등을 반드시 챙겨야 한다”고 말했다.&lt;br&gt;&lt;br&gt;한편 제주산 고사리는 과거 ‘궐채(蕨菜)’라는 이름으로 임금에게 진상하기도 했다. ‘고사리 궐’(蕨)자는 고사리가 처음 날 때 잎이 없고 참새가 다리를 오므린 모양과 비슷하기 때문에 붙여진 이름이다.&lt;br&gt;&lt;br&gt;제주산 건조 고사리는 소매가로 1㎏당 10만 원이 넘는다. 수입산에 비해 5~6배 비싸다. 고사리를 말리면 무게와 크기가 10~20배 줄어들기 때문에 귀한 대접을 받는다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘부산 돌려차기’ 피해자, 2차 가해범에게 피소까지… “이게 현실”</title>
-      <link>https://www.chosun.com/national/national_general/2025/04/24/YE3AVKRKXFET7DNVNFQ6ZC5SQM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/24/YE3AVKRKXFET7DNVNFQ6ZC5SQM/</guid>
-      <dc:creator>문지연 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 24 Apr 2025 01:11:27 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/E4Z7G4Q2RRGPPJ7UR7D4IZME3E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;사건 당시 부산 부산진구 서면 한 오피스텔 1층 복도에서 가해자 이모씨가 쓰러진 피해자 김진주(필명)씨를 발로 차며 폭행하는 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산 서면에서 귀가하던 20대 여성을 무차별 폭행한 이른바 ‘부산 돌려차기’ 사건 2차 가해자 A씨가 피해자 김진주(필명)씨를 협박 혐의로 고소했다.&lt;br&gt;&lt;br&gt;김씨는 23일 인스타그램에 “며칠 전 A씨로부터 보복성 고소를 당한 사실을 알게 됐다”며 “고소인은 2023년부터 IP를 우회해 가며 피시방에서 익명 계정들로 저를 괴롭혀 처벌받은 사람이다. 하지만 반성하지 않은 채 바로 항소를 시작했고 2심이 시작되기도 전 보복성 고소를 진행했다”고 했다.&lt;br&gt;&lt;br&gt;이어 “아직 협박 외에 구체적인 혐의 내용은 알지 못한다. 이는 대한민국 범죄 피해자들의 현실을 보여준다”며 “판결로 인해 또 다른 보복성 고소가 이어질지도 모르지만, 경험한 사람만이 그 제도를 고칠 수 있다고 생각하기에 범죄 피해자이자 피고소인인 제가 이 과정 또한 바로잡겠다”고 했다.&lt;br&gt;&lt;br&gt;경찰 등에 따르면 A씨는 최근 김씨를 협박 혐의로 고소했고, 사건은 김씨 주소지 관할 경찰서로 이관됐다. A씨는 작년 8월부터 10월까지 10회에 걸쳐 소셜미디어를 통해 김씨에게 협박성 메시지를 보낸 혐의로 재판에 넘겨져, 1심에서 징역 1년에 집행유예 2년을 선고받은 인물이다.&lt;br&gt;&lt;br&gt;당시 A씨가 보낸 메시지에는 여성 비하 표현과 ‘맞아야 한다’며 위협하는 내용 등이 담겼었다. 그런 A씨는 김씨가 작년 5월 인스타그램에 A씨 아이디를 가리키며 ‘본명 밝히기 전에 니 인생을 좀 살아라’ 등의 글을 썼다며 고소장을 낸 것으로 알려졌다.&lt;br&gt;&lt;br&gt;한편 부산 돌려차기 사건은 2022년 5월 22일 30대 남성 이모씨가 귀가하던 피해자를 쫓아가 서면의 한 오피스텔 공동현관에서 머리를 발로 차는 등 마구 폭행한 사건이다. 애초 1심에선 살인미수 혐의만 적용돼 징역 12년이 선고됐으나, 2심 과정서 피해자가 입었던 청바지에서 이씨 DNA가 검출되는 등 추가 증거가 드러나며 강간살인 미수로 공소장 내용이 변경됐다. 이후 대법원에서 징역 20년형을 확정받았다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>민주당 후보 3인 일제히 호남으로… ‘텃밭’ 표심 경쟁</title>
@@ -905,15 +937,6 @@ A씨는 이날 0시쯤 “열흘 전 설악산 둘레길에서 살인을 저질�
       </media:content>
     </item>
     <item>
-      <title>검찰, ‘尹 공천개입 의혹’ 관련 김태우 전 강서구청장 조사</title>
-      <link>https://www.chosun.com/national/court_law/2025/04/23/MLVHHMOVSNCNLFJ22NVDFI2YQY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/04/23/MLVHHMOVSNCNLFJ22NVDFI2YQY/</guid>
-      <dc:creator>박강현 기자, 이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 23 Apr 2025 11:56:51 +0000</pubDate>
-      <content:encoded>윤석열 전 대통령 부부의 공천개입 의혹을 수사 중인 검찰이 윤 전 대통령이 공천에 관여했다는 의혹이 제기된 김태우 전 서울 강서구청장을 불러 조사했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AXZJO5QBSJMA7LZCXM7CNUFH6U.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;김태우 전 강서구청장. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;23일 본지 취재를 종합하면, 서울중앙지검 전담수사팀(팀장 이지형 차장검사)은 최근 김 전 구청장을 상대로 지난 2022년 6.1 지방선거를 앞두고 윤 전 대통령이 강서구청장 공천에 개입했는지 등을 확인한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;윤 전 대통령은 검찰 수사관 출신인 김 전 구청장이 국민의힘 강서구청장 후보로 단수 공천받도록 영향력을 행사한 의혹을 받고 있다.&lt;br&gt;&lt;br&gt;앞서 김 전 구청장은 문재인 청와대의 특별감찰반에 근무하면서 당시 민정수석실에서 여러 건의 감찰 무마가 이뤄졌다고 폭로해 지난 2021년 1월 공무상 비밀누설 혐의로 1심에서 징역 1년에 집행유예 2년을 선고받았다. &lt;br&gt;&lt;br&gt;이로 인해 그의 공천을 둘러싸고 당시 당내 반발도 있었던 것으로 알려졌다. 공무 수행 중 징역형 유죄가 확정되면 재보궐 선거를 치러야 하기 때문이다.&lt;br&gt;&lt;br&gt;하지만 김 전 구청장은 공천을 받았고, 실제 선거에서 51.3%의 득표율로 민주당 김승현 당시 후보(48.7%)를 2.6%포인트 차이로 누르고 구청장에 당선됐다. &lt;br&gt;&lt;br&gt;이와 관련해 당시 국민의힘 대표였던 이준석 개혁신당 의원은 지난해 11월 “강서구 당협위원장 셋이 (김태우 공천에) 다 반대하는데 이렇게 가면 안 될 것 같다”고 하자, 윤 전 대통령이 “그 사람들은 맨날 ‘안 된다’고 하는 사람들이다. 지면 민주당을 돕는 일 아니냐”고 말했다고 주장한 바 있다.&lt;br&gt;&lt;br&gt;결국 김 전 구청장은 2023년 5월 대법원에서 징역형이 확정돼 구청장직을 잃었는데, 윤 전 대통령이 석 달 만에 그를 사면하면서 그해 10월 보궐선거에 다시 국민의힘 공천을 받아 출마하기도 했다. &lt;br&gt;&lt;br&gt;당초 국민의힘은 ‘당 소속 선출직의 귀책사유가 있을 경우 무공천한다’는 당규에 따라 무공천도 검토했지만, 윤 전 대통령이 김 전 구청장을 사면하면서 방향을 선회한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>검찰, 건진법사 자택 ‘신권 5000만원’ 출처 추적</title>
       <link>https://www.chosun.com/national/national_general/2025/04/23/FPQABDPW2RGRTJCBLSPMITLOIA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/23/FPQABDPW2RGRTJCBLSPMITLOIA/</guid>
@@ -923,15 +946,6 @@ A씨는 이날 0시쯤 “열흘 전 설악산 둘레길에서 살인을 저질�
       <content:encoded>서울남부지검 가상자산범죄합동수사단(단장 박건욱)은 무속인 ‘건진법사’ 전성배(65)씨 자택에서 지난해 말 압수한 5000만원 ‘신권 뭉칫돈’의 출처를 추적하고 있는 것으로 23일 전해졌다. 검찰은 전씨가 윤석열 정부에서 여러 인사로부터 기도비를 명목으로 금품을 수수하고, 여권 인사에게 인사·공천 청탁을 시도했는지 확인하고 있는 것으로 전해졌다.&lt;br&gt;&lt;br&gt;본지 취재를 종합하면 검찰은 작년 12월 서울 서초구 양재동 전씨 집에서 현금 5만원권 묶음 3300매(총 1억6500만원)를 압수했다. 이 중 5000만원어치 신권은 ‘한국은행’이 적힌 비닐로 포장돼 있었다. 비닐엔 기기 번호, 담당자, 책임자, 일련번호와 함께 윤석열 전 대통령 취임 3일 뒤인 ‘2022년 5월 13일’이라는 날짜가 찍혀 있었다. 시중에서 볼 수 없는 형태의 뭉칫돈이다. 한국은행 관계자는 “국책은행인 한은은 개인 대출을 하지 않는다”며 “거액의 신권 뭉칫돈은 개인이 아닌 일반 시중은행이 지급준비금 등을 현찰로 인출하려 할 때 내주는 것”이라고 했다. 전씨는 누구에게 받은 돈인지 기억이 안 난다고 진술한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;앞서 검찰은 작년 전씨의 강남구 역삼동 법당 및 집을 압수 수색하면서 대기업 임원들과 정치권 인사, 법조인 등 수백여 장의 명함을 확보한 것으로 전해졌다. 법조계 인사는 “개인 명목이 아닌 대량의 현금이 인사 청탁 목적으로 전씨에게 전달됐다면 돈을 준 사람도 업무상 횡령 등의 혐의가 적용될 수 있다”고 했다. 검찰은 전씨가 윤 전 대통령 배우자 김건희 여사 ‘선물용’이라면서 6000만원대 명품 다이아몬드 목걸이를 수수해 전달한 혐의도 수사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>‘마약 투약 혐의’ 이철규 아들 구속…“도망 염려” </title>
-      <link>https://www.chosun.com/national/court_law/2025/04/23/BBWREEIOWJAPBJZ2XZ7FNENN4U/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/04/23/BBWREEIOWJAPBJZ2XZ7FNENN4U/</guid>
-      <dc:creator>박혜연 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 23 Apr 2025 11:22:52 +0000</pubDate>
-      <content:encoded>마약 투약 혐의로 경찰에 붙잡힌 국민의힘 이철규 의원의 아들이 23일 구속됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WKEGRL4HW5MDBLSM2EB5CGC53U.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;마약 투약 혐의를 받는 이철규 국민의힘 의원 아들 이 모씨가 23일 오전 서울 서초구 서울중앙지방법원에서 열린 구속 전 피의자심문(영장실질심사)을 마친 뒤 법원을 나서고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지법 이정재 영장전담 부장판사는 이날 마약류관리법상 대마 투약·수수 혐의를 받는 이 의원의 아들 이모씨에 대한 영장실질심사를 진행한 뒤 구속 영장을 발부했다. 이씨와 동행한 공범 정모씨도 구속됐다. 이 부장판사는 “도망할 염려가 있다”고 사유를 밝혔다. &lt;br&gt;&lt;br&gt;이씨는 작년 10월 서울 서초구 주택가 화단에 이른바 ‘던지기’ 수법으로 묻혀져 있던 액상 대마를 찾으려다 미수에 그친 혐의를 받는다. 당시 이씨는 아내 등 2명과 렌터카를 타고 현장을 찾은 것으로 조사됐다. &lt;br&gt;&lt;br&gt;경찰은 이씨의 모발에서 대마 양성 반응이 나왔다는 국립과학수사연구원의 감정 결과를 토대로 지난 18일 구속영장을 신청했다. 이씨는 과거에도 대마 혐의로 검찰에 송치됐지만 불기소 처분을 받은 전력이 있는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;한편 이날 서울 서초경찰서는 이씨의 아내, 즉 이 의원의 며느리에 대해서도 국과수에 마약 정밀 검사를 의뢰한 결과 대마 양성 반응이 나왔다고 밝혔다. 경찰은 이들 부부를 상대로 대마 유통 경로 등을 조사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>‘성착취’ 자경단 피해자 총 261명…공범 2명 구속 기소</title>
       <link>https://www.chosun.com/national/court_law/2025/04/23/ZTN3QU6FT5EZ3JSJS22SZLBFCM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/04/23/ZTN3QU6FT5EZ3JSJS22SZLBFCM/</guid>
@@ -939,15 +953,6 @@ A씨는 이날 0시쯤 “열흘 전 설악산 둘레길에서 살인을 저질�
       <description/>
       <pubDate>Wed, 23 Apr 2025 06:00:25 +0000</pubDate>
       <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YWVK6IS2ORBHTGIKL2Y36BYJAA.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=조선디자인랩 김영재&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;총책 김녹완(33·구속 기소)이 운영한 텔레그램 성폭력 범죄집단 ‘자경단’의 공범 11명이 추가로 재판에 넘겨졌다. 이 중에는 고등학생도 6명 있었다. 검찰 수사로 확인된 자경단 범죄 피해자는 234명에서 261명으로 늘었다. &lt;br&gt;&lt;br&gt;서울중앙지검 자경단 특별수사팀(팀장 김지혜 여성아동범죄조사1부장)은 이번 달 김녹완을 추가 기소하고, 공범인 조모씨(34)와 김모씨(21)를 구속 기소했다고 23일 밝혔다.&lt;br&gt;&lt;br&gt;김녹완은 2020년 5월부터 올 1월까지 자경단을 조직해 총책인 ‘목사’로 활동하면서 아동·청소년 등 피해자 234명에 대한 성착취물 1381개를 제작해 425개를 배포하고, 일부 피해자를 강간하거나 금품을 갈취한 혐의 등으로 지난 2월 12일 구속 기소됐다. 검찰은 추가 수사를 통해 새로운 피해자 10명과 과거 확정 판결 사건 공범이 김녹완이었던 피해자 17명 등 총 27명을 추가로 확인하고 김녹완을 추가 기소했다.&lt;br&gt;&lt;br&gt;여성이자 아르바이트생인 조씨는 2023년 5월부터 2024년 2월까지 자경단에서 ‘선임전도사’로 활동하면서 성착취물 등을 165개 제작해 이 중 5개를 배포한 혐의로 재판에 넘겨졌다. 유사강간·강요·협박 혐의도 있다.&lt;br&gt;&lt;br&gt;대학생인 김씨는 2023년 12월부터 2024년 2월까지 자경단의 선임전도사로 불리며 성착취물 120개를 제작하고 130개를 배포한 혐의 등으로 구속 기소됐다. 검찰은 고등학생 6명 포함 공범 9명은 불구속 기소했다. 검찰은 이 중 4명은 구속하려 했지만, 법원은 “범행 당시 소년이었거나 현재 소년이고, 도주 및 증거인멸 우려가 없다”며 검찰이 청구한 구속영장을 기각했다.&lt;br&gt;&lt;br&gt;자경단 피해자 261명은 2019∼2020년 조주빈(29)이 아동·청소년 성 착취물을 제작·유포한 이른바 텔레그램 ‘박사방’ 사건(73명)의 3배가 넘는다.&lt;br&gt;&lt;br&gt;검찰에 따르면 자경단은 김녹완을 정점으로 선임전도사·후임전도사·예비전도사로 구성돼 운영됐다. 전도사가 피해자를 포섭해 김녹완에게 연결하면, 성착취물을 제작·배포하거나 피해자에게 강요 및 협박 등을 하는 방식이었다. 선임전도사는 조직원을 포섭해 교육한 다음 범행을 지시하는 역할도 했고, 아직 하위 조직원을 모집하지 못한 전도사는 예비전도사로 불렸다. &lt;br&gt;&lt;br&gt;이번 사건은 텔레그램이 국내 수사기관에 협력한 최초 사례로 꼽힌다. 서울 구로경찰서는 2023년 12월 피해자 1명의 고소장을 접수했고, 서울경찰청 사이버수사대가 1년여 만인 지난 1월 15일 김녹완을 체포했다. 지난 2월 8일에는 김녹완의 신상을 공개했다.&lt;br&gt;&lt;br&gt;서울중앙지검은 지난 1월 24일 김녹완 사건을 송치받고 검사 4명·수사관 5명으로 구성된 자경단 특별수사팀을 구성해 김녹완과 공범들을 차례로 기소했다.&lt;br&gt;&lt;br&gt;검찰은 피해자들에 대한 심리치료비 지원, 2차 피해 방지를 위한 불법영상물 삭제 지원, 박제 채널 접속 차단 등도 시행했다고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“벌금 290만원으로 부탁드린다”...출국명령 피하기 위해 형량 다투는 외국인들</title>
-      <link>https://www.chosun.com/national/court_law/2025/04/23/KBZIRRNO4VFVDC2KGJJCKKDI4M/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/04/23/KBZIRRNO4VFVDC2KGJJCKKDI4M/</guid>
-      <dc:creator>김나영 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 23 Apr 2025 05:19:51 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/U6Z2CPKMHZF7JCPKBDGRQY6BL4.png"&gt;&lt;figcaption&gt;&lt;small&gt;법복 차림의 판사가 선고를 내리는 모습./일러스트=조선디자인랩 정다운&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“피고인은 외국인으로서 일정 금액 이상의 벌금형을 선고받을 경우 강제출국 조치가 취해질 수 있다.”&lt;br&gt;&lt;br&gt;창원지방법원 형사1부(재판장 이주연)는 작년 12월 도로교통법 위반(음주운전) 혐의로 재판에 넘겨진 외국인 피고인 A씨에 대해 이같이 말하며 벌금을 900만원에서 290만원으로 낮췄다. 외국인들이 300만원 이상 벌금형을 받으면 한국 밖으로 쫓겨나는 ‘300만원의 벽’을 고려해 내린 판결이다.&lt;br&gt;&lt;br&gt;한국에 사는 외국인은 해마다 늘어나고 있다. 행정안전부가 지난해 10월 공개한 통계에 따르면 재작년 외국인 주민 수는 246만명으로 총인구 대비 4.8%를 기록했다. 이는 전년 대비 20만명 늘어난 수치로, 증가율(8.9%) 역시 역대 최다 기록을 썼다.&lt;br&gt;&lt;br&gt;국내에 외국 출신 거주자가 늘어나면서 피고인으로 법정에 서는 외국인들도 오름세다. 대법원 ‘2024 사법연감’에 따르면 외국인 형사사건 건수는 2014년 3751명이었으나, 2019년 5000명대를 돌파해 꾸준히 올라 2023년엔 5854명을 기록했다. 상고심까지 간 건수도 2023년 476건을 기록해 10여년 전에 비해 약 2배 증가했다.&lt;br&gt;&lt;br&gt;외국인들은 내국인과 마찬가지로 국내법을 적용받지만, 처벌 정도에 따라 자칫 한국에서의 삶이 위협받을 수 있다. 법무부 출입국관리소 내부 지침인 ‘벌금형 확정 외국인 심사결정 기준’이 300만원 이상 벌금형이나 집행유예 이상 형을 받은 외국인을 출국조치대상자로 규정하고 있기 때문이다. 외국인 사건을 전담하는 법률사무소 어스의 백수웅 변호사는 “아이를 키우고 있거나 가족이 있을 경우 인도적 사유를 고려하긴 하지만, 그래도 집행유예 이상이 나오면 출국 명령이 나올 가능성이 매우 높다”며 “특히 마약류나 성범죄는 기소유예만 나와도 출국 명령이 떨어진다”고 설명했다.&lt;br&gt;&lt;br&gt;이런 탓에 외국인 사건은 출국 명령이 나오지 않을 만큼의 형량을 받아내는 것이 관건이다. 한국에서 삶을 꾸려나가고자 하는 외국인들은 피해자와 합의해 처벌불원서를 받아내거나, 한국에 남고 싶다는 내용을 담아 반성문을 제출하는 방식으로 형을 깎는다. 법무법인 마중의 김주형 변호사는 “해당 기준이 법무부 내부 지침이라 형사 담당 재판부가 잘 모르는 경우가 대부분”이라며 “이런 사정이 있다는 걸 재판부에 알리고, 잘못은 인정하지만 쫓겨날 경우 가족결합권 등을 침해받을 수 있다는 점을 주로 설득한다”고 설명했다.&lt;br&gt;&lt;br&gt;일각에선 출입국관리소가 출국명령 처분에 폭넓은 재량권을 가지는 만큼 기준이 불분명하다는 지적도 나온다. 김 변호사는 “실무를 진행하다보면 벌금이 300만원 이하인데도 출국 명령이 나오거나, 반대로 집행유예가 나왔는데 출국 명령을 면하는 경우도 있다”라며 “이런 탓에 적은 벌금형을 받고도 어떻게 될지 모른다는 두려움에 재판을 청구하는 경우도 있다”고 했다. &lt;br&gt;&lt;br&gt;앞서 감사원도 비슷한 문제를 제기한 바 있다. 감사원은 2021년 펴낸 ‘외국인 출입국 등 관리실태 보고서’에서 “2018년부터 2019년 사이에 강제추행 등의 성범죄로 벌금형이 선고된 외국인 281명 중 177명은 출국조치됐으나, 30명은 국내에 계속 체류하도록 허가한 것으로 나타났다”고 적었다. 이어 “출입국·외국인 관서별로 유사한 범죄행위에 대한 출국조치 여부가 다르게 처리되고 있어 범죄행위에 대한 제재 처분의 일관성과 형평성을 확보하기 어렵다”라고 지적했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
