@@ -13,6 +13,85 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>현역 장병 포섭해 군 기밀 유출한 중국인 구속 기소</title>
+      <link>https://www.chosun.com/national/court_law/2025/04/25/3QFZE6PF6VDN5KRRYJTHRA6ZOI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/04/25/3QFZE6PF6VDN5KRRYJTHRA6ZOI/</guid>
+      <dc:creator>유희곤 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 25 Apr 2025 09:23:05 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WRXSGRZQL3IDI3CMO6NWUQB5RM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울중앙지검 전경. / 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지검 공공수사1부(부장 이찬규)는 정보기관 요원과 공모해 작년 5월부터 올 3월까지 다섯 차례에 걸쳐 현역 군인에게 접근해 군사기밀을 탐지·수집하려 한 중국인 A씨를 군사기밀보호법 위반 혐의로 25일 구속 기소했다고 밝혔다.&lt;br&gt;&lt;br&gt;검찰에 따르면 A씨는 SNS 오픈채팅방에서 현역 군인 등 범행 대상자를 모집한 다음, 이들에게 손목시계형 몰래카메라 등을 보내 기밀자료를 유출해주면 대가를 지불해줬다. A씨는 A씨와 범행 대상자들이 서로 누구인지 알지 못하도록 미리 정해둔 장소에 군사기밀과 금품을 각각 놓고 가져가는 전형적인 스파이 수법인 일명 ‘데드드롭’ 방식을 사용했다고 한다.&lt;br&gt;&lt;br&gt;이번 사건은 국군방첩사령부가 A씨에게 포섭된 강원 양구군 일선 부대 현역 장병 B씨를 붙잡으면서 불거졌다. B씨는 비인가 휴대전화와 스파이 카메라로 한미 연합 훈련 진행 계획 등 부대 자료를 촬영해 A씨에게 건넨 것으로 조사됐다. A씨는 B씨에게 줄 돈을 마련하기 위해 중국에 갔다 제주도로 입국하는 과정에서 체포됐다. A씨는 지난 1일 구속됐다.&lt;br&gt;&lt;br&gt;검찰은 방첩사에서 사건을 넘겨받아 보완수사 후 A씨를 이날 재판에 넘겼다. 현행법상 간첩죄는 적국(북한)에만 적용할 수 있어 이보다 형량이 낮은 군사기밀보호법 위반 혐의를 적용했다. A씨는 현역 장병을 포섭하는 과정에서 자신을 중국군 소속이라고 소개한 것으로 전해졌지만, 군과 검찰은 A씨가 중국 정보 기관에서 일하는지는 확인하지 못했다고 한다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&amp;nbsp;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘유료회원만 400명’ 연예인 딥페이크·아동 성착취물 판매 20대 징역 6년</title>
+      <link>https://www.chosun.com/national/regional/2025/04/25/YSNT5O473ZCXZDPUNA3E2SGXRY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/04/25/YSNT5O473ZCXZDPUNA3E2SGXRY/</guid>
+      <dc:creator>부산=김주영 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 25 Apr 2025 09:21:25 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SAND5NFNFFFPPGFHV2XOTY6QT4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산 연제구 거제동 부산지법 등 법원 청사 출입구./조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;텔레그램에서 여성 연예인 등의 얼굴 사진을 합성한 딥페이크 음란물을 판매해 수천만원을 챙긴 혐의로 재판에 넘겨진 20대에게 실형이 선고됐다.&lt;br&gt;&lt;br&gt;부산지법 형사6부(재판장 김용균)는 25일 성폭력처벌법(영리목적 허위영상물 반포 등)과 청소년성보호법(영리목적 성착취물 판매 등) 위반 등 혐의로 기소된 A씨에게 징역 6년을 선고했다.&lt;br&gt;&lt;br&gt;재판부는 80시간 성폭력 치료 프로그램 이수, 아동·청소년 및 장애인 관련 기관 취업 제한 5년, 추징금 6600만원도 명령했다.&lt;br&gt;&lt;br&gt;A씨는 지난 2022년 7월부터 2023년 9월까지 입장료를 낸 회원만 접속할 수 있는 텔레그램 유료방을 운영하면서 여성 연예인들의 얼굴을 합성한 딥페이크 영상물 296개, 아동·청소년 대상 성 착취물 183개, 성인 대상 불법 촬영물 및 음란물 1175개를 유포한 혐의다.&lt;br&gt;&lt;br&gt;그는 해외 사이트 등 인터넷을 통해 음란물을 내려받았고, 텔레그램에 채널 7개를 개설해 입장료 명목으로 적게는 2만원, 많게는 10만원을 받았다.&lt;br&gt;&lt;br&gt;유료 회원은 400여 명, 자료를 구매하거나 시청한 사람은 2800여 명으로 A씨가 챙긴 수익금은 6000여 만원이었다.&lt;br&gt;&lt;br&gt;재판부는 “영상에 등장하는 피해자들에게 평생 치유될 수 없는 심각한 정신적 고통을 안겨주고, 시청하는 사람들의 성 의식을 왜곡시킬 우려가 매우 높다는 점에서 사회에 미치는 해악이 아주 크다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[신문은 선생님] [이주은의 세계의 박물관] 터키에 있던 그리스 ‘페르가몬 신전’ 통째로 옮겨와 복원했죠</title>
+      <link>https://www.chosun.com/national/nie/2020/10/12/67SNFGAOP5BIHBD4RHVYWQKFXA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/2020/10/12/67SNFGAOP5BIHBD4RHVYWQKFXA/</guid>
+      <dc:creator>박세미 기자, 이주은·건국대 문화콘텐츠학과 교수</dc:creator>
+      <description/>
+      <pubDate>Sun, 11 Oct 2020 20:20:00 +0000</pubDate>
+      <content:encoded>독일의 수도 베를린을 관통하며 흐르는 슈프레강 한가운데에는 ‘박물관 섬(Museum Island)’이 있습니다. 알테스뮤제움, 노이에스뮤제움, 옛 국립미술관, 보데 박물관, 페르가몬 박물관 등 독일이 자랑하는 다섯 개의 박물관이 자리하고 있는 섬인데요. 19~20세기 독일 제국의 전성기 시절 영광을 상징하는 건축물입니다.&lt;br&gt;&lt;br&gt;이 중 페르가몬(Pergamon) 박물관은 제일 나중에 세워진 건물이면서도 다섯 박물관 중 가장 많은 관람객이 찾는 명소예요. 고대 서아시아 문명과 그리스 헬레니즘 문화의 정수를 엿볼 수 있는 유물들이 대거 전시돼 있어요. 독일의 건축가 알프레드 메셀의 설계로 1910년 짓기 시작해서 1930년 완공되었습니다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SUGA7R7LWBHDBLCUOZKKI7TQT4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;사진1 - ‘페르가몬 신전’, 기원전 180~160년. /페르가몬 박물관&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이 박물관 이름이 ‘페르가몬’인 이유는 가장 인기 있는 유물인 ‘페르가몬 신전’&amp;lt;작품1&amp;gt; 때문입니다. 페르가몬은 오늘날 터키 이즈미르에 속한 지역으로, 고대 그리스 시대 말기의 뛰어난 예술이 꽃피우던 도시였습니다. 페르가몬 고지대의 가파른 곳에 세워져 있던 이 신전은 제우스신과 아테나신을 모시는 제단이었는데, 정면 폭이 35m, 높이가 33m에 이르지요. 앞에 보이는 계단의 폭도 20m나 돼요.&lt;br&gt;&lt;br&gt;페르가몬 신전은 1878년부터 11년간 독일의 공학자 칼 후만 지휘 아래 발굴되었어요. 마구 훼손되어 뒤섞여 있던 수천 개의 건물 파편을 독일 제국으로 가져와 원래 형태로 맞추는 복원 작업을 했지요. 당시 이 지역을 점령하고 있던 오스만제국은 이슬람 문화에만 관심을 두고 있었기 때문에 독일 제국은 고대 그리스 유물인 페르가몬 신전을 그대로 가져오는 거래를 할 수 있었답니다. 그리고 복원이 완성된 페르가몬 신전을 전시하기 위해 아예 새로 박물관을 지은 거예요.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6YPYIEGNEJE55BOFKOIEVGVJNY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;사진2 - ‘페르가몬 신전의 세부 부조, 아테나 여신’, 대리석. /페르가몬 박물관&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;페르가몬 신전 표면을 잘 보면 가로띠처럼 인물 조각상들이 빙 둘러져 새겨져 있는데, 이런 띠를 프리즈(frieze)라고 부릅니다. 이 프리즈의 길이가 113m에 달해요. 대리석으로 만들어진 프리즈 조각상은 제단 위에 일부가 있고, 나머지는 전시실 벽을 따라 진열되어 있습니다. 프리즈는 그리스 신화에서 제우스신이 이끄는 올림포스 신들이 거인족과 싸워 이기는 이야기를 생생하게 다루고 있는데요. &amp;lt;작품2&amp;gt;를 보면 아테나 여신의 얼굴이 훼손되어 있긴 하지만 방패를 들고 무장한 모습으로 가운데 당당히 서서 적의 머리카락을 쥐고 있는 걸 볼 수 있어요. 아테나 여신 뒤쪽엔 날개를 단 승리의 여신 니케가 보이고, 땅 아래에선 거인족의 어머니 가이아가 솟아오르고 있네요.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZJ6HPMLQBVHE3PL35OIUDZYZAA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;사진3 - ‘이슈타르 문’, 기원전 575년. /페르가몬 박물관&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;페르가몬 박물관의 또 다른 자랑거리는 파란색의 ‘이슈타르 문’&amp;lt;작품3&amp;gt;입니다. 이 문은 고대 메소포타미아 문명의 중요한 유물입니다. ‘강과 강(티그리스강과 유프라테스강) 사이의 땅’이라는 뜻의 메소포타미아는 현재 이라크 지역과 시리아, 터키, 이란의 일부를 포함하는 넓은 지역이에요. 기원전 7세기 말 바빌론이 메소포타미아를 지배하는 강력한 세력으로 떠오르면서 네부카드네자르 2세(재위 기원전 605~562)가 거대한 왕궁을 짓고 도시 주위에 요새 성벽을 세운 뒤 여덟 개의 문을 만들었어요. 이슈타르 문이 그 하나죠.&lt;br&gt;&lt;br&gt;옛 서울의 남대문처럼, 이슈타르 문은 바빌론 주요 거리와 사원으로 통하는 주 출입구였답니다. 높이가 14.3m에 달하는 이 문도 20세기 초 독일의 고고학자가 발굴했고 조각조각 쪼개져 독일로 옮겨진 후 복원되었어요.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OBPSKLOXHJCVRK53SBLZPI3U74.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;사진4 - ‘이슈타르 여신을 상징하는 흰 사자.’ /페르가몬 박물관&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;유약을 발라 구운 푸른 벽돌문 표면 위에는 바빌로니아 신들을 상징하는 황금빛 동물상들이 도드라져 있습니다. 메소포타미아 신화에 나오는 전쟁과 사랑의 여신 이슈타르가 흰 사자의 모습을 하고 있어요. 새해가 되면 바빌론 사람들은 이슈타르 문을 통과하는 의식을 치렀어요. 행렬이 지나가는 길 양옆 벽에는 &amp;lt;작품4&amp;gt;에서 보듯 120마리의 흰 사자가 양쪽으로 죽 늘어서 있습니다. 이슈타르가 행렬 속 사람들과 함께한다는 의미입니다.&lt;br&gt;&lt;br&gt;제2차 세계대전을 겪으며 베를린의 많은 건물이 파손됐고 페르가몬 박물관도 심한 피해를 입었어요. 소장품 일부는 전쟁 중 러시아에서 가져갔다가 1958년에야 동베를린에 되돌려주었습니다. 페르가몬 박물관을 둘러보면 강대국이 다른 나라를 무력으로 지배하던 제국주의 시기 문화적 유물들이 어떻게 다뤄지고 관리됐는지 짐작할 수 있습니다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/ZJ6HPMLQBVHE3PL35OIUDZYZAA.jpg?auth=e324fb066ee0cf696a4eb3b8efcb8a3c0f011597f558832851ab5c78b3f6a372&amp;smart=true&amp;width=600&amp;height=358" type="image/jpeg" height="358" width="600">
+        <media:description type="plain">사진3 - ‘이슈타르 문’, 기원전 575년. /페르가몬 박물관</media:description>
+        <media:credit role="author" scheme="urn:ebu"/>
+      </media:content>
+    </item>
+    <item>
+      <title>[신문은 선생님] [고전 이야기] 거대한 흰고래와 벌인 사흘간의 사투… 미국 해양문학의 걸작으로 꼽히죠</title>
+      <link>https://www.chosun.com/national/nie/2020/10/13/6E3GXSTBZFFR7LRUK4ISLB7QDM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/2020/10/13/6E3GXSTBZFFR7LRUK4ISLB7QDM/</guid>
+      <dc:creator>박세미 기자, 장동석·출판평론가</dc:creator>
+      <description>“모비 딕은 공간을 초월하여 도처에 동시에 나타날 뿐만 아니라 불멸의 존재이고, 옆구리에 창이 숲처럼 박혀도 무사히 헤엄쳐 갈 것이고, 모비 딕이 정말로 진한 피를 내뿜는다 해도 그런 광경은 속임수에 지나지 않아서, 수백 마일이나 떨어진 맑은 파도 속에서 모비 딕이 조금도 피로 더럽혀지지 않은 맑은 물을 내뿜는 광경을 볼 수 있는 것이다.”</description>
+      <pubDate>Mon, 12 Oct 2020 18:05:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/542BSPEKTZCWZFC3ONC753FF7E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;1851년 출간된 미국의 소설가 허먼 멜빌(1819~1891)의 ‘모비 딕(Moby Dick)’. (Illustration from an early edition of Moby-Dick)&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“모비 딕은 공간을 초월하여 도처에 동시에 나타날 뿐만 아니라 불멸의 존재이고, 옆구리에 창이 숲처럼 박혀도 무사히 헤엄쳐 갈 것이고, 모비 딕이 정말로 진한 피를 내뿜는다 해도 그런 광경은 속임수에 지나지 않아서, 수백 마일이나 떨어진 맑은 파도 속에서 모비 딕이 조금도 피로 더럽혀지지 않은 맑은 물을 내뿜는 광경을 볼 수 있는 것이다.”&lt;br&gt;&lt;br&gt;1851년 출간된 미국의 소설가 허먼 멜빌(1819~1891)의 ‘모비 딕(Moby Dick)’은 인간과 자연, 정확히 말하면 고래와의 투쟁을 담은 모험 소설이에요. 포경선(捕鯨船·고래를 잡는 배) 피쿼드호의 선원들이 전 세계 바다를 누비며 흰색 고래 ‘모비 딕’을 잡기 위한 사투를 그린 작품이죠. 모비 딕은 고래잡이 선원들 사이에서 불리는 ‘거대한 놈’이라는 뜻의 속어예요.&lt;br&gt;&lt;br&gt;피쿼드호를 이끄는 사람은 에이해브 선장으로, 그는 모비 딕에게 한쪽 다리를 잃은 것 때문에 복수심에 불타는 인물입니다. 작품의 화자(話者)인 이슈메일은 에이해브 선장을 처음 본 소감을 “딱 바라진 몸은 온통 청동으로 만들어진 것 같다”고 묘사했지요. 한마디로 ‘섬뜩한 풍모’를 지닌 인물이라고 묘사하고 있어요.&lt;br&gt;&lt;br&gt;인간과 고래의 투쟁을 담은 모험 소설이지만, 이 작품은 19세기 중반 사회상을 반영하고 있어요. 18세기부터 서구에선 고래잡이가 크게 증가했는데, 향유고래 한 마리를 잡으면 적게는 20통에서 많게는 40통의 기름을 얻을 수 있었기 때문이에요. 이 기름은 우후죽순 늘어가던 도시의 밤을 밝혔고, 여러 공업용품과 생활용품을 만드는 데도 사용되었어요. 그래서 큰 향유고래 한 마리만 잡아도 평생 먹고살 수 있다는 말이 돌 정도였죠. 20세기 중반까지만 해도 큰 고래를 잡기 위해 대양을 떠도는 포경선들이 셀 수 없을 정도로 많았고, 그 결과 많은 고래들이 멸종위기에 몰렸습니다.&lt;br&gt;&lt;br&gt;‘모비 딕’ 속에서도 흰고래 모비 딕을 잡으려는 포경선은 여러 척 있었어요. 모비 딕을 쫓다가 목숨을 잃은 사람도 한둘이 아니었고 팔다리를 잃은 사람은 숱하게 많았죠. 자신들의 선원들이 죽어가는 것을 목격한 에이해브 선장도 단검을 빼들고 모비 딕에게 덤벼들었답니다. 그때 ‘풀을 베는 기계가 들에서 풀을 베듯’ 에이해브의 다리가 잘려나간 거예요. 목숨을 건진 것만으로도 다행이건만 에이해브는 복수심에 불타 다시 피쿼드호를 이끌고 대양으로 나간 것이죠.&lt;br&gt;&lt;br&gt;하지만 피쿼드호도 무사하지는 못했어요. ‘악마적이고 계획적인’ 잔인성을 가진 고래 모비 딕은 피쿼드호와의 싸움에서 전혀 밀리지 않았고, 오히려 이슈메일을 뺀 모든 선원들을 검은 바다에 수장시키고야 말아요. 에이해브 선장 역시 끝내 피쿼드호의 잔해들과 함께 바닷속으로 사라지고 말았죠.&lt;br&gt;&lt;br&gt;사실 ‘모비 딕’은 출간 당시 독자들의 주목을 받지는 못했어요. 당시 이 책에는 고래에 관한 다양한 삽화와 자료들이 빼곡하게 들어 있었다고 해요. 그러니 소설이라기보다는 방대한 고래학 교과서나 포경업 안내서처럼 보였을 수 있어요. 훗날 ‘모비 딕’이 사랑받게 된 건 불가능에 도전하려는 에이해브의 모습에서 주어진 숙명을 뛰어넘으려는 인간의 집념이 보이기 때문이랍니다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/542BSPEKTZCWZFC3ONC753FF7E.jpg?auth=b3a33bd86ef3b11ccfe5fda9fbe88870722364222e4ce7183372561fd31c0b12&amp;smart=true&amp;width=620&amp;height=972" type="image/jpeg" height="972" width="620">
+        <media:description type="plain">1851년 출간된 미국의 소설가 허먼 멜빌(1819~1891)의 ‘모비 딕(Moby Dick)’. (Illustration from an early edition of Moby-Dick)</media:description>
+        <media:credit role="author" scheme="urn:ebu">위키피디</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>[신문은 선생님] [아하! 이 음식] 등딱지가 ‘곶’처럼 생겨 ‘곶게’였대요… 봄엔 암게 가을엔 수게가 제맛이죠</title>
+      <link>https://www.chosun.com/national/nie/2020/10/13/77ODO4QCSJGPFJB7DIT3V2GVWE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/2020/10/13/77ODO4QCSJGPFJB7DIT3V2GVWE/</guid>
+      <dc:creator>김성윤 기자, 박세미 기자</dc:creator>
+      <description>꽃게는 많은 사람이 좋아하는 대표적인 ‘밥도둑’이죠. 그런데 꽃게가 꽃처럼 선명하고 고운 붉은빛이라서 그런 이름이 붙은 줄 아는 사람이 많습니다. 하지만 꽃게라는 이름은 ‘곶(串)’에서 왔답니다. 곶이란 반도처럼 바다로 가늘게 뻗은 육지의 끝부분을 이르는 말입니다. 꽃게의 등딱지는 양옆으로 가시처럼 뾰족하게 튀어나와 있는데, 이 부분이 마치 곶처럼 생겼다고 해서 곶과 게를 합쳐서 ‘곶게’라고 불렀어요. ‘곶게’가 발음이 바뀌어서 ‘꽃게’가 된 거지요.</description>
+      <pubDate>Mon, 12 Oct 2020 18:05:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/L4Y6HGILX5D6DFNHKC556WZJYU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;꽃게&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;꽃게는 많은 사람이 좋아하는 대표적인 ‘밥도둑’이죠. 그런데 꽃게가 꽃처럼 선명하고 고운 붉은빛이라서 그런 이름이 붙은 줄 아는 사람이 많습니다. 하지만 꽃게라는 이름은 ‘곶(串)’에서 왔답니다. 곶이란 반도처럼 바다로 가늘게 뻗은 육지의 끝부분을 이르는 말입니다. 꽃게의 등딱지는 양옆으로 가시처럼 뾰족하게 튀어나와 있는데, 이 부분이 마치 곶처럼 생겼다고 해서 곶과 게를 합쳐서 ‘곶게’라고 불렀어요. ‘곶게’가 발음이 바뀌어서 ‘꽃게’가 된 거지요.&lt;br&gt;&lt;br&gt;미국·영국 등 영어권에서는 꽃게를 ‘스위밍 크랩(swimming crab)’이라고 부릅니다. ‘수영하는 게’라는 뜻인데 대부분의 게가 수영을 하지 못하는 것과 달리 꽃게는 헤엄을 잘 칠 수 있기 때문이에요. 실제 꽃게는 몸통 양쪽 다섯 쌍의 다리 중 맨 아래 한 쌍이 부채 모양으로 넓적하고 평평하답니다. 마치 물을 헤쳐 배를 앞으로 나아가게 하는 기구인 노처럼 생겼어요.&lt;br&gt;&lt;br&gt;가을은 꽃게 중에서 수게가 맛있는 철입니다. 꽃게는 보통 가을부터 이듬해 봄까지 잡는데요. 가을부터 겨울까지는 살이 통통하게 오른 수게가 맛있습니다. 봄에는 산란을 앞둔 진한 노란색 알이 배딱지 안에 가득 찬 암게를 더 쳐줍니다. 꽃게는 배 아래쪽 껍데기가 이중으로 돼 있는데 이 부분이 배꼽이에요. 암컷은 배꼽 부분이 둥글고 수컷은 뾰족해서 쉽게 구분할 수 있어요.&lt;br&gt;&lt;br&gt;살아 있는 꽃게는 빨간색이 아니라 청록색입니다. 그런데 꽃게를 뜨거운 불에 익히면 몸속 카로티노이드(carotenoid)라는 붉은색 색소가 분리돼 겉으로 드러난답니다. 그래서 꽃게를 찌거나 볶으면 새빨갛게 되는 거죠. 카로티노이드 색소는 물보다 지방에 더 잘 녹기 때문에 꽃게를 더 먹음직스러운 붉은빛을 띠도록 요리하려면 물보다는 버터·식용유 등 기름을 사용해야 합니다. 또 센 불에서 빠르게, 껍데기째 익혀야 더 맛있고 살이 촉촉하다고 하니 참고하세요.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/L4Y6HGILX5D6DFNHKC556WZJYU.jpg?auth=ec8ac51b1ec720cc68a3bc18d7fbab7fd7fa292e0fd32049bd2266f697ed8d96&amp;smart=true&amp;width=1920&amp;height=1280" type="image/jpeg" height="1280" width="1920">
+        <media:description type="plain">꽃게</media:description>
+        <media:credit role="author" scheme="urn:ebu">픽사베</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>‘4500억원대 유사수신’ 아도인터내셔널 상위 모집책, 항소심서 징역 7년</title>
+      <link>https://www.chosun.com/national/court_law/2025/04/25/6FMEHW6B3VDLPPISVIW2K2QQWQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/04/25/6FMEHW6B3VDLPPISVIW2K2QQWQ/</guid>
+      <dc:creator>박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 25 Apr 2025 08:38:13 +0000</pubDate>
+      <content:encoded>고수익을 미끼로 4500억원대 유사수신 범행을 저지른 아도인터내셔널의 상위 모집책이 1심보다 항소심에서 무거운 형을 선고받았다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/73PCJBSTA46FSWJFESIN654VYM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 서울중앙지법 전경. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지법 형사8-1부(재판장 차승환)는 25일 유사수신규제법 위반 등 혐의로 기소된 함씨에게 징역 7년을 선고했다. 1심에서 선고된 징역 5년보다 형이 2년 더 늘어난 것이다. &lt;br&gt;&lt;br&gt;함씨는 아도인터내셔널 대표 이모씨 등과 공모해 고수익을 보장하겠다며 약 14만회에 걸쳐 투자금 4500여억원의 유사수신에 가담한 혐의로 작년 1월 구속 기소됐다. 이들은 전국에서 투자 설명회를 열어 투자자들을 모은 뒤, 자체 개발한 앱 등을 통해 투자하도록 유도한 것으로 조사됐다. &lt;br&gt;&lt;br&gt;2심은 1심과 달리 함씨 등이 투자자들로부터 비트코인, 이더리움 등 가상 자산을 지급받는 방식을 유사수신 행위로 인정했다. 유사수신은 법령에 따른 인허가나 등록·신고 없이 원금 이상의 지급 등을 약속하면서 불특정 다수로부터 자금을 모으는 것이다.&lt;br&gt;&lt;br&gt;2심 재판부는 “상품 거래 형식을 띠더라도 사실상 금전 거래면 유사 수신 행위로 볼 수 있다”며 “외관상 자산을 수신한 것으로 보여도 수익 구조나 투자자들의 투자 경위 등을 비춰볼 때 실제 자금을 조달했다고 평가할 수 있는 경우에는 유사 수신 행위에 해당한다”고 판단했다.&lt;br&gt;&lt;br&gt;함께 기소된 업체 관계자 3명은 1심에서 무죄를 선고받았지만, 2심에서 유죄로 뒤집혔다. 2심은 이들에 대해 “피해자들로부터 용서받지 못했고 죄질이 가볍지 않다”며 징역 10개월의 실형 또는 징역형의 집행유예를 선고했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘이혼숙려캠프’ 출연했던 前 축구선수 강지용 사망</title>
+      <link>https://www.chosun.com/national/national_general/2025/04/23/WFW2HSRRDZCW7LRMIVCXDC36AM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/23/WFW2HSRRDZCW7LRMIVCXDC36AM/</guid>
+      <dc:creator>최혜승 기자 </dc:creator>
+      <description/>
+      <pubDate>Wed, 23 Apr 2025 01:12:19 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DAYWP4I5JBBETKSNA5OSWYKCTU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;고 강지용./JTBC&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전 축구선수 강지용(36)이 22일 세상을 떠났다. &lt;br&gt;&lt;br&gt;고(故) 강지용의 빈소는 순천향대학교 부속 천안병원 장례식장에 마련됐다. 상주로는 아내와 딸이 이름을 올렸다. &lt;br&gt;&lt;br&gt;고인과 절친한 사이로 알려진 축구선수 구본상이 소셜미디어를 통해 부고를 알렸다.&lt;br&gt;&lt;br&gt;1989년생 강지용은 2009년 K리그 드래프트에서 포항 스틸러스에 지명돼 프로 무대를 밟았다. 이후 부산 아이파크, 부천FC1995, 강원FC, 인천 유나이티드 등을 거쳤으며 2022년 선수 생활을 마쳤다.&lt;br&gt;&lt;br&gt;강지용은 지난 2월 JTBC ‘이혼숙려캠프’에 출연해 은퇴 후 화학 물질 제조 공장에서 일하고 있는 근황을 알렸다. 발인은 오는 25일 오전 6시 30분이며 장지는 천안추모공원이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/NSQ2T5HRC5AV3MDSZ75D466XYY.jpg?auth=371a2f2ada2da59421c6a7f97ef45b9e5613e99de2fcdf27f4ab6e7429ff47cd&amp;smart=true&amp;width=396&amp;height=223" type="image/jpeg" height="223" width="396">
+        <media:description type="plain">고 강지용./JTBC</media:description>
+        <media:credit role="author" scheme="urn:ebu"/>
+      </media:content>
+    </item>
+    <item>
       <title>[오늘의 운세]  4월 27일 일요일 (음력 3월 30일 丙寅)</title>
       <link>https://www.chosun.com/national/national_general/2025/04/25/2DYYYBWVWJDQVFTCHGHAO265XI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/25/2DYYYBWVWJDQVFTCHGHAO265XI/</guid>
@@ -783,51 +862,6 @@ A씨는 이날 0시쯤 “열흘 전 설악산 둘레길에서 살인을 저질�
       <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/L4GEXC5HOZAC5NA5TDDI7RQ23U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 평택시 오산 공군기지(K-55) 인근에서 군사시설을 촬영하다 적발된 중국인 2명이 부자 관계이며, 아들은 미성년자인 것으로 알려졌다.&lt;br&gt;&lt;br&gt;24일 경찰에 따르면 전날 오전 11시쯤 오산기지 인근에서 중국 국적의 남성 2명이 전투기를 촬영하다 미군의 신고로 적발됐다. 이들은 이틀 전인 지난 21일에도 같은 장소에서 같은 행위를 하다 적발됐다. &lt;br&gt;&lt;br&gt;첫 번째 적발 당시에는 경찰, 국가정보원, 국군방첩사령부가 합동조사를 진행했으며, ‘대공 용의점 없음’ 판단에 따라 약 8시간 만에 석방됐다. 그러나 두 번째 적발 시에는 합동조사 없이 경찰 단독으로 조사가 이뤄졌고, 약 2시간 만에 사건이 종결됐다.&lt;br&gt;&lt;br&gt;경찰은 “공중 항공기 촬영은 보안구역이 아니므로 위법이 아니다”라고 밝혔다.&lt;br&gt;&lt;br&gt;이와 관련해 수원 공군기지 등 전국 주요 군사시설에서 수천 장의 사진을 촬영한 10대 중국인 2명이 지난달 정식 입건된 사례와 형평성 문제가 제기된다. 경찰은 이들 중 1명의 부친이 중국 공안이라는 진술도 확보한 상태다. 이들은 범행 당시 무전기도 소지하고 있었던 것으로 확인됐다. 다만, 이 무전기는 전원이 켜지지만, 주파수가 제대로 잡히지 않아 정상 작동 여부는 확인이 어려운 상황이다.경찰은 구체적인 소지목적을 파악하기 위해 국과수에 감정을 의뢰했다.&lt;br&gt;&lt;br&gt; &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>이웃이 휘두른 둔기 맞아 뇌사판정 60대... 장기 기증하고 영면</title>
-      <link>https://www.chosun.com/national/regional/chungcheong/2025/04/24/G7TKQXV6QRCY3JQU54OGVZAVEE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2025/04/24/G7TKQXV6QRCY3JQU54OGVZAVEE/</guid>
-      <dc:creator>신정훈 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 24 Apr 2025 06:43:44 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OXRAHSXKG2CWXCSE75O3BGNSXU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;청주지검 제천지청 전경/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이웃이 휘두른 둔기에 맞아 뇌사 판정을 받은 60대가 장기를 기증하고 영면했다. 살인 미수 혐의로 조사를 받던 피의자는 살인죄가 적용돼 재판에 넘겨졌다. &lt;br&gt;&lt;br&gt;청주지검 제천지청은 이웃 주민에게 쇠파이프를 휘둘러 살해한 혐의(살인)로 A(61)씨를 구속 기소했다고 24일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난달 27일 오후 6시25분쯤 충북 제천시 청풍면에서 쇠파이프를 휘둘러 이웃 주민 B(60대)씨를 살해한 혐의를 받는다. 범행 직후 A씨는 스스로 경찰에 신고해 현행범으로 체포됐다. &lt;br&gt;&lt;br&gt;A씨는 술을 마신 뒤 평소 사이가 좋지 않았던 B씨를 찾아가 홧김에 범행한 것으로 알려졌다. &lt;br&gt;&lt;br&gt;B씨는 의식을 잃고 청주의 한 대형 병원에서 치료를 받았다. 하지만 지난 1일 세종충남대병원으로 이송돼 당일 오전 11시 10분 뇌사판정위원회로부터 뇌사 판정을 받았다.&lt;br&gt;&lt;br&gt;평소 장기 기증 의사를 밝혔던 A씨는 같은 날 오후 3명에게 장기를 기증하고 사망했다. &lt;br&gt;&lt;br&gt;검찰은 ‘뇌사자가 장기 적출로 사망한 경우 뇌사의 원인이 된 질병 또는 행위로 간주한다’는 장기 등 이식에 관한 법률에 따라 B씨를 살인죄로 혐의를 변경했다. &lt;br&gt;&lt;br&gt;검찰은 “장기 적출 시 살인 미수 사건에서 살인 사건으로 전환됨에 따라 약사 출신의 의료전담 검사가 혐의에 대한 증거를 충분히 확보한 뒤 장기 기증 절차가 이뤄졌다”며 “피고인에게 죄에 상응하는 형이 선고될 수 있도록 공소 유지에 최선을 다하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“스트레스 풀려고”…분양 받은 고양이 21마리 죽인 20대 실형</title>
-      <link>https://www.chosun.com/national/regional/2025/04/24/COR4L6T7EBFXVLYU5TEEPI4THY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/04/24/COR4L6T7EBFXVLYU5TEEPI4THY/</guid>
-      <dc:creator>울산=김주영 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 24 Apr 2025 07:04:12 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KNRAE2CTG775ASD46BRTJ6W7QA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;울산지법 전경. /조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;스트레스를 풀기 위해 새끼 고양이 20여 마리를 죽인 혐의를 받는 20대 남성이 실형을 선고받았다.&lt;br&gt;&lt;br&gt;울산지법 형사5단독 조국인 부장판사는 동물보호법 위반 혐의로 기소된 A씨에게 징역 1년 6개월을 선고했다고 24일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 2023년 6월 경남 양산에서 새끼 고양이를 분양받아 울산으로 돌아오던 차 안에서 주먹으로 고양이를 때려 죽인 뒤 창 밖으로 던진 혐의로 기소됐다.&lt;br&gt;&lt;br&gt;그는 이후 2023년 8월까지 2개월간 13차례에 걸쳐 새끼 고양이 21마리를 무료로 분양받아 다리에 불을 붙이는 등 잔인한 수법으로 죽인 것으로 드러났다.&lt;br&gt;&lt;br&gt;회사원인 A씨는 여자친구와 이별하고, 대출 이자와 세금 부담 등으로 인한 스트레스를 해소하기 위해 인터넷 사이트 등을 통해 새끼 고양이를 분양받은 뒤 이 같은 범죄를 저지른 것으로 조사됐다.&lt;br&gt;&lt;br&gt;재판부는 “피고인은 계획적·반복적으로 범행을 저질렀다”며 “범행 수법과 사체 처리 방법이 매우 잔혹하다는 점에서 생명에 대한 존중의식은 찾아보기 어려워 엄벌이 필요하다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>한국 여성 10명 중 4명... “일상에서 여성 대상 폭력 당할까 두려워”</title>
-      <link>https://www.chosun.com/national/national_general/2025/04/24/WCLGCVJTWJHKLFAOVG3KQ2VCRY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/24/WCLGCVJTWJHKLFAOVG3KQ2VCRY/</guid>
-      <dc:creator>오주비 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 24 Apr 2025 06:34:09 +0000</pubDate>
-      <content:encoded>한국 여성 10명 중 4명은 일상에서 신체·정서 폭력이나 스토킹 등을 당할까봐 두려워하는 것으로 나타났다.&lt;br&gt;&lt;br&gt;24일 여성가족부가 발표한 ‘2024년 여성폭력 실태조사’에 따르면, 일상 생활에서 폭력 피해를 입을 것 같은 두려움이 어느 정도인지 묻는 질문에 ‘매우 또는 약간 두렵다’고 답한 여성은 40%였다. ‘전혀 또는 별로 두렵지 않다’고 답한 여성은 25.2%에 불과했다.&lt;br&gt;&lt;br&gt;현재 우리 사회가 각종 여성 대상 폭력과 관련해 안전하다고 느끼지 않는 이들도 많았다. 51.6%는 ‘전혀 또는 별로 안전하지 않다’고 답했다. ‘매우 또는 약간 안전하다’는 응답률은 20.9%밖에 되지 않았다. 다만 2021년 조사 때보다는 안전하지 않다는 응답률은 6.2%p 감소하고, 안전하다는 응답률은 4.6%p 증가했다.&lt;br&gt;&lt;br&gt;여성폭력 실태조사는 여성폭력 유형별 실태를 파악하고, 성폭력 안전실태조사·가정폭력 실태조사 등에서 누락된 ‘교제폭력’ ‘2차 피해’ 등에 대한 현황을 확인하기 위해 여가부가 3년 주기로 실시하는 조사다. 여성폭력 유형별 목록은 유럽연합(EU) 젠더기반폭력 실태조사 등 다양한 해외 실태조사를 참고해 신체적 폭력, 성적 폭력, 정서적 폭력, 경제적 폭력, 통제, 스토킹 등 6가지로 구분돼 있다. &lt;br&gt;&lt;br&gt;이번 실태조사는 2021년과 동일하게 전국 만 19세 이상 성인 여성 7000여명을 대상으로 실시됐으며, 유형별 목록에 ‘스토킹’을 추가됐다.&lt;br&gt;&lt;br&gt;응답자의 36.1%는 평생 한 번 이상 여성폭력 피해를 경험했다고 답했다. 유형별로는 성적 폭력이 53.9%로 가장 많았다. 여성폭력 피해 경험자 2537명 중 절반 이상이 성적 폭력을 경험한 것이다. 다음으로는 정서적(49.3%) 폭력과 신체적(43.8%) 폭력이 많았다. &lt;br&gt;&lt;br&gt;평생 경험한 가장 심각한 신체적(47%)·정서적(44.1%)·경제적(70.4%) 폭력의 가해자는 ‘당시 배우자’가 많았다. 성적 폭력의 가해자로는 ‘전혀 모르는 사람’(25.2%)이 많았다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>울산 온산공단 도로 송유관서 원유 유출…긴급방제</title>
-      <link>https://www.chosun.com/national/regional/2025/04/24/YCPO5BA5PJEE7CDD4YCDPFK5ZY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/04/24/YCPO5BA5PJEE7CDD4YCDPFK5ZY/</guid>
-      <dc:creator>울산=김주영 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 24 Apr 2025 06:26:24 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/M2AHNWBREZKWNOF5WBIGCJLCPY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;24일 울산시 울주군 온산읍 원산리 한 도로에 원유가 유출돼 방제 작업이 이뤄지고 있다. /울산소방본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;24일 오전 울산 울주군 온산읍 원산리의 한 도로에 매설된 송유관에서 원유 유출 사고가 발생했다.&lt;br&gt;&lt;br&gt;울산소방본부에 따르면 이날 오전 10시 40분쯤 원산리 온산수질사업개선사업소 인근 도로에 매설된 지름 42인치 송유관이 파손돼 기름이 유출됐다. &lt;br&gt;&lt;br&gt;이 송유관은 에쓰오일 소유로, 육상 저장 탱크에서 정유 공장으로 원유를 이송하는 배관인 것으로 파악됐다.&lt;br&gt;&lt;br&gt;사고 직후 소방 당국과 에쓰오일 관계자들이 유증기 확산을 막기 위해 폼을 분사하는 등 방제 작업을 벌이고 있다.&lt;br&gt;&lt;br&gt;유출된 기름의 양은 아직까지 확인되지 않고 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OA3A5MM7MFPX3J67LYS4BKYMSI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;24일 울산시 울주군 온산읍 원산리 육상 송유관에서 유출된 원유가 우수관로를 통해 해상으로 일부 확산해 울산해경이 오일펜스를 설치해 방제 작업을 하고 있다. /울산해경&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;해경은 유출된 기름 일부가 오전 11시 10분쯤 우수 관로를 통해 해상으로 유출되자, 선박 8척을 동원해 오일 펜스를 설치하는 등 확산을 막고 있다. &lt;br&gt;&lt;br&gt;경찰은 인근 도로를 통제하고 있다.&lt;br&gt;&lt;br&gt;경찰과 소방 당국은 방제 작업을 마친 뒤 정확한 사고 경위와 유출량 등을 조사할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘김하늘양’ 유족, 살해교사·학교장·대전시에 4억원대 손해배상 소송</title>
-      <link>https://www.chosun.com/national/regional/chungcheong/2025/04/24/EUKR3APNGBE7DOJL63ZEERII7M/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2025/04/24/EUKR3APNGBE7DOJL63ZEERII7M/</guid>
-      <dc:creator>대전=김석모 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 24 Apr 2025 06:25:03 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/E45H6FWRBIZFMVJQ7GWRMH2D4Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 2월 10일 김하늘양이 살해당한 대전 서구의 한 초등학교에 경찰이 출동하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대전의 한 초등학교에서 교사에게 살해당한 김하늘(8)양의 유족이 범행을 저지른 교사 명재완(48)과 학교장, 대전시 등을 상대로 4억원대 손해배상 소송을 제기했다.&lt;br&gt;&lt;br&gt;김양 유족 측은 명씨와 학교 관리자인 학교장, 고용주 격인 대전시를 상대로 한 손해배상 소장을 대전지법에 접수했다고 24일 밝혔다.&lt;br&gt;&lt;br&gt;유족 측은 학교장, 대전시 등이 김양의 부모와 동생에게 4억1000여만원을 지급해야 한다고 청구한 것이다.&lt;br&gt;&lt;br&gt;유족의 법률대리인인 법무법인 와이케이 김상남 변호사는 “명재완의 살해 행위로 인해 유족들은 여전히 극심한 고통에 시달리고 있다”면서 “명씨의 손해배상 의무뿐만 아니라 관리자 격인 학교장과 고용주라고 볼 수 있는 대전시도 결국은 사건을 막지 못했다는 책임이 있다”고 밝혔다.&lt;br&gt;&lt;br&gt;김 변호사는 “교사인 명씨에 대한 관리·책임이 있는 학교장은 명씨가 동료 교사를 폭행하는 등 이상 징후가 있었음에도 적절한 인사 조치 등을 취하지 않았기에 사건 발생에 대한 책임이 있다”면서 “대전시도 공립초등학교인 해당 학교를 설립·운영하는 지방자치단체로서 교사 명씨의 위반 행위에 대해 손해를 공동 배상할 책임이 있다”고 했다.&lt;br&gt;&lt;br&gt;명재완은 지난 2월 10일 대전의 한 초등학교에서 돌봄 교실을 마치고 귀가하던 김양을 시청각실로 데려가 흉기로 살해했다. 특정범죄 가중 처벌 등에 관한 법률 위반(영리 약취 및 유인 등) 혐의로 구속 기소된 명재완의 재판은 다음달 28일 대전지법에서 열릴 예정이다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[신문은 선생님] [숨어있는 세계사] 이슬람교 앞세운 황제의 종교 억압… 제국 쇠퇴의 불씨 됐죠</title>
       <link>https://www.chosun.com/national/nie/2025/04/23/F67VNW67GFGXFBOW3ZR32FJJFA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/nie/2025/04/23/F67VNW67GFGXFBOW3ZR32FJJFA/</guid>
@@ -918,15 +952,6 @@ A씨는 이날 0시쯤 “열흘 전 설악산 둘레길에서 살인을 저질�
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/D3ZB6ESB5TZDR4VGVEGUANGM5E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울남부지방검찰청 /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰이 고려아연 경영권 분쟁 당시 미공개 정보를 이용했다는 의혹 등을 받는 MBK파트너스에 대한 압수수색에 착수한 것으로 24일 확인됐다.&lt;br&gt;&lt;br&gt;서울남부지검 금융·증권범죄합수부(부장 안창주)는 이날 오전 자본시장법 위반 혐의로 서울 종로구 MBK 본사를 비롯한 사무실 5곳과 경영진 주거지 7곳 등 총 12곳에 검사와 수사관을 보내 압수수색을 진행 중이다. &lt;br&gt;&lt;br&gt;검찰은 MBK파트너스가 지난해 고려아연 측과 경영권 분쟁을 벌일 때 미공개 정보를 이용하고 부정거래를 한 혐의가 있는지 등을 들여다보고 있는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;앞서 검찰은 지난 23일 유상증자 부정거래 의혹을 받는 고려아연과 그 주관사인 미래에셋증권 등 사무실 6곳과 경영진 주거지 5곳 등 총 11곳에 자본시장법 위반 혐의로 압수수색을 진행 중이라고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>밤늦게 무인카페 들어온 여성 3명, 엉망진창 테이블 보더니</title>
-      <link>https://www.chosun.com/national/national_general/2025/04/24/OVJN64SOXVCHBEURESRECCKXU4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/24/OVJN64SOXVCHBEURESRECCKXU4/</guid>
-      <dc:creator>이가영 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 24 Apr 2025 01:14:31 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KZJVSPLVWRBWHIMCS64K5C4M7Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;21일 오후 11시 42분, 무인 카페 테이블에 학생들이 치우지 않은 음료 병들이 어질러져 있다. /'아프니까 사장이다'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한 무인 카페에서 다른 손님들이 어질러놓은 쓰레기를 직접 치운 여성들의 모습이 공개됐다. &lt;br&gt;&lt;br&gt;22일 자영업자 온라인 커뮤니티에는 ‘무인카페, 어젯밤 늦게 들어온 여성 3인’이라는 제목의 게시글이 올라왔다. &lt;br&gt;&lt;br&gt;주택가에서 무인 카페를 운영 중이라는 글쓴이 A씨는 “어제 밤 12시가 다 된 시각에 방범카메라(CCTV)를 보니, 테이블이 난리였다”며 “시험 기간이라 밤늦게 학생들이 와서 안 치운 것이었다”고 했다. &lt;br&gt;&lt;br&gt;A씨가 공개한 사진에는 손님들이 마음대로 의자를 끌어다 쓰고 제자리에 돌려놓지 않은 듯 테이블 수에 맞지 않게 제멋대로 배치된 의자의 모습이 담겨 있었다. 또한, 테이블 위에는 먹다 남은 음료 병들이 어질러져 있었다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SQTEA72TE5HB7PLX5XGTQIMNKQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;22일 새벽 1시가 가까워진 시각, 무인 카페를 찾은 여성 3명이 다른 손님들이 어질러놓은 쓰레기를 치우고 있다. /'아프니까 사장이다'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;A씨는 “밤늦게 가서 치워야 되나 고민이 됐다”며 “12시 넘은 시각에 여성 3인이 들어오더니 난리가 난 테이블을 잠깐 보시더라. 불쾌하셨을 것”이라고 했다. 이어 “테이블 사진을 한 장 찰칵 찍으시더니 3분이 테이블을 치우기 시작했다”며 “유쾌하게 뚝딱뚝딱 청소하셨다. 바닥에 흘린 부분도 다 닦았다”고 했다. 여성들이 쓰레기를 버리고, 테이블을 닦은 후 테이블 배치도 원래대로 돌려두자 카페는 금세 깔끔해진 모습이었다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BAAQ4APZ6NHDJDOTAWZ7DSNLGY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;무인 카페를 청소한 여성 손님이 남기고 간 쪽지. /'아프니까 사장이다'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;A씨는 “무인 카페 하면 인류애를 상실했다가, 또다시 인류애가 올라오는 것 같다. 예쁜 학생들”이라며 여성들이 남기고 간 쪽지 사진도 올렸다. “사장님, 저희가 여기 청소했어요. 항상 행복하세요. 시험 기간에 공부 잘하다가요”라는 내용이었다. &lt;br&gt;&lt;br&gt;이 글을 본 네티즌들은 “사장님 마음 알아주는 고마운 손님이다” “가정교육을 참 잘 받은 분들이다” “냉탕과 온탕을 오간 하루였겠다. 아직은 살 만한 세상이다”라며 여성 손님들을 칭찬했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>K팝 아이돌, 해외공연 중 커밍아웃 “성소수자인 것 자랑스럽다”</title>
       <link>https://www.chosun.com/national/national_general/2025/04/24/HMMFNA2XBVAHPIZ5BPBWXXSKOQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/24/HMMFNA2XBVAHPIZ5BPBWXXSKOQ/</guid>
@@ -965,15 +990,6 @@ A씨는 이날 0시쯤 “열흘 전 설악산 둘레길에서 살인을 저질�
       <description/>
       <pubDate>Thu, 24 Apr 2025 01:16:31 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/COKNWHAEZFPBDM25TK65YKKYVM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이른바 '고발 사주' 의혹으로 기소된 손준성 검사장이 작년 12월 6일 서울 서초구 서울고등법원에서 열린 2심 선고 공판에 출석하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이른바 ‘고발 사주 의혹’으로 재판에 넘겨진 손준성 대구고검 차장검사(검사장)가 24일 대법원에서 무죄를 확정받았다. &lt;br&gt;&lt;br&gt;대법원 1부(주심 노경필 대법관)는 이날 공직선거법 위반 등 혐의로 기소된 손 검사장에게 무죄를 선고한 원심을 확정했다. 고위공직자범죄수사처(공수처)가 2022년 5월 이 사건을 수사해 기소한 지 약 3년 만에 나온 최종 결론이다.&lt;br&gt;&lt;br&gt;대법원은 “원심 판단에 공직선거법의 ‘선거에 영향을 미치는 행위’ 등에 관한 법리를 오해하는 등 판결에 영향을 미친 잘못이 없다”고 밝혔다.&lt;br&gt;&lt;br&gt;고발 사주 의혹은 윤석열 전 대통령이 검찰총장이던 2020년 4·15 총선을 앞두고 자신과 아내의 명예를 훼손한 혐의로 유시민씨, 최강욱 전 더불어민주당 의원 등을 고발해 달라며 미래통합당(현 국민의힘) 측에 사주했다는 것이다. 손 검사장은 두 차례에 걸쳐 범여권 인사에 대한 고발장을 당시 미래통합당 국회의원 후보였던 김웅 전 의원에게 텔레그램으로 전달한 혐의로 기소됐다.&lt;br&gt;&lt;br&gt;공수처는 손 검사장을 기소하면서, 함께 고발된 윤 전 대통령 등은 무혐의 처분했다. 사건 당시 민간인이었던 김 전 의원은 공수처 수사 대상이 아니라 검찰로 이첩됐는데, 이후 검찰이 불기소했다. 결국 손 검사장만 고발 사주 의혹으로 재판을 받게 됐다.&lt;br&gt;&lt;br&gt;1심은 손 검사장이 김 전 의원에게 고발장을 보냈다는 점을 인정하며 징역 1년을 선고했다. 반면 2심은 작년 12월 이를 뒤집고 무죄 판결을 내렸다. 2심 재판부는 “손 검사장이 고발장 관련 정보 수집·작성에 관여한 사실은 인정된다”면서도 “손 검사장이 고발장을 직접 (김 전 의원에게) 보냈다는 것을 증명하는 직·간접 증거가 없다”고 밝혔다. 이에 따라 손 검사장의 선거법 및 개인정보보호법 위반, 공무상 비밀 누설 등 혐의 모두를 무죄로 판단했다.&lt;br&gt;&lt;br&gt;다만 2심은 “손 검사장이 고발장 등을 검찰총장(윤석열) 등 검찰 고위 간부에게 직무 보고로 작성·전송했을 가능성이 있다”고 했다. 윤 전 대통령의 지시에 따라 고발장을 만들었을 가능성을 배제하지 않은 것이다.&lt;br&gt;&lt;br&gt;공수처가 상고했지만 대법원은 원심 판단이 맞는다고 보고 기각했다. 공수처가 이프로스(검찰 내부망)와 킥스(형사사법정보시스템)에서 위법하게 증거를 수집했다는 점도 대법원에서 인정됐다.&lt;br&gt;&lt;br&gt;한편, 고발 사주 의혹으로 민주당에 의해 탄핵소추돼 헌법재판소에 계류 중인 손 검사장의 탄핵 심판도 재개될 전망이다. 헌재는 작년 4월 ‘같은 사유의 형사소송이 진행 중’이라는 이유로 재판 절차를 정지했는데, 이날 확정 판결이 나왔기 때문이다. 헌재 관계자는 “재판관 2명이 공석인 상황이라, 언제 탄핵 심판을 다시 진행하는 것이 적절할지 재판부에서 논의하고 있다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>민주당 후보 3인 일제히 호남으로… ‘텃밭’ 표심 경쟁</title>
-      <link>https://www.chosun.com/politics/election2025/2025/04/24/6KBPV5YGIFDNTCJH4XM7EDVYOY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/politics/election2025/2025/04/24/6KBPV5YGIFDNTCJH4XM7EDVYOY/</guid>
-      <dc:creator>김경필 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 23 Apr 2025 23:16:45 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YSQ2BEB2ANJ5HLRXVP3HTQRVPU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 23일 서울 여의도 오마이TV 스튜디오에서 열린 더불어민주당 대선 경선 후보 토론회에 앞서 이재명(왼쪽부터), 김동연, 김경수 후보가 기념 사진을 찍고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;더불어민주당 대선 경선 후보 3인이 24일 일제히 당의 ‘텃밭’인 호남을 찾는다.&lt;br&gt;&lt;br&gt;4차로 계획돼 있는 민주당 지역 순회 경선 가운데 3차인 호남권 경선은 전날부터 광주·전남·전북 당원을 대상으로 하는 투표가 진행 중이고, 오는 26일 결과 공개를 앞두고 있다.&lt;br&gt;&lt;br&gt;이재명 후보는 이날부터 1박 2일 일정으로 호남을 방문한다. 이날 오전 전북 새만금을 찾아 현장 간담회를 하고, 재생 에너지 정책을 발표한다. 이어 광주로 이동해 5·18민주화운동의 상징적인 장소인 전일빌딩에서 ‘대한민국 민주화를 이끈 시민’을 주제로 간담회를 한다.&lt;br&gt;&lt;br&gt;25일에는 전남 나주시에 있는 전남농업기술원에서 ‘농업 전초기지 호남’을 주제로 간담회를 한다.&lt;br&gt;&lt;br&gt;김경수 후보는 이날 전남 목포시 동부시장을 찾아 시민들을 만나고, 이어서 무안군과 순천시에서 각각 당원들과 간담회를 한다.&lt;br&gt;&lt;br&gt;김 후보의 호남 방문은 지난 22일 이후 두 번째다. 김 후보는 지난 22일 민주당 경선 주자 가운데 가장 먼저 호남을 찾아, 전북 전주시에서 당원 간담회를 하고 광주 양동시장을 방문했다.&lt;br&gt;&lt;br&gt;김동연 후보는 지난 23일부터 호남 방문 중이다. 김 후보는 이날 전북도당 당원들과 간담회를 하고 전남 장성군 황룡시장을 방문한다. 이어 광주에 있는 한국광기술원을 찾아 광산업 관계자들과 ‘광주 산업과 일자리’를 주제로 간담회를 하고, 광주 당원들을 만날 예정이다.&lt;br&gt;&lt;br&gt;마지막 지역 순회 경선인 수도권·강원·제주 경선 투표는 이날 시작된다. 오는 25일에는 마지막 TV 토론회가 열린다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>검찰, 건진법사 자택 ‘신권 5000만원’ 출처 추적</title>
