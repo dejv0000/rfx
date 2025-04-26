@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>고현정, 어린 아들에 뽀뽀하는 사진?...과거 사진 눈길</title>
+      <link>https://www.chosun.com/national/national_general/2025/04/27/MTAJH5M5HNCM3DCKWMZBPE42CE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/27/MTAJH5M5HNCM3DCKWMZBPE42CE/</guid>
+      <dc:creator>정아임 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 26 Apr 2025 22:08:23 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RQO7O7FAVZFGDN2BMNKKHE7QKM.png"&gt;&lt;figcaption&gt;&lt;small&gt;배우 고현정이 갓난아기를 품에 안고 뽀뽀하고 있는 사진을 올렸다./인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;배우 고현정이 갓난아기와 찍은 옛날 사진을 소셜미디어(SNS)에 공개해 눈길을 끌고 있다. &lt;br&gt;&lt;br&gt;고현정은 26일 자신의 인스타그램 스토리에 여러 장의 사진을 올렸다. 사진에는 1990년 10월 앳된 외모로 거울 셀카를 찍고 있는 고현정의 모습이 담겼다. 또 다른 사진에는 고현정이 수영장에서 어린 아들로 보이는 갓난아이를 품에 안고 볼 뽀뽀를 하고 있다.&lt;br&gt;&lt;br&gt;이를 두고 네티즌들 사이에서는 고현정이 자기 아들이 그리워서 옛 사진을 추억하며 올린 것 아니냐고 추측했다. 네티즌들은 “많이 보고 싶은가 보다” “마음 아프다” “자녀와 교류하고 있는 걸까” 등의 반응을 보였다.&lt;br&gt;&lt;br&gt;앞서 고현정은 1995년 24세 당시 SBS 드라마 ‘모래시계’로 스타덤에 오른 직후 정용진 신세계 회장과 결혼하며 연예계를 은퇴했다. 슬하에 1남 1녀를 뒀으나, 결혼 8년 만인 2003년 이혼했다. &lt;br&gt;&lt;br&gt;고현정은 2009년 MBC ‘황금어장-무릎팍도사’에 출연해 결혼과 이혼을 둘러싼 루머에 대해 직접 해명한 바 있다. 당시 고현정은 “조금 더 내면적으로 성숙한 상태에서 결혼했더라면 더 좋았을 텐데, 결혼을 너무 일찍 한 것 같아 아쉽다”며 “새로운 사랑이 찾아온다고 하더라도 그때의 순수한 열정이 없을 것 같아 안타깝다”고 했다.&lt;br&gt;&lt;br&gt;또한 작년 11월 27일 방송된 tvN 예능 프로그램 ‘유 퀴즈 온 더 블록’에 출연한 고현정은 아이들에 대해 “살이를 같이 안 해서 쑥스럽고 친하지 않은 감정을 느꼈을 때, 친하지 않은 것이 이렇게 슬픈 건지 몰랐다”며 “그 감정이 들면서 너무 슬펐다. 없어진 거니까 채울 수 없지 않으냐. 많이 속상했다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>“소송 걸면 영원히 잠수” 불륜 들킨 남편의 적반하장 [이별전쟁]</title>
       <link>https://www.chosun.com/national/court_law/2025/04/27/GLUROPFUMRBWTNYDBWWNHXO4LU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/04/27/GLUROPFUMRBWTNYDBWWNHXO4LU/</guid>
@@ -977,15 +986,6 @@ General of the Army Douglas MacArthur, Supreme Commander for Allied Powers, (Lef
       <description/>
       <pubDate>Thu, 24 Apr 2025 10:09:48 +0000</pubDate>
       <content:encoded>윤석열 전 대통령 부부 공천 개입 의혹을 수사하는 검찰이 김태우 전 강서구청장 캠프의 공동선거대책위원장을 맡았던 구상찬 전 의원을 24일 소환해 조사했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/T3TK4CA275MOFHOOUYHH7CUOBU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;국민의힘 김태우 강서구청장 보궐선거 후보의 선거대책위원회가 2023년 9월 28일 오전 발산역 인근에서 연 선대위 출정식에서 참가자들이 손을 들어올리고 있다. 왼쪽부터 구상찬 전 의원, 김기현 대표, 김태우 후보, 나경원 전 의원, 김성태 전 의원. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 서울중앙지검 전담수사팀(팀장 이지형 차장검사)은 이날 구 전 의원을 참고인 신분으로 불러 윤 전 대통령이 김 전 구청장의 공천에 개입했는지 여부를 캐물었다. 이 과정에서 구 전 의원이 윤 전 대통령으로부터 공천과 관련해 연락을 받았는지, 경선 과정에서 김 전 구청장을 지지하라는 요구를 받았는지 등을 상세히 물었다고 한다.&lt;br&gt;&lt;br&gt;그러나 구 전 의원은 “김 전 구청장의 공천은 윤 전 대통령과 무관하다”는 취지로 진술한 것으로 전해졌다. 공천 전후로 윤 전 대통령 측으로부터 연락을 받거나 만난 사실도 없다는 것이 구 전 의원 입장이라고 한다. 또 공천 개입 의혹의 핵심 인물인 정치 브로커 명태균씨에 대해서도 구 전 의원은 지난해 의혹이 불거질 당시 언론 보도를 통해 처음 알게 됐다고 진술한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;이와 관련해 검찰은 최근 김 전 구청장을 직접 조사하기도 했다. 김 전 구청장은 이날 본지에 “2022년 공천은 윤 전 대통령과는 관계가 없다”는 입장을 밝혔다.&lt;br&gt;&lt;br&gt;한편, 검찰은 이날 윤 전 대통령 부부가 공천에 개입했다는 의혹이 불거진 평택시장 선거 당시 국민의힘 경선에 출마했던 공재광 전 평택시장도 참고인으로 불러 조사했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>김용현 등 ‘내란 재판’서 尹 탄핵결정문 증거 신청...변호인 즉각 반발</title>
-      <link>https://www.chosun.com/national/court_law/2025/04/24/WFROYKWPLRAM5FINAW6YFENSOI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/04/24/WFROYKWPLRAM5FINAW6YFENSOI/</guid>
-      <dc:creator>김은경 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 24 Apr 2025 10:03:57 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HZWPBZ4FMI5UBP32UTJDXF2E3Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김용현 전 국방부 장관. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;12·3 비상계엄에 가담한 혐의로 기소된 김용현 전 국방부 장관 등 군 지휘부의 재판에서 검찰이 헌법재판소의 윤석열 전 대통령의 탄핵심판 결정문을 증거로 신청했다. 김 전 장관 측은 즉각 반발했다.&lt;br&gt;&lt;br&gt;서울중앙지법 형사25부(재판장 지귀연)는 24일 내란 중요 임무 종사 등 혐의를 받는 김 전장관과 노상원 전 정보사령관, 김용군 전 국방부 조사본부 수사본부장에 대한 5차 공판 기일을 열었다.&lt;br&gt;&lt;br&gt;검찰은 이날 “국헌문란 목적 등을 입증하기 위해 (윤 전 대통령) 탄핵심판 결정문을 추가 증거로 신청한다”고 했다. &lt;br&gt;&lt;br&gt;이에 김 전 장관 측은 “헌재는 탄핵심판에서 형사 소송과 다르게 증거 능력을 완화해 사실을 인정했다”며 반발했다. 증거 법칙을 형사 소송보다 완화해서 적용한 판결의 결정문을 형사 소송에서 채택하는 것은 맞지 않다는 것이다. 김 전 장관의 변호인은 “헌재가 헌법 소송의 특수성을 감안해 (증거를) 형사 소송과 달리 취급한다는 것을 분명히 하기도 했다”고 말했다.&lt;br&gt;&lt;br&gt;이날 공판에선 이른바 ‘햄버거집 모의’와 관련해 국군정보사령부 소속 김봉규 대령에 대한 증인 신문을 비공개로 진행했다. 이 재판은 지난달 27일 정보사 소속 증인들에 대한 신문이 시작된 2차 공판 이후 이날까지 4차례 연속 비공개로 열렸다. 국가 기밀을 다루는 정보사 소속 증인들의 신상정보나 부대·동선 등이 공개돼선 안 된다는 이유다.&lt;br&gt;&lt;br&gt;한편 재판부는 오는 9월까지 약 15차례의 공판 기일을 지정해 두겠다는 방침을 밝혔다. 한 달에 3~4차례 기일이 열릴 것으로 보인다. 구체적인 기일은 추후 양측 일정을 조율해 확정할 예정이다. 다음 공판 기일은 내달 14일에 진행된다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>5명 사상 울산 택시사고 “브레이크 대신 엑셀”…운전 미숙 결론</title>
