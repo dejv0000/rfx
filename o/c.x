@@ -13,6 +13,70 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>오늘부터 이틀간 종로 일대에서 연등회 열려…서울 도심 교통 통제</title>
+      <link>https://www.chosun.com/national/national_general/2025/04/26/EGDISB4M45ADDC4PIWT6U5VQOQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/26/EGDISB4M45ADDC4PIWT6U5VQOQ/</guid>
+      <dc:creator>김영우 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 26 Apr 2025 03:16:34 +0000</pubDate>
+      <content:encoded>26일부터 이틀간 서울 종로 일대에서 ‘2025 연등회’가 열린다. 서울시는 이에 따라 이날 오후 1시부터 서울 도심 주요 도로의 차량 통제를 단계적으로 진행한다고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/R5GAYDVORNDZPNBGIO5ZS2CMNI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;25일 오후 서울 종로구 청계천에 불기 2569년(2025년) 부처님오신날(5월 5일)을 앞두고 연등이 걸려 있다. 대한불교조계종은 26일부터 이틀 동안 서울 동국대학교와 조계사 등에서 연등회를 연다. 종로 일대에서는 26일 오후 6시부터 9시 30분까지 불교 신도들과 시민 약 5만 명이 연등 행진을 한다. /장련성 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;연등회는 통일신라 때부터 1200여 년 간 이어져 온 전통 문화 축제로, 2012년에는 국가무형유산, 2020년에는 유네스코 세계무형유산으로 등재됐다.&lt;br&gt;&lt;br&gt;서울시에 따르면, 시는 2025 연등회 행사의 안전한 진행을 위해 26일 오후 1시부터 다음 날 오전 3시까지 종로 흥인지문~종로1가 구간의 양방향 차량 통행을 전면 통제한다.&lt;br&gt;&lt;br&gt;연등 행렬이 시작되는 26일 오후 6시부터는 행렬 이동에 따라 단계적으로 교통 통제를 진행한다. 장충단로(동국대학교 앞~흥인지문), 종로(세종대로사거리~종로1가사거리), 우정국로(안국사거리~종로1가사거리) 등이 대상이다.&lt;br&gt;&lt;br&gt;장충단로는 이날 오후 6시부터 오후 8시 30분까지, 종로와 우정국로는 다음 날 오전 1시까지 통제한다. 조계사 앞에 있는 우정국로는 27일에도 오전 9시부터 28일 0시까지 통행을 제한한다.&lt;br&gt;&lt;br&gt;종로 일대를 지나는 시내버스는 이날 우회 운행하고, 우회 운행 구간 내에 있는 버스 정류장도 임시 폐쇄된다. 서울 지하철 1호선 종각역은 밀집도에 따라 무정차 통과한다.&lt;br&gt;&lt;br&gt;서울시 관계자는 “시민 여러분들께서는 목적지까지 버스가 운행하는지 사전에 확인해 주시길 바란다”고 말했다.&lt;br&gt;&lt;br&gt;이번 연등회에서는 26일 진행되는 대표 행사 ‘연등 행렬’을 비롯해 시민들이 함께 어우러져 강강술래와 음악 공연 등을 즐기는 ‘대동한마당’, 불교 문화와 전통 문화 등을 체험할 수 있는 ‘전통문화마당’ 등이 열린다.&lt;br&gt;&lt;br&gt;서울시는 시민 안전 관리를 위해 버스 정류장 시설물 점검, 경찰력·소방력 배치 등 안전 관련 조치를 취할 방침이다.&lt;br&gt;&lt;br&gt;서울시 관계자는 “시민과 관광객 모두가 연등회를 안전하게 즐길 수 있도록 최선을 다하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>늘어나는 대학가 ‘1000원 복지’… 아침 이어 저녁·매점까지 등장  </title>
+      <link>https://www.chosun.com/national/education/2025/04/26/O7JU7GFUI5GWFMZVDQ3NPIVPTE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/education/2025/04/26/O7JU7GFUI5GWFMZVDQ3NPIVPTE/</guid>
+      <dc:creator>김민기 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 26 Apr 2025 03:01:03 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FDA5AGEE5BHUVBTC4Q4FMIABYA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;충남대가 중간고사 기간(14~17일) 학생들에게 1000원에 저녁밥을 제공한 가운데, 학교 학생식당이 학생들로 붐비고 있다./충남대 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;충남대는 지난 14일부터 17일까지 학생들에게 볶음밥, 카레라이스 같은 저녁밥을 1000원에 제공했다. 중간고사를 준비하는 학생들을 격려하려는 것이었다. 1000원 한 장으로 밥을 먹을 수 있다는 소문에 학생식당은 학생들로 붐볐다. 하루 평균 약 800명, 나흘간 총 3250명이 1000원 저녁밥을 먹었다. 충남대는 이번 사업에 약 1000만원을 들였다. 단가 4000원짜리 밥을 1000원에 제공하기 위해 나머지 3000원을 모두 학교 재원으로 부담했다. 충남대 관계자는 “‘1000원 저녁밥’을 다음 시험기간에도 운영하는 등 확대 방안을 검토 중”이라고 했다.&lt;br&gt;&lt;br&gt;대학가에 ‘1000원 복지’ 열풍이 불고 있다. ‘1000원 아침’ 운영 대학이 200여 곳으로 늘어난 데 이어, 이젠 ‘1000원 저녁’도 등장했고, ‘1000원 매점’ 역시 추진 중이다. 식당 공깃밥 가격이 2000원으로 오르는 등 고물가 속 ‘1000원 한 장’ 가치는 계속 떨어지고 있지만 대학가에선 1000원 복지가 확산세다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NYBM3ZGS25AL7GESWXTXWB3QY4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;인천대가 이번 중간고사 기간 학생들에게 제공한 1000원 저녁밥./인천대 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국립인천대도 충남대처럼 이번 중간고사 기간에 5일(14~18일) 동안 1000원에 저녁밥을 제공했다. 학생이 1000원에 단가 5500원짜리 밥을 먹을 수 있도록 인천대와 학교 소비자생활협동조합이 4500원을 부담했다. 인천대 관계자는 “외부 식당에서 식사하면 1만원을 훌쩍 넘어서 학생들 부담이 큰데, 바쁜 시험 기간이라도 끼니 거르지 않고 저렴하게 식사할 수 있게 운영한 사업”이라고 말했다. 국립군산대도 시험기간(6일) 1000원 저녁밥을 위해 끼니당 5000원씩을 투입했다. 학교 예산과 후원금 등으로 재원을 마련했다.&lt;br&gt;&lt;br&gt;이처럼 이번에 1000원 저녁밥 사업을 진행한 대학에선 배식 30분 전부터 식당에 긴 줄이 늘어서고, 배식 시작 후 30분 만에 매진되는 등 학생 인기가 높았다고 한다. 충남대 불어불문학과 4학년 김준혁씨는 “외부 식당에서 하루 2끼만 해결하려 해도 2만원은 우습게 깨지는데, 시험기간엔 식비를 1만원 미만으로 줄일 수 있어 좋았다”고 했다. &lt;br&gt;&lt;br&gt;‘1000원 복지’의 원조인 ‘1000원 아침밥’도 매년 확대 추세다. ‘1000원 아침밥’은 끼니당 농림축산식품부 2000원, 지자체 1000원, 대학 자체 예산 1000~2000원씩을 투입해 단가 5000~6000원짜리 아침밥을 1000원에 제공하는 사업이다. 2017년 시작한 이 사업은 지난해 총선을 앞두고 MZ세대 표를 의식한 여야가 모두 공약으로 내걸면서 더욱 확대됐다. 학생들 긍정적 반응도 잇따른 가운데 사업 참여 대학이 작년 190곳에서 올해 201곳으로 늘어났다. 작년 학생들이 먹은 1000원 아침밥은 총 393만끼. 농림부는 올해는 450만끼가 판매될 것으로 보고 정부 예산도 작년 81억원에서 올해 93억원으로 늘렸다. &lt;br&gt;&lt;br&gt;최근 경기도는 도내 대학 2곳에 ‘1000원 매점’을 설치하겠다고 밝혔다. 기업들에 식료품, 생필품을 기부받아 학생들에게 1000원에 팔겠다는 것이다. 고물가 시대 학생들의 생활비 부담을 줄여준다는 취지다. 어느 대학에 설치할지, 어떤 항목을 팔지는 아직 정하지 않았다. 사업을 구체화해 오는 6월 시범 운영에 들어갈 예정이다. &lt;br&gt;&lt;br&gt;신율 명지대 정치외교학과 교수는 “문재인 정부 시절 최저임금을 대폭 올려 학생들이 아르바이트 자리를 구하기 어렵게 됐고 취업난도 길어지고 있다”며 “1000원 복지는 학생 부담을 덜어주는 긍정적 면이 있다”고 했다.&lt;br&gt;&lt;br&gt;다만 대학생 대상 1000원 복지가 확대되는 데는 포퓰리즘 성격도 있다는 지적도 나온다. 대다수 국립대는 총장 직선제를 채택하고 있고, 교직원뿐 아니라 학생도 투표권이 있는 경우가 많다. 총학생회장 후보들도 ‘1000원 아침 유지’ ‘1000원 저녁밥’을 공약으로 내걸고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>어린이날까지 완연한 봄 날씨...비 소식 없이 일교차 커</title>
+      <link>https://www.chosun.com/national/transport-environment/2025/04/26/ZVIRPMZQONFPXPNECU4NHS5Q3U/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/04/26/ZVIRPMZQONFPXPNECU4NHS5Q3U/</guid>
+      <dc:creator>박상현 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 26 Apr 2025 00:14:37 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QZ6CLZ7KYBJN7OQUIFRE2DIG6Q.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;완연한 봄 날씨를 보인 지난 25일 전북 완주군 화산꽃동산에 봄꽃이 만발해 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이번 주말 전국이 완연한 봄 날씨를 보일 것으로 전망됐다. 다만 대기가 메마르고 강풍이 불면서 화재 위험이 클 것으로 예상됐다.&lt;br&gt;&lt;br&gt;기상청에 따르면, 우리나라는 주말인 26~27일 고기압 영향권에 들면서 전국이 대체로 맑겠다. 내륙을 중심으로 일교차가 15도 이상으로 크게 벌어지면서 아침은 쌀쌀하고, 한낮은 덥겠다.&lt;br&gt;&lt;br&gt;26일 서울의 한낮 기온이 20도까지 오르는 등 이날 전국 낮 최고기온은 17~25도로 예보됐다. 일요일인 27일에는 최저 5~15도, 최고 17~27도의 기온 분포를 보이겠다.&lt;br&gt;&lt;br&gt;현재 우리나라 동쪽을 중심으로 대기가 매우 건조한 상태다. 강원영동과 충북남부·전라동부·경상권 등에 내려졌던 건조특보는 26일 오전 수도권 곳곳까지 확대됐다. 당분간 전국에 순간풍속 초속 15m 이상의 바람이 불 것으로 보여 작은 불씨가 큰 불로 이어질 수 있어 주의가 필요하다.&lt;br&gt;&lt;br&gt;27일 비구름대를 동반한 기압골의 영향을 받는 제주도에는 비가 내리겠다. 예상 강수량은 5~10mm다.&lt;br&gt;&lt;br&gt;기상청은 중기예보에서 어린이날인 내달 5일까지 우리나라가 주로 고기압 영향권에 들면서 비 소식 없이 기온이 점차 오를 것으로 내다봤다. 내달 1~5일에는 낮 기온이 최고 27도까지 오르겠다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“내 아들 건들면 못참아”… 편의점 사장 협박한 엄마, 벌금 300만원</title>
+      <link>https://www.chosun.com/national/regional/2025/04/26/NZMIX2ANGBDFVOUC4PH6HFJJ64/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/04/26/NZMIX2ANGBDFVOUC4PH6HFJJ64/</guid>
+      <dc:creator>조홍복 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 26 Apr 2025 01:12:59 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JL76UUR35SSWJUPKCTIHT5377Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;춘천지법 전경./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;아들이 편의점에서 부당한 대우를 받고 해고됐다고 생각해 전화로 점주를 협박한 50대에게 벌금형이 선고됐다. 춘천지법 형사3단독(판사 박동욱)은 협박 혐의로 기소된 A(55)씨에게 벌금 300만원을 선고했다고 26일 밝혔다. &lt;br&gt;&lt;br&gt;재판부는 “피고인이 피해자를 협박한 내용에 비춰 죄질이 좋지 않고 피해자는 피고인의 범행으로 적지 않은 정신적 고통을 겪었을 것으로 보인다”며 “피고인의 건강이 좋지 않은 점, 폭행죄 등을 저질러 벌금형으로 한 차례 처벌받은 이외에는 별다른 범죄 전력이 없는 점 등을 종합해 형을 정했다”고 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 2023년 2월 B씨가 운영하는 편의점에서 아들이 부당한 대우를 받고 해고됐다고 생각해 전화로 “내 아들이 당한 만큼 그대로 하겠다” “난 자식 건드리면 내 모든 걸 걸고 죽여버릴 거야” 등의 말로 협박한 혐의로 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;그는 4개월여 뒤에도 또다시 B씨에게 전화로 “다음부터 만날 때는 육탄전이야. 난 이제 가만히 못 참아” “난 분명히 너희한테 내 아들이 저지를 일에 대해 미리 선전포고 다 했어” 등의 말로 재차 협박했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>아이돌 커밍아웃에 홍석천 “저한테도 좀 신선한 충격”</title>
+      <link>https://www.chosun.com/national/people/2025/04/26/I36QKXLDERDM3MCMUFDKQNSW6Q/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/04/26/I36QKXLDERDM3MCMUFDKQNSW6Q/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 26 Apr 2025 01:46:53 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/76JVP3AL5VXAI6M4DATBVN4TFI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;방송인 홍석천. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;성소수자 방송인인 홍석천은 최근 K팝 아이돌 그룹 ‘저스트비’ 멤버 배인(24·본명 송병희)이 성소수자라는 사실을 밝히는 커밍아웃을 한 것에 대해 “신선한 충격”이라고 했다. &lt;br&gt;&lt;br&gt;홍석천은 26일 공개된 한 언론과의 인터뷰에서 “연예계 후배 중에 이렇게 얘기해 주는 사람이 있는 건 저한테도 좀 신선한 충격이고 반가운 소식”이라며 “굉장히 축하해야 할 일”이라고 했다.&lt;br&gt;&lt;br&gt;다만 홍석천은 “커밍아웃을 하는 것도 용기가 필요한데 사실 그걸 버텨내는 건 더 큰 용기가 필요하다”며 “(버텨내는) 그 시간이 더 힘들고 더 중요한 시간인 거다. 저는 개인적으로 너무너무 힘들었다”고 했다.&lt;br&gt;&lt;br&gt;홍석천은 “제가 커밍아웃을 했던 2000년에는 제가 느끼기엔 전국민의 99%가 저를 다 ‘죽어라 죽어라’ 했는데 그걸 이겨내고 버텨가면서 얼마나 많은 노력을 했겠냐”라며 “예전에 제가 겪은 시간보다는 훨씬 수월하겠지만 이제부터 자기 스스로를 지켜야 한다”고 했다. &lt;br&gt;&lt;br&gt;홍석천은 “기회가 되면 이야기를 나눌 수 있는 선배였으면 한다. 걱정도 되지만 이제 사회 분위기가 정말 많이 바뀌었다”며 “무너지지 않고 잘 버텨내면서 자기가 하고 싶은 일을 하는 게 굉장히 중요하다”고 했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Q4PCY6LQ6RMLBIDA2ZFZST6T2U.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;그룹 저스트비 배인. /뉴스1
+&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;배인은 지난 23일 미국 로스앤젤레스에서 열린 월드투어 ‘저스트 오드’(JUST ODD) 공연 도중 자신이 성소수자라는 사실을 밝히는 커밍아웃을 했다. 국내 남자 아이돌 그룹 멤버가 커밍아웃을 한 건 이번이 처음이다.&lt;br&gt;&lt;br&gt;이날 배인은 “내가 LGBTQ 커뮤니티의 일원인 것을 자랑스럽게 생각한다”고 말했다. LGBTQ는 레즈비언, 게이, 양성애자, 트랜스젠더, 퀴어의 첫 글자를 따 만든 약어로, 성소수자를 의미한다.&lt;br&gt;&lt;br&gt;배인은 공연에서 미국 가수 레이디 가가의 ‘본 디스 웨이’(Born This Way)를 부르며 성소수자를 상징하는 무지개 깃발을 흔들기도 했다.&lt;br&gt;&lt;br&gt;저스트비는 지난 2021년 데뷔했다. 임지민, 이건우, 배인, 시우, 전도염, 김상우로 이뤄진 6인조 보이그룹이다. 배인은 팀에서 메인보컬을 맡고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>창원NC파크 ‘야구팬 1명 사망’케 한 외장 마감재 없앤다</title>
+      <link>https://www.chosun.com/national/regional/2025/04/26/IIOPD543R5HITKOI3W6S6WL5C4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/04/26/IIOPD543R5HITKOI3W6S6WL5C4/</guid>
+      <dc:creator>조홍복 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 26 Apr 2025 01:02:24 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NHIN64QNVETFIIVUUWPQ3Q3V7E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경남 창원시 마산회원구 창원NC파크 구조물 추락사고로 관중이 숨진 사고와 관련 경찰과 국립과학수사연구원 등이 고소작업차를 타고 지난 8일 현장 합동 감식을 진행하고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경남 창원NC파크에서 발생한 구조물 추락 사망 사고를 수습하기 위해 출범한 창원시·창원시설공단·NC 다이노스 합동대책반이 NC파크 내 외장 마감 자재인 ‘루버’를 전부 떼기로 했다. 합동대책반은 지난 25일 창원시설공단에서 4차 전체회의를 열고 이같이 결정했다고 26일 밝혔다.&lt;br&gt;&lt;br&gt;창원NC파크에서는 지난달 말 경기장 내 설치된 루버 1개가 떨어지면서 야구 팬 3명이 다치는 사고가 발생했고, 이 중 한 명은 치료 도중 사망했다. 루버는 길이 2.6ｍ, 폭 40㎝에 무게 60㎏가량의 알루미늄이다.&lt;br&gt;&lt;br&gt;합동대책반은 루버 전체 탈거 여부를 두고 최근 내부 검토를 이어온 끝에 국토교통부와 국토안전관리원 의견 등을 수렴해 루버를 전부 떼기로 결론을 내렸다. 국토부 측은 시설물에 대한 풍화 작용 등 앞으로 유지·관리 문제를 고려하면 떼는 게 좋다고 권고한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;합동대책반은 또 야구 팬과 시민의 트라우마를 고려하면 루버를 탈거하지 않을 수 없다고 판단했다. 이에 따라 시는 이날부터 창원NC파크 내 루버 230여 개와 NC파크 외부 철골주차장 외벽에 설치된 루버 80여 개 등 총 310여 개의 탈거 작업에 착수한다.&lt;br&gt;&lt;br&gt;창원NC파크 재개장 여부는 창원시설공단이 시행한 긴급 안전 점검의 결과 보고서상 미비 사항이 보완되면 조만간 결정될 것으로 보인다. 국토부는 해당 결과 보고서를 보고 ‘일부 미비점이 있으니 보완할 필요가 있다’는 내용의 공문을 지난 25일 공단 측에 보낸 것으로 파악됐다.&lt;br&gt;&lt;br&gt;시 관계자는 “시간이 지나면 풍화작용 등에 의해 루버 시설물에 대한 위험도가 계속 발생할 수 있다는 점을 고려했다”며 “무엇보다 창원NC파크를 찾는 야구팬이나 시민에게 심리적 안정감을 주기 위해서는 탈거할 수밖에 없다는 결론을 내렸다”고 말했다. 이어 “창원NC파크 재개장 여부는 긴급 안전 점검 결과 보고서상 미비 사항에 대한 보완 조치가 이뤄지면 국토부 보고를 거쳐 결정할 계획”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>부산 공장서 1t 금형 넘어져 외국인 근로자 숨져</title>
+      <link>https://www.chosun.com/national/regional/2025/04/26/SMSZIBBFTJF2FHMOUK6VXWXMKQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/04/26/SMSZIBBFTJF2FHMOUK6VXWXMKQ/</guid>
+      <dc:creator>김영우 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 26 Apr 2025 01:12:29 +0000</pubDate>
+      <content:encoded>부산의 한 공장에서 금형이 넘어져 외국인 근로자가 숨지는 사건이 발생해 경찰이 수사에 나섰다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G75BXCLKHPSRAMFLL2D7THXBAU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산강서경찰서 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;26일 경찰 등에 따르면, 전날 오후 2시 30분쯤 부산 강서구의 한 자동차 부품 생산 공장에서 작업대 위에 있던 무게 1t가량의 금형이 앞으로 넘어지면서 30대 캄보디아 근로자 A씨를 덮쳤다. 머리 등을 다친 A씨는 현장에서 숨졌다.&lt;br&gt;&lt;br&gt;이 공장의 금형은 평소 소형 기중기(호이스트)에 고정돼 있었는데, 사고 당시에는 호이스트가 다른 곳으로 옮겨져 고정되지 않았던 것으로 전해졌다.&lt;br&gt;&lt;br&gt;경찰은 이에 따라 업주를 상대로 중대재해 처벌 등에 관한 법률(중대재해처벌법) 위반 여부를 수사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>“감동이다” 中네티즌, 한국 버스기사에 칭찬 릴레이…무슨 일?</title>
       <link>https://www.chosun.com/national/national_general/2025/04/26/M6EA6FODLBC3XLIDASM4LZCWJQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/26/M6EA6FODLBC3XLIDASM4LZCWJQ/</guid>
@@ -805,15 +869,6 @@ General of the Army Douglas MacArthur, Supreme Commander for Allied Powers, (Lef
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UCN5LDQU7BBRTJWFBBYMHH6BDI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;24일 오후 서울 중구 서울광장에서 근로자들이 잔디를 심고 있다. 작업이 끝나면 서울광장이 초록색 잔디밭으로 바뀌게 된다. 서울시는 다음 달 4일부터 서울광장에서 서울 야외 도서관을 운영한다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>“국민 삶 바꾸려면, 지방 강화하는 개헌해야”</title>
-      <link>https://www.chosun.com/national/national_general/2025/04/25/NPXH5HVZT5FYXGWUHAK7EAJD7Q/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/25/NPXH5HVZT5FYXGWUHAK7EAJD7Q/</guid>
-      <dc:creator>최연진 기자, 박진성 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 24 Apr 2025 15:53:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6JJO7QGDMNCMJETS4P7YIMA74A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 21일 서울 중구 조선일보사에서 헌법·행정 전문가들이 지방분권과 개헌을 주제로 대담하고 있다. 왼쪽부터 최민호 세종시장, 정대철 헌정회장, 성낙인 전 서울대 총장, 우동기 지방시대위원회 위원장. /박성원 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;6월 3일 대선을 앞두고 정치권에서 ‘개헌(改憲)’이 화두로 떠오른 가운데 헌법·행정 전문가 4명이 22일 조선일보사에서 지방 분권과 개헌을 주제로 대담했다. 정대철 헌정회장과 우동기 지방시대위원회 위원장, 최민호 세종시장, 성낙인 전 서울대 총장이다. 이들은 “이번 대선이 1987년에 만든 낡은 헌법을 뜯어고칠 적기”라며 “대선 때 개헌안을 놓고 국민들이 선택하게 해야 한다”고 했다. &lt;br&gt;&lt;br&gt;지금 개헌이 필요한 이유에 대해 정 회장은 “작년 12월 3일 비상계엄의 교훈”이라고 했다. 그는 “제왕적 대통령이 한순간에 민주 질서를 망칠 수 있다는 사실을 보지 않았느냐”며 “대통령이 쥔 권한을 나눠야 한다”고 했다. 정 회장은 “국민 67%가 개헌에 찬성한다는 여론조사 결과도 있다”면서 “개헌은 국민의 요구”라고 했다.&lt;br&gt;&lt;br&gt;최 시장은 “지금은 지방 소멸, 저출생·고령화, 정치 양극화 등 새로운 ‘삼각 파도’가 밀려오는 상황”이라며 “1987년에 제정한 현행 헌법으로는 대응하기 불가능하다. 새로운 틀을 만들어야 한다”고 했다. 성 전 총장은 “지금 우리 헌법에는 군인과 경찰은 훈련 중에 다쳐도 배상할 필요가 없다는 조항(헌법 29조 2항)이 아직도 남아 있다”고 했다. &lt;br&gt;&lt;br&gt;이들은 “1987년 이후 대통령 8명 중 6명이 비극적인 말로를 맞았다”며 “이건 우리의 헌법 시스템에 구조적인 문제가 있다는 뜻”이라고 지적했다. &lt;br&gt;&lt;br&gt;대선 때마다 개헌 얘기가 나왔지만 그때뿐이었다. 정 회장은 “정치권이 개헌을 (당선을 위한) 정치적 도구로만 쓸 뿐 진지하게 고민하고 있지 않기 때문”이라고 했다. &lt;br&gt;&lt;br&gt;성 전 총장은 “이번에는 각계각층이 대선 후보들에게 개헌 약속을 지키도록 압력을 넣자”고 했다. 그는 올해 안에 개헌안을 만들어 내년 지방선거 때 국민투표를 실시하는 방안을 제시했다. &lt;br&gt;&lt;br&gt;정 회장은 “지금 정치 지도자 중 개헌에 가장 부정적인 사람이 이재명 전 더불어민주당 대표”라며 “이 전 대표가 결심하게 해야 한다”고 했다. 이 전 대표는 지난 23일 열린 민주당 경선 후보 토론회에서 “개헌 문제를 그렇게 시급하게 해야 하는지 의문”이라고 말했다.&lt;br&gt;&lt;br&gt;이들은 개헌을 통해 ‘지방 분권’을 강화해야 한다고 했다. 작은 지자체들을 통합해 규모를 키우고 지방세 징수 등 권한을 부여해야 한다는 얘기다.&lt;br&gt;&lt;br&gt;우 위원장은 “국민의 삶을 바꾸는 건 우리 동네 시청과 군청”이라며 “그동안 중앙의 권력 구조 개편만 논의하니 국민적 공감대를 얻지 못한 것 아니냐”고 했다. &lt;br&gt;&lt;br&gt;성 전 총장은 “프랑스는 2003년 헌법을 개정하면서 지방 분권을 대폭 강화했다”며 “우리도 지나치게 중앙집권적인 국가 구조를 바꿔야 한다”고 했다. 우리나라는 1995년 지방자치를 시작했지만 1987년 제정된 현행 헌법엔 그러한 내용이 반영돼 있지 않다는 게 성 전 총장의 지적이다.&lt;br&gt;&lt;br&gt;최근 여야 대선 후보들이 국회나 대통령실을 세종시로 옮기겠다는 공약을 발표하고 있다. 성 전 총장은 “수도는 서울로 하고 세종은 제2의 수도로 만들자”고 제안했다. 그는 “대검찰청, 감사원은 왜 서울에 있어야 하는지 모르겠다”며 “이런 기구들을 세종으로 옮기면 자연스럽게 제2의 수도가 될 것”이라고 했다. &lt;br&gt;&lt;br&gt;최 시장은 “우리 역사를 보면 고려는 개경, 서경, 동경을 수도로 삼았다”며 “꼭 서울만 고집할 필요는 없다고 본다”고 했다. 그는 “개헌을 통해 양원제를 도입하면서 상원과 외교·국방 등 기능은 서울에, 하원과 내치(內治) 기능은 세종에 두는 것도 방법”이라고 했다. &lt;br&gt;&lt;br&gt;다만 “지자체들이 권한을 넘겨받을 준비가 돼 있느냐”는 시각도 적잖다. 일부 지자체들의 예산 낭비나 지방의회의 도덕적 해이 사례 때문이다.&lt;br&gt;&lt;br&gt;성 전 총장은 “프랑스에 있는 ‘지방 감사원’ 제도를 참고할 필요가 있다”고 했다. 지자체를 감사하는 독립 기구를 만들어 지자체의 예산 집행 등을 따져보자는 것이다. &lt;br&gt;&lt;br&gt;우 위원장은 “지방자치를 도입한 지 올해 30년이 됐다”며 “지자체가 부패할까 봐 권한을 못 준다면 구더기 무서워 장 못 담그는 격 아니겠느냐”고 했다.&lt;br&gt;&lt;br&gt;김동연 경기지사, 한동훈 전 국민의힘 대표 등이 주장하고 있는 4년 중임제 개헌에 대해 정 회장은 “책임총리제나 양원제, 지방 분권 등 대통령의 권한을 나누는 게 핵심이 돼야 한다”며 “4년 중임제만 도입하면 개악(改惡)이 될 가능성이 크다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>손준성 검사장 ‘고발 사주 의혹’ 무죄 확정</title>
       <link>https://www.chosun.com/national/court_law/2025/04/25/AZHA4B7GMJFCHG5NGE6RXTTP3Y/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/04/25/AZHA4B7GMJFCHG5NGE6RXTTP3Y/</guid>
@@ -821,24 +876,6 @@ General of the Army Douglas MacArthur, Supreme Commander for Allied Powers, (Lef
       <description/>
       <pubDate>Thu, 24 Apr 2025 15:53:00 +0000</pubDate>
       <content:encoded>이른바 ‘고발 사주 의혹’으로 재판에 넘겨진 손준성 대구고검 차장검사(검사장)가 24일 대법원에서 무죄를 확정받았다. 더불어민주당이 지난 대선을 앞둔 2021년 말 의혹을 집중 제기하고, 고위공직자범죄수사처(공수처)가 이듬해 5월 기소했는데 약 3년 만에 결국 무죄 판결이 나온 것이다.&lt;br&gt;&lt;br&gt;대법원 1부(주심 노경필 대법관)는 이날 공직선거법 위반 등 혐의로 기소된 손 검사장에게 무죄를 선고한 원심을 확정했다. 대법원은 “원심 판단에 공직선거법의 ‘선거에 영향을 미치는 행위’에 관한 법리를 오해하는 등 판결에 영향을 미친 잘못이 없다”고 밝혔다.&lt;br&gt;&lt;br&gt;이 사건은 윤석열 전 대통령이 검찰총장이던 2020년 4·15 총선을 앞두고 자신과 아내의 명예를 훼손한 혐의로 유시민 전 노무현재단이사장과 최강욱 전 민주당 의원 등을 수사기관에 고발해 달라고 미래통합당(현 국민의힘) 측에 사주했다는 것이 골자다. 손 검사장은 두 차례에 걸쳐 고발장을 당시 미래통합당 총선 후보였던 김웅 전 의원에게 텔레그램으로 전달한 혐의로 기소됐다.&lt;br&gt;&lt;br&gt;1심은 손 검사장의 공무상 비밀 누설 등의 혐의를 유죄로 인정해 징역 1년을 선고했다. 다만 “선거에 영향을 미치진 않았다”며 선거법 위반은 무죄로 판단했다. &lt;br&gt;&lt;br&gt;그러나 2심은 “손 검사장이 고발장 관련 정보의 수집·작성에 관여한 사실은 인정되지만, 고발장을 직접 (김 전 의원에게) 보냈다는 것은 증거가 없다”며 무죄를 선고했다. 재판부는 또 “공수처가 검찰 내부 전산망 등을 압수 수색하며 손 검사장 측의 참여권을 보장하지 않았다”며 핵심 증거를 배제하기도 했다.&lt;br&gt;&lt;br&gt;대법원도 동일하게 판단했다. 한 법조인은 “이 의혹은 공수처가 2021년 출범해 기소한 사건 중 처음 유죄 판결이 나온 사건인데, 결국 무죄로 뒤집혔다”며 “서투르고 무리한 수사였다는 점이 사실로 확인된 셈”이라고 말했다.&lt;br&gt;&lt;br&gt;한편, 손 검사장은 2023년 12월 민주당의 탄핵소추로 직무가 정지된 상태다. 헌법재판소는 작년 4월 “같은 사유로 형사소송이 진행 중”이라며 재판을 정지했는데, 이날 확정 판결에 따라 손 검사장의 탄핵 심판은 곧 재개될 것으로 보인다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[인사] 인사혁신처 외</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2025/04/25/4X7GKNEKD5HGJB7OLIIJUXEWTQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2025/04/25/4X7GKNEKD5HGJB7OLIIJUXEWTQ/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 24 Apr 2025 15:51:00 +0000</pubDate>
-      <content:encoded>▲인사혁신처◇부이사관 승진▷인사혁신국 인사혁신기획과장 신혜라▷인사혁신국 심사임용과장 권영민◇서기관 승진▷대변인실 김윤희▷기획조정관실 기획재정담당관실 조유선▷공무원노사협력관실 노사협력담당관실 안정희▷재해보상정책관실 재해보상정책담당관실 엄현경▷인재채용국 인재정책과 신정남▷인사혁신국 심사임용과 하병기◇과학기술서기관 승진▷윤리복무국 윤리정책과 이경진&lt;br&gt;&lt;br&gt;▲국세청◇서기관 승진&amp;lt;본청&amp;gt;▷대변인실 채진우▷기획재정담당관실 송찬규▷빅데이터센터 박창오▷감사담당관실 권우태▷심사2담당관실 박준배▷역외정보담당관실 이준호 허인영▷국제협력담당관실 최정현▷징세과 장은수▷법무과 안혜정▷법규과 전준희▷소득세과 차지훈▷법인세과 이희범▷공익중소법인지원팀 박운영▷부동산납세과 김준호▷상속증여세과 조상훈▷자본거래관리과 이원주▷조사기획과 황민호▷조사2과 박용관▷국제조사과 이규진▷세원정보과 고당훈▷장려세제과 노원철 이승철▷청장실 김정수&amp;lt;서울지방국세청&amp;gt;▷조사1국 조사1과 이민창▷조사1국 조사3과 김재백▷조사3국 조사2과 이상언▷조사4국 조사3과 이방원▷국제조사관리과 정규명▷운영지원과 유지민&amp;lt;중부지방국세청&amp;gt;▷부가가치세과 김성미▷조사1국 조사1과 권순락▷조사2국 조사관리과 김종민&amp;lt;인천지방국세청&amp;gt;▷감사관 김민&amp;lt;대전지방국세청&amp;gt;▷운영지원과장 양용산&amp;lt;광주지방국세청&amp;gt;▷조사2국 조사관리과장 박진찬&amp;lt;대구지방국세청&amp;gt;▷운영지원과장 최종기&amp;lt;부산지방국세청&amp;gt;▷부가가치세과 조현진▷법인세과 차무환▷운영지원과 장영호◇과학기술서기관 승진▷국세청 홈택스1담당관실 윤소영&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[플라자] 사단법인 융합상생포럼 심포지엄 개최</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2025/04/25/XMTH6FXDFZFP5EUQDZJNH2KOUI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2025/04/25/XMTH6FXDFZFP5EUQDZJNH2KOUI/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 24 Apr 2025 15:51:00 +0000</pubDate>
-      <content:encoded>▲사단법인 융합상생포럼(이사장 강석진)은 오는 30일 한국프레스센터에서 ‘분열된 한국사회의 화합과 융합상생을 통한 행복한 나라 만들기 운동’이라는 주제로 심포지엄을 개최한다. 이배용 국가교육위원회 위원장, 이희범 부영그룹 회장, 손욱 세종국가경영연구원 이사장 등이 강연자로 나선다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>권오섭 회장, 고려대에 또 30억… 14년간 누적 기부금 251억원</title>
@@ -854,15 +891,6 @@ General of the Army Douglas MacArthur, Supreme Commander for Allied Powers, (Lef
       </media:content>
     </item>
     <item>
-      <title>[부음] 김상범 前 동아대병원장 별세 외</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2025/04/25/HYTAWL2QHVF7DORI66VSE7KNVU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2025/04/25/HYTAWL2QHVF7DORI66VSE7KNVU/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 24 Apr 2025 15:51:00 +0000</pubDate>
-      <content:encoded>▲&lt;b&gt;김상범&lt;/b&gt; 前 동아대병원장 별세, &lt;b&gt;조우현&lt;/b&gt; 비엔그룹 대표 장인상=22일18시30분 동아대병원, 발인 25일8시30분, (051)-256-7017&lt;br&gt;&lt;br&gt;▲&lt;b&gt;진재관&lt;/b&gt; 별세, &lt;b&gt;진재근&lt;/b&gt; 성원건설 회장 동생상=24일2시10분 대구상례원, 발인 26일8시, (053)952-4000&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>이재명도 “만나자”… 지금 한국서 가장 주가 높은 사람</title>
       <link>https://www.chosun.com/national/people/2025/04/25/7LR35O34SNDJFOXJBKCUMOWGKY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/people/2025/04/25/7LR35O34SNDJFOXJBKCUMOWGKY/</guid>
@@ -873,24 +901,6 @@ General of the Army Douglas MacArthur, Supreme Commander for Allied Powers, (Lef
       <media:content url="https://www.chosun.com/resizer/v2/DXWYXO4F5BGU5DUG6WCN7MU2FI.jpg?auth=83a0caaacda5f8235fc2c399b43c15a0b12a18ff3d41131140491e97993fb7a0&amp;smart=true&amp;width=3150&amp;height=2099" type="image/jpeg" height="2099" width="3150">
         <media:description type="plain">23일 서울 여의도 주한미국상공회의소(AMCHAM) 사무실에서 미국과의 통상회담에 관해 이야기하는 제임스킴 주한미국상공회의소 회장./ 조인원 기자</media:description>
       </media:content>
-    </item>
-    <item>
-      <title>[우리 아이 튼튼하게] 감기 증상 없는데 열 나면 요로 감염 의심해 보세요</title>
-      <link>https://www.chosun.com/culture-life/culture_general/2025/04/25/S46BNFODYVBMLMRXQX4LVJFAD4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/culture-life/culture_general/2025/04/25/S46BNFODYVBMLMRXQX4LVJFAD4/</guid>
-      <dc:creator>백정현 우리아이들병원 병원장</dc:creator>
-      <description/>
-      <pubDate>Thu, 24 Apr 2025 15:50:00 +0000</pubDate>
-      <content:encoded>아기가 열이 날 때 가장 흔한 원인은 상기도(코·목구멍 등) 감염이나 장염이에요. 대부분은 발열과 함께 기침·콧물·구토·설사 같은 증상을 동반하게 됩니다. 그런데 아기가 특별한 증상 없이 발열만 있는 경우도 있는데, 이때는 요로 감염 가능성이 있으니 소변 검사를 받아야 해요. 영유아 요로 감염은 발열 환자의 5~10%를 차지합니다. 발열 외에도 소변에서 좋지 않은 냄새가 나거나 기저귀에 피가 묻어날 때, 혹은 아이가 통증을 느끼고 보챌 때도 요로 감염을 의심할 수 있어요.&lt;br&gt;&lt;br&gt;요로 감염은 항문 주변의 세균에 의해 생겨요. 이 때문에 많은 부모가 대변 본 기저귀를 바로 갈지 않았거나, 아이 청결 유지를 못 해서 병에 걸렸다는 죄책감을 갖곤 해요. 하지만 꼭 그렇지는 않다는 점을 기억해 주세요. &lt;br&gt;&lt;br&gt;요로 감염이 돌 이전에 반복되는 경우에는 ‘방광 요관 역류’ 같은 질환이 있는 경우가 많아요. 이는 방광의 소변이 요관과 콩팥으로 거꾸로 올라가는 현상을 말해요. 1~5단계로 나누는데, 역류가 낮은 단계에는 기다리면 저절로 좋아질 수 있어요. 하지만 요로 감염이 반복되면 약을 복용하거나 심한 경우 수술이 필요한 경우도 있습니다.&lt;br&gt;&lt;br&gt;여아들은 생식기의 요도가 짧고 곧으면서 항문과의 거리가 짧아 요로 감염에 취약해요. 남아들은 포경 상태일 때 요로 감염이 올 수 있어요. 또한 변비가 있거나 대소변 훈련기에 생긴 소변을 참는 습관 때문에 요로 감염이 생길 수 있어요.&lt;br&gt;&lt;br&gt;요로 감염 진단을 받으면 치료는 항생제로 진행됩니다. 항생제는 먹는 약(경구약)과 정맥으로 투여하는 주사제가 있는데, 아기의 연령과 몸 상태를 종합적으로 고려해 통원 치료를 할지, 입원 치료가 필요한지 의사가 판단하게 돼요. 항생제 치료는 보통 7일에서 14일 정도 진행됩니다.&lt;br&gt;&lt;br&gt;요로 감염을 예방하려면 평소 청결한 배변 습관과 위생 관리가 중요합니다. 기저귀는 자주 갈아주고, 청결을 잘 유지해 주세요. 아이가 대소변을 가릴 수 있게 되면, 배변 후 잘 닦는 방법을 알려주세요. 또한 화장실에 가고 싶을 때는 참지 말고 즉시 화장실에 가 배변하도록 지도해 주세요.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[알립니다] 우리 아이 출생 소식 액자에 담아 간직하세요</title>
-      <link>https://www.chosun.com/special/announcement/2025/04/25/Y2DKPIQREJD7VLCPEP753HMAJM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/special/announcement/2025/04/25/Y2DKPIQREJD7VLCPEP753HMAJM/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 24 Apr 2025 15:50:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/J6IY256EQNFERDQ6FWQCYPCGR4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/조선일보 리프린트&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;조선일보에 실린 아기 출생 소식, 본인이나 지인의 인터뷰, 사진 기사를 영원히 추억으로 간직하세요. 조선일보는 독자가 원하는 신문 지면을 그대로 고급 액자에 담아 드리는 ‘조선일보 리프린트’ 서비스를 합니다. 매주 ‘아이가 행복입니다’ 지면에 소개된 한 가족을 추첨해 리프린트를 선물로 드립니다. 지난 18일 ‘우리 아이 이름으로 초록우산에 기부했어요’ 코너에 실린 최예령&amp;lt;사진&amp;gt;군이 이번 주 주인공입니다. 자세한 내용은 홈페이지(&lt;a href="http://reprint.chosun.com/"&gt;reprint.chosun.com&lt;/a&gt;)에서 확인할 수 있습니다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[오늘의 날씨] 2025년 4월 25일</title>
@@ -972,17 +982,6 @@ General of the Army Douglas MacArthur, Supreme Commander for Allied Powers, (Lef
       <description/>
       <pubDate>Thu, 24 Apr 2025 09:02:22 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/V442XGSYU3K3JCJ4TF3XXCTIY4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 을지로 IBK 기업은행 본사. /기업은행 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;882억원대 부당 대출 의혹을 수사하는 검찰이 IBK기업은행 전·현직 직원에 대해 구속영장을 청구한 것으로 24일 확인됐다. &lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 서울중앙지검 반부패수사1부(부장 이준동)는 지난 23일 기업은행 전직 직원 김모씨와 현직 직원 조모씨에 대해 불법대출 관련 혐의로 구속영장을 청구했다. &lt;br&gt;&lt;br&gt;검찰은 김씨와 조씨가 허위 사업보고서를 작성해 부당대출을 일으키는 방식으로 수십차례 범행을 저지른 것으로 보고 구속영장을 청구한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;앞서 발표된 금감원 검사 결과, 14년간 근무하다 퇴직한 김씨는 관련자 28명과 공모해 51회에 걸쳐 785억원의 부당 대출을 받았다. 2017년 6월부터 작년 7월까지 대출 관련 증빙 서류나 상환 능력 관련 자료를 허위로 작성하는 방식이었다. 김씨의 아내인 기업은행 대출심사센터 직원 A씨도 부당 대출에 관여한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;김씨는 부동산 개발사와 함께 미분양 상가에 대한 부당 대출도 알선했다는 것이 금감원 검사 결과다. 자신의 입사 동기들이 지점장으로 있는 서울 지점 세 곳에 대출 신청을 하고 그 대가로 12억원을 수수한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;앞서 기업은행은 지난 1월 240억여 원 규모의 배임 사고가 발생했다고 공시했다. 금융감독원은 현장검사에 착수했고, 부당대출 규모는 882억원에 달한다고 발표했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“열흘 전 살인을 저질렀다”…설악산 둘레길에서 60대 여성 살해한 50대 남성 자수</title>
-      <link>https://www.chosun.com/national/incident/2025/04/24/B7L3OCJ24NCXTHAH64S5WXW6P4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/04/24/B7L3OCJ24NCXTHAH64S5WXW6P4/</guid>
-      <dc:creator>강릉=정성원 기자</dc:creator>
-      <description>설악산에서 60대 여성을 살해한 50대 남성이 경찰에 자수했다.
-강원 강릉경찰서는 살인 혐의로 50대 A씨를 붙잡아 조사 중이라고 24일 밝혔다.
-A씨는 이날 0시쯤 “열흘 전 설악산 둘레길에서 살인을 저질렀다”며 경찰에 자수했다.</description>
-      <pubDate>Thu, 24 Apr 2025 08:04:43 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/L4GEXC5HOZAC5NA5TDDI7RQ23U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;설악산에서 60대 여성을 살해한 50대 남성이 경찰에 자수했다.&lt;br&gt;&lt;br&gt;강원 강릉경찰서는 살인 혐의로 A씨를 붙잡아 조사 중이라고 24일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 이날 0시쯤 “열흘 전 설악산 둘레길에서 살인을 저질렀다”며 경찰에 자수했다. 경찰은 이날 오전 6시 58분쯤 속초시 설악산국립공원 한 둘레길에서 숨져 있는 60대 B씨를 발견했다.&lt;br&gt;&lt;br&gt;A씨는 경찰에서 “B씨와 극단적 선택을 하기로 했으나 B씨를 살해하고 혼자 살아남았다”고 경찰에 진술한 것으로 알려졌다. 이 둘은 사업적으로 관계가 있던 것으로 전해졌다.&lt;br&gt;&lt;br&gt;경찰은 A씨에 대한 조사를 마치는 대로 구속영장 청구 여부를 결정할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>5명 사상 울산 택시사고 “브레이크 대신 엑셀”…운전 미숙 결론</title>
