@@ -13,6 +13,33 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>달리는 개발자들의 특별한 하루… “러닝으로 끈기 키우고 팀워크 다져요!”</title>
+      <link>https://www.chosun.com/national/national_general/2025/04/27/MCMCWA7NSNAHDJFL43LCG5CE6Q/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/27/MCMCWA7NSNAHDJFL43LCG5CE6Q/</guid>
+      <dc:creator>장민석 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 27 Apr 2025 05:06:32 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7VSLRJXWDFCLDNDMPKFEKRGLIU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;27일 서울하프마라톤에 나선 삼성전자 DS부문 설비기술연구소 제어 SW 플랫폼파트 직원들과 가족. 왼쪽부터  황기덕, 정우정, 최준영, 안혜빈, 정주용, 이재문, 이기훈씨다. / 조인원 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“설비는 멈추지 않는다! 우리도 멈추지 않는다!”&lt;br&gt;&lt;br&gt;27일 서울하프마라톤에 참가한 삼성전자 DS부문 설비기술연구소 제어 SW 플랫폼파트 직원들의 구호다. 이기훈(40) 파트장을 비롯해 이재문(44), 안혜빈(31), 황기덕(30)씨가 10km 부문에 도전장을 던졌다. &lt;br&gt;&lt;br&gt;참가 신청이 늦어 이날 뛰진 못했지만, 응원을 하기 위해 출동한 정우정(35)씨와 최준영(29)씨까지 파트원 12명의 절반인 6명이 현장에 모였다. 안혜빈씨는 나머지 직원 6명의 이름도 빠짐없이 넣은 응원용 플래카드를 마련해 와 분위기를 띄웠다. &lt;br&gt;&lt;br&gt;이기훈 파트장은 “반도체 설비 제어 소프트웨어 개발자들은 고도의 집중력을 발휘해 정밀한 시스템을 다루는 만큼 평소 수영이나 테니스, 스쿼시 등 다양한 운동으로 체력을 단련한다”며 “그중 어려운 일이 닥쳤을 때 끈질기게 해결하는 지구력을 키우는 데는 러닝 만한 것이 없다”며 ‘달리기 예찬론’을 펼쳤다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FBEXXHAM3RHZXKEBBXAQGAXSLM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;27일 서울하프마라톤에 나선 삼성전자 DS부문 설비기술연구소 제어 SW 플랫폼파트 직원들과 가족.  / 조인원 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;우연히 벌어진 스쿼시 대결이 모두를 나서게 한 계기가 됐다. 팀 막내 최준영씨에게 완패한 마라톤 마니아 맏형 이재문씨가 “진짜 운동은 마라톤이지!”라며 함께 뛰자고 제안했고, 평소 달리기를 즐기던 동료들이 하나둘 뜻을 모으면서 자연스럽게 단합 대회가 됐다. &lt;br&gt;&lt;br&gt;이들은 점심 시간마다 사내 헬스장 트랙에서 꾸준히 뛰면서 대회를 준비했다. 안혜빈씨의 남편 정주용(34)씨가 ‘깍두기’로 가세했다. 남편의 ‘외조’를 받으며 완주한 안혜빈씨는 “개발 업무가 고되지만 달리기로 스트레스도 날리고, 동료와도 한층 더 가까워졌다”고 말했다.&lt;br&gt;&lt;br&gt;레이스를 끝낸 이들의 얼굴에 웃음이 걸린 건 해장국에 수육을 곁들인 뒤풀이가 기다리고 있기 때문. “회식까지 완주합시다!” 이기훈 파트장의 외침에 환호가 쏟아졌다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘콘서트 티켓 판매’ 등 미끼... 2600만원 가로챈 20대, 구속 송치</title>
+      <link>https://www.chosun.com/national/regional/2025/04/27/AHG4NIQIOZHRFAQJVMT5KPZFCQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/04/27/AHG4NIQIOZHRFAQJVMT5KPZFCQ/</guid>
+      <dc:creator>우정식 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 27 Apr 2025 04:56:53 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/L4GEXC5HOZAC5NA5TDDI7RQ23U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;청주 흥덕경찰서는 중고 거래 사이트 등에 허위 판매 게시글을 올리고, 구매자들로부터 물품 대금을 받아 가로챈 20대 남성을 사기 혐의로 구속 송치했다고 27일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 1월부터 이달까지 인터넷 중고 거래 사이트 등에 콘서트 티켓과 중고 물품 등을 판매한다는 허위 게시글을 올린 뒤 구매자 36명으로부터 총 2660만원을 받아 가로챈 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;경찰은 인터넷 사기 피해를 당하지 않으려면 공식 거래 플랫폼을 이용하고 플랫폼에서 제공하는 안전 결제 시스템을 활용해야 한다고 당부했다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “사기 피해가 발생하면 바로 경찰에 신고하고 판매 게시글과 대화 내용, 계정 정보 등 증거 자료를 확보해야 한다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>법원 “퇴학 처분한 학교, 사유 구체적으로 제시 안해…절차상 하자 중대해 취소해야”</title>
+      <link>https://www.chosun.com/national/court_law/2025/04/27/E365Z7D4ZVB25CEGSAAT3H7LMI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/04/27/E365Z7D4ZVB25CEGSAAT3H7LMI/</guid>
+      <dc:creator>김나영 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 27 Apr 2025 03:33:23 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QF6THBECEPRIEPN7RLB7YOOR54.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울행정법원에 '대한민국 법원' 로고가 붙어 있다/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;퇴학 처분 과정에서 사유를 명확히 특정하지 않았으면 절차상 중대한 하자가 있어 퇴학이 취소되어야 한다는 법원 판단이 나왔다. 사유를 구체적으로 제시하지 않아 징계 대상자인 학생이 방어권을 제대로 행사하지 못해 위법하다는 것이다.&lt;br&gt;&lt;br&gt;서울행정법원 제2부(재판장 고은설)는 최근 A군과 그의 부모가 “퇴학 처분을 취소하라”며 B학교장을 상대로 낸 징계 무효 및 취소 청구에서 원고 일부승소로 판결했다고 27일 밝혔다. A군은 2023년 당시 B학교 2학년에 재학 중이던 학생으로, 2023년 8월 학교 축제가 열리던 강당에서 문을 발로 차고, 무대에서 공연하는 여학생들에게 성희롱 발언을 하는 등 소란을 피워 같은 해 9월 퇴학처분을 받았다. &lt;br&gt;&lt;br&gt;A군의 부모는 절차상의 문제를 들어 이같은 퇴학 처분이 위법하다며 행정 소송을 냈다. 먼저 이들은 “퇴학 처분서에 위반 항목(기본품행 미준수)만 기재돼 있을 뿐, 처분의 근거와 이유가 전혀 제시돼 있지 않아 행정절차법 제23조 위반”이라고 주장했다. 해당 조항은 행정 처분을 할 때는 당사자에게 그 근거와 이유를 제시해야 한다고 규정하고 있다. 또 특별선도위원회가 퇴학 처분을 결정할 때 출석위원 2/3 이상의 찬성이 필요한데 이를 충족하지 못했다고도 주장했다.&lt;br&gt;&lt;br&gt;법원은 A군 측의 손을 들어줬다. 재판부는 “특별선도위에서 다른 학생들의 진술서나 설문조사에 적힌 내용과 피고가 징계사유로 삼는 내용이 명확히 구분되지 않은 채 논의가 이어지다가 뒤늦게 처분 사유를 정리했다”며 “처분의 원인이 되는 사실이 구체적으로 기재돼 있지 않아 원고의 방어권 행사에 현저한 지장이 초래됐다”고 판단했다. 이어 “퇴학을 결정한 특별선도위에서는 재적 위원 7명 중 찬성 4명으로 의결했는데, 이는 출석위원 2/3 이상의 찬성을 요구하는 학교 규정을 충족하지 못해 중대한 절차상 하자가 있다”라며 퇴학처분을 취소해야 한다고 했다.&lt;br&gt;&lt;br&gt;다만 재판부는 “축제 과정에서 원고가 행한 일련의 행위에 대해 징계의 대상이 되는 것으로 오인할 만한 객관적인 사정이 있다고 보인다”며 퇴학처분을 무효로 해달라는 A군 측 주장은 받아들이진 않았다.&lt;br&gt;&lt;br&gt;한편 A군 측은 퇴학당하기 직전 교칙을 위반해 출석정지 5일 징계를 받은 것에 대해서도 무효 및 취소가 돼야 한다고 주장했지만, 재판부는 이를 모두 기각했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>송도 도심서 발견된 온몸 털 빠진 동물...정체는?</title>
       <link>https://www.chosun.com/national/national_general/2025/04/27/YZUO6ZD4QFC7RGPBOPB7U2WN4M/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/27/YZUO6ZD4QFC7RGPBOPB7U2WN4M/</guid>
@@ -868,28 +895,6 @@ General of the Army Douglas MacArthur, Supreme Commander for Allied Powers, (Lef
       <content:encoded>음주 운전을 하다 교통사고를 낸 뒤 도주한 혐의 등으로 구속 기소된 트로트 가수 김호중(34)씨가 25일 항소심에서도 징역 2년 6개월을 선고받았다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G5UWGNELU5CMLN5NSG44FC5YB4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;음주운전 뺑소니 혐의를 받는 가수 김호중이 작년 5월 서울중앙지방법원에서 열린 구속 전 피의자 심문(영장실질심사)을 마친 뒤 호송차로 향하고 있다. /스포츠조선&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>계단으로 29층 배달했는데 취소… 갑질 논란에 라이더가 한 말</title>
-      <link>https://www.chosun.com/national/national_general/2022/11/18/FLUJQAKRK5E3VAB6WJ6WXQRSGQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2022/11/18/FLUJQAKRK5E3VAB6WJ6WXQRSGQ/</guid>
-      <dc:creator>박선민 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 18 Nov 2022 07:32:41 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LC2M4DWGEAFN7MHRS74XALNSV4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/JTBC&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;아파트 엘리베이터가 고장난 아파트 29층으로 찜닭을 배달받은 뒤 취소한 고객의 사연이 전해져 논란이 일고 있는 가운데, 당시 배달을 한 라이더가 말문을 열었다.&lt;br&gt;&lt;br&gt;라이더 A씨는 18일 지역 온라인 커뮤니티에 글을 올리고 당시 상황을 상세하게 설명했다. A씨는 손님 B씨와 찜닭집 사장 C씨 사이에서 전달받은 사항을 그대로 이행하다 억울한 상황을 겪게 됐다고 했다. A씨는 “당일 음식을 픽업하고 배달지에 도착했다”며 “1층에서 들어가지 못한 채로 호출을 눌렀으나 응답이 없어 B씨에게 전화를 바로 드렸고, B씨와 통화 연결이 되지 않아 (C씨가 아닌) 저희 측 관리자에게 해당 사항을 보고한 뒤 옆 단지에 배달을 하러 다녀왔다”고 했다.&lt;br&gt;&lt;br&gt;A씨는 옆 단지 배달을 다녀온 뒤 한 입주민 뒤를 따라 아파트에 들어갈 수 있었다. 이후 엘리베이터가 고장났다는 사실을 알게 됐다. 그는 “엘리베이터가 고장 나 B씨에게 전화를 걸었으나 연결이 되지 않아 C씨에게 전화했다. C씨는 ‘잠시만 기달려달라‘고 했다”고 설명했다. 마냥 전화를 기다릴 수 없었던 A씨는 결국 배달을 위해 계단을 올라가기 시작했다. A씨는 “사실 너무 힘들었지만, 제 상황에서 B씨에게 음식을 가져다드리는 게 맞다고 생각되어 계단을 올라갔다”고 했다.&lt;br&gt;&lt;br&gt;결국 A씨는 29층 계단을 모두 올라 배달을 완료했고, 걸어 내려오던 중 14층쯤의 위치에서 B씨로부터 “(배달 음식을) 취소했으니 가져가라”는 연락을 받았다. A씨가 “네? 지금 내려가고 있는데…”라고 답하자 돌아온 답은 “취소했으니 다시 가져가라”였다. 이에 A씨는 14층에서 다시 29층으로 걸어 올라가 음식을 수거한 뒤 식당에 전달했다.&lt;br&gt;&lt;br&gt;A씨는 “여기까지가 그날 있었던 일을 사실대로 적은 내용”이라며 “B씨가 음식을 어떤 사유로 취소했는지, 사장과 무슨 일이 있었는지 자세히 알지 못한다”고 했다. 이어 “그저 픽업한 음식을 배달했고, 취소가 된 음식을 가게에 다시 갖다줬을 뿐”이라며 “책임감을 갖고 열심히 일하려던 게 이렇게 되어 저까지 논란의 중심이 된 게 너무 속상하다”고 덧붙였다.&lt;br&gt;&lt;br&gt;앞서 JTBC ‘사건반장‘은 지난 14일 이 사건을 보도했다. 찜닭을 주문한 B씨가 A씨에게 엘리베이터가 고장 난 아파트 29층까지 걸어서 올라오라고 했다는 내용이었다. A씨가 배달을 마치고 14층까지 내려갔을 때 B씨는 ‘배송시간 지연‘을 이유로 주문 취소를 요구했고, 결국 배달원이 다시 올라가 음식을 회수했다고 했다. 이후 온라인 커뮤니티에는 A씨가 배달앱을 통해 해당 찜닭 가게에 별점 1점을 남긴 사진까지 공유됐다.&lt;br&gt;&lt;br&gt;이후 B씨가 일부 보도 내용이 사실과 다르다고 반박하면서 논란이 불거졌다. B씨는 A씨가 아파트 앞에 도착했을 때 엘리베이터가 고장났다는 사실을 인지하지 못하고 있었으며, C씨 측이 마지막 통화에서 언성을 높이고 욕과 막말을 해 감정이 너무 상한 상태였다고 주장했다.&lt;br&gt;&lt;br&gt;이에 C씨는 지난 17일 온라인 커뮤니티를 통해 “사건 자체를 제보해 이슈가 되게 만든 건 제가 맞지만 이렇게 일상생활이 어려울 정도로 사람의 마음을 아프게 하고 싶진 않았다”며 “이제 와서 이런 말씀을 드리는 것이 우스울지도 모르겠지만 당사자와 저는 원만하게 화해를 했고 배달기사와도 좋게 이야기가 오고 갔을 것으로 생각한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/LC2M4DWGEAFN7MHRS74XALNSV4.jpg?auth=2fa348e48d2c8a48ad4ff20b58571217aff8863fc5d59fc4f9d86a00e613f080&amp;smart=true&amp;width=559&amp;height=309" type="image/jpeg" height="309" width="559">
-        <media:description type="plain">/JTBC</media:description>
-        <media:credit role="author" scheme="urn:ebu"/>
-      </media:content>
-    </item>
-    <item>
-      <title>[속보] 서울 강남 코엑스서 화재 추정 연기…관람객 대피 </title>
-      <link>https://www.chosun.com/national/national_general/2025/04/25/CSCDUHZVTRHFFPM44NL4CUJXL4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/25/CSCDUHZVTRHFFPM44NL4CUJXL4/</guid>
-      <dc:creator>김나연 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 25 Apr 2025 02:33:34 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SUTCGF2G55O23FGHZIW3J3SRFQ.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;25일 서울 강남구 코엑스 내 입점한 식당에서 화재로 연기가 발생하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;25일 오전 서울 강남구 삼성동 코엑스 2층에 입점한 식당에서 화재가 발생해 소방 당국이 진화 작업 중이다.&lt;br&gt;&lt;br&gt;소방 관계자는 “오늘 오전 11시 6분에 신고가 접수됐다”며 “인명 피해 등은 확인 중”이라고 했다. 소방당국은 소방차량 20대, 소방관 71명을 동원해 화재 진압에 나섰고 오전 11시 42분쯤 초진을 완료했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HWPBPCE7QZGTLJYT6I727FI4YQ.png"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;코엑스 내부에 있던 시민과 인근 상업시설 근무자 등 인파 수백명이 건물 바깥으로 대피했다. 이 불로 오전 11시 44분 기준으로 영동대로 왼편 코엑스~삼성역 구간 하위 차로가 통제되고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[속보] 문재인 전 대통령 뇌물 사건, 서울중앙지법 형사21부 배당</title>
       <link>https://www.chosun.com/national/court_law/2025/04/25/6FFOVT6QG5G37MGYADRPODLPSA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/04/25/6FFOVT6QG5G37MGYADRPODLPSA/</guid>
@@ -977,19 +982,6 @@ General of the Army Douglas MacArthur, Supreme Commander for Allied Powers, (Lef
       <description/>
       <pubDate>Thu, 24 Apr 2025 15:53:00 +0000</pubDate>
       <content:encoded>이른바 ‘고발 사주 의혹’으로 재판에 넘겨진 손준성 대구고검 차장검사(검사장)가 24일 대법원에서 무죄를 확정받았다. 더불어민주당이 지난 대선을 앞둔 2021년 말 의혹을 집중 제기하고, 고위공직자범죄수사처(공수처)가 이듬해 5월 기소했는데 약 3년 만에 결국 무죄 판결이 나온 것이다.&lt;br&gt;&lt;br&gt;대법원 1부(주심 노경필 대법관)는 이날 공직선거법 위반 등 혐의로 기소된 손 검사장에게 무죄를 선고한 원심을 확정했다. 대법원은 “원심 판단에 공직선거법의 ‘선거에 영향을 미치는 행위’에 관한 법리를 오해하는 등 판결에 영향을 미친 잘못이 없다”고 밝혔다.&lt;br&gt;&lt;br&gt;이 사건은 윤석열 전 대통령이 검찰총장이던 2020년 4·15 총선을 앞두고 자신과 아내의 명예를 훼손한 혐의로 유시민 전 노무현재단이사장과 최강욱 전 민주당 의원 등을 수사기관에 고발해 달라고 미래통합당(현 국민의힘) 측에 사주했다는 것이 골자다. 손 검사장은 두 차례에 걸쳐 고발장을 당시 미래통합당 총선 후보였던 김웅 전 의원에게 텔레그램으로 전달한 혐의로 기소됐다.&lt;br&gt;&lt;br&gt;1심은 손 검사장의 공무상 비밀 누설 등의 혐의를 유죄로 인정해 징역 1년을 선고했다. 다만 “선거에 영향을 미치진 않았다”며 선거법 위반은 무죄로 판단했다. &lt;br&gt;&lt;br&gt;그러나 2심은 “손 검사장이 고발장 관련 정보의 수집·작성에 관여한 사실은 인정되지만, 고발장을 직접 (김 전 의원에게) 보냈다는 것은 증거가 없다”며 무죄를 선고했다. 재판부는 또 “공수처가 검찰 내부 전산망 등을 압수 수색하며 손 검사장 측의 참여권을 보장하지 않았다”며 핵심 증거를 배제하기도 했다.&lt;br&gt;&lt;br&gt;대법원도 동일하게 판단했다. 한 법조인은 “이 의혹은 공수처가 2021년 출범해 기소한 사건 중 처음 유죄 판결이 나온 사건인데, 결국 무죄로 뒤집혔다”며 “서투르고 무리한 수사였다는 점이 사실로 확인된 셈”이라고 말했다.&lt;br&gt;&lt;br&gt;한편, 손 검사장은 2023년 12월 민주당의 탄핵소추로 직무가 정지된 상태다. 헌법재판소는 작년 4월 “같은 사유로 형사소송이 진행 중”이라며 재판을 정지했는데, 이날 확정 판결에 따라 손 검사장의 탄핵 심판은 곧 재개될 것으로 보인다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>권오섭 회장, 고려대에 또 30억… 14년간 누적 기부금 251억원</title>
-      <link>https://www.chosun.com/national/people/2025/04/25/OIIJ3UPNMZEXJD4RAT45XJDEL4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/04/25/OIIJ3UPNMZEXJD4RAT45XJDEL4/</guid>
-      <dc:creator>김혜민 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 24 Apr 2025 15:51:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CANPAOO77SZQPQBGZ4ZY4H6AGA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;마스크팩 제조업체 엘앤피코스메틱 권오섭 대표/조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;고려대는 졸업생 권오섭(66·지질학과 78학번·사진) 엘앤피코스메틱 회장이 30억원을 기부했다고 24일 밝혔다. 권 회장은 2011년 모교인 고려대에 이과대학 장학금 명목 1000만원 기부금 약정을 시작으로 최근 14년간 기부를 이어왔다. 2016년 건립 기금 120억원, 2023년에는 의학발전기금으로 50억원을 기부했다. 이 밖에도 체육발전기금(10억원), 럭비부 지원(1억원), 외국인 학생 장학금(1억2000만원)도 기부했다. 지금까지 그가 고려대에 보낸 기부금은 총 251억원이다. 권 회장은 2024년 ‘자랑스러운 고대인상’을 받았다.&lt;br&gt;&lt;br&gt;이번 기부금은 고려대 세종캠퍼스 학생회관 건립(10억원)과 고려대학교 의료원 발전기금(20억원)으로 쓰일 예정이다. 고려대는 “학생회관 건립으로 학생들의 학교 생활이 윤택해지고, 의료원 발전기금으로 미래 의학 연구와 첨단 의료 기반 시설이 구축될 것으로 기대한다”고 했다. 권 회장은 “후배들에게 도움이 되고자 늘 마음을 써왔다. 앞으로도 모교 인재 양성을 위해 적극 지원하겠다”고 밝혔다. 권 회장의 요청으로 기부식은 열리지 않은 것으로 전해졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/CANPAOO77SZQPQBGZ4ZY4H6AGA.jpg?auth=b8e4bccc179747916ba98b6827ad78738e345363e214106abd0cced0ccd67795&amp;smart=true&amp;width=516&amp;height=565" type="image/jpeg" height="565" width="516">
-        <media:description type="plain">마스크팩 제조업체 엘앤피코스메틱 권오섭 대표/조선DB</media:description>
-        <media:credit role="author" scheme="urn:ebu">김연정 객원기자</media:credit>
-      </media:content>
     </item>
     <item>
       <title>5명 사상 울산 택시사고 “브레이크 대신 엑셀”…운전 미숙 결론</title>
