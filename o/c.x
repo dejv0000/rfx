@@ -13,6 +13,43 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>서울 강남 코엑스 식당서 화재… 직장인·이용객 대피 </title>
+      <link>https://www.chosun.com/national/national_general/2025/04/25/CSCDUHZVTRHFFPM44NL4CUJXL4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/25/CSCDUHZVTRHFFPM44NL4CUJXL4/</guid>
+      <dc:creator>김나연 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 25 Apr 2025 02:33:34 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SUTCGF2G55O23FGHZIW3J3SRFQ.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;25일 서울 강남구 코엑스 내 입점한 식당에서 화재로 연기가 발생하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;25일 오전 서울 강남구 삼성동 코엑스 2층에 입점한 식당에서 화재가 발생해 소방 당국이 진화 작업 중이다.&lt;br&gt;&lt;br&gt;소방 관계자는 “오늘 오전 11시 6분에 신고가 접수됐다”며 “인명 피해 등은 확인 중”이라고 했다. 소방당국은 소방차량 20대, 소방관 71명을 동원해 화재 진압에 나섰고 오전 11시 42분쯤 초진을 완료했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HWPBPCE7QZGTLJYT6I727FI4YQ.png"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;코엑스 내부에 있던 시민과 인근 상업시설 근무자 등 인파 수백명이 건물 바깥으로 대피했다. 이 불로 오전 11시 44분 기준으로 영동대로 왼편 코엑스~삼성역 구간 하위 차로가 통제되고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>출발 직전 취소 얌체족 극성에... 주말·휴일 기차표 위약금 올려</title>
+      <link>https://www.chosun.com/national/national_general/2025/04/27/GZUATP25ZNDMVDTTKVJGYTZ4RE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/27/GZUATP25ZNDMVDTTKVJGYTZ4RE/</guid>
+      <dc:creator>표태준 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 27 Apr 2025 12:11:55 +0000</pubDate>
+      <content:encoded>여러 표를 예약한 뒤 마음에 드는 시간에 골라 타거나 옆 좌석에 다른 사람이 앉지 못하도록 열차표를 사재기한 후 출발 직전 취소해 환불받는 ‘얌체족’ 행태를 방지하기 위해 KTX와 SRT 등 열차 위약금을 인상한다.&lt;br&gt;&lt;br&gt;국토교통부는 오는 5월 28일부터 주말(금~일)과 공휴일 열차 취소 수수료 기준을 강화하겠다고 27일 밝혔다. 기존에는 위약금 수준이 낮아 출발 직전에 환불하는 사례가 잦았다. 이 때문에 좌석이 낭비되는 경우가 많았다며 수수료를 올려 좌석 회전율을 높이겠다는 것이다.&lt;br&gt;&lt;br&gt;앞으로 주말과 공휴일 열차를 이용할 땐 출발 시각을 기준으로 2일 전까지는 400원, 1일 전 5%, 출발 당일 3시간 전까지 10%, 3시간 후~출발 시각 전까지는 20%로 취소 수수료가 강화된다. 현재는 출발 1일 전까지는 400원, 출발 전까지는 최대 10%의 수수료가 부과되고 있다.&lt;br&gt;&lt;br&gt;승차권 없이 탑승할 때 부과되는 부가 운임 기준도 강화된다. 부가 운임은 부정 승차를 방지하고 차량 내 혼잡도를 완화하기 위해 기준 운임에 추가로 부과하는 운임이다. 현재 부가 운임은 기준 운임의 50%지만, 이를 100%로 상향 조정한다. 이에 따라 서울~부산 구간을 승차권 없이 탑승할 경우 열차에서 내야 하는 금액은 8만9700원에서 11만9600원으로 올라간다. 강화된 부가 운임 기준은 오는 10월 1일부터 시행된다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/AZZF4VFQRRJKZOYM6I5FNAGQPQ.jpg?auth=2f4712d009228beda1b6750b863a459c18cdb694036c3e0a831fd093f9b3111c&amp;smart=true&amp;width=5000&amp;height=3488" type="image/jpeg" height="3488" width="5000">
+        <media:description type="plain">&lt;YONHAP PHOTO-4089&gt; 코레일 철도 요금 인상 추진, KTX 17% 인상할 듯
+    (서울=연합뉴스) 황광모 기자 = 26일 서울 중구 서울역에서 승객들이 경부선 KTX에 탑승하기 위해 분주히 이동하고 있다.
+    한국철도공사(코레일)는 고속철도인 KTX를 비롯한 간선철도 운임 인상을 본격적으로 추진한다.
+    한문희 코레일 사장은 지난 25일 대전에서 열린 기자간담회에서 "2011년 12월 이후 14년째 동결된 철도 운임 인상이 불가피하다"라며 "여러 자구 노력에도 전기 요금과 임금 등 원가가 크게 오른 데다 부채 증가에 따른 이자 비용의 영향으로 재무 건전성에 한계가 온 상황"이라고 말했다.
+    구체적인 요금 인상률과 인상 방식, 인상 시점은 정부와의 논의를 통해 추후 정해질 방침이다. 2025.3.26
+    hkmpooh@yna.co.kr/2025-03-26 13:58:25/
+&lt;저작권자 ⓒ 1980-2025 ㈜연합뉴스. 무단 전재 재배포 금지, AI 학습 및 활용 금지&gt;</media:description>
+        <media:credit role="author" scheme="urn:ebu">황광모</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>경기 광주 건물 사이에서 신원미상 남성 시신 발견 </title>
+      <link>https://www.chosun.com/national/2025/04/27/JEGUQ6C3E5EMJNFU6NN2OPPIVE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2025/04/27/JEGUQ6C3E5EMJNFU6NN2OPPIVE/</guid>
+      <dc:creator>김준호 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 27 Apr 2025 11:32:04 +0000</pubDate>
+      <content:encoded>경기 광주에서 신원 미상의 시신이 발견돼 경찰이 수사에 나섰다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Y673MPAIK2SGUCS3RIHLOMPGZQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기광주경찰서. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;27일 경기 광주경찰서에 따르면 이날 오후 3시 40분쯤 광주시의 한 상가 건물 골목에서 “남성의 시신이 있다”는 주민 신고가 접수됐다. &lt;br&gt;&lt;br&gt;시신은 상가건물 2곳 사이 폭 1.5ｍ가량의 공간에 있었다고 한다. 인근 주민이 인접 건물에서 빨래를 널던 중 아래로 떨어진 옷가지를 가지러 갔다가 시신을 발견해 신고한 것으로 전해졌다. &lt;br&gt;&lt;br&gt;시신은 발견 당시 상의와 속옷을 착용한 상태였다고 전해졌다. 시신이 발견된 주변에선 하의가 발견됐지만, 사망자의 것인지는 확인되지 않았다.&lt;br&gt;&lt;br&gt;시신 신원과 사망 원인 파악에는 다소 시간이 소요될 것으로 보인다. 시신 부패 정도가 심해 타살 등 범죄 혐의점을 확인하기 어려운 상태라고 한다. 시신이 발견된 현장에는 신원을 확인할 단서도 없었다고 한다. &lt;br&gt;&lt;br&gt;경찰은 국립과학수사연구원에 시신에 대한 부검을 의뢰해 정확한 사망 원인 등을 확인할 방침이다. 경찰 관계자는 “시신이 발견된 장소는 협소하고, 행인 시야에 들어오기 어려운 곳이다. 현장을 직접 비추는 CCTV도 없다”면서 “현장 주변 CCTV를 분석해 정확한 경위를 파악할 예정이다”고 말했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>의협 총회... ‘의대 정원 2000명 증원’ 국정조사 요구</title>
       <link>https://www.chosun.com/national/welfare-medical/2025/04/27/IE7WE3TDNJDCLFPUGDUJ3IJLCM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/04/27/IE7WE3TDNJDCLFPUGDUJ3IJLCM/</guid>
@@ -950,33 +987,6 @@ General of the Army Douglas MacArthur, Supreme Commander for Allied Powers, (Lef
       <description/>
       <pubDate>Fri, 25 Apr 2025 05:05:35 +0000</pubDate>
       <content:encoded>음주 운전을 하다 교통사고를 낸 뒤 도주한 혐의 등으로 구속 기소된 트로트 가수 김호중(34)씨가 25일 항소심에서도 징역 2년 6개월을 선고받았다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G5UWGNELU5CMLN5NSG44FC5YB4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;음주운전 뺑소니 혐의를 받는 가수 김호중이 작년 5월 서울중앙지방법원에서 열린 구속 전 피의자 심문(영장실질심사)을 마친 뒤 호송차로 향하고 있다. /스포츠조선&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[속보] 문재인 전 대통령 뇌물 사건, 서울중앙지법 형사21부 배당</title>
-      <link>https://www.chosun.com/national/court_law/2025/04/25/6FFOVT6QG5G37MGYADRPODLPSA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/04/25/6FFOVT6QG5G37MGYADRPODLPSA/</guid>
-      <dc:creator>방극렬 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 25 Apr 2025 02:56:04 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7HGUSHO5WBMNUNGAIURSOXNUBI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;문재인 전 대통령./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전 사위 서모씨의 ‘타이이스타젯 특혜 채용’ 의혹으로 기소된 문재인 전 대통령의 뇌물 사건이 서울중앙지법 선거·부패 전담부인 형사21부에 배당됐다.&lt;br&gt;&lt;br&gt;서울중앙지법은 25일 문 전 대통령 사건을 형사21부(재판장 이현복)에 배당했다고 밝혔다.&amp;nbsp;문 전 대통령이 전날 특정범죄 가중처벌 등에 관한 법률 위반(뇌물) 혐의로 불구속 기소된 지 하루 만이다.&lt;br&gt;&lt;br&gt;문 전 대통령은 사위였던 서씨의 취업과 딸 가족의 태국 이주 등을 도운 대가로 2018년 3월 이상직 전 의원에게 중소벤처기업진흥공단 이사장 자리를 주고, 2020년 4월 총선 때 더불어민주당 공천을 도운 혐의를 받는다. 전 사위 서씨는 이 전 의원이 실소유한 태국 저가 항공사 타이이스타젯 임원으로 취업해 2018년 8월~2020년 4월 월급과 집세 등 2억1700만원을 받은 것으로 조사됐다.&lt;br&gt;&lt;br&gt;전주지검은 2021년 12월 시민단체의 고발로 이 사건 수사에 착수해 관계자들을 조사했지만, 사건의 중대성과 범행 장소(청와대) 등을 고려해 중앙지법에 기소했다.&lt;br&gt;&lt;br&gt;중앙지법 형사21부는 재판장인 이현복(사법연수원 30기) 부장판사와 이경주(변호사 시험 30회)·김현우(변시 8회) 배석 판사로 구성돼있다. 이 부장판사는 법원행정처 홍보심의관과 대법원 재판연구관 등을 거친 엘리트 법관으로 꼽힌다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[단독] ‘문 케어’ 이후 두통으로 MRI 찍은 중국인 9배↑... “외국인 무임승차 논란 여전”</title>
-      <link>https://www.chosun.com/national/welfare-medical/2025/04/25/FUPMWBFGMBFP5GCFN3PR7H5SYE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/04/25/FUPMWBFGMBFP5GCFN3PR7H5SYE/</guid>
-      <dc:creator>오유진 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 25 Apr 2025 03:00:30 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AHJFO3TWVBANJFMXG2DSPEKCII.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;뇌 MRI 사진. /영 카디프대&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;건강보험 보장성 강화 정책, 이른바 ‘문 케어’ 시행 이후 단순 두통으로 뇌 MRI를 촬영한 중국인이 9배 가까이 급증한 것으로 나타났다.&lt;br&gt;&lt;br&gt;25일 국회 보건복지위원회 소속 국민의힘 서명옥 의원실이 국민건강보험공단에서 받은 자료에 따르면, 지난해 뇌·뇌혈관 MRI를 촬영한 인원은 총 135만6778명으로, 2017년(48만2051명)보다 2.8배 증가했다. 같은 기간 중국인 환자는 5291명에서 2만185명으로 3.8배 늘어나, 전체보다 증가 폭이 더 컸다.&lt;br&gt;&lt;br&gt;특히 ‘두통’으로 MRI를 촬영한 인원은 2017년 7250명에서 지난해 3만8287명으로 5.3배 증가했다. 중국인만 놓고 보면, 99명에서 871명으로 8.8배 뛰었다.&lt;br&gt;&lt;br&gt;고가의 뇌 MRI에 건강보험 적용이 대폭 확대된 시점은 문재인 정부 시절인 2018년 10월부터다. 이전까지는 뇌경색 등 중증 뇌 질환에 한해 건보 적용이 됐지만, 이후 두통·어지럼증 등 비교적 가벼운 증상에도 보험이 적용되면서 MRI 촬영이 급격히 늘었다.&lt;br&gt;&lt;br&gt;실제 문 케어 시행 후 3년간 뇌 MRI 촬영 건수는 연평균 51.2%씩 증가했다. 2022~2023년에는 연 150만 건에 달했다.&lt;br&gt;&lt;br&gt;문제는 외국인 건보 가입자 중 절반가량을 차지하는 중국 국적자들 가운데, 보험료를 내지 않으면서도 한국인과 동일한 건보 혜택을 누리는 사례가 적지 않다는 것이다.&lt;br&gt;&lt;br&gt;건보에 가입된 외국인은 2019년 말 121만명에서 2023년 말 146만명으로 25만명 늘었다. 이 가운데 중국 국적자는 70만명으로 전체 외국인 중 48%를 차지할 정도로 가장 많다. 뒤이어 베트남(15만명), 우즈베키스탄(7만명), 네팔(5만명) 순이다.&lt;br&gt;&lt;br&gt;특히 중국은 외국인 건보 가입자가 많은 10국 가운데 유일하게 적자를 내고 있다. 2019년 -987억원, 2021년 -109억원, 2022년 -229억원 등 적자를 기록했다.&lt;br&gt;&lt;br&gt;이 같은 논란이 계속되자, 정부는 지난해 4월 국내에 입국하는 외국인과 재외국민은 6개월 이상 거주해야만 건보 가입자의 피부양자가 될 수 있도록 요건을 강화했다.&lt;br&gt;&lt;br&gt;서명옥 의원은 “외국인의 건보 ‘무임승차’ 논란은 여전히 끊이지 않는다”며 “중국인 무임승차 논란과 과도한 MRI 촬영 문제를 방지하는 등 건보 재정 건전성을 지키기 위한 제도 개선이 시급하다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>주말 전국 강풍에 동쪽 건조 “산불 조심”</title>
-      <link>https://www.chosun.com/national/transport-environment/2025/04/25/JBTEACYQLRGNFLYQXUW2SI7TNI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/04/25/JBTEACYQLRGNFLYQXUW2SI7TNI/</guid>
-      <dc:creator>정해민 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 25 Apr 2025 01:47:31 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XWE4PWVWVLORZLD45JN6IG35ZE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 1월 경북 포항시에서 산불조심을 알리는 깃발이 바람에 펄럭이고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;주말에는 전국에 바람이 강하게 불겠다. 동쪽 지역을 중심으로 대기가 차차 건조해져 산불 등 화재 발생에 유의해야 한다.&lt;br&gt;&lt;br&gt;25일 기상청은 “당분간 전국에 바람이 순간 풍속 55km/h 이상(산지 70km/h 이상)으로 강하게 부는 곳이 있겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;26일 밤부터 강원 산지와 경북 북동 산지, 27일 새벽부터 강원 동해안과 경북 북부 동해안을 중심으로 바람이 순간 풍속 70km/h 이상(산지 90km/h 이상)으로 매우 강하게 불 전망이다.&lt;br&gt;&lt;br&gt;동쪽 지역을 중심으로 대기가 차차 건조해질 것으로 보인다. 기상청은 “산지를 중심으로 바람도 강하게 불면서 작은 불씨가 큰 불로 번질 수 있으니 산불을 포함한 각종 화재 예방에 유의해야 한다”고 했다.&lt;br&gt;&lt;br&gt;이날 북서쪽에서 찬 공기가 남하하면서 26일 아침까지 평년보다 기온이 조금 낮을 것으로 예보됐다. 기온은 26일 낮부터 평년 수준으로 회복될 전망이다.&lt;br&gt;&lt;br&gt;26일 새벽부터 아침 사이 일부 경기 북부·동부, 강원 내륙, 충북, 전라 동부, 경북 북부 내륙을 중심으로 아침 기온이 0도 안팎으로 내려가는 곳이 있겠다.&lt;br&gt;&lt;br&gt;한편 제주도는 27일 밤부터 비 소식이 있다. 예상 강수량은 5mm 안팎이다.&lt;br&gt;&lt;br&gt;26일 아침 최저 기온은 2~10도, 낮 최고 기온은 16~25도, 26일 아침 최저 기온은 6~15도, 낮 최고 기온은 16~25도로 예보됐다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>“이게 1만2000원?” 충북장애인도민체전 부실 도시락 논란</title>
