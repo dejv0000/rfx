@@ -13,6 +13,86 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>송도 도심서 발견된 온몸 털 빠진 동물...정체는?</title>
+      <link>https://www.chosun.com/national/national_general/2025/04/27/YZUO6ZD4QFC7RGPBOPB7U2WN4M/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/27/YZUO6ZD4QFC7RGPBOPB7U2WN4M/</guid>
+      <dc:creator>정아임 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 27 Apr 2025 03:16:23 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/O63STMCZZZNB3PA6B46IZ5XLIA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt; 지난 24일 오후 인천시 연수구 송도동 수변 산책로에서 '개선충'에 감염된 것으로 보이는 너구리가 이동하고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천 송도국제도시 도심 공원에서 온몸에 털이 빠진 동물이 잇따라 발견되고 있다. 확인 결과 이 동물은 ‘개선충’에 감염된 너구리인 것으로 나타났다. &lt;br&gt;&lt;br&gt;27일 연합뉴스에 따르면 지난 23일과 24일 오후 송도 모 고등학교 인근 수변 산책로에서는 온몸에 털이 빠진 동물이 잇따라 포착됐다. 이 동물은 머리와 꼬리 일부를 제외하고는 모두 털이 빠진 채 앙상하게 마른 듯한 모습이었다.&lt;br&gt;&lt;br&gt;서문홍 국립생물자원관 환경연구사는 이를 보고 ‘개선충’에 감염된 너구리라고 설명했다. 개선충증에 걸리면 보통은 귀와 겨드랑이, 복부, 다리에서 시작돼 몸 전체의 털이 빠지고, 심한 가려움증, 표피 박리, 만성 피부염 등을 유발한다. &lt;br&gt;&lt;br&gt;서 연구사는 “과거 미지의 괴생물로 불린 ‘추파카브라’는 실제로는 개선충에 감염된 코요테였다”며 “너구리도 털이 빠지면 다른 생물로 오인하는 경우가 많다”고 말했다. 그러면서 “너구리는 단체로 생활하는 동물이라 한 마리가 감염되면 주변 다른 개체도 감염될 가능성이 높다”며 “개선충 감염은 각 개체와 주변 서식 환경 등이 건강하지 못하다는 것을 보여준다”고 덧붙였다.&lt;br&gt;&lt;br&gt;정동혁 충북대 수의학과 교수도 “긴밀하게 접촉하는 너구리들이 모여 있다면 전염이 꽤 빠른 속도로 진행될 수 있다”면서도 “사람 등 포유류도 개선충에 감염될 수 있지만 직접적인 접촉이 없다면 확산할 우려는 없다”고 말했다.&lt;br&gt;&lt;br&gt;앞서 송도 도심 공원에서 너구리가 자주 출몰하자 인천시설공단은 “가까이 접근하면 상해를 입을 수 있으므로 적당한 거리를 유지한 채 모른 척 지나가 달라”는 현수막을 내걸기도 했다. &lt;br&gt;&lt;br&gt;관할 지방자치단체인 연수구는 너구리들이 기존 서식지인 농경지나 산림지 개발에 따라 도심 공원 등지로 넘어온 것으로 추정했다. &lt;br&gt;&lt;br&gt;연수구 관계자는 “예전에도 개선충에 감염된 너구리가 있다는 신고를 받고 구조를 시도한 적이 있었다”며 “구조가 된다면 인천시 야생동물구조관리센터에 보낼 계획”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>대법 “건보공단, 의료사고 책임자에 초과환급금 구상 가능”</title>
+      <link>https://www.chosun.com/national/court_law/2025/04/27/4WOS3ERFEVG2VFCS46EOE3AXYM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/04/27/4WOS3ERFEVG2VFCS46EOE3AXYM/</guid>
+      <dc:creator>김희래 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 27 Apr 2025 02:58:08 +0000</pubDate>
+      <content:encoded>의료사고 피해자 측과 사고 책임자 사이 합의가 이뤄지지 않은 상황에서 국민건강보험공단이 의료사고 피해자 측에게 본인 부담상한액을 초과한 의료비를 환급했다면, 사고의 책임자들이 초과금을 대신 갚아야 한다는 대법원 판단이 나왔다.&lt;br&gt;&lt;br&gt;27일 법조계에 따르면, 대법원 3부(주심 엄상필 대법관)는 건보공단이 의사 A씨 등을 상대로 낸 구상금 청구 소송에서 원고 패소 부분 중 일부를 파기하고 사건을 수원지법으로 돌려보냈다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FAMLOAK7TZ2A4R57OV7NCBGU2Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대법원 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 2018년 9월 A 씨가 대표원장으로 있는 병원에서 B씨 등 2명이 수액을 맞은 뒤 패혈성 쇼크 증상을 겪는 사건이 발생했다. B씨는 치료 도중 사망했고, 다른 피해자는 17일 동안 치료가 필요한 상해를 입었다. 이후 A씨는 2019년 6월 B씨 유족에게 5000만원을 지급하고 민형사상 이의를 제기하지 않기로 합의했다.&lt;br&gt;&lt;br&gt;건보공단은 2018년 10월부터 약 4개월 동안 B씨 등의 치료비 중 건보공단 부담금에 해당하는 2882만원을 요양기관에 지급한 뒤 이 금액을 A씨 등에게 청구했다. 또 2019년 3월(107만원)과 2020년 4월(362만원) 두 차례에 걸쳐 B씨 유족에게 환급한 본인부담상한액 초과금 469만원도 A씨 등이 갚을 의무가 있다고 주장했다.&lt;br&gt;&lt;br&gt;1심은 치료비 2882만원은 A씨 등이 갚아야 한다고 인정했지만, 환급금 469만 원은 인정하지 않았다. A씨가 B씨 유족과 합의했기 때문에 건보공단이 유족을 대신해 손해배상 채권을 행사할 권리가 없다는 등의 이유였다. 2심도 항소를 모두 기각하며 1심 판결을 유지했다.&lt;br&gt;&lt;br&gt;이에 건보공단은 환급금 중 A씨가 B씨 유족과 합의하기 전에 지급된 107만원 부분에 대해 다시 판단해 달라고 상고했고, 대법원은 이 같은 주장을 받아들였다.&lt;br&gt;&lt;br&gt;대법원은 “본인 부담상한액 초과 금액은 요양급여비용 중 공단 부담금에 해당한다”며 “제3자의 행위로 보험급여 사유가 생겨 공단이 가입자 등에게 본인 부담상한액 초과 금액을 지급하는 결과가 발생했다면, 공단은 국민건강보험법에 따라 그 초과 금액 한도 내에서 제3자에게 손해배상을 청구할 수 있다”고 판단했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>경찰 피해 도망치다 보행자 넘어뜨려 숨지게 한 불법체류자…징역 3년 6개월</title>
+      <link>https://www.chosun.com/national/court_law/2025/04/27/TAB3GUDOWRB5VCTUHKRKKHI4AE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/04/27/TAB3GUDOWRB5VCTUHKRKKHI4AE/</guid>
+      <dc:creator>인천=이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 27 Apr 2025 01:43:16 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WOI6TOBEVDLLWWUC2CDFSQCYBU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원 로고./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰관을 피해 도망치던 중 보행자를 넘어뜨려 숨지게 한 불법체류자에게 징역형이 선고됐다. &lt;br&gt;&lt;br&gt;인천지법 형사15부(재판장 김정헌)는 폭행치사 혐의로 재판에 넘겨진 베트남 국적 A(52)씨에게 징역 3년 6개월을 선고했다고 27일 밝혔다. &lt;br&gt;&lt;br&gt;A씨는 지난해 10월 3일 오후 4시 55분쯤 인천시 미추홀구 주안동의 한 도로에서 무단횡단을 하다 경찰관에게 적발되자 도망치면서 맞은편에서 걸어오던 B(65)씨를 팔로 밀쳐 넘어뜨려 숨지게 한 혐의로 기소됐다. &lt;br&gt;&lt;br&gt;A씨는 경찰관들에게 불법 체류 사실이 드러날 것을 우려해 도망친 것으로 조사됐다. &lt;br&gt;&lt;br&gt;B씨는 넘어지는 과정에서 공사장 쇠기둥에 머리를 부딪혔고, 외상성 뇌출혈로 병원에서 치료를 받던 중 4일 뒤에 숨졌다. &lt;br&gt;&lt;br&gt;재판부는 “경찰관으로부터 도망가려고 보행로에 있던 피해자를 밀어 넘어뜨렸고, 그로 인해 피해자가 숨지는 돌이킬 수 없는 결과가 나왔다”며 “사람의 생명을 침해하는 행위는 그 피해를 회복할 수 없다는 점에서 엄중하게 처벌할 필요가 있다”고 했다. 이어 “피고인은 피해자나 경찰관에게도 일부 책임이 있다는 태도를 보이고 있고, 피해자 유족과 합의하지 못했고, 피해 배상이 전혀 이뤄지지 않았다”며 “국내에서 형사처벌을 받은 전력이 없는 점 등을 고려했다”고 양형 이유를 설명했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“충격적이다”...제주 시내버스서 담배 피우는 중국 여성 ‘시끌’</title>
+      <link>https://www.chosun.com/national/national_general/2025/04/27/TVQJ3XGFNJA23J6EAIFHT53AEA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/27/TVQJ3XGFNJA23J6EAIFHT53AEA/</guid>
+      <dc:creator>정아임 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 27 Apr 2025 01:38:49 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZLM2SR6CVVCQZLP72YOCP65YIQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;중국인으로 추정되는 여성이 시내버스 안에서 담배를 피우고 있다./인스타그램 'hyunsi2000'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제주 시내버스에서 중국인으로 추정되는 한 여성이 창문을 열고 담배를 피우는 모습이 포착됐다. &lt;br&gt;&lt;br&gt;작성자 A씨는 지난 18일 자신의 인스타그램 계정에 “제주도 중국인 실화냐 이거. (여기서) 담배를 피워버리네”라며 제주 시내버스에서 찍은 영상 하나를 올렸다. &lt;br&gt;&lt;br&gt;영상에는 A씨의 앞좌석에 앉은 여성이 창문 바깥으로 불붙인 담배를 든 손을 내밀고 있었고, 입으로는 담배 연기를 내뿜고 있었다. 담배 냄새를 맡은 한 어르신 승객은 “어디서 담배 피워요! 지금! 시대가 어느 때인데. 내리라 그러세요!”라고 소리쳤다. 이후 다른 승객들도 불편함을 토로했다. 중간중간 중국어로 말하는 여성의 목소리도 함께 들렸다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VSINJR3NZRBVZGOMIAR5BC5LS4.gif"&gt;&lt;figcaption&gt;&lt;small&gt;중국인으로 추정되는 여성이 시내버스에서 담배를 피우며 연기를 내뿜고 있다./인스타그램 'hyunsi2000'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;창문 바깥으로 손을 튕겨 담뱃재를 털던 여성은 승객들의 아우성에 결국 꽁초를 길거리에 휙 내던진 후 창문을 닫았다. 이후 놀란 버스 운전기사는 차를 세우고 여성의 자리로 찾아와 “여기서 이러면 안 돼요”라며 여성을 저지했다.&lt;br&gt;&lt;br&gt;이후 이 영상은 여러 온라인 커뮤니티에 널리 공유됐다. 영상을 본 네티즌들은 “담배도 담배지만 피던 꽁초까지 길거리에 버리네. 경찰을 불렀어야 했다” “충격적이다“ 등의 반응을 보였다. &lt;br&gt;&lt;br&gt;중국에 거주 중이라고 밝힌 한 네티즌은 ”불편한 점이 있다면 중국은 어디서든 담배를 필 수 있는 지역이 많다는 거다. 베이징이나 상하이 같은 대도시들은 금연 장소가 늘어났는데 작은 도시들에는 아이가 있든 어른이 있든 실내외에서 아직 담배를 피운다“고 남겼다. &lt;br&gt;&lt;br&gt;국민건강증진법에 따르면 시내버스 실내는 전면 금연구역으로 지정돼 있다. 흡연할 경우 최대 10만원의 과태료가 부과된다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>필로폰 거래 적발되자 ‘함정수사’ 주장한 마약 판매상, 징역형</title>
+      <link>https://www.chosun.com/national/regional/2025/04/27/Z2M534EUMJG53EX4N5EFYDJ53I/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/04/27/Z2M534EUMJG53EX4N5EFYDJ53I/</guid>
+      <dc:creator>우정식 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 27 Apr 2025 01:26:02 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WOIPX7HDNFCOHOGTNKRO6EMBJA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원로고. /조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;필로폰을 판매하려다 적발된 마약 판매상이 “함정수사에 걸렸다”고 주장했지만 실형을 선고받았다.&lt;br&gt;&lt;br&gt;청주지법 형사5단독 강건우 부장판사는 마약류관리법상 향정 등 혐의로 재판에 넘겨진 50대 A씨에게 징역 3년 6개월을 선고했다고 27일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난해 9월 19일 오전 9시 30분쯤 대전 유성구의 한 호텔에서 필로폰 90g(약 3000회 투약분)을 1350만원에 판매하기로 하고 구매자로 나온 B씨를 만났다가 경찰에 현행범으로 체포됐다.&lt;br&gt;&lt;br&gt;경찰은 앞서 별개 마약 사건으로 검거한 B씨로부터 “A씨한테 필로폰을 추가로 구매하기로 했다”는 말을 듣고는 B씨를 앞세워 현장을 덮쳤다. B씨는 이에 앞서 A씨에게 필로폰을 구매했다며 해당 필로폰을 임의제출하고, A씨가 검거된 당일을 두 번째 거래일로 잡는 과정을 논의하는 등 경찰에 적극 협조한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;이에 A씨는 “경찰이 B씨를 앞세워 마약 판매를 유도했다”고 주장했다.&lt;br&gt;&lt;br&gt;그러나 강 부장판사는 “피고인은 지인을 통해 알게 된 B씨에게 먼저 마약이 필요하냐고 물었고, 첫 거래가 성사됐다”며 “두 번째 거래 때는 수일 만에 90g의 필로폰을 손쉽게 확보한 점을 감안하면 피고인은 언제든 필로폰을 매매할 준비가 돼 있었고, 단순히 매도 기회를 제공받은 것에 불과하다”며 이를 받아들이지 않았다. &lt;br&gt;&lt;br&gt;이어 “피고인은 4차례나 동종 범죄로 징역형을 선고받아 복역했고, 형 종료 4개월 만에 다시 범행을 저질렀다”면서 “매도 목적으로 확보한 마약이 다량이지만, 수사기관에 압수된 점 등을 일부 참작했다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>설악산 둘레길서 사업 관계 여성 살해한 50대 구속</title>
+      <link>https://www.chosun.com/national/incident/2025/04/27/P3N6O74JRRCX3B5UDGVXFFJ3DI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/04/27/P3N6O74JRRCX3B5UDGVXFFJ3DI/</guid>
+      <dc:creator>강릉=정성원 기자</dc:creator>
+      <description>설악산 둘레길에서 60대 여성을 살해하고 경찰에 자수한 50대 남성이 구속됐다.
+27일 강릉경찰서에 따르면 춘천지법 강릉지원은 살임 혐의로 청구된 50대 A씨의 구속영장을 전날 발부했다.
+</description>
+      <pubDate>Sun, 27 Apr 2025 01:07:19 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/L4GEXC5HOZAC5NA5TDDI7RQ23U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;설악산 둘레길에서 60대 여성을 살해하고 경찰에 자수한 50대 남성이 구속됐다.&lt;br&gt;&lt;br&gt;27일 강릉경찰서에 따르면 춘천지법 강릉지원은 살인 혐의로 청구된 50대 A씨의 구속영장을 전날 발부했다.&lt;br&gt;&lt;br&gt;A씨는 지난 24일 0시쯤 “열흘 전 속초시 설악산국립공원 둘레길 인근에서 60대 여성 B씨를 살해했다”며 경찰에 자수했으며, 경찰은 A씨의 진술을 토대로 24일 오전 6시 58분쯤 설악산국립공원 한 둘레길에서 숨져 있는 60대 B씨를 발견했다.&lt;br&gt;&lt;br&gt;경찰 조사 결과 두 사람은 사업적으로 관계가 있었던 것으로 조사됐으며, A씨는 경찰에서 “B씨와 극단적 선택을 하기로 했으나 B씨를 살해하고 혼자 살아남았다”고 진술한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰은 A씨를 상대로 구체적인 범행 동기 등 사건 경위를 조사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>인제 산불 20시간 만에 꺼졌다… 산림 당국 “산불 원인 조사 중”</title>
+      <link>https://www.chosun.com/national/incident/2025/04/27/LKQJLSRDNRDEBLPEWYHQNJSAEU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/04/27/LKQJLSRDNRDEBLPEWYHQNJSAEU/</guid>
+      <dc:creator>정성원 기자</dc:creator>
+      <description>지난 26일 인제 상남면 하남리 한 야산에서 발생한 산불이 이틀 만에 꺼졌다. 산불 영향 구역은 73ha로 집계됐다.
+산림 당국은 따르면 이날 오전 5시 30분쯤 산림청 헬기 등 헬기 35대를 투입해 산불 진화 작업을 재개했고, 산불 발생 20시간 만인 오전 9시쯤 산불 진화에 성공했다.
+</description>
+      <pubDate>Sun, 27 Apr 2025 00:23:17 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7GH534V4C5ITXKGOPXGYGSEMQY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 26일 오후 1시 18분쯤 강원 인제군 상남면 하남리 한 야산에서 산불이 발생했다. 불은 20시간 만인 27일 오전 9시쯤 꺼졌다. /연합뉴스
+&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 26일 강원 인제군 상남면 하남리 한 야산에서 발생한 산불이 이틀 만에 꺼졌다. 산불 영향 구역은 73ha로 잠정 집계됐다.&lt;br&gt;&lt;br&gt;27일 산림 당국에 따르면 이날 오전 5시 30분쯤 산림청 헬기 등 헬기 35대를 투입해 산불 진화 작업을 재개했고, 산불 발생 20시간 만인 오전 9시쯤 산불 진화에 성공했다.&lt;br&gt;&lt;br&gt;이번 불은 지난 26일 오후 1시 11분쯤 발생했다. 불은 순간 최대 풍속이 20m에 달하는 강풍을 타고 순식간에 번졌다.&lt;br&gt;&lt;br&gt;불은 피해 인제군과 양양군 주민 254명이 마을회관 등으로 대피했고, 서울양양고속도로 일부 구간의 차량 통행이 한때 전면 통제되기도 했다.&lt;br&gt;&lt;br&gt;26일 오후 7시 50분엔 소방 국가 동원령이 발령되면서 서울과 경기, 충북 지역 소방관들이 양양군으로 집결하기도 했다. &lt;br&gt;&lt;br&gt;산림청 관계자는 “선제적인 주민 대피로 이번 산불로 인한 인명 피해는 발생하지 않았다”면서 “잔불 정리를 마치는 대로 산불 발생 원인 등을 조사할 방침”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>27일 서울하프마라톤…광화문~여의도·상암 교통 순차 통제</title>
+      <link>https://www.chosun.com/national/national_general/2025/04/24/OQ4G5C2WJZE5TAJNCSUEUTISLI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/24/OQ4G5C2WJZE5TAJNCSUEUTISLI/</guid>
+      <dc:creator>박진성 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 24 Apr 2025 04:58:41 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RROLVNTXNBCZBB5ATI4MQSKR6A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2만여 청춘이 서울 누볐다 - 2024 서울하프마라톤 대회 참가자들이 서울 광화문 광장 출발선에서 힘차게 뛰어나가고 있다./오종찬 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;27일 열리는 2025 서울하프마라톤(서울특별시·조선일보사·서울특별시체육회 공동 주최)이 3일 앞으로 다가왔다. 역대 최다 참가자(2만1700여 명)가 코스에 오른다.&lt;br&gt;&lt;br&gt;국내 단일 하프 마라톤 대회 중 최대 규모로, 하프 코스(광화문~상암월드컵공원)와 10㎞ 코스(광화문~여의도공원)를 달릴 수 있다. 도심 곳곳의 아름다운 풍경을 감상할 수 있어 인기가 높다. 올해가 9회째다.&lt;br&gt;&lt;br&gt;대회 당일 오전 5시 30분부터 10시 50분까지 마라톤 코스에 포함된 서울 도심 주요 도로의 교통을 구간별로 순차 통제한다.&lt;br&gt;&lt;br&gt;주요 통제구간은 광화문광장, 세종대로, 시청 교차로, 마포대교, 여의도, 양화대교, 합정역, 마포구청역, 상암 평화광장 등으로 구간별로 마라톤 통과 시간에 맞춰 약 1∼2시간 통제한다.&lt;br&gt;&lt;br&gt;인파 밀집을 최소화하기 위해 하프코스와 10㎞ 코스 모두 참가자를 그룹별로 나눠 시차를 두고 출발한다. &lt;br&gt;&lt;br&gt;경찰청, 소방재난본부 등 유관기관과의 합동 운영본부를 설치하고, 출발지·도착지 등 주요 코스에 의료부스를 운영해 안전을 관리하고 사고를 예방한다.&lt;br&gt;&lt;br&gt;구종원 서울시 관광체육국장은 “서울하프마라톤은 건강과 열정을 함께 나누는 도심형 축제이자 서울의 봄을 온몸으로 느껴볼 수 있는 스포츠 이벤트가 될 것”이라며 “앞으로도 서울시는 시민들이 바쁜 일상 속에서 언제든지 생활체육을 즐길 수 있도록 다양한 체육행사를 적극적으로 마련함과 동시에 마라톤 대회로 인한 시민 불편을 최소화할 수 있도록 최선을 다하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/C2FMSHXCIJHVFFFL5UER7WOKLA.gif?auth=3b39fe707fbe17fb4ae76d409a379a25df7ddd71158668c883beda7a952224b2&amp;smart=true&amp;width=1400&amp;height=788" type="image/jpeg" height="788" width="1400">
+        <media:description type="plain">서울마라톤 GIF 짤</media:description>
+      </media:content>
+    </item>
+    <item>
       <title>고현정, 어린 아들에 뽀뽀하는 사진?...과거 사진 눈길</title>
       <link>https://www.chosun.com/national/national_general/2025/04/27/MTAJH5M5HNCM3DCKWMZBPE42CE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/27/MTAJH5M5HNCM3DCKWMZBPE42CE/</guid>
@@ -837,15 +917,6 @@ General of the Army Douglas MacArthur, Supreme Commander for Allied Powers, (Lef
       <content:encoded>윤석열 전 대통령의 부인 김건희 여사의 ‘도이치모터스 주가 조작 연루’ 의혹에 대해 검찰이 재수사를 결정했다고 25일 밝혔다. 서울중앙지검이 지난해 10월 불기소를 결정하자 고발인들이 항고한 데 따른 것이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/L73S2EUNEVIFZMFK7FI3MSUOWY.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령 부인 김건희 여사가 지난 11일 한남동 관저를 퇴거해 사저인 서울 서초구 아크로비스타로 들어서며 지지자들과 인사를 나누고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;항고는 고소‧고발인이 지방검찰청·지청의 불기소 처분이 타당한지 고등검찰청에 판단해달라고 요구하는 절차다. 고등검찰청은 항고장을 검토한 뒤 고소·고발인의 이의 제기가 타당하다고 판단하면 재기 수사, 공소 제기 등을 명령하거나 직접 재수사할 수 있다.&lt;br&gt;&lt;br&gt;앞서 이 의혹을 고발한 최강욱 전 의원과 황희석 변호사는 검찰이 불기소를 결정하자 지난해 10월 항고장을 제출했다. 최 전 의원은 133쪽 분량의 항고이유서를 제출할 당시 기자들과 만나 “불기소 결정은 참으로 부끄럽고 후안무치한 일”이라며 “멀쩡하게 살아있는 증거를 외면하면서까지 최고 권력을 행사하고 있는 여성의 범죄를 묵인했던 것은 아닌지 반드시 규명돼야 한다”고 말했다.&lt;br&gt;&lt;br&gt;서울중앙지검 반부패수사2부(부장 최재훈)는 불기소 결정서에서 김 여사 명의 계좌 3개(대신·미래에셋·DS투자증권)가 권오수 전 도이치모터스 회장 등의 주가조작(통정매매 47건·종가관여주문 1건)에 사용된 사실은 인정된다면서도 “김 여사 명의 계좌에서 주가조작(시세조종)성 주문 등이 제출됐다는 이유만으로 김 여사에게 공모나 방조 혐의를 적용할 수 없다”고 했다. &lt;br&gt;&lt;br&gt;그러나 서울고검은 권 전 회장 등 공범에 대한 대법원 판결이 확정된 점을 고려할 때 관련자들에 대한 추가 조사 필요성이 있다고 판단한 것으로 전해졌다. 재수사는 서울고검이 직접 맡는다.&lt;br&gt;&lt;br&gt;한편, 서울고검은 함께 제기된 ‘디올백 수수’ 의혹 불기소에 대한 항고는 기각했다고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>올해 변시 합격자 1744명… 변협 “변호사 과잉공급 외면” 반발</title>
-      <link>https://www.chosun.com/national/court_law/2025/04/25/NX7HBHH7NZHMFEJTEMLIFEZCFY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/04/25/NX7HBHH7NZHMFEJTEMLIFEZCFY/</guid>
-      <dc:creator>방극렬 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 25 Apr 2025 01:55:41 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GBDG6QZXZ5O4BCDG5NES5O2JLM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대한변호사협회 소속 변호사들이 14일 경기도 과천시 정부과천청사 앞에서 변호사 배출 수 감축 요구 기자회견을 하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;법무부가 올해 변호사 시험 합격자 수를 1744명으로 정한 데 대해 대한변호사협회(변협)가 25일 “일선 변호사의 상식적인 요청을 외면한 결정에 깊은 유감을 표한다”고 밝혔다.&lt;br&gt;&lt;br&gt;변협은 이날 “객관적인 통계와 지표에 따라 적정 변호사 수를 산정하고, 변호사 과잉 공급에 따라 발생하고 있는 국민의 피해와 사회적 폐단을 고려해 합격자 수를 1200명 이내로 결정해야 한다고 누차 밝혔는데, 이를 법무부가 외면했다”며 “과잉 공급으로 인한 국민의 피해, 각종 사회적 폐단에 대한 지적이 오롯이 반영되지 못했다”고 반발했다.&lt;br&gt;&lt;br&gt;법무부는 전날 변호사 시험 관리위원회 심의 의견 및 대법원·변협·법학전문대학원협의회 등 유관 기관 의견 등을 고려해 올해 합격자 수를 작년보다 1명 줄어든 1744명으로 결정했다고 발표했다.&lt;br&gt;&lt;br&gt;변협은 “총 15명으로 구성된 관리위 위원 중 변호사는 단 3명”이라며 “변호사 직역과 직접적인 관련이 없어 업계 실태를 제대로 알지 못하는 일부 위원들은 합격자 수를 1800명 이상으로 결정해야 한다는 의견을 내기도 했다”고 했다. 이어 “객관적인 통계와 지표를 고려하면 현행 법조 인력 수급 정책은 정상 범주를 한참 벗어났다”며 “변호사 시험 관리위 구성에 구조적 문제가 있다”고 주장했다.&lt;br&gt;&lt;br&gt;다만 변협은 “지난 5년간 추이를 살펴보았을 때, 이번 법무부 결정은 응시자가 예년에 비해 증가했음에도 합격자가 감소한 최초의 사례”라며 “매해 아무런 근거 없이 이뤄지던 합격자 수 상승을 일단 저지했다는 점에 의미가 있다”고 했다.&lt;br&gt;&lt;br&gt;그러면서 “정부는 객관적인 통계와 지표를 연구해 우리 사회 적정 변호사 수를 산정하라” “법조 인접 자격사를 단계적으로 감축하고 통폐합하라” 등 5가지 요구 사항을 밝혔다. 변협은 “향후 변호사 수 정상화를 위해 모든 노력을 다하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>주말 전국 강풍에 동쪽 건조 “산불 조심”</title>
       <link>https://www.chosun.com/national/transport-environment/2025/04/25/JBTEACYQLRGNFLYQXUW2SI7TNI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/04/25/JBTEACYQLRGNFLYQXUW2SI7TNI/</guid>
@@ -866,25 +937,6 @@ General of the Army Douglas MacArthur, Supreme Commander for Allied Powers, (Lef
         <media:description type="plain">24일 열린 제19회 충북장애인도민체육대회에 참가한 선수단에 제공된 1만2000원짜리 도시락. /연합뉴스</media:description>
         <media:credit role="author" scheme="urn:ebu"/>
       </media:content>
-    </item>
-    <item>
-      <title>경찰·노동부, ‘광명 신안산선 붕괴사고’ 관련 포스코이앤씨 압수수색</title>
-      <link>https://www.chosun.com/national/incident/2025/04/25/7AVNOG4KU5GMZC5E2WNEOM2I6U/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/04/25/7AVNOG4KU5GMZC5E2WNEOM2I6U/</guid>
-      <dc:creator>수원=김수언 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 25 Apr 2025 00:47:19 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PVUAJ6OGJSBWU6OTK57FBGRVI4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기 광명시 일직동 신안산선 복선전철 5-2공구 붕괴 현장. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 광명시 신안산선 지하터널 공사 현장 붕괴 사고를 수사 중인 경찰과 고용노동부가 25일 포스코이앤씨에 대한 압수수색에 나섰다. 사고 발생 14일 만이다.&lt;br&gt;&lt;br&gt;경찰 등에 따르면 경기남부경찰청 신안산선 공사장 붕괴사고 수사전담팀과 고용노동부 성남지청은 이날 오전 9시쯤부터 해당 공사 시공사인 포스코이앤씨 본사 사무실과 현장 사무실 등에 대해 압수수색 영장을 집행 중이다. 압수수색 대상은 모두 7개 업체, 9곳으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰 수사관 60여명과 고용노동부 근로감독관 등 모두 90여명 규모가 현장에 투입돼 관련 문건 등을 확보 중이다.&lt;br&gt;&lt;br&gt;이 사고는 지난 11일 오후 3시 13분쯤 광명시 일직동 신안산선 5-2공구 지하 터널 공사 현장에서 발생했다. 터널을 지지하던 기둥이 무너지면서 지상에서 작업 중이던 50대 작업자 A씨(포스코이앤씨 소속)와 20대 굴착기 기사가 매몰됐다. 20대 기사는 구조됐으나 A씨는 사고 발생 5일 후인 16일 숨진 채 발견됐다.&lt;br&gt;&lt;br&gt;경찰은 업무상 과실치사상 혐의로 시공사인 포스코이앤씨와 하청업체, 감리사 소속 현장 관계자 등 총 3명을 형사입건하고 수사 중이다.&lt;br&gt;&lt;br&gt;경찰은 확보한 방범카메라(CCTV) 영상과 근로자 진술을 토대로 붕괴 조짐부터 실제 사고 발생까지의 경위를 면밀히 재구성하고 있다. 포스코이앤씨 측으로부터 제출받은 설계도 등 각종 서류도 분석 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘레전드들이 어쩌다…’ 강동희·임창용 같은 날 실형, 법정구속은 면해</title>
-      <link>https://www.chosun.com/national/national_general/2025/04/25/FLJ4BBAI5NGYLJBDLJSPLEV3ZQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/25/FLJ4BBAI5NGYLJBDLJSPLEV3ZQ/</guid>
-      <dc:creator>김명일 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 24 Apr 2025 23:59:18 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/245B3CXA3FG27EDGCFYQVXVRNE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;스포츠 레전드 스타들인 전 프로농구 선수 강동희와 전 프로야구 선수 임창용이 24일 나란히 실형을 선고받았다. 다만 두 사람 모두 법정 구속은 면했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HO6V47WMJ6CXT7FGYPNSDWG3LY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전 프로농구 선수 강동희. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천지법 형사17단독 김은혜 판사는 이날 업무상 횡령‧배임 혐의로 기소된 강동희에게 징역 1년 2개월을 선고했다. 김 판사는 강동희와 함께 기소된 농구교실 법인 관계자 A씨에게는 징역 1년 실형을, 다른 3명에게는 징역 9개월∼징역 1년에 집행유예 2년을 선고했다. &lt;br&gt;&lt;br&gt;김 판사는 징역형을 선고한 강동희와 A씨에 대해선 “피해 회복 기회 부여를 위해 법정 구속은 하지 않는다”고 했다.&lt;br&gt;&lt;br&gt;강동희는 지난 2018년 5~10월 농구 교실을 운영하는 과정에서 A씨 등 직원 4명과 법인 자금 1억600만원을 빼돌려 쓴 혐의 등으로 기소됐다. 또 농구 교실 자금 2100만원으로 변호사 비용을 내거나 새 사무실을 계약해 법인에 손해를 끼친 혐의를 받았다.&lt;br&gt;&lt;br&gt;한국 농구 국가대표, 프로농구 감독 등으로 활약한 강동희는 앞서 2011년 브로커들에게 4700만원을 받고 후보 선수들을 프로농구 정규리그 일부 경기에 투입해 승부를 조작한 사실이 드러나 2013년 징역 10월이 확정됐고, 한국농구연맹(KBL)에서도 제명됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/A2B2DHI7XIHA7IL6THWLJBSXQQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전 프로야구 선수 임창용. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;같은 날 광주지법 형사11단독 김성준 부장판사는 사기 혐의로 기소된 임창용에게 징역 8개월을 선고했다. 임창용은 2019년 12월 필리핀 마닐라에서 지인에게서 카지노 도박 자금을 빌린 뒤 갚지 않은 혐의다. 김 판사는 임창용이 도주할 우려가 없다며 법정 구속하지는 않았다.&lt;br&gt;&lt;br&gt;임창용 측은 도박을 위해 돈을 빌린 것은 맞지만 현금이 아닌 도박 칩이었고, 액수 자체도 1억 5000만원이 아닌 7000만원 상당에 불과해 모두 변제했다고 주장했다.&lt;br&gt;&lt;br&gt;임창용은 1995년 해태 타이거즈에서 프로야구 선수 생활을 시작해 삼성 라이온즈를 거쳐 일본과 미국의 프로 무대에서도 활동한 바 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/ITMVGRU2FJEK7H7MCM26MF6YAY.jpg?auth=90d4e3ad7b8e898a799ca8f5ce837fea776f3b09eb9708496866e5436b49a4e2&amp;smart=true&amp;width=1600&amp;height=900" type="image/jpeg" height="900" width="1600"/>
     </item>
     <item>
       <title>오늘 2심 선고 앞둔 김호중, 반성문 130장 냈다 </title>
@@ -938,54 +990,6 @@ General of the Army Douglas MacArthur, Supreme Commander for Allied Powers, (Lef
         <media:description type="plain">마스크팩 제조업체 엘앤피코스메틱 권오섭 대표/조선DB</media:description>
         <media:credit role="author" scheme="urn:ebu">김연정 객원기자</media:credit>
       </media:content>
-    </item>
-    <item>
-      <title>이재명도 “만나자”… 지금 한국서 가장 주가 높은 사람</title>
-      <link>https://www.chosun.com/national/people/2025/04/25/7LR35O34SNDJFOXJBKCUMOWGKY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/04/25/7LR35O34SNDJFOXJBKCUMOWGKY/</guid>
-      <dc:creator>박순찬 기자, 조재희 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 24 Apr 2025 15:51:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DXWYXO4F5BGU5DUG6WCN7MU2FI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;23일 서울 여의도 주한미국상공회의소(AMCHAM) 사무실에서 미국과의 통상회담에 관해 이야기하는 제임스킴 주한미국상공회의소 회장./ 조인원 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“이재명 전 대표는 최근에 두 번 만났어요. 엊그제는 홍준표 후보를 만났고, 지난주에는 이준석 전 대표하고도 만나고....”&lt;br&gt;&lt;br&gt;지금 한국에서 가장 주가가 높은 사람을 꼽으라고 하면 제임스 김(63) 암참(AMCHAM·주한미국상공회의소) 회장을 빼놓을 수 없다. 암참은 한·미 투자와 무역 발전을 위해 1953년 설립한 국내 최대 외국 상공회의소다. 지난 2014년부터 암참 회장직을 맡고 있는 그는 암참 역사상 첫 한국계 수장(首長)이다.&lt;br&gt;&lt;br&gt;올해로 회장 선임 12년째, 그 사이 암참의 위상은 크게 달라졌다. 암참은 최근 유력 대선 주자들을 경선 중에도 과감하게 초청해서 만난다. 재계에서 “요새 가장 힘있는 사람이 제임스 김 회장”이란 말이 나올 정도다.&lt;br&gt;&lt;br&gt;23일 서울 여의도 암참 사무실에서 만난 김 회장은 “이재명 전 대표가 저한테 ‘미국이 한국한테 제일 중요한 파트너다, 나도 비즈니스 엄청 좋아한다‘고 말하더라”며 “이준석 전 대표도, 홍준표 후보도 미국과 관계를 모두 중요하게 생각하고 있다”고 했다. &lt;br&gt;&lt;br&gt;‘누가 차기 대통령이 되면 좋겠느냐‘고 묻자, 김 회장은 “암참은 비정치적 조직”이라고 선을 그으면서도 “누구든 우리 의견을 좀 들어주고, 우리와 잘 액세스(access·접촉)될 수 있는 대통령을 원한다”고 했다.&lt;br&gt;&lt;br&gt;암참은 10년 전만 해도 한국에 지사를 둔 미국 기업이 주축 회원이었지만, 이후 삼성, SK, 현대차, LG 등 4대 그룹 계열사를 비롯해 수많은 한국 기업이 회원사로 합류했고, 최근에도 가입 요청이 이어지고 있다. 현재 회원사는 800여 곳. 그는 “미국에 진출하려는 한국 기업이 많아졌기 때문”이라며 “우리 플랫폼이 더 커지면 목소리도 더 커지고 이걸 가지고 한국, 미국 정부와 얘기하는 다리 역할도 더 잘할 수 있게 될 것”이라고 했다.&lt;br&gt;&lt;br&gt;1962년 한국에서 태어난 그는 8세 때 미국계 보험사에서 일하던 부모를 따라 미국으로 이민 갔다. UCLA와 하버드대 대학원을 졸업하고 미국 IBM 및 AT&amp;amp;T 등을 거쳐, 2005년 오버추어코리아 대표로 한국에 돌아왔다. 이어 한국MS(마이크로소프트)와 한국GM(제너럴모터스) 대표를 지냈다.&lt;br&gt;&lt;br&gt;그는 현재 한미 간 가장 뜨거운 이슈인 ‘관세‘의 배경에 대해 이렇게 답했다. “제가 트럼프 대통령 첫 임기 때 한국에서 두 번 만났습니다. 그 때 무역 적자가 210억달러였어요, 그런데 지금은 650억달러에요. 대통령이 볼 때는 ‘내가 4년간 없으니까 세 배나 올랐구나’ 생각할 수 있어요. 대통령 취임식 때 만난 하워드 러트닉 상무장관도 무역 적자에 대해선 아주 세게 얘길 하더라고요.”&lt;br&gt;&lt;br&gt;그는 한국이 비관세 장벽을 허물고, 무역 불균형을 해소하려 노력하는 동시에 ‘스토리 텔링’ 전략 역시 바꿔야 한다고 조언했다. “한국은 바이든 정부 기간 동안 미국에 140조원 투자를 했어요. 일자리도 5만6000개나 직접 창출하고, 외국 투자국 가운데 고용 기여가 제일 커요. 하지만 미국 사람들은 SK, SPC도 한국 회사인 줄 잘 몰라요. ‘케이스 바이 케이스’ 하기보다 한국 회사들이 이렇게 잘하고 있음을 통째로 잘 보여주는 게 중요합니다.”&lt;br&gt;&lt;br&gt;그는 대선 주자들을 만나면 한국이 ‘아시아·태평양 비즈니스 허브‘가 돼야 한다고 늘 얘기한다고 했다. “외국 기업 아태 본사가 싱가포르엔 5000곳이나 있어요. 홍콩엔 1400곳, 상하이엔 900곳. 그런데 한국에는 100곳도 없어요. 아시아 헤드가 들어와야 한국에 일자리도 생기고, 한국에도 투자하자고 말할 수 있잖아요.” 그러려면 한국 특유의 규제와, 비관세 장벽 등 한국이 ‘비즈니스 하기 힘든 나라‘라는 인식을 바꿀 필요가 있다고 했다.&lt;br&gt;&lt;br&gt;김 회장은 “10월 경주에서 열리는 APEC에 트럼프 대통령이 와서 한국의 새 대통령과 빅딜을 사인할 수 있으면 좋겠다”며 “만약 알래스카 에너지 프로젝트에 참여할 수 있다면 상당한 게임 체인저(game changer·판도를 바꾸는 일)가 될 것”이라고 했다.&lt;br&gt;&lt;br&gt;그의 취미는 구력이 50년 넘는 테니스다. 지인들과도 골프 대신 테니스로 친목을 다지고, 출장 귀국편을 일부 앞당기더라도 주말 테니스만은 놓치지 않으려 욕심을 낸다고 한다. “건강이 중요하니까, 주말 운동만은 꼭 지키려 합니다. 운동 안 하면 이런 일을 어떻게 하겠어요.”&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/DXWYXO4F5BGU5DUG6WCN7MU2FI.jpg?auth=83a0caaacda5f8235fc2c399b43c15a0b12a18ff3d41131140491e97993fb7a0&amp;smart=true&amp;width=3150&amp;height=2099" type="image/jpeg" height="2099" width="3150">
-        <media:description type="plain">23일 서울 여의도 주한미국상공회의소(AMCHAM) 사무실에서 미국과의 통상회담에 관해 이야기하는 제임스킴 주한미국상공회의소 회장./ 조인원 기자</media:description>
-      </media:content>
-    </item>
-    <item>
-      <title>[오늘의 날씨] 2025년 4월 25일</title>
-      <link>https://www.chosun.com/national/transport-environment/2025/04/25/WDDU2V6IAZEJBLYPDWDQZTFWFY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/04/25/WDDU2V6IAZEJBLYPDWDQZTFWFY/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 24 Apr 2025 15:50:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CNTYNZURNZGIZNWKZH6RXAALJM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>마침내 만난 세상의 빛… 두 번의 ‘유산 터널’ 지나온 삼둥이</title>
-      <link>https://www.chosun.com/culture-life/culture_general/2025/04/25/I5H2GB4AIRCILD3GJFZJRFX4YQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/culture-life/culture_general/2025/04/25/I5H2GB4AIRCILD3GJFZJRFX4YQ/</guid>
-      <dc:creator>박상현 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 24 Apr 2025 15:50:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/L5AGHVUYY5COFACAFYNQFVYH5M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 21일 경기 부천시 원미구 진달래동산에서 박정민(뒷줄 왼쪽)·우도현씨 부부가 세쌍둥이를 안고 활짝 웃고 있다. 앞줄 왼쪽부터 셋째 아들 아진, 둘째 아들 아준, 첫째 딸 아린. /조인원 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“두 번 유산 끝에 세쌍둥이가 찾아왔어요. 끝내 만나지 못했던 두 아이가 이번에 함께 우리 품에 온 거 같았죠.”&lt;br&gt;&lt;br&gt;박정민(38)·우도현(42)씨 부부는 작년 5월 세 아이의 부모가 됐다. 2018년 결혼해 6년 만에 삼 남매를 안기까지 곡절이 많았다. 난임을 겪으며 2021년 시험관 시술을 시작했다. 첫 시도에 임신이 됐으나 얼마 지나지 않아 유산을 했다. 이듬해 시험관 3차에 다시 임신을 했지만 16주에 사산했다. &lt;br&gt;&lt;br&gt;“보통 시험관을 시작하면 ‘난임의 터널’에 들어갔다고 해요. 우리 부부는 그 터널의 끝이 보였지만 두 번이나 출구가 닫혀 버렸지요. 상심의 그늘도 더 어두워졌어요.”&lt;br&gt;&lt;br&gt;부부는 마지막이라 생각하고 재작년 시험관 시술에 다시 도전했다. 시술 4차에 두 배아가 자리 잡았다. 쌍둥이였다. 그런데 검진 날 병원에서 생각지 못한 소식을 들려줬다. 자궁에 안착한 두 배아와 더불어 자연임신까지 돼 ‘삼둥이’가 됐다는 것이다. 아내 박씨는 “세쌍둥이는 상상해본 적이 없어서 많이 놀랐지만 앞서 얼굴을 보지 못했던 유산된 아이 둘을 결국 이렇게 만나게 되는구나 생각했다”며 “‘삼둥이는 끝까지 지켜내자’고 남편과 다짐하며 출산까지 긴 여정을 밟아가기 시작했다”고 했다.&lt;br&gt;&lt;br&gt;부부는 원래 두 명의 자녀를 계획했었다. 삼 남매인 박씨는 “남편과 가족 계획을 세울 때 셋까지도 이야기를 나눈 적이 있었는데 임신 준비 기간이 계속 늘어나면서 현실적으로 셋은 어렵겠다고 생각했었다”며 “그래도 낳을 수만 있다면 꼭 둘은 갖고 싶었다”고 했다. 시험관 시술은 한 번만 시도해도 여성이 짊어지는 체력적 부담이 크기에, 부부는 첫 2년간은 하나의 배아만 이식했었다. 그러나 유산이 계속되면서 임신 확률을 높이려 두 배아를 이식했다. 그런데 첫 시도에 자연임신까지 겹치며 세 아이를 갖게 된 것이다. &lt;br&gt;&lt;br&gt;하지만 부부는 안심할 수 없었다. “세쌍둥이가 세상에 나올 35주 차를 기다리며 한 주 한 주 살얼음판을 걷는 듯한 시간을 보냈다”고 했다. 다행히 입덧은 심하지 않았고 뱃속 삼둥이도 건강하게 잘 자랐다. 한시름 놓고 출산만을 기다리던 때에 위기가 찾아왔다. 18주 차에 접어든 어느 날 갑자기 양수가 터진 것이다. 유산 경험이 있는 데다 세 아이를 품고 있어 ‘고위험 산모’였던 박씨는 곧장 병원에 이송됐다. 출산까지는 최소 29주 차까진 버텨야 하기에 남은 11주는 병원에서 보내야만 했다.&lt;br&gt;&lt;br&gt;병원에서 보냈던 그 11주는 의정 갈등 시기였다. 의대 증원에 반발한 전공의들이 대거 병원을 떠났다. 병원이 정상적으로 돌아가지 못했던 때라 걱정도 커질 수밖에 없었다. 그러나 의료진의 헌신까지 파업한 것은 아니었다. 우씨는 “그 와중에도 고위험 산모이다 보니 의사·간호사 분들이 각별히 신경을 써주셨다”며 “우리 부부가 올라선 살얼음판에 의료진 모두가 같은 마음으로 올라가 안전지대까지 함께 헤쳐간 기분이었다”고 했다. 박씨는 “서울대병원 조희영·김지회 교수님과 고위험산모실 간호사 분들이 세 아이가 세상의 빛을 볼 수 있도록 지켜주신 출산의 주역”이라고 했다.&lt;br&gt;&lt;br&gt;그렇게 첫째 딸 아린, 둘째 아들 아준, 셋째 아들 아진이 태어났다. 셋이다 보니 부부는 친정 도움을 받으며 아이들을 키우고 있다. 남편은 육아휴직을 썼다. 우씨는 “아이 셋을 한꺼번에 돌보는 상황이 흔하진 않지만, 시험관으로 다둥이를 낳는 젊은 부부들이 많아졌기 때문에 돌봄 제도에 대해서도 생각해볼 때가 많다”면서 “우리처럼 부모님 도움을 받지 못하는 부부들은 다자녀를 생각하기 어려울 것 같다”고 했다.&lt;br&gt;&lt;br&gt;박씨는 벌써 남편의 복직 후 육아가 걱정이다. 대기를 걸어 놓은 국공립 어린이집은 아직까지도 소식이 없다. 그는 “국공립 어린이집은 출산하자마자 대기를 걸어 놓지 않으면 입소가 어렵다 보니 순서가 돌아올 때까지는 가정 보육을 해야 한다”며 “그런데 부부 중 한 명이 직장을 다니면서 다른 한 명이 자녀 여러 명을 온전히 돌보는 것은 현실적으로 불가능하다”고 했다. &lt;br&gt;&lt;br&gt;부부는 ‘진짜 저출산 대책’에 대해서도 느끼는 바가 많다고 설명했다. 우씨는 “우리 같은 다자녀 가정뿐만 아니라 출산 가정 모두가 돌봄 걱정을 하지 않도록 출산 제도를 설계하는 것이 ‘진짜 저출산 대책’이란 생각이 든다”며 “다자녀 부모의 경우 어린이집 입소 전까지는 정부의 돌봄 서비스를 소득 제한 없이 지원받을 수 있으면 도움이 될 것 같다”고 했다. 박씨는 “출산은 장려하면서 다자녀 혜택에 소득 조건을 붙이다 보니 실제 혜택을 누리는 부모들이 많지 않고, 저출산 대책이 피부에 와닿지 않는 경우도 많다”며 “아이를 낳는 것 자체가 요즘은 어려운 일이므로 출산 가정 모두가 혜택을 받을 수 있게 허들이 없어졌으면 한다”고 했다. &lt;br&gt;&lt;br&gt;돌을 한 달 앞둔 아이들이 외출이 잦아지며 ‘주차’도 부부의 큰 고민거리가 됐다. 혼자 걸어 다닐 수 없는 아이들은 유모차를 타야 한다. ‘삼둥이 유모차’는 일반 유모차보다 훨씬 부피가 크다. 아이 셋을 먹일 이유식과 물, 기저귀와 물티슈·턱받이 같은 꼭 필요한 육아 소품만 챙겨도 한 짐이다. &lt;br&gt;&lt;br&gt;일본의 경우 2006년 오사카를 시작으로 각 지자체가 임산부, 유아 동반 보호자, 고령자 등 이용 허가증을 받은 사람들을 대상으로 ‘배려 주차 구역’을 운영 중이다. 우리나라는 아직 장애인 주차구역 외엔 이동 약자를 위한 제도가 부족한 상황이다. 부부는 “아이를 낳기 전에는 전혀 느낄 수 없었던 불편함이 하나둘 보이기 시작한다”면서 “이런 ‘디테일’이 발전할수록 우리 사회가 아이를 많이 낳는 사회로 바뀔 수 있을 것 같다”고 했다.&lt;br&gt;&lt;br&gt;&lt;b&gt;-&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;저출산고령사회위원회와 조선일보가 공동 기획합니다. 위원회 유튜브에서 관련 내용을 볼 수 있습니다. 아이들이 선물한 행복을 공유하고 싶은 분들은 위원회(betterfuture@korea.kr)로 사연을 보내주세요.&lt;/b&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>서대문 유진상가 최고 49층 재개발, 주상복합으로</title>
-      <link>https://www.chosun.com/national/national_general/2025/04/24/QNM2FGQWCRHDRM4ALIGSBZJFKU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/24/QNM2FGQWCRHDRM4ALIGSBZJFKU/</guid>
-      <dc:creator>김영우 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 24 Apr 2025 14:14:49 +0000</pubDate>
-      <content:encoded>서울 서대문구 유진상가가 최고 49층 주상복합 단지로 재탄생할 전망이다.&lt;br&gt;&lt;br&gt;서울시는 이 같은 내용이 담긴 유진상가·인왕시장 일대 정비 계획 결정안이 도시계획위원회를 통과했다고 24일 밝혔다.&lt;br&gt;&lt;br&gt;유진상가는 1970년 홍제천을 복개해 지은 지상 5층짜리 주상복합 아파트다. 당시 서울의 최고급 아파트로 서대문의 랜드마크(상징 건축물)였다. &lt;br&gt;&lt;br&gt;유진상가는 남북 간 긴장이 고조된 상황에서 ‘군사 요새’처럼 지었다. 앞서 1968년 김신조 등 북한 공작원 31명이 박정희 대통령을 암살하기 위해 침투한 ‘1·21 사태’가 벌어졌다. &lt;br&gt;&lt;br&gt;구파발에서 서울 도심으로 들어오는 길목에 있는 유진상가는 남하하는 북한군을 저지할 수 있게 설계했다. 1층 기둥을 부수면 아파트 전체가 넘어지면서 방어벽 역할을 할 수 있게 만들었다. 전차를 댈 수 있는 필로티 공간도 만들었다.&lt;br&gt;&lt;br&gt;1990년대 내부순환로가 상가 위를 지나가면서 건물 일부가 철거됐고 상권도 쇠퇴했다. 2010년 들어 정비 사업을 추진했으나 주민 갈등 등으로 번번이 무산됐다. 이번 결정안에 따르면, 유진상가와 근처 인왕시장을 묶어 개발한다. 인왕시장 자리에 최고 49층 주상복합 아파트 1121가구와 오피스텔, 상가 등을 올린다. 낡은 유진상가 건물과 홍제천을 덮은 복개 구조물은 철거해 원래 홍제천의 모습을 살린다.&lt;br&gt;&lt;br&gt;단지에는 어린이부터 노인까지 모든 연령층이 이용할 수 있는 복지·문화 시설인 ‘인생 케어센터’와 공공 산후 조리원, 도서관, 창업 지원 센터 등을 연다.&lt;br&gt;&lt;br&gt;서울시 관계자는 “새로 짓는 유진상가가 서울 서북권의 새로운 중심 상권 역할을 할 것으로 기대한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘尹부부 공천개입 의혹 수사’ 검찰, 구상찬 전 의원 참고인 소환</title>
-      <link>https://www.chosun.com/national/court_law/2025/04/24/3WR2D5ERYJEJHMG37LQS63V7YI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/04/24/3WR2D5ERYJEJHMG37LQS63V7YI/</guid>
-      <dc:creator>이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 24 Apr 2025 10:09:48 +0000</pubDate>
-      <content:encoded>윤석열 전 대통령 부부 공천 개입 의혹을 수사하는 검찰이 김태우 전 강서구청장 캠프의 공동선거대책위원장을 맡았던 구상찬 전 의원을 24일 소환해 조사했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/T3TK4CA275MOFHOOUYHH7CUOBU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;국민의힘 김태우 강서구청장 보궐선거 후보의 선거대책위원회가 2023년 9월 28일 오전 발산역 인근에서 연 선대위 출정식에서 참가자들이 손을 들어올리고 있다. 왼쪽부터 구상찬 전 의원, 김기현 대표, 김태우 후보, 나경원 전 의원, 김성태 전 의원. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 서울중앙지검 전담수사팀(팀장 이지형 차장검사)은 이날 구 전 의원을 참고인 신분으로 불러 윤 전 대통령이 김 전 구청장의 공천에 개입했는지 여부를 캐물었다. 이 과정에서 구 전 의원이 윤 전 대통령으로부터 공천과 관련해 연락을 받았는지, 경선 과정에서 김 전 구청장을 지지하라는 요구를 받았는지 등을 상세히 물었다고 한다.&lt;br&gt;&lt;br&gt;그러나 구 전 의원은 “김 전 구청장의 공천은 윤 전 대통령과 무관하다”는 취지로 진술한 것으로 전해졌다. 공천 전후로 윤 전 대통령 측으로부터 연락을 받거나 만난 사실도 없다는 것이 구 전 의원 입장이라고 한다. 또 공천 개입 의혹의 핵심 인물인 정치 브로커 명태균씨에 대해서도 구 전 의원은 지난해 의혹이 불거질 당시 언론 보도를 통해 처음 알게 됐다고 진술한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;이와 관련해 검찰은 최근 김 전 구청장을 직접 조사하기도 했다. 김 전 구청장은 이날 본지에 “2022년 공천은 윤 전 대통령과는 관계가 없다”는 입장을 밝혔다.&lt;br&gt;&lt;br&gt;한편, 검찰은 이날 윤 전 대통령 부부가 공천에 개입했다는 의혹이 불거진 평택시장 선거 당시 국민의힘 경선에 출마했던 공재광 전 평택시장도 참고인으로 불러 조사했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>5명 사상 울산 택시사고 “브레이크 대신 엑셀”…운전 미숙 결론</title>
