@@ -13,6 +13,24 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>의협 총회... ‘의대 정원 2000명 증원’ 국정조사 요구</title>
+      <link>https://www.chosun.com/national/welfare-medical/2025/04/27/IE7WE3TDNJDCLFPUGDUJ3IJLCM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/04/27/IE7WE3TDNJDCLFPUGDUJ3IJLCM/</guid>
+      <dc:creator>곽래건 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 27 Apr 2025 10:01:15 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/K7D2EV337JIDFEDRXAD2CPCW3U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;27일 대전컨벤션센터에서 대한의사협회 제77차 정기대의원총회가 열리고 있다. /의협 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대한의사협회(의협)가 27일 정부의 의대 정원 2000명 증원 정책에 대해 국정조사를 요구하기로 결의했다.&lt;br&gt;&lt;br&gt;의협은 이날 대전컨벤션센터에서 정기대의원총회를 열고 이 같이 결정했다. 의협 대의원들은 이날 발표한 결의문에서 “정부의 일방적인 의대 2000명 증원 정책은 의료현장의 심각한 혼란을 초래했다”며 “정책의 기획 및 집행 전반에 대한 국정조사를 통해 책임 소재를 명확히 하고, 유사 사태 재발을 막고자 국정조사를 요구한다”고 했다.&lt;br&gt;&lt;br&gt;의협은 “정부는 (정책 추진) 1년이 지나도록 의대생과 젊은 의사들이 고통받고 있다는 사실을 부인하지 말라”며 “의료개혁이라는 이름으로 호도하지 말고, 원상복구만이 해답”이라고 주장했다. 정부가 의대 정원 증원 발표를 없던 일로 하고, 의료계와 다시 논의해 정하라는 것이다. 교육부가 내년도 의대 모집 인원을 증원 전인 3058명으로 동결했지만, 모집 인원만 늘었을 뿐 정원은 2000명 늘어난 대로 그대로니 이를 다시 줄여야 한다는 취지다.&lt;br&gt;&lt;br&gt;대의원들은 “의협은 상실감에 빠진 젊은 회원과 의대생 치유에 온 힘을 쏟으라”며 “의협이라는 든든한 우산을 만들어야 한다”고 했다. 이에 따라 회칙을 바꿔 면허가 없는 의대 학생에게도 ‘준회원’ 자격을 부 여하기로 했다. 준회원은 회비 납부나 선거권 등 권리와 의무가 없는 소통 강화를 위한 상징적인 의미라고 의협은 설명했다.&lt;br&gt;&lt;br&gt;의협은 대선을 앞두고 정책에 영향력을 가져가겠다는 뜻을 분명히 했다. 김택우 의협 회장은 이날 “대선 기간 제시되는 보건의료 공약들이 또 다른 의료 개악으로 이어지지 않도록 정책 주도권을 확보해 나가겠다”며 “공공의대 설립에 대한 대응 방안을 신중하게 준비하고 있다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“차량 3대 22만원, 4대 52만원”... 주차난에 극약처방 내놓은 아파트 </title>
+      <link>https://www.chosun.com/national/national_general/2025/04/27/OZVEIWHEKFHWLAJMPXMCVPK5AE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/27/OZVEIWHEKFHWLAJMPXMCVPK5AE/</guid>
+      <dc:creator>이혜진 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 27 Apr 2025 09:02:09 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/O7AQQPZIBNAERCRLAQFJXVR7RU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한 아파트에서 시행하는 차량 보유 대수 별 차등 주차요금제. /보배드림&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한 아파트 단지가 차량 보유 대수에 따라 최대 월 52만원의 차등 주차 요금을 부과하기로 해 화제다. &lt;br&gt;&lt;br&gt;지난 24일 온라인 커뮤니티 보배드림에 따르면, 글쓴이 A씨는 한 아파트 관리사무소가 차량 대수별로 주차 요금을 차등 부과하는 정책을 도입했다고 전했다. 구체적으로 세대마다 1대를 보유할 시 주차 요금은 무료이지만, 2대에 대해선 월 2만원, 3대 월 22만원, 4대 월 52만원의 요금을 부과한다. 5대 이상 차량 등록은 아예 불허하기로 했다.&lt;br&gt;&lt;br&gt;이 아파트 관리사무소는 방문 차량에 대해서도 세대당 월 100시간으로 주차 시간을 제한했다. 100시간을 초과할 경우 1시간당 1000원의 추가 요금을 해당 세대의 주차 비용에 포함해 부과한다. 예컨대 방문 차량이 월 130시간 주차할 경우, 100시간을 초과한 30시간에 대해 시간당 1000원씩 총 3만원의 요금을 부과하게 된다. 이는 주차 공간 부족 문제를 해결하기 위한 조치로 보인다.이 아파트 주민으로 보이는 글쓴이는 “속이 시원하다”며 “차량 3대부터 불허했으면 더 좋았을 것”이라고 했다. &lt;br&gt;&lt;br&gt;이 소식이 자동차 커뮤니티 ‘보배드림’에 공유되자 다양한 반응이 나왔다. 일부 네티즌들은 “우리 아파트도 이렇게 했으면 좋겠다” “전국 아파트에 적용했으면”이라며 긍정적인 반응을 보였다. &lt;br&gt;&lt;br&gt;댓글을 통해 실제로 여러 아파트 단지에서 이와 비슷한 차등 요금제를 시행 중이라는 의견도 나왔다. 네티즌 B씨가 거주하는 1757세대 규모의 아파트는 1대 무료, 2대 5000원, 3대 20만원, 4대 50만원의 요금 체계를 도입했다고 밝혔다. B씨는 “유료 전환 후 언제 입차해도 평균 50대 이상 주차 공간이 남아있다”며 주차난 해소 효과를 전했다. 주차장 회전율이 개선되면서 심야 시간대 주차난도 크게 줄었다는 설명이다. &lt;br&gt;&lt;br&gt;차등 요금제로 걷힌 주차비는 아파트 관리비 차감 등에 활용되는 것으로 알려졌다. 네티즌 C씨는 자신이 거주하는 아파트의 경우 주차비 수익을 세대별로 균등 분배해 관리비에서 차감해주고 있다고 밝혔다. 네티즌 D씨는 “주차비 수익을 별도 통장에 입금해놓고 1년 후 평형별로 관리비를 차감해주기도 한다”고 했다. &lt;br&gt;&lt;br&gt;지난 10일 부동산인포가 공동주택관리시스템에 등록된 단지들의 주차 공간을 분석한 결과, 전체 아파트의 평균 주차 대수는 가구당 1.06대에 불과했다. 입주 시기에 따라 격차가 있었는데, 1970년대 입주 단지는 0.73대, 1990년대는 0.93대, 2010년대는 1.15대였고, 2020년대는 1.24대로 나타났다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>메마름과 강풍 심화... 산불 위험 재차 커져</title>
       <link>https://www.chosun.com/national/transport-environment/2025/04/27/7MREAZR5HZA6HD3A4VLUAHPZIM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/04/27/7MREAZR5HZA6HD3A4VLUAHPZIM/</guid>
@@ -906,15 +924,6 @@ General of the Army Douglas MacArthur, Supreme Commander for Allied Powers, (Lef
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZDY4O5CRGZPBNM64YXGXP2S6UM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;손준성 대구고검 차장검사(검사장). /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이른바 ‘고발 사주 의혹’으로 더불어민주당에 의해 탄핵소추된 손준성 대구고검 차장검사(검사장)에 대한 탄핵 심판 절차가 정지된 지 1년 만에 재개된다. 헌법재판소는 당초 같은 사건으로 형사 재판이 진행 중이라는 이유로 재판을 정지했었는데, 대법원이 무죄를 확정하면서 재개한 것이다.&lt;br&gt;&lt;br&gt;헌재는 25일 “검사(손준성) 탄핵 사건의 2차 변론 준비 절차는 29일 소심판정에서 진행된다”고 밝혔다. 헌재가 작년 4월 탄핵 심판 절차를 정지한 지 1년 만이다.&lt;br&gt;&lt;br&gt;고발 사주 의혹은 윤석열 전 대통령이 검찰총장이던 2020년 4·15 총선을 앞두고 자신과 아내의 명예를 훼손한 혐의로 유시민 전 노무현재단이사장과 최강욱 전 민주당 의원 등을 수사기관에 고발해 달라고 미래통합당(현 국민의힘) 측에 사주했다는 것이다. 손 검사장은 두 차례에 걸쳐 고발장을 당시 미래통합당 총선 후보였던 김웅 전 의원에게 텔레그램으로 전달한 혐의로 2022년 5월 기소됐다. 이어 이듬해 12월 민주당에 의해 탄핵소추돼 직무도 정지됐다. &lt;br&gt;&lt;br&gt;1심은 징역 1년을 선고했지만, 2심은 “고발장을 직접 전달한 증거가 없다”며 무죄로 판결했다. 대법원도 24일 원심 판단이 맞는다며 무죄를 확정했다.&lt;br&gt;&lt;br&gt;손 검사장 측은 2023년 3월 열린 탄핵 심판 첫 변론 준비 기일에서 “탄핵 심판과 형사 절차를 병행하는 게 과연 바람직한가”라며 심판 절차를 멈춰야 한다고 주장했다. ‘탄핵 심판 청구와 동일한 사유로 형사 소송이 진행되고 있는 경우에는 심판 절차를 정지할 수 있다’고 규정한 헌법재판소법 취지에 따라야 한다는 것이다. 헌재는 손 검사장 측 요청을 받아들여 재판을 정지했다가 1년 만에 재개했다. &lt;br&gt;&lt;br&gt;헌재는 지난 18일 문형배·이미선 재판관이 퇴임하면서 ‘7인 체제’로 운영되고 있다. 재판관 6명 이상이 찬성하면 탄핵을 선고할 수 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>신분당선서 지퍼 내리고 신체부위 노출한 ‘군복男’…경찰 추적 중</title>
-      <link>https://www.chosun.com/national/national_general/2025/04/21/RCNIWDWC55CNLIIKDRZIAUWDE4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/21/RCNIWDWC55CNLIIKDRZIAUWDE4/</guid>
-      <dc:creator>김명일 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 21 Apr 2025 09:11:55 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VREFU4JAZUO5VQH3F5ILKXCRKM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초경찰서. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;군복을 입은 남성이 지하철에서 신체 중요 부위를 노출했다는 신고가 접수돼 경찰이 추적에 나섰다.&lt;br&gt;&lt;br&gt;21일 서초경찰서 등에 따르면 지난 19일 오후 2시쯤 한 여성이 지하철 신분당선에 탔다가 군복을 입은 남성이 신체 중요 부위를 노출한 장면을 목격했다. &lt;br&gt;&lt;br&gt;서초경찰서는 해당 남성에게 공연음란 혐의를 적용해 수사에 나섰다. 아직까지 남성의 정확한 신원과 현직 군인 신분인지 등은 확인하지 못한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;대학생인 피해 여성은 채널A와의 인터뷰에서 20~30대로 보이는 군복 차림 남성이 의자에 앉은 자신의 앞에 서서 바지 지퍼를 내린 채 서 있었다며 “처음에는 지퍼를 닫는 걸 잊으셨나 하고 생각했는데 그 안에 이제 속옷이 아니라 중요 부위가 노출되어 있는 걸 봤다”고 했다. &lt;br&gt;&lt;br&gt;당시 지하철 안에는 다른 승객도 있었지만 남성은 개의치 않았다고 한다. &lt;br&gt;&lt;br&gt;이번 사건은 한 네티즌이 “신분당선 타는 여성분들 조심하세요”라는 짧은 글과 함께 해당 남성을 촬영한 영상을 소셜미디어에 공개하면서 알려졌다. 해당 영상은 이후 여러 온라인 커뮤니티 등을 통해 빠르게 확산됐다.&lt;br&gt;&lt;br&gt;서초경찰서 관계자는 조선닷컴과의 통화에서 “현재 해당 남성 체포 여부 등 자세한 수사 상황은 밝힐 수 없다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[신문은 선생님] [오늘의 인물] ‘철의 여인’ 마거릿 대처</title>
       <link>https://www.chosun.com/national/nie/2020/10/13/UZBINT6KJVCYXAWCLTECPDUIOA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/nie/2020/10/13/UZBINT6KJVCYXAWCLTECPDUIOA/</guid>
@@ -959,15 +968,6 @@ General of the Army Douglas MacArthur, Supreme Commander for Allied Powers, (Lef
       <description/>
       <pubDate>Fri, 25 Apr 2025 03:00:30 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AHJFO3TWVBANJFMXG2DSPEKCII.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;뇌 MRI 사진. /영 카디프대&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;건강보험 보장성 강화 정책, 이른바 ‘문 케어’ 시행 이후 단순 두통으로 뇌 MRI를 촬영한 중국인이 9배 가까이 급증한 것으로 나타났다.&lt;br&gt;&lt;br&gt;25일 국회 보건복지위원회 소속 국민의힘 서명옥 의원실이 국민건강보험공단에서 받은 자료에 따르면, 지난해 뇌·뇌혈관 MRI를 촬영한 인원은 총 135만6778명으로, 2017년(48만2051명)보다 2.8배 증가했다. 같은 기간 중국인 환자는 5291명에서 2만185명으로 3.8배 늘어나, 전체보다 증가 폭이 더 컸다.&lt;br&gt;&lt;br&gt;특히 ‘두통’으로 MRI를 촬영한 인원은 2017년 7250명에서 지난해 3만8287명으로 5.3배 증가했다. 중국인만 놓고 보면, 99명에서 871명으로 8.8배 뛰었다.&lt;br&gt;&lt;br&gt;고가의 뇌 MRI에 건강보험 적용이 대폭 확대된 시점은 문재인 정부 시절인 2018년 10월부터다. 이전까지는 뇌경색 등 중증 뇌 질환에 한해 건보 적용이 됐지만, 이후 두통·어지럼증 등 비교적 가벼운 증상에도 보험이 적용되면서 MRI 촬영이 급격히 늘었다.&lt;br&gt;&lt;br&gt;실제 문 케어 시행 후 3년간 뇌 MRI 촬영 건수는 연평균 51.2%씩 증가했다. 2022~2023년에는 연 150만 건에 달했다.&lt;br&gt;&lt;br&gt;문제는 외국인 건보 가입자 중 절반가량을 차지하는 중국 국적자들 가운데, 보험료를 내지 않으면서도 한국인과 동일한 건보 혜택을 누리는 사례가 적지 않다는 것이다.&lt;br&gt;&lt;br&gt;건보에 가입된 외국인은 2019년 말 121만명에서 2023년 말 146만명으로 25만명 늘었다. 이 가운데 중국 국적자는 70만명으로 전체 외국인 중 48%를 차지할 정도로 가장 많다. 뒤이어 베트남(15만명), 우즈베키스탄(7만명), 네팔(5만명) 순이다.&lt;br&gt;&lt;br&gt;특히 중국은 외국인 건보 가입자가 많은 10국 가운데 유일하게 적자를 내고 있다. 2019년 -987억원, 2021년 -109억원, 2022년 -229억원 등 적자를 기록했다.&lt;br&gt;&lt;br&gt;이 같은 논란이 계속되자, 정부는 지난해 4월 국내에 입국하는 외국인과 재외국민은 6개월 이상 거주해야만 건보 가입자의 피부양자가 될 수 있도록 요건을 강화했다.&lt;br&gt;&lt;br&gt;서명옥 의원은 “외국인의 건보 ‘무임승차’ 논란은 여전히 끊이지 않는다”며 “중국인 무임승차 논란과 과도한 MRI 촬영 문제를 방지하는 등 건보 재정 건전성을 지키기 위한 제도 개선이 시급하다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>서울고검, 김건희 ‘도이치모터스 주가 조작 연루’ 의혹 재수사 결정</title>
-      <link>https://www.chosun.com/national/court_law/2025/04/25/3LFZWJBETJFP7LOF2UW6GOVKVY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/04/25/3LFZWJBETJFP7LOF2UW6GOVKVY/</guid>
-      <dc:creator>이민준 기자, 유희곤 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 25 Apr 2025 01:39:41 +0000</pubDate>
-      <content:encoded>윤석열 전 대통령의 부인 김건희 여사의 ‘도이치모터스 주가 조작 연루’ 의혹에 대해 검찰이 재수사를 결정했다고 25일 밝혔다. 서울중앙지검이 지난해 10월 불기소를 결정하자 고발인들이 항고한 데 따른 것이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/L73S2EUNEVIFZMFK7FI3MSUOWY.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령 부인 김건희 여사가 지난 11일 한남동 관저를 퇴거해 사저인 서울 서초구 아크로비스타로 들어서며 지지자들과 인사를 나누고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;항고는 고소‧고발인이 지방검찰청·지청의 불기소 처분이 타당한지 고등검찰청에 판단해달라고 요구하는 절차다. 고등검찰청은 항고장을 검토한 뒤 고소·고발인의 이의 제기가 타당하다고 판단하면 재기 수사, 공소 제기 등을 명령하거나 직접 재수사할 수 있다.&lt;br&gt;&lt;br&gt;앞서 이 의혹을 고발한 최강욱 전 의원과 황희석 변호사는 검찰이 불기소를 결정하자 지난해 10월 항고장을 제출했다. 최 전 의원은 133쪽 분량의 항고이유서를 제출할 당시 기자들과 만나 “불기소 결정은 참으로 부끄럽고 후안무치한 일”이라며 “멀쩡하게 살아있는 증거를 외면하면서까지 최고 권력을 행사하고 있는 여성의 범죄를 묵인했던 것은 아닌지 반드시 규명돼야 한다”고 말했다.&lt;br&gt;&lt;br&gt;서울중앙지검 반부패수사2부(부장 최재훈)는 불기소 결정서에서 김 여사 명의 계좌 3개(대신·미래에셋·DS투자증권)가 권오수 전 도이치모터스 회장 등의 주가조작(통정매매 47건·종가관여주문 1건)에 사용된 사실은 인정된다면서도 “김 여사 명의 계좌에서 주가조작(시세조종)성 주문 등이 제출됐다는 이유만으로 김 여사에게 공모나 방조 혐의를 적용할 수 없다”고 했다. &lt;br&gt;&lt;br&gt;그러나 서울고검은 권 전 회장 등 공범에 대한 대법원 판결이 확정된 점을 고려할 때 관련자들에 대한 추가 조사 필요성이 있다고 판단한 것으로 전해졌다. 재수사는 서울고검이 직접 맡는다.&lt;br&gt;&lt;br&gt;한편, 서울고검은 함께 제기된 ‘디올백 수수’ 의혹 불기소에 대한 항고는 기각했다고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>주말 전국 강풍에 동쪽 건조 “산불 조심”</title>
