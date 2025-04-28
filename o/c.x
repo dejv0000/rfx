@@ -13,6 +13,207 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>사적제재 사망 논란 부른 ‘음주운전 헌터’ 유튜버·구독자 재판행</title>
+      <link>https://www.chosun.com/national/national_general/2025/04/28/7RU3QAHNDZEHFN6DK7XPBVYOZ4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/28/7RU3QAHNDZEHFN6DK7XPBVYOZ4/</guid>
+      <dc:creator>광주광역시=진창일 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 28 Apr 2025 08:53:04 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/N5FHJRA3INJGZKZFV5J37B7WQI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;음주운전 의심 차량 추격·검거 콘텐츠를 생중계하는 과정에서 교통사망 사고를 유발한 유튜버 A씨가 지난해 11월 13일 오전 광주지법 101호 법정에서 열린 구속 전 피의자 신문(영장실질심사)에 출석하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;음주운전을 의심해 추적하는 과정을 생중계하다 사망 사고를 불러 ‘사적 제재’ 논란을 일으켰던 유튜버와 구독자들이 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;광주지검 형사1부(부장 허성환)는 28일 “폭력행위 등 처벌에 관한 법률 위반(공동협박·공동감금) 등 혐의로 유튜버 A(42)씨와 구독자 11명을 불구속 기소했다”고 밝혔다.&lt;br&gt;&lt;br&gt;지난해 9월 22일 오전 3시 50분쯤 광주광역시 광산구 산월동의 한 교차로에서 B(35)씨가 자신의 BMW 차량을 몰다 갓길에 주차된 대형 트레일러를 들이받아 숨지는 사고가 발생했다. 당시 A씨는 자신의 유튜브 채널 구독자들과 함께 B씨의 음주운전을 의심해 추격전을 벌였다. &lt;br&gt;&lt;br&gt;A씨는 당시 추격 상황을 자신의 유튜브 채널에 생중계했었다. 또 A씨 유튜브 채널의 구독자들이 운전하는 차량 2대도 추격전에 참여한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;검찰은 수사를 통해 A씨가 음주운전 의심 차량을 추격하는 과정을 실시간 중계하면서 후원금 수익을 얻고, 자신이 운영하는 유튜브 채널 구독자들을 동원해 차량으로 추격하거나 에워싸는 등 교통상 위험을 불러 B씨가 사망하는 사고를 일으킨 것으로 결론 내렸다.&lt;br&gt;&lt;br&gt;A씨는 지난 2023년 12월 음주 사실이 없는 운전자를 차량 운전석에 나오지 못하도록 감금한 혐의도 받고 있다.&lt;br&gt;&lt;br&gt;검찰 관계자는 “음주운전과 무관한 운전자들 또한 이유 없이 추격을 당하는 등의 위협을 받았다”며 “사적 제재를 명목으로 불특정 다수의 시민에게 위험을 발생케 하는 범죄에 엄정 대응하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/N5FHJRA3INJGZKZFV5J37B7WQI.jpg?auth=ca25194237a727dc293553d49a0cc59c54d9a4c955868267072952f9e1aa452d&amp;smart=true&amp;width=1936&amp;height=1348" type="image/jpeg" height="1348" width="1936">
+        <media:description type="plain">음주운전 의심 차량 추격·검거 콘텐츠를 생중계하는 과정에서 교통사망 사고를 유발한 유튜버 A씨가 지난해 11월 13일 오전 광주지법 101호 법정에서 열린 구속 전 피의자 신문(영장실질심사)에 출석하고 있다. /뉴시스</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>“사이버 폭력·성 착취물 노출”... 인권위, 학생 휴대폰 수거 결정문 보니</title>
+      <link>https://www.chosun.com/national/national_general/2025/04/28/VMA34V3ZJJDBHAI6MQCFHAYDEU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/28/VMA34V3ZJJDBHAI6MQCFHAYDEU/</guid>
+      <dc:creator>구아모 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 28 Apr 2025 08:32:21 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6HI4NIFJ6FH5NNY565VORTPK6Q.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;지난 2023년 9월 1일 대전의 한 고등학교에서 교사가 수업에 앞서 학생들의 휴대전화를 수거하고 있다. 당시 교육부가 ‘교원의 생활지도에 관한 고시’를 시행하면서 학생이 수업 중 휴대전화를 사용하는 행위를 금지했으나 휴대전화 수거가 ‘인권 침해’ 아니냐는 논란은 계속됐다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;고등학교에서 등교 시 학생들의 휴대전화를 일괄 수거하는 조치가 인권침해에 해당하지 않는다는 국가인권위원회(인권위)의 판단 근거가 담긴 결정문이 28일 나왔다. 인권위는 2014년 11월 학생 휴대전화 수거가 인권침해라고 봤는데 10년 만에 입장을 바꾼 것이다. &lt;br&gt;&lt;br&gt;이번 결정은 작년 10월 전원위원회에서 의결된 사안이다. 반년 간의 결정문 작성 과정을 거쳐 이날 공지됐다. 인권위 관계자는 “의결 이후 결정문이 당사자에게 발송되는 순간 진정의 효력이 발생한다”며 “결정문은 앞으로 유사한 진정 사건 등의 참고 사례가 될 수 있다”고 했다. &lt;br&gt;&lt;br&gt;인권위는 결정문에서 “2014년 학교의 휴대전화 수거를 인권 침해라고 결정한 후 10년이란 시간이 흐르는 동안 학생 휴대전화 사용과 관련해 사이버 폭력, 성 착취물 노출, 도박 등 새로운 사회 문제가 발생했다”며 “더 이상 학교의 휴대전화 수거를 학생 인권 침해로 단정할 수 없다”고 밝혔다.&lt;br&gt;&lt;br&gt;또한, 인권위는 해당 학교가 학생·학부모·교사 의견을 설문조사로 수렴해 학생생활규정을 개정했고, 쉬는 시간과 점심시간에는 학생들의 휴대전화 사용을 최대한 보장하는 점을 강조했다. “수업 시간 외 사용을 허용함으로써 기본권 제한을 최소화했다”는 것이다.&lt;br&gt;&lt;br&gt;결정문은 해외 사례도 인용했다. 영국, 프랑스, 네덜란드, 뉴질랜드, 미국 등 주요 국가들이 학교 내 학생 휴대전화 소지를 금지하거나 엄격하게 제한하고 있는 점을 들었다. 인권위는 “우리나라 청소년 휴대전화 보유율 99.4%라는 특수성을 고려할 때 학교가 휴대전화 소지와 사용을 제한할 필요가 있다”고 밝혔다.&lt;br&gt;&lt;br&gt;이 사건은 2023년 3월 전남의 한 고교생이 “쉬는 시간·점심시간에도 휴대전화 사용을 제한하는 건 인권침해”라며 제기한 진정에서 시작됐다. 이에 대해 전원위원 10명 중 8명이 진정을 기각했고, 2명이 인용 의견을 냈다.&lt;br&gt;&lt;br&gt;소수 의견에서는 “학교가 학생의 의사에 반해 일괄적으로 휴대전화를 수거하거나 과도하게 사용을 금지하는 것은 일반적 행동자유권과 통신의 자유를 침해할 수 있다”며 기존 결정례를 변경하는 데 반대했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘음주운전·불법숙박업’ 문다혜, 1심 벌금형에 항소</title>
+      <link>https://www.chosun.com/national/national_general/2025/04/28/RCAZDVLSSZBGFI6LVLGL3AL5UM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/28/RCAZDVLSSZBGFI6LVLGL3AL5UM/</guid>
+      <dc:creator>구동완 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 28 Apr 2025 08:51:06 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4YQUL3BUEZIXNEYIM46XWAKPJA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;음주운전 및 불법 숙박업 운영 혐의로 재판에 넘겨진 문재인 전 대통령의 딸 문다혜씨가 지난 17일 서울서부지방법원에 출석하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;음주운전과 불법 숙박업 운영 혐의로 1심에서 벌금 1500만원을 선고받은 문재인 전 대통령의 딸 문다혜씨가 1심 판결에 불복해 항소를 제기했다.&lt;br&gt;&lt;br&gt;28일 법조계에 따르면 문씨 측은 지난 24일 법원에 항소장을 제출했다.&lt;br&gt;&lt;br&gt;앞서 검찰은 하루 전날인 23일 죄질과 범행 기간·경위 등을 감안해 양형 부당을 이유로 항소했다.&lt;br&gt;&lt;br&gt;서울서부지법 형사5단독 김형석 판사는 지난 17일 도로교통법상 음주운전과 공중위생관리법 위반 혐의로 재판에 넘겨진 문씨에게 벌금 1500만원을 선고했다.&lt;br&gt;&lt;br&gt;재판부는 당시 “피고인의 음주운전과 관련해 혈중알코올농도 수치가 높고 신고하지 않은 숙박업을 장기간 운영해 매출액이 고액인 점을 고려했을 때 죄질이 가볍지 않다”면서도 “잘못을 인정하고 깊이 뉘우치고 있는 점, 해당 사건 이전에 형사처벌 전력이 없는 점 등을 양형에 참작했다”고 설명했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>가덕도 신공항 2029년 개항 무산… 현대건설 “공사 2년 더 필요”</title>
+      <link>https://www.chosun.com/national/transport-environment/2025/04/28/R5DB3KZENNAX5FUGGCPLIGXN7E/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/04/28/R5DB3KZENNAX5FUGGCPLIGXN7E/</guid>
+      <dc:creator>김아사 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 28 Apr 2025 06:19:33 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YXSSROANRWABKEFAOQKPJ5YLJY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;가덕도신공항 조감도/국토교통부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산 가덕도 신공항의 ‘2029년 개항’이 사실상 무산됐다. 이 건설 공사의 우선협상대상자인 현대건설 컨소시엄은 28일 “공사 기간을 착공 후 9년으로 늘려야 한다”는 내용을 담은 기본설계안을 정부에 제출했다. 정부는 그동안 활주로와 터미널 등을 먼저 지어 2029년 12월 우선 개항하되, 완공은 착공 후 7년 내 하겠다고 밝혀왔다.&lt;br&gt;&lt;br&gt;수의계약 방식으로 진행 중인 이 공사는 국가계약법상 정부가 내 건 공사 기간 등 조건을 변경하는 게 불가능하다. 그럼에도 현대건설 컨소시엄이 조건 변경을 요구했다는 건 사실상 공사 포기를 선언한 것이라는 게 전문가들의 견해다. &lt;br&gt;&lt;br&gt;정부는 이날 당초 요구대로 기본설계안을 보완하라고 요구하면서, 현대건설이 응하지 않으면 “다음 입찰 방식 등을 검토하겠다”고 했다. 현대건설 컨소시엄의 우선협상대상자 지위를 박탈하고 다른 건설사를 찾겠다는 뜻으로 풀이된다. 이 경우 장기간 표류가 불가피하다.&lt;br&gt;&lt;br&gt;지난해 우선협상대상자 선정 시 4차례 유찰 등 시작부터 잡음이 끊이지 않았던 이 사업은 6월 대선을 앞두고 다시 쟁점이 될 가능성이 커졌다. 부산시는 이날 ‘유감’을 표명하며 “공사는 (계획대로) 7년 내에 마칠 수 있도록 진행돼야 한다”고 밝혔다. 더불어민주당은 이날 개항 지연 관련 진상조사를 요구하겠다고 했다.&lt;br&gt;&lt;br&gt;----------&lt;br&gt;&lt;br&gt;가덕도 신공항은 부지 조성 공사에만 10조5000억원이 투입되는 역대 최대 규모 토목 공사다. 정부는 지난해 10월 4차례 유찰 끝에 현대건설 컨소시엄을 우선협상대상자로 선정했고, 현대건설 컨소시엄은 6개월 가량 기본설계안 작성 작업을 진행해 이날 국토교통부에 최종안을 제출했다. &lt;br&gt;&lt;br&gt;국토부는 당황스럽다는 입장이다. 국토부 관계자는 “조건을 바꿀 수 없으므로 정부가 발주한대로 설계안을 맞춰오는 게 상식”이라며 “안될 것 같았으면 왜 참여했는지 의문”이라고 했다. 애초 정부가 발주한 공사 계획엔 공사 기간, 공사비 등이 명시돼 있었고 이에 응한 것인데, 이제 와 입장을 바꿨다는 것이다. &lt;br&gt;&lt;br&gt;이에 대해 현대건설 컨소시엄 측은 “실제 전문 인력이 6개월간 자세히 따져보니 정부가 제시한 조건으로는 도저히 공사가 어려운 것으로 판단이 난 것”이라고 했다. 또 다른 컨소시엄 관계자는&lt;b&gt; &lt;/b&gt;“올해 말 공사에 착공해도 4년 안에 바다를 메워 활주로 등을 짓는 건 불가능한 일”이라고 했다. &lt;br&gt;&lt;br&gt;현대건설 컨소시엄 측은 공사비 증액 역시 불가피하다는 입장이다. 정부가 공사비로 10조5000억원을 제시했지만, 최근 원자재 값 상승과 기간 연장 등을 감안할 때 1조원가량 증액이 필요하다는 입장인 것으로 전해졌다.&lt;br&gt;&lt;br&gt;국토부는 이날 “현대건설 측이 제출한 설게 중 공사 기간이 입찰 공고에 부합하지 않다”며 “기본 설계 보완과 공사 기간을 다르게 제시한 설명자료 등을 요구했다”고 밝혔다.&lt;br&gt;&lt;br&gt;이들은 그러면서 “현대건설 측이 설계를 보완하지 않을 경우를 대비해 다음&lt;b&gt; 입찰방식 등&lt;/b&gt;을 &lt;b&gt;신속하게 검토&lt;/b&gt;해나갈 &lt;b&gt;계획&lt;/b&gt;“이라고 했다. 이는 현대건설 컨소시엄 대신 다른 건설사를 찾는 입찰 공고를 다시 진행하겠다는 뜻이다. 그러나 지난해 4차례 유찰된 입찰 절차를 감안하면, 현대건설 컨소시엄 외 적임자가 있는지 의문이란 의견도 제기된다. 공사를 맡겠다는 건설사가 없으면 사업 자체가 장기 표류할 수도 있다. 유정훈 아주대 교통시스템공학과 교수는 “재정 사업의 최종 결정권자인 기획재정부가 나서 적정 공사비 등을 다시 검토해야 한다”고 했다.&lt;br&gt;&lt;br&gt;건설 업계에선 무리하게 공항 건설을 밀어붙인 데 따른 부작용이란 분석도 나온다. 2006년 노무현 전 대통령의 동남권 신공항 검토 지시로 시작된 가덕도 신공항 건설은 2016년 ‘김해공항 확장’으로 결론나 폐기된 사업이었다. 그러나 문재인 정부 시절인 2021년 부산시장 보궐선거를 앞두고 선거 공약으로 재부상하며 특별법이 발의됐고 그해 2월 국회를 통과했다. 예비타당성 조사도 면제됐다.&lt;br&gt;&lt;br&gt;2030 부산 세계 박람회(엑스포) 추진은 공사 기간을 줄이는 직접 계기가 됐다. 당초 이 공항은 2035년 6월 개항으로 추진됐는데, 2030 부산 엑스포 유치를 앞두고 2029년 12월로 5년 이상 당겨졌다. 공사 기간 부족하다는 의견 계속 지적됐지만 정부는 그대로 밀어붙였다.&lt;br&gt;&lt;br&gt;업계에선 공사 기간 관련 우려를 지속적으로 표현 해 왔다. 당초 국토부가 2022년 진행한 사전 타당성 검토에선 공항 전체를 해상에 지을 예정이었지만, 공사 기간을 단축하고자 해상 매립량을 줄여 육·해상에 걸쳐 짓는 것으로 변경됐기 때문이다. 그러나 이는 부등침하(지반이 불균등하게 내려앉는 현상)에 대한 우려 때문에 사전 타당성 검토 때 배제된 방안이다. 육상과 해상 연약 지반의 지지력 차이가 크면 바다 쪽 활주로가 육지 쪽보다 많이 가라앉아 이착륙이 방해받을 수 있다.&lt;br&gt;&lt;br&gt;가덕도 신공항 개항 지연 문제는 대선을 앞둔 상황에서 쟁점이 될 것으로 보인다. 정권 별 진척도를 두고 여야가 책임 공방을 벌일 가능성이 크다. 더불어민주당 부산시당은 “사실상 2035년 준공도 힘들고 2040년까지 끌고 가 업체의 수익만 극대화하려는 것”이라며 박형준 부산시장 등의 사퇴 운동을 벌이겠다고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>소방청, 대구 북구 산불 확산에 ‘국가소방동원령’발령</title>
+      <link>https://www.chosun.com/national/national_general/2025/04/28/KU2RT46B65FOXKA76W2TVVXLEQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/28/KU2RT46B65FOXKA76W2TVVXLEQ/</guid>
+      <dc:creator>박진성 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 28 Apr 2025 08:15:43 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/66SSOOXGGKL7NBU6OX53GLVRAE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;28일 오후 2시1분쯤 대구 북구 노곡동 함지산에 발생한 불이 바람을 타고 확산하는 가운데 도심 도로 곳곳이 통제되고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;28일 오후 대구 노곡동 함지산에서 발생한 산불이 확산하며 소방청이 ‘국가소방동원령’을 발령했다.&lt;br&gt;&lt;br&gt;국가 소방동원령은 재난이 발생했거나, 재난이 임박한 시·도 소방력만으로 재난에 대응하기 어려운 경우에 국가 차원에서 소방력을 재난 현장에 동원하는 조치다. 긴급상황이 발생할 시 부족한 소방력을 인근 지역에서 지원하는 개념이다.&lt;br&gt;&lt;br&gt;산불은 바람을 타고 2km 떨어진 인근 민가로 확산하고 있다.&lt;br&gt;&lt;br&gt;대구시에 따르면 노곡동 등 899가구 1216명의 주민이 팔달초, 매전초 등으로 대피했다. 현재까지 인명피해는 파악되지 않았다.&lt;br&gt;&lt;br&gt;산림청은 오후 3시 10분쯤 산불 대응 2단계를 발령했다. &lt;br&gt;&lt;br&gt;고기동 중앙재난안전대책본부 본부장은 “도시형 산불임을 감안해 선제적으로 취약계층의 사전대피와 산불 영향이 우려되는 지역주민의 대피 준비 및 즉시 대피를 적시에 실시하고, 민가 시설 등에 대한 방화선을 구축하라”고 지시했다.&lt;br&gt;&lt;br&gt;또 고 본부장은 “산림청과 소방청, 경찰청, 대구광역시, 대구 북구 등은 가용한 모든 장비와 인력을 신속히 투입해 산불 조기 진화를 위해 총력 대응하라”며 “산불특수진화대와 지자체 공무원 등 진화인력의 안전에도 각별히 유의해 달라”고 당부했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>대구 산불, 민가 접근에 주민 1200명 대피... 북대구IC 차단</title>
+      <link>https://www.chosun.com/national/national_general/2025/04/28/N6472QX4MVCBFDHRO4TJIEGITU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/28/N6472QX4MVCBFDHRO4TJIEGITU/</guid>
+      <dc:creator>권광순 기자, 이승규 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 28 Apr 2025 07:04:31 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DABXUR37KBPOFLFMSAIHKM26OM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;28일 오후 2시 1분께 대구 북구 노곡동 함지산에서 발생한 산불이 인근인 조야동 민가까지 확산하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;28일 오후 대구 노곡동 함지산에서 산불이 발생했다. 불은 2㎞ 떨어진 조야동 민가 인근으로 확산하고 있다. 산림 당국은 대응 2단계를 발령하고 진화 중이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/R5WIMAEDFBCVZANV27AMNCFLFQ.png"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대구 북구는 이날 발송한 재난 문자 메시지에서 오후 2시 1분쯤 노곡동 산39에서 산불이 발생했다고 밝혔다. 이어 노곡동 인근 주민과 등산객에게 안전한 곳으로 대피하라고 권고했다. 대구시에 따르면 무태조야동과 노곡동 등 899가구 1216명이 팔달초와 매천초 등으로 대피했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KMWBTRFYOBFVHODCTQ63UTHYN4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;28일 오후 2시 1분께 대구 북구 노곡동 함지산에서 발생한 산불이 인근인 조야동 민가까지 확산하고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4LX6V5R3JJMJLBD72IFZUPVLDU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;28일 오후 2시 1분쯤 대구 북구 노곡동 함지산에서 불이 나 연기가 바람을 타고 도심으로 번지고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;북구는 오후 2시 56분에는 산불이 확산되고 있다면서 조야동·노곡동 주민들에게 초등학교 두 곳으로 대피하라고 했다. 오후 3시 10분에는 서변동 산림 인근 주민에게는 가까운 중학교로 대피하라고 권고했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4XBJMXCA7ILHWGRK7JUVJMFM7I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;28일 오후 2시 1분쯤 대구 북구 노곡동 함지산에 불이 나 다량의 연기가 도심 곳곳에서 목격되고 있다. 사진은 남구 영남대병원 인근에서 목격된 연기. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;함지산 산불로 발생한 연기는 대구 도심 곳곳에서 목격되고 있다. 북구는 함지산 등산객에게는 안전한 곳으로 대피하라면서, 조야동·노곡동·서변동 방향으로는 하산하지 말라고 했다.&lt;br&gt;&lt;br&gt;산림 당국은 이날 오후 3시 10분쯤 산불 대응 2단계를 발령하고 산림청은 헬기 26대, 장비 42대, 인력 202명을 투입해 진화 중이다. 현장에는 최대 순간 풍속 초속 11m의 바람이 불고 있다. 소방 당국은 현재까지 인명 피해는 없는 것으로 파악했다.&lt;br&gt;&lt;br&gt;산불 연기가 확산하면서 19km 떨어진 경북 경산에서도 연기를 볼 수 있었던 것으로 전해졌다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GQGROZDKGVPBFFQRHQHB2DRFOY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;28일 오후 2시 1분쯤 대구 북구 노곡동 함지산에서 불이 나 소방헬기가 진화작업을 하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한편 한국도로공사는 대구 함지산 산불과 관련, 경부고속도로 북대구나들목(IC)의 양방향 진출입을 차단했다.&lt;br&gt;&lt;br&gt;도로공사는 함지산에서 발생한 산불의 영향으로 주변에 많은 연기가 발생하고 있어 통행 차량의 안전을 위해 이날 오후 4시부터 통행을 통제했다.&lt;br&gt;&lt;br&gt;이번 산불로 고속도로 시설물 피해는 현재까지 발생하지 않았다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/B4QFKVPEBJF4VKFRKMP35BJMGU.gif?auth=cc61942d25242f3165ea56617a364521b5cf9c9ef065f80def16283f599379d9&amp;smart=true&amp;width=1280&amp;height=959" type="image/jpeg" height="959" width="1280">
+        <media:description type="plain">대구 산불 짤 04</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>인권위 “학생 휴대전화 수거, 인권침해 아냐”…결정문 보니</title>
+      <link>https://www.chosun.com/national/national_general/2025/04/28/V6JV2ULXU5GS3PLMPKRES6LH2E/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/28/V6JV2ULXU5GS3PLMPKRES6LH2E/</guid>
+      <dc:creator>박선민 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 28 Apr 2025 08:14:36 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3PSV6VDX6FD5NK3GKGDB5H6H5U.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;대전 한 고등학교의 1학년 교실에서 휴대전화를 수거하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국가인권위원회가 고등학교에서 학생들의 휴대전화를 일괄 수거하는 조치가 인권 침해에 해당하지 않는다는 내용의 결정문을 공개했다. 이번 판단은 휴대전화 수거를 ‘과잉 제한’으로 규정한 2014년 결정을 약 10년 만에 뒤집은 것이다. &lt;br&gt;&lt;br&gt;인권위는 28일 휴대전화 수거와 사용 제한이 학생들의 자유를 침해하지 않는다고 판단한 내용의 결정문을 배포했다. 이 결정은 작년 10월 전원위원회에서 내려진 것으로, 인권위는 이후 약 반년간 결정문을 작성해왔다.&lt;br&gt;&lt;br&gt;인권위는 결정문에서 “2014년 학교의 휴대전화 수거를 인권 침해라고 결정한 후 10년이란 짧지 않은 시간이 흘렀고 학생 휴대전화 사용과 관련해 사이버 폭력, 성 착취물 노출 등 다양한 문제가 나타났다”며 “더 이상 학교의 휴대전화 수거가 학생 인권을 침해하는 것이라 단정할 수 없다”고 했다. &lt;br&gt;&lt;br&gt;아울러 “유엔교육과학문화기구(UNESCO)가 학생의 휴대전화 사용에 따른 악영향을 지적한 점과 영국, 프랑스, 미국, 네덜란드 등 다수 선진국이 학생의 휴대전화 과다 사용과 몰입 문제점에 주목하면서 학교 내 학생의 휴대전화 소지를 엄격히 제한하는 정책을 추진하는 점을 참고했다”고 했다. &lt;br&gt;&lt;br&gt;이번 논의는 2023년 3월 전남 한 고교생이 ‘휴대전화를 일괄 수거해 쉬는 시간·점심시간 등에도 사용할 수 없게끔 하는 것은 인권 침해’라고 진정을 접수하며 시작됐다. &lt;br&gt;&lt;br&gt;이와 관련해 인권위는 “사회 통념상 객관적 타당성을 갖추지 못했다는 특별한 사정이 없는 한 그러한 교육 행위가 학생의 인권을 침해하는 것으로 섣불리 단정해서는 안 된다”며 “오히려 부모와 교사의 의사에 반하는 과도한 개입은 학생의 인권 신장이 아니라 자유로운 교육 활동에 부정적으로 작용할 수 있다고 본다”고 했다. 또 “피진정학교는 교육공동체 구성원인 학교, 학부모, 교원의 의사를 폭넓게 수렴하고 학교운영위원회를 통해 학칙을 개정한 후 그에 따라 휴대전화를 수거했으므로 이에 따른 행위를 학생들의 인권 침해로 단정해선 안 된다고 판단했다”고 했다. &lt;br&gt;&lt;br&gt;이번 결정은 전원위 8명의 기각, 2명의 인용 의견으로 이뤄졌다. 소수 의견을 낸 위원들은 “학교가 학생 의사에 반해 휴대전화를 일괄 수거하거나, 규정과 달리 일과 시간 중 과도하게 사용을 금지하는 것은 일반적 행동 자유권과 통신의 자유를 침해할 수 있다”며 기존 결정례 변경에 반대했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>비행 중 비상문에 손 갖다 댄 승객…중국행 에어부산 비행기서 무슨 일</title>
+      <link>https://www.chosun.com/national/national_general/2025/04/28/5JO42LSEBRCUFPWCADMYPQA2MI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/28/5JO42LSEBRCUFPWCADMYPQA2MI/</guid>
+      <dc:creator>정아임 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 28 Apr 2025 08:04:18 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IQNUPNOQPBSN6PA3RUGSAAYWHU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;에어부산 여객기./에어부산 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;중국으로 향하던 에어부산 여객기 안에서 한 승객이 비상문을 건드려 현지 경찰에 인계됐다. &lt;br&gt;&lt;br&gt;28일 항공업계에 따르면 이날 오전 9시 48분에 부산 김해공항에서 이륙해 중국 옌지(延吉·연길)로 향하던 에어부산 BX337편에서 한 남성 승객이 비상문에 손을 갖다 대자 승무원이 말렸다.&lt;br&gt;&lt;br&gt;비상문은 열리지는 않았고, 해당 항공편은 정상적으로 옌지 공항에 도착했다. &lt;br&gt;&lt;br&gt;해당 승객은 현지 공항경찰대에 인계돼 조사받는 중이다.&lt;br&gt;&lt;br&gt;에어부산 관계자는 “승객이 실제 비상문을 열려고 했는지 손만 갖다 댄 것인지는 현재로서는 파악이 안 된다”며 “승무원이 빠르게 대처해 항공기가 정상 운행했다”고 설명했다.&lt;br&gt;&lt;br&gt;최근 항공기 안에서 승객이 비상문을 열거나 시도한 사례가 잇따르고 있다. 앞서 지난 15일 제주공항에서 이륙하려던 김포행 에어서울 RS902편 항공기 내에서 한 승객이 비상문을 허가 없이 열어 비행기가 결항하는 일이 발생했다. &lt;br&gt;&lt;br&gt;2023년 5월에는 제주발 대구행 아시아나항공 여객기가 착륙하기 직전 승객이 비상문을 강제로 열었고, 같은 해 6월에는 필리핀 세부발 인천행 제주항공 여객기 안에서 다른 승객이 비상구 문을 열려고 시도하기도 했다.&lt;br&gt;&lt;br&gt;이에 국토부는 지난 2023년 운항 중인 항공기에서 승객이 비상문을 열거나 개방을 시도하는 일이 잇따라 발생하자 재발 방지를 위해 ‘비상구 안전 강화 대책 가이드라인’을 마련해 항공사들에 배포한 바 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>높이 제한 3m 어기고 들어갔다가 ‘쿵’… 지하차도에 꽉 낀 화물차</title>
+      <link>https://www.chosun.com/national/national_general/2025/04/28/SHXMQ26AY5G2VA66TOGOLJOPSA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/28/SHXMQ26AY5G2VA66TOGOLJOPSA/</guid>
+      <dc:creator>최혜승 기자 </dc:creator>
+      <description/>
+      <pubDate>Mon, 28 Apr 2025 08:08:45 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HKJFZLHPJ5F7ZA67LNF7Y5Z4AQ.png"&gt;&lt;figcaption&gt;&lt;small&gt;지난 11일 높이 3m 지하차도에 끼인 대형 트레일러./경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 서부간선도로에서 대형 화물차 한 대가 높이 3m 제한을 어기고 지하차도로 진입하려다 끼이는 사고가 발생했다.&lt;br&gt;&lt;br&gt;25일 경찰청에 따르면 지난 11일 새벽 4시쯤 서울 금천구 서부간선도로 지하차도 금천IC~금천교 구간에서 대형 트레일러 한 대가 끼이는 사고가 발생했다. 이 지하차도는 높이 3m를 초과하는 차량의 진입을 제한하고 있으나 트레일러 운전자가 이를 무시하고 진입하다 오도가도 못하게 된 것이다.&lt;br&gt;&lt;br&gt;당시 사고 영상을 보면 트레일러 상단이 천장에 걸리면서 강한 마찰로 불꽃이 튀는 장면이 포착됐다. 이 사고로 인명 피해는 발생하지 않았다. &lt;br&gt;&lt;br&gt;신고를 받고 출동한 교통 경찰은 차량이 견인될 때까지 5시간가량 지하차도 출입을 통제하고 차량들을 우회시키며 현장을 관리했다. 사고 수습 시간이 금요일 출근 시간대와 맞물리면서 인근 도로가 정체를 빚기도 했다.&lt;br&gt;&lt;br&gt;경찰 조사 결과 음주 운전은 아니었다. 트레일러 운전자는 “네비게이션을 잘못 입력한 것 같다”고 진술한 것으로 알려졌다. 경찰은 이 운전자에게 신호·지시 위반으로 통고 처분을 내렸다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/J3UBV46N5ND6RCK4ABK2YZSG2A.gif"&gt;&lt;figcaption&gt;&lt;small&gt;지난 11일 높이 3m 지하차도에 끼인 대형 트레일러./경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/ETK2CZP3GJAHXBMDNGK7Z5AR24.png?auth=39530068f0eb837c7892008365c346959f49d82dbb4b3bbfa9ae9f678c9451b7&amp;smart=true&amp;width=950&amp;height=470" type="image/png" height="470" width="950"/>
+    </item>
+    <item>
+      <title>초등 교장이 학생에 부적절한 신체 접촉…피해 아동만 10명</title>
+      <link>https://www.chosun.com/national/regional/2025/04/28/7Y6NUMBFM5DBBAAP3YCOJMNVIE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/04/28/7Y6NUMBFM5DBBAAP3YCOJMNVIE/</guid>
+      <dc:creator>춘천=정성원 기자</dc:creator>
+      <description>강원도 내 한 초등학교 교장이 학생에게 부적절한 신체 접촉을 한 사실이 뒤늦게 드러났다. 피해 학생만 10명에 달하는 것으로 조사됐다.
+28일 교육 당국 등에 따르면 전직 초등학교 교장인 A씨가 성폭력범죄의 처벌 등에 관한 특례법상 13세 미만 미성년자 위계 등 추행 혐의 등으로 지난 2월 27일 구속됐다.</description>
+      <pubDate>Mon, 28 Apr 2025 08:03:05 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/L4GEXC5HOZAC5NA5TDDI7RQ23U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;강원도 내 한 초등학교 교장이 학생에게 부적절한 신체 접촉을 한 사실이 뒤늦게 드러났다. 피해 학생만 10명에 달하는 것으로 조사됐다.&lt;br&gt;&lt;br&gt;28일 교육 당국 등에 따르면 전직 초등학교 교장인 A씨가 성폭력범죄의 처벌 등에 관한 특례법상 13세 미만 미성년자 위계 등 추행 혐의 등으로 지난 2월 27일 구속됐다. 지난달 기소된 A씨는 현재 법원에서 재판을 받고 있다.&lt;br&gt;&lt;br&gt;A씨는 지난해 가을쯤 교장실을 찾은 학생에게 부적절한 신체 접촉을 한 것으로 조사됐다. A씨의 범행은 현장에 함께 있던 피해 학생 친구의 진술 등을 통해 드러난 것으로 알려졌다.&lt;br&gt;&lt;br&gt;사건이 불거지자 교육 당국은 해당 학교에 대한 전수 조사를 진행, 피해 학생이 10명가량 더 있는 것을 확인했다. 또 A씨를 직위 해제하는 한편 징계위원회에 회부했다.&lt;br&gt;&lt;br&gt;징계위원회에 회부된 A씨는 지난 2월 파면 처분을 받았다.&lt;br&gt;&lt;br&gt;강원도교육청 관계자는 “성희롱·성폭력 사안 관련 행위자에 대해선 엄정하게 대응하는 한편 피해자 보호와 재발 방지를 위해 예방 교육을 강화하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>대학원생 성폭행, “1억 안주면 파일 유포” 협박까지 한 교수</title>
+      <link>https://www.chosun.com/national/incident/2025/04/28/YZSI7I7WMNEYLBC4TIT2IBL6QM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/04/28/YZSI7I7WMNEYLBC4TIT2IBL6QM/</guid>
+      <dc:creator>이승규 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 28 Apr 2025 06:20:59 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/USDNEJ4NQLPDAACZDWC5KZFVMU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대구고검.지검 청사/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;자신이 지도하던 대학원생을 수차례 성폭행한 교수가 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;대구지검 여성·아동범죄조사부(부장검사 최희정)는 28일 대학원생 제자를 성폭행한 혐의(피감독자간음죄) 등으로 전직 대구 지역 대학교수인 60대 남성 A씨를 구속 기소했다. A씨는 지난 2021년부터 이듬해까지 박사 학위 논문 지도를 받던 대학원생 제자 B씨를 수차례 성폭행한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;이 과정에서 A씨는 B씨에게 “1억원을 주지 않으면 (성폭행 과정을)녹음한 파일을 유포하겠다”며 돈을 빼앗으려 한 것으로도 조사됐다. A씨는 지난 2022년 파면된 것으로 파악됐다.&lt;br&gt;&lt;br&gt;검찰 관계자는 “A씨가 논문 지도 및 심사 기간에 지도 교수로서의 지위를 악용해 B씨에게 지속적으로 성범죄를 저질렀다”며 “향후에도 권력형 성범죄에 엄정 대처할 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[단독] ‘마약 투약 혐의’ 이철규 아들 부부, 마약 전담 수사부서가 맡아</title>
+      <link>https://www.chosun.com/national/court_law/2025/04/28/KCFM52ZOSBD6FDDBWRBMFKPJZE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/04/28/KCFM52ZOSBD6FDDBWRBMFKPJZE/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 28 Apr 2025 05:40:15 +0000</pubDate>
+      <content:encoded>마약 투약 혐의로 구속된 이철규 국민의힘 의원의 아들 이모씨에 대한 수사를 서울중앙지검 강력범죄수사부(부장 김보성)가 맡은 것으로 28일 확인됐다. 중앙지검 강력부는 마약류 관련 사건 수사를 전담하는 부서다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QQXYGZ6TC2DHTV4BQUNLZAOEIQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 서울중앙지방검찰청./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 중앙지검은 이날 서초경찰서로부터 송치받은 이씨 등 4명의 마약류관리법 위반 혐의 사건을 강력부에 배당하고 수사를 개시했다. 이씨 사건을 맡은 중앙지검 강력부는 국내‧외 마약 투약‧유통 사건 및 조직범죄 사건 수사를 전담하는 부서다. 마약류에 취한 상태로 운전대를 잡아 행인을 치어 숨지게 한 ‘압구정 롤스로이스’ 사건, 필로폰 상습 투약 등 혐의를 받았던 야구 국가대표 출신 오재원, 프로포폴 상습 투약 등 혐의를 받는 유아인(본명 엄홍식) 등을 재판에 넘긴 것이 대표적인 성과다. 중앙지검 강력부는 이 밖에도 1년간 5개 대륙으로부터 국내로 유입된 마약류를 추적해 32명을 입건하고, 26명을 구속 기소했다고 최근 밝힌 바 있다.&lt;br&gt;&lt;br&gt;이씨는 작년 10월 서울 서초구의 한 주택가 화단에 이른바 ‘던지기’ 수법으로 묻혀져 있던 액상 대마를 찾으려다 미수에 그친 것으로 조사됐다. &lt;br&gt;&lt;br&gt;경찰은 수사 과정에서 이씨의 모발에 대한 정밀 감정을 국립과학수사연구원에 요청해 대마 양성 반응이 나왔다는 사실을 확인했다. 이 과정에서 이씨의 아내도 대마 양성 반응이 나온 것으로 밝혀졌다. 경찰은 이씨와 공범 정모씨에 대한 구속영장을 신청했고, 서울중앙지법은 지난 23일 이들 2명에 대한 구속영장을 발부했다. 다만 이씨의 아내는 영장 신청 대상에서 빠졌다. 경찰은 이씨 부부를 비롯해 대마 공급책 등 공범 2명을 검찰에 이날 송치했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[오늘의 운세]  4월 29일 화요일 (음력 4월 2일 戊辰)</title>
+      <link>https://www.chosun.com/national/national_general/2025/04/28/3PPK3KAETNCKNN2FGGWTLXAFTA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/28/3PPK3KAETNCKNN2FGGWTLXAFTA/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Mon, 28 Apr 2025 08:00:00 +0000</pubDate>
+      <content:encoded>&lt;p&gt;&lt;div class="chosun_unse"&gt;&lt;iframe src="https://image.chosun.com/arc/unse_iframe.html" frameborder="0" scrolling="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;style&gt;.chosun_unse{position:relative;width:100%;height:350px;box-sizing:border-box}.chosun_unse&gt;iframe{position:absolute;top:0;left:0;width:100%;height:100%;overflow-y:hidden}@media all and (max-width:1024px){.chosun_unse{height:350px}}@media all and (max-width:1023px){.chosun_unse{height:350px}}@media all and (max-width:528px){.chosun_unse{height:270px}}@media all and (max-width:384px){.chosun_unse{height:190px}}&lt;/style&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;p&gt;&lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani01.gif"&gt;  	&amp;nbsp;	36년생 낫 빌려주니 내 곡식 베어간다. 48년생 건강 운 좋은 편, 문제는 재물 운. 60년생 호사다마니 좋은 일에 뜻밖의 방해 받을 듯. 72년생 현실 순응이 건강과 행복에 좋다. 84년생 소란과 갈등 뒤 평온 점차 찾아올 듯. 96년생 이왕 나갈 돈이면 아까워할 것 없다.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt;  &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani02.gif"&gt;	&amp;nbsp;	37년생 자신 아니면 집안에 근심 걱정. 49년생 곤궁해도 불의한 재물은 탐하지 마라. 61년생 새 사업 결정은 다음으로 미루도록. 73년생 눈앞에 보이는 게 다가 아니다. 85년생 없어진 뒤에야 그 가치 아는 법. 97년생 남이 은장도 찬다고 나는 식도 찰까.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani03.gif"&gt;	&amp;nbsp;	38년생 뜻 있다면 일단 저질러 보기도 방법. 50년생 잡념 없애는 노력 필요할 듯. 62년생 조급해 말고 느긋하게 때 기다려야. 74년생 문서 거래와 계약 매매는 오늘이 적기. 86년생 어제일 깨끗이 잊고 오늘에 집중하도록. 98년생 형식 절차에 매이면 기회 놓칠 수도.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani04.gif"&gt;	&amp;nbsp;	27년생 아는 것도 물어 가랬다. 39년생 내실 기해야 할 때. 51년생 분수 알고 처신하면 근심 없다. 63년생 세상 인심 각박해도 진심은 통한다. 75년생 남 잘못은 알아도 제 잘못 모른다. 87년생 동쪽은 귀인이 오는 길목. 99년생 개띠 이성(異性)이 귀인.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani05.gif"&gt;	&amp;nbsp;	28년생 만반의 준비로 뜻밖의 상황을 대비. 40년생 북쪽 문은 피하는 것이 상책. 52년생 명예나 감투가 손실 초래. 64년생 속전속결은 속성속패(速成速敗). 76년생 맑은 물은 맑은 샘에서 나는 법. 88년생 활동은 왕성, 소득은 축소. 00년생 함께 맞는 회초리 덜 아프다.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani06.gif"&gt;	&amp;nbsp;	29년생 큰 댐도 개미구멍으로 무너진다. 41년생 효율적인 시간 관리가 중요. 53년생 동북 방향으로의 여행은 좋다. 65년생 져주고도 이기는 것이 있다. 77년생 싫어도 해야 할 일이 있는 법. 89년생 찬밥 더운밥 가릴 것 있나. 01년생 윗사람의 도움으로 어려움 해결.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani07.gif"&gt;	&amp;nbsp;	30년생 소는 몰고 말은 끄는 것. 42년생 흰색과 숫자 4, 9는 피하라. 54년생 현상 유지가 확장보다 더 어려운 법. 66년생 남이 지은 글로 과거급제 하는 격. 78년생 남 흉이 한 가지면 내 흉은 열 가지. 90년생 재물 운이 상승하는 시기. 02년생 힘겨워도 스스로 해결하라.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani08.gif"&gt;	&amp;nbsp;	31년생 한때를 참으면 백날이 편안. 43년생 순탄하고 평탄한 하루. 55년생 기본대로 움직이면 실패가 없다. 67년생 장애를 만나더라도 물러서지 마라. 79년생 산이 높으면 구렁도 깊은 법. 91년생 남 일에 관여하지 않는 것이 상책. 03년생 작은 밑천으로 큰 수확 본다.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani09.gif"&gt;	&amp;nbsp;	32년생 자존감을 가져야 할 시기. 44년생 나설 때 안 나설 때를 구분. 56년생 그냥 평범하고 무탈한 하루. 68년생 과도한 운동은 몸을 상한다. 80년생 너무 멀게도 너무 가깝게도 마라. 92년생 장인 손에는 버려질 나무 없다. 04년생 붉은색과 숫자 2, 7 행운 부른다.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani10.gif"&gt;	&amp;nbsp;	33년생 강물 거세도 바위는 휩쓸리지 않는다. 45년생 사소한 결정도 배우자와 협의가 우선. 57년생 일진 불리하니 상가(喪家) 멀리하도록. 69년생 시비 구설수 염려되니 일언(一言)도 많다. 81년생 명예운 상승으로 노익장 과시하는구나. 93년생 손해 내부에서 발생하니 단속 필요.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani11.gif"&gt;	&amp;nbsp;	34년생 늦어도 하는 게 안 하는 것보다 낫다. 46년생 더워도 악목(惡木) 그늘 밑은 가지 마라. 58년생 뜻밖의 제안은 큰 이익 부르리라. 70년생 우길 걸 우겨야지 옆집 제삿날도 우길까. 82년생 행복은 찾기보다 지키기 더 어렵다. 94년생 천 마디 말보다 한 번 실천이 필요.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani12.gif"&gt;	&amp;nbsp;	35년생 열 번 찍어 안 넘어가는 나무 없다. 47년생 모사(謀事)는 사람, 성사(成事)는 하늘의 몫. 59년생 자만과 방심으로 뜻하지 않은 손실 초래. 71년생 꿈자리 산란하면 언행 조심하라. 83년생 정에 얽혀 일 그르치지 않도록. 95년생 시비 구설도 나쁘지만은 않다.	&lt;br&gt;
+&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;한소평 금오산방 강주  &lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/p&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/4MTFRYWHBJA7XOKKF7G7JPLX5U.png?auth=4651b5b20b5d4901424204d1456faee02e4b064ff509db23945deabf4404c8ef&amp;smart=true&amp;width=800&amp;height=420" type="image/png" height="420" width="800"/>
+    </item>
+    <item>
+      <title>소비 기한 1년 2개월 지난 식재료 보관한 베이커리 카페 등 적발</title>
+      <link>https://www.chosun.com/national/incident/2025/04/28/6XETI4RXKVGSXF4YIJ57A7R7Y4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/04/28/6XETI4RXKVGSXF4YIJ57A7R7Y4/</guid>
+      <dc:creator>인천=이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 28 Apr 2025 05:37:42 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/B6G5URTILBHSJOZXUXWXIPFSUU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;인천시 남동구 구월동 인천시청. /인천시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;소비 기한이 1년 2개월 지난 음료‧빵 제조용 식재료를 조리 목적으로 보관하던 대형 베이커리 카페 업주가 인천시 특별사법경찰에 적발됐다. &lt;br&gt;&lt;br&gt;인천시 특별사법경찰은 식품위생법 위반 혐의로 A씨 등 인천 지역 디저트류 식품 제조‧판매업소 업주 5명을 입건했다고 28일 밝혔다. &lt;br&gt;&lt;br&gt;A씨의 경우 인천 강화군에서 대형 베이커리 카페를 운영하며 소비 기한이 1년 2개월 지난 음료와 빵 제조용 식재료 10종을 조리 목적으로 보관하다 적발됐다.&lt;br&gt;&lt;br&gt;B씨는 인천 남동구에서 운영하는 베이커리 카페에서 소비기한이 1년 정도 지난 빵 제조용 식재료를 보관한 혐의를 받는다. &lt;br&gt;&lt;br&gt;다른 2명은 원료출납 관계서류를 작성하지 않거나 허위로 작성하고, 1명은 식품 표시 기준을 위반해 시 특별사법경찰에 적발됐다. &lt;br&gt;&lt;br&gt;시 특별사법경찰은 지난 3월 31일부터 4월 18일까지 인천 지역 베이커리 카페 등 디저트류 식품 제조‧판매업소 30곳을 대상으로 단속을 진행해 이들을 적발했다. &lt;br&gt;&lt;br&gt;식품위생법에 따르면 식품 제조‧가공업자는 생산‧작업 일지와 원료 출납 관계 서류를 반드시 작성하고, 이를 3년간 보관해야 한다. 또 소비 기한이 지난 제품이나 원재료를 조리나 판매 목적으로 보관‧사용해선 안 된다. &lt;br&gt;&lt;br&gt;식품 등의 표시‧광고에 관한 법률도 식품 표시 기준과 방법 등 관련 정보를 정확히 기재하도록 규정하고 있다. &lt;br&gt;&lt;br&gt;시 특별사법경찰은 적발된 업주 5명을 검찰에 송치하고, 관할 군‧구에도 통보해 행정처분이 내려지도록 할 방침이다. &lt;br&gt;&lt;br&gt;인천시 관계자는 “이들 법률을 위반할 경우 3년 이하의 징역 또는 3000만원 이하의 벌금과 영업정지 등 행정처분이 가능하다”며 “식품 안전 관리가 철저히 이뤄지도록 노력하겠다”고 말했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>판사가 따져도 증언 거부한 정진상, 검찰 질문에 “말이 되냐” 발끈</title>
+      <link>https://www.chosun.com/national/court_law/2025/04/28/E4VU5GMF6RDAVIZECU2QUNNMEI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/04/28/E4VU5GMF6RDAVIZECU2QUNNMEI/</guid>
+      <dc:creator>김나영 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 28 Apr 2025 05:54:04 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5NVD3XEBEF4UBTGPWJGXDRLV4Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이재명 전 더불어민주당 대표의 최측근인 정진상 전 민주당 대표실 정무조정실장./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“(답변을) 거부하겠습니다.”&lt;br&gt;&lt;br&gt;28일 오전 10시, 서울중앙지법 형사22부(재판장 조형우)에서 배임 혐의로 기소된 김만배 등 대장동 일당 5명의 재판에 증인으로 나온 정진상 전 더불어민주당 대표실 정무조정실장은 이 같은 말만 반복했다. 이날 재판은 앞서 6차례 재판이 공전한 끝에 진행된 정 전 실장의 첫 증인신문 기일이었는데, 정 전 실장이 일체의 증언을 거부한 것이다.&lt;br&gt;&lt;br&gt;정 전 실장은 간단한 사실 관계를 확인하는 절차조차 답변을 거부했다. “수사 단계에서 작성된 진술 조서가 사실대로 기재된 것인지 맞느냐”는 검찰 측 질문에도 묵묵부답이었다. 이에 검찰은 “증인이 듣지도 않고 무조건 진술을 거부한다”며 재판부에 항의했고, 재판부는 “진술하지 않을 수는 있다”며 양측을 중재했다.&lt;br&gt;&lt;br&gt;그러나 정 전 실장이 “유동규씨가 2010년 10월 성남도시개발공사 기획본부장으로 임명된 사실을 알았냐”라는 질문에도 답을 하지 않자 재판장은 “이 질문이 증인에게 어떤 관계가 있다고 거부하는 것이냐”며 따져 묻기도 했다. 이에 정 전 실장은 “제가 증언을 거부하기로 마음먹은 동기가 두 가지 있다. 첫 번째는 (검찰의) 전체적인 증인 신청에 대한 저의 신뢰가 거의 없고, 두 번째는 제가 어떤 증언을 해도 언론에서 항상 비틀어서 쓴다”고 말했다.&lt;br&gt;&lt;br&gt;검찰의 질문마다 “거부하겠다”고 하던 정 전 실장은 검사가 “MBC 기자들에게 접대하고 돈은 대장동 업자들에게 내도록 했냐”는 취지로 묻자 “그게 말이 되는 소리냐”며 발끈하기도 했다. 검사가 “증인으로서 성의를 다하라”고 지적하자 “거부하는 건 뭐라고 하지 마라”고 받아치기도 했다. 정 전 실장의 증인신문은 앞으로 5차례 더 예정돼 있다.&lt;br&gt;&lt;br&gt;김씨 등 대장동 일당은 이 전 대표가 성남시장 시절, 성남시와 유착해 대장동 사업에서 성남도시개발공사에 4895억원의 손해를 끼친 혐의로 2021년 10월 기소됐다. 이 전 대표와 정 전 실장도 이들과 유착해 이익을 몰아준 혐의로 서울중앙지법에서 재판받고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>부산시 “가덕신공항 공사 기간 24개월 연장 유감”</title>
+      <link>https://www.chosun.com/national/regional/yeongnam/2025/04/28/QWF2TDYGHNA63OITAX6CWM5BKE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/yeongnam/2025/04/28/QWF2TDYGHNA63OITAX6CWM5BKE/</guid>
+      <dc:creator>박주영 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 28 Apr 2025 07:29:16 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EZ47SIHWWFCIVD7O4TRVV7BBZQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김광회 부산시 미래혁신부시장이 28일 오후 부산시청에서 '가덕도신공항 기본설계안에 대한 부산시 입장'을 발표하고 있다./부산시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;가덕도신공항 부지조성 공사 우선협상 대상자인 현대건설 컨소시엄이 28일 공사기간 연장 등을 담은 기본설계안을 국토교통부에 제출하자 부산시는 “(공기연장이) 유감스럽다”는 입장을 표명했다. &lt;br&gt;&lt;br&gt;김광회 부산시 미래혁신부시장은 이날 오후 부산시청에서 ‘가덕도신공항 기본설계안에 대한 부산시 입장’ 브리핑을 열고 “현대건설 측이 시민들의 열망과 달리 공사기간을 108개월로 한 기본설계안을 제출한 것은 유감스럽다”고 밝혔다. &lt;br&gt;&lt;br&gt;김 부시장은 “신공항 공사는 84개월 내에 마칠 수 있도록 진행돼야 한다는 게 부산시 입장”이라며 이같이 밝혔다. 그는 이어 “84개월 공사기간은 정부 입찰조건이었고, 충분한 기술 검토를 거친 것”이라며 “때문에 현대건설의 공기 108개월 제안은, 국토부가 판단하겠지만 적격 판단을 받기 어려울 것으로 본다”고 말했다. &lt;br&gt;&lt;br&gt;김 부시장은 또 “앞으로도 84개월(7년) 이내 신공항 공사를 마칠 수 있는 제안을 받아야 한다”며 “그동안 공사 입찰 과정에서 1년 미만의 추가 소요 기간이 있었지만 시공사와 적극적인 방안을 찾으면 2029년 개항, 2032년 완전 준공이란 당초 목표를 이룰 수 있을 것“이라고 말했다. &lt;br&gt;&lt;br&gt;그는 이와 함께 “이번 일이 자칫 정쟁의 도구로서 사업지연과 소모적인 논쟁의 단초가 되어서는 안 될 것”이라며 “적기에 착공해 추가적인 사업 지연이 없도록, 안전과 품질을 갖춘 완벽한 공항이 조성될 수 있도록 정부의 책임 있고 신속한 후속조치를 촉구한다”고 말했다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>백종원, 회사 논란 속 프랑스서 포착...“예능 프로 촬영 중”</title>
+      <link>https://www.chosun.com/national/people/2025/04/28/T5N3S3MUBVB6TICSXXM2ES4VDE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/04/28/T5N3S3MUBVB6TICSXXM2ES4VDE/</guid>
+      <dc:creator>정아임 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 28 Apr 2025 05:35:40 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SWV5R4K52REQVELJWJC6CYPG2Q.png"&gt;&lt;figcaption&gt;&lt;small&gt;백종원 더본코리아 대표가 프랑스에서 포착됐다는 글이 올라왔다./블라인드&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;백종원 더본코리아 대표가 프랑스에서 tvN 예능프로그램 ‘장사천재 백사장 시즌3’ 촬영 중인 것으로 전해졌다. &lt;br&gt;&lt;br&gt;27일 직장인 온라인 커뮤니티에는 “백종원 진짜 프랑스 가 있다”라는 제목의 글과 함께 사진 한 장이 올라왔다. 공개된 사진을 보면 백 대표가 장갑을 낀 채 고기를 썰고 있었다. 백 대표가 입고 있는 티셔츠에는 ‘장사천재 백사장’이라는 로고가 적혀 있었다.&lt;br&gt;&lt;br&gt;‘장사천재 백사장’은 백 대표가 한식 불모지에서 직접 창업부터 운영까지 나서는 모습을 담는 예능 프로그램이다. 올해 하반기 시즌3 공개를 앞두고 있다. 시즌1 방송은 모로코와 이탈리아에서, 시즌2 방송에서는 백 대표가 스페인에서 한식집을 운영했다. &lt;br&gt;&lt;br&gt;tvN 관계자는 조선닷컴에 “해당 사진은 프랑스에서 찍힌 촬영 사진이 맞다”며 “변경 및 취소가 어려운 해외 촬영 특성상 프로그램 일정대로 촬영을 하고 있다”고 말했다. 다만 프로그램의 세부적인 편성 일정은 아직 미정인 상태다. &lt;br&gt;&lt;br&gt;해당 사진은 여러 온라인 커뮤니티에 널리 퍼졌다. 최근 백 대표를 둘러싸고 여러 논란이 제기된 것과 맞물리면서 네티즌들은 예능 프로그램 촬영을 두고 엇갈린 반응을 보였다. 네티즌들은 “그러면 아무것도 안 하고 집에만 있어야 하냐. 프랑스 간 것까지 가져와서 욕하는 건 마녀 사냥이다” “공식 사과했으면 시간을 좀 줘라” 등의 반응을 보였다. &lt;br&gt;&lt;br&gt;반면 다른 네티즌들은 “백종원을 믿고 프랜차이즈 시작한 소상공인들은 힘들어하고 있다” “차라리 더본코리아 대표 내려오고 책임 경영하는 게 나을 것 같다” 등 논란 속 촬영을 찍고 있는 것은 부적절하다는 의견을 내놨다. &lt;br&gt;&lt;br&gt;앞서 지난해 11월 유가증권시장에 상장한 더본코리아는 최근 빽다방의 제품 원산지 허위 광고 의혹과 감귤 맥주의 재료 함량 문제, 간장과 된장 원산지 거짓 표기, 농업진흥구역에서 외국산 원료로 제품을 생산한 농지법 위반 등 여러 논란에 휩싸였다. 지난 8일엔 한 임원이 면접을 명목으로 여성 지원자를 술자리에 불러 부적절한 언행을 했다는 의혹이 제기돼 고용노동부가 조사에 들어갔다.&lt;br&gt;&lt;br&gt;이에 더본코리아는 지난 15일 공식 홈페이지를 통해 “이제 다 바꾸겠습니다. 뼈를 깎는 조직·업무 혁신을 통한 고객 신뢰 회복에 총력”이라는 제목의 입장문을 올렸다. 더본코리아는 “윤리 경영과 식품 안전을 최우선 가치로 삼아 내부 시스템과 외부 현장 전면에 걸쳐 쇄신을 단행하고 있다”며 “올해 들어 집중적으로 제기되고 있는 잘못되고 부족했던 모든 사안들을 철저히 개선해 반드시 새롭게 거듭나겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>호적부 스캔파일, 내달 2일부터 온라인 제출 가능</title>
+      <link>https://www.chosun.com/national/court_law/2025/04/28/VYPXHEFX4JCX7OMFTC7NSFYGJE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/04/28/VYPXHEFX4JCX7OMFTC7NSFYGJE/</guid>
+      <dc:creator>김희래 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 28 Apr 2025 05:41:16 +0000</pubDate>
+      <content:encoded>대법원이 내달 2일부터 전자증명서 서비스의 발급 범위를 ‘이미지 제적 등본’까지 확대한다고 28일 밝혔다. 민원인이 이미지 제적 등본 실물을 발급받아 수요 기관에 제출할 필요 없이, 온라인 상에서 수요 기관으로 바로 전송할 수 있게 되는 것이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YEDPEB45BBH33B6GLPPMUHDM34.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=조선디자인랩 김영재&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이미지 제적 등본은 오래된 호적부를 스캔한 이미지 파일을 말한다. 상속 등기 또는 상속에 관한 소송 등과 관련해 일반 제적 등·초본만으로 가족관계 확인이 어려운 경우 이미지 제적 등본이 활용돼 왔다.&lt;br&gt;&lt;br&gt;종전에는 관서에 직접 방문하거나 인터넷으로 발급받은 뒤 수요 기관에 직접 제출해야 했는데, 앞으로는 정부 전자지갑 서비스를 통해 제적 등본을 관련 기관에 곧바로 전송할 수 있게 됐다.&lt;br&gt;&lt;br&gt;온라인 상에서 문서 수령방법을 ‘전자문서지갑’으로 선택하고 발급을 신청하면 이미지 제적 등본 전자증명서를 전자문서지갑 앱에서 확인할 수 있고, 개인이나 기관에 제출할 수 있다. &lt;br&gt;&lt;br&gt;전자증명서 발급은 전자가족관계등록시스템 (https://efamily.scourt.go.kr)에서 무료로 신청할 수 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘생업 물질’ 잠시 멈춘 제주해녀들, ‘이 거’ 300kg 건져 올렸다</title>
+      <link>https://www.chosun.com/national/regional/2025/04/28/QQPKC5PYPBG5ZFIO2QQGAY2HNI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/04/28/QQPKC5PYPBG5ZFIO2QQGAY2HNI/</guid>
+      <dc:creator>제주=오재용 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 28 Apr 2025 06:14:48 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WY5EXHZ7MZCOJCIBKXUXOJTLGI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;제주해녀구조단이 지난 26일 제주시 탑동 앞바다에서 해양쓰레기를 수거하고 있다./제주지방해양경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제주 해녀구조단이 물질 대신 바다에 버려진 쓰레기 300㎏을 수거했다.&lt;br&gt;&lt;br&gt;제주해양경찰서는 지난 26일 제주해경과 해양재난구조대 소속 해녀구조단 20여명이 제주 탑동 방파제 인근 해상에서 폐어구와 플라스틱 등 해양쓰레기 약 300㎏을 잠수 작업을 통해 수거했다고 28일 밝혔다.&lt;br&gt;&lt;br&gt;이날 해양 정화 활동은 해녀구조단 발족 이후 첫 활동이다. 이들의 활동은 탑동 방파제 인근 바닷속과 해상에 떠 있는 쓰레기를 수거하는 방식으로 진행됐다.&lt;br&gt;&lt;br&gt;관광객이 많이 찾는 탑동 해변에서 해상 쓰레기를 해녀들이 망태기에 수북이 담으며 수중정화 활동을 하는 모습은 관광객들의 이목을 끌었다.&lt;br&gt;&lt;br&gt;지난 27일에는 북촌 항포구에서 민간인으로 구성된 해양재난구조대 특수구조부가 폐어구와 타이어 등 해상쓰레기 3t을 수거하기도 했다.&lt;br&gt;&lt;br&gt;제주해경 관계자는 “민·관 협력으로 지난해 10t이 넘는 해양 쓰레기를 수거했다”며 “안전하고 깨끗한 바다를 위해 앞으로도 마을 항·포구 내 해양쓰레기 수중 정화 활동을 지속적으로 추진해 나가겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;앞서 지난 16일 제주해경은 전국 최초로 ‘해녀구조단’을 신설, 발단식을 개최했다. 제주지역 각 어촌계의 해녀들은 수십년간 마을 앞바다에서 조업해온 만큼 누구보다 해당 해역의 지형과 물의 흐름을 잘 알고 있다. 수중 구조와 수색을 위해 필요한 지형에 대한 이해도가 높고 전문성을 지니고 있다.&lt;br&gt;&lt;br&gt;해녀들은 앞으로 해양사고가 발생할 때 물질 생업을 하면서 해경의 실종자 수색·구조 과정에 참여해 자문과 수중 정화활동 등의 임무를 수행하게 된다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘재테크 고수’ 전원주 “故 여운계와 이대 앞 건물 구매… 지금 10배 올라” </title>
+      <link>https://www.chosun.com/national/people/2025/04/28/PVJTN72OWVABZAK2FSKO7ZJB3M/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/04/28/PVJTN72OWVABZAK2FSKO7ZJB3M/</guid>
+      <dc:creator>박선민 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 28 Apr 2025 05:52:44 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JP3ZTP2T4FHPPD6VMUL5TWTJWM.png"&gt;&lt;figcaption&gt;&lt;small&gt;배우 전원주. /SBS&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;연예계 ‘재테크 고수’로 알려진 배우 전원주(85)가 절친인 배우 고(故) 여운계와 과거 구매한 신촌의 한 건물 가격이 현재 10배 올랐다고 밝혔다. &lt;br&gt;&lt;br&gt;전원주는 27일 방송된 SBS ‘미운 우리 새끼’에서 부동산 투자 비결과 관련한 질문을 받고 “부동산 일하는 사람들을 몇 명 사귀어 놓고 급매가 나오면 바로 연락 오게 해야 한다”며 “여운계 살아있을 때 우리는 놀러 다니지 않았다. 신촌에 건물 급매가 나왔다는 연락을 받고 이대 앞 건물을 샀다. 그게 지금 10배”라고 했다. &lt;br&gt;&lt;br&gt;전원주는 절약과 저축을 강조하기도 했다. 그는 “명품을 좋아하지 말고 사람이 명품이 되자”라며 “티끌 모아 태산이다. 다른 데 가지 말고 은행부터 가라”고 했다. &lt;br&gt;&lt;br&gt;주식 투자와 관련해서는 “주식을 볼 땐 먼저 회사를 봐야 한다. 무너지는 회사인가 꿋꿋한 회사인가”라며 “회사의 건물을 찾아간다. 꿋꿋한 거 사면 절대 손해가 없다”고 했다. 전원주는 ‘제일 오래 갖고 있는 주식은 몇 년 됐냐’는 질문에 “30년”이라며 “파는 재미보다 모으는 재미가 크다고 하지 않았나. 드러누워 있으면 돈이 왔다 갔다 하는데 잠이 저절로 오고 마음이 풍성해진다. 후회되는 씀씀이가 되면 안 된다”라고 했다. &lt;br&gt;&lt;br&gt;연예계 재테크 고수로 불리는 전원주는 저축, 주식, 부동산 투자 등으로 30억원 이상의 재산을 갖고 있는 것으로 알려졌다. 방송에서 재테크 비법을 물어보면, 그는 매번 ‘절약 정신’을 언급한다. 실제로 전원주는 휴지 한 장 허투루 쓰지 않고, 물도 콸콸 틀지 않는 것으로 전해졌다. 이번 방송에서도 전원주는 출연진에게 낮 시간엔 화장실 불도 켜지 말라고 조언하고, 직접 세면대 물을 조금씩만 나오게 틀어 손을 씻는 모습을 보였다. &lt;br&gt;&lt;br&gt;전원주는 2022년 SBS ‘집사부일체’에 ‘저축의 사부’로 출연했을 당시 보유 중인 금만 10억원이라고 밝히기도 했다. 전원주는 “나는 돈이 생기면 금을 산다”며 “가지고 있으면 든든하다”고 했다. 그는 ‘1억원이 생긴다면 어디에 투자할 거냐’는 질문에도 머뭇거림 없이 “금을 살 것”이라며 “금은 절대 사라지지 않는다. 비석처럼 남아있다. 손해를 안 본다”고 답했다. &lt;br&gt;&lt;br&gt;다만 암호화폐 투자에 대해선 “위험한 건 투자 안 한다. 한 계단 한 계단 올라가야 그 돈이 내 돈이 된다. 아끼면서 모은 돈은 땅이 굳듯 굳는다”라며 부정적인 입장을 보였다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>[오늘의 날씨] 2025년 4월 26일</title>
       <link>https://www.chosun.com/national/national_general/2025/04/26/ITW4RXRARFGQNE3FN3NLG3ZBQU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/26/ITW4RXRARFGQNE3FN3NLG3ZBQU/</guid>
@@ -531,15 +732,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DR6IPFZQRJC5RNDLDUWML36JOA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서부해당은 벚꽃보다 진한 분홍색을 띠고 있어요. 벚꽃이 떨어지는 4~5월이면 화사한 분홍색 꽃이 나무를 뒤덮을 정도로 풍성하게 피죠. /김민철 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;요즘 길을 가다 분홍색 대형 풍선처럼 꽃이 활짝 핀 나무가 있으면 서부해당이 아닌가 살펴보세요. 서부해당은 화사한 분홍색 꽃이 온 나무를 덮을 정도로 풍성하게 피어 절로 발걸음을 멈추게 하는 나무입니다.&lt;br&gt;&lt;br&gt;서부해당은 중국 원산의 장미과 나무인데, 꽃이 예뻐서 우리나라 전국 화단과 공원에 심어 가꾸고 있습니다. 이름에서 ‘서부’는 중국 중서부 내륙에서 주로 자란다고 붙인 것이라고 합니다. 또 ‘해당(海棠)’ 하면 우리나라에서는 해당화를 떠올리지만 중국에서는 야생 사과 종류를 가리킨다고 합니다.&lt;br&gt;&lt;br&gt;서부해당은 꽃이 참 곱습니다. 꽃봉오리는 진한 붉은색이지만 피면서 연한 분홍색으로 변합니다. 다 피면 복사꽃보다는 조금 연하고 벚꽃보다는 진한 분홍색을 띠는데 이 꽃이 만개하면 정말 화사합니다. 그래서인지 이 나무 꽃이 중국 고전에서 여성의 아름다움, 애틋한 사랑을 상징하는 꽃으로 자주 등장합니다. 양귀비가 술이 덜 깬 자신을 해당화에 비유했다는 고사에 나오는 해당화가 서부해당이라고 합니다.&lt;br&gt;&lt;br&gt;4~5월 잎과 함께 꽃이 피는데, 가지 끝에 4~8개가 모여 달립니다. 꽃잎은 5장이지만 겹꽃으로 피는 것도 있습니다. 벚꽃이 막 지고 겹벚꽃이 필 때 서부해당 꽃도 함께 피는 것을 볼 수 있습니다.&lt;br&gt;&lt;br&gt;서부해당은 학명이 ‘Malus halliana’여서 ‘할리아나꽃사과’라고도 합니다. 또 긴 자주색 꽃자루가 아래로 실처럼 늘어지는 모양 때문에 ‘수사(垂絲·늘어진 실이라는 뜻)해당’이라 부르기도 합니다. 꽃자루가 2~4㎝로 긴 편입니다. 하지만 서부해당과 수사해당은 다른 나무라는 주장도 있는 등 이름이 아직 깔끔하게 정리되지 않은 것 같습니다.&lt;br&gt;&lt;br&gt;서부해당과 비슷하게 생긴 나무가 몇 개 더 있습니다. 꽃사과, 아그배나무와 야광나무 등이 있는데 모두 사과나무속(Malus)입니다. 아그배나무와 야광나무는 꽃자루가 2~4㎝로 긴 것은 서부해당과 닮았지만, 꽃이 연분홍색으로 피었다가 흰색으로 변하는 점이 다릅니다. 꽃의 생김새가 거의 비슷한 아그배나무와 야광나무는 잎을 보면 구분할 수 있습니다. 일부 잎이 갈라져 있으면 아그배나무, 갈라져 있는 잎이 없으면 야광나무입니다.&lt;br&gt;&lt;br&gt;아그배나무라는 이름은 작은 열매가 열리는 배나무 비슷한 나무라는 뜻의 ‘아기배나무’에서 유래했다고 합니다. 이름에 ‘배’가 들어갔지만 사과나무에 더 가까운 나무입니다. 야광나무는 강원도를 비롯한 백두대간에서 주로 볼 수 있습니다. 요즘엔 야광나무를 가로수로 심어 놓은 곳도 있습니다.&lt;br&gt;&lt;br&gt;도심 화단에서 자주 볼 수 있는 꽃사과도 서부해당과 비슷하게 생겼습니다. 서부해당처럼 꽃이 아름다워 전국에서 관상수로 심는 나무입니다. 이 나무는 꽃은 물론 잎도 사과나무와 아주 비슷하지만 가을에 열리는 열매가 작고 열매 끝에 꽃받침 자국이 남아 구분할 수 있습니다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[신문으로 배우는 실용한자] 우열(優劣)</title>
-      <link>https://www.chosun.com/national/nie/chinese_character/2025/04/28/5KYODQLU3BGVHNENR4AD2TE6I4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese_character/2025/04/28/5KYODQLU3BGVHNENR4AD2TE6I4/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Sun, 27 Apr 2025 15:51:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DAJ2O5O5NBH7VF7VIT4DRUKPQ4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[두근두근 뇌 운동] [2611] 칼럼 풀어 읽기</title>
       <link>https://www.chosun.com/national/nie/2025/04/28/GBAC64ENUZCIPI6GC7ABIH2CYA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/nie/2025/04/28/GBAC64ENUZCIPI6GC7ABIH2CYA/</guid>
@@ -556,24 +748,6 @@
       <description/>
       <pubDate>Sun, 27 Apr 2025 15:51:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LEF7GBMNMVCWFNXCSQ6STVX2SI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[입에 착착 붙는 일본어] 물기를 빼다</title>
-      <link>https://www.chosun.com/national/nie/japanese/2025/04/28/7JE7B5T5LVAXVLWWOWGYEVG4VI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/japanese/2025/04/28/7JE7B5T5LVAXVLWWOWGYEVG4VI/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Sun, 27 Apr 2025 15:51:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/B6K4HDXIQFHJVCHRZDBTVXYO5Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[매일매일 중국어 한마디] 온종일, 하루 종일</title>
-      <link>https://www.chosun.com/national/nie/chinese/2025/04/28/ZRTGEOKSCZH4VEVEDF6ICDKNJY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese/2025/04/28/ZRTGEOKSCZH4VEVEDF6ICDKNJY/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Sun, 27 Apr 2025 15:51:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5NNN7L3GKFGE3O7KWWQRIKMYWM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[오늘의 날씨] 2025년 4월 28일</title>
@@ -594,43 +768,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EZ5JEFNPKRGOXPM4T4ON4KPJIA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;자신의 반려견이 길고양이를 물어 죽이는데도 견주가 이를 제지하지 않고 방관했다는 동물구조단체의 주장이 나왔다. /위액트&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;자신의 반려견이 길고양이를 물어 죽이는데도 견주가 이를 제지하지 않고 방관했다는 주장이 나왔다. &lt;br&gt;&lt;br&gt;25일 동물구조단체 위액트는 인스타그램을 통해 서울 대치동에서 견주와 산책하던 반려견이 길고양이를 물어 죽인 사건이 발생했다고 밝혔다. 사건은 지난 23일 오전 1시쯤 서울 강남구 대치동에서 발생했다. 목격자가 촬영한 영상에는 견주가 목줄을 놓쳐버린 반려견이 길고양이를 물고 흔드는 장면이 담겼다. &lt;br&gt;&lt;br&gt;영상에 따르면 반려견이 고양이를 공격하는 동안 견주는 걸어와 놓친 목줄을 주워 들었다. 견주는 반려견의 공격을 제지하지 않은 채 지켜보기만 했다는 게 단체 측 주장이다. 결국 고양이는 그 자리에서 목숨을 잃었다. 단체 측은 “반려견이 생명을 해치는 모습을 그저 지켜보기만 한 보호자의 무책임하고 무감각한 태도에 분노를 넘어 공포를 느낀다”고 밝혔다. &lt;br&gt;&lt;br&gt;단체는 이 사건과 관련해 견주에 대해 형사 고발장을 제출하는 한편 고양이 사체를 농림축산검역본부에 부검 의뢰할 예정이다. 단체는 “112에 신고했으나 경찰은 ‘구청 소관’이라며 사체 수거를 시민에게 맡겼다”며 “책임을 전가하며 신고 접수도 하지 않은 경찰의 태도는 피해 동물과 목격자의 고통을 외면한 또 다른 방관”이라고 주장했다. &lt;br&gt;&lt;br&gt;또 다른 목격자는 댓글을 통해 “영상을 촬영한 이는 이를 막으려 했지만 견주는 아무 말도 안 했다. 촬영자는 마음 아파하면서 고양이 시신을 수습했다”고 전했다. &lt;br&gt;&lt;br&gt;다른 네티즌들은 “개가 아닌 견주의 잘못이다. 길고양이만 보면 흥분하거나 공격성이 있는 개라면 입마개를 해야 한다” “저런 사람은 반려견을 키워선 안 된다. 본인 반려동물만큼 길 위의 생명도 소중하다” “고양이는 길에서의 삶도 척박한데 왜 저렇게 생을 마감해야 하나” “분명 처음 아닐 거고 저 동네 고양이들은 이미 저 개에게 많이 당했을 거다” “저런 개는 안락사하고 주인은 동물학대로 처벌해야 한다” 등의 반응을 보였다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>서울 강남 코엑스 식당서 화재… 직장인·이용객 대피 </title>
-      <link>https://www.chosun.com/national/national_general/2025/04/25/CSCDUHZVTRHFFPM44NL4CUJXL4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/25/CSCDUHZVTRHFFPM44NL4CUJXL4/</guid>
-      <dc:creator>김나연 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 25 Apr 2025 02:33:34 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SUTCGF2G55O23FGHZIW3J3SRFQ.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;25일 서울 강남구 코엑스 내 입점한 식당에서 화재로 연기가 발생하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;25일 오전 서울 강남구 삼성동 코엑스 2층에 입점한 식당에서 화재가 발생해 소방 당국이 진화 작업 중이다.&lt;br&gt;&lt;br&gt;소방 관계자는 “오늘 오전 11시 6분에 신고가 접수됐다”며 “인명 피해 등은 확인 중”이라고 했다. 소방당국은 소방차량 20대, 소방관 71명을 동원해 화재 진압에 나섰고 오전 11시 42분쯤 초진을 완료했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HWPBPCE7QZGTLJYT6I727FI4YQ.png"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;코엑스 내부에 있던 시민과 인근 상업시설 근무자 등 인파 수백명이 건물 바깥으로 대피했다. 이 불로 오전 11시 44분 기준으로 영동대로 왼편 코엑스~삼성역 구간 하위 차로가 통제되고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>출발 직전 취소 얌체족 극성에... 주말·휴일 기차표 위약금 올려</title>
-      <link>https://www.chosun.com/national/national_general/2025/04/27/GZUATP25ZNDMVDTTKVJGYTZ4RE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/27/GZUATP25ZNDMVDTTKVJGYTZ4RE/</guid>
-      <dc:creator>표태준 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 27 Apr 2025 12:11:55 +0000</pubDate>
-      <content:encoded>여러 표를 예약한 뒤 마음에 드는 시간에 골라 타거나 옆 좌석에 다른 사람이 앉지 못하도록 열차표를 사재기한 후 출발 직전 취소해 환불받는 ‘얌체족’ 행태를 방지하기 위해 KTX와 SRT 등 열차 위약금을 인상한다.&lt;br&gt;&lt;br&gt;국토교통부는 오는 5월 28일부터 주말(금~일)과 공휴일 열차 취소 수수료 기준을 강화하겠다고 27일 밝혔다. 기존에는 위약금 수준이 낮아 출발 직전에 환불하는 사례가 잦았다. 이 때문에 좌석이 낭비되는 경우가 많았다며 수수료를 올려 좌석 회전율을 높이겠다는 것이다.&lt;br&gt;&lt;br&gt;앞으로 주말과 공휴일 열차를 이용할 땐 출발 시각을 기준으로 2일 전까지는 400원, 1일 전 5%, 출발 당일 3시간 전까지 10%, 3시간 후~출발 시각 전까지는 20%로 취소 수수료가 강화된다. 현재는 출발 1일 전까지는 400원, 출발 전까지는 최대 10%의 수수료가 부과되고 있다.&lt;br&gt;&lt;br&gt;승차권 없이 탑승할 때 부과되는 부가 운임 기준도 강화된다. 부가 운임은 부정 승차를 방지하고 차량 내 혼잡도를 완화하기 위해 기준 운임에 추가로 부과하는 운임이다. 현재 부가 운임은 기준 운임의 50%지만, 이를 100%로 상향 조정한다. 이에 따라 서울~부산 구간을 승차권 없이 탑승할 경우 열차에서 내야 하는 금액은 8만9700원에서 11만9600원으로 올라간다. 강화된 부가 운임 기준은 오는 10월 1일부터 시행된다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/AZZF4VFQRRJKZOYM6I5FNAGQPQ.jpg?auth=2f4712d009228beda1b6750b863a459c18cdb694036c3e0a831fd093f9b3111c&amp;smart=true&amp;width=5000&amp;height=3488" type="image/jpeg" height="3488" width="5000">
-        <media:description type="plain">&lt;YONHAP PHOTO-4089&gt; 코레일 철도 요금 인상 추진, KTX 17% 인상할 듯
-    (서울=연합뉴스) 황광모 기자 = 26일 서울 중구 서울역에서 승객들이 경부선 KTX에 탑승하기 위해 분주히 이동하고 있다.
-    한국철도공사(코레일)는 고속철도인 KTX를 비롯한 간선철도 운임 인상을 본격적으로 추진한다.
-    한문희 코레일 사장은 지난 25일 대전에서 열린 기자간담회에서 "2011년 12월 이후 14년째 동결된 철도 운임 인상이 불가피하다"라며 "여러 자구 노력에도 전기 요금과 임금 등 원가가 크게 오른 데다 부채 증가에 따른 이자 비용의 영향으로 재무 건전성에 한계가 온 상황"이라고 말했다.
-    구체적인 요금 인상률과 인상 방식, 인상 시점은 정부와의 논의를 통해 추후 정해질 방침이다. 2025.3.26
-    hkmpooh@yna.co.kr/2025-03-26 13:58:25/
-&lt;저작권자 ⓒ 1980-2025 ㈜연합뉴스. 무단 전재 재배포 금지, AI 학습 및 활용 금지&gt;</media:description>
-        <media:credit role="author" scheme="urn:ebu">황광모</media:credit>
-      </media:content>
-    </item>
-    <item>
-      <title>경기 광주 건물 사이에서 신원미상 남성 시신 발견 </title>
-      <link>https://www.chosun.com/national/2025/04/27/JEGUQ6C3E5EMJNFU6NN2OPPIVE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2025/04/27/JEGUQ6C3E5EMJNFU6NN2OPPIVE/</guid>
-      <dc:creator>김준호 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 27 Apr 2025 11:32:04 +0000</pubDate>
-      <content:encoded>경기 광주에서 신원 미상의 시신이 발견돼 경찰이 수사에 나섰다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Y673MPAIK2SGUCS3RIHLOMPGZQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기광주경찰서. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;27일 경기 광주경찰서에 따르면 이날 오후 3시 40분쯤 광주시의 한 상가 건물 골목에서 “남성의 시신이 있다”는 주민 신고가 접수됐다. &lt;br&gt;&lt;br&gt;시신은 상가건물 2곳 사이 폭 1.5ｍ가량의 공간에 있었다고 한다. 인근 주민이 인접 건물에서 빨래를 널던 중 아래로 떨어진 옷가지를 가지러 갔다가 시신을 발견해 신고한 것으로 전해졌다. &lt;br&gt;&lt;br&gt;시신은 발견 당시 상의와 속옷을 착용한 상태였다고 전해졌다. 시신이 발견된 주변에선 하의가 발견됐지만, 사망자의 것인지는 확인되지 않았다.&lt;br&gt;&lt;br&gt;시신 신원과 사망 원인 파악에는 다소 시간이 소요될 것으로 보인다. 시신 부패 정도가 심해 타살 등 범죄 혐의점을 확인하기 어려운 상태라고 한다. 시신이 발견된 현장에는 신원을 확인할 단서도 없었다고 한다. &lt;br&gt;&lt;br&gt;경찰은 국립과학수사연구원에 시신에 대한 부검을 의뢰해 정확한 사망 원인 등을 확인할 방침이다. 경찰 관계자는 “시신이 발견된 장소는 협소하고, 행인 시야에 들어오기 어려운 곳이다. 현장을 직접 비추는 CCTV도 없다”면서 “현장 주변 CCTV를 분석해 정확한 경위를 파악할 예정이다”고 말했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>의협 총회... ‘의대 정원 2000명 증원’ 국정조사 요구</title>
       <link>https://www.chosun.com/national/welfare-medical/2025/04/27/IE7WE3TDNJDCLFPUGDUJ3IJLCM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/04/27/IE7WE3TDNJDCLFPUGDUJ3IJLCM/</guid>
@@ -649,37 +786,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/O7AQQPZIBNAERCRLAQFJXVR7RU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한 아파트에서 시행하는 차량 보유 대수 별 차등 주차요금제. /보배드림&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한 아파트 단지가 차량 보유 대수에 따라 최대 월 52만원의 차등 주차 요금을 부과하기로 해 화제다. &lt;br&gt;&lt;br&gt;지난 24일 온라인 커뮤니티 보배드림에 따르면, 글쓴이 A씨는 한 아파트 관리사무소가 차량 대수별로 주차 요금을 차등 부과하는 정책을 도입했다고 전했다. 구체적으로 세대마다 1대를 보유할 시 주차 요금은 무료이지만, 2대에 대해선 월 2만원, 3대 월 22만원, 4대 월 52만원의 요금을 부과한다. 5대 이상 차량 등록은 아예 불허하기로 했다.&lt;br&gt;&lt;br&gt;이 아파트 관리사무소는 방문 차량에 대해서도 세대당 월 100시간으로 주차 시간을 제한했다. 100시간을 초과할 경우 1시간당 1000원의 추가 요금을 해당 세대의 주차 비용에 포함해 부과한다. 예컨대 방문 차량이 월 130시간 주차할 경우, 100시간을 초과한 30시간에 대해 시간당 1000원씩 총 3만원의 요금을 부과하게 된다. 이는 주차 공간 부족 문제를 해결하기 위한 조치로 보인다.이 아파트 주민으로 보이는 글쓴이는 “속이 시원하다”며 “차량 3대부터 불허했으면 더 좋았을 것”이라고 했다. &lt;br&gt;&lt;br&gt;이 소식이 자동차 커뮤니티 ‘보배드림’에 공유되자 다양한 반응이 나왔다. 일부 네티즌들은 “우리 아파트도 이렇게 했으면 좋겠다” “전국 아파트에 적용했으면”이라며 긍정적인 반응을 보였다. &lt;br&gt;&lt;br&gt;댓글을 통해 실제로 여러 아파트 단지에서 이와 비슷한 차등 요금제를 시행 중이라는 의견도 나왔다. 네티즌 B씨가 거주하는 1757세대 규모의 아파트는 1대 무료, 2대 5000원, 3대 20만원, 4대 50만원의 요금 체계를 도입했다고 밝혔다. B씨는 “유료 전환 후 언제 입차해도 평균 50대 이상 주차 공간이 남아있다”며 주차난 해소 효과를 전했다. 주차장 회전율이 개선되면서 심야 시간대 주차난도 크게 줄었다는 설명이다. &lt;br&gt;&lt;br&gt;차등 요금제로 걷힌 주차비는 아파트 관리비 차감 등에 활용되는 것으로 알려졌다. 네티즌 C씨는 자신이 거주하는 아파트의 경우 주차비 수익을 세대별로 균등 분배해 관리비에서 차감해주고 있다고 밝혔다. 네티즌 D씨는 “주차비 수익을 별도 통장에 입금해놓고 1년 후 평형별로 관리비를 차감해주기도 한다”고 했다. &lt;br&gt;&lt;br&gt;지난 10일 부동산인포가 공동주택관리시스템에 등록된 단지들의 주차 공간을 분석한 결과, 전체 아파트의 평균 주차 대수는 가구당 1.06대에 불과했다. 입주 시기에 따라 격차가 있었는데, 1970년대 입주 단지는 0.73대, 1990년대는 0.93대, 2010년대는 1.15대였고, 2020년대는 1.24대로 나타났다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>메마름과 강풍 심화... 산불 위험 재차 커져</title>
-      <link>https://www.chosun.com/national/transport-environment/2025/04/27/7MREAZR5HZA6HD3A4VLUAHPZIM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/04/27/7MREAZR5HZA6HD3A4VLUAHPZIM/</guid>
-      <dc:creator>박상현 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 27 Apr 2025 07:44:10 +0000</pubDate>
-      <content:encoded>봄의 복판에 들어서면서 대기의 메마름이 심해지고 있다. 서울을 비롯한 전국 대부분 지역에 건조 특보가 발효됐고, 강풍이 불면서 산불 위험이 다시 커질 것으로 보인다.&lt;br&gt;&lt;br&gt;27일 기상청에 따르면, 28일 우리나라는 중국 북부 지방에서 서해상으로 이동하는 고기압 영향권에 들면서 전국이 맑고 건조하겠다. 아침 최저기온은 6~14도, 낮 최고기온은 17~24도로 예보됐다. 온난 건조한 서풍(西風)이 건조도를 높이면서 서울을 비롯해 우리나라 동쪽을 중심으로 건조 특보가 발효됐는데 오는 30일까지 특보 구역은 확대될 것으로 보인다.&lt;br&gt;&lt;br&gt;당분간 우리나라 전역에는 간판이 흔들릴 정도인 순간풍속 초속 15m 내외의 강풍이 불겠다. 강풍 특보가 내려진 강원 영동과 경북에는 지붕이 날아갈 정도인 초속 20~25m의 더 강한 바람이 예상된다. 지난달 말 영남 산불 때처럼 극심한 건조도와 강풍이 함께 나타나고 있어 화재에 유의해야 한다. 강풍으로 인해 28일 미세 먼지 농도는 전국에서 ‘보통’ 수준을 보이겠다.&lt;br&gt;&lt;br&gt;내달 1일 비구름대를 동반한 기압골의 영향으로 수도권과 강원 영서·충청권에는 비가 예고됐다. 이 비로 중부지방 곳곳에선 건조도가 다소 해소되겠으나 나머지 지역에선 다음 달 7일까지 뚜렷한 비 소식이 없어 건조도가 더 심해질 것으로 보인다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[오늘의 운세]  4월 28일 월요일 (음력 4월 1일 丁卯)</title>
-      <link>https://www.chosun.com/national/national_general/2025/04/27/IDBSSMYS5JD4JMEASSRU4JZIOI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/27/IDBSSMYS5JD4JMEASSRU4JZIOI/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Sun, 27 Apr 2025 08:00:00 +0000</pubDate>
-      <content:encoded>&lt;p&gt;&lt;div class="chosun_unse"&gt;&lt;iframe src="https://image.chosun.com/arc/unse_iframe.html" frameborder="0" scrolling="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;style&gt;.chosun_unse{position:relative;width:100%;height:350px;box-sizing:border-box}.chosun_unse&gt;iframe{position:absolute;top:0;left:0;width:100%;height:100%;overflow-y:hidden}@media all and (max-width:1024px){.chosun_unse{height:350px}}@media all and (max-width:1023px){.chosun_unse{height:350px}}@media all and (max-width:528px){.chosun_unse{height:270px}}@media all and (max-width:384px){.chosun_unse{height:190px}}&lt;/style&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;p&gt;&lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani01.gif"&gt;  	&amp;nbsp;	 36년생 당장은 힘겨워도 지나고 보면 피와 살 될 듯. 48년생 서리 내려야 국화의 절개 알지. 60년생 잔꾀 부리지 말고 원칙 지켜라. 72년생 대호는 발톱을 인격자는 말을 아낀다. 84년생 허물 있는 동료에게 관용 베풀라. 96년생 넘어져 깨지기 전까진 울지 마라.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt;  &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani02.gif"&gt;	&amp;nbsp;	 37년생 서울 가야 과거(科擧)를 보지. 49년생 무턱대고 달려들다 낭패 볼 수도. 61년생 무심한 말 한마디에 시간과 힘 소모 마라. 73년생 한 발짝 물러나 관망하면 보이리. 85년생 따지지 말고 적당 선에 마무리하라. 97년생 북쪽에 운기 서리니 북문 이용.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani03.gif"&gt;	&amp;nbsp;	 38년생 주변 상황에 휘둘리지 않도록. 50년생 먼 친척 가까운 이웃만 못하다. 62년생 의견 분분한 사안에 일일이 왈가왈부 마라. 74년생 끈기보다 무서운 건 없다. 86년생 가정의 무사 안락이 더 없는 행복. 98년생 사당치레하다 신주 개 물려 보낸다더니.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani04.gif"&gt;	&amp;nbsp;	 27년생 흰색과 숫자 4, 9 행운 부른다. 39년생 100% 채우려 하지 마라. 51년생 잠시 쾌락이 긴 후회 남긴다. 63년생 호미로 막을 일 가래로 막을까. 75년생 말로 인한 구설이 두렵다. 87년생 자녀 문제로 인한 근심. 99년생 횡재수가 아니면 슬하에 경사.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani05.gif"&gt;	&amp;nbsp;	 28년생 서쪽에서 온 사람이 귀인. 40년생 계획 수정이 불가피할 듯. 52년생 안하무인은 손실 초래. 64년생 이성(異性)의 유혹을 주의. 76년생 도장과 문서를 각별히 주의. 88년생 고랑물이 모여 바다를 이루는구나. 00년생 가벼운 운동으로 기분 전환하라.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani06.gif"&gt;	&amp;nbsp;	 29년생 조급한 마음에 무리하지 마라. 41년생 제 주장만 너무 하면 충돌을 야기. 53년생 새로운 일에 과감한 노력이 필요. 65년생 서툰 도둑이 첫날 밤에 들킨다. 77년생 감정 조절이 건강 유지에 첩경. 89년생 집착은 근심과 걱정을 초래. 01년생 구설 있다면 잘되고 있는 것.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani07.gif"&gt;	&amp;nbsp;	 30년생 가족의 배려가 소중한 시기. 42년생 흰색과 숫자 1, 6 행운 부른다. 54년생 한 번의 충돌은 불가피할 듯. 66년생 동북 양방에 손재를 주의하라. 78년생 이익은 없으나 명분은 있다. 90년생 윗사람과의 갈등을 경계. 02년생 가다가 지치면 쉬었다 가면 된다.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani08.gif"&gt;	&amp;nbsp;	 31년생 자동차, 등 노상(路上)을 조심. 43년생 재물운은 좋으나 과욕은 금물. 55년생 규칙적인 운동과 건강 관리에 유의. 67년생 붉은색과 숫자 2, 7 행운 부른다. 79년생 노상(路上)에 횡액을 조심. 91년생 자다가 떡 먹을 일 있다. 03년생 그릇된 편견이 일을 그릇 친다.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani09.gif"&gt;	&amp;nbsp;	 32년생 뇌, 심혈관 계통 질환이 두렵다. 44년생 얻은 만큼 잃은 것 있다. 56년생 희망이 있다면 늙지도 않는다. 68년생 매듭과 정리에 적합할 날. 80년생 죽을 곳에 살 꾀가 있다. 92년생 백 년을 산다 해도 삼만육천 하루. 04년생 횡재를 바라면 횡액을 면키 어렵다.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani10.gif"&gt;	&amp;nbsp;	 33년생 재물 집 밖에 있으니 나가면 이익. 45년생 이웃집 일에 일일이 왈가왈부하지 마라. 57년생 오해는 이해 부족해 생기는 것. 69년생 과욕 금물, 소소한 것에도 만족하라. 81년생 뜻 좋아도 방법 나쁘면 허사. 93년생 산 가야 꿩을 바다 가야 생선 잡지.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani11.gif"&gt;	&amp;nbsp;	 34년생 인내와 의지만이 모든 걸 가능케 한다. 46년생 서울서 뺨 맞고 송도서 주먹질 마라. 58년생 질병 두려우니 사전 예방 필요. 70년생 적군인지 아군인지 알 수 없구나. 82년생 자세와 마음가짐 새로워야 난국 극복 가능. 94년생 뜻밖에 보너스나 횡재 생길 수도.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani12.gif"&gt;	&amp;nbsp;	 35년생 누런색 옷은 행운 부른다. 47년생 즐거운 마음으로 임하면 만사 순조롭다. 59년생 의식주가 수단 될지언정 목표는 아니다. 71년생 산 오를수록 높고 물은 건널수록 깊다. 83년생 범띠와 함께면 삼수갑산인들 멀까. 95년생 부자는 산속에 살아도 찾아올 이 있다.	&lt;br&gt;
-&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;한소평 금오산방 강주  &lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;			&lt;/p&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/4MTFRYWHBJA7XOKKF7G7JPLX5U.png?auth=4651b5b20b5d4901424204d1456faee02e4b064ff509db23945deabf4404c8ef&amp;smart=true&amp;width=800&amp;height=420" type="image/png" height="420" width="800"/>
-    </item>
-    <item>
       <title>암 환자도, 청각장애인도... “서울하프마라톤서 삶의 활력 찾았죠”</title>
       <link>https://www.chosun.com/national/national_general/2025/04/27/EX34GGNKUFBGZPLV4VMZTJI4AM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/27/EX34GGNKUFBGZPLV4VMZTJI4AM/</guid>
@@ -687,24 +793,6 @@
       <description/>
       <pubDate>Sun, 27 Apr 2025 06:36:42 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RLJXBJLZQBHDZET4PK2E4XR4YU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;27일 2025 서울하프마라톤에 함께 참가한 암 환자 강경애(왼쪽)씨와 그의 큰아들 김도영씨. /조인원 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2025 서울하프마라톤(조선일보·서울시·서울시체육회 공동 주최)이 열린 27일 오전, 부산에서 온 고등학교 교사 강경애(54)씨가 큰아들 김도영(27)씨와 다정하게 팔짱을 끼고 출발지 광화문광장 이곳저곳을 둘러봤다. 강씨는 아들 김씨에게 “서울 진짜 좋네. 이런 날에 서울 구경하면서 아들이랑 ‘러닝 데이트’하니까 기분 너무 좋다”고 하면서 웃었다.&lt;br&gt;&lt;br&gt;강씨는 암 환자다. 4년 전 자궁암 진단을 받아 자궁 절제 수술을 받고 치료를 받던 중 2년 전엔 유방암까지 발견돼 지금까지도 병마와 싸우고 있다. 20여 년 전 남편과 이혼하고 두 아들을 홀로 키우던 ‘싱글맘’인 그는 “세상이 너무 잔인하다”며 스스로 목숨을 끊을 고민까지 했다고 한다. 뭐라도 해야 안 죽고 살겠다 싶어서 시작한 달리기가 그에게 활력을 되찾아줬다. 작년 여름부터 집 근처 운동장에서 5~6km씩 뛰기를 일주일에 다섯 번씩 했다고 한다. 강씨는 “약을 먹거나 주사를 맞고 나면 호르몬 영향인지 잠을 못 잘 때가 많았는데 뛰고 나면 그런 증상 없이 편안하게 잠이 든다”며 “우울증에 걸려 집 밖으로도 잘 안 나갔었는데 달리기를 시작하고 나서 완전히 달라졌다”고 말했다.&lt;br&gt;&lt;br&gt;그는 이번 서울하프마라톤에 두 아들과 함께 뛰려 했다. 하지만 강씨와 큰아들은 선착순 접수에 성공했지만 둘째 아들은 접수를 하지 못했다. 대학생인 아들들도 취미로 러닝을 즐겨서 함께 뛰어보는 게 엄마 소원이었다고 한다. 강씨와 큰아들 김씨는 이날 10km에 참가해 각각 1시간 0분 55초, 51분 35초로 완주했다. 출발 그룹이 달라 함께 나란히 달리진 못했지만, 먼저 결승선에 도착한 아들이 엄마의 완주 순간을 휴대전화로 찍어주며 ‘서울 봄 나들이’를 즐겼다. 강씨는 “더 나이 먹고 몸이 약해지기 전에 아들과 마라톤을 같이 해보고 싶다는 ‘버킷 리스트’를 이뤘다”며 “치료도 더 힘내서 잘 받을 수 있을 것 같다. 다음번엔 둘째 아들도 꼭 같이 뛰겠다”고 말했다. 큰아들 김씨는 “엄마가 달리기를 하면서 암을 이겨내려는 모습을 보니까 마음이 편해진다”며 “기회가 될 때마다 엄마랑 같이 뛰겠다”고 말했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/O45RI2E7CVFN7ISSLDK3Q3F5RI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;27일 2025 서울하프마라톤에 참가한 청각장애인 엄재현씨. /조인원 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울하프마라톤 참가자 중 달리기로 삶의 희망을 찾은 이는 강씨뿐만이 아니다. 10km 부문에 참가한 엄재현(28)씨는 양쪽 귀가 거의 들리지 않는 선천성 청각장애인이다. 인공와우 수술을 받아 지금은 일상생활 중 의사소통은 큰 무리가 없지만, 학창 시절엔 말을 못 알아듣는다는 이유로 또래들에게 따돌림을 당하기도 했다. 마라톤을 시작한 건 작년 10월. 처음엔 건강 관리 목적이었는데 어느새 마라톤에 푹 매료됐다. 묵묵히 자신과의 싸움을 하는 게 소리 없이 버텨온 그의 인생과 비슷하다고 느꼈다고 한다. 엄씨는 “달리기를 하면서 장애가 나의 한계가 아니라는 걸 더욱 깨달았다”며 “올해 춘천마라톤에도 나가고 싶고, 내년 서울하프마라톤에서 하프 코스에 도전하고 싶다. 장애인들에게 ‘할 수 있다’는 메시지를 전하고 싶다”고 말했다.&lt;br&gt;&lt;br&gt;‘힐링’이 필요한 건 환자나 장애인뿐만 아니라 그 가족들도 마찬가지. 아픈 가족을 지키기 위한 에너지를 달리기에서 찾는 이들도 있다. 강원도 한 군 부대에 복무하는 직업군인 이동우(39)씨는 세 살 연하 아내가 암 투병을 하고 있다. 위암 2기 판정을 받아 위 절제 수술을 받고 치료받던 중 복막 전이 4기가 확인됐다. 아내도 직업군인 출신으로 함께 러닝을 즐길 정도로 건강했는데 지금은 요양병원에 누워 밥도 정상적으로 먹지 못할 정도로 상태가 좋지 않다고 한다. 생후 34개월짜리 아들은 경기 고양시 처가에 보내 가족이 뿔뿔이 흩어진 상황. 아내가 회복하고 나면 다시 함께 달리기를 즐길 때 자신이 이끌어주겠다는 생각으로 운동의 끈을 놓지 않았다. 이번 서울하프마라톤 10km 부문에 참가하기 위해 퇴근 후 매일 연습을 하면서 ‘인증샷’을 아내에게 보내줬다. 아내는 “얼른 나아서 같이 뛰자”고 했다고 한다. 이씨는 “아내가 현실적으로 완치가 쉽지 않은 상황이지만 같이 달리기 할 수 있을 정도로는 회복할 거라고 믿는다”며 “건강해진 아내와 손잡고 꼭 다시 서울하프마라톤을 뛰러 오겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>중국 마약 밀수하려다 들통...13년 도피생활 50대 실형</title>
-      <link>https://www.chosun.com/national/2025/04/27/3ZS6SQT2OVBDVHHJL4UE4ISMZM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2025/04/27/3ZS6SQT2OVBDVHHJL4UE4ISMZM/</guid>
-      <dc:creator>창원=김준호 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 27 Apr 2025 06:19:50 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Z6QPEFXGJNRPZ5XSGMLYBBG2IQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;창원지법. /조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;중국에서 수천만원 상당의 마약을 들여오려다 발각되자 13년간 해외 도피 생활을 했던 50대 한국인이 뒤늦게 붙잡혀 실형을 선고받았다. &lt;br&gt;&lt;br&gt;창원지법 형사2부(재판장 김성환)는 마약류 관리에 관한 법률 위반(향정) 혐의로 기소된 A(50대)씨에게 징역 5년을 선고했다고 27일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 2012년 3월 B씨와 공모해 중국에서 구한 마약류인 엑스터시 1919정(당시 시가 2000만원)을 시계 케이스 5개에 나눠 담아 선박을 통해 국내로 들여오려 한 혐의로 기소됐다.&lt;br&gt;&lt;br&gt;중국에서 가짜 명품(모조품) 사업을 하고 있던 A씨에게 B씨가 마약 구입 자금을 보내자, A씨는 불상의 인물에게서 마약을 구해 시계 케이스에 담아 화물 선박에 실어 한국으로 보냈다. 하지만 이 마약은 인천 세관에 적발됐다.&lt;br&gt;&lt;br&gt;A씨는 같은 해 10월 중국에서 구한 필로폰 176.47g(당시 시가 2100만원)을 B씨와 C씨의 신발 밑창과 양말 등에 숨겨 항공편을 통해 밀수한 혐의도 받는다. 이번에도 제보를 받고 인천공항에 대기 중이던 검찰에 덜미를 잡혔다. &lt;br&gt;&lt;br&gt;이 사건으로 B씨는 2013년 징역 3년, C씨는 징역 2년 6개월에 집행유예 3년을 받았다. 하지만 A씨는 공범인 이들이 붙잡히자, 수사기관의 추적을 피해 중국에서 도피 생활을 이어갔다.&lt;br&gt;&lt;br&gt;그러다 지난해 8월 중국에서 베트남으로 밀입국하다 베트남 당국에 검거되면서 범행 12년 7개월 만인 지난해 10월 국내로 송환됐다.&lt;br&gt;&lt;br&gt;A씨는 재판 과정에서 범행을 부인했지만, 재판부는 A씨와 범행을 공모했다는 내용의 공범들의 진술에 신빙성이 있다고 판단해 공소 사실을 유죄로 인정했다.&lt;br&gt;&lt;br&gt;재판부는 “마약류 수입 범행은 국경을 넘어 국제적으로 광범위하게 마약류를 유통, 확산하는 것으로 사회질서에 돌이킬 수 없는 심각한 해악을 끼쳐 더욱 엄중히 처벌해야 한다”며 “A씨는 수사기관의 추적을 피할 목적으로 오랜 기간 해외에 머물며 도주했고 수사와 재판에서도 범행을 일체 부인하며 반성하지 않아 엄벌이 불가피하다”고 양형 이유를 밝혔다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>백신·치료제 없는 ‘살인진드기’… 올해 첫 사망자 경북서 발생</title>
-      <link>https://www.chosun.com/national/incident/2025/04/27/CBB2ERVEFNG5JG6GDI32YUURBY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/04/27/CBB2ERVEFNG5JG6GDI32YUURBY/</guid>
-      <dc:creator>이승규 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 27 Apr 2025 05:53:21 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EUKIIBCO7VVW54PMW7TEJZPLSQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/질병관리청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경북에서 중증열성혈소판감소증후군(SFTS) 확진자가 사망한 것으로 파악됐다. SFTS 감염자가 사망한 올해 첫 사례다.&lt;br&gt;&lt;br&gt;27일 경북도에 따르면 지난 20일 안동에 거주하는 여성 A(76)씨가 숨졌다. A씨는 이달 초 쑥을 캐러 다녀온 뒤 어지럼증과 식욕 부진 등 증상으로 병원에 입원했다가 치료 중 사망했다. A씨는 사망 4일 후에 SFTS 양성 판정을 받았다.&lt;br&gt;&lt;br&gt;SFTS는 4월부터 11월까지 발생하는 질병으로, SFTS 바이러스를 보유한 작은소피참진드기(참진드기)에 물려 감염된다. 물린 후 2주 정도 잠복기를 거친 뒤 38도 이상의 고열과 구토, 설사, 식욕 부진 등 증상을 보인다. 백신과 치료제가 없어 이 병을 옮기는 참진드기가 ‘살인 진드기’로도 불린다. &lt;br&gt;&lt;br&gt;진드기는 등산과 골프, 텃밭 작업 등 야외 활동을 하는 과정에서 옷에 묻는다. 진드기에 물린 후 2주 내 발열이나 구토, 설사 등 증상이 나타날 경우 의료기관을 방문해 진료를 받을 필요가 있다.&lt;br&gt;&lt;br&gt;전문가들은 진드기에 물리지 않는 게 가장 효율적인 예방법이라고 입을 모았다. 유정근 경북도 건강복지국장은 “예방이 최선의 백신”이라며 “야외 활동 시 긴팔과 토시, 장화 등 피부를 보호할 수 있는 작업복을 입고, 풀밭 위에 옷을 벗어놓거나 앉지 말아야 한다”고 했다. 이어 “귀가 후엔 즉시 샤워를 하고 옷을 분리 세탁할 필요가 있다”고 했다.&lt;br&gt;&lt;br&gt;질병관리청에 따르면 SFTS는 2013년 법정 감염병으로 지정된 이후 지난해까지 총 2065명에게 발생했다. 이 중 381명(치명률 18.5%)이 숨졌고, 지난 한 해에만 170명이 감염돼 이 중 26명이 숨졌다.&lt;br&gt;&lt;br&gt;올해엔 지난 15일 전북 남원에서 80대 여성이 농사일을 한 뒤 SFTS 양성 판정을, 지난 24일 제주 서귀포에서 70대 여성이 고사리를 캐다 SFTS 양성 판정을 받는 등, 총 3명이 확진된 것으로 파악됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>교대 수시 합격선 내신 6등급까지 하락... MZ교사 60% “기회 있으면 이직”</title>
@@ -716,15 +804,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BRI3KA776OG3CPYAHMB6ZHJ37Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;4일 오전 서울 마포구 아현초등학교에서 학생들이 등교하고 있다.(사진은 기사 내용과 무관함) / 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;상위권 학생들이 몰렸던 교육대학 입시 합격선이 수시 모집은 내신 6등급, 정시 모집은 수능 4등급대까지 떨어진 것으로 나타났다. 교권 추락과 낮은 처우 등을 이유로 초등학교 교사 직업에 대한 인기가 시들해지며 교대 입학생 성적이 최근 수년 사이 크게 하락하는 것이다.&lt;br&gt;&lt;br&gt;27일 종로학원이 매년 입시 결과를 공개하는 일부 교대 수시 일반 전형 입학자 성적을 분석한 결과, 2025학년도 춘천교대는 최저 합격자의 내신 등급이 6.15등급으로 나타났다. 2023학년도(4.16등급), 2024학년도(4.73등급) 등 매년 하락하다 이번에 큰 폭으로 떨어진 것이다. 광주교대도 최저 합격자 내신 등급이 2023학년도 2.85등급이었지만, 전년 3.54등급으로 떨어지고 이번에도 3.54등급에 머물렀다.&lt;br&gt;&lt;br&gt;상위 80%에 해당하는 입학생 성적을 공개(이른바 ‘80% 컷’)하는 서울교대 역시 내신 등급 합격선이 2025학년도 2.1등급으로 전년(1.97등급) 보다 하락했다. 마찬가지로 80%컷을 공개하는 청주교대는 2025학년도 내신 등급 합격선이 3.44등급으로 전년(2.92등급)에 비해 낮아졌다.&lt;br&gt;&lt;br&gt;수능 점수를 보는 정시 합격선도 내려갔다. 서울교대는 자체 환산점수 기준으로 전년(621.74점)보다 3.33점 하락한 618.41점이 합격선이었다. 전년도 수능 4등급 초반대였던 광주교대 정시 합격선은 4등급 중반대까지 떨어졌다. 학령인구 감소로 2025학년도 전국 교대 입학 정원은 전년 대비 약 12%(457명) 줄었다. 뽑는 인원이 줄었음에도 합격선은 되레 낮아진 것이다.&lt;br&gt;&lt;br&gt;교육계에서는 젊은 초등 교사들의 직업 만족도가 떨어지는 것이 수험생들에게도 영향을 주는 것이라 분석한다. 서울시교육청교육연구정보원(서교원)이 초중고 교사 2503명을 대상으로 조사한 ‘서울교원종단연구’에 따르면, ‘향후 기회가 된다면 이직하고자 한다’는 교사는 초등학교가 42.5%로 가장 많았다. 중학교(34.8%), 고등학교(34.7%)와 차이가 컸다. 특히 교직 경력 13년 이하인 젊은 초등 교사는 60% 이상이 이직 의사가 있는 것으로 나타났다.&lt;br&gt;&lt;br&gt;서교연 관계자는 “설문에서 특히 초등학교 교사들은 중·고교에 비해 ‘학부모 상담’에 큰 업무 부담감을 느낀다고 답했다”며 “높아진 업무 부담에 비해 처우는 낮다 보니 교직에 대한 인기가 하락하는 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>코치, 아식스 등 유명 브랜드 사칭 피해 7개월간 150건</title>
-      <link>https://www.chosun.com/national/national_general/2025/04/27/U4YVIY7DLRBOZJNS7U2WSP5SOI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/27/U4YVIY7DLRBOZJNS7U2WSP5SOI/</guid>
-      <dc:creator>김영우 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 27 Apr 2025 05:23:10 +0000</pubDate>
-      <content:encoded>소비자를 유명 패션 브랜드의 사칭 사이트로 유인해 상품을 결제하게 한 뒤 물품을 발송하지 않고 사이트 운영을 중단하는 피해가 늘어나자, 서울시가 27일 소비자들의 주의를 당부하고 나섰다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BLLXQQLZJVDBXA6EL3T5WE4I7A.png"&gt;&lt;figcaption&gt;&lt;small&gt;아식스 사칭 사이트의 모습. /서울시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울시전자상거래센터에 따르면, 지난해 10월부터 이달까지 7개월간 패션 브랜드 사칭 사이트로 인한 피해 상담 건수는 150건인 것으로 나타났다. 총 피해 금액은 1907만원에 달했다.&lt;br&gt;&lt;br&gt;사칭 사이트는 인스타그램이나 페이스북 등 소셜 미디어 광고를 통해 연결되는 방식이다.&lt;br&gt;&lt;br&gt;서울시 관계자는 “사칭 사이트가 코치·스투시·아디다스 등 해외 유명 브랜드의 공식 홈페이지와 외관이 비슷해 소비자들이 피해를 본 경우가 많았다”고 했다.&lt;br&gt;&lt;br&gt;서울시는 사칭 사이트가 ‘.com’과 같은 일반적인 도메인 확장자가 아닌 ‘.top’, ‘.shop’, ‘.vip’ 등을 쓰는 경우가 많으니 주소를 확인해야 한다고 당부했다.&lt;br&gt;&lt;br&gt;사칭 사이트는 대부분 해외 서버로 운영돼, 피해가 발생하면 즉시 사이트 접속 차단을 하기 어렵다는 문제가 있다. 이에 서울시는 KT나 SK브로드밴드, LG유플러스 등에 즉시 접속 차단을 요청할 수 있도록 정부에 법률 개정 등 제도 개선을 제안할 계획이다.&lt;br&gt;&lt;br&gt;서울시는 “만약 물건을 구매하려는 곳이 사칭 사이트로 의심되면, 상품 페이지나 주문 내역 등 화면을 캡처한 뒤 보관해둬야 한다”고 했다. 결제일로부터 2주 이내에 상품이 오지 않으면 신용카드사에 이의를 제기해 조정 절차를 거쳐 구제받을 수 있다. 유사한 피해를 본 시민은 서울시전자상거래센터에 상담을 신청해 안내를 받을 수 있다.&lt;br&gt;&lt;br&gt;김명선 서울시 공정경제과장은 “사칭 사기 피해 예방을 위해 유관 기관과 협력하고 제도를 개선하는 등 지속적으로 노력하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>달리는 개발자들의 특별한 하루… “러닝으로 끈기 키우고 팀워크 다져요!”</title>
       <link>https://www.chosun.com/national/national_general/2025/04/27/MCMCWA7NSNAHDJFL43LCG5CE6Q/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/27/MCMCWA7NSNAHDJFL43LCG5CE6Q/</guid>
@@ -732,90 +811,6 @@
       <description/>
       <pubDate>Sun, 27 Apr 2025 05:06:32 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7VSLRJXWDFCLDNDMPKFEKRGLIU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;27일 서울하프마라톤에 나선 삼성전자 DS부문 설비기술연구소 제어 SW 플랫폼파트 직원들과 가족. 왼쪽부터  황기덕, 정우정, 최준영, 안혜빈, 정주용, 이재문, 이기훈씨다. / 조인원 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“설비는 멈추지 않는다! 우리도 멈추지 않는다!”&lt;br&gt;&lt;br&gt;27일 서울하프마라톤에 참가한 삼성전자 DS부문 설비기술연구소 제어 SW 플랫폼파트 직원들의 구호다. 이기훈(40) 파트장을 비롯해 이재문(44), 안혜빈(31), 황기덕(30)씨가 10km 부문에 도전장을 던졌다. &lt;br&gt;&lt;br&gt;참가 신청이 늦어 이날 뛰진 못했지만, 응원을 하기 위해 출동한 정우정(35)씨와 최준영(29)씨까지 파트원 12명의 절반인 6명이 현장에 모였다. 안혜빈씨는 나머지 직원 6명의 이름도 빠짐없이 넣은 응원용 플래카드를 마련해 와 분위기를 띄웠다. &lt;br&gt;&lt;br&gt;이기훈 파트장은 “반도체 설비 제어 소프트웨어 개발자들은 고도의 집중력을 발휘해 정밀한 시스템을 다루는 만큼 평소 수영이나 테니스, 스쿼시 등 다양한 운동으로 체력을 단련한다”며 “그중 어려운 일이 닥쳤을 때 끈질기게 해결하는 지구력을 키우는 데는 러닝 만한 것이 없다”며 ‘달리기 예찬론’을 펼쳤다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FBEXXHAM3RHZXKEBBXAQGAXSLM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;27일 서울하프마라톤에 나선 삼성전자 DS부문 설비기술연구소 제어 SW 플랫폼파트 직원들과 가족.  / 조인원 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;우연히 벌어진 스쿼시 대결이 모두를 나서게 한 계기가 됐다. 팀 막내 최준영씨에게 완패한 마라톤 마니아 맏형 이재문씨가 “진짜 운동은 마라톤이지!”라며 함께 뛰자고 제안했고, 평소 달리기를 즐기던 동료들이 하나둘 뜻을 모으면서 자연스럽게 단합 대회가 됐다. &lt;br&gt;&lt;br&gt;이들은 점심 시간마다 사내 헬스장 트랙에서 꾸준히 뛰면서 대회를 준비했다. 안혜빈씨의 남편 정주용(34)씨가 ‘깍두기’로 가세했다. 남편의 ‘외조’를 받으며 완주한 안혜빈씨는 “개발 업무가 고되지만 달리기로 스트레스도 날리고, 동료와도 한층 더 가까워졌다”고 말했다.&lt;br&gt;&lt;br&gt;레이스를 끝낸 이들의 얼굴에 웃음이 걸린 건 해장국에 수육을 곁들인 뒤풀이가 기다리고 있기 때문. “회식까지 완주합시다!” 이기훈 파트장의 외침에 환호가 쏟아졌다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘콘서트 티켓 판매’ 등 미끼... 2600만원 가로챈 20대, 구속 송치</title>
-      <link>https://www.chosun.com/national/regional/2025/04/27/AHG4NIQIOZHRFAQJVMT5KPZFCQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/04/27/AHG4NIQIOZHRFAQJVMT5KPZFCQ/</guid>
-      <dc:creator>우정식 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 27 Apr 2025 04:56:53 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/L4GEXC5HOZAC5NA5TDDI7RQ23U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;청주 흥덕경찰서는 중고 거래 사이트 등에 허위 판매 게시글을 올리고, 구매자들로부터 물품 대금을 받아 가로챈 20대 남성을 사기 혐의로 구속 송치했다고 27일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 1월부터 이달까지 인터넷 중고 거래 사이트 등에 콘서트 티켓과 중고 물품 등을 판매한다는 허위 게시글을 올린 뒤 구매자 36명으로부터 총 2660만원을 받아 가로챈 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;경찰은 인터넷 사기 피해를 당하지 않으려면 공식 거래 플랫폼을 이용하고 플랫폼에서 제공하는 안전 결제 시스템을 활용해야 한다고 당부했다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “사기 피해가 발생하면 바로 경찰에 신고하고 판매 게시글과 대화 내용, 계정 정보 등 증거 자료를 확보해야 한다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>법원 “퇴학 처분한 학교, 사유 구체적으로 제시 안해…절차상 하자 중대해 취소해야”</title>
-      <link>https://www.chosun.com/national/court_law/2025/04/27/E365Z7D4ZVB25CEGSAAT3H7LMI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/04/27/E365Z7D4ZVB25CEGSAAT3H7LMI/</guid>
-      <dc:creator>김나영 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 27 Apr 2025 03:33:23 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QF6THBECEPRIEPN7RLB7YOOR54.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울행정법원에 '대한민국 법원' 로고가 붙어 있다/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;퇴학 처분 과정에서 사유를 명확히 특정하지 않았으면 절차상 중대한 하자가 있어 퇴학이 취소되어야 한다는 법원 판단이 나왔다. 사유를 구체적으로 제시하지 않아 징계 대상자인 학생이 방어권을 제대로 행사하지 못해 위법하다는 것이다.&lt;br&gt;&lt;br&gt;서울행정법원 제2부(재판장 고은설)는 최근 A군과 그의 부모가 “퇴학 처분을 취소하라”며 B학교장을 상대로 낸 징계 무효 및 취소 청구에서 원고 일부승소로 판결했다고 27일 밝혔다. A군은 2023년 당시 B학교 2학년에 재학 중이던 학생으로, 2023년 8월 학교 축제가 열리던 강당에서 문을 발로 차고, 무대에서 공연하는 여학생들에게 성희롱 발언을 하는 등 소란을 피워 같은 해 9월 퇴학처분을 받았다. &lt;br&gt;&lt;br&gt;A군의 부모는 절차상의 문제를 들어 이같은 퇴학 처분이 위법하다며 행정 소송을 냈다. 먼저 이들은 “퇴학 처분서에 위반 항목(기본품행 미준수)만 기재돼 있을 뿐, 처분의 근거와 이유가 전혀 제시돼 있지 않아 행정절차법 제23조 위반”이라고 주장했다. 해당 조항은 행정 처분을 할 때는 당사자에게 그 근거와 이유를 제시해야 한다고 규정하고 있다. 또 특별선도위원회가 퇴학 처분을 결정할 때 출석위원 2/3 이상의 찬성이 필요한데 이를 충족하지 못했다고도 주장했다.&lt;br&gt;&lt;br&gt;법원은 A군 측의 손을 들어줬다. 재판부는 “특별선도위에서 다른 학생들의 진술서나 설문조사에 적힌 내용과 피고가 징계사유로 삼는 내용이 명확히 구분되지 않은 채 논의가 이어지다가 뒤늦게 처분 사유를 정리했다”며 “처분의 원인이 되는 사실이 구체적으로 기재돼 있지 않아 원고의 방어권 행사에 현저한 지장이 초래됐다”고 판단했다. 이어 “퇴학을 결정한 특별선도위에서는 재적 위원 7명 중 찬성 4명으로 의결했는데, 이는 출석위원 2/3 이상의 찬성을 요구하는 학교 규정을 충족하지 못해 중대한 절차상 하자가 있다”라며 퇴학처분을 취소해야 한다고 했다.&lt;br&gt;&lt;br&gt;다만 재판부는 “축제 과정에서 원고가 행한 일련의 행위에 대해 징계의 대상이 되는 것으로 오인할 만한 객관적인 사정이 있다고 보인다”며 퇴학처분을 무효로 해달라는 A군 측 주장은 받아들이진 않았다.&lt;br&gt;&lt;br&gt;한편 A군 측은 퇴학당하기 직전 교칙을 위반해 출석정지 5일 징계를 받은 것에 대해서도 무효 및 취소가 돼야 한다고 주장했지만, 재판부는 이를 모두 기각했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>송도 도심서 발견된 온몸 털 빠진 동물...정체는?</title>
-      <link>https://www.chosun.com/national/national_general/2025/04/27/YZUO6ZD4QFC7RGPBOPB7U2WN4M/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/27/YZUO6ZD4QFC7RGPBOPB7U2WN4M/</guid>
-      <dc:creator>정아임 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 27 Apr 2025 03:16:23 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/O63STMCZZZNB3PA6B46IZ5XLIA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt; 지난 24일 오후 인천시 연수구 송도동 수변 산책로에서 '개선충'에 감염된 것으로 보이는 너구리가 이동하고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천 송도국제도시 도심 공원에서 온몸에 털이 빠진 동물이 잇따라 발견되고 있다. 확인 결과 이 동물은 ‘개선충’에 감염된 너구리인 것으로 나타났다. &lt;br&gt;&lt;br&gt;27일 연합뉴스에 따르면 지난 23일과 24일 오후 송도 모 고등학교 인근 수변 산책로에서는 온몸에 털이 빠진 동물이 잇따라 포착됐다. 이 동물은 머리와 꼬리 일부를 제외하고는 모두 털이 빠진 채 앙상하게 마른 듯한 모습이었다.&lt;br&gt;&lt;br&gt;서문홍 국립생물자원관 환경연구사는 이를 보고 ‘개선충’에 감염된 너구리라고 설명했다. 개선충증에 걸리면 보통은 귀와 겨드랑이, 복부, 다리에서 시작돼 몸 전체의 털이 빠지고, 심한 가려움증, 표피 박리, 만성 피부염 등을 유발한다. &lt;br&gt;&lt;br&gt;서 연구사는 “과거 미지의 괴생물로 불린 ‘추파카브라’는 실제로는 개선충에 감염된 코요테였다”며 “너구리도 털이 빠지면 다른 생물로 오인하는 경우가 많다”고 말했다. 그러면서 “너구리는 단체로 생활하는 동물이라 한 마리가 감염되면 주변 다른 개체도 감염될 가능성이 높다”며 “개선충 감염은 각 개체와 주변 서식 환경 등이 건강하지 못하다는 것을 보여준다”고 덧붙였다.&lt;br&gt;&lt;br&gt;정동혁 충북대 수의학과 교수도 “긴밀하게 접촉하는 너구리들이 모여 있다면 전염이 꽤 빠른 속도로 진행될 수 있다”면서도 “사람 등 포유류도 개선충에 감염될 수 있지만 직접적인 접촉이 없다면 확산할 우려는 없다”고 말했다.&lt;br&gt;&lt;br&gt;앞서 송도 도심 공원에서 너구리가 자주 출몰하자 인천시설공단은 “가까이 접근하면 상해를 입을 수 있으므로 적당한 거리를 유지한 채 모른 척 지나가 달라”는 현수막을 내걸기도 했다. &lt;br&gt;&lt;br&gt;관할 지방자치단체인 연수구는 너구리들이 기존 서식지인 농경지나 산림지 개발에 따라 도심 공원 등지로 넘어온 것으로 추정했다. &lt;br&gt;&lt;br&gt;연수구 관계자는 “예전에도 개선충에 감염된 너구리가 있다는 신고를 받고 구조를 시도한 적이 있었다”며 “구조가 된다면 인천시 야생동물구조관리센터에 보낼 계획”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>대법 “건보공단, 의료사고 책임자에 초과환급금 구상 가능”</title>
-      <link>https://www.chosun.com/national/court_law/2025/04/27/4WOS3ERFEVG2VFCS46EOE3AXYM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/04/27/4WOS3ERFEVG2VFCS46EOE3AXYM/</guid>
-      <dc:creator>김희래 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 27 Apr 2025 02:58:08 +0000</pubDate>
-      <content:encoded>의료사고 피해자 측과 사고 책임자 사이 합의가 이뤄지지 않은 상황에서 국민건강보험공단이 의료사고 피해자 측에게 본인 부담상한액을 초과한 의료비를 환급했다면, 사고의 책임자들이 초과금을 대신 갚아야 한다는 대법원 판단이 나왔다.&lt;br&gt;&lt;br&gt;27일 법조계에 따르면, 대법원 3부(주심 엄상필 대법관)는 건보공단이 의사 A씨 등을 상대로 낸 구상금 청구 소송에서 원고 패소 부분 중 일부를 파기하고 사건을 수원지법으로 돌려보냈다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FAMLOAK7TZ2A4R57OV7NCBGU2Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대법원 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 2018년 9월 A 씨가 대표원장으로 있는 병원에서 B씨 등 2명이 수액을 맞은 뒤 패혈성 쇼크 증상을 겪는 사건이 발생했다. B씨는 치료 도중 사망했고, 다른 피해자는 17일 동안 치료가 필요한 상해를 입었다. 이후 A씨는 2019년 6월 B씨 유족에게 5000만원을 지급하고 민형사상 이의를 제기하지 않기로 합의했다.&lt;br&gt;&lt;br&gt;건보공단은 2018년 10월부터 약 4개월 동안 B씨 등의 치료비 중 건보공단 부담금에 해당하는 2882만원을 요양기관에 지급한 뒤 이 금액을 A씨 등에게 청구했다. 또 2019년 3월(107만원)과 2020년 4월(362만원) 두 차례에 걸쳐 B씨 유족에게 환급한 본인부담상한액 초과금 469만원도 A씨 등이 갚을 의무가 있다고 주장했다.&lt;br&gt;&lt;br&gt;1심은 치료비 2882만원은 A씨 등이 갚아야 한다고 인정했지만, 환급금 469만 원은 인정하지 않았다. A씨가 B씨 유족과 합의했기 때문에 건보공단이 유족을 대신해 손해배상 채권을 행사할 권리가 없다는 등의 이유였다. 2심도 항소를 모두 기각하며 1심 판결을 유지했다.&lt;br&gt;&lt;br&gt;이에 건보공단은 환급금 중 A씨가 B씨 유족과 합의하기 전에 지급된 107만원 부분에 대해 다시 판단해 달라고 상고했고, 대법원은 이 같은 주장을 받아들였다.&lt;br&gt;&lt;br&gt;대법원은 “본인 부담상한액 초과 금액은 요양급여비용 중 공단 부담금에 해당한다”며 “제3자의 행위로 보험급여 사유가 생겨 공단이 가입자 등에게 본인 부담상한액 초과 금액을 지급하는 결과가 발생했다면, 공단은 국민건강보험법에 따라 그 초과 금액 한도 내에서 제3자에게 손해배상을 청구할 수 있다”고 판단했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>경찰 피해 도망치다 보행자 넘어뜨려 숨지게 한 불법체류자…징역 3년 6개월</title>
-      <link>https://www.chosun.com/national/court_law/2025/04/27/TAB3GUDOWRB5VCTUHKRKKHI4AE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/04/27/TAB3GUDOWRB5VCTUHKRKKHI4AE/</guid>
-      <dc:creator>인천=이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 27 Apr 2025 01:43:16 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WOI6TOBEVDLLWWUC2CDFSQCYBU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원 로고./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰관을 피해 도망치던 중 보행자를 넘어뜨려 숨지게 한 불법체류자에게 징역형이 선고됐다. &lt;br&gt;&lt;br&gt;인천지법 형사15부(재판장 김정헌)는 폭행치사 혐의로 재판에 넘겨진 베트남 국적 A(52)씨에게 징역 3년 6개월을 선고했다고 27일 밝혔다. &lt;br&gt;&lt;br&gt;A씨는 지난해 10월 3일 오후 4시 55분쯤 인천시 미추홀구 주안동의 한 도로에서 무단횡단을 하다 경찰관에게 적발되자 도망치면서 맞은편에서 걸어오던 B(65)씨를 팔로 밀쳐 넘어뜨려 숨지게 한 혐의로 기소됐다. &lt;br&gt;&lt;br&gt;A씨는 경찰관들에게 불법 체류 사실이 드러날 것을 우려해 도망친 것으로 조사됐다. &lt;br&gt;&lt;br&gt;B씨는 넘어지는 과정에서 공사장 쇠기둥에 머리를 부딪혔고, 외상성 뇌출혈로 병원에서 치료를 받던 중 4일 뒤에 숨졌다. &lt;br&gt;&lt;br&gt;재판부는 “경찰관으로부터 도망가려고 보행로에 있던 피해자를 밀어 넘어뜨렸고, 그로 인해 피해자가 숨지는 돌이킬 수 없는 결과가 나왔다”며 “사람의 생명을 침해하는 행위는 그 피해를 회복할 수 없다는 점에서 엄중하게 처벌할 필요가 있다”고 했다. 이어 “피고인은 피해자나 경찰관에게도 일부 책임이 있다는 태도를 보이고 있고, 피해자 유족과 합의하지 못했고, 피해 배상이 전혀 이뤄지지 않았다”며 “국내에서 형사처벌을 받은 전력이 없는 점 등을 고려했다”고 양형 이유를 설명했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“충격적이다”...제주 시내버스서 담배 피우는 중국 여성 ‘시끌’</title>
-      <link>https://www.chosun.com/national/national_general/2025/04/27/TVQJ3XGFNJA23J6EAIFHT53AEA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/27/TVQJ3XGFNJA23J6EAIFHT53AEA/</guid>
-      <dc:creator>정아임 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 27 Apr 2025 01:38:49 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZLM2SR6CVVCQZLP72YOCP65YIQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;중국인으로 추정되는 여성이 시내버스 안에서 담배를 피우고 있다./인스타그램 'hyunsi2000'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제주 시내버스에서 중국인으로 추정되는 한 여성이 창문을 열고 담배를 피우는 모습이 포착됐다. &lt;br&gt;&lt;br&gt;작성자 A씨는 지난 18일 자신의 인스타그램 계정에 “제주도 중국인 실화냐 이거. (여기서) 담배를 피워버리네”라며 제주 시내버스에서 찍은 영상 하나를 올렸다. &lt;br&gt;&lt;br&gt;영상에는 A씨의 앞좌석에 앉은 여성이 창문 바깥으로 불붙인 담배를 든 손을 내밀고 있었고, 입으로는 담배 연기를 내뿜고 있었다. 담배 냄새를 맡은 한 어르신 승객은 “어디서 담배 피워요! 지금! 시대가 어느 때인데. 내리라 그러세요!”라고 소리쳤다. 이후 다른 승객들도 불편함을 토로했다. 중간중간 중국어로 말하는 여성의 목소리도 함께 들렸다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VSINJR3NZRBVZGOMIAR5BC5LS4.gif"&gt;&lt;figcaption&gt;&lt;small&gt;중국인으로 추정되는 여성이 시내버스에서 담배를 피우며 연기를 내뿜고 있다./인스타그램 'hyunsi2000'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;창문 바깥으로 손을 튕겨 담뱃재를 털던 여성은 승객들의 아우성에 결국 꽁초를 길거리에 휙 내던진 후 창문을 닫았다. 이후 놀란 버스 운전기사는 차를 세우고 여성의 자리로 찾아와 “여기서 이러면 안 돼요”라며 여성을 저지했다.&lt;br&gt;&lt;br&gt;이후 이 영상은 여러 온라인 커뮤니티에 널리 공유됐다. 영상을 본 네티즌들은 “담배도 담배지만 피던 꽁초까지 길거리에 버리네. 경찰을 불렀어야 했다” “충격적이다“ 등의 반응을 보였다. &lt;br&gt;&lt;br&gt;중국에 거주 중이라고 밝힌 한 네티즌은 ”불편한 점이 있다면 중국은 어디서든 담배를 필 수 있는 지역이 많다는 거다. 베이징이나 상하이 같은 대도시들은 금연 장소가 늘어났는데 작은 도시들에는 아이가 있든 어른이 있든 실내외에서 아직 담배를 피운다“고 남겼다. &lt;br&gt;&lt;br&gt;국민건강증진법에 따르면 시내버스 실내는 전면 금연구역으로 지정돼 있다. 흡연할 경우 최대 10만원의 과태료가 부과된다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>필로폰 거래 적발되자 ‘함정수사’ 주장한 마약 판매상, 징역형</title>
-      <link>https://www.chosun.com/national/regional/2025/04/27/Z2M534EUMJG53EX4N5EFYDJ53I/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/04/27/Z2M534EUMJG53EX4N5EFYDJ53I/</guid>
-      <dc:creator>우정식 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 27 Apr 2025 01:26:02 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WOIPX7HDNFCOHOGTNKRO6EMBJA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원로고. /조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;필로폰을 판매하려다 적발된 마약 판매상이 “함정수사에 걸렸다”고 주장했지만 실형을 선고받았다.&lt;br&gt;&lt;br&gt;청주지법 형사5단독 강건우 부장판사는 마약류관리법상 향정 등 혐의로 재판에 넘겨진 50대 A씨에게 징역 3년 6개월을 선고했다고 27일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난해 9월 19일 오전 9시 30분쯤 대전 유성구의 한 호텔에서 필로폰 90g(약 3000회 투약분)을 1350만원에 판매하기로 하고 구매자로 나온 B씨를 만났다가 경찰에 현행범으로 체포됐다.&lt;br&gt;&lt;br&gt;경찰은 앞서 별개 마약 사건으로 검거한 B씨로부터 “A씨한테 필로폰을 추가로 구매하기로 했다”는 말을 듣고는 B씨를 앞세워 현장을 덮쳤다. B씨는 이에 앞서 A씨에게 필로폰을 구매했다며 해당 필로폰을 임의제출하고, A씨가 검거된 당일을 두 번째 거래일로 잡는 과정을 논의하는 등 경찰에 적극 협조한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;이에 A씨는 “경찰이 B씨를 앞세워 마약 판매를 유도했다”고 주장했다.&lt;br&gt;&lt;br&gt;그러나 강 부장판사는 “피고인은 지인을 통해 알게 된 B씨에게 먼저 마약이 필요하냐고 물었고, 첫 거래가 성사됐다”며 “두 번째 거래 때는 수일 만에 90g의 필로폰을 손쉽게 확보한 점을 감안하면 피고인은 언제든 필로폰을 매매할 준비가 돼 있었고, 단순히 매도 기회를 제공받은 것에 불과하다”며 이를 받아들이지 않았다. &lt;br&gt;&lt;br&gt;이어 “피고인은 4차례나 동종 범죄로 징역형을 선고받아 복역했고, 형 종료 4개월 만에 다시 범행을 저질렀다”면서 “매도 목적으로 확보한 마약이 다량이지만, 수사기관에 압수된 점 등을 일부 참작했다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>인제 산불 20시간 만에 꺼졌다… 산림 당국 “산불 원인 조사 중”</title>
-      <link>https://www.chosun.com/national/incident/2025/04/27/LKQJLSRDNRDEBLPEWYHQNJSAEU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/04/27/LKQJLSRDNRDEBLPEWYHQNJSAEU/</guid>
-      <dc:creator>정성원 기자</dc:creator>
-      <description>지난 26일 인제 상남면 하남리 한 야산에서 발생한 산불이 이틀 만에 꺼졌다. 산불 영향 구역은 73ha로 집계됐다.
-산림 당국은 따르면 이날 오전 5시 30분쯤 산림청 헬기 등 헬기 35대를 투입해 산불 진화 작업을 재개했고, 산불 발생 20시간 만인 오전 9시쯤 산불 진화에 성공했다.
-</description>
-      <pubDate>Sun, 27 Apr 2025 00:23:17 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7GH534V4C5ITXKGOPXGYGSEMQY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 26일 오후 1시 18분쯤 강원 인제군 상남면 하남리 한 야산에서 산불이 발생했다. 불은 20시간 만인 27일 오전 9시쯤 꺼졌다. /연합뉴스
-&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 26일 강원 인제군 상남면 하남리 한 야산에서 발생한 산불이 이틀 만에 꺼졌다. 산불 영향 구역은 73ha로 잠정 집계됐다.&lt;br&gt;&lt;br&gt;27일 산림 당국에 따르면 이날 오전 5시 30분쯤 산림청 헬기 등 헬기 35대를 투입해 산불 진화 작업을 재개했고, 산불 발생 20시간 만인 오전 9시쯤 산불 진화에 성공했다.&lt;br&gt;&lt;br&gt;이번 불은 지난 26일 오후 1시 11분쯤 발생했다. 불은 순간 최대 풍속이 20m에 달하는 강풍을 타고 순식간에 번졌다.&lt;br&gt;&lt;br&gt;불은 피해 인제군과 양양군 주민 254명이 마을회관 등으로 대피했고, 서울양양고속도로 일부 구간의 차량 통행이 한때 전면 통제되기도 했다.&lt;br&gt;&lt;br&gt;26일 오후 7시 50분엔 소방 국가 동원령이 발령되면서 서울과 경기, 충북 지역 소방관들이 양양군으로 집결하기도 했다. &lt;br&gt;&lt;br&gt;산림청 관계자는 “선제적인 주민 대피로 이번 산불로 인한 인명 피해는 발생하지 않았다”면서 “잔불 정리를 마치는 대로 산불 발생 원인 등을 조사할 방침”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>고현정, 어린 아들에 뽀뽀하는 사진?...과거 사진 눈길</title>
-      <link>https://www.chosun.com/national/national_general/2025/04/27/MTAJH5M5HNCM3DCKWMZBPE42CE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/27/MTAJH5M5HNCM3DCKWMZBPE42CE/</guid>
-      <dc:creator>정아임 기자</dc:creator>
-      <description/>
-      <pubDate>Sat, 26 Apr 2025 22:08:23 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RQO7O7FAVZFGDN2BMNKKHE7QKM.png"&gt;&lt;figcaption&gt;&lt;small&gt;배우 고현정이 갓난아기를 품에 안고 뽀뽀하고 있는 사진을 올렸다./인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;배우 고현정이 갓난아기와 찍은 옛날 사진을 소셜미디어(SNS)에 공개해 눈길을 끌고 있다. &lt;br&gt;&lt;br&gt;고현정은 26일 자신의 인스타그램 스토리에 여러 장의 사진을 올렸다. 사진에는 1990년 10월 앳된 외모로 거울 셀카를 찍고 있는 고현정의 모습이 담겼다. 또 다른 사진에는 고현정이 수영장에서 어린 아들로 보이는 갓난아이를 품에 안고 볼 뽀뽀를 하고 있다.&lt;br&gt;&lt;br&gt;이를 두고 네티즌들 사이에서는 고현정이 자기 아들이 그리워서 옛 사진을 추억하며 올린 것 아니냐고 추측했다. 네티즌들은 “많이 보고 싶은가 보다” “마음 아프다” “자녀와 교류하고 있는 걸까” 등의 반응을 보였다.&lt;br&gt;&lt;br&gt;앞서 고현정은 1995년 24세 당시 SBS 드라마 ‘모래시계’로 스타덤에 오른 직후 정용진 신세계 회장과 결혼하며 연예계를 은퇴했다. 슬하에 1남 1녀를 뒀으나, 결혼 8년 만인 2003년 이혼했다. &lt;br&gt;&lt;br&gt;고현정은 2009년 MBC ‘황금어장-무릎팍도사’에 출연해 결혼과 이혼을 둘러싼 루머에 대해 직접 해명한 바 있다. 당시 고현정은 “조금 더 내면적으로 성숙한 상태에서 결혼했더라면 더 좋았을 텐데, 결혼을 너무 일찍 한 것 같아 아쉽다”며 “새로운 사랑이 찾아온다고 하더라도 그때의 순수한 열정이 없을 것 같아 안타깝다”고 했다.&lt;br&gt;&lt;br&gt;또한 작년 11월 27일 방송된 tvN 예능 프로그램 ‘유 퀴즈 온 더 블록’에 출연한 고현정은 아이들에 대해 “살이를 같이 안 해서 쑥스럽고 친하지 않은 감정을 느꼈을 때, 친하지 않은 것이 이렇게 슬픈 건지 몰랐다”며 “그 감정이 들면서 너무 슬펐다. 없어진 거니까 채울 수 없지 않으냐. 많이 속상했다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>“충무공의 고향은 서울 중구” 서울시 첫 이순신 국제학술대회</title>
