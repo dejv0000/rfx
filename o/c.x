@@ -13,6 +13,33 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>외국인 근로자 상습폭행·임금체불 한 양돈농장주 구속</title>
+      <link>https://www.chosun.com/national/regional/honam/2025/04/28/FZRIC2YVJBF53HBBIVKDVVYJYQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/honam/2025/04/28/FZRIC2YVJBF53HBBIVKDVVYJYQ/</guid>
+      <dc:creator>김석모 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 28 Apr 2025 10:06:20 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FW5S5BHA4FNLVKDL7C6NHJSDDI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전남이주노동자인권네트워크는 지난달 8일 오전 전남경찰청 앞에서 기자회견을 열고 이주노동자 괴롭힘 의혹을 받는 영암군 양돈농장 대표에 대한 철저한 수사를 촉구했다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;양돈농가에서 일하는 외국인 근로자들을 상습적으로 폭행하고 임금을 지급하지 않은 농장주가 구속됐다.&lt;br&gt;&lt;br&gt;고용노동부 목포지청은 근로기준법상 근로자 폭행 등의 혐의로 양돈업자 A(43)씨를 구속했다고 28일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난해 6월부터 올해 2월까지 전남 영암군 자신의 농장에서 일하던 네팔 국적 근로자 B(27)씨 등 외국인 근로자 10명을 상습적으로 폭행한 혐의를 받는다.&lt;br&gt;&lt;br&gt;그는 외국인 근로자들의 뺨이나 머리를 손바닥으로 때리거나 밤새 사무실 화장실에 가두기도 한 것으로 드러났다.&lt;br&gt;&lt;br&gt;한 네팔인 근로자는 A씨에게 뺨을 세게 맞아 중심을 잃고 문틀에 머리를 부딪혀 의식을 잃은 적도 있는 것으로 확인됐다. 하지만 A씨는 이 근로자에게 ‘다른 사업장에서 일할 수 있게 해주겠다’고 회유해 마치 자해로 다친 것처럼 합의서를 작성했다고 한다.&lt;br&gt;&lt;br&gt;A씨는 또 최저임금 보다 적은 임금을 지급하고, 퇴직금과 야근 수당 등을 지급하지 않는 등 외국인 근로자 62명에게 총 2억6000만원 가량의 임금을 체불한 것으로 밝혀졌다.&lt;br&gt;&lt;br&gt;A씨의 농장에서 6개월간 일했던 B씨는 지난 2월 22일 농장 기숙사에서 스스로 목숨을 끊었다. 이에 이주노동자 인권 단체는 A씨의 괴롭힘이 있었다는 의혹을 제기했고, 경찰과 노동 당국이 수사를 벌여왔다.&lt;br&gt;&lt;br&gt;앞서 경찰은 A씨가 불리한 내용으로 수정된 근로계약서를 B씨에게 강압적으로 작성하게 한 혐의(강요)를 적용해 불구속 송치했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“다 같이 죽자”...살충제 뿌리고 불 붙이려 한 50대 징역 2년6개월</title>
+      <link>https://www.chosun.com/national/court_law/2025/04/28/WM4GPLXEM5CUNGDJQN2W6NWOGQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/04/28/WM4GPLXEM5CUNGDJQN2W6NWOGQ/</guid>
+      <dc:creator>인천=이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 28 Apr 2025 08:57:40 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WOI6TOBEVDLLWWUC2CDFSQCYBU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원 로고. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;사실혼 관계 여성에게 살충제를 뿌리면서 불을 붙이려 하고, 그의 아들을 폭행한 40대 남성에게 징역형이 선고됐다. &lt;br&gt;&lt;br&gt;인천지법 형사 9단독 정제민 판사는 특수상해와 아동복지법상 아동학대 혐의로 기소된 A(43)씨에 대해 징역 2년 6개월을 선고했다고 28일 밝혔다. &lt;br&gt;&lt;br&gt;정 판사는 또 A씨에게 아동학대 치료 프로그램 40시간 이수를 명령하고 출소 후 5년간 아동관련 기관에 취업하지 못하도록 했다. &lt;br&gt;&lt;br&gt;A씨는 지난 1월 12일 오후 11시쯤 인천시 서구 자택에서 사실혼 관계인 B(여‧44)씨와 그의 아들 C(12)군을 폭행해 다치게 한 혐의 등으로 기소됐다. &lt;br&gt;&lt;br&gt;A씨는 B씨와 함께 술을 마시던 중 “싸가지 없고 재수도 없다. 너 오늘 나한테 한번 혼나보자”라며 C군의 턱과 가슴 부위를 때리고, 이를 말리던 B씨도 넘어뜨린 뒤 얼굴 부위 등을 폭행했다. &lt;br&gt;&lt;br&gt;A씨는 “나는 살기 싫으니까 같이 죽자, 오늘 너네 다 죽이고 나도 죽겠다”며 B씨 얼굴에 살충제를 뿌리고 라이터로 불을 붙이려 하거나, 가스레인지 손잡이를 돌려 피해자를 위협한 것으로 조사됐다. &lt;br&gt;&lt;br&gt;정 판사는 “피고인은 살충제 통과 흉기를 들고 B씨와 C군을 무자비하게 폭행해 다치게 했다”며 “이 사건처럼 동거하는 여성을 대상으로 폭력을 행사한 경우가 많아 재범의 위험성도 높다”고 했다. 이어 “범행을 자백하고 반성하는 태도를 보이는 점, 동거 기간 피해자들을 부양한 점 등을 고려했다”고 양형 이유를 설명했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[신문으로 배우는 실용한자] 우열(優劣)</title>
+      <link>https://www.chosun.com/national/nie/chinese_character/2025/04/28/5KYODQLU3BGVHNENR4AD2TE6I4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese_character/2025/04/28/5KYODQLU3BGVHNENR4AD2TE6I4/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Sun, 27 Apr 2025 15:51:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DAJ2O5O5NBH7VF7VIT4DRUKPQ4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>사적제재 사망 논란 부른 ‘음주운전 헌터’ 유튜버·구독자 재판행</title>
       <link>https://www.chosun.com/national/national_general/2025/04/28/7RU3QAHNDZEHFN6DK7XPBVYOZ4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/28/7RU3QAHNDZEHFN6DK7XPBVYOZ4/</guid>
@@ -71,15 +98,6 @@
       <media:content url="https://www.chosun.com/resizer/v2/B4QFKVPEBJF4VKFRKMP35BJMGU.gif?auth=cc61942d25242f3165ea56617a364521b5cf9c9ef065f80def16283f599379d9&amp;smart=true&amp;width=1280&amp;height=959" type="image/jpeg" height="959" width="1280">
         <media:description type="plain">대구 산불 짤 04</media:description>
       </media:content>
-    </item>
-    <item>
-      <title>인권위 “학생 휴대전화 수거, 인권침해 아냐”…결정문 보니</title>
-      <link>https://www.chosun.com/national/national_general/2025/04/28/V6JV2ULXU5GS3PLMPKRES6LH2E/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/28/V6JV2ULXU5GS3PLMPKRES6LH2E/</guid>
-      <dc:creator>박선민 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 28 Apr 2025 08:14:36 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3PSV6VDX6FD5NK3GKGDB5H6H5U.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;대전 한 고등학교의 1학년 교실에서 휴대전화를 수거하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국가인권위원회가 고등학교에서 학생들의 휴대전화를 일괄 수거하는 조치가 인권 침해에 해당하지 않는다는 내용의 결정문을 공개했다. 이번 판단은 휴대전화 수거를 ‘과잉 제한’으로 규정한 2014년 결정을 약 10년 만에 뒤집은 것이다. &lt;br&gt;&lt;br&gt;인권위는 28일 휴대전화 수거와 사용 제한이 학생들의 자유를 침해하지 않는다고 판단한 내용의 결정문을 배포했다. 이 결정은 작년 10월 전원위원회에서 내려진 것으로, 인권위는 이후 약 반년간 결정문을 작성해왔다.&lt;br&gt;&lt;br&gt;인권위는 결정문에서 “2014년 학교의 휴대전화 수거를 인권 침해라고 결정한 후 10년이란 짧지 않은 시간이 흘렀고 학생 휴대전화 사용과 관련해 사이버 폭력, 성 착취물 노출 등 다양한 문제가 나타났다”며 “더 이상 학교의 휴대전화 수거가 학생 인권을 침해하는 것이라 단정할 수 없다”고 했다. &lt;br&gt;&lt;br&gt;아울러 “유엔교육과학문화기구(UNESCO)가 학생의 휴대전화 사용에 따른 악영향을 지적한 점과 영국, 프랑스, 미국, 네덜란드 등 다수 선진국이 학생의 휴대전화 과다 사용과 몰입 문제점에 주목하면서 학교 내 학생의 휴대전화 소지를 엄격히 제한하는 정책을 추진하는 점을 참고했다”고 했다. &lt;br&gt;&lt;br&gt;이번 논의는 2023년 3월 전남 한 고교생이 ‘휴대전화를 일괄 수거해 쉬는 시간·점심시간 등에도 사용할 수 없게끔 하는 것은 인권 침해’라고 진정을 접수하며 시작됐다. &lt;br&gt;&lt;br&gt;이와 관련해 인권위는 “사회 통념상 객관적 타당성을 갖추지 못했다는 특별한 사정이 없는 한 그러한 교육 행위가 학생의 인권을 침해하는 것으로 섣불리 단정해서는 안 된다”며 “오히려 부모와 교사의 의사에 반하는 과도한 개입은 학생의 인권 신장이 아니라 자유로운 교육 활동에 부정적으로 작용할 수 있다고 본다”고 했다. 또 “피진정학교는 교육공동체 구성원인 학교, 학부모, 교원의 의사를 폭넓게 수렴하고 학교운영위원회를 통해 학칙을 개정한 후 그에 따라 휴대전화를 수거했으므로 이에 따른 행위를 학생들의 인권 침해로 단정해선 안 된다고 판단했다”고 했다. &lt;br&gt;&lt;br&gt;이번 결정은 전원위 8명의 기각, 2명의 인용 의견으로 이뤄졌다. 소수 의견을 낸 위원들은 “학교가 학생 의사에 반해 휴대전화를 일괄 수거하거나, 규정과 달리 일과 시간 중 과도하게 사용을 금지하는 것은 일반적 행동 자유권과 통신의 자유를 침해할 수 있다”며 기존 결정례 변경에 반대했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>비행 중 비상문에 손 갖다 댄 승객…중국행 에어부산 비행기서 무슨 일</title>
@@ -730,24 +748,6 @@
       <description/>
       <pubDate>Sun, 27 Apr 2025 15:52:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DR6IPFZQRJC5RNDLDUWML36JOA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서부해당은 벚꽃보다 진한 분홍색을 띠고 있어요. 벚꽃이 떨어지는 4~5월이면 화사한 분홍색 꽃이 나무를 뒤덮을 정도로 풍성하게 피죠. /김민철 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;요즘 길을 가다 분홍색 대형 풍선처럼 꽃이 활짝 핀 나무가 있으면 서부해당이 아닌가 살펴보세요. 서부해당은 화사한 분홍색 꽃이 온 나무를 덮을 정도로 풍성하게 피어 절로 발걸음을 멈추게 하는 나무입니다.&lt;br&gt;&lt;br&gt;서부해당은 중국 원산의 장미과 나무인데, 꽃이 예뻐서 우리나라 전국 화단과 공원에 심어 가꾸고 있습니다. 이름에서 ‘서부’는 중국 중서부 내륙에서 주로 자란다고 붙인 것이라고 합니다. 또 ‘해당(海棠)’ 하면 우리나라에서는 해당화를 떠올리지만 중국에서는 야생 사과 종류를 가리킨다고 합니다.&lt;br&gt;&lt;br&gt;서부해당은 꽃이 참 곱습니다. 꽃봉오리는 진한 붉은색이지만 피면서 연한 분홍색으로 변합니다. 다 피면 복사꽃보다는 조금 연하고 벚꽃보다는 진한 분홍색을 띠는데 이 꽃이 만개하면 정말 화사합니다. 그래서인지 이 나무 꽃이 중국 고전에서 여성의 아름다움, 애틋한 사랑을 상징하는 꽃으로 자주 등장합니다. 양귀비가 술이 덜 깬 자신을 해당화에 비유했다는 고사에 나오는 해당화가 서부해당이라고 합니다.&lt;br&gt;&lt;br&gt;4~5월 잎과 함께 꽃이 피는데, 가지 끝에 4~8개가 모여 달립니다. 꽃잎은 5장이지만 겹꽃으로 피는 것도 있습니다. 벚꽃이 막 지고 겹벚꽃이 필 때 서부해당 꽃도 함께 피는 것을 볼 수 있습니다.&lt;br&gt;&lt;br&gt;서부해당은 학명이 ‘Malus halliana’여서 ‘할리아나꽃사과’라고도 합니다. 또 긴 자주색 꽃자루가 아래로 실처럼 늘어지는 모양 때문에 ‘수사(垂絲·늘어진 실이라는 뜻)해당’이라 부르기도 합니다. 꽃자루가 2~4㎝로 긴 편입니다. 하지만 서부해당과 수사해당은 다른 나무라는 주장도 있는 등 이름이 아직 깔끔하게 정리되지 않은 것 같습니다.&lt;br&gt;&lt;br&gt;서부해당과 비슷하게 생긴 나무가 몇 개 더 있습니다. 꽃사과, 아그배나무와 야광나무 등이 있는데 모두 사과나무속(Malus)입니다. 아그배나무와 야광나무는 꽃자루가 2~4㎝로 긴 것은 서부해당과 닮았지만, 꽃이 연분홍색으로 피었다가 흰색으로 변하는 점이 다릅니다. 꽃의 생김새가 거의 비슷한 아그배나무와 야광나무는 잎을 보면 구분할 수 있습니다. 일부 잎이 갈라져 있으면 아그배나무, 갈라져 있는 잎이 없으면 야광나무입니다.&lt;br&gt;&lt;br&gt;아그배나무라는 이름은 작은 열매가 열리는 배나무 비슷한 나무라는 뜻의 ‘아기배나무’에서 유래했다고 합니다. 이름에 ‘배’가 들어갔지만 사과나무에 더 가까운 나무입니다. 야광나무는 강원도를 비롯한 백두대간에서 주로 볼 수 있습니다. 요즘엔 야광나무를 가로수로 심어 놓은 곳도 있습니다.&lt;br&gt;&lt;br&gt;도심 화단에서 자주 볼 수 있는 꽃사과도 서부해당과 비슷하게 생겼습니다. 서부해당처럼 꽃이 아름다워 전국에서 관상수로 심는 나무입니다. 이 나무는 꽃은 물론 잎도 사과나무와 아주 비슷하지만 가을에 열리는 열매가 작고 열매 끝에 꽃받침 자국이 남아 구분할 수 있습니다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[두근두근 뇌 운동] [2611] 칼럼 풀어 읽기</title>
-      <link>https://www.chosun.com/national/nie/2025/04/28/GBAC64ENUZCIPI6GC7ABIH2CYA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2025/04/28/GBAC64ENUZCIPI6GC7ABIH2CYA/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Sun, 27 Apr 2025 15:51:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3MSKC634YNE3RHYMMAG4UUMF4Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[스피킹이 강해지는 영어] stand up for oneself</title>
-      <link>https://www.chosun.com/national/nie/english/2025/04/28/LBH26P35TJHP5DY5STFYO7MGVI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/english/2025/04/28/LBH26P35TJHP5DY5STFYO7MGVI/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Sun, 27 Apr 2025 15:51:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LEF7GBMNMVCWFNXCSQ6STVX2SI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[오늘의 날씨] 2025년 4월 28일</title>
