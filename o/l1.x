@@ -6,6 +6,26 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>[속보] 대법원, 5월 1일 오후 3시 이재명 선거법 상고심 선고</title>
+			<description>&lt;p style="text-align: center; "&gt;   &lt;img src="https://image.lawtimes.co.kr/thumb/180/207653.jpg" alt="lawtimes.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p style="text-align: left;"&gt;대법원은&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="9300"&gt;이재명&amp;nbsp;&lt;/span&gt;더불어민주당 대선 후보의 공직선거법 위반 혐의 사건(&lt;b&gt;2025도4697&lt;/b&gt;) 상고심의 선고기일을 5월 1일 오후 3시로 지정했다고 밝혔다.&lt;/p&gt;</description>
+			<pubDate>Tue, 29 Apr 2025 08:05:59 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/207653</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/207653</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/207653.jpg</media:thumbnail>
+			<dc:creator>홍윤지 기자</dc:creator>
+		</item>
+		<item>
+			<title>가수 이승기 장인, 코스닥상장사 주가조작 혐의로 구속</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/207647.jpg" alt="207647.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;가수 이승기 《사진=연합뉴스》&lt;/figcaption&gt;   &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;가수 이승기의 장인인 이홍헌 씨가 코스닥 상장사의 주식 시세 조종으로 부당이익을 취하는 데 가담한 혐의로 검찰에 구속됐다.&lt;br /&gt;&lt;br /&gt;29일&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="328"&gt;박찬석&amp;nbsp;&lt;/span&gt;서울남부지법 영장전담 부장판사는 전날 자본시장법 위반 혐의를 받는 이 씨에 대한 영장실질심사를 한 뒤 "증거를 인멸할 염려가 있다"며 구속영장을 발부했다.&lt;br /&gt;&lt;br /&gt;이 씨는 신재생에너지 업체 퀀타피아 등 상장사 2곳에 대해 시세조종 주문을 하고 풍문을 퍼뜨려 주가를 조작한 혐의를 받는다.&lt;br /&gt;&lt;br /&gt;이 씨는 이들 상장사로부터 한국거래소 관계자에 대한 청탁 명목으로 금품을 수수하고 청탁이 이행될 경우에는 추가로 거액을 받기로 약속한 것으로 조사됐다.&lt;br /&gt;&lt;br /&gt;서울남부지검 금융증권범죄합동수사부(&lt;span style="font-weight: bold;" class="lawmanlink" serial="13912"&gt;안창주&amp;nbsp;&lt;/span&gt;부장검사)는 퀀타피아 주가조작 사건 수사 과정에서 이 씨가 연루된 정황을 포착하고 영장을 청구했다.&lt;br /&gt;&lt;br /&gt;퀀타피아는 2018년 매출원가를 허위로 계상하고 감사인 요청자료를 위조한 혐의로 2024년 12월 증권선물위원회로부터 6000만 원의 과징금을 부과받았고, 이후 한국거래소에서 주권 매매거래가 정지됐다.&lt;br /&gt;&lt;br /&gt;한편 이승기는 이날 오전 입장문을 내 장인이 위법행위로 추가 기소된 사실을 알리며 "오랜 고민 끝에 처가와의 관계를 단절하고자 한다"고 밝혔아. 이승기가 밝힌 추가 기소건은 이번에 구속된 사건과는 별개의 것으로 전해졌다.&lt;br /&gt;&lt;br /&gt;이 씨는 2014∼2016년 자신이 이사로 있던 코스닥 상장사의 주가를 인위적으로 부풀린 뒤 주식을 매각하는 식으로 부당이득을 챙긴 혐의로도 재판받고 있다. 이 사건은 2024년 대법원에서 유죄 취지로 파기 환송됐다.&lt;br /&gt;&lt;br /&gt;이승기는 2023년 배우 견미리의 딸 이다인과 결혼해 딸 하나를 두고 있다.&lt;br /&gt;</description>
+			<pubDate>Tue, 29 Apr 2025 07:37:04 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/207647</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/207647</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/207647.jpg</media:thumbnail>
+			<dc:creator>우빈 기자</dc:creator>
+		</item>
+		<item>
 			<title>서울가정법원, 법정후견인 선임 아동·청소년 지원 업무협약 체결</title>
 			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/207615.jpg" alt="353637.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;서울가정법원(법원장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="9185"&gt;이원형&lt;/span&gt;)은 4월 28일 손해보험협회, 한국사회복지사협회, 한국학교사회복지사협회와 함께 법정후견인이 선임된 아동·청소년을 지원하기 위한 업무협약을 체결했다.&lt;br /&gt;&lt;br /&gt;이날 협약식에는&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="9185"&gt;이원형&amp;nbsp;&lt;/span&gt;법원장을 비롯해 이병래 손해보험협회장, 박일규 한국사회복지사협회장, 이종익 한국학교사회복지사협회 부회장 등이 참석했다.&lt;br /&gt;&lt;br /&gt;이번 협약은 네 기관이 협력해 경제적 어려움을 겪는 아동·청소년에게 실질적인 지원을 제공하고, 이들이 건강한 사회구성원으로 성장할 수 있도록 돕는 데 목적이 있다.&lt;br /&gt;&lt;br /&gt;협약에 따라 서울가정법원은 친권자가 없거나 친권을 행사할 수 없는 미성년자 중 법정후견인이 선임된 경제적 지원 대상자를 선정한다. 이후 한국학교사회복지사협회는 한국사회복지사협회로부터 사전 지원받은 자금을 활용해 선정된 아동·청소년에게 신발, 의류, 학습교재 등을 지원하고, 관련 비용 집행 및 결과 보고 등의 업무를 맡게 된다. 손해보험협회는 금융기관 법인카드 포인트 등을 활용해 조성한 신용회복위원회 새희망힐링펀드에서 최대 2000만 원의 지원금을 한국사회복지사협회에 지급할 예정이다.&lt;br /&gt;&lt;br /&gt;서울가정법원은 "이번 협약을 통해 친권상실 또는 부재로 인해 심리적 지원이 필요한 미성년자들에게 법정후견인과 법원이 신뢰를 바탕으로 정서적 안정을 제공하고, 사회적 약자인 미성년자들이 보다 많은 혜택을 받을 수 있도록 다양한 노력을 이어갈 계획"이라고 밝혔다.</description>
 			<pubDate>Tue, 29 Apr 2025 04:28:28 -0000</pubDate>
@@ -218,24 +238,6 @@
 			<link>https://www.lawtimes.co.kr/news/207570</link>
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/207570</guid>
 			<dc:creator>인터넷 기자</dc:creator>
-		</item>
-		<item>
-			<title>【오늘의 국회일정】 2025년 4월 28일</title>
-			<description>&lt;b&gt;◇상임위원회&lt;br /&gt;&lt;/b&gt;&lt;br /&gt;10:00 예산결산특별위원회 전체회의(제2회의장)&lt;br /&gt;&lt;br /&gt;&lt;b&gt;◇의원실 세미나&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;10:00 민형배 의원실 등, [5·18광주민주항쟁 45주년 국민대토론회]5·18 국민주권 정신의 헌법전문 명기(의원회관 대회의실)&lt;br /&gt;&lt;br /&gt;10:00 위성곤 의원실 등, 그린리모델링 활성화를 위한 전문가 좌담회(의원회관 제11간담회의실)&lt;br /&gt;&lt;br /&gt;10:00 정일영 의원실 등, 기재부 등 경제부처 개편 토론회(의원회관 제7간담회의실)&lt;br /&gt;&lt;br /&gt;10:00 조정식 의원실 등, 반도체 산업경쟁력 강화를 위한 '한국형 반도체 지원정책의 방향과 과제' 토론회(의원회관 제2소회의실)&lt;br /&gt;&lt;br /&gt;11:00 박정 의원실 등, (중소·벤처·스타트업 지원을 위한) 68개 법정기금 법 개정 국회토론회(의원회관 제8간담회의실)&lt;br /&gt;&lt;br /&gt;14:00 오세희 의원실 등, (소상공인·자영업자 경쟁력 강화를 위한) 한국경영기술지도사회 정책현안 간담회(의원회관 제1세미나실)&lt;br /&gt;&lt;br /&gt;14:00 김한규 의원실 등, ESS 국내시장 확대와 수출 활성화 전략 세미나(의원회관 제7간담회의실)&lt;br /&gt;&lt;br /&gt;14:00 이연희 의원실 등, [항공승무노동자 노동실태 국회토론회] 하늘 위 노동의 진실, 항공승무노동자 실태를 말하다(의원회관 제8간담회의실)&lt;br /&gt;&lt;br /&gt;14:00 복기왕 의원실 등, 건설안전특별법 제정 촉구 국회 토론회(의원회관 제3세미나실)&lt;br /&gt;&lt;br /&gt;14:00 강유정 의원실 등, 게임이용장애 도입, 왜 반대하는가?(의원회관 306호)&lt;br /&gt;&lt;br /&gt;14:00 배현진 의원실 등, 대한민국 무용의 새로운 도약 : 「무용진흥법」 제정 공청회(의원회관 대회의실)&lt;br /&gt;&lt;br /&gt;14:00 이언주 의원실, 미중 격동 시대 한국의 외교통상전략(의원회관 제1간담회의실)&lt;br /&gt;&lt;br /&gt;14:00 엄태영 의원실, 시멘트·콘크리트 염화물 기준 개선 필요성과 방향성에 대한 논의(의원회관 제9간담회의실)&lt;br /&gt;&lt;br /&gt;14:00 강선우 의원실 등, 파킨슨 질환 극복을 위한 정책간담회(의원회관 제4간담회의실)&lt;br /&gt;&lt;br /&gt;16:00 박상형 의원실 등, 더불어민주당 &amp; 한국건설기술인협회간담회 : 100만 건설기술인의 권익증진과 위상강화를 위한 소통의 장(의원회관 제10간담회의실)&lt;br /&gt;&lt;br /&gt;&lt;b&gt;◇소통관 기자회견&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;09:00 조계원 의원, [내란은폐 및 알박기 인사 저지 특위 긴급 기자회견]&lt;br /&gt;&lt;br /&gt;09:20 이상휘 의원, [국민사이렌 관련 기자회견]&lt;br /&gt;&lt;br /&gt;10:00 박상혁 의원, [정치 현안 관련 기자회견]&lt;br /&gt;&lt;br /&gt;10:20 안상훈 의원, [정책 발표 기자회견]&lt;br /&gt;&lt;br /&gt;10:40 이용우 의원, [화학물질배출 저감제도 개선을 위한 화관법 개정 대표발의 기자회견]&lt;br /&gt;&lt;br /&gt;11:00 성소미 공보기획관, [4월 5주차 국회 정례브리핑]&lt;br /&gt;&lt;br /&gt;11:20 강경숙 의원, [신경호 강원교육감 배임 및 증인매수 의혹 규탄 기자회견]&lt;br /&gt;&lt;br /&gt;13:00 이강일 의원, [배달앱 동의의결 신청 규탄 기자회견]&lt;br /&gt;&lt;br /&gt;13:20 김현 의원, [더불어민주당 팩트체크넷 민주파출소 일일 브리핑]&lt;br /&gt;&lt;br /&gt;13:40 용혜인 의원, [사회연대경제 대선 정책 발표 기자회견]&lt;br /&gt;&lt;br /&gt;14:00 윤종오 의원, [김재연 대선후보 공약 발표 기자회견]&lt;br /&gt;&lt;br /&gt;14:20 조배숙 의원, [공명선거 촉구 국민 성명 발표 기자회견]&lt;br /&gt;&lt;br /&gt;15:00 염태영 의원, [인구감소지역 및 특례시간 상생협약 기자회견]&lt;br /&gt;&lt;br /&gt;15:20 모경종 의원, [청년 정책 플랫폼 ‘블루퀘스트’ 런칭 기자회견]&lt;br /&gt;&lt;br /&gt;16:00 안상훈 의원, [정책 비전 4탄(국방·안보) 발표 기자회견]&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;b&gt;&lt;span style="font-size: 14px;"&gt;※ 상기 일정은 사정에 따라 변경될 수 있습니다.&lt;/span&gt;&lt;/b&gt;&lt;br /&gt;</description>
-			<pubDate>Sun, 27 Apr 2025 22:39:19 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/207574</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/207574</guid>
-			<dc:creator>인터넷 기자</dc:creator>
-		</item>
-		<item>
-			<title>[판결] 수검 회사에 향응 요구한 금감원 직원...법원, "면직 정당, 재심 사유 인정 어려워"</title>
-			<description>&lt;b&gt;[법원 판결]&lt;/b&gt;&lt;br /&gt;수검 회사에 향응을 요구한 직원 A 씨를 해고하면서 금융감독원이 별도의 재심 징계위원회를 개최하지 않은 것은 절차적 하자가 아니라는 행정법원 판단이 나왔다. &lt;br /&gt;&lt;br /&gt;서울행정법원 행정11부(재판장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="4338"&gt;고은설&lt;/span&gt;)는 금융감독원이 중앙노동위원회 위원장을 상대로 낸 부당해고 구제 재심판 판정 취소 소송(&lt;b&gt;2024구합53345&lt;/b&gt;)에서 2025년 2월 14일 원고승소 판결했다.&lt;br /&gt;&lt;b&gt;&lt;br /&gt;[사실 관계]&lt;/b&gt;&lt;br /&gt;A 씨는 2021년부터 금감원 보험영업검사실에서 근무하던 중, 검사 기간에 금감원의 검사를 받는 수검 대상에게 접대를 요구해 약 67만 원 상당의 향응을 받았다. 금감원 징계위원회는 2023년 A 씨에게 청탁금지법 위반 등의 사유로 면직 처분을 통보하고, 재심 청구를 안내했다. &lt;br /&gt;&lt;br /&gt;A 씨는 2023년 6월 재심을 청구했으나, 금감원은 “새로운 증거가 나타나지 않고 관계 규정 적용에 명백한 잘못 있다고 보기 어렵다”며 기각했다. A 씨는 서울지방노동위원회에 구제를 신청해 ‘부당 해고’ 판정을 받아냈다. 중앙노동위원회도 재심 절차를 거치지 않은 것은 중대한 하자라며 2024년 1월 금감원의 해고가 부당하다고 판단했다.&lt;br /&gt;&lt;br /&gt;이에 금감원은 재심 사유가 없어 불허한 경우는 징계위 개최가 필수적 절차가 아니라며 소송을 제기했다.&lt;br /&gt;&lt;b&gt;&lt;br /&gt;[법원 판단]&lt;/b&gt;&lt;br /&gt;재판부는 금감원의 A 씨의 재심 청구 기각이 적법하다고 판단했다. 재판부는 “A 씨가 향응을 제공받은 사실을 인정할 수 있고, 이는 금감원의 임직원 행동강령을 위반한 행위로 징계 사유에 해당한다”며 “징계위에서 이미 A 씨가 방어권을 행사했으므로 별도의 재심 징계위를 거치지 않았다고 해서 방어권 행사에 중대한 장해 초래한다고 보기도 어렵다”고 밝혔다.&lt;br /&gt;&lt;br /&gt;이어 “금감원 인사관리규정에 따르면, 금감원 원장에게 ‘재심 사유의 존부에 대한 판단 권한’이 있다고 해석함이 타당하다”며 “별도 징계위 심의 거치지 않고 원장 명의로 재심 받아들이지 않는다고 통지한 게 징계 절차의 하자를 구성한다고 보기 어렵다”고 설명했다.</description>
-			<pubDate>Sun, 27 Apr 2025 22:09:17 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/207556</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/207556</guid>
-			<dc:creator>서하연 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
