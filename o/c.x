@@ -13,6 +13,60 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>‘尹 부부 공천개입 의혹' 최호 전 평택시장 후보 검찰 조사 </title>
+      <link>https://www.chosun.com/national/court_law/2025/04/29/WDXR5WI4GVCGDCVOFSE5OBL54Q/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/04/29/WDXR5WI4GVCGDCVOFSE5OBL54Q/</guid>
+      <dc:creator>유희곤 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 29 Apr 2025 05:12:24 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4BU7ASHAUQ2MP46M75LVFTTFE4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울중앙지검. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 전 대통령과 배우자 김건희 여사의 2022년 지방선거 공천 개입 의혹을 수사 중인 검찰이 29일 최호 전 국민의힘 평택시장 후보를 불러 조사하고 있다.&lt;br&gt;&lt;br&gt;법조계에 따르면 정치브로커 명태균씨 의혹을 수사 중인 서울중앙지검 전담수사팀(팀장 이지형 차장검사)은 2022년 6·1 지방선거에서 국민의힘 평택시장 후보로 공천됐던 최 전 후보(전 경기도의회 의원)를 이날 참고인 신분으로 조사하고 있다.&lt;br&gt;&lt;br&gt;최 전 후보는 국민의힘 윤석열 대통령 후보 중앙선거대책본부 정무특보, 대통령직인수위원회 상임자문위원을 지낸 친윤계 인사로 꼽힌다. 2022년 지방선거를 앞두고 실시한 여론조사에서 적합도 1위를 기록한 공재광 전 평택시장을 누르고 국민의힘 후보로 공천됐지만 본선에서 정장선 더불어민주당 후보에게 패했다.&lt;br&gt;&lt;br&gt;검찰은 윤 전 대통령 부부가 대선 캠프에서 활동한 최 전 후보가 공천되도록 영향력을 행사했는지 수사 중이다. 최 전 후보는 2022년 5월 평택시장 후보로 공천됐을 때와 선거 출마를 선언한 그해 4월 자신의 블로그에 “지난 3월 24일 윤석열 대통령 당선인 집무실에서 대통령직 인수위 상임자문위원으로 행복한 평택 만들기 현안사항을 직접 보고하고 ‘흔쾌히 적극 지원하겠다’는 약속과 함께 당선인 사인 서명을 받았다”고 했다. &lt;br&gt;&lt;br&gt;당시 국민의힘 당대표였던 이준석 개혁신당 의원은 작년 11월 &amp;lt;뉴스토마토&amp;gt; 인터뷰에서 “(김 여사가) 평택시장 공천에 개입한 것으로 의심된다”는 취지로 말했다. 다만 같은 달 MBC 라디오에서는 “(평택) 공천이 정상적으로 이뤄지지 않았던 건 맞는데 포항 (공천) 관련해서 (윤 전) 대통령이 저한테 뭐라고 한 말이 구체적으로 있지만 평택은 제가 들은 게 없다”고 했다.&lt;br&gt;&lt;br&gt;검찰은 지난 24일에는 공 전 시장을 참고인으로 불러 조사했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“유심 내놔라”... SK텔레콤 대리점서 난동부린 20대 체포</title>
+      <link>https://www.chosun.com/national/2025/04/29/HYE2PX4L4VBNLHLT6O6SOCWIBE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2025/04/29/HYE2PX4L4VBNLHLT6O6SOCWIBE/</guid>
+      <dc:creator>진주=김준호 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 29 Apr 2025 04:59:06 +0000</pubDate>
+      <content:encoded>경남 진주에서 SK텔레콤의 유심 교체에 불만을 품은 20대가 난동을 부리다 경찰에 체포됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BCQFLN47ZPR4WBWU7OKOBNFDTQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;SK텔레콤 가입자 유심(USIM) 정보 해킹 사고 관련 유심 무료교체 서비스 이틀 째인 29일 오전 서울 종로구 T월드 직영 매장 앞에 고객들이 줄지어 대기하고 있다. 기사 내용과는 무관함. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰에 따르면 29일 낮 12시 7분쯤 진주시 한 SK텔레콤 대리점에 20대 남성 A씨가 방문했다. 유심(USIM·범용 가입자 식별 모듈) 교체를 위해 이곳에 방문한 A씨는 대리점 직원으로부터 “선착순으로 교체하고 있으며, 2주 정도 걸린다”는 설명을 듣자, 들고 있던 음료수병을 집어 던졌다고 한다. 또 “내 정보가 털릴 수도 있는데 왜 빨리 바꿔주지 않느냐”고 욕설도 했다고 한다. &lt;br&gt;&lt;br&gt;다행히 다친 사람은 없었다. &lt;br&gt;&lt;br&gt;A씨는 대리점에서 나와 인근 또 다른 SK텔레콤 대리점을 찾았지만, 문이 닫혀있자 강제로 문을 열려고 하고, 간판을 발로 차는 등 난동을 이어갔다.&lt;br&gt;&lt;br&gt;신고를 받고 출동한 경찰이 A씨를 체포했다. 술을 마신 상태는 아니었던 것으로 전해졌다. &lt;br&gt;&lt;br&gt;경찰은 A씨가 유심 교체 문제에 대한 불만으로 이 같은 범행을 저지른 것으로 보고 정확한 사건 경위를 조사할 예정으로, 협박 및 재물손괴 등 혐의 적용을 검토하고 있다. &lt;br&gt;&lt;br&gt;한편, SK텔레콤은 악성 코드로 내부 서버가 해킹을 당해 고객 휴대폰의 유심 정보가 일부 유출되자 2300만명 가입자 전체의 유심을 무상으로 교체하기로 했다. 지난 28일부터 불안감을 느낀 가입자들이 대리점 등 매장에 몰리고 있지만 물량 부족 사태에 전국 곳곳이 혼란을 빚고 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>검찰, ‘반도체 기밀유출’ 혐의 SK하이닉스 중국 현지 법인 前직원 구속</title>
+      <link>https://www.chosun.com/national/court_law/2025/04/29/2R34UGG7Z5DKVKPYXVJH3XY324/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/04/29/2R34UGG7Z5DKVKPYXVJH3XY324/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 29 Apr 2025 05:02:43 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HSZGMTAAHCXTC7VS6C745A4ZAM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;세계 최대 반도체 수요처인 중국의 우시에 2006년 설립한 SK하이닉스 공장의 생산 라인의 모습./조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지검 정보기술범죄수사부(부장 안동건)가 SK하이닉스 중국 현지법인에서 일했던 전직 직원이 반도체 제조 관련 영업비밀을 다수 유출한 것으로 보고 구속한 것으로 29일 전해졌다.&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 검찰은 2022년 SK하이닉스의 반도체 제조 관련 첨단기술 자료 등 영업비밀 100여개를 외부로 유출한 혐의를 받는 A씨를 전날 구속했다.&lt;br&gt;&lt;br&gt;검찰은 A씨가 다른 중국 회사로 이직하기 위해 영업비밀을 유출한 것으로 의심하고 있다고 한다. 지난 1월 A씨의 주거지 등을 압수수색해 관련 자료를 확보하고 수사를 이어온 것으로 전해졌다.&lt;br&gt;&lt;br&gt;검찰은 국내 기업의 첨단 기술과 핵심 인력을 외국 회사에 넘기는 산업기술 유출 범죄 수사에 심혈을 기울이고 있다. 지난해 12월엔 국내 반도체 관련 핵심 인력이 중국 반도체 회사로 이직할 수 있도록 알선해주고 3억원을 받아챙긴 전직 삼성전자 임원을 구속 기소했다. 같은 해 9월엔 삼성전자가 4조원을 투자해 개발한 반도체 핵심기술을 중국에 빼돌리고 878억원을 챙긴 혐의를 받는 중국 청두가오전 대표 최모씨와 개발실장 오모씨를 구속해 재판에 넘겼다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>걸그룹 前 멤버 “대표가 강제추행”… 소속사 측 “거액 위로금 요구”</title>
+      <link>https://www.chosun.com/national/national_general/2025/04/29/P4JWFW5U65AEZE5RQODTXCBIKE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/29/P4JWFW5U65AEZE5RQODTXCBIKE/</guid>
+      <dc:creator>문지연 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 29 Apr 2025 05:01:56 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VNAYT73HBZNV3LBK4PP7XOX33Q.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;29일 서울 중구 프레스센터에서 열린 기자회견에서 그룹 '메이딘' 전 멤버 A씨의 어머니가 입장을 밝히고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;걸그룹 ‘메이딘’ 전 멤버 A씨가 부적절한 신체 접촉을 당했다며 소속사 대표를 경찰에 고소했다. 소속사 측은 “(A씨 측이) 거액의 위로금을 요구하다가 이를 거부하자 형사 고소한 것”이라고 반박했다.&lt;br&gt;&lt;br&gt;A씨 측은 29일 서울 중구에서 기자회견을 열고 소속사 143엔터테인먼트 대표 이모씨를 강제추행 혐의(아동청소년성보호법 위반)로 강남경찰서에 고소했다고 밝혔다. 이날 기자회견은 한빛미디어노동인권센터의 사회로 진행됐으며 A씨의 어머니와 법률대리인 등이 자리했다.&lt;br&gt;&lt;br&gt;A씨 측은 작년 10월 이 대표가 A씨를 자신의 사무실로 불러 3시간 동안 폭언·협박했고, 강제추행과 성적 모멸감을 주는 성희롱을 가했다고 주장했다. 또 이 대표가 사건 직후 잘못을 인정하고 피해자와의 공간 분리를 약속했으나, 이내 사실을 부인하고 피해자의 명예를 실추시켰다고 했다. 소속사 역시 가해 사실을 거짓으로 일축하고 아무런 통보 없이 그룹에서 탈퇴시켰다는 게 A씨 측 입장이다.&lt;br&gt;&lt;br&gt;이어 A씨 측은 이 대표가 사건 이튿날 “본인은 멤버 A에 대한 성추행에 대해 진심으로 사과한다. 법률상 대표이사를 떠나 본인이 (A에게) 불이익이 없도록 책임질 것이며 계약 연장 및 기타 계약 관계에 있어 A에게 우선적인 선택권을 부여하겠다”고 작성한 확인서를 증거로 제시했다.&lt;br&gt;&lt;br&gt;A씨 어머니는 이 대표가 멤버들 사이에 불화를 조장했고 딸이 고등학교를 졸업한 후 이 대표의 신체적 접촉이 더욱 심해졌다고 주장했다. 그러면서 “몸을 터치하지 말라고 했지만 이 대표는 ‘업무상 이유’라면서 지속해 접촉을 이어갔다”며 “아이가 제게 구조 신호를 보냈음에도 듣지 않았고 제 아이는 상상도 못 할 일을 겪어야 했다”고 호소했다.&lt;br&gt;&lt;br&gt;당시 공론화하지 못했던 이유에 대해선 A씨의 활동 의지가 컸기 때문이라고 했다. A씨 어머니는 “아이는 팬들이 소중하고 그룹 활동을 계속하고 싶다고 했다. 그 의사를 존중하기 위해 대표에게 각서를 받고 상황을 조용히 마무리하려고 했다”며 “아이는 결국 무너졌다. 하루하루가 지옥 같았고 저는 한순간도 아이 곁을 떠날 수 없었다”고 말했다.&lt;br&gt;&lt;br&gt;이후 143엔터테인먼트 측은 같은 날 입장문을 내고 “A씨 측 주장은 사실과 다른 부분이 많다”고 반박했다. 다만 “현재 경찰 수사가 진행 중이므로 수사에 적극 협조하고 그 과정에서 객관적인 자료를 바탕으로 왜곡된 부분을 바로잡고자 한다”고 했다.&lt;br&gt;&lt;br&gt;또 “A씨 측은 일방적인 주장을 근거로 거액의 위로금을 요구하다가 이를 거부하자 사건 발생 6개월가량 지난 상황에서 형사 고소를 한 점 역시 심히 유감스럽다”며 “이번 계기로 반드시 진실이 규명되길 바라며 법적 판단에 따른 책임 또한 다할 것을 말씀드린다”고 덧붙였다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[단독] 검찰, 경찰에 ‘불법 도박 혐의’ 개그맨 이진호 사건 보완수사 요구</title>
+      <link>https://www.chosun.com/national/court_law/2025/04/29/3H6JR5D7VJAGHDKDX5JDDLORX4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/04/29/3H6JR5D7VJAGHDKDX5JDDLORX4/</guid>
+      <dc:creator>박강현 기자, 김도연 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 29 Apr 2025 03:40:24 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AQRXG6FNXYK7W7Q7NCR4ODWRVE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;인터넷 불법 도박 사실을 고백한 개그맨 이진호씨가 지난해 10월 22일 관련 조사를 받기 위해 서울 강남경찰서로 출석하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;개그맨 이진호(39)씨의 불법 도박 혐의 사건을 수사 중인 검찰이 경찰에 추가 조사가 필요하다는 취지로 보완수사를 요구한 것으로 29일 확인됐다.&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 서울중앙지검 형사9부(부장 박성민)는 지난 21일 상습도박 혐의를 받는 이씨 사건에 대한 보완수사를 경찰에 요구했다. 사건 관련자의 여러 계좌 및 이씨 등이 이용한 도박 사이트에 대한 조사를 보완하라는 취지로 알려졌다. 검찰은 경찰 송치 사건의 공소제기 여부 결정 등을 위해 보완수사를 요구할 수 있다.&lt;br&gt;&lt;br&gt;앞서 서울 강남경찰서는 이 사건 수사에 착수한 지 약 6개월 만인 지난 15일 이씨를 상습도박 혐의로 검찰에 불구속 송치했다. 경찰은 지난해 10월 이씨의 도박·사기 등 혐의를 수사해달라는 국민신문고 진정서를 접수해 입건 전 조사(내사)를 했고, 같은 해 10월 22일 그를 불러 조사하기도 했다. 다만 차용금 사기 혐의는 피해자 진술이 없어 인정되지 않았다고 한다.&lt;br&gt;&lt;br&gt;이씨는 지난해 10월 자신의 소셜미디어에 올린 글에서 “2020년 우연한 기회로 인터넷 불법 도박 사이트에서 게임을 시작하게 됐고 감당하기 힘든 빚을 떠안게 됐다”고 밝혔다. &lt;br&gt;&lt;br&gt;그러면서 “금전적인 손해도 손해지만, 무엇보다 저를 믿고 돈을 빌려주신 분들께 너무 죄송했다”며 “제게 남겨진 채무는 무슨 일이 있어도 변제해 나갈 것을 약속드린다”고 말했다. &lt;br&gt;&lt;br&gt;과거 이씨는 도박 자금 충당을 위해 개그맨 이수근(50), 그룹 방탄소년단(BTS) 멤버 지민(29·본명 박지민) 등 연예계 동료들에게 10억원대 돈을 빌린 것으로 전해졌다. 이 외에도 방송국 관계자 및 대부업체에서도 수억 원을 빌려 쓴 것으로 알려졌다. &lt;br&gt;&lt;br&gt;이씨는 2005년 SBS 특채 개그맨으로 데뷔해 tvN ‘코미디 빅리그’ JTBC ‘아는 형님’ 등 여러 예능 프로그램에 출연하며 이름을 알린 바 있다.&lt;br&gt;&lt;br&gt;경찰은 ‘검사와 사법경찰관의 상호협력과 일반적 수사준칙에 관한 규정’에 따라 보완수사 요구를 접수한 날부터 3개월 이내에 보완수사를 마쳐야 한다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>익명 기부자 2명, ‘개교 120년’ 고려대에 각각 70억·30억 기부</title>
+      <link>https://www.chosun.com/national/people/2025/04/28/CTPX5BHFPFFWVJNRETU7N5GIKQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/04/28/CTPX5BHFPFFWVJNRETU7N5GIKQ/</guid>
+      <dc:creator>김혜민 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 27 Apr 2025 21:00:01 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CPTJKLAT4GCLRP73Y5S56GTA2Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;고려대학교 전경 /고려대&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;고려대는 익명의 기부자 2명이 4월 한 달간 각각 70억원과 30억원을 기부했다고 28일 밝혔다. 기부자들은 “고려대가 인류의 미래에 공헌하는 ‘세상에 없어서는 안 될 대학’이 되길 바란다”고 했다. 고려대에 따르면 이들은 “기부자의 이름보다 기부하는 의미를 강조하고 싶다”며 익명을 요구한 것으로 알려졌다. 이에 따라 별도의 기부식도 열리지 않았다.&lt;br&gt;&lt;br&gt;이들의 기부금은 자연계 중앙 광장과 인문관 신축, 기금 교수 임용, 다문화 인재 장학금 등 고려대 핵심 사업에 두루 쓰일 예정이다. 올해 개교 120주년을 맞은 고려대에는 올해 초에도 125억원과 200억원 규모의 익명 기부가 들어왔었다. 총 익명 기부액은 425억원이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>“성인 남성보다 위가 크다”…쯔양, 라면 20봉 먹을 수 있는 이유</title>
       <link>https://www.chosun.com/national/people/2025/04/29/5NY2PYRTR5G6FEL3HCYMT7MWFI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/people/2025/04/29/5NY2PYRTR5G6FEL3HCYMT7MWFI/</guid>
@@ -690,15 +744,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3ACNQN67P5DMVGNNEJYLI5BU4A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>‘미스터트롯’ 김용필과 시각장애인 70명의 특별한 하루</title>
-      <link>https://www.chosun.com/national/people/2025/04/26/EEK6X2KYLVAFFHTKGB4ESEFEMI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/04/26/EEK6X2KYLVAFFHTKGB4ESEFEMI/</guid>
-      <dc:creator>김병권 기자, 김혜민 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 25 Apr 2025 16:47:43 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/B2EFRXSQCVFTXAWI2SIBLR5C2U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;24일 서울 노원구 노원시각장애인 학습지원센터에서 가수 김용필(왼쪽부터)씨와 시각장애인 유상숙·김상선씨가 함께 노래를 부르고 있다. /조인원 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“궂은 비 내리는 날 그야말로 옛날식 다방에 앉아 도라지 위스키 한 잔에다 짙은 색소폰 소릴 들어보렴.”&lt;br&gt;&lt;br&gt;지난 24일 오후 3시쯤 찾은 서울 노원구 노원시각장애인 학습지원센터 지하 1층 강당에 미스터트롯에 출연한 트로트 가수 김용필이 부르는 ‘낭만에 대하여(원곡 최백호)’가 울려 퍼졌다. 시각장애인 김상선(67)씨, 유상숙(65)씨도 함께 노래를 불렀다. 노래가 끝나자 강당에 모인 약 70명의 노인 시각장애인이 ‘와’ 하며 환호성을 질렀다.&lt;br&gt;&lt;br&gt;이날 열린 공연은 장애인의 날(매년 4월 20일)을 맞아 김두현 학습지원센터장이 기획했다. 그도 선천적 시각장애를 갖고 태어났다. 김 센터장은 “장애인들은 콘서트를 보려고 해도 보호자 몫까지 최소 2장의 티켓을 사야 하는 데다가 중간에 화장실 가는 것도 쉽지 않아 문화 생활을 하기가 어렵다”며 “노인들에게 유명한 트로트 가수인 김용필씨가 생각났다”고 했다. 그는 김씨 팬클럽인 ‘용feel하모니’를 통해 김씨 방문을 부탁했다. 김용필은 흔쾌히 응했다. 그는 “책을 읽기 힘든 시각장애인 분들이 책 내용을 귀로 들으실 수 있게 ‘오디오북’ 녹음도 하겠다”고 제안했다. 김씨는 이날 국립중앙박물관의 유물들을 설명하는 260쪽 분량의 책을 1시간 동안 녹음했다.&lt;br&gt;&lt;br&gt;이날 김씨 노래를 맨 앞줄에서 들은 권택환(73)씨는 “미스터트롯을 보면서 김씨의 광팬이 됐는데, 이렇게 맨 앞에서 공연을 보고 춤을 추니 엔도르핀이 터지는 기분”이라며 “한 달 전부터 김씨가 온다는 말을 듣고 매일 밤 기다렸는데, 이렇게 찾아와 손도 잡아주고 공연도 해주니 정말 고맙다”고 했다.&lt;br&gt;&lt;br&gt;김씨는 이날 총 8곡의 노래를 불렀다. 그는 “평소 콘서트장에 있는 장애인석을 보면서 한 번쯤 장애인분들만을 위한 노래를 부르고 싶다는 생각을 해왔다”며 “기쁘게 즐겨주셔서 내가 오히려 힘을 얻어가는 느낌”이라고 했다. 프리랜서 아나운서 출신인 김씨가 TV조선 ‘미스터트롯2′ 예선에서 불렀던 노래 ‘낭만에 대하여’는 그에게 ‘낭만 가객’이란 애칭을 붙여줬다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>“차 창문 두드리더니 얼굴 찔러”… 청주 흉기 난동 학생에 시민도 당했다 </title>
       <link>https://www.chosun.com/national/national_general/2025/04/28/37IC7TJF7RF5JNLIT2X4PRWFBA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/28/37IC7TJF7RF5JNLIT2X4PRWFBA/</guid>
@@ -706,34 +751,6 @@
       <description/>
       <pubDate>Mon, 28 Apr 2025 05:05:54 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HSEENWUEFRMIHETG6Y2RMMHNWY.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;28일 학생 흉기 난동이 발생한 청주의 한 고등학교에서 경찰 등이 사고 상황을 파악하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;28일 충북 청주의 한 고교에서 흉기를 휘둘러 교직원을 다치게 한 학생이 달아나는 과정에서 행인들의 얼굴에도 상처를 낸 것으로 알려졌다. &lt;br&gt;&lt;br&gt;연합뉴스에 따르면 임모(43)씨는 이날 자녀 2명을 차에 태우고 유치원에 등원시키던 중 이 같은 일을 당했다. 그는 “(사건이 발생한) 학교 앞 도로를 시속 20㎞ 속도로 서행 중이었는데 활동복을 입은 학생이 서행하는 차들 사이를 빠르게 달려왔다”고 했다.&lt;br&gt;&lt;br&gt;이어 “등교 시간대라 일대는 극심한 정체를 빚고 있었고, 그 학생이 제 차량 뒷좌석 창문을 톡톡 두드렸다”며 “무슨 일인가 싶어 창문을 열었더니 다가와서 1∼2초 저를 가만히 바라보다가 아무 말 없이 얼굴을 찌르고 도망갔다”고 했다.&lt;br&gt;&lt;br&gt;임씨는 “차에서 내려 도망가는 학생을 봤는데 약 15ｍ 떨어진 곳에서 다른 학부모들과 몸싸움을 벌이고 있었다”며 “차를 도로 한복판에 계속 세워둘 수 없어 (이동시킨 뒤) 피가 흐르는 얼굴을 손으로 부여잡은 채 다시 현장으로 돌아왔지만, 학생은 휴대전화와 흉기를 바닥에 버려둔 채 도주한 뒤였다”고 했다. 임씨는 이후 등원을 포기하고 아이들을 집에 데려다 놓은 뒤 병원 진료를 받았다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/43H2WYS3CNLN7CD2H2E6CFYCLI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;28일 청주 모 고교에서 특수교육대상 학생이 흉기 난동을 부려 교장 등이 다친 가운데 학교 밖에서 학생의 공격을 받은 시민이 인터뷰하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;앞서 이날 오전 8시 30분쯤 청주시 흥덕구 한 고등학교 1층 교무실 앞에서 특수교육대상 학생이 교직원들에게 흉기를 휘둘렀다. 이로 인해 교장, 행정실 주무관, 환경 실무사 등 3명이 크게 다쳐 인근 병원으로 옮겨졌다. 행인 등 2명도 가벼운 부상을 입은 것으로 알려졌다.&lt;br&gt;&lt;br&gt;가해 학생은 범행 뒤 인근 공원 저수지에 뛰어들었다가 구조됐으며 현재 경찰서 유치장에 입감돼 있다. 부상자들은 생명에 지장은 없는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰은 가해 학생의 가방에서 범행에 사용한 것으로 보이는 문구용 칼 등 흉기 4점을 압수한 것으로 전해졌다. 경찰은 정확한 사건 경위를 조사하고 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>아이돌 커밍아웃에 홍석천 “저한테도 좀 신선한 충격”</title>
-      <link>https://www.chosun.com/national/people/2025/04/26/I36QKXLDERDM3MCMUFDKQNSW6Q/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/04/26/I36QKXLDERDM3MCMUFDKQNSW6Q/</guid>
-      <dc:creator>김명일 기자</dc:creator>
-      <description/>
-      <pubDate>Sat, 26 Apr 2025 01:46:53 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/76JVP3AL5VXAI6M4DATBVN4TFI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;방송인 홍석천. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;성소수자 방송인인 홍석천은 최근 K팝 아이돌 그룹 ‘저스트비’ 멤버 배인(24·본명 송병희)이 성소수자라는 사실을 밝히는 커밍아웃을 한 것에 대해 “신선한 충격”이라고 했다. &lt;br&gt;&lt;br&gt;홍석천은 26일 공개된 한 언론과의 인터뷰에서 “연예계 후배 중에 이렇게 얘기해 주는 사람이 있는 건 저한테도 좀 신선한 충격이고 반가운 소식”이라며 “굉장히 축하해야 할 일”이라고 했다.&lt;br&gt;&lt;br&gt;다만 홍석천은 “커밍아웃을 하는 것도 용기가 필요한데 사실 그걸 버텨내는 건 더 큰 용기가 필요하다”며 “(버텨내는) 그 시간이 더 힘들고 더 중요한 시간인 거다. 저는 개인적으로 너무너무 힘들었다”고 했다.&lt;br&gt;&lt;br&gt;홍석천은 “제가 커밍아웃을 했던 2000년에는 제가 느끼기엔 전국민의 99%가 저를 다 ‘죽어라 죽어라’ 했는데 그걸 이겨내고 버텨가면서 얼마나 많은 노력을 했겠냐”라며 “예전에 제가 겪은 시간보다는 훨씬 수월하겠지만 이제부터 자기 스스로를 지켜야 한다”고 했다. &lt;br&gt;&lt;br&gt;홍석천은 “기회가 되면 이야기를 나눌 수 있는 선배였으면 한다. 걱정도 되지만 이제 사회 분위기가 정말 많이 바뀌었다”며 “무너지지 않고 잘 버텨내면서 자기가 하고 싶은 일을 하는 게 굉장히 중요하다”고 했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Q4PCY6LQ6RMLBIDA2ZFZST6T2U.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;그룹 저스트비 배인. /뉴스1
-&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;배인은 지난 23일 미국 로스앤젤레스에서 열린 월드투어 ‘저스트 오드’(JUST ODD) 공연 도중 자신이 성소수자라는 사실을 밝히는 커밍아웃을 했다. 국내 남자 아이돌 그룹 멤버가 커밍아웃을 한 건 이번이 처음이다.&lt;br&gt;&lt;br&gt;이날 배인은 “내가 LGBTQ 커뮤니티의 일원인 것을 자랑스럽게 생각한다”고 말했다. LGBTQ는 레즈비언, 게이, 양성애자, 트랜스젠더, 퀴어의 첫 글자를 따 만든 약어로, 성소수자를 의미한다.&lt;br&gt;&lt;br&gt;배인은 공연에서 미국 가수 레이디 가가의 ‘본 디스 웨이’(Born This Way)를 부르며 성소수자를 상징하는 무지개 깃발을 흔들기도 했다.&lt;br&gt;&lt;br&gt;저스트비는 지난 2021년 데뷔했다. 임지민, 이건우, 배인, 시우, 전도염, 김상우로 이뤄진 6인조 보이그룹이다. 배인은 팀에서 메인보컬을 맡고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“참가자·시민 모두 안전한 마라톤 만들 것”</title>
-      <link>https://www.chosun.com/national/national_general/2025/04/26/TBJLXOPPRNHRZNHNX2OMRIGFW4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/26/TBJLXOPPRNHRZNHNX2OMRIGFW4/</guid>
-      <dc:creator>구동완 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 25 Apr 2025 16:42:15 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HBHPYU5NRNDJPBKZRBLBI6ACJ4.jpeg"&gt;&lt;figcaption&gt;&lt;small&gt;김완기 마포경찰서장&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;“모든 참가자들이 안전하게 마라톤을 완주할 수 있도록 경찰은 ‘교통 안전’ 관리에 최선을 다하겠습니다.”&lt;br&gt;&lt;br&gt;서울마포경찰서는 27일 오전 8시 개최되는 서울하프마라톤 대회를 위해 촘촘하게 관리 체계를 짰다. 서울하프마라톤은 전체 하프 코스(21.0975㎞) 중 절반이 넘는 12.9㎞가 마포구를 통과한다. 참가자들은 광화문광장에서 출발해 서울 마포구 공덕동 일대를 지나 마포대교를 북단에서 남단으로 건넌다. 이후 여의도와 양화대교를 거쳐 마포구 합정동·상암동 일대를 달린다. 결승점은 마포구 상암 월드컵공원 평화광장이다.&lt;br&gt;&lt;br&gt;이 일대 교통·치안 관리를 맡은 김완기 마포경찰서장은 “참가자뿐 아니라 시민들 불편까지 챙기면서 서울하프마라톤이 모두를 위한 마라톤이 될 수 있도록 최선을 다하겠다”고 했다. 마포경찰서는 행사 당일 교통 통제와 안전 관리를 위해 경찰 40명과 모범 운전자 290명을 투입, 주요 길목마다 배치해 참가자들의 안전을 지키고 시민들에게 우회 도로를 안내할 예정이다. 순찰차 6대도 현장을 지킨다. 특히 교차로 구간 등 안전 취약 지점에는 인력을 집중 배치해 무단 횡단이나 차량·자전거 충돌 사고 등 돌발 상황이 벌어지지 않도록 대비할 예정이다. &lt;br&gt;&lt;br&gt;김 서장은 “서울하프마라톤은 봄 내음 가득한 한강공원과 상암월드컵공원의 아름다운 경치를 두 눈으로 즐길 절호의 기회”라며 “최근 달리기가 큰 열풍을 불러일으키고 있는 만큼 기록을 의식해 무리하지 말고 본인의 페이스에 맞춰 안전하게 달리시길 바란다”고 했다. 아울러 “참가자가 2만2000명이나 되는 행사인 만큼 경찰의 교통 통제에 잘 협조해 주시길 부탁드린다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>어린이날까지 완연한 봄 날씨...비 소식 없이 일교차 커</title>
-      <link>https://www.chosun.com/national/transport-environment/2025/04/26/ZVIRPMZQONFPXPNECU4NHS5Q3U/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/04/26/ZVIRPMZQONFPXPNECU4NHS5Q3U/</guid>
-      <dc:creator>박상현 기자</dc:creator>
-      <description/>
-      <pubDate>Sat, 26 Apr 2025 00:14:37 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QZ6CLZ7KYBJN7OQUIFRE2DIG6Q.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;완연한 봄 날씨를 보인 지난 25일 전북 완주군 화산꽃동산에 봄꽃이 만발해 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이번 주말 전국이 완연한 봄 날씨를 보일 것으로 전망됐다. 다만 대기가 메마르고 강풍이 불면서 화재 위험이 클 것으로 예상됐다.&lt;br&gt;&lt;br&gt;기상청에 따르면, 우리나라는 주말인 26~27일 고기압 영향권에 들면서 전국이 대체로 맑겠다. 내륙을 중심으로 일교차가 15도 이상으로 크게 벌어지면서 아침은 쌀쌀하고, 한낮은 덥겠다.&lt;br&gt;&lt;br&gt;26일 서울의 한낮 기온이 20도까지 오르는 등 이날 전국 낮 최고기온은 17~25도로 예보됐다. 일요일인 27일에는 최저 5~15도, 최고 17~27도의 기온 분포를 보이겠다.&lt;br&gt;&lt;br&gt;현재 우리나라 동쪽을 중심으로 대기가 매우 건조한 상태다. 강원영동과 충북남부·전라동부·경상권 등에 내려졌던 건조특보는 26일 오전 수도권 곳곳까지 확대됐다. 당분간 전국에 순간풍속 초속 15m 이상의 바람이 불 것으로 보여 작은 불씨가 큰 불로 이어질 수 있어 주의가 필요하다.&lt;br&gt;&lt;br&gt;27일 비구름대를 동반한 기압골의 영향을 받는 제주도에는 비가 내리겠다. 예상 강수량은 5~10mm다.&lt;br&gt;&lt;br&gt;기상청은 중기예보에서 어린이날인 내달 5일까지 우리나라가 주로 고기압 영향권에 들면서 비 소식 없이 기온이 점차 오를 것으로 내다봤다. 내달 1~5일에는 낮 기온이 최고 27도까지 오르겠다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>‘누군가 날 죽이려 한다’…마약 환각 상태서 집에 불 지른 50대</title>
@@ -782,15 +799,6 @@
       <media:content url="https://www.chosun.com/resizer/v2/UCPUMDCJANEE7P4FEQ44HKRFKA.jpg?auth=fb954e48feeac077564665621de781d5d763fea7c2de4bf00aab35bc4ffab8b1&amp;smart=true&amp;width=366&amp;height=206" type="image/jpeg" height="206" width="366">
         <media:description type="plain">'어르신 운전중' 표지 부착 예시</media:description>
       </media:content>
-    </item>
-    <item>
-      <title>청주 한 고교서 학생이 흉기 난동…교장 등 5명 부상</title>
-      <link>https://www.chosun.com/national/regional/chungcheong/2025/04/28/YLJD5CTVTBC3HHLJR6CBTZYH2Q/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2025/04/28/YLJD5CTVTBC3HHLJR6CBTZYH2Q/</guid>
-      <dc:creator>신정훈 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 28 Apr 2025 00:08:11 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AZQ2QQNNXNOEBEZCUGTBQDT5A4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;28일 학생 흉기 난동이 발생한 청주의 한 고등학교에 경찰 과학수사대가 들어가고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;충북 청주의 한 고교에서 흉기 난동 사건이 발생해 5명이 다쳤다. &lt;br&gt;&lt;br&gt;경찰 등에 따르면 이날 오전 8시 30분쯤 청주시 흥덕구 오송읍의 한 고등학교 1층 교무실 앞에서 특수학급 학생이 흉기를 휘두르는 사건이 발생했다. &lt;br&gt;&lt;br&gt;이 학생이 휘두른 흉기에 이 학교 교장 A(60)씨와, 행정실 주무관B(40)씨 , 환경 실무사 C(49)씨 등 3명이 크게 다쳐 인근 병원으로 옮겨졌다.&lt;br&gt;&lt;br&gt;또 행인 등 2명도 가벼운 부상을 입었다. &lt;br&gt;&lt;br&gt;가해 학생은 범행 후 인근 호수에 뛰어들었다가 구조돼 인근 병원으로 옮겨졌다. &lt;br&gt;&lt;br&gt;현재 부상자들은 생명에 지장은 없는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰은 가해 학생의 가방에서 범행에 사용한 것으로 보이는 문구용 칼 등 흉기 4점을 압수한 것으로 전해졌다. &lt;br&gt;&lt;br&gt;이 학생은 애초 특수학급 학생으로 알려졌으나 일반학급에서 생활하는 특수교육대상자인 것으로 확인됐다. &lt;br&gt;&lt;br&gt;경찰은 정확한 사건 경위를 조사하고 있다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>경찰, 경호처서 ‘尹비화폰 서버 자료’ 받기로 구두 협의</title>
@@ -957,15 +965,6 @@
       <description/>
       <pubDate>Sun, 27 Apr 2025 05:06:32 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7VSLRJXWDFCLDNDMPKFEKRGLIU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;27일 서울하프마라톤에 나선 삼성전자 DS부문 설비기술연구소 제어 SW 플랫폼파트 직원들과 가족. 왼쪽부터  황기덕, 정우정, 최준영, 안혜빈, 정주용, 이재문, 이기훈씨다. / 조인원 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“설비는 멈추지 않는다! 우리도 멈추지 않는다!”&lt;br&gt;&lt;br&gt;27일 서울하프마라톤에 참가한 삼성전자 DS부문 설비기술연구소 제어 SW 플랫폼파트 직원들의 구호다. 이기훈(40) 파트장을 비롯해 이재문(44), 안혜빈(31), 황기덕(30)씨가 10km 부문에 도전장을 던졌다. &lt;br&gt;&lt;br&gt;참가 신청이 늦어 이날 뛰진 못했지만, 응원을 하기 위해 출동한 정우정(35)씨와 최준영(29)씨까지 파트원 12명의 절반인 6명이 현장에 모였다. 안혜빈씨는 나머지 직원 6명의 이름도 빠짐없이 넣은 응원용 플래카드를 마련해 와 분위기를 띄웠다. &lt;br&gt;&lt;br&gt;이기훈 파트장은 “반도체 설비 제어 소프트웨어 개발자들은 고도의 집중력을 발휘해 정밀한 시스템을 다루는 만큼 평소 수영이나 테니스, 스쿼시 등 다양한 운동으로 체력을 단련한다”며 “그중 어려운 일이 닥쳤을 때 끈질기게 해결하는 지구력을 키우는 데는 러닝 만한 것이 없다”며 ‘달리기 예찬론’을 펼쳤다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FBEXXHAM3RHZXKEBBXAQGAXSLM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;27일 서울하프마라톤에 나선 삼성전자 DS부문 설비기술연구소 제어 SW 플랫폼파트 직원들과 가족.  / 조인원 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;우연히 벌어진 스쿼시 대결이 모두를 나서게 한 계기가 됐다. 팀 막내 최준영씨에게 완패한 마라톤 마니아 맏형 이재문씨가 “진짜 운동은 마라톤이지!”라며 함께 뛰자고 제안했고, 평소 달리기를 즐기던 동료들이 하나둘 뜻을 모으면서 자연스럽게 단합 대회가 됐다. &lt;br&gt;&lt;br&gt;이들은 점심 시간마다 사내 헬스장 트랙에서 꾸준히 뛰면서 대회를 준비했다. 안혜빈씨의 남편 정주용(34)씨가 ‘깍두기’로 가세했다. 남편의 ‘외조’를 받으며 완주한 안혜빈씨는 “개발 업무가 고되지만 달리기로 스트레스도 날리고, 동료와도 한층 더 가까워졌다”고 말했다.&lt;br&gt;&lt;br&gt;레이스를 끝낸 이들의 얼굴에 웃음이 걸린 건 해장국에 수육을 곁들인 뒤풀이가 기다리고 있기 때문. “회식까지 완주합시다!” 이기훈 파트장의 외침에 환호가 쏟아졌다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“충무공의 고향은 서울 중구” 서울시 첫 이순신 국제학술대회</title>
-      <link>https://www.chosun.com/national/national_general/2025/04/26/P6SMY5C7G5G7ZAFI66VLFTFO4U/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/26/P6SMY5C7G5G7ZAFI66VLFTFO4U/</guid>
-      <dc:creator>박진성 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 25 Apr 2025 16:47:23 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JMQ5RBBZEBBYHIITQPAN4UQRNE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;25일 서울시청에서 ‘이순신 서울에서 만나다’ 국제학술대회가 열렸다. 오세훈(가운데) 서울시장과 전문가 등이 기념사진을 찍고 있다. /서울시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이순신 장군 탄신 480주년(28일)을 맞아 서울시가 25일 서울시청에서 ‘이순신 서울에서 만나다’ 국제학술대회를 열었다. 서울시가 이순신 관련 학술대회를 연 건 이번이 처음이다. 그동안 이순신 장군을 기리는 행사는 충남 아산, 경남 거제 등에서 주로 열렸는데 서울시가 본격적으로 ‘이순신 도시’를 표방하고 나선 것이다. &lt;br&gt;&lt;br&gt;이순신 장군은 1545년 한양에서 태어나 어린 시절을 보냈다. 현재 서울 중구 인현동에 집터가 있다. 이상배 서울역사편찬원장은 이날 학술대회에서 “이순신 장군은 서울에서 태어났고 53년 인생 중 절반인 20여 년을 서울에서 살았다”고 했다.&lt;br&gt;&lt;br&gt;서울시는 2028년 중구 남산골한옥마을에 이순신 기념관을 지을 계획이다. 이순신 장군이 살던 집과 약 800m 거리다. 지상 2층 연면적 7600㎡(약 2300평) 규모로 짓는다. 아산, 거제 등 국내에 있는 이순신 기념관 중 가장 크다. 기념관 사업에 참여한 오영찬 이화여대 사회과교육과 교수는 이날 학술대회에서 “다른 기념관은 이순신 장군의 전투 업적에 집중하지만 서울 기념관은 장군의 전 생애를 다룰 예정”이라며 “외국인 관광객들도 즐겨 찾는 명소로 만들 것”이라고 했다.&lt;br&gt;&lt;br&gt;앞서 서울 중구는 지난 19일 훈련원공원에서 ‘제1회 충무공 이순신 장군 탄생 기념 활쏘기 대회’를 열었다. 훈련원공원은 조선시대 무관을 선발하고 훈련하는 관청인 훈련원 자리에 만든 공원이다. 이순신이 무과에 급제한 장소이기도 하다. 26일에는 남산 북측 순환로 4.5km를 걷는 ‘충무공 이순신 탄생기념 중구민 걷기대회’를 연다. &lt;br&gt;&lt;br&gt;오세훈 서울시장은 “이순신 장군이 태어나고 자란 곳, 공직의 첫걸음을 내딛고 백의종군(白衣從軍)을 결심했던 곳도 서울”이라며 “장군을 기리는 게 광화문광장의 동상뿐이라 아쉬웠는데 앞으로 관련 사업을 계속 추진할 것”이라고 했다.&lt;br&gt;&lt;br&gt;이날 학술대회에는 일본과 미국의 전문가들도 참석했다. 이노우에 야스시 일본 방위대 인간문화학과 교수는 “일본에선 이순신을 ‘동양의 넬슨(트라팔가르 해전을 승리로 이끈 영국의 해군 제독)’이라고 부른다”며 “그만큼 위상이 대단하다”고 했다. 마크 피터슨 미국 브리검영대 명예교수는 “이순신 장군의 강직한 성품도 흥미롭다”며 율곡 이이와 일화를 소개했다. 이순신과 이이는 둘 다 덕수 이씨로 먼 친척 사이다. 사람들이 이순신에게 “높은 벼슬을 하고 있는 조카 이이를 만나보라”고 권했지만 이순신은 “인사 청탁을 하는 것처럼 보일 수 있다”며 거절했다고 한다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>성수동은 우연히 생긴 ‘핫플레이스’가 아니다</title>
