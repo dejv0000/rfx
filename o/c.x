@@ -13,6 +13,17 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>인제 산불 사흘 만에 재발화… 산림 당국 “헬기 5대 투입 진화 중”</title>
+      <link>https://www.chosun.com/national/incident/2025/04/30/NXUK7JD7QFEJLBKMXAGT44UY3E/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/04/30/NXUK7JD7QFEJLBKMXAGT44UY3E/</guid>
+      <dc:creator>정성원 기자</dc:creator>
+      <description>20시간 만에 주불을 잡았던 강원도 인제 산불이 사흘 만에 재발화했다.
+30일 산림 당국에 따르면 이날 오전 4시 45분쯤 인제군 상남면 하남리에서 산불이 재발화한 모습이 관측됐다.
+</description>
+      <pubDate>Tue, 29 Apr 2025 22:54:05 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/65KXMNM7VNJKVP3BYV6O7ZANAM.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;지난 26일 강원 인제군 한 야산에서 불이 나자 진화 헬기가 진화 작업을 벌이고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;20시간 만에 주불을 잡았던 강원도 인제 산불이 사흘 만에 재발화했다.&lt;br&gt;&lt;br&gt;30일 산림 당국에 따르면 이날 오전 4시 45분쯤 인제군 상남면 하남리에서 산불이 재발화한 모습이 관측됐다.&lt;br&gt;&lt;br&gt;산림 당국은 일출과 함께 헬기 5대를 투입하는 등 진화 작업을 벌이고 있다. 화선 길이는 100m로 추정되며 현재 바람이 약해 산불 확대 가능성은 크지 않은 상황이다.&lt;br&gt;&lt;br&gt;앞서 지난 26일 오후 1시 18분쯤 강원 인제군 상남면 하남리 한 야산에서 불이 나 산림 73ha를 태우고 20시간 만인 27일 오전 9쯤 진화됐다. 이 불로 인제군과 양양군 주민 384명이 불을 피해 마을회관 등으로 긴급 대피했으며, 서울양양고속도로 일부 구간의 차량 통행이 이틀간 전면 통제되기도 했다.&lt;br&gt;&lt;br&gt;산림청 관계자는 “불을 끄는 대로 피해 규모와 원인을 조사할 방침”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>강사법 6년의 역설... 강사는 줄고 꼼수만 늘었다</title>
       <link>https://www.chosun.com/national/education/2025/04/30/2DVV22XMSVAHFJ6RDMKNVRJ7QM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/education/2025/04/30/2DVV22XMSVAHFJ6RDMKNVRJ7QM/</guid>
@@ -855,18 +866,6 @@
       <media:content url="https://www.chosun.com/resizer/v2/JHRJUM6P5G55AZALK2K4ABILZ4.jpg?auth=8aa15db55c68d3ba54b4735ee1c7786820b3c4f23a9383df79a8b6b52c595523&amp;smart=true&amp;width=4498&amp;height=2999" type="image/jpeg" height="2999" width="4498">
         <media:description type="plain">작년 3월 서울 시내버스 노조가 파업에 돌입해 공영차고지에 버스가 주차돼 있는 모습. /뉴스1</media:description>
         <media:credit role="author" scheme="urn:ebu">뉴스1</media:credit>
-      </media:content>
-    </item>
-    <item>
-      <title>스드메 계약 5시간 뒤 취소해도… 업체는 “환불 안 된다”</title>
-      <link>https://www.chosun.com/national/welfare-medical/2025/04/29/DJGQSTML7FBL3CYE57T6AYMO7U/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/04/29/DJGQSTML7FBL3CYE57T6AYMO7U/</guid>
-      <dc:creator>오경묵 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 28 Apr 2025 15:55:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CZ4IUZHCIVFMZIQQ7WVW655SLI.png"&gt;&lt;figcaption&gt;&lt;small&gt;사진=게티이미지코리아&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;예비 신부 이모(32)씨는 지난해 12월 웨딩 플래너 업체와 220만원짜리 ‘스·드·메(스튜디오 촬영·드레스·메이크업)’ 패키지 계약을 맺었다. 올해 12월 결혼을 앞두고 1년 전부터 예약을 해둔 것이다. 그런데 이씨는 사정이 생겨 지난달 계약 해지와 환불을 요구했지만, 업체 측은 “이미 스·드·메 발주를 넣어서 환불이 불가능하다”고 했다. 결혼식까지 9개월 앞둔 시점이었다. &lt;br&gt;&lt;br&gt;이씨는 “그동안 계약금을 지불했을 뿐 구체적으로 어떤 상품과 서비스를 이용할지도 전혀 얘기하지 않고 업체를 방문한 적도 없는데 ‘발주’가 됐다고 한다”며 분통을 터뜨렸다. &lt;br&gt;&lt;br&gt;스·드·메 및 결혼식장 이용과 관련해 ‘환불 거부’와 ‘끼워 팔기’ 등 각종 피해가 끊이지 않고 있다. 사진 촬영 등 서비스가 엉터리였지만 배상을 받지 못하는 경우도 많다. 예비부부에겐 단 한 번의 기회인 결혼식의 특성을 악용, 시간을 끌며 버티고 넘어가려는 일부 업체의 ‘배짱 장사’인 셈이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4SXCWNLNRRGADJCAI5U5CU2VGE.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=김현국&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;28일 한국소비자원에 따르면, 소비자원에 접수된 결혼 준비 대행 서비스 피해 구제 건수는 2022년 152건에서 지난해 291건으로 불과 2년 새 거의 2배로 늘었다. 같은 기간 예식장 관련 피해 구제도 345건에서 614건으로 늘었다. &lt;br&gt;&lt;br&gt;올해 결혼 준비를 시작한 예비 신부 김모(32)씨는 지난 2월 웨딩 박람회에서 웨딩 플래너 업체와 180만원짜리 ‘스·드·메' 패키지를 계약했다. 당일 집으로 돌아가던 중 ‘충동적으로 계약했다’는 생각이 들어 전화로 계약금 30만원의 환불을 요구했다. 계약 후 5시간여 지난 시점이었다. 하지만 업체는 ‘내부 규정’을 이유로 들며 “계약금은 환불이 불가능하다”고 했다. 그러나 웨딩 박람회에서 계약을 한 경우라면 방문판매법에 따라 14일 이내에, 온라인에서 계약을 했다면 전자상거래법에 따라 7일 이내에 계약금을 100% 환불받을 수 있다. 결국 소비자원의 피해 구제 절차를 거쳐 계약금을 전액 돌려받을 수 있었다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GA4CAIEPEBCHZOCHW5WAJXZJ6I.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=김현국&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;환불을 요구하면 연락을 끊는 업체도 있다. 예비 신랑 최모(33)씨는 지난해 한 웨딩 박람회에서 혼주 한복 대여 계약을 했다가 사흘 뒤 계약금 환불을 요청했다. 그러나 업체 측은 “환불은 안 된다”고 한 뒤 연락이 두절됐다.&lt;br&gt;&lt;br&gt;끼워 팔기나 저질 서비스 문제도 여전하다. 서울 서초구의 한 예식장은 계약하려면 예식 당일 사진 촬영과 와인, 피아노 연주 등을 ‘필수 항목’으로 선택해야 한다고 안내한다. 폐백실 이용이나 ‘플라워 샤워(신랑·신부가 행진한 뒤 꽃을 뿌려주는 것)’를 필수로 요구하는 곳도 있다. 올 하반기 결혼을 준비 중인 예비 신부 김모(31)씨는 “폐백을 생략하고 싶었지만 예식장 측이 ‘폐백 공간은 알아서 사용하시더라도 비용은 내야 한다’고 했다”며 “업체 측에 더 따지고 싶었지만, 평생 한 번뿐인 결혼식에 괜히 불똥이 튈까 봐 울며 겨자 먹기 식으로 받아들일 수밖에 없었다”고 했다. &lt;br&gt;&lt;br&gt;스튜디오 촬영의 경우, 업체들은 앨범 제작이나 액자 구매를 하지 않으면 촬영 예약을 받지 않는 식으로 끼워 팔기를 한다. 일부 업체는 사진 원본과 수정본을 제공하는 것조차 ‘필수 항목’이라며 별도 요금을 요구하고, 야외·야간 촬영을 끼워 넣어 추가 요금을 받기도 한다. &lt;br&gt;&lt;br&gt;예식장이나 촬영 업체 실수로 결혼식을 망치고도 제대로 된 배상·보상을 받지 못하는 경우도 허다하다. 지난해 결혼한 신랑 이모(35)씨는 결혼식 사진만 보면 속이 터진다고 했다. 가족·친지와 찍은 사진 곳곳에 사람들 위치가 엉망으로 배치돼 있고 사진도 삐뚤게 찍혔기 때문이다. 업체 측은 “도의적으로는 안타깝지만, 실제 사진 촬영이 이뤄졌기 때문에 환불이나 배상은 불가능하다”고 했다. &lt;br&gt;&lt;br&gt;소비자원은 “예식 계약 관련 분쟁에 휘말리지 않으려면, 관련 정보를 꼼꼼하게 비교해보고 신중하게 계약해야 한다”고 했다. 계약 후에는 계약서와 약관, 영수증 등 증빙 자료를 잘 보관해야 한다. 또 할인 등을 내걸며 현금 결제를 유도하더라도 신용카드 할부 거래를 이용하는 것이 좋다. 업체가 환불을 거부하더라도 카드사에 대금 결제 지급을 중지토록 하는 등 다른 구제책을 활용할 수 있기 때문이다. 결혼식 당일 행사 진행이나 사진 촬영 등에서 피해를 입었다면 소비자원에 피해 구제를 신청할 수 있다.&lt;br&gt;&lt;br&gt;&lt;b&gt;☞스·드·메&lt;/b&gt;&lt;br&gt;&lt;br&gt;스튜디오 촬영·드레스·메이크업의 첫 글자를 딴 말. 통상 결혼식에 앞서 촬영해 앨범으로 남기는 사진, 앨범과 본식을 위한 드레스 대여 및 화장·머리 단장 서비스를 뜻한다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/UOIG6WDZ5ZCVPM7PGVXPACGH2Y.png?auth=2f17f7328b9fb418fc7504add4f7f5bb4e81eac449c61f0abe2839890fa40211&amp;smart=true&amp;width=1200&amp;height=675" type="image/png" height="675" width="1200">
-        <media:description type="plain">사진=게티이미지코리아</media:description>
       </media:content>
     </item>
     <item>
