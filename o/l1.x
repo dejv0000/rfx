@@ -6,6 +6,35 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>명태균 "건진법사, 방송 보고 알았다"...이틀째 검찰 조사</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/207683.jpg" alt="207683.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;명태균 씨 《사진=연합뉴스》&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;불법 여론조사와 공천개입 혐의를 받는 정치브로커 명태균 씨가 건진법사 전성배 씨에 대해 "방송 보고 알았다"며 일면식이 없다고 밝혔다.&lt;br /&gt;&lt;br /&gt;명 씨는 30일 서울중앙지검에 출석하기 전 기자들과 만나 '전 씨를 만난 적이 있냐'는 질문에 이같이 답했다.&lt;br /&gt;&lt;br /&gt;그는 "2018년에 서울 올라간 적이 없다"며 "2020년 10월 마포 포럼에서 김무성 전 국민의힘 의원을 만날 때 처음 서울에 올라왔고, 2020년 11월 3일 김종인 전 위원장을 만난 뒤 서울에서 처음 생활했다. 그런 사람이 (건진과 만날 일이) 뭐가 있겠느냐"고 했다. 또 "제 전화기에 건진이라는 사람이 없다"며 전 씨의 연락처가 아예 없다고 했다.&lt;br /&gt;&lt;br /&gt;전날 진행된 검찰 조사에 대해선 오세훈 서울시장에 대한 조사가 이뤄졌다는 취지로 설명했다. 명 씨는 "오 시장을 잡으러 왔으면 오 시장에 대해 물어봤겠죠"라고 했다. 다만 오 시장과 7차례 만난 증거를 묻자, 명 씨는 "증거자료를 얘기하면 오 시장이 방어할 것 같다"고 답하지 않았다.&lt;br /&gt;&lt;br /&gt;전날 오 시장이 명 씨를 두고 '선거를 이용해 사기행각을 벌이는 범죄자'라고 한 데 대해선 "원래 촛불이 꺼질 땐 확하고 꺼진다"고 했다.&lt;br /&gt;&lt;br /&gt;'본인에게 아무런 잘못이 없느냐'는 질문에 명 씨는 "검찰에 엄중하고 공정한 조사를 해달라고 말했다"며 "사익을 위해 제가 의도적으로 한 행위는 없다"고 했다. 이어 "그렇지만 제가 법조인이 아니기 때문에 법에 저촉된 행위가 있을지도 모르겠다"며 "그런 게 있으면 응당히 처벌을 받겠지만, 프레임을 짜서 뒤집어씌우는 건 참을 수 없다"고 밝혔다.&lt;br /&gt;&lt;br /&gt;김건희 여사 관련 추가 조사가 이어질지에 대해선 "제가 무당도 아니고 그걸 어떻게 예측하느냐"고 했다.&lt;br /&gt;&lt;br /&gt;서울중앙지검 명태균 의혹 전담수사팀(팀장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="10536"&gt;이지형&amp;nbsp;&lt;/span&gt;차장검사)은 이날 오세훈 서울시장의 여론조사 비용 대납 의혹 등과 관련해 명 씨와 김영선 전 국민의힘 의원을 이틀째 참고인으로 불러 조사했다.</description>
+			<pubDate>Wed, 30 Apr 2025 04:18:26 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/207683</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/207683</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/207683.jpg</media:thumbnail>
+			<dc:creator>임현경 기자</dc:creator>
+		</item>
+		<item>
+			<title>율촌, ALB 선정 '일하기 좋은 로펌' 17년 연속 명단 올라</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/207682.jpg" alt="207682.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;법무법인 율촌 39층 복도에 그려진 그래피티 아트.&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;b&gt;&lt;a href="https://www.yulchon.com/ko/main/main.do" target="_blank"&gt;법무법인 율촌&lt;/a&gt;&lt;/b&gt;(대표변호사&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="7573"&gt;강석훈&lt;/span&gt;)은 아시아 법률 전문 매체 ALB(Asian Legal Business)가 발표한 '일하기 좋은 로펌'에 17년 연속 이름을 올렸다고 30일 밝혔다.&lt;br /&gt;&lt;br /&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="7573"&gt;강석훈&lt;/span&gt;(62·사법연수원 19기) 대표변호사는 "행복한 일터를 만드는 리더가 되겠다"며 "외형적 성장뿐 아니라 업무의 질적 성장을 통해 구성원과 고객 모두가 만족하는 일류 로펌으로 나아가겠다"고 밝혔다.&lt;br /&gt;&lt;br /&gt;ALB는 매년 아시아·태평양 지역 주요 로펌을 대상으로 온라인 설문을 진행해 △근무 만족도 △커리어 성장 가능성 △워라밸 등을 종합 평가한 뒤 일하기 좋은 로펌을 선정한다.&lt;br /&gt;&lt;br /&gt;율촌은 2025 로펌 컨수머 리포트에서 대형 로펌 가운데 실력과 전문성, 성과 만족도, 재선임 의사 등 14개 역량평가 중 13개 항목에서 가장 높은 점수를 받기도 했다.</description>
+			<pubDate>Wed, 30 Apr 2025 04:17:36 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/207682</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/207682</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/207682.jpg</media:thumbnail>
+			<dc:creator>안현 기자</dc:creator>
+		</item>
+		<item>
+			<title>대한변협 "코로나19 백신 피해 국가책임 명시한 특별법 제정 환영"</title>
+			<description>대한변호사협회(협회장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="32148"&gt;김정욱&lt;/span&gt;)는 지난 4월 2일 국회 본회의에서 코로나바이러스감염증-19 예방접종 피해보상 등에 관한 특별법안이 최종 통과된 것을 환영한다는 입장을 30일 밝혔다.&lt;br /&gt;&lt;br /&gt;대한변협은 "기존 코로나19 백신은 짧은 기간 내 개발돼 단기간에 대다수 국민에게 접종됐으나, 이에 따른 부작용 피해에 대해서는 인과관계 입증의 어려움 등으로 충분한 국가책임이 이뤄지지 못했다"고 지적했다. 이어 "정부가 수차례 국가책임을 약속했음에도 불구하고, 지금까지의 보상은 산발적인 지원에 머물렀다"며 특별법 통과의 의미를 강조했다.&lt;br /&gt;&lt;br /&gt;앞서 변협은 지난 2021년 12월 8일 '정부는 코로나19 백신 예방접종 피해보상제도를 전면 개편하라'는 제목의 성명서를 발표하고 인과관계 추정 및 입증책임 전환을 골자로 한 입법을 촉구해 왔다. 생명존중재난안전특별위원회를 중심으로 △피해 가족 상담 △질병관리청 및 국회의원과의 면담 △「코로나19와 인권 보고서」 발간 △법안 마련 및 토론회 개최 등을 꾸준히 진행해 왔다.&lt;br /&gt;&lt;br /&gt;변협은 "이번 특별법은 백신 부작용 피해자들이 오랫동안 요구해온 ‘특별한 손해에 대한 정당한 보상’을 제도적으로 보장한 사례"라며 "팬데믹 극복이라는 공공의 목적 아래 시행된 예방접종으로 인한 피해에 대해 국가가 책임을 명확히 한 데 큰 의미가 있다"고 평가했다.&lt;br /&gt;&lt;br /&gt;이어 "향후 해당 법의 실효성을 담보할 시행령 마련과 피해자 중심의 지원 시스템 구축 과정에서 적극적으로 의견을 개진하겠다"며 "국가 예방접종 정책 전반에 대한 국민 신뢰 회복과 공공보건의 사회적 책임 강화를 위한 계기가 되기를 바란다"고 덧붙였다.</description>
+			<pubDate>Wed, 30 Apr 2025 04:16:40 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/207681</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/207681</guid>
+			<dc:creator>안현 기자</dc:creator>
+		</item>
+		<item>
 			<title>대법원 '사법보좌관제도 20주년 기념' 심포지엄 개최</title>
 			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/207678.jpg" alt="34536378.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;대법원은 사법보좌관 제도 시행 20주년을 맞이해 4월 24~25일 인천 네스트호텔에서 기념 심포지엄을 개최했다.&lt;br /&gt;이날 행사에는&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="5602"&gt;천대엽&lt;/span&gt;(61·사법연수원 21기) 법원행정처장,&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="10658"&gt;장동혁&lt;/span&gt;(66·33기) 국민의힘 의원,&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="313"&gt;박희승&lt;/span&gt;(62·18기) 더불어민주당 의원,&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="5404"&gt;홍동기&lt;/span&gt;(57·22기) 한국민사집행법학회장, 이강천 대한법무사협회장 등 법원 내·외부 인사가 참석했다.&lt;p&gt;&lt;br /&gt;전국 법원의 사법보좌관 뿐만 아니라, 법관, 변호사, 법무사, 학계 등 다양한 분야의 전문가들이 참여해 '사법보좌관 제도 20년 성과와 과제'를 대주제로 발표와 토론을 진행했다. 사법보좌관 제도의 발전에 공적이 있는 법원공무원에 대한 포상도 시행했다. 심포지엄은 온라인을 통해 생중계했다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;천 처장은 격려사를 통해 "지난 20년 동안 각급 법원 사법보좌관들은 강제집행 등 비쟁송적 사건을 신속하고 전문적으로 처리해 법관의 역량을 본안사건에 집중할 수 있게 함으로써 대국민 사법서비스를 향상하는 데 크게 기여했다"며 "이제 급격한 사회 변화 속에서 사법보좌관 제도 역시 질적·양적 도약이 필요하다는 국민의 요구가 높아지고 있어 업무영역 확대, 업무 역량 강화 등 개선 방안의 마련을 통해 제도의 향후 20년을 설계하고 한 걸음 더 나아가야 할 때"라고 말했다. 그러면서 "사법보좌관들은 앞으로도 자긍심을 가지고 성심을 다해 업무를 처리함으로써 사법부가 국민으로부터 신뢰를 받을 수 있도록 계속 노력해달라"고 당부했다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;대법원 관계자는 "앞으로도 사법보좌관 제도가 한층 더 성숙한 제도로 발전할 수 있도록 사법보좌관의 전문성을 강화하기 위한 교육 및 인사 시스템의 정비 등 필요한 지원과 여건을 마련하고, 사법보좌관이 담당하는 업무영역에서 대국민 사법서비스가 향상될 수 있도록 최선의 노력을 다하겠다"고 말했다.&lt;/p&gt;</description>
 			<pubDate>Wed, 30 Apr 2025 01:22:29 -0000</pubDate>
@@ -211,36 +240,6 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/207664</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/images/1(24).png</media:thumbnail>
 			<dc:creator>한수현 기자</dc:creator>
-		</item>
-		<item>
-			<title>2024년 〈그룹 1〉 19개 1위 세종, 2025년 중위권</title>
-			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/images/2(26).png" alt="2.png" /&gt;&lt;/p&gt;&lt;p style="text-align: center;"&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;법무법인 세종은 ‘2024 로펌 컨수머 리포트’에서 《그룹1》 의 14개 역량평가 중 10개 항목에서, 11개 업무분야별 평가 중 9개 항목에서 1위를 차지했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;세종은 ‘2025 로펌 컨수머 리포트’에서는 역량 평가와 분야별 평가를 합한 33개 평가 항목에서 1위가 없었다. 시장 소비자들의 관심도를 확인할 수 있는 응답 수에서도 대부분 항목과 분야에서 350명 이하의 응답을 받았다. 경쟁 로펌인 김·장 법률사무소와 법무법인 율촌, 태평양의 응답 수에 비해서는 모자라는 수치였다. 경쟁 로펌의 400~600여개에 비하면 낮은 수치다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;세종은 대부분 평가 항목에서 4.00(잘함) 이상을 받았다. 하지만 4.50 이상의 최우수 평가를 받은 항목은 역량 평가 14개 항목 중 3개(△실력과 전문성 △파트너 변호사 업무 관여도 △진행 안정성)였다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;역량 평가 중 △실력과 전문성 항목에서 전체 로펌 평균은 2024년 4.43점에서 2025년 4.54점으로 상승했다. 그러나 세종은 4.53점으로 2024년과 같은 점수를 받았다. 《그룹 1》에 속한 7개 대형 로펌 중에서는 5위다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;△성과 만족도 항목도 《그룹 1》의 평균은 2024년 4.25점에서 2025년 4.35점으로 다소 올랐지만, 세종은 2024년 4.35점에서 2025년 4.34점으로 낮아졌다. 또 다른 중요 항목인 △재선임 및 추천 의사에서 세종은 2024년 4.41점에서 2025년 4.36점으로 소폭 하락했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;19개 전문 분야별 평가에서 세종은 △공정거래 △IT·TMT △3개 송무 분야(민사, 형사, 행정)에서만 전체 평균 점수이상이었다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;전반적으로 볼 때 세종에 대한 평가가 1년 전과 비교해 부정적으로 바뀐 것은 아니다. 경쟁 로펌들이 더 많은 응답자를 확보하고 더 좋은 성적을 받았기 때문에 상대적으로 부진하게 나타난 것으로 보인다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;세종을 ‘최고의 로펌’으로 뽑은 기업 법무 담당자는 144명이다. 이들 중 93명은 세종의 전문성을, 35명은 의사소통 능력을 이유로 들었다. △당사자가 전달하지 못한 부분에 대한 추가 리서치를 다양하게 진행해 서면을 풍부하게 하고, 주장의 디테일을 잘 살린다 △업무처리 속도가 빠르고 업계 사정이 밝다는 평가를 남겼다.&lt;/p&gt;</description>
-			<pubDate>Tue, 29 Apr 2025 20:00:23 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/207667</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/207667</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/images/2(26).png</media:thumbnail>
-			<dc:creator>한수현 기자</dc:creator>
-		</item>
-		<item>
-			<title>화우, 대부분 평가에서 4.00(잘함) 이상</title>
-			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/images/23256.png" alt="23256.png" /&gt;&lt;/p&gt;&lt;p style="text-align: center;"&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;법무법인 화우는 ‘Big 6’ 대형 로펌 중 ‘다윗’으로 불린다. 소속 한국 변호사 수가 350명 정도로 경쟁 로펌의 50~70%에 불과하고 매출액도 1000억 원 이상 적으면서도 대형 사건에서 대등한 경쟁을 하고, 변호사 1인당 매출도 7억2000만 원으로 최상위권을 유지하며 덩치가 큰 ‘골리앗’ 사이에서 당당히 경쟁하고 있다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;화우는 역량 평가와 전문 분야 평가 대부분의 항목에서 평점 4.00(잘함) 이상을 기록했다. 100표 이상의 기업 법무 담당자의 답변을 받은 《그룹 1》 중에서는 중하위권이지만, 선두권과의 차이는 크지 않다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;화우의 실적은 2024년에 크게 개선됐다. 법무법인 매출 2500억 원(총매출 2700억 원)을 올리며 전년 대비 매출 증가율 20.08%(2023년 법무법인 매출 2082억 원)를 기록했다. 10개 대형 로펌 가운데 가장 높은 매출 증가율이었다. 변호사 1인당 매출액도 7억2000만 원으로 전년 대비 1억2000만 원 증가했다. 매출을 공개하지 않는 김장 법률사무소를 제외하고 변호사 1인당 7억 원 이상 매출을 기록한 곳은 화우, 율촌, 태평양뿐이다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;화우는 금융증권과 자본시장에서 강자로 알려져 있다. 이 분야에서는 김·장에 버금가는 ‘탑 티어(TOP TIER)’라고 자타가 공인한다. 응답자들이 남긴 구체적 평가에서도 △금융 규제 분야에 강점이 있는 로펌 △금융 관련 자문 우수 등의 의견이 많았다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;2024년 랩·신탁 사건과 주가연계증권(Equity-Linked Securities·ELS) 사건에서 다수의 은행 및 증권사를 자문한 것이 화우의 매출 성장으로 이어진 것으로 알려졌다. 한앤컴퍼니의 남양유업 인수 관련 주식양도 청구 소송 등 경영권 분쟁에서도 화우는 좋은 성과를 거뒀다. 한미사이언스 신주발행 금지 가처분 사건, DB하이텍 의결권 행사 금지 가처분 사건 등에서 승소한 것도 매출 상승으로 이어졌다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;이밖에도 화우는 △수임료 적정성 항목에서 《그룹 1》 내 경쟁자들에 비해 좋은 성적을 거뒀다. 이를 뒷받침하듯 △타 대형 로펌에 비해 합리적인 수임료로 유의미한 결과를 이끌어 냄 △합리적인 비용으로 최선의 성과를 도출 등의 긍정적인 평가가 있었다.&lt;/p&gt;</description>
-			<pubDate>Tue, 29 Apr 2025 20:00:22 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/207669</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/207669</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/images/23256.png</media:thumbnail>
-			<dc:creator>박수연 기자</dc:creator>
-		</item>
-		<item>
-			<title>"재판 지연 부르는 증거신청 기각"</title>
-			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/207661.jpg" alt="345363738.jpg" /&gt;&lt;/p&gt;&lt;p&gt;쟁점이 많고 방대한 양의 증거가 제출되는 복잡한 형사 사건에서 검사가 증거 신청 단계에서부터 증거 목록에 입증 취지를 구체적으로 기재해야 한다는 법원 내부 의견이 나왔다. 증거 조사와 수사기록 열람 및 복사, 공판 갱신 절차 등에서 공판중심주의 원칙을 따르되 재판 지연 문제를 해소하고 재판부가 효과적으로 심증을 형성할 수 있는 방법을 모색해야 한다는 취지다. 사법정책연구원(원장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="9060"&gt;이승련&lt;/span&gt;)은 4월 7일 발간한 ‘공판중심주의의 적정한 운영방안 - 복잡한 형사사건을 중심으로’ 제목의 연구보고서에서 이 같이 제안했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;span style="font-weight: bold;" serial="18978"&gt;남승민&lt;/span&gt;(42·사법연수원 40기) 사법정책연구원 연구위원이 작성한 이 보고서는 현재 실무에서 개선이 필요한 부분을 크게 △증거신청 및 채부 △증인조사 △서증조사 △수사기록 열람·복사 △녹음, 녹화물에 대한 증거조사 및 공판 갱신 절차로 분류하고 개선 방안을 제시했다. 검사가 증거신청 단계에서부터 증거목록에 입증취지를 최대한 구체적으로 기재하도록 의무화하고 증거목록 양식에 ‘입증 취지란’을 신설해야 한다고 제안했다. 재판부가 증거 채부 과정에서 신청된 증거가 증명하려는 사실과 관련이 있고, 입증에 꼭 필요한지 여부를 효과적으로 판단할 수 있도록 위함이다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;현행 증거목록에는 따로 입증취지를 기재하는 란이 없고, ‘참조 사항 등’ 항목에 검사가 ‘공소사실’, ‘양형 자료’, ‘자백’ 등의 문구만을 간단히 적어 제출하고 있다. 보고서는 “현행 ‘참조사항 등’을 ‘입증취지(증명하려는 공소사실과의 관계)’로 변경하고 증거 목록에 입증취지 기재를 의무화한다면 재판부는 해당 공소사실의 증명을 위해 증거 조사가 필요한지 여부를 신속하게 파악할 수 있고, 피고인 측에서도 제출받은 증거 목록을 토대로 열람·복사의 범위를 정할 수 있을 것으로 예상된다”고 적었다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;증인 조사 절차에서 재판부가 증거 가치가 높은 증인을 선별해 우선적으 로 해당 증인들에 대한 조사를 실시하도록 실무를 개선해야 한다고도 보고서는 제안했다. 현재 실무에서는 피고인 측이 증거 서류에 동의하지 않은 경우 검사는 해당 증거 서류의 원진술자의 공판정에서의 진술을 확보하기 위해 원진술자 대부분을 증인으로 신청하고 있다. 유력 참고인이나 공범의 경우 반대신문에 상당한 시간이 걸린다. 증인 조사의 과잉화는 재판 장기화를 낳고 재판부가 심증을 형성하는 데도 부정적인 영향을 미친다는 지적이 있었다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;보고서는 재판부가 쟁점별 핵심 증인들에 대한 신문을 먼저 실시한 뒤 사건 내용과 증거관계를 파악하고 나머지 신청 증인들에 대한 증인 채부 결정을 하는 개선 방안을 제시했다. 재판부가 공판준비기일에서 공소사실에 대한 검사의 설명과 피고인 측의 의견을 토대로 쟁점을 분류한 뒤, 검사가 피고인 측 증거 의견에 따라 신청한 증인을 각 쟁점별로 분류하고, 중요도가 높은 ‘핵심 증인’에 대한 신문을 먼저 진행하는 것이다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;보고서는 “핵심 증인에 대한 증인신문 과정을 통해 재판부가 사건의 내용을 구체적으로 파악 가능해지고, 증거 관계도 깊이 있게 파악할 수 있다”고 설명했다. 그러면서 핵심 증인의 진술과 중복되는 증인에 대한 검사의 증인 신청은 재판부가 철회를 유도하고, 피고인 측에는 보류한 증인 중 반대신문의 필요성이 없어진 진술 증거에 대한 번의 또는 동의를 유도하도록 실무를 개선해야 한다고 제안했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;보고서는 증거신청 및 채부와 관련해 증거 신청인에게 증명하고자 하는 사실과 관련이 있는 증거만을 선별해 신청할 의무를 부과하고, 재판부는 증거 채부 과정에서 관련성이 없거나 다른 증거와 중복되는 등 해당 증거를 채택해 조사할 경우 재판의 부당한 지연을 초래하는 증거신청은 기각할 수 있다는 내용의 형사소송규칙 개정도 제안했다. 이 같은 제안은 이번 연구 보고서 발간 전인 2024년 사법정책자문위원회의 연구반 회의에서 발표가 이뤄진 뒤, 같은 해 11월 열린 사법정책자문위원회 회의의 건의문으로 채택돼 대법원장에게 보고됐다. 대법원은 2025년 2월 이 같은 제안에 따라 형사소송규칙을 개정했다.&lt;/p&gt;</description>
-			<pubDate>Tue, 29 Apr 2025 20:00:15 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/207661</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/207661</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/207661.jpg</media:thumbnail>
-			<dc:creator>홍윤지 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
