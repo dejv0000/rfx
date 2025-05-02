@@ -6,6 +6,54 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>한국여성변호사회, 자립준비청년·보호아동 법률지원 사업 공식 출범</title>
+			<description>한국여성변호사회(회장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="1151"&gt;왕미양&lt;/span&gt;)가 어린이날을 맞아 자립준비청년과 보호아동을 대상으로 한 법률지원 사업을 공식 출범했다. 이번 사업은 '자립준비청년 법률지원 한마음 공익신탁'(신탁관리인 이문한)과 초록우산 어린이재단(회장 황영기)과 협력해 진행되며, 법률 사각지대에 놓인 청년과 아동에게 실질적 지원을 제공한다.&lt;br /&gt;&lt;br /&gt;한국여성변호사회는 2024년 자립준비청년특별위원회를 신설해 법률지원을 이어왔는데, 이번 사업을 통해 지원 대상을 시설 및 위탁가정에서 보호 중인 아동으로까지 확대했다는 점에서 의미를 더했다.&lt;br /&gt;&lt;br /&gt;제1호 지원 사례는 초록우산 경기남부가정위탁지원센터(관장 조현웅)가 관리하는 아동으로, 친부와 연락이 끊긴 채 조부모에게 위탁된 아동의 조모를 후견인으로 지정하는 법적 절차를 지원한다. 한국여성변호사회는 전문 변호사들이 직접 참여해 위탁가정 아동이 필요한 법적 보호를 받을 수 있도록 신속히 절차를 진행할 예정이다.&lt;br /&gt;&lt;br /&gt;이번 사업은 법무부 인가를 받은 공익신탁을 재원으로 운영되며, 기부금은 신탁관리인의 승인 아래 집행돼 정기적으로 법무부 감사를 받는다. &lt;br /&gt;&lt;br /&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="1151"&gt;왕미양&lt;/span&gt;&amp;nbsp;회장은 "이번 법률지원 사업을 통해 자립준비청년과 보호아동이 법적 어려움 없이 권리를 지키며 성장할 수 있도록 실질적 도움을 줄 수 있게 돼 매우 뜻깊다"며 "앞으로도 한국여성변호사회는 사회적 약자들을 위한 전문적 법률 지원을 아끼지 않겠다"고 밝혔다.</description>
+			<pubDate>Fri, 02 May 2025 12:39:20 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/207745</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/207745</guid>
+			<dc:creator>안재명 기자</dc:creator>
+		</item>
+		<item>
+			<title>법무법인 로고스, 'SK텔레콤 유심 해킹' 집단소송 제기</title>
+			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/207744.jpg" alt="4564748.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;b&gt;&lt;a href="https://www.lawlogos.com/main/main.asp" target="_blank"&gt;법무법인 로고스&lt;/a&gt;&lt;/b&gt;가 최근 발생한 SK텔레콤 유심(USIM) 정보 해킹 사건과 관련해 피해를 입은 가입자들을 대리해 5월 2일 집단소송을 제기했다.&lt;br /&gt;&lt;br /&gt;로고스는 이날 1차로 75명이 소송에 참여했으며, 연휴 이후 2차·3차 소송도 준비 중이라고 밝혔다.&lt;br /&gt;&lt;br /&gt;사건을 담당하는&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="26906"&gt;조원익&lt;/span&gt;(40·변시 3회) 변호사는 "이번 소송은 단순한 개인정보 유출을 넘어, 국민의 신뢰를 기반으로 운영되는 통신사가 과연 책임을 다했는지를 묻는 중요한 분기점이 될 것"이라며 "이번 사건을 통해 기업의 개인정보 보호 의무가 단순한 선언에 그쳐서는 안 되며, 실질적인 책임으로 작동해야 함을 분명히 하고자 한다"고 강조했다.&lt;br /&gt;&lt;br /&gt;SK텔레콤 유심 해킹 사태에 따른 집단소송 움직임은 전방위로 확산하고 있다. 현재 &lt;b&gt;&lt;a href="https://www.daeryunlaw.com/" target="_blank"&gt;법무법인 대륜&lt;/a&gt;&lt;/b&gt;, 대건, 로집사, 로피드법률사무소 등도 소송을 제기했거나 피해자를 모집 중이다.</description>
+			<pubDate>Fri, 02 May 2025 12:38:21 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/207744</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/207744</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/207744.jpg</media:thumbnail>
+			<dc:creator>안재명 기자</dc:creator>
+		</item>
+		<item>
+			<title>한국민사법학회, 9일 '2025 제1회 판례연구회' 개최</title>
+			<description>한국민사법학회(회장 박수곤)는 오는 5월 9일 오후 2시 서울 성동구 사근동 한양대학교 로스쿨 제2법학관 국제학술세미나실에서 ‘2025년 제1회 판례연구회’를 개최한다. 이번 행사는  한양대 법학연구소(소장 정호경)와 공동으로 주최한다.&lt;br /&gt;&lt;br /&gt;행사는 두 개의 세션으로 구성돼 진행된다. &lt;br /&gt;&lt;br /&gt;제1세션 사회는 권철 성균관대 로스쿨 교수가 맡는다. 위계찬 한양대 로스쿨 교수가 2024년 8월 1일 선고된 대법원 판결(&lt;b&gt;2023다318857&lt;/b&gt;)을 중심으로 ‘상속재산분할심판에 의해 임대인의 지위를 승계한 공동상속인 중 1인의 보증금 반환과 구상’을 주제로 발표한다. 토론은 김세준 성신여대 법학부 교수가 맡는다.&lt;br /&gt;&lt;br /&gt;이어&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="42675"&gt;손홍락&lt;/span&gt;(50·변호사시험 3회) 동아대 로스쿨 교수가 2024년 10월 25일 선고된 대법원 판결(&lt;b&gt;2024다233212&lt;/b&gt;)을 주제로 ‘가압류로 인한 시효중단의 효력과 범위’에 대해 발표한다.&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="13524"&gt;장보은&lt;/span&gt;(45·사법연수원 35기) 한국외대 로스쿨 교수가 토론한다.&lt;br /&gt;&lt;br /&gt;제2세션 사회는 송호영 한양대 로스쿨 교수가 맡는다.&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="24419"&gt;김보라&lt;/span&gt;(41·1회) 전남대 로스쿨 교수가 2023년 2월 23일 선고된 대법원 판결(&lt;b&gt;2022다287383&lt;/b&gt;)을 바탕으로 ‘경제적 지위의 남용에 따른 반사회질서 행위’를 주제로 발표하며, 송재일 명지대 법학과 교수가 토론한다.&lt;br /&gt;&lt;br /&gt;이어&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="36403"&gt;정의진&lt;/span&gt;(35·5회) 이화여대 로스쿨 교수가 2024년 6월 13일 선고된 대법원 판결(&lt;b&gt;2020다258893&lt;/b&gt;)을 중심으로 ‘공동저당에서의 동순위 채권자 취급 문제’를 발표하고&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="34139"&gt;이소은&lt;/span&gt;(40·3회) 영남대 로스쿨 교수가 토론한다.&lt;br /&gt;</description>
+			<pubDate>Fri, 02 May 2025 12:36:40 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/207740</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/207740</guid>
+			<dc:creator>조한주 기자</dc:creator>
+		</item>
+		<item>
+			<title>국회도서관 'EU 사이버연대·보안 입법례' 발간</title>
+			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/thumb/180/207736.jpg" alt="3463748.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;국회도서관(관장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="4569"&gt;황정근&lt;/span&gt;)이 최근 ‘유럽연합(EU)의 사이버 연대 및 보안 입법례’를 주제로 최신외국입법정보(통권 제270호)를 발간했다.&lt;br /&gt;&lt;br /&gt;4월 29일 나온 이번 입법정보에서는 최근 유럽연합(EU)이 제·개정한 사이버 보안 관련 입법 사례를 다뤘다. EU는 2024년 12월 19일 ‘사이버 연대법(Cyber Solidarity Act)’을 제정했다. 이 법은 대규모 사이버 위협과 사고에 대한 공동 대응을 강화하기 위한 것으로, EU는 이를 통해 위협 인식과 탐지 능력을 높이고, 회원국 간 위기관리 및 대응 연대를 강화하는 법적 기반을 마련했다.&lt;br /&gt;&lt;br /&gt;EU는 같은 날 ‘사이버보안법(Cybersecurity Act)’도 개정했다. 개정된 법은 관리형 보안 서비스(MSS)에 대한 인증 제도를 도입하고, 정보통신기술(ICT) 서비스의 신뢰성을 높이는 데 초점을 뒀다.&lt;br /&gt;&lt;br /&gt;해당 자료를 작성한 심소연 국회도서관 법률자료조사관(EU법 담당)은 “사이버보안법 개정으로 EU는 통합된 사이버보안 인증 체계를 구축하게 됐으며, 회원국별 중복 인증으로 인한 시간과 비용이 절감될 것으로 보인다”고 전망했다.&lt;br /&gt;&lt;br /&gt;또한 심 조사관은 “2022년 11월 말 체결된 ‘한-EU 디지털 파트너십 협약’을 활용해 양측의 사이버보안 인증 체계 상호 인정 방안을 모색하고, 글로벌 사이버 위협에 공동 대응할 수 있는 EU와의 협력 체계도 검토할 필요가 있다”고 말했다.&lt;br /&gt;&lt;br /&gt;한국은 사이버보안 인증과 관련해 ‘정보통신망법’ 제47조에 따라 정보보호 관리체계 인증제도를 운영하고 있다. 국내 ICT 기업이 EU 역내에서 원활하게 활동할 수 있도록, 우리나라와 EU 간 사이버보안 인증 체계의 상호 인정에 대한 협력이 필요하다는 지적이다.&lt;br /&gt;&lt;br /&gt;장지원 국회도서관 법률정보실장은 “사이버 위협과 공격은 국경을 초월해 발생하는 만큼 국제 협력이 중요하다”며 “사이버 위협에 대한 국제적 공동 대응 체계 구축 방안을 모색하는 데 EU의 입법례가 좋은 참고가 되기를 바란다”고 말했다.&lt;br /&gt;&lt;br /&gt;이번에 발간된 자료 원문은 국회 전자도서관 등에서 확인할 수 있다.</description>
+			<pubDate>Fri, 02 May 2025 12:34:21 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/207736</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/207736</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/207736.jpg</media:thumbnail>
+			<dc:creator>조한주 기자</dc:creator>
+		</item>
+		<item>
+			<title>이재명 허위사실 공표 파기환송심, 서울고법 형사7부에 배당</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/207731.jpg" alt="3453637838.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: left; font-size:14px; line-height: 1.6em"&gt;조희대 대법원장을 비롯한 대법관들이 5월 1일 서울 서초구 대법원에서 더불어민주당 이재명 대선 후보의 공직선거법 위반 사건 상고심 선고를 위해 참석해 있다. 《사진=연합뉴스》&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;대법원에서 유죄 취지로 파기환송된&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="9300"&gt;이재명&amp;nbsp;&lt;/span&gt;더불어민주당 대선 후보의 공직선거법상 허위사실공표 사건 새 항소심(&lt;b&gt;2025노1238&lt;/b&gt;)이 5월 2일 서울고법 형사7부에 배당됐다. 대법원 전원합의체가 5월 1일&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="9300"&gt;이재명&amp;nbsp;&lt;/span&gt;후보에게 무죄를 선고한 항소심 판결을 유죄 취지로 파기환송한 지 하루 만이다.&lt;br /&gt;&lt;br /&gt;서울고법은 1일 오전 대법원으로부터 소송기록을 송부받아 배당 절차를 진행했다. 배당은 기존 항소심을 진행한 형사6부의 대리부인 형사7부로 정해졌다. 형사 7부는 재판장인&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="9308"&gt;이재권&lt;/span&gt;(56·사법연수원 23기) 부장판사와&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="10346"&gt;박주영&lt;/span&gt;(51·33기),&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="13710"&gt;송미경&lt;/span&gt;(45·35기) 고법판사로 구성돼 있다. 주심은&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="13710"&gt;송미경&amp;nbsp;&lt;/span&gt;고법판사다. &lt;br /&gt;&lt;br /&gt;재판부는 조만간 첫 재판 기일을 지정할 예정이다. 대법원이 이번 사건을 신속히 처리한 점을 감안하면 서울고법도 심리에 속도를 낼 가능성이 있다는 분석도 있다. 하지만 통상 파기환송심은 접수부터 판결까지 한 달 이상 소요돼 대선 전 선고는 쉽지 않다는 전망이 나온다. 파기환송심 선고 이후에도&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="9300"&gt;이재명&amp;nbsp;&lt;/span&gt;후보가 상고할 가능성이 커 대선 전 최종 확정 판결은 어려울 것이라는 관측이 지배적이다.&lt;br /&gt;&lt;br /&gt;공직선거법상 후보자는 벌금 100만 원 이상 형이 확정될 경우 피선거권을 박탈당한다. 1심은 이 후보에게 징역 1년에 집행유예 2년을 선고했다. 항소심은 1심 판단을 뒤집고 무죄 판단을 내렸지만, 대법원은 다시 1심 판결 취지대로 유죄로 판단했다. &lt;br /&gt;&lt;br /&gt;이 후보는 공직선거법 사건 외에도 위증교사 혐의 항소심, 대장동·위례·백현동·성남FC 사건, 쌍방울 대북 송금, 법인카드 사적 유용 등 5건의 재판을 받고 있다.</description>
+			<pubDate>Fri, 02 May 2025 12:31:35 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/207731</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/207731</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/207731.jpg</media:thumbnail>
+			<dc:creator>안재명 기자</dc:creator>
+		</item>
+		<item>
 			<title>검찰, '삼성전자 반도체 핵심기술 유출' 공범 구속기소</title>
 			<description>검찰이 삼성전자의 반도체 핵심 기술을 중국 경쟁사에 유출한 혐의로 징역 7년을 선고 받은 삼성전자 전직 부장 사건과 관련된 공범을 추가로 재판에 넘겼다. &lt;br /&gt;&lt;br /&gt;서울중앙지검 정보기술범죄수사부(부장검사&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="13365"&gt;안동건&lt;/span&gt;)는 2일 산업기술의 유출 방지 및 보호에 관한 법률 위반 등 혐의로 삼성전자 엔지니어 출신 전모씨를 구속기소했다고 밝혔다. &lt;br /&gt;&lt;br /&gt;전 씨는 삼성전자를 퇴직한 뒤 중국 반도체회사 창신메모리테크놀로지(CXMT)로 이직 후 삼성전자의 D램 공정 국가핵심기술을 무단 유출해 사용한 혐의를 받는다. &lt;br /&gt;&lt;br /&gt;창신메모리테크놀로지는 중국 지방정부가 2조6000억원을 투자해 설립한 중국 최초의 D램 반도체회사다. &lt;br /&gt;&lt;br /&gt;이번 기소는 지난해 1월 삼성전자 전직 부장 김모씨가 같은 혐의로 구속 기소된 사건에 대한 추가 수사를 통해 확인된 결과다. &lt;br /&gt;&lt;br /&gt;검찰은 전 씨와 김 씨가 삼정전자의 D램 개발 계획을 위해 기술 확보 및 핵심인력 영입을 공모했으며, 위장 회사를 통한 입사와 체포 대비용 암호 전달 방식까지 사전에 준비하는 등 체계적으로 범행을 계획한 것으로 보고 있다.&lt;br /&gt;&lt;br /&gt;실제로 이들은 출국금지나 체포 시 단체 대화방에 '♡♡♡♡'라는 메시지를 남기기로 합의한 정황도 드러났다.&lt;br /&gt;&lt;br /&gt;전 씨는 창신메모리테크놀로지(CXMT)로부터 사이닝 보너스 3억원, 스톡옵션 3억원 등 약 6년간 총 29억원 상당의 금전적 대가를 받은 것으로 확인됐다. &lt;br /&gt;&lt;br /&gt;이로 인해 삼성전자는 2024년 추정 매출감소액만 수조원에 달하는 등, 장기적으로는 수십조 원 규모의 손해가 발생할 수 있다는 우려가 제기된다.&lt;br /&gt;&lt;br /&gt;검찰 관계자는 "기술 유출로 인한 피해는 해당 기업뿐 아니라 국가 경제 전반에 심대한 영향을 미친다"며 "피해 기업과 국가 산업을 보호하기 위해 기술 유출 범죄에 대해 엄정하게 대응할 것"이라고 말했다.&lt;br /&gt;&lt;br /&gt;검찰은 현재 삼성전자의 기술 자료를 유출한 또 다른 공범에 대해 인터폴을 통해 추적 중이다.</description>
 			<pubDate>Fri, 02 May 2025 03:33:25 -0000</pubDate>
@@ -142,16 +190,6 @@
 			<dc:creator>인터넷 기자</dc:creator>
 		</item>
 		<item>
-			<title>[속보] 대법 "선거인 판단에 영향 줄 구체적, 핵심적 내용 해당"</title>
-			<description>&lt;br /&gt;&lt;p style="text-align: center; "&gt;&amp;nbsp;&lt;/p&gt;&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/thumb/180/207710.jpg" alt="lawtimes.jpg" style="text-align: start;" /&gt;&lt;/p&gt;</description>
-			<pubDate>Thu, 01 May 2025 06:17:15 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/207710</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/207710</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/207710.jpg</media:thumbnail>
-			<dc:creator>인터넷 기자</dc:creator>
-		</item>
-		<item>
 			<title>[속보] 대법 "백현동 관련 발언 사실 적시… 단순 과장된 표현 아니다"</title>
 			<description>&lt;p style="text-align: center; "&gt;   &lt;img src="https://image.lawtimes.co.kr/thumb/180/207709.jpg" alt="lawtimes.jpg" style="text-align: start;" /&gt;&lt;/p&gt;</description>
 			<pubDate>Thu, 01 May 2025 06:15:02 -0000</pubDate>
@@ -198,44 +236,6 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/207693</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/207693.jpg</media:thumbnail>
 			<dc:creator>이진영 기자</dc:creator>
-		</item>
-		<item>
-			<title>검찰, '대출 대가 금품수수 혐의' LS증권 전 본부장 구속기소</title>
-			<description>검찰이 시행사에 대출을 해준 대가로 수억원대 금품을 수수한 혐의를 받는 LS증권 전 임원을 구속 상태로 재판에 남겼다.&lt;br /&gt;&lt;br /&gt;서울중앙지검 반부패수사3부(부장검사&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="14589"&gt;이승학&lt;/span&gt;)는 30일 특정경제범죄 가중처벌 등에 관한 법률 위반(수재 등) 혐의 등으로 LS증권 전 본부장 남모씨와 신한은행 차장 진모씨를 구속 기소했다. &lt;br /&gt;&lt;br /&gt;이들에게 금품을 건넨 혐의를 받는 부동산 시행 업체 대표 김모씨도 특정경제범죄 가중처벌 등에 관한 법률 위반(증재 등)혐의로 불구속 기소됐다.&lt;br /&gt;&lt;br /&gt;검찰은 LS증권 임직원이 내부 정보를 활용해 부당 이득을 취했다는 의혹을 들여다보는 과정에서 남 씨의 범죄 정황을 추가 포착한 것으로 알려졌다.&lt;br /&gt;&lt;br /&gt;검찰 조사에 따르면 남 씨는 2018년부터 2022년까지 시행사들에 대출을 해주고, 그 대가로 수억원대 금품을 수수한 혐의를 받는다.</description>
-			<pubDate>Wed, 30 Apr 2025 09:58:18 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/207692</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/207692</guid>
-			<dc:creator>우빈 기자</dc:creator>
-		</item>
-		<item>
-			<title>대한변협 "SKT, 2500만 명 개인정보 유출…보상 체계 구축 및 징벌적 손해배상 도입해야"</title>
-			<description>SK텔레콤에서 약 2500만 명에 달하는 가입자의 유심 정보가 유출된 사태와 관련해 대한변호사협회(협회장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="32148"&gt;김정욱&lt;/span&gt;)가 강도 높은 비판과 함께 기업 책임 강화를 위한 제도 개선을 촉구하고 나섰다.&lt;br /&gt;&lt;br /&gt;대한변협은 30일 성명을 통해 "이번 유출은 단순한 기업 보안 사고가 아니라 헌법이 보장하는 국민의 개인정보 자기결정권이 침해된 중대한 사안"이라며 "국민의 생활과 직결된 민감 정보가 유출된 만큼 SKT는 물론 정부와 국회가 총체적 대응에 나서야 한다"고 강조했다.&lt;br /&gt;&lt;br /&gt;이어 "유출 범위와 항목조차 명확히 공개되지 않았고 유심 보호 서비스 역시 전 이용자에게 일괄 제공하지 않고 신청자에 한해 제공하고 있어 형평성 문제까지 제기되고 있다"며 "SKT의 대응은 책임 있는 자세와는 거리가 멀다"고 지적했다.&lt;br /&gt;&lt;br /&gt;대한변협은 SKT에 대해 다음과 같은 조치를 촉구했다. △전 이용자 대상 유심 보호 서비스 일괄 제공 △모든 피해자에게 최소 5년간 신원 보호 및 신용 모니터링 서비스 제공 △자비로 유심을 교체한 이용자에 대한 비용 환급 △추가 재산 피해에 대한 보상 체계 구축 등이다.&lt;br /&gt;&lt;br /&gt;아울러 대한변협은 반복되는 개인정보 유출의 근본 원인으로 기업이 사고 이후 배상하게 될 금액이 개인정보 보호에 투입할 비용보다 적기 때문이라고 진단했다. 미국 등 해외 사례를 언급하며 "해외에서는 유출 기업에 막대한 징벌적 손해배상이 부과돼 실질적 억지력이 작동하고 있다"고 설명했다.&lt;br /&gt;</description>
-			<pubDate>Wed, 30 Apr 2025 09:57:19 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/207691</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/207691</guid>
-			<dc:creator>안현 기자</dc:creator>
-		</item>
-		<item>
-			<title>대한변협, 산불 피해 이재민에 1억 원 기부</title>
-			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/207690.jpg" alt="345346475687683553454.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;대한변호사협회(협회장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="32148"&gt;김정욱&lt;/span&gt;)는 울산·경북·경남 지역을 중심으로 발생한 대규모 산불로 피해를 입은 이재민들을 지원하고자 대한적십자사(회장 김철수)에 성금 1억 원을 전달했다고 30일 밝혔다.&lt;br /&gt;&lt;br /&gt;이번 성금은 대한변협과 지방변호사회, 전국의 개인회원 및 법무법인 등이 뜻을 모아 마련한 것이다. &lt;br /&gt;&lt;br /&gt;전달된 성금은 대한적십자사를 통해 피해 복구와 생계 지원 등 이재민 지원에 사용된다.&lt;br /&gt;&lt;br /&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="32148"&gt;김정욱&lt;/span&gt;(46·변호사시험 2회) 협회장은 "예기치 못한 재난으로 인해 소중한 일상을 잃은 이재민 여러분께 위로의 말씀을 드린다"며 "이번 성금이 다시 일어설 수 있는 작은 희망이 되기를 바란다"고 밝혔다.&lt;br /&gt;&lt;br /&gt;변협 관계자는 "법률가단체로서의 전문성과 책임감을 바탕으로 법률 지원과 인권 보호 활동을 지속적으로 이어갈 것"이라고 말했다.</description>
-			<pubDate>Wed, 30 Apr 2025 09:56:21 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/207690</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/207690</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/207690.jpg</media:thumbnail>
-			<dc:creator>안현 기자</dc:creator>
-		</item>
-		<item>
-			<title>법학협 졸업생회, '신입회원 환영회 및 진로 세미나' 개최</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/207689.jpg" alt="45647484.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: left; font-size:14px; line-height: 1.6em"&gt;법학전문대학원학생협의회 졸업생회가 29일 신입회원 환영회 및 진로 세미나 후 기념 촬영을 하고 있다. 《사진=법학협 졸업생회》&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;법학전문대학원학생협의회 졸업생회(회장 신경철)는 서울 서초구 서초동 대한변호사협회회관 세미나 2실에서 4월 29일 '신입회원 환영회 및 진로 세미나'를 개최했다.&lt;br /&gt;&lt;br /&gt;행사 1부는 개회사와&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="32148"&gt;김정욱&lt;/span&gt;(45·변호사시험 2회) 대한변호사협회장의 축사로 시작했다. 김 회장은 "새롭게 법조인의 길에 들어선 것을 환영한다"며 "다양한 프로그램과 멘토링 기회를 통해 전문성과 윤리성을 겸비한 법조인으로 성장할 수 있도록 적극 지원하겠다"고 말했다.&lt;br /&gt;&lt;br /&gt;2부에서는 신입 회원들의 진로 설정을 위한 다양한 프로그램들이 진행됐다. △로펌 채용 설명회 △송무 및 공익 분야 진로 특강 △자기소개서 및 면접 전략 강의 등이 이어졌다. 진로 특강은 '송무 변호사의 진로', '국선전담 공익변호사', '공익변호사의 길'을 주제로 진행됐다.&lt;br /&gt;&lt;br /&gt;법학협 졸업생회 관계자는 "이번 환영회는 신입회원들에게 실질적인 도움이 되는 자리였다"며 "앞으로도 졸업생 간 네트워크 강화와 진로 지원을 위해 꾸준히 노력하겠다"고 말했다.&lt;br /&gt;&lt;br /&gt;법학협 졸업생회는 로스쿨 졸업생들의 친목도모와 권익신장을 위해 지난 2015년 출범해, 로스쿨 학생회장 출신 법조인들을 중심으로 약 250여 명의 회원이 참여하고 있다.</description>
-			<pubDate>Wed, 30 Apr 2025 09:55:09 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/207689</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/207689</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/207689.jpg</media:thumbnail>
-			<dc:creator>서하연 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
