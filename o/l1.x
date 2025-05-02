@@ -6,6 +6,44 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>검찰, '삼성전자 반도체 핵심기술 유출' 공범 구속기소</title>
+			<description>검찰이 삼성전자의 반도체 핵심 기술을 중국 경쟁사에 유출한 혐의로 징역 7년을 선고 받은 삼성전자 전직 부장 사건과 관련된 공범을 추가로 재판에 넘겼다. &lt;br /&gt;&lt;br /&gt;서울중앙지검 정보기술범죄수사부(부장검사&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="13365"&gt;안동건&lt;/span&gt;)는 2일 산업기술의 유출 방지 및 보호에 관한 법률 위반 등 혐의로 삼성전자 엔지니어 출신 전모씨를 구속기소했다고 밝혔다. &lt;br /&gt;&lt;br /&gt;전 씨는 삼성전자를 퇴직한 뒤 중국 반도체회사 창신메모리테크놀로지(CXMT)로 이직 후 삼성전자의 D램 공정 국가핵심기술을 무단 유출해 사용한 혐의를 받는다. &lt;br /&gt;&lt;br /&gt;창신메모리테크놀로지는 중국 지방정부가 2조6000억원을 투자해 설립한 중국 최초의 D램 반도체회사다. &lt;br /&gt;&lt;br /&gt;이번 기소는 지난해 1월 삼성전자 전직 부장 김모씨가 같은 혐의로 구속 기소된 사건에 대한 추가 수사를 통해 확인된 결과다. &lt;br /&gt;&lt;br /&gt;검찰은 전 씨와 김 씨가 삼정전자의 D램 개발 계획을 위해 기술 확보 및 핵심인력 영입을 공모했으며, 위장 회사를 통한 입사와 체포 대비용 암호 전달 방식까지 사전에 준비하는 등 체계적으로 범행을 계획한 것으로 보고 있다.&lt;br /&gt;&lt;br /&gt;실제로 이들은 출국금지나 체포 시 단체 대화방에 '♡♡♡♡'라는 메시지를 남기기로 합의한 정황도 드러났다.&lt;br /&gt;&lt;br /&gt;전 씨는 창신메모리테크놀로지(CXMT)로부터 사이닝 보너스 3억원, 스톡옵션 3억원 등 약 6년간 총 29억원 상당의 금전적 대가를 받은 것으로 확인됐다. &lt;br /&gt;&lt;br /&gt;이로 인해 삼성전자는 2024년 추정 매출감소액만 수조원에 달하는 등, 장기적으로는 수십조 원 규모의 손해가 발생할 수 있다는 우려가 제기된다.&lt;br /&gt;&lt;br /&gt;검찰 관계자는 "기술 유출로 인한 피해는 해당 기업뿐 아니라 국가 경제 전반에 심대한 영향을 미친다"며 "피해 기업과 국가 산업을 보호하기 위해 기술 유출 범죄에 대해 엄정하게 대응할 것"이라고 말했다.&lt;br /&gt;&lt;br /&gt;검찰은 현재 삼성전자의 기술 자료를 유출한 또 다른 공범에 대해 인터폴을 통해 추적 중이다.</description>
+			<pubDate>Fri, 02 May 2025 03:33:25 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/207730</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/207730</guid>
+			<dc:creator>우빈 기자</dc:creator>
+		</item>
+		<item>
+			<title>화우 이준우 변호사, 환태평양변호사회 동남아 지역총괄로 선임</title>
+			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/thumb/180/207729.jpg" alt="3453738.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="7976"&gt;이준우&lt;/span&gt;(55·사법연수원 30기) 법무법인 화우 변호사(국제법무팀장)가 환태평양변호사회(IPBA) 동남아 지역총괄(SEA Regional Coordinator)로 선임됐다. &lt;br /&gt;&lt;br /&gt;화우는&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="7976"&gt;이준우&amp;nbsp;&lt;/span&gt;변호사가 4월 23~26일 미국 시카고에서 열린 제23회 IPBA 연차총회에서 해당 직책을 맡게 됐다고 5월 2일 밝혔다.&lt;br /&gt;&lt;br /&gt;IPBA 지역총괄담당은 호주/남태평양, 동아시아, 하와이/남태평양, 중동, 동남아 등 5개 권역별로 1명씩 선임되며, 각 권역의 회원 관리를 비롯해 회장을 보좌하는 역할을 수행한다.&lt;br /&gt;&lt;br /&gt;1991년 출범한 IPBA는 아시아·태평양 지역 변호사를 중심으로 창립된 국제 변호사 단체로, 현재 65개국 1500여 명의 변호사가 회원으로 활동 중이다. 서울에서는 2004년과 2013년 두 차례 총회가 열렸다.&lt;br /&gt;&lt;br /&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="7976"&gt;이준우&amp;nbsp;&lt;/span&gt;변호사는 한국과 뉴욕주 변호사 자격을 모두 보유하고 있으며, 베트남 등록 외국변호사이기도 하다. 외국기업의 국내 투자 및 국내기업의 해외 투자, M&amp;A, 합작투자 등에서 25년 넘는 경력을 쌓아왔다. 또한 대한상사중재원 국제중재인으로 활동 중이며, 대한변호사협회 국제위원회 부위원장 등을 역임한 바 있다.&lt;br /&gt;&lt;br /&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="7976"&gt;이준우&amp;nbsp;&lt;/span&gt;변호사는 "IPBA의 동남아 지역총괄로 선임돼 어깨가 무겁다"며 "미국, 유럽 변호사들에 이어 한국과 일본 변호사들, 그리고 중국 변호사들도 동남아 지역에서의 활동이 늘고 있으므로, 그간의 업무 경험과 노하우를 바탕으로 환태평양변호사회(IPBA)가 각국 변호사들 사이의 교류와 상호 이해를 증진하는 장이 될 수 있도록 힘을 보탤 것"이라고 소감을 밝혔다.</description>
+			<pubDate>Fri, 02 May 2025 03:32:38 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/207729</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/207729</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/207729.jpg</media:thumbnail>
+			<dc:creator>안재명 기자</dc:creator>
+		</item>
+		<item>
+			<title>이성범 서울대 로스쿨 교수, '제18회 심당 국제거래 학술상' 수상</title>
+			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/207726.jpg" alt="346378383.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;이성범 서울대 로스쿨 교수가 제18회 심당 국제거래 학술상을 수상했다.&lt;br /&gt;&lt;br /&gt;국제거래법학회(회장 백윤재)는 4월 30일 서울 강남구 삼성동 법무법인 율촌 렉처홀에서 시상식을 열고 이성범 교수에게 심당학술상을 수여했다. 수상작은 그의 논문 〈국제물품매매계약에 관한 국제연합 협약(CISG) 제35조의 해석에서 윤리적 기준의 고려〉이다.&lt;br /&gt;&lt;br /&gt;심사위원장을 맡은 안강현 연세대 로스쿨 교수는 "이 논문은 국제물품매매계약에서의 물품적합성의 문제를 인권이나 노동조건, 환경 문제 등의 윤리적 기준에 의해 재해석하고자 시도하고 있다"며 "특히 아동의 노동 착취나 환경 보호의 문제와 같은 새로이 대두되는 윤리적 이슈에 대해 공법적 규제 외에도 사법의 차원에서 글로벌 기업에 법적 책임을 묻고자 하는 주제 의식과 논리 전개의 참신성이 돋보였다"고 심사평을 밝혔다.&lt;br /&gt;&lt;br /&gt;이성범 교수는 수상소감을 통해 "ESG 내지 기업의 사회적 책임 등과 관련해 유럽에서 어느 정도 관련 논의가 진행됐지만, 아직 논란의 여지는 있다"며 "특히 물품의 형식적, 물리적 성상에 아무런 문제가 없음에도 이러한 윤리적 기준에 따른 계약부적합성 판단은 자칫 사법적 질서의 지나친 윤리화 내지 정치화를 초래하는 것은 아닌지 의문이 들기도 한다"고 말했다. &lt;br /&gt;&lt;br /&gt;이어 "그럼에도 윤리적 기준 준수와 관련된 법률들이 기업의 이해관계로 인해 여러모로 성긴 측면들을 보며 계약관계에 직결된 책임을 구성할 방법이 없을지 고민해 보게 됐고, 민법의 차원을 벗어나 고유한 국제적 질서 형성에 기여하는 CISG의 영역에서 그러한 책임 구성이 가능한지를 검토하며 논문을 작성하게 됐다"고 밝혔다. &lt;br /&gt;&lt;br /&gt;심당(心堂) 학술상은 국제거래법학회의 초대 회장이자 한국인 최초로 국제형사재판소(ICC) 소장을 지낸&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="4547"&gt;송상현&lt;/span&gt;(84·고시 16회) 서울대 로스쿨 명예교수의 학문적 업적을 기리기 위해 2007년 제정됐다. 심당은 송 명예교수의 아호이다.&lt;br /&gt;</description>
+			<pubDate>Fri, 02 May 2025 03:31:01 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/207726</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/207726</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/207726.jpg</media:thumbnail>
+			<dc:creator>안재명 기자</dc:creator>
+		</item>
+		<item>
+			<title>검찰 특경비 복원…법무부 "국민 보호 역할 다하도록 지원"</title>
+			<description>법무부는 검찰 특정업무경비(특경비) 예산이 복원된 것에 대해 "국민 안전을 위협하는 범죄에 효율적으로 대처할 수 있는 토대가 마련됐다"며 환영 입장을 냈다.&lt;br /&gt;&lt;br /&gt;법무부는 2일 "지난해 국회 예산 심사 과정에서 검찰의 특수활동비(80억)와 특정업무경비(506.9억) 예산이 전액 삭감됨에 따라 검사와 수사관들이 수사 및 형집행 과정에서 자비를 지출하는 등 상당한 어려움을 겪었다"고 밝혔다.&lt;br /&gt;&lt;br /&gt;이어 "다행히 어제 국회에서 특경비를 복원하는 내용의 추가경정예산이 통과되어, 검찰이 마약, 보이스피싱, 딥페이크 등 국민의 안전을 위협하는 범죄에 효율적으로 대처할 수 있는 토대가 마련됐다"고 했다.&lt;br /&gt;&lt;br /&gt;국회는 전날 여야 합의로 13조 8000억원 규모의 추가경정예산(추경)안을 처리하면서 검찰 특경비 예산 506억 9000만원도 복원시켰다.&lt;br /&gt;&lt;br /&gt;법무부는 "복원된 예산을 활용해 검찰이 범죄로부터 국민의 안전을 보호하는 본연의 역할을 충실히 수행할 수 있도록 적극 지원하겠다"며 "예산 집행의 투명성 확보에도 만전을 기할 것"이라고 강조했다.</description>
+			<pubDate>Fri, 02 May 2025 03:28:16 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/207725</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/207725</guid>
+			<dc:creator>우빈 기자</dc:creator>
+		</item>
+		<item>
 			<title>【오늘의 법조】 2025년 5월 2일</title>
 			<description>&lt;p style="text-align: center;"&gt;&lt;b&gt;[법원]&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;&amp;nbsp;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;▷'직권남용권리행사방해 등 혐의' 서훈 전 국가안보실장 외 4명 51차 공판&lt;/b&gt;&lt;/p&gt;&lt;p&gt;-오전 10시, 서울중앙지법&lt;/p&gt;&lt;p&gt;&lt;b&gt;&lt;br /&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;▷'특정경제범죄가중처벌등에관한법률위반(횡령) 등 혐의' 박모 씨 외 2명 2차 공판&lt;/b&gt;&lt;/p&gt;&lt;p&gt;-오전 10시, 서울중앙지법&lt;/p&gt;&lt;p&gt;&lt;b&gt;&lt;br /&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;▷'자본시장과금융투자업에관한법률위반 혐의' 배재현 전 카카오 투자총괄대표 외 9명 공판&lt;/b&gt;&lt;/p&gt;&lt;p&gt;-오전 10시 10분, 서울남부지법&lt;/p&gt;&lt;p&gt;&lt;b&gt;&lt;br /&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;▷'특정경제범죄가중처벌등에관한법률위반(배임)등 혐의' 등 홍원식 전 남양유업 회장 외 5명 2차 공판&lt;/b&gt;&lt;/p&gt;&lt;p&gt;-오후 2시, 서울중앙지법&lt;/p&gt;&lt;p&gt;&lt;b&gt;&lt;br /&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;▷'부패방지및국민권익위원회의설치와운영에관한법률위반 혐의' 유동규 외 4명 19차 공판&lt;/b&gt;&lt;/p&gt;&lt;p&gt;-오후 2시, 서울중앙지법&lt;/p&gt;&lt;p&gt;&lt;b&gt;&lt;br /&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;▷방송문회진흥회 외 1명-감사원 국민감사실시 결정 처분 취소 청구 소송 선고&lt;/b&gt;&lt;/p&gt;&lt;p&gt;-오후 2시, 서울고법&lt;/p&gt;&lt;p&gt;&lt;b&gt;&lt;br /&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;▷김유진-대통령 외 1명 방심위원 해촉처분취소 등 소송 선고&lt;/b&gt;&lt;/p&gt;&lt;p&gt;-오후 2시, 서울행정법원&lt;/p&gt;&lt;p&gt;&lt;b&gt;&lt;br /&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;▷김모 씨 외 3명-한석범 외 1명 BYC 오너가 유류분반환청구 소송 8차 변론&lt;/b&gt;&lt;/p&gt;&lt;p&gt;-오후 4시, 서울중앙지법&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;hr style="border-width: 2px 0px 0px; border-color: lightgray;" /&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p style="font-weight: 700; text-align: center;"&gt;&lt;b&gt;[오늘의 PICK]&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;&lt;br /&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;▷'유죄 취지 파기' 이재명 사건, 6·3 대선 전까지 결론 날까&lt;/b&gt;&lt;/p&gt;&lt;p&gt;대법원이 5월 1일 이재명 더불어민주당 대통령선거 후보의 공직선거법 위반 사건에 대해 유죄 취지로 파기환송하면서 6월 3일로 예정된 제21대 대통령선거 전까지 법원의 확정 판결이 나올지에 관심이 모이고 있다. 법조에서는 6·3 대선 전까지 확정 판결이 나오기는 어려울 수 있다는 전망이 나오고 있다.&lt;/p&gt;&lt;p style="text-align: center;"&gt;&amp;nbsp;&lt;/p&gt;&lt;p style="text-align: center;"&gt;&lt;span style="color: #994c00; background-color: #ffe5cc;"&gt;&lt;a href="https://www.lawtimes.co.kr/news/207718" target="_blank" style=""&gt;&lt;b&gt;☞ 기사보기 ☜&lt;/b&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style="text-align: center;"&gt;&lt;b&gt;&amp;nbsp;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;▷"재판 지연 부르는 증거신청 기각"&lt;/b&gt;&lt;/p&gt;&lt;p&gt;쟁점이 많고 방대한 양의 증거가 제출되는 복잡한 형사 사건에서 검사가 증거 신청 단계에서부터 증거 목록에 입증 취지를 구체적으로 기재해야 한다는 법원 내부 의견이 나왔다. 법정책연구원(원장 이승련)은 4월 7일 발간한 ‘공판중심주의의 적정한 운영방안 - 복잡한 형사사건을 중심으로’ 제목의 연구보고서에서 이 같이 제안했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p style="text-align: center;"&gt;&lt;span style="color: #994c00; background-color: #ffe5cc;"&gt;&lt;b&gt;&lt;a href="https://www.lawtimes.co.kr/news/207661" target="_blank"&gt;☞ 기사보기 ☜&lt;/a&gt;&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style="text-align: center;"&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
 			<pubDate>Thu, 01 May 2025 22:39:15 -0000</pubDate>
@@ -124,26 +162,6 @@
 			<dc:creator>인터넷 기자</dc:creator>
 		</item>
 		<item>
-			<title>[속보] "이재명 골프 발언, 허위사실 공표 해당"</title>
-			<description>&lt;p style="text-align: center; "&gt;   &lt;br /&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/207708.jpg" alt="lawtimes.jpg" style="text-align: start;" /&gt;&lt;br /&gt;&lt;/p&gt;&lt;br /&gt;</description>
-			<pubDate>Thu, 01 May 2025 06:10:42 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/207708</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/207708</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/207708.jpg</media:thumbnail>
-			<dc:creator>인터넷 기자</dc:creator>
-		</item>
-		<item>
-			<title>[속보] 허위의 사실은 진실에 부합하지 않는 사안으로서 후보자에 대한 정확한 판단 그르칠 정도 구체성 갖추면 충분</title>
-			<description>&lt;p style="text-align: center; "&gt;&lt;br /&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/207707.jpg" alt="lawtimes.jpg" style="text-align: start;" /&gt;&lt;br /&gt;&lt;/p&gt;&lt;br /&gt;</description>
-			<pubDate>Thu, 01 May 2025 06:06:46 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/207707</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/207707</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/207707.jpg</media:thumbnail>
-			<dc:creator>인터넷 기자</dc:creator>
-		</item>
-		<item>
 			<title>【오늘의 국회일정】 2025년 5월 1일</title>
 			<description>&lt;b&gt;◇의원실 세미나&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;09:30 김소희 의원실 등, 경북 초대형 산불 이후 한 달, 복구 현황과 향후 대책 토론회(의원회관 제9간담회의실)&lt;br /&gt;&lt;br /&gt;10:00 김현정 의원실 등, 금융감독체계 개혁을 위한 전문가토론회 : 소비자중심 감독체계 도입의 전망과 과제(의원회관 306호)&lt;br /&gt;&lt;br /&gt;10:00 민병덕 의원실, 디지털자산 기본법 1호 법안 2차 리뷰(의원회관 제10간담회의실)&lt;br /&gt;&lt;br /&gt;10:00 박수현 의원실 등, 새로운 문화예술의 시대, 왜 사진인가(의원회관 제1소회의실)&lt;br /&gt;&lt;br /&gt;10:00 이언주 의원실 등, 제21대 대통령선거의 의의와 국민통합 방안(의원회관 제4간담회의실)&lt;br /&gt;&lt;br /&gt;14:00 김현정 의원실 등, 정부출연연 지배구조 개편 국회 정책토론회(의원회관 제7간담회의실)&lt;br /&gt;&lt;br /&gt;15:00 추미애 의원실 등, [차기 정부 국가개혁과제 긴급토론회] 4대 권력기관의 민주적 통제 강화 방안(의원회관 제1세미나실)&lt;b&gt;&lt;br /&gt;&lt;/b&gt;&lt;b&gt;&lt;br /&gt;◇소통관 기자회견&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;09:00 김소희 의원, [정책 현안 관련 기자회견]&lt;br /&gt;&lt;br /&gt;10:00 황명선 의원, [주요 현안 관련 기자회견]&lt;br /&gt;&lt;br /&gt;10:40 조배숙 의원, [교육 현장의 정치적 이념화·거점화 중단 및 관련 법안 제정 촉구 기자회견]&lt;br /&gt;&lt;br /&gt;11:00 안상훈 의원, [정책 비전 발표 기자회견]&lt;br /&gt;&lt;br /&gt;11:20 김재연 진보당 상임대표, [김재연 대선후보 노동공약 발표 기자회견]&lt;br /&gt;&lt;br /&gt;11:40 이강일 의원, [이민 전담기관 신설 기자회견]&lt;br /&gt;&lt;br /&gt;13:20 김현 의원, [더불어민주당 팩트체크넷 민주파출소 일일 브리핑]&lt;br /&gt;&lt;br /&gt;13:40 박은정 의원, [주요 현안 관련 기자회견]&lt;br /&gt;&lt;br /&gt;14:20 안상훈 의원, [현안 관련 기자회견]&lt;br /&gt;&lt;br /&gt;15:00 정일영 의원, [내란은폐 및 알박기 인사 저지 특별위원회 기자회견]&lt;br /&gt;&lt;br /&gt;17:00 윤상현 의원, [현안 관련 기자회견]&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;b&gt;&lt;span style="font-size: 14px;"&gt;※ 상기 일정은 사정에 따라 변경될 수 있습니다.&lt;/span&gt;&lt;/b&gt;&lt;br /&gt;</description>
 			<pubDate>Wed, 30 Apr 2025 22:38:47 -0000</pubDate>
@@ -218,26 +236,6 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/207689</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/207689.jpg</media:thumbnail>
 			<dc:creator>서하연 기자</dc:creator>
-		</item>
-		<item>
-			<title>지평, 인도 로펌 Khaitan &amp; Co와 인도 지출 전략 관련 세미나 공동 개최</title>
-			<description>&lt;p style="text-align: center; "&gt;   &lt;img src="https://image.lawtimes.co.kr/thumb/180/207685.jpg" alt="345363.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p style="text-align: left;"&gt;   &lt;b&gt;&lt;a href="https://www.jipyong.com/kr/main/main.php" target="_blank"&gt;법무법인 지평&lt;/a&gt;&lt;/b&gt;(대표변호사&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="2162"&gt;김지홍&lt;/span&gt;·&lt;span style="font-weight: bold;" class="lawmanlink" serial="7965"&gt;이행규&lt;/span&gt;)은 5월 13일 오후 3시 서울 중구 회현동  그랜드센트럴 오디토리움에서 인도 로펌 '카이탄 앤 코'(Khaitan &amp; Co)와 '인도 진출 전략 및 분쟁 대응' 세미나를 공동 개최한다.&lt;/p&gt;&lt;br /&gt;세미나는 불확실성이 가중되고 있는 글로벌 경제 환경 속에서 해외 사업을 고려하는 국내 기업들이 인도의 투자 환경에 대해 이해하고, 분쟁을 사전에 대응할 수 있는 방안 등을 논의하고자 마련했다.&lt;br /&gt;&lt;br /&gt;세미나는 3개 세션으로 진행된다. 첫 번째 세션은 마루베니(Marubeni) 상사의 도요다 다카후이(Toyoda Takafumi)가 ‘인도 주요 투자지역 현황 및 핵심사항’을 주제로, 두 번째 세션은 오규창 외국변호사가 ‘인도 투자 개요 및 분쟁 사례’를 주제로 발표한다. 마지막 세션에는 '카이탄 앤 코'의 비벡 스리람(Vivek Sriram), 비테즈 칠루무리(Ravitej Chilumuri) 변호사가 ‘인도 분쟁 대응 및 계약서 작성 전략’을 주제로 발표한 후, 질의응답 순서로 이어진다.&lt;br /&gt;&lt;br /&gt;'카이탄 앤 코'는 1911년에 설립된 인도 로펌으로 △뉴델리 △노이다 △뭄바이 △벵갈루루 △첸나이 △콜카타 △푸네 △아마다바드 △ 싱가포르 등에 사무소를 두고 있다.&lt;br /&gt;&lt;br /&gt;오규창 외국변호사는 "지평은 인도 진출을 고려하는 한국 기업들이 인도 시장에 성공적으로 진출하고 사업을 확대할 수 있도록 실질적인 도움을 제공할 예정"이라며 "이미 진출한 기업들이 겪을 수 있는 분쟁에 초기부터 함께 대응해 나가도록 하겠다"고 말했다.</description>
-			<pubDate>Wed, 30 Apr 2025 09:52:39 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/207685</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/207685</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/207685.jpg</media:thumbnail>
-			<dc:creator>서하연 기자</dc:creator>
-		</item>
-		<item>
-			<title>'박성재 장관' 조사 검사 사의...검찰 동요 커져</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/207626.jpg" alt="25267.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;《사진=연합뉴스》&lt;/figcaption&gt;   &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;검찰 내 동요가 커지고 있다. 정치 권력으로부터의 ‘압박’이 점점 거세지면서 조직의 미래에 대한 불확실성이 커지자 검사들이 잇따라 이탈하고 있다. 회의감을 표출하는 검찰 구성원들도 늘고 있다고 한다.&lt;p&gt;&amp;nbsp;   &lt;/p&gt;&lt;p&gt;검찰 비상계엄 특별수사본부(본부장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="1054"&gt;박세현&amp;nbsp;&lt;/span&gt;서울고검장)에 파견됐던 검사가 최근 사의를 표명한 것으로 알려졌다. 해당 검사는&amp;nbsp;&lt;span class="lawmanlink" serial="1239" style="font-weight: bold;"&gt;박성재&lt;/span&gt;(62·사법연수원 17기) 법무부 장관을 조사했던 검사다. 해당 검사는 4월 29일 이프로스에 "어디에서나 항상 검찰을 응원하겠습니다"라는 사직 인사를 남겼다.&amp;nbsp;&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;단순한 개인의 사직을 넘어 검찰 조직 전반의 사기가 저하되는 분위기도 감지되고 있다. ‘검찰 조직은 죽었다’는 뜻으로 검정색 상의만 입고 출근하는 법무부 소속의 검사도 있다고 한다. 이 같은 분위기는 의원 면직한 검사의 숫자가 보여 준다. 2025년 1월부터 3월까지 사직한 검사는 40명에 달했다. 이 가운데 경력 10년 이하의 평검사는 약 30%를 차지한다. 업무 경험이 10년 전후의 검사들을 중심으로 ‘언제든 조직을 떠날 수 있다’는 기류가 형성된 것으로 보인다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;검찰 안팎에서는 검사 탄핵이 남발되고 ‘기소청’으로 검찰 권한을 축소해야 한다는 등의 정치권 압박이 이어지면서 검찰 조직이 동요하고 있다고 보고 있다. 여기에 특수활동비와 특정업무경비가 전액 삭감되면서 실질적으로 검찰의 수사 의지를 꺾은 것도 영향을 줬다는 분석이다.&lt;/p&gt;&lt;p&gt;&amp;nbsp; &lt;br /&gt;외풍으로 계속해서 조직에 균열이 갈 경우 검찰의 독립성과 기능 회복이 점점 더 어려워질 수 있다는 우려도 커지고 있다. 검찰의 한 고위 간부는 “조직의 자존심과 정체성에 대한 깊은 고민과 혼란이 내부를 뒤흔들고 있다”고 말했다.&lt;/p&gt;</description>
-			<pubDate>Wed, 30 Apr 2025 08:21:57 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/207626</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/207626</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/207626.jpg</media:thumbnail>
-			<dc:creator>우빈 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
