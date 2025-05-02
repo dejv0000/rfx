@@ -13,6 +13,33 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>치료 부위 아프다며 치과 직원에 흉기 휘두른 60대 구속</title>
+      <link>https://www.chosun.com/national/incident/2025/05/02/ROISJZBC5VB2LMVSA7DVLJLNAA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/05/02/ROISJZBC5VB2LMVSA7DVLJLNAA/</guid>
+      <dc:creator>이승규 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 02 May 2025 13:57:33 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/B6QTCABVSCMLTH2EHHMLFS7VQA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;성남수정경찰서./경기남부경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;치료 부위가 아프다는 이유로 치과에서 흉기를 휘둘러 3명을 다치게 한 60대 남성이 구속됐다.&lt;br&gt;&lt;br&gt;경기 성남수정경찰서는 살인미수 혐의로 60대 남성 A씨를 구속했다고 2일 밝혔다. A씨는 지난달 29일 오전 10시 30분쯤 경기 성남시의 한 치과에서 흉기와 둔기로 병원 직원 B씨 등 3명을 다치게 한 혐의를 받고 있다. &lt;br&gt;&lt;br&gt;B씨는 얼굴을 다친 채로 병원으로 이송돼 약 30바늘을 꿰맨 것으로 알려졌다. 직원 3명 모두 현재까지 생명이 위독한 상태는 아닌 것으로 파악됐다.&lt;br&gt;&lt;br&gt;A씨는 지난해 8월부터 해당 치과에서 임플란트 시술을 받아오다가 치료 부위가 아프다는 이유로 범행을 저지른 것으로 조사됐다.&lt;br&gt;&lt;br&gt;A씨는 미리 도구를 준비하는 등 범행을 사전에 계획한 것으로도 확인됐다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “A씨를 조만간 검찰에 송치할 방침”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>알바몬도 털렸다… “개인 이력서 정보 2만2000건 유출”</title>
+      <link>https://www.chosun.com/national/national_general/2025/05/02/J3FFKKKQ3FF7ZKNOHC565LIKYA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/05/02/J3FFKKKQ3FF7ZKNOHC565LIKYA/</guid>
+      <dc:creator>박선민 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 02 May 2025 12:27:35 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OHVIYP733VNGHI4CBC4O6BIDLA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2일 서울 서초구 알바몬 본사에서 직원들이 오가고 있다. /뉴시스 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;SK텔레콤의 대규모 개인정보 유출 사건 여파가 지속되는 가운데, 아르바이트 구인·구직 플랫폼인 알바몬에서도 해킹 공격으로 2만건 이상의 개인정보가 유출된 것으로 나타났다.&lt;br&gt;&lt;br&gt;알바몬은 2일 홈페이지를 통해 “지난달 30일 이력서 미리보기 기능에서 비정상적 접근과 해킹 시도가 감지됐다”며 “일부 회원들의 임시 저장 이력서 정보가 유출된 것을 확인했다”고 공지했다.&lt;br&gt;&lt;br&gt;유출된 이력서 정보는 총 2만2473건으로 이름, 휴대전화 번호, 이메일 주소 등이 포함됐다고 알바몬은 설명했다. 아이디와 비밀번호는 유출되지 않았다고 한다. 개인정보 유출 피해 여부는 현재 알바몬 홈페이지에 마련된 창을 통해 확인 가능하다. &lt;br&gt;&lt;br&gt;해킹을 시도한 계정과 IP를 차단하는 등 긴급 조치를 완료한 상태이며, 현재까지 2차 피해는 보고되지 않았다고 알바몬은 밝혔다. 알바몬은 “관계 법령에 따라 1일 개인정보보호위원회에 신속히 자진 신고했으며 유출 대상자에게 개별 안내를 진행했다”며 “이번 일을 엄중히 받아들이고 있으며 재발하지 않도록 보안 시스템 전면 재점검 및 개인정보 보호 체계를 대폭 강화하겠다”고 했다. &lt;br&gt;&lt;br&gt;알바몬은 개인정보 유출로 피해를 본 회원들을 대상으로 보상안을 마련하고 있으며 조만간 지급 일정과 지급 방법 등을 문자, 이메일 등을 통해 개별적으로 공지할 계획이다. 알바몬은 “이번 일로 걱정과 불편을 드려 진심으로 사과드린다”고 했다. &lt;br&gt;&lt;br&gt;개인정보위는 알바몬을 운영하는 잡코리아로부터 개인정보 유출 신고가 접수됨에 따라 이날 조사에 착수했다. 개인정보위는 공격 인터넷 프로토콜(IP) 차단과 접근 통제 강화 등 긴급 대응 조치를 확인하고, 개인정보보호법 준수 여부를 조사해 처분할 예정이다. 개인정보위는 “최근 취업 사이트를 대상으로 유출 사고가 연달아 발생하고 있다”며 “이력서엔 신상 정보가 다수 포함된 만큼 보이스피싱이나 스미싱 등 2차 피해가 발생하지 않도록 출처가 불분명한 전화나 메시지에 주의해 달라”고 했다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“아버지가 간암”... 軍 상습 휴가자, 나와서 친구와 게임했다</title>
+      <link>https://www.chosun.com/national/national_general/2025/05/02/YXFM6GIZDRE33PTXTKP6GNUFCE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/05/02/YXFM6GIZDRE33PTXTKP6GNUFCE/</guid>
+      <dc:creator>박선민 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 02 May 2025 12:04:46 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YRAC6UBRR7CQDLIPKIPYLCA2JM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산지방법원 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;군복무 중 아버지가 간암 수술을 받는다고 속여 상습적으로 휴가를 간 20대가 징역형의 집행유예를 선고받았다. &lt;br&gt;&lt;br&gt;부산지법 형사14부(김현석 부장판사)는 공전자기록등위작 등 혐의로 기소된 A씨에게 징역 6개월에 집행유예 2년을 선고하고 80시간의 사회봉사를 명령했다고 1일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 육군의 한 사단에서 취사병으로 복무하면서 아버지 간암 수술을 이유로 2023년 12월부터 2024년 1월까지 5차례에 걸쳐 43일간 휴가를 간 혐의를 받는다. &lt;br&gt;&lt;br&gt;A씨 아버지는 간암 진단을 받거나 병원 진료나 수술을 받은 사실이 전혀 없었다. 휴가를 위해 부대에 허위 보고를 한 것이다. A씨는 실제로는 친구를 만나 PC 게임 등을 한 것으로 조사됐다. &lt;br&gt;&lt;br&gt;심지어 A씨는 휴가 중에 ‘수술 이후 아버지 상태가 안 좋아져 추가 수술이 필요하다’고 부대에 연락해 휴가 기간을 연장한 것으로 파악됐다. 구글에서 진료 소견서 등 양식을 내려받아 아버지 인적 사항과 진단명 등을 기록해 부대에 제출하기도 한 것으로 확인됐다.&lt;br&gt;&lt;br&gt;김 부장판사는 “아버지가 간암에 걸렸다고 거짓말하여 대대장 등의 공무집행을 방해함과 동시에 근무 기피 목적으로 진료소견서와 진료사실확인서를 위조하고 이를 행사해 죄질이 나쁘다”고 했다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>’이재명 선거법’ 파기환송심 맡는 서울고법 7부는?</title>
       <link>https://www.chosun.com/national/court_law/2025/05/02/ADYYC2CQFVHDZGU5X7WBTLZJZA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/05/02/ADYYC2CQFVHDZGU5X7WBTLZJZA/</guid>
@@ -565,15 +592,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6WZKBJQL3RCWPGD3UPMADDPBFY.png"&gt;&lt;figcaption&gt;&lt;small&gt;5월1일~3일 서울도서관 앞에서 진행되는 '시그니처쇼'의 모습/서울시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;5월 초 서울 도심 곳곳에서 ‘스프링 페스타’ 축제가 열린다. 긴 연휴와 어린이날을 맞아 서울시가 준비한 봄 축제다. &lt;br&gt;&lt;br&gt;하이라이트는 4일 밤에 열리는 ‘로드쇼 : 펀 나이트 워크’다. 광화문광장을 출발해 청와대까지 도심 도로를 걷는 행사다. 청와대 내부도 관람할 수 있다. 서울시 관계자는 “시민들이 서울 야경을 즐기며 도심 도로를 걸어볼 기회”라고 했다. 시민 2000여 명이 이미 신청했다고 한다.&lt;br&gt;&lt;br&gt;서울광장에선 1~3일 밤마다 레이저 쇼가 열린다. 이름은 ‘시그니처 쇼’다. 서울도서관 건물을 스케치북 삼아 다양한 색깔의 레이저 불빛을 쏜다. 서울도서관 건물 앞에 대형 풍선 50개를 놓아 특수 효과를 낸다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AMXNQ2WCFVGENNADLY2BYVR5ZQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;1일 서울 중구 서울광장에서 열린 '시그니처 쇼'의 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2일 오후 중구 덕수궁 돌담길은 ‘한복 패션쇼 런웨이’로 바뀐다. 한복을 입은 모델 100명이 돌담길 230m를 걷는다. 오케스트라가 드라마 ‘구르미 그린 달빛’ 등의 배경음악을 연주한다. 서울시 관계자는 “돌담에 맞춰 빨간색 대신 노란색 카펫을 깔았다”며 “고즈넉한 덕수궁 돌담길을 배경으로 색다른 개량 한복을 볼 수 있을 것”이라고 했다. 서울시는 지난해 송파구 석촌호수와 성동구 뚝섬한강공원에서도 패션쇼를 열었다.&lt;br&gt;&lt;br&gt;3일 도심 청계천에선 유모차 1000대가 동시에 달리는 ‘2025 서울 유아차 런’ 대회가 열린다. 아이와 부모가 한 팀이 돼 5㎞를 달리는 유모차 마라톤 대회다. 서울에서 유모차 마라톤 대회가 열리는 건 처음이다. 광화문광장을 출발한 뒤 광교사거리 등을 거쳐 서울광장으로 골인하는 코스다. 등수나 기록은 매기지 않는다. 선착순으로 1000팀을 모집했는데 90분 만에 신청이 마감됐다고 한다. 서울시 관계자는 “참가자 가족뿐 아니라 시민들에게도 재미있는 볼거리가 될 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>노동절대회에 3만명 참가</title>
-      <link>https://www.chosun.com/national/national_general/2025/05/02/AADJ3PMSHFA4PNVZHVLBA6CY2Q/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/05/02/AADJ3PMSHFA4PNVZHVLBA6CY2Q/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 01 May 2025 15:54:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LBTYLPIE5ZAMZFZE4PZXPSJGHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/김지호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;근로자의 날인 1일 오후 서울 중구 숭례문 인근에서 민주노총이 주최한 ’2025 세계노동절대회’ 참가자들이 구호를 외치고 있다. 이날 집회에는 비가 쏟아지는 날씨에도 주최 측 추산 3만명이 모였다. 집회 후 참석자들이 광화문광장까지 행진하면서 일대에 극심한 교통 정체가 빚어졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>“산불 피해 지역 여행… 민폐 아닙니다, 기부입니다”</title>
       <link>https://www.chosun.com/national/2025/05/02/OIMLAGD3ARAVNPF5RGKMAW2FAU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/2025/05/02/OIMLAGD3ARAVNPF5RGKMAW2FAU/</guid>
@@ -592,15 +610,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GSJO5M52R5DHFBEPSNKYM7EKCA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;청와대를 야간에 개방하는 ‘청와대 밤마실’ 행사 첫날인 1일 오후 서울 종로구 청와대 입구에서 시민들이 입장을 기다리고 있다. ‘청와대 밤마실’ 행사는 이날부터 6일까지 매일 저녁 7~9시까지 열린다. 이 행사는 하루 총 4000명이 관람할 수 있는데, 이미 6일까지 예약이 마감됐다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>한강서 요트·카약… 서울 마리나 개장</title>
-      <link>https://www.chosun.com/national/national_general/2025/05/02/IUHMSBPAV5DL3NXATEBZ7ET3GI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/05/02/IUHMSBPAV5DL3NXATEBZ7ET3GI/</guid>
-      <dc:creator>김영우 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 01 May 2025 15:54:00 +0000</pubDate>
-      <content:encoded>서울 한강에도 개인 선박 84척을 댈 수 있는 마리나가 생겼다. 요트와 카약 등 수상 레포츠도 즐길 수 있다.&lt;br&gt;&lt;br&gt;서울시는 1일 마포구 난지한강공원에 ‘서울수상레포츠센터’를 개장했다고 밝혔다. 마리나는 레저용 보트를 댈 수 있는 선착장이다. 수상 레저 문화가 발달한 미국이나 유럽 등에서 흔히 볼 수 있다.&lt;br&gt;&lt;br&gt;서울시 관계자는 “여의도·잠원·반포에 민간 업체가 운영하는 마리나가 있지만 수요에 비하면 시설이 턱없이 부족하다”며 “이번에 시가 나서 본격적으로 마리나 시설을 만든 것”이라고 했다. &lt;br&gt;&lt;br&gt;계류장에는 선박 84척을 댈 수 있다. 서울시 관계자는 “요금을 내고 길이 9m 미만 개인 선박을 정박해 둘 수 있다”고 했다. 카약·카누 등도 130여 대 보관할 수 있다.&lt;br&gt;&lt;br&gt;수상 레포츠 교육장과 탈의실, 샤워장 등을 갖췄다. 서울시는 여기서 카약과 요트 체험 프로그램을 운영할 계획이다. 서울시 관계자는 “카약을 타고 한강의 석양 풍경을 즐길 수 있게 된다”며 “서울을 찾는 외국인 관광객과 시민의 새로운 명소가 될 것으로 기대한다”고 했다. 요트·카약 등 대회도 유치한다는 계획이다.&lt;br&gt;&lt;br&gt;서울시는 내년에 송파구 잠실한강공원에도 마리나를 열 계획이다. 잠실 마리나는 선박 220척을 댈 수 있는 규모다. 보트 안에서 하룻밤 잘 수 있는 ‘한강 스테이’도 운영할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>尹 ‘직권 남용’ 혐의 추가 기소</title>
       <link>https://www.chosun.com/national/court_law/2025/05/02/VLXFMRFOQBHKHAXJVL7SLRGXXU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/05/02/VLXFMRFOQBHKHAXJVL7SLRGXXU/</guid>
@@ -608,15 +617,6 @@
       <description/>
       <pubDate>Thu, 01 May 2025 15:54:00 +0000</pubDate>
       <content:encoded>‘12·3 비상계엄' 사태를 수사 중인 검찰 특별수사본부(본부장 박세현 서울고검장)는 1일 윤석열 전 대통령을 직권남용 권리행사방해 혐의로 추가 기소했다고 밝혔다.&lt;br&gt;&lt;br&gt;윤 전 대통령은 지난해 12월 3일 비상계엄을 선포한 후 직권을 남용해 군경이 국회와 중앙선거관리위원회 등을 점거하게 하고, 정치인들을 영장 없이 체포·구금하도록 하는 등 의무 없는 일을 하게 한 혐의를 받는다.&lt;br&gt;&lt;br&gt;앞서 검찰은 지난 1월 26일 당시 현직이었던 윤 전 대통령을 비상계엄과 관련한 내란(우두머리) 혐의로 구속 기소하면서도, 직권남용 혐의는 적용하지 않았다. 대통령은 내란 또는 외환의 죄를 범한 경우가 아니면 재직 중 형사 소추(訴追)를 받지 않기 때문이었다.&lt;br&gt;&lt;br&gt;검찰은 윤 전 대통령이 지난달 4일 헌법재판소 탄핵 심판 선고로 대통령직을 잃은 후 보완 수사를 거쳐 이날 윤 전 대통령을 추가로 기소했다. 그러면서 윤 전 대통령의 내란 사건을 심리 중인 서울중앙지법 형사25부(재판장 지귀연)에 직권남용 사건도 병합해 심리해달라고 신청했다.&lt;br&gt;&lt;br&gt;검찰은 “다른 중요한 증거를 발견하지 않는 한 동일한 범죄 사실에 관해 피의자를 다시 구속하지 못한다”는 형사소송법 제208조에 따라 윤 전 대통령에 대한 구속영장은 청구하지 않았다고 했다. 윤 전 대통령은 법원의 구속 취소 결정으로 지난 3월 8일 석방됐다.&lt;br&gt;&lt;br&gt;특수본 관계자는 “직권남용죄와 내란죄의 사실관계가 다르지 않다”며 “직권남용과 관련된 증거가 충분히 확보돼 있고, 윤 전 대통령의 입장은 탄핵 심판이나 형사 재판, 담화문을 통해 확인되기 때문에 신속하게 기소해 법원이 같이 심리하는 게 좋겠다고 판단했다”고 설명했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[부음] 서경열 별세 외</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2025/05/02/UT2BXNKSDFDR3JOJP7TNWA4D3E/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2025/05/02/UT2BXNKSDFDR3JOJP7TNWA4D3E/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 01 May 2025 15:52:00 +0000</pubDate>
-      <content:encoded>▲&lt;b&gt;서경열&lt;/b&gt; 별세, &lt;b&gt;장형수&lt;/b&gt; 한양대 교수·&lt;b&gt;장미향&lt;/b&gt;·&lt;b&gt;장환수&lt;/b&gt; 뉴스핌 전문기자 모친상, &lt;b&gt;하태요&lt;/b&gt; 한의사 장모상, &lt;b&gt;손영아&lt;/b&gt;·&lt;b&gt;최정원&lt;/b&gt; 시모상=1일0시22분 경남 진주 한일병원, 발인 3일8시30분, (055)756-9009&lt;br&gt;&lt;br&gt;▲&lt;b&gt;신봉순&lt;/b&gt; 별세, &lt;b&gt;권기석&lt;/b&gt;·&lt;b&gt;권기현&lt;/b&gt;·&lt;b&gt;권기섭&lt;/b&gt;·&lt;b&gt;권기환&lt;/b&gt;·&lt;b&gt;권기선&lt;/b&gt; 현대엘리베이터 전무 모친상=30일9시48분 서울아산병원, 발인 2일5시, (02)3010-2000&lt;br&gt;&lt;br&gt;▲&lt;b&gt;조진걸&lt;/b&gt; 별세, &lt;b&gt;이재녀&lt;/b&gt; 남편상, &lt;b&gt;조성현&lt;/b&gt; HL만도 부회장·&lt;b&gt;조은영&lt;/b&gt; 부친상, &lt;b&gt;김상범&lt;/b&gt; 장인상, &lt;b&gt;임혜숙&lt;/b&gt; 시부상, &lt;b&gt;조영진&lt;/b&gt;·&lt;b&gt;조영민&lt;/b&gt; 조부상, &lt;b&gt;김태엽&lt;/b&gt;·&lt;b&gt;김태경&lt;/b&gt; 외조부상=30일19시40분 서울아산병원, 발인 3일8시, (02)3010-2000&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[고수 아빠의 육아 비결] 아빠와 하는 감정 표현 연습 하루 10분이면 충분합니다</title>
