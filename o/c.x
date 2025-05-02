@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>李 파기환송에 민주당 “사법쿠데타” “제2의 인혁당 사건”…대법원 측 “최고법원 결정 존중돼야” </title>
+      <link>https://www.chosun.com/national/court_law/2025/05/02/XNQB3IDNCNCOJGSG7ECP3Q5O4A/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/05/02/XNQB3IDNCNCOJGSG7ECP3Q5O4A/</guid>
+      <dc:creator>유희곤 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 02 May 2025 04:55:43 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7OHMSKPHJBKZFPPOGV2XLNUEBU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;배형원 법원행정처 차장이 2일 오전 서울 여의도 국회에서 열린 법제사법위원회 전체회의에서 의원 질의에 답변하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대법원 전원 합의체가 전날 이재명 더불어민주당 대선 후보의 공직선거법 위반 사건 상고심에서 무죄를 선고했던 2심을 파기하고 유죄 취지로 사건을 서울고법으로 돌려보낸 것과 관련해 민주당 의원들은 2일 “사법 쿠데타” “제2의 인혁당 사건”이라고 비판했다. 이에 대해 대법원 측은 “최고 법원의 결정은 제도적으로 존중돼야 한다”고 반박했고, 국민의힘도 “지극히 상식적인 판단”이라고 했다.&lt;br&gt;&lt;br&gt;이날 국회 법제사법위원회는 전날 대법원 선고와 관련해 긴급현안질의를 열었다. 고검장 출신으로 과거 이 후보 변호인을 맡았던 박균택 민주당 의원은 “이승만 전 대통령이 정적 조봉암 선생에 대해 사형 판결을 해 사법 살인을 저지른 후 벌어진 최대의 대선 개입 사건”이라면서 “대법원에 의한 사법 쿠데타”라고 주장했다.&lt;br&gt;&lt;br&gt;같은 당 이성윤 의원도 “법원이 작심하고 선거에 개입한 것”이라며 “제2의 인혁당 사건보다 더 심각한 것”이라고 했다. “인혁당 사건은 유신 독재권력에 굴복한 것이지만 이것은 법원이 자원에서 한 것”이라며 “법원이 어떤 꼼수를 부렸는지 국민들은 다 안다”고 주장했다.&lt;br&gt;&lt;br&gt;같은 당 박희승 의원도 “사건 기록이 6만~7만쪽이 넘는 걸로 아는데 대법관님들이 기록을 다 읽어 보셨냐”면서 “이 후보는 유력한 대선 주자이고 국민의 선택을 앞두고 있는데, 이런 상황에서 서둘러 재판을 진행한 것이 타당한지 의문”이라고 했다.&lt;br&gt;&lt;br&gt;이에 대해 배형원 법원행정처 차장은 “판결에 대한 평가는 다양할 수 있지만 최고법원의 결정에 대해서는 제도적으로 존중돼야 한다고 생각한다”고 했다. ‘피고인이 정치인이면 대법관들이 지위나 이념 성향에 따라 사건을 판단하냐’는 조배숙 국민의힘 의원의 질의에는 “그렇지 않다”고 답했다.&lt;br&gt;&lt;br&gt;조 의원은 “민주당이 사법부 판단의 정당성을 부정하고, (이 후보를) 정치적 희생양으로 포장하려는 시도에 깊은 우려를 표명한다”며 “이 후보는 지금이라도 국민 앞에 책임 있는 자세를 취하고 후보직에서 자진 사퇴해야 한다”고 했다. &lt;br&gt;&lt;br&gt;같은 당 주진우 의원은 “국회가 (전날 대법원 선고 후) 곧바로 현안질의를 통해 판결의 구체적인 내용을 이야기하고 법원을 압박하는 건 입법부가 사법부를 침탈하는 모습”이라고 비판했다.&lt;br&gt;&lt;br&gt;장동혁 국민의힘 의원은 “법원이 이 후보 재판 지연에 제대로 대응하지 못하고 엄정한 조치를 하지 않았기 때문에 1심이 2년 이상 늘어졌던 것”이라며 “지극히 상식적인 판단을 두고 긴 시간이 걸려 최종적인 결론을 내리지 못한 것에 대해 안타깝게 생각한다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>‘1조6000억원 투자’ 삼성전자 반도체 기술 중국으로 빼돌린 前 연구원 구속 기소</title>
       <link>https://www.chosun.com/national/court_law/2025/05/02/OOKJNU7FGJCXJKXJXCEGNMQCVY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/05/02/OOKJNU7FGJCXJKXJXCEGNMQCVY/</guid>
@@ -890,15 +899,6 @@
       <description/>
       <pubDate>Wed, 30 Apr 2025 20:04:34 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3ITHX5BMIBEWHDP7DNSIHB6ORU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문은 선생님] [재밌다, 이 책!] “해와 달은 왜 ‘나날’이 됐을까” 日·獨語 쓰는 소설가가 본 말의 본질</title>
-      <link>https://www.chosun.com/national/nie/2025/05/01/VX7VLORMC5CYNETPNRYLNXHYLU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2025/05/01/VX7VLORMC5CYNETPNRYLNXHYLU/</guid>
-      <dc:creator>이진혁 출판편집자</dc:creator>
-      <description/>
-      <pubDate>Wed, 30 Apr 2025 20:04:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4NDKFYCFUJDNFBWIMXX6MXRLY4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;여행하는 말들&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;다와다 요코 지음｜유라주 옮김｜출판사 돌베개｜가격 1만3000원&lt;/b&gt;&lt;br&gt;&lt;br&gt;언어는 세상을 이해하는 창입니다. 하지만 때때로 그 창은 우리도 모르게 세상을 왜곡해 보여주기도 해요. 사람의 생각은 언어의 틀을 벗어나기 힘들기 때문입니다. 오늘 소개할 책은 언어라는 창 너머를 바라보게 합니다. 독일어와 일본어, 두 언어로 소설을 쓰는 작가인 저자는 언어를 단순한 의사소통의 ‘도구’가 아니라 끊임없이 움직이며 변화하는 ‘여행자’에 비유합니다. 그리고 언어가 변해온 여정을 기록하며 사람과 언어의 관계를 탐구합니다. &lt;br&gt;&lt;br&gt;이 책의 중심엔 ‘엑소포니(Exophony)’라는 개념이 있습니다. 익숙한 모어(母語)를 벗어나 다른 언어로 글을 쓰는 행위를 말하지요. 저자는 다양한 언어로 글을 쓰는 작가가 아니라, 서로 다른 언어 사이에서 새로운 정체성의 말을 만들어 나가고 싶다고 말해요.&lt;br&gt;&lt;br&gt;저자는 베이징, 함부르크, 로스앤젤레스, 마르세유 등 세계 여러 도시에서 벌어진 일들을 바탕으로 언어에 대한 통찰을 담아냅니다. 저자가 바라본 언어는 마치 끊임없이 움직이며 변화하는 ‘생명체’ 같습니다. 이를테면 독일어 ‘기차(Zug)’는 ‘끌다(Ziehen)’라는 말에서 파생되었다고 해요. 이뿐만이 아닙니다.&lt;b&gt; &lt;/b&gt;독일어로 ‘교제(Beziehung)’, ‘이사(Umzug)’, ‘옷을 입는다(Anziehen)’라는 표현도 모두 ’끌다’에서 온 말이라고 합니다. 우리가 살아가는 모든 일상이 어떤 ‘끌림’의 연속이라는 걸 알 수 있습니다. &lt;br&gt;&lt;br&gt;각 단어가 가진 역사를 되살려내는 섬세한 감각이 책 곳곳에 숨어 있습니다. 번역에 대한 저자의 생각도 특별합니다. 저자는 “오역(誤譯·잘못된 번역)이란 짐을 지지 않고는 여행을 할 수 없다”고 말합니다. 세상에 ‘완벽한 번역’은 없습니다. 모든 번역은 어긋날 수밖에 없으며, 바로 그 어긋남이 오히려 문학을 살아 있게 한다는 거예요.&lt;b&gt; &lt;/b&gt;가령 ‘나날’을 뜻하는 일본어 ‘日月’을 직역하면 ‘해와 달’이 됩니다. 오늘날 우리는 휴대폰 등에 표시된 숫자를 보며 날을 세지만, 과거엔 해가 뜨고 달이 뜨는 걸 보며 날이 지나가는 것을 알지 않았겠냐는 것이죠. 오역이 단어의 본질을 생각해보게 하는 또 다른 길이 될 수 있다는 것입니다.&lt;br&gt;&lt;br&gt;책 안에 담긴 생각은 심오하지만, 생동감 있는 여러 에피소드 덕분에 어렵게 읽히지 않습니다. 저자는 자신의 굴욕적인 순간조차 숨기지 않습니다. 예컨대 저자는 불가리아에서 “이곳에서 러시아보다 먼저 키릴 문자를 썼나요?”라고 물어 차가운 눈초리를 받은 경험을 들려줍니다. 그러곤 시간이 지나서야 깨달았다고 고백합니다. 이 질문이 중국인에게 “중국이 일본보다 한자를 먼저 썼나요?”라고 물은 것과 같은 의미라는 것을 말이죠. 저자는 이러한 실수마저 어리석음이 아니라 여행의 일부로 담담히 받아들입니다.&lt;br&gt;&lt;br&gt;책을 읽고 나면 언어란 ‘안전하고 견고한 집’이 아니라 끊임없이 흔들리는 장소임을 깨닫게 됩니다. 독자를 모어 바깥 세계로 데려가 언어를 낯설게 보고, 다시 사랑하게 하는 힘을 지닌 책입니다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>서울 버스 태업… 시민들 “30분 더 기다려 겨우 탔다”</title>
