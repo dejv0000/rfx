@@ -6,6 +6,15 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>【오늘의 국회일정】 2025년 5월 3일</title>
+			<description>&lt;b&gt;◇국회의장&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;10:00 산불 피해복구 지원을 위한 성금 전달 및 환담(경북도청)&lt;br /&gt;&lt;br /&gt;11:00 임시주거시설 조성현장 방문 및 이재민 위로(일직면 임시주거시설)&lt;br /&gt;&lt;br /&gt;&lt;b&gt;◇소통관 기자회견&lt;br /&gt;&lt;/b&gt;&lt;br /&gt;10:20 김형동 의원, [정치 현안 관련 기자회견]&lt;br /&gt;&lt;br /&gt;13:20 김현 의원, [더불어민주당 팩트체크넷 민주파출소 일일 브리핑]&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;b&gt;&lt;span style="font-size: 14px;"&gt;※ 상기 일정은 사정에 따라 변경될 수 있습니다.&lt;/span&gt;&lt;/b&gt;</description>
+			<pubDate>Fri, 02 May 2025 22:37:55 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/207748</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/207748</guid>
+			<dc:creator>인터넷 기자</dc:creator>
+		</item>
+		<item>
 			<title>한국여성변호사회, 자립준비청년·보호아동 법률지원 사업 공식 출범</title>
 			<description>한국여성변호사회(회장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="1151"&gt;왕미양&lt;/span&gt;)가 어린이날을 맞아 자립준비청년과 보호아동을 대상으로 한 법률지원 사업을 공식 출범했다. 이번 사업은 '자립준비청년 법률지원 한마음 공익신탁'(신탁관리인 이문한)과 초록우산 어린이재단(회장 황영기)과 협력해 진행되며, 법률 사각지대에 놓인 청년과 아동에게 실질적 지원을 제공한다.&lt;br /&gt;&lt;br /&gt;한국여성변호사회는 2024년 자립준비청년특별위원회를 신설해 법률지원을 이어왔는데, 이번 사업을 통해 지원 대상을 시설 및 위탁가정에서 보호 중인 아동으로까지 확대했다는 점에서 의미를 더했다.&lt;br /&gt;&lt;br /&gt;제1호 지원 사례는 초록우산 경기남부가정위탁지원센터(관장 조현웅)가 관리하는 아동으로, 친부와 연락이 끊긴 채 조부모에게 위탁된 아동의 조모를 후견인으로 지정하는 법적 절차를 지원한다. 한국여성변호사회는 전문 변호사들이 직접 참여해 위탁가정 아동이 필요한 법적 보호를 받을 수 있도록 신속히 절차를 진행할 예정이다.&lt;br /&gt;&lt;br /&gt;이번 사업은 법무부 인가를 받은 공익신탁을 재원으로 운영되며, 기부금은 신탁관리인의 승인 아래 집행돼 정기적으로 법무부 감사를 받는다. &lt;br /&gt;&lt;br /&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="1151"&gt;왕미양&lt;/span&gt;&amp;nbsp;회장은 "이번 법률지원 사업을 통해 자립준비청년과 보호아동이 법적 어려움 없이 권리를 지키며 성장할 수 있도록 실질적 도움을 줄 수 있게 돼 매우 뜻깊다"며 "앞으로도 한국여성변호사회는 사회적 약자들을 위한 전문적 법률 지원을 아끼지 않겠다"고 밝혔다.</description>
 			<pubDate>Fri, 02 May 2025 12:39:20 -0000</pubDate>
@@ -226,16 +235,6 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/207688</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/207688.jpg</media:thumbnail>
 			<dc:creator>안현 기자</dc:creator>
-		</item>
-		<item>
-			<title>대한행정사회, 지방행정사회장·지회장 선거 마무리… 당선자 확정</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/207693.jpg" alt="34534636457567.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;대한행정사회는 30일 지방행정사회장 및 지회장 당선자에게 당선증을 교부했다.&lt;/figcaption&gt;   &lt;/figure&gt;&lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;대한행정사회(회장 황해봉)는 4월 29일 전국 각지에서 동시에 실시된 지방행정사회장 및 지회장 선거를 성공적으로 마무리하고, 30일 당선자에게 당선증을 교부했다고 밝혔다.&lt;br /&gt;&lt;br /&gt;이번 선거는 전국 지방행정사회와 지회를 대상으로 민주적 절차에 따라 치러졌다. 회원들의 높은 참여 속에 각 지역 대표가 선출됐다. 당선자들은 2년 임기를 시작하게 되며 오는 5월 16일 선출될 제3대 대한행정사회 회장과 동일한 임기로 활동할 예정이다.&lt;br /&gt;&lt;br /&gt;새로 선출된 지방행정사회장과 지회장들은 지역 조직을 대표해 중앙회와의 소통을 강화하고 지역 현안 해결과 회원 권익 보호, 행정사의 위상 제고 등에 주력하게 된다. 중앙회와 지역 간 협력 체계 공고화를 위한 기반도 마련됐다는 평가다.&lt;br /&gt;&lt;br /&gt;대한행정사회 선거관리위원회 김칠주 위원장은 “공정하고 투명한 선거가 전국적으로 진행될 수 있도록 협조해주신 모든 회원과 관계자들께 감사드린다”며 “당선자들이 지역 리더로서 행정사회 발전과 회원 간 화합에 기여해주길 기대한다”고 말했다.&lt;br /&gt;&lt;br /&gt;한편 이번 선거에서는 장국환(강원지방행정사회), 이정섭(경기남부), 조권기(경기북부), 박노귀(대전), 한동경(부산), 윤병율(서울남부), 류호남(전남), 이인형(전북) 등 20명이 제3대 지방행정사회장으로 당선됐다.&lt;p&gt;   &lt;br /&gt;지회장 선거에서는 김정수(강릉), 김진광(광주), 백노현(오산), 김도현(서울동부 광진구), 이명철(인천남동), 임흥수(청주) 등 총 50명의 당선자가 확정됐다.&lt;/p&gt;</description>
-			<pubDate>Wed, 30 Apr 2025 09:59:27 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/207693</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/207693</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/207693.jpg</media:thumbnail>
-			<dc:creator>이진영 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
