@@ -199,16 +199,6 @@
 			<dc:creator>인터넷 기자</dc:creator>
 		</item>
 		<item>
-			<title>[속보] 대법 "백현동 관련 발언 사실 적시… 단순 과장된 표현 아니다"</title>
-			<description>&lt;p style="text-align: center; "&gt;   &lt;img src="https://image.lawtimes.co.kr/thumb/180/207709.jpg" alt="lawtimes.jpg" style="text-align: start;" /&gt;&lt;/p&gt;</description>
-			<pubDate>Thu, 01 May 2025 06:15:02 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/207709</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/207709</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/207709.jpg</media:thumbnail>
-			<dc:creator>인터넷 기자</dc:creator>
-		</item>
-		<item>
 			<title>【오늘의 국회일정】 2025년 5월 1일</title>
 			<description>&lt;b&gt;◇의원실 세미나&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;09:30 김소희 의원실 등, 경북 초대형 산불 이후 한 달, 복구 현황과 향후 대책 토론회(의원회관 제9간담회의실)&lt;br /&gt;&lt;br /&gt;10:00 김현정 의원실 등, 금융감독체계 개혁을 위한 전문가토론회 : 소비자중심 감독체계 도입의 전망과 과제(의원회관 306호)&lt;br /&gt;&lt;br /&gt;10:00 민병덕 의원실, 디지털자산 기본법 1호 법안 2차 리뷰(의원회관 제10간담회의실)&lt;br /&gt;&lt;br /&gt;10:00 박수현 의원실 등, 새로운 문화예술의 시대, 왜 사진인가(의원회관 제1소회의실)&lt;br /&gt;&lt;br /&gt;10:00 이언주 의원실 등, 제21대 대통령선거의 의의와 국민통합 방안(의원회관 제4간담회의실)&lt;br /&gt;&lt;br /&gt;14:00 김현정 의원실 등, 정부출연연 지배구조 개편 국회 정책토론회(의원회관 제7간담회의실)&lt;br /&gt;&lt;br /&gt;15:00 추미애 의원실 등, [차기 정부 국가개혁과제 긴급토론회] 4대 권력기관의 민주적 통제 강화 방안(의원회관 제1세미나실)&lt;b&gt;&lt;br /&gt;&lt;/b&gt;&lt;b&gt;&lt;br /&gt;◇소통관 기자회견&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;09:00 김소희 의원, [정책 현안 관련 기자회견]&lt;br /&gt;&lt;br /&gt;10:00 황명선 의원, [주요 현안 관련 기자회견]&lt;br /&gt;&lt;br /&gt;10:40 조배숙 의원, [교육 현장의 정치적 이념화·거점화 중단 및 관련 법안 제정 촉구 기자회견]&lt;br /&gt;&lt;br /&gt;11:00 안상훈 의원, [정책 비전 발표 기자회견]&lt;br /&gt;&lt;br /&gt;11:20 김재연 진보당 상임대표, [김재연 대선후보 노동공약 발표 기자회견]&lt;br /&gt;&lt;br /&gt;11:40 이강일 의원, [이민 전담기관 신설 기자회견]&lt;br /&gt;&lt;br /&gt;13:20 김현 의원, [더불어민주당 팩트체크넷 민주파출소 일일 브리핑]&lt;br /&gt;&lt;br /&gt;13:40 박은정 의원, [주요 현안 관련 기자회견]&lt;br /&gt;&lt;br /&gt;14:20 안상훈 의원, [현안 관련 기자회견]&lt;br /&gt;&lt;br /&gt;15:00 정일영 의원, [내란은폐 및 알박기 인사 저지 특별위원회 기자회견]&lt;br /&gt;&lt;br /&gt;17:00 윤상현 의원, [현안 관련 기자회견]&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;b&gt;&lt;span style="font-size: 14px;"&gt;※ 상기 일정은 사정에 따라 변경될 수 있습니다.&lt;/span&gt;&lt;/b&gt;&lt;br /&gt;</description>
 			<pubDate>Wed, 30 Apr 2025 22:38:47 -0000</pubDate>
@@ -235,6 +225,16 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/207688</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/207688.jpg</media:thumbnail>
 			<dc:creator>안현 기자</dc:creator>
+		</item>
+		<item>
+			<title>대한행정사회, 지방행정사회장·지회장 선거 마무리… 당선자 확정</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/207693.jpg" alt="34534636457567.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;대한행정사회는 30일 지방행정사회장 및 지회장 당선자에게 당선증을 교부했다.&lt;/figcaption&gt;   &lt;/figure&gt;&lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;대한행정사회(회장 황해봉)는 4월 29일 전국 각지에서 동시에 실시된 지방행정사회장 및 지회장 선거를 성공적으로 마무리하고, 30일 당선자에게 당선증을 교부했다고 밝혔다.&lt;br /&gt;&lt;br /&gt;이번 선거는 전국 지방행정사회와 지회를 대상으로 민주적 절차에 따라 치러졌다. 회원들의 높은 참여 속에 각 지역 대표가 선출됐다. 당선자들은 2년 임기를 시작하게 되며 오는 5월 16일 선출될 제3대 대한행정사회 회장과 동일한 임기로 활동할 예정이다.&lt;br /&gt;&lt;br /&gt;새로 선출된 지방행정사회장과 지회장들은 지역 조직을 대표해 중앙회와의 소통을 강화하고 지역 현안 해결과 회원 권익 보호, 행정사의 위상 제고 등에 주력하게 된다. 중앙회와 지역 간 협력 체계 공고화를 위한 기반도 마련됐다는 평가다.&lt;br /&gt;&lt;br /&gt;대한행정사회 선거관리위원회 김칠주 위원장은 “공정하고 투명한 선거가 전국적으로 진행될 수 있도록 협조해주신 모든 회원과 관계자들께 감사드린다”며 “당선자들이 지역 리더로서 행정사회 발전과 회원 간 화합에 기여해주길 기대한다”고 말했다.&lt;br /&gt;&lt;br /&gt;한편 이번 선거에서는 장국환(강원지방행정사회), 이정섭(경기남부), 조권기(경기북부), 박노귀(대전), 한동경(부산), 윤병율(서울남부), 류호남(전남), 이인형(전북) 등 20명이 제3대 지방행정사회장으로 당선됐다.&lt;p&gt;   &lt;br /&gt;지회장 선거에서는 김정수(강릉), 김진광(광주), 백노현(오산), 김도현(서울동부 광진구), 이명철(인천남동), 임흥수(청주) 등 총 50명의 당선자가 확정됐다.&lt;/p&gt;</description>
+			<pubDate>Wed, 30 Apr 2025 09:59:27 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/207693</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/207693</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/207693.jpg</media:thumbnail>
+			<dc:creator>이진영 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
