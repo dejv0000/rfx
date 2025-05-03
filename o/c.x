@@ -13,6 +13,33 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>어린이날 밤부터 전국 비…6일까지 이어져</title>
+      <link>https://www.chosun.com/national/transport-environment/2025/05/03/MDOJMQHX2JA6PPTFELRJ5VQFCY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/05/03/MDOJMQHX2JA6PPTFELRJ5VQFCY/</guid>
+      <dc:creator>윤상진 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 03 May 2025 02:32:35 +0000</pubDate>
+      <content:encoded>연휴가 시작되는 3일부터 봄비가 내린 가운데, 6일까지 전국에 잦은 비가 내릴 전망이다. 어린이날인 5일 오후 늦게도 비가 올 것으로 전망된다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LR75W6UMIIFOIILD6UBOUN2X2Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;1일 서울 중구 서울광장에서 우산을 쓴 시민들이 횡단보고를 건너고 있다./뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;기상청에 따르면 3일 새벽부터 내린 비는 오후에 그치겠다. 비가 공기 중 먼지를 씻어내면서 이날 미세먼지와 초미세먼지 모두 ‘좋음’ 수준을 보이겠다.&lt;br&gt;&lt;br&gt;4일과 어린이날인 5일에는 맑은 날씨가 이어지며 낮 기온도 20도 안팎까지 오르겠다.&lt;br&gt;&lt;br&gt;4일은 전국이 대체로 맑겠다. 아침 최저기온은 4∼12도, 낮 최고기온은 17∼23도로 예년과 비슷한 수준으로 나타나겠다. 미세먼지와 초미세먼지 또한 보통 수준으로 나들이에 적합한 날씨가 이어질 전망이다.&lt;br&gt;&lt;br&gt;5일 전국이 대체로 흐리고 밤부터 전국 대부분 지역에 5㎜ 미만의 비가 내리겠다. 제주도에는 5∼20㎜가량의 비가 내릴 전망이다. 5일 아침 최저기온은 5∼12도, 낮 최고기온은 17∼23도로 예상된다. &lt;br&gt;&lt;br&gt;6일은 전국이 대체로 흐린 가운데 곳곳에서 빗방울이 떨어지겠고, 밤이 돼서야 대부분 그치겠다. 수도권과 충남북부 서해안·강원 영서 북부에 비가 올 것으로 전망된다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“내 말을 안 들어?”…어린 두 딸 때리고, 집 밖으로 내쫓은 40대 친부, 징역형 집유</title>
+      <link>https://www.chosun.com/national/regional/2025/05/03/ZN7OE2KOUFD35HIVSVN5EKZPGE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/05/03/ZN7OE2KOUFD35HIVSVN5EKZPGE/</guid>
+      <dc:creator>노인호 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 03 May 2025 02:04:33 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PO2Y7Q4K2EH2BXQKEFG3RS4S54.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;청주지법./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;자신이 말을 듣지 않는다는 이유로 10대 두 딸을 수차례 폭행하는 등 학대한 40대 친부에게 징역형의 집행유예가 선고됐다. &lt;br&gt;&lt;br&gt;청주지법 형사2단독 신윤주 부장판사는 아동복지법위반 혐의로 재판에 넘겨진 A씨에게 징역 1년에 집행유예 2년을 선고했다고 3일 밝혔다. 또 80시간의 사회봉사 및 40시간의 아동학대 재범예방교육 수강을 명령했다. &lt;br&gt;&lt;br&gt;A씨는 2020년 5월 30일 청주시 청원구 자신의 집에서 큰딸(당시 13세)이 친구들과 놀다가 늦게 돌아왔다는 이유로 옷걸이로 엉덩이를 10여 차례 때렸다. 2021년 10월 26일에는 ‘집을 누가 어지럽혔냐”는 자신의 물음에 두 딸이 서로 부인하자 “인정하는 사람이 나올 때까지 때리겠다”며 목검으로 두 딸의 엉덩이를 때렸다. 이어 고통을 참지 못한 큰딸이 자신이 한 것이라고 말하자, 20여 차례 더 때린 혐의 등으로 재판에 넘겨졌다. 또 2022년 3월에는 청소를 제대로 하지 않거나 사준 안경을 쓰고 다니지 않는다는 이유로 큰딸을 집 밖으로 쫓아낸 혐의도 받고 있다. &lt;br&gt;&lt;br&gt;신 부장판사는 “아동을 보호하고 양육해야 할 의무가 있는 피고인이 위협적인 말로 아동에게 신체적·정신적 충격을 줬다. 다만 이혼 후 홀로 두 딸을 양육하는 과정에서 이뤄진 범행으로 보이고, 초범인 점 등을 고려했다”고 양형 이유를 설명했다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>양재시민의숲역서 소방용 가스 누출...작업자 병원 이송</title>
+      <link>https://www.chosun.com/national/incident/2025/05/03/M7XJM3ESGBBJJPLAAEJZIXVL6A/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/05/03/M7XJM3ESGBBJJPLAAEJZIXVL6A/</guid>
+      <dc:creator>강지은 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 03 May 2025 00:21:53 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TSR4KEKJPJCELHLUFOYIYCVD64.jpeg"&gt;&lt;figcaption&gt;&lt;small&gt;양재시민의숲역./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지하철 역사 안에서 소방 시설을 점검하던 작업자가 이산화탄소를 마시고 병원에 이송되는 사고가 3일 발생했다.&lt;br&gt;&lt;br&gt;서울 서초경찰서는 3일 오전 2시 32분쯤 신분당선 양재시민의숲역 지하 2층에서 소방시설을 점검하던 중 화재 진압용 이산화탄소가 누출돼 작업자 4명 중 1명이 인근 병원으로 옮겨졌다고 이날 밝혔다. 지하철 운영 시간이 끝난 후 발생한 사고로 열차 운행에 차질은 빚어지지 않았다. 병원에 이송된 작업자의 생명에도 지장이 없다고 한다. 이산화탄소는 색과 냄새가 없어 누출돼도 인지하기 어려워 질식 사고가 발생할 수 있다.&lt;br&gt;&lt;br&gt;현재 신분당선 열차는 정상적으로 운행 중이다. 경찰과 소방은 정확한 사고 경위를 조사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>고법은 형량만 정하면 돼… ‘이재명 재판’ 대선 전 선고날 수도</title>
       <link>https://www.chosun.com/national/court_law/2025/05/03/BGU75BM3UREK3PSW23SSVVCWK4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/05/03/BGU75BM3UREK3PSW23SSVVCWK4/</guid>
@@ -954,33 +981,6 @@
       <media:content url="https://www.chosun.com/resizer/v2/GFUDI75OIRDOPBC4RXOML6EFCU.jpg?auth=f60b03ca16faecc55b325de16755910f9166040c4e7d3597b13fdc815efde9f4&amp;smart=true&amp;width=5081&amp;height=3388" type="image/jpeg" height="3388" width="5081">
         <media:description type="plain">조희대 대법원장이 1일 서울 서초구 대법원 대법정에 입장해 이재명 더불어민주당 대선 후보의 공직선거법 사건 전원합의체 선고를 준비하고 있다. /사진공동취재단</media:description>
       </media:content>
-    </item>
-    <item>
-      <title>“개표구 왜 안 열리나” 역무원 폭행한 60대 검찰 송치</title>
-      <link>https://www.chosun.com/national/incident/2025/05/01/F7JPRHH7BFANTF6PXGJ6ORDPPM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/05/01/F7JPRHH7BFANTF6PXGJ6ORDPPM/</guid>
-      <dc:creator>인천=이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 01 May 2025 05:17:42 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/I2M3NU7M4I3XFUSKIQ2YAP4R2Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천지하철 역사에서 개표구가 열리지 않는다며 역무원을 폭행해 다치게 한 60대 남성이 검찰에 넘겨졌다.&lt;br&gt;&lt;br&gt;인천 남동경찰서는 상해 혐의로 60대 남성 A씨를 입건해 검찰에 송치했다고 1일 밝혔다. &lt;br&gt;&lt;br&gt;A씨는 지난달 17일 오후 11시 17분쯤 인천지하철 1호선 인천시청역에서 역무원 30대 남성 B씨를 폭행해 다치게 한 혐의를 받고 있다. &lt;br&gt;&lt;br&gt;A씨는 교통카드를 찍었음에도 개표구가 열리지 않았다고 항의하다 출동한 B씨에게 욕하며 주먹을 휘두른 것으로 조사됐다. A씨의 폭행으로 B씨는 전치 3주의 진단을 받았다. &lt;br&gt;&lt;br&gt;A씨는 경찰에 “술에 취해 기억나지 않는다”고 진술한 것으로 알려졌다. &lt;br&gt;&lt;br&gt;경찰은 역사 내 보안카메라(CCTV) 영상과 B씨의 피해 진단서 등을 토대로 A씨를 수사해 검찰에 송치했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>검찰, 尹 추가 기소... 비상계엄 직권남용 혐의</title>
-      <link>https://www.chosun.com/national/court_law/2025/05/01/5LHH5LOW7VCCBDX4URR2SSUULQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/05/01/5LHH5LOW7VCCBDX4URR2SSUULQ/</guid>
-      <dc:creator>박강현 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 01 May 2025 04:08:41 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QRBHRIIS5BAN5DCVG4IOSL2YYY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령. /김지호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘12·3 비상계엄' 사태를 수사 중인 검찰이 1일 윤석열 전 대통령을 직권남용 권리행사방해 혐의로 추가로 기소했다.&lt;br&gt;&lt;br&gt;검찰 비상계엄 특별수사본부(본부장 박세현 서울고검장)는 이날 윤 전 대통령을 이같은 혐의로 불구속 기소했다고 밝혔다.&lt;br&gt;&lt;br&gt;앞서 검찰은 지난 1월 26일 당시 현직 대통령 신분이었던 윤 전 대통령이 비상계엄 최종 책임자에 해당한다며 내란 우두머리 혐의만 적용해 재판에 넘겼다. 그러면서 직권남용 혐의는 제외했다.&lt;br&gt;&lt;br&gt;헌법이 ‘대통령은 내란 또는 외환의 죄를 범한 경우를 제외하고는 재직 중 형사상의 소추를 받지 않는다’고 규정해 현직 대통령의 불소추 특권을 보장하기 때문이다.&lt;br&gt;&lt;br&gt;이후 윤 전 대통령은 지난달 4일 비상계엄 사태로 헌법재판소에서 탄핵이 인용돼 불소추 특권을 잃었고, 검찰은 보완 수사를 거쳐 이날 윤 전 대통령을 직권남용 혐의로 추가 기소했다.&lt;br&gt;&lt;br&gt;특수본 관계자는 “직권남용죄와 내란죄랑 사실 관계가 똑같아 다르지 않다”며 “신속하게 기소해서 (법원에서) 같이 심리하는 게 좋겠다고 판단을 했다”고 밝혔다.&lt;br&gt;&lt;br&gt;이어 “직권남용과 관련된 증거 관계가 충분히 확보돼 있고 윤 전 대통령의 입장은 탄핵 심판과 형사 재판 등을 통해 충분히 확인되기 때문에 기소하는데 전혀 문제가 없다고 판단했다”고 설명했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>연휴 기간 오락가락 비...휴일 끝나면 쾌청해져</title>
-      <link>https://www.chosun.com/national/transport-environment/2025/05/01/KED7ZEPNNFC3BO2NKCOQXDTUUU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/05/01/KED7ZEPNNFC3BO2NKCOQXDTUUU/</guid>
-      <dc:creator>박상현 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 01 May 2025 04:15:04 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BJCUXUF5KBIR5OCQI32K6O4FLA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울에 비가 내리는 1일 오전 광화문에 시민들이 우산을 쓰고 걸어가고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;1일 전국에 많은 봄비가 내리는 가운데 연휴 동안 비가 오락가락 할 것으로 전망됐다. 대기 불안정이 커 비구름대가 수시로 형성되기 때문이다.&lt;br&gt;&lt;br&gt;기상청에 따르면, 1일 밤 대부분 지역에서 비가 그치겠다. 2일에는 우리나라가 중국 산둥반도 부근에서 제주남쪽해상으로 이동하는 고기압 가장자리에 들면서 대체로 흐리겠다. 2일 아침 최저기온은 6~11도, 낮 최고기온은 7~22도로 예보됐다.&lt;br&gt;&lt;br&gt;3일에는 다시 비 소식이 있다. 서해상에서 동해상으로 이동하는 기압골의 영향으로 남부지방을 중심으로 비가 내리겠다. 예상 강수량은 수도권·강원도 5㎜, 충청권 5~10㎜, 전라·경상권 5~20㎜, 제주도 5㎜ 미만 등이다. 비는 늦은 새벽 충남서해안에서 시작돼 오전 중 전국으로 확대되겠고, 오후에 대부분 그칠 것으로 보인다. 전남·경남권과 제주도엔 저녁까지 비가 이어지는 곳이 있겠다.&lt;br&gt;&lt;br&gt;4일은 강수 없이 날이 맑을 것으로 보인다. &lt;br&gt;&lt;br&gt;그러나 어린이날인 5일 기압골의 영향으로 전국이 대체로 흐리겠고, 제주도엔 오후에 비가 내리겠다. 이어 임시공휴일인 6일에는 중부지방(강원영동 제외)과 전북에 비가 내릴 것으로 전망됐다.&lt;br&gt;&lt;br&gt;이후 7일부터 주말까지는 비 소식 없이 전국이 대체로 맑을 것으로 보인다. 연휴가 끝나고서야 비로소 날이 쾌청해지는 것이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
