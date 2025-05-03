@@ -13,6 +13,16 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>“과자는 못 사 미안합니다”… 폐지 팔아 산 라면상자 몰래 놓고 간 ‘세 아이 아빠’ </title>
+      <link>https://www.chosun.com/national/national_general/2025/05/04/RUKBF5D2TBBJHJOSYJVACESYGU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/05/04/RUKBF5D2TBBJHJOSYJVACESYGU/</guid>
+      <dc:creator>최혜승 기자 </dc:creator>
+      <description/>
+      <pubDate>Sat, 03 May 2025 22:52:28 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/C2IGQ5KRYI7D5KPKHELZP222MY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;세 아이 아빠가 기부한 라면, 현금, 바람막이 점퍼./ 뉴시스
+&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산의 한 기초생활수급자가 어린이날을 앞두고 라면과 바람막이 등을 기부해 감동을 주고 있다. &lt;br&gt;&lt;br&gt;4일 부산 북부경찰서에 따르면 전날 오전 10시 30분쯤 한 남성이 덕천지구대 앞에 종이 상자를 놓고 갔다. 이 상자 안에는 라면 한 박스, 1000원짜리 지폐 35장, 아동용 바람막이 1벌과 손편지가 들어있었다.&lt;br&gt;&lt;br&gt;편지에서 자신을 세 아이 아빠라고 밝힌 익명의 기부자는 “첫째는 장애 3급이며 저희는 수급자 가정”이라며 “한 달간 최대한 열심히 폐지를 팔아서 모은 돈”이라고 설명했다.&lt;br&gt;&lt;br&gt;이어 “땀 흘려 가며 힘들게 모아봤지만 결과만큼 금액이 안 나와 많이는 못 했다”며 “원래는 과자를 살려고 했으나 금액이 모자라 라면 한 박스랑 애기 바람막이 옷을 구매했다”고 했다.&lt;br&gt;&lt;br&gt;그러면서 “과자를 못 사 마음에 걸린다. 미안하다”며 “그래도 바람막이 옷을 입고 밖에 나가 신나게 뛰어놀고 웃었으면 한다”고 했다. 그는 “선물 사고 남은 금액은 치킨이라도 사 먹었으면 하고, 어려운 아기 가정에 전달됐으면 한다”고 했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BHEWJSL735EAJNBIRENS322JOQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;익명의 기부자 '세 아이 아빠'의 손편지./ 연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰이 지구대 방범카메라를 확인해 보니 한 남성이 상자를 놓고 황급히 현장을 떠나는 장면이 포착됐다. 이 남성은 ‘세 아이 아빠’라는 이름으로 매년 어린이날과 크리스마스에 12번 기부한 것으로 나타났다. &lt;br&gt;&lt;br&gt;경찰은 이 남성의 바람대로 기부금품을 행정복지센터를 통해 어려운 이웃에게 전해지도록 할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>검찰, 건진법사 소환...尹 사저 압수수색 후 처음</title>
       <link>https://www.chosun.com/national/incident/2025/05/03/KE7EH4OZ3ZGVFLPNWT3FCMWMEU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/05/03/KE7EH4OZ3ZGVFLPNWT3FCMWMEU/</guid>
@@ -965,15 +975,6 @@
       <description/>
       <pubDate>Thu, 01 May 2025 08:15:53 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XDOSOQGSUR5M2ZYZFZVDX6RIII.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 양천구 서울남부지방검찰청 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;영리 법인임에도 마치 소외 계층을 돕는 후원 단체인 것처럼 꾸며 수십억 원을 가로챈 텔레마케팅 업체 운영자가 1일 구속 상태로 재판에 넘겨졌다. 당초 경찰은 사기 피해 규모를 1억원대로 봤으나, 검찰의 직접 재수사 결과 피해 규모가 50억원에 달하는 것으로 나타났다.&lt;br&gt;&lt;br&gt;서울남부지검 형사5부(부장 조재철)는 사회적 소외 계층에 대한 교육 후원금 명목으로 1만9000여 명으로부터 도합 50억여 원을 편취한 텔레마케팅 업체 운영자 50대 남성 A씨를 특정경제범죄가중처벌 등에 관한 법률 위반(사기) 혐의로 구속 기소하고, 영업 총책인 40대 여성 B씨를 같은 혐의로 불구속 기소했다고 이날 밝혔다. &lt;br&gt;&lt;br&gt;검찰에 따르면 A씨 일당은 지난 2010년 9월부터 2015년 10월까지 사실은 영리법인으로서 소외 계층에 교육 후원을 제공할 의사나 능력이 없음에도 “나눔교육 캠페인에 참여해 후원금을 내면 온라인 수강권을 제공하고 소외 계층에 속하는 수혜자를 매칭해 그 수혜자에게 온라인 강의를 제공하는 방식으로 교육 후원을 한다”고 속여 후원금을 가로챈 혐의를 받는다. &lt;br&gt;&lt;br&gt;실제로 회원들은 업체 말을 믿고 매달 회비를 냈지만, A씨 일당은 사실 필요도 없는 온라인 강의 상품을 구매토록 하는 등 돈벌이 수단으로 공익 후원을 악용했다고 한다. 또 후원 단체로 가장하기 위해 텔레마케터들이 ‘문화복지사’ 자격증 소지자인 것처럼 허위 내용을 홈페이지에 기재하고 실제로 허위의 자격을 사칭하기도 한 것으로 나타났다. &lt;br&gt;&lt;br&gt;후원한 회원들은 검찰 조사에서 허탈함을 표하기도 했다. 한 후원자는 “복지사라는 사람으로부터 소외 계층 교육비뿐 아니라 생활비까지 지원한다는 말을 듣고 어린아이를 키우는 입장에서 측은한 마음에 어려운 형편에도 월 10만 원까지 냈는데 후원금이 다른 용도로 사용되었다니 배신감이 든다”고 한 것으로 전해졌다. &lt;br&gt;&lt;br&gt;앞서 경찰은 해당 사건을 수년간 수사해 1억 3000여 만원 규모로 사기 규모를 파악하고 지난해 2월 검찰에 송치했지만, 검찰 재수사 결과 편취 금액은 50억원에 달하는 것으로 나타났다.&lt;br&gt;&lt;br&gt;검찰은 “공익을 팔아 사익을 편취한 사건으로 그로 인해 실제로 도움의 손길이 필요한 소외 계층의 기회는 박탈됐다”며 “선량한 국민들의 선의를 악용하는 조직적 사기 범행 등 서민 생활 침해 사범에 엄정 대응하겠다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>1·2심 2년 반 걸린 ‘李 선거법 재판‘...대법, 한 달 만에 초고속 선고</title>
-      <link>https://www.chosun.com/national/court_law/2025/05/01/J66632AT6NEULNEUI5B4LX3T4Y/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/05/01/J66632AT6NEULNEUI5B4LX3T4Y/</guid>
-      <dc:creator>김희래 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 01 May 2025 07:56:44 +0000</pubDate>
-      <content:encoded>1·2심 결론이 나기까지 2년 6개월이 걸린 이재명 더불어민주당 대선 후보의 공직선거법 위반 사건이 대법원에 접수된 지 한 달 만에 유죄 취지로 결론이 났다. 서울고법은 대법원 판결 취지에 따라 이 후보 사건을 다시 재판해야 한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QIXGCDYBANIOJE7DWEJ3CSBXT4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이재명 더불어민주당 대선 후보가 1일 서울 종로구의 한 식당에서 배달 라이더, 택배 기사 등 비(非)전형 노동자들과의 간담회를 마친 뒤 스마트폰을 확인하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;1일 법조계에 따르면, 이 후보의 선거법 사건은 검찰과 이 후보 측의 치열한 공방과 이 후보의 단식 등으로 1심 선고에만 2년 2개월이 걸렸다. 2심은 비교적 속도를 내 4개월 만에 결론을 내렸지만, 결과적으로 1~2심 선고까지 2년 6개월이나 걸린 셈이 됐다.&lt;br&gt;&lt;br&gt;반면 대법원 3심은 예상을 뛰어넘는 신속한 심리를 진행해 이 후보는 대선을 목전에 두고 유죄 취지 판결을 받아 들게 됐다.대법원은 특히 지난 3월 28일 사건을 접수한 뒤 국민의 관심이 지대하고 유력 대권 주자인 이 후보의 피선거권 여부가 달려있다는 점을 고려해 34일 만에 이례적으로 빠르게 사건을 매듭지었다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AV7H5TJZGNMHHCSE54HRTHDF6I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;조희대 대법원장을 비롯한 대법관들이 1일 오후 이재명 더불어민주당 대선 후보의 공직선거법 사건 전원합의체 선고를 위해 서울 서초구 대법원 대법정에 입장해 자리에 앉아 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;조희대 대법원장은 이 사건이 배당된 지난달 22일 직권으로 전원합의체에 회부하고 당일 곧바로 합의기일을 진행하는 등 ‘속도전’을 주도했다.이 같은 신속한 상고심 진행과 관련해서는 조 대법원장이 취임 초부터 강조한 ‘6·3·3 원칙’을 준수하고 대선 시기 사법부의 정치개입 논란을 최소화하기 위한 것이란 해석이 나온다. ‘6·3·3 원칙’은 선거법 사건 재판은 1심 6개월, 항소심 3개월, 상고심 3개월 안에 끝내야 한다는 공직선거법 규정이다. 6·3·3 원칙은 반드시 지켜야 하는 강행규정이지만 어길시 처벌 조항이 없고 법원 실무상 여러 이유로 사실상 준수되지 않아왔다. &lt;br&gt;&lt;br&gt;천대엽 법원행정처장도 전날 국회에 출석해 “작년부터 공직선거법 사건에 대해서는 법에 정해진 취지를 법관들이 준수하자는 운동을 저희가 많이 벌이고 있다”며 “거기에 사안의 시급성과 성격을 토대로 해서 재판부에서 판단했을 것”이라고 말했다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
