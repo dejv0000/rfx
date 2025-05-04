@@ -13,6 +13,37 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>‘임신’ 서민재 남친 측 “회피한 적 없다…감금·폭행 당해”</title>
+      <link>https://www.chosun.com/national/people/2025/05/05/GD3A2USQ5NG77EX2USNZ4J42YI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/05/05/GD3A2USQ5NG77EX2USNZ4J42YI/</guid>
+      <dc:creator>정아임 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 04 May 2025 22:02:31 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TNW36557MNHMDOS7YUCADQUFB4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;'하트시그널3' 출신 인플루언서 서민재가 공개한 태아 초음파 사진./인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘하트시그널3’ 출신 인플루언서 서민재(32·개명 후 서은우)가 임신 고백 후 남자친구가 만남을 피한다며 신상을 폭로한 가운데, 남자친구 측이 공식 입장을 밝혔다.&lt;br&gt;&lt;br&gt;4일 남자친구 A씨 법률대리인 로엘 법무법인은 ”A씨는 서은우씨로부터 임신 소식을 전해 들은 뒤 서은우씨와 지속적으로 연락을 하며 장래에 대해 논의했고, 본인의 부모님에게도 전부 사실대로 알리는 등 책임을 회피하는 행동을 한 적이 없음을 분명히 밝힌다”고 했다. &lt;br&gt;&lt;br&gt;A씨의 법률대리인은 “그러나 서은우씨는 지난달 29일경부터 돌연 A씨가 실제로는 하지 않은 말들에 대해 추궁하며 수십 차례 전화를 거는 한편, 지난달 30일경에는 A씨의 주소지에 찾아와 출입구 앞에서 A씨가 내려올 때까지 5분여간 클랙슨을 울리기도 했다”고 주장했다.&lt;br&gt;&lt;br&gt;또한 “서은우씨는 A씨로 하여금 본인의 주소지로 오도록 한 뒤 밖으로 나가지 못하도록 감금한 채 A씨에 대한 폭행도 서슴지 않았다. 결국 A씨는 서은우씨에 대한 법적 조치가 불가피하다고 판단했다. 서은우씨에 대한 적절한 법적 책임을 물을 예정”이라고 덧붙였다.&lt;br&gt;&lt;br&gt;그러면서 “서은우씨의 인스타그램 게시물의 댓글은 물론 여러 온라인 플랫폼에서 A씨에 관한 억측과 명예훼손 발언들이 다수 확인되고 있다. 이에 대해서도 별도의 조처를 하는 것을 검토 중에 있음을 알리며, 서은우씨 역시 A씨에 대한 위법행위를 중단해 주실 것을 요청드린다”고 했다.&lt;br&gt;&lt;br&gt;서은우는 지난 2일 자신의 인스타그램을 통해 “아빠 된 거 축하해”라는 글과 함께 초음파 사진, A씨와 찍은 사진을 올리며 A씨가 만남을 거부하고 있다는 취지의 글을 게재했다. 또 아이 아빠로 추정되는 남성과 촬영한 다정한 사진을 공유한 뒤 그의 실명과 나이 등의 신상을 공개했다.&lt;br&gt;&lt;br&gt;3일 서은우는 “저 임신시킨 A씨로부터 연락을 받았다. 형사처벌 할 거라고 한다”며 “돈도 없고 변호사 선임할 능력도 없다. 제가 바라는 건 아기 낳고 키우는 거 어떻게 도울 건지 대화로 상의하는 것뿐이다”라고 주장했다.&lt;br&gt;&lt;br&gt;서민재는 2020년 채널A ‘하트시그널3’ 출연자로 얼굴을 알렸다. 출연 당시 자동차 회사의 엔지니어로 소개됐던 그는 방송 이후 퇴사 소식을 전했다.&lt;br&gt;&lt;br&gt;이후 그룹 위너 출신 가수 남태현과 서울 용산구에 카페를 오픈하고 함께 운영 중인 것으로 알려졌던 그는 2022년 8월 남태현과 자택에서 필로폰을 투약한 혐의로 징역 10개월에 집행유예 2년을 선고받았다. 현재는 재활 치료를 받으며 한국마약퇴치운동본부 회복지원가(마약 중독자의 중독 상담 등을 돕는 직무) 양성 과정을 밟고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>검찰, 尹 서초동 사저 압수수색... ‘건진법사’ 의혹 수사  </title>
+      <link>https://www.chosun.com/national/2025/04/30/6PMB7LO2YJGBPER7OK7ISQQS6Y/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2025/04/30/6PMB7LO2YJGBPER7OK7ISQQS6Y/</guid>
+      <dc:creator>고유찬 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 30 Apr 2025 00:30:08 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G75ISWOSYFIHXIVO2XCICURAHA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령 부부와 건진법사 전성배씨 사이의 각종 의혹을 수사 중인 검찰이 윤 전 대통령의 사저에 대해 압수수색에 들어간 30일 서울 서초구 아크로비스타 앞에서 취재진이 촬영하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰이 30일 오전 윤석열 전 대통령의 서울 서초동 아크로비스타 사저 압수수색에 돌입했다.&lt;br&gt;&lt;br&gt;서울남부지검 가상자산범죄합동수사부(부장 박건욱)은 이날 오전 ‘건진 법사’ 전성배(65)씨의 청탁금지법위반 사건과 관련해서 윤 전 대통령 부부 사저를 압수수색 중이라고 밝혔다.&lt;br&gt;&lt;br&gt;그간 윤 전 대통령 부부는 여러 의혹으로 수사선상에 올랐지만 지난 4일 파면된 이후 압수수색을 당한 것은 이번이 처음이다.&lt;br&gt;&lt;br&gt;아크로비스타 사저는 경호 구역이기는 하지만 기존 한남동 관저처럼 형사소송법상 군사상·직무상 비밀을 요구하는 장소는 아닌 것으로 알려졌다. 따라서 압수수색 불승인 등의 절차 사유가 적용되지 않는다.&lt;br&gt;&lt;br&gt;전씨 부부와 딸, 처남 등 전씨 일가(一家)는 윤석열 전 대통령, 김 여사와 친분을 과시하면서 공천 및 인사 청탁 등에 관여한 혐의를 받고 있다. 검찰은 전씨 가족들이 잇달아 휴대폰을 교체하는 등 증거인멸을 시도한 정황을 포착하고 수사 대상을 넓히는 것으로 전해졌다.&lt;br&gt;&lt;br&gt;검찰은 전씨가 작년 하반기 ‘김 여사 선물’이라며 통일교(현재 세계평화통일가정연합) ‘2인자’였던 윤모 전 본부장으로부터 받았던 목걸이가 초고가 영국 명품 ‘그라프(Graff)’사 제품이라고 확인한 것으로 전해졌다. 앞서 김 여사는 2022년 6월 윤 전 대통령 취임 첫 해외 순방인 나토(NATO·북대서양조약기구) 정상회의 당시 6000만원대 프랑스 명품 브랜드 ‘반클리프 앤 아펠(Van Cleef &amp;amp; Arpels)’의 목걸이를 착용했었다. 당시 김 여사가 착용한 목걸이가 재산 신고 목록에 없어 정치권에선 ‘재산 누락 논란’이 불거졌다. 당시 대통령실은 “목걸이는 지인에게 빌린 것”이라고 했었다. 검찰은 순방 직후 윤 전 본부장이 전씨에게 “김 여사에게 선물할 것이니, 빌리지 말라”고 한 대화를 확보했다. 검찰은 윤 전 본부장이 ‘김 여사 선물’이라는 명분으로 고가의 가방을 목걸이와 비슷한 시기 전씨에게 전달한 정황도 포착한 것으로 알려졌다. &lt;br&gt;&lt;br&gt;검찰은 윤 전 본부장과 전씨가 김 여사에게 줄 선물을 논의하는 과정에서 김 여사도 이를 인지하고 있었는지 여부도 수사해왔다. 그러나 김 여사 측은 “(전씨로부터) 목걸이를 받은 적이 없다”고 했다. 이번 압수수색은 논란의 목걸이 및 고가의 가방이 실제 김 여사 측에 전달됐는지를 확인하려는 시도라는 관측도 나온다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/G75ISWOSYFIHXIVO2XCICURAHA.jpg?auth=00cf5d04ac93de161cb1aa4da91dd4d1da972e5f27d0730689be71c36757d37a&amp;smart=true&amp;width=6000&amp;height=4000" type="image/jpeg" height="4000" width="6000">
+        <media:description type="plain">윤석열 전 대통령 부부와 건진법사 전성배씨 사이의 각종 의혹을 수사 중인 검찰이 윤 전 대통령의 사저에 대해 압수수색에 들어간 30일 서울 서초구 아크로비스타 앞에서 취재진이 촬영하고 있다. /연합뉴스</media:description>
+        <media:credit role="author" scheme="urn:ebu">김도훈</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>검찰, 김건희 운영 ‘코바나컨텐츠’ 사무실도 압수수색</title>
+      <link>https://www.chosun.com/national/national_general/2025/04/30/RPXLRRGTKBDWRCNGXNI3HRSSYU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/04/30/RPXLRRGTKBDWRCNGXNI3HRSSYU/</guid>
+      <dc:creator>고유찬 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 30 Apr 2025 06:41:34 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TLMWEUPXIWKZYTYBNXUKQBPMRY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;코바나컨텐츠 입구 사진. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰이 윤석열 전 대통령 부부 사저와 함께 김건희 여사가 운영하던 코바나컨텐츠 사무실도 압수수색한 것으로 파악됐다. 윤 전 대통령 탄핵 이후 관저에 있던 일부 이삿짐이 사저 상가 1층에 있는 옛 코바나컨텐츠 사무실로도 옮겨졌기 때문이다.&lt;br&gt;&lt;br&gt;30일 법조계에 따르면 서울남부지검 가상자산범죄합동수사부(부장 박건욱) 이날 오전부터 무속인 ‘건진 법사’ 전성배(65)씨의 청탁금지법 위반 혐의 등을 수사하기 위해 윤 전 대통령 부부의 서초동 소재 아크로비스타 사저와 더불어 아크로비스타 상가 1층에 위치한 코바나컨텐츠 사무실을 압수수색했다.&lt;br&gt;&lt;br&gt;코바나컨텐츠는 윤 전 대통령이 취임한 직후인 2022년 5월 폐업 신고를 냈지만, 이후에도 사무실은 사용돼 왔다. 같은 해 9월, 김 여사가 재미동포 최재영 목사로부터 300만원 상당의 디올 백을 받은 장소가 바로 이곳이었다. &lt;br&gt;&lt;br&gt;지난해 2월엔 김 여사 지인의 투자 회사가 이곳에 입주한 것으로 전해졌다. 그러다 지난 4일 윤 전 대통령이 탄핵된 이후 사무실을 비웠고, 다시 코바나컨텐츠 측에서 내부 공사 등을 진행하며 입주를 준비하던 중인 것으로 알려졌다. &lt;br&gt;&lt;br&gt;검찰이 윤석열 전 대통령 자택에 대한 압수수색에 나선 것은 무속인 전성배 씨 일가의 청탁 정황과 함께 김건희 여사의 고가 명품 수수 의혹에 대한 수사를 본격화한 데 따른 것이다.&lt;br&gt;&lt;br&gt;검찰은 전씨가 윤 전 대통령 부부와의 친분을 내세워 공천·인사에 개입한 혐의를 포착하고 수사를 확대하고 있다. 전씨는 통일교 전 세계본부장 윤모 씨로부터 ‘김 여사 선물’ 명목으로 고가의 다이아몬드 목걸이와 명품 가방을 건네받은 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>절 대신 집에서 템플스테이… 젊은이 찾아가는 스님들</title>
       <link>https://www.chosun.com/national/national_general/2025/05/05/26DNHPNBWZGWLFY3QJCSHIZMUM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/05/05/26DNHPNBWZGWLFY3QJCSHIZMUM/</guid>
@@ -892,33 +923,6 @@
       <description/>
       <pubDate>Fri, 02 May 2025 08:40:19 +0000</pubDate>
       <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XTNRHJMQTNPN7LDHGZZ6ZXZAYY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;박성재 법무부 장관(사진 가운데)이 2일 서울 여의도 국회에서 열린 법제사법위원회 전체회의에 참석하고 있다. 왼쪽부터 김정원 헌법재판소 사무처장, 박성재 법무부 장관, 천 법원행정처장. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;박성재 법무부 장관이 ’12·3 비상계엄 사태’와 관련해 박 장관을 조사한 검사가 최근 사의를 표명한 것은 자신과 무관하다고 2일 밝혔다.&lt;br&gt;&lt;br&gt;박 장관은 이날 국회 법제사법위원회 긴급현안질의에 나와 ‘대전지검 남재현 검사(46·변호사시험 1회)가 지난달 29일 사의를 표명했는데 혹시 외압을 행사했냐, 주변 경로로 사퇴하라고 했냐’는 더불어민주당 장경태 의원의 질의에 “어떤 경로를 말씀하시는지 모르겠는데 (남 검사의) 사의에 다른 사람이라도 누가 관여했으면 말씀해달라”고 답했다. 남 검사가 본인 의사에 따라 검찰을 떠나기로 한 것이라는 뜻이다. &lt;br&gt;&lt;br&gt;남 검사는 12·3 비상계엄 사태를 수사한 검찰 특별수사본부(본부장 박세현 서울고검장)에서 파견 근무하며 박 장관을 피고발인 신분으로 불러 조사했다. 2022년 2월부터 서울중앙지검 소속이었다가 지난 2월 대전지검으로 전보됐고 특수본 파견도 마쳤다. 지난달 29일 검찰 내부망(이프로스)에 사직 인사를 올렸다.&lt;br&gt;&lt;br&gt;특수본 관계자는 “본인이 뜻한 바가 있어서 사직한 것으로 안다”면서 “남 검사가 이제 와서 장관 때문에 사의를 표명한다는 것은 맞지 않는 얘기”라고 했다. 올렸다.&lt;br&gt;&lt;br&gt;남 변호사는 2012년 변호사시험에 합격한 후 김앤장에서 근무하다 2014년 검사에 임용됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>천대엽 “대법관들, 법률 따라 처리”… 정청래 “가증스럽다”</title>
-      <link>https://www.chosun.com/national/court_law/2025/05/02/6XTYCIFC7ZGYFJUCXDC3UYQYLY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/05/02/6XTYCIFC7ZGYFJUCXDC3UYQYLY/</guid>
-      <dc:creator>박강현 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 02 May 2025 08:19:53 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/27R2TJGB6BOAZKUT6QGFWAQRZU.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;정청래 법제사법위원장이 2일 오전 서울 여의도 국회에서 열린 법제사법위원회 전체회의에서 발언하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국회 법제사법위원회는 2일 긴급현안질의를 열고 전날 더불어민주당 이재명 대선 후보의 공직선거법 위반 사건 상고심 유죄 취지 파기환송 결과를 두고 설전을 벌였다.&lt;br&gt;&lt;br&gt;더불어민주당 의원들은 대법원 판결을 두고 “사법 쿠데타”라고 비판했고, 국민의힘 의원들은 “사법부에 대한 공격”이라며 맞섰다.&lt;br&gt;&lt;br&gt;이 과정에서 민주당 소속 정청래 국회 법제사법위원장은 천대엽(대법관) 법원행정처장을 향해 “천대엽 대법관님, 지금 말씀하신 부분이 좀 가증스러워 지적하고자 한다”고 비난했다.&lt;br&gt;&lt;br&gt;천 처장이 직전에 “대법관이 되고 나선 어디에도 구속되지 않고 오로지 헌법과 법률에 따라서만 모든 사건을 처리하는 것이 제가 지금까지 경험해 온 바이고, 모든 대법관이 한결같이 지키고 있는 원칙이라고 믿고 실제로도 그렇다고 말씀드릴 수 있다“고 한 부분에 대한 평가였다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MMS26IGCBJKTPFVZHWGH642CBM.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;천대엽 법원행정처장이 2일 오후 서울 여의도 국회에서 열린 법제사법위원회 전체회의에서 의원 질의에 답변하고 있다. 왼쪽은 박성재 법무부 장관. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정 위원장은 위원들 반발에도 계속 천 처장을 향해 “간첩 조작 사건 재심에서 무죄난 것 알고 계시죠? 대법관들이 한 것”이라며 “검사가 써준대로 공소장대로 판결한 법원의 흑역사가 있느냐 없느냐”고 했다. 천 처장은 이에 “있다는 말씀을 드린다”고 답했다.&lt;br&gt;&lt;br&gt;이후 국민의힘 곽규택 의원은 정 위원장이 과거 1989년에 ‘반미(反美) 구국 투쟁’ 차원에서 벌인 미 대사관저 방화예비 사건을 겨냥한 듯 “미 문화원에 불 지른 사람이”라고 말했고, 정 위원장은 “제 얘기를 하는 것 같은데 저는 ‘미 대사관저 사건’이다. 밖에서 (허위 사실을) 떠들어보라. 즉각 사법 조치할 것”이라고 경고하는 일이 벌어지기도 했다. 정 위원장은 곽 의원의 퇴장을 명령하기도 했는데, 국민의힘은 즉각 반발하며 항의했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ACCWKTQXTBIIVFOFEMQ4BNYUBA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;곽규택(가운데) 국민의힘 의원이 2일 오후 서울 여의도 국회에서 열린 법제사법위원회 전체회의에서 정청래 법사위원장의 퇴장명령에 대해 항의하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;또 이날 정 위원장은 “이재명 후보만 신속한 재판을 받을 헌법적 권리를 보장하기 위해 (대법원에서) 노력하셨는데, 다른 일반 국민들도 이렇게 9일 만에 대법원에서 재판받을 수 있는 권리를 저희가 드리고자 한다”며 “지금 있는 대법관 수로는 턱없이 부족하지 않느냐. 그러니 대법관을 많이 늘려야 되는 것이 맞지 않느냐”고 물었고, 천 처장은 “그와 같은 쟁점이 안건으로 회부되면 저희들도 차분히 검토를 해보겠다”고 했다.&lt;br&gt;&lt;br&gt;한편 천 처장은 송석준 국민의힘 의원의 ‘대법원 판결이 사법 쿠데타냐’는 질문에 “저희 사법부는 법치주의 확립을 위해 사법부가 해야 할 모든 역할을 충실히…”라며 “쿠데타라고 볼 수 없다”고 답했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>’문재인 추천’ 김유진 전 방심위원, 해촉 취소소송 1심 승소</title>
-      <link>https://www.chosun.com/national/court_law/2025/05/02/M5VZR7MISRBWPC6I5JX6LKDQLI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/05/02/M5VZR7MISRBWPC6I5JX6LKDQLI/</guid>
-      <dc:creator>방극렬 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 02 May 2025 08:04:34 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WV2AI3GQEOQ7KVTG4QG4HCTHIU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김유진 전 방송통신심의위원회 위원. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;문재인 전 대통령 추천 인사였던 김유진 전 방송통신심의위원회 위원이 윤석열 정부의 해촉 처분에 불복해 낸 소송 1심에서 이겼다.&lt;br&gt;&lt;br&gt;서울행정법원 행정4부(재판장 김영민)는 2일 김 전 방심위원이 대통령을 상대로 낸 해촉 처분 취소 소송에서 원고 승소로 판결했다. 윤석열 전 대통령은 작년 1월 김 전 위원에 대한 방심위의 해촉 건의안을 재가했다.&lt;br&gt;&lt;br&gt;당시 방심위는 야권 추천 위원인 김 전 위원이 비밀유지 의무를 위반했다며 해촉 안을 의결했다. 김 전 위원이 취소됐던 방심위 전체회의 안건을 취재진에게 공개했다는 등의 이유였다.&lt;br&gt;&lt;br&gt;김 전 위원은 해촉에 불복해 취소 소송과 집행정지 신청을 냈고, 법원이 작년 2월 집행정지를 받아들여 김 전 위원은 복귀했다. 그러다 같은 해 7월 임기 만료로 퇴직했다.&lt;br&gt;&lt;br&gt;민주언론시민연합 사무처장을 지낸 김 전 위원은 2021년 문 전 대통령 추천 몫으로 방심위원에 임명됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“예약하신 유심 입고됐어요” 문자 확산… URL 눌렀다간 큰일 난다</title>
-      <link>https://www.chosun.com/national/national_general/2025/05/02/BQMI45VS4ZFZJNL23MYPPDHQRA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/05/02/BQMI45VS4ZFZJNL23MYPPDHQRA/</guid>
-      <dc:creator>문지연 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 02 May 2025 07:50:09 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UEOAWXU3DNBWNIK6KO6LQ5J4ZQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;무작위로 전송된 스미싱 문자. /X(옛 트위터)&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;SK텔레콤 유심(USIM) 정보 유출 사태를 악용한 ‘스미싱’ 범죄가 등장해 가입자들의 주의가 요구된다.&lt;br&gt;&lt;br&gt;최근 X(옛 트위터) 등 여러 소셜미디어에는 유심 관련 문자메시지를 받았다는 네티즌들의 인증 사진이 공유되고 있다. 문제의 문자에는 ‘SKT 유심 재고 도착 알림’이라는 제목 아래 “고객님이 예약하신 유심이 대리점에 입고되었습니다. 방문 전 본인 확인을 위해 아래를 눌러 본인 확인하세요”라는 안내가 적혔다. 마지막 줄에는 출처가 불분명한 URL(인터넷 주소)도 첨부됐다.&lt;br&gt;&lt;br&gt;이에 일부 네티즌들은 “이거 진짜인가. 가짜라면 진짜 도착 문자는 어떻게 믿냐” “나이 든 부모님이 모르고 누르실까 봐 걱정된다”라며 우려를 표했다. 혼란을 부른 이 문자는 SK텔레콤을 사칭한 스미싱으로 파악됐다. 스미싱은 ‘문자메시지’(SMS)와 ‘피싱’(Phishing)의 합성어로, 가짜 정보 내 URL을 클릭하면 악성 앱이 설치되거나 개인 정보가 유출돼 피해를 볼 수 있다.&lt;br&gt;&lt;br&gt;SK텔레콤은 2일 서울 중구 사옥에서 연 브리핑을 통해 “현재까지 당사는 유심 재고 도착과 관련된 문자를 보내지 않고 있다”며 “대기 순서가 되면 114 번호를 통해 발송하게 될 것”이라고 밝혔다. 이어 경찰청 등 관계 기관과 스미싱 피해 방지 활동을 확대할 예정이라며, 가입자들의 주의를 당부했다.&lt;br&gt;&lt;br&gt;한국인터넷진흥원(KISA)도 유심 재고가 도착했다는 내용의 스미싱 문자 유포를 24시간 집중 점검하고 있다고 했다. 아직 직접적인 피해는 발견되지 않았다고 한다. KISA 측은 “SKT나 공공기관의 공지 문자로 위장한 스미싱 문자에 URL이 포함됐을 경우 절대로 클릭하지 말고 삭제해 달라”고 덧붙였다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>어린이날 밤부터 전국에 비...6일까지 이어져</title>
