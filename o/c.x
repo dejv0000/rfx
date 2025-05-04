@@ -13,6 +13,28 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>온라인 게임서 알게 된 지인 찾아가 흉기 협박한 30대 ‘집유 1년’</title>
+      <link>https://www.chosun.com/national/court_law/2025/05/04/JE7DWRELYRCTDIFID247PKKQPU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/05/04/JE7DWRELYRCTDIFID247PKKQPU/</guid>
+      <dc:creator>원주=정성원 기자</dc:creator>
+      <description>온라인 게임에서 알게 된 지인이 자신을 험담했다는 이유로 지인을 흉기로 협박한 30대가 법원으로부터 집행유예를 선고받았다.
+춘천지법 원주지원 형사1단독 김현준 부장판사는 특수협박 혐의로 기소된 A(33)씨에게 징역 6개월에 집행유예 1년을 선고했다고 4일 밝혔다.
+</description>
+      <pubDate>Sun, 04 May 2025 01:07:25 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KYUTM35NP5F5GTBMEVJXMVTOYE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;춘천지법 원주지원./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;온라인 게임에서 알게 된 지인이 자신을 험담했다는 이유로 지인을 흉기로 협박한 30대가 법원으로부터 집행유예를 선고받았다.&lt;br&gt;&lt;br&gt;춘천지법 원주지원 형사1단독 김현준 부장판사는 특수협박 혐의로 기소된 A(33)씨에게 징역 6개월에 집행유예 1년을 선고했다고 4일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 작년 12월 10일 전화로 B(37)씨에게 자신을 험담한 이유를 따져 묻던 중 B씨가 “너를 죽일지를 모른다”는 말을 하자 B씨의 직장인 강원 원주시 한 자동차 정비 공업사를 찾아가 B씨를 흉기로 협박해 위협한 혐의를 받고 있다. 두 사람은 온라인 게임을 하며 알던 사이였다.&lt;br&gt;&lt;br&gt;김 부장판사는 “사람을 살상할 수 있는 물건으로 피해자를 협박한 행동의 위험성이 매우 크다”면서 “피해자가 처벌을 원하지 않는 점 등을 양형에 참작했다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>아내 때리고, 장모 흉기 위협한 60대</title>
+      <link>https://www.chosun.com/national/court_law/2025/05/04/6JA4QK2RYNDWPAATFBBRHPRVXE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/05/04/6JA4QK2RYNDWPAATFBBRHPRVXE/</guid>
+      <dc:creator>춘천=정성원 기자</dc:creator>
+      <description>별거를 위해 짐을 챙기던 아내를 때리고 흉기로 장모까지 위협한 60대 남편이 벌금형을 선고받았다.
+춘천지법 형사1단독 송종환 부장판사는 특수폭행 등 혐의로 기소된 A(65)씨에게 벌금 500만원을 선고했다고 4일 밝혔다.
+</description>
+      <pubDate>Sun, 04 May 2025 01:04:14 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RJ2RVCFIXF7PW6QR6JJNXC5V6M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;춘천지법 전경./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;별거를 위해 짐을 챙기던 아내를 때리고 흉기로 장모까지 위협한 60대 남편이 벌금형을 선고받았다.&lt;br&gt;&lt;br&gt;춘천지법 형사1단독 송종환 부장판사는 특수폭행 등 혐의로 기소된 A(65)씨에게 벌금 500만원을 선고했다고 4일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 작년 6월 강원 화천군 자택에서 별거를 위해 가전제품을 챙기던 아내 B(63)씨에게 “그걸 왜 가지고 가냐”며 욕설하고 B씨를 흉기로 때린 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;A씨는 또 장모 C(85)씨도 흉기로 위협하기도 했다.&lt;br&gt;&lt;br&gt;송 부장판사는 “피고인은 조세범 처벌법 위반죄 집행 유예 기간 중임에도 이 사건 범행을 저질렀다”면서 “다만 피해자들이 피고인에 대한 형사처벌을 원하지 않은 점 등을 양형에 참작했다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>“과자는 못 사 미안합니다”… 폐지 팔아 산 라면상자 몰래 놓고 간 ‘세 아이 아빠’ </title>
       <link>https://www.chosun.com/national/national_general/2025/05/04/RUKBF5D2TBBJHJOSYJVACESYGU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/05/04/RUKBF5D2TBBJHJOSYJVACESYGU/</guid>
@@ -957,24 +979,6 @@
       <description/>
       <pubDate>Thu, 01 May 2025 09:47:18 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/E2YF75U4OC2X6OL437ZYECVP3M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이재명 더불어민주당 대통령 후보가 1일 서울 종로구의 한 포차 식당에서 '당신의 하루를 만드는, 보이지 않는 영웅들'이란 주제로 열린 배달 라이더, 택배 기사 등 비(非)전형 노동자들과 간담회를 마친 뒤 나서며 손인사를 하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;1일 대법원 전원합의체가 이재명 더불어민주당 대선 후보의 공직선거법 위반 사건을 파기환송한 것을 두고 법조계에서는 “법리적으로 당연한 결론”이라는 평가가 나왔다.&lt;br&gt;&lt;br&gt;이날 대법원은 “2심 판단에는 공직선거법에 관한 법리를 오해해 판결에 영향을 미친 잘못이 있다”라며 이 후보에게 무죄를 선고한 원심을 파기하고 사건을 서울고법으로 돌려보냈다. &lt;br&gt;&lt;br&gt;이에 한 전직 헌법재판관은 “앞서 2심에서 워낙 납득할 수 없는 판결을 해서 사법 불신이 극대화됐다”라며 “대법원에서 도저히 이대로 둘 수 없다고 보고 법리를 바로잡아야 한다는 입장이 강했을 것”이라고 했다. 차장검사 출신 김종민 변호사도 “1심과 같은 결론으로, 당연한 사실을 확인한 것”이라며 “한편으론 대법원이 (파기자판으로) 깨끗하게 정리를 해줬으면 하급심에 부담을 주지 않았을 것 같다”라고 했다.&lt;br&gt;&lt;br&gt;대법원이 허위사실공표죄를 둘러싼 논란을 불식시키려 했다는 분석도 나온다. 한 전직 대법관은 “허위사실공표죄에 관한 논란이 계속 있었는데, 선거 때마다 정치인 발언을 둘러싼 문제가 불거질 테니 이참에 정리하자는 뜻도 있었을 것”이라고 설명했다. &lt;br&gt;&lt;br&gt;전문가들은 이 후보가 대통령에 당선된 이후에도 재판을 진행할 수 있을지를 두고는 의견이 엇갈렸다. 김 변호사는 “형사상 소추에 대해서는 수사와 기소를 뜻한다는 게 교과서에 나오는 얘기”라며 “재판은 이에 포함되지 않는다”라고 주장했다. 대통령 신분으로도 피고인으로서 재판을 받을 수 있다는 의미다. 반면 서울 소재의 한 로스쿨 교수는 “다시 재판을 하더라도 정상적으로 진행할 수 있을지는 의문”이라고 했다.&lt;br&gt;&lt;br&gt;이 후보는 공직선거법상 허위사실공표 혐의로 2022년 9월 기소됐다. 1심은 작년 11월 “해외 출장 중 김씨와 골프를 치지 않았다” “국토부 협박으로 백현동 부지 용도를 상향했다”는 발언은 거짓말에 해당한다며 징역 1년에 집행유예 2년을 선고했다. 2심은 지난 3월 1심을 뒤집고 무죄를 선고했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>이재명 대법 파기환송에...검찰 “선고 취지 따라 공소유지 만전”</title>
-      <link>https://www.chosun.com/national/court_law/2025/05/01/XTH6RMFM5BBL7KK4TRKA2DCJHE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/05/01/XTH6RMFM5BBL7KK4TRKA2DCJHE/</guid>
-      <dc:creator>박강현 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 01 May 2025 08:20:19 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/III7XXNCSNA2ZPL7EJEOHVE2QM.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;서울중앙지검. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰은 1일 대법원이 더불어민주당 이재명 대선 후보의 공직선거법 위반 사건 상고심에서 유죄 취지로 파기환송하자 선고 취지에 따른 형이 선고될 수 있도록 하겠다는 입장을 밝혔다.&lt;br&gt;&lt;br&gt;서울중앙지검은 이날 대법원 선고 직후 입장문을 통해 “원심의 법리오해 등 위법을 바로 잡은 대법원 판결 선고 취지에 따라 파기환송심에서 죄에 상응하는 형이 선고될 수 있도록 공소유지에 만전을 기하겠다”고 했다.&lt;br&gt;&lt;br&gt;앞서 이 후보는 지난 대선을 앞둔 2021년 대장동 개발 실무 책임자였던 고(故) 김문기씨를 성남시장 시절 알았으면서도 몰랐다고 말하고, 국정감사에 나가 국토교통부 협박으로 백현동 부지 용도를 상향했다고 발언해 허위 사실 공표 혐의로 2022년 9월 재판에 넘겨졌다. &lt;br&gt;&lt;br&gt;지난해 11월 1심 재판부인 서울중앙지법 형사34부(재판장 한성진)는 징역 1년에 집행유예 2년을 선고했으나, 항소심 재판부인 서울고법 형사6-2부(재판장 최은정)는 지난 3월 26일 무죄를 선고했다. &lt;br&gt;&lt;br&gt;당시 항소심 재판부는 1심이 허위 사실 공표로 인정한 이 후보 발언을 허위 사실이 아닌 ‘인식·의견 표명’으로 봐야 한다며 무죄를 선고했다.&lt;br&gt;&lt;br&gt;이후 검찰은 “항소심 법원 판단은 피고인의 발언에 대한 일반 선거인들의 생각과 너무나도 괴리된, 경험칙과 상식에 부합하지 않는 판단으로 공직선거법의 허위사실 공표죄에 관한 법리를 오해한 위법이 있다”며 곧바로 상고했다.&lt;br&gt;&lt;br&gt;그리고 대법원은 한 달여간 사건을 심리한 뒤 이날 이 후보에게 무죄를 선고한 2심 판결은 법리를 오해했다며 원심을 깨고 사건을 유죄 취지로 서울고법에 돌려보냈다. 서울고법은 대법원 판결 취지를 반영해 이 후보 사건을 다시 심리·선고해야 한다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>檢, 소외계층 후원단체 가장해 50억 가로챈 50대 男 구속 기소</title>
-      <link>https://www.chosun.com/national/national_general/2025/05/01/SMV3MTSLSRAUVAFQT4P37RCNHQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/05/01/SMV3MTSLSRAUVAFQT4P37RCNHQ/</guid>
-      <dc:creator>박정훈 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 01 May 2025 08:15:53 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XDOSOQGSUR5M2ZYZFZVDX6RIII.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 양천구 서울남부지방검찰청 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;영리 법인임에도 마치 소외 계층을 돕는 후원 단체인 것처럼 꾸며 수십억 원을 가로챈 텔레마케팅 업체 운영자가 1일 구속 상태로 재판에 넘겨졌다. 당초 경찰은 사기 피해 규모를 1억원대로 봤으나, 검찰의 직접 재수사 결과 피해 규모가 50억원에 달하는 것으로 나타났다.&lt;br&gt;&lt;br&gt;서울남부지검 형사5부(부장 조재철)는 사회적 소외 계층에 대한 교육 후원금 명목으로 1만9000여 명으로부터 도합 50억여 원을 편취한 텔레마케팅 업체 운영자 50대 남성 A씨를 특정경제범죄가중처벌 등에 관한 법률 위반(사기) 혐의로 구속 기소하고, 영업 총책인 40대 여성 B씨를 같은 혐의로 불구속 기소했다고 이날 밝혔다. &lt;br&gt;&lt;br&gt;검찰에 따르면 A씨 일당은 지난 2010년 9월부터 2015년 10월까지 사실은 영리법인으로서 소외 계층에 교육 후원을 제공할 의사나 능력이 없음에도 “나눔교육 캠페인에 참여해 후원금을 내면 온라인 수강권을 제공하고 소외 계층에 속하는 수혜자를 매칭해 그 수혜자에게 온라인 강의를 제공하는 방식으로 교육 후원을 한다”고 속여 후원금을 가로챈 혐의를 받는다. &lt;br&gt;&lt;br&gt;실제로 회원들은 업체 말을 믿고 매달 회비를 냈지만, A씨 일당은 사실 필요도 없는 온라인 강의 상품을 구매토록 하는 등 돈벌이 수단으로 공익 후원을 악용했다고 한다. 또 후원 단체로 가장하기 위해 텔레마케터들이 ‘문화복지사’ 자격증 소지자인 것처럼 허위 내용을 홈페이지에 기재하고 실제로 허위의 자격을 사칭하기도 한 것으로 나타났다. &lt;br&gt;&lt;br&gt;후원한 회원들은 검찰 조사에서 허탈함을 표하기도 했다. 한 후원자는 “복지사라는 사람으로부터 소외 계층 교육비뿐 아니라 생활비까지 지원한다는 말을 듣고 어린아이를 키우는 입장에서 측은한 마음에 어려운 형편에도 월 10만 원까지 냈는데 후원금이 다른 용도로 사용되었다니 배신감이 든다”고 한 것으로 전해졌다. &lt;br&gt;&lt;br&gt;앞서 경찰은 해당 사건을 수년간 수사해 1억 3000여 만원 규모로 사기 규모를 파악하고 지난해 2월 검찰에 송치했지만, 검찰 재수사 결과 편취 금액은 50억원에 달하는 것으로 나타났다.&lt;br&gt;&lt;br&gt;검찰은 “공익을 팔아 사익을 편취한 사건으로 그로 인해 실제로 도움의 손길이 필요한 소외 계층의 기회는 박탈됐다”며 “선량한 국민들의 선의를 악용하는 조직적 사기 범행 등 서민 생활 침해 사범에 엄정 대응하겠다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
