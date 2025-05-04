@@ -13,6 +13,55 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>후진국형 질병의 역습…올해 국내 홍역 환자 6년 만에 최다</title>
+      <link>https://www.chosun.com/national/welfare-medical/2025/05/04/L7CK4DWNMNEGTA65DQ7VXEATB4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/05/04/L7CK4DWNMNEGTA65DQ7VXEATB4/</guid>
+      <dc:creator>오경묵 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 04 May 2025 04:37:08 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/S2AORNBPZ5CUSQOSYDAAZW23II.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기도 안양의 한 병원에 홍역 선별진료소 안내문이 설치돼 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전 세계적으로 홍역이 유행하면서 ‘홍역 퇴치국’인 우리나라의 올해 홍역 환자도 2019년 이후 6년 만에 최다치를 기록한 것으로 나타났다.&lt;br&gt;&lt;br&gt;4일 질병관리청에 따르면 올해 들어 지난 1일까지 신고된 홍역 환자는 모두 52명이다. 지난해 한 해동안 발생한 환자 49명보다 많은 것으로, 2019년(연간 194명) 이후 6년 만에 최다다. 국내 홍역 환자는 코로나 기간이던 2020년 6명, 2021년과 2022년엔 0명이었고 2023년엔 8명을 기록했다. &lt;br&gt;&lt;br&gt;우리나라는 세계보건기구(WHO)가 인증한 홍역 퇴치국이다. 2001~2002년 홍역 대유행 시기 5만5000여명의 환자가 나왔는데, 정부의 집중적 퇴치 사업으로 환자가 급감했다. 2006년 홍역 퇴치 선언을 했고, 2014년 WHO의 홍역 퇴치국 인증을 받았다.&lt;br&gt;&lt;br&gt;그런데 올해는 홍역이 세계적으로 유행하면서 국내에도 영향을 미치고 있다. 베트남은 올해 들어 지난달 17일까지 8614명이 홍역 확진 판정을 받았다. 지난해 확진 환자(7838명)를 넘어서는 규모다. 미국도 지난달 24일까지 884명이 확진돼 전년 환자(285명)의 3배를 넘어섰다.&lt;br&gt;&lt;br&gt;국내 홍역 환자도 대부분 해외 유입 사례다. 올해 환자 52명 중에서도 34명이 해외에서 감염돼 들어온 경우고, 나머지 18명은 해외 유입 환자를 통해 가정이나 의료기관에서 전파된 경우다. 해외유입 대다수가 베트남발 감염이다. 질병청은 “해외여행을 가기 전 홍역 백신을 접종하고 출국하는 것을 권고한다”고 했다.&lt;br&gt;&lt;br&gt;홍역과 함께 ‘후진국형 감염병’으로 여겨지는 결핵도 여전히 환자가 적지 않다. 지난해 우리나라 결핵 환자는 1만7944명이었다. 2011년 5만491명에서 13년 연속 감소하고 있지만, 2030년 퇴치 목표 달성이 쉽지 않다는 전망이 나온다.&lt;br&gt;&lt;br&gt;위생 상태가 좋지 않던 시절 유행했던 ‘옴’ 환자도 한해 3~4만명에 달한다. 건강보험심사평가원에 따르면 옴진드기로 인한 피부 질환인 옴 진료인원은 2023년 3만4921명이었고, 지난해에는 1~8월 사이 3만1773명이 진료를 받았다. 홍역과 결핵, 옴이 유행하는 것은 해외여행이나 교류가 늘었고, 고령화에 따른 영향도 일부 있다는 분석이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“왜 기분 나쁘게 쳐다봐”…아파트 주민 흉기 위협한 30대 집유 1년</title>
+      <link>https://www.chosun.com/national/court_law/2025/05/04/3UYJV4VXCFEJBCWB6MA3HC7WKE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/05/04/3UYJV4VXCFEJBCWB6MA3HC7WKE/</guid>
+      <dc:creator>인천=이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 04 May 2025 04:32:02 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AZWLNE2CUVC4BNXL5R7VBKVCJY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;인천지방법원./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;자신을 쳐다봤다는 이유로 아파트 주민을 흉기로 위협한 30대 남성에게 벌금형의 집행유예가 선고됐다. &lt;br&gt;&lt;br&gt;인천지법 형사4단독 곽여산 판사는 특수협박 혐의로 기소된 A(37)씨에 대해 벌금 200만원에 집행유예 1년을 선고했다고 4일 밝혔다. &lt;br&gt;&lt;br&gt;A씨는 지난해 5월 22일 오후 3시 54분쯤 인천시 남동구의 한 아파트 복도에서 흉기를 들고 주민 B씨를 협박한 혐의로 재판에 넘겨졌다. &lt;br&gt;&lt;br&gt;A씨는 눈이 마주쳐 시비가 붙은 B씨에게 “왜 쳐다보냐 사람 기분 나쁘게, 흉기로 찔러 죽여줄까”라고 말하며 위협한 것으로 조사됐다. &lt;br&gt;&lt;br&gt;곽 판사는 “피고인은 범행을 인정하고 반성하는 태도를 보이고 있다”며 “피고인이 우울, 감정 기복, 불안 등 증상을 보이는 외상성 신경증으로 장기간 정신과적 치료를 받아온 점 등을 고려했다”고 양형 이유를 설명했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>108억 횡령한 디저트 프랜차이즈 대표, 항소심서 징역 9년→4년</title>
+      <link>https://www.chosun.com/national/court_law/2025/05/04/N3XVG4YA5RBMNIEOWLEGAHLY5U/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/05/04/N3XVG4YA5RBMNIEOWLEGAHLY5U/</guid>
+      <dc:creator>박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 04 May 2025 04:14:38 +0000</pubDate>
+      <content:encoded>108억원이 넘는 회삿돈을 가로채 도박·유흥비로 탕진한 디저트 프랜차이즈 대표가 항소심에서 징역 4년을 선고받았다. 1심의 징역 9년보다 형량이 절반으로 줄었다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LDKO53ONWCAMWP3KT3UJGAYJUI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울고법 전경./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울고법 형사1부(재판장 윤성식)는 최근 업무상 배임·횡령 등 혐의로 기소된 디저트 프랜차이즈 대표 A씨에게 징역 4년을 선고했다고 4일 밝혔다. 1심은 A씨에게 징역 9년을 선고했지만, 2심은 형을 감경했다.&lt;br&gt;&lt;br&gt;A씨는 2014년부터 2018년까지 납품 업체와 가맹점주들로부터 받은 가맹비와 회사 자금 등을 횡령한 혐의로 기소됐다. 허위 용역비와 과다 계상된 직원 급여 등을 명목으로 자금을 횡령했고, 빼돌린 돈 대부분을 도박과 유흥비로 사용한 것으로 조사됐다. 또 회사 명의로 신형 외제차를 구입한 뒤 개인적으로 사용하는 등 배임 혐의도 있었다. 횡령·배임한 금액은 총 108억5352만원에 달하는 것으로 조사됐다. &lt;br&gt;&lt;br&gt;1심은 작년 8월 A씨에게 징역 9년을 선고했다. 1심은 “피해 액수가 매우 크고 피해가 제대로 회복되지 않았다”며 “85개에 이르던 프랜차이즈 매장 상당수가 폐업하는 등 가맹점주들도 상당한 피해를 입었고, 브랜드는 사실상 없어진 상태”라고 했다. A씨가 수사·재판 과정에서 불성실한 태도를 보인 점, 발작 증세를 이유로 조사를 회피한 점도 불리하게 작용했다. &lt;br&gt;&lt;br&gt;2심은 A씨의 항소를 받아들여 징역 4년을 선고했다. 2심은 “피해 규모가 100억원을 초과하고 다수 가맹점이 폐업하는 등 실질적인 피해자가 발생했다”며 “범행 수법이 불량하고 횡령한 돈을 도박 및 유흥에 사용한 점에 비춰 죄질도 불량하다”고 지적했다.&lt;br&gt;&lt;br&gt;다만 “항소심에 이르러 범죄사실 전부에 대하여 인정하고 있으며, 피고인의 전처가 피해 회사들에 피해 금액 상당액을 지급한 점 등은 유리한 정상”이라고 징역 4년으로 감형했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>전북 제지공장 맨홀서 작업하던 근로자 5명 쓰러져...2명 사망</title>
+      <link>https://www.chosun.com/national/national_general/2025/05/04/4UVQH6A2JZEA3K2Y7UQ4EJ7VNY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/05/04/4UVQH6A2JZEA3K2Y7UQ4EJ7VNY/</guid>
+      <dc:creator>전주=진창일 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 04 May 2025 04:04:35 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QGDISTSZ6GBORWLIYT3UDABRIQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;4일 오전 9시 44분쯤 근로자 5명이 쓰러지는 사고가 발생한 전북 전주시 덕진구의 한 제지공장 맨홀. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전북 전주의 한 제지공장 맨홀 내부에 들어간 근로자 2명이 숨지고 3명이 병원으로 옮겨져 치료를 받고 있다.&lt;br&gt;&lt;br&gt;4일 전북 덕진경찰서와 전북소방본부 등에 따르면 이날 오전 9시 44분쯤 “전북 전주시 덕진구 팔복동의 한 제지공장 맨홀 안에서 작업 중인 근로자가 정신을 잃고 쓰러져 구조하고 있다”는 119 신고가 접수됐다.&lt;br&gt;&lt;br&gt;소방대원들은 현장에 도착해 심정지 상태로 맨홀 밖으로 꺼내져 있던 50대와 40대 남성 등 2명을 병원으로 긴급 이송했다. 이후 의식을 잃은 근로자 1명과 어지럼증을 호소하는 근로자 2명을 맨홀 바깥으로 구조해 병원으로 옮겼다. 심정지 상태로 이송된 2명은 결국 숨졌다.&lt;br&gt;&lt;br&gt;소방당국에 따르면 근로자들이 의식을 잃은 맨홀은 가로 1m, 세로 0.8m, 깊이 3m 크기로 최초 1명의 작업자가 내부에서 작업 중이었다. 소방 관계자는 “최초 119 신고를 통해 작업자 1명이 맨홀에서 나오지 않아 2명이 구하러 들어가는 상황이었던 것으로 보고 있다”고 설명했다.&lt;br&gt;&lt;br&gt;소방에 신고한 뒤에도 맨홀로 먼저 들어간 3명이 나오지 않자 구조 작업을 위해 2명이 더 맨홀에 진입한 것으로 추정된다. 경찰과 소방당국은 가스 중독으로 인한 인명 피해로 추정하고 정확한 사고 경위를 조사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/QGDISTSZ6GBORWLIYT3UDABRIQ.jpg?auth=52c0ee1d59da09c21629a6bd6481c13a84bf2af5aa32dc846aff43b63860e351&amp;smart=true&amp;width=1411&amp;height=1058" type="image/jpeg" height="1058" width="1411">
+        <media:description type="plain">4일 오전 9시 44분쯤 근로자 5명이 쓰러지는 사고가 발생한 전북 전주시 덕진구의 한 제지공장 맨홀. /뉴스1</media:description>
+        <media:credit role="author" scheme="urn:ebu">뉴스1</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>경기 이천서 전 애인과 그의 현 남친 살해한 30대 남성 자수</title>
+      <link>https://www.chosun.com/national/incident/2025/05/04/SPWC2WDXOJD2NP3HP3WA2A2T3U/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/05/04/SPWC2WDXOJD2NP3HP3WA2A2T3U/</guid>
+      <dc:creator>이천=김수언 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 04 May 2025 03:58:01 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZVTN5N5HX6A4HT3LIHKEX4M73A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 이천서 전 여자친구와 그의 현재 남자친구를 살해한 30대 남성이 경찰에 자수했다.&lt;br&gt;&lt;br&gt;4일 경기 이천경찰서에 따르면, 경찰은 살인 혐의로 A씨의 신병을 확보해 형사 입건했다.&lt;br&gt;&lt;br&gt;A씨는 이날 오전 이천시의 한 오피스텔에서 옛 여자친구인 B씨와 그의 현재 남자친구인 C씨를 흉기로 살해한 혐의를 받는다.&lt;br&gt;&lt;br&gt;그는 범행 후 손과 목 부위 등을 다친 상태로 경찰에 자수했다. 현재 병원에 입원에 치료받고 있다. A씨는 진술이 가능한 정도로, 현재로선 생명에 지장이 없는 상태인 것으로 전해졌다.&lt;br&gt;&lt;br&gt;경찰은 오전 9시 8분쯤 사건 현장에서 시신을 발견하고, 현장 감식을 진행하고 있다.&lt;br&gt;&lt;br&gt;A씨는 자수하면서 “전 여자친구와 그의 현 남친과 다투다가 그렇게 됐다” “서로 칼을 찔렀다”는 취지로 진술한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰은 이 같은 진술을 토대로 A씨가 과거 애인 등에 앙심을 품고 범행한 것으로 보고 조사 중이다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “현재로선 일방적인 피의자의 진술만 있을 뿐이고 아직 조사를 할 수는 없는 정도의 건강 상태”라며 “현장 감식이 진행 중으로, 자세한 사건 경위를 조사할 것”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>온라인 게임서 알게 된 지인 찾아가 흉기 협박한 30대 ‘집유 1년’</title>
       <link>https://www.chosun.com/national/court_law/2025/05/04/JE7DWRELYRCTDIFID247PKKQPU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/05/04/JE7DWRELYRCTDIFID247PKKQPU/</guid>
@@ -927,58 +976,6 @@
       <description/>
       <pubDate>Thu, 01 May 2025 12:53:31 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LCCQUZNEK5AL5EG5V3NACQIS24.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이재명 더불어민주당 대선 후보가 1일 서울 종로구의 한 음식점에서 열린 노동자 간담회에 참석한 후 퇴장하고 있다. 대법원 전원합의체는 이날 이 후보에게 무죄를 선고한 원심 판결을 파기하고 사건을 서울고법으로 돌려보냈다. /남강호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;1일 이재명 더불어민주당 대선 후보의 공직선거법 위반 사건 선고를 두고 대법원 전원합의체(전합)를 구성하는 12명의 대법관은 유죄 취지 10명과 무죄 취지 2명으로 갈렸다. 이 후보의 유무죄를 두고 입장이 나뉜 대법관들은 이례적으로 신속했던 전합 심리에 대해서도 상반된 평가를 남겼다.&lt;br&gt;&lt;br&gt;조희대 대법원장을 비롯한 다수의 대법관들은 이 후보의 김문기·백현동 발언을 허위 사실 공표로 판단하면서 ‘신속 재판’의 필요성을 강조했다. 대법원은 지난달 22일 이 사건을 전합에 회부하고 당일 합의 기일을 연 뒤, 이틀 후 추가 합의를 진행하고 선고일을 이날로 잡았다. 대법원 관계자는 “선거법의 취지에 따라 신속하고 깊이 있는 집중 심리를 해 사건의 적시 처리를 도모한 것”이라고 설명했다.&lt;br&gt;&lt;br&gt;반면 무죄 취지 의견을 낸 이흥구·오경미 대법관은 “신속만이 능사는 아니다”며 신속 심리에 비판적인 입장을 드러냈다. 이들은 “대법원은 신속 재판의 원칙을 내세워 유례없이 짧은 기간 내 이 사건 심리를 마무리하고 결론을 내놓았다”며 “대법원의 결론과 논거에 대해 당사자(이 후보)와 국민이 1·2심 논거와 비교해보고, 결론의 타당성과 합리성, 논거의 충실함에 관하여 수긍할 수 있기를 바랄 뿐”이라고 했다.&lt;br&gt;&lt;br&gt;이·오 대법관은 해님과 바람이 누가 나그네의 외투를 먼저 벗게 하는지 내기하는 내용의 이솝 우화 ‘해님과 바람 이야기’를 들어 설득에 시간이 필요하다고 주장했다. 이들은 “해님의 따뜻한 햇볕도 온기를 전할 시간의 지속이 허용되지 않는다면 내기에 이길 수 없었을 것”이라며 “대법원 전합의 요체인 설득과 숙고에는 시간이 필요하다”고 말했다.&lt;br&gt;&lt;br&gt;그러면서 “대법관들 상호 간의 설득과 숙고의 성숙 기간을 거치지 않은 결론은 외관상 공정성에 대한 시비도 문제지만 결론에서도 당사자들과 국민을 납득시키는 데 실패할 수 있다. 이 사건에서 전합의 심리와 재판은 해님이 갖고 있는 무기인 온기와 시간을 적절히 투입해 숙고와 설득에 성공한 경우인가 아닌가”라고 덧붙였다.&lt;br&gt;&lt;br&gt;이에 대해 유죄 취지로 판결한 서경환·신숙희·박영재·이숙연·마용주 대법관 5인은 보충 의견을 통해 “지연된 정의는 정의가 아니다. 선거범 재판은 다른 재판에 우선해 신속히 할 필요가 있다”고 했다. 반대 의견 대법관 2명의 비판을 정면으로 반박한 것이다.&lt;br&gt;&lt;br&gt;이들 대법관은 이 후보 사건 심리가 1심 2년 2개월, 2심 4개월이 걸린 데다 결론도 정반대였다는 점을 지적하면서 “이러한 절차 지연과 엇갈린 실체 판단으로 인한 혼란과 사법 불신의 강도가 유례없다는 인식 아래, 철저히 중립적이면서도 신속한 절차 진행이 필요하다는 공감대가 대다수 대법관 사이에 형성됐다”고 밝혔다.&lt;br&gt;&lt;br&gt;이어 대법관들은 “이 사건의 주요 쟁점은 크게 복잡하지 않다. 1·2심은 동일한 사실관계에 대해 치밀하게 법리를 전개해 적용했고, 이를 판결서에도 상세하게 설시했으므로 대법원은 그중 어느 쪽을 채택할 것인가를 결정하면 충분했다”며 “이미 축적된 판례와 법리, 연구 자료에 더해 쟁점에 관한 입체적이고 심층적인 추가 검토를 집중적으로 행했고, 이를 토대로 치열한 토론을 벌였다”고 했다. 짧은 기간이지만 심도 깊고 충실하게 심리해 결론을 냈다는 것이다. 또 “조 대법원장이 일일이 대법관들의 의견을 확인한 다음 후속 절차로 나아갔다”며 절차적 정당성도 강조했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>대법 “정치인 거짓, 유권자 관점서 봐야... 일반 표현의 자유와 달라”</title>
-      <link>https://www.chosun.com/national/court_law/2025/05/01/O3PWOADWTNDJ5N2XHA3KNV2INE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/05/01/O3PWOADWTNDJ5N2XHA3KNV2INE/</guid>
-      <dc:creator>방극렬 기자, 김은경 기자, 김나영 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 01 May 2025 11:20:41 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/N5SG2KHZONP77DPPLOTVZA63C4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;조희대 대법원장을 비롯한 대법관들이 1일 이재명 더불어민주당 대선 후보의 공직선거법 사건 전원합의체 선고를 위해 서울 서초구 대법원 대법정에 자리해있다. /사진공동취재단&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대법원이 1일 이재명 더불어민주당 대선 후보의 공직선거법 위반 사건을 유죄 취지로 파기환송하면서 선거의 공정성을 해치는 ‘정치인의 거짓말’을 용납하지 않겠다는 뜻을 분명히 했다. 그동안 선거법상 허위 사실 공표 문제는 정치인이 당선을 위해 한 허위 발언을 ‘표현의 자유’로 볼지, 엄격하게 처벌해야 하는지를 놓고 논란이 됐고, 판례도 엇갈렸다. 법조계에선 “유력 대선 주자인 이 후보 사건을 계기로 대법원이 명확한 처벌 기준을 세운 것”이라는 평가가 나왔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HYJBOUQF2RBAPCAHV7ND3TV7NE.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=김성규&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;◇“정치인 거짓말, 유권자 기준으로 판단”&lt;/b&gt;&lt;br&gt;&lt;br&gt;이 후보는 지난 대선을 앞둔 2021년 방송에서 “고(故) 김문기씨를 성남시장 시절 몰랐다” “국민의힘이 제가 김씨와 골프를 친 것처럼 사진을 조작했다”고 말하고, 국정감사에서 “국토교통부 협박으로 백현동 부지 용도를 상향했다”고 해 허위 사실 공표 혐의로 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;1심은 이 중 ‘골프 발언’과 ‘백현동 발언’을 유죄로 인정했다. 그러나 2심은 골프 발언에 대해 “‘김씨와 골프를 치지 않았다’는 뜻이 아닌 다른 의미로도 해석될 수 있다”고 했고, 백현동 발언은 “사실 공표가 아닌 의견 표명”이라며 무죄로 선고했다.&lt;br&gt;&lt;br&gt;이에 대해 대법원은 유권자가 이 후보의 말뜻을 어떻게 이해하는지를 기준으로 유무죄를 따져야 한다고 강조했다. 대법원은 “골프 발언을 듣는 일반 선거인은 ‘김씨와 골프를 치지 않았다’는 의미로 자연스럽게 받아들일 것이다. 2심 판단처럼 다의적 의미로 해석되지 않는다”고 했다. 백현동 발언에 대해서도 “(유권자들에게) 국토부가 협박까지 해서 어쩔 수 없이 용도 지역을 상향했구나 하는 잘못된 인상을 주기에 충분하다”고 했다. 대법원 관계자는 “정치인의 발언은 후보자나 법원이 아닌 유권자 관점에서 해석해야 한다는 점을 강조한 것”이라고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ETJNNYFYIRH5ZNZY5AFL2R7SKQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이재명 더불어민주당 대선 후보가 1일 서울 종로구의 한 음식점에서 열린 노동자 간담회 종료 후 당 관계자에게 전달받은 휴대전화를 확인하고 있다. 대법원 전원합의체는 이날 이 후보에게 무죄를 선고한 원심 판결을 파기하고 사건을 서울고법으로 돌려보냈다. /남강호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;◇”후보자의 발언, 상황·맥락 따져봐야”&lt;/b&gt;&lt;br&gt;&lt;br&gt;대법원은 또 정치인의 발언은 전체적인 상황과 맥락을 따져 허위 여부를 가려내야 한다고 했다. 2심이 이 후보 발언을 잘게 쪼갠 뒤 “골프 발언은 사실상 ‘김씨를 몰랐다’는 뜻이고, 백현동 발언은 독자적 의미를 가진 중요한 부분이 아니다”라고 한 것은 잘못됐다고 지적한 것이다.&lt;br&gt;&lt;br&gt;대법원은 “발언의 의미를 확정할 때는 개별 발언의 관계를 분석·추론하는 데 치중하기보단, 당시 상황과 전체적 맥락에 기초해야 한다”며 “(재판부가) 연결된 발언을 해석하면서 세분하고 인위적으로 분절해 의미를 재구성하는 것은 신중해야 한다”고 했다.&lt;br&gt;&lt;br&gt;대법원은 이 후보가 대선을 앞두고 부패·비리 의혹이 제기되자 이를 부인하기 위해 허위 발언을 했다고 판단했다. 대법원은 “지난 대선 과정에서 대장동 개발 사업 특혜 의혹이 확산되는 중 이 후보가 해외 출장에서 김씨와 골프를 쳤다는 의혹이 제기됐고, 이 의혹을 해명하며 ‘골프 발언’이 나온 것”이라고 했다. 백현동 발언도 “이 후보가 특혜 의혹을 해명하려고 미리 준비한 발언을 한 것”이라고 했다. &lt;br&gt;&lt;br&gt;한 법학전문대학원 교수는 “이 후보는 결국 ‘나는 대장동·백현동과 상관없다’는 거짓말로 국민을 속이려 했던 것”이라며 “맥락을 고려한 대법원 해석이 타당하다”고 했다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇“후보자 표현의 자유, 일반인과 달라”&lt;/b&gt;&lt;br&gt;&lt;br&gt;공직을 맡으려는 정치인의 발언과 표현은 엄격한 기준으로 책임을 물어야 한다는 게 이번 대법원 판결의 의미다. 대법원은 “공직을 맡으려는 후보자가 허위 사실을 공표할 때에는 일반 국민과 같은 정도로 표현의 자유가 허용될 수 없다”며 “선거인의 알 권리 등 헌법상 기본권 보장을 고려해 허위 사실 공표 여부를 판단해야 한다”고 했다. 표현의 자유를 과도하게 보장해 선거의 공정성을 해쳐서는 안 된다는 것이다.&lt;br&gt;&lt;br&gt;대법원은 “이 후보의 골프·백현동 발언은 공직 적격성에 관한 유권자의 정확한 판단을 그르치게 할 허위 사실의 발언”이라며 “후보자의 ‘표현의 자유’라는 이름 아래 허용될 수 없다”고 지적했다.&lt;br&gt;&lt;br&gt;이 후보 측 변호인단은 이날 선고 직후 기자들과 만나 “기존 판례와 상충된다. 전부 납득할 수 없다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/4FPTVXJ6QZAILKMZ66JEGD4AVA.jpg?auth=46457850efd8b0eb213342008048a76f9ceb528712caff3da5681c5bca746725&amp;smart=true&amp;width=2863&amp;height=1610" type="image/jpeg" height="1610" width="2863">
-        <media:description type="plain"> 공판 출석하는 이재명 후보
-    (서울=연합뉴스) 서대연 기자 = 더불어민주당 이재명 대선 후보가 29일 서울 서초구 서울중앙지방법원에서 열린 '대장동 배임ㆍ성남FC 뇌물' 1심 속행 공판에 출석하고 있다. 2025.4.29
-    dwise@yna.co.kr/2025-04-29 10:24:46/
-&amp;lt;저작권자 ⓒ 1980-2025 ㈜연합뉴스. 무단 전재 재배포 금지, AI 학습 및 활용 금지&amp;gt;</media:description>
-        <media:credit role="author" scheme="urn:ebu">서대연</media:credit>
-      </media:content>
-    </item>
-    <item>
-      <title>2030 당뇨병 37만명, 10년새 2배로 급증</title>
-      <link>https://www.chosun.com/national/welfare-medical/2025/05/01/A7OKMDSGHNH5VB5S5NEMKJ5GBU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/05/01/A7OKMDSGHNH5VB5S5NEMKJ5GBU/</guid>
-      <dc:creator>곽래건 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 01 May 2025 12:01:00 +0000</pubDate>
-      <content:encoded>&lt;br&gt;&lt;br&gt;주로 40~50대에 걸리는 병이라는 인식이 강한 ‘2형 당뇨병’이 20~30대 사이에서 급속도로 확산하고 있다. 젊은 층에서 비만이 늘어나고 탄산음료, 과자 등 섭취가 늘어난 영향으로 해석된다.&lt;br&gt;&lt;br&gt;1일 대한당뇨병학회의 학술지 ‘당뇨병과 대사 저널’에 삼성서울병원 김지윤 교수 등이 최근 발표한 논문에 따르면, 2010년 1.02%였던 19~39세 성인의 2형 당뇨병 유병률은 2020년 2.02%로 10년 만에 배가 됐다. 2020년 기준 19~39세 성인 중 약 37만2700여 명이 2형 당뇨병을 앓고 있었다. 이 중 67.8%가 체질량지수(BMI·체중을 키의 제곱으로 나눈 값)가 25 이상인 비만이었다.&lt;br&gt;&lt;br&gt;‘2형 당뇨’는 인슐린 분비에 장애가 생겨 혈당이 올라가는 병으로, 일반적으로 말하는 당뇨병은 이 2형 당뇨를 뜻한다. ‘1형 당뇨’는 인슐린이 거의 분비되지 않는 병이다. &lt;br&gt;&lt;br&gt;당뇨 전 단계인 ‘공복 혈당 장애’를 가진 19~39세 성인도 2020년 기준 387만명(해당 연령 인구의 20.9%)에 달하는 것으로 나타났다. 공복 혈당 장애는 적절한 조치를 취하지 않으면 수년 내 당뇨병으로 발전한다. &lt;br&gt;&lt;br&gt;전문가들은 비만율 증가와 함께 탄산음료, 과자 등의 섭취가 늘며 젊은 당뇨 환자가 늘어난 것으로 보고 있다. 이런 가공식품은 설탕 대신 주로 액상과당을 쓴다. 액상과당은 옥수수 전분으로 만드는 시럽인데, 몸에 흡수되는 속도가 빨라 혈당을 급격히 올리고 체지방으로 빠르게 전환된다. 당뇨나 지방간 등 대사 질환의 원인이 된다.&lt;br&gt;&lt;br&gt;젊은 나이에 당뇨병이 시작되면 높은 혈당에 노출되는 기간이 늘면서 합병증이 생길 위험이 높아진다. 실제 2020년 기준 2형 당뇨를 앓는 19~39세의 34.2%는 고혈압, 79.8%는 이상지질혈증, 78.9%는 지방간을 앓고 있었다.&lt;br&gt;&lt;br&gt;보고서는 “당뇨병 관리와 예방을 위해 보다 적극적으로 비만을 관리해야 하고, 이를 위해 각자 생활 습관을 개선해야 한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“우리 상품 상위권으로”...‘검색순위 조정 혐의’ 쿠팡 기소</title>
-      <link>https://www.chosun.com/national/national_general/2025/05/01/D5QEEKN6GFFTJPHUKVBO3TY6Z4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/05/01/D5QEEKN6GFFTJPHUKVBO3TY6Z4/</guid>
-      <dc:creator>김도연 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 01 May 2025 12:00:01 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FJMM6EUJVAZXFJVL5NAHQJVD2M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 송파구 쿠팡 본사./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울동부지검 형사6부(부장 이상혁)는 검색 순위를 인위적으로 조정해 PB(자체 브랜드) 상품 등에 특혜를 준 혐의로 쿠팡 및 쿠팡의 PB 상품 기획·생산을 담당하는 쿠팡 자회사 ‘씨피엘비(CPLB)’를 불구속 기소했다고 1일 밝혔다.&lt;br&gt;&lt;br&gt;검찰에 따르면 쿠팡은 2019년 3월부터 지난해 11월까지 16만번에 걸쳐 PB 상품과 직매입 상품 등 자기 상품 5만1300여 개의 나열 순위를 부당하게 높인 혐의를 받는다. 또한 2020년 12월부터 2021년 9월까지 자기 상품의 기본 점수를 최대 1.5배 가중해 검색 순위를 인위적으로 조정한 것으로 조사됐다. 검찰은 쿠팡이 경쟁 사업자의 상품인 중개 상품보다 자기 상품이 유리한 것으로 소비자를 오인시켜 고객을 유인했다고 판단했다. &lt;br&gt;&lt;br&gt;이 때문에 당초엔 검색 순위 100위 이내 진입도 불가능했던 자사 상품이 검색 순위 1위에 상당 기간 고정된 것으로 조사됐다. 일부 PB 상품은 1년 넘게 상위에 고정됐다. 유통기한·유행 주기가 짧아 재고 부담이 큰 신선·패션 상품들은 5년간 12만여 번에 걸쳐 순위가 상위로 조정된 것으로 나타났다. 다만 검찰은 임직원을 동원해 PB 상품 후기를 작성한 점은 검색 순위에 영향을 미치기 위해 강제했다고 볼 증거가 부족하다고 판단해 불기소 처분을 내렸다.&lt;br&gt;&lt;br&gt;이번 수사는 지난해 6월 공정거래위원회 고발로 시작됐다. 당시 쿠팡은 “상품 진열은 유통업체 재량”이라며 공정위 제재를 받아들일 수 없다고 했었다. 검찰은 이후 쿠팡과 CPLB에 대한 압수 수색을 진행하고, 임직원 80여 명의 PC와 공유 드라이브를 디지털 포렌식해 약 30만개의 내부 문건과 이메일 등을 확보한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“미친 듯 후회”… 10대 ‘묻지마 살인’ 박대성이 제출한 반성문엔</title>
-      <link>https://www.chosun.com/national/national_general/2025/05/01/WRDYLTBX4ZB7ROBBOPDAXMHNJI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/05/01/WRDYLTBX4ZB7ROBBOPDAXMHNJI/</guid>
-      <dc:creator>박선민 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 01 May 2025 10:43:02 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YO4MZQXLBNOF3ACFJHGIKHNSOM.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;전남 순천 도심에서 일면식 없는 10대를 살해한 박대성이 작년 10월 4일 오전 순천경찰서 중앙 현관 앞에서 취재진의 질문에 묵묵부답하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;일면식도 없는 여성 청소년을 흉기로 살해한 박대성(30)이 1심에 이어 항소심에서도 무기징역을 선고받았다. 재판부가 공개한 박대성 반성문엔 “미친 듯이 후회가 밀려온다” 등의 내용이 담겼다. &lt;br&gt;&lt;br&gt;광주고법 형사1부(김진화 고법판사)는 1일 살인 등 혐의로 기소된 박대성에게 원심과 같은 무기징역을 선고했다. &lt;br&gt;&lt;br&gt;재판부는 박대성 범행에 대해 “극단적 인명 경시 살인에 해당하는 ‘묻지 마 범행’”이라고 판시했다. 그러면서 “안타깝게도 전국적으로 살인 사건이 벌어지고 있는데, 이 사건 범행처럼 전 국민의 공분을 산 사건은 없어 보인다”고 했다. &lt;br&gt;&lt;br&gt;다만 재판부는 사형을 선고해달라는 검찰 측 요청을 받아들이지는 않았다. 이 이유에 대해 재판부는 “기존에 사형이 확정된 사건들은 사망한 피해자가 다수이고 치밀하게 범행을 계획했거나 강도 등 중대 범죄가 결합한 형태였다”며 “이 사건에 치밀한 계획은 없어 보인다”고 했다. 이어 “무기징역을 선고받아도 가석방이 가능한 부분을 고려했다”며 “가석방 여부를 엄격히 심사하고 제한하는 방법으로 범죄인을 사회로부터 영구히 격리해 자유를 박탈하는 무기징역형의 목적과 효과를 달성할 수 있을 것으로 보인다”고 했다. &lt;br&gt;&lt;br&gt;재판부는 박대성이 제출한 반성문의 내용 일부도 공개했다. 박대성은 반성문에서 “흉기에 찔렸을 피해자분은 어린 나이에 얼마나 고통스러웠을까, 얼마나 괴롭고 아팠을까 생각하니 미친 듯이 후회가 밀려온다”며 “많이 늦었지만, 여전히 크게 반성하고 있다. 피해자분과 유가족분들에게 아픈 기억과 상처를 남겨드려 진심으로 죄송하다”고 했다.&lt;br&gt;&lt;br&gt;이날 방청석에 앉아있던 피해자 유가족은 박대성을 보고 울분을 터뜨리고 오열한 것으로 전해졌다. 유족은 끝내 선고 공판을 다 지켜보지 못하고 부축받으며 퇴장했다고 한다. &lt;br&gt;&lt;br&gt;박대성은 작년 9월 26일 0시 44분쯤 전남 순천시 조례동 거리에서 일면식도 없던 A(17)양을 흉기로 여러 차례 찔러 숨지게 한 혐의로 기소됐다. 당시 박대성은 자신의 가게 앞에서 A양을 발견하고 약 800m를 쫓아가 살해한 것으로 조사됐다. 박대성은 A양을 상대로 범행을 저지른 뒤, 같은 날 0시 50분부터 오전 1시 45분까지 흉기를 들고 여주인이 운영하는 주점과 노래방을 찾아다니며 추가 살인 범죄를 예비한 혐의도 받았다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘이재명 사건’ 대법 판결에…법조계 “법리적으로 당연한 결론”</title>
-      <link>https://www.chosun.com/national/court_law/2025/05/01/NUKE3TU65JH3TCAQHMI2ER2D4A/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/05/01/NUKE3TU65JH3TCAQHMI2ER2D4A/</guid>
-      <dc:creator>김나영 기자, 박강현 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 01 May 2025 09:47:18 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/E2YF75U4OC2X6OL437ZYECVP3M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이재명 더불어민주당 대통령 후보가 1일 서울 종로구의 한 포차 식당에서 '당신의 하루를 만드는, 보이지 않는 영웅들'이란 주제로 열린 배달 라이더, 택배 기사 등 비(非)전형 노동자들과 간담회를 마친 뒤 나서며 손인사를 하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;1일 대법원 전원합의체가 이재명 더불어민주당 대선 후보의 공직선거법 위반 사건을 파기환송한 것을 두고 법조계에서는 “법리적으로 당연한 결론”이라는 평가가 나왔다.&lt;br&gt;&lt;br&gt;이날 대법원은 “2심 판단에는 공직선거법에 관한 법리를 오해해 판결에 영향을 미친 잘못이 있다”라며 이 후보에게 무죄를 선고한 원심을 파기하고 사건을 서울고법으로 돌려보냈다. &lt;br&gt;&lt;br&gt;이에 한 전직 헌법재판관은 “앞서 2심에서 워낙 납득할 수 없는 판결을 해서 사법 불신이 극대화됐다”라며 “대법원에서 도저히 이대로 둘 수 없다고 보고 법리를 바로잡아야 한다는 입장이 강했을 것”이라고 했다. 차장검사 출신 김종민 변호사도 “1심과 같은 결론으로, 당연한 사실을 확인한 것”이라며 “한편으론 대법원이 (파기자판으로) 깨끗하게 정리를 해줬으면 하급심에 부담을 주지 않았을 것 같다”라고 했다.&lt;br&gt;&lt;br&gt;대법원이 허위사실공표죄를 둘러싼 논란을 불식시키려 했다는 분석도 나온다. 한 전직 대법관은 “허위사실공표죄에 관한 논란이 계속 있었는데, 선거 때마다 정치인 발언을 둘러싼 문제가 불거질 테니 이참에 정리하자는 뜻도 있었을 것”이라고 설명했다. &lt;br&gt;&lt;br&gt;전문가들은 이 후보가 대통령에 당선된 이후에도 재판을 진행할 수 있을지를 두고는 의견이 엇갈렸다. 김 변호사는 “형사상 소추에 대해서는 수사와 기소를 뜻한다는 게 교과서에 나오는 얘기”라며 “재판은 이에 포함되지 않는다”라고 주장했다. 대통령 신분으로도 피고인으로서 재판을 받을 수 있다는 의미다. 반면 서울 소재의 한 로스쿨 교수는 “다시 재판을 하더라도 정상적으로 진행할 수 있을지는 의문”이라고 했다.&lt;br&gt;&lt;br&gt;이 후보는 공직선거법상 허위사실공표 혐의로 2022년 9월 기소됐다. 1심은 작년 11월 “해외 출장 중 김씨와 골프를 치지 않았다” “국토부 협박으로 백현동 부지 용도를 상향했다”는 발언은 거짓말에 해당한다며 징역 1년에 집행유예 2년을 선고했다. 2심은 지난 3월 1심을 뒤집고 무죄를 선고했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
