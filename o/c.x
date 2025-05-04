@@ -13,6 +13,33 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>사직 전공의들, ‘5월 추가모집’ 정식 요청하나…복귀 의향 설문조사</title>
+      <link>https://www.chosun.com/national/welfare-medical/2025/05/04/JET7M2H6SJAHPHYLOJARMP4RIM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/05/04/JET7M2H6SJAHPHYLOJARMP4RIM/</guid>
+      <dc:creator>오경묵 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 04 May 2025 09:45:30 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KSAEMG5ZCRIAJHYWD53OHZYPUE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 한 대학병원 내 전공의실 모습. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전공의들 사이에서 “5월까지 복귀해야 한다”는 말이 나오는 가운데, 사직 전공의인 임진수 전 대한의사협회 기획이사가 전공의들의 의견 수렴에 나섰다.&lt;br&gt;&lt;br&gt;임씨는 4일 오후 ‘사직 전공의 5월 추가모집 요청 설문조사’를 올렸다. 지난해 2월 의정갈등이 촉발된 이후 전공의 개인의 의견을 묻는 조사는 이번이 사실상 처음이다.&lt;br&gt;&lt;br&gt;상급 연차 전공의(레지던트 3·4년차)는 내년 2월 치러지는 전문의 시험 응시 대상자다. 하지만 현행 규정상 수련받지 않은 기간이 3개월을 넘으면 시험을 볼 수 없다. 전공의 수련이 올해 3월 시작된 만큼 5월 말까지 복귀하지 않으면 응시 자체가 불가능해지는 것이다.&lt;br&gt;&lt;br&gt;임씨는 “시일이 촉박해 전공의들의 의견을 빠르게 모을 수 있는 창구가 있었으면 하는 생각에 개인 차원으로 설문을 진행하는 것”이라며 “지금이 아니면 시간이 갈 수록 사태 해결이 더욱 어려워지기 때문에, 하나씩 해결하는 그림을 그려가야 한다”고 했다.&lt;br&gt;&lt;br&gt;정부는 올해 3월부터 수련에 들어가는 전공의들을 지난 1월 모집했다. 이때는 사직 전공의가 1년 이내에 동일 과목·연차로 복귀할 수 없도록 하는 제한규정을 적용하지 않는 수련 특례를 적용했다. 복귀를 원하는 전공의의 경우 수련을 모두 마치고 군 복무를 할 수 있도록 입영도 연기해주기로 했다. 하지만 지원율은 2.2%에 그쳤다. 지난해 하반기 모집에도 수련특례가 적용됐는데, 지원율은 1.4%에 불과했다. &lt;br&gt;&lt;br&gt;이런 상황에서 정부에 추가로 수련 특례를 요청하려면 전공의들의 복귀 의사가 확실하다는 ‘명분’이 있어야 하기 때문에 설문을 실시한다는 것이다. 임씨는 “설문 결과를 바탕으로 의견을 모아 대한의학회를 통해 정부에 정식으로 추가모집을 요청할 계획”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>정신과 찾은 아동·청소년 11개월간 27만명… 4년새 2배</title>
+      <link>https://www.chosun.com/national/welfare-medical/2025/05/04/6L6KT423RVGSTFWLICD6PGVZNY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/05/04/6L6KT423RVGSTFWLICD6PGVZNY/</guid>
+      <dc:creator>오경묵 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 04 May 2025 09:16:14 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ASH2NBZO4VDINIRXJ7JKJNDF6I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=박상훈&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;우울증 등 정신 건강 질환으로 병원 진료를 받은 아동·청소년이 최근 4년 새 두 배 이상으로 늘어난 것으로 나타났다.&lt;br&gt;&lt;br&gt;4일 건강보험심사평가원이 진선미 더불어민주당 의원에게 제출한 자료에 따르면, 지난해 1~11월 정신 건강 의학과 관련 질환으로 병원을 찾은 18세 미만 아동·청소년 환자는 27만625명으로 2020년(13만3235명)에 비해 두 배 이상으로 늘었다. 정신 질환 진료 아동·청소년은 2021년 17만2441명, 2022년 21만2451명, 2023년 24만4884명으로 매년 증가하고 있다. &lt;br&gt;&lt;br&gt;특히 초등학교에 다니는 7~12세 환자의 증가세가 두드러졌다. 7~12세 정신 질환 환자는 2023년 4만6060명에서 지난해 10만5324명으로 2.3배로 늘었다. 같은 기간 13~18세 청소년 환자는 6만9237명에서 13만8033명으로 두 배 가까이로 늘었다. 학교에 입학하기 전인 0~6세 아동 환자는 1만7938명에서 2만7268명으로 1.5배로 늘었다. &lt;br&gt;&lt;br&gt;아동 환자가 가장 많이 진단받은 질환은 기분의 저하와 함께 전반적인 정신·행동의 변화가 나타나는 우울 에피소드, 비정상적인 움직임이 나타나는 운동 과다 장애와 불안 장애, 기분 장애 등이었다. 안용민 서울대병원 정신건강의학과 교수는 “최근 수년간 코로나 영향으로 비대면 교육이 활성화되면서 타인과의 유대감 형성 등 심리 발달이 지연된 아이들이 학교에 돌아와 공동체 생활을 하게 되면서 정신적·심리적으로 어려움을 겪는 경우가 늘어난 것으로 보인다”고 했다. &lt;br&gt;&lt;br&gt;소아 우울증 환자의 예민한 반응과 짜증 등을 단순한 반항심이나 사춘기 반응으로 혼동하는 경우도 많다. 이해국 의정부성모병원 정신건강의학과 교수는 “아이가 등교를 거부하는 등 이상 행동을 보이거나, 폭력적 언사 등이 반복된다면 정신과 전문의의 상담을 받는 것이 좋다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“콘서트 티켓 팔아요”...거짓글로 2000여 만원 가로챈 20대 징역 2년 </title>
+      <link>https://www.chosun.com/national/2025/05/04/JYSJL2KXFBDBZNLFMJKOXNF5RE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2025/05/04/JYSJL2KXFBDBZNLFMJKOXNF5RE/</guid>
+      <dc:creator>창원=김준호 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 04 May 2025 08:35:21 +0000</pubDate>
+      <content:encoded>온라인을 통해 국내 유명 가수의 콘서트 티켓을 판다고 속여 수천만원을 가로챈 20대가 실형을 선고받았다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Z6QPEFXGJNRPZ5XSGMLYBBG2IQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;창원지법. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;창원지법 형사1단독 김세욱 부장판사는 사기 혐의로 기소된 A(26)씨에게 징역 2년을 선고했다고 4일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난해 8월부터 11월까지 중고 물품 거래 사이트에서 유명 가수 2명의 콘서트 티켓을 판매한다는 허위 글을 올린 뒤 구매 의사를 밝힌 이들로부터 돈만 받고 잠적한 혐의로 기소됐다.&lt;br&gt;&lt;br&gt;A씨는 이 같은 수법으로 3개월간 60회에 걸쳐 총 2069만원을 받아 가로챈 것으로 조사됐다.&lt;br&gt;&lt;br&gt;A씨는 실제 콘서트 티켓을 갖고 있지도 않았고, 가로챈 돈은 사채 변제나 생활비 등으로 사용한 것으로 나타났다.&lt;br&gt;&lt;br&gt;A씨는 2023년 6월에도 사기죄로 징역 1년 4개월을 선고받는 등 동종 범죄로 여러 차례 처벌을 받았던 것으로 드러났다. 이번 범행은 지난해 2월 가석방돼 출소한 뒤 6개월 만에 저지른 것으로 나타났다.&lt;br&gt;&lt;br&gt;김 부장판사는 “누범 기간 중에 이 사건 각 범행을 저질렀고, 동종 범죄로 여러 차례 처벌받았다”면서 “범행 횟수가 매우 많고, 불특정 다수로부터 편취해 그 죄질이 나쁜 점 등을 고려해 형을 정했다”고 양형 이유를 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>억대 현금 든 돈가방 훔쳐 도망간 중국인…인천공항서 긴급체포</title>
       <link>https://www.chosun.com/national/incident/2025/05/04/U2Q66BPGWRGAJERS7XJE6VEZ7E/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/05/04/U2Q66BPGWRGAJERS7XJE6VEZ7E/</guid>
@@ -818,19 +845,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6XF35OY2FDT4JCIND7WKS3G5M4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산 기장군 기장읍 기장경찰서 전경./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;심야 시간대에 사찰 불전함(신자들의 헌금이 들어있는 통)만 골라 털이를 해온 40대 남성이 경찰에 구속됐다. &lt;br&gt;&lt;br&gt;부산 기장경찰서는 야간 건조물 침입 절도 혐의로 40대 A씨를 구속해 검찰에 송치했다고 2일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 올해 1월부터 지난달 초순까지 부산 기장군과 금정구 소재 사찰에서 불전함에 든 현금을 훔치거나 절을 하며 기도하는 신도들의 휴대전화 2대와 지갑을 슬쩍한 혐의를 받고 있다. &lt;br&gt;&lt;br&gt;경찰 조사 결과, A씨는 주로 감시가 느슨한 자정~새벽 1시를 전후한 심야 시간대에 이 절 2곳에 침입해 불전함을 턴 것으로 확인됐다. 나무로 만든 불전함은 깨뜨린 뒤 안에 든 현금을 가져갔고, 돌로 돼 있어 부술 수 없는 불전함의 경우 양면테이프를 붙인 철사 옷걸이로 낚시하듯 돈을 꺼낸 것으로 조사됐다. &lt;br&gt;&lt;br&gt;경찰은 “철사 옷걸이를 풀어 ‘ㄱ’자 형태로 만든 뒤 범행을 했다”고 말했다. A씨는 이 절 2곳의 불전함에서 7차례에 걸쳐 현금 200만원을 훔친 혐의를 받고 있다. 경찰 관계자는 “A씨는 훔친 돈을 주로 생활비로 썼다고 진술했다”고 말했다.&lt;br&gt;&lt;br&gt;경찰은 부처님 오신 날을 앞두고 유사 범죄가 일어날 가능성이 있는 것으로 보고 지역 사찰을 상대로 방범카메라(CCTV)를 설치하도록 안내하는 등 사찰 절도 예방 활동을 하기로 했다.&lt;br&gt;&lt;br&gt; &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>‘20년 만에 재혼’ 이상민, 혼인신고 이미 마쳤다… “결혼식은 생략”</title>
-      <link>https://www.chosun.com/national/people/2025/05/02/62SNQSQXQNH6RO5IVIVPIQ3CCE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/05/02/62SNQSQXQNH6RO5IVIVPIQ3CCE/</guid>
-      <dc:creator>김명일 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 02 May 2025 06:00:02 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BCWHEB5QECRAVPCYDUB4GQMPE4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;가수 겸 방송인 이상민. / 뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;비연예인 여성과 결혼을 발표한 가수 겸 방송인 이상민(52)이 이미 혼인신고를 마쳐 법적 부부가 된 사실이 알려졌다. &lt;br&gt;&lt;br&gt;2일 이상민 측 관계자는 다수의 언론에 “이상민이 아내와 서울 모 구청에서 지난달 30일에 혼인신고를 했다”며 “결혼식은 안 할 예정”이라고 밝혔다.&lt;br&gt;&lt;br&gt;이상민은 비연예인 아내와 가족을 배려해 결혼식을 생략하고 가족 및 지인들과 축하 자리를 가질 계획인 것으로 알려졌다.&lt;br&gt;&lt;br&gt;이상민은 지난 2004년 가수 출신 방송인 이혜영과 8년 열애 끝에 결혼했으나 2005년 이혼했다. &lt;br&gt;&lt;br&gt;이상민은 지난달 30일 자신의 소셜미디어를 통해 결혼 소식을 알렸다. &lt;br&gt;&lt;br&gt;이상민은 “제게 많이 사랑하는 한 사람이 생겼다. 그녀와 인생 2막을 함께 나아가려고 한다”며 “어떤 고난에도 지켜주고 싶다는 마음이 들게 한 사람이고 이분과 함께라면 평생을 행복하게 함께할 수 있을 것 같다”고 했다.&lt;br&gt;&lt;br&gt;이어 “뒤늦게 찾은 소중한 사람인 만큼 조심스러워 주변 분들에게도 알리는 것이 늦어졌다”며 “놀랐겠지만 함께 기뻐해주고 축복해주면 정말 감사하겠다. 앞으로도 응원해주고 격려해주는 분들께 보답할 수 있도록 매 순간 더 책임감 가지고 살겠다”고 했다.&lt;br&gt;&lt;br&gt;이상민은 1994년 그룹 룰라 멤버로 데뷔한 후 프로듀서로 변신해 샤크라, S#ARP, 컨츄리꼬꼬를 발굴했다. 그는 사업가로 전향했으나 69억원의 빚을 지게 됐고, 2005년부터 빚을 상환해 지난해 방송을 통해 빚을 청산했다고 알렸다. 현재 이상민은 방송인으로서 활발한 활동을 이어가고 있다. SBS ‘신발 벗고 돌싱포맨’, ‘미운 우리 새끼’를 비롯해 JTBC ‘아는 형님’, MBN ‘알토란’, KBS Joy ‘차트를 달리는 남자’ 등 다수의 프로그램에 출연 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/BCWHEB5QECRAVPCYDUB4GQMPE4.jpg?auth=dafb2382d3c975a2288abd06ba4a0d8341f267d086de50967e70fef8b5487867&amp;smart=true&amp;width=2694&amp;height=2031" type="image/jpeg" height="2031" width="2694">
-        <media:description type="plain">가수 겸 방송인 이상민. / 뉴스1 </media:description>
-        <media:credit role="author" scheme="urn:ebu">뉴스1 ⓒ News1 권현진 기자</media:credit>
-      </media:content>
-    </item>
-    <item>
       <title>李 파기환송에 민주당 “사법쿠데타” “제2의 인혁당 사건”…대법원 측 “최고법원 결정 존중돼야” </title>
       <link>https://www.chosun.com/national/court_law/2025/05/02/XNQB3IDNCNCOJGSG7ECP3Q5O4A/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/05/02/XNQB3IDNCNCOJGSG7ECP3Q5O4A/</guid>
@@ -971,24 +985,6 @@
       <description/>
       <pubDate>Thu, 01 May 2025 15:54:00 +0000</pubDate>
       <content:encoded>‘12·3 비상계엄' 사태를 수사 중인 검찰 특별수사본부(본부장 박세현 서울고검장)는 1일 윤석열 전 대통령을 직권남용 권리행사방해 혐의로 추가 기소했다고 밝혔다.&lt;br&gt;&lt;br&gt;윤 전 대통령은 지난해 12월 3일 비상계엄을 선포한 후 직권을 남용해 군경이 국회와 중앙선거관리위원회 등을 점거하게 하고, 정치인들을 영장 없이 체포·구금하도록 하는 등 의무 없는 일을 하게 한 혐의를 받는다.&lt;br&gt;&lt;br&gt;앞서 검찰은 지난 1월 26일 당시 현직이었던 윤 전 대통령을 비상계엄과 관련한 내란(우두머리) 혐의로 구속 기소하면서도, 직권남용 혐의는 적용하지 않았다. 대통령은 내란 또는 외환의 죄를 범한 경우가 아니면 재직 중 형사 소추(訴追)를 받지 않기 때문이었다.&lt;br&gt;&lt;br&gt;검찰은 윤 전 대통령이 지난달 4일 헌법재판소 탄핵 심판 선고로 대통령직을 잃은 후 보완 수사를 거쳐 이날 윤 전 대통령을 추가로 기소했다. 그러면서 윤 전 대통령의 내란 사건을 심리 중인 서울중앙지법 형사25부(재판장 지귀연)에 직권남용 사건도 병합해 심리해달라고 신청했다.&lt;br&gt;&lt;br&gt;검찰은 “다른 중요한 증거를 발견하지 않는 한 동일한 범죄 사실에 관해 피의자를 다시 구속하지 못한다”는 형사소송법 제208조에 따라 윤 전 대통령에 대한 구속영장은 청구하지 않았다고 했다. 윤 전 대통령은 법원의 구속 취소 결정으로 지난 3월 8일 석방됐다.&lt;br&gt;&lt;br&gt;특수본 관계자는 “직권남용죄와 내란죄의 사실관계가 다르지 않다”며 “직권남용과 관련된 증거가 충분히 확보돼 있고, 윤 전 대통령의 입장은 탄핵 심판이나 형사 재판, 담화문을 통해 확인되기 때문에 신속하게 기소해 법원이 같이 심리하는 게 좋겠다고 판단했다”고 설명했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[고수 아빠의 육아 비결] 아빠와 하는 감정 표현 연습 하루 10분이면 충분합니다</title>
-      <link>https://www.chosun.com/culture-life/culture_general/2025/05/02/XQZDUD5ZZBDTHDUR5IPMGJVZOA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/culture-life/culture_general/2025/05/02/XQZDUD5ZZBDTHDUR5IPMGJVZOA/</guid>
-      <dc:creator>황성한 '기적의 아빠 육아' 저자</dc:creator>
-      <description/>
-      <pubDate>Thu, 01 May 2025 15:51:00 +0000</pubDate>
-      <content:encoded>아이들이 감정을 말로 표현하지 못할 때 울음을 터뜨리거나 장난감에 화풀이를 하곤 합니다. 아빠로서 그런 모습을 보면 어떻게 아이를 도와줘야 할지 고민이 되기 마련이죠. 오늘은 아이의 감정을 이해하고 함께 풀어낼 수 있는 간단한 놀이를 소개합니다. 아빠와 함께하는 짧은 놀이 시간을 통해 아이는 마음속 감정을 정리할 수 있어요.&lt;br&gt;&lt;br&gt;준비물은 종이컵과 색연필입니다. 먼저 아이와 함께 종이컵에 다양한 감정 표정을 하고 있는 얼굴을 그려보세요. 기쁨, 화남, 슬픔, 짜증, 속상함 등 아이가 직접 느껴봤던 감정을 떠올리며 색연필로 종이컵에 눈과 입을 그려 넣어요. 그림 그리는 것이 어렵다면 인터넷에서 ‘감정 스티커’를 검색해 도안을 인쇄한 뒤 오려 붙여도 좋습니다. 아빠가 먼저 표정 하나를 그려주고 “이건 아빠가 회사에서 당황했을 때 표정이야”라고 말하며 감정을 설명해 보세요. 그려 놓은 표정에 대한 감정을 말로 표현해 보면 자신의 감정 또한 이해하기 쉬워져요.&lt;br&gt;&lt;br&gt;감정 컵이 완성되었으면 이제 같은 감정끼리 모아 탑을 쌓아보세요. ‘기쁨의 탑’ ‘화남의 탑’ ‘걱정의 탑’처럼 탑에 이름을 붙여줘도 좋겠죠. 같은 감정을 모아 탑을 쌓는 활동을 통해 아이는 기분 또한 자신이 정리할 수 있다는 것을 자연스럽게 익히게 됩니다. 이때 아빠가 감정 컵을 가리키면서 ‘아빠도 가끔 이런 기분이 들어’라고 공감해 주면, 아이도 편안하게 감정 표현을 할 수 있어요. &lt;br&gt;&lt;br&gt;이제 놀이의 하이라이트입니다. 부정적인 감정이 담긴 종이컵 탑을 쌓고 종이로 만든 공을 굴리거나 던져서 한 번에 쓰러뜨려 보세요. “화난 감정 날아가라”라고 외치며 종이 공을 던져 쓰러지는 순간, 아이 또한 감정이 해소되는 경험을 하게 되지요. 감정을 억누르지 않고 놀이를 통해 자연스럽게 풀어가는 이 과정은 아이가 정서 조절을 할 수 있는 좋은 연습이 됩니다. &lt;br&gt;&lt;br&gt;이 놀이의 진짜 가치는 아빠가 아이의 마음을 들여다볼 수 있다는 데 있어요. 퇴근 후 10분이면 충분해요. 아이와 함께 웃으며 감정을 배우고, 스트레스는 쓰러지는 종이컵처럼 시원하게 날려버리세요. 이 짧은 시간은 아이에게 오래 기억될 따뜻한 추억이 됩니다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[오늘의 날씨] 2025년 5월 2일</title>
-      <link>https://www.chosun.com/national/national_general/2025/05/02/GYO2C33IANE35LALKKB2ELMFWM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/05/02/GYO2C33IANE35LALKKB2ELMFWM/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 01 May 2025 15:51:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RLMUPSMSX5CLRH762BBY2STPHU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
