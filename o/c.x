@@ -13,6 +13,55 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>억대 현금 든 돈가방 훔쳐 도망간 중국인…인천공항서 긴급체포</title>
+      <link>https://www.chosun.com/national/incident/2025/05/04/U2Q66BPGWRGAJERS7XJE6VEZ7E/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/05/04/U2Q66BPGWRGAJERS7XJE6VEZ7E/</guid>
+      <dc:creator>인천=이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 04 May 2025 08:04:24 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QSYWNDBORAXATR5YMXKCPLIJOI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;억대 현금이 든 지인의 가방을 훔쳐 해외로 출국하려던 중국인 남성이 경찰에 붙잡혔다. &lt;br&gt;&lt;br&gt;인천 미추홀경찰서는 절도 혐의로 중국인 30대 남성 A씨를 긴급체포했다고 4일 밝혔다. &lt;br&gt;&lt;br&gt;A씨는 지난 2일 오후 6시 20분쯤 인천시 미추홀구의 한 호텔 로비에서 중국인 40대 여성 B씨의 가방을 몰래 들고 달아난 혐의를 받고 있다. &lt;br&gt;&lt;br&gt;B씨 가방엔 1000만원권 수표 10장과 90만 홍콩달러(약 1억6300만원) 등 총 2억6300만원 상당의 돈이 들어있던 것으로 알려졌다. &lt;br&gt;&lt;br&gt;A씨는 지인인 B씨가 사업체를 운영하면서 현금을 많이 갖고 다닌다는 사실을 알고 범행한 것으로 전해졌다. &lt;br&gt;&lt;br&gt;“지인이 현금이 든 가방을 들고 도망갔다”는 B씨 신고를 받고 수사에 나선 경찰은 A씨의 도주 경로 등을 추적해 지난 3일 새벽 인천공항에서 A씨를 긴급 체포했다. &lt;br&gt;&lt;br&gt;경찰은 A씨를 상대로 범행 동기 등을 확인하고, 구속영장을 신청할 예정이다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[오늘의 운세]  5월 5일 월요일 (음력 4월 8일 甲戌)</title>
+      <link>https://www.chosun.com/national/national_general/2025/05/04/GWVGJT4OWFHANHTXJ55F3TRNOI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/05/04/GWVGJT4OWFHANHTXJ55F3TRNOI/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Sun, 04 May 2025 08:00:00 +0000</pubDate>
+      <content:encoded>&lt;p&gt;&lt;div class="chosun_unse"&gt;&lt;iframe src="https://image.chosun.com/arc/unse_iframe.html" frameborder="0" scrolling="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;style&gt;.chosun_unse{position:relative;width:100%;height:350px;box-sizing:border-box}.chosun_unse&gt;iframe{position:absolute;top:0;left:0;width:100%;height:100%;overflow-y:hidden}@media all and (max-width:1024px){.chosun_unse{height:350px}}@media all and (max-width:1023px){.chosun_unse{height:350px}}@media all and (max-width:528px){.chosun_unse{height:270px}}@media all and (max-width:384px){.chosun_unse{height:190px}}&lt;/style&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;p&gt;&lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani01.gif"&gt;  	&amp;nbsp;	36년생 성급히 행동하면 득보다 실. 48년생 은혜는 은혜로 갚아야 크게 돌아온다. 60년생 한배 탔다면 마음도 하나여야. 72년생 지인의 금전 거래 요구는 거절이 상책. 84년생 기본 계획 수정 불가피할 듯. 96년생 지금 아니어도 언젠가 이뤄짐을 믿어라.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt;  &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani02.gif"&gt;	&amp;nbsp;	37년생 돈 관리 말고 몸 관리 신경 써야. 49년생 만족 알면 나물밥도 진수성찬. 61년생 북쪽은 이롭잖으니 출입 삼가도록. 73년생 소신대로 추진하면 목적 달성 가능할듯. 85년생 이동과 변동은 이롭지 않다. 97년생 다른 데 말고 자기 계발 신경 쓰라.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani03.gif"&gt;	&amp;nbsp;	38년생 숫자 4, 9와 흰색이 행운 부른다. 50년생 시비 구설은 전하는 이가 시비하는 사람. 62년생 쉽게 여긴 일이 어렵게 풀릴 수도. 74년생 도움 주더라도 받기는 어렵다. 86년생 가벼운 산책, 운동으로 일상에 여유를. 98년생 무위도식은 삶도 좀먹는다.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani04.gif"&gt;	&amp;nbsp;	27년생 서쪽 대문 이용하라. 39년생 자중자애가 필요. 51년생 객관적인 입장에서 판단하도록. 63년생 대를 위해 소를 희생할 줄도 알아야. 75년생 입장과 처지를 고려하며 추진하라. 87년생 가난할수록 기와집 짓는다. 99년생 실망하기엔 아직 이르다.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani05.gif"&gt;	&amp;nbsp;	28년생 비 온 뒤에 땅이 더 굳는 법. 40년생 작은 일은 이루어 질 듯. 52년생 세련되고 깔끔하게 처신하도록. 64년생 하늘에 돌 던진 격. 76년생 계약과 거래에 최적 시기. 88년생 황소 뒷걸음치다 쥐 잡는구나. 00년생 평정심 잃지 않는 것이 중요.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani06.gif"&gt;	&amp;nbsp;	29년생 소유할 수 없다면 놓아줘라. 41년생 배우자 덕에 기분 좋은 하루. 53년생 내 삶은 내가 주인공. 65년생 무소의 뿔도 부러질 때가 있다. 77년생 약간의 소비로 기분 전환을. 89년생 근검절약으로 위기 넘겨야. 01년생 몸이 곧으면 그림자 굽을 리 없다.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani07.gif"&gt;	&amp;nbsp;	30년생 과욕 따른 망신수 조심. 42년생 감정적 대처는 구설과 잡음을 야기. 54년생 무엇보다 건강부터 챙기도록. 66년생 도랑치고 가재 잡고. 78년생 기다리던 소식은 언제 오려나. 90년생 도전하지 않으면 고민할 것도 없다. 02년생 즉흥성을 경계하도록.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani08.gif"&gt;	&amp;nbsp;	31년생 하나를 주니 두 개를 얻는구나. 43년생 변화와 이동수다. 55년생 밑 빠진 독에 물 붓지 말라. 67년생 농부가 소를 잃었으니 어이할까. 79년생 지금 처한 상황에서 최선 다하도록. 91년생 깃도 안 치고 날까. 03년생 시간에 쫓기듯 결정하지 말라.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani09.gif"&gt;	&amp;nbsp;	32년생 선수 치면 이롭다. 44년생 이제 올라갈 일만 남았다. 56년생 성취의 단맛을 맛보게 될 듯. 68년생 배우자의 사랑이 만병통치약. 80년생 누워서 감 떨어지기를 기다리나. 92년생 붉은 옷 입은 사람이 귀인. 04년생 부인과, 비뇨기과에서 문진 받으라.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani10.gif"&gt;	&amp;nbsp;	33년생 푸른색과 숫자 3, 8이 행운 부른다. 45년생 대호(大虎)는 발톱을, 인격자는 말 아낀다. 57년생 섣불리 안 나서는 게 좋다. 69년생 좋은 일에 마가 끼니 주위 경계하라. 81년생 변화 원한다면 부모와 상의하도록. 93년생 어른 말씀은 인생 교과서.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani11.gif"&gt;	&amp;nbsp;	34년생 안전사고와 관재수 주의. 46년생 주변을 챙겨보라, 더 큰 행복 찾아온다. 58년생 용띠와 동업은 피하는 게 상책. 70년생 오전 10시 전까지는 가급적 재택이 좋다. 82년생 소박한 삶에도 품위 지킬 줄 알아야. 94년생 시비 구설 있다면 전화위복.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani12.gif"&gt;	&amp;nbsp;	35년생 노익장 보여주는 시기. 47년생 도움 받았다면 보상은 넉넉할 듯. 59년생 뱀띠와 동행하거나 차량 동승은 피하도록. 71년생 자만 따른 실수는 변명 여지 없다. 83년생 상대방과 의견 조율만 잘 된다면 만사 OK. 95년생 지출 많은 시기 절약이 필요.	&lt;br&gt;
+&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;한소평 금오산방 강주  &lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;			&lt;/p&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/4MTFRYWHBJA7XOKKF7G7JPLX5U.png?auth=4651b5b20b5d4901424204d1456faee02e4b064ff509db23945deabf4404c8ef&amp;smart=true&amp;width=800&amp;height=420" type="image/png" height="420" width="800"/>
+    </item>
+    <item>
+      <title>시어머니 머리채 잡고 배 걷어찬 며느리, 항소심서 벌금형</title>
+      <link>https://www.chosun.com/national/national_general/2025/05/04/HHIDYB7B4BDY5LAF2NH6SDXGPA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/05/04/HHIDYB7B4BDY5LAF2NH6SDXGPA/</guid>
+      <dc:creator>이혜진 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 04 May 2025 07:41:37 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7OEQHC2KJHDTK4XQVLX3M7KI24.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;수원법원종합청사. /뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;양육비를 두고 다투다가 하반신 마비 장애가 있는 60대 시어머니를 폭행한 40대 며느리가 항소심에서 벌금형을 선고받았다. &lt;br&gt;&lt;br&gt;4일 법조계에 따르면, 수원지법 형사항소5-1부(김행순·이종록·박신영 부장판사)는 상해 혐의로 기소된 40대 여성 A씨에게 무죄를 선고한 원심을 파기하고 벌금 100만원을 선고했다. A씨는 2022년 1월 시어머니인 60대 여성 B씨의 집을 찾아가 B씨 배를 3차례 걷어차고 머리채를 잡아 넘어뜨리는 등 폭행해 다치게 한 혐의로 재판에 넘겨졌다. B씨는 2주간의 치료가 필요한 상해를 입었다. &lt;br&gt;&lt;br&gt;당시 B씨는 A씨의 자녀를 맡아 키우고 있었고, A씨에게 양육비를 요구했다. 그러나 A씨가 이를 거절하자 B씨는 “기초수급비와 육아수당을 타 먹으면서 왜 기저귓값을 안 보내냐”고 따지면서 A씨의 범행으로 이어졌다. &lt;br&gt;&lt;br&gt;A씨는 재판에서 B씨의 집에서 아이를 데려가는 과정에서 양육비 문제로 실랑이가 벌어졌을 뿐이며, B씨가 아이의 팔을 잡아당겨 행동한 것으로 정당방위라고 주장했다.&lt;br&gt;&lt;br&gt;1심 재판부는 B씨가 증인 출석 요구에 정당한 사유 없이 응하지 않은 점 등을 들어 검찰이 제출한 증거만으로는 공소사실이 합리적 의심의 여지 없이 증명됐다고 보기 어렵다며 무죄를 선고했다. &lt;br&gt;&lt;br&gt;그러나 항소심 재판부는 B씨가 하반신 마비로 휠체어 생활을 하는 상태여서 혼자 외출이 불가능했던 점을 감안하면 증인 불출석에 정당한 사유가 있다고 봤다. 항소심 재판부는 “피고인은 하반신 마비의 지체장애가 있는 피해자를 구타했고 범행 경위와 내용 등에 비춰보면 피고인의 죄책이 절대 가볍지 않다”고 했다. 또 “피고인은 이 사건 범행을 부인하는 태도로 일관하며 피해자로부터 용서받으려는 노력도 하지 않았다”면서도 “상해가 중한 편은 아닌 점 등을 고려했다”며 양형 이유를 밝혔다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘6·3·3 원칙’ 강조한 대법원장... 선거법 1심, 연 평균 201일→115일로</title>
+      <link>https://www.chosun.com/national/court_law/2025/05/04/6SFYMUNEZVGXTIOJGWP4O64OKE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/05/04/6SFYMUNEZVGXTIOJGWP4O64OKE/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 04 May 2025 05:42:40 +0000</pubDate>
+      <content:encoded>조희대 대법원장이 지난 2023년 12월 취임한 뒤, 공직선거법 위반 혐의 사건의 1심 판결이 나오는 데까지 걸린 시간이 이전에 비해 크게 감소한 것으로 4일 나타났다. 조 대법원장은 임기 초부터 선거법 위반 사건의 재판 기간을 규정한 ‘6‧3‧3 원칙’이 지켜져야 한다는 생각을 갖고 이를 강조한 것으로 알려진 바 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GFUDI75OIRDOPBC4RXOML6EFCU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;조희대 대법원장이 1일 오후 더불어민주당 이재명 대선 후보의 공직선거법 사건 전원합의체 선고를 위해 서울 서초구 대법원 대법정에 입장해 장내 정돈을 선언하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;법원행정처가 이날 국민의힘 유상범 의원실에 제출한 ‘공직선거법 위반 사건 심급별 처리건수 및 평균 처리 기간’에 따르면, 지난해 선거법 위반 혐의 재판 중 1심의 평균 처리 기간은 115일로 나타났다. 이는 직전 해인 2023년 201.1일을 기록한 것의 절반 수준이다. &lt;br&gt;&lt;br&gt;공직선거법 270조는 선거법 위반 혐의 재판의 1심은 기소 후 6개월 이내, 2심과 상고심은 각 3개월 이내에 재판을 마치도록 규정한다. 김명수 대법원장 재임 시기이던 2021년 1심 평균 처리 기간이 195.7일을 기록하면서 6개월(180일)을 넘겼는데, 2022년 120.5일로 감소했다 2023년 200일을 넘기며 최근 20년 중 최고치를 기록했다. 그러다 조 대법원장이 취임하면서 심리 기간이 대폭 줄어든 것이다. 다만 올해 1~3월 사이 1심 평균 처리 기간은 134.6일을 기록하면서 심리 기간이 늘어났다.&lt;br&gt;&lt;br&gt;선거법 위반 혐의 1심의 평균 처리 기간은 감소했지만, 2심과 상고심의 처리 기간은 다시 늘어난 것으로 나타났다. 선거법 위반 혐의 2심은 지난해 244.9일을 기록해, 2023년 179.5일보다 2개월 이상 늘어났다. 상고심의 경우 같은 기간 73.2일에서 91.7일로 늘어나 3개월을 초과했다. 2심 평균 처리 기간은 올해 1~3월 사이 169.4일을 기록하면서 다시 감소세로 돌아섰지만, 상고심 평균 처리 기간은 94.2일을 기록해 더 늘어난 것이다.&lt;br&gt;&lt;br&gt;1심 판결에만 2년 2개월이 걸린 이재명 더불어민주당 대선 후보의 선거법 위반 혐의 재판 2심은 131일이 소요됐다. 상고심은 36일 만에 마무리됐다. 조 대법원장 취임 이후 심리가 시작된 2심과 상고심은 전체 사건의 평균 처리 기간보다 빠르게 진행된 것이다.&lt;br&gt;&lt;br&gt;이와 관련해 대법원은 지난 1일 이 대표 사건을 유죄 취지로 파기 환송하면서 보도 자료를 내고 “선거법은 ‘선거범의 재판 기간에 관한 강행 규정’이라는 표제 아래, 1심은 6개월 이내, 2·3심은 3개월 이내에 반드시 선고하도록 규정하고 있을 정도로 선거범의 재판은 신속히 할 필요가 있다”고 밝힌 바 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>후진국형 질병의 역습…올해 국내 홍역 환자 6년 만에 최다</title>
       <link>https://www.chosun.com/national/welfare-medical/2025/05/04/L7CK4DWNMNEGTA65DQ7VXEATB4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/05/04/L7CK4DWNMNEGTA65DQ7VXEATB4/</guid>
@@ -782,15 +831,6 @@
       </media:content>
     </item>
     <item>
-      <title>채무자 소개해준 지인 살해한 60대... 항소심도 ‘징역 20년’</title>
-      <link>https://www.chosun.com/national/regional/2025/05/02/XGSHA5YXJVHV3N6WBAEF6MGK6A/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/05/02/XGSHA5YXJVHV3N6WBAEF6MGK6A/</guid>
-      <dc:creator>대전=우정식 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 02 May 2025 05:48:50 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WOIPX7HDNFCOHOGTNKRO6EMBJA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원로고. /조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;채무자가 돈을 갚지 않는다는 이유로 채무자를 소개해준 지인을 살해한 60대에게 항소심에서도 중형이 선고됐다.&lt;br&gt;&lt;br&gt;대전고법 형사1부(재판장 박진환)는 살인 혐의로 기소된 A씨에게 원심 형과 같은 징역 20년을 유지했다. 이와 함께 5년간의 보호관찰도 명령했다.&lt;br&gt;&lt;br&gt;A씨는 지난해 7월 대전 유성구 거주지에서 지인 B씨와 함께 술을 마시다가 B씨를 흉기로 찔러 살해한 혐의로 기소됐다.&lt;br&gt;&lt;br&gt;A씨는 범행 3개월 전 피해자인 B씨의 소개로 알게 된 C씨가 160만원을 빌려 간 뒤 갚지 않자 B씨에게도 불만을 품었던 것으로 조사됐다.&lt;br&gt;&lt;br&gt;앞서 1심 재판부는 “미리 숨겨둔 흉기로 살해해 죄질이 좋지 않고, 피해자 가족에게 피해 복구를 위한 노력이나 피해 보상을 하지 않았다”며 “피고인이 과거 20회 이상 폭력 범죄로 형사 처벌받은 전력이 있고, 동종 범죄에 대한 형사 재판을 받던 중 이 사건 범행을 저지른 점 등을 고려했다”고 판시했다.&lt;br&gt;&lt;br&gt;1심 선고 후 검찰과 A씨는 모두 ‘양형 부당’을 주장하며 항소했다. 이에 대해 2심 재판부는 항소를 기각했다. 다만 보호관찰 요청은 받아들였다.&lt;br&gt;&lt;br&gt;재판부는 “1심 형량이 너무 무겁거나 가벼워 합리적인 범위를 벗어났다고 보기 어렵다”며 “사건 경위와 태도 등을 종합했을 때 다시 살인 범죄를 할 위험성이 인정돼 보호관찰을 받을 필요성이 있다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>李 파기환송에 민주당 “사법쿠데타” “제2의 인혁당 사건”…대법원 측 “최고법원 결정 존중돼야” </title>
       <link>https://www.chosun.com/national/court_law/2025/05/02/XNQB3IDNCNCOJGSG7ECP3Q5O4A/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/05/02/XNQB3IDNCNCOJGSG7ECP3Q5O4A/</guid>
@@ -856,15 +896,6 @@
       <description/>
       <pubDate>Fri, 02 May 2025 01:58:39 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JYNZMWXS65K3FCVKRITFNRXT7I.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;이재명 더불어민주당 대선 후보의 공직선거법 위반 혐의 사건을 다시 맡게 된 서울고등법원의 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대법원이 이재명 더불어민주당 대선 후보의 공직선거법 위반 사건을 유죄 취지로 판결한 다음 날인 2일 사건 기록을 서울고법에 송부했다. 서울고법은 이르면 이날 파기환송심 재판부를 배당할 전망이다.&lt;br&gt;&lt;br&gt;한 고법 부장판사는 “대법원이 ‘즉시 처리’를 강조하며 신속하고 집중적인 심리로 재판을 마친 만큼, 파기환송심도 빠르게 진행될 것으로 보인다”고 말했다.&lt;br&gt;&lt;br&gt;서울고법은 이날 오전 10시 50분쯤 “대법원에서 이 후보 선거법 사건 기록이 도착했다”고 밝혔다. 대법원 전원합의체가 전날 오후 3시 이 후보의 선거법상 허위 사실 공표 혐의를 유죄 취지로 판결한 지 하루 만이다. &lt;br&gt;&lt;br&gt;서울고법은 이르면 이날 사건을 배당하고, 파기환송심 재판부는 즉시 심리에 착수할 전망이다. 기존 2심에서 이 후보에게 무죄를 선고한 형사6부는 배당에서 제외된다.&lt;br&gt;&lt;br&gt;최고 법원인 대법원의 판결은 하급심을 구속하는 기속력(羈束力)을 갖고 있어, 파기환송심 재판부도 이 후보에게 유죄를 선고할 전망이다. 선거법 사건에서 벌금 100만원 이상을 선고받으면 이 후보는 선거 출마 자격을 잃고 공직에서 박탈된다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>95년만에 첫 외국인 ‘미스춘향’ 나왔다… 진은 20세 김도연</title>
-      <link>https://www.chosun.com/national/national_general/2025/05/02/HVXHIXIXTNCJDAKU3YIUVGLOAI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/05/02/HVXHIXIXTNCJDAKU3YIUVGLOAI/</guid>
-      <dc:creator>김명일 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 01 May 2025 23:52:06 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BK4NO4WQZZGMLBULJF5J2G4FGU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;제95회 글로벌 춘향선발대회 '미스춘향' 현 수상자 마이 씨./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제95회 춘향제 글로벌춘향선발대회에서 첫 외국인 미스춘향이 나왔다. 춘향선발대회는 지난해부터 국제 대회로 바뀌어 외국인도 참가하고 있지만 외국인이 미스춘향에 선발된 것은 올해가 처음이다. &lt;br&gt;&lt;br&gt;2일 남원시는 지난 4월 30일 요천로 특설무대에서 치러진 제95회 춘향제 글로벌 춘향선발대회에서 김도연(20·강원 원주·연세대 통합디자인학과 휴학)씨가 춘향 진으로 뽑혔다고 밝혔다. &lt;br&gt;&lt;br&gt;이번 대회에는 전 세계에서 600여 명이 지원해 1, 2차 예심을 거쳐 외국인 1명을 포함한 총 38명이 본선에 올라 경쟁했다. 춘향 현에는 외국인 최초로 서울대 언어교육과에 재학중인 에스토니아 출신 마이(25)씨가 뽑혔다.&lt;br&gt;&lt;br&gt;선에는 이지은(21·서울·성신여자대학교 미디어영상연기학과 재학)씨, 미에는 정채린(26·경기 용인·홍익대학교 미디털미디어디자인학과 졸업)씨, 정에는 최정원(24·서울·동덕여자대학교 경영학과 졸업)씨, 숙에는 이가람(22·서울·이화여자대학교 국제학과 재학)씨가 선발됐다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CYX3LTMNM7LKZHZFRPIKKPZAXI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;제95회 글로벌 춘향선발대회 진·선·미·정·숙·현 수상자들이 기념 촬영을 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이외에도 특별상인 글로벌 앰버서더에는 김소언(23·캐나다·전북대학교 의류학과 재학)씨와 현혜승(24·미국·펜실베니아대학교 도시계획 석사 재학)씨가 각각 선정됐고, 춘향제 후원기업 코빅스 상에 박세진(22·서울·이화여자대학교 중어중문학과 재학)씨가 선정됐다. &lt;br&gt;&lt;br&gt;글로벌 춘향선발대회 본선에서 최종 선정된 춘향 진, 선, 미, 정, 숙, 현 6인과 글로벌 앰버서더상 2인, 코빅스 상 1인은 남원시 홍보대사 자격이 주어진다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OFDGYHFM5RJITJKJ3LPMBKM6R4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;'미스춘향 진' 김도연. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;미스춘향 진에 뽑힌 김도연씨는 “고등학교 때부터 한복 교복 디자인 공모전에 참여하고, 대학도 디자인 쪽으로 진학할 정도로 한복을 사랑해 온 저에게 춘향제는 단순한 미의 대전이 아니었다”며 “그런 춘향 진의 영광이 제게 주어져 너무 기쁘고 행복하다. 앞으로 남원, 그리고 춘향을 전 세계적으로 알리는 능동적인 춘향 진이 되겠다”고 했다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>이주호 대행 NSC 소집 “北 도발 못하게 대비 태세 유지"</title>
@@ -958,24 +989,6 @@
       <description/>
       <pubDate>Thu, 01 May 2025 15:51:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RLMUPSMSX5CLRH762BBY2STPHU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>검찰총장 “탄핵사유 허위사실…법치주의 훼손”</title>
-      <link>https://www.chosun.com/national/court_law/2025/05/01/64EVU4VHWVHCRFVZZLLBDAMJ3M/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/05/01/64EVU4VHWVHCRFVZZLLBDAMJ3M/</guid>
-      <dc:creator>이슬비 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 01 May 2025 14:36:40 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3BM5UGRS6JDRXNJZ4KOC5OH3AM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;심우정 검찰총장이 지난 3월 10일 오전 서울 서초구 대검찰청으로 출근길하면서 취재진과 만나 질문에 답변하고 있다./장련성 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;심우정 검찰총장은 1일 더불어민주당이 자신에 대한 탄핵안을 발의한 데 대해 “검찰총장에 대한 모든 탄핵 사유는 아무런 근거없는 허위사실”이라고 했다. &lt;br&gt;&lt;br&gt;심 총장은 이날 입장을 내고 “대선 관련 선거범죄 및 전국의 민생범죄에 대한 수사와 공소유지를 책임지는 검찰총장을 탄핵해 공정한 선거와 법치주의를 훼손하려는 것”이라며 이같이 밝혔다. &lt;br&gt;&lt;br&gt;민주당은 대법원이 이재명 대선 후보의 공직선거법 사건을 유죄 취지로 파기환송하자, 소속 의원 170명 전원 명의로 심 총장 탄핵안을 발의했다. 민주당은 탄핵안에서 심 총장이 12·3 비상계엄 선포와 내란 행위에 가담했고, 위법하게 윤석열 전 대통령의 석방을 지휘했다고 주장했다. 또 장녀의 외교부 취업 특혜 의혹도 탄핵 사유로 꼽았다. &lt;br&gt;&lt;br&gt;심 총장 탄핵안은 본회의 보고 뒤 24시간 이후 처리가 가능하다. 민주당은 이르면 오는 2일 심 총장 탄핵안 처리도 강행한다는 계획이다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>이솝우화 ‘해님과 바람’ 거론해 ‘이재명 신속 재판’ 비판한 대법관 2명</title>
-      <link>https://www.chosun.com/national/court_law/2025/05/01/ILSJJXDGXRFALB6F3QQJFMEXFU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/05/01/ILSJJXDGXRFALB6F3QQJFMEXFU/</guid>
-      <dc:creator>방극렬 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 01 May 2025 12:53:31 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LCCQUZNEK5AL5EG5V3NACQIS24.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이재명 더불어민주당 대선 후보가 1일 서울 종로구의 한 음식점에서 열린 노동자 간담회에 참석한 후 퇴장하고 있다. 대법원 전원합의체는 이날 이 후보에게 무죄를 선고한 원심 판결을 파기하고 사건을 서울고법으로 돌려보냈다. /남강호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;1일 이재명 더불어민주당 대선 후보의 공직선거법 위반 사건 선고를 두고 대법원 전원합의체(전합)를 구성하는 12명의 대법관은 유죄 취지 10명과 무죄 취지 2명으로 갈렸다. 이 후보의 유무죄를 두고 입장이 나뉜 대법관들은 이례적으로 신속했던 전합 심리에 대해서도 상반된 평가를 남겼다.&lt;br&gt;&lt;br&gt;조희대 대법원장을 비롯한 다수의 대법관들은 이 후보의 김문기·백현동 발언을 허위 사실 공표로 판단하면서 ‘신속 재판’의 필요성을 강조했다. 대법원은 지난달 22일 이 사건을 전합에 회부하고 당일 합의 기일을 연 뒤, 이틀 후 추가 합의를 진행하고 선고일을 이날로 잡았다. 대법원 관계자는 “선거법의 취지에 따라 신속하고 깊이 있는 집중 심리를 해 사건의 적시 처리를 도모한 것”이라고 설명했다.&lt;br&gt;&lt;br&gt;반면 무죄 취지 의견을 낸 이흥구·오경미 대법관은 “신속만이 능사는 아니다”며 신속 심리에 비판적인 입장을 드러냈다. 이들은 “대법원은 신속 재판의 원칙을 내세워 유례없이 짧은 기간 내 이 사건 심리를 마무리하고 결론을 내놓았다”며 “대법원의 결론과 논거에 대해 당사자(이 후보)와 국민이 1·2심 논거와 비교해보고, 결론의 타당성과 합리성, 논거의 충실함에 관하여 수긍할 수 있기를 바랄 뿐”이라고 했다.&lt;br&gt;&lt;br&gt;이·오 대법관은 해님과 바람이 누가 나그네의 외투를 먼저 벗게 하는지 내기하는 내용의 이솝 우화 ‘해님과 바람 이야기’를 들어 설득에 시간이 필요하다고 주장했다. 이들은 “해님의 따뜻한 햇볕도 온기를 전할 시간의 지속이 허용되지 않는다면 내기에 이길 수 없었을 것”이라며 “대법원 전합의 요체인 설득과 숙고에는 시간이 필요하다”고 말했다.&lt;br&gt;&lt;br&gt;그러면서 “대법관들 상호 간의 설득과 숙고의 성숙 기간을 거치지 않은 결론은 외관상 공정성에 대한 시비도 문제지만 결론에서도 당사자들과 국민을 납득시키는 데 실패할 수 있다. 이 사건에서 전합의 심리와 재판은 해님이 갖고 있는 무기인 온기와 시간을 적절히 투입해 숙고와 설득에 성공한 경우인가 아닌가”라고 덧붙였다.&lt;br&gt;&lt;br&gt;이에 대해 유죄 취지로 판결한 서경환·신숙희·박영재·이숙연·마용주 대법관 5인은 보충 의견을 통해 “지연된 정의는 정의가 아니다. 선거범 재판은 다른 재판에 우선해 신속히 할 필요가 있다”고 했다. 반대 의견 대법관 2명의 비판을 정면으로 반박한 것이다.&lt;br&gt;&lt;br&gt;이들 대법관은 이 후보 사건 심리가 1심 2년 2개월, 2심 4개월이 걸린 데다 결론도 정반대였다는 점을 지적하면서 “이러한 절차 지연과 엇갈린 실체 판단으로 인한 혼란과 사법 불신의 강도가 유례없다는 인식 아래, 철저히 중립적이면서도 신속한 절차 진행이 필요하다는 공감대가 대다수 대법관 사이에 형성됐다”고 밝혔다.&lt;br&gt;&lt;br&gt;이어 대법관들은 “이 사건의 주요 쟁점은 크게 복잡하지 않다. 1·2심은 동일한 사실관계에 대해 치밀하게 법리를 전개해 적용했고, 이를 판결서에도 상세하게 설시했으므로 대법원은 그중 어느 쪽을 채택할 것인가를 결정하면 충분했다”며 “이미 축적된 판례와 법리, 연구 자료에 더해 쟁점에 관한 입체적이고 심층적인 추가 검토를 집중적으로 행했고, 이를 토대로 치열한 토론을 벌였다”고 했다. 짧은 기간이지만 심도 깊고 충실하게 심리해 결론을 냈다는 것이다. 또 “조 대법원장이 일일이 대법관들의 의견을 확인한 다음 후속 절차로 나아갔다”며 절차적 정당성도 강조했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
