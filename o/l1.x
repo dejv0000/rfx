@@ -6,6 +6,24 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>[판결] 대법원, "해외 파견은 근로 제공…비용 반환 약정 무효"</title>
+			<description>&lt;b&gt;[대법원 판결]&lt;/b&gt;&lt;br /&gt;공공기관이 해외 파견 후 복귀하지 않고 퇴직한 직원에게 파견 비용을 돌려달라며 소송을 제기했지만, 대법원에서 받아들여지지 않았다. 대법원은 해외 파견이 연수나 교육이 아니라 실질적인 '근로 제공'이었다면 파견 비용을 환수하는 약정은 근로기준법 위반이라는 기존 판례를 재확인했다.&lt;p&gt;&amp;nbsp;   &lt;/p&gt;&lt;p&gt;대법원 민사2부(주심&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="3751"&gt;권영준&amp;nbsp;&lt;/span&gt;대법관)는 4월 15일 한국원자력통제기술원이 퇴직한 A 씨를 상대로 낸 약정금 청구 소송에서 기술원의 상고를 기각하고 원고 패소 판결을 확정했다(&lt;b&gt;2022다208755&lt;/b&gt;).&lt;br /&gt;&lt;b&gt;&lt;br /&gt;[사실 관계 및 하급심 판단]&lt;/b&gt;&lt;br /&gt;A 씨는 한국원자력통제기술원 소속으로 2016~2019년 국제원자력기구(IAEA)에서 '비용부담 전문가(CFE)'로 파견 근무했다. 파견 종료 직후 퇴직한 A 씨에 대해 기술원은 "A 씨가 파견 기간의 두 배(약 6년) 동안 의무 복무해야 한다는 약정을 어겼다"며 약 30만4000유로(약 4억 원)의 파견 비용 반환을 청구했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;1심은 파견근무가 '교육훈련'이라 보아 반환 약정이 근로기준법 제20조에 위반되지 않는다고 판단했다. 반면 항소심은 파견근무가 '근로제공'이고 임금을 반환하는 약정은 근로기준법 제20조에 위반된다고 봤다.&lt;br /&gt;&lt;b&gt;&lt;br /&gt;[쟁점]&lt;/b&gt;&lt;br /&gt;의무 복무를 이행하지 않을 경우 파견 비용을 반환해야 한다는 약정이 근로기준법 제20조에 위반되는지 여부가 쟁점이 됐다. 근로기준법 제20조는 "사용자는 근로계약 불이행에 대한 위약금 또는 손해배상액을 예정하는 계약을 체결하지 못한다"고 규정하고 있다. &lt;br /&gt;&lt;b&gt;&lt;br /&gt;[대법원 판단]&lt;/b&gt;&lt;br /&gt;대법원은 항소심의 판단이 옳다고 보고 상고를 기각했다. 근로기준법 제20조는 근로자가 퇴직의 자유를 제한받아 부당하게 근로의 계속을 강요당하는 것을 방지하고, 근로자의 직장선택의 자유를 보장하며 불리한 근로계약을 해지할 수 있도록 보호하려는 데에 그 취지가 있다는 것이다.&lt;/p&gt;&lt;p&gt;&amp;nbsp; &lt;br /&gt;재판부는 "A 씨는 국제원자력기구에서 '핵안전관리관'으로서 핵물질 및 핵시설에 대한 물리적 방호 지침의 이행 지원 등 업무를 수행하는 근로를 제공했다. 그 업무수행 내용에 비추어, A 씨가 국제원자력기구 근무 중 전문가로서의 역량과 지식을 향상시킬 수 있었다고 하더라도, 이를 들어 A 씨가 국제원자력기구에서 연수나 교육훈련을 받았다고 보기는 어렵다"고 밝혔다.&lt;/p&gt;&lt;p&gt;&amp;nbsp; &lt;br /&gt;이어 "기술원은 파견기간 동안 A 씨에게 월별·분기별 보고, 수시 자료제출 의무 등을 부과했고, A 씨는 이를 이행했다. 따라서 기술원이 A 씨를 국제원자력기구에 파견한 것은, 원자력안전법 제7조 제5호에서 정한 기술원의 목적 사업인 '원자력 통제에 관한 국제협력 지원' 업무를 수행하기 위함이고, A 씨는 기술원의 관리 아래 근로를 제공했다고 볼 수 있다"고 판단했다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;그러면서 "A 씨가 지급받은 보수와 체제비 등은 해외근무에 대한 대가 등으로 기술원이 부담해야 할 비용이고, 원래 A 씨가 부담해야 할 비용을 기술원이 일단 우선적으로 부담한 것이라고 할 수 없다"고 설명했다.&lt;/p&gt;</description>
+			<pubDate>Sun, 04 May 2025 00:08:56 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/207728</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/207728</guid>
+			<dc:creator>안재명 기자</dc:creator>
+		</item>
+		<item>
+			<title>【오늘의 국회일정】 2025년 5월 4일</title>
+			<description>&lt;b&gt;◇소통관 기자회견&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;10:20 김형동 의원, [정치 현안 관련 기자회견]&lt;br /&gt;&lt;br /&gt;11:20 김재연 진보당 상임대표, [김재연 대선후보 기후위기 공약 발표 기자회견]&lt;br /&gt;&lt;br /&gt;13:20 김현 의원, [더불어민주당 팩트체크넷 민주파출소 일일 브리핑]&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;b&gt;&lt;span style="font-size: 14px;"&gt;※ 상기 일정은 사정에 따라 변경될 수 있습니다.&lt;/span&gt;&lt;/b&gt;</description>
+			<pubDate>Sat, 03 May 2025 22:38:00 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/207749</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/207749</guid>
+			<dc:creator>인터넷 기자</dc:creator>
+		</item>
+		<item>
 			<title>(금주 법조계 주요일정) 5월 5 ~ 5월 9일</title>
 			<description>&lt;b&gt;△5일(월)&lt;br /&gt;&lt;/b&gt;어린이날·부처님오신날&lt;br /&gt;&lt;b&gt;&lt;br /&gt;△6일(화)&lt;/b&gt;&lt;br /&gt;대체 공휴일&lt;br /&gt;&lt;b&gt;&lt;br /&gt;△7일(수)&lt;/b&gt;&lt;br /&gt;-법무법인 대륙아주·헤럴드경제, '트럼프의 관세정책과 대응전략' 미래리더스포럼 5월 초청 강연(오전 7시 30분, 서울 중구 장충동2가 앰배서더 서울 풀만 호텔 19층 남산홀)&lt;br /&gt;-대한변호사협회, 2025년 제14회 변호사시험 합격자 연수 개강식(오전 9시·오후 2시, 서울 강남구 논현동 건설회관 2층)&lt;br /&gt;-서울중앙지법, '노동조합및노동관계조정법위반 등 혐의' 허영인 SPC 회장 외 18명 46차 공판(오후 2시)&lt;br /&gt;-법무법인 세종, ‘상장폐지 제도 개편에 따른 선제적 대응전략’ 세미나(오후 3시, 서울 종로구 청진동 디타워 23층 세미나실)&lt;br /&gt;&lt;b&gt;&lt;br /&gt;△8일(목)&lt;/b&gt;&lt;br /&gt;-서울남부지법, '자본시장과금융투자업에관한법률위반 등 혐의' 강영권 전 에디슨모터스 회장 외 9명(오전 10시)&lt;br /&gt;&lt;b&gt;&lt;br /&gt;△9일(금)&lt;/b&gt;&lt;br /&gt;-서울지방변호사회, 2025 춘계 등산 야유회(오전 7시, 경기 여주시 매룡동 황학산 수목원)&lt;br /&gt;-서울중앙지법, '특정경제범죄가중처벌등에관한법률위반(사기) 등 혐의' 이상영 대우산업개발 회장 외 4명 19차 공판(오전 10시)&lt;br /&gt;-서울중앙지법, '특정범죄가중처벌등에관한법률위반(뇌물) 등 혐의' 곽상도, 곽병채 외 1명 8차 공판(오전 10시)</description>
 			<pubDate>Sat, 03 May 2025 22:08:14 -0000</pubDate>
@@ -215,25 +233,6 @@
 			<link>https://www.lawtimes.co.kr/news/207697</link>
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/207697</guid>
 			<dc:creator>인터넷 기자</dc:creator>
-		</item>
-		<item>
-			<title>【오늘의 법조】 2025년 5월 1일</title>
-			<description>&lt;p style="text-align: center;"&gt;   &lt;b&gt;[법원]&lt;/b&gt;&lt;/p&gt;&lt;p&gt;   &lt;b&gt;&amp;nbsp;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;   &lt;b&gt;▷대법원 2부 선고&lt;/b&gt;&lt;/p&gt;&lt;p&gt;-오전 10시&lt;/p&gt;&lt;p&gt;※하영제 의원 정치자금법 위반 등 사건(2025도2094)&lt;/p&gt;&lt;p&gt;※아도인터내셔널 조세범처벌법위반 등 사건(2025도2392)&lt;/p&gt;&lt;p&gt;   &lt;b&gt;&lt;br /&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;   &lt;b&gt;▷'가상자산이용자보호등에관한법률위반 혐의' 이모 씨 1명 공판&lt;/b&gt;&lt;/p&gt;&lt;p&gt;-오전 10시, 서울남부지법&lt;/p&gt;&lt;p&gt;   &lt;b&gt;&lt;br /&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;   &lt;b&gt;▷하승수-법무부장관 검찰 특수활동비 집행내역 및 지출증빙서류 관련 정보공개거부처분취소 소송 선고&lt;/b&gt;&lt;/p&gt;&lt;p&gt;-오후 1시 50분, 서울행정법원&lt;/p&gt;&lt;p&gt;   &lt;b&gt;&lt;br /&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;   &lt;b&gt;▷양정숙-더불어민주당 '제명결의 무효확인 소송' 선고&lt;/b&gt;&lt;/p&gt;&lt;p&gt;-오후 2시, 서울남부지법&lt;/p&gt;&lt;p&gt;   &lt;b&gt;&lt;br /&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;   &lt;b&gt;▷'독점규제및공정거래에관한법률위반 등 혐의' 케○○건축사무소 외 49명 LH 부당입찰 관련 사건 4차 공판&lt;/b&gt;&lt;/p&gt;&lt;p&gt;-오후 2시, 서울중앙지법&lt;/p&gt;&lt;p&gt;   &lt;b&gt;&lt;br /&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;   &lt;b&gt;▷엘리엇-삼성물산 제일모직 합병 관련 약정금 소송 2차 변론&lt;/b&gt;&lt;/p&gt;&lt;p&gt;-오후 2시 5분, 서울고법&lt;/p&gt;&lt;p&gt;   &lt;b&gt;&lt;br /&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;   &lt;b&gt;▷신분당선-대한민국 손실보상금 청구 소송 2차 변론&lt;/b&gt;&lt;/p&gt;&lt;p&gt;-오후 5시, 서울고법&lt;/p&gt;&lt;p style="text-align: center;"&gt;&amp;nbsp;&lt;/p&gt;&lt;p style="text-align: center;"&gt;&amp;nbsp;&lt;/p&gt;&lt;hr style="border-width: 2px 0px 0px; border-color: lightgray;" /&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p style="font-weight: 700; text-align: center;"&gt;   &lt;b&gt;[오늘의 PICK]&lt;/b&gt;&lt;/p&gt;&lt;p&gt;   &lt;b&gt;&lt;br /&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;   &lt;b&gt;▷'박성재 장관' 조사 검사 사의...검찰 동요 커져&lt;/b&gt;&lt;/p&gt;&lt;p&gt;검찰 비상계엄 특별수사본부에 파견됐던 검사가 최근 사의를 표명한 것으로 알려졌다. 해당 검사는 박성재 법무부 장관을 조사했던 검사라고 한다. 그는 박 장관이 수사팀을 ‘내란 검사’라고 지칭하고, 인사상 불이익이 있을 것 같은 분위기가 조성되자 검찰 조직에 대한 회의를 느껴 결국 사직서를 제출한 것으로 전해졌다.&lt;/p&gt;&lt;p style="text-align: center;"&gt;&amp;nbsp;&lt;/p&gt;&lt;p style="text-align: center;"&gt;   &lt;span style="color: #994c00; background-color: #ffe5cc;"&gt;&lt;b&gt;&lt;a href="https://www.lawtimes.co.kr/news/207626" target="_blank"&gt;☞ 기사보기 ☜&lt;/a&gt;&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style="text-align: center;"&gt;   &lt;b&gt;&amp;nbsp;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;   &lt;b&gt;▷학자금 대출만 1인당 1200만원...로스쿨생들 빚 해마다 늘어&lt;/b&gt;&lt;/p&gt;&lt;p&gt;로스쿨 재학생 1인당 평균 학자금 대출액이 2024년 1261만 원으로 나타났다. 로스쿨 학생들의 대출은 해마다 증가하는 경향을 보이며 2017년 대비 25%가량 늘었다. 변호사시험을 통과하고 ‘법조인’의 꿈을 이루더라도 빚을 갚느라 허덕이는 것이다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p style="text-align: center;"&gt;   &lt;span style="color: #994c00; background-color: #ffe5cc;"&gt;&lt;b&gt;&lt;a href="https://www.lawtimes.co.kr/news/207624" target="_blank"&gt;☞ 기사보기 ☜&lt;/a&gt;&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style="text-align: center;"&gt;&amp;nbsp;&lt;/p&gt;</description>
-			<pubDate>Wed, 30 Apr 2025 22:38:41 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/207695</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/207695</guid>
-			<dc:creator>인터넷 기자</dc:creator>
-		</item>
-		<item>
-			<title>화우, 심재진 외국변호사, 류성현∙이환구 변호사 영입…조세 역량 강화</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/207688.jpg" alt="23425267.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;심재진 외국변호사, 류성현 변호사, 이환구 변호사(왼쪽부터)&lt;/figcaption&gt;   &lt;/figure&gt;&lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;b&gt;&lt;a href="https://www.hwawoo.com/kor/main?lang=ko" target="_blank"&gt;법무법인 화우&lt;/a&gt;&lt;/b&gt;(대표변호사&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="8808"&gt;이명수&lt;/span&gt;)는 심재진 외국변호사,&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="10508"&gt;류성현&lt;/span&gt;(51·사법연수원 33기) 변호사,&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="15519"&gt;이환구&lt;/span&gt;(50·37기) 변호사를 영입했다고 30일 밝혔다.&lt;br /&gt;&lt;br /&gt;심재진 외국변호사는 글로벌 로펌과 회계법인에서 35년 이상 국내·외 다국적 기업의 조세자문과 쟁송을 맡아왔다. 심 외국변호사는 미국 햄프셔 칼리지 정치학과 졸업 후 보스턴 칼리지 로스쿨 법학전문석사와 보스턴 대학교 로스쿨 세법 석사를 마쳤다. 법무법인 율촌, 김·장 법률사무소, 법무법인 광장 등에서 활약했다.&lt;br /&gt;&lt;br /&gt;청주 청석고, 서울대 법학과 및 동 대학원을 수료한 류성현 변호사는 2001년 제43회 사법시험에 합격했다. 미국 듀크대 로스쿨에서는 법학석사를 취득했다. 서울지방국세청, 법무법인 광장 등에서 활동했으며 2013년 '국세청이 당신에게 알려주지 않는 세금의 진실'이라는 책을 발간하기도 했다.&lt;br /&gt;&lt;br /&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="15519"&gt;이환구&amp;nbsp;&lt;/span&gt;변호사는 안양고, 고려대 법학과, 서울시립대 대학원 법학과를 졸업했다. UCLA에서는 세법 석사 학위를 취득하기도 했다. 2005년 제47회 사법시험에 합격한 그는 법무법인 광장에서 18년간 조세 부문에서 자문과 소송을 담당했다.&lt;br /&gt;&lt;br /&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="8808"&gt;이명수&lt;/span&gt;(58·29기) 대표변호사는 "국제조세 분야의 경쟁력은 글로벌 고객과의 신뢰와 직결된다"며 "이번에 합류한 세 분의 전문성과 풍부한 경험은 화우의 국제조세 역량 업그레이드와 차별화된 고객 서비스 제공의 결정적 계기가 될 것"이라고 전했다.</description>
-			<pubDate>Wed, 30 Apr 2025 10:02:19 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/207688</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/207688</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/207688.jpg</media:thumbnail>
-			<dc:creator>안현 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
