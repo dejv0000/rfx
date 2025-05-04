@@ -13,6 +13,45 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>물류회사 냉장고 과자 꺼내먹은 화물차 기사... ‘절도’ 벌금 5만원</title>
+      <link>https://www.chosun.com/national/national_general/2025/05/04/X2CQMPUCFZBAFOYDMVYK3625WI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/05/04/X2CQMPUCFZBAFOYDMVYK3625WI/</guid>
+      <dc:creator>이혜진 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 04 May 2025 12:10:22 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/D2AHT5TOQOL24U4RIDMSPPYTIA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전주지방법원. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;물류회사 냉장고에서 1000원어치 과자를 꺼내 먹었다가 절도 혐의로 재판에 넘겨진 화물차 기사가 벌금 5만원을 내게 됐다. &lt;br&gt;&lt;br&gt;4일 법조계에 따르면, 전주지법 형사6단독 김현지 판사는 절도 혐의로 기소된 화물차 기사 A(41)씨에게 벌금 5만원을 선고했다. A씨는 지난해 1월 18일 오전 4시 6분쯤 전북 완주군의 한 물류회사 사무실 냉장고에서 과자 1000원어치를 무단으로 꺼내 먹은 혐의로 기소됐다. 검찰은 사안이 경미하다고 판단해 약식기소했으나 A씨는 자신의 무죄를 주장하며 정식재판을 청구했다. &lt;br&gt;&lt;br&gt;A씨는 재판 과정에서 평소 동료 기사들로부터 ‘냉장고 간식을 먹어도 된다’는 말을 들었다고 주장했다. 반면 물류회사 측은 기사들에게 간식을 제공한 적은 있으나 기사들이 허락 없이 간식을 가져간 적은 없다고 맞섰다.&lt;br&gt;&lt;br&gt;재판부는 물류회사 건물의 구조적 특성을 주요 근거로 A씨의 유죄를 인정했다. 재판부는 “사건 발생 장소인 건물 2층은 사무 공간과 기사들의 대기 공간이 분리돼 있다. 피고인이 물품을 꺼낸 냉장고는 사무 공간 끝부분에 있고 이곳은 기사의 출입이 허용되지 않는다”며 “이 물류회사의 경비원은 ‘사무 공간에 냉장고가 있는 줄 몰랐으며 간식을 먹은 적도 없다’고 진술했다”고 했다. 이어 “이런 점들을 종합해 봤을 때 피고인도 냉장고 속 물품에 대한 처분 권한이 없음을 충분히 알았을 것으로 보인다”고 판단했다. A씨는 1심 판결에 불복해 항소장을 제출했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>민주 “6만쪽 다 읽었나”…대법 “상고심 절차 모르고 정치권이 호도하는 것”</title>
+      <link>https://www.chosun.com/national/court_law/2025/05/04/VL4CP5JDEVAKDILX6MDLIA4BSE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/05/04/VL4CP5JDEVAKDILX6MDLIA4BSE/</guid>
+      <dc:creator>박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 04 May 2025 12:08:13 +0000</pubDate>
+      <content:encoded>이재명 더불어민주당 대선 후보의 공직선거법 위반 사건 상고심이 신속히 결론나자 민주당은 연일 대법원을 향한 공세를 이어가고 있다. 이에 대해 대법원은 “정치권이 상고심 절차를 호도하는 것”이라며 “기록을 모두 읽어야만 판결할 수 있는 것은 아니다”라고 반박했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RW2GLHBLYOZVXUMD3PXFY3NZ6U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대법원 전경 / 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김민석 민주당 상임공동선대위원장 겸 수석최고위원은 4일 국회 기자회견에서 “대법관들이 챗GPT보다 빠른 속독력으로 6만 페이지를 독파했다는 것인데, 국민은 사실 여부를 확인하고 싶을 것”이라며 전자기록 열람 여부를 공개를 대법원에 요구했다. &lt;br&gt;&lt;br&gt;전날에는 SNS를 통해 “대법관 10명이 이틀 동안 6만 페이지의 전자 기록을 다 열람했는지, 열람 소요 시간 등 모든 기록을 공개해달라”고 주장하기도 했다. 이에 ‘검사를 검사하는 변호사모임’은 대법관들의 소송 기록 열람 기록 등 전 과정을 공개하자는 취지의 100만 서명운동을 시작하기도 했다.&lt;br&gt;&lt;br&gt;그러나 대법원은 이날 “6만 쪽 논란은 정치권이 상고심 절차를 모르고 호도하는 것”이라며 “기본적이고 합리적인 논의를 넘어어서 국민에게 잘못된 정보를 전해선 안된다”는 입장을 밝혔다. 대법원은 “상고심은 원심 판결에 대한 사후적으로 법률적 판단을 하는 것”이라며 “상고이유서에 포함되지 않은 사실관계까지 일일이 살피는 것이 본질은 아니다”라고 설명했다. 원칙적으로 대법원은 상고 이유서에 구성된 제한적인 쟁점만 심리할 수 있고, 이를 넘어 판단하면 위법 소지가 있다는 점도 강조했다. 실제 이 후보 사건 판결문에서도 대법원은 “2심 법원이 법리를 오해했다”는 점을 수차례 지적했지만, 사실 관계를 문제 삼지는 않았다.&lt;br&gt;&lt;br&gt;이 사건은 지난 3월 28일 대법원에 접수됐다. 원심의 사건 기록 원문 뿐만 아니라 스캔된 전자 기록도 대법원에 함께 넘어왔다. 그 시점부터 대법관과 최소 10여명 이상의 형사 전담 재판연구관들이 사건 기록을 집중 검토하고 분석에 착수한 것으로 알려졌다. &lt;br&gt;&lt;br&gt;천대엽 법원행정처장도 지난 2일 국회 법제사법위원회 현안질의 때 “형사기록 전자 스캔으로 (대법관들이) 기록은 모두 보셨다고 확인되고 있다”고 밝힌 바 있다. 이는 민주당 의원들이 “6만 쪽에 달하는 기록을 짧은 시간 안에 모두 검토했느냐”며 의문을 제기한 데 대한 설명이었다.&lt;br&gt;&lt;br&gt;대법원 관계자는 “대법관마다 사건을 검토하는 방식은 다르다”며 “직접 기록을 열람하기도 하고, 재판연구관 보고서를 중심으로 필요한 부분만 발췌해 검토하기도 한다”고 설명했다. 또 “일부 정치권에서 문제 삼고 있는 ‘6만 쪽’ 기록에는 사실 판단과 관련된 기록들이 대부분이다”라며 “사실 관계에 대한 판단은 접어두고 상고 이유 판단에 필요한 기록을 충분히 소화해 합리적 판단을 내릴 수 있는 곳이 대법원”이라고 했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“공유 수 1000회 되면 가해자 공개”... 여중생 학폭 영상 확산</title>
+      <link>https://www.chosun.com/national/incident/2025/05/04/EEQDLV76IZEEFBV6IO57GA7NXE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/05/04/EEQDLV76IZEEFBV6IO57GA7NXE/</guid>
+      <dc:creator>인천=이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 04 May 2025 11:37:41 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JQ7F6SJWBZA7TJGWBMAWBSBGCI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;인천 송도의 한 아파트 단지 지상주차장에서 여중생이 또래 학생의 뺨을 때리는 ‘학폭(교내 폭력)’ 영상이 소셜미디어를 통해 확산돼 경찰이 수사에 나섰다./ 인스타그램 화면 캡쳐.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천 송도에서 여중생이 또래 학생의 뺨을 수차례 때리는 ‘학폭(교내 폭력)’ 영상이 소셜미디어를 통해 확산돼 경찰이 수사에 나섰다. 이 영상에는 ‘공유 수 1000회를 달성할 경우 가해자의 신상을 공개하겠다’는 내용의 자막이 달려 있는데 경찰은 누가 어떤 목적으로 영상을 퍼뜨렸는지도 함께 수사하고 있다.&lt;br&gt;&lt;br&gt;4일 인천 연수경찰서에 따르면, 지난 2일 “학교 폭력 영상이 인스타그램에 올라왔다”는 신고가 경찰에 접수됐다.&lt;br&gt;&lt;br&gt;영상의 제목은 ‘인천 송도 11년생(2011년생) 학폭 영상’. &lt;br&gt;&lt;br&gt;1분 39초짜리 ‘릴스(인스타그램의 짧은 동영상)’ 형식의 영상이었다. &lt;br&gt;&lt;br&gt;영상에는 여중생인 A양이 밤에 아파트 단지 지상 주차장에서 같은 학년으로 보이는 B양의 뺨을 손으로 7차례 때리는 장면이 담겼다. ‘공유 수 1000회를 달성하면 가해자의 신상을 공개한다’는 자막도 달렸다. &lt;br&gt;&lt;br&gt;영상에서 B양은 “제발 그만해줘. 미안해” “반대쪽 때려주면 안돼?”라고 애원했으나, A양은 “고개 한 번만 더 움직이면 죽여버린다” “숫자 세라”면서 B양의 뺨을 계속 때렸다. 다른 학생들은 A양을 말리지 않고 웃거나 영상을 촬영했다. 이 영상은 지난해 11월쯤 촬영된 것으로 알려졌다. &lt;br&gt;&lt;br&gt;이 영상은 온라인 카페 등을 통해 빠르게 확산됐고, A양의 이름과 학교, 연락처 등도 공개됐다. &lt;br&gt;&lt;br&gt;논란이 커지자 자기가 A양이라고 밝힌 한 여중생은 인스타그램에 “작년에 어린 생각으로 했고 지금까지도 많이 반성하고 있다. 피해 학생이 용서는 해줬지만 (저의 행동으로) 씻을 수 없는 상처를 받았을 거라고 생각한다”며 “화가 나셨을 분과 힘들어했을 피해 학생에게도 정말 죄송하고 미안하다”는 글을 올렸다. 이어 “전화가 1분에 36통은 기본이고, 문자메시지, 카카오톡 메시지, 디엠(인스타그램 메시지)이 너무 많이 와서 사실은 무섭다”며 “더 이상 이 일 언급 안 해주셨으면 좋겠다. 제 개인정보 유출하면 하나씩 고소하겠다. 얌전히 벌 받고 정신 차리고 살 수 있게 도와달라”고 했다. &lt;br&gt;&lt;br&gt;경찰은 우선 폭행 혐의로 A양을 입건하고, A양과 피해 학생을 상대로 정확한 사건 경위를 조사할 예정이다. &lt;br&gt;&lt;br&gt;또 인스타그램 측에 해당 영상을 올리고 A양의 개인정보를 퍼뜨린 사람이 누구인지 확인할 계획이다. 경찰 관계자는 “제3의 인물이 이 영상을 활용해 가해자를 협박하거나 다른 이득을 얻으려 했을 가능성 등에 대해서도 확인할 방침”이라고 했다. 제3자가 이른바 ‘사적제재(私的制裁)’를 했을 가능성도 제기되고 있다.&lt;br&gt;&lt;br&gt;해당 영상은 삭제됐지만 소셜미디어에서 계속 퍼지고 있다. 인천시교육청은 “피해 학생에 대한 2차 피해가 우려된다”며 “경찰 등과 협력해 영상을 삭제하고 있다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>70대 집주인 살해한 40대 세입자 “접착제 흡입해 환청 들렸다”</title>
+      <link>https://www.chosun.com/national/national_general/2025/05/04/IM7QFQ3QLREMVBKTBVOOZ3FWJQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/05/04/IM7QFQ3QLREMVBKTBVOOZ3FWJQ/</guid>
+      <dc:creator>진창일 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 04 May 2025 11:13:22 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OLWVVU3YIMCPL6AXX6FAITDCFA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기 하남경찰서. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;환각 상태에서 70대 집주인을 살해한 혐의를 받는 40대 세입자가 구속됐다.&lt;br&gt;&lt;br&gt;경기 하남경찰서는 4일 살인 및 유해화학물질 관리법 위반 혐의로 40대 A씨를 구속했다고 밝혔다. &lt;br&gt;&lt;br&gt;경찰에 따르면 A씨는 지난 2일 오전 3시에서 3시 30분 사이 경기 하남시의 한 지상 2층 규모 건물에서 70대 집주인 B씨를 살해한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;A씨는 사건이 일어난 건물 세입자였고, B씨도 해당 건물에서 거주해왔던 것으로 전해졌다. B씨는 범행 당시 홀로 집에 있었고, 사건 당일 오전 7시 45분쯤 B씨의 아내가 숨진 B씨를 발견하고 경찰에 신고했다.&lt;br&gt;&lt;br&gt;경찰은 방범카메라(CCTV) 영상 등을 토대로 A씨를 용의자로 검거했다. A씨는 경찰 조사 과정에서 “접착제를 흡입해 환청이 들렸다”는 진술을 한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;경찰은 A씨와 B씨 사이에 갈등이나 원한은 없었던 것으로 보고 있다. 경찰은 A씨의 진술 등을 토대로 정확한 사건경위를 조사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/OLWVVU3YIMCPL6AXX6FAITDCFA.jpg?auth=896db5cea788e78e109388f02ffce6fa9b212f2475d6a15739ff537e10b4a021&amp;smart=true&amp;width=3088&amp;height=2056" type="image/jpeg" height="2056" width="3088">
+        <media:description type="plain">경기 하남경찰서. /뉴스1</media:description>
+      </media:content>
+    </item>
+    <item>
       <title>사직 전공의들, ‘5월 추가모집’ 정식 요청하나…복귀 의향 설문조사</title>
       <link>https://www.chosun.com/national/welfare-medical/2025/05/04/JET7M2H6SJAHPHYLOJARMP4RIM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/05/04/JET7M2H6SJAHPHYLOJARMP4RIM/</guid>
@@ -921,15 +960,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4UQRTMSL6RMYPNNZV46QBLLRWQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이주호 대통령 권한대행 부총리 겸 교육부 장관이 2일 서울 종로구 정부서울청사에서 열린 긴급 국가안전보장회의(NSC)에서 발언하고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이주호 대통령 권한대행 부총리 겸 교육부 장관은 2일 “북한이 어떠한 도발 책동도 획책할 수 없도록 빈틈없는 대비 태세를 유지하기 바란다”고 했다.&lt;br&gt;&lt;br&gt;이 대행은 이날 오전 정부서울청사에서 주재한 국가안전보장회의(NSC) 모두발언에서 “정부는 국가의 안위와 국민의 생명과 안전을 지켜내는 일이 기본적인 사명”이라며 “NSC가 국민께서 안보 불안으로 조금도 염려하지 않도록 배전의 노력을 해야 할 시기”라고 밝혔다. &lt;br&gt;&lt;br&gt;이 대행은 또 “외교, 안보, 국방, 경제 안보 어느 분야에서든 한치의 빈틈도 없어야 할 것”이라며 “특히 북한이 어떠한 도발 책동도 획책할 수 없도록 빈틈없는 대비 태세를 유지하시기 바란다”고 당부했다. 이어 “모든 부처와 기관이 국익을 최우선으로 하여 원팀이 돼야한다는 정신 아래 마지막까지 국가와 국민 위해 총력을 기울여주실 것을 다시 한 번 부탁드린다”고 밝혔다.&lt;br&gt;&lt;br&gt;이 대행은 전날 한덕수 전 대통령 권한대행 국무총리와 최상목 전 부총리 겸 기획재정부 장관이 사퇴하면서 2일 0시부로 대행직을 맡게 됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>검찰, 김건희 여사 휴대전화 포렌식하기로</title>
-      <link>https://www.chosun.com/national/national_general/2025/05/02/WC3I3DD6U5H5XMUIHUU77C3V5U/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/05/02/WC3I3DD6U5H5XMUIHUU77C3V5U/</guid>
-      <dc:creator>박정훈 기자, 김현수 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 01 May 2025 15:54:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KTD4BGJZH5OIRGOHQWSX2EKMAA.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령 부부와 무속인 '건진법사' 전성배씨 사이의 의혹과 관련해 검찰이 지난달 30일 서초동 사저와 코바나콘텐츠 사무실에 대한 압수 수색을 실시했다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;무속인 ‘건진 법사’ 전성배(65)씨의 청탁 의혹과 관련해 지난달 30일 서울 서초구 아크로비스타 윤석열 전 대통령 사저와 김건희 여사 사무실 등을 압수 수색한 검찰은 조만간 압수한 김 여사 휴대전화 디지털 포렌식을 진행할 것으로 전해졌다. 당초 검찰은 압색 수색 현장에서 ‘김 여사 선물용’이라면서 전씨가 받은 6000만원대 명품 다이아몬드 목걸이와 명품 가방을 찾겠다는 계획이었다. 그러나 발견되지 않자 김 여사와 전씨와의 휴대폰 대화 등을 통해 선물이 오갔는지 확인할 것으로 1일 전해졌다.&lt;br&gt;&lt;br&gt;서울남부지검 가상자산범죄합동수사부(부장 박건욱)는 전날 압수 대상 품목으로 다이아몬드 목걸이와 고가의 샤넬백, 인삼주 등 100여 건을 제시한 것으로 전해졌다. 김 여사의 일기장, 회계 장부, 현금, 상품권, 신용카드 등도 포함돼 있었다고 한다. 법조계 관계자는 “보통 포렌식은 길게는 2달도 넘게 걸리지만 이번같이 급박한 사건의 경우 포렌식 대상을 빠르게 좁히면 2~3일 내에도 가능하다”고 했다. 다만 검찰이 압수한 김 여사의 휴대전화는 지난달 11일 관저에서 퇴거한 이후 새로 교체한 휴대전화인 것으로 전해졌다. 과거 대화 내용이 남아있지 않을 가능성도 크다. 검찰은 이르면 내주 김 여사를 소환하는 방안도 검토 중인 것으로 전해졌다.&lt;br&gt;&lt;br&gt;검찰은 지난해 말 압수한 5000만원 ‘뭉칫돈’의 출처도 추적하고 있다. 5000만원어치 사용권은 ‘한국은행’이 적힌 비닐로 포장돼 있고, 윤 전 대통령 취임 3일 뒤인 ‘2022년 5월 13일’이라는 날짜도 찍혀 있었다. &lt;br&gt;&lt;br&gt;한편 김건희 여사의 오빠가 운영하는 요양원이 노인 입소자를 학대했다는 주장이 제기돼 경기 남양주시가 현장 조사에 나섰다. 이 요양원에서 근무했던 요양보호사가 지난달 9일 이러한 내용을 신고했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>“대법, 사법적 유죄 취지는 명확히… 정치적 판단은 유권자에 맡겨”</title>
       <link>https://www.chosun.com/national/court_law/2025/05/02/4YAAKEN7LJA2NK6JD4FML3BWTI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/05/02/4YAAKEN7LJA2NK6JD4FML3BWTI/</guid>
@@ -950,41 +980,6 @@
       <description/>
       <pubDate>Thu, 01 May 2025 20:00:00 +0000</pubDate>
       <content:encoded>수도권에서 인테리어 도배 업체를 운영하고 있는 박준호(26)씨는 2021년 11월 군 전역 직후 다니던 전문대를 자퇴하고 도배 일을 배웠다. 컴퓨터공학 전공이었는데 별로 흥미가 없었고, 사무실에서 앉아 일하는 사무직보다 몸 쓰는 현장직이 더 적성에 맞다고 생각했기 때문이다. 4년째 도배 일을 하고 있는 박씨의 하루 일당은 약 27만원. 한 달에 25일 정도 일해 650만~700만원씩을 번다.&lt;b&gt; &lt;/b&gt;중소기업 직장인의 평균 월급은 298만원(2023년 기준)이다.&lt;b&gt; &lt;/b&gt;박씨는 “현장 기술직은 몸은 고되지만, 또래보다 수입이 많고 작업에 대한 보람이 높다는 확실한 장점이 있다”며 “각오와 열정이 있는 주변 사람들에게 이 일을 추천하고 있다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HLSHRZ5QNNCB5MMUCK3AEAW4FQ.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=김성규&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최근 현장에서 육체노동을 하는 ‘블루칼라’ 직업에 대한 젊은 세대의 선호가 높아지고 있다. 한때는 ‘3D 업종’으로 불리며 외면받는 업종이었는데, 최근에는 인공지능(AI)이 대체할 수 없는 고수익 기술직으로 재조명받고 있는 것이다. 특히 자격증을 따지 않고도 도제식으로 기술을 익히고 현장에 곧바로 투입돼 수입을 올릴 수 있다는 점에서 새로운 진로로 주목받고 있다.&lt;br&gt;&lt;br&gt;지난 3월 채용 플랫폼 진학사 캐치가 Z세대(1990년대 후반~2010년대 초반 출생) 1603명을 설문 조사한 결과, 63%는 ‘블루칼라를 긍정적으로 생각한다’고 답했다. ‘부정적으로 생각한다’는 7%에 그쳤다. 이들이 블루칼라를 긍정적으로 평가한 이유는 ‘연봉이 높아서(67%)’가 가장 많았다. ‘해고 위험이 낮아서(13%)’와 ‘야근·승진 스트레스가 덜해서(10%)’ 등이 뒤를 이었다.&lt;br&gt;&lt;br&gt;수도권의 인테리어 타일 업체에서 일하는 성모(32)씨도 타일기능사 등 자격증 없이 2022년부터 현장에서 일을 배웠다. 지금은 일당 20여만원을 받고 일한다. 유아 체육 강사로 근무할 때보다 3배 이상을 벌고 있다. 성씨는 “아직 현장에서 많이 혼나기도 하고 숙련된 타일공으로 성장하기까지는 시간이 더 걸릴 것”이라며 “그래도 이 일자리는 없어지지 않을 것이고 제 미래도 뚜렷하다는 데 자부심을 느낀다”고 했다. 성씨와 함께 일하는 타일공 15명 중 5명이 20·30대라고 한다.&lt;br&gt;&lt;br&gt;블루칼라 취업을 위해 건설 현장 일용직 아르바이트 등 현장직 경력을 쌓는 이들도 있다. 대전에 사는 대학생 이현호(25)씨는 세 차례에 걸쳐 아파트 건설 현장에서 한두 달씩 단기 아르바이트를 했다. 이씨는 건설 자재 나르기, 안전 난간 설치, 행인 접근 통제 등 업무를 하고 일당 15만원을 받았다. 현대차 등 자동차 회사 현장직 취업을 준비하고 있다는 이씨는 “카페나 음식점 등 서비스직 아르바이트처럼 손님을 상대하며 받는 스트레스가 없다는 것이 현장직의 가장 큰 장점 중 하나”라고 했다.&lt;br&gt;&lt;br&gt;이 같은 변화에 육체노동 관련 국가 기술 자격을 취득하는 젊은 층도 덩달아 늘고 있다. 한국산업인력공단 자료에 따르면, 지난 2023년 기준 타일기능사 자격 취득자 3명 중 1명(35.2%)은 20·30대였다. 여성 취득자의 비율도 10%였다. 도배기능사의 경우, 20·30대 취득자가 38.7%였고, 여성 취득자도 39.8%에 달했다. 중장년층에게 인기 있는 자격증으로 알려진 지게차 운전기능사 역시 20·30대 취득자가 절반(48.2%) 수준이었다. 지게차는 공장이나 대기업 물류 센터, 건설 현장에서 물건이나 자재를 운반할 때 쓰여 자격증 취득자에 대한 수요가 많다.&lt;br&gt;&lt;br&gt;인공지능(AI) 발달도 블루칼라 선호도 상승에 큰 영향을 끼쳤다는 분석이다. 한국고용정보원의 ‘AI에 의한 화이트칼라의 직무 대체 및 변화’ 보고서에 따르면, 화이트칼라는 블루칼라 등 비(非)화이트칼라에 비해 AI 직무 대체 위험이 5.49%포인트 높게 나타났다. 정보의 기록·수집·분석·평가 등 화이트칼라의 주된 업무가 바로 인공지능의 강점이다. 반면 블루칼라의 일은 인공지능이 쉽게 대신해줄 수 없다. &lt;br&gt;&lt;br&gt;이병훈 중앙대 사회학과 명예교수는 “요즘 블루칼라는 과거의 ‘공돌이’ 같은 개념이 아니라 고소득을 보장하면서 나름대로 보람도 느낄 수 있는 일자리”라며 “사무직 일자리 부족과 낮은 보수 등을 이유로 차라리 숙련된 기술자가 되겠다는 새로운 꿈을 갖는 청년들이 늘고 있다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“이재명 발언 명백한 허위” 대법, 유죄 취지로 원심 파기</title>
-      <link>https://www.chosun.com/national/court_law/2025/05/02/VKMETT4AQFFNXA22NWUJ5GVEBQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/05/02/VKMETT4AQFFNXA22NWUJ5GVEBQ/</guid>
-      <dc:creator>송원형 기자, 이슬비 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 01 May 2025 15:55:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7OLUZAOJZBM2DKO3XGA3VK35EI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;조희대 대법원장을 비롯한 대법관들이 1일 서울 서초구 대법원에서 이재명 더불어민주당 대선 후보의 공직선거법 위반 사건과 관련한 전원합의체 선고를 위해 대심판정에 착석해 있다. /사진공동취재단&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;대법원이 1일 이재명 더불어민주당 대선 후보의 공직선거법 위반 사건에서 무죄로 판단했던 2심을 깨고 유죄 취지로 파기환송했다. 대선을 33일 앞두고 나온 이번 판결로 이 후보가 대선 후보로서 자격이 있는지, 당선 후 재판을 계속할 수 있는지를 놓고 논란이 이어질 전망이다.&lt;br&gt;&lt;br&gt;대법원 전원합의체(주심 박영재 대법관)는 이날 오후 3시 이 후보의 상고심에서 “2심이 이 후보 발언 의미를 잘못 해석해 무죄로 판단한 것은 선거법상 허위 사실 공표죄에 관한 법리를 오해한 것”이라며 사건을 서울고법으로 돌려보냈다. 대법관 12명 중 10명이 유죄, 2명이 무죄 의견이었다.&lt;br&gt;&lt;br&gt;이 후보는 지난 대선 때 방송에서 대장동 개발 실무자인 고(故) 김문기씨를 성남시장 시절 몰랐다고 말하고, 국정감사에서 국토교통부 협박으로 백현동 개발 부지 용도를 상향했다고 해 2022년 9월 허위 사실 공표 혐의로 기소됐다. 1심은 작년 11월 이 대표의 “김씨를 몰랐다”는 발언은 인식에 해당돼 무죄를 선고한 반면, “해외 출장 중 김씨와 골프를 치지 않았다”는 취지의 내용과 백현동 관련 부분을 유죄로 판단해 징역 1년에 집행유예 2년을 선고했다. 하지만 2심은 이 대표 발언을 잘게 쪼개 골프 발언은 “여러 의미로 해석될 수 있고, 김씨를 모른다는 인식의 보조 논거에 불과하다”며, 백현동 발언은 “의견 표명이나 과장된 표현일 뿐”이라며 무죄를 선고했다. &lt;br&gt;&lt;br&gt;이에 대해 대법원은 “발언의 의미는 당시 상황과 전체적 맥락에 기초해 일반 선거인(유권자)에게 주는 전체적인 인상을 기준으로 해석해야 한다”며 “사후적인 세분 또는 인위적인 분절을 통해 연결된 발언 전부에 대한 표현 당시의 의미를 재구성하는 것은 신중할 필요가 있다”고 했다. 2심 판단의 문제점을 정면으로 지적한 것이다.&lt;br&gt;&lt;br&gt;대법원은 1심과 같이 이 후보의 골프·백현동 발언은 모두 “허위 사실 공표에 해당한다”고 했다. 대법원은 “(이 후보의) 골프 발언은 ‘김씨와 골프를 치지 않았다’는 의미로 해석되고, 실제 김씨와 골프를 쳤기 때문에 허위 사실에 해당한다”고 했다. 백현동 발언에 대해선 “국토부의 압박이 없었는데도 이 후보가 명백히 배치되는 허위 발언을 했다”고 판단했다. 반면, 이흥구·오경미 대법관은 2심 판단과 같이 무죄 취지의 반대 의견을 냈다.&lt;br&gt;&lt;br&gt;이 후보는 이날 “제 생각과 전혀 다른 방향의 판결”이라며 “국민의 뜻이 가장 중요하다”고 했고, 민주당은 “대법원의 선거 개입” “사법 쿠데타”라며 반발했다. 검찰은 “파기환송심에서 죄에 상응하는 형이 선고될 수 있도록 하겠다”고 했다.&lt;br&gt;&lt;br&gt;&lt;b&gt;☞파기환송&lt;/b&gt;&lt;br&gt;&lt;br&gt;대법원이 원심 판결을 취소하고 사건을 다시 심판하도록 원심 법원으로 돌려보내는 절차다. 앞선 판결에 법리 오해나 심리 미진 등의 문제가 있을 경우 이뤄진다. 파기된 판결은 법적으로 효력을 잃게 되고, 원심 법원은 상급심의 판단 취지를 반영해 다시 재판해야 한다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/7OLUZAOJZBM2DKO3XGA3VK35EI.jpg?auth=447acc1f6aa16aa2b7dcbc923b5b69be5efb2359714b9590f901eef1e25297ad&amp;smart=true&amp;width=5673&amp;height=2064" type="image/jpeg" height="2064" width="5673">
-        <media:description type="plain">조희대 대법원장을 비롯한 대법관들이 1일 서울 서초구 대법원에서 이재명 더불어민주당 대선 후보의 공직선거법 위반 사건과 관련한 전원합의체 선고를 위해 대심판정에 착석해 있다. /사진공동취재단</media:description>
-        <media:credit role="author" scheme="urn:ebu">bluesoda</media:credit>
-      </media:content>
-    </item>
-    <item>
-      <title>대법 “李 선거법 사건, 유례없는 사법 불신 있어 신속 처리”</title>
-      <link>https://www.chosun.com/national/court_law/2025/05/02/RXAN7ILNIBBDLPU6MYUA6XUJAQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/05/02/RXAN7ILNIBBDLPU6MYUA6XUJAQ/</guid>
-      <dc:creator>유희곤 기자, 김희래 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 01 May 2025 15:55:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GDN5TTLCGA2DTCJ6AX6ZJL7QYI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;조희대 대법원장을 비롯한 대법관들이 1일 오후 이재명 더불어민주당 대통령 후보의 공직선거법 사건 전원합의체 선고를 위해 서울 서초구 대법원 대법정에 입장해 자리에 앉아 있다. /사진공동취재단&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;1일 이재명 더불어민주당 대선 후보의 공직선거법 위반 사건을 유죄 취지로 파기환송한 대법원은 이날 판결에 대해 “신속하고 집약적으로 깊이 있는 집중 심리를 해 선거법 위반 사건의 적시 처리를 도모했다”고 밝혔다. 재판과 선고가 빨리 진행되면서 논란이 불거진 데 대해 대법원이 이례적으로 입장을 밝힌 것이다.&lt;br&gt;&lt;br&gt;대법원은 선고 직후 보도 자료를 통해 “공직선거법은 ‘선거범의 재판 기간에 관한 강행 규정’이라는 표제 아래, 1심은 6개월 이내, 2·3심은 3개월 이내에 반드시 선고하도록 규정하고 있을 정도로 선거범의 재판은 신속히 할 필요가 있다”고 밝혔다. 그러나 이 후보 사건은 1심에만 26개월이 걸렸고, 2심은 1심 선고 후 4개월 뒤 끝났다.&lt;br&gt;&lt;br&gt;대법원은 이 후보 사건이 신속하게 진행된 이유와 배경을 구체적으로 설명했다. 대법원은 “(이 후보 사건은) 2022년 9월 8일 공소 제기 후 지난 3월 28일 대법원 접수까지 약 2년 6개월이 걸린 절차 지연과 (1·2심의) 엇갈린 실체 판단으로 유례없는 혼란과 사법 불신이 있었다”고 했다. 그러면서 “대법원은 사건 접수 후 신속하게 1·2심 판결문과 공판 기록을 기초로 사실관계와 쟁점 파악에 착수하고, 검사 상고 이유서·변호인 답변서 등이 접수되는 대로 내용을 파악하고 검토했다”며 “기존 판례·법리·국내외 연구 자료도 집중적으로 검토한 후, 치열한 토론을 거쳐 신속하고 충실하게 사건을 심리해 결론에 이른 것”이라고 했다.&lt;br&gt;&lt;br&gt;해외의 신속 재판 사례도 소개했다. 대법원은 “미국 연방 대법원은 2000년 대선 직후 재검표를 둘러싸고 혼란을 빚었을 때, 플로리다주(州) 대법원 재판에 대한 불복 신청이 접수되자 3~4일 만에 재검표를 중단하라는 판결을 내려 혼란을 종식시킨 바 있다”고 했다. &lt;br&gt;&lt;br&gt;대법원은 지난 3월 28일 이 후보 사건이 접수되고 답변서 제출 기한이 끝난 직후인 지난달 22일 사건을 대법관 4명으로 구성된 소부에 배당했다가 2시간 만에 전원합의체에 회부했다. 회부 당일 첫 합의 기일을 열고 이틀 만에 두 번째 기일을 열어 결론을 냈다. 결국 전합에 회부한 지 9일 만에 선고한 것이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/GDN5TTLCGA2DTCJ6AX6ZJL7QYI.jpg?auth=ab5a00853fb8eb38c40233168611ed63f0d823a8ccafb1a188cfc5fd7b3dc93c&amp;smart=true&amp;width=5510&amp;height=3416" type="image/jpeg" height="3416" width="5510">
-        <media:description type="plain">조희대 대법원장을 비롯한 대법관들이 1일 오후 이재명 더불어민주당 대통령 후보의 공직선거법 사건 전원합의체 선고를 위해 서울 서초구 대법원 대법정에 입장해 자리에 앉아 있다. /사진공동취재단</media:description>
-        <media:credit role="author" scheme="urn:ebu">뉴스1 ⓒ News1 사진공동취재단</media:credit>
-      </media:content>
-    </item>
-    <item>
-      <title>尹 ‘직권 남용’ 혐의 추가 기소</title>
-      <link>https://www.chosun.com/national/court_law/2025/05/02/VLXFMRFOQBHKHAXJVL7SLRGXXU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/05/02/VLXFMRFOQBHKHAXJVL7SLRGXXU/</guid>
-      <dc:creator>박강현 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 01 May 2025 15:54:00 +0000</pubDate>
-      <content:encoded>‘12·3 비상계엄' 사태를 수사 중인 검찰 특별수사본부(본부장 박세현 서울고검장)는 1일 윤석열 전 대통령을 직권남용 권리행사방해 혐의로 추가 기소했다고 밝혔다.&lt;br&gt;&lt;br&gt;윤 전 대통령은 지난해 12월 3일 비상계엄을 선포한 후 직권을 남용해 군경이 국회와 중앙선거관리위원회 등을 점거하게 하고, 정치인들을 영장 없이 체포·구금하도록 하는 등 의무 없는 일을 하게 한 혐의를 받는다.&lt;br&gt;&lt;br&gt;앞서 검찰은 지난 1월 26일 당시 현직이었던 윤 전 대통령을 비상계엄과 관련한 내란(우두머리) 혐의로 구속 기소하면서도, 직권남용 혐의는 적용하지 않았다. 대통령은 내란 또는 외환의 죄를 범한 경우가 아니면 재직 중 형사 소추(訴追)를 받지 않기 때문이었다.&lt;br&gt;&lt;br&gt;검찰은 윤 전 대통령이 지난달 4일 헌법재판소 탄핵 심판 선고로 대통령직을 잃은 후 보완 수사를 거쳐 이날 윤 전 대통령을 추가로 기소했다. 그러면서 윤 전 대통령의 내란 사건을 심리 중인 서울중앙지법 형사25부(재판장 지귀연)에 직권남용 사건도 병합해 심리해달라고 신청했다.&lt;br&gt;&lt;br&gt;검찰은 “다른 중요한 증거를 발견하지 않는 한 동일한 범죄 사실에 관해 피의자를 다시 구속하지 못한다”는 형사소송법 제208조에 따라 윤 전 대통령에 대한 구속영장은 청구하지 않았다고 했다. 윤 전 대통령은 법원의 구속 취소 결정으로 지난 3월 8일 석방됐다.&lt;br&gt;&lt;br&gt;특수본 관계자는 “직권남용죄와 내란죄의 사실관계가 다르지 않다”며 “직권남용과 관련된 증거가 충분히 확보돼 있고, 윤 전 대통령의 입장은 탄핵 심판이나 형사 재판, 담화문을 통해 확인되기 때문에 신속하게 기소해 법원이 같이 심리하는 게 좋겠다고 판단했다”고 설명했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
