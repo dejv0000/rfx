@@ -13,6 +13,24 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>‘50대 무직자’ 공소장에 ‘청담동 성형외과 원장’ 범죄 혐의가... 검찰, 공소취소 결정</title>
+      <link>https://www.chosun.com/national/court_law/2025/05/05/N7TPFO2UPBBNZDVBRVMQGB5Z2A/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/05/05/N7TPFO2UPBBNZDVBRVMQGB5Z2A/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 05 May 2025 10:13:33 +0000</pubDate>
+      <content:encoded>마약류관리법을 위반한 혐의를 받는 50대 무직 남성을 재판에 넘기는 과정에서 한 성형외과 원장의 범죄사실을 공소장에 적었던 검찰이 최근 이 남성의 공소를 취소한 것으로 5일 확인됐다. 법원은 이를 받아들여 공소를 기각했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IGRLY6FOQZMC7FMWUEEU7LFVL4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 서울중앙지검(왼쪽)과 서울중앙지법의 모습./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 서울중앙지검 공판4부(부장 김은미)는 지난달 22일 A씨의 마약류관리법 위반 혐의 재판을 심리하던 서울중앙지법 형사9단독 최지연 판사에게 공소취소장을 제출했다. 최 판사는 사흘 뒤 공소기각 결정을 내렸고, 재판은 종결됐다.&lt;br&gt;&lt;br&gt;이 사건은 서울중앙지검 강력범죄수사부(부장 김보성)의 공소장 오기(誤記)가 발단이 됐다. 치료감호 중이던 A씨는 약물중독 재활 프로그램을 이행하지 않은 혐의를 받아 지난해 12월 약식 기소됐다. 검찰은 벌금 1000만원을 청구했다. 이때 검찰이 법원에 제출한 공소장에 A씨가 아닌 한 성형외과 원장의 범죄 혐의가 기재된 것이다.&lt;br&gt;&lt;br&gt;본지가 입수한 A씨의 공소장에 따르면, A씨의 인적사항 중 직업란엔 무직이라고 기재돼 있다. 그런데 공소사실 부분에서 검찰은 A씨를 가리켜 ‘청담동의 한 성형외과 의원 대표원장’이라고 했다. 이어지는 범죄 혐의는 대표원장 B씨가 2020년 1월~2023년 4월 사이 환자들에게 611회에 걸쳐 프로포폴을 투약하고도, 이를 식품의약품안전처장에게 보고하지 않았다는 내용이었다. &lt;br&gt;&lt;br&gt;약식기소 건을 정식재판에 넘긴 법원은 지난달 17일 첫 공판준비기일을 열었고, A씨 측은 검찰의 공소장이 잘못 작성됐다고 주장했다. 검찰도 오류가 있다는 것을 확인한 뒤 공소장을 변경하는 대신 공소를 취소한 것이다.&lt;br&gt;&lt;br&gt;정식재판에서 A씨를 대리한 손영현 변호사는 “검찰이 구약식 전 내부 결재 과정에서 이런 실수를 잡아내지 못한 것은 큰 문제”라고 지적했다.&lt;br&gt;&lt;br&gt;다만 B씨의 기소와 재판은 정상적으로 진행돼, 법원에서 유죄가 확정된 것으로 전해졌다. 검찰은 A씨 사건의 처분 방향을 검토 중인 것으로 전해졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘혜화동성당 종탑 농성’ 전장연 활동가들 구속 면해…“도망 염려 없다”</title>
+      <link>https://www.chosun.com/national/court_law/2025/05/05/AFCMSPDHMNCLJAVV5UQNN5YEEU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/05/05/AFCMSPDHMNCLJAVV5UQNN5YEEU/</guid>
+      <dc:creator>박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 05 May 2025 09:54:04 +0000</pubDate>
+      <content:encoded>혜화동성당 종탑에서 농성을 벌인 전국장애인차별철폐연대(전장연) 활동가들이 구속을 면했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XHZF3WK7WFIUJAEOX5RESN6YHQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울중앙지법은 5일 전장연 활동가 이모 씨와 민모 씨에 대해 구속 전 피의자 심문(영장실질심사)을 진행했다. 이날 영장실질심사에 앞서 전장연이 연 기자회견에서 참가자들이 활동가들에 대한 영장 기각을 촉구하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지법 이소진 판사는 5일 폭력행위 등 처벌에 관한 법률 위반(공동 주거 침입) 등 혐의를 받는 전장연 활동가 이모씨와 민모씨에 대한 영장실질심사를 진행한 뒤 영장을 기각했다.&lt;br&gt;&lt;br&gt;이 판사는 “피의자가 사실 관계를 다투지 않고 주로 법리적 주장을 하고 있는 점, 혐의에 관한 객관적 증거가 다수 확보돼 있는 점 등에 비추어 추가적인 증거 인멸의 염려가 인정되지 않는다”고 했다. 이어 “피의자의 일정한 주거 및 직업, 가족 관계 등에 비추어 보면 도망할 염려가 있다고 보기 어렵다”고 기각 사유를 설명했다.&lt;br&gt;&lt;br&gt;이들은 천주교가 전국 175개 장애인 거주 시설을 운영하면서, 장애인의 탈시설 권리를 왜곡하고 있다며 지난달 18일 혜화동성당의 종탑에 올라가 15일간 농성을 벌인 혐의를 받는다. 서울 혜화경찰서는 이들을 공동 주거 침입 등 혐의로 체포했고, 전날 두 사람에 대한 구속영장을 신청했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>李대행 “의대생 유급·제적 철회 없어…소중한 미래 걸지 말라”</title>
       <link>https://www.chosun.com/national/national_general/2025/05/05/L4AT57J32NGXTODJPX62EPBNDY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/05/05/L4AT57J32NGXTODJPX62EPBNDY/</guid>
@@ -947,15 +965,6 @@
       <content:encoded>&lt;b&gt;▶넷플릭스 ‘소년의 시간’&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FS5ZOJAJKJABFBCIB3UEGQZEQ4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;같은 반 친구의 살해 용의자가 된 13세 소년 제이미를 중심으로 청소년의 다양한 문제점을 들추는 심리 드라마. 제이미의 가족과 심리 상담사, 형사는 모두 같은 질문을 마주한다. “대체 무슨 일이 일어난 걸까?” 4부작. 원테이크 기법으로 촬영해 모든 에피소드가 생생하다. 소셜미디어에 긴 시간을 사용하며 사춘기를 보낸 최초의 세대, 그들의 정신 건강에 어떤 일이 벌어지고 있는지 목격하게 된다. 몹시 충격적이다. &lt;br&gt;&lt;br&gt;&lt;b&gt;▶뮤지컬 ‘사랑은 비를 타고’&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SZ2IZ7GCU5BTTGY7E3INTUMXDY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;1995년부터 5000회 이상 공연한 소극장 창작 뮤지컬의 스테디셀러. 지독하게 비 오는 날, 가족 모임을 망친 형에게 집 나간 동생이 돌아온다. 결혼과 복학 문제로 서로 으르렁거리는 형제, 엉뚱한 집으로 결혼 축하 이벤트를 하러 온 여성이 벌이는 소동이 재미있다. 자일리톨껌 같은 노래, 부드러운 코미디와 푸근한 형제애의 조합이 롱런 비결. 30주년을 맞아 송용진, 데니안, 박가은 등이 출연한다. 7월 13일까지 백암아트홀. &lt;br&gt;&lt;br&gt;&lt;b&gt;▶영화 ‘썬더볼츠*’&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OR6TRBDWQVCQVOWNJDKZLMOGP4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;어벤져스가 사라진 세상, 그래도 일이 터지면 누군가 우리를 지켜줘야 한다. CIA 국장이 새로운 팀을 꾸리는데, 맙소사, 사람을 잘못 고른 것 아닌가? 전직 스파이, 암살자, 살인 청부 업자…. “초능력 없음, 히어로 없음”이라는 문구처럼 영웅이 아니라 어두운 과거를 지닌 별종들이 모인 것이다. 예측불허 팀플레이 액션이 팡팡 터지는 마블 블록버스터. 서로를 전혀 믿지 못하는 이 별종들이 과연 세상을 구할 수 있을까. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>치료 부위 아프다며 치과 직원에 흉기 휘두른 60대 구속</title>
-      <link>https://www.chosun.com/national/incident/2025/05/02/ROISJZBC5VB2LMVSA7DVLJLNAA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/05/02/ROISJZBC5VB2LMVSA7DVLJLNAA/</guid>
-      <dc:creator>이승규 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 02 May 2025 13:57:33 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/B6QTCABVSCMLTH2EHHMLFS7VQA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;성남수정경찰서./경기남부경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;치료 부위가 아프다는 이유로 치과에서 흉기를 휘둘러 3명을 다치게 한 60대 남성이 구속됐다.&lt;br&gt;&lt;br&gt;경기 성남수정경찰서는 살인미수 혐의로 60대 남성 A씨를 구속했다고 2일 밝혔다. A씨는 지난달 29일 오전 10시 30분쯤 경기 성남시의 한 치과에서 흉기와 둔기로 병원 직원 B씨 등 3명을 다치게 한 혐의를 받고 있다. &lt;br&gt;&lt;br&gt;B씨는 얼굴을 다친 채로 병원으로 이송돼 약 30바늘을 꿰맨 것으로 알려졌다. 직원 3명 모두 현재까지 생명이 위독한 상태는 아닌 것으로 파악됐다.&lt;br&gt;&lt;br&gt;A씨는 지난해 8월부터 해당 치과에서 임플란트 시술을 받아오다가 치료 부위가 아프다는 이유로 범행을 저지른 것으로 조사됐다.&lt;br&gt;&lt;br&gt;A씨는 미리 도구를 준비하는 등 범행을 사전에 계획한 것으로도 확인됐다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “A씨를 조만간 검찰에 송치할 방침”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[속보] 서울고법, 이재명 피고인 소환장 발송…집행관 송달 요청</title>
       <link>https://www.chosun.com/national/court_law/2025/05/02/72OTRKXGJZED7FTP7ZP54JPYJQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/05/02/72OTRKXGJZED7FTP7ZP54JPYJQ/</guid>
@@ -963,15 +972,6 @@
       <description/>
       <pubDate>Fri, 02 May 2025 10:03:20 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DMQUWYLJIBLD3N6C26ACWXZ7O4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이재명 더불어민주당 대선 후보가 2일 강원도 인제군 원통 시장에서 취재진의 질문에 답하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>어린이날 밤부터 전국에 비...6일까지 이어져</title>
-      <link>https://www.chosun.com/national/transport-environment/2025/05/02/BHLEVFTXNVDELJDLRAVBYWSSQ4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/05/02/BHLEVFTXNVDELJDLRAVBYWSSQ4/</guid>
-      <dc:creator>박상현 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 02 May 2025 07:47:44 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GKAMIG4FVFIADK67T3WU5THW7U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;1일 오후 경남 창원시 성산구 용호동 일대에 우산을 쓴 시민이 걸어가고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;어린이날인 5일 밤부터 전국에 비가 내리기 시작해 대체 공휴일인 6일까지 이어질 것으로 전망됐다. 재작년부터 3년째 ‘비오는 어린이날’을 맞게 됐다.&lt;br&gt;&lt;br&gt;2일 기상청에 따르면, 3일 비구름대를 동반한 기압골이 우리나라로 들어오며 전국에 비가 내리겠다. 예상 강수량은 수도권과 강원도 5㎜, 충청권 5~10㎜, 남부지방 5~20㎜, 제주도 5㎜ 미만 등이다.&lt;br&gt;&lt;br&gt;이어 5일 밤부터 6일까지 전국에 또 비가 내리겠다. 이 비의 영향으로 5일 전국 최저 기온은 5~13도, 최고 18~23도의 기온 분포를 보이며 대체로 선선하겠다. 서울의 최고 기온은 20도, 최고 체감기온은 이보다 낮은 19도로 예보됐다. 기상청은 “어린이날 낮동안은 비가 안오겠지만 밤사이 저기압 규모가 커질 경우 이날 밤과 6일에 많은 비가 내릴 수 있다”고 했다.&lt;br&gt;&lt;br&gt;어린이날은 온난화 추이를 압축적으로 보여주는 날이다. 일년 중 기온 변동폭이 가장 큰 봄의 한 가운데 있기 때문이다. 서울의 경우 어린이날 평균 최고기온은 1950년대 17.3도였다가 1970년대 20.1도로 처음으로 20도를 넘겼다. 이후 2010년대 25.5도, 2020년대 27도까지 꾸준히 기온이 상승했다. 어린이날이 봄 보다 여름에 가까워진 것이다. 그런데 올해는 지난 1일부터 전국에 많은 비가 내렸고, 당일에도 비 소식이 있어 모처럼 어린이날에 선선한 봄 기운을 느낄 수 있을 전망이다.&lt;br&gt;&lt;br&gt;매년 온난화와 함께 자외선 지수도 높아지고 있어 어린이날 가족 외출 시 주의가 필요하다. 서울의 어린이날 자외선 지수(UVI)는 1950년대 ‘보통’ 수준에서 1970년대에 ‘높음’으로 올라섰다. 1990년대 ‘매우 높음’이 된 후 현재까지 매년 강도가 심해지고 있다. UVI는 ‘높음’부터 자외선 차단제가 필수고, ‘매우 높음’이면 외출 자제가 권고 된다. 기상청 관계자는 “이번 어린이날도 비가 내리지 않는 낮동안에는 구름 사이로 투과된 햇볕이 강할 수 있으니 자외선에 주의해야 한다”고 말했다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
