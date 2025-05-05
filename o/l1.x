@@ -6,6 +6,24 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>[판결] 대법 "망인 보험금 분배 합의서의 '선임비'에는 성공보수도 포함"</title>
+			<description>&lt;b&gt;[판결 결과]&lt;/b&gt;&lt;br /&gt;망인의 보험금 분배와 관련해 작성된 합의서에 적힌 ‘선임비’의 해석을 놓고 벌어진 분쟁에서 대법원이 '선임비'에는 성공보수까지 포함된다고 해석했다.&lt;p&gt;&amp;nbsp;   &lt;/p&gt;&lt;p&gt;대법원 민사2부(주심&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="1658"&gt;오경미&amp;nbsp;&lt;/span&gt;대법관)는 A 씨(망인의 부친)가  B 씨(망인의 배우자)를 상대로 낸 약정금 청구소송 상고심(&lt;b&gt;2024다324736&lt;/b&gt;)에서 원심을 파기하고 사건을 4월 15일 서울고법으로 돌려보냈다.&lt;br /&gt;&lt;b&gt;&lt;br /&gt;[사실 관계 및 항소심]&lt;/b&gt;&lt;br /&gt;사건은 2019년 사망한 망인 C의 보험금 등을 둘러싸고 분쟁이 생기면서 발생했다. 망인의 부친 A 씨와 망인의 배우자 B 씨는 2020년 2월경 "보험·보상금에서 채무 변제, 소송비용, 선임비를 제외한 금액의 50%를 A에게 지급한다"는 내용의 합의서(각서)를 작성했는데, 이후 B 씨는 손해배상 청구소송을 통해 망인의 사망 관련 보험금과 손해배상금 등 총 7억 원 상당을 수령했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;하지만 보험금 정산 과정에서 공제 대상에 포함되는 항목을 놓고 다툼이 벌어졌다. B 씨는 자신이 지급한 소송 성공보수(사례금)와 개인 위자료 등도 공제 대상이라고 주장했지만, 원심은 "선임비는 변호사 선임 시 지급한 착수금만 해당한다"며 이를 인정하지 않았다. &lt;br /&gt;&lt;b&gt;&lt;br /&gt;[대법원 판단]&lt;/b&gt;&lt;br /&gt;그러나 대법원은 '선임비'의 범위를 지나치게 좁게 본 원심 판단에 문제가 있다고 판단했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;재판부는 "통상 '선임비'는 착수금과 성공보수를 함께 일컫는 것이고, 착수금만 의미하는 것으로 제한하여 해석하기 어렵다"며 "각서에서 공제되는 금원으로 '소송비용'과 '선임비'를 함께 언급하고 있다는 점에 비추어 보더라도, 소송에서 부담하게 된 변호사 비용을 모두 공제하기로 했다고 해석하는 것이 당사자의 의사에 부합한다"고 밝혔다.&lt;/p&gt;&lt;p&gt;&amp;nbsp; &lt;br /&gt;이어 "원심으로서는 소송위임계약에 정한 '확정 인용금액'이 '확정판결에서 인용된 원금'을 의미하는지 아니면 '피고가 그에 따라 지급받은 판결원리금'을 의미하는지, 나아가 소송비용액 확정절차 등을 통해 보전받을 수 있는 소송비용은 얼마인지 여부 등을 심리해 그 공제 범위를 확정했어야 한다"며 "각서에 따라 공제돼야 할 '선임비'에 관련 소송에서 지급된 착수금만 포함된다고 판단한 원심은 처분문서의 해석에 관한 법리를 오해한 잘못이 있다"고 지적했다.&lt;/p&gt;</description>
+			<pubDate>Mon, 05 May 2025 00:05:28 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/207746</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/207746</guid>
+			<dc:creator>안재명 기자</dc:creator>
+		</item>
+		<item>
+			<title>【오늘의 국회일정】 2025년 5월 5일</title>
+			<description>&lt;b&gt;◇국회의장&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;10:00 부처님오신날 법요식(조계사 대웅전 앞 특설무대)&lt;br /&gt;&lt;b&gt;&lt;br /&gt;◇소통관 기자회견&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;10:20 김형동 의원, [정치 현안 관련 기자회견]&lt;br /&gt;&lt;br /&gt;11:00 용혜인 의원, [기본소득 대선정책 관련 기자회견]&lt;br /&gt;&lt;br /&gt;13:20 김현 의원, [더불어민주당 팩트체크넷 민주파출소 일일 브리핑]&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;b&gt;&lt;span style="font-size: 14px;"&gt;※ 상기 일정은 사정에 따라 변경될 수 있습니다.&lt;/span&gt;&lt;/b&gt;</description>
+			<pubDate>Sun, 04 May 2025 22:37:06 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/207750</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/207750</guid>
+			<dc:creator>인터넷 기자</dc:creator>
+		</item>
+		<item>
 			<title>민주당 "기록 6만 쪽 안 읽은 졸속 심리" … 법조 "법률심 판단 역할한 것"</title>
 			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/207752.jpg" alt="34637.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;《사진=공동취재단》&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;대법원 전원합의체가 5월 1일&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="9300"&gt;이재명&amp;nbsp;&lt;/span&gt;더불어민주당 대통령 선거 후보의 공직선거법 위반 사건 상고심에서 무죄 판결한 원심을 뒤집고 유죄 취지로 파기환송하자 민주당을 중심으로&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="6022"&gt;조희대&amp;nbsp;&lt;/span&gt;대법원장을 탄핵해야 한다는 목소리가 나오는 등 후폭풍이 이어지고 있다. 민주당은 6~7만 쪽에 달하는 재판 기록을 짧은 기간에 모든 대법관들이 살피기는 불가능하다며 '졸속' 심리가 이뤄졌다고 주장하지만, 법조에선 대법원이 법률심으로서 충분한 심리를 했을 것이란 의견이다. 대법원은 이 판결 보충의견에서 "신속한 심리를 위해 충실한 심리를 희생하는 일은 있을 수 없고 있어서도 안 된다"며 "대법관들은 빠른 시기에 제1심과 원심 판결문, 공판기록을 기초로 사실관계와 쟁점 파악에 착수하였고, 검사의 상고이유서와 변호인 답변서, 의견서가 접수되는 대로 지체 없이 제출 문서를 읽어보고 그 내용을 숙지했고 심층적인 추가 검토 후 치열한 토론을 했다"고 밝히기도 했다.&lt;br /&gt;&lt;b&gt;&lt;br /&gt;민주당, 李 파기환송 두고 '로그 기록' 요청까지&lt;/b&gt;&lt;p&gt;&lt;b&gt;&amp;nbsp;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;민주당은 사건 기록이 6~7만  쪽에 달하는데, 짧은 시간에 대법관들이 충실한 심리를 했는지 의문을 제기하고 있다. 민주당은 4일 비상의원총회를 열고 이 대선 후보의 공직선거법 위반 사건을 파기환송한 대법원에 대한 대응책을 논의했다. 조승래 민주당 선거대책위원회 수석대변인은 4일 서면 브리핑을 통해 "&lt;span style="font-weight: bold;" class="lawmanlink" serial="6022"&gt;조희대&amp;nbsp;&lt;/span&gt;대법원의 파기환송 판결은 내란 수괴에 대한 법의 심판을 막기 위한 윤석열 사법 카르텔의 기습 작전이었다"며 "조 대법원장이 당당하다면 대법원의 (기록 열람) 전자 로그기록을 공개하라는 국민의 요구에 응하라"고 촉구했다.&lt;br /&gt;&lt;b&gt;&lt;br /&gt;법조, "대법원, 충실히 심리했다"&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;민주당의 주장과 달리 상고심 절차와 실질에 밝은 이들은 대법원이 충분한 심리를 거쳤을 거라고 입을 모은다. 재판연구관을 지낸 변호사는 "대법원은 법률심이고, 1,2심 사실심과 달리 법률적 쟁점과 상고이유를 중심으로 기록을 검토하기 때문에 충분히 검토 가능하다"며 "현재 일각의 비난은 근거 없는 비난이고 대법원에 사실심의 역할을 요구해서는 안 된다"고 말했다. 이어 "사건의 중요성과 긴급성에 비추어 다른 사건보다 우선해서 심리한 것일 뿐 해당 사건에 대한 검토와 토론은 충분하게 이루어진 것으로 판단된다"고 했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;재판연구관을 지낸 한 부장판사도 "이 사건은 1심과 원심의 사실관계가 동일하고 관련 발언에 대해서 누구도 다툼이 없다"며 "상고이유서의 한줄 한줄, 답변서의 한줄 한줄은 모두 살피며 중요한 부분을 다 확인한다"고 말했다. 이어 "6만 쪽에 달하는 기록을 한 페이지 한 페이지, 한 글자 한 글자 다 봐야 한다는 취지로 로그 기록을 보라는 것은 부당한 공격일 수 있다"며 "기록이 전산화되어 있어 다른 대법관이 읽는 동안 기록을 못 보는 상황이 아니었기 때문에, 본인의 의견을 내기 위해 대법관들이 모두 기록을 봤을 것"이라고 말했다.&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="5602"&gt;천대엽&amp;nbsp;&lt;/span&gt;법원행정처장도 2일 국회 법제사법위원회에 출석해 "형사기록 전자 스캔으로 (대법관들이) 기록은 모두 보셨다고 확인되고 있다"며 "대법관들은 수많은 재판연구관과 유기적 일체가 돼서 기록을 검토한다"고 말했다. 천 처장은 "사건의 결론 여하를 떠나 최고 법원의 판결과 법관에 대한 기본적인 존중이 필요하다"고 했다.&lt;br /&gt;&lt;b&gt;&lt;br /&gt;다수의견의 보충의견 '주목'&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;대법원 전원합의체 판결문에는 조 대법원장과 9명의 대법관이 낸 다수의견의 보충의견이 담겨 있다. 다수의견에 대한&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="5554"&gt;서경환&lt;/span&gt;·&lt;span style="font-weight: bold;" class="lawmanlink" serial="3987"&gt;신숙희&lt;/span&gt;·&lt;span style="font-weight: bold;" class="lawmanlink" serial="651"&gt;박영재&lt;/span&gt;·&lt;span style="font-weight: bold;" class="lawmanlink" serial="9051"&gt;이숙연&lt;/span&gt;·&lt;span style="font-weight: bold;" class="lawmanlink" serial="1308"&gt;마용주&amp;nbsp;&lt;/span&gt;대법관은 보충의견을 통해 "지연된 정의는 정의가 아니다. 우리 헌법과 법률은 신속한 재판을 받을 권리를 보장하고 있다. 대법관 후보자들에 대한 청문회 과정에서 사법 불신의 원인이 재판 지연에 있다는 지적과 이에 대한 후보자의 생각을 묻는 질문은 빠지는 적이 없고, 대법관들은 취임사에서 지연된 정의의 해소를 위하여 노력하겠다고 다짐한다"고 밝혔다. 이어 "특히 사회정치적으로 갈등이 심하고 분열을 조장하여 신속한 해결이 필요한 사건, 공직선거사건 등 입법자가 적시에 처리하라고 기한까지 정하여 놓은 사건에 대한 처리 지연은 사법부에 대한 불신의 주요한 원인이 되었다. 대법원도 예외는 아니었다. 원심에서 국회의원직 상실사유에 해당하는 형을 선고받고 상고한 사건 등에서 대법원이 원심을 그대로 수긍하는 판결을 선고하면서도 처리가 상당히 지연되어 사실상 국회의원 잔여 임기를 거의 마칠 수 있게 된 사례가 있었음을 부인할 수 없다. 그때마다 재판 지연에 대한 국민의 따가운 시선과 비판을 피하기 어려웠다"고 부연했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;그러면서 "이 사건은 대통령선거 후보자가 피고인인 공직선거법위반 사건으로, 제1심은 공소제기일부터 약 2년 2개월, 제2심은 제1심 판결 선고일부터 약 4개월 후에 판결을 선고하였다. 그 결과 대법원에 이 사건이 접수되었을 때에는 이미 제21대 대통령선거 후보자 등록이 가까운 시기에 이르게 되었다. 더구나 제1심과 원심의 결론도 정반대였다. 이러한 절차 지연과 엇갈린 실체 판단으로 인한 혼란과 사법 불신의 강도가 유례없다는 인식 아래, 철저히 중립적이면서도 신속한 절차 진행이 필요하다는 공감대가 대다수 대법관 사이에 형성되었다. 공직선거에 관한 신속 재판 사례는 외국에서도 쉽게 찾아볼 수 있다. 미국 연방대법원은 2000년 부시와 고어가 경쟁한 대통령선거 직후 재검표를 둘러싸고 극심한 혼란이 벌어지는 상황에서, 재검표를 명한 플로리다 주대법원 재판에 대한 불복신청이 연방대법원에 접수된 후 불과 3~4일 만에 재검표 중단을 명하는 종국재판을 내려 혼란을 종식시켰다"고 설명했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;이들 대법관은 "대법관들은 빠른 시기에 제1심과 원심 판결문, 공판기록을 기초로 사실관계와 쟁점 파악에 착수하였고, 검사의 상고이유서와 변호인 답변서, 의견서가 접수되는 대로 지체 없이 제출 문서를 읽어보고 그 내용을 숙지하였다. 공직선거법상 허위사실공표죄에 관하여는 이미 많은 판례와 법리, 그 토대가 된 국내외 연구자료가 충분히 축적되어 있다. 대법관들은 이미 축적된 판례와 법리, 연구자료에 더하여 이 사건 쟁점에 관한 입체적이고 심층적인 추가 검토를 집중적으로 행하였고, 이를 토대로 치열한 토론을 하였다. 구체적인 절차 진행도 형사소송법령 등 관련 규정을 지키면서 이루어졌고, 절차를 주재하는 대법원장이 일일이 대법관들의 의견을 확인한 다음 후속절차로 나아갔다"고 밝혔다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;아울러 "달력상 날짜의 총량만이 충실한 심리를 반영하는 것은 아니다. 짧은 기간에 모든 쟁점을 망라한 다음 집약적으로 깊이 있는 심리를 진행하는 집중심리주의가 우리 소송절차법에서 채택한 지혜이고, 합리적인 결론에 도달할 수 있는 효율적인 심리방법이다. 이는 이 사건처럼 적시처리가 강력하게 요구되는 사건에서는 다른 선택의 여지가 없는 근본원칙이다"라며 "대법원은 이 사건의 특수성과 집중심리주의의 이념, 선거범 재판의 우선적인 신속 처리를 명한 공직선거법의 취지에 따라 신속하고 충실하게 이 사건을 심리하여 결론에 이르렀다는 점을 분명히 밝혀 둔다"고 덧붙였다.&lt;br /&gt;&lt;b&gt;&lt;br /&gt;이 사건은…&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;이 사건의 상고심은 3월 28일 대법원에 접수됐다. 4월 22일 주심 배당이 이뤄졌고,&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="6022"&gt;조희대&lt;/span&gt;&amp;nbsp;대법원장 직권으로 사건은 전원합의체에 회부됐다. 전합은 회부 당일과 4월 24일 두 차례 합의기일을 열었다. 이후 5월 1일 대법관 10대 2 의견으로 사건을 파기환송했다.&lt;/p&gt;</description>
 			<pubDate>Sun, 04 May 2025 09:46:11 -0000</pubDate>
@@ -213,26 +231,6 @@
 			<link>https://www.lawtimes.co.kr/news/207714</link>
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/207714</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/207714.jpg</media:thumbnail>
-			<dc:creator>인터넷 기자</dc:creator>
-		</item>
-		<item>
-			<title>[속보] 대법 "골프·백현동 발언은 허위사실…허용 불가"</title>
-			<description>&lt;p style="text-align: center; "&gt;   &lt;img src="https://image.lawtimes.co.kr/thumb/180/207712.jpg" alt="lawtimes.jpg" style="text-align: start;" /&gt;&lt;/p&gt;</description>
-			<pubDate>Thu, 01 May 2025 06:25:08 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/207712</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/207712</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/207712.jpg</media:thumbnail>
-			<dc:creator>인터넷 기자</dc:creator>
-		</item>
-		<item>
-			<title>[속보] 대법 "2심 골프발언 무죄 판단은 공선법 법리 오해"</title>
-			<description>&lt;p style="text-align: center; "&gt;   &lt;img src="https://image.lawtimes.co.kr/thumb/180/207711.jpg" alt="lawtimes.jpg" style="text-align: start;" /&gt;&lt;/p&gt;</description>
-			<pubDate>Thu, 01 May 2025 06:20:32 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/207711</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/207711</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/207711.jpg</media:thumbnail>
 			<dc:creator>인터넷 기자</dc:creator>
 		</item>
 	</channel>
