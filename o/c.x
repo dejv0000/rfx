@@ -13,6 +13,42 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>“한라산이 폭발했나”...제주 하늘 뒤덮은 이 것의 정체는</title>
+      <link>https://www.chosun.com/national/regional/2025/05/05/WLDPT3TYIFHSNFFN6COHT6AU74/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/05/05/WLDPT3TYIFHSNFFN6COHT6AU74/</guid>
+      <dc:creator>제주=오재용 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 05 May 2025 05:06:16 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QCBTTO63GRI5VELNUSZK3BKLYU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;5일 오전 제주도청 하늘에 거친물결구름이 관찰됐다. 구름 속 공기 덩어리 파동이 구름 안에 갇혀서 올라갔다 내려갔다를 반복하게 되는데, 그때 구름 아래가 물결치듯 일렁이게 되는 현상이다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;5일 제주 하늘에 파도가 치는 듯한 특이한 모양의 구름이 나타났다.&lt;br&gt;&lt;br&gt;사회관계망서비스에서는 “한라산이 폭발한 것 같다”, “외계인이 쳐들어올 것 같다”, “비현실적이다”, “구름 모양이 심상치 않다”, “그림 같다” 등 놀랍다는 반응이 이어지고 있다.&lt;br&gt;&lt;br&gt;기상청 등에 따르면 이날 제주 하늘을 뒤덮은 구름은 ‘거친 물결구름(Asperitas)’이다.&lt;br&gt;&lt;br&gt;지난 1일 수도권 하늘에도 나타나 화제를 모았던 이 구름은 상층의 찬 공기와 하층의 따뜻한 공기가 강하게 충돌하면서 대기가 불안정할 때 만들어지는 것으로 추정되고 있다. 불안정한 공기 덩어리가 상승과 하강을 반복하면서 구름 내부에 파동이 생기고 이 파동을 따라 구름이 오르내리며 밑면이 물결처럼 변형되는 것이다.&lt;br&gt;&lt;br&gt;실제 이날 낮 12시 기준 제주 대기는 다소 불안정하다. 제주도 남쪽 해상을 지나는 기압골에 의해 발달한 비구름대가 시간당 약 50㎞ 속도로 북동진하고 있어서다. 이로 인해 제주에선 곳곳에 소나기가 내렸다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>강남 100억 아파트 사우나서 무슨 일...샴푸 공급 중단된 이유는</title>
+      <link>https://www.chosun.com/national/national_general/2025/05/05/MSFJHFZ6CZGYLEBD7NOJVG56G4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/05/05/MSFJHFZ6CZGYLEBD7NOJVG56G4/</guid>
+      <dc:creator>정아임 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 05 May 2025 04:29:10 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NPVLZUPIV3XUQ2X2V7QKOQSJEM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;[땅집고] 서울 서초구 반포동 '래미안 원베일리' 아파트.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 서초구 반포동의 초고가 아파트 커뮤니티 사우나 내 공용 비품 지급을 중단했다. &lt;br&gt;&lt;br&gt;4일 래미안 원베일리 입주민 커뮤니티 등에 따르면 반포 원베일리 아파트 측은 최근 사우나 입구에 ‘공용품 지급 중단 안내’ 팻말을 세우고, 샴푸·로션 등 공용품 제공을 중단한다고 알렸다.&lt;br&gt;&lt;br&gt;안내문을 보면 ‘3월 13일 입주자 대표회의 사우나 용품 지급 여부 안건 의결에 따라 재고 소진 후 비누, 치약을 제외한 나머지 물품은 제공하지 않는다’고 적혀있다.&lt;br&gt;&lt;br&gt;일부 입주민이 빈 용기에 샴푸를 담아 가거나, 사우나에서 빨래를 하며 과도한 소비가 발생해 이 같은 결정을 내린 것으로 알려졌다. 실제로 공용품 구입 비용은 입주 초 월 150만원 수준에서 최근 300만원대로 급증한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;약 1200명이 참여하는 입주민 단체 채팅방에서는 “빈 통 가져와서 샴푸, 바디워시를 펌프질해 가는 사람이나 봉투에 빨래 담아와서 샴푸, 바디워시로 빨래해 가는 사람들을 보면 없애길 잘했다 싶다”는 글이 올라오기도 했다.&lt;br&gt;&lt;br&gt;공용품 중단을 두고 엇갈린 반응이 나왔다. 총 2990가구에 이르는 원베일리에서 공용품 비용이 300만원이 나와도 가구당 한 달에 1000원만 더 내면 되는데 이 비용을 아끼겠다고 예민하게 군다는 의견이 나왔다. 일부는 사용하지 않는 주민까지 비용을 부담할 이유는 없다는 반응이었다. &lt;br&gt;&lt;br&gt;한편 서울 서초구 반포동에 2023년 8월 준공된 원베일리는 최근 전용면적 59㎡가 42억원, 84㎡는 70억원에 거래됐다. 국민 평형 아파트 평당 가격이 2억원을 넘은 건 래미안 원베일리가 처음이다. 116㎡는 80억원, 133㎡는 106억원에 실거래가 이뤄졌다. 3.3㎡당 2억 6114만원에 거래된 셈인데, 국내 공동주택 거래 사상 3.3㎡ 기준으로 최고가 수준을 기록했다.&lt;br&gt;&lt;br&gt;지난해에는 미혼 입주민을 위한 단체 미팅을 열어 화제가 됐다. 300~400명 규모로 진행된 이 모임은 인근 고가 아파트 주민들까지 초청해 단체 미팅 대상을 확대했다. 일각에서는 ‘노골적인 부의 대물림’이라는 비판도 나왔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“한 모금도 안 돼”… 15세 이전 음주 경험, 알코올 중독 위험 4배↑</title>
+      <link>https://www.chosun.com/national/welfare-medical/2025/05/05/VRJKZGXCQZBRPBN34ARMC27KOM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/05/05/VRJKZGXCQZBRPBN34ARMC27KOM/</guid>
+      <dc:creator>오유진 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 05 May 2025 05:00:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BS5AU4XKUYHWL3LM4FSYP5RYO4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 종로구의 한 편의점에 청소년 대상 술·담배 판매금지 경고문구 스티커를 부착하고 있는 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;15세 이전에 술을 마신 경험이 있는 청소년은 성인 이후 알코올 중독 등 음주 문제를 겪을 위험이 최대 4배까지 높아지는 것으로 나타났다.&lt;br&gt;&lt;br&gt;우리 사회는 미성년자가 어른과 함께 있을 경우 술 한 잔 정도는 괜찮다는 분위기가 여전히 존재한다. 실제로 한국건강증진개발원과 국립암센터가 최근 발간한 ‘어린이·청소년 음주 예방 가이드라인’에 따르면, 우리나라 중·고등학생 3명 중 1명은 부모나 친척 등 주변 어른에게 술을 권유받은 경험이 있는 것으로 조사됐다.&lt;br&gt;&lt;br&gt;청소년건강행태조사에서도 지난해 중·고등학생 3명 중 1명은 술을 마셔본 적이 있다고 응답했고, 그중 4명 중 1명은 초등학생 시절 또는 그 이전에 처음 음주를 접했다고 답했다.&lt;br&gt;&lt;br&gt;전문가들은 조기 음주가 성인기 알코올 사용 장애로 이어질 가능성이 높다고 경고한다. 전두엽·해마·편도체 등 뇌 주요 부위는 20대 중반까지 발달이 이어지는데, 청소년기 음주는 이들 기능의 정상 성장을 저해할 수 있다. 음주 시기가 빠를수록 인지 기능과 학업 성취도가 떨어지고, 기억력 저하와 충동 조절 장애도 동반될 수 있다.&lt;br&gt;&lt;br&gt;이에 아이 동반 술자리나 술 심부름은 피해야 한다. 또 어른이 권한다고 해도 ‘술 말고 다른 걸 마시겠다’고 분명히 말할 수 있도록 교육하고, 음주 권유는 정중히 거절하도록 지도해야 한다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>법원 “리걸테크 회사의 고소장 자동 작성 서비스, 변호사법 위반 아냐”</title>
+      <link>https://www.chosun.com/national/court_law/2025/05/05/FLCHABHEYJD3BOSMZNYDCQGBGE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/05/05/FLCHABHEYJD3BOSMZNYDCQGBGE/</guid>
+      <dc:creator>박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 05 May 2025 04:32:17 +0000</pubDate>
+      <content:encoded>고소장 등 법률 문서를 자동으로 작성·완성해주는 리걸테크 서비스는 위법이 아니라는 법원 판단이 나왔다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3NVNYE7ZPZAIFPZW65GXPRYY6Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 강남대로 193(양재동) 서울가정법원·서울행정법원 청사앞에 서 있는 박창식의 '바로보고, 바로서기' / 전기병 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울행정법원 행정8부(재판장 이정희)는 최근 변호사 박모씨가 서울지방변호사회를 상대로 낸 ‘사용인 겸직 불허 취소 청구 소송’에서 원고 승소로 판결했다고 5일 밝혔다. &lt;br&gt;&lt;br&gt;박씨는 2021년 9월 리걸테크 기업 A사의 사원으로 겸직하겠다며 서울변회에 허가를 신청했다. A사는 고소장, 내용 증명, 지급 명령 등 각종 법률 문서를 자동으로 작성하는 서비스를 제공하는 회사다.&lt;br&gt;&lt;br&gt;하지만 서울변회는 그해 11월 “A사가 법무법인이나 법률사무소가 아닌 것은 명백하므로, 비변호사가 법률 사무를 취급하는 것으로 볼 수 있다”며 겸직을 허가하지 않았다. 특히 “이용자가 일정 정보를 입력하면 알고리즘이 나머지 내용을 작성해 최종 법률 문서를 완성하는 방식은 기존의 법률 서면 판매 서비스와 같다고 보기 어려워 변호사법 위반의 소지가 있다”고 지적했다.&lt;br&gt;&lt;br&gt;이에 박씨는 “A사는 해당 서비스를 무료로 제공하고 있고, 리걸테크 산업은 국가적으로 지원·육성할 사업”이라며 서울변회의 처분에 불복하는 소송을 제기했다. &lt;br&gt;&lt;br&gt;법원은 박씨의 손을 들어줬다. 재판부는 A사의 서비스를 이용자가 빈칸을 채우면 알고리즘이 나머지를 채워 법률 문서를 완성하는 ‘무료 자동 작성 서비스’와, 생성된 문서를 변호사가 검토한 뒤 직인을 날인하는 ‘유료 검토 서비스’로 각각 나눠 판단했다.&lt;br&gt;&lt;br&gt;이 가운데 ‘자동 작성 서비스’에 대해 재판부는 “이용자가 작업을 편리하게 할 수 있도록 도와줄 뿐, 변호사법에서 규정하는 법률 사무 취급에는 해당하지 않는다”고 했다. &lt;br&gt;&lt;br&gt;이어 “A사의 플랫폼은 프로그래밍을 통해 실무에서 자주 등장하는 문서 유형의 사례를 축적해 그에 따른 표준화된 문서 양식을 마련한 것”이라며 “법률 문서 작성이나 사무 취급에 해당하려면 구체적·개별적 사안을 대상으로 해야 하는데, A사는 법률 문서 서식 등 표준화된 문서를 제공하는 데 그쳤다”고 설명했다.&lt;br&gt;&lt;br&gt;반면 A사가 제공하는 ‘검토 서비스’는 변호사법 위반 소지가 있다고 봤다. 다만 서울변회가 박씨의 겸직을 불허하면서 검토 서비스 관련 내용을 처분 사유에 명시하지 않은 점을 들어, 겸직 불허 처분 자체는 위법하다고 결론 내렸다.&lt;br&gt;&lt;br&gt;아울러 재판부는 생성형 AI 기술(주어진 데이터로부터 새로운 콘텐츠를 생성할 수 있는 인공지능 기술)을 활용한 법률 문서 작성에 대해서는 위법 가능성을 언급하며 주의를 당부했다.&lt;br&gt;&lt;br&gt;재판부는 “이용자가 텍스트로 자신의 상황을 설명하면, 생성형 AI가 법률 문서를 선택･작성해주는 방식은 문서의 단순한 디지털화를 넘어 ‘사건에 관한 법률 관계 문서 작성 또는 그 밖의 법률사무 취급’에 해당할 수 있다”며 변호사법 위반 소지가 있다고 지적했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>대법 “변호사 선임비는 착수금에 성공보수까지 포함한 개념”</title>
       <link>https://www.chosun.com/national/court_law/2025/05/05/WQZKQ4IX7VGAHKBBKGQWCLSGQM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/05/05/WQZKQ4IX7VGAHKBBKGQWCLSGQM/</guid>
@@ -871,28 +907,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YRAC6UBRR7CQDLIPKIPYLCA2JM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산지방법원 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;군복무 중 아버지가 간암 수술을 받는다고 속여 상습적으로 휴가를 간 20대가 징역형의 집행유예를 선고받았다. &lt;br&gt;&lt;br&gt;부산지법 형사14부(김현석 부장판사)는 공전자기록등위작 등 혐의로 기소된 A씨에게 징역 6개월에 집행유예 2년을 선고하고 80시간의 사회봉사를 명령했다고 1일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 육군의 한 사단에서 취사병으로 복무하면서 아버지 간암 수술을 이유로 2023년 12월부터 2024년 1월까지 5차례에 걸쳐 43일간 휴가를 간 혐의를 받는다. &lt;br&gt;&lt;br&gt;A씨 아버지는 간암 진단을 받거나 병원 진료나 수술을 받은 사실이 전혀 없었다. 휴가를 위해 부대에 허위 보고를 한 것이다. A씨는 실제로는 친구를 만나 PC 게임 등을 한 것으로 조사됐다. &lt;br&gt;&lt;br&gt;심지어 A씨는 휴가 중에 ‘수술 이후 아버지 상태가 안 좋아져 추가 수술이 필요하다’고 부대에 연락해 휴가 기간을 연장한 것으로 파악됐다. 구글에서 진료 소견서 등 양식을 내려받아 아버지 인적 사항과 진단명 등을 기록해 부대에 제출하기도 한 것으로 확인됐다.&lt;br&gt;&lt;br&gt;김 부장판사는 “아버지가 간암에 걸렸다고 거짓말하여 대대장 등의 공무집행을 방해함과 동시에 근무 기피 목적으로 진료소견서와 진료사실확인서를 위조하고 이를 행사해 죄질이 나쁘다”고 했다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>’이재명 선거법’ 파기환송심 맡는 서울고법 7부는?</title>
-      <link>https://www.chosun.com/national/court_law/2025/05/02/ADYYC2CQFVHDZGU5X7WBTLZJZA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/05/02/ADYYC2CQFVHDZGU5X7WBTLZJZA/</guid>
-      <dc:creator>방극렬 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 02 May 2025 09:42:19 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/22UT755FINPNBAAA4JDTQA4CAE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2일 강원도 인제군 원통 시장을 방문한 이재명 더불어민주당 대선 후보. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이재명 더불어민주당 대선 후보의 공직선거법 위반 사건 파기환송심이 서울고법 선거 전담 재판부에 배당됐다.&lt;br&gt;&lt;br&gt;서울고법은 2일 이 후보의 선거법 사건을 형사7부에 배당했다. 형사7부는 재판장인 이재권(56·사법연수원 23기) 부장판사와 박주영(51·33기)·송미경(45·35기) 고법 판사로 구성된 합의 재판부다.&lt;br&gt;&lt;br&gt;대법원 전원합의체가 이 후보의 선거법상 허위 사실 공표 혐의를 유죄 취지로 판결하며 서울고법에 돌려보낸 지 하루 만이다. 재판부는 배당 당일 첫 공판 기일을 오는 15일 오후 2시로 잡았다.&lt;br&gt;&lt;br&gt;이 사건 재판장인 이재권 부장판사는 제주 출신으로, 제주제일고등학교와 서울대 법학과를 졸업했다. 1997년 판사로 임관해 서울지법 판사와 법원행정처 사법정책연구심의관, 대법원장 비서실 판사, 제주지법 수석부장판사 등을 지냈다. 김상환 전 대법관의 후임 후보군 명단에 오르기도 했다. 법원 내부에서는 “치우친 판결을 하지 않는 실력 있는 법관”이라는 평가를 받는다.&lt;br&gt;&lt;br&gt;주심인 송미경 고법판사는 부산 출신으로 이화여대 법학과를 졸업했다. 서울중앙지법 판사, 대법원 재판연구관 등을 거쳤고 서울고법에서는 공보 업무도 맡았다. 2014~2015년 서울중앙지법에 근무할 때 서울지방변호사회가 선정한 우수 법관에 2년 연속 선정됐다.&lt;br&gt;&lt;br&gt;같은 재판부의 박주영 고법판사는 서울서부지법, 부산지방법원 부장판사 등을 지냈다.&lt;br&gt;&lt;br&gt;형사7부는 올해 2월 10·26 사건으로 1980년 사형이 집행된 김재규 전 중앙정보부장 사건의 재심 개시를 결정했다. 작년 이정근 민주당 전 사무부총장의 선거법 위반 사건 항소심에서 1심보다 감형한 징역 6개월에 집행유예 1년을 선고하기도 했다.&lt;br&gt;&lt;br&gt;최고 법원인 대법원의 판결은 하급심을 구속하는 기속력(羈束力)을 갖고 있어, 형사7부도 이 후보에게 유죄를 선고할 전망이다. 선거법 사건에서 벌금 100만원 이상을 선고받으면 이 후보는 선거 출마 자격을 잃고 공직에서 박탈된다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/G2E6B4ZUTFC73A2JHKGEQAY25A.jpg?auth=54cef1ba0db6d96a2be99d661768a39e736c1f120ac250562774346e6728b4b8&amp;smart=true&amp;width=4610&amp;height=2593" type="image/jpeg" height="2593" width="4610">
-        <media:description type="plain">[서울=뉴시스] 조성우 기자 = 이재명 더불어민주당 대선후보가 1일 오후 서울 종로구의 한 포장마차에서 열린 비전형 노동자 간담회를 마친 뒤 대법원이 공직선거법 위반과 관련한 2심 판결을 파기 환송한데 대한 취재진 질문에 답하고 있다. (공동취재) 2025.05.01. photo@newsis.com</media:description>
-        <media:credit role="author" scheme="urn:ebu"/>
-      </media:content>
-    </item>
-    <item>
-      <title>새마을금고서 1716억원 규모 부당대출 사건 발생…작년 자체 검사서 적발</title>
-      <link>https://www.chosun.com/national/national_general/2025/05/02/45SFN5SPA5EEREDUVTUO6UD6IY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/05/02/45SFN5SPA5EEREDUVTUO6UD6IY/</guid>
-      <dc:creator>김현수 기자, 김영우 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 02 May 2025 10:05:12 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/L74G2MQQ7RJCRL7BLH2VG7CLXM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;새마을금고 점포의 모습. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 성남의 한 새마을금고에서 역대 최대 규모인 1716억원의 부당대출 사건이 발생했다. 차명 법인을 통한 허위 대출로 5년간 거액을 끌어냈다. 대출 과정에선 서류 위조, 담보 과다 평가, 자전 거래 등 전형적인 금융 사기 수법이 동원됐다.&lt;br&gt;&lt;br&gt;2일 경찰에 따르면, 부동산 개발업자 A씨는 가족과 지인 명의로 20여 개 ‘깡통 법인’을 설립하고, 동일인 대출 한도를 회피해 5년에 걸쳐 거액을 대출받은 혐의를 받고 있다. 새마을금고법은 개별 금고의 대출 한도를 자기자본의 20% 또는 총자산의 1%로 제한하고 있지만, A씨는 명의를 쪼개는 방식으로 한도를 훌쩍 뛰어넘었다.&lt;br&gt;&lt;br&gt;대출 과정에서는 허위 계약서 제출, 감정가 조작, 자전 거래 등으로 담보 가치를 부풀린 정황이 확인됐다. 경기남부경찰청은 금고 직원과 법무사 사무장 등 공범들과 함께 A씨를 수사 중이다. A씨는 현재 출국 금지 상태다.&lt;br&gt;&lt;br&gt;새마을금고중앙회는 지난해 초 진행한 자체 검사에서 이 같은 사실을 적발하고 관련자 조사를 진행한 것으로 알려졌다. 중앙회는 금고 임직원 4명이 사건에 연루된 것으로 파악하고, 이들에게 징계를 내린 뒤 형사 고발 조치를 취한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;새마을금고에서는 이전에도 여러 차례 부당대출 사건이 발생했다. 2023년 서울 청구동새마을금고에서 금고 임원과 공모해 담보 평가액을 부풀리고, 차명으로 동일인 한도 규제를 초과해 700억원대 부당대출을 받은 사건이 대표적이다.&lt;br&gt;&lt;br&gt;금융권 관계자는 “새마을금고의 관리·감독 체계를 강화할 필요가 있다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[속보] 서울고법, 이재명 피고인 소환장 발송…집행관 송달 요청</title>
       <link>https://www.chosun.com/national/court_law/2025/05/02/72OTRKXGJZED7FTP7ZP54JPYJQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/05/02/72OTRKXGJZED7FTP7ZP54JPYJQ/</guid>
@@ -900,24 +914,6 @@
       <description/>
       <pubDate>Fri, 02 May 2025 10:03:20 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DMQUWYLJIBLD3N6C26ACWXZ7O4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이재명 더불어민주당 대선 후보가 2일 강원도 인제군 원통 시장에서 취재진의 질문에 답하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>검찰, ‘尹 선거법 혐의 사건’ 시민단체 고발인 조사</title>
-      <link>https://www.chosun.com/national/court_law/2025/05/02/PAPYH7I5QBGHZG645PXARYBAZI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/05/02/PAPYH7I5QBGHZG645PXARYBAZI/</guid>
-      <dc:creator>박강현 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 02 May 2025 09:58:21 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XGXKSBAZ65H73OYFZUU5HIRXGE.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;서울중앙지검. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 전 대통령의 공직선거법 위반 혐의 등 사건을 수사 중인 검찰이 관련 고발인 조사를 했다.&lt;br&gt;&lt;br&gt;서울중앙지검 공공수사2부(부장 조민우)는 2일 윤 전 대통령의 공직선거법·정당법 위반 혐의 사건 등에 대한 고발인 신분으로 안진걸 민생경제연구소장을 소환 조사했다.&lt;br&gt;&lt;br&gt;앞서 민생경제연구소와 ‘검사를검사하는모임’ 등 시민단체는 지난해 1월과 11월 윤 전 대통령 등이 중앙선거관리위원회 신고 없이 불법 선거사무소를 최소 3개 이상 운영하고, 국민의힘 당대표 선거에 개입했으며 김건희 여사의 도이치모터스 주가조작 연루 의혹과 관련한 허위 해명 등을 했다고 주장하며 고발했다.&lt;br&gt;&lt;br&gt;이날 조사에 대해 안 소장의 고발대리인은 “오후 2시 30분부터 5시까지 (조사가) 진행됐고, 검찰도 적극적으로 (윤 전 대통령의) 공직선거법·정당법 위반 혐의에 대해 조사했다”며 “안 소장은 윤 전 대통령 등에 대한 신속한 소환 조사와 강제 수사를 촉구했다”고 밝혔다.&lt;br&gt;&lt;br&gt;그동안 검찰은 이같은 고발장을 접수한 뒤에도 현직 대통령의 불소추 특권 때문에 윤 전 대통령을 수사하지 못하다가 그가 ‘12·3 비상계엄’ 사태로 지난달 4일 헌법재판소에서 탄핵이 인용돼 불소추 특권을 잃자, 관련 수사를 진행할 수 있다고 판단한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;검찰은 이들과 비슷한 취지로 윤 전 대통령 등을 고발한 정치인과 시민단체를 최근 연이어 조사했다.&lt;br&gt;&lt;br&gt;지난달 29일에는 윤 전 대통령이 지난 대선 때 장모의 잔고증명서 위조 의혹을 두고 거짓 해명한 혐의와 관련해 송영길 전 더불어민주당 대표를, 전날(1일)에는 화천대유자산관리 대주주 김만배씨와의 친분에 대해 허위사실을 공표한 혐의에 관해 시민단제 ‘사법정의바로세우기시민행동’ 김한메 대표를 각각 고발인 신분으로 불러 조사했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘잘못’ 18회, ‘오해’ 8회, ‘왜곡’도 2회…이재명 2심 무죄 꾸짖은 대법 </title>
-      <link>https://www.chosun.com/national/court_law/2025/05/02/QULISL7HXNBZDB76KL6JH7UU7I/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/05/02/QULISL7HXNBZDB76KL6JH7UU7I/</guid>
-      <dc:creator>양은경 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 02 May 2025 09:47:06 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TQNJI3SVQZK7YMOFUGSVQDDXXU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;조희대 대법원장을 비롯한 대법관들이 1일 오후 더불어민주당 이재명 대선 후보의 공직선거법 사건 전원합의체 선고를 위해 서울 서초구 대법원 대법정에 입장해 있다. /뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대법원이 지난 1일 이재명 더불어민주당 대선 후보의 공직선거법 위반 사건을 파기환송한 것을 두고 법원 주변에서는 “대법원이 판결 곳곳에서 2심의 잘못을 지적했다” “2심을 깬 경우는 여러 번 있지만 이렇게까지 질타한 경우는 잘 못봤다”는 반응이 나왔다. &lt;br&gt;&lt;br&gt;실제로 ‘잘못’이라는 표현이 87쪽 전체 판결문 중 다수의견 분량인 34쪽에서 18번 등장한다. 주로 2심의 공직선거법 해석이 잘못됐다는 내용이다. &lt;br&gt;&lt;br&gt;예를 들어 이 후보가 고(故)김문기씨와 해외 출장 중 골프를 쳤다는 의혹에 대해 해명하면서 ‘국민의힘이 단체사진 중 일부를 떼어내 네 명이 골프를 친 것처럼 조작했다’는 내용의 ‘골프 발언’ 의 경우, 대법원은 “검찰이 공소장 변경을 통해 김씨를 알았는지 여부가 아닌 ‘골프 동반의 교유행위’로 허위사실 공표를 적시했는데도 2심이 간과해 공소사실 자체를 달리 본 잘못이 있다”고 했다. &lt;br&gt;&lt;br&gt;특정인을 알았는지 여부는 ‘인식’에 대한 것이어서 ‘행위’에 대한 거짓말로 처벌할 수 없다. 반면 특정인과 골프를 치지 않았다는 것은 행위에 대한 내용이다. 대법원의 지적은 2심이 검찰의 공소장 변경을 간과해 해당 발언이 독자적인 의미가 없고, 허위 발언이 아니라고 잘못 판단했다는 것이다. &lt;br&gt;&lt;br&gt;대법원은 ‘백현동 발언’과 관련해서도 2심이 발언의 의미를 잘못 해석했다고 지적했다. “국토부가 용도를 변경하지 않으면 직무유기로 문제삼겠다고 했다는 ‘국토부 협박’ 발언은 용도변경의 대상에 백현동 부지가 배제되는 것이아니라 백현동 부지까지 포함된 설명임에도 2심이 백현동 부지 용도변경과는 관련 없는 발언이라고 잘못 해석했다”는 것이다. &lt;br&gt;&lt;br&gt;‘법리 오해’도 8번 들어간 것으로 나타났다. ‘법리 오해’는 법령의 해석을 잘못하거나 적용을 잘못한 경우로 형사소송법이 정한 상고 이유에 해당한다. &lt;br&gt;&lt;br&gt;대법원은 ‘골프 발언’에 대해 “공직선거법상 허위사실공표죄에서 ‘표현의 해석’에 관한 법리를 오해하는 등의 잘못이 있다”고 했다. &lt;br&gt;&lt;br&gt;특히 백현동 부분에서는 “허위사실공표죄에서의 ‘표현의 해석’에 관한 법리를 오해하는 등의 잘못이 있다” “‘사실과 의견의 구별’에 관한 법리를 오해하는 등의 잘못이 있다” “공표의 객체인 ‘행위’에 관한 법리를 오해하는 등의 잘못이 있다” 고 했다. &lt;br&gt;&lt;br&gt;2심이 요약한 이 후보의 발언 요지, 사실적시가 아닌 의견 표명이라고 본 부분, ‘협박’이 국토부의 행위이지 이 후보 행위가 아니라고 본 부분이 모두 잘못됐다는 것이다.&lt;br&gt;&lt;br&gt;백현동 발언과 관련해서는 ‘왜곡’이라는 표현도 두 번 등장했다. 대법원은 “원심(2심)은 피고인(이 후보)이 구체적으로 언급한 ‘국토부의 혁신도시법 의무조항에 의한 압박’ ‘의무조항에 따르지 않으면 직무유기를 문제삼겠다는 협박’을 도외시한 채 ‘국토부의 법률에 의한 요구’로 발언의 의미를 왜곡해서 해석했다”고 지적했다. &lt;br&gt;&lt;br&gt;즉 백현동 부지의 파격적 용도변경을 두고 특혜 의혹을 받고 있던 이 후보(당시 경기지사)가 2021년 10월 국감에서 직접 해명한 내용은 위와 같이 1)국토부로부터 혁신도시법상 의무조항에 따라 용도변경을 해야 한다는 압박이 있었다 2)의무조항에 따르지 않으면 직무유기를 문제삼겠다는 협박이 있었다는 것으로 정리되는데, 2심은 이와 달리 ‘국토부의 법률에 의한 요구에 따라 용도를 변경했다’고 발언 의미를 왜곡했다는 것이다. &lt;br&gt;&lt;br&gt;2심은 그러면서 해당 발언을 허위라고 단정할 수 없다고 했는데, 대법원은 이런 해석 방법은 자연스럽게 연결된 발언의 의미를 일반 선거인이 통상적으로 이해하는 방식이 아니라고 비판했다.&lt;br&gt;&lt;br&gt; 한 법조인은 “ 대법원이 ‘왜곡’표현까지 쓴 것은 2심 해석이 단순한 실수나 1심과의 견해 차이가 아니라 무죄 판결을 주려는 의도에 기반했다고 본 것 같다”며 “‘잘못’이나 ‘법리오해’와는 차원이 다르다. 2심 재판부가 심각하게 받아들여야 할 부분”이라고 했다. &lt;br&gt;&lt;br&gt;판결문에는 ‘분절’도 7번 등장한다. 이는 2심이 백현동 발언을 다섯 부분으로 나누어 ‘국토부 협박’ 부분을 백현동이 아닌 다른 부지에 관한 것으로 해석한 방식과 관련한 것이다. &lt;br&gt;&lt;br&gt;대법원은 “하나의 답변으로 연결된 발언 내용을 사후적으로 세분화하거나 인위적으로 분절하는 방법으로 재구성해 발언 의미를 해석하는 것은 타당하지 않다”며 “사후에 인위적으로 분절한 다음 각 구간의 개개 발언을 합치거나 재조합해 연결된 발언의 의미를 새기는 것은 ‘하나로 자연스럽게 연결된 발언의 의미’를 일반 선거인이 통상적으로 이해하는 방식이라고 할 수 없다”고 지적했다. &lt;br&gt;&lt;br&gt;한 판사 출신 변호사는 “2심 판결이 발언 취지를 전체적 맥락에서 봐야 한다는 상식에서 벗어나 있음을 대법원이 여러 각도로 지적한 것”이라고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>한덕수 5·18민주묘지 참배, ‘내란 주범 물러가라’ 시위대에 가로막혀</title>
