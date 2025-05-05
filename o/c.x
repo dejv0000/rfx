@@ -13,6 +13,46 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>대법 “변호사 선임비는 착수금에 성공보수까지 포함한 개념”</title>
+      <link>https://www.chosun.com/national/court_law/2025/05/05/WQZKQ4IX7VGAHKBBKGQWCLSGQM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/05/05/WQZKQ4IX7VGAHKBBKGQWCLSGQM/</guid>
+      <dc:creator>김희래 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 05 May 2025 02:54:39 +0000</pubDate>
+      <content:encoded>변호사 선임의 대가로 지급하는 ‘선임비’에는 소송을 맡길 때 지급하는 착수금에 승소 후 성공보수까지 포함된다는 대법원 판단이 나왔다.&lt;br&gt;&lt;br&gt;대법원 2부(주심 오경미 대법관)는 시아버지 A씨가 며느리 B씨를 상대로 낸 약정금 청구 소송의 상고심에서 원고 일부승소 판결한 원심을 파기하고 사건을 서울고법으로 돌려보냈다고 5일 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HWXDKNQV2GZ7SJ5CUI2FEDBEPU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대법원 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;B씨는 2019년 11월 남편이 사망하자, 이듬해 2월 사망보험금 및 보상금 분배와 관련해 A씨와 각서를 작성했다. 각서에는 ‘추후 모든 사건이 종결된 후 남은 금액에 대해 합의한다. B씨의 채무변제, 소송비용, 선임비에 사용된 금액을 제외한 50%를 지급한다’는 내용이 담겼다.&lt;br&gt;&lt;br&gt;이후 B씨는 남편을 숨지게 한 가해 차량 보험사를 상대로 손해배상 청구소송을 냈다. 이 과정에서 변호사에게 착수금 220만원을 주고, 승소할 경우 확정 인용금액의 20%를 성공보수(사례금)로 추가 지급하기로 약정했다.&lt;br&gt;&lt;br&gt;B씨는 2022년 최종 승소했고, 남편 사망보험금(2억원)에 더해 손해배상금·위자료·지연손해금 등 합계 9억4680만원을 받았다.&lt;br&gt;&lt;br&gt;이에 A씨는 B씨를 상대로 각서에 적힌 대로 돈을 달라며 민사소송을 냈는데, 공제 대상인 변호사 ‘선임비’에 20％ 가량의 변호사 성공보수도 포함되는 것인지 여부가 쟁점이 됐다.&lt;br&gt;&lt;br&gt;원심은 선임비에는 착수금만 포함되며 성공보수는 포함되지 않는다고 판단했다. 이 경우 B씨는 돈을 먼저 나눈 뒤 자기 몫에서 성공보수를 떼어줘야 해서 최종 수령 금액이 A씨보다 적어진다.&lt;br&gt;&lt;br&gt;그러나 대법원 판단은 달랐다. 대법원은 “통상 선임비는 착수금과 성공보수를 함께 일컫는 것이고 착수금만 의미하는 것으로 제한해 해석하기 어렵다”며 “각서에서 공제되는 금원으로 소송비용과 선임비를 함께 언급하고 있다는 점에 비춰 보더라도 관련 소송에서 부담하게 된 변호사 비용을 모두 공제하기로 했다고 해석하는 타당하다”고 판단했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>충주 여인숙 화재… 80대 노모·60대 아들 숨져</title>
+      <link>https://www.chosun.com/national/regional/chungcheong/2025/05/05/RG4CLL6DA5CO3KSQ6SC4T2IPUI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2025/05/05/RG4CLL6DA5CO3KSQ6SC4T2IPUI/</guid>
+      <dc:creator>김석모 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 05 May 2025 02:35:21 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PZEQLO3EFFAOTFKUG2KZ3VXA2Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 4일 오후 11시 45분쯤 충주시 충인동의 3층짜리 여인숙 1층에서 불이 났다. /충주소방서&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;충북 충주의 한 여인숙에서 불이 나 80대 노인과 그의 60대 아들이 숨졌다.&lt;br&gt;&lt;br&gt;5일 본지 취재를 종합하면, 지난 4일 오후 11시 45분쯤 충주시 충인동의 3층짜리 여인숙 1층에서 불이 났다.&lt;br&gt;&lt;br&gt;소방 당국은 “문 앞에서 연기가 난다”는 주민의 신고를 받고 출동해 진화 작업을 벌여 오후 11시 53분쯤 불을 껐다.&lt;br&gt;&lt;br&gt;소방 당국이 진화 과정에서 80대 여성 A씨와 그의 60대 아들 B씨가 화장실과 주방에 각각 숨져 있는 것을 발견했다.&lt;br&gt;&lt;br&gt;이들은 월세를 내며 이곳에서 함께 거주하던 것으로 알려졌다.&lt;br&gt;&lt;br&gt;이날 불은 1층 내부 25㎡와 집기 등을 태워 833만원의 재산 피해(소방서 추산)가 발생했다.&lt;br&gt;&lt;br&gt;경찰과 소방 당국은 A씨가 거주하던 집 내부 세탁기에서 불이 시작된 것으로 보고 정확한 화재 원인을 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>어린이날 완도 리조트서 집단 가스중독 사고...14명 경상</title>
+      <link>https://www.chosun.com/national/national_general/2025/05/05/ELOHWQXZJBAY7K7KA35NRHIBM4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/05/05/ELOHWQXZJBAY7K7KA35NRHIBM4/</guid>
+      <dc:creator>완도=진창일 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 05 May 2025 02:14:23 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G5IAGVHIIFJE5ATUYPK6LRX6QM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;5일 오전 전남 완도군 완도읍 한 리조트에서 숙박객 14명이 두통과 어지럼증 등 가스중독 증상을 보여 119구급대가 환자 이송을 준비하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;어린이날 전남 완도군의 한 리조트에서 일산화탄소가 원인으로 추정되는 집단 가스 중독 사고가 나 14명이 병원으로 옮겨졌다.&lt;br&gt;&lt;br&gt;5일 전남 완도경찰서 등에 따르면 이날 오전 6시 56분쯤 완도군 완도읍 한 리조트에서 성인 9명, 어린이 5명 등 14명이 두통과 어지럼증 등 가스 중독 증상을 보여 병원으로 이송됐다. 가스 중독 증세를 보인 투숙객들은 모두 생명에는 지장이 없는 것으로 확인됐다.&lt;br&gt;&lt;br&gt;환자 14명은 지하 2층부터 지상 7층 리조트 건물 중 4층 11명(4개 객실), 3층 2명(1개 객실), 6층 1명(1개 객실) 등에서 발생한 것으로 파악됐다. 경찰과 소방당국은 해당 객실 점검 과정에서 일산화탄소 수치 감지를 확인했다. 다만 정확한 가스 유출 농도는 파악하지 못했다.&lt;br&gt;&lt;br&gt; 경찰은 이날 국립과학수사연구원의 현장 조사를 통해 객실 내부 일산화탄소 농도와 유출 원인 등을 조사할 계획이다.&lt;br&gt;&lt;br&gt;사고 당시 리조트에는 총 69명이 21개 객실에서 투숙 중이었다. 투숙객 전원은 모두 건물 바깥으로 대피했고, 건물 전체에 대한 출입 통제가 이뤄지고 있다. &lt;br&gt;&lt;br&gt;경찰과 소방 당국은 가스안전공사 등 관계기관과 정확한 사고 경위를 조사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/G5IAGVHIIFJE5ATUYPK6LRX6QM.jpg?auth=b39a3f3e1bc1d5fe65083acd72f2da21339447e8bcf9e999d9537cfcb2ebd7d2&amp;smart=true&amp;width=6000&amp;height=4000" type="image/jpeg" height="4000" width="6000">
+        <media:description type="plain">5일 오전 전남 완도군 완도읍 한 리조트에서 숙박객 14명이 두통과 어지럼증 등 가스중독 증상을 보여 119구급대가 환자 이송을 준비하고 있다. /연합뉴스</media:description>
+        <media:credit role="author" scheme="urn:ebu">광주전남취재본부</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>공수 훈련받고 전역 뒤 연골 파열 수술.. 法 “보훈보상 대상 아니다”</title>
+      <link>https://www.chosun.com/national/court_law/2025/05/05/YQSPFWCZFVAYPL7CYITONO5L6A/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/05/05/YQSPFWCZFVAYPL7CYITONO5L6A/</guid>
+      <dc:creator>인천=이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 05 May 2025 02:00:16 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WOIPX7HDNFCOHOGTNKRO6EMBJA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원 로고. /조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;군 복무 중 공수 훈련을 받은 30대 남성이 전역 후 무릎 연골 파열과 관련한 수술을 받은 뒤 보훈보상대상자로 등록해 달라며 낸 행정소송에서 패소했다. &lt;br&gt;&lt;br&gt;인천지법 행정2단독 장우영 판사는 보훈보상대상자 등록을 요구하며 A(32)씨가 인천보훈지청장을 상대로 낸 행정소송에서 원고 패소 판결했다고 5일 밝혔다. &lt;br&gt;&lt;br&gt;A씨는 2013년 6월 모 공수여단 입대 9개월여 만인 2014년 3~4월 특수전교육단에서 공수기본교육을 받은 뒤, 같은 해 7월 좌측 무릎 통증으로 의무중대에서 ‘핫파스’ 처방을 받았다. 며칠 뒤엔 X-Ray(엑스레이) 촬영을 하고 ‘왼쪽 슬관절(무릎관절) 가동범위 운동 제한‘ 소견을 받았다. &lt;br&gt;&lt;br&gt;2015년 3월 전역한 A씨는 같은 해 10월 MRI(자기공명영상장치) 검사를 통해 왼쪽 무릎의 ’반월상 연골‘이 파열됐다는 진단을 받았다. 반월상 연골은 무릎에 가해지는 충격을 흡수하고 관절 마모를 막는 역할을 한다. &lt;br&gt;&lt;br&gt;반월상 연골 일부를 절제하는 수술을 받은 A씨는 지난해 3월 인천보훈지청에 보훈보상대상자로 등록해 줄 것을 신청했다. 보훈보상대상자 등록 대상은 국가 수호‧안전 보장 또는 국민의 생명‧재산 보호와 직접적인 관련이 없는 직무를 수행하거나 교육훈련 중 다쳐 전역하거나 퇴직한 군인‧공무원이다. &lt;br&gt;&lt;br&gt;보훈심사위원회는 A씨의 신청을 받아들이지 않았다. 보훈심사위는 “A씨가 다쳤다고 주장하는 시점에 진단‧진료기록이 없고, 군 복무 중 다쳤다고 인정할 만한 증거가 없다”며 이같이 결정했다. &lt;br&gt;&lt;br&gt;A씨는 이에 불복해 행정소송을 제기하고 “공수 훈련을 받기 전까지 무릎에 별다른 이상이 없었고, 훈련 과정에서 무릎에 외부 충격이 반복적으로 가해져 좌측 무릎이 붓고 통증이 발생했으나 열외가 허용되지 않는 훈련 분위기로 통증을 참으며 훈련을 완수할 수밖에 없었다”고 주장했다. &lt;br&gt;&lt;br&gt;법원은 그러나 A씨가 제출한 증거만으로는 군 복무 당시 직무 수행이나 교육 훈련으로 인해 연골이 파열됐다고 보기 어렵다고 판단했다. &lt;br&gt;&lt;br&gt;장 판사는 “A씨가 군 복무 중 좌측 무릎과 관련해 진료를 받은 건 2014년 7월 두 차례 소속 여단 의무중대를 방문한 것 외에는 없고, 당시 진료 내역을 보더라도 당시 A씨가 연골 파열이 발생한 상태였다는 점이 명확하게 드러나지 않는다”고 했다. 이어 “A씨는 군 복무 중 다양한 질환을 이유로 군 내부 의료 시설과 민간 병원을 수시로 이용하기도 했고, 2014년 11월 의무중대 신경외과 진료기록을 보면 당시 A씨는 좌측 슬관절과 관련해 스쿼트 등 운동을 하는 데 무리가 없었던 것으로 보인다”고 했다. &lt;br&gt;&lt;br&gt;장 판사는 “A씨가 굳이 무릎 통증과 관련해 추가 진료를 받지 않고 참으면서 군 생활을 했다고 보기는 어렵다”며 “전역한 뒤 7개월간 무릎에 다른 외력이 가해졌을 가능성도 있다”고 판단했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>‘임신’ 서민재 남친 측 “회피한 적 없다…감금·폭행 당해”</title>
       <link>https://www.chosun.com/national/people/2025/05/05/GD3A2USQ5NG77EX2USNZ4J42YI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/people/2025/05/05/GD3A2USQ5NG77EX2USNZ4J42YI/</guid>
@@ -889,15 +929,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IQ5F2QFL4ZL2VGUIE5KTQRP7RA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2일 오후 광주 북구 국립5·18민주묘지를 찾은 한덕수 전 대통령 권한대행 국무총리가 광주 지역 시민단체 관계자들에게 가로막혀 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한덕수 전 대통령 권한대행 국무총리가 2일 오후 광주 국립5·18민주묘지를 참배하려 했으나, 시위대에 가로막혀 묘역에 입장하지 못했다.&lt;br&gt;&lt;br&gt;‘내란 청산·사회 대개혁 광주 비상 행동’ ‘오월정신 지키기 범시도민대책위원회’ ‘광주전남촛불행동’ ‘오월을 사랑하는 사람들’ 등 광주 지역 시민 단체 관계자와 더불어민주당 광주시당 관계자 등 100여 명은 한 전 총리 도착 수 시간 전부터 5·18묘지 정문인 ‘민주의문’ 전체를 막고 기자회견 명목의 집회를 진행했다. 이들은 ‘매국노 내란 대행 한덕수를 감옥으로’ ‘내란 주범 한덕수는 광주를 떠나라’ ‘내란 동조 국민의힘 해체하라’ ‘오월영령 능욕하는 내란 주범 한덕수는 물러가라’ 등의 팻말을 들었다. 이들은 대법원이 전날 이재명 민주당 대선 후보의 선거법 위반 사건 상고심에서 2심 판결을 파기하고 사건을 유죄 취지로 서울고법에 돌려보낸 것에 대해, “조희대 대법원장을 탄핵해야 한다”고 발언하기도 했다.&lt;br&gt;&lt;br&gt;한 전 총리가 오후 5시 40분쯤 묘역 앞에 도착하자 시위대가 ‘내란범은 물러나라’ 등의 구호를 외치며 한 전 총리 앞을 막아섰다. 일부 시위대는 종이를 뭉쳐 한 전 총리에게 던져 한 전 총리 몸에 맞히기도 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/J6KJZYP4HJPFXO4LE34LMHBFRI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한덕수 전 대통령 권한대행 국무총리가 2일 오후 광주 북구 국립5·18민주묘지를 참배하려다 시위대에 가로막히자 시위대를 향해 소리치고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한 전 총리는 “여러분, 저도 호남 사람입니다. 서로 사랑해야 합니다. 미워하면 안 됩니다. 함께해야 합니다”라고 외쳤다. 정문 앞에 10분가량 서 있던 한 전 총리가 100m가량 물러났으나, 시위대가 앞으로 몰려나오며 한 전 총리를 에워싸고 ‘한덕수를 감옥으로’ 구호를 외쳤다. 일부 시위대는 “당장 꺼져”라고 욕설을 하기도 했다.&lt;br&gt;&lt;br&gt;반면 지지자들은 한 전 총리 뒤에 서서 ‘한덕수’를 연호했다. 한 전 총리는 지지자들과 악수를 나누고 오후 6시쯤 묘역을 떠났다.&lt;br&gt;&lt;br&gt;한 전 총리는 앞서 국립5·18민주묘지를 참배하러 가는 이유에 대해 “광주는 5·18민주항쟁이라는, 우리 모두가 가슴 아픈 경험을 갖고 있는 지역”이라며 “출마 선언 첫날에 5·18민주묘지에 가야겠다고 마음먹고 준비해 왔다”고 했다. 이어 “5·18이 전체 국민의 통합에 의미하는 바가 크다고 생각한다”며 “광주에서 희생된 분들이 많다. ‘이런 일이 다시는 있어서는 안 되겠다’는 의지와 희생자들이 가진 마음의 응어리를 제일 먼저 배려하는 자세가 필요하다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>“국민감사 취소해달라”…MBC·방문진, 감사원 상대 소송 2심 패소</title>
-      <link>https://www.chosun.com/national/court_law/2025/05/02/5XGYSO6FFZHTLC5JFW2N7V6EII/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/05/02/5XGYSO6FFZHTLC5JFW2N7V6EII/</guid>
-      <dc:creator>박강현 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 02 May 2025 09:19:35 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/H2BHEL6GYNOHPA77F75KKO255Q.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;서울고등법원. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;MBC와 대주주인 방송문화진흥회(이하 방문진)가 감사원의 국민감사 결정을 취소해달라고 행정소송을 냈지만 2심에서 패소했다. 앞서 1심에선 각하(却下)됐다.&lt;br&gt;&lt;br&gt;2일 서울고법 행정10-1부(재판장 오현규)는 MBC와 방문진이 감사원을 상대로 낸 국민감사실시 결정 처분 취소 청구 소송에서 원고 측 항소를 기각하고 원고 패소로 판결했다. &lt;br&gt;&lt;br&gt;재판부는 1심과 달리 이 사건이 본안 심리 대상은 맞는다고 봤지만, 감사원의 국민감사 실시 결정이 위법하지 않다고 보고 MBC와 방문진의 취소 청구를 받아들이지 않았다.&lt;br&gt;&lt;br&gt;지난 2023년 9월 1심은 이 소송을 각하했다. 각하는 소송요건을 갖추지 못한 사건에 대해 법원이 심리를 하지 않고 종결하는 것이다.&lt;br&gt;&lt;br&gt;당시 1심은 “국민감사 결정 자체가 항고 소송 대상이 되는 행정처분인지에 관해 전례가 없는 상황”이라며 “법리와 사실관계를 검토한 결과 이 사건은 행정청 내부 행위나 중간처분에 불과해 항고소송의 대상이 되지 않는다”고 했다.&lt;br&gt;&lt;br&gt;이 사건은 보수 성향 시민단체들과 MBC·KBS 소수 노조 연합체인 ‘공정언론국민연대’ 등이 지난 2022년 11월 “방문진이 최승호·박성제 사장 시절 MBC의 국내외 각종 사업에 거액을 투자했다가 큰 손실을 본 방만 경영 내용 등을 보고받고도 별다른 관리·감독 행위를 하지 않고 방치했다”며 감사원에 국민감사를 청구하며 시작됐다. &lt;br&gt;&lt;br&gt;이후 감사원은 2023년 3월 감사 착수를 결정했다. 감사원법상 MBC는 감사 대상이 아니지만, MBC를 소유하고 있는 방문진은 정부 출연기관이므로 감사 대상이 될 수 있다.&lt;br&gt;&lt;br&gt;이에 MBC와 방문진은 “국민감사를 빌미로 MBC에 대한 표적 감사에 나선 것”이라며 지난 2023년 5월 국민감사 취소 소송을 냈다. 당시 MBC는 감사실시 결정의 효력을 멈춰달라는 집행정지 신청도 했는데, 이는 그 다음 달 법원에서 기각됐다.&lt;br&gt;&lt;br&gt;한편 감사원은 지난해 9월 MBC가 최·박 사장 시절 이사회 의결도 없이 미국 리조트 개발 사업에 105억원을 투자해 전액 손실을 보는 등 방만 경영을 했다는 감사 결과를 발표했다. 그러면서 방문진이 MBC의 투자 손실 등 경영상 문제를 제대로 관리·감독하지 않았다며 ‘기관 주의’를 요구했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>서울대 교수·강사들 “강사법 후 행정만 복잡해진 모순… 처우 개선 모범 보여야"</title>
       <link>https://www.chosun.com/national/national_general/2025/05/02/6DT5HFL6BRBAVHWCDLEFDLR3KI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/05/02/6DT5HFL6BRBAVHWCDLEFDLR3KI/</guid>
@@ -905,24 +936,6 @@
       <description/>
       <pubDate>Fri, 02 May 2025 09:18:51 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FDFGSPLMZHFC5SNF2HDF3OWN6A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 관악구 서울대학교 정문의 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울대 교수들과 시간 강사들이 2일 서울대 관악캠퍼스에서 열린 토론회에서 “2019년부터 강사법이 시행되었지만 실제로는 강사의 임용과 고용 안정에 오히려 장애요인으로 작용하고 있다”며 “강사를 처우 개선의 수혜자가 아닌 동료 구성원으로 바라보는 근본적 인식 개선이 필요하다”고 말했다. 이번 토론회는 서울대 교수회가 강사법 시행 6주년을 맞아 작성한 ‘서울대학교 강사 처우 개선을 위한 기초 연구’ 보고서를 기반으로 진행됐다. &lt;br&gt;&lt;br&gt;서울대 교수회와 교수조합은 이날 오후 서울 관악구 서울대 관정도서관 양두석홀에서 ‘서울대학교에서 강사는 어떤 존재인가?: 강사법 시행 6년의 평가’라는 제목의 토론회를 개최했다. 노민수 서울대 교수회 이사가 사회를 맡았고, 임정묵 교수회장의 개회사, 이준정 교육부총장의 격려사, 안지현 인문대학장의 축사 이후 발표와 종합 토론이 이어졌다. &lt;br&gt;&lt;br&gt;이날 발표는 세 개 파트로 나뉘어 진행됐다. 강지영 서울대 음대 음악학과 강사와 조희원 서울대 인문대 미학과 강사, 김경은 인문대 국어국문학과 강사가 각각 ‘서울대 강사의 신분과 지위:임용과 고용 보장에 있어 강사법의 맹점’, ‘서울대 강사의 임금: 현황과 문제 제기’, ‘서울대 강사의 강의 및 연구 환경의 문제점’을 주제로 발표했다.&lt;br&gt;&lt;br&gt;강지영 강사는 2019년 강사법의 ‘3년 재임용 보장’이 맹점이 있으며 도리어 강사의 임용과 고용 안정에 장애 요인이 되고 있다고 주장했다. 그는 “강사법 시행으로 3년까지 고용을 보장한다는 것은 이전과 비교하면 안정적”이라면서도 “재임용 시기가 되면 100장에 육박하는 PPT 교육자료를 요구하거나 교육성과를 제출하게 하는 경우도 있어 부담이 과하다”고 했다. 그는 “매학기마다 교육성과를 수치로 증빙하는 건 어려운 일”이라고도 했다. &lt;br&gt;&lt;br&gt;강 강사는 “강사들의 구심점, 소통 창구의 역할을 해줄 강사 노동조합이 서울대엔 없다”며 “부산대 등 일부 국립대처럼 서울대에도 강사 노조를 만들 필요가 있다”고 했다. &lt;br&gt;&lt;br&gt;또 “음대 등 일대일 도제식 교육이 필요한 학과에 강사 수가 많다는 것은 그만큼 강사가 주요 역할을 담당하고 있다는 것을 방증하는 것”이라며 “서울대가 강사 임용제도를 개선해 선도적 모범을 보여야 한다”고 했다. &lt;br&gt;&lt;br&gt;두 번째 발표자로 나선 조희원 강사는 강사가 교원인 동시에 노동자라는 점을 강조했다. 그는 “서울대 강사료가 2011년 법인화 이후에도 여전히 전국 최고 수준인 줄 알았는데 실제 연구를 해보니 전혀 그렇지 않아 충격적이었다”며 “국내 최고는 아니더라도 최소 지방국립대 정도로는 (임금 수준을) 맞춰야 하지 않을까 싶다”고 했다. 실제로 2024년 서울대 강사의 시간당 강의료는 9만원으로 부산대(10만4000원), 경북대(10만2800원) 등보다 1만원 이상 낮았고, 기타 지방 국립대도 9만원 후반대 수준으로 서울대보다 높았다. &lt;br&gt;&lt;br&gt;조 강사는 “강사들은 양질의 교육을 위해 연구도 병행하는데 강사 연구에 대한 지원은 미비한 상태”라며 “현재 강사 임금 체계의 여러 문제점을 해소하기 위해선 교육과 연구에 따른 임금을 기본급으로 포함하는 방식으로의 전환이 필요하다”고 했다. &lt;br&gt;&lt;br&gt;마지막으로 김경은 인문대 국어국문학과 강사는 “서울대에 소속된 강사가 ‘교수자’와 ‘연구자’라는 이중의 역할을 제대로 수행하기 위해서는 강사들이 수업 준비를 위해 사용할 공간(강사 연구실)의 확장, 강사들의 연구를 위한 지원 확대 그리고 학내 복지 혜택의 사각지대에 놓인 강사에 대한 제도적 고려 등이 필요하다”고 했다. &lt;br&gt;&lt;br&gt;김 강사는 “3시간짜리 수업 중간에 쉴 곳이 없어 계단에 앉아있던 적도 많았다”며 “최근 대형강의동에 마련된 강의 준비실이 강사들에게 ‘심리적 지원군’이 되고 있으나, 여전히 강의 준비실 확대·정비 등 개선이 필요한 부분이 있다”고 했다. &lt;br&gt;&lt;br&gt;연구 책임자인 임호준 서울대 교수노조위원장은 “강사법 시행 이후 강사 처우 개선은 이뤄지지 않은 반면 3년마다 재임용 등으로 인한 행정 절차는 도리어 복잡해진 모순적 상황”이라며 “서울대 강사의 대부분은 학부 또는 대학원에서 서울대가 배출한 연구인력인만큼 이들에 대한 홀대와 무관심은 서울대 학문 후속세대 양성 시스템에 대한 자기부정”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘장애인 학대’ 울산 보호시설 전직 생활지도원 4명 구속 기소</title>
-      <link>https://www.chosun.com/national/regional/2025/05/02/2RFSA6IRZFBWXMODA7QBI7HVJA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/05/02/2RFSA6IRZFBWXMODA7QBI7HVJA/</guid>
-      <dc:creator>울산=김주영 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 02 May 2025 08:47:57 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GMGAY5TLOLOYEIKHLYSOBIOM3Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;울산 북구 장애인 거주시설 상습학대사건 공동대책위원회가 지난달 15일 울산시청 남문 앞에서 집회를 열고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;울산 장애인 보호시설에 거주하는 중증 지적장애인들을 학대한 혐의를 받는 전직 생활지도원들이 구속 상태로 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;울산지검 형사2부(부장 김일권)는 울산 북구 한 장애인 복지시설에서 일하던 전직 생활지도원 4명을 장애인복지법 위반 혐의로 구속 기소했다고 2일 밝혔다.&lt;br&gt;&lt;br&gt;이들은 지난해 10∼11월 이 시설에서 근무하며 수면과 생활 지도 등을 이유로 거주 장애인 19명의 머리와 몸을 때리고 발로 차는 등 학대한 혐의를 받는다.&lt;br&gt;&lt;br&gt;검찰은 관련 기관과 협의해 피해자들에게 심리 치료와 경제적 지원을 제공하고, 범행 재발을 방지하기 위해 대응 매뉴얼 수립과 종사자 교육 등의 조치를 하도록 했다.&lt;br&gt;&lt;br&gt;검찰 관계자는 “피고인들의 죄에 걸맞은 형이 선고되도록 공소 유지에 노력할 것”이라며 “앞으로도 장애인 등 사회적 약자를 대상으로 한 범죄에 엄정 대응하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘비상계엄’ 조사 검사 사직에...법무장관 “관여한 사람 없어”</title>
-      <link>https://www.chosun.com/national/court_law/2025/05/02/RNUPSFC3BJAOJGVRSNNOFY6HSM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/05/02/RNUPSFC3BJAOJGVRSNNOFY6HSM/</guid>
-      <dc:creator>유희곤 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 02 May 2025 08:40:19 +0000</pubDate>
-      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XTNRHJMQTNPN7LDHGZZ6ZXZAYY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;박성재 법무부 장관(사진 가운데)이 2일 서울 여의도 국회에서 열린 법제사법위원회 전체회의에 참석하고 있다. 왼쪽부터 김정원 헌법재판소 사무처장, 박성재 법무부 장관, 천 법원행정처장. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;박성재 법무부 장관이 ’12·3 비상계엄 사태’와 관련해 박 장관을 조사한 검사가 최근 사의를 표명한 것은 자신과 무관하다고 2일 밝혔다.&lt;br&gt;&lt;br&gt;박 장관은 이날 국회 법제사법위원회 긴급현안질의에 나와 ‘대전지검 남재현 검사(46·변호사시험 1회)가 지난달 29일 사의를 표명했는데 혹시 외압을 행사했냐, 주변 경로로 사퇴하라고 했냐’는 더불어민주당 장경태 의원의 질의에 “어떤 경로를 말씀하시는지 모르겠는데 (남 검사의) 사의에 다른 사람이라도 누가 관여했으면 말씀해달라”고 답했다. 남 검사가 본인 의사에 따라 검찰을 떠나기로 한 것이라는 뜻이다. &lt;br&gt;&lt;br&gt;남 검사는 12·3 비상계엄 사태를 수사한 검찰 특별수사본부(본부장 박세현 서울고검장)에서 파견 근무하며 박 장관을 피고발인 신분으로 불러 조사했다. 2022년 2월부터 서울중앙지검 소속이었다가 지난 2월 대전지검으로 전보됐고 특수본 파견도 마쳤다. 지난달 29일 검찰 내부망(이프로스)에 사직 인사를 올렸다.&lt;br&gt;&lt;br&gt;특수본 관계자는 “본인이 뜻한 바가 있어서 사직한 것으로 안다”면서 “남 검사가 이제 와서 장관 때문에 사의를 표명한다는 것은 맞지 않는 얘기”라고 했다. 올렸다.&lt;br&gt;&lt;br&gt;남 변호사는 2012년 변호사시험에 합격한 후 김앤장에서 근무하다 2014년 검사에 임용됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>어린이날 밤부터 전국에 비...6일까지 이어져</title>
@@ -950,15 +963,6 @@
       <description/>
       <pubDate>Fri, 02 May 2025 06:51:02 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2E6PXBI7CHCMHP4ZBORRZYDLZ4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 관악구 서울대학교 정문의 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울대 관악캠퍼스에서 시진핑 자료실 폐쇄를 요구한 40대 남성이 삼단봉으로 난동을 부리다 2일 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;서울 관악경찰서는 이날 오후 12시 15분쯤 서울 관악구 서울대 관악캠퍼스 중앙도서관에서 40대 남성 A씨를 특수협박 등 혐의로 현행범 체포했다고 밝혔다. &lt;br&gt;&lt;br&gt;경찰에 따르면 A씨는 “시진핑 자료실이 왜 여기 있느냐”며 삼단봉을 휘두른 혐의를 받는다. &lt;br&gt;&lt;br&gt;경찰 관계자는 “A씨가 서울대 출신인지 등 관계는 확인되지 않았다”며 “구체적인 범행 경위를 조사 중”이라고 밝혔다. &lt;br&gt;&lt;br&gt;앞서 서울대 중앙도서관은 지난 2015년 시진핑 중국 주석의 방문을 기념해 방명록과 기증도서 전시를 위한 자료실을 열었다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>李 파기환송에 민주당 “사법쿠데타” “제2의 인혁당 사건”…대법원 측 “최고법원 결정 존중돼야” </title>
-      <link>https://www.chosun.com/national/court_law/2025/05/02/XNQB3IDNCNCOJGSG7ECP3Q5O4A/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/05/02/XNQB3IDNCNCOJGSG7ECP3Q5O4A/</guid>
-      <dc:creator>유희곤 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 02 May 2025 04:55:43 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7OHMSKPHJBKZFPPOGV2XLNUEBU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;배형원 법원행정처 차장이 2일 오전 서울 여의도 국회에서 열린 법제사법위원회 전체회의에서 의원 질의에 답변하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대법원 전원 합의체가 전날 이재명 더불어민주당 대선 후보의 공직선거법 위반 사건 상고심에서 무죄를 선고했던 2심을 파기하고 유죄 취지로 사건을 서울고법으로 돌려보낸 것과 관련해 민주당 의원들은 2일 “사법 쿠데타” “제2의 인혁당 사건”이라고 비판했다. 이에 대해 대법원 측은 “최고 법원의 결정은 제도적으로 존중돼야 한다”고 반박했고, 국민의힘도 “지극히 상식적인 판단”이라고 했다.&lt;br&gt;&lt;br&gt;이날 국회 법제사법위원회는 전날 대법원 선고와 관련해 긴급현안질의를 열었다. 고검장 출신으로 과거 이 후보 변호인을 맡았던 박균택 민주당 의원은 “이승만 전 대통령이 정적 조봉암 선생에 대해 사형 판결을 해 사법 살인을 저지른 후 벌어진 최대의 대선 개입 사건”이라면서 “대법원에 의한 사법 쿠데타”라고 주장했다.&lt;br&gt;&lt;br&gt;같은 당 이성윤 의원도 “법원이 작심하고 선거에 개입한 것”이라며 “제2의 인혁당 사건보다 더 심각한 것”이라고 했다. “인혁당 사건은 유신 독재권력에 굴복한 것이지만 이것은 법원이 자원에서 한 것”이라며 “법원이 어떤 꼼수를 부렸는지 국민들은 다 안다”고 주장했다.&lt;br&gt;&lt;br&gt;같은 당 박희승 의원도 “사건 기록이 6만~7만쪽이 넘는 걸로 아는데 대법관님들이 기록을 다 읽어 보셨냐”면서 “이 후보는 유력한 대선 주자이고 국민의 선택을 앞두고 있는데, 이런 상황에서 서둘러 재판을 진행한 것이 타당한지 의문”이라고 했다.&lt;br&gt;&lt;br&gt;이에 대해 배형원 법원행정처 차장은 “판결에 대한 평가는 다양할 수 있지만 최고법원의 결정에 대해서는 제도적으로 존중돼야 한다고 생각한다”고 했다. ‘피고인이 정치인이면 대법관들이 지위나 이념 성향에 따라 사건을 판단하냐’는 조배숙 국민의힘 의원의 질의에는 “그렇지 않다”고 답했다.&lt;br&gt;&lt;br&gt;조 의원은 “민주당이 사법부 판단의 정당성을 부정하고, (이 후보를) 정치적 희생양으로 포장하려는 시도에 깊은 우려를 표명한다”며 “이 후보는 지금이라도 국민 앞에 책임 있는 자세를 취하고 후보직에서 자진 사퇴해야 한다”고 했다. &lt;br&gt;&lt;br&gt;같은 당 주진우 의원은 “국회가 (전날 대법원 선고 후) 곧바로 현안질의를 통해 판결의 구체적인 내용을 이야기하고 법원을 압박하는 건 입법부가 사법부를 침탈하는 모습”이라고 비판했다.&lt;br&gt;&lt;br&gt;장동혁 국민의힘 의원은 “법원이 이 후보 재판 지연에 제대로 대응하지 못하고 엄정한 조치를 하지 않았기 때문에 1심이 2년 이상 늘어졌던 것”이라며 “지극히 상식적인 판단을 두고 긴 시간이 걸려 최종적인 결론을 내리지 못한 것에 대해 안타깝게 생각한다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
