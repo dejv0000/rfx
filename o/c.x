@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>長男 앞세우고 홀로 손주 키워…90대 할머니가 받은 보청기 선물</title>
+      <link>https://www.chosun.com/national/national_general/2025/05/06/HGHJKAOD4VBYPNKBGWW3LGQKD4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/05/06/HGHJKAOD4VBYPNKBGWW3LGQKD4/</guid>
+      <dc:creator>강지은 기자, 김도연 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 06 May 2025 08:29:12 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/E57YYYNK65HXXMQMKS7NP3F7H4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 23일 이순례씨가 서울성모병원 이비인후과에 방문해 진료를 받고 있다./강지은 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난달 23일 오후 3시 30분쯤 서울성모병원 이비인후과 진료실. 의사가 “할머니, 보청기 껴보니까 어때요?”라고 묻자 이순례(92)씨는 “좋아요”라며 웃었다. 감각신경성 난청을 앓고 있는 이씨는 지난 3월 병원의 지원으로 평생 처음 양쪽 귀에 보청기를 꼈다. 손주 인제훈(42)씨는 “할머니 방에 들어갈 때면 TV 볼륨이 끝까지 올라가 있어 귀가 아팠는데 이젠 드라마를 보며 두런두런 얘기를 나눌 수 있게 돼 행복하다”고 했다.&lt;br&gt;&lt;br&gt;지난해 난청 진단을 받고도 이씨는 보청기를 살 수 없었다. 강직성 척추염을 앓는 손주 인씨와 함께 기초수급으로 생계를 유지하는 이씨에게 400만원은 큰돈이었다. 청각 장애가 아니란 이유로 각종 단체의 지원도 받을 수 없었다.&lt;br&gt;&lt;br&gt;이씨는 평생 고된 삶을 살았다. 1985년 장남을 교통사고로 앞세우고 다섯 살, 두 살 손주들을 홀로 키웠다. 새벽 첫차를 타고 근교 밭으로 출근해 대파를 한 단씩 총 1000단을 끈으로 묶고 늦은 저녁 집에 돌아왔다. 하루 12시간 넘게 일해 일당 3만원을 받아 생활비를 마련했다. 이씨는 “우리 장남이 복이 없어서인지, 내가 복이 없어서인지 애들이 너무 없이 큰 게 마음에 걸린다”며 “손주들 가르치려 손이 굽어질 때까지 대파 단을 묶었다”고 했다.&lt;br&gt;&lt;br&gt;젊은 시절 풍채가 좋아 ‘호랑이 할머니’로 불리던 이씨는 2010년 심장 스텐트 시술, 2016년 폐암 수술을 받으며 노쇠해졌다. 지금은 보호자 없이 외출할 수 없고, 집 안에 설치된 안전바를 잡고 화장실에 가는 정도의 거동만 가능하다고 한다. 주로 5평 남짓한 방에서 TV를 보며 하루를 보낸다고 한다. 지난해부터는 부쩍 청력이 나빠져 좋아하던 사극 드라마를 보기도, 함께 사는 손주와 대화하기도 어려웠다.&lt;br&gt;&lt;br&gt;손주 인씨는 “보청기를 지원해주는 민간 단체들에 전화해보니 지원 대상 심사를 받기까지 1~2년은 대기해야 하고, 기다린다 해도 청각 장애가 아니라 결국 지원받지 못할 가능성이 크다는 답변을 받았다”며 “청각 장애 수준까지 청력이 안 좋아져야 도움을 받을 수 있는 건가 싶어 막막했다”고 했다. 이들 사정을 알게 된 의료진이 나서서 병원 지원책을 알아봤고, 이씨는 난청 진단 1년여 만에 보청기를 낄 수 있었다. 서울성모병원은 이씨를 시작으로 보청기 지원 사업을 본격화할 계획이라고 한다.&lt;br&gt;&lt;br&gt;이씨는 “그동안 TV 소리도, 손주 말소리도 잘 안 들려 답답했는데 이제 잃었던 세상을 다시 찾은 것만 같아 감사하다”며 웃었다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>[오늘의 운세]  5월 7일 수요일 (음력 4월 10일 丙子)</title>
       <link>https://www.chosun.com/national/national_general/2025/05/06/KBXLKGSLLNDXDOGUDKJKLXDII4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/05/06/KBXLKGSLLNDXDOGUDKJKLXDII4/</guid>
@@ -976,15 +985,6 @@
       <description/>
       <pubDate>Sat, 03 May 2025 06:25:58 +0000</pubDate>
       <content:encoded>국내 바이오 기업 셀트리온이 공장 청소 등을 맡은 하청업체 직원들을 직접 고용할 의무가 없다는 항소심 법원 판단이 나왔다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BZ6HEAB5LXBRL3LF6VPSPZDDF4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;인천 송도 셀트리온 본사./셀트리온&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울고법 인천재판부 민사2부(재판장 신종오)는 지난 1일 셀트리온 하청업체 ‘프리죤’ 소속 직원 2명이 셀트리온을 상대로 낸 ‘근로자 지위 확인 소송’에서 1심을 뒤집고 원고 패소로 판결했다고 3일 밝혔다.&lt;br&gt;&lt;br&gt;프리죤 직원들은 셀트리온의 바이오 의약품 생산 공장에서 야간에 벽과 바닥 등을 청소·소독하는 업무를 해왔다. 이들은 2019년 “셀트리온이 사실상 우리를 파견받아 사용했다”며 직접 고용을 요구하는 소송을 제기했다. 현행법에 따르면 동일 사업장에서 2년 이상 근무한 파견 근로자는 해당 사업주가 직접 고용해야 한다. &lt;br&gt;&lt;br&gt;앞서 1심은 프리죤 근로자들의 주장을 받아들였다. 셀트리온이 프리죤 직원들에게 표준작업지침서(SOP)를 통해 실질적인 업무 지휘·명령을 했다고 보고 원고 승소로 판결한 것이다. SOP는 미국 식품의약국(FDA)이 설정한 제조품질관리기준(GMP) 준수 항목 중 하나다.&lt;br&gt;&lt;br&gt;1심은 “프리죤이 지켜야 하는 SOP에는 청소 용액 종류와 용도, 희석 비율, 살균 주기 등이 세부적으로 지정됐다”며 “청소·소독 업무는 셀트리온의 의약품 생산과 밀접히 연관돼 있다”며 셀트리온이 프리죤 근로자들을 실질적으로 파견받아 사용한 게 맞는다고 판단했다. &lt;br&gt;&lt;br&gt;그러나 2심은 이를 뒤집고 셀트리온 측 손을 들어줬다. 2심은 “SOP에 따라 업무를 수행한다는 이유만으로 업무상 지휘·명령 관계가 성립한다 볼 수 없다”고 했다. 또 “셀트리온의 의약품 제조 및 생산 업무와 프리죤의 청소·소독 업무는 명백히 구분된다”며 “셀트리온은 프리죤 직원의 채용에 관여하지 않았고 프리죤은 취업규칙·인사규정에 따라 자체적으로 채용·해고할 수 있는 독립적인 사업체”라고 봤다.&lt;br&gt;&lt;br&gt;셀트리온을 대리한 법무법인 화우 측은 “이번 판결은 SOP는 사업장 내 업체가 지켜야 하는 ‘도급 계약’의 내용일 뿐 그 자체를 업무 지시의 근거로 볼 수 없다는 취지”라며 “초정밀 산업 업체들이 청소∙소독 등 기타 업무 수행에 협력 업체를 활용하는 것에 관한 불법 파견 리스크를 덜어낼 수 있을 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>李 선거법 사건 파기환송 후 첫 주말...“사법부가 나라 바로세워” “법비에 철퇴를”</title>
-      <link>https://www.chosun.com/national/national_general/2025/05/03/KUSS4NAOAZBVZE5PD5I455D7FM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/05/03/KUSS4NAOAZBVZE5PD5I455D7FM/</guid>
-      <dc:creator>강지은 기자</dc:creator>
-      <description/>
-      <pubDate>Sat, 03 May 2025 06:15:28 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/A3PDVHJI2RKPZOIVKLPDIJZ2VQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;자유통일당이 3일 서울 광화문에서 '반국가세력법치농단OUT' 집회를 열고 윤석열 전 대통령 탄핵 무효 등을 촉구하고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대법원이 이재명 더불어민주당 대선 후보의 공직선거법 위반 사건을 유죄 취지로 파기 환송한 뒤 맞은 첫 주말, 서울 곳곳에서 윤석열 전 대통령의 지지자들이 집회를 열었다.&lt;br&gt;&lt;br&gt;3일 오후 1시 서울 종로구 광화문 일대에서는 전광훈 목사가 주최한 ‘국민 저항권 광화문 국민대회’가 열려 7000여 명(경찰 비공식 추산)의 참가자가 모였다. 비닐 우비를 입고 집회에 참석한 이들은 “계엄령은 정당했다”고 외치며 태극기와 성조기를 흔들었다.&lt;br&gt;&lt;br&gt;이 후보 공직선거법 위반 사건에 대해 대법원이 지난 1일 내린 유죄 취지의 원심 파기 환송 결정을 두고 주옥순 엄마부대 대표는 이날 연단에서 “사법부가 대한민국의 운명을 바로 세운 시간”이라며 “범죄자가 지도자가 되면 나라가 어떻게 되겠냐”고 했다. 다른 연사는 “판사들이 끝까지 제대로 된 판결을 하길 강력히 요청한다”고 했다.&lt;br&gt;&lt;br&gt;이날 오후 2시 서초구 교대역 인근에서도 윤 전 대통령 지지자 약 2000명이 모여 집회를 열었다. 이들은 ‘ONLY YOON, YOON AGAIN(오직 윤석열, 다시 윤석열)’이라고 적힌 손피켓을 들고 “대통령 윤석열”을 연호했다.&lt;br&gt;&lt;br&gt;오후 4시부터는 대법원 앞에서 ‘법비(法匪·법을 악용해 사적 이익을 취하는 무리)에게 철퇴를’이라는 구호를 내걸고 ‘제138차 촛불대행진’이 열린다. 윤 전 대통령의 탄핵을 촉구해 온 시민단체 촛불행동은 “대법관들이 이 후보 사건을 정치적 목적을 가지고 파기환송한 것으로 의심된다”며 항의 집회를 예고했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[단독] “김정숙 여사 옷값 180벌 4억원 추산... 관봉권으로도 결제”</title>
