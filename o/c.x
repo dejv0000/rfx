@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>길거리 돌아다니다가 갑자기…나체로 흉기 휘두른 20대 체포 </title>
+      <link>https://www.chosun.com/national/national_general/2025/05/07/4BXUQ5QVLBA7NPIP6SNQTMHBRQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/05/07/4BXUQ5QVLBA7NPIP6SNQTMHBRQ/</guid>
+      <dc:creator>이가영 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 06 May 2025 22:41:06 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OTDLS5LHK5D7DPS4BABPMR3BUM.png"&gt;&lt;figcaption&gt;&lt;small&gt;6일 오전 서울 관악구의 한 거리 등을 돌아다니다가 시민들에게 흉기를 휘두른 20대 남성이 나체 상태로 도주하고 있다. /TV조선&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 도심 한복판에서 일면식도 없는 시민들에게 흉기를 휘두른 뒤 나체로 도주한 20대 남성이 붙잡혔다. &lt;br&gt;&lt;br&gt;서울 관악경찰서에 따르면 20대 남성 A씨는 6일 오전 10시 20분쯤 관악구 봉천동의 버스정류장과 식당 등에서 가위, 볼펜 등을 휘둘러 시민들을 다치게 한 혐의를 받는다. &lt;br&gt;&lt;br&gt;A씨는 갑자기 한 식당에 들어와 주인을 폭행한 뒤 일하던 종업원을 향해 주방 도구를 막무가내로 휘둘렀다. 식당 관계자는 “’식사하실 거예요?’라고 물어봤더니 아무 말도 안 하고 나가는 척하다가 얼굴을 가격했다. (다른 직원) 복부를 찌르려다가 실패했다”고 당시를 설명했다. A씨는 신고 온 슬리퍼를 식당 앞에 벗어둔 채 도주했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EJENLGJ6XZATVNKPDGIL3MCAJQ.gif"&gt;&lt;figcaption&gt;&lt;small&gt;6일 오전 서울 관악구의 한 거리 등을 돌아다니다가 시민들에게 흉기를 휘두른 20대 남성이 나체 상태로 도주하고 있다. /TV조선&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이후 A씨는 길거리에서 옷을 벗어던졌고, 범행 장소에서 약 300m 정도 떨어진 버스정류장에서도 흉기를 휘둘러 두 명에게 부상을 입혔다. 경찰은 현장에서 A씨를 체포했다. &lt;br&gt;&lt;br&gt;목격자들은 “경찰이 완전 나체 상태인 가해자를 누르고 있었다” “실오라기 하나도 걸치지 않은 상태로 많이 돌아다닌 것 같았다”고 전했다. A씨의 범행으로 행인 4명이 경상을 입었고 일부는 병원에서 치료를 받았다. &lt;br&gt;&lt;br&gt;간이 검사 결과 A씨는 음주나 마약을 하지는 않은 것으로 파악됐다. 범행 동기를 조사 중인 경찰은 A씨에 대해 특수폭행 혐의로 구속영장을 신청할 방침이다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>치매 환자의 ‘치매 머니’ 154조… 동결되면 못 쓴다</title>
       <link>https://www.chosun.com/national/welfare-medical/2025/05/07/4INJXODQCZBJTGZ6AIKIM5B3WM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/05/07/4INJXODQCZBJTGZ6AIKIM5B3WM/</guid>
@@ -966,15 +975,6 @@
       <description/>
       <pubDate>Sun, 04 May 2025 15:52:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MT2CFKQJBFDWJFVHQYJ5MOL25Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서양 정치사상과 민주주의를 연구해 온 정치학자 강정인(71·사진) 서강대 명예교수가 지난 3일 별세했다.&lt;br&gt;&lt;br&gt;광주에서 태어나 서울고와 서울대 법대를 졸업하고 미국 캘리포니아대 버클리교에서 정치학 석·박사 학위를 받았다. 1989년부터 2020년까지 서강대 정치외교학과 교수를 지냈다. 1993년 한국정치학회 학술 발표회에서 “소크라테스는 ‘악법도 법이다’라고 말한 적이 없다”라는 내용의 논문을 발표해 주목을 받았다. ‘자유민주주의의 이념적 초상’ ‘서구 중심주의를 넘어서’ ‘서양 근대 정치사상사’ 등의 저서를 남겼으며 많은 고전을 번역했다.&lt;br&gt;&lt;br&gt;유족은 아내 유윤선씨와 아들 강세빈(미 예일대 의대 박사후연구원)·강세윤(치과의사)씨 등이 있다. 빈소는 한림대성심병원, 발인은 6일 오전 8시, (031)382-5004&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[오늘의 날씨] 2025년 5월 5일</title>
-      <link>https://www.chosun.com/national/national_general/2025/05/05/WQCR257MXFB6HKHQZYLRINOHZI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/05/05/WQCR257MXFB6HKHQZYLRINOHZI/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Sun, 04 May 2025 15:52:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4OXXPOOMARAABMH33HCMFTXTIE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[부음] 강순 별세 외</title>
