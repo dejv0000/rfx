@@ -6,6 +6,16 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>[단독] 법률번역 기업 베링랩, 톰발리 인수… "번역 감수 체계 고도화"</title>
+			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/207874.jpg" alt="564747.jpg" /&gt;&lt;/p&gt;법률번역 서비스 ‘베링리걸’을 운영하는 베링랩(공동대표 문성현·김재현)이 경쟁업체 톰발리를 인수했다. 문성현 베링랩 공동대표는 “이번 인수는 고객 경험과 서비스 품질을 한층 끌어올리는 전환점이 될 것”이라고 밝혔다.&lt;br /&gt;&lt;br /&gt;베링랩은 5월 1일 법률번역 전문회사 톰발리의 인수를 결정했다고 9일 밝혔다. 톰발리는 네이버 법무실장을 지낸 정연욱 대표가 설립한 회사로, 정 대표는 향후 베링랩에 합류해 체계적인 품질 관리 시스템 구축을 주도할 예정이다.&lt;br /&gt;&lt;br /&gt;베링랩은 미국 펜실베이니아대 동문인 김재윤·문성현 공동대표가 창업한 법률 전문 번역 기업으로, 600여 명의 전문가와 협업해 현재 30개 언어로 서비스를 제공하고 있다. 국내 6대 로펌을 비롯해 전 세계 150여 개 로펌, 법무부·외교부 등 정부기관, 국내 5대 그룹을 포함한 400여 개 기업이 고객사다. &lt;br /&gt;&lt;br /&gt;자체 개발한 법률 특화 AI 번역 엔진 ‘베링AI’를 보유하고 있으며, 보안에 민감한 법률 시장의 특성을 고려해 국내 번역 업계 최초로 SOC 2(Type 1) 인증도 획득했다. SOC 2는 미국 공인회계사협회(AICPA)가 정보 시스템의 보안, 기밀성, 개인정보 보호 등을 평가하는 인증 제도다.&lt;br /&gt;&lt;br /&gt;베링랩은 “이번 인수를 통해 번역 감수 체계를 고도화하고, 변호사 등 전문 인력도 확충했다”며 “해외 소송 및 중재 관련 대량 증거자료 번역, 복잡한 계약서 번역 등 다양한 수요에 더욱 민첩하게 대응할 수 있게 됐다”고 밝혔다.&lt;br /&gt;&lt;br /&gt;문 대표는 “빠르게 변화하는 법률 시장에 발맞춰 최고의 번역 품질과 서비스를 제공하겠다”고 강조했다.</description>
+			<pubDate>Thu, 08 May 2025 21:09:54 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/207874</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/207874</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/207874.jpg</media:thumbnail>
+			<dc:creator>조한주 기자</dc:creator>
+		</item>
+		<item>
 			<title>금융감독원·서울대, 자본시장 불공정거래 현안 세미나 개최… 신유형 대응방안 논의</title>
 			<description>금융감독원(원장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="9983"&gt;이복현&lt;/span&gt;)과 서울대 금융법센터(센터장 노혁준)는 5월 8일 서울대 로스쿨에서 ‘자본시장 불공정거래 현안 세미나’를 개최했다. &lt;br /&gt;&lt;br /&gt;이날 세미나에서는 최근 등장한 신유형 불공정거래 행위에 대한 대응 방안과 관련 제도의 합리적 운영 방안을 주제로 심도 있는 논의가 진행됐다.&lt;br /&gt;&lt;br /&gt;행사에는 서울대 로스쿨 정순섭,&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="1365"&gt;노혁준&lt;/span&gt;(55·25기),&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="9778"&gt;이정수&lt;/span&gt;(48·32기) 교수와 고려대&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="14822"&gt;류경은&lt;/span&gt;(45·36기),&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="14596"&gt;이승환&lt;/span&gt;(45·36기) 교수, 연세대&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="9325"&gt;김홍기&lt;/span&gt;(59·21기) 교수를 비롯해 장정훈 금융감독원 조사3국장,&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="33251"&gt;최희선&lt;/span&gt;(41·4회) 서울남부지검 금조1부 검사, 안현수 한국거래소 리스크관리부장 등이 참석했다.&lt;br /&gt;&lt;br /&gt;세미나는 △M&amp;A와 증권 불공정거래 △불공정거래와 부당이득 △불공정거래 규제의 실무상 문제와 개선방안 등 세 가지 세션으로 나뉘어 진행됐다. 각 세션에서는 발표자와 토론자가 현안을 공유하고, 패널 토론을 통해 실무상 문제점과 개선 방향을 모색했다.&lt;br /&gt;&lt;br /&gt;최근 금융당국은 3대 불공정거래 행위에 대한 과징금 부과(2024년 1월 시행), 불공정거래 의심계좌 지급정지, 금융투자상품 거래 제한, 상장회사 임원 선임 제한명령(2025년 4월 시행) 등 새로운 행정제재 방안을 잇따라 도입한 바 있다. 이에 따라 이날 세미나에서도 이러한 규제의 실효성을 높이고 시장의 공정성을 강화할 방안에 대한 활발한 논의가 이어졌다.&lt;br /&gt;&lt;br /&gt;금융감독원 관계자는 “세미나에서 논의된 전문가들의 의견을 불공정거래 조사 및 제도 개선에 적극 반영할 계획”이라며 “앞으로도 학계, 유관기관과의 소통을 강화해 나가겠다”고 밝혔다.</description>
 			<pubDate>Thu, 08 May 2025 09:48:09 -0000</pubDate>
@@ -228,15 +238,6 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/207819</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/207819.jpg</media:thumbnail>
 			<dc:creator>임현경 기자</dc:creator>
-		</item>
-		<item>
-			<title>SK하이닉스 기술 중국 하이실리콘에 유출한 전 직원 구속기소</title>
-			<description>SK하이닉스의 CIS(CMOS Image Sensor, 빛을 디지털 신호로 변환하는 반도체 소자) 관련 첨단기술과 영업비밀을 중국 기업에 무단 유출하고 부정사용한 SK하이닉스 전 직원이 구속 상태로 재판에 넘겨졌다.&lt;br /&gt;&lt;br /&gt;서울중앙지검 정보기술범죄수사부(&lt;span style="font-weight: bold;" class="lawmanlink" serial="13365"&gt;안동건&amp;nbsp;&lt;/span&gt;부장검사)는 7일 산업기술의 유출방지 및 보호에 관한 법률 위반 혐의 등으로 SK하이닉스의 전 직원 김모 씨(51)를 구속 기소했다고 밝혔다.&lt;br /&gt;&lt;br /&gt;검찰에 따르면 김 씨는 SK하이닉스의 중국 법인에 근무하면서 중국 반도체 기업 '하이실리콘'으로부터 이직 제안을 받은 뒤, SK하이닉스의 CIS 기술자료를 사내 문서관리시스템에서 무단 출력하거나 사진 촬영하는 방식으로 유출했다. 이 과정에서 김 씨는 SK하이닉스의 영업비밀 자료를 기반으로 이력서를 작성해 두 곳의 중국 회사에 제출, 영업비밀을 누설한 것으로 드러났다.&lt;br /&gt;&lt;br /&gt;김 씨가 촬영한 기술자료는 1만1000여 장에 달한다. 특히 일부 자료에서는 대외비 문구와 회사 로고를 고의로 삭제한 뒤 촬영함으로써 해당 자료가 유출 금지 대상임을 은폐하려 한 정황도 확인됐다.&lt;br /&gt;&lt;br /&gt;유출된 기술에는 CIS 관련 자료뿐 아니라, 인공지능(AI)에 활용되는 고대역폭메모리(HBM)의 핵심 기술인 하이브리드 본딩(Hybrid Bonding) 기술도 포함돼 있던 것으로 확인됐다. &lt;br /&gt;&lt;br /&gt;하이브리드 본딩 기술은 HBM(High Bandwidth Memory, 고대역폭메모리) 구현에 필수적인 기술이다.&lt;br /&gt;&lt;br /&gt;검찰 관계자는 "기술 유출은 기업뿐만 아니라 국가 경제 전반에 심대한 영향을 미치는 중대 범죄"며 "앞으로도 유사 범죄에 대해 엄정히 대응하겠다"고 강조했다.&lt;br /&gt;</description>
-			<pubDate>Wed, 07 May 2025 02:44:54 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/207818</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/207818</guid>
-			<dc:creator>우빈 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
