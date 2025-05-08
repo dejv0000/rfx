@@ -13,6 +13,24 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>“96점인데 탈락”… 9급 공무원 ‘역대급 합격선’ 직렬은?</title>
+      <link>https://www.chosun.com/national/national_general/2025/05/09/GOODQS4TGBFPRCYGPI3ZCUF3HM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/05/09/GOODQS4TGBFPRCYGPI3ZCUF3HM/</guid>
+      <dc:creator>이가영 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 08 May 2025 22:17:14 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7GOMVWYHRNMHDJWTKO2HR6RXRU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;국가공무원 9급 공개경쟁채용 필기시험이 치러진 지난달 5일 서울 강남구의 한 시험장으로 수험생들이 들어가고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2025년도 국가공무원 9급 공개경쟁 채용 필기시험에 5490명이 합격했다. 그중 교육행정직 합격선은 97점으로, 주요 직렬 중 가장 높았다. &lt;br&gt;&lt;br&gt;인사혁신처는 8일 사이버국가고시센터에 지난달 5일 치러진 필기시험의 합격자를 발표했다. 모집 직군별로는 행정직 4597명, 과학기술직은 893명이다. 이 중 장애인 구분 모집으로 170명, 저소득층 구분 모집으로 161명이 합격했다. &lt;br&gt;&lt;br&gt;올해 가장 높은 합격선을 기록한 직렬은 교육행정직으로, 합격선이 97점에 달했다. 이들은 학교, 교육청, 교육부 등 교육기관 또는 교육행정기관에서 근무한다. &lt;br&gt;&lt;br&gt;일반행정(전국), 검찰, 전산개발 합격선이 93점으로 뒤를 이었다. 일반농업직은 92점, 화공직은 89점으로 집계됐다. &lt;br&gt;&lt;br&gt;비교적 낮은 합격선을 보인 직렬은 세무직과 교정직(남)으로, 80점이었다. 산림자원직과 일반토목직의 합격선은 79점으로 주요 모집 단위 중 가장 낮은 수준을 보였다. &lt;br&gt;&lt;br&gt;남성 합격자는 3024명(55.1%), 여성 합격자는 2466명(44.9%)이다. ‘양성평등 채용 목표제’ 적용으로 교육행정, 직업상담, 출입국 관리, 전송기술, 관세 등 10개 모집 단위에서 72명이 추가 합격했다. 양성평등 채용 목표제는 어느 한쪽 성별의 합격자가 합격 예정 인원의 30%에 미달할 경우 해당 성별의 응시자를 추가로 합격시키는 제도다. &lt;br&gt;&lt;br&gt;합격자 평균 연령은 29.5세로, 지난해(29.8세)보다 소폭 낮아졌다. 연령대별로는 20~29세가 3374명(61.5%)으로 가장 많았고, 30~39세 1776명(32.3%), 40~49세 290명(5.3%), 50세 이상 43명(0.8%), 18~19세 7명(0.1%) 순이었다. &lt;br&gt;&lt;br&gt;면접시험은 5월 28일부터 6월 2일까지 6일간 시행된다. 면접은 ▲소통·공감 ▲헌신·열정 ▲창의·혁신 ▲윤리·책임 등 4개의 요소로 나눠 평가된다. 면접시험 포기 등록은 오는 9~12일 사이버국가고시센터를 통해 할 수 있다. 최종 합격자는 다음 달 20일 발표될 예정이다. 선발 예정 인원은 4330명이다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“속옷 핏 보겠다고 탈의 지시” 165만 유튜버 말왕 ‘몸캠 피싱’ 피해 고백</title>
+      <link>https://www.chosun.com/national/national_general/2025/05/09/KZDLVMBOAFCXZJOFDU6VVCP6BY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/05/09/KZDLVMBOAFCXZJOFDU6VVCP6BY/</guid>
+      <dc:creator>김가연 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 08 May 2025 22:23:03 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KGVUCLTCZFHZVNNEXRRUWDP3VQ.png"&gt;&lt;figcaption&gt;&lt;small&gt;유튜버 말왕. /유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;165만 구독자를 보유한 운동 유튜버 말왕(본명 유태양)이 몸캠 피싱(신체 불법 촬영 협박) 피해 사실을 고백했다.&lt;br&gt;&lt;br&gt;말왕은 지난 7일 유튜브 라이브 방송을 통해 “8년 전 아프리카TV BJ로 활동하던 시절, 속옷 모델 제안을 받고 영상통화를 하다 몸캠 피싱에 당했다”고 밝혔다.&lt;br&gt;&lt;br&gt;당시 그는 여성인 것처럼 행세한 인물과 통화를 했으며, 이 인물은 “핏을 보기 위해 옷을 벗어달라”고 요구했다고 한다. 이 인물은 그의 외모를 칭찬하며 탈의를 유도했고, 말왕은 “이에 기분이 좋아져 옷을 모두 벗고 음란 행위까지 했다”고 말했다.&lt;br&gt;&lt;br&gt;하지만 이후 말왕은 통화를 한 인물이 여성이 아닌 남성이었다는 사실을 알게 됐다고 한다. 그는 이 남성으로부터 금전 협박을 받았고, 최근에는 영상 일부가 온라인을 통해 유출돼 직접 피해 사실을 밝히게 됐다고 말했다.&lt;br&gt;&lt;br&gt;말왕은 해당 영상을 유포한 인물을 사이버 수사대에 신고했지만, 가해자의 신원 확인이 어려워 검거에 난항을 겪고 있다고 전했다.&lt;br&gt;&lt;br&gt;말왕은 이날 방송 중 어머니와의 통화 내용도 공개했다. 그는 “이제 숨기지 않고 공개할 때가 됐다. 나 말고 다른 피해자가 생기지 않기를 바란다”고 말했고, 어머니는 “마음고생 많았겠다. 이제는 끝났다고 생각하자”며 아들을 위로했다.&lt;br&gt;&lt;br&gt;한편 경찰청에 따르면 몸캠 피싱 발생 건수는 해마다 늘고 있다. 신고 건수는 2019년 1824건, 2020년 2583건, 2021년 3026건, 2022년 4313건, 2023년 3545건으로 파악됐다. 하지만 검거율은 2019년 26.21%, 2020년 20.09%, 2021년 23.73%, 2022년 10.9%, 2023년은 8.6%에 그쳤다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>“지지율 99% 정치인이라도 법 어기면 처벌하는 게 판사의 일”</title>
       <link>https://www.chosun.com/national/court_law/2025/05/09/ICARWYLN4BEXLHF3DCQZNTHGFE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/05/09/ICARWYLN4BEXLHF3DCQZNTHGFE/</guid>
@@ -884,24 +902,6 @@
       <description/>
       <pubDate>Wed, 07 May 2025 15:38:16 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OBHGVH6XEVLZRN5EJWOHSX2F3M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 2월 제주 한라산 중산간에서 포착된 수컷 꽃사슴. 꽃사슴은 다른 사슴들과 비슷하게 수컷만 뿔이 나고, 1년마다 뿔 전체가 빠지고 새로 돋는 ‘뿔갈이’를 해요. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최근 환경부에서 꽃사슴을 유해 야생 동물로 지정했어요. 농작물에 피해를 끼치고 진드기도 옮긴다는 거예요. 초롱초롱한 눈망울에 순하게 생긴 꽃사슴이 어쩌다 이렇게 천덕꾸러기가 됐을까요. &lt;br&gt;&lt;br&gt;꽃사슴은 원래 호랑이나 표범처럼 한때 우리나라 전역에 살다가 자취를 감춘 안타까운 사연이 있는 동물이랍니다. 밤색 또는 고동색 몸 색깔에, 몸통에는 흰 점박이 무늬를 가진 꽃사슴은 다른 사슴들과는 다르게 어릴 때 생기는 점박이 무늬가 다 자란 뒤에도 없어지지 않죠. 특히 여름철이 되면 점박이 무늬가 더욱 뚜렷해지는데요. 포식자들이 나무에 꽃이 핀 것으로 혼동하도록 하는 위장색이라고 해요. &lt;br&gt;&lt;br&gt;꽃사슴이라는 이름도 여기서 유래됐어요. 흰 점박이 무늬가 매화꽃이 흐드러지게 핀 것 같다고 해서 중국에서는 ‘매화록(梅花鹿)’이라고 불렀고, 우리나라 이름도 꽃사슴으로 굳어졌다고 하죠. 동아시아에서는 예로부터 사슴을 신과 인간을 연결해주는 신비하고 성스러운 존재로 인식했어요. 우리나라에서도 옛날 그림에서 십장생(十長生·오래 사는 열 가지)의 하나로 꽃사슴이 등장하죠. 백제 시대를 대표하는 보물인 금동대향로에도 꽃사슴이 새겨져 있고요. &lt;br&gt;&lt;br&gt;꽃사슴의 야생 서식지는 한반도와 일본, 중국, 대만 등인데요. 꽃사슴도 세부적으로는 열세 종류가 있어요. 이 중에서 잘 알려진 건 일본 꽃사슴이죠. 나라현의 공원에서 사슴들이 자유롭게 거닐면서 사람들이 주는 먹이를 받아먹는 모습을 사진이나 동영상으로 본 적이 있을 거예요. 이 꽃사슴은 몸길이는 최대 115㎝, 어깨높이는 최대 90㎝로 꽃사슴 중에서는 아담한 편이랍니다. &lt;br&gt;&lt;br&gt;우리나라 토종 꽃사슴은 ‘대륙사슴’이라고도 하는데 몸길이는 최대 155㎝, 어깨높이는 최대 115㎝로 위풍당당한 몸집이에요. 황적색 뿔도 양옆으로 떡 벌어져 있죠. 중국 헤이룽장성, 러시아 극동 지역, 북한 개마고원 등에 살고 있는데 남한에서는 1920년대 이후 자취를 감춰서 반달가슴곰이나 따오기처럼 야생에 복원하기 위한 연구가 진행 중이에요.&lt;br&gt;&lt;br&gt;꽃사슴이 살아가는 방식은 아프리카 사자와 비슷한 면이 있답니다. 힘센 수컷이 암컷 10여 마리를 거느리고 무리를 이루고 살고, 다른 수컷들은 두세 마리씩 모여 살아가면서 호시탐탐 무리를 차지할 기회를 노리죠. &lt;br&gt;&lt;br&gt;아름다운 생김새 때문에 순한 동물일 것 같지만 꽃사슴은 사실 아주 거칠고 위험한 습성이 있답니다. 특히 짝짓기철이 되면 기존 우두머리 수컷과 도전자 수컷 사이 ‘결투’가 벌어지는데요. 이때 상대방을 향해 뿔을 겨눈 채 돌진하며 박치기를 하죠. 뿔이 부러지는 등 한쪽이 죽기 직전까지 살벌하게 싸운다고 합니다. 최악의 경우에는 두 녀석의 뿔이 서로 꼬여버려 옴짝달싹 못하고 함께 목숨을 잃는 경우도 드물게 발생한대요. 이런 투쟁을 통해 힘세고 생존력 강한 꽃사슴의 유전자가 대물림 되는 효과가 있대요.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[두근두근 뇌 운동] [2616] 양손으로 또박또박</title>
-      <link>https://www.chosun.com/national/nie/2025/05/08/LESLHXN54FFQRCIOXU4T4XJ67E/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2025/05/08/LESLHXN54FFQRCIOXU4T4XJ67E/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 07 May 2025 15:33:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GZSO72VU7FCSZDDYUA5D77TK5Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[입에 착착 붙는 일본어] 가방에 매달다</title>
-      <link>https://www.chosun.com/national/nie/japanese/2025/05/08/7XXRAJA7KNCZPB6WECWEYN64RE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/japanese/2025/05/08/7XXRAJA7KNCZPB6WECWEYN64RE/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 07 May 2025 15:33:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ETMCJLNJUJDRZGWVPJSYPC4G74.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>박나래가 밝힌 자택 도난 사건 전말...“중고 명품 가게에 올라와”</title>
