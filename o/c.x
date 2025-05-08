@@ -13,6 +13,216 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>“지지율 99% 정치인이라도 법 어기면 처벌하는 게 판사의 일”</title>
+      <link>https://www.chosun.com/national/court_law/2025/05/09/ICARWYLN4BEXLHF3DCQZNTHGFE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/05/09/ICARWYLN4BEXLHF3DCQZNTHGFE/</guid>
+      <dc:creator>방극렬 기자, 김은경 기자, 김나영 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 08 May 2025 20:00:00 +0000</pubDate>
+      <content:encoded>이재명 더불어민주당 대선 후보의 공직선거법 사건 재판이 대선 이후로 미뤄졌는데도, 민주당의 사법부 공격은 멈추지 않고 있다. 민주당은 8일 조희대 대법원장의 대선 개입 의혹을 밝히겠다며 특검법 발의를 예고했고, 오는 14일엔 조 대법원장과 대법관들을 국회로 불러 청문회를 연다고 한다. 대놓고 “사퇴하라”는 논평도 냈다. 지난 1일 이 후보에게 유죄 취지 판결을 내린 대법관들에게 책임을 묻겠다는 모양새다.&lt;br&gt;&lt;br&gt;전례 없는 ‘사법부 압박 사태’에 대해 법률 전문가들의 견해를 들어봤다. 법조윤리협의회 사무총장을 맡고 있는 김대광 변호사와 부장판사 출신의 김익현 변호사, 한국형사법학회장을 지낸 한상훈 연세대 교수는 우려를 표하면서도 미묘하게 서로 다른 평가를 내놨다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/475QCSIOB5DTBHZNQNX66NY3RY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;8일 오후 서울 서초구 법무법인 대겸에서 김대광 변호사가 본지와의 인터뷰를 갖고 있다./장련성 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;◇김대광 변호사 “민주당의 사법부 공격, 법조인이라면 본능적 두려움 느낄 것”&lt;/b&gt;&lt;br&gt;&lt;br&gt;민주당은 ‘왜 하필 대선을 앞둔 지금 당선이 유력한 이재명 후보에게 유죄 판결을 내렸느냐’고 문제 삼는다. 질문 자체가 틀렸다. 3년 전 대선에서 허위 사실을 공표한 혐의를 받는 정치인 사건이 왜 아직도 결론 나지 않았는지부터 따져야 하는 것이다. 대법관들은 이 후보가 대통령이 되면 재판을 계속할 수 있을지 모르는 사건을 대선 이후로 미루는 것이 오히려 정치적 오해를 불러올 수 있다고 판단한 것 같다.&lt;br&gt;&lt;br&gt;민주당이 대법원장·판사 탄핵과 대법원장 상대 청문회, 특검 등으로 사법부를 협박하는 건 매우 우려스럽다. 조희대 대법원장이 전원합의체 유죄 판결을 주도했다는 이유로 청문회에 불려가거나 특검 수사를 받아 고초를 겪는다면 어떻게 될까. 상식적인 판사와 변호사라면 ‘입법권을 장악한 거대 야당이 재판과 판결이라는 룰을 흔드는구나’ ‘피고인이 권력자라면 독립된 재판이 불가능하구나’ 하는 본능적인 두려움을 느낄 것이다. 파기환송심 재판부가 재판을 미루기로 한 판단은 존중하지만, 민주당의 공세를 의식할 수밖에 없었을 것이다.&lt;br&gt;&lt;br&gt;결국 이 후보에 대한 유죄 판결과 신속 재판이 마음에 안 든다고 대법원장과 판사를 탄핵하겠다는 것, 청문회에 불러 모욕 주겠다는 것 아닌가. 사법 시스템 자체를 뒤흔들고 재판 독립을 심각하게 침해하는 일이다.&lt;br&gt;&lt;br&gt;민주당은 형사 피고인이 대통령에 당선되면 재판을 정지하는 형사소송법 개정안과 이 후보가 기소된 허위 사실 공표죄의 ‘행위’ 부분을 삭제하는 내용의 선거법 개정안 등을 밀어붙이며 ‘사법 개혁’이라고 말한다. 이 후보가 대법원에서 무죄 판결을 받았어도 개혁을 말했을까 싶다. 국민 기본권을 보호하는 법과 제도에 손을 대는 것은 극도로 신중해야 한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KZMEDYQ6JNDGLMNUMPDRYYV2WY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;8일 오후 서울 서초구 법무법인 서휘에서 김익현 변호사가 본지와 인터뷰하고 있다./고운호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;◇김익현 변호사 “유죄 준 대법관들만 탄핵... 대법원 마비로 큰 혼란 빚을 듯”&lt;/b&gt;&lt;br&gt;&lt;br&gt;사법부의 독립성 침해가 우려되는 상황이다. 대법원장과 대법관에 대한 특검은 사건 기록을 언제부터 봤는지, 6만쪽 기록을 다 읽었는지를 조사하겠다는 것인데 판사의 재판 과정을 수사하는 일은 어디에도 없는 일이다. 대법관은 이른바 최고 법관이다. 재판연구관들의 도움을 받아 하루에도 20건씩을 처리한다. 이재명 후보 사건은 이미 사실관계가 다 파악돼 있어서 법리 해석에 대한 판단만 했을 것이다.&lt;br&gt;&lt;br&gt;민주당은 이 후보에게 유죄를 선고한 대법관들(10명)에 대해서만 고발 또는 탄핵 이야기를 한다. 수사기관이나 헌법재판소에서 기각될 가능성이 높겠지만, 또 직무 정지 등 대법원 마비 사태가 초래될 수 있다. 대법관 직무는 대행할 수도 없다. 중범죄자에 대한 재판을 구속 기간 안에 못 마쳐서 풀어줘야 할 수도, 심리 불속행(심리 없이 곧바로 상고를 기각하는 절차)도 기간 안에 못 해 큰 혼란을 빚을 수 있다.&lt;br&gt;&lt;br&gt;대법원 전원합의체의 유죄 취지 파기환송 선고는 대법원 판례 등으로 볼 때 타당했다. 그런데도 파기환송심 재판부가 여론 압박에 못 이겨 재판 일정을 대선 이후로 미룬 것은 아쉽다. 이 후보 측이 기일 변경 신청서에 ‘이 후보가 사법 리스크에도 여론조사에서 지지율 1위를 보이는 것은 국민이 피선거권을 박탈하지 말라는 것’이라고 주장했는데, 수긍하기 어렵다. 설사 국민 지지율이 99%라고 해도 법을 어긴 정치인을 처벌하는 것은 법원과 판사가 해야 하는 일이다.&lt;br&gt;&lt;br&gt;대법원의 사건 처리가 이례적이었던 것은 맞는다. 하지만 애초에 1·2심이 법정 기한(6·3·3 원칙)을 지키지 못했다. 곧 대통령 선거를 하는데, 이전 대선 때 사건을 처리하지 못한다는 것 자체가 말이 안 되는 것이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6S2H2ZFYWBGZZBLN2XZXG534TI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한상훈 연세대학교 법학전문대학원 교수가 작년 2월 서울 서대문구 연세대학교 광복관에서 인터뷰하고 있는 모습./한국일보&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;◇한상훈 연세대 교수 “대법원 졸속 재판, 국회 압박 자초”&lt;/b&gt;&lt;br&gt;&lt;br&gt;국회의 사법부 압박은 대법원이 자초한 일이다. 이재명 후보의 공직선거법 사건에 대한 대법원 전원합의체의 졸속 판결이 없었다면 국회가 법관 탄핵 같은 ‘최후의 수단’을 꺼내 들 일도 없었을 것이다.&lt;br&gt;&lt;br&gt;대법원의 파기환송 선고는 절차적으로도 법리적으로도 잘못됐다. 상고심은 하급심 판단에 법리적 문제가 있는지 따지는 법률심인데, 이번 판결에선 직접 사실 판단을 해 이 후보의 발언이 허위라고 단정했다.&lt;br&gt;&lt;br&gt;이례적으로 빨리 선고한 것도 문제다. 법을 지킨다고 해도 대법원은 항소심 선고(3월 26일) 3개월 뒤인 6월 25일까지만 결론 내면 되는 상황이었다. 그런데 비정상적인 심리 속도로 이를 50일 넘게 앞당겼다.&lt;br&gt;&lt;br&gt;정치 개입 의도가 다분하다. 유력한 야당 후보의 피선거권을 박탈할 수 있었고, 이는 비상계엄으로 군사 쿠데타를 시도했던 세력의 정권을 연장하는 결과로 이어지기 때문에 ‘사법 쿠데타’라는 지적이 나온 것이다.&lt;br&gt;&lt;br&gt;국회가 사법부의 정치 개입으로 국민 주권이 침해되는 절박한 상황에 이르게 되자, 삼권분립을 침해할 소지가 있는 수단까지 꺼내 든 것으로 보인다. 서울고법이 대선 전 파기환송심 재판을 강행하려고 했다면 탄핵을 통해 이를 정지시킬 수밖에 없었을 것이다. 물론 법관 탄핵이나 대법원장 특검 등은 신중해야 한다. 사법부 독립이라는 가치 수호를 위해서는 국회도 절제가 필요하다.&lt;br&gt;&lt;br&gt;파기환송심 재판부가 대선 이후로 재판을 미룬 것은 적절했다. 헌법 116조는 균등한 선거운동 기회를 보장하고 있다. 선거운동 기간에 대선 후보를 재판에 나오라는 건 위헌 소지가 있는 것이다. 대통령 당선 후에 재판을 계속할지는 나중에 판단할 문제이고, 아직 선거 결과가 나오지도 않았는데 예단해서 선거운동 기회를 뺏는 건 잘못이다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>새로운 관광 모델 부상에… 지자체마다 ‘정원 가꾸기’ 바람</title>
+      <link>https://www.chosun.com/national/regional/2025/05/09/JHST3QKHNZBW3MEXJPK2GCKNAM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/05/09/JHST3QKHNZBW3MEXJPK2GCKNAM/</guid>
+      <dc:creator>최연진 기자, 김영우 기자, 울산=김주영 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 08 May 2025 16:39:08 +0000</pubDate>
+      <content:encoded>전국에 ‘정원 바람’이 불고 있다. 각 지방자치단체들이 경쟁적으로 정원(garden)을 꾸미고 있어서다. 올해 전국 곳곳에서 열리는 정원 축제만 21개다.&lt;br&gt;&lt;br&gt;서울시는 22일부터 10월까지 동작구 보라매공원에서 ‘서울 국제 정원 박람회’를 연다. 보라매공원 40만㎡(약 12만평)에 정원 111개를 조성한다. 서울시 관계자는 “공원 전체가 거대한 정원으로 바뀔 것”이라고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/A5DCZQBL6NBBDDNF5IOSRRKAN4.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=송윤혜&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울시는 2015년부터 매년 여의도, 뚝섬한강공원, 북서울꿈의숲 등에서 정원 박람회를 열고 있는데 최근 들어 관람객이 급증했다. 2021년 5만2000명에 불과했던 관람객 수가 작년엔 780만명으로 3년 만에 150배가 됐다. 작년부터 글로벌 기업과 해외 조경 작가 등을 초청해 국제 박람회로 키운 덕분이다. 시민들이 직접 조경을 배울 수 있는 프로그램도 운영한다. 서울시 관계자는 “시민들의 관심이 높아져 올해는 1000만명 이상 찾아올 것으로 기대한다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/J5G6JTTFJVDYJL7N47MWUJQG6M.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=송윤혜&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;올해 정원 박람회엔 독일의 유명 조경 작가 마크 크리거가 참가한다. 우리나라 꽃과 나무로 독일식 정원을 꾸민다. 독일식 정원은 자연을 최대한 그대로 담는 방식을 추구한다. 지난해 서울시 조경상 대상을 받은 박승진 작가는 보라매공원 운동장 트랙을 따라 기다란 정원을 만든다. 달리면서 감상할 수 있는 정원 작품이다.&lt;br&gt;&lt;br&gt;정원 박람회에 관람객이 몰리자 대기업들도 앞다퉈 참가하고 있다.&lt;br&gt;&lt;br&gt;지난해 9곳에서 올해 20곳으로 늘어났다. 이들은 총 55억원을 기부해 각각 정원을 조성한다. 업계 관계자는 “정원은 ‘지속 가능한(ESG) 경영’의 관점에서 매력적인 기부 방식”이라며 “홍보 효과도 뛰어나 일거양득”이라고 했다.&lt;br&gt;&lt;br&gt;올해는 명품 브랜드 디올이 처음 이름을 올렸다. 디올은 디올 향수의 원료인 은방울꽃과 장미 등을 활용해 정원을 만든다. 서울 성수동에 있는 ‘디올 성수’ 매장의 조경을 맡은 조경 작가 정영선씨가 꾸민다. &lt;br&gt;&lt;br&gt;정원에 꽃과 나무만 있는 건 아니다. 가상자산 거래소인 업비트를 운영하는 두나무는 디스플레이 화면과 향기 분사기 등을 활용해 디지털 정원을 선보일 예정이다. &lt;br&gt;&lt;br&gt;울산시는 16일부터 3일간 중구 태화강 국가정원에서 봄꽃 축제를 연다. 울산시 관계자는 “2028년 열리는 울산국제정원박람회의 성공을 기원하며 꽃양귀비, 수레국화, 안개초, 금영화, 작약 등 봄꽃 6000만 송이를 심을 계획”이라고 했다. 병든 식물을 가져가면 치료해주는 ‘반려식물 클리닉’도 운영한다.&lt;br&gt;&lt;br&gt;충북 청주시는 9일부터 사흘간 ‘가드닝 페스티벌’을 연다. 영국의 유명 정원 박람회인 ‘첼시 플라워 쇼’에서 금상을 탄 황지해 작가가 신작 ‘틈’을 선보인다. 화분 만들기 체험도 해볼 수 있다. &lt;br&gt;&lt;br&gt;전남 구례군은 30일부터 민간 정원 축제를 연다. 작년 11월 산림청이 ‘아름다운 민간 정원’으로 선정한 ‘쌍산재’와 ‘천개의 향나무 숲’, ‘반야원’ 등 3곳을 묶어 축제를 연다. 3곳 모두 개인이 조성한 정원이다. 축제 기간 정원 곳곳을 설명해주는 해설 프로그램을 운영하고 ‘정원 속 음악회’를 개최한다.&lt;br&gt;&lt;br&gt;지자체 정원의 ‘원조’는 전남 순천의 순천만 국가정원이다. 2013년 순천만 국제정원박람회가 관람객 440만명을 모으며 대성공을 거두자, 정원은 새로운 지역 관광 모델로 부상했다. &lt;br&gt;&lt;br&gt;산림청에 따르면 우리나라에는 국가정원 2곳 등 총 177개 정원이 있다. 산림청 관계자는 “정부에 등록하지 않은 개인 정원 등을 합치면 전국에 2000곳이 넘을 것으로 추산된다”고 했다.&lt;br&gt;&lt;br&gt;지자체 관계자는 “정원은 다른 시설보다 가성비가 좋다”며 “시민들도 더 좋아한다”고 했다.&lt;br&gt;&lt;br&gt;코로나를 거치면서 정원은 ‘치유의 공간’이 됐다. 사회적 거리두기로 우울감을 호소하던 사람들이 정원 속에서 치유를 경험한 것이다. 산림청은 2021년부터 3년간 우울증, 치매 등을 겪는 국민 1008명을 대상으로 정원 가꾸기 프로그램을 운영했는데, 증상이 대부분 호전됐다고 밝혔다. 서울시 관계자는 “최근 도심 서울광장에 꽃나무를 심고 벤치를 놓았더니 ‘꽃멍’을 즐기는 직장인들이 늘어났다”며 “1인 가구가 급증하는 외로운 시대에 정원이 정서적 처방이 될 수 있다”고 했다. 서울시는 동네 골목과 간선도로 주변 등 ‘자투리 공간’을 찾아내 2026년까지 총 2495곳의 정원을 만든다는 계획이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[단독] 억울함 줄여주려는 선의가… 고소·고발 급증 불러왔다</title>
+      <link>https://www.chosun.com/national/national_general/2025/05/09/7VODIBBHJVDINFBDAJHHVIRKTM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/05/09/7VODIBBHJVDINFBDAJHHVIRKTM/</guid>
+      <dc:creator>구아모 기자, 양인성 기자, 김명진 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 08 May 2025 20:00:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FMMA6NWADVG7NMWEYICHYTSSHQ.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서대문구 미근동 경찰청 모습.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“전 재산을 빼앗으려고 조직폭력배·특수부대가 쫓아옵니다. 전직 검사장이 살인 청부까지 하고 있습니다.”&lt;br&gt;&lt;br&gt;서울경찰청과 서울 관악·방배·혜화경찰서 등에 이런 내용의 고소장이 지난달 잇달아 접수됐다. 서울 종로구에 사는 전모(82)씨가 지난달 30일 이 고소장을 들고 혜화서에 나타나자 수사관들이 ‘또 오셨다’며 고개를 가로저었다. 그는 작년 7월부터 ‘누군가 나를 위협하고 있다’는 취지의 고소장을 내용을 조금씩 바꿔가면서 제출하고 있다. &lt;br&gt;&lt;br&gt;작년 말 서울 강남경찰서엔 도널드 트럼프 미국 대통령에게 사기를 당했다는 고소장이 접수됐다. 재선에 성공해 현재 47대 대통령인 트럼프가 45대 대통령 시절 자신을 꼬드겨 돈을 받아 간 뒤 갚지 않았다는 내용이었다. 강남서 한 수사관은 “범죄 혐의점도 없어 보이고 사실상 수사도 불가능하지만, 고소장이 한번 접수되면 무조건 절차를 밟아야 한다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/432PYGRHMJAQRDCXUWCAWIKMHM.png"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=박상훈&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;작년 한 해 전국 경찰서에 접수된 고소·고발 사건이 총 67만7979건에 달하는 것으로 8일 나타났다. 직전 해인 2023년 45만2183건보다 50% 증가했다. 더불어민주당 양부남 의원실이 경찰청에서 받은 자료에 따르면, 2020~2021년 경찰에 들어온 고소·고발 건수는 약 40만건이었지만 2023년부터 매년 5만~22만건씩 급증하고 있다.&lt;br&gt;&lt;br&gt;본지 취재팀이 서울 지역 경찰서의 사건 접수 및 수사 과정을 취재해 봤더니 정식 수사를 시작하기도 힘든 황당 고소·고발 사건이 매일같이 쏟아지는 것으로 나타났다. 경찰관들은 밤낮으로 벌어지는 실시간 범죄 대응 이외에도 사실상 ‘민원’에 가까운 고소·고발 건을 처리하느라 씨름하고 있었다.&lt;br&gt;&lt;br&gt;이 같은 상황은 지난 2023년 검경의 수사 절차 규정이 바뀌었기 때문이다. 그해 10월 법무부는 법 개정을 통해 검경 등 수사기관의 고소·고발장 접수 의무 조항을 신설했다. 법무부는 당시 “국민들의 억울함을 줄이겠다는 취지”라고 설명했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/I3CJ6WSPSJCR3O25C46UJ5ZU3A.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=박상훈&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제도의 취지는 선했지만, 결과는 정반대로 나타나고 있다. 범죄 성립이 안 된다고 판단되는 고소·고발 건도 무조건 수사를 진행한 뒤 각하(범죄 혐의가 없어 사건 종결)하는 절차를 거치다 보니 정작 다급한 범죄에 대응할 시간을 뺏기고 있기 때문이다.&lt;br&gt;&lt;br&gt;서울 강남경찰서는 최근 근방 마사지 업소들 모두가 안마사 자격 없이 운영되고 있다며 줄줄이 ‘의료법 위반’ 혐의로 고발하는 민원인으로 골머리를 앓고 있다. 강남서 관계자는 “고발이 들어오면 일단 현장 조사를 나가야 하는 데다가 왜 문제가 아닌지 설명하기 위해 증거 수집 및 보고서 작성까지 해야 한다”며 “과거엔 ‘줄고발’ 사건은 일부 사건만 조사하다 수사를 접었지만 이마저도 불가능하게 됐다”고 했다. 서울 서부경찰서는 자신이 고소한 사건이 ‘무혐의’ 처분되자 1년 넘게 ‘경찰이 내 사건을 뭉갰다’며 진정을 넣는 일부 민원인에게 시달리고 있다.&lt;br&gt;&lt;br&gt;과도한 고소·고발로 인한 피해는 결국 국민들에게 고스란히 돌아가고 있었다. 본지가 최근 서울 경찰서 10곳의 수사관 20여 명을 조사한 결과, ‘허위 고소·고발’ 사건으로 밝혀진 사건을 처리하는 데 평균 6시간 이상이 걸리는 것으로 나타났다. 고소·고발을 넣은 당사자를 불러 최소 1시간 정도 조사를 진행하는 데다가, 진술 조서와 증거물 등을 분석해 수사 보고서를 작성해야 한다. 과장급 경찰에게 결재를 받은 이후에도 송치·불송치 결정서를 작성해야 한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ONQTA2KSQNG45G3DJRLSDIJC34.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=박상훈&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰청에 따르면, 사건 처리 기간이 6개월이 넘는 사건의 비율은 2019년 5.1%에서 2022년 13.9%까지 늘었다. 이 때문에 매년 급증하는 가상 화폐 및 ‘돌려막기’ 폰지 사기 등 다급한 민생 수사도 지체되고 있다는 게 경찰 설명이다.&lt;br&gt;&lt;br&gt;고소·고발을 남발하는 정치권과 시민단체들도 이 같은 현상을 부추기고 있다는 지적이 나온다. 여야 정치권이 당리당략에 따라 수사기관에 고소·고발장을 제출하고 이를 대대적으로 알리는 관행도 수사기관의 수사력을 약화시킨다는 비판이 많다.&lt;br&gt;&lt;br&gt;미국·일본 수사기관은 범죄 혐의가 없어 보이거나, 경미하다고 판단되는 사건에 대해선 자체 판단하에 사건을 접수하지 않고 있다. 민사로 해결할 수 있는 사건들은 일차적으로 개인 간 조정에 맡기는 시스템이다. 이찬희 서울대 로스쿨 객원교수는 “허위 고소·고발로 인한 수사기관의 행정력 낭비나, 피고소인의 변호사 수임료 등 불필요한 비용을 고소·고발인에게 부담시키는 방안을 검토해야 한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/3M2S2YVK3ZAAVMAG7OZCCC42VE.png?auth=629e38139ba098c7ee13ff27d458b7669cceab67daa2a8ae2ed83843e90c7a84&amp;smart=true&amp;width=1200&amp;height=675" type="image/png" height="675" width="1200">
+        <media:description type="plain">일러스트=박상훈</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>강성영 한신대 총장</title>
+      <link>https://www.chosun.com/national/people/2025/05/09/7HGJUIBACNHFFFZ2YA6ICNI4VI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/05/09/7HGJUIBACNHFFFZ2YA6ICNI4VI/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Thu, 08 May 2025 16:57:02 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FHN7GTA6ORF7XKG6B6IM35TFIA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;학교법인 한신학원은 제9대 한신대 총장으로 강성영 현 총장을 재선임했다고 8일 밝혔다. 1997년 한신대 신학부 교수로 부임한 뒤 한국기독교교회협의회(KNCC) 생명윤리·문화영성위원회 위원, 한국기독교윤리학회 회장 등을 역임했다. 임기는 오는 9월부터 4년.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[인사] 과학기술정보통신부 외</title>
+      <link>https://www.chosun.com/national/obituary-personnel/2025/05/09/YBYFHFFR5FH4ZJIXWU26OF27RY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2025/05/09/YBYFHFFR5FH4ZJIXWU26OF27RY/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Thu, 08 May 2025 16:58:10 +0000</pubDate>
+      <content:encoded>▲&lt;b&gt;과학기술정보통신부&lt;/b&gt;◇국장급 전보▷중앙전파관리소장 최준호▷방송진흥정책관 강도성&lt;br&gt;&lt;br&gt;▲&lt;b&gt;산업통상자원부&lt;/b&gt;◇부이사관 승진▷부이사관 임용 이원희◇과장급 전보▷운영지원과장 남명우&lt;br&gt;&lt;br&gt;▲&lt;b&gt;고용노동부&lt;/b&gt;◇3급 승진▷감사담당관 오태웅▷고용서비스정책과장 이병성▷고용보험기획과장 하창용▷고용노동부(교육부 중등직업교육정책과장 인사교류) 박희준&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[부음] 김남진 前 고려대 법대 교수 별세 외</title>
+      <link>https://www.chosun.com/national/obituary-personnel/2025/05/09/75Y6QJITZ5HM3NMVQTH5XE2YFY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2025/05/09/75Y6QJITZ5HM3NMVQTH5XE2YFY/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Thu, 08 May 2025 16:57:43 +0000</pubDate>
+      <content:encoded>▲&lt;b&gt;김남진&lt;/b&gt; 前 고려대 법대 교수 별세, &lt;b&gt;김동민&lt;/b&gt; 조부상=7일16시 강남세브란스병원, 발인 10일7시30분, (02)2019-4000&lt;br&gt;&lt;br&gt;▲&lt;b&gt;윤금례&lt;/b&gt; 별세, &lt;b&gt;정영팔&lt;/b&gt; 前 KBC광주방송 보도국장 모친상=8일1시 광주광역시 금호장례식장, 발인 10일12시, (062)227-4382&lt;br&gt;&lt;br&gt;▲&lt;b&gt;조유&lt;/b&gt; 前 나이키 이사 별세, &lt;b&gt;박나영&lt;/b&gt; 남편상=7일12시30분 서울아산병원, 발인 10일6시40분, (02)3010-2000&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“지지율 99% 정치인이라도 법 어기면 처벌하는 게 판사의 일”</title>
+      <link>https://www.chosun.com/national/court_law/2025/05/09/KAXI6CKIVJAXFOSBRUU2DVNWXI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/05/09/KAXI6CKIVJAXFOSBRUU2DVNWXI/</guid>
+      <dc:creator>방극렬 기자, 김은경 기자, 김나영 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 08 May 2025 16:23:03 +0000</pubDate>
+      <content:encoded>이재명 더불어민주당 대선 후보의 공직선거법 사건 재판이 대선 이후로 미뤄졌는데도, 민주당의 사법부 공격은 멈추지 않고 있다. 민주당은 8일 조희대 대법원장의 대선 개입 의혹을 밝히겠다며 특검법을 발의하겠다고 했고, 오는 14일엔 조 대법원장을 국회로 불러 청문회를 연다고 한다. 대놓고 “사퇴하라”는 논평도 냈다. 지난 1일 이 후보에게 유죄 취지 판결을 내린 대법관들에게 책임을 묻겠다는 모양새다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4TO47SLXEZCNFEGNMZKUI6URTU.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=백형선&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전례 없는 ‘사법부 압박 사태’에 대해 법률 전문가들의 견해를 들어봤다. 법조윤리협의회 사무총장을 맡고 있는 김대광 변호사와 부장판사 출신의 김익현 변호사, 한국형사법학회장을 지낸 한상훈 연세대 교수는 우려를 표하면서도 미묘하게 서로 다른 평가를 내놨다.&lt;br&gt;&lt;br&gt;&lt;b&gt;“유죄판결 했다고 청문회·특검 하면… 앞으로 권력자는 독립된 재판 불가능"&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;김대광 변호사 법조윤리협의회 사무총장&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6N45NTLXINCULKCJEGBRNIKPWE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;8일 오후 서울 서초구 법무법인 대겸에서 김대광 변호사가 본지와의 인터뷰를 갖고 있다./장련성 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;민주당은 ‘왜 하필 대선을 앞둔 지금 당선이 유력한 이재명 후보에게 유죄판결을 내렸느냐’고 문제 삼는다. 질문 자체가 틀렸다. 3년 전 대선에서 허위 사실을 공표한 혐의를 받는 정치인 사건이 왜 아직도 결론 나지 않았는지부터 따져야 하는 것이다. 대법관들은 이 후보가 대통령이 되면 재판을 계속할 수 있을지 모르는 사건을 대선 이후로 미루는 것이 오히려 정치적 오해를 불러올 수 있다고 판단한 것 같다.&lt;br&gt;&lt;br&gt;민주당이 대법원장·판사 탄핵과 대법원장 상대 청문회, 특검 등으로 사법부를 협박하는 건 매우 우려스럽다. 조희대 대법원장이 전원합의체 유죄 판결을 주도했다는 이유로 청문회에 불려가거나 특검 수사를 받아 고초를 겪는다면 어떻게 될까. 상식적인 판사와 변호사라면 ‘입법권을 장악한 거대 야당이 재판과 판결이라는 룰을 흔드는구나’ ‘피고인이 권력자라면 독립된 재판이 불가능하구나’ 하는 본능적인 두려움을 느낄 것이다. 파기환송심 재판부가 재판을 미루기로 한 판단은 존중하지만, 민주당의 공세를 의식할 수밖에 없었을 것이다.&lt;br&gt;&lt;br&gt;결국 이 후보에 대한 유죄 판결과 신속 재판이 마음에 안 든다고 대법원장과 판사를 탄핵하겠다는 것, 청문회에 불러 모욕 주겠다는 것 아닌가. 사법 시스템 자체를 뒤흔들고 재판 독립을 심각하게 침해하는 일이다.&lt;br&gt;&lt;br&gt;민주당은 형사 피고인이 대통령에 당선되면 재판을 정지하는 형사소송법 개정안과 이 후보가 기소된 허위 사실 공표죄의 ‘행위’ 부분을 삭제하는 내용의 선거법 개정안 등을 밀어붙이며 ‘사법 개혁’이라고 말한다. 이 후보가 대법원에서 무죄판결을 받았어도 개혁을 말했을까 싶다. 국민 기본권을 보호하는 법과 제도에 손을 대는 것은 극도로 신중해야 한다.&lt;br&gt;&lt;br&gt;&lt;b&gt;“대법 선고, 정치 개입이라 볼 수 없어… 李 재판 대선 이후로 미룬 것 아쉽다"&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;김익현 변호사 前 서울중앙지법 부장판사&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KZMEDYQ6JNDGLMNUMPDRYYV2WY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;8일 오후 서울 서초구 법무법인 서휘에서 김익현 변호사가 본지와 인터뷰하고 있다./고운호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;사법부의 독립성 침해가 우려되는 상황이다. 대법원장과 대법관에 대한 특검은 사건 기록을 언제부터 봤는지, 6만쪽 기록을 다 읽었는지를 조사하겠다는 것인데 판사의 재판 과정을 수사하는 일은 어디에도 없는 일이다. 대법관은 이른바 최고 법관이다. 재판연구관들의 도움을 받아 하루에도 사건을 20건씩 처리한다. 이재명 후보 사건은 이미 사실관계가 다 파악돼 있어서 법리 해석에 대한 판단만 했을 것이다.&lt;br&gt;&lt;br&gt;민주당은 이 후보에게 유죄를 선고한 대법관들(10명)에 대해서만 고발 또는 탄핵 이야기를 한다. 수사기관이나 헌법재판소에서 기각될 가능성이 높겠지만, 또 직무 정지 등 대법원 마비 사태가 초래될 수 있다. 대법관 직무는 대행할 수도 없다. 중범죄자에 대한 재판을 구속 기간 안에 못 마쳐서 풀어줘야 할 수도, 심리 불속행(심리 없이 곧바로 상고를 기각하는 절차)도 기간 안에 못 해 큰 혼란을 빚을 수 있다.&lt;br&gt;&lt;br&gt;대법원 전원합의체의 유죄 취지 파기환송 선고는 대법원 판례 등으로 볼 때 타당했다. 그런데도 파기환송심 재판부가 여론 압박에 못 이겨 재판 일정을 대통령 선거 이후로 미룬 것은 아쉽다. 이 후보 측이 기일 변경 신청서에 ‘이 후보가 사법 리스크에도 여론조사에서 지지율 1위를 보이는 것은 국민이 피선거권을 박탈하지 말라는 것’이라고 주장했는데, 수긍하기 어렵다. 설사 국민 지지율이 99%라고 해도 법을 어긴 정치인을 처벌하는 것은 법원과 판사가 해야 하는 일이다.&lt;br&gt;&lt;br&gt;대법원의 사건 처리가 이례적이었던 것은 맞는다. 하지만 애초에 1·2심이 법정 기한(6·3·3 원칙)을 지키지 못했다. 곧 대선을 하는데, 이전 대선 때 사건을 처리하지 못한다는 것 자체가 말이 안 되는 것이다.&lt;br&gt;&lt;br&gt;&lt;b&gt;“파기환송 판결, 절차·법리 다 잘못… 대법 졸속 재판이 국회 압박 자초"&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;한상훈 교수 前 한국형사법학회장&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6S2H2ZFYWBGZZBLN2XZXG534TI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한상훈 연세대학교 법학전문대학원 교수가 작년 2월 서울 서대문구 연세대학교 광복관에서 인터뷰하고 있는 모습./한국일보&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국회의 사법부 압박은 대법원이 자초한 일이다. 이재명 후보의 공직선거법 사건에 대한 대법원 전원합의체의 졸속 판결이 없었다면 국회가 법관 탄핵 같은 ‘최후의 수단’을 꺼내 들 일도 없었을 것이다.&lt;br&gt;&lt;br&gt;대법원의 파기환송 선고는 절차적으로도 법리적으로도 잘못됐다. 상고심은 하급심 판단에 법리적 문제가 있는지 따지는 법률심인데, 이번 판결에선 직접 사실 판단을 해 이 후보의 발언이 허위라고 단정했다. 이례적으로 빨리 선고한 것도 문제다. 법을 지킨다고 해도 대법원은 항소심 선고(3월 26일) 3개월 뒤인 6월 25일까지만 결론 내면 되는 상황이었다. 그런데 비정상적인 심리 속도로 이를 50일 넘게 앞당겼다. 정치 개입 의도가 다분하다. 유력한 야당 후보의 피선거권을 박탈할 수 있었고, 이는 비상계엄으로 군사 쿠데타를 시도했던 세력의 정권을 연장하는 결과로 이어지기 때문에 ‘사법 쿠데타’라는 지적이 나온 것이다.&lt;br&gt;&lt;br&gt;국회가 사법부의 정치 개입으로 국민 주권이 침해되는 절박한 상황에 이르게 되자, 삼권분립을 침해할 소지가 있는 수단까지 꺼내 든 것으로 보인다. 서울고법이 대선 전 파기환송심 재판을 강행하려고 했다면 탄핵을 통해 이를 정지시킬 수밖에 없었을 것이다. 물론 법관 탄핵이나 대법원장 특검 등은 신중해야 한다. 사법부 독립이라는 가치 수호를 위해서는 국회도 절제가 필요하다.&lt;br&gt;&lt;br&gt;파기환송심 재판부가 대선 이후로 재판을 미룬 것은 적절했다. 헌법 116조는 균등한 선거운동 기회를 보장하고 있다. 선거운동 기간에 대선 후보를 재판에 나오라는 건 위헌 소지가 있는 것이다. 대통령 당선 후에 재판을 계속할지는 나중에 판단할 문제이고, 아직 선거 결과가 나오지도 않았는데 선거운동 기회를 뺏는 건 잘못이다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>이용객 많아진 추억의 교외선</title>
+      <link>https://www.chosun.com/national/regional/gyeonggi-incheon/2025/05/09/45MJB33GCVD5HAAMH35ZBJOHCQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/gyeonggi-incheon/2025/05/09/45MJB33GCVD5HAAMH35ZBJOHCQ/</guid>
+      <dc:creator>의정부=김현수 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 08 May 2025 16:40:57 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3TY77XOWX5BYDHB5L5WS6MBOWU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;옛 모양을 살린 교외선 무궁화호 열차 모습. /양수열 영상미디어 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 1월 재개통한 경기 교외선 열차에 하루 평균 600명이 넘는 승객이 몰리고 있다. 주말에는 1000명 이상이 탄다. 경기도 관계자는 “교외선이 서울 근교의 가성비 여행 코스로 떠오르고 있다”고 했다. 교외선은 경기 고양과 의정부를 연결하는 길이 30.3㎞ 철도 노선이다. 1963년 개통했으나 적자가 쌓이며 2004년 운행을 멈췄다. 1980~1990년대 대학생들의 MT(엠티) 명소였던 일영, 송추 등을 지나 ‘청춘 열차’로 불렸다. 지난 1월 21년 만에 재개통했다. &lt;br&gt;&lt;br&gt;8일 경기도에 따르면, 지난 1~4월 교외선 열차를 탄 승객은 총 5만5411명으로 집계됐다. 하루 평균 504명이다. 승객이 계속 늘어 지난달에는 하루 평균 669명이 교외선 열차를 탔다. 주말 승객은 1056명이었다. &lt;br&gt;&lt;br&gt;교외선이 운행을 중단할 당시 하루 평균 승객은 93명이었는데 눈에 띄게 늘어난 것이다. 승객이 증가하자 코레일은 지난달부터 운행 횟수를 하루 8회에서 20회로 늘렸다.&lt;br&gt;&lt;br&gt;코레일은 교외선을 재개통하면서 과거 역사(驛舍)의 모습을 최대한 재현했다. 일영역은 낡은 굴뚝과 투박한 역 간판이 그대로 남아 있다. 방탄소년단(BTS)이 여기서 뮤직비디오를 찍었다. 일부 역은 역무원이 없는 무인 역이다.&lt;br&gt;&lt;br&gt;덕분에 2030세대에게 소셜미디어에 올릴 사진 찍기 좋은 명소가 됐다. “영화 세트장 같다” “1980년대로 시간 여행을 하는 것 같다”는 반응이 나온다. &lt;br&gt;&lt;br&gt;차표 값은 구간 상관없이 2600원. 고양에서 의정부까지 약 50분 걸린다. 열차는 2량짜리 무궁화호다. 이 역시 옛 모습을 살려 ‘레트로풍’으로 꾸몄다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>낮은 해수온에 실종된 연평도 꽃게… 4월 어획량 90% 뚝</title>
+      <link>https://www.chosun.com/national/regional/gyeonggi-incheon/2025/05/09/OBRPHPKRUFHLDHVCI4OHGLTEYA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/gyeonggi-incheon/2025/05/09/OBRPHPKRUFHLDHVCI4OHGLTEYA/</guid>
+      <dc:creator>인천=이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 08 May 2025 16:39:45 +0000</pubDate>
+      <content:encoded>지난달 서해 연평도 어장의 꽃게 어획량이 전년 대비 90% 줄어든 것으로 나타났다. 꽃게철 연평도 어민들의 근심이 커지고 있다. 꽃게 가격이 오를 가능성도 있다. &lt;br&gt;&lt;br&gt;8일 인천 옹진군에 따르면, 지난달 연평도 어장의 꽃게 어획량은 7807㎏으로 작년 4월(7만4154㎏)보다 89.5% 감소했다. 4월 어획량이 1만㎏도 안 된 건 2020년 이후 5년 만이다.&lt;br&gt;&lt;br&gt;연평도 어장에서 28년간 꽃게를 잡고 있다는 김모(50)씨는 “한번 나가면 300㎏은 잡아야 선원들 인건비와 기름값을 댈 수 있는데 요즘은 어획량이 30~40㎏밖에 안 된다”며 “선주나 선원 모두 버티기 힘든 상황”이라고 했다. 어민 박모(57)씨는 “35년째 꽃게잡이 일을 하고 있지만 올봄이 가장 어렵다”고 했다. &lt;br&gt;&lt;br&gt;국립수산과학원 서해수산연구소는 꽃게 어획량이 줄어든 이유로 예년보다 낮은 해수 온도를 꼽았다. &lt;br&gt;&lt;br&gt;꽃게는 바닷물 온도가 10도 이상 돼야 왕성하게 활동하는데 올해는 4월이 되도록 그만큼 상승하지 못한 것이다. &lt;br&gt;&lt;br&gt;지난달 연평도 어장의 수온은 8~11.9도로 작년 4월(8.6~12.6도)보다 1도 정도 낮았다. 이수정 국립수산과학원 서해수산연구소 연구사는 “4월이 되면 서해로 따뜻한 난류가 유입돼 해수 온도가 상승하는데 올해는 난류가 서해 먼바다 쪽으로 흘러가면서 연평도 근해의 수온이 충분히 오르지 않았다”고 설명했다.&lt;br&gt;&lt;br&gt;어민들은 꽃게 조업 기간을 연장해야 한다고 주장한다. 꽃게는 3~6월과 9~11월에만 잡을 수 있는데 어획량이 급감한 만큼 기간을 확대해야 한다는 것이다.&lt;br&gt;&lt;br&gt;연평도 어장에선 현재 꽃게 어선 44척이 조업하고 있다. 전국 꽃게 어획량의 8~9%가 연평도산이라고 한다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>6·25 전사자 얼굴 복원… 처음 본 아버지</title>
+      <link>https://www.chosun.com/national/national_general/2025/05/09/L3YWYHTAIJB2LO4FUAJG72YLNM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/05/09/L3YWYHTAIJB2LO4FUAJG72YLNM/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Thu, 08 May 2025 16:36:50 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KMR3V5A2SVGSFK3QV4FSPEFNZY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/김지호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;어버이날인 8일 서울 동작구 국방부 유해발굴감식단에서 6·25전쟁 전사자의 영정 사진을 유가족에게 전달하는 행사가 열렸다. 영정 사진은 전사자들의 얼굴을 복원해 만들었다. 이날 유가족 송재숙씨가 아버지 고(故) 송영환 일병의 영정 사진을 붙잡고 울먹이고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>전국 시내버스 28일 첫 동시 파업 예고</title>
+      <link>https://www.chosun.com/national/national_general/2025/05/09/VENLASMAIBECXFNLQZXDO5LDKQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/05/09/VENLASMAIBECXFNLQZXDO5LDKQ/</guid>
+      <dc:creator>박진성 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 08 May 2025 16:35:42 +0000</pubDate>
+      <content:encoded>한국노총 전국자동차노조연맹(자동차노련) 산하 전국 22개 지역 시내버스 노조가 오는 28일 총파업을 하겠다고 예고했다. &lt;br&gt;&lt;br&gt;자동차노련은 8일 전국 대표자 회의를 열고 이 같은 계획을 발표했다. 서종수 자동차노련 위원장은 “사 측과 임금·단체협약 교섭이 결렬되면 오는 28일 첫차부터 전국 동시 파업에 돌입한다”고 밝혔다. 실제로 전면 파업을 벌이면 사상 첫 전국 시내버스 동시 파업 사례가 된다. 버스 노조는 대부분 자동차노련 산하다.&lt;br&gt;&lt;br&gt;통상 임금 문제를 둘러싼 서울 시내버스 노사 간 분쟁이 전국으로 확산하는 모습이다. 서울 시내버스 노사는 작년 말부터 임·단협 협상을 벌였지만 통상 임금의 범위를 놓고 입장 차를 좁히지 못하고 있다. 노조는 정기 상여금을 통상 임금에 포함해야 한다고 주장하는 반면 사 측은 인건비 부담이 너무 크니 통상 임금 등 임금 체계를 먼저 손보자는 입장이다. 통상 임금은 각종 수당과 퇴직금 등의 기준으로 통상 임금이 오르면 초과근무 수당 등이 연동해 뛴다. 전국 시내버스 노사 대부분이 이 문제로 갈등을 빚고 있다.&lt;br&gt;&lt;br&gt;서울 시내버스 노조는 지난달 30일 한 차례 버스 운행을 지연시키는 ‘준법 투쟁(태업)’을 벌였고 지난 7일 이를 재개했다. 서울 시내버스 노조는 27일까지 태업을 계속할 것이라고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>카카오 압수수색</title>
+      <link>https://www.chosun.com/national/incident/2025/05/09/DSMJFRC6LVE3HNDRV7BJOELNYY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/05/09/DSMJFRC6LVE3HNDRV7BJOELNYY/</guid>
+      <dc:creator>수원=김현수 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 08 May 2025 16:35:17 +0000</pubDate>
+      <content:encoded>경찰이 카카오 사옥을 압수 수색했다. 카카오가 중소기업의 기술을 빼돌려 카카오톡의 음성 통화 기능인 ‘보이스톡’을 개발했다는 의혹 때문이다.&lt;br&gt;&lt;br&gt;경기남부경찰청 안보수사과는 8일 경기 성남시 분당구에 있는 카카오 판교아지트 사옥을 압수 수색했다. 구체적으로 카카오톡 사무실을 압수 수색한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;통신 설루션 기업인 네이블이 작년 3월 카카오를 부정경쟁방지 및 영업비밀보호법 위반 혐의로 고소한 데 따른 것이다. 네이블 측은 카카오가 네이블의 인터넷 전화(VoIP) 기술을 탈취해 보이스톡을 개발했다고 주장하고 있다. 네이블에서 카카오로 이직한 개발자들이 회사의 영업 비밀인 인터넷 전화 관련 원천 기술을 카카오로 빼돌렸다는 것이다.&lt;br&gt;&lt;br&gt;경찰은 이후 기술 탈취 여부에 대한 기초 조사를 벌였고 이날 카카오톡 사무실을 압수 수색하며 강제 수사에 착수했다. 경찰 관계자는 “(네이블 측의) 고소에 따라 압수 수색한 것”이라며 “수사 중이라 구체적인 내용은 밝히기 어렵다”고 했다.&lt;br&gt;&lt;br&gt;카카오와 네이블은 그동안 인터넷 전화 기술을 두고 소송전을 벌여왔다. 대법원은 카카오가 네이블을 상대로 제기한 특허 무효 소송에 대해선 네이블 손을 들어줬다. 반면에 네이블이 카카오를 상대로 낸 특허 침해 금지 소송에선 카카오 승소 판결을 내렸다.&lt;br&gt;&lt;br&gt;카카오 측은 “네이블은 2011년 카카오로 이직한 직원들이 기술을 빼돌렸다고 주장하는데 당시 인터넷 전화 기술은 업계에선 이미 일반적인 기술이었다”고 했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“2033년부터 65세까지 계속 고용”</title>
+      <link>https://www.chosun.com/national/labor/2025/05/09/Q6B5FZDZ4REWHPVIV63VJQEH6M/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/labor/2025/05/09/Q6B5FZDZ4REWHPVIV63VJQEH6M/</guid>
+      <dc:creator>김아사 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 08 May 2025 16:34:47 +0000</pubDate>
+      <content:encoded>대통령 직속 경제사회노동위원회(경사노위)는 2033년까지 단계적으로 기업에 65세까지 근로자 고용 의무를 지우는 내용의 정년 연장 방안을 8일 내놓았다. 법정 정년을 60세에서 65세로 ‘일괄 상향’하자는 노동계 주장과, 고용 자율성을 존중해 ‘퇴직 후 재고용’해야 한다는 기업 입장을 절충한 것이다.&lt;br&gt;&lt;br&gt;경사노위 산하 인구구조 변화 대응 계속고용위원회의 이영면 위원장은 이날 정년 연장 논의 결과를 종합한 ‘고령자 계속 고용 의무 제도’ 도입안을 공익위원 제언 형식으로 발표했다. 방안의 핵심은 개별 사업장에서 노사가 자율적으로 임금 조정 등 합의를 통해 정년을 연장토록 하되, 노사 합의가 없는 사업장에는 사업주에게 고령자 계속 고용 의무를 부여하자는 것이다. &lt;br&gt;&lt;br&gt;이는 정년에 도달한 근로자가 희망할 경우 기존 직무와 근로시간을 유지하면서 계속 고용하고, 이로 인해 경영상 어려움이 있거나 근로자가 조정을 원한다면 근로시간 단축이나 직무 변경도 가능토록 하는 방안이다. 임금 수준은 생산성에 상응하는 적정 임금을 노사 공감하에 산정해 적용토록 했다. 청년층이 선호하는 일자리인 대기업과 공공기관의 경우, 정년 후 관계사로 이동 등의 방식으로 계속 고용하더라도 의무를 이행한 것으로 간주키로 했다. &lt;br&gt;&lt;br&gt;경사노위는 국민연금 수급 연령(현재 63세)이 2028년 64세, 2033년 65세로 높아지는 것을 감안해 계속 고용 의무를 2028~29년 62세, 2030~31년 63세, 2032년 64세, 2033년 65세로 단계적으로 높이자고 했다. 이는 사회적 합의를 통해 법정 정년 60세를 일괄 연장하기에 앞선 과도적 조치라는 설명이다. &lt;br&gt;&lt;br&gt;이에 대해 한국경영자총협회는 “가장 중요한 임금체계 개편 방안이 전혀 제시되지 않았고, 기업에 재고용 대상자 선택권을 부여하지 않아 고령 근로자 모두를 재고용하라고 강제한 것”이라며 반발했다. 청년 고용 감소 등 부작용도 우려된다는 것이다. 반면 한국노총은 “경사노위 안에 따르면 고용 형태가 바뀌고 임금이나 노동 조건이 크게 떨어질 수밖에 없다”며 반발했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>尹 12일 형사재판 땐 지하 출입 허용 않기로</title>
+      <link>https://www.chosun.com/national/court_law/2025/05/09/LDSWWDJTUBGYTFTGCB4MCS2SBE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/05/09/LDSWWDJTUBGYTFTGCB4MCS2SBE/</guid>
+      <dc:creator>김희래 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 08 May 2025 16:34:25 +0000</pubDate>
+      <content:encoded>법원이 윤석열 전 대통령의 지하 주차장을 통한 법정 출입을 허용하지 않기로 8일 결정했다. 이에 따라 윤 전 대통령이 오는 12일 내란 혐의 3차 재판을 받기 위해 법정에 출석하는 모습이 공개된다. &lt;br&gt;&lt;br&gt;서울법원종합청사를 관리하는 서울고법은 이날 “(윤 전 대통령이) 법원 지상 출입구를 통해 출입하도록 조치했다”며 “청사 주변 상황 등 여러 사정을 종합적으로 고려했다”고 밝혔다. 법원은 앞선 윤 전 대통령의 두 차례 재판에서 대통령경호처 요청을 받아들여 지하 주차장을 통한 비공개 출입을 허용했다. 이번 법원 조치로 윤 전 대통령이 법정에 나오면서 포토라인에 설 가능성도 있다. 법원 관계자는 “가능하면 포토라인과 관련해 협조할 것”이라고 했다.&lt;br&gt;&lt;br&gt;법원의 윤 전 대통령 비공개 출석 불허를 놓고 법조계에선 법원이 정치권 눈치를 본 것이라는 해석이 나왔다. 그동안 더불어민주당은 윤 전 대통령의 재판을 맡은 서울중앙지법 형사25부(재판장 지귀연)가 윤 전 대통령의 구속을 취소하고, ‘비공개 출석’ 특혜를 줬다고 비판해 왔다. 부장판사 출신 변호사는 “지난 7일 이재명 민주당 대선 후보의 선거법 사건 파기환송심 일정이 연기된 데 이어 윤 전 대통령의 비공개 출석도 불허됐다”며 “법원이 야당 눈치를 보는 것”이라고 했다.&lt;br&gt;&lt;br&gt;한편, ‘순직 해병 수사 외압’ 의혹을 수사 중인 고위공직자범죄수사처는 이날 대통령비서실과 국가안보실에 대한 압수 수색을 진행했다. 전날에는 압수 수색 범위 등이 합의되지 않아 집행이 무산됐지만, 이날 두 기관은 임의 제출 방식으로 관련 자료를 제출했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘李 대법 선고’ 이후 갈라진 판사들, 법관대표회의 개최 놓고 진통</title>
+      <link>https://www.chosun.com/national/court_law/2025/05/09/QFXXCFUYDJDCVJIFJQ4ZOMXYVM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/05/09/QFXXCFUYDJDCVJIFJQ4ZOMXYVM/</guid>
+      <dc:creator>양은경 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 08 May 2025 16:16:58 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XYGLHELBYJ7KGBSMJBM2Z7ZSCE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 대법원 청사의 모습./뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이재명 더불어민주당 대선 후보의 공직선거법 위반 사건 대법원 선고와 민주당의 사법부 흔들기에 대해 전국 법원의 법관 대표들이 ‘전국법관대표회의’ 개최 논의에 들어갔다. 8일 내부적으로 개최 여부를 두고 투표를 진행했으나, 결론을 내지 못해 다음 날로 미뤘다. &lt;br&gt;&lt;br&gt;법관대표회의는 의장 직권 또는 법관 대표 5분의 1 이상(26명)의 요구가 있을 때 회의를 소집할 수 있다. 회의가 열리면 발의 안건에 대해 선언적 의결이 가능하다. 법관대표회의는 이날 온라인 단체 대화방에서 오후 6시를 기한으로 임시회의 소집에 대한 투표를 진행했다. 그러나 “임시회의 소집 여부에 대해 소속 법관의 의사 수렴을 위한 시간이 더 필요하다”는 의견에 따라 투표 기한을 9일 오전 10시까지로 연장하기로 했다. &lt;br&gt;&lt;br&gt;의장인 김예영 서울남부지법 부장판사는 대법원의 신속 재판에 대한 유감 표명 등을 안건으로 올렸으나, 일부 판사가 민주당의 사법부 독립 침해 안건 추가를 요구한 것으로 전해졌다. 법원 한 관계자는 “26명도 채우지 못할 정도로 판사들 의견이 갈린 것으로 안다”면서 “법원 내부가 두 쪽으로 나뉘고 있는 분위기”라고 전했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4TO47SLXEZCNFEGNMZKUI6URTU.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=백형선&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대법원 전원합의체가 이 후보에게 유죄 취지 판결을 내린 이후, 판사들은 민주당의 도 넘은 공세를 우려하는 쪽과 대법원을 공격하는 쪽으로 양분되고 있다. 김주옥 서울중앙지법 부장판사는 법원 내부망에서 공개적으로 조희대 대법원장 사퇴를 요구한 반면, 성금석 부산지법 부장판사는 국정감사가 재판·수사 중인 사건의 소추에 관여할 목적으로 행사돼선 안 된다는 내용의 ‘국정감사법 8조’를 게시했다.&lt;br&gt;&lt;br&gt;한편 김현·이종엽·김영훈 등 전 대한변협회장 9명은 이날 성명을 내고 “민주당은 삼권분립을 위협하는 사법부 흔들기를 중단하라”고 촉구했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>백종원, 이번엔 ‘닭뼈 튀김기’ 식품위생법 위반 의혹으로 경찰 내사</title>
+      <link>https://www.chosun.com/national/national_general/2025/05/09/2DSSPTBQT5HWDMCNDCUYFSVFPQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/05/09/2DSSPTBQT5HWDMCNDCUYFSVFPQ/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 08 May 2025 15:51:48 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FUGLZQ3GZYNPXXWBC5IC4A342A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;백종원 더본코리아 대표. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;원산지 거짓 표기 의혹 등 연이은 논란 끝에 방송 활동 중단을 선언한 백종원 더본코리아 대표가 이번엔 적정한 검사 절차를 거치지 않은 조리도구를 가맹점에 공급했다는 의혹으로 경찰 내사(입건 전 조사)를 받게 됐다. &lt;br&gt;&lt;br&gt;8일 경찰에 따르면 서울 강남경찰서는 최근 국민신문고 민원을 접수해 백 대표와 더본코리아 법인의 식품위생법 위반 의혹에 대한 내사를 시작했다.&lt;br&gt;&lt;br&gt;민원인은 더본코리아가 허가받지 않은 업체에 ‘닭뼈 튀김기’ 제작을 의뢰했고, 관련법상 요구되는 검사 없이 가맹점 54곳에 무료 공급했다는 의혹을 제기했다.&lt;br&gt;&lt;br&gt;식품위생법에 따르면 식품의약품안전처(식약처)가 정한 규격에 맞지 않는 기구와 용기, 포장 등은 식약처장 등이 지정한 식품 전문 시험·검사기관의 검토를 거쳐야 한다.&lt;br&gt;&lt;br&gt;백 대표가 이끄는 더본코리아는 지난해 11월 상장 이후 주가가 곤두박질치고, 백석된장, 고구마빵 등 일부 제품에서 원산지 표기 의혹이 제기되는 등 논란이 끊이지 않고 있다. &lt;br&gt;&lt;br&gt;백 대표는 지난 6일 자신의 유튜브 채널을 통해 “지금부터 저는 현재 촬영 중인 프로그램을 제외하고 모든 방송 활동을 중단하겠다”며 “이제 방송인이 아닌 기업인 백종원으로서 저의 모든 열정과 온 힘을 오롯이 더본코리아의 성장과 가맹점주님들의 발전에 집중하도록 하겠다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[오늘의 날씨] 2025년 5월 9일</title>
+      <link>https://www.chosun.com/national/national_general/2025/05/09/IK5WJHVXXRHQTLVNOBOSSS5HKQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/05/09/IK5WJHVXXRHQTLVNOBOSSS5HKQ/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Thu, 08 May 2025 15:35:36 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RFOC5TYKM5DA3HON3ZCOH5MB6A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[입에 착착 붙는 일본어] 면접시험에서 떨어지다</title>
+      <link>https://www.chosun.com/national/nie/japanese/2025/05/09/YXGXF4W4FBESDIU5G45JJL22TQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/japanese/2025/05/09/YXGXF4W4FBESDIU5G45JJL22TQ/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Thu, 08 May 2025 15:33:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CFOQESHGA5DGVHL7MMRYUOEK2E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[매일매일 중국어 한마디] 역사상 최고치</title>
+      <link>https://www.chosun.com/national/nie/chinese/2025/05/09/5WYQINHZ4BAZTJKGFBPO6BAVJI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese/2025/05/09/5WYQINHZ4BAZTJKGFBPO6BAVJI/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Thu, 08 May 2025 15:33:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZJXTYEPHG5ENZDHUATTB23GNOA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[두근두근 뇌 운동] [2617] 사다리를 타자</title>
+      <link>https://www.chosun.com/national/nie/2025/05/09/FXCNV6E5UZBHFECNU56GNA5ZFY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/2025/05/09/FXCNV6E5UZBHFECNU56GNA5ZFY/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Thu, 08 May 2025 15:33:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/J26IPTW2JFBGLGV6UG7EJRHAKY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[신문으로 배우는 실용한자] 개천룡(개川龍)</title>
+      <link>https://www.chosun.com/national/nie/chinese_character/2025/05/09/3QHNZOLQ7RDO7GITX63Y4B37VI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese_character/2025/05/09/3QHNZOLQ7RDO7GITX63Y4B37VI/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Thu, 08 May 2025 15:33:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LY2DV4NAEZF5DJAWGES36YNXJU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[스피킹이 강해지는 영어] short-staffed</title>
+      <link>https://www.chosun.com/national/nie/english/2025/05/09/TAGNLSG7XVDDDC4FJXTA5OP6PI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/english/2025/05/09/TAGNLSG7XVDDDC4FJXTA5OP6PI/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Thu, 08 May 2025 15:33:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AT4H4GZWDJCYFHX7ARL2EYCKUA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[법없이도 사는법]李 재판연기로 주목받는 ‘헌법 84조’ 논란</title>
+      <link>https://www.chosun.com/national/court_law/2025/05/09/CCRYZJCWRREETKPDQT34MYO5GE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/05/09/CCRYZJCWRREETKPDQT34MYO5GE/</guid>
+      <dc:creator>양은경 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 08 May 2025 15:00:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BL52CMZLWRPU3WEWBD5MZJW3VE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이재명 더불어민주당 대통령 후보가 1일 오후 서울 종로구 한 음식점에서 열린 '민생시리즈2' 비전형 노동자 간담회를 마친 후 대법원 판결에 대한 입장을 밝히고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;더불어민주당 이재명 후보의 공직선거법 파기환송심이 대선 이후로 연기되면서 대선 이후 재판 진행 가능 여부가 헌법 84조의 해석과 관련해 다시 주목받고 있습니다.&lt;br&gt;&lt;br&gt;헌법 84조는 ‘대통령은 내란 또는 외환의 죄를 범한 경우를 제외하고는 재직 중 형사상의 소추를 받지 아니한다’는 내용입니다. ‘소추’에 재판도 포함된다고 보면 대통령 당선 후 재판은 정지돼야 하고 기소만을 의미한다고 보면 재판은 계속돼야 합니다. &lt;br&gt;&lt;br&gt;이 조항은 제정헌법 당시부터 있던 조항이지만 헌법안을 기초한 유진오 박사도 그 부분에 대해서는 명시적으로 언급하지 않았습니다. 당연히 관련 판례도 없습니다. 따라서 현재로서는 학계에서 이뤄지는 논의를 살펴보는 수밖에 없는데 이 자리에서는 최근 이슈를 반영한 두 개의 견해를 소개하고자 합니다. &lt;br&gt;&lt;br&gt;고려대 로스쿨 장영수 교수는 이 문제를 해석하는 두 가지 틀을 제시합니다. 사전적 의미에 충실할지 아니면 헌법제정권자의 의사를 따를지 여부입니다. 12일 한반도 인권과 통일을 위한 변호사모임(한변) 주최로 개최되는 ‘헌법 84조 해석’ 토론회에서 발표될 그의 발제문에 따르면 그는 소추의 사전적 의미에 대해 “형사사건에 대해 공소를 제기하는 일로서 기소와 같은 의미”라고 합니다. 따라서 헌법의 문구에 충실하게 해석할 경우 대통령에게 재판에 관한 특권은 인정되지 않는다고 합니다. &lt;br&gt;&lt;br&gt;이 경우 다음과 같은 장점이 있습니다. 1)해석의 기본에 충실하고, 2)유죄 확정판결을 받게 되면 대통령직을 수행할 수 없게 된다는 면에서 법치를 관철할 수 있으며 3)유죄 확정판결이 나올 가능성이 높은 사람은 대선후보자로 공천받기 어려워진다는 것입니다.&lt;br&gt;&lt;br&gt;반면 헌법제정권자의 의도에 충실한 해석의 경우 소추에 재판도 포함된다고 합니다. 84조 제정 취지는 형사소추로 인해 피고인으로서 법정에 서는 것이 국가의 위신에 가는 영향이 크다는 데 있기 때문입니다. &lt;br&gt;&lt;br&gt;이 경우 1)문구에 충실한 해석보다 더 합리적 해석을 할 수 있고 2)선거를 통해 나타난 국민의 의사를 존중하게 되고 3)사실상 현직 대통령에 대한 재판 진행이 어려워 퇴직 후가 오히려 더 공정한 재판을 받을 수 있다는 장점이 있습니다. &lt;br&gt;&lt;br&gt;그렇다면 헌법제정권자는 왜 84조에 그러한 의도를 분명히 담지 않았을까요. 장 교수는 그 이유를 ‘현재와 같이 재판 중 대선이 치러지는 상황을 예상하지 못했기 때문’이라고 보고 있습니다. 그도 그럴 것이 기소된 피고인이 대선 후보가 될 일이 없었으니까요. 그는 ‘만일 이런 상황을 고려했으면 헌법제정권자는 재직 중 형사재판 중단을 명했을 가능성이 더 높다’고 합니다. &lt;br&gt;&lt;br&gt;장 교수는 그러면서 이 같은 논란은 결국 법원의 유권해석에 의해 정리될 대상이라고 했습니다. 그런 의미에서 장 교수는 지난 1일 대법원의 파기환송심이 “대선 이후에 재판이 계속되는 상황에 대해서도 충분히 고려한 가운데 내려진 결론”이라고 보고 있습니다. &lt;br&gt;&lt;br&gt;파기자판에 따른 정치적 부담을 피하면서 파기환송을 인해 대선 후에 재판이 계속되는 상황에 대해서도 충분히 고려한 결론이라고 봐야 한다는 것입니다. &lt;br&gt;&lt;br&gt;헌법 84조 문제에 대해 연구해 온 홍익대 법학과 장용근 교수의 견해는 다른 측면에서 참고할만 합니다. 그는 헌법 84조의 불소추특권 범위를 해석할 때 헌법 68조 2항을 함께 고려해야 한다고 주장합니다. &lt;br&gt;&lt;br&gt;이 조항은 “대통령은 궐위된 때 또는 대통령 당선자가 사망하거나 판결 기타의 사유로 그 자격을 상실한 때에는 60일내에 후임자를 선거한다”고 돼 있습니다. 즉 대통령 당선자에 대해 판결로 자격이 상실될 가능성을 규정한 것은 당선이 되더라도 재판은 진행된다는 의미로 해석할 수 있다는 주장입니다. &lt;br&gt;&lt;br&gt;장 교수는 헌법 84조 논란을 통해 형사피고인이 대통령에 당선될 경우 발생 가능한 구체적 문제점을 지적하고 있습니다. 그에 따르면 1)부정선거 등의 유혹 또는 포퓰리즘 정책을 남발할 수 있고 2)헌법재판소, 법무부·검찰에 대한 임명권을 통해 자신의 형사범죄에 영향력을 행사해 그 자체로 법치주의에 위협이 될 수 있으며 3)자신의 형사범죄에 대해 법개정이나 일반사면을 시도할 우려가 있고4) 국론분열과 통치의 혼란을 불러온다는 것입니다. &lt;br&gt;&lt;br&gt;장 교수는 결론적으로 대통령이 불법을 저지르고도 재판을 피한다면 국민들도 법집행을 받아들일 수 없는 문제가 있기 때문에 대선 후에도 재판은 계속돼야 한다는 입장입니다. &lt;br&gt;&lt;br&gt;사실 민주당 주도로 대통령 당선자에 대해서는 형사재판을 정지하는 형사소송법안이 법사위를 통과한 상황에서 ‘헌법 84조 논란’은 크게 의미가 없을 수도 있습니다. ‘재판 정지’를 입법으로 정해 버렸기 때문입니다. 그러나 이 법의 본회의 통과 및 발효 여부 역시 대선 이후에 가려질 가능성이 높은 만큼 최종 결론은 좀 더 지켜볼 필요가 있겠습니다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>10년 전 미얀마로 도주했던 한국예총 간부, 지진 피해 귀국했다 공항서 덜미</title>
       <link>https://www.chosun.com/national/court_law/2025/05/08/C6LCKTXO55GS3PTGPXRKM3YTF4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/05/08/C6LCKTXO55GS3PTGPXRKM3YTF4/</guid>
@@ -676,15 +886,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OBHGVH6XEVLZRN5EJWOHSX2F3M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 2월 제주 한라산 중산간에서 포착된 수컷 꽃사슴. 꽃사슴은 다른 사슴들과 비슷하게 수컷만 뿔이 나고, 1년마다 뿔 전체가 빠지고 새로 돋는 ‘뿔갈이’를 해요. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최근 환경부에서 꽃사슴을 유해 야생 동물로 지정했어요. 농작물에 피해를 끼치고 진드기도 옮긴다는 거예요. 초롱초롱한 눈망울에 순하게 생긴 꽃사슴이 어쩌다 이렇게 천덕꾸러기가 됐을까요. &lt;br&gt;&lt;br&gt;꽃사슴은 원래 호랑이나 표범처럼 한때 우리나라 전역에 살다가 자취를 감춘 안타까운 사연이 있는 동물이랍니다. 밤색 또는 고동색 몸 색깔에, 몸통에는 흰 점박이 무늬를 가진 꽃사슴은 다른 사슴들과는 다르게 어릴 때 생기는 점박이 무늬가 다 자란 뒤에도 없어지지 않죠. 특히 여름철이 되면 점박이 무늬가 더욱 뚜렷해지는데요. 포식자들이 나무에 꽃이 핀 것으로 혼동하도록 하는 위장색이라고 해요. &lt;br&gt;&lt;br&gt;꽃사슴이라는 이름도 여기서 유래됐어요. 흰 점박이 무늬가 매화꽃이 흐드러지게 핀 것 같다고 해서 중국에서는 ‘매화록(梅花鹿)’이라고 불렀고, 우리나라 이름도 꽃사슴으로 굳어졌다고 하죠. 동아시아에서는 예로부터 사슴을 신과 인간을 연결해주는 신비하고 성스러운 존재로 인식했어요. 우리나라에서도 옛날 그림에서 십장생(十長生·오래 사는 열 가지)의 하나로 꽃사슴이 등장하죠. 백제 시대를 대표하는 보물인 금동대향로에도 꽃사슴이 새겨져 있고요. &lt;br&gt;&lt;br&gt;꽃사슴의 야생 서식지는 한반도와 일본, 중국, 대만 등인데요. 꽃사슴도 세부적으로는 열세 종류가 있어요. 이 중에서 잘 알려진 건 일본 꽃사슴이죠. 나라현의 공원에서 사슴들이 자유롭게 거닐면서 사람들이 주는 먹이를 받아먹는 모습을 사진이나 동영상으로 본 적이 있을 거예요. 이 꽃사슴은 몸길이는 최대 115㎝, 어깨높이는 최대 90㎝로 꽃사슴 중에서는 아담한 편이랍니다. &lt;br&gt;&lt;br&gt;우리나라 토종 꽃사슴은 ‘대륙사슴’이라고도 하는데 몸길이는 최대 155㎝, 어깨높이는 최대 115㎝로 위풍당당한 몸집이에요. 황적색 뿔도 양옆으로 떡 벌어져 있죠. 중국 헤이룽장성, 러시아 극동 지역, 북한 개마고원 등에 살고 있는데 남한에서는 1920년대 이후 자취를 감춰서 반달가슴곰이나 따오기처럼 야생에 복원하기 위한 연구가 진행 중이에요.&lt;br&gt;&lt;br&gt;꽃사슴이 살아가는 방식은 아프리카 사자와 비슷한 면이 있답니다. 힘센 수컷이 암컷 10여 마리를 거느리고 무리를 이루고 살고, 다른 수컷들은 두세 마리씩 모여 살아가면서 호시탐탐 무리를 차지할 기회를 노리죠. &lt;br&gt;&lt;br&gt;아름다운 생김새 때문에 순한 동물일 것 같지만 꽃사슴은 사실 아주 거칠고 위험한 습성이 있답니다. 특히 짝짓기철이 되면 기존 우두머리 수컷과 도전자 수컷 사이 ‘결투’가 벌어지는데요. 이때 상대방을 향해 뿔을 겨눈 채 돌진하며 박치기를 하죠. 뿔이 부러지는 등 한쪽이 죽기 직전까지 살벌하게 싸운다고 합니다. 최악의 경우에는 두 녀석의 뿔이 서로 꼬여버려 옴짝달싹 못하고 함께 목숨을 잃는 경우도 드물게 발생한대요. 이런 투쟁을 통해 힘세고 생존력 강한 꽃사슴의 유전자가 대물림 되는 효과가 있대요.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[매일매일 중국어 한마디] 시도하다, 도전하다</title>
-      <link>https://www.chosun.com/national/nie/chinese/2025/05/08/CJS7AGBVWBAMHBKSE62I6YLH3Y/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese/2025/05/08/CJS7AGBVWBAMHBKSE62I6YLH3Y/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 07 May 2025 15:33:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UFQ7GQWHD5FK7JX6E4TZOGGVZI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[두근두근 뇌 운동] [2616] 양손으로 또박또박</title>
       <link>https://www.chosun.com/national/nie/2025/05/08/LESLHXN54FFQRCIOXU4T4XJ67E/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/nie/2025/05/08/LESLHXN54FFQRCIOXU4T4XJ67E/</guid>
@@ -701,33 +902,6 @@
       <description/>
       <pubDate>Wed, 07 May 2025 15:33:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ETMCJLNJUJDRZGWVPJSYPC4G74.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문으로 배우는 실용한자] 보우(保佑)</title>
-      <link>https://www.chosun.com/national/nie/chinese_character/2025/05/08/5HWLQEQ7JBEWJGMILBLLWS74XE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese_character/2025/05/08/5HWLQEQ7JBEWJGMILBLLWS74XE/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 07 May 2025 15:33:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SSFAYAHA2FAI3JEKBQ6YTKVU34.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[스피킹이 강해지는 영어] words can’t express</title>
-      <link>https://www.chosun.com/national/nie/english/2025/05/08/OVAVWSXXNZG3JBBGNXEVAHGTOY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/english/2025/05/08/OVAVWSXXNZG3JBBGNXEVAHGTOY/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 07 May 2025 15:33:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DVLNP7LPWJDFFFFO3X2CYU4I5U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>경찰관이 거액 투자사기 연루 의혹…감찰 착수</title>
-      <link>https://www.chosun.com/national/incident/2025/05/07/2H3IZLYKK5DIVOIA6YCCQK6OEM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/05/07/2H3IZLYKK5DIVOIA6YCCQK6OEM/</guid>
-      <dc:creator>김현수 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 07 May 2025 14:11:35 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/S4JNNA63IJHXYPIIBJ7DXGEVSU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산지역 현직 경찰관 2명이 수백억원대 투자사기 사건에 연루됐다는 의혹이 제기돼 경찰이 감찰에 나섰다.&lt;br&gt;&lt;br&gt;7일 부산경찰청에 따르면, 관내 경찰서 소속 경감급 경찰관 2명이 인공지능(AI) 기술을 개발하는 미국 기업에 투자하면 원금은 물론 고수익을 보장받을 수 있다고 투자자들을 속인 일당과 관련이 있다는 의혹이 제기됐다.&lt;br&gt;&lt;br&gt;해당 사건은 수천명의 투자자들로부터 수백억원을 가로챈 대형 사기 사건으로, 경찰은 이들 경찰관이 동료 및 지인, 친척 등에게 직접 투자를 권유한 정황이 있는지 집중 조사 중이다.&lt;br&gt;&lt;br&gt;경찰에 따르면 이들은 지난해 12월 감찰 부서로부터 경고 조치를 받았던 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>박나래가 밝힌 자택 도난 사건 전말...“중고 명품 가게에 올라와”</title>
@@ -748,24 +922,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5LNLDRIWPWW7Y47WSO6SCNDWWY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이재명 더불어민주당 대통령 후보가 2차 골목골목 경청투어 마지막 날인 7일 오후 전북 전주시의 카페 앞에서 공직선거법 위반 사건 파기환송심 첫 공판기일 연기에 대해 "법원의 합당한 결정＂이라는 입장을 밝히고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이재명 더불어민주당 대통령 선거 후보가 공직선거법 파기환송심 재판을 연기해달라고 법원에 요청하며 대법원이 유죄 취지 판결의 근거였던 ‘일반 선거인의 관점’을 이유로 내세웠다.&lt;br&gt;&lt;br&gt;7일 법조계에 따르면 이 후보 측은 서울고등법원 형사7부(재판장 이재권)에 제출한 13쪽 분량의 의견서에서 총 7가지 항목으로 조목조목 재판 연기 필요성을 주장했다.&lt;br&gt;&lt;br&gt;먼저 이 후보 측은 헌법을 언급했다. 이 후보 측은 ‘대한민국은 민주공화국이고, 대한민국의 주권은 국민에게 있다’라는 헌법 제1조와 ‘모든 국민은 법률이 정하는 바에 따라 선거권을 가진다’라는 헌법 제24조 등을 거론한 뒤, “선거란 대의제 민주주의를 실현하기 위하여 국민이 주권을 행사하는 가장 중요한 기회로, 국가는 국민의 선거권을 제도적으로뿐만 아니라 실질적으로 보장해야 한다”고 주장했다.&lt;br&gt;&lt;br&gt;이 후보 측은 대법원이 앞서 언급했던 ‘일반 선거인의 관점’이라는 표현을 쓰기도 했다. 이 후보 측은 “대법원은 ‘일반 선거인의 관점’을 피고인에 대한 유죄 판단의 근거로 삼았으나, 피고인은 각종 여론조사에서 차기 대통령 지지율 1위를 빼앗긴 적이 없다”며 “이는 국민, 즉 일반 선거인이 피고인의 피선거권을 박탈할 필요가 없다고 판단하고 있는 것”이라고 했다. 지난 1일 대법원은 이 후보의 공직선거법상 허위사실공표죄를 심리하면서 “하나의 답변으로 자연스럽게 연결된 발언이므로 그 연결된 발언 전부의 내용이 일반 선거인에게 주는 전체적인 인상을 기준으로 발언의 의미를 해석해야 한다”고 설명했다. &lt;br&gt;&lt;br&gt;이 후보 측은 선거법 6·3·3 원칙(1심은&amp;nbsp;6개월, 2·3심은 각&amp;nbsp;3개월 이내에 판결하도록 한 규정)에 대해서도 “6·3·3 원칙은 당선된 자가 신속하게 선출직에서 물러나게 하는 데 입법 목적이 있으므로, 피고인과 같이 선거에서 낙선한 사람에게 엄격하게 적용될 규정도 아니다”라고 강조하기도 했다.&lt;br&gt;&lt;br&gt;또 “공직선거법이 선거운동기간 중 후보자의 불체포특권을 보장하는 것은 국민의 ‘선택의 자유’를 절대적으로 보장하기 위한 것“이라며 ”이 기간만큼은 후보자는 수사와 재판을 받지 않고, 균등하고 자유로운 선거운동이 보장된다”고 주장했다.&lt;br&gt;&lt;br&gt;이 후보 측은 7일 오전 이같은 내용이 담긴 신청서를 공직선거법 사건, 위증교사 사건, 대장동 사건을 담당하는 총 3개 재판부에 제출했다. 이중 공직선거법 파기환송심 재판부는 이 후보 측의 신청을 받아들여 오는 15일 예정됐던 첫 재판을 대선 이후인 6월 18일로 미뤘다. 대장동·위례·백현동·성남FC 사건을 맡고 있는 서울중앙지법 형사33부(재판장 이진관)도 이날 오는 13일과 27일 예정돼있던 재판을 대선 이후로 미뤘다.&lt;br&gt;&lt;br&gt;다만 위증교사 항소심을 심리 중인 서울고법 형사3부(재판장 이승한)는 아직 기일 변경을 받아들이지 않았다. 예정대로라면 위증교사 항소심의 첫 재판은 오는 20일 열린다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>마약 후 롤스로이스 몰다 사고 낸 40대 남성 구속 </title>
-      <link>https://www.chosun.com/national/court_law/2025/05/07/2PNHUUVDXRAPRDRFSR46WVQ4MU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/05/07/2PNHUUVDXRAPRDRFSR46WVQ4MU/</guid>
-      <dc:creator>방극렬 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 07 May 2025 12:46:09 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/43SOF7S3WEH4CLWICCDDVJNJOM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 서울중앙지법 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;마약을 투약한 채 서울 한복판에서 고급 자동차를 몰다가 사고를 낸 남성이 7일 구속됐다.&lt;br&gt;&lt;br&gt;서울중앙지법 정재욱 영장전담 부장판사는 이날 특정범죄가중처벌법 위반(도주치상) 혐의를 받는 40대 남성 A씨에 대한 영장실질심사를 진행한 뒤 “도망할 염려가 있다”며 구속 영장을 발부했다.&lt;br&gt;&lt;br&gt;A씨는 지난 5일 오전 6시 15분쯤 서울 중구의 한 도로에서 마약을 한 상태로 롤스로이스를 몰다가 차량 2대를 들이받는 교통사고를 내고 도주한 혐의를 받는다. A씨는 신호 대기 중이던 차량들을 들이받은 뒤 200ｍ가량 주행하다 사고 현장으로 걸어와 “마약을 한 것 같다”며 경찰에 자수했다.&lt;br&gt;&lt;br&gt;A씨는 마약 간이 검사에서 대마 양성 반응을 보인 것으로 전해졌다. 경찰은 그의 소변과 모발을 국립과학수사연구원에 보내 정밀 검사를 진행 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>음주사고 차량서 마약 의심 물질 발견…60대 운전자 구속</title>
-      <link>https://www.chosun.com/national/incident/2025/04/29/EHOXQM53XJGMXCLHJ6LU5RMVLQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/04/29/EHOXQM53XJGMXCLHJ6LU5RMVLQ/</guid>
-      <dc:creator>인천=이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 29 Apr 2025 06:25:54 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QV2OWPVMOAJSYDKWAZIR7XK6JQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;음주운전 단속 중인 경찰./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;음주운전하다 사고를 낸 차량에서 마약류 의심 물질이 담긴 주사기가 발견돼 경찰이 60대 운전자를 수사하고 있다. &lt;br&gt;&lt;br&gt;인천 미추홀경찰서는 마약류 관리에 관한 법률 위반 혐의로 60대 A씨를 구속했다고 29일 밝혔다. &lt;br&gt;&lt;br&gt;A씨는 지난 24일 오전 0시 25분쯤 인천시 미추홀구 용현동에서 차량 안에 마약 의심 물질이 든 주사기를 보관한 혐의 등을 받고 있다. &lt;br&gt;&lt;br&gt;이에 앞서 A씨는 인천시 중구 신흥동 도로에서 술을 마시고 운전하다 중앙선 분리봉을 들이받는 사고를 낸 혐의도 받는다. &lt;br&gt;&lt;br&gt;A씨는 당시 사고로 차량 앞바퀴 타이어 펑크가 났으나, 별다른 조치 없이 차를 몰았던 것으로 파악됐다. &lt;br&gt;&lt;br&gt;“사고 차량이 돌아다닌다”는 신고를 받고 출동한 경찰은 A씨를 현행범으로 체포했다. 적발 당시 A씨의 혈중알코올농도는 면허 취소 수치(0.08% 이상)로 나타났다. &lt;br&gt;&lt;br&gt;경찰 관계자는 “주사기에 든 마약 의심 물질 등에 대한 정밀 감정을 의뢰했다”며 “A씨의 마약 간이 시약검사 결과는 확인해줄 수 없다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>의대생 1만명 유급... 1916명 상당수 제적 처분 직전에 수업 복귀</title>
       <link>https://www.chosun.com/national/education/2025/05/07/F6FWRU5GS5HBLDBSME4WCI2AAU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/education/2025/05/07/F6FWRU5GS5HBLDBSME4WCI2AAU/</guid>
@@ -784,37 +940,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2BC5ZSEHOIYTDFR37TC6PB3DSE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;6일 오후 서울의 한 의과대학 앞으로 시민이 지나가고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;무단결석으로 제적 예정 통보를 받았던 의대생 1916명 상당수가 제적 처분이 확정되는 7일 복귀한 가운데, 이날 복귀하지 않은 차의과대 학생 약 30명과 인제대 학생 약 10명의 제적 처분이 확정된 것으로 전해졌다.&lt;br&gt;&lt;br&gt;대학가에 따르면, 제적 예정 통보를 받은 순천향대 606명, 인제대 557명, 을지대 299명, 건양대 264명, 차의과대 의학전문대학원 190명 등 1916명 학생 대부분이 이날 수업에 복귀했다. 이 대학들은 수업을 장기 결석하면 유급·학사경고 처분을 하는 다른 의대와 달리 ‘1개월 이상 무단결석한 학생은 제적 처리한다’는 규정을 두고 있다. 이에 이달 초 이 학교들은 미복귀 학생들에게 제적 예정 통보를 했다.&lt;br&gt;&lt;br&gt;이날 인제대는 온라인 수업을 나머지 대학은 대면 수업을 진행했다. 제적 예정 통보를 받은 거의 모든 학생이 이날 출석했다고 한다. 이 대학들은 이날부터 수업에 출석하는 학생들은 제적을 면하기로 했다. 그러나 차의과대 학생 약 30명, 인제대 학생 약 10명은 이날도 모습을 드러내지 않았다고 한다. 이에 따라 이 학교들은 이 학생들의 제적을 확정했다.&lt;br&gt;&lt;br&gt;우려했던 대규모 ‘집단 제적’ 사태는 면했지만 ‘집단 유급’은 현실화했다. 교육부는 이날 자정까지 전국 40개 의대로부터 유급 대상자 명단을 제출받아 이르면 오는 9일 의대생 전체 유급 규모를 공개할 예정이다. 당초 지난달 30일을 기준으로 유급을 확정하려 했으나 일부 의대는 공문 제출일인 이날까지 복귀할 수 있도록 문을 열어뒀다. &lt;br&gt;&lt;br&gt;의대생 수업 복귀율은 지난달 17일 기준 25.9%였는데 이날 일부 학생이 추가로 돌아와 최종적으로 30% 이상 될 것으로 예측됐다. 전체 의대생 1만9760명 중 1만여명의 집단 유급이 사실상 확정된 것이다. &lt;br&gt;&lt;br&gt;한편 의대생 모임인 대한의과대학·의학전문대학원학생협회(의대협)은 이날 ‘국민에게 탄핵으로 심판당한 정부의 과오는 바로잡혀야 한다’는 성명문을 내고 의대생 제적이 발생하면 자퇴한다고 밝혔다. 각 의대 대표 40인은 이날 각 대학 학생회에 성명문과 함께 자퇴원서를 첨부하며 “재적 결의를 하고 최전선에서 투쟁하고 있던 단위들의 결정을 존중하며 조처의 평등이 실현될 때까지 함께 투쟁할 것임을 천명한다”고 했다. 이날 제적 학생들이 발생할 것이란 학생들 우려가 커지자 제적자가 발생하면 본인들도 자퇴하겠다고 강수를 둔 것이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>제주항공 참사 법률지원단 “진상규명 답보…유족 알 권리 보장하라”</title>
-      <link>https://www.chosun.com/national/national_general/2025/05/07/FNDZDS43QNG7VMMKNP3U2R76II/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/05/07/FNDZDS43QNG7VMMKNP3U2R76II/</guid>
-      <dc:creator>광주광역시=진창일 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 07 May 2025 09:32:03 +0000</pubDate>
-      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YHQ3A4KWYZIU6FZPOVVUQRB2CU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난해 12월 31일 전남 무안국제공항 제주항공 여객기 참사 현장에서 과학수사 경찰들이 현장 감식을 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제주항공 참사 유가족들의 법률 지원을 맡고 있는 변호사 단체들이 “항공철도조사위원회(이하 조사위)의 독립성과 유족들의 알 권리를 보장하라”는 입장을 내놨다. 이들은 유가족과 함께 사고 책임자들을 상대로 직접 고발장을 내는 방안도 추진한다.&lt;br&gt;&lt;br&gt;광주지방변호사회 제주항공참사 법률지원단과 민주사회를 위한 변호사모임 광주·전남지부는 7일 “제주항공 참사가 발생한 지 4개월이 넘었지만, 아무것도 해결되지 않았고 진상 규명은 여전히 제자리걸음”이라며 “모든 조사 과정과 자료를 투명하게 공개하라”고 밝혔다.&lt;br&gt;&lt;br&gt;이들 단체는 지난해 12월 29일 전남 무안국제공항에서 탑승자 179명이 사망한 제주항공 여객기 참사 이후 법률지원단을 구성하고 유가족들의 법률 지원과 진상 규명 촉구 목소리를 내오고 있다.&lt;br&gt;&lt;br&gt;단체들은 “공항과 관제탑이 조류 위험을 인지하고 충분히 경고했는지 명백히 밝히고 여객기 엔진 유지 관리가 적절했는지 의혹을 조사하라”고 했다.&lt;br&gt;&lt;br&gt;또 “여객기 기장의 복행 결정과 관제탑 대응의 적정성을 철저히 조사·공개하고 활주로 둔덕의 설치·관리와 보강 공사 규정 위반 여부, 블랙박스 전원 차단 원인을 밝혀라”고 했다.&lt;br&gt;&lt;br&gt;이어 “국토부의 영향력 아래 있는 현 구조는 조사위의 독립성을 훼손하고 있다”며 “조사위의 독립적인 운영이 가능하도록 즉각 개혁하라”고 했다.&lt;br&gt;&lt;br&gt;제주항공 참사 원인을 수사 중인 전남경찰청 제주항공 여객기 사고 수사본부는 앞서 무안국제공항과 부산지방항공청 무안출장소, 제주항공 서울사무실 등을 대상으로 한 압수수색을 통해 사고 당시 관제 음성 파일, 활주로 감시카메라(CCTV) 영상, 로컬라이저(착륙유도장치) 도면 등 1000여 점 증거물을 확보했다.&lt;br&gt;&lt;br&gt;경찰은 김이배 제주항공 대표와 임직원, 무안공항 건설과 개량 공사, 조류 예방 업무 등과 관련된 국토부 공무원, 공항공사 직원, 업체 관계자 등 총 50여 명을 참고인 신분으로 조사했다. 아직 형사입건된 피의자는 없다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “명확하고 객관적인 수사를 위해 조사위 결과를 기다리고 있다”며 “향후 조사 결과를 토대로 형사 입건 등 사법 절차대로 수사를 진행할 예정”이라고 말했다.&lt;br&gt;&lt;br&gt;단체들은 “수사기관의 적극적인 수사가 절실한 상황”이라며 “유가족과 법률지원단은 오는 13일 사고 책임자들을 고소해 진상 규명을 촉구할 예정”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/YHQ3A4KWYZIU6FZPOVVUQRB2CU.jpg?auth=4ce24e9ceaeae32a523b05c75f2911499ae3d1a2ecb78a7a9ac970805dc81b0f&amp;smart=true&amp;width=5398&amp;height=3579" type="image/jpeg" height="3579" width="5398">
-        <media:description type="plain">지난해 12월 31일 전남 무안국제공항 제주항공 여객기 참사 현장에서 과학수사 경찰들이 현장 감식을 하고 있다. /뉴스1</media:description>
-        <media:credit role="author" scheme="urn:ebu">뉴스1 ⓒ News1 김민지 기자</media:credit>
-      </media:content>
-    </item>
-    <item>
-      <title>사망자 계좌로 320만원 잘못 송금… 결국 못 돌려받았다, 왜?</title>
-      <link>https://www.chosun.com/national/national_general/2025/05/07/MAPXSFPYG5BF3LL4STO4XOFDZQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/05/07/MAPXSFPYG5BF3LL4STO4XOFDZQ/</guid>
-      <dc:creator>문지연 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 07 May 2025 09:37:21 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/55RCPSN7G5M6RI5XD7FSYIJO64.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;서울 시내 ATM 기기에 표시된 예금출금 및 입·송금 화면. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한 중소기업 직원이 거래처로 송금해야 할 돈을 사망자 계좌에 잘못 입금했다가 끝내 돌려받지 못했다.&lt;br&gt;&lt;br&gt;7일 부산 사하경찰서 등에 따르면 전북 부안의 한 중소기업 직원 A씨는 지난 3월 12일 거래처에 대금 320만원을 송금하려다가 실수로 엉뚱한 곳으로 돈을 보냈다. 계좌번호 13자리 중 한 자리를 잘못 입력한 것이다.&lt;br&gt;&lt;br&gt;A씨는 즉시 경찰에 진정서를 제출했고, 이를 접수한 부안경찰서는 계좌 주인을 추적했다. 그 결과 계좌의 주인은 이미 5년 전 부산 사하구에서 숨진 B(사망 당시 90대)씨로 확인됐다.&lt;br&gt;&lt;br&gt;사건을 이송받은 사하경찰서는 B씨에게 법정 상속인 3명이 있음을 파악하고 수소문했다. 이후 그중 한 명과 대화해 반환 의사를 확인했으나, 나머지 2명과는 연락이 닿지 않았다.&lt;br&gt;&lt;br&gt;현행법상 계좌 주인이 사망한 경우 법정 상속인 전원이 동의해야 돈을 인출할 수 있다. 이에 따라 결국 A씨는 돈을 돌려받지 못했고, 경찰은 지난달 23일 ‘공소권 없음’으로 사건을 종결했다.&lt;br&gt;&lt;br&gt;경찰 측은 “사정이 딱해 여러 통로로 법정 상속인을 찾았지만 여의치 않았다”며 “A씨에게는 착오 송금 반환 지원 제도를 안내했다”고 전했다. &lt;br&gt;&lt;br&gt;착오 송금 반환 지원 제도는 잘못 보낸 돈을 수취인이 자발적으로 돌려주지 않을 때, 예금보험공사가 반환 절차를 도와주는 제도다. 금액이 5만원에서 1억원 사이여야 하는 등 조건에 부합해야 하며, 우편 안내 비용과 지급 명령 관련 비용 등에 소요된 돈은 차감된다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>법원행정처장, ‘대법원장 사퇴’ 요구에 “사법부 독립 심대한 침해”</title>
-      <link>https://www.chosun.com/national/court_law/2025/05/07/J6TBEVIEZBATDNEHC7BWVWRLZE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/05/07/J6TBEVIEZBATDNEHC7BWVWRLZE/</guid>
-      <dc:creator>이슬비 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 07 May 2025 08:35:50 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5Q5TNYL3NFAMXHIXLEL6QQUVBQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;천대엽 법원행정처장이 지난 2일 서울 여의도 국회에서 열린 법제사법위원회 전체회의에서 의원 질의에 답하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;천대엽 법원행정처장은 7일 이재명 민주당 대선 후보 선거법 위반 사건을 유죄 취지로 파기환송하자 조희대 대법원장 사퇴 요구가 나오는 데 대해 “대법원장이든, 대법관이든, 일선 법관이든 어떤 이유로도 판결을 갖고 신상의 용퇴라든지 이런 요구가 이뤄지는 것은 사법부 독립에 심대한 침해”라고 말했다. &lt;br&gt;&lt;br&gt;천 처장은 이날 오후 국회 법제사법위원회에 출석해 “조 대법원장에게 사법 내란의 장본인으로서 사퇴해야 한다는 건의를 하실 생각은 없느냐”는 박지원 더불어민주당 의원의 질의에 이같이 답했다. &lt;br&gt;&lt;br&gt;천 처장은 “판결에 대해 역사적인, 또 정치적인 여러 가지 추궁을 하는 것은 얼마든지 가능하겠다”면서도 “그 부분을 곧바로 신변 문제와 연결 짓는 것은 재고해달라”고 했다. &lt;br&gt;&lt;br&gt;천 처장은 “대법원장에게 국민 여론이 용납하기 어렵다는 말을 전해주실 생각이 있느냐”는 박범계 민주당 의원의 질의에도 “모든 판사는 대법원장이든 대법관이든 일선 법관이든 똑같이 그 판결에 대해서는 기본적인 존중을 받아야 한다”고 답했다. &lt;br&gt;&lt;br&gt;천 처장은 “우리 사법부의 독립을 위해서는 사실은 개별적인 판결에서 혹시 당부당(옳고 그름)이 있다 하더라도, 사법부 독립을 과거 어두웠던 시절에도 지켜왔고, 앞으로도 지키기 위해서는 그런 부분에 대해 조금 존중이 필요하지 않나, 이런 생각을 말씀드릴 수밖에 없다”고 했다. &lt;br&gt;&lt;br&gt;민주당 소속 정청래 법사위원장이 조 대법원장의 사퇴 요구까지 거론되는 현 상황에 대해 “자초한 것 아니냐”고 묻자 천 처장은 “그렇지 않다고 생각한다”고 했다.&lt;br&gt;&lt;br&gt;이날 민주당 의원들은 대법원이 이 후보 사건 선고를 이례적으로 서둘렀다며 각종 의혹을 제기했다. 정청래 법사위원장은 천 처장을 향해 “일각에서 조 대법원장이 이재명 민주당 대선 후보직을 박탈하려고 신속하게 파기환송한 것 아니냐”라며 “윤 전 대통령, 한덕수 전 국무총리와 내통한 결과 아니냐고 의심하는 국민이 있다”라고 했다. 이어 정 위원장은 “사과 한마디 지금 못 하시면서 이건 법란이고 사법 내란, 사법 쿠데타”라며 “왜 대선판에 사법부가 끼어드나. 결국 6월 18일로 연기할 거면서 처음부터 나쁜 마음을 먹었기 때문에 법원도 갈팡질팡하는 것 아니냐”라고 했다. &lt;br&gt;&lt;br&gt;서영교 민주당 의원은 “6만 페이지를 다 안 봤다고 하지 않았느냐”라며 “선거가 시작하는데 재판을 하고 선고를 하는 게 맞는 거냐”고 물었다. &lt;br&gt;&lt;br&gt;이에 천 처장은 “대법관들은 외국의 모든 대법원과 대법관, 재판연구관을 둔 법제에서는 누구든지 상고이유에 한정해서 법률적인 판단을 하도록 구조가 설계돼 있다”라고 했다. 이어 “판사는 판결을 피할 수 없다. 판결을 피하는 순간 판사가 아니기 때문”이라면서 “선거운동 기간에 판결할 것인지 아니면 직전에 판결할 것인지 생각해 보면, (선거운동) 한참 전에 이뤄지는 것이 낫지 않느냐는 생각을 했을 수도 있지 않겠느냐”라고 말했다.&lt;br&gt;&lt;br&gt;천 처장은 “이 부분은 저도 추측일 뿐이기 때문에 전혀 근거가 있는 말은 아니다”며 “저는 대법관님들의 심중을 전혀 모른다. 저희는 절대 관여해서는 안 되기 때문”이라고 덧붙였다.&lt;br&gt;&lt;br&gt;김용민 민주당 의원은 이 후보의 공직선거법 위반 사건을 유죄 취지로 파기환송을 한 직후 한덕수 전 국무총리가 사퇴 기자회견을 연 것에 대해 “한 전 총리가 대법원 판결 결과를 미리 알고 사퇴하기로 한 것 아닌가. 매우 수상하다”고 했다. 이에 천 처장은 “있을 수 없는 일이고 금시초문”이라고 반박했다. &lt;br&gt;&lt;br&gt;천 처장은 조 대법원장에 대해 “원칙주의 판사로 알고 있다”고 말했다. 천 처장은 정청래 법사위원장이 “조 대법원장은 진보 판사인가”라고 묻자 이렇게 답했다. 천 처장은 정 위원장이 “판사는 진보성향이다, 보수성향이다를 떠나서 법과 양심에 따라 재판해야 한다”고 하자, “진보판사, 보수판사가 따로 없고 판사다”라고 답했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>공수처, 대통령비서실·국가안보실 압수 수색 중지</title>
       <link>https://www.chosun.com/national/court_law/2025/05/07/LJ67OXXODZCLDJTY4PYQURUHHU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/05/07/LJ67OXXODZCLDJTY4PYQURUHHU/</guid>
@@ -822,135 +947,6 @@
       <description/>
       <pubDate>Wed, 07 May 2025 08:46:05 +0000</pubDate>
       <content:encoded>‘순직 해병 수사 외압’ 의혹 수사를 최근 재개한 고위공직자범죄수사처(공수처)가 7일 대통령비서실과 국가안보실의 압수 수색을 시도했으나 무산됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JX37H5FVTJL3NN3MHRUAFMRR7A.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;'순직 해병 수사 외압' 의혹을 수사 중인 고위공직자범죄수사처(공수처) 수사관들이 대통령비서실과 국가안보실에 대한 압수수색을 시도하기 위해 7일 서울 용산구 대통령실 민원실 출입구로 들어서고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;공수처는 이날 언론 공지를 통해 “오후 5시 30분쯤 압수 수색 집행이 중지됐다”고 밝혔다. 향후 집행 여부에 대해선 “(대통령비서실, 국가안보실 측과) 계속 협의할 예정”이라고 했다.&lt;br&gt;&lt;br&gt;공수처가 이날 압수 수색에 착수한 것은 2023년 7월 경북 예천군 수해 실종자 수색에 투입됐다 급류에 휩쓸려 숨진 고(故) 채수근 상병 사망 사건을 수사하는 과정에 대통령실과 군 지휘부의 수사 외압이 있었다는 의혹 때문이다. &lt;br&gt;&lt;br&gt;초기 수사를 맡았던 박정훈 전 해병대 수사단장(대령)이 수사 자료를 경찰에 이첩하는 과정에서 상부로부터 이첩 보류 지시를 받았으나 이에 따르지 않았고, 이후 “수사단 조사 결과를 보고받은 윤석열 대통령이 격노했다는 취지의 말을 들었다”고 폭로하면서 의혹이 커졌다.&lt;br&gt;&lt;br&gt;공수처는 윤 전 대통령이 수사 기록 이첩 보류에 관여한 것이 맞는지 확인하기 위해 이날 압수 수색을 시도한 것이다. 공수처가 발부 받은 압수 수색 영장에는 윤 전 대통령이 직권남용 혐의 피의자로 적시됐다고 한다.&lt;br&gt;&lt;br&gt;공수처는 지난해 12·3 비상계엄 이후 이 사건 수사를 잠정 중단했었다. 그러다 지난달 핵심 피의자인 임성근 전 해병대 1사단장의 휴대전화 디지털 포렌식을 실시하며 수사를 재개했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>부산에 ‘영국마을’ 생긴다</title>
-      <link>https://www.chosun.com/national/national_general/2025/05/07/MVWTGPJ3LBDBTMPMZTBEWN6REU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/05/07/MVWTGPJ3LBDBTMPMZTBEWN6REU/</guid>
-      <dc:creator>박주영 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 07 May 2025 08:40:05 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CKRTTWH5V5CS5NDZVEHR4VSVMA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;로날드 해든 로열러셀스쿨 부산캠퍼스 설립추진단장, 콜린 크룩스 주한영국대사, 박형준 부산시장, 박성호 부산진해경제자유구역청장(사진 왼쪽부터)이 7일 오전 '영국문화마을 조성을 위한 업무협약'을 하고 있다./부산시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산에 ‘영국마을’이 생긴다. ‘영국마을’은 영국 양식의 교육·주거·문화·상업 시설을 갖춘, 종전 국내에는 없던 ‘새로운 도시 모델’ 제시를 표방하고 있다. &lt;br&gt;&lt;br&gt;부산시는 7일 오전 부산 연제구 부산시청 국제의전실에서 주한영국대사관·부산진해경제자유구역청·로열러셀스쿨 부산캠퍼스 설립추진단과 ‘영국문화마을(이하 영국마을) 조성’ 업무협약식을 체결했다. &lt;br&gt;&lt;br&gt;부산시와 영국대사관·로열러셀스쿨 등은 이 협약식에서 부산 강서구 명지국제신도시 내에 영국 양식의 주거·문화·상업시설을 갖춘 복합문화·교육 공간인 ‘영국마을’을 조성하는 데 협력하기로 했다. &lt;br&gt;&lt;br&gt;‘영국마을’은 명지국제신도시 안 설립이 추진 중인 영국 웰링턴컬리지, 로열러셀스쿨 등 2개 학교(유·초등)와 연계돼 조성된다. 이 영국계 학교 주변에 주거지와 극장·도서관 등 문화 시설, 보습 학원·의료·쇼핑 등 상업 시설들이 들어서게 한다는 것이다.&lt;br&gt;&lt;br&gt;이들 시설의 건물 외관이나 내부 인테리어, 도로 풍광 등은 영국 양식으로 지어진다. 또 런던타워, 런던브리지, 빅벤(시계탑) 등 영국을 상징하는 조형물 등도 설치된다. &lt;br&gt;&lt;br&gt;부산시 관계자는 “영국마을 조성은 민간 자본 유치를 통해 진행될 것”이라며 “전체 규모와 사업 내역, 사업비 등은 우선협상대상자 선정 과정을 거치면서 구체화할 계획”이라고 말했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FO47NYEM2FBNDP7NJQTNPTGLME.png"&gt;&lt;figcaption&gt;&lt;small&gt;부산시가 영국 로열러셀스쿨 등과 함께 추진 중인 부산 강서구 명지동 명지국제신도시 안 '명지글로벌캠퍼스' 조감도. 웰링턴컬리지 등의 학교가 들어설 이 곳 주변에 영국마을이 조성될 계획이다./부산시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;시는 웰링턴컬리지 등 2곳의 외국 학교(명지글로벌캠퍼스)가 개교하는 오는 2028년 8월을 전후해 영국 마을을 조성한다는 구상이다. &lt;br&gt;&lt;br&gt;웰링턴컬리지는 지난해 7월 강서구 명지동 1만2000㎡가량의 부지에 유·초등 국제학교를 개설하기로 부산시와 업무협약을 체결한 뒤 사업계획서 접수 등 후속 행정 절차를 밟고 있다. &lt;br&gt;&lt;br&gt;로열러셀스쿨은 2019년 명지동 4만900여㎡ 부지에 유·초등학교를 짓기로 양해각서를 체결하고 행정안전부의 중앙투자심사 과정을 통과한 뒤 설계 공모를 진행 중이다. &lt;br&gt;&lt;br&gt;웰링턴컬리지와 로열러셀스쿨은 영국과 해외에서 유치원~고교 과정 학교를 운영하며 매년 옥스퍼드·케임브리지·맨체스터·하버드대 등 세계적 우수 대학에 많은 졸업생을 진학시키는 명문으로 알려져 있다. &lt;br&gt;&lt;br&gt;현재 국내에서 개설돼 있는 외국 학교는 인천 2곳(캐나다 칼빈 마니토바, 미국 채드윅 국제학교)과 대구 1곳(대구국제학교·미국 리아카데미) 등이 있는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;박형준 부산시장은 “영국마을은 단순한 교육, 주거 공간 조성을 넘어 영국과의 실질적 공동 협력의 상징이 될 것”이라며 “부산을 세계적 문화 교육 및 국제 교육의 중심지로 발돋움시키는 촉매제가 될 수 있도록 행정적, 제도적 지원을 아끼지 않겠다”고 말했다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[속보] 이재명 대장동 재판도 대선 뒤로...6월 24일로 날짜 변경</title>
-      <link>https://www.chosun.com/national/court_law/2025/05/07/3CFZJ7QNHVAKTK75E4L3NNH6EY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/05/07/3CFZJ7QNHVAKTK75E4L3NNH6EY/</guid>
-      <dc:creator>김나영 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 07 May 2025 08:06:51 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PBAXN3XO2ZOKHEQTHZWKJVK72Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;민심을 청취하는 '경청 투어'에 나선 이재명 더불어민주당 대선후보가 7일 전북 익산시 인북로 대한노인회 익산지회에서 열린 임원 간담회 전 어린이에게
-카네이션을 선물받고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이재명 더불어민주당 대통령 선거 후보의 공직선거법 파기환송심이 대통령 선거 이후로 밀린 데 이어, 대장동 재판도 대선 뒤로 미뤄졌다. 앞서 이 후보 측은 해당 재판에 대해 기일연기 신청서를 제출했다.&lt;br&gt;&lt;br&gt;7일 법조계에 따르면 이 후보의 대장동·위례·백현동·성남FC 사건을 담당하는 서울중앙지법 형사33부(재판장 이진관)는 이날 5월 잡혀있던 재판 일정을 6월 24일로 변경했다. 내달 3일 대선으로부터 3주 뒤 날짜다. 당초 대장동 재판은 오는 13일과 27일에 각각 77·78차 재판이 예정돼 있었다.&lt;br&gt;&lt;br&gt;앞서 이날 오전 이 후보 측은 대장동 재판 일정을 바꿔달라는 기일연기 신청서를 제출했다. 이 후보를 대리하는 조원철 변호사는 “정당의 후보자가 대통령 선거에 출마하는 것은 단지 후보자 개인이나 당 차원의 문제가 아닌 국민들이 정치에 참여할 수 있는 자유와 권리의 문제라는 점을 지적했다”라고 설명했다. 재판부가 이 같은 신청을 받아들인 것이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>정부 “전공의 5월 복귀 검토”에 사직 전공의 “환자 곁으로 돌아가겠다”</title>
-      <link>https://www.chosun.com/national/welfare-medical/2025/05/07/ZDBHWVFU3JAHTGJWTM6EPMOY54/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/05/07/ZDBHWVFU3JAHTGJWTM6EPMOY54/</guid>
-      <dc:creator>오경묵 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 07 May 2025 08:02:48 +0000</pubDate>
-      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/23KBL5U6GZMEZPXJW235A2X42M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 시내 한 대학병원의 전공의 당직실 문이 굳게 닫혀있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정부가 사직 전공의들이 5월 중 수련병원으로 복귀할 수 있도록 하는 방안을 적극 검토하기로 한 가운데, 일부 사직 전공의들은 “환자의 곁으로 돌아갈 수 있도록 길을 열어 주실 것을 부탁드린다”고 했다.&lt;br&gt;&lt;br&gt;일부 사직 전공의들은 7일 ‘사태 해결을 원하는 사직 전공의 일동’ 명의로 입장문을 내고 “의료 현장에서 환자 곁을 지키며 배우고 성장하는 것이 저희가 진심으로 바라는 길이며, 국민 건강을 지키는 본래의 자리로 돌아가고자 한다”며 이같이 밝혔다.&lt;br&gt;&lt;br&gt;이들은 “이제 소모적인 갈등에서 벗어나, 문제를 해결해 나가고 싶다”며 “끝나지 않는 갈등 속에 언제나 멈춰 있을 수는 없다”고 했다. 지난해 2월 의료 현장을 이탈한 이유로는 “정부의 일방적인 의대 정원 2000명 증원과 준비되지 않은 의료 정책 추진에 깊은 문제 의식을 느꼈다”며 “환자 곁을 떠난다는 점에서 무엇보다 고통스러운 결단이었지만, 더 나은 의료 환경에서 더 좋은 의사가 되기 위한 다른 방법을 찾을 수 없었기에 내린 절박한 결정이었다”고 했다.&lt;br&gt;&lt;br&gt;이들은 “(복귀) 결정은 과거의 행동을 부정하는 것이 아니라 정당한 뜻과 명분으로 멈췄던 걸음을 환자의 곁에서 다시 함께 걸어가겠다는 의지”라며 “나라를 지키고, 지방의료를 담당하고 있는 저희 동료들 역시 국방의 의무를 마치고 다시 제자리로 무사히 돌아올 수 있도록 힘써달라”고 했다.&lt;br&gt;&lt;br&gt;이들은 또 “의료 현장의 목소리를 직접 듣고 함께 정책을 조정해 나갈 수 있는 지속적이고 안정적인 협의체를 구성해달라”며 “저희는 열린 자세로 언제든 대화에 임할 준비가 돼 있다”고도 했다.&lt;br&gt;&lt;br&gt;앞서 조규홍 보건복지부 장관은 이날 오후 입장문을 내고 “수련병원을 떠난 사직 전공의들의 복귀 의사가 확인된다면 5월 중이라도 복귀할 수 있는 방안을 적극 검토하겠다”며 “수련 환경 개선 등 현안에 대해 당사자인 전공의들이 의견을 적극 개진해달라”고 했다. &lt;br&gt;&lt;br&gt;아래는 사태 해결을 원하는 사직 전공의 일동 입장문 전문.&lt;br&gt;&lt;br&gt;안녕하십니까, 지난 2024년 2월, 저희는 정부의 일방적인 의대 정원 2000명 증원과 준비되지 않은 의료 정책 추진에 깊은 문제의식을 느꼈고, 올바른 의료를 하고자 하는 젊은 의사의 의지로 수련 현장을 떠날 수밖에 없었습니다. 그 선택은 결코 가볍지 않았으며 환자 곁을 떠난다는 점에서 무엇보다 고통스러운 결단이었지만, 더 나은 의료 환경에서 더 좋은 의사가 되기 위한 다른 방법을 찾을 수 없었기에 내린 절박한 결정이었습니다. &lt;br&gt;&lt;br&gt;저희는 이제 소모적인 갈등에서 벗어나, 문제를 해결해 나가고 싶습니다. 끝나지 않는 갈등 속에 언제까지나 멈춰 있을 수는 없습니다. 의료 현장에서 환자 곁을 지키며 배우고 성장하는 것이 저희가 진심으로 바라는 길이며, 국민 건강을 지키는 본래의 자리로 돌아가고자 합니다. 이 결정은 과거의 행동을 부정하는 것이 아니라 정당한 뜻과 명분으로 멈췄던 걸음을, 이제는 국민과 함께, 환자의 곁에서 다시 함께 걸어가겠다는 의지입니다. 함께 했던 의대생들도 머지않아 사회를 책임지는 의사로 성장할 수 있도록 저희 또한 노력하겠습니다.&lt;br&gt;&lt;br&gt;저희가 환자의 곁으로 돌아갈 수 있도록 길을 열어주실 것을 부탁드립니다. 나라를 지키고, 지방의료를 담당하고 있는 저희 동료들 역시 국방의 의무를 마치고 다시 제자리로 무사히 돌아올 수 있도록 힘써주십시오. 또한, 앞으로도 저희 목소리를 반영하여 사태 해결을 위해 나아갈 수 있는 진정성 있는 대화의 장을 열어주십시오.의료 현장의 목소리를 직접 듣고, 함께 정책을 조정해 나갈 수 있는 지속적이고 안정적인 협의체를 구성해 주십시오. 저희는 열린 자세로 언제든 대화에 임할 준비가 되어있습니다. 국회에서도 이번 의료 문제를 국가적 아젠다로 인식하고 초당적 논의와 입법을 통해 근본적 해결의 길을 마련해 주시기를 바랍니다. &lt;br&gt;&lt;br&gt;마지막으로 국민 여러분께 간절히 부탁드립니다. 저희가 의료 현장에서 다시 국민의 신뢰를 회복하고, 같은 방향을 바라보며 걸어갈 수 있도록 함께해주십시오. 감사합니다.&lt;br&gt;&lt;br&gt;2025.05.07 사태해결을 원하는 사직전공의 일동&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>인천 1호선 부평역 승강장 에스컬레이터 고장… 3명 다쳐</title>
-      <link>https://www.chosun.com/national/incident/2025/05/07/EXKWA7X2VJFZZGQ3HCKQWJWXLU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/05/07/EXKWA7X2VJFZZGQ3HCKQWJWXLU/</guid>
-      <dc:creator>인천=이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 07 May 2025 07:53:28 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RMV4V2DY5ADFHD45NUBJLOCS4I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;119 소방 로고. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천지하철 1호선 부평역 에스컬레이터가 고장을 일으켜 3명이 다쳤다. &lt;br&gt;&lt;br&gt;7일 인천소방본부 등에 따르면 이날 오후 12시 26분쯤 인천지하철 1호선 부평역 지하 4층 승강장에서 지하 2층으로 올라가는 에스컬레이터가 작동 중 핸드레일(손잡이)이 이탈하는 사고가 발생했다. &lt;br&gt;&lt;br&gt;이 사고로 80대 여성 A씨 등 3명이 넘어져 발목 등 다리 부위를 다쳐 119 구급대에 의해 인근 병원으로 이송돼 치료를 받았다. &lt;br&gt;&lt;br&gt;인천교통공사는 에스컬레이터 핸드레일이 들리면서 고장을 일으킨 것으로 보고, 정확한 고장 원인을 찾고 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>올해 신규 검사 90명 임용...작년과 비슷</title>
-      <link>https://www.chosun.com/national/court_law/2025/05/07/EWV3VFNINJAVZPEV4NINYM5TEY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/05/07/EWV3VFNINJAVZPEV4NINYM5TEY/</guid>
-      <dc:creator>박강현 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 07 May 2025 07:49:20 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/A67ZYYDU2BHURID2JPKJNQAF6U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;7일 오후 경기 과천 법무부 청사 앞에서 박성재 법무부 장관(첫줄 중앙)과 신규 임용 검사 90명이 기념촬영을 하고 있다. /법무부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;올해 제 14회 변호사시험 합격자 가운데 90명이 신규 검사로 임용됐다.&lt;br&gt;&lt;br&gt;법무부는 7일 충실하고 신속한 사건 처리를 위해 검사 증원이 시급한 점을 고려해 이같이 결정했다고 밝혔다. &lt;br&gt;&lt;br&gt;법무부는 작년(93명)에 이어 올해도 90명 이상의 검사를 뽑았다. 지난 2023년엔 76명, 2022년엔 67명이 임용됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/N3HY72ITRZOB5C7C3LELKTTJKM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;7일 정부과천청사 법무부에서 열린 신임 검사 임관식에 참석한 신임 검사들이 선서하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;올해 임용자 중 남성은 49명(54.44%), 여성은 41명(45.56%)으로 이들은 실무기록평가, 조직역량평가 등 여러 단계의 평가 절차를 거쳐 선발됐다.&lt;br&gt;&lt;br&gt;이번에 임용된 신규 검사들은 법무연수원에서 약 6개월간 검찰청 실무 수습을 포함한 교육을 받은 뒤 오는 11월쯤 일선 검찰청에 배치돼 본격적인 업무를 시작할 예정이다.&lt;br&gt;&lt;br&gt;앞서 지난 1월 진행된 변호사시험에선 총 1744명이 합격했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>수업은 안 들었지만...올해 1학기 국가장학금 신청한 의대생 4634명</title>
-      <link>https://www.chosun.com/national/national_general/2025/05/07/K44VIMJWKBHW7A4YG643RROHMM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/05/07/K44VIMJWKBHW7A4YG643RROHMM/</guid>
-      <dc:creator>정아임 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 07 May 2025 07:47:27 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RDSDISOQQNOL5HN5YYIGGPTWJI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 시내 한 의과대학에서 학생들이 이동하고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;의대생들의 수업 거부가 1년 넘게 지속되는 가운데 올해 1학기 국가장학금을 신청한 의대생이 4600명을 넘는 것으로 나타났다.&lt;br&gt;&lt;br&gt;7일 국회 보건복지위원회 소속 국민의힘 김미애 의원이 교육부에게서 받은 ‘의과대학별 국가장학금 현황’ 자료에 따르면, 의학전문대학원인 차의과대를 제외한 전국 39개 의대에서 올해 1학기 국가장학금을 신청한 인원은 총 4634명으로 집계됐다. &lt;br&gt;&lt;br&gt;올해 1학기 국가장학금은 작년 11월 21일∼12월 26일, 올 2월 4일∼3월 18일 등 두 차례 신청을 받았다.&lt;br&gt;&lt;br&gt;대학별 신청 인원을 보면 서울대가 241명으로 가장 많았다. 이어 조선대(235명), 고려대(219명), 전북대(202명) 순이었다. 연세대(본교)는 148명, 가톨릭대는 139명, 성균관대는 71명, 울산대는 79명이었다.&lt;br&gt;&lt;br&gt;학기별로 보면 의정 갈등이 불거졌던 작년 1학기 국가장학금 신청자 수는 7210명이었다. 이어 작년 2학기에는 3201명으로 절반 넘게 줄었다가 올해 1학기 다시 반등했다.&lt;br&gt;&lt;br&gt;작년 한 해 전국 의대생에게 지급된 국가장학금은 총 96억7600만원으로 집계됐다. 장학금 규모가 가장 큰 곳은 조선대로, 9억1700만원에 달했다. 이어 전북대 5억4700만원, 원광대 5억600만원, 경상국립대 4억7700만원, 순천향대 4억5200만원 순이었다.&lt;br&gt;&lt;br&gt;김미애 의원은 “다음 달 들어서는 새 정부는 장학금 제도 전반에 대해 운영 및 집행에 있어서 미비점이나 불합리한 점이 있는지 종합적으로 점검해야 한다”며 “의료 시스템 진입 첫 단계부터 합리적이고 공정한 체계를 갖추기 바란다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>李수사검사들, 탄핵 대신 징계로 압박? ‘검사징계법’도 법사위 통과</title>
-      <link>https://www.chosun.com/national/court_law/2025/05/07/XHXHCKT5S5HCZCGCGGFF6YNUHM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/05/07/XHXHCKT5S5HCZCGCGGFF6YNUHM/</guid>
-      <dc:creator>양은경 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 07 May 2025 07:30:48 +0000</pubDate>
-      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/A4VXZRM5TRJLBEABSUW5YPDVWE.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;정청래 국회 법제사법위원회 위원장이 7일 오후 서울 여의도 국회에서 열린 법사위 전체회의에서 의사봉을 두드리고 있다./뉴스1
-
-이날 국민의힘 법사위원들은 '대통령 당선시 재판 정지법' 상정을 앞두고 퇴장했다. 2025.5.7/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰총장 외에 법무부장관도 직접 검사 징계 청구가 가능하도록 한 검사징계법 개정안이 7일 국회 법사위 전체회의에서 의결됐다. 같은 날 대통령에 당선되면 형사재판을 정지하도록 한 형사소송법 개정안도 의결됐다. 국민의힘 의원들은 의결에 반발해 퇴장했다. &lt;br&gt;&lt;br&gt;현행법상 검사 징계는 검찰총장이 청구하고 법무부 산하 검사징계위원회가 심의하게 돼 있다. 그런데 민주당 김용민 의원 등이 발의한 검사징계법 개정안은 징계청구권자에 법무부장관을 추가하고 있다. 김 의원 등은 제안서에서 ‘검사가 잘못해도 총장이 징계청구를 하지 않으면 검사를 처벌하거나 징계할 수 없어 제식구 감싸기라는 지적이 이어지고 있다’고 했다. &lt;br&gt;&lt;br&gt;그러나 이 법안이 결국 통과되면 탄핵을 대신해 이재명 후보나 민주당 관련 사건을 수사했던 검사들을 압박하는 수단이 될 것이란 전망이 나온다. &lt;br&gt;&lt;br&gt;민주당은 지금까지 ‘쌍방울 대북송금’ 사건을 수사했던 이정섭 대구고검 검사, ‘도이치모터스 주가조작 의혹’사건 불기소 처분을 내렸던 이창수 중앙지검장과 조상원 차장검사, 최재훈 부장검사(도이치) 등을 탄핵소추 의결했지만 이들은 모두 헌재에서 만장일치로 기각 결정을 받았다. &lt;br&gt;&lt;br&gt;법안이 최종 통과돼 발효되면 헌재 결정과 무관하게 법무부장관이 징계청구를 할 수 있다. 현재 대장동·대북송금 사건 등을 수사한 강백신 수원지검 성남지청 차장검사, 김영철 서울북부지검 차장검사, 엄희준 부천지청장, 박상용 수원지검 부부장검사에 대한 탄핵안이 발의돼 있다. &lt;br&gt;&lt;br&gt;한 법조계 관계자는 “민주당이 정권을 잡게 되면 검찰이 반대하더라도 법무부 장관을 통해 이들 검사들에 대한 징계를 청구할 것으로 예상된다”고 했다. &lt;br&gt;&lt;br&gt;법무부도 검토의견을 통해 반대의견을 냈다. 개정안이 통과되면 징계를 청구하는 주체와 징계 여부를 판단하는 주체가 사실상 동일해져서 ‘원님재판’이 된다는 것이다. &lt;br&gt;&lt;br&gt;징계여부를 판단하는 법무부 검사징계위원회는 7명으로 구성되며 차관과 검사 2명 외에 변호사, 법학교수 등 외부인사가 들어간다. 모두 법무부장관이 위촉하기 때문에 사실상 영향력을 발휘할 수 있다. 개정안에서는 법무부장관이 징계를 청구할 경우 위원으로 하여금 직무대리를 할 수 있게 했으나 위원들 또한 법무부장관이 위촉하는 만큼 차이가 없다는 것이다. &lt;br&gt;&lt;br&gt;법무부는 또한 검토의견에서 “준사법기관으로서 정치적 중립성과 독립성을 보장하기 위해 징계청구권자와 심의권자를 분리하고 징계청구권자를 검찰총장으로 단일화하고 있는 현행법 체계에도 반한다”고 밝혔다. &lt;br&gt;&lt;br&gt;이날 법사위를 통과한 법안이 국회 본회의에서 의결되면 정부로 이송된다. 이 경우 이주호 대통령 권한대행이 거부권을 행사하지 않으면 법안은 공포되어 효력을 갖는다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>SK하이닉스 자료 4000여장 빼돌린 전 中직원… 2심서 징역 5년</title>
-      <link>https://www.chosun.com/national/court_law/2025/05/07/RLQY5T66EBHP5CYAZ64G3PFXRI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/05/07/RLQY5T66EBHP5CYAZ64G3PFXRI/</guid>
-      <dc:creator>수원=김수언 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 07 May 2025 06:55:02 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/76VOYRF22622DKT255QCGFXPBQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기 이천시 SK하이닉스 본사의 모습./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;SK하이닉스에서 근무하던 중 반도체 불량률을 낮추는 핵심 기술을 빼돌린 혐의를 받는 전 중국인 직원이 2심서 징역 5년을 선고받았다. 앞서 1심 재판부는 징역 1년 6개월을 선고했는데, 형량이 늘었다.&lt;br&gt;&lt;br&gt;수원고법 형사2-1부(재판장 김민기)는 7일 산업기술의 유출방지 및 보호에 관한 법률 위반 등 혐의를 받는 SK하이닉스 전 직원 A(37·여·중국 국적)씨에 대한 원심 판결을 파기하고, 징역 5년과 벌금 3000만원을 선고했다.&lt;br&gt;&lt;br&gt;A씨는 2013년 SK하이닉스에 입사해 반도체 설계상의 불량을 분석하는 부서에서 일하다가 2020년부터 2022년까지 중국 현지 법인의 기업 간 거래 고객 상담 팀장급 직원으로 근무했다. 그는 2022년 6월쯤 국내로 복귀한 후 곧바로 더 높은 연봉을 받고 중국 화웨이로 이직했다.&lt;br&gt;&lt;br&gt;수사 당국에 따르면, A씨는 퇴사 직전 핵심 반도체 공정 문제 해결책과 관련한 자료가 담긴 A4 용지 4000여 장 분량을 출력한 것으로 조사됐다. SK하이닉스는 보안상 USB 등의 저장 매체 사용을 금지하고 있고, 출력물의 내용, 인쇄자, 사용처 등을 상세하게 기록해 관리한다. &lt;br&gt;&lt;br&gt;그러나 A씨의 경우 문서를 출력한 기록만 남아있을 뿐, 이를 어디에 사용했는지에 대한 기록은 없는 것으로 파악됐다. A씨는 수사 과정 및 재판에서 “기술 유출 목적이 아니었다”며 이 같은 혐의를 모두 부인했다.&lt;br&gt;&lt;br&gt;앞서 1심 재판부는 “피고인은 공부와 업무 인수인계 목적으로 출력했다고 주장하나, 수사기록 등으로 볼 때 납득되지 않아 공소사실 혐의 모두 유죄로 판단했다”며 징역 1년 6월에 벌금 2000만원을 선고했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IP4E3F6FUORUI4UHJJVX6W2IQ4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;수원고법이 있는 수원법원종합청사 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 항소심 재판부 역시 공소사실을 유죄로 인정했다.&lt;br&gt;&lt;br&gt;재판부는 “이 사건 범행은 피고인이 경쟁회사로 이직하면서 피해 회사의 기술이 집약된 문서를 몰래 유출한 것으로 피해 회사가 다년간 연구하고 개발해 얻은 반도체 연구 성과와 비밀이 들어 있다”며 “이는 기술적, 경제적 가치가 높아 국가 핵심 기술로 평가되는 자료로, 국가 사회적으로 파급 효과가 큰 영업 비밀이 포함돼 있다”고 했다.&lt;br&gt;&lt;br&gt;재판부는 또 “이런 범죄는 국내 기업의 생존 기반을 위태롭게 해 국가 산업경쟁력에 악영향을 줘 국가안보 차원에서 엄하게 처벌해야 한다”며 “국가 핵심기술과 영업 비밀이 유출되고 회수되지 않아 피해 회사와 대한민국의 재산상 손해 액수를 가늠조차 할 수 없다”고 했다.&lt;br&gt;&lt;br&gt;이어 “피고인은 직무상 알게 된 비밀 유지 의무가 있음에도 자료를 유출했고 이 법정에 이르기까지 범행을 부인하며 잘못을 인정하지 않고 있다”며 “피해 회사가 엄벌을 탄원한다”고 양형 이유를 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>이재명, 대장동·위증교사 재판도 기일변경 신청서 제출</title>
-      <link>https://www.chosun.com/national/court_law/2025/05/07/5PHN5NRDWBFJHO2NUM67TG7EOE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/05/07/5PHN5NRDWBFJHO2NUM67TG7EOE/</guid>
-      <dc:creator>김나영 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 07 May 2025 04:45:49 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/H5PYMBM63JZ7LLKVUZGLISPR2M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이재명 더불어민주당 대통령 후보가 2차 골목골목 경청투어 마지막 날인 7일 오전 전북 진안군 진무로를 찾아 즉흥 연설하고 있다. 왼쪽은 정은경 총괄선대위원장./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이재명 더불어민주당 대통령 선거 후보가 7일 공직선거법 파기환송심에 대한 기일연기 신청서를 제출한 데에 이어, 자신이 피고인으로 재판을 받고 있는 다른 사건들에 대해서도 일제히 기일연기 신청서를 제출했다. 신청서에는 대선을 앞두고 재판을 받기 어렵다는 취지의 글이 담긴 것으로 전해졌다.&lt;br&gt;&lt;br&gt;7일 법조계에 따르면 이 후보 측은 이날 대장동·위례·백현동·성남FC 사건과 위증교사 사건을 심리하고 있는 재판부에도 기일연기 신청서를 냈다. 대장동 재판은 서울중앙지법에서 1심이, 위증교사 사건은 서울고법에서 항소심이 각각 진행 중이다. 특히 위증교사 사건은 오는 20일 첫 공판을 앞두고 있다. 공판기일에는 피고인이 반드시 법정에 출석해야 한다.&lt;br&gt;&lt;br&gt;이 후보 측은 선거운동 기간 중에 재판을 받는 것은 기본권에 반한다고 주장한 것으로 알려졌다. 대장동 사건에서 이 후보를 대리하는 조원철 변호사는 “정당의 후보자가 대통령 선거에 출마하는 것은 단지 후보자 개인이나 당 차원의 문제가 아닌 국민들이 정치에 참여할 수 있는 자유와 권리의 문제라는 점을 지적했다”라고 설명했다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘하동 순찰차 사망 사건’ 9개월 만 수사 결과... 2명 송치 그쳐 </title>
-      <link>https://www.chosun.com/national/2025/05/07/TP2SGD6T2JGWPDHRWF4Z5RMGPM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2025/05/07/TP2SGD6T2JGWPDHRWF4Z5RMGPM/</guid>
-      <dc:creator>창원=김준호 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 07 May 2025 05:00:05 +0000</pubDate>
-      <content:encoded>지난해 8월 경남 하동에서 40대 여성이 순찰차에 갇혀 사망한 사건과 관련해 경찰이 당시 근무자에게 형사 책임이 있다며 검찰에 송치했다. 사건 발생 9개월 만이다. 경찰은 차량 인수인계를 제대로 하지 않거나, 예정한 순찰 근무를 하지 않은 이들에 대해서는 불송치 결정을 해 ‘제 식구 감싸기’라는 비판을 피하기 어려울 것으로 보인다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3OWRX6XASFAPPCMXHCIWS7I6SI.png"&gt;&lt;figcaption&gt;&lt;small&gt;경남 하동군 진교면 하동경찰서 진교파출소의 모습. /네이버 지도 캡처&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경남경찰청 반부패·경제범죄수사대는 7일 경남경찰청 소속 A(경위)씨를 업무상 과실치사 혐의, B(경감)씨를 직무유기 혐의로 각각 검찰에 송치했다고 밝혔다. &lt;br&gt;&lt;br&gt;두 사람은 지난해 8월 하동 진교파출소에 주차된 순찰차에 갇힌 40대 여성 사망 사건과 관련해 지난해 9월부터 조사를 받아왔다.&lt;br&gt;&lt;br&gt;경찰에 따르면 이 여성은 지난해 8월 17일 오후 2시쯤 하동경찰서 진교파출소에 주차돼 있던 순찰차 뒷좌석에서 숨진 채 발견됐다. 여성은 전날 새벽 2시쯤 파출소를 찾아 현관 앞을 서성이다 현관문을 흔들었지만, 파출소 안에서는 한 명도 나오지 않았다. &lt;br&gt;&lt;br&gt;당시 상황 근무자 2명은 물론 대기 근무자 2명 등 직원 4명 모두 현관문이 보이는 1층 근무 자리가 아닌 2층 숙직실과 1층 회의실에 있었던 것으로 드러났다. 사실상 제대로 근무하지 않은 셈이다. &lt;br&gt;&lt;br&gt;이 여성은 파출소 안에서 아무런 반응이 없자, 순찰차 쪽으로 이동해 문이 열려 있는 순찰차 뒷좌석에 올랐고 그대로 갇혔다. 순찰차 뒷좌석 문은 안에서 열 수 없고, 차량 내 격벽이 있어 앞좌석 쪽으로 갈 수도 없다. 여성은 36시간 동안 순찰차에 갇혔다가 끝내 숨졌다. &lt;br&gt;&lt;br&gt;부검 결과 여성의 사망 원인은 ‘열사병을 동반한 급성 심부전증’으로 나왔다. 당시 하동에는 폭염주의보가 발령된 상태였다.&lt;br&gt;&lt;br&gt;경남경찰청은 여성이 갇히기 전 마지막으로 순찰차를 운행한 A경위가 제대로 문을 잠그지 않았다고 판단했다. 운행하지 않는 순찰차는 보안·도난 방지 등을 위해 문을 잠가야 하는데, A경위가 이 같은 의무를 게을리해 여성이 순찰차 안에 들어가게 됐고 갇힌 것으로 판단한 것이다. &lt;br&gt;&lt;br&gt;또 여성이 파출소를 찾았을 당시 야간 근무조 팀장이었던 B경감은 현관문을 볼 수 있는 1층 지정석에서 일하지 않는 등 근무를 태만히 했다고 봤다. &lt;br&gt;&lt;br&gt;경찰 관계자는 “A경위는 차 문을 잠그지 않아 결과적으로 피해자가 순찰차에 들어간 뒤 숨지는 행위를 유발했다고 보고 업무상과실치사 혐의를 적용했고, B경감은 당시 정위치에 있었다 하더라도 피해자의 인기척을 느낄 수 있었을지 애매한 부분이 있어 피해자 사망과 직접적인 연관을 짓기 어렵다고 보고 직무 유기 혐의를 적용했다”고 설명했다.&lt;br&gt;&lt;br&gt;사건 발생 9개월 만에 내놓은 경찰 수사 결과에 대해 제 식구 감싸기가 아니냐는 지적이 나온다.&lt;br&gt;&lt;br&gt;사건 발생 직후 경남경찰청이 진행한 진상조사 결과를 보면 여성이 순찰차에 갇혔던 36시간 동안 예정된 총 7회, 8시간 동안 순찰차를 몰고 지역 순찰을 하게 돼 있었지만 한 번도 이뤄지지 않은 것으로 드러났다. 또 36시간 동안 세 차례 근무 교대 때 순찰차 장비 작동 여부 등을 제대로 확인하지도 않았던 것으로 확인됐다. &lt;br&gt;&lt;br&gt;여성의 사망 추정 시간은 순찰차에 들어간 지 약 12시간 지난 16일 오후 2시 전후다. &lt;br&gt;&lt;br&gt;만약 당시 지정된 순찰 근무(16일 오전 6~7시, 오전 11~낮 12시, 오후 2~3시)와 근무 교대(16일 오전 8시 30분)만 제대로 했다면 여성이 숨지기 전 4차례 정도 발견할 기회가 있었지만 놓쳤다. &lt;br&gt;&lt;br&gt;하지만 경찰은 지난해 9월 사건 관련자 15명 중 파출소 직원 5명만 수사했다. 이 중 2명은 송치했지만, 차량 인수·인계를 제대로 하지 않은 경찰관 1명과 순찰 근무를 제대로 하지 않은 경찰관 2명에 대해서는 불송치 결정했다. &lt;br&gt;&lt;br&gt;이에 대해 경남경찰청 반부패·경제범죄수사대 관계자는 “사안의 중요성을 감안해 엄정 수사했다”며 “수사팀 내부 의견뿐만 아니라 변호사와 대학교수 등 외부 법률 전문가로 구성된 수사심의위원회 의견도 수렴했다”고 해명했다.&lt;br&gt;&lt;br&gt;경찰은 수사와 별개로 A경위 등을 포함한 사건 당시 진교파출소 직원 등 13명에 대해서 징계 절차를 진행할 예정이다. 앞서 지난 2월 당시 하동경찰서 서장과 하동서 담당과장은 경찰청으로부터 직권 경고를 받았다. &lt;br&gt;&lt;br&gt;경남경찰청 관계자는 “국민 법 감정을 고려하면 가벼운 처벌이라고 할 수 있겠으나, 판례 등을 적극적으로 해석해 엄정하게 적용했다”며 “고인의 명복을 빌고, 유족에게 위로의 말씀을 전한다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[단독] 정부, 전공의 5월 복귀 길 열어준다... 설문 참여 80% “돌아가겠다”</title>
-      <link>https://www.chosun.com/national/welfare-medical/2025/05/07/2FFC7QHJDNBOHDTBJ7Y2FV7VMQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/05/07/2FFC7QHJDNBOHDTBJ7Y2FV7VMQ/</guid>
-      <dc:creator>오경묵 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 07 May 2025 04:33:05 +0000</pubDate>
-      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KGKGNH3Q25I4PJONDC34IP6GNA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 한 대학병원 내 전공의실 앞 복도의 모습. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정부가 사직 전공의들의 5월 복귀를 허용하기로 방향을 잡은 것으로 알려졌다. 이달 중 추가로 전공의 모집을 열어 복귀할 수 있는 길을 열어주겠다는 것이다.&lt;br&gt;&lt;br&gt;7일 정부와 의료계에 따르면, 조규홍 보건복지부 장관은 이날 오후 ‘전공의 복귀 방안을 적극 검토하겠다’는 취지의 입장을 발표한다. 다만 병역 등 수련 특례 적용 여부 등은 이날 발표에 포함되지 않을 것으로 전해졌다.&lt;br&gt;&lt;br&gt;전공의들은 수련 공백 기간이 3개월을 넘으면 전문의 시험에 응시할 수 없다. 올해 수련이 3월에 시작돼 5월까지 복귀하지 않으면 내년 전문의 시험에 응시할 자격이 주어지지 않는다. &lt;br&gt;&lt;br&gt;때문에 전공의 사이에서는 “5월까지 복귀해야 한다”는 말이 나왔다. 전공의 모집은 통상 상·하반기 두 차례 진행된다. 하반기 모집은 통상 7~8월에 진행될 예정이다. 전공의 사이에서 “정부에 추가 모집을 요청해야 한다”는 주장이 제기되는 이유다.&lt;br&gt;&lt;br&gt;사직 전공의의 임진수 전 대한의사협회 기획이사는 설문조사를 통해 전공의들의 의견 수렴에 나서기도 했다. 임씨는 “5월이 지나면 졸국(수련병원 의국 졸업) 연차 전공의는 복귀해도 시험 응시가 어렵다”며 “조사를 통해 5월 전공의 모집을 요청하는 분들의 의견을 묻는다”고 했다. 이번 설문은 전공의 수련을 담당하는 대한의학회 이진우 회장이 “5월 모집을 정부에서 받아들이게 하려면 명분이 필요하다”고 밝힌 데 따라 이뤄진 것이다. 설문 공지에도 이 회장의 이 같은 언급이 첨부됐다.&lt;br&gt;&lt;br&gt;4일 오후 시작된 이 설문에는 100여명의 사직 전공의가 참여했고, 80%가 “복귀하겠다”고 답한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>서울고법 “이재명 재판, 대선 후 6월 18일로 변경”</title>
-      <link>https://www.chosun.com/national/court_law/2025/05/07/ASBWGDUHBJDCNED4QX2FN6HJEU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/05/07/ASBWGDUHBJDCNED4QX2FN6HJEU/</guid>
-      <dc:creator>방극렬 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 07 May 2025 03:07:18 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UZ7JKDQIS5MQJLO633OXAUX4HE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이재명 더불어민주당 대선 후보가 7일 전북 임실군 임실전통시장에서 연설을 하고 있다. /사진공동취재단&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;오는 15일로 예정됐던 이재명 더불어민주당 대선 후보의 공직선거법 위반 파기환송심 첫 재판이 대통령 선거일 이후로 미뤄졌다.&lt;br&gt;&lt;br&gt;서울고법은 7일 “대통령 후보인 피고인에게 균등한 선거 운동의 기회를 보장하고, 재판의 공정성 논란을 없애기 위해 재판 기일을 대선일 후인 2025년 6월 18일 오전 10시로 변경한다”고 밝혔다.&lt;br&gt;&lt;br&gt;서울고법 관계자는 이날 “파기환송심 재판부는 법원 내·외부의 어떤 영향이나 간섭을 받지 않고 오로지 헌법과 법률에 따라 독립해 공정하게 재판한다는 자세를 견지해 왔다“며 ”앞으로도 마찬가지일 것”이라고 말했다.&lt;br&gt;&lt;br&gt;서울고법은 대법원이 지난 1일 이 후보 사건을 유죄 취지로 판결한 다음 날인 2일 기록을 받자마자 사건을 형사7부(재판장 이재권)에 배당했다. 파기환송심 재판부는 배당 직후 첫 재판 날짜를 오는 15일로 잡아 이 후보에게 소환장을 보냈는데, 이 후보 측이 이날 오전 공판 기일 변경을 신청하자 이를 받아주며 대선 이후로 미룬 것이다.&lt;br&gt;&lt;br&gt;앞서 민주당 측은 대법원과 서울고법의 판결 및 재판 진행에 대해 “사법부의 대선 개입”이라며 “파기환송심 재판 기일을 미루지 않으면 담당 판사들을 탄핵할 것”이라고 주장했다. 민주당과 조국혁신당 의원들은 형사7부의 재판장과 주심 판사의 실명을 거론하며 ‘좌표 찍기’에 나서는 등 압박 수위를 높여왔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[단독] “대법관들께 경의” 현직 판사, “李 판결 존중… 법관 탄핵 반대”</title>
-      <link>https://www.chosun.com/national/court_law/2025/05/07/TGMUITQOKVFCRHKVJPF7XTA6AI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/05/07/TGMUITQOKVFCRHKVJPF7XTA6AI/</guid>
-      <dc:creator>박혜연 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 07 May 2025 03:05:42 +0000</pubDate>
-      <content:encoded>현직 부장판사가 7일 법원 내부망(코트넷)에 최근 이재명 더불어민주당 대선 후보에 대해 유죄 취지 판결을 내린 대법원 전원합의체 판결에 존중하며 대법관들에게 경의의 뜻을 표한다고 밝혔다. 일부 판사가 대법원의 이 후보 판결을 공개 비판한 것에 대해 반박한 것이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GPT53MEX5ROXVAIBABDV4ICDG4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;더불어민주당 이재명 대선 후보가 '골목골목 경청투어:국토종주편'에 나선 7일 전북 임실군 임실시장에서 연설을 하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;의정부지방법원의 A 부장판사는 이날 오전 ‘조희대 대법원장님과 대법관님들의 판결을 존중합니다’라는 제목의 글을 코트넷에 올렸다. 그는 “법원 외부, 특히 언론에서 보기에 이번 대법원 전원합의체 판결에 대해 비판적 의견만 존재하는 것으로 오인할까 해 글을 올린다”며 “결론의 당부를 떠나 판결에 참여한 대법원장님과 대법관님들의 고뇌에 찬 판결에 존중과 경의를 표한다”고 했다.&lt;br&gt;&lt;br&gt;이어 “법관의 재판 진행, 판결의 결론에 따른 유불리에 따라 법관에 대한 탄핵, 국정조사, 청문회 등을 언급하는 것 자체에 대해 단호히 반대하고 깊은 우려를 표한다”고 밝혔다.&lt;br&gt;&lt;br&gt;이는 최근 일부 현직 판사가 대법원의 이 후보 판결을 공개 비판한 데 따른 것이다. 이날 오전 부산지법 동부지원 노행남 부장판사는 코트넷에 ‘이러고도 당신이 대법관입니까?’라는 제목의 글을 올려 “정녕 그 피고인(이 후보)의 몇 년 전 발언이 계엄령을 선포하여 온 국민을 공포에 떨게 한 전직 대통령의 행위보다 악랄한 것이냐”고 반문했다.&lt;br&gt;&lt;br&gt;앞서 김도균 부산지법 부장판사와 송경근 청주지법 부장판사도 이 후보 판결에 대해 “매우 이례적 절차” “초고속 절차”라며 대법원을 비판하는 글을 올린 바 있다. &lt;br&gt;&lt;br&gt;대법원 판결을 공개 비판하는 일부 판사들의 발언은 대법원 판단을 부정하거나 이 후보를 우회적으로 옹호하는 것으로 해석될 수 있어, 법조계에서는 “정치적 중립을 위반할 소지가 있다”는 지적이 나온다. 법관윤리강령은 정치적 편향성이 드러나거나 중립성을 의심받을 수 있는 언행을 금지하고 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“대통령직, 범죄 도피처 우려” 법무부, ‘대통령 재판 정지법’ 반대</title>
-      <link>https://www.chosun.com/national/court_law/2025/05/07/B27UL3BWEZEWLK5M5J2LL3T54M/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/05/07/B27UL3BWEZEWLK5M5J2LL3T54M/</guid>
-      <dc:creator>이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 07 May 2025 01:36:39 +0000</pubDate>
-      <content:encoded>대통령에 당선될 경우 진행 중인 형사 재판을 멈추도록 하는 형사소송법 개정을 더불어민주당이 추진하는 데 대해 법무부가 ‘신중 검토’ 의견을 낸 것으로 7일 전해졌다. 민주당 주도로 형사소송법을 개정하는 것에 반대한 셈이다. 법무부는 국회 측에 “대통령직이 범죄의 도피처로 전락할 우려가 있고, 헌법수호의무를 지는 대통령의 지위와도 배치된다”며 “국민 신뢰를 훼손하고 대한민국의 대외신인도 및 국격에도 악영향을 미칠 것”이라는 의견을 밝혔다고 한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WIDFNWGQIN43DV7RWTRIQJ7H2A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기 정부과천청사 법무부./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 법무부는 최근 형사소송법 개정안을 심의하는 국회 법제사법위원회 산하 법안심사1소위원회에 이 같은 내용을 담은 의견서를 제출했다. 앞서 민주당 김용민 의원은 ‘피고인이 대통령 선거에 당선된 때에는 법원은 당선된 날부터 임기 종료 시까지 결정으로 공판 절차를 정지해야 한다’는 조항을 형사소송법 306조의 하위 조항으로 신설하는 개정안을 대표 발의했다. 헌법 84조는 ‘대통령은 내란 또는 외환의 죄를 범한 경우를 제외하고는 재직 중 형사상의 소추(訴追)를 받지 아니한다’고 규정하는데, 이 소추의 범위에 당선 전부터 진행되던 재판이 포함되는지 여부에 대한 명확한 규정이 없어 논란이 빚어진 데 따른 것이다.&lt;br&gt;&lt;br&gt;법무부는 국회에 낸 의견에서 “헌법 제84조의 소추에 형사재판이 포함되는지에 관해서는 포함설과 불포함설이 대립된다”며 “헌법이 대통령에게 부여한 특권은 최대한 제한적으로 해석함으로써 대통령에게의 권력집중을 최소화하는 것이 바람직하다는 점에서 개정안의 내용은 국민적 의견을 수렴한 후 헌법의 개정을 통해 도입하는 것이 바람직하다”고 했다. 김 의원이 대표 발의한 개정안은 대통령의 불소추특권을 지나치게 넓게 해석하고 있다는 취지다.&lt;br&gt;&lt;br&gt;법무부는 이 개정안이 특정인을 위한 법률안으로 해석될 여지가 있다는 점도 강조했다. 대선 이후에 형사재판이 확정된 피고인과 대선 전 형사재판이 확정돼 피선거권을 박탈당한 사람을 합리적 이유 없이 차별한다는 것이다. 법무부는 이 밖에도 “대통령 당선자의 판결에 의한 자격 상실을 전제하고 있는 헌법 제68조 규정과 충돌할 소지가 있다”며 “평등원칙을 위배하고, 위헌 소지도 농후하다”고 지적했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/37JXCRXBDCJ3PWFZVETJTOMA7Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이재명 더불어민주당 대선 후보. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;법무부는 형사소송법 306조가 심신상실 등 정상적인 재판 진행이 어려운 경우에 적용하는 조항이라는 점도 의견서에 담았다. 306조는 공판절차의 정지를 다루는데, 피고인이 사물 변별 또는 의사 결정 능력이 없는 상태일 경우 공판을 정지하도록 규정한다. 피고인이 질병으로 재판에 출석할 수 없는 경우도 포함된다. 법무부는 “대통령에 대한 공판절차 정지 규정을 형사소송법에 규정하는 것은 법체계 정합성에 위배된다”고 했다.&lt;br&gt;&lt;br&gt;법무부는 이대로 형사소송법이 개정될 경우 “대통령직이 범죄의 도피처로 전락할 우려가 있다”며 “헌법 수호 의무를 지는 대통령의 지위와도 배치되는 측면이 있다”고 지적했다. 법무부는 “대통령 취임 전 범한 범죄는 대통령 신분이 아닌 상태에서 범한 범죄로서, 대통령의 직무 수행과는 무관하다”며 “공판절차 정지 대상으로 하는 것은 공직의 자격요건을 엄격히 제한하는 관련 법률 규정을 무력화시키고, 자격이 없는 피고인으로 하여금 부당하게 그 임기를 보장하는 결과를 초래한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
