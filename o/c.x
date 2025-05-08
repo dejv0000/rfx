@@ -13,6 +13,42 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>가수 남태현, 마약 집행유예 기간에 두 번째 음주운전</title>
+      <link>https://www.chosun.com/national/national_general/2025/05/08/NX5I6RSRINBPHC6FFJCUWYMBNU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/05/08/NX5I6RSRINBPHC6FFJCUWYMBNU/</guid>
+      <dc:creator>이가영 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 08 May 2025 05:10:34 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WSCGCC7CE5OBFI6DPNCQAQTJSU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;가수 남태현이 작년 1월 서울서부지법에서 열린 필로폰 매수·투약 혐의 관련 선고기일을 마친 뒤 취재진의 질문에 답하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그룹 ‘위너’ 출신 가수 남태현(31)이 마약 투약 혐의 집행유예 기간에 또다시 음주운전을 저질러 경찰 수사를 받고 있다. &lt;br&gt;&lt;br&gt;서울 용산경찰서는 남태현을 도로교통법 위반(음주운전) 혐의로 입건해 조사 중이라고 8일 밝혔다. &lt;br&gt;&lt;br&gt;남태현은 지난달 27일 오전 4시 10분쯤 강변북로 일산 방향 동작대교 인근에서 앞차를 추월하려다 중앙분리대를 들이받은 혐의를 받는다. 당시 인명 피해는 없었던 것으로 파악됐다. 사고 당시 남태현의 혈중알코올농도는 면허 취소(0.08% 이상) 수준으로 전해졌다.&lt;br&gt;&lt;br&gt;남태현은 작년 1월 마약류관리법 위반 혐의로 징역 1년에 집행유예 2년을 선고받았다. 그는 2022년 방송인 서민재(32)와 텔레그램으로 구매한 필로폰을 술에 타서 함께 투약한 혐의로 재판에 넘겨졌다. 당시 서민재가 자신의 소셜미디어로 마약 투약 사실을 알리면서 경찰이 수사에 착수했다. 남태현은 마약 혐의로 조사를 받던 2023년 3월 음주운전 사고를 내 벌금 600만원의 약식명령을 받기도 했다. &lt;br&gt;&lt;br&gt;경찰은 집행유예 기간 도중 발생한 사건이라는 점을 고려해 지난 2일 구속영장을 신청했으나 법원은 7일 열린 영장실질심사에서 구속 사유가 부족하다고 보고 기각했다. &lt;br&gt;&lt;br&gt;경찰은 추가 수사를 거쳐 조만간 남태현을 불구속 송치할 예정이다. &lt;br&gt;&lt;br&gt;남태현은 지난 6일 홍대 소극장에서 열린 음악 페스티벌에서 복귀 무대를 갖기로 했으나, 4일 공연을 돌연 취소했다. 음주 운전으로 입건된 지 약 일주일 후였다. 당시에는 복귀에 관한 비판 여론이 거세지자 부담을 느끼고 공연을 취소한 것으로 전해졌다. 이달 9일 남태현의 새 음반 발매가 예정되어 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>119센터 앞에 차 대놓고... 휴대폰까지 두고 사라진 무개념 차주</title>
+      <link>https://www.chosun.com/national/national_general/2025/05/08/MRTW2R6BJFAMHGBJL7IRSBUDEI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/05/08/MRTW2R6BJFAMHGBJL7IRSBUDEI/</guid>
+      <dc:creator>이혜진 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 08 May 2025 04:31:20 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6Y5EP5DSBVF4PHITO7KG4JWQ2M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김포시 양촌119안전센터 앞에 한 승용차가 불법 주차된 채 방치돼 출동이 지연됐다. /김포소방서 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김포의 한 119안전센터 앞에 승용차가 3시간 넘게 불법 주차로 방치되면서 소방 당국의 긴급 출동이 지연됐다. &lt;br&gt;&lt;br&gt;8일 경찰에 따르면, 7일 오후 11시 13분쯤 김포시 양촌119안전센터 앞에 한 승용차가 불법 주차돼 있다는 신고가 경찰에 접수됐다. 신고자는 “음주 의심 운전자가 119안전센터 앞에 차량을 주차해 출동을 막고 있다”고 했다. &lt;br&gt;&lt;br&gt;소방 당국은 운전자에게 차량 이동을 요청하기 위해 통화를 시도했지만, 연락이 닿지 않았다고 한다. 당시 운전자는 휴대전화를 차 안에 두고 사라진 상태였다. 이에 소방대원은 운전자의 휴대전화로 걸려온 지인의 전화를 받아 이동 조치를 요청한 것으로 알려졌다. &lt;br&gt;&lt;br&gt;지인을 통해 견인차를 불러 차량을 다른 곳으로 이동한 것은 8일 오전 2시 52분쯤이었다. 차량 이동까지 총 3시간 39분이 걸렸다. 차량이 방치된 동안 구급·화재 출동 2건이 지연된 것으로 파악됐다. 경찰은 운전자의 실제 음주운전 여부를 조사하는 한편, 소방 활동 방해 혐의 적용에 대해 검토할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[속보] 서울·부산 등 22개 지역 버스노조“임단협 합의 안되면 28일 전국 동시 파업”</title>
+      <link>https://www.chosun.com/national/national_general/2025/05/08/KVSSGATV3RBZPGAFI3DURIN5HQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/05/08/KVSSGATV3RBZPGAFI3DURIN5HQ/</guid>
+      <dc:creator>박진성 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 08 May 2025 04:23:18 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/T4XLVWKQTVMZJA76ZNQZPGOCJQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 시내버스 노조가 이틀째 준법 투쟁을 이어가고 있는 8일 서울역 앞 버스환승센터 정류장에서 승객들이 버스를 기다리고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 버스노조가 파업을 유보하기로 했다. 대신 서울·부산 등 22개 지역 버스노조가 27일까지 임금·단체협약 협상이 결렬될 경우 28일 전국 동시 파업에 돌입한다고 밝혔다.&lt;br&gt;&lt;br&gt;한국노총 전국자동차노동조합연맹은 8일 서초구 연맹 사무실에서 서울·부산 등 전국 22개 지역 버스 노조와 회의를 열고 이같이 밝혔다. &lt;br&gt;&lt;br&gt;각 지역 버스노조는 오는 12일 지역 노동위원회에 조정신청을 할 예정이다. 15일 간의 조정 기간에도 합의에 이르지 못하면 합법적인 파업이 가능해진다.&lt;br&gt;&lt;br&gt;이에 전국 버스 노조는 27일 자정까지 합의에 이르지 못하면 28일 첫차부터 동시 파업에 들어갈 방침이다.&lt;br&gt;&lt;br&gt;노조 관계자는 “노조는 시민의 불편을 최소화하기 위해 열린 자세로 교섭을 진행해나갈 것”이라고 말했다.&lt;br&gt;&lt;br&gt;앞서 서울 시내버스 노사는 통상임금 개편 문제 등을 두고 협상을 진행해왔으나 평행선을 달리고 있다.&lt;br&gt;&lt;br&gt;지난달 29일 서울지방노동위원회의 2차 조정회의가 결렬된 이후 노사 간 교섭은 중단된 상태다.&lt;br&gt;&lt;br&gt;이에 서울 시내버스 노조는 지난달 30일 한 차례 준법투쟁(태업)을 진행했으며 이달 7일 준법투쟁을 재개했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘뇌물 수수 무죄’ 김학의 전 차관, 국가에서 1억3000만원 받는다</title>
+      <link>https://www.chosun.com/national/national_general/2025/05/08/TEPAM6W4XFHHTAQWJOOJG444VU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/05/08/TEPAM6W4XFHHTAQWJOOJG444VU/</guid>
+      <dc:creator>이가영 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 08 May 2025 03:57:02 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G3FKJE4YEDGRKPDLZZ6JWG7EQ4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김학의 전 법무부 차관. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;성 접대와 뇌물 혐의로 세 차례 수사받고 기소됐다가 9년 만에 무죄 확정 판결을 받은 김학의(69) 전 법무부 차관이 국가로부터 1억원 넘는 형사보상금을 받는다. &lt;br&gt;&lt;br&gt;서울고법 형사4-2부(재판장 권혁중)는 김 전 차관에게 “구금에 대한 보상으로 1억2510만원을, 비용에 대한 보상으로 899만5000원을 각 지급하는 내용의 형사보상 결정이 확정됐다”고 8일 관보를 통해 공시했다. &lt;br&gt;&lt;br&gt;형사보상이란 피고인에게 무죄가 확정된 경우 구금 일수에 따른 손해와 변호사 비용, 교통비 등을 보상해주는 제도다. &lt;br&gt;&lt;br&gt;김 전 차관은 2013년 3월 법무부 차관으로 내정된 직후 건설업자 윤모씨로부터 성 접대를 받았다는 이른바 ‘별장 성 접대 동영상 의혹’에 휩싸였다. 2013~2014년 검찰에서 두 차례 수사받았으나 무혐의를 받았다. 2019년 문재인 당시 대통령이 “검경은 조직의 명운을 걸고 수사하라”고 하면서 또 수사받게 됐고, 사업가 최모씨로부터 현금과 차명 휴대전화 요금 등 4300만원을 받은 혐의 등으로 재판에 넘겨졌다. &lt;br&gt;&lt;br&gt;재판의 결론은 계속 달라졌다. 1심은 무죄로 판결했지만, 2심은 유죄로 인정해 징역 2년 6개월에 벌금 500만원을 선고했다. 첫 상고심에서 대법원은 사업가 최씨의 진술 신빙성을 문제 삼아 사건을 돌려보냈다. 파기환송심은 최씨 진술의 증거 능력은 인정했지만 합리적 의심을 배제할 만큼 신빙성이 있다고 보기 힘들다며 김 전 차관에게 무죄를 선고했다. 대법원도 2022년 8월 무죄를 확정하면서 5번의 재판이 마무리됐다.&lt;br&gt;&lt;br&gt;이 과정에서 김 전 차관은 구속기소됐다가 1심 무죄로 석방됐고, 2심 실형 선고 뒤 다시 구속됐다가 대법원 파기환송 판결로 석방되는 과정에서 약 14개월가량 수감 생활을 했다. &lt;br&gt;&lt;br&gt;혐의의 핵심 줄기인 성 접대 의혹은 공소시효가 지났거나 혐의가 입증되지 않았다는 이유로 대법원에서 면소‧무죄 판결이 확정됐다. 김 전 차관이 2006년부터 2008년까지 건설업자 윤모씨로부터 성 접대 등을 받은 혐의는 수수 금액이 1억원 미만이어서 공소시효가 지났다는 이유로 면소 판결이 확정됐다. 또 2012년 숨진 저축은행 회장 김모씨로부터 1억5000만원의 뇌물을 받은 혐의, 2008년 초 성폭력 피해를 주장하는 여성 이모씨와 윤씨 사이의 보증금 분쟁에 개입한 후 윤씨가 받을 1억원을 포기하도록 했다는 제3자 뇌물수수 혐의도 무죄로 결론이 났다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>“부산 반얀트리 리조트 화재 인·허가 비리 복마전"</title>
       <link>https://www.chosun.com/national/national_general/2025/05/08/RYRL2GTYMJEU7J6E63LVNIRQXE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/05/08/RYRL2GTYMJEU7J6E63LVNIRQXE/</guid>
@@ -758,28 +794,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YQNVDAWAGNB7TH2SWNFLTAHANQ.jpeg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 1일 사진작가 김수빈(사진 왼쪽)씨가 진과 스님(비구니)과 마주 보고 이야기를 나누고 있다. 장소는 김씨의 경기도 파주시 원룸이다. 스님이 직접 신청자 집에 찾아가 진행하는 '홈 템플스테이'다. /대한불교조계종 한국불교문화사업단&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“스님, 가고 싶은 회사에 지원서를 넣는 족족 떨어집니다. 제가 남들보다 많이 부족한 걸까요.”&lt;br&gt;&lt;br&gt;지난 1일 오전 11시 40분쯤 경기 파주에 있는 6평(19.8㎡) 남짓 원룸엔 사진작가 김수빈(25)씨와 진과 스님(비구니) 단둘밖에 없었다. 근심 깊은 표정으로 국화차를 마시던 김씨에게 진과 스님은 “세상을 내 입맛에 다 맞추기는 어렵지요”라고 했다. 그는 온화한 표정으로 “생각하는 목표가 있겠지요. 일단은 노력해 보고 천천히 그 결과를 점검해 보길 바랍니다. 비도 맞아야 싹이 트는 법이니까요”라고 했다.&lt;br&gt;&lt;br&gt;‘빨리빨리’ 문화와 극단 경쟁에 지친 2030 청춘들의 집이 템플스테이의 새로운 장소로 떠오르고 있다. 이른바 ‘홈 템플스테이’다. 템플스테이는 수십 명이 사찰로 직접 가서 단체로 참여하는 게 보통이다. 그런데 홈 템플스테이는 스님이 참가자의 집으로 직접 찾아가 단둘이서 진행된다. 대한불교조계종 한국불교문화사업단은 지난달부터 자택에서 진행하는 템플스테이를 처음으로 시작했다. ‘우리 집에서 만나는 커밍수님(커밍순과 스님의 합성어)’은 남녀노소 누구나 신청 가능하다. 그런데 지금까지 접수된 참가자 전원이 20~30대다. 사업단은 “마음이 지쳐 템플스테이를 해보고 싶어도 바빠서 엄두를 못 내던 청춘들이 큰 관심을 보이는 것 같다”고 4일 밝혔다.&lt;br&gt;&lt;br&gt;1일 오전 김씨가 가부좌를 튼 채로 두 손을 모으고 합장하자 스님은 ‘땡땡땡’ 소리를 내며 싱잉볼(명상 도구)을 울렸다. 창밖이 보이지 않도록 커튼을 친 원룸에서 두 사람은 5분간 명상에 잠겼다. 김씨는 대학에서 사진을 전공했고 얼마 전까지 한 암 병원에서 인턴 사진작가로 일했다. 지금은 프리랜서 작가로 일하면서 다른 회사를 찾고 있다. 그러나 일이 잘 구해지지 않았고, 홈 템플스테이를 신청했다. 김씨는 “먹고살기 힘들어 적게는 1박 2일 많게는 며칠 자고 오는 기존 템플스테이는 신청도 하기 힘들었다”며 “스님이 직접 집으로 오셔서 고민을 들어준다는 이야기를 듣고 곧바로 인터넷을 켰다”고 했다.&lt;br&gt;&lt;br&gt;오전 11시가 되자 스님은 절에서 가져온 그릇을 꺼냈다. ‘발우공양(鉢盂供養)’. 승려들이 발우(옻칠한 나무 그릇)라는 ‘공양’ 그릇에 먹는 식사를 말하는 불교의 전통 식사 의례다. 공양은 마음과 정성을 다해 준비한 음식을 정중히 내주고 받는 것을 말한다. 쌀 한 톨에도 우주가 담겨 있다고 느끼며 빛과 대지, 비와 바람 등 자연이 모두 담겨 있다는 믿음에 따른 것이다. 이날 메뉴는 두부·시금치·당근 등이 들어간 두부김밥이었다. 스님은 김씨에게 “밥이 ‘발우’에 붙을 수 있으니 물을 조금 그릇에 묻혀 주시라”고 했다. 두 사람은 김밥을 발우에 각각 네 개씩 덜고, 단무지를 발우에 붙였다.&lt;br&gt;&lt;br&gt;발우공양이 끝나자 차담이 이어졌다. 국화차와 삼색의 찹쌀 경단이 차려졌다. 스님이 “국화차는 심신 안정에 좋습니다”라고 하자, 김씨는 “저한테 많이 필요하겠네요”라고 했다. 김씨는 “저 자신이 부족하다고 생각하지 않는데 지원하는 회사에서 계속 낙방하니 조급해진다”고 했다. 스님은 “모든 걸 얻기는 쉽지 않지요. 보수, 시간, 직종이든 자신에게 제일 필요한 게 무엇인지를 가려내야 할 것 같다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UOGX3YMZZNA7XKKLLDEGUUKYHA.jpeg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 18일 인천 부평구의 한 아파트에서 홈 템플스테이가 처음 진행됐다. 이우제씨의 아내이자 키르기스스탄 출신인 에르케벡 아이계림씨가 진과 스님과 차담을 나누는 모습. /안태민 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;앞서 지난달 18일에는 인천 부평구에 사는 국제 부부를 상대로 한 홈 템플스테이가 진행됐다. 이우제(31)씨는 “키르기스스탄 출신 아내가 한국 문화에 관심이 많은데, 색다른 경험을 선물해 주고 싶었다”고 했다. 스님은 이날 명상을 처음 해 본 이씨의 아내 에르케벡 아이계림(31)씨에게 “불교에서 명상이란 단순히 편안함에 이르고자 하는 것이 아니다”라며 “바른 지혜를 얻기 위하고자 마음을 일단 안정시키자는 취지”라고 했다.&lt;br&gt;&lt;br&gt;아이계림씨는 스님으로부터 목탁을 건네받아 직접 치며 ‘똑똑똑’ 소리를 내기도 했다. 아이계림씨는 차담에서 “한국 특유의 빠르고, 사람을 재촉하는 문화에 지칠 때가 많았다”며 “긴장과 스트레스로 마음이 아프곤 한다”고 했다. 스님은 “다른 사람들에게 맞출 필요는 없습니다. 내 속도에 맞춰서 살면 된다”며 “누군가에게 맞추려는 삶은 공허해지게 마련”이라고 했다.&lt;br&gt;&lt;br&gt;홈 템플스테이는 한국불교문화사업단 홈페이지 ‘템플스테이 닷컴’에서 신청할 수 있다. 사업단장 만당 스님은 “마감 기한 없이 참가 신청을 받을 예정”이라며 “향후 참가 대상도 어린이까지 확대해 보려고 한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[오늘의 날씨] 2025년 5월 5일</title>
-      <link>https://www.chosun.com/national/national_general/2025/05/05/WQCR257MXFB6HKHQZYLRINOHZI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/05/05/WQCR257MXFB6HKHQZYLRINOHZI/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Sun, 04 May 2025 15:52:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4OXXPOOMARAABMH33HCMFTXTIE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>고법은 형량만 정하면 돼… ‘이재명 재판’ 대선 전 선고날 수도</title>
-      <link>https://www.chosun.com/national/court_law/2025/05/03/BGU75BM3UREK3PSW23SSVVCWK4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/05/03/BGU75BM3UREK3PSW23SSVVCWK4/</guid>
-      <dc:creator>김은경 기자, 방극렬 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 02 May 2025 15:55:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EIQVTXMNUWTHQSDBI6EEUTYWUY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;'골목골목 경청투어 : 접경벨트편'에 나선 이재명 더불어민주당 대통령 후보가 2일 오전 강원 철원군 동송전통시장을 찾아 어린이를 안아주고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이재명 더불어민주당 대선 후보의 공직선거법 위반 사건의 파기환송심을 맡은 서울고법 형사7부(재판장 이재권)는 2일 사건 기록을 검토하는 등 심리에 본격 착수한 것으로 전해졌다. &lt;br&gt;&lt;br&gt;재판부는 이날 오후 사건을 배당받자마자 첫 재판 날짜를 오는 15일로 잡아 이 후보에게 소환장을 보내는 등 속도를 내는 모습이다. 법조계에서는 “재판부가 6월 3일 대선 전에 파기환송심 선고까지 마치려는 것으로 보인다”는 전망이 나왔다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇“파기환송심, 양형만 따질 듯”&lt;/b&gt;&lt;br&gt;&lt;br&gt;최고 법원인 대법원의 판결은 하급심을 구속하는 기속력(羈束力)을 갖고 있기 때문에 파기환송심도 유죄를 선고할 가능성이 높다. 새로운 증거 등이 제시되지 않는다면 전원합의체 판결을 거슬러 무죄를 선고할 수 없는 것이다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QZGCK6UXTRBQJM6QKNDM6S3BIQ.png"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이에 따라 이번 재판에선 사실상 양형만 결정하게 된다. 이 후보의 혐의인 허위 사실 공표죄의 기본 양형 기준은 ‘징역 10개월 이하 또는 벌금 200만~800만원’이다. 앞서 1심은 이보다 무거운 징역 1년에 집행유예 2년을 선고했다. 이 후보에게 과거 허위 사실 공표죄 전력이 있고 죄책이 무겁다는 점을 들어 가중 처벌한 것이다. &lt;br&gt;&lt;br&gt;한 부장판사는 “1심은 가중 처벌을 했기 때문에 이번 재판에선 대법원의 기본 양형 기준을 시작으로 이 후보 측의 ‘양형 부당’ 변론을 감안해 형량을 결정하게 될 것”이라며 “다만 대법원이 1심과 거의 흡사한 논리로 유죄 판단을 했기 때문에 유죄는 기정사실이고, 가벼운 처벌이 나오진 않을 것 같다”고 했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NKJMQMSHLRPYHOTL2TZCLZWJ6M.JPG"&gt;&lt;figcaption&gt;&lt;small&gt; 2일 서울 서초구 서울고등법원의 모습. 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;◇두 번 불출석하면 궐석 재판&lt;/b&gt;&lt;br&gt;&lt;br&gt;문제는 이 후보가 선거운동 등을 이유로 15일 첫 재판에 나오지 않을 공산이 크다는 점이다. 이 후보가 특별한 사정 없이 재판에 불출석할 경우 재판부는 다시 기일을 잡아 통보하는데, 두 번째 기일에도 나오지 않으면 재판부는 이 후보 없이 궐석 재판을 진행할 수 있게 돼 있다. 두 번째 기일은 송달 절차 등을 고려해 보통 5~7일 뒤에 잡힌다. &lt;br&gt;&lt;br&gt;물론 법적으로 다음 기일을 잡는 기간이 정해져 있는 것은 아니다. 결심이나 선고도 마찬가지다. 특히 공직선거법은 사건 종결 후 선고를 신속하게 해야 한다고 규정하고 있다. 이론적으로는 결심 당일 선고까지도 가능하다는 이야기다. 하지만 일반 사건의 경우 판결문 작성 시간 등이 필요해 보통 변론 종결 후 2~3주 뒤에 선고하는 경우가 많다. 법원 관계자는 “이 후보 사건은 중대한 사건이어서 재판부가 결심과 선고 일정을 어떻게 잡을지는 예상할 수 없다”면서도 “논란이 큰 만큼 대선 전에 선고하지 않을까 싶다”고 말했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/T7FELPVDEJFQFDA47DCLW6JSR4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대법원으로 몰려간 민주당 - 더불어민주당 의원들이 2일 서울 서초구 대법원 앞에서 '대선 개입 중단하라' '국민이 분노한다'라고 적힌 피켓을 들고 대법원의 이재명 후보 공직선거법 위반 사건 유죄 취지 파기환송을 규탄하는 구호를 외치고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;◇대선 전 확정 판결은 어려워&lt;/b&gt;&lt;br&gt;&lt;br&gt;파기환송심 결과가 대선 전에 나오더라도 대법원의 확정 판결까지는 나오기가 어렵다는 게 법조계의 중론이다. 파기환송심에서 벌금 100만원 이상을 선고해 확정되면 이 후보는 피선거권이 박탈되기 때문에 재상고를 할 가능성이 크기 때문이다. 재상고는 파기환송심 선고 후 7일 안에 해야 하고, 대법원이 소송 기록을 접수하면 20일 이내에 재상고 이유서를 내게 돼 있다. 이 후보 측이 서류 제출 기한을 꽉 채우면 재상고심이 시작되기까지 최소 27일이 걸리는 셈이다. 한 법조인은 “첫 재판이 15일로 잡혀 대선 전에 확정 판결이 나오는 것은 사실상 불가능해졌다”고 했다. &lt;br&gt;&lt;br&gt;파기환송심을 맡은 서울고법 형사7부는 재판장인 이재권(56·사법연수원 23기) 부장판사와 박주영(51·33기)·송미경(45·35기) 고법 판사로 이뤄진 합의 재판부다. 주심은 송 판사가 맡는다. 항소심에서 이 후보에게 무죄를 선고했던 형사6부는 경력과 지위가 비슷한 판사 3명이 돌아가며 재판장을 맡아 사건을 처리하는 대등 재판부였다.&lt;br&gt;&lt;br&gt;형사7부는 지난 2월 10·26 사건으로 1980년 사형이 집행된 김재규 전 중앙정보부장 사건의 재심 개시를 결정했다. 이 부장판사는 작년 이정근 민주당 전 사무부총장의 선거법 항소심 재판장을 맡아 1심의 징역 1년에 집행유예 2년을, 징역 6개월에 집행유예 1년으로 감형한 바 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/NKJMQMSHLRPYHOTL2TZCLZWJ6M.JPG?auth=cc6dd8afb99b74abb653241ca3cfce7c712afb19cc70b896ef2342985cde040a&amp;smart=true&amp;width=4373&amp;height=2915" type="image/jpeg" height="2915" width="4373">
-        <media:description type="plain"> 2일 서울 서초구 서울고등법원의 모습. 뉴스1</media:description>
-        <media:credit role="author" scheme="urn:ebu">(서울=뉴스1) 신웅수 기자</media:credit>
-      </media:content>
-    </item>
-    <item>
       <title>진태현, 갑상선암 진단…“수술하고 완벽하게 이겨내겠다”</title>
       <link>https://www.chosun.com/national/national_general/2025/05/07/WV5U6H6I3BBNHKVK3TPXW3YEQA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/05/07/WV5U6H6I3BBNHKVK3TPXW3YEQA/</guid>
@@ -787,15 +801,6 @@
       <description/>
       <pubDate>Wed, 07 May 2025 05:11:02 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GRYMQRHBWRB2DKJ4ARY2LQTTD4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;배우 진태현, 박시은 부부./인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;배우 진태현(44)이 갑상선암 진단을 받아 수술을 앞두고 있다고 밝혔다.&lt;br&gt;&lt;br&gt;진태현은 7일 소셜미디어(SNS)를 통해 “조금은 무거운 소식을 알려드릴까 한다”며 “지난 4월 아내와 건강검진을 받고 모든 곳이 다 건강하지만 제가 갑상선암 진단을 받아 수술을 앞두고 있다”고 밝혔다.&lt;br&gt;&lt;br&gt;그는 “초기의 발견으로 아주 작은 크기지만 다른 곳으로 전이가 되기 전에 꼭 수술을 해야 한다”고 했다.&lt;br&gt;&lt;br&gt;이어 “말씀드리지 못하는 개인적인 여러 힘든 일들과 여러 스트레스로 인해 제 마음이 조금 무리했나 보다. 하지만 사랑하는 아내와 반려견이 옆에서 힘이 돼줘 이정도로 잘 지낸 거 같다”며 “마라톤, 라이딩으로 열심히 운동해서 제 몸이 버텨준 것 같아 너무 감사하다. 여러분 건강검진과 유산소 운동은 꼭 하셔야 한다”고 했다.&lt;br&gt;&lt;br&gt;진태현은 또 “앞으로 수술 전까지 촬영 일정과 해외 일정 등 약속된 여러 가지 일들도 함께하면서 쉴 때 잘 쉬고 최대한 무리하지 않고 잘 이겨낼 테니 너무 걱정하지 마시라”고 했다.&lt;br&gt;&lt;br&gt;그러면서 “사람들이 착한 암 느린 암이라고 하지만 암은 암이라 저희 부부가 조금 놀랐지만 언제나 그랬듯이 잘 흘려보내고 이겨내려고 한다”며 “잘 수술하고 잘 치료해서 암까지도 완벽하게 이겨내는 배우이자 연예인, 마라토너의 모습 보여드리겠다”고 했다.&lt;br&gt;&lt;br&gt;끝으로 “암과 병으로 고생하는 모든 분들 힘내시고 저도 이제 여러분과 함께 이겨내야 하는 전우가 됐다. 모든 분의 건강을 위해서 항상 응원하겠다”고 덧붙였다.&lt;br&gt;&lt;br&gt;진태현의 아내 박시은(45)은 이 글을 자신의 SNS에 공유한 뒤 “우리 허니 잘 이겨낼 거다”라고 응원을 보냈다.&lt;br&gt;&lt;br&gt;2015년 결혼한 진태현·박시은 부부는 두 번의 유산 끝에 2022년 임신 소식을 전했으나, 출산 예정일 20일을 앞두고 또 한 번 유산의 아픔을 겪었다. 두 사람은 최근 한 방송을 통해서도 임신을 위해 준비 중인 모습을 공개한 바 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>서울광장서 K팝 댄스</title>
-      <link>https://www.chosun.com/national/national_general/2025/05/03/OJAE5FDQLRCXXDW45PGTP7NF4U/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/05/03/OJAE5FDQLRCXXDW45PGTP7NF4U/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Fri, 02 May 2025 15:54:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/K5H6A5YWS5C6TP3AKO5LVNHXFU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/박성원 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2일 오후 서울 중구 서울광장에서 열린 봄 축제 ‘스프링 페스타’에서 K팝 랜덤플레이 댄스 행사에 참여한 사람들이 다양한 K팝 음악에 맞춰 춤추고 있다. 서울 스프링 페스타는 5월 초 연휴를 맞아 K컬처 체험, 패션쇼, 레이저 쇼 등 다양한 행사를 통해 시민들의 참여를 이끌고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>이재명, 대장동·위증교사 재판도 기일변경 신청서 제출</title>
@@ -850,15 +855,6 @@
       <description/>
       <pubDate>Wed, 07 May 2025 03:07:18 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UZ7JKDQIS5MQJLO633OXAUX4HE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이재명 더불어민주당 대선 후보가 7일 전북 임실군 임실전통시장에서 연설을 하고 있다. /사진공동취재단&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;오는 15일로 예정됐던 이재명 더불어민주당 대선 후보의 공직선거법 위반 파기환송심 첫 재판이 대통령 선거일 이후로 미뤄졌다.&lt;br&gt;&lt;br&gt;서울고법은 7일 “대통령 후보인 피고인에게 균등한 선거 운동의 기회를 보장하고, 재판의 공정성 논란을 없애기 위해 재판 기일을 대선일 후인 2025년 6월 18일 오전 10시로 변경한다”고 밝혔다.&lt;br&gt;&lt;br&gt;서울고법 관계자는 이날 “파기환송심 재판부는 법원 내·외부의 어떤 영향이나 간섭을 받지 않고 오로지 헌법과 법률에 따라 독립해 공정하게 재판한다는 자세를 견지해 왔다“며 ”앞으로도 마찬가지일 것”이라고 말했다.&lt;br&gt;&lt;br&gt;서울고법은 대법원이 지난 1일 이 후보 사건을 유죄 취지로 판결한 다음 날인 2일 기록을 받자마자 사건을 형사7부(재판장 이재권)에 배당했다. 파기환송심 재판부는 배당 직후 첫 재판 날짜를 오는 15일로 잡아 이 후보에게 소환장을 보냈는데, 이 후보 측이 이날 오전 공판 기일 변경을 신청하자 이를 받아주며 대선 이후로 미룬 것이다.&lt;br&gt;&lt;br&gt;앞서 민주당 측은 대법원과 서울고법의 판결 및 재판 진행에 대해 “사법부의 대선 개입”이라며 “파기환송심 재판 기일을 미루지 않으면 담당 판사들을 탄핵할 것”이라고 주장했다. 민주당과 조국혁신당 의원들은 형사7부의 재판장과 주심 판사의 실명을 거론하며 ‘좌표 찍기’에 나서는 등 압박 수위를 높여왔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>스타 셰프 에드워드 리, 서울시 홍보대사 됐다</title>
-      <link>https://www.chosun.com/national/national_general/2025/05/07/CIJTQ3MRCJDRXIQQKVCCRM4DJA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/05/07/CIJTQ3MRCJDRXIQQKVCCRM4DJA/</guid>
-      <dc:creator>최연진 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 07 May 2025 03:07:18 +0000</pubDate>
-      <content:encoded>유명 셰프 에드워드 리가 서울시 홍보대사로 위촉됐다.&lt;br&gt;&lt;br&gt;서울시는 7일 오전 11시 20분 시청에서 홍보대사 위촉식을 열었다고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NU5LYOZR3NKAPMAURY2OU2THSM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울시 홍보대사로 위촉된 에드워드 리 셰프가 7일 서울 중구 서울시청에서 열린 위촉식에서 소감을 말하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;에드워드 리는 넷플릭스 예능 ‘흑백요리사: 요리계급전쟁’에서 준우승을 차지한 인물이다. 방송 활동과 다수의 요리 책 출판을 통해 한국 음식의 세계화에 기여해왔다는 평가를 받는다.&lt;br&gt;&lt;br&gt;서울시는 “에드워드 리의 인지도와 진정성 있는 요리 철학을 바탕으로 서울의 매력적인 음식 문화를 세계에 알리고, 서울을 더 매력적인 글로벌 관광지로 소개할 수 있을 것”이라고 했다.&lt;br&gt;&lt;br&gt;에드워드 리는 “서울은 음식 문화가 매우 다채롭고 풍부한 도시”라며 “앞으로 서울시 홍보대사로서 서울의 맛을 세계에 소개하고, 서울이 가진 독특한 매력을 더 많은 사람에게 알릴 수 있도록 최선을 다하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[단독] “대법관들께 경의” 현직 판사, “李 판결 존중… 법관 탄핵 반대”</title>
