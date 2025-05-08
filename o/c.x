@@ -13,6 +13,42 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>10년 전 미얀마로 도주했던 한국예총 간부, 지진 피해 귀국했다 공항서 덜미</title>
+      <link>https://www.chosun.com/national/court_law/2025/05/08/C6LCKTXO55GS3PTGPXRKM3YTF4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/05/08/C6LCKTXO55GS3PTGPXRKM3YTF4/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 08 May 2025 12:53:10 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IG6HEPHSMNEXAS77JOXFIF2DEQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울중앙지검./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;10년 전 수십억대 배임을 저지른 혐의로 수사 대상에 올랐으나 미얀마로 도주했던 예술단체 전직 간부가 최근 귀국했다 검찰에 체포된 것으로 8일 확인됐다.&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 서울중앙지검 반부패수사3부(부장 이승학)는 한국예술문화단체총연합회 총무 담당 간부였던 A씨를 지난 4일 인천국제공항에서 체포했다. A씨는 한국예총 집행부가 ‘홈앤쇼핑 컨소시엄’에 참여한 뒤, 뒷돈을 받고 주식을 싸게 넘겼다는 의혹의 핵심 당사자 중 한 명인 것으로 알려졌다. 이 밖에도 한국예총이 국고 지원을 받아 대한민국예술인센터를 설립‧운영하는 과정에서 집행부가 배임 등 비리를 저질렀다는 의혹이 제기됐었다.&lt;br&gt;&lt;br&gt;검찰은 2015년 4월 한국예총을 압수 수색하며 본격 수사에 착수했는데, A씨는 이때 수사망을 피해 잠적한 뒤, 여권을 위조해 미얀마로 도피한 것으로 보고 있다고 한다. 지난 3월 미얀마에 진도 7.7 규모의 강진이 덮치면서 A씨가 10년 만에 귀국을 시도했다는 것이다.&lt;br&gt;&lt;br&gt;검찰은 A씨에 대한 구속영장을 청구해 발부 받았고, 보완 수사를 이어가고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘테라·루나 폭락’ 권도형 아내, 추징 보전 ‘오피스텔 분양권’ 지켜</title>
+      <link>https://www.chosun.com/national/court_law/2025/05/08/OXUQMQDEE5EGLD3M35VXXPG62M/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/05/08/OXUQMQDEE5EGLD3M35VXXPG62M/</guid>
+      <dc:creator>박강현 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 08 May 2025 12:26:25 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/US44TUU6MRGTDHAKZ2X6TUHWAE.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초동 대법원. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;가상 화폐 ‘테라·루나 폭락 사태’의 핵심 인물인 권도형(34) 테라폼랩스 대표의 아내가 자신의 명의로 된 부동산 지분과 오피스텔 분양권 등에 대한 정부의 추징 보전 결정에 반발해 제기한 소송에서 일부 승소한 판결이 대법원에서 확정됐다.&lt;br&gt;&lt;br&gt;대법원 3부(주심 이숙연 대법관)는 지난달 24일 권씨의 아내 이모씨가 정부를 상대로 낸 제3자 이의 소송에서 원고 일부 승소 판결한 원심을 확정했다고 8일 밝혔다. &lt;br&gt;&lt;br&gt;테라·루나 사태는 권씨가 만들어 ‘안전하다’고 주장했던 가상 화폐 테라·루나 가치가 2022년 5월 사실상 ‘제로(0)’로 폭락해 투자자들이 거액을 잃은 사건이다. 검찰은 ‘부패재산몰수법’에 근거해 자본시장법 위반 등 혐의를 받는 권씨의 재산에 대한 추징 보전을 청구했고, 법원은 이 중 2333억여 원을 인용했다. 그러면서 이씨 명의의 부동산 지분과 오피스텔 분양권 등에 대해서도 추징 보전을 결정했다. &lt;br&gt;&lt;br&gt;이를 근거로 정부는 해당 부동산 지분에 관해 가압류 등기를 마쳤고, 이때 가압류됐던 대상 중 하나가 권씨 부부가 매매대금 42억원에 공동매수한 성수동 주상복합 아파트 갤러리아포레였다. 부부는 2021년 3월 각각 10%(이씨), 90%(권씨) 비율로 이 아파트에 대한 소유권 이전 등기를 마친 바 있다.&lt;br&gt;&lt;br&gt;이러한 추징 보전 결정에 반발한 이씨는 지난 2023년 9월 “해당 아파트 지분과 18억6200여만원 상당의 오피스텔(서울 강남구 논현동 상지카일룸M) 분양권은 직접 마련한 자금으로 취득한 것”이라며 정부를 상대로 소송을 냈다.&lt;br&gt;&lt;br&gt;앞서 1심은 지난해 6월 “이씨가 자신의 명의로 지난 2021년 아파트 지분과 분양권 등을 각 취득했고, 취득 시점이 모두 이씨와 권씨의 혼인 기간(2020년 결혼) 내이므로 이씨의 특유재산으로 추정된다”며 “이 사건 지분과 이 사건 분양권 등에 대한 추징 보전 결정은 이씨의 특유재산으로 추정되는 제3자의 재산에 대한 것으로서 특별한 사정이 없는 한 그에 기한 가압류 집행은 불허돼야 한다”고 원고 승소로 판결했다.&lt;br&gt;&lt;br&gt;하지만 2심은 지난해 12월 이씨의 계좌내역 등 증거를 토대로 아파트 지분 소유권은 인정하지 않고, 오피스텔 분양권에 대해서만 1심과 같이 이씨의 특유재산으로 인정했다. 2심은 “부동산 지분은 실질적으로 권씨의 자금으로 매수된 것”이라며 “권씨로부터 원고인 이씨에게 명의신탁된 것이어서 실질적으로 권씨의 소유라고 봄이 타당하다”고 설명했다. &lt;br&gt;&lt;br&gt;대법원도 2심 판단에 잘못이 없다고 보고 ‘심리불속행 기각’으로 원심을 확정했다. 심리불속행 기각은 상고 대상이 못 돼 심리 없이 원심대로 확정하는 절차다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘봉천동 흉기난동’ 20대 남성 구속...“도망할 염려”</title>
+      <link>https://www.chosun.com/national/court_law/2025/05/08/GAA7LAZP2RE53GUPJWLTFTB7GI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/05/08/GAA7LAZP2RE53GUPJWLTFTB7GI/</guid>
+      <dc:creator>김은경 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 08 May 2025 12:10:49 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/77TKQNRH7Z2JDXENASDQ4YDC3A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 관악구 봉천동에서 거리를 돌아다니다가 흉기를 휘두르고 나체 상태로 거리를 활보한 20대 남성이 영장실질심사를 받기 위해 8일 서울중앙지법으로 들어서고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 관악구 봉천동 길거리에서 행인들에게 흉기를 휘둘러 다치게 하고 나체로 도주한 20대 남성이 8일 경찰에 구속됐다.&lt;br&gt;&lt;br&gt;서울중앙지법 이정재 영장전담 부장판사는 이날 특수상해 혐의를 받는 송모씨에 대한 구속영장 실질 심사를 진행한 뒤 “도망할 염려가 있다”며 구속 영장을 발부했다.&lt;br&gt;&lt;br&gt;송씨는 지난 6일 오전 10시 20분쯤 봉천동 버스정류장과 식당 등에서 가위와 볼펜을 휘둘러 시민들을 다치게 한 혐의를 받는다. 행인 등 4명이 긁히고 베이는 등 경상을 입고 일부는 병원에서 치료를 받은 것으로 전해졌다.&lt;br&gt;&lt;br&gt;송씨는 범행 직후 옷을 벗고 나체로 길거리를 활보하다가 경찰에 검거됐다. 간이 검사 결과 음주나 마약은 하지 않은 것으로 파악됐다. 경찰은 구체적인 범행 동기와 정신 질환 여부 등을 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>그룹 AOA 찬미 6월 결혼 발표…“다정하고 고마운 사람”</title>
+      <link>https://www.chosun.com/national/people/2025/05/08/INC5JQHRW5FPZAIR7ST24FXH2Y/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/05/08/INC5JQHRW5FPZAIR7ST24FXH2Y/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 08 May 2025 11:50:47 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QSECCYJFJJGZ3EC3WFDPCXMVHA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;찬미와 예비 신랑. /인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그룹 AOA 출신의 찬미(본명 임도화‧현 활동명 도화‧29)가 다음 달 결혼을 한다고 밝혔다. &lt;br&gt;&lt;br&gt;찬미는 8일 자신의 소셜미디어를 통해 “함께 앞으로의 날들을 걸어가고 싶은 사람을 만나 다가오는 6월 결혼하게 되었다”며 “제 모든 순간을 따뜻하게 지지해 주고 곁을 지켜준, 정말 다정하고 고마운 사람”이라고 했다. &lt;br&gt;&lt;br&gt;찬미는 “조만간 여러분께도 천천히 소개해드릴 수 있을 것”이라며 “저희 두 사람의 앞날을 따뜻한 마음으로 축복해 주시고, 함께 기도해 주시면 큰 힘이 될 것”이라고 했다.&lt;br&gt;&lt;br&gt;찬미는 약혼자의 뒷모습이 담긴 웨딩사진도 공개했다. 다만 약혼자의 직업 등 구체적인 정보는 밝히지 않았다.&lt;br&gt;&lt;br&gt;찬미는 2012년 AOA로 데뷔해 ‘짧은 치마’, ‘단발머리’, ‘심쿵해’ 등의 히트곡으로 사랑을 받았다.&lt;br&gt;&lt;br&gt;이후 배우로도 활동하며 웹드라마 ‘사랑공식 11M’, ‘국가의 탄생’ 등에 출연했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>검정고시 응시 소년수형자 25명 전원 합격</title>
       <link>https://www.chosun.com/national/court_law/2025/05/08/6Z4NT36SKRFAZFOFTSWFNKFH6I/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/05/08/6Z4NT36SKRFAZFOFTSWFNKFH6I/</guid>
@@ -890,15 +926,6 @@
       <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KGKGNH3Q25I4PJONDC34IP6GNA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 한 대학병원 내 전공의실 앞 복도의 모습. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정부가 사직 전공의들의 5월 복귀를 허용하기로 방향을 잡은 것으로 알려졌다. 이달 중 추가로 전공의 모집을 열어 복귀할 수 있는 길을 열어주겠다는 것이다.&lt;br&gt;&lt;br&gt;7일 정부와 의료계에 따르면, 조규홍 보건복지부 장관은 이날 오후 ‘전공의 복귀 방안을 적극 검토하겠다’는 취지의 입장을 발표한다. 다만 병역 등 수련 특례 적용 여부 등은 이날 발표에 포함되지 않을 것으로 전해졌다.&lt;br&gt;&lt;br&gt;전공의들은 수련 공백 기간이 3개월을 넘으면 전문의 시험에 응시할 수 없다. 올해 수련이 3월에 시작돼 5월까지 복귀하지 않으면 내년 전문의 시험에 응시할 자격이 주어지지 않는다. &lt;br&gt;&lt;br&gt;때문에 전공의 사이에서는 “5월까지 복귀해야 한다”는 말이 나왔다. 전공의 모집은 통상 상·하반기 두 차례 진행된다. 하반기 모집은 통상 7~8월에 진행될 예정이다. 전공의 사이에서 “정부에 추가 모집을 요청해야 한다”는 주장이 제기되는 이유다.&lt;br&gt;&lt;br&gt;사직 전공의의 임진수 전 대한의사협회 기획이사는 설문조사를 통해 전공의들의 의견 수렴에 나서기도 했다. 임씨는 “5월이 지나면 졸국(수련병원 의국 졸업) 연차 전공의는 복귀해도 시험 응시가 어렵다”며 “조사를 통해 5월 전공의 모집을 요청하는 분들의 의견을 묻는다”고 했다. 이번 설문은 전공의 수련을 담당하는 대한의학회 이진우 회장이 “5월 모집을 정부에서 받아들이게 하려면 명분이 필요하다”고 밝힌 데 따라 이뤄진 것이다. 설문 공지에도 이 회장의 이 같은 언급이 첨부됐다.&lt;br&gt;&lt;br&gt;4일 오후 시작된 이 설문에는 100여명의 사직 전공의가 참여했고, 80%가 “복귀하겠다”고 답한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>페이커 ‘쉿’ 포즈 패러디한 김문수… T1 “선수와 무관”</title>
-      <link>https://www.chosun.com/national/national_general/2025/05/07/5AAUNBAERJFQHOQXUFMW55DXNE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/05/07/5AAUNBAERJFQHOQXUFMW55DXNE/</guid>
-      <dc:creator>박선민 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 07 May 2025 03:28:20 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IR25LXXDVRBPVMUIY55PVLKQ6Q.png"&gt;&lt;figcaption&gt;&lt;small&gt;페이커의 '쉿' 세레머니 포즈를 패러디한 김문수 대선 후보. /페이스북&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김문수 국민의힘 대선 후보가 프로게이머 ‘페이커’ 이상혁 세리머니를 따라 한 모습을 유세 사진으로 사용하자, 이상혁 소속팀인 T1 측이 “페이커 선수는 어떠한 정치적 입장이나 캠페인과도 무관하다”고 밝혔다. &lt;br&gt;&lt;br&gt;T1은 6일 공식 소셜미디어 계정을 통해 “최근 일부 정치 관련 콘텐츠에 페이커 선수를 상징하는 이미지와 문구가 사용된 사례가 확인됐다”며 이같이 말했다. &lt;br&gt;&lt;br&gt;T1은 “페이커 선수의 이미지나 관련 표현이 특정 정치적 의미로 해석돼 오해를 불러일으키지 않기를 바란다”고 했다. 이어 “이런 사례와 관련해 게시글 삭제 등의 조치를 취하기 위해 노력 중”이라며 “선수에게 어떠한 피해도 없도록 최선을 다하겠다”고 했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2IRXLE6LRRD73DNE7SY63JNFJM.png"&gt;&lt;figcaption&gt;&lt;small&gt;페이커의 시그니처 포즈로 여겨지는 '쉿' 세레머니. /T1 인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;앞서 김 후보 캠프는 전날 김 후보가 공식 유세 프로필 사진 촬영을 진행했다며 이상혁의 ‘쉿’ 세리머니를 패러디한 사진을 공개했다. 검지손가락을 입술에 대는 쉿 포즈는 이상혁이 경기 후 인터뷰나 포토타임에서 자주 선보이는 시그니처 포즈로, 상대 팀 등의 비판을 말없이 응수하는 상징으로 해석된다. &lt;br&gt;&lt;br&gt;이와 관련해 캠프 측은 “최근 젊은 층 사이에서 유행하는 ‘마무리 선언’ 밈을 차용했다”며 “이번 촬영은 단순한 사진을 넘어, 시대정신과 세대감각을 아우르는 상징적 행보”라고 페이커를 패러디한 이유를 설명했다. &lt;br&gt;&lt;br&gt;김 후보는 이날 자신의 페이스북 계정에도 “내가 책임질게, 끝나! 끝나!”라는 문구와 함께 스튜디오에서 이상혁 사인 밑에 자신의 사인을 기록한 사진을 올렸다. 해시태그로 ‘페이커’를 덧붙이기도 했다. “내가 책임질게, 끝나! 끝나!”는 과거 이상혁이 경기 중 팀원들을 독려하며 한 말로, e스포츠 팬들 사이에선 페이커의 상징적인 멘트로 꼽힌다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>서울고법 “이재명 재판, 대선 후 6월 18일로 변경”</title>
       <link>https://www.chosun.com/national/court_law/2025/05/07/ASBWGDUHBJDCNED4QX2FN6HJEU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/05/07/ASBWGDUHBJDCNED4QX2FN6HJEU/</guid>
@@ -917,15 +944,6 @@
       <content:encoded>현직 부장판사가 7일 법원 내부망(코트넷)에 최근 이재명 더불어민주당 대선 후보에 대해 유죄 취지 판결을 내린 대법원 전원합의체 판결에 존중하며 대법관들에게 경의의 뜻을 표한다고 밝혔다. 일부 판사가 대법원의 이 후보 판결을 공개 비판한 것에 대해 반박한 것이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GPT53MEX5ROXVAIBABDV4ICDG4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;더불어민주당 이재명 대선 후보가 '골목골목 경청투어:국토종주편'에 나선 7일 전북 임실군 임실시장에서 연설을 하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;의정부지방법원의 A 부장판사는 이날 오전 ‘조희대 대법원장님과 대법관님들의 판결을 존중합니다’라는 제목의 글을 코트넷에 올렸다. 그는 “법원 외부, 특히 언론에서 보기에 이번 대법원 전원합의체 판결에 대해 비판적 의견만 존재하는 것으로 오인할까 해 글을 올린다”며 “결론의 당부를 떠나 판결에 참여한 대법원장님과 대법관님들의 고뇌에 찬 판결에 존중과 경의를 표한다”고 했다.&lt;br&gt;&lt;br&gt;이어 “법관의 재판 진행, 판결의 결론에 따른 유불리에 따라 법관에 대한 탄핵, 국정조사, 청문회 등을 언급하는 것 자체에 대해 단호히 반대하고 깊은 우려를 표한다”고 밝혔다.&lt;br&gt;&lt;br&gt;이는 최근 일부 현직 판사가 대법원의 이 후보 판결을 공개 비판한 데 따른 것이다. 이날 오전 부산지법 동부지원 노행남 부장판사는 코트넷에 ‘이러고도 당신이 대법관입니까?’라는 제목의 글을 올려 “정녕 그 피고인(이 후보)의 몇 년 전 발언이 계엄령을 선포하여 온 국민을 공포에 떨게 한 전직 대통령의 행위보다 악랄한 것이냐”고 반문했다.&lt;br&gt;&lt;br&gt;앞서 김도균 부산지법 부장판사와 송경근 청주지법 부장판사도 이 후보 판결에 대해 “매우 이례적 절차” “초고속 절차”라며 대법원을 비판하는 글을 올린 바 있다. &lt;br&gt;&lt;br&gt;대법원 판결을 공개 비판하는 일부 판사들의 발언은 대법원 판단을 부정하거나 이 후보를 우회적으로 옹호하는 것으로 해석될 수 있어, 법조계에서는 “정치적 중립을 위반할 소지가 있다”는 지적이 나온다. 법관윤리강령은 정치적 편향성이 드러나거나 중립성을 의심받을 수 있는 언행을 금지하고 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>위너, ‘부실 복무 의혹’ 송민호 없이 콘서트… YG “쉽지 않은 결정” </title>
-      <link>https://www.chosun.com/national/national_general/2025/05/07/6EPCOMH7EZB2FHZBU2DHEV76HI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/05/07/6EPCOMH7EZB2FHZBU2DHEV76HI/</guid>
-      <dc:creator>박선민 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 07 May 2025 02:06:12 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RP5KHW4BKT65P7TG3JEK35GUXI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;그룹 위너. /뉴시스 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그룹 위너가 부실 복무 의혹을 받는 멤버 송민호를 제외하고 콘서트를 개최한다.&lt;br&gt;&lt;br&gt;소속사 YG엔터테인먼트는 7일 “오는 7월 약 3년 3개월 만의 위너 콘서트를 개최할 예정”이라며 “이번 공연은 강승윤, 김진우, 이승훈 세 멤버가 함께 무대를 꾸민다”고 밝혔다. &lt;br&gt;&lt;br&gt;위너가 콘서트를 여는 것은 2022년 4월 이후 처음이다. 위너는 2023년 송민호와 강승윤이 각각 사회복무요원과 육군 현역으로 군 복무를 시작하면서 활동 공백기에 들어갔다. 작년 12월 두 멤버가 복무를 마쳐 복귀를 앞두고 있었지만, 송민호가 병역법 위반 혐의로 경찰 조사를 받으면서 컴백 여부가 불투명해진 상황이었다.&lt;br&gt;&lt;br&gt;이에 YG는 “3년 만에 팬 여러분을 만나는 자리이자 위너의 컴백을 기념하는 공연인 만큼 오래전부터 공연장 대관을 마치고 완성도 높은 무대를 준비해왔다”며 “오랜 시간 위너의 무대를 기다려주신 팬 여러분을 위해, 팬들을 만나고 싶어 하는 멤버들의 확고한 의지를 반영해 예정대로 콘서트를 진행하기로 했다”고 설명했다. 그러면서 “쉽지 않은 결정이었던 만큼, 팬 여러분의 따뜻한 응원과 성원을 부탁드린다”고 했다. &lt;br&gt;&lt;br&gt;한편 송민호는 사회복무요원 근무 당시 병가와 휴가를 반복하며 출근을 제대로 하지 않는 등 근무를 소홀히 했다는 의혹을 받는다. 병무청이 송민호에 대한 수사 의뢰서를 제출하면서, 송민호는 작년 12월 소집해제 당일 병역법 위반 혐의로 입건됐다. &lt;br&gt;&lt;br&gt;이와 관련해 경찰청 관계자는 지난 3월 31일 정례 브리핑에서 송민호가 3차 조사까지 마쳤으며 근무 시간에 근무지를 이탈한 혐의를 대체로 인정했다고 밝혔다. 당시 관계자는 “확보한 자료를 토대로 혐의 유무를 판단할 예정”이라고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>“대통령직, 범죄 도피처 우려” 법무부, ‘대통령 재판 정지법’ 반대</title>
       <link>https://www.chosun.com/national/court_law/2025/05/07/B27UL3BWEZEWLK5M5J2LL3T54M/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/05/07/B27UL3BWEZEWLK5M5J2LL3T54M/</guid>
@@ -933,28 +951,6 @@
       <description/>
       <pubDate>Wed, 07 May 2025 01:36:39 +0000</pubDate>
       <content:encoded>대통령에 당선될 경우 진행 중인 형사 재판을 멈추도록 하는 형사소송법 개정을 더불어민주당이 추진하는 데 대해 법무부가 ‘신중 검토’ 의견을 낸 것으로 7일 전해졌다. 민주당 주도로 형사소송법을 개정하는 것에 반대한 셈이다. 법무부는 국회 측에 “대통령직이 범죄의 도피처로 전락할 우려가 있고, 헌법수호의무를 지는 대통령의 지위와도 배치된다”며 “국민 신뢰를 훼손하고 대한민국의 대외신인도 및 국격에도 악영향을 미칠 것”이라는 의견을 밝혔다고 한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WIDFNWGQIN43DV7RWTRIQJ7H2A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기 정부과천청사 법무부./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 법무부는 최근 형사소송법 개정안을 심의하는 국회 법제사법위원회 산하 법안심사1소위원회에 이 같은 내용을 담은 의견서를 제출했다. 앞서 민주당 김용민 의원은 ‘피고인이 대통령 선거에 당선된 때에는 법원은 당선된 날부터 임기 종료 시까지 결정으로 공판 절차를 정지해야 한다’는 조항을 형사소송법 306조의 하위 조항으로 신설하는 개정안을 대표 발의했다. 헌법 84조는 ‘대통령은 내란 또는 외환의 죄를 범한 경우를 제외하고는 재직 중 형사상의 소추(訴追)를 받지 아니한다’고 규정하는데, 이 소추의 범위에 당선 전부터 진행되던 재판이 포함되는지 여부에 대한 명확한 규정이 없어 논란이 빚어진 데 따른 것이다.&lt;br&gt;&lt;br&gt;법무부는 국회에 낸 의견에서 “헌법 제84조의 소추에 형사재판이 포함되는지에 관해서는 포함설과 불포함설이 대립된다”며 “헌법이 대통령에게 부여한 특권은 최대한 제한적으로 해석함으로써 대통령에게의 권력집중을 최소화하는 것이 바람직하다는 점에서 개정안의 내용은 국민적 의견을 수렴한 후 헌법의 개정을 통해 도입하는 것이 바람직하다”고 했다. 김 의원이 대표 발의한 개정안은 대통령의 불소추특권을 지나치게 넓게 해석하고 있다는 취지다.&lt;br&gt;&lt;br&gt;법무부는 이 개정안이 특정인을 위한 법률안으로 해석될 여지가 있다는 점도 강조했다. 대선 이후에 형사재판이 확정된 피고인과 대선 전 형사재판이 확정돼 피선거권을 박탈당한 사람을 합리적 이유 없이 차별한다는 것이다. 법무부는 이 밖에도 “대통령 당선자의 판결에 의한 자격 상실을 전제하고 있는 헌법 제68조 규정과 충돌할 소지가 있다”며 “평등원칙을 위배하고, 위헌 소지도 농후하다”고 지적했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/37JXCRXBDCJ3PWFZVETJTOMA7Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이재명 더불어민주당 대선 후보. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;법무부는 형사소송법 306조가 심신상실 등 정상적인 재판 진행이 어려운 경우에 적용하는 조항이라는 점도 의견서에 담았다. 306조는 공판절차의 정지를 다루는데, 피고인이 사물 변별 또는 의사 결정 능력이 없는 상태일 경우 공판을 정지하도록 규정한다. 피고인이 질병으로 재판에 출석할 수 없는 경우도 포함된다. 법무부는 “대통령에 대한 공판절차 정지 규정을 형사소송법에 규정하는 것은 법체계 정합성에 위배된다”고 했다.&lt;br&gt;&lt;br&gt;법무부는 이대로 형사소송법이 개정될 경우 “대통령직이 범죄의 도피처로 전락할 우려가 있다”며 “헌법 수호 의무를 지는 대통령의 지위와도 배치되는 측면이 있다”고 지적했다. 법무부는 “대통령 취임 전 범한 범죄는 대통령 신분이 아닌 상태에서 범한 범죄로서, 대통령의 직무 수행과는 무관하다”며 “공판절차 정지 대상으로 하는 것은 공직의 자격요건을 엄격히 제한하는 관련 법률 규정을 무력화시키고, 자격이 없는 피고인으로 하여금 부당하게 그 임기를 보장하는 결과를 초래한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>검찰, SK하이닉스 반도체 기술 중국으로 유출한 前 직원 구속 기소</title>
-      <link>https://www.chosun.com/national/court_law/2025/05/07/IY3O45I65NGUHN5VGLVXXVEWSY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/05/07/IY3O45I65NGUHN5VGLVXXVEWSY/</guid>
-      <dc:creator>박강현 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 07 May 2025 02:45:17 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4SN3WCZLX5FNZC4U4577JALRWI.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초동에 위치한 서울중앙지검. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰이 SK하이닉스의 첨단 기술과 영업 비밀 등을 중국으로 유출한 혐의를 받는 전직 직원을 7일 구속 상태로 재판에 넘겼다.&lt;br&gt;&lt;br&gt;서울중앙지검 정보기술범죄수사부(부장 안동건)는 이날 김모(51)씨를 산업기술보호법 위반등 혐의로 구속 기소했다.&lt;br&gt;&lt;br&gt;SK하이닉스 중국 현지법인에서 근무하던 김씨는 중국 하이실리콘(빅테크 기업 화웨이 자회사)으로 이직을 제안 받은 뒤 지난 2022년 SK하이닉스의 CIS(CMOS Image Sensor) 관련 첨단 기술과 영업 비밀을 무단 유출하고 부정하게 취득해 누설한 혐의를 받는다. CIS는 빛을 디지털 신호로 변환하는 반도체 소자로 디지털 카메라 렌즈의 핵심 부품 등으로 쓰인다.&lt;br&gt;&lt;br&gt;검찰 조사에 따르면 김씨는 하이실리콘으로 이직하는 과정에서 SK하이닉스 CIS 기술 자료를 빼돌리기 위해 보안 규정을 위반해 사내 문서관리시스템에서 첨단 기술·영업 비밀 자료를 출력하고 촬영한 것으로 나타났다. 김씨가 찍은 기술 자료 사진은 1만 1000여 장에 이르는 것으로 조사됐다. 이 중에는 AI(인공지능)에 사용되는 HBM(High Bandwidth Memory, 고대역폭메모리) 기술 관련 첨단 기술인 하이브리드 본딩(Hybrid Bonding) 자료도 포함된 것으로 파악됐다.&lt;br&gt;&lt;br&gt;또 김씨는 유출이 금지된 자료라는 사실과 그 출처를 숨기기 위해 일부 기술 자료에 기재돼 있는 ‘대외비’ 문구나 회사 로고 등을 삭제했다. 김씨는 SK하이닉스의 영업 비밀 자료를 인용해 작성한 이력서를 중국 회사 2곳에 제출해 누설하기도 했다.&lt;br&gt;&lt;br&gt;최근 검찰은 국내 기업의 첨단 기술과 핵심 인력을 외국 회사에 넘기는 산업기술 유출 범죄 수사에 심혈을 기울이고 있다. 지난 2일에는 중국 CXMT(창신메모리테크놀로지)로 이직한 뒤 삼성전자가 약 1조6000억원을 들여 개발한 D램 공정 국가 핵심 기술을 부정하게 취득해 사용한 혐의를 받는 전직 삼성전자 연구원 전모(55)씨도 구속 기소한 바 있다.&lt;br&gt;&lt;br&gt;검찰은 “기업과 국가 경제를 위협하는 기술 유출 범죄에 엄정 대응하도록 하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>의대 교육 파행에도... 학부모들 “의대 선호도 더 높아질 것”</title>
-      <link>https://www.chosun.com/national/education/2025/05/07/3PV5ALXGK5E27JRB7RN47NGUEE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2025/05/07/3PV5ALXGK5E27JRB7RN47NGUEE/</guid>
-      <dc:creator>오주비 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 07 May 2025 01:29:48 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RRQZYFZ4PJLBFPDNCVMF43A53Q.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;서울의 한 의과대학 앞으로 시민들이 지나가고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;의대가 있는 전국 40개 대학이 7일까지 교육부에 의대생 유급 및 제적 확정자를 제출하는 가운데, 제적 예정 통보서를 받은 일부 의대생을 제외하곤 수업 복귀 움직임이 뚜렷하게 나타나지 않고 있다. &lt;br&gt;&lt;br&gt;이에 따라 내년 24·25·26학번이 예과 1학년으로 함께 공부하는 초유의 ‘트리플링’ 사태가 전망되는 등 의대 교육 파행이 해결되지 않고 있음에도, 여전히 학부모들 사이에선 의대 선호도가 높은 것으로 나타났다.&lt;br&gt;&lt;br&gt;종로학원이 전국 초·중학생 학부모 534명을 대상으로 지난달 23~28일 진행한 설문조사에 따르면, ‘자녀가 이과에 진학하길 희망한다’는 답변은 88%로 높게 나왔다. &lt;br&gt;&lt;br&gt;이들 중 51.7%는 자녀가 의학 계열(의대·치대·한의대 등)을 전공으로 선택하길 희망했다. 공대와 순수 자연계열을 전공하길 희망하는 학부모들은 각각 39.7%, 8.6%에 불과했다.&lt;br&gt;&lt;br&gt;더하여 학부모의 42.4%는 앞으로 의대 선호도가 더 높아질 것으로, 48.3%는 현재 수준으로 유지될 것으로 보았다. &lt;br&gt;&lt;br&gt;의대 선호도가 증가할 것이라 답한 학부모의 상당수는 “의사는 경기 불안정 속에서도 고소득이 가능한 안정적인 직업”이기 때문에 의대 선호도는 올라갈 수밖에 없다고 답했다. &lt;br&gt;&lt;br&gt;반면 앞으로 의대 선호도가 하락할 것이라 응답한 학부모는 9.3%밖에 되지 않았다. 의대 인기가 떨어질 것이라 보는 초·중학생 학부모는 10명 중 1명에 불과한 것이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/RRQZYFZ4PJLBFPDNCVMF43A53Q.JPG?auth=6960bd9a8c59b6d56d8230e377627b4fe2088310f9d65365b55b2c0991ab28ab&amp;smart=true&amp;width=3984&amp;height=2656" type="image/jpeg" height="2656" width="3984">
-        <media:description type="plain">서울의 한 의과대학 앞으로 시민들이 지나가고 있다. /뉴스1</media:description>
-        <media:credit role="author" scheme="urn:ebu">(서울=뉴스1) 장수영 기자</media:credit>
-      </media:content>
     </item>
   </channel>
 </rss>
