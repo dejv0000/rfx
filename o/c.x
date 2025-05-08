@@ -13,6 +13,60 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>검정고시 응시 소년수형자 25명 전원 합격</title>
+      <link>https://www.chosun.com/national/court_law/2025/05/08/6Z4NT36SKRFAZFOFTSWFNKFH6I/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/05/08/6Z4NT36SKRFAZFOFTSWFNKFH6I/</guid>
+      <dc:creator>유희곤 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 08 May 2025 09:50:19 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HH75RYRDVFPEBHBSPTAS5EXJUA.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;서울남부교도소 '만델라 소년학교' /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;법무부는 지난달 5일 전국 교정기관 20곳에서 치러진 2025년도 제1회 검정고시에 수형자 330명이 응시해 261명(초졸 4명·중졸 33명·고졸 224명)이 최종 합격했다고 8일 밝혔다. 합격률은 79.1%로 작년(71.8%)보다 7.3%포인트 올랐다.&lt;br&gt;&lt;br&gt;올해 검정고시에 합격한 수형자 중 25명은 서울남부교도소의 ‘만델라 소년학교’의 소년수형자로서 합격률 100%를 기록했다. 만델라 소년학교는 14~17세 수형자들이 검정고시와 수능을 준비하는 소년수형자 전담교정시설이다. 2023년 3월 개교했고 2024년 1회 26명·2회 32명에 이어 지난달까지 응시자 83명 전원이 합격했다.&lt;br&gt;&lt;br&gt;지난달 고등학교 졸업 검정고시에서 평균 94점을 기록한 조모군은 “잘못을 저질러 이곳에 왔지만 반성하면서 이 시간이 헛되지 않게 열심히 공부하고 있다”면서 “장래 희망과 인생의 목표가 생겨 미래를 꿈꾸게 됐다”고 했다.&lt;br&gt;&lt;br&gt;법무부 관계자는 “학력 취득 등 다양한 교육 프로그램을 강화해 수형자들이 출소 후 사회에 안정적으로 정착할 수 있도록 노력하겠다”고 했다. &lt;br&gt;&lt;br&gt;최근 10년간 검정고시에 합격한 수형자는 총 5061명이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>李 상고심·사법부 압박 논의...전국법관회의 소집 여부, 9일 결정</title>
+      <link>https://www.chosun.com/national/court_law/2025/05/08/ASBZ3IR5O5DOBF4ETB4UYGFD7I/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/05/08/ASBZ3IR5O5DOBF4ETB4UYGFD7I/</guid>
+      <dc:creator>이슬비 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 08 May 2025 09:11:22 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LR5XWC3QCNND3A5YKHOMYZQLWY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;조희대 대법원장이 지난달 14일 경기도 고양시 사법연수원에서 열린 전국법관대표회의에서 인사말을 하고 있다. /전국법관대표회의 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전국 법관 대표들이 이재명 더불어민주당 대선 후보의 공직선거법 위반 사건 선고와 민주당의 사법부 독립성 훼손 등을 논의하기 위한 전국법관대표회의를 열지 논의 중이다. 전국법관대표회의는 오는 9일 오전 10시까지 의견을 수렴해 회의 개최 여부를 결정하기로 했다.&lt;br&gt;&lt;br&gt;8일 법조계에 따르면, 법관대표회의는 회의 소집에 대한 법관들의 의견을 오는 9일 오전 10시까지 받기로 했다. 회의 소집에 대한 의견 수렴은 전국법관대표회의 단체 대화방에서 한 법관대표가 제안하면서 투표 형식으로 시작됐고, 애초 이날 오후 6시가 마감 시한이었다. 그러나 “임시회 소집 여부에 대해 소속 법관의 의사 수렴을 위한 시간이 더 필요하다”는 의견에 따라 기한을 연장하기로 했다. &lt;br&gt;&lt;br&gt;법관대표회의는 매년 4월과 12월 정기적으로 열리지만 의장이 직권으로, 또는 법관대표 5분의 1 이상의 요구가 있을 때 임시회의를 소집할 수 있다. 투표를 통해 26명 이상, 각급 법원 대표자 5분의 1 이상의 요청이 있으면 전국법관대표회의가 소집된다.&lt;br&gt;&lt;br&gt;의장인 김예영(사법연수원 30기) 서울남부지법 부장판사도 임시회 직권 소집과 관련해 운영위원회와 논의 중인 것으로 전해졌다.&lt;br&gt;&lt;br&gt;전국법관대표회의는 각급 법원의 대표 판사들이 모여 사법행정과 법관 독립 등에 대한 의견을 표명하는 회의체다. 현안에 따라 비정기적으로 열리던 이 회의는 대법원 규칙 개정으로 2018년 4월부터 공식 기구가 됐다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>文정부 임명 전 대통령기록관장, 해임 취소 소송서 패소</title>
+      <link>https://www.chosun.com/national/court_law/2025/05/08/ENO7CPNLXBF5LMM2DYIKNM44OI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/05/08/ENO7CPNLXBF5LMM2DYIKNM44OI/</guid>
+      <dc:creator>김은경 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 08 May 2025 09:41:42 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/R7SG3CK277JA2R2YYYBWEFZ6YE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;세종시 어진동 대통령기록관/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;문재인 정부 시절 취임했다가 부당 지시와 갑질 등 논란을 빚고 1년 8개월 만에 해임된 심성보 전 대통령기록관장이 부당한 해임이라며 소송을 냈다가 1심에서 패소했다. &lt;br&gt;&lt;br&gt;8일 법조계에 따르면 서울행정법원 행정12부(재판장 강재원)는 심 전 관장이 해임 처분을 취소해달라며 행정안전부 장관을 상대로 제기한 소송에서 지난달 17일 원고 패소로 판결했다.&lt;br&gt;&lt;br&gt;심 전 관장은 문재인 정부 임기 말기인 2021년 9월 취임한 뒤 임기 5년을 채우지 못하고 2023년 5월 해임 징계를 받았다. 징계 사유는 일부 직원에게 폭언 등 갑질과 비인격적 대우를 하고 대통령지정기록물 관리와 관련해 위법·부당한 지시를 했다는 것이었다. 심 전 관장은 이에 불복해 인사혁신처에 소청 심사를 냈지만 기각되자 소송을 제기했다.&lt;br&gt;&lt;br&gt;판결문에 따르면 심 전 관장은 대통령기록관의 기록물공개심의회가 이미 공개 처리한 대통령기록물을 비공개로 전환할 수 있도록 규정을 신설하라고 직원에게 지시했다. 보호기간 중인 대통령지정기록 열람을 지시하기도 했다. 직원들은 이 같은 지시를 거부한 뒤로 심 전 관장에게 모욕적인 발언을 들었다고 주장했다.&lt;br&gt;&lt;br&gt;재판부는 징계 사유를 모두 인정했다. 대통령기록물 비공개 전환에 대해 “대통령기록물법상 공개로 분류된 기록물을 비공개로 재분류하는 법적 근거는 존재하지 않는다”며 “법령에서 정한 권한을 정당한 근거 없이 지나치게 확대 해석하고 수차례 정당한 범위를 벗어난 업무 지시를 했다”고 지적했다. 대통령지정기록 열람 지시에 대해서는 “관장이라고 해도 보호 기간 중의 대통령지정기록물을 임의로 열람할 수 없음이 명백하다”고 했다. &lt;br&gt;&lt;br&gt;심 전 관장은 해임 처분이 과도하다고 주장했지만 재판부는 “비위의 정도가 심하고 고의가 있다고 보는 게 타당하다”며 “징계권자가 어떤 처분을 할 것인지는 기본적으로 징계권자 재량”이라고 했다. 심 전 관장은 1심 판결에 불복해 항소했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>허위 서류 만들어 외국인 체류 기간 연장… 외국인 브로커 구속 송치</title>
+      <link>https://www.chosun.com/national/incident/2025/05/08/NUPRQH5NE5FX7IAEQBI3F54SSA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/05/08/NUPRQH5NE5FX7IAEQBI3F54SSA/</guid>
+      <dc:creator>인천=이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 08 May 2025 09:29:11 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/X2Q3RE7SYBDVNM5XQXUMEOUQ5Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;인천 출입국외국인청. /법무부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;허위 서류를 만들어 외국인들이 국내 체류 기간을 연장할 수 있도록 해준 외국인 브로커가 출입국 당국에 적발됐다. &lt;br&gt;&lt;br&gt;인천출입국‧외국인청은 출입국관리법 위반 혐의로 우즈베키스탄 국적 남성 A(41)씨를 구속해 검찰에 송치했다고 8일 밝혔다. &lt;br&gt;&lt;br&gt;A씨는 지난 2022년 9월부터 2023년 8월까지 총 25차례에 걸쳐 허위 서류를 만들어 외국인 17명의 국내 체류 기간을 연장하도록 돕고 750만원을 받아 챙긴 혐의를 받고 있다. &lt;br&gt;&lt;br&gt;A씨는 공범 B씨와 SNS(사회관계망서비스)로 체류 기간을 연장해야 하는 외국인들을 모집한 뒤, 이들이 컨테이너 선적 포장 작업을 하는 것처럼 수출신고필증을 위조하는 등 허위 서류를 만들어 온라인 신청 업무를 대행한 것으로 파악됐다. 이들은 외국인들의 국내 체류지 확인에 필요한 가짜 부동산 임대차계약서를 만들기도 한 것으로 조사됐다. &lt;br&gt;&lt;br&gt;출입국 당국은 A씨와 B씨가 출국한 사실을 파악하고 지명수배한 뒤, 지난달 24일 인천국제공항으로 입국한 A씨를 붙잡았다. &lt;br&gt;&lt;br&gt;또 A씨 등의 허위 서류로 체류 기간을 연장한 외국인 17명 중 10명을 출국 조치하고 나머지 7명을 추적하고 있다. &lt;br&gt;&lt;br&gt;인천출입국‧외국인천 관계자는 “허위 서류를 이용한 비슷한 사례가 더 있을 것으로 보고 수사를 확대해 엄정 대응할 방침”이라고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘당원 아닌척 응답 해달라’…여론조사 허위 참여 유도 2명 고발</title>
+      <link>https://www.chosun.com/national/regional/chungcheong/2025/05/08/47D7WUTZRZGIFDTZEGQS2VYB7I/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2025/05/08/47D7WUTZRZGIFDTZEGQS2VYB7I/</guid>
+      <dc:creator>세종=김석모 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 08 May 2025 08:45:05 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SAPPXVEXXGGUQVLFMATDDMDI64.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;세종시선거관리위원회. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;세종시선거관리위원회는 제21대 대통령 선거 정당 후보자 추천을 위한 당내 경선 여론조사에 허위 응답하도록 권유·유도한 혐의(공직선거법 위반)를 받는 선거구민 A씨 등 2명을 경찰에 고발했다고 8일 밝혔다.&lt;br&gt;&lt;br&gt;A씨 등은 한 정당 경선 후보자의 지지자들이 가입된 소셜미디어(SNS) 단체방 등에 ‘경선 여론조사 전화를 받으면 당원이 아닌 것처럼 응답하고 여론조사에 참여해달라’는 취지의 권유 글을 게시한 혐의를 받는다.&lt;br&gt;&lt;br&gt;이들 2명은 수도권에 거주하는 것으로 알려졌다. 세종시선관위 측은 온라인에서 이 같은 글을 확인하고 경찰에 신고했다.&lt;br&gt;&lt;br&gt;공직선거법에는 당내 경선을 위한 여론조사의 결과에 영향을 미치도록 다수의 선거구민을 대상으로 성별·연령 등을 거짓으로 응답하도록 지시·권유·유도하는 행위를 금지하고 있다. 이를 위반하면 3년 이하의 징역 또는 600만원 이하의 벌금에 처해진다.&lt;br&gt;&lt;br&gt;선관위 관계자는 “선거 여론조사 방법, 결과 공표 등과 관련한 위반 행위가 발생하지 않도록 각별히 유의해야 한다”고 밝혔다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“미안해 그만해” 호소에도 동급생 뺨 때린 여중생 입건</title>
+      <link>https://www.chosun.com/national/national_general/2025/05/08/GA4T74W3GVFFHCFRQEQIG2QEAA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/05/08/GA4T74W3GVFFHCFRQEQIG2QEAA/</guid>
+      <dc:creator>정아임 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 08 May 2025 08:26:58 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/F7DHKVAB4673YJ2HUT5ASQ7OMM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;'인천 송도 11년생 학폭 영상'이라는 제목의 영상이 2일 SNS에 올라왔다. /인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천에서 여중생이 동급생의 뺨을 때리는 영상이 소셜미디어(SNS)에 올라와 논란이 된 가운데 경찰이 가해 학생을 입건했다. &lt;br&gt;&lt;br&gt;인천 연수경찰서는 8일 폭행 혐의로 중학생 A양을 불구속 입건했다고 밝혔다. A양은 지난해 11월 인천 연수구의 한 아파트 주차장에서 동급생인 B양의 뺨을 7차례 때린 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;최근 인스타그램에 ‘인천 송도 11년생 학폭 영상 공유수 1000 달성시 가해자 신상 공개’라는 제목으로 확산된 영상에 따르면 A양은 손으로 동급생으로 보이는 B양의 뺨을 7대 때렸고, B양은 울먹이며 “하나, 둘”이라며 뺨을 맞은 횟수를 셌다.&lt;br&gt;&lt;br&gt;B양이 “미안해, 그만해줘”라며 울면서 애원했지만, A양은 심한 욕설과 함께 양손으로 B양의 뺨을 수차례 때렸다. A양이 B양을 폭행하는 동안 주변에 있던 다른 학생들은 폭행을 말리지 않고 웃거나 영상을 촬영했다.&lt;br&gt;&lt;br&gt;논란이 확산하자 A양이라고 밝힌 한 작성자는 “작년에 어린 생각으로 했고 지금까지도 많이 반성하고 있다. 피해 학생이 용서는 해줬지만 (저의 행동으로) 씻을 수 없는 상처를 받았을 거라고 생각한다”며 “화가 나셨을 분과 힘들어했을 피해 학생에게도 정말 죄송하고 미안하다. 얌전히 벌받고 정신 차리고 살 수 있게 도와달라”는 내용의 글을 SNS에 올렸다.&lt;br&gt;&lt;br&gt;B양은 피해 직후 사건을 신고하지 않았지만, 영상이 SNS에서 확산하자 A양과 폭행 장면을 촬영한 학생을 신고한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰은 지난 2일 “학교 폭력 영상이 SNS에 올라왔다”는 신고를 받고 방송통신심의위원회를통해 최초로 유포된 영상을 삭제했다.&lt;br&gt;&lt;br&gt;A양을 입건한 경찰은 A양과 B양, 영상 촬영자와 유포자 등 사건 관계자들을 조사할 계획이다. 인천시동부교육지원청도 B양으로부터 학폭 신고를 받아 사건을 조사할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>[단독] 검찰, ‘복권법 위반’ 혐의 이숙연 대법관 배우자 무혐의 처분</title>
       <link>https://www.chosun.com/national/court_law/2025/05/08/6KU4FAB73FGN3NY3B3LEDQM2SE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/05/08/6KU4FAB73FGN3NY3B3LEDQM2SE/</guid>
@@ -753,15 +807,6 @@
 카네이션을 선물받고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이재명 더불어민주당 대통령 선거 후보의 공직선거법 파기환송심이 대통령 선거 이후로 밀린 데 이어, 대장동 재판도 대선 뒤로 미뤄졌다. 앞서 이 후보 측은 해당 재판에 대해 기일연기 신청서를 제출했다.&lt;br&gt;&lt;br&gt;7일 법조계에 따르면 이 후보의 대장동·위례·백현동·성남FC 사건을 담당하는 서울중앙지법 형사33부(재판장 이진관)는 이날 5월 잡혀있던 재판 일정을 6월 24일로 변경했다. 내달 3일 대선으로부터 3주 뒤 날짜다. 당초 대장동 재판은 오는 13일과 27일에 각각 77·78차 재판이 예정돼 있었다.&lt;br&gt;&lt;br&gt;앞서 이날 오전 이 후보 측은 대장동 재판 일정을 바꿔달라는 기일연기 신청서를 제출했다. 이 후보를 대리하는 조원철 변호사는 “정당의 후보자가 대통령 선거에 출마하는 것은 단지 후보자 개인이나 당 차원의 문제가 아닌 국민들이 정치에 참여할 수 있는 자유와 권리의 문제라는 점을 지적했다”라고 설명했다. 재판부가 이 같은 신청을 받아들인 것이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>대구시, 파워풀대구페스티벌 기간 ‘서성네거리∼공평네거리’ 차량 통제</title>
-      <link>https://www.chosun.com/national/regional/2025/05/07/2C43L54BSNARLBWMUHVVIYXJLY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/05/07/2C43L54BSNARLBWMUHVVIYXJLY/</guid>
-      <dc:creator>대구=노인호 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 07 May 2025 08:07:32 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OLVVOJSC7RG77OIN3ETME7FORY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2025파워풀대구페스티벌 차 없는 거리 구간 안내문./대구시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대구시는 ’2025파워풀대구페스티벌’이 열리는 오는 10일 자정부터 12일 오전 5시까지 축제장 일대인 서성네거리∼공평네거리 구간의 차량 운행을 제한한다고 7일 밝혔다.&lt;br&gt;&lt;br&gt;또 축제장 주변을 오가는 시내버스 21개 노선 340대도 우회 운영하기로 했다. &lt;br&gt;&lt;br&gt;교통 통제에 따른 시민 불편을 최소화하기 위해 교통 통제 안내문을 차량 내부에 부착하고, 우회 구간 버스 승강장에는 안내원 86명을 배치하기로 했다. &lt;br&gt;&lt;br&gt;‘차 없는 거리’를 위해 차량 통행을 제한하는 차량 통제선 내 주요 관리 지점 41곳에는 경찰, 모범운전자, 자원봉사자 등 560여 명을 배치해 교통 관리에 나설 방침이다. 또 대중교통 이용을 유도하기 위해 축제 기간 시내버스 134대를 증편하고, 심야 시간(오후 10~11시)대는 도시철도 운행 횟수를 하루 6편 늘리기로 했다.&lt;br&gt;&lt;br&gt;도시철도 이용을 유도하기 위해 도시철도역 주변 주차장 43개소(4860면)에 대한 정보를 축제 홈페이지에 게재하고, 국채보상로 인근 지역 불법 주정차 방지를 위해 교통 지도 차량 10대를 집중 배치한다.&lt;br&gt;&lt;br&gt;대구시 관계자는 “내비게이션 업체의 협조를 얻어 축제 기간 통제 구간으로 경로 안내를 하지 않도록 제한할 예정”이라며 “부득이 승용차를 이용할 경우 통제 정보를 사전에 확인해 우회하기를 바란다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>정부 “전공의 5월 복귀 검토”에 사직 전공의 “환자 곁으로 돌아가겠다”</title>
       <link>https://www.chosun.com/national/welfare-medical/2025/05/07/ZDBHWVFU3JAHTGJWTM6EPMOY54/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/05/07/ZDBHWVFU3JAHTGJWTM6EPMOY54/</guid>
@@ -787,28 +832,6 @@
       <description/>
       <pubDate>Wed, 07 May 2025 07:49:20 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/A67ZYYDU2BHURID2JPKJNQAF6U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;7일 오후 경기 과천 법무부 청사 앞에서 박성재 법무부 장관(첫줄 중앙)과 신규 임용 검사 90명이 기념촬영을 하고 있다. /법무부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;올해 제 14회 변호사시험 합격자 가운데 90명이 신규 검사로 임용됐다.&lt;br&gt;&lt;br&gt;법무부는 7일 충실하고 신속한 사건 처리를 위해 검사 증원이 시급한 점을 고려해 이같이 결정했다고 밝혔다. &lt;br&gt;&lt;br&gt;법무부는 작년(93명)에 이어 올해도 90명 이상의 검사를 뽑았다. 지난 2023년엔 76명, 2022년엔 67명이 임용됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/N3HY72ITRZOB5C7C3LELKTTJKM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;7일 정부과천청사 법무부에서 열린 신임 검사 임관식에 참석한 신임 검사들이 선서하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;올해 임용자 중 남성은 49명(54.44%), 여성은 41명(45.56%)으로 이들은 실무기록평가, 조직역량평가 등 여러 단계의 평가 절차를 거쳐 선발됐다.&lt;br&gt;&lt;br&gt;이번에 임용된 신규 검사들은 법무연수원에서 약 6개월간 검찰청 실무 수습을 포함한 교육을 받은 뒤 오는 11월쯤 일선 검찰청에 배치돼 본격적인 업무를 시작할 예정이다.&lt;br&gt;&lt;br&gt;앞서 지난 1월 진행된 변호사시험에선 총 1744명이 합격했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[오늘의 운세] 5월 8일 목요일 (음력 4월 11일 丁丑)</title>
-      <link>https://www.chosun.com/national/national_general/2025/05/07/2KEROLWP6VFGVECWPBQXDU3PMY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/05/07/2KEROLWP6VFGVECWPBQXDU3PMY/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 07 May 2025 08:00:00 +0000</pubDate>
-      <content:encoded>&lt;p&gt;&lt;div class="chosun_unse"&gt;&lt;iframe src="https://image.chosun.com/arc/unse_iframe.html" frameborder="0" scrolling="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;style&gt;.chosun_unse{position:relative;width:100%;height:350px;box-sizing:border-box}.chosun_unse&gt;iframe{position:absolute;top:0;left:0;width:100%;height:100%;overflow-y:hidden}@media all and (max-width:1024px){.chosun_unse{height:350px}}@media all and (max-width:1023px){.chosun_unse{height:350px}}@media all and (max-width:528px){.chosun_unse{height:270px}}@media all and (max-width:384px){.chosun_unse{height:190px}}&lt;/style&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;p&gt;&lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani01.gif"&gt;  	&amp;nbsp;	36년생 넘어져 깨지기 전엔 울지 마라. 48년생 선입견 없이 있는 그대로 대응하도록. 60년생 무턱대고 달려들다 낭패 볼 수도. 72년생 대천 바다도 건너봐야 깊이 알지. 84년생 이뤄질 꿈도 안 이뤄질 꿈만큼 불확실할 수 있다. 96년생 말 들어 주는 것도 용기 필요.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt;  &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani02.gif"&gt;	&amp;nbsp;	37년생 과욕 금물, 소소한 것에도 만족하라. 49년생 구슬 서 말이라도 꿰어야 보배. 61년생 골치 아팠던 일 봄눈 녹듯 해결될 듯. 73년생 우울감 엄습할 수도, 밝은 생각 갖도록. 85년생 진주는 보잘것없는 조개서 난다. 97년생 똥 묻은 개가 겨 묻은 개 나무란다.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani03.gif"&gt;	&amp;nbsp;	38년생 수제비 잘하면 국수도 잘한다. 50년생 의식주는 수단이지 목표는 아니지 않나. 62년생 인내와 의지만이 모든 걸 가능케 한다. 74년생 지난 일 훌훌 털고 훗날 대비하라. 86년생 무리한 진행은 실효 거두기 어렵다. 98년생 작은 틈새가 거대한 배 가라앉힌다.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani04.gif"&gt;	&amp;nbsp;	27년생 너그러우면 마무리가 좋다. 39년생 기회는 준비된 자에게 온다. 51년생 드러내거나 자랑 말아야. 63년생 정성으로 구하면 얻을 수 있을 듯. 75년생 반드시 해야 할 일부터 하라. 87년생 오랜 지인을 경계하라. 99년생 기다림이 지루해도 참고 기다려라.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani05.gif"&gt;	&amp;nbsp;	28년생 흰색과 숫자 4, 9 행운 부른다. 40년생 뜻대로 안 되니 쉬었다 가자. 52년생 희망 있다면 늙지도 않는다. 64년생 살다 보면 궂은 날도 맑은 날도 있고. 76년생 흥망성쇠는 언제나 있기 마련. 88년생 지금 참으면 나중이 편안. 00년생 쟁기질 못하는 농부 소 탓.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani06.gif"&gt;	&amp;nbsp;	29년생 친구 말에 크게 신경 쓰지 마라. 41년생 토끼 덫에 사슴이 걸렸구나. 53년생 식록(食祿)이 풍성. 65년생 앉은 영웅보다 돌아다닌 바보가 낫다. 77년생 과분한 명성은 시비 초래. 89년생 하나를 얻었다면 하나는 양보하라. 01년생 소경이 코끼리 뒷다리 만지듯.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani07.gif"&gt;	&amp;nbsp;	30년생 오늘은 어제가 맺은 결과. 42년생 뱀띠와의 거래에 이익 있다. 54년생 매듭과 정리에 적합할 날. 66년생 숫자 3, 8과 푸른색은 행운 부른다. 78년생 함부로 한 약속이 발목 잡을 수도. 90년생 가식은 언젠가 드러나게 마련. 02년생 감당하지 못할 일이 무엇.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani08.gif"&gt;	&amp;nbsp;	31년생 상황은 변하기 마련이니 융통성 발휘하도록. 43년생 한 번의 충돌은 불가피할 듯. 55년생 정(情) 끊는 칼 없다. 67년생 깃털이 좋으면 새도 아름답다. 79년생 개띠와의 거래는 손해 아님 대박. 91년생 지혜도 때를 만나야 소용. 03년생 오랜 벗이 내 맘 같지 않구나.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani09.gif"&gt;	&amp;nbsp;	32년생 가족의 마음을 얻으면 만사가 순조롭다. 44년생 인내(忍耐)로 못 갈 길은 없다. 56년생 사람의 속은 말로는 모른다. 68년생 서운하고 아쉬울 때가 물러날 때. 80년생 사소한 것에 연연해 마라. 92년생 스트레스가 심한 하루. 04년생 남의 단점을 찾으려 마라.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani10.gif"&gt;	&amp;nbsp;	33년생 자존감 잃으면 전부를 잃은 것. 45년생 가는 말 고와야 오는 말 곱다. 57년생 몸 건강도 좋지만 마음 건강 유의하도록. 69년생 오는 기회는 망설이고 주저하다 날아갈라. 81년생 자신 없는 일이면 한발 물러나 관망도 방법. 93년생 서기가 남쪽에서 비춘다.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani11.gif"&gt;	&amp;nbsp;	34년생 소화기계통 질환 주의하라. 46년생 빈대 잡다 초가삼간 태울라. 58년생 현재는 제자리서 묵묵히 책임 다하는 게 최선. 70년생 곁눈질할 겨를 있다면 한눈팔고 있다는 것. 82년생 강물 위 산 그림자에 잉어 노닐 듯. 94년생 병든 말이 금은보화 수레 끄는 격.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani12.gif"&gt;	&amp;nbsp;	35년생 많이 주고 적게 받을 상황. 47년생 낮 있었으면 밤 있기 마련. 59년생 겸손하게 부탁해도 들어줄까 말까. 71년생 인연 있다면 언젠가 다시 만나게 돼있다. 83년생 부정적 선입견 버리고 현실 직시하라. 95년생 특별한 근심걱정 없이 무사 평안한 하루 될 듯.	&lt;br&gt;
-&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;한소평 금오산방 강주  &lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;			&lt;/p&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/4MTFRYWHBJA7XOKKF7G7JPLX5U.png?auth=4651b5b20b5d4901424204d1456faee02e4b064ff509db23945deabf4404c8ef&amp;smart=true&amp;width=800&amp;height=420" type="image/png" height="420" width="800"/>
     </item>
     <item>
       <title>수업은 안 들었지만...올해 1학기 국가장학금 신청한 의대생 4634명</title>
@@ -932,49 +955,6 @@
         <media:description type="plain">서울의 한 의과대학 앞으로 시민들이 지나가고 있다. /뉴스1</media:description>
         <media:credit role="author" scheme="urn:ebu">(서울=뉴스1) 장수영 기자</media:credit>
       </media:content>
-    </item>
-    <item>
-      <title>[오늘의 날씨] 2025년 5월 7일</title>
-      <link>https://www.chosun.com/national/national_general/2025/05/07/R2GC35R4INAP5ISW7I5HKEL2DM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/05/07/R2GC35R4INAP5ISW7I5HKEL2DM/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Tue, 06 May 2025 20:06:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/K6UORQW2QRC6RFN4AA25VIDXVM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“매니저 사칭해 회식 예약”… 송가인 측 긴급 공지, 무슨 일?</title>
-      <link>https://www.chosun.com/national/national_general/2025/05/06/DXRW57COLBE3LDIMN3EEVMKSYU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/05/06/DXRW57COLBE3LDIMN3EEVMKSYU/</guid>
-      <dc:creator>문지연 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 06 May 2025 13:26:44 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZFZNTFCIA5BEFEYHBHU7EECEHY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;가수 송가인. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;트로트 가수 송가인(39) 측이 매니저 사칭 사기가 발생했다며 주의를 당부했다.&lt;br&gt;&lt;br&gt;송가인 소속사 제이지스타는 6일 긴급 공지문을 내고 “최근 자사 직원을 사칭해 금품을 편취하는 이른바 ‘대리 구매’ 사기 수법이 발생했다”고 밝혔다.&lt;br&gt;&lt;br&gt;이어 “이들은 송가인 매니저를 사칭한 뒤 회식 등을 이유로 소상공인에게 접근, 한 업체에서 와인을 구매해 준비해 두면 회식 때 같이 결제하겠다고 요구했다”며 “당사 직원은 어떠한 경우에도 외부에 금전이나 물품 구매를 요청하지 않는다”고 했다.&lt;br&gt;&lt;br&gt;그러면서 “유사한 요청을 받으면 범죄일 가능성이 높으니 절대 송금하거나 대응하지 마시길 바란다”며 “꼭 당사 직원이 맞는지 확인해 주시고 피해가 발생하셨을 경우 즉시 경찰에 신고 부탁드린다”고 덧붙였다.&lt;br&gt;&lt;br&gt;함께 공개된 사칭범과 점주의 문자메시지 대화에는, 사칭범이 가짜 명함을 보낸 뒤 “간이 영수증이나 중간 계산서를 보내달라”고 요청하는 내용이 담겼다. 송가인 역시 같은 날 인스타그램에 상황을 공유하고 “사기 피해가 발생하지 않도록 주의 부탁드린다”고 적었다.&lt;br&gt;&lt;br&gt;한편 이 같은 대리 구매 사기 사례는 최근 전국 곳곳에서 다수 발생하고 있다. 특히 최근에는 소방관 등을 사칭해 음식을 대량 주문하거나 물품 구매를 요청한 뒤 잠적하는 사건이 잇따라 일어났다. 당시 사칭범들은 주문 후 결제 확약서라며 위조된 공문서를 보내 점주를 안심시키는 수법을 쓴 것으로 전해졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>호우 특보, 비 오기 몇시간 전에 내려야 피해 없을까요</title>
-      <link>https://www.chosun.com/national/transport-environment/2025/05/06/JUVSMJ6LMNHBBEQNH7QNA5GP4Q/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/05/06/JUVSMJ6LMNHBBEQNH7QNA5GP4Q/</guid>
-      <dc:creator>정해민 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 06 May 2025 10:29:42 +0000</pubDate>
-      <content:encoded>지난해 기상청은 평균적으로 비가 내리기 약 1시간 37분 30초 전에야 호우 특보를 내려 위험을 알렸던 것으로 나타났다. 기상청은 평균 최소 2시간 10분 전에는 호우 특보를 내리는 것을 목표로 하고, 이를 비 예보 성과 측정의 주요 잣대로 활용하고 있다. 호우 특보가 늦어지면 시민들은 대피 시간 등을 충분히 갖지 못하게 된다. &lt;br&gt;&lt;br&gt;6일 기상청의 ‘2024년 자체 평가 결과 보고서’에 따르면, 지난해 ‘호우 특보 선행 시간’이 목표치에 미달한 것으로 나타났다. 호우 특보 선행 시간은 길수록 좋다. 비에 대한 경고를 일찍 접할수록 대피 시간 등을 확보할 수 있기 때문이다. 호우 특보 중 호우 주의보는 3시간 누적 강우량이 60㎜ 이상이거나 12시간 누적 강우량이 110㎜ 이상 예상될 때 내린다. 이보다 높은 단계인 호우 경보는 강우량이 3시간 누적 90㎜ 이상 또는 12시간 누적 180㎜ 이상 예상될 때 내린다. &lt;br&gt;&lt;br&gt;호우 특보 선행 시간은 지난 5년간 2022년(2시간 32분)만 목표(2시간 10분 이상)를 달성했다. 2020년 1시간 59분에서 2021년에 1시간 18분으로 크게 후퇴했고, 2023년에도 1시간 20분에 그쳤다. 지난해(1시간 37분 30초)는 소폭 개선됐지만 여전히 목표에 못 미쳤다.&lt;br&gt;&lt;br&gt;기상청은 “전 세계적인 기후 변화의 영향으로 기상 예측의 불확실성이 커지고 있다”며 “특히 지난해 여름에는 비가 국지적으로 급격히 내렸다가 소멸하는 형태로 강수 양상이 변하면서 호우 특보 선행 시간 확보가 어려웠다”고 밝혔다.&lt;br&gt;&lt;br&gt;기상청에 따르면, 지난해 시간당 100㎜ 이상의 극단적인 폭우가 전국에서 16차례 발생했다. 기후 변화로 우리나라 주변 해양 온도가 상승하면서 수증기량이 늘어나 대기가 불안정해졌기 때문이다. 2010~2023년에는 시간당 100㎜ 이상의 극단적인 폭우가 평균 1.1회에 그쳤는데, 지난해 급격하게 늘어난 것이다. &lt;br&gt;&lt;br&gt;기상청은 “특히 인접한 지역 사이에서도 이상 기후로 인한 강수량 편차가 크게 나타나 어느 지점에 강한 호우가 발생할지 예측하기 어려워졌다”고 했다. 예컨대 지난해 7월 10일 불과 25㎞ 떨어진 전북 익산시(264㎜)와 김제시(25.5㎜)의 강수량은 10배 이상 차이가 날 정도였다. &lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/LKOXIE6DINM6PDPYSJRT6SYS2I.jpg?auth=596b5f43a128854bdc8c35c1a74d9c8bfbb7090af3936f25de571c48f3adaee5&amp;smart=true&amp;width=6000&amp;height=4000" type="image/jpeg" height="4000" width="6000">
-        <media:description type="plain">&lt;YONHAP PHOTO-2894&gt; 거센 봄비 쏟아진 제주
-    (서귀포=연합뉴스) 박지호 기자 = 호우특보가 내려진 22일 오전 제주 서귀포시 남원읍 하례리 입구에서 우산을 쓴 시민들이 길을 가고 있다. 2025.4.22
-    jihopark@yna.co.kr/2025-04-22 11:11:20/
-&lt;저작권자 ⓒ 1980-2025 ㈜연합뉴스. 무단 전재 재배포 금지, AI 학습 및 활용 금지&gt;</media:description>
-        <media:credit role="author" scheme="urn:ebu">박지호</media:credit>
-      </media:content>
-    </item>
-    <item>
-      <title>서울 시내버스, 내일 첫차부터 느릿느릿... “준법투쟁 재개”</title>
-      <link>https://www.chosun.com/national/national_general/2025/05/06/S6UJ5N54MZEEBE53OZNZPZEYQM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/05/06/S6UJ5N54MZEEBE53OZNZPZEYQM/</guid>
-      <dc:creator>김영우 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 06 May 2025 10:29:48 +0000</pubDate>
-      <content:encoded>서울 시내버스 노조가 7일 첫차부터 이른바 ‘준법 투쟁’을 재개한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GXZY23MHBVA7NKUICSBT2QBR7Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 시내버스 노사 협상이 결렬돼, 시내버스 노조가 준법투쟁에 돌입한 지난달 30일 오전 서울역 인근에서 버스가 지나고 있다. /박성원 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울시는 6일 오후 이 같은 내용의 보도자료를 내며 “시민 불편 최소화를 위한 특별 교통 대책을 추진한다”고 밝혔다.&lt;br&gt;&lt;br&gt;준법 투쟁은 승객이 자리에 앉은 후 버스를 출발하거나 앞서가는 버스를 추월하지 않는 등의 방법으로 사실상 지연 운행하는 것이다.&lt;br&gt;&lt;br&gt;노조는 앞서 지난달 30일 사측과의 임금·단체협약 협상이 결렬되자 이날 하루 경고성 준법 투쟁을 진행했다. 이후 연휴 기간인 지난 1일부터 6일까지는 정상 운행해 왔다.&lt;br&gt;&lt;br&gt;서울시는 지난달 30일 준법 투쟁 때와 마찬가지로 출근길 지하철 혼잡 시간대를 10시까지 1시간 늘리고, 열차 투입을 47회 늘린다.&lt;br&gt;&lt;br&gt;서울시 관계자는 “지난 투쟁 당시 버스 이용에 큰 불편은 발생하지 않은 만큼 자치구 무료 셔틀버스는 운영하지 않을 것”이라고 했다.&lt;br&gt;&lt;br&gt;앞서 지난달 30일 투쟁 당시 버스가 장시간 정류소에 멈춰 지연 운행된 버스 전용 차로에는 서울시 직원을 배치해 불필요한 장시간 정차 행위 등을 하지는 않는지 확인할 계획이다.&lt;br&gt;&lt;br&gt;여장권 서울시 교통실장은 “시민들의 대중교통 이용에 불편이 발생하지 않도록 만전을 다하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
