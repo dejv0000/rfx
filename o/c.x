@@ -13,6 +13,74 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>엄영수 “故이상용, 당뇨 때문에 5~6년 전부터 운신 힘들었다”</title>
+      <link>https://www.chosun.com/national/national_general/2025/05/09/35J7UT4LHFEMTB5FHCGLPIKEKU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/05/09/35J7UT4LHFEMTB5FHCGLPIKEKU/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 09 May 2025 13:12:12 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WAVJQC66K3PR6S7WVKPQP3NQIM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;엄영수(왼쪽), 故 이상용. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전 방송코미디언협회장인 엄영수(개명 전 엄용수)는 ‘뽀빠이 아저씨’로 유명한 방송인 이상용(81)씨가 9일 오후 갑자기 세상을 떠난 것과 관련 “(고인이) 당뇨 때문에 다리가 불편하셨다. 5~6년 전부터 운신이 힘드셨다”고 했다. 엄영수는 고인과 같은 소속사로 평소 절친한 사이였다. &lt;br&gt;&lt;br&gt;엄영수는 이날 매일경제 스타투데이와의 인터뷰에서 “갑자기 이상용 선생님의 별세 소식을 들었다. 황망하기 그지없다”며 “제가 최근 여러 곳에 모실 일이 있었는데 부축을 해드리곤 했다”고 말했다. &lt;br&gt;&lt;br&gt;엄영수는 “선생님은 엄살이라도 부리시지, (후배들에게는) ‘그냥 다리를 좀 다쳤다. 금방 낫는다’고 말하셨다. 다른 사람들은 편찮으신 것도 몰랐을 것”이라고 안타까워했다.&lt;br&gt;&lt;br&gt;엄영수는 “지난해 연말에도 선생님 자택 근처에서 식사를 하는데 한 계단 오르내리시는 것도 힘들어하시더라”라며 “건강이 날로 악화되는데 방법이 없었다. 늘 혹시 잘못되시면 어쩌나 걱정이 있었다”고 했다.&lt;br&gt;&lt;br&gt;엄영수는 고인에 대해 “MC도 혼자 잘하셨고, 무대에만 올라서면 야전에서도 남녀노소를 웃길 수 있는 몇 안 되는 진짜 코미디언이셨다”며 “송해 선생님이 생전 늘 ‘네가 내 후임이다’라고 말씀을 하시기도 했다. 이상용 선생님이 가진 재주에 비해 프로그램을 할 기회가 많지 않았다. 후배들이 배울 게 많은 분인데…”라고 했다.&lt;br&gt;&lt;br&gt;소속사 이메이드엔터테인먼트 관계자에 따르면 고인은 이날 오후 감기 증세로 서울 서초구 자택 인근 병원을 다녀오던 중 갑자기 쓰러졌고, 응급실로 이송됐다. 하지만 결국 심정지로 오후 2시 반쯤 세상을 떠났다.&lt;br&gt;&lt;br&gt;1944년 충청남도 서천에서 태어난 고인은 1973년 MBC ‘유쾌한 청백전’으로 데뷔했다. 고려대 임학과를 졸업, 장교(학군사관후보생 5기) 출신 방송인으로 주목을 받았고, 1989년 MBC 병영 위문 예능 방송 ‘우정의 무대’ 진행을 맡으면서 본격적으로 이름을 알렸다. &lt;br&gt;&lt;br&gt;그러나 1996년 심장병 어린이 돕기 성금을 유용했다는 혐의로 검찰 조사를 받으면서 고인은 우정의 무대 진행에서 물러나야만 했다. 이듬해 결국 무혐의 처분을 받았지만, 프로그램은 폐지됐고 고인도 한동안 방송계를 떠났다. 누명을 벗은 후엔 500명이 넘는 심장병 어린이들의 수술비를 후원한 선행으로 다시금 조명받았다. 고인은 생전 국민훈장 동백장(1987), 체육훈장 기린장(1990), 문화관광부 장관 표창(1998) 등을 받았다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“무료 세차 해줍니다”… ‘당근’보고 세차 맡겼다가 차량 통째로 도난</title>
+      <link>https://www.chosun.com/national/incident/2025/05/09/FCOBSNRPJFHGJJXV7UN2SKF2WM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/05/09/FCOBSNRPJFHGJJXV7UN2SKF2WM/</guid>
+      <dc:creator>정성원 기자</dc:creator>
+      <description>중고거래 플랫폼인 ‘당근’에 올라온 ‘무료 세차’ 글을 보고 연락했다가 차량을 도난당한 사건이 발생했다.
+9일 경기 화성 동탄경찰서에 따르면 지난 8일 하루 동안 차량 절도 신고가 3건 접수됐다.</description>
+      <pubDate>Fri, 09 May 2025 13:12:37 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/L4GEXC5HOZAC5NA5TDDI7RQ23U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;중고 거래 플랫폼인 ‘당근’에 올라온 ‘무료 세차’ 글을 보고 연락했다가 차량을 도난당한 사건이 발생했다.&lt;br&gt;&lt;br&gt;9일 경기 화성 동탄경찰서에 따르면 지난 8일 하루 동안 차량 절도 신고가 3건 접수됐다. 피해자들은 최근 당근에 올라온 ‘무료로 세차해 드립니다’라는 제목의 글을 보고 게시자에게 연락했다가 피해를 봤다고 주장했다. 이 글엔 출장 세차 업체를 새로 차려 업체 홍보차 무료 세차 행사를 진행 중이라는 내용의 글이 담겨 있던 것으로 알려졌다.&lt;br&gt;&lt;br&gt;이들은 피해자들에게 ‘차 키를 차 안에 넣어 두기만 하면 된다’ ‘한 번 이용해보고 좋으면 계속 찾아달라’며 피해자들을 안심시켰다.&lt;br&gt;&lt;br&gt;그러나 피해자들은 이들의 말을 믿고 차를 맡겼다가 그대로 차를 도난당한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;신고를 받고 수사에 나선 경찰은 이날 오후 경남 함안군 한 폐차장에서 도난 차량 3개를 모두 발견했으며, 절도 차량을 해체 중이던 공범 1명을 특수절도 혐의로 긴급 체포했다. 이날 체포된 공범은 당근에 피해자 모집 글을 올린 주범은 아닌 것으로 전해졌다.&lt;br&gt;&lt;br&gt;경찰은 피해자 등을 상대로 정확한 사건 경위를 조사 중이며, 당근에 올린 글을 역추적하는 방식으로 공범을 쫓고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>부산대 6·25 충혼비 막은 교수·동문... 학생들은 “건립해야”</title>
+      <link>https://www.chosun.com/national/regional/2025/05/09/C3SYXPPRPND53FEXX34BYHCBTY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/05/09/C3SYXPPRPND53FEXX34BYHCBTY/</guid>
+      <dc:creator>부산=김주영 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 09 May 2025 12:13:04 +0000</pubDate>
+      <content:encoded>부산대가 추진 중인 ‘6·25전쟁 충혼비’ 건립을 두고 일부 교수와 동문 등이 반발하는 가운데 지역 대학생들이 충혼비 건립을 촉구하고 나섰다.&lt;br&gt;&lt;br&gt;부산대 재학생 등 부산·울산·경남 지역 대학생들이 모인 ‘부울경 자유민주대학생연합’ 회원 10여 명은 9일 부산대 정문 앞에서 집회를 열고 충혼비를 계획대로 건립해야 한다고 주장했다. &lt;br&gt;&lt;br&gt;이들은 “대한민국과 부산을 지킨 호국 영웅의 희생을 기억한다”며 “마땅히 기리고 감사해야 한다”고 했다. 또 “일부 세력이 교육 현장을 이념의 장으로 만들고 있다”며 “동문들의 희생을 정파적으로 해석하려는 세력을 비판한다”고 했다.&lt;br&gt;&lt;br&gt;이들은 이날 교내에 ‘6·25 호국 영웅 추모가 이념 갈등이라는 부산대 교수들, 북한으로 떠나라’라고 쓴 현수막도 내걸었다. 이 단체는 충혼비가 건립될 때까지 서명 운동과 집회를 이어갈 것이라고 밝혔다.&lt;br&gt;&lt;br&gt;부산대는 다음 달 교내에 리처드 위트컴 장군과 6·25전쟁 때 전사한 부산대 동문 255명을 기리는 ‘6·25전쟁 참전 용사 호국 영웅 명비’를 건립하려고 했으나 부산대 교수회와 민주 동문회 등의 반대에 부딪혔다. 부산대 교수회는 지난달 14일 이사회를 열고 “공론화 없이 추진되는 충혼비가 구성원 사이에 갈등을 유발할 가능성이 명백하다”며 충혼비 건립을 중단하라고 요구했다. &lt;br&gt;&lt;br&gt;위트컴 장군은 6·25전쟁이 끝난 뒤 주한 미군 군수사령관(준장)으로 부임했다. 부산 재건과 전쟁 고아 돕기에 힘써 ‘부산 재건의 아버지’라고 불렸다. 1953년 부산역 인근에서 큰불이 나 이재민 3만여 명이 발생하자 부대 창고를 열어 도왔다. 부산대 캠퍼스와 메리놀병원 등 건립에도 기여했다. &lt;br&gt;&lt;br&gt;부산대는 충혼비 건립을 계속 추진한다고 밝혔다. 부산대 관계자는 “학교 구성원들의 의견을 수렴해 충혼비 건립 장소와 크기 등을 재협의할 계획”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>중앙고속도로 달리던 고속버스에서 불… 인명피해 없어</title>
+      <link>https://www.chosun.com/national/incident/2025/05/09/3SRCPU4W3VGVXEXIMAJ5AR5CRQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/05/09/3SRCPU4W3VGVXEXIMAJ5AR5CRQ/</guid>
+      <dc:creator>정성원 기자</dc:creator>
+      <description>9일 오후 6시 10분쯤 충북 단양군 적성면 중앙고속도로 단양휴게소 인근을 달리던 고속버스에서 불이 났다. 불은 버스를 모두 태우고 20분 만에 진화됐다.</description>
+      <pubDate>Fri, 09 May 2025 12:07:30 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IXNKKXZCDFH75HSN62IKCKRW6I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;9일 오후 충북 단양군 중앙고속도로 단양휴게소 인근을 달리던 고속버스에 화재가 발생했다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;9일 오후 6시 11분쯤 충북 단양군 적성면 중앙고속도로 단양휴게소 인근을 달리던 고속버스에서 불이 났다. 불은 버스를 모두 태우고 20분 만에 진화됐다. 버스엔 버스기사와 승객 등 10명이 타고 있었으나, 다행히 모두 대피해 인명 피해는 없었다. 그러나 사고 수습을 위해 1차 차선이 통제되면서 한때 교통 체증이 빚어졌다.&lt;br&gt;&lt;br&gt;경찰 등은 버스 후미에서 연기가 나 갓길에 차를 세웠다는 버스기사 등의 진술을 토대로 정확한 화재 원인을 조사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>KIA 투수 황동하, 횡단보도 건너다 차량에 치여 부상</title>
+      <link>https://www.chosun.com/national/national_general/2025/05/09/RYU37NGRBBA2NJXM7V63TQQTJY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/05/09/RYU37NGRBBA2NJXM7V63TQQTJY/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 09 May 2025 11:47:46 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ANP2OBIG6NOHHD6WDPSOZBD5HI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;KIA 타이거즈 투수 황동하. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;프로야구 KIA 타이거즈의 투수 황동하(22)가 숙소 앞 횡단보도를 건너다가 차량에 치여 부상을 당했다. &lt;br&gt;&lt;br&gt;9일 KIA 구단은 “황동하가 8일 오후 인천 연수구 원정 숙소 근처에서 횡단보도를 건너다가 차에 부딪혀 허리를 다쳤다”며 “병원으로 이송돼 컴퓨터단층촬영(CT), 자기공명영상(MRI) 검사를 했고, 요추 2번과 3번 횡돌기 골절이라는 진단을 받았다. 6주 동안 보조기를 착용해야 하고, 안정이 필요하다는 소견을 받았다”고 밝혔다.&lt;br&gt;&lt;br&gt;이번 부상으로 황동하는 6주 이상 장기 결장이 불가피할 것으로 보인다. 황동하는 올 시즌 13경기 1승 2패, 평균자책점 5.52를 기록하고 있었다.&lt;br&gt;&lt;br&gt;이범호 KIA 감독은 이날 언론 인터뷰에서 “다행히 수술은 피했다”면서도 “다시 투구를 하려면 두 달 이상 기다려야 할 것 같다”고 했다.&lt;br&gt;&lt;br&gt;이 감독은 “황동하가 키움전에서 호투해서, 자신감이 생겼을 텐데 이런 일이 벌어졌다”며 “잘 회복해서 돌아오길 바란다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>차은우, 육군 군악대 지원…이르면 오는 7월 입대</title>
+      <link>https://www.chosun.com/national/people/2025/05/09/GV77DMVUHZGOZDZ5256EV7QK4M/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/05/09/GV77DMVUHZGOZDZ5256EV7QK4M/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 09 May 2025 11:11:58 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KSZMEWE7XROFBGZPPIBS3XHJ7U.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;차은우가 2024년 5월 29일 서울 성동구에서 열린 포토행사에서 포즈를 취하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그룹 아스트로 멤버 겸 배우 차은우(본명 이동민‧28)가 육군 군악대에 지원한 사실이 알려졌다. &lt;br&gt;&lt;br&gt;차은우 소속사 판타지오 측은 9일 언론에 “차은우가 육군 군악대에 지원해 이날 면접을 봤다”고 밝혔다. 소속사 측은 “다만 합격 여부는 자신들도 알 수 없다”고 했다. &lt;br&gt;&lt;br&gt;병무청에 따르면 육군 군악대는 지난 3월 말부터 4월 초까지 지원 신청을 받았고, 이날 서울 국립현충원 내 국방부 군악 대대에서 면접을 진행했다. 합격 여부는 오는 29일 발표된다. &lt;br&gt;&lt;br&gt;차은우가 육군 군악대에 합격하면 입영 시기는 오는 7월로 예정돼 있다.&lt;br&gt;&lt;br&gt;차은우는 현재 그룹 아스트로 활동과 배우 활동을 병행하고 있다. 아스트로 콘서트는 다음 달 한국과 일본에서 열린다. 차은우는 또 넷플릭스 새 시리즈 ‘더 원더풀스’를 촬영 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/L74GF3RI7ZA5VDAUNCSS6EZ3T4.JPG?auth=1563a8e7b169d50246e8ef516eec1a7462da2abe0b9c0694111c47dbf962cbe3&amp;smart=true&amp;width=1750&amp;height=1313" type="image/jpeg" height="1313" width="1750">
+        <media:description type="plain">(서울=뉴스1) 권현진 기자 = 배우 차은우가 29일 서울 성동구 디올에서 열린 포토행사에서 포즈를 취하고 있다. 2024.5.29/뉴스1</media:description>
+        <media:credit role="author" scheme="urn:ebu">(서울=뉴스1) 권현진 기자</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>“달러 환전해줄게”… 환전 미끼로 1억9000만원 뺏은 외국인 2명 붙잡혀</title>
+      <link>https://www.chosun.com/national/incident/2025/05/09/LHJOSFJY6JBCXCPYLV5FUYB5QI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/05/09/LHJOSFJY6JBCXCPYLV5FUYB5QI/</guid>
+      <dc:creator>정성원 기자</dc:creator>
+      <description>텔레그램에서 달러를 싸게 환전해준다며 30대 남성을 유인해 폭행하고 현금 1억 9000만원이 든 가방을 빼앗아 달아난 외국인 2명이 경찰에 붙잡혔다.</description>
+      <pubDate>Fri, 09 May 2025 10:27:01 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/54FTUISTLZDHJELX6W5GW5V5XU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;텔레그램에서 달러를 싸게 환전해 준다며 30대 남성을 유인해 폭행하고 현금 1억 9000만원이 든 가방을 빼앗아 달아난 외국인 2명이 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;경기 부천 오정경찰서는 특수강도 혐의로 키르기스스탄 국적 20대 남성 A씨와 러시아 국적 30대 남성 B씨를 긴급 체포해 조사 중이라고 9일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 7일 오후 10시 20분쯤 경기 부천시 오정구 한 거리에서 30대 C씨를 폭행하고 C씨의 차량에 있던 돈 가방을 빼앗은 혐의를 받고 있다. 가방엔 1억9000만원이 들어 있었다.&lt;br&gt;&lt;br&gt;이들은 텔레그램을 통해 C씨에게 “달러 환전을 해주겠다”고 접근한 뒤 이 같은 범행을 저지른 것으로 조사됐다.&lt;br&gt;&lt;br&gt;A씨는 범행 하루 만인 지난 8일 경찰서로 자진 출석했고, B씨는 같은 날 경기 안산에서 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;경찰은 또 베트남으로 도주한 공범 3명에 대해서도 인터폴에 적색 수배를 요청하는 등 추적에 나선 상태다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “A씨와 B씨에 대해선 조사를 마치는 대로 구속영장을 신청할 예정”이라며 “돈 가방은 도주한 공범들이 가져간 것으로 추정된다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>쯔양 협박해 2억 뜯어낸 일당 기소 </title>
       <link>https://www.chosun.com/national/court_law/2025/05/09/4I7Y7TF5DZEHROXXLGQI5C7KHE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/05/09/4I7Y7TF5DZEHROXXLGQI5C7KHE/</guid>
@@ -876,54 +944,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/X3S7ZP3XHNG7PKTX7NY2XPNLSA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;조국 전 조국혁신당 대표가 2024년 12월 16일 경기도 의왕시 서울구치소에  수감되기 위해 구치소 차량을 타기전 손을 들어 인사하고 있다./전기병 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지검 공판5부(부장 정일권)가 조국 전 조국혁신당 대표 아들 조원씨의 대학원 입시 비리 혐의에 대해 기소를 유예한 것으로 8일 전해졌다. &lt;br&gt;&lt;br&gt;기소유예는 불기소 처분의 일환으로, 피의사실 자체는 인정되나 범행 경위와 결과 등을 고려해 재판에 넘기지 않기로 결정하는 것을 가리킨다.&lt;br&gt;&lt;br&gt;조씨는 2018년 1학기 연세대 정치외교학과 석·박사 통합 과정에 지원할 때 허위로 작성된 서울대 공익인권법센터 인턴 확인서, 최강욱 전 더불어민주당 의원 명의의 법무법인 인턴 확인서·조지워싱턴대 장학 증명서를 제출한 혐의로 검찰의 수사를 받고 있었다.&lt;br&gt;&lt;br&gt;검찰은 그러나 조씨가 연세대 석사 학위를 반납하겠다고 한 점, 연세대가 입학을 취소한 점 등을 고려해 기소를 유예하기로 결정했다고 한다.&lt;br&gt;&lt;br&gt;조씨의 입시 비리 혐의 공범인 조국 전 대표는 지난해 12월 대법원에서 징역 2년이 확정돼 수감 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>“가짜 유족, 전문 배우” 제주항공 참사 모욕한 유튜버 구속 기소</title>
-      <link>https://www.chosun.com/national/court_law/2025/05/08/3WRJ3JULKNGI5PVJEJ5246SH7E/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/05/08/3WRJ3JULKNGI5PVJEJ5246SH7E/</guid>
-      <dc:creator>이슬비 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 08 May 2025 06:08:21 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QR6K6XR75LTQHBESMD5WZXGRLA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;제주항공 여객기 참사 7일째인  지난 1월 4일 오후 전남 무안국제공항 참사 현장에서 로컬라이저(방위각시설) 둔덕에 파묻힌 제주항공 7C2216편의 엔진이 실린 트럭이 이동하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰이 지난해 12월 무안공항에서 발생한 ‘제주항공 여객기 참사’와 관련해 허위사실을 유포하고 희생자와 유족의 명예를 훼손한 유튜버 1명을 구속 기소하고 14명을 기소했다고 8일 밝혔다. &lt;br&gt;&lt;br&gt;유튜버 A씨는 지난해 12월부터 올해 1월까지 ‘무안 공항 항공기 사건 영상분석’ 등의 영상 100개를 게시했다. A씨는 영상에서 “여객기 사고는 실제 발생하지 않았고 컴퓨터그래픽(CG) 처리된 허위 영상”이라거나 “유족들이 전문 배우”라는 허위 주장을 했다. “유족들은 세월호, 이태원 사건 때도 나온 사람들”이라는 주장도 폈다. 부산지검은 A씨를 지난 3월 구속기소했다. &lt;br&gt;&lt;br&gt;네티즌 B씨는 유족 대표를 향해 “특정당 당원으로 활동하는 사람이었다. 자신의 뭔가를 위해 유가족까지 사칭했다”는 등의 허위 글을 작성한 혐의로, C씨는 유족 대표를 두고 “가짜 유가족으로 밝혀져, 진짜 유가족들 분통” 등의 허위 글을 작성한 혐의로 각각 밀양지청과 서울북부지검이 이달 기소했다. &lt;br&gt;&lt;br&gt;D씨와 E씨는' 항공기 사고가 발생한 적이 없는데 유족들이 무연고 사체를 이용해 돈을 벌려고 한다’는 허위 주장을 하거나, 지역 비하적 표현을 쓰며 희생자와 유족을 모욕한 혐의로 부천지청과 광주지검이 이달 기소했다. &lt;br&gt;&lt;br&gt;&lt;b&gt;◇檢 “악질 모욕범 구속 수사…범죄수익 환수”&lt;/b&gt;&lt;br&gt;&lt;br&gt;대검찰청은 죄질이 나쁜 사이버 명예훼손·모욕 범행의 경우 종전보다 엄하게 처벌할 수 있게 검찰 사건처리기준을 개정해 이날부터 시행한다고 밝혔다. 대검은 여러 사람이 조직적으로 관여하거나 심각한 피해를 일으킨 경우, 사회적 파급 효과나 비난 가능성, 재범 가능성이 큰 경우는 “적극적으로 구속 수사하라”고 일선 검찰청에 지시했다.&lt;br&gt;&lt;br&gt;이들이 범죄를 통해 경제적 이익을 취득하거나 타인에 대해 보복·음해할 목적으로 허위 사실을 유포한 경우, 의도적으로 허위 정보를 생성한 경우, 특정인에 대한 반복·지속적 허위 사실을 게시하거나 사회적 신뢰 저하 등 중대한 결과를 일으킨 경우 정식 재판에 넘기도록 했다. 검찰은 피의자를 벌금형으로 약식 재판에 넘기는 경우에도 종전보다 50만∼200만원씩 높은 액수를 구형하기로 했다.&lt;br&gt;&lt;br&gt;대검은 또 범죄수익을 최대한 특정해 몰수·추징보전 및 민사소송 등을 통한 환수 조치를 하기로 했다.&lt;br&gt;&lt;br&gt;대검은 “사이버 명예훼손·모욕 범행은 파급력이 크고 오랜 기간 인터넷에 남아 피해 회복이 어려운 특성이 있는데도 처벌이 약식기소에 따른 벌금형에 그치는 경우가 많았다”라며 “엄정한 대처를 통해 국민의 명예와 인격을 보호하겠다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>전국법관회의 소집 투표 돌입...李 상고심·사법부 압박 논의</title>
-      <link>https://www.chosun.com/national/court_law/2025/05/08/FQLX6WTKX5GOVLDSWNIQMBTVBI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/05/08/FQLX6WTKX5GOVLDSWNIQMBTVBI/</guid>
-      <dc:creator>김은경 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 08 May 2025 05:55:27 +0000</pubDate>
-      <content:encoded>이재명 더불어민주당 대선 후보의 공직선거법 위반 사건 상고심 절차와 민주당의 사법부 독립성 훼손 등을 논의하기 위한 전국법관대표회의 개최 여부가 8일 오후 늦게 결정될 것으로 보인다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SMBVCKWCEDP63SEIXXKYNUF73E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울중앙지법 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;법조계에 따르면, 이날 각급 법원 대표자들이 모인 소셜네트워크서비스(SNS) 단체 대화방에서는 전국법관회의 개최 여부를 결정하기 위한 투표가 진행 중이다. 투표는 이날 오후 6시까지 진행된다. 투표를 통해 26명 이상, 5분의 1 이상의 각급 법원 대표자가 동의를 하면 전국법관대표회의가 열린다.&lt;br&gt;&lt;br&gt;안건은 대법원의 이례적인 상고심 절차 진행에 관한 입장 표명 및 사법부 신뢰회복을 위한 방안, 대법원장·대법관·서울고법 법관 탄핵 등 사법 독립성 침해 행위에 대한 규탄 및 독립된 재판에 대한 정치개입 금지 등 두 가지다.&lt;br&gt;&lt;br&gt;법원 안팎에 따르면, 당초 대법원의 이재명 후보에 대한 선고가 이례적으로 신속하게 진행된 데 대한 유감 표명과 재판에 있어서 정치적 중립을 지켜야 한다는 의지 확인, 그리고 향후 이를 지키기 위한 방안 등을 안건으로 회의 소집이 제안됐다고 한다. &lt;br&gt;&lt;br&gt;하지만 전날 민주당 주도로 국회 법제사법위원회에서 조희대 대법원장 등 대법관 12명을 증인으로 채택한 청문회를 강행하기로 의결하고, 조 대법원장을 비롯한 대법관 10명에 대한 탄핵을 추진하기로 하는 등 사법부에 대한 야당의 강경 대응이 이어지면서 두 번째 안건이 추가됐다고 한다.&lt;br&gt;&lt;br&gt;전국법관대표회의는 각급 법원의 대표 판사들이 모여 사법행정과 법관 독립 등에 대한 의견을 표명하는 회의체다. 현안에 따라 비정기적으로 열리던 이 회의는 대법원 규칙 개정으로 2018년 4월부터 공식 기구가 됐다. 의장은 김예영 서울남부지법 부장판사가 맡고 있다.&lt;br&gt;&lt;br&gt;최근에는 지난 1월 서울서부지법 폭동 사태가 발생했을 때 회의가 열렸다. 당시 대표회의 이후 “재판을 이유로 법원을 집단적ㆍ폭력적으로 공격하는 것은 결코 용인될 수 없다”는 성명을 발표했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/7H2UU3LERVEFRBRMDR5FOM5HCM.jpg?auth=266e676174f29df8d7ece06d106d26c9d41eace14f96c7bd013b89f5e9d6fde9&amp;smart=true&amp;width=2899&amp;height=1743" type="image/jpeg" height="1743" width="2899">
-        <media:description type="plain">2025년 5월 7일 오후 서울 서초구 서울고등법원의 모습. 이날 서울고법이 이재명 더불어민주당 대선 후보의 공직선거법 위반 사건 파기 환송심 재판을 대선 이후로 연기했다. /장련성 기자</media:description>
-      </media:content>
-    </item>
-    <item>
-      <title>대구 사찰 찾은 한덕수… 방장 스님은 “김문수 후보와 잘 대화하시라”</title>
-      <link>https://www.chosun.com/politics/election2025/2025/05/08/3IDQGDA6H5GUZMD4PUDPPWGLVI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/politics/election2025/2025/05/08/3IDQGDA6H5GUZMD4PUDPPWGLVI/</guid>
-      <dc:creator>대구=김경필 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 08 May 2025 05:29:30 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/H3PBN2SUZ5OGJCC3QL2BYI7VXI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한덕수 무소속 대선 예비후보가 8일 오전 경북 구미시 박정희 전 대통령 생가를 방문해 방명록을 작성하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한덕수 무소속 대선 후보가 대구 동구 팔공산 동화사를 찾아 의현스님을 예방했다고 한덕수 캠프가 8일 밝혔다. 의현스님은 조계종 25·26대 총무원장을 역임했고 2023년 팔공총림 동화사 방장으로 추대됐다.&lt;br&gt;&lt;br&gt;한덕수 캠프 김소영 대변인에 따르면, 한 후보는 이날 오전 경북 구미시의 박정희 전 대통령 생가를 찾은 데 이어 동화사를 비공개로 방문했다.&lt;br&gt;&lt;br&gt;의현스님은 한 후보에게 “팔공산은 6·25전쟁 당시 남하하던 인민군이 끝내 넘지 못한 산으로, 대구와 부산, 나아가 대한민국을 지킨 호국의 명산”이라고 소개했다.&lt;br&gt;&lt;br&gt;의현스님은 이어서 “뉴스를 통해 후보님의 행보를 보고 있다”며 “국가와 국민을 위해 김문수 후보와 잘 대화하시기를 바란다”고 당부했다.&lt;br&gt;&lt;br&gt;이에 한 후보는 “스님의 말씀을 마음에 새기고 성실히 대화하겠다”고 답했다.&lt;br&gt;&lt;br&gt;예방을 마친 한 후보는 주지 혜정스님과 오찬을 하고, 방명록에는 “부강한 나라, 세계의 사랑과 존경을 받는 대한민국을 반드시 이루겠다”고 적었다.&lt;br&gt;&lt;br&gt;한 후보는 이어서 김 후보와의 두 번째 회동을 위해 열차편으로 서울로 이동했다. 한 후보는 오후 4시 30분 서울 여의도 국회 사랑재에서 김 후보와 만날 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“아이 많이 낳으면 오래 못 산다”…서울대 교수 주장에 갑론을박</title>
-      <link>https://www.chosun.com/national/national_general/2025/05/08/DX7GMRWFMREENMSAEMJQPEN5UQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/05/08/DX7GMRWFMREENMSAEMJQPEN5UQ/</guid>
-      <dc:creator>정아임 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 08 May 2025 05:16:23 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MFO66C7FQRFDRKHRRCXG3VM6EY.png"&gt;&lt;figcaption&gt;&lt;small&gt;유성호 서울대 법의학교실 교수가 서혜진 변호사와 이야기를 나누고 있다./유튜브 '유성호의 데맨톡&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;출산을 많이 한 다산부가 일찍 세상을 떠난다는 법의학자 주장에 갑론을박이 벌어지고 있다.&lt;br&gt;&lt;br&gt;지난 3일 유성호 서울대 법의학교실 교수의 유튜브 채널에는 “다산부가 일찍 돌아가시는 건 맞아요”라는 제목의 짧은 영상이 올라왔다. 이 짧은 영상은 지난달 11일 올라온 전체 영상의 일부를 짜깁기해서 올린 것이다. 이 영상은 5일 만에 조회 수 185만회를 기록했으며, 댓글도 5000개 이상이 달렸다.&lt;br&gt;&lt;br&gt;이 영상에서 유 교수는 “다산부가 일찍 돌아가시는 건 맞다”고 입을 열었다. &lt;br&gt;&lt;br&gt;함께 출연한 서혜진 변호사가 “출산을 한 번도 하지 않은 여성이 좀 오래 산다는 통계도 있는 거냐?”고 묻자 유 교수는 “맞다. 그건 확실하다”며 “지금 우리나라 인구가 늘지 않는데 혼자 사시는 분들 많지 않냐. 더 오래 살 것”이라고 답했다.&lt;br&gt;&lt;br&gt;서 변호사가 “출산 안 한 여성들이 잘 안 늙더라. 저희 그런 얘기 많이 한다”고 하자 유 교수는 “잘 안 늙는 것도 확실하다”고 했다. 서 변호사는 “그런데 그것보다 결혼을 안 한 게 더 큰 것 같다. 속 썩이는 사람이 별로 없다”고 하자 유 교수는 “제일 중요한 건 출산이다. 그게 제일 결정적이다”라고 했다.&lt;br&gt;&lt;br&gt;이를 본 네티즌들은 “임신하면 폭삭 늙는 건 맞는 것 같다” “온몸이 다 낳기 전과는 천지 차이다” “출산이 여성 건강에 영향을 준다는 건 상식” 등의 반응을 보였다. 반면 일부는 “우리 어머니는 8명 낳았는데 90대까지 건강하시다” “내 주변 엄마 중에는 아이 셋 있는 엄마가 가장 동안이다” 등 개인적 경험을 바탕으로 의견을 내놨다. &lt;br&gt;&lt;br&gt;지난 2월 통계청이 발표한 ’2024년 출생·사망 통계’에 따르면 여자 1명이 평생 낳을 것으로 예상되는 평균 출생아 수를 뜻하는 합계출산율은 작년 0.75명이었다. 이는 역대 최저였던 전년(0.72명)보다 0.03명 늘어난 수치다.&lt;br&gt;&lt;br&gt;의학계에서도 출산이 여성의 노화나 수명에 미치는 영향에 대해서는 의견이 엇갈린다. 한 논문에서는 임신 중 생물학적 노화가 가속화되는 경향이 있다가 출산 후 몇 달 후에 다시 이전 상태로 돌아가면서 생물학적 나이가 감소한다고 분석한다. 반면 또 다른 연구에서는 오히려 생물학적 나이가 젊어지고 특히 모유 수유하면 회복 효과가 더 좋다는 결과도 있다. &lt;br&gt;&lt;br&gt;전문가들은 “출산 여부가 건강에 일부 영향을 줄 수는 있지만, 수명과 노화는 유전적 요인과 생활습관, 사회경제적 조건에 더 크게 좌우된다”고 설명한다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>보이스피싱 10억원대 자금 세탁범, 잡고보니 현직 경찰</title>
-      <link>https://www.chosun.com/national/2025/05/08/ZPHT7XSIFVAMRG5ARDJPAUYHE4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2025/05/08/ZPHT7XSIFVAMRG5ARDJPAUYHE4/</guid>
-      <dc:creator>창원=김준호 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 08 May 2025 06:08:50 +0000</pubDate>
-      <content:encoded>현직 경찰이 수억원 상당의 전화금융사기(보이스피싱) 사건에 가담한 혐의로 구속됐다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2XM6ZRBLNL3EDJMT4O22QRFUUQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경남경찰청. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경남경찰청은 ‘범죄수익 은닉의 규제 및 처벌 등에 관한 법률 위반’ 등 혐의로 대구 한 일선 경찰서 소속 A(30대) 경사를 구속했다고 8일 밝혔다.&lt;br&gt;&lt;br&gt;A경사는 지난해 하반기부터 올해 초까지 보이스피싱 범죄 수익금인 것을 알면서 10억원대 범죄수익금을 보이스피싱 조직에 넘긴 혐의를 받는다. &lt;br&gt;&lt;br&gt;그는 보이스피싱 조직이 대출 빙자 등의 방법으로 피해자들로부터 가로챈 돈을 대포통장 금융계좌에서 인출한 뒤 다시 조직에 전달한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;경찰은 이 같은 역할을 하면 범죄 조직으로부터 일정액의 수수료를 받는 조건으로 이른바 ‘자금 세탁’ 범행을 공모한 것으로 보고 있다. &lt;br&gt;&lt;br&gt;A경사는 지인을 통해 범행 수법을 접한 뒤 범죄에 가담한 것으로 알려졌다. 이번 사건과 관련해 A경사 외에 다른 경찰이 범죄에 가담한 정황은 없는 것으로 확인됐다. 경찰은 A경사를 상대로 구체적 범죄 행위와 추가 범죄자 등을 수사할 계획이다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “수사 중인 사안이라 자세한 것은 알려줄 수 없다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[속보] 서울·부산 등 22개 지역 버스노조“임단협 합의 안되면 28일 전국 동시 파업”</title>
       <link>https://www.chosun.com/national/national_general/2025/05/08/KVSSGATV3RBZPGAFI3DURIN5HQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/05/08/KVSSGATV3RBZPGAFI3DURIN5HQ/</guid>
@@ -942,15 +962,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SRE2GDMMOH75DY5PRAV32NWLCU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 2월16일 부산 기장군 반얀트리 리조트 공사장 화재 현장에서 경찰과 과학수사대 화재감식팀, 소방 당국 등 관계자들이 합동 감식을 하기 위해 이동하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;6명이 숨진 부산 기장군 ‘반얀트리 리조트 화재’ 사고에는 회유와 뇌물 등 인허가 비리가 얽혀 있었던 것으로 드러났다.&lt;br&gt;&lt;br&gt;부산경찰청은 8일 오전 수사 결과 브리핑을 갖고 “시행사와 시공사는 반얀트리 리조트 공정률이 미흡한데도 감리회사 및 관공서 관계자들에게 회유, 압박, 뇌물제공 등으로 허위 감리보고서 등을 작성하게 하고 관할 기장군·기장소방서에 제출, 사용승인을 받아낸 것으로 드러났다“고 밝혔다.&lt;br&gt;&lt;br&gt;경찰은 사용승인 비리와 관련, 시행사 임원 1명 등 2명을 구속하고 27명을 불구속 입건했다. 이에 따라 이 사건 관련 사법처리자 수는 구속 8명, 불구속 36명 등 총 44명으로 늘어났다. 이 외에 시공, 하청업체 법인도 각각 구속됐다. &lt;br&gt;&lt;br&gt;앞서 검찰은 화재 예방 시설 및 조치를 않고 무리하게 마무리 공사를 하다 불을 내게 한 혐의(업무상과실치사상, 중대재해특별법, 산업안전보건법 위반) 등으로 시공사 회장 및 대표, 하청업체 대표, 현장소장 등 6명과 법인 2곳은 구속, 9명은 불구속 기소됐다. &lt;br&gt;&lt;br&gt;경찰에 따르면 시행사와 시공사 관계자는 이 리조트가 사용승인을 받기에 공정률이 미흡하다는 사실을 알고 있었으면서도 감리회사 관계자들에게 회유, 압박, 뇌물제공 등으로 허위 감리보고서 등을 작성하게 하고 관할 기장군과 기장소방서에 제출, 지난해 12월 19일 사용승인을 받아낸 혐의를 받고 있다. &lt;br&gt;&lt;br&gt;경찰은 “당시 시행사는 2024년 11월 27일까지 공사를 완료하는 조건으로 대주단으로부터 3250억원의 PF대출을 약정한 상태로 이를 지키지 않으면 잔존 채무액을 즉시 상환해야 하는 처지였다”며 “때문에 책임준공 기간까지 억지로 사용승인을 받아내고 무리하게 마무리 공사를 진행했다”고 말했다. &lt;br&gt;&lt;br&gt;이들이 관할 기장군과 기장소방서에 허위 ‘감리완료보고서’와 ‘소방공사감리 결과보고서’를 제출하자 기장군의 현장조사·검사 및 확인 업무를 위임받은 건축사는 현장 조사도 없이 사용승인이 적합한 것처럼 허위의 ‘사용승인조사 및 검사조서’를 작성, 사용승인을 내주도록 만들었다고 경찰은 밝혔다. &lt;br&gt;&lt;br&gt;경찰 관계자는 “이 과정에서 시행사와 시공사는 감리업체 소방 담당 직원에게 엉터리 소방공사감리 결과보고서 제출 대가로 뇌물을 공여하겠다고 약속하는 확약서와 함께 현금 수천만원을 전달하기도 했다”고 말했다. &lt;br&gt;&lt;br&gt;또 이와 별도로 기장군 등 공무원들에게 전방위적으로 고급 호텔 식사권을 다수 제공했고, 그중 일부는 실제로 사용된 것으로 조사됐다. 그러나 기장군과 기장소방서 담당 공무원들은 ‘사용승인을 적법하게 처리했다’며 혐의를 부인하고 있는 것으로 전해졌다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “불법적인 건축물 사용승인은 국민의 생명과 공공의 안전 질서를 심각하게 위협하는 중대한 범죄”라며 “사용승인 업무처리가 위법하다고 판단해 형사입건한 공무원들의 혐의 유무를 다툴 여지가 있지만 재판을 통해 사실이 가려질 것”이라고 말했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>가상 화폐 대금 1억5000만원 강도…외국인 4명 구속</title>
-      <link>https://www.chosun.com/national/incident/2025/05/08/DWXO6SFYOVFQ3FMGZBKDU4U2HE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/05/08/DWXO6SFYOVFQ3FMGZBKDU4U2HE/</guid>
-      <dc:creator>인천=이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 08 May 2025 02:38:19 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZB5LPNPTN5EZ642DWSCYKWDJ6M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고./ 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;가상 화폐를 현금화한 1억5000만원을 길거리에서 빼앗아 달아난 외국인 4명이 경찰에 붙잡혔다. &lt;br&gt;&lt;br&gt;인천 연수경찰서는 특수강도 혐의로 A씨 등 러시아 국적 30대 남성 A씨 등 3명과 우즈베키스탄 국적 40대 여성 B씨 등 총 4명을 구속했다고 8일 밝혔다. &lt;br&gt;&lt;br&gt;경찰은 또 이들과 범행한 뒤 해외로 달아난 키르기스스탄 국적 30대 남성에 대해 체포영장을 발부받아 인터폴에 적색수배를 요청할 예정이다. &lt;br&gt;&lt;br&gt;A씨 등은 지난달 26일 오후 2시쯤 인천시 연수구 연수동의 한 길거리에서 러시아 국적 20대 남성 C씨를 폭행하고 현금 1억5000만원이 든 가방을 빼앗은 혐의를 받고 있다. &lt;br&gt;&lt;br&gt;B씨는 가상 화폐를 현금화한 1억5000만원을 C씨에게 주기로 한 사실을 A씨 등에게 미리 알린 것으로 조사됐다. &lt;br&gt;&lt;br&gt;A씨 등은 B씨에게 현금을 전달받은 C씨가 차 밖으로 나온 직후, 범행한 것으로 파악됐다. &lt;br&gt;&lt;br&gt;목격자 신고를 받고 수사에 나선 경찰은 이들이 타고 달아난 차량의 이동 경로 등을 추적해 지난 2일 경기 안산 주거지에서 이들 4명을 붙잡았다. &lt;br&gt;&lt;br&gt;경찰은 이들이 가상화폐를 현금화하는 과정에서 외국환거래법과 특정금융정보의 보고 및 이용 등에 관한 법률을 위반했는지 여부도 추가로 수사할 방침이다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>“사기 빚 가족 채무 될까봐”… KCM, 12년 만에 두 딸 공개한 이유</title>
       <link>https://www.chosun.com/national/national_general/2025/05/08/NJ2EGXIW5VFAHF4STE62ASTFZM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/05/08/NJ2EGXIW5VFAHF4STE62ASTFZM/</guid>
@@ -958,15 +969,6 @@
       <description/>
       <pubDate>Thu, 08 May 2025 02:28:08 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QDWXG4XHZUEDR7KR3MURPYQ2N4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;KCM. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;가수 KCM(43·강창모)이 12년 만에 두 딸을 둔 아빠라는 사실을 밝힌 이유를 공개했다. 첫 아이가 태어났을 당시 군 복무 중이었을 뿐 아니라 사기 빚까지 지고 있던 상황이라 혼인신고도 하지 않고 자녀 출생 소식도 알리지 않았다고 한다. &lt;br&gt;&lt;br&gt;KCM은 7일 방영된 MBC ‘라디오스타’에 출연해 “첫째가 군대에 있을 때 태어났다. 인생에서 가장 힘들었을 때고 결정적으로 용기가 없었다”며 “그때 사기를 당해서 빚이 많았는데, 일도 못 하는 상황에 혼인신고를 하면 제 채무가 가족 채무가 되는 상황이어서 할 수 없었다”고 털어놨다. &lt;br&gt;&lt;br&gt;KCM은 뒤늦게 두 딸을 공개하기로 결심한 이유에 대해선 “아내는 작게라도 결혼식을 하고 싶어했다”며 “결혼식을 할 거면 그 전에 딸들을 공개하고 마음 편히 식을 치르는 게 좋겠다고 생각했다”고 했다. 이어 “사실 딸 공개 앞두고 다 내려놨었다. 앞으로 (방송계에서) 일도 못 할 거라고 생각했다”면서도 “그래도 제가 땅을 파서라도 가족을 먹여 살리면 된다는 생각에 공개했다”고 했다.&lt;br&gt;&lt;br&gt;‘공개를 앞두고 걱정은 없었냐’는 질문에 KCM은 “저보다는 큰딸이 걱정됐던 거 같다”고 답했다. 그러면서도 “(첫째가) 사춘기니까 혹시 상처받을까 너무 걱정했는데, 오히려 ‘아빠 나는 괜찮으니까 편하게 얘기해’라며 저를 걱정해주더라”며 “사실 그래서 더 용기가 났다”고 했다. &lt;br&gt;&lt;br&gt;KCM 지인과 오래된 팬은 이미 두 딸의 존재를 알고 있었다고 한다. 그는 “사실 (두 딸을) 감추고 이러진 않았다. 딸과 공개적으로 외출도 했고, 심지어 큰딸 친구들은 제 공연도 보러 왔다. 둘이 놀이공원도 많이 다녔다”며 “팬분들도 많이 알고 계셨는데, 다들 얘기를 안 하시고 숨겨줬다”고 했다.&lt;br&gt;&lt;br&gt;KCM과 여자친구는 2021년 혼인신고를 해 정식 부부가 됐다. 코로나 시기라 결혼식을 미루고 간소한 언약식을 했다고 한다. 이듬해 한 예능 프로그램에 출연해 10년 연애 끝에 결혼했다고 밝힌 바 있으나, 자녀 여부는 공개하지 않았다. &lt;br&gt;&lt;br&gt;지난 3월 KCM이 2012년에 첫째 딸을, 2022년에 둘째 딸을 얻은 두 딸 아빠라는 소식이 언론 보도를 통해 뒤늦게 알려졌다. 이후 KCM은 인스타그램을 통해 “12년 정도 늦었지만 축하한다고 말씀해준 모든 분들에게 감사 인사부터 드린다”며 이 사실을 직접 언급했다. 이어 “지금 이 순간을 위해 긴 시간을 잘 견뎌온 아내와 아이들에게도 너무 고맙다는 말을 하고 싶다”라며 “중한 가족을 지키기 위해 부족하지만 최선을 다했고 조심스레 걸어왔다”라고 했다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>공수처, ‘순직 해병 수사 외압’ 대통령비서실·국가안보실 압수 수색 재개</title>
-      <link>https://www.chosun.com/national/court_law/2025/05/08/57PWGHJF5JALFJI5NBCZQHWWMM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/05/08/57PWGHJF5JALFJI5NBCZQHWWMM/</guid>
-      <dc:creator>박강현 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 08 May 2025 02:27:47 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2EJQWX43INN25H6RK3PHVN2F4A.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;해병대원 순직사건 수사외압 의혹을 수사 중인 고위공직자범죄수사처(공수처) 수사관들이 대통령비서실과 국가안보실에 대한 압수수색을 시도하기 위해 지난 7일 서울 용산구 대통령실 민원실 출입구로 들어서고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 전 대통령 등의 ‘순직 해병 사건 수사 외압’ 의혹을 수사 중인 고위공직자범죄수사처(공수처) 수사3부(부장 이대환)는 8일 오전 10시 30분쯤 대통령 비서실과 국가안보실에 대한 압수 수색을 재개했다. 전날(7일) 압수 수색을 시도하다 약 6시간 만에 집행을 중지했는데, 다시 진행한 것이다. 공수처가 발부받은 압수 수색 영장에는 윤 전 대통령의 직권남용 혐의가 적시된 것으로 알려졌다.&lt;br&gt;&lt;br&gt;이 의혹은 지난 2023년 7월 경북 예천군 수해 실종자 수색에 투입됐다가 급류에 휩쓸려 숨진 고(故) 채수근 상병 사망 사건의 수사 과정에서 대통령실과 군 지휘부가 수사 외압을 행사한 것 아니냐는 내용을 골자로 하고 있다.&lt;br&gt;&lt;br&gt;초기 수사를 맡았던 해병대 수사단은 수사 자료를 경찰에 이첩하는 과정에서 상부에서 이첩 보류 지시를 받았으나 이에 따르지 않았다. 그러자 국방부 검찰단은 수사 서류를 경찰에서 회수하고 수사단장이었던 박정훈 대령을 입건해 항명 등 혐의를 적용했다. 이 과정에서 박 대령이 “수사단 조사 결과를 보고받은 (당시) 윤석열 대통령이 격노했다는 취지의 말을 들었다”고 주장하면서 윤 전 대통령 개입 의혹으로 확산됐다. &lt;br&gt;&lt;br&gt;공수처는 이날 윤 전 대통령이 당시 수사 기록 이첩 보류에 관여한 기록 등을 확보하기 위해 대통령실 서버 등의 압수 수색을 시도하는 것으로 전해졌다. 전날에는 압수 수색 방식 및 범위 등에 관한 이견이 있었던 것으로 알려졌다. 공수처는 임의제출 등 자료 제출 방식 및 범위 등에 대한 협의를 이어나가고 있는 것으로 전해졌다. &lt;br&gt;&lt;br&gt;공수처는 지난해 12‧3 비상계엄 이후 ‘내란’ 관련 수사에 집중하느라 이 사건 수사를 잠정 중단했었다. 그러나 최근 이 사건 핵심 피의자인 임성근 전 해병대 1사단장의 휴대전화 디지털 포렌식을 실시하면서 수사를 재개했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>인천서 음주 추정 승용차, 중앙선 넘어 SUV와 충돌…2명 사망, 4명 부상</title>
