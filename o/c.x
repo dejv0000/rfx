@@ -13,6 +13,66 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>쯔양 협박해 2억 뜯어낸 일당 기소 </title>
+      <link>https://www.chosun.com/national/court_law/2025/05/09/4I7Y7TF5DZEHROXXLGQI5C7KHE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/05/09/4I7Y7TF5DZEHROXXLGQI5C7KHE/</guid>
+      <dc:creator>유희곤 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 09 May 2025 09:45:09 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5CM2CQ5OA5LMLLWVYMAOK6A3UA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;먹방 유튜버 '쯔양(본명 박정원)'이 지난 8일 김세의 가로세로연구소(가세연) 대표에 대한 고소인 조사를 받기 위해 서울 강남구 강남경찰서로 출석하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;먹방(음식 먹는 방송) 유튜버 ‘쯔양(본명 박정원)’을 협박해 2억여 원을 뜯어낸 일당이 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;9일 법조계에 따르면 서울중앙지검 형사3부(부장 최순호)는 송모(32)씨와 김모(29)씨를 폭력행위 등 처벌에 관한 법률 위반(공동공갈) 혐의로 지난달 24일 기소한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;두 사람은 2021년 6월부터 2022년 11월까지 과거 유흥업소에서 일한 사실을 폭로하겠다며 협박해 쯔양으로부터 약 2억1600만원을 받은 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;쯔양은 작년 7월 자신의 유튜브에서 “전 남자친구 이모씨의 폭행과 협박에 시달리며 강제로 술집에서 일한 적이 있다”고 공개했다. 유튜브 채널 ‘가로세로연구소’가 “쯔양이 과거 문제로 유튜버들에게 협박당해 돈을 뜯겼다”고 폭로한 데 따른 것이었다.&lt;br&gt;&lt;br&gt;송씨와 김씨는 이씨로부터 쯔양에 대한 얘기를 전해 듣고 일면식이 없는 쯔양을 협박한 것으로 전해졌다. 두 사람은 작년 말 쯔양에게 사과의 뜻을 전했다고 한다.&lt;br&gt;&lt;br&gt;한편 송씨와 김씨처럼 쯔양을 협박해 수천만원을 뜯어낸 혐의를 받는 유튜버 ‘구제역(이준희)’은 지난 2월 1심에서 징역 3년을 선고받고 법정 구속됐다. 함께 기소된 ‘주작감별사(전국진)’와 ‘카라큘라(이세욱)’는 각각 징역 1년에 집행유예 3년 등을 선고받았다. ‘크로커다일(최일환)’은 벌금 500만원형을 받았다.&lt;br&gt;&lt;br&gt;쯔양은 작년 7월 김씨도 협박 등의 혐의로 고소했다. 서울 강남경찰서는 지난 2월 불송치 처분했지만, 검찰은 쯔양의 이의신청에 따라 지난 3월 보완수사를 요구했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/5CM2CQ5OA5LMLLWVYMAOK6A3UA.jpg?auth=dbca9265af4b203b80558bd3cab302b535d06e495412fa6c26d289407b901f23&amp;smart=true&amp;width=2333&amp;height=2976" type="image/jpeg" height="2976" width="2333">
+        <media:description type="plain">먹방 유튜버 '쯔양(본명 박정원)'이 지난 8일 김세의 가로세로연구소(가세연) 대표에 대한 고소인 조사를 받기 위해 서울 강남구 강남경찰서로 출석하고 있다. /뉴시스</media:description>
+        <media:credit role="author" scheme="urn:ebu">jini</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>서울대 자연대 50주년 포럼서 “과거의 아집 벗어나 대대적 시스템 변화해야 ‘퀀텀 점프’ 가능”</title>
+      <link>https://www.chosun.com/national/national_general/2025/05/09/GQWJJNGHGRHFJGQ6MRX6AQFX4Q/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/05/09/GQWJJNGHGRHFJGQ6MRX6AQFX4Q/</guid>
+      <dc:creator>박정훈 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 09 May 2025 09:36:49 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QCUJMD37LVGNXHGQJZUB3NDZSE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김빛내리 서울대 생명공학부 석좌교수가 9일 서울 관악구 서울대 관악캠퍼스에서 열린 ‘자연과학 미래포럼: 자연과학의 현재를 되짚다’에서 발표를 진행하고 있다. /서울대 자연대&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울대 자연과학대학(학장 유재준)이 출범 50년을 맞아 기초과학의 성과와 과제들을 점검하는 ‘자연과학 미래 포럼: 자연과학의 현재를 되짚다’를 9일 개최했다. 이날 서울대 자연대 소속·출신의 석학들은 “자연대가 현 위치에 안주하지 않고 새로운 분야를 개척할 리더를 키워야 한다”고 제언했다. &lt;br&gt;&lt;br&gt;서울대 자연대 포럼은 이날 오후 2시부터 서울 관악구 서울대 28동에서 개최됐다. 이날 포럼엔 박홍근 하버드대 화학·화학생물학과 교수, 김빛내리 서울대 생명과학부 석좌교수, 정현석 서울대 물리·천문학부 교수, 박남규 성균관대 화학공학부 종신석좌교수 등 유명 석학들이 참석했다. 이들은 각각 ‘탁월함을 넘어(Beyond Excellence)’, ‘RNA: 생명의 기원에서 치료제까지’, ‘양자세계에 대한 탐구에서 양자컴퓨터까지’, ‘페로브스카이트와 만남, 그리고 그 이후’ 등 각자 연구 분야에 대해 발표한 뒤 서울대 자연대가 나아가야 할 방향에 대해 토의했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4JLCJ7DBJZB3HFVWYVUQGXPYXE.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;박홍근 하버드대 화학·화학생물학과 교수가 9일 서울 관악구 서울대 관악캠퍼스에서 열린 ‘자연과학 미래포럼: 자연과학의 현재를 되짚다’에서 발표를 진행하고 있다. /서울대 자연대&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 박홍근 교수는 애플 창업주 스티브 잡스, 양자 컴퓨터 석학 피터 쇼어 매사추세츠공대(MIT) 교수 등을 언급하고 “단순히 탁월함(Excellence)을 추구하는 것을 넘어 새로운 트렌드를 만들어내고 다른 연구자들이 이를 따라올 수 있도록 하는 리더를 키워야 한다”며 “그러기 위해선 새로운 질문을 던지고 새로운 답을 만들어낼 줄 알아야 한다”고 했다. &lt;br&gt;&lt;br&gt;김빛내리 교수는 “자연과학은 인류의 지적 경계를 넓히는 과정”이라며 “자연이 보여준 작은 틈새를 파고들어 ‘우리가 무엇을 모르는지조차 모르는 미지의 무언가(Unknown unknowns)’를 알아내는 선구자를 자연대가 키워내야 한다”고 했다. &lt;br&gt;&lt;br&gt;박남규 교수는 “서울대가 입결에서 가장 우수한 학생들을 데려오는데 그 학생들로 국내 1위를 하는 것은 당연한 것”이라며 “이에 안주하지 않고 세계적인 MIT, 하버드대, 옥스퍼드대와 어깨를 나란히 하려면 대대적 시스템 변화가 필요하다”고 했다. 또 그는 “공대와 달리 자연대는 너무 기초과학과 과거의 아집에 묶인 느낌이 있다”며 “교수들이 보다 분발해 자연대가 ‘퀀텀점프’(Quantum Jump, 단기간에 비약적으로 발전하는 현상)를 이룩해내길 바란다”고 했다.&lt;br&gt;&lt;br&gt;정현석 교수는 “한 사람이 모든 걸 다 하는 시대는 지났고, 내 장점과 타인의 장점을 융합해 새로운 분야를 연구해야 하는 시대”라며 “교육 또한 그에 맞춰야 한다”고 했다. &lt;br&gt;&lt;br&gt;자연대는 지난 3월부터 ‘향후 50년간의 과학(Science, Next 50)’ 프로젝트를 진행하고 있다. 내달 13일 ‘자연과학의 다음을 묻다’라는 제목의 포럼을 다시 열고 첨단 기술 및 융합 연구 계획을 논의한다. 자연대는 오는 10월엔 향후 50년간 교육·연구 청사진을 담은 보고서를 발표할 예정이다. 자연대 관계자는 “국내 최대 규모 자연과학 교육·연구 기관으로서 지난 50년간 대한민국 기초과학을 이끌어왔다”며 “이에 안주하지 않기 위해 한 단계 더 도약할 수 있는 구체적인 계획을 마련할 것”이라고 했다.&lt;br&gt;&lt;br&gt;한편 서울대 자연대는 서울대가 1975년 동숭동에서 관악캠퍼스로 이전한 뒤 문리대에서 분리돼 올해로 출범 50년을 맞았다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“재범 가능성 높아”...층간 소음 이유로 이웃 협박한 40대 여성, 법정 구속</title>
+      <link>https://www.chosun.com/national/court_law/2025/05/09/LXHNUGQNFRCGVO5I3TM5YARMOU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/05/09/LXHNUGQNFRCGVO5I3TM5YARMOU/</guid>
+      <dc:creator>원주=정성원 기자</dc:creator>
+      <description>층간소음을 항의한다며 이웃집에 침입해 이웃을 위협한 40대 여성이 법정구속됐다.
+춘천지법 원주지원 형사3단독 황해철 판사는 주거침입 등 혐의로 기소된 A(49)씨에게 징역 6개월을 선고하고 법정구속했다고 9일 밝혔다.
+</description>
+      <pubDate>Fri, 09 May 2025 08:51:16 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KYUTM35NP5F5GTBMEVJXMVTOYE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;춘천지법 원주지원. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;층간 소음을 항의한다며 이웃집에 침입해 이웃을 위협한 40대 여성이 법정 구속됐다.&lt;br&gt;&lt;br&gt;춘천지법 원주지원 형사3단독 황해철 판사는 주거침입 등 혐의로 기소된 A(49)씨에게 징역 6개월을 선고하고 법정구속했다고 9일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 작년 10월 20일 강원 원주시 한 다세대주택에서 이웃 B(29)씨의 집에 침입해 고성을 지르고 볼펜으로 B씨를 찌를 듯이 위협한 혐의를 받고 있다. A씨는 B씨가 층간 소음을 일으킨다고 생각해 이 같은 행동을 벌인 것으로 조사됐다.&lt;br&gt;&lt;br&gt;A씨는 또 3일 후인 작년 10월 23일에도 B씨의 집을 찾아가 문고리를 수차례 잡아당겼으며 현관문 밖 신발장에 놓여 있던 B씨의 운동화를 창문 밖으로 던지기도 했다.&lt;br&gt;&lt;br&gt;재판부는 A씨가 과거 아동학대 혐의 등으로 집행유예를 선고받은 전력이 있음에도 이 같은 범죄를 또다시 저지른 점을 참작해 재범 가능성이 있다고 판단했고, A씨를 법정 구속했다.&lt;br&gt;&lt;br&gt;황 판사는 “피고인은 재판에 임하면서도 반성하는 모습을 보이지 않았다”면서 “집행유예 기간임에도 범행을 반복한 점 등에 비춰보면 피고인이 재범할 가능성도 높아 엄중한 처벌이 불가피하다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>檢, ‘AI 형사법 연구회’ 출범</title>
+      <link>https://www.chosun.com/national/court_law/2025/05/09/LZRE7FDOKBBU7B2WQ4YUGJ73LY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/05/09/LZRE7FDOKBBU7B2WQ4YUGJ73LY/</guid>
+      <dc:creator>유희곤 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 09 May 2025 08:21:20 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NI3BXSPF2V2ZHF3747KPR6FGHA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 대검찰청. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰이 인공지능(AI) 기술을 업무에 활용하는 방안을 마련할 연구회를 만들고 첫 회의를 열었다.&lt;br&gt;&lt;br&gt;대검찰청은 9일 심우정 검찰총장 주재로 ‘검찰 AI 형사법 연구회’ 창립식을 가졌다고 밝혔다. 좌장은 전문곤 대검 기획조정부장이 맡고, 서울대 융합기술대학원 이학 석사를 졸업한 이지연 대검 사이버기술범죄수사과장, 기술 유출 공인전문검사 인증을 받은 조소인 대검 정보통신과 연구관 등이 참여했다.&lt;br&gt;&lt;br&gt;이날 회원들은 2개 팀으로 나눠 한국형 모럴머신(Moral machine·인공지능의 윤리적 결정에 대한 사회적 인식 수집 플랫폼), 형사사법시스템에서의 AI 도입 및 활용 방안 등을 발표했다. 심 총장은 AI 기술의 검찰 업무 도입·활용 및 형사법 이슈와 관련한 회원들의 적극적인 연구와 활동을 당부했다.&lt;br&gt;&lt;br&gt;대검은 연구회가 정기적 교류와 지속적인 연구로 AI 기술과 형사법적 이슈에 대한 전문성을 키워나가기로 했다고 밝혔다. 자율주행자동차, AI 범죄예방시스템 등과 관련한 형사법 주제도 집중적으로 논의할 예정이다. 이날 참석자 외에도 AI와 로봇 등에 관심이 있는 검사 및 수사관 190여 명이 연구회 가입 신청을 했다고 한다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>이인정 아시아산악연맹 회장 소강 대상 </title>
+      <link>https://www.chosun.com/national/people/2025/05/09/CLZD4O373NEQVEDITL2JR6SQXI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/05/09/CLZD4O373NEQVEDITL2JR6SQXI/</guid>
+      <dc:creator>정병선 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 09 May 2025 08:40:45 +0000</pubDate>
+      <content:encoded>이인정 아시아산악연맹 회장이 9일 소강체육대상 대상을 수상했다.&lt;br&gt;&lt;br&gt;소강 민관식육영재단은 지난 1월부터 체육계 후보를 추천받아 세 차례 심사위원회를 거쳐 부문별 수상자를 확정했다. 이 회장은 심사위원 만장일치로 대상 수상자로 선정됐다.&lt;br&gt;&lt;br&gt;이 회장은 1980년 동국산악회 한국 마나슬루 등반대장으로 한국 최초로 마나슬루봉(8156m)을 등정한 전문 산악인이다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EL3SSO4XPRAIBC4X7722B4XZOM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;정대철 소강민관식육영재단 이사장으로부터 대상 트로피를 받고 있는 이인정 회장(오른쪽). /대한산악연맹)&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한국 에베레스트 원정대를 비롯해 여러 차례 원정대를 이끌었으며, 2000년대 초반에는 엄홍길 대장과 고(故) 박영석 대장의 히말라야 14좌 완등을 물심양면으로 지원했다.&lt;br&gt;&lt;br&gt;2005년부터 2016년까지 대한산악연맹 회장을 역역임했으며, 산악을 스포츠의 영역으로 확장하는 데 큰 기여를 했다. 특히, 스포츠클라이밍을 전국체전 정식 종목으로 채택하게 한 주역이다. &lt;br&gt;&lt;br&gt;2009년부터 아시아산악연맹 회장으로 활동하며, 아시아 회원국 간의 협력 강화와 국제산악연맹과의 관계 증진에 이바지했으며, 한국인 최초로 국제산악연맹 명예회원으로 추대되는 영예를 안았다.&lt;br&gt;&lt;br&gt;이 회장은 1990년부터 시작한 태인체육장학금 사업을 통해, 36년간 총 741명의 체육 꿈나무에게 약 6억 6000만원의 장학금을 전달하며 유소년 체육 인재 육성에 노력해왔다. &lt;br&gt;&lt;br&gt;1994년 재무부장관 표창, 1998년 국무총리 표창, 2011년 상공의 날 석탄산업훈장, 2015년 국무총리 표창, 2022년 국민훈장 모란장을 받았다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>경찰, 태안군수 자택·집무실 압수수색… 청탁금지법 위반 혐의</title>
+      <link>https://www.chosun.com/national/regional/chungcheong/2025/05/09/J4GLXHR2G5EC7I6322UBCCLMZM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2025/05/09/J4GLXHR2G5EC7I6322UBCCLMZM/</guid>
+      <dc:creator>김석모 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 09 May 2025 08:22:10 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NYYVYLLKUG6NDUQD3ML7BHI7SY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;태안군청. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰이 청탁금지법 위반 혐의를 받는 가세로 태안군수에 대해 강제 수사에 나섰다.&lt;br&gt;&lt;br&gt;충남경찰청 형사기동대는 9일 오전 가 군수의 집무실과 자택 등에 수사관을 보내 청탁금지법 위반 등의 혐의를 확인하기 위한 압수수색을 벌였다. 경찰은 가 군수의 휴대전화를 압수하고, 컴퓨터에서 혐의를 확인하기 위한 자료 등을 확보한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;압수수색 당시 가 군수는 외부 일정으로 자리를 비운 상태였다.&lt;br&gt;&lt;br&gt;경찰은 압수물을 분석하고 가 군수에 대한 직접 대면 조사 여부를 검토한다는 방침이다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “가 군수에 대해 압수수색을 한 것은 맞지만 수사 중인 사안이므로 자세한 내용에 관해서는 밝힐 수 없다”면서 “청탁금지법 위반 등의 혐의가 있는지 확인하고 있다”고 말했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>검찰 “다혜씨 민주당·정의당 중복 가입...文·대통령실, 다혜씨 부부 소득활동 직접 관리”</title>
       <link>https://www.chosun.com/national/court_law/2025/05/09/4VPZJAGKF5BFPKZVO3JPUZE3CU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/05/09/4VPZJAGKF5BFPKZVO3JPUZE3CU/</guid>
@@ -864,27 +924,6 @@
       <content:encoded>현직 경찰이 수억원 상당의 전화금융사기(보이스피싱) 사건에 가담한 혐의로 구속됐다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2XM6ZRBLNL3EDJMT4O22QRFUUQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경남경찰청. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경남경찰청은 ‘범죄수익 은닉의 규제 및 처벌 등에 관한 법률 위반’ 등 혐의로 대구 한 일선 경찰서 소속 A(30대) 경사를 구속했다고 8일 밝혔다.&lt;br&gt;&lt;br&gt;A경사는 지난해 하반기부터 올해 초까지 보이스피싱 범죄 수익금인 것을 알면서 10억원대 범죄수익금을 보이스피싱 조직에 넘긴 혐의를 받는다. &lt;br&gt;&lt;br&gt;그는 보이스피싱 조직이 대출 빙자 등의 방법으로 피해자들로부터 가로챈 돈을 대포통장 금융계좌에서 인출한 뒤 다시 조직에 전달한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;경찰은 이 같은 역할을 하면 범죄 조직으로부터 일정액의 수수료를 받는 조건으로 이른바 ‘자금 세탁’ 범행을 공모한 것으로 보고 있다. &lt;br&gt;&lt;br&gt;A경사는 지인을 통해 범행 수법을 접한 뒤 범죄에 가담한 것으로 알려졌다. 이번 사건과 관련해 A경사 외에 다른 경찰이 범죄에 가담한 정황은 없는 것으로 확인됐다. 경찰은 A경사를 상대로 구체적 범죄 행위와 추가 범죄자 등을 수사할 계획이다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “수사 중인 사안이라 자세한 것은 알려줄 수 없다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>졸업사진 찍던 초등생들 단체 병원행… 공원서 ‘이 꽃’ 따먹었다</title>
-      <link>https://www.chosun.com/national/national_general/2025/05/08/FCX7YJUGGRDHTMUZK3NT3P7GTQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/05/08/FCX7YJUGGRDHTMUZK3NT3P7GTQ/</guid>
-      <dc:creator>문지연 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 08 May 2025 06:33:18 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ASRPDIYFWVEUBD7TGY2TDJL72E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산 사상구 동서대학교 화단에 활짝 핀 영산홍. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;졸업사진을 찍던 초등학생 4명이 공원에 핀 영산홍을 먹었다가 병원 치료를 받는 일이 발생했다.&lt;br&gt;&lt;br&gt;8일 경기도교육청과 소방 당국 등에 따르면 전날 낮 12시 37분쯤 안성시 옥산동 한 초등학교 보건교사로부터 “복통을 호소하는 학생들이 있다”는 내용의 119 신고가 접수됐다. 당시 이 학교 6학년생 11명은 인근 공원에서 졸업 앨범을 촬영했고, 이 과정에서 영산홍을 따 섭취한 것으로 파악됐다. &lt;br&gt;&lt;br&gt;이들 중 2명이 복통과 구토 증상 등을 보여 인근 병원으로 이송됐고 다른 2명도 보호자를 통해 병원으로 옮겨졌다. 다행히 모두 생명에는 지장이 없는 상태다. 영산홍을 먹은 나머지 7명은 별다른 증상을 보이지 않은 것으로 전해졌다.&lt;br&gt;&lt;br&gt;영산홍은 진달래목 진달래과에 속하는 반상록 관목이다. 꽃 색이 다양하고 겨울에도 잎이 완전히 떨어지지 않아 전국 사찰 경내, 민가 정원, 공원 등에 관상용으로 많이 심는다. 다만 ‘그라야노톡신’이라는 독성 물질을 품고 있어 섭취 시 구토, 복통, 호흡곤란 등을 유발할 수 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>한덕수 “김문수와 오후 4시 단일화 재논의… 약속 지키라 할 것”</title>
-      <link>https://www.chosun.com/politics/election2025/2025/05/08/CR5VSSX4TNFFRBIEZDMWDRVOXA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/politics/election2025/2025/05/08/CR5VSSX4TNFFRBIEZDMWDRVOXA/</guid>
-      <dc:creator>구미=김경필 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 08 May 2025 02:12:41 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KME3RQKCI5MCHFDG52P7WJ5F2U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한덕수 무소속 대선 예비후보가 8일 오전 경북 구미시 박정희 전 대통령 생가를 방문해 기자들의 질문에 답하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한덕수 무소속 대선 예비후보는 8일 “김문수 후보는 (국민의힘 경선에서) 국민의힘 후보가 되면 즉각 한덕수 후보와 단일화 논의를 시작하겠다고 처음부터 끝까지 약속했다”며 “저는 오늘 오후 4시에 김 후보를 만나 ‘그 약속을 지키라’고 이야기하겠다”고 말했다.&lt;br&gt;&lt;br&gt;한 후보는 이날 오전 경북 구미시의 박정희 전 대통령 생가를 방문한 뒤 기자들과 만나 이같이 말했다. 앞서 지난달 27일 국민의힘 대선 후보 경선 당시 김 후보는 “한덕수 대통령 권한대행 국무총리가 출마한다면, 경선 초반부터 흔들림 없이 단일화를 주장한 후보로서, 제가 즉시 찾아뵙고 신속하고 공정한 단일화를 성사하겠다”고 한 바 있다.&lt;br&gt;&lt;br&gt;한 후보는 “그것(신속한 단일화 약속)을 지키지 않는 사람은, 대한민국의 미래와 경제, 민생을 걱정하는 많은 분에 대한 큰 실례이자 결례이고, 그분들에게 정말 못할 일을 하는 것”이라고도 했다.&lt;br&gt;&lt;br&gt;한 후보는 전날 김 후보와의 회동에서 아무 합의가 이뤄지지 않은 것과 관련해 “제가 (단일화는) 당에 일임하고, 당의 (결정하는) 모든 것에 따르고, 후보 등록 마감 때까지 단일화되지 않으면 등록하지 않겠다고 이야기한 것에 대해, 김 후보는 아무 대안을 갖고 오지 않았다”고 했다.&lt;br&gt;&lt;br&gt;한 후보는 전날 회동이 끝난 직후 회동에서 나눈 이야기를 직접 밝히지 않고 갔고, 김 후보는 기자들과 만나 “한 후보와 만찬을 같이 하면서 제 나름대로 생각하는 단일화 방안을 말씀드렸는데, 한 후보님께서는 모든 것을 당에 맡기겠다는 말을 반복적으로 해서, 의미 있는 진척이 없었다”고 했다. 이렇게 김 후보가 전한 회동 내용에 대해, 한 후보가 직접 사실이 아니라고 반박한 것이다.&lt;br&gt;&lt;br&gt;한 후보는 김 후보가 회동에서 단일화에 관한 구체적인 이야기는 하지 않고 ‘당이 나를 괴롭힌다. 내가 당을 대표하는 사람인데 왜 내 마음대로 할 수 없느냐’는 이야기만 했다며, “그건 정말 사소하고, 아무 중요성도 없는 이야기라고 생각한다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RMMBH7FOYZKX7DYAI2NXVLPQCA.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;한덕수 무소속 대선 예비후보가 8일 오전 경북 구미시 박정희 전 대통령 생가를 찾아 지지자들과 기념 촬영하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한 후보는 “김 후보와 그 팀이 사실이 아닌 것들을 자꾸 말씀하시는 것 같아서, 오늘은 김 후보와 4시 회동이 끝나면 김 후보와 같이 여러분 앞에 서서, 김 후보가 사실이 아닌 이야기를 하면 분명히 사실이 아니라는 말씀을 여러분께 확고히 알려드리도록 하겠다”고도 했다.&lt;br&gt;&lt;br&gt;한 후보는 또 “저는 헌법을 바꾸고, 국민과 동행하면서 약자를 보호하고, 더 좋은 제도를 만들고, 통상 문제를 해결해서 우리나라를 지속 가능한 좋은 나라로 만들어 청년에게 넘겨주는 것 이상으로는 아무런 욕망이 없다”며 “저는 대통령을 3년만 하기로 했고, 이런 취지를 국민들이 충분히 알아주시리라 믿고 제가 왜 대통령 후보로 나설 수밖에 없는가를 말씀드렸다”고 했다. 그러면서 “이렇게 말씀드렸는데 김 후보가 ‘왜 한 후보가 대통령 후보로 나왔는지 모르겠다’고 이야기한다면, 기본적인 예의도 없는 분 아닌가”라고 했다. 그러면서 “오후 4시에는 그분에게 잘못하고 있는 것은 ‘잘못하고 있다’고 말씀드리고 여러분 앞에 서겠다”고 했다.&lt;br&gt;&lt;br&gt;국민의힘 지도부가 오후 6시에 하겠다고 예고한 김 후보와 한 후보 간 토론에 대해선 “저는 (단일화 관련) 당이 정하는 모든 방식을 받아들일 것”이라며 “토론회가 당이 정하는 것이라면 저는 당연히 그것을 따르고, 김 후보가 참석하든 안 하든 그 토론회 장소에 나갈 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/NYHMHJJIKBFGXGQ7HKFXJXVMIQ.jpg?auth=b1e23f894e978832309179db434f0cd6f86b0e7c9c8668e34906b9023ad697f1&amp;smart=true&amp;width=3270&amp;height=2042" type="image/jpeg" height="2042" width="3270">
-        <media:description type="plain">무소속 한덕수 대선 예비후보가 8일 경북 구미시 박정희 전 대통령 생가를 방문해 기자들의 질문에 답변하고 있다./연합뉴스</media:description>
-      </media:content>
-    </item>
-    <item>
       <title>[속보] 서울·부산 등 22개 지역 버스노조“임단협 합의 안되면 28일 전국 동시 파업”</title>
       <link>https://www.chosun.com/national/national_general/2025/05/08/KVSSGATV3RBZPGAFI3DURIN5HQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/05/08/KVSSGATV3RBZPGAFI3DURIN5HQ/</guid>
@@ -928,46 +967,6 @@
       <description/>
       <pubDate>Thu, 08 May 2025 02:27:47 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2EJQWX43INN25H6RK3PHVN2F4A.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;해병대원 순직사건 수사외압 의혹을 수사 중인 고위공직자범죄수사처(공수처) 수사관들이 대통령비서실과 국가안보실에 대한 압수수색을 시도하기 위해 지난 7일 서울 용산구 대통령실 민원실 출입구로 들어서고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 전 대통령 등의 ‘순직 해병 사건 수사 외압’ 의혹을 수사 중인 고위공직자범죄수사처(공수처) 수사3부(부장 이대환)는 8일 오전 10시 30분쯤 대통령 비서실과 국가안보실에 대한 압수 수색을 재개했다. 전날(7일) 압수 수색을 시도하다 약 6시간 만에 집행을 중지했는데, 다시 진행한 것이다. 공수처가 발부받은 압수 수색 영장에는 윤 전 대통령의 직권남용 혐의가 적시된 것으로 알려졌다.&lt;br&gt;&lt;br&gt;이 의혹은 지난 2023년 7월 경북 예천군 수해 실종자 수색에 투입됐다가 급류에 휩쓸려 숨진 고(故) 채수근 상병 사망 사건의 수사 과정에서 대통령실과 군 지휘부가 수사 외압을 행사한 것 아니냐는 내용을 골자로 하고 있다.&lt;br&gt;&lt;br&gt;초기 수사를 맡았던 해병대 수사단은 수사 자료를 경찰에 이첩하는 과정에서 상부에서 이첩 보류 지시를 받았으나 이에 따르지 않았다. 그러자 국방부 검찰단은 수사 서류를 경찰에서 회수하고 수사단장이었던 박정훈 대령을 입건해 항명 등 혐의를 적용했다. 이 과정에서 박 대령이 “수사단 조사 결과를 보고받은 (당시) 윤석열 대통령이 격노했다는 취지의 말을 들었다”고 주장하면서 윤 전 대통령 개입 의혹으로 확산됐다. &lt;br&gt;&lt;br&gt;공수처는 이날 윤 전 대통령이 당시 수사 기록 이첩 보류에 관여한 기록 등을 확보하기 위해 대통령실 서버 등의 압수 수색을 시도하는 것으로 전해졌다. 전날에는 압수 수색 방식 및 범위 등에 관한 이견이 있었던 것으로 알려졌다. 공수처는 임의제출 등 자료 제출 방식 및 범위 등에 대한 협의를 이어나가고 있는 것으로 전해졌다. &lt;br&gt;&lt;br&gt;공수처는 지난해 12‧3 비상계엄 이후 ‘내란’ 관련 수사에 집중하느라 이 사건 수사를 잠정 중단했었다. 그러나 최근 이 사건 핵심 피의자인 임성근 전 해병대 1사단장의 휴대전화 디지털 포렌식을 실시하면서 수사를 재개했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[단독] 민주 ‘대통령 재판 정지법’ 처리에, 현직 부장검사 “보편적 가치 허물어져” </title>
-      <link>https://www.chosun.com/national/court_law/2025/05/08/BNMZT63JIBAFFIOOZ5K4HL33JY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/05/08/BNMZT63JIBAFFIOOZ5K4HL33JY/</guid>
-      <dc:creator>이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 08 May 2025 02:19:38 +0000</pubDate>
-      <content:encoded>형사재판을 받고 있는 피고인이 대통령에 당선될 경우 재판을 정지할 수 있도록 하는 형사소송법 개정안이 더불어민주당 주도로 법사위를 통과한 데 대해 한 현직 부장검사가 “보편적인 가치와 기준이 허물어지는 입법 상황”이라며 “앞으로 어떠한 기상천외한 법률이 쏟아질지 궁금하다”고 강하게 비판했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NA3GEJEFSVM2HIM5YKQX3CYWEY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;검찰 깃발./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;8일 본지 취재를 종합하면, 장진영(사법연수원 36기) 수원지검 여성아동범죄조사부장은 이날 오전 검찰 내부망 이프로스에 ‘대통령 선거에 당선된 피고인에 대한 공소 취소는 어떻습니까’라는 제목의 글을 올리고 이 같이 지적했다.&lt;br&gt;&lt;br&gt;장 부장검사는 김용민 민주당 의원이 대표발의한 형사소송법 306조의 개정안의 조항을 올리고, “21세기 대한민국의 현시점에서 실제 법사위를 통과하여 진행 중인 법안”이라며 “(민주당은) ‘행위에 대한 허위 사실을 공표하더라도 처벌하지 않도록 하는 내용’의 선거법 개정도 추진 중이라고 한다”고 했다. 장 부장검사는 “입법의 배경과 경위, 목적하는 바가 참으로 선명하여 명확성의 원칙에 위배 될 일은 없어 보인다”고 했는데, 이는 이재명 더불어민주당 대선후보의 재판을 멈추려 한다고 지적한 것으로 풀이된다.&lt;br&gt;&lt;br&gt;장 부장검사는 “검찰에서 먼저 위 개정안을 ‘피고인이 대통령 선거에 당선된 때에는 검사가 공소를 취소한다’로 변경하는 건의안을 내보는 것은 어떻겠느냐. 아니, 법률 개정과 무관하게 검찰에서 자체적으로 공소를 취소하는 것이 가능한지 적극적으로 검토해보는 것은 어떻겠느냐”고 했다. 이어 “아마 대통령으로 당선된 피고인을 위해 법정에서 공소 취소를 하겠다는 검사들이 적지 않게 손을 들고 나오지 않을까 조심스레 예측해 본다. 저도...”라고 말했다.&lt;br&gt;&lt;br&gt;민주당은 이 후보가 대통령이 되면 관련 형사재판을 정지시키도록 하는 형사소송법 개정안을 지난 7일 국회 법사위에서 통과시켰다. 같은 날 행안위에선 이 후보가 기소된 허위 사실 공표죄의 ‘행위’ 부분을 삭제하는 내용의 선거법 개정안도 처리했다. 이들 법안이 본회의를 통과하면, 이 후보는 선거법 사건에서 ‘면소 판결’로 처벌을 피하게 되는데, 이 점을 지적한 것이다.&lt;br&gt;&lt;br&gt;장 부장검사는 “어떤 이유인지 보편적인 가치와 기준이 허물어지는 입법 상황에서도 참으로 조용한 대한민국”이라며 “앞으로 21세기 대한민국에서 어떠한 기상천외한 법률들이 쏟아질지 궁금해진다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>김일성 그려진 北지폐, 중고거래 앱에 떡하니... “1만5000원에 판매” </title>
-      <link>https://www.chosun.com/national/national_general/2025/05/08/FCAV4HWHXJGRPGBQDQY2DG5MRA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/05/08/FCAV4HWHXJGRPGBQDQY2DG5MRA/</guid>
-      <dc:creator>이혜진 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 08 May 2025 01:56:48 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PHMXIG3XAFEV5FH2GNGD426GJM.png"&gt;&lt;figcaption&gt;&lt;small&gt;당근에 판매글이 올라온 북한 지폐 5000원권과 2000원권. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;중고거래 플랫폼 ‘당근’에 북한 지폐를 판매한다는 게시물이 올라와 경찰이 현장 조사를 벌였지만 대공 용의점은 없는 것으로 확인됐다. &lt;br&gt;&lt;br&gt;8일 제주경찰청에 따르면, 지난 4일 당근에 ‘북한 지폐’라는 제목으로 올라온 게시글에는 김일성 초상이 그려진 북한 지폐 5000원권과 2000원권의 사진이 담겼다. 글쓴이는 “중국 공항에서 북한 사람과 교환한 지폐”라고 설명했다. 판매 금액은 1만5000원이었다. 글쓴이가 사는 지역은 제주시였다. &lt;br&gt;&lt;br&gt;경찰은 지난 6일 현장 조사를 실시하고 판매자의 신원 및 북한 지폐 입수 경위를 확인했다. 조사 결과 경찰은 대공 관련 혐의점은 없는 것으로 판단했다. 판매자는 중국 여행에서 기념품으로 북한 지폐를 구매한 뒤 글을 올린 것으로 전해졌다. 게시글은 이날 기준 삭제된 상태다.&lt;br&gt;&lt;br&gt;그러나 경찰은 북한 지폐 거래가 법적 처벌 대상이 될 수 있다고 경고했다. 북한 지폐 판매는 남북교류협력에 관한 법률 또는 형법 제211조(통화유사물의 제조) 등에 저촉될 수 있다. 형법 제211조에 따르면 판매 목적으로 내국 또는 외국에서 통용하거나 유통하는 화폐, 지폐 등을 제조, 수입 또는 수출한 자는 3년 이하의 징역 또는 700만원 이하의 벌금에 처할 수 있다. &lt;br&gt;&lt;br&gt;경찰 관계자는 “중국 등 외국에서 북한 사람과 접촉해 화폐를 교환하거나 유통·판매하면 처벌 대상이 될 수 있다”며 “중고 거래 플랫폼에서 달러나 유로 등 외국 화폐를 거래하는 행위도 외국환거래법 위반이 될 수 있다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/5JHFJZDBIVCYBI3JKFRYXKWLOU.png?auth=f11591287024f9eeb743b2391c14b519013efad1800af0f9553482d268e76fec&amp;smart=true&amp;width=662&amp;height=497" type="image/png" height="497" width="662">
-        <media:description type="plain">당근에 판매글이 올라온 북한 지폐 5000원권과 2000원권. /뉴시스</media:description>
-        <media:credit role="author" scheme="urn:ebu"/>
-      </media:content>
-    </item>
-    <item>
-      <title>내일 전국에 강풍 동반 봄비...중부지방은 토요일까지</title>
-      <link>https://www.chosun.com/national/transport-environment/2025/05/08/FAXXCYZMJZAP3HVFSYC2JEV2GY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/05/08/FAXXCYZMJZAP3HVFSYC2JEV2GY/</guid>
-      <dc:creator>박상현 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 08 May 2025 01:31:33 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CPTBKZNIHETIT4QFNHQCNHR3TU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;봄비가 내린 지난달 22일 오후 경기 수원시의 한 거리에서 시민들이 우산을 쓰고 지나가고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;9일 전국에 강풍을 동반한 많은 봄비가 예고됐다. 남부지방은 9일 밤 비가 그치겠고, 중부지방은 10일까지 강수가 이어지겠다.&lt;br&gt;&lt;br&gt;기상청에 따르면, 9일 중국 상하이 부근에서 서해상으로 이동하는 저기압의 영향으로 전역에 비가 내리겠다. 비는 9일 새벽 남부지방과 제주도부터 내리기 시작해 이날 오전 전국으로 확대되겠다. &lt;br&gt;&lt;br&gt;9~10일 예상강수량은 수도권·충청권 10~40㎜, 강원도 10~50㎜, 호남권 10~40㎜, 영남권 10~60㎜, 제주도 50~100㎜로 예보됐다. 전남남해안과 지리산 부근에는 최대 80㎜, 제주산지에는 최대 200㎜ 이상의 많은 비가 내리는 곳이 있겠다.&lt;br&gt;&lt;br&gt;비가 내리면서 낮동안은 선선할 것으로 전망됐다. 9일 아침 최저기온은 10~15도, 낮 최고기온은 15~20도로 예상됐다. 10일은 최저 11~15도, 최고 14~22도의 기온 분포를 보이겠다.&lt;br&gt;&lt;br&gt;9일 내륙을 중심으로 간판이 흔들릴 정도인 순간풍속 초속 15m 내외의 강한 바람이 불겠다. 9~10일 제주도와 해안, 강원·경북산지에는 순간풍속 초속 20m 안팎의 더 강한 바람이 몰아칠 것으로 보인다. 기상청은 “매우 강한 바람으로 항공기 운항에 차질이 있을 수 있어 공항 이용객들은 사전에 운항 정보를 확인해야한다”고 전했다.&lt;br&gt;&lt;br&gt;일요일인 11일에는 중국 남부지방에서 중국 상하이 부근으로 이동하는 고기압 가장자리에 들면서 전국이 대체로 맑을 것으로 보인다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>술 마시다 톰 크루즈 만날 확률은? “공덕서 봤다” 목격담 솔솔</title>
-      <link>https://www.chosun.com/national/national_general/2025/05/08/RT6R3XR7LFDVLCNIBKNCSEDBCM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/05/08/RT6R3XR7LFDVLCNIBKNCSEDBCM/</guid>
-      <dc:creator>박선민 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 08 May 2025 00:40:40 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JTOGF6ROE5FK5JYHGTBYJHHLGA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한 네티즌이 톰 크루즈를 봤다며 공개한 사진. /스레드&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;할리우드 톱스타 톰 크루즈(64)가 2년 만에 한국을 다시 찾았다. 총 12번째 내한으로, 할리우드 스타들 중 역대 최다 방문 기록이다. 온라인상에는 서울 마포구 공덕동에서 톰 크루즈를 우연히 봤다는 목격담이 이어졌다. &lt;br&gt;&lt;br&gt;크루즈는 전용기를 타고 7일 오후 4시 20분쯤 김포국제공항으로 입국해 5시 15분쯤 출구에서 모습을 드러냈다. &lt;br&gt;&lt;br&gt;크루즈는 약 20분간 팬 서비스를 한 뒤 공항을 떠났다. 공항 밖에서 구름 인파를 이룬 팬들이 “톰”을 외치며 환호를 보내자, 크루즈는 환한 미소로 팬들과 인사를 나눈 뒤 펜을 꺼내 사인을 해줬다. 사진 촬영을 부탁하는 팬의 휴대전화로 셀카를 찍기도 했다. 엄지와 검지를 교차해 만드는 한국 특유의 손하트를 해보이기도 했다. 이후 대기 중이던 차량에 탑승해 공항을 빠져나갔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5T2YJABHIJVOX26TJRSHULFITU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;할리우드 배우 톰 크루즈가 서울김포비즈니스항공센터(SGBAC) 통해 내한해 미소를 짓고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XJ5XFTCD7BKNHDSPAUSOQHYSCU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;할리우드 배우 톰 크루즈가 영화 '미션 임파서블: 파이널 레코닝' 홍보차 7일 오후 서울 강서구 서울김포비즈니스항공센터(SGBAC)를 통해 입국해 팬들에게 인사하고 있다. /연합뉴스 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PPSQ7KRTLFLSHM6ZMZTMBG344Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;톰 크루즈(왼쪽)와 크리스토퍼 맥쿼리 감독이 영화 '미션 임파서블: 파이널 레코닝' 홍보차 7일 오후 서울 강서구 서울김포비즈니스항공센터(SGBAC)를 통해 입국해 팬들에게 인사하고 있다. /연합뉴스 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;크루즈의 이번 한국 방문은 12번째로, 할리우드 스타 가운데 가장 많다. 올해는 오는 17일 개봉하는 ‘미션 임파서블: 파이널 레코닝’(미션 임파서블 8) 홍보차 방문했다. 크루즈는 영화 ‘뱀파이어와의 인터뷰’가 개봉한 1994년을 시작으로 꾸준히 한국 팬을 직접 만나고 있다. &lt;br&gt;&lt;br&gt;2년 전에도 ‘미션 임파서블: 데드 레코닝 파트 원’(미션 임파서블 7) 개봉을 앞두고 방문한 바 있다. 당시 송파구 방이동 먹자골목 일대부터 공덕역 경의선 숲길까지 서울 곳곳에서 크루즈 목격담이 쏟아져 화제를 모았다. 크루즈는 인증 사진을 요청한 시민들에게 특유의 친절하게 웃는 얼굴로 촬영에 응해준 것으로 알려졌다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FT27AI2FWJBCPJRYVV722P7BTI.png"&gt;&lt;figcaption&gt;&lt;small&gt;한 네티즌의 톰 크루즈 목격담. /스레드&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4BEIZPWYMRDA5KJZUCYIL4D5PQ.png"&gt;&lt;figcaption&gt;&lt;small&gt;톰 크루즈 목격담. /X&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;올해도 크루즈의 목격담은 이어졌다. 특히 그의 모습을 공덕동의 한 카페에서 포착했다는 후기가 많았다. 한 네티즌은 “술 마시고 길 가다가 갑자기 톰 크루즈 만날 확률”이라며 사진과 영상을 올렸는데, 여기에는 크루즈가 자신을 향해 환호하는 인파를 향해 인사하고 어린이 팬과 함께 셀카를 찍는 모습 등이 담겼다. 갑작스럽게 몰린 인파에도 당황한 내색 없이 호응해주는 모습이었다. 다른 네티즌은 “톰 크루즈 오늘 공덕 카페만 간 거 아니고 그 옆 치킨집에서 치킨도 먹고 갔다. 1시간 넘게 머무른 것 같다”고 했다. &lt;br&gt;&lt;br&gt;크루즈는 8일 오후 1시 롯데시네마 월드타워에서 열리는 기자간담회에 참석한다. 이 자리에는 크리스토퍼 맥쿼리 감독과 배우 헤일리 앳웰, 사이먼 페그, 폼 클레멘티에프, 그레그 타잔 데이비스도 함께한다. 이후 오후 5시에는 롯데월드 아이스링크에서 열리는 레드카펫 행사에 참석할 계획이다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>인천서 음주 추정 승용차, 중앙선 넘어 SUV와 충돌…2명 사망, 4명 부상</title>
