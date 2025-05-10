@@ -13,6 +13,69 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>서울 서대문구 초등학교에서 100여명 식중독 의심</title>
+      <link>https://www.chosun.com/national/education/2025/05/10/XN6CNZQ5M5H7PJXEDZJ7OEUHFM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/education/2025/05/10/XN6CNZQ5M5H7PJXEDZJ7OEUHFM/</guid>
+      <dc:creator>곽래건 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 10 May 2025 02:50:55 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/X5KGTW5BUKXUSCY2AATCC3PTPU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기도보건환경연구원에서 식중독균 배양검사를 하는 모습./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 서대문구의 한 초등학교에서 학생과 교직원 등 100여명이 식중독 의심 증세를 보여 당국이 조사에 나섰다.&lt;br&gt;&lt;br&gt;10일 서울시교육청 등에 따르면 해당 학교 학생들이 지난 8일 저녁부터 설사, 구토, 복통, 발열 등 식중독 의심 증상이 나타났다는 신고가 접수됐다. 의심 증상이 나타난 인원은 학생과 교직원 등 100여명 수준으로 전해졌다. &lt;br&gt;&lt;br&gt;서울시교육청과 서대문구 보건소, 서울지방식품의약청 등은 역학 조사를 진행 중이다. 서울시교육청 관계자는 “역학조사가 진행 중이라 실제 식중독 인원은 늘어날 수도, 줄어들 수도 있다”고 했다.&lt;br&gt;&lt;br&gt;이 학교는 급식실 건물이 안전 문제로 폐쇄돼 외부 업체가 조리한 급식을 체육관에서 배식해 왔다고 한다. 지난 2월 말 학교 건물 일부가 위험 건물로 취급되는 ‘D등급’이 받았다는 이유로 개학을 3월 10일로 미뤄 논란이 되기도 했다. D등급을 받은 건물에는 급식실도 포함돼 있는 것으로 전해졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“오목 두자” 제안 거절한 동료 재소자 폭행‧감금…法, 20대 2명에게 벌금형</title>
+      <link>https://www.chosun.com/national/court_law/2025/05/10/DG7TIUTK2VECZFV4B5YYCDSWYI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/05/10/DG7TIUTK2VECZFV4B5YYCDSWYI/</guid>
+      <dc:creator>이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 10 May 2025 01:34:45 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7J4T6KTWKBDWTAAGIE74JXUW6Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;청주지법. /조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;오목을 두자는 제안을 거절했다는 이유 등으로 동료 재소자를 여러 차례 폭행하거나 감금한 20대 2명에게 벌금형이 선고됐다. &lt;br&gt;&lt;br&gt;청주지법 형사6단독 정희철 부장판사는 폭행, 감금 등 혐의로 재판에 넘겨진 A(27)씨와 B(27)씨 등 2명에 대해 각각 벌금 200만원을 선고했다고 10일 밝혔다. &lt;br&gt;&lt;br&gt;A씨와 B씨는 청주교도소 재소자로, 지난해 5월 6일부터 30일까지 동료 재소자 C(25)씨를 13차례 폭행하고 7차례 화장실에 감금한 혐의로 기소됐다. &lt;br&gt;&lt;br&gt;이들은 오목을 두자고 제안했는데, C씨가 이를 거절했다는 이유 등으로 범행한 것으로 조사됐다. &lt;br&gt;&lt;br&gt;정 부장판사는 “피고인들의 법정 진술과 참고인 자술서 등을 종합할 때 유죄로 인정된다”며 “피고인의 나이와 범행 동기 등을 고려했다”고 양형 이유를 설명했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>가전제품 설치하러 갔다가 가방‧현금 ‘슬쩍’…보조 설치 기사 벌금형</title>
+      <link>https://www.chosun.com/national/court_law/2025/05/10/AEDWN2M3QZDKRGVA26I4BNSD7I/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/05/10/AEDWN2M3QZDKRGVA26I4BNSD7I/</guid>
+      <dc:creator>이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 10 May 2025 00:46:37 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OO2LZ4AWK3BLH2IFPL6I3AIVBA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;춘천지법./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;세탁기나 TV를 설치하기 위해 찾은 가정에서 가방과 현금 등을 훔친 보조 설치 기사에게 벌금형이 선고됐다. &lt;br&gt;&lt;br&gt;춘천지법 형사3단독 박동욱 판사는 절도 혐의로 기소된 A(31)씨에게 벌금 500만원을 선고했다고 10일 밝혔다. &lt;br&gt;&lt;br&gt;A씨는 지난해 11월 강원도 춘천시의 B씨 집에서 차 키와 카드지갑, 신분증 등이 들어있는 가방을 훔친 혐의로 재판에 넘겨졌다. &lt;br&gt;&lt;br&gt;가전제품 물류센터에서 보조 설치 기사로 일하던 A씨는 B씨 집에 세탁기를 설치하러 갔다가 나오던 중 발견한 가방을 폐세탁기에 넣어 갖고 나온 것으로 조사됐다. &lt;br&gt;&lt;br&gt;A씨는 같은 날 TV를 설치하러 갔던 춘천시의 C씨 집에서도 C씨가 다른 설치 기사의 설명을 듣기 위해 방에 들어간 사이 거실 소파 위에 있던 현금 37만원을 훔친 혐의도 받았다. &lt;br&gt;&lt;br&gt;박 판사는 “가전제품 보조 설치 기사로 활동하며 범행을 저질러 죄질이 매우 좋지 않다”며 “소년 때부터 여러 차례 형사처벌을 받은 전력이 있는 점, 피해품이 회수된 점 등을 고려했다”고 양형 이유를 설명했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>새벽 동대문구 고산자교서 택시가 안전펜스 충돌…80대 기사 숨져</title>
+      <link>https://www.chosun.com/national/national_general/2025/05/10/CHFRSNYXHVGRVKC7VT7QVE3L7A/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/05/10/CHFRSNYXHVGRVKC7VT7QVE3L7A/</guid>
+      <dc:creator>김병권 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 10 May 2025 01:08:55 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OISALLJAOLRQGCH7ILZ2PVFWYM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 동대문경찰서/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;10일 새벽 서울 동대문구 용두동 고산자교를 달리던 택시가 다른 택시와 접촉 사고를 낸 후 안전 펜스를 들이받아 택시 기사가 숨지는 사고가 발생했다.&lt;br&gt;&lt;br&gt;서울 동대문경찰서는 이날 오전 1시 42분쯤 일어난 이 사고로 80대 남성 택시 기사 A씨가 사망했다고 밝혔다. &lt;br&gt;&lt;br&gt;A씨는 심폐소생술(CPR)을 받으며 병원으로 이송됐으나 끝내 숨졌다. 이 택시에 타고 있던 승객 2명도 다쳐 병원으로 옮겨졌으나 생명에는 지장이 없는 것으로 전해졌다. A씨가 몰던 택시와 접촉 사고가 난 택시의 운전 기사도 크게 다치지 않았다고 한다.&lt;br&gt;&lt;br&gt;경찰은 현재 정확한 사고 경위를 조사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>경찰, ‘공금 유용 의혹’ BHC 박현종 前 회장 檢 송치</title>
+      <link>https://www.chosun.com/national/national_general/2025/05/10/Y2W6H3SXANEYVGZACMQ52EP5KU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/05/10/Y2W6H3SXANEYVGZACMQ52EP5KU/</guid>
+      <dc:creator>김병권 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 10 May 2025 00:22:17 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IM2POV5FN5LSJIZOLNN6GBB6PI.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;업무상 횡령 및 배임 혐의를 받는 박현종 전 BHC 회장이 지난 3월 서울 서초구 서울중앙지방법원에서 열린 구속 전 피의자 심문(영장실질심사)에 출석하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;공금 유용 의혹으로 경찰 수사를 받아온 BHC의 박현종 전 회장이 검찰에 넘겨졌다.&lt;br&gt;&lt;br&gt;경찰에 따르면, 서울경찰청 반부패수사대는 지난달 박 전 회장을 특정경제범죄 가중처벌법상 횡령 등 혐의로 서울중앙지검에 불구속 송치했다.&lt;br&gt;&lt;br&gt;경찰은 박 전 회장이 회삿돈 수십억원을 개인적으로 유용한 것으로 보고 2023년 12월 그의 송파구 자택과 BHC 본사를 압수수색했다. 지난 3월엔 박 전 회장에 대한 구속영장도 신청했으나 법원에서 기각된 뒤 바 있다.&lt;br&gt;&lt;br&gt;박 전 회장은 지난 2015년 7월 경쟁사인 BBQ의 전현직 직원 2명의 아이디와 비밀번호로 BBQ 내부 전산망에 접속해 영업 비밀을 침해한 혐의(정보통신망법·개인정보보호법 위반)로도 기소돼 지난 2월 대법원에서 징역 6개월에 집행유예 2년을 확정받았다.&lt;br&gt;&lt;br&gt;박 전 회장은 BBQ에서 해외사업 담당 부사장으로 재직하다가 지난 2013년 BBQ가 BHC를 사모펀드에 매각한 뒤 BHC로 이직해 회장 자리에 올랐다. BHC 지주사인 글로벌고메이서비시스는 지난 2023년 11월 경영 쇄신을 이유로 그를 해임했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>마을버스서 내린 후 넘어진 20대 승객, 바퀴에 깔려 숨져</title>
+      <link>https://www.chosun.com/national/national_general/2025/05/10/H3QBFE37E5HI5LJGII6LW5N2JY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/05/10/H3QBFE37E5HI5LJGII6LW5N2JY/</guid>
+      <dc:creator>김병권 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 10 May 2025 00:08:21 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4BOXEZGCWTTBIBF7BYZYZOQOKY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 동작경찰서/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;버스 정류장에서 하차 후 넘어진 20대 여성이 마을버스 뒷바퀴에 치여 사망하는 사고가 발생했다.&lt;br&gt;&lt;br&gt;서울 동작경찰서는 지난 9일 오후 9시 40분쯤 서울 동작구 상도동의 한 버스정류장에서 20대 여성 A씨가 마을버스에서 내린 후 넘어졌다가 마을버스 오른쪽 뒷바퀴에 치여 사망했다고 10일 밝혔다. 머리 부분을 다친 A씨는 사고 이후 병원으로 옮겨졌으나 끝내 숨졌다.&lt;br&gt;&lt;br&gt;경찰은 마을버스 운전자인 60대 남성을 교통사고처리특례법상 업무상 과실치사 혐의로 입건해 구체적인 경위를 조사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>전국 곳곳에 비…낮 기온 평년보다 2~5도 낮아</title>
+      <link>https://www.chosun.com/national/transport-environment/2025/05/10/ACSFMDU2LRBFZOKFQ7L4I6J4KQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/05/10/ACSFMDU2LRBFZOKFQ7L4I6J4KQ/</guid>
+      <dc:creator>곽래건 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 10 May 2025 00:13:58 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GH47VJJNXVL6VJVZWGRASIEJZY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전국에 비가 내린 지난 9일 서울중구 서울시청 인근에서 우산을 든 시민들이 횡단보도를 건너고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;토요일인 10일 전국이 흐리고 곳곳에 비가 내일 전망이다.&lt;br&gt;&lt;br&gt;기상청에 따르면 이날 오후 12시~6시까지 수도권 등 중부지방과 호남 지역, 경북 북부 내륙과 경북 북동 산지, 경남 서부 내륙에 비가 내릴 것으로 예보됐다. 경기 동부와 충북 북부는 오늘 밤까지 비가 이어질 전망이다.&lt;br&gt;&lt;br&gt;예상 강수량은 강원도 5~20mm, 경기 북부 5~100mm 서울·인천·경기 남부 5mm 내외, 충청과 경상권 5mm 미만 등이다. 전라권의 경우 전북 내륙은 5mm 내외, 그 외 지역은 5mm 미만으로 예보됐다.&lt;br&gt;&lt;br&gt;일부 지역에선 비가 내일까지 이어진다. 11일 오후 강원 남부 내륙과 경북 북동 내륙, 경북 북동 산지에 소나기가 내리는 곳이 있을 전망이다.&lt;br&gt;&lt;br&gt;10일 낮 기온은 평년보다 2~5도 낮겠지만, 차차 기온이 올라 11일~12일 낮 기온은 평년과 비슷할 것으로 보인다고 기상청은 밝혔다. 10일 낮 최고 기온은 14~20도, 11일 낮 최고 기온은 18~23도 수준이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>[부음] 백두산 전문 사진가 안승일씨</title>
       <link>https://www.chosun.com/national/obituary-personnel/2025/05/10/RREPAJ3ASVAN5E5XRBFF3KOUOM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2025/05/10/RREPAJ3ASVAN5E5XRBFF3KOUOM/</guid>
@@ -818,33 +881,6 @@
 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;청주시의 한 개 농장에서 도축될 위기에 놓였던 진돗개 믹스견 수십 마리가 구조됐다. 국내에선 대형견 선호도가 높지 않아 입양이 안 될 경우 안락사가 불가피한 상황이었으나, 국제동물보호단체의 도움으로 구조견들은 미국으로 보내졌다. &lt;br&gt;&lt;br&gt;8일 청주시에 따르면 시는 지난 2월 흥덕구의 한 개 농장에서 불법 도축이 이뤄지고 있다는 동물보호단체의 신고를 접수, 현장 점검에 나섰다. &lt;br&gt;&lt;br&gt;점검 결과 개들은 열악한 환경에서 밥도 제대로 먹지 못한 채 살고 있는 것으로 나타났다. 중대형견으로 분류되는 진돗개 믹스 품종 68마리가 ‘뜬장’이라고 불리는 비좁은 철망 케이지에 한 마리씩 갇혀 사육되고 있었으며, 이 중에는 영양 결핍으로 뼈가 변형되는 질병을 앓는 개들도 있었다. 현장에선 잔인하게 불법 도축된 듯한 개 사체도 발견됐다. &lt;br&gt;&lt;br&gt;결국 시는 농장주로부터 68마리의 소유권을 넘겨받고 보호에 나섰다. 시 산하 반려동물보호센터에는 개들이 지낼 공간이 부족해 일부를 현장에서 보호했다. 이 과정에서 한 마리가 새끼 여러 마리를 낳아 이 중 몇 마리가 국내 입양되기도 했다. &lt;br&gt;&lt;br&gt;다만 나머지 대형견들은 입양에 어려움을 겪는 상황이었다. 국내에선 기를 장소 등이 마땅치 않아 반려인들이 소형견을 선호하기 때문이다. 오랫동안 입양자가 나타나지 않으면 안락사가 불가피했다. &lt;br&gt;&lt;br&gt;그러던 중 구조 소식을 접한 국제동물보호단체 ‘휴메인 월드 포 애니멀즈’(Humane world for animals)가 구조견들을 미국으로 보내고 싶다는 의사를 밝혀오면서 시가 걱정을 덜게 됐다. 시 관계자는 “식용으로 키워진 대형견은 입양이 쉽지 않다. 동물보호센터에 입양이 안 돼 1년 이상 머무는 친구들이 많았기 때문에 한시름을 놨다”고 당시를 떠올렸다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FQ52XV26BVH77MODPB5ZI5O2SM.png"&gt;&lt;figcaption&gt;&lt;small&gt;구조된 진돗개 믹스견. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;시는 동물단체와 협업해 종합 백신, 광견병, 코로나 예방접종을 하는 등 해외 입양 준비에 나섰고, 이날 농장에서 구조된 개들 중 51마리가 인천공항을 통해 미국으로 보내졌다. 너무 어려 당장 비행기를 탈 수 없는 강아지와 어미 개 등 17마리는 4개월 정도 더 보호한 뒤 올해 말 해외로 보낼 계획이다. 유기견들은 반려견 입양이 비교적 활발하게 이뤄지는 미국에서 새 가족을 찾을 전망이다. &lt;br&gt;&lt;br&gt;이번에 개 농장에서 구조된 개들을 이동시키는 작업에 배우 다니엘 헤니도 참여해 이목을 끌었다. 헤니는 2020년부터 다른 국내 개 농장에서 구조된 리트리버를 입양해 키우는 것으로 알려졌다. &lt;br&gt;&lt;br&gt;농장주는 동물보호법 위반 혐의로 고발됐고, 농장은 폐쇄된 상태라고 시 관계자는 전했다. 김상진 청주시 동물보호팀장은 “앞으로도 동물 복지를 위해 최선을 다하겠다”며 “반려동물을 사지 말고 입양하는 데 많은 관심을 가져 달라”고 했다.&lt;br&gt;&lt;br&gt;현재 시 반려동물보호센터는 연간 약 1300마리의 유기 동물을 보호하고 있는데, 이 중 60% 정도를 입양 조치한다. 김 팀장은 “일반 가정에서 2개월간 유기 동물을 임시 보호한 뒤 입양을 결정하는 반려동물 임시 보호 프로그램을 운영하고 있다”며 “입양 시 진료비 지원, 취약계층 진료비 지원 등 동물 복지 제도를 시행 중”이라고 밝혔다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>광주 우치동물원 새끼 물범 ‘몰랑이’… 작년 3월 탄생, 방사 앞둬</title>
-      <link>https://www.chosun.com/national/regional/2025/05/09/YDMTFEINBVA2JCHWVLHQEKY3BI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/05/09/YDMTFEINBVA2JCHWVLHQEKY3BI/</guid>
-      <dc:creator>광주광역시=조홍복 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 09 May 2025 01:24:03 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BZGX66U2NHQIV427RR5P5SJCW4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;광주 우치동물원에 사는 아기 물범 몰랑이의 모습./우치동물원 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;광주광역시 우치공원관리사무소는 9일 광주 우치동물원에서 태어난 새끼 물범을 ‘몰랑이’로 부르기로 했다고 밝혔다.&lt;br&gt;&lt;br&gt;관리사무소는 지난 5~6일 우치동물원 해양동물관에서 현장 스티커 투표를 진행, 이름을 결정했다. 몰랑이는 부드럽고 둥글둥글한 새끼 물범의 외형을 잘 표현한 이름으로, 귀여움과 사랑스러움이 부각돼 가장 많은 표를 얻었다.&lt;br&gt;&lt;br&gt;앞서 지난 4월 23일부터 5월 4일까지 진행된 공모전에는 총 1270명이 참여해 선호도가 높은 몰랑이, 초아, 물콩이 등 3개가 최종 후보에 올랐다.&lt;br&gt;&lt;br&gt;투표 결과는 우치공원 누리집에서 확인할 수 있다. 후보 이름을 제안한 시민 3명에게는 우치공원관리사무소 홍보물 등 기념품이 제공된다.&lt;br&gt;&lt;br&gt;몰랑이는 지난해 3월 태어난 잔점박이물범 암컷이다. 우치동물원 측은 몰랑이가 부모의 보살핌을 받지 못해 지난 1년간 사육사의 손에 자랐다고 설명했다. 사육사가 직접 이유식을 먹이고 수영하는 법을 가르쳤고 지금은 몸길이 70㎝ 크기로 성장해 야외 방사를 앞두고 있다. 몰랑이는 지난 3월부터 야외 적응 훈련을 하고 있다. &lt;br&gt;&lt;br&gt;우치동물원 관계자는 “새끼 동물은 폐사율이 높아 그동안 이름을 붙이지 못했고 주로 내실에만 머물렀다”며 “지금은 건강하게 성장해 시민에게 사랑받을 것으로 보인다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“96점인데 탈락”… 9급 공무원 ‘역대급 합격선’ 직렬은?</title>
-      <link>https://www.chosun.com/national/national_general/2025/05/09/GOODQS4TGBFPRCYGPI3ZCUF3HM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/05/09/GOODQS4TGBFPRCYGPI3ZCUF3HM/</guid>
-      <dc:creator>이가영 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 08 May 2025 22:17:14 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7GOMVWYHRNMHDJWTKO2HR6RXRU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;국가공무원 9급 공개경쟁채용 필기시험이 치러진 지난달 5일 서울 강남구의 한 시험장으로 수험생들이 들어가고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2025년도 국가공무원 9급 공개경쟁 채용 필기시험에 5490명이 합격했다. 그중 교육행정직 합격선은 97점으로, 주요 직렬 중 가장 높았다. &lt;br&gt;&lt;br&gt;인사혁신처는 8일 사이버국가고시센터에 지난달 5일 치러진 필기시험의 합격자를 발표했다. 모집 직군별로는 행정직 4597명, 과학기술직은 893명이다. 이 중 장애인 구분 모집으로 170명, 저소득층 구분 모집으로 161명이 합격했다. &lt;br&gt;&lt;br&gt;올해 가장 높은 합격선을 기록한 직렬은 교육행정직으로, 합격선이 97점에 달했다. 이들은 학교, 교육청, 교육부 등 교육기관 또는 교육행정기관에서 근무한다. &lt;br&gt;&lt;br&gt;일반행정(전국), 검찰, 전산개발 합격선이 93점으로 뒤를 이었다. 일반농업직은 92점, 화공직은 89점으로 집계됐다. &lt;br&gt;&lt;br&gt;비교적 낮은 합격선을 보인 직렬은 세무직과 교정직(남)으로, 80점이었다. 산림자원직과 일반토목직의 합격선은 79점으로 주요 모집 단위 중 가장 낮은 수준을 보였다. &lt;br&gt;&lt;br&gt;남성 합격자는 3024명(55.1%), 여성 합격자는 2466명(44.9%)이다. ‘양성평등 채용 목표제’ 적용으로 교육행정, 직업상담, 출입국 관리, 전송기술, 관세 등 10개 모집 단위에서 72명이 추가 합격했다. 양성평등 채용 목표제는 어느 한쪽 성별의 합격자가 합격 예정 인원의 30%에 미달할 경우 해당 성별의 응시자를 추가로 합격시키는 제도다. &lt;br&gt;&lt;br&gt;합격자 평균 연령은 29.5세로, 지난해(29.8세)보다 소폭 낮아졌다. 연령대별로는 20~29세가 3374명(61.5%)으로 가장 많았고, 30~39세 1776명(32.3%), 40~49세 290명(5.3%), 50세 이상 43명(0.8%), 18~19세 7명(0.1%) 순이었다. &lt;br&gt;&lt;br&gt;면접시험은 5월 28일부터 6월 2일까지 6일간 시행된다. 면접은 ▲소통·공감 ▲헌신·열정 ▲창의·혁신 ▲윤리·책임 등 4개의 요소로 나눠 평가된다. 면접시험 포기 등록은 오는 9~12일 사이버국가고시센터를 통해 할 수 있다. 최종 합격자는 다음 달 20일 발표될 예정이다. 선발 예정 인원은 4330명이다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“속옷 핏 보겠다고 탈의 지시” 165만 유튜버 말왕 ‘몸캠 피싱’ 피해 고백</title>
-      <link>https://www.chosun.com/national/national_general/2025/05/09/KZDLVMBOAFCXZJOFDU6VVCP6BY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/05/09/KZDLVMBOAFCXZJOFDU6VVCP6BY/</guid>
-      <dc:creator>김가연 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 08 May 2025 22:23:03 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KGVUCLTCZFHZVNNEXRRUWDP3VQ.png"&gt;&lt;figcaption&gt;&lt;small&gt;유튜버 말왕. /유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;165만 구독자를 보유한 운동 유튜버 말왕(본명 유태양)이 몸캠 피싱(신체 불법 촬영 협박) 피해 사실을 고백했다.&lt;br&gt;&lt;br&gt;말왕은 지난 7일 유튜브 라이브 방송을 통해 “8년 전 아프리카TV BJ로 활동하던 시절, 속옷 모델 제안을 받고 영상통화를 하다 몸캠 피싱에 당했다”고 밝혔다.&lt;br&gt;&lt;br&gt;당시 그는 여성인 것처럼 행세한 인물과 통화를 했으며, 이 인물은 “핏을 보기 위해 옷을 벗어달라”고 요구했다고 한다. 이 인물은 그의 외모를 칭찬하며 탈의를 유도했고, 말왕은 “이에 기분이 좋아져 옷을 모두 벗고 음란 행위까지 했다”고 말했다.&lt;br&gt;&lt;br&gt;하지만 이후 말왕은 통화를 한 인물이 여성이 아닌 남성이었다는 사실을 알게 됐다고 한다. 그는 이 남성으로부터 금전 협박을 받았고, 최근에는 영상 일부가 온라인을 통해 유출돼 직접 피해 사실을 밝히게 됐다고 말했다.&lt;br&gt;&lt;br&gt;말왕은 해당 영상을 유포한 인물을 사이버 수사대에 신고했지만, 가해자의 신원 확인이 어려워 검거에 난항을 겪고 있다고 전했다.&lt;br&gt;&lt;br&gt;말왕은 이날 방송 중 어머니와의 통화 내용도 공개했다. 그는 “이제 숨기지 않고 공개할 때가 됐다. 나 말고 다른 피해자가 생기지 않기를 바란다”고 말했고, 어머니는 “마음고생 많았겠다. 이제는 끝났다고 생각하자”며 아들을 위로했다.&lt;br&gt;&lt;br&gt;한편 경찰청에 따르면 몸캠 피싱 발생 건수는 해마다 늘고 있다. 신고 건수는 2019년 1824건, 2020년 2583건, 2021년 3026건, 2022년 4313건, 2023년 3545건으로 파악됐다. 하지만 검거율은 2019년 26.21%, 2020년 20.09%, 2021년 23.73%, 2022년 10.9%, 2023년은 8.6%에 그쳤다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>“지지율 99% 정치인이라도 법 어기면 처벌하는 게 판사의 일”</title>
       <link>https://www.chosun.com/national/court_law/2025/05/09/ICARWYLN4BEXLHF3DCQZNTHGFE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/05/09/ICARWYLN4BEXLHF3DCQZNTHGFE/</guid>
@@ -852,15 +888,6 @@
       <description/>
       <pubDate>Thu, 08 May 2025 20:00:00 +0000</pubDate>
       <content:encoded>이재명 더불어민주당 대선 후보의 공직선거법 사건 재판이 대선 이후로 미뤄졌는데도, 민주당의 사법부 공격은 멈추지 않고 있다. 민주당은 8일 조희대 대법원장의 대선 개입 의혹을 밝히겠다며 특검법 발의를 예고했고, 오는 14일엔 조 대법원장과 대법관들을 국회로 불러 청문회를 연다고 한다. 대놓고 “사퇴하라”는 논평도 냈다. 지난 1일 이 후보에게 유죄 취지 판결을 내린 대법관들에게 책임을 묻겠다는 모양새다.&lt;br&gt;&lt;br&gt;전례 없는 ‘사법부 압박 사태’에 대해 법률 전문가들의 견해를 들어봤다. 법조윤리협의회 사무총장을 맡고 있는 김대광 변호사와 부장판사 출신의 김익현 변호사, 한국형사법학회장을 지낸 한상훈 연세대 교수는 우려를 표하면서도 미묘하게 서로 다른 평가를 내놨다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/475QCSIOB5DTBHZNQNX66NY3RY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;8일 오후 서울 서초구 법무법인 대겸에서 김대광 변호사가 본지와의 인터뷰를 갖고 있다./장련성 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;◇김대광 변호사 “민주당의 사법부 공격, 법조인이라면 본능적 두려움 느낄 것”&lt;/b&gt;&lt;br&gt;&lt;br&gt;민주당은 ‘왜 하필 대선을 앞둔 지금 당선이 유력한 이재명 후보에게 유죄 판결을 내렸느냐’고 문제 삼는다. 질문 자체가 틀렸다. 3년 전 대선에서 허위 사실을 공표한 혐의를 받는 정치인 사건이 왜 아직도 결론 나지 않았는지부터 따져야 하는 것이다. 대법관들은 이 후보가 대통령이 되면 재판을 계속할 수 있을지 모르는 사건을 대선 이후로 미루는 것이 오히려 정치적 오해를 불러올 수 있다고 판단한 것 같다.&lt;br&gt;&lt;br&gt;민주당이 대법원장·판사 탄핵과 대법원장 상대 청문회, 특검 등으로 사법부를 협박하는 건 매우 우려스럽다. 조희대 대법원장이 전원합의체 유죄 판결을 주도했다는 이유로 청문회에 불려가거나 특검 수사를 받아 고초를 겪는다면 어떻게 될까. 상식적인 판사와 변호사라면 ‘입법권을 장악한 거대 야당이 재판과 판결이라는 룰을 흔드는구나’ ‘피고인이 권력자라면 독립된 재판이 불가능하구나’ 하는 본능적인 두려움을 느낄 것이다. 파기환송심 재판부가 재판을 미루기로 한 판단은 존중하지만, 민주당의 공세를 의식할 수밖에 없었을 것이다.&lt;br&gt;&lt;br&gt;결국 이 후보에 대한 유죄 판결과 신속 재판이 마음에 안 든다고 대법원장과 판사를 탄핵하겠다는 것, 청문회에 불러 모욕 주겠다는 것 아닌가. 사법 시스템 자체를 뒤흔들고 재판 독립을 심각하게 침해하는 일이다.&lt;br&gt;&lt;br&gt;민주당은 형사 피고인이 대통령에 당선되면 재판을 정지하는 형사소송법 개정안과 이 후보가 기소된 허위 사실 공표죄의 ‘행위’ 부분을 삭제하는 내용의 선거법 개정안 등을 밀어붙이며 ‘사법 개혁’이라고 말한다. 이 후보가 대법원에서 무죄 판결을 받았어도 개혁을 말했을까 싶다. 국민 기본권을 보호하는 법과 제도에 손을 대는 것은 극도로 신중해야 한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KZMEDYQ6JNDGLMNUMPDRYYV2WY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;8일 오후 서울 서초구 법무법인 서휘에서 김익현 변호사가 본지와 인터뷰하고 있다./고운호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;◇김익현 변호사 “유죄 준 대법관들만 탄핵... 대법원 마비로 큰 혼란 빚을 듯”&lt;/b&gt;&lt;br&gt;&lt;br&gt;사법부의 독립성 침해가 우려되는 상황이다. 대법원장과 대법관에 대한 특검은 사건 기록을 언제부터 봤는지, 6만쪽 기록을 다 읽었는지를 조사하겠다는 것인데 판사의 재판 과정을 수사하는 일은 어디에도 없는 일이다. 대법관은 이른바 최고 법관이다. 재판연구관들의 도움을 받아 하루에도 20건씩을 처리한다. 이재명 후보 사건은 이미 사실관계가 다 파악돼 있어서 법리 해석에 대한 판단만 했을 것이다.&lt;br&gt;&lt;br&gt;민주당은 이 후보에게 유죄를 선고한 대법관들(10명)에 대해서만 고발 또는 탄핵 이야기를 한다. 수사기관이나 헌법재판소에서 기각될 가능성이 높겠지만, 또 직무 정지 등 대법원 마비 사태가 초래될 수 있다. 대법관 직무는 대행할 수도 없다. 중범죄자에 대한 재판을 구속 기간 안에 못 마쳐서 풀어줘야 할 수도, 심리 불속행(심리 없이 곧바로 상고를 기각하는 절차)도 기간 안에 못 해 큰 혼란을 빚을 수 있다.&lt;br&gt;&lt;br&gt;대법원 전원합의체의 유죄 취지 파기환송 선고는 대법원 판례 등으로 볼 때 타당했다. 그런데도 파기환송심 재판부가 여론 압박에 못 이겨 재판 일정을 대선 이후로 미룬 것은 아쉽다. 이 후보 측이 기일 변경 신청서에 ‘이 후보가 사법 리스크에도 여론조사에서 지지율 1위를 보이는 것은 국민이 피선거권을 박탈하지 말라는 것’이라고 주장했는데, 수긍하기 어렵다. 설사 국민 지지율이 99%라고 해도 법을 어긴 정치인을 처벌하는 것은 법원과 판사가 해야 하는 일이다.&lt;br&gt;&lt;br&gt;대법원의 사건 처리가 이례적이었던 것은 맞는다. 하지만 애초에 1·2심이 법정 기한(6·3·3 원칙)을 지키지 못했다. 곧 대통령 선거를 하는데, 이전 대선 때 사건을 처리하지 못한다는 것 자체가 말이 안 되는 것이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6S2H2ZFYWBGZZBLN2XZXG534TI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한상훈 연세대학교 법학전문대학원 교수가 작년 2월 서울 서대문구 연세대학교 광복관에서 인터뷰하고 있는 모습./한국일보&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;◇한상훈 연세대 교수 “대법원 졸속 재판, 국회 압박 자초”&lt;/b&gt;&lt;br&gt;&lt;br&gt;국회의 사법부 압박은 대법원이 자초한 일이다. 이재명 후보의 공직선거법 사건에 대한 대법원 전원합의체의 졸속 판결이 없었다면 국회가 법관 탄핵 같은 ‘최후의 수단’을 꺼내 들 일도 없었을 것이다.&lt;br&gt;&lt;br&gt;대법원의 파기환송 선고는 절차적으로도 법리적으로도 잘못됐다. 상고심은 하급심 판단에 법리적 문제가 있는지 따지는 법률심인데, 이번 판결에선 직접 사실 판단을 해 이 후보의 발언이 허위라고 단정했다.&lt;br&gt;&lt;br&gt;이례적으로 빨리 선고한 것도 문제다. 법을 지킨다고 해도 대법원은 항소심 선고(3월 26일) 3개월 뒤인 6월 25일까지만 결론 내면 되는 상황이었다. 그런데 비정상적인 심리 속도로 이를 50일 넘게 앞당겼다.&lt;br&gt;&lt;br&gt;정치 개입 의도가 다분하다. 유력한 야당 후보의 피선거권을 박탈할 수 있었고, 이는 비상계엄으로 군사 쿠데타를 시도했던 세력의 정권을 연장하는 결과로 이어지기 때문에 ‘사법 쿠데타’라는 지적이 나온 것이다.&lt;br&gt;&lt;br&gt;국회가 사법부의 정치 개입으로 국민 주권이 침해되는 절박한 상황에 이르게 되자, 삼권분립을 침해할 소지가 있는 수단까지 꺼내 든 것으로 보인다. 서울고법이 대선 전 파기환송심 재판을 강행하려고 했다면 탄핵을 통해 이를 정지시킬 수밖에 없었을 것이다. 물론 법관 탄핵이나 대법원장 특검 등은 신중해야 한다. 사법부 독립이라는 가치 수호를 위해서는 국회도 절제가 필요하다.&lt;br&gt;&lt;br&gt;파기환송심 재판부가 대선 이후로 재판을 미룬 것은 적절했다. 헌법 116조는 균등한 선거운동 기회를 보장하고 있다. 선거운동 기간에 대선 후보를 재판에 나오라는 건 위헌 소지가 있는 것이다. 대통령 당선 후에 재판을 계속할지는 나중에 판단할 문제이고, 아직 선거 결과가 나오지도 않았는데 예단해서 선거운동 기회를 뺏는 건 잘못이다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>새로운 관광 모델 부상에… 지자체마다 ‘정원 가꾸기’ 바람</title>
-      <link>https://www.chosun.com/national/regional/2025/05/09/JHST3QKHNZBW3MEXJPK2GCKNAM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/05/09/JHST3QKHNZBW3MEXJPK2GCKNAM/</guid>
-      <dc:creator>최연진 기자, 김영우 기자, 울산=김주영 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 08 May 2025 16:39:08 +0000</pubDate>
-      <content:encoded>전국에 ‘정원 바람’이 불고 있다. 각 지방자치단체들이 경쟁적으로 정원(garden)을 꾸미고 있어서다. 올해 전국 곳곳에서 열리는 정원 축제만 21개다.&lt;br&gt;&lt;br&gt;서울시는 22일부터 10월까지 동작구 보라매공원에서 ‘서울 국제 정원 박람회’를 연다. 보라매공원 40만㎡(약 12만평)에 정원 111개를 조성한다. 서울시 관계자는 “공원 전체가 거대한 정원으로 바뀔 것”이라고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/A5DCZQBL6NBBDDNF5IOSRRKAN4.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=송윤혜&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울시는 2015년부터 매년 여의도, 뚝섬한강공원, 북서울꿈의숲 등에서 정원 박람회를 열고 있는데 최근 들어 관람객이 급증했다. 2021년 5만2000명에 불과했던 관람객 수가 작년엔 780만명으로 3년 만에 150배가 됐다. 작년부터 글로벌 기업과 해외 조경 작가 등을 초청해 국제 박람회로 키운 덕분이다. 시민들이 직접 조경을 배울 수 있는 프로그램도 운영한다. 서울시 관계자는 “시민들의 관심이 높아져 올해는 1000만명 이상 찾아올 것으로 기대한다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/J5G6JTTFJVDYJL7N47MWUJQG6M.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=송윤혜&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;올해 정원 박람회엔 독일의 유명 조경 작가 마크 크리거가 참가한다. 우리나라 꽃과 나무로 독일식 정원을 꾸민다. 독일식 정원은 자연을 최대한 그대로 담는 방식을 추구한다. 지난해 서울시 조경상 대상을 받은 박승진 작가는 보라매공원 운동장 트랙을 따라 기다란 정원을 만든다. 달리면서 감상할 수 있는 정원 작품이다.&lt;br&gt;&lt;br&gt;정원 박람회에 관람객이 몰리자 대기업들도 앞다퉈 참가하고 있다.&lt;br&gt;&lt;br&gt;지난해 9곳에서 올해 20곳으로 늘어났다. 이들은 총 55억원을 기부해 각각 정원을 조성한다. 업계 관계자는 “정원은 ‘지속 가능한(ESG) 경영’의 관점에서 매력적인 기부 방식”이라며 “홍보 효과도 뛰어나 일거양득”이라고 했다.&lt;br&gt;&lt;br&gt;올해는 명품 브랜드 디올이 처음 이름을 올렸다. 디올은 디올 향수의 원료인 은방울꽃과 장미 등을 활용해 정원을 만든다. 서울 성수동에 있는 ‘디올 성수’ 매장의 조경을 맡은 조경 작가 정영선씨가 꾸민다. &lt;br&gt;&lt;br&gt;정원에 꽃과 나무만 있는 건 아니다. 가상자산 거래소인 업비트를 운영하는 두나무는 디스플레이 화면과 향기 분사기 등을 활용해 디지털 정원을 선보일 예정이다. &lt;br&gt;&lt;br&gt;울산시는 16일부터 3일간 중구 태화강 국가정원에서 봄꽃 축제를 연다. 울산시 관계자는 “2028년 열리는 울산국제정원박람회의 성공을 기원하며 꽃양귀비, 수레국화, 안개초, 금영화, 작약 등 봄꽃 6000만 송이를 심을 계획”이라고 했다. 병든 식물을 가져가면 치료해주는 ‘반려식물 클리닉’도 운영한다.&lt;br&gt;&lt;br&gt;충북 청주시는 9일부터 사흘간 ‘가드닝 페스티벌’을 연다. 영국의 유명 정원 박람회인 ‘첼시 플라워 쇼’에서 금상을 탄 황지해 작가가 신작 ‘틈’을 선보인다. 화분 만들기 체험도 해볼 수 있다. &lt;br&gt;&lt;br&gt;전남 구례군은 30일부터 민간 정원 축제를 연다. 작년 11월 산림청이 ‘아름다운 민간 정원’으로 선정한 ‘쌍산재’와 ‘천개의 향나무 숲’, ‘반야원’ 등 3곳을 묶어 축제를 연다. 3곳 모두 개인이 조성한 정원이다. 축제 기간 정원 곳곳을 설명해주는 해설 프로그램을 운영하고 ‘정원 속 음악회’를 개최한다.&lt;br&gt;&lt;br&gt;지자체 정원의 ‘원조’는 전남 순천의 순천만 국가정원이다. 2013년 순천만 국제정원박람회가 관람객 440만명을 모으며 대성공을 거두자, 정원은 새로운 지역 관광 모델로 부상했다. &lt;br&gt;&lt;br&gt;산림청에 따르면 우리나라에는 국가정원 2곳 등 총 177개 정원이 있다. 산림청 관계자는 “정부에 등록하지 않은 개인 정원 등을 합치면 전국에 2000곳이 넘을 것으로 추산된다”고 했다.&lt;br&gt;&lt;br&gt;지자체 관계자는 “정원은 다른 시설보다 가성비가 좋다”며 “시민들도 더 좋아한다”고 했다.&lt;br&gt;&lt;br&gt;코로나를 거치면서 정원은 ‘치유의 공간’이 됐다. 사회적 거리두기로 우울감을 호소하던 사람들이 정원 속에서 치유를 경험한 것이다. 산림청은 2021년부터 3년간 우울증, 치매 등을 겪는 국민 1008명을 대상으로 정원 가꾸기 프로그램을 운영했는데, 증상이 대부분 호전됐다고 밝혔다. 서울시 관계자는 “최근 도심 서울광장에 꽃나무를 심고 벤치를 놓았더니 ‘꽃멍’을 즐기는 직장인들이 늘어났다”며 “1인 가구가 급증하는 외로운 시대에 정원이 정서적 처방이 될 수 있다”고 했다. 서울시는 동네 골목과 간선도로 주변 등 ‘자투리 공간’을 찾아내 2026년까지 총 2495곳의 정원을 만든다는 계획이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[단독] 억울함 줄여주려는 선의가… 고소·고발 급증 불러왔다</title>
@@ -929,24 +956,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XYGLHELBYJ7KGBSMJBM2Z7ZSCE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 대법원 청사의 모습./뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이재명 더불어민주당 대선 후보의 공직선거법 위반 사건 대법원 선고와 민주당의 사법부 흔들기에 대해 전국 법원의 법관 대표들이 ‘전국법관대표회의’ 개최 논의에 들어갔다. 8일 내부적으로 개최 여부를 두고 투표를 진행했으나, 결론을 내지 못해 다음 날로 미뤘다. &lt;br&gt;&lt;br&gt;법관대표회의는 의장 직권 또는 법관 대표 5분의 1 이상(26명)의 요구가 있을 때 회의를 소집할 수 있다. 회의가 열리면 발의 안건에 대해 선언적 의결이 가능하다. 법관대표회의는 이날 온라인 단체 대화방에서 오후 6시를 기한으로 임시회의 소집에 대한 투표를 진행했다. 그러나 “임시회의 소집 여부에 대해 소속 법관의 의사 수렴을 위한 시간이 더 필요하다”는 의견에 따라 투표 기한을 9일 오전 10시까지로 연장하기로 했다. &lt;br&gt;&lt;br&gt;의장인 김예영 서울남부지법 부장판사는 대법원의 신속 재판에 대한 유감 표명 등을 안건으로 올렸으나, 일부 판사가 민주당의 사법부 독립 침해 안건 추가를 요구한 것으로 전해졌다. 법원 한 관계자는 “26명도 채우지 못할 정도로 판사들 의견이 갈린 것으로 안다”면서 “법원 내부가 두 쪽으로 나뉘고 있는 분위기”라고 전했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4TO47SLXEZCNFEGNMZKUI6URTU.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=백형선&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대법원 전원합의체가 이 후보에게 유죄 취지 판결을 내린 이후, 판사들은 민주당의 도 넘은 공세를 우려하는 쪽과 대법원을 공격하는 쪽으로 양분되고 있다. 김주옥 서울중앙지법 부장판사는 법원 내부망에서 공개적으로 조희대 대법원장 사퇴를 요구한 반면, 성금석 부산지법 부장판사는 국정감사가 재판·수사 중인 사건의 소추에 관여할 목적으로 행사돼선 안 된다는 내용의 ‘국정감사법 8조’를 게시했다.&lt;br&gt;&lt;br&gt;한편 김현·이종엽·김영훈 등 전 대한변협회장 9명은 이날 성명을 내고 “민주당은 삼권분립을 위협하는 사법부 흔들기를 중단하라”고 촉구했다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[오늘의 날씨] 2025년 5월 9일</title>
-      <link>https://www.chosun.com/national/national_general/2025/05/09/IK5WJHVXXRHQTLVNOBOSSS5HKQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/05/09/IK5WJHVXXRHQTLVNOBOSSS5HKQ/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 08 May 2025 15:35:36 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RFOC5TYKM5DA3HON3ZCOH5MB6A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>10년 전 미얀마로 도주했던 한국예총 간부, 지진 피해 귀국했다 공항서 덜미</title>
-      <link>https://www.chosun.com/national/court_law/2025/05/08/C6LCKTXO55GS3PTGPXRKM3YTF4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/05/08/C6LCKTXO55GS3PTGPXRKM3YTF4/</guid>
-      <dc:creator>이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 08 May 2025 12:53:10 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IG6HEPHSMNEXAS77JOXFIF2DEQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울중앙지검./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;10년 전 수십억대 배임을 저지른 혐의로 수사 대상에 올랐으나 미얀마로 도주했던 예술단체 전직 간부가 최근 귀국했다 검찰에 체포된 것으로 8일 확인됐다.&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 서울중앙지검 반부패수사3부(부장 이승학)는 한국예술문화단체총연합회 총무 담당 간부였던 A씨를 지난 4일 인천국제공항에서 체포했다. A씨는 한국예총 집행부가 ‘홈앤쇼핑 컨소시엄’에 참여한 뒤, 뒷돈을 받고 주식을 싸게 넘겼다는 의혹의 핵심 당사자 중 한 명인 것으로 알려졌다. 이 밖에도 한국예총이 국고 지원을 받아 대한민국예술인센터를 설립‧운영하는 과정에서 집행부가 배임 등 비리를 저질렀다는 의혹이 제기됐었다.&lt;br&gt;&lt;br&gt;검찰은 2015년 4월 한국예총을 압수 수색하며 본격 수사에 착수했는데, A씨는 이때 수사망을 피해 잠적한 뒤, 여권을 위조해 미얀마로 도피한 것으로 보고 있다고 한다. 지난 3월 미얀마에 진도 7.7 규모의 강진이 덮치면서 A씨가 10년 만에 귀국을 시도했다는 것이다.&lt;br&gt;&lt;br&gt;검찰은 A씨에 대한 구속영장을 청구해 발부 받았고, 보완 수사를 이어가고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>李 상고심·사법부 압박 논의...전국법관회의 소집 여부, 9일 결정</title>
       <link>https://www.chosun.com/national/court_law/2025/05/08/ASBZ3IR5O5DOBF4ETB4UYGFD7I/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/05/08/ASBZ3IR5O5DOBF4ETB4UYGFD7I/</guid>
@@ -963,15 +972,6 @@
       <description/>
       <pubDate>Thu, 08 May 2025 09:41:42 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/R7SG3CK277JA2R2YYYBWEFZ6YE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;세종시 어진동 대통령기록관/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;문재인 정부 시절 취임했다가 부당 지시와 갑질 등 논란을 빚고 1년 8개월 만에 해임된 심성보 전 대통령기록관장이 부당한 해임이라며 소송을 냈다가 1심에서 패소했다. &lt;br&gt;&lt;br&gt;8일 법조계에 따르면 서울행정법원 행정12부(재판장 강재원)는 심 전 관장이 해임 처분을 취소해달라며 행정안전부 장관을 상대로 제기한 소송에서 지난달 17일 원고 패소로 판결했다.&lt;br&gt;&lt;br&gt;심 전 관장은 문재인 정부 임기 말기인 2021년 9월 취임한 뒤 임기 5년을 채우지 못하고 2023년 5월 해임 징계를 받았다. 징계 사유는 일부 직원에게 폭언 등 갑질과 비인격적 대우를 하고 대통령지정기록물 관리와 관련해 위법·부당한 지시를 했다는 것이었다. 심 전 관장은 이에 불복해 인사혁신처에 소청 심사를 냈지만 기각되자 소송을 제기했다.&lt;br&gt;&lt;br&gt;판결문에 따르면 심 전 관장은 대통령기록관의 기록물공개심의회가 이미 공개 처리한 대통령기록물을 비공개로 전환할 수 있도록 규정을 신설하라고 직원에게 지시했다. 보호기간 중인 대통령지정기록 열람을 지시하기도 했다. 직원들은 이 같은 지시를 거부한 뒤로 심 전 관장에게 모욕적인 발언을 들었다고 주장했다.&lt;br&gt;&lt;br&gt;재판부는 징계 사유를 모두 인정했다. 대통령기록물 비공개 전환에 대해 “대통령기록물법상 공개로 분류된 기록물을 비공개로 재분류하는 법적 근거는 존재하지 않는다”며 “법령에서 정한 권한을 정당한 근거 없이 지나치게 확대 해석하고 수차례 정당한 범위를 벗어난 업무 지시를 했다”고 지적했다. 대통령지정기록 열람 지시에 대해서는 “관장이라고 해도 보호 기간 중의 대통령지정기록물을 임의로 열람할 수 없음이 명백하다”고 했다. &lt;br&gt;&lt;br&gt;심 전 관장은 해임 처분이 과도하다고 주장했지만 재판부는 “비위의 정도가 심하고 고의가 있다고 보는 게 타당하다”며 “징계권자가 어떤 처분을 할 것인지는 기본적으로 징계권자 재량”이라고 했다. 심 전 관장은 1심 판결에 불복해 항소했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>허위 서류 만들어 외국인 체류 기간 연장… 외국인 브로커 구속 송치</title>
-      <link>https://www.chosun.com/national/incident/2025/05/08/NUPRQH5NE5FX7IAEQBI3F54SSA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/05/08/NUPRQH5NE5FX7IAEQBI3F54SSA/</guid>
-      <dc:creator>인천=이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 08 May 2025 09:29:11 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/X2Q3RE7SYBDVNM5XQXUMEOUQ5Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;인천 출입국외국인청. /법무부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;허위 서류를 만들어 외국인들이 국내 체류 기간을 연장할 수 있도록 해준 외국인 브로커가 출입국 당국에 적발됐다. &lt;br&gt;&lt;br&gt;인천출입국‧외국인청은 출입국관리법 위반 혐의로 우즈베키스탄 국적 남성 A(41)씨를 구속해 검찰에 송치했다고 8일 밝혔다. &lt;br&gt;&lt;br&gt;A씨는 지난 2022년 9월부터 2023년 8월까지 총 25차례에 걸쳐 허위 서류를 만들어 외국인 17명의 국내 체류 기간을 연장하도록 돕고 750만원을 받아 챙긴 혐의를 받고 있다. &lt;br&gt;&lt;br&gt;A씨는 공범 B씨와 SNS(사회관계망서비스)로 체류 기간을 연장해야 하는 외국인들을 모집한 뒤, 이들이 컨테이너 선적 포장 작업을 하는 것처럼 수출신고필증을 위조하는 등 허위 서류를 만들어 온라인 신청 업무를 대행한 것으로 파악됐다. 이들은 외국인들의 국내 체류지 확인에 필요한 가짜 부동산 임대차계약서를 만들기도 한 것으로 조사됐다. &lt;br&gt;&lt;br&gt;출입국 당국은 A씨와 B씨가 출국한 사실을 파악하고 지명수배한 뒤, 지난달 24일 인천국제공항으로 입국한 A씨를 붙잡았다. &lt;br&gt;&lt;br&gt;또 A씨 등의 허위 서류로 체류 기간을 연장한 외국인 17명 중 10명을 출국 조치하고 나머지 7명을 추적하고 있다. &lt;br&gt;&lt;br&gt;인천출입국‧외국인천 관계자는 “허위 서류를 이용한 비슷한 사례가 더 있을 것으로 보고 수사를 확대해 엄정 대응할 방침”이라고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
