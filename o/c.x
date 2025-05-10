@@ -13,6 +13,42 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>이웃 ‘성관계 소리’ 듣겠다고… 비번 알아내 녹음기 설치한 40대 </title>
+      <link>https://www.chosun.com/national/national_general/2025/05/10/5KGGUDM2PZBYBEV4PZP4BZD5LM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/05/10/5KGGUDM2PZBYBEV4PZP4BZD5LM/</guid>
+      <dc:creator>박선민 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 10 May 2025 12:54:32 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IZS7TRGETFCMNCCJZVMP37SW3U.png"&gt;&lt;figcaption&gt;&lt;small&gt;/일러스트=조선디자인랩 정다운&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;우연히 이웃집 현관문을 통해 성관계 소리를 듣고 성적 호기심을 채우겠다며 도어락 비밀번호를 알아내 침입한 뒤 녹음기를 설치한 40대가 징역형의 집행유예를 선고받았다. &lt;br&gt;&lt;br&gt;10일 춘천지방법원 원주지원 제1형사부(이승호 부장판사)에 따르면, 통신비밀보호법위반, 주거침입 혐의로 기소된 40대 A씨는 징역 6개월 및 자격정지 1년, 집행유예 2년을 선고받았다. &lt;br&gt;&lt;br&gt;A씨는 작년 11월 주거지 복도에서 B씨 집 현관문을 통해 성관계 소리를 듣고 성적 호기심을 채우고자 집 내부에 몰래 녹음기를 설치한 혐의를 받는다. A씨는 지난 2월 13일 오후 5시쯤 B씨 집 도어락이 보이는 각도로 초소형 카메라를 설치해 비밀번호를 알아낸 뒤, 같은 달 16일 오후 9시 30분쯤 B씨 집에 침입해 침대 매트리스 틈 사이에 녹음기를 설치한 것으로 조사됐다. &lt;br&gt;&lt;br&gt;다만 A씨 범행은 녹음기 설치 당일 바로 발각됐다. 설치 몇 분 뒤 녹음기가 잘 작동하는지 확인하기 위해 다시 들어갔다가, 평소보다 일찍 귀가한 B씨에게 바로 들킨 것이다. 결국 A씨는 체포됐고, 이후 구속 상태에서 재판을 받아왔다.&lt;br&gt;&lt;br&gt;이 사건에 대해 재판부는 “피고인이 성적 호기심 등을 위해 피해자 주거지에 침입하고, 피해자의 사적 영역을 침범하는 등 대상, 경위, 수법 등 죄질이 가볍지 않다”고 했다. 그러면서 “범행을 인정하고 피해자가 합의하고 처벌을 원치 않은 점 등을 고려해 형을 정했다”고 판시했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>술 마시다 다툰 지인 흉기로 찔러…경찰, 50대男 체포 </title>
+      <link>https://www.chosun.com/national/incident/2025/05/10/JY4AJH7VVJC6RFDLIIMX3ICJIE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/05/10/JY4AJH7VVJC6RFDLIIMX3ICJIE/</guid>
+      <dc:creator>이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 10 May 2025 11:09:22 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/S4JNNA63IJHXYPIIBJ7DXGEVSU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;술을 마시다 다툰 지인에게 흉기를 휘두른 50대 남성이 경찰에 붙잡혔다. &lt;br&gt;&lt;br&gt;10일 경찰 등에 따르면 전북 전주덕진경찰서는 살인미수 혐의로 50대 남성 A씨를 체포해 조사하고 있다. &lt;br&gt;&lt;br&gt;A씨는 이날 오후 4시 50분쯤 전주시 덕진구 반월동 자신의 아파트에서 50대 B씨를 흉기로 찔러 다치게 한 혐의를 받고 있다. &lt;br&gt;&lt;br&gt;A씨가 휘두른 흉기에 찔린 B씨는 병원으로 옮겨졌다. 생명에는 지장이 없는 것으로 알려졌다. &lt;br&gt;&lt;br&gt;A씨는 자신의 집에서 지인인 B씨와 술을 마시고 다투다 범행한 것으로 파악됐다. &lt;br&gt;&lt;br&gt;신고를 받고 출동한 경찰은 A씨 집에서 그를 긴급 체포했다. &lt;br&gt;&lt;br&gt;경찰은 A씨를 상대로 구체적인 범행 경위를 조사할 방침이다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“신권은 복돈”… 故 이상용, 매일 천원 100장 뽑아 나눠줬던 이유</title>
+      <link>https://www.chosun.com/national/national_general/2025/05/10/WLQJ67L57FDJTLM54LEAGGIL44/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/05/10/WLQJ67L57FDJTLM54LEAGGIL44/</guid>
+      <dc:creator>박선민 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 10 May 2025 11:00:13 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EWPCC4T4EJDXXJBCJNETZTPHK4.png"&gt;&lt;figcaption&gt;&lt;small&gt;‘뽀빠이 아저씨’로 알려진 방송인 이상용(81)씨. /MBN&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘뽀빠이 아저씨’로 알려진 방송인 이상용(81)씨가 9일 오후 세상을 떠난 가운데, 온라인상에서는 과거 그의 선행들이 재조명되고 있다. 고인은 심장병 어린이 수백 명의 수술비를 후원했을 뿐만 아니라, 평소에도 매일 1000원짜리 신권 100장을 뽑아 이를 어려운 이웃들에게 나눠줬던 것으로 알려졌다. &lt;br&gt;&lt;br&gt;이날 고인의 별세 소식에 온라인상에는 그를 애도하는 글이 잇달았다. 특히 한 네티즌은 “하루도 빠짐없이 매달 300만원을 1000원짜리로 인출해 만나는 사람마다 나누어 주며 사람들에게 행복을 나누고자 했던 아름다운 분”이라며 생전 미담을 추억하기도 했다. &lt;br&gt;&lt;br&gt;2022년 7월 방송된 MBN ‘특종세상’에는 고인의 이런 모습이 고스란히 담겼다. 이를 보면, 이씨는 다리를 절뚝이면서도 은행을 찾아 1000원짜리 신권을 가득 뽑은 뒤 구두 수선집 주인과 식당 직원 등에 몇 장씩 건넸다. 이씨로부터 돈을 받은 한 식당 직원은 “평소에도 양말 파시는 분 등 어려운 사람들 다 용돈처럼 준다”며 “주머니에 새 돈으로 많이 가지고 다니면서 항상 나눠준다”고 했다.&lt;br&gt;&lt;br&gt;당시 그는 신권을 나눠주는 이유에 대해 “신권은 복 돈”이라며 “두 장, 세 장씩 어려운 사람들 주는 것”이라고 했다. 그러면서 “어렵게 컸기 때문에 눈에 띄는 어려운 사람들이 너무 많다. 하루에 100장. 한 달에 300만 원을 쓴다”고 했다. 약 50년간 이런 일을 해왔다고 한다. &lt;br&gt;&lt;br&gt;모두에게 같은 금액을 주진 않았다. 환경이나 나이 등에 따라 차등 분배했다. 그는 “수레 끄는 아저씨는 (1000원짜리) 20장, 식당에는 5장, 아기는 2장 그렇게 하루에 100장을 준다”며 “한 달에 300만원이 나간다”고 했다. 이어 “폐지를 리어카에 산 만큼 싣고 가도 ㎏당 4000원을 받는다더라. 내가 20장을 주면 5일 치를 선불 받는 것”이라며 “그 사람이 5일 치 행복을 받고 덜 피곤하면 좋겠는 마음”이라고 했다. &lt;br&gt;&lt;br&gt;같은 방송에서 고인은 1996년 심장병 어린이 돕기 성금을 유용했다는 누명을 썼던 사실을 언급하며 억울함을 토로하기도 했다. 고인은 “600명을 47년간 고치는데 100억원을 썼다. 그런데 하나도 안 고쳤다고 신문에 나왔다”며 “지금도 눈물이 나오려고 한다. 아버지가 언론인인데 ‘그런 아들 아니다’라는 걸 대전역에서 뿌리다가 돌아가셨다”고 했다. &lt;br&gt;&lt;br&gt;실제로 고인은 이듬해 검찰 조사에서 무혐의 처분을 받았다. 이에 이씨는 “미치고 싶더라. 수술한 아이들이 600명이 되는데 신문에 안 내줬다”며 “구렁텅이에 빠져서 너무 힘들었다. 혼자 많이 울었다”고 당시 심경을 털어놨다.&lt;br&gt;&lt;br&gt;한편 고인은 9일 81세 나이로 별세했다. 소속사에 따르면, 고인은 이날 감기 증세로 서울 서초구 자택 인근 병원을 다녀오던 중 갑자기 쓰러져 응급실로 이송됐으나, 심정지로 오후 2시 반쯤 세상을 떠났다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>대선 앞두고 달아오른 집회…“김문수 아웃 불법“ VS “조희대 사퇴”</title>
+      <link>https://www.chosun.com/national/national_general/2025/05/10/6T2YEUHN2ZBBXK4WMLKIU5I5CM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/05/10/6T2YEUHN2ZBBXK4WMLKIU5I5CM/</guid>
+      <dc:creator>김병권 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 10 May 2025 10:42:02 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GG7AWSSEHFLL3BPNTLE77NVMOI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;10일 서울 세종대로에서 자유통일당 대한민국바로세우기운동본부(대국본) 주최 국민저항권 광화문 국민대회가 열리고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;오는 6월 3일 대통령 선거를 24일 앞둔 10일 서울 도심 곳곳에서 보수와 진보 단체들이 집회를 열었다. 이들 단체는 더불어민주당 이재명 대선 후보의 대법원 파기환송 판결과 국민의힘 김문수 대선후보의 선출 취소 등을 두고 목소리를 높였다.&lt;br&gt;&lt;br&gt;전광훈 목사가 주축인 대한민국바로세우기운동본부(대국본)는 이날 오후 1시 서울 종로구 동화면세점 앞에서 집회를 열었다.&lt;br&gt;&lt;br&gt;연단에 오른 전 목사는 “이번에 국민의힘이 사기 치는 거 봤죠? 멀쩡하게 뽑아놓은 김문수를 아웃시키고 바깥에 있던 한덕수를 영입했다”며 “이건 완전 불법”이라고 했다.&lt;br&gt;&lt;br&gt;매주 토요일 이곳에서 집회를 열어온 대국본은 대선 전까지 집회를 중단하기로 했다. 이날 집회에는 약 1만명(경찰 비공식 추산)이 모였다.&lt;br&gt;&lt;br&gt;윤석열 전 대통령 퇴진 운동을 주도했던 ‘내란청산·사회대개혁 비상행동’은 오후 5시부터 종로구 동십자각 앞에서 집회를 개최했다. 이날 모인 약 800명(경찰 비공식 추산)의 집회 참가자들은 “조희대는 사퇴하라” “윤석열을 구속하라”와 같은 구호를 외쳤다. &lt;br&gt;&lt;br&gt;대법원이 있는 서울 서초구 서초동 일대에서도 집회가 열렸다.&lt;br&gt;&lt;br&gt;촛불행동은 이날 오후 4시 대법원 인근 서초역 2번 출구에서 집회를 열고 이재명 후보의 공직선거법 사건에 대해 유죄 취지로 판단한 대법관 10명에 대한 처벌을 촉구했다.&lt;br&gt;&lt;br&gt;경찰 비공식 추산 약 2300명이 모인 가운데 참가자들은 “조희대 대법관 10명 기필코 처벌하자” “사법 쿠데타, 정치재판 완전히 중단하라” 등 구호를 외쳤다.&lt;br&gt;&lt;br&gt;이곳에서 멀리 떨어지지 않은 서울중앙지검 인근에서는 보수 유튜버 벨라도가 오후 3시부터 맞불 집회를 개최했다. 태극기와 성조기를 든 약 3500명(경찰 비공식 추산)의 참가자들은 “이재명을 재판하라”고 외쳤다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>수원 골목길서 대리기사 몰던 테슬라 차량 사고…2명 다치고, 주차차량 7대 파손</title>
       <link>https://www.chosun.com/national/incident/2025/05/10/3BRFLJFF5JBDPMKSB3I6C2JWFE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/05/10/3BRFLJFF5JBDPMKSB3I6C2JWFE/</guid>
@@ -804,24 +840,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RTA3X7GAWQAAZJU5AKOFSNXEYM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 3월 26일 오전 서울 종로구 자하문로 인근에서 경찰들이 전국농민회총연맹 소속 트랙터를 둘러싸고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전국농민회총연맹(전농)이 오는 10일 트랙터를 동원한 ‘상경 집회’를 예고하면서 서울 금천구 시흥대로와 관악구 남태령 일대에 교통 정체가 예상된다. 경찰은 차량 우회와 가변 차로 운영 등을 통해 시민 불편 최소화에 나선다는 방침이다.&lt;br&gt;&lt;br&gt;9일 서울경찰청에 따르면, 전농은 10일 오후 경기 안양 석수역 인근에서 출발해 시흥대로를 통해 서울 금천구로 진입하는 경로와, 경기 과천에서 과천대로를 따라 서울 사당 방향으로 진입하는 경로 등 두 축을 통해 트랙터 행진을 진행할 계획이다.&lt;br&gt;&lt;br&gt;이에 따라 오후 시간대 석수역 일대와 남태령 일대는 정체가 극심할 것으로 예상된다. 특히 해당 구간들은 우회 경로가 많지 않아 시민 불편이 클 것으로 보인다. 경찰은 “가능한 한 원거리에서 우회해달라”고 당부했다. 상황에 따라 교통이 통제될 수도 있다.&lt;br&gt;&lt;br&gt;서울경찰은 시흥대로 기아대교3·박미3 교차로, 과천대로 남태령역·관문교차로 일대에 교통경찰 74명을 배치해 동서 간 차량 우회를 유도할 계획이다. 전 차로 통제를 제외한 경우 반대편 차로를 가변 차로로 운영해 남북 간 소통은 유지하겠다는 방침이다.&lt;br&gt;&lt;br&gt;서울경찰청 관계자는 “당일 차량 운행 예정인 시민들은 교통 정보를 사전에 확인하고 우회 경로를 이용해달라”고 했다.&lt;br&gt;&lt;br&gt;앞서 서울경찰청은 8일 전농 측에 “트랙터는 안전사고 우려가 크다”며 집회 제한 통고를 내리고 도심 진입을 불허했다. 하지만 전농이 지난해 12월과 올해 3월에도 트랙터 상경 집회를 강행한 전례가 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>김대중 ‘동교동 사저’ 국가등록문화유산 등재 ‘눈앞’…서울시 심의 통과</title>
-      <link>https://www.chosun.com/national/national_general/2025/05/09/ARIQ2T6MSFEX3GUE2KCNBILR3A/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/05/09/ARIQ2T6MSFEX3GUE2KCNBILR3A/</guid>
-      <dc:creator>김영우 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 09 May 2025 04:53:51 +0000</pubDate>
-      <content:encoded>김대중 전 대통령이 살았던 서울 마포구 ‘동교동 사저’가 국가등록문화유산 등재를 위한 서울시 심의를 통과했다. 국가유산청 심의만 남아 있어, 등재가 눈앞에 다가왔다는 평가가 나온다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WUXVOGQGOVI6HMMFW2ZOJSHGTI.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;서울 마포구 동교동 김대중 전 대통령의 사저. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;9일 서울시 등에 따르면, 시는 작년 11월 서울 마포구가 제출한 ‘동교동 사저를 국가등록문화유산으로 등재해 달라’는 내용의 신청서를 지난 3월 심의에서 통과시켰다.&lt;br&gt;&lt;br&gt;국가등록문화유산은 보존할 가치가 있는 근현대 건축물이나 기록, 물품 등을 말한다. 소유자나 지방자치단체가 신청하면 국가유산청이 검토해 지정한다. 이승만 전 대통령이 머물렀던 돈암장, 서울시의회 본관 등이 있다.&lt;br&gt;&lt;br&gt;김 전 대통령은 1961년 동교동 사저에 입주한 뒤 2009년 8월 별세할 때까지 대부분 기간을 이곳에서 살았다. 김 전 대통령의 측근을 뜻하는 ‘동교동계’라는 말도 여기서 나왔다.&lt;br&gt;&lt;br&gt;앞서 지난해 7월 동교동 사저가 커피 프랜차이즈 업체 대표 박모씨에게 100억원에 팔리자, 이를 두고 논란이 일기도 했다.&lt;br&gt;&lt;br&gt;이후 마포구는 소유자인 박씨의 동의를 얻어 동교동 사저를 국가등록문화유산으로 지정하기 위한 절차를 밟기 시작했다.&lt;br&gt;&lt;br&gt;이번 서울시 심의 통과에 따라 동교동 사저는 국가문화등록유산 지정을 위해 국가유산청 심의만을 남겨두고 있다. 서울시 관계자는 “국가유산청 심의 통과에 6개월이나 1년 정도가 걸릴 것으로 보고 있다”고 말했다.&lt;br&gt;&lt;br&gt;마포구는 동교동 사저가 국가등록문화유산이 되면 소유주 박씨 등과 협의해 건물 내부를 리모델링하고 김 전 대통령을 기리는 기념관으로 활용할 계획이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“킬러고용·FBI수사? 허무맹랑“... 김수현 측, 가세연·김새론 유족 추가 고소 </title>
-      <link>https://www.chosun.com/national/national_general/2025/05/09/GTQKZD34LRGRTI4Q3RTA5VTBW4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/05/09/GTQKZD34LRGRTI4Q3RTA5VTBW4/</guid>
-      <dc:creator>이혜진 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 09 May 2025 04:24:16 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NAZ56THJFGZYS7TDESR2ADMILY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김세의 가로세로연구소 대표와 故김새론 유족 법률대리인 부지석 변호사가 7일 오후 서울 강남구 스페이스쉐어에서 김수현 배우 관련 기자회견을 하고 있다. /뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;배우 김수현 측은 9일 유튜브 채널 가로세로연구소(가세연) 운영자 김세의씨와 고(故) 김새론 유족을 명예훼손 혐의로 추가 고소했다.&lt;br&gt;&lt;br&gt;김수현과 소속사 골드메달리스트의 법률대리인인 법무법인 엘케이비앤파트너스는 9일 공식 자료를 통해 “골드메달리스트와 김수현 배우는 이날 가세연 운영자 김세의 대표를 정보통신망이용촉진및정보보호등에관한법률위반(명예훼손), 스토킹범죄의처벌등에관한법률위반 혐의로, 김새론의 유족을 정보통신망이용촉진및정보보호등에관한법률위반(명예훼손) 혐의로 각각 추가 고소·고발했다”고 밝혔다.&lt;br&gt;&lt;br&gt;이번 고소는 김씨가 지난 7일 기자회견에서 김수현과 김새론에 대한 허위 사실을 유포한 데 따른 것이라고 법무법인은 밝혔다. 법무법인은 “김씨는 기자회견에서 ‘김수현과 김새론이 중학교 때부터 교제했으며 김새론이 중학교 2학년 겨울방학 때 처음 성관계를 했다’ ‘김수현 측이 녹취 파일 제보자에게 40억원을 제안했고, 제보자가 이를 거절하자 킬러 2명을 고용해 제보자 살해를 시도했다’는 허무맹랑한 허위 사실을 유포했다”며 “김세의의 발언은 단 한 치의 진실조차 없는 완전한 거짓말”이라고 주장했다. &lt;br&gt;&lt;br&gt;김수현 측은 또 김씨가 기자회견에서 “범행이 있기 딱 5일 전 금요일 밤 늦은 시간에 뉴욕 JFK 공항을 통해 한국인과 중국인 킬러가 입국했다”, “이 사건은 사건이 발생한 뉴저지 주경찰이 아닌 미 연방 수사국 FBI에서 수사가 진행되고 있다”, “제보자는 출근길에 주차장에서 내리다가 칼에 목 부위에만 9차례 찔렸다” 등 취지로 발언했다“며 ”이는 일반인의 상식에 비추어 보아도 도저히 납득하기 어려운 주장”이라고 했다. &lt;br&gt;&lt;br&gt;법무법인은 “김씨는 위조된 녹취 파일과 인터넷에서 내려받은 사진을 근거로 김수현에 대한 터무니없는 허위 사실을 마구잡이로 유포했다”며 “이는 김씨가 지금까지 저질러온 범죄와는 비교할 수 없을 정도로 중대한 범죄 행위”라고 했다. 이어 “이들이 법과 원칙에 따라 처벌받을 수 있도록 최선의 노력을 다할 것임을 알려드린다”고 했다.&lt;br&gt;&lt;br&gt;앞서 김새론 유족 측은 지난 7일 김수현을 아동복지법 위반 및 무고죄로 고소했다고 밝혔다. 유족 측 법률대리인과 가세연은 같은 날 기자회견을 열고 김새론이 미성년자 시절 김수현과 교제했다는 주장이 담긴 녹취록을 공개했다. 음성 대역을 쓴 이 녹취에는 “(김수현과) 중학교 때부터 사귀다가 대학 가고 헤어졌다”는 내용이 포함됐다. &lt;br&gt;&lt;br&gt;그러나 김수현 측은 즉각 입장문을 내고 “해당 녹취 파일은 완전히 위조된 것으로, 해당 녹취 파일이 AI(인공지능) 등을 통하여 만들어진 것으로 파악하고 있다”고 반박했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>임성근 “공수처, ‘구명 로비’ 관련자 접촉 없다는 사실 확인했을 것”</title>
       <link>https://www.chosun.com/national/court_law/2025/05/09/IF4UFGY3KVHUHOIASOC77X5FDE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/05/09/IF4UFGY3KVHUHOIASOC77X5FDE/</guid>
@@ -949,24 +967,6 @@
       <description/>
       <pubDate>Thu, 08 May 2025 16:16:58 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XYGLHELBYJ7KGBSMJBM2Z7ZSCE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 대법원 청사의 모습./뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이재명 더불어민주당 대선 후보의 공직선거법 위반 사건 대법원 선고와 민주당의 사법부 흔들기에 대해 전국 법원의 법관 대표들이 ‘전국법관대표회의’ 개최 논의에 들어갔다. 8일 내부적으로 개최 여부를 두고 투표를 진행했으나, 결론을 내지 못해 다음 날로 미뤘다. &lt;br&gt;&lt;br&gt;법관대표회의는 의장 직권 또는 법관 대표 5분의 1 이상(26명)의 요구가 있을 때 회의를 소집할 수 있다. 회의가 열리면 발의 안건에 대해 선언적 의결이 가능하다. 법관대표회의는 이날 온라인 단체 대화방에서 오후 6시를 기한으로 임시회의 소집에 대한 투표를 진행했다. 그러나 “임시회의 소집 여부에 대해 소속 법관의 의사 수렴을 위한 시간이 더 필요하다”는 의견에 따라 투표 기한을 9일 오전 10시까지로 연장하기로 했다. &lt;br&gt;&lt;br&gt;의장인 김예영 서울남부지법 부장판사는 대법원의 신속 재판에 대한 유감 표명 등을 안건으로 올렸으나, 일부 판사가 민주당의 사법부 독립 침해 안건 추가를 요구한 것으로 전해졌다. 법원 한 관계자는 “26명도 채우지 못할 정도로 판사들 의견이 갈린 것으로 안다”면서 “법원 내부가 두 쪽으로 나뉘고 있는 분위기”라고 전했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4TO47SLXEZCNFEGNMZKUI6URTU.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=백형선&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대법원 전원합의체가 이 후보에게 유죄 취지 판결을 내린 이후, 판사들은 민주당의 도 넘은 공세를 우려하는 쪽과 대법원을 공격하는 쪽으로 양분되고 있다. 김주옥 서울중앙지법 부장판사는 법원 내부망에서 공개적으로 조희대 대법원장 사퇴를 요구한 반면, 성금석 부산지법 부장판사는 국정감사가 재판·수사 중인 사건의 소추에 관여할 목적으로 행사돼선 안 된다는 내용의 ‘국정감사법 8조’를 게시했다.&lt;br&gt;&lt;br&gt;한편 김현·이종엽·김영훈 등 전 대한변협회장 9명은 이날 성명을 내고 “민주당은 삼권분립을 위협하는 사법부 흔들기를 중단하라”고 촉구했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>李 상고심·사법부 압박 논의...전국법관회의 소집 여부, 9일 결정</title>
-      <link>https://www.chosun.com/national/court_law/2025/05/08/ASBZ3IR5O5DOBF4ETB4UYGFD7I/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/05/08/ASBZ3IR5O5DOBF4ETB4UYGFD7I/</guid>
-      <dc:creator>이슬비 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 08 May 2025 09:11:22 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LR5XWC3QCNND3A5YKHOMYZQLWY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;조희대 대법원장이 지난달 14일 경기도 고양시 사법연수원에서 열린 전국법관대표회의에서 인사말을 하고 있다. /전국법관대표회의 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전국 법관 대표들이 이재명 더불어민주당 대선 후보의 공직선거법 위반 사건 선고와 민주당의 사법부 독립성 훼손 등을 논의하기 위한 전국법관대표회의를 열지 논의 중이다. 전국법관대표회의는 오는 9일 오전 10시까지 의견을 수렴해 회의 개최 여부를 결정하기로 했다.&lt;br&gt;&lt;br&gt;8일 법조계에 따르면, 법관대표회의는 회의 소집에 대한 법관들의 의견을 오는 9일 오전 10시까지 받기로 했다. 회의 소집에 대한 의견 수렴은 전국법관대표회의 단체 대화방에서 한 법관대표가 제안하면서 투표 형식으로 시작됐고, 애초 이날 오후 6시가 마감 시한이었다. 그러나 “임시회 소집 여부에 대해 소속 법관의 의사 수렴을 위한 시간이 더 필요하다”는 의견에 따라 기한을 연장하기로 했다. &lt;br&gt;&lt;br&gt;법관대표회의는 매년 4월과 12월 정기적으로 열리지만 의장이 직권으로, 또는 법관대표 5분의 1 이상의 요구가 있을 때 임시회의를 소집할 수 있다. 투표를 통해 26명 이상, 각급 법원 대표자 5분의 1 이상의 요청이 있으면 전국법관대표회의가 소집된다.&lt;br&gt;&lt;br&gt;의장인 김예영(사법연수원 30기) 서울남부지법 부장판사도 임시회 직권 소집과 관련해 운영위원회와 논의 중인 것으로 전해졌다.&lt;br&gt;&lt;br&gt;전국법관대표회의는 각급 법원의 대표 판사들이 모여 사법행정과 법관 독립 등에 대한 의견을 표명하는 회의체다. 현안에 따라 비정기적으로 열리던 이 회의는 대법원 규칙 개정으로 2018년 4월부터 공식 기구가 됐다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>文정부 임명 전 대통령기록관장, 해임 취소 소송서 패소</title>
-      <link>https://www.chosun.com/national/court_law/2025/05/08/ENO7CPNLXBF5LMM2DYIKNM44OI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/05/08/ENO7CPNLXBF5LMM2DYIKNM44OI/</guid>
-      <dc:creator>김은경 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 08 May 2025 09:41:42 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/R7SG3CK277JA2R2YYYBWEFZ6YE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;세종시 어진동 대통령기록관/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;문재인 정부 시절 취임했다가 부당 지시와 갑질 등 논란을 빚고 1년 8개월 만에 해임된 심성보 전 대통령기록관장이 부당한 해임이라며 소송을 냈다가 1심에서 패소했다. &lt;br&gt;&lt;br&gt;8일 법조계에 따르면 서울행정법원 행정12부(재판장 강재원)는 심 전 관장이 해임 처분을 취소해달라며 행정안전부 장관을 상대로 제기한 소송에서 지난달 17일 원고 패소로 판결했다.&lt;br&gt;&lt;br&gt;심 전 관장은 문재인 정부 임기 말기인 2021년 9월 취임한 뒤 임기 5년을 채우지 못하고 2023년 5월 해임 징계를 받았다. 징계 사유는 일부 직원에게 폭언 등 갑질과 비인격적 대우를 하고 대통령지정기록물 관리와 관련해 위법·부당한 지시를 했다는 것이었다. 심 전 관장은 이에 불복해 인사혁신처에 소청 심사를 냈지만 기각되자 소송을 제기했다.&lt;br&gt;&lt;br&gt;판결문에 따르면 심 전 관장은 대통령기록관의 기록물공개심의회가 이미 공개 처리한 대통령기록물을 비공개로 전환할 수 있도록 규정을 신설하라고 직원에게 지시했다. 보호기간 중인 대통령지정기록 열람을 지시하기도 했다. 직원들은 이 같은 지시를 거부한 뒤로 심 전 관장에게 모욕적인 발언을 들었다고 주장했다.&lt;br&gt;&lt;br&gt;재판부는 징계 사유를 모두 인정했다. 대통령기록물 비공개 전환에 대해 “대통령기록물법상 공개로 분류된 기록물을 비공개로 재분류하는 법적 근거는 존재하지 않는다”며 “법령에서 정한 권한을 정당한 근거 없이 지나치게 확대 해석하고 수차례 정당한 범위를 벗어난 업무 지시를 했다”고 지적했다. 대통령지정기록 열람 지시에 대해서는 “관장이라고 해도 보호 기간 중의 대통령지정기록물을 임의로 열람할 수 없음이 명백하다”고 했다. &lt;br&gt;&lt;br&gt;심 전 관장은 해임 처분이 과도하다고 주장했지만 재판부는 “비위의 정도가 심하고 고의가 있다고 보는 게 타당하다”며 “징계권자가 어떤 처분을 할 것인지는 기본적으로 징계권자 재량”이라고 했다. 심 전 관장은 1심 판결에 불복해 항소했다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
