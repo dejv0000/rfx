@@ -13,6 +13,33 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>결혼 축하해주러 왔다가 ‘날벼락’…연회장 천장 마감재 떨어져 10명 부상</title>
+      <link>https://www.chosun.com/national/incident/2025/05/10/KG5MK7RBK5ENXBUQYE4NTXE2GM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/05/10/KG5MK7RBK5ENXBUQYE4NTXE2GM/</guid>
+      <dc:creator>이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 10 May 2025 07:45:52 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CN6NBUBNLBDZFIGQ62TYE5FRLM.png"&gt;&lt;figcaption&gt;&lt;small&gt;10일 오후 1시 43분쯤 석고보드 재질의 천장마감재가 바닥으로 떨어진 충남 천안시 다가동의 한 웨딩홀 연회장. /충남 천안동남소방서&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;충남 천안의 한 웨딩홀 연회장에서 천장 마감재가 아래로 떨어져 10명이 다쳤다. &lt;br&gt;&lt;br&gt;10일 충남 천안동남소방서 등에 따르면 이날 오후 1시 43분쯤 충남 천안시 동남구 다가동의 한 웨딩홀 연회장 천장에서 석고보드 재질의 마감재가 바닥으로 떨어졌다. &lt;br&gt;&lt;br&gt;이 사고로 연회장에서 식사 중이던 하객 10명이 마감재에 머리와 허리 등을 맞아 다쳤다. 이 중 6명은 119 구급대에 의해 인근 병원으로 옮겨졌고, 4명은 자차로 이동한 것으로 파악됐다. 소방 당국은 이들을 경상으로 분류했다. &lt;br&gt;&lt;br&gt;경찰은 웨딩홀 관계자와 공사 업체 등을 상대로 자세한 사고 경위를 조사할 예정이다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>전농 ‘트랙터 상경 시위대’ 서울 길목서 경찰에 막혀...충돌은 없어</title>
+      <link>https://www.chosun.com/national/national_general/2025/05/10/77YQWQQCZVEWPJHXLW3SRCYBXM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/05/10/77YQWQQCZVEWPJHXLW3SRCYBXM/</guid>
+      <dc:creator>김병권 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 10 May 2025 07:18:46 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SRBWJ3WYG5ITPAFTBC2YB3KV2I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;10일 오후 서울 금천구 석수역 인근에서 전국농민회총연맹(전농) 산하 전봉준투쟁단이 서울 종로구 광화문 동십자각에서 진행 예정인 '내란농정 청산 농업대개혁 실현 범시민대회'에 참석하기 위해 트랙터 상경 시위를 하고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;트랙터를 이끌고 서울 도심 시위에 참석하기 위해 상경한 전국농민회총연맹(전농)이 서울 도로 진입을 불허한 경찰에 가로막혔다.&lt;br&gt;&lt;br&gt;전농 시위대 약 50여명은 트랙터 32대와 함께 이날 오전 경기 수원에서 출발해 경기 안양 등을 거쳐 오후 12시 10분쯤 서울 금천구에 진입했다.&lt;br&gt;&lt;br&gt;빗속에서 3개 차로를 이용해 저속 주행하던 트랙터 행렬은 금천구 기아대교 아래 도로에서 경찰 저지에 멈춰섰다. 앞서 경찰은 지난 8일 트랙터의 서울 도로 진입을 불허하는 ‘집회 제한 통고’를 내린 바 있다. 현재까지 시위대와 경찰 간 물리적 충돌은 없는 상황이다.&lt;br&gt;&lt;br&gt;서울경찰청은 이 일대에 기동대 20여 개 부대 1500명을 배치했다. 서울로 진입할 경우 주말 교통 혼잡이 예상되는 만큼 트랙터를 차단하겠다는 방침이다.&lt;br&gt;&lt;br&gt;경찰은 트랙터 대신 1t 트럭 20대의 서울 도로 진입은 허용했다. 지난 3월 상경 시위 때 법원 결정과 같은 것이다.&lt;br&gt;&lt;br&gt;하지만, 전농은 트랙터와 함께 상경하겠다는 방침이라 양측 간 대치는 이어질 것으로 보인다.&lt;br&gt;&lt;br&gt;시위대는 지난 7일부터 전남, 전북, 충남 등에서 상경길에 올랐다. 이들은 ‘농민헌법 쟁취’, ‘쌀 수입 중단’ 등을 촉구하고 있다. 당초 이들은 이날 오후 3시 서울 종로구 광화문에서 열리는 ‘내란농정 청산 농업대개혁 실현 범시민대회’에 참가할 계획이었다.&lt;br&gt;&lt;br&gt;이날 트랙터 행렬과 경찰의 대치로 일대에 교통 혼잡이 빚어졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>이천수‧심하은 딸, 美 존스홉킨스 영재 시험 합격</title>
+      <link>https://www.chosun.com/national/people/2025/05/10/XQP5ZFWG6VHTDA2UMRO674RMX4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/05/10/XQP5ZFWG6VHTDA2UMRO674RMX4/</guid>
+      <dc:creator>이가영 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 10 May 2025 05:19:43 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HT3BO6QMPFDURLWMRITQVWSSVE.png"&gt;&lt;figcaption&gt;&lt;small&gt;축구 국가대표 출신 이천수와 아내 심하은. /심하은 인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;축구 국가대표 출신 이천수와 방송인 심하은 부부의 딸이 미국 영재 교육 프로그램 테스트에 합격했다. &lt;br&gt;&lt;br&gt;심하은은 9일 자신의 소셜미디어를 통해 “우리 딸, 혹시나 하는 마음으로 준비 없이 제 실력으로 봐보자고 덤빈 시험에서 합격했다. 너의 꿈을 응원해”라며 미국 존스홉킨스 대학교에서 후원하는 영재 발굴 프로그램 CTY(Center for Talented Youth) 시험 합격 결과가 담긴 노트북 화면을 공개했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QUOXZZWVDZAJFDOND3CXJN5AA4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;심하은은 딸 주은 양이 미국 존스홉킨스대학교에서 후원하는 영재 발굴 프로그램 CTY 시험에 합격했다고 밝혔다. /심하은 인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이천수 역시 딸의 합격 소식을 전하며 “장하다 우리 딸! 정말 수고했고, 너의 노력을 아빠는 잘 알고 있어. 사랑하고 고생했어”라고 따뜻한 축하 메시지를 남겼다. 이어 “벌써 가고 싶은 전공과 대학을 정리하고 있다니. 아빠는 항상 기도하고 응원할게”라며 “요즘 유소년 선수들 지도하느라 신경 못 썼는데, 혼자서 잘해줘서 고맙다”고 했다. &lt;br&gt;&lt;br&gt;이천수는 2012년 심하은과 결혼해 슬하에 딸 주은양과 이란성 쌍둥이 태강군, 주율양을 두고 있다. &lt;br&gt;&lt;br&gt;1979년 존스홉킨스대에서 영재 양성 목적으로 만들어진 CTY 프로그램에 참여하기 위해서는 우선 CTY 시험에 합격해야 한다. 미국 내 전국 또는 주에서 상위 10% 학생들에게만 기회가 주어지는 시험으로, 이 시험에 합격한 학생은 세계에서도 5% 내에 속하는 우수한 학생으로 인정받는다. 마크 저커버그 메타 CEO, 구글 설립자 세르게이 브린이 CTY 멤버였다. &lt;br&gt;&lt;br&gt;CTY 시험을 통과하면 3주간 미국 현지에서 이뤄지는 여름 캠프에 참여할 수 있다. 초등학생부터 고등학생까지 참가한다. 학생들이 배울 수 있는 과목으로는 국제정치, 미국 역사, 리더십과 봉사, 에세이 쓰기, 수학, 천문학, 생물학, 화학 등이 있다. 국제적으로 우수한 학생들과 교류하고 미국 명문대 진학에 대한 다양한 정보도 얻을 수 있어 미국에서도 명성이 높은 것으로 전해졌다. 앞서 가수 장윤정과 방송인 도경완 부부의 아들도 CTY 시험에 합격했다고 밝혔다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>고속도로 방음벽 공사 비리 의혹…우제창 전 의원 구속</title>
       <link>https://www.chosun.com/national/incident/2025/05/10/OCN6OHQIXRGTHMBASRRPJRYXTA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/05/10/OCN6OHQIXRGTHMBASRRPJRYXTA/</guid>
@@ -822,24 +849,6 @@
       <content:encoded>오는 11일 서울 반포한강공원 잠수교에서 57대 1의 경쟁을 뚫은 80팀이 ‘멍때리기’ 승부를 겨눈다. 90분동안 아무것도 하지 않고 그저 멍한 상태를 유지하는 대회다.&lt;br&gt;&lt;br&gt;서울시는 이날 오후 4시 한강을 대표하는 행사 중 하나인 ‘2025 한강 멍때리기 대회’를 연다고 9일 밝혔다. 멍때리기 대회는 2016년 시작해 작년까지 총 1만9403팀이 참가를 신청했고, 총 497팀이 실제로 참가했다.&lt;br&gt;&lt;br&gt;올해엔 총 4547팀이 참가를 신청했고, 이중 80팀 128명이 선발돼 실제 대회에 나서게 됐다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FGPBBV3MUNKCD4TG3QACJ6DCFQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2024년 한강 멍때리기 대회./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대회 참가자는 90분동안 멍때리며 ‘기술 점수’와 ‘예술 점수’를 심사받게 된다. 기술 점수는 심박 측정기가 15분마다 측정한 심박수 그래프를 바탕으로 매긴다. 심박수 그래프가 안정적으로 유지되거나, 점차 하향 곡선을 나타내면 좋은 평가를 받게 된다.&lt;br&gt;&lt;br&gt;‘예술 점수’는 현장 시민 투표 점수다. ‘누가 가장 멍한 상태인가’ ‘얼마나 멋진 자세로 멍때리고 있는가’ 등을 시민들이 자체 평가해 투표하는 것이다.&lt;br&gt;&lt;br&gt;‘예술 점수’ 상위 10팀을 먼저 추리고, 이중 ‘기술 점수’가 높은 순으로 1~3등과 특별상 수상자를 가린다.&lt;br&gt;&lt;br&gt;10대부터 60대까지 참가자 연령대가 넓다. 군인과 구급대원, 환경공무관, 사회복지사, 기관사, 교도관 등 다양한 분야 종사자가 참가한다. 60대 양모씨는 “황혼 육아로 10년 동안 키운 손자와 딸이 다함께 참여해 추억을 남길 것”이라고 했다. 환경공무관인 40대 박모씨는 “아무도 없는 어두운 거리에서 바쁘게 일해왔는데, 이날만큼은 사람들과 어우러져 하루를 온전히 즐기고 싶다”고 했다.&lt;br&gt;&lt;br&gt;시민들은 행사장에서 자유롭게 대회를 관람할 수 있다. 오후 1시부터 밤 9시까지 ‘차 없는 잠수교 뚜벅뚜벅 축제’도 열려 플리마켓과 푸드트럭 등도 즐길 수 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>인천 계양구 민간 자원순환시설 불… 한때 ‘검은 연기’</title>
-      <link>https://www.chosun.com/national/incident/2025/05/09/UO5BHFG3ZRHUHKBLEMKNEOVWY4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/05/09/UO5BHFG3ZRHUHKBLEMKNEOVWY4/</guid>
-      <dc:creator>인천=이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 09 May 2025 02:16:13 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EDSGMTCZ4RH4NCHSBWVVRU5YLM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;9일 오전 9시 17분쯤 인천시 계양구 서운동의 한 민간 자원순환시설에서 불이나 출동한 소방관들이 진화작업을 벌이고 있다. /인천소방본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천 계양구의 한 민간 자원순환시설에서 불이 나 30여 분 만에 꺼졌다. &lt;br&gt;&lt;br&gt;9일 인천소방본부에 따르면 이날 오전 9시 17분쯤 인천시 계양구 서운동의 한 자원순환시설에서 화재가 발생했다. &lt;br&gt;&lt;br&gt;이 화재로 검은 연기가 치솟으며 소방 당국에 18건의 신고가 잇따라 접수됐다. &lt;br&gt;&lt;br&gt;인명 피해는 없는 것으로 파악됐다. &lt;br&gt;&lt;br&gt;계양구는 “폐기물 공장 화재로 다량의 연기가 발생하고 있으니, 추가 피해에 유의해달라”는 내용의 재난 문자를 보내기도 했다. &lt;br&gt;&lt;br&gt;소방 당국은 소방관 등 73명과 펌프차 등 26대의 장비를 투입해 오전 9시 48분쯤 불을 껐다. &lt;br&gt;&lt;br&gt;소방 당국은 정확한 화재 원인과 피해 규모 등을 조사할 예정이다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>경북 영덕 칠보산 임도서 엔진과열 추정 차량 화재…산불로 번지지 않아</title>
-      <link>https://www.chosun.com/national/regional/2025/05/09/SEEM2KMCRBA3VLEBJMEB2OVUXE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/05/09/SEEM2KMCRBA3VLEBJMEB2OVUXE/</guid>
-      <dc:creator>대구=노인호 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 09 May 2025 02:00:12 +0000</pubDate>
-      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/E65TV64QJBHB5ONTT4ARTSJFZY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;8일 오후 3시6분쯤 경북 영덕군 칠보산 임도를 오르던 5t 집게차에서 불이 나 소방관이 진화작업을 벌이고 있다. /경북소방본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;재선충 방제 작업을 마친 소나무를 실어 나르던 5t 집게차에서 엔진 과열로 추정되는 화재가 발생, 40여분 만에 진화됐다. 이날 불은 칠보산 임도에서 발생했지만, 산불로 번지지는 않았다. &lt;br&gt;&lt;br&gt;9일 경북소방본부에 따르면, 지난 8일 오후 3시 6분쯤 경북 영덕군 칠보산 임도를 올라가던 5t 집게차 엔진 부분에서 불이 났다. 소방 당국 관계자는 “재선충 방제 작업 이후 폐기물을 버린 뒤 다시 산으로 올라가다 화재가 난 것으로 보인다”고 말했다. 신고를 받고 출동한 소방 당국은 소방차 7대와 소방대원 10여명 등을 동원해 40여분 만에 진화에 성공했다. 이날 화재가 난 임도 바로 옆에는 소나무 등이 우거진 숲이 있었지만, 산불로 확산하지는 않았다. &lt;br&gt;&lt;br&gt;경찰과 소방 당국은 “정확한 화재 원인과 피해 규모는 조사 중”이라고 말했다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>‘내연 관계’ 납품 업자에게 뒷돈 받은 지역농협 간부...징역형 확정</title>
       <link>https://www.chosun.com/national/court_law/2025/05/09/5YKRRCZOZRBSBADEVD5I2XKV3M/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/05/09/5YKRRCZOZRBSBADEVD5I2XKV3M/</guid>
@@ -847,15 +856,6 @@
       <description/>
       <pubDate>Fri, 09 May 2025 01:58:18 +0000</pubDate>
       <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G4PBL2FPJZQWFNFXYQKDA3GEK4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 대법원 청사./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;납품 업자에게 수년간 명절 인사비 등 뒷돈을 받아 챙긴 혐의로 재판에 넘겨진 지역 농협 임원에게 실형이 확정됐다. 내연 관계인 업자에게 ‘데이트 비용’을 받았을 뿐이라고 주장했지만 법원은 직무와 관련한 돈이라고 판단했다.&lt;br&gt;&lt;br&gt;9일 법조계에 따르면 대법원 2부(주심 박영재 대법관)는 특정경제범죄 가중처벌법상 수재 혐의로 기소된 A씨에게 징역 3년 6개월과 벌금 1억2000만원, 추징금 5500만원을 선고한 원심을 지난달 확정했다. &lt;br&gt;&lt;br&gt;A씨는 농협 마트 점장으로 근무하던 2015년부터 2019년까지 식자재 납품 업자 B씨로부터 자신과 마트 직원들의 명절 인사비, 휴가 비용, 마트 직원의 임차보증금 명목으로 6000만여원을 수수한 혐의로 기소됐다. 마트에 명절 선물세트 가격을 부풀려 납품하게 하고 그 부풀린 금액과 마진을 돌려받는 등 방식으로 3억4000여만원을 챙긴 혐의도 받았다.&lt;br&gt;&lt;br&gt;재판 과정에서 A씨 측은 납품 업자 B씨와 내연 관계였다며 “데이트 비용 명목으로 월 50만~100만원씩 총 3000만~4000만원을 받았을 뿐 직무와 관련해 금품을 받은 건 아니다”라고 주장했다.&lt;br&gt;&lt;br&gt;특경법상 수재죄는 금융회사 임직원이 직무에 관해 금품을 받거나 부정한 청탁을 받고 제3자에게 금품을 공여하게 한 경우 등에 성립하는데, 연인에게 데이트 비용을 받은 것뿐이라 수재가 아니라는 주장을 편 것이다.&lt;br&gt;&lt;br&gt;법원은 이를 받아들이지 않았다. 1심은 A씨가 직무 관련해 약 6000만원을 받은 사실을 유죄로 인정하고 징역 4년에 벌금 1억2000만원, 5500만원 추징을 선고했다.&lt;br&gt;&lt;br&gt;‘연인 관계’였다는 주장에 대해 1심 재판부는 “단순한 연인 관계를 넘어 발주자와공급자 간의 관계가 결합된 특수한 관계였던 것으로 보인다”며 “연인 관계에서 통상 주고받거나 ‘데이트 비용’ 명목으로 사용할 수 있는 액수에 비해 과다하고, 시점이 명절이나 하계 휴가철 무렵으로 특정되는 점을 고려하면 직무 관련성이 없다고 보기 어렵다”고 했다.&lt;br&gt;&lt;br&gt;다만 돈을 받은 일시·장소를 특정할 수 없는 금액과 명절 선물세트 가격을 부풀려 납품받아 챙긴 일부 금액에 대해서는 무죄로 판단했다. &amp;nbsp;&lt;br&gt;&lt;br&gt;2심은 A씨가 직무 관련해 6000만원 이상을 받았다고 판단하고 다소 감형한 3년 6개월에 벌금 1억2000만원을 선고했다. 2심 재판부는 “금융기관 임직원의 청렴성과 직무집행 공정성에 대한 신뢰를 저버리는 등 죄책이 무겁고 납득하기 어려운 변명으로 일관하며 책임을 회피하고 있다”며 “다만 수사 개시 전 수수한 금품을 초과하는 7억5000만원을 반환한 점 등을 고려했다”고 양형 이유를 밝혔다. &lt;br&gt;&lt;br&gt;A씨가 상고했지만 대법원도 원심과 같이 판단해 상고를 기각했다. 대법원은 “특경법상 수재죄의 성립에 관한 법리를 오해한 잘못이 없다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>전국법관대표회의 김예영 의장 연임...부의장에 이호산 </title>
-      <link>https://www.chosun.com/national/court_law/2025/04/14/TE736R7R3BHTXAGBAC25TVWTMA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/04/14/TE736R7R3BHTXAGBAC25TVWTMA/</guid>
-      <dc:creator>김은경 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 14 Apr 2025 06:14:37 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LR5XWC3QCNND3A5YKHOMYZQLWY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;조희대 대법원장이 14일 경기도 고양시 사법연수원에서 열린 전국법관대표회의에서 인사말을 하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전국법관대표회의가 14일 사법연수원에서 정기회의를 열고 김예영(50·사법연수원 30기) 서울남부지법 부장판사를 의장으로 재선출했다. 김 부장판사는 작년에 이어 의장직을 1년 연임하게 됐다. &lt;br&gt;&lt;br&gt;서울대 법대 출신인 김 의장은 2001년 창원지법에서 판사를 시작해 서울중앙지법·서부지법 판사, 전주지법·서울중앙지법·동부지법 부장판사 등을 지냈다. 진보 성향 판사들 모임인 국제인권법연구회 창립회원이며 2017년 김명수 전 대법원장이 구성한 ‘사법제도 개혁을 위한 실무준비단’에서 활동했다.&lt;br&gt;&lt;br&gt;부의장에는 이호산(51·34기) 광주고법 고법판사가 선출됐다. 2005년 광주지법에서 임관해 서울중앙지법·북부지법 판사, 광주지방법원 부장판사 등을 지냈다.&lt;br&gt;&lt;br&gt;법관대표회의는 2018년 상설화된 회의체로, 4월 기준 전국 각급 법원의 대표 판사 126명으로 이뤄졌다. 사법행정 및 법관 독립에 대해 의견을 밝히거나 건의할 수 있고, 사법행정 담당자에게 설명을 요구할 권한이 있다. &lt;br&gt;&lt;br&gt;법관대표회의는 이날 의장단을 선출하고 이어진 회의에서 분과위원회 구성 등 향후 계획을 논의했다고 밝혔다. 또 법원행정처 담당자에게 지방권 고등법원의 배석판사 전보인사 및 올해 개통한 차세대전자소송 재판사무시스템에 관해 설명을 들었다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>주한미군 공사 255억 규모 입찰 담합... 하도급 업체 등 불구속 기소</title>
