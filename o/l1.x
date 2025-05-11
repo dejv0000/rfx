@@ -6,6 +6,34 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>[판결] 대법 "점유 상실하면 임차권 대항력도 상실"</title>
+			<description>임대차 보증금 반환과 관련해 임차인이 주택 점유를 상실했다면, 다시 임차권 등기가 되더라도 이전에 사라진 대항력을 되살릴 수 없다는 대법원 판단이 나왔다. 대법원 민사2부(주심&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="3751"&gt;권영준&amp;nbsp;&lt;/span&gt;대법관)는 서울보증보험 주식회사가 이모 씨를 상대로 제기한 임대차보증금 반환 청구 소송 상고심(&lt;b&gt;2024다326398&lt;/b&gt;)에서 원고 승소로 판결한 원심을 파기하고 사건을 서울중앙지법으로 4월 15일 돌려보냈다. &lt;br /&gt;&lt;b&gt;&lt;br /&gt;[사실관계]&lt;/b&gt;&lt;br /&gt;2017년, A 씨는 B 씨 소유의 주택을 보증금 9500만 원에 임차했다. A 씨는 이사 후 전입신고를 마쳤고, 임대차계약에 확정일자까지 받았다. 이 상태에서 B 씨는 2018년에 해당 주택에 6600만 원의 근저당권을 설정했다.&lt;p&gt;   &lt;br /&gt;B 씨는 임대차 계약이 끝났는데 A 씨에게 보증금을 돌려주지 않았다. A 씨는 미리 가입해 둔 임대차 보증금 반환 보험을 통해 서울보증보험 주식회사로부터 보험금을 받아냈고, 서울보증보험은 그 대가로 A 씨의 보증금 반환 청구권을 넘겨받았다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;서울보증보험은 B 씨에게 채권 양도 통지를 하고, 임차권 등기 명령을 신청해 임차권 등기를 마쳤다. 이후 서울보증보험은 강제 경매 절차를 신청했고, 피고 이 씨는 경매를 통해 해당 주택을 매수했다. 경매 배당에서 서울보증보험은 약 1270만 원을 받았지만, 피고 이 씨가 임대인의 지위를 승계했다며 나머지 임차보증금과 지연손해금 약 8200만 원을 청구하는 소송을 냈다.&lt;br /&gt;&lt;b&gt;&lt;br /&gt;[쟁점]&lt;/b&gt;&lt;br /&gt;쟁점은 임차인 A 씨는 2019년 4월 이 사건 주택에 관한 점유를 상실했는데, 이때 임차권의 대항력이 소멸했는지 여부였다.&lt;br /&gt;&lt;b&gt;&lt;br /&gt;[하급심 판단]&lt;/b&gt;&lt;br /&gt;1심과 항소심은 “피고가 임대인의 지위를 승계했으므로 특별한 사정이 없는 한 서울보증보험에 나머지 임대차 보증금과 지연손해금을 지급할 의무가 있다”며 원고 승소 판결했다. &lt;br /&gt;&lt;b&gt;&lt;br /&gt;[대법원 판단]&lt;/b&gt;&lt;br /&gt;대법원 판단은 달랐다. 대법원은 “주택임대차보호법에 따르면 임차인은 주택을 인도받고 주민등록을 마쳐야만 제3자에게 임대차 관계를 주장할 수 있는 ‘대항력’을 얻게 되는데, 이 대항력은 계약 중에도 계속 유지돼야 하며, 임차인이 주택 점유를 잃으면 대항력도 함께 사라진다”고 판단했다. 대법원은 “임차권 등기를 하면 다시 대항력과 우선 변제권을 얻을 수 있지만, 그것은 등기를 마친 시점부터 새로 생기는 것이지, 예전의 대항력이 소급해 되살아나는 건 아니다”며 “경매로 집을 산 사람은 주택임대차보호법에서 말하는 ‘임차 주택의 양수인’이 아니므로, 임차인은 새 주인인 매수인에게 과거의 임대차 관계를 주장할 수 없다”고 했다. 그러면서 “원심은 A 씨가 주택에 대한 점유를 상실한 시점이 언제인지 심리한 후 피고에게 임차권의 효력을 주장할 수 있는지 판단했어야 했다”며 “원심 판단에는 주택임대차보호법상 대항력에 관한 법리를 오해해 판결에 영향을 미친 잘못이 있다”고 했다.&lt;/p&gt;</description>
+			<pubDate>Sun, 11 May 2025 00:06:27 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/207898</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/207898</guid>
+			<dc:creator>안재명 기자</dc:creator>
+		</item>
+		<item>
+			<title>[판결] 교통사고로 3년 휴직한 교사…법원 "추가 질병휴직도 공무상으로 인정해야"</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/207918.jpg" alt="45647.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;《사진=어도비스톡》&lt;/figcaption&gt;   &lt;/figure&gt;&lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;퇴근길에 교통사고를 당해 3년간 공무상 요양승인을 받은 교사가 추가로 제출한 질병휴직 변경 신청과 휴직 기간 연장 신청을 교육청이 받아들여야 한다는 서울행정법원 판단이 나왔다. 서울행정법원 행정7부(재판장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="25939"&gt;이주영&amp;nbsp;&lt;/span&gt;수석부장판사)는 A 씨가 전북특별자치도교육감과 교원소청심사위원회를 상대로 낸 공무상 질병휴직 변경 신청 거부 처분 취소 소송에서 2월 27일 원고승소 판결했다(&lt;b&gt;2024구합50471&lt;/b&gt;).&lt;br /&gt;&lt;b&gt;&lt;br /&gt;[사실 관계]&lt;/b&gt;&lt;br /&gt;중학교 교사인 A 씨는 2015년 9월 퇴근길 교통사고로 상해와 외상 후 스트레스 장애(PTSD) 등을 입어 약 3년 간 공무상 질병휴직을 승인받았다. A 씨는 PTSD에 대한 추가 치료를 위해 휴직 기간 연장을 신청했다. 그러나 공무원연금공단은 2018년 12월 21일 치료 기간이 종료됐다며 승인하지 않았다. A 씨가 2019년 인사혁신처에 제기한 섬유근육통 증후군에 대한 추가상병 승인 신청도 거부됐다. A 씨는 공무원연금공단과 인사혁신처장의 불승인 처분에 대해 취소 소송을 제기해, 2021년 3월 PTSD로 인한 휴직 기간 연장과 섬유근육통 추가상병 인정을 승인받았다.&lt;br /&gt;&lt;br /&gt;이후 A 씨는 2021년 12월 추가상병으로 인정된 섬유근육통으로 인한 질병휴직을 공무상 질병휴직으로 변경해 줄 것을 신청했다. 2023년에는 PTSD 재발로 다시 질병휴직을 하게 되며 공무상 질병휴직으로의 변경 신청과 질병휴직 연장 신청을 제기했다. &lt;br /&gt;&lt;br /&gt;교육청은 A 씨의 3차례 신청 모두 거부했다. A 씨가 이미 공무상 질병휴직 기간인 3년을 모두 사용했고, 새로운 질병휴직은 공무상 질병휴직으로 변경할 수 없다는 이유에서였다. A 씨는 이에 불복해 2023년 8월 교원소청심사위원회에 교육청의 처분 취소를 구하는 소청 심사를 제기했다. 하지만 위원회는 제소기간이 지났다는 이유로 기각했다. A 씨는 소송을 냈다.&lt;br /&gt;&lt;b&gt;&lt;br /&gt;[법원 판단]&lt;/b&gt;&lt;br /&gt;서울행정법원은 교육청의 거부 처분이 부적법하다고 판단했다. 재판부는 “2021년 12월 31일 A 씨가 공무상 질병휴직 변경 신청한 부분은 행정심판 청구기간이 도과해 각하한다”면서도 “이후 PTSD 재발로 인한 A 씨의 공무상 질병휴직 변경 신청, 질병휴직 연장 신청을 교육청과 위원회가 거부한 명확한 사유를 인정할 수 없어 인용돼야 한다”고 판결했다.&lt;br /&gt;&lt;br /&gt;이어 “공무원임용령은 공무상 질병휴직으로 변경될 수 있는 질병휴직의 종류를 따로 제한하지 않고 있다”며 “질병 재발로 인한 새로운 휴직도 공무상 질병휴직으로의 변경 대상에 포함된다”고 했다. 그러면서 “섬유근육통과 PTSD 재발로 인한 질병휴직은 공무원 임용규칙 제58조 제2항에 따른 새로운 질병휴직이므로, 최초 공무상 질병휴직 기간과 합산해서는 안 된다”고 밝혔다.&amp;nbsp;&lt;br /&gt;</description>
+			<pubDate>Sun, 11 May 2025 00:06:23 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/207918</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/207918</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/207918.jpg</media:thumbnail>
+			<dc:creator>서하연 기자</dc:creator>
+		</item>
+		<item>
+			<title>【오늘의 국회일정】 2025년 5월 11일</title>
+			<description>&lt;b&gt;◇국회의장&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;11:00 제131주년 동학농민혁명기념식(정읍 동학농민혁명기념관)&lt;br /&gt;&lt;br /&gt;&lt;b&gt;◇소통관 기자회견&lt;br /&gt;&lt;/b&gt;&lt;br /&gt;13:20 김현 의원, [더불어민주당 팩트체크넷 민주파출소 일일 브리핑]&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;b&gt;&lt;span style="font-size: 14px;"&gt;※ 상기 일정은 사정에 따라 변경될 수 있습니다.&lt;/span&gt;&lt;/b&gt;</description>
+			<pubDate>Sat, 10 May 2025 22:38:51 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/207926</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/207926</guid>
+			<dc:creator>인터넷 기자</dc:creator>
+		</item>
+		<item>
 			<title>(금주 법조계 주요일정) 5월 12 ~ 5월 16일</title>
 			<description>&lt;b&gt;△12일(월)&lt;/b&gt;&lt;br /&gt;-서울중앙지법, '특정범죄가중처벌등에관한법률위반(뇌물) 등 혐의' 유동규 전 성남도시개발공사 본부장 외 4명 180차 공판(오전 10시)&lt;br /&gt;-서울남부지법, '특수공무집행방해 등 혐의' 황교안 전 총리 외 26명 자유한국당 패스트트랙 사건 공판(오전 10시)&lt;br /&gt;-서울중앙지법, '내란우두머리 등 혐의' 윤석열 전 대통령 3차 공판(오전 10시15분)&lt;br /&gt;-대법원 양형위원회 제138차 회의(오전 10시25분, 1601호 중회의실)&lt;br /&gt;-서울남부지법, '정치자금법위반방조 등 혐의' 이모 씨 외 3명 공판(오전 10시40분)&lt;br /&gt;-서울중앙지법, '산업기술의유츌방지및보호에관한법률위반 등 혐의' 최진석 전 삼성·하이닉스 임원 외 2명 9차 공판(오후 2시)&lt;br /&gt;-대한변호사협회·대한상공회의소·유엔글로벌콤팩트(UNGC) 한국협회, '기업과 인권' 컨퍼런스(오후 2시, 서울 중구 소공동 대한상공회의소 회관 지하 2층 의원회의실)&lt;br /&gt;&lt;b&gt;&lt;br /&gt;△13일(화)&lt;/b&gt;&lt;br /&gt;-서울중앙지법, '부정경쟁방지및영업비밀보호에관한법률위반(영업비밀국외누설등) 등 혐의' 이동호 전 삼성디스플레이 출원그룹장 외 5명 삼성전자 25차 공판(오전 10시)&lt;br /&gt;-서울중앙지법, '특정경제범죄가중처벌등에관한법률위반(사기) 등 혐의' 이모 씨 외 2명 21차 공판(오전 10시30분)&lt;br /&gt;-서울중앙지법, '특정경제범죄가중처벌등에관한법률위반(배임) 등 혐의' 구영배 큐텐 대표 외 9명 3차 공판(오후 2시)&lt;br /&gt;-한국법제연구원, '한-몽 법제교류 성과와 전망' 2025 K-Law 포럼(오후 2시, 몽골 울란바토르 몽골국립대학교 도서관 학술회의장)&lt;br /&gt;-법무법인 율촌, '글로벌 소프트웨어 공급망 관리·규제 동향과 기업의 대응방안' 세미나(오후 2시, 온라인 ZOOM)&lt;br /&gt;-서울남부지법, '특정경제범죄가중처벌등에관한법률위반(배임) 등 혐의' 김우동 조광ILI 대표(오후 2시40분)&lt;br /&gt;-서울중앙지법, '사기 등 혐의' 최모 씨 외 46명 7차 공판(오후 3시)&lt;br /&gt;-법무법인 지평·인도 로펌 Khaitan &amp; Co, '인도 진출 전략 및 분쟁 대응' 세미나(오후 3시, 서울 중구 회현동 그랜드센트럴 B동 3층 오디토리움)&lt;br /&gt;&lt;b&gt;&lt;br /&gt;△14일(수)&lt;/b&gt;&lt;br /&gt;-서울중앙지법, '노동조합및노동관계조정법위반 등 혐의' 허영인 SPC 회장 외 18명 47차 공판(오전 10시)&lt;br /&gt;-서울중앙지법, '내란중요임무종사 등 혐의' 김용현 전 국방부장관 외 2명 6차 공판(오전 10시)&lt;br /&gt;-서울남부지법, '자본시장과금융투자업에관한법률위반 등 혐의' 윤모 씨 외 24명 영풍제지 주가조작 사건 공판(오후 2시)&lt;br /&gt;-법무법인 세종·고려대학교 기술법정책센터 마이데이터 &amp; AI포럼, 'AI와 마이데이터의 현재와 미래' 세미나(오후 2시 30분, 서울 종로구 청진동 디타워 23층 세미나실)&lt;br /&gt;-서울고법, '정치자금법위반 등 혐의' 이성만 전 의원 공판(오후 2시40분)&lt;br /&gt;-서울고법, '특정경제범죄가중처벌등에관한법률위반(수재)등 혐의' 박영수 전 특검 공판(오후 3시)&lt;br /&gt;&lt;b&gt;&lt;br /&gt;△15일(목)&lt;/b&gt;&lt;br /&gt;-대법원 1부 선고(오전 10시)&lt;br /&gt;-대법원 2부 선고(오전 10시)&lt;br /&gt;-서울중앙지법, '특정경제범죄가중처벌등에관한법률위반 (사기) 등 혐의' 김현재 케이삼흥 회장 외 4명 6차 공판(오전 10시)&lt;br /&gt;-서울남부지법, '자본시장과금융투자업에관한법률위반 등 혐의' 신현성 전 차이코퍼레이션 총괄대표 외 8명 루나·테라코인 사건 공판(오전 10시)&lt;br /&gt;-대법원 3부 선고(오전 11시)&lt;br /&gt;-대한변호사협회, '좋은 변호사 되는 법 강의'(오후 7시, 서울 서초구 서초동 대한변호사협회 변호사연수원)&lt;br /&gt;-대한변호사협회, '변호사 브랜딩을 위한 스토리텔링' 웨비나 (오후 7시)&lt;br /&gt;&lt;b&gt;&lt;br /&gt;△16일(금)&lt;/b&gt;&lt;br /&gt;-서울고법, '상관명예훼손 등 혐의' 박정훈 대령 공판(오전 10시)&lt;br /&gt;-서울중앙지법, '특정범죄가중처벌등에관한법률위반(뇌물) 등 혐의' 유동규 전 성남도시개발공사 본부장 외 4명 181차 공판(오전 10시)&lt;br /&gt;-서울중앙지법, '직권남용권리행사방해 등 혐의' 서훈 전 국가안보실장 외 4명 54차 공판(오전 10시)&lt;br /&gt;-서울남부지법, 신한은행-라임자산운용 '라임사태 손해배상청구소송' 선고(오전 10시)&lt;br /&gt;-서울남부지법, '자본시장과금융투자업에관한법률위반 혐의' 배재현 전 카카오 투자통괄대표 공판(오전 10시10분)&lt;br /&gt;-서울고법, '특정경제범죄가중처벌등에관한법률위반(사기) 등 혐의' 서모 씨 외 5명 3600억대 다단계 사기 사건 선고(오후 2시)&lt;br /&gt;-서울남부지법, '자본시장과금융투자업에관한법률위반 등 혐의' 강종현 외 5명 빗썸 관계사 주가조작·횡령 사건 공판(오후 2시)&lt;br /&gt;&lt;b&gt;&lt;br /&gt;△17일(토)&lt;/b&gt;&lt;br /&gt;-대한변호사협회, '보전처분' 특별연수 (오전 9시 30분, 서울 서초구 서초동 대한변호사협회 변호사연수원)</description>
 			<pubDate>Sat, 10 May 2025 22:08:52 -0000</pubDate>
@@ -212,34 +240,6 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/207893</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/207893.jpg</media:thumbnail>
 			<dc:creator>조한주 기자</dc:creator>
-		</item>
-		<item>
-			<title>법무부, 만델라 소년학교 소년수형자 검정고시 3회 연속 전원합격</title>
-			<description>법무부 소년수형자 전담 교정시설인 '만델라 소년학교'의 소년수형자들이 3회 연속 응시자 전원 검정고시에 합격했다.&lt;br /&gt;&lt;br /&gt;법무부는 지난 4월 5일 치러진 2025년도 제1회 검정고시에 소년수형자 전담 교정시설인 '만델라 소년학교' 소년수형자 25명이 응시해 전원 합격했다고 5월 8일 밝혔다. 2024년 제1회 26명, 제2회 32명, 2025년 제1회 25명 등 총 83명이 응시했는데 모두 합격한 것이다.&lt;br /&gt;&lt;br /&gt;만델라 소년학교는 서울남부교도소에서 2023년 3월부터 운영 중인 소년수형자 전담 교정시설이다. 17세 이하 소년수형자를 대상으로 검정고시 준비를 비롯한 필수 교육과 인성 함양을 위한 맞춤형 교육과정을 운영하고 있다.&lt;br /&gt;&lt;br /&gt;이번 고등학교 졸업 학력 검정고시에서 평균 94점을 받은 만델라 소년학교의 조모 군은 “반성하며 이 시간을 헛되이 보내지 않기 위해 열심히 공부하고 있다”며 “장래 희망과 인생의 목표가 생겼다”고 소감을 밝혔다.&lt;br /&gt;&lt;br /&gt;한편 이번 검정고시에는 전국 48개 교정시설 수형자 330명이 응시해 총 261명이 합격했다. 초등학교 졸업 학력 검정고시 4명, 중학교 졸업 33명, 고등학교 졸업 224명이었다. 합격률은 79.1%로, 2024년 대비 7.3%포인트 상승했다.&lt;br /&gt;&lt;br /&gt;법무부 관계자는 “수형자 대상 학력 취득을 비롯한 다양한 교육 프로그램을 강화해, 출소 후 우리 사회에 안정적으로 정착할 수 있도록 노력하겠다”고 밝혔다.</description>
-			<pubDate>Fri, 09 May 2025 13:24:41 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/207908</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/207908</guid>
-			<dc:creator>김종완 기자</dc:creator>
-		</item>
-		<item>
-			<title>한변, 방탄 입법의 위헌성 제기하는 세미나 개최</title>
-			<description>한반도인권과통일을위한변호사모임(회장 이재원)은 5월 12일 오전 10시 서울 서초구 서초동 서울지방변호사회 5층 정의실에서 '헌법 제84조와 형사재판의 계속'을 주제로 세미나를 개최한다.&lt;br /&gt;&lt;br /&gt;이 세미나는 헌법 제84조에 대한 해석과 더불어민주당의 연이은 입법의 위헌성을 제기하고자 마련됐다. 한변은 "최근 대통령이 된 자에 대한 재판의 계속 여부를 입법으로 저지할 수 있는지에 대한 법적 논의가 이어지고 있다"며 "이재명 후보만을 위한 방탄식의 입법폭거가 대한민국의 법치와 민주주의에 심각한 위협을 가하고 있다"고 밝혔다.&lt;br /&gt;&lt;br /&gt;발제는 장영수 고려대 로스쿨 교수가 맡는다. &lt;br /&gt;&lt;br /&gt;이어지는 토론에는 황도수 건국대 교수,&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="7585"&gt;이충상&lt;/span&gt;(68·사법연수원 14기) 변호사, 양은경 조선일보 기자 등이 참여할 계획이다.</description>
-			<pubDate>Fri, 09 May 2025 13:24:24 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/207909</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/207909</guid>
-			<dc:creator>서하연 기자</dc:creator>
-		</item>
-		<item>
-			<title>법원 '국민의힘 전당대회 금지·후보확인' 가처분 모두 기각</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/207913.jpg" alt="3453636.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;김문수 국민의힘 대선 후보 《사진=연합뉴스》&lt;/figcaption&gt;   &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;김문수 국민의힘 대선 후보가 자신의 후보자 지위를 인정해달라며 낸 가처분 신청을 법원이 받아들이지 않았다. 전당대회 개최를 금지해 달라는 가처분 신청 또한 기각됐다.&lt;br /&gt;&lt;br /&gt;서울남부지법 민사51부(재판장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="3780"&gt;권성수&amp;nbsp;&lt;/span&gt;수석부장판사)는 김 후보가 당을 상대로 낸 대통령후보자 지위 인정 가처분 신청을 5월 9일 기각했다(&lt;b&gt;2025카합1200&lt;/b&gt;).&lt;br /&gt;&lt;br /&gt;법원은 김 후보를 지지하는 원외 당협위원장 8명이 국민의힘 지도부를 상대로 전당대회·전국위원회 개최 중단을 요구하며 낸 가처분 신청도 받아들이지 않았다.&lt;br /&gt;&lt;br /&gt;이에 따라 국민의힘은 대선 후보자 등 안건을 논의할 전당대회 개최 자체는 열 수 있게 됐다.&lt;br /&gt;&lt;br /&gt;앞서 당 지도부는 김 후보와 무소속 한덕수 예비후보 간 단일화 가능성을 염두에 두고 전국위원회를 8일 또는 9일, 전당대회를 10일 또는 11일 소집한다는 공고를 냈다.&lt;br /&gt;&lt;br /&gt;김 후보 측은 '후보 교체를 위한 전당대회 소집'이라며 반발했고, 8일 후보자 지위 확인 가처분 신청을 냈다.</description>
-			<pubDate>Fri, 09 May 2025 13:23:24 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/207913</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/207913</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/207913.jpg</media:thumbnail>
-			<dc:creator>안재명 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
