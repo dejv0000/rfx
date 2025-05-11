@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>“글 보면 꽃 본 나비된 느낌”…검정고시 최고령 합격 92세 박경자씨 </title>
+      <link>https://www.chosun.com/national/people/2025/05/11/CYGAZR36LZGDTOCWXI6I3TRVGA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/05/11/CYGAZR36LZGDTOCWXI6I3TRVGA/</guid>
+      <dc:creator>부산=박주영 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 11 May 2025 08:46:47 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XO3GQRFLA5F67HJTFZXU55YPZU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산시교육청의 2025년도 제1회 초중고 학력 검정고시에서 역대 최고령으로 합격한 박경자(92)씨. 사진은 박씨가 지난 2022년 한 복지관 글쓰기 대회에서 상을 타고 나서 기념 촬영을 하고 있는 모습이다./박경자씨&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“글이 너무 좋다. 글을 보면 꽃을 본 나비처럼 훨훨 날아가는 것 같다.” &lt;br&gt;&lt;br&gt;부산시교육청이 지난달 치른 2025년도 초중고 학력 검정고시에서 90대 할머니가 합격했다. 초등학교 부문의 박경자(92·부산 해운대구 반송동)씨다. 부산 지역 검정고시 역사상 최고령 합격자다. 부산시교육청 관계자는 “올해 전국 검정고시 합격자 중에서도 최고령일 것으로 추정된다”고 말했다. &lt;br&gt;&lt;br&gt;박씨는 5년 전부터 한글 공부를 시작했다. 일제강점기 국민학교 3학년을 다니다 중퇴한 게 한이 맺혀서다. &lt;br&gt;&lt;br&gt;박씨는 어린 동생들을 뒷바라지하다 전남 신안군 흑산도에서 결혼했다. 해녀로 물질을 하며 살았다. 이후 부산 영도로 이사했다. 조선소 ‘깡깡이(낡은 배의 철판을 망치로 내리쳐 녹을 제거하는 작업)’ 아줌마 등을 하며 아이들을 키웠다. 박씨는 “평생 직업이 16가지가 넘었다”고 했다. 9년 전, 15년 전쯤 두 아들을 먼저 하늘나라로 보냈다. &lt;br&gt;&lt;br&gt;동네 복지관의 한글 교실을 다니면서 인생이 달라졌다고 한다. 박씨는 “길거리 간판과 식당 메뉴판, 버스 노선도를 읽을 수 있게 됐다”며 “갑자기 내 눈앞에 새로운 세상이 펼쳐진 느낌이었다”고 했다. 그는 “앞서 간 아들들한테 편지를 쓰면서 가슴 속 한편에 남은 응어리도 조금씩 녹아내렸다”고 말했다.&lt;br&gt;&lt;br&gt;박씨는 지난해 검정고시에 처음 응시했다가 낙방했다. 이번에 재수한 끝에 성공했다. 그는 “퇴행성 관절염 때문에 오래 걷지 못하고, 들어도 금방 까먹지만 사브작 사브작 마실 가듯 복지관에 들러 한글 배우고 사람들 만나는 게 너무 좋다”고 말했다. 박씨는 복지관에서 연 시화전에 ‘글이 너무 좋다’는 제목의 작품을 냈다. ‘나는 지금 행복을 찾았다. 내가 걸을 수 있을 때까지 글을 배우고 싶다. 내가 좋아하는 글…’이라고 썼다. 그는 “내가 살아온 인생을 시로 표현해보는 게 남은 꿈”이라고 말했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>“성심당서 샌드위치 146개 주문”…사기인 줄 알았는데 깜짝 반전</title>
       <link>https://www.chosun.com/national/national_general/2025/05/11/XIPPRSORUNGZDPEQYILWN3KETM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/05/11/XIPPRSORUNGZDPEQYILWN3KETM/</guid>
@@ -942,15 +951,6 @@
 &lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani12.gif"&gt;	&amp;nbsp;	35년생 돈 줄줄 샐 수 있으니 지갑 관리 철저히. 47년생 타인의 능력 활용할 줄 알아야. 59년생 정상 밟고자 한다면 겸양과 동반하라. 71년생 감당 어려운 상황 전개될 수도. 83년생 우레처럼 만나고 번개처럼 헤어진다. 95년생 주변 여론 하나하나 신경 쓰지 마라.	&lt;br&gt;
 &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;한소평 금오산방 강주  &lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;			&lt;/p&gt;</content:encoded>
       <media:content url="https://www.chosun.com/resizer/v2/4MTFRYWHBJA7XOKKF7G7JPLX5U.png?auth=4651b5b20b5d4901424204d1456faee02e4b064ff509db23945deabf4404c8ef&amp;smart=true&amp;width=800&amp;height=420" type="image/png" height="420" width="800"/>
-    </item>
-    <item>
-      <title>반려견 찾으러 수락산 올랐던 80대, 실종 하루만에 숨진채 발견</title>
-      <link>https://www.chosun.com/national/national_general/2025/05/09/EPPL27YZXZBRDGAO3FMVV4XHXM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/05/09/EPPL27YZXZBRDGAO3FMVV4XHXM/</guid>
-      <dc:creator>김명일 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 09 May 2025 07:42:51 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/X4WX55AXSBGOJAEPHUXGIU3CIA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 관련 이미지. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;사라진 반려견을 찾기 위해 수락산에 올라갔던 80대 남성이 실종 하루 만에 숨진 채 발견됐다. &lt;br&gt;&lt;br&gt;9일 소방당국과 경찰에 따르면 전날 오후 5시쯤 경기 남양주시에서 80대 남성 A씨가 실종됐다는 가족의 신고가 접수됐다. &lt;br&gt;&lt;br&gt;A씨는 당시 집에서 키우던 반려견을 찾기 위해 수락산에 올라갔으나 이후 연락이 되지 않아 가족이 신고한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰과 소방 당국은 당일 심야까지 수락산 일대를 수색했지만 결국 A씨를 발견하지 못했다.&lt;br&gt;&lt;br&gt;수색 작업은 다음 날인 9일 새벽부터 재개됐고, 오전 8시쯤 구조견이 A씨를 발견했지만 이미 사망한 상태였다.&lt;br&gt;&lt;br&gt;경찰은 A씨가 실족 사고를 당했을 가능성이 큰 것으로 보고 정확한 사망 경위를 조사하고 있다.&lt;br&gt;&lt;br&gt;소방당국 관계자는 조선닷컴에 “A씨에게 찰과상이 있었고, 저지대에서 발견돼 실족 사고로 추정을 하고 있는 것”이라고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>“새 교황, 방한 때 자동차 대신 전철 타... 삼촌 같은 분” 한국 신부의 회상</title>
