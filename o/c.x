@@ -13,6 +13,25 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>대법원서 “조희대 사퇴” 기습 시위 대진연 4명, 구속영장 기각</title>
+      <link>https://www.chosun.com/national/court_law/2025/05/12/PMNI4W4C7ZG4FKKVS3VUOFALMA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/05/12/PMNI4W4C7ZG4FKKVS3VUOFALMA/</guid>
+      <dc:creator>방극렬 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 12 May 2025 12:55:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OQZSLMXYDFF7FN353GOAMI2QYQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;9일 서울 서초구 대법원 청사에서 한국대학생진보연합 회원들이 기습 시위를 벌여 관리 직원들이 제지하고 있다. /유튜브 '대진연 TV'
+&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대법원에서 조희대 대법원장의 사퇴를 촉구하는 기습 시위를 벌인 한국대학생진보연합(대진연) 회원 4명에 대한 구속영장이 12일 기각됐다.&lt;br&gt;&lt;br&gt;남세진 서울중앙지법 영장전담 부장판사는 이날 경찰이 폭력행위처벌법 위반(공동주거침입) 혐의로 구속영장을 신청한 대진연 회원 류모씨 등 4명에 대한 영장실질심사를 진행한 후 “도망할 염려와 증거인멸 우려가 낮아 구속의 사유와 상당성을 인정하기 어렵다”며 전원 기각했다.&lt;br&gt;&lt;br&gt;남 부장판사는 류씨 등에 대해 “침입한 장소, 범행 방법의 계획성에 비추어 죄질이 가볍지 않다”며 “유사 전력이 있는데도 또다시 범행에 이른 점은 인정된다”고 봤다.&lt;br&gt;&lt;br&gt;다만 “(범행 당시) 침입 상황과 피해 정도, 주거가 일정한 점 등에 비춰 도망할 염려는 낮아 보인다”며 “범행 자체에 대한 증거도 대부분 확보돼 증거인멸 우려도 낮다”고 밝혔다.&lt;br&gt;&lt;br&gt;류씨 등은 지난 9일 오후 1시쯤 서울 서초구 대법원 청사 1층에서 “조희대는 사퇴하라” 등의 구호를 외치며 건물 안으로 진입하려다 관리자들에게 제지됐다. 이들은 경찰에 연행된 후에도 경찰차나 경찰서 안에서도 “조희대는 사퇴하라”를 외치며 소셜미디어로 실시간 방송을 이어간 것으로 전해졌다. &lt;br&gt;&lt;br&gt;대진연은 대법원이 이재명 더불어민주당 대선 후보의 공직선거법 위반 사건 상고심을 유죄 취지로 파기환송한 것에 반발해 이 같은 시위를 벌였다. 대진연은 지난 3일 “대법원 판결은 명백한 대선 개입”이라며 “이 후보에 대한 흠집 내기를 시도해 대통령 후보 자리에서 끌어내리려는 수작질”이라고 주장했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“남산 가릴라”... 용산 한강맨션 재건축, 최고 층수 68→59층 추진</title>
+      <link>https://www.chosun.com/national/national_general/2025/05/12/WO7YGTWH3RGVLBLVSQ5SD3CZ5E/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/05/12/WO7YGTWH3RGVLBLVSQ5SD3CZ5E/</guid>
+      <dc:creator>최연진 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 12 May 2025 11:44:49 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FZHDGYEUPTQ7XUW7YXQNZJ2AFA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 용산구 동부이촌동 한강맨션의 모습./조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 용산구 이촌동 한강맨션 아파트가 최고 59층 1685가구 단지로 재건축될 전망이다.&lt;br&gt;&lt;br&gt;용산구는 이 같은 내용의 ‘한강맨션 재건축 정비구역 및 정비계획 변경안’에 대해 주민 공람을 진행한다고 12일 밝혔다. 23일에는 주민 설명회도 연다. 서울시의 재건축 심의를 앞두고 사업의 청사진을 공개하는 절차다. &lt;br&gt;&lt;br&gt;재건축 조합은 당초 최고 68층 높이로 재건축을 추진했으나, 서울시 도시계획위원회의 사전 자문 절차를 거치며 층수를 59층으로 낮췄다. 서울시 관계자는 “68층으로 지으면 아파트가 남산을 가릴 수 있다는 지적이 나왔다”고 했다. 현재 이촌동에서 가장 높은 아파트는 최고 56층인 래미안 첼리투스다. 용산구 관계자는 “한강맨션이 재건축되면 이촌동 일대의 스카이라인이 바뀌게 될 것”이라고 했다.&lt;br&gt;&lt;br&gt;한강맨션은 54년 전인 1971년 준공된 저층 아파트 단지다. 5층짜리 23동 660가구 규모다. 이촌동 재건축 단지 중 가장 크다. 준공 당시 대한주택공사(현 LH)가 중산층을 겨냥해 지은 첫 고급 아파트였다. 32평형 이상 대형 평형의 경우 부엌 옆에 약 2평 크기의 작은 방이 딸려 있었다. 당시 ‘가정부실’ ‘식모방’ 등으로 불렸다. 배우 강부자씨가 1호 계약자였다. 국내 최초로 모델하우스를 지어 선분양한 아파트 단지로도 유명하다. 이촌한강공원과 가깝고 남산과 한강을 동시에 조망할 수 있다. 지난 3월 103㎡(약 31평) 아파트의 실거래가가 44억원을 넘었다.&lt;br&gt;&lt;br&gt;이번 변경안에 따르면, 단지 안에서 이촌한강공원으로 이어지는 녹지 산책로를 조성한다. 한강에서 볼 때 남산을 가리지 않도록 동과 동 사이에 통경축(개방감을 주는 열린 공간)을 확보한다. 기부채납으로 단지 안에 공공 청사 건물을 지을 계획이다. 용산구는 여기에 이촌동 주민센터를 이전할 것이라고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>文측 “검찰, 예단 심으려 공소사실 다른 조현옥 재판과 병합 요청”</title>
       <link>https://www.chosun.com/national/court_law/2025/05/12/2ZQI7UMKLBEW5FLYZWDKXHWT64/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/05/12/2ZQI7UMKLBEW5FLYZWDKXHWT64/</guid>
@@ -616,24 +635,6 @@
       <description/>
       <pubDate>Sun, 11 May 2025 15:54:00 +0000</pubDate>
       <content:encoded>“내일 저녁에 트로트 가수 송가인 팬클럽 회식이 있는데 44인분 예약 가능할까요?”&lt;br&gt;&lt;br&gt;서울 강남구에서 삼계탕집을 운영하는 유장영(42)씨는 지난 5일 ‘트로트 퀸’ 송가인의 매니저라고 밝힌 사람에게 문자 메시지를 받았다. 그는 송가인 소속사 ‘제이지스타’의 로고가 박힌 명함도 함께 보냈다. 유씨는 의심하지 않고 식사를 준비했다.&lt;br&gt;&lt;br&gt;예약 당일인 6일 유씨는 또 다른 요청을 받았다. 팬클럽 회원이라는 다른 여성이 전화로 “송가인이 좋아하는 포도주 2병을 대신 사서 비치해 달라”고 했다. 병당 수백만~수천만원 하는 고급 프랑스 와인 ‘샤토 페트뤼스’와 ‘라 타슈’였다. 수상하다고 생각한 유씨가 소속사에 전화를 걸어 확인했더니 “팬클럽 모임을 예약한 적이 없다”는 답변을 받았다. ‘자칭’ 송가인 매니저와 팬클럽 회원은 그 직후 연락이 끊겼다. 그러나 삼계탕을 준비한 뒤였다. 유씨는 “준비해 놓은 음식이 400만원은 되는데 누가 보상해 주느냐”고 했다.&lt;br&gt;&lt;br&gt;대구 중구에서 찜갈비집을 운영하는 문모(58)씨도 지난 6일 오후 송가인 팬클럽 회식 예약을 받은 뒤 고급 와인 대리 구매 요청을 받았다. 문씨는 “나중에 음식값과 함께 줄 테니, 와인값을 미리 결제해 달라”는 부탁에 와인 업자라고 안내받은 계좌에 500만원을 송금하기도 했다. 문씨는 준비한 음식값까지 700만원을 피해 봤다.&lt;br&gt;&lt;br&gt;송가인의 매니저를 사칭한 사기 피해가 전국에서 속출하자 경찰이 수사에 나섰다. 경찰 관계자는 “최근 송가인 같은 유명인 회식 등을 사칭해 단체 주문을 넣은 뒤 연락을 끊는 이른바 ‘노쇼(no show)’ 사기 피해가 급증하고 있다”며 “대량 주문이 있을 땐 예약금을 받거나 전화번호를 더 확인해야 한다”고 했다. 송가인 소속사 측도 “경찰 수사에 적극 협조할 예정”이라며 “우리는 식당 예약을 할 때 자영업자들에게 술 대리 구매를 요청하지 않는다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>미혼 10명 중 6명 “결혼 생각 있다”… 3년새 11%p 증가</title>
-      <link>https://www.chosun.com/national/welfare-medical/2025/05/12/PFIH42H7TFHY5EVNZX7YPYDMZY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/05/12/PFIH42H7TFHY5EVNZX7YPYDMZY/</guid>
-      <dc:creator>곽래건 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 11 May 2025 15:54:00 +0000</pubDate>
-      <content:encoded>혼인 연령층에서 ‘결혼할 생각이 있다’는 응답 비율이 60%를 넘어선 것으로 조사됐다.&lt;br&gt;&lt;br&gt;11일 한국보건사회연구원 ‘2024 가족과 출산 조사’ 보고서에 따르면, 지난해 8~11월 조사한 19~49세 성인 1만4372명 중 결혼하지 않은 상태인 응답자(7861명)의 62.2%가 ‘결혼할 생각이 있다’고 답했다. 직전 2021년 조사에서 ‘결혼할 생각이 있다’는 응답이 50.8%였는데, 3년 만에 11.4%포인트 올라간 것이다.&lt;br&gt;&lt;br&gt;이처럼 결혼 의향이 있다고 답한 사람 외에 ‘결혼 생각이 과거에도, 현재도 없다’는 답은 2021년 11.9%에서 지난해 6.7%로 5.2%포인트 줄었다. ‘결혼 여부를 아직 결정하지 못했다’는 답 역시 같은 기간 23.9%에서 19.4%로 4.5%포인트 낮아졌다. &lt;br&gt;&lt;br&gt;비혼 응답자 가운데 25.8%는 ‘현재 교제 상대가 있다’고 했는데, 이 중 51.4%는 ‘지금 사귀고 있는 사람과 결혼할 의향이 있다’고 했다. 34.6%는 ‘(지금은) 모르겠다’고, 14%는 ‘결혼할 의향이 없다’고 했다. 일단 사귀는 사람이 있다면 절반 이상은 결혼 의향을 갖게 된다는 뜻이다.&lt;br&gt;&lt;br&gt;반면, 결혼 생각이 없다고 한 이들이 답한 이유는 ‘현재 삶에 만족하기 때문’(58.4%)이 1위였다. 이어 ‘돈이 없어서’(11.4%), ‘적합한 배우자를 만나지 못해서’(10.2%) 등이었다. 결혼 희망 연령은 남성은 평균 34.3세, 여성은 평균 32.3세로 조사됐다.&lt;br&gt;&lt;br&gt;연구팀은 “2021년 당시 코로나 사태로 결혼 의향이 최저점을 찍고 이후 이전 상태로 복귀한 것인지, 아니면 결혼 의향이 증가 추세로 전환된 것인지는 추후 심층 분석이 필요하다”라고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>일본군 위안부 피해자 이옥선 할머니 별세</title>
-      <link>https://www.chosun.com/national/national_general/2025/05/12/ZXEAWRFGHRASVEX5TW2CDG3AIE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/05/12/ZXEAWRFGHRASVEX5TW2CDG3AIE/</guid>
-      <dc:creator>김현수 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 11 May 2025 15:54:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7QZ4SDQQTRFXXDOTFEQ6CEAICY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;일본군 ‘위안부’ 피해자인 이옥선(97) 할머니가 11일 건강이 악화돼 별세했다. 경기 광주 나눔의 집은 이날 오후 8시 5분쯤 성남의 한 요양병원에서 이 할머니가 별세했다고 밝혔다. 이 할머니는 경기 광주 나눔의 집에서 머물다가 건강 상태가 악화돼 지난해 3월부터 이 요양병원에서 지내왔다.&lt;br&gt;&lt;br&gt;2022년 12월 94세로 별세한 고(故) 이옥선 할머니와 동명이인이다.&lt;br&gt;&lt;br&gt;이 할머니는 1928년 울산에서 태어나 15세이던 1942년 울산의 여관에서 일하던 중 일본군으로 추정되는 인물들에게 납치돼 중국 옌지의 위안소로 끌려갔다. 가혹한 피해와 고통을 겪은 뒤에도 곧장 고향으로 돌아오지 못한 할머니는 해방 후에도 중국에 머물다 2000년이 돼서야 귀국했다. 이듬해 한국 국적을 회복했다.&lt;br&gt;&lt;br&gt;귀국 후에는 경기 광주시 나눔의 집에서 거주해왔다. 할머니의 빈소는 용인 쉴락원에 마련될 예정이다.&lt;br&gt;&lt;br&gt;이날 이 할머니가 별세하면서 정부에 등록된 일본군 위안부 피해자 240명 중 생존자는 6명으로 줄었다. 생존자의 지역별 거주지는 서울과 대구, 경북, 경남 각 1명, 경기 2명이다. 연령별로는 90∼95세 2명, 96세 이상 4명이다. 평균 연령은 약 95세다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[오늘의 날씨] 2025년 5월 12일</title>
