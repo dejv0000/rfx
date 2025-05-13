@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>“70세 무조건 퇴직은 차별”vs“걸음 느려 민원”…관광해설사 딜레마</title>
+      <link>https://www.chosun.com/national/national_general/2025/05/14/HLHQPU72DVCZLIND7LGUWO4GBQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/05/14/HLHQPU72DVCZLIND7LGUWO4GBQ/</guid>
+      <dc:creator>이가영 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 13 May 2025 21:51:59 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BGYNICIC2HPQ7IEUEA7JXQXBTA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;60세 이상 고령 구직자들이 지난 3월 경기 수원시 팔달구 화성행궁광장에서 열린 '2025년 제17회 노인일자리 채용 한마당'에서 구인 게시판을 살펴보고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경남 하동군이 문화관광해설사의 활동 나이를 70세로 제한하는 것은 불합리하다며 시정을 요구한 국가인권위원회의 권고를 받아들이지 않았다. 하동군은 그 이유로 지리산 청학동 같은 산악 지역에서 고령 해설사들이 관광객보다 걸음걸이가 뒤처진다는 불만이 제기되고 있다고 설명했다. &lt;br&gt;&lt;br&gt;인권위에 따르면 하동군은 작년 1월 1일부터 문화관광해설사의 활동 나이를 70세 미만으로 제한했다. &lt;br&gt;&lt;br&gt;문화관광해설사는 주요 관광지에서 관광객에게 역사 지식을 전달하는 자원봉사자를 말한다. 나이 제한이 없어서 은퇴 후 ‘제2의 인생’에 도전하는 이들에게는 인기 직업으로 알려져 있다.&lt;br&gt;&lt;br&gt;이에 각각 7년과 16년 이상 하동군에서 활동해 온 해설사들은 일을 그만두게 됐다며 인권위에 진정을 넣었다. &lt;br&gt;&lt;br&gt;인권위 차별시정위원회는 “나이를 이유로 해설사의 활동을 제한하는 것은 불합리하며 차별에 해당한다”고 지적했다. 위원회는 “해설 활동 특성상 고령 해설사는 해당 지역의 역사와 문화 등에 대한 풍부한 경험을 갖춰 장점으로 작용할 수 있다”고 했다. 일부 지역에서는 75세 이상인 고령의 해설사가 활동 중인 사례도 존재하는 것으로 파악됐다. &lt;br&gt;&lt;br&gt;반면 하동군은 “오르막길이 많은 관광지 특성상 고령 해설사는 관광객보다 걸음이 뒤처지는 경우가 많았고, 이와 관련한 민원도 접수됐기 때문에 자체적으로 해설사의 나이를 70세로 제한했다”고 밝혔다. &lt;br&gt;&lt;br&gt;인권위는 이에 대해서는 “체력 및 해설 능력에 대한 검증은 해설사 배치 절차에서 마련된 심사 기준에 따라 이뤄질 수 있다”며 “개인별 체력을 판단할 건강진단서나 체력검진 등의 방식도 고려했어야 한다”고 조언했다. &lt;br&gt;&lt;br&gt;하지만 하동군은 “진정인들을 포함해 하동군 해설사협회 전 회원이 ‘70세 초과 시 활동 제한’ 조건에 동의했다”며 “이는 타 지자체의 모범 사례로 인정받았다”고 반박했다. 이어 “70세 이상도 본인 희망에 따라 일부 축제 및 행사에서 봉사할 수 있도록 명예문화관광해설사 제도를 신설했다”며 불수용 이유를 들었다. &lt;br&gt;&lt;br&gt;인권위는 과거 2010‧2011‧2015년에도 4개 지자체를 상대로 해설사 활동 나이를 각각 65세‧70세‧75세 이하로 제한하는 관행을 시정할 것을 권고했다. 해당 지자체들은 모두 인권위 권고를 수용했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>이자 돌려막다 파산... 대박 꿈꾼 갭 투자 3040, 회생법원 줄 섰다</title>
       <link>https://www.chosun.com/national/national_general/2025/05/14/XT4ZVYAH7BGV5HAGALIS42JNR4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/05/14/XT4ZVYAH7BGV5HAGALIS42JNR4/</guid>
@@ -814,15 +823,6 @@
       <description/>
       <pubDate>Mon, 12 May 2025 15:51:00 +0000</pubDate>
       <content:encoded>▶한국언론학회·방송학회·언론정보학회는 15일 한국프레스센터에서 ‘2025년 6월 출범 새 정부의 미디어 정책 방향: 바람직한 미디어 정책 거버넌스, 미디어 콘텐츠 규제 체계, 공영방송을 위한 정책 대안’을 주제로 정책 세미나를 개최한다.&lt;br&gt;&lt;br&gt;▶안민정책포럼(이사장 유일호)은 16일 오전 7시 40분 서울 지하철 2호선 선릉역 4번 출구 인근 아이타워 지하 1층 ‘더모임’에서 류덕현 중앙대 경제학 교수를 초청해 ‘조세재정 정책의 이슈와 현안’을 주제로 세미나를 개최한다. 참가자는 15일 오전까지 이메일로 신청하면 된다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[부음] 윤병희 前 용인시장 별세 외</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2025/05/13/VGS5F2QKFJB3DC3XWXF7FPLN5E/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2025/05/13/VGS5F2QKFJB3DC3XWXF7FPLN5E/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Mon, 12 May 2025 15:51:00 +0000</pubDate>
-      <content:encoded>▲&lt;b&gt;윤병희&lt;/b&gt; 前 용인시장 별세, &lt;b&gt;김남숙&lt;/b&gt; 남편상, &lt;b&gt;윤인헌&lt;/b&gt; 아모레퍼시픽 천안점장·&lt;b&gt;윤예헌&lt;/b&gt; 부친상=12일6시 경기 용인 다보스병원, 발인 14일7시, (031)323-4444 &lt;br&gt;&lt;br&gt;▲&lt;b&gt;이수선&lt;/b&gt; 별세, &lt;b&gt;김인철&lt;/b&gt; 前 한국외대 총장 모친상=12일6시50분 SMG연세병원, 발인 14일7시30분, (055)223-1000&lt;br&gt;&lt;br&gt;▲&lt;b&gt;조규춘&lt;/b&gt; 별세, &lt;b&gt;김시형&lt;/b&gt; 前 산업은행 총재 아내상, &lt;b&gt;김은정&lt;/b&gt; 前 마담 휘가로 편집장·&lt;b&gt;김은수&lt;/b&gt; 까르띠에 상무·&lt;b&gt;김종우&lt;/b&gt; 미국 노스럽그루먼 상무 모친상,&lt;b&gt; 홍성준&lt;/b&gt; 前 애플 이사 장모상=11일19시10분 서울성모병원, 발인 14일6시30분, (02)2258-5940&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[인사] 감사원 외</title>
