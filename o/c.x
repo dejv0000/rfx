@@ -13,6 +13,39 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>“임신했다고 속여 수억원 요구”... 손흥민, 20대 여성 고소</title>
+      <link>https://www.chosun.com/national/national_general/2025/05/14/CCLR3K7ZSNHE7KPFXOHZJMXPCI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/05/14/CCLR3K7ZSNHE7KPFXOHZJMXPCI/</guid>
+      <dc:creator>이혜진 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 14 May 2025 10:32:52 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QKICX4QISVJEXP66UAVWAHHF2A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2026 북중미 월드컵 아시아지역 3차 예선 B조 7차전 오만전을 하루 앞둔 한국 축구대표팀 손흥민이 지난 3월 19일 경기도 고양종합운동장에서 취재진 질문에 답하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국가대표 축구팀 주장 손흥민(33·토트넘 홋스퍼)이 자신의 아이를 임신한 척 속여 금품을 요구했다며 20대 여성 등을 고소했다. &lt;br&gt;&lt;br&gt;14일 서울 강남경찰서는 지난 7일 손씨 측의 고소장을 접수하고 20대 여성 A씨와 40대 남성 B씨를 공갈 혐의로 입건해 조사하고 있다고 밝혔다. &lt;br&gt;&lt;br&gt;손씨 측은 A씨가 지난해 6월 손씨에게 ‘임신했다’고 속여 수억 원의 금품을 요구했다고 주장하는 것으로 알려졌다. 이어 두 사람은 최근 수천만 원을 받아내려고 시도한 것으로 전해졌다. &lt;br&gt;&lt;br&gt;경찰은 정확한 사건 경위를 파악하고 있다. 경찰 관계자는 조선닷컴에 “현재 수사 중이어서 (자세한 사건 내용은) 확인해줄 수 없다”고 밝혔다. &lt;br&gt;&lt;br&gt;이와 관련해 손 씨 측이나 소속팀 토트넘 구단은 별도의 입장을 내지 않았다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/5YGGWOLVPFA3DLQYBCOH3UGZDM.jpg?auth=5d2fb6fa398737dc10d6e81af8486ae2c78a1d6cb45fdf5aa5df3bd0a7d4dd41&amp;smart=true&amp;width=4791&amp;height=2695" type="image/jpeg" height="2695" width="4791">
+        <media:description type="plain">[고양=뉴시스] 김진아 기자 = 대한민국 축구대표팀 손흥민이 19일 경기 고양종합운동장에서 3월 A매치 대비 훈련에 앞서 열린 공식 기자회견에서 취재진의 질문에 답하고 있다.
+
+ 한국은 오는 20일 고양종합운동장에서 오만과 2026 국제축구연맹(FIFA) 북중미 월드컵 아시아 지역 3차 예선 7차전을 치른 뒤, 25일 수원월드컵경기장에서 요르단과 8차전을 갖는다. 2025.03.19. bluesoda@newsis.com</media:description>
+        <media:credit role="author" scheme="urn:ebu">bluesoda</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>전한길, 강단서 물러난다... ‘전한길 뉴스’로 계속 활동</title>
+      <link>https://www.chosun.com/national/national_general/2025/05/14/MB7XR7ABA5GMBOJ4UW7UIIVS2U/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/05/14/MB7XR7ABA5GMBOJ4UW7UIIVS2U/</guid>
+      <dc:creator>이혜진 기자, 김형원 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 14 May 2025 11:40:08 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/43AWEUW7FRKFFKRBJHZTDOGOPI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한국사 강사 전한길 씨가 지난 4월 16일 서울 중구 프레스센터 국제회의장에서 열린 '국민이 국민을 지킨다! 국민수사대 출범식'에 참석해 축사하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한국사 강사 전한길 씨가 14일 자신이 활동하던 메가공무원과의 계약 종료를 알리며 강단에서 물러났다. &lt;br&gt;&lt;br&gt;전한길 씨는 이날 본지와의 통화에서 “한국사 강사로서 은퇴한다. 26년간 역사 강의를 해왔지만 그만둘 때가 됐다고 생각한다”며 “지금 하고 있는 ‘전한길 뉴스’ 등 활동은 그대로 한다”고 밝혔다. 그는 “지난해 12월 메가스터디와 장기 계약을 체결했으나 지난 2월에 이미 계약 종료를 결정했다”며 “제가 정치적인 얘기를 하니까 수험생 많은 회사에서 얼마나 부담스럽겠나. 저도 부담 주기 싫어서 합의에 의해서 계약을 종료했다”고 말했다. &lt;br&gt;&lt;br&gt;전 씨가 강사로 활동해온 메가공무원 역시 이날 공식 공지를 통해 전 씨와의 계약 종료 및 강좌 운영 종료 계획을 발표했다. &lt;br&gt;&lt;br&gt;전 씨는 자신이 운영하는 ‘전한길뉴스’를 통해서도 향후 계획을 공개했다. 그는 “강단에서는 물러나지만 이는 은퇴가 아닌 새로운 시작”이라며 “‘전한길뉴스’ 발행인으로서 언론인의 길을 걸으며 국민의 대변인이 되겠다”고 했다.&lt;br&gt;&lt;br&gt;지난 4월 ‘전한길뉴스’를 창간한 그는 최근 은퇴를 암시하는 발언을 해왔다. 그는 “26년간 역사 강의를 해왔지만 이제 그만둘 시점을 고민하고 있다” “정치 성향이 다른 수험생들이 회사에 항의를 해 곧 그만둬야 할 상황이 됐다”고 언급한 바 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“그만 둘래요”... 원생에 폭력 휘두른 태권도 관장, 경찰 조사</title>
+      <link>https://www.chosun.com/national/regional/honam/2025/05/14/QAZAEO7TQFHXFJ3574TUMFI2DA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/honam/2025/05/14/QAZAEO7TQFHXFJ3574TUMFI2DA/</guid>
+      <dc:creator>신정훈 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 14 May 2025 10:35:21 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/S4JNNA63IJHXYPIIBJ7DXGEVSU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고/조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰이 원생을 폭행한 의혹을 받는 태권도 학원 관장을 조사하고 있다. &lt;br&gt;&lt;br&gt;전남 해남경찰서는 자신이 운영하는 태권도장에 다니는 원생 B(12)군을 폭행한 혐의(아동신체학대)로 30대 관장 A씨를 입건해 조사하고 있다고 14일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 8일 오후 해남군 해남읍 태권도장에서 B군의 머리와 가슴 등을 폭행한 혐의다.&lt;br&gt;&lt;br&gt;피해 아동 측은 힘들어 태권도장을 그만두겠다고 하자 관장이 폭력을 휘둘렀다고 주장한 것으로 알려졌다. &lt;br&gt;&lt;br&gt;경찰은 학원 내 방범카메라 영상 등을 통해 정확한 사건 경위를 조사하고 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>APEC 교육장관회의 맞아 모인 전문가들...“서둘러 교육에 AI 접목해야”</title>
       <link>https://www.chosun.com/national/education/2025/05/15/ZRJS4B3BQVHEVJH7UFNYNSSCEU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/education/2025/05/15/ZRJS4B3BQVHEVJH7UFNYNSSCEU/</guid>
@@ -934,33 +967,6 @@
       <description/>
       <pubDate>Mon, 12 May 2025 15:53:00 +0000</pubDate>
       <content:encoded>올해부터 교사들이 세금에서 인건비를 지원받으며 노조 활동을 할 수 있는 ‘타임오프’ 제도가 시행됐다. 그런데 교원 노조들은 각서까지 쓰며 인건비 지원 대상의 산정 근거가 된 ‘조합원 수’ 공개를 거부한 것으로 나타났다. “세금을 지원받으며 그 근거인 조합원 수를 공개하지 않는 건 문제”라는 지적이 나온다.&lt;br&gt;&lt;br&gt;12일 서지영 국민의힘 의원실이 교육부에서 받은 자료에 따르면, 올해부터 교원 노조들은 연간 총 17만6608시간의 근로시간을 면제(타임오프)받아 교사 총 126명이 노조 활동을 할 수 있게 된 것으로 나타났다. 노조별로는 교사노조 65명, 전교조 39명, 기타 노조 22명이다. ‘타임오프제’는 근로자의 통상적 업무는 면제해 주고, 그 시간만큼 노조 활동을 하면서 보수는 그대로 받는 제도다. 그간 민간 기업에서 실시했는데 올해부터 공무원·교원 노조도 적용받게 됐다. 교육청이 노조 실무자에게 급여를 지급해, 그간 조합비에서 보수를 줬던 교원 노조들은 금전 부담을 덜게 됐다. 이에 전교조는 지난 3월부터 조합비를 봉급의 0.8%에서 0.75%로 낮췄다.&lt;br&gt;&lt;br&gt;시·도교육청 17곳은 이번에 노조에 가입한 전체 교사 수를 확인해, ‘1000~2999명은 4000시간 이내’ 같은 고용노동부 매뉴얼에 따라 타임오프 전체 한도를 정한 후 각 노조에 배분했다. 대체로 조합원이 많은 노조가 면제 시간도 많이 가져갔다고 한다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UIOYIEXAUBFWTJK3ZQE6ZCZON4.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=정인성&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;교원 근로시간 면제엔 정부 예산이 매년 수십억 원 들어갈 전망이다. 그러나 교육 당국에 따르면, 노조는 세부 조합원 수 공개를 거부한 것으로 나타났다. 서울시교육청 관계자는 “노조들과 협상하는 과정에서 세부 조합원 수는 절대 공개하지 않기로 각서를 썼다”고 했다. 경기도교육청도 마찬가지로 ‘비공개 서약’을 했다. 교육부 측은 “각 교육청이 노조 조합원 수 공개를 거절했다”며 “조합원 수를 공개하면 노조에서 불만이 클 게 뻔해 비공개하는 것”이라고 했다. &lt;br&gt;&lt;br&gt;노조들이 조합원 수 공개를 꺼리는 것은 조합원이 알려진 것보다 적다는 사실이 드러나면 세(勢) 경쟁에서 밀릴까 우려하기 때문으로 알려졌다. 고용노동부가 매년 노조 현황을 발표하지만 노조 측이 제출한 자료를 검증 없이 그대로 발표한다. 여러 노조의 ‘연맹’ 형태인 교사노조는 ‘중복 가입자’ 때문에 조합원 수가 부풀려졌다는 의혹을 받아왔다.&lt;br&gt;&lt;br&gt;2022년 전교조와 교사노조가 대통령 직속 국가교육위원회 위원을 누가 추천하느냐를 놓고 다툴 때도 ‘조합원 수’ 확인 방식이 논란이 된 바 있다. 결국 두 노조가 합의를 못 해 해당 위원은 3년 가까이 ‘공석’인 상태다. &lt;br&gt;&lt;br&gt;박지순 고려대 법학전문대학원 교수는 “공무원 타임오프 제도는 정부 예산이 들어가는 사업이기 때문에 가장 중요한 잣대인 조합원 수가 공개되어야 국민들이 제도가 제대로 운영되는지에 대한 신뢰를 갖게 될 것”이라고 말했다. &lt;br&gt;&lt;br&gt;&lt;b&gt;☞근로시간면제(타임오프)&lt;/b&gt;&lt;br&gt;&lt;br&gt;근로자가 회사 일을 하지 않고 노동조합 활동을 하더라도 이를 근로 시간으로 인정해 급여를 주는 제도.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>작년 국립대병원 수익 9000억 감소</title>
-      <link>https://www.chosun.com/national/welfare-medical/2025/05/13/DVIJMYK3PRD4DEGK65I2ABNPMU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/05/13/DVIJMYK3PRD4DEGK65I2ABNPMU/</guid>
-      <dc:creator>오유진 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 12 May 2025 15:53:00 +0000</pubDate>
-      <content:encoded>지난해 전국 국립대병원들의 의료 수익이 전년 대비 9000억원 가까이 줄어든 것으로 나타났다. 병상을 가동할 의료진이 모자라 수익성이 악화된 것이다.&lt;br&gt;&lt;br&gt;12일 공공기관 경영 정보 공개 시스템 알리오에 따르면, 11개 국립대병원의 지난해 의료 수익은 6조5346억원으로, 전년(7조4295억원) 대비 8949억원(12%) 감소했다. &lt;br&gt;&lt;br&gt;서울대병원의 의료 수익은 1조4036억원에서 1조1720억원으로 줄었고, 분당서울대병원은 1조333억원에서 8941억원으로 감소했다. 수익이 1000억원 넘게 감소한 병원은 서울대병원(-2316억원), 분당서울대병원(-1392억원), 전남대병원(-1152억원), 부산대병원(-1064억원) 등 4곳이다. 이 밖에 경북대(-870억원), 전북대(-794억원), 충북대(-592억원) 등도 큰 폭으로 줄었다.&lt;br&gt;&lt;br&gt;의료 수익이 급감한 주원인은 병상 가동률 하락이다. 작년 초 의정 갈등으로 전공의와 전임의(세부 과 전문의)가 대거 이탈하면서 지방 국립대병원 상당수는 병상 가동률이 50% 안팎으로 떨어졌다. 의료 수익이 흑자를 내려면 가동률이 최소 70~80%는 돼야 하는데, 이 기준에 크게 못 미친 것이다. 게다가 상당히 낮은 임금으로 장시간 일했던 전공의들의 빈자리를 채우기 위해 고임금의 전문의를 채용하면서 인건비까지 치솟아 손실 폭이 더 커졌다는 분석이다. &lt;br&gt;&lt;br&gt;국립대병원에서는 전임의 확보에도 어려움이 계속되고 있다. 알리오에 따르면, 올해 1분기 전임의 인원을 공시한 국립대병원 8곳의 전임의 정원 대비 충원율은 23.7%에 그쳤다. 정원 892명 중 211명만 근무 중이다. 서울대병원은 전임의 정원 321명 중 123명(38%), 분당서울대병원은 177명 중 62명(35%)만 일하고 있는 것으로 나타났다. 충북대병원(정원 15명), 강원대병원(정원 7명)은 전임의가 한 명도 없는 상태다. 일부 병원에서는 최근 전임의 계약이 재개되고 군의관·공중보건의 전역자 일부가 복귀하고 있지만, 전체 충원율은 의정 갈등 전보다 한참 낮은 수준에 머물고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>계엄 해제 직후 “尹, 두 번 세 번 계엄하면 돼”</title>
-      <link>https://www.chosun.com/national/court_law/2025/05/13/4NQWNQYK7ZBT5ENMKXIYZOAAA4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/05/13/4NQWNQYK7ZBT5ENMKXIYZOAAA4/</guid>
-      <dc:creator>박혜연 기자, 유희곤 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 12 May 2025 15:53:00 +0000</pubDate>
-      <content:encoded>윤석열 전 대통령이 비상계엄 당시 “총을 쏴서라도 국회 본회의장에 진입하라”고 지시했다는 군 관계자의 증언이 나왔다. 12일 서울중앙지법 형사25부에서 열린 윤 전 대통령의 내란 혐의 사건 세 번째 공판에서다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QJDQUFBSOJC3FJMSB5XIK5PCDU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원 포토라인에 선 尹 '묵묵부답' - 윤석열 전 대통령이 12일 오전 서울 서초구 서울중앙지법에서 열린 내란 사건 3차 공판에 출석하고 있다. 차량에서 내린 윤 전 대통령은 취재진의 질문에 아무 말도 하지 않고 법정으로 향했다. 윤 전 대통령이 법원에 출석하는 모습이 공개된 건 이번이 처음이다. 그동안은 법원 지하 주차장을 통해 비공개로 출석했다. /사진공동취재단&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;증인으로 나온 오상배 전 수도방위사령관의 부관(대위)은 계엄 당일, 국회 인근에서 이진우 전 수방사령관과 차량에서 대기하다가 윤 전 대통령으로부터 총 4차례 비화폰으로 전화가 걸려왔다고 ​했다. 그는 “대통령이 전화로 이 전 사령관에게 ‘총을 쏴서라도 문을 부수고 (국회 본회의장으로) 들어가라’ ‘4명이 1명씩 들쳐업고 나오라’고 지시했다”면서 “허공에 총을 ‘팡팡’ 쏴서 사람들이 겁에 질려 있을 때 문을 부수고 들어가는 장면이 연상됐다”고 했다. 계엄 해제 후에도 윤 전 대통령이 이 전 사령관에게 “두 번, 세 번 계엄을 하면 된다”고 하는 것을 들었다고 증언했다. &lt;br&gt;&lt;br&gt;윤 전 대통령은 이날 처음으로 서울법원종합청사 서관 지상 출입구를 통해 법정에 출석했다. 재판 전후 기자들을 만났지만 아무런 말을 하지 않았다.&lt;br&gt;&lt;br&gt;한편 정치 브로커 명태균씨 관련 의혹을 수사 중인 서울중앙지검 전담수사팀(팀장 이지형 차장검사)은 지난 9일 김건희 여사 측에 출석요구서를 보내, 오는 14일 검찰 청사에 나와 피의자 조사를 받으라고 통보한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;검찰은 김 여사를 상대로 2022년 대선 당시 명씨로부터 여론조사 결과를 무상으로 제공받은 경위와 김영선 전 의원, 김상민 전 검사, 김태우 전 강서구청장 등의 공천 과정에 개입했는지 여부를 조사할 계획이다. 하지만 김 여사 측은 “건강이 좋지 않아 출석 여부가 불투명하다”는 입장이어서, 검찰은 내부적으로 강제 구인 등을 검토 중이다.&lt;br&gt;&lt;br&gt;‘도이치모터스 주가조작 사건’을 재수사하고 있는 서울고검은 최근 검사 2명을 파견받아 최행관(사법연수원 33기) 서울고검 검사 등 3명이 김 여사 관련 혐의를 들여다보고 있는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>조희대 대법원장 청문회 출석 않기로</title>
-      <link>https://www.chosun.com/national/court_law/2025/05/13/2UOHYG4PSVF7JIRYPT7AVXEN3Q/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/05/13/2UOHYG4PSVF7JIRYPT7AVXEN3Q/</guid>
-      <dc:creator>김희래 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 12 May 2025 15:53:00 +0000</pubDate>
-      <content:encoded>조희대 대법원장과 대법관들이 더불어민주당이 주도하는 ‘사법부 대선 개입 의혹 진상 규명’ 국회 청문회에 출석하지 않기로 했다.&lt;br&gt;&lt;br&gt;대법원 관계자는 12일 “재판에 관한 청문회에 법관이 출석하는 것은 곤란하다는 입장이 국회에 전달됐다”며 “청문회 출석 요청을 받은 16명의 법관 모두 불출석 의사를 밝혔다”고 했다. 이재명 민주당 대선 후보의 공직선거법 위반 사건 파기환송심이 서울고법에서 진행 중인 상황에서, 해당 재판에 관여한 법관들이 국회 청문회에 출석하는 것은 사법부 독립을 침해할 우려가 있다는 취지다.&lt;br&gt;&lt;br&gt;민주당은 대법원 전원합의체가 이 후보의 선거법 사건을 서둘러 심리해 지난 1일 유죄 취지로 파기환송한 것이 대선 개입이라고 주장하면서 오는 14일 청문회를 열기로 했다. 민주당 등은 지난 7일 국회 법제사법위원회 전체회의에서 국민의힘 의원들이 퇴장한 뒤 청문회 실시 계획서를 채택하고 증인·참고인 출석 요구 등을 의결했다. 조 대법원장과 대법관 11명, 대법원 수석·선임재판연구관, 대법원장 비서실장, 법원행정처 사법정보화실장 등 법관 16명이 증인으로 채택됐다.&lt;br&gt;&lt;br&gt;오는 15일 대법원 소부 선고가 예정된 점도 대법관들이 국회 불출석 의사를 밝힌 배경으로 꼽힌다. 대법원 관계자는 “15일에 1·2·3부에서 총 149개 사건에 대한 선고가 예정돼 있다”며 “통상 선고 전날 소부 대법관들이 합의를 갖기 때문에 국회 출석이 여의치 않을 것”이라고 했다. 그간 국회에서 진행된 국정감사나 현안 질의 등에서도 재판에 관여하지 않는 법원행정처장(대법관)과 행정처 간부들만 나가고, 대법원장과 대법관, 재판연구관 등은 출석하지 않는 게 관례였다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
