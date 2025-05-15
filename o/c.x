@@ -13,6 +13,117 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>손흥민 측, ‘임신 협박’ 일당 체포에 “선수는 명백한 피해자...선처 없다”</title>
+      <link>https://www.chosun.com/national/national_general/2025/05/15/QAV2CVKK3BAT5EVOUDOKRWKS5E/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/05/15/QAV2CVKK3BAT5EVOUDOKRWKS5E/</guid>
+      <dc:creator>박선민 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 15 May 2025 00:13:06 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5YGGWOLVPFA3DLQYBCOH3UGZDM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;손흥민이 지난 3월 19일 경기 고양종합운동장에서 3월 A매치 대비 훈련에 앞서 열린 공식 기자회견에서 취재진의 질문에 답하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국가대표 축구팀 주장 손흥민(33·토트넘 홋스퍼) 측이 아이를 임신했다며 이를 폭로하지 않는 대가로 금품을 요구한 일당이 체포된 것과 관련, 소속사는 “선수는 명백한 피해자”라고 공식 입장을 냈다. &lt;br&gt;&lt;br&gt;손흥민 소속사 손앤풋볼리미티드는 15일 입장문을 통해 “허위 사실을 유포하겠다며 선수를 협박해온 일당을 공갈 혐의로 경찰에 고소했다”며 “현재 경찰이 조사 중이므로 수사 결과가 나오는 대로 알려드리겠다”고 했다. &lt;br&gt;&lt;br&gt;이어 “명백한 허위 사실로 공갈 협박을 해온 일당에게 선처 없이 처벌될 수 있도록 강력 법적 대응 할 것”이라며 “손흥민 선수는 이 사건의 명백한 피해자”라고 했다. &lt;br&gt;&lt;br&gt;앞서 서울 강남경찰서는 지난 7일 손흥민 측의 고소장을 접수하고 20대 여성 A씨와 40대 남성 B씨를 공갈 혐의로 입건해 조사하고 있다고 밝혔다. 손흥민 측은 A씨가 지난해 6월 손흥민에게 ‘임신했다’고 속여 수억 원의 금품을 요구했다고 주장하는 것으로 알려졌다. B씨는 최근 손흥민에게 접근해 수천만 원을 받아내려고 시도한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;경찰은 지난 14일 법원으로부터 A씨와 B씨에 대한 체포 영장을 발부받았고, 같은 날 일당은 체포됐다. 경찰은 두 사람을 상대로 구체적인 사건 경위를 조사 중이다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[속보] 중앙지법 “지귀연 부장판사 의혹, 추상적이고 확인 안됐다…입장 없다"</title>
+      <link>https://www.chosun.com/national/court_law/2025/05/15/LHSE6YIE7FEILKTBFZD74ODBZI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/05/15/LHSE6YIE7FEILKTBFZD74ODBZI/</guid>
+      <dc:creator>박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 15 May 2025 03:10:49 +0000</pubDate>
+      <content:encoded>더불어민주당이 제기한 지귀연 서울중앙지법 부장판사의 ‘룸살롱 접대 의혹’과 관련해 법원이 “입장을 밝힐만한 내용이 없다”고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/A46FBSQG4DWQAKFMMRQQIQFCPA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지귀연 부장판사(가운데)가 윤석열 전 대통령의 내란 우두머리 혐의 재판을 하기 위해 지난달 21일 오전 서울 서초구 서울중앙지법 417호 법정으로 들어오고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지법은 15일 “해당 의혹 제기의 내용은 추상적일 뿐만 아니라 구체적인 자료가 제시된 바 없고, 그로 인해 의혹의 진위 여부가 확인되지 않았다”며 “서울중앙지법이 이와 관련해 입장을 밝힐만한 내용은 없다”고 밝혔다. &lt;br&gt;&lt;br&gt;이는 김용민 더불어민주당 의원이 전날 국회 법제사법위에서 “지 부장판사가 1인당 100만~200만원 비용이 나오는 룸살롱에서 여러 차례 술을 마셨고 단 한 번도 돈을 낸 적이 없다는 아주 구체적인 제보를 받았다”며 의혹을 제기한 데 따른 것이다.&lt;br&gt;&lt;br&gt;지 부장은 윤 전 대통령을 포함해 내란 혐의를 받는 군·경 관계자들의 재판을 맡고 있다. 민주당은 지 부장이 윤 전 대통령의 ‘구속 취소’를 결정한 뒤로 ‘내란 공범’이라며 공격해 온 바 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[속보] ‘2200억원대 횡령·배임’ 최신원 前 SK네트웍스 회장, 징역 2년 6개월 확정</title>
+      <link>https://www.chosun.com/national/court_law/2025/05/15/766FSHVXDFGVLLOXBJFUOULHUU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/05/15/766FSHVXDFGVLLOXBJFUOULHUU/</guid>
+      <dc:creator>박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 15 May 2025 02:53:44 +0000</pubDate>
+      <content:encoded>2200억원대 회삿돈을 횡령·배임한 혐의 등으로 기소된 최신원 전 SK네트웍스 회장이 대법원에서 실형을 확정받았다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NGM73JXO26HERGTMTJUE2JPVCM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;최신원 전 SK네트웍스 회장. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대법원 3부(주심 오석준 대법관)는 15일 특정경제범죄 가중처벌법 위반(횡령) 등 혐의로 기소된 최 전 회장에게 징역 2년 6개월을 선고한 원심을 확정했다.&lt;br&gt;&lt;br&gt;대법원은 “원심의 판단에 필요한 심리를 다하지 않은 채 논리와 경험의 법칙을 위반하지 않았고 법리를 오해한 잘못도 없다”고 했다.&lt;br&gt;&lt;br&gt;최 전 회장은 SK텔레시스 대표로 있을 때 회사가 부도 위기에 처하자, 2012년과 2015년 유상증자를 실시하며 또 다른 계열사인 SKC로부터 900억원가량을 투자하도록 해 SKC 측에 손해를 입힌 혐의를 받았다.&lt;br&gt;&lt;br&gt;또 SKC 등 계열사 6곳에서 개인 골프장 사업, 가족과 친인척 등의 급여, 호텔과 빌라 등의 사용료, 개인 유상증자 대금 등의 명목으로 약 2235억원을 횡령·배임한 혐의도 받았다.&lt;br&gt;&lt;br&gt;앞서 1심과 2심은 최 전 회장에게 징역 2년 6개월을 선고했다. 2심은 최 전 회장의 혐의 중 골프장 사업 추진을 위해 SK텔레시스로부터 자금 약 155억원을 대여받은 것, SK텔레시스 자금 약 281억원을 최 전 회장 개인의 유상증자 대금 등으로 쓴 것, 가족과 친인척에 대한 허위 급여, 호텔 사용료 등에 회삿돈 128억여 원을 쓴 것 등을 유죄로 인정했다.&lt;br&gt;&lt;br&gt;2심은 “대주주 일가가 기업 재산을 사적으로 이용하는 행위는 더 이상 사회적으로 용납되기 어렵다”고 했다. 최 전 회장은 2심에서 법정 구속돼 수감 중이다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘동탄 전세사기’ 부부, 징역 7년·3년 6개월 확정</title>
+      <link>https://www.chosun.com/national/court_law/2025/05/15/CFUCJOEPIRCO3PJAFQBG5HQ474/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/05/15/CFUCJOEPIRCO3PJAFQBG5HQ474/</guid>
+      <dc:creator>김희래 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 15 May 2025 03:02:02 +0000</pubDate>
+      <content:encoded>170억원 규모 오피스텔 전세 보증금을 가로챈 혐의로 기소된 ‘동탄 전세사기’ 부부에 대한 징역형이 확정됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/J6KXOPLODNIKY6P5CMWIDEAYXM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대법원 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;15일 대법원 3부(주심 이숙연 대법관)는 사기 혐의로 기소된 전세 사기 부부에 대한 상고심에서 각각 징역 7년과 3년 6개월을 선고한 원심을 확정했다. 재판부는 “원심 판단에 논리와 경험 법칙을 위반해 자유심증주의의 한계를 벗어나거나 사기죄의 성립, 공동정범에 관한법리를 오해한 잘못이 없다”고 밝혔다.&lt;br&gt;&lt;br&gt;A씨와 B씨 부부는 2020년 7월~2023년 1월 사이 동탄 신도시 일대에 ‘무자본 갭투자’ 방식으로 오피스텔 268채를 사들여 임대했다. 공인중개사와 보조원으로 부부 관계인 C씨와 D씨는 이들이 단기간에 오피스텔을 매수할 수 있도록 전세가 낀 매물을 지속적으로 소개해 추가 매수를 유도하고, 보증금을 돌려줄 의사나 능력이 없는 걸 알면서도 있는 것처럼 꾸미고 필요한 경우 보증금을 빌려주기도 했다. &lt;br&gt;&lt;br&gt;1심은 A씨 부부에게 징역 12년과 징역 6년을 C씨 부부에게 징역 12년과 7년을 선고했다. 그러나 2심은 A씨 부부에게 징역 7년과 징역 3년 6개월, C씨 부부에게 징역 7년과 징역 4년으로 감형했다. 일부 공소사실이 중복 기소됐고, 피해 회복을 위해 일부 오피스텔을 매도하는 등 노력한 점이 고려됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>시민단체, ‘접대 의혹’ 지귀연 부장판사 공수처에 고발</title>
+      <link>https://www.chosun.com/national/court_law/2025/05/15/CUUJDAJFGJHELLQVFRHHXL5HNI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/05/15/CUUJDAJFGJHELLQVFRHHXL5HNI/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 15 May 2025 02:30:21 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OT7THFOZYJKGJOCOEDKAVLDOMQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;시민단체 '사법정의바로세우기시민행동' 김한메 상임대표가 15일 경기 과천시 정부과천청사 민원실 앞에서 형법상 뇌물 및 청탁금지법 위반 혐의로 지귀연 부장판사를 고위공직자범죄수사처에 고발하며 기자회견을 하고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;시민단체 사법정의바로세우기시민행동(사세행)이 15일 서울중앙지법 형사25부 재판장을 맡고 있는 지귀연 부장판사를 고위공직자범죄수사처(공수처)에 뇌물‧청탁금지법 위반 혐의로 고발했다고 밝혔다. 지 부장판사는 ‘12‧3 비상계엄’으로 기소된 윤석열 전 대통령과 김용현 전 국방장관 등의 재판을 이끌고 있다.&lt;br&gt;&lt;br&gt;사세행이 지 부장판사를 고발한 것은 전날 국회 법제사법위원회에서 더불어민주당이 지 부장판사가 접대를 받았다는 의혹을 제기한 것이 계기가 됐다. 김용민 의원은 법사위 전체회의에서 “지 부장판사가 1인당 100만∼200만원 정도의 비용이 나오는 ‘룸살롱’에서 여러 차례 술을 마셨고 단 한 번도 그 판사가 돈을 낸 적이 없다는 구체적인 제보를 받았다”고 주장했다. 사세행은 “재판 업무의 정치적 중립성과 직무 독립성을 중대히 훼손할 수 있는 향응을 받았다”고 했다.&lt;br&gt;&lt;br&gt;지 부장판사의 접대 의혹에 대해 서울중앙지법은 아직까지 공식 입장을 내지 않고 있다. 천대엽 법원행정처장은 전날 법사위에서 민주당의 감찰 요구에 “생각할 수 없는 일이라 지금 답변드리기는 어렵다”며 “자료를 주시면 독립된 기구인 법원행정처 윤리감사실에서 검토할 것”이라고 답했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>김세연 김앤장 변호사, SIAC 중재법원 상임위원 선임</title>
+      <link>https://www.chosun.com/national/court_law/2025/05/15/WPM5NYTAVFEVXKVMW5TE6SOCGM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/05/15/WPM5NYTAVFEVXKVMW5TE6SOCGM/</guid>
+      <dc:creator>김은경 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 15 May 2025 01:15:42 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PYWM4HVXJFAXNMN4QGLZWK6NW4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;SIAC 상임위원으로 선임된 김세연 김앤장 법률사무소 변호사. /김앤장&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김앤장 법률사무소는 김세연(사법연수원 23기) 변호사가 싱가포르국제중재센터(SIAC) 중재법원 상임위원으로 선임됐다고 15일 밝혔다. 한국인 여성 변호사로는 최초다.&lt;br&gt;&lt;br&gt;1991년 설립된 SIAC은 투자자-국가간 분쟁(ISD) 등 각종 국제 분쟁사건을 판정하는 중재기관이다. 2013년 아시아 최초로 국제중재법원을 출범했다. 중재법원에서는 관할권 심사, 중재인 선임·기피 등 중재 절차에 관한 판단을 한다. 현재 상임위원 30여명 중 한국인은 김 변호사가 유일하다.&lt;br&gt;&lt;br&gt;김 변호사는 “최근 한국을 비롯한 아시아 지역의 당사자들이 가장 선호하는 SIAC 중재법원에 상임위원으로 기여할 수 있게 되어 기쁘다”며 “법관 및 다른 중재기관상임위원 경험을 활용해 SIAC가 분쟁을 효과적이고 효율적으로 해결할 수 있도록 돕겠다”고 말했다.&lt;br&gt;&lt;br&gt;김 변호사는 앞서 국제상업회의소(ICC) 국제중재법원의 상임위원으로도 활동했다. 현재는 국제중재실무회(KOCIA) 회장, 대한상사중재원 국제중재센터(KCAB International) 국제중재위원회 위원, 뭄바이 국제중재법원(MCIA) 위원, 스위스 중재센터(Swiss Arbitration Centre) 중재법원 위원으로 활동하고 있다. 김앤장에 따르면 최근 국내 기업과 스위스 주주 사이의 주주간계약 위반 중재사건을 맡아 승소 판정을 이끌어 내기도 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘날 좀 보소, 밀양 좀 보소’...오는 22일 밀양아리랑대축제 막 올라 </title>
+      <link>https://www.chosun.com/national/2025/05/15/3CDIOW7UKBG7BAI4LPBGWNRV6E/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2025/05/15/3CDIOW7UKBG7BAI4LPBGWNRV6E/</guid>
+      <dc:creator>밀양=김준호 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 15 May 2025 02:17:46 +0000</pubDate>
+      <content:encoded>‘밀양아리랑대축제’가 오는 22일부터 25일까지 국보 영남루와 밀양강변에서 나흘간 펼쳐진다. 밀양시는 ‘함께 만드는 이야기, 우리가 아리랑!’이라는 슬로건으로 축제를 연다고 15일 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IILGB66WNNB6FHJEZVCEYSNRXY.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;지난해 열린 밀양아리랑대축제 중 하이라이트인 밀양강 오딧세이 공연 모습. /밀양시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;축제는 국보인 영남루와 밀양강변을 중심으로 진행된다. &lt;br&gt;&lt;br&gt;축제의 하이라이트는 시민 배우 500~600여 명이 출연하는 뮤지컬 ‘밀양강 오딧세이’다. 올해는 밀양을 대표하는 임진왜란의 영웅 사명대사 일대기를 선보인다. 밀양 대표 명소인 영남루와 밀양강이 무대다. 밀양 출신 소설가 이상훈 작가의 베스트셀러 원작 ‘칼을 품고 슬퍼하다’를 각색했다. 올해는 특히 배우 송일국과 아이돌그룹 원더걸스 출신 선예뿐만 아니라, 조상웅, 서광현, 김민수 등 뮤지컬 전문 배우들이 함께한다. 이들은 밀양 시민 배우 500여 명과 함께 어우러져 뮤지컬과 멀티미디어를 활용한 화려한 공연을 펼칠 예정이다. 축제 기간 매일 오후 8시 공연한다. &lt;br&gt;&lt;br&gt;유네스코 인류무형문화유산인 아리랑을 소개하는 아리랑 주제관에서는 아리랑 근현대 유물 특별전과 아리랑 주제관 아카이브전을 운영한다. 아리랑을 보고 느낄 수 있는 체험 전시 프로그램과 특별 공연 등을 보강했다. 밀양과 정선, 진도 등 3대 아리랑의 지자체가 아리랑의 발전을 위해 구성한 공동협의체 협력 사업의 하나로 아리랑 공연도 선보인다. 3대 아리랑과 함께 중앙아시아 우즈베키스탄 타슈켄트 팀과 일본의 와다이코 민속 공연팀이 펼치는 수준 높은 공연은 아리랑의 아름다운 선율과 깊은 감동을 선사할 예정이다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MNLQNT2G6NAZDLB6KLLDZJKKAI.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;지난해 열린 밀양아리랑대축제 중 거리퍼레이드 모습. /밀양시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;밀양아리랑 체험 콘텐츠도 늘었다. 미로 속에서 밀양아리랑과 밀양의 역사를 배우는 아리랑 미로는 시설과 콘텐츠를 새롭게 구성했다. 전통 놀이와 아리랑 오감 체험으로 남녀노소 모두에게 인기였던 아리랑 원더랜드에도 밀양의 무형유산을 체험할 수 있는 공간이 추가된다. 명창의 해설이 곁들여진 밀양아리랑 토크 콘서트도 무형유산 공연장으로 무대를 옮겨 마련된다.&lt;br&gt;&lt;br&gt;올해는 세대별 참여를 높이기 위해 청소년·노인 특화 프로그램도 늘렸다. 청소년을 위한 아리랑 1분 영화제, 아리랑 이야기, 메타버스 공간 등 최신 트렌드를 반영한 프로그램을 선보인다. 궤도와 노홍철 등 인기 유튜버와의 협업을 통해 청소년은 물론 모든 세대가 즐길 수 있는 시간도 준비했다. 노년층을 위한 콘텐츠도 늘렸다. ‘老NO!(노노) 행복루’라는 주제로 어르신 건강검진, 미용, 장수 사진, 추억 공연 등을 선보인다. &lt;br&gt;&lt;br&gt;안병구 밀양시장은 “올해 밀양아리랑대축제에서는 기존에 경험할 수 없었던 다양한 콘텐츠를 기획해 관광객들에게 새로운 경험을 제공할 수 있도록 노력하겠다”며 “앞으로도 밀양의 강점인 밀양아리랑, 문화유산, 먹거리들을 활용한 새로운 관광을 기획해 밀양이 대한민국의 관광 랜드마크로 자리 잡을 수 있도록 노력하겠다”고 말했다. &lt;br&gt;&lt;br&gt;한편, ‘정부 지정 문화관광축제’이자, ‘로컬 100’에 선정된 밀양아리랑대축제는 지난해 41만명이 찾아, 169억원의 경제적 파급효과를 거둔 것으로 분석됐다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>光州에 고향사랑기부하면 KIA타이거즈 유니폼 할인받고 청소 서비스도</title>
+      <link>https://www.chosun.com/national/national_general/2025/05/15/ZVOWO2LTZNG3LOQ4NVKAX2JKWI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/05/15/ZVOWO2LTZNG3LOQ4NVKAX2JKWI/</guid>
+      <dc:creator>광주광역시=진창일 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 15 May 2025 01:52:36 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UUGRXC7VRJGTJGV6YDE3UMNWJI.png"&gt;&lt;figcaption&gt;&lt;small&gt;KIA타이거즈 유니폼. /광주광역시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;광주광역시가 고향사랑기부제 참여 확대를 위해 KIA타이거즈 유니폼 할인, 청소 서비스 등 신규 답례품을 선보인다.&lt;br&gt;&lt;br&gt;광주시는 “오는 22일부터 KIA타이거즈 유니폼 할인, 광주FC 공식몰 전용 쿠폰, 생활형 돌봄 서비스 ‘청소를 부탁해’ 등 25개 고향사랑기부 신규 답례품을 제공한다”고 15일 밝혔다.&lt;br&gt;&lt;br&gt;고향사랑기부제는 자신이 살고 있지 않은 지자체에 기부하면 지역 특산품 등 답례품과 기부금 세액공제 혜택을 받는 제도다.&lt;br&gt;&lt;br&gt;‘고향사랑e음’ 고향사랑기부제도 플랫폼을 통해 고향사랑기부금을 낸 기부자가 답례품을 선택하면 된다. KIA타이거즈 유니폼 답례품의 경우 고향사랑기부자가 시중가 대비 30% 할인된 가격으로 구매할 수 있는 방식이다.&lt;br&gt;&lt;br&gt;생활형 돌봄 서비스 답례품으로 새로 선정된 ‘청소를 부탁해’는 기부자가 광주에 거주하는 부모님 거주지 등 지정한 장소로 가사 도우미가 방문해 청소를 해준다. 광주시는 “실질적인 생활 복지 지원 답례품으로 소득 수준과 관계없이 광주시민 누구에게나 제공된다”고 설명했다.&lt;br&gt;&lt;br&gt;이번 고향사랑기부 신규 답례품 선정으로 광주시가 제공하는 답례품은 51개에서 76개로 늘었다.&lt;br&gt;&lt;br&gt;광주시 관계자는 “먹거리뿐 아니라 문화·스포츠·서비스 분야까지 선택의 폭을 넓히고 광주의 특색을 반영한 차별화된 답례품으로 기부자 만족도를 높이겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/UUGRXC7VRJGTJGV6YDE3UMNWJI.png?auth=6608e1322cc723b1c913961443e1a437f57dae392030c65f26ec43aa4d731a98&amp;smart=true&amp;width=419&amp;height=443" type="image/png" height="443" width="419">
+        <media:description type="plain">KIA타이거즈 유니폼. /광주광역시</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>서울아산병원, 세계 최초 간이식 9000회 달성</title>
+      <link>https://www.chosun.com/national/welfare-medical/2025/05/15/XEF4INXIGJHABKHPXL2PFQZI3U/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/05/15/XEF4INXIGJHABKHPXL2PFQZI3U/</guid>
+      <dc:creator>곽래건 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 15 May 2025 01:48:14 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NC3COVIT7FENFO5IOOSKG5UBMU.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;이승규 서울아산병원 간이식·간담도외과 석좌교수(오른쪽 첫 번째)가 지난달 30일 알코올성 간경화 환자에게 기증자의 간을 이식하고 있다. 이 병원 9000번째 간이식 수술이다. /서울아산병원 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난달 30일 오전 8시 서울 송파구 풍납동 서울아산병원. 간 이식을 위해 수술방 네 곳이 동시에 열렸다. 살아있는 사람 간 일부를 떼어내 환자에게 이식하는 ‘생체 간이식’이 동시에 두 건 진행된 것이다. 이날 11시간이 넘는 수술 끝에 간암과 간경화를 앓고 있는 40대 환자와 알코올성 간경화로 생명이 위태로웠던 70대 환자가 각각의 조카로부터 간 일부를 성공적으로 이식받았다.&lt;br&gt;&lt;br&gt;이날 수술은 서울아산병원의 8999번째, 9000번째 간 이식 수술이었다. 단일 의료 기관에서 9000번의 간이식을 한 것은 서울아산병원이 세계 최초다. 서울아산병원은 “하나의 의료기관에서 동시에 복수의 간이식이 이뤄지는 것은 세계적으로도 찾아보기 쉽지 않다”며 “개별 의료진의 수술 숙련도가 높고, 의료진을 뒷받침하는 수술 시스템도 정교하게 운영돼 가능했다”고 했다.&lt;br&gt;&lt;br&gt;서울아산병원은 1992년 8월 뇌사자 간이식을 시작으로 지금까지 살아있는 사람끼리의 ‘생체 간 이식’을 7502번, 뇌사자 간 이식을 1498번했다. 9000번째 수술은 첫 수술 이후 32년 8개월 만의 성과다. 서울아산병원은 앞서 2년 반 전인 지난 2022년 9월 간이식 8000번의 기록을 세운 적이 있다.&lt;br&gt;&lt;br&gt;서울아산병원의 전체 간이식 생존율은 98%(1년), 90%(3년), 89%(10년)를 기록하고 있다. 우리나라보다 간 이식 역사가 긴 미국 피츠버그 메디컬센터와 샌프란시스코 캘리포니아대학 메디컬센터의 간 이식 1년 생존률이 평균 92%라는 점을 고려하면 우수한 수치다.&lt;br&gt;&lt;br&gt;이승규 서울아산병원 간이식·간담도외과 석좌교수는 “간이식 9000회를 달성할 수 있던 원동력은 환자들”이라며 “간이식·간담도외과 집도의뿐만 아니라 마취통증의학과, 영상의학과, 소화기내과, 감염내과, 소아외과, 소아청소년전문과, 수술실, 중환자실, 병동, 장기이식센터 등 수많은 의료진이 ‘원팀’이 돼 환자들의 장기 생존과 삶의 질을 보장하기 위해 노력을 쏟았다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>대법 “서울시교육청 ‘초·중·고 기초학력 공개 조례’는 적법”</title>
+      <link>https://www.chosun.com/national/court_law/2025/05/15/WTRQXBBBJRFOZFJO2I44LQKOEY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/05/15/WTRQXBBBJRFOZFJO2I44LQKOEY/</guid>
+      <dc:creator>방극렬 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 15 May 2025 01:17:58 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OFSKKN6ZXFEWNLZ7N546FVIZRM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 대법원 전경. /박성원 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대법원이 서울 학생들의 기초학력 진단 결과를 공개할 수 있도록 한 서울시의회의 조례안이 위법하지 않다고 15일 판결했다.&lt;br&gt;&lt;br&gt;대법원 1부(주심 서경환 대법관)는 이날 서울시교육청이 2023년 5월 서울시의회의 ‘기초학력 보장 지원에 관한 조례안’에 대해 낸 무효 확인 소송을 기각했다. 대법원은 “해당 조례안은 서울시의회의 조례 제정권 한계를 벗어나지 않았고, 상위 법령에 위반되지도 않는다”고 밝혔다.&lt;br&gt;&lt;br&gt;서울시의회는 2023년 3월 서울 내 초·중·고 기초학력 진단검사의 지역·학교별 결과 등을 교육감이 공개할 수 있도록 하는 내용의 조례를 통과시켰다. 교육계 일각에서 ‘학력 줄 세우기’라는 비판이 나왔고, 당시 조희연 서울시교육감은 “위법 소지가 있다”며 재의를 요구했다. 그러자 서울시의회는 그해 5월 의장 직권으로 재의결하며 조례를 공포했고, 이에 서울시교육청이 무효 확인 소송과 효력 정지 가처분 신청을 대법원에 냈다. 서울시교육청은 기초학력 보장에 관한 사무는 교육감에게 위임된 것으로, 조례의 제정 범위에 속하지 않는다고 주장했다.&lt;br&gt;&lt;br&gt;대법원은 일단 집행정지를 받아들여 조례안의 효력을 정지했으나, 약 2년간 심리한 끝에 이날 해당 조례가 유효하다고 결론 내렸다. &lt;br&gt;&lt;br&gt;대법원은 우선 “기초학력 보장과 관련된 ’최소한의 성취 기준‘ 및 구체적 시행계획의 세부 기준과 내용은 각 지역의 여건 및 실정을 고려해 결정돼야 한다”며 “조례 제정권의 한계를 벗어나지 않았다”고 판단했다.&lt;br&gt;&lt;br&gt;대법원은 기초학력 진단 결과를 공개할 수 있게 규정한 것은 교육기관정보공개법, 기초학력 보장법 등 상위 법령에 위반되지 않는다고 봤다. 대법원은 “(조례의 취지는) 기초학력 진단검사의 지역·학교별 결과 등의 공개를 통해 학교 교육에 대한 서울시 주민들의 알 권리를 보장하고, 관심과 참여도를 끌어올려 궁극적으로 기초학력을 신장시키는 것”이라며 “상위법의 입법 취지와 어긋나지 않는다”고 했다.&lt;br&gt;&lt;br&gt;서울시교육청이 주장한 기초학력 공개에 따른 부작용에 대해서는 “학교 서열화, 지역·학교 간 교육 격차 심화 등 폐해는 개별 학교의 명칭을 기호화하는 등의 방법으로 익명 처리해 공개함으로써 방지할 수 있다”고 판시했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>판결문 필수 조항 빠뜨리고 유죄 판결한 1·2심… 대법 “다시 재판하라”</title>
+      <link>https://www.chosun.com/national/court_law/2025/05/15/B5N27KNLPRGMRBNWMYZHS32NJA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/05/15/B5N27KNLPRGMRBNWMYZHS32NJA/</guid>
+      <dc:creator>방극렬 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 15 May 2025 01:11:23 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7V5TMRVHUBHR5P3UUWSWKXM64I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 대법원 전경. /박성원 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;1·2심 법원이 판결문에 꼭 들어가야 할 ‘적용 법령’을 기입하지 않고 잘못 선고한 사건을 대법원이 바로잡는 일이 벌어졌다. &lt;br&gt;&lt;br&gt;15일 법조계에 따르면, 대법원 2부(주심 박영재 대법관)는 지난 1일 공익신고자보호법 위반 혐의로 기소된 의사 A(45)씨에게 유죄를 선고한 원심 판결을 이 같은 취지로 깨고 사건을 서울중앙지법으로 돌려보냈다.&lt;br&gt;&lt;br&gt;대법원은 “원심은 A씨에 대해 유죄 판결을 선고하면서 그 이유에 법령의 적용을 누락한 1심 판결을 그대로 유지했다”며 “원심 판결은 형사소송법 제323조 제1항을 위반해 판결에 영향을 미친 잘못이 있다”고 밝혔다. 형사소송법 323조 1항은 “형의 선고를 하는 때에는 판결 이유에 범죄될 사실, 증거의 요지와 법령의 적용을 명시해야 한다”고 정하고 있는데 이를 따르지 않아 위법하다는 것이다.&lt;br&gt;&lt;br&gt;다만 대법원은 “형이 너무 무거워 부당하다”는 A씨 주장은 받아들이지 않았다. 형사소송법은 사형, 무기 또는 10년 이상의 징역이나 금고가 선고된 사건에서만 양형 부당을 다툴 수 있도록 규정한다.&lt;br&gt;&lt;br&gt;A씨는 2020년 경기도 안산의 한 병원장으로 근무하면서 병원 내 잘못된 간호 조치를 경찰에 신고하고 국가인권위원회에 민원을 넣은 간호사에게 부당하게 불이익을 준 혐의로 2022년 기소됐다. A씨는 간호사의 공익 신고를 이유로 부당한 전보 조치를 하고 두 차례 정직 3개월 처분을 내린 것으로 조사됐다.&lt;br&gt;&lt;br&gt;서울중앙지법 형사14단독은 2023년 5월 A씨 혐의를 인정하며 벌금 500만원을 선고했는데, 판결문에 공익신고자보호법 등 관련 법령을 명시하지 않았다. 또한 같은 법원 형사9부는 2년 넘게 심리하면서도 이 같은 실수를 확인하지 못한 채 항소 기각 판결을 내렸다. &lt;br&gt;&lt;br&gt;서울중앙지법에서 열릴 파기환송심은 대법원 지적을 반영해 판결문을 다시 쓸 전망이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘전원일기 일용이’ 박은수, 수천만원 사기 혐의로 고소당해</title>
+      <link>https://www.chosun.com/national/national_general/2025/05/15/WINYJSJPJ5AT7L2VGNSPS2FKCY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/05/15/WINYJSJPJ5AT7L2VGNSPS2FKCY/</guid>
+      <dc:creator>이가영 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 15 May 2025 00:47:30 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LOZWIUPBSJHIPD4ZWLM7YITHKY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;배우 박은수. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;드라마 ‘전원일기’에서 일용이 역을 맡았던 배우 박은수가 수천만원을 빌린 뒤 갚지 않았다는 내용의 고소장이 경찰에 접수됐다. &lt;br&gt;&lt;br&gt;경기 화성서부경찰서는 14일 연예기획사 대표 A씨로부터 박은수를 사기 혐의로 처벌해 달라는 내용의 고소장을 접수했다고 밝혔다. &lt;br&gt;&lt;br&gt;고소장에는 A씨가 사정이 어렵다고 호소한 박은수에게 여러 차례에 걸쳐 수천만원의 돈을 빌려줬으나 박은수는 돈을 빌린 사실 자체를 부정한다는 내용이 담긴 것으로 전해졌다. &lt;br&gt;&lt;br&gt;이에 대해 박은수는 “말도 안 되는 이야기”라고 반박했다. 박은수 측은 여러 언론에 “A씨는 지인의 지인이다. 몇 번 대접하고 싶다고 교통비도 보내기에 갔었고, (A씨의 부탁으로) 공연을 한 적이 있는 것은 사실”이라고 했다. 이어 “당시 출연료를 줘놓고 공연으로 적자를 보니까 그 모든 금액을 배상하라고 하는 것”이라며 “출연료도 다 준 것도 아니다”라고 했다. 그러면서 “(A씨에게) 연락이 온 것도 아니고, 어느 날 갑자기 내용증명이 날아왔다”며 “억울하다. 고소를 한다니 저희도 대응할 것”이라며 사기와 무고 혐의로 맞고소하겠다고 밝혔다. &lt;br&gt;&lt;br&gt;경찰은 조만간 A씨와 박은수를 차례로 불러 구체적인 사건 경위를 조사할 방침이다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KOQ5LGDWPFAOPJHA5456MHQEMU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;드라마 '전원일기' 속 한 장면. 왼쪽부터 배우 박은수, 유인촌 장관, 김수미. /유튜브 채널 '옛드 : MBC 옛날 드라마'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;박은수는 MBC 드라마 ‘전원일기’(1980~2002)에서 이일용 역으로 많은 사랑을 받았다. 이후 2010년 인테리어 공사비를 지급하지 않아 사기 혐의로 징역 8개월을 선고받았다가 벌금형으로 감형됐다. &lt;br&gt;&lt;br&gt;2021년에는 MBN ‘특종세상’에 나와 기초수급생활자가 된 사실을 공개했다. 박은수는 지난달 유튜브 채널을 통해 “80억원 정도 사기를 당해서 집도 절도 없어졌다”며 지인이 하는 돼지 농장에서 일용직으로 생활했다고 밝혔다. 그는 “근데 내가 사기를 쳤다는 소문이 들렸다”며 “내가 일일이 아니라고 얘기하면 먹히겠나. 그 참에 ‘특종세상’에서 연락이 왔고, 그걸 찍으면서 커버가 됐다. 처자식한테 미안하다”고 말했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>시험 족보처럼 팔리는 ‘교수님 강의 목소리’... 수업 녹음본 불법 판매</title>
       <link>https://www.chosun.com/national/education/2025/05/15/KXEGRV2C4JAUJGSDG3WU2HXHMM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/education/2025/05/15/KXEGRV2C4JAUJGSDG3WU2HXHMM/</guid>
@@ -776,60 +887,6 @@
       <content:encoded>미국인 신랑 A씨는 결혼 비용을 아끼기 위해 ‘허니문’ 대신 ‘미니문’을 다녀왔다. ‘미니문’은 통상 일주일 안팎의 허니문에 비해 여행 기간을 2~4일로 축소한 약식 신혼여행을 말한다. A씨는 소셜미디어에 “집에서 차로 45분 떨어진 관광지에 좋은 호텔을 잡고, 아내와 스파를 하고 골프 치며 4일 동안 푹 쉬었다”고 했다. &lt;br&gt;&lt;br&gt;최근 해외에선 기간이 짧고 간소한 신혼여행, ‘미니문(minimoon)’이 새로운 결혼 트렌드로 부상하고 있다. 이를 ‘마이크로 허니문’으로 부르기도 한다. 기간을 줄이고 여행지도 국내나 멀지 않은 해외를 택해 비용을 낮추는 방식이다.&lt;br&gt;&lt;br&gt;미국의 경우 근교 도시나 국립공원, 영국은 경치가 좋은 스코틀랜드, 프랑스는 기차로 갈 수 있는 스위스 등으로 짧게 여행 가는 식이다. 이런 방식은 결혼 예산이 모자란 신혼부부들에게 인기를 끌고 있다. 여행 기간이 짧아 상대적으로 여행 계획을 짜기도 간단하다. &lt;br&gt;&lt;br&gt;미국의 한 병원에 근무하는 신부 B씨는 휴가를 길게 낼 수 없어서 집에서 차로 1시간 떨어진 호수를 끼고 있는 관광지로 3박 4일 미니문을 다녀온 경험을 소셜미디어에 올렸다. 숙소는 호수가 근처의 ‘에어비앤비’를 빌렸다고 했다. &lt;br&gt;&lt;br&gt;해외의 여행 업계에선 ‘Z세대로 갈수록 미니문 인기가 올라가고 있고, 그 수가 계속 늘어날 것’이라는 전망이 나오고 있다. 영국의 결혼 정보 플랫폼 ‘가이드 포 브라이드’가 지난해 2월 16세 이상 2001명을 설문 조사한 결과, 응답자의 51%가 ‘예산에 따라 미니문을 갈 생각이 있다’고 답했다. &lt;br&gt;&lt;br&gt;설문 조사에서 미니문을 택하는 이유로 가장 많이 꼽힌 것은 ‘미니문을 가는 것이 더 편하기 때문’(31%)이었다. 정신없는 결혼식 직후 장거리 여행을 가는 것은 부담된다는 것이다. 이어 ‘비용을 절약하기 위해’(24%), ‘허니문 여행지에 가는 최적의 시기를 기다리기 위해(22%)’ 등이었다. 일부 커플은 일단 미니문으로 치르고, 훗날 경제적 여유가 생기면 다시 정식 허니문을 가려고 계획했다는 뜻이다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>포도밭서, 예배당서… 前 총리·왕족도 ‘작은 결혼’</title>
-      <link>https://www.chosun.com/national/welfare-medical/2025/05/14/4GB436DO2BB4HLYB252KK4BSGA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/05/14/4GB436DO2BB4HLYB252KK4BSGA/</guid>
-      <dc:creator>오유진 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 13 May 2025 16:16:39 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BCEIPJISS5C67GLJ5UYVQXCQRE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난해 1월 뉴질랜드의 한 포도밭에서 저신다 아던(왼쪽) 전 총리와 방송인 클라크 게이퍼드가 소규모 결혼식을 치르고 있다(왼쪽 사진). 오른쪽 위 사진은 2017년 서울 가회동 성당에서 예식을 올린 배우 김태희(왼쪽)와 가수 비. 오른쪽 아래 사진은 2020년 7월 영국 윈저 예배당에서 열린 비어트리스 공주(오른쪽에서 둘째)의 예식 모습. 왼쪽부터 고(故) 필립 공, 고(故) 엘리자베스 2세 여왕, 비어트리스, 남편 에도아르도 마펠리 모치. /페이스북·레인컴퍼니·로이터 연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서양에서는 국가 지도자와 왕실 인물, 재계 인사, 유명 연예인 등도 ‘스몰 웨딩’에 앞장서고 있다. &lt;br&gt;&lt;br&gt;저신다 아던(45) 전 뉴질랜드 총리는 지난해 1월 뉴질랜드 북섬 호크스베이의 한 포도밭에서 가족과 친구 70여 명을 초대해 소규모 예식을 치렀다. 그는 총리 재임 중인 2018년 사실혼 관계였던 방송인과 사이에 아이를 낳았는데, 당시 연인이 운전하는 차를 타고 공공 병원에 입원해 출산했다. &lt;br&gt;&lt;br&gt;영국 고(故) 엘리자베스 2세 여왕의 손녀인 베아트리스(37) 공주는 코로나 때인 2020년 7월 이탈리아 출신 부동산 사업가와 윈저의 예배당에서 작은 결혼식을 올렸다. 당시 버킹엄궁은 성명에서 “정부의 방역 지침을 준수하는 동시에 가까운 가족과 함께 특별한 날을 기념할 수 있도록 한 것”이라고 했다.&lt;br&gt;&lt;br&gt;올해 말 은퇴를 선언한 미국 투자계의 거물 워런 버핏(95)은 2006년 자신의 76세 생일을 맞아 오랜 연인이던 애스트리드 멩크스와 조용히 재혼식을 올렸다. 네브래스카주 오마하에 있는 딸의 집에서 가족들만 참석한 가운데 약 15분간 간소하게 치렀다. 버핏이 2004년 사별한 첫 부인 수전과 1952년 결혼한 곳도 오마하의 한 교회였다.&lt;br&gt;&lt;br&gt;수천억 원대 자산을 가진 영국 싱어송라이터 에드 시런(34)도 2019년 오래 사귄 일반인과 단출한 결혼식을 올렸다. 결혼식에는 시런의 가족과 친구 등 40여 명만 초대됐다. &lt;br&gt;&lt;br&gt;영화 ‘007’ 시리즈에서 제임스 본드 역으로 세계적 인기를 얻은 영국 배우 대니얼 크레이그(57)와 영국 배우 레이철 바이스(55)는 2011년 미국 뉴욕에서 딸, 아들, 친구 2명이 참석한 가운데 예식을 올렸다. &lt;br&gt;&lt;br&gt;국내 연예인 중에서는 배우 김태희와 가수 비가 2017년 서울 가회동 성당에서 지인 등 소수가 참석한 비공개 결혼식을 올렸다. 김태희는 직접 디자인한 웨딩드레스를 입었고, 비는 평소 정장을 착용했다. 결혼식 비용은 200여 만원에 불과했던 것으로 알려졌다. &lt;br&gt;&lt;br&gt;가수 윤하도 올해 3월 서울 모처에서 가족과 친지, 가까운 지인들만 초대한 가운데 소규모 결혼식을 올렸다. 2019년 배우 신소율과 뮤지컬 배우 김지철의 셀프 웨딩도 스몰 웨딩의 사례로 꼽힌다. 둘은 대관료 30만원, 꽃 장식 30만원, 웨딩 케이크 9만원, 의상 대여 18만원 등 총 87만원으로 결혼식을 준비했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[두근두근 뇌 운동] [2620] 암호로 바꿔 쓰기</title>
-      <link>https://www.chosun.com/national/nie/2025/05/14/L7LRFYKVURGEPONROFB2CEBVGY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2025/05/14/L7LRFYKVURGEPONROFB2CEBVGY/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Tue, 13 May 2025 15:33:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BZAB7LKLJBA5BFA2FQFID4KO24.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문으로 배우는 실용한자] 불복(不服)</title>
-      <link>https://www.chosun.com/national/nie/chinese_character/2025/05/14/IYRFJCY6AVBI7OFYSS4T4RK4VU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese_character/2025/05/14/IYRFJCY6AVBI7OFYSS4T4RK4VU/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Tue, 13 May 2025 15:33:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VA7WPYSMSZAIPKEF3NNNOZDN4A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[매일매일 중국어 한마디] 고민거리</title>
-      <link>https://www.chosun.com/national/nie/chinese/2025/05/14/65AP5W7MWRHJ3LQ7JPL5KL7RZY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese/2025/05/14/65AP5W7MWRHJ3LQ7JPL5KL7RZY/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Tue, 13 May 2025 15:33:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/N75B66NN6JD4TI5T5RRC6B3GXY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[입에 착착 붙는 일본어] 최선을 다하다</title>
-      <link>https://www.chosun.com/national/nie/japanese/2025/05/14/ESQMLGDPIJEQVPUFKTZY56SFTY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/japanese/2025/05/14/ESQMLGDPIJEQVPUFKTZY56SFTY/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Tue, 13 May 2025 15:33:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DLVGOQ7TLBCLPJZ2LJ4NAUCLC4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[스피킹이 강해지는 영어] page-turner</title>
-      <link>https://www.chosun.com/national/nie/english/2025/05/14/X4VR5PIXUFCAXOZFUB5CGG74KQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/english/2025/05/14/X4VR5PIXUFCAXOZFUB5CGG74KQ/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Tue, 13 May 2025 15:33:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VIX4BM6XEJE7NJDXZXU4N6GLRI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>전동 킥보드 한 대에 두 명… 한 손 운전에 링거 거치대까지 </title>
       <link>https://www.chosun.com/national/national_general/2025/05/13/VGCOX4C4QRCWLL5QMBH5YX2N2A/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/05/13/VGCOX4C4QRCWLL5QMBH5YX2N2A/</guid>
@@ -837,24 +894,6 @@
       <description/>
       <pubDate>Tue, 13 May 2025 12:51:06 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JCETNE27S5EBVNWF2QH7ROWC6U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전동 킥보드 한 대에 두 명이 탑승해 있다. /인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전동 킥보드 한 대에 사람 두 명이 안전모도 쓰지 않은 채 탑승해 주행하는 영상이 확산해 온라인상에서 논란이 일었다. 특히 영상 속 운전자는 한 손으로는 통화 중이었으며, 뒤에 탑승한 남성은 환자복을 입은 채 한 손으로는 링거 거치대를 들고 있어 더욱 네티즌들의 지적을 받았다. &lt;br&gt;&lt;br&gt;13일 온라인상에는 ‘전동 킥보드 레전드 갱신’ 등을 제목으로 한 글이 잇달았다. 글에는 남성 2명이 전동 킥보드 한 대에 탑승해 이동하는 모습이 담겼는데, 두 사람 모두 안전모를 착용하지 않은 상태다. &lt;br&gt;&lt;br&gt;영상을 자세히 보면, 운전자는 휴대전화를 들고 통화하느라 한 손으로 운행 중이고 뒤에 탑승한 남성은 병원복 차림으로 한 손은 운전자를 붙잡고 다른 한 손으로는 링거 거치대를 들었다. 주변에 차량이 지나다니는데도 두 사람은 도로 한가운데에서 이대로 주행을 이어갔다. 건물들의 상호명 등을 미뤄볼 때 광주 광산구의 한 도로에서 촬영된 것으로 추정된다. &lt;br&gt;&lt;br&gt;이 영상은 작년 9월에도 인스타그램 등 소셜미디어에 일부 올라왔지만, 최근 들어 온라인상에 급격하게 퍼졌다. 네티즌들은 “헬멧 없음, 2인 탑승, 전화, 링거 모든 위험 요소가 합쳐졌다” “차라리 콘셉트로 촬영한 거면 좋겠다” “돌부리나 패인 곳 제대로 걸리면 정말 크게 다칠 수 있다” 등의 반응을 보였다. 일각에선 “그만큼 급한 일이 있었을 수 있다”는 의견도 나왔지만, 원칙적으로 동반 탑승은 불가하다. &lt;br&gt;&lt;br&gt;도로교통법은 전동 킥보드 승차 정원을 1명으로 제한하고, 이를 초과해 동승자를 태우는 것을 금지하고 있다. 또 관련 법에 따르면 전동 킥보드 운전자는 자전거용 안전모를 착용해야 하며, 동승자에게도 이를 착용하도록 해야 한다. 영상 속 두 사람이 미성년자인지 여부는 확인되지 않았으나, 전동 킥보드를 운전하려면 만 16세 이상이어야 하며 원동기장치자전거면허 또는 그 이상의 운전면허를 소지해야 한다. &lt;br&gt;&lt;br&gt;이런 규정에도 헬멧 착용 등의 안전 수칙을 지키지 않아 사고가 발생하는 사례가 이어지는 것으로 조사됐다. 질병관리청의 응급실 손상 환자 심층 조사에 따르면, 2023년 개인형 이동 장치로 인한 손상 환자는 총 1258명이었는데 이 중 86.3%가 전동 킥보드 이용자였다. 또 손상 환자의 75.0%는 헬멧을 착용하지 않았고, 운전면허 보유자 비율은 47.0%로 절반이 채 되지 않았다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/A3F5FNMVRIPPTGAQ5FYMVBFWI4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;16일부터 홍대 레드로드와 반포 학원가 도로가 '킥보드 없는 거리'로 지정된다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;시민들의 불편과 사고 사례가 이어지자, 일부 시는 ‘킥보드 없는 거리’를 조성하고 나서기도 했다. 서울시와 서울경찰청은 지난 12일 전국 최초로 마포구 홍대 레드로드와 서초구 반포 학원가를 ‘킥보드 없는 거리’로 지정하고 도로교통법상 개인형 이동 장치로 분류되는 전동 킥보드와 전동 이륜 평행차, 전기 자전거 등 3종을 낮 12시부터 밤 11시까지 통행 금지시키기로 했다. 오는 16일부터 시행될 예정이며, 약 5개월간의 홍보 및 계도 기간을 갖는다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>제주 인근 동중국해서 8명 탄 한국 어선 침수…중국 해경이 전원 구조</title>
-      <link>https://www.chosun.com/national/regional/2025/05/13/MXK2SFQEH5HNJO6CPXEJXQBDKQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/05/13/MXK2SFQEH5HNJO6CPXEJXQBDKQ/</guid>
-      <dc:creator>김주영 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 13 May 2025 10:39:27 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LTQ5A6S6MGAHRTW6ALRJHS6W5Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;13일 오후 제주도 서귀포시 남서쪽 해상에서 563㎞ 떨어진 동중국해에서 29t급 모슬포 선적 887어진호가 침수돼 선원 8명이 중국 해경에 구조됐다. 사진은 포구에 정박 중인 887어진호. /제주해양경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;13일 오후 제주도 서귀포시 남서쪽 동중국해에서 선원 8명이 탄 어선이 침수돼 선원들이 한때 고립됐으나 중국 해경에 구조됐다. &lt;br&gt;&lt;br&gt;제주해양경찰청은 13일 오후 6시 11분쯤 제주안전국으로부터 서귀포시 남서쪽 563㎞ 해상에서 29t급 어선 887어진호가 침수하고 있다는 신고를 접수 받았다.&lt;br&gt;&lt;br&gt;어선에는 선원 8명이 타고 있었으며 선장은 한국인이고, 나머지 선원 7명은 인도네시아인으로 파악됐다.&lt;br&gt;&lt;br&gt;제주해경은 사고 해역에 경비함과 헬기를 급파하고, 중국 해경과 중국 저장성(浙江省) RCC(수색구조조정본부), 해군, 인근 선박에 구조 협조를 요청했다.&lt;br&gt;&lt;br&gt;협조 요청을 받은 중국 해경은 이날 오후 8시 20분쯤 승선원 8명을 모두 구조했다. 구조된 선원들은 건강에 이상이 없는 것으로 전해졌다. &lt;br&gt;&lt;br&gt;제주해경은 선원들을 중국 해경으로부터 인수할 계획이다. 이날 오후 8시 30분 현재 5000t급 경비함정이 신속하게 사고 현장 인근 해역으로 이동중으로, 내일 오전 8시쯤 도착할 예정이다.&lt;br&gt;&lt;br&gt;제주해경은 중국 구조 당국에 감사 서한도 발송할 계획이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“네 목소리라면 고막 터져도 좋아”… 또래 여학생 잔혹 살해한 10대의 편지</title>
-      <link>https://www.chosun.com/national/national_general/2025/05/13/KEGZSYQTRJD7JEPYACOTL5IK2U/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/05/13/KEGZSYQTRJD7JEPYACOTL5IK2U/</guid>
-      <dc:creator>박선민 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 13 May 2025 11:01:58 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PMJZ4RJ3K5BLVC7H5BJX7YSR3M.png"&gt;&lt;figcaption&gt;&lt;small&gt;성탄절 온라인에서 알게 된 또래 여학생을 잔혹하게 살해해 구속 기소된 10대가 수감 중 쓴 편지 일부. /SBS&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;작년 성탄절 경남 사천에서 또래 여학생을 잔혹하게 살해한 혐의로 구속 기소된 10대가 수감 중 이미 고인이 된 피해자에게 편지를 보낸 것으로 파악됐다. &lt;br&gt;&lt;br&gt;지난 10일 SBS ‘그것이 알고 싶다’에 따르면, 성탄절 당일 또래 여학생에게 흉기를 여러 차례 휘둘러 숨지게 한 혐의를 받는 A군은 수감 중 피해자 B양을 향해 편지를 작성했다. &lt;br&gt;&lt;br&gt;‘내가 너에게 하려던 말’이라는 문장으로 시작하는 3장 분량 편지에서 A군은 범행에 대한 죄책감이나 반성보단 자신이 얼마나 B양을 동경했는지에 대해 썼다. “네 목소리라면 고막이 터지고 달팽이관이 찢어져도 좋았어” “네 머리끈을 손목에 감는다면 내겐 그 어떤 명품 시계보다 가치가 있을 거야” “누군가 내게 완벽이 뭐냐고 물었을 때, 내가 하려던 모든 말을 네가 해주고 있었어” 등이다. “너는 미치도록 완벽한데, 완벽에 비하면 나는 최악”이라며 자조적인 태도를 보이기도 했다. &lt;br&gt;&lt;br&gt;B양을 향한 왜곡된 이상화는 이어졌다. A군은 “너 죽고 나서 12월 28일 네가 꿈에 나왔어. 나 왜 죽였어? 이런 내용이 아니라, 꿈속의 너는 오히려 웃고 있더라”며 “날 보더니 반가워하고, 네 옆에 앉은 나를 안아주면서 환하게 웃고 있더라”고 적었다. 또 “그날 그때 너를 마주 보며 웃었던 그 찰나의 순간만큼은 정말로 행복했어”라며 “언젠가 다시 너와 아무래도 좋을 이야기를 나누며 웃는 날이 왔으면 더할 나위 없이 좋겠어. 미안해”라고도 했다. &lt;br&gt;&lt;br&gt;A군은 작년 12월 25일 오후 8시 50분쯤 경남 사천시 한 아파트 입구에서 또래 여학생 B양에게 미리 준비한 흉기를 휘둘러 숨지게 한 혐의를 받는다. &lt;br&gt;&lt;br&gt;검찰 공소사실과 판결문에 따르면, A군은 2020년쯤 오픈 채팅방을 통해 B양을 알게 된 후 이성적인 감정을 갖게 됐다. 그러다 작년 4월쯤 B양에게 남자친구가 생긴 것 같다는 생각에 ‘내가 가질 수 없다면 죽이는 것이 낫다’라며 살해를 결심했다고 한다. 그렇게 약 8개월간 흉기와 휘발유, 라이터 등을 차례로 구입한 뒤 범행 당일 ‘줄 것이 있다’며 B양을 불러내 범행을 저지른 것으로 파악됐다. &lt;br&gt;&lt;br&gt;지난 1일 창원지법 진주지원 형사1부(김기동 부장판사)는 A군에게 징역 20년과 위치추적 전자장치 부착 20년을 명령했다. 현행법상 특정 강력 범죄를 저지른 만 18세 미만 소년범은 최대 20년의 유기징역에 처해질 수 있다. 범행 당시 A군은 만 17세로, 소년법상 법정 최고형을 선고받은 것이다. 앞서 검찰은 A군에 대해 징역 20년과 전자장치 부착 20년, 보호 관찰 5년을 구형한 바 있다. &lt;br&gt;&lt;br&gt;재판부는 “피고인의 범행은 즉흥적 분노나 충동적 폭력과 다른 사전에 치밀하게 준비된 계획적 살인으로 그 책임이 무겁다”고 했다. 이어 “생명과 직결되는 치명적 부위에 흉기를 여러 차례 휘두르는 등 범행 수법도 잔혹했다”며 “피고인의 범행으로 하나뿐인 자녀를 잃은 피해자의 부모가 감당해야 할 슬픔과 고통, 분노와 상처는 차마 헤아리기 어렵다”고 판시했다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>李 ‘수사·기소 분리’ 공약에...현직 검사 “검찰 문제에 순진한 믿음” </title>
@@ -902,15 +941,6 @@
       <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/E2D42LLUQU2JCWMEL2TQBWGSOE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;손준성 대구고검 차장검사(검사장)가 13일 서울 종로구 헌법재판소에서 열린 고발사주 의혹 탄핵심판 첫 정식 변론기일에 출석해 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이른바 ‘고발 사주’ 의혹으로 기소됐다가 대법원의 무죄 확정 판결을 받은 손준성 대구고검 차장검사(검사장)가 13일 헌법재판소에서 열린 탄핵 심판 변론에서 “22년이라는 짧지 않은 공직 생활 중 공직자로서 법무를 잃고 양심에 어긋나는 행동을 하지 않았다”며 모든 혐의를 부인했다. &lt;br&gt;&lt;br&gt;헌법재판소는 이날 오후 3시 손 검사장의 탄핵 심판 첫 변론 기일을 진행했다. ‘동일 사유의 형사 재판이 진행 중’이라는 이유로 작년 4월 이후 중단됐다가 지난달 대법원에서 최종 무죄 판결이 나오며 1년여 만에 다시 열린 것이다. 헌재는 오는 20일 한 차례 기일을 더 진행하고 변론을 종결하기로 했다.&lt;br&gt;&lt;br&gt;이날 변론은 국회가 탄핵소추 사유 요지를 설명하고 손 검사장 측이 의견을 진술한 뒤 헌법재판관들이 양측을 신문하는 순서로 진행됐다. &lt;br&gt;&lt;br&gt;국회 탄핵소추위원인 정청래 법제사법위원장은 “(손 검사장이) 여러 차례 직무 범위를 벗어난 행위를 했고, 이게 사실이라면 단순한 실수가 아닌 의도적이고 반복적인 권한 남용”이라고 주장했다.&lt;br&gt;&lt;br&gt;또 “이 탄핵 심판은 손준성 한 명을 탄핵할 것인가의 문제가 아니라 검찰 권력의 통제 가능성과 법치주의의 실질적 실현을 국민 앞에 천명하는 중대한 시험대”라며 “대한민국 검사는 중대한 법 위반 시 언제든 파면될 수 있다는 원칙이 확인될 수 있기를 바란다”고 했다. &lt;br&gt;&lt;br&gt;손 검사장의 탄핵소추 사유는 대검찰청 수사정보정책관으로 재직하던 2020년 21대 총선을 앞두고 민주당 인사들을 고발해달라고 정치권에 사주했다는 의혹이다. 손 검사장은 윤석열 당시 검찰총장 부부 등의 명예를 훼손한 혐의로 유시민씨와 최강욱 전 민주당 의원에 대한 고발장을 작성해, 총선 출마를 준비하던 김웅 전 미래통합당(현 국민의힘) 의원에게 두 차례 텔레그램으로 전달한 의혹을 받았다. &lt;br&gt;&lt;br&gt;고위공직자수사처(공수처)는 2022년 5월 공직선거법 위반과 공무상 비밀 누설 등 혐의로 손 검사장을 기소했고, 이후 2023년 12월 국회가 같은 이유로 탄핵을 소추했다. &lt;br&gt;&lt;br&gt;손 검사장에 대한 형사 재판은 지난달 24일 대법원이 무죄를 선고한 원심을 확정하면서 기소 3년 만에 결론이 나왔다. 앞서 1심은 손 검사장이 고발장 일부 내용과 첨부한 실명 판결문 등을 김 전 의원에게 유출했다고 인정하고 징역 1년을 선고했지만, 2심은 “손 검사장이 고발장을 직접 (김 전 의원에게) 보냈다는 것을 증명하는 직·간접 증거가 없다”며 무죄로 판결했다. 대법원도 2심과 같이 판단했다.&lt;br&gt;&lt;br&gt;손 검사장을 대리하는 이동흡 변호사(전 헌법재판관)는 이날 “공무상 비밀 누설과 개인정보보호법 위반 등에 대해서는 대법원 판결로 무죄가 확정됐고, 직권남용에 대해선 무혐의 결정이 있었던 만큼 국회의 주장은 아무런 근거가 없다”고 했다. 이어 “국회가 주장하는 기본적 사실관계와 동일한 공소 사실이 무죄로 확정된 이상 탄핵소추 사유는 기본적인 사실관계가 인정되지 않기 때문에 기각돼야 한다”고 했다.&lt;br&gt;&lt;br&gt;손 검사장 측은 ‘정치적 탄핵’이라고도 주장했다. 이 변호사는 “탄핵소추의 본질을 벗어나 정치적 목적으로 추진됐다는 강한 의심을 갖고 있다”며 “조속한 시일 내에 기각해서 20여년 간 성실히 검사로 근무한 손 검사장이 1년 6개월간 직무 정지된 사안을 해소해주시고, 국회가 정치적 목적으로 탄핵소추를 남발하는 것에 대해 경종을 울려주시기 바란다”고 했다. &lt;br&gt;&lt;br&gt;손 검사장은 이날 직접 변론에 나서 혐의를 부인했다. 손 검사장은 “김웅 전 의원에게 고발장을 전송한 사실이 없고, 고발장을 작성하거나 대검 직원이나 그 어느 누구에게 고발장을 지시한 사실이 없다”고 했다. 그러면서 “2022년 9월 언론 보도 후 사실관계 규명이 이뤄지기 전에 정치적 중립을 어긴 검사로 낙인 찍혔다”며 “저로선 견디기 어려운 모함이었다”고 했다.&lt;br&gt;&lt;br&gt;또 “공수처 수사과정 중 두 차례 구속영장이 청구됐지만 모두 소명 부족으로 기각됐고 증거 불충분으로 불기소 의견이 나왔지만 기소됐다”며 “답을 정한 수사라고 생각될 수밖에 없었다”고 했다. &lt;br&gt;&lt;br&gt;김형두 헌재소장 권한대행은 국회 측에 “확정된 형사 판결이 있는데도 피청구인(손 검사장)이 김웅에게 텔레그램 메시지를 보냈다는 주장을 유지하는 것이냐”고 질문하자 국회 측은 “그렇다”고 답했다. 김 대행은 손 검사장 측에는 고발장을 전달한 메시지의 원본 작성자가 손 검사장이 맞는지 물었고, 손 검사장 측은 “메시지를 다른 데서 받아서 본인 휴대전화에 보관하고 있다가 다시 발송했기 때문에 최초 발송자처럼 보이는 것”이라며 부인했다.&lt;br&gt;&lt;br&gt;헌재는 지난달 문형배·이미선 재판관이 퇴임하면서 9명 중 2명이 공석인 7명 체제로 운영되고 있다. 재판관 6명 이상이 찬성하면 탄핵을 인용할 수 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>서울 중장년은 외롭다…한 달여 만에 상담 3000건 돌파</title>
-      <link>https://www.chosun.com/national/national_general/2025/05/13/GCMGSCV62BEJHIFMERIPRZPISE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/05/13/GCMGSCV62BEJHIFMERIPRZPISE/</guid>
-      <dc:creator>박진성 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 13 May 2025 09:04:38 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MCBPGOAD2RERTBCOMIIFOFVSJI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2021년 서울 신림동에 위치한 고시텔에서 한 거주민이 라면을 먹고 있다. /김지호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“집에 들어올 때마다 너무 쓸쓸해요. 왜 사는지 모르겠어요”&lt;br&gt;&lt;br&gt;지난달 18일 새벽 12시50분, 50대 기초생활수급자 남성 A씨에게서 전화가 걸려왔다. 삶의 의욕을 잃은 A씨가 농약 한 병을 곁에 두고 마지막으로 용기를 내 건 전화였다. 운영하던 횟집이 잘 안 돼 빚은 쌓였고 아내와는 이혼했다. 공황장애로 사회생활이 어려워 노모에게 용돈을 타 쓸 때마다 자괴감을 느낀다고 한다.&lt;br&gt;&lt;br&gt;그가 전화를 건 곳은 ‘외로움안녕 120′. 서울시가 24시간 운영하는 고독 문제 전담 콜센터다. 전화를 받은 사회복지사는 “많이 힘드셨죠? 선생님은 소중한 사람이십니다. 선생님도 본인을 그렇게 대해주세요”라고 말했다. A씨는 가족과의 갈등, 사업할 당시의 얘기들을 쏟아냈다. 1시간이 넘는 통화 끝에 A씨는 “선생님 고맙습니다. 앞으로 시간이 주어진다면 아들에게 좋은 아빠가 되고 싶습니다”라고 말했다.&lt;br&gt;&lt;br&gt;서울시복지재단 고립예방센터가 지난 4월부터 시작한 ‘외로움안녕120′ 상담이 5월 8일 기준 3088건을 기록했다고 13일 밝혔다. 하루 80건 넘게 상담을 한 셈이다. 2025년 목표치 3000건을 한 달 반만에 달성했다. 외로움을 느끼는 시민 누구나 120에 전화하면 상담사와 이야기할 수 있다. 전문 심리상담사나 사회복지사 14명이 근무한다. 전화를 선호하지 않는 시민들을 위해서 카카오톡 상담도 된다.&lt;br&gt;&lt;br&gt;​외로움 상담은 40~64세 중장년층이 가장 많이 찾았다(59%). 20~39세 청년(32%), 65세이상 노인(8%)이 뒤를 이었다.&lt;br&gt;&lt;br&gt;센터 관계자는 “중장년의 경우 사업에 실패하거나 이혼 등 가정이 해체하는 경우가 많다”며 “가족이나 직장에서 사회생활을 하다 혼자 남게 된 쓸쓸함을 토로하는 분이 많다”고 말했다.&lt;br&gt;&lt;br&gt;청년들은 주로 인간관계·가족관계나 취업에 대한 고민을 말할 곳이 없는 이들이 센터에 전화한다고 한다. 20대 여성 B씨는 “어머니가 돌아가시고 주변 사람에게 슬픔을 토로하하다보니 관계가 소원해지더라”며 “맘 편하게 자세히 슬픔을 털어놓고 싶어 120에 전화했다”고 말했다.&lt;br&gt;&lt;br&gt;유선 전화보다 문자 메시지가 익숙한 20~30대는 카카오톡 등으로 채팅 상담을 하는 경우도 많다. 재단 관계자는 “전체 상담 3088건 중 9.4%(290건)이 채팅 상담이었는데 대부분이 청년”이라고 말했다.&lt;br&gt;&lt;br&gt;서울연구원의 ‘서울시 1인 가구 실태조사’(2022년)에 따르면 1인 가구 중장년의 65%가 ‘외로움’을 느끼는 것으로 나타났다. 이들은 경제적 어려움도 겪고 있다. 지난해 서울금융복지상담센터에 따르면 파산 신청자의 70%가 중장년 1인 가구(남성)다.&lt;br&gt;&lt;br&gt;이수진 고립예방센터장은 “한 달만에 전화가 3000건 넘게 온 건 시민들이 외로움을 말할 곳이 필요했다는 증거”라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>대전시, 2000억 규모 ‘대전 D-도약 펀드’ 조성 착수</title>
       <link>https://www.chosun.com/national/regional/2025/05/13/KP44YBT3KZB4PADBBMEKI3PCUU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/05/13/KP44YBT3KZB4PADBBMEKI3PCUU/</guid>
@@ -918,40 +948,6 @@
       <description/>
       <pubDate>Tue, 13 May 2025 08:23:56 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SE4IZCIW2NC6RCCG7B2EZOFSTE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대전시는 13일 하나은행, 대전투자금융과 2000억원 규모 '대전 D-도약 펀드' 조성을 위한 출자 협약(MOU)을 맺었다. 왼쪽부터 이동열 하나은행 충청영업그룹 대표(부행장), 이호성 하나은행장, 이장우 대전시장, 송원강 대전투자금융 대표. /대전시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대전시는 13일 하나은행, 대전투자금융과 2000억원 규모 ‘대전 D-도약 펀드’ 조성을 위한 출자 협약(MOU)을 맺고, 민·관 협력 체계 구축에 나섰다.&lt;br&gt;&lt;br&gt;하나은행은 펀드 조성을 위해 1000억원을 출자한다. 전국 첫 지방정부 공공투자기관인 대전투자금융은 모펀드로 2000억원을 조성, 대전시가 선정한 6대 전략산업(ABCDQR) 및 딥테크 분야 중심의 유망 스타트업, 벤처기업에 대한 간접 출자 및 직접 투자를 추진하는 등 펀드 조성과 운용을 총괄한다.&lt;br&gt;&lt;br&gt;시는 이 펀드를 통해 지역 내 기술 기반 창업 기업들이 자금을 안정적으로 확보하고, 시장에서 경쟁력을 갖춘 글로벌 기업으로 도약할 수 있는 기반을 마련한다는 방침이다. 이를 위해 창의적인 기술력과 사업화 가능성을 갖춘 초기 기업을 선제적으로 발굴, 육성하는 데 주력할 계획이다.&lt;br&gt;&lt;br&gt;‘대전 D-도약 펀드’는 자금 조성 완료 후 오는 6월 말 출정식을 거쳐, 하반기부터 본격 운용에 들어갈 예정이다. 펀드 운용 방식은 유망 기업을 선정해 간접 투자자(LP) 참여와 함께 직접 투자가 병행 가능하도록 설계된다.&lt;br&gt;&lt;br&gt;시는 지속 가능한 펀드 운용을 통해 민간 자본이 혁신 산업에 안정적으로 유입될 수 있도록 행정·제도적 기반도 강화할 방침이다.&lt;br&gt;&lt;br&gt;이장우 대전시장은 “미래 고부가가치 산업인 나노·반도체, 바이오, 우주항공 등 딥테크 분야 집중 투자로 대전이 대한민국의 신성장 동력을 선도적으로 창출할 수 있기를 기대한다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘폭싹 속았수다’ 문소리, 제주 해녀 은퇴식에 깜짝 방문</title>
-      <link>https://www.chosun.com/national/national_general/2025/05/13/PHQFMMPS3BB43IIAVT2W2YTVBI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/05/13/PHQFMMPS3BB43IIAVT2W2YTVBI/</guid>
-      <dc:creator>정아임 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 13 May 2025 07:43:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ATC2Q4CUSLKU5QKL2YYDZCJSGA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;배우 문소리가 지난 12일 김녕수산문화복합센터에서 열린 해녀 은퇴식에 참여해 은퇴 해녀와 사진을 찍고 있다./제주해녀문화협회 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제주 바다에서 한평생 물질을 해온 해녀들의 은퇴식이 지난 12일 열린 가운데, 넷플릭스 드라마 ‘폭싹 속았수다’에서 해녀의 딸을 연기했던 배우 문소리도 현장을 찾았다.&lt;br&gt;&lt;br&gt;사단법인 제주해녀문화협회는 지난 12일 제주시 구좌읍 김녕수산문화복합센터에서 제7회 해녀은퇴식을 진행했다고 13일 밝혔다. &lt;br&gt;&lt;br&gt;이번에 은퇴한 해녀는 김녕어촌계에서 활동한 24명으로, 평균 물질 경력만 67년에 달한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5EHXESZHUZAT5GZWJXG44GIDBY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;12일 제주시 김녕어촌계 주최·제주해녀문화협회 주관으로 제7회 해녀은퇴식이 열렸다./[제주해녀문화협회&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제주해녀문화협회는 이들 해녀에게 공로패를 전달하고, 한국걸스카우트 측이 명예지도자증을 헌정했다.&lt;br&gt;&lt;br&gt;특히 이날 은퇴식에는 넷플릭스 인기 드라마 ‘폭싹 속았수다’ 극중 해녀 광례의 딸로 출연했던 배우 문소리도 현장을 방문했다. 전통 해녀복인 ‘물소중이’를 입은 문소리는 은퇴 해녀들에게 “폭싹 속았수다(‘정말 수고 많으셨습니다’의 제주어)”라고 인사를 건네며 은퇴 해녀 한 명 한 명과 기념 촬영을 했다.&lt;br&gt;&lt;br&gt;양종훈 제주해녀문화협회 이사장은 “현재 제주 해녀는 반세기 이상 마을과 바다에서 생업과 문화를 지켜온 분들이 다수”라며 “단순한 직업인을 넘어 국가적·사회적 자산이라 할 수 있는 해녀를 위한 은퇴식은 그 어떤 졸업식이나 퇴임식보다 뜻깊다고 생각한다”고 했다.&lt;br&gt;&lt;br&gt;제주해녀문화협회는 해녀 전통문화 보존을 위해 지난 5월부터 제주시 한림읍 귀덕2리와 함께 제1회 해녀 은퇴식을 개최한 데 이어, 구좌읍 하도리와 한림읍 수원리, 금능·월령리, 서귀포시 법환동, 제주시 도두동 등에서 은퇴식을 주관해오고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/ATC2Q4CUSLKU5QKL2YYDZCJSGA.jpg?auth=fb8796c23838945ac4e6359dda9bea3cbff7255a3ee86dcf303bd4c8f09a509b&amp;smart=true&amp;width=486&amp;height=729" type="image/jpeg" height="729" width="486">
-        <media:description type="plain">배우 문소리가 지난 12일 김녕수산문화복합센터에서 열린 해녀 은퇴식에 참여해 은퇴 해녀와 사진을 찍고 있다./제주해녀문화협회 </media:description>
-      </media:content>
-    </item>
-    <item>
-      <title>‘93세’ 이길여 가천대 총장 근황 화제...“뱀파이어냐”</title>
-      <link>https://www.chosun.com/national/national_general/2025/05/13/DBSDYTN7AVFQBGVGLQFOHB5LHU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/05/13/DBSDYTN7AVFQBGVGLQFOHB5LHU/</guid>
-      <dc:creator>정아임 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 13 May 2025 03:16:46 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YZ4XBQCUVZCIBBQ7WGNLZWZABM.png"&gt;&lt;figcaption&gt;&lt;small&gt;이길여 가천대학교 총장./유튜브 '가천대학교'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;가천대학교 이길여(93) 총장이 최근 학교 홍보 영상에 등장한 장면이 온라인상에서 주목받고 있다. 구순이 넘은 나이에도 풍성한 머리숱과 윤기 나는 피부에 네티즌들은 “뱀파이어 아니냐”는 반응을 보였다. &lt;br&gt;&lt;br&gt;지난달 14일 가천대학교 공식 유튜브 채널에는 학교 홍보 동영상이 올라왔다. 눈길을 끈 건 올해 93세를 맞이한 이 총장이 등장한 장면이었다. &lt;br&gt;&lt;br&gt;영상 속 이 총장은 “우리가 살아갈 인공지능과 플랫폼 시대는 문턱도 울타리도 없는 것이 특징이다. 우수한 학생들 앞선 기업들은 기회가 넘치는 플랫폼 대학을 선택하게 될 것”이라며 “가천대학교가 그중 최고의 플랫폼 대학이 되겠다”고 말했다.&lt;br&gt;&lt;br&gt;학생들과 마주 앉아 미소를 지으며 대화를 나누는 장면도 담겼다. 이 총장의 풍성한 머리숱, 매끈한 피부, 힘이 느껴지는 또렷한 눈빛이 눈길을 끌었다. &lt;br&gt;&lt;br&gt;이 총장이 나온 장면은 최근 여러 온라인 커뮤니티에 공유됐다. 이를 본 네티즌들은 “뱀파이어냐” “대한민국에서 제일 젊게 보일 듯하다” “저 정도면 관리의 영역을 넘어선 거다” 등의 반응을 보였다.&lt;br&gt;&lt;br&gt;이 총장은 1932년 5월 9일 전북 옥구군 대야면(현 군산시)에서 태어났다. 서울대 의대를 졸업해 1958년 인천에서 산부인과를 개원했다. 1978년 국내 여의사 최초로 의료법인을 설립했는데, 바로 인천 길병원이다. 현재 이 총장은 의료·교육·문화·봉사·언론 분야를 아우르는 국내 최대 공익재단인 ‘가천길재단’을 이끌고 있다.&lt;br&gt;&lt;br&gt;특히 이 총장은 나이보다 어려 보이는 모습으로 유명하다. 젊음을 유지하는 비결과 관련해 이 총장은 그간 언론 인터뷰에서 “물을 많이 마시고 자극적인 것은 피하며 스트레스를 잘 받지 않는 것”이라고 말해왔다. 지난 2월 본지 인터뷰에서도 “(동안 비결은) 지극히 평범한 것들을 잘 지키려고 노력한다”며 “규칙적인 생활을 하고, 물을 많이 마시며, 술·담배 하지 않기 같은 것”이라고 말했다.&lt;br&gt;&lt;br&gt;그는 91세 때인 2023년에도 젊음을 유지하는 모습으로 화제가 됐었다. 당시 가천대 한마음페스티벌 워터축제에 나타난 이 총장은 싸이의 무대를 앞두고 깜짝 등장했다. 이 총장은 당시 “오늘은 세계적인 스타 싸이가 오는 날이죠? 우리는 가천스타일”이라고 외치며 싸이의 강남스타일의 말춤을 선보였다. 이 총장이 무릎을 굽혔다가 펴고 팔을 휘두르며 분위기를 띄우자 학생들은 환호했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>﻿백종원 돼지 수육 만든 ‘대형 솥’… ”불법” 또 논란</title>
-      <link>https://www.chosun.com/national/national_general/2025/05/13/QZNTXYWGABBFRGAUSJPY7BFZGY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/05/13/QZNTXYWGABBFRGAUSJPY7BFZGY/</guid>
-      <dc:creator>이가영 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 12 May 2025 22:23:17 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HR6ARZ5LGNEFXP2B2Z3BLCYUBE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;백종원 더본코리아 대표가 초대형 가마솥으로 수육을 만들고 있다. 이 가마솥이 식품위생법을 위반한 것이라는 민원이 제기됐다. /ENA '레미제라블'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;백종원(59) 더본코리아 대표가 이번에는 불법 조리 솥을 사용했다는 민원이 접수됐다. &lt;br&gt;&lt;br&gt;네티즌 A씨는 지난 11일 “ENA 방송 ‘백종원의 레미제라블’ 5화에서 식품위생법상 기준을 갖추지 않은 ‘불법 제작한 대형 솥’으로 음식을 조리하는 장면이 방영됐다”며 방송통신위원회에 민원을 제기했다고 밝혔다. &lt;br&gt;&lt;br&gt;당시 백 대표는 식당 창업을 꿈꾸는 참가자들에게 대형 솥을 활용해 돼지고기 수육을 만드는 모습을 보여주면서 “여러분이 손님이라면 식당 안 초대형 가마솥을 보면 어떻겠나. 이것도 마케팅의 일환”이라고 설명했다. &lt;br&gt;&lt;br&gt;이에 대해 A씨는 “이 장비는 식품의 조리 및 판매 목적으로 사용될 수 없는 기기이며, 식품위생법 시행규칙 등에 따른 식품용 기구 기준을 위반한 것”이라고 했다. 식품위생법 및 관련 시행규칙에 따르면 식품 조리에 사용되는 기구 및 용기는 식품용으로 제조되어야 하며, 금속제의 경우 식약처 고시에 따른 검사 절차를 거쳐야 한다. &lt;br&gt;&lt;br&gt;A씨는 “해당 방송은 자영업 관련 국민들이 따라 할 가능성이 높은 프로그램임에도 불구하고, 안전성이 검증되지 않은 불법 기기를 방송에 사용‧노출함으로써 공공 위생에 대한 잘못된 인식을 유도하고, 위법 장비의 유통 및 사용을 조장할 우려가 크다”며 “연출자 및 출연자인 백종원은 외식 분야의 대표적 인물로, 식품 안전과 위생에 대한 책임 있는 자세가 요구됨에도 조리도구의 안전성에 대한 확인 없이 촬영 및 조리에 사용한 것은 중대한 과실”이라고 주장했다. 또한 제작사인 스튜디오아예, 채널 ENA 역시 촬영 장비 및 조리 기구에 대한 검수 없이 방송을 송출해 방조 책임이 있다고 주장했다.&lt;br&gt;&lt;br&gt;끝으로 A씨는 ‘레미제라블’ 내 불법 조리 기구 사용 장면에 대한 식약처와 방송통신심의위원회의 조사를 요청했다. 향후 유사 사례를 막기 위해 방송사‧제작진 대상 식품위생 관련 교육을 실시해야 한다고도 주장했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G2QM3IJO4ZDILPZOODMLTZJXAM.png"&gt;&lt;figcaption&gt;&lt;small&gt;백종원 더본코리아 대표가 특별 제작된 초대형 가마솥을 들여다보고 있다. /유튜브 '백종원'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;A씨는 디시인사이드 ‘백종원의 골목식당 갤러리’를 통해 지난 3월 28일부터 이달 6일까지 백 대표 관련 민원 72건을 국민신문고에 제출했다고 스스로 인증한 인물이다. 더본코리아가 지역 축제에서 생고기를 상온에 방치한 채 운반했다거나, 농약 분무기에 사과주스를 담아 살포했다는 등의 의혹을 제기했다. &lt;br&gt;&lt;br&gt;A씨는 프랜차이즈 점주이거나 주주, 경쟁사 직원 아니냐는 의혹에 대해 “보유 주식도 없고, 프랜차이즈 경험도 없는 집구석 백수”라고 밝혔다. 그는 “다른 분들이 하는 내용이 재밌어서 ‘나도 한번 분석해 보자’ 하는 마음으로 시작했다”며 “오로지 공익적인 목적의 활동”이라고 주장했다. &lt;br&gt;&lt;br&gt;한편, 경찰은 백 대표와 더본코리아 법인에 대해 식품표시광고법‧식품위생법 위반 등 혐의로 총 14건을 수사 중이라고 12일 밝혔다. 백 대표는 지난 6일 각종 논란에 대해 사과하며 모든 방송 활동을 중단하고 회사 경영에 집중하겠다는 뜻을 밝혔다. &lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/KQUH5VIRLNAO7DJ22SJA2L67BM.jpg?auth=d652a2bb4e06a6f050ee973bc391d42dac3bbd2a491830ef285d49539fa41066&amp;smart=true&amp;width=677&amp;height=381" type="image/jpeg" height="381" width="677">
-        <media:description type="plain">백종원 더본코리아 대표가 초대형 가마솥으로 수육을 만들고 있다. 이 가마솥이 식품위생법을 위반한 것이라는 민원이 제기됐다. /ENA '레미제라블'</media:description>
-        <media:credit role="author" scheme="urn:ebu"/>
-      </media:content>
     </item>
   </channel>
 </rss>
