@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>“유례 찾기 어렵다”…검찰도 놀란 ‘이승기 장인’ 일당 주가조작 수법</title>
+      <link>https://www.chosun.com/national/national_general/2025/05/16/F3UPU5LNABD5BJBYPFNHAPHCAQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/05/16/F3UPU5LNABD5BJBYPFNHAPHCAQ/</guid>
+      <dc:creator>이가영 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 15 May 2025 22:23:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BAMLCYMBW5CHBABXCVYLWHUJ6M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;가수 겸 배우 이승기. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2차전지‧양자기술‧AI(인공지능) 로봇 등 최근 주목받는 첨단 기술 테마를 주가 부양 소재로 활용해 주가 조작을 한 일당이 구속 기소됐다. 여기에는 가수 이승기의 장인도 포함된 것으로 확인됐다. &lt;br&gt;&lt;br&gt;서울남부지법 금융증권범죄합동수사부(부장 안창주)는 자본시장법 위반 등 혐의로 이승기 장인 이모(58)씨 등 8명을 구속하는 등 총 13명을 기소했다고 16일 밝혔다. &lt;br&gt;&lt;br&gt;검찰에 따르면 이들은 코스닥 상장업체 3곳이 첨단 기술을 이용한 ‘펄(Pearl‧주가 부양을 위한 호재성 신규 사업)’을 추진한다고 속이는 등의 수법으로 주가를 끌어올려 막대한 이익을 챙겼다. &lt;br&gt;&lt;br&gt;이 사건의 발단이 된 첫 주가 조작은 전직 검찰 수사관 A씨가 라임 사태의 주범 중 한 명인 이인광 에스모 회장의 해외 도피 자금을 마련하기 위해 시작됐다. &lt;br&gt;&lt;br&gt;이들이 조작 대상으로 삼은 첫 번째 기업은 이차전지 소재 기업 ‘중앙첨단소재’였다. 이들은 2022년 11월부터 약 1년간 시세 조종 주문을 반복해 주가를 주당 490원에서 5850원까지 10배 이상 끌어올렸고, 이를 통해 140억원 상당의 이익을 얻었다. &lt;br&gt;&lt;br&gt;이어 신재생에너지 업체인 ‘퀀타피아’에 대해서는 “1000억원 상당의 투자가 확정됐다”는 허위 투자확약서를 공시하는 등 수법으로 주가를 부풀려 60억여 원을 추가로 빼돌렸다. 이 과정에서 이씨는 지난해 2월 퀀타피아의 거래가 정지되자 A씨로부터 이를 해결해주겠다며 착수금 3000만원을 받고 성공 보수로 10억원을 약속받아 변호사법 위반 혐의도 적용됐다. 당시 이씨는 자본시장법 위반 혐의로 재판받고 있었음에도 저축은행장 출신 브로커와 공모해 차명계좌 등을 이용해 범행을 지속했다. &lt;br&gt;&lt;br&gt;두 사람은 2차 주가 조작 과정에서 주식 거래 정지로 인한 손실을 만회하기 위해 유심 제조업체 ‘엑스큐어’를 이용한 3차 범행을 저질렀다. 이 회사가 AI 로봇 사업을 추진한다는 소문을 퍼뜨리고 시세 조종 주문을 넣어 주가를 인위적으로 올렸다. 이씨는 회사 인수 과정에서 미리 알게 된 미공개 정보를 이용한 주식 차명 매수로 1억원의 시세 차익을 거둔 것으로 조사됐다. &lt;br&gt;&lt;br&gt;검찰은 ‘유례를 찾기 어려운 범행’이라고 했다. 검찰 관계자는 “시세 조종 수급 세력이 주가 조작 범행을 연이어 저지른 것은 유례를 찾아보기 어렵다”며 “시세 조종과 사기적 부정 거래, 미공개 정보 이용 등 자본시장법이 금지하는 주요 행위를 모두 망라했다는 점에서 자본시장 질서에 중대한 위협을 초래했다”고 밝혔다. &lt;br&gt;&lt;br&gt;검찰은 일당이 소유한 부동산과 고급 차량 등 30억원 상당의 재산에 대해 추징 보전하는 등 범죄 수익 환수에 주력할 방침이다. &lt;br&gt;&lt;br&gt;한편, 이승기는 지난달 29일 입장문을 내고 “장인어른에게 지속적으로 제기됐던 위법 사항에 대해 파기환송심에서 벌금형이 선고된 바 있으나, 최근 유사한 위법 행위로 인해 다시 수사기관에 기소된 상황에 이르렀다”며 “참담한 심정”이라고 했다. 이어 “이번 사건으로 가족 간의 신뢰는 회복하기 어려운 수준으로 훼손됐다”며 “우리 부부는 오랜 고민 끝에 처가와의 관계를 단절하고자 한다”고 했다. &lt;br&gt;&lt;br&gt;그 전까지 이승기는 주가조작 혐의를 받는 장인으로 인해 세간의 비판을 받았지만, 오히려 처가의 범죄 사실 관련 보도가 명백한 오보라며 반박했었다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>文정부부터 결과 공개 안해... 기초학력 미달 학생 늘었다</title>
       <link>https://www.chosun.com/national/education/2025/05/16/RUR4H3BDNZAEVJ5MUKBTE4O2XM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/education/2025/05/16/RUR4H3BDNZAEVJ5MUKBTE4O2XM/</guid>
@@ -877,15 +886,6 @@
       <description/>
       <pubDate>Wed, 14 May 2025 15:33:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/W5YGCUEIZBAFXJSGNNVZDWJNFA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문으로 배우는 실용한자] 고찰(古刹)</title>
-      <link>https://www.chosun.com/national/nie/chinese_character/2025/05/15/NFD3AS4BSRAZFJTWSPXVI2GKPA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese_character/2025/05/15/NFD3AS4BSRAZFJTWSPXVI2GKPA/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 14 May 2025 15:33:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IBMAVTEFURHARMKC2HWK2YDAWE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>손흥민 상대로 “당신 아이 임신했다” 협박한 일당 경찰 체포</title>
