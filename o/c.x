@@ -13,6 +13,24 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>서울시, 광주 화정아이파크 붕괴 관련 HDC에 영업정지 1년 </title>
+      <link>https://www.chosun.com/national/national_general/2025/05/16/HPOGUUNVXNEA5NNCXKL6L42A3A/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/05/16/HPOGUUNVXNEA5NNCXKL6L42A3A/</guid>
+      <dc:creator>박진성 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 16 May 2025 04:41:46 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JXSDQFZASRH5F2Q3GLABTWCVXA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2022년 광주 서구 화정동 현대산업개발 아이파크 아파트 신축 공사 붕괴사고 현장의 모습./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울시가 광주 화정아이파크 붕괴 사고와 관련해 시공사인 HDC 현대산업개발에 영업정지 1년의 행정처분을 내렸다.&lt;br&gt;&lt;br&gt;16일 서울시에 따르면 시는 지난 14일 공고를 내고 HDC현산에 대해 ‘부실시공으로 인한 중대한 손괴 또는 인명피해 초래’를 이유로 영업정지 8개월, ‘산업안전보건법에 의한 중대재해 발생’을 이유로 영업정지 4개월 처분을 내렸다.&lt;br&gt;&lt;br&gt;영업정지 기간은 올해 6월 9일부터 내년 6월 8일까지다.&lt;br&gt;&lt;br&gt;서울시 관계자는 “HDC현산의 주 소재지가 서울이기때문에 서울시가 행정조치를 내렸다”고 말했다.&lt;br&gt;&lt;br&gt;앞서 2022년 1월 11일 광주 서구 화정동 아이파크 신축 현장에서는 39∼23층의 바닥 면·천장·내외부 구조물이 무너져 현장 작업자 6명이 숨지고 1명이 다쳤다.&lt;br&gt;&lt;br&gt;이 사고로 원청인 HDC현대산업개발과 하청업체, 감리업체 등 법인 3곳 포함 20명이 기소됐다. 지난 1월 1심은 현장소장 등 일부 관련자들에게 유죄를 선고했으나 경영진에 대해서는 중대재해처벌법상 책임을 물을 수 없다며 무죄로 판단했다.&lt;br&gt;&lt;br&gt;원청인 HDC현산은 “앞으로도 안전을 위해 만전을 기하겠다”면서 서울시 행정처분에 대해서는" 법원에 즉시 집행정지를 신청하고 이어 행정처분 취소소송을 제기하는 등 법적 대응하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;또 현산은 “집행정지 신청이 받아들여지면 행정처분 취소소송 판결 때까지 당사 영업활동에 영향이 없을 것”이라며 “향후 영업정지 효력이 발생하더라도 이전에 도급계약을 체결했거나 관계 법령에 따라 허가, 인가 등을 받아 착공한 공사의 경우 영향을 받지 않고 진행할 수 있다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘불법 도박장 개설’ 배우 한소희 모친, 2심도 ‘집유’</title>
+      <link>https://www.chosun.com/national/regional/2025/05/16/GQ6SQU4T2VCULBKS35SZL2BGMU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/05/16/GQ6SQU4T2VCULBKS35SZL2BGMU/</guid>
+      <dc:creator>우정식 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 16 May 2025 03:38:10 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HC5UFRKA6NOBE7TUP5TEJCTY5Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울고법 춘천재판부. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;불법 도박장을 개설한 혐의로 1심에서 징역 1년에 집행유예 2년을 선고받은 배우 한소희의 모친이 항소심에서도 원심과 같은 형을 선고받았다.&lt;br&gt;&lt;br&gt;춘천지법 형사1부(재판장 심현근)는 16일 도박장소 개설 혐의로 기소된 신모(55)씨에게 원심과 같은 징역 1년에 집행유예 2년을 유지하고, 사회봉사 120시간을 명령했다.&lt;br&gt;&lt;br&gt;신씨는 텔레그램을 통해 알게 된 불법 도박사이트 조직원으로부터 불법 도박사이트 접속 코드와 매장 관리자 코드를 부여받아 도박 게임을 제공하는 ‘매장’ 7곳을 개설한 혐의를 받고 있다. 그곳에서 발생하는 수익금, 즉 도박사이트 이용자들이 베팅한 총금액의 일정 비율을 뗀 수수료와 베팅해서 잃은 금액의 일정 비율을 뗀 수수료를 합산한 돈을 챙겼다고 한다.&lt;br&gt;&lt;br&gt;신씨는 원주에서 수익 분배를 조건으로 일명 바지 사장을 내세워 성인 PC 게임장을 차리거나 성인 PC 게임장 운영자와 짜고 손님들이 속칭 바카라 등 온라인 도박을 하도록 하는 수법으로 범행했다.&lt;br&gt;&lt;br&gt;그는 원주에서 5개 불법 도박장을 운영하고, 울산과 경북 경주에서도 1곳씩 총 7개 도박장을 운영한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;신씨는 앞서 2021년에도 게임산업 진흥에 관한 법률 위반 혐의로 적발돼 2023년 500만원의 벌금형을 받은 것으로 알려졌다.&lt;br&gt;&lt;br&gt;1심은 신씨가 취득한 이익이 상당할 것으로 보이는 점과 벌금형 전과 1회 외에 동종 전과는 없는 점, 구속돼 일정 기간 미결구금돼있던 사정 등을 참작해 징역형의 집행유예를 선고했다.&lt;br&gt;&lt;br&gt;1심 선고 후 검찰은 “형이 가벼워 부당하다”며 항소했다.&lt;br&gt;&lt;br&gt;하지만 2심 재판부는 “검찰이 주장하는 항소 이유 사정은 이미 원심에 반영된 것으로 보이고, 원심 판결 선고 이후 양형 조건에 변화를 찾아볼 수 없다”며 항소를 기각했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>[박종인의 땅의 歷史] 승전보를 보냈더니 조정은 장수 목을 베어버렸다</title>
       <link>https://www.chosun.com/site/data/html_dir/2017/08/17/2017081700355.html</link>
       <guid isPermaLink="true">https://www.chosun.com/site/data/html_dir/2017/08/17/2017081700355.html</guid>
@@ -928,30 +946,6 @@
       <description/>
       <pubDate>Wed, 14 May 2025 14:44:07 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5YGGWOLVPFA3DLQYBCOH3UGZDM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대한민국 축구대표팀 손흥민이 지난 3월 19일 경기 고양종합운동장에서 3월 A매치 대비 훈련에 앞서 열린 공식 기자회견에서 취재진의 질문에 답하고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국가대표 축구팀 주장 손흥민(33·토트넘 홋스퍼)의 아이를 임신했다며 이를 폭로하지 않는 대가로 손씨 측에 금품을 요구한 일당이 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;14일 서울 강남경찰서는 공갈 혐의를 받는 20대 여성 A씨와 40대 남성 B씨를 체포해 조사 중인 것으로 알려졌다. 손씨 측은 A씨가 지난해 6월 손씨에게 ‘임신했다’고 속여 수억 원의 금품을 요구했다고 주장하며 지난 7일 경찰에 고소장을 제출했다. B씨는 최근 손씨에게 접근해 수천만원을 받아내려고 시도한 것으로 전해졌다. &lt;br&gt;&lt;br&gt;지난 13일 일당에 대한 체포 영장을 신청한 경찰은 14일 오후 법원으로부터 영장을 발부받았다.&lt;br&gt;&lt;br&gt;경찰은 두 사람을 상대로 구체적인 사건 경위를 조사 중이다. 이와 관련해 손씨 측이나 소속팀 토트넘 구단은 별도의 입장을 내지 않았다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“임신했다고 속여 수억원 요구”... 손흥민, 20대 여성 고소</title>
-      <link>https://www.chosun.com/national/national_general/2025/05/14/CCLR3K7ZSNHE7KPFXOHZJMXPCI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/05/14/CCLR3K7ZSNHE7KPFXOHZJMXPCI/</guid>
-      <dc:creator>이혜진 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 14 May 2025 10:32:52 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QKICX4QISVJEXP66UAVWAHHF2A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2026 북중미 월드컵 아시아지역 3차 예선 B조 7차전 오만전을 하루 앞둔 한국 축구대표팀 손흥민이 지난 3월 19일 경기도 고양종합운동장에서 취재진 질문에 답하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국가대표 축구팀 주장 손흥민(33·토트넘 홋스퍼)이 자신의 아이를 임신한 척 속여 금품을 요구했다며 20대 여성 등을 고소했다. &lt;br&gt;&lt;br&gt;14일 서울 강남경찰서는 지난 7일 손씨 측의 고소장을 접수하고 20대 여성 A씨와 40대 남성 B씨를 공갈 혐의로 입건해 조사하고 있다고 밝혔다. &lt;br&gt;&lt;br&gt;손씨 측은 A씨가 지난해 6월 손씨에게 ‘임신했다’고 속여 수억 원의 금품을 요구했다고 주장하는 것으로 알려졌다. 이어 두 사람은 최근 수천만 원을 받아내려고 시도한 것으로 전해졌다. &lt;br&gt;&lt;br&gt;경찰은 정확한 사건 경위를 파악하고 있다. 경찰 관계자는 조선닷컴에 “현재 수사 중이어서 (자세한 사건 내용은) 확인해줄 수 없다”고 밝혔다. &lt;br&gt;&lt;br&gt;이와 관련해 손 씨 측이나 소속팀 토트넘 구단은 별도의 입장을 내지 않았다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/5YGGWOLVPFA3DLQYBCOH3UGZDM.jpg?auth=5d2fb6fa398737dc10d6e81af8486ae2c78a1d6cb45fdf5aa5df3bd0a7d4dd41&amp;smart=true&amp;width=4791&amp;height=2695" type="image/jpeg" height="2695" width="4791">
-        <media:description type="plain">[고양=뉴시스] 김진아 기자 = 대한민국 축구대표팀 손흥민이 19일 경기 고양종합운동장에서 3월 A매치 대비 훈련에 앞서 열린 공식 기자회견에서 취재진의 질문에 답하고 있다.
-
- 한국은 오는 20일 고양종합운동장에서 오만과 2026 국제축구연맹(FIFA) 북중미 월드컵 아시아 지역 3차 예선 7차전을 치른 뒤, 25일 수원월드컵경기장에서 요르단과 8차전을 갖는다. 2025.03.19. bluesoda@newsis.com</media:description>
-        <media:credit role="author" scheme="urn:ebu">bluesoda</media:credit>
-      </media:content>
-    </item>
-    <item>
-      <title>APEC 교육장관회의 맞아 모인 전문가들...“서둘러 교육에 AI 접목해야”</title>
-      <link>https://www.chosun.com/national/education/2025/05/15/ZRJS4B3BQVHEVJH7UFNYNSSCEU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2025/05/15/ZRJS4B3BQVHEVJH7UFNYNSSCEU/</guid>
-      <dc:creator>제주=김민기 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 14 May 2025 10:04:20 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SWLRS35FIZGO5OMGUJU27DLJD4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;13일 제주국제컨벤션센터에서 열린 글로벌 교육개혁 학술대회에 참가한 국내외 교육 전문가들이 기념사진 촬영을 하는 모습./교육부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제주에서 아시아태평양경제협력체(APEC) 교육장관회의가 열린 가운데, 이번 회의 부대행사로 세계 각국 교육 전문가들이 참여하는 교육 토론회가 개최됐다. 각국 전문가들은 많은 나라가 맞닥뜨리고 있는 저출생·지방 소멸의 심각성과 교육에서 인공지능(AI) 접목 필요성에 대해 말했다.&lt;br&gt;&lt;br&gt;지난 12일부터 이틀간 제주 서귀포시 부영호텔에서 ‘글로벌 교육혁신 고등교육 네트워크 공개 토론회(포럼)’가 열렸다. 이 토론회는 제주에서 열린 ‘APEC 교육장관회의’(13~15일)를 계기로 개최됐다. 국내외 대학 총장과 지자체 관계자 등 500여 명이 참석했다.&lt;br&gt;&lt;br&gt;이마무라 마사하루 일본 사가여자단기대학 총장은 13일 오전 발제자로 나서 “일본은 2040년이면 인구의 3분의 1이 65세 이상인 사회로 접어든다”며 “지방 대학들은 학생 모집에 대한 걱정이 크다. 한국 상황도 다르지 않은 것으로 알고 있다”고 했다. 사가여자단기대학이 있는 일본 사가현은 인구 78만여 명의 작은 현이다. 이어 그는 일본 대학이 외국인 학생 비중을 늘리고 있는 현실을 소개했다. 이마무라 총장은 “우리 대학의 요양 복지사 과정의 경우 외국인 학생이 70%다. 과거 리츠메이칸APU(일본 오이타현)의 부총장을 지낸 바 있는데 현재 이 대학의 학생 절반은 외국인이 됐다”고 말했다. “외국인 유학생에 대한 기대가 높아지고 있다”고도 했다. 그가 발제를 마치고 난 후 한국의 지방 전문대학 총장이 인구 감소에 대응하는 일본 대학들의 노력에 대해 추가 질문을 하기도 했다.&lt;br&gt;&lt;br&gt;같은날 제주국제컨벤션센터에서 열린 글로벌 교육개혁 학술대회(콘퍼런스)에선 글로벌혁신연구원 이사장인 김진표 전 국회의장이 기조강연을 통해 “한국은 생산 인구가 감소하고 기초 인프라가 붕괴되는 ‘축소 사회’로 진입할 위기”라고 했다. 이어 그는 “저출생과 고액 사교육비는 상관관계가 높다는 건 여러 연구를 통해 입증됐다”며 “공교육에서 신속히 AI를 활용해 학생들에게 맞춤형 교육을 제공하고, 이를 바탕으로 공교육 신뢰를 회복해야 한다”고 했다.&lt;br&gt;&lt;br&gt;해외 교육 당국 관계자들은 교육에 AI를 접목하는 게 중요하다고 입을 모으며, 각국의 사례들을 소개했다. 바네사 랩손 호주 교육부 차관보는 “호주에선 학생들이 부적절한 정보로 접근하는 걸 막기 위해 보안 강화를 한 교직원·학생용 AI 챗봇을 개발했고, 수업 계획 같은 반복적인 교사 업무를 줄이기 위해 AI를 적용하기도 한다”고 했다. 케니 로 싱가포르 교육부 수석 부국장은 “싱가포르에선 AI 기반 도구를 수학과 지리 과목에 도입해, 학생들이 자기 성취 수준에 맞게 스스로 학습을 하도록 지원하고 있다”고 말했다. AI 사용엔 주의를 기울여야 한다고도 말했다. 케니 로 부국장은 “챗GPT 같은 거대언어모델(LLM)은 교육용이 아닌 범용으로 만들어졌다. 교육용으로 쓰기 위해선 안정성 평가를 거쳐야 하며, 싱가포르에선 교육 당국이 정부 기술 부처와 협력해 LLM 안정성 평가를 했다”고 말했다.&lt;br&gt;&lt;br&gt;부대행사 이후 14일 열린 APEC 교육장관회의 총회 개회식엔 이주호 대통령 권한대행 부총리 겸 교육부 장관이 참석해 “디지털 기술의 발전과 인공지능의 등장은 문명사적 변화로, 우리는 신뢰와 협력을 바탕으로 미래를 대비할 것”이라고 했다. 이번 총회엔 APEC 20개 회원국 및 지역 대표단 200여 명이 참석했다. 지난 페루 회의(2016) 이후 9년 만에 열린 제7차 회의로, ‘디지털 대전환 시대의 교육격차 해소와 지속 가능한 성장 촉진’을 주제로 열렸다. 교육부는 “총회를 통해 회원 경제체의 만장일치로 디지털 혁신과 역내 교육 협력의 중요성에 대한 의지를 담은 공동성명서가 채택됐다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>中 모터쇼서 불법 촬영 걸린 남학생...학교 측 “사건 파악 중”</title>
