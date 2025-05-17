@@ -13,6 +13,46 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>“서울대 동기 상당수 시골 출신, 겸손함 배워” CJ 이미경 美대학 연설</title>
+      <link>https://www.chosun.com/national/national_general/2025/05/17/QGBOXO6TTJCPJGYGB3WJYFRCWM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/05/17/QGBOXO6TTJCPJGYGB3WJYFRCWM/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 17 May 2025 13:50:41 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YBIREOWWMEU6DWJNPBDSLA35JQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이미경 CJ 부회장이 16일 미국 LA 서던캘리포니아대(USC) 영화예술학교(School of Cinematic Arts) 졸업식에서 연설하고 있다. / USC 유튜브 채널 캡처.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이미경 CJ그룹 부회장이 16일 미국 로스앤젤레스(LA)에 있는 서던캘리포니아대(USC) 영화예술학교(School of Cinematic Arts) 졸업식에 초청받아 연설을 한 뒤 졸업생들의 기립 박수를 받았다. 이 대학은 ‘스타워즈’ 제작자 조지 루커스 등 유명한 영화인들을 다수 배출한 영화·예술계의 명문 대학교다.&lt;br&gt;&lt;br&gt;이날 연단에 오른 이 부회장은 “내 삶의 여정과 나를 이끌어준 가치들을 공유하고 싶다”며 지금의 자신을 만든 세 가지 핵심 가치로 겸손(humility), 회복력(resilience), 자비심(compassion)을 꼽았다.&lt;br&gt;&lt;br&gt;이 부회장은 자신이 한국에서 고등학교를 졸업하고 서울대에 입학했을 때 동기 절반 이상이 시골의 작은 마을 출신이었다며 “대학 동기들은 정말 훌륭하고 똑똑했는데 내가 받았던 과외 없이 혼자서 공부했다는 것을 알게 됐다. 내가 매우 작게 느껴졌고, 매우 겸손해졌다”고 돌아봤다. &lt;br&gt;&lt;br&gt;이 부회장은 위기를 극복하는 회복력의 중요성을 설명하면서는 CJ가 국내에 첫 멀티플렉스를 도입하려고 했을 때 부딪혔던 난관에 대해 말했다. &lt;br&gt;&lt;br&gt;이 부회장은 “당시 대부분의 영화관에 구식 스크린이 설치돼 있었고, 사람들은 우리가 미쳤다고 생각했다”며 “1998년 첫 멀티플렉스를 오픈한 이후 15년간 190개 이상의 멀티플렉스를 오픈했다. 그 사이 한국인은 극장에 한 번도 안 가다가, 1년에 5번씩 가는 사람들이 됐다”고 했다. &lt;br&gt;&lt;br&gt;이 부회장은 또 미국에서 스티븐 스필버그 감독과 일할 때 그가 여러 젊은 감독을 조용히 멘토링 해주는 것을 보고 자비심을 배웠다면서 박찬욱·봉준호·김지운 감독을 처음 만났을 때 그들이 위대한 영화감독이 되도록 지원하겠다고 결심했었다고 밝혔다. &lt;br&gt;&lt;br&gt;이 부회장은 “나는 이 감독들이 서로의 작품을 존경하고 서로를 지원하며 젊은 영화인들을 키워내는 모습을 봤다”며 “이는 모두 자비심에서 나오는 행동”이라고 설명했다.&lt;br&gt;&lt;br&gt;그러면서 “이런 가치들이 여러분에게 힘을 주고, 전 세계 사람들에게 감동을 주는 이야기를 만드는 데 도움이 되길 바란다”고 덧붙였다.&lt;br&gt;&lt;br&gt;연설이 끝나자 연단 뒤에 앉아 있던 학교 관계자들과 졸업생들은 자리에서 일어나 큰 박수갈채를 보냈다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>금호타이어 광주공장 화재 진화율 70%... “주불 곧 진화”</title>
+      <link>https://www.chosun.com/national/national_general/2025/05/17/PD774KQADFDGDPOBL3EXKRUL7Q/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/05/17/PD774KQADFDGDPOBL3EXKRUL7Q/</guid>
+      <dc:creator>광주광역사=진창일 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 17 May 2025 12:29:02 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NFGZESRCTNAZVJ7YVVHBONNBNU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;금호타이어 광주공장 화재가 발생한 17일 오전 타이어 원료가 타면서 검은 연기가 광주 전체를 덮을만큼 뿜어져 나오고 있다. /김영근 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;금호타이어 광주공장에서 발생한 대형 화재 진화율이 70%에 이른 것으로 파악됐다.&lt;br&gt;&lt;br&gt;광주광역시는 17일 “이날 오후 9시 기준 금호타이어 광주공장 화재 진화율이 70%에 달한다”고 밝혔다. 이날 오전 7시 11분쯤 금호타이어 광주공장 내 서쪽 고무 정련 공장동에서 불이 났다.&lt;br&gt;&lt;br&gt;소방당국에 따르면 이날 오후 2시 기준 축구장 1개 면적(약 7000㎡) 공장동 1개가 전부 탔고 오후 7시 기준 축구장 5개 규모인 서쪽 공장의 약 75％가 불에 탔다.&lt;br&gt;&lt;br&gt;금호타이어 광주공장 관계자는 “고무와 화학 약품을 마이크로 웨이브 설비에 넣고 녹이는 과정에서 불꽃이 튀어 화재가 발생한 것으로 추정된다”고 말했다.&lt;br&gt;&lt;br&gt;소방 당국은 불이 쉽사리 꺼지지 않는 고무 원자재 특성상 적재물이 완전히 불에 타야 진화가 가능할 것으로 예상했지만, 계속된 화재 진압 작업으로 불길이 사그라들고 있는 것으로 전해졌다.&lt;br&gt;&lt;br&gt;광주시 관계자는 “주불은 오늘 오후 10시 이전에 진화될 것으로 보여 연소 확대 우려는 없다”며 “완진은 빠르면 내일 오전 중이라도 가능할 것으로 예상한다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/NFGZESRCTNAZVJ7YVVHBONNBNU.jpg?auth=0bd8097c835695961023361a233a14ef0e0ee40822ed2bb6d927d5781fc57add&amp;smart=true&amp;width=5906&amp;height=3852" type="image/jpeg" height="3852" width="5906">
+        <media:description type="plain">금호타이어 광주공장 화재가 발생한 17일 오전 타이어 원료가 타면서 검은 연기가 광주 전체를 덮을만큼 뿜어져 나오고 있다. /김영근 기자</media:description>
+        <media:credit role="author" scheme="urn:ebu">김영근 기자</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>“임신했다” 손흥민 협박한 전 연인 일당 구속</title>
+      <link>https://www.chosun.com/national/court_law/2025/05/17/NSDNOWDF4ZH3JN3LARVNHEWFQQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/05/17/NSDNOWDF4ZH3JN3LARVNHEWFQQ/</guid>
+      <dc:creator>김나영 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 17 May 2025 11:41:27 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/K6X2YONSOJLI3OEUDGJRIKPY4E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;축구 국가대표팀 주장 손흥민의 아이를 임신했다고 주장하며 손씨에게 돈을 뜯어내려 한 20대 여성 양모(왼쪽)씨와 40대 남성 용모씨가 17일 영장실질심사를 받기 위해 서울중앙지법에 들어서고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국가대표 축구 선수 손흥민(33·토트넘 홋스퍼)의 아이를 임신했다며 돈을 뜯으려 한 혐의를 받는 전 연인 일당에 대한 구속영장이 17일 발부됐다.&lt;br&gt;&lt;br&gt;윤원묵 서울중앙지법 부장판사는 이날 공갈 혐의를 받는 20대 여성 양모씨와 공갈 미수 혐의를 받는 40대 남성 용모씨의 구속영장에 대한 영장실질심사를 진행한 후 “증거를 인멸할 염려와 도망할 염려가 있다”라며 발부 사유를 밝혔다. &lt;br&gt;&lt;br&gt;손흥민과 연인이었던 양씨는 작년 6월 ‘임신했다’며 조작된 태아 초음파 사진을 손흥민 측에 보낸 뒤 손흥민으로부터 3억원의 금원을 받아냈다. 손흥민 측은 양씨가 주장하는 내용이 외부에 알려질 경우, 선수와 팀에 미칠 영향을 우려해 공갈 협박에 응할 수밖에 없다고 판단했던 것으로 전해졌다.&lt;br&gt;&lt;br&gt;양씨는 손흥민과 결별한 뒤 용씨와 교제를 시작했다. 뒤늦게 양씨가 손흥민 측으로부터 돈을 받은 사실을 알게 된 용씨는 이 사실을 폭로하겠다며 손흥민 측에 7000만원을 요구했다. 이에 손흥민 측은 “더 이상 허위 사실에 고통받지 말고 강력 대응하자”라며 지난 7일 경찰에 고소장을 제출했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>도로 달리다 육교 위로 돌진한 SUV…무슨 일?</title>
+      <link>https://www.chosun.com/national/national_general/2025/05/17/RZ73532EK5GYNN2NWMVG6LAOEY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/05/17/RZ73532EK5GYNN2NWMVG6LAOEY/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 17 May 2025 10:51:29 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CYYRDVK5IIU6KYLEE5EH5VH35U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;17일 오전 1시20분쯤 대구 수성구 만촌동에서 20대 남성 A씨가 몰던 SUV 승용차가 육교로 돌진해 육교 난간 등이 파손됐다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대구에서 도로를 달리던 스포츠유틸리티차량(SUV)이 육교로 돌진하는 사고가 발생했다. &lt;br&gt;&lt;br&gt;17일 경찰 등에 따르면 이날 오전 1시 20분쯤 대구 수성구 만촌동에서 20대 남성 A씨가 몰던 SUV 차량이 육교로 돌진했다.&lt;br&gt;&lt;br&gt;새벽 시간이라 지나는 사람이 없어 인명피해는 발생하지 않았지만 차량이 육교 계단 중간까지 타고 올라가면서 난간 등이 파손됐다.&lt;br&gt;&lt;br&gt;경찰 조사 결과 A씨는 음주 상태에서 운전한 것으로 확인됐다.&lt;br&gt;&lt;br&gt;경찰은 A씨를 음주운전 혐의로 입건하고 정확한 사고 경위를 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>금호타이어 광주공장 주변 주민들 대피소 이동</title>
       <link>https://www.chosun.com/national/incident/2025/05/17/2WMZU3DV4ZH4VEGLGQO7WRQJKE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/05/17/2WMZU3DV4ZH4VEGLGQO7WRQJKE/</guid>
@@ -849,15 +889,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FRHPI63IYSYXTQCXLKQLDEEBIQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;충북도가 16일 청주시 오송첨단의료산업진흥재단에서 '글로벌 R&amp;D 임상연구센터' 설립 연구용역 착수 보고회를 갖고 기념 촬영을 하고 있다./충북도&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;충북에 다양한 신약을 임상시험할 수 있는 새로운 형태의 연구병원이 생길 전망이다. &lt;br&gt;&lt;br&gt;충북도는 청주시 오송읍에 글로벌 R&amp;amp;D(연구개발) 임상연구센터를 설립하는 작업에 본격 착수했다고 16일 밝혔다.&lt;br&gt;&lt;br&gt;도는 이날 오전 오송첨단의료산업진흥재단에서 글로벌 R&amp;amp;D(연구개발) 임상연구센터 설립을 위한 연구용역 착수보고회를 가졌다.&lt;br&gt;&lt;br&gt;보고회에는 김영환 충북지사와 이명수 오송첨단의료재단 이사장, 김대수 KAIST 생명과학기술대학장, 이규선 한국생명공학연구원 연구전략본부장 등이 참석했다.&lt;br&gt;&lt;br&gt;특히 임상연구센터 운영기관으로 유치하려는 서울대병원 관계자도 자리했다. &lt;br&gt;&lt;br&gt;이 센터는 KAIST, 생명공학연구원, 오송첨단의료재단 등 국내외 다양한 혁신 기관과 기업이 개발 중인 신약에 대한 임상시험 수행을 목적으로 한다.&lt;br&gt;&lt;br&gt;도는 2027년부터 2030년까지 4년간 8000억원을 들여 지하 2층~지상 10층, 500병상 규모로 이 센터를 건립할 계획이다. &lt;br&gt;&lt;br&gt;이 센터는 기초연구를 비롯해 병원 기반 희귀 난치 질환 및 스마트 메디케어 실증 연구, 암·희소 질환·장애인·노인 관련 특성화 진료, 대기업 및 VC사 사업화 지원 등의 기능을 할 전망이다.&lt;br&gt;&lt;br&gt;충북도는 이 센터가 설립되면 새로운 형태의 연구병원으로 자리매김해 ‘KAIST 바이오메디컬 캠퍼스’와 함께 ‘오송 K-바이오스퀘어’를 견인할 것으로 기대하고 있다. &lt;br&gt;&lt;br&gt;김 지사는 “한국 제약사의 기술 수출 및 글로벌 임상 진입이 확대됨에 따라 국내에서 전 주기 임상시험을 소화할 수 있는 기반 구축이 시급한 만큼 미국 매사추세츠 종합병원(MGH), 스웨덴 카롤린스카 병원 등의 사례를 면밀히 분석해 세계적 수준의 R&amp;amp;D 임상연구센터로 조성하겠다”고 말했다.&lt;br&gt;&lt;br&gt;한편 충북도는 이날 오송첨단의료재단, KAIST 생명과학기술대학과 국내 바이오 R&amp;amp;D 역량 강화를 위한 업무협약도 체결했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>부여 농촌서 6년간 104차례 절도...경찰, 40대 절도범 송치</title>
-      <link>https://www.chosun.com/national/regional/chungcheong/2025/05/16/YE62ED5GIJCYPODYE6C5T4FXIM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2025/05/16/YE62ED5GIJCYPODYE6C5T4FXIM/</guid>
-      <dc:creator>우정식 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 16 May 2025 06:14:37 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5GT7HGZDJZC2PGHRM34R3HXIUY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /조선일보 DB.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;충남 부여경찰서는 수년간 부여지역 마을회관과 비닐하우스 등을 돌며 상습적으로 식료품과 금품 등을 훔친 혐의(야간 주거침입 절도)로 A(42)씨를 구속 송치했다고 16일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 2019년부터 최근까지 6년여간 총 104회에 걸쳐 부여 일대 농촌 마을회관, 농가 비닐하우스 등에 침입해 전자기기, 식료품 등 673만원 상당을 훔친 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;A씨는 주로 심야를 틈타 비닐하우스 안에 있던 김치와 라면 등 식료품과 금품 등을 훔쳤다. 그는 모자와 마스크를 착용하고 방범카메라(CCTV)가 설치되지 않은 농로로 이동해 경찰 추적을 피해온 것으로 조사됐다.&lt;br&gt;&lt;br&gt;지난해 9월부터 두 달여간 부여군 구룡면에서 다수의 절도 피해 신고가 접수되자, 경찰은 동일범의 소행으로 보고 범인을 추적해 왔다. 이어 잠복 수사를 벌이던 중 지난 3일 오후 11시 35분쯤 A씨를 무단으로 거주하던 폐창고 인근에서 붙잡았다.&lt;br&gt;&lt;br&gt;A씨는 경찰 조사에서 “10여년 전 가정 불화로 집을 나왔고, 방랑 생활을 하며 폐가나 폐창고 등을 떠돌았다”며 “생계 유지를 위해 식음료 등을 훔쳐 먹었다”고 범행을 시인했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>한변 “민주당, 확정적 범죄자가 법관 상대 적반하장…반헌법적 폭주”</title>
       <link>https://www.chosun.com/national/court_law/2025/05/16/ENYDPJKMFRC2VH7X5LQY2TGMZI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/05/16/ENYDPJKMFRC2VH7X5LQY2TGMZI/</guid>
@@ -929,33 +960,6 @@
       <description/>
       <pubDate>Fri, 16 May 2025 01:44:33 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DBBM2H5DUXOCBLKSRVM7EGARB4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;12·3 비상계엄 사태를 사전에 모의한 혐의를 받는 노상원 전 정보사령관./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘12‧3 비상계엄’ 당시 부정선거 의혹 수사를 맡을 ‘제2수사단’을 구성하는 등 사전 모의한 혐의를 받는 노상원 전 정보사령관이 알선수재 혐의로 16일 추가 기소됐다. 노 전 사령관은 장군 승진을 미끼로 모두 2600만원 상당의 금품을 받아 챙긴 혐의를 받는다.&lt;br&gt;&lt;br&gt;검찰 비상계엄 특별수사본부(본부장 박세현 서울고검장)는 이날 노 전 사령관을 특정범죄가중처벌법상 알선수재 혐의로 불구속 기소했다고 밝혔다. 노 전 사령관은 내란중요임무종사, 직권남용 혐의로 구속 기소돼 서울중앙지법 형사25부(재판장 지귀연)에서 재판 받고 있는데, 알선수재 혐의도 추가된 것이다.&lt;br&gt;&lt;br&gt;노 전 사령관은 지난해 8~9월 김봉규 국군정보사령부 대령에게 준장 진급을 도와주겠다며 금품을 요구한 뒤, 현금 1500만원과 백화점 상품권 600만원어치를 받은 것으로 조사됐다. 같은 해 10월 구삼회 육군 2기갑여단장(준장)에게 소장 진급을 도와주겠다면서 500만원을 받아 챙긴 혐의도 있다.&lt;br&gt;&lt;br&gt;검찰은 경찰에서 사건을 송치 받은 뒤 자금 출처와 상품권 사용 내역을 추적해왔다고 밝혔다. 상품권과 현금을 건넨 현역 군인들에 대한 수사도 함께 진행했다고 한다.&lt;br&gt;&lt;br&gt;노 전 사령관은 김용현 전 국방장관, 김용군 예비역 대령과 함께 재판을 받고 있는데, 국가 안전보장 문제를 이유로 비공개 재판이 진행되고 있다. 정보사령부 관계자들에 대한 증인신문이 이어지고 있기 때문이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“아기 살려주세요” 어린이집 뛰어든 엄마… 교사들이 살렸다</title>
-      <link>https://www.chosun.com/national/national_general/2025/05/16/HI7WCDW6MVHNNIXMDIA7KCKCJE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/05/16/HI7WCDW6MVHNNIXMDIA7KCKCJE/</guid>
-      <dc:creator>김명일 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 16 May 2025 01:36:14 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G3RQJR75LZHKFO4VNFTGNQR4RA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;아이에게 응급처치를 하고 있는 어린이집 교사들. /채널A&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;기도에 이물질이 걸려 숨을 제대로 쉬지 못해 위험에 처했던 생후 8개월 아기를 인근 어린이집의 교사들이 구조한 사연이 알려졌다. &lt;br&gt;&lt;br&gt;16일 어린이집 관계자 등에 따르면 지난 9일 오후 1시쯤 대구시 동구 안심동의 한 어린이집에 어머니 한 명이 생후 8개월 아기를 안고 다급하게 뛰어 들어왔다. 아기는 산소 공급이 감소해 피부가 파래지는 청색증 증상을 보이고 있었다. &lt;br&gt;&lt;br&gt;아기의 어머니는 어린이집 교사들에게 도움을 요청하며 아이가 숨을 제대로 쉬지 않는다고 말했다.&lt;br&gt;&lt;br&gt;어린이집 교사들은 아이의 상태를 확인하곤 곧바로 ‘하임리히법’을 실시했다. 하임리히법은 이물질로 인해 기도가 막힐 경우, 이물질을 빼내는 응급처치법이다.&lt;br&gt;&lt;br&gt;어머니는 119와 계속 통화를 하며 아이의 몸 상태 등을 체크하고 응급 조치 의견을 들었다.&lt;br&gt;&lt;br&gt;‘하임리히법’을 시작한 후 30여 초 뒤 아이의 기도에서 이물질이 튀어나왔다. 아이의 기도에 걸려 있던 이물질은 둥근 형태의 어린이용 반창고였다고 한다. 이후 아이 얼굴에 혈색이 돌아왔고 호흡도 회복됐다.&lt;br&gt;&lt;br&gt;어린이집 측은 언론 인터뷰에서 “어머니가 위급한 상황에 어린이집은 어떻게 해야 하는지 방법을 알 것 같아서 바로 찾아오셨다고 했다”며 “교사들이 의무적으로 교육을 받은 것이 도움이 됐다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>이종배 서울시의원, “李 암살 테러 제보 경찰 수사” 진성준 고발</title>
-      <link>https://www.chosun.com/national/court_law/2025/05/16/NNEWSQN245H2NELCG3CEKHQ3CA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/05/16/NNEWSQN245H2NELCG3CEKHQ3CA/</guid>
-      <dc:creator>이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 16 May 2025 00:59:16 +0000</pubDate>
-      <content:encoded>진성준 더불어민주당 중앙선거대책위원회 정책본부장이 이재명 민주당 대선 후보의 신변 안전을 두고 “경찰이 암살 테러 제보 7건을 수사하고 있다”고 말한 데 대해 공직선거법상 허위사실공표 혐의로 16일 검찰에 고발됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/B5BFJKH2GBYLCTJRZDQKCZA5YM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;진성준 더불어민주당 중앙선대위 정책본부장. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국민의힘 이종배 서울시의원은 진 의원을 이날 서울중앙지검에 고발했다고 밝혔다. 이 시의원은 “국민의힘 나경원 공동선거대책위원장이 경찰청에서 제출받은 자료에 따르면, 지난 14일 기준 이 후보 신변 위협과 관련된 고소·고발·진정 등 사건이 한 건도 없었다”며 진 의원의 주장이 명백한 허위사실이라고 했다.&lt;br&gt;&lt;br&gt;이번 고발은 진 의원이 지난 13일 CBS라디오에 출연해 발언한 것이 문제가 됐다. 진 의원은 “경찰이 (이 후보) 암살 테러 제보 7건을 수사하고 있다. 당에서 그보다 훨씬 많은 제보가 들어오고 있다”며 “사거리가 2km에 달하는 저격용 괴물 소총이 밀반입됐단 제보가 접수됐다”고 말했었다. 그러나 경찰이 접수된 관련 사건이 없다고 밝히면서 논란이 됐다.&lt;br&gt;&lt;br&gt;이 시의원은 “대선 주자에 대한 암살 시도, 저격소총 밀반입 등은 살인예비죄에 해당하는 중범죄”라면서 “민주당에서 아무런 신고가 없었다는 점에서 무슨 의도인지 의문”이라고 했다. 부승찬 의원이 지난 15일 SBS 라디오에서 암살 테러 제보에 대해 “저희가 일일이 팩트체크를 할 수는 없다. 이런 테러 시도 자체가 그냥 팩트체크가 가능한 영역이 아니다”라고 말한 데 대해선 “수사기관에 신고하면 될 것”이라고 했다.&lt;br&gt;&lt;br&gt;이어 이 시의원은 “민주당 입장은 이 후보 암살 시도에 대해 팩트체크는 할 수 없지만, 수사기관에 신고는 하지 않을 것이고, 계속 암살 테러 당할 수 있다는 슬로건으로 선거운동을 하겠다는 것”이라며 “선거운동을 희화화해서는 안된다”고 주장했다.&lt;br&gt;&lt;br&gt;한편 대검찰청은 지난달부터 전국 검찰청에 선거 전담 수사반을 편성해 운영 중이다. 당내 경선운동 방법 위반, 여론조사 관련 규정 위반, 사회관계망서비스(SNS) 등 각종 매체를 이용한 허위사실공표, 집회를 빙자한 불법선거운동, 선거폭력 등이 수사 대상이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“유례 찾기 어렵다”…검찰도 놀란 ‘이승기 장인’ 일당 주가조작 수법</title>
-      <link>https://www.chosun.com/national/national_general/2025/05/16/F3UPU5LNABD5BJBYPFNHAPHCAQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/05/16/F3UPU5LNABD5BJBYPFNHAPHCAQ/</guid>
-      <dc:creator>이가영 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 15 May 2025 22:23:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BAMLCYMBW5CHBABXCVYLWHUJ6M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;가수 겸 배우 이승기. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2차전지‧양자기술‧AI(인공지능) 로봇 등 최근 주목받는 첨단 기술 테마를 주가 부양 소재로 활용해 주가 조작을 한 일당이 구속 기소됐다. 여기에는 가수 이승기의 장인도 포함된 것으로 확인됐다. &lt;br&gt;&lt;br&gt;서울남부지법 금융증권범죄합동수사부(부장 안창주)는 자본시장법 위반 등 혐의로 이승기 장인 이모(58)씨 등 8명을 구속하는 등 총 13명을 기소했다고 16일 밝혔다. &lt;br&gt;&lt;br&gt;검찰에 따르면 이들은 코스닥 상장업체 3곳이 첨단 기술을 이용한 ‘펄(Pearl‧주가 부양을 위한 호재성 신규 사업)’을 추진한다고 속이는 등의 수법으로 주가를 끌어올려 막대한 이익을 챙겼다. &lt;br&gt;&lt;br&gt;이 사건의 발단이 된 첫 주가 조작은 전직 검찰 수사관 A씨가 라임 사태의 주범 중 한 명인 이인광 에스모 회장의 해외 도피 자금을 마련하기 위해 시작됐다. &lt;br&gt;&lt;br&gt;이들이 조작 대상으로 삼은 첫 번째 기업은 이차전지 소재 기업 ‘중앙첨단소재’였다. 이들은 2022년 11월부터 약 1년간 시세 조종 주문을 반복해 주가를 주당 490원에서 5850원까지 10배 이상 끌어올렸고, 이를 통해 140억원 상당의 이익을 얻었다. &lt;br&gt;&lt;br&gt;이어 신재생에너지 업체인 ‘퀀타피아’에 대해서는 “1000억원 상당의 투자가 확정됐다”는 허위 투자확약서를 공시하는 등 수법으로 주가를 부풀려 60억여 원을 추가로 빼돌렸다. 이 과정에서 이씨는 지난해 2월 퀀타피아의 거래가 정지되자 A씨로부터 이를 해결해주겠다며 착수금 3000만원을 받고 성공 보수로 10억원을 약속받아 변호사법 위반 혐의도 적용됐다. 당시 이씨는 자본시장법 위반 혐의로 재판받고 있었음에도 저축은행장 출신 브로커와 공모해 차명계좌 등을 이용해 범행을 지속했다. &lt;br&gt;&lt;br&gt;두 사람은 2차 주가 조작 과정에서 주식 거래 정지로 인한 손실을 만회하기 위해 유심 제조업체 ‘엑스큐어’를 이용한 3차 범행을 저질렀다. 이 회사가 AI 로봇 사업을 추진한다는 소문을 퍼뜨리고 시세 조종 주문을 넣어 주가를 인위적으로 올렸다. 이씨는 회사 인수 과정에서 미리 알게 된 미공개 정보를 이용한 주식 차명 매수로 1억원의 시세 차익을 거둔 것으로 조사됐다. &lt;br&gt;&lt;br&gt;검찰은 ‘유례를 찾기 어려운 범행’이라고 했다. 검찰 관계자는 “시세 조종 수급 세력이 주가 조작 범행을 연이어 저지른 것은 유례를 찾아보기 어렵다”며 “시세 조종과 사기적 부정 거래, 미공개 정보 이용 등 자본시장법이 금지하는 주요 행위를 모두 망라했다는 점에서 자본시장 질서에 중대한 위협을 초래했다”고 밝혔다. &lt;br&gt;&lt;br&gt;검찰은 일당이 소유한 부동산과 고급 차량 등 30억원 상당의 재산에 대해 추징 보전하는 등 범죄 수익 환수에 주력할 방침이다. &lt;br&gt;&lt;br&gt;한편, 이승기는 지난달 29일 입장문을 내고 “장인어른에게 지속적으로 제기됐던 위법 사항에 대해 파기환송심에서 벌금형이 선고된 바 있으나, 최근 유사한 위법 행위로 인해 다시 수사기관에 기소된 상황에 이르렀다”며 “참담한 심정”이라고 했다. 이어 “이번 사건으로 가족 간의 신뢰는 회복하기 어려운 수준으로 훼손됐다”며 “우리 부부는 오랜 고민 끝에 처가와의 관계를 단절하고자 한다”고 했다. &lt;br&gt;&lt;br&gt;그 전까지 이승기는 주가조작 혐의를 받는 장인으로 인해 세간의 비판을 받았지만, 오히려 처가의 범죄 사실 관련 보도가 명백한 오보라며 반박했었다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[단독] 손흥민 ‘임신 협박’ 여성과 교제…돌연 협박에 손흥민 “강력 대응하자”</title>
