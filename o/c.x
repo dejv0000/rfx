@@ -13,6 +13,77 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>원주 한 대학서 무더기 식중독 의심 증상…학생 30명 병원 이송</title>
+      <link>https://www.chosun.com/national/regional/2025/05/18/RDZDQ4L53JECBGXI273NQ5VXKU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/05/18/RDZDQ4L53JECBGXI273NQ5VXKU/</guid>
+      <dc:creator>원주=정성원 기자</dc:creator>
+      <description>강원 원주시 한 대학교에서 학생들이 무더기로 식중독 의심 증세를 보여 보건당국이 역학조사에 나섰다.
+18일 강원소방본부에 따라면 이날 오전 8시 53분쯤 강원 원주시 한 대학교 기숙사에서 학생 1명이 복통 등의 증상을 호소해 병원으로 이송됐다.
+</description>
+      <pubDate>Sun, 18 May 2025 08:10:22 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YQD4ISYJPHOSEMLEGA4E5ZMWVA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;119구급차량. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;강원 원주시 한 대학교에서 학생들이 무더기로 식중독 의심 증세를 보여 보건 당국이 역학조사에 나섰다.&lt;br&gt;&lt;br&gt;18일 강원소방본부에 따르면 이날 오전 8시 53분쯤 강원 원주시 한 대학교 기숙사에서 학생 1명이 복통 등의 증상을 호소해 병원으로 이송됐다. 검진 결과 이 학생은 식중독에 걸린 것으로 확인됐다.&lt;br&gt;&lt;br&gt;식중독 감염 사실을 확인한 보건 당국은 학교 측과 협의해 비슷한 증세를 보인 학생 약 30명을 인근 병원으로 이송했으며, 식중독 원인을 찾기 위해 대학 식당 등에 대한 역학 조사를 벌이고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[오늘의 운세] 5월 19일 월요일 (음력 4월 22일 戊子)</title>
+      <link>https://www.chosun.com/national/national_general/2025/05/18/YPRVY4Q4BVHCTDYGLVCMW7UNOI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/05/18/YPRVY4Q4BVHCTDYGLVCMW7UNOI/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Sun, 18 May 2025 08:00:00 +0000</pubDate>
+      <content:encoded>&lt;p&gt;&lt;div class="chosun_unse"&gt;&lt;iframe src="https://image.chosun.com/arc/unse_iframe.html" frameborder="0" scrolling="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;style&gt;.chosun_unse{position:relative;width:100%;height:350px;box-sizing:border-box}.chosun_unse&gt;iframe{position:absolute;top:0;left:0;width:100%;height:100%;overflow-y:hidden}@media all and (max-width:1024px){.chosun_unse{height:350px}}@media all and (max-width:1023px){.chosun_unse{height:350px}}@media all and (max-width:528px){.chosun_unse{height:270px}}@media all and (max-width:384px){.chosun_unse{height:190px}}&lt;/style&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;p&gt;&lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani01.gif"&gt;  	&amp;nbsp;	36년생 소화기 계통 질환 주의. 48년생 감정 조절 실패하면 하루가 불편. 60년생 아랫사람과의 관계에 각별히 신경 쓰도록. 72년생 주변 어려움에 섣불리 나서지 마라. 84년생 사소한 일에 신경 쓰다 큰일 놓칠라. 96년생 해 저문 산촌 등불이 객심을 이끄는구나.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt;  &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani02.gif"&gt;	&amp;nbsp;	37년생 윤택한 삶이 훌륭한 삶은 아니다. 49년생 매사 꾸준히 하는 자세 필요. 61년생 이성(異性)으로 인한 구설수 경계. 73년생 천 마디 말보다 한 번 실천이 결과 낳는다. 85년생 기사회생하면 조상 은덕인 줄 알라. 97년생 명예는 주위에서 만들어 주는 것.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani03.gif"&gt;	&amp;nbsp;	38년생 여행은 삶의 활력 된다. 50년생 다수 사람들의 인정과 신임 받을 듯. 62년생 사람은 옛사람이, 옷은 새 옷이 좋다. 74년생 아름다운 꽃이 빨리 꺾이는 법. 86년생 즐겁지 않더라도 즐기면서 가라. 98년생 주저하지 말고 버리면 또 다른 것이 생긴다.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani04.gif"&gt;	&amp;nbsp;	27년생 장대로 별 따기. 39년생 겸손과 양보는 도움받는다. 51년생 부정은 부정을 낳는 법. 63년생 순탄한 하루가 될 듯.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani05.gif"&gt;	&amp;nbsp;	5년생 행복의 원천은 물질이 아닌 ‘사람’. 87년생 급히 먹는 밥이 체하기 마련. 99년생 새로운 소식이 먼 곳에서 들려올 수도.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani06.gif"&gt;	&amp;nbsp;	28년생 길흉이 교차하니 매사에 조심. 40년생 이른 귀가(歸家)에 행복 있다. 52년생 개띠는 가족이라도 주의가 필요. 64년생 정체와 지체의 반복. 76년생 취미 활동으로 삶의 활력 찾아야. 88년생 과욕과 과속을 삼가도록. 00년생 적당한 긴장감 유지는 삶의 활력.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani07.gif"&gt;	&amp;nbsp;	29년생 구설수 있으니 언쟁을 주의. 41년생 끈기와 집념이 성공 비결. 53년생 기관지 등 폐 관련 질환의 재발을 주의. 65년생 의중을 감추고 홀로 가라. 77년생 지나침은 모자람만 못하다. 89년생 소탐대실(小貪大失)이다. 01년생 수많은 일상의 반복이 결실로 연결.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani08.gif"&gt;	&amp;nbsp;	30년생 심·뇌혈관 계통 질환을 주의. 42년생 바늘 잃고 도끼 낚는 격. 54년생 주관을 가지고 가면 좋은 결실 있을 듯. 66년생 지네도 넘어질 때가 있다. 78년생 분실이 우려되니 귀중품 관리에 유념. 90년생 욕심은 실패의 지름길. 02년생 의지만 있으면 활로는 있다.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani09.gif"&gt;	&amp;nbsp;	31년생 자동차와 안전사고에 주의. 43년생 사소한 일도 자손 의견 들으면 유익. 55년생 자만심을 경계하라. 67년생 갈팡질팡 이랬다 저랬다 마라. 79년생 매사 배우고 익히는 자세로 임하라. 91년생 불뚝 성질이 일을 그르친다. 03년생 처음은 다 무모해 보이는 법.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani10.gif"&gt;	&amp;nbsp;	32년생 좋은 평판이 천금보다 낫다. 44년생 과도한 욕심은 걱정을 초래. 56년생 집 안에 날아든 꿩은 잡지 않는 법. 68년생 마음대로 안 되니 피로가 곱절. 80년생 조약돌이 큰 바위 될 수 있나. 92년생 범사에 감사하라. 04년생 의중 파악 전까지는 움직이지 마라.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani11.gif"&gt;	&amp;nbsp;	33년생 마른 나무에는 잎이 피지 않는다. 45년생 세상인심 각박해도 진심은 통한다. 57년생 신중치 못한 처신은 손재 시비를 야기한다. 69년생 북쪽에 있는 시장은 가지 마라. 81년생 성공한 삶은 실패 두려워하지 않는 법. 93년생 작은 배는 무거운 짐 감당 어렵다.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani12.gif"&gt;	&amp;nbsp;	34년생 마음 편한 게 무엇보다 소중. 46년생 다소 무리 따라도 추진하면 결실 볼 듯. 58년생 명기(名器)는 대장장이 쇠망치를 두려워하지 않는 법. 70년생 집 안 답답해도 외출 삼가도록. 82년생 풍년에 못 지낸 제사 흉년에 지낼까. 94년생 남의 문제로 분주한 하루 예상.	&lt;br&gt;
+&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;한소평 금오산방 강주  &lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;			&lt;/p&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/4MTFRYWHBJA7XOKKF7G7JPLX5U.png?auth=4651b5b20b5d4901424204d1456faee02e4b064ff509db23945deabf4404c8ef&amp;smart=true&amp;width=800&amp;height=420" type="image/png" height="420" width="800"/>
+    </item>
+    <item>
+      <title>5·18 45주년 기념식…“내란 동조” 문전박대 당한 안창호 인권위원장</title>
+      <link>https://www.chosun.com/national/regional/2025/05/18/NACOISV74NDSTPSEW35UU6OH6Y/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/05/18/NACOISV74NDSTPSEW35UU6OH6Y/</guid>
+      <dc:creator>광주광역시=조홍복 기자, 광주광역시=진창일 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 18 May 2025 06:17:50 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3ZALSJZOFRMCTLDZRM7UZDYEF4.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;안창호 국가인권위원회 위원장이 18일 오전 광주 북구 운정동 5·18민주묘지에서 열린 제45주년 5·18 민주화운동 기념식에 참석하던 중 시민단체의 항의를 받고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;안창호 국가인권위원회 위원장이 18일 5·18민주화운동 45주년 기념식장을 찾았으나 문전박대를 당하고 발길을 돌렸다.&lt;br&gt;&lt;br&gt;안 위원장은 이날 오전 9시 36분쯤 광주광역시 북구 운정동 국립5·18민주묘지 입구 ‘민주의 문’ 앞에 승용차로 도착하고 나서 경찰 20여 명의 경호를 받으며 걸음을 옮겼다. 당시 민주의 문 앞에는 비표가 없어 기념식장에 들어가지 못한 200여 명의 인파가 있었다. &lt;br&gt;&lt;br&gt;이 중 일부 시민과 시민단체 회원이 “안창호 아니야?” “맞네” “여기가 어디라고 오느냐” “빨리 떠나라” 등을 외치며 입장을 저지하기 위해 몰려들어 몸싸움을 벌였다. 앞서 일부 5·18 단체가 항의 집회를 예고하자 안 위원장은 경찰에 신변 보호를 요청한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;안 위원장은 경찰에 둘러싸여 간신히 민주의 문으로 이동했다. 하지만 이동을 가로막는 또 다른 시민들과 맞닥뜨렸다. 두 차례 걸친 실랑이 끝에 어렵사리 묘역 진입에 성공했으나, 이번에는 미리 대기하던 5·18 유공자 등의 항의가 이어졌다. 이들은 안 위원장의 이동 경로를 가로막았다. 안 위원장은 결국 세 차례 항의에 백기를 들고 도착 9분 만에 기념식 참석을 포기했다. &lt;br&gt;&lt;br&gt;광주 시민 박모(55)씨는 “안창호 위원장은 12·3 내란 사태에 동조했기 때문에 신성한 5·18민주묘지에 들어가선 안 된다”고 말했다. 한 5·18 유공자는 “항의가 예상되는데 굳이 신변 보호까지 하면서 무리하게 민주묘지를 찾은 이유를 모르겠다”고 말했다. &lt;br&gt;&lt;br&gt;앞서 인권위는 지난 2월 10일 제2차 전원위원회에서 윤석열 전 대통령의 방어권 보장 등을 담은 ‘계엄 선포로 야기된 국가적 위기 극복 대책 권고의 건’을 일부 수정 의결했다. 이후 안 위원장 등이 내란에 동조했다는 비판을 받고 있다. &lt;br&gt;&lt;br&gt;안 위원장은 이날 입장문을 내고 “5·18 민주화운동 희생자들을 추모한다”며 “그날의 비극이 남긴 아픔을 교훈 삼아 우리는 모두 자유민주주의의 발전과 국민의 인권 신장에 더욱 노력해야 할 것”이라고 말했다. &lt;br&gt;&lt;br&gt;이어 “오늘 추모식에 참여하려 했으나 입장하지 못한 것에 대해 매우 안타깝게 생각한다”며 “국가인권위원회는 5·18 정신을 등불 삼아, 이 땅에 민주주의가 더욱 튼튼히 자리 잡고 모든 국민의 인권이 신장할 수 있도록 인권 보호에 앞장서겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3U5YYJXJLNVKB4YPCSHXUAO3DE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이재명 더불어민주당 대통령 후보 등이 18일 제45주년 5·18 민주화운동 기념식이 열리는 18일 광주 북구 운정동 국립 5·18민주묘지로 입장하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;45주년 5·18 민주화운동 기념식은 안창호 위원장 ‘철수 해프닝’ 외에 차분한 분위기 속에 거행됐다. 이날 오전 10시 ‘함께, 오월을 쓰다’를 주제로 열린 기념식에는 5·18 민주유공자와 유족, 이주호 대통령 권한대행 부총리 겸 교육부 장관을 비롯한 정부 주요 인사, 각계 대표, 학생 등 2500여 명이 참석했다. &lt;br&gt;&lt;br&gt;더불어민주당 이재명 후보, 개혁신당 이준석 후보, 민주노동당 권영국 후보 등 3개 정당 대선 후보도 참석했다. 정부가 주관하는 5·18 기념식은 5·18 민주화운동이 법정기념일로 지정된 1997년 이후 해마다 광주 국립 5·18민주묘지에서 개최되고 있다.&lt;br&gt;&lt;br&gt;기념식은 국민의례를 시작으로 경과 보고, 여는 공연, 기념사, 기념 영상, 대합창, ‘임을 위한 행진곡’ 제창 등 순으로 45분 동안 이어졌다. 대통령 궐위에 국무총리도 공석인 상태에서 이주호 권한대행이 기념사를 낭독했다. 이 권한대행은 “우리 모두의 삶 속에 끊임없이 오월의 정신을 되살려 대화와 타협으로 진정한 국민 통합의 길을 열어나가야 한다”고 말했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZLXFWIHJIJNMFPI3KW4EBMUYDQ.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;김영록 전남지사와 강기정 광주시장 등이 18일 국립5·18민주묘지에서 열린 제45주년 5·18민주화운동 기념식에 참석해 '임을 위한 행진곡'을 제창하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘임을 위한 행진곡’ 제창에서 참석자들은 각자 옆 사람의 손을 맞잡고 앞뒤로 흔들거나, 움켜쥔 주먹을 흔들며 노래를 불렀다. 이 권한대행 등 정부 인사, 우원식 국회의장, 김형두 헌법재판소장 권한대행, 3명의 대선 후보, 국민의힘 김용태 비상대책위원장과 용혜인 기본소득당 대표 등 각 정당 지도부 인사 모두 제창했다. 이재명 후보와 이준석 후보는 주먹을 들어 올리지 않고 옆에 사람과 손을 맞잡았다. 강기정 광주시장과 김영록 전남지사는 움켜쥔 오른 주먹을 들어 올려 흔들었다.&lt;br&gt;&lt;br&gt;다만 기념식 후 5·18기념재단은 성명을 내고 “이 권한대행의 기념사에는 5·18 정신 헌법 전문 수록, 진상 규명 지속, 기념사업법 제정, 유공자 처우 개선 등 5·18 민주화운동을 위한 그 어떤 내용도 없었다”며 “강력한 유감을 표명한다”고 밝혔다.&lt;br&gt;&lt;br&gt;한편 이재명 후보는 전두환·노태우 비자금에 관한 질문이 나오자 “국가폭력, 군사쿠데타, 국민에 대한 국가권력의 살상행위 또는 시도에 대해서는 시효를 배제하고 그가 생존하는 한 반드시 형사 책임을 물어야 한다. 민사상 소멸 시효도 배제해야 한다”고 했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>대구시 대표단,  5·18민주화운동 기념식참석…민주정신 되새겨 </title>
+      <link>https://www.chosun.com/national/regional/2025/05/18/VEO45YLU4VCKXL6U4PFO3OATQM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/05/18/VEO45YLU4VCKXL6U4PFO3OATQM/</guid>
+      <dc:creator>대구=노인호 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 18 May 2025 06:00:32 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/S76CCHZT2JG7DHH36MKY45CWCA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;18일 광주 국립5·18민주묘지에서 열린 45주년 5·18민주화운동 기념식에 참석한 대구시 대표단 등이 국민의례를 하고 있다./대구시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대구시는 18일 광주 국립5·18민주묘지에서 열린 45주년 5·18민주화운동 기념식에 참석해 희생자를 추모하고 민주정신을 되새겼다고 밝혔다. &lt;br&gt;&lt;br&gt;이날 기념식에는 김정기 대구시장 권한 대행, 이만규 대구시의회 의장, 곽대훈 2·28기념사업회장 등 대구시 대표단 20명이 참석했다&lt;br&gt;&lt;br&gt;기념식 후 대구시와 광주시는 달빛동맹 성과를 공유하고 핵심 현안과제에 대한 협력 방안을 논의했다.&lt;br&gt;&lt;br&gt;대구와 광주는 2013년 ‘달구벌’과 ‘빛고을’의 앞글자를 딴 ‘달빛동맹’을 출범한 이래 해마다 2·28민주운동과 5·18민주화운동 기념식에 교차 참석하고 있다. 이를 바탕으로 양 도시는 경제·산업, 행정, 문화·체육 등 다양한 분야에서도 지속적인 교류 협력을 이어오고 있으며, 국가 균형 발전의 대표 협력 모델로 자리매김하고 있다고 대구시는 밝혔다. &lt;br&gt;&lt;br&gt;달빛동맹은 그동안 대구경북신공항·광주군공항 특별법 동시 통과(2023년 4월), 달빛철도 특별법 제정(2024년 1월), 남부권 거대 경제권 조성 협약 체결(2024년 2월) 등 양 도시 발전을 이끄는 실질적 성과로 이어졌다. &lt;br&gt;&lt;br&gt;김 권한대행(행정부시장)은 “오월 영령의 고귀한 희생과 민주화 정신이 오늘의 대한민국을 있게 한 토대”라며 “10여 년간 이어온 대구·광주 달빛동맹을 더욱 공고히 해 국가균형발전과 남부거대경제권 조성에 빛고을 광주와 같이 긴밀히 협력해 나아가겠다”고 말했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>서울·경기로 쏠리는 신규 개원, 전남·울산은 문닫은 병원이 개업보다 많아</title>
+      <link>https://www.chosun.com/national/welfare-medical/2025/05/18/PYBTXDLZBFCBPF2YLY4Y34Q3XA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/05/18/PYBTXDLZBFCBPF2YLY4Y34Q3XA/</guid>
+      <dc:creator>오경묵 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 18 May 2025 05:28:24 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YRDIDE4Z5FEIPBKJJJPFVFN244.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;치과, 안과, 피부과, 신경과 등이 입점한 부산 동래구 한 병원 건물. /김동환 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;수도권과 달리 일부 지방에서는 폐업하는 의료기관이 개업하는 곳보다 많은 것으로 나타났다.&lt;br&gt;&lt;br&gt;18일 건강보험심사평가원의 ‘요양기관 개·폐업 현황’에 따르면, 지난해 전남에서 폐업한 의료기관은 104곳으로 이 지역에서 신규 개업한 의료기관(94곳)보다 10곳 많았다. 신규 개원 대비 폐업률은 110.6%다. 같은 해 울산에선 의료기관 75곳이 문을 닫았고, 69곳이 새로 생겨 폐업률은 108.7%였다. 이 외에 충북(97.6%), 경남(89.2%), 전북(88.5%), 광주(83.6%) 등 지방에서 신규 기관 대비 폐업률이 높았다.&lt;br&gt;&lt;br&gt;반면 수도권의 폐업률은 상대적으로 떨어지는 것으로 나타났다. 지난해 인천에선 314곳이 신규 개업하고, 191곳이 폐업했다. 신규 기관 대비 폐업률은 60.8%로 17개 광역지방자치단체 중 가장 낮았다. 경기도는 1483곳이 문을 열고 969곳이 문을 닫았고, 서울에선 1651곳이 개업하고 1128곳은 폐업했다. 개업 대비 폐업률은 각각 65.3%, 68.3%였다.&lt;br&gt;&lt;br&gt;이른바 ‘동네 병원’이라고 불리는 의원급의 경우 시·도별 개·폐업 격차가 더욱 커졌다. 최근 5년간(2020~2024년) 전남에선 의원 175곳이 문을 열었고, 158곳이 문을 닫아 개업 대비 폐업률은 90.3%였다. 경북(81.9%), 충북(77.2%), 경남(75.7%) 등도 비교적 폐업률이 높았다. 반면 같은 기간 경기도에선 2388곳이 개업하고 1078곳이 문을 닫아 폐업률은 45.1%에 그쳤다. 인천(49.6%), 서울(52.8%)도 상대적으로 폐업률이 낮았다.&lt;br&gt;&lt;br&gt;진료 과목별로도 차이가 뚜렷했다. ‘잘되는 과’와 ‘안 되는 과’의 차이가 눈에 띄었다. 소아청소년과와 산부인과가 문을 닫은 경우가 많았다. 2020~2024년 전국에서 소아청소년과 의원은 426곳이 개업했는데, 폐업은 이보다 많은 447곳이었다. 산부인과 의원은 248곳이 문을 열고 219곳이 문을 닫아 88.3%의 폐업률을 보였다. 반면 정신건강의학과(15.1%), 신경과(17.5%) 등은 폐업률이 비교적 낮았다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘5차선→2차선’고속도로 차선 급변경으로 사고 유발한 70대 ‘집유 3년’</title>
+      <link>https://www.chosun.com/national/court_law/2025/05/18/TJNKA2MRFVDCPHYMPWAVVS63W4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/05/18/TJNKA2MRFVDCPHYMPWAVVS63W4/</guid>
+      <dc:creator>춘천=정성원 기자</dc:creator>
+      <description>고속도로에서 차선 급변경으로 사고를 유발한 70대에게 1심 법원에 이어 항소심 법원도 집행유예를 선고했다.
+춘천지법 형사1부(재판장 심현근)는 특정범죄가중법상 도주치상 등 혐의로 기소된 A(72)씨에게 원심과 같은 징역 1년 6개월에 집행유예 3년을 선고했다고 18일 밝혔다.
+</description>
+      <pubDate>Sun, 18 May 2025 05:13:22 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FAHTKLVHS35PFJHGRYVX4AG2FA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;춘천지법./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;고속도로에서 차선 급변경으로 사고를 유발한 70대에게 1심 법원에 이어 항소심 법원도 집행유예를 선고했다.&lt;br&gt;&lt;br&gt;춘천지법 형사1부(재판장 심현근)는 특정범죄가중법상 도주치상 등 혐의로 기소된 A(72)씨에게 원심과 같은 징역 1년 6개월에 집행유예 3년을 선고했다고 18일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 2월 18일 경기 시흥시 논곡동 수도권 제1순환 고속도로에서 자신의 레이 승용차를 몰고 5차로로 달리던 중 2차로까지 차선을 급변경해 2차로에서 달리던 B씨의 승용차와 C씨의 승합차 간 사고를 유발한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;조사 결과 B씨는 급하게 차로를 변경한 A씨의 차량을 피해 1차로로 진로를 변경했다가 C씨의 승합차와 사고가 난 것으로 조사됐다.&lt;br&gt;&lt;br&gt;A씨는 재판 과정에서 “방향지시등을 켜고 이동했다. 과실이 없다”는 등 무죄를 주장했으나 1심 법원에 이어 항소심 법원도 이를 받아들이지 않았다.&lt;br&gt;&lt;br&gt;항소심 재판부는 “무리하게 차로를 변경한 건 ‘다른 차량의 정상 통행을 방해할 경우 진로 변경을 해서는 안 된다’는 주의 의무를 위반한 것”이라며 “방향 지시등을 켜고 진로를 변경한 것만으로 주의 의무를 다했다고 보기 어렵다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>대법 “공정위, 해운사 운임 담합 행위 제재할 수 있다” 첫 판시</title>
       <link>https://www.chosun.com/national/court_law/2025/05/18/UIPNQA2NQBCKNDMJHIAPJUX4DU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/05/18/UIPNQA2NQBCKNDMJHIAPJUX4DU/</guid>
@@ -850,15 +921,6 @@
       <media:content url="https://www.chosun.com/resizer/v2/4MTFRYWHBJA7XOKKF7G7JPLX5U.png?auth=4651b5b20b5d4901424204d1456faee02e4b064ff509db23945deabf4404c8ef&amp;smart=true&amp;width=800&amp;height=420" type="image/png" height="420" width="800"/>
     </item>
     <item>
-      <title>후임 베개에 침 뱉고 성추행...20대 예비역 병장 집행유예 3년</title>
-      <link>https://www.chosun.com/national/regional/chungcheong/2025/05/16/AT3MYZT7CZHM3EW6INUC6LL434/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2025/05/16/AT3MYZT7CZHM3EW6INUC6LL434/</guid>
-      <dc:creator>신정훈 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 16 May 2025 06:39:48 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7J4T6KTWKBDWTAAGIE74JXUW6Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;청주지법 전경. /신정훈 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;군 복무 당시 후임병을 괴롭힌 20대가 징역형을 선고받았다. &lt;br&gt;&lt;br&gt;청주지법 형사합의11부(재판장 태지영)는 군형법위반·재물손괴 혐의로 재판에 넘겨진 박모(24)씨에게 징역 1년 6개월에 집행유예 3년을 선고했다고 16일 밝혔다. 또 40시간의 성폭력 치료 강의 수강 및 80시간의 사회봉사, 3년간의 아동·청소년 관련 기관 취업 제한을 명령했다. &lt;br&gt;&lt;br&gt;지난 2022년 12월 경기 김포의 한 해병대 부대에서 병장으로 근무하던 박씨는 생활관에서 병사들이 보는 앞에서 후임 A씨의 신체에 엉덩이를 두 차례에 비비며 추행한 혐의를 받는다.&lt;br&gt;&lt;br&gt;또 A씨의 칫솔로 자기 군화를 두 차례 닦고는 다시 A씨의 관물대에 놓아두고, A씨의 체크카드 IC칩 부분을 커터칼로 망가뜨린 혐의도 받고 있다.&lt;br&gt;&lt;br&gt;심지어 군화를 신은 채 그의 침상에 올라가 마구 뛰고 베개에 침을 뱉기도 했다. &lt;br&gt;&lt;br&gt;박씨는 법정에서 혐의를 부인했다. &lt;br&gt;&lt;br&gt;하지만 재판부는 A씨와 동료 병사들의 진술이 구체적이고 일관된 점 등을 토대로 박씨의 죄를 인정했다. &lt;br&gt;&lt;br&gt;재판부는 “건전한 병영 문화를 훼손했고 군 기강 확립에도 악영향을 주었으며, 반성도 않고 피해자에게 용서받지도 못했다”라며 “다만 초범인 점을 고려해 형을 정했다”고 판시했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>대법 “몰래 촬영한 성관계 영상, 지인 2명에게 보여준 것은 처벌 못해”</title>
       <link>https://www.chosun.com/national/court_law/2025/05/16/R4USPYBOU5F6PFYGBNJMLGKOWU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/05/16/R4USPYBOU5F6PFYGBNJMLGKOWU/</guid>
@@ -880,15 +942,6 @@
       </media:content>
     </item>
     <item>
-      <title>헌재, 국회에 ‘재판소원’ 찬성 의견 제출...“개정안 취지에 공감”</title>
-      <link>https://www.chosun.com/national/court_law/2025/05/16/HQMFENTRNFCJZMB36DR4KYNE44/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/05/16/HQMFENTRNFCJZMB36DR4KYNE44/</guid>
-      <dc:creator>김희래 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 16 May 2025 06:30:08 +0000</pubDate>
-      <content:encoded>헌법재판소가 ‘재판소원 제도’ 도입을 골자로 한 더불어민주당의 헌재법 개정안에 대해 찬성하는 의견을 밝히고, 개정안의 구체적인 수정 방안도 제안했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LG7FFRJHXYS57ICP7BAPARXHKE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;헌법재판소. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;16일 법조계에 따르면, 헌재는 민주당의 헌재법 개정안과 관련해 전날 국회 법제사법위원회에 “국민의 충실한 기본권 보호를 위해 개정안의 취지에 공감한다”는 내용의 의견서를 제출했다. 의견서에는 “독일·대만·스페인·체코·튀르키예 등 해외에서도 재판소원을 인정하고 있다”는 설명도 담긴 것으로 전해졌다. 헌재는 지난 2013, 2017년에도 재판소원 도입을 주장하는 의견을 국회에 제출한 바 있다.&lt;br&gt;&lt;br&gt;현행 헌재법 제68조는 ‘법원의 재판’을 헌법소원 대상에서 제외하고 있다. 개정안은 법원의 재판에 대해서도 헌법소원이 가능하도록 ‘법원의 재판을 제외하고’라는 문구를 삭제했다. 이 경우 대법원 판결에 대해서도 헌재가 위헌으로 판단한 뒤 다시 재판하라고 요구할 수 있게 된다. &lt;br&gt;&lt;br&gt;헌재는 구체적인 개정안의 수정 방안도 제시했다. 헌재는 의견서를 통해 ‘헌법소원 남발’을 막기 위해 “재판소원 대상을 확정판결이 난 사건으로 한정하자”고 제안했다. 또 “명문 규정을 둬서 헌법소원심판 절차에서 가처분을 허용 할 필요가 있다”고 했다. 확정 판결로 유죄를 선고받은 사람이 헌법소원을 제기할 경우, 헌재 결정이 나오기 전까지 유죄 선고의 효력을 정지시킬 수 있도록 하자는 것이다.&lt;br&gt;&lt;br&gt;특히 헌재는 “개정안에 헌재 결정의 기속력을 명확히 해 법원이 헌재의 결정을 따르도록 해야 한다”고도 했다. 헌재가 판결을 취소하고 사건을 법원에 환송할 경우, 법원은 헌재 결정의 취지에 따라 다시 재판해야 한다는 것이다. 이 경우 최종심 기능은 사실상 헌재가 갖게 된다.&lt;br&gt;&lt;br&gt;다만 헌재는 “법원의 사법권 행사에 대해 헌법소원을 허용할지 여부는 원칙적으로 입법부(국회)가 결정할 사항”이라고 덧붙였다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>법원 “방통위, ‘김만배 허위 인터뷰’ 보도 MBC 과징금 취소하라”</title>
       <link>https://www.chosun.com/national/court_law/2025/05/16/W6A2KTK26JC2NHQGYKUSLCVX44/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/05/16/W6A2KTK26JC2NHQGYKUSLCVX44/</guid>
@@ -896,33 +949,6 @@
       <description/>
       <pubDate>Fri, 16 May 2025 06:29:30 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/INGARJW52FOVVGKLSDDPKWZ4G4.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;경기도 과천 정부청사 내 방송통신위원회. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;방송통신위원회(방통위)가 이른바 ‘김만배·신학림 허위 인터뷰’를 인용해 보도한 MBC 뉴스데스크에 부과한 과징금 4500만원을 취소하라는 법원 판단이 나왔다.&lt;br&gt;&lt;br&gt;16일 서울행정법원 행정4부(재판장 김영민)는 MBC가 방통위를 상대로 낸 제재 처분 취소 소송에서 원고 승소로 판결했다. 재판부는 “방통위의 MBC에 대한 과징금 부과 처분을 취소한다”고 밝혔다. &lt;br&gt;&lt;br&gt;MBC 뉴스데스크는 지난 2022년 20대 대선을 앞두고 뉴스타파의 ‘김만배·신학림 인터뷰' 녹취록을 인용하며 ‘김만배 “윤석열이 그냥 봐줬지…사건이 없어졌어”’ 등 4건의 보도를 내보냈다. 이후 이 녹취록은 조작된 것으로 밝혀졌다.&lt;br&gt;&lt;br&gt;방송통신심의위원회는 2023년 11월 뉴스데스크에 방송법상 최고 수준인 4500만원의 과징금 부과를 의결했고, 방통위는 지난해 1월 처분을 확정했다. &lt;br&gt;&lt;br&gt;MBC는 이에 “방통위가 2인의 상임위원으로 구성된 상태에서 처분을 의결한 것은 위법하다”며 소송을 제기하고, 과징금 처분 집행정지도 신청했다. 법원은 지난해 집행정지 신청을 일부 받아들여 처분 효력은 중단된 상태였다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>이재명·이준석 대선후보 신변 협박글 9건… 경찰 수사 진행</title>
-      <link>https://www.chosun.com/national/national_general/2025/05/16/YH27FXIRW5EC7BFMMDKBUBMQ3M/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/05/16/YH27FXIRW5EC7BFMMDKBUBMQ3M/</guid>
-      <dc:creator>구아모 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 16 May 2025 06:26:33 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Q3B42SV44NO4RFYDATZP3TFXYI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;암살 위협설이 제기된 이재명 더불어민주당 대표가 3월 17일 서울 여의도 국회에서 최고위원회의와 비상의원총회를 마친 뒤 경호원의 보호를 받으며 이동하고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰이 제22대 대통령 선거를 앞두고 주요 후보자들에 대한 신변 위협 사건 9건을 수사 중이라고 16일 밝혔다. &lt;br&gt;&lt;br&gt;경찰청에 따르면 이날 12시 기준, 온라인상에 게시된 대통령 후보자 신변 위해 협박 글은 총 9건 접수됐다. 이 중 이재명 후보에 대한 협박이 8건으로 가장 많았고, 이준석 후보에 대한 협박은 1건 접수된 상태다.&lt;br&gt;&lt;br&gt;이재명 후보 관련 협박 사건 중 1건은 수사를 마치고 사건을 송치했으며, 나머지 7건은 현재 입건 전 조사 및 수사 중이다. 이준석 후보 건 역시 입건 전 조사 예정이다.&lt;br&gt;&lt;br&gt;경찰은 “현재까지 접수된 9건 외에 추가적인 후보자 신변 위협 사건은 수사 중인 바 없다”며, “후보자 대상 저격, 암살 시도 등 테러 가능성에 대비해 경호 태세를 강화하고 있다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>박초롱초롱빛나리 유괴 살해한 만삭 임산부, 27년 뒤 지금은 </title>
-      <link>https://www.chosun.com/national/national_general/2025/05/16/5CKNPJHGFFFOBL45YHWX3LYKSQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/05/16/5CKNPJHGFFFOBL45YHWX3LYKSQ/</guid>
-      <dc:creator>이가영 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 16 May 2025 06:27:20 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NPM5LVEEVU5KF3L5KO2T4G5WRM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;박초롱초롱빛나리양 유괴사건 범인 전현주가 1997년 9월 서울 서초경찰서로 연행되고 있다. /김진평 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;27년 전 대한민국을 충격에 빠뜨린 ‘박초롱초롱빛나리 유괴 사건’의 범인이었던 만삭의 임산부 전현주의 근황이 방송을 통해 공개됐다. &lt;br&gt;&lt;br&gt;사건은 1997년 8월 서울 서초구 잠원동 뉴코아 스포츠센터 어학원 앞에서 영어 수업을 마치고 집으로 돌아가던 박초롱초롱빛나리(당시 8세)양이 사라지면서 시작됐다. &lt;br&gt;&lt;br&gt;박양 실종 이후 집으로 “2000만원을 준비하라”는 전화가 걸려 왔다. 경찰은 전화 발신지인 명동의 한 카페로 들이닥쳤다. 카페에 남아 있던 손님 가운데 만삭 임신부가 있었다. 그는 “(경찰 검문으로) 아기가 놀라서 배를 차고 있다. 병원이 급히 가봐야 한다”고 거세게 항의했다. 경찰은 지문만 채취하고 그 임신부를 풀어줬다. 그가 범인인 전현주(당시 28세)였다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KARKYYAAZVBWJMINGYQIR7VCMY.png"&gt;&lt;figcaption&gt;&lt;small&gt;1997년 유괴 살해된 피해자 박초롱초롱빛나리(당시 8세)양. /MBC&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전현주는 내무부 고위 공직자 집안에서 유복하게 자라 미국 유학까지 다녀와 작가를 꿈꿨다. 당시 임신 8개월이었던 그는 아동극을 하던 남편과 돈 문제로 다툼이 잦았다. 큰돈을 얻을 방법은 유괴밖에 없다고 생각했던 전현주는 박양을 유괴한 날 바로 살해했다. 박양의 시신은 남편이 일하던 서울 동작구 한 극장의 지하 창고에서 발견됐다. &lt;br&gt;&lt;br&gt;전현주는 수감된 뒤 아기를 낳았다. 교도소 내에서 18개월까지 아이를 직접 키울 수 있는데, 이때 분유나 기저귀 등 필요한 모든 물품은 나라에서 지원한다. 전현주는 이후 아기를 친정이나 남편이 키워줄 것으로 기대했지만, 결국 미국으로 입양된 것으로 알려졌다. &lt;br&gt;&lt;br&gt;전현주는 1심에서 사형을 선고받았고, 항소심에서 무기징역으로 감형됐다. 살해가 우발적으로 일어났고, 전과가 없다는 점이 참작됐다. &lt;br&gt;&lt;br&gt;그로부터 27년이 흐른 지금, 무기수 전현주는 어떻게 지내고 있을까. 김응분 전 청주여자교도소 교도관은 15일 방송된 SBS ‘꼬리에 꼬리를 무는 그날 이야기’에 “전현주가 조용한 성격이고, 말을 많이 하지 않는 스타일이다 보니까 존재 자체가 있는지 없는지조차 저는 잘 몰랐다”고 말했다. 따로 사건 이야기를 전해 듣지 않으면 나라를 떠들썩하게 만들었던 유괴살인범인 줄 모를 정도라는 것이다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CD6QTQDDSZDDJBRIX7XNN4QB2A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김응분 전 교도관이 '박초롱초롱빛나리 유괴 사건'의 범인 전현주의 교도소 생활에 관해 이야기하고 있다. /SBS&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김 전 교도관은 “일반 무기수 같은 경우, 그 정도 징역을 살면 한두 번 정도는 귀휴를 나갈 수 있다”며 “전현주는 한 번도 안 나간 것으로 알고 있다”고 했다. 친정과도 연락을 끊고 지내는 것으로 추정된다. &lt;br&gt;&lt;br&gt;또한 “전현주가 공장에 나가서 일을 하는데, 아무래도 머리도 있고 일도 잘하다 보니까 작업장에서 봉사원이라는 역할도 맡게 됐다”고 했다. 다만, 가석방 가능성에 대해서는 “예전에는 무기수가 16년이면 가석방을 나갔다. 요즘에는 무기수들이 (교도소에서) 살아야 하는 기간이 많이 늘어났다”며 “자기들은 가석방을 나갈 수 있다는 희망으로 수용 생활을 하고 있는데, 약취 유인, 성폭력 범죄, 조직폭력 등의 범죄들에 대해서는 실질적으로 저희가 가석방을 신청하기 어렵다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>때아닌 ‘꽃샘추위’에 쌀쌀한 주말...일부 지역엔 봄비</title>
-      <link>https://www.chosun.com/national/transport-environment/2025/05/16/5HID4U4ZN5GXDGFXN26ARTDAQM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/05/16/5HID4U4ZN5GXDGFXN26ARTDAQM/</guid>
-      <dc:creator>박상현 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 16 May 2025 06:05:11 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LVEFAHQL7RKV5IIGRWBRWQFBPE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대관령의 아침 최저기온이 영하 2도 가까이 떨어진 지난 7일 강원 강릉시 대관령 도로변 풀숲에 서리가 내려앉았다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이번 주말 찬 북풍(北風)이 내려오며 일요일인 18일 기온이 큰 폭으로 떨어질 것으로 예보됐다. 여름으로 가는 ‘계절의 문턱’인 5월이 중순에 접어들었지만 오히려 쌀쌀한 날씨가 이어지고 있다. ‘추운 봄’은 내주까지 이어질 것으로 전망됐다.&lt;br&gt;&lt;br&gt;16일 기상청에 따르면, 북쪽에서 찬 바람이 내려오며 일요일인 18일 서울의 최저기온이 섭씨 12도까지 떨어지는 등 전국이 최저 8~16도, 최고 18~24도의 기온 분포를 보이겠다. 17일 최저 14~18도, 최고 21~28도에서 하루 만에 기온이 5도 가량 급강하하며 3월 수준으로 쌀쌀하겠다. 17일 오후 5㎜ 내외의 비가 예고된 경기북부와 강원도는 다른 지역보다 기온이 소폭 더 내려갈 것으로 예상됐다.&lt;br&gt;&lt;br&gt;올봄 우리나라는 이례적으로 ‘추운 5월’을 보내고 있다. 올 5월 1~15일 서울의 일평균기온은 15.4도로 평년 (1991~2020·30년 평균)값인 17도보다 1.6도 낮았다. 같은 기간 서울의 일평균 최저·최고기온은 각각 11.1도, 20.1도로 평년(12.3도·22.4도) 보다 1.2도, 2.3도 낮았다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6PH42CC7B5KI3OWWPHY4YDB52Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;봄비가 내리는 16일 인천 남동구 인천대공원 어울정원 청보리밭에서 시민들이 산책하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;기온을 떨군 원인으로는 잦은 봄비가 꼽힌다. 이달 들어 보름동안 서울에는 비가 8차례 내렸다. 기온 상승은 탑을 쌓는 것과 같아서 우리나라가 고기압 영향권에 오래 머물고 열기가 누적될수록 더워진다. 그런데 올봄은 비구름대가 자주 들어오며 햇볕에 땅이 달궈지는 시간이 짧은 편이다. 열기가 쌓일 여유 없이 비가 내리면서 기온을 오히려 끌어내리고 있다.&lt;br&gt;&lt;br&gt;북풍의 영향으로 내주 월요일인 19일에도 추운 출근길이 예상됐다. 19일 기온은 최저 7~15도, 최고 19~26도의 분포를 보이겠다. 이날 수도권과 강원도는 북쪽을 통과하는 기압골의 영향을 받으면서 비가 또 내릴 수 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>한변 “민주당, 확정적 범죄자가 법관 상대 적반하장…반헌법적 폭주”</title>
@@ -941,15 +967,6 @@
       <description/>
       <pubDate>Fri, 16 May 2025 03:01:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FXKTSP5WYRLPXEX7NWZ7JPMBNA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서올 서초구 대법원 청사 /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;온라인 게임 조작 프로그램을 판매해 번 돈은 게임 회사의 업무를 방해한 범죄 수익으로 보고 추징해야 한다는 대법원 판단이 나왔다.&lt;br&gt;&lt;br&gt;16일 법조계에 따르면 대법원 3부(주심 오석준 대법관)는 지난달 업무 방해 등 혐의로 기소된 A(34)씨에게 징역 2년에 집행유예 3년을 선고하며 추징금은 명하지 않은 원심을 파기하고, ‘추징을 명령해야 한다’는 취지로 사건을 서울중앙지법으로 돌려보냈다. &lt;br&gt;&lt;br&gt;A씨는 2019년 3월부터 2020년 8월까지 게임 이용자들에게 ‘핵(해킹) 프로그램’을 판매한 혐의로 재판에 넘겨졌다. 판매 대금은 1억 4400만원에 달했다. 게임할 때 실행하면 직접 조작하지 않아도 자동으로 상대방을 조준해주고, 주변에 총을 쏴도 제대로 타격이 되는 반칙 프로그램이었다. 검찰은 게임 회사가 이 때문에 다른 게임 이용자들의 민원을 받고, 패치·보안 프로그램 비용을 지출하게 됐다며 A씨가 게임 회사의 업무를 방해했다는 혐의를 적용해 재판에 넘겼다.&lt;br&gt;&lt;br&gt;재판의 쟁점은 핵프로그램을 판매해 얻은 수익이 구 범죄수익은닉규제법상 추징할 수 있는 범죄 수익인지 여부였다.&lt;br&gt;&lt;br&gt;1·2심에서는 판단이 갈렸다. 1심은 A씨에게 징역 2년에 집행유예 3개월과 1억 4400만원 추징을 선고했다. &lt;br&gt;&lt;br&gt;2심은 징역형 집행유예 양형은 동일하게 유지했지만 추징은 명하지 않았다. A씨가 프로그램을 판매한 것이 아니라 이를 구입한 이용자들이 실제 게임에 사용하면서 ‘업무방해’가 일어난 것이므로 판매 대금 자체는 ‘업무 방해로 얻은 수익’이 아니라고 판단했기 때문이다. 2심 재판부는 “핵 프로그램을 판매·배포해서 얻은 수익은 ‘게임에 접속해 프로그램을 사용함으로써 업무방해를 한 행위’로 생긴 재산이라고 할 수 없다”며 “추징 요건에 해당하지 않는다”고 했다.&lt;br&gt;&lt;br&gt;그러나 대법원은 추징을 할 수 있다고 판단했다. 대법원은 “범죄행위로 새로 만들어진 재산뿐 아니라, 범죄행위에 의해 취득한 재산도 구 범죄수익은닉규제법에 따른 추징 대상에 포함된다”는 대법원 판례를 인용했다. 그러면서 “프로그램을 판매한 A씨와 이를 구입해 이용한 이용자가 업무방해죄의 공동정범이 된다면, 피고인이 얻은 판매 대금도 범죄 행위에 의해 얻은 재산으로서 추징 대상으로 봐야 한다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[속보] 대법 “지귀연 부장판사 ‘룸살롱 의혹’ 사실 관계 확인 중”</title>
-      <link>https://www.chosun.com/national/court_law/2025/05/16/6VZ2YXTTRNAYNITO6GDVL4QAZM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/05/16/6VZ2YXTTRNAYNITO6GDVL4QAZM/</guid>
-      <dc:creator>박혜연 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 16 May 2025 02:49:31 +0000</pubDate>
-      <content:encoded>대법원이 지귀연 서울중앙지법 부장판사의 ‘룸살롱 접대 의혹’에 대해 사실관계를 확인 중이라고 16일 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4TGWATZVZDCRWIPRO2FWYQDZUI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지귀연 부장판사가 지난달 21일 오전 서울 서초구 서울중앙지법 417호 법정에서 열린 윤석열 전 대통령의 내란 우두머리 혐의 재판을 하기 전 언론 공개에 대한 발언을 하고 있다./뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대법원 윤리감사관실은 이날 “지귀연 부장판사에 대한 의혹이 제기된 이후 국회 자료, 언론 보도 등을 토대로 가능한 방법을 모두 검토해 사실관계를 확인하고 있다”며 “향후 구체적인 비위 사실이 확인될 경우 관련 법령에 따라 절차를 진행할 예정”이라고 입장을 밝혔다.&lt;br&gt;&lt;br&gt;앞서 김용민 더불어민주당 의원은 지난 14일 국회 법제사법위원회 전체회의에서 “지 부장판사가 1인당 100만~200만원 비용이 나오는 룸살롱에서 여러 차례 술을 마셨고 단 한 번도 돈을 낸 적이 없다는 아주 구체적인 제보를 받았다”고 주장했다.&lt;br&gt;&lt;br&gt;이에 대해 서울중앙지법은 “해당 의혹 제기의 내용은 추상적일 뿐만 아니라 구체적인 자료가 제시된 바 없고, 그로 인해 의혹의 진위 여부가 확인되지 않았다”며 “서울중앙지법이 이와 관련해 입장을 밝힐 만한 내용은 없다”고 밝힌 바 있다.&lt;br&gt;&lt;br&gt;지 부장판사는 윤 전 대통령을 포함해 내란 혐의를 받는 군·경 관계자들의 재판을 맡고 있다. 민주당은 지 부장이 윤 전 대통령의 ‘구속 취소’를 결정한 뒤로 ‘내란 공범’이라며 공격해왔다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>‘해병대원 순직 사건’ 박정훈 대령 2심, 尹 증인채택 보류</title>
