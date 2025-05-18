@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>대법 “공정위, 해운사 운임 담합 행위 제재할 수 있다” 첫 판시</title>
+      <link>https://www.chosun.com/national/court_law/2025/05/18/UIPNQA2NQBCKNDMJHIAPJUX4DU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/05/18/UIPNQA2NQBCKNDMJHIAPJUX4DU/</guid>
+      <dc:creator>방극렬 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 18 May 2025 03:39:55 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BKAT66S56JBCVN7RGEHPFNX74A.png"&gt;&lt;figcaption&gt;&lt;small&gt;부산항 전경. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;공정거래위원회가 한국~동남아 항로 운임을 담합한 국내외 해운사를 상대로 과징금을 부과한 것은 적법하다는 대법원 첫 판단이 나왔다. 해운사의 운임 관련 공동 행위는 해양수산부 관할이라 공정위가 개입할 수 없다고 본 원심 판결을 뒤집은 것이다.&lt;br&gt;&lt;br&gt;18일 법조계에 따르면, 대법원 3부(주심 엄상필 대법관)는 대만 해운사인 에버그린이 공정위를 상대로 제기한 시정명령 등 취소 소송에서 지난달 24일 원심의 원고 승소 판결을 깨고 사건을 서울고법으로 돌려보냈다.&lt;br&gt;&lt;br&gt;이 소송은 2022년 공정위가 에버그린, 고려해운, HMM 등 국내외 23개 해운사에 시정명령을 내리고 과징금 962억원을 부과한 것이 발단이다. 공정위에 따르면 이들은 2003년부터 약 15년간 한~동남아 수출입 항로에서 120차례 운임을 담합한 것으로 조사됐다. 이에 에버그린이 불복해 소송을 냈고 국내외 해운사 10곳도 소송에 참가했다.&lt;br&gt;&lt;br&gt;해운사들은 “해운법에 따른 정당한 공동 행위”라며 공정위의 제재 대상이 아니라고 주장했다. 해운법 29조는 외항 정기 화물 운송 사업자들의 운임 조건 관련 공동 행위를 허용하고 있다. 공정위 제재 당시 해수부도 “해운 공동 행위는 고객인 화주들에게 이익이 된다. 특수성이 있다”며 반대했다.&lt;br&gt;&lt;br&gt;또 해운법은 업체들이 부당하게 운임을 인상하는 등 경쟁을 실질적으로 제한하는 경우 해수부 장관이 필요한 조치를 하고 이를 공정위에 통보하도록 규정하는데, 해운사들은 이를 근거로 규제 권한은 해수부에 있고, 공정위는 관여할 수 없다고 했다.&lt;br&gt;&lt;br&gt;서울고법은 “공정위가 해운사를 규제할 수 없다”며 원고 승소 판결을 내렸지만, 대법원은 이를 뒤집었다. 대법원은 “입법 취지와 개정 경과 등을 고려했을 때, 공정거래법은 국민경제 전반에 걸쳐 헌법상 요구되는 사회적 시장경제 질서를 구현하기 위한 법률”이라며 “다른 법률에 특별한 정함이 없는 이상 모든 산업 분야에 적용돼야 한다”고 했다.&lt;br&gt;&lt;br&gt;이어 “해운법에는 공동 행위에 대해 공정거래법 적용을 제외한다는 명시적 규정을 두고 있지 않다”며 “공정위에 (운임 담합 등) 공동 행위를 규제할 권한이 없다고 판단한 원심 판결은 위법”이라고 판단했다. 허용 범위를 넘어서거나 부당한 공동 행위에 대해서는 공정위가 규제할 수 있다는 취지다.&lt;br&gt;&lt;br&gt;이번 대법원 판결은 현재 서울고법에서 진행 중인 해운사-공정위 간 여러 재판에도 영향을 끼칠 전망이다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>부하직원 개인 계좌 보고 “거지냐” 폭언하고 위협 운전… 법원 “징계면직 처분 적법”</title>
       <link>https://www.chosun.com/national/court_law/2025/05/18/6QS7UMF6UJGAXGJS4TLY5KX6NI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/05/18/6QS7UMF6UJGAXGJS4TLY5KX6NI/</guid>
@@ -914,15 +923,6 @@
       <description/>
       <pubDate>Fri, 16 May 2025 06:05:11 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LVEFAHQL7RKV5IIGRWBRWQFBPE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대관령의 아침 최저기온이 영하 2도 가까이 떨어진 지난 7일 강원 강릉시 대관령 도로변 풀숲에 서리가 내려앉았다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이번 주말 찬 북풍(北風)이 내려오며 일요일인 18일 기온이 큰 폭으로 떨어질 것으로 예보됐다. 여름으로 가는 ‘계절의 문턱’인 5월이 중순에 접어들었지만 오히려 쌀쌀한 날씨가 이어지고 있다. ‘추운 봄’은 내주까지 이어질 것으로 전망됐다.&lt;br&gt;&lt;br&gt;16일 기상청에 따르면, 북쪽에서 찬 바람이 내려오며 일요일인 18일 서울의 최저기온이 섭씨 12도까지 떨어지는 등 전국이 최저 8~16도, 최고 18~24도의 기온 분포를 보이겠다. 17일 최저 14~18도, 최고 21~28도에서 하루 만에 기온이 5도 가량 급강하하며 3월 수준으로 쌀쌀하겠다. 17일 오후 5㎜ 내외의 비가 예고된 경기북부와 강원도는 다른 지역보다 기온이 소폭 더 내려갈 것으로 예상됐다.&lt;br&gt;&lt;br&gt;올봄 우리나라는 이례적으로 ‘추운 5월’을 보내고 있다. 올 5월 1~15일 서울의 일평균기온은 15.4도로 평년 (1991~2020·30년 평균)값인 17도보다 1.6도 낮았다. 같은 기간 서울의 일평균 최저·최고기온은 각각 11.1도, 20.1도로 평년(12.3도·22.4도) 보다 1.2도, 2.3도 낮았다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6PH42CC7B5KI3OWWPHY4YDB52Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;봄비가 내리는 16일 인천 남동구 인천대공원 어울정원 청보리밭에서 시민들이 산책하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;기온을 떨군 원인으로는 잦은 봄비가 꼽힌다. 이달 들어 보름동안 서울에는 비가 8차례 내렸다. 기온 상승은 탑을 쌓는 것과 같아서 우리나라가 고기압 영향권에 오래 머물고 열기가 누적될수록 더워진다. 그런데 올봄은 비구름대가 자주 들어오며 햇볕에 땅이 달궈지는 시간이 짧은 편이다. 열기가 쌓일 여유 없이 비가 내리면서 기온을 오히려 끌어내리고 있다.&lt;br&gt;&lt;br&gt;북풍의 영향으로 내주 월요일인 19일에도 추운 출근길이 예상됐다. 19일 기온은 최저 7~15도, 최고 19~26도의 분포를 보이겠다. 이날 수도권과 강원도는 북쪽을 통과하는 기압골의 영향을 받으면서 비가 또 내릴 수 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>아이유 또 좋은 일…이번엔 생일 기념 2억원 기부</title>
-      <link>https://www.chosun.com/national/national_general/2025/05/16/EUSOR3JF6BHQRKDJ5PTJP7BFBM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/05/16/EUSOR3JF6BHQRKDJ5PTJP7BFBM/</guid>
-      <dc:creator>김자아 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 16 May 2025 05:43:48 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YPYKNZ4X7FD3DHLC4YYRLMTL3M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;가수 겸 배우 아이유./이담엔터테인먼트&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;가수 겸 배우 아이유(32·본명 이지은)가 생일을 맞아 2억원을 기부했다.&lt;br&gt;&lt;br&gt;16일 소속사 EDAM엔터테인먼트는 “아이유가 생일을 맞아 ‘아이유애나’(아이유와 팬덤명 유애나를 합친 이름) 명의로 4개 기관에 총 2억원을 기부했다”고 밝혔다.&lt;br&gt;&lt;br&gt;아이유 공식 소셜미디어(SNS) 계정도 “사랑의 기쁨으로 물드는 5월이 되길”이라며 이 같은 내용이 담긴 기부증서를 공개했다.&lt;br&gt;&lt;br&gt;아이유의 기부금은 희망조약돌, 아동권리보장원, 해피기버, 따뜻한동행 4개 기관에 각 5000만원씩 전달됐다.&lt;br&gt;&lt;br&gt;이번 기부금은 빈곤 가정과 독거노인 생계 지원, 자립 준비 청소년의 사회 정착 비용 마련, 한부모 가정의 생계·치료·교육비 지원, 장애인을 위한 공간 복지 및 첨단 보조 기기 지원 등에 쓰인다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/I6PSCIL5LFCLTFMNTDMC3BSZEA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;아이유가 16일 생일을 맞아 총 2억원을 기부했다./엑스(X·옛 트위터)&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;아이유는 데뷔 기념일, 생일, 연말연시 등 매해 뜻깊은 날마다 ‘아이유애나’ 이름으로 꾸준히 기부해왔다.&lt;br&gt;&lt;br&gt;현재까지 아이유의 누적 기부액은 약 70억원에 달하는 것으로 전해졌다.&lt;br&gt;&lt;br&gt;지난 3월에는 경상권 대형 산불 피해 지원과 소방관 처우 개선을 위해 2억원을, 이달 어린이날에는 아동·청소년을 위해 1억5000만원을 각각 쾌척하는 등 올해만 7억5000만원의 기부금을 전달했다.&lt;br&gt;&lt;br&gt;아이유는 오는 27일 8년 만의 리메이크 앨범 ‘꽃갈피 셋’ 발표를 앞두고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>한변 “민주당, 확정적 범죄자가 법관 상대 적반하장…반헌법적 폭주”</title>
