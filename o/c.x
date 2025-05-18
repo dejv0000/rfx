@@ -13,6 +13,39 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>이용기 대전시의원 차량서 숨진 채 발견</title>
+      <link>https://www.chosun.com/national/incident/2025/05/18/HSN5OLOYVJGSVBQSX2DHDRSAKA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/05/18/HSN5OLOYVJGSVBQSX2DHDRSAKA/</guid>
+      <dc:creator>정성원 기자</dc:creator>
+      <description>이용기 대전시의원(국민의힘)이 차량에서 숨진 채 발견됐다.
+18일 경찰 등에 따르면 이날 오후 4시 26분쯤 대전 대덕구 한 등산로 인근에 주차돼 있던 차량에서 이 의원이 숨진 채 발견됐다.</description>
+      <pubDate>Sun, 18 May 2025 13:32:53 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/L4GEXC5HOZAC5NA5TDDI7RQ23U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이용기 대전시의원(국민의힘)이 차량에서 숨진 채 발견됐다.&lt;br&gt;&lt;br&gt;18일 경찰 등에 따르면 이날 오후 4시 26분쯤 대전 대덕구 한 등산로 인근에 주차돼 있던 차량에서 이 의원이 숨진 채 발견됐다. 경찰은 이 의원 가족의 신고를 접수받고 출동해 숨진 이 의원을 발견한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;앞서 이 의원은 가족들에게 신변을 비관하는 메시지를 보냈던 것으로 전해졌다. 현장에서 유서 등은 발견되지 않았다.&lt;br&gt;&lt;br&gt;경찰은 자세한 사망 경위 등을 조사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>전북 익산서 모녀 숨진 채 발견… 경찰 “수사 중”</title>
+      <link>https://www.chosun.com/national/incident/2025/05/18/QHOXJP5GAND5HHVLNYWDWZMIBA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/05/18/QHOXJP5GAND5HHVLNYWDWZMIBA/</guid>
+      <dc:creator>정성원 기자</dc:creator>
+      <description>전북 익산에서 모녀가 숨진 채 발견돼 경찰이 수사에 나섰다.
+18일 전북 익산경찰서에 따르면 이날 오전 6시쯤 전북 익산시 모현동 한 아파트에서 60대 A씨가 숨진 채 발견됐다. A씨는 이 아파트에서 추락해 숨진 것으로 알려졌다.
+</description>
+      <pubDate>Sun, 18 May 2025 12:05:47 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5GT7HGZDJZC2PGHRM34R3HXIUY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /조선일보 DB.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전북 익산에서 모녀가 숨진 채 발견돼 경찰이 수사에 나섰다.&lt;br&gt;&lt;br&gt;18일 전북 익산경찰서에 따르면 이날 오전 6시쯤 전북 익산시 모현동 한 아파트에서 60대 A씨가 숨진 채 발견됐다. A씨는 이 아파트에서 추락해 숨진 것으로 알려졌다.&lt;br&gt;&lt;br&gt;숨진 A씨의 목에선 열쇠와 쪽지가 담긴 비닐봉지가 발견됐으며, 비닐봉지엔 20대 딸이 지난달 집에서 사망했다는 쪽지가 적혀 있었다.&lt;br&gt;&lt;br&gt;경찰은 쪽지를 근거로 수색을 진행, 아파트 인근 A씨의 자택에서 숨진 20대 딸을 발견했다.&lt;br&gt;&lt;br&gt;경찰은 A씨 모녀가 생활고를 비관해 극단적인 선택을 한 것으로 보고 정확한 경위를 조사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>광주 광산구, 내일부터 금호타이어 화재 주민 피해 조사</title>
+      <link>https://www.chosun.com/national/regional/2025/05/18/W6JKPJC7ZBGIJACMERK6ZKKLIM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/05/18/W6JKPJC7ZBGIJACMERK6ZKKLIM/</guid>
+      <dc:creator>정성원 기자</dc:creator>
+      <description>금호타이어 광주공장 화재가 31시간 만에 진화된 가운데 광주 광산구가 내일부터 주민 피해 현황 조사를 벌인다.
+광주 광산구는 금호타이어와 함께 이번 화재에 따른 주민 피해 현황을 내일부터 공동 조사하기로 했다고 18일 밝혔다.
+</description>
+      <pubDate>Sun, 18 May 2025 11:10:33 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HZRYQQEWQNORDP7KF5ST2UNTLM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;금호타이어 광주공장 화재 발생 이틀째인 18일 광주 광산구 소촌동 일대 도심이 검은 연기로 뒤덮이고 있다. /연합뉴스
+&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;금호타이어 광주공장 화재가 31시간 만에 진화된 가운데 광주 광산구가 내일부터 주민 피해 현황 조사를 벌인다.&lt;br&gt;&lt;br&gt;광주 광산구는 금호타이어와 함께 이번 화재에 따른 주민 피해 현황을 내일부터 공동 조사하기로 했다고 18일 밝혔다.&lt;br&gt;&lt;br&gt;이에 따라 오는 28일까지 구청 송정보건지소에 피해 현황 파악을 위한 공동 접수처가 운영된다.&lt;br&gt;&lt;br&gt;또 광산구는 광주여대 체육관과 광산구 보건소 등 3곳에 화재 사고 의료 상담 창구도 운영키로 했다.&lt;br&gt;&lt;br&gt;이번 조사는 피해 주민들의 실태를 조사하고 피해 규모를 산출하기 위한 사전 절차다.&lt;br&gt;&lt;br&gt;한편 이번 불은 지난 17일 오전 7시 11분쯤 금호타이어 광주공장 내 서쪽 고무 정련 공장동에서 발생했다. 소방 당국은 화재 발생 31시간 40분 만인 이날 오후 2시 50분을 기점으로 초기 진화를 완료했다고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>원주 한 대학서 무더기 식중독 의심 증상…학생 30명 병원 이송</title>
       <link>https://www.chosun.com/national/regional/2025/05/18/RDZDQ4L53JECBGXI273NQ5VXKU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/05/18/RDZDQ4L53JECBGXI273NQ5VXKU/</guid>
@@ -890,37 +923,6 @@
       <media:content url="https://www.chosun.com/resizer/v2/4MTFRYWHBJA7XOKKF7G7JPLX5U.png?auth=4651b5b20b5d4901424204d1456faee02e4b064ff509db23945deabf4404c8ef&amp;smart=true&amp;width=800&amp;height=420" type="image/png" height="420" width="800"/>
     </item>
     <item>
-      <title>‘3500억대 태양광 사기’ 마이더스 前 대표 2심서도 징역 16년</title>
-      <link>https://www.chosun.com/national/court_law/2025/05/16/QDPYL4OAN5FMJGCNLYLE3U5PYM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/05/16/QDPYL4OAN5FMJGCNLYLE3U5PYM/</guid>
-      <dc:creator>김은경 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 16 May 2025 07:58:06 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RPIIH7OSF6UXDRDQEH3X4B5GG4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 서울법원종합청사./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;태양광 업체에 투자하면 매달 2% 수익을 보장하겠다고 속여 5000여명에게 약 3500억원을 가로챈 혐의로 재판에 넘겨진 금융 사기 일당이 항소심에서도 중형을 선고받았다.&lt;br&gt;&lt;br&gt;서울고법 형사7부(재판장 이재권)는 16일 특정경제범죄 가중처벌법상 사기 등 혐의로 기소된 마이더스 파트너스 전 대표 서모씨에게 1심과 동일하게 징역 16년과 984억원의 추징을 선고했다. 함께 재판에 넘겨진 재무이사 황모씨도 1심과 같은 징역 7년을 선고받았다. &lt;br&gt;&lt;br&gt;재판부는 “서씨가 피해자들을 기망해 돈을 편취한 점을 인정할 수 있다”며 “기록을 다시 살펴보고 깊은 토론을 했는데 원심의 유죄 판단이 정당하다고 인정된다”고 했다.&lt;br&gt;&lt;br&gt;서씨 등은 2018년 9월부터 2021년 6월까지 전국에 금융 컨설팅 업체 ‘마이더스 파트너스’ 법인 12개를 두고 투자금 명목으로 3500억원을 가로챈 혐의로 재판에 넘겨졌다. &lt;br&gt;&lt;br&gt;서씨는 전국 각지에서 투자 설명회를 열고 ‘태양광 기업 등에 투자하면 원금이 보장되고 매월 2~4% 이자가 지급된다’고 홍보하며 투자자를 끌어모으고, 새 회원들에게 받은 투자금으로 기존 회원들에게 이자를 지급하는 돌려막기 수법을 쓴 것으로 조사됐다. &lt;br&gt;&lt;br&gt;작년 11월 1심은 이들 혐의 대부분을 유죄로 판단했다. 1심 재판부는 당시 “전국적인 조직체계를 구축·활용하고 높은 이자율과 수수료 등으로 피해자들을 현혹시켜 ‘돌려막기’ 수법으로 불특정 다수를 기망했다”며 “롤스로이스 등 고가의 차량을 리스하고 사치품과 콘도 회원권 등을 다수 구입했으며 12억원어치 백화점상품권을 구입하는 등 범죄수익을 은닉한 정황도 발견된다”고 지적했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[오늘의 운세] 5월 17일 토요일 (음력 4월 20일 丙戌)</title>
-      <link>https://www.chosun.com/national/national_general/2025/05/16/6E7TJBDZ2RFYLPRVB3NIY6TJ74/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/05/16/6E7TJBDZ2RFYLPRVB3NIY6TJ74/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Fri, 16 May 2025 08:00:00 +0000</pubDate>
-      <content:encoded>&lt;p&gt;&lt;div class="chosun_unse"&gt;&lt;iframe src="https://image.chosun.com/arc/unse_iframe.html" frameborder="0" scrolling="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;style&gt;.chosun_unse{position:relative;width:100%;height:350px;box-sizing:border-box}.chosun_unse&gt;iframe{position:absolute;top:0;left:0;width:100%;height:100%;overflow-y:hidden}@media all and (max-width:1024px){.chosun_unse{height:350px}}@media all and (max-width:1023px){.chosun_unse{height:350px}}@media all and (max-width:528px){.chosun_unse{height:270px}}@media all and (max-width:384px){.chosun_unse{height:190px}}&lt;/style&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;p&gt;&lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani01.gif"&gt;  	&amp;nbsp;	36년생 큰 댐도 개미구멍으로 무너진다. 48년생 샘 깊은 물은 가뭄 안 타는 법. 60년생 나라 곳간 차야 백성도 잘 살지. 72년생 궂은비 종일 내리듯 마음 우중충. 84년생 절차 무시하면 결과 좋아도 공(功)이 반감. 96년생 잘한다고 한 게 괜한 오해 만든다.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt;  &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani02.gif"&gt;	&amp;nbsp;	37년생 칼날 쥔 사람이 자루 쥔 사람 못 당한다. 49년생 궤도 수정 고려는 아직 시기상조. 61년생 의리는 곤궁한 데서 빛난다. 73년생 남자는 비뇨기과, 여자는 부인과에 문진하라. 85년생 사업규모는 확장 학업 성적은 쑥쑥. 97년생 누구도 대신 못 하는 게 인생.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani03.gif"&gt;	&amp;nbsp;	38년생 빡빡한 세상인심 유연성 기르도록. 50년생 느긋하게 생각하면 평온 찾아온다. 62년생 대접받고 싶으면 먼저 대접하라. 74년생 윗사람 실수가 내겐 기회 될 수도. 86년생 어려운 상황일수록 기본으로 돌아가라. 98년생 두 사람이 뜻 모으니 어려움 해결.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani04.gif"&gt;	&amp;nbsp;	27년생 노상 교통 안전에 주의. 39년생 밤길에 비단옷 입고 걷는 격. 51년생 먼저는 근심스럽고 뒤에는 평안. 63년생 양손에 떡을 쥐었구나. 75년생 흰 떡에는 고물이 안 들어가나. 87년생 중요한 결정은 다음으로. 99년생 10초만 참으면 100일이 편하다.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani05.gif"&gt;	&amp;nbsp;	28년생 급하더라도 돌아가는 지혜가 필요. 40년생 결속을 다지는 계기로 삼도록. 52년생 문서 교환의 시기니 매매가 이롭다. 64년생 배우자의 문제로 걱정할 일. 76년생 손재(損財)가 오히려 전화위복. 88년생 서쪽은 재물 운이 왕성하다. 00년생 하루살이가 ‘내일’을 알까.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani06.gif"&gt;	&amp;nbsp;	29년생 지출이 많은 시기니 절약이 필수. 41년생 옥(玉)은 흙에 묻혀 있어도 옥. 53년생 밤길에 비단옷 입고 걷는 격. 65년생 경쟁자의 비난에 개의치 마라. 77년생 급히 먹는 밥 체하기 마련. 89년생 엇나간 의견도 참고할 필요가. 01년생 장맛 본 사람이 흠잡는다.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani07.gif"&gt;	&amp;nbsp;	30년생 말로 천 냥 빚 갚는다. 42년생 올라가지 않으면 떨어질 일도 없다. 54년생 제 꾀에 제가 당할 수도. 66년생 문서 거래는 주의가 필요. 78년생 아량과 포용을 발휘하라. 90년생 만사가 여의(如意)하구나. 02년생 적(敵)은 남이 아닌 바로 자기 자신.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani08.gif"&gt;	&amp;nbsp;	31년생 천 리 길도 한 걸음부터. 43년생 서쪽에 서기(瑞氣)가 감돈다. 55년생 앞자리 선두를 빼앗기지 마라. 67년생 긍정적인 생각을 갖도록. 79년생 산새가 둥지를 찾아 헤매는구나. 91년생 지나친 칭찬은 사기성이 농후. 03년생 평범한 하루가 행복한 하루.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani09.gif"&gt;	&amp;nbsp;	32년생 나그네가 길 잃는 격. 44년생 균형이 중요한 시기. 56년생 꺼진 불도 다시 살펴라. 68년생 유능한 농부에겐 못 쓸 땅이 없다. 80년생 아내 없는 처갓집 가나마나. 92년생 신규 사업을 고려하게 될 듯. 04년생 세상만사 마음먹기 나름.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani10.gif"&gt;	&amp;nbsp;	33년생 이리 떼 막자고 범 부를까. 45년생 숫자 2, 7과 붉은색이 행운 부른다. 57년생 밝은 달 구름 속 숨으니 한 치 앞도 어둡다. 69년생 꼭 나설 일 아니면 뒤로 물러나는 게 상책. 81년생 자식 길러봐야 부모 은공 알지. 93년생 이해득실 따라 뒤바뀔 수도.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani11.gif"&gt;	&amp;nbsp;	34년생 손재수 있으니 사전 지출도 오히려 좋을 듯. 46년생 거미도 줄 쳐야 벌레 잡는다. 58년생 냉수 한 그릇이 공치사 열 마디보다 낫다. 70년생 도끼가 제 자루는 못 깎는 법. 82년생 한번 한 말은 끝까지 책임질 수 있어야. 94년생 유혹 많은 날이니 의리와 절개 필요.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani12.gif"&gt;	&amp;nbsp;	35년생 영화나 쇼핑에서 소소한 행복 찾아라. 47년생 인심은 권세가로 모이는 법. 59년생 혼자만 사는 세상 아님을 명심. 71년생 주저하거나 망설이지 말고 적극 밀어붙여야. 83년생 부지런한 범재가 게으른 천재보다 낫다. 95년생 누구나 보고 싶은 것만 보기 마련.	&lt;br&gt;
-&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;한소평 금오산방 강주  &lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;			&lt;/p&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/4MTFRYWHBJA7XOKKF7G7JPLX5U.png?auth=4651b5b20b5d4901424204d1456faee02e4b064ff509db23945deabf4404c8ef&amp;smart=true&amp;width=800&amp;height=420" type="image/png" height="420" width="800"/>
-    </item>
-    <item>
       <title>대법 “몰래 촬영한 성관계 영상, 지인 2명에게 보여준 것은 처벌 못해”</title>
       <link>https://www.chosun.com/national/court_law/2025/05/16/R4USPYBOU5F6PFYGBNJMLGKOWU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/05/16/R4USPYBOU5F6PFYGBNJMLGKOWU/</guid>
@@ -967,15 +969,6 @@
       <description/>
       <pubDate>Fri, 16 May 2025 03:01:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FXKTSP5WYRLPXEX7NWZ7JPMBNA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서올 서초구 대법원 청사 /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;온라인 게임 조작 프로그램을 판매해 번 돈은 게임 회사의 업무를 방해한 범죄 수익으로 보고 추징해야 한다는 대법원 판단이 나왔다.&lt;br&gt;&lt;br&gt;16일 법조계에 따르면 대법원 3부(주심 오석준 대법관)는 지난달 업무 방해 등 혐의로 기소된 A(34)씨에게 징역 2년에 집행유예 3년을 선고하며 추징금은 명하지 않은 원심을 파기하고, ‘추징을 명령해야 한다’는 취지로 사건을 서울중앙지법으로 돌려보냈다. &lt;br&gt;&lt;br&gt;A씨는 2019년 3월부터 2020년 8월까지 게임 이용자들에게 ‘핵(해킹) 프로그램’을 판매한 혐의로 재판에 넘겨졌다. 판매 대금은 1억 4400만원에 달했다. 게임할 때 실행하면 직접 조작하지 않아도 자동으로 상대방을 조준해주고, 주변에 총을 쏴도 제대로 타격이 되는 반칙 프로그램이었다. 검찰은 게임 회사가 이 때문에 다른 게임 이용자들의 민원을 받고, 패치·보안 프로그램 비용을 지출하게 됐다며 A씨가 게임 회사의 업무를 방해했다는 혐의를 적용해 재판에 넘겼다.&lt;br&gt;&lt;br&gt;재판의 쟁점은 핵프로그램을 판매해 얻은 수익이 구 범죄수익은닉규제법상 추징할 수 있는 범죄 수익인지 여부였다.&lt;br&gt;&lt;br&gt;1·2심에서는 판단이 갈렸다. 1심은 A씨에게 징역 2년에 집행유예 3개월과 1억 4400만원 추징을 선고했다. &lt;br&gt;&lt;br&gt;2심은 징역형 집행유예 양형은 동일하게 유지했지만 추징은 명하지 않았다. A씨가 프로그램을 판매한 것이 아니라 이를 구입한 이용자들이 실제 게임에 사용하면서 ‘업무방해’가 일어난 것이므로 판매 대금 자체는 ‘업무 방해로 얻은 수익’이 아니라고 판단했기 때문이다. 2심 재판부는 “핵 프로그램을 판매·배포해서 얻은 수익은 ‘게임에 접속해 프로그램을 사용함으로써 업무방해를 한 행위’로 생긴 재산이라고 할 수 없다”며 “추징 요건에 해당하지 않는다”고 했다.&lt;br&gt;&lt;br&gt;그러나 대법원은 추징을 할 수 있다고 판단했다. 대법원은 “범죄행위로 새로 만들어진 재산뿐 아니라, 범죄행위에 의해 취득한 재산도 구 범죄수익은닉규제법에 따른 추징 대상에 포함된다”는 대법원 판례를 인용했다. 그러면서 “프로그램을 판매한 A씨와 이를 구입해 이용한 이용자가 업무방해죄의 공동정범이 된다면, 피고인이 얻은 판매 대금도 범죄 행위에 의해 얻은 재산으로서 추징 대상으로 봐야 한다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘해병대원 순직 사건’ 박정훈 대령 2심, 尹 증인채택 보류</title>
-      <link>https://www.chosun.com/national/court_law/2025/05/16/GE3ZOGYBGVFYRLRHJXUUMUBWIQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/05/16/GE3ZOGYBGVFYRLRHJXUUMUBWIQ/</guid>
-      <dc:creator>김은경 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 16 May 2025 02:52:01 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Q7KDEV3OMJMSXDJXYD3RTNJBMM.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;해병대원 순직 사건과 관련해 항명 및 상관명예훼손 혐의로 기소된 박정훈 전 해병대 수사단장(대령)이 16일 서울 서초구 서울고등법원에서 열린 항소심 2차 공판준비기일에 출석하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘해병대원 순직 사건’과 관련해 군 수사 기록의 경찰 이첩을 보류하라는 상관 명령을 거부한 혐의로 재판에 넘겨진 박정훈 전 해병대 수사단장(대령)의 항소심 재판에서 윤석열 전 대통령의 증인 채택이 보류됐다.&lt;br&gt;&lt;br&gt;서울고법 형사4부(재판장 지영난)는 16일 항명과 상관명예훼손 혐의를 받는 박 대령의 항소심 2차 준비기일을 열고 “윤 전 대통령 증인 신청을 보류하겠다”고 밝혔다. 앞서 박 대령 측은 “이 사건의 출발은 2023년 7월 (윤 전 대통령의) 격노가 있었는지”라며 윤 전 대통령을 증인으로 신청한 바 있다.&lt;br&gt;&lt;br&gt;재판부는 “(이첩 보류)명령의 배경을 확인할 필요성이 없지는 않다”면서도 “우선 국방장관이나 해병대사령관의 이첩 보류 명령이 있었는지부터 가려야 하고, 명령이 있었다면 그 내용이 적법하고 정당한가 여부를 판단하는 것이 선행돼야 한다”고 설명했다.&lt;br&gt;&lt;br&gt;이어 “수사 외압과 관련한 부분은 공수처에서 본격적으로 수사가 진행중이라서 이 부분은 다른 증거를 조사해 심리하고, (윤 전 대통령 증인 조사) 필요성을 추후 판단하겠다”고 했다.&lt;br&gt;&lt;br&gt;박 대령 측은 노상원 전 국군정보사령관의 수첩도 신청했지만 기각했다. 재판부는 “노상원 수첩 기재 자체가 대통령의 격노 여부 판단과 관련이 있다고 보기 어려울 것 같다”고 했다.&lt;br&gt;&lt;br&gt;재판부는 내달 13일 첫 재판을 열고 공소장 변경 허가 여부를 정리한 뒤 본격적인 심리에 들어가기로 했다. 이어 두 차례 재판을 추가로 열어 김계환 전 해병대사령관, 이호종 전 해병대 참모총장, 이종섭 전 국방장관에 대한 증인 신문을 차례로 진행할 예정이다.&lt;br&gt;&lt;br&gt;박 대령은 2017년 경북 예천 집중호우로 인한 실종자 수색 과정에서 발생한 채모 해병대원 순직 사건 수사 기록을 민간 경찰로 이첩하는 것을 보류하라는 김계환 전 해병대 사령관의 명령에 따르지 않고 경북경찰청에 사건을 넘긴 혐의로 국방부 검찰단에 기소됐다. &lt;br&gt;&lt;br&gt;박 대령은 이후 군검찰 수사가 시작되자 방송에 나와 윤 전 대통령과 이 전 장관 등의 ‘수사 외압 의혹’을 제기하며 명예를 훼손한 혐의도 받고 있다. 지난 1월 군사법원 1심에서 무죄를 선고받았다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[단독] 손흥민 ‘임신 협박’ 여성과 교제…돌연 협박에 손흥민 “강력 대응하자”</title>
