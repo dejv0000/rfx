@@ -13,6 +13,46 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>시흥 흉기 살인사건 용의자 50대 중국 국적 차철남 공개수배</title>
+      <link>https://www.chosun.com/national/national_general/2025/05/19/K2AI3OXXSJFUXPDL3HHERJACP4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/05/19/K2AI3OXXSJFUXPDL3HHERJACP4/</guid>
+      <dc:creator>진창일 기자, 시흥=김현수 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 19 May 2025 10:03:33 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OR7L5LGZBNK6ZGALS43BNXNDMU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;중국인 용의자 56세 차철남. /경기남부경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 시흥시에서 벌어진 흉기 살인 사건을 수사 중인 경찰이 용의자 중국동포 차철남(57)을 공개수배했다.&lt;br&gt;&lt;br&gt;경기남부경찰청은 19일 흉기 난동을 벌여 2명을 살해하고 2명에게 부상을 입힌 뒤 도주한 혐의를 받는 차철남씨에 대해 공개수사로 전환했다.&lt;br&gt;&lt;br&gt;경찰에 따르면 차씨는 이날 경기 시흥시 정왕동 자택 인근에서 70대 건물주 A씨와 60대 여성 편의점 점주 B씨 등을 흉기로 찌른 뒤 달아났다.&lt;br&gt;&lt;br&gt;또 자신의 자택 등에서 또 다른 피해자 2명을 살해한 혐의도 받고 있다. A씨와 B씨는 병원으로 옮겨져 치료를 받고 있다.&lt;br&gt;&lt;br&gt;중국 국적인 차씨는 1968년 11월 14일생으로 키 170㎝가량에 보통 체격이다. 도주 당시 상의는 검은색 점퍼를 입고 있었고, 흰색 계통 운동화를 신었던 것으로 파악됐다.&lt;br&gt;&lt;br&gt;경찰은 “차씨가 자전거를 타고 달아났고, 검은색 장갑을 끼고 흰색 마스크를 쓴 상태였다”고 전했다. 경찰은 결정적 제보를 한 사람에게 신고 보상금을 지급할 계획이다. 제보자의 신원도 비밀에 부쳐진다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/OR7L5LGZBNK6ZGALS43BNXNDMU.jpg?auth=a96bbac70beece1805d39d8c56a25e643015e6dd751bcc7ff78982d2087528de&amp;smart=true&amp;width=1049&amp;height=1453" type="image/jpeg" height="1453" width="1049">
+        <media:description type="plain">중국인 용의자 56세 차철남. /경기남부경찰청</media:description>
+        <media:credit role="author" scheme="urn:ebu">강영훈</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>보이스피싱 환전책 활동 前 프로야구 선수 …7년 구형</title>
+      <link>https://www.chosun.com/national/court_law/2025/05/19/OOSYJH3Y6JCQXENM4MFEFOCGBU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/05/19/OOSYJH3Y6JCQXENM4MFEFOCGBU/</guid>
+      <dc:creator>인천=이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 19 May 2025 09:32:10 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EPH3NTWDKVGAD2BHH6HLY3XFMA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원 로고./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전화금융사기(보이스피싱) 범죄에 가담한 혐의로 기소된 20대 전직 프로야구 선수에게 중형이 구형됐다. &lt;br&gt;&lt;br&gt;검찰은 19일 인천지법 형사 12부(재판장 최영각) 심리로 열린 결심공판에서 전기통신금융사기 피해 방지 및 피해금 환급에 관한 특별법 위반과 사기 등 혐의로 구속기소 된 A(26)씨에 대해 징역 7년을 구형했다. &lt;br&gt;&lt;br&gt;검찰은 “피고인은 수익금을 받기로 하고, 심부름을 했을 뿐 범행을 몰랐다는 취지로 주장하고 있으나, 환전에 이용된 계좌가 보이스피싱 범죄로 인해 정지됐다는 걸 알았음에도 계속 범행했다”며 “다른 공범들을 모집하고 공범들에게 지시하는 등 가담 정도가 중한 점, 피해 액수가 큰 점 등을 고려했다”고 구형 이유를 설명했다. &lt;br&gt;&lt;br&gt;A씨는 지난해 6월 1억9000만원대 보이스피싱 범죄에 가담해 환전책 역할로 활동하면서 공범들에게 범행을 지시한 혐의 등으로 기소됐다. &lt;br&gt;&lt;br&gt;A씨는 최후 진술에서 “보이스피싱이라는 큰 범죄에 연루됐다는 얘기를 듣고 큰 충격을 받았고, 수감 생활을 하며 다른 사람들에게 피해를 줬다는 생각에 반성하게 됐다”며 “(앞으로) 모범적인 사회 구성원이 되겠다. 선처해달라”고 했다. &lt;br&gt;&lt;br&gt;A씨는 2018년 모 프로야구 구단에 입단해 2군 등에서 활동했고, 2020년 구단이 육성 선수 말소를 요청하면서 방출된 것으로 알려졌다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>내란 재판 중 눈 감은 尹... 재판장 “피고인 주무시느냐”</title>
+      <link>https://www.chosun.com/national/court_law/2025/05/19/BQATUO6RUBCHJHVXIASUJF52VM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/05/19/BQATUO6RUBCHJHVXIASUJF52VM/</guid>
+      <dc:creator>김은경 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 19 May 2025 09:16:25 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OO2UH72547KELVQNBWRZVLYWSA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;피고인석에 앉은 윤석열 전 대통령. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;19일 윤석열 전 대통령의 내란 혐의 재판 도중 재판장인 지귀연 부장판사가 윤 전 대통령을 향해 “주무시느냐”고 확인하는 일이 벌어졌다. &lt;br&gt;&lt;br&gt;박정환 육군 특전사령부 참모장(준장)에 대한 검찰의 증인 신문이 끝난 뒤 휴정했다가 재개된 오후 재판에서다.&lt;br&gt;&lt;br&gt;오후 3시 45분쯤 이 재판과 병합 심리하기로 한 윤 전 대통령의 직권남용 혐의와 관련한 검찰의 모두진술이 시작되기 전 지 부장판사는 윤 전 대통령이 눈을 감고 있자 “피고인, 혹시 주무시는 건 아니죠”라고 물었다. &lt;br&gt;&lt;br&gt;윤 전 대통령은 답변 대신 고개를 끄덕였다. 지 부장판사는 “피고인은 묻는 말에 하고싶은 말 있으면 언제든 할 수 있다”며 “주민번호, 직업, 등록기준지는 예전이랑 달라진 것 없느냐”며 인정신문 사항을 확인했다. 윤 전 대통령은 이날 재판이 진행되는 동안 별도 발언을 하지 않고 대부분 눈을 감고 자리를 지켰다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>대전시·하나은행, ‘꿈씨패밀리 하나통장’ 출시 </title>
+      <link>https://www.chosun.com/national/regional/chungcheong/2025/05/19/LZLB6NZXCNFL3D7EIFYH3PO5MM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2025/05/19/LZLB6NZXCNFL3D7EIFYH3PO5MM/</guid>
+      <dc:creator>우정식 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 19 May 2025 08:44:20 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/E6GOPS3KGZFLRL7XXFJ4EJRBUQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대전시는 19일 대전시청에서 이장우 대전시장과 이동열 하나은행 충청영업그룹 부행장이 참석한 가운데 '꿈씨패밀리 하나통장' 출시 업무협약을 맺었다. /대전시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대전시는 하나은행과 협력해 지역 영유아를 위한 ‘꿈씨패밀리 하나통장’ 세트를 6월 중 출시한다고 19일 밝혔다.&lt;br&gt;&lt;br&gt;이 통장은 입출금 및 적금 통장으로 구성된다. 대전 지역 대표 캐릭터인 꿈돌이와 그 가족을 통장 디자인에 반영했다.&lt;br&gt;&lt;br&gt;입출금 통장은 최대 연 2.5%, 적금 통장은 최대 연 8%의 금리를 제공할 예정이다. 꿈씨 적금 가입자가 자녀 명의로 주택청약종합저축에 신규 가입할 경우 하나머니 2만원도 추가로 지급한다.&lt;br&gt;&lt;br&gt;시는 이날 대전시청에서 이장우 대전시장과 이동열 하나은행 충청영업그룹 대표(부행장) 등이 참석한 가운데 ‘꿈씨패밀리 하나통장’ 출시 업무 협약을 맺었다. 이번 협약은 대전시의 대표 캐릭터인 ‘꿈씨 패밀리’를 금융 상품에 접목해 지역 아이들에게 꿈과 희망의 메시지를 전하고, 캐릭터의 활용 범위를 넓히기 위해 추진됐다.&lt;br&gt;&lt;br&gt;대전시 관계자는 “대전엑스포의 추억과 아이들의 미래를 잇는 의미가 있는 금융 상품”이라며 “꿈씨 캐릭터의 확산을 통해 대전의 정체성과 브랜드 가치를 동시에 높여나가겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>윤진수 서울대 명예교수, “10·26 이후에도  대법 판결 후 사법독립 위협”</title>
       <link>https://www.chosun.com/national/court_law/2025/05/19/QCXFFDLOSJBFJCCP2WRDIQ5PMI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/05/19/QCXFFDLOSJBFJCCP2WRDIQ5PMI/</guid>
@@ -531,15 +571,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/S76SUCXSBBD7XHYIM6UTV4GF6I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[스피킹이 강해지는 영어] too ~ for my liking</title>
-      <link>https://www.chosun.com/national/nie/english/2025/05/19/HZJEVAGKRBG5LCERHAFSSZHPDQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/english/2025/05/19/HZJEVAGKRBG5LCERHAFSSZHPDQ/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Sun, 18 May 2025 20:03:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3W4QLB7ORFC27K2YDU3RZKUUVY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[오늘의 날씨] 2025년 5월 19일</title>
       <link>https://www.chosun.com/national/national_general/2025/05/19/D4UTRVCJSVCHNBZVGKLRKBGCEM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/05/19/D4UTRVCJSVCHNBZVGKLRKBGCEM/</guid>
@@ -547,33 +578,6 @@
       <description/>
       <pubDate>Sun, 18 May 2025 20:02:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/V7NSN277WFC73CN3LWCWDYNTXQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문은 선생님] [식물 이야기] 전국에 가장 많이 심는 조경수인데 정체는 불분명?</title>
-      <link>https://www.chosun.com/national/nie/2025/05/19/PGOW5L7E5VBOJHLOMTJALESV4M/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2025/05/19/PGOW5L7E5VBOJHLOMTJALESV4M/</guid>
-      <dc:creator>김민철 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 18 May 2025 20:02:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EK2J4XP3QFBNJMFEB4R2KLPEK4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;영산홍(왼쪽)과 철쭉(오른쪽). 철쭉은 영산홍보다 훨씬 연한 색이에요. /김민철 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;얼마 전 경기도 안성에서 영산홍 꽃을 따서 먹은 초등학생 4명이 복통과 구토 증세를 보여 병원에서 치료를 받았다는 뉴스가 있었습니다. 영산홍은 ‘그라야노톡신’이라는 독성 물질이 있어서 먹으면 구토·복통·호흡곤란 등을 일으킬 수 있다고 합니다. 화전(花煎)을 부쳐 먹는 등 먹을 수 있는 꽃으로 알려진 진달래와 착각한 것 같습니다.&lt;br&gt;&lt;br&gt;주변 공원이나 화단, 산에서 흔히 볼 수 있는, 진달래 비슷한 진달래속 식물은 진달래와 철쭉, 산철쭉, 영산홍이 있습니다. 이 중 진달래는 잎보다 꽃이 먼저 피어서, 철쭉은 꽃이 흰색에 가까운 ‘연한’ 분홍색이고 잎이 둥글어 구분에 별 어려움이 없습니다.&lt;br&gt;&lt;br&gt;문제는 산철쭉과 영산홍을 구분하는 것입니다. 산철쭉은 4~5월 산에서 주로 냇가를 따라 진한 분홍색 꽃이 피는 나무입니다. 산철쭉은 철쭉보다 색깔이 ‘진한’ 분홍색이고 잎 모양은 진달래와 비슷한 긴 타원형입니다. 그런데 산철쭉을 화단이나 공원에 심는 경우도 있습니다.&lt;br&gt;&lt;br&gt;4~5월 공원이나 화단에서는 산철쭉과 비슷하지만 꽃이 작고 색깔은 더 화려한 꽃들을 볼 수 있는데, 대부분 원예종 영산홍입니다. 영산홍은 일본에서 무도철쭉 등을 산철쭉 등과 교잡시켜 만든 원예종을 총칭하는 이름입니다. 그래서 ‘왜철쭉’이라 부르기도 합니다. 색에 따라 자산홍·연산홍 등 푯말이 붙어 있는 경우도 있지만 국가표준식물목록에 나오는 대로 그냥 영산홍으로 부르는 것이 좋겠습니다. 영산홍은 우리나라에서 가장 많이 심는 조경수라고 합니다. 정원의 축대 사이나 돌 틈에 많이 심습니다.&lt;br&gt;&lt;br&gt;문제는 영산홍이 종으로 정의가 아직 명확하지 않은 식물이라는 점입니다. 이 때문에 우리나라 식물을 정리해 놓은 ‘국가표준식물목록’에서 영산홍을 찾아보면 설명이 비어 있는 것을 볼 수 있습니다. 영산홍이 무엇인지 깔끔하게 정리하지 못한 상태에서 새로운 교잡종이 나오고 업자들이 부르는 유통명까지 섞이면서 걷잡을 수 없는 지경에 이른 것입니다. 꽃 색깔도 붉은색 계통이 많지만 셀 수 없이 다양합니다. 대체로 잎이 작고 좁으며 겨울에도 잎이 떨어지지 않는 반상록이 많습니다.&lt;br&gt;&lt;br&gt;더구나 영산홍 중에는 산철쭉과 비슷하게 생긴 품종도 있어서 전문가들도 둘을 구분하는 것을 어려워하고 있습니다. 다만 수술 수가 산철쭉은 10개인데 영산홍은 5~9개이고, 아린(겨울눈을 감싸는 비늘 조각)이 산철쭉은 끈적끈적한데 영산홍은 그렇지 않은 점이 다르다고 합니다. 영산홍은 겨울에도 잎이 남아 있는 반상록성이 강해 서울 기준으로 요즘 새잎과 묵은잎이 같이 보이면 영산홍, 새잎만 보이면 산철쭉입니다.&lt;br&gt;&lt;br&gt;진달래는 먹을 것이 없던 시절 꽃잎을 따 허기를 채운 꽃입니다. 그래서 진달래는 먹을 수 있다고 참꽃, 철쭉은 독성 때문에 먹을 수 없다고 개꽃이라 불렀습니다. 그러나 철쭉·영산홍은 물론 산철쭉과 진달래도 어느 정도 독성이 있다고 합니다. 다만 진달래는 좀 약한 정도인데, 진달래꽃도 많이 먹으면 설사하거나 배탈이 날 수 있으니 주의할 필요가 있습니다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[두근두근 뇌 운동] [2623] 퍼즐 맞추기</title>
-      <link>https://www.chosun.com/national/nie/2025/05/19/FCESEBCJMZFRLNECDOTGLU2BFA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2025/05/19/FCESEBCJMZFRLNECDOTGLU2BFA/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Sun, 18 May 2025 20:01:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5LIIQN3ORRB7VC4FLQRGC5KYKM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문은 선생님] [무대 위 인문학] 개성 가득한 ‘힙지로’, 과거엔 공구상가 늘어선 곳이었죠</title>
-      <link>https://www.chosun.com/national/nie/2025/05/19/6GBTDMNELNFYVHEFZ6RXUHCYQY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2025/05/19/6GBTDMNELNFYVHEFZ6RXUHCYQY/</guid>
-      <dc:creator>최여정 ‘이럴 때 연극’ 저자, 기획·구성=윤상진 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 18 May 2025 20:00:00 +0000</pubDate>
-      <content:encoded>요즘 서울 을지로는 ‘힙지로’라고 불려요. 개성 있는 가게들이 가득해서 ‘힙(hip)하다, 개성 있다’는 뜻으로 붙은 이름이죠. 을지로 옆엔 복잡한 서울 도심을 가로지르는 인공 하천이자 시민들의 산책로인 청계천이 있어요. 을지로와 청계천은 오늘날엔 젊은 세대가 많이 찾는 명소지만, 1960년대엔 지금과 전혀 다른 모습이었답니다. 을지로는 수백 개의 소규모 인쇄소와 영세 공구상이 밀집한 제조업 골목이었어요. 청계천은 우리나라 근현대 의류 산업의 중심지 중 하나였습니다. 1962년 청계천 옆에 개설된 평화시장은 한국전쟁 이후 미군 부대에서 나온 군복과 담요 등을 팔면서 점차 성장했죠.&lt;br&gt;&lt;br&gt;먹고살기 팍팍하던 그 시절, 을지로와 청계천은 수많은 이의 생계가 걸린 삶의 터전이었습니다. 이 두 공간은 시간이 흐르며 도심 재정비 사업을 통해 지금 모습으로 바뀌었죠. 1960년대 당시 을지로와 청계천을 배경으로 하는 두 편의 공연으로 그 시절을 떠올려 볼 수 있는데요. 음악극 ‘태일’(7월 20일까지·대학로티오엠)과 연극 ‘수성다방’(18일 종료)입니다. &lt;br&gt;&lt;br&gt;&lt;b&gt;노동운동의 중심지였던 청계천&lt;/b&gt;&lt;br&gt;&lt;br&gt;음악극 ‘태일’은 재단사이자 노동운동가로 짧은 인생을 살았던 전태일(1948~1970) 열사의 삶을 담은 작품이에요. 음악극과 뮤지컬은 모두 극의 전개와 함께 음악이 흐른다는 점에서 같아요. 하지만 극 전개에 있어 음악의 역할이 높은 뮤지컬과 달리, 음악극에서 음악은 보조적인 역할로 활용되죠.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TDKQDWZ67JBSLBSPMNBS2ZMHUI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;음악극 ‘태일’ 공연 장면. 주인공 태일(왼쪽)은 공장 동료들을 설득해 ‘바보회’라는 노조를 만들어요. 함께 노동운동을 하며 세상을 바꾸자고 설득합니다. /아떼오드·목소리프로젝트&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전태일은 “대한민국 노동운동의 역사는 전태일의 등장 이전과 이후로 나뉜다”고 할 정도로 우리나라 노동운동에 큰 영향을 끼친 인물이지요. 전태일이 청계천 평화시장에서 일을 시작한 것은 17세 때였어요. 그는 어려운 집안 형편 때문에 초등학교도 마치지 못하고 ‘시다’라고 불리는 재단 보조로 취직해 노동 현장에 들어가게 됩니다. &lt;br&gt;&lt;br&gt;평화시장이란 이름은 한반도의 평화통일이라는 염원을 담아 지었다고 알려져 있어요. 하지만 이런 이름과 달리 거기서 일하는 노동자들은 지금은 상상조차 할 수 없는 열악한 환경에서 일했어요. 3층짜리 건물에 무려 700여 점포가 입점해 있었는데, 건물을 불법으로 개조해 더 많은 노동자와 재봉 기계를 밀어 넣은 결과였죠. 건물 층고는 1.5m 높이로 성인이 일어나면 허리를 세울 수 없었고, 원룸만 한 공간(26m2·약 8평)에 30명이나 되는 시다들이 부대끼며 일했다고 합니다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GWC4N7NCWFGP3LFN5QOCHPDIHY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;1970년대 초 평화시장 봉제공장의 실제 모습. 여공들이 재봉질을 하고 있어요. /서울역사박물관&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;노동자들은 보통 매일 아침 8시부터 밤 10시까지 하루 14시간을 일했습니다. 이렇게 일해서 버는 돈은 고작 하루 50원. 당시 커피 한 잔 값이 50원이었으니 말도 안 되는 근로 조건이었죠. 평화시장 봉제공장엔 수많은 10대 여공들도 있었어요. 전태일은 휴일도 없이 끼니도 거르며 일하는 여공들을 위해 출퇴근길 버스 차비를 아껴 풀빵을 사서 나눠줬습니다. 몇 시간씩 걸어 출퇴근하면서 그는 세상의 불합리함에 대해 깊이 고민하게 돼요. &lt;br&gt;&lt;br&gt;전태일 역시 어린 나이였지만 막냇동생 같은 여공들이 혹사당하며 일하는 것을 보고 노동운동에 뛰어들기로 결심합니다. 하지만 평화시장의 점포 주인부터 작업장을 관리하는 공무원들까지, 책임져야 할 어른들은 아무도 전태일의 목소리에 귀 기울이지 않았어요.&lt;br&gt;&lt;br&gt;결국 전태일은 비정한 현실을 알리기 위해 자신의 몸에 휘발유를 붓고 불을 붙였습니다. “근로기준법을 준수하라. 우리는 기계가 아니다!”라는 구호를 외치면서요. 1970년 전태일은 22세에 세상을 떠나게 됩니다. 음악극 ‘태일’은 청년 전태일이 꿈꿨던 희망찬 세상을 그려내요. 무대 한편에선 건반과 통기타의 하모니가 라이브로 연주됩니다. 전태일이 느꼈을 감정을 소박하면서도 아름다운 선율로 관객들에게 전하지요.&lt;br&gt;&lt;br&gt;&lt;b&gt;을지로의 현재와 과거&lt;/b&gt;&lt;br&gt;&lt;br&gt;연극 ‘수성다방’은 철거를 앞둔 한 다방을 중심으로 그곳을 드나들던 사람들의 이야기를 풀어갑니다. 배경은 을지로 골목의 한 낡은 건물. 수성다방은 마치 생의 끝을 앞둔 시한부 환자처럼, 마지막 영업을 앞두고 쓸쓸히 하루하루를 보내고 있습니다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JTNGHV7JCNBQHEGCML2IYX6BFI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;연극 ‘수성다방’에서 도시연구가 수현(맨 오른쪽)이 철거를 앞둔 수성다방에 찾아가 다방의 과거 이야기를 듣고 있습니다. /극단 미인&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한때 이 다방은 을지로의 기술자들로 활기찼던 공간이었습니다. 인근 인쇄소, 공업소, 수리점에서 일하는 단골손님들이 커피 한잔하러 들르는 곳이었죠. 하지만 이제 그들은 철거 보상금이 턱없이 적진 않을까 걱정하며 자신들의 삶의 터전을 떠나 다른 곳으로 밀려나야 하는 처지에 놓였습니다. 2000년대 들어 이 지역을 재개발하는 정비 사업이 추진됐기 때문이지요.&lt;br&gt;&lt;br&gt;을지로와 청계천 인근은 조선 시대부터 궁궐과 관공서가 가깝다는 점 덕분에 각종 물건을 만들어 납품하는 수공업자와 장인들이 모여 살던 지역이었어요. 일제강점기를 거쳐 광복이 된 이후에도 ‘청계천 공구 거리’로 불리며 명맥을 이었지요. 특히 1968년 완공된 국내 최초 종합 전자상가인 을지로 세운상가는 전자제품의 메카로 자리 잡았습니다. 컴퓨터, 음향기기, 조명기기 등 다양한 전자상품 점포가 들어서면서 많은 사람이 몰려들었지요.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/R27HYGNJ7FABHAJ53GUEM2CTMM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;1960년대 촬영된 서울 종로구 세운상가. 세운상가엔 다양한 전자제품 상점들이 들어섰어요. /서울역사박물관&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그러나 1980년대 말 등장한 용산전자상가로 상권이 옮겨가며 을지로와 세운상가는 점차 쇠락하기 시작합니다. 게다가 청계천 복원 공사가 시작되고, 을지로 일대 재개발까지 이뤄지면서 많은 상인과 기술자가 이곳을 떠났어요. 현재 을지로 세운상가 일대는 문화·여가 시설이 포함된 도심 공원으로 조성하는 방안이 논의되고 있습니다. &lt;br&gt;&lt;br&gt;연극 ‘수성다방’은 단순히 한 공간의 소멸을 그리는 데 그치지 않습니다. 연극은 현재와 과거를 넘나드는 ‘타임슬립’이라는 설정으로 진행돼요. 조명을 바꾸는 연출을 통해 시간을 자유롭게 넘나들며 을지로와 청계천 골목의 이야기들을 전하지요. 공연을 보며 두 공간 속에 남은 삶의 흔적들을 상상해보길 바랍니다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>광주 65년 지킨 금호타이어 공장, 한순간 불에 올스톱</title>
