@@ -13,6 +13,73 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>이창수 중앙지검장·조상원 4차장 동반 사의</title>
+      <link>https://www.chosun.com/national/court_law/2025/05/20/25V2TSDGXRBCZGRKE6HJ3O7SSE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/05/20/25V2TSDGXRBCZGRKE6HJ3O7SSE/</guid>
+      <dc:creator>유희곤 기자, 이민준 기자, 박강현 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 20 May 2025 08:56:30 +0000</pubDate>
+      <content:encoded>이창수 서울중앙지검장과 조상원 4차장검사가 20일 사의를 표명한 것으로 확인됐다. 더불어민주당이 주도한 탄핵이 기각되면서 직무에 복귀한 지 두 달 만이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UFK7K33IQJMTHIQZ3BSVRMMIHQ.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;이창수 서울중앙지검장 /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 이 지검장과 조 차장검사는 이날 오후 법무부에 사의를 표명하고, 중앙지검 관계자들에게 이를 알렸다. 이 지검장과 조 차장검사는 윤석열 대통령 배우자 김건희 여사의 ‘도이치모터스 주가 조작 연루’ 의혹을 불기소했다는 이유로 지난해 12월 탄핵소추되며 직무가 정지됐었다. 직무정지 기간이 길어지면서 정신적, 육체적으로 상당한 고통을 겪으며 건강이 나빠졌다는 것이다. 헌법재판소가 탄핵을 기각하면서 두 사람 모두 지난 3월 직무에 복귀했었다. 이후 주요 현안에 대한 지휘를 한 뒤 이날 사의를 표명한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;조 차장검사는 이날 퇴근길에 기자들과 만나 “탄핵 등으로 너무 힘들었다”며 “지금까지 22년 살아온, 여기 검찰에 20년 있으면서 어떤 편을 든다 이런 게 아니었다”고 말했다. 탄핵 소추 배경이 된 김 여사 불기소 처분에 정치적 고려는 없었다는 뜻으로 풀이된다. 이 지검장과 같은 날 사의를 표명한 데 대해선 “각자 알아서 결정한 것”이라고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6AE47YV4YJMENBXSQLBQCADE6M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;조상원 서울중앙지검 4차장검사./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이 지검장과 조 차장검사는 이재명 더불어민주당 대선 후보 수사를 지휘한 대표적인 인물로 꼽힌다. 이 지검장이 수원지검 성남지청장, 조 차장검사가 성남지청 차장일 때 이 후보의 ‘성남FC 불법 후원금’ 사건을 수사해 기소한 바 있다. &lt;br&gt;&lt;br&gt;두 검사의 사의가 받아들여질 경우 주요 사건 수사와 재판에 차질이 빚어질 것이라는 우려가 법조계에서 나온다. 이 지검장과 조 차장검사는 이 후보의 ‘대장동·위례·백현동·성남FC’ 사건 재판과 ‘위증교사’ 항소심 재판을 지휘하고 있다. ‘민주당 전당대회 돈 봉투’ 사건에 연루된 돈 봉투 수수 의원들의 수사도 이 지검장과 조 차장검사가 이끌고 있다. 최근 불거진 ‘홈플러스 단기 채권’ 사태도 마찬가지다.&lt;br&gt;&lt;br&gt;이 밖에도 서울중앙지검은 별도의 전담수사팀을 설치해 정치 브로커 명태균씨의 ‘공천 개입’ 의혹을 수사하는 중인데, 수사팀은 김 여사 소환 조사를 앞두고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>16년전 실종된 교감 미스터리 풀리나… 안동호서 ‘미라화 시신’ 발견</title>
+      <link>https://www.chosun.com/national/2025/05/20/23EVH3G3FJFKXDKVGCQXBCRJ7Q/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2025/05/20/23EVH3G3FJFKXDKVGCQXBCRJ7Q/</guid>
+      <dc:creator>안동=권광순 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 20 May 2025 09:29:56 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/C4D3OA6D25EPJBAOQ7FL7TCBAA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 19일 오전 11시쯤 경북 안동시 성곡동 안동댐 선착장 인근에서 경북소방본부 119구조대원들이 수색작업을 통해 인양한 시신을 수습하고 있다. 인양된 시신은 바지와 셔츠를 착용했고 머리와 발목 등 신체 일부가 훼손됐지만 대체로 온전한 상태였다. /권광순 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 2010년 8월 중순 안동댐 선착장에서 신발을 남겨둔 채 사라졌던 남성으로 추정되는 시신이 발견돼 경찰이 수사에 나섰다. &lt;br&gt;&lt;br&gt;지난 17일 오후 2시쯤 안동시 성곡동 안동댐 선착장 인근에서 백모(55)씨는 뭍에서 150m쯤 떨어진 곳에서 수상 구조물 설치 작업 중 철재 사다리를 실수로 물속에 빠트렸다. 스쿠버 장비를 착용한 백씨는 사다리를 찾으러 수심 30m까지 내려가 호수 바닥을 더듬던 중 하반신 일부가 뻘 속에 묻힌 시신을 발견했다. 그는 영상을 촬영한 뒤 뭍으로 나와 경찰에 신고했다. &lt;br&gt;&lt;br&gt;신고를 받고 출동한 경찰과 119구조대는 시신이 발견된 지점을 집중 수색했지만 인양에는 실패했다. 수심이 깊고 탁도가 높아 시야가 확보되지 않았기 때문이다. 소방 당국은 19일 오전 11시쯤 해당 지점에서 수색작업을 재개한 지 25분 만에 시신을 인양했다. 인양된 시신은 바지와 셔츠를 착용했고 머리와 발목 등 신체 일부가 훼손됐지만 대체로 온전한 상태였다. &lt;br&gt;&lt;br&gt;경찰은 인양된 시신이 2010년 8월 이 일대에서 실종된 안동 Y학교 교감 50대 A씨로 보고 국립과학수사연구원에 부검을 의뢰했다. A씨 가족을 찾아 DNA도 확보했다. 경찰 관계자는 “최근까지 이 일대에서 스스로 목숨을 끊은 이들이 여러 차례 있었지만 모두 인양돼 신원도 확인됐다”며 “A씨 시신만 발견되지 않고 장기 미제 사건으로 남은 상태였다”고 말했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4IKN3YPHWNCFVGDXQKYRZL523A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 19일 오전 11시쯤 경북 안동시 성곡동 안동댐 선착장 인근에서 경북소방본부 119구조대원들이 수색작업을 통해 인양한 시신을 수습하고 있다. 인양된 시신은 바지와 셔츠를 착용했고 머리와 발목 등 신체 일부가 훼손됐지만 대체로 온전한 상태였다. /권광순 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;◇2010년 안동호서 사라진 교감 미스터리 16년 만에 풀릴까 &lt;/b&gt;&lt;br&gt;&lt;br&gt;A씨 실종 사건은 지난 2010년 8월 17일로 거슬러 올라간다. 이날 오전 9시30분쯤 안동댐 선착장 인근 주차장에선 A씨의 승용차가 발견됐다. 차 창문이 내려진 상태에다 차량 내부엔 열쇠도 끼워져 있었다. 인근 선착장에는 A씨의 마지막 흔적인 넥타이와 신발도 발견됐다. &lt;br&gt;&lt;br&gt;당시 이를 수상히 여긴 안동호수운관리사무소 청원경찰이 119구조대에 신고했다. 경찰과 소방당국은 A씨가 실족했을 가능성을 두고 선착장 주변 수중을 샅샅이 뒤졌다. 수색작업은 한 달 동안 이어졌지만 별다른 성과를 얻지 못했다. &lt;br&gt;&lt;br&gt;경찰은 평소 우울증을 앓아 왔다는 A씨 가족들의 진술을 토대로 스스로 목숨을 끊은 것으로 보고 수색을 중단, 미제 사건으로 남았다. 이 사건은 목격자와 유서가 없는 점, 방범 CCTV에 A씨가 노출되지 않은 점, 장기간 수색에 이어 30도 이상 폭염임에도 부패된 시신이 떠오르지 않은 점 등으로 일각에선 자살 아닌 다른 가능성에 대한 추정이 제기되기도 했다.&lt;br&gt;&lt;br&gt;당시 A씨의 실종에 대해 시민들 사이에선 온갖 추측이 나돌았다. 횡령 등 교육 비리 혐의로 A씨의 측근이 사법당국의 수사를 받은 사실이 알려지면서 자살을 위장한 도피라는 주장도 나왔다. &lt;br&gt;&lt;br&gt;A씨가 발견된 곳은 뭍에서 150m 떨어진 골짜기 형태로 진흙 뻘이 깊고 유속도 거의 없는 곳이다. 시신을 발견된 수심 30m에서 측정한 수온은 냉장실에 가까운 섭씨 6도였다.&lt;br&gt;&lt;br&gt;법의학계에선 이번에 발견된 안동호 수중 시신이 미라처럼 되는 시랍화(屍蠟化) 현상에 의한 것으로 추정하고 있다. 시랍은 미라화와 유사한 ‘영구 사체’라 불린다. &lt;br&gt;&lt;br&gt;유성호 서울대 의대 법의학교실 교수는 “시신이 물속에서 진흙이나 밀폐된 공간에서 저온 상태로 파묻혀 공기 접촉도 단절될 경우 밀랍처럼 변해 부패하지 않고 형태를 유지할 가능성이 있다”고 말했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>훔친 자전거가 동선 알려줬다... ‘시흥 흉기살인’ 차철남 체포 전말</title>
+      <link>https://www.chosun.com/national/national_general/2025/05/20/2BTSCZYUM5G3HALVNTZWQZDIFM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/05/20/2BTSCZYUM5G3HALVNTZWQZDIFM/</guid>
+      <dc:creator>최혜승 기자 </dc:creator>
+      <description/>
+      <pubDate>Tue, 20 May 2025 08:40:51 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5BUHVHN46VC35CWCO7GIFGAN6A.png"&gt;&lt;figcaption&gt;&lt;small&gt;'시흥 흉기 살인 사건' 중국인 용의자 차철남(56). /경기남부경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰이 시흥 살인사건 용의자 차철남(55)을 검거할 수 있었던 단서는 훔친 ‘바구니 자전거’였다. 경찰은 사건 발생 초기 용의자의 신원을 특정하는 데 애를 먹었으나, 용의자가 도주 과정에서 이용한 자전거를 집중 추적한 끝에 차철남을 붙잡았다.&lt;br&gt;&lt;br&gt;20일 경기남부경찰청에 따르면, 차철남은 전날 주민 2명에게 흉기를 휘두르고 도망치는 과정에서 길거리에 버려진 자전거를 이용했다. &lt;br&gt;&lt;br&gt;차철남은 지난 19일 오전 9시 34분쯤 시흥시 정왕동의 자택 인근 편의점에서 60대 여성 편의점주를 흉기로 찌르고 달아났다. 이 과정에서 그는 잠금 장치 없이 길거리에 세워져 있던 자전거를 이용했다. 그는 오후 1시 21분쯤 편의점으로부터 약 1.3㎞ 떨어진 한 체육공원에서 자기 집 건물주인 70대 남성에게 흉기를 휘둘러 다치게 하고 타고 온 자전거로 도주했다.&lt;br&gt;&lt;br&gt;경찰은 차철남이 바구니가 달린 큰 자전거를 이용한 것에 주목하고 이동 경로를 뒤쫓았다. 그 사이 차철남의 신원이 확인됐고, 그의 집과 인근 주택에서 50대 중국 동포의 시신 2구가 잇달아 발견됐다. 이에 경찰은 정식으로 수사본부를 편성, 총 590명의 경찰관을 투입해 추적에 나섰다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NDIPAA7YZFGN6QOMN6M4TAVW4M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;'시흥 흉기 살인 사건' 용의자 차철남(56)이 19일 오후 경기 시흥시 장곡동 시흥경찰서로 압송되며 호송차에서 내리고 있다./뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰은 오후 5시 33분쯤 차철남이 자기 집으로부터 직선으로 5㎞가량 거리에 있는 다세대주택가에 자전거를 버린 사실을 파악했다. 차철남은 2차 사건 이후 자전거를 타고 달아나다가 2차 사건 지점과 7.5㎞ 떨어진 이곳에 오후 2시 3분쯤 자전거를 버린 것으로 드러났다.&lt;br&gt;&lt;br&gt;경찰은 차철남이 멀리 가지 못했으리라 판단했다. 자전거 발견 지점 반경 수백m 내에 경찰관 198명을 배치하고 검문검색을 진행한 끝에 오후 7시 24분 차철남을 검거했다. 신고 접수 10시간 만이었다. 차철남은 자전거를 버린 곳으로부터 직선거리로 단 300~400ｍ 정도에 있는 시화호 부근에서 붙잡혔다. 차철남은 경찰관들에게 둘러싸여 큰 저항을 하지 않은 채 긴급체포된 것으로 전해졌다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “시 관제센터의 CCTV 영상을 면밀히 분석하면서 자전거 동선을 따라간 것이 주효했다”며 “자전거 발견 후 경찰력을 집중해 성과를 낼 수 있었다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/ZMQAOVEW43NBPJ6Y2QHKKPAK4E.jpg?auth=1d6ceb050fce4fc61a7eb02c5bfba79bf48c87854b2bf6ec7659d1cc2e142b30&amp;smart=true&amp;width=250&amp;height=315" type="image/jpeg" height="315" width="250">
+        <media:description type="plain">'시흥 흉기 피습' 중국인 용의자 56세 차철남. (경기남부경찰청 제공. 재판매 및 DB 금지) 2025.5.19/뉴스1</media:description>
+        <media:credit role="author" scheme="urn:ebu">뉴스1</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>“장기기증은 생명나눔”…학생 서포터즈 출범해 </title>
+      <link>https://www.chosun.com/national/regional/yeongnam/2025/05/20/HMTMTBLHEFH4ZHUPKDGIX5CQJQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/yeongnam/2025/05/20/HMTMTBLHEFH4ZHUPKDGIX5CQJQ/</guid>
+      <dc:creator>박주영 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 20 May 2025 09:33:23 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/J3NN3MBBHNE4DIK33WZXGNQNRU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;국립장기조직혈액관리원과 한국장기기증협회의 '학생 장기기증 서포터즈'가 지난 17일 부산 동구 초량동 부산역에서 발대식을 갖고 있다./한국장기기증협회&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이웃의 생명을 살리는 장기기증 활성화 운동을 펼치는 학생 서포터즈가 발족했다.&lt;br&gt;&lt;br&gt;국립장기조직혈액관리원과 한국장기기증협회는 “최근 부산역 유라시아 플랫폼에서 ‘학생 장기기증 서포터즈’ 발대식을 가졌다”고 20일 밝혔다. 이 서포터즈는 전국 각지의 대학생 50여명과 중고생 등 64명으로 구성됐다. &lt;br&gt;&lt;br&gt;이동헌(부산대학교,의예과), 김경린(카이스트,새내기학부)씨 등 이 서포터즈 회원은 지난 17일 발대식 선서에서 “장기기증 활동에 대해 좀 더, 이해하고 이웃을 사랑하는 마음을 배우고 생명나눔의 아름다움을 널리 알리는데 힘을 보탤 것”이라고 말했다.&lt;br&gt;&lt;br&gt;이들 학생은 오는 12월 말까지 한국장기기증협회와 국립장기조직혈액관리원의 장기기증 활성화 행사에 참여, 봉사를 하고 관련 소식을 자신들의 SNS를 통해 주변 사람들에게 알리는 활동을 펼친다. &lt;br&gt;&lt;br&gt;강치영 한국장기기증협회 회장은 “말기 질환으로 고통 받는 이웃을 위해 이제 우리의 미래 세대가 나서게 된 것은 참 아름다운 일”이라며 “특히 매년 1년간, 4년째 활동을 벌이는 ‘학생 서포터즈’ 구성이 종전 부산, 울산, 경남 등지 중심에서 서울 등 전국으로 확대돼 의미가 크다”고 말했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>법원 양형위 “한국 양형기준 준수율 90%...새 대상 범죄군 검토 중”</title>
+      <link>https://www.chosun.com/national/court_law/2025/05/20/YVREODBK4NGOTP6RNQVURSS3I4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/05/20/YVREODBK4NGOTP6RNQVURSS3I4/</guid>
+      <dc:creator>김나영 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 20 May 2025 09:21:33 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PYOJKNL4O5O4DEHBZWSCCRZ7EU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;최환 양형위원회 상임위원이 20일 대법원에서 열린 '법조출입기자 대상 양형기준 설명회'에서 발언하고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대법원 소속 양형위원회가 “양형기준을 설정할 새로운 범죄군을 검토하고 있다”라고 밝혔다. 양형위는 각 범죄에 대한 형량을 권고하는 기구로, 지난달 27일 제10기 양형위가 출범했다. 10기 양형위원장에는 이동원 전 대법관이 위촉됐다.&lt;br&gt;&lt;br&gt;양형위는 20일 대법원에서 기자간담회를 열고 양형기준에 대한 설명회를 진행했다. 진행을 맡은 최환 양형위 상임위원은 “양형위는 모든 범죄에 열려있다”며 “양형위가 출범할 때나 논의 과정 중에 각계각층의 의견을 수렴하고 있다”라고 설명했다.&lt;br&gt;&lt;br&gt;지난 제9기 양형위는 스토킹·동물학대 범죄 등에 대한 양형기준을 새로 정하고, 마약이나 성범죄에 대한 양형기준을 수정하는 등의 활동을 했다. 최 상임위원은 “지난 양형위 활동에서 볼 수 있듯 사회적 관심이 높은 범죄를 주로 다룬다”라고 했다. 다만 중대재해처벌법 등 특정한 법이 10기에서 다룰 대상이 될 예정이냐는 기자단의 질문에는 “검토 중인 사안이라 구체적으로 말씀드리기 어렵다”라고 답했다.&lt;br&gt;&lt;br&gt;최 상임위원은 “한국의 양형기준 준수율은 매년 90%를 넘는다”라며 “미국 등의 준수율이 50%인 것과 달리 상당히 높은 수치”라고 설명했다. 양형기준은 권고의 효력을 가질 뿐, 법적 구속력은 갖지 않는데도 대부분 판사들이 이를 따른다는 것이다. 특히 2023년 기준 ‘도주·범인은닉’과 ‘석유사업법위반’ 범죄군에 대한 양형기준 준수율은 100%였다. &lt;br&gt;&lt;br&gt;10기 양형위는 다음달 23일 제139차 양형위원 회의를 열고 대상 범죄군을 의결할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>아파트 단지까지 내려오는 너구리에…서울시, 질병 모니터링 시작</title>
+      <link>https://www.chosun.com/national/national_general/2025/05/20/CKJAVFCVKVENVNIEBE7CPF3BYY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/05/20/CKJAVFCVKVENVNIEBE7CPF3BYY/</guid>
+      <dc:creator>김영우 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 20 May 2025 09:06:29 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KPRJZ66ZH5GT5N255HWP5TDOKM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 24일 오후 인천시 연수구 송도동 산책로에서 '개선충'에 감염된 것으로 보이는 너구리가 이동하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 성북구 장위동에 사는 A씨는 지난 7일 강아지와 함께 아파트 단지 안을 산책하다가 강아지와 비슷한 크기의 야생 너구리 2마리와 마주쳤다. 신기한 마음에 사진을 찍으려고 다가가자 너구리가 달려들었고, A씨와 강아지는 깜짝 놀라 도망쳤다. 그는 “조금 늦었으면 강아지가 너구리한테 물릴 뻔했다”며 “나중에 알아보니 너구리가 광견병, 벼룩도 옮긴다던데 또 만날까 봐 걱정”이라고 했다.&lt;br&gt;&lt;br&gt;서울 한복판에 출몰하는 야생 너구리가 늘어나면서 서울시가 ‘너구리 대책’을 마련하기 위해 질병 모니터링을 시작한다고 20일 밝혔다. 너구리들이 어떤 병에 자주 걸리는지 파악해 예방약을 주요 출몰 지역에 뿌리고, 심각한 경우 구조할 방법도 찾기 위한 작업이다. 너구리 감염병을 검사하는 것은 전국 지방자치단체 중 처음이다. &lt;br&gt;&lt;br&gt;서울시 내에 출몰하는 야생 너구리는 매년 증가세다. 서울시에 따르면 2018년 구조된 너구리는 49마리였는데, 지난해엔 117마리가 돼 2배 이상으로 늘었다. 서울시 관계자는 “과거엔 한강 주변이나 산에서만 목격됐는데, 요즘엔 길고양이 먹이를 훔쳐먹으러 아파트 단지까지 누비고 다닌다”고 했다. 서울연구원 조사에 따르면 서울 자치구 25곳 중 24곳에서 너구리가 관찰되고 있다.&lt;br&gt;&lt;br&gt;문제는 야생 너구리가 사람이나 개를 물어 감염병을 옮길 수 있다는 점이다. 광견병뿐 아니라 이른바 ‘살인진드기병’이라 불리는 중증 열성 혈소판 감소 증후군(SFTS)에도 걸릴 수 있다. 사람이 너구리를 만지면 개선충(옴)에 감염돼 가려움증이 생길 수도 있다. 개는 온몸의 털이 듬성듬성 빠지게 된다.&lt;br&gt;&lt;br&gt;야생 너구리는 6월부터 새끼에게 먹이 찾는 법을 교육하기 위해 시내로 나오는 경우가 많아지는 것으로 전해졌다. 이에 서울시는 이달부터 본격적으로 도심 공원, 주택가 등에서 구조된 너구리에게서 시료를 채취해 질병 감염 실태를 조사할 계획이다. 광견병 등 인수 공통 감염병 10종과 동물 질병 13종 감염 여부를 검사한다. 서울시 관계자는 “너구리를 발견하면 신기하다고 만지지 말고 꼭 야생동물구조센터 등에 구조 요청을 해야 한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>경찰, 권영세·권성동 입건…‘김문수 단일화 압박’ 혐의</title>
+      <link>https://www.chosun.com/national/national_general/2025/05/20/ZQDKVEUTKJF5TIPR6Z6V2O3FFU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/05/20/ZQDKVEUTKJF5TIPR6Z6V2O3FFU/</guid>
+      <dc:creator>고유찬 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 20 May 2025 08:33:50 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GUUX7RBV3QYCKAGYQMKDRY3IUM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;권영세 전 비상대책위원장(오른쪽)과 권성동 원내대표 /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국민의힘 내부에서 벌어진 대선 후보 단일화 압박 의혹과 관련된 고발장이 접수되면서 권영세 전 비상대책위원장과 권성동 원내대표가 경찰에 입건돼 수사를 받고 있다.&lt;br&gt;&lt;br&gt;서울 영등포경찰서는 권 전 위원장과 권 원내대표를 강요미수 및 업무방해 혐의로 입건해 수사하고 있다고 20일 밝혔다. 이번 입건은 지난 8일 한 민간인이 서울 관악경찰서에 제출한 고발장에 따른 것이다.&lt;br&gt;&lt;br&gt;권 전 비대위원장과 권 원내대표는 국민의힘 대선 후보로 선출된 김문수 후보에게 한덕수 전 국무총리와의 단일화를 압박한 혐의로 고발됐다. 고발장에는 김 후보가 당 사무총장으로 내정한 장동혁 의원에게 ‘공천 불이익을 주겠다’는 취지로 압박해 자리를 고사하게 했다는 혐의도 포함됐다.&lt;br&gt;&lt;br&gt;서울 관악경찰서는 지난 8일 이 같은 내용의 고발장을 접수하고 고발인 조사를 마친 뒤 15일 관할서인 서울 영등포경찰서로 사건을 이첩했다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “현재 고발인 조사 내용을 바탕으로 법리를 검토하는 단계”라며 “(권 비대위원장과 권 원내대표를) 불러서 조사할 계획은 없다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>목줄 끊고 달려든 풍산개에 물린 60대 사망…50대 견주 집유</title>
       <link>https://www.chosun.com/national/court_law/2025/05/20/P55N5ATMLRGFNGN6LUKLBHWN2U/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/05/20/P55N5ATMLRGFNGN6LUKLBHWN2U/</guid>
@@ -923,24 +990,6 @@
       </media:content>
     </item>
     <item>
-      <title>검찰, ‘홈플러스 채권 사태’ 김병주 MBK 회장 출국 정지</title>
-      <link>https://www.chosun.com/national/court_law/2025/05/19/5Z6C3BFTV5C5BFDM6CRCJZTM6I/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/05/19/5Z6C3BFTV5C5BFDM6CRCJZTM6I/</guid>
-      <dc:creator>박강현 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 19 May 2025 05:59:42 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LIK6GFZQBESKHAFEQ6VWGA2P6I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김병주 MBK파트너스 회장./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘홈플러스 채권 사태’를 수사 중인 검찰이 의혹의 핵심 인물 중 한 명으로 지목된 김병주 MBK 회장에 대해 출국 정지 조치를 내린 것으로 전해졌다. &lt;br&gt;&lt;br&gt;19일 법조계에 따르면 서울중앙지검 반부패수사3부(부장 이승학)는 최근 법무부를 통해 김 회장을 출국 정지 시킨 것으로 파악됐다. 그동안 김 회장이 줄곧 해외에 머물렀던 만큼, 최근 귀국한 그를 상대로 원활한 수사를 진행하기 위해 이 같은 조치를 한 것으로 분석된다.&lt;br&gt;&lt;br&gt;또 김 회장과 함께 김광일 MBK 부회장 겸 홈플러스 공동대표, 조주연 홈플러스 대표는 출국 금지 조치된 것으로 전해졌다.&lt;br&gt;&lt;br&gt;출입국관리법은 범죄 수사를 위해 출국이 적당하지 않다고 인정되는 외국인에 관해선 일정 기간 동안 출국 정지를, 우리나라 국민에 대해선 출국 금지를 할 수 있도록 규정하고 있다. 김 부회장과 조 대표와 달리 김 회장은 미국 국적이어서 내국인에게 적용되는 출국 금지가 아니라 출국 정지를 내린 것이다. &lt;br&gt;&lt;br&gt;앞서 검찰은 지난 17일 인천국제공항을 통해 귀국한 김 회장에 대해 곧바로 압수 수색을 집행했다. 지난달 28일 김 회장의 주거지 등을 압수 수색한 이후 두 번째 강제 수사로, 김 회장은 영국 출장을 마치고 귀국하는 과정에서 수사 대상이 된 것으로 알려졌다.&lt;br&gt;&lt;br&gt;검찰은 첫 번째 압수 수색에서 김 회장의 휴대전화는 확보하지 못한 것으로 전해졌는데, 두 번째 압수 수색을 통해 김 회장의 휴대전화 등 관련 수사 자료를 확보한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/D67HCWA36CNDY7HJNJVZIQQ4GI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울의 한 홈플러스 매장 앞에서 시민들이 이동하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰은 홈플러스와 홈플러스 대주주인 사모펀드(PEF) 운용사 MBK 경영진 등이 신용등급 하락을 알고 법정관리 신청을 계획한 이후에도 채권을 발행해 투자자들에게 손실을 떠넘기려 한 것은 아닌지 의심하고 조사 중이다. 검찰은 두 회사 경영진이 지난 2월 25일 신용평가사로부터 신용등급이 낮아진다는 사실을 미리 통보받고도 당일 신영증권 등 국내 증권사를 통해 채권 약 820억원을 판매했는지 여부를 들여다보고 있다. &lt;br&gt;&lt;br&gt;한국신용평가와 한국기업평가는 지난 2월 28일 홈플러스의 신용등급을 기존 ‘A3’에서 투기등급(B) 바로 위 단계인 ‘A3-’로 강등했는데, 홈플러스는 나흘 만인 3월 4일 서울회생법원에 회생절차 개시 명령 신청서를 냈다. 기업회생을 신청하면 금융채무가 동결되기 때문에 회생 신청이 계획된 상태에서 채권 등을 발행하는 행위는 투자자를 기만하는 사기적 부정 거래 행위로 처벌될 수 있다. 홈플러스와 MBK 측은 채권 발행 및 판매를 위한 절차를 마쳤을 때는 홈플러스의 신용등급 하락 사실을 알지 못했다는 입장이다.&lt;br&gt;&lt;br&gt;검찰은 압수물 분석 등이 끝나는 대로 조만간 김 회장과 김 부회장, 조 대표를 불러 조사할 방침인 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>대선 후보 공보물 배송 집배원들에게 욕설…20대 男 체포</title>
-      <link>https://www.chosun.com/national/incident/2025/05/19/RGTR4732I5GN5K2N7Z2OFDONWA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/05/19/RGTR4732I5GN5K2N7Z2OFDONWA/</guid>
-      <dc:creator>인천=이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 19 May 2025 05:04:52 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/S4JNNA63IJHXYPIIBJ7DXGEVSU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고./조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대통령선거 후보 공보물을 배송하던 우체국 집배원들을 위협한 20대 남성이 경찰에 붙잡혔다. &lt;br&gt;&lt;br&gt;인천 중부경찰서는 공무집행방해, 공직선거법 위반 등 혐의로 20대 A씨를 체포해 조사하고 있다고 19일 밝혔다. &lt;br&gt;&lt;br&gt;A씨는 전날 오후 5시 14분쯤 인천시 중구 운서동의 한 도로에서 대통령 선거 후보 공보물 배송을 위한 분류 작업을 하고 이동하려던 우체국 집배원 3명에게 욕설을 하고 길을 막은 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;이 과정에서 다친 집배원은 없는 것으로 알려졌다. 112 신고를 받고 출동한 경찰은 현장에서 A씨를 체포했다. &lt;br&gt;&lt;br&gt;A씨는 당시 음주 상태는 아니었다고 경찰은 설명했다. 경찰은 A씨를 상대로 정확한 범행 경위를 조사할 예정이다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>손흥민 협박 여성, 얼굴가리자 서류철 뺏어간 경찰… 때아닌 인권 논란</title>
       <link>https://www.chosun.com/national/national_general/2025/05/19/XBZ6LYD3CVGMXG63WQRGYXNQVU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/05/19/XBZ6LYD3CVGMXG63WQRGYXNQVU/</guid>
@@ -956,24 +1005,6 @@
       </media:content>
     </item>
     <item>
-      <title>경찰, 김정숙 여사 옷값 자료 확보...“압수물 충분히 확보”</title>
-      <link>https://www.chosun.com/national/national_general/2025/05/19/O5V3JW3WWFCMRD2K32J5J6ANFQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/05/19/O5V3JW3WWFCMRD2K32J5J6ANFQ/</guid>
-      <dc:creator>김명진 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 19 May 2025 03:21:45 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/S2N5CQVJ3WEOXLGC3QQNSZWIVQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;문재인 전 대통령과 김정숙 여사가 지난달 25일 오후 서울 여의도 국회에서 4·27 판문점선언 7주년 기념식에 참석하기 위해 도서관으로 향하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;문재인 전 대통령 부인 김정숙 여사의 옷값 출처 의혹을 수사 중인 경찰이 대통령기록관에서 청와대 특수활동비 집행 내역 등 관련 자료를 확보했다고 밝혔다.&lt;br&gt;&lt;br&gt;박현수 서울경찰청장 직무대리는 19일 정례 기자간담회에서 “대통령기록관 압수 수색을 지난 9일 마치고 압수물 분석을 진행하고 있다”고 했다.&lt;br&gt;&lt;br&gt;경찰은 지난 3월 17일 서울고법으로부터 세종시 대통령기록관에 대한 압수 수색영장을 발부받아 지난달 10일부터 영장을 집행했다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “대통령기록관 측의 협조를 받아 정상적으로 압수 수색이 진행됐다”며 “한 달 정도 소요된 것은 대통령기록물 이관작업이 시기적으로 겹쳤기 때문이다. 시간은 걸렸지만 확보할 수 있는 압수물은 충분히 확보했다”고 했다.&lt;br&gt;&lt;br&gt;한편 경찰은 국가대표 축구 선수 손흥민(33·토트넘)의 아이를 임신했다며 돈을 뜯어낸 일당 수사에 대해 “사건 접수 때부터 대상자들이 특정돼 있어 수사가 빨리될 수 밖에 없었다”고 말했다.&lt;br&gt;&lt;br&gt;구속영장 실질심사 당시 피의자 가운데 한 명인 20대 여성 양모씨가 모자 등을 쓰지 않고 법원에 출석해 인권 보호를 소홀히 한 게 아니냐는 논란이 인 데 대해선 “수사 공보규칙 등 관련 절차 규정에 따라 필요한 조치를 했다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>이종배 서울시의원, 이재명 “HMM 부산 이전, 직원들 동의” 발언 허위사실공표로 고발</title>
-      <link>https://www.chosun.com/national/court_law/2025/05/19/QLXVFBHDKFF63B3Q5X734RKC6Y/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/05/19/QLXVFBHDKFF63B3Q5X734RKC6Y/</guid>
-      <dc:creator>박강현 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 19 May 2025 02:40:07 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5V6HFSFQDRAOHJOJ73L5VX6W44.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;서울중앙지검. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국민의힘 이종배 서울시의원이 이재명 더불어민주당 대선 후보가 유세 과정에서 국내 컨테이너 해운사 HMM을 부산으로 옮겨 오도록 하겠다고 주장한 것과 관련해, 이 후보를 공직선거법상 허위사실공표 혐의로 서울중앙지검에 19일 고발했다.&lt;br&gt;&lt;br&gt;앞서 이 후보는 공식 선거운동 셋째 날인 지난 14일 부산 서면 유세에서 “대한민국의 가장 큰 해운 회사인 HMM을 부산으로 옮겨 오도록 하겠다”며 “민간 회사라 쉽지 않지만 정부 출자 지원이 있기 때문에 마음먹으면 불가능은 아니다. 일단 HMM 직원들이 동의했다”는 취지로 주장했다.&lt;br&gt;&lt;br&gt;국내 1위, 세계 8위 컨테이너 해운사인 HMM 본사는 서울 여의도에 있다. 컨테이너선이 주로 출발하는 모항(母港)은 부산항이지만, 여의도 본사 근무 인력이 800~900명 수준으로 가장 많다. 작년 말 기준, 계약·영업 등을 맡은 육상직은 1063명, 선박 운항을 맡는 해상직이 827명이다. &lt;br&gt;&lt;br&gt;하지만 이후 이 후보가 ‘전해 들었다’는 취지로 불분명하게 밝힌 ‘직원 동의’를 두고 논란이 일었다. HMM 노조 측이 ‘본사 이전 관련해 의견을 수렴하거나 동의를 구한 적 없다’는 취지로 반박했기 때문이다.&lt;br&gt;&lt;br&gt;이 시의원은 이날 서울중앙지검 청사 앞에서 “이 후보의 발언 이후 HMM 육상노조와 해상노조는 ‘논의된 바 자체가 없다’는 메일을 직원에게 발송했다고 하고, HMM 사측도 언론에 ‘본사의 부산 이전에 대해 전달받은 바 없다’고 밝혔다고 한다”며 “이를 종합하면, 이 후보의 ‘HMM을 부산으로 옮겨 오겠다. 직원들이 동의했다’는 주장은 명백한 허위 사실”이라고 주장했다. &lt;br&gt;&lt;br&gt;그는 “이는 (이 후보가) 당선될 목적으로 허위의 사실을 공표한 것”이라며 “아무리 선거용이라 하더라도 엄연한 민간기업인 HMM을 마음대로 옮기겠다는 발상 자체가 독재자의 단면을 보여주고 있고, 거짓말로 유권자를 속이는 것은 민주주의를 후퇴시키는 심각한 선거 범죄”라고 지적했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>尹 재판장 지귀연 “접대 생각도 안해... 소맥 사주는 사람도 없다”</title>
       <link>https://www.chosun.com/national/court_law/2025/05/19/JOMBQ33B7RCF7PBXL6H625N2WQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/05/19/JOMBQ33B7RCF7PBXL6H625N2WQ/</guid>
@@ -981,24 +1012,6 @@
       <description/>
       <pubDate>Mon, 19 May 2025 01:22:17 +0000</pubDate>
       <content:encoded>윤석열 전 대통령의 내란 혐의 재판을 담당하는 지귀연 서울중앙지법 부장판사가 최근 민주당이 제기한 ‘룸살롱 접대 의혹’에 대해 직접 반박했다. 지 부장판사는 “접대를 받는 생각도 해본 적 없다. 의혹 제기 내용은 사실이 아니다”라고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VATN4SFPK3QOT6PT6FT2JGWMIQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지귀연 부장판사가 지난달 21일 서울 서초동 서울중앙지법에서 열린 내란 우두머리 혐의 형사재판 2번째 공판에서 취재진의 퇴장 관련 발언하고 있다./사진공동취재단&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지 부장판사는 19일 오전 서울중앙지법 형사25부(재판장 지귀연)에서 열린 윤 전 대통령의 내란 혐의 재판에 앞서 이같이 말했다. 그는 “재판 진행에 앞서 한 말씀 드려야 할 것 같다. 얘기 안 하면 재판 자체가 신뢰받기 힘들다는 생각에 말씀드려야 할 것 같다”고 말문을 열었다.&lt;br&gt;&lt;br&gt;이어 “최근 저 개인에 대한 의혹 제기 때문에 우려와 걱정이 많은 상황을 잘 알고 있다”며 “의혹 제기 내용은 사실이 아니고 그런 데(룸살롱) 가서 접대받는 생각도 해본 적 없다”고 했다. 그러면서 “무엇보다 그런 시대 자체가 아니다. 삼겹살에 소맥도 사주는 사람이 없다”고 덧붙였다.&lt;br&gt;&lt;br&gt;또 “중요 재판이 한창 진행되고 있는 상황에서, 판사 뒷조사에 의한 계속적인 의혹 제기와 외부의 자극·공격에 대해 하나하나 일일이 대응하는 것 자체가 재판 진행에 영향을 미칠 수 있다”며 “앞으로도 재판부는 법이 정한 절차에 따라 공정하고 신속한 재판에 매진하겠다”고 밝혔다. &lt;br&gt;&lt;br&gt;이는 김용민 더불어민주당 의원이 지난 14일 국회 법제사법위원회에서 “지 부장판사가 1인당 100만~200만원 비용이 나오는 룸살롱에서 여러 차례 술을 마셨고 단 한 번도 돈을 낸 적이 없다는 아주 구체적인 제보를 받았다”고 의혹을 제기한 데 따른 것이다.&lt;br&gt;&lt;br&gt;지 부장판사는 윤 전 대통령을 비롯해 내란 혐의를 받는 군·경 관계자들의 재판을 맡고 있다. 앞서 민주당은 지 부장이 윤 전 대통령의 ‘구속 취소’를 결정한 뒤로 ‘내란 공범’이라며 공격해 온 바 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘세금 체납’ 골프장 운영자 집 수색했더니...순금 100돈·양주·명품 시계 줄줄이</title>
-      <link>https://www.chosun.com/national/regional/2025/05/19/MZDI6VQR7RD63OIJHGC3XWSLWE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/05/19/MZDI6VQR7RD63OIJHGC3XWSLWE/</guid>
-      <dc:creator>제주=오재용 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 19 May 2025 02:05:48 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FUTGQQKJ7VZJ3EDK3K6KF4POA4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;제주도가 지방세 체납자 가택을 수색해 압류한 현금과 물품들./제주도&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제주도가 지방세를 납부하지 않은 고액 체납자의 주택을 수색해 순금 100돈 등을 압수했다. &lt;br&gt;&lt;br&gt;제주도는 지난 12∼16일 도외에 거주하는 지방세·세외수입 고액 체납자 29명을 대상으로 부산에서 서울까지 전국을 돌며 현장 방문 실태조사와 가택 수색을 실시했다고 19일 밝혔다.&lt;br&gt;&lt;br&gt;대표적인 사례로 서울시 종로구 저택에서 호화 생활을 누리는 제주도 소재 골프장 전 대표자인 체납자 A씨 가택을 수색해 시가 6000만원 상당 순금 100돈을 비롯해 고가의 양주와 귀금속 등을 압류했다. 또 다른 체납자를 대상으로 명품 가방 12점, 명품 시계·반지 등 귀금속 105점, 고급 양주 6병, 미술 작품 4점, 현금 100만원 등을 압류했다.&lt;br&gt;&lt;br&gt;제주도는 현금은 즉시 체납액에 충당하고, 나머지 압류 물품은 감정평가 후 공개 매각을 통해 체납액 징수에 충당할 예정이다.&lt;br&gt;&lt;br&gt;제주도는 도외 거주 체납자의 체납액이 지속적으로 증가함에 따라 세무관리팀장을 주축으로 세무공무원 4명으로 구성된 ‘도외 체납 실태조사반’을 발족했다. 이번 수색·조사는 지방세 납부 능력이 있음에도 장기간 지방세·세외 수입을 체납한 것으로 의심되는 도외 고액 체납자 29명을 대상으로 실시됐다. 이들의 총 체납액은 34억원에 달한다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘인력부족 호소’ 공수처, 신규 검사 7명 임용</title>
-      <link>https://www.chosun.com/national/court_law/2025/05/19/Y23KJW3GT5CAZO4IQ4JX4NPPYQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/05/19/Y23KJW3GT5CAZO4IQ4JX4NPPYQ/</guid>
-      <dc:creator>이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 19 May 2025 01:35:32 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/W4IXVY6XAGESTVKRVMIG4SJG2A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;고위공직자범죄수사처(공수처)./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인력부족을 호소하던 고위공직자범죄수사처(공수처)가 19일 검사 7명을 충원한다고 밝혔다. 선발절차를 마친 뒤 대통령의 임명 재가를 남겨 놓고 있던 상황에서, 이주호 대통령 권한대행이 임명을 재가한 데 따른 것이다.&lt;br&gt;&lt;br&gt;공수처는 부장검사 2명과 평검사 5명을 충원한다고 밝혔다. 새로 임명된 부장검사는 나창수(사법연수원 31기) 법무법인 대륜 변호사와 김수환(33기) 전 수원지검 부부장검사다. 나 변호사는 1974년생으로 서울중앙지검 공판2부장, 창원지검 형사1부장을 지냈다. 인천 초등학생 유괴사건 등 강력·형사 사건을 수사했고, 공안 수사 경험도 있다. 김수환 전 부부장검사는 2004~2019년 검사로 재직했다. 강력부, 금융, 조세, 기업범죄 수사 경험이 있고, 수원지검에서 근무할 땐 금융정보분석원에 파견을 다녀오기도 했다.&lt;br&gt;&lt;br&gt;평검사는 최영진(41기) 법무법인 태하 변호사, 원성희(42기) 국군복지단 법무실장, 최정현(43기) 클라스한결 변호사, 이정훈(변시 3회) 전 서울강남경찰서 지능범죄수사팀장, 이언(변호사시험 5회) 법무법인 강남 변호사가 임명됐다.&lt;br&gt;&lt;br&gt;이번 임명으로 공수처 검사는 정원 25명 중 21명을 채웠다. 공수처 인사위는 작년 9월 신임 부장검사 1명, 평검사 2명의 임명제청안을 대통령실에 보냈고, 올 1월에도 4명의 임명제청안을 추가로 보냈다. 이들이 임명되면서 인력 부족이 상당 부분 해소된 것이다. 공수처는 “검사 결원 4명 충원도 상반기 중 인사위원회 심의를 거쳐 추진할 계획”이라고 밝혔다. &lt;br&gt;&lt;br&gt;오동운 공수처장은 “앞으로도 공수처가 법과 원칙에 따라 국민이 공감하는 수사 성과를 내도록 수사에 더욱 매진하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>마트에서 장보던 아빠, 갑자기… 아들 안고 육교까지 뛰쳐나간 이유</title>
@@ -1012,15 +1025,6 @@
         <media:description type="plain">충북 청주 흥덕경찰서 홍석은 경사가 쉬는 날 마트에서 절도범을 발견해 추적하는 모습./경찰청</media:description>
         <media:credit role="author" scheme="urn:ebu"/>
       </media:content>
-    </item>
-    <item>
-      <title>중국인 건보 취득, 4년 새 2만6000명 늘어</title>
-      <link>https://www.chosun.com/national/welfare-medical/2025/05/19/2QNV5ZCGC5AB7GYV4UP2THBMSY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/05/19/2QNV5ZCGC5AB7GYV4UP2THBMSY/</guid>
-      <dc:creator>오경묵 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 18 May 2025 16:28:05 +0000</pubDate>
-      <content:encoded>저출생 등의 영향으로 내국인 건강보험 자격 신규 취득자가 감소 추세인 것으로 나타났다. 반면 건강보험 자격을 취득한 외국인은 증가한 것으로 나타났다. &lt;br&gt;&lt;br&gt;18일 국회 보건복지위원회 소속 김미애 국민의힘 의원이 건강보험공단에서 받은 자료에 따르면, 건강보험 자격을 신규 취득한 내국인은 2020년 29만4876명에서 지난해 26만2034명으로 3만2842명 줄었다. 내국인 건강보험 자격 취득자는 2021년 28만3791명, 2022년 27만4759명, 2023년 25만5287명으로 감소하다가 지난해 26만2034명으로 늘었다. 같은 기간 출생아 수가 27만4800여 명에서 24만100여 명으로 3만4000여 명 감소한 영향으로 풀이된다.&lt;br&gt;&lt;br&gt;반면 국내 건강보험 자격을 취득한 외국인은 증가했다. 중국인은 2020년 3만129명에서 지난해 5만6425명으로 2만6000명 가까이 늘었다. 같은 기간 베트남인은 1만3714명에서 5만9662명으로 네 배 이상으로 됐다. 우즈베키스탄은 6128명에서 두 배인 1만2150명으로 늘었다.&lt;br&gt;&lt;br&gt;외국인 건강보험 부정 수급 사례도 끊이지 않는다. 지난해 외국인·재외국민 부정 수급 인원은 1만7087명으로 전년(1만4630명)보다 16.8% 늘었다. 중국 국적 부정 수급자가 1만2033명으로 가장 많았다. 건강보험 자격을 상실했는데도 부정 수급하거나, 건강보험증을 대여·도용하는 경우 등이다. &lt;br&gt;&lt;br&gt;외국인 건강보험 가입자가 늘면서 ‘건강보험 상호주의’를 도입해야 한다는 목소리가 커지고 있다. 지난 1월 김미애 의원은 우리 국민에게 외국 건강보험이 적용되지 않는 경우 해당 외국 국민도 우리 건보 가입자나 피부양자가 될 수 없도록 한 국민건강보험법 개정안을 발의한 바 있다. 유학생·난민 등은 예외로 했다. &lt;br&gt;&lt;br&gt;하지만 정부는 신중한 입장이다. 보건복지부 측은 “해외 주요국 중 외국인의 건강보험 적용에 상호주의를 적용하는 국가는 찾기 어렵다”면서 “인권 문제와 외교 정책, 외국인 관련 정책 등을 종합적으로 고려해 신중한 검토가 필요하다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
