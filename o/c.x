@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>‘아동학대 혐의’ 손웅정 감독, 출전정지 3개월 징계</title>
+      <link>https://www.chosun.com/national/national_general/2025/05/21/VIKEJ5AN7VCIDJ2AQ4MSVD7TAA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/05/21/VIKEJ5AN7VCIDJ2AQ4MSVD7TAA/</guid>
+      <dc:creator>이가영 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 20 May 2025 22:51:19 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5GR2MZPMZOYCAINNEMXMAL2D4E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;손웅정 감독. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;아동학대 혐의로 벌금형을 선고받은 축구선수 손흥민의 아버지 손웅정 감독이 출전 정지 3개월의 징계 처분을 받았다. &lt;br&gt;&lt;br&gt;강원특별자치도축구협회 스포츠공정위원회는 문화체육관광부 산하 스포츠윤리센터 조사 결과에 따른 후속 조치로 SON축구아카데미의 손 감독과 A 코치에 대해 출전 정지 3개월 처분을 최근 의결했다. 위원회는 ‘언어폭력 행위가 우발적으로 발생한 경우, 기타 이에 준하는 경미한 경우’에 해당한다고 판단했다. &lt;br&gt;&lt;br&gt;위원회는 SON축구아카데미의 손흥윤 수석코치에 대해서는 ‘폭행‧상해 행위가 우발적이고 특별하게 참작할 사유가 있다’며 출전정지 6개월 징계 처분을 내렸다. &lt;br&gt;&lt;br&gt;이는 스포츠공정위원회 규정상 폭력 행위 지도자 징계 기준 범위에서 가장 낮은 수위에 해당하는 것으로 알려졌다. 출전 정지 징계를 받은 지도자는 징계가 끝날 때까지 체육회와 관련 단체에서 개최하는 모든 대회에 출전할 수 없다. &lt;br&gt;&lt;br&gt;피해 아동의 변호인은 “학대행위가 여러 차례 반복되어 왔기 때문에 우발적이었다고 보기 어렵다”며 재심을 신청했다. 손 감독 등 지도자 3명도 징계 처분에 불복해 재심을 신청했다. &lt;br&gt;&lt;br&gt;통상 징계 대상자가 재심을 신청할 경우 심의가 끝날 때까지 징계 효력이 중지되지만, 폭력 행위 등 인권 침해 사안은 예외로 재심을 신청하더라도 효력이 유지돼 손 감독 등은 경기장 벤치를 지킬 수 없다. &lt;br&gt;&lt;br&gt;작년 10월 춘천지법은 아동복지법상 아동학대 혐의로 기소된 손 감독 등 3명에게 각각 벌금 300만원의 약식 명령을 내렸다. 또 40시간의 아동학대 치료 프로그램 이수를 명령했다.&lt;br&gt;&lt;br&gt;손 감독 등은 축구아카데미를 다녔던 중학생 B군을 학대한 혐의를 받았다. B군은 작년 3월 일본 오키나와 전지훈련 중 손 수석코치에게 폭행당했고, 손 감독 등으로부터 훈련과 경기 중 실수를 했다는 이유로 심한 욕설을 들었다며 이들을 아동 학대 혐의로 고소했다. &lt;br&gt;&lt;br&gt;사건을 조사한 스포츠윤리센터는 지난 2월 손 감독 등 지도자 3명의 폭력 비위가 인정된다고 판단했다. 규정에 따라 문화체육관광부장관에게 ‘대한체육회로 하여금 관련 체육 단체에 피신고인 모두에 대한 징계를 요구할 것’을 요청했다. &lt;br&gt;&lt;br&gt;손 감독은 작년 6월 이 문제가 불거지자 “마음의 상처를 받은 아이와 가족들께 깊은 사과의 뜻을 전한다”며 “제 모든 것을 걸고 맹세컨대 아카데미 지도자들의 행동에 있어서 아이들에 대한 사랑이 전제되지 않은 언행은 없었다”고 밝혔다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title> ‘님비’ 에 짓기 참 힘든 행복기숙사</title>
       <link>https://www.chosun.com/national/education/2025/05/21/5B7RSXDPORC3BKMXG7XDYKVZRA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/education/2025/05/21/5B7RSXDPORC3BKMXG7XDYKVZRA/</guid>
@@ -787,15 +796,6 @@
       <description/>
       <pubDate>Mon, 19 May 2025 22:16:42 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BJO7DZPU5VJETKCPHIOTKEJA5Q.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;서울의 한 초등학교로 학생들이 등교하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최근 3년간 서울 초등학생의 우울‧불안감이 높아진 것으로 나타났다. 유튜브와 소셜미디어 이용 증가, 1980년대생 부모의 과보호 등이 복합적으로 영향을 미쳤다는 분석이다. &lt;br&gt;&lt;br&gt;서울시교육청 교육연구정보원이 19일 발표한 ‘서울학생종단연구 2020 3차년도 결과분석 보고서’에 따르면, 서울 초등학생의 우울감(3점 만점)은 1차 조사를 시작한 2021년에는 0.51점이었다. 2022년에는 0.66점, 2023년 0.73점으로 매년 상승하는 모습을 보였다. 초등학생은 우울감이 2년 만에 0.22점 올랐으나, 중학생은 0.13점, 고등학생(인문계)은 0.02점 오르는 데 그쳤다.&lt;br&gt;&lt;br&gt;이번 연구에는 서울시 소재 초등학교 113개, 중학교 98개, 고등학교 99개 학교가 참여했다. 초등학생 연구는 2021년 초등학교 4학년이었던 학생을 3년간 추적했다. &lt;br&gt;&lt;br&gt;불안을 나타내는 특성(각 항목 1점 만점)도 초등학생만 증가했다. ‘과도한 걱정’은 2021년 0.44점에서 2022년 0.54점, 2023년에는 0.58점으로 상승했다. 같은 기간 ‘예민함’은 0.41점에서 0.47점, 0.49점으로 올랐다. ‘부정적 정서’ 역시 0.17점에서 0.24점, 0.26점으로 높아졌다. 반면 중·고등학생은 이들 항목 모두 감소했다.&lt;br&gt;&lt;br&gt;보고서는 초등학생의 우울, 불안 등 부정적 감정이 증가한 이유로 ▲학업 및 교우관계 스트레스 ▲스마트폰 및 소셜미디어 이용 시간 증가 ▲코로나가 가져온 고립감과 경제적 어려움 ▲수면 시간의 감소 등을 들었다. &lt;br&gt;&lt;br&gt;연구원은 “학생들은 인스타그램이나 페이스북 등 소셜미디어나 유튜브를 통해 간접적으로 타인의 삶을 경험하고 그들과 소통한다”며 “타인의 화려한 삶과 비교해 상대적 박탈감을 느끼기도 하며 자극적인 영상과 이야기가 영향을 주기도 한다”고 분석했다. 이어 “자아개념이 불완전하고, 뚜렷한 목표의식이 없는 상태에서 부모의 과도한 기대와 학습에의 요구, 지나친 사교육, 소셜미디어 사용의 증가로 더욱 심리적으로 취약해진 것”이라고 했다.&lt;br&gt;&lt;br&gt;연구에 참여한 한 자문위원은 특히 초등학생의 부모 세대인 ‘80년대생 학부모’의 양육 태도가 학생의 부정적 감정 증가에 영향을 줬을 것이라고 봤다. 자문위원은 “작은 좌절과 불안에 대해서도 지나치게 정서적으로 보호받고 지원받는 아동의 경우 오히려 불안 수준이 높고 작은 어려움에도 크게 좌절하게 된다”며 “예민한 양육방식, 아동의 감정을 지나치게 수용하는 잘못된 양육 태도의 유행으로 초등학생의 ‘감정 면역’이 낮은 수준이라, 우울감과 불안감에 취약해졌을 것”이라고 설명했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>국민 10명 중 4명이 마신다…국내 생수 1위 굳건 </title>
-      <link>https://www.chosun.com/national/regional/2025/05/20/27P7DDHR2RAARHMXZ4UGKQBISI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/05/20/27P7DDHR2RAARHMXZ4UGKQBISI/</guid>
-      <dc:creator>오재용 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 19 May 2025 21:00:01 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SFE3TLPMZZENHNKLU4VRP2BVUA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;제주개발공사는 배우 박보영을 모델로 새롭게 발탁하고 CM송 '좋아마심 송'을 선보이는 등 신규 광고 캠페인을 통해 '믿을 수 있는 물'이라는 브랜드 메시지를 홍보하고 있다./제주도개발공사&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제주삼다수가 올해 1분기 국내 먹는샘물 시장 점유율 40.4%를 기록하며 1위 자리를 지켰다.&lt;br&gt;&lt;br&gt;제주삼다수는 청정 지대인 한라산 단일 수원지에서 취수한 청정 원수를 기반으로 생산된다. 제주도개발공사는 1998년 제주삼다수 출시 이후 27년간 수질 부적합이나 행정처분 이력이 없는 철저한 품질 관리 체계가 소비자 신뢰를 견인한 핵심 요인으로 꼽았다.&lt;br&gt;&lt;br&gt;현재 시판되고 있는 대부분의 생수는 주문자 위탁 생산(OEM) 방식으로 제조되기 때문에 동일한 수원지에서 나온 물이 여러 브랜드명으로 유통되거나, 한 브랜드 제품이라도 수원지가 다를 수 있다.&lt;br&gt;&lt;br&gt;고객들에게 삼다수의 품질 관리와 생산 과정을 투명하게 공개하기 위해 사전 예약제로 공장 견학 프로그램도 운영하고 있다.&lt;br&gt;&lt;br&gt;특히 스마트팩토리 견학로에서는 글로벌 수준의 첨단 설비를 통해 제주삼다수가 만들어지는 과정을 직접 확인할 수 있다.&lt;br&gt;&lt;br&gt;제주개발공사는 최근 배우 박보영을 모델로 새롭게 발탁하고 CM송 ‘좋아마심 송’을 선보이는 등 신규 광고 캠페인을 통해 ‘믿을 수 있는 물’이라는 브랜드 메시지를 강화하고 있다. 박보영의 밝고 건강한 이미지가 제주삼다수가 추구하는 신뢰·청정의 가치에 잘 부합한다는 게 공사 측 설명이다.&lt;br&gt;&lt;br&gt;제주삼다수는 이번 캠페인을 통해 소비자와의 정서적 유대감을 강화할 계획이다. 이를 위해 브랜드 메시지를 담은 CM송을 중심으로 다양한 콘텐츠를 선보이며, 소비자와의 소통을 한층 확대하고 있다.&lt;br&gt;&lt;br&gt;온·오프라인을 아우르는 다양한 활동은 소비자 관심으로 이어졌다. 온라인에서는 가정배송 앱과 공식 온라인몰 운영을 강화하고, 정기배송 프로그램을 확대했다. 제주삼다수 플래그십 스토어 ‘카페 삼다코지’에서는 방탈출 콘셉트의 팝업스토어 ‘혼저 옵서, 삼다마을!’을 운영해 체험형 콘텐츠를 확장하며 브랜드 경험을 넓혔다.&lt;br&gt;&lt;br&gt;백경훈 제주개발공사 사장은 “제주삼다수는 깨끗한 수원지의 가치와 품질에 대한 철저한 신뢰를 기반으로 시장을 선도해왔다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>‘미래 혁신 보금자리’ 제주첨단과학기술단지…2단지로 ‘2막’ 연다</title>
