@@ -13,6 +13,24 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>울산 아파트 8층서 4살 남아 추락해 사망</title>
+      <link>https://www.chosun.com/national/national_general/2025/05/20/T7SKXIH7LJC6HF3KQYKMFMHNOU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/05/20/T7SKXIH7LJC6HF3KQYKMFMHNOU/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 20 May 2025 04:35:26 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/X4WX55AXSBGOJAEPHUXGIU3CIA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 관련 이미지. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;울산의 한 아파트에서 4살짜리 남자아이가 추락해 숨지는 사고가 발생했다.&lt;br&gt;&lt;br&gt;20일 울산경찰청 등에 따르면 전날 오전 8시 51분쯤 울산 울주군의 한 아파트 8층 가정집에서 A(4)군이 1층 화단으로 추락했다.&lt;br&gt;&lt;br&gt;A군은 신고를 받고 출동한 119 구급대에 의해 심정지 상태로 병원에 옮겨졌으나 숨졌다.&lt;br&gt;&lt;br&gt;경찰은 보호자가 잠든 사이 A군이 의자를 타고 올라갔다가 창문으로 떨어진 것으로 추정하고 있다. 현재 국립과학수사연구원에 시신 부검을 의뢰하는 등 정확한 사고 경위를 조사하고 있다.&lt;br&gt;&lt;br&gt;경찰 관계자는 조선닷컴과의 통화에서 “아동학대 등 정황은 발견되지 않았다”며 “현재까지 범죄 혐의점은 발견되지 않았고 단순 사고로 보고 있다”고 밝혔다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>꽁꽁 숨겨져 있던 우리나라 最高 샘물 ‘백록샘’ 찾아가 볼까</title>
+      <link>https://www.chosun.com/national/regional/2025/05/20/JLRAO6K6SRFGZHXLH4XVTAENJ4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/05/20/JLRAO6K6SRFGZHXLH4XVTAENJ4/</guid>
+      <dc:creator>제주=오재용 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 20 May 2025 03:56:30 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Q7FFAC4WJVCDNFAUZCSRDMNDHU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한라산 비공개 구간인 윗세오름과 남벽 분기점 사이에 위치한 백록샘./제주도&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;우리나라 최고(最高) 높은 지대에 위치한 샘인 한라산 백록샘과 거문오름 벵뒤굴이 일반에 공개된다.&lt;br&gt;&lt;br&gt;20일 제주도에 따르면 오는 30일 막을 올리는 ’2025 제주 국가유산 방문의 해' 시즌2는 ‘제주의 자연’을 주제로 불의 숨길, 신화적 자연, 생명의 숲 등을 테마로 한 장소 25곳을 방문하는 코스로 구성됐다.&lt;br&gt;&lt;br&gt;우선 7월 3일부터 열리는 세계유산축전과 연계해 거문오름, 성산일출봉, 한라산 등 제주 탄생의 비밀을 간직한 대표 자연유산을 만날 수 있다. 자연 속 깃든 신을 테마로 한 송당본향당, 혼인지, 종달리 생개남 돈짓당 등도 포함됐다.&lt;br&gt;&lt;br&gt;제주 생명력이 살아 숨 쉬는 평대리 비자나무 숲, 식산봉 황근 자생지와 상록활엽수림, 서귀포 치유의 숲에 있는 제주도 무형유산인 구덕장 전시관, 드라마 ‘우리들의 블루스’ 촬영지인 가파도 제단까지 다채로운 스팟이 준비됐다.&lt;br&gt;&lt;br&gt;가장 눈에 띄는 것은 평소 접근이 제한된 특별 공간 개방이다. 한라산 비공개 구간인 윗세오름과 남벽 분기점 사이에 위치한 백록샘(해발 1660ｍ) 탐방과 한라산 구상나무 대표목 공개가 진행된다.&lt;br&gt;&lt;br&gt;거문오름 용암동굴계의 비공개 동굴인 김녕굴과 벵뒤굴도 특별탐험대 프로그램을 통해 개방된다.&lt;br&gt;&lt;br&gt;시즌2에서는 지역경제 활성화를 위한 상생 프로그램도 본격화한다. 23일부터 국가유산 방문자센터와 각 스팟 주변 숙박업소, 음식점, 카페 등을 대상으로 협력업체를 공개 모집해 참가자 혜택을 확대할 예정이다.&lt;br&gt;&lt;br&gt;앞서 지난 3월부터 진행 중인 국가유산 방문의 해 시즌1 ‘제주의 꿈’은 제주의 아픈 역사 위에 쌓아 올린 평화와 공존의 가치를 조명했다. 시즌1 스탬프 투어는 높은 참여율을 보여 지난 18일 기준 1만명 이상이 참여했다. 1개 테마 8곳을 완주한 참가자가 약 800명, 25개를 모두 돌아본 ‘정예 탐험자’도 331명에 달했다.&lt;br&gt;&lt;br&gt;참가자의 70% 이상이 다른지역 관광객이었고, 외국인 관광객도 8% 이상을 차지했다.&lt;br&gt;&lt;br&gt;지난 3월 28일 제주시 원도심 향사당에 문을 연 국가유산 방문자센터 ‘쉼팡’에는 두 달 만에 5000명 넘게 찾았다.&lt;br&gt;&lt;br&gt;또 제주의 유산을 알리기 위해 지난 1∼6일 서울 광화문광장에서 열린 ‘서울스프링페스타’ 내 ‘제주 국가유산 방문의 해’ 홍보부스에는 총 2만2400명이 방문했다. 방문자 중 5000여명이 ‘숨은 국가유산 찾기’ 프로모션과 특별 스탬프 체험에 참여했다.&lt;br&gt;&lt;br&gt;고종석 제주도 세계유산본부장은 “시즌 1을 통해 제주 국가유산이 품은 깊은 가치를 많은 분과 나눌 수 있었다”며 “시즌 2에서는 제주 자연이 들려주는 생생한 이야기로 더 많은 이들이 제주의 진정한 아름다움을 발견하게 될 것”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>결혼 생각 있는 20대 여성 60% 넘겼다...1년새 7.4%포인트 증가</title>
       <link>https://www.chosun.com/national/welfare-medical/2025/05/20/WN32YWKPDFCIVI76AHNUG2GNGU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/05/20/WN32YWKPDFCIVI76AHNUG2GNGU/</guid>
@@ -845,15 +863,6 @@
       <content:encoded>윤석열 전 대통령의 내란 혐의 재판을 담당하는 지귀연 서울중앙지법 부장판사가 최근 민주당이 제기한 ‘룸살롱 접대 의혹’에 대해 직접 반박했다. 지 부장판사는 “접대를 받는 생각도 해본 적 없다. 의혹 제기 내용은 사실이 아니다”라고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VATN4SFPK3QOT6PT6FT2JGWMIQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지귀연 부장판사가 지난달 21일 서울 서초동 서울중앙지법에서 열린 내란 우두머리 혐의 형사재판 2번째 공판에서 취재진의 퇴장 관련 발언하고 있다./사진공동취재단&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지 부장판사는 19일 오전 서울중앙지법 형사25부(재판장 지귀연)에서 열린 윤 전 대통령의 내란 혐의 재판에 앞서 이같이 말했다. 그는 “재판 진행에 앞서 한 말씀 드려야 할 것 같다. 얘기 안 하면 재판 자체가 신뢰받기 힘들다는 생각에 말씀드려야 할 것 같다”고 말문을 열었다.&lt;br&gt;&lt;br&gt;이어 “최근 저 개인에 대한 의혹 제기 때문에 우려와 걱정이 많은 상황을 잘 알고 있다”며 “의혹 제기 내용은 사실이 아니고 그런 데(룸살롱) 가서 접대받는 생각도 해본 적 없다”고 했다. 그러면서 “무엇보다 그런 시대 자체가 아니다. 삼겹살에 소맥도 사주는 사람이 없다”고 덧붙였다.&lt;br&gt;&lt;br&gt;또 “중요 재판이 한창 진행되고 있는 상황에서, 판사 뒷조사에 의한 계속적인 의혹 제기와 외부의 자극·공격에 대해 하나하나 일일이 대응하는 것 자체가 재판 진행에 영향을 미칠 수 있다”며 “앞으로도 재판부는 법이 정한 절차에 따라 공정하고 신속한 재판에 매진하겠다”고 밝혔다. &lt;br&gt;&lt;br&gt;이는 김용민 더불어민주당 의원이 지난 14일 국회 법제사법위원회에서 “지 부장판사가 1인당 100만~200만원 비용이 나오는 룸살롱에서 여러 차례 술을 마셨고 단 한 번도 돈을 낸 적이 없다는 아주 구체적인 제보를 받았다”고 의혹을 제기한 데 따른 것이다.&lt;br&gt;&lt;br&gt;지 부장판사는 윤 전 대통령을 비롯해 내란 혐의를 받는 군·경 관계자들의 재판을 맡고 있다. 앞서 민주당은 지 부장이 윤 전 대통령의 ‘구속 취소’를 결정한 뒤로 ‘내란 공범’이라며 공격해 온 바 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>고용부 “故오요안나, MBC서 괴롭힘 당해... 근로자 아니라 처벌 못해”</title>
-      <link>https://www.chosun.com/national/labor/2025/05/19/TGZ3KNX735DARJUJO7RTBOOXSQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/labor/2025/05/19/TGZ3KNX735DARJUJO7RTBOOXSQ/</guid>
-      <dc:creator>김아사 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 19 May 2025 01:43:09 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CMZJODCPAJFQ7H5J6PDL7IVZPA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;사진 출처=故 오요안나 계정&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;고용노동부는 고(故) 오요안나 씨에 대한 직장 내 괴롭힘 사건에 대해 “MBC 내 괴롭힘이 있었다”고 최종 판단했다. 다만, 오요안나씨가 ‘근로자’에 해당하지 않아 MBC 관계자들을 근로기준법 위반 혐의로 처벌하는 것은 불가능하다고 했다.&lt;br&gt;&lt;br&gt;고용부는 이 같은 내용을 담은 MBC에 대한 특별근로감독 조사 결과를 19일 발표했다. 오요안나씨는 2021년부터 MBC 보도국 기상팀 소속으로 일하다 직장 내 괴롭힘 등을 이유로 지난해 9월 극단적 선택을 했다. 고용노동부는 지난 2월 특별근로감독에 착수했다.&lt;br&gt;&lt;br&gt;고용부 조사에 따르면 고인은 2021년 입사 후 선배들로부터 단순한 지도·조언의 차원을 넘어선, 업무상 필요성이 인정되기 어려운 괴롭힘 행위를 반복해 당했다. 예컨대 고인이 MBC를 대표해 유명 예능 프로그램인 ‘유퀴즈’에 출연하자, 선배 기상캐스터는 “네가 유퀴즈에 나가서 무슨 말을 할 수 있어?”라면서 공개적인 장소에서 비난했다. 고용부는 “고인에게 업무상 필요성을 넘어 개인적 감정에서 비롯된 불필요한 발언들이 여러 차례 이어져 왔다”며 “해당 행위들은 괴롭힘에 해당한다”고 밝혔다.&lt;br&gt;&lt;br&gt;고용부는 괴롭힘이 발생한 이유에 대해 “MBC 기상캐스터는 각각의 독립성·자율성을 가진 프리랜서 신분임에도, 명확한 서열과 위계질서가 존재하는 조직문화가 존재했다”며 “선·후배 간 갈등이 괴롭힘에 해당하는 행위들로 이어진 측면이 크다”고 설명했다.&lt;br&gt;&lt;br&gt;다만, 오요안나씨를 근로자로 인정하기는 어렵다며 ‘직장 내 괴롭힘’ 규정은 적용할 수 없다고 봤다. 기상캐스터가 MBC와 계약된 업무(뉴스 프로그램 출연) 외에 소속 근로자가 통상적으로 수행하는 행정, 당직, 행사 등 다른 업무를 하지 않았고, 외부 기획사와 전속 계약하거나 엔터테인먼트사에 가입하고 자유롭게 타 방송 출연이나 개인 영리 활동을 한 점, 정해진 출·퇴근 시간이 없는 점 등을 이유로 들었다.&lt;br&gt;&lt;br&gt;고용부는 감독 기간 중 MBC 전 직원(1726명)을 대상으로 설문조사를 실시한 결과, “응답자 252명 중 115명(45.6%)이 ‘직장 내 괴롭힘 또는 성희롱 피해를 본 사실이 있거나 주변 동료가 피해를 본 사실을 알고 있다’라고 답변했다”고 밝혔다.&lt;br&gt;&lt;br&gt;입사 경로에 따른 부당한 대우, 무시 등 차별을 받았다는 응답도 있었다. 특정 팀장급 직원이 공개적으로 폭언과 욕설을 하거나, 직장동료와 러브샷 요구, 옷차림과 외모 지적, 신고하지 말라는 비꼬는 말투, 남녀 동료끼리 커플로 엮으려는 사적 농담, 정규직임에도 입사 시 계약직인 점 때문에 신입 사원보다 못한 처우를 하며 모멸감을 준 행위 등이 대표적이다.&lt;br&gt;&lt;br&gt;고용부는 또 방송지원직과 계약직 등에 대한 연장근로수당 과소 지급 등 총 1억8400만원 (691명)의 임금이 체불된 사실 등을 포함해 6건의 노동관계법령 위반 사항도 적발하고, 1540만원의 과태료 부과 조치를 했다고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WTDO5P77CT7GNXDYIWR2R54PAI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;고용노동부는 19일 MBC 내 직장 내 괴롭힘이 있었다고 최종 판단했다/오요안나 SNS&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>‘국힘 탈당’ 尹 전 대통령, 서울중앙지법 도착... 말없이 법정으로</title>
       <link>https://www.chosun.com/national/court_law/2025/05/19/NALSTNCTWFFMNBTMHMZX6FN4NY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/05/19/NALSTNCTWFFMNBTMHMZX6FN4NY/</guid>
@@ -910,15 +919,6 @@
       <description/>
       <pubDate>Mon, 19 May 2025 01:02:42 +0000</pubDate>
       <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/L5GTREUNMZCCUGO7IYGAEQ7VBQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울행정법원 /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;체육대학이 입시 실기고사에 소속 고등학교 로고가 박힌 수영모를 쓰고 응시한 수험생을 불합격시킨 것은 정당하다는 법원 판결이 나왔다.&lt;br&gt;&lt;br&gt;19일 법조계에 따르면 서울행정법원 제14부(재판장 이상덕)는 A씨가 B대학을 상대로 낸 불합격 처분 취소 청구를 지난 3월 기각했다.&lt;br&gt;&lt;br&gt;B대학은 작년 1월 신입생 정시모집 수구 종목 실기에서 A씨가 소속 고교가 표시된 수영복을 입고 치렀다는 민원을 받았다. 이 대학은 정시모집요강에 “운동복(수구는 수영복)에는 어떠한 표시도 할 수 없음(소속, 성명 등 일체의 표시 금지)”이라는 규정을 두고 있다. &lt;br&gt;&lt;br&gt;이후 감독관과 심판 등에 확인한 결과 A씨가 고교 로고가 들어간 수영모를 쓰고 체육특기자전형 실기를 치른 것이 확인됐다. 대학은 이를 부정행위로 처리하고 A씨에게 불합격 처분을 했다.&lt;br&gt;&lt;br&gt;A씨는 절차적 하자 등을 주장하며 불복 소송을 냈다. 먼저 “모집요강에서는 ‘수영복’에 어떤 표시도 할 수 없다고 할 뿐 ‘수영모’에 표시를 금지하는 내용은 없다”고 주장했다. 또 “감독관들이 수영모를 발견하고도 제지하거나 주의를 주지 않았는데 나중에 불합격 처분을 한 것은 신뢰 보호 원칙을 위반한 것”이라고도 했다.&lt;br&gt;&lt;br&gt;재판부는 A씨 주장을 전부 기각했다. 수영모에 대한 금지 규정이 없다는 주장에 관해선 “이 규정은 수험생의 능력을 신원과 무관하게 객관적으로 측정해, 시험관과의 유착·비리 등 부정행위를 방지하고 입시 공정성을 확보하는 데 취지가 있다”며 “모집요강에 ‘수영모’가 별도로 기재되지 않았더라도 소속을 표시한 수영모를 착용하는 게 금지된다고 보는 게 당연한 해석”이라고 했다.&lt;br&gt;&lt;br&gt;감독관들이 시험 현장에서 주의나 제지를 하지 않은 것에 대해선 “오히려 이는 현장에서 불충분한 정보에 근거해 성급하게 조치를 취하는 대신 차후에 정확한 규정을 확인해 사안을 처리하고자 한 것이라고 볼 여지가 있다”고 판단했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>구속된 허경영 복통 호소에…한밤중 유치장 119 출동 소동</title>
-      <link>https://www.chosun.com/national/national_general/2025/05/19/RYRT2XVOYNHW7J4KUDXMWUED74/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/05/19/RYRT2XVOYNHW7J4KUDXMWUED74/</guid>
-      <dc:creator>이가영 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 19 May 2025 00:48:52 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/245TMJX3FFPMXINR6764IAHSFE.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;신도 성추행과 사기 등 혐의를 받는 허경영 국가혁명당 명예대표가 16일 오후 경기 의정부시 의정부지법에서 열린 영장실질심사에 출석하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;준강제추행과 사기 등 혐의로 구속된 허경영 국가혁명당 명예대표가 유치장에서 새벽에 통증을 호소해 병원으로 이송됐다가 돌아왔다. &lt;br&gt;&lt;br&gt;경찰과 소방 당국에 따르면 19일 오전 1시 45분쯤 의정부경찰서 유치장에서 구금 상태인 허 명예대표가 복통을 호소했다. 허 명예대표는 출동한 119 구급대원에 의해 병원으로 옮겨졌다. 다만, 병원 진료 결과 특이 사항이 없어 허 명예대표는 다시 유치장으로 돌아온 것으로 전해졌다. &lt;br&gt;&lt;br&gt;의정부지법은 지난 16일 허 명예대표가 도주 우려와 증거인멸 가능성이 있다고 판단해 구속영장을 발부했다. 허 명예대표는 경기 가평군 종교시설 하늘궁에서 신도들에게 영성 상품을 시중 가격보다 터무니없이 비싸게 판매하고, 상담을 빌미로 여신도들을 추행한 혐의를 받는다. &lt;br&gt;&lt;br&gt;허 명예대표는 “고소인(신도)들이 돈을 뜯어내기 위해 고소한 것”이라며 혐의를 전면 부인하는 것으로 알려졌다. &lt;br&gt;&lt;br&gt;이번 사건에서 유죄가 확정될 경우, 허 명예대표는 공직선거법 제18조에 따라 형 확정 시점부터 10년간 피선거권이 박탈된다. 1997년부터 매 대선마다 후보로 등록하며 ‘대선 단골손님’으로 불려온 허 명예대표는 오는 6월 치러질 21대 대선에는 출마하지 않았다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>문시연 숙대 총장 “이공계 열풍만 좇으면 승산 없어… 한류 특화 대학으로 차별화”</title>
