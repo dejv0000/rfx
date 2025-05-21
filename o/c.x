@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>아파트 놀이터서 지인 3명 흉기로 찌른 60대 긴급 체포</title>
+      <link>https://www.chosun.com/national/incident/2025/05/22/62DPSS5ZXFFFXJFVNPKENDQV4A/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/05/22/62DPSS5ZXFFFXJFVNPKENDQV4A/</guid>
+      <dc:creator>인천=이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 21 May 2025 23:08:17 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/O4573ERSCP5XAAC5WLRJX5UOTU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천 연수구의 한 아파트 단지 내 놀이터에서 함께 술을 마시던 지인들을 흉기로 찌르고 달아난 60대 남성이 경찰에 붙잡혔다. &lt;br&gt;&lt;br&gt;인천 연수경찰서는 살인미수 혐의로 60대 A씨를 체포했다고 22일 밝혔다. &lt;br&gt;&lt;br&gt;A씨는 전날 오후 9시쯤 인천시 연수구 연수동의 한 아파트 단지 놀이터에서 함께 술을 마시던 60대 남성 B씨 등 지인 3명을 흉기로 찌르고 달아난 혐의를 받고 있다. &lt;br&gt;&lt;br&gt;B씨 등은 머리 부위를&lt;b&gt; &lt;/b&gt;다쳐 인근 병원으로 옮겨졌다. 다행히 생명에 지장은 없는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;신고를 받고 출동한 경찰은 해당 아파트 단지 인근에서 A씨를 발견해 긴급 체포했다. &lt;br&gt;&lt;br&gt;경찰은 A씨가 피해자들과 말다툼을 벌이다 범행한 것으로 보고 정확한 경위를 조사하고 있다. &lt;br&gt;&lt;br&gt;경찰 관계자는 “범행 동기 등을 조사한 뒤 구속영장을 신청할 예정”이라고 말했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>법관 회의, 재판 독립 내세웠지만… 안건 원문에 ‘李 선거법 판결 비판’ 있었다</title>
       <link>https://www.chosun.com/national/court_law/2025/05/22/FMPWGFHYAVGOLGNYX2SGZVHM3M/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/05/22/FMPWGFHYAVGOLGNYX2SGZVHM3M/</guid>
@@ -757,19 +766,6 @@
       <description/>
       <pubDate>Tue, 20 May 2025 22:51:19 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5GR2MZPMZOYCAINNEMXMAL2D4E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;손웅정 감독. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;아동학대 혐의로 벌금형을 선고받은 축구선수 손흥민의 아버지 손웅정 감독이 출전 정지 3개월의 징계 처분을 받았다. &lt;br&gt;&lt;br&gt;강원특별자치도축구협회 스포츠공정위원회는 문화체육관광부 산하 스포츠윤리센터 조사 결과에 따른 후속 조치로 SON축구아카데미의 손 감독과 A 코치에 대해 출전 정지 3개월 처분을 최근 의결했다. 위원회는 ‘언어폭력 행위가 우발적으로 발생한 경우, 기타 이에 준하는 경미한 경우’에 해당한다고 판단했다. &lt;br&gt;&lt;br&gt;위원회는 SON축구아카데미의 손흥윤 수석코치에 대해서는 ‘폭행‧상해 행위가 우발적이고 특별하게 참작할 사유가 있다’며 출전정지 6개월 징계 처분을 내렸다. &lt;br&gt;&lt;br&gt;이는 스포츠공정위원회 규정상 폭력 행위 지도자 징계 기준 범위에서 가장 낮은 수위에 해당하는 것으로 알려졌다. 출전 정지 징계를 받은 지도자는 징계가 끝날 때까지 체육회와 관련 단체에서 개최하는 모든 대회에 출전할 수 없다. &lt;br&gt;&lt;br&gt;피해 아동의 변호인은 “학대행위가 여러 차례 반복되어 왔기 때문에 우발적이었다고 보기 어렵다”며 재심을 신청했다. 손 감독 등 지도자 3명도 징계 처분에 불복해 재심을 신청했다. &lt;br&gt;&lt;br&gt;통상 징계 대상자가 재심을 신청할 경우 심의가 끝날 때까지 징계 효력이 중지되지만, 폭력 행위 등 인권 침해 사안은 예외로 재심을 신청하더라도 효력이 유지돼 손 감독 등은 경기장 벤치를 지킬 수 없다. &lt;br&gt;&lt;br&gt;작년 10월 춘천지법은 아동복지법상 아동학대 혐의로 기소된 손 감독 등 3명에게 각각 벌금 300만원의 약식 명령을 내렸다. 또 40시간의 아동학대 치료 프로그램 이수를 명령했다.&lt;br&gt;&lt;br&gt;손 감독 등은 축구아카데미를 다녔던 중학생 B군을 학대한 혐의를 받았다. B군은 작년 3월 일본 오키나와 전지훈련 중 손 수석코치에게 폭행당했고, 손 감독 등으로부터 훈련과 경기 중 실수를 했다는 이유로 심한 욕설을 들었다며 이들을 아동 학대 혐의로 고소했다. &lt;br&gt;&lt;br&gt;사건을 조사한 스포츠윤리센터는 지난 2월 손 감독 등 지도자 3명의 폭력 비위가 인정된다고 판단했다. 규정에 따라 문화체육관광부장관에게 ‘대한체육회로 하여금 관련 체육 단체에 피신고인 모두에 대한 징계를 요구할 것’을 요청했다. &lt;br&gt;&lt;br&gt;손 감독은 작년 6월 이 문제가 불거지자 “마음의 상처를 받은 아이와 가족들께 깊은 사과의 뜻을 전한다”며 “제 모든 것을 걸고 맹세컨대 아카데미 지도자들의 행동에 있어서 아이들에 대한 사랑이 전제되지 않은 언행은 없었다”고 밝혔다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title> ‘님비’ 에 짓기 참 힘든 행복기숙사</title>
-      <link>https://www.chosun.com/national/education/2025/05/21/5B7RSXDPORC3BKMXG7XDYKVZRA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2025/05/21/5B7RSXDPORC3BKMXG7XDYKVZRA/</guid>
-      <dc:creator>표태준 기자, 오주비 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 20 May 2025 16:41:08 +0000</pubDate>
-      <content:encoded>지난 8일 오후 찾은 서울 광진구 화양초등학교. 학생들로 북적여야 할 학교가 고요했다. 자동차 17대만 텅 빈 운동장 한편을 채우고 있었다. 2023년 폐교한 화양초는 현재 주민들이 임시 주차장으로 쓴다. 아직 부지 활용 방안이 확정되지 않아 2년 넘게 방치된 것이다. &lt;br&gt;&lt;br&gt;정부는 화양초 터에 대학생들의 주거비 부담을 덜어줄 ‘행복 기숙사’ 건립을 추진하고 있다. 그런데 주민들 반발에 부딪혀 진전이 없다. 이날 만난 화양동 주민 최모(71)씨는 “이 동네 사람들은 대학생들한테 월세 조금씩 받으면서 먹고사는데 공공 기숙사를 지어버리면 어떡하느냐”면서 “작은 원룸 몇 개 갖고 있다고 세금은 엄청 내는데, 앞으로 월세가 내려가거나 임대 계약을 하기 힘들어질까 봐 걱정”이라고 말했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/S65EDUZGHJBOHJPAZ745EPCG4E.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=김현국&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘행복 기숙사’는 정부나 지자체, 대학이 터를 내주고 한국사학진흥재단이 건설 비용을 빌려주는 방식으로 세운다. 월세는 지역별로 다르지만 25만~30만원(관리비 포함) 정도다. 보증금도 없어 대학가 원룸을 구하는 것보다 훨씬 저렴하다. 현재 서울 11곳 등 전국에서 기숙사 42곳을 운영한다. &lt;br&gt;&lt;br&gt;지난해 서울시교육청과 광진구청, 한국사학진흥재단은 수차례 간담회를 열고 화양초 부지에 행복 기숙사를 짓는 방향으로 협의를 마쳤다. 화양초가 있는 광진구 일대엔 대학이 많은데 기숙사는 턱없이 부족하다. 지난해 수도권 지역 대학들의 기숙사 평균 수용률은 18%로 전국 평균(22.6%)보다 낮다. 화양초와 가까운 건국대는 재학생이 1만7000여 명인데 기숙사 수용 인원은 3300여 명(수용률 18.7%)에 불과하다. 작년에 기숙사 신청을 했지만 떨어진 이들이 1300여 명이나 된다. 인근 세종대와 한양대도 기숙사 수용률이 10%대 초반이다. 학생들은 할 수 없이 인근 원룸에 비싼 월세를 내고 거주하는 경우가 많다. 화양초가 있는 광진구는 수십 년 된 다가구 주택의 5평짜리 원룸도 보증금 500만원에 월세 52만원이다. &lt;br&gt;&lt;br&gt;이에 한국사학진흥재단은 인근 여러 대학 학생들이 이용할 수 있도록 화양초 부지에 600명 정도를 수용하는 기숙사 건립을 추진한 것이다. 그런데 주민 상당수가 기숙사 건립을 반기지 않고 있다. 사학진흥재단이 작년 말부터 주민들과 기숙사 건립 협의에 들어갔지만 별다른 진척이 없다. 화양동 주민자치회장은 “주민들 의견이 다양하지만 반대 목소리가 많이 나온다”며 “화양동에 임대 사업을 하는 주민이 많아서 그러는 것”이라고 했다. 임대 사업을 하지 않는 주민들도 대학생 기숙사보다는 주민들이 이용할 수 있는 스포츠센터나 도서관이 생기길 원한다. 사학진흥재단 관계자는 “기숙사에 주민들도 이용할 수 있는 도서관이나 운동 시설, 지하 주차장을 만드는 방안을 제시해 주민들을 설득하고 있다”고 말했다.&lt;br&gt;&lt;br&gt;광진구 사례뿐 아니라 행복 기숙사는 건립 때마다 주민 반대로 긴 세월을 끌었다. 서울 성북구의 동소문 행복 기숙사는 2015년 10월 교육부가 사업 계획을 승인했고 2016년 건축 허가를 신청했다. 그런데 주민 반대로 공사가 지체돼 재작년 5월에야 완공됐고 그해 8월에 학생을 처음 받았다. 사업 승인부터 개소까지 8년 걸린 셈이다.&lt;br&gt;&lt;br&gt;인천의 인하대도 기숙사 수용률(12.6%)이 낮아 지난해 교내에 행복 기숙사를 짓기로 결정했다. 그런데 주민들의 강력한 반대에 부딪혀 결국 기존 기숙사 3동 중 하나를 다른 용도로 사용하는 조건으로 행복 기숙사를 짓기로 했다. 있던 기숙사를 없애니 행복 기숙사를 지어도 수용률은 4.1%포인트밖에 높아지지 않는다. 인하대 측은 “행복 기숙사를 지으려면 대학이 지자체로부터 건축 허가를 받아야 하는데, 주민들과 합의되지 않으면 건축 허가가 잘 나오지 않는 문제가 있다”며 “좋은 시설에서 조금이라도 많은 학생이 생활할 수 있도록 기회를 주기 위해 아쉽지만 그렇게 결정했다”고 했다.&lt;br&gt;&lt;br&gt;&lt;b&gt;☞행복기숙사&lt;/b&gt;&lt;br&gt;&lt;br&gt;대학 기숙사 부족 문제를 해결하기 위해 정부가 도입한 제도. 정부·지자체·대학이 부지를 제공하고, 한국사학진흥재단이 건립 비용을 빌려주는 방식으로 세운다. 현재 서울 11곳, 그 외 지역에 31곳을 운영 중이다. 평균 월세가 25만~30만원 정도로 대학가 원룸의 절반 이하 수준이다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/3ZKHI6M5VJHPBA7ZAVBD6J3KZE.jpg?auth=a2737380425b31c990b97592e319f81aecd4d1add2ba4a7f7676d328248c93d4&amp;smart=true&amp;width=700&amp;height=525" type="image/jpeg" height="525" width="700">
-        <media:description type="plain">서울 동소문동 행복 기숙사 2인실. 침대와 책상, 옷장과 화장실을 갖췄다. /윤상진 기자</media:description>
-        <media:credit role="author" scheme="urn:ebu"/>
-      </media:content>
     </item>
     <item>
       <title>‘이재명·김건희 관련 의혹 수사’ 이창수 중앙지검장 사의</title>
