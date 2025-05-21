@@ -13,6 +13,24 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>“재개발 부지 취득 돕겠다“...‘알선수재’ 국토부 공무원, 징역 4년</title>
+      <link>https://www.chosun.com/national/regional/2025/05/21/KQYEIAH4MBCQHCF244OR3IV2MQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/05/21/KQYEIAH4MBCQHCF244OR3IV2MQ/</guid>
+      <dc:creator>대전=우정식 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 21 May 2025 04:58:42 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WOIPX7HDNFCOHOGTNKRO6EMBJA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원로고. /조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산항 북항 재개발 사업과 관련, 부지 취득을 도와주겠다며 부동산 개발업자로부터 수천만원대 금전적 이익을 받은 혐의로 기소된 국토교통부 공무원에게 실형이 선고됐다.&lt;br&gt;&lt;br&gt;부동산 개발업자에게 사업 시행을 대가로 수백억원을 받기로 약속한 혐의로 재판에 넘겨진 해양수산부 공무원과 부동산 개발업자는 무죄를 선고받았다.&lt;br&gt;&lt;br&gt;대전지법 형사12부(재판장 김병만)는 특정범죄 가중처벌 등에 관한 법률 위반(알선수재) 등 혐의로 기소된 국토부 공무원 A씨에게 징역 4년을 선고하고, 4595만원의 추징을 명령했다.&lt;br&gt;&lt;br&gt;A씨는 부산항 북항 재개발 업무를 맡는 해수부 공무원 B씨와의 친분을 이용, 재개발 사업 부지를 취득하도록 도와주겠다면서 활동비 명목으로 부동산 개발업자 C씨로부터 카드를 건네받아 사용하는 등 총 4595만원 상당의 금전적 이익을 받은 혐의로 기소됐다.&lt;br&gt;&lt;br&gt;재판부는 “알선수재 범행은 공무원 직무집행의 공정성과 사회 일반의 신뢰성을 해치고 시장 질서를 교란하는 중대 범죄”라며 “피고인은 청렴성과 도덕성을 유지해야 할 공무원 신분인데도 단순 알선을 넘어 사업 주체에 가까운 행위까지 나아가 상상하기 힘든 대범함을 보인 점 등에 비춰 죄책에 상응한 엄벌을 받아야 마땅하다”고 판시했다.&lt;br&gt;&lt;br&gt;재판부는 다만 A씨의 제3자뇌물취득·뇌물약속·뇌물수수·공무상비밀누설·수뢰후부정처사 혐의는 무죄로 봤다. 또 B씨와 C씨에 대해선 모두 무죄를 선고했다.&lt;br&gt;&lt;br&gt;검찰은 A씨가 “수의계약을 체결하려면 B씨에게 인사해야 하니 현금 3000만원을 마련해달라”며 C씨로부터 총 3200만원을 받은 것으로 봤다. B씨는 A씨와 공모해 수의계약이 체결돼 사업 시행이 이뤄지면 C씨에게서 약 1000억원 규모 영업 이익 가운데 20%를 받기로 약속한 혐의로 재판에 넘겨졌다. 3200만원을 A씨에게 건네고, 영업이익의 20%를 지급하기로 약속한 혐의를 받은 C씨는 제3자뇌물교부·뇌물공여약속 등 혐의로 기소됐다.&lt;br&gt;&lt;br&gt;이에 대해 재판부는 공소사실을 뒷받침할 객관적 물증이 충분하지 않다며 이들에게 무죄를 선고했다.&lt;br&gt;&lt;br&gt;재판부는 “공소사실을 뒷받침하는 증거의 유무는 C씨 진술의 신빙성에 달렸는데 진술 내용의 합리성, 객관적 상당성, 일관성 등을 살펴보면 진술의 신빙성을 인정할 수 없다”며 “검사는 이 사건 부지를 수의계약 방식으로 취득하는 것을 전제로 공소를 제기했으나. 전제한 사실이 합리적 의심을 배제할 정도로 증명됐다고 보긴 어렵다”고 밝혔다.&lt;br&gt;&lt;br&gt;이어 “A씨가 B씨를 통해 C씨에게 전달한 관련 사업 관련 문건도 언론보도에 대비해 미리 동향을 파악하는 정도의 자료인 점 등을 토대로 직무상 비밀에 해당하지는 않는다”며 “이 부분 공소사실은 범죄 증명이 없는 경우에 해당해 무죄를 선고한다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>도시개발사업 관련 62억원 뇌물수수 혐의…정하영 전 시장, 첫 재판서 “혐의 모두 부인”</title>
+      <link>https://www.chosun.com/national/court_law/2025/05/21/YDPIUSVZKBBBLHNRYX62AHIIME/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/05/21/YDPIUSVZKBBBLHNRYX62AHIIME/</guid>
+      <dc:creator>부천=이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 21 May 2025 04:09:25 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VA4DPCJGQR36DV5NJUISPYH2RM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;정하영 전 김포시장. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 김포 감정4지구 등 도시개발사업을 추진하면서 개발 업체로부터 수십억원의 뇌물을 받은 혐의를 받는 정하영(62) 전 김포시장이 21일 첫 재판에서 혐의를 전면 부인했다. &lt;br&gt;&lt;br&gt;인천지법 부천지원 형사1부(재판장 여현주)는 이날 특정범죄 가중처벌 등에 관한 법률상 뇌물 등 혐의로 기소된 정 전 시장과 이모(60) 전 김포시 정책자문관, 페이퍼컴퍼니 대표 A(52) 등 5명에 대한 첫 공판을 열었다. &lt;br&gt;&lt;br&gt;정 전 시장의 변호인은 재판에서 “피고인의 혐의는 크게 뇌물과 직권남용인데 전부 부인한다”고 했다. 다른 피고인 4명의 변호인들도 혐의를 전면 부인하거나 다음에 입장을 밝히겠다고 했다. &lt;br&gt;&lt;br&gt;정 전 시장 등에게 뇌물을 준 혐의(뇌물공여) 등으로 함께 기소된 개발업체 대표 B(64)씨 등 3명도 이날 재판에 출석해 혐의를 부인한다는 입장을 나타냈다. &lt;br&gt;&lt;br&gt;정 전시장은 생년월일과 주거지 등을 확인하는 인정심문에 담담한 목소리로 답했고, 직업은 ‘농업’이라고 했다. &lt;br&gt;&lt;br&gt;정 전 시장 등은 2019년 11월부터 2021년 6월까지 김포 감정 4지구와 풍무 7‧8지구 도시개발사업 등과 관련해 B씨 등으로부터 62억여원의 뇌물을 받은 혐의로 기소됐다. &lt;br&gt;&lt;br&gt;정 전 시장은 2021년 도시개발사업에 소극적이라는 이유로 당시 김포도시공사 사장에게 사직을 강요하고 김포시 공무원들이 하던 감정4지구 관련 출자 타당성 검증 업무를 중단시킨 혐의(직권남용권리행사방해)도 받고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>염정아, 화성시 두 번째 종합병원 승격 행사서 포착… 무슨 일</title>
       <link>https://www.chosun.com/national/national_general/2025/05/21/KEZSAPS7AZDTVEKIZBV7CUWFXY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/05/21/KEZSAPS7AZDTVEKIZBV7CUWFXY/</guid>
@@ -828,24 +846,6 @@
       <description/>
       <pubDate>Tue, 20 May 2025 02:38:26 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KQAKT5LRWOZ2YD4VJU7T7MC7QU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;웹툰 작가 주호민씨가 지난 13일 수원지법 청사 앞에서 취재진들에게 특수교사 A씨의 항소심 무죄 선고 결과에 대한 입장을 밝히고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰이 유명 웹툰 작가 주호민씨의 자폐 아들을 정서적으로 학대한 혐의를 받는 특수교사가 항소심(2심)서 무죄를 선고받자 이에 불복해 상고했다.&lt;br&gt;&lt;br&gt;20일 법조계에 따르면 검찰은 지난 19일 법원에 상고장을 냈다. 지난 13일 선고 후 엿새 만이다. 이 사건은 대법원의 판단을 받게 됐다.&lt;br&gt;&lt;br&gt;이 사건은 지난 2022년 9월 당시 9살이던 주씨의 아들이 다니던 경기도 용인의 한 초등학교 특수 학급 교실에서 벌어졌다. 평소와 달리 주씨의 아들이 불안 증세 등을 보이자, 주씨 아내가 아들의 외투에 녹음기를 넣어 학교에 보냈다.&lt;br&gt;&lt;br&gt;녹음기에는 특수교사 A씨가 주씨 아들에게 “버릇이 고약하다. 너를 얘기하는 거야” “아유 싫어. 싫어 죽겠어. 너 싫다고. 정말 싫어” 등으로 말한 내용이 담겼다. 이후 주씨가 교사를 아동 학대 혐의로 고소했고, 같은해 12월 검찰이 교사를 기소했다.&lt;br&gt;&lt;br&gt;이 사건은 대법원의 ‘몰래 녹음은 증거로 쓸 수 없다’는 판결에 따라 교사 몰래 한 녹음이 증거로 쓰일 수 있는 지가 쟁점이 됐다.&lt;br&gt;&lt;br&gt;작년 2월 1심 재판부는 “정당한 행위에 해당한다”며 증거 능력을 인정하고, 벌금 200만원의 선고 유예판결을 내렸다. 선고 유예는 유죄가 인정되지만 정상을 참작해 형을 선고하지 않고 이후 일정 기간 다른 범죄를 저지르지 않으면 처벌을 면하게 하는 것이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CVNMIXXDFFNHJX3C5PSLOVKXHI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;유명 웹툰 작가 주호민씨의 자폐 아들을 학대한 혐의로 1심에서 벌금 200만원 선고유예를 받은 특수교사 A씨(가운데). 사진은 지난해 2월 6일 오전 경기 수원시 영통구 수원지방법원에서 기자회견을 마치고 인사를 하고 있는 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그러나 2심 재판부인 수원지법 형사항소 6-2부(재판장 김은정)는 지난 13일 이같은 1심 판결을 파기하고, A씨에게 무죄를 선고했다. 2심 재판부는 “몰래 녹음한 녹취 파일과 녹취록 등의 증거능력을 인정할 수가 없다”며 “범죄 사실의 증명이 없는 때에 해당한다”고 했다.&lt;br&gt;&lt;br&gt;재판부는 “피해 아동 모친이 녹음기를 (피해 아동의 옷에)넣어 녹음한 파일과 이에 따른 녹취록은 통신비밀보호법에 따라 ‘공개되지 않은 대화’에 해당한다고 판단된다”며 “검찰은 피해 아동이 모친의 도움을 받아 대화를 녹음한 것으로 보는 게 타당하다고 주장하지만, (피해 아동과 모친이) 엄격히 별개의 인격체인 이상 모친의 녹음 행위를 피해 아동의 녹음과 동일한 것으로 평가하긴 어렵다”고 했다.&lt;br&gt;&lt;br&gt;재판부는 주씨의 아내가 아들에게 녹음기를 넣어 학교에 보낸 것은 위법성 조각(阻却) 사유(위법이 아니라고 인정할 만한 특별한 이유)에 해당하지 않는다고도 판단했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>경찰 지방의회 출장비 부풀리기 의혹 수사…대구시의회 등 6곳 압수수색</title>
-      <link>https://www.chosun.com/national/regional/2025/05/20/MVSYTSCAHJAI5MRGQGZORXUVHU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/05/20/MVSYTSCAHJAI5MRGQGZORXUVHU/</guid>
-      <dc:creator>대구=노인호 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 20 May 2025 02:35:40 +0000</pubDate>
-      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NXNGPTXFLB5T5BNFGGMQDLWIBY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대구경찰청 전경./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰이 대구지역 광역·기초의회가 소속 의원 국외 출장비를 부풀려 집행했다는 의혹을 확인하기 위해 20일 해당 의회에 대해 압수수색에 나섰다.&lt;br&gt;&lt;br&gt;대구경찰청 반부패·경제범죄수사대는 이날 오전 9시부터 대구시의회와 동·서·북·달서구의회와 군위군의회 등 6곳에 대한 압수수색을 진행했다. 경찰은 이날 압수수색을 통해 지난 3년간 집행된 의원 국외 출장비 자료 등을 확보해 국외 출장비를 실제보다 부풀려 집행된 사례가 있는지 등을 확인할 방침이다. &lt;br&gt;&lt;br&gt;대구시의회 관계자는 “특정 의원 사무실을 압수수색하지는 않았다“고 말했다. &lt;br&gt;&lt;br&gt;앞서 올해 초 국민권익위원회는 2022년 1월부터 지난해 5월까지 3년간 지방의회가 주관한 지방의회 의원 국외 출장 915건을 점검한 결과, 항공권을 위변조해 실제보다 경비를 부풀린 사례 수백건 확인해 전국 관할 경찰청 등에 수사를 의뢰했다.&lt;br&gt;&lt;br&gt;경찰 관계자는 ”국민권익위원회로부터 수사 의뢰를 받아 진행하고 있으며 구체적인 내용은 수사중이라고 밝히기 어렵다”고 말했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>권익위 “터널 사고 방지 위해 구간 단속 늘려라” 권고</title>
-      <link>https://www.chosun.com/politics/goverment/2025/05/20/FY4TKPNP5RCJPDW3PBGTZIG7L4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/politics/goverment/2025/05/20/FY4TKPNP5RCJPDW3PBGTZIG7L4/</guid>
-      <dc:creator>김경필 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 20 May 2025 02:07:03 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BYOOF4G7AJNQND4XKNE4PMO72E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 19일 오전 10시 6분쯤 전북 완주군 완주∼순천고속도로 상행선 용암4터널에서 수학여행을 떠난 중학생들이 탄 버스와 트레일러 등 차량 4대가 잇따라 추돌해 사고 수습이 진행되고 있다. 이 사고로 교사, 학생 등 버스 탑승자 3명과 트레일러 운전자 등 4명이 다쳤다. /전북특별자치도 소방본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국민권익위원회가 터널 내 교통사고를 줄이기 위해 터널을 밝게 유지하고, 터널을 포함한 구간에 대한 과속 단속을 확대하라고 20일 국토교통부와 경찰청에 권고했다.&lt;br&gt;&lt;br&gt;권익위가 이날 공개한 ‘도로 터널 운행 환경 개선 방안’에 따르면, 건설 기술의 발달로 터널이 늘어나고 터널 하나하나의 길이도 길어지면서 터널 내 안전에 대한 국민의 우려가 커지고 있다. 지난해 7월 기준 전국 도로 터널은 3809개로 전체 길이가 2541㎞에 달하고, 이 가운데 길이 3㎞ 이상 터널이 78곳, 5㎞ 이상 터널이 11곳이다. 이런 터널에서 교통사고가 일어나면 100건당 3.3명이 숨지는 것으로 나타났다. 전체 교통사고 치사율(100건당 1.4명 사망)의 2.35배다. 권익위가 지난해 12월 여론 수렴 온라인 사이트인 ‘국민생각함’을 통해 조사해 보니, 응답자 69%(2665명)가 터널 내 운전 시 어려움을 겪었다고 답했다.&lt;br&gt;&lt;br&gt;권익위가 지난 1월부터 3월까지 전체 터널 중 1284곳을 조사해 보니, 악천후 시 미끄럼 사고를 막을 수 있는 염수 분사 시설이나 열선 시설이 설치된 터널은 1㎞ 이상 터널 369곳 가운데 127곳(34.4%)에 불과했다. 또 터널 내 조명 시설과 벽면이 오염돼 있어 운전자의 시야를 방해하는 경우가 많은 것으로 나타났다.&lt;br&gt;&lt;br&gt;이와 관련해 권익위는 국토부와 경찰청에 터널 내 조명 기구의 사용 가능 연수를 정해 오래된 조명 기구는 교체하고, 터널을 연 2회 이상 청소해 터널 내 밝기가 일정 수준 이상으로 유지되도록 하라고 권고했다. 또 일정 규모 이상의 터널 진출·입구에 염수 분사 시설이나 열선 시설을 만들도록 관련 지침을 정비하라고 권고했다.&lt;br&gt;&lt;br&gt;권익위는 또 경찰이 길이 300m 이상 터널 1284곳 가운데 196곳(15.3%)에서만 구간 단속을 시행하고 있다는 것을 확인하고, 경찰에 구간 단속을 확대해 터널 내 과속을 방지하라고 권고했다. 국토부에는 터널 내 졸음 운전을 방지하되 운전을 지나치게 방해하지 않도록 경고음의 종류와 음량을 표준화하라고 권고했다. 또 전기차 화재에 대응할 수 있도록 터널 내에 질식 소화포를 비치하고, 화재 발생 시 비상 방송도 표준화하라고 했다.&lt;br&gt;&lt;br&gt;권익위 박종민 부위원장 겸 사무처장은 “이번 도로 터널 운행 환경 개선 방안 제도 개선을 통해 도로 시설물에 대한 안전 관리가 강화되고 사고 대응 체계가 정비돼 운전자 안전을 제고할 수 있을 것으로 기대한다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>서해 피살 유족, 지귀연 부장판사에 “흔들리지 마라” 호소문</title>
