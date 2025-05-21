@@ -13,6 +13,114 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>“구속적부심 청구 이유 없어”...법원, 신도 성추행 혐의 허경영 구속 유지</title>
+      <link>https://www.chosun.com/national/incident/2025/05/21/X7SZPDB5PZGXHHUGUH762F7VV4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/05/21/X7SZPDB5PZGXHHUGUH762F7VV4/</guid>
+      <dc:creator>이승규 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 21 May 2025 14:05:35 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LKXTE4VCQMI2FOHRGFVLQYY2HE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;신도 성추행과 사기 등 혐의를 받는 허경영 국가혁명당 명예대표가 지난 16일 오후 경기 의정부시 의정부지방법원에서 열린 영장실질심사에 출석하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;신도들을 추행한 혐의 등으로 구속 중인 허경영 국가혁명당 명예대표가 법원에 자신에 대한 구속 영장 발부가 적법한지를 다시 심사해달라고 요구했으나 받아들여지지 않았다.&lt;br&gt;&lt;br&gt;의정부지법은 21일 오후 허씨 측이 청구한 구속적부심에 대해 “청구 이유가 없다고 판단된다”며 이를 기각했다. 구속적부심은 구속된 피의자가 구속의 적법성과 필요성이 있는지 법원에 다시 한번 판단을 구하는 제도다.&lt;br&gt;&lt;br&gt;허씨는 경기 가평군의 종교시설 하늘궁에서 신도들에게 영성 상품을 시중 가격보다 비싸게 판매하고, 상담을 빌미로 여신도들을 추행하는 등 사기 및 준강제추행 등 혐의로 지난 16일 구속됐다. &lt;br&gt;&lt;br&gt;허씨는 지난 2007년 17대 대선에 출마한 박근혜 당시 한나라당 대선 후보와 자신이 결혼을 약속했다는 허위 사실을 유포한 혐의로도 구속된 바 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>韓·日 공항 4곳에 ‘전용 입국심사대’ 운영</title>
+      <link>https://www.chosun.com/national/court_law/2025/05/21/XIZWKITUS5CLDAM3RHP3G5CDTA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/05/21/XIZWKITUS5CLDAM3RHP3G5CDTA/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 21 May 2025 12:12:57 +0000</pubDate>
+      <content:encoded>국교 정상화 60주년을 맞은 한국과 일본 정부가 6월 한 달 동안 양국 국민이 이용할 수 있는 전용 입국 심사대를 운영한다고 21일 밝혔다. 양국 정부가 특정 국가 국민을 상대로 ‘패스트 트랙’ 심사대를 설치하는 것은 이번이 처음이다.&lt;br&gt;&lt;br&gt;전용 입국 심사대는 우리 국민이 하네다(도쿄)공항 제3터미널, 후쿠오카공항으로 일본을 방문할 경우 이용할 수 있다. 우리나라에서는 김포‧김해공항 두 곳에 일본인 전용 입국 심사대를 설치하기로 했다. 이용 대상은 최근 1년간 한 차례 이상 상대 국가를 방문한 단기 체류자로, 양국에 입국할 때 심사 줄을 서지 않고 빠르게 심사를 받을 수 있게 된다. 다만 이용 시간은 오전 9시부터 오후 4시 사이 도착하는 비행기로 한정했다.&lt;br&gt;&lt;br&gt;우리 국민은 출국 전 ‘Visit Japan Web(vjw-lp.digital.go.jp/ko)’에서 사전 등록을 해야 전용 입국 심사대를 통과할 수 있고, 일본인도 미리 전자 입국 신고를 해야 한다. 후쿠오카‧김해공항은 항공사와 상관없이 전용 입국 심사대를 통과할 수 있지만, 하네다공항과 김포공항은 대한항공, 아시아나항공, 일본항공, ANA(전일본공수) 등 4개 항공사 비행기를 이용했을 때만 전용 입국 심사대를 이용할 수 있다.&lt;br&gt;&lt;br&gt;이번 전용 입국 심사대 운영은 한‧일 국교 정상화 60주년이 계기가 됐다. 양국 정부는 작년 12월 60주년 기념 로고와 슬로건 선정을 시작으로, 올 2월 남산서울타워‧도쿄타워 동시 점등 행사를 여는 등 공동 행사를 추진해오고 있다. 법무부 관계자는 “한일 인적 교류를 활성화하는 계기가 될 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[단독] “金여사 비서, 건진법사에 샤넬백 1개 아닌 2개 받았다” </title>
+      <link>https://www.chosun.com/national/national_general/2025/05/21/KQ6YBJXOBNBM3APTMYONXMQ22A/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/05/21/KQ6YBJXOBNBM3APTMYONXMQ22A/</guid>
+      <dc:creator>고유찬 기자, 김승재 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 21 May 2025 12:51:54 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/K5U5JF6IBEMN77VULRH7RGLAQA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령의 배우자 김건희 여사/뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;무속인 ‘건진 법사’ 전성배(65)씨가 통일교(현재 세계평화통일가정연합) ‘2인자’였던 윤모 전 본부장에게 받았던 샤넬백이 당초 알려졌던 1개가 아니라 2개인 것으로 검찰 수사 결과 드러났다. 전씨는 1000만원대 샤넬백 2개를 윤석열 전 대통령 부인 김건희 여사의 최측근 수행비서인 유경옥 전 대통령실 행정관에게 건넸고, 유 전 행정관은 2개 모두 추가 금액을 지불하고 다른 제품으로 교환한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;21일 본지 취재를 종합하면, 서울남부지검 가상자산범죄합동수사부(부장 박건욱)는 최근 샤넬코리아와 유씨 자택 등을 잇따라 압수 수색해 전씨로부터 2번에 걸쳐 샤넬백을 받은 기록을 확보했다. 검찰이 고객 구입·교환 이력을 분석해보니 유씨는 샤넬 매장을 방문해 2개 가방 모두 추가로 금액을 지불한 뒤 다른 제품들로 교환해간 것으로 전해졌다. 다만 검찰은 백 실물은 아직 확보하지 못했다.&lt;br&gt;&lt;br&gt;한편 이날 김용태 국민의힘 비상대책위원장은 김 여사와 관련된 각종 논란에 대해 “국민의힘은 김 여사의 과거 행위에 대한 국민의 우려를 헤아리지 못한 점에 대해 국민 앞에 정중히 사과드린다”며 “국민의힘은 이 문제를 깊이 반성하며 근본적으로 변화하겠다는 다짐을 드린다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘中간첩 99명’ 스카이데일리 기자 구속영장 기각...“증거 상당 부분 확보”</title>
+      <link>https://www.chosun.com/national/court_law/2025/05/21/G5ULCAO7R5F7DNCXEN765T56XA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/05/21/G5ULCAO7R5F7DNCXEN765T56XA/</guid>
+      <dc:creator>박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 21 May 2025 12:46:54 +0000</pubDate>
+      <content:encoded>작년 12월 3일 비상계엄 선포 당일 계엄군이 중앙선거관리위원회 선거연수원에서 중국인 간첩 99명을 체포했다고 보도한 스카이데일리 기자 허모씨가 구속을 면했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IRQP7UFC4RLHTDQHRJDLXOIBUI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt; '스카이데일리' 기자가 21일 오전 서울 서초구 서울중앙지방법원에서 '중국간첩 체포 보도 사건'과 관련 구속 전 피의자 심문(영장실질심사)를 마친 후 이동하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지법 이정재 영장전담 부장판사는 21일 위계에 의한 공무집행방해·명예훼손 혐의를 받는 허씨에 대한 영장실질심사를 진행한 뒤 구속 영장을 기각했다.&lt;br&gt;&lt;br&gt;이 부장판사는 “범죄 혐의에 대해 법리적 다툼이 있고 강제 수사 등을 통해 물리적 증거자료는 상당 부분 수집됐다”고 설명했다.&lt;br&gt;&lt;br&gt;이어 “허씨도 수사기관에 3회 출석해 조사를 마쳤으며 관련자들의 진술도 대부분 이뤄져 인적 증거자료 역시 상당 부분 수집된 점 등 현재까지 수사 진행 상황을 살펴보고 피의자의 연령·가족 관계·직업 등 사회적 유대관계, 범죄 전력 등을 종합하면 현 단계에서 구속해야 할 필요성 내지 상당성을 인정하기 어렵다”고 영장 기각 사유를 밝혔다.&lt;br&gt;&lt;br&gt;허씨는 허위 기사를 유포해 선관위의 공무 집행을 방해한 혐의 등을 받고 있다. 허씨는 지난 1월 16일 ‘비상계엄 당일 경기도 수원시 소재 선거연수원에 있던 중국인 99명이 주일 미군 기지로 압송됐고, 검거된 이들은 미군 측에 인계돼 평택항을 거쳐 일본 오키나와 미군 기지로 이송됐다’고 보도했다. 이 기사가 보도된 직후 주한 미군과 선관위는 “근거 없는 이야기”라며 반박했다. &lt;br&gt;&lt;br&gt;스카이데일리는 “기사는 미국 소식통을 통해 확인한 엄연한 사실”이라고 했지만, 이 소식통은 미국 영화 ‘캡틴 아메리카’ 복장으로 주한 중국 대사관에 진입하려다 지난달 구속 기소된 안모씨로 드러났다. 안씨는 자신이 미국 CIA의 블랙 요원이라고 주장했지만, 사실 그는 한국군 병장 출신으로 미국에 가본 적도 없는 것으로 밝혀졌다. 안씨는 미군 신분증 위조, 건조물 침입 미수 등 혐의로 재판을 받고 있다. &lt;br&gt;&lt;br&gt;선관위는 지난 1월 20일 허씨와 스카이데일리 대표에 대한 수사를 경찰에 의뢰했다. 경찰은 해당 기사 내용이 허위라고 보고 이들을 출국 금지 조치한 뒤 본사를 압수수색하는 등 조사를 진행 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>中·홍콩·태국 코로나 확산... 한국도 여름이 위험한 3가지 징후</title>
+      <link>https://www.chosun.com/national/welfare-medical/2025/05/21/SMIBDZKAM5CDHKWLQ2KBBSJXTA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/05/21/SMIBDZKAM5CDHKWLQ2KBBSJXTA/</guid>
+      <dc:creator>오경묵 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 21 May 2025 11:41:40 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6ISUQTFQMJMNHKR6MRN7PR77UM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 20일 태국 수도 방콕에서 마스크를 쓴 시민들이 거리를 걷고 있다. 태국은 지난주 코로나 환자가 3만3000여 명으로 전 주의 2배 이상으로 늘었다. 최근 중국, 홍콩, 대만에서도 코로나 환자가 증가했다./EPA 연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;중국·홍콩·대만 등 중화권과 태국에서 코로나 바이러스 감염증이 급속히 번지고 있다. 국내에서는 아직 코로나 확산세가 나타나지 않았지만, 감염병 전문가들은 “7~8월이 되면 재유행할 수 있다”고 전망했다.&lt;br&gt;&lt;br&gt;21일 사우스차이나모닝포스트(SCMP) 등에 따르면 홍콩에서는 최근 4주간 30명이 코로나로 사망한 것으로 집계됐다. 이 기간 성인 중증 환자 81명 가운데 40% 가까이 숨진 것이다. 어린이에게도 코로나가 번지고 있다. 마이크 콴 홍콩 공립 병원 소아감염병 과장은 “지금 병동은 코로나 백신을 맞지 않은 어린 환자로 가득하다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HQSVRRMRZNB67DEDVEOSRDXWB4.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=양진경&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;중국 본토에서도 코로나가 확산하고 있다. 중국 질병통제예방센터에 따르면, 지난 4~10일 인플루엔자 등 호흡기 질환이 의심되는 환자 중 코로나 판정을 받은 비율이 16.2%였다. 3월 말 7.5%에서 2배 이상으로 올라갔다. 5월 초 노동절 연휴 기간 이동과 접촉이 늘어 코로나 전파가 빨라졌다는 분석이 나온다. &lt;br&gt;&lt;br&gt;시안교통대 제2 부속병원 감염내과 탕솽쑤이 주임의사는 “지난 2주간 새로운 코로나 환자가 이전보다 거의 2배 증가했다”고 했다. 중국의 코로나 전문가들은 이번 유행이 6월 말까지 이어질 것으로 전망한다.&lt;br&gt;&lt;br&gt;대만에서도 코로나 환자가 늘고 있다. 대만 언론에 따르면 대만 보건 당국은 지난주(11~17일) 코로나로 인한 응급 진료 환자가 1만9097명으로 전주(9978명) 대비 2배 가까이로 증가했다고 밝혔다. 지난해 여름 유행 당시 생긴 면역력이 시간이 지나며 떨어져 환자가 늘어난다는 게 현지 보건 당국의 분석이다.&lt;br&gt;&lt;br&gt;동남아 곳곳에서도 코로나 확산세가 심상치 않다. 태국에서는 지난주 새 확진자가 3만3030명으로 전주(1만6000명)의 2배 이상으로 증가했다. 우리나라 관광객이 많은 수도 방콕에서만 6290명이 나왔다. &lt;br&gt;&lt;br&gt;싱가포르에서도 지난달 27일부터 이달 3일까지 한 주 동안 1만4200명이 코로나에 감염됐다. 전주(1만1000명)보다 3000명 이상 늘었다. &lt;br&gt;&lt;br&gt;국내에서는 아직 코로나 유행이 나타나지 않고 있다. 질병관리청에 따르면, 지난 4~10일 코로나 입원 환자는 146명으로 전주(115명)보다 조금 늘었지만 지난달 13~19일(174명)에 비해서는 적다. &lt;br&gt;&lt;br&gt;하지만 우리와 교류가 많은 중국·대만·태국 등에서 코로나가 확산하자 국내에서도 코로나가 유행할 수 있다는 우려가 나온다. 이재갑 한림대 의대 감염내과 교수는 “코로나 유행 상황은 주변 국가와 동조되기 때문에, 국내에서도 다음 달 이후 환자가 늘어날 수 있다”고 했다. &lt;br&gt;&lt;br&gt;갑자기 무더워진 날씨도 변수다. 에어컨을 틀어 실내 환기가 줄어들면 바이러스 확산에 영향을 미칠 수 있다. 또 지난해 백신을 맞았더라도 시간이 지나면서 면역력이 떨어진다. 질병청은 지난해 10월 65세 이상 등 고위험군을 대상으로 2024~25절기 코로나 백신 접종을 시작했는데, 지난 13일 기준 접종률은 47.4%다. 질병청은 당초 지난달 30일까지로 예정한 백신 접종 기간을 다음 달 30일까지 연장했다. 질병청 관계자는 “고위험군은 얼른 백신을 맞아야 한다”고 했다.&lt;br&gt;&lt;br&gt;통상 호흡기 바이러스는 춥고 건조할수록 쉽게 확산하지만, 최근 코로나는 백신 면역 지속 기간 등에 따라 유행 주기가 여름철에 겹쳤다. 지난해 여름 코로나 유행에 이은 올해 유행 주기도 조만간 시작되는 것 아니냐는 전망이 나온다. 정재훈 고려대 예방의학과 교수는 “2022년 3월 오미크론 유행 후 4~5개월이었던 코로나 유행 주기가 9~10개월로 점차 길어지고 있다”며 “지난해 코로나 유행이 8월 말 정점을 찍은 점을 감안하면 올해는 7월 초에 코로나가 재차 유행할 수 있다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>자고 일어나니 여름... 전국이 아침부터 동남아처럼 후텁지근</title>
+      <link>https://www.chosun.com/national/transport-environment/2025/05/21/L47IH2NBBZEXFK4S6OEZRFAVQI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/05/21/L47IH2NBBZEXFK4S6OEZRFAVQI/</guid>
+      <dc:creator>박상현 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 21 May 2025 12:18:20 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZDYGYPNXEFFPLMWAKCOXQUVC3I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;여름 기운이 돌기 시작하는 절기 ‘소만’인 21일 무더운 날씨가 이어진 가운데 서울 종로구 광화문 광장에서 아이들이 물장구를 치며 더위를 식히고 있다. /장경식 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;자고 일어나니 여름이 됐다. 뜨겁고 축축해 ‘여름바람’으로 불리는 남풍(南風)이 우리나라로 불어오며 21일 서울이 역대 가장 더운 아침을 보냈다. 동남아에 온 듯 후텁지근한 날씨는 22일에도 이어질 전망이다.&lt;br&gt;&lt;br&gt;기상청에 따르면, 일본 동쪽 해상에 자리한 고기압의 영향으로 밤사이 남풍이 들어오면서 21일 수도권과 영남을 중심으로 무더운 아침을 보냈다. 이날 서울은 일 최저기온이 23도를 기록하며 서울에서 기상 관측을 시작한 1907년 이후 가장 더운 5월의 아침을 맞았다. 종전 최고치인 21.8도(2018년 5월 16일)를 1.2도 웃돈 기록이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/M5T35E7ZFZCBVHNR2VX3BFQDEA.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=양진경&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천도 일 최저기온이 20.7도를 기록해 인천에서 기상 관측을 시작한 1904년 이후 5월 최저기온으로는 가장 높았다. 울진(일 최저기온 23.4도), 울릉도(23.3도), 영덕(22도), 원주(21.8도), 경주(21.8도) 등도 5월 일 최저기온 최고치 기록이 이날 바뀌었다. 경기 동두천(21.1도), 이천(20.8도), 강화(20.2도), 파주(20.1도), 강원 태백(19.9도), 홍천(19.5도), 철원(19.3도), 인제(18.9도), 대관령(18.1도) 등도 최고치 기록을 다시 썼다. &lt;br&gt;&lt;br&gt;우리나라는 봄(3~5월)에 주풍(主風)이 북풍에서 서풍, 그리고 남풍으로 변해간다. 한랭 건조한 북풍은 ‘겨울바람’, 온난 건조한 서풍은 ‘봄바람’, 고온 다습한 남풍은 ‘여름바람’으로 불린다. 남풍은 온도와 습도를 동시에 높인다. 서울의 경우 북풍 영향권에 있던 지난 19일 낮 최고기온은 20.9도, 평균 상대습도는 70.4%를 기록했다. 그런데 남풍이 불기 시작한 20일에는 최고 27.3도, 습도는 85.5%로 높아졌다. 21일도 서울이 최고 30.8도를 기록하며 무더웠다. 5월 들어 자주 내린 비로 이미 땅이 젖어 있어 피부로 느끼는 꿉꿉함은 더 심해졌다.&lt;br&gt;&lt;br&gt;무더위는 22일 아침까지 이어지다가 이날 밤부터 북서쪽에서 찬 공기가 들어오면서 차차 해소될 것으로 보인다. 22일 전국 기온은 최저 13~21도, 최고 17~28도의 분포를 보일 것으로 예보됐다. 23일에는 최저 11~17도, 최고 17~24도로 더위가 한풀 꺾이겠다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>8월부터 서울 지하철 첫차·막차 30분씩 앞당긴다</title>
+      <link>https://www.chosun.com/national/national_general/2025/05/21/2CTDXMZH4VBBJPL3ENBZYEPT7I/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/05/21/2CTDXMZH4VBBJPL3ENBZYEPT7I/</guid>
+      <dc:creator>박진성 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 21 May 2025 12:09:40 +0000</pubDate>
+      <content:encoded>서울시가 오는 8월부터 지하철 첫차와 막차 시각을 각각 30분씩 앞당긴다고 21일 밝혔다. 첫차 시각은 오전 5시 30분에서 5시로, 막차 시각은 오전 1시에서 밤 12시 30분으로 변경된다.&lt;br&gt;&lt;br&gt;서울시 관계자는 “청소부, 경비원 등 아침 일찍 출근하는 시민들의 편의를 위해 지하철을 30분 일찍 운행하기로 했다”고 말했다. 서울시가 지난 3월 지하철 승객 데이터를 분석한 결과, 오전 5시 30분~6시에는 평균 7만3647명이 지하철을 탄 반면, 밤 12시 30분~오전 1시에는 평균 6986명이 탄 것으로 나타났다.&lt;br&gt;&lt;br&gt;첫차·막차 시각이 변경되는 노선은 서울교통공사가 운영하는 서울 지하철 1~8호선이다. 서울시 관계자는 “코레일 등과 협의해 수도권으로 확대해 나갈 계획”이라고 했다.&lt;br&gt;&lt;br&gt;서울시는 작년 11월부터 경비원, 청소부 등이 많이 타는 도봉산역~영등포역 구간에 새벽 버스(A160번)를 운행하고 있다. 기존 시내버스보다 30분 이른 오전 3시 30분에 출발한다. &lt;br&gt;&lt;br&gt;서울시 관계자는 “새벽 버스 승객이 개통 6개월 만에 1만명을 넘었다”며 “광화문, 마포, 여의도 등 빌딩으로 출근하는 청소부, 경비원 등 시민들이 많이 탄다”고 했다. 서울시는 올 하반기 새벽 버스 노선 3개를 추가로 개통할 예정이다.&lt;br&gt;&lt;br&gt;한편, 서울시는 최근 “시 보조금을 올려주지 않으면 버스 운행을 중단하겠다”고 밝힌 서울 마을버스 운송사업조합에 대해 ‘강경 대응’에 나섰다.&lt;br&gt;&lt;br&gt;서울시는 지난 20일 서울 전체 구(區)에 “마을버스 회사가 운행을 중단하면 즉시 과징금을 부과하는 등 행정조치를 내려달라”는 내용의 공문을 보냈다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>국보법 위반 42년만에 무죄... 재판장 “선배 법관들 대신 사과”</title>
+      <link>https://www.chosun.com/national/court_law/2025/05/21/JEKXHIULBBGTVCGUFFIJNM6LKQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/05/21/JEKXHIULBBGTVCGUFFIJNM6LKQ/</guid>
+      <dc:creator>김나영 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 21 May 2025 12:06:32 +0000</pubDate>
+      <content:encoded>“피고인은 오랫동안 구속되고 고문당하면서도 허위 자백을 법원에서 인정받을 수 있었을 거라고 희망을 가졌을 것입니다. 그럼에도 어느 심급에서도 단 한 번 피고인의 호소에 귀 기울여주지 않았습니다. 선배 법관들의 잘못에 대해 대신 사과드립니다.”&lt;br&gt;&lt;br&gt;21일 서울고등법원 형사4-2부 권혁중 부장판사는 이같이 말문을 열었다. 42년 전 국가보안법과 반공법 위반 혐의로 기소돼 징역 5년을 선고받았던 김동현(68)씨의 재심 선고 직전이었다. 재판장이 “무죄를 선고한다”고 하자, 김씨는 손수건을 꺼내 연신 눈물을 훔쳤다. 42년 만에 판결이 바로잡힌 것이다.&lt;br&gt;&lt;br&gt;1980년 대학생이던 김씨는 5·18 광주 민주화 운동이 일어나자 자작 시집을 내는 등 민주화 운동에 가담했다. 이후 1982년 4월 망명을 결심하고 스웨덴으로 출국했다. 김씨는 약 한 달 만에 귀국해 곧장 체포됐고, 지하실에 40일간 불법 감금돼 가혹 행위를 당했다. 김씨는 1심에서 징역 10년과 자격정지 10년을, 2심에서 징역 5년과 자격정지 5년을 선고받았고, 1983년 대법원에서 확정됐다.&lt;br&gt;&lt;br&gt;작년 1월 김씨는 재심을 청구했다. 이날 재판부는 “당시 피고인은 안기부에 불법 구금돼 심리적 위축 상태였다”며 “피고인으로서는 다시 불려 가 고문당하지 않을까 하는 두려움 때문에 허위 자백했을 가능성이 상당하다”고 봤다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“겁주려 그랬다”...동탄서 시민들 상대로 흉기 난동 일으킨 40대 남성 구속</title>
+      <link>https://www.chosun.com/national/incident/2025/05/21/YQNOTDD24BHIJJXRGWSEGGEZHU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/05/21/YQNOTDD24BHIJJXRGWSEGGEZHU/</guid>
+      <dc:creator>이승규 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 21 May 2025 11:27:08 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RCS5IBMZENAZSL4HUDEMQG7QJI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고 ⓒ News1 신채린 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 화성시의 동탄호수공원에서 시민들을 상대로 흉기 난동을 벌인 중국 국적 40대 남성이 구속됐다.&lt;br&gt;&lt;br&gt;수원지법 이성율 영장전담 부장판사는 21일 살인미수 혐의로 40대 남성 A씨에 대한 구속 영장 실질 심사에서 “(A씨가)도주 및 증거 인멸 우려가 있다”며 구속 영장을 발부했다.&lt;br&gt;&lt;br&gt;A씨는 지난 19일 오전 4시 3분쯤 동탄호수공원 인근 상가의 주점에서 술을 마시던 20대 남성과 여성 등 5명을 흉기로 위협한 혐의를 받고 있다. A씨는 당시 만취 상태였고 흉기 3자루를 갖고 있던 것으로 파악됐다.&lt;br&gt;&lt;br&gt;흉기를 들고 달려오는 A씨를 발견한 피해자들이 재빨리 달아나면서 별다른 부상자는 발생하지 않았다. 다만 A씨는 도망치던 피해자 중 남성 B씨가 인근 주점으로 피신하자 흉기를 든 채 B씨를 따라갔고, 두 사람이 출입문을 사이에 두고 실랑이를 벌인 것으로 전해졌다. 결국 B씨가 문을 붙잡고 버티자 A씨는 또다른 일행을 뒤쫓다가 도주했다. A씨는 “사람들이 너무 시끄러워 겁을 주려고 했으며 살해 의도는 없었다”며 “직업이 식당 주방장이라 일할 때 쓰던 흉기를 범행에 썼다”고 주장했다.&lt;br&gt;&lt;br&gt;경찰은 조만간 A씨를 검찰에 송치할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>어린 여섯 동생 키워낸 부부...창원서 세계부부의날 기념식 </title>
+      <link>https://www.chosun.com/national/2025/05/21/CJYIE5BZXZDW3EYLA4XA7NUXWE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2025/05/21/CJYIE5BZXZDW3EYLA4XA7NUXWE/</guid>
+      <dc:creator>창원=김준호 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 21 May 2025 11:10:13 +0000</pubDate>
+      <content:encoded>21일 세계 부부의 날을 맞아 세계부부의날위원회는 경남 창원시에서 기념식을 열고 부부 19쌍과 지자체 1곳에 올해의 모범 부부상을 수여했다. 대상에는 교통사고로 부모를 잃은 뒤 여섯 명의 동생을 헌신적으로 키워낸 박원제(56)·우정민(54) 부부가 선정됐다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PKTTBX6S6BGABMKTO3D3CIDVG4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;21일 세계부부의날위원회는 창원 그랜드 머큐어 앰배서더 호텔에서 ‘2025 세계부부의날 기념식’을 열고, 부부 19쌍·지자체 1곳을 선정해 올해의 모범 부부상’을 수여했다. /세계부부의날위원회&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;위원회에 따르면 모범 부부상을 받은 부부들은 평소 사랑과 헌신, 책임의 가치를 되새기며 고난과 아픔을 극복했다는 공통점이 있다.&lt;br&gt;&lt;br&gt;대상을 받은 우정민씨는 17세이던 1987년 갑작스러운 교통사고로 부모를 잃었다. 7남매의 맏이였던 우씨와 막내와는 14살 차이였다. 고등학교 3학년이던 우씨는 대학 입학을 포기하고 이듬해 김해에 있는 한 공장에 취업해 여섯 동생을 책임지는 가장이 됐다. 그곳에서 박씨를 만났다. 두 사람은 어려움을 함께 극복하기로 하고 20대 중반에 결혼했다. 부부는 여섯 명의 동생을 성인이 되고 결혼할 때까지 책임지며 키워냈다고 한다. 부부에게는 상금 1000만원이 수여됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Q4DYBY3VRJH7NHQDJ34QSQKURQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;21일 세계부부의날위원회는 창원 그랜드 머큐어 앰배서더 호텔에서 ‘2025 세계부부의날 기념식’을 연 가운데 모범 부부 대상을 받은 박원제(왼쪽 두번째)·우정민(가운데) 부부. /세계부부의날위원회&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;또 다른 수상자인 김황태(47)·김진희(47) 부부는 ‘양팔 없는 마라토너’로 유명한 감동적인 사연의 주인공들이다. 김씨는 상견례 한 달 전 감전 사고로 두 팔을 잃었다. 하지만 아내는 김씨 곁을 지키며 함께했다. 김씨는 2024년 파리 패럴림픽 철인 3종 경기 국가대표로 완주에 성공하는 등 불굴의 의지와 희망의 상징이 됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EX3LQIMSUBD7NBALBSZ4VNDINU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김황태·김진희 부부. /세계부부의날위원회&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;하충식 세계부부의날위원회 총재는 “부부의 사랑은 단지 개인을 넘어 가정과 사회를 건강하게 지탱하는 가장 강력한 기반이다”며 “부부의 날이 그 의미를 넘어 전 세계로 확산하기를 바란다”고 말했다.&lt;br&gt;&lt;br&gt;한편, ‘부부의 날’은 가정의 달 5월에 둘(2)이 하나(1) 되자는 의미를 담아 1995년 5월 21일 창원에서 처음으로 기념하기 시작했다. 2007년 5월 국가기념일로 공포됐다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>전 여친 때리고 성폭행 시도… 럭비 국대 출신 방송인, 2심도 실형</title>
+      <link>https://www.chosun.com/national/national_general/2025/05/21/RHBKAZ6FPNDCDIROUU6I2N75UQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/05/21/RHBKAZ6FPNDCDIROUU6I2N75UQ/</guid>
+      <dc:creator>문지연 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 21 May 2025 11:07:11 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JHWE22LGVBCVHJU35XWRGTUTZU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 중앙지방법원 로비에 법원 마크가 밝게 빛나고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전 연인을 상대로 성폭행을 시도하고 폭행한 혐의로 재판에 넘겨진 럭비 국가대표 선수 출신 방송인이 1심에 이어 2심에서도 실형을 선고받았다.&lt;br&gt;&lt;br&gt;서울고법 형사4-2부(부장판사 권혁중 황진구 지영난)는 21일 강간상해 등 혐의로 기소된 A씨의 항소를 기각하고 원심과 같은 징역 2년 6개월을 선고했다. 아울러 성폭력 치료 프로그램 40시간 이수 명령도 동일하게 유지했다.&lt;br&gt;&lt;br&gt;재판부는 “기본 범죄인 강간은 미수에 그쳤고 피해자가 먼저 뺨을 때려 우발적으로 범행에 이르게 된 것으로 볼 여지도 있다”며 “피고인이 문틀 손괴 피해액에 대해 공탁했고 추가로 피해자에게 5000만원을 공탁했다”고 말했다. &lt;br&gt;&lt;br&gt;다만 “럭비 선수 출신인 피고인이 무차별적으로 폭행해 상해를 가하면서 피해자는 심한 정신적 고통을 받았을 것으로 보인다”며 “피고인은 강간할 의사를 부인하고 변명하는 모습을 보여 피해자를 더 고통스럽게 했고 피해자가 엄벌을 탄원하고 있다”고 지적했다.&lt;br&gt;&lt;br&gt;A씨는 작년 6월 10일 전 연인 B씨의 서울 강남구 자택에서 B씨를 성폭행하려다, B씨가 저항하자 폭행해 뇌진탕 등 상해를 입힌 혐의 등을 받는다. 집 안 화장실 문을 부수고 경찰에 신고하려던 B씨 휴대전화를 던져 파손한 혐의도 있다.&lt;br&gt;&lt;br&gt;A씨는 2020 도쿄올림픽에 출전했던 럭비 국가대표 선수 출신이다. 최근까지 실업팀 코치를 맡으며 여러 방송에 출연했던 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>검찰, ‘농협은행 부당대출’ 서영홀딩스 대표 구속영장 청구</title>
+      <link>https://www.chosun.com/national/court_law/2025/05/21/NSMKH5JXLVBORGBLZ4N7UXJPL4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/05/21/NSMKH5JXLVBORGBLZ4N7UXJPL4/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 21 May 2025 10:19:22 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IUFKKR6NFBIM5OSTLX74SY2FHY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 서울중앙지검./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지검 반부패수사1부(부장 이준동)는 NH농협은행으로부터 부당대출을 받은 것으로 지목된 차주 업체 서영홀딩스의 한상권 대표에 대해 구속영장을 청구했다.&lt;br&gt;&lt;br&gt;검찰은 서영그룹 측이 농협은행으로부터 30~40억원대의 불법 대출을 받았다는 의혹을 수사 중이다. 2023년 국정감사에서 이 의혹이 처음 제기됐다.&lt;br&gt;&lt;br&gt;검찰은 지난 2월 농협은행 본사와 서영홀딩스, 서영산업개발그룹을 압수 수색하며 본격적인 수사에 착수했다. 지난달 9일엔 두 곳을 한 차례 더 압수 수색했고, 이튿날 한 대표를 피의자로 불러 조사했다.&lt;br&gt;&lt;br&gt;한 대표의 구속영장 실질심사는 오는 27일 서울중앙지법에서 열릴 예정이다.&lt;br&gt;&lt;br&gt;서영그룹은 수도권 지역 일간지인 경기신문의 모그룹이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>‘도이치 재수사’ 서울고검, 김건희 여사 휴대전화 확보... 압수 수색</title>
       <link>https://www.chosun.com/national/court_law/2025/05/21/R2VQ6N5LUJH3JNYXBHEDHDYVFE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/05/21/R2VQ6N5LUJH3JNYXBHEDHDYVFE/</guid>
@@ -784,33 +892,6 @@
       </media:content>
     </item>
     <item>
-      <title>“장기기증은 생명나눔”…학생 서포터즈 출범해 </title>
-      <link>https://www.chosun.com/national/regional/yeongnam/2025/05/20/HMTMTBLHEFH4ZHUPKDGIX5CQJQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/yeongnam/2025/05/20/HMTMTBLHEFH4ZHUPKDGIX5CQJQ/</guid>
-      <dc:creator>박주영 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 20 May 2025 09:33:23 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/J3NN3MBBHNE4DIK33WZXGNQNRU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;국립장기조직혈액관리원과 한국장기기증협회의 '학생 장기기증 서포터즈'가 지난 17일 부산 동구 초량동 부산역에서 발대식을 갖고 있다./한국장기기증협회&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이웃의 생명을 살리는 장기기증 활성화 운동을 펼치는 학생 서포터즈가 발족했다.&lt;br&gt;&lt;br&gt;국립장기조직혈액관리원과 한국장기기증협회는 “최근 부산역 유라시아 플랫폼에서 ‘학생 장기기증 서포터즈’ 발대식을 가졌다”고 20일 밝혔다. 이 서포터즈는 전국 각지의 대학생 50여명과 중고생 등 64명으로 구성됐다. &lt;br&gt;&lt;br&gt;이동헌(부산대학교,의예과), 김경린(카이스트,새내기학부)씨 등 이 서포터즈 회원은 지난 17일 발대식 선서에서 “장기기증 활동에 대해 좀 더, 이해하고 이웃을 사랑하는 마음을 배우고 생명나눔의 아름다움을 널리 알리는데 힘을 보탤 것”이라고 말했다.&lt;br&gt;&lt;br&gt;이들 학생은 오는 12월 말까지 한국장기기증협회와 국립장기조직혈액관리원의 장기기증 활성화 행사에 참여, 봉사를 하고 관련 소식을 자신들의 SNS를 통해 주변 사람들에게 알리는 활동을 펼친다. &lt;br&gt;&lt;br&gt;강치영 한국장기기증협회 회장은 “말기 질환으로 고통 받는 이웃을 위해 이제 우리의 미래 세대가 나서게 된 것은 참 아름다운 일”이라며 “특히 매년 1년간, 4년째 활동을 벌이는 ‘학생 서포터즈’ 구성이 종전 부산, 울산, 경남 등지 중심에서 서울 등 전국으로 확대돼 의미가 크다”고 말했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>법원 양형위 “한국 양형기준 준수율 90%...새 대상 범죄군 검토 중”</title>
-      <link>https://www.chosun.com/national/court_law/2025/05/20/YVREODBK4NGOTP6RNQVURSS3I4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/05/20/YVREODBK4NGOTP6RNQVURSS3I4/</guid>
-      <dc:creator>김나영 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 20 May 2025 09:21:33 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PYOJKNL4O5O4DEHBZWSCCRZ7EU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;최환 양형위원회 상임위원이 20일 대법원에서 열린 '법조출입기자 대상 양형기준 설명회'에서 발언하고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대법원 소속 양형위원회가 “양형기준을 설정할 새로운 범죄군을 검토하고 있다”라고 밝혔다. 양형위는 각 범죄에 대한 형량을 권고하는 기구로, 지난달 27일 제10기 양형위가 출범했다. 10기 양형위원장에는 이동원 전 대법관이 위촉됐다.&lt;br&gt;&lt;br&gt;양형위는 20일 대법원에서 기자간담회를 열고 양형기준에 대한 설명회를 진행했다. 진행을 맡은 최환 양형위 상임위원은 “양형위는 모든 범죄에 열려있다”며 “양형위가 출범할 때나 논의 과정 중에 각계각층의 의견을 수렴하고 있다”라고 설명했다.&lt;br&gt;&lt;br&gt;지난 제9기 양형위는 스토킹·동물학대 범죄 등에 대한 양형기준을 새로 정하고, 마약이나 성범죄에 대한 양형기준을 수정하는 등의 활동을 했다. 최 상임위원은 “지난 양형위 활동에서 볼 수 있듯 사회적 관심이 높은 범죄를 주로 다룬다”라고 했다. 다만 중대재해처벌법 등 특정한 법이 10기에서 다룰 대상이 될 예정이냐는 기자단의 질문에는 “검토 중인 사안이라 구체적으로 말씀드리기 어렵다”라고 답했다.&lt;br&gt;&lt;br&gt;최 상임위원은 “한국의 양형기준 준수율은 매년 90%를 넘는다”라며 “미국 등의 준수율이 50%인 것과 달리 상당히 높은 수치”라고 설명했다. 양형기준은 권고의 효력을 가질 뿐, 법적 구속력은 갖지 않는데도 대부분 판사들이 이를 따른다는 것이다. 특히 2023년 기준 ‘도주·범인은닉’과 ‘석유사업법위반’ 범죄군에 대한 양형기준 준수율은 100%였다. &lt;br&gt;&lt;br&gt;10기 양형위는 다음달 23일 제139차 양형위원 회의를 열고 대상 범죄군을 의결할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>아파트 단지까지 내려오는 너구리에…서울시, 질병 모니터링 시작</title>
-      <link>https://www.chosun.com/national/national_general/2025/05/20/CKJAVFCVKVENVNIEBE7CPF3BYY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/05/20/CKJAVFCVKVENVNIEBE7CPF3BYY/</guid>
-      <dc:creator>김영우 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 20 May 2025 09:06:29 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KPRJZ66ZH5GT5N255HWP5TDOKM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 24일 오후 인천시 연수구 송도동 산책로에서 '개선충'에 감염된 것으로 보이는 너구리가 이동하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 성북구 장위동에 사는 A씨는 지난 7일 강아지와 함께 아파트 단지 안을 산책하다가 강아지와 비슷한 크기의 야생 너구리 2마리와 마주쳤다. 신기한 마음에 사진을 찍으려고 다가가자 너구리가 달려들었고, A씨와 강아지는 깜짝 놀라 도망쳤다. 그는 “조금 늦었으면 강아지가 너구리한테 물릴 뻔했다”며 “나중에 알아보니 너구리가 광견병, 벼룩도 옮긴다던데 또 만날까 봐 걱정”이라고 했다.&lt;br&gt;&lt;br&gt;서울 한복판에 출몰하는 야생 너구리가 늘어나면서 서울시가 ‘너구리 대책’을 마련하기 위해 질병 모니터링을 시작한다고 20일 밝혔다. 너구리들이 어떤 병에 자주 걸리는지 파악해 예방약을 주요 출몰 지역에 뿌리고, 심각한 경우 구조할 방법도 찾기 위한 작업이다. 너구리 감염병을 검사하는 것은 전국 지방자치단체 중 처음이다. &lt;br&gt;&lt;br&gt;서울시 내에 출몰하는 야생 너구리는 매년 증가세다. 서울시에 따르면 2018년 구조된 너구리는 49마리였는데, 지난해엔 117마리가 돼 2배 이상으로 늘었다. 서울시 관계자는 “과거엔 한강 주변이나 산에서만 목격됐는데, 요즘엔 길고양이 먹이를 훔쳐먹으러 아파트 단지까지 누비고 다닌다”고 했다. 서울연구원 조사에 따르면 서울 자치구 25곳 중 24곳에서 너구리가 관찰되고 있다.&lt;br&gt;&lt;br&gt;문제는 야생 너구리가 사람이나 개를 물어 감염병을 옮길 수 있다는 점이다. 광견병뿐 아니라 이른바 ‘살인진드기병’이라 불리는 중증 열성 혈소판 감소 증후군(SFTS)에도 걸릴 수 있다. 사람이 너구리를 만지면 개선충(옴)에 감염돼 가려움증이 생길 수도 있다. 개는 온몸의 털이 듬성듬성 빠지게 된다.&lt;br&gt;&lt;br&gt;야생 너구리는 6월부터 새끼에게 먹이 찾는 법을 교육하기 위해 시내로 나오는 경우가 많아지는 것으로 전해졌다. 이에 서울시는 이달부터 본격적으로 도심 공원, 주택가 등에서 구조된 너구리에게서 시료를 채취해 질병 감염 실태를 조사할 계획이다. 광견병 등 인수 공통 감염병 10종과 동물 질병 13종 감염 여부를 검사한다. 서울시 관계자는 “너구리를 발견하면 신기하다고 만지지 말고 꼭 야생동물구조센터 등에 구조 요청을 해야 한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>경찰, 권영세·권성동 입건…‘김문수 단일화 압박’ 혐의</title>
       <link>https://www.chosun.com/national/national_general/2025/05/20/ZQDKVEUTKJF5TIPR6Z6V2O3FFU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/05/20/ZQDKVEUTKJF5TIPR6Z6V2O3FFU/</guid>
@@ -818,15 +899,6 @@
       <description/>
       <pubDate>Tue, 20 May 2025 08:33:50 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GUUX7RBV3QYCKAGYQMKDRY3IUM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;권영세 전 비상대책위원장(오른쪽)과 권성동 원내대표 /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국민의힘 내부에서 벌어진 대선 후보 단일화 압박 의혹과 관련된 고발장이 접수되면서 권영세 전 비상대책위원장과 권성동 원내대표가 경찰에 입건돼 수사를 받고 있다.&lt;br&gt;&lt;br&gt;서울 영등포경찰서는 권 전 위원장과 권 원내대표를 강요미수 및 업무방해 혐의로 입건해 수사하고 있다고 20일 밝혔다. 이번 입건은 지난 8일 한 민간인이 서울 관악경찰서에 제출한 고발장에 따른 것이다.&lt;br&gt;&lt;br&gt;권 전 비대위원장과 권 원내대표는 국민의힘 대선 후보로 선출된 김문수 후보에게 한덕수 전 국무총리와의 단일화를 압박한 혐의로 고발됐다. 고발장에는 김 후보가 당 사무총장으로 내정한 장동혁 의원에게 ‘공천 불이익을 주겠다’는 취지로 압박해 자리를 고사하게 했다는 혐의도 포함됐다.&lt;br&gt;&lt;br&gt;서울 관악경찰서는 지난 8일 이 같은 내용의 고발장을 접수하고 고발인 조사를 마친 뒤 15일 관할서인 서울 영등포경찰서로 사건을 이첩했다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “현재 고발인 조사 내용을 바탕으로 법리를 검토하는 단계”라며 “(권 비대위원장과 권 원내대표를) 불러서 조사할 계획은 없다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>목줄 끊고 달려든 풍산개에 물린 60대 사망…50대 견주 집유</title>
-      <link>https://www.chosun.com/national/court_law/2025/05/20/P55N5ATMLRGFNGN6LUKLBHWN2U/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/05/20/P55N5ATMLRGFNGN6LUKLBHWN2U/</guid>
-      <dc:creator>인천=이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 20 May 2025 08:17:20 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NEB72YMFAVHRJKGS7DXJM5DJ5A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원 로고. /조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천 강화도에서 60대 남성을 물어 숨지게 한 풍산개 견주에게 금고형의 집행유예가 선고됐다. &lt;br&gt;&lt;br&gt;인천지법 형사14단독 공우진 판사는 과실치사 혐의로 기소된 A(58)씨에게 금고 4개월에 집행유예 2년을 선고했다고 20일 밝혔다. &lt;br&gt;&lt;br&gt;판결문에 따르면, A씨가 인천 강화군 자신의 집에서 키우던 풍산개가 지난해 4월 22일 오전 9시 40분, 목줄을 끊고 울타리를 넘어 인근에 사는 B(66)씨에게 달려들었다. &lt;br&gt;&lt;br&gt;양쪽 팔 부위를 여러 차례 물린 B씨는 병원에서 치료를 받다가 10여 일 만인 5월 9일 오후 10시 56분쯤 양팔 골감염에 의한 병원 감염성 폐렴 등으로 숨졌다. &lt;br&gt;&lt;br&gt;A씨는 풍산개의 목줄이 튼튼한지 확인하지 않고, 울타리를 제대로 관리하지 않았던 것으로 파악됐다. &lt;br&gt;&lt;br&gt;공 판사는 “(피고인의) 과실로 인한 결과가 무겁지만, 피해자의 유족이 피고인의 처벌을 원하지 않는 점, 주의의무 위반 정도 등을 고려했다”고 양형 이유를 설명했다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>경주 33도, 문경 32도... ‘꽃샘 5월’ 끝나자마자 ‘찜통 5월’</title>
@@ -855,46 +927,6 @@
       </media:content>
     </item>
     <item>
-      <title>국회 측 “탄핵은 무죄 판결과 별도” vs 손준성 측 “정치적 탄핵 남발”</title>
-      <link>https://www.chosun.com/national/court_law/2025/05/20/O565VKXWMBGMPJV54DQLAJFID4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/05/20/O565VKXWMBGMPJV54DQLAJFID4/</guid>
-      <dc:creator>방극렬 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 20 May 2025 08:07:41 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HQDLTBKXG552AZYSSODLPOYKF4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김형두 헌재소장 권한대행을 비롯한 헌법재판관들이 20일 서울 종로구 헌법재판소 대심판정에서 열린 손준성 대구고검 차장검사(검사장)의 탄핵 심판 두 번째 변론 기일에 참석하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;헌법재판소가 이른바 ‘고발 사주’ 사건으로 탄핵소추된 손준성 대구고검 차장검사(검사장)에 대한 탄핵 심판 변론을 20일 종결했다. 민주당 등 야당 주도로 2023년 12월 탄핵소추된 지 약 1년 5개월 만이다.&lt;br&gt;&lt;br&gt;헌재는 이날 손 검사장에 대한 탄핵 심판 두 번째 변론 기일을 열고 증거 조사를 마무리한 뒤 양측의 최종 의견 진술을 듣고 재판을 마무리했다. 김형두 헌재소장 권한대행은 “선고 기일은 재판부에서 충분히 검토한 다음에 통지하겠다”고 했다.&lt;br&gt;&lt;br&gt;국회 측은 이날 최종 의견에서 법원의 무죄 판결과는 별개로 손 검사장을 탄핵해야 한다고 주장했다. 앞서 손 검사장은 고발 사주 의혹으로 기소됐지만, 2심과 대법원에서 무죄 판결을 받고 확정됐다. 국회 측은 “형사재판과 탄핵 심판은 별개”라며 “탄핵 심판에서는 형사재판과 같은 엄격한 증명이 요구되지 않는다”고 했다. 그러면서 “같은 사건으로 무죄 판결을 받아도 징계 사유를 인정하는 데에는 영향이 없다는 대법원 판결에 따라 (탄핵 여부는) 무죄 판결과 별도로 판단해야 한다”고 말했다.&lt;br&gt;&lt;br&gt;국회 측은 “손 검사장은 대검찰청 수사정보정책관으로 재직하면서 당시 여권(민주당) 정치인 고발장 및 첨부 자료 수집·작성 관여해 권한을 남용하고 정치적 중립을 저버렸다. 검사에게 요구되는 직무 집행과 관련해 헌법을 정면으로 위반한 것”이라며 파면 결정을 내려달라고 요청했다.&lt;br&gt;&lt;br&gt;이에 대해 손 검사장 측은 “(고발 사주 관련) 기소된 혐의는 모두 사실을 인정할 증거가 없다는 이유로 무죄가 선고돼 대법원에서 확정됐다”며 “공소사실과 불기소된 범죄 사실 대부분이 탄핵 사유와 동일하다”고 말했다. 이어 “법원의 확정 판결은 존중돼야 하는데, 탄핵 사유는 확정 판결에 반하는 사실을 전제로 쓰였다”며 “탄핵을 기각해 국회가 정치적 목적으로 탄핵소추를 남발하는 것에 경종을 울려주길 바란다”고 했다.&lt;br&gt;&lt;br&gt;손 검사장은 2020년 4·15 총선을 앞두고 대검찰청 수사정보정책관으로 재직하면서 실명 판결문 등을 바탕으로 만든 민주당 유력인사 관련 고발장을 김웅 당시 미래통합당 후보자에게 전달해 고발 사주했다는 의혹을 받는다. 앞서 헌재는 작년 4월 “같은 사유로 형사소송이 진행 중”이라며 탄핵 심판을 정지했다가, 대법원에서 무죄가 확정된 이후 재개했다.&lt;br&gt;&lt;br&gt;헌재는 지난달 문형배·이미선 재판관이 퇴임하면서 재판관 9명 중 2명이 공석으로, 재판관 6명 이상이 찬성해야 탄핵이 인용된다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[오늘의 운세]  5월 21일 수요일 (음력 4월 24일 庚寅)</title>
-      <link>https://www.chosun.com/national/national_general/2025/05/20/7ZIXPV52KJCKTI437FXE2JG5Y4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/05/20/7ZIXPV52KJCKTI437FXE2JG5Y4/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Tue, 20 May 2025 08:00:00 +0000</pubDate>
-      <content:encoded>&lt;p&gt;&lt;div class="chosun_unse"&gt;&lt;iframe src="https://image.chosun.com/arc/unse_iframe.html" frameborder="0" scrolling="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;style&gt;.chosun_unse{position:relative;width:100%;height:350px;box-sizing:border-box}.chosun_unse&gt;iframe{position:absolute;top:0;left:0;width:100%;height:100%;overflow-y:hidden}@media all and (max-width:1024px){.chosun_unse{height:350px}}@media all and (max-width:1023px){.chosun_unse{height:350px}}@media all and (max-width:528px){.chosun_unse{height:270px}}@media all and (max-width:384px){.chosun_unse{height:190px}}&lt;/style&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;p&gt;&lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani01.gif"&gt;  	&amp;nbsp;	36년생 용띠라면 동업 고려해 볼만. 48년생 돈복, 재물복도 좋지만 인복이 최고. 60년생 어떤 경우도 남 무시하거나 잘난 체는 마라. 72년생 어둠 깊을수록 촛불 더 환한 법. 84년생 어리석은 이에겐 재물이 재앙. 96년생 3번 참고 3번 웃고 3번 칭찬하라.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt;  &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani02.gif"&gt;	&amp;nbsp;	37년생 안방에서도 안전사고 주의. 49년생 준마도 명장 만나야 천리마라 한다. 61년생 신수 태평하니 발길 닿는 곳마다 즐거움. 73년생 가어사가 더 무서운 법. 85년생 동료의 도움이 오히려 방해될 수도. 97년생 만경 옥토가 닷 냥 복만 못하다.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani03.gif"&gt;	&amp;nbsp;	38년생 주변 도움 받을 수 있다면 적극 활용하라. 50년생 남편은 처 덕, 부인은 남편 덕. 62년생 현실에 갇히면 미래 놓친다. 74년생 사람 알아볼 수 있다면 근심 적다. 86년생 이성의 유혹에 넘어가기 쉽다. 98년생 갈대가 소나무보다 결코 안 약하다.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani04.gif"&gt;	&amp;nbsp;	27년생 음식 주의하면 몸 편하다. 39년생 동료나 친구 도움이 기대. 51년생 빌려줬다면 희사한 것. 63년생 고래 사냥에 새우 보이겠나. 75년생 전진만 알고 후진 모르면 곤란. 87년생 동료의 단점 들춰서 좋을 것 없다. 99년생 오죽해야 씻나락 먹을까.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani05.gif"&gt;	&amp;nbsp;	28년생 순간 울화를 참으면 나중이 편하다. 40년생 높은 가지 부러지기 쉽다. 52년생 한가운데가 아닌 가장자리로 가라. 64년생 친구 말에 크게 신경 쓰지 마라. 76년생 의식이 풍족해야 예의를 차리지. 88년생 수입보다 지출이 많다. 00년생 마른나무 타면 생나무도 탄다.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani06.gif"&gt;	&amp;nbsp;	29년생 과(過)한 것은 부족함만 못하다. 41년생 긍정과 낙천으로 내일을 준비하라. 53년생 얻고도 잃는 것이 있다. 65년생 성급한 결정이 후회 부를 수도. 77년생 토끼 쫓다 사슴 놓칠라. 89년생 누울 자리 봐가며 발을 뻗어라. 01년생 이참에 근본적인 재검토가 필요.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani07.gif"&gt;	&amp;nbsp;	30년생 뛰어난 기교는 보잘것없는 법. 42년생 세상에 옳지 않은 부모 계실까. 54년생 논 팔아 밭 사는 짓은 마라. 66년생 북쪽에서 귀인을 만난다. 78년생 친구에게 덕(德) 볼 일 있다. 90년생 감정을 누르고 이성을 깨워야. 02년생 지적받았다면 즉시 고치도록.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani08.gif"&gt;	&amp;nbsp;	31년생 혼자 사는 동네 면장이 구장(區長). 43년생 가족 사이에도 원칙은 필요. 55년생 거짓말은 반 마디도 많다. 67년생 가족 간에도 금전 거래는 절대 주의. 79년생 보약도 과하면 독약. 91년생 불필요한 감정 소비는 절제하라. 03년생 사람 마음처럼 간사할까.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani09.gif"&gt;	&amp;nbsp;	32년생 신속하고 과감하게 처리해야. 44년생 검은색과 숫자 1, 6 행운 부른다. 56년생 때를 만나면 개똥도 금값. 68년생 조급한 추진이 실패를 초래할 수도. 80년생 상사에게 밉보이면 오래간다. 92년생 넘어진 사람이 지팡이 탓. 04년생 물건 깨지면 소란은 없다.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani10.gif"&gt;	&amp;nbsp;	33년생 허물 있다면 고치기 꺼려하지 마라. 45년생 날로 먹을 수 없는 것이 인생. 57년생 부모님 조언 무시하면 내 손해. 69년생 공손하면 모욕받지 않는다. 81년생 시운이 도래하니 만사가 순조롭다. 93년생 옛것 무너지면 새것 출현하기 마련.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani11.gif"&gt;	&amp;nbsp;	34년생 눈과 심장을 주의. 46년생 재앙은 홀로 오지 않는다. 58년생 지혜로운 이라고 실수 없겠나. 70년생 총 쏠 줄 모르는 이에겐 총이 몽둥이만 못하다. 82년생 친구와 산삼은 오랠수록 진국. 94년생 이기는 데 급급해 패배했을 때를 잊어선 안 된다.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani12.gif"&gt;	&amp;nbsp;	35년생 옆집 처자 믿다가 장가 못 간다. 47년생 한마디 했으면 두 마디는 들어야. 59년생 동료 자동차에 동석하지 않는 게 좋을 듯. 71년생 흰옷 입은 자와의 거래를 주의. 83년생 네발짐승도 넘어질 때 있는 법. 95년생 적선과 헌신에는 보답 뒤따른다.	&lt;br&gt;
-&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;한소평 금오산방 강주  &lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;			&lt;/p&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/4MTFRYWHBJA7XOKKF7G7JPLX5U.png?auth=4651b5b20b5d4901424204d1456faee02e4b064ff509db23945deabf4404c8ef&amp;smart=true&amp;width=800&amp;height=420" type="image/png" height="420" width="800"/>
-    </item>
-    <item>
-      <title>[단독]대통령실 출신 육군 소장, 부하 성폭행 시도 혐의 수사</title>
-      <link>https://www.chosun.com/national/national_general/2025/05/20/JBOQWA5ARZGYFL5YTEBBEYZTQI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/05/20/JBOQWA5ARZGYFL5YTEBBEYZTQI/</guid>
-      <dc:creator>구아모 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 20 May 2025 07:35:11 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EBOPILDAQVATDDKMCYKHDUGVF4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 용산구 국방부 청사 전경. /남강호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;현직 육군 소장이 부하 직원에게 성폭행을 시도한 혐의로 경찰 수사를 받고 있는 것으로 20일 알려졌다. 연합사령부, 합동참모본부 등에서 핵심 보직을 거친 A 소장은 현 정부 대통령실 국가위기관리센터장을 지냈다. 현재 A 소장은 직무에서 배제된 상태다.&lt;br&gt;&lt;br&gt;본지 취재를 종합하면 강원도의 한 사단장으로 근무하던 A 소장은 지난 2022년 12월 개인 비서 역할이었던 부하 직원이 출장 중 묵고 있는 호텔에 찾아가 성폭행을 시도한 혐의를 받고 있다. A 소장은 이후 부하 직원에게 “다른 남자면 멈추지 않았을 것이다” “나니까 그때 멈춘 거다”라고도 한 것으로 전해졌다. A 소장은 전속 운전병이 운전하는 사단장 전용 차량 뒷좌석에 나란히 앉아 손을 잡거나, 대통령실 국가위기관리센터장으로 옮긴 이후인 2023년 2월 중순 부하 직원을 집무실에 불러 강제로 끌어안는 등 성추행한 혐의(업무상 위력에 의한 강제추행)도 받고 있다. 당시는 북한이 탄도미사일을 발사하는 등 남북 간 긴장이 이어지고 있었다. 이 직원은 보직을 옮긴 이후에도 A 소장이 다시 연락해오자 지난달 대전경찰청에 신고했다.&lt;br&gt;&lt;br&gt;A 소장은 경찰 수사가 시작된 이후에도 해당 직원에게 지속적으로 연락을 시도한 것으로 전해졌다. 대전지법은 이에 지난 1일 A 소장에게 부하 직원 주변 접근과 연락을 금지하는 임시 조치 명령을 내렸다. 부하 직원 측은 “신고 이후에도 지속적으로 ‘2차 가해’를 받고 있어 구속 수사가 필요하다”고 요구하는 것으로 전해졌다. 경찰은 A 소장의 휴대폰을 압수해 분석 중이다. 경찰은 A 소장이 신고 사실을 어떻게 알게 됐는지 등도 조사할 예정인 것으로 전해졌다.&lt;br&gt;&lt;br&gt;본지는 A 소장의 입장을 듣기 위해 수차례 연락을 시도했으나 닿지 않았다. 육군본부는 조만간 징계위원회를 열어 A 소장 징계 수위를 결정할 예정이다. 지난 1월 국가인권위원회가 발표한 ‘여군 인권 상황 실태조사’에 따르면, 전체 여군 응답자의 34.5%가 군 생활 중 성희롱·성추행 등 성 고충 문제를 세 차례 이상 경험했다고 답했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>“빌 클린턴 광화문에 떴다”... 온라인서 방한 목격담 속출 </title>
       <link>https://www.chosun.com/national/national_general/2025/05/20/RYPLU6A3UVEAHBKAFVH7TLQHKY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/05/20/RYPLU6A3UVEAHBKAFVH7TLQHKY/</guid>
@@ -906,42 +938,6 @@
         <media:description type="plain">빌 클린턴 전 미국 대통령으로 보이는 남성이 서울 광화문광장에서 목격됐다./에펨코리아</media:description>
         <media:credit role="author" scheme="urn:ebu"/>
       </media:content>
-    </item>
-    <item>
-      <title>청주여자교도소에서 20대 재소자 숨져... 교정 당국 조사</title>
-      <link>https://www.chosun.com/national/incident/2025/05/20/EDAOBDOQOZDQFGSWRZJCBTHD7M/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/05/20/EDAOBDOQOZDQFGSWRZJCBTHD7M/</guid>
-      <dc:creator>신정훈 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 20 May 2025 07:35:22 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4SRIFKJRVFHJZHFLNAAG6BRKNY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;청주여자교도소 전경/청주여자교도소 누리집&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;청주여자교도소에서 20대 재소자가 극단 선택을 한 사실이 뒤늦게 전해졌다. &lt;br&gt;&lt;br&gt;20일 법무부 등에 따르면 지난 16일 오후 8시쯤 청주여자교도소 독방 화장실에서 20대 재소자 A씨가 극단 선택을 시도한 것을 당직 근무 교도관이 발견했다. 발견 당시 A씨는 의식이 저하된 상태로 급히 병원으로 옮겼으나 숨졌다. &lt;br&gt;&lt;br&gt;A씨는 존속살해 혐의로 지난해부터 청주여자교도소에서 복역 중이었던 것으로 알려졌다. &lt;br&gt;&lt;br&gt;법무부 관계자는 “원칙적으로 1시간에 1차례 이상 순찰이 원칙으로 특별한 문제는 없던 것으로 보인다”며 “극단 선택에 사용된 도구 또한 외부에서 반입된 것이 아닌 재소자의 용품이었다”고 밝혔다. &lt;br&gt;&lt;br&gt;대전지방교정청 특별사법경찰은 이 사안과 관련해 당시 근무자의 근무 지침 준수 여부 등 교도소의 관리 소홀 문제가 있었는지 조사하고 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“악귀 퇴치해야 한다” 숯불 피워 조카 살해… 70대 무속인 구속 기소</title>
-      <link>https://www.chosun.com/national/incident/2025/05/20/3FFGVMWNSBAPNF267ZGKSVTQYY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/05/20/3FFGVMWNSBAPNF267ZGKSVTQYY/</guid>
-      <dc:creator>인천=이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 20 May 2025 07:26:14 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4MORMCANKZHSFAOSCYHPZOYJQQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;인천지방검찰청./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“악귀를 퇴치해야 한다”며 자신의 곁을 떠나려는 조카를 숯불로 잔혹하게 살해한 혐의를 받는 70대 무속인이 구속된 상태에서 재판에 넘겨졌다. &lt;br&gt;&lt;br&gt;20일 법조계에 따르면 인천지검 형사2부(부장 김희영)는 살인 혐의로 무속인 70대 여성 A씨 등 4명을 구속 기소하고, 1명을 불구속 기소했다. &lt;br&gt;&lt;br&gt;A씨 등은 지난해 9월 인천 부평구의 한 음식점에서 숯불을 피워 30대 여성 B씨를 살해한 혐의를 받고 있다. &lt;br&gt;&lt;br&gt;A씨는 조카 B씨가 음식점 일을 그만두고 떠나려 하자, “악귀를 퇴치해야 한다”며 친인척, 신도 등과 B씨를 철제 구조물에 포박하고 3시간 동안 B씨 신체에 숯불 열기를 가한 것으로 알려졌다. &lt;br&gt;&lt;br&gt;의식을 잃고 병원으로 옮겨진 B씨는 이튿날 화상으로 인한 다발성 장기부전 등으로 숨졌다. &lt;br&gt;&lt;br&gt;A씨는 오랜 기간 친인척이나 신도들을 가스라이팅(심리지배)해 온 것으로 조사됐다. &lt;br&gt;&lt;br&gt;경찰은 앞서 상해치사 혐의로 A씨 등을 송치했으나, 검찰은 추가 수사를 거쳐 살인 혐의로 죄명을 바꿔 재판에 넘겼다. &lt;br&gt;&lt;br&gt;검찰 관계자는 “A씨 등에게 살인 혐의를 적용한 게 맞으나, 구체적인 내용은 밝힐 수 없다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>민주당 당사 인근서 ‘흉기소지’ 30대 남성 현행범 체포</title>
-      <link>https://www.chosun.com/national/national_general/2025/05/20/4IH5ZYL7RJGHXP67PZITH5SZP4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/05/20/4IH5ZYL7RJGHXP67PZITH5SZP4/</guid>
-      <dc:creator>김명일 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 20 May 2025 07:28:03 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OICXFYPOTBPNPAQGDFMEAVWRUE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;남성이 가방에 소지하고 있던 칼과 BB탄총(추정). /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;더불어민주당 중앙당사 인근에서 흉기를 소지하고 있던 남성이 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;20일 서울 영등포경찰서는 이날 오전 11시 26분쯤 서울 영등포구 여의도 민주당 당사 인근 노상에서 30대 남성을 공공장소 흉기소지 혐의로 현행범 체포했다고 밝혔다.&lt;br&gt;&lt;br&gt;남성은 체포 당시 가방에 10㎝ 길이의 칼과 가스 충전식으로 추정되는 BB탄총을 소지하고 있었다.&lt;br&gt;&lt;br&gt;다만 남성이 이를 이용해 누군가를 위협하거나 민주당 당사에 진입을 시도한 사실은 없었던 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰은 남성이 민주당 당사 주변에서 배회하는 것을 수상하게 여기고 불심검문을 해 흉기 소지 사실을 확인했다.&lt;br&gt;&lt;br&gt;경찰은 남성을 상대로 범행 경위 등을 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“계획된 이상동기 범죄”... 검찰, 청주 흉기난동 고교생 구속기소</title>
-      <link>https://www.chosun.com/national/regional/chungcheong/2025/05/20/KNH6DPVSD5EW5DT5TDVZJNZBRA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2025/05/20/KNH6DPVSD5EW5DT5TDVZJNZBRA/</guid>
-      <dc:creator>신정훈 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 20 May 2025 07:17:49 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GSUAQSQQQRKV7DT3IVZ6B273LU.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;충북 청주의 한 고등학교에서 흉기를 휘둘러 교직원과 주민 등 6명을 다치게 한  학생 A 군이 지난달 30일 오후 구속 전 피의자심문(영장실질심사)을 위해 청주지법에 출석하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난달 자신이 다니던 청주의 한 고교에서 흉기 난동을 벌인 10대 학생이 구속돼 재판에 넘겨졌다. &lt;br&gt;&lt;br&gt;청주지검은 20일 살인미수 및 특수상해 등의 혐의로 고등학생 A(17)군을 구속 기소했다고 밝혔다. &lt;br&gt;&lt;br&gt;A군은 지난달 28일 오전 8시 33분쯤 청주의 한 고교 복도 등에서 흉기를 휘두르거나 완력을 행사해 교직원 4명과 주민 2명 등 모두 6명을 다치게 한 혐의를 받는다.&lt;br&gt;&lt;br&gt;검찰은 “대검 통합심리분석과 A군의 심리치료 내역, 다수의 참고인 조사를 통해 이번 사건은 ‘사전에 계획된 이상 동기 범죄’”라고 밝혔다. &lt;br&gt;&lt;br&gt;특수교육 대상 학생인 A군은 교우 관계 등 학교생활 전반에 어려움을 겪었고, 이에 작은 갈등에도 분노를 느끼고 충동 조절도 제대로 못 했던 것으로 조사됐다. &lt;br&gt;&lt;br&gt;특히 최근 A군이 또래 친구와의 관계에서 무시당했다는 감정을 느끼게 됐고, 이에 범행을 계획한 것으로 드러났다. &lt;br&gt;&lt;br&gt;A군은 범행 전날 흉기 3점과 망치 등 모두 4가지의 범행 도구를 가방에 미리 챙겨 누구든 한 명을 살해한 뒤 목숨을 끊을 결심을 한 것으로 확인됐다. &lt;br&gt;&lt;br&gt;이에 A군은 범행 당일 집에 살인을 예고하는 메모를 남기고 흉기를 담은 가방을 챙겨 일찍 등교해 상담 교사 B씨를 찾았고, 상담 과정에서 원하는 답을 듣지 못하자 범행 계획을 실행한 것으로 전해졌다. &lt;br&gt;&lt;br&gt;검찰 관계자는 “피고인의 범행에 상응하는 형이 선고되도록 공소 유지에 최선을 다할 것”이라고 말했다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>“정상서 동창 모임 중이니 돌아가라” 등산로 막은 기막힌 팻말</title>
@@ -963,15 +959,6 @@
       <description/>
       <pubDate>Tue, 20 May 2025 00:06:08 +0000</pubDate>
       <content:encoded>경남 합천의 돼지 농가에서 큰불이 나 실습중인 20대 남성 1명이 숨지고, 돼지 수천 마리가 폐사했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/N7LJZFERS5BZVGFKO6JR7GZG54.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;19일 화재가 발생한 경남 합천군 율곡면 한 돈사 현장. 20대 남성 1명이 숨지고, 돼지 2800마리가 폐사했다. /경남소방본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;20일 경남소방본부에 따르면 지난 19일 오후 5시쯤 합천군 율곡면 한 돈사에서 불이 났다. 불이 발생하자 직원 19명이 급히 대피했지만, 20대 남성 1명이 실종됐다가, 돈사 3층에서 끝내 숨진 채 발견됐다. 이 남성은 대학생 신분으로, 실습 중에 변을 당한 것으로 알려졌다. 경찰 관계자는 “3층 안쪽 깊숙한 곳에 있어 미처 빠져나오지 못한 것으로 보인다”고 했다. 네팔 국적의 20대 여성은 열상 등 경상을 입고 치료를 받았다.&lt;br&gt;&lt;br&gt;불은 화재 발생 4시간 30여 분 만인 오후 9시 35분쯤 완전히 꺼졌다. 소방당국은 이 불로 8500㎡ 규모 돈사 1동이 불에 타면서 돈사에서 키우는 돼지 1만3000마리가 모두 폐사했다. 재산 피해는 23억여 원(소방서 추산)으로 추정된다.&lt;br&gt;&lt;br&gt;소방당국과 경찰은 “공장 지붕에서 화재가 발생했다”는 최초 직원 신고를 토대로 정확한 화재 원인과 피해 규모를 파악하고 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘이혼 후 생활고’ 정가은, 택시기사로 전직한다... “자격시험 합격” </title>
-      <link>https://www.chosun.com/national/people/2025/05/20/AXMM5CN53JHOVKKM7B2B2RKULM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/05/20/AXMM5CN53JHOVKKM7B2B2RKULM/</guid>
-      <dc:creator>김명일 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 19 May 2025 23:59:29 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PIVYGJVBWVGZLMMTVY2BCHEF54.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;택시운전 자격증을 받은 정가은. /유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이혼 후 생활고를 겪고 있다고 고백했던 배우 정가은(본명 백라희‧47)이 택시 운전 자격시험에 도전해 합격했다.&lt;br&gt;&lt;br&gt;정가은은 19일 자신의 유튜브 채널을 통해 택시 운전 자격시험을 보고 나온 모습을 공개했다. &lt;br&gt;&lt;br&gt;정가은은 “와~ 너무 어렵다. 75점으로 붙긴 했다”며 “진짜 어려웠다. 내가 공부한 거랑 다른 방향으로 문제가 나왔다”고 했다. &lt;br&gt;&lt;br&gt;정가은은 “나는 하나의 유튜브를 집중적으로 보며 공부를 했는데 그런 것보다는 여러 개의 콘텐츠를 봐야 할 것 같더라”라며 “90점 받아야 되는데 아쉽다”고 했다. &lt;br&gt;&lt;br&gt;현장에서 바로 택시운전 자격증을 발급받은 정가은은 택시 운전사 출신인 아버지에게 전화를 걸어 합격 소식을 알렸다. &lt;br&gt;&lt;br&gt;정가은은 영상통화를 통해 아버지에게 택시운전 자격증을 보여주며 “아빠의 대를 이어 (택시기사가 됐다). 집에서 봐요”라고 했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/H5SSTTTASBG7BNLHE7E4IVDIPE.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;배우 정가은. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;1997년 모델로 데뷔한 정가은은 tvN ‘롤러코스터’로 이름을 알렸고 이후 다수의 작품에 출연했다. &lt;br&gt;&lt;br&gt;정가은은 2016년 사업가 남편과 결혼해 슬하에 1녀를 뒀으나 2017년 이혼했다. 이후 지난해 생활고를 겪고 있다는 사실을 고백해 화제가 됐었다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
