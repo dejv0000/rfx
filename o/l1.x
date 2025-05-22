@@ -6,6 +6,16 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>[판결] 소송비용 확정 없이도 임차권등기 비용 청구</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/208170.jpg" alt="we23426.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;《사진=어도비스톡》&lt;/figcaption&gt;   &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;임대차 계약 종료 후 임차인이 임차권 등기를 마친 경우, 해당 등기와 관련해 발생한 비용을 임대인에게 청구할 때 반드시 소송 비용액 확정 절차를 거칠 필요는 없다는 대법원 판단이 나왔다. 임차권 등기 명령 신청 비용은 소송 비용액 확정 절차 거칠 필요 없이 민사소송이나 상계 등의 방법으로 행사할 수 있다고 명시적으로 밝히 첫 판례다. 대법원 민사1부(주심&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="3987"&gt;신숙희&amp;nbsp;&lt;/span&gt;대법관)는 4월 24일 건물인도소송 상고심(&lt;b&gt;2024다221455&lt;/b&gt;)에서 원심 판결을 파기하고 사건을 다시 심리·판단하라며 서울북부지법으로 돌려보냈다.&lt;/p&gt;&lt;b&gt;&lt;br /&gt;[사실관계]&lt;/b&gt;&lt;br /&gt;원고(임대인)와 피고(임차인)는 보증금 2500만 원의 아파트 임대차 계약을 체결했다. 임대차 계약이 종료되자, 임대인은 임차인을 상대로 아파트의 인도와 미지급 차임 상당의 부당이득 반환 등을 청구하는 소송을 제기했다. 이에 임차인은 해당 아파트에 대해 임차권 등기 명령을 받아 임차권 등기를 마쳤고, 임대인은 보증금 상당액을 법원에 공탁했다. 임차인은 공탁금을 수령한 뒤 임차권 등기를 말소했다. 이후 임차인은 자신이 임차권 등기를 하는 과정에서 지출한 임차권 등기 명령 신청 비용 및 촉탁 등기 비용 15만3000원을 돌려받아야 한다고 주장했다. &lt;br /&gt;&lt;b&gt;&lt;br /&gt;[쟁점]&lt;/b&gt;&lt;br /&gt;임차인이 소송 비용액·집행 비용액 확정 절차를 거치지 않고, 주택임대차보호법 제3조의3 제8항에 따라 임대인에게 임차권 등기 관련 비용을 청구할 수 있는지가 쟁점이 됐다.&lt;br /&gt;&lt;b&gt;&lt;br /&gt;[하급심 판단]&lt;/b&gt;&lt;br /&gt;1심은 임차인의 주장을 상계 항변으로 받아들이면서도, 임차권 등기 관련 비용은 소송 비용액 확정 절차를 거치지 않는 이상 상환 청구의 대상이 될 수 없다고 봐 임차인의 주장을 받아들이지 않았다. 항소심도 1심 판단을 유지했다.&lt;br /&gt;&lt;b&gt;&lt;br /&gt;[대법원 판단]&lt;/b&gt;&lt;br /&gt;대법원 판단은 달랐다. 대법원은 “주택임대차보호법 제3조의3은 제8항은 ‘임차인은 제1항에 따른 임차권 등기 명령의 신청과 그에 따른 임차권 등기와 관련해 든 비용을 임대인에게 청구할 수 있다’고 규정하고 있으면서도, 임차권 등기 명령 신청 비용과 임차권 등기 비용 대한 비용 상환 청구권을 인정하면서도 비용 청구의 방법이나 절차에 관한 별도의 규정을 두지 않고 있다”며 “따라서 임차인은 민사소송으로 그 비용을 청구하거나, 상계의 자동 채권으로 삼는 등의 방법으로 비용 상환 청구권을 행사할 수 있다고 봄이 타당하다”고 판시했다.&lt;br /&gt;</description>
+			<pubDate>Thu, 22 May 2025 03:07:57 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/208170</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/208170</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/208170.jpg</media:thumbnail>
+			<dc:creator>안재명 기자</dc:creator>
+		</item>
+		<item>
 			<title>"확정판결 모두 재판소원 대상 … 실효성 위해 가처분도 필요"</title>
 			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/208191.jpg" alt="208191.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;재판 소원제도 개정안 관련 의견서&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;span style="text-align: center;"&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;법원 판결에 대한 헌법소원(이하 ‘재판소원’)과 관련, 헌법재판소가 대법원 확정 판결을 비롯해 상소 포기로 확정된 1·2심 판결 전반에 대해 재판소원 청구를 허용하고, 제도의 실효성 확보를 위해 가처분도 허용해야 한다는 의견서를 국회에 제출했다. 헌재는 의견서에서 헌재가 법원 판결이 위헌이라고 청구를 인용할 경우, 헌재는 해당 판결을 취소하고 사건을 관할 법원으로 환송하며, 관할법원은 헌재 결정 취지에 따라 다시 심리하도록 명시했다. 이재명 더불어민주당 대통령선거 후보도 재판소원 도입에 적극적인 입장으로 알려져, 재판소원을 둘러싸고 격론이 벌어질 것으로 예상된다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;헌법재판소가 국회 법제사법위원회 소속 박준태 국민의힘 의원에게 제출한 ‘헌법재판소법 일부개정법률안에 대한 의견’에 따르면, 헌재는 헌법재판소법의 8개 조항에 대한 구체적인 개정 의견을 ‘신·구조문 대비표’로 만들어 개진하고 개정 취지도 상세히 설명했다. 당초 정진욱 민주당 의원이 대표발의한 헌법재판소법 개정안은 제68조 1항 헌법소원의 대상에서 ‘법원의 재판을 제외하고’ 문구를 삭제하는 것 하나였는데, 헌재는 그보다 더 많은 조항에 대한 개정이 필요하다고 주장했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;헌재는 △헌법재판소법 제68조 제1항(청구 사유)에 ‘법원의 재판’을 포함할 경우, 해당 재판이 확정된 이후 헌법소원 심판을 청구할 수 있도록 해야 한다고 밝혔다. 이에 따르면 대법원 판결 뿐만 아니라 상소를 포기해 확정된 1·2심 판결도 헌법소원 대상이 된다. 제71조 제4항(청구서 기재사항)에서는 법원의 재판을 헌법소원의 대상으로 할 때 청구인이 헌법소원심판 청구서에 반드시 재판서 및 확정증명원을 첨부해야 한다고 했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;헌재는 재판소원 제도의 실효성을 위해 ‘가처분 제도’를 도입해야 한다는 의견도 밝혔다. 현행법상 정당해산심판이나 권한쟁의심판에만 존재하는 가처분 규정을 재판소원에도 도입해, 확정판결로 이미 발생했거나 발생할 수 있는 중대하고 회복 불가능한 기본권 침해를 방지할 필요가 있다는 것이다. 헌재는 ‘제71조의 2(가처분)’ 조항을 신설하고 확정 판결의 효력을 소급해 정지시킬 수 있도록 명문화 해야 한다고 했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;제72조(사전심사)는 기존 각하 요건 중 ‘법원의 재판에 대하여’라는 부분을 삭제하고, 대신 ‘재판소원’에 대해서는 헌법적으로 중요한 원칙이나 청구인의 기본권 보호를 위해 필요한 경우에만 전원재판부에서 심리하자고 했다. 중요한 헌법적 쟁점이 아닌 경우에는 지정재판부의 사전심사 단계에서 청구를 기각할 수 있도록 조문을 개정해야 한다고 했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;제75조(인용결정)는 법원의 확정판결에 의한 기본권 침해가 인정될 경우 헌법재판소가 해당 판결을 취소하고 사건을 관할법원으로 환송하도록 규정하고, 환송된 법원은 헌재 결정 취지에 따라 다시 심리하도록 명시했다. 또 환송심 소송 절차에는 각 심급 소송절차 규정을 준용하도록 명확히 했다. 헌재는 “대법원 특히 대법원 판결을 취소하고 환송할 경우 관여 법관의 배제 문제 등을 고려해, 재판소원의 기속력 규정을 더욱 명확히 할 필요가 있다”고 했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;헌재는 의견서의 ‘결론’ 부분에서 “재판소원 관련 충실한 논의를 위해 추가로 연구 검토한 자료를 수시로 제출하겠다”고 밝혔다.&lt;/p&gt;</description>
 			<pubDate>Thu, 22 May 2025 02:05:57 -0000</pubDate>
@@ -229,16 +239,6 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/208178</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/208178.jpg</media:thumbnail>
 			<dc:creator>우빈 기자</dc:creator>
-		</item>
-		<item>
-			<title>[포토] 내 마음의 풍경</title>
-			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/208212.jpg" alt="3463738.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p style="text-align: left;"&gt;서울 마포새빛문화숲 공원 분수에서 아이들이 5월 이른 더위를 식히고 있다.&lt;/p&gt;&lt;p style="text-align: left;"&gt;&amp;nbsp;&lt;/p&gt;&lt;p style="text-align: right;"&gt;&lt;b&gt;백성현 기자 stwhite@lawtimes.co.kr&lt;/b&gt;&lt;/p&gt;</description>
-			<pubDate>Tue, 20 May 2025 20:07:48 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/208212</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/208212</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/208212.jpg</media:thumbnail>
-			<dc:creator>인터넷 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
