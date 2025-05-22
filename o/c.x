@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>[매일매일 중국어 한마디] 물샐틈없다, 발 디딜 틈이 없다</title>
+      <link>https://www.chosun.com/national/nie/chinese/2025/05/22/YHRPQ4WTDZFHBND7GNUPCONLV4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese/2025/05/22/YHRPQ4WTDZFHBND7GNUPCONLV4/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Wed, 21 May 2025 15:34:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WBOTGMPSY5AMRC34ZOQFMM2YCY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>[법없이도 사는법]중앙지검장  ‘선제적 사표’로 동요하는 검찰 내부  </title>
       <link>https://www.chosun.com/national/court_law/2025/05/23/2YCXTAS5WNDOHF4XKES44K7D4U/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/05/23/2YCXTAS5WNDOHF4XKES44K7D4U/</guid>
@@ -802,15 +811,6 @@
       <description/>
       <pubDate>Wed, 21 May 2025 15:34:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JVIH3P2A55B3DHK7O73F624CNQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[두근두근 뇌 운동] [2626] 오늘은 뭘 볼까</title>
-      <link>https://www.chosun.com/national/nie/2025/05/22/HHWPQRDMTFECDHAOOCOLBNVBF4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2025/05/22/HHWPQRDMTFECDHAOOCOLBNVBF4/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 21 May 2025 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/W66GZW4UKNAORG5DBCCUJGIYSY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[신문으로 배우는 실용한자] 삼백초(三白草)</title>
