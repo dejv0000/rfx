@@ -13,6 +13,24 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>[속보] 법원 “‘콜 몰아주기’ 카카오모빌리티, 공정위 과징금 취소”</title>
+      <link>https://www.chosun.com/national/court_law/2025/05/22/255NUGJ53VG4PEZD6H7Z5EFQTQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/05/22/255NUGJ53VG4PEZD6H7Z5EFQTQ/</guid>
+      <dc:creator>김나영 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 22 May 2025 04:59:45 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FMLZEIOZ7E5N75G3G3SS73KXC4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 중구 서울역 택시 승강장에 정차해 있는 카카오 택시의 모습./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>제주 모 중학교 교사, 학교서 숨진 채 발견</title>
+      <link>https://www.chosun.com/national/regional/2025/05/22/E63OCUPDOBCEHFNXT5NSYLIAMU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/05/22/E63OCUPDOBCEHFNXT5NSYLIAMU/</guid>
+      <dc:creator>제주=오재용 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 22 May 2025 04:59:59 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SFJ46VKRZRG5HIUFJQR6KQ4PGQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰./조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제주의 한 중학교에서 40대 교사가 숨진 채 발견돼 경찰이 수사에 나섰다.&lt;br&gt;&lt;br&gt;제주경찰청에 따르면 22일 새벽 0시 46분쯤 제주시 모 중학교 창고에서 40대 교사 A씨가 숨진 채 발견됐다. 앞서 전날 A교사 가족이 경찰에 실종신고를 했고, 경찰이 휴대전화 위치 추적으로 학교 주변을 수색하던 중 학교 본관 뒤 창고에서 숨진 A씨를 발견했다.&lt;br&gt;&lt;br&gt;경찰은 A씨의 유서가 교무실에서 발견됐으며 정확한 사망 경위를 조사하고 있다고 밝혔다.&lt;br&gt;&lt;br&gt;제주도교육청 차원에서도 학교를 방문해 사안을 조사하고 있다.&lt;br&gt;&lt;br&gt;※ 우울감 등 말하기 어려운 고민이 있거나 주변에 이런 어려움을 겪는 가족·지인이 있을 경우 자살 예방 상담 전화 ☎109 또는 자살예방SNS상담 ‘마들랜’에서 24시간 전문가의 상담을 받을 수 있습니다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>뇌출혈로 쓰러진 아내 두고 테니스 치러 간 남편…치상 무죄에 검찰 항소</title>
       <link>https://www.chosun.com/national/national_general/2025/05/22/YC6UENOS25EKFHYIGCHARADYG4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/05/22/YC6UENOS25EKFHYIGCHARADYG4/</guid>
@@ -922,24 +940,6 @@
       <description/>
       <pubDate>Tue, 20 May 2025 12:59:03 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UMOBPDY6IFNPLLSSNOADBSHVOM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난해 3월 11일 서울 시내 한 병원에서 군의관이 파견 근무에 나서고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정부 예산으로 의대 교육을 받고 의사가 된 군의관 4명 중 3명이 이미 군대를 떠난 것으로 나타났다. 군대에 부족한 의사를 양성하기 위한 정책이 일부 군인들의 ‘의사 면허 취득’ 경로로 이용되고 있다는 지적이 나온다. &lt;br&gt;&lt;br&gt;20일 국민의힘 강대식 의원실이 국방부에서 받은 자료에 따르면, ‘의대 군위탁 제도’를 통해 의사 면허를 따고 수련을 한 뒤 10년의 의무 복무 기간이 2016~2025년에 끝난 42명 가운데 32명(76.2%)이 지난달 기준 군을 떠난 것으로 나타났다.&lt;b&gt; &lt;/b&gt;이 중 의무 복무 기간이 끝나자마자 전역한 경우는 14명이다.&lt;br&gt;&lt;br&gt;‘의대 군위탁 제도’는 매년 10명 안팎의 초급 장교를 선발해 세금으로 의대 교육을 시켜주고 군의관으로 10년간 의무 복무하도록 하는 제도다. 의대 예과(2년)는 건너뛰고 본과 4년, 전공의 수련 5년을 마치면 된다. 서울대, 연세대 의대 2곳이&lt;b&gt; &lt;/b&gt;국방부와 협약을 맺고 ’위탁 교육’을 한다. &lt;br&gt;&lt;br&gt;군대에서 오래 복무할 수준 높은 의사를 양성하자는 게 제도 취지인데, 의무 복무 후 곧장 떠나는 이들이 많은 상황이다. 보통 20대 초·중반 젊은 장교를 선발하기 때문에 의무 복무가 끝나도 40대 초다. 이 때문에 “명문대 의사 면허 따고 40대 초 개원 가능한 초이득 제도”라는 얘기가 장교들 사이에 퍼졌다고 한다. 이에 의대 위탁생 지원자가 2023학년도 60명, 2024학년도 66명, 올해 105명으로 급증하고 있다.&lt;b&gt; &lt;/b&gt;&lt;br&gt;&lt;br&gt;최근엔 심지어 엘리트 군인을 양성하는 사관학교 출신들도 많이 지원하고 있다. 육해공군 사관학교와 육군3사관학교, 국군간호사관학교 출신 의대 군위탁 지원자는 2023학년 29명에서 2025학년도 79명으로 3배가량 늘어났다. 사관학교 출신들의 합격률도 높다. 올해 서울대 의대에 선발된 3명은 모두 육사 출신이었고, 연세대 의대 선발자 11명 중 8명(육사 2, 해사 1, 공사 2, 간호사관 3명)이 사관학교 출신이었다. 육사 출신A 대위는 “우수 성적으로 사관학교를 졸업한 장교 상당수가 의대 지원을 고민하고 있다”면서 “원래라면 군에 남을 이들이 의대 교육을 일종의 ‘신분 상승’으로 여기고 이른 전역을 결심하는 것”이라고 했다. 강대식 의원은 “장기 복무할 인재를 길러내겠다는 취지지만 상당수가 의무복무만 마치고 전역해 군의료 체계의 ‘허리’가 붕괴되고 있다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘헌정 사상 첫 검사탄핵’ 안동완, 사의 표명 </title>
-      <link>https://www.chosun.com/national/court_law/2025/05/20/2ODIKYBXONEPXJ6EHXX2TIHVCU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/05/20/2ODIKYBXONEPXJ6EHXX2TIHVCU/</guid>
-      <dc:creator>이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 20 May 2025 10:49:07 +0000</pubDate>
-      <content:encoded>헌정 사상 처음으로 탄핵소추됐던 안동완 서울고검 검사가 최근 사의를 표명한 것으로 20일 확인됐다. 더불어민주당 주도로 2023년 9월 안 검사 탄핵소추안이 국회에서 가결됐지만, 8개월 만인 작년 5월 헌법재판소가 이를 기각했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IHWOO7FFJVIKVCDNBCLDBZP4UU.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;안동완 서울고검 검사./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 안 검사는 최근 서울고검 지휘부에 일신상의 이유로 사의를 표명한 것으로 전해졌다. 탄핵소추로 직무가 정지됐던 점도 결정에 영향을 미쳤다는 것이 주변 관계자들의 전언이다.&lt;br&gt;&lt;br&gt;민주당이 안 검사를 탄핵한 이유는 안 검사가 2014년 ‘간첩 조작 사건’의 피해자 유우성씨를 불법 대북 송금 혐의(외국환거래법 위반) 등으로 기소한 것이 공소권 남용이고, 헌법과 법률을 위반했다는 것이었다. 유씨는 2013년 간첩 혐의로 기소됐는데, 재판에서 국정원의 증거 조작이 드러나 무죄를 선고받았다. 이 사건 수사에 관여했던 검사들은 징계를 받았다. 그러자 검찰이 과거 기소유예 처분했던 유씨의 불법 대북 송금 혐의를 다시 끄집어내 ‘보복성 기소’를 했다는 게 민주당 등의 주장이다. 안 검사는 2014년 유씨를 기소할 때 외국환거래법 위반, 허위 경력으로 서울시 공무원에 취업한 ‘위계에 의한 공무 집행 방해’ 혐의 등 두 가지를 적용했고, 1심은 모두 유죄로 판단해 벌금 1000만원을 선고했다. 2심은 외국환거래법 위반 혐의에 대해 “검사의 공소권 남용”이라며 공소 기각 판결을 내리고, 공무 집행 방해 혐의에는 벌금 700만원을 선고했다. 2021년 대법원도 이를 유지했다.&lt;br&gt;&lt;br&gt;탄핵 소추 당시 안 검사는 입장문을 내 “해당 사건은 고발장이 2건 접수돼 형사부에 배당된 것”이라며 “(2013년) 공안부 수사 때와 달리 유씨가 직접 환치기를 하고 수익금이 상당하다는 것이 확인돼 기소유예 사건을 재개해 기소한 것”이라고 밝혔다. 보복성 기소가 아니었다는 것이다. 헌재는 작년 5월 안 검사의 탄핵을 기각했다.&lt;br&gt;&lt;br&gt;한편, 안 검사처럼 민주당 주도로 탄핵소추됐던 이창수 서울중앙지검장과 조상원 4차장검사도 이날 오후 사의를 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>이창수 중앙지검장·조상원 4차장 동반 사의</title>
-      <link>https://www.chosun.com/national/court_law/2025/05/20/25V2TSDGXRBCZGRKE6HJ3O7SSE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/05/20/25V2TSDGXRBCZGRKE6HJ3O7SSE/</guid>
-      <dc:creator>유희곤 기자, 이민준 기자, 박강현 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 20 May 2025 08:56:30 +0000</pubDate>
-      <content:encoded>이창수 서울중앙지검장과 조상원 4차장검사가 20일 사의를 표명한 것으로 확인됐다. 더불어민주당이 주도한 탄핵이 기각되면서 직무에 복귀한 지 두 달 만이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UFK7K33IQJMTHIQZ3BSVRMMIHQ.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;이창수 서울중앙지검장 /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 이 지검장과 조 차장검사는 이날 오후 법무부에 사의를 표명하고, 중앙지검 관계자들에게 이를 알렸다. 이 지검장과 조 차장검사는 윤석열 대통령 배우자 김건희 여사의 ‘도이치모터스 주가 조작 연루’ 의혹을 불기소했다는 이유로 지난해 12월 탄핵소추되며 직무가 정지됐었다. 직무정지 기간이 길어지면서 정신적, 육체적으로 상당한 고통을 겪으며 건강이 나빠졌다는 것이다. 헌법재판소가 탄핵을 기각하면서 두 사람 모두 지난 3월 직무에 복귀했었다. 이후 주요 현안에 대한 지휘를 한 뒤 이날 사의를 표명한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;조 차장검사는 이날 퇴근길에 기자들과 만나 “탄핵 등으로 너무 힘들었다”며 “지금까지 22년 살아온, 여기 검찰에 20년 있으면서 어떤 편을 든다 이런 게 아니었다”고 말했다. 탄핵 소추 배경이 된 김 여사 불기소 처분에 정치적 고려는 없었다는 뜻으로 풀이된다. 이 지검장과 같은 날 사의를 표명한 데 대해선 “각자 알아서 결정한 것”이라고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6AE47YV4YJMENBXSQLBQCADE6M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;조상원 서울중앙지검 4차장검사./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이 지검장과 조 차장검사는 이재명 더불어민주당 대선 후보 수사를 지휘한 대표적인 인물로 꼽힌다. 이 지검장이 수원지검 성남지청장, 조 차장검사가 성남지청 차장일 때 이 후보의 ‘성남FC 불법 후원금’ 사건을 수사해 기소한 바 있다. &lt;br&gt;&lt;br&gt;두 검사의 사의가 받아들여질 경우 주요 사건 수사와 재판에 차질이 빚어질 것이라는 우려가 법조계에서 나온다. 이 지검장과 조 차장검사는 이 후보의 ‘대장동·위례·백현동·성남FC’ 사건 재판과 ‘위증교사’ 항소심 재판을 지휘하고 있다. ‘민주당 전당대회 돈 봉투’ 사건에 연루된 돈 봉투 수수 의원들의 수사도 이 지검장과 조 차장검사가 이끌고 있다. 최근 불거진 ‘홈플러스 단기 채권’ 사태도 마찬가지다.&lt;br&gt;&lt;br&gt;이 밖에도 서울중앙지검은 별도의 전담수사팀을 설치해 정치 브로커 명태균씨의 ‘공천 개입’ 의혹을 수사하는 중인데, 수사팀은 김 여사 소환 조사를 앞두고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
