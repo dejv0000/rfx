@@ -13,6 +13,73 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>목동 재건축 단지 중 6단지에 ‘1호 조합’</title>
+      <link>https://www.chosun.com/national/national_general/2025/05/23/TDO365HZEVCJNPYW3FYB62EHFM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/05/23/TDO365HZEVCJNPYW3FYB62EHFM/</guid>
+      <dc:creator>김영우 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 23 May 2025 12:35:01 +0000</pubDate>
+      <content:encoded>서울 양천구 목동6단지가 재건축 조합 설립 인가를 받았다. 재건축을 추진 중인 목동 열네 단지 중 조합 설립 인가를 받은 건 6단지가 처음이다. &lt;br&gt;&lt;br&gt;양천구는 목동6단지 재건축 조합 설립을 승인했다고 23일 밝혔다. 목동6단지는 39년 전인 1986년 준공했다. 최고 20층 1362가구 규모다. 이대목동병원, 양정중·고와 붙어 있다. &lt;br&gt;&lt;br&gt;이를 최고 49층 2173가구로 재건축할 계획이다. 단지 안에는 목6동 복합청사도 짓기로 했다. &lt;br&gt;&lt;br&gt;조합은 앞으로 시공사를 선정하고 서울시 심의 등 절차를 밟을 계획이다. 양천구 관계자는 “6단지를 시작으로 나머지 목동 재건축 단지들도 사업에 속도를 낼 것”이라고 했다.&lt;br&gt;&lt;br&gt;서울 여의도 광장아파트는 최고 56층 1391가구 단지로 재탄생할 전망이다. 서울시는 이 같은 내용의 재건축 정비 계획안을 주민들에게 공개한다고 23일 밝혔다. &lt;br&gt;&lt;br&gt;광장아파트는 1978년 지었다. 최고 14층 744가구 규모 단지다. 지하철 여의도역, 여의도 샛강생태공원과 가깝다. 1·2동과 3~11동이 별도로 재건축을 추진하고 있다. 이번에 정비 계획안이 나온 건 3~11동이다. 1·2동은 아직 정비 계획안을 만들고 있다. &lt;br&gt;&lt;br&gt;정비 계획안에 따르면, 단지에서 바로 샛강생태공원을 오갈 수 있는 입체 보행교를 조성한다. 공공 기여 시설로 지역 주민들이 이용할 수 있는 ‘데이케어센터(노인 요양 시설)’와 공공 업무 시설을 짓는다. 데이케어센터는 연면적 1000㎡ 규모로 지을 계획이다.&lt;br&gt;&lt;br&gt;공공 임대주택 232가구 중 116가구는 서울시의 신혼부부 장기 임대주택인 ‘미리내집’으로 공급한다. 아이를 낳으면 더 오래 살 수 있는 임대주택이다.&lt;br&gt;&lt;br&gt;현재 여의도에서는 광장아파트를 포함해 총 열두 단지가 재건축을 추진하고 있다. 이 중 대교아파트와 한양아파트의 사업 속도가 가장 빠르다. 이미 정비 계획을 확정해 서울시 심의를 통과했다. 현재 사업 시행 계획 인가를 앞두고 있다. 서울시는 내년 1월까지 여의도 열두 단지의 정비 계획을 모두 확정한다는 계획이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>경찰, 尹 비화폰 통화 내역 첫 확보</title>
+      <link>https://www.chosun.com/national/national_general/2025/05/23/HBV6EI2PQBC3HB2TGJVQFGZ3NE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/05/23/HBV6EI2PQBC3HB2TGJVQFGZ3NE/</guid>
+      <dc:creator>구아모 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 23 May 2025 12:07:39 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4HST6E6A2L234YJBY7QJMZMI2A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령이 지난 19일 서울 서초구 중앙지방법원에서 열린 내란 우두머리 혐의, 직권남용 권리행사방해 혐의 사건 4차 공판을 마친 뒤 법정을 나서고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;12·3 비상계엄 사태를 수사하는 경찰은 23일 대통령경호처 내 비화폰(보안 휴대전화) 서버 기록과 계엄 당시 윤석열 전 대통령이 사용한 비화·업무폰을 확보했다고 밝혔다. 계엄 사태 이후 경호처 내부 비화폰 서버를 수사기관이 확보한 것은 이번이 처음이다. &lt;br&gt;&lt;br&gt;경찰청 국가수사본부 비상계엄 특별수사단은 이날 윤 전 대통령, 박종준 전 경호처장, 김성훈 차장 등에 대한 특수공무집행방해 혐의 수사와 관련 경호처의 비화폰 서버 기록을 임의 제출받았다고 밝혔다. 경찰은 윤 전 대통령이 사용한 비화폰, 업무폰 등도 추가로 압수 및 임의 제출받아 확보했다고 밝혔다. 이를 통해 경찰은 윤 전 대통령의 비화폰 통화 및 문자 수발신 내역 등을 확보해 분석 중이다. 윤 전 대통령이 누구와 얼마 동안 통화를 했는지는 알 수 있지만, 통화나 문자 내용은 알 수 없다.&lt;br&gt;&lt;br&gt;경찰이 이번에 확보한 자료는 윤 전 대통령의 체포 저지(특수공무집행방해) 혐의에 한정된 것으로, 계엄 발령과 관련된 내역은 포함되지 않았다. 다만 계엄 이후 윤 전 대통령과 군과 내각 등 주요 인사와의 연락 기록 및 지시 정황 등이 속속 드러날 수 있다는 관측이 나온다. 이 때문에 비상계엄 발령 상황을 수사하는 검찰 비상계엄 특별수사본부(본부장 박세현 서울고검장)도 이날 법원에 비화폰 압수 수색이 필요하다는 취지의 의견서를 제출했다.&lt;br&gt;&lt;br&gt;비화폰 서버 기록은 2일마다 자동으로 삭제된다. 특수단은 지난달 30일부터 이달 22일까지 포렌식을 통해 삭제된 기록을 대부분 확보했다고 밝혔다. 경찰은 “윤 전 대통령이 누구와 언제, 몇 차례 통화·문자를 했는지를 분석해 (윤 전 대통령) 체포 전후 상황 등을 파악할 방침”이라고 했다. 경찰이 확보한 윤 전 대통령 비화폰과 업무폰 등은 윤 전 대통령이 탄핵 이후 경호처에 반납한 것이다. 자동 삭제 기능이 설정된 비화폰과 달리, 업무폰은 일반 휴대전화처럼 통화 및 문자 내역이 저장된다. &lt;br&gt;&lt;br&gt;경찰은 그간 다섯 차례에 걸쳐 경호처의 비화폰 서버를 압수 수색하려 했지만, 경호처가 제지에 나서면서 불발됐었다. 그러나 6번째 시도였던 지난달 16일 압수 수색 시도 이후 경호처는 임의 제출 방식으로 비화폰 서버 등 자료를 제출하기로 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>공금 1억6000만원 횡령 뒤 잠적한 전직 농민회 간부 구속</title>
+      <link>https://www.chosun.com/national/national_general/2025/05/23/G42T7QK5NRHURNVT6P2356IAGQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/05/23/G42T7QK5NRHURNVT6P2356IAGQ/</guid>
+      <dc:creator>무안=진창일 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 23 May 2025 11:57:21 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/U4MQHEQN6BM7DJYLVKXP7PARZI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전남 무안경찰서. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;1억6000만원에 달하는 공금을 빼돌린 뒤 잠적했던 전직 전국농민회총연맹 광주·전남연맹 간부가 구속됐다.&lt;br&gt;&lt;br&gt;무안경찰서는 23일 농민회 운영비와 회비 등 공금을 빼돌린 혐의(업무상 횡령)로 A(58)씨를 구속했다고 밝혔다.&lt;br&gt;&lt;br&gt;경찰에 따르면 A씨는 지난해 농민회 광주·전남연맹 소속 간부로 근무하면서 약 1억6000만원 상당의 공금을 가로챈 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;경찰은 A씨가 270여 차례에 걸쳐 20만~30만원씩 자신의 계좌로 공금을 이체하는 방식으로 돈을 빼돌려 온 것으로 파악했다. A씨의 범행은 지난해 농민회 연말 결산 과정에서 드러났다. &lt;br&gt;&lt;br&gt;경찰은 농민회 광주·전남연맹으로부터 고소장을 접수받아 수사에 착수했고, 잠적한 A씨를 지난 20일 부산에서 검거했다.&lt;br&gt;&lt;br&gt;경찰은 A씨가 횡령한 돈을 불법 스포츠 도박과 생활비 등으로 사용한 것으로 보고 있다. 경찰은 정확한 사건 경위를 조사할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/U4MQHEQN6BM7DJYLVKXP7PARZI.jpg?auth=76a6d2c50e0d9b1b36f2b730cc01da99d732310f6c39f86e4d0571781bf30886&amp;smart=true&amp;width=3687&amp;height=2458" type="image/jpeg" height="2458" width="3687">
+        <media:description type="plain">전남 무안경찰서. /뉴스1</media:description>
+        <media:credit role="author" scheme="urn:ebu">뉴스1 DB</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>서울 강동구서 급발진 추정 차량 돌진...11명 부상</title>
+      <link>https://www.chosun.com/national/national_general/2025/05/23/S24IBAGCLBBRPOY2WYSJUUHVRY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/05/23/S24IBAGCLBBRPOY2WYSJUUHVRY/</guid>
+      <dc:creator>김나연 기자, 김도연 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 23 May 2025 10:57:28 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Y5EVRVAOKZAJNEBI6QIHN2HXOQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;23일 오후 7시쯤 서울 강동구 길동 복조리 시장에서 차량이 돌진해 보행자 등 11명이 다치는 사고가 발생했다./독자 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 강동구에서 급발진으로 추정되는 차량이 재래 시장 골목에 돌진해 11명이 다치는 사건이 23일 발생했다. 부상자 대부분이 병원으로 이송돼 치료를 받고 있다. 60대 운전자는 현장에서 “차량이 급발진했다”고 주장한 것으로 전해졌다. &lt;br&gt;&lt;br&gt;소방 당국 등에 따르면 이날 오후 7시쯤 서울 강동구 길동 복조리 시장에서 차량 1대가 인도로 돌진해 행인 등 11명이 다쳤다. 사고가 난 맞은편 과일 가게에서 일하는 박모(31)씨는 “쾅 하는 소리가 나면서 사람들을 쳤다”며 “비명을 지르는 소리가 울려 퍼졌다”고 했다. 차량은 시장에 있는 채소 가게, 부동산 등을 들이받은 뒤 멈춰 섰다. 대부분 경상을 입고 병원으로 이송됐으며 1명은 현장에서 응급조치를 받았다. 사고가 난 직후 소방에는 “급발진으로 보이는 승용차가 보행자 7~8명을 치고 갔다”는 등의 신고가 여럿 접수됐다.&lt;br&gt;&lt;br&gt;경찰에 따르면 운전자는 60대 초반 남성인 것으로 알려졌다. 운전자는 현장에서 급발진을 주장한 것으로 알려졌다. 음주를 하거나 마약 복용 상태는 아니었던 것으로 전해졌다. 이 운전자는 치매를 앓고 있지도 않은 것으로 파악됐다고 경찰은 전했다. 이날 사고 차량에 동승자는 없었다. 경찰은 운전자에 대해 음주 및 약물 검사를 다시 한번 실시할 예정이다. 운전자는 평소 한쪽 다리를 절었던 것으로 알려졌다. 경찰 관계자는 “조사에 나선 후 운전자의 입건 여부를 결정할 것”이라고 말했다. 경찰과 소방 당국은 현장 수습에 나섰고 정확한 사건 경위를 파악하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>검찰, 도이치모터스 주가 조작 ‘김건희 엑셀파일’ 작성 관여자 다음주 조사</title>
+      <link>https://www.chosun.com/national/court_law/2025/05/23/UD3ZMQMZPJF7HAGJ74G5FXDLNY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/05/23/UD3ZMQMZPJF7HAGJ74G5FXDLNY/</guid>
+      <dc:creator>유희곤 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 23 May 2025 11:38:38 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/35KBBLHR4I6A3P7KTS2XIGQDZU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령 부인 김건희 여사가 사저인 서울 서초구 아크로비스타로 들어서고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 전 대통령 배우자 김건희 여사의 도이치모터스 주가 조작 의혹 사건을 다시 수사하고 있는 서울고검이 ‘김건희’라는 제목의 엑셀 파일 작성에 관여한 민모씨에게 참고인 조사를 받으라고 통보한 것으로 23일 전해졌다.&lt;br&gt;&lt;br&gt;법조계에 따르면, 서울고검은 도이치모터스 주가 조작 사건 피의자로 1심에서 징역 1년 6개월에 집행유예 3년을 선고받고 항소한 블랙펄인베스트먼트 전 임원 민모씨에게 다음 주 초 검찰청사에 나와 조사를 받으라고 했다. 민씨도 이에 응한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;민씨는 2009년 1월부터 2012년 12월까지 권오수 전 도이치모터스 회장과 공모해 도이치모터스 주가를 인위적으로 끌어올려 107억원 상당의 부당이득을 챙긴 혐의 등으로 기소됐다. 민씨는 2021년 검찰 수사가 본격화하자 해외로 도피했다가 2022년 11월 귀국하는 과정에서 붙잡혔다. &lt;br&gt;&lt;br&gt;2022년 8월 열린 권 전 회장 재판에서는 민씨가 ‘김건희’라는 제목의 엑셀 파일을 작성하도록 지시했다는 증언도 나왔다. 해당 엑셀 파일에는 김 여사 명의의 인출 내역과 잔고 등이 정리돼 있었다. 이에 대해 민씨는 증인신문에서 “처음 보는 파일이고 모르는 내용”이라고 했다.&lt;br&gt;&lt;br&gt;서울고검은 지난 21일에는 도이치모터스 주가 조작 사건의 또 다른 피고인인 이모씨를 불러 김 여사의 관여 여부를 조사했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>교총, 무단으로 교사 임명장 발송한 국민의힘 고발 </title>
+      <link>https://www.chosun.com/national/education/2025/05/23/22RUWPPB3NCGPKPIOUUO27VMJ4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/education/2025/05/23/22RUWPPB3NCGPKPIOUUO27VMJ4/</guid>
+      <dc:creator>최인준 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 23 May 2025 10:33:46 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7NWWKMVB7ZENVL7OGGHXS23YCE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;강주호(왼쪽에서 둘째) 한국교총 회장 등이 23일 서울 서초경찰서에 전국 교원들의 개인정보를 사전 동의 확인도 없이 무단 수집해 임명장 발송에 활용한 국민의힘에 대해 개인정보보호법, 공직선거법 위반으로 고발했다./교총&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한국교총이 전국 교원들의 개인정보를 동의 없이 무단 수집하고 교사들에게 대선 캠프 특보 임명장을 보낸 국민의힘을 경찰에 고발했다. &lt;br&gt;&lt;br&gt;교총은 23일 ″국민의힘을 개인정보보호법, 공직선거법 위반으로 서초경찰서에 고발했다”고 밝혔다. 지난 20일 다수 교사가 ‘제21대 대선 국민의힘 임명장’이라는 제목의 문자 메시지를 받았다. 메시지에는 국민의힘 교육특보로 임명한다는 내용의 임명장을 확인할 수 있는 링크 주소가 담겨져 있었다. 발신 번호는 국민의힘 대표 번호였다.&lt;br&gt;&lt;br&gt;알고 보니 국민의힘 측이 외부에서 확보한 일선 교사들의 휴대전화 번호 등 개인 정보를 바탕으로 이 같은 임명장 메시지를 보낸 것으로 확인됐다. 국민의힘은 지난 21일 임명장 오발송 사과문을 내고 잘못을 시인했다. &lt;br&gt;&lt;br&gt;한편 교총은 내부 조사 결과 교총 내부 직원이 한 전직 교총 사무총장에게 교원 개인 정보를 유출한 것으로 나타났다고 밝혔다. 이 전직 사무총장이 국민의힘 측에 교원 정보를 전달했는지 여부는 밝혀지지 않았다. 교총은 이날 정보를 유출한 직원을 직위해제하고 전직 사무총장과 함께 서초서에 고발, 수사 의뢰했다. &lt;br&gt;&lt;br&gt;교총 측은 “개인의 위법 행위지만 회원 단체로서 책임을 통감한다”며 “교원들에게 심려를 끼친 점 깊이 사죄드린다”고 밝혔다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>尹 재판부에 ‘비화폰 압수 영장’ 발부 요청한 검찰</title>
+      <link>https://www.chosun.com/national/court_law/2025/05/23/Y24BPR3JEZCBVBDNTZ7XGY4CWM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/05/23/Y24BPR3JEZCBVBDNTZ7XGY4CWM/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 23 May 2025 10:28:44 +0000</pubDate>
+      <content:encoded>‘12·3 비상계엄’ 사태를 수사하는 검찰이 윤석열 전 대통령 등 사건 관계자들의 비화폰 서버에 대한 압수 수색 영장을 발부해달라고 재판부에 요청했다. 윤 전 대통령을 재판에 넘기며 수사가 마무리됐지만, 재판 과정에서 혐의 입증을 위해 비화폰 관련 자료를 확보할 필요가 있다는 것이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TY6EGMS6RMFGN2IE4Z4GERAWSA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰 비상계엄 특별수사본부(본부장 박세현 서울고검장)는 23일 서울중앙지법 형사25부(재판장 지귀연)에 대통령경호처 내 비화폰 서버 등에 대한 압수 수색 영장 발부가 필요하다는 취지의 의견서를 제출했다. 검찰은 윤 전 대통령을 비롯한 관계자 다수를 수사, 기소하면서도 비화폰 관련 자료를 확보하지는 못했던 것으로 알려졌는데, 재판이 진행되는 단계에서 이 자료들을 확보해 혐의 입증에 활용하겠다는 계획인 것으로 전해졌다.&lt;br&gt;&lt;br&gt;검찰이 요청한 자료는 비상계엄이 선포됐던 작년 12월 3일 전후의 비화폰 통신 자료라고 한다. 영장이 발부될 경우 윤 전 대통령이 곽종근 전 특수전사령관과 직접 통화를 했는지 여부 등 핵심 쟁점이 규명될 수 있다는 전망이 법조계 안팎에서 나온다.&lt;br&gt;&lt;br&gt;통상 수사가 진행 중일 때 검찰은 법원에 압수 수색 영장을 청구한 뒤, 이를 발부 받아 집행한다. 그러나 비상계엄 관련 사건의 경우 윤 전 대통령이 내란우두머리, 직권남용 혐의로 모두 기소되면서 윤 전 대통령에 대한 수사는 마무리된 상태다. 피의자가 아닌 피고인 신분일 때는 재판부가 직권으로 영장을 발부해야 하기 때문에, 검찰이 영장을 청구하는 대신 재판부에 압수 수색 영장을 내달라고 요청한 것이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/B63LFPFEK4KSXKNRR676MQNZ74.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울중앙지법 형사25부 지귀연 부장판사가 지난달 21일 서울 서초동 서울중앙지법에서 열린 윤석열 전 대통령의 내란 혐의 재판에서 발언하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한편 경찰 특별수사단은 이날 오전 언론 공지를 통해 윤 전 대통령과 박종준 전 경호처장, 김성훈 경호처 차장 등의 비화폰 서버 기록을 임의제출받아 확보했다고 밝혔다. 고위공직자범죄수사처와 경찰 특수단의 윤 전 대통령 체포영장 집행을 저지했다는 의혹에 대한 자료로, 검찰이 재판부에 요청한 것과는 다른 자료라고 한다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>변협 “대법관 증원 동의하나 비법조인 임명은 재고해야”</title>
       <link>https://www.chosun.com/national/court_law/2025/05/23/CDZYITHORJAFFHDNQA5OOV2L6Q/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/05/23/CDZYITHORJAFFHDNQA5OOV2L6Q/</guid>
@@ -799,24 +866,6 @@
       </media:content>
     </item>
     <item>
-      <title>‘중국산 국산으로 둔갑’ 고춧가루 학교 공급… 농업회사 대표 ‘징역 6년’ </title>
-      <link>https://www.chosun.com/national/regional/2025/05/22/HTINRJLWENC6PH45EO7YVYDJ7M/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/05/22/HTINRJLWENC6PH45EO7YVYDJ7M/</guid>
-      <dc:creator>우정식 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 22 May 2025 05:42:36 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WOIPX7HDNFCOHOGTNKRO6EMBJA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원로고. /조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;중국산 원료로 만든 고춧가루를 국내산으로 허위 표기해 학교 등에 납품한 농업회사법인 대표가 실형을 선고받았다.&lt;br&gt;&lt;br&gt;22일 법조계에 따르면 대전지법 형사11부(재판장 박우근)는 농수산물의 원산지 표시 등에 관한 법률 위반으로 기소된 농업회사법인 대표 A씨에게 징역 6년과 벌금 1억원을 선고했다. 이와 함께 법인에도 벌금 1억원을 선고했다.&lt;br&gt;&lt;br&gt;A씨는 2021년 10월부터 2022년 5월까지 중국산 다진 양념(일명 다대기)과 고춧가루·고추씨 등으로 고춧가루를 만들고서 마치 국내 농가에서 재배한 고품질 고추를 원료로 사용한 것처럼 광고해 고춧가루 총 3615㎏(5780만원 상당)를 판매한 혐의로 재판에 넘겨졌다. 이 가운데 1t가량은 학교 급식용 식재료로 납품됐다.&lt;br&gt;&lt;br&gt;A씨는 2020년에 중국산 고구마 전분의 원산지를 국내산으로 속여 팔아 징역 2년에 집행유예 5년, 벌금 1000만원을 선고받기도 했다.&lt;br&gt;&lt;br&gt;재판부는 “학생 건강과 직결되는 학교급식에 납품하고, 불특정 다수 개인 소비자에게 다량 판매해 사회에 끼친 악영향과 피해의 정도가 심각하다”며 “피고인은 증거 인멸을 여러 차례 시도하고, 범행을 은폐하기에 급급해 반성하는 태도를 보이지 않았다”고 판시했다. &lt;br&gt;&lt;br&gt;이어 “구속 기소돼 재판을 받다 스스로 도주 우려가 없다며 서약까지 해 보석 신청을 하고 선고기일에 도주했다”며 “동종·유사 범죄로 네 차례 형사처벌받고도 집행유예 기간 중 다시 범행한 만큼 준법의식이 희박해 보여 검사 구형보다 높게 형을 정했다”고 덧붙였다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘육사 수석·서울대 출신’ 서경석, 강사로 변신… 한국사 무료 특강</title>
-      <link>https://www.chosun.com/national/national_general/2025/05/22/4YYPPZ2KWVDD5MM25JX5VE6DOQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/05/22/4YYPPZ2KWVDD5MM25JX5VE6DOQ/</guid>
-      <dc:creator>박선민 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 22 May 2025 05:50:55 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/V3LONOZPJNMCJKVL74HIIIUA64.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;서경석 국민권익위원회 홍보대사 겸 자립준비청년 명예멘토가 지난 3월 31일 서울 종로구 정부서울청사 별관에서 열린 자립준비청년 명예멘토 간담회에서 인사말을 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;방송인 서경석이 강사로 변신해 자립 준비 청년과 아동보호시설 아동 등을 상대로 한국사 시험 대비 무료 특강을 한다. &lt;br&gt;&lt;br&gt;22일 국가권익위원회에 따르면, 오는 6월 10일, 7월 1일과 22일 오후 2시부터 4시까지 서울 마포중앙도서관에서 서경석이 진행하는 한국사 무료 특강이 진행된다. &lt;br&gt;&lt;br&gt;앞서 서경석은 지난 2월 73회 한국사 시험에서 연예인 최초로 100점 만점을 받았다. 작년 8월 71회 한국사능력검정시험에서 94점을 받고 이미 한국사 능력 검정시험 1급을 획득했지만, 100점을 위해 재도전한 뒤 목표를 달성한 것이다. &lt;br&gt;&lt;br&gt;서경석은 같은 달 자신의 유튜브 채널을 통해 “국사편찬위원회에서 정확하게 결과가 왔는데 믿기질 않는다”며 “100점 만점을 받았다”고 인증하기도 했다. 그는 “100점은 아무리 잘해도 그날의 운, 컨디션, 그리고 요만큼의 실수도 없어야 되는데 이런 날이 온다”며 “이제는 목표를 이뤘으니까 다음 시험부터는 시험을 직접 보진 않을 것”이라고 했다. 그러면서 “대신 앞으로 시험 보는 분들을 위해서 제가 무엇을 도울 수 있을지 계속 연구할 것”이라고 했다. &lt;br&gt;&lt;br&gt;이번에 서경석이 권익위 주최로 진행하는 강의는 오는 8월에 치러지는 75회 한국사능력검정시험에 대비한 실전 문제 풀이 특강으로, 수강생들은 서경석 유튜브 채널에 게시된 한국사 개념 강의를 먼저 시청한 뒤 특강에 참여해야 한다. 권익위는 지난 3월 서씨를 홍보대사 겸 자립 준비 청년 명예 멘토로 위촉한 바 있다. &lt;br&gt;&lt;br&gt;한편 서경석은 육군사관학교를 수석으로 합격해 입학한 뒤 자퇴하고 서울대 불어불문학과에 입학한 것으로 알려졌다. 서경석은 지난 2월 한 유튜브 채널에 출연해 “(육사) 훈련 마치고 생도 생활 조금 하다가 자퇴했다”며 “이후 재수했는데 수학을 너무 못 봤다. 근데 다행히 91년도 대학 학력고사 수리영역이 수학경시대회 수준이었다. 잘하던 애들도 확 틀리면서 기적적으로 대학에 합격했다”고 했다. &lt;br&gt;&lt;br&gt;서경석은 방송 활동을 하면서 여러 자격증 시험에 꾸준히 응시하는 것으로도 알려져 있다. 2021년엔 제32회 공인중개사 2차 시험에서 4과목 평균 60.83점을 기록, 최종 합격하기도 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[속보] 법원 “‘콜 몰아주기’ 카카오모빌리티, 공정위 과징금 취소”</title>
       <link>https://www.chosun.com/national/court_law/2025/05/22/255NUGJ53VG4PEZD6H7Z5EFQTQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/05/22/255NUGJ53VG4PEZD6H7Z5EFQTQ/</guid>
@@ -910,15 +959,6 @@
       <content:encoded>우리나라 40세 이상 성인 10명 중 4명은 고령이나 질병으로 돌봄이 필요할 때 ‘요양보호사’의 도움을 받겠다고 답한 것으로 21일 나타났다. 요양 시설과 돌봄 인력 의존이 현실적 선택으로 자리 잡고 있다는 분석이 나온다.&lt;br&gt;&lt;br&gt;재단법인 ‘돌봄과 미래’는 지난달 25~30일 한국리서치에 의뢰해 전국 40세 이상 성인 1000명을 대상으로 ‘지역사회 돌봄 인식 및 수요 조사’를 해 이날 공개했다. 이에 따르면, 고령이나 질병 등으로 돌봄이 필요할 경우 예상되는 돌봄 주체로 응답자의 39%가 ‘요양보호사 등 돌봄 인력’을 꼽았다. 이어 ‘배우자’(35%) ‘본인 스스로’(21%) 순이었다. ‘자녀’는 4%에 그쳤다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EDREPGOYCFHN7GFQFWDIVBP6E4.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=이철원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;남성의 49%는 ‘내가 아프면 아내가 나를 돌볼 것’이라고 했지만, 여성은 22%만이 ‘내가 아프면 남편이 나를 돌볼 것’이라고 했다. 응답자의 40%는 ‘긴급 상황에 가족 외 도움을 요청할 사람이 없다’고 했고, 기혼자의 52%, 미혼의 87%는 ‘고독사 가능성이 있다’고 했다. &lt;br&gt;&lt;br&gt;선호하는 임종 장소로는 48%가 ‘자택’을 꼽았다. 이어 종합 병원(31%), 요양 병원(12%), 요양 시설(7%) 순이었다. 선호하는 돌봄 장소는 ‘현재 살고 있는 집’(47%)이나 ‘살던 지역 내 돌봄 받기 좋은 집’(32%) 등 거주지에서 살면서 돌봄을 원한다는 비율이 80%에 육박했다. 노인 복지 주택과 요양원은 각각 7%에 그쳤다. &lt;br&gt;&lt;br&gt;다만 주변의 돌봄이 필요해 더 이상 집에서 거주하지 못할 경우에는 요양 시설 입소를 선택하겠다는 생각도 나타났다. 요양 시설에 대한 인식에서 긍정적(58%)이 부정적(38%)보다 많았다. &lt;br&gt;&lt;br&gt;요양 시설에 대해 ‘친구를 사귈 수 있다’(74%·복수 응답), ‘다양한 프로그램을 제공한다’(63%) 등 긍정적인 답이 많았다. 반면 ‘원하는 시간에 마음대로 먹고 잘 수 없다’(56%) ‘억지로 재우려고 약을 먹인다’(54%) ‘학대가 빈번하다’(53%) 등 부정적 답도 적지 않았다.&lt;br&gt;&lt;br&gt;한편 돌봄이 필요할 때 가장 필요한 서비스로는 ‘건강·의료 관리’(61%·복수 응답)가 가장 많이 꼽혔다. 이어 ‘식사·세면 등 일상생활 도움’(55%) ‘안전 확인’(49%) 순이었다. 우선 갖춰야 할 돌봄 서비스로는 ‘가정 방문 돌봄’(71%) ‘청소·식사 등 일상생활 지원’(68%) ‘주간 보호 서비스(데이케어 서비스)’(52%)가 꼽혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>MBC, 故오요안나 괴롭힘 의혹 기상캐스터와 계약 해지</title>
-      <link>https://www.chosun.com/national/national_general/2025/05/22/V44LJDYGKRFRBM76OGQ7PNT7KU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/05/22/V44LJDYGKRFRBM76OGQ7PNT7KU/</guid>
-      <dc:creator>최혜승 기자 </dc:creator>
-      <description/>
-      <pubDate>Wed, 21 May 2025 23:59:16 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4WZ6R76G5I5VNPT2DFYBNEF4IM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;고(故) 오요안나/인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;MBC가 고(故) 오요안나의 직장 내 괴롭힘 가해자로 거론된 기상캐스터 A씨와 지난 20일 계약을 해지했다고 21일 밝혔다. &lt;br&gt;&lt;br&gt;MBC는 고용노동부가 특별근로감독 결과를 발표한 다음 날 이같이 조치했다. 고용부는 지난 19일 고인에 관한 “조직 내 괴롭힘이 있었다”면서도 “근로기준법상 근로자로 인정되지는 않아 직장 내 괴롭힘 규정이 적용되지 않는다”고 밝혔다.&lt;br&gt;&lt;br&gt;고인은 2021년 입사 후 선배들로부터 업무상 수시로 지도와 조언을 받아왔다. 고용부는 이 과정에서 사회 통념에 비춰 업무상 필요성이 인정되기 어려운 행위가 반복됐다며 예시로 고인과 가해자의 대화를 공개했다.&lt;br&gt;&lt;br&gt;고용부는 “지도·조언에 대해 선·후배 간 느끼는 정서적 간극이 큰 점, 고인이 주요 지인들에게 지속해서 정신적 고통을 호소하고 유서에 구체적 내용을 기재한 점 등을 종합적으로 고려한 결과, 해당 행위들이 괴롭힘에 해당하는 것으로 판단했다”고 설명했다.&lt;br&gt;&lt;br&gt; 고(故) 오요안나는 2021년부터 MBC 기상캐스터로 활동하다 직장 내 괴롭힘 등의 이유로 작년 9월 28세 나이로 세상을 떠났다. 유족은 작년 12월 서울중앙지방법원에 가해자로 지목된 1명을 상대로 민사소송을 제기했다. 유족 측은 가해자와 회사 측의 사과가 없었다며 진상 규명을 강력히 요구했고 MBC는 올해 1월 말 진상조사위원회를 꾸렸다. 고용노동부는 지난 2월 특별 근로 감독에 착수했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>‘생애 첫 우승’ 손흥민 “나도 레전드 됐다…이제 편히 잠잘 것” </title>
       <link>https://www.chosun.com/national/people/2025/05/22/RI4IWP4XFBFZXFK6ZUMECDKPF4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/people/2025/05/22/RI4IWP4XFBFZXFK6ZUMECDKPF4/</guid>
@@ -926,42 +966,6 @@
       <description/>
       <pubDate>Wed, 21 May 2025 23:50:21 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/X5DEDK2MOVMO5LKMETOFBQYXCU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt; 22일 토트넘 핫스퍼의 손흥민이 유로파리그 결승전에서 우승한 뒤 편안한 표정을 짓고 있다./로이터 연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;잉글랜드 프로축구 프리미어리그(EPL) 토트넘 홋스퍼의 손흥민(32)이 유럽축구연맹(UEFA) 유로파리그(UEL)에서 우승한 후 이제 자신을 ‘레전드’라 부르겠다며 기뻐했다. 2010년 함부르크(독일)에서 데뷔한 손흥민이 프로 무대에서 우승한 것은 이번이 처음이다. &lt;br&gt;&lt;br&gt;토트넘은 22일 스페인 빌바오 산 마메스 스타디움에서 열린 2024-2025시즌 유로파리그 결승전에서 맨체스터 유나이티드(잉글랜드)를 1대0으로 꺾고 우승했다. &lt;br&gt;&lt;br&gt;경기 후 손흥민은 현지 언론과의 인터뷰를 통해 “날 레전드라고 부르겠다. 안 될 게 뭐가 있겠나”라며 첫 우승에 대한 기쁨을 감추지 못했다. 손흥민은 과거에는 여러 언론 인터뷰에서 아직 자신을 레전드라 부를 수 없다고 말한 바 있다.&lt;br&gt;&lt;br&gt;손흥민은 “17년간 아무도 하지 못했던 걸 놀라운 선수들과 해냈다. 토트넘에는 훌륭한 선수가 많지만 저는 아마 토트넘의 레전드가 될 것”이라며 “항상 꿈꿔왔던 순간이 오늘 이뤄졌다. 저는 세상에서 가장 행복한 사람이다”라고 했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DXAGWCKICNNZ7PJBHJ2VSLNWYA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;토트넘 핫스퍼 주장 손흥민이 212일 스페인 빌바오의 산 마메스 경기장에서 열린 토트넘 핫스퍼와 맨체스터 유나이티드의 UEFA 유로파리그 결승에서 승리한 뒤 팀 동료들과 트로피를 들어올리며 기뻐하고 있다. /AFP 연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;토트넘은 2007-2008 리그컵에서 정상에 오른 이후 17년 만에 우승의 영광을 안았다.&lt;br&gt;&lt;br&gt;손흥민은 최근 토트넘의 리그 성적이 부진한 것에 대해서는 “시즌 전체를 돌아보면 항상 힘든 순간이 있었지만, 선수들과 함께 이겨냈다”며 “(유로파 우승을) 정말 간절히 원했다. 지난 일주일 동안 매일 이 경기를 꿈꿨다. 마침내 해냈고, 이제 편하게 잠들 수 있다”고 했다.&lt;br&gt;&lt;br&gt;토트넘은 올 시즌 리그에서 11승 5무 21패로 승점 38에 그쳐 17위에 머무르고 있다.&lt;br&gt;&lt;br&gt;손흥민은 “오늘은 모두가 원하는 대로 마음껏 축하하는 날이다. 절대 잊을 수 없는 날로 만들고 싶다”며 “내일 비행기를 놓칠지도 모른다”고 했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OI5OE6OMHRN4RMV6CONQHQO5MI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;토트넘 핫스퍼의 손흥민이 유로파리그 결승전에서 우승한 뒤 아버지 손웅정씨와 포옹하고 있다./로이터 연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[단독] 디올백 때도, 샤넬백 때도 ‘김여사 그림자’가 움직였다</title>
-      <link>https://www.chosun.com/national/2025/05/22/KLSDETXU2RHUXO77HQUVLQBE2M/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2025/05/22/KLSDETXU2RHUXO77HQUVLQBE2M/</guid>
-      <dc:creator>고유찬 기자, 이민경 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 21 May 2025 20:02:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G22PUKN7UNHFDC5A34R2LRG37A.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;2022년 6월 경남 김해 봉하마을을 찾은 김건희 여사. 왼쪽에 있는 사람이 김 여사의 수행비서였던 유경옥 전 행정관이다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;유경옥 전 행정관은 15년 가까이 김건희 여사를 보좌해온 이른바 ‘그림자 비서’다. 유씨가 가방을 받은 시점은 윤 전 대통령 당선 직후인 2022년 4월과 7월인 것으로 검찰은 파악했다. 검찰은 현 정부 대통령실 근무 당시에도 ‘김 여사 문고리 4인방’ 중 핵심으로 꼽혔던 유씨가 실제 김 여사에게 백을 전달했을 가능성이 크다고 보고 있다. 이에 검찰은 최근 유씨의 출국을 금지한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;최근 검찰은 샤넬코리아 본사를 압수수색하며 가방의 모델과 일련번호, 구매 내역을 확보했고 유씨가 백을 바꾸며 생긴 추가 비용을 카드로 결제한 내역도 확보했다. 샤넬백 2개는 통일교 윤모 전 본부장 처형과 아내 이모씨가 각각 구매한 것으로 전해졌다. &lt;br&gt;&lt;br&gt;김 여사 측은 본지에 “샤넬백을 직접 받은 적도 없고 (유씨가) 받은 사실도 몰랐다”고 했다. 과거 김 여사가 운영했던 전시 기획 업체 ‘코바나컨텐츠’에서 고문을 맡았던 무속인 ‘건진 법사’ 전성배(65)씨가 유씨에게 ‘명품백 교환’을 지시해 심부름을 했을 뿐, 김 여사는 알지 못했다는 취지다. 유씨도 지난주 검찰 소환 조사에서 이같이 진술한 것으로 알려졌다. 그러나 검찰은 유씨가 처음부터 백을 전달하지 않은 ‘배달 사고’가 났을 가능성은 적다고 판단, 유씨를 이번 주말쯤 재소환할 방침인 것으로 전해졌다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3NFU5GW4SJBC3F2HLJMWT7TV3Q.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=이진영&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;유씨와 김 여사 간 관계는 15년 전으로 거슬러 올라간다. 김 여사가 대표로 있던 코바나컨텐츠에서 함께 일하면서 인연을 맺은 것으로 전해졌다. 영어를 잘하는 데다 전시 일정 등을 철저히 관리해 김 여사 신임을 받았다고 한다. 전시 총괄 팀장이었던 유씨는 지난 2012년 미술 전시 관련 정보 사이트에 ‘코바나컨텐츠 전시기획팀 신입 사원을 채용한다’는 글을 올렸다. 김 여사는 2017년 2월엔 유씨 생일 때 ‘유 팀장님 생신’ ‘우리 회사 국경일’이라는 글과 케이크에 불을 붙이고 축하하는 모습을 담은 사진을 소셜미디어에 올렸다. 2016년 파리로 출장 가 에펠탑, 파리 근교 지베르니에 있는 인상주의 화가 모네의 정원 등을 방문해 유씨와 함께 사진을 찍어 올리기도 했다. 정치권 관계자는 “유씨는 김 여사를 개인적으로 가장 잘 아는 인물”이라며 “시시콜콜한 개인 심부름까지 전담했던 것으로 안다”고 했다.&lt;br&gt;&lt;br&gt;윤석열 전 대통령 취임 이후에도 그는 대통령실 행정관으로 김 여사를 보좌했다. 2022년 정권 초기 노무현 전 대통령 묘역을 참배하기 위해 김 여사가 봉하마을을 방문했을 때 동행했다. 2023년 6월 윤 전 대통령 베트남 순방 당시 유씨가 하노이 시내 고급 백화점을 김 여사와 방문하는 장면이 촬영되기도 했다.&lt;br&gt;&lt;br&gt;검찰은 유씨가 김 여사 ‘국정·선거 개입 의혹’ 등에도 깊숙이 관여했다고 보고 있다. 그가 2022년 6월 정치 브로커 명태균씨와 국민의힘 김영선 전 의원 간 비공개 회동을 조율하기 위해 명씨와 카카오톡으로 대화를 나눈 기록이 검찰 수사 과정에서 드러났다. 명씨와 김 전 의원은 국회의원 공천을 대가로 돈을 주고받은 혐의 등으로 작년 12월 기소됐다. 지난 2022년 9월 재미 동포 최재영 목사가 김 여사에게 300만원 상당의 프랑스 명품 디올백(레이디 디올 파우치)을 건넸을 때도 유씨가 당시 일정을 조율했었다.&lt;br&gt;&lt;br&gt;검찰은 윤석열 정부 출범 이후 통일교 측 윤 전 본부장이 캄보디아 공적개발원조(ODA) 사업을 수주하게 해달라며 전씨 측에 샤넬백과 6000만원 상당의 고가 목걸이 등 명품을 잇따라 건네면서 청탁했다고 보고 있다. 윤 전 본부장은 2022년 3월 당선인 신분이었던 윤 전 대통령을 만나 ODA 문제를 논의했다고 그해 5월 통일교 창립 기념행사에서 밝혔었다. 실제 기획재정부가 캄보디아 차관 지원 한도액을 늘리기도 했다. 그해 11월엔 윤 전 대통령 부부가 동남아 순방 과정에서 캄보디아 프놈펜을 방문하기도 했다. 법조계 관계자는 “윤 전 대통령 직무 관련성과 대가성 등이 확인될 경우 김 여사는 물론 윤 전 대통령에 대한 수사로도 확대될 수 있다”고 했다.&lt;br&gt;&lt;br&gt;한편 검찰은 전씨 통화 내역을 확인하는 과정에서 김 여사가 전씨에게 두 차례 전화한 사실을 파악한 것으로 알려졌다. 김 여사가 전화한 시점은 2023년 1월로, 모두 김 여사가 먼저 전화했다. 김 여사의 주가조작 연루 의혹을 재수사하는 서울고검도 이날 김 여사 휴대폰을 압수해 분석 중인 것으로 전해졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘이재명 살리기’ 선거법 개정...전북교육감도 수혜자 될 듯</title>
-      <link>https://www.chosun.com/national/education/2025/05/22/ILEEBVKXYZFN7NVEWAISXZ5VYM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2025/05/22/ILEEBVKXYZFN7NVEWAISXZ5VYM/</guid>
-      <dc:creator>김민기 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 21 May 2025 20:00:00 +0000</pubDate>
-      <content:encoded>더불어민주당이 이재명 대선 후보와 관련된 허위 사실 공표죄 법 개정을 밀어붙이는 가운데 같은 혐의로 재판을 받고 있는 서거석 전북도교육감의 재판도 한 달 이상 연기됐다. 교육계에선 “이재명 후보를 위한 ‘방탄 입법’의 첫 수혜자가 서 교육감이 되는 것 아니냐”는 말이 나온다.&lt;br&gt;&lt;br&gt;21일 교육계에 따르면, 서 교육감 재판의 대법원 선고는 당초 이달 15일 예정돼 있었으나, 서 교육감 측은 지난 7일 법원에 선고 연기 신청서를 냈다. 대법원 2부가 받아들여 선고 기일을 다음 달 26일로 연기했다. &lt;br&gt;&lt;br&gt;서 교육감은 2022년 교육감 선거 당시 방송 토론회에서 과거 이귀재 전북대 교수를 폭행한 사실을 부인해 허위 사실 공표 혐의로 기소됐다. 그는 상대 후보였던 천호성 전주교대 교수가 교수 폭행 의혹에 대해 묻자 “그런 일은 전혀 없었다”며 수차례 강하게 부인했다. 실제 폭행이 있었는지가 재판 쟁점이 됐다. 1심 재판부는 이 교수가 경찰 조사 과정에서 폭행 여부에 대해 처음엔 “맞는다”고 했다가 이후 “아니다”라고 번복한 점 등을 들어 폭행 사실을 인정하기 어렵다고 보고 재작년 8월 서 교육감에게 무죄를 선고했다. 그런데 이후 위증 혐의로 구속된 이 교수가 “뺨을 맞은 적이 있다”고 했고, 이 진술은 항소심에도 영향을 미쳤다. 2심 재판부는 지난 1월 서 교육감에게 벌금 500만원을 선고했다. 대법원에서 벌금 100만원 이상이 확정되면 교육감직을 잃는다. 1·2심의 판단이 엇갈린 가운데 당초 이달 예정됐던 서 교육감의 운명 결정이 한 달 이상 미뤄진 것이다.&lt;br&gt;&lt;br&gt;이에 대해 서 교육감이 민주당이 추진하는 허위 사실 공표죄 관련 법 개정을 염두에 두고 재판 연기 신청을 한 것 아니냐는 얘기가 나왔다. 민주당은 공직선거법상 허위 사실 공표 구성 요건에서 ‘행위’라는 용어를 삭제하는 내용의 법 개정안을 발의했고, 개정안은 지난 14일 법사위를 통과했다. 이 법이 본회의를 통과하면 공직선거법 위반 사건으로 지난 1일 대법원에서 유죄 취지 파기환송 판결을 받은 이재명 후보와 서거석 교육감 모두 향후 재판에서 ‘면소’ 판결을 받을 수 있다. 두 사람이 재판을 받게 된 법 위반 행위 관련 규정이 아예 삭제되기 때문이다.&lt;br&gt;&lt;br&gt;서 교육감은 2022년 7월 취임했는데 같은 해 11월 기소돼 2년 6개월째 재판을 받고 있다. 공직선거법은 선거범 재판은 3심까지 1년 안에 마쳐야 한다고 규정했지만 제대로 지켜지지 않은 것이다. 한 교육계 인사는 “지역 교육을 챙겨야 할 교육감이 임기 내내 재판을 받는 게 말이 되느냐”고 했다. 전북교육청 측은 “추가 제출할 자료가 있어 재판 연기를 신청한 것이며, 이재명 후보 사건이나 법 개정 추진과 엮는 건 타당하지 않다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>흔들리는 법원, 무너지는 검찰</title>
-      <link>https://www.chosun.com/national/court_law/2025/05/22/H2U3N33H5VHFLIK5TWFWGO465Q/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/05/22/H2U3N33H5VHFLIK5TWFWGO465Q/</guid>
-      <dc:creator>김희래 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 21 May 2025 15:55:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SBROE5HAE2HLOKSEFWHOGHFE2A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 대법원 청사의 모습./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;오는 26일 예정된 ‘전국법관대표회의’ 임시 회의를 둘러싼 논란이 계속되고 있다. &lt;br&gt;&lt;br&gt;법관대표회의는 지난 20일 이재명 더불어민주당 대선 후보의 공직선거법 위반 사건에 대한 대법원 판결에 대해선 의견을 내지 않겠다는 입장을 밝혔지만, 정작 회의에서 논의할 안건에는 ‘이 후보 사건의 이례적 절차 진행이 사법에 대한 신뢰를 흔들었다’는 내용이 포함됐다. 언론에 보도자료를 낼 때 이런 내용을 제외해 논란을 부른 것이다. 법원 내부에선 “법관대표회의가 전국 법원 구성원들의 의견을 대표하는 것이 맞느냐”는 말까지 나온다. 진보 성향의 일부 판사들에 의해 법원 전체 여론이 왜곡된다는 것이다. 이번 회의 개최도 투표 기한을 하루 늦춰 겨우 정족수(26명)를 채웠다. 약 70명의 법관 대표가 회의 개최를 반대했다고 한다. &lt;br&gt;&lt;br&gt;검찰은 대선 결과가 나오기도 전에 스스로 무너지는 모양새다. 심우정 검찰총장은 21일 이 후보가 연루된 성남FC 사건을 수사했던 이창수 서울중앙지검장의 사의 표명에 대해 “검찰은 어떤 경우에도 흔들림 없이 역할을 수행할 것”이라고 했다. 하지만 검찰 내부는 뒤숭숭한 분위기다. 이 후보의 다른 사건을 수사했던 검사도 사직을 검토 중이라고 한다. 한 검찰 간부는 “이 후보가 당선되면 그를 수사했던 검사들은 감찰·수사 대상이 될 가능성이 높아 다들 고민이 많을 것”이라고 했다. &lt;br&gt;&lt;br&gt;이 후보는 이날 이 지검장 사표에 대해 “정치적으로 편향된 검찰권 행사에 대해선 사퇴하더라도 책임을 면할 수 없다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“정권 바뀌면 李 수사 검사들 특검·감찰 시달릴까 봐 사표”</title>
-      <link>https://www.chosun.com/national/court_law/2025/05/22/7QAHO2BBJBEGBPYKLT6I4MQGSE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/05/22/7QAHO2BBJBEGBPYKLT6I4MQGSE/</guid>
-      <dc:creator>이슬비 기자, 이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 21 May 2025 15:53:00 +0000</pubDate>
-      <content:encoded>이재명 더불어민주당 대선 후보를 수사했던 이창수 서울중앙지검장과 조상원 중앙지검 4차장검사가 동반 사표를 낸 뒤 검찰 내부는 뒤숭숭한 분위기다. 심우정 검찰총장은 21일 출근길에 기자들과 만나 “검찰은 어떤 경우에도 흔들림 없이 역할을 수행할 것”이라며 “총장으로서 그렇게 일선을 지휘하겠다”고 말했다. 그러나 일선에서는 “민주당이 집권 후 검찰 와해를 예고하면서 검찰 조직이 스스로 무너지는 것 같다”는 우려가 나왔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BNXZWRRKDFBJBPLZAFSI6DZ2XY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;작년 10월 국회 국정감사장에서 이창수(오른쪽) 서울중앙지검장이 조상원 서울중앙지검 4차장과 대화하는 모습. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한 검사장은 “수사 결과가 민주당 입맛에 맞지 않는다고 검사를 탄핵소추했을 때부터 예견됐던 일”이라며 “대선을 앞두고 사표를 내는 게 바람직하지는 않지만, 말리기도 힘든 안타까운 상황”이라고 했다. 이 지검장은 심 총장이 직접 만류했지만, 사표를 막지는 못한 것으로 알려졌다. &lt;br&gt;&lt;br&gt;이 지검장은 수원지검 성남지청장이었던 때 조 차장검사와 함께 성남FC 불법 후원금 사건을 수사해 이 후보를 기소했다. 이후 두 사람은 서울중앙지검에서 김 여사의 도이치모터스 주가조작 의혹 사건을 맡아 무혐의 처분을 내렸다. 이에 민주당은 ‘봐주기 수사’라며 두 사람을 작년 12월 5일 국회에서 탄핵소추했다. 하지만 헌재는 지난 3월 13일 이들에 대한 탄핵안을 기각했다.&lt;br&gt;&lt;br&gt;민주당이 이 후보를 수사한 검사들을 줄탄핵한 것은 사실상 “두고 보자”는 경고를 한 것이라는 해석이 나온다. 이에 대해 한 차장검사는 “탄핵 때부터 공격을 받아 몸과 마음이 너덜너덜해졌을 것”이라며 “민주당이 대선에서 승리하면 특검 수사나 보복성 감찰로 괴롭힐 게 뻔한데 사명감만으로 버티는 건 어려운 이야기”라고 했다.&lt;br&gt;&lt;br&gt;두 사람의 사의 표명에 대해 민주당은 맹공격을 퍼붓고 있다. 박지원 민주당 공동선대위원장은 “서울중앙지검장과 4차장의 사표가 수리돼서는 안 된다”며 “직권 남용, 직무 유기 등으로 수사받고 책임져야 하기 때문에 물러갈 생각하지 말고 수사받을 준비를 하는 게 좋다”고 했다. 전현희 공동선대위원장은 “야당에는 없는 죄도 만들어 누명을 씌우고, 권력자에겐 면죄부를 남발한 책임은 결코 벗어날 수 없다”고 했다.&lt;br&gt;&lt;br&gt;이 후보 관련 사건을 수사한 검사들의 추가 사표 움직임도 감지된다. 이 후보의 다른 사건을 수사한 한 검사도 최근 주변에 사표를 고민하고 있다고 털어놓은 것으로 전해졌다.&lt;br&gt;&lt;br&gt;검찰 내부의 불만도 커지고 있다. 한 검사장은 “이러면 앞으로 수사는 누가 하겠느냐. 주요 사건 수사력이 약화될 게 뻔하다”며 “정치권이 수사기관을 압박하고 조종하는 남미에서나 있을 법한 일이 실제로 일어나고 있다”고 했다. 한 부부장 검사는 “민주당의 이른바 ‘검찰 개혁’ 입법을 보면 검찰을 없애겠다는 것”이라며 “검사들의 상실감이 크다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
