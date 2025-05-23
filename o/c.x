@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>부산 사하구 ‘삼둥이’ 탄생 경사...지역 기업들 통큰 축하금</title>
+      <link>https://www.chosun.com/national/regional/2025/05/23/MWKISIYLYBDPPPBIU5UFLVNNW4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/05/23/MWKISIYLYBDPPPBIU5UFLVNNW4/</guid>
+      <dc:creator>부산=김주영 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 23 May 2025 04:02:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HHPOKXRHEFDPPERA3MGLEEUVHI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 2일 부산 사하구 구평동에 사는 김모(47)씨와 문모(45)씨 부부 사이에 태어난 세 쌍둥이. /부산 사하구&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산 사하구에 사는 한 난임부부가 세쌍둥이를 낳자 지역 기업들이 “우리 지역의 경사”라며 축하금을 쾌척했다.&lt;br&gt;&lt;br&gt;23일 부산 사하구에 따르면 지난 2일 구평동에 사는 김모(47)씨와 문모(45)씨 부부가 삼둥이를 낳았다.&lt;br&gt;&lt;br&gt;삼둥이 도율, 도현, 도경군은 1.7~1.9㎏으로 태어나 출생신고를 마쳤고, 현재 인큐베이터 안에서 퇴원을 기다리고 있다.&lt;br&gt;&lt;br&gt;삼둥이의 탄생으로 부부는 총 4명의 아들을 두게 됐다.&lt;br&gt;&lt;br&gt;문씨 부부는 난임부부였다. 첫째가 태어날 당시 5년간 자연임신이 되지 않자 결국 시험관 시술을 했고 이번 세쌍둥이도 시험관 시술로 탄생했다.&lt;br&gt;&lt;br&gt;산모 문씨는 “어렵게 가진 첫째가 너무 외로워 보여 둘째를 계획했는데 갑자기 형제가 4명으로 늘어 처음에는 당혹스러웠다”며 “막상 세쌍둥이가 태어나니 너무 기쁘고 형제간에 외롭지 않게 지낼 수 있을 것 같아 좋다”고 말했다.&lt;br&gt;&lt;br&gt;삼둥이의 탄생에 이갑준 사하구청장은 물론 광역·기초의회 의원, 어린이집 원장 등 각계각층의 축하가 쏟아졌다.&lt;br&gt;&lt;br&gt;구평동에 공장이 있는 선보공업은 1000만 원, YK스틸은 축하금 500만원도 전달했다.&lt;br&gt;&lt;br&gt;최금식 선보공업 회장은 “산모가 건강하게 세쌍둥이를 출산한 일은 우리 지역의 큰 경사”라며 “전국 출산율 회복의 희망이 되길 바란다”고 말했다. &lt;br&gt;&lt;br&gt;김상일 와이케이스틸 고문도 “산모와 아기들이 모두 건강해 매우 기쁘다”며 “아이들이 자라기 좋은 환경을 만들기 위해 어른으로서 노력하겠다”고 축하 인사를 전했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TAZRAYFVEBBNJM36RVDUUDFQ7Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;최금식 선보공업 회장(오른쪽 첫번째)이 부산 사하구 구평동에서 태어난 세쌍둥이의 출산을 축하하며 지난 21일 축하금을 전달하고 있다. /부산 사하구&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>“어린 시절 가난했다”...정동원, 16살에 산 20억  자가 공개</title>
       <link>https://www.chosun.com/national/people/2025/05/23/3PGQDGMS7ZBI3CRUWZH2D675QY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/people/2025/05/23/3PGQDGMS7ZBI3CRUWZH2D675QY/</guid>
@@ -919,15 +928,6 @@
       <description/>
       <pubDate>Wed, 21 May 2025 10:19:22 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IUFKKR6NFBIM5OSTLX74SY2FHY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 서울중앙지검./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지검 반부패수사1부(부장 이준동)는 NH농협은행으로부터 부당대출을 받은 것으로 지목된 차주 업체 서영홀딩스의 한상권 대표에 대해 구속영장을 청구했다.&lt;br&gt;&lt;br&gt;검찰은 서영그룹 측이 농협은행으로부터 30~40억원대의 불법 대출을 받았다는 의혹을 수사 중이다. 2023년 국정감사에서 이 의혹이 처음 제기됐다.&lt;br&gt;&lt;br&gt;검찰은 지난 2월 농협은행 본사와 서영홀딩스, 서영산업개발그룹을 압수 수색하며 본격적인 수사에 착수했다. 지난달 9일엔 두 곳을 한 차례 더 압수 수색했고, 이튿날 한 대표를 피의자로 불러 조사했다.&lt;br&gt;&lt;br&gt;한 대표의 구속영장 실질심사는 오는 27일 서울중앙지법에서 열릴 예정이다.&lt;br&gt;&lt;br&gt;서영그룹은 수도권 지역 일간지인 경기신문의 모그룹이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>경찰 국수본 관계자 “계엄날 밤 ‘방첩사 체포조 지원’ 윗선에 보고”</title>
-      <link>https://www.chosun.com/national/court_law/2025/05/21/ZV2XEOXCBJHXFDSLQFTY5JOAUQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/05/21/ZV2XEOXCBJHXFDSLQFTY5JOAUQ/</guid>
-      <dc:creator>김나영 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 21 May 2025 10:12:25 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RLMZRCUOC4Z5JNHYYVQZD42NTA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 16일 '12·3 비상계엄' 사태 관련 내란중요임무종사 등 혐의로 기소된 조지호 전 경찰청장이 16일 오전 서울 서초구 서울중앙지방법원에서 열린 공판에 출석하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰청 국가수사본부 관계자들이 법정에서 “12·3 비상계엄 당일 국군 방첩사령부로부터 받은 체포조 지원 요청을 윗선에 보고했다”라고 증언했다.&lt;br&gt;&lt;br&gt;21일 서울중앙지법 형사25부(재판장 지귀연)는 내란 중요임무 종사 혐의를 받는 조지호 경찰청장과 윤승영 전 국수본 수사기획조정관 등 경찰 지휘부에 대한 여덟 번째 재판을 열었다. 이날은 이현일 전 국수본 수사기획계장과 전창훈 전 국수본 수사기획담당관에 대한 증인신문이 진행됐다. &lt;br&gt;&lt;br&gt;이 전 계장은 계엄 당일 밤 구민회 방첩사 수사조정과장(중령)으로부터 체포조 지원 요청 전화를 직접 받은 인물이다. 전 전 담당관은 방첩사의 체포조 지원 요청에 따라 경찰 명단을 건넨 것으로 알려졌다.&lt;br&gt;&lt;br&gt;이날 이 전 계장은 구 과장으로부터 “(합동수사본부를 구성하기 위해) 수사관 100명, 차량 20대가 필요하니 요청하면 보낼 수 있도록 준비를 해달라” “방첩사에서 국회에 체포조를 보낼 건데 인솔할 형사 다섯 명이 필요하다”는 전화를 받았다고 진술했다. 이 전 계장은 이후 윤 전 조정관에게 이같은 요청을 그대로 보고했다고도 했다.&lt;br&gt;&lt;br&gt;전 전 담당관도 방첩사로부터 인력 100명과 차량 20대 요청이 왔고 서울경찰청에 지원 가능 여부를 확인했다는 사실을 윤 전 조정관에게 보고했다고 증언했다.&lt;br&gt;&lt;br&gt;검찰은 방첩사의 체포 지원 요청이 이 전 계장을 거쳐 윤 전 조정관에게 전달됐고, 윤 전 조정관이 이를 조 청장에게 보고한 것으로 보고 있다.&lt;br&gt;&lt;br&gt;재판부는 오는 29일 전 전 담당관의 증인신문을 마무리한 뒤 방첩사 신동걸 소령에 대한 증인신문을 이어 진행하기로 했다. 이날 재판장인 지 부장판사는 자신을 둘러싼 ‘룸살롱 접대’ 의혹에 대해서는 언급하지 않았다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>“바다쪽 자리 안 되나요” 안내견 동반 시각장애인 요청 거절한 횟집 논란</title>
