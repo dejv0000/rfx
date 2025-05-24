@@ -13,6 +13,64 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>“손흥민 협박녀? 나 아냐”... 황당 루머에 분노한 뮤지컬 배우</title>
+      <link>https://www.chosun.com/national/national_general/2025/05/24/PZQ5VKLJ5RFWBAOH3NPUXNJI2Y/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/05/24/PZQ5VKLJ5RFWBAOH3NPUXNJI2Y/</guid>
+      <dc:creator>이혜진 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 24 May 2025 03:17:39 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4CY7A7R4FNECJPPR73UQC6DG6M.png"&gt;&lt;figcaption&gt;&lt;small&gt;뮤지컬 배우 정민희(왼쪽)와 그가 올린 인스타그램 스토리. /인스타램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;뮤지컬 배우 정민희가 임신을 빌미로 축구선수 손흥민을 협박한 여성이라는 루머가 온라인에 유포되자 이를 부인했다. &lt;br&gt;&lt;br&gt;정민희는 23일 자신의 인스타그램 스토리를 통해 자신에게 온 다수의 DM(다이렉트 메시지)과 댓글을 캡처해 공개하며 “저 아닙니다, 도대체 누가요, 연락 팔로우 댓글 그만하세요”라고 밝혔다. 공개된 메시지에는 “손흥민 협박녀세요?”, “안녕하세요 진짜 손흥민 전 여친인가요?”, “누가 인터넷에 손흥민 전 여친 인스타라고 올렸던데 사실인가요?”라는 내용이 담겼다. &lt;br&gt;&lt;br&gt;정민희는 2016년 뮤지컬 ‘아이다’로 데뷔한 배우로, 뮤지컬계에서 꾸준히 활동하며 경력을 쌓아왔다. 안무가로도 활동 중인 그는 tvN 예능 ‘언니네 산지직송’ 출연자들에게 제니의 ‘라이크 제니’ 안무를 가르치며 대중에게 얼굴을 알렸다.&lt;br&gt;&lt;br&gt;네티즌의 무분별한 신상 털기에 피해를 입은 건 정씨뿐만이 아니다. 19일 지난 소셜미디어(SNS)와 온라인 커뮤니티 등에는 ‘손흥민 임신 협박녀 인스타 털렸네요’ ‘모자이크 없는 실제 얼굴’ 등의 제목으로 여성 A씨의 사진이 확산했다. A씨는 먼저 “내가 3억(원)을 받아?”라며 의혹을 부인했다. 그는 “일반인 인스타 그냥 올려버리고 애먼 사람 잡는 사람들 똑똑히 보라”며 “허위 정보 유포 및 무분별한 악성 댓글들 정보통신망법 위반, 모욕죄, 명예훼손으로 고소할 예정”이라고 했다.&lt;br&gt;&lt;br&gt;한편, 서울 강남경찰서는 22일 공갈 혐의로 20대 여성 양모 씨를, 공갈 미수 혐의로 40대 남성 용모 씨를 서울중앙지검에 구속 송치했다. 양씨는 지난해 6월 손흥민에게 태아 초음파 사진을 보내며 임신 사실을 주장하며 손흥민으로부터 3억원 상당을 갈취한 혐의를 받는다.&lt;br&gt;&lt;br&gt;양씨의 남자친구인 용씨는 올해 3월 손흥민에게 접근해 7000만원을 요구한 혐의를 받았다. 그는 당시 “내 여자친구가 손흥민 아이를 임신했었다”고 주장하며 언론 및 유튜브에 유포하겠다고 협박한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/637F47RHI5B3BGEMMZRED6DC7A.png?auth=324c540dfa6b77ed2a7ac93a04128f7c439386819664132f2c398fa0b0c31e7e&amp;smart=true&amp;width=348&amp;height=261" type="image/png" height="261" width="348">
+        <media:description type="plain">뮤지컬 배우 정민희(왼쪽)와 그가 올린 인스타그램 스토리. /인스타램</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>한예슬 ‘미지급 모델료’ 소송 2심도 승소...“6억 6000만원 지급”</title>
+      <link>https://www.chosun.com/national/court_law/2025/05/24/RMTHUQ2LY5A4DH72MMEZRDZUGM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/05/24/RMTHUQ2LY5A4DH72MMEZRDZUGM/</guid>
+      <dc:creator>김희래 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 24 May 2025 00:33:19 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5J3I6ESDQJC5RALK2EVLTK7MYQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;배우 한예슬./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;배우 한예슬이 건강식품 브랜드 ‘생활약속’을 상대로 낸 모델료 청구 소송 2심에서도 일부 승소했다.&lt;br&gt;&lt;br&gt;24일 법조계에 따르면, 서울고법 민사37-3부(부장판사 성언주 이승철 민정석)는 한씨 소속사인 높은엔터테인먼트가 생활약속 운영사 넥스트플레이어를 상대로 낸 모델료 청구 소송 2심에서 1심의 원고 일부 승소 판결을 유지했다. 재판부는 또 넥스트플레이어가 높은엔터테인먼트에 6억6000만 원을 지급하라고 명령했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/A43YOJS4JZYCZRS36GKGPMGJRE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울고등법원 전경. /조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;넥스트플레이어는 지난 2022년 높은엔터테인먼트와 한씨가 2년간 광고 모델로 활동하고 그 모델료 14억3000만 원을 2회에 걸쳐 지급한다는 내용의 계약을 체결했다. 한씨는 2022년 5월 첫 지면 촬영을 마치고 1주일여 뒤 소셜미디어(SNS)에 사진을 업로드했다. 이에 넥스트플레이어는 같은 해 5~6월 두 차례에 걸쳐 1차 모델료 7억1500만 원을 지급했다.&lt;br&gt;&lt;br&gt;그러나 2차 모델료는 이듬해 3월 5500만 원만 지급됐다. 높은엔터테인먼트는 2차 모델료 미지급금을 지급하라면서 소송을 제기했다. 이에 넥스트플레이어는 되레 5억6100만 원 규모의 반소를 제기했다. 한 씨 측이 촬영·광고 출연 횟수 등 계약에 따른 촬영 의무를 이행하지 않았다는 이유에서다.&lt;br&gt;&lt;br&gt;넥스트플레이어는 한 씨 측이 촬영 장소·콘셉트 전반에 대해 문제를 제기하며 수정을 요청했고 촬영 비협조와 해외 체류 등으로 촬영이 미뤄졌으며, 광고물을 SNS에 업로드할 의무와 추가 촬영 등을 이행하지 않았다고 주장했다. &lt;br&gt;&lt;br&gt;그러나 법원은 한 씨 측의 손을 들어줬다. 1심 재판부는 “한 씨 측이 영상 촬영 일정을 일부러 지연시켰다거나 SNS업로드 의무를 이행하지 않았다거나 추가 촬영 의무를 이행하지 않는 등 촬영에 협조하지 않았다고 인정하기 부족하다”고 판단했다. 그러면서 “결국 넥스트플레이어의 2023년 10월 계약 해지 의사 표시는 부적법하다”며 “넥스트플레이어는 한 씨 측에 2차 모델료 미지급금 6억6000만 원을 지급할 의무가 있다”고 밝혔다. 넥스트플레이어는 판결에 불복해 항소했지만, 결론은 달라지지 않았다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/RGKYDBYQPNGIHE3KGPVKUT5SZQ.jpg?auth=a24495fb114f5e8fdbec0184df2c5334a1951299651275b7ab8e79337024ec0c&amp;smart=true&amp;width=720&amp;height=405" type="image/jpeg" height="405" width="720">
+        <media:description type="plain">한예슬</media:description>
+        <media:credit role="author" scheme="urn:ebu"/>
+      </media:content>
+    </item>
+    <item>
+      <title>“결혼하자”… 데이트 앱에서 ‘환승 연애’ 하며 4억원 가로챈 40대 여성</title>
+      <link>https://www.chosun.com/national/incident/2025/05/24/B6QYPOWBKBCAXM5BXCLR4WMVDU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/05/24/B6QYPOWBKBCAXM5BXCLR4WMVDU/</guid>
+      <dc:creator>정성원 기자</dc:creator>
+      <description>데이트 앱을 통해 만난 남성들에게 결혼을 미끼로 4억원을 가로챈 40대 여성이 검찰에 구속 송치됐다.
+경기 의정부경찰서는 사기 혐의로 40대 여성 A씨를 지난 12일 구속 송치했다고 24일 밝혔다.
+</description>
+      <pubDate>Sat, 24 May 2025 01:38:10 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/L4GEXC5HOZAC5NA5TDDI7RQ23U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;데이트 앱을 통해 만난 남성들에게 결혼을 미끼로 4억원을 가로챈 40대 여성이 검찰에 구속 송치됐다.&lt;br&gt;&lt;br&gt;경기 의정부경찰서는 사기 혐의로 40대 여성 A씨를 지난 12일 구속 송치했다고 24일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 2019년부터 올해까지 데이트 앱을 통해 만난 남성 3명에게 결혼을 약속하며 주택 구입 자금 명목으로 4억원을 받아 가로챈 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;A씨는 이들 남성과 교제와 동거를 반복하는 등 환승 연애를 하며 돈을 가로챈 것으로 조사됐다.&lt;br&gt;&lt;br&gt;현재까지 고소장을 낸 피해자는 3명이며, 아직 고소하지 않은 남성들이 더 있는 것으로 드러났다.&lt;br&gt;&lt;br&gt;경찰은 A씨가 인천과 천안, 대전 등지를 오가며 도주한 사실을 확인한 후 택시 탑승 내용을 추적해 대전의 한 아파트에서 그를 붙잡았다.&lt;br&gt;&lt;br&gt;A씨는 경찰에서 “생활비 등 돈을 뜯어내기 위해 남자를 만났다”고 진술한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰은 A씨를 상대로 추가 피해자나 여죄가 있는 지 수사를 이어갈 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“유실물 찾으러 왔습니다”… 경찰서·지하철·공항에서 유실물 가로챈 40대 ‘징역 2년 2개월’</title>
+      <link>https://www.chosun.com/national/court_law/2025/05/24/Y4KAAG2GOJDQDP3D26S3LPZXII/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/05/24/Y4KAAG2GOJDQDP3D26S3LPZXII/</guid>
+      <dc:creator>정성원 기자</dc:creator>
+      <description>경찰관과 역무원 등을 속여 유실물을 가로챈 40대가 법원으로부터 징역형을 선고받았다.
+전주지법 정읍지원 형사1단독 윤봉학 판사는 사기 등 혐의로 기소된 A(40)씨에게 징역 2년2개월을 선고했다고 24일 밝혔다.
+</description>
+      <pubDate>Sat, 24 May 2025 00:19:29 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NEB72YMFAVHRJKGS7DXJM5DJ5A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원 로고. /조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰관과 역무원 등을 속여 유실물을 가로챈 40대가 법원으로부터 징역형을 선고받았다.&lt;br&gt;&lt;br&gt;전주지법 정읍지원 형사1단독 윤봉학 판사는 사기 등 혐의로 기소된 A(40)씨에게 징역 2년 2개월을 선고했다고 24일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 2023년 6월부터 작년 7월까지 경찰서와 지하철, 공항의 유실물 센터를 찾아가 5차례에 걸쳐 금팔찌와 백화점 상품권 등 다른 사람 소유의 분실물을 자신의 것이라며 가로챈 혐의를 받고 있다. &lt;br&gt;&lt;br&gt;그는 경찰청 유실물 종합관리시스템에서 유실물을 종류와 사진, 분실 일자 등의 정보를 파악한 뒤 유실물 센터를 찾아가 이 같은 범죄를 저질렀다.&lt;br&gt;&lt;br&gt;그는 미리 파악한 정보로 지하철 유실물 센터를 찾아 금반지를 받아 가려고 했으나 역무원이 “신분증과 교통카드를 보여달라”고 요구하자 그대로 도주하기도 했다.&lt;br&gt;&lt;br&gt;A씨는 앞서 지난 2021년 5월 상습사기죄로 징역 1년 4개월을 선고받은 전력이 있음에도 출소하자마자 또다시 범행을 저질렀다.&lt;br&gt;&lt;br&gt;윤 판사는 “피고인은 누범 기간 중 유실물을 보관·관리하는 직원들을 속여 재물을 빼앗고 업무를 방해해 죄질이 매우 불량하다”면서 “일부 피해 물품이 반환됐더라도 재범 위험성에 비춰 그에 상응하는 형의 선고가 불가피하다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“술주정하느냐”… 핀잔 주는 노모에 폭력 휘두른 못난 아들 ‘징역 4개월’</title>
+      <link>https://www.chosun.com/national/court_law/2025/05/24/H4R6XWDY3VCEPFMGIPXY6VK2AA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/05/24/H4R6XWDY3VCEPFMGIPXY6VK2AA/</guid>
+      <dc:creator>정성원 기자</dc:creator>
+      <description>자신에게 잔소리했다는 이유로 90대 노모에게 욕설과 폭력을 휘두른 60대 아들이 법정구속됐다.
+춘천지법 형사1단독 송종환 부장판사는 존속상해 등 혐의로 기소된 A(62)씨에게 징역 4개월을 선고했다고 24일 밝혔다.
+</description>
+      <pubDate>Sat, 24 May 2025 00:15:04 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/POSI5VELU7VU2HYBW4R7LFYMBM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;춘천지법 / 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;자신에게 잔소리했다는 이유로 90대 노모에게 욕설과 폭력을 휘두른 60대 아들이 법정 구속됐다.&lt;br&gt;&lt;br&gt;춘천지법 형사1단독 송종환 부장판사는 존속상해 등 혐의로 기소된 A(62)씨에게 징역 4개월을 선고했다고 24일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 작년 4월 술에 취해 술주정하던 중 모친인 B(96)씨로부터 “술주정하느냐”는 말을 듣자 “같이 죽자”며 라이터로 집에 불을 내려 한 혐의를 받고 있다. A씨는 이 과정에서 B씨가 라이터를 빼앗자 B씨의 손가락을 깨물고 잡아 비틀기도 했다.&lt;br&gt;&lt;br&gt;A씨는 또 한 달 뒤에도 술에 취해 B씨에게 아무 이유 없이 “빨리 죽어라”라며 B씨를 밀쳐 넘어뜨렸으며, 자신을 나무라는 형 C(72)씨에게도 “죽여버리겠다”며 흉기로 협박하기도 했다.&lt;br&gt;&lt;br&gt;송 부장판사는 “음주와 관련한 범죄를 다수 저질러 처벌을 받은 전력이 있음에도 또다시 술에 취해 범행을 저질렀다”면서 “다만 알코올 의존증을 벗어나기 위해 병원 치료를 받은 점 등을 양형에 참작했다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>냉탕 옆에서 삼겹살? 등 안 밀어도 시원하네~♨</title>
       <link>https://www.chosun.com/national/weekend/2025/05/24/ISKM3OAQPBA73BY5CFGK7O4BRA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/weekend/2025/05/24/ISKM3OAQPBA73BY5CFGK7O4BRA/</guid>
@@ -854,15 +912,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QAWP7BOATJF2NP7RJUHUBPFSNA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[매일매일 중국어 한마디] 허리를 삐끗하다</title>
-      <link>https://www.chosun.com/national/nie/chinese/2025/05/23/EKHHHJXEYFHOHHBJQIZWHAOF7Y/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese/2025/05/23/EKHHHJXEYFHOHHBJQIZWHAOF7Y/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 22 May 2025 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HFXEOZNSC5F2RMGXYZE6KQP6GM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>서울고검, ‘도이치 주가 조작’ 공범 소환... 관계자 첫 대면 조사</title>
       <link>https://www.chosun.com/national/court_law/2025/05/22/NXPPKIVFN5G2PHQIRP6SF4W4NA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/05/22/NXPPKIVFN5G2PHQIRP6SF4W4NA/</guid>
@@ -872,24 +921,6 @@
       <content:encoded>윤석열 전 대통령의 아내 김건희 여사의 ‘도이치모터스 주가 조작’ 의혹을 재수사하는 검찰이 최근 주가 조작 공범인 이모씨를 불러 조사한 것으로 22일 확인됐다. 재수사팀이 꾸려진 이후 관련자에 대한 첫 소환 조사다. 검찰 안팎에선 “김 여사에 대한 수사가 본격화 된 것”이라는 평가가 나왔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IVGXJENICQ3GSN26ENOCWROCVA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령의 아내 김건희 여사가 지난 4월 11일, 서울 용산구 한남동 대통령 관저를 떠나고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이씨는 코스닥 상장사의 부사장으로 있으면서, 부인과 회사 직원들 계좌 등을 동원해 주가조작에 가담한 혐의로 재판에 넘겨졌다. 2010년 8월 이씨는 2차 주가 조작의 주포 김모씨로부터 “도이치모터스가 숨은 진주다, 대규모 해외 사모펀드를 통해 엄청난 자금도 들어온다”며 “내가 도이치모터스 주식을 관리하고 있으니 걱정하지 말라”는 주식매수 제안을 받고 주가 조작에 가담한 것으로 조사됐다. 지난달 대법원에서 징역 10개월에 집행유예 2년이 확정됐다.&lt;br&gt;&lt;br&gt;검찰은 이씨를 상대로 주가조작 사건과 관련해 김 여사의 존재를 알고 있었는지, 김 여사의 계좌가 이용된 상황을 알고 있었는지 등을 조사한 것으로 알려졌다. 검찰은 김 여사 혐의를 확인하기 위해 주범인 권오수 전 도이치모터스 회장 등 관련자들을 소환 조사할 방침이다. 검찰은 이 밖에도 최근 ‘건진 법사 청탁’ 의혹을 수사 중인 서울남부지검이 압수한 김 여사의 휴대전화 관련 자료도 확보한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;한편 서울고검이 서울중앙지검으로부터 넘겨 받은 수사 기록에는 문재인 정부 시절 초기 수사팀이 ‘김 여사의 혐의가 불분명하다’고 판단한 자료도 포함된 것으로 전해졌다. 김 여사를 불기소 처분한 중앙지검 수사팀은 항고가 접수된 뒤인 지난해 11월 관련 수사 기록을 모두 서울고검으로 보냈다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[속보]파주 사건 현장서 칼부림…경찰관 등 4명 부상</title>
-      <link>https://www.chosun.com/national/incident/2025/05/22/EHGDIEFOPFAEHDKELZW23YTDDQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/05/22/EHGDIEFOPFAEHDKELZW23YTDDQ/</guid>
-      <dc:creator>파주=김현수 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 22 May 2025 13:55:58 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/S4JNNA63IJHXYPIIBJ7DXGEVSU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;22일 경기 파주시에서 가정폭력 신고를 받고 출동한 경찰관들이 흉기에 찔리는 사건이 발생했다.&lt;br&gt;&lt;br&gt;경찰에 따르면 이날 오후 9시 50분쯤 파주 운정지구 한 아파트에서 가정폭력 신고를 받고 현장에 출동한 경찰 2명이 남편으로부터 흉기에 찔려 병원으로 긴급 이송됐다. 다행히 의식은 있는 상태로 알려졌으나, 정확한 상태는 아직 확인되지 않았다. 가해자인 남편은 현장에서 즉시 검거됐다. 피의자 역시 크게 다친 것으로 전해졌다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “범행 동기와 경위를 철저히 수사 중”이라고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>금호타이어 광주공장서 또 불… 완진 이틀만에 잔불 재발화 </title>
-      <link>https://www.chosun.com/national/incident/2025/05/22/2L5LXZ2U45B23LW4AFQD4B7ELM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/05/22/2L5LXZ2U45B23LW4AFQD4B7ELM/</guid>
-      <dc:creator>김현수 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 22 May 2025 12:44:31 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4CVGA4L2CLH4NQTDLTKS6TSNSA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;22일 오전 광주 광산구 소촌동 금호타이어 광주공장 화재 현장에서 건물 해체 작업이 이뤄지고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;금호타이어 광주공장에서 다시 불이 났다. 불이 완전히 꺼졌다고 당국이 공식 발표한 지 불과 이틀 만이다.&lt;br&gt;&lt;br&gt;22일 오후 5시 40분쯤, 광주 광산구 금호타이어 공장 내 화재 건물을 해체하던 중 내부 잔불이 다시 살아났다. 앞서 이 공장에서는 지난 17일 오전 7시쯤 큰불이 나 사흘 만인 20일 완전 진화 판정을 받은 바 있다.&lt;br&gt;&lt;br&gt;하지만 건물 내부에 남아있던 고무와 특수재료가 섞인 타이어 원료가 불쏘시개 역할을 하며 다시 불씨를 키운 것으로 보인다. 소방 당국은 “연기가 발생하고 있지만 불이 확산되거나 추가 피해로 번질 가능성은 낮다”고 밝혔다.&lt;br&gt;&lt;br&gt;문제는 구조적 안전이다. 해체 작업 중 붕괴 우려가 커지면서, 소방대원이 현장에 가까이 접근하지 못하고 있다. 이 때문에 진화 작업은 더디게 진행되고 있다.&lt;br&gt;&lt;br&gt;잔불은 고무와 특수재료가 섞인 타이어 원료를 불쏘시개 삼아 계속되며 연기가 나는 것 외에 불이 확산하거나 추가 피해가 발생할 가능성은 작다는 게 소방 당국의 판단이다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>공정위 제재 뒤집은 법원... 카카오T 과징금 271억 취소</title>
       <link>https://www.chosun.com/national/court_law/2025/05/22/6CSZGVRIJRHNNP5QWNGRUMWGQM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/05/22/6CSZGVRIJRHNNP5QWNGRUMWGQM/</guid>
@@ -897,15 +928,6 @@
       <description/>
       <pubDate>Thu, 22 May 2025 12:24:32 +0000</pubDate>
       <content:encoded>공정거래위원회가 이른바 ‘콜 몰아주기’ 의혹을 받은 카카오모빌리티에 부과한 과징금 271억원을 취소하라는 법원 판단이 나왔다.&lt;br&gt;&lt;br&gt;22일 서울고등법원 행정7부(재판장 구회근)는 카카오모빌리티가 공정위를 상대로 낸 시정명령 등 취소 청구 소송에서 “공정위가 카카오모빌리티에 부과한 과징금과 시정명령을 모두 취소한다”고 판결했다. 소송 비용도 공정위가 부담하도록 했다.&lt;br&gt;&lt;br&gt;카카오모빌리티는 자사 가맹 택시인 카카오T블루에만 배차를 몰아주도록 알고리즘을 조작했다는 일명 ‘콜 몰아주기’ 의혹을 받았다. 2019년 출시된 카카오T블루는 법인 택시 회사와 개인 택시 기사를 가맹 사업자로 모집해 소정의 가맹비를 받고 카카오택시 앱을 통한 승객 호출·배차 등의 서비스를 제공해왔다.&lt;br&gt;&lt;br&gt;공정위는 이런 행위가 가맹사업법 위반 등에 해당한다며 2023년 2월 카카오모빌리티 측에 과징금 271억원을 부과하고 시정명령을 내렸다. 이에 카카오모빌리티 측은 “택시 기사들의 배차 수락률을 기반으로 알고리즘을 짠 것”이라며 법원에 소송을 냈다. &lt;br&gt;&lt;br&gt;공정위는 준사법기관이어서 공정거래법 위반 기업들에 과징금 부과 등 제재를 가할 수 있게 돼 있고, 처분에 불복할 경우 곧바로 서울고등법원에 항소하도록 돼 있다. 공정위 결정이 사실상 1심 역할을 하는 것이다.&lt;br&gt;&lt;br&gt;판결 직후 카카오모빌리티 측은 “배차 수락률은 택시 승차난 해소를 위해 가맹 택시 도입 이전부터 카카오T 배차 로직에 활용했다”며 “이번 판결로, 우리 회사가 승객과 기사 모두의 편익을 확대하는 방향으로 노력해온 점, 가맹 기사와 비가맹 기사를 차별하지 않았다는 점 등이 확인된 것”이라고 했다.&lt;br&gt;&lt;br&gt;한편 공정위는 작년 9월 카카오모빌리티가 경쟁사의 가맹 택시에 일반 호출을 차단한 ‘콜 차단’ 의혹에 대해서도 과징금 151억원을 부과했다. 이에 대해서도 카카오모빌리티 측은 불복해 취소 소송을 제기한 상태다.&lt;br&gt;&lt;br&gt;검찰은 카카오모빌리티를 둘러싼 여러 의혹을 수사 중이다. 지난 3월 ‘매출 부풀리기’ 의혹과 관련해 성남시 판교 소재 카카오 본사와 자회사 카카오모빌리티의 사무실 등을 압수 수색했다. 카카오모빌리티가 회계 처리 과정에서 영업 수익과 영업 비용을 과대 계상했다는 의혹인데, 이와 관련해 금융위원회 증권선물위원회는 작년 11월 카카오모빌리티 측에 과징금 약 35억원을 부과했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>대전당진고속도로서 탱크로리 염산 유출</title>
-      <link>https://www.chosun.com/national/incident/2025/05/22/OWABPAG56NHYVEWYHTB34GCOUM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/05/22/OWABPAG56NHYVEWYHTB34GCOUM/</guid>
-      <dc:creator>김현수 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 22 May 2025 12:21:42 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/32B6HREAVNGO7IBJFNS3TPUPCA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;22일 오후 7시 25분쯤 충남 공주시 신풍면 당진∼대전고속도로 당진 방향 49㎞ 화흥터널 인근에서 염산 2만2000ℓ를 실은 25t 탱크로리에서 염산 일부가 유출됐다.&lt;br&gt;&lt;br&gt;신고를 받고 출동한 소방 당국은 차량을 통제한 뒤 소방대원 50명과 차량 22대 등을 동원해 탱크로리 차량에 물을 뿌리며 방제작업을 벌이고 있다.&lt;br&gt;&lt;br&gt;화물차 운전자가 차량 뒤쪽에서 연기가 나는 것을 발견하고 신고한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;다행히 인명피해는 없었다. 차량도 위험 반경 밖으로 대피했다고 한다. 한국도로공사는 이날 오후 8시 57분쯤 염산 유출 사고 소식을 알리는 안전안내문자를 발송했다.&lt;br&gt;&lt;br&gt;경찰과 소방 당국은 방제작업이 끝나는 대로 정확한 경위를 조사할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>“여자 목소리 80데시벨 넘어선 안 돼”… 남고생들이 든 손팻말 논란</title>
@@ -924,15 +946,6 @@
       <description/>
       <pubDate>Thu, 22 May 2025 08:34:46 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Q2E2YP3EBEDFE5WQIYT36N57OQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 7일 서울 중구 지하철 1호선 서울역에서 승객들이 열차를 기다리고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 21일 서울시가 “오는 8월부터 서울 지하철 첫차와 막차 시각을 각각 30분씩 앞당긴다”고 발표한 것과 관련해, 서울 지하철 1~8호선을 운영하는 서울교통공사의 3개 노조가 모두 “재검토하라”며 반대 입장을 ​냈다.&lt;br&gt;&lt;br&gt;공사에는 민주노총 소속인 서울교통공사노조(1노조), 한국노총 소속인 서울교통공사통합노조(2노조), 소위 ‘MZ노조’로 불리는 올바른노조(3노조) 등 3개 노조가 있다.&lt;br&gt;&lt;br&gt;서울교통공사노조는 이날 성명서를 내고 “서울시의 운행 시간 조정 강행에 강한 우려와 반대를 표명한다”고 했다.&lt;br&gt;&lt;br&gt;성명서에서 노조는 “첫차 시간 조정은 열차 운행, 심야 전동차 점검 등 업무 전반에 변화가 뒤따르는 문제이므로 신중한 검토가 필요하다”며 “조정이 필요하더라도 사규나 단체협약상 노사 협의·합의가 필요하다”고 했다.&lt;br&gt;&lt;br&gt;또 노조는 “시간 조정에 앞서 협의체 구성, 노동조건 변동에 대한 보완·개선 대책 수립, 지하철 운행 전반에 대한 재검토 등을 다룰 것을 촉구한다”고 했다.&lt;br&gt;&lt;br&gt;서울교통공사통합노조와 올바른노조도 이날 각각 ‘서울시의 지하철 첫차 시간 조정에 반대한다’는 내용의 성명서를 냈다.&lt;br&gt;&lt;br&gt;서울교통공사통합노조는 “서울시의 일방적인 열차 운행 조정 발표에 유감을 표한다”며 “재검토와 심야 연장 운행 폐지를 요구한다”고 했다.&lt;br&gt;&lt;br&gt;올바른노조 역시 “이미 새벽 일찍 출근하는 승객을 위해 야간 자율주행 버스가 운영 중이고, 지하철 운행 시간을 앞당겨야 할 만큼의 구체적인 수송 수요도 분석하지 않았다”며 “서울시의 일방적인 추진을 강력히 반대하고, 전면 재검토를 요구한다”고 했다.&lt;br&gt;&lt;br&gt;서울교통공사 노조의 반발에 대해 서울시는 “지하철 첫차 시각을 30분 앞당기는 계획을 8월 시행 목표로 추진하고 있다”며 “시행 전 노사 협의, 철도 안전 관리 체계 신고, 코레일을 포함한 유관 기관 협의 등을 차질 없이 진행하겠다”고 했다.&lt;br&gt;&lt;br&gt;앞서 지난 21일 서울시는 오는 8월부터 지하철 첫차 시각을 오전 5시 30분에서 5시로, 막차 시각을 오전 1시에서 밤 12시 30분으로 각각 30분씩 앞당긴다고 발표했다. 시각을 앞당기는 이유에 대해 서울시는 “청소부, 경비원 등 아침 일찍 출근하는 시민들의 편의를 위한 것”이라고 했었다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>어려지는 학교폭력에... 위례동 주민들 직접 만든 ‘예비 초등생 로스쿨’</title>
-      <link>https://www.chosun.com/national/court_law/2025/05/22/YBW6DA44VJCWNIMIHMOEJQK2YQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/05/22/YBW6DA44VJCWNIMIHMOEJQK2YQ/</guid>
-      <dc:creator>박혜연 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 22 May 2025 06:51:49 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GEV2HBIFNBETLCWFIZRADYPZ3E.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;만 4~5세 어린이를 대상으로 하는 '북(book)적북적 로스쿨' 첫 수업이 진행된 16일 서울 송파구 위례리슈빌어린이집에서 아이들이 동화책을 바탕으로 법적 책임과 촉법소년 범죄의 심각성에 대해 배우고 있다. /장경식 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“저도 친구 목걸이가 너무 예뻐서 갖고 싶었던 적이 있었어요!”&lt;br&gt;&lt;br&gt;지난 16일 오전 서울 송파구 위례리슈빌 어린이집. 내년 초등학교 입학을 앞둔 ‘가온반’ 4~5세 아이들 11명이 동화책 ‘이건 내 모자가 아니야’를 읽어주는 두 선생님 앞에 옹기종기 앉았다. 아이들은 정의의 여신이 들고 있는 ‘저울’ 그림이 그려진 머리띠를 쓰고 있었다.&lt;br&gt;&lt;br&gt;책 속 주인공인 작은 물고기는 큰 물고기의 하늘색 모자를 훔쳐 물풀 사이로 달아나지만, 결국 들키고 만다. 선생님이 “친구의 물건이 탐날 때 우리는 어떻게 해야 할까?”라고 묻자, 한 아이가 “잠깐만 몰래 쓰고 돌려놔도 될까요?”라고 말했고 교실에선 웃음이 터져 나왔다.&lt;br&gt;&lt;br&gt;곰곰이 생각에 잠긴 표정으로 수업을 듣던 류인서양은 손을 번쩍 들고 “아니에요. 친구한테 한 번만 쓰게 해달라고 부탁해야 해요. 친구의 소중한 물건을 몰래 뺏으면 기분이 나쁠 것 같아요”라고 했다. 선생님은 “맞아요. 아무도 몰래 나쁜 짓을 할 수는 없어요. 우리 마음속 양심이 보고 있죠”라고 말하며 수업을 마무리했다.&lt;br&gt;&lt;br&gt;이날 수업은 예비 초등학생을 위한 범죄 예방 교육 ‘북(book)적북적 로스쿨’의 첫 시간이었다. 최근 학교 폭력이 저연령화되면서 초등학교 저학년 사이에서도 폭력 사건이 늘자, 지역 주민들이 자발적으로 ‘학교 폭력 조기 교육’ 프로그램을 기획한 것이다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GRHLTWVC75CBTPKJZUUGY2ELDE.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;만 4~5세 어린이를 대상으로 하는 '북(book)적북적 로스쿨' 첫 수업이 진행된 16일 서울 송파구 위례리슈빌어린이집에서 아이들이 동화책을 바탕으로 법적 책임과 촉법소년 범죄의 심각성에 대해 배우고 있다. /장경식 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날의 ‘일일 선생님’은 형사 관련 국책연구원 강민정(36)씨와 학교 폭력 전문 변호사인 배인철(36)씨다. 아이들과 같은 위례동에 거주하는 두 사람은 지난 7월, 강씨의 출산을 축하하던 자리에서 “요즘은 초등학교 저학년부터도 학교 폭력이 심각하다”는 배씨의 말을 계기로 수업을 기획하게 됐다. 강씨는 “학교에 들어가기 전부터 학교 폭력이 무엇인지 알고, 법 감수성을 기를 수 있도록 돕는 조기 교육이 필요하다고 느꼈다”고 했다.&lt;br&gt;&lt;br&gt;이들의 뜻에 공감한 지역 주민 5명이 힘을 보탰다. 철학을 전공한 대학생이 동화책 선정에, 현직 초등 교사는 수업 구성과 내용에 도움을 줬다. 이들은 함께 ‘송파구청 지역공동체 공모사업’에 제안서를 냈고, 사업에 선정돼 교육 프로그램을 진행하게 됐다. 강씨는 “나이도 분야도 다르지만, 동네 아이들이 안전한 학교에서 사이좋게 건강히 자라길 바라는 마음은 같았다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QCRGI3DUBFHDBPVWERYFLII6FI.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;만 4~5세 어린이를 대상으로 하는 '북(book)적북적 로스쿨' 첫 수업이 진행된 16일 서울 송파구 위례리슈빌어린이집에서 아이들이 동화책을 바탕으로 법적 책임과 촉법소년 범죄의 심각성에 대해 배우고 있다. /장경식 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;강씨는 10개월 된 딸을 돌보는 와중에도 시간을 쪼개 수업을 준비했고, 배씨는 퇴근 후 틈틈이 수업 대본을 썼다고 한다. 아내 앞에서 수업 시연까지 하며 준비했다. 배씨는 “초등학교 저학년일수록 장난과 폭력의 경계를 구분하기 어려워한다”며 “학교 가기 전부터 옳고 그름에 대한 기준을 자연스럽게 익히길 바랄 수 있도록 하는 마음에서 기획했다”고 했다.&lt;br&gt;&lt;br&gt;실제로 초등학생의 범죄율과 학교폭력 피해는 증가하는 추세다. 서울경찰청에 따르면 10세 소년의 가정법원 송치 건수는 2019년 74명에서 2023년 210명으로 183% 늘었다. 같은 기간 11세 소년은 112명에서 341명으로, 12세 소년도 332명에서 654명으로 두 배가량 늘었다. 교육부의 2024년 학교폭력 실태조사에 따르면 ‘학교 폭력을 당했다’고 응답한 초등학생이 4.2%로, ​역대 최고를 기록했다. &lt;br&gt;&lt;br&gt;강씨는 “거창하게 법을 가르치려는 게 아니라, 아이들이 일상 속에서 ‘이건 하면 안 되는 일’이라는 감각을 갖게 하는 게 목표”라며 “누군가에게 상처를 주지 않는 선택을 할 수 있는 아이로 자라나길 바란다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>경찰, 하나증권 지점 압수수색... 피의자에 수사정보 전달 의혹</title>
