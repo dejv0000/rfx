@@ -13,6 +13,24 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>대선 앞두고 맞불집회… “尹 구속” vs “윤 어게인”</title>
+      <link>https://www.chosun.com/national/national_general/2025/05/24/IBPGUUY5OFFVTITN55PUKJTCU4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/05/24/IBPGUUY5OFFVTITN55PUKJTCU4/</guid>
+      <dc:creator>구동완 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 24 May 2025 09:35:56 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HW2T6QAXHNJ2TNNLD7KSFKAA3M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;촛불행동이 지난 3일 서울 서초구 대법원 인근에서 집회를 열고 대법원 규탄, 대선개입 중지를 촉구하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;6·3 대선을 열흘 앞둔 24일 서울 서초구 법원 청사 인근에서 윤석열 전 대통령 구속을 촉구하는 집회와 윤 전 대통령 지지자들의 집회가 열렸다. &lt;br&gt;&lt;br&gt;윤 전 대통령 탄핵 찬성 집회를 벌여온 촛불행동은 이날 오후 4시 법원과 가까운 교대역 9번 출구 앞에서 ‘민주정부 건설 내란세력 청산 141차 촛불대행진’ 집회를 개최했다. 이들은 ‘내란수괴 대선 지휘 윤석열을 즉각 구속하라’ ‘압도적 대선 승리로 내란세력 청산하자’ 등이 적힌 손팻말을 들었다. &lt;br&gt;&lt;br&gt;김민웅 촛불행동 상임대표는 윤 전 대통령에 대해 “내란세력들을 이끌고 대선을 지휘하고 있다”며 “(국민의힘을) 탈당해놓고 이제는 내란 무리들을 손아귀에 쥐고 쥐락펴락하며 온갖 지령을 내리고 있다”고 비판했다.&lt;br&gt;&lt;br&gt;대선 투표에 적극적으로 참여해달라는 호소도 이어졌다. 안진걸 민생경제연구소장은 “다가오는 결전의 날 압도적인 투표로 지난 3년간 나라·경제·국민을 괴롭혔던 내란세력을 청산·심판해야 한다”고 했다. 이날 집회에는 오후 5시 기준으로 600명(경찰 비공식 추산)이 모였다. 이들은 집회를 마친 후 신논현역까지 행진했다.&lt;br&gt;&lt;br&gt;앞서 벨라도 등 보수 유튜버는 오후 1시 서초역 7번 출구 앞에서 윤 전 대통령 지지 집회를 열었다. 집회 참가자들은 태극기, 성조기 등을 흔들며 “윤석열 대통령“ ”윤 어게인” 등의 구호를 연호했다. 무대 위 발언자들은 “윤석열 대통령이 이 무대에 설 때까지 ‘윤 어게인’ 집회를 이어갈 것”이라고주장했다. 윤 전 대통령이 내란 혐의 사건 재판에 지하 주차장을 통해 비공개 출석할 수 있도록 해줘야 한다는 주장도 잇따랐다. 해당 집회에는 오후 4시 기준 2000명(경찰 비공식 추산)이 참석했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“여친과 싸우고 기분 나빠서”… 일면식 없는 장애인 다짜고짜 폭행한 40대 </title>
+      <link>https://www.chosun.com/national/national_general/2025/05/24/FNUIEHFKXFCIJDOOTIWJKHG4TA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/05/24/FNUIEHFKXFCIJDOOTIWJKHG4TA/</guid>
+      <dc:creator>최혜승 기자 </dc:creator>
+      <description/>
+      <pubDate>Sat, 24 May 2025 08:55:05 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YOTJTRZPDJE3JLJM35T7CXBVB4.png"&gt;&lt;figcaption&gt;&lt;small&gt;/일러스트=조선디자인랩 정다운&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;여자친구와 싸워 기분이 나쁘다는 이유로 일면식 없는 60대 장애인을 폭행해 전치 12주의 상해를 입힌 40대에게 실형이 선고됐다. &lt;br&gt;&lt;br&gt;의정부지법 남양주지원 형사1단독 최치봉 판사는 상해 혐의로 기소된 A(43)씨에게 징역 8개월을 선고했다고 24일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 작년 12월 17일 오전 10시 30분쯤 남양주시 다산동의 한 아파트 엘리베이터 앞에서 술에 취한 상태로 B(69)씨의 몸통으로 수차례 강하게 밀쳐 흉추 골절과 요추 염좌 등 전치 12주의 상해를 입힌 혐의로 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;A씨와 B씨는 모르는 사이로, A씨는 이날 여자친구와 다퉈 기분이 나쁘다는 이유로 아무런 이유 없이 B씨를 폭행한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;최 판사는 “피고인은 동종 범죄로 두 차례 벌금형을, 음주나 교통사고 관련 범행으로도 집행유예를 두 차례 선고받은 전력이 있다”며 “범행을 인정한 점과 우발적인 범행으로 보이는 점, 뒤늦게나마 피해자를 위해 일정 금액을 형사 공탁한 점은 유리한 정상이나 별다른 이유 없이 신체적 장애가 있는 피해자를 일방적으로 폭행한 점, 그동안 피해 회복을 위해 진지한 노력을 기울였다고 보기 어려운 점, 피해자가 엄벌을 탄원하고 있는 점을 양형에 고려했다”고 설명했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>청주시, ‘마약’ 단어 들어간 간판 바꾸면 최대 200만원 지원</title>
       <link>https://www.chosun.com/national/regional/2025/05/24/MWHNKZNXV5ERVFKT4FOJ4PKN74/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/05/24/MWHNKZNXV5ERVFKT4FOJ4PKN74/</guid>
@@ -33,15 +51,6 @@
 </description>
       <pubDate>Sat, 24 May 2025 05:31:07 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7J4T6KTWKBDWTAAGIE74JXUW6Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;청주지법 전경. /신정훈 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;5시간 가까이 만취 상태로 운전하면서 세 차례나 사고를 낸 60대에게 법원이 징역형을 선고했다.&lt;br&gt;&lt;br&gt;청주지법 형사6단독 정희철 부장판사는 도로교통법상 음주운전 등 혐의로 기소된 60대 A씨에게 징역 5년을 선고했다고 24일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 작년 11월 8일 오후 2시부터 오후 6시 35분까지 4시간 35분 동안 만취 상태로 청주시 서원구 일원에서 차량을 몰다 다른 차량과 세 차례 사고를 낸 혐의다. 이 사고로 상대 차량 운전자와 동승자 등 4명이 전치 2~3주의 부상을 입었다.&lt;br&gt;&lt;br&gt;그는 사고를 내고도 구호 조치 없이 도주했다가 같은 날 오후 9시 8분쯤 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;앞서 A씨는 이틀 전에도 청주에서 만취 상태로 운전하다 적발된 적 있었으며, 지난해 9월엔 서울 종로구에서 음주 뺑소니 사고를 저지르기도 했다.&lt;br&gt;&lt;br&gt;정 부장판사는 “같은 날 사고를 연달아 일으키고도 별다른 죄의식 없이 재차 범행에 나아갔다”면서 “피해자들로부터 용서를 받지 못한 점, 피해가 복구되지 않은 점 등을 양형에 참작했다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[매일매일 중국어 한마디] 허리를 삐끗하다</title>
-      <link>https://www.chosun.com/national/nie/chinese/2025/05/23/EKHHHJXEYFHOHHBJQIZWHAOF7Y/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese/2025/05/23/EKHHHJXEYFHOHHBJQIZWHAOF7Y/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 22 May 2025 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HFXEOZNSC5F2RMGXYZE6KQP6GM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>“손흥민 협박녀? 나 아냐”... 황당 루머에 분노한 뮤지컬 배우</title>
@@ -905,15 +914,6 @@
       <description/>
       <pubDate>Thu, 22 May 2025 15:50:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JUJVNVUVNJHYDEGCTNN4OSSU3A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/조선일보 리프린트&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;조선일보에 실린 아기 출생 소식, 본인이나 지인의 인터뷰, 사진 기사를 영원히 추억으로 간직하세요. 조선일보는 독자가 원하는 신문 지면을 그대로 고급 액자에 담아 드리는 ‘조선일보 리프린트’ 서비스를 합니다. 매주 ‘아이가 행복입니다’ 지면에 소개된 한 가족을 추첨해 리프린트를 선물로 드립니다. 지난 16일 ‘우리 아이 이름으로 초록우산에 기부했어요’ 코너에 실린 김태희&amp;lt;사진&amp;gt;양이 이번 주 주인공입니다. 자세한 내용은 홈페이지(&lt;a href="http://reprint.chosun.com/"&gt;reprint.chosun.com&lt;/a&gt;)에서 확인할 수 있습니다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[입에 착착 붙는 일본어] 나뭇가지가 휘다[휘어지다]</title>
-      <link>https://www.chosun.com/national/nie/japanese/2025/05/23/QJHV2LCP4BCNHMWNEP6JP4DTFY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/japanese/2025/05/23/QJHV2LCP4BCNHMWNEP6JP4DTFY/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 22 May 2025 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LR7ZUK56WJFI5FF6BM4SBO4RZ4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>서울고검, ‘도이치 주가 조작’ 공범 소환... 관계자 첫 대면 조사</title>
