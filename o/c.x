@@ -13,6 +13,28 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>청주시, ‘마약’ 단어 들어간 간판 바꾸면 최대 200만원 지원</title>
+      <link>https://www.chosun.com/national/regional/2025/05/24/MWHNKZNXV5ERVFKT4FOJ4PKN74/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/05/24/MWHNKZNXV5ERVFKT4FOJ4PKN74/</guid>
+      <dc:creator>정성원 기자</dc:creator>
+      <description>충북 청주시가 ‘마약 김밥’, ‘마약 옥수수’ 와 같이 ‘마약’이란 단어가 들어간 상호와 메뉴판을 바꾸는 업체에 대해 최대 200만원의 변경 비용을 지원한다.
+청주시는 마약의 중독성을 연상시키는 단어가 청소년과 어린이에게 부정적 영향을 미칠 수 있다는 지적에 따라 ‘마약’이란 단어가 들어간 간판을 바꾸면 최대 200만원, 메뉴판을 바꾸면 경우 최대 50만원을 지원한다고 24일 밝혔다.
+</description>
+      <pubDate>Sat, 24 May 2025 06:30:39 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5XRUY2FZXLVMYS2QHHZILBICXQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;청주시청 임시청사/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;충북 청주시가 ‘마약 김밥’, ‘마약 옥수수’와 같이 ‘마약’이란 단어가 들어간 상호와 메뉴판을 바꾸는 업체에 대해 최대 200만원의 변경 비용을 지원한다.&lt;br&gt;&lt;br&gt;청주시는 마약의 중독성을 연상시키는 단어가 청소년과 어린이에게 부정적 영향을 미칠 수 있다는 지적에 따라 ‘마약’이란 단어가 들어간 간판을 바꾸면 최대 200만원, 메뉴판을 바꾸면 최대 50만원을 지원한다고 24일 밝혔다.&lt;br&gt;&lt;br&gt;이 사업은 작년 7월부터 개정 시행 중인 ‘식품 등의 표시·광고에 관한 법률’에 따른 것이다.&lt;br&gt;&lt;br&gt;청주 지역에서 마약 관련 단어가 표시된 간판을 사용하는 업체는 총 12곳으로 조사됐다. 시는 해당 업소에 안내문과 신청서 등을 우편으로 발송할 예정이다.&lt;br&gt;&lt;br&gt;청주시 관계자는 “간판 등의 변경을 희망하는 업체는 신청서와 함께 사업자등록증, 견적서 등을 시청에 제출하면 된다”면서 “안전한 식품 환경을 조성하는 데 노력하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>만취 상태로 운전하다 ‘쾅·쾅·쾅’… 60대 상습 음주 뺑소니 운전자 ‘징역 5년’</title>
+      <link>https://www.chosun.com/national/court_law/2025/05/24/3CQGS7CXPJFIXC2T3PKCIYONFM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/05/24/3CQGS7CXPJFIXC2T3PKCIYONFM/</guid>
+      <dc:creator>정성원 기자</dc:creator>
+      <description>5시간 가까이 만취 상태로 운전하면서 세 차례나 사고를 낸 60대에게 법원이 징역형을 선고했다.
+청주지법 형사6단독 정희철 부장판사는 도로교통법상 음주운전 등 혐의로 기소된 60대 A씨에게 징역 5년을 선고했다고 24일 밝혔다.
+</description>
+      <pubDate>Sat, 24 May 2025 05:31:07 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7J4T6KTWKBDWTAAGIE74JXUW6Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;청주지법 전경. /신정훈 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;5시간 가까이 만취 상태로 운전하면서 세 차례나 사고를 낸 60대에게 법원이 징역형을 선고했다.&lt;br&gt;&lt;br&gt;청주지법 형사6단독 정희철 부장판사는 도로교통법상 음주운전 등 혐의로 기소된 60대 A씨에게 징역 5년을 선고했다고 24일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 작년 11월 8일 오후 2시부터 오후 6시 35분까지 4시간 35분 동안 만취 상태로 청주시 서원구 일원에서 차량을 몰다 다른 차량과 세 차례 사고를 낸 혐의다. 이 사고로 상대 차량 운전자와 동승자 등 4명이 전치 2~3주의 부상을 입었다.&lt;br&gt;&lt;br&gt;그는 사고를 내고도 구호 조치 없이 도주했다가 같은 날 오후 9시 8분쯤 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;앞서 A씨는 이틀 전에도 청주에서 만취 상태로 운전하다 적발된 적 있었으며, 지난해 9월엔 서울 종로구에서 음주 뺑소니 사고를 저지르기도 했다.&lt;br&gt;&lt;br&gt;정 부장판사는 “같은 날 사고를 연달아 일으키고도 별다른 죄의식 없이 재차 범행에 나아갔다”면서 “피해자들로부터 용서를 받지 못한 점, 피해가 복구되지 않은 점 등을 양형에 참작했다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>[매일매일 중국어 한마디] 허리를 삐끗하다</title>
       <link>https://www.chosun.com/national/nie/chinese/2025/05/23/EKHHHJXEYFHOHHBJQIZWHAOF7Y/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese/2025/05/23/EKHHHJXEYFHOHHBJQIZWHAOF7Y/</guid>
@@ -892,24 +914,6 @@
       <description/>
       <pubDate>Thu, 22 May 2025 15:34:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LR7ZUK56WJFI5FF6BM4SBO4RZ4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[스피킹이 강해지는 영어] I gather that ~</title>
-      <link>https://www.chosun.com/national/nie/english/2025/05/23/CF52VD3XVBGXJJ6NF4GZE2JIJM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/english/2025/05/23/CF52VD3XVBGXJJ6NF4GZE2JIJM/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 22 May 2025 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UXSFDHN2FFA23MAW7WBQRLAZWI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[두근두근 뇌 운동] [2627] 제목 외우기</title>
-      <link>https://www.chosun.com/national/nie/2025/05/23/KTRJI7V5V5BHRGXALAVPAKWCK4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2025/05/23/KTRJI7V5V5BHRGXALAVPAKWCK4/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 22 May 2025 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QAWP7BOATJF2NP7RJUHUBPFSNA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>서울고검, ‘도이치 주가 조작’ 공범 소환... 관계자 첫 대면 조사</title>
