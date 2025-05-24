@@ -13,6 +13,18 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>﻿“성병 옮기고 폭행”vs“법적 대응”…뮤지컬배우 전호준 폭로전 일파만파 </title>
+      <link>https://www.chosun.com/national/national_general/2025/05/25/TD2QJFLNXVAWTIEHVIQ4ZOZFQI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/05/25/TD2QJFLNXVAWTIEHVIQ4ZOZFQI/</guid>
+      <dc:creator>이가영 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 24 May 2025 22:30:34 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/A2XG6JBG5JBPHODTZQXER2JA6Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;뮤지컬 배우 전호준(왼쪽)은 25일 자신의 인스타그램에 전날 일어난 연인과의 폭행 사건 관련 자신이 피 흘리고 있는 모습의 사진을 공개했다. /전호준 인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;뮤지컬 배우 전호준과 교제하면서 폭행 등의 피해를 당했다는 연인의 폭로가 나왔다. 전호준은 피 흘리는 자신의 사진을 공개하면서 “허위 사실로 인해 억울한 상황에 놓여 있다”고 반박했다. &lt;br&gt;&lt;br&gt;자신을 전호준의 연인이라고 소개한 A씨는 24일 인스타그램에 “연극하고 공연한다고 커피차부터 서포트까지 전부 해줬다. 모든 데이트 비용 또한 전부 제가 지불해왔고 휴대전화, 명품 스카프, 목걸이 등 결혼을 빙자해 천만원 가량의 금액을 갈취당했다”고 주장했다. 이어 “태국 여행 항공권, 10일간 숙박비용 등 500만원을 혼자 지불했으며 성병에 걸리게 했고, 필라테스 비용 또한 매달 현금으로 100만원씩 줬다”고 했다. &lt;br&gt;&lt;br&gt;A씨는 이날 새벽 전호준의 집에 찾아갔다가 폭행을 당했다고 주장했다. 그는 “(전호준과) 연락이 두절되어 새벽 2시에 집에 갔을 때 문을 열자마자 (전호준이) 목을 졸랐고, 머리채를 잡고 바닥에 내리꽂았다”며 “살려달라고 하면서 도망치려고 하자 머리채를 잡고 뺨을 때렸다”고 했다. 이어 “저항하다가 전호준의 머리를 쳤는데 피가 났다”며 “그러자 눈이 돌며 ‘가만 안 두겠다’고 경찰에 신고했고, (전호준이) 피를 흘린다는 이유로 쌍방폭행이 되었다”고 했다. &lt;br&gt;&lt;br&gt;A씨는 “저는 이야기를 한 뒤 헤어지는 게 맞는 것 같아 (경찰에) 끝까지 처벌을 원치 않는다고 했지만, 전호준은 절대 가만두지 않겠다며 변호사까지 대동해 연락을 차단했다”며 “너무 화가 나고 억울하다. 제가 해준 필라테스 비용 환불 부탁드린다. 억울해서라도 받아야겠다”고 했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ORN5B35LVJBC3MNJWFXLJ62J5E.png"&gt;&lt;figcaption&gt;&lt;small&gt;A씨가 24일 인스타그램에 올린 전호준과 함께 찍은 사진과 멍이 든 신체 사진. /A씨 인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;A씨는 전호준에게 폭행당했다는 증거로 멍이 든 신체 사진을 공개했다. 전호준과 함께 찍은 사진, 카카오톡 메시지, 경찰서에서 작성한 조서 사진도 첨부했다. 그러면서 “깜짝선물을 하겠다고 집 앞에 찾아갔다가 프라이버시를 침해당했다며 온갖 욕과 막말을 들어야 했다. 정신적 힘듦으로 약까지 복용했고, 결국 마무리는 폭행”이라며 “도와달라. 너무 억울하다”고 했다. &lt;br&gt;&lt;br&gt;그러자 전호준은 25일 새벽 자신의 인스타그램에 피를 흘리는 모습의 사진을 공개했다. 전날 일어난 A씨와의 폭행 사건 관련 경찰이 촬영한 증거 사진이라고 했다. 이와 함께 자신의 입장이 담긴 인터뷰 기사 링크를 첨부했다. &lt;br&gt;&lt;br&gt;전호준은 뉴스엔에 “석 달 전 A씨에게 이별을 이야기하자 극단적인 언행을 보이는 등 관계를 정리하는 데 큰 어려움이 있었다”며 “원만하게 관계를 정리하려고 노력했지만 끝내 마무리가 되지 못한 채 갈등이 이어지게 된 상황이었다”고 설명했다. &lt;br&gt;&lt;br&gt;폭행과 관련해서는 “일정을 마친 뒤 피곤한 상태로 집에서 잠들어 있었는데, 새벽 4시 반쯤 누군가가 비밀번호를 누르고 창문을 열려는 소리가 들렸다”며 “(집) 비밀번호를 바꾼 상태였지만 A씨임을 확인하고 문을 열어 줬다”고 했다. 이어 “A씨의 진입을 막는 과정에서 상황이 통제되지 않아 경찰을 불렀고, 이태원 경찰서에서 각각 진술한 후 귀가했다”며 “귀가 이후에도 A씨로부터 40통 넘는 전화가 계속됐고 일상생활을 이어가기 어려울 정도로 반복적인 연락이 지속돼 결국 차단하게 됐다”고 했다. &lt;br&gt;&lt;br&gt;전호준은 금전 관련 주장에 관해서는 “A씨가 할인 혜택이 적용되는 카드를 사용하고 있었고, 본인의 카드로 결제하면 더 저렴하다며 먼저 결제를 제안한 경우가 대부분이었다”며 “제가 결제를 요청한 적은 없었고, 제 카드가 일시적으로 사용되지 않을 때 소액 결제를 대신한 정도였다. 1000만원을 받은 일도 전혀 없다”고 했다. &lt;br&gt;&lt;br&gt;전호준은 “A씨와 직접 연락을 주고받을 계획은 없으며 현재 출연을 앞둔 연극 작품에 피해가 발생하는 순간 즉시 법적 대응에 나설 것”이라며 “허위 사실 유포로 인해 심각한 피해를 입고 있다. 사실과 다른 주장이 계속해서 반복된다면 강경하게 대응할 수밖에 없다”고 했다. &lt;br&gt;&lt;br&gt;전호준은 2007년 뮤지컬 ‘노트르담 드 파리’로 데뷔했다. 이후 ‘위키드’, ‘맘마미아’, ‘시카고’ 등에서 활약했으며 최근까지 ‘킹키부츠’의 엔젤 역으로 무대에 올랐다. JTBC ‘팬텀싱어4’에 출연한 적 있으며 필라테스 강사로도 활동 중이다. &lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/A2XG6JBG5JBPHODTZQXER2JA6Y.jpg?auth=39f470de915d7028e7dbde7d92fcedd2a6d6281e45724b0016f326d389e1034d&amp;smart=true&amp;width=1200&amp;height=900" type="image/jpeg" height="900" width="1200">
+        <media:description type="plain">뮤지컬 배우 전호준(왼쪽)은 25일 자신의 인스타그램에 전날 일어난 연인과의 폭행 사건 관련 자신이 피 흘리고 있는 모습의 사진을 공개했다. /전호준 인스타그램</media:description>
+      </media:content>
+    </item>
+    <item>
       <title>“유부녀 알고 만났지만, 난 피해자” 의뢰인 황당 주장 [이별전쟁]</title>
       <link>https://www.chosun.com/national/court_law/2025/05/25/XD6X2VVGW5GXNPHWYMVF5GVFCE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/05/25/XD6X2VVGW5GXNPHWYMVF5GVFCE/</guid>
@@ -876,15 +888,6 @@
       <description/>
       <pubDate>Thu, 22 May 2025 15:53:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/344BPQNH6NBTZGQ7UXOP2JWKPQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=이철원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전국 산후조리원의 62%가 서울과 경기, 인천 등 수도권에 몰려 있는 것으로 나타났다. 지역별로 이용료가 가장 비싼 곳(4020만원)과 가장 싼 곳(120만원)의 격차는 33배에 달했다.&lt;br&gt;&lt;br&gt;22일 보건복지부에 따르면, 지난해 12월 기준 전국 산후조리원 총 460곳 가운데 285곳(62%)이 수도권에 몰려 있었다. 서울이 115곳(전체의 25%), 경기도가 147곳(32%), 인천이 23곳(5%)이었다. 수도권 인구는 전체 인구의 51% 수준인데, 그보다 많은 산후조리원이 수도권에 있다는 뜻이다.&lt;br&gt;&lt;br&gt;반면 국가 전체 인구의 6%를 차지하는 부산은 산후조리원이 19곳(4.1%)밖에 없었다. 경북은 13곳(2.8%), 전북은 10곳(2.2%)에 그쳤다. &lt;br&gt;&lt;br&gt;지역별로 이용료 격차도 심했다. 2주 기준 서울은 평균 요금이 일반실 478만원, 특실 762만원이었다. 반면 전남은 일반실 평균 178만원, 특실 평균 263만원이었다. &lt;br&gt;&lt;br&gt;이용료가 비싼 상위 20곳 중 16곳은 서울에, 그중 11곳이 강남구에 몰려 있었다. 가장 비싼 강남구의 A 산후조리원은 특실이 2주 기준 4020만원에 달했다. 객실에는 개인 정원이 딸려 있고, 각 진료 과목별 전문의가 상주하고 있다. 다음으로 비싼 강남구 B 조리원은 2주 기준 2800만원을 내야 한다. 스튜디오 사진 촬영까지 포함된 금액이다. 2주 2700만원을 내야 하는 강남구 C 조리원의 경우 최고급 호텔 수준 시설을 갖추고 있다고 홍보한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4L43WK53E5HCDHA3ZVP7IMCZGM.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=조선디자인랩 정다운&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;반면 전북 군산의 D 조리원은 일반실 120만원, 특실 200만원이었고, 경북 구미의 E 조리원은 일반실 140만원, 특실 154만원으로 각각 일반실과 특실 기준으로 가장 저렴했다. &lt;br&gt;&lt;br&gt;경북의 한 대학병원 산부인과 교수는 “우리나라는 제왕절개를 하는 비율이 높고, 산모 대부분이 출산 직후 통증이 심해 아기를 직접 보기 쉽지 않다”며 “어쩔 수 없이 필요한 시설”이라고 했다. 반면 서울의 한 대학병원 산부인과 교수는 “의학적으로 산후 조리를 꼭 산후조리원에서 할 필요는 없다”며 “산후조리원 역할은 사실상 ‘신생아를 대신 봐 주는 호텔’에 가깝다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>300만송이 장미와 함께</title>
-      <link>https://www.chosun.com/national/national_general/2025/05/23/V6IY7NLCCNDYJJGNLCR7G3XJM4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/05/23/V6IY7NLCCNDYJJGNLCR7G3XJM4/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 22 May 2025 15:53:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FOBDNJP3SBHVFN7L64E2PIPKCE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/김동환 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;22일 울산 남구 울산대공원에서 열린 장미 축제를 찾은 시민들이 장미 모양 조형물을 배경으로 사진을 찍고 있다. 25일까지 열리는 축제에는 265종 300만송이의 장미가 준비됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[서초동 25시] 변호사 업계에 반짝이는 ‘보석’</title>
