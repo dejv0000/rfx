@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>연세대 앞 버스 추돌 사고… 승객 7명 병원 이송</title>
+      <link>https://www.chosun.com/national/national_general/2025/05/24/JWF6OM3WTFFHVIUY2BBLWND2DI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/05/24/JWF6OM3WTFFHVIUY2BBLWND2DI/</guid>
+      <dc:creator>구동완 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 24 May 2025 14:03:46 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/P5R7LF3QMRE7FBK2JXN76BVT3Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;119 출동 일러스트. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 서대문구 창천동 서대문우체국 인근에서 광역버스가 버스 정류장에서 정차 중이던 시내버스를 들이받아 8명이 다치는 사고가 발생했다.&lt;br&gt;&lt;br&gt;경찰과 소방 등에 따르면 이 사고로 시내버스에 타고 있던 8명이 경상을 입었고, 이 가운데 7명은 병원으로 이송됐다.&lt;br&gt;&lt;br&gt;광역버스에는 기사 외에 탑승한 승객은 없었던 것으로 전해졌다. 경찰은 정확한 사고 경위를 조사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>대선 앞두고 맞불집회… “尹 구속” vs “윤 어게인”</title>
       <link>https://www.chosun.com/national/national_general/2025/05/24/IBPGUUY5OFFVTITN55PUKJTCU4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/05/24/IBPGUUY5OFFVTITN55PUKJTCU4/</guid>
@@ -905,15 +914,6 @@
       <description/>
       <pubDate>Thu, 22 May 2025 15:50:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/T7RAFOAK5ND37OX3RIXDAKEZDI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[알립니다] 우리 아이 출생 소식 액자에 담아 간직하세요</title>
-      <link>https://www.chosun.com/special/announcement/2025/05/23/XLJCUDTQH5BILOBW6S6OG3XAGU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/special/announcement/2025/05/23/XLJCUDTQH5BILOBW6S6OG3XAGU/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 22 May 2025 15:50:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JUJVNVUVNJHYDEGCTNN4OSSU3A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/조선일보 리프린트&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;조선일보에 실린 아기 출생 소식, 본인이나 지인의 인터뷰, 사진 기사를 영원히 추억으로 간직하세요. 조선일보는 독자가 원하는 신문 지면을 그대로 고급 액자에 담아 드리는 ‘조선일보 리프린트’ 서비스를 합니다. 매주 ‘아이가 행복입니다’ 지면에 소개된 한 가족을 추첨해 리프린트를 선물로 드립니다. 지난 16일 ‘우리 아이 이름으로 초록우산에 기부했어요’ 코너에 실린 김태희&amp;lt;사진&amp;gt;양이 이번 주 주인공입니다. 자세한 내용은 홈페이지(&lt;a href="http://reprint.chosun.com/"&gt;reprint.chosun.com&lt;/a&gt;)에서 확인할 수 있습니다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>서울고검, ‘도이치 주가 조작’ 공범 소환... 관계자 첫 대면 조사</title>
