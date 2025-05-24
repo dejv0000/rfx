@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>[매일매일 중국어 한마디] 허리를 삐끗하다</title>
+      <link>https://www.chosun.com/national/nie/chinese/2025/05/23/EKHHHJXEYFHOHHBJQIZWHAOF7Y/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese/2025/05/23/EKHHHJXEYFHOHHBJQIZWHAOF7Y/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Thu, 22 May 2025 15:34:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HFXEOZNSC5F2RMGXYZE6KQP6GM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>“손흥민 협박녀? 나 아냐”... 황당 루머에 분노한 뮤지컬 배우</title>
       <link>https://www.chosun.com/national/national_general/2025/05/24/PZQ5VKLJ5RFWBAOH3NPUXNJI2Y/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/05/24/PZQ5VKLJ5RFWBAOH3NPUXNJI2Y/</guid>
@@ -883,15 +892,6 @@
       <description/>
       <pubDate>Thu, 22 May 2025 15:34:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LR7ZUK56WJFI5FF6BM4SBO4RZ4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문으로 배우는 실용한자] 파기자판(破棄自判)</title>
-      <link>https://www.chosun.com/national/nie/chinese_character/2025/05/23/UWYKWTRCZBHQZED5YVDBOUNLLQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese_character/2025/05/23/UWYKWTRCZBHQZED5YVDBOUNLLQ/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 22 May 2025 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/I344Z6VGHVDWTB7THZBXLRFLFA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[스피킹이 강해지는 영어] I gather that ~</title>
