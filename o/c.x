@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>“아! 오빠”…45년 전 헤어졌던 남매 상봉</title>
+      <link>https://www.chosun.com/national/regional/yeongnam/2025/05/25/GVVRUGRRWRGMNCUNIHUKD3YQUU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/yeongnam/2025/05/25/GVVRUGRRWRGMNCUNIHUKD3YQUU/</guid>
+      <dc:creator>부산=박주영 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 25 May 2025 09:50:34 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QTUVADLZVZEUJIPEM6LTMQIH5M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 1981년 생이별한 후 25일 부산 연제경찰서에서 45년 만의 상봉을 한 남매와 가족들./연제경찰서&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;45년 전 생이별한 남매가 경찰청의 유전자 등록제도 덕분에 극적으로 상봉했다.&lt;br&gt;&lt;br&gt;부산 연제경찰서는 “서울 거주 A(여·48)씨와 부산에 사는 오빠 B(51)씨가 45년 만에 25일 다시 만났다“고 밝혔다.&lt;br&gt;&lt;br&gt;경찰에 따르면 A씨는 3살 때인 1981년쯤 부산의 한 중국집에서 가족과 식사하다가 헤어져 아동보호시설에 입소했다. A씨를 잃어버린 가족들은 백방으로 찾았으나 결국 실종 처리할 수밖에 없었다. 그씨와 B씨러는 동안 지난 2008년 부친은 그리던 딸을 다시 만나지 못한 채 세상을 떠났다.&lt;br&gt;&lt;br&gt;A씨는 아동보호시설에서 자라 성인이 된 후 독립, 직장생활을 하던 중 가족을 찾을 수 있을지도 모른다는 생각에 2009년 부산 남부경찰서에 유전자 검사를 신청했다. 이후 아무런 소식이 없자 2016년 서울로 직장을 옮겼다. &lt;br&gt;&lt;br&gt;오빠 B씨도 어린 시절 잃어버린 여동생을 찾으려 이리저리 수소문하다가 지난 2023년 5월 부산 연제경찰서를 찾아 상담했고, 경찰 권유로 아동권리보장원의 유전자 검사를 받았다. &lt;br&gt;&lt;br&gt;B씨의 유전자가 16년 전 아동권리보장원의 유전자 검사를 받은 A씨와 일치했다. 경찰은 지난 3월 A씨의 유전자를 다시 채취, 아동권리보장원과 협력해 국립과학수사연구원에 분석 대조를 한 결과, 두 사람이 생이별한 남매라는 것을 최종 확인했다. &lt;br&gt;&lt;br&gt;덕분에 생이별 후 45년 간 서로 그리워 하며 찾아 헤매던 남매는 부산 연제경찰서에서 만날 수 있었다. A씨 등은 “45년을 애타게 그리며 만나고 싶었던 가족들이 실제 만나게 되니 정말 꿈만 같다”며 “경찰에 감사드린다”고 말했다. &lt;br&gt;&lt;br&gt;경찰은 “오랜 세월 헤어져 애를 태우던 가족이 다시 만난 것에 대해 축하드린다”며 “앞으로도 국민께 따뜻한 소식을 전해줄 수 있도록 최선을 다하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;경찰청의 ‘유전자 등록 제도’는 장기 실종자를 찾기 위해 2004년부터 시행되고 있다. 이 제도는 무연고 및 실종 아동의 유전자와 아동을 찾는 가족의 유전자를 대조해 가족을 이어주기 위해 운영되고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>“내 지역구인데”...축사 못했다고 직원 폭행한 구미시의원 사과문</title>
       <link>https://www.chosun.com/national/incident/2025/05/25/GKH2ORBQDNAILAXCUSTYUDAICQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/05/25/GKH2ORBQDNAILAXCUSTYUDAICQ/</guid>
@@ -978,15 +987,6 @@
       <description/>
       <pubDate>Thu, 22 May 2025 15:53:00 +0000</pubDate>
       <content:encoded>국민건강보험공단과 담배 회사의 12년째 계속된 500억원대 ‘담배 소송’ 2심 판결이 조만간 내려진다. 이 소송은 공공기관이 직접 담배 회사를 상대로 손해배상을 요구한 소송이라는 점에서 결과에 큰 관심이 쏠리고 있다. 그동안 국내에서 환자·유족이 제기한 소송은 모두 담배 회사가 이겼다. &lt;br&gt;&lt;br&gt;서울고법 민사6-1부는 22일 건보공단이 KT&amp;amp;G와 한국필립모리스, BAT코리아를 상대로 낸 손해배상 청구 소송 항소심의 12차 마지막 변론을 열었다. 정기석 건보공단 이사장은 이날 “담배 회사들이 수십 년에 걸쳐 흡연의 유해성과 중독성을 의도적으로 은폐하고, 소비자를 기만하며 막대한 이익을 챙겼다”며 “담배 회사들이 책임져야 한다”고 했다.&lt;br&gt;&lt;br&gt;공단은 지난 2014년 4월 “30년 이상 흡연자 3465명이 폐암·후두암을 진단받아 2003~2012년 건강보험 급여에 533억원 손해가 발생했다”며 담배 회사를 상대로 소송을 제기했다. 흡연자들의 암 치료로 병의원에 건보 급여를 지급하는 공단 입장에서는 손해를 입었다는 것이다.&lt;br&gt;&lt;br&gt;그러나 6년 만인 2020년 1심에선 공단이 패소했다. 1심 재판부는 “흡연 외 요인으로도 폐암이 발병할 수 있다”며 “공단은 흡연의 직접 피해자(환자)가 아니므로 손배 청구가 불가하다”고 했다. 담배 회사들이 흡연 중독성을 축소·은폐했다는 공단 측 주장도 인정하지 않았다. &lt;br&gt;&lt;br&gt;5년 만에 내려지는 2심 진행 과정에서 공단은 흡연과 암의 인과관계에 대한 새로운 연구 등 22건의 추가 증거 자료를 재판부에 제출했다. 공단은 “역학 연구 결과, 흡연이 암 발생에 기여하는 정도는 폐암 96~97%, 후두암 85%로 매우 높다”며 “흡연과 암의 인과관계가 입증됐다”고 주장했다. 공단 건강보험연구원과 연세대 보건대학원은 지난 18일 건강검진 수검자 13만6965명을 추적 관찰해 30년 이상 기간, 20갑년(하루 한 갑씩 20년 치) 이상 분량 흡연자의 경우 비흡연자보다 소세포폐암 발병 위험이 54.49배 높다는 연구 결과를 발표하기도 했다. &lt;br&gt;&lt;br&gt;이에 대해 담배 회사들은 “폐암의 원인을 흡연이라고 단정할 수 없다”고 반박했다. 재판부는 공단이 이날 제출한 증거에 대한 양측 참고 서면을 추가로 받고 나서 선고 기일을 정하기로 했다.&lt;br&gt;&lt;br&gt;외국에서는 개인이나 정부가 담배 회사들에서 거액의 배상금을 받아낸 사례가 적지 않다. 미국은 1998년 담배 회사들이 46개 주정부에 흡연 예방 사업 등을 위해 25년에 걸쳐 260조원 이상을 지급하기로 합의했다. 지난 3월 캐나다 퀘벡주에서는 피해자 집단소송을 통해 약 33조원의 배상 합의가 확정됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[부음] 김수영 시인 아내 김현경 여사 별세 </title>
-      <link>https://www.chosun.com/culture-life/book/2025/05/23/BH2KS7XIXFD2PJMISYZPJWGGHQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/culture-life/book/2025/05/23/BH2KS7XIXFD2PJMISYZPJWGGHQ/</guid>
-      <dc:creator>이태훈 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 22 May 2025 15:51:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XATLQLPLCU7MOEJMM25NZ2X5HA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;남편 김수영 시인의 타계 50주기였던 2018년 당시 경기 용인 자택에서 김수영 시인이 연희전문학교(현 연세대) 출강 시절 쓴 강의 노트를 펼쳐 보이는 김현경씨. 김씨는 “남편이 원고 준비부터 억양까지 연극 무대처럼 강의를 준비했다”고 했다. /박상현 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;시 ‘풀’ ‘어느 날 고궁을 나오면서’ 등을 쓴 김수영(1921~1968) 시인의 아내 김현경(98) 여사가 22일 별세했다. 고인은 시인 남편의 비평가이자 문학적 동반자였고, 김수영의 시를 세상에 널리 알린 주역이기도 했다.&lt;br&gt;&lt;br&gt;진명여고를 거쳐 이화여대 영문과에서 문학을 공부한 고인은 10대 문학 소녀 시절 김수영을 만나 연인이 된 뒤 1950년 결혼했다. 6·25전쟁통에 김수영이 인민군에 끌려가면서 서로 헤어졌다가 1954년 다시 만났다.&lt;br&gt;&lt;br&gt;고인은 생전 본지 인터뷰에서 “시 한 편이 완성되면 남편은 ‘난산(難産)이다’라며 날 불렀고, 부엌에서 연탄불에 밥 짓다 말고 달려갔다”며 “남편이 작품을 읽어주면 내가 원고지에 또박또박 옮겨 적었다”고 했다. 김수영이 세상을 떠나기 직전 남긴 시 ‘풀’의 초고를 원고지에 옮겨 적은 것도 고인이었다.&lt;br&gt;&lt;br&gt;2013년 남편과의 추억을 풀어낸 산문집 ‘김수영의 연인’, 시인의 타계 50주년을 앞둔 2017년 문인 13명의 산문을 모은 ‘우리는 영원하고 사랑도 그렇다’를 펴냈다.&lt;br&gt;&lt;br&gt;연희전문 영문과를 다니다 중퇴한 남편 대신 2018년 연세대에서 명예 졸업장을 받을 때는 본지에 “1966년 모교 특강을 맡고 그렇게 자랑하며 연극 무대 서듯 열심히 강의를 준비했다”고 회고했다.&lt;br&gt;&lt;br&gt;유족은 아들 김우, 딸 김선주씨. 분당제생병원장례식장, 발인 24일 5시 30분.&lt;br&gt;&lt;br&gt;[관련기사] &lt;a href="https://www.chosun.com/site/data/html_dir/2017/11/22/2017112200068.html" target="_self" rel="" title="https://www.chosun.com/site/data/html_dir/2017/11/22/2017112200068.html"&gt;“나는 김수영 詩의 첫 독자… ‘풀’ 읽었을 때 참 시원했다”&lt;/a&gt;&lt;br&gt;&lt;br&gt;[관련기사] &lt;a href="https://www.chosun.com/site/data/html_dir/2018/08/30/2018083000301.html" target="_self" rel="" title="https://www.chosun.com/site/data/html_dir/2018/08/30/2018083000301.html"&gt;“연극무대 서듯 강의 준비하던 남편 얼굴 떠올라요”&lt;/a&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>“여자 목소리 80데시벨 넘어선 안 돼”… 남고생들이 든 손팻말 논란</title>
