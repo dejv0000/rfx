@@ -13,6 +13,35 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>23년간 음주운전 3번 걸린 경찰관, 법원 “파면은 과하다”</title>
+      <link>https://www.chosun.com/national/court_law/2025/05/25/2655YCDSYVHUJN77MM2LYLL5GE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/05/25/2655YCDSYVHUJN77MM2LYLL5GE/</guid>
+      <dc:creator>김은경 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 25 May 2025 02:49:37 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YL46D52SX2CFBINZWKTBSZWTWA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울행정법원 청사/연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;23년간 세 차례 음준운전을 해 파면당한 경찰관이 징계를 취소해달라며 제기한 소송에서 이겼다. 법원은 10~20년 전 음주운전 전력까지 누적해 공무원 징계 중 가장 무거운 파면 처분을 한 것은 지나치다고 판단했다.&lt;br&gt;&lt;br&gt;25일 법조계에 따르면 서울행정법원 행정14부(재판장 이상덕)는 A경위가 서울경찰청장을 상대로 제기한 파면 처분 취소 소송에서 지난 3월 원고 승소로 판결했다. 서울경찰청장이 항소하지 않으면서 이 판결은 지난달 확정됐다.&lt;br&gt;&lt;br&gt;A경위는 2023년 8월 소주를 마시고 승용차를 운전하다가 경찰의 음주 측정 요구에 불응해 현행범으로 체포됐다. 이후 도로교통법 위반(음주 측정 거부) 혐의로 벌금 1000만원의 약식명령을 받았다.&lt;br&gt;&lt;br&gt;A경위는 과거 두 차례 음주운전으로 징계를 받은 전력이 있었다. 2001년 음주운전으로 견책 처분을, 2012년에는 음주운전을 하다 교통사고를 낸 뒤 별다른 조치 없이 현장을 이탈해 강등 처분을 받았다.&lt;br&gt;&lt;br&gt;서울경찰청은 3회 이상 음주운전을 한 경우 해임 혹은 파면하도록 한 당시 경찰공무원 징계 규칙에 따라 A경위를 파면했다. 파면 처분을 받으면 퇴직급여·수당이 절반으로 깎인다.&lt;br&gt;&lt;br&gt;법원은 “과중한 징계”라며 불복 소송을 낸 A경위의 손을 들어줬다. 재판부는 “이번에 현행범으로 체포되기까지 한 점을 고려하면 공직에서 배제할 필요가 있다는 점은 수긍할 수 있다”면서도 “11년, 22년 전 발생한 음주운전 전력은 그에 대한 책임이 상당 부분 희석됐고, 공직기강이나 공무원에 대한 국민적 신뢰에 미치는 영향이 상당히 제한적”이라고 판단했다.&lt;br&gt;&lt;br&gt;징계 규칙에 관해서는 “10년 넘는 기간 음주운전을 하지 않다가 다시 한 사례와, 단기간 반복적으로 음주운전을 한 사례는 징계 필요성과 정도가 다를 수밖에 없다”고 했다. &lt;br&gt;&lt;br&gt;재판부는 A경위가 이번 음주운전에서 인적·물적 피해를 일으키지는 않았고, 32년간 경찰로 근무하면서 여러 차례 포상을 받는 등 비교적 성실하게 근무해온 점도 언급했다. 그러면서 “파면 처분은 신분 박탈을 넘어 퇴직급여·수당 감액 등 중대한 불이익이 함께 주어지는 만큼 예외적인 경우에만 이뤄져야 한다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“TV 리모컨 어디?” “모른다”는 아내 폭행한 60대 남편… 최후는?</title>
+      <link>https://www.chosun.com/national/court_law/2025/05/25/DLZE6R2YBVGHDKUJJE3WYNXOFY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/05/25/DLZE6R2YBVGHDKUJJE3WYNXOFY/</guid>
+      <dc:creator>춘천=정성원 기자</dc:creator>
+      <description>흉기로 아내를 협박하고 손찌검까지 한 60대 남편이 법원으로부터 집행유예를 선고받았다.
+춘천지법 형사1단독 송종환 부장판사는 특수상해 혐의로 기소된 A(66)씨에게 징역 6개월에 집행유예 1년을 선고했다고 25일 밝혔다.
+</description>
+      <pubDate>Sun, 25 May 2025 02:48:40 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6EVX3YWXEPVB2NLJOS6SMXSP7Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;춘천지법./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;흉기로 아내를 협박하고 손찌검까지 한 60대 남편이 법원에서 집행유예를 선고받았다.&lt;br&gt;&lt;br&gt;춘천지법 형사1단독(부장판사 송종환)은 특수상해 혐의로 기소된 A(66)씨에게 징역 6개월에 집행유예 1년을 선고했다고 25일 밝혔다. 재판부는 “피해자가 피고인에 대한 처벌을 원하지 않는 점, 상해 정도가 심하지 않은 점 등을 양형에 참작했다”고 말했다.&lt;br&gt;&lt;br&gt;A씨는 작년 10월 7일 강원 홍천군 자택에서 아내 B(60)씨를 흉기로 협박한 혐의를 받고 있다. 이 과정에서 A씨는 B씨의 얼굴을 흉기로 눌러 상처를 입히기도 했다.&lt;br&gt;&lt;br&gt;조사 결과 A씨는 TV 리모컨이 어디 있느냐는 질문에 B씨가 “모른다”고 답하자 이 같은 범행을 저지른 것으로 조사됐다.&lt;br&gt;&lt;br&gt;재판 과정에서 두 사람은 합의했으나, 특수상해죄는 폭행, 존속폭행 등과 같이 피해자가 원하지 않으면 처벌할 수 없는 반의사불벌죄에 해당하지 않아 결국 A씨는 처벌을 받게 됐다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>대법 “주민자치회 위원도 선거운동 금지 대상”</title>
+      <link>https://www.chosun.com/national/court_law/2025/05/25/3CKRZBHNORFIBEJVN2QR6TZVSA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/05/25/3CKRZBHNORFIBEJVN2QR6TZVSA/</guid>
+      <dc:creator>김희래 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 25 May 2025 02:21:53 +0000</pubDate>
+      <content:encoded>주민자치센터 운영을 위해 설치된 위원회라면 명칭이 ‘주민자치위원회’가 아니더라도 소속 위원에게 공직선거법상 선거운동금지 조항을 적용하는 것이 맞는다는 대법원 판단이 나왔다. &lt;br&gt;&lt;br&gt;25일 법조계에 따르면, 대법원 2부(주심 오경미 대법관)는 공직선거법 위반 혐의로 기소된 A씨에게 벌금 200만원을 선고한 원심을 지난 1일 확정했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/D6AWOGPPA6CNVAEFM4PJACX2AM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대법원 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;A씨는 지난해 대전의 한 동 주민자치회 위원으로 활동하면서 당시 국회의원 선거 국민의힘 경선에 출마한 예비후보를 위해 선거운동을 한 혐의로 재판에 넘겨졌다. 공직선거법은 ‘주민자치위원회’ 위원은 선거운동을 할 수 없다고 규정하고 있다.&lt;br&gt;&lt;br&gt;A씨는 자신이 ‘주민자치회’ 소속으로 명칭이 ‘주민자치위원회’와 다르기 때문에 선거운동 금지 대상이 아니라고 주장했다. 그러나 1·2심은 이를 받아들이지 않고 유죄를 선고했다.&lt;br&gt;&lt;br&gt;1심 재판부는 “이 법령은 주민들을 위한 각종 문화·복지·편익시설과 프로그램을 운영하는 위원들이 지위와 권한을 남용해 선거에 영향력을 행사하는 행위를 금지하기 위한 것”이라며 같은 형태의 조직이라면 명칭을 불문하고 적용해야 한다고 밝혔다. 2심 재판부도 “주민자치위원회는 고유명사가 아니라 일반명사로 사용되는 것으로 보인다”며 공직선거법을 그대로 적용해야 한다고 판단했다. &lt;br&gt;&lt;br&gt;대법원도 “주민자치위원회는 명칭을 불문하고 지방자치법에 따라 설치된 일체 위원회를 의미한다”며 원심 판단을 유지했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>﻿“성병 옮기고 폭행”vs“법적 대응”…뮤지컬배우 전호준 폭로전 일파만파 </title>
       <link>https://www.chosun.com/national/national_general/2025/05/25/TD2QJFLNXVAWTIEHVIQ4ZOZFQI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/05/25/TD2QJFLNXVAWTIEHVIQ4ZOZFQI/</guid>
@@ -844,15 +873,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZK6ULEUPGNDRHHS345PB6X2MCA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;출동한 현장에서 시민이 떨어뜨린 금목걸이를 몰래 챙긴 경찰에게 벌금형이 선고됐다. &lt;br&gt;&lt;br&gt;23일 법조계에 따르면 청주지법 약식14단독은 절도 혐의로 약식기소 된 청주 모 지구대 소속 A 경감에게 벌금 500만원의 약식명령을 내렸다. A 경감이 이 결정에 불복하면 일정 기간 내 정식 재판을 청구할 수 있다.&lt;br&gt;&lt;br&gt;A 경감은 지난 3월 초 새벽 충북 청주시 한 거리에서 B씨가 떨어뜨린 10돈 금목걸이를 몰래 챙긴 혐의를 받는다.&lt;br&gt;&lt;br&gt;당시 A 경감은 취객과 B씨가 몸싸움 중이라는 112 신고를 접수하고 현장에 출동한 상황이었다. 그는 B씨가 차고 있던 금목걸이가 몸싸움 중 바닥에 떨어지자 주변에 있던 외투로 이를 가려놓은 뒤 주위 시선이 없는 틈을 타 목걸이를 주머니에 넣은 것으로 조사됐다.&lt;br&gt;&lt;br&gt;이후 경찰은 금목걸이가 사라졌다는 B씨 신고를 받고 인근 CCTV 영상을 분석해 A 경감의 범행을 확인했다. &lt;br&gt;&lt;br&gt;A 경감은 사건 직후 직위해제됐다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[법없이도 사는법]중앙지검장  ‘선제적 사표’로 동요하는 검찰 내부  </title>
-      <link>https://www.chosun.com/national/court_law/2025/05/23/2YCXTAS5WNDOHF4XKES44K7D4U/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/05/23/2YCXTAS5WNDOHF4XKES44K7D4U/</guid>
-      <dc:creator>양은경 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 22 May 2025 15:10:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FGNXZDAZ6JCEJEBA2QW5HUJQMI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울중앙지검 청사./조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이창수 서울중앙지검장과 조상원 중앙지검 4차장검사가 22일 동반 사표를 냈습니다. 이들의 동반사표를 두고 검찰 내부에서는 “정권이 바뀌면 이재명 더불어민주당 후보를 수사했던 검사들이 대한 특검·감찰에 시달릴 것을 예상했기 때문”이라는 반응이 나옵니다. &lt;br&gt;&lt;br&gt;두 사람 모두 민주당 등 야당으로부터 탄핵소추됐다가 헌재로부터 만장일치 기각 결정을 받았습니다. 민주당 등은 이들이 김건희 여사의 ‘도이치모터스’ 사건을 무혐의 처분했다며 두 사람과 최재훈 부장검사를 탄핵소추했습니다. &lt;br&gt;&lt;br&gt;하지만 7일 국회 법사위를 통과한 ‘검사징계법’에 따르면 이처럼 탄핵소추가 기각된 검사들 또한 징계절차로 넘길 수 있습니다. 이 법은 징계청구권자에 법무부장관을 추가하고 있습니다. 현행법상 검사 징계는 검찰총장이 청구하고 법무부 산하 검사징계위원회가 심의하도록 돼 있는데 법무부장관도 징계를 청구할 수 있도록 한 것입니다. &lt;br&gt;&lt;br&gt;준(準)사법기관으로 어느 정도의 독립성이 보장되는 검찰과 달리 법무부장관은 행정부의 일원입니다. 따라서 민주당이 정권을 잡고 이 법안이 통과되면 이재명 후보나 민주당 관련 사건을 수사했던 검사들에 대해 직접적인 압박 수단이 될 수 있습니다. &lt;br&gt;&lt;br&gt;게다가 아직 탄핵소추가 이뤄지지 않았거나 이미 기각결정을 받은 사람들까지도 징계에 넘기는 것도 가능합니다. 현재까지 ‘쌍방울 대북송금’사건을 수사했던 이정섭 대구고검 검사, ‘도이치’사건을 수사했던 최재훈 부장검사는 탄핵소추 기각 결정을 받았고, 대장동·대북송금·위증교사 사건 등을 수사한 강백신 수원지검 성남지청 차장검사, 김영철 서울북부지검 차장검사, 엄희준 부천지청장, 박상용 수원지검 부부장검사에 대한 탄핵안이 발의돼 있습니다. &lt;br&gt;&lt;br&gt;민주당이 도입을 추진하는 ‘법왜곡죄’는 형사처벌을 통한 압박수단이 될 수 있습니다. 지난해 민주당 이건태 의원이 대표발의한 형법 개정안은 검사가 범죄혐의를 발견하고도 수사·기소하지 않거나 증거를 은닉·조작하거나 증거해석·법률적용을 왜곡한 경우 10년이하 징역 또는 자격정지에 처하도록 하고 있습니다. &lt;br&gt;&lt;br&gt;구성요건이 명확하지 않기 때문에 이재명 후보나 민주당을 수사한 검사, 혹은 김건희 여사 사건을 불기소한 검사를 포섭시켜 처벌할 수 있는 조항입니다. 대검 또한 ‘명확성원칙에 위배돼 죄형법정주의에 반하고 사건관계인의 남용으로 사법제도에 대한 불신과 비효율을 초래할 우려가 있다’며 반대의견을 냈습니다. &lt;br&gt;&lt;br&gt;이처럼 민주당이 입법을 추진하는 법안들은 정치공세성 탄핵을 넘어선 검사들도 끝까지 압박할 수 있는 내용입니다. 만일 이들 법안을 이유로 감찰이 개시될 경우에는 사표수리가 금지되고, 징계로 해임된 경우 3년간 변호사 등록이 금지됩니다. ‘도이치모터스 무혐의’를 비롯해 대장동 등 이 후보 사건 수사를 지휘한 서울중앙지검 수장의 사표는 이런 점들을 고려한 선제적 사표 성격이 강합니다. &lt;br&gt;&lt;br&gt;검찰 내부에서도 ‘탄핵소추로 몸과 마음이 피폐해졌다’ ‘사명감만으로 버티기 어려웠을 것’ 이라는 동정론도 일부 있습니다. 그러나 전국 최대 검찰청의 수장, 특수수사를 총괄하는 간부의 사표로 검찰 조직은 동요하고 있습니다. &lt;br&gt;&lt;br&gt;한 검사는 “매번 이재명 후보를 면전에 두고 재판하던 검사들은 어쩌라는 거냐”고 한탄합니다. 방패막이 역할을 해줄 선배들이 없어져 버리면 그동안 이 후보 사건을 수사하고 법정에서 공소유지를 맡아 온 평검사·부장검사들이 그 공격을 그대로 받을 수밖에 없기 때문입니다. ‘내부에서부터 검찰 조작이 무너져 간다’는 걱정이 엄살로 들리지 않는 요즘입니다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[단독] 계속 바뀌는 ‘건진법사’ 진술… 檢 ‘그림자’ 비서, 건진, 통일교 간부 잇따라 불러 대질 심문</title>
       <link>https://www.chosun.com/national/national_general/2025/05/23/2OYXM5XZ45C2LE2KYRRQSEVDYM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/05/23/2OYXM5XZ45C2LE2KYRRQSEVDYM/</guid>
@@ -935,15 +955,6 @@
       <content:encoded>윤석열 전 대통령의 아내 김건희 여사의 ‘도이치모터스 주가 조작’ 의혹을 재수사하는 검찰이 최근 주가 조작 공범인 이모씨를 불러 조사한 것으로 22일 확인됐다. 재수사팀이 꾸려진 이후 관련자에 대한 첫 소환 조사다. 검찰 안팎에선 “김 여사에 대한 수사가 본격화 된 것”이라는 평가가 나왔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IVGXJENICQ3GSN26ENOCWROCVA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령의 아내 김건희 여사가 지난 4월 11일, 서울 용산구 한남동 대통령 관저를 떠나고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이씨는 코스닥 상장사의 부사장으로 있으면서, 부인과 회사 직원들 계좌 등을 동원해 주가조작에 가담한 혐의로 재판에 넘겨졌다. 2010년 8월 이씨는 2차 주가 조작의 주포 김모씨로부터 “도이치모터스가 숨은 진주다, 대규모 해외 사모펀드를 통해 엄청난 자금도 들어온다”며 “내가 도이치모터스 주식을 관리하고 있으니 걱정하지 말라”는 주식매수 제안을 받고 주가 조작에 가담한 것으로 조사됐다. 지난달 대법원에서 징역 10개월에 집행유예 2년이 확정됐다.&lt;br&gt;&lt;br&gt;검찰은 이씨를 상대로 주가조작 사건과 관련해 김 여사의 존재를 알고 있었는지, 김 여사의 계좌가 이용된 상황을 알고 있었는지 등을 조사한 것으로 알려졌다. 검찰은 김 여사 혐의를 확인하기 위해 주범인 권오수 전 도이치모터스 회장 등 관련자들을 소환 조사할 방침이다. 검찰은 이 밖에도 최근 ‘건진 법사 청탁’ 의혹을 수사 중인 서울남부지검이 압수한 김 여사의 휴대전화 관련 자료도 확보한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;한편 서울고검이 서울중앙지검으로부터 넘겨 받은 수사 기록에는 문재인 정부 시절 초기 수사팀이 ‘김 여사의 혐의가 불분명하다’고 판단한 자료도 포함된 것으로 전해졌다. 김 여사를 불기소 처분한 중앙지검 수사팀은 항고가 접수된 뒤인 지난해 11월 관련 수사 기록을 모두 서울고검으로 보냈다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>공정위 제재 뒤집은 법원... 카카오T 과징금 271억 취소</title>
-      <link>https://www.chosun.com/national/court_law/2025/05/22/6CSZGVRIJRHNNP5QWNGRUMWGQM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/05/22/6CSZGVRIJRHNNP5QWNGRUMWGQM/</guid>
-      <dc:creator>김나영 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 22 May 2025 12:24:32 +0000</pubDate>
-      <content:encoded>공정거래위원회가 이른바 ‘콜 몰아주기’ 의혹을 받은 카카오모빌리티에 부과한 과징금 271억원을 취소하라는 법원 판단이 나왔다.&lt;br&gt;&lt;br&gt;22일 서울고등법원 행정7부(재판장 구회근)는 카카오모빌리티가 공정위를 상대로 낸 시정명령 등 취소 청구 소송에서 “공정위가 카카오모빌리티에 부과한 과징금과 시정명령을 모두 취소한다”고 판결했다. 소송 비용도 공정위가 부담하도록 했다.&lt;br&gt;&lt;br&gt;카카오모빌리티는 자사 가맹 택시인 카카오T블루에만 배차를 몰아주도록 알고리즘을 조작했다는 일명 ‘콜 몰아주기’ 의혹을 받았다. 2019년 출시된 카카오T블루는 법인 택시 회사와 개인 택시 기사를 가맹 사업자로 모집해 소정의 가맹비를 받고 카카오택시 앱을 통한 승객 호출·배차 등의 서비스를 제공해왔다.&lt;br&gt;&lt;br&gt;공정위는 이런 행위가 가맹사업법 위반 등에 해당한다며 2023년 2월 카카오모빌리티 측에 과징금 271억원을 부과하고 시정명령을 내렸다. 이에 카카오모빌리티 측은 “택시 기사들의 배차 수락률을 기반으로 알고리즘을 짠 것”이라며 법원에 소송을 냈다. &lt;br&gt;&lt;br&gt;공정위는 준사법기관이어서 공정거래법 위반 기업들에 과징금 부과 등 제재를 가할 수 있게 돼 있고, 처분에 불복할 경우 곧바로 서울고등법원에 항소하도록 돼 있다. 공정위 결정이 사실상 1심 역할을 하는 것이다.&lt;br&gt;&lt;br&gt;판결 직후 카카오모빌리티 측은 “배차 수락률은 택시 승차난 해소를 위해 가맹 택시 도입 이전부터 카카오T 배차 로직에 활용했다”며 “이번 판결로, 우리 회사가 승객과 기사 모두의 편익을 확대하는 방향으로 노력해온 점, 가맹 기사와 비가맹 기사를 차별하지 않았다는 점 등이 확인된 것”이라고 했다.&lt;br&gt;&lt;br&gt;한편 공정위는 작년 9월 카카오모빌리티가 경쟁사의 가맹 택시에 일반 호출을 차단한 ‘콜 차단’ 의혹에 대해서도 과징금 151억원을 부과했다. 이에 대해서도 카카오모빌리티 측은 불복해 취소 소송을 제기한 상태다.&lt;br&gt;&lt;br&gt;검찰은 카카오모빌리티를 둘러싼 여러 의혹을 수사 중이다. 지난 3월 ‘매출 부풀리기’ 의혹과 관련해 성남시 판교 소재 카카오 본사와 자회사 카카오모빌리티의 사무실 등을 압수 수색했다. 카카오모빌리티가 회계 처리 과정에서 영업 수익과 영업 비용을 과대 계상했다는 의혹인데, 이와 관련해 금융위원회 증권선물위원회는 작년 11월 카카오모빌리티 측에 과징금 약 35억원을 부과했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>“여자 목소리 80데시벨 넘어선 안 돼”… 남고생들이 든 손팻말 논란</title>
       <link>https://www.chosun.com/national/national_general/2025/05/22/ITTC4WCPSFH6LJYAFIHV6CGOJI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/05/22/ITTC4WCPSFH6LJYAFIHV6CGOJI/</guid>
@@ -978,15 +989,6 @@
       <description/>
       <pubDate>Thu, 22 May 2025 02:52:21 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RPF3JJSBG5DLLCQ3IFYCB2BSEA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;손흥민과 배우 박서준(빨간 원). /손흥민 인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;잉글랜드 프로축구 프리미어리그(EPL) 토트넘 홋스퍼의 손흥민(32)이 생애 처음으로 우승컵을 들어 올린 가운데 배우 박서준이 우승 기념사진에 등장해 화제가 되고 있다. &lt;br&gt;&lt;br&gt;토트넘은 22일 스페인 빌바오 산 마메스 스타디움에서 열린 2024-2025시즌 유로파리그 결승전에서 맨체스터 유나이티드(잉글랜드)를 1대0으로 꺾고 우승했다. 2010년 함부르크(독일)에서 데뷔한 손흥민이 프로 무대에서 우승한 것은 이번이 처음이다.&lt;br&gt;&lt;br&gt;손흥민은 이날 자신의 공식 소셜미디어에 팀 동료, 지인들과 함께 우승을 기뻐하는 사진을 여러 장 게재했다. 특히 지인들과 함께 찍은 사진에선 배우 박서준이 등장해 눈길을 끌었다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CE37RJ5ZMLBLKG4ORNAC65TZJE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;손흥민이 트로피를 들어올리며 기뻐하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;공개된 사진을 보면 박서준은 트로피를 들고 있는 손흥민의 바로 옆에서 환하게 웃었다. 사진 촬영이 끝난 뒤에는 손흥민과 부둥켜안고 우승을 기뻐했다.&lt;br&gt;&lt;br&gt;박서준은 유명한 손흥민의 팬이다. 손흥민이 먼저 연락을 해와 친분을 쌓게 된 두 사람은 각종 인터뷰 등에서 서로를 언급했다. 박서준은 과거 여러 차례 손흥민의 경기를 직관하는 모습이 포착되기도 했다. 이날도 박서준이 손흥민의 경기를 보러 갔다가 함께 기념 촬영을 하게 된 것으로 추정된다. &lt;br&gt;&lt;br&gt;경기 후 손흥민은 현지 언론과의 인터뷰를 통해 “날 레전드라고 부르겠다. 안 될 게 뭐가 있겠나”라며 첫 우승에 대한 기쁨을 감추지 못했다. 손흥민은 과거에는 여러 언론 인터뷰에서 아직 자신을 레전드라 부를 수 없다고 말한 바 있다.&lt;br&gt;&lt;br&gt;손흥민은 “17년간 아무도 하지 못했던 걸 놀라운 선수들과 해냈다. 토트넘에는 훌륭한 선수가 많지만 저는 아마 토트넘의 레전드가 될 것”이라며 “항상 꿈꿔왔던 순간이 오늘 이뤄졌다. 저는 세상에서 가장 행복한 사람이다”라고 했다.&lt;br&gt;&lt;br&gt;토트넘은 2007-2008 리그컵에서 정상에 오른 이후 17년 만에 우승의 영광을 안았다.&lt;br&gt;&lt;br&gt;손흥민은 “오늘은 모두가 원하는 대로 마음껏 축하하는 날이다. 절대 잊을 수 없는 날로 만들고 싶다”며 “내일 비행기를 놓칠지도 모른다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>바비킴 공연 관객 달랑 4명…“불쾌하다” 비판 쏟아진 이유 </title>
-      <link>https://www.chosun.com/national/national_general/2025/05/22/4N4LUSKBYJFUVKVHFCQ6VIKMGM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/05/22/4N4LUSKBYJFUVKVHFCQ6VIKMGM/</guid>
-      <dc:creator>김자아 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 22 May 2025 02:38:08 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NUVIEUEKDZG6TNYUEAUUF2ISYE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;가수 바비킴./인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;가수 바비킴(52)이 대학교에서 게릴라 콘서트를 개최했다가 취소하는 일이 벌어졌다. 최소 관객 모객에 실패한 것인데, 이를 기획한 제작진을 향한 비판이 쏟아지고 있다.&lt;br&gt;&lt;br&gt;유튜브 채널 ‘스튜디오헤이’에는 지난 15일 ‘제작진도 편집하다 울어버린 무대’라는 제목의 영상이 게재됐다. 영상에는 바비킴이 서울 성북구 고려대학교에서 게릴라 콘서트 관객을 모집하는 모습이 담겼다.&lt;br&gt;&lt;br&gt;제작진은 바비킴에게 “형(바비킴)의 마음의 고향이 성북구이지 않나. 성북구 인심 체크랑 요새 MZ 친구들한테 형의 영향력이 얼마나 있는지 보려고 한다”며 캠퍼스 내 게릴라 콘서트를 제안했다.&lt;br&gt;&lt;br&gt;이에 바비킴은 2시간 동안 캠퍼스를 돌아다니며 구두 홍보에 나서기로 했다. 목표 관객은 100명으로, 관객 수가 채워지지 않으면 공연은 자동 취소된다. &lt;br&gt;&lt;br&gt;바비킴은 수업이 진행되는 강의실을 들어가거나 콘서트 관련 문구가 적힌 팻말을 목에 걸고 학교를 누비며 적극 홍보했다. 몇몇 학생은 그를 알아보며 “꼭 가겠다”고 반겼다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UK5XK2OPE2HGXFC2YUJNQPV4PU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;바비킴./유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;모든 준비를 바친 바비킴은 오후 8시, 약속된 공연 시각에 안대를 벗고 관객 수를 확인했다. 관객은 단 4명뿐이었다. &lt;br&gt;&lt;br&gt;바비킴은 “다 안 채워질 거라고 생각을 했다”면서도 “그래도 한 14명은 올 줄 알았다”고 했다. 이어 “오늘 공연은 없었던 것으로 하겠다”며 “열심히 노래하고 활동하겠다”고 했다.&lt;br&gt;&lt;br&gt;게릴라 콘서트에 찾아온 관객은 “솔직히 진짜 우리밖에 없을 거라고는 생각 못 했다. 저도 15명 정도 있겠다고 생각했다”고 말했다.&lt;br&gt;&lt;br&gt;바비킴은 일부 학생들과 의자를 치우며 공연장을 정리했다. 이때 학생들은 “학교 내 규모가 큰 행사가 있었다” “방송제 일정으로 고정된 스케줄이다. 거기 가느라 참석을 못 한 것 같다”며 모객이 저조했던 이유를 설명했다.&lt;br&gt;&lt;br&gt;이후 온라인상에서는 제작진을 향한 거센 항의가 잇따랐다. 네티즌들은 “학교 가서 촬영 허가 다 받으면서 교내 축제 일정을 모르고 콘텐츠를 진행하는 게 말이 되냐” “영상 결말이나 내용이 너무 불쾌하다” “팬들 우롱하는 방송이다” “출연자한테 최소한의 예의도 없다” 등의 반응을 쏟아냈다.&lt;br&gt;&lt;br&gt;이에 바비킴은 영상 댓글을 통해 “마음 다친 팬들이 많았구나. 이렇게 걱정해주는 팬들이 있다니 왠지 감동이다”라며 “저는 완전 괜찮다. 처음부터 성공하면 재미 없지 않나. 초심부터 시작하는 마음, 열심히 해서 성공할 테니 두고 봐라. 1000명, 1만명 모아서 공연할 거다”라고 약속했다.&lt;br&gt;&lt;br&gt;그러면서 “우리 열심히 재밌게 하고 있으니까 절대 오해하지 말아줬으면 좋겠다. 저처럼 즐기면서 하는 것처럼 여러분도 그냥 즐기면서 재밌게 보셨으면 한다”고 당부했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
