@@ -13,6 +13,42 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>제주 찾은 외국인관광객... 여름밤 ‘이곳’에 몰린다</title>
+      <link>https://www.chosun.com/national/regional/2025/05/27/R6JBE2BD7FAOPLS3JPDGJZ4IVE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/05/27/R6JBE2BD7FAOPLS3JPDGJZ4IVE/</guid>
+      <dc:creator>제주=오재용 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 27 May 2025 05:08:12 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7L6O73ZOFJ6E7NHTRSCQNULHP4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;롯데관광개발이 운영하는 제주 드림타워 카지노. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제주에 여행을 온 외국인 관광객이 여름밤에 주로 가는 곳은 카지노인 것으로 나타났다.&lt;br&gt;&lt;br&gt;제주관광공사는 ’2024년 여름철 카드 소비 및 내비게이션 데이터 기반 제주 야간 관광 패턴 분석 보고서’를 27일 발표했다.&lt;br&gt;&lt;br&gt;이번 보고서는 지난해 7∼8월 제주를 찾은 내국인 관광객의 야간(오후 6시∼다음 날 오전 6시) 관광 패턴을 신한카드 소비 데이터와 내국인 관광객 T맵 내비게이션 데이터를 통해 분석한 내용을 담았다.&lt;br&gt;&lt;br&gt;보고서에 따르면 지난해 7∼8월 제주를 찾은 관광객의 전체 소비 금액은 6648억원으로 이 중 야간 소비 금액은 2517억원(37.9%)으로 나타났다.&lt;br&gt;&lt;br&gt;내국인은 전체 소비 금액 중 35.2%(1900억원)를, 외국인은 44.2%(617억원)를 야간 소비에 사용했다.&lt;br&gt;&lt;br&gt;특히 내외국인 관광객 평균 건당 소비 금액은 15만8000원으로, 주간보다 야간에 건당 소비 금액이 더 많은 것으로 파악됐다.&lt;br&gt;&lt;br&gt;야간 시간대 주요 소비 업종을 살펴보면 내국인은 음식점업 소비가 가장 많았으나, 외국인은 카지노 숙박업 소비에 집중돼 있었다.&lt;br&gt;&lt;br&gt;아울러 내비게이션 데이터를 통한 내국인 관광객의 야간 이동 패턴 분석 결과, 관광객 대부분이 해변과 같은 자유롭게 방문할 수 있는 장소를 선호하는 것으로 나타났으며 새벽 시간에는 공항이나 항구, 한라산, 성산일출봉, 골프장 등으로 이동하는 경향을 보였다.&lt;br&gt;&lt;br&gt;제주관광공사 연구조사팀은 “외국인 관광객의 소비를 활성화할 수 있는 야간 관광산업 생태계 조성이 필요하다”며 “내국인 관광객을 타깃으로 한다면 영업시간을 확장해 소비 시간대를 더 늘려야 한다”고 제언했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“법치 파괴자 이재명, 대통령 될 수 없다” 법조인 1004인 시국 선언</title>
+      <link>https://www.chosun.com/national/court_law/2025/05/27/M5Y6CWUJAZGZ3OO6I2QOJO53WU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/05/27/M5Y6CWUJAZGZ3OO6I2QOJO53WU/</guid>
+      <dc:creator>박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 27 May 2025 04:20:55 +0000</pubDate>
+      <content:encoded>전·현직 교수와 법조인 1004명이 27일 “헌법과 법치의 파괴자인 이재명 더불어민주당 대선 후보는 대통령이 될 수 없다”는 취지의 시국선언을 발표했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YY5QTZWMUFDNPJFXOEZOPOKNKI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법치파괴 규탄 법조인 및 전국 교수 시국선언 및 기자회견이 진행된 27일 서울 서초구 대법원 정문 앞에서 전·현직 교수와 법조인들이 '헌법과 법치의 파괴자는 대통령의 될 수 없다'는 제목의 시국선언을 발표하고 있다. /장경식 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이들은 이날 오전 서울 서초구 대법원 정문 앞에서 기자회견을 열고 시국선언문을 낭독했다. 선언에는 정기승·박만호·천경송·김형선·변재승 등 전직 대법관 11명을 비롯해 권성·김효종 전 헌법재판관, 김경한 전 법무부 장관, 한상대 전 검찰총장, 역대 대한변협 회장단과 전국 법학 교수들까지 총 1004명이 참여했다.&lt;br&gt;&lt;br&gt;이번 선언은 지난 1일 대법원이 이 후보의 공직선거법 위반 사건을 유죄 취지로 파기환송한 이후, 민주당을 중심으로 사법부에 대한 공격이 이어지고 있는 것을 규탄하고자 열렸다.&lt;br&gt;&lt;br&gt;이들은 민주당이 대법관 수를 100명까지 늘리는 법원조직법 개정안과, 대법원 판결에 헌법소원을 허용하는 헌재법 개정안을 발의한 것에 대해 “‘민주당 편 판사’를 대거 임명해 대법원을 장악하고, 사실상 ‘4심제’를 도입해 자기들에게 유리한 판결만 하도록 사법제도 자체를 개조하겠다는 것”이라고 비판했다.&lt;br&gt;&lt;br&gt;또 민주당이 조희대 대법원장과 대법관에 대한 탄핵을 추진하고, 청문회를 강행, 특검 법안 등을 밀어붙이는 것에 대해선 “법 앞의 평등 원칙을 철저히 유린하는, 오직 이 후보만을 위한 노골적인 ‘위인설법’”이라고 지적했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ACIAH4BXSZADPKEJCMMDF6TRFA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법치파괴 규탄 법조인 및 전국 교수 시국선언 및 기자회견이 진행된 27일 서울 서초구 대법원 정문 앞에서 전·현직 교수와 법조인들이 '헌법과 법치의 파괴자는 대통령의 될 수 없다'는 제목의 시국선언을 발표하고 있다. /장경식 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이재원 한반도 인권과 통일을 위한 변호사모임(한변) 회장은 이날 기자회견에서 “민주당은 국회 권력을 장악했고, 마지막 보루인 사법부마저 짓밟고 있다”며 “개인의 권세를 위해 법치주의를 지푸라기보다도 가볍게 짓밟으려는 세력의 집권에 단호히 반대한다”고 밝혔다.&lt;br&gt;&lt;br&gt;문효남 헌법을 생각하는 변호사 모임 회장은 “법치와 사법권 독립이라는 헌법의 핵심 가치가 백척간두에 놓여 있다. 국민들이 자유와 정의, 사법부 독립의 가치를 깊이 인식하고 올바른 판단을 해주시기를 바란다”고 강조했다.&lt;br&gt;&lt;br&gt;김태훈 한변 명예회장은 “대선을 앞두고 사법부 독립이 바람 앞 촛불처럼 위태로운 상황에, 전국 법조인들이 전례 없는 규모로 모였다”며 “좌우를 막론하고 모든 법조인과 국민이 민주당의 사법부 독립 침해 시도에 맞서 법치주의를 지켜주기를 간곡히 부탁한다”고 했다. &lt;br&gt;&lt;br&gt;부장판사 출신인 이충상 변호사는 “법관들이 민주당이 발의한 ‘법 왜곡죄’로 처벌받을 수 있다는 두려움을 느낄 수 있다는 것만으로도 사법권 독립이 흔들리는 것”이라며 “1988년 법관 시국선언 때보다 현재의 대한민국 사법 독립이 더 후퇴한 모습”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“봉사하며 살래” 40대 사회복지사, 장기기증으로 5명 살리고 떠나 </title>
+      <link>https://www.chosun.com/national/national_general/2025/05/27/OGTIFFDF5RDKRJ2QGZHNT5Q5EM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/05/27/OGTIFFDF5RDKRJ2QGZHNT5Q5EM/</guid>
+      <dc:creator>최혜승 기자 </dc:creator>
+      <description/>
+      <pubDate>Tue, 27 May 2025 04:27:53 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HER44MBNZ5WGLY45GZSYIJYWGU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;사회복지사 이지혜(43)씨가 장기 기증으로 타인의 생명을 살리고 세상을 떠났다. /한국장기조직기증원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;봉사하는 삶을 살던 40대 사회복지사가 뇌사 장기 기증과 인체 조직 기증으로 100명이 넘는 환자에게 새 삶을 선물하고 세상을 떠났다. &lt;br&gt;&lt;br&gt;한국장기조직기증원은 지난 3월 22일 이지혜(43)씨가 인하대병원에서 뇌사 장기 기증으로 5명에게 심장, 폐, 간, 신장 양측을 기증했다고 27일 밝혔다. 이씨는 인체 조직 기증으로 환자 100여 명의 기능적 장애 회복도 도왔다. &lt;br&gt;&lt;br&gt;이씨는 지난 3월 18일 집에서 쓰러져 병원으로 이송됐으나 끝내 의식을 회복하지 못하고 뇌사 상태가 됐다. 이씨의 가족은 평소 어려운 사람 돕기를 좋아했던 이씨가 삶의 마지막 순간에 가치 있는 일을 하고 떠나길 바라는 마음에 기증을 결심했다.&lt;br&gt;&lt;br&gt;이씨는 인천에서 세 자매 중 장녀로 태어났다. 밝고 활동적이며 어려운 사람을 보면 먼저 다가가 도움을 주는 마음이 따뜻한 사람이었다. 스물세 살일 때 아버지가 뇌출혈로 숨지며 경제적으로 많은 어려움을 겪었다. &lt;br&gt;&lt;br&gt;그는 힘든 시기에도 장애인과 어린아이를 돕는 봉사 동아리 활동을 하며 주변 사람들을 도왔다. 이후 타인을 도우며 살고 싶다는 마음에 사회복지사 자격증을 따고 요양원을 설립했다.&lt;br&gt;&lt;br&gt;고인의 딸 이예향 양은 “내 엄마로 함께해 줘서 너무 고맙다”며 “비록 짧은 시간이었지만 좋았던 시간 추억하며 잘 살아갈 테니 천국에서 행복하게 잘 지내라”고 인사를 전했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“집안일 안 하면 맞아야지”...둔기로 동거녀 때린 30대 실형 </title>
+      <link>https://www.chosun.com/national/2025/05/27/722GECDSCNAX3OVJQIOOWKJ7VI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2025/05/27/722GECDSCNAX3OVJQIOOWKJ7VI/</guid>
+      <dc:creator>창원=김준호 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 27 May 2025 03:58:21 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Z6QPEFXGJNRPZ5XSGMLYBBG2IQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;창원지법 전경./조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;집안일을 하지 않는다며 둔기로 동거녀를 때린 30대 남성에게 실형이 선고됐다.&lt;br&gt;&lt;br&gt;창원지법 형사4단독 김송 판사는 특수상해 등의 혐의로 기소된 A(34)씨에게 징역 10개월을 선고했다고 27일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 2023년 10월 22일 오후 8시쯤 경남 창원시 진해 주거지에서 길이 50cm의 알루미늄 봉으로 동거하던 30대 여성 B씨의 엉덩이와 허벅지를 20차례 폭행해 다치게 한 혐의로 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;판결문에 따르면 범행 당시 일을 마치고 귀가한 A씨는 B씨가 술만 마시고 집안일을 하지 않는 점을 문제 삼아 말다툼을 벌였다. A씨는 “나는 야근하고 왔는데 집안에 이러고 있으면 기분이 좋겠느냐. 말을 안 들으면 맞아야지”라고 욕설을 하며 둔기로 폭행했다. &lt;br&gt;&lt;br&gt;A씨는 또 지난해 8월 운행 중인 차에서 조수석에 앉아 있던 B씨를 주먹으로 7~8회 폭행한 혐의도 받았다. 퇴근 시간 무렵 B씨를 데리러 간 A씨가 자신을 보지 못한 채 지나쳤다는 이유로 B씨와 말다툼을 한 뒤, B씨에게 “지나가는 사람을 보지 못할 때마다 1대씩 때린다”고 하면서 주먹으로 팔 부위를 때린 것으로 조사됐다.&lt;br&gt;&lt;br&gt;김 판사는 “피고인은 화가 났다는 이유로 동거녀인 피해자를 알루미늄 봉으로 20차례 때리는 등 자신보다 힘이 약한 피해자를 상대로 한 범행의 죄질이 나쁘다”며 “피해자가 극심한 정신적 고통을 호소하며 엄벌을 탄원하고 있는 점 등을 고려했다”고 말했다.&lt;br&gt;&lt;br&gt;다만 김 판사는 A씨에게 증거 인멸이나 도망 염려가 없는 점, 피해 복구 기회를 부여할 필요가 있다며 법정 구속은 하지 않았다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>홍명보, 손흥민 사생활 질문에 “내가 관여할 부분 아냐” </title>
       <link>https://www.chosun.com/national/national_general/2025/05/27/C6A274LLSVCAZD45IAYUTZMLYI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/05/27/C6A274LLSVCAZD45IAYUTZMLYI/</guid>
@@ -685,15 +721,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CHTBN56T36YRIPJXLNKWVDYSTM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산 연제구 거제동 부산지법 등 법원 종합청사 전경./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한국마사회 과장을 사칭하면서 “순금 불상을 구해주겠다”고 속이는 등 수법으로 수억원을 뜯어낸 혐의로 재판에 넘겨진 50대 남성에게 징역형이 선고됐다.&lt;br&gt;&lt;br&gt;부산지법 형사5부(재판장 김현순)는 특정경제범죄가중처벌 등에 관한 법률(사기) 위반 혐의로 기소된 A(50대)씨에게 징역 4년을 선고했다고 26일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 한국마사회 보안과장을 사칭하며 친분을 쌓은 B씨에게 2018년 2월부터 8월까지 “친구가 마사회 앞에서 전당포를 운영하는데 순금 불상을 구해주겠다”고 속여 302차례에 걸쳐 7억6000만원을 뜯어낸 혐의 등을 받고 있다. &lt;br&gt;&lt;br&gt;재판부는 “피고인은 체포될 당시 자신을 다른 사람이라고 주장하다가 수사관들이 지문을 확인하려 하자 자기 이름을 얘기하는 등 수사 기관부터 법정에 이르기까지 납득하기 어려운 변명으로 범행 대부분을 부인하고 있다”며 “엄히 처벌함이 마땅하다”고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>대구시의회, 주민 청구한 ‘박정희기념조례 폐지안’ 발의</title>
-      <link>https://www.chosun.com/national/regional/2025/05/26/B2QMI32U4FGZTFBPS4YS3DCWBU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/05/26/B2QMI32U4FGZTFBPS4YS3DCWBU/</guid>
-      <dc:creator>대구=노인호 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 26 May 2025 04:13:17 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FUUPOJSQJRE3FLI32D52CDNDXA.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;지난해 12월 23일 대구 동구 동대구역 광장에서 열린 '박정희 대통령 동상 제막식' 현장에서 시민들이 동상을 휴대전화로 찍고 있다./김동환 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대구시의회는 대구시민 1만4000여 명이 청구한 ‘대구시 박정희 대통령 기념사업 지원조례 폐지안’을 발의했다고 26일 밝혔다. 해당 안건은 소관 상임위원회인 기획행정위원회 심사를 통과하면 본회의 의결을 거쳐 폐지 여부가 결정된다. &lt;br&gt;&lt;br&gt;앞서 지역 시민 단체 등은 지난 4월 28일 주민 1만4485명이 서명한 박정희기념조례 폐지안을 시의회에 제출했고, 주민 조례 발안법에 따라 대구시의회 의장 명의로 이날 발의한 것이다.&lt;br&gt;&lt;br&gt;대구시의회 관계자는 “관련법에 따라 시의회 의장은 주민 청구를 수리한 날부터 30일 이내에 주민 청구 조례안을 발의해야 하고, 의결은 수리한 날로부터 1년 안에 이뤄져야 한다”며 “의결까지는 많은 절차가 남아 있는 만큼 의원들이 의견을 모아 처리할 것”이라고 밝혔다. &lt;br&gt;&lt;br&gt;다만, 해당 안건이 본회의를 통과해 폐지되기는 쉽지 않을 것으로 보인다. 대구시의회 재적 의원 33명 가운데 32명이 해당 조례에 우호적인 국민의힘 소속이고, 지난해 5월 박 전 대통령 기념사업 추진에 필요한 사항을 규정하기 위한 ‘박정희 기념조례’ 제정 당시 31명이 찬성표를 던졌기 때문이다. 또 지역 내에서 박 전 대통령 기념 사업에 대한 찬반 여론이 갈리고 있는 점도 부담이 될 것으로 보인다. &lt;br&gt;&lt;br&gt;한편 대구시는 작년 5월 조례 제정 이후 ‘박정희대통령기념사업추진위원회’를 꾸렸고, 작년 12월 박 전 대통령 동상을 동대구역 광장에 세웠다. 이에 시민 단체 등은 공감대 형성 과정이 부족한 상태에서 이뤄진 기념 사업에 반대하며 ‘박정희 우상화 사업 반대 범시민운동본부’를 구성했고, 주민 서명을 받아 조례 폐지안을 대구시의회에 제출했다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[속보] 전국법관대표회의 종료…대선 이후 다시 열기로</title>
       <link>https://www.chosun.com/national/court_law/2025/05/26/AIRDFLMHBBEK3AV427YV4IJ3CY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/05/26/AIRDFLMHBBEK3AV427YV4IJ3CY/</guid>
@@ -739,15 +766,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MWVJTWVNBFNPXM3ANM3AOAYF7Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;오세훈 서울시장이 지난 3월 서울시청 집무실 앞에서 검찰의 압수수색 관련 입장을 밝힌 뒤 집무실을 나서고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;오세훈 서울시장이 정치 브로커 명태균씨가 연루된 ‘여론조사 비용 대납’ 의혹으로 검찰 조사를 받았다.&lt;br&gt;&lt;br&gt;이종현 서울시 민생소통특보는 26일 입장문을 내고 “오 시장은 명태균 사건 관련 수사에 협조하기 위해 지난 25일 서울중앙지검에 출석, 조사에 응했다”고 밝혔다.&lt;br&gt;&lt;br&gt;조사는 오전 9시 30분쯤 시작해 12시간동안 진행됐다. 이 특보는 “이번 조사를 계기로 허위와 과장, 왜곡이 바로잡히길 기대한다”고 말했다.&lt;br&gt;&lt;br&gt;검찰은 오 시장 측이 보궐선거 당시 명씨로부터 미공표 여론조사 13건을 제공받고, 그 대가로 3300만원을 후원자로 알려진 사업가 김한정씨에게 대납시켰다고 의심하고 있다. &lt;br&gt;&lt;br&gt;오 시장은 조사 때 직접 혐의를 부인한 것으로 전해졌다. 오 시장 측은 “오 시장은 전날 조사에서 명씨가 나열한 허위, 과장 주장에 대해 사실 여부를 집중적으로 반박했다”며 “미공표 여론조사 13건은 캠프 관계자 그 누구에게도 전달되지 않은 사실을 소상히 설명했다”고 밝혔다.&lt;br&gt;&lt;br&gt;앞서 검찰은 지난 3월 오 시장의 집무실과 공관을 압수 수색했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>물때에 곰팡이까지…1억 넘게 팔린 김치찌개 충격 실태</title>
-      <link>https://www.chosun.com/national/national_general/2025/05/26/AD4FSNJQ3RDM7KLOCAAS6TI3MM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/05/26/AD4FSNJQ3RDM7KLOCAAS6TI3MM/</guid>
-      <dc:creator>정아임 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 26 May 2025 02:42:40 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IQYH5WJO7JHVNKF4GU7RITBSOY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김치찌개 잔여분. 사진./식품의약품안전처&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;식품의약품안전처가 식품제조·가공업 영업 등록을 하지 않고 비위생적인 환경에서 김치찌개 즉석조리식품을 제조해 판매한 업체 대표를 검찰에 송치했다.&lt;br&gt;&lt;br&gt;식약처는 26일 A사가 물때·곰팡이 등으로 오염된 작업장에서 세척·소독하지 않은 조리 시설과 기구·용기를 사용하는 등 비위생적인 환경에서 김치찌개를 제조했다고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OJRSYERT3RHLDFMBEH6IDZTBAQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;무등록 제조 작업장 내부.모습./식품의약품안전처&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;식약처는 음식점에 유통되는 김치찌개 제품을 무등록 작업장에서 제조한다는 정보를 입수하고 수사에 착수해 이 같은 사실을 확인했다. &lt;br&gt;&lt;br&gt;수사 결과 A사 대표는 지난해 3월부터 12월까지 약 10개월간 식품제조·가공업 영업등록을 하지 않은 작업장에서 즉석조리식품인 ‘김치찌개’ 제품을 제조한 후 일반음식점 7개소에 16.1톤 약 1억2000만원 상당을 판매했다.&lt;br&gt;&lt;br&gt;충남 지역에서 식품제조·가공업소를 운영하던 A사 대표는 경영 악화에 따른 단전, 시설 노후화 등으로 해당 작업장에서 제품을 제조하기 어렵게 되자 경기도 모처의 폐업한 식품제조시설에서 제품을 제조한 것으로 드러났다.&lt;br&gt;&lt;br&gt;식약처는 불법 식품 제조·유통을 원천 차단하기 위해 감독과 조사를 지속할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>폭행에 다리 부러지고, 이불 덮어 얼굴 때리고...치매 노인 학대한 요양보호사들</title>
       <link>https://www.chosun.com/national/court_law/2025/05/26/D2RGV7MRDRDYDE4DMZFISJVA2U/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/05/26/D2RGV7MRDRDYDE4DMZFISJVA2U/</guid>
@@ -764,24 +782,6 @@
       <description/>
       <pubDate>Mon, 26 May 2025 01:03:13 +0000</pubDate>
       <content:encoded>이재명 더불어민주당 대선 후보의 공직선거법 위반 사건을 대법원이 파기환송한 것을 계기로 소집된 전국법관대표회의 임시 회의가 26일 오전 10시 사법연수원에서 시작됐다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FBC2DKJW55CFDDTEGHS7MUGTIQ.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;전국법관대표회의가 열린 26일 오전 경기 고양시 사법연수원에서 김예영 의장을 비롯한 참석자들이 국민의례를 하고 있다. / 고운호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 법관 대표 총 126명 중 88명이 출석하면서 회의가 열렸다. 규정에 따르면 회의는 전체 대표 중 과반수인 64명 이상이 출석해야 개의할 수 있다. 현장에는 약 15명이 출석했고, 나머지는 온라인으로 출석한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;회의 안건은 두 가지다. 하나는 이 후보의 공직선거법 사건에 대한 대법원 판결과 관련해 민주당이 사법부를 공격하는 것은 재판 독립을 침해할 수 있다는 것이고, 다른 하나는 사법부가 재판의 공정성과 민주적 책임성을 지켜야 한다는 것이다. 민주당이 조희대 대법원장·대법관 사퇴를 요구하며 청문회를 추진한 것 등을 ‘사법부 독립 침해’로 규정할지 주목된다.&lt;br&gt;&lt;br&gt;법관대표회의가 안건을 ‘공식 입장’으로 의결해 발표하려면 출석자 과반수 이상의 찬성이 필요하다. 즉, 이날 회의에 출석한 88명 중 44명 이상이 동의해야 의결이 가능하다. &lt;br&gt;&lt;br&gt;사전에 정해진 안건 외에도, 현장에서 제안자 외 9명 이상의 동의를 얻으면 추가로 안건이 상정될 수 있다. 법관대표회의 관계자는 “현장에서 3~4건 정도의 안건이 발의될 것으로 보이지만, 실제 상정될 수 있을지는 알 수 없다”며 “안건에 대한 표결은 건건이 진행하는 것이 기본이지만, 안건 내용이 중복될 경우 조율이 필요하다”고 설명했다.&lt;br&gt;&lt;br&gt;회의는 오전 10시부터 낮 12시까지 예정돼 있으나 상황에 따라 연장될 수 있다. 법관대표회의 관계자는 “정시에 끝날지 여부는 회의 진행 상황에 따라 달라질 것”이라고 했다. 다만 이번 회의는 정기회의가 아닌 임시회의인 만큼, 당일 의결 없이 속행되거나 분과위원회로 안건이 이관될 가능성도 있다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>직장 동료 결혼 축의금 얼마가 적당한지 물어봤더니...그 결과는</title>
-      <link>https://www.chosun.com/national/national_general/2025/05/26/QZHXHKS7EFBCHDVMEML2QIG3JU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/05/26/QZHXHKS7EFBCHDVMEML2QIG3JU/</guid>
-      <dc:creator>정아임 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 26 May 2025 01:46:36 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UX3V4D4X225S2QNPPAFGIQFCSE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서대문구 아현동 웨딩타운./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;직장인들이 생각하는 직장 동료 결혼식의 적정 축의금은 10만원인 것으로 나타났다.&lt;br&gt;&lt;br&gt;인크루트는 26일 직장인 844명을 대상으로 올해 기준 직장 동료 결혼식에 내야 할 적정한 축의금 액수를 묻는 설문조사 결과를 발표했다.&lt;br&gt;&lt;br&gt;1인 기준으로 결혼식에 참석해 식사할 경우 10만원이 적정하다는 응답이 61.8%로 가장 많았다. 이어 5만원 32.8%, 5만원 미만 3.2%, 15만원 1.4% 순이었다. 응답자들은 ‘사적으로 친한 직장 동료(59.7%)’ ‘협업·일로 엮인 동료(60.1%)’ 등 모두 10만원이 적정하다고 봤다. &lt;br&gt;&lt;br&gt;‘사적으로 친한 직장 동료’의 경우 20만원이 적정하다는 응답이 14.3%를 기록했으며, 15만원 12.7%, 5만원 9.4% 순이었다. ‘협업·일로 엮여 있는 동료’는 5만원 30%, 5만원 미만 3.8%, 15만원 3.3%로 조사됐다.&lt;br&gt;&lt;br&gt;2023년 같은 조사에선 ‘같은 팀이지만 덜 친하고 협업할 때만 마주하는 직장 동료’의 적정 축의금을 묻는 항목에 65.1%가 ‘5만원’을 대세였다. 하지만 올해 조사에선 가장 많은 응답이 10만원으로 나타나면서 이때보다 5만원 더 올랐다. 인크루트는 물가 상승이 축의금에 영향을 미친 것으로 분석했다. &lt;br&gt;&lt;br&gt;결혼식 참석 범위와 관련해선 44.4%가 ‘같이 협업하거나 일로 엮여 있는 동료’까지 참석한다고 답했다. ‘청첩장을 받은 모든 직장 동료’까지 참석한다는 응답은 28.2%, ‘사적으로 친한 직장 동료’ 결혼식만 간다는 응답이 25.9%였다. 1.4%는 직장 동료 결혼식엔 참석하지 않겠다는 의사를 밝혔다.&lt;br&gt;&lt;br&gt;동료 결혼식에 참석하지 않는다고 답한 응답자들은 그 이유(복수 응답)로 결혼식까지 참석할 사이가 아니어서(33.3%), 개인 일정이 우선이어서(25%), 축의금의 경제적 부담이 커서(16.7%) 등을 꼽았다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“동창회 열면 200만원 줄게”…바가지섬 오명 쓴 제주의 파격 제안</title>
-      <link>https://www.chosun.com/national/national_general/2025/05/26/EIYTP6HYSBEAPOFS5GTMZH3UKQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/05/26/EIYTP6HYSBEAPOFS5GTMZH3UKQ/</guid>
-      <dc:creator>김자아 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 26 May 2025 02:24:12 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2EV7EV745JNJ3HOYPZORTJBQNE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;징검다리 연휴를 하루 앞둔 지난달 30일 제주공항이 관광객 등 입도객으로 붐비고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;바가지 관광지라는 오명을 쓴 제주도가 가성비 여행지로 자리 잡기 위해 다양한 정책을 추진하는 가운데, 급기야 단체 여행객에게 현금 인센티브를 지급하기로 했다. &lt;br&gt;&lt;br&gt;26일 관련 업계에 따르면 제주도의회는 지난 23일 제438회 임시회 본회의에서 제주도가 제출한 ‘제주도 관광진흥 조례’ 개정안을 가결했다. 이번 조례 개정은 제주도의 관광객 유치 인센티브 사업에 대한 법적 근거를 명확히 하기 위해 이뤄졌다.&lt;br&gt;&lt;br&gt;개정안은 제92조 관광산업 육성·진흥을 위한 지원 사업에 ‘국내외 관광객 대상 여행 경비 등 인센티브 성격의 보상 지원 사업’을 명시적으로 규정했다.&lt;br&gt;&lt;br&gt;도는 지난 3월 관광객 유치를 위한 개별·단체 관광객 인센티브 지급 등 여행 지원 정책 ‘제주의 선물’을 마련해 발표했다.&lt;br&gt;&lt;br&gt;이를 두고 6·3 대통령 선거와 관련 공직선거법 저촉 여부에 대한 우려가 나오자 인센티브 지급을 보류하고 선거관리위원회에 유권해석을 의뢰했으며, 법적 근거를 명확히 하는 게 좋겠다는 선관위 의견에 따라 이번 조례 개정을 추진했다.&lt;br&gt;&lt;br&gt;도는 우선 수학여행과 일반 단체, 마이스(MICE) 참가자, 뱃길 이용 단체 등 단체 관광객 대상 제주의 선물 지원 사업을 실시할 계획이다. &lt;br&gt;&lt;br&gt;수학여행 안전 관리 강화를 위해 안전 요원 고용비 지원 항목을 신설하고, 학교별 지원 금액을 최대 100만원으로 상향 조정하기로 했다.&lt;br&gt;&lt;br&gt;또 동창회와 동호회는 15명 이상 제주를 방문하면 1인당 3만원씩 최대 200만원을 지급하고, 자매결연·협약 단체는 20인 이상 방문 시 1인당 3만원씩 최대 600만원을 지원한다.&lt;br&gt;&lt;br&gt;뱃길 이용 관광객 지원도 강화한다. 지원 대상을 일반 단체와 동호회까지 확대하고, 지원금을 3박 기준 1인당 최대 7만원으로 상향 조정한다.&lt;br&gt;&lt;br&gt;이 밖에 개별 관광객 참여형 프로그램도 운영한다. 6월 대도시 팝업 행사와 제주여행주간 참가자를 대상으로 탐나는전 1만원·3만원·5만원권을 추첨으로 제공하는 개별 관광객 대상 제주의 선물 사업을 추진한다. 9월 말부터 10월 초 황금연휴 기간에는 추첨 행사를 진행할 계획이다.&lt;br&gt;&lt;br&gt;도는 최근 바가지요금 논란으로 관광객들의 불평이 잇따르자 민·관 협의체를 구성해 ‘가성비 높은 제주 관광 만들기’ 프로젝트에 박차를 가하고 있다.&lt;br&gt;&lt;br&gt;이 프로젝트는 분야별로 적정 가격 책정, 친절 서비스 확산 등 실천 과제를 설정하고 민관이 이의 실천을 점검하겠다는 내용이 골자다. 주요 추진 분야는 숙박, 교통, 음식점, 관광지, 여행업, 골프장, 해수욕장 등 7개 분야다.&lt;br&gt;&lt;br&gt;숙박 분야의 실천 과제에는 고가 숙박료 대비 낮은 서비스 품질 개선이 포함됐으며, 바가지 논란이 빈번한 음식점 분야는 주문 단위 메뉴를 개선하고 자발적으로 가격을 인하한 업체를 ‘착한 가격 업소’로 선정해 인센티브를 제공하는 게 골자다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>초고령 사회 눈앞…서울시, 5년간 돌봄·인프라에 3조4000억원 투입</title>
