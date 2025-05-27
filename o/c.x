@@ -13,6 +13,25 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>뒤통수 ‘퍽’ 치고 목덜미 공격…울산서 공포가 된 까마귀</title>
+      <link>https://www.chosun.com/national/national_general/2025/05/28/SED7CG5PWBERRAKIU7S6CYB3CM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/05/28/SED7CG5PWBERRAKIU7S6CYB3CM/</guid>
+      <dc:creator>이가영 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 27 May 2025 22:46:28 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FSPVNGASYZBXHJPPOA7KQX5HVM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;25일 울산 동구의 한 골목을 걷던 남성을 까마귀가 공격하고 있다. /KBS&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;봄철이 되면 지나가는 사람을 공격하거나 밤낮으로 울어대는 까마귀 탓에 울산 지역 주민들이 봉변을 당하는 사례가 늘고 있다. &lt;br&gt;&lt;br&gt;최근 까마귀로 인한 민원이 쏟아지자 울산시 동구의 한 공원에는 ‘까마귀 공격 주의’라는 문구와 함께 인근을 통행할 때 모자나 우산을 쓰라는 현수막이 부착됐다. &lt;br&gt;&lt;br&gt;까마귀는 공원뿐 아니라 인근 주택가에도 출몰했다. 휴대전화를 보면서 골목을 걷던 남성을 공격하거나, 전봇대 위에 있던 까마귀가 갑자기 노인을 공격하자 놀라서 넘어지는 일도 있었다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IC4TWP2BAVAGBGVTRLTOCUMSHY.gif"&gt;&lt;figcaption&gt;&lt;small&gt;전봇대 위에 있던 까마귀가 길을 지나던 노인을 공격해 넘어지고 있다. /MBC에브리원 '히든아이'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;주민들은 “사람들 비명소리가 들린다” “누가 주먹으로 때리는 것 같은 느낌에 보니까 까마귀더라. 얼마나 아픈지 모른다”며 까마귀에 대한 두려움을 드러냈다. &lt;br&gt;&lt;br&gt;전문가들에 따르면 주민을 공격하는 건 겨울철 울산을 찾는 철새가 아닌 텃새 ‘큰부리까마귀’다. 큰부리까마귀는 알을 낳고 새끼를 키우는 4~6월에 공격성이 높아져 행인의 뒤통수를 발로 차거나 목덜미를 움켜잡는 방식으로 공격한다고 한다. &lt;br&gt;&lt;br&gt;평균 몸길이는 56.5㎝, 날개를 펼치면 1m에 달해 국내 서식하는 까마귀 중 가장 크다. 잡식성으로 낟알과 과실, 죽은 동물의 사체, 곤충류, 조류의 알 등을 먹는다. &lt;br&gt;&lt;br&gt;과수원 등 농작물과 정전 피해의 주범 중 하나로도 꼽힌다. 최근에는 도심 주거지 인근의 녹지 공원에서 번식하면서 쓰레기통을 뒤지거나 주변에 접근하는 사람을 위협하는 일이 늘었다. &lt;br&gt;&lt;br&gt;울창한 나무를 골라 높은 곳에 둥지를 숨겨 짓기 때문에 둥지를 제거해 쫓아내기도 어렵다. 환경부는 2023년 12월 큰부리까마귀를 유해야생동물로 지정하기도 했다. &lt;br&gt;&lt;br&gt;서울의 한 지자체는 작년 까마귀를 사살하는 방안도 논의했으나, 행인이나 인근 건물에 피해를 끼칠 우려가 있어 현실화하지 못한 것으로 전해졌다. &lt;br&gt;&lt;br&gt;전문가는 “위협적인 움직임을 보이는 까마귀를 발견하면 모자나 우산, 가방 등으로 머리를 가리고 조심히 자리를 벗어나는 게 최선”이라며 “이동 중 음식물 섭취를 피하고 쓰레기통 뚜껑은 덮어두는 것도 필요하다”고 조언했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/26BASJNT6RGULJ7243AXON7EJI.gif?auth=f4447aff30247dba26a9c8bcd89d09a372b6421b1c0b7e868aa23cdbbba49185&amp;smart=true&amp;width=461&amp;height=294" type="image/jpeg" height="294" width="461"/>
+    </item>
+    <item>
+      <title>부산·창원 시내버스 28일 첫차부터 운행 중단…출근시간 교통대란 빚어질 듯 </title>
+      <link>https://www.chosun.com/national/regional/yeongnam/2025/05/28/CTDYZETCBFDLRD7Y7STXAB5WA4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/yeongnam/2025/05/28/CTDYZETCBFDLRD7Y7STXAB5WA4/</guid>
+      <dc:creator>박주영 기자, 김준호 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 27 May 2025 21:24:12 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/S4E2FJCBRHA3CCSX2VELMN76GM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산시내버스 노사협상 결렬로 노조가 28일 첫차부터 운행을 중단했다. 이날 부산 강서구 강서시내버스 공영차고지에 운행을 멈춘 시내버스들이 주차돼 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산 시내버스 노사의 올해 임단협 협상이 결렬되면서 노조가 파업에 돌입, 28일 첫차부터 버스 운행이 중단됐다. &lt;br&gt;&lt;br&gt;지난 27일 오후부터 막판 협상을 벌여온 부산시내버스 노사는 자정을 넘겨 28일 오전 2시 20분 부산노동위원회에서 열린 마지막 조정 회의를 벌였지만 정기상여금의 통상임금 포함·임금인상 등 핵심 쟁점에 대한 합의에 이르지 못했다. &lt;br&gt;&lt;br&gt;협상이 결렬되자 노조는 “사측과 부산시가 노동위 조정안을 거부했다”며 파업에 들어갔다. 그라나 노사 양측은 조정위원회에서 버스조합 사무실로 자리를 옮겨 다시 협상을 진행하고 있어 차후 타결 가능성의 여지는 남겨뒀다. &lt;br&gt;&lt;br&gt;이에 따라 이날 오전 4시 20분 운행되는 시내버스 첫차를 시작으로 147개 노선 2517대의 시내버스 운행이 중단됐다. 부산 시내버스는 하루 105만명의 시민들을 수송해왔다.&lt;br&gt;&lt;br&gt;부산시는 이날 오전 4시39분 “시내버스 임금협상 결렬로 28일 첫차부터 총파업에 돌입해 시내버스 운행이 전면 중단됐다”며 “비상수송버스를 운행하니 시 홈페이지를 참고해달라”는 안내 문자를 시민들에게 보냈다.&lt;br&gt;&lt;br&gt;시는 시내버스 파업 돌입으로 비상 수송대책 시행에 들어갔다. 우선 주요 도시철도 역 주변을 오가는 전세버스를 오전 6시부터 오후 9시까지 운행한다. 도시철도와 경전철도 출퇴근 운행 시간을 1시간씩 연장하고 평일 기준 50회를 증편 운행하기로 했다.&lt;br&gt;&lt;br&gt;또 택시는 파업 기간 운휴 차량을 최대한 줄여 승객 운송을 늘리고, 버스 정류소를 택시승강장으로 개방하기로 했다. 시 측은 “승용차 요일제와 가로변 버스전용 차로도 한시적으로 해제해 승용차가 이용할 수 있도록 할 것”이라고 말했다.&lt;br&gt;&lt;br&gt;창원 시내버스도 28일 오전 5시 첫차부터 파업에 돌입했다. 이날 창원 버스 노사는 새벽 3시 협상결렬을 선언했다. 파업은 시내버스 9개사 버스기사 1600여명이 동참할 예정이다. &lt;br&gt;&lt;br&gt;창원시는 파업의 영향으로 전체 시내버스 95%에 달하는 669대가 멈춰설 것으로 예상하고 있다. 창원시는 오전 6시부터 전세버스 170대(40개 노선), 시 소유 관용 버스 10대를 긴급 투입했다. 하지만 이는 평시 대비 42% 수준에 불과해 시민 불편이 예상된다. &lt;br&gt;&lt;br&gt;이에 시는 출퇴근 시간대 시내 주요 구간에 지선 버스를 대체해 지정된 정류장 내에서 순환 운행하는 노선형 택시 180대를 운행한다. 또 전세버스 투입이 어려운 읍면 등 외곽지역에는 전화로 호출해 이용할 수 있는 호출형 택시 150대도 운영한다. &lt;br&gt;&lt;br&gt;창원 버스노사는 이날 오후 2시부터 협상을 재개할 예정이다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>서울 시내버스 노조, 파업 직전 유보 결정... 정상 운행</title>
       <link>https://www.chosun.com/national/national_general/2025/05/28/OCVNR5CNJZCZDHK6PQMMKHEHGA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/05/28/OCVNR5CNJZCZDHK6PQMMKHEHGA/</guid>
@@ -856,24 +875,6 @@
       <description/>
       <pubDate>Mon, 26 May 2025 15:50:00 +0000</pubDate>
       <content:encoded>얼마 전 지휘자 정명훈이 세계 최고 오페라 공연장으로 꼽히는 이탈리아 ‘라스칼라’ 극장의 음악 감독을 맡는다는 뉴스가 나왔어요. 1778년 개관한 라스칼라 극장은 이탈리아에서도 국가적으로 사랑받는 문화 시설인데요. 지난 2002년 좁은 공간을 넓히기 위해 개·보수를 할 때도, 옛 시설 일부를 철거하는 데 격렬한 논쟁이 붙을 정도였죠. 당시 작업을 성공적으로 이끈 건축가가 바로 마리오 보타(1943~)입니다.&lt;br&gt;&lt;br&gt;스위스 출신의 보타는 이탈리아의 베네치아 건축대학교에 다니면서 당대 손꼽히는 건축 거장들에게 가르침을 받았습니다. 보타는 르코르뷔지에의 조수로 일했고, 카를로 스카르파에게 지도받으며 논문을 썼죠. 또 루이스 칸의 프로젝트에 참여했는데, 보타는 세 명을 가리켜 자신에게 결정적 영향을 끼친 스승이라 말합니다. 실제 보타의 건축물을 보면 이 세 사람의 특성이 드러납니다. 원통과 육면체 중심의 육중한 구조, 빛을 활용한 공간 연출 등이죠.&lt;br&gt;&lt;br&gt;보타는 ‘벽돌의 마법사’라는 별명을 갖고 있습니다. 미국 샌프란시스코 현대미술관, 스위스 바젤 팅겔리 뮤지엄 등을 보면 벽돌을 주 재료로 사용하는 그의 건축 스타일이 잘 드러나지요. 그중에서도 유달리 사랑받은 분야가 있으니 바로 종교 건축입니다. 프랑스의 에브리 대성당, 스위스 몬뇨 산 조반니 바티스타 교회, 이스라엘 텔아비브 심발리스타 유대교 회당 등은 ‘걸작’으로 꼽혀요. 특정 종교에 국한되지 않고 프로젝트를 맡는 비결은 보타의 건축관이 종교 건축에서 공통적으로 원하는 것을 담고 있기 때문입니다.&lt;br&gt;&lt;br&gt;보타는 건축의 가장 중요한 재료 중 하나로 ‘빛’을 꼽아요. 자연광을 건물 내부로 끌어들여 명상적인 분위기를 불어넣는 것인데, 이는 종교 건축물에 필요한 신성한 분위기를 만드는 데 제격이지요.&lt;br&gt;&lt;br&gt;보타는 우리나라에서도 굵직한 프로젝트를 여럿 진행했습니다. 독보적인 스타일 덕분에 바로 알아챌 수 있는데요. 서울 신논현역 앞에 있는 25층 규모의 강남교보타워(2003)는 100m가 넘는 건물 외벽을 붉은색 벽돌로 마감했어요. 매끄럽고 가벼운 느낌의 유리 건물이 즐비한 강남에서 단단하고 무거운 느낌을 주며 존재감을 발휘하죠. 서울 용산구 리움미술관 M1(2004)도 그의 작품입니다. 한국의 도자기에서 영감을 받은 이 건물 중앙에는 지하부터 최상층까지 이어지는 거대한 원형 홀이 있고 관람객들은 나선형 경사로를 따라 이동하는데요. 천장에서 내려오는 자연광이 은은하게 비치며 신비로운 분위기를 조성하죠. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YTI4QEBPJBGTNEME43TW2H7EFA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;강남교보타워 /교보생명&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 화성시에 있는 남양성모성지 대성당(2020)은 설계부터 완공까지 10년 가까이 걸린 보타의 역작입니다. 41m 높이의 거대한 쌍둥이 탑을 성당 전면에 배치하고, 성당 외벽은 붉은 벽돌 수십만 장으로 마감했죠. 본당 천장 사이사이로 쏟아지는 자연광은 태양의 움직임에 따라 시시각각 변하며 성스러운 분위기를 연출해요. 신자, 지역 주민, 마음이 힘든 사람 모두가 찾는 위로와 치유의 공간입니다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문은 선생님] [사소한 역사] 조선시대 때도 조기교육 열풍… ‘족집게 강사’ 있는 서당으로 몰렸죠</title>
-      <link>https://www.chosun.com/national/nie/2025/05/27/GRMUICWZQVBN5AMHD5MRMHFL5M/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2025/05/27/GRMUICWZQVBN5AMHD5MRMHFL5M/</guid>
-      <dc:creator>이한 작가·'한잔 술에 담긴 조선’ 저자</dc:creator>
-      <description/>
-      <pubDate>Mon, 26 May 2025 15:50:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FSQ42NXCRFCNBBZ3Y3HAVLWEAQ.png"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=이철원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;영유아 사교육 문제로 연일 사회가 시끄럽습니다. 영어 유치원과 ‘초등 의대반’에 학생이 몰린다더니, 이제 ‘4세 고시’도 생겨났습니다. 아이들의 정신 건강이 위협을 받고 있다는 이야기가 나온 지도 오래됐습니다.&lt;br&gt;&lt;br&gt;조선 시대에도 요즘 못지않은 조기 사교육 열풍이 있었습니다. 양반 남성으로 태어나면 대체로 열 살 때부터 한학(漢學)을 공부하게 되는데, 교육의 목표는 당연히 과거에 급제해 높은 관직에 오르는 것이었지요. 과거는 20~30년 동안 시험 준비에 매달려야 겨우 급제할까 말까 했어요. 그래서 조급한 부모들은 자식을 남들보다 더 빨리 가르치려고 안달했습니다. 겨우 말을 하기 시작하는 아이들에게 한문을 가르치는 상황이 왕에게 보고될 정도였습니다. 조기교육에 가장 열을 올리는 것은 바로 왕실이긴 했지만요. &lt;br&gt;&lt;br&gt;그래서 조기교육은 정말 목적을 달성했을까요? 물론 정말로 똑똑한 ‘신동’이 있긴 했습니다. 세 살 때 옛 시를 인용해 시를 지은 율곡 이이, 네 살 때 한문책을 줄줄 읽었다던 서애 유성룡이 있었지요. 그 외에도 김시습, 이산해 등 무수한 신동들 역시 부모의 자랑이 되었습니다.&lt;br&gt;&lt;br&gt;하지만 대다수의 평범한 아이들은 어떻게 되었을까요. 당연히 어려운 내용을 이해하지 못하고 진도를 제대로 따라가지 못했습니다. 옛 문집과 편지에서는 ‘공부 못하는 자식’에게 화를 낸 내용도 자주 등장합니다. 퇴계 이황이나 윤선도 같은 위인들도 자식들에게 공부 제대로 하라는 편지를 보냈을 정도입니다.&lt;br&gt;&lt;br&gt;과거 아이의 교육은 집안 발전을 위한 수단이었습니다. 양반 가문을 유지하기 위해 과거 시험 급제자를 반드시 배출해야 했기 때문이지요. 고려 말 문인 윤택은 어려서부터 어려운 한자를 읽고 능숙하게 글을 썼다고 전해집니다. 이를 본 그의 할아버지는 기뻐서 눈물을 흘리며 말했지요. “우리 집안을 일으킬 것은 오직 너뿐이다.”&lt;br&gt;&lt;br&gt;조기교육이 끝이 아니었습니다. 학교 같은 공교육이 없었던 시절, 조선의 아이들이 집을 떠나 공부하러 간 곳은 절이었습니다. 선생님은 절의 승려들이었지요. 절보다 좀 더 본격적인 교육 기관은 일종의 ‘학원’인 서당입니다. 과거시험에 오래 도전했지만 급제하지 못한 ‘장수생’이나, 학문은 뛰어나도 신분 때문에 급제할 가망이 없는 사람들이 주로 가르쳤지요. 성균관에서 하인 일을 하던 정학수가 연 서당엔 100명이 넘는 학생이 몰려들 정도였다고 합니다. 공부만 잘 가르친다면 선생님의 신분쯤이야 아무 상관없다는 것이었지요. 지방으로 귀양을 가게 된 사람들도 그 지역에서 서당을 만들어 아이들을 가르쳤는데, 다산 정약용과 추사 김정희가 대표적인 예입니다.&lt;br&gt;&lt;br&gt;세상에서 가장 귀한 내 자식이 똑똑하길 바라는 것은 부모로서 당연한 마음입니다. 하지만 기대가 사랑을 앞서기 시작하면 부담이 되고 고통으로 이어집니다. 약 2500년 전 공자도 이런 경고를 남겼습니다. “빨리 이루려 하지 마라. 빨리 하려고 하면 도달하지 못한다(논어).”&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[매일매일 중국어 한마디] 한번 정해지면 변하지 않는다</title>
-      <link>https://www.chosun.com/national/nie/chinese/2025/05/27/3REJMKSOYNHRTNSBMCKVOMM734/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese/2025/05/27/3REJMKSOYNHRTNSBMCKVOMM734/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Mon, 26 May 2025 15:33:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HFSWVOPZUBAS7HXZ4RBQN34LQM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>고민시, 중학생 시절 학폭 의혹… 소속사 “명백한 허위, 법적 대응”</title>
