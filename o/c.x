@@ -13,6 +13,55 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>“주식으로 전 재산 박살·왼쪽 눈 실명”... ‘의리’ 김보성 근황</title>
+      <link>https://www.chosun.com/national/people/2025/05/28/SLDKGAOZQJBMVCEBNRACE6EA3A/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/05/28/SLDKGAOZQJBMVCEBNRACE6EA3A/</guid>
+      <dc:creator>정아임 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 28 May 2025 09:38:15 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/J43XD6ANJQ3PMQNODYVSEUY3P4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;배우 김보성./팔도&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;배우 김보성(59)이 최근 생활고와 건강 악화로 힘든 시간을 보내고 있다고 밝혔다. &lt;br&gt;&lt;br&gt;김보성은 지난 24일 유튜브 채널 ‘근황올림픽’에 게스트로 출연해 왼쪽 눈이 보이지 않는다고 털어놨다. 그는 “사실 양쪽 눈 시력이 2.0이었다. 그런데 왼쪽 눈을 다치면서 잘 보이는 눈도 안 좋아졌다”며 “왼쪽은 마이너스 30 이상, 오른쪽은 마이너스 6 정도다. 왼쪽은 부동시라 초점이 맞지 않아 눈이 떠다닌다”고 말했다. &lt;br&gt;&lt;br&gt;앞서 김보성은 지난 2016년 종합격투기 로드 FC 데뷔전에서 일본 파이터 콘도 테츠오와 맞붙었다가 오른쪽 안구가 0.2cm가량 함몰되는 부상을 입었다.&lt;br&gt;&lt;br&gt;또한 그는 생활고를 겪고 있다고 털어놨다. 김보성은 “생활비 마련이 쉽지 않다”며 “제가 아주 잘나가는 톱스타가 아니다 보니 우리 아내도 있고, 아들도 있는데 생활비에 쫓기는 듯한 느낌”이라고 고백했다. &lt;br&gt;&lt;br&gt;그가 생활고를 겪게 된 이유는 주식 투자 실패 때문이었다. 김보성은 “개인적으로 주식 투자를 했다가 박살이 났다”며 “수십억이 날아갔는데 전 재산이 박살 났다고 생각하시면 된다. 상장 폐지도 4번 당한 것으로 알려졌는데 최근에 한 번 더 당했다”고 했다. 이어 “더 좋은 일을 많이 하려고 주식에 투자한 것도 있는데 박살 났다. 상장 폐지된 종목 중 제일 피해가 큰 금액이 3억이다. 이렇게 되면서 기부를 못 하게 됐다”고 말했다.&lt;br&gt;&lt;br&gt;이런 가운데 그는 최근 틱톡 라이브 방송을 시작하며 새로운 도전에 나섰다. 김보성은 “팬이 선물을 보내주셨는데 개인 생활비로 쓰긴 어렵지 않나. 그래서 전액 기부하겠다고 선언했다”고 밝혔다. 그러면서 “우리 아내가 진짜 의리 있는 사람이다. 나는 어떤 고난도 결국 축복이라고 생각한다”고 덧붙였다.&lt;br&gt;&lt;br&gt;김보성은 강우석 감독과의 인연으로 영화 ‘행복은 성적순이 아니잖아요’(1989)에서 주연급 배역 봉구 역을 맡아 얼굴을 알렸다. 드라마 ‘사랑이 꽃피는 나무’, 영화 ‘투캅스’ 시리즈를 비롯해 ‘모래시계’, 대하 사극 ‘서궁’, ‘내일을 향해 쏴라’ 등에 출연했다. 이후 ‘의리 사나이’ 콘셉트로 다수의 예능에서 활약해왔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/653EJSZXPRFOJHKKKAX7WAP6KA.jpg?auth=55edad06a58390150142e96dec55552e8b74282ff067eb918c569dc9daed9cd8&amp;smart=true&amp;width=349&amp;height=262" type="image/jpeg" height="262" width="349">
+        <media:description type="plain">20년 넘게 ‘의리’를 외쳐온 탤런트 김보성의 식혜 광고.</media:description>
+        <media:credit role="author" scheme="urn:ebu">팔도 제공</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>영흥도 갯벌 ‘해루질’하다 고립된 여성 2명 구조…드론 순찰하던 해경이 발견</title>
+      <link>https://www.chosun.com/national/incident/2025/05/28/TBVIFN3JF5B2HBYX3MR7XFU4H4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/05/28/TBVIFN3JF5B2HBYX3MR7XFU4H4/</guid>
+      <dc:creator>인천=이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 28 May 2025 08:41:12 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Y4D2HWXQIQT7FTENQBKDWGQXEI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;27일 오전 0시 19분쯤 인천 옹진군 영흥면 길마섬 인근 갯벌에서 차오르는 바닷물에 고립된 여성 2명이 드론 순찰 중이던 해경에 발견돼 구조됐다. /인천해양경찰서&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천 영흥도 갯벌에서 해루질을 하다 고립된 여성 2명이 해경에 발견돼 구조됐다. &lt;br&gt;&lt;br&gt;28일 인천해양경찰서에 따르면 이날 오전 0시 19분쯤 인천 옹진군 영흥면 길마섬 인근 갯바위에 고립된 40대 여성 A씨와 바다에 빠진 50대 여성 B씨 등 2명이 드론을 이용해 순찰하던 해경에 발견됐다. &lt;br&gt;&lt;br&gt;해경은 발견 즉시 인력과 장비를 투입해 이들을 구조하고 병원으로 이송했다. &lt;br&gt;&lt;br&gt;해경은 A씨 등이 해루질을 하다 바닷물이 차오르는 시간을 알지 못해 고립된 것으로 보고 있다. 해루질은 야간에 갯벌에서 별다른 도구 없이 맨손으로 조개 등 어패류를 잡는 활동을 의미한다. &lt;br&gt;&lt;br&gt;해경 관계자는 “한달에 8차례 정도 드론을 활용한 순찰을 하는데, 이상한 움직임이 발견돼 가까이 가 다시 확인했더니 고립된 사람 2명이 있었다”며 “즉시 인력과 장비를 투입해 구조했다”고 했다. &lt;br&gt;&lt;br&gt;이어 “서해는 물이 들어오는 속도가 빨라 각별한 주의가 필요하다”며 “해루질 같은 갯벌 활동을 할 때는 밀물 시간을 확인하고 구명조끼 등을 반드시 착용해야 한다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>울산 시내버스 노사 6월 5일까지 협상 더 한다... 파업도 보류</title>
+      <link>https://www.chosun.com/national/regional/2025/05/28/JYPXVTZ4L5AR3K5I46RO5BJZYI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/05/28/JYPXVTZ4L5AR3K5I46RO5BJZYI/</guid>
+      <dc:creator>울산=김주영 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 28 May 2025 08:32:03 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WA4WHKJXY6IWQIGVFCEY5YRGDI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;28일 울산 울주군 율리 시내버스 공영차고지에서 시민들이 시내버스를 기다리고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;울산 시내버스 노조가 사측과 임금·단체협약 교섭을 일주일 더 하기로 했다. 교섭 기한까지 파업도 보류해 버스는 평소대로 운영된다.&lt;br&gt;&lt;br&gt;28일 울산시와 전국자동차노동조합연맹 울산지역버스노조 등에 따르면 시내버스 노사는 최종 조정회의 기한을 28일 자정에서 오는 6월 5일 오후 4시까지로 연장했다.&lt;br&gt;&lt;br&gt;당초 노사는 임·단협 교섭을 28일 자정까지 끝낼 계획이었으나, 입장차가 좁혀지지 않아 이날 오후 4시까지 여섯 차례나 조정 회의를 연장하며 마라톤 협상을 벌였다.&lt;br&gt;&lt;br&gt;앞서 노조는 찬반투표를 거쳐 파업권을 확보했으나 교섭이 길어지며 파업을 보류했다. 파업 시 총 187개 버스 노선(889대) 중 105개 노선(702대) 운행이 중단될 상황이었다. 울산 전체 시내버스의 78.9%다.&lt;br&gt;&lt;br&gt;노사는 정기 상여금을 통상임금에 넣는 문제를 놓고 대립해 왔다.&lt;br&gt;&lt;br&gt;노조는 지난해 12월 정기 상여금을 통상임금으로 봐야 한다는 대법원 판결에 따라 현재 임금 체계를 유지한 채 600% 수준의 정기상여금을 통상임금에 포함해달라고 요구해 왔다. 또 8.2%의 임금 인상(전국 공통) 등도 주장하고 있다.&lt;br&gt;&lt;br&gt;반면 사측은 노조 요구대로 정기상여금을 통상임금에 포함할 경우 시급 상승효과가 15∼16% 정도 발생해 지급 여력이 없다며, 임금 체계를 바꿔야 한다는 입장이다.&lt;br&gt;&lt;br&gt;현재 노조는 한발 물러서 통상 임금의 일부라도 임금에 반영해 달라고 요구하고 있다. 사측 역시 통상 임금의 얼마를 넣을 지 노조와 협의를 이어나가겠다는 입장이다.&lt;br&gt;&lt;br&gt;울산시 관계자는 “울산은 지하철이 없어 파업할 경우 시민들이 큰 불편을 겪는다”며 “파업 사태까지 가지 않도록 최대한 원활하게 교섭이 되도록 지원할 것”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>”어려운 학생에 써달라“...5000만원 들고 경희대 찾은 익명의 90대 어르신 </title>
+      <link>https://www.chosun.com/national/national_general/2025/05/28/3CFYWFT5Y5EB5HY6QXZUDBLWPE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/05/28/3CFYWFT5Y5EB5HY6QXZUDBLWPE/</guid>
+      <dc:creator>정아임 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 28 May 2025 08:24:04 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AVZ5IHNFWNHDPHHSYQXOPFOD34.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;익명의 90대 어르신이 경희대에 5000만원을 기부했다/연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경희대는 익명을 요구한 90대 어르신이 본관을 찾아 5000만원을 기부했다고 28일 밝혔다.&lt;br&gt;&lt;br&gt;학교 근처에 산다는 이 어르신은 사전에 자녀와 상의 후 5만원권 현금다발을 신문지에 고이 싸서 가져와 교직원에게 건넸다. &lt;br&gt;&lt;br&gt;어르신은 “형편이 어려운 학생들에게 도움 되길 바란다”며 “나는 많이 배우지 못했지만, 지금의 학생들이 공부를 계속할 수 있도록 지원하고 싶다”고 말했다. 이어 “시간이 더 있었으면 더 모아서 가져오려 했지만 연로해 미리 준비한 금액을 전달한다”고 했다.&lt;br&gt;&lt;br&gt;그는 “동대문구에 살며 가장 높은 곳에 기부해야 기부금이 정당하게 쓰일 것으로 생각했다”며 “기부금이 정당하게 쓰이길 바란다”고 당부했다.&lt;br&gt;&lt;br&gt;어르신은 경희대 출신도 아니고 자녀가 경희대를 나온 것도 아니라고 한다. 그는 사진 촬영이나 예우품 제공 등도 모두 사양했다.&lt;br&gt;&lt;br&gt;경희대는 기부자의 요청에 따라 해당 기부금을 어려운 환경 속에서 학업을 이어가는 학생들을 위한 장학금으로 사용할 예정이다.&lt;br&gt;&lt;br&gt;경희대 관계자는 “이번 기부는 단순한 후원을 넘어 교육의 기회를 확장하려는 진심 어린 뜻이 담겨 있다”며 “기부자의 뜻을 소중히 새기고 기금이 학생들에게 전달될 수 있도록 노력하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘초등생 살해’ 교사 명재완 소유 아파트 가압류돼</title>
+      <link>https://www.chosun.com/national/regional/2025/05/28/NDE4YYNHCBDOVLW3VF7G4HEUYM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/05/28/NDE4YYNHCBDOVLW3VF7G4HEUYM/</guid>
+      <dc:creator>우정식 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 28 May 2025 08:15:57 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NZG4NA27BRH6HI45EBQA26YWX4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;3월 12일 경찰이  공개한 김하늘양 살해 교사 명재완(48) 사진./대전경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 2월 자신이 근무하던 대전의 한 초등학교에서 김하늘(8)양을 살해한 혐의로 구속 기소돼 재판을 받는 교사 명재완(48) 소유의 대전 소재 아파트가 가압류된 것으로 확인됐다.&lt;br&gt;&lt;br&gt;28일 법조계에 따르면 대전지법 민사28단독 최석진 부장판사는 지난 3월 26일 대전광역시학교안전공제회가 명재완을 상대로 낸 부동산 가압류 신청을 인용했다. 가압류된 부동산은 그가 소유한 대전 소재의 아파트 한 채다.&lt;br&gt;&lt;br&gt;앞서 학교안전공제회 측은 피해 초등학생인 김하늘양이 사망한 후 관련 법률에 따라 유족 급여와 장례비 등을 유족 측에 전달했다.&lt;br&gt;&lt;br&gt;학교안전공제회는 “이 과정에서 구상금 채권이 발생하면서 명씨를 상대로 부동산 가압류 신청을 한 것”이라고 밝혔다.&lt;br&gt;&lt;br&gt;명재완은 현재 공직에서 파면된 상태다. 하지만 공무원연금 수급은 유지되며 감액 조치가 적용된다. 현행 공무원연금법상 최고 수준의 징계인 파면을 받더라도 감액(최대 50%) 조치만 받을 뿐 연금 수급 자체는 유지되기 때문이다.&lt;br&gt;&lt;br&gt;명재완은 지난 2월 10일 오후 4시 50분쯤 대전의 한 초등학교 시청각실 내부 창고로 피해자인 김양을 유인한 뒤 흉기로 찔러 살해한 혐의로 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;검찰은 명이 사전에 인터넷을 검색해 범행 도구를 준비했고, 범행에 쉬운 장소와 시간대를 선택한 후 피해자를 물색·유인한 점 등을 토대로 치밀하게 준비한 계획범죄로 규정했다. &lt;br&gt;&lt;br&gt;아울러 가정 불화에 따른 소외, 성급한 복직에 대한 후회, 직장 부적응 등으로 인한 분노가 증폭되자 이를 해소하기 위해 자신보다 약자인 초등생 여자아이를 잔혹하게 살해한 ‘이상동기 범죄’라고 판단했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>층간소음 항의·빚 독촉, 어디까지 스토킹일까…1·2심 엇갈리는 판결도 </title>
       <link>https://www.chosun.com/national/court_law/2025/05/28/LJ3WYX2E5VE43BY6PBAECQKZMQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/05/28/LJ3WYX2E5VE43BY6PBAECQKZMQ/</guid>
@@ -876,28 +925,6 @@
       <content:encoded>검찰이 이른바 ‘대선 개입 여론 조작’ 사건에 가담했다는 의혹을 받던 전‧현직 경향신문 기자 4명을 27일 불기소 처분했다고 밝혔다. 사유는 증거불충분이다. &lt;br&gt;&lt;br&gt;앞서 서울중앙지검은 2023년 9월 검사 10여 명 규모의 전담수사팀을 꾸려 본격 수사를 개시했고, 김만배(화천대유 대주주)씨와 신학림(전 전국언론노조위원장)씨 등 9명을 기소했다. 의혹이 제기된 경향신문 기자들에 대한 수사는 계속해오다 무혐의 처분하며 1년 8개월 만에 수사가 마무리됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GYKM3VNSIVKHVEQFFMF3NFUSBI.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;서울중앙지검./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경향신문 기자들은 지난 대선을 앞두고 ‘윤석열 전 대통령이 대검찰청 중수2과장이던 2011년에 대장동 대출 브로커 조우형(천화동인 6호 실소유주)씨 수사를 무마했다’는 취지의 기사를 써 검찰의 수사 선상에 올랐다. 검찰은 대검 중수부의 2011년 수사 당시 대장동 대출은 수사 대상이 아니었다는 점 등을 근거로 경향신문의 보도가 허위라고 판단했던 것으로 전해졌다. 그러나 검찰은 수사 결과 이 기자들이 고의로 허위 보도를 했다고 볼 증거를 확보하지 못했고, 이들을 무혐의 처분한 것이다.&lt;br&gt;&lt;br&gt;이 사건은 이른바 ‘대장동 개발 비리’의 몸통으로 지목된 김만배씨가 중심에 있다는 사실이 알려지며 주목을 받았다. 김씨는 대장동 의혹이 본격적으로 제기되던 2021년 9월 언론노조위원장 출신으로 뉴스타파 전문위원으로 있던 신씨를 만나 인터뷰했다. 녹음한 인터뷰 내용은 대선 사흘 전인 이듬해 3월 6일 뉴스타파가 보도했다. 김씨는 인터뷰 닷새 뒤 신씨가 쓴 책 3권 값으로 1억6500만원을 줬다. 검찰은 이 돈이 책값을 명목으로 한 허위 보도 대가라고 본다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/W4RQBYYWBSXLLMAQLB4C3Z7MMY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 대선 직전 윤석열 대통령의 명예를 훼손할 목적으로 허위 인터뷰를 한 혐의를 받는 화천대유 대주주 김만배 씨(왼쪽)와 신학림 전 언론노조위원장./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이 사건으로 모두 9명이 재판에 넘겨졌다. 검찰은 지난해 7월 김씨와 신씨 두 명을 구속 기소했고, 김용진 뉴스타파 대표와 한상진 뉴스타파 기자는 불구속 기소했다. 한 달 뒤엔 또 다른 가짜 뉴스 보도에 관여한 송평수 전 더불어민주당 대선캠프 대변인, 봉지욱 뉴스타파 기자, 허재현 리포액트 기자를 불구속 기소했다. 검찰은 수사 과정에서 전직 한겨레신문 부국장 석모씨와 중앙일보 간부 출신 조모씨가 김씨로부터 억대 금품을 제공받은 정황을 포착해 작년 9월 재판에 넘겼다. 이들의 재판은 서울중앙지법에서 진행되고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>80대 노인 살해하고 5만원 훔친 40대, ‘징역 30년’</title>
-      <link>https://www.chosun.com/national/regional/chungcheong/2025/05/27/PASZ23ZP3VH6VHHDM2KVDSHG5U/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2025/05/27/PASZ23ZP3VH6VHHDM2KVDSHG5U/</guid>
-      <dc:creator>홍성=김석모 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 27 May 2025 05:45:23 +0000</pubDate>
-      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TNCB2DWZQI34XMWLJKKOEZREQI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대전지법 홍성지원. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;80대 노인이 사는 집에 침입해 금품을 훔치려다 발각되자 살인 범행을 저지른 40대에게 징역 30년이 선고됐다.&lt;br&gt;&lt;br&gt;대전지법 홍성지원 형사1부(재판장 나상훈)는 27일 강도살인 등 혐의로 재판에 넘겨진 A(49)씨에게 징역 30년을 선고했다.&lt;br&gt;&lt;br&gt;A씨는 지난해 11월 19일 오후 3시쯤 충남 예산군 예산읍 한 단독주택에 침입해 금품을 훔치려다 89세 집주인을 만나자 주먹 등으로 수차례 폭행해 숨지게 한 혐의를 받는다. A씨는 쓰러진 집주인의 주머니에서 현금 5만원을 훔쳐 달아났다가 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;재판부는 “이 사건은 사람의 생명을 빼앗은 행위로, 범행 경위나 방법 등이 잔혹하고 사회적 비난 가능성도 크다”며 “A씨가 범행을 인정하고, 계획 살인은 아니었던 점 등을 고려해 형을 정했다”고 양형 이유를 밝혔다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>서거석 전북교육감 뇌물수수 의혹, 경찰 ‘증거 불충분’ 불송치</title>
-      <link>https://www.chosun.com/national/incident/2025/05/27/T5P54VGIRZBMFFO7H4NGVMBVNA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/05/27/T5P54VGIRZBMFFO7H4NGVMBVNA/</guid>
-      <dc:creator>전주=김정엽 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 27 May 2025 05:23:28 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CG7G5FKR7E3XYD5QGUIX4DYSX4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서거석 전북도교육감./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서거석 전북도교육감에 대한 뇌물수수 의혹을 수사해 온 경찰이 ‘증거 불충분’을 이유로 불송치 결정을 내렸다. &lt;br&gt;&lt;br&gt;전북경찰청은 27일 “사건 관계인의 진술 외에 이를 뒷받침할 객관적인 증거가 없었다”며 서 교육감에 대해 증거불충분으로 불송치 결정했다고 밝혔다.&lt;br&gt;&lt;br&gt;경찰은 서 교육감이 지난 2022년 4~5월쯤 A씨로부터 1200만원 상당의 금품을 수수한 것으로 보고 수사를 진행했다. 하지만 A씨의 자녀는 장학사로 승진하지 못한 것으로 조사됐다. &lt;br&gt;&lt;br&gt;경찰은 서 교육감을 포함한 관련자들을 소환 조사하고 계좌 내역 등을 확인했지만, 혐의를 입증할 만한 별다른 증거를 발견하지 못했다고 설명했다.&lt;br&gt;&lt;br&gt;경찰의 수사 결과에 대해 서 교육감은 이날 입장문을 통해 “사필귀정”이라며 “거짓으로 전북교육을 흔들려는 세력과 사실관계 확인도 없이 피의사실을 꾸미고 부풀려 보도한 언론에 대해 엄중한 책임이 뒤따라야 한다”며 법적 대응을 시사했다. &lt;br&gt;&lt;br&gt;서 교육감은 “이번 사건이 전형적인 흑색선전”이라며 “장학사 선발 과정은 3단계에 걸쳐 논술시험, 상호토론, 면접, 동료평가 등을 거쳐 이루어지기 때문에 교육감이 돈을 받고 승진시킬 수 있는 구조가 아닌데 돈을 전달했다는 내용의 녹취가 있다는 식의 유언비어가 퍼졌다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/GOSE56VP3NGCVF27CST2L3NCOU.JPG?auth=39388f0bb8140745c96d0ebc9423ffd757c2ea94d4c284cc6a6ee9966820ae08&amp;smart=true&amp;width=2232&amp;height=1674" type="image/jpeg" height="1674" width="2232">
-        <media:description type="plain">서거석 전북도교육감. 2025.1.21/뉴스1 ⓒ News1 유경석 기자</media:description>
-        <media:credit role="author" scheme="urn:ebu">뉴스1 ⓒ News1 유경석 기자</media:credit>
-      </media:content>
-    </item>
-    <item>
       <title>“법치 파괴자 이재명, 대통령 될 수 없다” 법조인 1004인 시국 선언</title>
       <link>https://www.chosun.com/national/court_law/2025/05/27/M5Y6CWUJAZGZ3OO6I2QOJO53WU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/05/27/M5Y6CWUJAZGZ3OO6I2QOJO53WU/</guid>
@@ -905,35 +932,6 @@
       <description/>
       <pubDate>Tue, 27 May 2025 04:20:55 +0000</pubDate>
       <content:encoded>전·현직 교수와 법조인 1004명이 27일 “헌법과 법치의 파괴자인 이재명 더불어민주당 대선 후보는 대통령이 될 수 없다”는 취지의 시국선언을 발표했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YY5QTZWMUFDNPJFXOEZOPOKNKI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법치파괴 규탄 법조인 및 전국 교수 시국선언 및 기자회견이 진행된 27일 서울 서초구 대법원 정문 앞에서 전·현직 교수와 법조인들이 '헌법과 법치의 파괴자는 대통령의 될 수 없다'는 제목의 시국선언을 발표하고 있다. /장경식 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이들은 이날 오전 서울 서초구 대법원 정문 앞에서 기자회견을 열고 시국선언문을 낭독했다. 선언에는 정기승·박만호·천경송·김형선·변재승 등 전직 대법관 11명을 비롯해 권성·김효종 전 헌법재판관, 김경한 전 법무부 장관, 한상대 전 검찰총장, 역대 대한변협 회장단과 전국 법학 교수들까지 총 1004명이 참여했다.&lt;br&gt;&lt;br&gt;이번 선언은 지난 1일 대법원이 이 후보의 공직선거법 위반 사건을 유죄 취지로 파기환송한 이후, 민주당을 중심으로 사법부에 대한 공격이 이어지고 있는 것을 규탄하고자 열렸다.&lt;br&gt;&lt;br&gt;이들은 민주당이 대법관 수를 100명까지 늘리는 법원조직법 개정안과, 대법원 판결에 헌법소원을 허용하는 헌재법 개정안을 발의한 것에 대해 “‘민주당 편 판사’를 대거 임명해 대법원을 장악하고, 사실상 ‘4심제’를 도입해 자기들에게 유리한 판결만 하도록 사법제도 자체를 개조하겠다는 것”이라고 비판했다.&lt;br&gt;&lt;br&gt;또 민주당이 조희대 대법원장과 대법관에 대한 탄핵을 추진하고, 청문회를 강행, 특검 법안 등을 밀어붙이는 것에 대해선 “법 앞의 평등 원칙을 철저히 유린하는, 오직 이 후보만을 위한 노골적인 ‘위인설법’”이라고 지적했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ACIAH4BXSZADPKEJCMMDF6TRFA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법치파괴 규탄 법조인 및 전국 교수 시국선언 및 기자회견이 진행된 27일 서울 서초구 대법원 정문 앞에서 전·현직 교수와 법조인들이 '헌법과 법치의 파괴자는 대통령의 될 수 없다'는 제목의 시국선언을 발표하고 있다. /장경식 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이재원 한반도 인권과 통일을 위한 변호사모임(한변) 회장은 이날 기자회견에서 “민주당은 국회 권력을 장악했고, 마지막 보루인 사법부마저 짓밟고 있다”며 “개인의 권세를 위해 법치주의를 지푸라기보다도 가볍게 짓밟으려는 세력의 집권에 단호히 반대한다”고 밝혔다.&lt;br&gt;&lt;br&gt;문효남 헌법을 생각하는 변호사 모임 회장은 “법치와 사법권 독립이라는 헌법의 핵심 가치가 백척간두에 놓여 있다. 국민들이 자유와 정의, 사법부 독립의 가치를 깊이 인식하고 올바른 판단을 해주시기를 바란다”고 강조했다.&lt;br&gt;&lt;br&gt;김태훈 한변 명예회장은 “대선을 앞두고 사법부 독립이 바람 앞 촛불처럼 위태로운 상황에, 전국 법조인들이 전례 없는 규모로 모였다”며 “좌우를 막론하고 모든 법조인과 국민이 민주당의 사법부 독립 침해 시도에 맞서 법치주의를 지켜주기를 간곡히 부탁한다”고 했다. &lt;br&gt;&lt;br&gt;부장판사 출신인 이충상 변호사는 “법관들이 민주당이 발의한 ‘법 왜곡죄’로 처벌받을 수 있다는 두려움을 느낄 수 있다는 것만으로도 사법권 독립이 흔들리는 것”이라며 “1988년 법관 시국선언 때보다 현재의 대한민국 사법 독립이 더 후퇴한 모습”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“봉사하며 살래” 40대 사회복지사, 장기기증으로 5명 살리고 떠나 </title>
-      <link>https://www.chosun.com/national/national_general/2025/05/27/OGTIFFDF5RDKRJ2QGZHNT5Q5EM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/05/27/OGTIFFDF5RDKRJ2QGZHNT5Q5EM/</guid>
-      <dc:creator>최혜승 기자 </dc:creator>
-      <description/>
-      <pubDate>Tue, 27 May 2025 04:27:53 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HER44MBNZ5WGLY45GZSYIJYWGU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;사회복지사 이지혜(43)씨가 장기 기증으로 타인의 생명을 살리고 세상을 떠났다. /한국장기조직기증원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;봉사하는 삶을 살던 40대 사회복지사가 뇌사 장기 기증과 인체 조직 기증으로 100명이 넘는 환자에게 새 삶을 선물하고 세상을 떠났다. &lt;br&gt;&lt;br&gt;한국장기조직기증원은 지난 3월 22일 이지혜(43)씨가 인하대병원에서 뇌사 장기 기증으로 5명에게 심장, 폐, 간, 신장 양측을 기증했다고 27일 밝혔다. 이씨는 인체 조직 기증으로 환자 100여 명의 기능적 장애 회복도 도왔다. &lt;br&gt;&lt;br&gt;이씨는 지난 3월 18일 집에서 쓰러져 병원으로 이송됐으나 끝내 의식을 회복하지 못하고 뇌사 상태가 됐다. 이씨의 가족은 평소 어려운 사람 돕기를 좋아했던 이씨가 삶의 마지막 순간에 가치 있는 일을 하고 떠나길 바라는 마음에 기증을 결심했다.&lt;br&gt;&lt;br&gt;이씨는 인천에서 세 자매 중 장녀로 태어났다. 밝고 활동적이며 어려운 사람을 보면 먼저 다가가 도움을 주는 마음이 따뜻한 사람이었다. 스물세 살일 때 아버지가 뇌출혈로 숨지며 경제적으로 많은 어려움을 겪었다. &lt;br&gt;&lt;br&gt;그는 힘든 시기에도 장애인과 어린아이를 돕는 봉사 동아리 활동을 하며 주변 사람들을 도왔다. 이후 타인을 도우며 살고 싶다는 마음에 사회복지사 자격증을 따고 요양원을 설립했다.&lt;br&gt;&lt;br&gt;고인의 딸 이예향 양은 “내 엄마로 함께해 줘서 너무 고맙다”며 “비록 짧은 시간이었지만 좋았던 시간 추억하며 잘 살아갈 테니 천국에서 행복하게 잘 지내라”고 인사를 전했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>홍명보, 손흥민 사생활 질문에 “내가 관여할 부분 아냐” </title>
-      <link>https://www.chosun.com/national/national_general/2025/05/27/C6A274LLSVCAZD45IAYUTZMLYI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/05/27/C6A274LLSVCAZD45IAYUTZMLYI/</guid>
-      <dc:creator>박선민 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 27 May 2025 03:13:09 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JIM5LHFQHNMQBMVNZBLBSDCYDE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;홍명보 축구대표팀 감독이 26일 오전 서울 종로구 축구회관에서 6월 A매치에 나설 대표팀 명단을 발표하고 있다. /뉴시스
-
-홍명보 감독이 이끄는 축구대표팀은 오는 6월6일 이라크 바스라에서 이라크와 9차전 원정 경기를 치른 뒤 10일 서울월드컵경기장에서 쿠웨이트와 최종 10차전 홈 경기를 벌인다. 2025.05.26. 20hwan@newsis.com&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;홍명보 한국 축구대표팀 감독이 최근 불거진 손흥민의 사생활 문제에 대해 “내가 관여할 부분이 아니다”라며 선을 그었다. &lt;br&gt;&lt;br&gt;홍 감독은 26일 2026 북중미 월드컵 아시아 3차 예선 9~10차전에 나설 26명 대표팀 선수들을 발표했다. 명단에는 주장 손흥민이 변함없이 이름을 올렸다. &lt;br&gt;&lt;br&gt;명단 발표 이후 진행된 기자회견에서 최근 이슈로 떠오른 사생활 문제가 언급됐다. “경기 외적으로도 이슈가 조금 있었는데, 발탁에 어떤 고민이 있었는지 궁금하다”는 질문이 나온 것이다. 여기서 언급된 ‘경기 외적 이슈’가 손흥민이 자신의 아이를 임신했다며 이를 폭로하지 않는 대가로 한 일당에 의해 금품을 요구받는 등 협박당한 사건을 말하는 것으로 해석됐다. &lt;br&gt;&lt;br&gt;이에 홍 감독은 “경기장 외적인 부분에 있어서는 제가 관여할 부분은 아니라고 생각한다”고 딱 잘라 말했다. 아울러 “우승 경기 끝나고 손흥민 선수와 소통했다”며 “그 부분에 있어서 경기 뛰는 것에 큰 문제가 없다는 얘기를 전달받아서 소집을 하게 됐다”고 했다. &lt;br&gt;&lt;br&gt;손흥민은 발 부상 문제도 불거진 상황이다. 지난 22일 유럽축구연맹(UEFA) 유로파리그(UEL) 결승전에 교체 투입돼 토트넘의 우승에 일조했지만, 26일 브라이턴과의 잉글랜드 프리미어리그(EPL) 최종전에는 출전하지 않았다. EPL에선 7경기 연속 결장한 셈이다. 손흥민은 UEL 우승 직후 발 부상을 직접 언급하며 “아직 부상이 완벽하게 나은 건 아니다. 이 경기(결승전)만을 위해 빠르게 복귀한 것”이라며 “심각한 부상이 아니라고 생각을 하시는데, 그런 건 절대 아니다”라고 말한 바 있다. &lt;br&gt;&lt;br&gt;이와 관련한 우려에 홍 감독은 “손흥민이 코치와 커뮤니케이션 결과 큰 문제가 없다고 했다”며 “경기 상황과 컨디션을 고려해서 움직일 수 있도록 하겠다”고 했다. &lt;br&gt;&lt;br&gt;한편 손흥민을 협박한 20대 여성 양모씨와 40대 남성 용모씨는 지난 17일 구속됐다. 손흥민 아이를 임신했다며 손흥민에게서 3억원을 받은 양씨는 공갈 혐의를, 추가로 7000만원을 받아내려 한 용씨는 공갈 미수 혐의를 받는다. 서울중앙지검 형사 3부가 수사를 맡았다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘1000억 지원’ 글로컬大 18곳 예비지정... 3곳은 “대학 합치겠다”</title>
-      <link>https://www.chosun.com/national/education/2025/05/27/X27ZYNNAMZB2BEQMZFPPVT3SJ4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2025/05/27/X27ZYNNAMZB2BEQMZFPPVT3SJ4/</guid>
-      <dc:creator>표태준 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 27 May 2025 03:12:19 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UJEODKPS4WFLJS6KFTSW5M3G5E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;충북대학교에서 2024년 2월 21일 열린 글로컬대학 혁신 이행 협약·전략 포럼에서 이주호 사회부총리 겸 교육부 장관과 참석자들이 기념촬영을 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정부가 혁신 지방대 한 학교당 5년간 1000억원을 지원하는 ‘글로컬 대학’ 예비 지정 평가에서 올해 18곳(25개교)을 선정했다고 27일 밝혔다. 한국해양대·목포해양대 등 3곳이 학교를 ‘통합’하겠다며 도전장을 내 예비 지정됐다. 인력·물자를 공유하는 ‘연합’ 형식이 3곳, 나머지 12곳은 ‘단독’ 형식이다. &lt;br&gt;&lt;br&gt;교육부는 이번 예비 지정된 대학 중 10곳 이내를 오는 9월 최종 선정한다. 글로컬 대학 사업 선정은 올해가 마지막이다. 작년과 재작년 각각 10곳을 선정했다.&lt;br&gt;&lt;br&gt;광주에 있는 사립대인 조선대와 조선간호대가 학교를 통합해 ‘웰메이징 3대(바이오메디·에이지테크·라이프케어) 특성화’ 대학으로 거듭나겠다며 도전했다. 충남대와 공주대도 통합으로 도전장을 냈다. 대학·출연연·기업이 협력하는 ‘응용융합기술원’을 설립해 충청 지역 지산한역 협력 플랫폼을 구축한다는 계획이다.&lt;br&gt;&lt;br&gt;부산에 있는 한국해양대와 전남에 있는 목포해양대도 통합해 ‘1국 1해양대’로 거듭난다는 계획을 내놨다. 목포해양대 캠퍼스는 친환경 선박, 해상 풍력 등에 주력하고, 한국해양대 캠퍼스는 첨단 해양, 미래모빌리티 등 분야에 주력한다는 것이다.&lt;br&gt;&lt;br&gt;연합 형식으로 도전장을 낸 곳은 3곳이다. 동신대·초당대·목포과학대는 지자체와 대학이 ‘연합 이사회’를 구성해 지역 위기 극복에 공동 대응하는 대학으로 거듭나겠다고 했다. 연합 형식인 울산과학대와 연암공과대는 지역 공장 기반 가상현실과 연계된 실습 병행 생산 공장을 활용한다는 계획을, 전주대와 호원대는 체험형 오픈 실습 캠퍼스 ‘케이라이프 스타디움’을 구축한다는 계획을 세웠다.&lt;br&gt;&lt;br&gt;이외 경남대, 경성대, 계명대, 국립금오공과대 , 부산외대, 순천향대, 연암대, 전남대, 제주대, 한남대, 한밭대, 한서대 등은 단독 형식으로 지원해 예비 지정에 선정됐다.&lt;br&gt;&lt;br&gt;설립 유형별로 보면 예비 지정 대학 18개 가운데 사립 일반대가 12개였다. 지역별로는 충남 3곳, 광주·대전·부산 각 2곳, 대구·경북·경남·전북·전남·제주 각 1곳, 초광역 3곳이다.&lt;br&gt;&lt;br&gt;올해가 마지막인 글로컬 대학 사업은 총 55곳(81개교)이 지원해 37곳이 탈락했다. 예비 지정 결과에 이의가 있는 대학은 6월 10일까지 이의신청을 할 수 있고, 그 결과는 6월 중순 확정된다. 예비 지정 대학들은 8월 초까지 지방자치단체, 지역 산업체 등과 함께 혁신기획서에 담긴 과제를 구체화하는 실행계획서를 제출해야 한다. 본지정 평가는 오는 9월 종료된다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>대법 “노사협의회, 안건 없어도 3개월마다 정기회의 열어야”</title>
