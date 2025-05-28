@@ -6,12 +6,33 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>[판결] '故 박원순 피해자 신원 노출' 정철승 변호사, 1심서 징역 1년</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/208398.jpg" alt="4564564565.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;정철승 변호사 《사진=연합뉴스》&lt;/figcaption&gt;   &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;고(故) 박원순 서울시장의 유족 측을 대리하면서 사건 피해자의 신상을 사회관계망서비스(SNS)에 공개한 혐의를 받는&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="6243"&gt;정철승&lt;/span&gt;(55·31기)) 변호사에게 1심에서 실형이 선고됐다.&lt;br /&gt;&lt;br /&gt;서울중앙지법 형사29부(재판장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="1961"&gt;엄기표&amp;nbsp;&lt;/span&gt;부장판사)는 28일 성폭력처벌법상 피해자의 신원·사생활 비밀누설, 정보통신망법상 명예훼손, 개인정보보호법 위반 등 혐의로 기소된 정 변호사에게 징역 1년을 선고했다(&lt;b&gt;2024고합66&lt;/b&gt;). 다만 재판부는 "항소심에서 다툴 여지가 있다고 보인다"며 법정 구속은 하지 않았다.&lt;br /&gt;&lt;br /&gt;재판부는 "정보통신망을 통해 거짓 사실을 드러내 피해자의 명예를 훼손했고, 준강간 사건 피해자를 특정할 수 있는 개인정보인 인사 정보를 알게 됐음에도 동의받지 않고 누설한 사안"이라며 "범행 동기와 내용·파급력에 비춰 죄질이 가볍다고 볼 수 없다"고 밝혔다.&lt;br /&gt;&lt;br /&gt;그러면서 "공적 인물인 고인에 대한 평가는 사후에도 계속될 수 있고 의견을 자유롭게 형성·표현할 수 있지만 고인에 대한 부정적인 여론을 시정하겠다는 명목 아래 특정인의 명예와 사생활을 침해하는 표현까지 허용되는 건 아니다"라고 덧붙였다.&lt;br /&gt;&lt;br /&gt;아울러 "피고인은 사태의 책임을 피해자에게 전가하고 범행을 정당한 행위라 주장할 뿐 사죄나 반성의 태도를 보이지 않았다"며 "오히려 수사와 재판 과정에서 페이스북에 진행 경과를 언급하며 피해자 측을 비방·조롱하는 듯한 게시물을 게시했다"고 지적했다.&lt;br /&gt;&lt;br /&gt;정 변호사는 박 전 시장 유족이 '박원순 성희롱'을 인정한 국가인권위원회 조사 결과를 취소해달라고 낸 소송에서 유족 측을 대리하면서 피해자의 신원 일부를 공개한 혐의로 2023년 6월 기소됐다. &lt;br /&gt;&lt;br /&gt;정 변호사는 2021년 8월 자신의 페이스북에 '박원순 사건 관련 사실관계'라는 제목으로 세 건의 글을 올리면서 박 전 시장 성추행 피해자 신원이 파악될 수 있는 내용을 넣은 혐의를 받았다.</description>
+			<pubDate>Wed, 28 May 2025 03:15:40 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/208398</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/208398</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/208398.jpg</media:thumbnail>
+			<dc:creator>안재명 기자</dc:creator>
+		</item>
+		<item>
+			<title>세종, '2025년 강화된 관세 무역안보조사에 대한 실무 해법' 세미나 개최</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/208397.jpg" alt="45645654644.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;백제흠·백혜영·이정렬 변호사 (왼쪽부터) 《사진=법무법인 세종》&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;b&gt;&lt;a href="https://www.shinkim.com/kor" target="_blank"&gt;법무법인 세종&lt;/a&gt;&lt;/b&gt;(대표변호사&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="1285"&gt;오종한&lt;/span&gt;)은 6월 18일 한국중견기업연합회(회장 최진식)와 서울 종로구 청진동 디타워 세종 23층 세미나실에서 '2025년 강화된 관세 무역안보조사에 대한 실무 해법'을 주제로 세미나를 개최한다.&lt;br /&gt;&lt;br /&gt;이번 세미나는 트럼프 2기 행정부 출범 이후 우회수출 단속 및 차단 등 관세 무역안보조사가 강화되고 있는 가운데, 국내 기업 및 다국적기업의 국제 무역 환경에 대한 이해와 대응역량을 높이기 위해 마련됐다.&lt;br /&gt;&lt;br /&gt;세미나는 조세법 전문가로 세종 조세그룹을 이끌고 있는&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="6456"&gt;백제흠&lt;/span&gt;(60·사법연수원 20기) 변호사의 개회사로 시작된다. 제1세션에서는 제24대 관세청 차장을 역임한 이종우 한국관세무역개발원장이 '2025년 관세청 무역안보조사의 개요'를 주제로 기조강연을 진행한다.&lt;br /&gt;&lt;br /&gt;제2세션은&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="20720"&gt;백혜영&amp;nbsp;&lt;/span&gt;변호사(41·41기)가 '최근 통상규제 관련 관세조사의 주요 쟁점 및 기업의 대응'을 주제로 원산지 조사, 덤핑방지 관세조사 등 대응 실무에 대해 설명한다.&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="20720"&gt;백혜영&amp;nbsp;&lt;/span&gt;변호사는 관세청 행정사무관으로 근무하며 서울본부세관 외환검사관, 세계관세기구 아태지역 정보센터(WCO RILO AP) 부소장을 역임하는 등 관세 및 외환 분야에서 풍부한 실무 경험을 보유했다.&lt;br /&gt;&lt;br /&gt;제3세션은&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="21614"&gt;이정렬&amp;nbsp;&lt;/span&gt;변호사(38·42기)가 '최근 안보통제 관련 관세조사의 주요 쟁점 및 기업의 대응'을 주제로 발표를 진행한다. 전략물자 관세조사, 핵심기술유출 조사 등을 중심으로 다룰 예정이다.&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="21614"&gt;이정렬&amp;nbsp;&lt;/span&gt;변호사는 국내외 주요 기업들의 조세·관세 불복, 세무·관세 조사, 외환심사 및 조세 자문 업무를 성공적으로 수행해왔다.&lt;br /&gt;&lt;br /&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="6456"&gt;백제흠&amp;nbsp;&lt;/span&gt;변호사는 "이번 세미나는 강화된 무역안보조사에 효과적으로 대비할수 있도록 관세 분야 최고의 전문가들이 직접 참여해 현장에서 겪는 리스크와 해법을 깊이 있게 다룰 예정인 만큼 국내외 기업 실무자들의 많은 관심과 적극적인 참여를 부탁드린다"고 말했다.&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/208397.jpg" alt="23423.jpg" /&gt;&lt;/p&gt;</description>
+			<pubDate>Wed, 28 May 2025 02:08:54 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/208397</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/208397</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/208397.jpg</media:thumbnail>
+			<dc:creator>서하연 기자</dc:creator>
+		</item>
+		<item>
 			<title>인하대 AI·데이터법센터, 중국 산동대학과 콜로키움 개최</title>
-			<description>인하대 AI·데이터법센터(센터장 김원오)는 5월 29일 오후 4시 중국 산동대와 인천광역시 미추홀구 용현동 인하대 로스쿨에서 콜로키움을 개최한다.&lt;br /&gt;&lt;br /&gt;이번 콜로키움은 ‘데이터법과 한·중 관계’를 주제로 류슈펑 산동성변호사협회 부회장, 루슈취안 산동대학 상학원 교수, 최옥금 북경 잉커 법률사무소 변호사 등 산동 지역 대표 법조인 및 법학자 등이 참석해 논의하는 자리로 마련됐다.&lt;br /&gt;&lt;br /&gt;개회식은 김원오 센터장의 개회사와 정찬모 인하대 법학연구소장의 환영사로 진행된다. &lt;br /&gt;&lt;br /&gt;사회는 인하대 로스쿨 원장인 손영화 교수가 맡았다. 첫 번째 발표는 ‘데이터 현지화와 중·한 무역‘을 주제로 루슈취안 교수가 데이터 현지화가 양국 무역에 미치는 영향에 대해 발표하며, 정찬모 교수가 토론한다.&lt;br /&gt;&lt;br /&gt;두 번째 발표는 이상우 인하대 AI·데이터법학과 초빙교수가 ‘AI 시대, 데이터 현지화의 도전: 딥시크 사안을 중심으로’를 주제로 진행한다. AI 시대의 도래로 인한 데이터 현지화 패러다임의 변화를 소개하고 양국이 향후 협력해야 할 사항을 다룰 예정이다. 이어 정청광 석성미래인텔리전스과학기술 최고데이터책임자(CDO)가 해당 주제에 대해 토론한다.&lt;br /&gt;&lt;br /&gt;마지막으로&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="6681"&gt;정영진&amp;nbsp;&lt;/span&gt;AI·데이터법학과 교수의 사회로 종합토론을 진행해 한·중 양국의 AI·데이터법을 서로 이해하고 협력의 기회를 모색하기 위한 논의가 이어질 예정이다.&lt;br /&gt;&lt;br /&gt;인하대 AI·데이터법센터 관계자는 “이번 콜로키움은 법조인, 법학자 외에도 산동 지역 데이터 관련 기업 실무가도 대거 참석하여 산업계와 학계가 함께 다양한 각도에서 ‘데이터법과 한·중 관계’를 분석할 예정”이라고 말했다.</description>
+			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/thumb/180/208396.jpg" alt="345345.jpg" style="opacity: 0;" height="10px" /&gt;&lt;/p&gt;&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/thumb/180/208396.jpg" alt="45645645645.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;인하대 AI·데이터법센터(센터장 김원오)는 5월 29일 오후 4시 중국 산동대와 인천광역시 미추홀구 용현동 인하대 로스쿨에서 콜로키움을 개최한다.&lt;br /&gt;&lt;br /&gt;이번 콜로키움은 ‘데이터법과 한·중 관계’를 주제로 류슈펑 산동성변호사협회 부회장, 루슈취안 산동대학 상학원 교수, 최옥금 북경 잉커 법률사무소 변호사 등 산동 지역 대표 법조인 및 법학자 등이 참석해 논의하는 자리로 마련됐다.&lt;br /&gt;&lt;br /&gt;개회식은 김원오 센터장의 개회사와 정찬모 인하대 법학연구소장의 환영사로 진행된다. &lt;br /&gt;&lt;br /&gt;사회는 인하대 로스쿨 원장인 손영화 교수가 맡았다. 첫 번째 발표는 ‘데이터 현지화와 중·한 무역‘을 주제로 루슈취안 교수가 데이터 현지화가 양국 무역에 미치는 영향에 대해 발표하며, 정찬모 교수가 토론한다.&lt;br /&gt;&lt;br /&gt;두 번째 발표는 이상우 인하대 AI·데이터법학과 초빙교수가 ‘AI 시대, 데이터 현지화의 도전: 딥시크 사안을 중심으로’를 주제로 진행한다. AI 시대의 도래로 인한 데이터 현지화 패러다임의 변화를 소개하고 양국이 향후 협력해야 할 사항을 다룰 예정이다. 이어 정청광 석성미래인텔리전스과학기술 최고데이터책임자(CDO)가 해당 주제에 대해 토론한다.&lt;br /&gt;&lt;br /&gt;마지막으로&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="6681"&gt;정영진&amp;nbsp;&lt;/span&gt;AI·데이터법학과 교수의 사회로 종합토론을 진행해 한·중 양국의 AI·데이터법을 서로 이해하고 협력의 기회를 모색하기 위한 논의가 이어질 예정이다.&lt;br /&gt;&lt;br /&gt;인하대 AI·데이터법센터 관계자는 “이번 콜로키움은 법조인, 법학자 외에도 산동 지역 데이터 관련 기업 실무가도 대거 참석하여 산업계와 학계가 함께 다양한 각도에서 ‘데이터법과 한·중 관계’를 분석할 예정”이라고 말했다.</description>
 			<pubDate>Wed, 28 May 2025 02:05:35 -0000</pubDate>
 			<category>news</category>
 			<link>https://www.lawtimes.co.kr/news/208396</link>
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/208396</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/208396.jpg</media:thumbnail>
 			<dc:creator>서하연 기자</dc:creator>
 		</item>
 		<item>
@@ -220,26 +241,6 @@
 			<link>https://www.lawtimes.co.kr/news/208390</link>
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/208390</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/208390.jpg</media:thumbnail>
-			<dc:creator>조한주 기자</dc:creator>
-		</item>
-		<item>
-			<title>대전변회, '변호사와 함께하는 아름다운 토요일' 나눔 행사</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/208388.jpg" alt="208388.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: left; font-size:14px; line-height: 1.6em"&gt;24일 나눔행사에 참여한 최진영 회장(뒷줄 왼쪽에서 다섯 번째) 등 대전변회 관계자들. 대전변회 제공&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;대전지방변호사회(회장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="5161"&gt;최진영&lt;/span&gt;)은 5월 24일 대전 서구 용문동 아름다운가게 탄방점에서 ‘제12회 변호사와 함께하는 아름다운 토요일’ 행사를 열었다.&lt;br /&gt;&lt;br /&gt;2014년부터 시작된 ‘아름다운 토요일’은 대전변회의 대표적인 사회공헌 활동이다. 대전변회 소속 변호사들이 재활용과 재사용을 실천하며, 가정이나 사무실에서 사용 가능하지만 활용 빈도가 낮은 물품을 모아 기증·판매하는 행사다. 대전변회 관계자는 “물건에는 새 생명을, 소외된 이웃에게는 희망을 전하며 나눔과 순환을 실천하는 행사”라고 설명했다.&lt;br /&gt;&lt;br /&gt;이번 행사에서는 회원들이 약 330점의 물품을 기증했고, 현금 기부를 포함한 당일 판매 수익금 약 850만 원 전액을 대전변회 이름으로 기부했다.&lt;br /&gt;&lt;br /&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="5161"&gt;최진영&lt;/span&gt;(57·사법연수원 31기) 대전변회 회장은 “자원의 재순환과 나눔의 가치를 되새길 수 있는 뜻깊은 활동이었다”며 “회원들의 물품 기부와 적극적인 참여 덕분에 12회째를 맞은 아름다운 토요일 행사가 성황리에 마무리될 수 있었다”고 소감을 밝혔다.</description>
-			<pubDate>Tue, 27 May 2025 12:19:53 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/208388</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/208388</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/208388.jpg</media:thumbnail>
-			<dc:creator>조한주 기자</dc:creator>
-		</item>
-		<item>
-			<title>대한변호사협회-서울지방변호사회 ‘미래전략센터’ 출범</title>
-			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/208383.jpg" alt="208383.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;대한변호사협회(협회장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="32148"&gt;김정욱&lt;/span&gt;)와 서울지방변호사회(회장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="10599"&gt;조순열&lt;/span&gt;)가 5월 27일 서울 서초구 서초동 대한변협회관 3층에서 ‘미래전략센터’ 출범식을 열었다.&lt;br /&gt;&lt;br /&gt;미래전략센터는 변호사법이 규정한 변호사의 공익적 사명을 실현하기 위한 제도적·입법적 발전 방향을 모색하고, 국회 및 정부기관과의 긴밀한 소통과 협력을 강화하기 위해 설립했다. 대한변협과 서울변회가 공동으로 운영하며, 센터장에는&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="36694"&gt;김상욱&lt;/span&gt;(42·변호사시험 8회) 대한변협 부협회장이 선임됐다.&lt;br /&gt;&lt;br /&gt;센터는 운영위원회 외에도 전국 지방변호사회와 회원이 참여하는 정책자문단을 구성해 각 지방변회와의 효율적인 협력체계를 구축하고, 입법 활동을 적극적으로 지원할 계획이다.&lt;br /&gt;&lt;br /&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="32148"&gt;김정욱&lt;/span&gt;(46·2회) 대한변협회장은 “보다 바람직한 변호사 제도의 확립을 위해 부당한 관행과 법률상의 문제들을 개선해 나가겠다”고 말했다.&lt;br /&gt;&lt;br /&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="10599"&gt;조순열&lt;/span&gt;(53·사법연수원 33기) 서울변회장은 “미래전략센터는 모든 변호사가 변호사로서의 역할에 충실하며 함께 상생할 수 있는 방안을 마련하는 데 토대가 될 것”이라고 말했다. &lt;br /&gt;</description>
-			<pubDate>Tue, 27 May 2025 12:18:47 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/208383</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/208383</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/208383.jpg</media:thumbnail>
 			<dc:creator>조한주 기자</dc:creator>
 		</item>
 	</channel>
