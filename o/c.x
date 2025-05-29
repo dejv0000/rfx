@@ -13,6 +13,51 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>비화폰 서버 확보 완료한 경찰…검찰은 뒤늦게야 “우리도 받겠다” 신경전</title>
+      <link>https://www.chosun.com/national/national_general/2025/05/29/ME4Z3J53XRDUDOVCZD4FBAWYII/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/05/29/ME4Z3J53XRDUDOVCZD4FBAWYII/</guid>
+      <dc:creator>김명진 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 29 May 2025 13:05:53 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EGIYMMUYFYR65YTDRDOFYWYC4Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서대문구 경찰청 국가수사본부 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰 국가수사본부 비상계엄 특별수사단이 대통령경호처와 협의를 통해 비화폰 서버 기록을 임의 제출받는 현장에 검찰 수사팀이 등장하며 한때 대치하는 모습이 나타났다.&lt;br&gt;&lt;br&gt;29일 경찰과 법조계에 따르면 이날 경찰이 비화폰 서버 기록을 임의제출받는 현장에 검찰 비상계엄 특별수사본부 수사팀이 모습을 드러냈다. 수사팀 소속 군검사 등은 경호처로부터 임의제출 협조를 받았다면서 비화폰 서버와 일부 방범카메라(CCTV) 영상을 자신들도 전달받겠다는 의사를 밝힌 것으로 전해졌다.&lt;br&gt;&lt;br&gt;경찰 수사팀은 경호처에서 자료를 제출 받는 과정에서 이런 상황이 연출된 것에 대해 반발한 것으로 전해졌다. 경찰이 수달 간 경호처와 수차례 협의하는 과정에서 확보한 자료이고, 자료를 받는 과정에서 검찰이 끼어드는 것은 부적절하다는 취지로 항의한 것으로 전해졌다. 경찰 관계자는 “검찰이 준비도 없이 들이닥쳤는데 결국 빈손으로 간 것으로 안다”고 했다.&lt;br&gt;&lt;br&gt;한편 경찰은 이날부로 비화폰 서버를 모두 제출받았다고 밝혔다. 여기에는 내란 혐의와 관련해 2024년 3월 1일부터 이뤄진 모든 통화 기록 등이 포함된다. 경찰은 현재 비상계엄 당일 국무회의장과 집무실 복도 CCTV 영상을 임의제출 받아 확보했고, 삼청동 안가 출입 CCTV를 제출받는 절차도 진행하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>검찰 ‘尹 비화폰’ 자료 확보 시도…“경호처와 협의 중”</title>
+      <link>https://www.chosun.com/national/court_law/2025/05/29/G2WQ7RI3KRHEFPOV6V7ZN6CR5A/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/05/29/G2WQ7RI3KRHEFPOV6V7ZN6CR5A/</guid>
+      <dc:creator>박강현 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 29 May 2025 12:43:22 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TTSHRVL54FJAZDHPXAUGFMKR2Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;검찰 관련 이미지. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘12·3 비상계엄’ 사태를 수사하는 검찰이 윤석열 전 대통령이 사용한 ‘비화폰(보안 휴대전화)’ 서버 기록 등 사건 관련 자료를 확보하기 위해 대통령경호처(경호처)와 협의 중인 것으로 전해졌다.&lt;br&gt;&lt;br&gt;29일 법조계에 따르면 검찰 비상계엄 특별수사본부(본부장 박세현 서울고검장)는 비화본 서버 기록, 실물 등 자료 임의제출 여부를 두고 경호처와 협의 중이다. 검찰은 아직 이 같은 자료들을 받지는 못한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;윤 전 대통령은 계엄 당일 비화폰으로 곽종근 전 특수전사령관, 이진우 전 수도방위사령관 등 현장 사령관들에게 전화해 지시를 내린 것으로 알려졌다. 하지만 비화폰은 일반 휴대전화와 달리 통신사에 통화 기록이 남지 않고, 통화 녹음도 불가능하다. &lt;br&gt;&lt;br&gt;검찰은 향후 재판 과정에서 윤 전 대통령의 혐의 입증을 위해 관련 자료가 필요하다고 보고 있다. 윤 전 대통령 등 비상계엄 사태 주요 관련자들의 비화폰 통화 기록을 확인해 당시 상황을 파악해야 한다는 것이다.&lt;br&gt;&lt;br&gt;이에 따라 검찰은 지난 23일 윤 전 대통령의 내란 혐의 사건을 담당하는 재판부인 서울중앙지법 형사25부(재판장 지귀연)에 사건 관계자들의 비화폰 서버에 대한 압수 수색 영장 발부 필요성을 촉구하는 취지의 의견서를 제출하기도 했다. &lt;br&gt;&lt;br&gt;통상 수사가 진행 중일 때 검찰은 법원에 압수 수색 영장을 청구한 뒤, 이를 발부 받아 집행한다. 다만 이미 기소된 사건에 대해서는 검사가 압수 수색 영장을 청구할 수 없기 때문에 검찰이 재판부에 영장 발부를 요청한 것으로 파악됐다. &lt;br&gt;&lt;br&gt;향후 검찰이 비화폰 기록 등을 확보하면 비상계엄을 둘러싼 정황들이 보다 구체화될 수 있을 것으로 전망된다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>하이브 압수수색... ‘방시혁 4000억’·직원 부정거래 동시 수사</title>
+      <link>https://www.chosun.com/national/national_general/2025/05/29/63GMDKSTKVEKVKYME5K42ATEMQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/05/29/63GMDKSTKVEKVKYME5K42ATEMQ/</guid>
+      <dc:creator>고유찬 기자, 구동완 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 29 May 2025 12:03:18 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JLPPUFCDX7CH6LNPSGLREH2PUM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 용산구 하이브 사옥 앞으로 시민이 지나가고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰과 경찰이 엔터테인먼트 기업 하이브에 대해 동시에 수사에 착수했다. 검찰은 미공개 정보를 이용해 수억원대 이득을 챙긴 혐의를 받는 하이브 직원을 수사하는 과정에서 하이브 본사를 압수수색했으며, 경찰은 방시혁 하이브 의장의 사기적 부정거래 의혹과 관련해 별도로 압수수색 영장을 신청했다.&lt;br&gt;&lt;br&gt;29일 법조계에 따르면 서울남부지검은 자본시장법 위반 혐의로 하이브 직원 A씨를 수사 중이며, 지난 27일 서울 용산구에 위치한 하이브 본사를 압수수색했다. A씨는 지난 2021년 1월, 당시 빅히트엔터테인먼트였던 하이브가 YG플러스에 투자할 예정이라는 미공개 정보를 사전에 입수하고 해당 주식을 사들여 약 2억4000만원의 부당이득을 챙긴 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;경찰도 하이브를 둘러싼 별도의 의혹을 수사 중이다. 서울경찰청 금융범죄수사대는 전날 서울남부지검 증권범죄합동수사단에 하이브 본사에 대한 압수수색 영장을 신청했다. 경찰은 방시혁 하이브 의장이 2019년 말 투자자들에게 기업공개(IPO) 계획이 없다고 말한 뒤, 실제로는 상장을 추진하고 자신이 보유한 지분을 지인이 설립한 사모펀드(PEF)에 매각한 정황을 포착했다.&lt;br&gt;&lt;br&gt;방 의장은 해당 PEF와 지분 매각 차익의 30%를 공유하는 계약을 맺은 것으로 알려졌으며, 이 계약은 증권신고서에 명시되지 않았다. 이후 하이브가 상장하며 방 의장은 약 4000억원을 정산받은 것으로 전해졌다.&lt;br&gt;&lt;br&gt;금융감독원도 방 의장의 사기적 부정거래 혐의와 관련한 정황을 확인하고, 조만간 해당 사건을 검찰에 수사 의뢰할 방침인 것으로 알려졌다. 자본시장법상 위반 행위로 얻은 이익이 50억원 이상일 경우 무기징역 또는 5년 이상의 징역에 처할 수 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>檢, 강제추행·뇌물수수 혐의 김진하 양양군수에 징역 6년 구형</title>
+      <link>https://www.chosun.com/national/regional/gangwon/2025/05/29/CN6KTFL3QVFJVHAPTCVWA5G2AQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/gangwon/2025/05/29/CN6KTFL3QVFJVHAPTCVWA5G2AQ/</guid>
+      <dc:creator>김석모 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 29 May 2025 10:49:32 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UGTLB3XEPTRPSKAFSSJQAXIPWA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;여성 민원인에게 금품을 받고 강제추행한 혐의를 받는 김진하 양양군수. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;여성 민원인으로부터 금품을 받고 강제추행한 혐의를 받는 김진하 강원 양양군수에게 검찰이 징역 6년을 구형했다.&lt;br&gt;&lt;br&gt;29일 춘천지법 속초지원 형사부(지원장 김종헌) 심리로 열린 김 군수의 부정 청탁 및 금품 등 수수의 금지에 관한 법률 위반과 뇌물수수, 강제추행 혐의 사건 결심공판에서 검찰은 징역 6년과 벌금 4000만원을 내려달라고 법원에 요청했다.&lt;br&gt;&lt;br&gt;검찰은 “3선 지방자치단체장인 피고인이 군수의 책임과 소임을 다하지 않은 채 민원인 A씨로부터 장기간에 걸쳐 현금 및 고가의 안마 의자를 받았다”면서 “A씨를 추행하고 나아가 그녀로부터 성관계를 통한 성적 이익까지 받은 초유의 사안”이라고 구형 이유를 밝혔다.&lt;br&gt;&lt;br&gt;검찰은 이어 “피고인은 군수실과 A씨의 영업장에서 현금으로 뇌물을 주고받고, A씨와 성관계를 통해 법과 원칙에 따라 공정하고 투명하게 처리돼야 할 행정 업무의 중요성과 가치를 스스로 짓밟았다”면서 “그런데도 피고인은 범행을 전부 부인하면서 전혀 반성하지 않고 있고, 수사기관과 구속적부심에서 일부 자백했던 범행도 ‘석방을 위해 허위 자백한 것’이라며 범행을 부인하는 등 범행 후 정황도 좋지 않다”고 했다.&lt;br&gt;&lt;br&gt;김 군수는 이날 최후 진술을 통해 “10년간 양양군수로 봉사할 수 있도록 지지해주신 군민 여러분께 죄송하다”면서 “A씨에게 유혹되어 불미스러운 일이 발생했지만, 공적으로는 모든 일을 적법한 절차를 거쳐 처리했고, 그 어떤 대가도 받지 않았다”고 했다. 김 군수는 재판 과정에서 자신을 둘러싼 혐의를 줄곧 부인해왔다. 이날도 A씨와는 “내연관계였다”고 밝히며 성관계에 강제성이 없었다고 주장했다.&lt;br&gt;&lt;br&gt;검찰은 이날 김 군수와 함께 뇌물공여와 성폭력범죄의 처벌 등에 관한 특례법상 촬영물 등 이용 협박 등 혐의를 받는 A씨에게는 징역 4년을 구형했다. A씨와 공모해 김 군수를 협박한 혐의(성폭력범죄의 처벌 등에 관한 특례법상 촬영물 등 이용 협박)를 받는 박봉균 양양군의원에게는 징역 3년을 구형했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>세무 조사 무마 대가로 수천만원 챙긴 전현직 세무공무원들...1심서 징역형</title>
+      <link>https://www.chosun.com/national/court_law/2025/05/29/FSJLP4YBTRGLPBWSMO732BSIMY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/05/29/FSJLP4YBTRGLPBWSMO732BSIMY/</guid>
+      <dc:creator>김은경 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 29 May 2025 10:53:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/R2UIR6TKP32K22HQNRNQ4JHIEI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 법원종합청사 /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;세무 조사를 유리하게 해주는 명목으로 의약품 판매업체로부터 수천만원의 현금을 받아 챙긴 전·현직 세무공무원들이 1심에서 실형을 선고받았다. 뇌물을 건넨 업체 대표에게는 징역형 집행유예가 선고됐다.&lt;br&gt;&lt;br&gt;서울중앙지법 형사23부(재판장 오세용)는 29일 알선수재 혐의로 기소된 지방국세청 공무원 조모씨에게 징역 2년 6개월을 선고하고 9000만원의 추징을 명령했다. 이밖에 국세청 내 과세사실판단 자문위원회 구성을 업체에 유리하게 해주거나 내부 정보를 전달해주는 등의 명목으로 500만~5400만원을 받은 전·현직 세무공무원 3명에겐 징역 6개월에 집행유예 1년~징역 1년이 선고됐다. &lt;br&gt;&lt;br&gt;재판부는 “고도의 청렴성이 요구되는 세무공무원으로서 뇌물수수나 알선수재 등 중대 범죄를 저질렀다”며 “사회적 책임에 상응하는 엄중한 처벌이 불가피하다”고 했다.&lt;br&gt;&lt;br&gt;이들에게 뇌물·알선 청탁으로 현금을 건넨 중견 의약품 판매업체 대표 최모씨와 업체의 세무대리인으로서 공여에 가담한 공인회계사 임모씨는 각각 징역 6개월에 집행유예 1년을 받았다. 재판부는 업체 대표 최씨에 대해 “불법 비자금을 활용해 범행을 했고 공여 금액이 적지 않다”고 했다.&lt;br&gt;&lt;br&gt;앞서 최씨 등은 2014년부터 지난해까지 10년에 걸쳐 225억원의 불법 비자금을 조성한 혐의로 기소됐다. 검찰 조사에 따르면 하위 판매대행업체들과 공모해 실제 거래가 없었는데도 거래를 한 척 대금을 지불한 뒤 수수료를 제외한 현금을 돌려받는 수법을 썼다.&lt;br&gt;&lt;br&gt;이 과정에서 세무 조사를 무마하려고 공무원들에게 현금을 공여했고, 공무원들은 돈을 받고 세무 조사에 관해 자문해주거나 조잡한 수준의 소명 자료를 받고도 추가로 보완을 요구하지 않는 등 조사가 원만하게 종결되도록 관여한 것으로 파악됐다. 심지어 적극적으로 뇌물을 요구하기도 한 것으로 조사됐다. 재판부는 “뇌물 수수와 알선 수죄 등으로 세무 조사의 공정성과 이에 대한 사회의 신뢰를 크게 저해했다”고 지적했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>‘김기현 사퇴’ 관련 방통위 MBC 라디오 징계에..법원 “징계 취소해라”</title>
       <link>https://www.chosun.com/national/court_law/2025/05/29/SHNUGLLF3JBP7FGHANRNNJNABY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/05/29/SHNUGLLF3JBP7FGHANRNNJNABY/</guid>
@@ -787,55 +832,6 @@
       </media:content>
     </item>
     <item>
-      <title>[오늘의 운세] 5월 29일 목요일 (음력 5월 3일 戊戌)</title>
-      <link>https://www.chosun.com/national/national_general/2025/05/28/YNWX6UJUIVEMDIDYZMWNOQWENM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/05/28/YNWX6UJUIVEMDIDYZMWNOQWENM/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 28 May 2025 08:00:00 +0000</pubDate>
-      <content:encoded>&lt;p&gt;&lt;div class="chosun_unse"&gt;&lt;iframe src="https://image.chosun.com/arc/unse_iframe.html" frameborder="0" scrolling="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;style&gt;.chosun_unse{position:relative;width:100%;height:350px;box-sizing:border-box}.chosun_unse&gt;iframe{position:absolute;top:0;left:0;width:100%;height:100%;overflow-y:hidden}@media all and (max-width:1024px){.chosun_unse{height:350px}}@media all and (max-width:1023px){.chosun_unse{height:350px}}@media all and (max-width:528px){.chosun_unse{height:270px}}@media all and (max-width:384px){.chosun_unse{height:190px}}&lt;/style&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;p&gt;&lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani01.gif"&gt;  	&amp;nbsp;	36년생 뇌·심혈관 계통 질환 주의. 48년생 다툼은 예방하라. 이겨본들 기분만 찜찜. 60년생 남쪽에 사기 감도니 피하는 게 상책. 72년생 요행·사행 관련은 밑 빠진 독 물 붓기. 84년생 분에 넘치는 명예가 화 부를 수도. 96년생 누런색과 숫자 5, 10 행운 부른다.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt;  &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani02.gif"&gt;	&amp;nbsp;	37년생 차랑 이동에 각별한 주의 요구. 49년생 기회 왔으니 시도해 봐도 무방. 61년생 앉아서 준 돈 서서라도 받으면 다행. 73년생 관계는 많은 이보다 진심 통하는 한두 사람이면 충분. 85년생 투자 방향에 재검토 필요한 시기. 97년생 어려움을 겪어야 기개 나타난다.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani03.gif"&gt;	&amp;nbsp;	38년생 걱정이 반찬이면 상다리 부러지겠다. 50년생 성자(聖者) 아닌 이상 실수는 늘 있는 법. 62년생 자동차 등 노상(路上) 안전사고를 조심. 74년생 상갓집은 가급적 멀리하는 게 상책. 86년생 동료가 시기하니 주위 경계하라. 98년생 잊고 지낸 인연 찾아보면 좋을 듯.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani04.gif"&gt;	&amp;nbsp;	27년생 하루가 일 년을 좌우 못 한다. 39년생 함께 하려거든 의심 마라. 51년생 빨리 다는 화로가 빨리 식는 법. 63년생 농조(籠鳥) 하늘로 나는구나. 75년생 대가 크면 실망도 큰 법. 87년생 제 먹긴 싫고 남 주긴 아깝고. 99년생 친구가 시기, 주위를 경계.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani05.gif"&gt;	&amp;nbsp;	28년생 문서와 도장을 신중히. 40년생 부뚜막 옆에서도 굶는 수 있다. 52년생 한번 깨진 신뢰는 복원이 쉽지 않다. 64년생 논란 있는 일에 관여는 금물. 76년생 규칙적인 운동으로 삶의 활력을. 88년생 잰걸음으로 부지런히 서둘러야. 00년생 전반적 운세는 반흉반길.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani06.gif"&gt;	&amp;nbsp;	29년생 다급할수록 여유롭게 대처해야. 41년생 새로운 삶을 개척하기에 늦지 않다. 53년생 푸른 옷 입은 사람을 조심하라. 65년생 오랜 친구와의 언쟁을 주의. 77년생 의욕은 충만하되 과욕은 금물. 89년생 서쪽 대문은 귀인이 오는 길목. 01년생 주거의 안정이 실현되는 시기.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani07.gif"&gt;	&amp;nbsp;	30년생 문제 있다면 가족에게 해답 있다. 42년생 머지않아 보상이 따를 듯. 54년생 소화기 계통 질환을 주의. 66년생 세상은 먼저 날 버리지 않는다. 78년생 일꾼을 박대하면 당일로 망하는 법. 90년생 목적 없는 시간은 공허. 02년생 제 발등을 제가 찍는 수도.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani08.gif"&gt;	&amp;nbsp;	31년생 움츠리지 말고 적극 실행하라. 43년생 아랫사람과의 다툼은 손실 초래. 55년생 말로 낸 상처는 말이 치료약. 67년생 백두산도 앞동산이 가릴 수 있다. 79년생 두뇌 회전이 활발해지는 시기. 91년생 작은 실수는 덮고 넘어가라. 03년생 한도 내에서의 투자는 좋다.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani09.gif"&gt;	&amp;nbsp;	32년생 중요한 일 처리는 오전보다 오후에. 44년생 외부 활동으로 이익이 창출. 56년생 포기도 또 다른 선택. 68년생 침착성과 안정을 잃지 말아야. 80년생 여유로운 마음가짐이 행복 부른다. 92년생 능력에 맞게 처신해야 후회 없다. 04년생 예감과 꿈이 잘 맞는 하루.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani10.gif"&gt;	&amp;nbsp;	33년생 망망대해에서 나침반 잃은 격. 45년생 매가 꿩을 잡아주고 싶어 잡아주나. 57년생 자신의 말만 하지 말고 상대방 의견을 물어라. 69년생 헛된 욕심에 무리수는 두지 말아야. 81년생 매가 꿩을 잡아주고 싶어 잡아주나. 93년생 직장과 주거 변동 많은 시기.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani11.gif"&gt;	&amp;nbsp;	34년생 이미 지나간 일 미련 둘 것 없다. 46년생 요령과 잔꾀로 해결될 일 아니다. 58년생 희생 따라도 돌파하는 자세 필요. 70년생 기도와 수행으로 마음과 정신을 맑게 하라. 82년생 거지끼리 동냥 바가지 깨서야 쓰나. 94년생 그만둘 때 그만두더라도 끝까지 최선.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani12.gif"&gt;	&amp;nbsp;	35년생 내 편리만 고집하면 미움 받을 수도. 47년생 오해 살 만한 언행은 절대 삼가라. 59년생 새 문서로 갈아타는 게 좋을 듯. 71년생 적은 멀리 있지 않다. 등 뒤 살피도록. 83년생 이 덕(德) 저 덕 모두 하늘 덕임을 알라. 95년생 떡 주무르듯 주도적으로 끌고 갈 듯.	&lt;br&gt;
-&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;한소평 금오산방 강주  &lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;			&lt;/p&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/4MTFRYWHBJA7XOKKF7G7JPLX5U.png?auth=4651b5b20b5d4901424204d1456faee02e4b064ff509db23945deabf4404c8ef&amp;smart=true&amp;width=800&amp;height=420" type="image/png" height="420" width="800"/>
-    </item>
-    <item>
-      <title>[단독] 정부, 복귀 전공의에 ‘인턴 수련 3개월 단축’ 혜택 주기로</title>
-      <link>https://www.chosun.com/national/welfare-medical/2025/05/28/K7NGHD75R5BSXDU7JANFKRJSAQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/05/28/K7NGHD75R5BSXDU7JANFKRJSAQ/</guid>
-      <dc:creator>오유진 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 28 May 2025 07:19:43 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XWP5OTELLG7TJNGZPBZVUN75VI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 19일 서울의 한 대학 병원에서 의료진이 이동하는 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정부가 사직 전공의(인턴·레지던트)들에게 5월 복귀 특례를 준 데 이어, 복귀 인턴의 수련 기간도 3개월 단축하기로 했다.&lt;br&gt;&lt;br&gt;28일 보건복지부는 전국 수련 병원장에게 ‘2025년도 5월 추가 모집 인턴 수련 기간 관련 안내’ 공문을 발송해 “6월 1일 자로 인턴 수련을 개시해 이듬해 2월 28일까지 인턴 수련을 완료하는 경우 인턴 이수를 인정한다”고 밝혔다.&lt;br&gt;&lt;br&gt;당초 이번 추가 모집을 통해 복귀하는 인턴의 수련 종료 시점은 내년 5월 31일이었다. 이들이 상반기 모집에 참여하지 않으면서 수련 일정이 3개월 밀렸다.&lt;br&gt;&lt;br&gt;이에 대한수련병원협의회, 대한의학회 등 5개 의료 단체가 전공의 추가 모집 발표 직후 “인턴 수련 기간을 3개월 단축해 내년 3월 레지던트 모집에 차질이 없도록 해달라”고 건의했는데, 정부가 이를 수용한 것이다.&lt;br&gt;&lt;br&gt;한편, 전날 전공의 추가 모집을 마감할 예정이던 서울 주요 ‘빅5’ 병원들은 모집 기한을 연장하기로 했다. 복귀를 고민하는 전공의들에게 시간을 더 주기 위한 조치다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>음주운전한 울산 현직 경찰관 직위해제...면허 정지 수준</title>
-      <link>https://www.chosun.com/national/regional/2025/05/28/DPH2D2VX5ZAHJOGG22W37JGKWA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/05/28/DPH2D2VX5ZAHJOGG22W37JGKWA/</guid>
-      <dc:creator>울산=김주영 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 28 May 2025 07:28:35 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UDEZB3X5F5BUKXATKNBEL2Y3JQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;울산동부경찰서. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;울산에서 음주운전을 하던 현직 경찰관이 적발돼 직위해제됐다.&lt;br&gt;&lt;br&gt;울산동부경찰서는 울산 동구 한 지구대 소속 50대 A경감을 도로교통법상 음주운전 혐의로 입건하고 직위 해제했다고 28일 밝혔다.&lt;br&gt;&lt;br&gt;A경감은 지난 26일 오후 9시쯤 혈중알코올농도 면허정지 수준으로 음주운전을 하다가 경찰 단속에 적발됐다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “조사를 마치는대로 징계위원회를 열어 A경감에 대한 내부 징계 수위를 결정할 예정”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>마스터키로 문 따고 투숙객 성폭행… 호텔 매니저 징역 7년</title>
-      <link>https://www.chosun.com/national/national_general/2025/05/28/PRJ3YGMWNBBOTBM5MWPNTK2ZZY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/05/28/PRJ3YGMWNBBOTBM5MWPNTK2ZZY/</guid>
-      <dc:creator>문지연 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 28 May 2025 07:11:12 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JHWE22LGVBCVHJU35XWRGTUTZU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 중앙지방법원 로비에 법원 마크가 밝게 빛나고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;마스터키로 객실에 침입해 투숙객을 성폭행한 40대 호텔 매니저에게 법원이 중형을 선고했다.&lt;br&gt;&lt;br&gt;청주지법 형사11부(부장판사 태지영)는 성폭력범죄처벌법상 주거침입준강간 혐의로 구속 기소된 A(43)씨에게 징역 7년을 선고했다고 28일 밝혔다. 성폭력 치료 프로그램 80시간 수강과 아동·청소년 및 장애인 관련 기관 취업 제한 10년도 함께 명령했다.&lt;br&gt;&lt;br&gt;충북 보은군 한 호텔에서 매니저로 일하던 A씨는 작년 11월 4일 새벽 투숙객 B씨가 묵던 방에 들어가 자고 있던 B씨를 성폭행한 혐의로 재판에 넘겨졌다. A씨는 전날 밤 B씨가 술에 취해 방으로 향하는 모습을 지켜본 뒤 마스터키를 이용해 문을 따고 들어가 범행한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;재판부는 “숙박시설 직원으로서 손님을 보호할 의무가 있었음에도 범행해 죄질이 좋지 않다”며 “피해자로부터 용서받지 못했고 피해자가 엄벌을 탄원하고 있는 점 등을 고려했다”고 양형 이유를 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>‘공시의무 위반’ 디스커버리자산운용, 증선위 제재 취소소송 2심도 패소</title>
       <link>https://www.chosun.com/national/court_law/2025/05/28/PPLJVUGS6VCSDES2ALXWL6CACY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/05/28/PPLJVUGS6VCSDES2ALXWL6CACY/</guid>
@@ -924,15 +920,6 @@
       <description/>
       <pubDate>Wed, 28 May 2025 02:22:03 +0000</pubDate>
       <content:encoded>서울대 중앙도서관에서 “시진핑 자료실이 왜 있느냐”며 삼단봉을 들고 난동을 부린 40대 남성이 구속 상태로 재판에 넘겨진 것으로 27일 확인됐다. 전국 최대 검찰청인 서울중앙지검이 ‘공공장소 흉기소지죄’를 적용해 기소한 첫 사례다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UCISZMOF7ARJJPOPB6PIJC3UBM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울대 도서관 내 시진핑 주석 기증도서 자료실의 모습./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 서울중앙지검 형사3부(부장 최순호)는 지난 14일 홍모씨를 공공장소 흉기소지죄로 구속 기소했다. 홍씨는 지난 2일 서울대 중앙도서관에서 주변 사람들을 향해 욕하면서 직원들을 때릴 듯이 위협한 것으로 조사됐다. 이때 삼단봉을 휘둘러 공공장소 흉기소지죄가 적용됐다. 서울대 중앙도서관은 박근혜 정부 시기이던 지난 2015년 시진핑 중국 주석의 서울대 방문을 기념해 기증도서 전시 등을 위한 시진핑 기증도서 자료실을 열었다.&lt;br&gt;&lt;br&gt;중앙지검은 홍씨를 기소한 날 공공장소 흉기소지 혐의로 두 명을 추가로 재판에 넘겼다고 한다. 형사2부(부장 조아라)는 노숙인 지원 시설인 서울역 희망지원센터 대기실에서 공업용 커터칼을 들고 배회하면서 자해할 것처럼 행동한 한모씨를, 형사7부(부장 권성희)는 서울 중구 노상에서 접이식 톱을 들고 다니며 주변 사람들에게 욕한 박모씨를 기소했다.&lt;br&gt;&lt;br&gt;공공장소 흉기소지죄는 지난달 8일부터 시행되고 있다. 그간 폭력행위처벌법, 경범죄처벌법, 총포화약법 등만으로는 흉기를 갖고 배회하면서 공포감을 주는 행위를 처벌하는 것이 어렵다는 문제가 법조계에서 제기됐다. 그러던 중 2023년 신림역 흉기 난동, 서현역 흉기 난동 사건 등 흉기를 이용한 이상동기 강력범죄가 잇따르면서 법 개정요구가 잇따랐고, 지난달 개정된 법이 시행된 것이다. 공공장소 흉기소지죄는 ‘정당한 이유 없이 도로‧공원 등 불특정 또는 다수의 사람이 이용하거나 통행할 수 있는 공공장소에서 사람의 생명, 신체에 위해를 가할 수 있는 흉기를 소지하고 이를 드러내어 공중에게 불안감 또는 공포심을 일으킨 경우’ 적용할 수 있다.&lt;br&gt;&lt;br&gt;법 시행 직후 효과가 나타나고 있다는 것이 검찰 안팎의 평가다. 대검찰청에 따르면, 법 시행 첫 달인 지난 4월 공공장소 흉기소지죄로 경찰에서 송치 받은 피의자는 모두 10명이다. 제주지검은 시행 2주 만인 지난달 22일 전국 검찰청 중 최초로 공공장소 흉기소지죄를 적용해 40대 A씨를 재판에 넘겼다. A씨는 지난달 10일 200명이 모인 행사장 인근에서 21cm 길이의 흉기를 들고 배회하다 현행범으로 체포됐고, 지난 27일 첫 재판에서 혐의를 모두 인정했다고 한다.&lt;br&gt;&lt;br&gt;한편 공공장소 흉기소지죄에 앞서 시행된 공중협박죄는 시행 당일인 3월 18일부터 지난달 말까지 모두 5건이 검찰로 송치됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘故 박원순 피해자 신원 노출’ 정철승 징역 1년…법정구속은 안해</title>
-      <link>https://www.chosun.com/national/court_law/2025/05/28/GZO2QZXQORFS7JMQCU4ZEB77OY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/05/28/GZO2QZXQORFS7JMQCU4ZEB77OY/</guid>
-      <dc:creator>박혜연 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 28 May 2025 02:06:40 +0000</pubDate>
-      <content:encoded>고(故) 박원순 서울시장의 유족 측을 대리하면서 박 전 시장 성추행 사건 피해자 신원 일부를 공개한 혐의로 기소된 정철승 변호사가 실형을 선고받았다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KYG4ESXJWC5IXORPIDGKM2WEEM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;정철승 변호사 . /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지법 형사29부(재판장 엄기표)는 28일 성폭력처벌법·개인정보보호법 위반 등 혐의로 기소된 정 변호사에게 징역 1년을 선고했다. 다만 재판부는 “항소심에서 다툴 여지가 있다고 보인다”며 법정 구속은 하지 않았다.&lt;br&gt;&lt;br&gt;재판부는 “피해자는 명예권과 사생활의 자유 그리고 비밀 개인정보의 자기결정권을 침해 당해 현재까지 심각한 정신적 고통을 당하고 있다”며 “피고인은 책임을 피해자에게 전가하고 정당 행위라 주장할 뿐 사죄하거나 반성하는 태도를 보이지 않았고, 오히려 수사 및 재판 진행 경과를 SNS에 언급하며 피해자 측을 조롱하는 듯한 게시물을 적었다”고 했다.&lt;br&gt;&lt;br&gt;이어 “피고인이 쓴 게시글은 고의로 거짓사실을 적시한 것으로 인정된다”라며 “SNS를 통해 피해자가 고인을 무고했을 가능성을 거짓으로 제기한 것은 그 목적이 공익을 위한 것이라 볼 수 없고 피해자를 비방하려 한 것으로 볼 수밖에 없다”고 지적했다.&lt;br&gt;&lt;br&gt;정 변호사는 박 전 시장 유족이 ‘박원순 성희롱’을 인정한 국가인권위원회 조사 결과를 취소해달라고 낸 소송에서 유족 측을 대리하면서 피해자의 신원 일부를 공개한 혐의로 2023년 6월 기소됐다. 정 변호사는 2021년 8월 자신의 페이스북에 ‘박원순 사건 관련 사실관계’라는 제목으로 세 건의 글을 올리면서 박 전 시장 성추행 피해자 신원이 파악될 수 있는 내용을 넣은 혐의를 받았다.&lt;br&gt;&lt;br&gt;당시 정 변호사의 글에는 피해자가 서울시 공무원으로 임용된 시기와 연도별 근무지 등이 담겼고, 박 전 시장이 피해자를 성추행했다는 물증이 없다는 취지의 내용이 담겼다. 재판 과정에서 정 변호사는 “변호사의 업무 수행과 관련해 발생한 일인 만큼 형법상 정당행위였다”며 혐의를 부인한 바 있다.&lt;br&gt;&lt;br&gt;한편 정 변호사는 후배 여성 변호사를 와인바에서 성추행한 혐의로 작년 10월 1심에서 징역 1년을 선고받았다. 당시에도 법정구속은 되지 않았고, 항소심 재판 진행 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>부산·창원 시내버스 파업…출근길 시민들은 지각할까 발동동 </title>
