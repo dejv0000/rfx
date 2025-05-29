@@ -13,6 +13,157 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>‘통혁당 재건 사건’ 연루 故진두현·박석주씨 재심...51년 만에 무죄 확정</title>
+      <link>https://www.chosun.com/national/court_law/2025/05/29/ZMROZYIBRBHANLLOUP52W655AQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/05/29/ZMROZYIBRBHANLLOUP52W655AQ/</guid>
+      <dc:creator>김희래 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 29 May 2025 03:07:32 +0000</pubDate>
+      <content:encoded>박정희 정권 당시 ‘통일혁명당 재건 사건’에 연루돼 각각 사형과 징역 10년을 선고받은 고(故) 진두현 씨와 고 박석주 씨의 재심 사건에 대해 대법원이 무죄를 확정했다. 이들이 ‘간첩’으로 지목돼 보안사령부(보안사)에 연행된 지 51년 만이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2UUDDAMFZSYILTSPM22HAQBTCU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대법원 모습. / 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;29일 대법원 3부(주심 이숙연 대법관)는 국가보안법 위반 혐의로 기소된 진씨와 박씨의 재심 사건 상고심 선고 기일을 열고 무죄를 선고한 원심 판결을 확정했다.이들은 지난 1974년 ‘통일혁명당(통혁당) 재건 사건’에 연루돼 이듬해 국가보안법 위반 등 혐의로 각각 사형과 징역 10년을 선고 받았다. &lt;br&gt;&lt;br&gt;통혁당 재건 사건은 1974년 11월 보안사가 민주수호동지회에서 활동하던 진씨 등이 북한의 지령을 받고 통혁당을 재건하려 했다고 발표한 사건이다. 당시 이 사건에 연루된 17명(민간인 15명·군인 2명)이 유죄 판결을 받았다. 통혁당은 북한의 지령을 받고 남한에서 반정부·반국가단체 활동을 한다고 1968년 8월 중앙정보부가 발표한 단체다.&lt;br&gt;&lt;br&gt;진씨는 이후 무기징역으로 감형됐고, 지난 2014년 사망했다. 박씨는 1984년 옥살이를 하던 중 사망했다. 유족들은 지난 2017년 10월 이들이 보안사 수사 과정에서 불법 구금, 가혹행위 등을 당해 허위자백을 했다며 무죄를 주장하는 취지로 재심을 청구했다. 서울고법은 2023년 7월 재심 개시를 결정한 뒤, 지난해 지난해 10월 이들에게 무죄를 선고했다.&lt;br&gt;&lt;br&gt;재심의 주된 쟁점은 검찰이 제시한 공소사실을 인정하는 듯한 과거 자백진술이 동의에 의해 자발적으로 이뤄졌는지가 됐다. 재판부는 “(과거 자백 진술은) 보안사에 의해 불법 체포 구금된 채 가혹행위를 당한 상황에서 이뤄진 것으로 자발적이었다고 보기 어렵다”며 “압수물 역시 불법 수사로 인한 것이고 위법수집증거 배제 원칙에 따라서 증거능력을 인정하기 어렵다”고 판단했다. 대법원도 원심 판단이 옳다고 보고, 검사의 상고를 기각했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>檢, 말레이시아인 126명 허위 난민 신청 등 알선한 일당 기소</title>
+      <link>https://www.chosun.com/national/court_law/2025/05/29/CYZLPHLXL5BV7F2FIQEZU47MGQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/05/29/CYZLPHLXL5BV7F2FIQEZU47MGQ/</guid>
+      <dc:creator>박강현 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 29 May 2025 03:05:55 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5OFSREKFPND3JC4DCH6QJMJ5O4.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;서울중앙지검. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국내에서 120명이 넘는 말레이시아인들의 가짜 난민 신청을 알선한 일당이 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;서울중앙지검 국제범죄수사부(부장 홍용화)는 지난 15일 출입국 관리법 위반 혐의를 받는 말레이시아 국적 남성 A씨를 구속 기소하고, 한국 국적 남성 박모씨를 불구속 기소했다고 29일 밝혔다. &lt;br&gt;&lt;br&gt;앞서 지난해 11월에는 이들과 공모한 혐의를 받는 말레이시아 국적 여성 B씨 역시 구속 기소된 바 있다.&lt;br&gt;&lt;br&gt;이들은 지난 2023년부터 2024년까지 말레이시아 국적자 126명을 상대로 허위 난민 신청과 체류 기간 연장 신청 등을 알선한 혐의를 받는다.&lt;br&gt;&lt;br&gt;검찰 조사에 따르면 이들은 역할 분담을 통해 범행을 저질렀다. B씨가 말레이시아 국적자들을 데리고 오면, A씨가 그들에게 관련 절차를 안내하는 식이었다. &lt;br&gt;&lt;br&gt;이런 가운데 A씨는 부동산 중개업을 하는 박씨에게 난민 신청 등에 필요한 체류지를 적기 위해 임대차 계약서 위조 등을 의뢰한 것으로 파악됐다. 이 때문에 박씨에게는 사문서 위조 등 혐의도 적용된 것으로 알려졌다.&lt;br&gt;&lt;br&gt;현행법상 난민 신청을 하면 관련 조사가 개시되고, 신청이 받아들여지지 않더라도 이의를 신청할 수 있다. 행정소송 등의 불복 절차를 거치는 기간에는 난민 신청자 자격으로 체류를 허가받을 수 있다.&lt;br&gt;&lt;br&gt;검찰 관계자는 “한국에 관광·유학 목적으로 들어온 뒤 ‘본국에서 탄압을 받고 있다’는 식으로 이야기를 꾸며내 허위 난민 신청을 하는 경우가 많다”며 “난민 신청 제도를 악용하는 것”이라고 지적했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘코로나 자가격리 중 무단이탈’ 민경욱 전 의원, 벌금형 집유 확정</title>
+      <link>https://www.chosun.com/national/court_law/2025/05/29/6K4QG2ACA5G3XFP4TK7WIE7QAE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/05/29/6K4QG2ACA5G3XFP4TK7WIE7QAE/</guid>
+      <dc:creator>김은경 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 29 May 2025 02:49:26 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XGP26IW34BMYJAVR7QIMLC6CZU.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;민경욱 전 의원. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;코로나 자가격리 기간에 자택을 무단 이탈한 혐의로 재판에 넘겨진 민경욱 전 미래통합당(현 국민의힘) 의원이 유죄 확정 판결을 받았다. &lt;br&gt;&lt;br&gt;대법원 3부(주심 노경필 대법관)는 29일 감염병 예방 및 관리에 관한 법률 위반 혐의로 민 전 의원에게 벌금 70만원의 집행유예를 선고한 원심을 확정했다. 대법원은 “원심 판단에 법리를 오해한 잘못이 없다”고 했다.&lt;br&gt;&lt;br&gt;민 전 의원은 2021년 3월 미국에 다녀온 뒤 자가격리를 하던 인천 연수구 자택을 무단으로 벗어난 혐의로 기소됐다. 당시 서울남부지법에 국회 패스트트랙 충돌 사건 재판에 출석하기 위해 자가격리 해제 시점을 3시간쯤 남겨 놓은 시점에 집을 나온 것으로 조사됐다. &lt;br&gt;&lt;br&gt;재판 과정에서 민 전 의원은 “승용차로 혼자 법원까지 이동했고 자가격리 해제 시점까지 차 안에 있었다”고 주장했다. 그러나 지난 2월 항소심 재판부는 벌금형 집행유예를 선고한 1심 판단을 유지하면서 “차량으로 이동했더라도 자택에서 이탈한 행위는 자가격리 조치를 위반한 것”이라고 했다. 또 “격리통지서에 지방자치단체장의 허가를 받으면 격리 장소를 이탈하거나 이동할 수 있다고 적혀 있었는데 지자체장이나 관할 보건소에 문의하지도 않았다”고 했다.&lt;br&gt;&lt;br&gt;민 전 의원은 2020년 코로나 확진자가 발생한 교회를 방문하고도 격리 장소를 무단 이탈한 혐의도 받았지만 이에 대해선 무죄가 확정됐다. 항소심 재판부는 “검찰이 제출한 증거만으로는 당시 피고인이 감염병 의심자라거나 격리 조치가 적법하게 이뤄졌다는 점을 인정하기 부족하다”고 판단했고, 대법원도 같은 결론을 내렸다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘신림동 노래방 살인’ 30대 중국 여성, 2심도 징역 20년</title>
+      <link>https://www.chosun.com/national/court_law/2025/05/29/QZJRY2B7LVH2FFXGR42XD3PAGQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/05/29/QZJRY2B7LVH2FFXGR42XD3PAGQ/</guid>
+      <dc:creator>김은경 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 29 May 2025 02:26:58 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VTJRKZ3EYBLMPG6736B73FX2DY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난해 8월 서울 관악구 신림동의 한 건물에서 지인을 흉기로 살해한 30대 여성 A씨가 서울 서초구 서울중앙지방법원에서 열린 영장실질심사(구속 전 피의자 심문)에 출석하는 모습. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 관악구 신림동 노래방에서 함께 근무하던 동료를 흉기로 살해한 30대 중국 여성이 1심에 이어 항소심에서도 징역 20년을 선고받았다.&lt;br&gt;&lt;br&gt;서울고법 형사5부(재판장 권순형)는 29일 살인 혐의로 기소된 중국 국적 엄모(37)씨의 항소심 선고 기일에서 ‘1심의 형 가벼워 부당하다’는 검사의 항소를 기각하고 이같이 선고했다.&lt;br&gt;&lt;br&gt;재판부는 “사전에 범행 도구를 준비하고 계획적 살인을 저지르는 등 수법과 내용에 비춰 죄책이 매우 무겁다”면서도 “원심 선고 후 양형에 반영할 만한 특별한 사정이 있다고 보기 어렵다”고 밝혔다.&lt;br&gt;&lt;br&gt;엄씨는 작년 8월 14일 피해자가 일하던 노래방을 찾아가 미리 준비한 흉기로 복부와 옆구리 등을 찔러 살해한 혐의로 구속 기소됐다. 검찰 조사에 따르면 엄씨는 이틀 전 피해자와 술을 마시던 중 피해자가 자신의 지갑을 훔쳤다고 생각해 말다툼을 벌였고, 범행 당일 과도를 구입한 뒤 피해자를 찾아간 것으로 조사됐다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[단독] 4년 전 쯔양에 2억 뜯은 일당...“1500만원 더 달라” 추가 협박</title>
+      <link>https://www.chosun.com/national/court_law/2025/05/29/ORFBYTTSGVCQHHI4EOA63HNVZM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/05/29/ORFBYTTSGVCQHHI4EOA63HNVZM/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 29 May 2025 02:22:00 +0000</pubDate>
+      <content:encoded>구독자 1200만명을 보유한 먹방(음식 먹는 방송) 유튜버 ‘쯔양(본명 박정원)’을 4년 전 협박해 2억여 원을 뜯어낸 혐의로 재판에 넘겨진 여성 2명 중 한 명이 쯔양에게 1500만원을 추가로 뜯어내려다 미수에 그쳤던 것으로 29일 확인됐다. 쯔양과 같은 유흥업소에서 일했던 이들은 쯔양을 상대로 ‘과거 유흥업소에서 일했던 사실을 폭로하겠다’며 협박한 뒤 2억원 넘는 돈을 받아 챙겼는데, 추가로 협박을 가했던 사실이 새롭게 드러난 것이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GMEQP26L5ZYWWGEWV4JPOHR34M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;유튜버 쯔양(본명 박정원)이 지난달 16일 오전 서울 강남경찰서에서 고소인 신분으로 출석, 취재진 질문에 답하고 있다. 경찰은 쯔양으로부터 명예훼손 등 혐의로 고소당한 김세의 가로세로연구소 대표에 대해 경찰이 불송치 결정을 내렸으나 검찰이 보완 수사를 요구했다. 이에 강남서는 보완 수사에 착수했다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;본지가 국회를 통해 입수한 공소장에 따르면, 폭력행위처벌법상 공동공갈 혐의로 기소된 송모(32)씨와 김모(29)씨는 2021년 6월 쯔양 측 관계자를 만나 유흥업소에서 일했던 과거를 폭로하지 않는 조건으로 2억원을 달라고 요구했다. 이에 겁을 먹은 쯔양은 이들의 요구를 들어주기로 했는데, 당장 큰돈을 마련하는 것이 어려워 매달 600만원씩 월급처럼 돈을 주기로 했다. 두 사람은 2022년 11월 말까지 1년 6개월 동안 각각 총 1억800만원씩을 받아 챙겼다. 이러한 ‘월급’ 지급은 쯔양이 그 무렵 선임한 변호사의 만류로 2022년 말 중단됐다. 쯔양은 이 시기 유튜브 활동을 계속하고 있었지만, 사생활이 공론화될 수 있다는 압박감에 시달리고 있었다고 한다.&lt;br&gt;&lt;br&gt;그런데 돈이 끊긴 뒤 약 6개월이 지난 2023년 5월쯤, 송씨는 쯔양의 유튜브 채널 PD를 통해 쯔양에게 1500만원을 추가로 달라고 요구했다. 이때 송씨는 “폭로를 하지 않는 조건의 공증도 섰고, 약속도 이미 했지만 돈이 더 필요하니 마지막으로 도와달라”고 말한 것으로 조사됐다. 쯔양 측은 송씨의 요구에 응하지 않았지만, 사생활이 폭로될 수 있다는 걱정에 시달렸고, 크게 두려워했다고 한다. 쯔양 측 한 관계자는 “법적 대응 등을 언급하면서 관계를 끊어내는 것조차 힘겨운 상황이었다”고 말했다.&lt;br&gt;&lt;br&gt;쯔양은 송씨의 요구를 거절하고 약 1년이 지난 작년 7월 송씨와 김씨를 고소했다. 유튜브 채널 ‘가로세로연구소’가 “쯔양이 과거 문제로 유튜버들에게 협박당해 돈을 뜯겼다”고 폭로하자, 쯔양은 자신의 유튜브에서 “전 남자 친구 이모씨의 폭행과 협박에 시달리며 강제로 술집에서 일한 적이 있다”고 공개하고 법적 대응에도 나선 것이다. 대중적으로 알려진 유튜버들 외에도 송씨, 김씨처럼 과거를 폭로하겠다며 협박하는 사람들이 많았다고 한다. 송씨와 김씨의 첫 재판은 다음 달 19일 서울중앙지법에서 열린다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5YLNPB44IQP6RLGWW7A3VKVDDE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;유튜버 '쯔양'(본명 박정원)을 협박해 돈을 갈취한 혐의를 받고 있는 유튜버 구제역(본명 이준희)./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한편 두 사람처럼 쯔양을 협박해 수천만원을 뜯어낸 혐의를 받는 유튜버 ‘구제역(본명 이준희)’은 지난 2월 1심에서 징역 3년을 선고받고 법정 구속됐다. 이씨를 대리하며 쯔양의 사생활 관련 내용을 구제역에게 전달한 혐의를 받는 변호사 최모씨는 징역 2년을 선고받고 법정 구속됐다. 공범으로 기소된 ‘주작감별사(본명 전국진)’는 징역 1년에 집행유예 3년, 사회봉사 160시간이 선고됐다. 이들의 공갈 범행을 방조한 혐의로 기소된 ‘카라큘라(본명 이세욱)’는 징역 1년에 집행유예 3년, 사회봉사 240시간이 선고됐고, ‘크로커다일(본명 최일환)’에겐 벌금 500만원이 선고됐다.&lt;br&gt;&lt;br&gt;이 밖에도 쯔양은 가로세로연구소를 운영하는 김세의 대표를 명예훼손 등 혐의로 고소했고, 경찰이 이를 수사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>동서울터미널, 39층 교통 허브로 재탄생…내년 하반기 착공</title>
+      <link>https://www.chosun.com/national/national_general/2025/05/29/D6A77L3BR5DLDP3Z5PPJARNILQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/05/29/D6A77L3BR5DLDP3Z5PPJARNILQ/</guid>
+      <dc:creator>김영우 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 29 May 2025 02:30:26 +0000</pubDate>
+      <content:encoded>서울 광진구 동서울터미널이 오는 2031년이면 39층 교통 허브로 재탄생할 전망이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FOAAV5645VAFVFLEFEM57U6ZSM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;오는 2031년 39층으로 재탄생할 서울 광진구 동서울터미널의 조감도. /서울시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울시는 지난 28일 열린 도시건축공동위원회에서 이 같은 내용이 담긴 지구단위계획구역 지정 및 계획 결정안을 통과시켰다고 29일 밝혔다.&lt;br&gt;&lt;br&gt;1987년 문을 연 동서울터미널은 노후화로 인한 안전 문제와 인파·버스로 인한 교통 체증 문제가 있었다. 이에 서울시는 2009년부터 터미널 현대화를 시도했으나 사업자와 토지 소유권 변경 등으로 난항을 겪었다.&lt;br&gt;&lt;br&gt;계획안에 따르면, 동서울터미널은 39층 건물로 탈바꿈한다. 여객 터미널과 환승 센터를 지하에 조성해 교통 혼잡을 최소화하고, 지상은 한강변을 조망할 수 있는 공간으로 꾸민다. 건물에는 상업·업무·문화 시설 등이 들어선다. 옥상에는 전망대를 설치한다.&lt;br&gt;&lt;br&gt;서울시 관계자는 “버스를 타지 않는 시민들도 누구나 찾아와 즐길 수 있는 건물이 되는 것”이라고 했다.&lt;br&gt;&lt;br&gt;그동안 가로변에 설치돼 교통 체증을 유발했던 광역버스 정류장도 동서울터미널 지하로 함께 이전한다.&lt;br&gt;&lt;br&gt;서울시는 사업자인 신세계동서울PFV와 사전 협상을 통해 1381억4000만원 규모의 공공 기여분도 확보했다. 이를 활용해 동서울터미널과 강변북로를 바로 잇는 직결 램프, 한강에서 강변역을 잇는 보행 데크 등을 설치한다.&lt;br&gt;&lt;br&gt;한편 동서울터미널 현대화 공사 기간 동안 활용할 임시 터미널은 인근 구의공원 지하에 들어선다. 서울시는 이를 위해 ‘구의공원 재조성’ 사업을 함께 진행한다는 방침이다.&lt;br&gt;&lt;br&gt;서울시 관계자는 “동서울터미널 현대화 공사가 마무리되면 임시 터미널 자리는 체육·문화 공간으로 활용할 것”이라고 했다.&lt;br&gt;&lt;br&gt;서울시는 이번에 통과된 계획안을 토대로 교통 영향 평가, 건축 심의·허가 등 행정 절차를 진행한다. 이르면 2026년 하반기 착공해 2031년 완공하는 것을 목표로 추진할 계획이다.&lt;br&gt;&lt;br&gt;임창수 서울시 미래공간기획관은 “동서울터미널이 서울 동북 지역의 새로운 랜드마크가 될 수 있도록 하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>두피 문신 업소 열고 불법 시술한 현직 경찰관…의료법 위반 입건</title>
+      <link>https://www.chosun.com/national/incident/2025/05/29/GIT7BC3PDNG6JIOF2X3EMVJBVU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/05/29/GIT7BC3PDNG6JIOF2X3EMVJBVU/</guid>
+      <dc:creator>인천=이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 29 May 2025 02:23:07 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UXATCA2ZD55SKIGYGAPX3DHTHY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;두피 문신 업소를 운영하며 불법 시술을 한 현직 경찰관이 경찰에 입건됐다. &lt;br&gt;&lt;br&gt;인천 연수경찰서는 의료법 위반 혐의로 인천의 한 경찰서 모 지구대 소속 경장인 30대 남성 A씨를 불구속 입건했다고 29일 밝혔다. &lt;br&gt;&lt;br&gt;A씨는 올해 초부터 최근까지 인천 남동구 상가 건물에서 두피 문신 업소를 운영하면서 자격 없이 2차례 문신 시술을 한 혐의를 받고 있다. &lt;br&gt;&lt;br&gt;경찰은 문신 시술 행위가 의료인이 아니면 할 수 없는 의료행위에 해당해 A씨를 입건했다고 설명했다. &lt;br&gt;&lt;br&gt;A씨는 부업 차원에서 1인 두피 문신 업소를 냈다고 경찰에 진술한 것으로 알려졌다. &lt;br&gt;&lt;br&gt;경찰은 A씨가 공무원 영리업무‧겸직 금지 의무도 위반한 것으로 보고, 수사 결과를 토대로 징계 여부를 결정할 방침이다. &lt;br&gt;&lt;br&gt;경찰 관계자는 “두피 문신 업소 운영 경위 등에 대한 추가 조사를 거쳐 A씨를 검찰에 송치할 예정”이라고 말했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“인생샷 건지려고”...도로 한복판서 차량 막고 사진 찍는 민폐 커플  </title>
+      <link>https://www.chosun.com/national/national_general/2025/05/29/XJVSBL2NSZBF5NWWPWM2OUC744/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/05/29/XJVSBL2NSZBF5NWWPWM2OUC744/</guid>
+      <dc:creator>정아임 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 29 May 2025 01:04:32 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AUJEJPBNKBHF7HOCMGXFI3IUGM.png"&gt;&lt;figcaption&gt;&lt;small&gt;한 커플이 부산 해운대구 청사포 해변 근처 로도의 횡단보도 한복판에서 사진 촬영을 하고 있다./유튜브 채널 '한문철 TV'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한 커플이 부산 도로 한복판에서 차량 주행을 막고 사진을 찍는 모습이 포착돼 뒤늦게 논란이 되고 있다. &lt;br&gt;&lt;br&gt;28일 여러 온라인 커뮤니티에는 ‘도로 한복판에서 인생샷 찍는 커플’이라는 제목의 글과 함께 영상 하나가 올라왔다. 이 영상은 지난달 3일 유튜브 채널 ‘한문철 TV’ 등에 올라온 영상이다. &lt;br&gt;&lt;br&gt;공개된 영상을 보면 한 커플이 부산 해운대구 청사포 해변 근처 도로의 횡단보도 한복판에서 사진을 찍고 있다. 이 커플은 차량 신호등이 초록색인데도 비키지 않고 도로 정중앙에서 촬영을 이어갔다. 커플에 가로막힌 차량은 출발하지 못하고 있었다. 이후 사진 촬영을 마무리한 커플은 인도로 이동했다. &lt;br&gt;&lt;br&gt;하지만 신호등이 빨간색으로 바뀌었고, 커플은 다시 도로 한복판으로 나와 사진 촬영을 했다. 이후 또다시 신호등이 초록색으로 바뀌었는데도 커플은 비키지 않았다. 차량 운전자는 작게 경적을 울렸지만 이들은 계속해서 사진 찍기에 바빴다. 큰 경적이 이어진 뒤에야 커플은 도로에서 인도로 자리를 옮겼다. &lt;br&gt;&lt;br&gt;부산 해운대구 청사포는 인기 애니메이션 ‘슬램덩크’의 배경과 닮은 해변 열차 풍경으로 많은 관광객이 찾는 사진 명소다. 최근 이곳에서 ‘인생샷’을 찍으려는 관광객이 늘면서 차량 운전자와 관광객 간 갈등을 겪는 일이 잦은 것으로 알려졌다.&lt;br&gt;&lt;br&gt;이를 본 네티즌들은 “진짜 소셜미디어가 뭔지 사람들이 인생샷을 위해 목숨을 건다” “빨간불인데도 도로에서 사진을 찍는 건 너무 위험하다” “운전 기사님은 천사인 거 아니냐” 등의 반응을 보였다.&lt;br&gt;&lt;br&gt;해운대구 관계자는 “청사포를 찾는 관광객이 많아 안전 대응 방안을 마련하고 있다”며 “스마트 횡단보도 설치와 무단횡단 시 경고 멘트를 제공하는 방안을 계획 중”이라고 밝혔다. 이어 “관광객들이 보행 신호를 준수할 수 있도록 다양한 방안을 검토할 것”이라고 덧붙였다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/JPDKOUDNP5CFTLDLIUYYGE4K7A.png?auth=8c62a2d5595151fb3630e43441b12fc5a522eacc938945cbf2831c8a2c328b13&amp;smart=true&amp;width=530&amp;height=298" type="image/png" height="298" width="530">
+        <media:description type="plain">한 커플이 부산 해운대구 청사포 해변 근처 로도의 횡단보도 한복판에서 사진 촬영을 하고 있다./유튜브 채널 '한문철 TV'</media:description>
+        <media:credit role="author" scheme="urn:ebu"/>
+      </media:content>
+    </item>
+    <item>
+      <title>美 LA로 떠난 이수만 근황...“나무 1000그루 심어”</title>
+      <link>https://www.chosun.com/national/people/2025/05/29/DEN4UBPNANG4TFRTZM4XVL2VLI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/05/29/DEN4UBPNANG4TFRTZM4XVL2VLI/</guid>
+      <dc:creator>정아임 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 29 May 2025 01:56:52 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TEAVW3IVP2D47MKT547OQ2HDKA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이수만 A2O엔터테인먼트 키 프로듀서 겸 비저너리 리더./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이수만 A20엔터테인먼트 키 프로듀서 겸 비저너리 리더가 미국 로스앤젤레스(LA)에서 ‘나무 심기 캠페인’을 통해 나무 1000그루 이상을 심은 사실이 알려졌다.&lt;br&gt;&lt;br&gt;코리아타운 청소년 및 커뮤니티 센터(KYCC)는 28일 이수만이 지난 23일 LA에서 나무 심기 캠페인을 진행했다고 밝혔다.&lt;br&gt;&lt;br&gt;이수만은 지난해 9월 50만달러(약 6억9000만원) 기부를 시작으로 각계 기관 및 풀뿌리 후원자와 함께 총 75만5000달러(약 10억4000만원)의 추가 기부를 이끌어냈다. 이로써 도시 녹지화 캠페인에 총 125만달러(약 17억2000만원)를 모금하는 데 성공했다.&lt;br&gt;&lt;br&gt;이수만의 나무 심기 캠페인으로 지금까지 LA 전역에 기후 변화에 강한 나무 1000그루 이상을 심었다. 청소년, 지역 주민 등 500명 이상의 자원봉사자가 나무 심기에 참여했고, 지난 23일 캠페인에서는 A2O 소속 걸그룹 A2O 메이와 소녀시대 써니가 나무 심기에 동참했다.&lt;br&gt;&lt;br&gt;이수만은 “나무를 심는 것은 미래 세대에게 숨 쉬는 유산을 남기는 일”이라며 “예술가가 아름다움을 창조하는 것만큼이나 그것을 보존하고 확장해 나가는 것도 시대적 책임이라고 생각한다. ESG(환경·사회·지배구조)는 기업만의 과제가 아니라 창작자에게도 요구되는 사회적 역할”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“안 입는 옷 팔아 푼돈이라도” 헌옷 방문 수거 문의 폭증...현장 동행해보니</title>
+      <link>https://www.chosun.com/national/national_general/2025/05/29/B3QZL426KNC4PHN3UEDRPGI54Y/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/05/29/B3QZL426KNC4PHN3UEDRPGI54Y/</guid>
+      <dc:creator>김도균 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 29 May 2025 02:00:15 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QMCAWA56WRE7TGQI7CZZTQ4KXY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 15일 오전 헌옷 방문수거 업체를 운영하는 김영선씨가 헌옷을 봉지에 나눠 담고 옷값을 책정하고 있다./김도균 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“헌옷 수거하러 왔습니다. 지금 댁으로 찾아뵙겠습니다.”&lt;br&gt;&lt;br&gt;지난 15일 낮 12시 30분쯤 경기 고양시 덕양구의 한 아파트. 6년 차 헌옷 수거업체 업주 김영선(43)씨가 이모(60)씨의 집을 찾았다. 현관에는 30여 개의 신발이 쌓여 있었고, 현관 밖 복도에청바지·가디건·맨투맨 등이 담긴 성인 남성 허리 높이의 대형 포대 2개가 놓였다. 김씨가 운동화를 수거함에 옮기며 “이건 아직 깔끔하고 예쁜데 버리시려고요?” 묻자 이씨는 “그 신발 잘 안 신게 되더라고요. 팔고 받은 돈으로 사위랑 커피 한 잔 사먹는 게 나을 듯해요”라고 했다. 이날 이씨가 내놓은 옷은 총 594만1000원어치였다. 이씨는 “헌옷 판매처럼 쏠쏠한 용돈벌이도 따로 없다”며 웃었다.&lt;br&gt;&lt;br&gt;헌옷 판매가 ‘짠테크’ 수단으로 인기를 끌자 헌옷 방문 수거 업체가 호황을 누리고 있다. 짠테크는 ‘짠돌이 재테크’의 줄인 말로, 낭비를 줄이고 한 푼이라도 더 모으는 재테크를 뜻한다. 고물가·고금리·고환율의 ‘3고(高) 현상’이 장기화하자 허리띠를 졸라 매고 “안 입는 옷 팔아 푼돈이라도 벌자는 시민들이 늘어난 것이다. 헌옷 방문 수거 업자들은 1kg에 700원 정도를 지불하고 헌옷을 매입한 뒤, 이를 중고 의류 업자들에게 되파는 방식으로 돈을 번다. 업계 관계자는 “헌옷 수거량이 2년 새 3배 가량 늘었다”며 “하루에 40곳까지도 찾아가 수거할 때가 많다”고 했다. 서울 강남구 청담동·서초구 반포동 등 부촌(富村)에서 들어오는 문의도 전체의 20%는 된다고 한다.&lt;br&gt;&lt;br&gt;이날 김씨가 인천·고양 등 수도권 일대 아파트 3곳을 돌자 단 3시간 만에 1톤 트럭이 헌옷을 담은 100L짜리 봉투로 가득 찼다. 한 달 평균 70톤을 수거한다고 한다. 김씨가 이동하거나 헌옷 수거 작업을 하는 중간에도 “우리 집에 와서 헌옷 좀 수거해 달라”는 전화가 수차례 왔다. 김씨는 “과거엔 헌옷을 돈을 내고 버렸다면, 이제는 돈을 받고 버리는 시대가 된 것”이라고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JZIHIHTTPVCDJLYPJNKIDYYEEA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김영선씨가 트럭에 헌옷이 담긴 비닐봉지를 담고 있다./김도균 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이렇게 집집마다 돌며 수거 업체가 매입한 헌옷은 1차적으로는 국내 빈티지 의류 도·소매업자들에게 다시 판매된다. 국내에서 팔리지 않은 남은 옷들은 해외에 떨이로 넘겨진다. 말레이시아, 파키스탄, 필리핀 등이 주요 수출 국가라고 한다. ‘중고 의류’로 시장에 유통되는 만큼, 옷에 구멍이 나거나 헤져 벌어진 부분이 없어야 한다. 신발은 밑창이 잘 붙어 있어야 하고, 가방은 겉면이 훼손되지 않고 지퍼가 잘 작동해 곧바로 착용할 수 있는 상태여야 한다. 최근 MZ세대 사이에서 레트로 열풍이 불자 헌옷 수거업체를 찾는 빈티지 의류 판매업자들도 크게 늘었다고 한다.&lt;br&gt;&lt;br&gt;수거 업체가 헌옷을 매입하는 가격도 크게 뛰었다. 업계에 따르면, 2020년 1kg당 200~300원 선이던 헌옷 값은 올해 700~800원으로 약 3배 상승했다. 방문 수거 업체들이 늘어나며 “가격을 더 쳐주겠다”는 경쟁이 붙었기 때문이다. 또 코로나19 팬데믹 당시 방역 문제로 끊겼던 해외 헌옷 수출이 다시 활발해지며 헌옷에 대한 해외 수요가 증가했고, 비싼 가격에 재판매할 수 있으니 헌사 올 사올 때도 더 높은 값을 쳐줄 수 있게 됐다고 한다.&lt;br&gt;&lt;br&gt;아파트 단지나 길가에 있던 헌옷 수거함이 줄어든 것도 방문 수거 인기의 이유다. 서울시에 있는 헌옷 수거함은 2021년 1만4827개에서 2025년(5월 기준) 1만1926개로 4년 새 약 20% 감소했다. 쓰레기 불법 투기와 그로 인한 악취 탓에 ‘애물단지’ 취급을헌옷 수거함을 없애는 아파트가 많아진 탓이다. 경기 수원에 사는 김나경(49)씨는 “지난달 이사하며 헌옷을 버리려는데 단지 안에 수거함이 없어서 방문 수거 업체를 이용했다”며 “무거운 옷더미를 가지고 낑낑대며 밖에 나가지 않아도 되는데 돈까지 벌 수 있어 일석이조”라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘도이치 재수사’ 서울고검, 주가조작 2차 주포 소환 조사</title>
+      <link>https://www.chosun.com/national/court_law/2025/05/29/MZ6MRVN2VJDLFFSDLBKKL2U4FM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/05/29/MZ6MRVN2VJDLFFSDLBKKL2U4FM/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 29 May 2025 01:37:17 +0000</pubDate>
+      <content:encoded>윤석열 전 대통령 배우자 김건희 여사의 ‘도이치모터스 주가 조작’ 의혹을 재수사하는 검찰이 2차 주가 조작 당시 ‘주포’ 김모씨를 불러 조사한 것으로 29일 전해졌다. 검찰은 논란이 됐던 ‘7초 매도’의 당사자도 조사한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3T7XFHROHMY6L736TXVZ2SCDZI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김건희 여사./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 서울고검 재수사팀은 지난 28일 오후 김씨를 참고인 신분으로 불러 조사했다. 이에 앞서 투자자문사 블랙펄인베스트 직원 민모씨도 27일 불러 조사했다. 검찰은 김씨 등을 상대로 김 여사가 주가 조작 사실을 인지하고 있었는지 여부, 김 여사 증권 계좌를 관리하며 주가 조작에 사용하게 된 경위 등을 집중적으로 캐물은 것으로 전해졌다.&lt;br&gt;&lt;br&gt;김씨와 민씨는 김 여사가 직접 운용한 대신증권 계좌에서 이뤄진 ‘7초 매도’의 당사자들이다. 2022년 서울중앙지검 수사팀이 법원에 낸 의견서에 따르면, 김씨는 2010년 11월 1일 오전 11시 22분쯤 “12시에 3300에 8만개 때려달라 해주셈”이라는 문자메시지를 보냈고, 민씨는 “준비시킬게요”라고 답했다. 22분 후인 오전 11시 44분 32초 김씨가 ‘매도하라 하셈’이라는 메시지를 보내고 7초 후 김 여사 명의 계좌에서 3300원에 8만주가 매도됐다. &lt;br&gt;&lt;br&gt;검찰은 당시 김씨 측이 권오수 전 도이치모터스 회장에게 “매도 주문을 내면 곧바로 받겠다”는 요청을 했고, 권 전 회장이 김 여사에게 부탁해 김 여사의 주식을 팔도록 했다고 봤다. 이 과정에서 김 여사도 주가 조작 사실을 알았는지가 수사의 쟁점이었다. 권 전 회장 등의 재판에서 법원은 해당 거래를 통정매매라고 인정하면서도 김 여사가 이를 알았는지 여부는 판단하지 않았다.&lt;br&gt;&lt;br&gt;서울중앙지검 수사팀은 “김 여사가 주가 조작을 알았다고 볼 증거를 찾지 못했다”면서 작년 10월 김 여사를 불기소 처분했다. 고발인 측은 항고했고, 서울고검은 지난달 25일 재수사를 결정했다. 최근 주가 조작 공범 이모씨를 불러 조사했고, 서울남부지검 가상자산범죄합동수사부(부장 박건욱)가 확보한 김 여사 휴대전화에 대해서도 압수 수색 영장을 집행해 관련 자료를 확보했다. 서울남부지검은 건진법사 전성배씨의 청탁 의혹을 수사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>바디로션 통에 필로폰 27.5kg 밀반입…국제 마약조직 일망타진</title>
+      <link>https://www.chosun.com/national/incident/2025/05/29/3H42F3YEVJGCBPLU3T5QLZENAQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/05/29/3H42F3YEVJGCBPLU3T5QLZENAQ/</guid>
+      <dc:creator>평택=김현수 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 29 May 2025 01:40:33 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RV6EA4277ZFXLGH73KBCGE6C5M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;압수된 마약/ 평택경찰서&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;특수 제작된 바디로션 용기 안에 마약인 필로폰을 숨겨 들여온 국제 마약 조직이 경찰의 추적 끝에 덜미를 잡혔다.&lt;br&gt;&lt;br&gt;경기 평택경찰서는 29일 마약류 관리에 관한 법률 위반 혐의로 태국인 A씨 등 7명을 검거하고 이 중 5명을 구속했다고 밝혔다.&lt;br&gt;&lt;br&gt;이들은 지난달 1일부터 16일까지 태국에서 국내로 필로폰을 밀반입한 뒤, ‘던지기’ 방식으로 유통하려 한 혐의를 받고 있다. 경찰이 압수한 마약은 27.5㎏ 정도로, 이는 91만여 명이 동시에 투약 가능한 규모다. 경찰 관계자는 “시가로 약 110억원에 달한다”고 설명했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QAHOMS3CLVG3RDVTLHFIUINJNA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;바디로션 해제 과정/ 평택경찰서&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰에 따르면, 이들이 사용한 바디로션 용기 37개는 외관상 시중에 판매되는 일반 화장품과 거의 구별이 되지 않는 형태였다. 펌프를 눌러도 실제 로션이 나오도록 돼 있었고, 내부는 이중 구조로 정교하게 설계돼 필로폰을 숨길 수 있었다.&lt;br&gt;&lt;br&gt;앞서 경찰은 지난달 1일 평택시의 야산에서 중국인 용의자 2명을 처음 검거한 것을 시작으로, 필로폰 1㎏을 확보했다. 이후 태국인 판매책을 추적해 3.3㎏을 추가로 압수했고, 결국 인천공항에서 국내 밀수 총책을 포함한 일당 3명을 붙잡았다.&lt;br&gt;&lt;br&gt;이들의 수하물 안에는 앞서 언급된 바디로션 용기들이 들어 있었고, 용기당 약 420g씩 총 15.6㎏의 필로폰이 들어 있었다. 이후 경찰은 피의자 진술을 통해 태국 현지에 남아있던 필로폰 7.6㎏의 존재를 확인했다. 이어 경찰 협력관을 통해 태국 마약통제청(ONCB)과 공조해 현지 마약도 압수하고, 보관책인 태국인도 체포했다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “지난 4월 부산에서 열린 아태지역 마약법집행 회의에서 태국 측과 공조 네트워크를 강화한 것이 이번 검거에 큰 역할을 했다”며 “앞으로도 국제 공조를 확대해 진화하는 마약 범죄에 철저히 대응하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“유일한 대중교통이 멈췄다”...시민 발 묶은 창원 시내버스 파업 </title>
+      <link>https://www.chosun.com/national/2025/05/29/3LUOG6ZIAZDIBFIZLBZTDUFRZQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2025/05/29/3LUOG6ZIAZDIBFIZLBZTDUFRZQ/</guid>
+      <dc:creator>창원=김준호 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 29 May 2025 01:28:17 +0000</pubDate>
+      <content:encoded>경남 창원 시내버스 노조 파업이 이틀째 이어지면서 시민 불편이 이어지고 있다. 노조는 이날 파업 중단 여부에 대해 논의할 것으로 전해졌다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MCZMTRE3ZSMHTWYFTY5C57HKII.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;창원 시내버스 노조의 총파업 이틀째인 29일 오전 창원시 성산구 사파동행정복지센터 앞 버스정류장에서 시민들이 임시버스가 오는 방향을 바라보고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;29일 오전 8시 창원 성산구 창원시청 앞 버스정류장에는 시민 수십 명이 시내버스 대체 전세버스를 기다리고 있었다. 김모(29)씨는 “평소 출근 시간대 10~15분이면 오던 버스가 30분째 오지 않고 있다”고 분통을 터뜨렸다.&lt;br&gt;&lt;br&gt;창원 시내버스 9개 업체 노조는 지난 28일 오전부터 파업에 나섰다. 이에 창원 전체 시내버스의 95%인 669대가 운행을 멈췄다. &lt;br&gt;&lt;br&gt;시에서는 전세버스 170대, 공용버스 10대 등 임시버스를 투입했지만, 평상시 대비 42% 수준에 불과해 기존보다 배차 간격이 크게 벌어져 시민 불편이 해소되지 않고 있다. &lt;br&gt;&lt;br&gt;병원 진료를 위해 김해에서 왔다는 전모(36)씨는 “서울에서도 파업을 하지 않고 있고, 부산은 금방 합의했는데 대중교통도 없는 창원에선 뭐 하는 짓이냐”고 목소리를 높였다. 버스를 타고 등교하는 중·고등학생의 불편도 커지고 있다. 등굣길에 공공 자전거를 타는 학생들이 눈에 띄게 늘었다.&lt;br&gt;&lt;br&gt;창원 버스 노사는 전날 오후 2시부터 자율 협상을 벌이면서 시민 불편 등을 감안해 파업 유예 등에 대한 논의에 나섰다. 하지만 노사가 여전히 통상임금 문제 등 쟁점에 대한 입장 차가 큰 상황이라 협상 장기화 조짐도 있다.&lt;br&gt;&lt;br&gt;우선 노조는 이날 오전 중 내부적으로 파업 유예 등에 대한 논의를 할 것으로 전해졌다. 서울 등 타 지역이 파업을 유보한 데다 함께 파업을 시작한 부산에서도 파업 8시간 만에 합의를 마친 상황에서 전국 유일하게 파업을 벌이는 것에 대한 부담이 적지 않은 전해졌다. &lt;br&gt;&lt;br&gt;창원시는 시민 불편 최소화를 위해 우선 노조가 파업을 중단하고, 쟁점 사항에 대한 합의되지 못한 부분은 이후 협상 기한을 연장해 논의하도록 중재하는 것으로 알려졌다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>서울고법 “삼성물산, 엘리엇에 267억 약정금 안 줘도 된다”</title>
+      <link>https://www.chosun.com/national/court_law/2025/05/29/IDDFCMZYYBDYBMSXWCP22RHWWI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/05/29/IDDFCMZYYBDYBMSXWCP22RHWWI/</guid>
+      <dc:creator>박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 29 May 2025 01:22:32 +0000</pubDate>
+      <content:encoded>삼성물산이 미국계 헤지펀드 엘리엇에 267억원의 지연손해금을 지급하지 않아도 된다는 항소심 판단이 나왔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7P6PJOFPGAA6I7LMMWZ5JTVCV4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 법원종합청사./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울고법 민사16부(재판장 김인겸)는 29일 엘리엇이 삼성물산을 상대로 낸 약정금 반환 청구 소송에서 원고 패소로 판결했다. 재판부는 “원고의 항소를 기각한다. 항소 비용은 원고가 부담한다”고 밝혔다. 법정에서 판결 이유를 따로 밝히지는 않았다.&lt;br&gt;&lt;br&gt;이 사건은 2015년에 진행됐던 삼성물산과 제일모직 합병 과정에서 삼성물산 주식 7.12%를 보유하고 있던 엘리엇이 합병에 반대하며 시작됐다. 합병에 반대한 엘리엇과 소액주주 등이 자신들이 보유하고 있던 주식을 매수하라고 요구하자 삼성물산은 주식매수 청구가격을 1주당 5만7234원으로 제시했다.&lt;br&gt;&lt;br&gt;그러나 엘리엇은 삼성물산이 제시한 이 가격이 너무 낮다며 주식매수청구권 신청했다. 양측이 2016년 3월 ‘다른 주주와의 소송에서 청구가격이 바뀌면 그에 맞춰 차액분을 지급하겠다’는 내용의 비밀합의를 맺으면서 엘리엇은 이 신청을 취하했다. &lt;br&gt;&lt;br&gt;이후 대법원은 2022년 4월 삼성물산의 한 주당 가격으로 6만6602원이 적당하다고 결정하면서, 엘리엇은 그해 5월 삼성물산으로부터 724억원을 받았다. 이는 삼성물산이 제시한 가격과 대법원이 결정한 가격의 차액만큼 계산한 금액이다.&lt;br&gt;&lt;br&gt;하지만 엘리엇은 2023년 10월 “267억원의 지연손해금을 추가로 받아야 한다”며 이 소송을 제기했다. 삼성물산이 자신들에게는 2015년 9월 8일부터 2016년 3월 17일까지의 지연손해금을 지급했는데, 다른 주주들에게는 2015년 9월 8일부터 2022년 5월 12일까지의 지연손해금을 지급했으니 받지 못한 기간의 금액을 받아야 한다는 것이다.&lt;br&gt;&lt;br&gt;앞서 1심은 작년 9월 삼성물산의 손을 들어줬다. 재판부는 “양측의 합의서 내용은 실질적으로 주식매매대금과 같지만 다른 명목으로 지급된 금원을 포함하기 위한 규정으로 해석될 뿐”이라며 “지연손해금을 포함하기 위한 규정으로 보기는 어렵다”고 판단했다. 삼성물산이 엘리엇에게 주식매수 대금 원금만 지급하면 되고, 지연손해금까지 줘야 할 필요는 없다는 취지다. 항소심도 1심 판단에 잘못이 없다고 보고 항소를 기각했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>이동건, 16살 차 배우 강해림과 열애설…소속사 “사생활 확인 불가”</title>
+      <link>https://www.chosun.com/national/people/2025/05/29/DZGXTX7NJBFCFOLOB4CMJTGVNY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/05/29/DZGXTX7NJBFCFOLOB4CMJTGVNY/</guid>
+      <dc:creator>이가영 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 29 May 2025 00:22:44 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/B3GMAA3MAZMEMTHS7GUVGNT5EA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이동건(왼쪽), 강해림. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;배우 이동건(45)과 강해림(29)이 열애설에 휩싸인 가운데, 양측 소속사는 “확인 불가” 입장을 내놓으며 말을 아꼈다. &lt;br&gt;&lt;br&gt;29일 강해림 소속사 앤드마크 측은 “배우의 사생활이라 확인이 불가능하다”고 밝혔다. 이동건의 소속사 더블유플러스 역시 “사생활 영역이라 본인에게 확인하기 어렵다”고 했다. &lt;br&gt;&lt;br&gt;이날 스포티비뉴스는 이동건과 강해림이 서울 강남 일대에서 주위의 시선을 의식하지 않고 당당한 데이트를 즐기는 모습이 수차례 목격됐다고 보도했다. 이동건이 거리에서 강해림의 허리와 어깨에 손을 두르거나, 두 사람이 손을 잡고 걷는 등 서로의 사이를 숨기지 않는 모습이었던 것으로 전해졌다. &lt;br&gt;&lt;br&gt;1998년 가수로 데뷔한 이동건은 드라마 ‘파리의 연인’, ‘월계수 양복점 신사들’, ‘여우각시별’, ‘셀러브리티’ 등에 출연하며 연기자로도 활발한 활동을 펼쳤다. 2017년 9월 동료 배우 조윤희와 결혼해 같은 해 12월 딸을 얻었다. 2020년 5월 합의 이혼했고, 딸은 조윤희가 키우고 있다. 이동건은 SBS ‘미운 우리 새끼’ 등을 통해 매주 딸을 만나며 아버지로서의 책임을 다하는 모습을 보여줬다. 최근에는 제주도에 카페를 개업해 사업가로도 변신했다. &lt;br&gt;&lt;br&gt;‘미운 우리 새끼’ 측은 언론에 “이동건의 열애설을 기사로 확인했다”며 “본방송과 완전히 무관한 개인 사생활로, 방송을 통해 공개될 내용은 전혀 아니다”라고 밝혔다. &lt;br&gt;&lt;br&gt;강해림은 2017년 웹드라마 ‘아이돌 권한대행’으로 데뷔, 2019년 KBS Joy ‘연애의 참견’ 시즌 2, 3 재연 배우로 활약했다. 2022년 넷플릭스 ‘썸바디’에서 첫 주연으로 발탁됐고, 최근에는 하정우가 연출한 영화 ‘로비’에 출연했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“금방 망하는 사람처럼…” 이경실, 89평 용산 아파트 경매 언급 </title>
+      <link>https://www.chosun.com/national/national_general/2025/05/29/K5YP4YTZFBBHHNF3LH6FRJN4KE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/05/29/K5YP4YTZFBBHHNF3LH6FRJN4KE/</guid>
+      <dc:creator>김자아 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 29 May 2025 00:08:09 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LKIZT3BWAREXVBXAD5TXJ2BPH4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;개그우먼 이경실./MBC&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;개그우먼 이경실(59)이 건강 악화설과 89평 자택의 경매 진행 보도 등 자신을 둘러싼 소문에 관한 심경을 밝혔다.&lt;br&gt;&lt;br&gt;이경실은 지난 28일 방송된 MBC ‘라디오스타’에 출연해 최근 불거진 자신의 건강 악화설에 대한 질문을 받고 “매일 소셜미디어(SNS)에 일기를 쓰는데 어느 날 인후염이 걸려서 링거 맞은 사진을 올렸더니 바로 다음 날 기사화가 됐다”고 말했다.&lt;br&gt;&lt;br&gt;이어 “그 기사가 시발점이 돼서 금방이라도 망하는 사람처럼 기사가 났다. 깜짝 놀랐다”고 했다. 최근 보도된 서울 용산구 이촌동 89평 아파트 경매 관련 기사를 언급한 것이다.&lt;br&gt;&lt;br&gt;이경실은 “나도 너무 놀랐다. 식구들도 모르게 쉬쉬했는데 깜짝 놀라서 시골 내려갔다가 갑자기 올라왔다”며 “인생이 지루할 틈이 없다”고 말했다.&lt;br&gt;&lt;br&gt;앞서 이경실 소유의 서울 용산구 이촌동 293㎡(89평) 아파트에 대한 경매가 27일 서울서부지방법원에서 진행된다는 소식이 지난 15일 전해졌다. 이경실은 2007년 14억원에 이 아파트를 매입한 뒤 실거주 중인 것으로 알려졌다.&lt;br&gt;&lt;br&gt;이에 이경실은 16일 본인 SNS에 “결론부터 말씀드리겠다. 잘 해결됐다”며 “가족들도 모르고 있는데 해결하는 와중에 기사가 나와 저도 당황했다”고 썼다. &lt;br&gt;&lt;br&gt;또 자택이 경매에 넘어갔던 경유에 대해서는 “제가 몇 년 동안 일을 안 하다 보니 안정적인 수입을 찾고자 어느 곳에 투자를 좀 했다”며 “몇 년 괜찮았는데 3년 전부터 여러모로 꼬이다 보니 그렇게 됐다”고 설명했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/4G7ANVE2PVDIREXNZSNJLLFMJ4.jpg?auth=24fbfceb5c2b7bd2af44d1cf0a2ae920d57af71011cf732472c40a75a514b8ab&amp;smart=true&amp;width=343&amp;height=193" type="image/jpeg" height="193" width="343">
+        <media:description type="plain">개그우먼 이경실./MBC</media:description>
+      </media:content>
+    </item>
+    <item>
       <title>유경옥 USB에 尹부부 공동인증서... “그림자 비서가 자금 관리”</title>
       <link>https://www.chosun.com/national/national_general/2025/05/29/AQ6TFEPXQZDO3EAAD7FPNEK7AU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/05/29/AQ6TFEPXQZDO3EAAD7FPNEK7AU/</guid>
@@ -720,87 +871,6 @@
       </media:content>
     </item>
     <item>
-      <title>[두근두근 뇌 운동] [2630] 신문은 스케치북</title>
-      <link>https://www.chosun.com/national/nie/2025/05/28/LBOPFEXEVRBJVN2D6EO2DNR4V4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2025/05/28/LBOPFEXEVRBJVN2D6EO2DNR4V4/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Tue, 27 May 2025 15:33:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6XNJAMNZ2BEMXNACMDDAXO2MMU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문으로 배우는 실용한자] 횡단(橫斷)</title>
-      <link>https://www.chosun.com/national/nie/chinese_character/2025/05/28/Z2XOVSMTWVHWPES54QM55IWE5U/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese_character/2025/05/28/Z2XOVSMTWVHWPES54QM55IWE5U/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Tue, 27 May 2025 15:33:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZTPTFSMLO5EXZPJZEBVFTU34EI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[매일매일 중국어 한마디] 빌트인, 내장형</title>
-      <link>https://www.chosun.com/national/nie/chinese/2025/05/28/ACD5ENTQHBHHPNMTCOPVYGMNXQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese/2025/05/28/ACD5ENTQHBHHPNMTCOPVYGMNXQ/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Tue, 27 May 2025 15:33:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2ELGQP3MEJERXM2SKQCXG5EJZM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[입에 착착 붙는 일본어] 음주운전 단속</title>
-      <link>https://www.chosun.com/national/nie/japanese/2025/05/28/5QBF2HYXXVCSPENQDKP3QLRO5U/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/japanese/2025/05/28/5QBF2HYXXVCSPENQDKP3QLRO5U/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Tue, 27 May 2025 15:33:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GHSVNHVSWVB6LD76XXZTVAMZKE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[스피킹이 강해지는 영어] get back into the swing of things</title>
-      <link>https://www.chosun.com/national/nie/english/2025/05/28/7R3NMGHF5JACNIRUBZIZNKSDEI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/english/2025/05/28/7R3NMGHF5JACNIRUBZIZNKSDEI/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Tue, 27 May 2025 15:33:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GQRMTMVAVZAGXJOVM6BUUR4CIE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문은 선생님] [예쁜 말 바른 말] [396] ‘입길’과 ‘입질’</title>
-      <link>https://www.chosun.com/national/nie/2025/05/28/O2GSP6RU3REDTHKCBRGUUHFZKI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2025/05/28/O2GSP6RU3REDTHKCBRGUUHFZKI/</guid>
-      <dc:creator>류덕엽 교육학 박사·전 서울 양진초 교장</dc:creator>
-      <description/>
-      <pubDate>Tue, 27 May 2025 15:30:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/B7XCTOPACRB3HMIWAGS3PCBARU.png"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;* 공직자의 재산이 갑자기 늘어나면 사람들의 입질에 오르기 마련이다.&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;* 해가 넘어가면서부터 수면이 고요해지고 물고기의 입질이 잦아졌다.&lt;/b&gt;&lt;br&gt;&lt;br&gt;위 문장에서 틀리는 말을 골라 보세요. 첫 번째 문장의 ‘입질’은 ‘입길’로 고쳐야 합니다.&lt;br&gt;&lt;br&gt;‘입길’은 사람들이 남의 일에 대해 이러쿵저러쿵 말하는 것, 즉 뒷말이나 소문을 뜻해요. 예를 들면 ‘그는 남의 입길에 오르내리는 것이 제일 무서웠다’와 같이 쓰지요. ‘입질’은 방언입니다.&lt;br&gt;&lt;br&gt;유의어로는 ‘입방아’가 있어요. ‘입방아에 오르내리다’라고 흔히 말하는데, 다른 사람들의 이야깃거리가 되는 것을 말하는 관용구지요. ‘입 밖에 오르다’라는 표현도 같은 뜻이에요. &lt;br&gt;&lt;br&gt;‘입질’은 낚시질할 때 물고기가 낚싯밥을 건드리는 것을 뜻해요. ‘입질이 오다’라는 말은 물고기가 미끼를 건드리기 시작한다는 말이고, 반대로 ‘입질이 없다’는 표현은 물고기가 전혀 반응하지 않는 상황을 말하죠.&lt;br&gt;&lt;br&gt;&lt;b&gt;[예문]&lt;/b&gt;&lt;br&gt;&lt;br&gt;-바가지요금 논란으로 사람들의 입길에 오르면 관광객이 줄 수밖에 없다. &lt;br&gt;&lt;br&gt;-물고기의 입질을 기다리는 기대와 고기를 낚아 올릴 때의 쾌감이 낚시의 매력이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문은 선생님] [숨어있는 세계사] ‘콘클라베’와 달리 투표 안 해… 환생자 찾아 계승하죠</title>
-      <link>https://www.chosun.com/national/nie/2025/05/28/NACZ3TKB6BCOLLCMAU7OQPEN44/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2025/05/28/NACZ3TKB6BCOLLCMAU7OQPEN44/</guid>
-      <dc:creator>정세정 옥길새길중학교 역사 교사, 기획·구성=윤상진 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 27 May 2025 15:30:00 +0000</pubDate>
-      <content:encoded>최근 프란치스코 교황의 선종 이후 후대 교황을 뽑는 절차인 ‘콘클라베’가 큰 주목을 받았어요. 추기경들의 비밀투표 방식인 콘클라베를 이번 계기로 알게 됐다는 사람이 많았습니다. 콘클라베처럼 독특한 지도자 승계 방식을 갖고 있는 종교가 또 있어요. 바로 티베트 불교입니다. 티베트 불교의 최고 지도자 ‘달라이 라마’는 14대째 이어져 오고 있어요. 현 달라이 라마는 1935년생으로 올해 90세입니다. 선종한 교황보다 한 살 더 많지요. 최근 그의 건강이 좋지 않다는 소식이 전해지면서 티베트 불교의 후계 구도도 주목받고 있어요. &lt;br&gt;&lt;br&gt;티베트 불교에서 달라이 라마는 단순한 종교 지도자가 아닙니다. 민족의 정체성과 정치적 상징까지 겸한 인물입니다. 오늘은 티베트 불교에서 달라이 라마가 어떤 의미인지와 후계 선정 과정을 알아보겠습니다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GBEF575FCFEWDHKHUT7QCJ356M.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=양진경&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;티베트의 종교·정치 지도자&lt;/b&gt;&lt;br&gt;&lt;br&gt;티베트는 ‘세계의 지붕’이라 불릴 만큼 고산지대에 위치해 있어요. 지금은 중국 영토에 속해 있지만 자신들의 언어와 문화, 종교를 지키려고 노력하고 있어요. 티베트 불교는 티베트를 중심으로 발전한 불교의 한 분파입니다. 티베트 인구의 대다수가 믿는 티베트 불교는 티베트 정체성의 핵심이랍니다. 따라서 후계자를 뽑는 일은 티베트의 미래와도 직결된답니다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SZ53UPJEQBDQ3LDC4YCTCOX7LI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;중국의 탄압을 피해 인도로 망명한 티베트의 제14대 달라이 라마. /자유티베트 홈페이지&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘달라이 라마’는 무슨 뜻일까요? ‘달라이’는 몽골어로 바다, ‘라마’는 티베트어로 스승을 뜻해요. 16세기 몽골 부족의 지도자였던 알탄 칸이 티베트 불교의 승려 소남 갸초를 만나 가르침을 받았는데, 감명받은 칸은 그에게 ‘지혜가 바다처럼 깊은 스승’이라는 의미로 ‘달라이 라마’라는 이름을 지어줬다고 해요.&lt;b&gt; &lt;/b&gt;티베트어 ‘갸초’ 또한 ‘바다’라는 의미인데, 깨달음이 바다처럼 깊다는 의미로 사용돼요.&lt;b&gt; &lt;/b&gt;달라이 라마는 처음엔 종교 지도자 역할이었지만, 17세기 티베트 불교의 한 종파인 ‘겔룩파’가 티베트 전역의 종교·정치권력을 통합하면서 정치 지도자 역할도 함께 하게 됐습니다. &lt;br&gt;&lt;br&gt;&lt;b&gt;환생자 찾아 후계로 임명&lt;/b&gt;&lt;br&gt;&lt;br&gt;그렇다면 달라이 라마는 어떻게 후계자를 정할까요? 가톨릭의 ‘콘클라베’처럼 투표를 통해 뽑는 게 아니라 후계자를 찾아내는 방식이에요. &lt;br&gt;&lt;br&gt;불교에서는 깨달음을 얻지 못한 중생은 환생한다고 믿지요. 그런데 티베트에선 달라이 라마 같은 인물은 그냥 다시 태어나는 게 아니라, 해탈하지 못한 중생을 돕기 위해 자의로 환생했다고 여겨요. 이런 특별한 환생자를 티베트어로 ‘뚤꾸’라고 하는데, 이는 ‘부처의 화신(化身)’으로 여겨집니다. 화신은 부처가 중생을 교화하기 위해 여러 모습으로 변화하는 것을 말하지요. 달라이 라마는 그중에서도 가장 높은 지위의 뚤꾸입니다. &lt;br&gt;&lt;br&gt;그래서 달라이 라마가 세상을 떠나면, 그의 환생자를 찾는 과정이 시작돼요. 그렇게 찾아낸 환생자가 바로 다음 달라이 라마가 되는 거지요. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/P7KTZRF4WZCTNEY5ZYACREQBMU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;소남 갸초의 초상화. 처음으로 ‘달라이 라마’라는 칭호를 사용한 인물입니다. /위키피디아&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;환생자를 찾는 과정이 힘든데요. 먼저 티베트 불교의 명망 높은 승려들이 ‘라모라초’라는 호수로 가 오랜 시간 기도와 명상을 해요. 때로 호수 표면에 지명처럼 보이는 글자나 특정한 장면이 떠오른다고 합니다. 이걸 단서로 삼아 승려들이 티베트 전역으로 흩어져 환생한 아이를 찾아 나서죠. 이 과정에 몇 년이 걸리기도 합니다.&lt;br&gt;&lt;br&gt;후보가 될 만한 아이가 나타나면 달라이 라마가 소유했던 물건을 다른 물건들과 섞어서 나열해 놓고 골라 보게 합니다. 전생에 익숙했던 물건을 고르게 하는 것이죠. 그래도 확실한 후보가 안 나오면 후보자들을 티베트 수도 라싸로 데려가 제비뽑기를 하기도 해요. 하지만 지금까지 달라이 라마들은 전생을 이야기하는 등 환생자라는 점을 확신시키는 행동을 한 경우가 많았다고 해요.&lt;br&gt;&lt;br&gt;현재 14대 달라이 라마는 1935년 티베트의 가난한 농가에서 태어났어요. 1933년 제13대 달라이 라마인 툽텐 갸초가 열반한 뒤 티베트 불교에선 그의 환생자를 찾기 위해 전국에 고승들을 보낸 상황이었죠. 특사들이 여러 개의 지팡이와 염주를 들고 그의 집에 방문했는데, 그중엔 전대 달라이 라마의 유품도 있었어요. 그런데 달라이 라마는 이 중에서 정확히 유품을 집었다고 해요. 그리고 그는 1937년에 달라이 라마의 환생으로 인정받았어요. &lt;br&gt;&lt;br&gt;&lt;b&gt;후계자 문제로 중국과 갈등&lt;/b&gt;&lt;br&gt;&lt;br&gt;요즘 티베트 사람들은 걱정이 많습니다. 다음 달라이 라마를 중국 정부가 정하려고 한다는 이야기가 나오기 때문이에요. 티베트는 1912년 청나라가 멸망한 이후 독립을 선포하고, 자체 정부를 운영했어요. 하지만 1950년 중국의 침공을 받았고 이듬해 강제 통합됐어요. 티베트인들은 시위를 하면서 중국을 몰아내려 했지만 중국은 이를 무력으로 진압했죠. &lt;br&gt;&lt;br&gt;달라이 라마의 환생자를 공식적으로 인정하는 것은 티베트 불교 서열 2위인 ‘판첸 라마’가 하도록 되어 있어요. 그리고 달라이 라마는 판첸 라마의 환생자를 인정하죠. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/B56ZVLKYWVEXHL3QJF2VCU6XHQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;티베트 라싸에 있는 포탈라궁. 14대 달라이 라마가 인도로 망명하기 전까지 거주하던 곳이에요. /위키피디아&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;1995년 달라이 라마는 전통 절차에 따라 11대 판첸 라마를 지명했지만, 얼마 뒤 갑자기 실종되고 말아요. 중국 정부는 대신 공산당원을 부모로 둔 소년을 11대 판첸 라마로 지명합니다. 만약 현 달라이 라마가 열반하면 중국이 그 후계자를 자국 정부에 협력적인 사람으로 정할 것이라는 우려가 나오는 거예요. 달라이 라마 측은 중국이 임명한 판첸 라마가 중국 정부 입장을 대변한다며, ‘가짜 판첸 라마’ 혹은 ‘관제 판첸 라마’라고 비난하고 있어요. &lt;br&gt;&lt;br&gt;현재 달라이 라마는 인도에서 망명 생활을 하고 있는데요. 그는 최근 출간된 저서에서 자신의 후계자가 중국 밖에서 나올 것이라고 밝혔어요. 자신이 사망한 후에도 달라이 라마의 전통이 계속 이어지려면 환생자가 ‘자유 세계’에서 태어나야 한다고 설명했지요. 그가 열반한다면 티베트 불교에 큰 변화가 생길 것으로 예상됩니다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문은 선생님] [알립니다] 에듀조선 NIE 논술학원 학부모 설명회 개최</title>
-      <link>https://www.chosun.com/national/nie/2025/05/28/WN73OLVALZHRFOLTKAHEXGZVUQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2025/05/28/WN73OLVALZHRFOLTKAHEXGZVUQ/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Tue, 27 May 2025 15:30:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IWJBPMBS7NEXBF7BUZYKCBNKBE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;에듀조선 NIE 논술학원에서 중등 NIE 학부모 설명회를 개최합니다. NIE(신문활용교육)는 글쓰기 능력과 독해력을 향상시키고, 문해력 증진에도 큰 도움이 됩니다. 이번 설명회는 조선일보 NIE 10년 이상 경력의 강사진이 중등 NIE 수업의 커리큘럼과 교육 콘텐츠에 대해 소개할 예정입니다. &lt;br&gt;&lt;br&gt;▲&lt;b&gt;대상&lt;/b&gt;: 초·중등 학부모&lt;br&gt;&lt;br&gt;▲&lt;b&gt;방식&lt;/b&gt;: 온라인 줌(시간별 50명·무료)/오프라인(20명·수강료 5000원) &lt;br&gt;&lt;br&gt;온라인 줌:6월 17일(화) 오전 10시·11시&lt;br&gt;&lt;br&gt;오프라인:6월 25일(수) 오전 10시 &lt;br&gt;&lt;br&gt;▲&lt;b&gt;접수 방법&lt;/b&gt;: QR코드 촬영 후 신청&lt;br&gt;&lt;br&gt;▲&lt;b&gt;문의&lt;/b&gt;: 02-724-6024, 02-6956-6109&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문은 선생님] [동물 이야기] 대만 수도 타이베이 마스코트… 따뜻해서 겨울잠도 안 자요</title>
-      <link>https://www.chosun.com/national/nie/2025/05/28/67REGLOJYZG3PHBRU434OOLO6M/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2025/05/28/67REGLOJYZG3PHBRU434OOLO6M/</guid>
-      <dc:creator>정지섭 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 27 May 2025 15:30:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EDK7WLJ76NAENIZEZ2PIIRYLEE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;반달가슴곰의 한 종류인 대만흑곰. 가슴에 브이(V)자 흰색 털이 나 있어요. /위키피디아&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;얼마 전 대만 정부에서 토종 곰인 대만흑곰 수가 늘어나고 있다는 조사 결과를 발표했어요. 해발 1200m 아래에서 이 곰이 목격된 횟수는 2011~2017년 78회였는데 2018년부터 현재까지 513회로 껑충 뛰었어요. 곰이 발견된 지점도 늘어났고요. 대만 생태계의 최고 포식자인 곰이 많아지는 건 그만큼 자연이 건강하다는 증거라며 반겼죠.&lt;br&gt;&lt;br&gt;대만흑곰은 우리나라 지리산에 사는 반달가슴곰처럼 국민적인 인기를 누리면서 국가 차원에서 엄격하게 보호받는 야생동물이랍니다. 생김새를 보면 거무튀튀하고 덥수룩한 털에 가슴팍에는 브이(V) 자로 흰 털이 돋아있어요. 지리산 반달가슴곰과 쏙 빼닮았는데, 대만흑곰이 반달가슴곰의 한 종류이기 때문입니다. &lt;br&gt;&lt;br&gt;반달가슴곰은 동남아·동북아·일본 등 서식 지역에 따라서 일곱 종류로 나뉘는데요. 이 중 대만에서만 살아가는 종류가 대만흑곰이에요. 지리산 반달가슴곰은 만주·시베리아 등에 사는 것과 같은 종류이고요. 몸길이는 최장 1.8m이고, 몸무게는 많게는 150㎏까지 나가요.&lt;br&gt;&lt;br&gt;대만흑곰은 대만에서 가장 높은 위산(玉山·해발 3952m)을 비롯한 중·동부 고산 지대에 살고 있어요. 나무 열매뿐 아니라 곤충·게·새·뱀까지 먹는 잡식성인데요. 아주 드물게 멧돼지나 사슴을 잡아먹기도 한대요. 이런 모습은 다른 지역에 사는 반달가슴곰과 별반 다를 게 없죠. &lt;br&gt;&lt;br&gt;그런데 대만흑곰에게는 다른 반달가슴곰에게서 볼 수 없는 두 가지 특성이 있어요. 첫째는 직접 보금자리를 짓는다는 거예요. 일반적으로 곰은 동굴이나 누군가가 파놓은 구덩이 등을 은신처로 삼는데요. 대만흑곰은 잔가지 등을 가져다가 새 둥지와 비슷하게 생긴 둥지를 만들고 잠을 자거나 쉰답니다. &lt;br&gt;&lt;br&gt;또 하나는 겨울잠을 아예 자지 않는다는 거죠. 전 세계에 분포하는 곰 중에서 동남아시아의 말레이곰, 인도의 느림보곰, 남아메리카의 안경곰 등 기온이 높은 지역에 사는 곰들은 겨울잠 없이 1년을 보내는데요. 반달가슴곰 중에서 상대적으로 따뜻한 지역에 사는 대만흑곰 역시 이런 습성을 갖고 있는 거죠. &lt;br&gt;&lt;br&gt;대만 사람들의 곰 사랑은 아주 지극해서 나라 곳곳에서 마스코트나 캐릭터로 등장한답니다. 우선 수도 타이베이와 대도시 가오슝의 마스코트가 모두 대만흑곰이에요. 이 밖에 여러 스포츠·관광·문화 행사에 흑곰 캐릭터가 자주 등장하죠. 지리산 반달가슴곰이 캐릭터와 마스코트로 인기 있는 것과 비슷하죠. &lt;br&gt;&lt;br&gt;그런데 최근 곰의 숫자가 늘어나면서 사람을 해칠 수 있다는 걱정이 나오는 게 우리나라와 대만의 공통 고민이랍니다. 그래서 곰이 자주 목격되는 국립공원에서는 등산객들에게 가급적 무리를 지어 산에 오르고, 곰과 마주치면 침착하게 자리를 떠나라는 등의 대처 요령을 안내하죠.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[오늘의 날씨] 2025년 5월 28일</title>
       <link>https://www.chosun.com/national/national_general/2025/05/28/HBUU4QP3QFAGRMQWHIHFAIXNDM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/05/28/HBUU4QP3QFAGRMQWHIHFAIXNDM/</guid>
@@ -831,42 +901,6 @@
       <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SGZ6JMOB4FFF5JUKP32UKNEA3M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;6·25 전쟁 참전용사인 찰스 랭글 미국 전 하원의원. 왼쪽은 지난 2013년 랭글 전 의원 방한 당시 찍은 사진이고, 오른쪽은 6·25 전쟁 당시 그의 모습이다./조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;6·25 전쟁 참전 용사로 중공군과 맞서 싸웠고, 정치 입문 뒤 친한파 의원으로 활동하며 평생을 한미 동맹을 위해 헌신했던 찰스 랭걸(95) 전 미국 연방 하원 의원이 26일 뉴욕에서 세상을 떠났다. 그의 사위인 하워드 호튼은 본지에 소식을 알리고 “한국과 한국인에 대한 존경과 애정으로 가득 찼던 고인은 세상을 떠날 때까지 한시도 한국을 잊은 적이 없다”고 했다. 이날은 미국의 현충일인 ‘메모리얼 데이’였다. 랭걸은 이미 고인이 된 존 코니어스, 하워드 코블, 샘 존슨 전 의원과 함께 미 의회 내 ‘6·25 참전 용사 4인방’ 중 마지막 생존 인물이었다. &lt;br&gt;&lt;br&gt;1930년 흑인 빈민가인 뉴욕 할렘에서 태어난 랭걸은 청소와 공장 일을 하는 어머니 손에서 어렵게 자랐다. 열일곱 살에 고등학교를 중퇴하고 입대한 뒤 3년 후인 1950년 6·25가 터진 한국으로 파병됐다. 훗날 그는 6·25 참전을 “할렘 거리에서 떠돌던 내 인생을 바꿔 놓은 계기”라고 여러 차례 회고했다. &lt;br&gt;&lt;br&gt;2023년 본지 인터뷰에서 “남한과 북한도 구분하지 못한 채 한국에 왔다”며 “사방에서 번개처럼 치는 포성 소리에 ‘정말 전쟁터에 떨어졌구나’라고 생각하며 얼떨떨했다”고 당시를 떠올렸다. 실제 그는 죽음 문턱까지 갔었다. 1950년 11월 30일 미 2보병사단 503연대 소속이었던 랭걸은 평양 대동강 인근 군우리 전투에서 중공군에 완전히 포위됐다. 이때 중공군 총에 맞아 구덩이로 떨어졌지만, 전우들을 이끌고 산을 넘어 안전하게 탈출했다. 당시 그와 함께 있던 부대원 40여 명 전원이 생존했고, 무공을 인정받아 퍼플 하트와 동성 무공훈장을 받았다. &lt;br&gt;&lt;br&gt;후방 병원에서 치료를 받고 1951년 7월 미국으로 돌아온 그는 미 보훈부 지원으로 로스쿨에 진학해 법조인이 된 뒤 연방 검사 등을 역임했다. 이어 1970년 뉴욕시를 지역구로 하는 연방 하원 의원에 당선돼 정계에 입문한 뒤 2016년 은퇴할 때까지 반세기 가까이 의정 활동(23선·미 하원 임기는 2년)을 했다. 그는 동료 의원들에게 자주 “중공군 포위를 뚫고 나온 1950년 11월 30일 추운 겨울밤 이후로 나에겐 나쁜 날이 없었다”고 말했을 정도로 참전 경험을 소중하게 여겼다. &lt;br&gt;&lt;br&gt;랭걸은 친한파 미국 의원을 떠올릴 때 첫손에 꼽힐 정도로 한미 동맹 결속과 우호 강화를 위한 의정 활동에 힘을 쏟았다. 2003년 지한파 의원 모임인 코리아코커스 창설을 이끌고 초대 의장을 맡았다. ‘한국전(6·25 전쟁) 참전 용사 인정 법안’(2009년), ‘한국전 참전 군인의 해 지정 결의안’(2012년), ‘한국전 참전 용사 추모벽 건립 법안’(2016년) 등을 주도적으로 발의해 통과시켰다. 한반도 평화 문제에도 관심을 갖고 ‘이산가족 상봉 결의안’, ‘남북 평화통일 촉구 결의안’ 등도 발의했다. 이런 그의 활동이 알려지면서 랭걸은 한미 정상 외교 때마다 동맹을 상징하는 인물로 소환됐다. 2007년 한국 정부는 랭걸에게 수교훈장 광화장을 수여했고, 2011년 당시 이명박 대통령이 미 의회 상·하원 합동 연설에서 랭걸 등 참전 용사 의원들의 이름을 부르고 거수경례를 했다. 2013년 당시 박근혜 대통령도 미 의회를 찾았을 때 랭걸의 이름을 언급했고, 2023년 4월 당시 윤석열 대통령도 같은 장소에서 랭걸의 이름을 부르며 경의를 표했다. &lt;br&gt;&lt;br&gt;이날 고인의 별세 소식이 알려진 뒤 이재명 더불어민주당 대통령 후보와 김문수 국민의힘 대통령 후보도 별도의 추모 메시지를 내고 고인을 애도했다. 랭걸은 의회 내 흑인 의원들의 모임인 블랙코커스의 창립 멤버였고, 2007~2010년에는 하원 세입세출위원회 위원장도 맡았다. 2016년 12월 랭걸의 46년 의정 생활을 마무리하는 은퇴 기념행사가 하원에서 열렸을 때는 그를 ‘찰리’라는 애칭으로 부르던 동료 의원 등 200명이 찾아와 축하와 감사 인사를 전했다. 정계 은퇴 뒤에도 한국에 대한 랭걸의 애정은 여전했다. 2021년 백선엽 한미동맹상을 받았을 때 “지금은 분단된 한반도가 내가 살아 있는 동안 통일을 이뤄내기를 소망한다”고 했다. &lt;br&gt;&lt;br&gt;박면수 랭걸 의원 전 후원회장은 본지 통화에서 “작년 12월 계엄 사태가 벌어진 뒤 바로 전화를 걸어와 무슨 일이 벌어지고 있냐고 물어보며 걱정했고, 올해 초에도 한국에 방문하겠다는 뜻을 보였다”고 말했다. 박 전 회장은 두 달 전 들은 고인의 말이 한국에 남긴 마지막 인사 같다며 이를 그대로 전했다. “나는 한국의 현재 상황에 대해 걱정하지 않습니다. 한국은 북한의 침략을 이겨낸 저력 있는 나라니까요. 지금은 정치적 어려움을 겪을지 몰라도 반드시 이겨내리라 믿습니다.”&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>‘탈세 혐의’ 허재호 전 대주회장 출국 10년 만에 강제 송환</title>
-      <link>https://www.chosun.com/national/incident/2025/05/27/HNJTQJ7TBZBTTJXCVJ3ZK3DN6Y/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/05/27/HNJTQJ7TBZBTTJXCVJ3ZK3DN6Y/</guid>
-      <dc:creator>김정엽 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 27 May 2025 11:59:03 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/T3TRFGH53BLPRGEN6S2UBYVQ5Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;해외도피로 조세포탈 재판에 불출석한 대주그룹 허재호 전 회장이 강제 구인 절차로 송환돼 27일 인천국제공항을 통해 귀국, 압송되고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;탈세 혐의로 기소되고 뉴질랜드에 장기간 체류한 허재호(83) 전 대주그룹 회장이 27일 출국 10년 만에 국내로 붙잡혀왔다. 광주지검은 뉴질랜드에서 검거한 허씨를 이날 오후 인천국제공항을 통해 국내로 강제 송환했다.&lt;br&gt;&lt;br&gt;허씨는 지난 2007년 5~11월 지인 3명의 이름으로 보유한 대한화재해상보험 주식 매각 과정에서 양도소득세 5억여 원과 차명 주식 배당금의 종합소득세 650만원을 내지 않은 혐의로 2019년 7월 기소됐다. 재판은 2015년 8월 뉴질랜드로 출국한 허씨가 심장 질환, 코로나 대유행 등을 이유로 법정에 출석하지 않아 7년째 지연 중이다.&lt;br&gt;&lt;br&gt;허씨는 조세 포탈 혐의 재판과 별도로 대주그룹에서 100억여 원을 빼내 전남 담양의 골프장에 넘긴 혐의(횡령·배임) 등 여러 건의 고소·고발 사건으로 경찰 수사 선상에도 올라 있다.&lt;br&gt;&lt;br&gt;그는 과거 500억원대 탈세 혐의로 선고받은 벌금 254억원을 내지 않고 뉴질랜드로 도피했다가 2014년 귀국, 일당을 5억원으로 환산한 노역장 유치로 ‘황제 노역’이라는 공분을 샀다. 거센 논란에 검찰이 노역을 중단시키자 허씨는 엿새간 노역으로 탕감받은 30억원을 제하고 남은 벌금 224억원을 냈다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>3선 연임이냐 아니냐... 논란 빚은 부산교육감, 전국 첫 4선 노릴 듯</title>
-      <link>https://www.chosun.com/national/education/2025/05/27/GHUHSEDIDFDWFEJNE5ZC366MCI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2025/05/27/GHUHSEDIDFDWFEJNE5ZC366MCI/</guid>
-      <dc:creator>오주비 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 27 May 2025 11:32:53 +0000</pubDate>
-      <content:encoded>지난달 부산교육감 재선거에서 당선된 김석준 교육감이 ‘3선 연임’에 해당하지 않는다는 법제처 해석이 나왔다. 이에 따라 김 교육감은 내년 6월 지방선거와 함께 치러지는 교육감 선거에 또 출마할 수 있게 됐다. 당선되면 ‘전국 최초 4선 교육감’이 된다. &lt;br&gt;&lt;br&gt;27일 교육부에 따르면, 법제처는 최근 “김석준 교육감이 교육자치법 제21조에서 규정하는 계속 재임 3기(3선 연임)에 해당하느냐”는 교육부 질의에 “해당하지 않는다”고 회신했다. 교육자치법 21조는 교육감 임기는 4년이고, 계속 재임은 3기로 한정한다고 규정하고 있다. &lt;br&gt;&lt;br&gt;김 교육감은 2014년과 2018년 연속 당선돼 16·17대 부산교육감을 지냈고, 2022년 하윤수 전 교육감에게 패해 낙선했다. 이후 하 전 교육감이 사전 선거운동 혐의 등으로 재판을 받다 작년 12월 당선 무효형을 확정받자, 지난달 재선거에서 김 교육감이 당선됐다. 교육계 일각에서는 김 교육감이 당선 무효된 전임자의 임기를 수행하는 만큼, 이번 재선거 당선을 ‘3선 연임’으로 봐야 하는 것 아니냐는 논란이 일었다. &lt;br&gt;&lt;br&gt;이에 대해 법제처는 “교육감의 계속 재임 여부를 판단할 때에는 교육감으로서 그 직무를 실질적으로 계속 수행했는지를 기준으로 판단해야 한다”고 했다. 하 전 교육감이 당선돼 임기를 시작했기 때문에 현재 김 교육감의 직무는 과거 2기(16·17대)와 실질적으로 연속되지 않는다고 본 것이다. 법제처는 또 “교육자치법 21조는 3선 연임을 한 후 연속해서 (선거에) 입후보하지 않으면 다시 3기 동안 계속 재임할 수 있다”고 했다. 교육감은 연속 3번까지만 할 수 있지만, 3선 연임 이후 한 차례 쉬었다가 또다시 출마하면 최대 3선 연임을 할 수 있다는 뜻이다. &lt;br&gt;&lt;br&gt;지방자치법에 따라 지방자치단체장도 3선까지 연임할 수 있지만, 4선 지자체장도 있다. 한두 차례 쉬었다가 다시 나오는 ‘징검다리 출마’ 덕분이다. 현 오세훈 서울시장은 33·34·38대 서울시장을 역임했고, 현재 39대 서울시장 임기를 수행 중이다. &lt;br&gt;&lt;br&gt;‘3선 연임’ 논란에서 벗어난 김 교육감이 내년 선거에 나오면 ‘전국 최초 4선 교육감’이 될 것이란 전망이 많다. 교육감 선거는 유권자 관심이 특히 낮아, 인지도 높은 현직 교육감이 다시 당선되는 경우가 많기 때문이다. &lt;br&gt;&lt;br&gt;김 교육감의 ‘4선 여부’는 진행 중인 재판 결과에 달려 있다는 분석도 나온다. 김 교육감은 2018년 국가보안법 위반 등으로 해직된 전교조 교사 4명을 불법으로 특채한 혐의로 현재 재판을 받고 있다. 아직 1심 판결도 안 나왔다. 김 전 교육감 혐의가 작년 8월 대법원에서 유죄 확정 판결을 받아 직을 상실한 조희연 전 서울교육감과 유사하기 때문에 ‘사법 리스크’를 안고 교육감직을 수행하고 있다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“오답 아니에요”…경기도서 초등학생이 담임교사 폭행</title>
-      <link>https://www.chosun.com/national/incident/2025/05/27/NFIN26TAA5G4ZHP3AC2WXZCFVA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/05/27/NFIN26TAA5G4ZHP3AC2WXZCFVA/</guid>
-      <dc:creator>김정엽 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 27 May 2025 10:56:03 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OQFUUU5X2DO2CRVOQWUV62ZBAE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기도교육청 전경./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기도 의왕시의 한 초등학교에서 3학년 학생이 수업 중 담임교사를 폭행하는 사건이 발생한 사실이 뒤늦게 알려졌다. &lt;br&gt;&lt;br&gt;경기도교육청 등에 따르면 지난 9일 오후 1시 15분쯤 의왕 지역의 한 초등학교 3학년 교실에서 A군이 담임교사 B씨의 무릎과 손, 발목 등을 주먹과 발로 때리는 사건이 발생했다. &lt;br&gt;&lt;br&gt;사건은 B씨가 수학 단원평가 결과지를 나눠주고 오답 풀이 수업을 진행하던 중 불거졌다. 자신의 오답을 확인한 A군이 “아니에요, 나는 다 맞았어요”라고 소리치면서 이 같은 폭행이 발생한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;사건 발생 직후 군포의왕교육지원청은 해당 학교에 지역교권보호위원회 개최를 요청하고, 피해 교사 B씨에 대해서는 심리 상담을 안내하는 한편 특별 휴가와 병가를 통해 A군과의 분리 조치를 취했다. A군은 부모와 함께 B씨에게 사과 편지를 제출한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“3일만 봐주세요”...강아지 맡기고 당근 탈퇴한 견주 논란</title>
-      <link>https://www.chosun.com/national/national_general/2025/05/27/QNGPHIXV7BDMXO4NDDRFVW7354/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/05/27/QNGPHIXV7BDMXO4NDDRFVW7354/</guid>
-      <dc:creator>정아임 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 27 May 2025 10:40:07 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JVITKOEMRREDVHEAJ557ZVVOQU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;반려견을 임시로 돌봐달라며 맡긴 뒤 계정을 탈퇴해 잠적한 견주를 찾는다는 글이 올라왔다./당근마켓&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;반려견을 사흘만 봐 달라고 글을 올렸던 견주가 강아지를 맡긴 뒤 잠적한 사연이 알려지며 논란이 되고 있다. &lt;br&gt;&lt;br&gt;지난 25일 한 온라인 커뮤니티에는 반려견을 사흘만 맡기겠다는 주인이 돌연 잠적해 연락되지 않는다는 내용의 글이 올라왔다. 게시물에 따르면 주인은 중고 거래 플랫폼인 당근에 “강아지 사흘만 봐달라. 분리 불안이 있다”라는 문구와 함께 간식을 먹는 반려견 사진을 올렸다. &lt;br&gt;&lt;br&gt;A씨는 요청에 응했고, 반려견을 데리고 와 돌보고 있었다. 그러던 중 견주가 당근에서 계정 탈퇴했다. A씨는 ‘강아지 3일만 봐주실 분’이란 게시글을 캡처한 사진을 공개했다. 그러면서 “이 글 올리셨던 분 연락 달라”며 “무슨 사정인진 모르겠지만 연락을 주면 잘 해결할 수 있는 방법이 있을 것”이라고 남겼다. &lt;br&gt;&lt;br&gt;이어 “이런 식으로 탈퇴해버리면 안 된다. 요즘 방범 카메라(CCTV)도 워낙 많고, 단이(강아지 이름) 내장칩도 있어 제가 고발하면 금방 잡힐 것”이라며 “연락이 없으면 고발 조치하겠다”고 덧붙였다.&lt;br&gt;&lt;br&gt;이 내용을 접한 네티즌들은 “계정 탈퇴해도 일정 기간 정보가 남는다” “강아지 좀 그만 버렸으면 좋겠다” “당근에 이런 사례가 많아서 조심해야 한다” 등 견주의 행동을 비판하는 반응을 보였다．&lt;br&gt;&lt;br&gt;한편, 농림축산검역본부가 27일 발표한 ’2024년 반려동물 보호·복지 실태조사’에 따르면 동물의 구조 및 보호조치 등을 담당하는 동물보호센터가 지난 한 해 동안 구조한 유실·유기 동물은 10만6824마리로 전년(11만3072마리)보다 5.5% 줄었다. 구체적으로 개는 7만7304마리, 고양이는 2만7826마리, 토끼·햄스터 등 기타 동물은 1694마리가 구조됐다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>인천시선관위, 국힘 대선 경선 나섰던 유정복 시장 캠프 활동 공무원 등 6명 고발</title>
       <link>https://www.chosun.com/national/incident/2025/05/27/EWI3TWPCZJDK5AMGGVV3RP7ZWY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/05/27/EWI3TWPCZJDK5AMGGVV3RP7ZWY/</guid>
@@ -885,22 +919,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BM4KY3OZKMS32HRCXJTGEIZOUY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기 시흥시 거북섬 일원. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;더불어민주당 이재명 대선 후보의 ‘거북섬 웨이브파크 유치’ 발언을 두고 정치권의 공방이 이어지는 가운데 거북섬 상가 분양 과정에서 사기를 당했다는 고소장이 접수돼 경찰이 수사 중이다. 수분양자들은 “허위·과대 광고로 사기를 당했다”고 주장하고 있는데, 공동 고소인에 이름을 올린 이만 100여명에 달하고 피해액은 800억원에 달한다고 한다.&lt;br&gt;&lt;br&gt;27일 경찰에 따르면 경기남부경찰청 반부패·경제범죄수사대는 특정경제범죄 가중처벌 등에 관한 법률 위반(사기) 혐의를 받는 상가 분양 대행사 대표 A씨 등 2명을 형사 입건해 조사하고 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FDN4OR666JH7PPD34TBOPHBR6I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 25일 오후 3시 경기 시흥시 거북섬 웨이브파크 인근 상가 모습. /조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이들은 경기 시흥시 시화MTV(멀티테크노밸리) 일원에 조성된 거북섬 웨이브파크 앞 수변 상가인 M빌딩을 분양하는 과정에서 수분양자들에게 허위·과대 광고를 한 혐의를 받고 있는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;단체 고소에 나선 피해자들은 “분양 전에는 큰 이익을 얻을 수 있을 것이라고 했는데 현재 공실 문제가 심각해 피해가 막심하다”는 취지로 주장한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;이 빌딩은 지상 3층~지하 1층 연면적 1만9000여㎡ 규모다. 일반상업지역에 위치한 근린생활시설로, 2020년부터 분양을 시작했다. 당초 웨이브파크 앞에 위치해 관광객이 많이 몰릴 것이라며 광고했으나, 실제로는 유동인구가 적어 상가 수분양자들의 피해가 커지자, 이들은 지난해 10월 경찰에 고소장을 냈다.&lt;br&gt;&lt;br&gt;본격적인 수사에 나선 경찰은 A씨 등에 대한 소환 조사도 한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “현재 수사 중인 사안으로, 자세한 내용은 확인해 줄 수 없다”고 했다.&lt;br&gt;&lt;br&gt;한편, 거북섬 논란은 지난 24일 이 후보가 시흥서 유세를 하며 불거졌다. 이 후보는 경기도지사 재임 시절 시흥시장과 지역구 국회의원과 함께 거북섬에 인공서핑장인 웨이브파크를 유치했다고 자랑했다. 그러나 국민의힘과 개혁신당 등에서는 ‘거북섬의 상가 공실률이 높아 실패한 사업’이라고 비판했다.&lt;br&gt;&lt;br&gt;이 후보는 경기도지사였던 2018년 11월 웨이브파크를 유치했다. 이후 1년도 안 돼 2019년 5월 공사를 시작했고, 이듬해 10월 본격 개장했다.&lt;br&gt;&lt;br&gt;한편, 거북섬의 상가 공실률은 지난 1월 기준 87%에 달하는 것으로 파악됐다. 총 3253개 상가 중 영업 중인 곳은 430여 곳에 불과한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>중국 경쟁사로 이직해 국가핵심기술 유출한 前 삼성디스플레이 수석연구원 징역형</title>
-      <link>https://www.chosun.com/national/incident/2025/05/27/WTIGZ3LDXRCEPO56NR5ZI5DSAE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/05/27/WTIGZ3LDXRCEPO56NR5ZI5DSAE/</guid>
-      <dc:creator>양인성 기자, 장윤 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 27 May 2025 09:19:03 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XMYL5HQOC3B355XLG6RPRITWV4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;삼성디스플레이 QD-OLED BI 로고. 전 삼성디스플레이 수석연구원이었던 염씨가 빼돌린 기술 중에는 QD-OLED 공정 배치도가 포함됐다./삼성디스플레이 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2412억원의 가치에 달하는 디스플레이 제조 관련 국가핵심기술을 중국 경쟁사에 빼돌린 전직 삼성디스플레이 수석연구원이 징역형을 선고받았다. &lt;br&gt;&lt;br&gt;서울동부지법 제11형사부(재판장 강민호)는 지난 16일 국가핵심기술을 비롯한 삼성디스플레이의 주요 기술을 중국에 빼돌린 혐의(산업기술의 유출방지 및 보호에 관한 법률 위반, 부정경쟁방지 및 영업비밀보호에 관한 법률 위반, 업무상 배임)로 기소된 전 수석연구원 염모(58)씨에게 징역 5년과 벌금 5000만원을 선고했다. &lt;br&gt;&lt;br&gt;유출된 자료들은 디스플레이 자동화 공장의 운영 체제를 만드는 데 필수적인 기술로, 이중에는 국가핵심기술인 유기발광다이오드(AMOLED) 패널 공정·제조 관련 자료도 포함됐다. 염 씨가 유출한 자료는 약 2412억 원 상당, 최대 10년의 기술 격차를 해소하는 가치가 있다고 평가됐다.&lt;br&gt;&lt;br&gt;염씨는 2020년 10월부터 삼성디스플레이의 중국 쑤저우 생산 법인을 중국 디스플레이 제조회사인 A유한공사로 매각하는 프로젝트 업무를 맡으면서 중국 기업으로의 이직을 결심한 것으로 알려졌다. 염씨는 삼성디스플레이의 전자문서관리시스템(EDM)에 접속해 2021년 3월부터 4월까지 총 17개의 대외비 문서를 열람하고 촬영했다.&lt;br&gt;&lt;br&gt;염씨는 2021년 5월 삼성디스플레이를 퇴사하고, 중국 전자회사인 B사로 이직했다. 이후 염씨는 보관하던 자료 파일을 B사 직원에게 전송해 중국어로 번역하게 한 후 B사의 최고경영자 등 임직원 4명에게 2022년 5월까지 위챗과 이메일로 14차례 전송했다. &lt;br&gt;&lt;br&gt;재판부는 “국가핵심기술이나 영업비밀 유출 범죄는 국내 기업의 생존 기반을 위태롭게 하고 국가 산업 경쟁력에 악영향을 초래할 수 있다”며 “국가 경제안보의 관점에서 엄한 처벌이 필요하다”고 양형 이유를 밝혔다. &lt;br&gt;&lt;br&gt;또 재판부는 “피고인이 유출한 정보에는 피해회사가 다년간의 시행착오·실험·연구를 거쳐 지득(知得)한 성과물과 영업비밀이 포함되어 있다”며 “피해회사의 기술정보를 유출하는 것은 피해회사가 기술격차를 유지하기 위해 들인 노력을 무의미하게 하고 치명적인 손해를 입힐 수 있다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/2QETKZK6G5NLPEQBU2EGHFYJB4.jpg?auth=5aac5f0a4db0bf8d8eb6398923ec31f8ce33f56a32d4c46b4e9db4d6e20439aa&amp;smart=true&amp;width=3000&amp;height=1794" type="image/jpeg" height="1794" width="3000">
-        <media:description type="plain"> 삼성디스플레이, 'SID 2025' 참가
-    (서울=연합뉴스) 삼성디스플레이가 오는 15일(현지시간)까지 미국 새너제이 맥에너리 컨벤션센터에서 열리는 세계 최대 디스플레이 행사 'SID(국제정보디스플레이학회) 2025'에 참가해 차세대 유기발광다이오드(OLED) 기술과 제품을 대거 선보인다고 13일 밝혔다. 사진은 삼성디스플레이 'SID 2025' 전시부스 전경. 2025.5.13 [삼성디스플레이 제공. 재판매 및 DB 금지]
-    photo@yna.co.kr/2025-05-13 10:37:50/
-&amp;lt;저작권자 ⓒ 1980-2025 ㈜연합뉴스. 무단 전재 재배포 금지, AI 학습 및 활용 금지&amp;gt;</media:description>
-        <media:credit role="author" scheme="urn:ebu">강태우</media:credit>
-      </media:content>
-    </item>
-    <item>
       <title>“박형준도 명태균에 여론조사 의뢰” 주장 강혜경 경찰 조사 </title>
       <link>https://www.chosun.com/national/2025/05/27/2HU72XUT4ZGNZJ3JC2B4PNASPQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/2025/05/27/2HU72XUT4ZGNZJ3JC2B4PNASPQ/</guid>
@@ -917,24 +935,6 @@
       <description/>
       <pubDate>Tue, 27 May 2025 08:50:06 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RCEZZN47WWYIJZE4UDMUPBAIUQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이재명 더불어민주당 대통령선거 후보가 26일 오후 경기 용인시 단국대학교 죽전캠퍼스 정문 앞을 찾아 지지를 호소하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘쌍방울 불법 대북송금’ 혐의로 1심 재판을 받고 있는 더불어민주당 이재명 대선 후보 측은 27일 법정에서 “공소 사실을 전부 부인한다”고 밝혔다.&lt;br&gt;&lt;br&gt;수원지법 형사11부(재판장 송병훈)는 이날 오후 이 후보와 이화영 전 경기도 평화부지사, 김성태 전 쌍방울 그룹 회장의 특정범죄 가중 처벌법상 제3자 뇌물, 외국환거래법 위반, 남북교류협력법 위반 혐의에 대한 6차 공판준비기일을 열었다. 본 재판에 앞서 사건에 대한 의견과 향후 일정을 정리하는 절차로, 피고인 출석 의무가 없어 이 후보 등은 모두 법정에 나오지 않았다.&lt;br&gt;&lt;br&gt;이날 이 후보 측 변호인은 “공소사실에 대한 의견을 간략하게 말해달라”는 재판장의 말에 “공소사실에 대해 전부 부인하는 입장”이라며 “구체적인 건 의견서로 제출하겠다”고 했다.&lt;br&gt;&lt;br&gt;같은 혐의로 기소된 이 전 부지사의 변호인 역시 “공소사실을 전부 부인한다”며 “부정한 청탁이라는 자체가 불특정돼 있고 존재 자체가 없으며 직무 관련성이 있다고 보기 어려워 제3자 뇌물 자체가 성립할 수 없다는 의견”이라고 했다.&lt;br&gt;&lt;br&gt;김 전 회장 측은 “공소 사실을 전부 인정한다”면서도, 이 후보 및 이 전 부지사와의 범죄 공모 여부에 대해선 “행위에 대한 사실 관계만 인정하고, 법리적인 부분에 대한 건 입장을 보류하겠다”고 했다.&lt;br&gt;&lt;br&gt;이날 검찰은 앞서 이 후보 측이 “이번 기소는 검찰의 공소권 남용”이라며 공소를 기각해야 한다는 의견을 낸 데 대해 “피고인이 공모 사실을 부인하고 있지만 객관적 사실을 토대로 충분히 특정했고, 기존 판례와 법리에도 정확히 부합한다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZGK6IROZFVF45HWKRWOKVRBMMM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;北고위급 리종혁, 2018년 경기도서 열린 아태협 행사 참석 - 북한 리종혁(가운데) 조선아태위 부위원장이 지난 2018년 11월 ‘제1회 아시아·태평양의 평화·번영을 위한 국제 대회’참석을 위해 경기도를 방문해 당시 이재명(왼쪽) 경기지사, 이화영(오른쪽) 경기도 평화부지사와 기념 촬영을 했다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 재판에서 검찰과 변호인 측은 PPT 자료를 통한 변론을 두고 날 선 공방을 벌이기도 했다.&lt;br&gt;&lt;br&gt;재판부가 지난달 열린 재판서 공소장 내용에 대해 검찰에 석명(釋明·재판서 판사가 입증을 촉구하는 것)을 구했는데, 이날 검찰이 PPT를 통해 답변하겠다고 나서자 변호인 측에서 “사전에 얘기된 게 아니어서 불허해야 한다”고 한 것이다.&lt;br&gt;&lt;br&gt;검찰은 “공판중심주의라는 원칙에 맞게 재판장이 물어본 것에 대해 법정에서 구두로 답변하고자 하는 것”이라고 했지만 이 후보 측은 “형평성에 맞지 않고, 아직 증거 조사를 거치지 않은 증거들이 사실상 인용될 수밖에 없다”고 했다.&lt;br&gt;&lt;br&gt;이에 검찰은 PPT 없이 구두로만 변론을 진행하면서 “변호인이 검찰의 입에 재갈을 물리려고 하는 것”이라며 “굉장히 부적절한 변론권 침해”라고 했다.&lt;br&gt;&lt;br&gt;검찰은 “이 사건과 관련한 김성태와 이화영의 대북 송금 범행은 이미 (2심을 통해) 실체가 확인됐고, 이재명 피고인의 공모라는 사실과 양립할 수 없는 사실은 이화영이 도지사 몰래 대북송금 범행을 저질렀다는 사실뿐”이라며 “이 사건은 이화영이 자신을 위해 범행을 저지른 게 아니라 도지사인 이재명의 정치적 이익, ‘성대한 방북’을 위해 저질렀다는 특징이 있다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5AWTBFENFQXCK4ZOJ57QXTRPKI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;수원법원종합청사. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그러면서 “이 사건 범행으로 인한 이익은 배후에 있는 이재명에게 돌아가는데, 이화영이 모르게 범행을 저질렀을 가능성이 있​냐로 귀착되는 문제”라며 “직접 실행한 사람과 이익 수혜자가 다르고, 공모 관계를 부인하는 수많은 사건에서 법원은 논리와 경험칙에 따라 유죄판결 선고해왔다”고 했다.&lt;br&gt;&lt;br&gt;검찰은 “이화영이 대북송금을 몰래 할 아무런 이유가 없고, 이화영이 대북송금을 몰래했다고는 도저히 볼 수 없는 결재 서류와 언행들이 다수 존재하며, 이재명 피고인 역시 대북송금을 사전 보고받지 않았다면 도저히 할 수 없는 결재 서류와 언행들이 있다”고 했다.&lt;br&gt;&lt;br&gt;재판부는 오는 7월 한 차례 더 공판준비기일을 진행하기로 했다.&lt;br&gt;&lt;br&gt;한편, 이 후보는 경기도지사였던 2019년 쌍방울 그룹의 대북 사업을 돕는 대가로, 경기도가 북한 측에 냈어야 할 스마트팜 사업비 500만 달러와 자신의 방북비 300만 달러 등 800만 달러를 김성태 전 쌍방울 회장에게 대신 내도록 한 혐의 등을 받는다.&lt;br&gt;&lt;br&gt;검찰은 이 후보가 대북 사업과 방북 성사 등을 통한 정치적 이익을 얻기 위해 사실상 쌍방울로부터 800만 달러에 달하는 뇌물을 받았다고 보고, 제3자 뇌물 혐의 등을 적용해 그를 불구속 기소했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>’200억대 사기 의혹' 임성언 남편 “재혼‧전과 빼곤 보도 내용 다 거짓”</title>
-      <link>https://www.chosun.com/national/national_general/2025/05/27/HKQ2EZWLXVDV3KN4TZCRN3ONTA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/05/27/HKQ2EZWLXVDV3KN4TZCRN3ONTA/</guid>
-      <dc:creator>김명일 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 27 May 2025 07:50:46 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7HXG6OTQMA7VRTNT2VDUV5CXNY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;배우 임성언. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;200억원대 사기 사건에 연루됐다는 의혹 등이 제기된 배우 임성언(42)의 남편 A씨가 27일 직접 입장을 밝혔다. &lt;br&gt;&lt;br&gt;A씨는 임성언과 지난 17일 결혼식을 올렸다. 이후 한 언론은 A씨가 전과 3범이며, 200억원대 부동산 관련 사기 사건에 연루되어 있고 초혼이 아니라는 의혹 등을 제기했다. &lt;br&gt;&lt;br&gt;A씨는 이날 ‘더팩트’와의 인터뷰에서 “제가 재혼이라는 사실과 전과 기록이 있다는 것, 이 두 가지를 빼곤 모두 거짓”이라며 “사업상 이해관계로 인해 고소고발 등 여러 갈등이 있는 파트너가 특정 언론을 이용해 공격한 것”이라고 주장했다. &lt;br&gt;&lt;br&gt;A씨는 “결혼한 지 겨우 일주일 지났는데 의도적, 악의적 목적이 아니고서는 이렇게까지 할 이유가 없지 않느냐”며 “부동산 관련 사업을 하다 보니 사업상 상대 측과 고소고발로 법적 다툼을 갖는 일이 많고 의도치 않게 주택법 위반이나 옥외광고법, 근로기준법 등의 전과기록을 가졌다. 도둑질을 하거나 파렴치한 행위를 해본 일이 없다. 억울하다”고 했다.&lt;br&gt;&lt;br&gt;‘지역주택조합 등 부동산 디벨로퍼 사업을 하면서 200억원 이상을 유용했고, 이로 인해 추가 분담금 등 서민들이 피해를 봤다’는 의혹에 대해서는 “현재 저는 7개 법인의 총괄회장을 맡고 있다. 단 하나의 문제라도 생긴다면 모든 법적, 경제적 책임을 져야 하는 위치”라며 “지금이 어떤 세상인가. 단돈 1원도 따로 빼서 유용할 수 있는 구조가 아니다”라고 했다. &lt;br&gt;&lt;br&gt;A씨는 “아내 역시 지금 상황에 대한 인식이 저와 크게 다르지 않다. 악의적 공격에 대해 저보다 더 억울해하고 황당해한다”며 “제가 재혼이란 사실도 충분히 설명했다. 아내가 얼굴이 알려진 연예인이란 점을 빌미로 대중적 이슈로 이미지에 흠집을 낸 것은 용서할 수 없다”고 했다. &lt;br&gt;&lt;br&gt;한편 임성언은 2002년 KBS 2TV 드라마 ‘언제나 두근두근’으로 데뷔했으며 같은 해 예능프로그램 KBS2 ‘산장미팅-장미의 전쟁’을 통해 인지도를 쌓았다. 이후 영화 ‘여고괴담 두 번째 이야기’ 드라마 ‘때려’ ‘연개소문’ ‘하얀거탑’ ‘청담동 스캔들’ ‘오렌지 마말레이드’ 등에 출연했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>경찰, ‘내란 혐의’ 한덕수·최상목·이상민 출국금지</title>
-      <link>https://www.chosun.com/national/national_general/2025/05/27/5K3NFVKZKRFUFJ6NC7A2AWV5FI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/05/27/5K3NFVKZKRFUFJ6NC7A2AWV5FI/</guid>
-      <dc:creator>김명진 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 27 May 2025 05:48:46 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KFR6L4FEPSIZNQBESHMHR342AM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한덕수 대통령 권한대행 국무총리가 지난 4월 14일 서울 공관에서 경제안보전략 TF 회의를 하고 있다. 왼쪽은 최상목 부총리 겸 기획재정부 장관. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;12·3 비상계엄 사태를 수사하는 경찰이 한덕수 전 국무총리와 최상목 전 경제부총리 겸 기획재정부 장관이 계엄 발령에 동조하거나 묵인한 정황을 포착하고 이들을 출국 금지했다고 27일 밝혔다.&lt;br&gt;&lt;br&gt;경찰청 국가수사본부 비상계엄 특별수사단은 내란 방조 등의 혐의로 한 전 총리와 최 전 부총리에 대해 이달 중순쯤 출금 조치를 했다고 밝혔다. 앞서 경찰은 같은 혐의로 이상민 전 행정안전부 장관도 지난해 12월부터 출국이 제한됐고, 경찰은 이 전 장관에 대한 출금 조치를 최근 연장한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;앞서 경찰은 이달 초 대통령경호처로부터 계엄 선포 직전 대통령실 내 대접견실에서 열린 국무회의 보안 카메라 영상을 임의 제출받아 분석해왔다. 한 전 총리는 지난 2월 국회 청문회에 출석해 “사전에 비상 계엄 계획에 대해 언질받은 적이 없다”는 취지로 주장해왔다. 윤석열 전 대통령이 건넨 ‘비상 입법 기구’ 쪽지를 받았다는 의혹을 받고 있는 최 전 부총리는 “누군가가 접힌 쪽지 형태로 자료를 줬는데 계엄이라는 초현실적 상황에서 경황이 없었다”며 당시 쪽지 내용을 보지 못했다는 입장을 밝혀왔다. 이 전 장관은 윤 전 대통령의 언론사에 대한 단전·단수 지시 의혹과 관련해 “대통령실에서 ‘소방청 단전·단수’ 등이 적힌 종이 쪽지 몇 개를 멀리서 얼핏 봤다”고 해왔다. 그러나 경찰은 이들 진술이 영상 분석 결과와 배치되는 정황을 파악한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;이에 경찰은 전날 세 명을 소환해 허위 진술 여부를 조사했다. 경찰은 이들의 이전 진술과 달리 계엄에 적극 동조하거나 묵인한 정황을 확인할 경우 이들에 대한 신병 확보도 검토하는 것으로 전해졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[단독] 출근시간 40분전 상사 카톡, 직장내 괴롭힘 신고한 직원…법원 판단은</title>
