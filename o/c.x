@@ -13,6 +13,24 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>“대치동서 사전투표 두 번 한 사람 있다”…경찰, 수사 착수</title>
+      <link>https://www.chosun.com/national/national_general/2025/05/30/WZFL6465ONEKVC7ELO3M5RJEZA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/05/30/WZFL6465ONEKVC7ELO3M5RJEZA/</guid>
+      <dc:creator>이가영 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 29 May 2025 22:46:02 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EJKDVEQQOK5RAVAWOPSJYGSSN4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;제21대 대통령 사전투표 첫날인 29일 광주 동구 서남동 사전투표소에서 유권자가 투표용지를 투표함에 넣고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제21대 대통령선거 사전투표 첫째 날인 29일 중복 투표를 한 시민이 있다는 신고가 접수돼 경찰이 수사 중이다. &lt;br&gt;&lt;br&gt;서울 수서경찰서는 이날 오후 5시 11분쯤 서울 강남구 대치2동 소재 사전투표소에서 투표를 두 번 한 유권자가 있다는 112 신고를 접수하고 수사에 착수했다고 밝혔다. &lt;br&gt;&lt;br&gt;이날 서울 강남구 사전투표 관리관들이 포함된 카카오톡 단체 채팅방에 이 같은 내용이 올라온 것으로 알려졌다. &lt;br&gt;&lt;br&gt;공직선거법상 성명을 사칭하거나 신분증명서를 위조‧변조하는 등의 방법으로 투표한 사람은 5년 이하의 징역 또는 1000만원 이하의 벌금에 처할 수 있다. &lt;br&gt;&lt;br&gt;경찰 관계자는 “현재 수사 중인 사안으로 실제 중복 투표 여부 등을 확인하고 있다”며 “구체적인 수사 내용은 확인 불가”라고 밝혔다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>﻿여직원 머리채 잡는 투표 독려 영상…경산시, 논란 일자 사과</title>
+      <link>https://www.chosun.com/national/national_general/2025/05/30/6HLK7WZOIFFSXF7IUVCNB5MDKM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/05/30/6HLK7WZOIFFSXF7IUVCNB5MDKM/</guid>
+      <dc:creator>이가영 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 29 May 2025 22:04:50 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AK55TBKCUJGC7EDBJFL4ZG2OOE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;상급자가 여직원 머리채를 잡는 모습이 담긴 경북 경산시의 '대통령선거 투표 독려 영상'의 한 장면. 현재는 비공개 처리 된 상태다. /유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경북 경산시가 대통령 선거 투표 참여를 독려한다며 제작한 홍보 영상에 직장 내 갑질과 폭력을 가하는 장면이 담겨 논란이 됐다. 경산시는 하루 만에 영상을 비공개 처리하고, 사과했다. &lt;br&gt;&lt;br&gt;지난 26일 경산시 공식 유튜브 채널에는 ‘대통령 선거 투표 독려 영상’이라는 제목의 49초짜리 영상이 올라왔다. &lt;br&gt;&lt;br&gt;영상에는 상급자가 여직원에게 종이를 구겨 던지는 모습과 결재 서류철로 머리를 때리는 장면, 손가락으로 여직원의 이마를 쿡쿡 찌르는 장면에 이어 여직원이 상급자의 손가락을 무는 모습 등이 담겼다. &lt;br&gt;&lt;br&gt;손가락을 무는 장면에서는 “물지 말고 후보자의 정책을 물으세요”라는 대사가 나오고, 이어 남자 직원이 여직원의 머리채를 잡는 장면과 함께 반격하는 여직원의 모습을 연출하며 “뽑지 말고 나의 권리를 뽑으세요”라는 멘트가 나온다. &lt;br&gt;&lt;br&gt;이어 이 여직원이 컴퓨터 메신저로 남자 직원을 욕하는 것을 다른 상급자가 지켜보는 장면과 여직원이 외출 후 돌아와 자신의 책상이 사라진 것을 발견하는 장면에서는 “찍지 말고 내일의 희망을 찍으세요”라고 했다. &lt;br&gt;&lt;br&gt;영상을 본 네티즌들은 “개연성이 없다” “뜬금없이 머리채는 왜 잡는지 모르겠다” “이게 대체 대통령 선거와 무슨 상관이냐?” 등의 반응을 보였다. &lt;br&gt;&lt;br&gt;논란이 커지자 경산시는 지난 27일 영상을 비공개 처리하고, 28일 공식 사과문을 올렸다. &lt;br&gt;&lt;br&gt;경산시 관계자는 “선거와 관련된 표현들을 그대로 사용할 경우 특정 정치적 입장으로 오해받을 수 있다는 우려가 있어 담당자가 관련 없는 것으로 직접 수정하고 촬영하는 과정에서 부적절한 요소가 포함되는 실수가 있었다”며 “모든 장면은 허구를 기반으로 구성된 것이며, 그 안에서 갑질이나 신체적 충돌을 상대방이 그대로 되갚는 방식으로 표현된 부분이 시청자 여러분께 불쾌감을 드릴 수 있음을 미처 인식하지 못했다”고 했다. 이어 “저희는 결코 폭력이나 혐오를 조장할 의도가 없었다”며 “불편함을 느끼셨을 분들께 깊은 사과의 말씀을 드린다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>“산 오르면 100만원” 서울대 등산 장학금 만든 81세 사업가</title>
       <link>https://www.chosun.com/national/people/2025/05/30/3VDI3N4YQNAJXIQH42SUQBJBR4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/people/2025/05/30/3VDI3N4YQNAJXIQH42SUQBJBR4/</guid>
@@ -821,24 +839,6 @@
       <description/>
       <pubDate>Wed, 28 May 2025 15:33:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TTIREPTG7NBDPCOAX3PB5BM2MU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[스피킹이 강해지는 영어] have a real gift for ~</title>
-      <link>https://www.chosun.com/national/nie/english/2025/05/29/GE2FT4OQORDRTE3CDD6VO3UVUI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/english/2025/05/29/GE2FT4OQORDRTE3CDD6VO3UVUI/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 28 May 2025 15:33:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MMXQIVHI45C25AOSRGWXHGCUTQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[입에 착착 붙는 일본어] 먼 곳까지 잘 오셨습니다</title>
-      <link>https://www.chosun.com/national/nie/japanese/2025/05/29/RUF5X7FWDBBKXN53PYO2SRXLN4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/japanese/2025/05/29/RUF5X7FWDBBKXN53PYO2SRXLN4/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 28 May 2025 15:33:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RAFXTJEOXNERHIA7XUXEWZYWVY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[매일매일 중국어 한마디] 아트 토이</title>
