@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>2025 삼성호암상 시상식</title>
+      <link>https://www.chosun.com/economy/real_estate/2025/05/31/WAK3ENC4YZBADKA7BE5QXWNYQA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/economy/real_estate/2025/05/31/WAK3ENC4YZBADKA7BE5QXWNYQA/</guid>
+      <dc:creator>이태동 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 30 May 2025 15:51:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MPEXVH2RTBB3PPV3PPX2GVCB4Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/호암재단&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;호암재단이 30일 서울 신라호텔에서 ‘2025 삼성호암상’ 시상식을 개최했다. 학술, 예술, 의학 등 부문에서 사회 발전과 인류 복지를 높이는 데 기여한 한국계 인사를 선정해 시상하는 행사다. 사진 왼쪽부터 과학상 물리·수학 부문 신석우 UC버클리 교수, 과학상 화학·생명과학 부문 정종경 서울대 교수, 공학상 김승우 KAIST 명예교수, 의학상 글로리아 최 MIT 교수, 예술상 구본창 사진작가, 사회 봉사상 김동해 사단법인 비전케어 이사장. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>요금이 미터기보다 더 나왔네? 자동결제 택시의 배신</title>
       <link>https://www.chosun.com/national/weekend/2025/05/31/YNTDG5JRH5AEZOZKCPPWJHAY3U/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/weekend/2025/05/31/YNTDG5JRH5AEZOZKCPPWJHAY3U/</guid>
@@ -856,15 +865,6 @@
       <description/>
       <pubDate>Thu, 29 May 2025 15:51:00 +0000</pubDate>
       <content:encoded>삼성꿈장학재단은 29일 서울대 호암교수회관에서 ‘제1회 꿈장학 교육상’ 시상식을 열고 저소득층 아동·청소년들의 멘토 역할을 해온 교사 서정숙(대전고등학교)·최하나(하동중앙중학교)·홍인철(경북공업고등학교)씨에게 교육부 장관상을 수여했다. 상금은 1000만원씩이다. 재단은 이날 올해 선발된 장학생 150명에게도 장학증서를 수여했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[인사] 법무부 외</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2025/05/30/O2MFEV2WRNEKDMOSWYADHJXVNM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2025/05/30/O2MFEV2WRNEKDMOSWYADHJXVNM/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 29 May 2025 15:51:00 +0000</pubDate>
-      <content:encoded>▲법무부◇부이사관 승진▷외국인보호위원회 사무국장 이기흠◇서기관 전보▷출입국심사과장 김태형▷부산출입국·외국인청 관리과장 이상목▷부산출입국·외국인청 이민특수조사대장 김재남▷대전출입국·외국인사무소장 정영부▷창원출입국·외국인사무소장 유현송▷전주출입국·외국인사무소장 조승래▷외국인보호위원회 기획총괄과장 임은진&lt;br&gt;&lt;br&gt;▲한국철도기술연구원▷연구전략본부장 박준혁▷기획조정본부장 정대영▷경영지원본부장 안수근▷차세대철도차량본부장 최성훈▷첨단궤도토목본부장 최일윤▷스마트전기신호본부장 정호성▷철도시험인증센터장 최진유▷철도안전연구센터장 전현규▷미래교통물류연구소장 이준&lt;br&gt;&lt;br&gt;▲배재대▷주시경교양대학장 겸 아펜젤러공유대학장 박준용▷교육혁신처장 심혜령▷미래교육원장 안성윤▷교육혁신처 부처장 박용규▷성과관리센터장 조혜숙▷입학부처장 한성동▷스포츠문화진흥원 체육부장 김기탁&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[부음] 김삼둘 별세 외</title>
