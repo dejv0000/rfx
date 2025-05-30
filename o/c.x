@@ -13,6 +13,118 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>정부 “마스크 착용·65세 이상 백신 권고… 코로나 재유행 조짐”  </title>
+      <link>https://www.chosun.com/national/welfare-medical/2025/05/30/NOTDQZ2YCJGBBGFKI4WHUNB55A/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/05/30/NOTDQZ2YCJGBBGFKI4WHUNB55A/</guid>
+      <dc:creator>곽래건 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 30 May 2025 01:19:53 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3M5EJPKA6VOVZFFYC5JVFGCZFQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이한경 행정안전부 재난안전관리본부장이 30일 정부세종청사에서 '의사 집단행동 중앙재난안전대책본부' 회의를 주재하고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정부가 “홍콩, 중국, 태국 등 인접 국가에서 코로나19 확진자가 증가하고 있어 염려스러운 상황”이라며 “65세 이상 어르신과 감염취약시설 입소자는 지금이라도 백신을 맞아달라”고 당부했다.&lt;br&gt;&lt;br&gt;이한경 행정안전부 재난안전관리본부장은 30일 정부세종청사에서 ‘의사 집단행동 중앙재난안전대책본부(중대본)’ 회의를 주재하며 이같이 밝혔다. 이 본부장은 “미국, 영국, 일본 등 대부분 국가에서는 양성률 6% 미만으로 낮은 수준을 유지 중이고, 국내 코로나19 입원환자 수도 최근 한 달간 큰 변동 없이 소폭의 증감을 반복하고 있다”고 했다. 이어 “다만 인접국가의 유행 상황과 작년 여름철 환자 수 증가 사례를 고려해 이번 여름철의 코로나19 재유행 가능성에 선제적으로 대비하겠다”고 했다. 아직 국내 상황이 심각하지는 않지만, 여름 재유행을 배제할 수 없다는 뜻이다. &lt;br&gt;&lt;br&gt;정부는 “해외여행 후 입국시 의심 증상이 있는 경우 공항 검역관에게 알려주고, 일상에서 손씻기, 기침예절, 마스크 착용 등 예방수칙을 철저히 준수해 달라”고 당부했다.&lt;br&gt;&lt;br&gt;질병관리청에 따르면 호흡기 질병 감시 병의원을 통해 집계한 국내 코로나 바이러스 검출률은 지난 18~24일(21주 차) 한 주간 8.8%를 기록하며 2주 연속 상승했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/B3M7BO4UQBFLTIN55PLNA4MYJY.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=양인성&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대한의사협회(의협) 감염병대응위원회도 이날 “각별한 주의가 필요하다”는 입장문을 발표했다. 의협은 “해외에서 코로나가 유행하고 국내에선 리노바이러스, B형인플루엔자바이러스, 파라인플루엔자바이러스 등 급성호흡기바이러스가 동시 유행하고 있다”며 이같이 밝혔다.&lt;br&gt;&lt;br&gt;의협은 “5월 중순 급성호흡기 감염병 환자 수가 다소 증가하는 추세를 보이고 있으며, 방역당국에 의하면 해외 유입 오미크론 변이바이러스가 늘고 있어 코로나19 재유행의 우려가 적지 않다”며 “더운 날씨에 밀폐된 실내에서 활동이 많아질 것으로 예상돼 전파 위험이 높아질 수 있다”고 했다. 이어 “손씻기 등 개인 위생 수칙을 준수하고, 사람이 많이 모이는 곳에선 마스크를 착용하는 것을 적극 권장한다”고 했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“사전투표 봉투에 이재명 찍힌 용지” 신고... 선관위 “자작극 의심” </title>
+      <link>https://www.chosun.com/national/national_general/2025/05/30/WD27F7RZENEFPBR7WDVTC2U2PM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/05/30/WD27F7RZENEFPBR7WDVTC2U2PM/</guid>
+      <dc:creator>이가영 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 30 May 2025 02:41:32 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3KCN5CPFBNJKVIYQ7D3IACS7OQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;제21대 대통령 선거 사전투표 마지막 날인 30일 인천국제공항 제1터미널 출국장에 설치된 사전투표소를 찾은 유권자들이 투표를 하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제21대 대통령선거 사전투표 이틀째인 30일 “회송용 봉투에서 이미 기표된 용지가 나왔다”는 신고가 접수돼 당국이 조사에 착수했다. 중앙선거관리위원회는 자작극으로 의심된다며 수사 의뢰할 예정이라고 밝혔다. &lt;br&gt;&lt;br&gt;경기남부경찰청에 따르면 이날 오전 7시 10분쯤 용인시 수지구 성복동 주민센터 사전투표소에서 선거 참관인으로부터 “회송용 봉투에서 이재명 후보에게 기표된 투표용지가 반으로 접힌 채 나왔다”는 112 신고가 접수됐다. &lt;br&gt;&lt;br&gt;한 20대 여성 투표인 A씨가 관외투표를 하는 과정에서 자신의 회송용 봉투 안에 기표 용지가 있다고 선거 참관인에게 알렸고, 신고가 즉시 이뤄졌다. A씨는 관외투표를 위해 투표용지와 회송용 봉투를 받아들고 투표소 앞에서 기다리던 중 문제의 기표용지를 발견한 것으로 파악됐다. 이후 A씨는 이 사실을 알린 뒤 새 회송용 봉투를 받아 정상적으로 투표를 진행했다. &lt;br&gt;&lt;br&gt;주민등록지가 아닌 지역에서 사전투표를 하는 관외 사전투표의 경우 투표한 용지를 회송용 봉투에 넣게 된다. 기표한 용지를 유권자가 회송용 봉투에 밀봉한 뒤 투표함에 넣으면 이 봉투는 선거관리위원회로 보내진다. &lt;br&gt;&lt;br&gt;선관위는 현재 해당 사안이 어떻게 발생했는지에 대해 진상을 파악 중이다. 문제의 기표용지는 사무원들과의 논의를 거쳐 무효표 처리한 것으로 전해졌다. &lt;br&gt;&lt;br&gt;현장에 출동한 경찰은 우선 선관위에 현장을 인계하고 철수했다. &lt;br&gt;&lt;br&gt;&amp;nbsp;중앙선관위는 경위 파악 뒤 입장문을 통해 “해당 선거인이 타인으로부터 기표한 투표지를 전달받아 빈 회송용 봉투에 넣어 투표소에서 혼란을 부추길 목적으로 일으킨 자작극으로 의심돼 수사 의뢰할 예정”이라고 밝혔다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘광진구 교제살인’ 20대 남성, 대법서 징역 20년 확정</title>
+      <link>https://www.chosun.com/national/court_law/2025/05/30/GCTEYD3FMJDVLMNLUPWWQK2OCY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/05/30/GCTEYD3FMJDVLMNLUPWWQK2OCY/</guid>
+      <dc:creator>김희래 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 30 May 2025 03:00:00 +0000</pubDate>
+      <content:encoded>지난해 광진구의 한 다세대주택에서 이별을 통보한 전 여자친구 목을 조르고 흉기로 찔러 살해한 20대 남성이 대법원에서 징역 20년 확정 판결을 받았다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ENZY3OR6VH672D2K6DOARLWM5I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대법원 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;30일 대법원 3부(주심 재판관 이흥구)는 살인 혐의로 기소된 A씨에게 징역 20년을 선고한 원심을 확정했다고 밝혔다. A씨 측은 2심 재판에서 “1심이 ‘잔혹한 범행방법’을 양형 가중 요소로 적용한 것은 부당하다”고 주장했지만 받아 들여지지 않았다. 대법원도 “원심(2심)이 피고인에 대한 징역 20년을 선고한 1심 판결을 그대로 유지한 것이 심히 부당하다고 할 수 없다”며 상고를 기각했다.&lt;br&gt;&lt;br&gt;A씨는 지난해 5월 서울 광진구 자양동의 한 다세대주택에서 헤어지자고 하는 피해자를 목 졸라 기절시키고, 미리 구입한 과도로 목과 가슴, 배 부위를 11차례 찔러 살해한 혐의로 구속기소됐다. A씨는 지난해 2월 피해자와 교제를 시작했는데, 3개월 만에 이별 통보를 받자 다툼 끝에 살해한 것이다.&lt;br&gt;&lt;br&gt;A씨는 피해자와 교제를 시작한 뒤 실시간 위치 공유 앱을 설치하자고 제안하거나, 만나는 사람을 제한하는 등 사생활에 과도하게 간섭하고 집착한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;1심 재판부는 “기절한 피해자가 살아있는 것을 확인하고도 구호조치를 취하기보다 무방비상태에 있는 피해자를 11차례 찔러 숨지게 했다”며 징역 20년을 선고했고, 2심과 대법원도 이 판결에 잘못이 없다고 판단했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>외국인도 제2금융권 비대면 거래 편해진다…등록증 진위 확인 서비스 확대</title>
+      <link>https://www.chosun.com/national/court_law/2025/05/30/B7UMSB3D4BC7LEOA6AHIQHEY7U/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/05/30/B7UMSB3D4BC7LEOA6AHIQHEY7U/</guid>
+      <dc:creator>박강현 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 30 May 2025 02:56:25 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SKXIQXOOZOW7JXHOAENTTSNJOY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법무부 청사. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;법무부가 금융결제원과 협력해 우리나라에 체류하는 등록 외국인을 대상으로 한 ‘외국인등록증 진위 확인 서비스’를 제2금융권 금융기관에도 확대해 시행한다고 30일 밝혔다.&lt;br&gt;&lt;br&gt;외국인등록증 진위 확인 서비스는 등록 외국인이 영업점 창구 또는 모바일 앱 등을 통해 신분증 확인이 필요한 금융업무를 할 때, 금융회사에서 전송한 외국인등록증(영주증, 외국국적동포 국내거소신고증 포함) 정보를 법무부 보유 정보와 비교해 진위 여부를 판단하고 그 결과를 금융회사에 실시간으로 회신해주는 서비스다.&lt;br&gt;&lt;br&gt;서비스가 도입되기 전에는 금융기관 직원이 육안으로 신분증 사진의 진위를 확인해야 하고, 외국인들의 비대면 거래가 제한되는 어려움이 있었다. 또 위·변조되거나 도난된 신분증을 사용해 금융 사고가 발생할 우려도 있었다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6RKHVYBIWHEGVSWMWTOYXQIBJE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;외국인등록증 진위확인 서비스 업무 흐름도. /법무부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이에 당국은 지난 2023년 9월 제1금융권에 해당 서비스를 우선 도입했다. 지난 1월부터는 제2금융권 내 희망 기관을 대상으로 서비스를 시범 운영해왔는데, 긍정적인 반응이 확인돼 제 2금융권으로도 정식 서비스를 확대하게 된 것이다. &lt;br&gt;&lt;br&gt;이달 기준 현재 총 20개 금융기관(제1금융권 13, 제2금융권 7)에 이같은 서비스가 제공 중이다. 정부는 향후 모든 제2금융권 기관으로 서비스를 순차적으로 확대할 계획이다.&lt;br&gt;&lt;br&gt;법무부와 금융결제원은 “등록 외국인도 국민과 동등하게 은행, 신용카드, 증권, 보험사 등 다양한 금융기관의 금융거래를 온오프라인으로 간편하게 이용할 수 있게 됐다”며 “위·변조되거나 도난당한 신분증 사용도 차단할 수 있을 것”이라고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>가수 제니, 서울대 의과대학에 1억원 기부</title>
+      <link>https://www.chosun.com/national/national_general/2025/05/30/RLOYS7KHJJHMTLDUR22I5U2GTM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/05/30/RLOYS7KHJJHMTLDUR22I5U2GTM/</guid>
+      <dc:creator>박정훈 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 30 May 2025 02:46:24 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JB4Y5Y43EMNQSS6F7TCNNDMIDA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;가수 제니 /OA엔터테인먼트&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;걸그룹 블랙핑크의 제니가 서울대 의과대학에 1억원을 기부했다.&lt;br&gt;&lt;br&gt;서울대 의과대학 발전후원회는 제니가 의과대학 발전기금으로 1억원을 기부했다고 30일 밝혔다. 서울대 의대는 이번 기부를 바탕으로 교육과 연구 환경을 더욱 강화하고, 사회적 공감 능력을 두루 갖춘 인재 양성에 박차를 가할 계획이다.&lt;br&gt;&lt;br&gt;김정은 서울대 의대 학장은 “단순한 금전적 지원을 넘어 선한 영향력을 실천하는 제니의 깊은 뜻에 감사드린다”며 “학생들이 포용과 승복, 공감과 소통, 희생과 배려의 자질을 갖춘 리더로 성장해 국민의 신뢰와 기대에 부응할 수 있도록 하겠다”고 했다.&lt;br&gt;&lt;br&gt;한편 지난 2023년에는 제니의 소속사 OA엔터테인먼트(ODDATELIER)에서 서울대 의과대학에 1억 원을 기부했었다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“대치동서 투표 2번” 강남구청 공무원, 지난 총선 때도 선거사무원 경력</title>
+      <link>https://www.chosun.com/national/incident/2025/05/30/6VUULEAJYJAFVO2KLUMEUK5KO4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/05/30/6VUULEAJYJAFVO2KLUMEUK5KO4/</guid>
+      <dc:creator>김도균 기자, 강지은 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 30 May 2025 02:32:39 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/72B5F6UAYJNXRAYY6K7YI2DVM4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;제21대 대통령선거 사전투표 둘째 날인 30일 오전 울산 울주군 국민체육센터에 마련된 범서읍 사전투표소에서 유권자들이 투표에 참여하고 있다. 사진과 기사는 관련 없음./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 대치동의 사전투표소에서 선거사무원으로 일하던 강남구 보건소 소속 공무원이 대리 투표를 한 혐의로 경찰 수사를 받고 있다. 해당 공무원은 현재 직위해제됐다.&lt;br&gt;&lt;br&gt;서울 수서경찰서는 지난 29일 오후 강남구 대치동의 한 사전투표소에서 남편과 자신의 명의로 투표를 두 번 한 혐의(사위투표)를 받는 60대 공무원 A씨를 조사 중이라고 30일 밝혔다. A씨는 오후 1시쯤 남편 신분증으로 투표를 한 차례 마친 후 오후 5시쯤 다시 자신의 신분증으로 투표를 한 혐의를 받는다. 투표를 마치고 나온 A씨를 본 참관인이 “투표를 2번 한 사람이 있다”고 경찰에 신고했다. 해당 투표함은 이미 접수가 마감됐다고 한다.&lt;br&gt;&lt;br&gt;A씨는 강남구 보건소 소속 공무원으로 드러났다. 선거관리위원회에 29일과 30일 근무를 신청해 사전투표 사무원으로 위촉됐으며, 유권자들의 신원을 확인하는 업무를 담당했다. 지난 총선 때도 선거사무원으로 일한 경력이 있다고 전해진다.&lt;br&gt;&lt;br&gt;현행법상 사전투표에서는 신분증 확인 후 전자적 방식으로 손도장을 찍거나 서명하고 투표용지를 받는다. 지문 또는 서명은 추후 사고 발생 시 본인 확인용으로만 사용될 뿐 신분증에 기록된 지문과 일일이 대조가 이뤄지지 않는다. 이 점을 A씨가 알고 악용했을 가능성도 경찰은 수사 중이다.&lt;br&gt;&lt;br&gt;강남구는 이날 A씨를 직위해제했다. 선거관리위원회는 A씨를 해촉했고, 사위투표죄로 경찰에 고발할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“대치동서 두 번 투표” 알고보니 선거사무원…경찰 긴급체포</title>
+      <link>https://www.chosun.com/national/national_general/2025/05/30/MRWYJZBAZJAKFOWH6L5RAYSZJI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/05/30/MRWYJZBAZJAKFOWH6L5RAYSZJI/</guid>
+      <dc:creator>이가영 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 30 May 2025 02:24:03 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/27U43BQ2SRPC3PQWKIDSX4BZI4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;제21대 대통령선거 사전투표 둘째 날인 30일 전북 전주시 덕진구 전주실내체육관에 마련된 사전투표소를 찾은 시민이 투표를 하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제21대 대통령선거 사전투표 첫째 날 중복 투표를 한 유권자는 선거사무원으로 위촉된 계약직 공무원인 것으로 파악됐다. &lt;br&gt;&lt;br&gt;서울 수서경찰서는 공직선거법상 사위투표 혐의로 선거사무원 A씨를 긴급체포해 조사 중이라고 30일 밝혔다. &lt;br&gt;&lt;br&gt;A씨는 전날 오후 1시쯤 서울 강남구 대치2동 소재 사전투표소에서 남편의 신분증으로 대리투표를 마친 뒤 오후 5시쯤 자신의 신분증으로 다시 투표를 시도한 혐의를 받는다. &lt;br&gt;&lt;br&gt;경찰은 이날 오후 5시 11분쯤 ‘투표를 두 번 한 유권자가 있다’는 112 신고를 받고 출동해 경위를 파악한 뒤 A씨를 긴급 체포했다.&lt;br&gt;&lt;br&gt;강남구 보건소 소속 계약직 공무원이었던 A씨는 전날과 이날 이틀간 투표사무원으로 위촉됐다. A씨는 유권자의 신원을 확인하는 업무를 담당한 것으로 전해졌다. &lt;br&gt;&lt;br&gt;강남구청은 A씨를 직위해제했다. 선관위도 A씨를 선거사무원직에서 해촉하고 경찰에 고발할 방침이다. &lt;br&gt;&lt;br&gt;공직선거법상 성명을 사칭하거나 신분증명서를 위조‧변조하는 등의 방법으로 투표한 사람은 5년 이하의 징역 또는 1000만원 이하의 벌금에 처할 수 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“초등학생도 이것보단 빨라”…윤여춘 육상 해설자 분노케한 경기</title>
+      <link>https://www.chosun.com/national/national_general/2025/05/30/LDB2UUJBNFAQNHV2F7TBMGQXH4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/05/30/LDB2UUJBNFAQNHV2F7TBMGQXH4/</guid>
+      <dc:creator>이가영 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 30 May 2025 00:28:46 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AV5XTRLVGRET7BQPNEHTFBQKWU.gif"&gt;&lt;figcaption&gt;&lt;small&gt;지난 21일 경남 밀양에서 열린 제54회 전국종별육상경기선수권대회 남자 대학부 3000m 장애물 결승 경기의 모습. /KBS스포츠&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전국 종별 육상경기 선수권대회에서 한국 육상의 현실을 고스란히 보여주는 장면이 연출됐다. 경기 내내 느린 레이스를 펼치는 선수들을 본 윤여춘 해설위원은 “초등학생보다 못한 경기다” “이 경기는 중계하지 않겠다”고 쓴소리를 했다. &lt;br&gt;&lt;br&gt;지난 21일 경남 밀양에서 열린 제54회 전국종별육상경기선수권대회 남자 대학부 3000m 장애물 결승 경기에서는 선수들이 기록보다는 순위에 집중하는 모습이 펼쳐졌다. 선수들은 전력을 다해 빠르게 달리기보다는 주변 선수들의 속도에 맞춰 천천히 달리면서 1위를 하는 것에만 집중하는 듯했다. 심지어 결승 경기 도중 옆 선수와 웃으며 대화하는 장면도 포착됐다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/E4EHECGJONAHXMFXK6CCCIJXS4.png"&gt;&lt;figcaption&gt;&lt;small&gt;지난 21일 경남 밀양에서 열린 제54회 전국종별육상선수권대회 남자 대학부 3000m 장애물 결승 경기를 바라보는 윤여출 해설위원의 모습. /KBS스포츠&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 1위를 차지한 선수의 기록은 10분 16초 56이었다. 한국 남자 대학부 최고 기록은 2007년 당시 한국체육대학교에 재학 중이던 황준현 선수가 세운 8분 50초 41이다. 이보다 무려 1분 넘게 뒤처진 기록이다. 여자 최고 기록인 9분 59초 05에도 미치지 못하는 수준이었다. 같은 대회에서 치러진 남자 고등학교부 1위의 성적은 9분 40초 90이었다. &lt;br&gt;&lt;br&gt;경기를 지켜보던 윤 해설위원은 “선수들의 페이스가 느리다. 너무 순위 경쟁을 하다 보니까 조깅도 아니고, 워킹보다 조금 빠른 것 같다”며 “실망을 많이 주고 있다”고 했다. 이어 “이것이 대학 육상 선수들의 현실”이라며 “이런 경기를 국민들이나 관중들에게 보여주는 건 우리 육상인들의 창피한 모습”이라고 지적했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6OGVU5IZRRHV5NMAZ5XTZ3UZBA.gif"&gt;&lt;figcaption&gt;&lt;small&gt;2022 오리건 세계육상선수권대회 남자 3000m 장애물 결승 경기의 모습. /유튜브 World Athletics&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그럼에도 선수들이 속도를 낼 기미가 보이지 않자 윤 해설위원은 “이렇게 뛰면 중계하는 저희도 힘이 나지 않고, 시청하는 분들도 분명히 채널을 돌릴 것”이라며 “육상의 인기를 저하시키는 경기 모습을 보여주고 있는데, 당분간은 대학 3000m 장애물 경기는 중계 방송해서는 안 된다. 피디님에게 이야기해서 당분간 중계 방송 안 하는 걸로 하겠다”고 했다. &lt;br&gt;&lt;br&gt;그는 “정말 속상하다”며 “초등학생도 이것보다는 빠르게 달린다”고 했다. 이어 “우리나라에서 1등 해도 기록이 되지 않으면 올림픽, 세계육상선수권, 아시안게임에서 받아주지도 않는다”며 “기록 기준에 들어야만 갈 수 있는데, 이 선수들이 앞으로 무슨 꿈이 있겠나”라고 했다. &lt;br&gt;&lt;br&gt;윤 해설위원은 “정말 속상해서 드리는 말씀”이라며 “대학생 1위가 10분을 넘는다는 것은 부끄러운 일이다. 여자 선수도 9분대를 뛰는데…”라며 끝내 말을 잇지 못했다. &lt;br&gt;&lt;br&gt;&lt;b&gt;◇ “순위보다는 기록에 대한 보상 주는 체계로 바뀌어야”&lt;/b&gt;&lt;br&gt;&lt;br&gt;이와 관련 윤 해설위원은 29일 KBS스포츠에 “선수들이 담합해서 기록 위주가 아닌 순위 경쟁을 펼친 것에 대해 안타까워서 한 이야기였다”며 “속이 상했다”고 했다. 이어 “최선을 다했는데 기록이 안 나오는 건 본인의 수준이기 때문에 어쩔 수 없다”며 “그런데 담합해서 경기를 한다? 초등학생, 중학생들이 뭘 보고 배우겠나. 정말 안타깝고 꼭 고쳐야 할 문제”라고 했다. &lt;br&gt;&lt;br&gt;그는 “한국 육상이 높이뛰기 우상혁 선수 제외하고 올림픽 가는 선수가 없다”며 “이런 걸 보면 국민들이 육상에 대해 어떻게 생각하겠나. 육상인의 한 사람으로서 너무 안타깝고 질타해야 한다고 생각했다”고 했다. &lt;br&gt;&lt;br&gt;윤 해설위원은 선수들이 순위를 더 중요하게 생각할 수밖에 없는 현재의 시스템도 문제라고 지적했다. 그는 “전국체전 금메달 따면 1억원 가까이 받는다. 국내 대회에서 1위할 경우 얼마, 2위 하면 얼마의 포상금이 측정되어 있다”며 “근데 아시안게임에서 메달 못 따면 아무런 혜택이 없다”고 했다. 그러면서 “자꾸 순위 경쟁을 펼치다 보니 우리나라 육상을 거꾸로 가게 하는 선수들이 많이 나온다”며 “기록에 대한 보상을 해줘야 한다. 이것을 체육회나 국가에서 심각하게 생각해볼 문제”라고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/6OGVU5IZRRHV5NMAZ5XTZ3UZBA.gif?auth=f8d287f87c11f772eb48c2923ba09f2b73bfc224a6769aa15a3ae3991b95fb59&amp;smart=true&amp;width=400&amp;height=211" type="image/jpeg" height="211" width="400">
+        <media:description type="plain">2022 오리건 세계육상선수권대회 남자 3000m 장애물 결승 경기의 모습. /유튜브 World Athletics</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>모처럼 맑은 주말...서울·대구 최고 29도</title>
+      <link>https://www.chosun.com/national/transport-environment/2025/05/30/45ACZFYRD5GCHJITLVEY6GNIBU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/05/30/45ACZFYRD5GCHJITLVEY6GNIBU/</guid>
+      <dc:creator>정해민 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 30 May 2025 01:29:08 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/A5YCJU3VO65EK2XUHGZ3TQQJQQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;낮 기온이 최고 28도까지 오르며 초여름 날씨를 보인 지난 27일 서울 영등포구 여의도 한강공원을 찾은 시민들이 더위를 식히고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;주말인 31~1일은 고기압의 영향으로 전국이 대체로 맑겠다.&lt;br&gt;&lt;br&gt;기상청은 “(토요일인) 31일 전국이 대체로 맑다가 오후부터 구름 많아지겠다”고 30일 밝혔다. 일요일인 1일에도 전국이 대체로 맑겠으나 전남권과 제주도는 오후부터 차차 흐려질 전망이다.&lt;br&gt;&lt;br&gt;31일 아침 최저 기온은 8~16도, 낮 최고 기온은 22~29도로 예보됐다. 기상청은 “내륙을 중심으로 낮과 밤의 기온차가 15도 내외로 크겠으니 건강 관리에 유의해야 한다”고 했다.&lt;br&gt;&lt;br&gt;서울은 16~29도, 대전 14~28도, 광주 15~27도, 대구 12~29도, 부산 14~26도 등으로 예상된다.&lt;br&gt;&lt;br&gt;미세먼지 농도는 원활한 대기 확산으로 전국이 ‘좋음’에서 ‘보통’ 수준을 보이겠다.&lt;br&gt;&lt;br&gt;일요일인 다음 달 1일에도 내륙을 중심으로 30도 안팎까지 기온이 오를 전망이다. 아침 최저 기온은 12~17도, 낮 최고 기온은 21~31도로 예보됐다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>법무부, ‘北 형법 주석’ 발간...반동사상문화배격법 등 조문별 해설도 포함</title>
+      <link>https://www.chosun.com/national/court_law/2025/05/30/ZXYTRFX5UFB2VGBPBJQW2ALBL4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/05/30/ZXYTRFX5UFB2VGBPBJQW2ALBL4/</guid>
+      <dc:creator>박강현 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 30 May 2025 01:19:28 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ATWFUUK67NKSVEQ354YNOD3TDU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법무부 청사. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;법무부가 북한의 형법을 분석한 ‘북한 형법 주석’을 30일 발간했다. 북한 형법 조문 329개 전부를 대상으로 했으며 분량은 총 1128쪽에 이른다. 북한은 공산주의 도덕에 어긋나는 행동을 한 행위 등을 범죄로 구성해 형사 처벌하고 있다.&lt;br&gt;&lt;br&gt;법무부에 따르면 지난 2023년 12월 개정된 북한 형법의 주요 특징으로는 ▲사형의 확대를 통한 통제 강화 ▲반사회주의 문화 차단 강화 ▲국가상징 보호 강화 ▲남북관계 변화 등이 꼽힌다. &lt;br&gt;&lt;br&gt;북한은 형법 개정을 통해 형사특별법(반동사상문화배격법, 마약범죄방지법 등)에도 사형을 규정했다. 또 지난 2020년 반동사상문화배격법을 제정해 이른바 ‘한류’ 등 외부 문화 유입에 대한 통제를 강화했다. 이는 ‘장마당 세대(북한의 신세대 격)’ 사이에서 한류 문화가 유행해 ’오빠‘ 호칭 등 우리나라 문화가 유입되면서 체제 위기를 느낀 것에 대한 대응 차원으로 풀이된다. 이에 따라 퇴폐적인 문화반입, 유포죄 등이 현행 형법에서는 삭제됐다. &lt;br&gt;&lt;br&gt;북한은 아울러 공화국의 존엄모독죄와 국기·국장훼손죄를 각각 2022년 및 2023년에 신설하는 등 국가상징 보호를 강화하고 있다. 또 지난 2023년 12월 노동당 중앙위원회 회의에서 남북관계를 ‘적대적 두 국가, 전쟁 중에 있는 두 교전국 관계’로 선언하면서 ‘조선민족해방운동탄압죄’ 등 관련 조항은 삭제됐다.&lt;br&gt;&lt;br&gt;이번 북한 형법 주석은 앞서 법무부가 지난 2015년 발간한 ‘북한 형법(2012년 개정법)’의 전면 개정판으로 형법의 조문별 구성요건에 대한 설명과 함께 개정 연혁, 대한민국·러시아·중국·베트남 형법과의 비교법적 연구를 담았다. 북한 형사법 체계를 보다 입체적으로 바라볼 수 있게 한 것이다. &lt;br&gt;&lt;br&gt;그러면서 북한 사회상의 변천사를 선명하게 보여줄 수 있는 반동사상문화배격법과 마약범죄방지법에 대한 조문별 해설도 포함했다. 북한 형법 주석은 통일법제 데이터베이스에서 무료로 내려받을 수 있다.&lt;br&gt;&lt;br&gt;유태석 법무실장 대행은 “이번 주석서 발간이 향후 남북 법률 체계 통합에 효율적으로 대처하기 위한 연구의 초석이 되길 기대한다”며 “법무부는 남북한의 법･제도 통합 준비를 위해 지속적으로 노력하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“부정선거 감시하려고”...하동선관위 건물 무단침입 30대 체포 </title>
+      <link>https://www.chosun.com/national/2025/05/30/UJ73TLDZGRGVBGDP6CZW2ES23M/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2025/05/30/UJ73TLDZGRGVBGDP6CZW2ES23M/</guid>
+      <dc:creator>창원=김준호 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 30 May 2025 01:06:50 +0000</pubDate>
+      <content:encoded>부정 선거를 감시한다며 경남 하동군 선거관리위원회 건물에 무단 침입한 30대가 경찰에 체포됐다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/S4JNNA63IJHXYPIIBJ7DXGEVSU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경남경찰청은 건조물침입 혐의로 A씨를 현행범 체포해 조사하고 있다고 30일 밝혔다. &lt;br&gt;&lt;br&gt;경찰에 따르면 A씨는 대선 사전투표 첫날인 지난 29일 오후 9시 39분쯤 하동군 선거관리위원회 건물 뒤편 배관을 타고 2층 발코니로 올라가 건물 안으로 들어가는 문을 열었다. 당시 문은 잠기지 않은 상태였다고 한다. &lt;br&gt;&lt;br&gt;하지만 A씨는 경보음이 울리자, 건물 안으로는 들어가지 않았다고 한다. 사설 경비업체가 침입 사실을 확인해 경찰에 신고했고, 현장에 출동한 경찰이 A씨를 현행범으로 체포했다. 현재까지 공범은 없는 것으로 확인됐다.&lt;br&gt;&lt;br&gt;경찰 조사에서 A씨는 부정선거가 의심돼 감시하기 위해 이 같은 짓을 저질렀다는 취지로 진술했다. &lt;br&gt;&lt;br&gt;경찰 관계자는 “선거 관련 사건인 만큼 A씨를 상대로 정확한 사건 경위를 조사하는 한편 여죄가 있는지를 확인할 계획이다”라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>양손 흉기 들고 아파트 배회... 경찰 향해 돌진하자 ‘테이저건’ 제압</title>
+      <link>https://www.chosun.com/national/national_general/2025/05/30/H5ZSY6LY3NHQFL4BU6AQK5UCUY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/05/30/H5ZSY6LY3NHQFL4BU6AQK5UCUY/</guid>
+      <dc:creator>이혜진 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 30 May 2025 00:06:43 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/V6KJAGHILJG7NK24WGYG2GU6YA.png"&gt;&lt;figcaption&gt;&lt;small&gt;경북 구미의 한 아파트에서 흉기를 든 채 배회하던 남성을 경찰이 테이저건으로 제압했다. /유튜브 '대한민국 경찰청'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경북 구미의 한 아파트에서 흉기를 든 채 배회하던 남성을 경찰이 테이저건으로 제압했다.&lt;br&gt;&lt;br&gt;28일 경찰에 따르면, 지난 9일 경북 구미의 한 아파트에서 남성 주민 A씨가 흉기를 양손에 들고 엘리베이터와 복도를 배회하며 주민들을 공포에 빠뜨렸다. 당시 상황은 아파트 엘리베이터 방범 카메라에 그대로 기록됐고, 경찰은 유튜브 ‘대한민국 경찰청’을 통해 당시 상황이 찍힌 영상을 공개했다. &lt;br&gt;&lt;br&gt;방범카메라 영상을 보면, 엘리베이터에 탑승 중이던 남녀 주민 2명은 문이 열리자마자 문 앞에 양손에 흉기를 들고 서 있는 A씨와 마주쳤다. A씨는 잠시 서 있다가 돌아섰고, 엘리베이터 문이 닫히자 주민들은 놀란 듯 대화를 나눴다. 이후 A씨는 홀로 엘리베이터에 탑승해 흉기를 엘리베이터 문 쪽으로 향하게 쥔 채 문 앞에 서 있다가 다른 층으로 이동하는 모습이 포착됐다.&lt;br&gt;&lt;br&gt;신고를 받은 경찰은 즉시 현장에 출동했다. 경찰은 만일의 사태에 대비해 테이저건을 준비했다. 경찰은 관리사무소의 협조를 받아 A씨의 거주지를 파악했고 매뉴얼에 따라 역할을 분담한 뒤 그의 자택으로 향했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CIL6NIG7ORC5BFQEDJBKG4YQTU.gif"&gt;&lt;figcaption&gt;&lt;small&gt;경북 구미의 한 아파트에서 흉기를 든 채 배회하던 남성을 경찰이 테이저건으로 제압했다. /유튜브 '대한민국 경찰청'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이어진 경찰 보디캠 영상에서 경찰은 A씨 주거지 복도에서 A씨가 나오기를 기다리며 현관문을 두드렸다. 문이 열리자 A씨는 양손에 흉기를 든 채 경찰을 향해 돌진했고, 미리 테이저건을 준비하고 있던 경찰은 신속하게 테이저건을 발사해 A씨를 제압했다. 현장에서 체포된 A씨는 특수공무집행방해 등의 혐의로 구속 송치됐다.&lt;br&gt;&lt;br&gt;해당 영상을 접한 누리꾼들은 “엘리베이터에 주민 혼자였으면 큰일 날 뻔했다” “경찰들 보호 장비 강화시켜달라” “눈앞에서 흉기를 들고 달려드는데 겨우 테이저건이라니” “진짜 큰일 날 뻔했네요” “침착한 대응과 신속한 제압 덕분에 큰 피해 없이 마무리돼서 정말 다행입니다” 등의 반응을 보였다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/H3NLXG46HJG37HKYDBV26JX7YQ.gif?auth=93ee66c489b4632d2b6cb29a86617556b3a7b000062d19815d9873f657d54bae&amp;smart=true&amp;width=627&amp;height=353" type="image/jpeg" height="353" width="627"/>
+    </item>
+    <item>
       <title>“대치동서 사전투표 두 번 한 사람 있다”…경찰, 수사 착수</title>
       <link>https://www.chosun.com/national/national_general/2025/05/30/WZFL6465ONEKVC7ELO3M5RJEZA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/05/30/WZFL6465ONEKVC7ELO3M5RJEZA/</guid>
@@ -753,15 +865,6 @@
       <content:encoded>삼성물산이 미국계 헤지펀드 엘리엇에 267억원의 지연손해금을 지급하지 않아도 된다는 항소심 판단이 나왔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7P6PJOFPGAA6I7LMMWZ5JTVCV4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 법원종합청사./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울고법 민사16부(재판장 김인겸)는 29일 엘리엇이 삼성물산을 상대로 낸 약정금 반환 청구 소송에서 원고 패소로 판결했다. 재판부는 “원고의 항소를 기각한다. 항소 비용은 원고가 부담한다”고 밝혔다. 법정에서 판결 이유를 따로 밝히지는 않았다.&lt;br&gt;&lt;br&gt;이 사건은 2015년에 진행됐던 삼성물산과 제일모직 합병 과정에서 삼성물산 주식 7.12%를 보유하고 있던 엘리엇이 합병에 반대하며 시작됐다. 합병에 반대한 엘리엇과 소액주주 등이 자신들이 보유하고 있던 주식을 매수하라고 요구하자 삼성물산은 주식매수 청구가격을 1주당 5만7234원으로 제시했다.&lt;br&gt;&lt;br&gt;그러나 엘리엇은 삼성물산이 제시한 이 가격이 너무 낮다며 주식매수청구권 신청했다. 양측이 2016년 3월 ‘다른 주주와의 소송에서 청구가격이 바뀌면 그에 맞춰 차액분을 지급하겠다’는 내용의 비밀합의를 맺으면서 엘리엇은 이 신청을 취하했다. &lt;br&gt;&lt;br&gt;이후 대법원은 2022년 4월 삼성물산의 한 주당 가격으로 6만6602원이 적당하다고 결정하면서, 엘리엇은 그해 5월 삼성물산으로부터 724억원을 받았다. 이는 삼성물산이 제시한 가격과 대법원이 결정한 가격의 차액만큼 계산한 금액이다.&lt;br&gt;&lt;br&gt;하지만 엘리엇은 2023년 10월 “267억원의 지연손해금을 추가로 받아야 한다”며 이 소송을 제기했다. 삼성물산이 자신들에게는 2015년 9월 8일부터 2016년 3월 17일까지의 지연손해금을 지급했는데, 다른 주주들에게는 2015년 9월 8일부터 2022년 5월 12일까지의 지연손해금을 지급했으니 받지 못한 기간의 금액을 받아야 한다는 것이다.&lt;br&gt;&lt;br&gt;앞서 1심은 작년 9월 삼성물산의 손을 들어줬다. 재판부는 “양측의 합의서 내용은 실질적으로 주식매매대금과 같지만 다른 명목으로 지급된 금원을 포함하기 위한 규정으로 해석될 뿐”이라며 “지연손해금을 포함하기 위한 규정으로 보기는 어렵다”고 판단했다. 삼성물산이 엘리엇에게 주식매수 대금 원금만 지급하면 되고, 지연손해금까지 줘야 할 필요는 없다는 취지다. 항소심도 1심 판단에 잘못이 없다고 보고 항소를 기각했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>이동건, 16살 차 배우 강해림과 열애설…소속사 “사생활 확인 불가”</title>
-      <link>https://www.chosun.com/national/people/2025/05/29/DZGXTX7NJBFCFOLOB4CMJTGVNY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/05/29/DZGXTX7NJBFCFOLOB4CMJTGVNY/</guid>
-      <dc:creator>이가영 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 29 May 2025 00:22:44 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/B3GMAA3MAZMEMTHS7GUVGNT5EA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이동건(왼쪽), 강해림. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;배우 이동건(45)과 강해림(29)이 열애설에 휩싸인 가운데, 양측 소속사는 “확인 불가” 입장을 내놓으며 말을 아꼈다. &lt;br&gt;&lt;br&gt;29일 강해림 소속사 앤드마크 측은 “배우의 사생활이라 확인이 불가능하다”고 밝혔다. 이동건의 소속사 더블유플러스 역시 “사생활 영역이라 본인에게 확인하기 어렵다”고 했다. &lt;br&gt;&lt;br&gt;이날 스포티비뉴스는 이동건과 강해림이 서울 강남 일대에서 주위의 시선을 의식하지 않고 당당한 데이트를 즐기는 모습이 수차례 목격됐다고 보도했다. 이동건이 거리에서 강해림의 허리와 어깨에 손을 두르거나, 두 사람이 손을 잡고 걷는 등 서로의 사이를 숨기지 않는 모습이었던 것으로 전해졌다. &lt;br&gt;&lt;br&gt;1998년 가수로 데뷔한 이동건은 드라마 ‘파리의 연인’, ‘월계수 양복점 신사들’, ‘여우각시별’, ‘셀러브리티’ 등에 출연하며 연기자로도 활발한 활동을 펼쳤다. 2017년 9월 동료 배우 조윤희와 결혼해 같은 해 12월 딸을 얻었다. 2020년 5월 합의 이혼했고, 딸은 조윤희가 키우고 있다. 이동건은 SBS ‘미운 우리 새끼’ 등을 통해 매주 딸을 만나며 아버지로서의 책임을 다하는 모습을 보여줬다. 최근에는 제주도에 카페를 개업해 사업가로도 변신했다. &lt;br&gt;&lt;br&gt;‘미운 우리 새끼’ 측은 언론에 “이동건의 열애설을 기사로 확인했다”며 “본방송과 완전히 무관한 개인 사생활로, 방송을 통해 공개될 내용은 전혀 아니다”라고 밝혔다. &lt;br&gt;&lt;br&gt;강해림은 2017년 웹드라마 ‘아이돌 권한대행’으로 데뷔, 2019년 KBS Joy ‘연애의 참견’ 시즌 2, 3 재연 배우로 활약했다. 2022년 넷플릭스 ‘썸바디’에서 첫 주연으로 발탁됐고, 최근에는 하정우가 연출한 영화 ‘로비’에 출연했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>“금방 망하는 사람처럼…” 이경실, 89평 용산 아파트 경매 언급 </title>
       <link>https://www.chosun.com/national/national_general/2025/05/29/K5YP4YTZFBBHHNF3LH6FRJN4KE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/05/29/K5YP4YTZFBBHHNF3LH6FRJN4KE/</guid>
@@ -787,15 +890,6 @@
       </media:content>
     </item>
     <item>
-      <title>[단독] 디올백 때도, 샤넬백 때도 ‘김여사 그림자’가 움직였다</title>
-      <link>https://www.chosun.com/national/2025/05/22/KLSDETXU2RHUXO77HQUVLQBE2M/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2025/05/22/KLSDETXU2RHUXO77HQUVLQBE2M/</guid>
-      <dc:creator>고유찬 기자, 이민경 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 21 May 2025 20:02:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7ZS22CA2ARG43EDCWSHFMYR3WI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2022년 6월 경남 김해 봉하마을을 찾은 김건희 여사(오른쪽). 앞줄 왼쪽(노랑 원)에 있는 사람이 김 여사의 수행비서였던 유경옥 전 행정관이다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;유경옥 전 행정관은 15년 가까이 김건희 여사를 보좌해온 이른바 ‘그림자 비서’다. 유씨가 가방을 받은 시점은 윤 전 대통령 당선 직후인 2022년 4월과 7월인 것으로 검찰은 파악했다. 검찰은 현 정부 대통령실 근무 당시에도 ‘김 여사 문고리 4인방’ 중 핵심으로 꼽혔던 유씨가 실제 김 여사에게 백을 전달했을 가능성이 크다고 보고 있다. 이에 검찰은 최근 유씨의 출국을 금지한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;최근 검찰은 샤넬코리아 본사를 압수수색하며 가방의 모델과 일련번호, 구매 내역을 확보했고 유씨가 백을 바꾸며 생긴 추가 비용을 카드로 결제한 내역도 확보했다. 샤넬백 2개는 통일교 윤모 전 본부장 처형과 아내 이모씨가 각각 구매한 것으로 전해졌다. &lt;br&gt;&lt;br&gt;김 여사 측은 본지에 “샤넬백을 직접 받은 적도 없고 (유씨가) 받은 사실도 몰랐다”고 했다. 과거 김 여사가 운영했던 전시 기획 업체 ‘코바나컨텐츠’에서 고문을 맡았던 무속인 ‘건진 법사’ 전성배(65)씨가 유씨에게 ‘명품백 교환’을 지시해 심부름을 했을 뿐, 김 여사는 알지 못했다는 취지다. 유씨도 지난주 검찰 소환 조사에서 이같이 진술한 것으로 알려졌다. 그러나 검찰은 유씨가 처음부터 백을 전달하지 않은 ‘배달 사고’가 났을 가능성은 적다고 판단, 유씨를 이번 주말쯤 재소환할 방침인 것으로 전해졌다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QTVPWLWANBAAFOFMQM67FTNI2A.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=이진영&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;유씨와 김 여사 간 관계는 15년 전으로 거슬러 올라간다. 김 여사가 대표로 있던 코바나컨텐츠에서 함께 일하면서 인연을 맺은 것으로 전해졌다. 영어를 잘하는 데다 전시 일정 등을 철저히 관리해 김 여사 신임을 받았다고 한다. 전시 총괄 팀장이었던 유씨는 지난 2012년 미술 전시 관련 정보 사이트에 ‘코바나컨텐츠 전시기획팀 신입 사원을 채용한다’는 글을 올렸다. 김 여사는 2017년 2월엔 유씨 생일 때 ‘유 팀장님 생신’ ‘우리 회사 국경일’이라는 글과 케이크에 불을 붙이고 축하하는 모습을 담은 사진을 소셜미디어에 올렸다. 2016년 파리로 출장 가 에펠탑, 파리 근교 지베르니에 있는 인상주의 화가 모네의 정원 등을 방문해 유씨와 함께 사진을 찍어 올리기도 했다. 정치권 관계자는 “유씨는 김 여사를 개인적으로 가장 잘 아는 인물”이라며 “시시콜콜한 개인 심부름까지 전담했던 것으로 안다”고 했다.&lt;br&gt;&lt;br&gt;윤석열 전 대통령 취임 이후에도 그는 대통령실 행정관으로 김 여사를 보좌했다. 2022년 정권 초기 노무현 전 대통령 묘역을 참배하기 위해 김 여사가 봉하마을을 방문했을 때 동행했다. 2023년 6월 윤 전 대통령 베트남 순방 당시 유씨가 하노이 시내 고급 백화점을 김 여사와 방문하는 장면이 촬영되기도 했다.&lt;br&gt;&lt;br&gt;검찰은 유씨가 김 여사 ‘국정·선거 개입 의혹’ 등에도 깊숙이 관여했다고 보고 있다. 그가 2022년 6월 정치 브로커 명태균씨와 국민의힘 김영선 전 의원 간 비공개 회동을 조율하기 위해 명씨와 카카오톡으로 대화를 나눈 기록이 검찰 수사 과정에서 드러났다. 명씨와 김 전 의원은 국회의원 공천을 대가로 돈을 주고받은 혐의 등으로 작년 12월 기소됐다. 지난 2022년 9월 재미 동포 최재영 목사가 김 여사에게 300만원 상당의 프랑스 명품 디올백(레이디 디올 파우치)을 건넸을 때도 유씨가 당시 일정을 조율했었다.&lt;br&gt;&lt;br&gt;검찰은 윤석열 정부 출범 이후 통일교 측 윤 전 본부장이 캄보디아 공적개발원조(ODA) 사업을 수주하게 해달라며 전씨 측에 샤넬백과 6000만원 상당의 고가 목걸이 등 명품을 잇따라 건네면서 청탁했다고 보고 있다. 윤 전 본부장은 2022년 3월 당선인 신분이었던 윤 전 대통령을 만나 ODA 문제를 논의했다고 그해 5월 통일교 창립 기념행사에서 밝혔었다. 실제 기획재정부가 캄보디아 차관 지원 한도액을 늘리기도 했다. 그해 11월엔 윤 전 대통령 부부가 동남아 순방 과정에서 캄보디아 프놈펜을 방문하기도 했다. 법조계 관계자는 “윤 전 대통령 직무 관련성과 대가성 등이 확인될 경우 김 여사는 물론 윤 전 대통령에 대한 수사로도 확대될 수 있다”고 했다.&lt;br&gt;&lt;br&gt;한편 검찰은 전씨 통화 내역을 확인하는 과정에서 김 여사가 전씨에게 두 차례 전화한 사실을 파악한 것으로 알려졌다. 김 여사가 전화한 시점은 2023년 1월로, 모두 김 여사가 먼저 전화했다. 김 여사의 주가조작 연루 의혹을 재수사하는 서울고검도 이날 김 여사 휴대폰을 압수해 분석 중인 것으로 전해졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>대학 그만뒀던 월남전 참전 용사, 66년 만에 ‘과티’ 입고 캠퍼스로…</title>
       <link>https://www.chosun.com/national/people/2025/05/29/SY5KNVTBVZAK5NHSD7IGTZAEQE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/people/2025/05/29/SY5KNVTBVZAK5NHSD7IGTZAEQE/</guid>
@@ -805,33 +899,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SIZRMW5BF5A7TGRXEOZYBVJJEY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;21일 서울 성북구 고려대학교 서관의 한 강의실에서 김효전(88)씨가 '맹자읽기' 수업을 듣고 있다. /김혜민 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“임금이라면 마땅히 패도를 물리치고 왕도를 행해야 하니…. 이 나이에 맹자(孟子) 한 줄이 가슴을 울릴 줄은 몰랐습니다.”&lt;br&gt;&lt;br&gt;지난 21일 오후 3시 서울 성북구 고려대 한 강의실에서 노신사가 세 번째 줄에 앉아 맹자 한 구절을 소리 내 읽었다. 희끗희끗한 머리에 고려대 로고가 새겨진 호랑이 티셔츠를 입고 ‘맹자 읽기’ 수업에 참석한 김효전(88)씨는 월남전 참전 용사다. 주변 학생들이 노트북 타자를 칠 때 김씨는 펜으로 한자 문구를 한 자 한 자 적었다.&lt;br&gt;&lt;br&gt;1959년 우석대(옛 국학대)를 자퇴했던 김씨는 올해 3월 66년 만에 고려대 한문학과 3학년으로 편입했다. 그는 이번 학기 아들뻘 교수가 가르치는 ‘맹자 읽기’ ‘논어 읽기’ 등 5과목을 손주뻘 학생들과 듣는다. 서울 강서구 집에서 성북구 캠퍼스까지 두 번 지하철을 갈아타고 1시간 넘게 통학한다. 그러나 대학에 돌아온 것만으로도 행복하다고 했다. 지난달엔 고려대 로고가 새겨진 과 잠바도 샀다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JTYTFPSECBGDXHF3GVN7Z66NOU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;21일 오후 수업 전 서울 성북구 고려대 문과대학 앞에서 만난 김효전씨. 고려대 로고가 새겨진 호랑이 티셔츠를 입고 있다. 월남전 참전 용사인 김씨는 올해 고려대 한문학과 3학년으로 편입했다. /김혜민 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전남 장흥군에서 태어난 김씨는 1957년 우석대 법학과에 입학했지만, 아버지 사업 실패로 2년 만에 학업을 접었다. 생계를 위해 입대한 그는 1969년 월남전에 참전했다. 13개월 동안 맹호부대 중대장(대위)으로 군인 150명을 이끈 김씨는 화랑무공훈장을 받았다. 제대 후에도 공부하고 싶다는 생각이 남아 있었지만 가족을 부양하느라 학업을 다시 잇지 못했다.&lt;br&gt;&lt;br&gt;기회는 작년에 우연히 찾아왔다. 작년 고엽제 후유증으로 상이군인 6급 판정을 받고 관상 동맥 수술을 받았다. 그런데 상이 군인에게는 대학 등록금을 지원해주는 혜택이 있었다. 마침 김씨가 다녔던 우석대가 1971년 고려대에 흡수된 상태였다. 이 때문에 그는 고려대에 편입할 수 있었다. &lt;br&gt;&lt;br&gt;만학도가 된 그는 입학 전 3개월 동안 한문을 독학해 한자 시험 1급을 땄다. 온라인 강의를 듣기 위해 50만원짜리 노트북도 구매했다. ‘맹자 읽기’를 담당한 고려대 양원석(54) 교수는 “중간고사에서도 아주 우수한 성적을 받으셨다”고 했다. 김씨는 “이전엔 생각하지 못한 ‘기막힌’ 한자 구절을 만날 때 배움의 기쁨이 크다”며 “한자의 세계를 깊숙이 이해할 때까지, 끝까지 공부하고 싶다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[인사] 외교부 외</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2025/05/29/ZVGHNG3I2RBGTC73JIQHDKNHA4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2025/05/29/ZVGHNG3I2RBGTC73JIQHDKNHA4/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 28 May 2025 16:31:47 +0000</pubDate>
-      <content:encoded>▲&lt;b&gt;외교부&lt;/b&gt;▷국제사이버협력대사 이태우&lt;br&gt;&lt;br&gt;▲&lt;b&gt;우주항공청&lt;/b&gt;◇프로그램장(과장급)▷우주수송임무설계프로그램장 조병규▷한국형발사체프로그램장 현성윤&lt;br&gt;&lt;br&gt;▲&lt;b&gt;한국지질자원연구원&lt;/b&gt;◇본부장급▷국토우주지질연구본부장 정용복▷기후변화대응연구본부장 하규철▷포항지질자원실증연구센터장 공기수◇실장급▷경영기획실장 손문정▷연구운영실장 김지희▷지식정보실장 김태훈▷총무복지실장 김희수▷회계재무실장 이남기▷구매자산실장 이진원▷안전보안실장 전상준&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[부음] 김정남씨 별세 외</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2025/05/29/Z3HOBQKLXJBYJP7ICKFQIFHQ3Y/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2025/05/29/Z3HOBQKLXJBYJP7ICKFQIFHQ3Y/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 28 May 2025 16:31:06 +0000</pubDate>
-      <content:encoded>▲&lt;b&gt;김정남&lt;/b&gt; 별세, &lt;b&gt;김세윤&lt;/b&gt; 수원지방법원장 장인상=27일18시29분 분당서울대병원, 발인 30일6시, (031)787-1500&lt;br&gt;&lt;br&gt;▲&lt;b&gt;박계임&lt;/b&gt; 별세, &lt;b&gt;조미경&lt;/b&gt; 증산초 교사∙&lt;b&gt;조민철&lt;/b&gt; 법무사 모친상, &lt;b&gt;박순호&lt;/b&gt; 세정그룹 회장 누나상, &lt;b&gt;이호&lt;/b&gt; 장모상, &lt;b&gt;정미애&lt;/b&gt; 연서초 교감 시모상=28일6시28분 부산 광혜병원, 발인 30일8시40분, (051)506-1022&lt;br&gt;&lt;br&gt;▲&lt;b&gt;박종순&lt;/b&gt; 별세, &lt;b&gt;방영갑&lt;/b&gt; 한국건설경영협회 전무 장인상=28일2시 중앙보훈병원, 발인 30일9시, (02)2225-1004&lt;br&gt;&lt;br&gt;▲&lt;b&gt;장명웅&lt;/b&gt; 별세, &lt;b&gt;윤희석&lt;/b&gt; 前 국민의힘 선임대변인 장인상=27일19시30분 서울성모병원, 발인 30일6시30분, (02)2258-5940&lt;br&gt;&lt;br&gt;▲&lt;b&gt;최세옥&lt;/b&gt; 별세, &lt;b&gt;권영랑&lt;/b&gt;∙&lt;b&gt;권애랑&lt;/b&gt;∙&lt;b&gt;권서경&lt;/b&gt;∙&lt;b&gt;권창현&lt;/b&gt; 신한은행 여의도본부장 모친상, &lt;b&gt;이은준&lt;/b&gt; 장모상, &lt;b&gt;윤소영&lt;/b&gt; 시모상=27일17시34분 서울성모병원, 발인 30일6시40분, (02)2258-5940&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>을지로 세운상가 인근서 큰불</title>
-      <link>https://www.chosun.com/national/national_general/2025/05/29/IXXFXN3PVFESDBNMLDNA24DQJM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/05/29/IXXFXN3PVFESDBNMLDNA24DQJM/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 28 May 2025 16:18:41 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Z2WH4CWB2JAJ3DDJP7MHLFKFWA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;28일 오후 3시 25분쯤 서울 중구 세운상가 인근 건물에서 불이 나 연기가 치솟고 있다. 이날 화재로 가게 48곳이 불탔고 70대 남자 1명이 연기를 마셔 병원으로 이송됐다. 불길이 확산하자 경찰은 을지로 일부 구간의 통행을 제한했다. 소방 당국은 약 5시간 만인 오후 8시 20분쯤 큰불을 잡았다. 소방 당국은 “재개발 구역의 1층짜리 목조 건물에서 불이 난 것으로 추정된다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[두근두근 뇌 운동] [2631] 문장 꽈배기</title>
       <link>https://www.chosun.com/national/nie/2025/05/29/NGOPKFWAJBGVHPS4TDBKRWEMLY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/nie/2025/05/29/NGOPKFWAJBGVHPS4TDBKRWEMLY/</guid>
@@ -839,33 +906,6 @@
       <description/>
       <pubDate>Wed, 28 May 2025 15:33:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TTIREPTG7NBDPCOAX3PB5BM2MU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[매일매일 중국어 한마디] 아트 토이</title>
-      <link>https://www.chosun.com/national/nie/chinese/2025/05/29/CX3SIV2V5FC5PCNSH5KYHATJ7I/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese/2025/05/29/CX3SIV2V5FC5PCNSH5KYHATJ7I/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 28 May 2025 15:33:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2RLJNEJQPBF6XOVAAOQG5VXQ4I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문으로 배우는 실용한자] 비거리(飛距離)</title>
-      <link>https://www.chosun.com/national/nie/chinese_character/2025/05/29/DWNJNNETXVEQ3AFKN3JHHILLWE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese_character/2025/05/29/DWNJNNETXVEQ3AFKN3JHHILLWE/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 28 May 2025 15:33:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/64QQNSOPJNELBNTBAO7ORL6VFI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[오늘의 날씨] 2025년 5월 29일</title>
-      <link>https://www.chosun.com/national/national_general/2025/05/29/V3R2ZMVFDZB67JF5T4RMVI57P4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/05/29/V3R2ZMVFDZB67JF5T4RMVI57P4/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 28 May 2025 15:30:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/O26PWONWQRHJTN4FVO3G2TUQKM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>8시간 멈춘 부산 시내버스... 임금 10% 이상 올려 파업 풀었다</title>
@@ -911,42 +951,6 @@
       <description/>
       <pubDate>Wed, 28 May 2025 10:44:49 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TXVFCNUKACSTCSQZDN7XY27L5M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;황교안 무소속 대선 후보가 24일 서울 종로구 정부서울청사 앞에서 기자회견을 하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;무소속 황교안 대선 후보가 더불어민주당 이재명 대선 후보의 후보 등록을 취소해달라며 법원에 낸 집행정지 신청이 각하됐다. 소송의 요건을 갖추지 않아 적법한 소가 아니라고 판단한 것이다.&lt;br&gt;&lt;br&gt;서울행정법원 행정5부(재판장 이정원)는 28일 황 후보와 그의 지지자들이 중앙선거관리위원회를 상대로 낸 집행정지 신청을 각하했다. 재판부는 “공직선거법에 의하면 선거 종료 전에 선거관리기관의 개개 행위를 대상으로 하는 쟁송은 허용될 수 없고, 선거 종료 후 선거법이 규정하는 기간 내에 규정하는 형태 소송으로만 시정을 구할 수 있다”며 “이 사건 본안소송은 선거관리라는 일련의 연속적 과정의 하나의 행위에 불과한 이 사건 행위만 분리하여 제소하는 것에 해당하여 부적법하다”라고 봤다.&lt;br&gt;&lt;br&gt;앞서 황 후보 측은 지난 12일 이 후보가 대선에서 당선될 경우, 차후 법원에서 당선무효형이 나올 가능성이 크다며 등록 무효확인 소송과 집행정지 신청을 냈다. 지난 1일 대법원 전원합의체가 이 후보의 공직선거법 위반 사건에 대해 유죄 취지로 판단한 만큼 후보 등록이 취소돼야 한다는 주장이다.&lt;br&gt;&lt;br&gt;그러나 재판부는 황 후보의 원고 적격도 인정하지 않았다. 재판부는 “무효확인을 구할 이익은 ‘국가 운영 안정성과 법적 안정성 확보’ 등으로 추상적 이익에 불과하다”라며 “구체적 이익을 갖지 않는다”라고 했다. 이어 “중앙선관위는 공직선거법상 후보자등록신청이 있을 때는 즉시 이를 수리해야 할 뿐 다른 사유로 수리를 거부할 수 없다”라고도 덧붙였다.&lt;br&gt;&lt;br&gt;한편 제21대 대선의 사전투표는 오는 29일부터 이틀 간 실시될 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>울산 시내버스 노사 6월 5일까지 협상 더 한다... 파업도 보류</title>
-      <link>https://www.chosun.com/national/regional/2025/05/28/JYPXVTZ4L5AR3K5I46RO5BJZYI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/05/28/JYPXVTZ4L5AR3K5I46RO5BJZYI/</guid>
-      <dc:creator>울산=김주영 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 28 May 2025 08:32:03 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WA4WHKJXY6IWQIGVFCEY5YRGDI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;28일 울산 울주군 율리 시내버스 공영차고지에서 시민들이 시내버스를 기다리고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;울산 시내버스 노조가 사측과 임금·단체협약 교섭을 일주일 더 하기로 했다. 교섭 기한까지 파업도 보류해 버스는 평소대로 운영된다.&lt;br&gt;&lt;br&gt;28일 울산시와 전국자동차노동조합연맹 울산지역버스노조 등에 따르면 시내버스 노사는 최종 조정회의 기한을 28일 자정에서 오는 6월 5일 오후 4시까지로 연장했다.&lt;br&gt;&lt;br&gt;당초 노사는 임·단협 교섭을 28일 자정까지 끝낼 계획이었으나, 입장차가 좁혀지지 않아 이날 오후 4시까지 여섯 차례나 조정 회의를 연장하며 마라톤 협상을 벌였다.&lt;br&gt;&lt;br&gt;앞서 노조는 찬반투표를 거쳐 파업권을 확보했으나 교섭이 길어지며 파업을 보류했다. 파업 시 총 187개 버스 노선(889대) 중 105개 노선(702대) 운행이 중단될 상황이었다. 울산 전체 시내버스의 78.9%다.&lt;br&gt;&lt;br&gt;노사는 정기 상여금을 통상임금에 넣는 문제를 놓고 대립해 왔다.&lt;br&gt;&lt;br&gt;노조는 지난해 12월 정기 상여금을 통상임금으로 봐야 한다는 대법원 판결에 따라 현재 임금 체계를 유지한 채 600% 수준의 정기상여금을 통상임금에 포함해달라고 요구해 왔다. 또 8.2%의 임금 인상(전국 공통) 등도 주장하고 있다.&lt;br&gt;&lt;br&gt;반면 사측은 노조 요구대로 정기상여금을 통상임금에 포함할 경우 시급 상승효과가 15∼16% 정도 발생해 지급 여력이 없다며, 임금 체계를 바꿔야 한다는 입장이다.&lt;br&gt;&lt;br&gt;현재 노조는 한발 물러서 통상 임금의 일부라도 임금에 반영해 달라고 요구하고 있다. 사측 역시 통상 임금의 얼마를 넣을 지 노조와 협의를 이어나가겠다는 입장이다.&lt;br&gt;&lt;br&gt;울산시 관계자는 “울산은 지하철이 없어 파업할 경우 시민들이 큰 불편을 겪는다”며 “파업 사태까지 가지 않도록 최대한 원활하게 교섭이 되도록 지원할 것”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>”어려운 학생에 써달라“...5000만원 들고 경희대 찾은 익명의 90대 어르신 </title>
-      <link>https://www.chosun.com/national/national_general/2025/05/28/3CFYWFT5Y5EB5HY6QXZUDBLWPE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/05/28/3CFYWFT5Y5EB5HY6QXZUDBLWPE/</guid>
-      <dc:creator>정아임 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 28 May 2025 08:24:04 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AVZ5IHNFWNHDPHHSYQXOPFOD34.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;익명의 90대 어르신이 경희대에 5000만원을 기부했다/연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경희대는 익명을 요구한 90대 어르신이 본관을 찾아 5000만원을 기부했다고 28일 밝혔다.&lt;br&gt;&lt;br&gt;학교 근처에 산다는 이 어르신은 사전에 자녀와 상의 후 5만원권 현금다발을 신문지에 고이 싸서 가져와 교직원에게 건넸다. &lt;br&gt;&lt;br&gt;어르신은 “형편이 어려운 학생들에게 도움 되길 바란다”며 “나는 많이 배우지 못했지만, 지금의 학생들이 공부를 계속할 수 있도록 지원하고 싶다”고 말했다. 이어 “시간이 더 있었으면 더 모아서 가져오려 했지만 연로해 미리 준비한 금액을 전달한다”고 했다.&lt;br&gt;&lt;br&gt;그는 “동대문구에 살며 가장 높은 곳에 기부해야 기부금이 정당하게 쓰일 것으로 생각했다”며 “기부금이 정당하게 쓰이길 바란다”고 당부했다.&lt;br&gt;&lt;br&gt;어르신은 경희대 출신도 아니고 자녀가 경희대를 나온 것도 아니라고 한다. 그는 사진 촬영이나 예우품 제공 등도 모두 사양했다.&lt;br&gt;&lt;br&gt;경희대는 기부자의 요청에 따라 해당 기부금을 어려운 환경 속에서 학업을 이어가는 학생들을 위한 장학금으로 사용할 예정이다.&lt;br&gt;&lt;br&gt;경희대 관계자는 “이번 기부는 단순한 후원을 넘어 교육의 기회를 확장하려는 진심 어린 뜻이 담겨 있다”며 “기부자의 뜻을 소중히 새기고 기금이 학생들에게 전달될 수 있도록 노력하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘초등생 살해’ 교사 명재완 소유 아파트 가압류돼</title>
-      <link>https://www.chosun.com/national/regional/2025/05/28/NDE4YYNHCBDOVLW3VF7G4HEUYM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/05/28/NDE4YYNHCBDOVLW3VF7G4HEUYM/</guid>
-      <dc:creator>우정식 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 28 May 2025 08:15:57 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NZG4NA27BRH6HI45EBQA26YWX4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;3월 12일 경찰이  공개한 김하늘양 살해 교사 명재완(48) 사진./대전경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 2월 자신이 근무하던 대전의 한 초등학교에서 김하늘(8)양을 살해한 혐의로 구속 기소돼 재판을 받는 교사 명재완(48) 소유의 대전 소재 아파트가 가압류된 것으로 확인됐다.&lt;br&gt;&lt;br&gt;28일 법조계에 따르면 대전지법 민사28단독 최석진 부장판사는 지난 3월 26일 대전광역시학교안전공제회가 명재완을 상대로 낸 부동산 가압류 신청을 인용했다. 가압류된 부동산은 그가 소유한 대전 소재의 아파트 한 채다.&lt;br&gt;&lt;br&gt;앞서 학교안전공제회 측은 피해 초등학생인 김하늘양이 사망한 후 관련 법률에 따라 유족 급여와 장례비 등을 유족 측에 전달했다.&lt;br&gt;&lt;br&gt;학교안전공제회는 “이 과정에서 구상금 채권이 발생하면서 명씨를 상대로 부동산 가압류 신청을 한 것”이라고 밝혔다.&lt;br&gt;&lt;br&gt;명재완은 현재 공직에서 파면된 상태다. 하지만 공무원연금 수급은 유지되며 감액 조치가 적용된다. 현행 공무원연금법상 최고 수준의 징계인 파면을 받더라도 감액(최대 50%) 조치만 받을 뿐 연금 수급 자체는 유지되기 때문이다.&lt;br&gt;&lt;br&gt;명재완은 지난 2월 10일 오후 4시 50분쯤 대전의 한 초등학교 시청각실 내부 창고로 피해자인 김양을 유인한 뒤 흉기로 찔러 살해한 혐의로 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;검찰은 명이 사전에 인터넷을 검색해 범행 도구를 준비했고, 범행에 쉬운 장소와 시간대를 선택한 후 피해자를 물색·유인한 점 등을 토대로 치밀하게 준비한 계획범죄로 규정했다. &lt;br&gt;&lt;br&gt;아울러 가정 불화에 따른 소외, 성급한 복직에 대한 후회, 직장 부적응 등으로 인한 분노가 증폭되자 이를 해소하기 위해 자신보다 약자인 초등생 여자아이를 잔혹하게 살해한 ‘이상동기 범죄’라고 판단했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘공시의무 위반’ 디스커버리자산운용, 증선위 제재 취소소송 2심도 패소</title>
-      <link>https://www.chosun.com/national/court_law/2025/05/28/PPLJVUGS6VCSDES2ALXWL6CACY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/05/28/PPLJVUGS6VCSDES2ALXWL6CACY/</guid>
-      <dc:creator>김희래 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 28 May 2025 06:19:37 +0000</pubDate>
-      <content:encoded>증권신고서 미제출 등 공시 의무 위반으로 금융당국으로부터 증권발행 정지 처분을 받은 디스커버리자산운용이 제재에 불복해 제기한 소송의 2심에서도 패소했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6L7CBQ5P3VMABU2MVKGQFI3SZM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;장하원 전 디스커버리자산운용 대표. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;28일 서울고법 행정11-3부(김우수·최수환·윤종구 부장판사)는 디스커버리자산운용과 장하원 전 디스커버리자산운용 대표가 증권선물위원회(증선위)를 상대로 낸 증권발행 제한처분 등 취소소송 항소심 선고에서 1심과 같이 원고 패소 판결했다. 재판부는 “원고의 항소를 모두 기각하고, 항소비용은 원고들이 부담하라”고 밝혔다.&lt;br&gt;&lt;br&gt;앞서 디스커버리자산운용과 장 전 대표는 디스커버리펀드를 발행하며 증권신고서 제출 등 공모 규제를 피하기 위해 사실상 하나의 펀드를 여러 개의 사모펀드로 나누는 이른바 ‘쪼개기 운용’을 했다는 혐의로 제재 대상에 올랐다. 증선위는 디스커버리자산운용이 50명 이상이 투자한 펀드를 49명 이하인 여러 사모펀드로 나누어 공모 규제를 회피했다고 판단했다.&lt;br&gt;&lt;br&gt;이에 증선위는 2022년 5월 디스커버리자산운용이 증권신고서 미제출로 공시 의무를 위반했다며 1년간 증권 발행 정지 처분을 내렸다. 디스커버리자산운용과 장 전 대표는 처분에 불복해 소송을 제기했으나, 1심 재판부는 “(원고들이) 증권신고서 제출의무 위반에 대한 고의가 있거나 적어도 중대한 과실이 있다고 봄이 타당하다”며 지난해 7월 원고 패소 판결했다. 이날 2심 법원도 1심 법원의 판단에 문제가 없다고 보고 원고들의 항소를 기각했다.&lt;br&gt;&lt;br&gt;디스커버리펀드는 지난 2017∼2019년 시중은행과 증권사 등을 통해 판매됐다. 장 전 대표는 펀드가 대출채권 부실로 인한 환매 중단 위험이 있음을 알면서도 ‘고수익이 보장된다’며 투자자를 속여 370여명에게 1348억원 규모의 펀드를 판매한 혐의로 기소됐지만 지난 1월 대법원에서 무죄가 확정됐다. 그는 문재인 정부 청와대 정책실장을 지낸 장하성 전 주중대사의 동생이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
