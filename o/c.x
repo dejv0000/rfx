@@ -13,6 +13,46 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>“생활비 없어서”…대학가 돌며 자전거 상습 절도한 30대 구속 송치</title>
+      <link>https://www.chosun.com/national/incident/2025/05/30/O5QJALBRKVE5VHSDBUMFSIWDZ4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/05/30/O5QJALBRKVE5VHSDBUMFSIWDZ4/</guid>
+      <dc:creator>대구=이승규 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 30 May 2025 04:32:44 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/L4GEXC5HOZAC5NA5TDDI7RQ23U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;생활비가 없다며 대구 대학가 등을 돌며 수차례 자전거를 훔친 뒤 판매한 30대 남성이 검찰에 송치됐다.&lt;br&gt;&lt;br&gt;대구 북부경찰서는 절도 혐의로 우즈베키스탄 국적의 30대 남성 A씨를 구속 송치했다고 30일 밝혔다. A씨는 지난 1월부터 4월 사이 대구 북구 경북대와 중구 인근에서 자전거 4대와 킥보드 1대 등을 훔친 뒤 이를 중고 거래 앱을 통해 판매하고 320만원을 챙긴 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;A씨는 인적이 드문 심야 시간대에 절단기를 이용해 잠금장치를 훼손한 뒤 이 같은 범행을 저지른 것으로 파악됐다.&lt;br&gt;&lt;br&gt;지난 2019년 경북대에 유학생 신분으로 입국한 A씨는 특별한 직업 없이 지내다 지난 2월부터 생활비를 벌기 위해 범행을 저지른 것으로 조사됐다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “시민의 재산권을 침해하는 절도 범죄 발생 시 범인을 신속히 검거하고 피해품 회복에도 노력하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>검찰, ‘김하성 공갈 혐의’ 前야구 선수 임혜동 소환</title>
+      <link>https://www.chosun.com/national/court_law/2025/05/30/XAMVXXH54FFMZEAFFDFUT7E6XA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/05/30/XAMVXXH54FFMZEAFFDFUT7E6XA/</guid>
+      <dc:creator>박강현 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 30 May 2025 04:19:10 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5V6HFSFQDRAOHJOJ73L5VX6W44.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;서울중앙지검. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰이 MLB(미 프로야구)에서 뛰는 김하성(30·탬파베이 레이스)으로부터 거액을 뜯어낸 혐의를 받는 전 야구 선수 임혜동(29)을 소환했다.&lt;br&gt;&lt;br&gt;30일 법조계에 따르면 서울중앙지검 형사8부(부장 장재완)는 공갈 등 혐의를 받는 임씨를 피의자 신분으로 불러 조사 중이다.&lt;br&gt;&lt;br&gt;선후배 사이인 두 사람의 갈등은 2021년 2월 서울 강남에서 함께 술자리를 가지다 시비가 붙어 몸싸움을 벌이면서 시작됐다.&lt;br&gt;&lt;br&gt;임씨는 김씨로부터 폭행을 당했다며 이후 합의금을 요구했다. 당시 임씨는 김씨의 소속사에서 매니저로 일하고 있었다고 한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VAYYZUZ7BWDGXCQSZTWUL6M6QE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;임혜동씨. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;결국 김씨는 임씨가 향후 직간접적으로 연락하거나 이 같은 일을 외부에 공개하는 등 김씨에게 불이익이 될 만한 행동을 하지 않는 조건으로 합의서를 썼고 합의금 4억원을 줬다. 임씨가 합의를 어기면 합의금의 배액(8억원)을 위약벌로 배상해야 한다는 내용도 넣었다.&lt;br&gt;&lt;br&gt;임씨는 이후 이를 알리겠다는 등 재차 김씨를 협박해 추가 금품을 요구했는데, 김씨가 이를 거부한 것으로 알려졌다. 김씨는 합의 이후에도 임씨가 계속 연락해오자 공갈 혐의로 그를 형사 고소했다.&lt;br&gt;&lt;br&gt;앞서 수사를 벌인 서울 강남경찰서는 지난해 7월 공갈 등 혐의가 인정된다고 보고 임씨를 검찰에 송치했다. 경찰은 지난해 두 차례에 걸쳐 임씨에 대한 구속영장을 신청했지만, 법원은 방어권 행사 필요성 등을 이유로 모두 기각했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/VAYYZUZ7BWDGXCQSZTWUL6M6QE.jpg?auth=81df29c3c57af6f811b7455c85b3aa01f08c248d46187778ac8e3a6e522720be&amp;smart=true&amp;width=4610&amp;height=3073" type="image/jpeg" height="3073" width="4610">
+        <media:description type="plain">임혜동씨. /뉴스1</media:description>
+        <media:credit role="author" scheme="urn:ebu">뉴스1</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>법무부 “31개월간 출국 거부한 불법체류자 강제 퇴거”</title>
+      <link>https://www.chosun.com/national/court_law/2025/05/30/WVDLFN4GVRBOZA6CLDTQGKDQ7M/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/05/30/WVDLFN4GVRBOZA6CLDTQGKDQ7M/</guid>
+      <dc:creator>박강현 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 30 May 2025 04:05:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/A5ZKRGOBOID3QHR6K2XVBMDIE4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법무부 청사. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;법무부는 국내법을 위반하고 정당한 이유 없이 2년 넘게 출국을 거부한 불법체류자를 강제 퇴거 조치했다고 30일 밝혔다.&lt;br&gt;&lt;br&gt;법무부에 따르면 30대 후반 남성인 A씨는 2018년 4월 관광 목적으로 입국해 불법체류하면서 무면허 운전도 하는 등 국내법을 위반했다. 그는 강제퇴거 명령을 받았지만, 이후 2년 7개월간 출국을 거부했다.&lt;br&gt;&lt;br&gt;특히 A씨는 보호시설에 머무는 동안 내부 폐쇄회로(CC)TV와 천장에 설치된 전등을 파손하고, 나사못까지 삼키는 기행을 벌여 병원에 입원하기도 했다.&lt;br&gt;&lt;br&gt;법무부는 A씨의 본국 송환을 위해 출신 국가 대사관과 지속적으로 협의했으나, 본인의 신청 없이는 여권을 발급할 수 없는 해당 국가의 법 규정으로 인해 송환을 위한 여권을 발급받을 수 없었다고 설명했다. &lt;br&gt;&lt;br&gt;이에 A씨의 출신 국가 대사관에 우리나라 여행증명서를 이용한 송환을 제안한 뒤 A씨의 강제 퇴거를 집행할 수 있었고, 지난 25일 우리나라 출입국관리 공무원들이 직접 A씨를 본국으로 호송했다고 밝혔다.&lt;br&gt;&lt;br&gt;법무부는 “강제퇴거 명령을 받은 외국인에 대한 보호기간 상한이 마련된 개정 출입국관리법의 취지를 악용해 여권 신청을 거부하는 외국인이 늘어날 것으로 예상되지만, 해당 국가 대사관과 협의를 통해 최대한 신속히 보호외국인을 본국으로 송환하겠다”고 전했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>사전투표 봉투서 기표된 용지…경기도선관위 “자작극 의심, 경찰 수사의뢰”</title>
+      <link>https://www.chosun.com/national/incident/2025/05/30/J5NJVKF2SJD67GFJH7MUSO7ESY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/05/30/J5NJVKF2SJD67GFJH7MUSO7ESY/</guid>
+      <dc:creator>수원=김현수 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 30 May 2025 03:53:04 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2J635Y6JZJPJLOGDPU4ISND3WQ.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;제21대 대통령 선거 사전 투표 둘째 날인 30일 전북 완주군 봉동읍행정복지센터에 마련된 사전투표소에서 한 유권자가 투표를 하고 있다. 사진은 기사 내용과 무관함. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제21대 대통령 선거 사전투표 기간 중 회송용 봉투에서 기표된 투표용지가 나왔지만, 경기도선거관리위원회는 “자작극으로 추정된다”며 경찰에 수사를 의뢰하기로 했다.&lt;br&gt;&lt;br&gt;30일 경기도선관위에 따르면, 이날 오전 7시 10분쯤 경기 용인시 수지구 성복동 주민센터 사전투표소에서 한 선거 참관인이 “한 여성 유권자의 관외 사전투표 회송용 봉투 안에서 이미 이재명 후보에게 기표된 투표용지가 나왔다”며 경찰에 신고했다. 문제의 투표지는 반으로 접힌 상태였고, 현장에 있던 참관인의 신고로 즉시 무효 처리됐다.&lt;br&gt;&lt;br&gt;경기도선관위는 즉각 사실관계 파악에 나섰고, 자체 조사 결과 “해당 유권자가 타인이 기표한 투표지를 전달받아 회송용 봉투에 넣은 것으로 보인다”고 판단했다. 선관위는 정황상 자작극일 가능성이 높다고 보고 경찰에 수사를 의뢰하기로 했다.&lt;br&gt;&lt;br&gt;사건 신고자는 20대 여성 A씨로, 관외투표를 하던 중 자신이 받은 회송용 봉투에 기표된 용지가 들어 있는 것을 보고 참관인에게 이를 알렸다. 공직선거법상 이미 기표된 투표지가 공개된 경우, 해당 투표지는 무효 처리된다. 이번 사건에서도 해당 투표지는 법에 따라 무효로 처리됐다. 선관위 측은 “선거의 공정성과 투명성 확보를 위해 자작극 여부를 철저히 수사해줄 것을 경찰에 요청했다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>정부 “마스크 착용·65세 이상 백신 권고… 코로나 재유행 조짐”  </title>
       <link>https://www.chosun.com/national/welfare-medical/2025/05/30/NOTDQZ2YCJGBBGFKI4WHUNB55A/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/05/30/NOTDQZ2YCJGBBGFKI4WHUNB55A/</guid>
@@ -908,15 +948,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TTIREPTG7NBDPCOAX3PB5BM2MU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>8시간 멈춘 부산 시내버스... 임금 10% 이상 올려 파업 풀었다</title>
-      <link>https://www.chosun.com/national/2025/05/28/NH27DHZWKFELTJ5KOSIEFHVKDU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2025/05/28/NH27DHZWKFELTJ5KOSIEFHVKDU/</guid>
-      <dc:creator>창원=김준호 기자, 부산=박주영 기자, 김영우 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 28 May 2025 11:31:18 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5EGG2JAQDBWEVPQFRBLEALS7BI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산 시내버스 노조가 총파업에 돌입한 28일 오전 부산 부산진구 롯데백화점 부산본점 앞 시내버스 정류장에서 시민들이 시내버스 총파업에 따른 비상 노선 버스를 타고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;28일 첫차부터 파업에 들어갔던 부산 시내버스 노조가 8시간 40분 만에 버스 운행을 재개했다. &lt;br&gt;&lt;br&gt;부산시 등에 따르면, 부산 시내버스 노사는 이날 물밑 협상을 벌인 끝에 기본급 8.78% 인상, 정년 63세에서 64세로 연장, 임금 체계 개편 등 임금·단체협약 합의안에 사인했다. 전국의 버스 노사가 정기 상여금을 통상임금에 포함하느냐를 두고 대립하고 있는 가운데, 정기 상여금을 전액 기본급에 포함하고 임금 체계를 개편하기로 합의했다. 임금 체계 개편에는 합의했으나 정기 상여금을 기본급에 포함해 실질 임금 인상률은 10.48%에 달했다. 부산 버스 기사의 월급은 560만원(4호봉 기준)을 넘게 됐다. &lt;br&gt;&lt;br&gt;서울 등 다른 지역 버스 노사뿐 아니라 주요 기업 노사의 임금·단체협약 교섭에도 영향을 미칠 것으로 보인다. &lt;br&gt;&lt;br&gt;교통 전문가들은 “각 지자체가 버스 업계의 적자를 보전해주는데 매년 수천억원씩 쓰고 있는데 부담이 더 커질 것으로 예상된다”며 “버스 요금 인상으로 이어질 가능성도 있다”고 했다.&lt;br&gt;&lt;br&gt;한편, 이날 새벽 임·단협 교섭 결렬을 선언했던 서울 시내버스 노조는 2시간 뒤 파업을 유보하고 버스를 정상 운행했다. 노조는 사측을 상대로 제기한 통상임금 소송의 결과를 보고 교섭을 재개한다는 계획이라고 밝혔다.&lt;br&gt;&lt;br&gt;부산 버스 노조와 동반 파업에 들어간 경남 창원 버스 노조는 사측과 교섭을 이어가고 있지만 입장 차를 좁히지 못하고 있는 것으로 알려졌다. 광주광역시 버스 노조는 임·단협 교섭이 최종 결렬될 경우 29일 파업을 벌일 것이라고 예고했다. &lt;br&gt;&lt;br&gt;이날 오전 부산에선 시내버스 2500여 대가 일제히 멈춰서 시민들이 불편을 겪었다. 파업 사실을 몰랐던 시민들은 급하게 지하철역으로 뛰거나 택시를 찾았다. 이 때문에 지하철역은 평소보다 크게 붐볐다. 이날 오전 8시쯤 부산 남구 대남교차로에서 만난 조모(57)씨는 “평소 줄지어 달리던 버스가 증발한 듯 완전히 사라졌다”고 했다. 최모(72·북구 금곡동)씨는 “부산은 언덕이 많아 버스가 안 다니면 노인들은 어디 가지도 못한다”며 “병원을 예약해 놨는데 어찌해야 할지 막막하다”고 했다. 부산에는 지하철 1~4호선이 있지만 시내버스를 타는 승객이 하루 104만명에 달한다. &lt;br&gt;&lt;br&gt;지하철이 없는 창원에서는 시민들이 ‘카풀’을 하거나 공유 자전거를 타고 출근했다. 창원시는 일정한 구간을 오가는 ‘노선 택시’ 180대와 전세버스 170대를 투입했다. 경남교육청은 등교 시간을 오전 9시에서 10시로 늦췄다.&lt;br&gt;&lt;br&gt;오전 8시 성산구 창원시청 앞 버스정류장에서 만난 20대 직장인 성모씨는 “10분마다 오던 버스가 30분을 기다려도 깜깜무소식”이라며 “택시도 안 잡히고 지각할 것 같아 속이 탄다”고 했다. 60대 김모씨는 “창원은 대중교통이 시내버스 하나뿐인데 기사들이 시민 불편은 생각지도 않는 것 같다”고 했다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[단독] 운영난 대형병원 회복세... 1년 전보다 입원 환자 9% 늘어</title>
       <link>https://www.chosun.com/national/welfare-medical/2025/05/28/ENKQT4A4FJGBLNSB4SKYHFKESU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/05/28/ENKQT4A4FJGBLNSB4SKYHFKESU/</guid>
@@ -924,33 +955,6 @@
       <description/>
       <pubDate>Wed, 28 May 2025 12:30:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6YAJAHTBMAJG4Q7NZUUI4X5BSQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울의 한 대학 병원에서 구급차량이 응급 환자들을 실어 나르고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전공의 이탈로 대거 진료를 축소했던 대형 병원들에서 올 들어 환자가 점차 늘어나고 있는 것으로 나타났다.&lt;br&gt;&lt;br&gt;28일 보건복지부에 따르면, 지난 2월 17일부터 지난 16일까지 상급종합병원과 종합병원의 입원 환자는 총 121만7438명(주말 제외)으로 의정 사태 초기인 지난해 같은 기간(111만7775명) 대비 8.9% 증가한 것으로 집계됐다. 수술·입원 환자가 가장 많은 ‘빅5’(서울대·서울아산·세브란스·삼성서울·서울성모) 병원의 입원 환자는 이 기간 6만3175명에서 7만3107명으로 15.7% 늘었다. 빅5 중 병상 수가 가장 많은 서울아산병원의 경우, 지난해 한때 병상 가동률이 50%대로 급감했지만 현재는 70%에 근접한 상태다. 완전한 정상화는 아니지만 의정 갈등 이전으로 점차 돌아가고 있는 것이다.&lt;br&gt;&lt;br&gt;최근 대형 병원 운영 회복세의 주된 원인으로 의료 인력 수급 개선이 꼽힌다. 지난해 2월 전공의 이탈 직후부터 전문의 구인난이 장기간 이어졌지만, 올 들어 지난 3월 의사 채용 시즌부터는 전문의들이 점차 돌아오면서 인력 수급이 제자리를 찾아가고 있다는 게 병원들 얘기다.&lt;br&gt;&lt;br&gt;서울성모병원의 경우 지난 3월 순환기내과 당직 전문의 3명을 새로 채용하면서 한 달여간 차질을 빚었던 야간·휴일 진료가 정상화됐다. 지난해 의료진 부족으로 한때 야간 응급실 운영을 중단했던 세종충남대병원도 응급의학과 전문의 3명을 새로 채용하면서 지난 4월부터 24시간 응급실 운영을 재개했다. 이후 3명을 추가 채용했다.&lt;br&gt;&lt;br&gt;이탈 전공의의 빈자리를 진료 지원(PA) 간호사가 메운 영향도 있다. 시범 사업에 참여 중인 전국 의료기관의 PA 간호사는 지난 2월 기준 1만7560명으로 의정 사태 초기인 지난해 3월(1만165명)에 비해 73%가량 늘었다. 갈등 장기화 속에 전공의도 일부 복귀했다. 지난 3월 기준 전국 수련 병원에 근무 중인 전공의는 1672명으로, 지난해 10월(1176명)보다 42% 늘었다. 복지부 관계자는 “PA 간호사 시범 운영과 상급 종합병원 구조 전환 사업 등의 영향으로 올 들어 병원들의 입원 환자가 증가한 것으로 보인다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>퇴근길 대구서 1.8cm 우박비... 낙뢰로 정전도</title>
-      <link>https://www.chosun.com/national/2025/05/28/AOLEJ5C7MZDQBIMBMMK7RHFKUY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2025/05/28/AOLEJ5C7MZDQBIMBMMK7RHFKUY/</guid>
-      <dc:creator>김준호 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 28 May 2025 11:30:49 +0000</pubDate>
-      <content:encoded>28일 오후 대구와 경북에 비를 동반한 우박이 쏟아져 퇴근길 시민들이 불편을 겪었다.&lt;br&gt;&lt;br&gt;대구기상청에 따르면 이날 오후 6시 기준 동구 신암동에서 공식적으로 지름 1.8㎝의 우박이 관측됐다. 또 달성군과 경북 봉화군, 울진군 등에서도 우박이 내린 것으로 파악됐다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KAY3I2YEPZIRZMAM6YJPXKUVMI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;28일 오후 대구 수성구 만촌동 화랑교에서 퇴근길에 오른 차들이 쏟아지는 장대비로 인해 만들어진 웅덩이 속에 서행하고 있다. 이날 오후 퇴근 시간대에 대구와 경북에 비를 동반한 우박이 쏟아졌으며, 동구 신암동에서는 지름 1.8㎝의 우박이 관측되기도 했다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;퇴근 시간 갑작스레 쏟아진 우박에 퇴근길 시민들은 크게 놀랐다. 대구에 사는 정모(47)씨는 “퇴근해 집에 가는 차 안이었는데 천둥·번개와 함께 갑자기 우박이 쏟아졌다”며 “차를 뚫을 것처럼 큰 소리가 났다”고 했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JEVMGFOAKREIBNOB3MHZOEA3VQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;28일 오후 대구 동구 신암동 동구청 일대에 우박과 비가 쏟아지고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BNUVE72XW5LB5BNSCBPRFI4ATQ.jpeg"&gt;&lt;figcaption&gt;&lt;small&gt;28일 대구 라이온즈파크에서 열린 롯데-삼성전이 1회초 우천으로 중단됐다. 경기장에 떨어진 콩알만한 우박. /정재근 스포츠조선 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;기상청 관계자는 “상승기류와 하강기류가 반복되는 기류 불안정 현상으로 인해 수증기가 얼어 우박이 만들어진 것으로 보인다”고 설명했다.&lt;br&gt;&lt;br&gt;낙뢰로 대구에서는 정전도 발생했다. 한국전력에 따르면 이날 오후 6시 56분쯤 대구 수성구 두산동 등 일원 약 1000가구에서 정전이 발생했다. 수성구는 이날 오후 7시 29분쯤 “낙뢰로 수성구 일부 지역에 정전이 발생했다”며 “승강기 이용을 자제하고 정전에 의한 피해가 발생하지 않도록 안전에 유의 바란다”는 재난 문자를 발송했다. 대구소방안전본부에 따르면 이날 오후부터 내린 비로 오후 7시 30분 기준 119에 들어온 긴급 신고는 140여 건으로 집계됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YWHOQA5XZL3YD7LE5I2LFAWPTE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;28일 프로야구 대구 롯데 자이언츠-삼성 라이온즈전이 우천 노게임으로 취소됐다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경북 경산에서도 낙뢰로 인해 전기 공급이 끊기면서 한 아파트에서 4명이 엘리베이터에 갇혔다. 이들은 약 40분 만에 소방 당국에 구조됐다. &lt;br&gt;&lt;br&gt;기상청은 이날 밤까지 대구·경북 대부분 지역에 우박·낙뢰를 동반한 5~30㎜ 소나기가 내릴 것으로 예상했다. &lt;br&gt;&lt;br&gt;한편, 이날 오후 충북 음성과 단양 등에서도 지름 1cm 안팎의 우박이 내렸다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZWNZBBFPVRIADHPCCGXTK7QGNQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;28일 오후 충북 음성군에 쏟아진 우박. /연합뉴스 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>손웅정 감독, 출전정지 3개월 징계 취소... “지도자 등록 전 일어난 일”</title>
-      <link>https://www.chosun.com/national/national_general/2025/05/28/HXSPBRCH4BBZXCGOGPLP7GEDB4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/05/28/HXSPBRCH4BBZXCGOGPLP7GEDB4/</guid>
-      <dc:creator>이혜진 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 28 May 2025 10:52:01 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5GR2MZPMZOYCAINNEMXMAL2D4E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;토트넘 손흥민 선수의 아버지 손웅정 감독. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;유소년 선수를 학대한 혐의로 처벌받은 축구선수 손흥민의 아버지 손웅정 감독에 대한 출전 정지 3개월의 징계 처분이 취소됐다. &lt;br&gt;&lt;br&gt;강원도체육회는 28일 스포츠공정위원회를 열고 SON축구아카데미 지도자들이 지난해 3월 유소년 선수를 신체적 또는 정서적으로 학대한 사안과 관련한 징계 처분을 재심의했다. 도 체육회는 손 감독에게 내려진 출전 정지 3개월 징계 처분을 취소했다. 손 감독은 해당 사건이 발생한 지난해 3월 이후인 지난해 4월에 지도자 등록을 한 것으로 파악됐다. 도 체육회는 “손 감독의 징계는 대한축구협회 지도자 등록 이전에 행한 행위로 관련 규정을 적용할 수 없다”고 밝혔다. 피해 아동의 변호인 류재율 변호사는 “수년간 무등록 지도자 신분으로 축구아카데미를 운영하면서 유소년 선수들을 지도하고, 지도자 자격으로 대회에 출전했다는 것인데 상식적으로 이해하기 힘들다”고 말했다.&lt;br&gt;&lt;br&gt;반면 손흥윤 수석코치와 A 코치에 대한 출전 정지 6개월과 3개월의 징계는 확정됐다. 징계가 확정된 2명은 징계가 끝날 때까지 체육회와 관계 단체에서 개최하는 모든 대회에 출전할 수 없다.&lt;br&gt;&lt;br&gt;앞서 지난 4월 강원특별자치도축구협회 스포츠공정위원회는 문화체육관광부 산하 스포츠윤리센터 조사 결과에 따라 손 감독과 A 코치에게 출전 정지 3개월 처분을 의결했다. 손흥윤 수석코치에 대해서는 출전 정지 6개월 징계 처분을 결정했다. 이는 스포츠공정위원회 규정상 폭력 행위 지도자 징계 기준에서 가장 낮은 수위에 해당한다. 이에 피해 아동의 변호인과 손 감독 등 지도자 3명은 징계 처분에 불복해 재심을 신청했다.&lt;br&gt;&lt;br&gt;사건의 발단은 지난해 3월 일본 오키나와 전지훈련 중 발생했다. 피해 학생은 손 수석코치에게 폭행당했고 손 감독 등으로부터 훈련과 경기 중 실수를 이유로 심한 욕설을 들었다며 이들을 아동학대 혐의로 고소했다. 춘천지법은 지난해 10월 아동복지법상 아동학대 혐의로 기소된 손 감독 등 3명에게 각각 벌금 300만원의 약식명령을 내리고, 40시간의 아동학대 치료 프로그램 이수를 명령했다. 사건을 조사한 스포츠윤리센터는 지난 2월 손 감독 등 3명의 폭력 비위가 인정된다고 판단했다. 이에 따라 문화체육관광부장관에게 대한체육회를 통해 관련 체육단체에 징계를 요구할 것을 요청했다.&lt;br&gt;&lt;br&gt;손 감독은 당시 논란이 불거지자 “마음의 상처를 받은 아이와 가족들께 깊은 사과의 뜻을 전한다”면서도 “제 모든 것을 걸고 맹세컨대 아카데미 지도자들의 행동에 있어서 아이들에 대한 사랑이 전제되지 않은 언행은 없었다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘이재명 후보 등록 무효’ 황교안 집행정지 신청, 법원서 각하</title>
-      <link>https://www.chosun.com/national/court_law/2025/05/28/7LJRDU4J55EMBGX3II3J4PZ4DM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/05/28/7LJRDU4J55EMBGX3II3J4PZ4DM/</guid>
-      <dc:creator>김나영 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 28 May 2025 10:44:49 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TXVFCNUKACSTCSQZDN7XY27L5M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;황교안 무소속 대선 후보가 24일 서울 종로구 정부서울청사 앞에서 기자회견을 하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;무소속 황교안 대선 후보가 더불어민주당 이재명 대선 후보의 후보 등록을 취소해달라며 법원에 낸 집행정지 신청이 각하됐다. 소송의 요건을 갖추지 않아 적법한 소가 아니라고 판단한 것이다.&lt;br&gt;&lt;br&gt;서울행정법원 행정5부(재판장 이정원)는 28일 황 후보와 그의 지지자들이 중앙선거관리위원회를 상대로 낸 집행정지 신청을 각하했다. 재판부는 “공직선거법에 의하면 선거 종료 전에 선거관리기관의 개개 행위를 대상으로 하는 쟁송은 허용될 수 없고, 선거 종료 후 선거법이 규정하는 기간 내에 규정하는 형태 소송으로만 시정을 구할 수 있다”며 “이 사건 본안소송은 선거관리라는 일련의 연속적 과정의 하나의 행위에 불과한 이 사건 행위만 분리하여 제소하는 것에 해당하여 부적법하다”라고 봤다.&lt;br&gt;&lt;br&gt;앞서 황 후보 측은 지난 12일 이 후보가 대선에서 당선될 경우, 차후 법원에서 당선무효형이 나올 가능성이 크다며 등록 무효확인 소송과 집행정지 신청을 냈다. 지난 1일 대법원 전원합의체가 이 후보의 공직선거법 위반 사건에 대해 유죄 취지로 판단한 만큼 후보 등록이 취소돼야 한다는 주장이다.&lt;br&gt;&lt;br&gt;그러나 재판부는 황 후보의 원고 적격도 인정하지 않았다. 재판부는 “무효확인을 구할 이익은 ‘국가 운영 안정성과 법적 안정성 확보’ 등으로 추상적 이익에 불과하다”라며 “구체적 이익을 갖지 않는다”라고 했다. 이어 “중앙선관위는 공직선거법상 후보자등록신청이 있을 때는 즉시 이를 수리해야 할 뿐 다른 사유로 수리를 거부할 수 없다”라고도 덧붙였다.&lt;br&gt;&lt;br&gt;한편 제21대 대선의 사전투표는 오는 29일부터 이틀 간 실시될 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
