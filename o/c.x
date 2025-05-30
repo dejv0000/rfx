@@ -13,6 +13,37 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>매년 증가하는 흡연 사망자... 年 7만명 넘어</title>
+      <link>https://www.chosun.com/national/welfare-medical/2025/05/30/K5AFRRCO6BDARF75AZBN6GDRYE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/05/30/K5AFRRCO6BDARF75AZBN6GDRYE/</guid>
+      <dc:creator>오주비 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 30 May 2025 11:46:53 +0000</pubDate>
+      <content:encoded>우리나라에서 직접 흡연으로 인한 사망자가 연간 7만명이 넘고, 사회경제적 비용은 14조원에 육박하는 것으로 추산됐다. 직접 흡연으로 인한 사망자는 일반담배(궐련) 흡연으로 폐암이나 만성폐쇄성폐질환, 고혈압 등을 앓다가 사망한 사람들을 말한다.&lt;br&gt;&lt;br&gt;30일 질병관리청에 따르면, 2022년 직접 흡연으로 사망한 사람은 7만2689명이었다. 남성이 6만3452명, 여성이 9237명이었다. 질병청은 2019년부터 매년 한국인 암 예방 연구, 통계청 사망 원인 통계 등의 자료를 분석해 직접 흡연 사망자 수를 추산하고 있다.&lt;br&gt;&lt;br&gt;직접 흡연 사망자는 2019년 5만8036명, 2020년 6만1360명, 2021년 6만3426명으로 꾸준히 늘어나다가 2022년 처음 7만명을 넘었다. &lt;br&gt;&lt;br&gt;질병청은 “2022년 기준 현재 흡연자의 사망 위험은 비흡연자보다 남성은 1.7배, 여성은 1.8배 높은 것으로 확인됐다”고 밝혔다. 과거 흡연자였지만 현재는 담배를 끊은 사람의 사망 위험은 비흡연자보다 남성의 경우 1.1배, 여성의 경우 1.3배 높은 것으로 나타났다.&lt;br&gt;&lt;br&gt;직접 흡연 사망자가 계속 증가하면서 이로 인한 사회경제적 비용도 늘고 있다. 사회경제적 비용은 병원 진료비, 병원을 오가는 교통비 등 직접 비용에 조기 사망으로 발생하는 생산성 손실 같은 간접비를 합한 것이다. 질병청 추계 결과 2022년 직접 흡연에 따른 사회경제적 비용은 13조6316억원으로, 2020년 12조8912억원, 2021년 12조9754억원에서 꾸준히 증가 추세다. &lt;br&gt;&lt;br&gt;흡연은 폐암이나 후두암 등을 유발하는 대표적 요인이다. 담배 연기에 들어있는 각종 독성·발암 물질이 암 발생 위험을 높인다. 최근 국민건강보험공단과 연세대 연구진이 건강검진 수검자 13만여 명을 추적 관찰한 연구 결과, 30년 이상 담배를 피우고 흡연량이 20갑년(하루 한 갑씩 20년 흡연) 이상인 경우 비흡연자보다 소세포폐암 발병 위험이 54.49배 높았다. &lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/7DNZAHAW4JMV3PEWC6G2Z6GGUI.JPG?auth=859783016427de5cfc5c52b4b4b70ec8c0861f35bdca2b5c4f08dc69c0b7f684&amp;smart=true&amp;width=3067&amp;height=2181" type="image/jpeg" height="2181" width="3067">
+        <media:description type="plain">(서울=뉴스1) 이동해 기자 = 세계 금연의 날을 이틀 앞둔 31일 서울역 흡연실에서 시민들이 담배를 피고 있다. 2025.5.29/뉴스1</media:description>
+        <media:credit role="author" scheme="urn:ebu">(서울=뉴스1) 이동해 기자</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>檢, DL그룹 ‘리베이트 탈세’ 의혹 수사 착수</title>
+      <link>https://www.chosun.com/national/court_law/2025/05/30/KERYOJLX45AP5AYRPQFZ22JCHY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/05/30/KERYOJLX45AP5AYRPQFZ22JCHY/</guid>
+      <dc:creator>박강현 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 30 May 2025 12:55:34 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/III7XXNCSNA2ZPL7EJEOHVE2QM.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;서울중앙지검. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰이 DL그룹의 ‘리베이트 탈세’ 의혹에 대한 수사에 착수했다. &lt;br&gt;&lt;br&gt;30일 법조계에 따르면 서울중앙지검 조세범죄조사부(부장 이진용)는 최근 국세청이 DL그룹 계열사들의 조세포탈 혐의를 고발한 사건을 배당 받고 수사에 돌입했다. &lt;br&gt;&lt;br&gt;앞서 국세청은 지난해 9월부터 올해 5월까지 DL이앤씨(옛 대림산업), DL그룹의 지주사 DL㈜의 대주주인 ㈜대림, 핵심 계열사 중 하나인 DL케미칼, DL케미칼과 한화솔루션(옛 한화케미칼)의 합작사인 여천NCC 등을 대상으로 세무조사를 실시했다. &lt;br&gt;&lt;br&gt;당시 국세청은 건설 분야에서는 건설사가 공사 일감을 따내기 위해 시행사나 재건축조합 등 발주처에 ‘뒷돈’을 건네는 행위 등을 확인한 것으로 알려졌다. DL이앤씨는 ‘e편한세상’과 ‘아크로’ 브랜드를 보유한 국내 10대 건설사로 DL그룹의 핵심 계열사다.&lt;br&gt;&lt;br&gt;이후 국세청은 DL그룹 계열사들이 용역 계약 과정에서 추가 공사비 등 리베이트로 의심되는 비용을 지급한 사례를 적발해 검찰에 고발한 것으로 알려졌다. 리베이트란 기업이 판매한 상품이나 용역의 대가 중 일부를 ‘뒷돈’으로 구매자에게 돌려주는 것으로, 시장의 공정성을 해치는 행위다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>발달장애인도 대선에서 투표 보조 받는다...법원, 임시조치 인용</title>
+      <link>https://www.chosun.com/national/court_law/2025/05/30/HEZILYCYGFF2ZPHE7B6LCB5SZI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/05/30/HEZILYCYGFF2ZPHE7B6LCB5SZI/</guid>
+      <dc:creator>김은경 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 30 May 2025 12:06:05 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FSOPX6M6JZNBNHIYIFAH45CK2E.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;서울중앙지법 /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;발달장애인들이 6월 3일 대선에서 투표 보조인과 기표소에 들어가 투표할 수 있도록 법원이 임시 조치를 결정했다.&lt;br&gt;&lt;br&gt;서울중앙지법 민사50부(재판장 김상훈)는 30일 A씨 등 발달장애인 두 명이 이번 대선에서 가족이나 본인이 지명하는 두 명의 투표 보조인을 둘 수 있게 해달라며 국가를 상대로 낸 임시조치 신청을 인용했다. &lt;br&gt;&lt;br&gt;재판부는 “발달장애인들은 투표소에서 보조를 받지 않을 경우 선거권을 행사하는데 어려움을 겪고 있다”며 “투표 보조 편의 제공은 이들이 장애가 없는 사람들과 동등한 수준으로 선거권을 행사하기 위한 필요조건”이라고 했다. &lt;br&gt;&lt;br&gt;A씨 등은 2022년 대선과 지방선거에서 투표사무원에게 투표 보조 요청을 거절당한 뒤 차별구제 소송을 제기했다. 현행 공직선거법은 ‘시각·신체 장애로 기표가 어려운 선거인이 가족이나 본인이 지명한 두 명을 동반해 보조를 받을 수 있다’고 규정하고 있는데, 시각·신체장애인과 마찬가지로 발달장애인도 투표 보조를 받을 수 있게 해달라는 취지다.&lt;br&gt;&lt;br&gt;이날 법원의 결정은 오는 대선을 비롯해 차별구제 본안 소송의 결론이 나기 전까지 치러지는 선거와 국민투표에서 투표 보조를 받을 수 있도록 편의를 제공하라는 것이다. 재판부는 “투표 보조를 거부한 것은 특별한 사정이 없는 한 장애인차별금지법상 간접차별에 해당한다고 보는 것이 타당하다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>‘김용현 재판’ 방송 촬영 불허…재판부 “자유롭게 방청 가능”</title>
       <link>https://www.chosun.com/national/court_law/2025/05/30/MANBOQP7QRADLOE6N6OAK5BUFY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/05/30/MANBOQP7QRADLOE6N6OAK5BUFY/</guid>
@@ -844,15 +875,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/M3F73QWBREMUKOULPOVFF7RRTA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 3월 조현범 한국앤컴퍼니 회장이 취재진의 질문에 답하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;200억원대 규모의 횡령·배임 등 혐의로 재판에 넘겨진 조현범 한국타이어앤테크놀로지(한국타이어) 회장이 29일 1심에서 실형을 선고받고 법정 구속됐다. 재판부는 조 회장이 받는 9개 혐의 중 하나를 제외하고 전부 유죄라고 판단했다.&lt;br&gt;&lt;br&gt;서울중앙지법 형사23부(재판장 오세용)는 이날 특정 경제범죄 가중 처벌 등에 관한 법률 위반 등 혐의를 받는 조 회장에 대해 “업무상 배임과 배임수재죄 등에 대해 징역 3년에 처한다”라고 선고했다. 보석으로 풀려나 불구속 상태에서 재판을 받고 있던 조 회장은 법정에서 구속됐다. 선고가 나온 후 조 회장은 “판사님께서 정해주신 형량대로 반성하고 있겠다”라고 짧게 입장을 밝혔다. 조 회장은 효성그룹 창업주 조홍제의 손자이자 이명박 전 대통령의 셋째 사위다.&lt;br&gt;&lt;br&gt;먼저 재판부는 조 회장이 한국타이어와 한국앤컴퍼니 등의 법인카드를 사적으로 사용한 혐의를 유죄라고 판단했다. 재판부는 “조현범 본인과 자신과 친분이 있었던 제3자가 개인적 용도로 사용한 법인카드 대금 약 5억8000만원을 회사들에 대납하게 한 부분은 업무상 배임죄가 인정된다”라고 했다. 조 회장이 개인적으로 사용할 차량 5대를 한국타이어 계열사 명의로 구입·리스하고, 회사가 고용한 운전기사임에도 임직원이 아닌 자신의 배우자를 수행하게 한 혐의 등에도 업무상 배임죄가 인정됐다.&lt;br&gt;&lt;br&gt;다만 조 회장이 한국타이어가 한국타이어 계열사인 MKT(한국프리시전웍스)의 타이어 몰드를 비싼 값에 사들여 약 131억원의 손해를 보게 하는 데 관여했다는 혐의에 대해서는 무죄라고 봤다. 재판부는 “MKT와의 타이어 몰드 거래에 적용된 ‘신단가 테이블’의 도입 목적은 정당했고, 도출 방법도 합리적이었다”며 “한국타이어가 MKT에 상당히 유리한 조건으로 거래했다고 볼 수 없다”라고 했다.&lt;br&gt;&lt;br&gt;조 회장과 함께 기소된 한국타이어 임원 2명은 각각 징역형의 집행유예와 무죄를 선고받았다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>창원대·거창대·남해대, ‘국립창원대’로 한 식구 됐다 </title>
-      <link>https://www.chosun.com/national/2025/05/29/QMJSGUHQ2ZHEROFRMFBKTWKKDY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2025/05/29/QMJSGUHQ2ZHEROFRMFBKTWKKDY/</guid>
-      <dc:creator>창원=김준호 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 29 May 2025 05:24:44 +0000</pubDate>
-      <content:encoded>국립창원대·경남도립거창대·경남도립남해대가 내년부터 하나의 대학으로 통합한다. 이번 대학 통합이 지역을 빠져나가는 청년을 붙잡고, 대학 경쟁력을 높이는 전환점이 될지 주목을 받고 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ME3XQHXYZBH5ZLV2Z4MEM6ZIKY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;국립창원대·경남도립거창대·경남도립남해대가 하나로 통합해 내년부터 3개 캠퍼스, 학부 학생 수 9000명에 이르는 대학으로 새 출발한다. 완쪽부터 국립창원대, 경남도립거창대, 경남도립남해대. /국립창원대 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경남도는 29일 브리핑을 열고, 교육부가 대학 통합을 승인함에 따라 2026년 3월 ‘국립창원대학교’로 새롭게 출범한다고 밝혔다. 이번 통합으로 창원대는 7개 단과대학, 18개 학부, 55개 학과, 7개 대학원, 학부 학생 수 8600여 명의 대학으로 몸집이 커진다. 행정 조직은 총장 1명에 부총장 4명, 5처 1국 5본부, 5행정실을 둔다. 2026학년도 입학 정원은 2447명이다. &lt;br&gt;&lt;br&gt;앞서 국립창원대는 전문대인 거창대와 남해대와의 통합을 전제로 글로컬대학에 선정됐다. 대학 통합을 통해 학령 인구 등 인구 감소에 따른 지역 소멸 위기를 극복하고, 대학 경쟁력을 높이겠다는 것이다. &lt;br&gt;&lt;br&gt;경남에서는 매년 1만명 이상의 청년(20~29세)이 대학 진학 등을 이유로 수도권과 인근 부산으로 떠나는 상황이다. 경남도는 이번 대학 통합이 지역 청년을 지역에 붙잡고, 대학 경쟁력을 높일 수 있는 전환점이 될 것으로 기대하고 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5VJH7DR6OFEIBMFRAXF2AIBQDI.png"&gt;&lt;figcaption&gt;&lt;small&gt;국립창원대·경남도립거창대·경남도립남해대가 하나로 통합해 내년부터 3개 캠퍼스, 학부 학생 수 9000명에 이르는 대학으로 새 출발한다. /그래픽=조선디자인랩 권혜인&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;통합 창원대는 같은 이름 안에서 현장 실무형 인력을 양성하는 전문학사제(2~3년)와 연구·개발(R&amp;amp;D) 등 우수 인력을 양성하는 일반학사제(4년)를 동시 운영하게 된다. 전국 최초의 ‘다층 학사제’ 모델이다. &lt;br&gt;&lt;br&gt;각 캠퍼스별로 경남의 특화 산업과 연계한 교육으로 우수 인재를 양성하게 된다. 창원캠퍼스는 경남의 특화 산업인 방위산업·원전·스마트제조·나노바이오·수소에너지 산업을 중심으로 R&amp;amp;D 인력 등의 고급 인재를 육성하는 역할을 맡는다. 거창캠퍼스는 미래방산·스마트제조·공공간호·보건의료·항노화 휴먼케어, 남해캠퍼스는 항공해양방산·에너지안전·관광융합 분야 등을 중심으로 실무에 강한 기술 인재를 양성한다. &lt;br&gt;&lt;br&gt;전문학사로 입학한 학생들도 원할 경우 내부 편입 등을 통해 일반학사와 석·박사 과정까지 밟을 수 있도록 했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OSP7HS7OSFA7BAPOXSOCZU2CBM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;29일 경남 도청에서 국립창원대와 경남도립거창대, 경남도립남해대 3개 대학 통합 브리핑이 열렸다. 왼쪽부터 윤인국 경남도 교육청년국장, 박민원 국립창원대 총장, 박완수 경남지사, 김재구 도립거창대 총장, 노영식 도립남해대 총장. /경남도&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;박민원 국립창원대학교 총장은 “이번 통합으로 국립창원대학교가 거점국립대학교로 나아가기 위한 역사적 첫발을 내디뎠다”며 “전국 최초의 다층 학사제 운영 모델로 지역 소멸 위기 극복에 기여하고, 대학과 지역사회의 지속 가능한 동반 성장을 할 수 있도록 책임과 역할을 다하겠다”고 말했다. &lt;br&gt;&lt;br&gt;박완수 경남도지사는 “국립대 전환으로 대학의 브랜드 가치와 재정 안정성이 높아지고, 3개 대학의 인프라를 공동 활용함으로써 교육의 질과 경쟁력도 크게 향상될 것”이라며 “통합 대학이 지역과 함께 성장할 수 있도록 도 차원의 지원을 아끼지 않겠다”고 말했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>헌재 “아동·청소년 대상 성범죄자 택시운전 자격 취소는 합헌”</title>
       <link>https://www.chosun.com/national/court_law/2025/05/29/FHKVYIGE4JEEDMXGN2436RVCZI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/05/29/FHKVYIGE4JEEDMXGN2436RVCZI/</guid>
@@ -925,24 +947,6 @@
       <description/>
       <pubDate>Thu, 29 May 2025 02:49:26 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XGP26IW34BMYJAVR7QIMLC6CZU.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;민경욱 전 의원. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;코로나 자가격리 기간에 자택을 무단 이탈한 혐의로 재판에 넘겨진 민경욱 전 미래통합당(현 국민의힘) 의원이 유죄 확정 판결을 받았다. &lt;br&gt;&lt;br&gt;대법원 3부(주심 노경필 대법관)는 29일 감염병 예방 및 관리에 관한 법률 위반 혐의로 민 전 의원에게 벌금 70만원의 집행유예를 선고한 원심을 확정했다. 대법원은 “원심 판단에 법리를 오해한 잘못이 없다”고 했다.&lt;br&gt;&lt;br&gt;민 전 의원은 2021년 3월 미국에 다녀온 뒤 자가격리를 하던 인천 연수구 자택을 무단으로 벗어난 혐의로 기소됐다. 당시 서울남부지법에 국회 패스트트랙 충돌 사건 재판에 출석하기 위해 자가격리 해제 시점을 3시간쯤 남겨 놓은 시점에 집을 나온 것으로 조사됐다. &lt;br&gt;&lt;br&gt;재판 과정에서 민 전 의원은 “승용차로 혼자 법원까지 이동했고 자가격리 해제 시점까지 차 안에 있었다”고 주장했다. 그러나 지난 2월 항소심 재판부는 벌금형 집행유예를 선고한 1심 판단을 유지하면서 “차량으로 이동했더라도 자택에서 이탈한 행위는 자가격리 조치를 위반한 것”이라고 했다. 또 “격리통지서에 지방자치단체장의 허가를 받으면 격리 장소를 이탈하거나 이동할 수 있다고 적혀 있었는데 지자체장이나 관할 보건소에 문의하지도 않았다”고 했다.&lt;br&gt;&lt;br&gt;민 전 의원은 2020년 코로나 확진자가 발생한 교회를 방문하고도 격리 장소를 무단 이탈한 혐의도 받았지만 이에 대해선 무죄가 확정됐다. 항소심 재판부는 “검찰이 제출한 증거만으로는 당시 피고인이 감염병 의심자라거나 격리 조치가 적법하게 이뤄졌다는 점을 인정하기 부족하다”고 판단했고, 대법원도 같은 결론을 내렸다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>美 LA로 떠난 이수만 근황...“나무 1000그루 심어”</title>
-      <link>https://www.chosun.com/national/people/2025/05/29/DEN4UBPNANG4TFRTZM4XVL2VLI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/05/29/DEN4UBPNANG4TFRTZM4XVL2VLI/</guid>
-      <dc:creator>정아임 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 29 May 2025 01:56:52 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TEAVW3IVP2D47MKT547OQ2HDKA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이수만 A2O엔터테인먼트 키 프로듀서 겸 비저너리 리더./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이수만 A20엔터테인먼트 키 프로듀서 겸 비저너리 리더가 미국 로스앤젤레스(LA)에서 ‘나무 심기 캠페인’을 통해 나무 1000그루 이상을 심은 사실이 알려졌다.&lt;br&gt;&lt;br&gt;코리아타운 청소년 및 커뮤니티 센터(KYCC)는 28일 이수만이 지난 23일 LA에서 나무 심기 캠페인을 진행했다고 밝혔다.&lt;br&gt;&lt;br&gt;이수만은 지난해 9월 50만달러(약 6억9000만원) 기부를 시작으로 각계 기관 및 풀뿌리 후원자와 함께 총 75만5000달러(약 10억4000만원)의 추가 기부를 이끌어냈다. 이로써 도시 녹지화 캠페인에 총 125만달러(약 17억2000만원)를 모금하는 데 성공했다.&lt;br&gt;&lt;br&gt;이수만의 나무 심기 캠페인으로 지금까지 LA 전역에 기후 변화에 강한 나무 1000그루 이상을 심었다. 청소년, 지역 주민 등 500명 이상의 자원봉사자가 나무 심기에 참여했고, 지난 23일 캠페인에서는 A2O 소속 걸그룹 A2O 메이와 소녀시대 써니가 나무 심기에 동참했다.&lt;br&gt;&lt;br&gt;이수만은 “나무를 심는 것은 미래 세대에게 숨 쉬는 유산을 남기는 일”이라며 “예술가가 아름다움을 창조하는 것만큼이나 그것을 보존하고 확장해 나가는 것도 시대적 책임이라고 생각한다. ESG(환경·사회·지배구조)는 기업만의 과제가 아니라 창작자에게도 요구되는 사회적 역할”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘도이치 재수사’ 서울고검, 주가조작 2차 주포 소환 조사</title>
-      <link>https://www.chosun.com/national/court_law/2025/05/29/MZ6MRVN2VJDLFFSDLBKKL2U4FM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/05/29/MZ6MRVN2VJDLFFSDLBKKL2U4FM/</guid>
-      <dc:creator>이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 29 May 2025 01:37:17 +0000</pubDate>
-      <content:encoded>윤석열 전 대통령 배우자 김건희 여사의 ‘도이치모터스 주가 조작’ 의혹을 재수사하는 검찰이 2차 주가 조작 당시 ‘주포’ 김모씨를 불러 조사한 것으로 29일 전해졌다. 검찰은 논란이 됐던 ‘7초 매도’의 당사자도 조사한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3T7XFHROHMY6L736TXVZ2SCDZI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김건희 여사./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 서울고검 재수사팀은 지난 28일 오후 김씨를 참고인 신분으로 불러 조사했다. 이에 앞서 투자자문사 블랙펄인베스트 직원 민모씨도 27일 불러 조사했다. 검찰은 김씨 등을 상대로 김 여사가 주가 조작 사실을 인지하고 있었는지 여부, 김 여사 증권 계좌를 관리하며 주가 조작에 사용하게 된 경위 등을 집중적으로 캐물은 것으로 전해졌다.&lt;br&gt;&lt;br&gt;김씨와 민씨는 김 여사가 직접 운용한 대신증권 계좌에서 이뤄진 ‘7초 매도’의 당사자들이다. 2022년 서울중앙지검 수사팀이 법원에 낸 의견서에 따르면, 김씨는 2010년 11월 1일 오전 11시 22분쯤 “12시에 3300에 8만개 때려달라 해주셈”이라는 문자메시지를 보냈고, 민씨는 “준비시킬게요”라고 답했다. 22분 후인 오전 11시 44분 32초 김씨가 ‘매도하라 하셈’이라는 메시지를 보내고 7초 후 김 여사 명의 계좌에서 3300원에 8만주가 매도됐다. &lt;br&gt;&lt;br&gt;검찰은 당시 김씨 측이 권오수 전 도이치모터스 회장에게 “매도 주문을 내면 곧바로 받겠다”는 요청을 했고, 권 전 회장이 김 여사에게 부탁해 김 여사의 주식을 팔도록 했다고 봤다. 이 과정에서 김 여사도 주가 조작 사실을 알았는지가 수사의 쟁점이었다. 권 전 회장 등의 재판에서 법원은 해당 거래를 통정매매라고 인정하면서도 김 여사가 이를 알았는지 여부는 판단하지 않았다.&lt;br&gt;&lt;br&gt;서울중앙지검 수사팀은 “김 여사가 주가 조작을 알았다고 볼 증거를 찾지 못했다”면서 작년 10월 김 여사를 불기소 처분했다. 고발인 측은 항고했고, 서울고검은 지난달 25일 재수사를 결정했다. 최근 주가 조작 공범 이모씨를 불러 조사했고, 서울남부지검 가상자산범죄합동수사부(부장 박건욱)가 확보한 김 여사 휴대전화에 대해서도 압수 수색 영장을 집행해 관련 자료를 확보했다. 서울남부지검은 건진법사 전성배씨의 청탁 의혹을 수사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>바디로션 통에 필로폰 27.5kg 밀반입…국제 마약조직 일망타진</title>
