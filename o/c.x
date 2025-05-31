@@ -13,6 +13,60 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>경찰, ‘남편 명의 대리투표’ 선거사무원 구속영장 신청</title>
+      <link>https://www.chosun.com/national/national_general/2025/05/31/F237LSPKBNGKZNO2BTLOEQAHBA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/05/31/F237LSPKBNGKZNO2BTLOEQAHBA/</guid>
+      <dc:creator>김도연 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 31 May 2025 05:08:41 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KHVQR4GDJBO2DGPQKWC2NLUECA.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;대통령 선거 사전투표 이틀째인 30일 오후 '대리 투표' 사건이 발생한 서울 강남구 대치2동 사전투표소에서 유권자들이 투표를 하기 위해 대기하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 대치동의 사전투표소에서 남편 명의로 대리 투표한 강남구 소속 공무원에 대해 경찰이 구속 영장을 신청했다. 해당 공무원은 현재 직위 해제됐다.&lt;br&gt;&lt;br&gt;서울 수서경찰서는 지난 29일 오후 강남구 대치2동 사전투표소에서 선거사무원으로 일하며 남편과 자신의 명의로 투표를 두 번 한 혐의(사위투표)를 받는 60대 공무원 A씨에 대해 구속영장을 신청했다고 31일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 29일 오후 1시쯤 남편 신분증으로 투표용지를 발급해 대리 투표를 마친 후 오후 5시쯤 다시 자신의 신분증으로 투표를 한 혐의를 받는다.&lt;br&gt;&lt;br&gt;경찰은 “투표를 2번 한 사람이 있다”는 무소속 황교안 대선후보 측 참관인의 신고를 받고 출동해 A씨를 긴급체포 했다, &lt;br&gt;&lt;br&gt;A씨는 강남구 보건소 소속 공무원으로 선거관리위원회에 29~30일 근무를 신청해 사전투표 사무원으로 위촉됐다. A씨는 이틀 동안 유권자들의 신원을 확인하는 업무를 담당했다. &lt;br&gt;&lt;br&gt;A씨는 지난 총선 때도 선거사무원으로 일한 경력이 있던 것으로 전해졌다. 강남구는 29일 A씨를 직위 해제했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>무표정으로 불 지른 범인, 피해자인 듯 실려 나오다 체포</title>
+      <link>https://www.chosun.com/national/national_general/2025/05/31/SXHJ73FBIVH5NMY4QXL3ZSITIM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/05/31/SXHJ73FBIVH5NMY4QXL3ZSITIM/</guid>
+      <dc:creator>김도연 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 31 May 2025 03:55:19 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UJM72S5TDNF4HGPHGLCPTXD4DY.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;31일 오전 서울 지하철 5호선 마포역~여의나루역 구간에서 방화로 인한 화재가 발생해 승객들이 선로를 통해 대피하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;31일 오전 승객 400여명이 탑승한 서울 지하철 5호선 열차에 방화를 저지른 피의자가 소방에 구조되던 중 경찰에 검거된 것으로 파악됐다.&lt;br&gt;&lt;br&gt;서울 영등포경찰서는 이날 오전 여의나루역에서 마포역으로 향하던 지하철 열차에 불을 지른 혐의로 60대 남성 A씨를 현행범으로 체포했다고 밝혔다.&lt;br&gt;&lt;br&gt;경찰에 따르면 A씨는 범행 이후 한강 아래를 지나는 하저터널에 쓰러져 있다 소방에 구조됐다. &lt;br&gt;&lt;br&gt;서울 영등포구 여의나루역 플랫폼에서 들것에 실려 나오던 A씨의 손에 다른 승객들과 달리 그을음이 많은 것을 경찰이 발견해 혐의를 추궁했다.&lt;br&gt;&lt;br&gt;A씨는 당시 혐의를 인정하고 이날 오전 9시 45분쯤 현행범으로 체포됐다. 경찰은 A씨가 범행에 쓴 라이터형 토치, 기름이 든 유리통 등을 감식 중이다.&lt;br&gt;&lt;br&gt;범행 당시 A씨는 무표정으로 불을 지른 것으로 알려졌다. 화재를 최초 신고했던 한 승객은 “A씨는 아무런 표정이 없어 ‘사람이 이 정도로 무표정일 수 있을까’하는 생각이 들었다”며 “A씨가 (불을 붙이려) 휴지를 달라고 말하는 것을 들었고 그 말 말고는 아무런 말도 하지 않았다”고 한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “향후 범행 과정과 범행 동기 등에 대해 면밀히 수사할 예정”이라고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FXI72XHJGFMWDJRZD2SNBKULOQ.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;31일 오전 방화로 추정되는 화재가 발생한 서울 지하철 5호선 마포역에서 경찰이 역사 출입을 통제하고 있다.현재 화재는 진화된 상태다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한편 이날 화재로 21명이 연기 흡입, 찰과상 등 경상을 입어 병원으로 이송됐고, 130명이 현장에서 응급 처치를 받은 것으로 집계됐다. &lt;br&gt;&lt;br&gt;한때 서울 지하철 5호선 하행선 여의도역~애오개역 구간의 운행이 1시간 30분가량 중단되기도 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>경기·인천·경남 일부에 오존주의보...야외 활동 줄여야</title>
+      <link>https://www.chosun.com/national/transport-environment/2025/05/31/BP3SC6QREREG3M737ZCH457FXU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/05/31/BP3SC6QREREG3M737ZCH457FXU/</guid>
+      <dc:creator>선정민 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 31 May 2025 04:49:17 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VNZSCONECR33Y73PEPUBPH5BYU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;오존 주의보 발령 전광판/뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한국환경공단은 31일 오후 1시를 기해 경기 중부권, 인천 동남부권, 경남 하동·남해에 각각 오존주의보를 발령했다고 밝혔다. 1시간 평균 공기 중 오존(O₃) 농도가 0.12ppm 이상이면 오존주의보가, 0.30ppm 이상이면 오존경보가, 0.50ppm 이상이면 오존중대경보가 각각 발령된다. &lt;br&gt;&lt;br&gt;이날 오존주의보가 발령된 경기 중부권은 수원·안산·안양·부천·시흥·광명·군포·의왕·과천·화성·오산 등 11개 시다. 인천 동남부권 5개 구(계양구·부평구·미추홀구·연수구·남동구)에도 오존주의보가 내려졌다. 앞서 이날 오전 10시 전남 여수에 내려진 오존주의보는 오전 11시에 해제됐다.&lt;br&gt;&lt;br&gt;오존은 대기 중 오염 물질인 이산화질소(NO₂)와 휘발성유기화합물(VOCs)이 햇빛이 강할 때 광화학 반응으로 생성된다. 고농도 오존은 기도와 폐를 손상시키고 눈, 코 등 자극을 유발한다. 오존은 미세 먼지와 달리 마스크로도 차단되지 않는다. &lt;br&gt;&lt;br&gt;따라서 오존 농도가 높을 때는 과격한 운동과 실외 활동을 자제하는 것이 좋다. 노약자와 어린이, 호흡기·심장 질환자는 더 주의해야 한다. 어린이집, 유치원, 학교 등도 실외 수업을 자제하는 것이 좋다.&lt;br&gt;&lt;br&gt;환경부에 따르면, 대기 중 오존 농도를 낮추려면 대중교통을 이용하고 승용차 이용을 줄이는 것이 좋다. 대기 중 오염 물질 휘발을 줄이려면 낮 시간대에는 스프레이, 페인트, 시너 사용을 줄이고, 주유는 한낮 더운 시간대를 피해 아침이나 저녁에 하는 것이 좋다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>내년 건보 수가 1.93%↑… 건보료 따라 오를 듯</title>
+      <link>https://www.chosun.com/national/welfare-medical/2025/05/31/D5KIL62UWJBTFB3O324TUBFRMA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/05/31/D5KIL62UWJBTFB3O324TUBFRMA/</guid>
+      <dc:creator>선정민 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 31 May 2025 04:33:53 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YCDGMRAA75JIZMHOF7C2GBNDUE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;정기석 국민건강보험공단 이사장(오른쪽 마이크 든 이)이 9일 서울 마포구 가든호텔에서 열린 2025학년도 요양급여비용 계약 이사장-의약단체장 합동 간담회에서 인사말을 하고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국민건강보험공단이 의료기관에 지급하는 의료 수가가 내년에 평균 1.93% 오른다. 이에 따라 환자 진료비와 건강보험료가 인상될 전망이다.&lt;br&gt;&lt;br&gt;건보공단은 31일 재정운영위원회에서 7개 의약 단체와 협상을 마친 2026년도 요양급여비용을 심의·의결했다고 밝혔다. 정부가 건보 재정에서 의료기관에 지급하는 의료 수가는 의료 행위별로 정한 ‘상대가치점수’에 매년 의약 단체와 협상을 통해 정하는 ‘환산지수’를 곱해 산출한다. 이날 의결된 내년도 요양기관 유형별 환산지수 인상률은 병원 2.0%, 의원 1.7%, 치과 2.0%, 한의 1.9%, 약국 3.3%, 조산원 6.0%, 보건기관 2.7%이다. 이번 수가 인상에 따라 추가로 소요될 건보 재정은 1조3948억원이다. &lt;br&gt;&lt;br&gt;내년도 평균 환산지수 인상률(1.93%)은 2023년·2024년(1.96%)보다 소폭 낮다. 최근 환산지수 인상률은 2020년 2.29%, 2021년 1.99%, 2022년 2.09% 등이었다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>법무부, 범죄피해자 지원 위한 공익 캠페인 열어</title>
+      <link>https://www.chosun.com/national/court_law/2025/05/31/7CDCZADUSVDCBIRYWN22PEFIJQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/05/31/7CDCZADUSVDCBIRYWN22PEFIJQ/</guid>
+      <dc:creator>김은경 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 31 May 2025 03:49:38 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GNCSNQAKVHBB3YOROU3D6YAW7Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;ⓒ 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;법무부는 31일 서울 광진구 서울어린이대공원에서 범죄피해자 보호와 지원의 사회적 관심을 촉구하는 공익 캠페인 ‘다링(Daring) 안심캠페인’ 행사를 개최했다고 밝혔다.&lt;br&gt;&lt;br&gt;전국범죄피해자지원연합회와 함께 개최하는 다링 안심캠페인은 시민들이 함께 걸으며 범죄피해자의 치유와 회복을 응원하고 사회적으로 범죄피해자 보호· 지원에 대한 관심을 촉구하는 캠페인으로 2014년부터 매년 열리고 있다.&lt;br&gt;&lt;br&gt;승재현 법무부 인권국장은 “범죄피해자의 인권이 존중받고 소외되는 피해자가 없도록 다양한 맞춤형 보호·지원 제도를 마련하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“한해 856억 혈세 지원”에도 4일째 멈춘 창원 시내버스에 시민 불만 폭주</title>
+      <link>https://www.chosun.com/national/regional/2025/05/31/HBYH2GFT7FFHJLJQ4WWFXF2KPI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/05/31/HBYH2GFT7FFHJLJQ4WWFXF2KPI/</guid>
+      <dc:creator>창원=김주영 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 31 May 2025 03:36:17 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RDUD5XNC4HBKHXN3XYD2Q2OJVQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;창원 시내버스 노조의 총파업 사흘째인 30일 창원시 성산구 성원남산3차아파트 앞 버스정류장에서 시민들이 임시버스를 기다리고 있다./뉴스1 강정태 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 28일부터 시작된 경남 창원 시내버스 파업이 31일 4일째 이어지면서 시민 불만도 극에 달하고 있다. 창원에서 버스가 4일째 멈춘 것은 처음 있는 일이다.&lt;br&gt;&lt;br&gt;31일 창원시에 따르면 창원 시내버스 9개 업체 노조는 지난 28일 오전부터 31일 낮 12시 현재까지 4일째 파업 중이다. 창원 전체 시내버스의 95%인 669대가 운행을 멈췄다.&lt;br&gt;&lt;br&gt;시는 전세버스 170대, 공용버스 10대 등 임시버스를 투입했지만, 이날 기준 운행률은 평상시 대비 33%대로 떨어져 기존보다 배차 간격이 크게 벌어져 시민 불편이 이어지고 있다.&lt;br&gt;&lt;br&gt;노사는 지난 30일 오후 3시부터 이날 오전 1시 30분쯤까지 경남지방노동위원회 주관으로 협상을 재개했지만, 입장차를 좁히지 못했다.&lt;br&gt;&lt;br&gt;노조 내부에서는 “단체협약 일부 사항을 먼저 합의하고 타 시도처럼 파업은 유예하자”는 의견도 제시됐지만, 다른 노조원들의 반대로 파업을 계속하는 것으로 결정된 것으로 전해졌다.&lt;br&gt;&lt;br&gt;서울을 비롯해 울산, 경기, 인천 등의 시내버스 노조가 시민 불편을 막기 위해 파업은 보류한 채 물밑 협상을 이어가는 것과 대조적이다. &lt;br&gt;&lt;br&gt;창원시 의창구 소계동에 사는 주민 최모씨는 “버스가 제때 안 오니 날이 더워도 자전거를 탈 수밖에 없다”며 “창원 버스는 시민 세금으로 운영되는 것으로 아는데 세금을 내면서 왜 이렇게 불편을 겪어야 하는지 화가 난다”고 말했다.&lt;br&gt;&lt;br&gt;마산합포구 가포동에 사는 한 주민은 “봉암공단으로 가는데 배차 시간이 맞지 않아 택시를 이용할 수밖에 없었다”며 “2명의 자녀도 마찬가지로 오지 않는 임시 버스를 기다리다가 학교에 지각하면서 결국 택시를 탔다”고 시에 민원을 올렸다.&lt;br&gt;&lt;br&gt;그러면서 “며칠 만에 10만원이 넘는 택시비를 사용했고 임시 버스를 기다리는 것도 힘들다”고 토로했다.&lt;br&gt;&lt;br&gt;다른 시민들도 평소보다 2∼3배 이상 길어진 배차 시간 탓에 도로에서 허비하는 시간이 늘었을 뿐 아니라 급할 땐 택시를 타야 해 경제적 부담이 크다고 불만을 쏟아내고 있다.&lt;br&gt;&lt;br&gt;창원시가 버스 파업 이후 설치한 안내 콜센터에는 일일 3000건 이상의 문의와 불편 민원이 접수되고 있다. 창원시 민원 홈페이지에도 파업 기간 80건의 불편 민원 글이 올라왔다.&lt;br&gt;&lt;br&gt;창원 시내버스는 전액 시비로 운영된다.&lt;br&gt;&lt;br&gt;시가 버스업계에 지원한 재정 규모도 준공영제 시행 전인 2020년 586억원에서 지난해 856억원으로 270억원가량 증가했다. 증가액의 70%인 190억원 상당은 운전직 인건비로 지원됐다.&lt;br&gt;&lt;br&gt;노조는 이번 임·단협에서 통상임금과 임금 인상을 요구하고 있는데, 노조 요구를 모두 받아들일 경우 연간 약 330억원의 예산이 추가로 들어가게 된다. 창원시 관계자는 “그렇게 되면 시의 재정 지원 규모가 1200억원으로 불어나 도저히 시 제정으로 감당할 수 없다”고 말했다.&lt;br&gt;&lt;br&gt;시정 공백 상황도 노조와의 협상력을 떨어뜨리고 있다는 목소리도 나온다. 창원시는 지난 3월 전임 홍남표 창원시장이 선거법 위반으로 직을 잃은 후, 4월부터 권한대행 체제로 운영되고 있다. &lt;br&gt;&lt;br&gt;타 지자체의 경우 지자체장이 물밑으로 재정 지원금 지원 축소 등 압박용 협상 카드를 제시하는 경우도 있는 것으로 알려지면서, 창원시가 보다 적극적으로 노조와의 협상에 나서야 한다는 지적도 나온다.&lt;br&gt;&lt;br&gt;창원시 관계자는 “시 내부에서도 계속 파업을 하는 노조에 더 이상 시가 끌려가서는 안 된다는 얘기가 나온다”며 “버스 업계에 대한 시의 재정 지원에 대해서도 전체적으로 점검할 계획”이라고 말했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>“뒤 칸서 까만 연기 몰려와 이러다 죽는구나… 다음 역까지 철로로 내달렸다”</title>
       <link>https://www.chosun.com/national/national_general/2025/05/31/TIQ6KGCAPFDU3JER2SM4MZBAEE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/05/31/TIQ6KGCAPFDU3JER2SM4MZBAEE/</guid>
@@ -781,25 +835,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ATWFUUK67NKSVEQ354YNOD3TDU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법무부 청사. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;법무부가 북한의 형법을 분석한 ‘북한 형법 주석’을 30일 발간했다. 북한 형법 조문 329개 전부를 대상으로 했으며 분량은 총 1128쪽에 이른다. 북한은 공산주의 도덕에 어긋나는 행동을 한 행위 등을 범죄로 구성해 형사 처벌하고 있다.&lt;br&gt;&lt;br&gt;법무부에 따르면 지난 2023년 12월 개정된 북한 형법의 주요 특징으로는 ▲사형의 확대를 통한 통제 강화 ▲반사회주의 문화 차단 강화 ▲국가상징 보호 강화 ▲남북관계 변화 등이 꼽힌다. &lt;br&gt;&lt;br&gt;북한은 형법 개정을 통해 형사특별법(반동사상문화배격법, 마약범죄방지법 등)에도 사형을 규정했다. 또 지난 2020년 반동사상문화배격법을 제정해 이른바 ‘한류’ 등 외부 문화 유입에 대한 통제를 강화했다. 이는 ‘장마당 세대(북한의 신세대 격)’ 사이에서 한류 문화가 유행해 ’오빠‘ 호칭 등 우리나라 문화가 유입되면서 체제 위기를 느낀 것에 대한 대응 차원으로 풀이된다. 이에 따라 퇴폐적인 문화반입, 유포죄 등이 현행 형법에서는 삭제됐다. &lt;br&gt;&lt;br&gt;북한은 아울러 공화국의 존엄모독죄와 국기·국장훼손죄를 각각 2022년 및 2023년에 신설하는 등 국가상징 보호를 강화하고 있다. 또 지난 2023년 12월 노동당 중앙위원회 회의에서 남북관계를 ‘적대적 두 국가, 전쟁 중에 있는 두 교전국 관계’로 선언하면서 ‘조선민족해방운동탄압죄’ 등 관련 조항은 삭제됐다.&lt;br&gt;&lt;br&gt;이번 북한 형법 주석은 앞서 법무부가 지난 2015년 발간한 ‘북한 형법(2012년 개정법)’의 전면 개정판으로 형법의 조문별 구성요건에 대한 설명과 함께 개정 연혁, 대한민국·러시아·중국·베트남 형법과의 비교법적 연구를 담았다. 북한 형사법 체계를 보다 입체적으로 바라볼 수 있게 한 것이다. &lt;br&gt;&lt;br&gt;그러면서 북한 사회상의 변천사를 선명하게 보여줄 수 있는 반동사상문화배격법과 마약범죄방지법에 대한 조문별 해설도 포함했다. 북한 형법 주석은 통일법제 데이터베이스에서 무료로 내려받을 수 있다.&lt;br&gt;&lt;br&gt;유태석 법무실장 대행은 “이번 주석서 발간이 향후 남북 법률 체계 통합에 효율적으로 대처하기 위한 연구의 초석이 되길 기대한다”며 “법무부는 남북한의 법･제도 통합 준비를 위해 지속적으로 노력하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>“부정선거 감시하려고”...하동선관위 건물 무단침입 30대 체포 </title>
-      <link>https://www.chosun.com/national/2025/05/30/UJ73TLDZGRGVBGDP6CZW2ES23M/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2025/05/30/UJ73TLDZGRGVBGDP6CZW2ES23M/</guid>
-      <dc:creator>창원=김준호 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 30 May 2025 01:06:50 +0000</pubDate>
-      <content:encoded>부정 선거를 감시한다며 경남 하동군 선거관리위원회 건물에 무단 침입한 30대가 경찰에 체포됐다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/S4JNNA63IJHXYPIIBJ7DXGEVSU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경남경찰청은 건조물침입 혐의로 A씨를 현행범 체포해 조사하고 있다고 30일 밝혔다. &lt;br&gt;&lt;br&gt;경찰에 따르면 A씨는 대선 사전투표 첫날인 지난 29일 오후 9시 39분쯤 하동군 선거관리위원회 건물 뒤편 배관을 타고 2층 발코니로 올라가 건물 안으로 들어가는 문을 열었다. 당시 문은 잠기지 않은 상태였다고 한다. &lt;br&gt;&lt;br&gt;하지만 A씨는 경보음이 울리자, 건물 안으로는 들어가지 않았다고 한다. 사설 경비업체가 침입 사실을 확인해 경찰에 신고했고, 현장에 출동한 경찰이 A씨를 현행범으로 체포했다. 현재까지 공범은 없는 것으로 확인됐다.&lt;br&gt;&lt;br&gt;경찰 조사에서 A씨는 부정선거가 의심돼 감시하기 위해 이 같은 짓을 저질렀다는 취지로 진술했다. &lt;br&gt;&lt;br&gt;경찰 관계자는 “선거 관련 사건인 만큼 A씨를 상대로 정확한 사건 경위를 조사하는 한편 여죄가 있는지를 확인할 계획이다”라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>양손 흉기 들고 아파트 배회... 경찰 향해 돌진하자 ‘테이저건’ 제압</title>
-      <link>https://www.chosun.com/national/national_general/2025/05/30/H5ZSY6LY3NHQFL4BU6AQK5UCUY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/05/30/H5ZSY6LY3NHQFL4BU6AQK5UCUY/</guid>
-      <dc:creator>이혜진 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 30 May 2025 00:06:43 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/V6KJAGHILJG7NK24WGYG2GU6YA.png"&gt;&lt;figcaption&gt;&lt;small&gt;경북 구미의 한 아파트에서 흉기를 든 채 배회하던 남성을 경찰이 테이저건으로 제압했다. /유튜브 '대한민국 경찰청'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경북 구미의 한 아파트에서 흉기를 든 채 배회하던 남성을 경찰이 테이저건으로 제압했다.&lt;br&gt;&lt;br&gt;28일 경찰에 따르면, 지난 9일 경북 구미의 한 아파트에서 남성 주민 A씨가 흉기를 양손에 들고 엘리베이터와 복도를 배회하며 주민들을 공포에 빠뜨렸다. 당시 상황은 아파트 엘리베이터 방범 카메라에 그대로 기록됐고, 경찰은 유튜브 ‘대한민국 경찰청’을 통해 당시 상황이 찍힌 영상을 공개했다. &lt;br&gt;&lt;br&gt;방범카메라 영상을 보면, 엘리베이터에 탑승 중이던 남녀 주민 2명은 문이 열리자마자 문 앞에 양손에 흉기를 들고 서 있는 A씨와 마주쳤다. A씨는 잠시 서 있다가 돌아섰고, 엘리베이터 문이 닫히자 주민들은 놀란 듯 대화를 나눴다. 이후 A씨는 홀로 엘리베이터에 탑승해 흉기를 엘리베이터 문 쪽으로 향하게 쥔 채 문 앞에 서 있다가 다른 층으로 이동하는 모습이 포착됐다.&lt;br&gt;&lt;br&gt;신고를 받은 경찰은 즉시 현장에 출동했다. 경찰은 만일의 사태에 대비해 테이저건을 준비했다. 경찰은 관리사무소의 협조를 받아 A씨의 거주지를 파악했고 매뉴얼에 따라 역할을 분담한 뒤 그의 자택으로 향했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CIL6NIG7ORC5BFQEDJBKG4YQTU.gif"&gt;&lt;figcaption&gt;&lt;small&gt;경북 구미의 한 아파트에서 흉기를 든 채 배회하던 남성을 경찰이 테이저건으로 제압했다. /유튜브 '대한민국 경찰청'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이어진 경찰 보디캠 영상에서 경찰은 A씨 주거지 복도에서 A씨가 나오기를 기다리며 현관문을 두드렸다. 문이 열리자 A씨는 양손에 흉기를 든 채 경찰을 향해 돌진했고, 미리 테이저건을 준비하고 있던 경찰은 신속하게 테이저건을 발사해 A씨를 제압했다. 현장에서 체포된 A씨는 특수공무집행방해 등의 혐의로 구속 송치됐다.&lt;br&gt;&lt;br&gt;해당 영상을 접한 누리꾼들은 “엘리베이터에 주민 혼자였으면 큰일 날 뻔했다” “경찰들 보호 장비 강화시켜달라” “눈앞에서 흉기를 들고 달려드는데 겨우 테이저건이라니” “진짜 큰일 날 뻔했네요” “침착한 대응과 신속한 제압 덕분에 큰 피해 없이 마무리돼서 정말 다행입니다” 등의 반응을 보였다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/H3NLXG46HJG37HKYDBV26JX7YQ.gif?auth=93ee66c489b4632d2b6cb29a86617556b3a7b000062d19815d9873f657d54bae&amp;smart=true&amp;width=627&amp;height=353" type="image/jpeg" height="353" width="627"/>
-    </item>
-    <item>
       <title>“대치동서 사전투표 두 번 한 사람 있다”…경찰, 수사 착수</title>
       <link>https://www.chosun.com/national/national_general/2025/05/30/WZFL6465ONEKVC7ELO3M5RJEZA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/05/30/WZFL6465ONEKVC7ELO3M5RJEZA/</guid>
@@ -849,15 +884,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6ISUQTFQMJMNHKR6MRN7PR77UM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 20일 태국 방콕 시내에서 마스크를 쓴 사람들이 걷고 있다./EPA 연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대만·중국·홍콩·태국 등 인근 국가에서 코로나가 다시 유행하면서 국내에서도 긴장감이 높아지고 있다.&lt;br&gt;&lt;br&gt;29일 외신 등에 따르면 대만에서는 코로나 바이러스 감염증 환자가 최근 7주 연속 늘고 있다. 지난 18~24일 코로나로 인한 대만 응급 진료 환자는 4만명을 넘어섰다. 전주(1만9097명)의 배로 늘었다. 대만 방역 당국은 “다음 달 말부터 7월 초 사이 코로나 환자가 20만명에 육박할 수 있다”며 사람이 많이 모이는 곳에서는 마스크 착용을 권고했다. &lt;br&gt;&lt;br&gt;홍콩은 지난 3월 중순 1.7%였던 코로나 감염률(호흡기 환자 가운데 코로나 감염 비율)이 이달 초 11.4%가 돼 6배 이상으로 치솟았다. 중국 역시 코로나 감염률이 3월 말 7.5%에서 이달 초 16.2%로 증가했다. 이 기간 코로나로 입원한 환자 수가 2배로 치솟았다.&lt;br&gt;&lt;br&gt;세계보건기구(WHO)에 따르면 지난 11일 기준 세계 73국 지역·영토에서 보고된 검사 양성률은 11%로, 99국 보고에서 양성률 12%를 기록한 작년 7월 이후 가장 높은 수치를 기록했다.&lt;br&gt;&lt;br&gt;우리나라도 코로나 감염이 최근 증가세다. 질병관리청에 따르면 호흡기 질병 감시 병의원을 통해 집계한 코로나 바이러스 검출률은 지난 18~24일(21주 차) 한 주간 8.8%를 기록하며 2주 연속 상승했다. 해외에선 지난 1월 22일 처음 샘플이 수집된 오미크론 계열의 ‘NB.1.8.1’ 변이 바이러스가 유행을 주도하고 있다. 증상은 기침, 인후통, 발열, 피로감 등 기존 변이 ‘NB.8.1’과 비슷하다. &lt;br&gt;&lt;br&gt;새 변이의 전염성은 다소 높지만 위험성은 예전보다 낮다는 평가가 일반적이다. 정재훈 고려대 예방의학과 교수는 “코로나로 인한 사망자 수 증가의 영향은 제한적”이라며 “코로나는 이제 풍토병이 됐고, 기저 질환이 없거나 만 65세 미만 건강한 사람에게는 큰 위협이 되기 어렵다”고 했다.&lt;br&gt;&lt;br&gt;방역 당국은 상황을 주시하고 있다. 보건복지부는 지난 23일 박민수 2차관 주재로 질병관리청, 국립중앙의료원과 함께 코로나19 대응 점검 회의를 열었다. 코로나가 크게 유행했던 작년 8월 이후 9개월 만의 대책 회의다. 질병관리청은 “국내 코로나19 발생은 전반적으로 안정세를 유지하고 있다”면서도 “해외 유행 확산이 국내 유입으로 이어지지 않도록 경계심을 늦추지 않고 방역망을 유지할 방침”이라고 했다.&lt;br&gt;&lt;br&gt;하지만 시민 불안감은 커지고 있다. 특히 경기가 침체한 상황에서 자영업자들이 코로나로 타격을 입을까 우려하고 있다. 자영업자들이 모인 인터넷 카페에선 “코로나 유행이 또 온다면 더는 버틸 수 없다” 등의 글이 쏟아지고 있다. 경기도에서 실내 체육 시설을 운영하는 김모(54)씨는 “코로나 팬데믹 시기를 겨우 지나왔는데, 코로나 확산으로 방역 조치가 강화되면 겨우 숨 돌린 경영에 직격탄을 맞을 것”이라고 말했다.&lt;br&gt;&lt;br&gt;지난해처럼 올여름 다시 또 큰 코로나 유행이 올 수 있다는 우려도 나오고 있다. 질병청에 따르면 현재 65세 이상 고령자와 면역 저하자 등 코로나 고위험군 중 약 47.4%인 487만여 명이 코로나 백신을 맞았다. 65세 미만은 정부가 따로 백신 접종 여부를 집계하지 않고 있다. 질병청은 “고위험군은 백신 접종을 권고한다”며 “외출 후 손을 씻고 환기를 자주 하는 등 예방 수칙 준수가 필요하다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/B3M7BO4UQBFLTIN55PLNA4MYJY.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=양인성&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[오늘의 판결] 헌재 “아동 성범죄자 택시기사 자격 취소는 합헌”</title>
-      <link>https://www.chosun.com/national/court_law/2025/05/30/LFA73FGVLZAY3GMW6S4RJEJ2TA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/05/30/LFA73FGVLZAY3GMW6S4RJEJ2TA/</guid>
-      <dc:creator>김은경 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 29 May 2025 15:53:00 +0000</pubDate>
-      <content:encoded>아동·청소년 대상 성범죄자에게 택시 운전 자격을 제한하는 현행법은 헌법에 어긋나지 않는다는 헌법재판소 결정이 나왔다. 헌재는 개인택시 기사 A씨가 낸 여객자동차 운수사업법 87조 1항에 대한 헌법소원 심판 사건에서 재판관 7명 전원 일치로 합헌 결정을 내렸다고 29일 밝혔다. 이 조항은 아동·청소년성보호법 위반으로 금고 이상 형의 집행유예를 선고받은 경우 집행유예 기간이 끝날 때까지 택시 운전 자격을 취소하는 내용을 담고 있다.&lt;br&gt;&lt;br&gt;헌재는 “택시를 이용하는 국민을 성범죄로부터 보호하고 불안감을 해소하며 공공의 안전을 확보하려는 조항으로서 입법 목적과 수단이 정당하다”고 했다.&lt;br&gt;&lt;br&gt;부산에서 30여 년간 개인택시를 해온 A씨는 택시에 탄 13세 여학생을 성희롱하고 추행한 혐의로 지난해 징역 1년 6개월에 집행유예 3년을 선고받았다. 이에 부산시가 택시 운전 자격을 취소하자 A씨는 “헌법상 과잉 금지 원칙을 위배해 직업 선택의 자유를 제한한다”며 헌법소원을 냈다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>조현범 한국타이어 회장 징역 3년형 법정 구속</title>
       <link>https://www.chosun.com/national/court_law/2025/05/30/Z2A2G6HCNJG6LI6CS2LMF4NK4Q/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/05/30/Z2A2G6HCNJG6LI6CS2LMF4NK4Q/</guid>
@@ -865,26 +891,6 @@
       <description/>
       <pubDate>Thu, 29 May 2025 15:53:00 +0000</pubDate>
       <content:encoded>200억원대 횡령·배임 등 혐의로 재판에 넘겨진 조현범 한국타이어앤테크놀로지(한국타이어) 회장이 29일 1심에서 징역 3년을 선고받고, 법정 구속됐다. 재판부는 조 회장이 받는 9개 혐의 중 하나를 제외하고 모두 유죄로 판단했다. 조 회장은 한국타이어 조양래 명예회장의 차남으로, 이명박 전 대통령의 사위다.&lt;br&gt;&lt;br&gt;서울중앙지법 형사23부(재판장 오세용)는 이날 업무상 배임과 배임수재죄 등 혐의를 받는 조 회장에 대해 징역 3년을 선고했다. 조 회장은 2023년 3월 구속 기소됐다가 그해 11월 보석으로 풀려나 불구속 상태로 재판을 받아왔다. 조 회장은 선고 직후 “판사님께서 정해주신 형량대로 반성하고 있겠다”고 짧은 입장을 밝혔다.&lt;br&gt;&lt;br&gt;재판부는 조 회장이 한국타이어와 한국앤컴퍼니 등의 법인카드를 사적으로 사용한 혐의에 대해 “본인과 자신과 친분이 있었던 제3자가 개인적 용도로 사용한 법인카드 대금 약 5억8000만원을 회사들에 대납하게 한 부분은 업무상 배임죄가 인정된다”고 했다. 또 조 회장이 개인적으로 사용할 차량 5대를 한국타이어 계열사 명의로 구입하거나 리스해 회사 소속 운전기사에게 자신의 배우자를 수행하게 한 혐의 등도 배임죄에 해당한다고 판단했다. &lt;br&gt;&lt;br&gt;다만 조 회장이 한국타이어가 계열사인 MKT(한국프리시전웍스)와 부당한 거래에 관여해 약 131억원의 손해를 보게 한 혐의에 대해선 “거래의 목적과 가격 모두 부당하다고 볼 수 없고, 한국타이어가 MKT에 특별히 유리한 조건으로 거래했다고 보기도 어렵다”고 판단했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>숲으로 냇가로… 도서관의 ‘소풍’</title>
-      <link>https://www.chosun.com/national/national_general/2025/05/30/4OC7P6UQ35CXZCOQDLMPGFWWXU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/05/30/4OC7P6UQ35CXZCOQDLMPGFWWXU/</guid>
-      <dc:creator>최연진 기자, 김영우 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 29 May 2025 15:53:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2AV6PUZSSVGKNOWJQFQESYPEC4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/고운호 기자
-
-지난 5일 서울광장에서 열린 야외 도서관 ‘책 읽는 서울광장’의 모습. 서울광장 잔디 위에 빈백 소파를 놓고 서가를 설치했다. 아이들이 즐길 수 있는 놀이기구도 있다./ 고운호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전국의 공공 도서관이 ‘야외’로 나가고 있다. 올해 전국에서 열리는 야외 도서관만 서울, 부산, 울산 등 70곳에 달한다.&lt;br&gt;&lt;br&gt;서울시는 지난달 23일부터 매주 주말 서울광장과 광화문광장, 청계천 등 3곳에 야외 도서관을 열고 있다. 서울도서관 사서들이 고른 책 5000여 권을 마음껏 골라 읽을 수 있다. 서울광장엔 빈백 소파 100여 개가 놓여 있어 책을 읽다가 졸리면 낮잠도 잘 수 있다. 청계천에선 냇물에 발을 담그고 책을 읽는다.&lt;br&gt;&lt;br&gt;29일 서울시에 따르면 2022년 21만명이었던 야외 도서관 방문자 수는 지난해 306만명으로 2년 만에 15배가 됐다. 올해는 개장 한 달 만에 57만명을 넘겼다. 야외 도서관에서 만난 시민들은 “청계천 물소리를 들으며 독서를 할 수 있다니 힐링이 된다” “야외 도서관 덕분에 다시 책을 들게 됐다”고 했다. 인스타그램 등 소셜미디어에는 야외 도서관에서 찍은 ‘인증샷’이 5000건이 넘는다. 이지연 연세대 문헌정보학과 교수는 “광장, 냇가라는 공간의 신선함이 독서하는 모습을 멋지다고 생각하는 ‘텍스트 힙(text hip)’ 열풍과 만나 시너지를 낸 것”이라고 분석했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QVEYOHXOUJBTROJXBJSNKECJUI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난해 9월 전북 익산시 배산공원 편백숲 ‘해먹 숲 도서관’에서 한 시민이 해먹에 누워 휴식을 취하며 독서를 하고 있다./익산시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;풀밭에서 책을 읽고 뛰어노는 가족도 적잖다. 지난 25일 4살 아이와 서울광장 야외 도서관을 찾은 주부 나모(38)씨는 “아이를 낳은 뒤 책과 담을 쌓았는데 여기선 주변 눈치 안 보고 책을 읽을 수 있어 자주 온다”고 했다. &lt;br&gt;&lt;br&gt;서울시의 야외 도서관은 ‘시민들을 어떻게 도서관으로 다시 데려올까’ 하는 고민에서 출발했다. 문화체육관광부에 따르면, 2007년 600곳이었던 전국 공공 도서관 수는 2023년 1271곳으로 2배가 됐다. 그런데 같은 기간 도서관 1곳당 연간 방문자 수는 31만명에서 16만명으로 반 토막 났다. 서울시 관계자는 “요즘 젊은 세대는 책을 읽으며 수다도 떨고 IT(정보기술) 기기도 쓰는 ‘멀티 유저’인데, 쥐 죽은 듯 조용한 도서관을 꺼리는 건 당연한 일”이라며 “차라리 적당히 소음이 있는 공간을 만들어 보자는 생각에서 야외 도서관을 운영하게 됐다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6FN6YSQ53JBXZCVZ3KPTS5ORAE.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=이철원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난해 서울 야외 도서관의 베스트셀러는 소설가 한강의 책이었다. 서울도서관 관계자는 “소설 ‘소년이 온다’나 ‘채식주의자’는 책장에 꽂혀있는 모습을 본 적이 거의 없었다”고 했다. 강철원 사육사의 ‘나는 행복한 푸바오 할부지입니다’ 같은 에세이도 인기라고 한다.&lt;br&gt;&lt;br&gt;부산시는 지난달 24일부터 부산진구 부산시민공원에 ‘잔디밭 도서관’을 열고 있다. 부산시 관계자는 “작년 5월 처음 야외 도서관을 열었는데, 잔디밭에 누워 책을 보는 시민이 한 달간 5만명이 넘었다”며 “인기가 너무 좋아 올해도 열게 됐다”고 했다. 전북 익산시는 9월 배산공원 편백숲에 ‘숲 도서관’을 연다. 나무 사이에 달린 해먹에 누워 독서 삼매경에 빠질 수 있다. 울산의 태화강 국가정원도 9월 야외 도서관으로 변신한다. 대나무 생태원 주변에 책 3000여 권과 그늘막, 캠핑 의자를 두고 시민들을 맞이할 계획이다.&lt;br&gt;&lt;br&gt;야외 도서관을 돌며 독서 경험을 공유하는 이른바 ‘노마드 리딩(독서 유랑)’ 트렌드도 생겨났다. 서울시는 지난달 야외 독서 모임인 ‘힙독클럽’을 만들었는데, 순식간에 회원 1만명이 찼다. 이 중 60명은 지난 9일 종로구 운현궁에 모여 다 같이 책을 읽었다. 힙독클럽 회원들은 앞으로 동작구 보라매공원, 대전 장태산 자연 휴양림 등을 돌며 책을 읽을 예정이다. 오지은 서울도서관장은 “평소 상상도 못 했던 고궁, 국립공원 등도 언제든 야외 도서관이 될 수 있다”며 “야외 도서관 문화가 새로운 독서 트렌드로 자리 잡을 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>서정숙·최하나·홍인철 교사 ‘제1회 꿈장학 교육상’ 수상</title>
-      <link>https://www.chosun.com/national/education/2025/05/30/PZOXINFXBJG6RJ7DLKYIYHJU5Y/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2025/05/30/PZOXINFXBJG6RJ7DLKYIYHJU5Y/</guid>
-      <dc:creator>최인준 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 29 May 2025 15:51:00 +0000</pubDate>
-      <content:encoded>삼성꿈장학재단은 29일 서울대 호암교수회관에서 ‘제1회 꿈장학 교육상’ 시상식을 열고 저소득층 아동·청소년들의 멘토 역할을 해온 교사 서정숙(대전고등학교)·최하나(하동중앙중학교)·홍인철(경북공업고등학교)씨에게 교육부 장관상을 수여했다. 상금은 1000만원씩이다. 재단은 이날 올해 선발된 장학생 150명에게도 장학증서를 수여했다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>남성도 부담 없이 육아 휴직… 자유로운 사내 소통 덕이죠</title>
@@ -966,15 +972,6 @@
       <description/>
       <pubDate>Thu, 29 May 2025 09:31:04 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/L4GEXC5HOZAC5NA5TDDI7RQ23U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;21대 대통령선거 사전투표 첫날인 29일 대형 성조기를 몸에 두르고 사전투표를 참관하던 40대 여성이 경찰에 체포됐다. &lt;br&gt;&lt;br&gt;인천 서부경찰서는 공직선거법 위반 혐의로 40대 여성 A씨를 붙잡아 조사하고 있다고 밝혔다. &lt;br&gt;&lt;br&gt;A씨는 이날 오전 8시 34분쯤 인천시 서구 가좌동의 한 사전투표소에서 대형 성조기를 몸에 두르고 사전투표를 참관한 혐의를 받고 있다. &lt;br&gt;&lt;br&gt;A씨는 극우 성향 단체 간부로, 사회관계망서비스(SNS)에 중국 대선 개입설을 주장하며 성조기를 두르고 사전투표 참관을 하자고 제안한 것으로 알려졌다. &lt;br&gt;&lt;br&gt;공직선거법은 누구든지 선거일에 완장‧흉장 등을 착용하는 방법으로 선거에 영향을 미칠 우려가 있는 표지를 할 수 없다고 규정하고 있다. &lt;br&gt;&lt;br&gt;“퇴거 명령에 불응하는 참관인이 있다”는 인천 서구선거관리위원회의 신고를 받고 출동한 경찰은 A씨를 현행범으로 체포했다.&lt;br&gt;&lt;br&gt;경찰은 A씨를 상대로 구체적인 사건 경위를 조사할 방침이다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>국수본 前간부 “합수본 명단과 체포조 지원 요청, 조지호 청장 지시로 들어”</title>
-      <link>https://www.chosun.com/national/court_law/2025/05/29/4PSTR3UVK5DCFF34ILNLJQLJSY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/05/29/4PSTR3UVK5DCFF34ILNLJQLJSY/</guid>
-      <dc:creator>김나영 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 29 May 2025 09:20:12 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WDTDWNMXT4N7PEBXT4HQWGX3JM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;'12·3 비상계엄' 사태 관련 내란중요임무종사 등 혐의로 기소된 조지호 전 경찰청장이 16일 오전 서울 서초구 서울중앙지방법원에서 열린 공판에 출석하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰청 국가수사본부 관계자가 “12·3 비상계엄 당일 국군 방첩사령부로부터 받은 체포조 지원 요청을 조지호 경찰청장에게 보고했다”라고 법정에서 증언했다.&lt;br&gt;&lt;br&gt;29일 서울중앙지법 형사25부(재판장 지귀연)는 내란 중요임무 종사 혐의를 받는 조지호 경찰청장과 김봉식 전 서울경찰청장, 윤승영 전 국수본 수사기획조정관, 목현태 전 국회경비대장 등 경찰 지휘부에 대한 재판을 열었다. 윤 전 조정관을 제외한 피고인들은 전부 법정에 출석하지 않았다.&lt;br&gt;&lt;br&gt;이날은 전창훈 전 국수본 수사기획담당관에 대한 증인 신문이 종일 이어졌다. 전 전 담당관은 국군방첩사령부의 체포조 지원 요청에 따라 경찰 명단을 건넨 것으로 조사된 인물이다. 또 계엄 이후에는 12·3 비상계엄 당일 국수본과 방첩사 간 오갔던 통화 목록과 내용을 담은 타임테이블 문건을 직접 작성해 국회 행정안전위원회에 제출한 것으로도 알려졌다.&lt;br&gt;&lt;br&gt;전 전 담당관은 “윤 전 조정관을 통해 조 청장이 합수본에 파견할 수사관 100명의 명단을 준비하고, 방첩사를 지원할 형사 5명을 영등포경찰서에서 사복 차림으로 보내라는 말을 들었다”라고 증언했다. 윤 전 조정관 측 변호인이 “증인은 계엄 당시 상황이 부담스러워서 윤 전 조정관이 지시했다고 (책임을 돌리듯) 하는 것 아니냐”라고 묻자, “아무리 그래도 없는 말을 지어서 진술하는 건...”이라며 부정하는 취지로 답하기도 했다.&lt;br&gt;&lt;br&gt;검찰 측이 국수본이 언론 등에 일부로 ‘체포’가 아닌 ‘안내’라고 표현한 것이 왜곡한 것이 아니냐고 묻자 “방첩사를 안내하고 지원하는 목적이라고 해서 안내라는 용어를 쓴 것”이라며 “만약 이재명 한동훈 이야기가 나왔으면 메신저나 보고서에 뭐라도 흔적이 나와야 하는데, 아무런 흔적이 없지 않냐”라며 부인하기도 했다. &lt;br&gt;&lt;br&gt;다음 기일은 내달 5일로, 이날은 신동걸 방첩사 소령과 김대우 방첩사 수사단장에 대한 증인 신문이 예정돼 있다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>바디로션 통에 필로폰 27.5kg 밀반입…국제 마약조직 일망타진</title>
