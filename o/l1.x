@@ -6,6 +6,15 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>【오늘의 국회일정】 2025년 5월 31일</title>
+			<description>&lt;b&gt;◇소통관 기자회견&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;13:20 김현 의원, [더불어민주당 팩트체크넷 민주파출소 일일 브리핑]&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;b&gt;&lt;span style="font-size: 14px;"&gt;※ 상기 일정은 사정에 따라 변경될 수 있습니다.&lt;/span&gt;&lt;/b&gt;</description>
+			<pubDate>Fri, 30 May 2025 22:39:57 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/208492</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/208492</guid>
+			<dc:creator>인터넷 기자</dc:creator>
+		</item>
+		<item>
 			<title>[단독] 이기택 전 대법관, 태평양 합류</title>
 			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/208495.jpg" alt="34534638.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;이기택 전 대법관&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;br /&gt;&lt;p&gt;&lt;span class="lawmanlink" serial="8732" style="font-weight: bold;"&gt;이기택&lt;/span&gt;(66·사법연수원 14기) 전 대법관이 6월 초부터 &lt;b&gt;&lt;a href="https://www.bkl.co.kr/law?lang=ko" target="_blank"&gt;법무법인 태평양&lt;/a&gt;&lt;/b&gt;에 합류한다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;법률신문 취재에 따르면 이 전 대법관은 6월 9일부터 태평양에 합류하는 것으로 파악됐다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;서울 경성고와 서울대 법대를 졸업한 이 전 대법관은 1981년 제23회 사법시험에 합격해 사법연수원과 군법무관 복무를 거쳐 1985년 서울민사지법 판사로 임관했다. 이후 법원행정처 사법정책연구심의관, 대법원 재판연구관, 특허법원 부장판사, 서울고법 부장판사, 서울서부지방법원장 등을 지냈으며 2015년 대법관으로 임명돼 2021년 퇴임하기까지 36년간 법관으로 근무했다. 대법관으로 퇴임한 이후에는 서강대 로스쿨 석좌교수를 지내며 민사실무 강의를 담당했다.&lt;/p&gt;</description>
 			<pubDate>Fri, 30 May 2025 21:33:19 -0000</pubDate>
@@ -231,16 +240,6 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/208458</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/208458.jpg</media:thumbnail>
 			<dc:creator>조한주 기자</dc:creator>
-		</item>
-		<item>
-			<title>태평양·EY 인디아, '인도 진출 전략 세미나' 개최</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/208454.jpg" alt="208454.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;패널토론에서 발언하고 있는 박종백 태평양 인도TF 팀장. 《사진=법무법인 태평양》&lt;/figcaption&gt;   &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;b&gt;&lt;a href="https://www.bkl.co.kr/law?lang=ko" target="_blank"&gt;법무법인 태평양&lt;/a&gt;&lt;/b&gt;(대표변호사&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="8313"&gt;이준기&lt;/span&gt;)은 28일 EY 인디아(India)와 서울 종로구 공평동 태평양 25층 세미나실에서 '성공적인 인도 진출 전략' 세미나를 개최했다.&lt;br /&gt;&lt;br /&gt;세미나는 인도 진출을 계획하고 있는 기업들에게 진출지역 선정, 법인 설립, 현지 파트너 발굴, 인사·노무 리스크 등 법률 및 회계 이슈에 대한 인사이트를 제공하기 위해 마련했다.&lt;br /&gt;&lt;br /&gt;첫 번째 세션에서는 EY 인디아의 최강만·권용우 이사가 인도법인 설립방법과 업무 시 유의해야 할 문화적인 차이점에 대해 발표했다. 기업이 현지 진출을 위해 지역을 설정할 때 겪는 문제와 법인 형태 설정 시 고려해야 할 사항과 현황 등을 상세히 다뤘다. 이어 인센티브를 고려해 기업의 수익을 극대화하는 법인 설립구조에 대한 분석을 제공했다.&lt;br /&gt;&lt;br /&gt;두 번째 세션은 태평양의 인도 TF팀의 발표로 진행됐다. 살탁 말호트라 외국변호사는 '인도의 소송 및 분쟁해결 체계'를 주제로 인도에서 분쟁을 해결할 수 있는 다양한 방안과 분쟁을 조기에 해결할 수 있는 수단에 대해 설명했다.&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="13285"&gt;한창완&lt;/span&gt;(45·사법연수원 35기) 변호사는 원산지 규정 및 인증을 중점으로 통관 시 주의해야 할 사항을 발표하며, 통상협정을 활용한 전략의 필요성을 강조했다.&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="28958"&gt;손가람&lt;/span&gt;(42·45기) 변호사는 인사노무에 관한 주요 쟁점과 최근 현지에서 문제되고 있는 임금, 수당, 휴가, 파업 등 다양한 실무 사례를 바탕으로 노무 리스크 관리를 위한 조언을 제공했다.&lt;br /&gt;&lt;br /&gt;마지막 세션에서는&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="538"&gt;박종백&lt;/span&gt;(64·18기) 변호사의 진행으로, 패널 토론과 질의응답이 이어졌다. 패널 토론에서는 발표자들이 인도 시장의 주요 이슈에 대한 다양한 인사이트를 공유했으며, 이어진 질의응답 시간에는 기업 실무자들이 인도 진출과 관련해 겪고 있는 애로사항과 이에 대한 해결 방안에 관한 질문이 이어졌다. &lt;br /&gt;&lt;br /&gt;세미나에는 국내외 주요 기업 관계자 약 140여 명이 참석했다.&lt;br /&gt;</description>
-			<pubDate>Fri, 30 May 2025 05:24:15 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/208454</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/208454</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/208454.jpg</media:thumbnail>
-			<dc:creator>서하연 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
