@@ -13,6 +13,60 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>‘남편 신분증으로 대리 투표’ 선거사무원, 1일 구속 심사</title>
+      <link>https://www.chosun.com/national/court_law/2025/05/31/GLZ6JP4EWZGKFFNLIS6ATALHVY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/05/31/GLZ6JP4EWZGKFFNLIS6ATALHVY/</guid>
+      <dc:creator>김은경 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 31 May 2025 06:21:49 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZOHEZZ6W3MYW6WXCXGKUO4YXZE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;제21대 대통령 사전투표 첫날인 지난 29일 광주 동구 서남동 사전투표소에서 선거사무원이 유권자에게 투표 용지를 건네고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대통령 선거 사전투표소에서 남편 신분증으로 대리 투표한 선거사무원에 대한 구속 여부가 이르면 오는 1일 결정된다.&lt;br&gt;&lt;br&gt;서울중앙지법은 1일 오후 2시 당직법관인 염혜수 판사 심리로 공직선거법 위반 혐의를 받는 A씨의 구속영장 실질심사를 연다고 31일 밝혔다. &lt;br&gt;&lt;br&gt;A씨는 사전투표 첫날인 29일 정오쯤 서울 강남구 대치2동 소재 사전투표소에서 남편 신분증으로 투표용지를 발급해 대리 투표를 한 뒤, 오후 5시쯤 다시 자신의 신분증으로 투표를 하려다 적발됐다. &lt;br&gt;&lt;br&gt;경찰은 “투표를 두 번 한 사람이 있다”는 황교안 무소속 후보 측 참관인의 신고를 받고 출동해 박씨를 긴급체포해 수사 중이다. &lt;br&gt;&lt;br&gt;A씨는 강남구 보건소 소속 공무원으로, 29~30일 이틀간 선거사무원으로 위촉돼 유권자의 신원을 확인하고 투표용지를 발급하는 업무를 맡은 것으로 조사됐다. 강남구는 A씨를 직위 해제했다. &lt;br&gt;&lt;br&gt;현행 공직선거법상 성명을 사칭하거나 신분증을 위·변조하는 등 방법으로 투표한 사람은 5년 이하의 징역 또는 1000만원 이하의 벌금에 처해진다. 특히 선거사무에 관계된 공무원인 경우 7년 이하의 징역에 처할 수 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>김제 벽돌 공장 슬레이트 지붕 철거하던 60대 추락해 숨져</title>
+      <link>https://www.chosun.com/national/regional/2025/05/31/OUBSJEI7XJAGJHZLJ3R2KMWIRM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/05/31/OUBSJEI7XJAGJHZLJ3R2KMWIRM/</guid>
+      <dc:creator>김주영 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 31 May 2025 07:27:02 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NXMA2X6CIMMKXQHYTC3F3TRJXI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고./뉴스1 2016.3.22/뉴스1 ⓒ News1 신채린 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;31일 오전 8시 16분쯤 전북 김제시 황산면 한 적벽돌 생산공장에서 슬레이트 지붕을 철거하던 60대 A씨가 6m 아래로 추락했다.&lt;br&gt;&lt;br&gt;A씨는 양팔 등이 골절된 채 심정지 상태로 병원으로 옮겨졌으나 숨졌다.&lt;br&gt;&lt;br&gt;A씨는 지붕 철거 작업을 위해 타 업체에서 파견된 일용직이었던 것으로 전해졌다.&lt;br&gt;&lt;br&gt;경찰은 공장 관계자 등을 상대로 정확한 사고 경위를 조사중이다. &lt;br&gt;&lt;br&gt;또 이 파견 업체는 상시근로자가 5인 이상인 업체로 확인돼 경찰은 중대재해 처벌 등에 관한 법률 적용 여부도 검토하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[단독] ‘5호선 방화’ 열차 CCTV, 관제센터로는 실시간 공유 안 됐다</title>
+      <link>https://www.chosun.com/national/national_general/2025/05/31/DNKRRJL2ARGCVPGEXCCFQ6Y6LE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/05/31/DNKRRJL2ARGCVPGEXCCFQ6Y6LE/</guid>
+      <dc:creator>구동완 기자, 김도연 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 31 May 2025 07:13:09 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EIS3EDAU7ZIXJM6S4N24XYKDJE.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;31일 오전 방화로 추정되는 화재가 발생한 서울 지하철 5호선 마포역 앞에서 소방대원들이 대기하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;31일 오전 승객 400여명이 탑승한 서울 지하철 5호선에서 방화로 인한 화재가 발생한 가운데, 열차 내 폐쇄회로(CC)TV는 역무실, 도시철도 상황실 등 컨트롤타워로 공유되지 않는 것으로 나타났다.&lt;br&gt;&lt;br&gt;양부남 더불어민주당 의원실에 따르면 이날 화재가 발생한 5호선 지하철에서 화재 당시 상황이 담긴 CCTV는 관제센터로 실시간 전송되지 않은 것으로 나타났다. 역무실 또는 도시철도 상황실 등에서 열차 내 상황을 실시간으로 모니터링할 수 없었다는 것이다.&lt;br&gt;&lt;br&gt;CCTV 영상을 확보하는 것 또한 구조 상 열차가 차량 기지에 도착해야 가능한 것으로 파악됐다.&lt;br&gt;&lt;br&gt;CCTV를 실시간으로 볼 수 있는 곳은 기관사가 있는 운전실뿐이지만 차량 운행에 몰두해야 하는 기관사가 CCTV까지 살피는 것은 사실상 어려운 실정이다.&lt;br&gt;&lt;br&gt;양부남 의원은 “지하철 객실 안에서 묻지마 범죄가 벌어져도 관제센터는 실시간으로 볼 수 없는 상황이 문제”라면서 “국민이 안심하고 지하철을 이용할 수 있도록, 사각지대를 해소할 노력이 필요하다”고 했다.&lt;br&gt;&lt;br&gt;한편 이날 오전 여의나루역에서 마포역으로 향하던 5호선 지하철에서는 60대 남성의 방화로 인해 화재가 발생해 400여명의 승객이 대피했다. 이중 21명은 경상을 입고 병원으로 이송됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>구미 아시아육상대회 참가 이란 선수·코치 등 3명, 한국인 성폭행 혐의 체포</title>
+      <link>https://www.chosun.com/national/regional/2025/05/31/2ZSKO5IRZ5G3JD6HNYTXOBAFX4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/05/31/2ZSKO5IRZ5G3JD6HNYTXOBAFX4/</guid>
+      <dc:creator>김주영 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 31 May 2025 06:59:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NXMA2X6CIMMKXQHYTC3F3TRJXI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2025 아시아육상경기선수권대회에 참가한 이란 국적 육상선수 2명과 코치 1명이 한국인 여성을 성폭행한 혐의로 체포됐다.&lt;br&gt;&lt;br&gt;31일 경북경찰청에 따르면 30대인 이들은 이날 오전 7시쯤 대회 선수촌이 있는 경북 구미시에서 만난 20대 한국인 여성 A씨를 한 호텔로 데리고 가 성폭행한 혐의다.&lt;br&gt;&lt;br&gt;이들은 구미 한 술집에서 만난 A씨를 호텔로 데려가 범행한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰은 A씨 신고로 이들을 현행범으로 붙잡아 자세한 사건 경위를 조사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“서울대 학력 부끄러운 적 처음”…배우 김혜은이 삭제한 글엔</title>
+      <link>https://www.chosun.com/national/national_general/2025/05/31/ZCGPO5Y36FAGXEZPTUQYUAU73I/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/05/31/ZCGPO5Y36FAGXEZPTUQYUAU73I/</guid>
+      <dc:creator>김자아 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 31 May 2025 06:37:30 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7LK4WQK6YVGI3KRUOREDNUAWR4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;배우 김혜은./인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울대 출신 배우 김혜은이 김문수 국민의힘 대통령 후보의 아내 설난영씨를 응원하는 글을 소셜미디어(SNS)에 올렸다가 삭제했다. &lt;br&gt;&lt;br&gt;김혜은은 31일 인스타그램에 “어제오늘처럼 서울대 나온 학력이 부끄러운 적이 없었던 것 같다. 제가 대신 죄송하단 말씀 전하고 싶다”며 글을 올렸다.&lt;br&gt;&lt;br&gt;그는 “인간의 학력과 지성은 고단한 인생의 성실함으로 삶의 증거로 말하는 분들 앞에서 한 장의 습자지와도 같은 아무것도 아닌 가치 없는 자랑”이라며 “누구의 인생을 함부로 판단하고 비하하는 혀를 가진 자라면 그는 가장 부끄러운 혀를 가진 자”라고 했다.&lt;br&gt;&lt;br&gt;이어 “여자로서 한 남자의 꿈을 위해 평생을 뒷바라지하며 생계를 책임지고, 그러면서 여성 노동운동가로 공의를 위해 몸을 던지려 노력하며 살아오신 설난영 여사와 같은 우리 어머니들을 저는 존경한다. 저는 그리 살지 못했을 것 같아 더 존경한다”고 했다.&lt;br&gt;&lt;br&gt;또 그는 “남편 위해, 자식 위해 생계를 도맡으며 법카 사고 한번 없이 남편 뒤에서 묵묵히 자리를 지켜오신 설난영 여사님”이라며 “내 삶의 원동력이 되는 진짜 롤모델”이라고 했다.&lt;br&gt;&lt;br&gt;끝으로 김혜은은 “고학력자 아니고, 서울대 나왔다며 고졸 비하하는 교만하고 계급의식 절어 사는 썩은 지성인 아니다”라며 “이 시대를 사는 여성으로서 저렴한 모진 말에 정말 가슴 아픈 오늘”이라고 했다. 다만 이 글은 현재 삭제된 상태다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/63ROZME4VJBRHFROZF2IZY6QHQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;유시민 전 노무현재단 이사장이 지난 28일 유튜브 '김어준의 다스뵈이다'에 출연해 김문수 국민의힘 대선 후보의 아내 설난영씨에 관해 이야기하고 있다. /유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김혜은의 이 글은 서울대 경제학과 출신인 유시민 전 노무현재단 이사장의 여성·노동자·학력 비하 논란을 겨냥한 것으로 해석됐다. 김혜은은 서울대 성악과 출신이다. &lt;br&gt;&lt;br&gt;앞서 유 전 이사장은 지난 28일 공개된 유튜브 방송 ‘김어준의 다스뵈이다’에 출연해 “유력한 정당의 대통령 후보 배우자라는 자리가 설난영씨 인생에선 거의 갈 수 없는 자리”라며 “그래서 이 사람이 지금 발이 공중에 떠 있다. 한마디로 제정신이 아니다 그런 뜻”이라고 말했다.&lt;br&gt;&lt;br&gt;그는 “김문수씨는 설난영씨가 생각하기에 나하고는 균형이 안 맞을 정도로 대단한 사람”이라면서 “그런 남자와의 혼인을 통해 내가 좀 더 고양됐다고 느낄 수 있다. 험하게 살다가 국회의원 사모님이 됐죠. 남편을 더욱 우러러보겠죠”라고 주장하기도 했다.&lt;br&gt;&lt;br&gt;이 발언을 두고 좌우 진영을 가리지 않고 비판이 쏟아지자 유 전 이사장은 “표현이 거칠었던 건 제 잘못”이라며 “좀 더 점잖고 정확한 표현을 썼더라면 비난을 그렇게 많이 받진 않았을 거라 생각한다”고 해명했다.&lt;br&gt;&lt;br&gt;김문수 후보는 페이스북을 통해 아내에 대한 글을 올려 “위대한 사랑과 헌신으로 저와 가족을 지킨 훌륭한 사람”이라며 “인생에서 갈 수 있는 자리가 따로 있고 갈 수 없는 자리가 따로 있나. 저는 그렇게 생각하지 않는다”고 했다. &lt;br&gt;&lt;br&gt;또 김 후보는 이날 유세에 ‘제 아내가 자랑스럽습니다’라는 문구가 적힌 티셔츠를 입고 나오는가 하면, 유 전 이사장을 겨냥한 듯 “어떤 사람이 하는 소리가, 제 아내가 대학 안 나왔다고 (뭐라고 한다)”며 “사람의 지혜는 꼭 학벌 높다고 생기는 게 아니다”라고 말하기도 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MQ2V5CB3S43AFYXKCPXJT4BRDA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김문수 국민의힘 대통령 후보가 30일 강원 원주 문화의거리에서 유세하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>에스컬레이터 앞에서 음란행위한 30대…시민 신고로 검거</title>
+      <link>https://www.chosun.com/national/regional/2025/05/31/HUXDOQ6NAFHODNNM4DOQEF7B4Q/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/05/31/HUXDOQ6NAFHODNNM4DOQEF7B4Q/</guid>
+      <dc:creator>울산=김주영 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 31 May 2025 05:47:43 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NXMA2X6CIMMKXQHYTC3F3TRJXI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;에스컬레이터 앞에서 음란행위를 하던 30대 남성이 시민 신고로 경찰에 붙잡힌 사실이 뒤늦게 알려졌다.&lt;br&gt;&lt;br&gt;경기 고양경찰서는 공연음란 혐의로 A씨를 불구속 송치했다고 31일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난달 15일 오후 7시쯤 고양시 덕양구 삼송역 에스컬레이터 앞에서 바지 지퍼를 내리고 약 30분간 음란행위를 한 혐의를 받는다.&lt;br&gt;&lt;br&gt;당시 에스컬레이터를 타고 올라오던 시민이 이를 목격하고 112에 신고했다.&lt;br&gt;&lt;br&gt;출동한 경찰은 건물 안으로 도주하는 A씨를 발견하고 추격한 끝에 현행범 체포했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>경찰, ‘남편 명의 대리투표’ 선거사무원 구속영장 신청</title>
       <link>https://www.chosun.com/national/national_general/2025/05/31/F237LSPKBNGKZNO2BTLOEQAHBA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/05/31/F237LSPKBNGKZNO2BTLOEQAHBA/</guid>
@@ -911,51 +965,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FCH56SH4KRDRDM3GEHRZEE6AKQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>검찰 ‘尹 비화폰’ 자료 확보 시도…“경호처와 협의 중”</title>
-      <link>https://www.chosun.com/national/court_law/2025/05/29/G2WQ7RI3KRHEFPOV6V7ZN6CR5A/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/05/29/G2WQ7RI3KRHEFPOV6V7ZN6CR5A/</guid>
-      <dc:creator>박강현 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 29 May 2025 12:43:22 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TTSHRVL54FJAZDHPXAUGFMKR2Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;검찰 관련 이미지. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘12·3 비상계엄’ 사태를 수사하는 검찰이 윤석열 전 대통령이 사용한 ‘비화폰(보안 휴대전화)’ 서버 기록 등 사건 관련 자료를 확보하기 위해 대통령경호처(경호처)와 협의 중인 것으로 전해졌다.&lt;br&gt;&lt;br&gt;29일 법조계에 따르면 검찰 비상계엄 특별수사본부(본부장 박세현 서울고검장)는 비화본 서버 기록, 실물 등 자료 임의제출 여부를 두고 경호처와 협의 중이다. 검찰은 아직 이 같은 자료들을 받지는 못한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;윤 전 대통령은 계엄 당일 비화폰으로 곽종근 전 특수전사령관, 이진우 전 수도방위사령관 등 현장 사령관들에게 전화해 지시를 내린 것으로 알려졌다. 하지만 비화폰은 일반 휴대전화와 달리 통신사에 통화 기록이 남지 않고, 통화 녹음도 불가능하다. &lt;br&gt;&lt;br&gt;검찰은 향후 재판 과정에서 윤 전 대통령의 혐의 입증을 위해 관련 자료가 필요하다고 보고 있다. 윤 전 대통령 등 비상계엄 사태 주요 관련자들의 비화폰 통화 기록을 확인해 당시 상황을 파악해야 한다는 것이다.&lt;br&gt;&lt;br&gt;이에 따라 검찰은 지난 23일 윤 전 대통령의 내란 혐의 사건을 담당하는 재판부인 서울중앙지법 형사25부(재판장 지귀연)에 사건 관계자들의 비화폰 서버에 대한 압수 수색 영장 발부 필요성을 촉구하는 취지의 의견서를 제출하기도 했다. &lt;br&gt;&lt;br&gt;통상 수사가 진행 중일 때 검찰은 법원에 압수 수색 영장을 청구한 뒤, 이를 발부 받아 집행한다. 다만 이미 기소된 사건에 대해서는 검사가 압수 수색 영장을 청구할 수 없기 때문에 검찰이 재판부에 영장 발부를 요청한 것으로 파악됐다. &lt;br&gt;&lt;br&gt;향후 검찰이 비화폰 기록 등을 확보하면 비상계엄을 둘러싼 정황들이 보다 구체화될 수 있을 것으로 전망된다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>하이브 압수수색... ‘방시혁 4000억’·직원 부정거래 동시 수사</title>
-      <link>https://www.chosun.com/national/national_general/2025/05/29/63GMDKSTKVEKVKYME5K42ATEMQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/05/29/63GMDKSTKVEKVKYME5K42ATEMQ/</guid>
-      <dc:creator>고유찬 기자, 구동완 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 29 May 2025 12:03:18 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JLPPUFCDX7CH6LNPSGLREH2PUM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 용산구 하이브 사옥 앞으로 시민이 지나가고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰과 경찰이 엔터테인먼트 기업 하이브에 대해 동시에 수사에 착수했다. 검찰은 미공개 정보를 이용해 수억원대 이득을 챙긴 혐의를 받는 하이브 직원을 수사하는 과정에서 하이브 본사를 압수수색했으며, 경찰은 방시혁 하이브 의장의 사기적 부정거래 의혹과 관련해 별도로 압수수색 영장을 신청했다.&lt;br&gt;&lt;br&gt;29일 법조계에 따르면 서울남부지검은 자본시장법 위반 혐의로 하이브 직원 A씨를 수사 중이며, 지난 27일 서울 용산구에 위치한 하이브 본사를 압수수색했다. A씨는 지난 2021년 1월, 당시 빅히트엔터테인먼트였던 하이브가 YG플러스에 투자할 예정이라는 미공개 정보를 사전에 입수하고 해당 주식을 사들여 약 2억4000만원의 부당이득을 챙긴 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;경찰도 하이브를 둘러싼 별도의 의혹을 수사 중이다. 서울경찰청 금융범죄수사대는 전날 서울남부지검 증권범죄합동수사단에 하이브 본사에 대한 압수수색 영장을 신청했다. 경찰은 방시혁 하이브 의장이 2019년 말 투자자들에게 기업공개(IPO) 계획이 없다고 말한 뒤, 실제로는 상장을 추진하고 자신이 보유한 지분을 지인이 설립한 사모펀드(PEF)에 매각한 정황을 포착했다.&lt;br&gt;&lt;br&gt;방 의장은 해당 PEF와 지분 매각 차익의 30%를 공유하는 계약을 맺은 것으로 알려졌으며, 이 계약은 증권신고서에 명시되지 않았다. 이후 하이브가 상장하며 방 의장은 약 4000억원을 정산받은 것으로 전해졌다.&lt;br&gt;&lt;br&gt;금융감독원도 방 의장의 사기적 부정거래 혐의와 관련한 정황을 확인하고, 조만간 해당 사건을 검찰에 수사 의뢰할 방침인 것으로 알려졌다. 자본시장법상 위반 행위로 얻은 이익이 50억원 이상일 경우 무기징역 또는 5년 이상의 징역에 처할 수 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>檢, 강제추행·뇌물수수 혐의 김진하 양양군수에 징역 6년 구형</title>
-      <link>https://www.chosun.com/national/regional/gangwon/2025/05/29/CN6KTFL3QVFJVHAPTCVWA5G2AQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/gangwon/2025/05/29/CN6KTFL3QVFJVHAPTCVWA5G2AQ/</guid>
-      <dc:creator>김석모 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 29 May 2025 10:49:32 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UGTLB3XEPTRPSKAFSSJQAXIPWA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;여성 민원인에게 금품을 받고 강제추행한 혐의를 받는 김진하 양양군수. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;여성 민원인으로부터 금품을 받고 강제추행한 혐의를 받는 김진하 강원 양양군수에게 검찰이 징역 6년을 구형했다.&lt;br&gt;&lt;br&gt;29일 춘천지법 속초지원 형사부(지원장 김종헌) 심리로 열린 김 군수의 부정 청탁 및 금품 등 수수의 금지에 관한 법률 위반과 뇌물수수, 강제추행 혐의 사건 결심공판에서 검찰은 징역 6년과 벌금 4000만원을 내려달라고 법원에 요청했다.&lt;br&gt;&lt;br&gt;검찰은 “3선 지방자치단체장인 피고인이 군수의 책임과 소임을 다하지 않은 채 민원인 A씨로부터 장기간에 걸쳐 현금 및 고가의 안마 의자를 받았다”면서 “A씨를 추행하고 나아가 그녀로부터 성관계를 통한 성적 이익까지 받은 초유의 사안”이라고 구형 이유를 밝혔다.&lt;br&gt;&lt;br&gt;검찰은 이어 “피고인은 군수실과 A씨의 영업장에서 현금으로 뇌물을 주고받고, A씨와 성관계를 통해 법과 원칙에 따라 공정하고 투명하게 처리돼야 할 행정 업무의 중요성과 가치를 스스로 짓밟았다”면서 “그런데도 피고인은 범행을 전부 부인하면서 전혀 반성하지 않고 있고, 수사기관과 구속적부심에서 일부 자백했던 범행도 ‘석방을 위해 허위 자백한 것’이라며 범행을 부인하는 등 범행 후 정황도 좋지 않다”고 했다.&lt;br&gt;&lt;br&gt;김 군수는 이날 최후 진술을 통해 “10년간 양양군수로 봉사할 수 있도록 지지해주신 군민 여러분께 죄송하다”면서 “A씨에게 유혹되어 불미스러운 일이 발생했지만, 공적으로는 모든 일을 적법한 절차를 거쳐 처리했고, 그 어떤 대가도 받지 않았다”고 했다. 김 군수는 재판 과정에서 자신을 둘러싼 혐의를 줄곧 부인해왔다. 이날도 A씨와는 “내연관계였다”고 밝히며 성관계에 강제성이 없었다고 주장했다.&lt;br&gt;&lt;br&gt;검찰은 이날 김 군수와 함께 뇌물공여와 성폭력범죄의 처벌 등에 관한 특례법상 촬영물 등 이용 협박 등 혐의를 받는 A씨에게는 징역 4년을 구형했다. A씨와 공모해 김 군수를 협박한 혐의(성폭력범죄의 처벌 등에 관한 특례법상 촬영물 등 이용 협박)를 받는 박봉균 양양군의원에게는 징역 3년을 구형했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>세무 조사 무마 대가로 수천만원 챙긴 전현직 세무공무원들...1심서 징역형</title>
-      <link>https://www.chosun.com/national/court_law/2025/05/29/FSJLP4YBTRGLPBWSMO732BSIMY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/05/29/FSJLP4YBTRGLPBWSMO732BSIMY/</guid>
-      <dc:creator>김은경 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 29 May 2025 10:53:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/R2UIR6TKP32K22HQNRNQ4JHIEI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 법원종합청사 /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;세무 조사를 유리하게 해주는 명목으로 의약품 판매업체로부터 수천만원의 현금을 받아 챙긴 전·현직 세무공무원들이 1심에서 실형을 선고받았다. 뇌물을 건넨 업체 대표에게는 징역형 집행유예가 선고됐다.&lt;br&gt;&lt;br&gt;서울중앙지법 형사23부(재판장 오세용)는 29일 알선수재 혐의로 기소된 지방국세청 공무원 조모씨에게 징역 2년 6개월을 선고하고 9000만원의 추징을 명령했다. 이밖에 국세청 내 과세사실판단 자문위원회 구성을 업체에 유리하게 해주거나 내부 정보를 전달해주는 등의 명목으로 500만~5400만원을 받은 전·현직 세무공무원 3명에겐 징역 6개월에 집행유예 1년~징역 1년이 선고됐다. &lt;br&gt;&lt;br&gt;재판부는 “고도의 청렴성이 요구되는 세무공무원으로서 뇌물수수나 알선수재 등 중대 범죄를 저질렀다”며 “사회적 책임에 상응하는 엄중한 처벌이 불가피하다”고 했다.&lt;br&gt;&lt;br&gt;이들에게 뇌물·알선 청탁으로 현금을 건넨 중견 의약품 판매업체 대표 최모씨와 업체의 세무대리인으로서 공여에 가담한 공인회계사 임모씨는 각각 징역 6개월에 집행유예 1년을 받았다. 재판부는 업체 대표 최씨에 대해 “불법 비자금을 활용해 범행을 했고 공여 금액이 적지 않다”고 했다.&lt;br&gt;&lt;br&gt;앞서 최씨 등은 2014년부터 지난해까지 10년에 걸쳐 225억원의 불법 비자금을 조성한 혐의로 기소됐다. 검찰 조사에 따르면 하위 판매대행업체들과 공모해 실제 거래가 없었는데도 거래를 한 척 대금을 지불한 뒤 수수료를 제외한 현금을 돌려받는 수법을 썼다.&lt;br&gt;&lt;br&gt;이 과정에서 세무 조사를 무마하려고 공무원들에게 현금을 공여했고, 공무원들은 돈을 받고 세무 조사에 관해 자문해주거나 조잡한 수준의 소명 자료를 받고도 추가로 보완을 요구하지 않는 등 조사가 원만하게 종결되도록 관여한 것으로 파악됐다. 심지어 적극적으로 뇌물을 요구하기도 한 것으로 조사됐다. 재판부는 “뇌물 수수와 알선 수죄 등으로 세무 조사의 공정성과 이에 대한 사회의 신뢰를 크게 저해했다”고 지적했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘김기현 사퇴’ 관련 방통위 MBC 라디오 징계에..법원 “징계 취소해라”</title>
-      <link>https://www.chosun.com/national/court_law/2025/05/29/SHNUGLLF3JBP7FGHANRNNJNABY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/05/29/SHNUGLLF3JBP7FGHANRNNJNABY/</guid>
-      <dc:creator>김나영 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 29 May 2025 10:07:08 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GP3WPSBEUVTLOHJY7WQ3C6WLGQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;방송통신심의위원회의 현판./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;방송통신위원회가 2023년 말 김기현 당시 국민의힘 대표의 사퇴 관련 방송을 문제 삼아 MBC 라디오 방송에 내렸던 징계 처분을 취소하라는 법원 판단이 나왔다.&lt;br&gt;&lt;br&gt;서울행정법원 행정7부(재판장 이주영)는 29일 MBC가 “제재 처분을 취소하라”며 방통위를 상대로 낸 소송에서 원고 승소로 판결했다. 방통위는 작년 4월 치러졌던 제22대 국회의원선거를 앞두고 선거방송심의위원회를 구성했다. 선방심위는 선거 방송의 공정성 여부를 판단하고, 불공정한 방송에 대해 시정 요구 등을 내릴 수 있다.&lt;br&gt;&lt;br&gt;이 선방심위는 작년 1월 MBC-AM(표준 FM) ‘신장식의 뉴스하이킥’에 대해 ‘관계자 징계’를 의결했다. 당시 해당 프로그램의 출연진이 김 전 대표가 사퇴한 것에 대해 “대통령의 부하”, “국민을 기만하는 쇼”라고 언급한 점이 징계 사유였다. 관계자 징계는 방송사 재허가·재승인 시 감점 사유가 되는 중징계다.&lt;br&gt;&lt;br&gt;선방심위는 같은 방송에서 여론조사 전문가가 총선 결과를 예측하면서 “국민의힘이 1당이 될 가능성은 제로에 가깝고, 민주당이 1당이 될 가능성은 거의 90% 이상” “민주당은 지역구 150석은 무조건 넘는다”며 야당 승리를 단정한 발언도 문제로 삼았다.&lt;br&gt;&lt;br&gt;방통위가 이같은 징계를 내리자 MBC는 작년 3월 행정법원에 제재 처분 취소 소송과 집행정지 신청을 같이 냈다. 법원은 그해 4월 집행정지 신청을 받아들였고, 1년여가 지난 이날 본안에 대해서도 MBC의 손을 들어줬다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[단독] ‘빅4′ 전공의 추가 모집에 서울대 70여명, 세브란스 69명 지원... 지원율 10%</title>
       <link>https://www.chosun.com/national/welfare-medical/2025/05/29/NEGDFNARSNAEBGRNRDFNDB36XA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/05/29/NEGDFNARSNAEBGRNRDFNDB36XA/</guid>
@@ -963,15 +972,6 @@
       <description/>
       <pubDate>Thu, 29 May 2025 09:36:16 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NAKQVSR5YT4WLTR3X7JXNJQZ2A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;자료사진./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 주요 ‘빅5’ 병원들이 5월 전공의 추가 모집을 29일 마감한 가운데, 국내 4대 대형 병원의 전공의 지원율이 10%에 근접한 것으로 나타났다.&lt;br&gt;&lt;br&gt;서울대병원은 이날 오후 6시 기준 모집 인원 723명 중 70여 명이 지원해 9.7%의 지원율을 기록했다. 이날 오후 5시에 모집을 마감한 세브란스병원도 722명 모집에 69명이 지원해 동일한 지원율을 보였다. 지난 1월 상반기 전공의 모집 당시 전체 지원율이 2.2%에 그쳤던 것과 비교하면 크게 오른 수치다.&lt;br&gt;&lt;br&gt;서울아산병원도 모집 인원 565명 중 30여 명이 지원해 지원율 5%대를 기록했다. 삼성서울병원 역시 지원자가 두 자릿수다. 네 병원의 전공의 지원자를 합치면 총 200명에 육박하는 것으로 집계됐다.&lt;br&gt;&lt;br&gt;전날 보건복지부가 추가 모집에 지원하는 인턴에게 수련 기간을 3개월 단축해주기로 했지만, 정작 인턴 지원율은 저조했던 것으로 나타났다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>성조기 두르고 사전투표 참관한 40대 女…현행범 체포</title>
-      <link>https://www.chosun.com/national/incident/2025/05/29/6DB4PFZGARCUHNPP4YF6RW6IJ4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/05/29/6DB4PFZGARCUHNPP4YF6RW6IJ4/</guid>
-      <dc:creator>인천=이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 29 May 2025 09:31:04 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/L4GEXC5HOZAC5NA5TDDI7RQ23U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;21대 대통령선거 사전투표 첫날인 29일 대형 성조기를 몸에 두르고 사전투표를 참관하던 40대 여성이 경찰에 체포됐다. &lt;br&gt;&lt;br&gt;인천 서부경찰서는 공직선거법 위반 혐의로 40대 여성 A씨를 붙잡아 조사하고 있다고 밝혔다. &lt;br&gt;&lt;br&gt;A씨는 이날 오전 8시 34분쯤 인천시 서구 가좌동의 한 사전투표소에서 대형 성조기를 몸에 두르고 사전투표를 참관한 혐의를 받고 있다. &lt;br&gt;&lt;br&gt;A씨는 극우 성향 단체 간부로, 사회관계망서비스(SNS)에 중국 대선 개입설을 주장하며 성조기를 두르고 사전투표 참관을 하자고 제안한 것으로 알려졌다. &lt;br&gt;&lt;br&gt;공직선거법은 누구든지 선거일에 완장‧흉장 등을 착용하는 방법으로 선거에 영향을 미칠 우려가 있는 표지를 할 수 없다고 규정하고 있다. &lt;br&gt;&lt;br&gt;“퇴거 명령에 불응하는 참관인이 있다”는 인천 서구선거관리위원회의 신고를 받고 출동한 경찰은 A씨를 현행범으로 체포했다.&lt;br&gt;&lt;br&gt;경찰은 A씨를 상대로 구체적인 사건 경위를 조사할 방침이다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>바디로션 통에 필로폰 27.5kg 밀반입…국제 마약조직 일망타진</title>
