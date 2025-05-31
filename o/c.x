@@ -13,6 +13,24 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>백종원 방송활동 중단 3주 만에…새로 올라온 영상, 댓글은 차단</title>
+      <link>https://www.chosun.com/national/national_general/2025/05/31/MS4X4PZCNNDK3H6TDQGRGCIUVU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/05/31/MS4X4PZCNNDK3H6TDQGRGCIUVU/</guid>
+      <dc:creator>김자아 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 31 May 2025 10:56:15 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZHAI5A5QNJFCRCF3XYMCQIQIPA.png"&gt;&lt;figcaption&gt;&lt;small&gt;백종원 더본코리아 대표. /유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;백종원 더본코리아 대표가 방송 활동 중단을 선언한 지 3주만에 그의 이름을 건 공식 유튜브 채널에 새 영상이 올라왔다.&lt;br&gt;&lt;br&gt;백종원의 공식 유튜브에는 지난 30일 더본코리아의 프랜차이즈 가맹점주들이 등장하는 영상이 잇따라 공개됐다.&lt;br&gt;&lt;br&gt;각각의 영상에는 연돈볼카츠, 막이오름, 역전우동, 롤링파스타, 홍콩반점, 새마을식당, 리춘시장, 원조쌈밥집 등을 직접 운영하는 점주들이 출연했다. 이들은 “저는 ○○○ 점주입니다”라고 각자를 소개하며 가게를 홍보했다.&lt;br&gt;&lt;br&gt;영상에는 “본 영상의 점주님들을 향한 억측, 비방 등 악의적인 2차 활용은 초상권 및 저작권 침해에 해당하여 제재를 받을 수 있음을 알려드린다”는 안내가 붙었다. 댓글 기능은 차단된 상태다.&lt;br&gt;&lt;br&gt;최근 백종원과 더본코리아를 둘러싼 잇단 논란으로 가맹점주들의 피해 우려가 커지자, 가맹점주 영상을 통해 브랜드 신뢰 회복과 가맹점 지원 의지를 드러낸 것으로 해석된다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NOSHPRFKI5IOLMURMUT7DP3GCQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;13일 서울 시내 한 더본코리아 인생설렁탕 매장에 할인 안내문과 백종원 더본코리아 대표 사진이 붙어 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;앞서 백종원은 빽햄 가격 논란을 시작으로 감귤맥주 함량 허위 표기, 식자재 원산지 미표기, 농지법 위반 의혹, LPG 안전관리 미비 등 각종 의혹에 휩싸였다.&lt;br&gt;&lt;br&gt;결국 백종원은 지난 6일 자신의 유튜브 채널을 통해 “모든 방송 활동을 중단하겠다”고 밝히며 “뼈를 깎는 각오로 조직을 쇄신하고 직원들과의 소통을 통해 기업문화를 바꾸겠다”고 했다.&lt;br&gt;&lt;br&gt;특히 그는 “가장 가슴 아픈 것은 가맹점주님들의 절박한 상황”이라며 “긴급 지원대책을 마련한 직후 현장을 찾아가 점주님들의 목소리를 듣고 있다. 이제부터 단 한 분의 점주님도 두고 갈 수 없다는 각오를 다졌다”고 덧붙였다.&lt;br&gt;&lt;br&gt;더본코리아는 300억원대 규모의 가맹점 상생 지원책을 약속하고, 긴급 지원금을 투입 중이다. 상생 지원책 일환으로 가맹점 할인 행사를 진행중이며 할인 비용은 본사가 전액 부담한다. &lt;br&gt;&lt;br&gt;경찰은 현재 백종원 관련해 접수된 진정 등 총 14건의 수사를 진행 중이다. 경찰 관계자는 지난 12일 열린 기자간담회에서 “백종원과 더본코리아 법인에 대해 식품표시광고법·식품위생법 위반 등 혐의로 총 14건을 수사 중”이라고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>5호선 방화범 “이혼 소송 결과에 불만 있어 범행” 진술</title>
+      <link>https://www.chosun.com/national/national_general/2025/05/31/2ZRLLHCB7JASTPIQP4YQJHANV4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/05/31/2ZRLLHCB7JASTPIQP4YQJHANV4/</guid>
+      <dc:creator>김도연 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 31 May 2025 11:29:50 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UJM72S5TDNF4HGPHGLCPTXD4DY.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;31일 오전 서울 지하철 5호선 마포역~여의나루역 구간에서 방화로 인한화재가 발생해 승객들이 선로를 통해 대피하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;31일 오전 승객 400여명이 탑승한 서울 지하철 5호선에서 불을 지른 피의자가 이혼 소송 결과에 불만이 있어 범행을 저질렀다고 주장하는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;서울 영등포경찰서는 이날 오전 여의나루역에서 마포역으로 향하는 지하철 열차 내에서 불을 저지른 60대 남성 A씨를 체포해 수사 중이다. &lt;br&gt;&lt;br&gt;A씨는 경찰 조사에서 “아내와의 이혼 소송 결과에 불만이 있다”는 등 가정사를 이유로 범행을 저질렀다고 주장한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰은 사안의 중대성을 감안해 오는 1일 A씨에 대한 구속영장을 신청할 방침이다.&lt;br&gt;&lt;br&gt;이날 오전 경찰은 화재가 난 열차를 감식하고 현장에서 발견한 기름병과 점화기 등을 수거해 감식 중이다. 또한 범행 전 A씨의 음주·약물 여부도 확인 중이다.&lt;br&gt;&lt;br&gt;이날 화재로 21명이 연기 흡입, 찰과상 등 경상을 입어 병원으로 이송됐고, 130명이 현장에서 응급 처치를 받은 것으로 집계됐다.&lt;br&gt;&lt;br&gt;한때 서울 지하철 5호선 하행선 여의도역~애오개역 구간의 운행이 1시간 30분가량 중단되기도 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>“내란당에 돈 받았냐”…유시민 비판한 여성단체에 쏟아진 비난</title>
       <link>https://www.chosun.com/national/national_general/2025/05/31/HZYWTELTAJD4XKJQEC5FQY574E/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/05/31/HZYWTELTAJD4XKJQEC5FQY574E/</guid>
@@ -925,19 +943,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AK55TBKCUJGC7EDBJFL4ZG2OOE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;상급자가 여직원 머리채를 잡는 모습이 담긴 경북 경산시의 '대통령선거 투표 독려 영상'의 한 장면. 현재는 비공개 처리 된 상태다. /유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경북 경산시가 대통령 선거 투표 참여를 독려한다며 제작한 홍보 영상에 직장 내 갑질과 폭력을 가하는 장면이 담겨 논란이 됐다. 경산시는 하루 만에 영상을 비공개 처리하고, 사과했다. &lt;br&gt;&lt;br&gt;지난 26일 경산시 공식 유튜브 채널에는 ‘대통령 선거 투표 독려 영상’이라는 제목의 49초짜리 영상이 올라왔다. &lt;br&gt;&lt;br&gt;영상에는 상급자가 여직원에게 종이를 구겨 던지는 모습과 결재 서류철로 머리를 때리는 장면, 손가락으로 여직원의 이마를 쿡쿡 찌르는 장면에 이어 여직원이 상급자의 손가락을 무는 모습 등이 담겼다. &lt;br&gt;&lt;br&gt;손가락을 무는 장면에서는 “물지 말고 후보자의 정책을 물으세요”라는 대사가 나오고, 이어 남자 직원이 여직원의 머리채를 잡는 장면과 함께 반격하는 여직원의 모습을 연출하며 “뽑지 말고 나의 권리를 뽑으세요”라는 멘트가 나온다. &lt;br&gt;&lt;br&gt;이어 이 여직원이 컴퓨터 메신저로 남자 직원을 욕하는 것을 다른 상급자가 지켜보는 장면과 여직원이 외출 후 돌아와 자신의 책상이 사라진 것을 발견하는 장면에서는 “찍지 말고 내일의 희망을 찍으세요”라고 했다. &lt;br&gt;&lt;br&gt;영상을 본 네티즌들은 “개연성이 없다” “뜬금없이 머리채는 왜 잡는지 모르겠다” “이게 대체 대통령 선거와 무슨 상관이냐?” 등의 반응을 보였다. &lt;br&gt;&lt;br&gt;논란이 커지자 경산시는 지난 27일 영상을 비공개 처리하고, 28일 공식 사과문을 올렸다. &lt;br&gt;&lt;br&gt;경산시 관계자는 “선거와 관련된 표현들을 그대로 사용할 경우 특정 정치적 입장으로 오해받을 수 있다는 우려가 있어 담당자가 관련 없는 것으로 직접 수정하고 촬영하는 과정에서 부적절한 요소가 포함되는 실수가 있었다”며 “모든 장면은 허구를 기반으로 구성된 것이며, 그 안에서 갑질이나 신체적 충돌을 상대방이 그대로 되갚는 방식으로 표현된 부분이 시청자 여러분께 불쾌감을 드릴 수 있음을 미처 인식하지 못했다”고 했다. 이어 “저희는 결코 폭력이나 혐오를 조장할 의도가 없었다”며 “불편함을 느끼셨을 분들께 깊은 사과의 말씀을 드린다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>“산 오르면 100만원” 서울대 등산 장학금 만든 81세 사업가</title>
-      <link>https://www.chosun.com/national/people/2025/05/30/3VDI3N4YQNAJXIQH42SUQBJBR4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/05/30/3VDI3N4YQNAJXIQH42SUQBJBR4/</guid>
-      <dc:creator>강지은 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 29 May 2025 15:51:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DLJ3N7UOTBD7LGR2DCGXNBDAQU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;29일 권준하 익산화물터미널 대표가 등산스틱을 쥐고 환하게 웃고 있다. 권 대표는 서울대 경영학과·경제학부 학생들을 위해 ‘등산 장학금’을 만들었다. 6개월간 7번 이상 등산하면 100만원을 준다./조인원 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울대 경영학과·경제학부는 이전에 없던 새로운 장학금을 이번 학기 내걸었다. 성적이나 외부 수상 실적, 봉사 시간 등 어떤 것도 묻고 따지지 않는다. 기준은 오직 하나, 등산(登山)이다. 기부자는 익산화물터미널 대표 권준하(81)씨. 경제학부를 졸업한 그는 29일 본지 인터뷰에서 “서울대 후배들은 평생 책에 파묻혀 살았을 것”이라며 “대학에 와서도 도서관에서 밤낮 공부만 하지 말고 건강과 추억도 함께 챙겼으면 좋겠다”고 했다. &lt;br&gt;&lt;br&gt;지난 2013년부터 최근까지 96억원을 기부한 권씨는 지난 2022년 서울대 상과대학 향상장학회에 5억원을 기부했다. 그러면서 “성적을 기준으로 주는 장학금은 이미 많다. 공부만큼 중요한 게 건강”이라고 했다. 학생들의 ‘건강 관리’를 기준 삼아 장학금을 주고 싶다며 종목으로 등산을 선택했다. 비싼 장비가 필요 없고, 점수 경쟁을 하지 않아도 된다. 권씨는 “축구, 농구를 선택했다가 서울대 학생들의 경쟁 심리를 자극해 오히려 스트레스를 줄 수 있다고 생각했다”고 했다. 장학금 이름도 아버지 호를 따 ‘미산(彌山) 지덕체 장학금’이라고 지었다.&lt;br&gt;&lt;br&gt;장학금은 2월부터 7월까지 7번 이상 등산을 하면 100만원을 받을 수 있다. 3번 이상, 7회 미만일 경우 30만원이다. 정상석 앞에서 찍은 사진을 스마트폰 앱에 올리면 ‘등산 인증’이 완료된다. 똑같은 산을 계속 올라선 안 된다. 여러 산을 오르면서 다양한 풍경을 즐기라는 뜻이다. 해발고도 500m 이상 산은 최대 3번까지, 500m 미만은 1번까지만 인정된다.&lt;br&gt;&lt;br&gt;학생들 반응은 뜨겁다. 당초 30명을 지원할 계획이었지만, 신청자 79명이 몰려 대상자를 50명으로 늘렸다. 경제학부 배현진(22)씨는 올봄 고향 충남의 광덕산, 가야산, 흑성산을 주말마다 찾아 올랐다. 배씨는 “이번 장학금을 계기로 처음으로 제대로 된 등산을 해봤다”며 “본가에 내려갈 때마다 부모님과 함께 집 근처 산을 오르다 보니 부모님과 대화 나누는 시간도 늘었고, 건강해지는 기분”이라고 했다. 지난 3월 친구 2명과 함께 인왕산을 올랐다는 하지현(22)씨는 “장학금 아니었다면 산 정상까지 오르지 않고 포기했을 것”이라며 “등산한 뒤 친구들과 칼국수를 먹으면서 추억도 쌓아 일석이조”라고 했다.&lt;br&gt;&lt;br&gt;권씨도 40대 중반부터 매주 전국을 돌면서 산을 올랐다. 그는 “지리산 봉우리 사이에 걸쳐 있는 구름, 겨울 덕유산의 설경이 눈에 선하다”며 “정상에서 발아래 있는 세상을 바라보면 웬만한 일들은 별것 아닌 것처럼 느껴지는데 그 기분이 정말 좋았다”고 했다. 그는 “요즘 학생들은 대학 입학 전에는 내신·수능 점수 1점, 대학 입학 후에는 학점 0.1점 차이로 희비가 교차하는 삶을 산다”며 “등산 중에 생각을 가다듬으면서 호연지기를 길렀으면 한다”고 했다. &lt;br&gt;&lt;br&gt;권씨는 대학 졸업 후 삼성그룹에 공채 입사해 약 8년간 근무했다. 이후엔 사업가로 살았다. 고향 전북 익산에 있는 부친의 부동산과 사업체를 물려받았다. 부친 양조장을 경영하면서 자동차 공업사, 운수회사 등 자동차 관련 사업도 시작했다. 1992년부터 작년까지 기아자동차 이리 대리점을 운영했다. 1998년부터 익산화물터미널 대표로 있다.&lt;br&gt;&lt;br&gt;권씨는 2013년 이후 최근까지 사랑의 열매에 46억원, 숙명여대에 20억원, 서울대 10억원, 사랑의 달팽이 5억원, 남성고 10억원 등을 기부했다. 그는 “장학금만 생각하면 배가 부르고 마음이 따뜻해진다”며 “재산을 자식에게 주면 분쟁만 생기지 않나. 더 많이 기부할 생각”이라고 했다. 권씨는 다음 학기부터는 ‘등산 장학금’ 대상을 상경계에서 서울대 전체로 확대하기로 했다. 또 권씨 아내의 모교인 숙명여대에도 기부해 같은 형태의 장학금을 시행하기로 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/JACKF3CG2JEDTGZHCI4KQEXKUY.jpg?auth=973a83f084366dcf24711eb25c1f540293df07e72ded4d03f2d0baf54982a96b&amp;smart=true&amp;width=5940&amp;height=3341" type="image/jpeg" height="3341" width="5940">
-        <media:description type="plain">등산한 서울대 대학생들에게 100만원씩 장학금을 주기로 한 권준하 씨, 2025. 5. 29. 서울 서초동/ 조인원 기자</media:description>
-        <media:credit role="author" scheme="urn:ebu">CHOINWON</media:credit>
-      </media:content>
-    </item>
-    <item>
       <title>야산에 추락한 해군 초계기</title>
       <link>https://www.chosun.com/politics/diplomacy-defense/2025/05/30/OKDMM4U5JNCTJG6NE2SDDG2QL4/</link>
       <guid isPermaLink="true">https://www.chosun.com/politics/diplomacy-defense/2025/05/30/OKDMM4U5JNCTJG6NE2SDDG2QL4/</guid>
@@ -972,15 +977,6 @@
       <description/>
       <pubDate>Thu, 29 May 2025 09:36:16 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NAKQVSR5YT4WLTR3X7JXNJQZ2A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;자료사진./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 주요 ‘빅5’ 병원들이 5월 전공의 추가 모집을 29일 마감한 가운데, 국내 4대 대형 병원의 전공의 지원율이 10%에 근접한 것으로 나타났다.&lt;br&gt;&lt;br&gt;서울대병원은 이날 오후 6시 기준 모집 인원 723명 중 70여 명이 지원해 9.7%의 지원율을 기록했다. 이날 오후 5시에 모집을 마감한 세브란스병원도 722명 모집에 69명이 지원해 동일한 지원율을 보였다. 지난 1월 상반기 전공의 모집 당시 전체 지원율이 2.2%에 그쳤던 것과 비교하면 크게 오른 수치다.&lt;br&gt;&lt;br&gt;서울아산병원도 모집 인원 565명 중 30여 명이 지원해 지원율 5%대를 기록했다. 삼성서울병원 역시 지원자가 두 자릿수다. 네 병원의 전공의 지원자를 합치면 총 200명에 육박하는 것으로 집계됐다.&lt;br&gt;&lt;br&gt;전날 보건복지부가 추가 모집에 지원하는 인턴에게 수련 기간을 3개월 단축해주기로 했지만, 정작 인턴 지원율은 저조했던 것으로 나타났다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>바디로션 통에 필로폰 27.5kg 밀반입…국제 마약조직 일망타진</title>
-      <link>https://www.chosun.com/national/incident/2025/05/29/3H42F3YEVJGCBPLU3T5QLZENAQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/05/29/3H42F3YEVJGCBPLU3T5QLZENAQ/</guid>
-      <dc:creator>평택=김현수 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 29 May 2025 01:40:33 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RV6EA4277ZFXLGH73KBCGE6C5M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;압수된 마약/ 평택경찰서&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;특수 제작된 바디로션 용기 안에 마약인 필로폰을 숨겨 들여온 국제 마약 조직이 경찰의 추적 끝에 덜미를 잡혔다.&lt;br&gt;&lt;br&gt;경기 평택경찰서는 29일 마약류 관리에 관한 법률 위반 혐의로 태국인 A씨 등 7명을 검거하고 이 중 5명을 구속했다고 밝혔다.&lt;br&gt;&lt;br&gt;이들은 지난달 1일부터 16일까지 태국에서 국내로 필로폰을 밀반입한 뒤, ‘던지기’ 방식으로 유통하려 한 혐의를 받고 있다. 경찰이 압수한 마약은 27.5㎏ 정도로, 이는 91만여 명이 동시에 투약 가능한 규모다. 경찰 관계자는 “시가로 약 110억원에 달한다”고 설명했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QAHOMS3CLVG3RDVTLHFIUINJNA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;바디로션 해제 과정/ 평택경찰서&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰에 따르면, 이들이 사용한 바디로션 용기 37개는 외관상 시중에 판매되는 일반 화장품과 거의 구별이 되지 않는 형태였다. 펌프를 눌러도 실제 로션이 나오도록 돼 있었고, 내부는 이중 구조로 정교하게 설계돼 필로폰을 숨길 수 있었다.&lt;br&gt;&lt;br&gt;앞서 경찰은 지난달 1일 평택시의 야산에서 중국인 용의자 2명을 처음 검거한 것을 시작으로, 필로폰 1㎏을 확보했다. 이후 태국인 판매책을 추적해 3.3㎏을 추가로 압수했고, 결국 인천공항에서 국내 밀수 총책을 포함한 일당 3명을 붙잡았다.&lt;br&gt;&lt;br&gt;이들의 수하물 안에는 앞서 언급된 바디로션 용기들이 들어 있었고, 용기당 약 420g씩 총 15.6㎏의 필로폰이 들어 있었다. 이후 경찰은 피의자 진술을 통해 태국 현지에 남아있던 필로폰 7.6㎏의 존재를 확인했다. 이어 경찰 협력관을 통해 태국 마약통제청(ONCB)과 공조해 현지 마약도 압수하고, 보관책인 태국인도 체포했다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “지난 4월 부산에서 열린 아태지역 마약법집행 회의에서 태국 측과 공조 네트워크를 강화한 것이 이번 검거에 큰 역할을 했다”며 “앞으로도 국제 공조를 확대해 진화하는 마약 범죄에 철저히 대응하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
