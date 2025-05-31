@@ -13,6 +13,24 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>“내란당에 돈 받았냐”…유시민 비판한 여성단체에 쏟아진 비난</title>
+      <link>https://www.chosun.com/national/national_general/2025/05/31/HZYWTELTAJD4XKJQEC5FQY574E/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/05/31/HZYWTELTAJD4XKJQEC5FQY574E/</guid>
+      <dc:creator>김자아 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 31 May 2025 08:44:17 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/63ROZME4VJBRHFROZF2IZY6QHQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;유시민 전 노무현재단 이사장이 지난 28일 유튜브 '김어준의 다스뵈이다'에 출연해 김문수 국민의힘 대선 후보의 아내 설난영씨에 관해 이야기하고 있다. /유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;유시민 전 노무현재단 이사장의 여성·노동자·학력 비하 논란을 비판한 여성 단체에 집중포화가 쏟아지고 있다.&lt;br&gt;&lt;br&gt;한국여성의전화는 지난 30일 홈페이지를 통해 ‘여성과 노동자에 대한 멸시, 비하가 웃음거리인가 - 유시민과 ‘김어준의 다스뵈이다’는 통렬히 반성하고 사과하라’라는 제목의 논평을 올렸다. &lt;br&gt;&lt;br&gt;이 글은 31일 오후 5시 기준 3600회 이상의 조회 수를 기록 중이다. 지난 28일 올라온 이준석 개혁신당 대통령 후보에 대한 사퇴 요구 성명이 조회 수 400회에도 미치지 못한 것과 비교해 큰 차이다.&lt;br&gt;&lt;br&gt;한국여성의전화는 논평에서 유 전 이사장을 ‘국회의원과 보건복지부 장관을 지내고 다수의 저서를 집필한 유시민씨’라고 칭하며 그를 비판했다.&lt;br&gt;&lt;br&gt;한국여성의 전화는 “여성과 노동자에 대한 멸시와 학력에 대한 비하가 진행자, 출연자, 방청객의 우스갯거리로 소비된 현실에 분노를 금할 수 없다”고 비판했다.&lt;br&gt;&lt;br&gt;이어 “우리는 광장에서 사회적 소수자를 차별하거나 배제하는 표현을 쓰지 않고도 비판할 수 있고, 토론할 수 있음을 배웠다. 유시민씨는 무슨 특권을 가졌기에 공론장의 약속을 저버리고도 박수받으며 발언하는가. ‘김어준의 다스뵈이다’의 진행자와 제작자는 무슨 특권을 가졌기에, 이를 제지하지도 편집하지도 않고 유포하는가”라고 했다.&lt;br&gt;&lt;br&gt;그러면서 “광장의 여성과 노동자들이 만든 이번 대선에 그런 구태는 용인될 수 없다. 통렬히 반성하고 사과하라”고 했다.&lt;br&gt;&lt;br&gt;이 논평에는 수십 개의 댓글이 달렸는데, 유 전 이사장의 발언을 옹호하는 이들의 비판이 주를 이뤘다.&lt;br&gt;&lt;br&gt;이들은 “유시민 말 어디에 여성 비하가 있나. 번지수를 잘못 짚었다. 5000만 국민 중 한 명 비판한 게 여성 혐오인가” “설난영에 대한 개인적 경험에 기반한 평가를 어떻게 여성과 노동자로 치환해서 들을 수 있나” 등의 지적부터 “내란당한테 돈 받냐” “머리는 장식으로 달고 다니는 게 아니다. 낄 때 끼고 빠질 때 빠진다는 뜻) 안되는 두뇌를 가진 게 아니라면 혹시 내란당 동조 세력이냐” 등 원색적인 비난도 이어가고 있다.&lt;br&gt;&lt;br&gt;앞서 유 전 이사장은 28일 유튜브 ‘김어준의 다스뵈이다’에 출연해 김문수 국민의힘 대통령 후보의 아내 설난영씨를 두고 ‘본인 인생에서는 갈 수 없는 유력 정당의 대통령 후보 배우자 자리에 있어 지금 발이 공중에 떠 있다. 제정신이 아니다’ ‘자신과 균형이 안 맞을 정도로 대단하다고 생각하는 남자와의 혼인을 통해 좀 더 고양됐다고 느낄 것’ 등의 취지로 비난했다.&lt;br&gt;&lt;br&gt;이후 논란이 커지자 30일 유튜브 ‘알릴레오’를 통해 “여성이나 노동자를 비하할 의도는 없었다”며 해명했다. 그는 “표현이 거칠었던 것은 제 잘못”이라면서도 “좀 더 점잖고 정확한 표현을 썼더라면 비난을 그렇게 많이 받지 않았을 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>50대 교사 야구방망이로 폭행해 골절상 입힌 중학생 입건</title>
+      <link>https://www.chosun.com/national/regional/2025/05/31/5R6VZEGGF5G7VKDUJGNSGXEMQA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/05/31/5R6VZEGGF5G7VKDUJGNSGXEMQA/</guid>
+      <dc:creator>김주영 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 31 May 2025 08:25:09 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MIDFOGUTT55OOTCPAO7VSI3GD4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기 수원남부경찰서 전경. /경기남부경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;수업 도중 50대 교사에게 야구방망이를 휘둘러 갈비뼈를 골절시키는 등 다치게 한 혐의를 받는 중학생이 경찰에 입건됐다.&lt;br&gt;&lt;br&gt;경기 수원남부경찰서는 특수상해 혐의로 중학생인 10대 A군을 입건해 조사하고 있다고 31일 밝혔다.&lt;br&gt;&lt;br&gt;A군은 전날 오전 9시 50분쯤 수원의 한 중학교 운동장에서 체육 수업을 받던 중 50대 남성 교사 B씨에게 여러 차례 야구방망이를 휘둘러 다치게 한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;B씨는 갈비뼈가 부러지는 등 다쳐 인근 병원에서 치료받고 있는 것으로 전해졌다.&lt;br&gt;&lt;br&gt;당시 다른 학생들도 A군이 범행하는 모습을 목격했던 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰은 A군을 임의동행해 조사했으며 현재까지 범행 동기 등을 파악하고 있다고 밝혔다.&lt;br&gt;&lt;br&gt;경찰은 조만간 A군 등을 소환해 조사를 진행할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>‘남편 신분증으로 대리 투표’ 선거사무원, 1일 구속 심사</title>
       <link>https://www.chosun.com/national/court_law/2025/05/31/GLZ6JP4EWZGKFFNLIS6ATALHVY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/05/31/GLZ6JP4EWZGKFFNLIS6ATALHVY/</guid>
@@ -945,24 +963,6 @@
       <description/>
       <pubDate>Thu, 29 May 2025 15:53:00 +0000</pubDate>
       <content:encoded>200억원대 횡령·배임 등 혐의로 재판에 넘겨진 조현범 한국타이어앤테크놀로지(한국타이어) 회장이 29일 1심에서 징역 3년을 선고받고, 법정 구속됐다. 재판부는 조 회장이 받는 9개 혐의 중 하나를 제외하고 모두 유죄로 판단했다. 조 회장은 한국타이어 조양래 명예회장의 차남으로, 이명박 전 대통령의 사위다.&lt;br&gt;&lt;br&gt;서울중앙지법 형사23부(재판장 오세용)는 이날 업무상 배임과 배임수재죄 등 혐의를 받는 조 회장에 대해 징역 3년을 선고했다. 조 회장은 2023년 3월 구속 기소됐다가 그해 11월 보석으로 풀려나 불구속 상태로 재판을 받아왔다. 조 회장은 선고 직후 “판사님께서 정해주신 형량대로 반성하고 있겠다”고 짧은 입장을 밝혔다.&lt;br&gt;&lt;br&gt;재판부는 조 회장이 한국타이어와 한국앤컴퍼니 등의 법인카드를 사적으로 사용한 혐의에 대해 “본인과 자신과 친분이 있었던 제3자가 개인적 용도로 사용한 법인카드 대금 약 5억8000만원을 회사들에 대납하게 한 부분은 업무상 배임죄가 인정된다”고 했다. 또 조 회장이 개인적으로 사용할 차량 5대를 한국타이어 계열사 명의로 구입하거나 리스해 회사 소속 운전기사에게 자신의 배우자를 수행하게 한 혐의 등도 배임죄에 해당한다고 판단했다. &lt;br&gt;&lt;br&gt;다만 조 회장이 한국타이어가 계열사인 MKT(한국프리시전웍스)와 부당한 거래에 관여해 약 131억원의 손해를 보게 한 혐의에 대해선 “거래의 목적과 가격 모두 부당하다고 볼 수 없고, 한국타이어가 MKT에 특별히 유리한 조건으로 거래했다고 보기도 어렵다”고 판단했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>남성도 부담 없이 육아 휴직… 자유로운 사내 소통 덕이죠</title>
-      <link>https://www.chosun.com/culture-life/culture_general/2025/05/30/MY74YXMULFA5ZFGFZGVMAIXWFM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/culture-life/culture_general/2025/05/30/MY74YXMULFA5ZFGFZGVMAIXWFM/</guid>
-      <dc:creator>최인준 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 29 May 2025 15:50:00 +0000</pubDate>
-      <content:encoded>글로벌 배터리 기업 LG에너지솔루션 구매전략팀의 유원재(39)씨는 올해 다섯 살인 딸을 키우는 동안 회사 동료들로부터 많은 응원과 격려를 받았다고 말했다. 몇 년 전 돌을 앞둔 딸과 시간을 보내기 위해 8개월 동안 육아 휴직을 다녀왔을 때도 마찬가지였다. 업무 공백에 따른 부담 없이 선뜻 육아 휴직을 신청하고 자리를 비울 수 있었던 데에는 동료들의 변함없는 지지가 있었다고 한다. 유씨는 “어느 회사에나 육아 휴직 제도가 있지만 이를 마음껏 이용할 수 있게 하는 동료들의 응원과 회사 분위기도 매우 중요한 것 같다”며 “덕분에 육아 휴직이 자유로운 스웨덴의 라테 파파(Latte Papa·육아에 적극적인 아빠)처럼 마음껏 아이와 함께 시간을 보내고 싶었던 내 로망을 실현했다”고 했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2SZ2EWYJTRH45B6IMMR56DCPJA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;글로벌 배터리 기업 LG에너지솔루션은 다양한 복지 제도를 운영하며 직원들이 가족과 함께 시간을 보내도록 장려하고 있다. 지난 3일 서울 여의도 파크원 본사에서 열린 회사 가정의달 행사에서 직원 가족이 기념 촬영을 하고 있다. /LG에너지솔루션&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;LG에너지솔루션은 국내 기업 중에서 남성 직원들의 육아 휴직 사용이 많은 회사로 꼽힌다. 지난해 회사의 남성 육아 휴직 사용률은 22.7%로 삼성전자(13.6%), 현대차(7%), SK하이닉스(2.1%) 등 코스피 시가총액 상위 10대 기업(28일 기준) 중에서 가장 높았다. 비슷한 육아 휴직 제도를 운영하고 있는 경쟁 배터리 업체 삼성SDI(9%)·SK온(6.88%)과 비교해도 월등히 높다. 직원들이 법으로 보장된 육아 휴직을 눈치 보지 않고 쓸 수 있도록 하는 자유로운 회사 분위기가 뒷받침된 덕분이다. LG에너지솔루션에서 육아 휴직을 사용한 남자 직원 수는 2022년 144명, 2023년 154명, 지난해 221명으로 꾸준히 늘고 있다. &lt;br&gt;&lt;br&gt;육아 휴직은 통상 3개월 전에 회사에 신청해야 하는데 사정이 급한 직원의 경우는 예외를 인정해주기도 한다. 이 회사에서 일하며 두 아들을 둔 한 30대 직원의 경우, 지난해 아내의 조산 위험으로 예정에 없던 육아 휴직을 갑자기 신청했는데도 회사가 곧바로 받아줘 1년간 휴직에 들어갈 수 있었다. 이 직원은 “부서장을 비롯해 많은 회사 분들이 신경 써줬다”며 “갑자기 자리를 비운 것도 미안한데 부서 동료, 상사들이 휴직 기간 동안 각종 영양제와 아기 용품을 선물로 보내주며 응원해줬다”고 했다.&lt;br&gt;&lt;br&gt;많은 직원이 육아 휴직 등 사내 복지 제도를 이용할 수 있는 데에는 다른 기업보다 임직원 간 소통이 더 활발하게 이뤄지는 수평적인 사내 문화가 크게 작용한다. LG에너지솔루션은 지난 2021년부터 회사 대표와 직원 간에 직통으로 대화할 수 있는 온라인 소통 플랫폼 ‘엔톡’을 운영하고 있다. 직원이 온라인으로 질문이나 건의 사항을 올리면 최고경영자(CEO)가 직접 이에 답하는 식이다. 직원 질문이 올라오면 대부분 1주~1개월 사이에 답변이 이뤄진다는 게 회사 측의 설명이다. 회사 관계자는 “전체 직원(1만2000명)의 80%가 MZ세대일 정도로 젊은 층 비율이 높은 편”이라고 했다. &lt;br&gt;&lt;br&gt;회사 직원은 온라인 소통 창구인 ‘엔톡’을 통해 건의 사항을 알리고, 회사는 평소 듣기 어려운 사내 의견을 모아 회사 복지 정책을 보완할 수 있다. 엔톡을 통해 신설된 복지 제도도 많다. 지난 2022년 한 직원이 ‘입양을 준비 중인데 입양 가정 지원을 검토해달라’고 요청하자 자녀를 입양한 직원에게 5일간 휴가를 주는 ‘입양 휴가제’를 업계 최초로 도입했다. &lt;br&gt;&lt;br&gt;사내 어린이집도 직원 목소리를 반영해 도입한 대표적 사례다. LG에너지솔루션은 2020년 LG화학에서 분사해 서울 여의도 파크원으로 본사를 옮긴 이후 사내 어린이집을 강화했다. 2022년 파크원 본사에 정원 108명 규모의 어린이집을 연 데 이어 이듬해 충북 청주의 오창 사업장에 임직원 자녀 160명이 이용할 수 있는 2000㎡(약 600평) 규모의 어린이집을 열었다. 오창 어린이집은 ‘오창 사업장에도 어린이집을 지원해달라’는 한 직원의 요청이 나온 지 8개월 만에 세워졌다. 현재는 정원 규모가 330명까지 늘어났다. 모든 사내 어린이집에는 원어민 교사가 상주해 원생들을 대상으로 자체 외국어 교육을 진행하고 있다. 또 회사 어린이집은 오전 7시 30분부터 오후 7시 30분까지 운영하기 때문에 업무로 퇴근이 늦어져도 자녀 하원에 대한 부담이 적은 편이다. &lt;br&gt;&lt;br&gt;본사 어린이집에 7세 아들을 보내고 있는 위기관리팀장 유태웅(46)씨는 “회사 지원으로 아이를 영어 유치원에 보낸 것이나 다름없어 아내가 더 좋아한다”며 “아이가 갑자기 아파도 유연 근무제를 활용하면 업무에 지장을 주지 않으면서도 아이를 병원에 데려가는 등 충분히 돌볼 수 있다”고 했다. &lt;br&gt;&lt;br&gt;회사는 최근 사회적으로 난임 부부가 늘고 있는 점을 감안해 관련 지원 제도도 점차 늘리고 있다. LG에너지솔루션은 난임 치료를 받으려는 직원에게 6일 동안 난임 휴가를 주고, 난임 진단을 받은 직원은 최대 6개월 동안 업무를 쉴 수 있는 난임 휴직 제도를 운영하고 있다. 난임 시술을 통해 지난해 쌍둥이를 출산하는 데 성공한 한 직원은 “난임의 경우 병원 검사, 시술을 받는 데 상당한 시간이 걸리고 체력적으로도 많이 힘들기 때문에 하루, 이틀 연차를 쓰는 것으로는 하기 어려운데 장기간 휴직할 수 있어 아이를 갖는 데 성공했다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[오늘의 날씨] 2025년 5월 30일</title>
-      <link>https://www.chosun.com/national/transport-environment/2025/05/30/4SZ3VZPZHBE4VOAXJK4CURWZGQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/05/30/4SZ3VZPZHBE4VOAXJK4CURWZGQ/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 29 May 2025 15:50:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FCH56SH4KRDRDM3GEHRZEE6AKQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[단독] ‘빅4′ 전공의 추가 모집에 서울대 70여명, 세브란스 69명 지원... 지원율 10%</title>
