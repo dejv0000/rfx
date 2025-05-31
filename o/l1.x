@@ -6,6 +6,16 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>노태악 선관위원장, "사전투표 관리 일부 미흡… 혼선에 송구"</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/208496.jpg" alt="34551.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="text-align: center; margin: 10px; font-size: 14px; line-height: 1.6em;"&gt;노태악 중앙선관위원장 《사진=연합뉴스》&lt;/figcaption&gt;   &lt;/figure&gt;&lt;/div&gt;&lt;p&gt;   &lt;span style="font-weight: bold;" class="lawmanlink" serial="1377"&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style="text-align: left;"&gt;&amp;nbsp;&lt;/p&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="1377"&gt;노태악&lt;/span&gt;(63·사법연수원 16기) 중앙선거관리위원장은 5월 29∼30일 진행된 대선 사전투표와 관련해 "관리상 미흡함이 일부 있었다"며 "유권자 여러분께 혼선을 빚게 한 점에 대해 송구스럽게 생각한다"고 밝혔다.&lt;p&gt;&lt;br /&gt;노 위원장은 31일 발표한 대국민 입장문에서 "앞으로 있을 선거일 투표에서는 안심하고 투표할 수 있도록 더욱 철저히 관리하겠다"며 이 같이 말했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;29일&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="2848"&gt;김용빈&lt;/span&gt;(66·16기) 사무총장이 서울 신촌동 사전투표소 투표용지 반출 사태 등이 발생하자 "책임을 통감한다"고 공식 입장문을 낸 데 이어, 이틀 만에 중앙선관위원장이 다시 한번 사과한 것이다.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;노 위원장은 "부정선거 주장 단체에서 조직적으로 사전투표 관리를 방해했다"며 "선관위 직원이 상해를 입거나 사전투표 관리관이 의식을 잃은 사례도 있었고, 선관위 사무실을 침입하는 사례 등도 있었다"고 밝혔다.&lt;/p&gt;&lt;p&gt;&amp;nbsp; &lt;br /&gt;그러면서 "해당 행위는 민주주의 근간을 흔드는 불법행위로, 중앙선관위는 강력 대응할 것"이라고 부연했다.&lt;/p&gt;</description>
+			<pubDate>Sat, 31 May 2025 11:08:31 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/208496</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/208496</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/208496.jpg</media:thumbnail>
+			<dc:creator>홍윤지 기자</dc:creator>
+		</item>
+		<item>
 			<title>【오늘의 국회일정】 2025년 5월 31일</title>
 			<description>&lt;b&gt;◇소통관 기자회견&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;13:20 김현 의원, [더불어민주당 팩트체크넷 민주파출소 일일 브리핑]&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;b&gt;&lt;span style="font-size: 14px;"&gt;※ 상기 일정은 사정에 따라 변경될 수 있습니다.&lt;/span&gt;&lt;/b&gt;</description>
 			<pubDate>Fri, 30 May 2025 22:39:57 -0000</pubDate>
@@ -230,16 +240,6 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/208480</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/208480.jpg</media:thumbnail>
 			<dc:creator>김종완 기자</dc:creator>
-		</item>
-		<item>
-			<title>대한행정사회, 민주당·국민의힘과 ‘행정사 역할 강화’ 정책협약 체결</title>
-			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/thumb/180/208458.jpg" alt="208458_1.jpg" style="width: 320px; height: 213px;" /&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/208458.jpg" alt="208458_2.jpg" style="width: 320px; height: 213px;" /&gt;&lt;/p&gt;&lt;p style="text-align: center;"&gt;   &lt;br /&gt;&lt;/p&gt;대한행정사회(회장 황해봉)는 제21대 대선을 앞두고 지난 5월 29일 행정사회는 오전에는 국민의힘과, 오후에는 더불어민주당과 정책협약식을 체결했다고 30일 밝혔다. 정책협약식에는 황해봉 행정사회 회장과 윤승규 회장 당선인을 비롯한 다수의 행정사가 참석했다.&lt;br /&gt;&lt;br /&gt;민주당은 이번 협약을 통해 △행정사의 공공업무 참여 확대 △행정심판 및 소송에서의 실질적 대리권 확보 △행정사법 개정 등 제도적 개선을 협력 추진하기로 약속했다.&lt;br /&gt;&lt;br /&gt;국민의힘은 △국민권익 보호를 위한 행정사의 역할 강화 △디지털 행정환경 대응 전문성 제고 △행정사 제도 정비를 위한 입법 지원 등을 약속했다.&lt;br /&gt;&lt;br /&gt;박홍근 더불어민주당 총괄선거대책본부 직능본부장은 “행정사는 국민의 행정 접근성을 높이는 핵심 전문가”라며 “민주당은 국민 편익을 높이기 위한 법·제도 개선에 적극 협력하겠다”고 밝혔다.&lt;br /&gt;&lt;br /&gt;윤희숙 여의도연구원장 겸 국민의힘 선거대책위원회 공약단장은 “행정사 제도의 공공성과 전문성을 높이고, 국민에게 실질적인 도움을 주는 방향으로 선거 이후에도 적극적으로 제도 보완을 검토하겠다”고 말했다.&lt;br /&gt;&lt;br /&gt;황해봉 회장은 “이번 협약은 행정 전문가의 사회적 가치를 인정하고, 국민 중심의 행정 서비스 체계를 구현하기 위한 중요한 이정표”라고 평가했다.&lt;br /&gt;&lt;br /&gt;윤승규 회장 당선인은 “앞으로도 지속적인 협의와 정책 제안을 통해 행정사의 법적 지위와 실질적 역할 확대를 이끌어내겠다”고 밝혔다.</description>
-			<pubDate>Fri, 30 May 2025 05:25:09 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/208458</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/208458</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/208458.jpg</media:thumbnail>
-			<dc:creator>조한주 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
