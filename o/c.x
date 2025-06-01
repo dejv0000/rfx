@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>대리 투표 선거 사무원 구속… “증거인멸·도망할 염려”</title>
+      <link>https://www.chosun.com/national/court_law/2025/06/01/VTJIF7EGSRBS5GOE2QVBP6NSQM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/01/VTJIF7EGSRBS5GOE2QVBP6NSQM/</guid>
+      <dc:creator>박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 01 Jun 2025 09:24:54 +0000</pubDate>
+      <content:encoded>제21대 대통령선거 사전투표 첫날 남편 명의로 대리 투표를 한 선거사무원이 1일 구속됐다.&lt;br&gt;&lt;br&gt;서울중앙지법 염혜수 판사는 이날 공직선거법 위반 혐의를 받는 60대 여성 박모씨의 영장실질심사를 진행한 뒤 구속 영장을 발부했다. 염 판사는 “증거를 인멸할 염려와 도망할 염려가 있다”고 구속 사유를 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MOF66AXVMZ755FMV2XJASDVAWE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;제21대 대통령 선거 사전투표 첫날 서울 강남구의 한 투표소에서 배우자의 신분증으로 대리 투표한 혐의를 받는 선거사무원 박 모 씨가 1일 오후 서울 서초구 서울중앙지법에서 열린 구속 전 피의자 심문(영장실질심사)에 출석하고 있다. / 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;박씨는 지난달 29일 정오쯤 서울 강남구 대치2동 사전투표소에서 남편의 신분증으로 투표 용지를 발급받아 대리투표를 한 뒤, 약 5시간 후 자신의 신분증으로 다시 투표한 혐의를 받고 있다. &lt;br&gt;&lt;br&gt;강남구 보건소 소속 계약직 공무원인 박씨는 투표사무원으로 위촉돼 투표 용지를 발급하는 업무를 담당해 이 같은 범행이 가능했던 것으로 알려졌다. 그러나 같은 사람이 하루 두 번 투표하는 것을 수상히 여긴 참관인의 이의 제기로 적발됐다.&lt;br&gt;&lt;br&gt;이날 낮 1시 26분쯤 법원에 출석한 박씨는 “왜 대리 투표를 했느냐”는 취재진 질문에 “죄송하다”고 답했다. “남편과 공모했느냐”는 질문에는 고개를 좌우로 저으며 “아닙니다”라고 했고, 범행을 미리 계획했냐는 물음에는 “순간 잘못 선택했다. 전혀 그런 것 아니다”라고 했다. 또 박씨는 대리 투표가 불법이라는 것을 몰랐으며, 과거 선거 사무원으로 근무할 때는 대리 투표를 한 적이 없다고 했다.&lt;br&gt;&lt;br&gt;경찰은 박씨가 지난 22대 국회의원 선거 때도 삼성2동 사전투표소에서 선거 사무원으로 근무한 이력이 있다는 점을 토대로, 과거에도 유사한 부정행위를 저지른 적이 있는지 등을 추가 조사할 방침이다.&lt;br&gt;&lt;br&gt;공직선거법 제248조는 성명을 사칭하거나 신분증을 위조하는 방법 등으로 투표한 사람에 대해 5년 이하 징역 또는 1000만원 이하 벌금에 처하도록 규정한다. 특히 박씨처럼 선거 사무와 관계있는 공무원이 이 같은 행위를 저지를 경우, 최대 징역 7년까지 처해질 수 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>폭염-가뭄 복합재해 최근 10년새 급증</title>
       <link>https://www.chosun.com/national/transport-environment/2025/06/01/LKQJFI2XZFGQ7F367ZG3WTJPQQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/06/01/LKQJFI2XZFGQ7F367ZG3WTJPQQ/</guid>
@@ -935,15 +944,6 @@
       <description/>
       <pubDate>Fri, 30 May 2025 07:19:05 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/O7HMAYEV2RBETHDX7JZ3XX76VA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이동관 전 방송통신위원장 /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이동관 전 방송통신위원장이 자신의 배우자 청탁 의혹을 보도하고 범죄 보도 화면에 자신의 사진을 썼다는 이유로 방송사 YTN을 상대로 손해배상 소송을 제기했지만 1심에 이어 2심에서도 패소했다. &lt;br&gt;&lt;br&gt;서울중앙지법 민사13부(재판장 문광섭)는 30일 이 전 위원장이 우장균 전 YTN 사장과 기자 등을 상대로 낸 2건의 손해배상 소송 항소심에서 모두 원고 패소로 판결했다.&lt;br&gt;&lt;br&gt;YTN은 지난 2023년 8월 이 전 위원장의 인사청문회가 열리는 동안 이 전 위원장의 아내가 2010년 인사 청탁으로 돈을 받고, 이를 두 달 뒤 돌려줬다는 의혹을 보도했다. &lt;br&gt;&lt;br&gt;YTN은 이에 앞서 같은 해 8월 10일 ‘서현역 흉기 난동 사건’을 보도하며 앵커백(앵커멘트 때 배경화면)에 약 10초간 이 전 위원장의 사진을 잘못 내보내기도 했다. 사고 직후 YTN은 입장문을 내고 “뉴스 그래픽 이미지 오류 사고와 관련해 시청자와 이동관 후보자에게 깊은 유감의 뜻을 전한다”고 했다.&lt;br&gt;&lt;br&gt;이 전 위원장은 배우자 청탁 의혹 보도에 대해 5억원, 사진을 잘못 쓴 방송 사고에 대해선 3억원을 배상하라며 각각 소송을 냈지만 지난해 1심 법원에서 모두 기각됐다. 1심 재판부는 배우자 청탁 의혹 보도에 대해 “공익 목적이 인정되고 YTN이 의혹 당사자와 원고 측 입장까지 확인하는 등 상당한 취재를 했다”고 판단했다. 방송 사고와 관련해서는 초상권 침해 정도가 경미하다고 봤다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“설난영 제정신 아냐” 유시민, 후보자비방죄로 고발당해</title>
-      <link>https://www.chosun.com/national/court_law/2025/05/30/SYSGZSF6K5ECPKV5DHEZBBHZUM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/05/30/SYSGZSF6K5ECPKV5DHEZBBHZUM/</guid>
-      <dc:creator>박강현 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 30 May 2025 05:35:53 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FY34NLL5RN6F3JFRBVULRFRJ5I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울중앙지검. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국민의힘 이종배 서울시의원이 유시민 전 노무현재단 이사장이 김문수 국민의힘 대선 후보의 아내 설난영씨를 두고 “본인이 감당할 수 없는 대통령 후보 배우자 자리에 있어 제정신이 아니다”라는 취지로 비난한 것과 관련해, 유 전 이사장을 공직선거법상 후보자비방죄 혐의로 서울중앙지검에 30일 고발했다.&lt;br&gt;&lt;br&gt;앞서 유 전 이사장은 지난 28일 밤 공개된 친(親)민주당 성향 유튜브 ‘김어준의 다스뵈이다’ 방송에 출연해 설씨가 최근 이재명 더불어민주당 대선 후보의 아내 김혜경씨의 법인카드 유용 의혹을 비판한 것을 언급하며 “설씨가 왜 저러는지 이해할 수 있다”며 “설씨는 세진전자 노조위원장이었고, 김 후보는 한일도루코 노조위원장이었다. 김 후보가 ‘학출’ 노동자, 대학생 출신 노동자로서 ‘찐 노동자’ 하고 혼인한 것이다. 그 관계가 어떨지 짐작할 수 있다”고 발언했다. &lt;br&gt;&lt;br&gt;이어 “설씨가 생각하기에 김 후보는 자신과 균형이 안 맞을 정도로 대단한 사람”이라며 “그런 남자와 혼인을 통해 ‘내가 좀 더 고양됐다’고 느낄 수 있다. 이런 조건에선 자기 남편에 대해 비판적으로 보기가 어렵다”고 주장했다.&lt;br&gt;&lt;br&gt;그러면서 “남편 뒷바라지하고 험하게 살다가 국회의원 사모님이 되고, 경기도지사 사모님이 되면서 남편을 더욱 우러러보게 됐을 것”이라며 “유력 정당의 대통령 후보 배우자라는 자리가 설씨의 인생에선 갈 수 없는 자리다. 이래서 이 사람이 발이 공중에 떠 있다. 그러니까 제정신이 아니다”라고 말했다. 이 과정에서 유 전 이사장은 여성·노동자·학력 비하를 했다는 논란에 휩싸였다.&lt;br&gt;&lt;br&gt;이 시의원은 이날 “공직선거법 제251조의 후보자비방죄는 당선되지 못하게 할 목적으로 사실을 적시해 후보자 또는 그의 배우자를 비방하면 3년 이하 징역 또는 500만원 이하의 벌금에 처한다”며 “유 전 이사장이 김 후보와 설씨가 만나 결혼한 사실에 대해 ‘고양됐다고 느낄 수 있다’ ‘본인이 감당할 수 없는 자리에 온 것이다’ ‘제정신이 아니다’라고 말한 것은 정당한 이유 없이 설씨를 깎아 내리고 헐뜯은 것에 해당한다”고 주장했다.&lt;br&gt;&lt;br&gt;또 그는 “유 전 이사장의 세치 혀가 사회적 흉기로 전락해, 특히 여성·청년 등 약자들에 대한 인격 살인을 서슴없이 저지르고 있다”며 “아무리 치열한 선거 기간이라도 금도가 있는 법인데, 설씨의 인격을 짓밟고 살아온 인생에 오물을 뿌리는 막말을 한 것은 금수만도 못한 저열한 폭력”이라고 지적했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>‘돌고래 스파이커’ 배구 전설 장윤창 별세 </title>
