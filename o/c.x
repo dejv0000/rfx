@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>인천 서구 가좌동 공장 화재…소방관 2명 부상</title>
+      <link>https://www.chosun.com/national/incident/2025/06/02/CNMI66MUINHBLAHUO5P4Y2DIM4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/06/02/CNMI66MUINHBLAHUO5P4Y2DIM4/</guid>
+      <dc:creator>인천=이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 01 Jun 2025 21:36:41 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/X632JETDLS4E4WEGOJJ5X55P2A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2일 오전 3시 23분쯤 화재가 발생한 인천 서구 가좌동의 한 금속제품 제조공장에서 소방 당국이 진화 작업을 벌이고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천 서구 가좌동의 한 공장에서 불이나 소방 당국이 대응 1단계를 발령하고 진화에 나섰다. 이 과정에서 불을 끄던 소방관 2명이 다쳤다. &lt;br&gt;&lt;br&gt;2일 인천소방본부에 따르면 이날 오전 3시 23분쯤 인천시 서구 가좌동의 한 금속제품 제조공장에서 화재가 발생했다. &lt;br&gt;&lt;br&gt;이 불로 진화에 나선 소방 대원 2명이 손과 목 부위에 2도 화상을 입고 119구급대에 의해 병원으로 이송됐다. &lt;br&gt;&lt;br&gt;“건물에서 검은 연기가 많이 나온다”는 신고를 받고 출동한 소방 당국은 오전 5시 36분쯤 ‘대응 1단계’를 발령하고 불을 끄고 있다. 대응 1단계는 소방서 인력 전체가 출동하는 경보령이다. &lt;br&gt;&lt;br&gt;소방 당국은 불이 번질 우려가 있어 대응 단계를 발령했다고 설명했다. &lt;br&gt;&lt;br&gt;인천시 서구는 안전안내문자를 보내 “인근 주택가에선 창문을 닫고 차량은 우회해달라”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>22년 전 대구의 교훈, 서울 지하철 참사 막았다</title>
       <link>https://www.chosun.com/national/national_general/2025/06/02/LBUMKVFVDNABJOGX73GHDMXXJU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/02/LBUMKVFVDNABJOGX73GHDMXXJU/</guid>
@@ -922,15 +931,6 @@
       <media:content url="https://www.chosun.com/resizer/v2/VA5RJ6A4WJH7PNCQNRUOTYTQOQ.png?auth=93e1a28df443da34e52bd1b334c0974c55053a5553854c29ca0caeeccf597956&amp;smart=true&amp;width=929&amp;height=614" type="image/png" height="614" width="929">
         <media:description type="plain">'미션 임파서블' 시리즈의 배우 톰 크루즈</media:description>
       </media:content>
-    </item>
-    <item>
-      <title>인생의 쓴잔을 들이켰다면… 청춘 같은 녹색 사과를 바라보라</title>
-      <link>https://www.chosun.com/national/weekend/2025/05/31/XMICJEAYLJC35K2XKUBHE2NQOI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/weekend/2025/05/31/XMICJEAYLJC35K2XKUBHE2NQOI/</guid>
-      <dc:creator>손관승 글로생활자</dc:creator>
-      <description/>
-      <pubDate>Fri, 30 May 2025 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JV4PB2I24VGQRHPKDPYXAKSDIY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;일본 고베의 안도 갤러리 앞바다를 바라보고 있는 ‘그린 애플’. /손관승 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;소설 ‘빅픽처’를 쓴 더글러스 케네디의 말처럼 여행은 ‘움직이는 고해소’인지도 모른다. 가톨릭 신자들이 사제에게 고해성사하는 것처럼 길을 떠나면 낯선 사람에게 비밀 이야기를 털어놓기도 하니까. 익명성이 보장된다는 심리적 안전감 때문일까. 필리핀 마닐라행 여객기 옆좌석 승객과 한 대화도 그런 경우였다. 기내식으로 비빔밥에 커피 주문한 것까지 같아서 미소를 지었더니 엄지손가락을 치켜세우며 그녀가 사는 시카고에서도 한국 음식점을 자주 간다고 말한다.&lt;br&gt;&lt;br&gt;미국에서 간호사로 일하다 은퇴한 필리핀 여성으로, 집안 행사가 있어 고향을 찾는 길이라 했다. “딸라가 마사랍?”이라 화답했더니 그녀는 놀란 표정이다. 내가 아는 몇 안 되는 필리핀 타갈로그어로 “정말 맛있냐?”라는 뜻이다. 음식과 커피 한잔, 간단한 현지 언어 몇 마디가 사람 사이의 긴장을 풀어주는 묘약인 듯, 그녀는 살아온 인생을 술술 털어놓았다. 20년 전 갑자기 필리핀인 남편이 사망해 먹고살기 위해 자식들을 두고 미국으로 취업 이민을 떠났다가 지금의 미국인 남편과 재혼했다고 한다. 새 남편과 사이는 좋지만, 세상을 떠난 옛 남편이 가끔 그리워질 때면 듣는 한국 노래가 있단다. 어떤 노래인지 묻자 ‘I miss you’라는 답변이 돌아왔다. 무슨 노래지? 즉각 떠오르지 않아 머뭇거리고 있었더니 그녀는 서툰 한국어 발음으로 가사를 읊조린다. “이러면 안 되지만/ 죽을 만큼 보고 싶다~.”&lt;br&gt;&lt;br&gt;드라마 ‘천국의 계단’에서 흘러 나오던 김범수의 ‘보고 싶다’였다. 그녀의 눈시울은 어느새 축축이 젖어 있다. 지극히 평화롭고 행복해 보이는 사람들도 가슴 깊은 어딘가에 상처를 감춰두고 있는 법이다. 지루할 틈 없이 비행 4시간이 훌쩍 지나고 내릴 때가 되었다. 좌석이 복도 쪽인 그녀는 안쪽에 앉아 있던 나에게 먼저 나가라고 하는데 그 이유가 나를 놀라게 했다. “휠체어를 기다려야 해서.” 얼마 전 심장에 문제가 생기는 바람에 휠체어 타는 신세가 되었다며 쑥스러운 표정으로 웃는다. 남다른 아픔이 있고 몸도 편치 않지만, 그녀는 의연했다. 헤어지기 직전 그녀가 선물처럼 한마디 건넨다. “나이 먹는 게 가장 힘들다고 했죠? 고베의 안도 갤러리에서 ‘그린 애플’을 만나 보세요. 왠지 선생님에게 어울릴 것 같아요.”&lt;br&gt;&lt;br&gt;그렇지 않아도 매사 심드렁하던 이즈음이었다. 준비했던 일이 잘 풀리지 않아 인생의 고배(苦杯)를 든 것 같은 심정이 될 때 고베로 가서 안도의 작품을 만난다면 안도(安堵)하는 마음이 들까? 그렇게 언어유희를 하고 있는데 고베 직항로가 열렸다는 소식이 들렸다. 고베는 무라카미 하루키의 초기 소설 무대이기에 한번쯤 가보고 싶다는 생각을 오래전부터 하고 있었다. 이웃 오사카와 달리 번잡하지 않고 걷기에 좋은 도시이니 발바닥으로 이 도시를 만나기로 했다. 바닷가 워터프런트를 걷다가 지진 메모리얼 파크에 이르러서야 올해가 고베와 한신 대지진 30주년이란 사실을 알았다. 대지진 재해 기념관에도 단체 견학하러 온 학생들 행렬이 길게 늘어서 있었다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/767NYV3KCNFOXL653JQCRVMKS4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;30년 전 고베 한신대지진 메모리얼 파크 /손관승 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;과거 경험한 공포스러운 감정이 되살아나면서 겪는 정신적 외상을 가리켜 트라우마라 한다. 효고 현립 미술관은 지진의 집단 트라우마를 치유하고 다시 일어서자는 의미로 세운 문화 공간이다. 고베는 효고현에 속한 대표 도시이며, 이 미술관을 설계한 사람이 안도 다다오, 효고현에서 태어나 오사카에서 성장한 그였기에 지역민들의 트라우마 극복을 위한 프로젝트에 누구보다 앞장섰다. 건축계의 노벨상이라는 프리츠커상을 받았으며, 예술의 섬 나오시마 프로젝트로 화제가 된 세계적 건축가이며, 원주의 ‘뮤지엄 산’과 제주도 작품도 있어 한국과도 친숙하다.&lt;br&gt;&lt;br&gt;미술관의 대계단을 지나 우측에 안도 갤러리가 있다. 뒤로는 산, 앞에는 바다, 그 사이 환상적인 공간에 갤러리가 자리 잡았는데, 옥상에 사람보다 키가 큰 녹색 사과가 보인다. 비행기 옆자리의 그녀가 보라고 한 바로 그린 애플이다. “청춘은 인생의 시간이 아니라 마음의 상태이다”로 시작되는 새뮤얼 울먼의 유명한 시 ‘청춘(Youth)’을 시각화한 것으로, 추상적 개념을 직관적으로 느끼게 해주는 안도 특유의 힘이 느껴진다. 갤러리에서는 ‘청춘’을 주제로 한 안도 다다오 전시회가 열리고 있는데, 동영상으로 거장의 생생한 목소리를 들을 수 있었다. “60세에 퇴직한다면 대략 30년을 어떻게 보낼 것인가 중요합니다. 호기심이 있고 가슴속에 불타는 무언가가 살아 있다면 나이와 상관없이 청춘(靑春)이라 생각합니다. 저 녹색 사과처럼 청춘으로 살았으면 좋겠습니다.” &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KKTDDM23XNCOZI5MYPFATDHE5I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;안도 다다오의 ‘청춘’ 주제 전시회 포스터. /손관승 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;빛과 바람 등을 소재로 도시에 활력 주는 건축가로 활동했던 그가 이제는 삶의 활력을 강조하고 있다. 속절없이 나이 들어간다는 심정은 인간의 원초적 트라우마에 가깝다. 젊은 시절 권투 선수와 트럭 운전기사를 했으며 전문 교육을 받지 않고도 위대한 건축가의 반열에 오른 안도의 나이 어느덧 84세. 암 수술을 받고 여러 곳의 내장도 떼어내는 등 병마와 싸우면서도 청춘을 말하고, 내면의 무기력함을 떨쳐버리자고 응원가를 부른다. &lt;br&gt;&lt;br&gt;건축이란 실제로 현장을 찾아가 그 공간을 오감으로 체험해야 비로소 이해할 수 있는 것이며, 여행이 인간을 만든다고 했던 그의 글이 떠오른다. 이곳이 바로 그렇다. 꿈틀거리는 어떤 기운이 느껴진다. 어디선가 김광석의 노래가 들려오는 듯하다. “일어나 일어나/ 봄의 새싹들처럼/ 다시 한번 해보는 거야~.”&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>‘서해의 몰디브’ 민어도, ‘감성 캠핑 성지’ 병술만… 여름보다 ‘핫’한 태안의 바다</title>
