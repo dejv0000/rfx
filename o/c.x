@@ -13,6 +13,87 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>시민단체, ‘사전투표 부실논란’ 서울·경기선관위원장 등 검찰에 고발</title>
+      <link>https://www.chosun.com/national/court_law/2025/06/01/HXI2KGBTINAJPHXXSSHEYJEDPE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/01/HXI2KGBTINAJPHXXSSHEYJEDPE/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 01 Jun 2025 03:34:06 +0000</pubDate>
+      <content:encoded>지난달 29∼30일 21대 대선 사전투표 과정에서 발생한 선거관리위원회의 부실관리 논란과 관련해 선관위원장을 겸임하는 법관 등 관계자 10여 명이 검찰에 고발됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OWNS2PHMTBORZB7D5J6YPXWKRE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;제21대 대선 사전투표가 종료된 지난달 30일 경기도 과천 중앙선거관리위원회 선거종합상황실 전광판에 최종 투표율이 나오고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;시민단체 서민민생대책위원회는 1일 서울시선관위 오민석 위원장과 김범진 사무처장을 비롯해 강남구·서대문구 위원장, 경기도선관위 김세윤 위원장과 용인시 수지구·부천시 오정구·김포시 선관위원장 및 사무처장·국장 등 16명을 서울중앙지검에 직무유기 등 혐의로 고발했다고 밝혔다.&lt;br&gt;&lt;br&gt;서울시 선관위원장은 오민석 서울중앙지방법원장이, 경기도 선관위원장은 김세윤 수원지방법원장이 겸임하고 있다. 이 밖에도 각 지역선관위의 위원장은 지방법원장·지원장, 지법 부장판사 등이 맡고 있다. 중앙선거관리위원장은 노태악 대법관이 겸임하고 있다.&lt;br&gt;&lt;br&gt;이번 고발은 지난달 29일 강남구 대치2동 사전투표소에서 벌어진 ‘사무원 대리 투표’ 사건 등이 계기가 됐다. 서대문구 신촌동 옛 주민센터 투표소에서는 일부 선거인이 투표용지를 받은 채 외부 식사를 하고 돌아왔고, 부천 신흥동 투표소와 김포 장기동 투표소에서는 22대 총선 투표용지가 투표함에서 발견되기도 했다.&lt;br&gt;&lt;br&gt;서민위는 이 같은 일이 발생한 것이 선관위의 관리 감독 소홀 때문에 벌어졌다며 각 투표소 관할 선관위 책임자들을 검찰에 고발한 것이다. 서민위는 경기 용인 수지구 성복동 주민센터 투표소에서 선거 참관인으로부터 “회송용 봉투에서 이재명 더불어민주당 후보에게 기표된 투표용지가 나왔다”는 신고를 접수하고도 선관위가 ‘자작극으로 의심된다’며 수사의뢰한 것은 부적절한 대처였다고도 지적했다.&lt;br&gt;&lt;br&gt;서민위는 지난달 30일엔 옛 신촌동 사전투표에서 투표용지를 지참한 선거인이 외부 식사를 한 것과 관련해 노 위원장, 김용빈 사무총장, 허철훈 사무차장을 직무유기 혐의로 서울남부지검에 고발한 바 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“벌금 이미 냈다” 말에 속아 수배범 놓친 검찰 수사관...법원 “정직 정당”</title>
+      <link>https://www.chosun.com/national/court_law/2025/06/01/YWOFZM5ABRFRHOLLJPVZTLET3I/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/01/YWOFZM5ABRFRHOLLJPVZTLET3I/</guid>
+      <dc:creator>박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 01 Jun 2025 03:11:31 +0000</pubDate>
+      <content:encoded>지명수배자 관리를 소홀히 한 검찰 수사관이 정직 처분을 받은 것은 정당하다는 법원 판단이 나왔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PN2FKJA7XJHIVLOA2K6VUFQYEA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 강남대로 서울가정법원·서울행정법원 청사 /전기병 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울행정법원 행정2부(재판장 고은설)는 최근 검찰 수사관 출신 장모씨가 검찰총장을 상대로 낸 정직 처분 취소 소송에서 원고 패소로 판결했다고 1일 밝혔다.&lt;br&gt;&lt;br&gt;이 사건은 장씨가 부산동부지청 집행과에서 근무하던 2023년 7월, 벌금미납 지명수배범 A씨의 신병 관리를 맡은 것이 발단이 됐다. 벌금 약 1190만원을 미납해 지명수배 상태였던 남성 A씨는 택시 요금을 또 미납하면서 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;A씨의 신병을 인계 받은 장씨는 신체검사 없이 A씨를 임시 유치실로 인치했다. 휴대전화 2대를 소지한 채 인치된 A씨는 자신의 동거녀에게 연락해 ‘벌금을 입금했다’는 허위 문자를 보내게 한 뒤, 이를 장씨에게 보여주며 벌금을 납부했다고 주장했다. 장씨는 이를 그대로 믿고 A씨를 구치소로 호송하지 않았다. &lt;br&gt;&lt;br&gt;이후 장씨는 잠시 동료 여성 수사관에게 계호 업무를 맡기고 카페에 다녀왔다. 이 틈을 타 A씨는 “화장실 가겠다”는 핑계로 자리를 비운 뒤, 택시를 타고 달아났다. 결국 장씨는 이 사건으로 작년 3월 정직 2개월 처분을 받았다.&lt;br&gt;&lt;br&gt;장씨는 정직 처분은 과도하다며 행정소송을 냈지만, 법원은 그의 주장을 받아들이지 않았다. 재판부는 A씨와 성별이 달라 화장실 사용 시 상황 대처가 어려운 여성 수사관에게 신병 업무를 맡기고 근무지를 이탈한 것은 부적절하다고 판단했다.&lt;br&gt;&lt;br&gt;그러면서 재판부는 “신병관리 업무는 사람의 신체의 자유를 제한하는 일이므로 성실하게 수행돼야 하며 직무태만은 엄히 규율할 필요가 있다”며 “장씨의 불성실한 업무 처리로 검찰의 신병 업무 처리에 대한 신뢰가 크게 실추됐다”고 지적했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[단독] ‘정직 1개월 징계’ 이정현 검사장, “징계 멈춰달라” 신청했지만... 법원이 기각</title>
+      <link>https://www.chosun.com/national/court_law/2025/06/01/EBYSPP72RREOJKJJ75P4ERGYUE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/01/EBYSPP72RREOJKJJ75P4ERGYUE/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 01 Jun 2025 01:35:20 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QQTRIVNJQR3NN46JBVW5OZGRPU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 양재동 행정법원 전경./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;법무연수원 연구위원으로 근무하며 연구 논문을 제출하지 않고, 제출 기한 연장 승인도 받지 않아 정직 1개월 처분을 받은 이정현(사법연수원 27기) 검사장이 법무부의 징계 집행을 멈춰달라는 신청을 냈지만 법원이 기각한 것으로 1일 확인됐다. 이 검사장은 2020년 서울중앙지검 1차장검사로 재직하면서 채널A 사건 수사를 지휘한 인물이다.&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 서울행정법원 행정2부(재판장 고은설)는 이 검사장이 법무부 장관을 상대로 징계처분을 취소해달라는 소송을 내면서 함께 낸 집행 정지 신청을 지난달 30일 기각했다. 재판부는 결정문에서 이 검사장과 법무부 각각의 주장에 대한 판단 이유는 밝히지 않은 것으로 전해졌다. 재판부는 집행정지 신청이 접수된 뒤 직권으로 집행을 정지했지만, 기각 결정을 내리면서 이 검사장에 대한 징계는 다시 효력이 발생했다.&lt;br&gt;&lt;br&gt;이 검사장 징계의 핵심은 논문 제출 기한의 연장 승인을 신청했는지 여부다. 대검찰청은 작년 12월 이 검사장의 징계를 법무부에 청구하면서, 이 검사장이 1년 이내에 연구 논문을 제출해야 한다는 법무연수원 운영 규정을 지키지 않았고, 제출 기한 연장 승인도 받지 않았다고 했다. 법무부는 지난 4월 이 검사장에게 정직 1개월의 징계를 의결했다.&lt;br&gt;&lt;br&gt;이와 관련해 이 검사장 측은 “단지 서면으로 연장 승인을 받지 않았다는 형식적인 규정 위반을 들어 징계를 단행한 것”이라며 “연장 승인 규정은 훈시 조항에 불과하다”고 했다. 양측은 지난달 20일 집행정지 심문 기일에 나와 법정 공방을 벌였다.&lt;br&gt;&lt;br&gt;이 검사장 측은 법원의 기각 결정 후 즉시항고를 했다. 그러나 행정소송법 제23조에 따르면 즉시항고는 징계 집행을 정지할 수 있는 효력은 없다. 항고심은 서울고법이 심리하게 될 전망이다.&lt;br&gt;&lt;br&gt;한편 이 검사장이 지난달 8일 낸 징계처분취소 본안 소송은 아직 첫 심문 기일이 지정되지 않았다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘챔스 우승’ 이뤄낸 이강인, 알고보니 10살 슛돌이 시절 꿈이었다</title>
+      <link>https://www.chosun.com/national/people/2025/06/01/4OKDH5FEBFHQXD6UZRUEJTG56M/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/06/01/4OKDH5FEBFHQXD6UZRUEJTG56M/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 01 Jun 2025 00:17:30 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6H2MQWRMKZLJPJJLPJBPA4JJ4E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;파리 생제르맹 선수단이 1일(한국 시각) UEFA 챔피언스리그 우승 세리머니를 벌이고 있다. 주장 마르퀴뇨스(가운데)가 트로피를 들어올렸고, 그 왼쪽에서 이강인이 기뻐하고 있다. /로이터 연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한국 국가대표 축구선수 이강인(24)이 소속된 프랑스 파리 생제르맹(PSG)이 1일 UEFA(유럽축구연맹) 챔피언스리그(UCL) 우승을 차지하자 온라인에선 챔피언스리그 우승이 이강인의 어린 시절 꿈이었던 사실이 재조명되고 있다. &lt;br&gt;&lt;br&gt;PSG는 이날 독일 뮌헨 알리안츠 아레나에서 열린 2024-2025시즌 UCL 결승전에서 인테르 밀란(이탈리아)을 5대0으로 대파하고 우승했다.&lt;br&gt;&lt;br&gt;한국 선수가 UCL 우승을 경험한 건 2007-2008시즌 맨체스터 유나이티드(잉글랜드) 소속으로 우승한 박지성 이후 두 번째다. 손흥민은 2019년 UCL 결승 무대에 섰으나 아쉽게 준우승에 그쳤다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4V2FQWCCZVBKXOWHRGGN2Y6V5Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이강인이 10살때 한 방송에 출연해 축구선수로서의 목표를 말하고 있다. /온라인커뮤니티&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;예능 프로그램 ‘날아라 슛돌이’로 유명해진 이강인은 10세 때 한 방송에서 ‘축구 선수로서의 목표’를 묻는 질문에 ‘국가대표’ ‘훌륭한 축구 선수’ ‘챔피언스리그 우승’이라고 답했다. 이번 우승으로 이강인은 세 가지 목표를 모두 이룬 셈이 됐다. &lt;br&gt;&lt;br&gt;이날 교체 명단에 이름을 올린 이강인은 끝내 결승전 무대를 밟지는 못했지만 우승이 확정되는 순간 동료들과 기쁨을 나누며 환하게 웃었다. &lt;br&gt;&lt;br&gt;네티즌들은 이강인이 10세 때 챔피언스리그 우승을 목표로 꼽았던 사실을 재조명하며 “24세에 모든 목표를 이뤘으니 정말 대단하다” “월드컵 우승을 목표로 하지 않은 것을 보니 현실 감각이 뛰어나다” “저 때 정말 챔피언스리그 우승을 할 수 있을 거라고 생각했을까” 등의 반응을 보였다. &lt;br&gt;&lt;br&gt;한편 PSG는 1970년 창단 이후 55년 만에 첫 UCL 우승을 경험했다. 올 시즌 자국 리그와 컵 대회, UCL 우승을 모두 이루는 ‘트레블’도 이뤘다. 유럽 축구 역사상 아홉 번째 기록이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>항공 기내서 출산한 신생아 숨져… 경찰 사인 조사  </title>
+      <link>https://www.chosun.com/national/incident/2025/06/01/67H7EDMZ4FERFCV3CXPKJX3ZDI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/06/01/67H7EDMZ4FERFCV3CXPKJX3ZDI/</guid>
+      <dc:creator>인천=이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 01 Jun 2025 02:18:51 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RCS5IBMZENAZSL4HUDEMQG7QJI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;필리핀에서 출발해 인천국제공항에 도착한 여객기에서 외국인 승객이 출산한 신생아가 숨져 경찰이 수사에 나섰다.&lt;br&gt;&lt;br&gt;1일 인천국제공항경찰단 등에 따르면 이날 오전 6시 40분쯤 “비행기 안에서 태어난 아이가 숨을 쉬지 않는다”는 신고가 119에 접수됐다. &lt;br&gt;&lt;br&gt;심정지 상태의 갓 태어난 남자아이는 병원으로 긴급 이송됐으나 끝내 숨졌다. &lt;br&gt;&lt;br&gt;산모인 필리핀 국적의 30대 여성은 생명에 지장이 없는 것으로 알려졌다. &lt;br&gt;&lt;br&gt;이 여객기는 제주항공 소속으로, 필리핀 클라크에서 출발해 이날 오전 6시 21분쯤 인천공항에 도착한 것으로 파악됐다. &lt;br&gt;&lt;br&gt;경찰은 산모와 항공사 관계자 등을 상대로 출산 과정과 사망 원인 등을 조사할 방침이다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“내가 구청장 비선실세”, 로비자금 2억여원 가로챈 40대… 징역 2년 </title>
+      <link>https://www.chosun.com/national/court_law/2025/06/01/333NSSGK7VDSJHO4X27YGVDUNQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/01/333NSSGK7VDSJHO4X27YGVDUNQ/</guid>
+      <dc:creator>인천=이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 01 Jun 2025 01:41:42 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AAOSHKZWIEITLJBENAYWED6NBA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원 로고./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;자신이 인천 모 구청장의 비선실세라고 속이고 로비 자금을 보내주면 공사를 수주할 수 있게 해주겠다며 2억여원을 가로챈 40대 남성에게 실형이 선고됐다. &lt;br&gt;&lt;br&gt;인천지법 형사 11단독 김샛별 판사는 위조공문서 행사, 사기 등 혐의로 기소된 A(43)씨에 대해 징역 2년을 선고했다고 1일 밝혔다. &lt;br&gt;&lt;br&gt;A씨는 지난 2023년 2월 인천 남동구의 한 음식점에서 지인을 통해 소개받은 B씨에게 “인천 모 구청장의 비선실세”라고 속이고 “로비 자금을 보내주면 (공기업이) 시행하는 공사를 수주할 수 있도록 도와주겠다”며 총 9차례에 걸쳐 2억6800여만원을 받아 가로챈 혐의로 기소됐다. &lt;br&gt;&lt;br&gt;A씨는 또 2023년 11월엔 B씨에게 돈을 뜯어내기 위해 자신이 인천시장 비서실장으로 임명돼 근무하고 있는 것처럼 속이기도 했다. &lt;br&gt;&lt;br&gt;A씨는 ‘귀하를 인천광역시장 비서실장으로 임명합니다’ 등의 내용이 담긴 임명장을 위조해 휴대전화로 사진을 찍어 B씨에게 전송한 것으로 조사됐다. &lt;br&gt;&lt;br&gt;김 판사는 “피고인은 약 2억7000만원의 거액을 B씨로부터 가로챘고, 이 과정에서 공문서 위조&lt;b&gt;·&lt;/b&gt;행사 등 범행까지 저질러 죄책이 무겁다”며 “피해가 회복되지 않았고, 피해자가 엄벌을 탄원하고 있다”고 했다. &lt;br&gt;&lt;br&gt;이어 “피고인이 잘못을 인정하며 반성하는 점, 로비 자금 등 명목으로 돈을 지급한 피해자에게도 범행 발생의 일부 책임이 있는 점 등을 고려했다”고 양형 이유를 설명했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>제주공항서 70대 여성 쓰러지자, 슈퍼맨처럼 나타난 한 남성</title>
+      <link>https://www.chosun.com/national/regional/2025/05/29/3CG6TGMIOBD4ZG5FKFRM22OSQQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/05/29/3CG6TGMIOBD4ZG5FKFRM22OSQQ/</guid>
+      <dc:creator>제주=오재용 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 29 May 2025 07:17:08 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WBBNN3M4HJVKRTDSIXVH3F4IZM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤남호 롯데면세점 제주공항점장.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제주국제공항에서 쓰러진 70대 여성을 공항 면세점 직원이 신속한 응급처치로 살렸다.&lt;br&gt;&lt;br&gt;29일 제주도소방안전본부 등에 따르면 지난 28일 오후 3시30분쯤 제주공항 국제선 출발 대합실에서 70대 여성 A 씨가 갑자기 쓰러졌다.&lt;br&gt;&lt;br&gt;당시 현장 인근에 있던 한 남성이 바로 달려와 심폐소생술(CPR)을 2분가량 진행했다. 또 다른 남성은 심장충격기를 가져왔다. 이들의 빠른 조치로 A 씨는 의식을 되찾은 후 119 구급대에 의해 제주시 소재 병원으로 이송됐다.&lt;br&gt;&lt;br&gt;당시 구조에 나선 남성은 윤남호 롯데면세점 제주공항점장으로 확인됐다.&lt;br&gt;&lt;br&gt;윤 점장은 “매장 10m 앞에서 사람들이 모여 웅성거리는 소리를 듣고 무슨 일이 있구나 싶어서 달려갔다”며 “어머니 나이대 여성 분이 쓰러져 계셨고, 어깨도 흔들어보고 코 밑에 손가락을 대보니 호흡이 없어 심폐소생술을 진행했다”고 당시 상황을 설명했다.&lt;br&gt;&lt;br&gt;윤 점장은 한국소방안전원에서 발급하는 1급 소방안전관리자 자격증도 소지하고 있다. 약 3년 전 회사의 권고와 지원을 통해 취득한 것이다.&lt;br&gt;&lt;br&gt;윤 점장은 “평소 회사에서 안전을 중요하게 여기는 만큼 연동 119센터를 통한 주기적인 직원 교육, 제주안전체험관에서의 체험활동 등을 해왔다. 덕분에 CPR 등 응급처치법을 숙지할 수 있었다”고 밝혔다.&lt;br&gt;&lt;br&gt;한편 윤 점장은 지난해 12월 100번째 헌혈을 달성해 지난 2월 대한적십자사 회장 표창을 받기도 했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>수면제 복용 후 ‘비몽사몽’ 운전… 사망사고 낸 40대 ‘집유’ </title>
+      <link>https://www.chosun.com/national/regional/2025/06/01/RTMHTMAG6ZDY5D7BC3YV3VGSOI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/06/01/RTMHTMAG6ZDY5D7BC3YV3VGSOI/</guid>
+      <dc:creator>우정식 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 01 Jun 2025 01:15:51 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RCDUZU42UZDPPAYLO6U3F5GYMI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원 로고. /조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;졸피뎀 성분이 포함된 수면제를 복용한 뒤 운전하다 사고를 내 8명의 사상자를 발생하게 한 혐의로 기소된 운전자에게 징역형의 집행유예가 선고됐다.&lt;br&gt;&lt;br&gt;1일 법조계에 따르면 대전지법 형사12단독 이재민 부장판사는 특정범죄가중처벌법상 위험운전치사상 혐의로 재판에 넘겨진 A(47)씨에게 징역 3년에 집행유예 5년을 선고했다.&lt;br&gt;&lt;br&gt;A씨는 2023년 2월 6일 오전 9시 55분쯤 대전 서구 관저동 한 교차로에서 전날 복용한 수면제 약물 영향이 남아 있는 상태에서 운전하다 맞은편 도로를 달리던 B(66)씨의 차량과 충돌했다. 사고 여파로 인근에 있던 차량 6대가 잇따라 부딪혔다. 이 사고로 B씨가 현장에서 숨지고, 다른 운전자 등 7명이 다쳤다.&lt;br&gt;&lt;br&gt;A씨는 당시 제한속도 60㎞ 도로에서 108㎞로 과속 운전한 것으로 나타났다. 오랜 기간 우울증과 공황장애를 앓았던 A씨는 사고 전날 저녁 치료제를 복용했고, 취침 전 졸피뎀 성분이 포함된 스틸녹스 수면제를 먹은 것으로 조사됐다.&lt;br&gt;&lt;br&gt;그는 그동안 수면제를 복용하면서 별다른 부작용이 없었고, 운전 시점은 수면제 복용 후 상당한 시간이 지나 약물 성분이 체내에 거의 남아 있지 않은 상태였다고 무죄를 주장했다. 하지만 법원은 이를 받아들이지 않았다.&lt;br&gt;&lt;br&gt;이 부장판사는 “피고인은 수면제를 복용해 정상적인 운전이 곤란한 상태였고, 이에 따라 적정한 속도로 운전하지 못하고 조향 및 제동장치도 적절하게 조작하지 못해 사고를 일으켰다는 점을 충분히 인정할 수 있다”고 판시했다.&lt;br&gt;&lt;br&gt;그러면서 “피고인이 형사 처벌을 받은 전력이 없고, 사망자 유족과 합의해 유족이 처벌을 원하지 않는 점, 피고인도 현재까지 휠체어에 의지해 생활하며 앞으로 장애를 갖고 살아가게 될 것으로 보이는 점 등을 고려했다”고 양형 이유를 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>북한산서 암벽 등반하던 30대 남성 추락 사망 </title>
+      <link>https://www.chosun.com/national/national_general/2025/06/01/B5AVW6NYK5FITMFOGSZJZLCK7M/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/01/B5AVW6NYK5FITMFOGSZJZLCK7M/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 01 Jun 2025 01:19:31 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/X4WX55AXSBGOJAEPHUXGIU3CIA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 관련 이미지. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;북한산에서 암벽 등반을 하던 30대 남성이 추락해 사망하는 사고가 발생했다.&lt;br&gt;&lt;br&gt;1일 경찰과 소방 당국 등에 따르면 전날(5월 31일) 오후 4시쯤 경기 고양시 덕양구 인근 북한산 인수봉에서 암벽 등반을 하던 30대 남성 A씨가 약 30m 아래로 추락하는 사고가 발생했다. &lt;br&gt;&lt;br&gt;이 사고로 전신 다발성 골절 등을 입은 A씨는 병원으로 옮겨졌지만 결국 사망했다.&lt;br&gt;&lt;br&gt;경찰은 구체적인 사고 경위 등을 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>학대하던 父의 죽음, 그 이후…쓰레기집 속 청년의 ‘재시작’ 이야기</title>
       <link>https://www.chosun.com/national/national_general/2025/06/01/RV4FZUOAL5FBDPA3BGW5Z3536Y/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/01/RV4FZUOAL5FBDPA3BGW5Z3536Y/</guid>
@@ -781,17 +862,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BEAZ55KKZADFOQBMGZLY4H2A5M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이달 초 한국교통대 구성원들의 통합 추진 기자회견 모습(왼쪽)과 지난달 열린 충주 지역사회단체의 통합 반대 기자회견. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정부 지원을 등에 업고 대학을 합치겠다고 나섰던 지방 대학들 대부분이 갈등을 극복하고 통합 절차를 끝내가는 가운데, 충북대와 국립한국교통대만 교명(校名)과 통합 방향을 두고 이견을 좁히지 못하는 것으로 나타났다.&lt;br&gt;&lt;br&gt;교육부는 혁신하는 지방 대학에 1000억원을 지원하는 글로컬 대학 사업에 학교 통합을 내걸고 선정됐던 부산대·부산교대, 강원대·국립강릉원주대, 국립목포대·전남도립대, 국립창원대·경남도립거창대·경남도립남해대 등 9개 대학 통합을 최종 승인했다고 30일 밝혔다. 부산대·부산교대는 ‘부산대’로 2027년 3월 통합 출범하고, 나머지 3곳은 내년 3월 통합 대학으로 출범한다. 앞서 글로컬 대학 사업에 선정됐던 안동대·경북도립대는 국립경국대로 올해 3월 통합 출범했다.&lt;br&gt;&lt;br&gt;각 대학은 학교를 합치는 과정에서 학교 구성원 간, 학교와 지역사회 간 갈등이 격화했지만 끝내 합의해 출범만 앞두고 있다. 그런데 재작년 글로컬 대학 사업에 선정된 충북대·교통대만 이번 통합 승인 명단에서 제외됐다.&lt;br&gt;&lt;br&gt;교명부터가 문제다. 두 대학은 통합 대학 이름을 두고 첨예한 갈등을 벌이다 작년 말 ‘충북대’로 정하고 교육부에 통합 신청서를 냈다. 그러자 교통대 캠퍼스가 위치한 경기 의왕시 지역 주민들이 발끈하고 나섰다. 경기 의왕시에 있는 캠퍼스 이름에 다른 지역명인 ‘충북’이 들어가는 것은 상식적이지 않다는 것이다. 교통대는 2011년 경기 의왕의 한국철도대와 청북 충주의 충주대가 통합해 개교한 학교다.&lt;br&gt;&lt;br&gt;지역 정치권까지 가세하며 교명 갈등은 더 커지는 모양새다. 지난 2월 의왕시의회가 “의왕시에 유일 4년제 대학이 지역성과 전통성이 반영되지 않은 명칭을 가지는 것은 지역 자긍심을 약화한다”는 입장을 밝힌 데 이어, 김성제 의왕시장도 14일 입장문을 내고 “통합은 단순히 학교 간 문제가 아니다. 통합의 방향성을 다시 생각해야 한다”고 했다.&lt;br&gt;&lt;br&gt;교통대의 또 다른 캠퍼스가 위치한 충북 충주 지역 주민들도 지난달 ‘통합반대비상대책위’를 만들고 지난 15일부터 통합 반대 서명 운동까지 시작했다. 이들은 대학 본부 위치가 충북대로 정해지자 “교통대가 충북대에 흡수 통합되는 것”이라며 “교통·물류 특성화 대학이란 정체성 자체가 사라지게 된다”고 통합에 반대하고 있다.&lt;br&gt;&lt;br&gt;교육부 관계자는 “지역 사회와의 협의 문제와 더불어 유사 학과 운영 방안 등을 두고 두 대학이 명확한 합의를 아직 이루지 못해 통합 승인이 늦어지고 있다”고 했다. 앞서 안동대·경북도립대도 ‘경북국립대’ ‘국립경북글로컬대’ 등을 통합 교명으로 추진하다 지역 사회 간 첨예한 갈등이 이어지다 결국 국립경국대로 이름을 바꿨다.&lt;br&gt;&lt;br&gt;충북대·교통대는 아무리 늦어도 정부에 2027학년도 대입 전형 시행 계획을 제출하는 내년 4월 이전에는 통합 승인을 얻어야 한다. 통합에 합의하지 못할 경우 글로컬 대학 지정이 취소되고 그간 정부로부터 받은 지원금도 환수 조치된다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>병역법 처벌에도 또 입영 거부한 30대 ‘징역 2년’</title>
-      <link>https://www.chosun.com/national/court_law/2025/05/30/MKZPMK3JBZHNXCL3S3TW7PT2H4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/05/30/MKZPMK3JBZHNXCL3S3TW7PT2H4/</guid>
-      <dc:creator>춘천=정성원 기자</dc:creator>
-      <description>병역법 위반으로 처벌을 받은 적 있는 30대가 또다시 신병교육대 입영을 거부해 법원으로부터 징역형을 선고받았다.
-춘천지법 형사3단독 박동욱 판사는 병역법 위반 등 혐의로 기소된 A(31)씨에게 징역 2년을 선고했다고 30일 밝혔다.
-</description>
-      <pubDate>Fri, 30 May 2025 05:34:40 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RJ2RVCFIXF7PW6QR6JJNXC5V6M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;춘천지법 전경./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;병역법 위반으로 처벌을 받았던 30대가 또다시 신병교육대 입영을 거부해 법원으로부터 징역형을 선고받았다.&lt;br&gt;&lt;br&gt;춘천지법 형사3단독 박동욱 판사는 병역법 위반 등 혐의로 기소된 A(31)씨에게 징역 2년을 선고했다고 30일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 ‘2023년 11월 13일까지 군사교육을 받으러 신병교육대에 입영하라’는 사회복무요원 군사교육 소집통지서를 받고도 정당한 사유 없이 입영하지 않은 혐의를 받고 있다. 그는 입영을 거부한 것 외에도 2023년 10월 15일 강원 춘천시에서 택시를 타고 이동하던 중 ‘소변이 마렵다’며 정차를 요구한 뒤 아무 이유 없이 택시 기사에게 폭력을 휘두르기도 했다.&lt;br&gt;&lt;br&gt;A씨는 앞서 춘천지검에서 사회복무요원으로 근무하던 중 아무런 이유 없이 복무를 이탈한 것은 물론 음주운전 혐의로 징역 10개월을 선고받고 2023년 10월 2일 출소한 바 있다. 또 2017년에도 병역법 위반 혐의로 집행유예를 받은 전력도 있었다.&lt;br&gt;&lt;br&gt;박 판사는 “출소한 지 열흘여 만에 택시 기사를 폭행하고 군사교육 소집에 응하지 않아 재차 병역법 위반죄를 저지르는 등 죄질이 좋지 않다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>법원, “방통위가 내린 방문진 이사 해임 및 MBC 방송 제재 처분 취소해야”</title>
       <link>https://www.chosun.com/national/court_law/2025/05/30/NJFAHK5RMBA7PEIG4CM3CRFYSQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/05/30/NJFAHK5RMBA7PEIG4CM3CRFYSQ/</guid>
@@ -799,15 +869,6 @@
       <description/>
       <pubDate>Fri, 30 May 2025 05:33:21 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VSAM4FXYRDJHK5KLIPCP362BQA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기도 과천시 정부과천청사 방송통신위원회 모습./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;방송통신위원회(방통위)가 김기중 방송문화진흥회(방문진) 이사에게 내린 해임 처분을 취소해야 한다는 법원 판단이 나왔다.&lt;br&gt;&lt;br&gt;서울행정법원 행정4부(재판장 김영민)는 30일 김 이사가 “해임 처분을 취소해달라”며 방통위를 상대로 낸 해임 처분 취소 소송에서 원고 승소로 판결했다.&lt;br&gt;&lt;br&gt;2023년 8월 방통위는 MBC 대주주인 방문진이 MBC 감사 업무를 불공정하게 진행하고, MBC 사장 선임 과정에서 부실 검증을 했다는 사유 등으로 권태선 이사장과 김 이사를 해임했다. 이에 권 이사장과 김 이사는 각각 해임 처분 취소 소송과 집행정지 신청을 냈다. 법원이 집행정지 신청을 먼저 받아들이면서 이들은 직무에 복귀했고, 작년 12월엔 권 이사장의 해임 처분을 취소하라는 1심 판결이 나왔다.&lt;br&gt;&lt;br&gt;한편 방통위가 MBC에게 내린 제재 처분을 취소해야 한다는 법원의 판결도 잇따라 나오고 있다. 같은 날 이 재판부는 선거방송심의위원회(선방심위)가 MBC 라디오 ‘신장식의 뉴스하이킥’에 내린 제재에 대해서도 취소하라고 판단했다. 선방심위는 선거 방송의 공정성 여부를 판단하고, 불공정한 방송에 대해 제재를 내릴 수 있는 방송통신심의위원회 산하 기구다. 다만 이같은 행정처분의 최종 주체는 방통위다.&lt;br&gt;&lt;br&gt;선방심위는 작년 2월, 당시 제22대 총선을 앞두고 해당 방송이 특정 정당에 대해서만 일방적으로 비판하는 등 균형성을 유지하지 못했다며 5번의 방송에 대해 관계자 징계 처분을 내렸다. 하지만 재판부는 이같은 처분 역시 취소해야 한다고 판단하면서, 두 사건 모두에서 방통위가 패소하게 됐다.&lt;br&gt;&lt;br&gt;선방심위는 작년 1~3월 동안 해당 프로그램에 무더기 법정 제재 처분을 내린 바 있다. 이에 MBC는 각각의 처분을 취소해달라며 행정 소송을 냈다. 전날인 29일에도 법원은 방통위가 해당 프로그램 출연자의 특정 발언을 문제 삼아 내린 제재를 취소하라고 판결했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“생활비 없어서”…대학가 돌며 자전거 상습 절도한 30대 구속 송치</title>
-      <link>https://www.chosun.com/national/incident/2025/05/30/O5QJALBRKVE5VHSDBUMFSIWDZ4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/05/30/O5QJALBRKVE5VHSDBUMFSIWDZ4/</guid>
-      <dc:creator>대구=이승규 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 30 May 2025 04:32:44 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/L4GEXC5HOZAC5NA5TDDI7RQ23U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;생활비가 없다며 대구 대학가 등을 돌며 수차례 자전거를 훔친 뒤 판매한 30대 남성이 검찰에 송치됐다.&lt;br&gt;&lt;br&gt;대구 북부경찰서는 절도 혐의로 우즈베키스탄 국적의 30대 남성 A씨를 구속 송치했다고 30일 밝혔다. A씨는 지난 1월부터 4월 사이 대구 북구 경북대와 중구 인근에서 자전거 4대와 킥보드 1대 등을 훔친 뒤 이를 중고 거래 앱을 통해 판매하고 320만원을 챙긴 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;A씨는 인적이 드문 심야 시간대에 절단기를 이용해 잠금장치를 훼손한 뒤 이 같은 범행을 저지른 것으로 파악됐다.&lt;br&gt;&lt;br&gt;지난 2019년 경북대에 유학생 신분으로 입국한 A씨는 특별한 직업 없이 지내다 지난 2월부터 생활비를 벌기 위해 범행을 저지른 것으로 조사됐다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “시민의 재산권을 침해하는 절도 범죄 발생 시 범인을 신속히 검거하고 피해품 회복에도 노력하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>검찰, ‘김하성 공갈 혐의’ 前야구 선수 임혜동 소환</title>
@@ -823,15 +884,6 @@
       </media:content>
     </item>
     <item>
-      <title>법무부 “31개월간 출국 거부한 불법체류자 강제 퇴거”</title>
-      <link>https://www.chosun.com/national/court_law/2025/05/30/WVDLFN4GVRBOZA6CLDTQGKDQ7M/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/05/30/WVDLFN4GVRBOZA6CLDTQGKDQ7M/</guid>
-      <dc:creator>박강현 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 30 May 2025 04:05:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/A5ZKRGOBOID3QHR6K2XVBMDIE4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법무부 청사. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;법무부는 국내법을 위반하고 정당한 이유 없이 2년 넘게 출국을 거부한 불법체류자를 강제 퇴거 조치했다고 30일 밝혔다.&lt;br&gt;&lt;br&gt;법무부에 따르면 30대 후반 남성인 A씨는 2018년 4월 관광 목적으로 입국해 불법체류하면서 무면허 운전도 하는 등 국내법을 위반했다. 그는 강제퇴거 명령을 받았지만, 이후 2년 7개월간 출국을 거부했다.&lt;br&gt;&lt;br&gt;특히 A씨는 보호시설에 머무는 동안 내부 폐쇄회로(CC)TV와 천장에 설치된 전등을 파손하고, 나사못까지 삼키는 기행을 벌여 병원에 입원하기도 했다.&lt;br&gt;&lt;br&gt;법무부는 A씨의 본국 송환을 위해 출신 국가 대사관과 지속적으로 협의했으나, 본인의 신청 없이는 여권을 발급할 수 없는 해당 국가의 법 규정으로 인해 송환을 위한 여권을 발급받을 수 없었다고 설명했다. &lt;br&gt;&lt;br&gt;이에 A씨의 출신 국가 대사관에 우리나라 여행증명서를 이용한 송환을 제안한 뒤 A씨의 강제 퇴거를 집행할 수 있었고, 지난 25일 우리나라 출입국관리 공무원들이 직접 A씨를 본국으로 호송했다고 밝혔다.&lt;br&gt;&lt;br&gt;법무부는 “강제퇴거 명령을 받은 외국인에 대한 보호기간 상한이 마련된 개정 출입국관리법의 취지를 악용해 여권 신청을 거부하는 외국인이 늘어날 것으로 예상되지만, 해당 국가 대사관과 협의를 통해 최대한 신속히 보호외국인을 본국으로 송환하겠다”고 전했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>사전투표 봉투서 기표된 용지…경기도선관위 “자작극 의심, 경찰 수사의뢰”</title>
       <link>https://www.chosun.com/national/incident/2025/05/30/J5NJVKF2SJD67GFJH7MUSO7ESY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/05/30/J5NJVKF2SJD67GFJH7MUSO7ESY/</guid>
@@ -839,15 +891,6 @@
       <description/>
       <pubDate>Fri, 30 May 2025 03:53:04 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2J635Y6JZJPJLOGDPU4ISND3WQ.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;제21대 대통령 선거 사전 투표 둘째 날인 30일 전북 완주군 봉동읍행정복지센터에 마련된 사전투표소에서 한 유권자가 투표를 하고 있다. 사진은 기사 내용과 무관함. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제21대 대통령 선거 사전투표 기간 중 회송용 봉투에서 기표된 투표용지가 나왔지만, 경기도선거관리위원회는 “자작극으로 추정된다”며 경찰에 수사를 의뢰하기로 했다.&lt;br&gt;&lt;br&gt;30일 경기도선관위에 따르면, 이날 오전 7시 10분쯤 경기 용인시 수지구 성복동 주민센터 사전투표소에서 한 선거 참관인이 “한 여성 유권자의 관외 사전투표 회송용 봉투 안에서 이미 이재명 후보에게 기표된 투표용지가 나왔다”며 경찰에 신고했다. 문제의 투표지는 반으로 접힌 상태였고, 현장에 있던 참관인의 신고로 즉시 무효 처리됐다.&lt;br&gt;&lt;br&gt;경기도선관위는 즉각 사실관계 파악에 나섰고, 자체 조사 결과 “해당 유권자가 타인이 기표한 투표지를 전달받아 회송용 봉투에 넣은 것으로 보인다”고 판단했다. 선관위는 정황상 자작극일 가능성이 높다고 보고 경찰에 수사를 의뢰하기로 했다.&lt;br&gt;&lt;br&gt;사건 신고자는 20대 여성 A씨로, 관외투표를 하던 중 자신이 받은 회송용 봉투에 기표된 용지가 들어 있는 것을 보고 참관인에게 이를 알렸다. 공직선거법상 이미 기표된 투표지가 공개된 경우, 해당 투표지는 무효 처리된다. 이번 사건에서도 해당 투표지는 법에 따라 무효로 처리됐다. 선관위 측은 “선거의 공정성과 투명성 확보를 위해 자작극 여부를 철저히 수사해줄 것을 경찰에 요청했다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>정부 “마스크 착용·65세 이상 백신 권고… 코로나 재유행 조짐”  </title>
-      <link>https://www.chosun.com/national/welfare-medical/2025/05/30/NOTDQZ2YCJGBBGFKI4WHUNB55A/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/05/30/NOTDQZ2YCJGBBGFKI4WHUNB55A/</guid>
-      <dc:creator>곽래건 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 30 May 2025 01:19:53 +0000</pubDate>
-      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3M5EJPKA6VOVZFFYC5JVFGCZFQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이한경 행정안전부 재난안전관리본부장이 30일 정부세종청사에서 '의사 집단행동 중앙재난안전대책본부' 회의를 주재하고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정부가 “홍콩, 중국, 태국 등 인접 국가에서 코로나19 확진자가 증가하고 있어 염려스러운 상황”이라며 “65세 이상 어르신과 감염취약시설 입소자는 지금이라도 백신을 맞아달라”고 당부했다.&lt;br&gt;&lt;br&gt;이한경 행정안전부 재난안전관리본부장은 30일 정부세종청사에서 ‘의사 집단행동 중앙재난안전대책본부(중대본)’ 회의를 주재하며 이같이 밝혔다. 이 본부장은 “미국, 영국, 일본 등 대부분 국가에서는 양성률 6% 미만으로 낮은 수준을 유지 중이고, 국내 코로나19 입원환자 수도 최근 한 달간 큰 변동 없이 소폭의 증감을 반복하고 있다”고 했다. 이어 “다만 인접국가의 유행 상황과 작년 여름철 환자 수 증가 사례를 고려해 이번 여름철의 코로나19 재유행 가능성에 선제적으로 대비하겠다”고 했다. 아직 국내 상황이 심각하지는 않지만, 여름 재유행을 배제할 수 없다는 뜻이다. &lt;br&gt;&lt;br&gt;정부는 “해외여행 후 입국시 의심 증상이 있는 경우 공항 검역관에게 알려주고, 일상에서 손씻기, 기침예절, 마스크 착용 등 예방수칙을 철저히 준수해 달라”고 당부했다.&lt;br&gt;&lt;br&gt;질병관리청에 따르면 호흡기 질병 감시 병의원을 통해 집계한 국내 코로나 바이러스 검출률은 지난 18~24일(21주 차) 한 주간 8.8%를 기록하며 2주 연속 상승했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/B3M7BO4UQBFLTIN55PLNA4MYJY.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=양인성&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대한의사협회(의협) 감염병대응위원회도 이날 “각별한 주의가 필요하다”는 입장문을 발표했다. 의협은 “해외에서 코로나가 유행하고 국내에선 리노바이러스, B형인플루엔자바이러스, 파라인플루엔자바이러스 등 급성호흡기바이러스가 동시 유행하고 있다”며 이같이 밝혔다.&lt;br&gt;&lt;br&gt;의협은 “5월 중순 급성호흡기 감염병 환자 수가 다소 증가하는 추세를 보이고 있으며, 방역당국에 의하면 해외 유입 오미크론 변이바이러스가 늘고 있어 코로나19 재유행의 우려가 적지 않다”며 “더운 날씨에 밀폐된 실내에서 활동이 많아질 것으로 예상돼 전파 위험이 높아질 수 있다”고 했다. 이어 “손씻기 등 개인 위생 수칙을 준수하고, 사람이 많이 모이는 곳에선 마스크를 착용하는 것을 적극 권장한다”고 했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>“사전투표 봉투에 이재명 찍힌 용지” 신고... 선관위 “자작극 의심” </title>
@@ -916,33 +959,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/A5YCJU3VO65EK2XUHGZ3TQQJQQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;낮 기온이 최고 28도까지 오르며 초여름 날씨를 보인 지난 27일 서울 영등포구 여의도 한강공원을 찾은 시민들이 더위를 식히고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;주말인 31~1일은 고기압의 영향으로 전국이 대체로 맑겠다.&lt;br&gt;&lt;br&gt;기상청은 “(토요일인) 31일 전국이 대체로 맑다가 오후부터 구름 많아지겠다”고 30일 밝혔다. 일요일인 1일에도 전국이 대체로 맑겠으나 전남권과 제주도는 오후부터 차차 흐려질 전망이다.&lt;br&gt;&lt;br&gt;31일 아침 최저 기온은 8~16도, 낮 최고 기온은 22~29도로 예보됐다. 기상청은 “내륙을 중심으로 낮과 밤의 기온차가 15도 내외로 크겠으니 건강 관리에 유의해야 한다”고 했다.&lt;br&gt;&lt;br&gt;서울은 16~29도, 대전 14~28도, 광주 15~27도, 대구 12~29도, 부산 14~26도 등으로 예상된다.&lt;br&gt;&lt;br&gt;미세먼지 농도는 원활한 대기 확산으로 전국이 ‘좋음’에서 ‘보통’ 수준을 보이겠다.&lt;br&gt;&lt;br&gt;일요일인 다음 달 1일에도 내륙을 중심으로 30도 안팎까지 기온이 오를 전망이다. 아침 최저 기온은 12~17도, 낮 최고 기온은 21~31도로 예보됐다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>법무부, ‘北 형법 주석’ 발간...반동사상문화배격법 등 조문별 해설도 포함</title>
-      <link>https://www.chosun.com/national/court_law/2025/05/30/ZXYTRFX5UFB2VGBPBJQW2ALBL4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/05/30/ZXYTRFX5UFB2VGBPBJQW2ALBL4/</guid>
-      <dc:creator>박강현 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 30 May 2025 01:19:28 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ATWFUUK67NKSVEQ354YNOD3TDU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법무부 청사. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;법무부가 북한의 형법을 분석한 ‘북한 형법 주석’을 30일 발간했다. 북한 형법 조문 329개 전부를 대상으로 했으며 분량은 총 1128쪽에 이른다. 북한은 공산주의 도덕에 어긋나는 행동을 한 행위 등을 범죄로 구성해 형사 처벌하고 있다.&lt;br&gt;&lt;br&gt;법무부에 따르면 지난 2023년 12월 개정된 북한 형법의 주요 특징으로는 ▲사형의 확대를 통한 통제 강화 ▲반사회주의 문화 차단 강화 ▲국가상징 보호 강화 ▲남북관계 변화 등이 꼽힌다. &lt;br&gt;&lt;br&gt;북한은 형법 개정을 통해 형사특별법(반동사상문화배격법, 마약범죄방지법 등)에도 사형을 규정했다. 또 지난 2020년 반동사상문화배격법을 제정해 이른바 ‘한류’ 등 외부 문화 유입에 대한 통제를 강화했다. 이는 ‘장마당 세대(북한의 신세대 격)’ 사이에서 한류 문화가 유행해 ’오빠‘ 호칭 등 우리나라 문화가 유입되면서 체제 위기를 느낀 것에 대한 대응 차원으로 풀이된다. 이에 따라 퇴폐적인 문화반입, 유포죄 등이 현행 형법에서는 삭제됐다. &lt;br&gt;&lt;br&gt;북한은 아울러 공화국의 존엄모독죄와 국기·국장훼손죄를 각각 2022년 및 2023년에 신설하는 등 국가상징 보호를 강화하고 있다. 또 지난 2023년 12월 노동당 중앙위원회 회의에서 남북관계를 ‘적대적 두 국가, 전쟁 중에 있는 두 교전국 관계’로 선언하면서 ‘조선민족해방운동탄압죄’ 등 관련 조항은 삭제됐다.&lt;br&gt;&lt;br&gt;이번 북한 형법 주석은 앞서 법무부가 지난 2015년 발간한 ‘북한 형법(2012년 개정법)’의 전면 개정판으로 형법의 조문별 구성요건에 대한 설명과 함께 개정 연혁, 대한민국·러시아·중국·베트남 형법과의 비교법적 연구를 담았다. 북한 형사법 체계를 보다 입체적으로 바라볼 수 있게 한 것이다. &lt;br&gt;&lt;br&gt;그러면서 북한 사회상의 변천사를 선명하게 보여줄 수 있는 반동사상문화배격법과 마약범죄방지법에 대한 조문별 해설도 포함했다. 북한 형법 주석은 통일법제 데이터베이스에서 무료로 내려받을 수 있다.&lt;br&gt;&lt;br&gt;유태석 법무실장 대행은 “이번 주석서 발간이 향후 남북 법률 체계 통합에 효율적으로 대처하기 위한 연구의 초석이 되길 기대한다”며 “법무부는 남북한의 법･제도 통합 준비를 위해 지속적으로 노력하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“대치동서 사전투표 두 번 한 사람 있다”…경찰, 수사 착수</title>
-      <link>https://www.chosun.com/national/national_general/2025/05/30/WZFL6465ONEKVC7ELO3M5RJEZA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/05/30/WZFL6465ONEKVC7ELO3M5RJEZA/</guid>
-      <dc:creator>이가영 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 29 May 2025 22:46:02 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EJKDVEQQOK5RAVAWOPSJYGSSN4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;제21대 대통령 사전투표 첫날인 29일 광주 동구 서남동 사전투표소에서 유권자가 투표용지를 투표함에 넣고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제21대 대통령선거 사전투표 첫째 날인 29일 중복 투표를 한 시민이 있다는 신고가 접수돼 경찰이 수사 중이다. &lt;br&gt;&lt;br&gt;서울 수서경찰서는 이날 오후 5시 11분쯤 서울 강남구 대치2동 소재 사전투표소에서 투표를 두 번 한 유권자가 있다는 112 신고를 접수하고 수사에 착수했다고 밝혔다. &lt;br&gt;&lt;br&gt;이날 서울 강남구 사전투표 관리관들이 포함된 카카오톡 단체 채팅방에 이 같은 내용이 올라온 것으로 알려졌다. &lt;br&gt;&lt;br&gt;공직선거법상 성명을 사칭하거나 신분증명서를 위조‧변조하는 등의 방법으로 투표한 사람은 5년 이하의 징역 또는 1000만원 이하의 벌금에 처할 수 있다. &lt;br&gt;&lt;br&gt;경찰 관계자는 “현재 수사 중인 사안으로 실제 중복 투표 여부 등을 확인하고 있다”며 “구체적인 수사 내용은 확인 불가”라고 밝혔다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>﻿여직원 머리채 잡는 투표 독려 영상…경산시, 논란 일자 사과</title>
-      <link>https://www.chosun.com/national/national_general/2025/05/30/6HLK7WZOIFFSXF7IUVCNB5MDKM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/05/30/6HLK7WZOIFFSXF7IUVCNB5MDKM/</guid>
-      <dc:creator>이가영 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 29 May 2025 22:04:50 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AK55TBKCUJGC7EDBJFL4ZG2OOE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;상급자가 여직원 머리채를 잡는 모습이 담긴 경북 경산시의 '대통령선거 투표 독려 영상'의 한 장면. 현재는 비공개 처리 된 상태다. /유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경북 경산시가 대통령 선거 투표 참여를 독려한다며 제작한 홍보 영상에 직장 내 갑질과 폭력을 가하는 장면이 담겨 논란이 됐다. 경산시는 하루 만에 영상을 비공개 처리하고, 사과했다. &lt;br&gt;&lt;br&gt;지난 26일 경산시 공식 유튜브 채널에는 ‘대통령 선거 투표 독려 영상’이라는 제목의 49초짜리 영상이 올라왔다. &lt;br&gt;&lt;br&gt;영상에는 상급자가 여직원에게 종이를 구겨 던지는 모습과 결재 서류철로 머리를 때리는 장면, 손가락으로 여직원의 이마를 쿡쿡 찌르는 장면에 이어 여직원이 상급자의 손가락을 무는 모습 등이 담겼다. &lt;br&gt;&lt;br&gt;손가락을 무는 장면에서는 “물지 말고 후보자의 정책을 물으세요”라는 대사가 나오고, 이어 남자 직원이 여직원의 머리채를 잡는 장면과 함께 반격하는 여직원의 모습을 연출하며 “뽑지 말고 나의 권리를 뽑으세요”라는 멘트가 나온다. &lt;br&gt;&lt;br&gt;이어 이 여직원이 컴퓨터 메신저로 남자 직원을 욕하는 것을 다른 상급자가 지켜보는 장면과 여직원이 외출 후 돌아와 자신의 책상이 사라진 것을 발견하는 장면에서는 “찍지 말고 내일의 희망을 찍으세요”라고 했다. &lt;br&gt;&lt;br&gt;영상을 본 네티즌들은 “개연성이 없다” “뜬금없이 머리채는 왜 잡는지 모르겠다” “이게 대체 대통령 선거와 무슨 상관이냐?” 등의 반응을 보였다. &lt;br&gt;&lt;br&gt;논란이 커지자 경산시는 지난 27일 영상을 비공개 처리하고, 28일 공식 사과문을 올렸다. &lt;br&gt;&lt;br&gt;경산시 관계자는 “선거와 관련된 표현들을 그대로 사용할 경우 특정 정치적 입장으로 오해받을 수 있다는 우려가 있어 담당자가 관련 없는 것으로 직접 수정하고 촬영하는 과정에서 부적절한 요소가 포함되는 실수가 있었다”며 “모든 장면은 허구를 기반으로 구성된 것이며, 그 안에서 갑질이나 신체적 충돌을 상대방이 그대로 되갚는 방식으로 표현된 부분이 시청자 여러분께 불쾌감을 드릴 수 있음을 미처 인식하지 못했다”고 했다. 이어 “저희는 결코 폭력이나 혐오를 조장할 의도가 없었다”며 “불편함을 느끼셨을 분들께 깊은 사과의 말씀을 드린다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>야산에 추락한 해군 초계기</title>
       <link>https://www.chosun.com/politics/diplomacy-defense/2025/05/30/OKDMM4U5JNCTJG6NE2SDDG2QL4/</link>
       <guid isPermaLink="true">https://www.chosun.com/politics/diplomacy-defense/2025/05/30/OKDMM4U5JNCTJG6NE2SDDG2QL4/</guid>
@@ -950,24 +966,6 @@
       <description/>
       <pubDate>Thu, 29 May 2025 15:55:00 +0000</pubDate>
       <content:encoded>해군 P-3 해상초계기가 훈련을 위해 승무원 4명을 태우고 비행하다가 29일 경북 포항 남구 포항공항 인근 한 농가 주변 공터에 추락했다. 해군 포항기지에서 이륙한 지 약 6분 만이었다. 해군 장교·부사관으로 이뤄진 탑승자 4명은 현장에서 숨진 채 발견됐다. 해군은 사고 원인 확인 시까지 P-3에 대한 비행 중단 조치를 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/V2APSRESDZGOPENTU2SVWDO4LQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;추락 직후 버섯구름… 처참한 현장 - 29일 해군 소속 해상 초계기가 포항 지역 공터에 추락할 당시 버섯구름이 피어 오르고 있는 모습(왼쪽 작은 사진). 해군 P-3 해상 초계기는 이날 훈련을 위해 비행하다 포항 인근에서 추락했고 탑승자 4명 모두 현장에서 숨졌다. /연합뉴스TV 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;해군과 소방 당국 등에 따르면 사고 비행기는 이날 오후 1시 43분쯤 해군 포항기지에서 이륙한 이후 상공을 선회하다가 급격히 하강하면서 오후 1시 49분쯤 굉음과 함께 추락했다. 사고 비행기는 해군 제주기지 소속으로 이날 포항기지에서 이착륙 훈련을 하고 있었다고 한다. 추락한 비행기는 전소했다. 조종사 소령 1명, 부조종사 대위 1명, 부사관인 전술 승무원 2명 등이 탑승하고 있었다.&lt;br&gt;&lt;br&gt;최근 군에는 육·해·공군을 가릴 것 없이 사건·사고가 잇따르고 있다. 대통령과 국방장관이 모두 대행 체제인 상황에서 우리 군의 전반적인 기강 및 준비 태세에 심각한 문제가 생겼다는 지적도 나온다. 공군은 지난 3월 6일 경기 포천 민가 일대에 폭탄 8발을 오폭하는 사고를 냈고 육군은 지난 3월 17일 무인기가 활주로에서 이탈하면서 헬기와 충돌해 전소되는 사고를 냈다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/THASNSA2AZCE3EIHXQR5DQHDEQ.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=송윤혜&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;◇이번엔 해군 ‘잠수함 킬러’ 추락… 군용기 사고 올 들어서만 4번째&lt;/b&gt;&lt;br&gt;&lt;br&gt;해군이 1995년 P-3 계열 초계기를 도입한 후 사고가 난 것은 30년 만에 처음 있는 일이다. 사고 원인은 명확히 밝혀지지 않았다. 사고 당시 포항에는 초속 2~3m의 약한 바람이 불었고 구름도 많지 않았다고 한다. 해군은 “참모차장을 주관으로 사고대책본부를 구성해 사고 원인 등을 확인 중”이라며 “사고기 블랙박스 등을 수습해 정확한 경위를 조사할 예정”이라고 밝혔다. &lt;br&gt;&lt;br&gt;해군은 1995년 미국으로부터 P-3C 8대를 들여왔고, 미군 P-3B를 한국항공우주사업이 개조한 P-3CK 8대를 추가로 들여와 총 16대를 포항과 제주에서 운용해왔다. 이번에 사고가 난 기종은 P-3CK로 2010년 이후 군에 인도된 것으로 전해졌다. 해군은 P-3C 도입 20년 차였던 2015년 ‘무사고 20년 달성’을 발표했지만 30년 차를 맞아 사고가 발생했다.&lt;br&gt;&lt;br&gt;P-3는 길이 35ｍ, 폭 30ｍ, 높이 11ｍ에 터보프롭 엔진 4기를 장착하고 있다. 음파탐지부표 등으로 적 잠수함 위치를 확인하고 어뢰·폭뢰·폭탄·미사일로 적 잠수함이나 해상 표적을 공격하는 ‘잠수함 킬러’다. P-3 계열 초계기는 한국 해군이 작전에 투입하는 유일한 대잠(對潛) 초계기다. 16대가 동·서·남해를 담당해 기체 혹사 우려가 제기되기도 했다. 군은 지난해 P-8A 대잠초계기 6대를 미국에서 도입했지만 아직 작전·훈련에는 투입되지 않고 있다고 군 관계자는 전했다. 비행 중단 조치로 인해 대북 대잠작전에 차질을 빚을 수 있다는 지적도 나온다.&lt;br&gt;&lt;br&gt;최근 군 대형 사고는 계속되고 있다. 지난 3월 6일 공군 KF-16 전투기 2대는 포천에서 시행된 한미 연합훈련 중 우리 민가에 MK-82 공대지 폭탄 8발을 투하하는 초유의 ‘민가 오폭’ 사고를 냈다. 이 사고로 민간인 40명과 군인 26명 등 모두 66명이 다쳤고 건물·차량 등 219건의 재산 피해가 발생했다. 공군은 당시 조종사들이 부주의로 폭격 좌표를 잘못 입력했다고 밝혔다. 이후 당시 최상목 대통령 권한대행, 김선호 국방부 차관(장관 직무대행), 공군참모총장까지 나서 사과하고 재발 방지를 약속했다. &lt;br&gt;&lt;br&gt;그러나 오폭 사고 후 11일 만인 3월 17일 육군 경기 가납리 비행장에서는 착륙을 시도하던 대형 무인기 ‘헤론’이 주기돼 있던 헬기 ‘수리온’을 들이받는 사고가 발생했다. 사고 무인기와 헬기가 모두 전소하면서 300억원대 재산 피해가 발생했다. 육군은 무인기 착륙 과정에서 갑자기 분 돌풍 탓에 충돌 사고가 발생했다며 책임이 없다고 했다. 지난달 18일에는 공군 KA-1 공중통제공격기가 비행훈련 중 기관총 2정과 실탄 500발, 연료탱크 2개를 지상으로 투하하는 사고가 터졌다. 후방석 조종사가 히터 풍량을 조절하려다 버튼을 잘못 눌러 발생한 일이라고 공군은 설명했다. 이후로도 지난달 23일과 지난 28일 육군 최전방 부대에서 북한을 향해 K-6 중기관총 실탄을 1발씩 쏘는 오발 사고도 반복됐다. 화기 점검 간 조작 실수로 알려졌는데, 자칫 남북 간 우발적 충돌이 벌어질 수도 있는 상황이었다. &lt;br&gt;&lt;br&gt;일각에서는 대통령 탄핵과 국방부 장관 공백, 육군참모총장 등 군 주요 지휘관 부재 상황이 장기화하면서 군 사고가 반복되고 있다는 지적도 나온다. 육군에서는 참모총장, 육군 2작전사령관, 수도방위사령관, 특수전사령관이 대행 체제다. 간첩을 잡아야 할 국군방첩사령부 및 대북 및 해외 정보를 담당하고 있는 정보사령부도 사령관 대행 체제로 운영되고 있다. 평상시였다면 지난달 이뤄졌어야 할 전반기 군 장성 인사도 실시되지 않고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>다시 마스크 쓰는 대만… 코로나 재확산에 한국도 긴장</title>
-      <link>https://www.chosun.com/national/welfare-medical/2025/05/30/SQZFGW2YO5EXBJY7NSGHXLM22A/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/05/30/SQZFGW2YO5EXBJY7NSGHXLM22A/</guid>
-      <dc:creator>곽래건 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 29 May 2025 15:53:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6ISUQTFQMJMNHKR6MRN7PR77UM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 20일 태국 방콕 시내에서 마스크를 쓴 사람들이 걷고 있다./EPA 연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대만·중국·홍콩·태국 등 인근 국가에서 코로나가 다시 유행하면서 국내에서도 긴장감이 높아지고 있다.&lt;br&gt;&lt;br&gt;29일 외신 등에 따르면 대만에서는 코로나 바이러스 감염증 환자가 최근 7주 연속 늘고 있다. 지난 18~24일 코로나로 인한 대만 응급 진료 환자는 4만명을 넘어섰다. 전주(1만9097명)의 배로 늘었다. 대만 방역 당국은 “다음 달 말부터 7월 초 사이 코로나 환자가 20만명에 육박할 수 있다”며 사람이 많이 모이는 곳에서는 마스크 착용을 권고했다. &lt;br&gt;&lt;br&gt;홍콩은 지난 3월 중순 1.7%였던 코로나 감염률(호흡기 환자 가운데 코로나 감염 비율)이 이달 초 11.4%가 돼 6배 이상으로 치솟았다. 중국 역시 코로나 감염률이 3월 말 7.5%에서 이달 초 16.2%로 증가했다. 이 기간 코로나로 입원한 환자 수가 2배로 치솟았다.&lt;br&gt;&lt;br&gt;세계보건기구(WHO)에 따르면 지난 11일 기준 세계 73국 지역·영토에서 보고된 검사 양성률은 11%로, 99국 보고에서 양성률 12%를 기록한 작년 7월 이후 가장 높은 수치를 기록했다.&lt;br&gt;&lt;br&gt;우리나라도 코로나 감염이 최근 증가세다. 질병관리청에 따르면 호흡기 질병 감시 병의원을 통해 집계한 코로나 바이러스 검출률은 지난 18~24일(21주 차) 한 주간 8.8%를 기록하며 2주 연속 상승했다. 해외에선 지난 1월 22일 처음 샘플이 수집된 오미크론 계열의 ‘NB.1.8.1’ 변이 바이러스가 유행을 주도하고 있다. 증상은 기침, 인후통, 발열, 피로감 등 기존 변이 ‘NB.8.1’과 비슷하다. &lt;br&gt;&lt;br&gt;새 변이의 전염성은 다소 높지만 위험성은 예전보다 낮다는 평가가 일반적이다. 정재훈 고려대 예방의학과 교수는 “코로나로 인한 사망자 수 증가의 영향은 제한적”이라며 “코로나는 이제 풍토병이 됐고, 기저 질환이 없거나 만 65세 미만 건강한 사람에게는 큰 위협이 되기 어렵다”고 했다.&lt;br&gt;&lt;br&gt;방역 당국은 상황을 주시하고 있다. 보건복지부는 지난 23일 박민수 2차관 주재로 질병관리청, 국립중앙의료원과 함께 코로나19 대응 점검 회의를 열었다. 코로나가 크게 유행했던 작년 8월 이후 9개월 만의 대책 회의다. 질병관리청은 “국내 코로나19 발생은 전반적으로 안정세를 유지하고 있다”면서도 “해외 유행 확산이 국내 유입으로 이어지지 않도록 경계심을 늦추지 않고 방역망을 유지할 방침”이라고 했다.&lt;br&gt;&lt;br&gt;하지만 시민 불안감은 커지고 있다. 특히 경기가 침체한 상황에서 자영업자들이 코로나로 타격을 입을까 우려하고 있다. 자영업자들이 모인 인터넷 카페에선 “코로나 유행이 또 온다면 더는 버틸 수 없다” 등의 글이 쏟아지고 있다. 경기도에서 실내 체육 시설을 운영하는 김모(54)씨는 “코로나 팬데믹 시기를 겨우 지나왔는데, 코로나 확산으로 방역 조치가 강화되면 겨우 숨 돌린 경영에 직격탄을 맞을 것”이라고 말했다.&lt;br&gt;&lt;br&gt;지난해처럼 올여름 다시 또 큰 코로나 유행이 올 수 있다는 우려도 나오고 있다. 질병청에 따르면 현재 65세 이상 고령자와 면역 저하자 등 코로나 고위험군 중 약 47.4%인 487만여 명이 코로나 백신을 맞았다. 65세 미만은 정부가 따로 백신 접종 여부를 집계하지 않고 있다. 질병청은 “고위험군은 백신 접종을 권고한다”며 “외출 후 손을 씻고 환기를 자주 하는 등 예방 수칙 준수가 필요하다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/B3M7BO4UQBFLTIN55PLNA4MYJY.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=양인성&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>조현범 한국타이어 회장 징역 3년형 법정 구속</title>
-      <link>https://www.chosun.com/national/court_law/2025/05/30/Z2A2G6HCNJG6LI6CS2LMF4NK4Q/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/05/30/Z2A2G6HCNJG6LI6CS2LMF4NK4Q/</guid>
-      <dc:creator>김나영 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 29 May 2025 15:53:00 +0000</pubDate>
-      <content:encoded>200억원대 횡령·배임 등 혐의로 재판에 넘겨진 조현범 한국타이어앤테크놀로지(한국타이어) 회장이 29일 1심에서 징역 3년을 선고받고, 법정 구속됐다. 재판부는 조 회장이 받는 9개 혐의 중 하나를 제외하고 모두 유죄로 판단했다. 조 회장은 한국타이어 조양래 명예회장의 차남으로, 이명박 전 대통령의 사위다.&lt;br&gt;&lt;br&gt;서울중앙지법 형사23부(재판장 오세용)는 이날 업무상 배임과 배임수재죄 등 혐의를 받는 조 회장에 대해 징역 3년을 선고했다. 조 회장은 2023년 3월 구속 기소됐다가 그해 11월 보석으로 풀려나 불구속 상태로 재판을 받아왔다. 조 회장은 선고 직후 “판사님께서 정해주신 형량대로 반성하고 있겠다”고 짧은 입장을 밝혔다.&lt;br&gt;&lt;br&gt;재판부는 조 회장이 한국타이어와 한국앤컴퍼니 등의 법인카드를 사적으로 사용한 혐의에 대해 “본인과 자신과 친분이 있었던 제3자가 개인적 용도로 사용한 법인카드 대금 약 5억8000만원을 회사들에 대납하게 한 부분은 업무상 배임죄가 인정된다”고 했다. 또 조 회장이 개인적으로 사용할 차량 5대를 한국타이어 계열사 명의로 구입하거나 리스해 회사 소속 운전기사에게 자신의 배우자를 수행하게 한 혐의 등도 배임죄에 해당한다고 판단했다. &lt;br&gt;&lt;br&gt;다만 조 회장이 한국타이어가 계열사인 MKT(한국프리시전웍스)와 부당한 거래에 관여해 약 131억원의 손해를 보게 한 혐의에 대해선 “거래의 목적과 가격 모두 부당하다고 볼 수 없고, 한국타이어가 MKT에 특별히 유리한 조건으로 거래했다고 보기도 어렵다”고 판단했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[단독] ‘빅4′ 전공의 추가 모집에 서울대 70여명, 세브란스 69명 지원... 지원율 10%</title>
