@@ -13,6 +13,42 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>지난해 유기 아동 30명…보호출산 도입 후 전년 대비 3분의 1로 줄어</title>
+      <link>https://www.chosun.com/national/welfare-medical/2025/06/01/HR2YDBZIGZCFVMNXWIVIQTMQSU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/06/01/HR2YDBZIGZCFVMNXWIVIQTMQSU/</guid>
+      <dc:creator>오경묵 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 01 Jun 2025 05:12:40 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3GXAMFIZF5KTTABX3QW75R4UBE.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;서울 시내 지하철에 임산부와 아기가 들어간 일러스트가 게시돼 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난해 전국에서 유기된 아동이 30명인 것으로 나타났다. 1년 전에 비해 3분의 1 수준으로 감소했는데, 보호출산제 도입이 영향을 미친 것으로 보인다.&lt;br&gt;&lt;br&gt;1일 보건복지부의 ’2024년 보호 대상 아동 현황 보고' 자료를 보면, 지난해 보호 조치 대상이 된 아동은 1978명으로 집계됐다. 남아 1024명, 여아 954명이고 이 중 장애 아동은 100명이었다. 보호 조치 대상 아동은 보호자가 없거나, 보호자가 있어도 양육하기 적당하지 않은 아동들이다.&lt;br&gt;&lt;br&gt;보호조치 아동은 2020년 4120명에서 2022년 2289명, 2023년 2054명 등으로 계속 감소했고, 지난해에는 2000명 아래로 내려갔다. 보호조치가 필요한 사유는 학대가 869명으로 가장 많았고, 부모 사망이 268명, 미혼 부모의 아이나 혼외자인 경우가 219명이었다. 부모가 교정시설에 입소한 사례도 140명이었다.&lt;br&gt;&lt;br&gt;지난해 유기된 아동은 30명으로 2023년 88명에서 58명 감소했다. 서울이 21명으로 가장 많고, 대구 3명, 부산 2명, 경기 2명, 인천 1명, 경북 1명 등이었다. 국내 유기 아동은 2000년까지만 해도 한 해 1000명이 넘었으나, 서서히 줄어 2022년부터 100명 아래로 내려갔다.&lt;br&gt;&lt;br&gt;지난해 유기 아동이 큰 폭으로 줄어든 것은 7월부터 시작된 보호출산제의 영향으로 보인다. 보호출산제는 사회·경제적 위기에 처한 임신부가 가명으로 진료를 받고 출산할 수 있도록 돕는 제도다. 태어난 아동은 출생 등록 후 국가 책임하에 보호된다.&lt;br&gt;&lt;br&gt;보호출산제 시행 뒤 지난해 말까지 위기 임산부 901명의 상담이 이뤄졌다. 723명은 정보·제도 안내 등 단순 상담을 받았고, 사례 관리와 긴급 지원이 필요한 178명은 심층 상담을 받았다. 178명 중 아이를 스스로 키우겠다는 ‘원가정 양육’을 선택한 임산부는 92명이었고, 출생 신고 후 입양을 선택한 임산부는 19명이었다. 보호 출산을 신청한 임산부는 52명이었다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>건보 피부양자, 5년간 내국인 15% 줄었는데 외국인은 19만명대 유지</title>
+      <link>https://www.chosun.com/national/welfare-medical/2025/06/01/U6CLO2DUDZARNNROBAO762OLJI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/06/01/U6CLO2DUDZARNNROBAO762OLJI/</guid>
+      <dc:creator>오경묵 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 01 Jun 2025 05:01:53 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6CSCLJZJWJOIBG2MMGE3QYF77E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;국민건강보험공단 서울 영등포남부지사 모습. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최근 5년간 건강보험 직장가입자의 피부양자 가운데 내국인이 15% 가까이 감소하는 사이, 외국인은 19만여명 수준을 유지하는 것으로 나타났다.&lt;br&gt;&lt;br&gt;1일 국회 보건복지위원회 소속 김미애 국민의힘 의원실이 국민건강보험공단에서 받은 자료에 따르면, 지난해 말 기준 외국인 직장가입자의 배우자나 자녀 등 피부양자는 19만5201명으로 나타났다. 2020년 말 19만5423명과 비교하면 비슷한 규모를 유지한 것이다.&lt;br&gt;&lt;br&gt;반면 내국인 직장 가입자의 피부양자는 같은 기간 1840만5000명에서 1568만7000명으로 14.8% 감소했다.&lt;br&gt;&lt;br&gt;국민건강보험법에 따라 외국인은 사업장 근로 여부, 체류자격, 체류 기간 등 일정한 요건을 충족하면 건강보험 수급 자격이 주어진다. 배우자 등은 건강보험공단에 신청해 피부양자가 될 수 있다.&lt;br&gt;&lt;br&gt;직장 가입자의 피부양자는 자격을 얻기 위해 일정 소득·재산 등 요건을 갖춰야 한다. 내국인과 달리 외국인은 소득이나 재산을 심사하기가 어려워 형평성에 문제가 있다는 비판도 나온다.&lt;br&gt;&lt;br&gt;다만 외국인 건강보험 재정수지가 흑자를 유지하고 있어 무임승차 우려는 과도하다는 반론도 있다. 건강보험공단에 따르면 외국인 건강보험 재정수지 흑자는 2017년 2565억원에서 2023년 7308억원으로 꾸준히 늘고 있다. ‘무임승차’ 논란이 끊이지 않는 중국인의 경우 건강보험 재정수지 적자 규모가 2017년 1108억원에서 2023년 27억원으로 줄었다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>민간 안마사의 강도 높은 시술… “안마 아닌 불법 의료” 유죄 확정</title>
+      <link>https://www.chosun.com/national/court_law/2025/06/01/RRIRX4ZG5JHIDKWH2NKHT66LDA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/01/RRIRX4ZG5JHIDKWH2NKHT66LDA/</guid>
+      <dc:creator>방극렬 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 01 Jun 2025 04:28:55 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7V5TMRVHUBHR5P3UUWSWKXM64I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 대법원 전경. /박성원 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;의사가 아닌 민간 안마사가 ‘시술원’을 차리고 통증 완화를 위해 신체를 누르고 두드리는 행위는 위법이라는 대법원 판단이 나왔다. 비의료인 안마사가 일반적인 안마가 아닌 질병 치료 목적의 의료 행위를 해서는 안 된다는 취지다.&lt;br&gt;&lt;br&gt;1일 법조계에 따르면, 대법원 2부(주심 오경미 대법관)은 의료법 위반 등 혐의로 기소된 A씨에게 징역 1년에 집행유예 2년과 벌금 100만원을 선고한 원심 판결을 지난달 15일 확정했다.&lt;br&gt;&lt;br&gt;A씨는 2022년 10월 자신이 운영하는 시술원에서 손님을 상대로 통증 부위를 상담하고, 침대에 눕혀 목과 어깨, 등, 팔, 무릎 등 부위를 누르고 잡아당기는 의료 행위를 한 뒤 시술비 15만원을 받은 혐의 등으로 기소됐다. 의료법은 의료유사업자 자격이 있는 접골사 등의 시술만 법적으로 허용한다. A씨는 앞서 자격기본법에 따라 2021년 민간 기관에서 접골사, 안마사 자격을 취득한 만큼 해당 행위는 적법한 시술이라고 주장했다. &lt;br&gt;&lt;br&gt;1심은 A씨의 시술이 무면허 의료 행위라고 판단하며 징역 1년에 집행유예 2년과 벌금 100만원을 선고했다. 1심은 “접골사에게 의료유사업자 자격을 부여하던 국민의료법은 1962년 폐지됐다”며 “폐지 이후 민간에서 신설해 관리·운영하는 접골사, 안마사 자격을 취득했다고 의료유사업자 자격을 적법하게 취득했다고 볼 수 없다”고 했다.&lt;br&gt;&lt;br&gt;이에 A씨는 “해당 시술은 의료가 아닌 안마 행위고, 보건상 위해 발생 우려가 적어 정당행위에 해당한다”며 항소했지만, 2심도 기각했다. 2심은 “A씨는 어깨 통증을 호소하는 피해자를 상대로 아픈 부위와 증세 등을 물어 진단하고, 몸을 잡아당기고 누르거나 문지르는 등 물리적 충격을 주는 행위를 했다”며 “이는 단순히 ‘손으로 몸을 두드리거나 주물러 피의 순환을 도와주는’ 안마 행위의 범위를 넘어 질병을 치료하기 위한 의료 행위”라고 지적했다. 그러면서 “영리를 목적으로 업으로 이 같은 행위를 했다는 점 등을 참작하면 용인될 수 있는 정당행위에 해당하지 않는다”고 밝혔다.&lt;br&gt;&lt;br&gt;대법원은 “원심 판단에 의료법상 ‘의료 행위’의 의미 등을 오해한 잘못이 없다”며 원심을 확정했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>무작위로 아파트 초인종 누르고, 흉기 휘두른 30대 실형 </title>
+      <link>https://www.chosun.com/national/regional/2025/06/01/L524F2LY4JCILKKTRUWYWXPFVA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/06/01/L524F2LY4JCILKKTRUWYWXPFVA/</guid>
+      <dc:creator>부산=김주영 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 01 Jun 2025 04:17:37 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FVX2J24S5QA5IHHKMVWRVSWRKA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산지법 서부지원. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;새벽 시간 부산 한 아파트에서 초인종을 누르고 다니다가 문을 열고 나온 주민을 흉기로 찌른 30대에게 징역 5년이 선고됐다.&lt;br&gt;&lt;br&gt;부산지법 서부지원 형사1부(재판장 김주관)는 살인미수 혐의로 기소된 30대 A씨에게 징역 5년을 선고하고, 보호관찰 5년을 명령했다고 1일 밝혔다.&lt;br&gt;&lt;br&gt;검찰 공소사실에 따르면 A씨는 지난해 11월 12일 오전 1시 10분쯤 부산 강서구 한 아파트 1층부터 4층까지 모든 집의 초인종을 누르고 다니다 한 호실에서 40대 남성 B씨가 문을 열고 나오자 미리 준비한 흉기로 한 차례 찌른 혐의다.&lt;br&gt;&lt;br&gt;이 사건으로 B씨는 복부에 2주간 치료가 필요한 상해를 입었다. 다행히 생명에 지장은 없었다.&lt;br&gt;&lt;br&gt;A씨는 범행 전 대인관계에 어려움을 느끼고 우울증을 겪어온 것으로 조사됐다.&lt;br&gt;&lt;br&gt;그는 2021년 6월부터 경기 광명시 한 건설현장에서 안전관리자로 근무했으나 적응하지 못해 1년 만에 부모 집으로 돌아왔다.&lt;br&gt;&lt;br&gt;무직 생활이 지속되자 A씨는 부모가 자신을 홀대한다고 생각하기 시작했다.&lt;br&gt;&lt;br&gt;범행 당일 A씨는 집에서 담배를 피워 모친으로부터 핀잔을 듣게 됐다. 이에 불만이 커져 부엌에서 흉기를 챙겨 나가 모르는 사람을 찌르기로 마음먹었던 것으로 조사됐다.&lt;br&gt;&lt;br&gt;재판부는 “‘묻지마 범죄’는 사회적으로 큰 불안감을 야기해 엄히 처벌할 필요성이 있다”며 “피해자 역시 피고의 엄벌을 탄원하고 있다”고 말했다.&lt;br&gt;&lt;br&gt;이어 “다만 범행이 미수에 그쳤고 피해자의 상해가 중하지 않아 보이는 점, 피고가 형사처벌을 받은 적이 없는 점, 피고의 가족들이 재범 방지를 위해 노력하겠다는 의사를 표시한 점 등을 감안했다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>시민단체, ‘사전투표 부실논란’ 서울·경기선관위원장 등 검찰에 고발</title>
       <link>https://www.chosun.com/national/court_law/2025/06/01/HXI2KGBTINAJPHXXSSHEYJEDPE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/01/HXI2KGBTINAJPHXXSSHEYJEDPE/</guid>
@@ -853,15 +889,6 @@
     (서울=연합뉴스) 1980-90년대 한국 남자배구의 전성기를 이끌었던 왕년의 '명스파이커' 장윤창 전 경기대 교수가 30일 지병으로 별세했다. 향년 65세. [연합뉴스 자료사진]&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;1983년에는 실업배구 명문 구단인 고려증권 창단 멤버로 참가해 실업 배구 인기를 주도하기도 했다. 키 195㎝에 왼손 아포짓 공격수였던 그는 국내 남자배구계에 처음으로 ‘스카이 서브(스파이크 서브)’를 선보였고 실전에서 적극 활용한 사실상 첫 선수였다. 활처럼 휘어지는 유연한 허리를 이용한 타점 높은 공격으로 ‘돌고래’라는 별명으로도 유명했다.&lt;br&gt;&lt;br&gt;1984년 대통령배 배구대회 첫 해 MVP로 선정됐고, 1990년 다시 MVP 영광을 누렸다. 1984년부터 1987년까지 4년 연속 인기상도 받았다.&lt;br&gt;&lt;br&gt;현역 은퇴 후 미국으로 유학을 떠나 조지워싱턴대에서 체육학 석사 학위를 받았고, 한국체대에서 박사 학위를 취득한 후 모교 경기대에서 체육학과 교수로 활동했다. 또 대한배구협회 기술이사를 거쳐 2011년 출범한 대한민국스포츠국가대표선수회 회장과 한국배구연맹(KOVO) 경기위원을 역임했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XCM6RHHTL5LSLN2MOBS7SXXX6E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;YONHAP PHOTO-3732&gt; 1990년 2월 12일 대통령배 배구 고려증권과 현대자동차써비스 경기에서 스파이크를 시도하는 장윤창 모습. [연합뉴스 자료사진]&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;차남 장민국은 농구선수로 연세대를 나와 2012년 프로농구 드래프트에서 전주 KCC(현 부산 KCC)에 지명됐고 지금은 LG 세이커스 소속이다.&lt;br&gt;&lt;br&gt;술과 담배를 입에 대지 않을 정도로 몸 관리에 신경을 썼지만 지난해말 위암 진단을 받고 투병해온 것으로 알려졌다. 빈소는 삼성서울병원 장례식장, 발인은 6월 1일 오전 5시 30분.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>교명 갈등에… 충북대·교통대 2년째 통합 지지부진</title>
-      <link>https://www.chosun.com/national/education/2025/05/30/3Z6RP47WBRH3TMPZK72E2IEZI4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2025/05/30/3Z6RP47WBRH3TMPZK72E2IEZI4/</guid>
-      <dc:creator>표태준 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 30 May 2025 06:06:13 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BEAZ55KKZADFOQBMGZLY4H2A5M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이달 초 한국교통대 구성원들의 통합 추진 기자회견 모습(왼쪽)과 지난달 열린 충주 지역사회단체의 통합 반대 기자회견. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정부 지원을 등에 업고 대학을 합치겠다고 나섰던 지방 대학들 대부분이 갈등을 극복하고 통합 절차를 끝내가는 가운데, 충북대와 국립한국교통대만 교명(校名)과 통합 방향을 두고 이견을 좁히지 못하는 것으로 나타났다.&lt;br&gt;&lt;br&gt;교육부는 혁신하는 지방 대학에 1000억원을 지원하는 글로컬 대학 사업에 학교 통합을 내걸고 선정됐던 부산대·부산교대, 강원대·국립강릉원주대, 국립목포대·전남도립대, 국립창원대·경남도립거창대·경남도립남해대 등 9개 대학 통합을 최종 승인했다고 30일 밝혔다. 부산대·부산교대는 ‘부산대’로 2027년 3월 통합 출범하고, 나머지 3곳은 내년 3월 통합 대학으로 출범한다. 앞서 글로컬 대학 사업에 선정됐던 안동대·경북도립대는 국립경국대로 올해 3월 통합 출범했다.&lt;br&gt;&lt;br&gt;각 대학은 학교를 합치는 과정에서 학교 구성원 간, 학교와 지역사회 간 갈등이 격화했지만 끝내 합의해 출범만 앞두고 있다. 그런데 재작년 글로컬 대학 사업에 선정된 충북대·교통대만 이번 통합 승인 명단에서 제외됐다.&lt;br&gt;&lt;br&gt;교명부터가 문제다. 두 대학은 통합 대학 이름을 두고 첨예한 갈등을 벌이다 작년 말 ‘충북대’로 정하고 교육부에 통합 신청서를 냈다. 그러자 교통대 캠퍼스가 위치한 경기 의왕시 지역 주민들이 발끈하고 나섰다. 경기 의왕시에 있는 캠퍼스 이름에 다른 지역명인 ‘충북’이 들어가는 것은 상식적이지 않다는 것이다. 교통대는 2011년 경기 의왕의 한국철도대와 청북 충주의 충주대가 통합해 개교한 학교다.&lt;br&gt;&lt;br&gt;지역 정치권까지 가세하며 교명 갈등은 더 커지는 모양새다. 지난 2월 의왕시의회가 “의왕시에 유일 4년제 대학이 지역성과 전통성이 반영되지 않은 명칭을 가지는 것은 지역 자긍심을 약화한다”는 입장을 밝힌 데 이어, 김성제 의왕시장도 14일 입장문을 내고 “통합은 단순히 학교 간 문제가 아니다. 통합의 방향성을 다시 생각해야 한다”고 했다.&lt;br&gt;&lt;br&gt;교통대의 또 다른 캠퍼스가 위치한 충북 충주 지역 주민들도 지난달 ‘통합반대비상대책위’를 만들고 지난 15일부터 통합 반대 서명 운동까지 시작했다. 이들은 대학 본부 위치가 충북대로 정해지자 “교통대가 충북대에 흡수 통합되는 것”이라며 “교통·물류 특성화 대학이란 정체성 자체가 사라지게 된다”고 통합에 반대하고 있다.&lt;br&gt;&lt;br&gt;교육부 관계자는 “지역 사회와의 협의 문제와 더불어 유사 학과 운영 방안 등을 두고 두 대학이 명확한 합의를 아직 이루지 못해 통합 승인이 늦어지고 있다”고 했다. 앞서 안동대·경북도립대도 ‘경북국립대’ ‘국립경북글로컬대’ 등을 통합 교명으로 추진하다 지역 사회 간 첨예한 갈등이 이어지다 결국 국립경국대로 이름을 바꿨다.&lt;br&gt;&lt;br&gt;충북대·교통대는 아무리 늦어도 정부에 2027학년도 대입 전형 시행 계획을 제출하는 내년 4월 이전에는 통합 승인을 얻어야 한다. 통합에 합의하지 못할 경우 글로컬 대학 지정이 취소되고 그간 정부로부터 받은 지원금도 환수 조치된다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>법원, “방통위가 내린 방문진 이사 해임 및 MBC 방송 제재 처분 취소해야”</title>
       <link>https://www.chosun.com/national/court_law/2025/05/30/NJFAHK5RMBA7PEIG4CM3CRFYSQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/05/30/NJFAHK5RMBA7PEIG4CM3CRFYSQ/</guid>
@@ -900,15 +927,6 @@
       <description/>
       <pubDate>Fri, 30 May 2025 02:41:32 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3KCN5CPFBNJKVIYQ7D3IACS7OQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;제21대 대통령 선거 사전투표 마지막 날인 30일 인천국제공항 제1터미널 출국장에 설치된 사전투표소를 찾은 유권자들이 투표를 하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제21대 대통령선거 사전투표 이틀째인 30일 “회송용 봉투에서 이미 기표된 용지가 나왔다”는 신고가 접수돼 당국이 조사에 착수했다. 중앙선거관리위원회는 자작극으로 의심된다며 수사 의뢰할 예정이라고 밝혔다. &lt;br&gt;&lt;br&gt;경기남부경찰청에 따르면 이날 오전 7시 10분쯤 용인시 수지구 성복동 주민센터 사전투표소에서 선거 참관인으로부터 “회송용 봉투에서 이재명 후보에게 기표된 투표용지가 반으로 접힌 채 나왔다”는 112 신고가 접수됐다. &lt;br&gt;&lt;br&gt;한 20대 여성 투표인 A씨가 관외투표를 하는 과정에서 자신의 회송용 봉투 안에 기표 용지가 있다고 선거 참관인에게 알렸고, 신고가 즉시 이뤄졌다. A씨는 관외투표를 위해 투표용지와 회송용 봉투를 받아들고 투표소 앞에서 기다리던 중 문제의 기표용지를 발견한 것으로 파악됐다. 이후 A씨는 이 사실을 알린 뒤 새 회송용 봉투를 받아 정상적으로 투표를 진행했다. &lt;br&gt;&lt;br&gt;주민등록지가 아닌 지역에서 사전투표를 하는 관외 사전투표의 경우 투표한 용지를 회송용 봉투에 넣게 된다. 기표한 용지를 유권자가 회송용 봉투에 밀봉한 뒤 투표함에 넣으면 이 봉투는 선거관리위원회로 보내진다. &lt;br&gt;&lt;br&gt;선관위는 현재 해당 사안이 어떻게 발생했는지에 대해 진상을 파악 중이다. 문제의 기표용지는 사무원들과의 논의를 거쳐 무효표 처리한 것으로 전해졌다. &lt;br&gt;&lt;br&gt;현장에 출동한 경찰은 우선 선관위에 현장을 인계하고 철수했다. &lt;br&gt;&lt;br&gt;&amp;nbsp;중앙선관위는 경위 파악 뒤 입장문을 통해 “해당 선거인이 타인으로부터 기표한 투표지를 전달받아 빈 회송용 봉투에 넣어 투표소에서 혼란을 부추길 목적으로 일으킨 자작극으로 의심돼 수사 의뢰할 예정”이라고 밝혔다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>외국인도 제2금융권 비대면 거래 편해진다…등록증 진위 확인 서비스 확대</title>
-      <link>https://www.chosun.com/national/court_law/2025/05/30/B7UMSB3D4BC7LEOA6AHIQHEY7U/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/05/30/B7UMSB3D4BC7LEOA6AHIQHEY7U/</guid>
-      <dc:creator>박강현 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 30 May 2025 02:56:25 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SKXIQXOOZOW7JXHOAENTTSNJOY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법무부 청사. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;법무부가 금융결제원과 협력해 우리나라에 체류하는 등록 외국인을 대상으로 한 ‘외국인등록증 진위 확인 서비스’를 제2금융권 금융기관에도 확대해 시행한다고 30일 밝혔다.&lt;br&gt;&lt;br&gt;외국인등록증 진위 확인 서비스는 등록 외국인이 영업점 창구 또는 모바일 앱 등을 통해 신분증 확인이 필요한 금융업무를 할 때, 금융회사에서 전송한 외국인등록증(영주증, 외국국적동포 국내거소신고증 포함) 정보를 법무부 보유 정보와 비교해 진위 여부를 판단하고 그 결과를 금융회사에 실시간으로 회신해주는 서비스다.&lt;br&gt;&lt;br&gt;서비스가 도입되기 전에는 금융기관 직원이 육안으로 신분증 사진의 진위를 확인해야 하고, 외국인들의 비대면 거래가 제한되는 어려움이 있었다. 또 위·변조되거나 도난된 신분증을 사용해 금융 사고가 발생할 우려도 있었다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6RKHVYBIWHEGVSWMWTOYXQIBJE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;외국인등록증 진위확인 서비스 업무 흐름도. /법무부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이에 당국은 지난 2023년 9월 제1금융권에 해당 서비스를 우선 도입했다. 지난 1월부터는 제2금융권 내 희망 기관을 대상으로 서비스를 시범 운영해왔는데, 긍정적인 반응이 확인돼 제 2금융권으로도 정식 서비스를 확대하게 된 것이다. &lt;br&gt;&lt;br&gt;이달 기준 현재 총 20개 금융기관(제1금융권 13, 제2금융권 7)에 이같은 서비스가 제공 중이다. 정부는 향후 모든 제2금융권 기관으로 서비스를 순차적으로 확대할 계획이다.&lt;br&gt;&lt;br&gt;법무부와 금융결제원은 “등록 외국인도 국민과 동등하게 은행, 신용카드, 증권, 보험사 등 다양한 금융기관의 금융거래를 온오프라인으로 간편하게 이용할 수 있게 됐다”며 “위·변조되거나 도난당한 신분증 사용도 차단할 수 있을 것”이라고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>가수 제니, 서울대 의과대학에 1억원 기부</title>
@@ -950,15 +968,6 @@
       </media:content>
     </item>
     <item>
-      <title>모처럼 맑은 주말...서울·대구 최고 29도</title>
-      <link>https://www.chosun.com/national/transport-environment/2025/05/30/45ACZFYRD5GCHJITLVEY6GNIBU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/05/30/45ACZFYRD5GCHJITLVEY6GNIBU/</guid>
-      <dc:creator>정해민 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 30 May 2025 01:29:08 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/A5YCJU3VO65EK2XUHGZ3TQQJQQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;낮 기온이 최고 28도까지 오르며 초여름 날씨를 보인 지난 27일 서울 영등포구 여의도 한강공원을 찾은 시민들이 더위를 식히고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;주말인 31~1일은 고기압의 영향으로 전국이 대체로 맑겠다.&lt;br&gt;&lt;br&gt;기상청은 “(토요일인) 31일 전국이 대체로 맑다가 오후부터 구름 많아지겠다”고 30일 밝혔다. 일요일인 1일에도 전국이 대체로 맑겠으나 전남권과 제주도는 오후부터 차차 흐려질 전망이다.&lt;br&gt;&lt;br&gt;31일 아침 최저 기온은 8~16도, 낮 최고 기온은 22~29도로 예보됐다. 기상청은 “내륙을 중심으로 낮과 밤의 기온차가 15도 내외로 크겠으니 건강 관리에 유의해야 한다”고 했다.&lt;br&gt;&lt;br&gt;서울은 16~29도, 대전 14~28도, 광주 15~27도, 대구 12~29도, 부산 14~26도 등으로 예상된다.&lt;br&gt;&lt;br&gt;미세먼지 농도는 원활한 대기 확산으로 전국이 ‘좋음’에서 ‘보통’ 수준을 보이겠다.&lt;br&gt;&lt;br&gt;일요일인 다음 달 1일에도 내륙을 중심으로 30도 안팎까지 기온이 오를 전망이다. 아침 최저 기온은 12~17도, 낮 최고 기온은 21~31도로 예보됐다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>야산에 추락한 해군 초계기</title>
       <link>https://www.chosun.com/politics/diplomacy-defense/2025/05/30/OKDMM4U5JNCTJG6NE2SDDG2QL4/</link>
       <guid isPermaLink="true">https://www.chosun.com/politics/diplomacy-defense/2025/05/30/OKDMM4U5JNCTJG6NE2SDDG2QL4/</guid>
@@ -966,15 +975,6 @@
       <description/>
       <pubDate>Thu, 29 May 2025 15:55:00 +0000</pubDate>
       <content:encoded>해군 P-3 해상초계기가 훈련을 위해 승무원 4명을 태우고 비행하다가 29일 경북 포항 남구 포항공항 인근 한 농가 주변 공터에 추락했다. 해군 포항기지에서 이륙한 지 약 6분 만이었다. 해군 장교·부사관으로 이뤄진 탑승자 4명은 현장에서 숨진 채 발견됐다. 해군은 사고 원인 확인 시까지 P-3에 대한 비행 중단 조치를 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/V2APSRESDZGOPENTU2SVWDO4LQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;추락 직후 버섯구름… 처참한 현장 - 29일 해군 소속 해상 초계기가 포항 지역 공터에 추락할 당시 버섯구름이 피어 오르고 있는 모습(왼쪽 작은 사진). 해군 P-3 해상 초계기는 이날 훈련을 위해 비행하다 포항 인근에서 추락했고 탑승자 4명 모두 현장에서 숨졌다. /연합뉴스TV 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;해군과 소방 당국 등에 따르면 사고 비행기는 이날 오후 1시 43분쯤 해군 포항기지에서 이륙한 이후 상공을 선회하다가 급격히 하강하면서 오후 1시 49분쯤 굉음과 함께 추락했다. 사고 비행기는 해군 제주기지 소속으로 이날 포항기지에서 이착륙 훈련을 하고 있었다고 한다. 추락한 비행기는 전소했다. 조종사 소령 1명, 부조종사 대위 1명, 부사관인 전술 승무원 2명 등이 탑승하고 있었다.&lt;br&gt;&lt;br&gt;최근 군에는 육·해·공군을 가릴 것 없이 사건·사고가 잇따르고 있다. 대통령과 국방장관이 모두 대행 체제인 상황에서 우리 군의 전반적인 기강 및 준비 태세에 심각한 문제가 생겼다는 지적도 나온다. 공군은 지난 3월 6일 경기 포천 민가 일대에 폭탄 8발을 오폭하는 사고를 냈고 육군은 지난 3월 17일 무인기가 활주로에서 이탈하면서 헬기와 충돌해 전소되는 사고를 냈다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/THASNSA2AZCE3EIHXQR5DQHDEQ.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=송윤혜&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;◇이번엔 해군 ‘잠수함 킬러’ 추락… 군용기 사고 올 들어서만 4번째&lt;/b&gt;&lt;br&gt;&lt;br&gt;해군이 1995년 P-3 계열 초계기를 도입한 후 사고가 난 것은 30년 만에 처음 있는 일이다. 사고 원인은 명확히 밝혀지지 않았다. 사고 당시 포항에는 초속 2~3m의 약한 바람이 불었고 구름도 많지 않았다고 한다. 해군은 “참모차장을 주관으로 사고대책본부를 구성해 사고 원인 등을 확인 중”이라며 “사고기 블랙박스 등을 수습해 정확한 경위를 조사할 예정”이라고 밝혔다. &lt;br&gt;&lt;br&gt;해군은 1995년 미국으로부터 P-3C 8대를 들여왔고, 미군 P-3B를 한국항공우주사업이 개조한 P-3CK 8대를 추가로 들여와 총 16대를 포항과 제주에서 운용해왔다. 이번에 사고가 난 기종은 P-3CK로 2010년 이후 군에 인도된 것으로 전해졌다. 해군은 P-3C 도입 20년 차였던 2015년 ‘무사고 20년 달성’을 발표했지만 30년 차를 맞아 사고가 발생했다.&lt;br&gt;&lt;br&gt;P-3는 길이 35ｍ, 폭 30ｍ, 높이 11ｍ에 터보프롭 엔진 4기를 장착하고 있다. 음파탐지부표 등으로 적 잠수함 위치를 확인하고 어뢰·폭뢰·폭탄·미사일로 적 잠수함이나 해상 표적을 공격하는 ‘잠수함 킬러’다. P-3 계열 초계기는 한국 해군이 작전에 투입하는 유일한 대잠(對潛) 초계기다. 16대가 동·서·남해를 담당해 기체 혹사 우려가 제기되기도 했다. 군은 지난해 P-8A 대잠초계기 6대를 미국에서 도입했지만 아직 작전·훈련에는 투입되지 않고 있다고 군 관계자는 전했다. 비행 중단 조치로 인해 대북 대잠작전에 차질을 빚을 수 있다는 지적도 나온다.&lt;br&gt;&lt;br&gt;최근 군 대형 사고는 계속되고 있다. 지난 3월 6일 공군 KF-16 전투기 2대는 포천에서 시행된 한미 연합훈련 중 우리 민가에 MK-82 공대지 폭탄 8발을 투하하는 초유의 ‘민가 오폭’ 사고를 냈다. 이 사고로 민간인 40명과 군인 26명 등 모두 66명이 다쳤고 건물·차량 등 219건의 재산 피해가 발생했다. 공군은 당시 조종사들이 부주의로 폭격 좌표를 잘못 입력했다고 밝혔다. 이후 당시 최상목 대통령 권한대행, 김선호 국방부 차관(장관 직무대행), 공군참모총장까지 나서 사과하고 재발 방지를 약속했다. &lt;br&gt;&lt;br&gt;그러나 오폭 사고 후 11일 만인 3월 17일 육군 경기 가납리 비행장에서는 착륙을 시도하던 대형 무인기 ‘헤론’이 주기돼 있던 헬기 ‘수리온’을 들이받는 사고가 발생했다. 사고 무인기와 헬기가 모두 전소하면서 300억원대 재산 피해가 발생했다. 육군은 무인기 착륙 과정에서 갑자기 분 돌풍 탓에 충돌 사고가 발생했다며 책임이 없다고 했다. 지난달 18일에는 공군 KA-1 공중통제공격기가 비행훈련 중 기관총 2정과 실탄 500발, 연료탱크 2개를 지상으로 투하하는 사고가 터졌다. 후방석 조종사가 히터 풍량을 조절하려다 버튼을 잘못 눌러 발생한 일이라고 공군은 설명했다. 이후로도 지난달 23일과 지난 28일 육군 최전방 부대에서 북한을 향해 K-6 중기관총 실탄을 1발씩 쏘는 오발 사고도 반복됐다. 화기 점검 간 조작 실수로 알려졌는데, 자칫 남북 간 우발적 충돌이 벌어질 수도 있는 상황이었다. &lt;br&gt;&lt;br&gt;일각에서는 대통령 탄핵과 국방부 장관 공백, 육군참모총장 등 군 주요 지휘관 부재 상황이 장기화하면서 군 사고가 반복되고 있다는 지적도 나온다. 육군에서는 참모총장, 육군 2작전사령관, 수도방위사령관, 특수전사령관이 대행 체제다. 간첩을 잡아야 할 국군방첩사령부 및 대북 및 해외 정보를 담당하고 있는 정보사령부도 사령관 대행 체제로 운영되고 있다. 평상시였다면 지난달 이뤄졌어야 할 전반기 군 장성 인사도 실시되지 않고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[단독] ‘빅4′ 전공의 추가 모집에 서울대 70여명, 세브란스 69명 지원... 지원율 10%</title>
-      <link>https://www.chosun.com/national/welfare-medical/2025/05/29/NEGDFNARSNAEBGRNRDFNDB36XA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/05/29/NEGDFNARSNAEBGRNRDFNDB36XA/</guid>
-      <dc:creator>오유진 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 29 May 2025 09:36:16 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NAKQVSR5YT4WLTR3X7JXNJQZ2A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;자료사진./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 주요 ‘빅5’ 병원들이 5월 전공의 추가 모집을 29일 마감한 가운데, 국내 4대 대형 병원의 전공의 지원율이 10%에 근접한 것으로 나타났다.&lt;br&gt;&lt;br&gt;서울대병원은 이날 오후 6시 기준 모집 인원 723명 중 70여 명이 지원해 9.7%의 지원율을 기록했다. 이날 오후 5시에 모집을 마감한 세브란스병원도 722명 모집에 69명이 지원해 동일한 지원율을 보였다. 지난 1월 상반기 전공의 모집 당시 전체 지원율이 2.2%에 그쳤던 것과 비교하면 크게 오른 수치다.&lt;br&gt;&lt;br&gt;서울아산병원도 모집 인원 565명 중 30여 명이 지원해 지원율 5%대를 기록했다. 삼성서울병원 역시 지원자가 두 자릿수다. 네 병원의 전공의 지원자를 합치면 총 200명에 육박하는 것으로 집계됐다.&lt;br&gt;&lt;br&gt;전날 보건복지부가 추가 모집에 지원하는 인턴에게 수련 기간을 3개월 단축해주기로 했지만, 정작 인턴 지원율은 저조했던 것으로 나타났다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
