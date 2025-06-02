@@ -13,6 +13,36 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>경찰, ‘남편 명의 대리투표’ 선거사무원 구속영장 신청</title>
+      <link>https://www.chosun.com/national/national_general/2025/05/31/F237LSPKBNGKZNO2BTLOEQAHBA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/05/31/F237LSPKBNGKZNO2BTLOEQAHBA/</guid>
+      <dc:creator>김도연 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 31 May 2025 05:08:41 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KHVQR4GDJBO2DGPQKWC2NLUECA.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;대통령 선거 사전투표 이틀째인 30일 오후 '대리 투표' 사건이 발생한 서울 강남구 대치2동 사전투표소에서 유권자들이 투표를 하기 위해 대기하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 대치동의 사전투표소에서 남편 명의로 대리 투표한 강남구 소속 공무원에 대해 경찰이 구속 영장을 신청했다. 해당 공무원은 현재 직위 해제됐다.&lt;br&gt;&lt;br&gt;서울 수서경찰서는 지난 29일 오후 강남구 대치2동 사전투표소에서 선거사무원으로 일하며 남편과 자신의 명의로 투표를 두 번 한 혐의(사위투표)를 받는 60대 공무원 A씨에 대해 구속영장을 신청했다고 31일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 29일 오후 1시쯤 남편 신분증으로 투표용지를 발급해 대리 투표를 마친 후 오후 5시쯤 다시 자신의 신분증으로 투표를 한 혐의를 받는다.&lt;br&gt;&lt;br&gt;경찰은 “투표를 2번 한 사람이 있다”는 무소속 황교안 대선후보 측 참관인의 신고를 받고 출동해 A씨를 긴급체포했다. &lt;br&gt;&lt;br&gt;A씨는 강남구 보건소 소속 공무원으로 선거관리위원회에 29~30일 근무를 신청해 사전투표 사무원으로 위촉됐다. A씨는 이틀 동안 유권자들의 신원을 확인하는 업무를 담당했다. &lt;br&gt;&lt;br&gt;A씨는 지난 총선 때도 선거사무원으로 일한 경력이 있던 것으로 전해졌다. 강남구는 29일 A씨를 직위 해제했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>동급생 사진으로 ‘딥페이크 음란물’ 제작… 10대男, 벌금 500만원</title>
+      <link>https://www.chosun.com/national/national_general/2025/06/02/BWASCOXZ2JCSHKPYHWNZSGHT4Q/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/02/BWASCOXZ2JCSHKPYHWNZSGHT4Q/</guid>
+      <dc:creator>광주광역시=진창일 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 02 Jun 2025 04:59:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QBGAINSKPTZD54OVZYA6N4H57U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;광주지방법원. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;같은 학교에 재학 중인 여학생의 사진으로 음란물을 만들어 온라인상에 퍼지게 한 10대에게 벌금형이 내려졌다.&lt;br&gt;&lt;br&gt;광주지법 형사12단독 안지연 부장판사는 2일 정보통신망 이용 촉진 및 정보보호 등에 관한 법률상 명예훼손 혐의로 기소된 A(19)군에게 벌금 500만원을 선고했다고 밝혔다.&lt;br&gt;&lt;br&gt;A군은 지난해 8월 같은 학교에 재학 중인 B양의 얼굴이 담긴 사진을 이용해 딥페이크 기술로 음란물을 만들고, 신원을 알 수 없는 인물에게 전송해 SNS에 게시하게 한 혐의로 재판에 넘겨졌다. A군은 B양이 직접 쓴 것처럼 속인 허위 내용의 성적인 글까지 작성해 전송한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;안 부장판사는 “게시글의 내용, 표현 정도 등을 고려하면 죄질이 불량하고 범행으로 인해 피해 학생 B양이 상당한 정신적 충격을 느꼈을 것으로 보인다”면서도 “대체로 반성하는 태도를 보이는 점, 범행 후 게시글 삭제를 스스로 요청해 게시 기간이 길지 않은 점 등을 고려해 형을 정했다”고 판시했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/QBGAINSKPTZD54OVZYA6N4H57U.jpg?auth=3501d8d00ba4afd6d239e79908f560bbbc2e6b7e4767d5088372a0cea644a309&amp;smart=true&amp;width=4256&amp;height=2448" type="image/jpeg" height="2448" width="4256">
+        <media:description type="plain">광주지방법원. /뉴스1</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>“변호사 오고 있다”며 음주측정 거부한 남성, 1심서 실형</title>
+      <link>https://www.chosun.com/national/court_law/2025/06/02/35J32EN3DZHRDNG5MQFZEM7LNA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/02/35J32EN3DZHRDNG5MQFZEM7LNA/</guid>
+      <dc:creator>김나영 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 02 Jun 2025 04:06:30 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NZNZRZIOFZE47JEH7UJYA5XLKU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울중앙지법, 서울고법 청사의 모습./박강현 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;자신의 변호사가 올 때까지 음주 측정을 하지 않겠다며 거부한 남성이 1심에서 실형을 선고받았다.&lt;br&gt;&lt;br&gt;서울중앙지법 형사1단독 이춘근 부장판사는 도로교통법 위반(음주측정거부) 혐의로 재판에 넘겨진 A씨에게 징역 10개월을 선고했다.&lt;br&gt;&lt;br&gt;2023년 3월 A씨는 서울 강남구의 한 도로에서 정당한 사유 없이 경찰의 음주 측정 요구에 응하지 않았다. 당시 A씨는 술이 취한 상태에서 자신의 차량을 운전하던 중, 신고를 받고 출동한 경찰로부터 2차례 음주 측정에 응할 것을 요구받았다. 그러나 A씨는 “지금 변호사가 오고 있으니 (변호사가) 오면 측정하겠다”라고 버텼고, 변호사가 도착한 뒤에도 “경찰관들이 가청거리를 벗어난 거리에서 면담하게 해달라는 요구를 받아주지 않았다”라며 측정을 거부했다.&lt;br&gt;&lt;br&gt;재판부는 “음주 측정 거부는 음주운전의 입증과 처벌을 어렵게 하고 공권력 경시 풍조까지 조장하는 범죄로, 음주운전보다 무겁게 처벌할 필요성이 있다”며 A씨에게 징역형을 선고했다. &lt;br&gt;&lt;br&gt;또 당시 A씨는 2020년 10월 도박개정죄로 징역 2년 6개월을 선고받은 뒤 형을 마치고 누범 기간을 보내고 있었는데, 이에 대해 재판부는 “피고인은 누범 기간 중 범행을 했고 여러 차례 처벌받은 전력이 있다”며 “피고인이 임의로 선고기일에 여러 번 불출석한 점 등에 비추어 보면 죄책에 상응하는 엄중한 처벌이 불가피하다”라고 했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>중국·태국 코로나19 증가…질병청 “고위험군, 백신 접종 당부”</title>
       <link>https://www.chosun.com/national/national_general/2025/06/02/JKSEFPEF7VARXM2WADCY4AATWQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/02/JKSEFPEF7VARXM2WADCY4AATWQ/</guid>
@@ -716,33 +746,6 @@
       <description/>
       <pubDate>Thu, 29 May 2025 07:17:08 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WBBNN3M4HJVKRTDSIXVH3F4IZM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤남호 롯데면세점 제주공항점장.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제주국제공항에서 쓰러진 70대 여성을 공항 면세점 직원이 신속한 응급처치로 살렸다.&lt;br&gt;&lt;br&gt;29일 제주도소방안전본부 등에 따르면 지난 28일 오후 3시30분쯤 제주공항 국제선 출발 대합실에서 70대 여성 A 씨가 갑자기 쓰러졌다.&lt;br&gt;&lt;br&gt;당시 현장 인근에 있던 한 남성이 바로 달려와 심폐소생술(CPR)을 2분가량 진행했다. 또 다른 남성은 심장충격기를 가져왔다. 이들의 빠른 조치로 A 씨는 의식을 되찾은 후 119 구급대에 의해 제주시 소재 병원으로 이송됐다.&lt;br&gt;&lt;br&gt;당시 구조에 나선 남성은 윤남호 롯데면세점 제주공항점장으로 확인됐다.&lt;br&gt;&lt;br&gt;윤 점장은 “매장 10m 앞에서 사람들이 모여 웅성거리는 소리를 듣고 무슨 일이 있구나 싶어서 달려갔다”며 “어머니 나이대 여성 분이 쓰러져 계셨고, 어깨도 흔들어보고 코 밑에 손가락을 대보니 호흡이 없어 심폐소생술을 진행했다”고 당시 상황을 설명했다.&lt;br&gt;&lt;br&gt;윤 점장은 한국소방안전원에서 발급하는 1급 소방안전관리자 자격증도 소지하고 있다. 약 3년 전 회사의 권고와 지원을 통해 취득한 것이다.&lt;br&gt;&lt;br&gt;윤 점장은 “평소 회사에서 안전을 중요하게 여기는 만큼 연동 119센터를 통한 주기적인 직원 교육, 제주안전체험관에서의 체험활동 등을 해왔다. 덕분에 CPR 등 응급처치법을 숙지할 수 있었다”고 밝혔다.&lt;br&gt;&lt;br&gt;한편 윤 점장은 지난해 12월 100번째 헌혈을 달성해 지난 2월 대한적십자사 회장 표창을 받기도 했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>수면제 복용 후 ‘비몽사몽’ 운전… 사망사고 낸 40대 ‘집유’ </title>
-      <link>https://www.chosun.com/national/regional/2025/06/01/RTMHTMAG6ZDY5D7BC3YV3VGSOI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/06/01/RTMHTMAG6ZDY5D7BC3YV3VGSOI/</guid>
-      <dc:creator>우정식 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 01 Jun 2025 01:15:51 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RCDUZU42UZDPPAYLO6U3F5GYMI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원 로고. /조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;졸피뎀 성분이 포함된 수면제를 복용한 뒤 운전하다 사고를 내 8명의 사상자를 발생하게 한 혐의로 기소된 운전자에게 징역형의 집행유예가 선고됐다.&lt;br&gt;&lt;br&gt;1일 법조계에 따르면 대전지법 형사12단독 이재민 부장판사는 특정범죄가중처벌법상 위험운전치사상 혐의로 재판에 넘겨진 A(47)씨에게 징역 3년에 집행유예 5년을 선고했다.&lt;br&gt;&lt;br&gt;A씨는 2023년 2월 6일 오전 9시 55분쯤 대전 서구 관저동 한 교차로에서 전날 복용한 수면제 약물 영향이 남아 있는 상태에서 운전하다 맞은편 도로를 달리던 B(66)씨의 차량과 충돌했다. 사고 여파로 인근에 있던 차량 6대가 잇따라 부딪혔다. 이 사고로 B씨가 현장에서 숨지고, 다른 운전자 등 7명이 다쳤다.&lt;br&gt;&lt;br&gt;A씨는 당시 제한속도 60㎞ 도로에서 108㎞로 과속 운전한 것으로 나타났다. 오랜 기간 우울증과 공황장애를 앓았던 A씨는 사고 전날 저녁 치료제를 복용했고, 취침 전 졸피뎀 성분이 포함된 스틸녹스 수면제를 먹은 것으로 조사됐다.&lt;br&gt;&lt;br&gt;그는 그동안 수면제를 복용하면서 별다른 부작용이 없었고, 운전 시점은 수면제 복용 후 상당한 시간이 지나 약물 성분이 체내에 거의 남아 있지 않은 상태였다고 무죄를 주장했다. 하지만 법원은 이를 받아들이지 않았다.&lt;br&gt;&lt;br&gt;이 부장판사는 “피고인은 수면제를 복용해 정상적인 운전이 곤란한 상태였고, 이에 따라 적정한 속도로 운전하지 못하고 조향 및 제동장치도 적절하게 조작하지 못해 사고를 일으켰다는 점을 충분히 인정할 수 있다”고 판시했다.&lt;br&gt;&lt;br&gt;그러면서 “피고인이 형사 처벌을 받은 전력이 없고, 사망자 유족과 합의해 유족이 처벌을 원하지 않는 점, 피고인도 현재까지 휠체어에 의지해 생활하며 앞으로 장애를 갖고 살아가게 될 것으로 보이는 점 등을 고려했다”고 양형 이유를 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>북한산서 암벽 등반하던 30대 남성 추락 사망 </title>
-      <link>https://www.chosun.com/national/national_general/2025/06/01/B5AVW6NYK5FITMFOGSZJZLCK7M/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/01/B5AVW6NYK5FITMFOGSZJZLCK7M/</guid>
-      <dc:creator>김명일 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 01 Jun 2025 01:19:31 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/X4WX55AXSBGOJAEPHUXGIU3CIA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 관련 이미지. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;북한산에서 암벽 등반을 하던 30대 남성이 추락해 사망하는 사고가 발생했다.&lt;br&gt;&lt;br&gt;1일 경찰과 소방 당국 등에 따르면 전날(5월 31일) 오후 4시쯤 경기 고양시 덕양구 인근 북한산 인수봉에서 암벽 등반을 하던 30대 남성 A씨가 약 30m 아래로 추락하는 사고가 발생했다. &lt;br&gt;&lt;br&gt;이 사고로 전신 다발성 골절 등을 입은 A씨는 병원으로 옮겨졌지만 결국 사망했다.&lt;br&gt;&lt;br&gt;경찰은 구체적인 사고 경위 등을 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>학대하던 父의 죽음, 그 이후…쓰레기집 속 청년의 ‘재시작’ 이야기</title>
-      <link>https://www.chosun.com/national/national_general/2025/06/01/RV4FZUOAL5FBDPA3BGW5Z3536Y/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/01/RV4FZUOAL5FBDPA3BGW5Z3536Y/</guid>
-      <dc:creator>이가영 기자</dc:creator>
-      <description/>
-      <pubDate>Sat, 31 May 2025 22:00:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/X46KNT6D75HHVCYZT3MI2PR27E.jpeg"&gt;&lt;figcaption&gt;&lt;small&gt;경기도 부천에 사는 우모(34)씨의 집 내부가 쓰레기로 가득차 있다. /이랜드복지재단&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“그땐 그냥, 하루를 버티는 것도 힘들었어요. 지금은, 그래도 내일을 생각하게 됐어요.”&lt;br&gt;&lt;br&gt;지난 21일 경기 부천시의 한 빌라에서 만난 우모(34)씨는 이렇게 말했다. 아버지와 어렸을 때부터 살던 그의 집은 얼마 전까지만 해도 쓰레기로 가득했다. 우씨 역시 건강도, 마음도 무너진 채 하루하루를 버텨야 했다. &lt;br&gt;&lt;br&gt;&lt;b&gt;◇상처로 얼룩진 과거&lt;/b&gt;&lt;br&gt;&lt;br&gt;우씨의 삶은 어린 시절부터 순탄치 않았다. 어머니는 얼굴도 알지 못했고, 홀로 자신을 키운 아버지의 폭력은 깊은 상처로 남았다. &lt;br&gt;&lt;br&gt;어느 날, 술에 취한 아버지는 초등학생이었던 우씨를 흉기로 찌르겠다며 협박했다. 그때 남은 트라우마로 칼과 피가 너무 두려운 나머지 우씨는 지금도 요리를 할 엄두를 내지 못한다. 어떤 날은 ‘훈계한다’며 우씨를 세탁기에 집어넣었고, 청소기를 집어던진 날도 있었다고 한다. 우씨의 이마에는 여전히 그날의 흉터가 남아 있다. &lt;br&gt;&lt;br&gt;우씨는 성인이 되자마자 집을 떠난 후 아버지와 연락을 끊었다. 그가 31세가 됐을 때 경찰을 통해 아버지의 사망 소식을 듣게 됐다. 그토록 냉랭했던 아버지였지만, ‘집으로 돌아왔으면 좋겠다’는 마지막 유언이 우씨를 다시 집으로 이끌었다. &lt;br&gt;&lt;br&gt;&lt;b&gt;◇삶을 집어삼킨 그림자 &lt;/b&gt;&lt;br&gt;&lt;br&gt;하지만 홀로 남은 집에서 우씨는 깊은 무기력함에 빠져들었다. 미워했지만, 유일한 보호자였던 아버지가 세상을 떠난 뒤 그는 스스로 고립을 택했다. 집 밖을 나가는 건 새벽 2시, 편의점에서 라면을 사올 때뿐이었다. 집에 누군가 찾아와도 절대 문을 열어주지 않았다. &lt;br&gt;&lt;br&gt;눈을 뜨고 있는 시간에는 게임만 했다. 그러다보니 집에 하나둘씩 쓰레기가 쌓여갔다. 나중에는 누워있는 공간 외에는 쓰레기가 벽처럼 쌓였다. &lt;br&gt;&lt;br&gt;건강 상태도 심각해졌다. 2년 동안 라면만 먹다 보니 방에서 거실까지 걷는 것도 힘들 정도였다. 죽음을 결심할 정도로 삶의 끝자락에 서 있던 그에게는 아무것도 할 힘이 남아있지 않았다. 마치 쓰레기가 쌓이듯 그의 마음속에도 절망이 차곡차곡 쌓여갔다. &lt;br&gt;&lt;br&gt;&lt;b&gt;◇한 줄기 빛, 그리고 용기 있는 한 걸음&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/B3THWLS3OJERRHD7QLOLL3T7LM.jpeg"&gt;&lt;figcaption&gt;&lt;small&gt;쓰레기를 치운 후 도배와 장판을 새로 한 우씨의 집 모습. /이랜드복지재단&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;스스로 목숨을 끊으려던 그를 붙잡은 건 한 통의 전화였다. 우씨는 고마웠던 이들에게 마지막 인사를 하기 위해 연락했다. 전화를 받은 고모는 “죽지 말고, 몸이 안 좋으면 병원에 가보라”고 타일렀다. &lt;br&gt;&lt;br&gt;이 한마디는 우씨가 다시 세상 밖으로 나올 수 있는 작은 용기를 줬다. 119에 전화해 응급실에 실려갔고, 간경화 진단과 함께 신장 기능이 20%밖에 남아 있지 않다는 이야기를 들었다. 우씨는 “지금 생각해보면 실은 살고 싶어서 주변에 연락을 취했던 것 같기도 하다”고 했다. &lt;br&gt;&lt;br&gt;어렵게 집 밖으로 나온 우씨를 세상은 홀로 두지 않았다. 고모는 병원비를 지원해줬고, 이랜드복지재단은 집 수리를 맡았다. 쓰레기를 모두 치우고 도배‧장판까지 새로 해 깨끗한 집으로 만들어줬다. 주민센터 직원은 우씨에게 꾸준히 연락하며 각종 지원 프로그램을 안내했다. &lt;br&gt;&lt;br&gt;우씨는 “집 청소만 해주고 끝났다면 저는 어쩌면 다시 예전으로 돌아갔을지도 모른다”며 “그런데 계속 옆에 있어준다는 느낌을 받았다. 이렇게 도와주는 사람이 많은데, 변해야겠다는 생각이 들었다”고 했다. &lt;br&gt;&lt;br&gt;&lt;b&gt;◇다시 시작된 삶, 그리고 미래를 향한 희망&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZKIXPZK5FJB67LJBJR56VO4XU4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;우씨의 집 거실에는 돌아가신 아버지와 어렸을 때 찍은 본인의 사진이 걸려 있다. /이가영 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;우씨는 현재 중독센터에 다니며 게임 중독과 우울증을 극복하기 위해 노력 중이다. 일을 하기 위해 국가에서 지원하는 교육도 정기적으로 받고 있다. 우씨는 “컴퓨터 관련 일을 하고 싶다”고 했다. 대학에 붙었지만 등록금을 내줄 사람이 없어서 포기했던 꿈이다. &lt;br&gt;&lt;br&gt;우씨는 거실 벽에 아버지의 사진을 걸어두고 매일 바라본다. 아버지를 향한 마음의 상처가 다 아물지는 않았지만, 그 상처를 외면하지 않고 살아가는 중이다. &lt;br&gt;&lt;br&gt;그는 같은 처지에 놓인 청년들에게 말했다. “혼자는 절대 안 됩니다. 누가 도와줄 때, 자존심을 내려놓고 도움을 받으세요. 정부 지원도 생각보다 많더라고요. 나만 생각하면 바뀌는 게 쉽지 않지만, 나를 도와주는 사람들을 생각하면 조금씩 움직이게 될 거예요.” &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>백종원 방송활동 중단 3주 만에…새로 올라온 영상, 댓글은 차단</title>
