@@ -13,6 +13,76 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>‘한국형 전투기 자료유출’ 인도네시아 기술자, 형사 처분 면했다</title>
+      <link>https://www.chosun.com/national/national_general/2025/06/02/5IGNZYSWJZCKPF2E5R2IP6LSUU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/02/5IGNZYSWJZCKPF2E5R2IP6LSUU/</guid>
+      <dc:creator>이가영 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 02 Jun 2025 13:24:38 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HEA25KF4RMQ23OOQKNRCPHNEWE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한국항공우주산업(KAI)이 개발한 한국형 전투기 KF-21. /공군 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한국형 전투기 KF-21 개발 관련 자료 유출 혐의로 수사를 받아온 인도네시아 기술자 5명 전원이 형사 처벌을 면했다. &lt;br&gt;&lt;br&gt;검찰은 지난달 말 인도네시아 기술자 5명의 방산기술보호법‧방위사업법‧대외무역법 위반 혐의에 대해 무혐의 처분을, 부정경쟁방지법 위반 혐의에 대해서는 기소유예 처분을 내렸다. 기소유예란 혐의가 인정되지만 검사가 여러 정황을 고려해 피의자를 재판에 넘기지 않는 처분이다. &lt;br&gt;&lt;br&gt;검찰은 이들이 한국항공우주산업(KAI) 파견 기간 외부 유출을 시도하다가 적발된 자료에 중요한 기밀이 포함돼 있지 않아 형사 처분을 면하는 결정을 내린 것으로 전해졌다. &lt;br&gt;&lt;br&gt;작년 1월 17일 경남 사천 KAI 본사에서 근무하던 인도네시아 기술자들은 KF-21 개발 과정 등 다수의 자료가 담긴 USB를 유출하려다 적발됐다. 이번 검찰의 무혐의 및 기소유예 처분으로 이들에 대한 수사는 1년 반 만에 사실상 종결됐다. &lt;br&gt;&lt;br&gt;이에 따라 KF-21을 둘러싼 우리 정부와 인도네시아 정부 간 갈등이 봉합 국면으로 접어들 것이라는 전망도 나온다. 우리 정부는 작년 8월 재원 조달에 어려움을 겪는 인도네시아의 KF-21 개발 분담금을 1조6000억원에서 6000억원으로 삭감하고, 그 대신 기술이전 규모를 축소하기로 결정했다. 이후 인도네시아 정부에 합의서 개정을 요청했으나 인도네시아 측은 자국 기술진 수사가 부당하다는 이유로 개정 논의에 적극적으로 응하지 않았다. 수사가 마무리됨에 따라 인도네시아 정부가 KF-21 공동개발 합의서 개정 논의에 전향적인 태도를 보일 가능성이 제기된다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>뜨거운 아스팔트 위로 쓰러진 어르신…한 사람의 ‘관심’이 생명 살렸다</title>
+      <link>https://www.chosun.com/national/national_general/2025/06/02/HH5Q2IDK6FAXHMVIKY2OBLQUH4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/02/HH5Q2IDK6FAXHMVIKY2OBLQUH4/</guid>
+      <dc:creator>이가영 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 02 Jun 2025 13:04:39 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LI7NHDNHJFHYPIFDOLSQDF62UI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 26일 경기 이천시 송정동의 한 거리에서 어르신이 땡볕에 뜨거워진 아스팔트 위로 쓰러지자 인근 상점 주인이 다가와 구호조치를 하고 있다. /이천시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기도 이천에서 한 시민의 선행이 위기에 처한 어르신의 생명을 살린 사연이 전해졌다. &lt;br&gt;&lt;br&gt;2일 이천시에 따르면, 지난달 26일 오후 1시 20분쯤 송정동 한 거리에서 지팡이를 짚고 걸어가던 어르신이 갑자기 중심을 잃고 비틀거리다가 뜨거운 아스팔트 바닥 위로 넘어졌다. 어르신은 충격으로 인해 쉽게 일어나지 못했다.&lt;br&gt;&lt;br&gt;이 모습을 발견한 인근 상점 주인은 망설임 없이 가게 밖으로 뛰쳐나왔다. 그는 강한 땡볕 아래 뜨겁게 달궈진 아스팔트 바닥에 쓰러진 어르신에게 다가가 상태를 살핀 후 어르신을 그늘진 곳으로 옮기고, 시원한 물을 제공하는 등 신속한 응급 조치를 취했다. &lt;br&gt;&lt;br&gt;이 모든 상황은 이천시 CCTV 통합관제센터에서 실시간 모니터링 중이던 관제 요원에게 포착됐다. 관제 요원은 즉시 112 상황실에 해당 내용을 통보했고, 경찰의 신속한 출동이 이뤄졌다. &lt;br&gt;&lt;br&gt;경찰이 도착할 때까지 상점 주인은 어르신의 곁을 지키며 세심하게 보살폈다. 곧이어 현장에 도착한 경찰관들은 상점 주인의 도움을 받아 어르신을 안전하게 구호 조치했다. 다행히 어르신은 큰 부상 없이 안정을 되찾은 것으로 전해졌다. &lt;br&gt;&lt;br&gt;김경희 이천시장은 “CCTV 통합관제센터의 신속한 상황 파악과 경찰의 발 빠른 출동도 중요했지만, 무엇보다 위험에 처한 어르신을 외면하지 않고 즉시 달려나와 도움을 주신 상점 주인의 선행에 깊은 감사를 드린다”며 “이러한 시민들의 따뜻한 관심과 행동 하나하나가 우리 이천시를 더욱 안전하고 살기 좋은 공동체로 만드는 밑거름이 될 것”이라고 밝혔다. &lt;br&gt;&lt;br&gt;이천시는 이번 일을 첨단 시스템과 성숙한 시민의식이 어우러져 소중한 생명을 보호한 모범 사례로 삼고, 앞으로도 이웃을 돕는 아름다운 선행이 확산될 수 있도록 노력할 방침이다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>전공의 860명 추가 복귀해 총 2532명… 의정 갈등 이전의 18.7%</title>
+      <link>https://www.chosun.com/national/welfare-medical/2025/06/02/4ZCLWBMWVRFTHBSZD3VT7EVSEM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/06/02/4ZCLWBMWVRFTHBSZD3VT7EVSEM/</guid>
+      <dc:creator>오유진 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 02 Jun 2025 12:41:39 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OB3ZT6UEYKOS55K3VU4WWWDUJA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 27일 서울의 한 대학 병원에 붙어 있는 전공의 서류 접수 안내문. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전국 수련 병원에서 사직 전공의를 대상으로 한 추가 모집이 마무리된 가운데, 860명이 병원에 복귀해 수련을 재개한 것으로 나타났다.&lt;br&gt;&lt;br&gt;2일 보건복지부 수련환경평가위원회에 따르면, 지난달 31일까지 전국 수련 병원에서 진행된 추가 모집 결과 전체 모집 인원 1만4456명(인턴 3157명·레지던트 1만1299명) 가운데 860명(5.9%)이 합격했다.&lt;br&gt;&lt;br&gt;이에 따라 전국에서 수련 중인 전공의는 2532명으로 늘었다. 지난해 2월 사직하지 않고 수련을 이어온 전공의 850명, 올 상반기 복귀자 822명, 이번 복귀자 860명을 합한 수치다. 의정 갈등 이전(1만3531명)의 18.7% 수준이다.&lt;br&gt;&lt;br&gt;앞서 정부는 상급 연차 레지던트가 내년 초 전문의 시험을 치를 수 있도록 5월 중 추가 모집을 허용했다. 인턴은 내년 3월 레지던트 승급이 가능하도록 수련 기간을 12개월에서 9개월로 단축했다. 군 미필 전공의에겐 수련을 마친 뒤 입영할 수 있도록 입영 연기 방안도 검토 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>시내버스 파업 끝났지만...창원 5일간 ‘출퇴근 지옥’</title>
+      <link>https://www.chosun.com/national/2025/06/02/IZ5N2MOL5ZCK7C6GZWEI2WXZPY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2025/06/02/IZ5N2MOL5ZCK7C6GZWEI2WXZPY/</guid>
+      <dc:creator>창원=김준호 기자, 창원=김주영 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 02 Jun 2025 12:12:41 +0000</pubDate>
+      <content:encoded>지난달 28일 총파업에 돌입했던 경남 창원 시내버스 노조가 파업 5일 만인 2일 오후 버스 운행을 재개했다. 노사 양측은 이날 기본급 3% 인상, 정년 63세에서 64세로 연장, 출산 장려금 200만원 지급, 하계 수련비 40만원 인상 등에 합의했다. &lt;br&gt;&lt;br&gt;그러나 상처가 컸다. 창원 시민들은 지난 5일간 ‘출퇴근 지옥’을 겪었다. 창원은 서울·부산과 달리 지하철이 없어 시내버스가 사실상 유일한 대중교통이다. 창원 시민 100만명이 5일간 대중교통 없는 도시에서 산 셈이다. 창원 시내버스 노조가 이렇게 장기간 운행을 중단한 건 이번이 처음이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UQF4DCDE6VDWTL3YB5R74VUAXI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=김성규&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 오전 7시 30분 창원시 성산구 대동백화점 버스정류장. 시민 11명이 굳은 얼굴로 창원시가 투입한 ‘임시 버스’를 기다리고 있었다. “무인 버스를 빨리 도입해야 하는데” “이 정도면 노조를 상대로 손해배상을 청구해야 하는 것 아닌가” 하는 원망이 쏟아졌다. 직장인 김모(41)씨는 “임시 버스가 30분이 지나도 안 온다”며 근처 택시 승강장으로 뛰었다.&lt;br&gt;&lt;br&gt;창원시는 매일 2억원을 들여 전세버스 152대와 택시 330대를 투입했지만 시내버스를 대신하기에 턱없이 부족했다. &lt;br&gt;&lt;br&gt;창원공단의 중소기업에 다닌다는 직장인 정모(35)씨는 “창원시 홈페이지를 보니 임시 버스의 배차 간격이 2시간 25분으로 나오더라”며 “사흘 동안 택시비로 10만원을 썼는데 이 돈은 누가 보상해 주느냐”고 했다.&lt;br&gt;&lt;br&gt;학교나 학원에는 지각생이 속출했다. 일부 학교는 등교 시간을 오전 9시에서 10시로 1시간 늦췄다. 마산합포구 진동면에 사는 최모(51)씨는 “고등학생인 아들 학원 보내느라 저와 남편, 친정 엄마까지 돌아가면서 (자가용으로) ‘학원 라이딩’을 했다”며 “시민 세금으로 운영하는 버스가 왜 시민들을 힘들게 하는지 모르겠다”고 했다.&lt;br&gt;&lt;br&gt;올해 초 창원NC파크 프로야구장 근처에 식당을 차렸다는 김모(34)씨는 “한 달 전 야구장에서 관중 사망 사고가 터져 손님이 줄었는데 버스까지 파업을 하니 죽을 맛”이라고 했다.&lt;br&gt;&lt;br&gt;시민들은 스스로 해결책을 찾아 나섰다. 창원 지역 중고 거래 앱에는 ‘택시 카풀을 원한다’는 글이 잇따랐다. 이날 오전 7시쯤 이 중고 거래 앱 게시판에는 ‘진해경찰서에서 성산구청까지 택시 같이 타실 분’이란 제목의 글이 올라왔다. 순식간에 조회 수 140회를 넘겼다. ‘장천동에서 창원까지 같이 택시 타실 분 ㅠㅠ’ ‘혹시 내일 12시쯤 상남 쪽으로 택시 요금 반반 해서 가실 분 있나요’ 같은 글도 줄지어 올라왔다. 글마다 ‘늦었나요’ ‘제가 탈 수 있을까요’ 등의 댓글이 달렸다. &lt;br&gt;&lt;br&gt;평소 흔하던 공공 자전거는 동이 났다. 이날 오전 8시쯤 성산구의 한 아파트 앞 공공 자전거 거치대는 텅 비어 있었다. 평소 공공 자전거 10~20대가 서 있던 곳이다. 주민 강모(33)씨는 “아침 일찍 서두르지 않으면 자전거도 못 탄다”고 했다. 창원시에 따르면, 출퇴근 시간 공공 자전거 이용 건수는 파업 전날인 지난달 27일 6041건에서 30일 8514건으로 41% 증가했다. &lt;br&gt;&lt;br&gt;파업 기간 창원시에는 시와 버스 노사를 원망하는 항의 전화가 매일 3000통 넘게 쏟아졌다고 한다. 창원시 관계자는 “파업을 왜 막지 못했느냐고 하는데 우리도 괴롭다”고 했다.&lt;br&gt;&lt;br&gt;창원에는 시내버스 705대가 운행 중이다. 기사는 1620여 명, 이들의 평균 연봉은 5500만원이다. 창원시가 예산을 들여 버스 회사의 적자를 보전해주는 준공영제 방식으로 운영한다. 창원시는 지난해 버스 회사에 856억원을 지원했다.&lt;br&gt;&lt;br&gt;노사는 작년 12월부터 임금·단체협약 교섭을 벌였지만 정기 상여금을 통상임금에 포함하느냐를 두고 평행선을 달렸다.&lt;br&gt;&lt;br&gt;노조는 작년 12월 대법원 판결에 따라 정기 상여금을 통상임금에 포함해야 한다고 주장한 반면, 사측과 창원시는 인건비 부담이 너무 크니 통상임금 등 임금 체계를 개편하자고 했다. 이날 양측은 기본급 3% 인상 등에 합의하면서 통상임금에 대해선 결정을 미뤘다. 노조가 지난해 사측을 상대로 낸 통상임금 소송 결과에 따르기로 했다. 노동계에선 “노조가 승소할 가능성이 커 실질적으로 임금 인상률이 10%가 넘을 것”이라는 분석이 나온다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/UKSHSMZIE5CXVOTZLLINP3UBWE.jpg?auth=bec1c28c8cd1e77e0b6c8f58e14e45d8c8efe352003a2ba362fc3749be92d501&amp;smart=true&amp;width=4032&amp;height=3024" type="image/jpeg" height="3024" width="4032">
+        <media:description type="plain">경남 창원시 버스 파업 엿새째인 2일 오후 성산구 대방동 한 버스차고지에 세워진 전세버스에 버스 번호판이 붙여져 있다./2025.06.02 김동환 기자</media:description>
+        <media:credit role="author" scheme="urn:ebu">김동환 기자</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>규제개혁위, ‘폭염 때 20분 휴식’ 의무화 추진 제동</title>
+      <link>https://www.chosun.com/national/labor/2025/06/02/KF72XGGLZ5D3HLXCWKHQLHFCCA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/labor/2025/06/02/KF72XGGLZ5D3HLXCWKHQLHFCCA/</guid>
+      <dc:creator>김아사 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 02 Jun 2025 12:18:23 +0000</pubDate>
+      <content:encoded>고용노동부가 근로자를 폭염에서 보호하기 위해 체감 온도 33도 이상 작업 환경에서는 2시간마다 20분씩 쉬도록 의무화하고 이를 어길 경우 사업주를 처벌토록 한 데 대해, 규제개혁위원회(규개위)가 제동을 걸었다. 규개위는 신설되는 규제의 적정성을 심사하는 역할을 하는데, 현실을 반영하지 못해 실효성이 떨어진다는 것이다.&lt;br&gt;&lt;br&gt;2일 정부에 따르면, 규개위는 최근 논란이 된 고용부의 ‘산업안전보건기준에 관한 규칙(산안규칙)’에 대해 2차례 심사를 거쳐 “노동자 건강 장해 예방에 실효성이 있는지 명확치 않고, 중소·영세 사업장에 부담이 되는 획일적 규제”라며 철회를 권고했다. 이에 이날 고용부는 “자체 검토를 거쳐 산안규칙 개정안을 재입법 예고하겠다”고 밝혔다. 그러자 민주노총은 “규개위 결정이 노동자들을 살인적 폭염에 내몰았다”고 했다. &lt;br&gt;&lt;br&gt;지난 1월 고용부는 산안규칙 입법예고를 통해 체감온도 33도 이상 작업 장소에서 작업을 할 경우, 매 2시간 이내에 20분 이상 휴식 시간을 부여토록 했다. 이를 어기는 사업주는 5년 이하의 징역 혹은 5000만원 이하의 벌금에 처해지도록 했다. &lt;br&gt;&lt;br&gt;기업들에서는 “현실과 맞지 않다”는 비판이 제기됐다. 한국경영자총협회 측은 “사업장마다 다른 작업 환경을 고려치 않은 일률적 규제”라며 “대신 노사 합의로 정하게 해야 한다”고 했다. 한 제조 업체 관계자는 “개정안대로라면 여름엔 하루 1시간 정도 작업을 중단해야 한다”며 “영세 사업장이 타격을 입을 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>뺑소니 사망사고 내고 출근한 40대...회사에서 검거</title>
+      <link>https://www.chosun.com/national/national_general/2025/06/02/MTZLPTXQDRD2ZJH5YN6JCI2ORM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/02/MTZLPTXQDRD2ZJH5YN6JCI2ORM/</guid>
+      <dc:creator>진창일 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 02 Jun 2025 11:57:45 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JXTPF5H5AESG3Z3DPCGQ2KMU3E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;울산북부경찰서. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;뺑소니 사망 사고를 내고 달아난 혐의를 받는 40대가 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;울산 북부경찰서는 2일 특정범죄 가중처벌 등에 관한 법률상 도주치사 혐의로 40대 운전자 A씨를 긴급체포해 조사 중이라고 밝혔다.&lt;br&gt;&lt;br&gt;경찰에 따르면 A씨는 이날 오전 7시 7분쯤 울산 북구 신명동의 한 도로에서 자신의 차량을 운전하다 앞서 달리던 전동 카트를 들이받은 뒤 달아난 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;전동카트에는 60대 운전자 B씨와 B씨의 아내가 타고 있었다. 이 사고로 B씨가 숨졌고, B씨 아내는 중상을 입어 병원으로 옮겨졌다.&lt;br&gt;&lt;br&gt;경찰은 사고 현장 인근 방범카메라(CCTV)를 토대로 A씨 차량을 특정한 뒤 사고로부터 약 8시간 30분 만에 회사에 출근한 A씨를 검거했다. 경찰은 A씨의 음주운전 여부를 조사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/JXTPF5H5AESG3Z3DPCGQ2KMU3E.jpg?auth=22d4b4c6f763831dbc80f922ef338882a9f11e737a39b463d57a24b74083cca0&amp;smart=true&amp;width=6016&amp;height=4016" type="image/jpeg" height="4016" width="6016">
+        <media:description type="plain">울산북부경찰서. /뉴스1</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>‘사의 표명’ 중앙지검장, 새 정부서 사표 수리 여부 결정될 듯</title>
+      <link>https://www.chosun.com/national/court_law/2025/06/02/E4T24SXKJZCEXDTNFYOIVM2MLQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/02/E4T24SXKJZCEXDTNFYOIVM2MLQ/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 02 Jun 2025 11:28:13 +0000</pubDate>
+      <content:encoded>지난달 사의를 표명한 이창수 서울중앙지검장의 사표가 2일 수리되지 않으면서, 이 지검장의 거취는 사실상 차기 정부에서 결정될 전망이다. 당초 이 지검장은 이날까지 근무한 뒤 직을 내려놓겠다는 뜻을 법무부에 전했지만, 사표가 수리되기 전까지는 계속 근무해야 한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VZHEBSA6RWTVY3P2NNN5O6J6AA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이창수 서울중앙지검장과 조상원 중앙지검 4차장검사./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이번 대선은 인수위원회 설치 등의 절차 없이 당선인이 바로 업무를 시작하는 만큼, 두 검사의 사표 수리 여부도 대선 당선인이 결정할 가능성이 크다고 법조계는 내다본다. 다만 중앙지검 소속 검사와 수사관들은 이날 오후 늦게 두 검사의 사무실을 차례로 방문해 인사를 나눈 것으로 전해졌다. 이 지검장은 오는 3일 대선 본투표가 열리는 만큼 관련 상황을 지휘할 것으로 전해졌다. 사실상 정상 근무를 하는 것이다. &lt;br&gt;&lt;br&gt;이 지검장은 지난해 5월 서울중앙지검장으로 보임했다. 김건희 여사의 ‘도이치모터스 주가 조작’ 의혹, ‘디올 백 수수’ 의혹을 수사한 뒤 불기소 처분했다. 민주당은 ‘봐주기 수사’라며 반발했고, 이 지검장과 조 차장검사는 그해 12월 5일 국회에서 탄핵소추됐다. 헌법재판소는 98일 만인 지난 3월 13일 검사들 탄핵안을 재판관 8명 전원 의견으로 기각했다.&lt;br&gt;&lt;br&gt;한편 헌정 사상 처음으로 탄핵소추됐던 안동완 서울고검 검사의 사표는 수리된 것으로 전해졌다. 안 검사는 이날 검찰 내부망 이프로스를 통해 “개인적인 사정으로 떠나게 되어 죄송한 마음”이라며 “그동안 받았던 은혜를 잊지 않고 갚아나가겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>전남 진도군 진도항에 일가족 4명 탑승 승용차 추락해 해경 수색</title>
       <link>https://www.chosun.com/national/national_general/2025/06/02/3DRLCFPYDJA3HHO3LCQ3SJZSQI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/02/3DRLCFPYDJA3HHO3LCQ3SJZSQI/</guid>
@@ -536,42 +606,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/X4AL2S26YNFB5N7TZGZRPZQPYY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[매일매일 중국어 한마디] 선거(하다)</title>
-      <link>https://www.chosun.com/national/nie/chinese/2025/06/02/XSY5YLKZDJHFPF3PB4OXGJE4ZU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese/2025/06/02/XSY5YLKZDJHFPF3PB4OXGJE4ZU/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Sun, 01 Jun 2025 16:46:19 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MJ4AOA7BEBETHMCQPO3TDN3JFY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[스피킹이 강해지는 영어] cramp one’s style</title>
-      <link>https://www.chosun.com/national/nie/english/2025/06/02/2MEBFB2DOVAFNMH3THHSON4IZ4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/english/2025/06/02/2MEBFB2DOVAFNMH3THHSON4IZ4/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Sun, 01 Jun 2025 16:45:49 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/I2SG6FTKEVE2DD7O5XNBSWEIRA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[두근두근 뇌 운동] [2633] 열려라, 단어 창고</title>
-      <link>https://www.chosun.com/national/nie/2025/06/02/O736NJ4LRVHN5IPSNDM74BUWXY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2025/06/02/O736NJ4LRVHN5IPSNDM74BUWXY/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Sun, 01 Jun 2025 16:45:06 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TOVL6PQ5ONFMPCRH6HZHGPVFT4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>하늘이 원망스러운 초계기 해군 유족</title>
-      <link>https://www.chosun.com/national/national_general/2025/06/02/KU2TRCNBIJGYDBNVDAIVFS7NGU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/02/KU2TRCNBIJGYDBNVDAIVFS7NGU/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Sun, 01 Jun 2025 16:22:39 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4F72LZIW5FHSFKWXOAUIM7L46Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;1일 경북 포항시 남구 해군 항공사령부 강당에서 해군 초계기 추락 사고로 순직한 장병 4명의 합동 영결식이 열린 가운데 순직자 유족이 부축을 받으면서 눈물을 흘리고 있다. 이들은 지난달 29일 오후 대잠수함 초계기에 타고 해군 포항기지 일대에서 이착륙 훈련을 하던 중 인근 야산에 추락해 모두 숨졌다. 순직 장병은 정조종사 박진우 중령(해사 68기, 이하 추서 진급된 계급), 부조종사 이태훈 소령(해사 73기), 전술사 윤동규 상사(부사관 260기), 전술사 강신원 상사(부사관 269기)다. 모두 1계급 추서 진급, 순직으로 결정됐다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[오늘의 판결] 안마사가 통증 시술… 대법 “불법 의료행위”</title>
       <link>https://www.chosun.com/national/court_law/2025/06/02/MUZ5DFFMYVFRTMKZ5MCBXGTYP4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/02/MUZ5DFFMYVFRTMKZ5MCBXGTYP4/</guid>
@@ -602,24 +636,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MT24IAR7EVDGHDL76HWTRGRKVQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 지하철 5호선 여의나루~마포역 사이에서 방화로 인한 화재가 발생한 지난 31일 오전 구급대원들이 연기를 마신 환자를 이송하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난달 31일 서울 지하철 5호선 방화 사건은 수십 명이 연기 흡입으로 병원에 옮겨진 것 외에 인명 피해는 발생하지 않았다. 그러나 열차 내 위급 상황을 실시간으로 감시하는 체계가 작동하지 않는 등 사고 대응 체계를 보완해야 한다는 지적도 나온다.&lt;br&gt;&lt;br&gt;양부남 더불어민주당 의원실에 따르면 열차 내 화재 당시 상황이 담긴 보안 카메라가 관제센터로 실시간 전송되지 않은 것으로 파악됐다. 5호선 열차에는 한 칸당 보안 카메라 4대가 설치돼 있다. 그러나 이 영상은 기관사에게만 전달될 뿐 관제 센터에서는 확인할 수 없다. 결국 기관사가 직접 신고하지 않는 이상 외부에서는 열차 내 상황을 실시간으로 파악할 수 없는 구조다.&lt;br&gt;&lt;br&gt;서울교통공사는 “5호선의 경우 운행되고 있는 열차 수가 많고 보안 카메라 송출량이 방대해 실시간 전송은 기술적으로 어렵다”고 했다. 그러나 서울시와 자치구는 이미 10만여대의 보안 카메라를 실시간 관리, 파악하고 있다. 서울시는 지난해부터는 공원·등산로 등의 일부 보안 카메라는 AI(인공지능) 기술을 적용해, 위험 상황이 발생하면 영상이 자동으로 관제센터와 112·119 상황실에 전송되도록 하고 있다.&lt;br&gt;&lt;br&gt;이번 화재 발생 직후 기관사가 승객들에게 안내 방송을 했지만, 많은 승객은 본지 인터뷰에서 “당시 열차 안이 너무 시끄럽고 혼란스러워 방송 내용을 제대로 듣지 못했다”고 했다. 일부는 안내 방송이 나왔다는 사실도 몰랐다고 했다. 전문가들은 “화재경보기처럼 승객들이 확실히 ‘위기 상황’이라고 감지할 수 있는 정도의 음량 조절 등 방송 체계 개선이 필요하다”고 했다.&lt;br&gt;&lt;br&gt;5호선의 ‘1인 승무원제’가 문제란 지적도 나온다. 방화나 흉기 난동 같은 돌발 상황에서 기관사 혼자 승객들에게 공지하고 상황을 대처하기는 어렵다는 것이다. 1~4호선은 차장이 열차 뒤쪽에 함께 탑승해 기관사와 함께 비상 상황에 공동으로 대응하도록 하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>체포된 방화범 “이혼 소송 결과에 불만”</title>
-      <link>https://www.chosun.com/national/national_general/2025/06/02/CL7UXK454JH2BMYZ3TJQT3UJC4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/02/CL7UXK454JH2BMYZ3TJQT3UJC4/</guid>
-      <dc:creator>김도연 기자, 안태민 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 01 Jun 2025 15:56:02 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZAZ45HQHGBI4BLQMWUYDQV5QZU.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;31일 오전 방화로 추정되는 화재가 발생한 서울 지하철 5호선 마포역에서 구급대원들이 환자를 긴급 이송하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;지난달 31일 발생한 서울 지하철 5호선 방화 사건 범인은 60대 남성 A씨였다. A씨는 검거 뒤 “아내와의 이혼 소송 결과에 불만이 있었다”며 가정사 때문에 이번 사건을 저질렀다고 진술한 것으로 알려졌다. 경찰은 A씨가 범행에 사용한 점화기와 기름통 등을 수거해 감식하고 A씨를 대상으로 음주·약물 검사를 진행하고 있다. 경찰은 1일 A씨에 대한 구속 영장을 신청했다.&lt;br&gt;&lt;br&gt;서울 영등포경찰서에 따르면 A씨는 이날 오전 범행 이후 한강 아래를 지나는 하저 터널에 쓰러져 있다 소방에 구조됐다. 그는 기절한 척 다른 승객들에게 부축을 받기도 했다. 경찰은 여의나루역에서 들것에 실려 나오던 A씨의 손이 다른 승객들과 달리 그을음이 많은 것을 발견해 혐의를 추궁했고, 당시 범행 장면을 목격한 승객들도 ‘범인이 맞는다’고 진술했다. 이에 A씨는 혐의를 인정하고 이날 오전 9시 45분쯤 긴급 체포됐다.&lt;br&gt;&lt;br&gt;이날 A씨와 같은 칸에 타고 있던 승객 정구완(50)씨가 체포된 A씨에게 “당신 때문에 많은 사람이 죽을 뻔했다”고 외치자 A씨는 “(결국엔) 안 죽었잖아”라고 대꾸했다고 정씨는 본지에 전했다. 정씨는 “뻔뻔스러운 범인의 태도에 많은 사람이 분노하고 당황스러워했다”고 했다.&lt;br&gt;&lt;br&gt;이번 화재로 인한 재산 피해액은 3억3000만원에 달하는 것으로 추산됐다. 서울종합방재센터 일일 상황 보고서에 따르면 이날 발생한 화재로 지하철 1량이 일부 소실됐고 지하철 2량에 그을음 피해가 발생했다. 서울교통공사는 A씨를 상대로 피해 복구와 함께 손해배상, 구상권 청구 등 법적 대응을 검토하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[부음] 김철주 풍진기업 회장 별세 외</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2025/06/02/25622GZ72BFJVMK7OK4AQDU4DU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2025/06/02/25622GZ72BFJVMK7OK4AQDU4DU/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Sun, 01 Jun 2025 15:39:00 +0000</pubDate>
-      <content:encoded>▲&lt;b&gt;김철주&lt;/b&gt; 풍진기업 회장 별세, &lt;b&gt;김성수&lt;/b&gt; 극동산업 대표 부친상, &lt;b&gt;조장희&lt;/b&gt; 익산시 체육회장∙&lt;b&gt;양준모&lt;/b&gt; 풍진기업 대표 장인상=31일20시35분 신촌세브란스병원, 발인 3일4시40분, (02)2227-7500&lt;br&gt;&lt;br&gt;▲&lt;b&gt;박종무&lt;/b&gt; 별세, &lt;b&gt;유승광&lt;/b&gt; 환경부 대변인 장인상=1일5시30분 충남 공주장례식장, 발인 3일9시, (041)854-1122&lt;br&gt;&lt;br&gt;▲&lt;b&gt;신규원&lt;/b&gt; 별세, &lt;b&gt;신명희&lt;/b&gt;∙&lt;b&gt;신정림&lt;/b&gt;∙&lt;b&gt;신상태&lt;/b&gt; 부친상, &lt;b&gt;김기범&lt;/b&gt; 조선일보 前 인사팀장 장인상=30일18시 남대구전문장례식장, 발인 1일13시, (053)584-4444&lt;br&gt;&lt;br&gt;▲&lt;b&gt;신인식&lt;/b&gt; 우리은행 감사 별세, &lt;b&gt;신준호&lt;/b&gt; 하나은행 전자서명인증사업부 팀장∙&lt;b&gt;신은지&lt;/b&gt; 미국 캘리포니아주립대 수학과 교수∙&lt;b&gt;신은하&lt;/b&gt; 부친상, &lt;b&gt;강승혁&lt;/b&gt; 미국 아데이아 부사장∙&lt;b&gt;구본재&lt;/b&gt; 딜로이트컨설팅 부사장 장인상=1일6시43분 삼성서울병원, 발인 3일8시, (02)3410-6902&lt;br&gt;&lt;br&gt;▲&lt;b&gt;안희자&lt;/b&gt; 별세, &lt;b&gt;황인영&lt;/b&gt; 前 서울종합방재센터 소장 아내상, &lt;b&gt;황정호&lt;/b&gt;∙&lt;b&gt;황진호&lt;/b&gt; 디앤오 기획실 매니저 모친상, &lt;b&gt;이아름&lt;/b&gt; 에스엘엘중앙 음악사업국장∙&lt;b&gt;옥초롱&lt;/b&gt; 한국광해광업공단 사업운영팀 차장 시모상=31일23시45분 서울아산병원, 발인 3일6시, (02)3010-2000&lt;br&gt;&lt;br&gt;▲&lt;b&gt;정갑수&lt;/b&gt; 별세, &lt;b&gt;김경희&lt;/b&gt;∙&lt;b&gt;김승기&lt;/b&gt;∙&lt;b&gt;김현숙&lt;/b&gt; 모친상, &lt;b&gt;권혁진&lt;/b&gt; 뉴시스 신성장산업부 차장대우 외조모상=1일0시52분 여의도성모병원, 발인 4일9시, (02)3779-1526&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>브로드웨이에 대기 행렬… K뮤지컬에 빠진 뉴욕 관객들</title>
       <link>https://www.chosun.com/national/people/2025/06/02/TBUYVL7M7ZAD5MT4XNWRCNWFRI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/people/2025/06/02/TBUYVL7M7ZAD5MT4XNWRCNWFRI/</guid>
@@ -636,15 +652,6 @@
       <description/>
       <pubDate>Sun, 01 Jun 2025 15:37:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AH3KDMF4EJASBJYB5ESSJN37SM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;원로 시인 정양(83)씨가 별세했다. 1968년 대한일보 신춘문예에 시 ‘천정을 보며’로 등단했고, 1977년 조선일보 신춘문예 평론 부문에 당선됐다. 시집 ‘까마귀떼’ ‘살아 있는 것들의 무게’ 등 한국 근현대사의 아픔을 녹여낸 시집을 펴냈다. 백석문학상, 교육부장관표창, 황조근정훈장 등을 받았다. 유족으로 아내 임정순씨, 아들 정범, 딸 정리경씨가 있다. 빈소 연세대 용인장례식장, 발인 2일.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문은 선생님] [식물 이야기] 도시·유원지 뒤덮은 계란프라이 모양 꽃… 美 캘리포니아 ‘샤스타산’서 이름 유래</title>
-      <link>https://www.chosun.com/national/nie/2025/06/02/UE73LEZ74FC65JEKT2EK3VKSYY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2025/06/02/UE73LEZ74FC65JEKT2EK3VKSYY/</guid>
-      <dc:creator>김민철 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 01 Jun 2025 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3V3TS2ULZBCQ3D7JIMGJ74LFPQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;샤스타데이지는 여러 종류의 데이지(daisy·국화과의 꽃)를 교배한 서양 꽃으로 계란프라이 모양을 닮았어요. /김민철 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;요즘 도시 화단이나 정원은 물론 유원지 화단과 언덕을 온통 하얀색으로 덮는 꽃이 있습니다. 샤스타데이지(Shasta daisy)가 핀 것입니다.&lt;br&gt;&lt;br&gt;샤스타데이지는 초여름, 그러니까 5~7월 피는 꽃입니다. 키가 50∼60㎝ 정도로 비교적 크고 잎은 마주나는데 가장자리에 톱니가 있습니다. 꽃 바깥쪽은 흰색, 가운데 부분은 노란 것이 계란프라이를 닮아 ‘계란꽃’ ‘계란프라이꽃’이라 부르는 사람도 있습니다. 원래 ‘계란 프라이꽃’은 개망초의 별칭이었는데 샤스타데이지도 그렇게 부르는 사람이 늘어나는 것 같습니다.&lt;br&gt;&lt;br&gt;이 꽃이 도심 거리는 물론 전국 곳곳에서 늘어나고 있습니다. 언덕 전체를 이 꽃으로 심어 하얀 물결을 이룬 곳이 한두 곳이 아닙니다. 전남 신안 장산도, 전북 부안 변산마실길처럼 이 꽃을 대규모로 심어 샤스타데이지 축제도 하는 곳이 많습니다. 강원 평창 청옥산 육백마지기, 경남 함안 악양생태공원 등도 샤스타데이지로 유명한 곳입니다.&lt;br&gt;&lt;br&gt;샤스타데이지는 자연 상태에서 스스로 생긴 꽃이 아닙니다. 19세기 말 미국의 육종학자가 프랑스 들국화 등 여러 종류의 데이지를 교배해 만든 꽃으로 알려져 있습니다. 그 꽃이 우리나라에 들어와 어느덧 예전 코스모스처럼 전국을 뒤덮는 꽃으로 퍼진 것입니다. 노란색 큰금계국과 함께 빠른 속도로 늘어나 우리나라 여름 풍경을 바꾸고 있습니다.&lt;br&gt;&lt;br&gt;이름에 붙은 ‘샤스타’는 미국 캘리포니아주에 있는 ‘샤스타산(山)’에서 따온 것인데, 이는 미국 인디언 말로 흰색을 뜻한다고 합니다. 꽃이 가을에 피는 구절초와 비슷하다고 여름구절초라고도 부릅니다.&lt;br&gt;&lt;br&gt;샤스타데이지를 정확하게 알려면 꽃이 비슷하게 생긴 마가렛과 구절초를 아는 것이 좋습니다. 세 꽃 모두 꽃의 바깥쪽은 흰색이고 가운데 부분은 노란색이라 헷갈릴 수밖에 없습니다. 피는 시기가 다르긴 하지만 겹치는 시기가 있기 때문입니다.&lt;br&gt;&lt;br&gt;도입종인 마가렛은 샤스타데이지보다 빠르게 4월부터 피기 시작합니다. 키가 30cm 이내로 작은 편입니다. 도심 화단이나 화분에 심기에 안성맞춤이죠. 잎은 어긋나는데 쑥갓 모양으로 갈라져 있습니다.&lt;br&gt;&lt;br&gt;가을엔 구절초가 피어 더욱 헷갈리게 합니다. 구절초는 가을에 우리나라 산야에서 자라는 들국화 중 하나입니다. 국화과에 속하는 여러해살이풀로, 꽃송이가 큰 편이고 향기도 아주 좋습니다. 무릎 높이(50cm)까지 자라고 잎은 전체적으로 계란 모양이면서 국화잎처럼 갈라지고 톱니가 있습니다. 전엔 산에 가야 볼 수 있었지만, 야생화답게 특별한 관리를 하지 않아도 잘 자라서 요즘엔 화단에서도 볼 수 있습니다. 구절초는 꽃이 옅은 분홍색을 띠기도 합니다.&lt;br&gt;&lt;br&gt;결론적으로 하얀 꽃이 봄에 피면 마가렛, 여름에 피면 샤스타데이지, 가을에 피면 구절초라고 할 수 있겠습니다. 키로 보면 30㎝ 이내로 작으면 마가렛, 무릎 높이(50㎝) 정도이면 구절초, 무릎 높이 이상이면 샤스타데이지로 보면 틀리지 않을 것 같습니다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[오늘의 날씨] 2025년 6월 2일</title>
