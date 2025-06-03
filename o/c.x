@@ -13,6 +13,24 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>이재명 대통령, 4일 오전 11시 국회서 취임 선서</title>
+      <link>https://www.chosun.com/national/national_general/2025/06/04/LDBSBPDLGNEOFPMRD6YUA4X6TQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/04/LDBSBPDLGNEOFPMRD6YUA4X6TQ/</guid>
+      <dc:creator>김영우 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 03 Jun 2025 23:13:07 +0000</pubDate>
+      <content:encoded>이재명 대통령이 4일 오전 11시 국회의사당 중앙홀에서 취임 선서를 한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IPQ47OIRPJC6XFCUXBNVU45UC4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;제21대 대통령 취임식이 열릴 국회 로텐더홀에서 3일 국회 관계자들이 무대와 좌석을 설치하고 있다. 취임식은 4일 오전 11시 열린다. /남강호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;행정안전부는 이날 “제21대 대통령 취임 선서가 4일 오전 11시 국회의사당 중앙홀에서 진행된다”고 밝혔다.&lt;br&gt;&lt;br&gt;이번 행사는 새 정부의 출범을 대내외에 알리는 자리다. 행정안전부 관계자는 “당선 즉시 국정 현안을 신속하게 챙기고자 하는 이 대통령의 의지에 따라 취임 선서 중심으로 간소하게 진행될 계획”이라고 했다.&lt;br&gt;&lt;br&gt;취임 선서 행사에는 국회의장, 대법원장, 헌법재판소장, 국무총리, 중앙선거관리위원장, 정당 대표, 국회의원, 국무위원 등 300여 명이 참석한다. 헌법 69조에 따른 취임 선서와 국민께 드리는 말씀을 중심으로 진행된다.&lt;br&gt;&lt;br&gt;이 대통령은 취임 선서에 앞서 국립서울현충원을 참배할 계획이다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>이창수 중앙지검장, 3일자 사표 수리돼... 대행 체제 운영</title>
+      <link>https://www.chosun.com/national/court_law/2025/06/04/NLRGR4QLEJBYZFDV3LKCLAZCQY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/04/NLRGR4QLEJBYZFDV3LKCLAZCQY/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 03 Jun 2025 23:10:33 +0000</pubDate>
+      <content:encoded>지난달 사의를 표명했던 이창수 서울중앙지검장의 사표가 수리된 것으로 4일 확인됐다. 전국 최대 검찰청인 서울중앙지검은 3개월 여 만에 다시 대행 체제로 운영된다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WNSV4SZZOBJZ3ATD7DNVMON5B4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이창수 서울중앙지검장(오른쪽)과 조상원 4차장검사./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 이 지검장의 사표는 지난 3일 수리됐다. 현직 검사에 대한 임면권은 대통령이 갖고 있어, 이주호 전 대통령 권한대행(교육부총리)의 재가가 필요했다. 이 전 대행은 이 지검장과, 함께 사의를 표명했던 조상원 4차장검사의 사표도 수리했다고 한다.&lt;br&gt;&lt;br&gt;당초 두 검사는 사의를 표명하면서 2일까지 근무하겠다는 뜻을 밝혔지만, 사표 수리가 늦어지면서 별도의 퇴임식은 열리지 않았다. 대신 중앙지검 소속 검사와 수사관들이 2일 퇴근 시간을 전후로 두 검사의 사무실을 찾아 인사를 했다.&lt;br&gt;&lt;br&gt;이 지검장이 물러난 자리는 박승환 1차장검사가 대행할 것으로 전해졌다. 지난해 12월 더불어민주당 주도로 이 지검장이 탄핵 소추돼 직무가 정지됐을 때도 박 차장검사가 지검장 직을 대행했다. 조 차장검사의 직무는 이성식 3차장검사가 대행했었다.&lt;br&gt;&lt;br&gt;이 지검장은 지난해 5월 서울중앙지검장으로 보임했다. 김건희 여사의 ‘도이치모터스 주가 조작’ 의혹, ‘디올 백 수수’ 의혹을 수사한 뒤 불기소 처분했다. 민주당은 ‘봐주기 수사’라며 반발했고, 이 지검장과 조 차장검사는 그해 12월 5일 국회에서 탄핵소추됐다. 헌법재판소는 98일 만인 지난 3월 13일 검사들 탄핵안을 재판관 8명 전원 의견으로 기각했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>억대 빚에 몰린 40대 가장, 가족여행서 처자식 살해</title>
       <link>https://www.chosun.com/national/national_general/2025/06/04/3DNFTV4RLBHONFDMVL6Q2FAS3U/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/04/3DNFTV4RLBHONFDMVL6Q2FAS3U/</guid>
@@ -862,28 +880,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UKSHSMZIE5CXVOTZLLINP3UBWE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경남 창원시 버스 파업 엿새째인 2일 오후 성산구 대방동 한 버스차고지에 세워진 전세버스에 버스 번호판이 붙여져 있다./창원=김동환 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;엿새째 파업을 벌이던 경남 창원 시내버스 노사가 2일 임금·단체 협상을 타결했다.&lt;br&gt;&lt;br&gt;본지 취재를 종합하면 창원 시내버스 9개사 노사는 이날 오후 4시쯤 창원시청에서 열린 시내버스 노사 조정회의에서 임단협에 합의했다.&lt;br&gt;&lt;br&gt;노사는 임금 3% 인상, 정년 64세로 1년 연장, 하계 휴가비 40만원 증액, 출산장려금 자녀 1인당 200만원 지급 등에 합의했다.&lt;br&gt;&lt;br&gt;주요 쟁점이 됐던 통상임금 부분에 대해 노사는 현재 진행 중인 소송 판결이 결정되면 통상임금 산정 기준 시간에 따라 상여금, 하계 수련비, 체력 단련비를 시급 전환 임금 체계로 개편해 지급하기로 했다. 또 협상 타결에 따라 노조는 오후 5시부터 운행이 가능한 시내버스 노선부터 순차적으로 운행을 재개하기로 했다.&lt;br&gt;&lt;br&gt;앞서 창원 시내버스 9개 업체 노조는 사측과 임단협 결렬을 선언하며 지난달 28일 첫차부터 총파업에 돌입했다. 이에 따라 창원 지역 전체 버스 95%인 669대가 운행을 멈췄다. &lt;br&gt;&lt;br&gt;이에 시민들은 출퇴근길 큰 불편을 겪어야 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[오늘의 운세]  6월 3일 화요일 (음력 5월 8일 癸卯)</title>
-      <link>https://www.chosun.com/national/national_general/2025/06/02/CHCLWFHDIBH23AUAKFEDDOGSDQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/02/CHCLWFHDIBH23AUAKFEDDOGSDQ/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Mon, 02 Jun 2025 08:00:00 +0000</pubDate>
-      <content:encoded>&lt;p&gt;&lt;div class="chosun_unse"&gt;&lt;iframe src="https://image.chosun.com/arc/unse_iframe.html" frameborder="0" scrolling="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;style&gt;.chosun_unse{position:relative;width:100%;height:350px;box-sizing:border-box}.chosun_unse&gt;iframe{position:absolute;top:0;left:0;width:100%;height:100%;overflow-y:hidden}@media all and (max-width:1024px){.chosun_unse{height:350px}}@media all and (max-width:1023px){.chosun_unse{height:350px}}@media all and (max-width:528px){.chosun_unse{height:270px}}@media all and (max-width:384px){.chosun_unse{height:190px}}&lt;/style&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;p&gt;&lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani01.gif"&gt;  	&amp;nbsp;	 36년생 흔들리지 않는 평상심은 위기에서 발휘. 48년생 협업 어렵다면 독창성 발휘하라. 60년생 제가 만든 재앙은 피하기 어렵다. 72년생 경우 따라 경쟁자도 손잡을 수 있어야. 84년생 긍정도 좋지만 낙관은 경계하도록. 96년생 작은 나눔이 큰 기쁨 돼 돌아올 듯.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt;  &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani02.gif"&gt;	&amp;nbsp;	 37년생 자상하고 부드러운 언행이 호감 부른다. 49년생 문제 해결 본질은 나에게서 찾아야. 61년생 김빠지기 전 즉시 실행 옮기도록. 73년생 열두 가지 복 가져도 양보와 겸손이 최고. 85년생 기다리는 자에겐 분명 기회 온다. 97년생 이상과 현실 사이 번민 생길 수도.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani03.gif"&gt;	&amp;nbsp;	 38년생 장애물이 앞 막더라도 두려워 마라. 50년생 한발 물러서면 하늘 높고 땅도 넓다. 62년생 계획 중인 일은 잠시 보류가 상책. 74년생 줬을 때 행복은 더 크게 돌아온다. 86년생 완고한 사고론 난관 극복 어렵다. 98년생 남이 준 고통이면 충분히 극복 가능.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani04.gif"&gt;	&amp;nbsp;	 27년생 허물 하나 없는 사람이 있나. 39년생 겉치장보다 내실 충실하라. 51년생 자만과 방심은 복을 쫓는 지름길. 63년생 이해하며 사는 게 인생살이. 75년생 걱정했던 것보다 해결이 무난할 듯. 87년생 몸 따로 마음 따로. 99년생 불뚝 성질이 화를 자초한다.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani05.gif"&gt;	&amp;nbsp;	 28년생 계획했던 일이 해결되는 시기. 40년생 과도한 욕심은 걱정 초래한다. 52년생 정신적 스트레스가 많은 하루. 64년생 주위 여론에 신경 쓸 것 없다. 76년생 나의 잣대로 상대를 재단 마라. 88년생 배우자의 이해가 절실히 필요. 00년생 금전 또는 시간 허비가 많은 하루.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani06.gif"&gt;	&amp;nbsp;	 29년생 주었다면 계산하지 마라. 41년생 지나고 나면 아픔도 기쁨 된다. 53년생 귀인이 동쪽에서 와 도우리라. 65년생 감당키 어려운 책임은 지지 마라. 77년생 대인 관계를 넓혀보라. 89년생 독자적인 진행은 장애가 많다. 01년생 의리와 지조로 유혹을 물리쳐야.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani07.gif"&gt;	&amp;nbsp;	 30년생 신용 관리에 신경을 써야 할 듯. 42년생 허영심 버리고 실리를 추구하라. 54년생 주변인의 도움으로 발전이 기대. 66년생 고집부리면 큰코다친다. 78년생 최선 다했으면 나머지는 하늘 몫. 90년생 사람과 환경에 휘둘리지 않도록. 02년생 숫자 3, 8과 푸른색은 피하라.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani08.gif"&gt;	&amp;nbsp;	 31년생 자신감만 있다면 못 할 일이 무엇. 43년생 새우 그물에 잉어가 걸렸구나. 55년생 인간 관계와 일 처리가 순탄. 67년생 지나침은 모자람만 못하다. 79년생 쥐띠와 거래는 피하는 것이. 91년생 오늘 할 일을 내일로 미루지 마라. 03년생 의중을 감추고 홀로 가라.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani09.gif"&gt;	&amp;nbsp;	 32년생 지구력과 끈기를 갖고 밀고 나가야. 44년생 매매 거래는 나쁘지 않다. 56년생 생각지 못한 반전이 일어날 수도. 68년생 긴밀한 정보는 함부로 발설하지 마라. 80년생 빈틈없는 자세로 임하도록. 92년생 잘난 척은 적을 부를 수도. 04년생 작은 질투가 큰 손실 초래.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani10.gif"&gt;	&amp;nbsp;	 33년생 북문 출입은 삼가도록. 45년생 늙은 주인 하나가 건장한 장정 아홉 몫 한다. 57년생 콩 한 조각도 나누자 하는구나. 69년생 역경은 진정한 친구를 알 기회. 81년생 돌발 상황에서 평소의 실력이 나오는 법. 93년생 독식 어렵다면 상생공존이 차선.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani11.gif"&gt;	&amp;nbsp;	 34년생 집안 편해야 일신이 편안. 46년생 난관 만나면 해답은 아랫사람에게. 58년생 설익은 감 따봐야 먹을 수 있나. 70년생 새벽길 걷는 사람이 첫 이슬 턴다. 82년생 기회는 위기에 뒤따라옴을 명심하고 끝까지 포기 마라. 94년생 전투는 머리로 수성은 몸으로 하라.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani12.gif"&gt;	&amp;nbsp;	 35년생 대장 질환의 재발 염려. 47년생 구름 걷히니 달이 보이기 시작. 59년생 새가 오래 머물면 반드시 화살 맞는다. 71년생 최고의 성과는 기대하기 어려우나 차선은 가능. 83년생 하늘이 도우니 거래나 매매가 원만히 성사. 95년생 변화를 꾀하기보다 현 상황 유지하라.	&lt;br&gt;
-&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;한소평 금오산방 강주  &lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;			&lt;/p&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/4MTFRYWHBJA7XOKKF7G7JPLX5U.png?auth=4651b5b20b5d4901424204d1456faee02e4b064ff509db23945deabf4404c8ef&amp;smart=true&amp;width=800&amp;height=420" type="image/png" height="420" width="800"/>
-    </item>
-    <item>
       <title>도끼, 6억원대 미납 세금 완납…국세청 고액 체납자 신세 끝</title>
       <link>https://www.chosun.com/national/national_general/2025/06/02/QM4CZYVWIVAFZLVHK6QGNC23WE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/02/QM4CZYVWIVAFZLVHK6QGNC23WE/</guid>
@@ -936,15 +932,6 @@
       <description/>
       <pubDate>Mon, 02 Jun 2025 03:22:43 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NRINIE4TT2XUQXJLI2DRNDXIKE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;백신 접종 모습./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최근 중국, 태국, 싱가포르 등 주변 국가에서 코로나19 확진자가 늘어나는 가운데 방역 당국이 코로나19 고위험군에 예방 접종을 권고했다. 65세 이상 어르신, 생후 6개월 이상 면역 저하자 및 감염 취약 시설 입원·입소자 등이 코로나19 고위험군에 해당한다. &lt;br&gt;&lt;br&gt;질병관리청은 이달 말까지 고위험군과 감염 취약 시설 입원·입소자를 대상으로 2024∼2025절기 코로나19 예방접종을 무료로 시행한다고 2일 밝혔다. 현재 사용 중인 JN.1 계열 백신은 여러 코로나19 변이에 예방 효과가 있는 것으로 국내외 연구에서 확인됐다.&lt;br&gt;&lt;br&gt;국내 유행 상황은 비교적 안정적으로 관리되고 있다. 질병청에 따르면 코로나19 표본 감시 입원 환자 수는 4월 27일∼5월 3일 115명, 5월 4∼10일 146명, 5월 11∼17일 100명, 5월 18∼24일 97명이다. 단 같은 기간 코로나19 검출률은 4.2%, 2.8%, 8.6%, 8.8%로 3주째 증가했다. 선행 지표인 바이러스 검출률이 높아지면 확진자가 늘어나 2∼3주 후에 입원 환자가 증가할 수 있다.&lt;br&gt;&lt;br&gt;다만, 인접 국가들에서 코로나19 발생이 증가하고 있고 백신 접종 후 면역이 충분히 형성되는 기간(약 4주)을 고려해 가급적 빠른 시일 내 백신을 접종할 필요가 있다고 질병청은 설명했다. 특히 질병청은 중국과 태국, 싱가포르 등 코로나19 발생이 증가세를 보이는 주변국으로 여행할 예정인 고위험군은 출국 전 접종받을 것을 권고했다. &lt;br&gt;&lt;br&gt;코로나19 고위험군은 이달 말까지 의료기관에서 무료로 백신을 접종할 수 있다. 질병청은 “다만 현재 일부 의료기관에서만 백신 접종이 가능하다”면서 “예방 접종 도우미 누리집에서 접종 의료기관과 가능 여부를 사전에 확인하고 방문해달라”고 했다. 코로나 고위험군이 아닌 일반인은 비용을 지불하고 백신을 접종할 수 있다. &lt;br&gt;&lt;br&gt;지영미 질병청장은 “인접국에서 코로나19가 증가하고 있어 다가오는 여름철 국내 유행 가능성을 배제할 수 없다”며 “코로나19 고위험군 미접종자는 지금이라도 백신 접종할 것을 당부드린다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>교육부 “손효숙 리박스쿨 대표, 장관 정책자문위원회에서 해촉” </title>
-      <link>https://www.chosun.com/national/education/2025/06/02/NCLUTJ5GD5HRLPF2LJ54QARYJU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2025/06/02/NCLUTJ5GD5HRLPF2LJ54QARYJU/</guid>
-      <dc:creator>김민기 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 02 Jun 2025 01:44:01 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/J4XZ7X7FHLTIXVJROT7BI7DJFA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;정부세종청사 교육부 전경./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;교육부가 1일 손효숙 리박스쿨 대표를 장관 정책자문위원회에서 해촉했다고 2일 밝혔다.&lt;br&gt;&lt;br&gt;손씨는 작년 6월 이주호 권한대행 교육정책자문위원으로 임명돼 활동 중이었다. 임기는 오는 12일까지였는데 약 열흘 앞서 해촉한 것이다. 교육부 정책자문위원은 124명이다.&lt;br&gt;&lt;br&gt;앞서 온라인 매체 뉴스타파는 리박스쿨이 초등학교 늘봄 학교 자격증 지급을 미끼로 댓글팀을 모집·운영하고, 방과 후 수업 시간에 초등학생들에게 극우 교육을 하도록 유도했다고 보도했다. 해당 보도 이후 이재명 더불어민주당 대선 후보는 선거 유세에서 “선거 결과를 망치려는 반란 행위”라고 했다.&lt;br&gt;&lt;br&gt;교육부에 따르면 손효숙 리박스쿨 대표는 ‘한국늘봄교육연합회’라는 이름으로 서울교대에 과학·예술 분야 프로그램 협력을 제안했다. 리박스쿨은 서울교대와 협약을 맺고 서울 지역 초등학교 10곳에 강사들을 보내 수업을 진행한 것으로 알려졌다. 서울교대는 리박스쿨에 대한 의혹이 제기되자 협약을 취소하고 프로그램 운영을 중단했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>“짐 로저스 지지 들었다” 이재명, 허위사실공표로 고발당해</title>
