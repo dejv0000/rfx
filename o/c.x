@@ -13,6 +13,24 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>기표소서 ‘투표용지 찰칵’…인천서 잇따라 적발</title>
+      <link>https://www.chosun.com/national/incident/2025/06/03/WQLP6OAG2BBIJNGWCMTEQPG3JE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/06/03/WQLP6OAG2BBIJNGWCMTEQPG3JE/</guid>
+      <dc:creator>인천=이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 03 Jun 2025 08:45:03 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2TCIXEC3WU7ZKOTA2IGV76VZRY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;제21대 대통령선거 기표소./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제21대 대통령선거 투표일인 3일 인천 지역 투표소에선 기표소에서 투표용지를 촬영하다 적발되는 유권자가 잇따랐다. &lt;br&gt;&lt;br&gt;인천시선거관리위원회와 인천시 등에 따르면 이날 오전 11시 30분쯤 인천시 부평구 십정동의 한 투표소에서 투표용지를 촬영한 유권자가 적발됐다. &lt;br&gt;&lt;br&gt;투표소 관계자들은 현장에서 이를 확인하고, 해당 사진을 삭제 조치한 것으로 파악됐다. &lt;br&gt;&lt;br&gt;이날 오후 1시 45분쯤엔 인천 부평구 부개동의 한 투표소에서, 오후 2시 18분쯤엔 인천 옹진군 영흥면의 한 투표소에서 각각 투표용지를 촬영한 유권자가 적발됐다. 촬영한 사진은 역시 삭제 조치됐다. &lt;br&gt;&lt;br&gt;이날 5시 기준, 투표지 촬영으로 적발된 경우는 7건인 것으로 파악됐다. &lt;br&gt;&lt;br&gt;인천시선관위는 해당 유권자를 상대로 촬영 경위 등을 확인해 조치할 방침이다. &lt;br&gt;&lt;br&gt;공직선거법은 비밀투표 보장 등을 위해 기표소 안에서 투표용지를 촬영하는 행위를 금지하고 있다. 적발될 경우, 2년 이하의 징역형이나 400만원 이하의 벌금에 처할 수 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“왜 여기서 투표 안되냐”... 경남서 투표장 소란 </title>
+      <link>https://www.chosun.com/national/2025/06/03/NS4MH7HBKBEMNIL6RILWPQMAR4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2025/06/03/NS4MH7HBKBEMNIL6RILWPQMAR4/</guid>
+      <dc:creator>창원=김준호 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 03 Jun 2025 08:50:35 +0000</pubDate>
+      <content:encoded>제21대 대통령 선거일인 3일 경남에서는 투표소를 잘못 찾은 유권자가 난동을 부리는 등 크고 작은 소란이 발생했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VDIGO7PRWFNLXGQL6Q7OPS4MOI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;제21대 대통령 선거일인 3일 경남 창원시 마산합포구 해운중학교 1층 체육관에 마련된 월영동 제4·5 투표소에서 유권자들이 투표하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경남경찰청에 따르면 이날 오전 9시 49분쯤 창원시 성산구 상남동 한 투표소에서 40대 남성이 “왜 여기서 투표가 안 되느냐”고 선거 사무원에게 불만을 터트렸다. 이 남성은 사전 투표는 유권자 거주지와 관계없이 어느 투표소에서든 할 수 있지만, 본 투표는 거주지에서만 할 수 있는 것을 모르고 해당 투표소를 찾았다가 소란을 피운 것으로 전해졌다. 현장에 출동한 경찰은 이 남성을 거주지 내 투표소로 태워 투표할 수 있게 도왔다. &lt;br&gt;&lt;br&gt;이날 오전 8시 36분쯤 창원시 마산회원구 양덕동 한 투표소에서는 60대 남성이 소리를 지르고, 옆에 있던 시민과 시비가 붙었다는 신고가 접수됐다. 이 남성은 투표소를 잘못 찾아와 불만을 토로하던 중 옆 시민과 언쟁이 붙은 것으로 전해졌다. 출동한 경찰은 범죄 혐의점은 없다고 보고 남성을 귀가 조치했다. &lt;br&gt;&lt;br&gt;앞서 오전 6시 35분쯤엔 창원시 의창구 북면 한 투표소에서 80대 남성이 투표 순서가 오래 걸린다며 선거 사무원에게 항의하다 112 신고가 접수됐다. 투표 순서가 오래 걸려 항의한 것으로 전해졌다. 이 남성은 경찰이 현장에 도착하기 전 투표를 마친 뒤 먼저 귀가했다.&lt;br&gt;&lt;br&gt;이날 오후 4시 기준 경찰에 접수된 투표 현장 사건·사고 관련 신고는 총 42건이다. 이 중 입건된 사람은 없다.&lt;br&gt;&lt;br&gt;경찰은 투표가 종료된 이후에도 사건·사고 대응을 이어갈 계획이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>사전투표 관리관 협박‧업무 방해…인천 남동구선관위, 참관인 고발</title>
       <link>https://www.chosun.com/national/incident/2025/06/03/3GOQEF7UOJCNRMCCY6UEJCNQNU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/06/03/3GOQEF7UOJCNRMCCY6UEJCNQNU/</guid>
@@ -840,18 +858,6 @@
       </media:content>
     </item>
     <item>
-      <title>고객 정보 줄줄 샌 티파니, 알고도 늑장 신고</title>
-      <link>https://www.chosun.com/national/national_general/2025/06/02/B3ZWLM7B4JFC3FDQNKOU4K2RMM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/02/B3ZWLM7B4JFC3FDQNKOU4K2RMM/</guid>
-      <dc:creator>박진성 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 01 Jun 2025 16:21:39 +0000</pubDate>
-      <content:encoded>개인정보보호위원회는 명품 브랜드 디올과 티파니의 개인 정보 유출 사고를 조사하고 있다고 1일 밝혔다. 디올과 티파니는 세계 최대 명품 그룹인 LVMH(루이비통모에헤네시)의 대표 브랜드다.&lt;br&gt;&lt;br&gt;개인정보위는 이번 조사에서 구체적 유출 대상과 규모를 파악하고 개인정보보호법 위반 여부를 가릴 계획이다. 유출 사고가 발생한 이후 디올과 티파니의 조치가 적절했는지에 대해서도 확인하고 있다.&lt;br&gt;&lt;br&gt;개인정보보호법 시행령에 따르면, 업체는 개인 정보가 유출된 사실을 알면 72시간 이내에 개인정보위에 신고해야 한다.&lt;br&gt;&lt;br&gt;개인정보위에 따르면 디올의 유출 사고는 지난 1월 발생한 것으로 추정된다. 그런데 디올은 지난달 10일 “5월 7일 유출 사실을 인지했다”고 개인정보위에 신고했다. 이어 지난달 13일 고객들에게 유출 사실을 알렸다. 디올은 당시 홈페이지에 “외부의 권한 없는 제3자가 디올 패션&amp;amp;액세서리 고객들의 일부 데이터에 접근한 사실을 알아냈다”며 “영향을 받은 데이터에는 성함, 휴대폰 번호, 이메일 주소, 구매 데이터 등이 포함된 것으로 파악된다”고 공지했다. 이름, 연락처뿐 아니라 구매 내용까지 유출됐을 가능성이 있다는 것이다. &lt;br&gt;&lt;br&gt;티파니 또한 지난 4월에 발생한 유출 사고를 지난달 9일에 알았다며 같은 달 22일 신고했다.&lt;br&gt;&lt;br&gt;두 브랜드 모두 인터넷 고객 관리 사이트에 접속할 수 있는 직원의 계정을 통해 개인 정보가 유출된 것으로 개인정보위는 파악하고 있다. 개인정보위 관계자는 “직원 계정에 이중 인증 절차를 적용하고, 고객 관리 사이트에 접근할 수 있는 IP(인터넷 주소)를 제한하는 등 통제 조치를 해야 하는데 미흡했을 수 있다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/MB3GUBZOMBEJFHQUOHGA6CFOJQ.png?auth=48de8f9dbaf91376c890f8f5863d189a9db327a3b91d0d4faa3d4e9be094caa7&amp;smart=true&amp;width=1800&amp;height=1012" type="image/png" height="1012" width="1800">
-        <media:description type="plain">그래픽=백형선</media:description>
-      </media:content>
-    </item>
-    <item>
       <title>법원, ’광주 화정 아이파크 붕괴 사고’ 현산에 영업 계속 결정</title>
       <link>https://www.chosun.com/national/court_law/2025/06/01/OEXJLZKVTFDQPKBNHJBGJWKO6A/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/01/OEXJLZKVTFDQPKBNHJBGJWKO6A/</guid>
@@ -976,15 +982,6 @@
       <description/>
       <pubDate>Sat, 31 May 2025 06:37:30 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7LK4WQK6YVGI3KRUOREDNUAWR4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;배우 김혜은./인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울대 출신 배우 김혜은이 김문수 국민의힘 대통령 후보의 아내 설난영씨를 응원하는 글을 소셜미디어(SNS)에 올렸다가 삭제했다. &lt;br&gt;&lt;br&gt;김혜은은 31일 인스타그램에 “어제오늘처럼 서울대 나온 학력이 부끄러운 적이 없었던 것 같다. 제가 대신 죄송하단 말씀 전하고 싶다”며 글을 올렸다.&lt;br&gt;&lt;br&gt;그는 “인간의 학력과 지성은 고단한 인생의 성실함으로 삶의 증거로 말하는 분들 앞에서 한 장의 습자지와도 같은 아무것도 아닌 가치 없는 자랑”이라며 “누구의 인생을 함부로 판단하고 비하하는 혀를 가진 자라면 그는 가장 부끄러운 혀를 가진 자”라고 했다.&lt;br&gt;&lt;br&gt;이어 “여자로서 한 남자의 꿈을 위해 평생을 뒷바라지하며 생계를 책임지고, 그러면서 여성 노동운동가로 공의를 위해 몸을 던지려 노력하며 살아오신 설난영 여사와 같은 우리 어머니들을 저는 존경한다. 저는 그리 살지 못했을 것 같아 더 존경한다”고 했다.&lt;br&gt;&lt;br&gt;또 그는 “남편 위해, 자식 위해 생계를 도맡으며 법카 사고 한번 없이 남편 뒤에서 묵묵히 자리를 지켜오신 설난영 여사님”이라며 “내 삶의 원동력이 되는 진짜 롤모델”이라고 했다.&lt;br&gt;&lt;br&gt;끝으로 김혜은은 “고학력자 아니고, 서울대 나왔다며 고졸 비하하는 교만하고 계급의식 절어 사는 썩은 지성인 아니다”라며 “이 시대를 사는 여성으로서 저렴한 모진 말에 정말 가슴 아픈 오늘”이라고 했다. 다만 이 글은 현재 삭제된 상태다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/63ROZME4VJBRHFROZF2IZY6QHQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;유시민 전 노무현재단 이사장이 지난 28일 유튜브 '김어준의 다스뵈이다'에 출연해 김문수 국민의힘 대선 후보의 아내 설난영씨에 관해 이야기하고 있다. /유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김혜은의 이 글은 서울대 경제학과 출신인 유시민 전 노무현재단 이사장의 여성·노동자·학력 비하 논란을 겨냥한 것으로 해석됐다. 김혜은은 서울대 성악과 출신이다. &lt;br&gt;&lt;br&gt;앞서 유 전 이사장은 지난 28일 공개된 유튜브 방송 ‘김어준의 다스뵈이다’에 출연해 “유력한 정당의 대통령 후보 배우자라는 자리가 설난영씨 인생에선 거의 갈 수 없는 자리”라며 “그래서 이 사람이 지금 발이 공중에 떠 있다. 한마디로 제정신이 아니다 그런 뜻”이라고 말했다.&lt;br&gt;&lt;br&gt;그는 “김문수씨는 설난영씨가 생각하기에 나하고는 균형이 안 맞을 정도로 대단한 사람”이라면서 “그런 남자와의 혼인을 통해 내가 좀 더 고양됐다고 느낄 수 있다. 험하게 살다가 국회의원 사모님이 됐죠. 남편을 더욱 우러러보겠죠”라고 주장하기도 했다.&lt;br&gt;&lt;br&gt;이 발언을 두고 좌우 진영을 가리지 않고 비판이 쏟아지자 유 전 이사장은 “표현이 거칠었던 건 제 잘못”이라며 “좀 더 점잖고 정확한 표현을 썼더라면 비난을 그렇게 많이 받진 않았을 거라 생각한다”고 해명했다.&lt;br&gt;&lt;br&gt;김문수 후보는 페이스북을 통해 아내에 대한 글을 올려 “위대한 사랑과 헌신으로 저와 가족을 지킨 훌륭한 사람”이라며 “인생에서 갈 수 있는 자리가 따로 있고 갈 수 없는 자리가 따로 있나. 저는 그렇게 생각하지 않는다”고 했다. &lt;br&gt;&lt;br&gt;또 김 후보는 이날 유세에 ‘제 아내가 자랑스럽습니다’라는 문구가 적힌 티셔츠를 입고 나오는가 하면, 유 전 이사장을 겨냥한 듯 “어떤 사람이 하는 소리가, 제 아내가 대학 안 나왔다고 (뭐라고 한다)”며 “사람의 지혜는 꼭 학벌 높다고 생기는 게 아니다”라고 말하기도 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MQ2V5CB3S43AFYXKCPXJT4BRDA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김문수 국민의힘 대통령 후보가 30일 강원 원주 문화의거리에서 유세하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“한해 856억 혈세 지원”에도 4일째 멈춘 창원 시내버스에 시민 불만 폭주</title>
-      <link>https://www.chosun.com/national/regional/2025/05/31/HBYH2GFT7FFHJLJQ4WWFXF2KPI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/05/31/HBYH2GFT7FFHJLJQ4WWFXF2KPI/</guid>
-      <dc:creator>창원=김주영 기자</dc:creator>
-      <description/>
-      <pubDate>Sat, 31 May 2025 03:36:17 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RDUD5XNC4HBKHXN3XYD2Q2OJVQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;창원 시내버스 노조의 총파업 사흘째인 30일 창원시 성산구 성원남산3차아파트 앞 버스정류장에서 시민들이 임시버스를 기다리고 있다./뉴스1 강정태 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 28일부터 시작된 경남 창원 시내버스 파업이 31일 4일째 이어지면서 시민 불만도 극에 달하고 있다. 창원에서 버스가 4일째 멈춘 것은 처음 있는 일이다.&lt;br&gt;&lt;br&gt;31일 창원시에 따르면 창원 시내버스 9개 업체 노조는 지난 28일 오전부터 31일 낮 12시 현재까지 4일째 파업 중이다. 창원 전체 시내버스의 95%인 669대가 운행을 멈췄다.&lt;br&gt;&lt;br&gt;시는 전세버스 170대, 공용버스 10대 등 임시버스를 투입했지만, 이날 기준 운행률은 평상시 대비 33%대로 떨어져 기존보다 배차 간격이 크게 벌어져 시민 불편이 이어지고 있다.&lt;br&gt;&lt;br&gt;노사는 지난 30일 오후 3시부터 이날 오전 1시 30분쯤까지 경남지방노동위원회 주관으로 협상을 재개했지만, 입장차를 좁히지 못했다.&lt;br&gt;&lt;br&gt;노조 내부에서는 “단체협약 일부 사항을 먼저 합의하고 타 시도처럼 파업은 유예하자”는 의견도 제시됐지만, 다른 노조원들의 반대로 파업을 계속하는 것으로 결정된 것으로 전해졌다.&lt;br&gt;&lt;br&gt;서울을 비롯해 울산, 경기, 인천 등의 시내버스 노조가 시민 불편을 막기 위해 파업은 보류한 채 물밑 협상을 이어가는 것과 대조적이다. &lt;br&gt;&lt;br&gt;창원시 의창구 소계동에 사는 주민 최모씨는 “버스가 제때 안 오니 날이 더워도 자전거를 탈 수밖에 없다”며 “창원 버스는 시민 세금으로 운영되는 것으로 아는데 세금을 내면서 왜 이렇게 불편을 겪어야 하는지 화가 난다”고 말했다.&lt;br&gt;&lt;br&gt;마산합포구 가포동에 사는 한 주민은 “봉암공단으로 가는데 배차 시간이 맞지 않아 택시를 이용할 수밖에 없었다”며 “2명의 자녀도 마찬가지로 오지 않는 임시 버스를 기다리다가 학교에 지각하면서 결국 택시를 탔다”고 시에 민원을 올렸다.&lt;br&gt;&lt;br&gt;그러면서 “며칠 만에 10만원이 넘는 택시비를 사용했고 임시 버스를 기다리는 것도 힘들다”고 토로했다.&lt;br&gt;&lt;br&gt;다른 시민들도 평소보다 2∼3배 이상 길어진 배차 시간 탓에 도로에서 허비하는 시간이 늘었을 뿐 아니라 급할 땐 택시를 타야 해 경제적 부담이 크다고 불만을 쏟아내고 있다.&lt;br&gt;&lt;br&gt;창원시가 버스 파업 이후 설치한 안내 콜센터에는 일일 3000건 이상의 문의와 불편 민원이 접수되고 있다. 창원시 민원 홈페이지에도 파업 기간 80건의 불편 민원 글이 올라왔다.&lt;br&gt;&lt;br&gt;창원 시내버스는 전액 시비로 운영된다.&lt;br&gt;&lt;br&gt;시가 버스업계에 지원한 재정 규모도 준공영제 시행 전인 2020년 586억원에서 지난해 856억원으로 270억원가량 증가했다. 증가액의 70%인 190억원 상당은 운전직 인건비로 지원됐다.&lt;br&gt;&lt;br&gt;노조는 이번 임·단협에서 통상임금과 임금 인상을 요구하고 있는데, 노조 요구를 모두 받아들일 경우 연간 약 330억원의 예산이 추가로 들어가게 된다. 창원시 관계자는 “그렇게 되면 시의 재정 지원 규모가 1200억원으로 불어나 도저히 시 제정으로 감당할 수 없다”고 말했다.&lt;br&gt;&lt;br&gt;시정 공백 상황도 노조와의 협상력을 떨어뜨리고 있다는 목소리도 나온다. 창원시는 지난 3월 전임 홍남표 창원시장이 선거법 위반으로 직을 잃은 후, 4월부터 권한대행 체제로 운영되고 있다. &lt;br&gt;&lt;br&gt;타 지자체의 경우 지자체장이 물밑으로 재정 지원금 지원 축소 등 압박용 협상 카드를 제시하는 경우도 있는 것으로 알려지면서, 창원시가 보다 적극적으로 노조와의 협상에 나서야 한다는 지적도 나온다.&lt;br&gt;&lt;br&gt;창원시 관계자는 “시 내부에서도 계속 파업을 하는 노조에 더 이상 시가 끌려가서는 안 된다는 얘기가 나온다”며 “버스 업계에 대한 시의 재정 지원에 대해서도 전체적으로 점검할 계획”이라고 말했다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
