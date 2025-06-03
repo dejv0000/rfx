@@ -13,6 +13,25 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>‘빨간 옷’ 홍진경 사과했는데…박해미는 올블루 패션 공개, 왜?</title>
+      <link>https://www.chosun.com/national/people/2025/06/03/VO56BS2SAJDB5O6A5YFD475BOQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/06/03/VO56BS2SAJDB5O6A5YFD475BOQ/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 03 Jun 2025 13:28:26 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AYRPS4NOLFHGTJL7YNEH6HMNQI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;배우 박혜미가 대선일인 3일 파란색 옷을 입고 찍은 사진을 공개했다. /박해미 인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;배우 박혜미가 대선일인 3일 더불어민주당을 상징하는 색인 파란색 옷을 입고 찍은 사진을 공개해 화제가 되고 있다. 전날 방송인 홍진경은 제21대 대선 본투표를 하루 앞두고 국민의힘을 상징하는 색인 빨간색 옷을 입은 사진을 소셜미디어에 올렸다가 사과한 바 있다. &lt;br&gt;&lt;br&gt;박해미는 이날 자신의 소셜미디어에 ‘오늘도 감사한 하루’, ‘오늘도 행복하세용’이라는 글과 함께 파란색 상하의를 입고 커피를 들고 있는 자신의 사진을 공개했다. &lt;br&gt;&lt;br&gt;이날은 제21대 대통령 선거 본투표일이라 일부 네티즌은 박해미가 의상을 통해 특정 정당을 간접적으로 지지한 것이 아니냐는 추측이 나왔다. 박해미는 해당 게시물에서 선거와 관련된 언급은 하지 않았다.&lt;br&gt;&lt;br&gt;일각에선 특정 색깔 옷을 입었다는 이유로 연예인들이 비판받는 일이 반복되자 이에 항의하려는 의도로 파란색 옷을 입은 사진을 공개한 것 아니냐는 해석도 나온다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LSQJBNTKXVFWVCMCIB3J357LPA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;홍진경이 2일 소셜미디어에 올린 사진. 현재는 삭제됐다. /인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;홍진경은 빨간색 옷을 입은 사진이 논란이 되자 자필 사과문을 통해 “이 민감한 시기에 제가 이렇게 어리석은 잘못을 저지르다니 저 스스로도 진심으로 어처구니가 없다”며 “모두가 민감한 이 시기에 여러분이 마음을 혼란스럽게 해드린 점 다시 한번 진심으로 사과드린다”고 했다.&lt;br&gt;&lt;br&gt;앞서 걸그룹 에스파의 멤버 카리나도 빨간색 숫자 2가 새겨진 점퍼를 입고 찍은 사진을 올렸다가 정치색 논란에 휩싸였다. &lt;br&gt;&lt;br&gt;최근 연예인들은 특정 정당을 연상시키는 색깔의 물건을 들고 있거나 숫자 2를 연상시키는 손가락 브이(V) 등을 했다는 이유로 비판을 받았다. &lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/VRTOWBACP5H7FI6SM3XFHDZ27I.jpg?auth=aa1f895830bc4d801124918f5a1284499e5c1c721df393713ef771742f8a4ec2&amp;smart=true&amp;width=1890&amp;height=1063" type="image/jpeg" height="1063" width="1890"/>
+    </item>
+    <item>
+      <title>인천서 투표소 찾은 70대 여성, 쓰러져 숨져</title>
+      <link>https://www.chosun.com/national/national_general/2025/06/03/RT4MIIXAQ5BJTJLCI3GONYAX3E/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/03/RT4MIIXAQ5BJTJLCI3GONYAX3E/</guid>
+      <dc:creator>인천=이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 03 Jun 2025 10:30:42 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UDCPCI6AVJIC7BZXLLBCYTT3HI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;제21대 대통령선거일인 3일 오전 인천 미추홀구 용현5동 제9투표소에서 유권자들이 투표하고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제21대 대통령선거 투표일인 3일 인천에서 투표소를 찾은 70대 여성이 쓰러져 병원으로 이송됐으나 숨졌다.&lt;br&gt;&lt;br&gt;인천소방본부 등에 따르면 이날 오전 9시 59분쯤 인천 연수구 선학동의 한 대선 투표소에서 70대 여성 A씨가 쓰러졌다. &lt;br&gt;&lt;br&gt;A씨는 신고를 받고 출동한 119 구급대에 의해 심정지 상태로 병원으로 옮겨졌으나 치료 도중 숨졌다. &lt;br&gt;&lt;br&gt;소방 당국은 구체적인 경위를 확인 중이다. &lt;br&gt;&lt;br&gt;이날 오후 1시 10분쯤엔 인천 부평구 부개동의 한 투표소에서 투표 업무 종사자인 30대 남성이 어지럼증을 호소해 병원으로 이송됐다. &lt;br&gt;&lt;br&gt;인천경찰청은 이날 오전 5시부터 오후 8시까지 대선 투표 관련 112 신고가 모두 58건이라고 밝혔다. &lt;br&gt;&lt;br&gt;유형별로는 투표 방해‧소란 17건, 교통 불편 2건, 벽보 탈락 1건(자연탈락), 오인 신고 등 기타 38건이다. &lt;br&gt;&lt;br&gt;오후 4시 9분쯤엔 미추홀구에서 “죽은 사람이 선거 명부에 있다”는 신고가 들어왔으나, 사망자가 아닌 동명이인인 것으로 확인됐다. &lt;br&gt;&lt;br&gt;경찰은 “아직까지 투표와 관련해 형사 입건된 사례는 없다”고 말했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>기표소서 ‘투표용지 찰칵’…인천서 잇따라 적발</title>
       <link>https://www.chosun.com/national/incident/2025/06/03/WQLP6OAG2BBIJNGWCMTEQPG3JE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/06/03/WQLP6OAG2BBIJNGWCMTEQPG3JE/</guid>
@@ -762,18 +781,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KHVQR4GDJBO2DGPQKWC2NLUECA.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;대통령 선거 사전투표 이틀째인 30일 오후 '대리 투표' 사건이 발생한 서울 강남구 대치2동 사전투표소에서 유권자들이 투표를 하기 위해 대기하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 대치동의 사전투표소에서 남편 명의로 대리 투표한 강남구 소속 공무원에 대해 경찰이 구속 영장을 신청했다. 해당 공무원은 현재 직위 해제됐다.&lt;br&gt;&lt;br&gt;서울 수서경찰서는 지난 29일 오후 강남구 대치2동 사전투표소에서 선거사무원으로 일하며 남편과 자신의 명의로 투표를 두 번 한 혐의(사위투표)를 받는 60대 공무원 A씨에 대해 구속영장을 신청했다고 31일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 29일 오후 1시쯤 남편 신분증으로 투표용지를 발급해 대리 투표를 마친 후 오후 5시쯤 다시 자신의 신분증으로 투표를 한 혐의를 받는다.&lt;br&gt;&lt;br&gt;경찰은 “투표를 2번 한 사람이 있다”는 무소속 황교안 대선후보 측 참관인의 신고를 받고 출동해 A씨를 긴급체포했다. &lt;br&gt;&lt;br&gt;A씨는 강남구 보건소 소속 공무원으로 선거관리위원회에 29~30일 근무를 신청해 사전투표 사무원으로 위촉됐다. A씨는 이틀 동안 유권자들의 신원을 확인하는 업무를 담당했다. &lt;br&gt;&lt;br&gt;A씨는 지난 총선 때도 선거사무원으로 일한 경력이 있던 것으로 전해졌다. 강남구는 29일 A씨를 직위 해제했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>동급생 사진으로 ‘딥페이크 음란물’ 제작… 10대男, 벌금 500만원</title>
-      <link>https://www.chosun.com/national/national_general/2025/06/02/BWASCOXZ2JCSHKPYHWNZSGHT4Q/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/02/BWASCOXZ2JCSHKPYHWNZSGHT4Q/</guid>
-      <dc:creator>광주광역시=진창일 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 02 Jun 2025 04:59:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QBGAINSKPTZD54OVZYA6N4H57U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;광주지방법원. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;같은 학교에 재학 중인 여학생의 사진으로 음란물을 만들어 온라인상에 퍼지게 한 10대에게 벌금형이 내려졌다.&lt;br&gt;&lt;br&gt;광주지법 형사12단독 안지연 부장판사는 2일 정보통신망 이용 촉진 및 정보보호 등에 관한 법률상 명예훼손 혐의로 기소된 A(19)군에게 벌금 500만원을 선고했다고 밝혔다.&lt;br&gt;&lt;br&gt;A군은 지난해 8월 같은 학교에 재학 중인 B양의 얼굴이 담긴 사진을 이용해 딥페이크 기술로 음란물을 만들고, 신원을 알 수 없는 인물에게 전송해 SNS에 게시하게 한 혐의로 재판에 넘겨졌다. A군은 B양이 직접 쓴 것처럼 속인 허위 내용의 성적인 글까지 작성해 전송한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;안 부장판사는 “게시글의 내용, 표현 정도 등을 고려하면 죄질이 불량하고 범행으로 인해 피해 학생 B양이 상당한 정신적 충격을 느꼈을 것으로 보인다”면서도 “대체로 반성하는 태도를 보이는 점, 범행 후 게시글 삭제를 스스로 요청해 게시 기간이 길지 않은 점 등을 고려해 형을 정했다”고 판시했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/QBGAINSKPTZD54OVZYA6N4H57U.jpg?auth=3501d8d00ba4afd6d239e79908f560bbbc2e6b7e4767d5088372a0cea644a309&amp;smart=true&amp;width=4256&amp;height=2448" type="image/jpeg" height="2448" width="4256">
-        <media:description type="plain">광주지방법원. /뉴스1</media:description>
-      </media:content>
-    </item>
-    <item>
       <title>“변호사 오고 있다”며 음주측정 거부한 남성, 1심서 실형</title>
       <link>https://www.chosun.com/national/court_law/2025/06/02/35J32EN3DZHRDNG5MQFZEM7LNA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/02/35J32EN3DZHRDNG5MQFZEM7LNA/</guid>
@@ -790,15 +797,6 @@
       <description/>
       <pubDate>Mon, 02 Jun 2025 03:22:43 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NRINIE4TT2XUQXJLI2DRNDXIKE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;백신 접종 모습./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최근 중국, 태국, 싱가포르 등 주변 국가에서 코로나19 확진자가 늘어나는 가운데 방역 당국이 코로나19 고위험군에 예방 접종을 권고했다. 65세 이상 어르신, 생후 6개월 이상 면역 저하자 및 감염 취약 시설 입원·입소자 등이 코로나19 고위험군에 해당한다. &lt;br&gt;&lt;br&gt;질병관리청은 이달 말까지 고위험군과 감염 취약 시설 입원·입소자를 대상으로 2024∼2025절기 코로나19 예방접종을 무료로 시행한다고 2일 밝혔다. 현재 사용 중인 JN.1 계열 백신은 여러 코로나19 변이에 예방 효과가 있는 것으로 국내외 연구에서 확인됐다.&lt;br&gt;&lt;br&gt;국내 유행 상황은 비교적 안정적으로 관리되고 있다. 질병청에 따르면 코로나19 표본 감시 입원 환자 수는 4월 27일∼5월 3일 115명, 5월 4∼10일 146명, 5월 11∼17일 100명, 5월 18∼24일 97명이다. 단 같은 기간 코로나19 검출률은 4.2%, 2.8%, 8.6%, 8.8%로 3주째 증가했다. 선행 지표인 바이러스 검출률이 높아지면 확진자가 늘어나 2∼3주 후에 입원 환자가 증가할 수 있다.&lt;br&gt;&lt;br&gt;다만, 인접 국가들에서 코로나19 발생이 증가하고 있고 백신 접종 후 면역이 충분히 형성되는 기간(약 4주)을 고려해 가급적 빠른 시일 내 백신을 접종할 필요가 있다고 질병청은 설명했다. 특히 질병청은 중국과 태국, 싱가포르 등 코로나19 발생이 증가세를 보이는 주변국으로 여행할 예정인 고위험군은 출국 전 접종받을 것을 권고했다. &lt;br&gt;&lt;br&gt;코로나19 고위험군은 이달 말까지 의료기관에서 무료로 백신을 접종할 수 있다. 질병청은 “다만 현재 일부 의료기관에서만 백신 접종이 가능하다”면서 “예방 접종 도우미 누리집에서 접종 의료기관과 가능 여부를 사전에 확인하고 방문해달라”고 했다. 코로나 고위험군이 아닌 일반인은 비용을 지불하고 백신을 접종할 수 있다. &lt;br&gt;&lt;br&gt;지영미 질병청장은 “인접국에서 코로나19가 증가하고 있어 다가오는 여름철 국내 유행 가능성을 배제할 수 없다”며 “코로나19 고위험군 미접종자는 지금이라도 백신 접종할 것을 당부드린다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>대구·경북 물공급 운문댐, 가뭄단계 ‘주의’</title>
-      <link>https://www.chosun.com/national/transport-environment/2025/06/02/ZYWAR52FHJAVXKHCJ7P2KUJ3VM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/06/02/ZYWAR52FHJAVXKHCJ7P2KUJ3VM/</guid>
-      <dc:creator>박상현 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 02 Jun 2025 02:12:21 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4RCT7XJQQPQAKRI4XYTT4FBKNE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2022년 6월 가뭄으로 인해 경북 청도군 운문댐 수위가 낮아지면서 곳곳에 물이 말라 가장자리 땅이 드러나고 있다. 당시 운문댐 저수율은 23.6%까지 내려가 극심한 가뭄에 해당하는 '심각' 단계가 발령된 바 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대구와 경북 경산·영천·청도 등에 물을 공급하는 운문댐 가뭄대응단계가 ‘주의’ 단계로 올라 물 비축 대책을 시행한다고 환경부가 2일 밝혔다.&lt;br&gt;&lt;br&gt;환경부와 기상청 등에 따르면, 운문댐 유역에는 올해 들어 이번 달 1일까지 누적 강수량이 232.4㎜로 예년 같은 기간 강수량의 78.4%에 그치고 있다. 이에 댐의 저수량도 낮아진 것이다. 운문댐과 같은 용수댐 가뭄단계는 ‘정상-관심-주의-심각’으로 나뉜다.&lt;br&gt;&lt;br&gt;환경부는 “지난달 1일 운문댐 가뭄단계가 ‘관심’이 된 이후 댐에 유입되는 물은 하루평균 23만t에 불과한데 댐에서 나가는 용수량이 하루평균 38만4000t이어서 저수량이 지속해서 줄어드는 상황”이라고 했다.&lt;br&gt;&lt;br&gt;환경부는 하천유지용수(하루 최대 7만8000t)와 농업용수(하루 최대 2만t) 공급량을 줄이는 한편, 운문댐에서 공급하는 대구 생활·공업용수(하루 22만8000t) 중 최대 10만7000t을 낙동강 물로 공급, 댐에 물을 비축하기로 했다.&lt;br&gt;&lt;br&gt;올해는 수도권을 제외한 전 지역에 예년보다 비가 적게 내렸다. 올 들어 지난달까지 전국 누적 강수량은 평년 같은 기간 강수량의 86.6%인 265.5㎜에 그치고 있다.&lt;br&gt;&lt;br&gt;전국 14개 용수댐 중 운문댐과 함께 낙동강 유역에 있는 영천댐의 가뭄단계가 지난 2월 19일부터 ‘주의’를 유지 중이다. &lt;br&gt;&lt;br&gt;20개의 다목적댐 중에는 보령댐의 가뭄단계가 ‘관심’이다. 다목적댐 가뭄단계는 ‘정상-관심-주의-경계-심각’으로 나뉜다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>교육부 “손효숙 리박스쿨 대표, 장관 정책자문위원회에서 해촉” </title>
