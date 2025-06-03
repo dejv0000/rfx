@@ -6,6 +6,15 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>【오늘의 국회일정】 2025년 6월 3일</title>
+			<description>&lt;b&gt;◇국회의장&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;08:00 제21대 대통령선거 투표(노원한청경로당 1층)&lt;br /&gt;&lt;b&gt;&lt;br /&gt;◇소통관 기자회견&lt;br /&gt;&lt;/b&gt;&lt;br /&gt;13:20 김현 의원, [더불어민주당 팩트체크넷 민주파출소 일일 브리핑]&lt;br /&gt;&lt;br /&gt;&lt;b&gt;&lt;br /&gt;&lt;span style="font-size: 14px;"&gt;※ 상기 일정은 사정에 따라 변경될 수 있습니다.&lt;/span&gt;&lt;/b&gt;</description>
+			<pubDate>Mon, 02 Jun 2025 22:35:45 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/208521</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/208521</guid>
+			<dc:creator>인터넷 기자</dc:creator>
+		</item>
+		<item>
 			<title>한국인공지능법학회, 6월 16일 'AI 에이전트 시대의 인공지능 기본법' 학술대회 개최</title>
 			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/208519.jpg" alt="34534535.jpg" style="opacity: 0;" height="10px" /&gt;&lt;/p&gt;&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/208519.jpg" alt="34534.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;한국인공지능법학회(회장 최경진)가 6월 16일 오후 1시 30분 서울 강남구 베스트웨스턴프리미어 강남 다이아몬드홀(B1)에서 2025년 상반기 학술대회를 개최한다. 이번 학술대회는 'AI 에이전트 시대의 인공지능 기본법'을 주제로 인공지능 법제의 개정 필요성과 신뢰성 확보 방안을 집중 논의한다.&lt;br /&gt;&lt;br /&gt;1부에서는 'AI 기본법 개정 필요성과 개정 방향'을 주제로 △박도현 GIST 교수가 'AI기본법 적용 범위 합리화'를 △&lt;span style="font-weight: bold;" class="lawmanlink" serial="9736"&gt;박상철&lt;/span&gt;(47·사법연수원 32기) 서울대 로스쿨 교수가 'AI 기본법상 각종 의무 합리화'를 △&lt;span style="font-weight: bold;" class="lawmanlink" serial="14181"&gt;권창환&lt;/span&gt;(50·36기) 부산회생법원 부장판사가 'AI 기본법상 조치·제재 합리화'를 △&lt;span style="font-weight: bold;" class="lawmanlink" serial="17640"&gt;송도영&lt;/span&gt;(45·39기) 법무법인 비트 변호사 'AI 혁신 지원을 위한 특례 신설'을 주제로 발표한다. 좌장은&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="10040"&gt;이상용&lt;/span&gt;(52·32기) 건국대 로스쿨 교수가 맡는다.&lt;br /&gt;&lt;br /&gt;2부에서는 'AI 에이전트의 활용과 신뢰성 확보'를 주제로, 허훈 ㈜라이나 테크 총괄이 'AI 에이전트의 신뢰성 측정과 개선 방안'을 발표하고, 차경진 한양대 경영전문대학원 교수가 'AI 에이전트의 활용과 신뢰도·투명성 문제의 기술적 극복 방안'을 제시한다. 좌장은 성균관대 송경희 교수가 맡는다.&lt;br /&gt;&lt;br /&gt;마지막 3부 종합 토론에는 김경만 과학기술정보통신부 국장, 김병필 KAIST 교수,&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="24845"&gt;신용우&lt;/span&gt;(50·변호사시험 1회) 법무법인 지평 변호사, 양용석 김·장 법률사무소 위원, 윤혜선 한양대 교수, 장여경 정보인권연구소 이사 등이 참여해 AI 기본법 개정의 방향성과 현실적 과제를 종합적으로 짚는다. 좌장은 최경진 가천대 교수가 맡는다.</description>
 			<pubDate>Mon, 02 Jun 2025 09:02:56 -0000</pubDate>
@@ -228,16 +237,6 @@
 			<link>https://www.lawtimes.co.kr/news/208492</link>
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/208492</guid>
 			<dc:creator>인터넷 기자</dc:creator>
-		</item>
-		<item>
-			<title>[단독] 이기택 전 대법관, 태평양 합류</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/208495.jpg" alt="34534638.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;이기택 전 대법관&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;br /&gt;&lt;p&gt;&lt;span class="lawmanlink" serial="8732" style="font-weight: bold;"&gt;이기택&lt;/span&gt;(66·사법연수원 14기) 전 대법관이 6월 초부터 &lt;b&gt;&lt;a href="https://www.bkl.co.kr/law?lang=ko" target="_blank"&gt;법무법인 태평양&lt;/a&gt;&lt;/b&gt;에 합류한다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;법률신문 취재에 따르면 이 전 대법관은 6월 9일부터 태평양에 합류하는 것으로 파악됐다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;서울 경성고와 서울대 법대를 졸업한 이 전 대법관은 1981년 제23회 사법시험에 합격해 사법연수원과 군법무관 복무를 거쳐 1985년 서울민사지법 판사로 임관했다. 이후 법원행정처 사법정책연구심의관, 대법원 재판연구관, 특허법원 부장판사, 서울고법 부장판사, 서울서부지방법원장 등을 지냈으며 2015년 대법관으로 임명돼 2021년 퇴임하기까지 36년간 법관으로 근무했다. 대법관으로 퇴임한 이후에는 서강대 로스쿨 석좌교수를 지내며 민사실무 강의를 담당했다.&lt;/p&gt;</description>
-			<pubDate>Fri, 30 May 2025 21:33:19 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/208495</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/208495</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/208495.jpg</media:thumbnail>
-			<dc:creator>한수현 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
