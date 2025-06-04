@@ -13,6 +13,90 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>지카바이러스 올해 첫 환자 발생… 질병청 “동남아 여행 시 모기 주의”</title>
+      <link>https://www.chosun.com/national/welfare-medical/2025/06/04/GZPD5ZUDZNGRFEEO2XPPI5KITU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/06/04/GZPD5ZUDZNGRFEEO2XPPI5KITU/</guid>
+      <dc:creator>오유진 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 04 Jun 2025 03:00:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NROQA4HYWFI3IMKNIJ3R6J3LJ4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;소두증을 유발하는 지카(zika) 바이러스를 옮기는 '이집트 숲모기(Aedes Aegypti)' 암컷. /AP 연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국내에서 2년 만에 지카바이러스 감염 환자가 발생함에 따라, 보건 당국이 동남아 등 감염 위험 국가를 방문할 경우 모기 등을 주의하라고 당부했다.&lt;br&gt;&lt;br&gt;4일 질병관리청은 최근 인도네시아 발리를 방문한 40대 남성 A씨가 지난달 30일 제주에서 지카바이러스 감염증 확진 판정을 받았다고 밝혔다. 올 들어 국내 첫 지카바이러스 감염 사례다. A씨는 현지에서 모기에 물린 뒤, 귀국 후 3일째 오한과 발진, 결막 충혈, 근육통 등의 증상을 보였다. 상태는 호전되고 있는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;지카바이러스 감염증은 주로 감염된 숲모기에 물려 전파된다. 성 접촉이나 수혈, 실험실 노출 등을 통해서도 감염될 수 있다. 감염되면 3~14일의 잠복기를 거쳐 발진, 발열, 결막 충혈, 관절통, 근육통 등의 증상이 나타난다. 치사율은 매우 낮고 대부분 충분히 휴식하면 회복되지만, 드물게 중증 합병증이 발생하기도 한다. 특히 임신부가 감염되면 조산, 태아 사망·사산, 소두증, 선천성 기형 등을 유발할 수 있다.&lt;br&gt;&lt;br&gt;우리나라에서는 2023년 2명의 환자가 신고됐지만, 지난해에는 없었다. 2016년 이후 40명의 환자가 나왔다. 이 중 실험실 감염 1건을 제외한 나머지 39건은 모두 해외 유입 사례였다. 필리핀과 태국이 각각 10명으로 가장 많았고, 이어 베트남(7명), 몰디브·인도네시아(각 2명) 순이다.&lt;br&gt;&lt;br&gt;전 세계적으로는 지난해 한 해 동안 4만957명, 올해 5월까지 1만2660명의 환자가 발생했다. 국가별로는 브라질(10만8897명), 볼리비아(1496명), 아르헨티나(1252명) 등 중남미 지역에서 많았고, 아시아에서는 태국(1106명), 인도(151명), 싱가포르(47명) 등에서 발생했다.&lt;br&gt;&lt;br&gt;​질병청은 “지카바이러스 감염증은 예방 백신이나 치료제가 없어, 모기에 물리지 않는 것이 가장 중요하다”며 “감염 위험 국가에서 모기에 물린 뒤 2주 이내에 의심 증상이 나타나면, 의료기관을 방문해 신속한 진단과 치료를 받아야 한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>발리 다녀온 40대 남성 지카바이러스 감염… “치료제 없어 모기 안 물리는 게 최선”</title>
+      <link>https://www.chosun.com/national/national_general/2025/06/04/FANFVKCVINBRNGWRQ2Y6QO6O6Q/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/04/FANFVKCVINBRNGWRQ2Y6QO6O6Q/</guid>
+      <dc:creator>최혜승 기자 </dc:creator>
+      <description/>
+      <pubDate>Wed, 04 Jun 2025 02:40:30 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YSDW7EJCLJJNDPQ7LKUIS3SKUE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지카(Zika) 바이러스를 매개하는 ‘이집트 숲 모기’ 자료사진./위키미디어&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최근 인도네시아 발리를 방문한 40대 남성이 지카바이러스에 감염된 것으로 확인됐다. 국내에서 지카바이러스 감염 환자가 발생한 건 2023년 이후 2년 만이다.&lt;br&gt;&lt;br&gt;4일 질병관리청과 제주도에 따르면, 40대 남성 A씨는 지난달 30일 제주에서 지카바이러스 확진 판정을 받았다. 역학 조사 결과 A씨는 지난달 중순 인도네시아 발리를 방문해 모기에 물렸다. 그는 귀국 후 3일째 오한, 구진성 발진, 결막충혈, 근육통 증상을 겪어 의료기관을 방문했다가 양성으로 확인됐다. 현재 상태는 호전되고 있는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;지카바이러스는 지카바이러스에 감염된 숲모기에 물려 감염된다. 성 접촉, 수혈, 실험실 노출, 모자 간 수직 감염 등을 통해서도 전파되는 사례도 보고되고 있다. 3∼14일의 잠복기를 거쳐 피부가 붉게 변하는 등의 반점구진성 발진, 발열, 결막 충혈, 근육·관절통이 나타난다.&lt;br&gt;&lt;br&gt;치사율은 낮지만 임신부가 감염되면 조산이나 사산할 수 있으며 아이가 소두증, 선천성 기형 등을 갖고 태어날 수 있다. &lt;br&gt;&lt;br&gt;국내 지카바이러스 감염 환자는 2016년 이후 현재까지 총 40명 환자가 신고됐다. 2016년 16명, 2017년 11명, 2018년 3명, 2019년 3명, 2020년 1명, 2022년 3명, 2023년 2명, 올해 1명 등이다. 이 중 2020년 감염증 환자는 실험실 감염 사례로 추정된다. 2021년과 2024년에는 확진자가 없었다.&lt;br&gt;&lt;br&gt;전 세계 지카바이러스 감염 환자는 2023년 5만6601명, 2024년 4만4957명, 지난달 기준 올해 1만2660명이 보고됐다.&lt;br&gt;&lt;br&gt;2023년부터 지난달까지 환자 대부분은 브라질(10만8897명)에서 발생했다. 태국과 싱가포르에서도 각각 1106명, 47명이 감염됐다.&lt;br&gt;&lt;br&gt;질병청은 지카바이러스에 대한 백신이나 치료제가 없어 모기에 물리지 않는 것이 가장 중요하다며 감염증 발생 국가 여행 시 예방 수칙을 준수해 달라고 강조했다. 여행 전에는 질병청 누리집에서 지역별 감염병 정보를 확인하고 모기 기피제와 모기장, 모기향 등을 준비한다. 여행 중에는 풀숲이나 산을 피하고 밝은 긴팔 상의와 긴 바지를 착용하는 것이 좋다. &lt;br&gt;&lt;br&gt;귀국 후에는 2주 이내 발진 등의 의심 증상이 나타나는지 지켜보고, 증상 발생 즉시 의료기관에 방문, 해외여행 사실을 알려야 한다. 지카바이러스 발생국 여행 후에는 4주가량 헌혈을 삼가고 남녀 모두 3개월간 성 접촉을 피하는 게 좋다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘보복운전’ 이경 전 민주당 부대변인, 대법원서 유죄 확정</title>
+      <link>https://www.chosun.com/national/court_law/2025/06/04/GFUH4M6PCFDEPG4NG4P2FWYW6U/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/04/GFUH4M6PCFDEPG4NG4P2FWYW6U/</guid>
+      <dc:creator>김은경 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 04 Jun 2025 00:50:23 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JJ7KDSLLOVFGFPVNQ7CND2XENM.jpg"&gt;&lt;br&gt;&lt;br&gt;‘보복운전’ 혐의로 재판에 넘겨진 이경 전 더불어민주당 상근부대변인에게 유죄가 확정됐다. &lt;br&gt;&lt;br&gt;대법원 3부(주심 이숙연 대법관)는 특수협박 혐의로 기소된 이 전 부대변인에게 벌금 500만원을 선고한 원심 판결을 지난달 15일 확정했다고 4일 밝혔다.&lt;br&gt;&lt;br&gt;이 전 부대변인은 2021년 11월 12일 오후 10시쯤 서울 영등포구의 한 도로에서 운전하던 중 차로를 바꾼 자신에게 뒤차가 경적을 울리고 상향등을 켜자 이에 수차례 급제동하는 등 위협한 혐의로 이듬해 12월 기소됐다. 보복운전을 피해 뒤차가 차로를 바꾸자, 이 전 부대변인은 그 앞으로 끼어들어 재차 급제동한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;이 전 부대변인은 법정에서 “대리운전 기사가 운전을 했고, 술은 마시지 않았지만 깊이 잠들어 기사가 급제동한 것을 몰랐다”는 취지로 주장했지만 법원은 받아들이지 않았다.&lt;br&gt;&lt;br&gt;지난 2월 2심 재판부는 “이 전 대변인이 직접 운전하고 수회에 걸쳐 급제동을 하는 방법으로 피해자를 위협한 사실을 충분히 인정할 수 있고, 이는 공포심을 일으키게 하기에 충분한 것으로 판단되므로 특수협박죄가 인정된다”고 했다.&lt;br&gt;&lt;br&gt;이어 “음주를 전혀 하지 않은 상태에서 탑승한 지 약 7분 만에 신체가 흔들릴 정도의 급제동이 두 차례나 있었는데도 이를 알아차리지 못할 정도로 깊게 잠이 들었다는 것은 받아들이기 어렵다”며 “대리운전 기사가 자기 소유도 아닌 차량을 대신 운전하면서 보복 운전을 한다는 건 이례적”이라고도 했다.&lt;br&gt;&lt;br&gt;이 전 부대변인이 상고했지만 대법원도 “원심의 판단에 법리를 오해한 잘못이 없다”며 판결을 확정했다. 친이재명계 인사로 꼽히는 이 전 부대변인은 총선 출마를 준비하다 2023년 12월 1심 유죄 판결이 난 이후 공천 부적격 판정을 받아 출마하지 못했다. 현재 사단법인 기본사회 대변인을 맡고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>검찰, ‘尹 허위사실공표 의혹’ 관련 게임산업협회 前관계자 소환</title>
+      <link>https://www.chosun.com/national/court_law/2025/06/04/HXSKD7XQBFCFHN2OFEFFHCBZEM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/04/HXSKD7XQBFCFHN2OFEFFHCBZEM/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 04 Jun 2025 02:06:29 +0000</pubDate>
+      <content:encoded>윤석열 전 대통령이 부인 김건희 여사의 허위 경력 의혹에 대해 허위사실을 공표했다는 혐의를 수사 중인 검찰이 4일 최승훈 전 게임산업협회 사무국장을 소환했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YFVRJCSYCUEB5LEBX6JHSVWYGA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울중앙지검./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지검 공공수사2부(부장 조민우)는 이날 오전 최 전 사무국장을 참고인으로 불러 조사하고 있다. 최 전 사무국장은 김 여사가 2007년 수원여대 교수 초빙지원서 경력사항에 2002년 3월부터 3년간 게임산업협회에서 ‘기획팀 기획이사’로 재직했다고 기재한 것과 관련해 김 여사가 재직한 사실이 없다고 밝혔던 인물이다.&lt;br&gt;&lt;br&gt;최 전 사무국장은 2021년 12월 자신의 페이스북을 통해 자신이 협회의 전신인 게임산업연합회에서 2002년부터 근무했고, 2004년 게임산업협회 설립 때부터 5년간 정책실장, 사무국장으로 근무했다고 밝혔다. 그러면서 “김건희라는 분과 함께 근무한 적은 물론 본 적도 없다”고 했다. 이어 “연합회 시절 직원이 최대 4명이었고, 협회도 초창기 직원 수는 10명 미만의 작은 조직이었다”며 “제가 기억하고 있는 사실과 다르다는 점을 분명하게 확인한다”고 했다.&lt;br&gt;&lt;br&gt;이와 관련해 대선 후보이던 윤 전 대통령은 그달 14일 열린 관훈클럽 토론회에서 “(관련 경력이) 부분적으로는 모르겠지만 전체적으로 허위는 아니다”라고 말했다. 시민단체 사법정의바로세우기시민행동은 이러한 윤 전 대통령의 발언이 허위에 해당한다며 고발한 것이다.&lt;br&gt;&lt;br&gt;검찰은 지난달 1일 고발인 조사를 시작으로 본격적인 수사에 착수한 상태다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘해병대 채상병 순직 사건’ 임성근 前 사단장, 4일 검찰 소환조사 </title>
+      <link>https://www.chosun.com/national/regional/2025/06/04/DIDYU6L7X5B6VBPZX25WD2OWYI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/06/04/DIDYU6L7X5B6VBPZX25WD2OWYI/</guid>
+      <dc:creator>대구=노인호 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 04 Jun 2025 01:39:04 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KFHIIHRORRLYLAQQXC45E6WUHE.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;임성근 전 해병대 1사단장이 4일 오전 '해병대 채 상병 순직 사건' 관련, 검찰 조사를 받기 위해 대구지검에 출석하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘해병대 채 상병 순직 사건’과 관련해 업무상과실치사 혐의로 고발된 임성근 전 해병대 1사단장이 4일 검찰에 출석했다.&lt;br&gt;&lt;br&gt;임 전 사단장은 이날 오전 9시 30분 대구지검에 피의자 신분으로 출석했다. &lt;br&gt;&lt;br&gt;임 전 사단장은 검찰 조사에 앞서 취재진에 “그동안 현역 군인 신분이었고 정치적으로 해석될까 봐 말을 못 했다”면서 “대선이 끝난 만큼 이제부터 나오는 결과는 국민들이 누구의 영향도 받지 않고 그대로의 진실이라고 믿을 것이다. 법과 증거에 따라 결과를 내주길 바란다”고 했다. 임 전 사단장은 지난 2월 전역했다.&lt;br&gt;&lt;br&gt;그는 “국민들의 여러 법 상식으로 볼 때 수사가 너무 지체된 만큼 빠른 시간에 결과를 발표해야 한다”고 덧붙였다. &lt;br&gt;&lt;br&gt;채 상병 특검법 도입에 대해 그는 “대구지검이나 공수처의 수사 결과가 국민들의 보기에 맞지 않는다면 제가 특검을 요구할 수도 있다. 진실이 명명백백히 규명돼야 한다”고 강조했다.&lt;br&gt;&lt;br&gt;2023년 7월 19일 채 상병 순직 이후 1년가량 수사를 진행한 경북경찰청은 ‘채 상병 사망과 관련해 구체적인 인과관계가 부족하다’며 임 전 사단장에 대해 불송치 결정했다. 하지만 유족 측이 이의신청했고, 검찰은 그를 피의자로 전환해 수사를 이어나가고 있다. &lt;br&gt;&lt;br&gt;검찰 관계자는 “수사 중인 사건으로 자세한 내용은 밝힐 수 없다”고 말했다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>시도지사協 “이 대통령 당선 축하, 국민 대통합 전환점 소망”</title>
+      <link>https://www.chosun.com/national/national_general/2025/06/04/SC6D7SGF4BDBBJ6QLFKFSHV6DQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/04/SC6D7SGF4BDBBJ6QLFKFSHV6DQ/</guid>
+      <dc:creator>인천=이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 04 Jun 2025 01:24:34 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZVXV5QPKXBKAFG72WYEZAHCQYQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한 자리에 모인 전국 17개 광역단체장들이 지난해 1월 서울 한국프레스센터에서 열린 제58차 대한민국시도지사협의회 임시총회에서 기념촬영을 하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대한민국시도지사협의회는 4일 “이재명 대통령의 당선을 축하하고, 오늘의 새로운 출발이 국민 대통합을 여는 전환점이 되길 소망한다”고 밝혔다. &lt;br&gt;&lt;br&gt;협의회는 이날 성명서에서 “경제 침체와 불확실성 등 이중의 위기를 극복하기 위해선 지역의 현실과 특성에 맞는 맞춤형 발전 전략을 지역 스스로 수립하고, 중앙 정부와 지방 정부가 긴밀히 손을 맞잡고 나아가야 한다”며 이같이 강조했다. &lt;br&gt;&lt;br&gt;협의회는 이어 지방분권 강화를 위한 지방분권형 개헌의 조속한 추진과 지방 정부의 참여를 보장한 국정 과제 수립, 지역 현안과 국정 운영 방향 논의를 위한 중앙지방협력회의 개최 등을 건의했다. &lt;br&gt;&lt;br&gt;협의회장인 유정복 인천시장은 “중앙 정부와 지방 정부 모두 국가의 안정과 국민의 행복을 지키는 것이 가장 중요한 소임”이라며 “새 정부와 국회, 관계기관 등과 적극 협력해 대한민국의 미래를 열어가겠다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“말이 가진 무게 배웠다”…김혜은, 자필로 적은 사과문 공개</title>
+      <link>https://www.chosun.com/national/national_general/2025/06/04/4K2WWDLHWZAYVIVS7IOAQ6MXYI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/04/4K2WWDLHWZAYVIVS7IOAQ6MXYI/</guid>
+      <dc:creator>김자아 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 03 Jun 2025 23:15:32 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2CUAITLAS5FAXHZ2QDWUALBFIY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;배우 김혜은(왼쪽)이 4일 새벽 올린 자필 사과문./인스타그램, 온라인커뮤니티&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울대 출신 배우 김혜은이 유시민 전 노무현재단 이사장을 겨냥한 학력 관련 발언에 대해 사과했다.&lt;br&gt;&lt;br&gt;김혜은은 4일 새벽 자신의 인스타그램 스토리를 통해 “지난 5월 31일 제가 작성한 글로 인해 불편함을 느끼셨거나 상심하셨던 모든 분들께 진심으로 죄송하다는 말씀을 드린다”며 손글씨로 적은 글을 올렸다.&lt;br&gt;&lt;br&gt;김혜은은 “저를 오래 지켜봐주신 분들께, 그리고 뜻하지 않게 그 글을 보시고 실망과 불편을 느끼신 분들께 그 감정의 책임이 온전히 제게 있음을 인식하며 깊이 반성하고 있다”고 했다.&lt;br&gt;&lt;br&gt;그러면서 “오래도록 말을 해온 사람으로서 이번 일을 통해 말이 가진 무게를 다시 한번 배운다”며 “그 깨달음을 잊지 않고 스스로를 더욱 다잡는 배우가 되겠다. 앞으로는 배우로서 저의 생각과 표현이 사회에 미치는 영향을 더 깊이 고민하며 공인으로서 조심스럽고 책임 있는 자세로 임하겠다”고 했다.&lt;br&gt;&lt;br&gt;앞서 김혜은은 지난달 31일 인스타그램에 “어제오늘처럼 서울대 나온 학력이 부끄러운 적이 없었던 것 같다. 제가 대신 죄송하다는 말씀 전하고 싶다”며 김문수 국민의힘 대통령 후보의 아내 설난영씨를 응원하는 글을 올렸다.&lt;br&gt;&lt;br&gt;이는 유 전 이사장이 지난달 28일 유튜브 채널 ‘김어준의 다스뵈이다’에 출연해 설씨에 관해 이야기한 발언을 겨냥한 것으로 해석됐다. 유 전 이사장과 김혜은은 각각 서울대 경제학과와 성악과를 졸업한 동문이다.&lt;br&gt;&lt;br&gt;유 전 이사장은 이 유튜브 방송에서 “유력한 정당의 대통령 후보 배우자라는 자리가 설난영씨 인생에선 거의 갈 수 없는 자리”라며 “험하게 살다가 국회의원 사모님이 됐다. 남편을 더욱 우러러보게 됐을 것”이라고 주장해 여성·노동자·학력 비하 논란을 빚었다.&lt;br&gt;&lt;br&gt;당시 김혜은은 이 글을 올린 이후 “계엄 땐 안 부끄러웠나” “선택적 분노다” 등의 비판에 휩싸였다. 이에 논란이 된 글을 삭제하고 댓글 기능을 비활성화했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/7LK4WQK6YVGI3KRUOREDNUAWR4.jpg?auth=ba86396cb9d6358d8cf9bfb3013f71b1216f1cde1c9f8f9eb62d0a3a53014694&amp;smart=true&amp;width=841&amp;height=604" type="image/jpeg" height="604" width="841">
+        <media:description type="plain">배우 김혜은./인스타그램</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>‘가상자산’ 투자 사기로 468억 챙겨...다단계조직 22명 검거 </title>
+      <link>https://www.chosun.com/national/2025/06/04/TMUSNPVS4JHXTGB42TZIY5Y4UM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2025/06/04/TMUSNPVS4JHXTGB42TZIY5Y4UM/</guid>
+      <dc:creator>창원=김준호 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 04 Jun 2025 00:45:06 +0000</pubDate>
+      <content:encoded>고수익 보장을 미끼로 2000여 명에게 400억원대 가상 자산 투자 사기를 벌인 불법 다단계 판매 조직 일당이 경찰에 붙잡혔다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/S4JNNA63IJHXYPIIBJ7DXGEVSU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경남경찰청은 사기 등 혐의로 불법 다단계 조직 ‘아하그룹’ 관계자 22명을 검거하고, 이 중 총책 겸 의장인 A씨 등 4명을 구속했다고 4일 밝혔다.&lt;br&gt;&lt;br&gt;A씨 등은 지난 2016년 다단계판매업 등록 없이 불법 다단계 판매 조직을 만든 후 가상 캐릭터, 가상 부동산, 대체 불가 토큰(NFT) 등에 투자하거나 하위 투자자를 모집하면 최대 10%까지 수당을 주겠다고 속여 2138명으로부터 468억원 상당의 투자금을 받아 챙긴 혐의를 받는다. &lt;br&gt;&lt;br&gt;경찰 조사 결과 이들은 2016년부터 경남 창원시 마산회원구에 본사를 둔 ‘아하그룹’을 차리고, 정상적인 회사인 것처럼 피해자들로부터 투자금을 받아 이를 다시 돌려막기한 것으로 드러났다. &lt;br&gt;&lt;br&gt;경찰에 따르면 피해자가 1000만원을 투자하면 파트너 자격 및 주식 구매 자격을 부여하고, 투자금의 5~10%를 투자 수당으로 지급한다거나, 하위 투자자 모집 시 2~10% 후원 수당을 지급한다고 속이는 식으로 투자자를 늘렸다.&lt;br&gt;&lt;br&gt;하지만 실제로는 후순위 투자자들의 투자금을 선순위 투자자의 수당으로 지급하는 일명 ‘돌려막기’ 형태의 전형적인 ‘폰지사기(다단계 금융사기)’였다. 피해자들은 투자자로서 일정 기간 수당을 보장받아 의심 없이 계속 투자했다고 한다. 대부분의 사업은 실체도 없는 허위 사업이었다고 한다. &lt;br&gt;&lt;br&gt;A씨 등은 10년 가까이 조직을 회사 형태로 운영하면서 투자자들의 거래 실적에 따라 팀장, 국장, 대표로 승진시키고 그에 따른 수당을 지급하는 등 조직적으로 투자자들을 관리해왔다. &lt;br&gt;&lt;br&gt;경찰은 이들이 투자금을 차명 계좌로 이체해 개인적으로 가로채거나, 투자자들의 진술을 종용하는 등 수사를 방해하거나, 증거 인멸을 시도한 정황도 적발한 것으로 전해졌다. 아하그룹 의장 A씨 등 2명은 이미 구속돼 재판을 받고 있는 것으로 알려졌다. &lt;br&gt;&lt;br&gt;경찰은 피의자들의 범죄수익금을 추적해 향후 260억원을 한도로 범죄수익을 추징할 수 있도록 법원으로부터 인용 결정을 받았다. 또 부동산·분양 대금 반환 채권·예금 채권 등 150억원 상당의 재산 처분을 금지시켰다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “경제적 어려움에서 벗어나고자 하는 서민들의 절박한 심리와 투자 열풍을 악용한 각종 금융 범죄에 엄중 대응하겠다”면서 “단기간에 원금·고수익 보장을 미끼로 투자자를 모집하는 경우 투자 사기 등 범죄일 가능성이 매우 높아 신중히 접근해야 한다”고 당부했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>오세훈 “이재명 당선 축하…국민 통합에 최선 다해달라"</title>
+      <link>https://www.chosun.com/national/regional/seoul/2025/06/04/DHET3J3CGJH3TD3BNAIYFTPY4A/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/seoul/2025/06/04/DHET3J3CGJH3TD3BNAIYFTPY4A/</guid>
+      <dc:creator>박진성 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 03 Jun 2025 23:16:01 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5IZYXPASENJXFKQZOMLEORDATA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 5월 더불어민주당 이재명 대선 후보와 오세훈 서울시장이 서울 종로구 조계사에서 열린 불기 2569년 부처님오신날 봉축법요식에서 악수하고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;오세훈 서울시장은 4일 이재명 대통령에게 축하 인사를 전하며 “무엇보다 국민 통합에 최선을 다해주시기를 기대한다”고 말했다.&lt;br&gt;&lt;br&gt;오 시장은 이날 페이스북에 올린 ‘국민 통합이 우선입니다’란 제목의 글에서 “갈등과 저성장, 통상압력으로 대한민국은 벼랑 끝 위기”라며 이같이 밝혔다.&lt;br&gt;&lt;br&gt;오 시장은 “민생 활력과 약자와의 동행에도 적극 나서주시길 희망한다”며 “서울시도 국민이 바라시는 조속한 국정 안정을 위해 최선을 다해 협력하겠다”고 말했다.&lt;br&gt;&lt;br&gt;이어 “또한 끝까지 치열하게 최선을 다해주신 김문수 후보의 노력에 경의를 표하며, 위로의 말씀을 전한다”고 덧붙였다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>이재명 대통령, 4일 오전 11시 국회서 취임 선서</title>
       <link>https://www.chosun.com/national/national_general/2025/06/04/LDBSBPDLGNEOFPMRD6YUA4X6TQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/04/LDBSBPDLGNEOFPMRD6YUA4X6TQ/</guid>
@@ -844,24 +928,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/57KVEH4P37OI3TSLY7YL7JWECU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울지하철 5호선 열차에서 불을 지른 원모씨가 2일 서울 양천구 서울남부지법에서 열린 구속 전 피의자 심문(영장실질심사)에 출석하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 지하철 5호선 열차에 불을 지른 혐의를 받는 60대 남성 원모씨가 2일 구속됐다.&lt;br&gt;&lt;br&gt;서울남부지법 이영광 영장전담 부장판사는 이날 “도주 우려가 있다”면서, “공공의 안전에 현저한 위험과 심각한 피해가 초래된 점, 납득할 수 없는 동기로 사전에 범행 도구 등을 준비한 점 등을 고려해 범죄가 중대하며 재범 위험성도 있다”고 구속영장을 발부했다.&lt;br&gt;&lt;br&gt;원씨는 이날 오전 10시 30분쯤 법원에 출석해 15분가량 구속 전 피의자 심문(영장실질심사)을 받았다. 심문을 마치고 나온 원씨는 “혐의를 인정하느냐”는 취재진 질문에 “네”라고 짧게 답했다. “할 말 없느냐”는 물음엔 “죄송합니다”라고 했다. 나머지 질문에는 응답하지 않았다.&lt;br&gt;&lt;br&gt;원씨는 지난달 31일 오전 8시 43분쯤 여의나루역과 마포역 사이 터널 구간을 달리던 열차 안에서 휘발유를 뿌리고 옷가지에 불을 붙인 것으로 조사됐다.&lt;br&gt;&lt;br&gt;이 사건으로 승객 23명이 연기를 마셔 병원으로 이송됐고, 129명이 현장에서 치료를 받았다. 열차 1량이 일부 불에 타는 등 약 3억 3000만원의 재산 피해도 발생했다.&lt;br&gt;&lt;br&gt;경찰에 따르면 원씨는 “이혼 소송 결과에 불만이 있었다”고 진술했다. 방화에 사용된 휘발유는 사건 2주 전 주유소에서 구입한 것으로 알려졌다. 경찰은 원씨의 진술이 사실과 일치하는지 확인하기 위해 휴대전화 포렌식과 보안 카메라 분석을 진행 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>울산시, 7월부터 75세 이상 어르신 시내버스 요금 무료화</title>
-      <link>https://www.chosun.com/national/regional/2025/06/02/AH6SSWI4HFEFVK3TXNESBFWQJU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/06/02/AH6SSWI4HFEFVK3TXNESBFWQJU/</guid>
-      <dc:creator>울산=김주영 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 02 Jun 2025 08:15:13 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BS2CYDTVVSOTGFJKQF7267WCCQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;임현철 울산시 대변인이 2일 울산시청 프레스센터에서 75세 이상 어르신 시내버스 요금 무료화와 관련한 기자회견을 열고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;울산 지역에 사는 75세 이상 어르신은 7월 1일부터 시내버스를 무료로 이용할 수 있게 된다.&lt;br&gt;&lt;br&gt;울산시는 이날 “교통 약자를 배려하기 위해 지난해 9월부터 어린이 시내버스 요금을 무료화한 데 이어, 다음 달부터는 75세 이상 어르신들의 시내버스 요금을 무료화한다”고 밝혔다.&lt;br&gt;&lt;br&gt;울산시는 요금 무료화를 위해 오는 9일부터 울산시내 행정복지센터에서 ‘어르신 교통카드’를 지급한다.&lt;br&gt;&lt;br&gt;1950년 7월 이전 출생자가 첫 신청 대상자며, 이후 출생자는 생일이 지난 뒤 발급 가능하다. 본인이 직접 신분증을 갖고 주소지 행정복지센터를 방문하면 된다.&lt;br&gt;&lt;br&gt;현재 울산시의 75세 이상 인구는 6만3000여명으로, 시는 이 사업에 연간 40억원의 예산이 들어갈 것으로 보고 있다.&lt;br&gt;&lt;br&gt;울산시에 따르면 지난해 울산 지역 만 7세~12세 초등학생 어린이 버스 요금 무료화를 시행한 이후, 어린이 버스 이용률이 50%가량 늘어났다. 시는 어르신 버스 무료화 정책 이후에도 버스 이용률이 20~30%가량 증가할 것으로 기대하고 있다.&lt;br&gt;&lt;br&gt;임현철 울산시 대변인은 “과거 대한민국의 산업 역군이셨던 어르신들의 이동권 보장과 생활 편의가 증진되기를 바란다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>검찰, ‘아파트 시스템가구 입찰 담합 의혹’ 한샘 압수 수색</title>
-      <link>https://www.chosun.com/national/court_law/2025/06/02/XBOXGLXVAZAZPFECRH3U75LE3U/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/02/XBOXGLXVAZAZPFECRH3U75LE3U/</guid>
-      <dc:creator>이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 02 Jun 2025 08:03:36 +0000</pubDate>
-      <content:encoded>검찰이 ‘아파트 시스템가구 담합’ 의혹과 관련해 한샘을 압수 수색한 것으로 2일 확인됐다. 앞서 한샘 법인은 이 의혹과 별개인 ‘2조원대 신축 아파트 가구 입찰 담합’ 의혹으로 기소돼 1‧2심에서 모두 유죄를 선고받았고, 검찰이 상고한 상태다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/45AYWHDZJZF3C3MFZIHPPO6IJI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 마포구 상암동에 있는 한샘 본사 전경./조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 서울중앙지검 공정거래조사부(부장 김용식)는 지난 주부터 한샘 본사를 압수 수색하고 있다. 공정거래위원회가 지난 2월 한샘 등 가구사 20곳에 과징금 183억을 부과하고, 한샘, 동성사, 스페이스맥스, 쟈마트 등 업체 4곳을 검찰에 고발한 데 따른 것이다.&lt;br&gt;&lt;br&gt;이들 회사 영업 담당자가 2012년 2월부터 2022년 11월까지 16개 건설사가 발주한 총 190건의 시스템가구 입찰에 참여하면서 담합했다는 것이 공정위의 조사 결과다. 가구사들은 사전에 낙찰 예정자와 입찰가격을 합의했고, 사다리 타기·제비뽑기 등의 방법으로 낙찰 순번을 정한 것으로 전해졌다. 가구사가 입찰에 참여한 190여건 중 담합에 성공한 건 167건으로 관련 매출액은 3324억원이라고 한다.&lt;br&gt;&lt;br&gt;한편 한샘은 지난달 15일 신축 아파트 가구 입찰 담합 의혹 사건의 항소심에서 벌금 2억원을 선고 받았다. 함께 기소된 업체 6곳도 벌금 1~2억원이 선고됐고, 이 업체들의 임직원 10명에게는 징역형 집행유예를 받았다. 다만 최양하 전 한샘 회장은 1‧2심에서 모두 무죄를 선고받았다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>민주당 ‘검사가 증거 조작’ 주장에...검찰 “대장동 일당의 말바꾸기”</title>
       <link>https://www.chosun.com/national/court_law/2025/06/02/7CI6HGXNTNDQPO3ZBJVESQPO6E/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/02/7CI6HGXNTNDQPO3ZBJVESQPO6E/</guid>
@@ -880,15 +946,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UKSHSMZIE5CXVOTZLLINP3UBWE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경남 창원시 버스 파업 엿새째인 2일 오후 성산구 대방동 한 버스차고지에 세워진 전세버스에 버스 번호판이 붙여져 있다./창원=김동환 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;엿새째 파업을 벌이던 경남 창원 시내버스 노사가 2일 임금·단체 협상을 타결했다.&lt;br&gt;&lt;br&gt;본지 취재를 종합하면 창원 시내버스 9개사 노사는 이날 오후 4시쯤 창원시청에서 열린 시내버스 노사 조정회의에서 임단협에 합의했다.&lt;br&gt;&lt;br&gt;노사는 임금 3% 인상, 정년 64세로 1년 연장, 하계 휴가비 40만원 증액, 출산장려금 자녀 1인당 200만원 지급 등에 합의했다.&lt;br&gt;&lt;br&gt;주요 쟁점이 됐던 통상임금 부분에 대해 노사는 현재 진행 중인 소송 판결이 결정되면 통상임금 산정 기준 시간에 따라 상여금, 하계 수련비, 체력 단련비를 시급 전환 임금 체계로 개편해 지급하기로 했다. 또 협상 타결에 따라 노조는 오후 5시부터 운행이 가능한 시내버스 노선부터 순차적으로 운행을 재개하기로 했다.&lt;br&gt;&lt;br&gt;앞서 창원 시내버스 9개 업체 노조는 사측과 임단협 결렬을 선언하며 지난달 28일 첫차부터 총파업에 돌입했다. 이에 따라 창원 지역 전체 버스 95%인 669대가 운행을 멈췄다. &lt;br&gt;&lt;br&gt;이에 시민들은 출퇴근길 큰 불편을 겪어야 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>도끼, 6억원대 미납 세금 완납…국세청 고액 체납자 신세 끝</title>
-      <link>https://www.chosun.com/national/national_general/2025/06/02/QM4CZYVWIVAFZLVHK6QGNC23WE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/02/QM4CZYVWIVAFZLVHK6QGNC23WE/</guid>
-      <dc:creator>최혜승 기자 </dc:creator>
-      <description/>
-      <pubDate>Mon, 02 Jun 2025 07:42:03 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DFQBGOB4CS7632FNFL7X2PPMYU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;래퍼 도끼./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국세청 고액 체납자 명단에 올랐던 래퍼 도끼(34·본명 이준경)가 수억 원의 밀린 세금을 모두 완납한 것으로 전해졌다. &lt;br&gt;&lt;br&gt;뉴스1은 도끼가 최근 6억7200만원 상당의 미납 세금을 모두 납부했다고 2일 보도했다. 종합소득세, 지방세, 건강보험료 등을 포함한 금액으로 알려졌다. &lt;br&gt;&lt;br&gt;앞서 도끼는 종합소득세 등 3억3200만원의 세금을 내지 않아 2022년 국세청 고액·상습 체납자 명단에 포함된 바 있다. 2023년에는 건강보험료 2200만원을 체납하고 있다는 사실이 전해지기도 했다. &lt;br&gt;&lt;br&gt;2005년에 데뷔한 도끼는 2011년 더콰이엇과 일리네어레코즈를 설립하면서 대표적인 힙합 뮤지션으로 인기를 얻었다. 엠넷 ‘쇼미더머니3’, MBC TV ‘나 혼자 산다’ 등에 출연해 얼굴을 알렸다. 특히 예능에서 수퍼카들과 5만원권 돈뭉치가 놓인 진열대를 공개하며 재력을 과시해왔기에 그의 체납 사실은 대중으로부터 비판을 받았다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>투표함 보관소 출입문 봉인지 훼손한 참관인…경주선관위, 경찰 고발</title>
       <link>https://www.chosun.com/national/regional/2025/06/02/2SIYZH6UW5ADRMCFA3ONBJRQ3Q/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/06/02/2SIYZH6UW5ADRMCFA3ONBJRQ3Q/</guid>
@@ -896,60 +953,6 @@
       <description/>
       <pubDate>Mon, 02 Jun 2025 07:34:29 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6L3EL2WYTBGNLN6VFJQPAELZ2Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경북선거관리위원회./조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경북 경주시선거관리위원회는 제21대 대통령선거 관내 사전투표함 보관장소 출입문에 부착된 특수봉인지를 훼손하고, 사전투표관리관 등을 협박한 혐의(공직선거법 위반)로 A씨를 경찰에 고발했다고 2일 밝혔다.&lt;br&gt;&lt;br&gt;선관위에 따르면, 사전투표참관인인 A씨는 지난달 30일 오후 7시 55분쯤 경주시선관위 2층에 있는 관내 사전투표함 보관 장소 출입문에 붙은 특수 봉인지를 파란색 유성펜으로 그어 훼손한 혐의를 받고 있다. &lt;br&gt;&lt;br&gt;A씨는 또 “사전투표용지에 사전투표관리관 사인을 직접 날인 등 사전투표 절차와 관련한 요구 사항을 받아주지 않으면 고발하겠다”며 선거사무 관계자를 협박한 혐의도 받는다. &lt;br&gt;&lt;br&gt;선관위 관계자는 “근거 없는 부정선거 음모론에 기반해 투표소·개표소·선관위사무소의 시설·장비·서류 등을 교란하거나 훼손하는 행위에 대해 무관용 원칙으로 고발 등 엄정 대처할 방침”이라고 밝혔다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>5호선 방화범 ‘쌍둥이 형’ 등장… “동생, 이혼 소송 위자료 불만”</title>
-      <link>https://www.chosun.com/national/national_general/2025/06/02/HG2CCFEBNNFDDPTFLNB7ZPX5G4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/02/HG2CCFEBNNFDDPTFLNB7ZPX5G4/</guid>
-      <dc:creator>박선민 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 02 Jun 2025 07:24:56 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DWWMOAKVA43M4IU536M6HRP3RA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;운행 중인 서울지하철 5호선 열차에서 불을 지른 원모 씨가 2일 서울 양천구 서울남부지법에서 열린 영장실질심사에 출석하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 지하철 5호선 열차에 불을 질러 경찰에 체포된 60대 남성의 구속 여부를 결정하는 영장실질심사가 2일 오전 열린 가운데, 자신을 피의자 쌍둥이 형이라고 밝힌 남성이 등장해 “동생이 이혼 소송 결과 위자료가 너무 많게 책정돼 불만이 많았다”고 주장했다. &lt;br&gt;&lt;br&gt;이날 영장실질심사가 진행된 서울남부지법 앞에서 자신을 현존전차방화치상 혐의를 받는 원모씨의 쌍둥이 형이라고 소개한 A씨가 등장했다.&lt;br&gt;&lt;br&gt;A씨는 동생이 최근 이혼 소송 결과에 불만을 갖고 있었다고 밝혔다. 그는 “동생은 택시 운전사로 일했다”며 “4년 전쯤 아침에 집에 가서 (아내에게) 고등어구이를 먹고 싶다고 했는데 안 해준 것이 이혼 사유가 됐다”고 했다. 이어 “2주 전쯤 이혼 소송 2심 판결이 나왔는데 유책 배우자가 동생이었다”며 “자기가 내야 할 위자료가 너무 많게 책정돼 불만이 많았다”고 했다. 아울러 “당일 오전 11시 반쯤에 전화가 와서 ‘큰 사고를 쳤다’며 경찰서에 있다고 하더라. 이런 일을 벌일지 상상도 못 했다”고 했다. &lt;br&gt;&lt;br&gt;A씨는 “재산을 거의 전부 다 가져간다는데 역지사지로 한번 좀 생각해주면 좋겠다”라고도 했다. A씨는 “전 부인이 3억 1500만원에 수원에 있는 집 3억원까지 해서 총 6억 1500만원 달라더라”라며 “이게 2심에서 확정 판결이 났다”고 했다. &lt;br&gt;&lt;br&gt;‘동생이 승객들에게 미안하다는 반응은 보이지 않았느냐’는 취재진 질문에 A씨는 “(동생이) 미안하다고 많이 했다”며 “저도 ‘너 너무 큰 사고 저질렀다’라고 말했다”라고 했다. &lt;br&gt;&lt;br&gt;A씨는 동생을 대신해 “승객 여러분들께 참 큰 사고를 저질렀다. 형으로서 죄송하다”면서도 “이 일이 왜 일어났는지 잘 좀 (생각)해줬으면 좋겠다”고 했다.&lt;br&gt;&lt;br&gt;원씨는 지난달 31일 오전 8시 43분쯤 여의나루역∼마포역 터널 구간을 달리던 열차 안에 휘발유를 뿌린 뒤 옷가지에 불을 붙이는 방식으로 방화한 혐의를 받는다. 방화를 저지른 원씨를 포함해 23명이 연기 흡입 등으로 병원에 이송됐고, 129명이 현장에서 처치를 받았다. 또 지하철 1량이 일부 소실되는 등 약 3억3000만원의 재산 피해가 발생했다. 서울 영등포경찰서는 원씨를 긴급 체포해 조사한 뒤 구속영장을 신청했다.&lt;br&gt;&lt;br&gt;원씨는 경찰 조사에서 이혼 소송 결과에 불만이 있어 불을 질렀고, 범행에 쓸 휘발유를 2주 전 주유소에서 구입했다고 진술한 것으로 전해졌다. 경찰은 원씨의 휴대전화 포렌식과 방범 카메라 분석 등을 통해 이 같은 진술이 사실관계에 맞는지 확인하고 있다. &lt;br&gt;&lt;br&gt;원씨는 2일 영장실질심사를 위해 도착한 법원 앞에서 ‘이혼 소송 결과를 공론화하려고 범행했나’라는 취재진의 질문에 “네”라고 답했다. 다만 ‘미리 계획하고 불을 지른 것인가’ ‘대형 인명 사고를 낼 뻔했는데 할 말 없나’ ‘주유소에서 휘발유는 어떻게 샀나’ ‘피해 시민분들께 할 말 있나’ 등의 질문에는 답하지 않고 법정으로 향했다. &lt;br&gt;&lt;br&gt;이날 원씨 구속 심사는 약 15분 만에 끝났다. 법원을 나온 원씨는 ‘혐의를 인정하냐’는 질문에는 “네”라고 답했다. ‘대형 인명 사고를 낼 뻔했는데 할 말 없나’라고 묻자, “죄송합니다”라고 했다. ‘미리 계획하고 불을 질렀나’ ‘이혼 소송 결과 중 어떤 부분이 불만이냐’는 등의 질문엔 침묵했다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘롯데리아 회동’ 군 간부, “노상원, 계엄 며칠 전 尹 만났다고 자랑”</title>
-      <link>https://www.chosun.com/national/court_law/2025/06/02/4U5OUHPWSBHRDGGQNZYYWL3BDE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/02/4U5OUHPWSBHRDGGQNZYYWL3BDE/</guid>
-      <dc:creator>박혜연 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 02 Jun 2025 05:31:02 +0000</pubDate>
-      <content:encoded>비상계엄을 사전 모의한 이른바 ‘롯데리아 회동’에 참석한 군 간부가 노상원 전 국군정보사령관으로부터 “며칠 전 윤석열 전 대통령을 만났다”며 친분을 과시하는 말을 들었다고 법정에서 말했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7SK5FUX5RRHH2MCICLUDDRQEB4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;12·3 비상계엄을 앞두고 체포대상자 명단을 만든 것으로 알려진 노상원 전 정보사령관. / 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;구삼회 전 육군 제2기갑여단장(준장)은 2일 서울중앙지법 형사25부(재판장 지귀연) 심리로 열린 김용현 전 국방부 장관과 노 전 사령관, 김용군 전 제3야전군사령부 헌병대장(대령)의 내란 중요임무종사 혐의 사건 공판에 증인으로 출석해 이같이 밝혔다.&lt;br&gt;&lt;br&gt;구 준장은 “작년 10~11월쯤 진급 관련 통화를 하다가 노 전 사령관이 ‘대통령도 잘 알고 있다’는 얘기를 두세 차례 했다”며 “작년 12월 3일 롯데리아에서 대화할 때도 ‘며칠 전에 대통령을 만났다’ ‘대통령이 나한테 거수경례하면서 사령관님 오셨습니까라고 얘기했다’며 뻐기듯이, 자랑하듯이 말했다”고 했다.&lt;br&gt;&lt;br&gt;구 준장은 작년 12월 3일 ‘롯데리아 회동’에서 노 전 사령관으로부터 계엄 선포 후 중앙선거관리위원회 직원들을 체포할 제2수사단 관련 임무 지시를 받은 것으로 알려진 인물이다. 그는 당시 상황을 메모로 남겼다고 했다. 구 준장은 “롯데리아에서 노 전 사령관과 김용군 대령이 주로 대화하는데 뻘쭘하게 앉아 있기 뭐해서 점원에게 필기구를 빌려 두 사람의 대화를 들리는 대로 수첩에 적었다”고 했다. &lt;br&gt;&lt;br&gt;이어 “두 사람이 주로 했던 대화는 ‘몇 시까지 어디에 어떻게 가서 누구누구를 확보해라’ 이런 것”이라며 “사람과 장소명이 나왔지만 구체적으로 기억은 못한다. 다만 노 전 사령관이 김용군을 보며 ‘선관위원장은 당신이 직접 확보해요’라고 말한 것은 정확히 기억난다“고 했다.&lt;br&gt;&lt;br&gt;그러면서 “전체적으로 대화하는 걸 들어보면 두 사람이 처음 대화하는 것 같지는 않았고, 사전에 얘기한 상태에서 최종적으로 임무나 시간대별 행동 요령을 확인하는 느낌이었다”고 말했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PX7Q5WYHRZKSPIHG5UNTJSMWBU.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;'롯데리아 내란 모의'를 한 혐의를 받는 노상원 전 정보사령관이 역술인으로 활동하면서 점집을 운영해온 것으로 확인됐다. 사진은 작년 12월 20일 오후 경기 안산시 상록구의 한 다세대 주택 반지하 1층에 위치한 노 전 사령관이 함께 운영했던 곳으로 지목된 점집의 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;또 구 준장은 김 전 장관이 취임한 작년 10월 무렵부터 노 전 사령관의 진급 관련 전화가 잦아졌다고 했다. 구 준장이 작년 11월 25일 있었던 하반기 인사에서 진급하지 못한 사실도 노 전 사령관이 인사 발표 하루 이틀 전에 미리 알려줬으며 “김 장관이 너를 국방부에 데려와 임무를 주려는 것 같다”고 언질을 줬다고 했다.&lt;br&gt;&lt;br&gt;계엄 선포 직전에는 노 전 장관으로부터 “김 장관이 너를 국방부에 불러 어떤 임무를 줄 거고, 그걸 잘하면 내년 4월에 좋은 일이 있을 것 같다”며 “장관이 주는 임무를 잘 수행하고 전화 대기도 잘하라”는 말을 들었다고 했다.&lt;br&gt;&lt;br&gt;즉, 노 전 사령관은 2018년 전역한 이후 민간인 신분으로 무당 일을 하고 있었음에도, 군 내 인사나 작전 등 내부 정보를 상당 부분 파악하고 있었던 정황이 드러난 것이다.&lt;br&gt;&lt;br&gt;또 구 준장은 노 전 사령관의 부탁으로 ‘4.15 부정선거’ 관련 책자를 요약했다고 했다. 구 준장은 “그 임무를 줄 때는 선관위 관련, 부정선거 관련된 일을 해야 했기 때문에 사전 지시를 좀 알려주려고 한 게 아니었나 생각한다”면서 “속된 표현으로 ‘너도 엮여 있다’고 알려주려 한 게 아닌가 생각한다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[단독] ‘헌정사상 첫 탄핵 검사’ 안동완 “은혜 잊지 않고 갚겠다”... 사직 인사 게시</title>
-      <link>https://www.chosun.com/national/court_law/2025/06/02/HGXIXBYUHNGRZHI3FCSTZCDZXM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/02/HGXIXBYUHNGRZHI3FCSTZCDZXM/</guid>
-      <dc:creator>이민준 기자, 유희곤 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 02 Jun 2025 05:37:58 +0000</pubDate>
-      <content:encoded>헌정 사상 처음으로 탄핵소추됐던 안동완 서울고검 검사의 사표가 수리된 것으로 2일 확인됐다. 안 검사는 이날 “개인적인 사정으로 떠나게 되어 죄송한 마음”이라며 “그동안 받았던 은혜를 잊지 않고 갚아나가겠다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IHWOO7FFJVIKVCDNBCLDBZP4UU.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;안동완 서울고검 검사./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;안 검사는 이날 검찰 내부망 이프로스에 게시글을 올리고 사직 인사를 했다. 안 검사는 “22여 년 동안의 공직생활을 마치고 이제 재야로 떠난다”며 “검사 임명장을 받았을 때 실체적 진실을 적법절차에 따라 확인하기 위해 최선을 다하겠다고 다짐하였고, 그 초심을 잃지 않기 위해 지금까지 부단히 노력해왔다”고 했다. “은폐되거나 왜곡된 진실을 밝혀내었을 때 그 무엇보다 보람과 자부심을 느꼈다”고 했다.&lt;br&gt;&lt;br&gt;안 검사는 “그 과정에서 옳은 길로 가도록 가르쳐주시고 이끌어주시며 격려해주시고 도와주신 분들 덕분에 여러 어려움을 헤쳐 나갈 수 있었다”며 “지금까지 함께 해주신 검찰 가족분들께 진심으로 감사드린다”고 했다.&lt;br&gt;&lt;br&gt;이어 “언젠가 ‘남이 베푼 은혜는 결코 잊지 말고, 내가 베푼 은혜는 빨리 잊을 일이다’라는 옛 글귀를 읽고 가슴 깊이 새긴 적이 있다”며 “앞으로 그동안 받았던 은혜를 잊지 않고 갚아나가겠다”고 했다.&lt;br&gt;&lt;br&gt;더불어민주당 주도로 2023년 9월 안 검사 탄핵소추안이 국회에서 가결됐지만, 8개월 만인 작년 5월 헌법재판소가 이를 기각했다. 민주당이 안 검사를 탄핵한 이유는 안 검사가 2014년 ‘간첩 조작 사건’의 피해자 유우성씨를 불법 대북 송금 혐의(외국환거래법 위반) 등으로 기소한 것이 공소권 남용이고, 헌법과 법률을 위반했다는 것이었다. &lt;br&gt;&lt;br&gt;당시 안 검사는 입장문을 내 “해당 사건은 고발장이 2건 접수돼 형사부에 배당된 것”이라며 “(2013년) 공안부 수사 때와 달리 유씨가 직접 환치기를 하고 수익금이 상당하다는 것이 확인돼 기소유예 사건을 재개해 기소한 것”이라고 밝혔다. 보복성 기소가 아니었다는 것이다. 헌재는 작년 5월 안 검사의 탄핵을 기각했다.&lt;br&gt;&lt;br&gt; &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>중국·태국 코로나19 증가…질병청 “고위험군, 백신 접종 당부”</title>
-      <link>https://www.chosun.com/national/national_general/2025/06/02/JKSEFPEF7VARXM2WADCY4AATWQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/02/JKSEFPEF7VARXM2WADCY4AATWQ/</guid>
-      <dc:creator>정아임 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 02 Jun 2025 03:22:43 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NRINIE4TT2XUQXJLI2DRNDXIKE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;백신 접종 모습./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최근 중국, 태국, 싱가포르 등 주변 국가에서 코로나19 확진자가 늘어나는 가운데 방역 당국이 코로나19 고위험군에 예방 접종을 권고했다. 65세 이상 어르신, 생후 6개월 이상 면역 저하자 및 감염 취약 시설 입원·입소자 등이 코로나19 고위험군에 해당한다. &lt;br&gt;&lt;br&gt;질병관리청은 이달 말까지 고위험군과 감염 취약 시설 입원·입소자를 대상으로 2024∼2025절기 코로나19 예방접종을 무료로 시행한다고 2일 밝혔다. 현재 사용 중인 JN.1 계열 백신은 여러 코로나19 변이에 예방 효과가 있는 것으로 국내외 연구에서 확인됐다.&lt;br&gt;&lt;br&gt;국내 유행 상황은 비교적 안정적으로 관리되고 있다. 질병청에 따르면 코로나19 표본 감시 입원 환자 수는 4월 27일∼5월 3일 115명, 5월 4∼10일 146명, 5월 11∼17일 100명, 5월 18∼24일 97명이다. 단 같은 기간 코로나19 검출률은 4.2%, 2.8%, 8.6%, 8.8%로 3주째 증가했다. 선행 지표인 바이러스 검출률이 높아지면 확진자가 늘어나 2∼3주 후에 입원 환자가 증가할 수 있다.&lt;br&gt;&lt;br&gt;다만, 인접 국가들에서 코로나19 발생이 증가하고 있고 백신 접종 후 면역이 충분히 형성되는 기간(약 4주)을 고려해 가급적 빠른 시일 내 백신을 접종할 필요가 있다고 질병청은 설명했다. 특히 질병청은 중국과 태국, 싱가포르 등 코로나19 발생이 증가세를 보이는 주변국으로 여행할 예정인 고위험군은 출국 전 접종받을 것을 권고했다. &lt;br&gt;&lt;br&gt;코로나19 고위험군은 이달 말까지 의료기관에서 무료로 백신을 접종할 수 있다. 질병청은 “다만 현재 일부 의료기관에서만 백신 접종이 가능하다”면서 “예방 접종 도우미 누리집에서 접종 의료기관과 가능 여부를 사전에 확인하고 방문해달라”고 했다. 코로나 고위험군이 아닌 일반인은 비용을 지불하고 백신을 접종할 수 있다. &lt;br&gt;&lt;br&gt;지영미 질병청장은 “인접국에서 코로나19가 증가하고 있어 다가오는 여름철 국내 유행 가능성을 배제할 수 없다”며 “코로나19 고위험군 미접종자는 지금이라도 백신 접종할 것을 당부드린다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“짐 로저스 지지 들었다” 이재명, 허위사실공표로 고발당해</title>
-      <link>https://www.chosun.com/national/court_law/2025/06/02/U5PMJXIDI5DPTJQTCN4O7GPMPU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/02/U5PMJXIDI5DPTJQTCN4O7GPMPU/</guid>
-      <dc:creator>박강현 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 02 Jun 2025 02:01:38 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XGZO74RUBSYBN4JOYSR3WEWFFQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울중앙지검. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국민의힘 이종배 서울시의원이 이재명 더불어민주당 대선 후보가 6·3 대선을 앞두고 세계적인 투자자 짐 로저스(83·미국) 로저스홀딩스 회장이 자신을 지지했다고 주장한 것과 관련해, 이 후보를 공직선거법상 허위사실공표 혐의로 서울중앙지검에 2일 고발했다.&lt;br&gt;&lt;br&gt;앞서 민주당 중앙선거대책위원회 총괄선대본부 국제협력단은 지난달 29일 국회에서 기자회견을 열고 로저스 회장이 이번 대선에서 이 후보를 지지했다고 밝혔다. 당시 김진향 한반도평화경제회의 상임의장이 로저스 회장의 이 후보 지지 선언문을 대독했다.&lt;br&gt;&lt;br&gt;이 후보는 이러한 기자회견 다음날 자신의 페이스북에서 “로저스의 지지 선언을 들었다. 그는 평화와 미래에 투자하자고, 그래서 대한민국에 투자해야 한다고 말했다”고 주장했다. &lt;br&gt;&lt;br&gt;하지만 이같은 사실이 알려지고, 국내 언론의 관련 문의가 이어지자 로저스 회장은 “이 후보에 대한 어떤 지지 선언도 한 적이 없다”는 취지로 본지에 답변했다. &lt;br&gt;&lt;br&gt;이 시의원은 이날 서울중앙지검 청사 앞에서 “일반인인 김 의장의 일방적인 주장만 있을 뿐이고, 민주당은 공식적으로 (로저스 회장의) 지지 여부를 확인했다거나 지지 사실에 대한 증거를 제시하지 못하고 있다“고 주장했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>주가 폭락시킨 ‘가짜 백수오’ 발표… 대법 “위법하지만 주주 배상은 어려워”</title>
-      <link>https://www.chosun.com/national/court_law/2025/06/02/KZVRMBLCQBEWTLPJBGTFNR365E/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/02/KZVRMBLCQBEWTLPJBGTFNR365E/</guid>
-      <dc:creator>방극렬 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 02 Jun 2025 01:45:18 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4KRMVRDDQ4B5QHO7NURJC7CCHQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;'진짜' 백수오(왼쪽)와 '가짜 백수오'로 알려진 이엽우피소.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2015년 코스닥지수를 급락시켰던 한국소비자원의 ‘가짜 백수오’ 발표 논란에 대해 대법원이 “위법하지만 주주들에게 배상할 책임은 없다”고 밝혔다. 당시 소비자원의 보도자료가 단정적이고 자극적인 표현을 사용한 것은 잘못이지만, 해당 내용의 발표가 개별 주주들이 입은 손해와 상당한 인과관계가 있다고 보긴 어렵다는 것이다.&lt;br&gt;&lt;br&gt;2일 법조계에 따르면, 대법원 1부(주심 노태악 대법관)는 내츄럴엔도텍 주주 18명이 소비자원과 직원들, 정부를 상대로 낸 손해배상 청구 소송에서 원심의 원고 패소 판결을 지난달 15일 확정했다.&lt;br&gt;&lt;br&gt;이 사건은 소비자원이 2015년 4월 21일 ‘시중 유통 중인 백수오 제품 상당수가 가짜’라는 제목의 보도자료를 배포한 것이 발단이다. 소비자원이 내츄럴엔도텍의 원료를 수거·시험한 결과, 가짜 백수오인 ‘이엽우피소’ 성분이 검출됐다는 내용이다. 이엽우피소는 백수오와 모양이 유사하고 그보다 저렴하지만, 간 손상을 유발할 수 있어 식품 사용이 금지돼 있다.&lt;br&gt;&lt;br&gt;내츄럴엔도텍은 “고의는 없었다”면서도 이엽우피소가 검출된 것에 대해 공식 사과문을 발표했다. ‘인체 위해성은 없다’는 식품의약품안전처의 발표가 있었지만 주가는 폭락했다. 원래 주당 8만6000원대였던 주가는 하한가를 거듭해 공표 한 달 만인 2015년 5월 주당 8500원대로 떨어졌다. 그러나 이 사건을 수사한 검찰은 그해 6월 “이엽우피소 혼입 비율은 3% 정도로, 내츄럴엔도텍이 고의로 원료에 섞거나 이를 묵인했다고 보기 어렵다”며 무혐의 처분을 내렸다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VSOFVH2V6BBQJMZYQZW4ODK5BY.png"&gt;&lt;figcaption&gt;&lt;small&gt;한국소비자원이 2015년 4월 발표한 '가짜 백수오' 관련 보도자료. 내츄럴엔도텍의 원료를 수거·시험한 결과, 가짜 백수오인 ‘이엽우피소’ 성분이 검출됐다는 것이 골자다. /한국소비자원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이후 내츄럴엔도텍 주주들은 2018년 4월 소비자원 등을 상대로 소송을 냈다. 주주들은 “소비자원이 충분한 조사와 증거 없이 회사가 원가 절감을 위해 이엽우피소를 섞은 것처럼 허위 사실을 공표했다”며 “이로 인해 주가가 폭락해 입은 손해를 배상해달라”고 했다.&lt;br&gt;&lt;br&gt;1·2심은 원고 패소 판결을 내렸다. 2심 재판부는 “이엽우피소가 섞인 제품이 제조·유통된 원인에 대해 소비자원이 다소 과장된 추측을 했지만 허위 사실 공표는 아니다”며 “공표를 신속히 진행할 필요가 있었다”고 했다. 가짜 백수오 발표 자체에 문제가 없었다는 취지다.&lt;br&gt;&lt;br&gt;그러나 대법원은 원심과 달리 판단했다. 대법원은 “이 사건 공표 당시 소비자원은 내츄럴엔도텍 제품에 포함된 이엽우피소의 양이나 혼입된 경위를 확인한 바 없다”며 “원가 절감을 위해 의도적으로 백수오를 이엽우피소로 대체했다고 단정할 만한 객관적 자료 역시 찾아볼 수 없다”고 지적했다. 내츄럴엔도텍이 이엽우피소 검사 시스템을 운용·개선한 것을 고려하면 고의가 없었다고 했다.&lt;br&gt;&lt;br&gt;이어 “그럼에도 소비자원은 내츄럴엔도텍 등이 원가 절감을 위해 의도적으로 백수오를 이엽우피소로 대체했다는 취지로 공표해 백수오 제품이나 원료 대부분에 인체에 유해한 이엽우피소가 상당량 섞였음을 암시했다”며 “다른 가능성을 배제하고 ‘가짜 백수오를 둔갑시켰다’는 식의 단정적 표현을 사용하는 등의 사정을 종합하면, 이 사건 공표는 객관적이고도 타당한 확증과 근거가 있다거나 공공의 이익에 관한 것이라고 보기 어렵다”고 했다.&lt;br&gt;&lt;br&gt;다만 대법원은 2심 법원이 주주들의 손해배상 청구를 기각한 결론은 틀리지 않았다며 원고 패소 판결을 확정했다. 소비자원의 위법한 발표에 따른 피해자는 내츄럴엔도텍 등 회사들이고, 이에 따른 주가 하락은 반사적 손실에 불과해 주주들의 손해를 배상해야 할 만큼의 인과관계를 인정하긴 어렵다는 것이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>22년 전 대구의 교훈, 서울 지하철 참사 막았다</title>
