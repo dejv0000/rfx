@@ -6,6 +6,26 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>[판결] 법원 "'장원영 비방' 탈덕수용소, 소속사에 5000만 원 배상해라"</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/208536.jpg" alt="435345346.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;'아이브(IVE)' 소속 멤버 장원영 씨 《사진=연합뉴스》&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;아이돌 그룹 '아이브(IVE)' 소속 멤버 장원영 씨의 소속사 스타쉽엔터테인먼트가 유튜브 채널 '탈덕수용소' 운영자 박모 씨를 상대로 낸 손해배상청구소송 1심에서 일부 승소했다.&lt;br /&gt;&lt;br /&gt;서울중앙지법 민사50단독&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="20902"&gt;최미영&amp;nbsp;&lt;/span&gt;판사는 6월 4일 스타쉽엔터테인먼트가 박 씨를 상대로 제기한 손해배상청구소송 선고 기일을 열고 "피고는 원고에게 5000만 원 및 이에 대하여 2023년 8월 12일부터 2025년 6월 4일까지는 연 5%, 그 다음 날부터 다 갚는 날까지는 연 12%의 각 비율에 의한 금원을 지급하라"며 원고 일부 승소로 판결했다(&lt;b&gt;2022가단5329372&lt;/b&gt;).&lt;br /&gt;&lt;br /&gt;유튜브 채널 탈덕수용소는 장 씨와 가수 강다니엘 등 인기 연예인들에 대한 허위 사실과 악성 루머 등을 무분별하게 유포해왔다. 이에 장 씨의 소속사인 스타쉽엔터테인먼트는 2022년 11월 박 씨를 상대로 손해배상 소송을 제기했다. 채널은 현재 삭제된 상태다.&lt;br /&gt;&lt;br /&gt;아울러 장 씨 개인도 2023년 10월 박 씨를 상대로 별도로 손해배상 소송을 제기했고, 항소심까지 이어진 끝에 2025년 2월 박 씨가 5000만 원을 배상하는 것으로 확정됐다.&lt;br /&gt;&lt;br /&gt;한편, 박 씨는 정보통신망법상 명예훼손 및 모욕 혐의 등으로 형사 재판에 넘겨졌으며, 2025년 1월 징역 2년에 집행유예 3년을 선고받았다. 검찰은 해당 판결에 불복해 항소한 상태다.&lt;br /&gt;</description>
+			<pubDate>Wed, 04 Jun 2025 06:02:46 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/208536</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/208536</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/208536.jpg</media:thumbnail>
+			<dc:creator>안재명 기자</dc:creator>
+		</item>
+		<item>
+			<title>[속보] '대법관 증원' 법원조직법, 법사위 소위 통과</title>
+			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/thumb/180/208537.jpg" alt="lawtimes.jpg" style="text-align: start;" /&gt;&lt;/p&gt;</description>
+			<pubDate>Wed, 04 Jun 2025 05:52:34 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/208537</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/208537</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/208537.jpg</media:thumbnail>
+			<dc:creator>인터넷 기자</dc:creator>
+		</item>
+		<item>
 			<title>법무법인 덕수, 더본코리아 '상생위원회' 구성 자문</title>
 			<description>법무법인 덕수가 더본코리아의 상생위원회 설계·운영을 위한 자문을 맡는다. 덕수는 2일 더본코리아로부터 가맹점주들이 참여하는 상생위원회 구성과 운영을 위한 자문을 공식 의뢰 받았다고 밝혔다. &lt;br /&gt;&lt;br /&gt;덕수는 소상공인시장진흥공단에서 소상공인 법률 자문과 채무조정 업무를 맡은 경험이 있다. 앞서 5월 29일 백종원 대표가 이끄는 더본코리아는 상생위원회 발족을 위한 첫 준비 회의를 열었다. 상생위원회는 점주협의체와 본사 직원, 외부 전문가 등이 참여해 본사 정책 방향을 논의할 창구가 될 예정이다. 백 대표는 상생위원회 구성과 운영을 위해 사재를 출연하겠다고 밝힌 상태다. &lt;br /&gt;&lt;br /&gt;덕수는 가맹 본부가 일방적으로 논의를 주도하기보다, 가맹점주 중심의 자율적인 소통이 이뤄지도록 상생위원회를 설계할 방침이다. 가맹점주의 목소리가 제도적으로 정책 설계와 운영에 반영될 수 있도록 상생위원회 구성을 지원하겠다고 밝혔다. &lt;br /&gt;&lt;br /&gt;덕수 관계자는 "더본코리아의 상생위원회가 소상공인과 가맹본부 간의 관계에 새로운 기준을 제시하고, 진정한 동반성장을 실현할 수 있는 모범적 사례로 자리 잡을 수 있도록 함께 하겠다"고 말했다.&lt;br /&gt;</description>
 			<pubDate>Wed, 04 Jun 2025 04:29:20 -0000</pubDate>
@@ -218,26 +238,6 @@
 			<link>https://www.lawtimes.co.kr/news/208494</link>
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/208494</guid>
 			<dc:creator>인터넷 기자</dc:creator>
-		</item>
-		<item>
-			<title>[판결] "변론 불출석 변호사, 해고는 과하다"</title>
-			<description>&lt;p style="text-align: center; "&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/208457.jpg" alt="56758.jpg" style="text-align: start;" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p style="text-align: left;"&gt;변론에 불출석해 쌍불 처리가 되고도 보고하지 않는 등 선관주의 의무와 업무 규정을 위반한 변호사에 대해 로펌이 내린 징계 해고가 부당하다는 판단이 나왔다. 서울행정법원 행정1부(재판장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="9396"&gt;양상윤&amp;nbsp;&lt;/span&gt;부장판사)는 4월 25일 A 로펌이 중앙노동위원회를 상대로 낸 부당 해고 구제 재심 판정 취소 소송(&lt;b&gt;2024구합1603&lt;/b&gt;)에서 원고 패소 판결했다.&lt;/p&gt;&lt;b&gt;&lt;br /&gt;[사실관계]&lt;/b&gt;&lt;br /&gt;A 로펌 소속이었던 변호사 B 씨는 2023년 10월 20일 △법인카드 사적 유용 △근로시간 규정 남용 △의뢰인에 설명 의무 및 직접 소통 의무 불이행 △변론기일 불출석 △인수인계 미흡으로 인한 업무 혼선 △업무상 지시 불이행 등의 사유로 징계해고 됐다. B 씨는 서울지방노동위원회에 징계 해고가 부당하며 구제 신청했다. 그러나 서울지방노동위원회는 절차에 하자가 존재하지 않는다며 이를 기각했다. B 씨는 2024년 1월 중앙노동위원회에 재심을 신청했다. 중앙노동위원회는 일부 징계 사유는 인정되나, 고용 관계를 계속할 수 없을 정도는 아니라며 B 씨 손을 들어줬다.&lt;br /&gt;&lt;b&gt;&lt;br /&gt;[법원 판단]&lt;/b&gt;&lt;br /&gt;서울행정법원은 변론기일 불출석과 인수인계 소홀로 인한 업무 혼선이 업무규정 제3조 제2항, 제5조 제6항을 위반한 것이지만, 징계 해고는 가혹한 처분이라는 점에서 재량권을 일탈·남용한 것이라고 판단했다. 재판부는 “B 씨가 변론기일에 불출석해 쌍불 처리가 됐음에도 이를 파트너 변호사에게 보고하지 않은 행위는 징계 사유에 해당한다”며 “B 씨는 로펌 직원이 업무 시스템에 재판 시각을 잘못 기재했다는 취지로 주장하지만, 변호사는 본인의 책임 하에 기일을 관리하고 준수할 의무가 있어 정당화 된다고 볼 수는 없다”고 판시했다. 이어 “해당 사건은 다음 기일마저 불출석할 경우 2회 쌍불에 해당해 출석 여부가 매우 중요한 상황이었다”며 “그럼에도 B씨는 본인을 대신해 출석할 변호사를 사전에 명확히 지정하지 않고, 변론 내용에 관한 인수인계 또한 제대로 하지 않은 채 휴가를 떠나 로펌 내부적으로 상당한 혼선이 초래돼 B 씨의 행위는 업무규정 제3조 제2항을 위반한 징계 사유에 해당한다”고 설명했다.&lt;p&gt;&amp;nbsp; &lt;br /&gt;그러나 법원은 B 씨의 행위가 고의라기보다 부주의에 가까우며, 일회적·단기적인 성격이라고 보고, ‘해고’는 과했다는 판단을 내렸다. 재판부는 “변론기일 시각이 잘못 입력돼 있었던 점, B 씨가 휴가를 떠나기 전 변론기일 출석과 관련해 동료 변호사에게 부탁하고, 담당 직원에게 관련 업무 지시를 했던 점 등 일부 참작할 만한 사정도 존재한다”며 “B 씨의 행위가 로펌에게 중대한 손해를 끼쳤다고 보기 어렵고 B 씨에게는 징계 전력도 존재하지 않는다”고 했다. 그러면서 “로펌의 여러 사정들을 모두 감안하더라도 사회통념상 고용 관계를 계속할 수 없을 정도로 B 씨에게 책임이 있는 경우에 해당한다고 보기는 어렵다”고 판시했다.&lt;br /&gt;&lt;/p&gt;</description>
-			<pubDate>Sun, 01 Jun 2025 22:16:05 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/208457</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/208457</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/208457.jpg</media:thumbnail>
-			<dc:creator>우빈 기자</dc:creator>
-		</item>
-		<item>
-			<title>[판결] '가짜 백수오' 소비자원 공표, 주주 손해 원인 아니다</title>
-			<description>&lt;p style="text-align: center;"&gt;&lt;/p&gt;&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/208460.jpg" alt="345345435435345.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;백수오와 이엽우피소 비교.&amp;nbsp; 한국소비자원&lt;/figcaption&gt;   &lt;/figure&gt;&lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;b&gt;   [판결 결과]&lt;/b&gt;&lt;br /&gt;대법원이 건강기능식품 기업 내추럴엔도텍의 주주들이 한국소비자원을 상대로 제기한 손해배상청구 소송에서 원고 패소 판결을 확정했다.&lt;p&gt;&amp;nbsp; &lt;br /&gt;대법원 민사1부(주심&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="1377"&gt;노태악&amp;nbsp;&lt;/span&gt;대법관)는 5월 15일 "소비자원의 보도자료 공표에는 위법 소지가 있지만, 주주들이 입은 손해와 공표 사이의 상당인과관계는 인정되지 않는다"며 원고들의 상고를 기각했다(&lt;b&gt;2020다296604&lt;/b&gt;).&lt;br /&gt;&lt;b&gt;&lt;br /&gt;[사실 관계]&lt;/b&gt;&lt;br /&gt;한국소비자원은 2015년 4월 '시중 유통 중인 백수오 제품 상당수가 가짜'라는 제목의 보도자료를 배포했다. 소비자원은 백수오 제품 32종 가운데 21종에서 이엽우피소가 사용됐고, 내추럴엔도텍이 공급한 원료에서도 이엽우피소가 검출됐다고 밝혔다. 소비자원은 또 이엽우피소가 간 독성 등을 유발한다는 연구결과가 있어 국내에서는 식품원료로 사용할 수 없다고 밝히면서, "백수오 수요 증가로 인해 가짜 백수오(이엽우피소)를 백수오로 둔갑시켜 유통한 것으로 판단된다"고 덧붙였다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;이후 내추럴엔도텍의 주가는 급락했고 주식을 보유하고 있던 투자자 18명(원고들)은 저가에 주식을 매도하면서 손해를 입었다고 주장했다. 이들은 "소비자원이 허위사실을 단정적으로 공표해 주가가 폭락했다"며 2018년 소비자원과 국가를 상대로 손해배상청구 소송을 제기했다.&lt;br /&gt;&lt;b&gt;&lt;br /&gt;[쟁점]&lt;/b&gt;&lt;br /&gt;소비자원의 공표가 허위 사실을 공표한 것이어서 위법한지, 소비자원의 공표 이후 소외회사의 주가가 하락해 기존 주주들이 주식을 매도함으로써 발생한 손해가 피고 소비자원의 공표와 상당인과관계가 있는지 여부 등.&lt;br /&gt;&lt;b&gt;&lt;br /&gt;[하급심 판단]&lt;/b&gt;&lt;br /&gt;1심과 항소심 모두 원고들의 청구를 기각했다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;1심은 "식품의약품안전처는 2014년부터 이엽우피소가 백수오에 혼입돼 유통되는 현상을 규제하기 시작했는데 소비자원은 이엽우피소를 식품 원료로 사용할 수 없다고 명시했을 뿐, 인체에 유해하다고 단정적으로 표현하지는 않았다"며 "이엽우피소의 유해성에 관한 연구 결과들은 해석이 분분했지만 임신 중인 돼지가 이를 섭취할 경우 유산이 발생했다는 연구가 있었고 미국 FDA도 이를 독성식물로 분류하고 있었다"고 밝혔다. 그러면서 "소비자원이 해당 연구 결과를 언급한 것이 과학적 합리성을 결여했다고 보기 어렵고, 이엽우피소 검출 사실을 확인한 이상 소비자들에게 이를 알릴 필요가 있었다"고 판단했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;항소심도 원고의 주장을 받아들이지 않았다. 항소심은 "소비자원이 식약처의 자료를 인용한 것은 독성이나 인체 유해성과 관련해 허위사실을 적시한 것으로 보기 어렵다"고 판단했다. 또 "설령 공표에 위법성이 있었다 하더라도, 그로 인해 직접적인 피해를 입은 당사자는 회사이지, 주주인 원고들은 회사의 자산가치 하락으로 인해 주가가 떨어지면서 발생한 반사적 손실을 입은 것에 불과하다"며 "특별한 사정이 없는 한, 회사 손해가 회복되면 주주들의 손해 역시 전보된다는 점에서 손해배상 책임은 인정되지 않는다"고 밝혔다.&lt;br /&gt;&lt;b&gt;&lt;br /&gt;[대법원 판단]&lt;/b&gt;&lt;br /&gt;대법원은 원고들의 상고를 기각하면서도 원심 판단을 그대로 받아들이기는 어렵다고 밝혔다. 원심은 허위사실의 인정 여부와 행정상 공표의 위법성조각사유 등에 관한 법리를 오해하고 심리를 다하지 아니하였다고 볼 여지가 크지만, 상당인과관계를 인정할 수 없어 원고들에 대한 손해배상책임이 성립할 수 없으므로 결론은 정당하다는 것이다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;  &lt;br /&gt;재판부는 "한국소비자원이 이 사건 보도자료를 공표할 당시 내추럴엔도텍 제품에 이엽우피소가 얼마나 혼입됐는지, 그 혼입 경위가 무엇인지에 대해 명확히 확인하지 않은 상태였다"며 "회사가 원가 절감을 목적으로 이엽우피소를 의도적으로 혼입했다는 점을 뒷받침할 만한 객관적인 자료도 존재하지 않았다"고 밝혔다.&lt;/p&gt;&lt;p&gt;&amp;nbsp; &lt;br /&gt;이어 "오히려 이엽우피소의 혼입 비율이 낮고, 회사가 관련 검사 시스템을 구축하고 개선해 온 점 등을 고려할 때, 혼입에 대한 회사 측의 고의성이 있다고 보기 어려운 정황이 많았다"며 "그럼에도 소비자원은 '가짜 백수오를 둔갑시켜 유통했다'는 식의 표현을 통해 해당 제품과 원료 대부분에 인체 유해 성분이 상당량 포함된 것처럼 암시했고, 이는 갱년기 장애 개선에 효과가 있다고 알려진 제품에 대한 소비자의 신뢰에 직접적인 영향을 미칠 수 있는 중대한 내용이었다"고 지적했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp; &lt;br /&gt;그러면서 "이 같은 공표는 중요한 부분에 대해 의심의 여지 없이 진실이라고 믿을 만한 객관적이고 타당한 근거가 있었다고 보기 어렵고, 오로지 공공의 이익을 위한 것이라 보기도 어렵다"며 공표의 위법 소지를 인정했다.&lt;br /&gt;다만 재판부는 "불법행위에 따른 손해배상책임을 인정하려면 위법한 행위와 피해자가 입은 손해 사이에 상당인과관계가 있어야 하고, 일반적인 개연성뿐 아니라 행위의 목적, 피해의 성질 및 정도 등 다양한 요소를 종합적으로 고려해야 한다"며 "공표 행위가 위법하다고 하더라도, 그로 인한 손해는 해당 기업에 직접 발생한 것이고, 주주들이 입은 주가 하락은 자산가치 손실에 따른 반사적 손해에 불과하다"며 원심이 상당인과관계를 부정한 결론 자체는 정당하다고 판단했다.&lt;/p&gt;</description>
-			<pubDate>Sun, 01 Jun 2025 21:09:47 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/208460</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/208460</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/208460.jpg</media:thumbnail>
-			<dc:creator>안재명 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
