@@ -13,6 +13,42 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>처자식 살해 40대 가장, 왜 죽였나 묻자 묵묵부답…경찰, 자살방조 혐의 추가</title>
+      <link>https://www.chosun.com/national/national_general/2025/06/04/3WCH3WKUEVDE3DQ3O4SVSWRIJU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/04/3WCH3WKUEVDE3DQ3O4SVSWRIJU/</guid>
+      <dc:creator>광주광역시=진창일 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 04 Jun 2025 05:02:15 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SN6NBLLZ6ZOELO43JV7CC5PS3Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;처자식을 살해한 혐의로 체포된 지모(49) 씨가 4일 오전 광주지방법원에서 열린 구속 전 피의자 심문(영장실질심사)에 출석하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전남 진도에서 아내와 두 아들을 승용차에 태운 뒤 바다로 돌진해 숨지게 한 혐의로 40대 가장이 구속 전 피의자 심문(영장실질심사)을 받았다. 그는 “가족들에게 미안하지 않느냐”는 취재진 질문에 답을 하지 않았다.&lt;br&gt;&lt;br&gt;광주지법은 4일 오전 11시 처자식을 살해한 혐의(살인·자살방조)로 긴급체포된 지모(49)씨에 대한 영장실질심사를 했다. 그는 지난 1일 오전 1시 12분쯤 진도항에서 승용차를 몰고 바다로 돌진해 아내(49)와 고등학생 두 아들을 숨지게 한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;지씨는 이날 법정을 나서며 쏟아진 “왜 죽였느냐” “혐의를 인정하느냐”는 취재진 질문에 대답하지 않고 호송차량을 타고 떠났다.&lt;br&gt;&lt;br&gt;지씨는 경찰 조사에서 “1억6000만원이나 되는 채무 때문에 힘들어 아내와 아들에게 수면제를 먹인 뒤 바다로 돌진했다”고 진술한 것으로 알려졌다. 경찰은 지씨에 대한 구속영장을 신청하면서 자살방조 혐의를 추가했다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “지씨는 아내가 병원에서 처방받은 수면제를 범행에 사용했고, 아내와 극단적 선택을 공모했다고 진술하고 있다”고 설명했다.&lt;br&gt;&lt;br&gt;지씨는 수면제를 영양제라고 속이고 자신의 두 아들에게 먹였다. 이후 승용차를 몰아 바다로 돌진한 뒤 자신만 창문을 통해 탈출한 것으로 경찰은 보고 있다.&lt;br&gt;&lt;br&gt;경찰은 국립과학수사연구원에 가족들의 시신 부검을 의뢰하고 휴대전화와 차량 블랙박스 분석작업을 할 계획이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>28년 만에 한국서 ‘세계 환경의 날’ 기념식…“국토 30% 보전, 훼손지 30% 복원”</title>
+      <link>https://www.chosun.com/national/transport-environment/2025/06/04/ACQBKIV7IRAKTGOKH4R7PUNC6Y/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/06/04/ACQBKIV7IRAKTGOKH4R7PUNC6Y/</guid>
+      <dc:creator>박상현 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 04 Jun 2025 05:03:05 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FVG37ZGSLRL2RDPZGJE7CFOEHY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;세계 환경의 날을 하루 앞둔 4일 대구 수성구 신천 둔치에서 동영유치원 원생들이 직접 만든 손팻말을 들고 환경 캠페인을 하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;28년 만에 우리나라에서 세계 환경의 날 기념식이 열린다. 올해 주제는 ‘플라스틱 오염 종식’으로 정해졌다.&lt;br&gt;&lt;br&gt;환경부에 따르면, 세계 환경의 날(매년 6월 5일) 기념식이 5일 제주 서귀포시 제주국제컨벤션센터에서 열릴 예정이다. 우리나라에서 기념식이 열리는 것은 1997년 이후 처음이다. 세계 환경의 날은 1972년 스웨덴 스톡홀름에서 사상 첫 국제 환경 회의인 유엔 인간환경회의가 열린 것을 기념하는 날이다.&lt;br&gt;&lt;br&gt;환경부는 “올해 주제는 ‘플라스틱 오염 종식’, 공식 표어는 ‘공동의 도전, 모두의 행동’(Shared Challenge, Collective Action)로 결정됐다”며 “특정 국가가 아닌 전 인류가 함께해야 플라스틱 오염을 종식할 수 있다는 의미”라고 설명했다.&lt;br&gt;&lt;br&gt;기념식엔 유엔환경계획(UNEP)·세계자연보전연맹(IUCN)·경제협력개발기구(OECD) 등 국제기구, 라오스·방글라데시·일본 등 20국 고위급 대표단과 주한대사, 시민사회·학계·산업계 관계자 등 1300명이 참석한다.&lt;br&gt;&lt;br&gt;환경부는 5일 기념식에서 ‘순환경제를 위한 행동 구상’(에이스 이니셔티브)를 발표할 계획이다. 플라스틱 오염 문제가 심각하고 이를 관리할 역량은 부족하나 개선할 의지가 있는 국가가 있다면 한국의 기술과 경험을 바탕으로 문제를 종합적으로 분석한 뒤 맞춤형 사업을 실시한다는 것이다.&lt;br&gt;&lt;br&gt;4일에는 ‘국토 30%를 보호지역·자연공존지역 등으로 보전·관리하고 훼손지 30%를 복원한다’라는 목표를 추구하는 ‘30X30 얼라이언스(협의체)’가 출범한다. 협의체에는 환경부와 국립생물자원관·국립공원공단·국립생태원·한국환경보전원 등 환경부 산하기관, 삼성전자·포스코DX·현대로템·산수그린텍·스피어AX 등 기업, IUCN·동아시아람사르지역센터·유네스코한국위원회 등 국제기구, 월드비전·네이처링·세계자연기금(WWF)·자연환경국민신탁·한국생태복원협회·자연환경관리기술사회 등 민간단체가 참여한다.&lt;br&gt;&lt;br&gt;각국은 2022년 12월 캐나다에서 열린 제15차 생물다양성협약 당사국 총회에서 2030년까지 전 지구 30%를 보호지역으로 지정해 보전하고 훼손지 30%를 복원한다는 목표를 담은 ‘쿤밍-몬트리올 글로벌 생물다양성 프레임워크(GBF)’를 채택한 바 있다. 우리나라는 이에 맞춰 2023년 12월 ‘제5차 국가생물다양성 전략’을 수립, 2030년까지 국토 30%를 보호지역 또는 자연공존지역(OECM)으로 지정하기로 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>춘천대교서 어린이집 차량 등 3대 ‘쾅’…9명 중경상</title>
+      <link>https://www.chosun.com/national/incident/2025/06/04/7GF56PLOEVGXRKSXF4NDNW2LK4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/06/04/7GF56PLOEVGXRKSXF4NDNW2LK4/</guid>
+      <dc:creator>춘천=정성원 기자</dc:creator>
+      <description>4일 오전 9시 20분쯤 강원 춘천시 근화동 춘천대교에서 A(33)씨가 몰던 카니발 승합차가 1차로에서 공사 작업을 하고 있던 1t 트럭을 들이받았다.</description>
+      <pubDate>Wed, 04 Jun 2025 04:54:26 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/N6QOTB5QPZFIVE7AUEM6X634Y4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;4일 오전 강원 춘천시 근화동 춘천대교에서 차량 3대가 잇따라 들이받는 사고가 발생, 소방대원들이 구조 작업을 벌이고 있다./강원소방본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;4일 오전 9시 20분쯤 강원 춘천시 근화동 춘천대교에서 A(33)씨가 몰던 카니발 승합차가 1차로에서 공사 작업을 하고 있던 1t 트럭을 들이받았다. 이 사고의 충격으로 1t 트럭이 튕겨져 나가면서 반대편 차선에서 마주오던 어린이집 차량과 충돌했다. 사고 당시 어린이집 차량에는 교사와 원생 등 8명이 타고 있었다.&lt;br&gt;&lt;br&gt;이 사고로 1t 트럭 운전자 B(51)씨가 크게 다쳐 인근 병원으로 후송됐으며, A씨와 어린이집 원생 등도 가벼운 부상을 입고 병원으로 옮겨졌다.&lt;br&gt;&lt;br&gt;경찰은 A씨 등을 상대로 정확한 사고 경위를 조사하고 있다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘AI와 영화의 만남’ 제주AI국제필름페스티벌 열린다</title>
+      <link>https://www.chosun.com/national/regional/2025/06/04/3ZG23ORCAZGXHECEQXM3BGMZU4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/06/04/3ZG23ORCAZGXHECEQXM3BGMZU4/</guid>
+      <dc:creator>제주=오재용 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 04 Jun 2025 04:51:57 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GENLOBCQAFHRNPJK72LQAJ2CLU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;제주AI국제필름페스티벌 대상작인 프랑스 엘리엇 우를리에(Eliott HOURLIER) 감독의 'Evolution(에볼루션)'./제주도&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인공지능(AI)을 활용해 만든 영화 축제가 제주에서 열린다.&lt;br&gt;&lt;br&gt;제주도는 4일 2025 제주AI국제필름페스티벌(www.jjaiff.kr)이 8~10일 3일간 제주문예회관과 비인(BeIN;) 공연장에서 펼쳐진다.&lt;br&gt;&lt;br&gt;영화제 공모에는 전 세계 95개국에서 1210편이 출품됐고, 3차 심사를 거쳐 최종 18편이 선정됐다.&lt;br&gt;&lt;br&gt;대상은 프랑스 엘리엇 우를리에(Eliott HOURLIER) 감독의 ‘Evolution(에볼루션)’이 차지했다. 인류의 확장으로 파괴된 자연에서 오락거리로 전락한 사이버네틱 동물 왕국 속에서 새끼를 보호하려는 어미 고릴라의 고향으로의 여정을 담은 작품이다.&lt;br&gt;&lt;br&gt;제주의 전통 품앗이 문화인 수눌음 공동체 정신을 다룬 ‘렛츠 수눌음’은 픽션 부문 최우수상, 제주도민 제작진이 해녀 어머니 이야기로 만든 ‘COZI(코지)’가 논픽션 부문 장려상을 각각 받았다.&lt;br&gt;&lt;br&gt;8일 제주 AI 아나운서 ‘제이나’의 진행으로 열리는 개막식에서는 대상작을 비롯해 제주 신화를 소재로 한 ‘바람, 꿈’(한국예술종합학교 A&amp;amp;T랩)과 AI 로봇 포포의 휴머니즘을 그린 ‘I’m PoPo’(김일동 미디어아트 작가)가 초청 상영된다.&lt;br&gt;&lt;br&gt;9일에는 공모전 시상식, AI&amp;amp;ART 포럼, 기업 특강, 초청작·수상작 상영, 기술과 예술의 대화 등이 마련됐다.&lt;br&gt;&lt;br&gt;AI&amp;amp;ART 포럼 1부에서는 ‘기술(術);예술(術). 공존의 術’을 주제로 이준호 제주도 정책자문위원이 좌장을 맡고 오영훈 제주지사, 김대식 KAIST 교수, 양윤호 영화진흥위원회 부위원장, 양은희 제주도립김창열미술관장, 이태리 한국영화감독협회 부이사장이 토론한다.&lt;br&gt;&lt;br&gt;2부에서는 제주도와 유네스코 동아시아지역사무소가 브라질, 몽골, 콜롬비아 등 11개국에서 진행한 ‘제주문화 글로벌 AI 아트 클래스’ 교육 성과가 공유된다. 또 어도비의 ‘생성형 AI, 파이어플라이를 활용한 콘텐츠 저작 도구의 변화’, 구글클라우드의 ‘AI 솔루션 및 활용사례’ 특강도 열린다.&lt;br&gt;&lt;br&gt;마지막 날인 10일 오후에는 KBS제주 AI제작연구회에서 제작한 AI 영화 ‘잊혀진 제주마, 영웅 레클리스’가 특별상영된다.&lt;br&gt;&lt;br&gt;행사 기간 비인 공연장에서는 한국 어도비의 파이어플라이 체험 부스와 구글클라우드의 최신 제미나이가 탑재된 AI로봇, KT제주단의 케이터링 로봇, SW미래채움제주센터의 AI로봇축구와 AI오목로봇 등을 체험할 수 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>지카바이러스 올해 첫 환자 발생… 질병청 “동남아 여행 시 모기 주의”</title>
       <link>https://www.chosun.com/national/welfare-medical/2025/06/04/GZPD5ZUDZNGRFEEO2XPPI5KITU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/06/04/GZPD5ZUDZNGRFEEO2XPPI5KITU/</guid>
@@ -917,42 +953,6 @@
       <description/>
       <pubDate>Mon, 02 Jun 2025 08:48:50 +0000</pubDate>
       <content:encoded>문재인 전 대통령에게 뇌물을 건넨 혐의로 기소된 이상직 전 더불어민주당 의원이 법원에 국민참여재판을 희망한다고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QNEV37TT4RGGTGS4WYE2CBAI3A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이상직 전 더불어민주당 의원. /조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2일 법조계에 따르면, 이 전 의원 측은 이날 서울중앙지법 형사21부(재판장 이현복)에 국민참여재판 의사 확인서를 냈다. 이 전 의원 변호인인 곽영수 변호사는 “국민참여재판은 비교적 빠르게 진행되기 때문에 신속하게 재판을 받기 위해 신청했다”고 밝혔다.&lt;br&gt;&lt;br&gt;현재 전주교도소에 수용 중인 이 전 의원은 재판을 받기 위해 매번 서울로 올라오는 것이 어렵다는 이유로, 지난달 26일 재판을 전주지법에서 받게 해 달라는 취지의 의견서도 제출했다. 이 전 의원과 함께 기소된 문 전 대통령 측은 국민참여재판 의사를 따로 밝히지 않은 것으로 전해졌다.&lt;br&gt;&lt;br&gt;앞서 전주지검은 지난 4월 문 전 대통령을 뇌물 수수 혐의로, 이 전 의원을 뇌물 공여 및 업무상 배임 혐의로 각각 불구속 기소했다. 이 전 의원은 자신이 실소유한 태국 저가 항공사 타이이스타젯에 문 전 대통령의 전 사위인 서모씨를 임원으로 취업시키고, 2018년 8월부터 2020년 4월까지 급여 및 주거비 등 총 2억1700만원 상당을 뇌물로 건넨 혐의를 받는다.&lt;br&gt;&lt;br&gt;검찰은 문 전 대통령이 서씨의 취업과 딸 다혜씨 가족의 태국 이주 등을 도운 대가로 2018년 3월 이 전 의원에게 중소벤처기업진흥공단(중진공) 이사장 자리를 주고, 2020년 4월 총선 때 더불어민주당 공천을 도운 것으로 보고 있다. 재판부는 오는 17일 첫 준비 기일을 열고 재판을 본격 시작할 계획이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>5호선 방화범 구속... “공공안전 위험 고려” </title>
-      <link>https://www.chosun.com/national/national_general/2025/06/02/LA73QVZASJBTVGB5AT3OHM6VYE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/02/LA73QVZASJBTVGB5AT3OHM6VYE/</guid>
-      <dc:creator>고유찬 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 02 Jun 2025 09:00:52 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/57KVEH4P37OI3TSLY7YL7JWECU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울지하철 5호선 열차에서 불을 지른 원모씨가 2일 서울 양천구 서울남부지법에서 열린 구속 전 피의자 심문(영장실질심사)에 출석하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 지하철 5호선 열차에 불을 지른 혐의를 받는 60대 남성 원모씨가 2일 구속됐다.&lt;br&gt;&lt;br&gt;서울남부지법 이영광 영장전담 부장판사는 이날 “도주 우려가 있다”면서, “공공의 안전에 현저한 위험과 심각한 피해가 초래된 점, 납득할 수 없는 동기로 사전에 범행 도구 등을 준비한 점 등을 고려해 범죄가 중대하며 재범 위험성도 있다”고 구속영장을 발부했다.&lt;br&gt;&lt;br&gt;원씨는 이날 오전 10시 30분쯤 법원에 출석해 15분가량 구속 전 피의자 심문(영장실질심사)을 받았다. 심문을 마치고 나온 원씨는 “혐의를 인정하느냐”는 취재진 질문에 “네”라고 짧게 답했다. “할 말 없느냐”는 물음엔 “죄송합니다”라고 했다. 나머지 질문에는 응답하지 않았다.&lt;br&gt;&lt;br&gt;원씨는 지난달 31일 오전 8시 43분쯤 여의나루역과 마포역 사이 터널 구간을 달리던 열차 안에서 휘발유를 뿌리고 옷가지에 불을 붙인 것으로 조사됐다.&lt;br&gt;&lt;br&gt;이 사건으로 승객 23명이 연기를 마셔 병원으로 이송됐고, 129명이 현장에서 치료를 받았다. 열차 1량이 일부 불에 타는 등 약 3억 3000만원의 재산 피해도 발생했다.&lt;br&gt;&lt;br&gt;경찰에 따르면 원씨는 “이혼 소송 결과에 불만이 있었다”고 진술했다. 방화에 사용된 휘발유는 사건 2주 전 주유소에서 구입한 것으로 알려졌다. 경찰은 원씨의 진술이 사실과 일치하는지 확인하기 위해 휴대전화 포렌식과 보안 카메라 분석을 진행 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>민주당 ‘검사가 증거 조작’ 주장에...검찰 “대장동 일당의 말바꾸기”</title>
-      <link>https://www.chosun.com/national/court_law/2025/06/02/7CI6HGXNTNDQPO3ZBJVESQPO6E/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/02/7CI6HGXNTNDQPO3ZBJVESQPO6E/</guid>
-      <dc:creator>유희곤 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 02 Jun 2025 07:54:06 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MR7Z4PFIRVJUTDEWJH7OE6E4HY.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;대장동 민간업자 중 한 명인 정영학 회계사가 2023년 6월 8일 서울 서초구 서울중앙지법에서 열린 김용 전 민주연구원 부원장의 불법 대선 자금 수수 혐의 1심 속행 공판에 증인 출석하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰이 “대장동 사건 담당 검사가 증거를 조작했다”는 더불어민주당 주장에 대해 대장동 일당 중 한 명이 증언을 번복했을 뿐 사실이 아니라고 2일 반박했다.&lt;br&gt;&lt;br&gt;서울중앙지검은 지난 1일 민주당이 “대장동 민간업자였던 정영학 회계사가 대장동 개발 비리 범행 당시 분양가를 1500만원으로 예상하지 않았는데도, 정 회계사가 관련 자료를 만든 것처럼 검찰이 증거를 조작했다”고 한 데 대해 입장문을 내고 이같이 밝혔다.&lt;br&gt;&lt;br&gt;대장동 민간업자들은 평당 1500만원이 넘는 대장동 택지 분양가를 평당 1400만원으로 낮춰 평가해 공사에 최소 651억원의 손해를 끼친 혐의(배임)를 받고 있다. 검찰은 관련 내용이 담긴 엑셀 파일 등 관련 자료를 법원에 증거로 제출했다.&lt;br&gt;&lt;br&gt;이에 대해 정 회계사 측은 지난 3월 11일 재판부에 낸 의견서에서 ‘평당 1500만원’이라는 엑셀 파일을 만든 적이 없다며 “누군가 해당 파일에 1500만원이라는 숫자를 임의로 입력해 시뮬레이션을 한 다음, 그 결과물을 출력한 자료로 추정된다”고 한 것으로 전해졌다. 검찰은 “검사가 증거를 조작했다”며 고위공직자범죄수사처(공수처)에 고발하겠다고 했다.&lt;br&gt;&lt;br&gt;정 회계사와 민주당 주장에 대해 검찰은 “정 회계사는 수사 초기인 2021년 9월 ‘검찰에 진실을 밝히겠다’며 자진 출석해 ‘택지 분양가가 최소 1500만원 이상이 될 것으로 예상했지만, 그대로 하면 민간이 과도하게 이익을 가져가는 것이 드러나기 때문에 택지 분양가가 1400만원으로 예상되는 것처럼 서류를 작성했다’고 수차례 진술했다”고 했다.&lt;br&gt;&lt;br&gt;그러면서 “해당 엑셀 파일은 정 회계사가 제공한 파일에 실제 1500만원을 입력해 당시 이렇게 시뮬레이션을 했다는 것인지를 정 회계사에게 확인했던 자료”라면서 “변호인이 입회해 서명·날인을 했고, 정 회계사도 2022년 9월 법정에서 같은 취지로 증언했다”고 했다.&lt;br&gt;&lt;br&gt;검찰은 “정 회계사가 중한 처벌이 예상되자 작년 12월에 종전 증언을 번복했지만, 지난 1월 공판에서 여러 증거들에 의해 (증언 번복이) 믿을 수 없는 주장이라는 게 명백히 드러났다”면서 “앞으로도 공소 유지에 만전을 기하겠다”고 했다.&lt;br&gt;&lt;br&gt;대장동 민간업자 일당에 대한 1심은 2021년 12월 이후 계속되고 있다. 서울중앙지법 형사22부(재판장 조형우)는 지난달 12일 공판에서 “6월 중에 재판을 마무리하겠다”고 밝혔다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[속보] 창원 시내버스 노사 협상 타결...파업 철회하기로 </title>
-      <link>https://www.chosun.com/national/2025/06/02/NZ7GH77BHBB5VOUOPMBWJLDYXM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2025/06/02/NZ7GH77BHBB5VOUOPMBWJLDYXM/</guid>
-      <dc:creator>창원=김준호 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 02 Jun 2025 07:57:39 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UKSHSMZIE5CXVOTZLLINP3UBWE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경남 창원시 버스 파업 엿새째인 2일 오후 성산구 대방동 한 버스차고지에 세워진 전세버스에 버스 번호판이 붙여져 있다./창원=김동환 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;엿새째 파업을 벌이던 경남 창원 시내버스 노사가 2일 임금·단체 협상을 타결했다.&lt;br&gt;&lt;br&gt;본지 취재를 종합하면 창원 시내버스 9개사 노사는 이날 오후 4시쯤 창원시청에서 열린 시내버스 노사 조정회의에서 임단협에 합의했다.&lt;br&gt;&lt;br&gt;노사는 임금 3% 인상, 정년 64세로 1년 연장, 하계 휴가비 40만원 증액, 출산장려금 자녀 1인당 200만원 지급 등에 합의했다.&lt;br&gt;&lt;br&gt;주요 쟁점이 됐던 통상임금 부분에 대해 노사는 현재 진행 중인 소송 판결이 결정되면 통상임금 산정 기준 시간에 따라 상여금, 하계 수련비, 체력 단련비를 시급 전환 임금 체계로 개편해 지급하기로 했다. 또 협상 타결에 따라 노조는 오후 5시부터 운행이 가능한 시내버스 노선부터 순차적으로 운행을 재개하기로 했다.&lt;br&gt;&lt;br&gt;앞서 창원 시내버스 9개 업체 노조는 사측과 임단협 결렬을 선언하며 지난달 28일 첫차부터 총파업에 돌입했다. 이에 따라 창원 지역 전체 버스 95%인 669대가 운행을 멈췄다. &lt;br&gt;&lt;br&gt;이에 시민들은 출퇴근길 큰 불편을 겪어야 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>투표함 보관소 출입문 봉인지 훼손한 참관인…경주선관위, 경찰 고발</title>
-      <link>https://www.chosun.com/national/regional/2025/06/02/2SIYZH6UW5ADRMCFA3ONBJRQ3Q/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/06/02/2SIYZH6UW5ADRMCFA3ONBJRQ3Q/</guid>
-      <dc:creator>경주=노인호 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 02 Jun 2025 07:34:29 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6L3EL2WYTBGNLN6VFJQPAELZ2Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경북선거관리위원회./조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경북 경주시선거관리위원회는 제21대 대통령선거 관내 사전투표함 보관장소 출입문에 부착된 특수봉인지를 훼손하고, 사전투표관리관 등을 협박한 혐의(공직선거법 위반)로 A씨를 경찰에 고발했다고 2일 밝혔다.&lt;br&gt;&lt;br&gt;선관위에 따르면, 사전투표참관인인 A씨는 지난달 30일 오후 7시 55분쯤 경주시선관위 2층에 있는 관내 사전투표함 보관 장소 출입문에 붙은 특수 봉인지를 파란색 유성펜으로 그어 훼손한 혐의를 받고 있다. &lt;br&gt;&lt;br&gt;A씨는 또 “사전투표용지에 사전투표관리관 사인을 직접 날인 등 사전투표 절차와 관련한 요구 사항을 받아주지 않으면 고발하겠다”며 선거사무 관계자를 협박한 혐의도 받는다. &lt;br&gt;&lt;br&gt;선관위 관계자는 “근거 없는 부정선거 음모론에 기반해 투표소·개표소·선관위사무소의 시설·장비·서류 등을 교란하거나 훼손하는 행위에 대해 무관용 원칙으로 고발 등 엄정 대처할 방침”이라고 밝혔다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>22년 전 대구의 교훈, 서울 지하철 참사 막았다</title>
