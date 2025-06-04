@@ -13,6 +13,33 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>대선 결과 조롱하자 지인 흉기 위협한 50대 남성 체포 </title>
+      <link>https://www.chosun.com/national/national_general/2025/06/04/GPELWDGEWRFDTF7YJJ3ASQ62NI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/04/GPELWDGEWRFDTF7YJJ3ASQ62NI/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 04 Jun 2025 13:01:30 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QGP3ET3WGJHHDIGZJ6THZ65W3Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;A씨가 체포되는 장면. /채널A 방송화면&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;술자리에서 자신이 지지한 대통령 후보가 낙선한 것을 조롱했다는 이유로 지인을 흉기로 위협한 50대 남성이 경찰에 체포됐다.&lt;br&gt;&lt;br&gt;4일 경찰에 따르면 서울 영등포경찰서는 이날 오전 12시 46분쯤 서울 영등포역 인근 식당에서 함께 술을 마시던 지인을 흉기로 위협한 50대 남성 A씨를 특수협박 혐의로 체포했다.&lt;br&gt;&lt;br&gt;A씨는 당시 지인인 피해자와 함께 식당에서 대선 개표방송을 보던 중 말싸움을 벌이다 식당 주방에 있던 흉기를 들고나와 피해자를 위협한 혐의다.&lt;br&gt;&lt;br&gt;A씨는 자신이 특정 후보의 패배를 아쉬워하자 지인이 비꼬듯 말하는데 격분해 범행을 한 것으로 조사됐다. &lt;br&gt;&lt;br&gt;A씨는 신고를 받고 출동한 경찰에 의해 체포됐다. 경찰은 특수협박 혐의를 적용해 A씨에 대해 구속영장을 신청했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>경찰, 리박스쿨 대표 출국금지… 사무실 압수수색</title>
+      <link>https://www.chosun.com/national/national_general/2025/06/04/5363TXTZCFCBRF4CAJ2LSAZ4EY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/04/5363TXTZCFCBRF4CAJ2LSAZ4EY/</guid>
+      <dc:creator>김명진 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 04 Jun 2025 11:01:55 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XTLECR7B4352DWFW6F6JHWXHRE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;더불어민주당 중앙선대위 신속대응단 정준호 부단장과 소속 의원들이 지난달 31일 극우성향 단체의 댓글 조작팀으로 추정되는 서울 종로구 리박스쿨을 항의 방문한 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰이 댓글 조작 의혹이 불거진 보수 성향 단체 ‘리박스쿨’과 관련해 4일 강제 수사에 돌입했다. 리박스쿨은 2017년 6월 이승만·박정희 전 대통령의 성(姓)을 따 설립된 역사교육 단체다. 단체 공식 이름은 ‘대한민국역사지킴이’다.&lt;br&gt;&lt;br&gt;서울경찰청 사이버수사대는 이날 손효숙 리박스쿨 대표에 대해 출국 금지를 하고, 사무실 등에 대한 압수 수색을 벌이고 있다고 밝혔다. 서울경찰청은 사이버수사과장을 팀장으로 20명 규모의 수사 전담팀을 구성했다. 서울경찰청 관계자는 “압수 수색을 통해 확보된 자료를 면밀히 분석하고 혐의 유무에 대해 신속하고 엄정하게 수사할 예정”이라고 했다. &lt;br&gt;&lt;br&gt;앞서 온라인 매체 뉴스타파는 리박스쿨이 초등학교 늘봄학교(초등학교에서 방과 후 오후 8시까지 학생들을 돌봐주는 정책) 자격증 지급을 미끼로 ‘자손군(자유손가락부대)’이라는 댓글팀을 모집·운영하며 이재명 후보를 공격하고, 김문수 국민의힘 당시 대선 후보를 띄우는 댓글 공작을 했다고 보도했다. 교육부에 따르면 리박스쿨은 올해 초 서울교대와 업무협약을 맺고 서울 지역 10개 초등학교에 늘봄학교 강사를 공급했다. 그러나 국민의힘은 “(리박스쿨과) 국민의힘은 아무런 관련이 없다”고 했었다.&lt;br&gt;&lt;br&gt;더불어민주당은 대선 본투표 전인 지난달 31일 손 대표와 댓글 조작에 가담한 이들을 공직선거법상 부정 선거운동·매수·이해 유도, 업무방해 혐의로 경찰에 고발했다. &lt;br&gt;&lt;br&gt;경찰은 이번 압수 수색을 통해 “리박스쿨과 연관된 프로그램은 서울 지역 초등학교 곳곳에 보급됐다”는 취지의 보도를 확인하겠다는 계획이다. 이날 경찰은 “고발인 조사와 참고인을 대상으로 한 자료 수집에 나서는 등 수사를 진행 중”이라고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘선감학원’ 피해자 손배소 항소심도 일부 승소...배상액 1심보다 늘어</title>
+      <link>https://www.chosun.com/national/court_law/2025/06/04/RVDL3DH7EFAJVBX5PDQFAJFBXI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/04/RVDL3DH7EFAJVBX5PDQFAJFBXI/</guid>
+      <dc:creator>김은경 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 04 Jun 2025 10:59:01 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FNTVAUZKITZE4XCQNLABPDVYN4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울고등법원 청사&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;일제강점기 부랑아 교화라는 명목으로 아동·청소년에게 강제 노역과 고문을 가한 ‘선감학원 사건’의 피해자들이 국가와 경기도를 상대로 낸 손해배상 소송 항소심에서도 일부 승소했다.&lt;br&gt;&lt;br&gt;서울고법 민사1부(재판장 이양희)는 4일 선감학원 피해자 13명이 낸 손해배상 청구 소송에서 국가와 경기도가 1인당 4500만~6억5000만원의 위자료를 지급하라고 판결했다. 항소심이 인정한 배상액은 모두 33억 100만원으로, 지난해 6월 1심에서 인정됐던 21억 6600만원보다 10억원 넘게 늘었다.&lt;br&gt;&lt;br&gt;재판부는 “국가와 지방자치단체가 적극적으로 개입해 장기간 이뤄진 중대한 인권침해 사안”이라며 “유사한 인권침해가 다시 자행되지 않도록 억제·예방할 필요성이 크다”고 했다.&lt;br&gt;&lt;br&gt;이어 “피해자들은 수용당시 6~12세에 불과한 어린 아동들이었고, 의사와 무관하게 강제로 수용됐다”며 “강제노역과 가혹행위에 시달리며 장기간 수용됐다 퇴소하는 바람에 교육받을 권리를 침해당했으며 대부분 현재까지도 정신적·육체적 후유증으로 고통받고 있다”고 했다.&lt;br&gt;&lt;br&gt;위자료 액수를 증액한 데 대해서는 “50년 이상 오랜 기간이 지났음에도 원고들에 대한 배상이 이뤄지지 않았고 그동안 위자료 산정의 기준이 되는 변론 종결 시의 국민 소득 수준이나 화폐 가치 등이 상당히 변했다”며 “이를 반영해 위자료 액수도 증액돼야 한다”고 했다.&lt;br&gt;&lt;br&gt;선감학원은 일제강점기인 1942년부터 경기 안산 선감도에 설립·운영된 시설이다. 부랑아 교화라는 명목으로 아동·청소년을 강제 수용해 노역하게 했고 이 과정에서 폭행·학대·고문 등이 이뤄졌다. 광복 후에도 경기도가 이를 인수해 1982년까지 존속했다. 앞서 2기 진실·화해를위한과거사정리위원회 지난 2022년 선감학원 수용자 전원이 아동 인권침해 사건의 피해자라고 인정했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>왜 죽였나 묻자 ‘묵묵부답’ 처자식 살해 40대 가장 구속</title>
       <link>https://www.chosun.com/national/2025/06/04/623NIHARX5BKZD2K3JECQVQHL4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/2025/06/04/623NIHARX5BKZD2K3JECQVQHL4/</guid>
@@ -852,27 +879,6 @@
       <content:encoded>올여름 코로나 환자가 폭증할 경우 대표적인 먹는 치료제 ‘팍스로비드’의 공급 부족 우려도 제기된다. 자칫 팬데믹 당시처럼 품귀 사태가 벌어질 수도 있다는 것이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AQLIDVMIS5H3VFNWFPSW7OLUXM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;코로나19 치료제 팍스로비드. 동봉된 분홍색 정제 2개와 흰색 정제 1개를 1일 2회, 5일간 복용한다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2일 질병관리청 등에 따르면, 지난 1일부터 팍스로비드를 정부가 아닌 약국이 직접 구매해 공급해야 한다는 내용을 담은 공문이 전국 의료기관, 보건소 등에 발송됐다. 정부는 코로나 팬데믹 당시부터 예산을 들여 제약사로부터 팍스로비드를 직접 구매·비축해왔다. 각국에서 확보 경쟁이 벌어진 팍스로비드의 국내 수급을 원활하게 하기 위해서였다. 이에 따라 지역별로 지정된 약국들이 보건소로부터 필요한 팍스로비드 물량을 공급받아 병·의원이 발급한 처방전을 소화해왔다.&lt;br&gt;&lt;br&gt;그런데 지난해 10월부터 팍스로비드에 건강보험 급여가 적용되기 시작하면서, 다른 건보 적용 의약품들처럼 약국이 평소 도매상을 통해 구입해 확보한 뒤 소비자에게 판매하는 구조로 바뀌었다. 지난달 말까지는 정부 공급도 병행했지만, 비축 물량이 소진되고 나자 정부 공급 경로는 중단한 것이다. &lt;br&gt;&lt;br&gt;팍스로비드는 코로나 중증에 빠지기 쉬운 60세 이상 고령자와 18세 이상 기저 질환자, 면역 저하자에게 처방된다. 중증 입원 환자는 원내 처방으로 병원에서 받을 수 있지만, 외래 환자는 처방전을 통해 약국에서 받아야 한다. 건보 적용 후에도 환자 본인 부담금은 4만7090원으로 동일하다.&lt;br&gt;&lt;br&gt;문제는 약국 입장에서 팍스로비드를 도매상으로부터 약 95만원에 사들이는 절차가 추가됐다는 것이다. 의료계 일각에서는 “약국들이 고가의 팍스로비드 비축에 소극적일 수 있다”는 지적이 나온다. 서울 종로구 A 약국은 “요즘은 팍스로비드를 찾는 사람이 거의 없어 비축하지 않는다”고 했고, 서대문구 B 약국에서도 “약값이 비싸 재고 부담이 크다”고 했다.&lt;br&gt;&lt;br&gt;현재 약국이 도매상에 주문할 경우 1~2일 정도면 공급받을 수 있다지만, 환자가 약국에 일일이 보유 여부를 확인하는 번거로움이 늘어날 수 있다. 팍스로비드는 증상 발생 5일 이내 가급적 빨리 복용을 시작해야 한다. 이에 대해 복지부 관계자는 “지금처럼 유행 상황이 아닌 시점에 모든 약국에 팍스로비드 등 치료제 비치를 지시하기는 어렵다”며 “지금도 긴급 상황이 발생하면 충분히 공급할 수 있는 체계는 갖춰져 있다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>태안화력발전소 또 근로자 숨져</title>
-      <link>https://www.chosun.com/national/regional/chungcheong/2025/06/03/44QNETT42ZGQ7GZYS5JSR6DNSY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2025/06/03/44QNETT42ZGQ7GZYS5JSR6DNSY/</guid>
-      <dc:creator>태안=김석모 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 02 Jun 2025 15:53:00 +0000</pubDate>
-      <content:encoded>충남 태안화력발전소에서 50대 근로자 1명이 기계에 끼여 숨지는 사고가 발생했다. 태안화력발전소는 중대재해처벌법 제정의 계기가 된 김용균씨 사망 사고가 났던 곳이다. &lt;br&gt;&lt;br&gt;2일 태안경찰서와 고용노동부 등에 따르면, 이날 오후 2시 30분쯤 태안군 원북면 한국서부발전 태안화력발전소 종합정비동에서 하도급업체 근로자 김모(50)씨가 숨졌다. 김씨는 종합정비동 1층 기계공작실에서 선반 작업을 하던 중 기계에 옷이 끼이면서 숨진 것으로 알려졌다. 당시 김씨는 혼자 작업 중이었다.&lt;br&gt;&lt;br&gt;김씨는 발전소 설비를 정비하는 한전KPS의 하도급업체인 한국파워O&amp;amp;M 소속 비정규직 근로자다.&lt;br&gt;&lt;br&gt;한전KPS 비정규직 노조는 “사고 당시 ‘2인 1조 근무 원칙’이 지켜졌는지 확인해야 한다”고 주장했다. 한전KPS 관계자는 “오늘 작업 계획에 포함돼 있지 않은 업무를 하던 중 사고가 발생한 것으로 보인다”고 했다.&lt;br&gt;&lt;br&gt;태안화력발전소에선 7년 전인 2018년에도 사망 사고가 발생했다. 당시 하도급업체 근로자였던 김용균(당시 25세)씨가 석탄 운송용 컨베이어벨트에 끼여 숨진 채 발견됐다. 한국서부발전의 하도급업체인 한국발전기술 비정규직 직원이었던 김용균씨는 당시 혼자 근무하다 숨졌다.&lt;br&gt;&lt;br&gt;김용균씨가 숨진 이후 산업안전보건법이 개정돼 하도급업체 근로자의 산업재해에 대한 원청업체의 책임이 강화됐다. 사업주에 대한 처벌을 강화한 중대재해처벌법도 2022년 1월부터 시행됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>일가족 탄 차량 바다 돌진… 경찰, 40대 가장 긴급체포</title>
-      <link>https://www.chosun.com/national/national_general/2025/06/03/S2FK6MYXBJBTTHLLWP6CLWSZ3M/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/03/S2FK6MYXBJBTTHLLWP6CLWSZ3M/</guid>
-      <dc:creator>광주광역시=진창일 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 02 Jun 2025 15:53:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6QKGZH3P4FGSHJI52R5URD5DHI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;해경이 2일 해경은 경비함정과 연안구조정 등을 투입해 전남 진도군 진도항에서 일가족 4명이 탑승한 채 추락한 승용차를 수색하고 있다. /목포해양경찰서&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전남 진도에서 일가족 4명이 탄 승용차가 바다로 추락했다. 차 안에서는 시신 3구가 발견됐다. 경찰은 이 사건과 관련해 40대 가장을 광주광역시에서 긴급 체포했다.&lt;br&gt;&lt;br&gt;광주 북부경찰서는 2일 아내와 두 아들이 탄 승용차를 바다에 빠뜨려 숨지게 한 혐의로 A(49)씨를 붙잡아 조사하고 있다. A씨는 전날 오전 1시 12분쯤 진도항에서 승용차를 몰고 바다로 돌진해 아내(49)와 고등학생 두 아들을 숨지게 한 혐의를 받는다. 경찰은 이날 오후 9시 9분쯤 광주 서구 양동시장 근처에서 A씨를 붙잡았다.&lt;br&gt;&lt;br&gt;승용차는 앞서 이날 오후 8시 7분쯤 진도항에서 약 30m 떨어진 바다에서 발견됐다. 승용차 안에서는 일가족으로 추정되는 시신 3구가 발견됐다. 경찰은 숨진 3명이 A씨의 아내와 두 아들인 것으로 추정하고 있다.&lt;br&gt;&lt;br&gt;경찰은 A씨가 차를 몰아 바다로 돌진한 뒤 혼자 빠져나와 달아난 것으로 보고 구체적인 사실관계를 조사하고 있다. &lt;br&gt;&lt;br&gt;사건은 이날 오후 2시 36분쯤 광주 한 고등학교 교사가 112에 신고하면서 드러났다. B군이 전화를 받지 않는다는 내용이었다. B군은 이날 승용차 안에서 숨진 채 발견됐다. 경찰은 B군을 A씨의 둘째 아들이라고 추정하고 있다.&lt;br&gt;&lt;br&gt;경찰은 B군을 찾는 과정에서 B군의 부모와 고등학생 형이 사라진 사실을 확인했다. 경찰은 B군 가족의 휴대전화 위치 정보를 추적했고 이들이 전날 오전 1시쯤 진도항 근처에 있었던 사실을 확인했다. B군 가족의 승용차가 바다에 추락하는 방범카메라 영상도 확보했다. 경찰 관계자는 “분명 차 안에는 4명이 타고 있었는데 시신은 3구만 발견돼 A씨를 의심하고 추적했다”고 전했다.&lt;br&gt;&lt;br&gt;경찰은 B군의 광주 집을 수색했으나 유서는 발견되지 않은 것으로 알려졌다. B군 가족은 기초생활수급 대상은 아닌 것으로 파악됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/6QKGZH3P4FGSHJI52R5URD5DHI.jpg?auth=10326251e210e21f9aba9e21addbab199122c1330342b1a6831049a69b3784c4&amp;smart=true&amp;width=960&amp;height=706" type="image/jpeg" height="706" width="960">
-        <media:description type="plain">해경이 2일 해경은 경비함정과 연안구조정 등을 투입해 전남 진도군 진도항에서 일가족 4명이 탑승한 채 추락한 승용차를 수색하고 있다. /목포해양경찰서</media:description>
-      </media:content>
-    </item>
-    <item>
       <title>초여름 더위 꺾은 비</title>
       <link>https://www.chosun.com/national/national_general/2025/06/03/5AZMAIY7WREZLEKO36UQI3PD4M/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/03/5AZMAIY7WREZLEKO36UQI3PD4M/</guid>
@@ -889,15 +895,6 @@
       <description/>
       <pubDate>Mon, 02 Jun 2025 15:53:00 +0000</pubDate>
       <content:encoded>2020년 이른바 ‘검언 유착 의혹’을 부른 채널A 사건 수사를 지휘했던 이정현 법무연수원 연구위원은 지난 4월 정직 1개월의 징계를 받았다. 사유는 성실의무 위반과 품위 손상. 규정에 따르면 연구위원은 수사를 안 하는 대신 과제를 받은 날로부터 1년 내에 연구 논문을 내도록 돼 있다. 하지만 그는 제출 기한 연장도 하지 않은 채 논문을 제출하지 않은 것이다.&lt;br&gt;&lt;br&gt;징계가 내려지자, 이 연구위원은 곧바로 법적 다툼에 나섰다. 방대한 국내외 자료를 심도 있게 검토했는데도 단지 제출 기한을 연장하지 않거나 논문을 안 냈다는 이유로 징계한 것은 지나치다는 주장이다. 그는 징계 취소를 구하는 소송과 함께 징계의 효력을 멈춰 달라는 집행정지 신청도 냈다. &lt;br&gt;&lt;br&gt;소송을 내는 것은 당사자의 권리다. 논문 한 편 안 냈다고 징계를 받는 게 부당하다고 여길 수도 있다. 그러나 징계의 부당성을 주장하는 그의 논리가 눈살을 찌푸리게 만든다.&lt;br&gt;&lt;br&gt;그는 법원에 낸 서면에서 “새로 취임하는 대통령이 조속히 검사 인사를 할 것으로 예상되는 상황에서 (징계 때문에) 그 대상자조차 되지 못할 수 있다”고 했다. 그러면서 “새 대통령이 취임하면 이미 서울중앙지검장 등 주요 보직자들이 사직한 것처럼 검찰총장이 사직하는 등의 일이 생겨날 수 있다”고 덧붙였다. 자신이 징계받은 상태에서는 검찰총장이나 고검장, 주요 검사장 자리에 갈 가능성이 차단될 수 있다는 취지다.&lt;br&gt;&lt;br&gt;이 위원은 이어 자신이 징계받은 것은 심우정 검찰총장의 후임 경쟁자 중 한 명이 견제한 결과라는 음모론도 제기했다. 그는 “현재 심우정 검찰총장(사법연수원 26기)의 다음 기수(27기)는 나와 김석우 법무차관밖에 없는데, 김 차관이 징계에 앞장서고 있는 것은 내가 없다면 김 차관이 유일한 27기라는 점이 영향을 미쳤을 것”이라고 했다.&lt;br&gt;&lt;br&gt;이에 대해 법무부는 “정직 처분은 검찰총장 임명의 결격 사유에 해당하지도 않는다”며 “현 검찰총장의 임기가 1년 이상 남아 있어서 징계 처분 효력 정지 필요성이 없다”고 했고, 법원은 법무부 주장을 받아들여 이 위원의 집행정지 신청을 기각했다.&lt;br&gt;&lt;br&gt;이 위원은 문재인 정부 시절, 서울중앙지검 1차장으로 채널A 사건 수사를 지휘한 뒤 검사장으로 승진했다. 하지만 채널A 사건은 무죄로 결론 났고, 이 위원은 정권이 바뀐 뒤 법무연수원으로 좌천됐다. 그리고 직무 태만으로 징계까지 받은 것이다.&lt;br&gt;&lt;br&gt;민주당 집권 가능성이 높아지자, 이 위원 입장에선 징계가 족쇄로 여겨졌을 수 있다. 하지만 법적 임기가 1년 넘게 남은 총장 인사까지 거론하며 정치 검사의 민낯을 보여줬다는 게 검찰 내부의 평가다. 권력 변화에 촉을 세우기에 앞서, 연구위원 2년 8개월 동안 1000만원 넘는 월급을 꼬박꼬박 받고도 논문 한 편 내지 않은 자신의 모습을 되돌아보는 게 순서가 아닐까.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>서울 지하철 5호선 방화범 구속</title>
-      <link>https://www.chosun.com/national/national_general/2025/06/03/RHR7WBKVP5ANTNL42HX4K6RRAQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/03/RHR7WBKVP5ANTNL42HX4K6RRAQ/</guid>
-      <dc:creator>고유찬 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 02 Jun 2025 15:53:00 +0000</pubDate>
-      <content:encoded>서울 지하철 5호선 열차 방화 사건의 피의자 원모(68)씨가 2일 구속됐다. &lt;br&gt;&lt;br&gt;서울남부지법 이영광 영장전담 부장판사는 ‘도주 우려’와 ‘공공 안전 위협’ ‘재범 가능성’ 등을 이유로 구속 영장을 발부했다. 원씨는 지난달 31일 오전 8시 43분쯤 여의나루역과 마포역 사이 터널 구간을 달리던 열차 안에서 휘발유를 뿌리고 자신의 옷에 불을 붙여 방화한 혐의로 붙잡혔다. 이 불로 23명의 승객이 연기를 흡입해 병원으로 옮겨졌고 현장에서는 129명이 치료를 받았다. 열차 1량이 일부 불에 타 약 3억3000만원의 재산 피해가 발생했다. &lt;br&gt;&lt;br&gt;경찰 조사 결과 원씨는 이혼 소송 결과에 불만이 있어 범행을 저질렀다고 진술했다. 방화에 사용된 휘발유는 사건 2주 전 구입한 것으로 알려졌다. 경찰은 휴대전화 포렌식과 보안 카메라를 분석하고 있다. 서울교통공사는 원씨를 상대로 손해배상을 청구하는 등 법적 대응을 검토 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[오늘의 날씨] 2025년 6월 3일</title>
