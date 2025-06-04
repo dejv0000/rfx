@@ -13,6 +13,76 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>왜 죽였나 묻자 ‘묵묵부답’ 처자식 살해 40대 가장 구속</title>
+      <link>https://www.chosun.com/national/2025/06/04/623NIHARX5BKZD2K3JECQVQHL4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2025/06/04/623NIHARX5BKZD2K3JECQVQHL4/</guid>
+      <dc:creator>광주광역시=진창일 기자</dc:creator>
+      <description>전남 진도에서 아내와 두 아들을 승용차에 태운 뒤 바다로 돌진해 숨지게 한 혐의를 받는 40대 가장이 구속됐다.
+광주지법 영장전담 김호석 부장판사는 4일 처자식을 살해한 혐의(살인·자살방조)를 받는 지모(49)씨에 대해 구속영장을 발부했다.</description>
+      <pubDate>Wed, 04 Jun 2025 10:08:36 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RTAXKJ5KQVNM7CAWDILIHS7ODA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;처자식을 살해한 혐의로 체포된 지모(49) 씨가 4일 오전 광주지방법원에서 열린 구속 전 피의자 심문(영장실질심사)에 출석하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전남 진도에서 아내와 두 아들을 승용차에 태운 뒤 바다로 돌진해 숨지게 한 혐의를 받는 40대 가장이 구속됐다.&lt;br&gt;&lt;br&gt;광주지법 영장전담 김호석 부장판사는 4일 처자식을 살해한 혐의(살인·자살방조)를 받는 지모(49)씨에 대해 구속영장을 발부했다.&lt;br&gt;&lt;br&gt;그는 지난 1일 오전 1시 12분쯤 진도항에서 승용차를 몰고 바다로 돌진해 아내(49)와 고등학생 두 아들을 숨지게 한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;김 부장판사는 “도주의 우려가 있다”며 영장 발부 사유를 밝혔다. 지씨는 경찰 조사에서 “1억6000만원이나 되는 채무 때문에 힘들어 아내와 아들에게 수면제를 먹인 뒤 바다로 돌진했다”고 진술한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰은 지씨에 대한 구속영장을 신청하면서 자살 방조 혐의를 추가했다. 경찰 관계자는 “지씨는 아내가 병원에서 처방받은 수면제를 범행에 사용했고, 아내와 극단적 선택을 공모했다고 진술하고 있다”고 설명했다.&lt;br&gt;&lt;br&gt;지씨는 이날 법정을 나서며 쏟아진 “왜 죽였느냐” “혐의를 인정하느냐”는 취재진 질문에 대답하지 않고 호송차량을 타고 떠났다.&lt;br&gt;&lt;br&gt;경찰은 국립과학수사연구원에 가족들의 시신 부검을 의뢰하고 휴대전화와 차량 블랙박스 분석 작업을 할 계획이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/RTAXKJ5KQVNM7CAWDILIHS7ODA.jpg?auth=a3256b6a11730b0b83159ce380b4e69629971d1f9f291ac1436e5cec3c161bbc&amp;smart=true&amp;width=6000&amp;height=4000" type="image/jpeg" height="4000" width="6000">
+        <media:description type="plain">처자식을 살해한 혐의로 체포된 지모(49) 씨가 4일 오전 광주지방법원에서 열린 구속 전 피의자 심문(영장실질심사)에 출석하고 있다. /연합뉴스</media:description>
+        <media:credit role="author" scheme="urn:ebu">정회성</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>부산서 택시가 인도 돌진해 보행자 등 4명 부상</title>
+      <link>https://www.chosun.com/national/national_general/2025/06/04/RGLAFR67M5G2BPU7HIGWQCVSQE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/04/RGLAFR67M5G2BPU7HIGWQCVSQE/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 04 Jun 2025 10:00:37 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IIBB6CSZFMNDAPIZOUCC6XRDQU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;4일 부산 사하구의 한 도로에서 운행 중이던 택시가 인도로 돌진하는 사고가 발생한 모습. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산에서 운행 중이던 택시가 갑자기 인도로 돌진해 보행자 등 4명이 부상을 당하는 사고가 발생했다. &lt;br&gt;&lt;br&gt;4일 경찰과 소방 등에 따르면 이날 오후 3시 11분쯤 부산 사하구 한 도로에서 택시(아이오닉6)가 갑자기 인도로 돌진해 보행자를 쳤다.&lt;br&gt;&lt;br&gt;이어 택시는 주차된 차량 2대와 무더위 쉼터 벽면을 들이받고 멈춰 섰다.&lt;br&gt;&lt;br&gt;이 사고로 택시 기사 70대 A씨와 보행자, 무더위 쉼터에 있던 시민 2명 등 총 4명이 경상을 입었다. &lt;br&gt;&lt;br&gt;택시 기사 A씨는 사고 현장에서 “차량이 급발진했다”고 주장한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰은 차량 결함 여부나 운전자 과실 여부 등을 확인해 정확한 사고 원인을 파악할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘사표 수리’ 박성재 법무장관 “국민통합·법치주의 구현 희망”…직대 체제 전환 예정</title>
+      <link>https://www.chosun.com/national/court_law/2025/06/04/IMSTJMFPH5HDBAUNIJOSYFOYW4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/04/IMSTJMFPH5HDBAUNIJOSYFOYW4/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 04 Jun 2025 10:00:00 +0000</pubDate>
+      <content:encoded>4일 사표가 수리된 박성재 법무장관이 청사를 떠나며 “국민 모두를 위한 진정한 국민 통합과 실질적 법치주의, 민주주의가 구현되길 희망한다”는 인사를 남겼다. 박 장관의 퇴직 절차가 마무리되는 대로 김석우 법무차관이 장관 직무를 대행할 예정이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2V7I4I4H3ZLIBGDVGH3KJWWWFY.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;탄핵소추안 기각으로 직무에 복귀한 박성재 법무장관이 지난 4월 10일 경기 과천 법무부 청사로 출근하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;박 장관은 이날 오후 6시 45분쯤 경기 과천시 법무부 청사에서 기자들과 만나 “인사명령을 받지 못해서 드릴 말씀이 없다”면서도 “신임 대통령께서 말씀하신 ‘국민 모두를 위한 진정한 국민 통합’과 실질적 법치주의, 민주주의가 구현되길 희망한다”고 했다. 이어 “저도 밖에서 국민 여러분과 국가를 위해서 최선을 다하겠다”며 “그동안 도와주셔서 감사하다”고 했다. 박 장관은 짧은 발언을 마친 뒤 청사를 떠났다. 별도의 퇴임식은 열리지 않았다.&lt;br&gt;&lt;br&gt;이 대통령은 이날 윤석열 정부 국무위원 전원의 사의 표명을 반려했으나, 박 장관의 사의는 수용했다. 강유정 대통령실 대변인은 이날 서울 용산 대통령실 브리핑에서 “이주호 사회부총리 겸 교육부 장관이 대통령과 통화에서 국무위원 전원의 사임 의사를 전했다”면서 “(이 대통령은) 국정 연속성과 비상 경제의 점검 필요성을 강조하면서 박 장관을 제외한 나머지 국무위원의 사의는 반려했다”고 밝혔다.&lt;br&gt;&lt;br&gt;박 장관은 내란에 동조했다는 사유 등으로 지난해 12월 민주당에 의해 탄핵소추됐다. 그러나 헌법재판소가 전원일치로 기각 결정을 내리며 지난 4월 직무에 복귀했었다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘태안화력 근로자 사망’ 충남경찰 전담팀 투입… 작업서류·CCTV 분석</title>
+      <link>https://www.chosun.com/national/regional/chungcheong/2025/06/04/GYOPHQWMJNFNRAP5WYBNPAVSOA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2025/06/04/GYOPHQWMJNFNRAP5WYBNPAVSOA/</guid>
+      <dc:creator>태안=김석모 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 04 Jun 2025 09:51:31 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CYLNQIG6B5OQBNJGS2RV5OTVS4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 2일 충남 태안화력발전소 내 종합정비동 1층에서 근로자 사망 사고가 발생함에 따라  대전지방고용노동청의 '작업중지 명령서'와 경찰의 '출입금지' 안내문이 붙었다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;충남 태안화력발전소 하도급 업체 근로자 김충현(50)씨 사망 사고를 수사하는 경찰이 전담팀을 투입하고, 사고가 난 기계를 전문기관에 의뢰하는 등 집중 수사를 벌이고 있다.&lt;br&gt;&lt;br&gt;충남경찰청은 형사기동대 안전사고팀 수사관 5명 전원을 투입해 사고 현장에서 작업 지시 관련 문서를 확인하고 있다고 4일 밝혔다.&lt;br&gt;&lt;br&gt;확인 대상은 원청인 한국서부발전과 한전KPS, 김씨의 소속 업체인 한국파워O&amp;amp;M의 도급계약서와 업무 분장 보고서, 안전관리 기록, 김씨의 사고 당일 작업 오더(주문), 작업 일지 등이다.&lt;br&gt;&lt;br&gt;경찰은 확보한 자료를 토대로 원청, 하도급 업체 관계자를 상대로 사고 당시 작업 현황과 절차적인 문제점이 없는지 조사할 계획이다.&lt;br&gt;&lt;br&gt;사고 직후 한국KPS 측은 김씨의 사고 당시 작업에 대해 “오늘 작업 계획에 포함돼 있지 않은 업무를 하던 중 사고가 발생한 것으로 보인다”고 밝혔다. 한국파워O&amp;amp;M 현장 소장도 “사고 당시 작업 지시가 없어 같이 있지 않았다”고 진술했다.&lt;br&gt;&lt;br&gt;하지만 태안화력 비정규직 사망사고 대책위원회는 “2인 1조 작업이 지켜지지 않았고, 오더가 없으면 작업할 수 없는 구조”라고 했다.&lt;br&gt;&lt;br&gt;숨진 김씨는 소속 업체에서 유일한 선반 담당으로 근무해온 것으로 알려졌다.&lt;br&gt;&lt;br&gt;이에 경찰은 사고 당일부터 이전 보름여 간 작업장 방범카메라(CCTV) 영상을 확보해 평소 김씨의 작업 형태와 업무 지시 과정을 분석하고 있다.&lt;br&gt;&lt;br&gt;이와 함께 경찰은 사고가 난 기계의 고속 회전축 덮개가 열린 채 작동된 사실을 확인하고 한국산업안전보건공단에 기계의 정밀 조사를 의뢰했다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “김씨의 옷가지가 회전축에 빨려 들어가며 사고가 발생한 것으로 보인다”면서 “기계 작동에 문제가 있었는지 공단 측과 확인하고 있다”고 말했다.&lt;br&gt;&lt;br&gt;김씨의 정확한 사인을 확인하기 위해 경찰은 국립과학수사연구원에 시신 부검을 의뢰할 예정이었지만 유족 조사 등에 따라 미뤄졌다.&lt;br&gt;&lt;br&gt;김씨는 지난 2일 오후 2시 30분쯤 태안화력발전소 내 종합정비동 1층에서 선반 작업 중 기계에 옷이 끼이면서 숨졌다.&lt;br&gt;&lt;br&gt;사고 대책위는 4일 오후 7시부터 양일간 태안버스터미널에서 ‘태안화력 故 김충현 비정규직 노동자 추모문화제’를 진행한다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>울산서 뺑소니 사망 사고 내고 회사 출근한 40대 구속</title>
+      <link>https://www.chosun.com/national/incident/2025/06/04/SFZS2CSFQZDSXLPXLP7E5WY2NI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/06/04/SFZS2CSFQZDSXLPXLP7E5WY2NI/</guid>
+      <dc:creator>정성원 기자</dc:creator>
+      <description>아침 출근길에 뺑소니 사망 사고를 내고도 태연하게 회사에 출근한 40대가 수 구속됐다.
+울산 북부경찰서는 특정범죄 가중처벌 등에 관한 법률상 도주치사 혐의로 40대 A씨를 구속했다고 4일 밝혔다.
+</description>
+      <pubDate>Wed, 04 Jun 2025 09:49:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/L4GEXC5HOZAC5NA5TDDI7RQ23U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;아침 출근길에 뺑소니 사망 사고를 내고도 태연하게 회사에 출근한 40대가 구속됐다.&lt;br&gt;&lt;br&gt;울산 북부경찰서는 특정범죄 가중처벌 등에 관한 법률상 도주치사 혐의로 40대 A씨를 구속했다고 4일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 2일 오전 7시 7분쯤 울산 북구 신명동 한 도로에서 자신의 차량을 운전하다가 앞서 달리던 전동 카트를 추돌하고 도주한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;이 사고로 60대 전동카트 운전자 B씨가 숨지고 함께 타고 있던 B씨의 아내가 크게 다쳤다.&lt;br&gt;&lt;br&gt;A씨는 사고 이후 119 신고 외에는 별다른 구호 조치를 하지 않은 채 달아났으나 경찰은 사고 현장 인근 방범카메라(CCTV)에서 A씨의 차량 번호를 특정, 사고 발생 8시간 30분 만에 직장에 있던 A씨를 긴급 체포했다.&lt;br&gt;&lt;br&gt;경찰은 A씨의 음주나 약물 복용 여부 확인 등 조사를 마무리하는 대로 사건을 검찰에 송치할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>수능 6월 모의평가, 역대 최다 50만명 응시 </title>
+      <link>https://www.chosun.com/national/education/2025/06/04/Q2LDR3TYFZCXVAFRMJONS73ZWA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/education/2025/06/04/Q2LDR3TYFZCXVAFRMJONS73ZWA/</guid>
+      <dc:creator>김민기 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 04 Jun 2025 08:38:56 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5KHMFPCNLFIO5YHAQISFRQHMTM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;4일 오전 대구 수성구 대구여자고등학교에서 고3 학생이 6월 모의평가 1교시 국어 영역 시험을 앞두고 수험생 정보를 적고 있다.뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;4일 2026학년도 대학수학능력시험 전국연합학력평가(모의평가)가 열렸다. 이번 6월 모의평가는 역대 최다 응시생을 기록했다.&lt;br&gt;&lt;br&gt;수능 출제기관인 한국교육과정평가원 주관으로 열리는 모의평가는 수험생들이 수능을 앞두고 자신의 실력을 파악하는 기회다. 올해 6월 모의평가는 당초 3일 열릴 예정이었으나 조기 대선이 확정됨에 따라 하루 밀린 이날 열렸다.&lt;br&gt;&lt;br&gt;전국 2119개 고등학교와 511개 학원에서 동시에 열린 이번 시험엔 총 50만3572명이 응시했다. 모의평가 관련 통계가 발표된 2011학년도 이후 역대 최다다. 출생률이 이례적으로 늘었던 ‘황금돼지띠’ 2007년생이 고3이 되며 수험생이 늘어난 영향이다. 고3 재학생이 41만3685명(82.2%), 졸업생·검정고시생이 8만9887명(17.8%)으로 집계됐다.&lt;br&gt;&lt;br&gt;진학사는 “지난 수능과 대비해 국어, 영어는 유사한 난이도로 출제됐고, 수학은 다소 어려웠다”고 했다. 종로학원은 “국어·수학은 수능보다 비슷하거나 다소 어려웠고, 영어는 쉬웠다”고 평가했다.&lt;br&gt;&lt;br&gt;성적은 7월 1일 통지된다. 다음 모의평가인 9월 시험은 9월 3일 열린다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>술도 마약도 아니었다… 오토바이 치고 횡설수설 운전자, 알고 보니</title>
+      <link>https://www.chosun.com/national/national_general/2025/06/04/W736ESBIURCXBJTMKA4TSXIWLU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/04/W736ESBIURCXBJTMKA4TSXIWLU/</guid>
+      <dc:creator>박선민 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 04 Jun 2025 08:22:32 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TNYF2MZBHNEBBBSQNDZPUMKAQM.png"&gt;&lt;figcaption&gt;&lt;small&gt;수면제를 복용한 운전자가 차량에서 내리고 있다. /경찰청 유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;수면제를 복용한 상태로 차량을 운전하다 사고를 낸 운전자가 검찰에 송치됐다. &lt;br&gt;&lt;br&gt;4일 경찰청 유튜브에 따르면, 지난 4월 서울의 한 골목길 이면도로에서 차량 한 대가 비틀거리며 대각선 주행을 하다가 오토바이와 충돌하는 상황이 벌어졌다. 당시 상황이 담긴 영상을 보면, 운전자 A씨는 비정상적인 주행을 계속하다 인도 쪽 안전 펜스를 들이받기도 했다. &lt;br&gt;&lt;br&gt;오토바이 운전자의 정차 요구에 A씨가 하차하긴 했으나, 이후에도 비틀거리며 횡설수설하는 등 이상 행동을 이어갔다. 아예 오토바이 운전자를 무시하고 현장을 벗어나기도 했다. A씨는 신고를 받고 출동한 경찰 앞에서도 초점 없는 눈빛과 부자연스러운 걸음걸이를 보였다. &lt;br&gt;&lt;br&gt;이에 경찰은 A씨의 음주운전을 의심하고 혈중알코올농도 검사를 진행했으나, 별다른 수치가 나오지 않았다. 마약 가능성을 의심해 마약 간이 시약 검사를 했을 때도 마찬가지였다. 소변 검사도 진행했지만, 마약 음성 반응이 나왔다. &lt;br&gt;&lt;br&gt;조사 결과 A씨는 의료기관에서 처방받은 수면제를 복용한 상태에서 운전한 것으로 확인됐다. &lt;br&gt;&lt;br&gt;처방받은 약이라도 정상 운전을 못하는 상태에서 운전하면 특정범죄가중처벌법 등에 의해 처벌받을 수 있다. 특정범죄가중처벌법 제5조의11(위험 운전 등 치사상)은 음주 또는 약물의 영향으로 운전이 곤란한 상태에서 사람을 다치게 하면 1년 이상 15년 이하의 징역 또는 1000만원 이상 3000만원 이하의 벌금형에 처하도록 규정한다. 또 도로교통법 제45조(과로한 때 등의 운전 금지)는 음주 운전 외에 과로, 질병, 약물의 영향 등으로 정상적으로 운전하지 못할 우려가 있는 상태에서 운전해선 안 된다고 명시하고 있다. &lt;br&gt;&lt;br&gt;실제로 지난 1일 졸피뎀 성분이 포함된 수면제를 복용한 뒤 운전하다 사고를 내 사상자 8명을 발생하게 한 운전자가 특정범죄가중처벌법상 위험운전치사상 혐의로 징역형의 집행유예를 선고받기도 했다. 당시 재판부는 “피고인은 수면제를 복용해 정상적인 운전이 곤란한 상태였고, 이에 따라 적정한 속도로 운전하지 못하고 조향 및 제동장치도 적절하게 조작하지 못해 사고를 일으켰다는 점을 충분히 인정할 수 있다”고 판시했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>[속보]이주호, 李대통령에 전체 국무위원 사의 표명</title>
       <link>https://www.chosun.com/national/education/2025/06/04/YT3GL5HI5RH5DJIEIAW73WBBSI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/education/2025/06/04/YT3GL5HI5RH5DJIEIAW73WBBSI/</guid>
@@ -837,70 +907,6 @@
       <description/>
       <pubDate>Mon, 02 Jun 2025 15:52:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Y5B52ODNLBBARJ4IBUJAXHPH54.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[인사] 중소벤처기업부 외</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2025/06/03/ROW3FLLXYZBKNCBUEMMG2BJ6IE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2025/06/03/ROW3FLLXYZBKNCBUEMMG2BJ6IE/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Mon, 02 Jun 2025 15:52:00 +0000</pubDate>
-      <content:encoded>▲중소벤처기업부◇과장급 전보▷글로벌성장정책과장 임동우&lt;br&gt;&lt;br&gt;▲고용노동부◇과장급 전보▷산업재해보상보험재심사위원회 사무국장 박경희&lt;br&gt;&lt;br&gt;▲여성가족부◇서기관 승진▷감사인사담당관실 성동천&lt;br&gt;&lt;br&gt;▲한국생명공학연구원◇분원장급▷전북분원장 박두상◇소장·본부장급▷합성생물학연구소장 성봉현▷AI바이오의약연구소장 지승욱▷국가아젠다연구소장 손미영▷바이오경제혁신사업본부장 이홍원▷국가바이오인프라사업본부장 이철호▷경영기획본부장 남경백▷행정관리본부장 박희▷대외협력본부장 김정석◇단장·센터장급▷바이오파운드리사업단장 이승구▷바이오디자인교정연구센터장 우의전▷유전체맞춤의학연구센터장 김선영▷희귀난치질환표적연구센터장 김정훈▷디지털바이오센터장 김대수▷중소벤처기업지원센터장 김형철▷바이오상용화센터장 이은교▷핵산치료제연구센터장 조성찬▷기능성바이오소재연구센터장 권형준▷미생물기능연구센터장 오백록▷생물자원센터장 이주혁◇실장급▷연구정책실장 장은석▷예산운영실장 강명수▷사업지원실장 성주희▷지식정보실장 유재덕▷인재개발실장 강석배▷총무회계실장 석유경▷구매자산실장 조인묵▷글로벌협력실장 조기현▷홍보소통실장 최상▷학연협력실장 민세홍▷정책지원실장 신용환&lt;br&gt;&lt;br&gt;▲한국지질자원연구원▷감사부장 이건자&lt;br&gt;&lt;br&gt;▲부산대▷학생부처장 최진혁&lt;br&gt;&lt;br&gt;▲동아대▷교학부총장·산학협력단장 김성재▷입학관리처장 전종배▷건강과학대학장 조완섭▷학술정보원장·출판부장 옥수열▷석당뮤지엄관장 직무대리 이승혜&lt;br&gt;&lt;br&gt;▲한국폴리텍대학▷기획이사 정경훈&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>서울과학종합대학원대학교 최용주 11대 총장 취임</title>
-      <link>https://www.chosun.com/national/people/2025/06/03/V4GYBEZ56VHMFO4TCZPG4TEXOA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/06/03/V4GYBEZ56VHMFO4TCZPG4TEXOA/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Mon, 02 Jun 2025 15:52:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QRN62F3S2ZBC3C5KTL7K2PNNHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울과학종합대학원대학교(aSSIST)는 2일 최용주 11대 총장의 취임식을 개최했다고 밝혔다. 임기는 2년. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[부음] 김하도 前 관악초 교장 별세 외</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2025/06/03/5D6HOWKEZNHCVMDZSN2TDB26NI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2025/06/03/5D6HOWKEZNHCVMDZSN2TDB26NI/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Mon, 02 Jun 2025 15:52:00 +0000</pubDate>
-      <content:encoded>▲&lt;b&gt;김하도&lt;/b&gt; 前 관악초 교장 별세, &lt;b&gt;김수호&lt;/b&gt; 前 포스코 자문위원·&lt;b&gt;김경호&lt;/b&gt; 홍익대 명예교수·&lt;b&gt;김영미&lt;/b&gt; 부친상=1일14시25분 여의도성모병원, 발인 4일11시, (02)3779-1526&lt;br&gt;&lt;br&gt;▲&lt;b&gt;손해익&lt;/b&gt; 별세, &lt;b&gt;박춘화&lt;/b&gt; 남편상, &lt;b&gt;손현석&lt;/b&gt; 前 CWN 산업2부장·&lt;b&gt;손정석&lt;/b&gt; 지니틱스 수석연구원 부친상, &lt;b&gt;정유민&lt;/b&gt; 서울 중구청 주무관 시부상=1일1시35분 경기 용인세브란스병원, 발인 3일8시30분, (031)678-7628&lt;br&gt;&lt;br&gt;▲&lt;b&gt;황재덕&lt;/b&gt; 별세, &lt;b&gt;황금대&lt;/b&gt;·&lt;b&gt;황금천&lt;/b&gt; 동아일보 인천취재본부 부장·&lt;b&gt;황금민&lt;/b&gt; 크레템 전무 부친상=2일3시30분 인천 가천대 길병원, 발인 4일6시30분, (032)460-3444&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문은 선생님] [사소한 역사] 히말라야 찾은 산악인 안내하는 민족… 첫 에베레스트 정상 등반도 함께 했죠</title>
-      <link>https://www.chosun.com/national/nie/2025/06/03/MLEAOJID2NEB7DJPBRJLLW3PSE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2025/06/03/MLEAOJID2NEB7DJPBRJLLW3PSE/</guid>
-      <dc:creator>황은하 상경중 역사 교사</dc:creator>
-      <description/>
-      <pubDate>Mon, 02 Jun 2025 15:50:00 +0000</pubDate>
-      <content:encoded>최근 한 예능 프로그램 출연자가 네팔에 가서 셰르파(Sherpa)의 삶을 체험한 장면이 화제가 됐어요. 거친 산길과 높은 구름다리를 건너며 에베레스트가 보이는 히말라야 산중 마을까지 걸어가는 모습이 인상적이었죠. 셰르파는 히말라야의 높은 봉우리를 오르는 등반가들을 안내하고 지원하는 역할을 한답니다. &lt;br&gt;&lt;br&gt;많은 사람이 ‘등반 안내가’로만 알고 있는 셰르파는 원래 네팔, 인도 북부, 중국 티베트 지역에 거주하는 산악 민족의 이름이에요. 현재 세계적으로 26만명 정도가 살고 있어요. 셰르파는 티베트어로 동쪽을 뜻하는 ‘셰르(sher)’와 사람을 뜻하는 ‘파(pa)’가 합쳐진 말로, ‘동쪽 사람들’이라는 뜻이에요. 어원처럼 이들은 네팔 동쪽 티베트 지역에서 네팔로 이주해 온 사람들로, 티베트어에서 유래한 ‘셰르파어’를 쓰고 티베트 불교를 믿는 등 티베트의 문화적 전통을 일부 갖고 있어요. 이들은 15세기 무렵 네팔 지역으로 이주해 소금이나 양털, 쌀 등을 교역하는 상인으로, 야크와 소를 키우는 목동으로, 감자와 메밀 등을 재배하는 농부로 활동했답니다.&lt;br&gt;&lt;br&gt;현재 셰르파들의 중심지는 에베레스트 남쪽의 산중 마을 ‘남체 바자르’예요. ‘바자르(Bazaar)’는 페르시아어에서 유래한 말로 ‘시장’을 뜻하지요. 이곳이 에베레스트로 가는 관문이자 히말라야와 티베트 등 여러 지역을 연결하는 교역의 중심지라서 붙은 말로 보입니다. &lt;br&gt;&lt;br&gt;고산지대에서 물건을 교역하던 셰르파들은 20세기에 새로운 역할을 맡게 됩니다. 바로 세계에서 히말라야를 찾아온 산악인들을 안내하는 일이었어요. 이후 셰르파라는 이름은 히말라야 등산객들의 짐을 나르고 길을 안내하는 사람이라는 의미로 더 많이 쓰이게 됐지요. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SD5VOCBUHVGHLB22HAPMBB6DDA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;1953년 에베레스트 등정에 성공한 등반가 에드먼드 힐러리(왼쪽)와 네팔인 셰르파 텐징 노르가이. /로이터 연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;셰르파들이 유명해진 건 1953년 에베레스트를 최초로 오른 영국의 에드먼드 힐러리 원정대와 셰르파 텐징 노르가이 덕분이었어요. 사람들은 힐러리와 셰르파 텐징 노르가이 중 누가 먼저 정상에 도착했는지 궁금해했어요. 사실 그날 에베레스트 정상 바로 밑에 먼저 도착한 건 셰르파 텐징이었대요. 텐징은 뒤처진 힐러리를 기다렸다가 먼저 정상을 밟도록 해줬다고 합니다.&lt;br&gt;&lt;br&gt;셰르파들은 짐까지 지고 힘들게 산을 오르면서도 때로는 산악인보다 뛰어난 등반 실력을 발휘하죠. 그런데도 엘리트 산악인으로 인정받지 못하고 있어요. 작년 18세 나이로 세계 최고봉 14곳을 오른 셰르파 니마 린지는 “셰르파들은 여전히 서양 등반가들을 돕는 사람이라는 인식에 머무르고 있다”고 말했죠. 등반에 뛰어난 재능이 있어도 후원을 받지 못해 엘리트 산악인으로 나서기 힘든 불공평한 현실을 호소한 것이지요. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문은 선생님] [뉴스 고사성어] 사치 부리고 폭정 휘두른 주나라 유왕… 백성들은 늘 마음 졸이며 지켜봤어요</title>
-      <link>https://www.chosun.com/national/nie/2025/06/03/L5N6U2QPNNDL3IEEC4JQHEOC4I/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2025/06/03/L5N6U2QPNNDL3IEEC4JQHEOC4I/</guid>
-      <dc:creator>채미현 박사·연세대 중국연구원 </dc:creator>
-      <description/>
-      <pubDate>Mon, 02 Jun 2025 15:50:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/J6BT7MFUWNGFTGNKNU64FMY3FQ.png"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=이철원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최근 도널드 트럼프 미국 대통령이 하버드 대학에 대한 정부 지원을 끊고, 외국 유학생 등록 자격을 박탈하겠다고 밝혔어요. 하버드대가 반(反)유대주의를 방조하고 있다는 이유로 압박을 넣은 것이었죠. 정부 조치는 연방 법원의 시행 금지 명령으로 잠시 제동이 걸렸지만, 여전히 유학생들은 초조하게 마음을 졸이고 있을 겁니다. 학생들의 이런 심정을 전전긍긍(戰戰兢兢)이라는 고사성어로 표현할 수 있어요. ‘싸울 전(戰)’과 ‘떨릴 긍(兢)‘ 자를 쓰지요. ’싸울 전(戰)’ 자엔 ‘두려워서 떨다’라는 뜻도 있습니다. 전전긍긍은 두려워서 벌벌 떨며 조심조심한다는 말입니다. &lt;br&gt;&lt;br&gt;이 사자성어는 기원전 11세기부터 3세기까지 존속한 것으로 알려진 고대 중국의 주(周)나라와 관련 있습니다. 주나라 유왕(幽王)은 사치와 향락을 즐겼고 폭정을 휘두른 인물이었어요. 한번은 유왕이 사랑하는 여인 포사(褒姒)를 웃게 하려고 제후들을 골탕 먹이기로 합니다. 유왕은 전쟁이 일어나지도 않았는데 거짓으로 봉화를 올렸어요. 이를 본 제후국에선 주나라를 돕기 위해 서둘러 군대를 이끌고 왔지만, 곧 장난이었음을 알고 허탈하게 돌아갔지요. 이후에도 유왕의 봉홧불 놀이는 몇 번 더 반복됐습니다. 얼마 후엔 적군이 진짜 공격해 들어와서 봉홧불을 피웠지만, 이미 여러 번 속은 제후들은 이번에도 장난일 것이라 생각하고 아무도 도우러 오지 않았어요. 마치 ‘양치기 소년’처럼 신뢰를 잃은 유왕은 결국 적국에 살해당했고 주나라는 멸망합니다.&lt;br&gt;&lt;br&gt;‘전전긍긍’이라는 표현은 유교 경전이자 중국 최초 시가집인 ‘시경’에 실린 시 한 구절에서 나왔습니다. 유왕의 시대를 풍자한 대목입니다. “두려워서 벌벌 떨며 조심하는 것이 깊은 연못을 마주한 듯하고 살얼음 위를 걷는 듯하네(戰戰兢兢, 如臨深淵, 如履薄氷).” 유왕의 포악함 앞에서 백성들은 매일 불안에 떨었는데, 그들의 심정이 마치 깊은 연못 앞에 서 있다가 순간의 방심으로 물에 빠질까 걱정하고 살얼음 위를 걷는 듯 조마조마하다고 표현한 것이지요. &lt;br&gt;&lt;br&gt;전전긍긍과 비슷한 말로 노심초사(勞心焦思)와 좌불안석(坐不安席)이 있습니다. 노심초사는 몹시 마음을 쓰며[勞心] 애를 태운다[焦思]는 뜻입니다. 좌불안석은 앉아 있어도 마음이 편하지 않다는 말로, 마음이 불안하거나 걱정스러워서 안절부절못하는 모양을 표현하지요.&lt;br&gt;&lt;br&gt;미국 대통령이 유학생들을 쫓아내려는 현 상황과 비슷한 일이 옛날에도 있었습니다. 전국 시대 진(秦)나라에선 타국 출신 관리들을 모조리 국외로 내보내라는 왕령이 내려졌어요. 그러자 초(楚)나라 출신으로 진나라에서 관리를 하고 있던 이사(李斯)가 왕령의 부당함을 조목조목 따지는 글을 써서 왕에게 올렸어요. &lt;br&gt;&lt;br&gt;글의 핵심은 ‘유능한 인재를 국외로 유출하는 건 오히려 주변국을 돕는 어리석은 일이니 당장 그만두어야 한다’는 것이었어요. 또 ‘큰 산은 작은 흙더미를 마다하지 않았기에 그 거대함을 이룰 수 있었고, 넓은 바다는 작은 물줄기를 마다하지 않았기에 그 깊이를 이룰 수 있었다’라고도 했습니다. 비판을 받아들여 정책을 철회한 진나라의 왕은 결국 천하를 통일하지요. 그가 바로 진시황이었습니다. 진정한 강자는 배척이 아닌 수용을 선택합니다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문은 선생님] [재미있는 과학] 물처럼 흐르고 생분해되기도… 입거나 붙이는 배터리의 세계</title>
-      <link>https://www.chosun.com/national/nie/2025/06/03/2HPD3IO5LNBEZFMI6MK52EQWC4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2025/06/03/2HPD3IO5LNBEZFMI6MK52EQWC4/</guid>
-      <dc:creator>이윤선 과학 칼럼니스트, 기획·구성=윤상진 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 02 Jun 2025 15:50:00 +0000</pubDate>
-      <content:encoded>도로 위에서 조용히 달리는 전기차, 요즘은 정말 자주 만날 수 있지요? 전기차처럼 전기를 사용해 작동하는 기기는 우리 일상에 점점 더 많아지고 있는데요. 최근엔 옷처럼 입는 웨어러블 기기, 물속을 유영하는 로봇처럼 다양한 전자기기가 등장하며 배터리도 새로운 모양으로 진화하고 있답니다. 과학자들은 물처럼 흐르고, 땅에서 썩는 배터리도 개발했어요. 오늘은 다양한 형태로 발전하고 있는 배터리에 대해 알아보겠습니다.&lt;br&gt;&lt;br&gt;&lt;b&gt;물처럼 흐르는 액체 배터리&lt;/b&gt;&lt;br&gt;&lt;br&gt;최근 ‘물처럼 흐르는 배터리’가 등장했어요. 미국 코넬대 연구팀은 작년 11월 해파리처럼 유연하게 물속을 헤엄치는 로봇을 선보였는데요. 이 로봇엔 아주 특별한 배터리가 들어 있었습니다. 배터리의 이름은 ‘레독스 흐름 전지’예요. 액체가 순환하며 전기를 만드는 새로운 형태의 배터리죠. &lt;br&gt;&lt;br&gt;스마트폰이나 노트북, 전기차에서 흔히 사용하는 배터리는 ‘리튬이온 배터리’입니다. 이 배터리는 양극과 음극, 전해액, 분리막으로 구성돼 있어요. 분리막에 미세 구멍이 나 있는데, 전해액 속에 있는 리튬이온이 이 구멍을 통과해 양극과 음극 사이를 이동하면서, 전자가 흐르게 되고 그 결과 전기가 발생합니다. 이 배터리는 작고 가벼우면서 많은 에너지를 담을 수 있는 것이 장점이지만, 보통 단단한 케이스에 싸여 있어서 자유롭게 휘거나 구부리기 어려운 것이 단점이에요.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BRPWBSUEVFC5TK3UVYRQPETJBQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=양인성&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘레독스 흐름 전지’는 리튬이온 배터리와 마찬가지로 이온의 이동으로 전류가 흘러요. 하지만 작동 방식이 다르죠. 이 배터리 안엔 ‘음극액’과 ‘양극액’이라는 두 가지 전해액이 들어 있어요. 이 두 액체는 배터리 안에서 얇은 분리막을 사이에 두고 마주 보게 배치됩니다. 분리막엔 미세한 통로가 있어 전해액 속 이온이 오가는데, 이를 통해 전류가 흐르게 됩니다. &lt;br&gt;&lt;br&gt;음극액과 양극액은 또 다른 호스를 통해 해파리 로봇 몸체와 연결돼 있는데요, 로봇 안에 장착된 펌프가 이 액체들을 밀어내면서, 배터리 탱크와 로봇 몸체를 계속 순환하게 만들죠. 이 방식은 마치 심장이 펌프질을 해서 혈액을 온몸으로 순환시키는 원리와 비슷해요. 혈액이 산소와 영양분을 운반하듯, 전해액이 순환하면서 로봇이 움직일 수 있죠. &lt;br&gt;&lt;br&gt;이 배터리는 몸체가 단단하지 않고 유연한 ‘소프트 로봇’에 제격입니다. 특히 이 배터리는 전해액을 밀어내는 펌프의 힘이 곧 로봇을 움직이는 동력이 되기도 해요. 덕분에 별도의 전기 모터나 구동 장치를 달지 않아도 되니, 로봇을 더 가볍고 단순하게 설계할 수 있어요.&lt;br&gt;&lt;br&gt;연구팀은 이 배터리를 이용해 만든 로봇으로 해양 환경과 해저 생물을 잘 관찰할 수 있을 것으로 기대하고 있어요. 해파리 로봇은 몸 전체가 유연한 재질로 이뤄져 자연스럽게 헤엄을 치는 데다, 소음도 적죠. 그래서 물속 생물들이 위협을 느끼지 않는다는 것이 큰 장점이에요.&lt;br&gt;&lt;br&gt;&lt;b&gt;치약처럼 짜서 쓰는 배터리&lt;/b&gt;&lt;br&gt;&lt;br&gt;스웨덴 린셰핑대의 연구팀은 치약처럼 ‘짜서 쓰는’ 배터리를 개발했어요. 이 배터리는 원하는 모양으로 만들어 어디든 쉽게 부착할 수 있다는 것이 장점이에요. 그래서 팔에 붙이는 의료 기기나 옷처럼 입는 웨어러블 전자 기기처럼 움직임이 많은 기기에 잘 어울리는 배터리에요. &lt;br&gt;&lt;br&gt;이 배터리의 핵심 재료는 두 가지예요. 첫째는 ‘전도성 고분자’입니다. 이는 전기가 잘 통하는 특수한 플라스틱이에요. 배터리에서 전기를 모았다가 흘려보내는 전극 역할을 하지요. 다른 하나는 ‘리그닌’이라는 물질인데요. 리그닌은 나무에 들어 있는 자연 성분으로, 특수 처리하면 전류를 흐르게 하는 데 필요한 ‘전해질’로 사용할 수 있지요. &lt;br&gt;&lt;br&gt;연구팀은 먼저 전도성 고분자와 리그닌을 잉크처럼 흐르는 젤 형태로 가공했어요. 그런 다음 두 물질을 섞어 반죽처럼 만들었습니다. 여기에 이온의 이동을 도와주는 촉매제를 섞어 각각 양극 반죽과 음극 반죽을 만들었어요. 그다음 양극 반죽과 분리막, 음극 반죽을 마치 햄버거처럼 층 구조로 쌓아 올려 배터리를 만들었어요. &lt;br&gt;&lt;br&gt;완성된 배터리는 얇은 검정색 비닐처럼 생겼는데, 유연하고 부드러워서 원하는 모양으로 만들 수 있어요. 길이를 늘리거나 구부려도 망가지지 않고 원래 모양으로 되돌아왔죠. 연구팀은 이 배터리를 웨어러블 기기나 인체 삽입형 의료 기기 등에 활용할 수 있을 것이라고 보고 있어요. &lt;br&gt;&lt;br&gt;&lt;b&gt;자연에서 분해되는 친환경 배터리&lt;/b&gt;&lt;br&gt;&lt;br&gt;자연에서 생분해되는 ‘친환경 배터리’도 있어요. 싱가포르 기업 ‘플린트’가 만든 ‘종이 배터리’입니다. 배터리의 몸체는 얇은 셀룰로오스 종이입니다. 셀룰로오스는 나무에서 추출한 천연 섬유로, 분해가 잘되는 친환경 소재예요. 과학자들은 셀룰로오스로 만든 종이의 앞뒤에 ‘하이드로겔’을 발랐습니다. 하이드로겔은 전해액 역할을 하지요.&lt;br&gt;&lt;br&gt;하이드로겔 위로 한쪽에는 망간 산화물을, 반대쪽에는 아연 가루를 발랐어요. 망간은 양극, 아연은 음극 역할을 합니다. 즉, 종이가 배터리의 몸체이면서 양극과 음극을 분리하는 분리막 역할도 함께 하는 거예요. 전극이 외부에 직접 노출되지만, 감전 위험은 매우 낮다고 알려져 있어요. 그래서 소형 센서나 웨어러블 기기 등 전기가 소량만 필요한 장치에는 사용할 수 있다고 합니다. &lt;br&gt;&lt;br&gt;종이 배터리도 자유롭게 구부릴 수 있어서 웨어러블 기기나 스마트 센서처럼 유연성이 필요한 전자기기에 쓸 수 있어요. 또 불이 잘 붙지 않는 물질들로 구성돼 있어 비교적 안전한 것도 장점입니다. 종이를 사용했기 때문에 배터리를 다 쓴 뒤 땅에 묻으면 6주 정도 이후 자연적으로 분해되지요. &lt;br&gt;&lt;br&gt;종이 배터리와 치약 배터리는 전력 저장량이 많지 않아 몇 시간 정도만 사용 가능한 게 단점이에요. 또 충전해서 다시 사용하는 게 어렵지요. 이 배터리들의 에너지 효율을 높이는 것이 앞으로의 과제입니다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/AY7STEVKBBEM3OORC5ZZ3OVX3M.jpg?auth=d7bc45e15dbb4bebb2bed63a8ec88695bc06a28fff40d9e590c0053f467d30c6&amp;smart=true&amp;width=1200&amp;height=675" type="image/jpeg" height="675" width="1200"/>
-    </item>
-    <item>
-      <title>[두근두근 뇌 운동] [2634] 양손으로 또박또박</title>
-      <link>https://www.chosun.com/national/nie/2025/06/03/4R5CBJAI3BAKHGBBORRS55T4XQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2025/06/03/4R5CBJAI3BAKHGBBORRS55T4XQ/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Mon, 02 Jun 2025 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/57RVTEJ4FVBOZPPTTAQXCJOEPA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>‘한국형 전투기 자료유출’ 인도네시아 기술자, 형사 처분 면했다</title>
