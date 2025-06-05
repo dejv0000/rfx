@@ -13,6 +13,51 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>尹, ‘계엄 피해 위자료’ 청구한 시민들 상대로 ‘소송비 담보 제공’ 신청</title>
+      <link>https://www.chosun.com/national/court_law/2025/06/05/CIF2OE6JXVFAFD76PRQTW2VZGE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/05/CIF2OE6JXVFAFD76PRQTW2VZGE/</guid>
+      <dc:creator>박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 05 Jun 2025 13:27:44 +0000</pubDate>
+      <content:encoded>시민 105명이 “비상계엄으로 정신적 손해를 입었다”며 윤석열 전 대통령을 상대로 손해배상 소송을 제기한 가운데, 윤 전 대통령이 “소송 비용을 미리 보전해달라”고 법원에 신청했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YKD5THDRJA62BC5WRRT7S5MJPI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령과 김건희 여사가 제 21대 대통령 선거일인 지난 3일 오전 서울 서초구 원명초등학교에 마련된 서초4동 제3투표소에서 투표를 마치고 이동하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;5일 법조계에 따르면, 윤 전 대통령은 이날 법무법인 도시 이금규 변호사를 상대로 소송 비용 담보 제공을 신청했다. 이 변호사는 지난해 12월 시민 105명을 대리해 “비상계엄 선포로 인한 정신적 피해를 배상하라”며 윤 전 대통령을 상대로 인당 10만원씩 총 1050만원을 지급하라는 손해배상 소송을 제기했다. 이 변호사는 윤 전 대통령 탄핵 심판에서 국회 측 대리인을 맡기도 했다. &lt;br&gt;&lt;br&gt;소송 비용 담보 제공 신청은 피고가 요청하면 법원이 원고(시민)에게 “소송비용을 보전하라”고 명령할 수 있는 제도다. 원고 패소 시 발생할 피고(윤 전 대통령) 측 소송 비용을 원고에게 미리 담보로 제공해야 하는 것이다. 통상 원고의 주장이 터무니없거나 소송이 무리하게 제기됐다고 판단할 때 피고 측이 신청한다. &lt;br&gt;&lt;br&gt;만약 법원이 담보 제공을 명령했는데도 원고가 정해진 기간 안에 응하지 않으면 재판부는 변론 없이 각하 판결을 내릴 수 있다. 소송 비용 담보 제공 여부는 통상 첫 변론 전에 결정된다. 이 사건 첫 변론은 오는 27일 예정돼 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘티메프 사태’ 해피머니 발행사 전·현직 대표 구속영장 기각</title>
+      <link>https://www.chosun.com/national/court_law/2025/06/05/KGOTZLX4IBBZFM37S5XLQD65EM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/05/KGOTZLX4IBBZFM37S5XLQD65EM/</guid>
+      <dc:creator>김나영 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 05 Jun 2025 13:46:12 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CIAZWHNIQBHMLASMXH66EZDRPU.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초동 서울중앙지방법원 청사의 모습./이명원 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;티몬·위메프 정산 지연 사태로 사용이 중지된 해피머니 상품권 운영사의 전·현직 대표에 대한 구속영장이 5일 기각됐다.&lt;br&gt;&lt;br&gt;이정재 서울중앙지법 영장전담 부장판사는 이날 사기 등 혐의를 받는 해피머니아이엔씨 최병호 전 대표와 류승선 대표에 대한 구속영장 실질심사를 연 뒤 “피의자를 구속하여야 할 필요성 및 상당성을 인정하기 어렵다”며 구속영장을 기각했다.&lt;br&gt;&lt;br&gt;이 부장판사는 “범죄사실에 대한 피의자의 범행 인식 등 그 범죄 성립 및 혐의에 대해 다툼의 여지가 있다”며 “피의자에게 방어권을 보장해 줘야 할 필요성이 있는 점, 사무실 및 주거지 등에 대한 압수수색을 통해 물적 증거자료는 상당부분 수집되었고, 관련자들의 진술도 상당부분 이뤄진 점을 종합해 판단했다”고 밝혔다.&lt;br&gt;&lt;br&gt;작년 해피머니 상품권 구매자들은 티몬과 위메프에서 할인가로 상품권을 구매했으나 정산이 지연돼 환불받지 못하고 사용도 정지됐다며 류 대표 등을 사기 혐의로 경찰에 고소했다. 이에 경찰은 작년 11월 서울 논현동에 있는 해피머니아이앤씨 본사 사무실 등 8곳에 대해 압수수색을 벌이는 등 수사를 진행했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>전북 군산 공장서 일하던 50대 노동자 추락사</title>
+      <link>https://www.chosun.com/national/incident/2025/06/05/VDPJM4S4ZBCE5KJZZGN6ESG7G4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/06/05/VDPJM4S4ZBCE5KJZZGN6ESG7G4/</guid>
+      <dc:creator>이승규 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 05 Jun 2025 12:56:31 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MNAVQ33BFPKBNA5VM3H52Z4ATI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전북 군산의 한 공장에서 50대 노동자가 추락해 숨졌다.&lt;br&gt;&lt;br&gt;5일 군산경찰서 등에 따르면 이날 오전 11시쯤 군산시 오식도동의 한 에너지 설비 공장에서 사다리를 타고 일하던 하청업체 소속 노동자인 50대 A씨가 약 5m 아래로 추락했다.&lt;br&gt;&lt;br&gt;A씨는 머리 등을 다친 채 병원으로 이송됐지만 숨졌다. A씨는 공장 설비의 녹을 제거하기 위해 사다리를 오른 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰은 정확한 사고 경위와 현장 안전 관리 규정 등을 수사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>합성대마 9차례 걸쳐 사려 한 이철규 아들... 2차례 구매 성공</title>
+      <link>https://www.chosun.com/national/court_law/2025/06/05/M4AOUTL4D5GW5JQCVDBOAQRWNY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/05/M4AOUTL4D5GW5JQCVDBOAQRWNY/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 05 Jun 2025 11:32:22 +0000</pubDate>
+      <content:encoded>합성 대마 투약 혐의 등으로 구속 기소된 국민의힘 이철규 의원 아들이 최소 9차례 대마 매매를 시도한 것으로 파악됐다. 실제 거래가 이뤄진 것은 두 번으로 조사됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EC4OI7X6BFIBZOW5NRCKPRTJ2Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이철규 국민의힘 의원 아들 이모씨가 지난 4월 23일 서울 서초구 서울중앙지방법원에서 영장실질심사를 마치고 청사 밖으로 나서고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;조국혁신당 박은정 의원이 5일 법무부에서 제출받은 공소장에 따르면, 이 의원의 아들 이모씨가 합성 대마를 사들이려 시도한 것은 지난해 10월 27일로 거슬러 올라간다. 텔레그램을 이용해 판매상을 찾은 이씨는 지인을 통해 65만원을 입금하고, 액상 형태의 합성 대마를 숨긴 곳의 사진과 해당 장소의 정보가 담긴 ‘좌표’를 전달받았다. 이씨 일당은 송금 후 1시간여 만에 서울 강서구의 한 아파트 화단으로 향했지만, 합성 대마를 찾는 데엔 실패했다.&lt;br&gt;&lt;br&gt;다음 날에도 같은 방법으로 대마를 사들이려다 실패한 이씨 일당은 10월 29일 자정 즈음엔 공짜로 합성대마를 받기로 하고, 좌표를 받아 경기 수원시 권선구의 아파트 단지로 향했다. 그러나 이번에도 이들은 합성대마를 찾지 못하고 허탕을 쳤다. 곧바로 추가금을 판매상에게 입금한 이들은 새벽 3시 20분쯤 서울 서초구의 한 오피스텔 근처로 이동했지만, 이곳에서도 이들은 합성대마를 찾지 못했다. 이씨 부부를 제외한 두 공범은 판매상으로부터 좌표를 다시 전달받아 그날 밤 합성대마를 찾아다녔지만, 결국 이를 찾지 못했다.&lt;br&gt;&lt;br&gt;이들이 합성 대마 구입에 성공한 것은 올 2월 1일이었다. 지난 1월 27일 대금을 입금한 뒤 좌표를 전달받아 서울 강북구의 한 아파트 단지 내 공중전화 박스에서 합성 대마 10ml를 찾아낸 것이다. 이들은 사흘 뒤에도 합성 대마를 사들이려 했지만, 판매상이 돈을 받고도 좌표를 보내주지 않아 거래는 실패로 돌아갔다. 그로부터 이틀 뒤엔 서울 강북구의 아파트 단지 내에서 합성 대마 10ml를 추가로 구매하는 데 성공했다.&lt;br&gt;&lt;br&gt;지인을 통해 판매상과 연락을 취했던 이씨는 2월 13일엔 본인이 직접 연락을 주고받기 시작했다. 그러나 이씨가 직접 시도한 두 번의 거래는 합성 대마를 찾지 못해 모두 수포로 돌아갔다. 이씨와 아내 임모씨는 이렇게 사들인 합성 대마를 전자담배 기기를 이용해 번갈아 흡입한 것으로 조사됐다. 이씨는 이 밖에도 혼자 두 번에 걸쳐 합성 대마를 흡입했다는 것이 검경 수사 결과다.&lt;br&gt;&lt;br&gt;서울중앙지검 강력범죄수사부(부장 김보성)는 지난달 16일 이씨와 공범 정모씨는 구속 기소했고, 또 다른 공범 권씨와 임씨는 불구속 상태로 재판에 넘겼다. 이들의 재판은 오는 18일 서울중앙지법 형사36부(재판장 이정엽)에서 열린다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>법원 “방통위의 SBS 미디어렙 지분 처분 명령은 적법”</title>
+      <link>https://www.chosun.com/national/court_law/2025/06/05/2MVGSMNMZ5BN7JG52GKHJUVCWQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/05/2MVGSMNMZ5BN7JG52GKHJUVCWQ/</guid>
+      <dc:creator>김은경 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 05 Jun 2025 10:59:10 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DFD72JHKDGYOTHVKS524QZY4RQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기도 과천시 정부과천청사 방송통신위원회 /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;SBS에게 자회사 미디어렙(방송광고판매대행사) 주식을 대폭 처분하라고 한 방송통신위원회 시정명령은 적법하다는 법원 판결이 나왔다.&lt;br&gt;&lt;br&gt;서울행정법원 행정14부(재판장 이상덕)는 5일 SBS가 방송통신위원회를 상대로 제기한 대기업 소유제한 위반 시정명령 취소 소송에서 원고 패소로 판결했다.&lt;br&gt;&lt;br&gt;방통위는 2022년 9월 SBS가 미디어렙 자회사인 SBS M&amp;amp;C의 주식 40%를 소유한 것이 ‘대기업 소유제한 규정’을 위반한 것이라며 6개월 내 보유 주식 30% 이상을 처분하라는 시정명령을 내렸다. 방송광고판매대행법에 따르면 자산총액 10조원 이상의 대기업은 미디어렙사 주식의 10%를 초과 소유할 수 없는데, 같은 해 5월 SBS의 대주주인 태영그룹이 대기업으로 지정되면서 이 규정을 적용받게 됐다는 것이다.&lt;br&gt;&lt;br&gt;SBS는 “시대에 뒤떨어진 낡은 규제”라며 시정명령을 취소해달라는 행정소송을 냈다. SBS는 소유 제한 기준 자산총액에 ‘광고판매대행자와 밀접한 관계에 있는 방송사업자’ 자산은 포함되지 않는다고 해석해야 한다고 했다. 시정명령의 근거가 되는 방송광고판매대행법 조항이 방송의 자유와 재산권을 침해하는 위헌적인 법령이라고도 주장했다.&lt;br&gt;&lt;br&gt;그러나 법원은 이 같은 주장을 전부 받아들이지 않았다. 재판부는 기업집단이 미디어렙에 지나친 영향력을 행사하는 것을 방지해 방송의 공공성과 공익성, 다양성을 제고하는 법익이 특정 기업집단이 입는 불이익보다 작지 않다고 판단했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>군인아들 마중가던 母 사망… ‘만취벤츠’ 동승자들 음주방조 혐의 입건</title>
       <link>https://www.chosun.com/national/national_general/2025/06/05/LOPXFZDWG5CQVFM7P3NNDAGQFY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/05/LOPXFZDWG5CQVFM7P3NNDAGQFY/</guid>
@@ -807,28 +852,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3MFUW4XZWHDKOWE7ZHFPX6ED5I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이주호 사회부총리 겸 교육부 장관. /교육부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이주호 국무총리 직무대행 부총리 겸 교육부 장관이 4일 이재명 대통령에게 전체 국무위원 사의를 표명했다.&lt;br&gt;&lt;br&gt;교육부는 이날 출입 기자단에 공지를 하고 “전체 국무위원은 지난 2일 일괄 사표를 (이주호 장관에게) 제출했다”며 “이주호 직무대행은 금일 대통령께 본인을 포함한 전체 국무위원 사의를 표명했다”고 밝혔다. 교육부에 따르면 이 직무대행은 이날 오후 3시30분경 이 대통령에게 전화로 사의를 표명한 것으로 알려졌다. &lt;br&gt;&lt;br&gt;이주호 직무대행은 대선 하루 전인 지난 2일 자신을 포함한 윤석열 정부 장·차관들의 사표를 인사혁신처에 일괄 제출했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[오늘의 운세]  6월 5일 목요일 (음력 5월 10일 乙巳)</title>
-      <link>https://www.chosun.com/national/national_general/2025/06/03/VT6MAIHY4FBB7CUN35BTY3PLHM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/03/VT6MAIHY4FBB7CUN35BTY3PLHM/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 04 Jun 2025 08:00:00 +0000</pubDate>
-      <content:encoded>&lt;p&gt;&lt;div class="chosun_unse"&gt;&lt;iframe src="https://image.chosun.com/arc/unse_iframe.html" frameborder="0" scrolling="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;style&gt;.chosun_unse{position:relative;width:100%;height:350px;box-sizing:border-box}.chosun_unse&gt;iframe{position:absolute;top:0;left:0;width:100%;height:100%;overflow-y:hidden}@media all and (max-width:1024px){.chosun_unse{height:350px}}@media all and (max-width:1023px){.chosun_unse{height:350px}}@media all and (max-width:528px){.chosun_unse{height:270px}}@media all and (max-width:384px){.chosun_unse{height:190px}}&lt;/style&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;p&gt;&lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani01.gif"&gt;  	&amp;nbsp;	36년생 눈앞의 이익보다 장기적 안목이 필요. 48년생 중앙을 피해 가장자리로 걷고 앉아라. 60년생 언쟁은 손실만 초래하니 피하는 것이 상책. 72년생 여름 햇볕 강할수록 백곡은 더 여무는 법. 84년생 확고한 견해와 불굴의 추진력이 요구. 96년생 지나친 자신감은 주변 도움 못 받는다.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt;  &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani02.gif"&gt;	&amp;nbsp;	37년생 눈앞 현상 아닌 미래를 보고 가도록. 49년생 세심한 검토와 숙의가 성패의 관건. 61년생 누런색과 숫자 5, 10 행운 부른다. 73년생 급작스러운 변화는 피하는 것이 상책. 85년생 쓸데없는 일에 분노하면 분노할 때 분노할 수 없다. 97년생 감정적이고 유희적인 일에 시간 낭비 마라.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani03.gif"&gt;	&amp;nbsp;	38년생 피 다 잡은 논 없고 도둑 다 잡은 세상 없다. 50년생 은인자중(隱忍自重)만큼 좋은 비책은 없다. 62년생 발전을 위한 금전 지출이라면 불가피할 듯. 74년생 억지로 할 수 없다면 주어진 현실을 수용. 86년생 급작스러운 이동 변화는 바람직하지 않다. 98년생 투자나 매매는 불리하니 다음 기회에.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani04.gif"&gt;	&amp;nbsp;	27년생 뜻은 가상하나 행동은 제약 따를 듯. 39년생 숫자 4, 9와 흰색은 행운 부른다. 51년생 적극적인 대응보다 관망이 필요. 63년생 잘 먹은 음식이 보약보다 낫다. 75년생 오늘 못 버티면 내일도 힘들다. 87년생 기존의 하던 일을 정리할 수도. 99년생 동업과 투자는 생각지도 마라.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani05.gif"&gt;	&amp;nbsp;	28년생 이동과 변화에 적극 대처하라. 40년생 감정에 치우치면 일을 그르친다. 52년생 나무는 껍질이, 사람은 체면이 중요. 64년생 조급하게 서두르지 마라. 76년생 현재의 삶에 만족하라. 88년생 사소한 말로 큰일을 그르칠라. 00년생 소문만 듣고 판단하면 손해.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani06.gif"&gt;	&amp;nbsp;	29년생 성급하면 대어 낚기 어렵다. 41년생 동료, 친구로 인한 번민. 53년생 남 일에 너무 깊이 관여 마라. 65년생 배우자 의견에 따르는 것이 상책. 77년생 져주는 게 이기는 것. 89년생 가족과 배우자의 말에 귀 기울여야. 01년생 참는 것이 미덕이 아닐 수도 있다.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani07.gif"&gt;	&amp;nbsp;	30년생 묘책은 있으나 성사는 어렵다. 42년생 가족 또는 자녀로 인한 곤란이 예상. 54년생 간담 질환은 재발을 주의. 66년생 숫자 3, 8과 푸른색은 행운 부른다. 78년생 소소한 일은 웃고 넘겨라. 90년생 노력에 비해 소득이 적을 듯. 02년생 산토끼 잡으려다 집토끼 놓칠라.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani08.gif"&gt;	&amp;nbsp;	31년생 상황이 바뀌어도 원칙을 지켜라. 43년생 모르는 것이 약이 되는 수도. 55년생 학수고대한 소식을 듣게 될 듯. 67년생 의사 표현을 확실히 해야. 79년생 확장과 이전은 꿈도 꾸지 말라. 91년생 능력 이상의 성과와 보상이 따른다. 03년생 궁핍은 친구도 멀게 하는가.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani09.gif"&gt;	&amp;nbsp;	32년생 몸 건강도 좋지만 마음 건강에 유의. 44년생 귀인의 도움으로 어려움 해결. 56년생 말띠와는 배려와 이해가 필요. 68년생 동쪽 문으로 출입이 유익. 80년생 균형감을 유지하도록. 92년생 절대 무리는 하지 말라. 04년생 당장의 개선은 기대하기 어려울 듯.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani10.gif"&gt;	&amp;nbsp;	33년생 상처는 나아도 흉은 남는 법. 45년생 태산도 한 줌의 불씨가 태운다더니. 57년생 활동 반경이 넓어지는 시기 열심히 움직이도록. 69년생 순조로운 과정에 약간의 장애가 발생할 수도. 81년생 조용히 인내하며 결정적 순간을 준비하라. 93년생 거래처와의 관계에 현명한 처신이 필요.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani11.gif"&gt;	&amp;nbsp;	34년생 충동적인 일 처리는 후회 부른다. 46년생 다소를 불문하고 감사히 받아들이도록. 58년생 과도한 경쟁의식은 자신을 힘들게 할 수도. 70년생 뜻밖의 귀인으로 전화위복의 계기 마련. 82년생 주머니 속 재물은 이웃에게서 잠시 빌려 온 것. 94년생 약속은 자신과의 약속이 가장 중요.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani12.gif"&gt;	&amp;nbsp;	35년생 변칙이 아닌 정석대로 진행하라. 47년생 상처를 각오하지 않았다면 호랑이 사냥에 나서지 마라. 59년생 반전의 기회를 엿보면서 움직여야. 71년생 장래 계획 세우려면 지금부터 준비. 83년생 고뇌와 번민 속에 희망을 보고 가라. 95년생 진심으로 느낄 수 있도록 태도를 명확히.	&lt;br&gt;
-&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;한소평 금오산방 강주  &lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;			&lt;/p&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/4MTFRYWHBJA7XOKKF7G7JPLX5U.png?auth=4651b5b20b5d4901424204d1456faee02e4b064ff509db23945deabf4404c8ef&amp;smart=true&amp;width=800&amp;height=420" type="image/png" height="420" width="800"/>
-    </item>
-    <item>
       <title>“중앙의 아들” “당선 축하”… 李 대통령 모교 중앙대 곳곳에 현수막 </title>
       <link>https://www.chosun.com/national/national_general/2025/06/04/S5N4YDRNGREFLFXLCUJYFIGPMA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/04/S5N4YDRNGREFLFXLCUJYFIGPMA/</guid>
@@ -924,33 +947,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/D5MFX5FW2E2EYJSLGFQGJH6ALI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;제21대 대통령 선거일인 3일 부산 동래구 내성초등학교 참빛관체육관에 마련된 복산동 제2투표소에서 유권자들이 투표를 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;강원 춘천시 한 투표소에서 선거사무원이 서명을 잘못 받아 유권자가 투표하지 못하고 발길을 되돌리는 일이 발생했다.&lt;br&gt;&lt;br&gt;3일 강원도선거관리위원회에 따르면 이날 오전 강원 춘천시 한 투표소를 찾은 유권자 A씨가 “이미 투표한 것으로 확인된다”는 선거사무원의 설명을 듣고 발길을 되돌렸다. 확인 결과 이는 비슷한 이름의 다른 유권자로부터 잘못 서명을 받은 선거사무원의 실수였다. 선관위는 이를 바로잡고 A씨에게 다시 투표에 참여할 것을 알린 것으로 전해졌다.&lt;br&gt;&lt;br&gt;또 강원도 인제군 한 투표소에선 투표관리관 도장이 찍히지 않은 투표지가 배부되기도 했다. 도장이 찍히지 않은 투표지는 10장으로 유권자들에게 전달돼 기표까지 이뤄졌다.&lt;br&gt;&lt;br&gt;강원도선거관리위원회 관계자는 “유권자들이 몰리면서 도장을 찍지 못한 투표지를 나눠주는 실수를 한 것 같다”면서 “신원 확인 절차 등이 정상적으로 진행된 만큼 해당 투표지는 정상적으로 유효표로 인정된다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>“투표 안했는데 했다고?” “잘못 찍었으니 용지 바꿔줘” 곳곳서 소동</title>
-      <link>https://www.chosun.com/national/national_general/2025/06/03/7KJQUCBQMZEWPC3OQSO4FIRVW4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/03/7KJQUCBQMZEWPC3OQSO4FIRVW4/</guid>
-      <dc:creator>김명진 기자, 안태민 기자, 이민경 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 03 Jun 2025 07:19:45 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7MVTMWNQE2XLY4GOQJPUGIY73E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;제21대 대통령 선거일인 3일 오전 경기 광명시의 한 음식점에 마련된 소하2동 제4투표소를 찾은 유권자가 투표하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;21대 대통령 선거 본투표가 치러진 3일 전국 투표소 곳곳에서 크고 작은 소동이 벌어졌다. 서울에서만 선거 관련 112 신고가 오후 3시까지 81건 접수됐다. &lt;br&gt;&lt;br&gt;이날 오전 9시 22분쯤 서울 서초구의 한 투표소에서는 56세 여성이 “선거사무원들이 투표용지 하단의 일련번호를 떼어두고 도장도 미리 찍어놓은 것을 발견했다”며 경찰에 신고했다. 선거관리위원회 직원과 더불어민주당·국민의힘 참관인들이 확인해보니 선관위 측에서 투표인이 몰릴 것을 대비해 미리 도장을 찍어놓은 것으로 확인됐다. &lt;br&gt;&lt;br&gt;투표소를 찾았다가 자신과 같은 이름의 타인이 이미 자기 이름으로 투표한 사실이 드러나 혼동을 빚는 상황도 곳곳에서 벌어졌다. 이날 오후 1시 12분쯤 서울 영등포구 당중초등학교 투표소를 찾은 50대 여성은 이미 투표가 돼있었다는 안내를 받고 경찰에 신고했다. 선관위는 관내 동명이인이 있다는 사실을 확인하고 동명인의 투표 여부를 조회하겠다고 밝혔다. 관악구와 서초구에서도 이와 유사한 신고가 접수됐다고 경찰은 전했다.&lt;br&gt;&lt;br&gt;서울 강북구에서는 사전투표를 마쳤다는 60대 여성이 투표소가 마련된 수유초등학교를 찾아 “선거인 명부에서 내 이름이 삭제됐는지 확인하겠다”며 소란을 피워 경찰이 출동했다. 경기 양주시 옥정2동 투표소에서는 투표용지에 기표를 마친 한 여성이 “손이 떨려 투표를 잘못했다”며 선관위 직원에게 투표지를 펼쳐보였다가 무효표 처리됐다는 말을 듣고 투표소 관리원들과 승강이를 벌이는 일이 벌어졌다. 공직선거법상 공개된 투표지는 무효로 처리된다.&lt;br&gt;&lt;br&gt;광주광역시 동구 산수2동에서는 60대 남성이 기표에 실수가 있었다며 투표관리원에게 투표용지 재배부를 요청했다가 거부당하자 투표용지를 찢는 일이 발생해 선관위가 경위 조사에 착수했다. 울산 북구 농소3동에선 한 여성 유권자가 투표소 내부에서 선거사무원들이 일하는 모습이나 다른 유권자들이 투표하는 모습 등을 휴대전화로 찍다가 선관위 직원들에게 제지당했다.&lt;br&gt;&lt;br&gt;서울 서초구에선 투표소가 차려진 원명초등학교 입구에 ‘대통령 김문수’라는 문구가 적힌 빨간 풍선이 한때 내걸려 선관위 직원들이 급히 철거했다. 투표소 100m 안에서 특정 정당이나 후보자를 지지 또는 반대하는 발언이나 행동을 하면 불법이다. 서초구 선관위 측은 풍선을 설치한 사람들의 인적사항을 확인, 자체 조사를 거쳐 수사기관 고발 여부를 검토하겠다고 했다.&lt;br&gt;&lt;br&gt;서울 성북구에서는 이미 사인이 날인된 투표용지가 유권자들에게 배부되고 있다는 112 신고도 접수됐다. 그러나 선관위 측은 “투표용지 교부 절차에 위법은 없었다”는 입장이다. 공직선거법 제157조는 “투표관리관이 투표용지를 교부하는 때에는 사인 날인란에 사인을 날인한 후 선거인이 보는 앞에서 일련번호지를 떼어서 교부하되, 필요하다고 인정되는 때에는 100매 이내 범위 안에서 사인을 미리 날인해 놓은 후 이를 교부할 수 있다”고 규정한다.&lt;br&gt;&lt;br&gt;한편 서울경찰청은 이날 오후 3시 기준으로 투표소 관련 112 신고가 81건 접수됐다고 밝혔다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>소년범 늘고, 초고령자 후견 갈등으로... 더 바빠진 가정법원</title>
-      <link>https://www.chosun.com/national/court_law/2025/06/03/A2HJXDTJNJDNHFPXU7U62QZG6M/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/03/A2HJXDTJNJDNHFPXU7U62QZG6M/</guid>
-      <dc:creator>김나영 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 03 Jun 2025 07:06:03 +0000</pubDate>
-      <content:encoded>지난달 26일 서울가정법원 7층. 이곳에 위치한 조사실 수십 곳에선 가사조사관들과 저마다의 사정으로 가정법원을 찾은 사람들로 북적였다. 매일 수십 건씩 조사가 이뤄지는 이곳은 가정법원에서 가장 붐비는 공간으로, 검사는 물론 변호사나 판사도 없어 마치 민원인들로 가득한 주민센터를 방불케 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VIKBR4NPQBB4TCF3C6Q4C6W6IM.png"&gt;&lt;figcaption&gt;&lt;small&gt;/일러스트=조선디자인랩 이연주&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;◇이혼 건수 줄었지만…양육권 등 갈등은 심화&lt;/b&gt;&lt;br&gt;&lt;br&gt;부부가 이혼을 하면 가는 곳이 가정법원이라는 과거 인식과 달리, 오늘날 가정법원은 가정 안팎에서 일어나는 다양한 갈등을 해결하는 기관으로 그 역할이 확대되고 있다. 법원행정처 사법연감에 따르면 이혼 건수는 2014년부터 2021년까지 10만건대를 유지하다가 2022년(9만4532건) 9만건대로 내려온 뒤 2023년엔 9만3820건을 기록했다.&lt;br&gt;&lt;br&gt;이혼 건수는 줄었지만, 가정 간 갈등은 더욱 첨예해졌다고 가정법원 관계자들은 설명한다. 2003년부터 서울가정법원에서 가사조사관으로 근무하고 있는 안수진(56) 조사관은 “요즘은 아이도 여러 명을 낳지 않다보니 하나뿐인 자녀를 상대방에게 뺏기지 않으려 하고, 재산 분할 시에도 치열하게 다투는 등 갈등의 수위가 전보다 높아진 걸 체감한다”며 “각 사건마다 서면 양도 훨씬 늘어나 서류 작업을 하다 보면 야근을 하지 않을 수 없다”라고 설명했다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇늘어나는 소년범죄, 소년보호 사건도 증가&lt;/b&gt;&lt;br&gt;&lt;br&gt;반대로 소년보호 사건은 늘어나고 있다. 소년보호사건은 범죄를 저지른 10세 이상 19세 미만 소년에 대해 형벌 대신 보호처분을 내리는 비형사 절차다. 2021년까지 3만건 수준이었던 소년보호사건은 2022년 4만건을 넘겼고, 2023년엔 5만94건을 기록했다. 안 사무관은 “소년보호의 경우, 아이들이 자신이 저지른 행동이 범죄라는 것을 제대로 인지하지 못하고 있는 경우가 많다”라며 “사건 처리 과정에서 잘못을 저질렀다는 걸 확실하게 이해시키고 재발을 막는 일이 무엇보다 중요하다”라고 설명했다.&lt;br&gt;&lt;br&gt;소년보호사건을 담당했던 한 고등법원 부장판사도 “(소년보호사건은) 처벌보단 교화의 목적이 강하다보니 판사가 어른으로서 아이와 관계를 맺게 되고, 처분도 훨씬 고심하게 된다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/M6SMHPVP2RDT7AE67TJDEAIHFU.png"&gt;&lt;figcaption&gt;&lt;small&gt;/일러스트=조선디자인랩 이연주&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;◇초고령사회 진입한 한국…무거워지는 후견의 짐&lt;/b&gt;&lt;br&gt;&lt;br&gt;성년후견이 누적되고 있는 점도 주요한 변화다. 성년후견은 판단 능력이 부족한 성인을 대신해 법원이 정한 후견인이 법적·경제적 결정을 도와주는 제도다. 후견감독을 개시하는 건수는 한해 5000여건으로 비슷한 추세지만, 일단 후견 개시를 하게 되면 후견이 종료되거나 피후견인이 사망하기 전까지 관리감독을 하게 돼 해를 거듭할수록 업무량이 늘어나는 구조다.&lt;br&gt;&lt;br&gt;이런 탓에 서울가정법원은 지난 1월부터 사무국에 후견과를 신설해 운영해오고 있다. 성년후견 전문 배광열 변호사는 “올해 한국도 초고령사회에 진입했는데, 현재 후견 대상자인 80대 중후반 세대와 이제 막 고령자로 진입한 베이비부머 세대는 완전 다르다”며 “지금 60대는 젊은 세대보다 돈도 많고, 경제가 위축되면서 더욱 후견에 따른 갈등이 늘어날 것”이라고 전망했다.&lt;br&gt;&lt;br&gt;이같은 변화에 따라 가정법원 구성원들의 업무 양태도 바뀌는데, 대표적으로 조사관들의 역할이 커지고 있다. 조사관들은 판사들이 조사명령을 내리면 면접조사나 출장조사를 통해 소송 당사자들의 이야기를 직접 듣고 갈등의 근원을 찾아낸다. 서울가정법원의 전현덕(52) 조사관은 “이혼이나 입양 사건에선 아이들, 후견 사건에서 비후견인 등 당사자이지만 (부모나 후견인에 비해) 약자인 사람들의 의사가 절차에 반영될 수 있도록 그분들의 목소리를 듣는 역할”이라고 설명했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“후보 이름 잘 안 보인다” 투표용지 찢은 80대 입건</title>
-      <link>https://www.chosun.com/national/regional/2025/06/03/L7SB4NAF7ZFP5NCY4KFP4W22NM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/06/03/L7SB4NAF7ZFP5NCY4KFP4W22NM/</guid>
-      <dc:creator>우정식 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 03 Jun 2025 07:25:04 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5GT7HGZDJZC2PGHRM34R3HXIUY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /조선일보 DB.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;충남 보령경찰서는 투표소에서 투표용지를 찢은 혐의(공직선거법 위반)로 A(80대)씨를 입건했다고 3일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 이날 오전 10시 11분쯤 충남 보령시 대천동의 한 투표소에서 투표용지 속 후보자들의 이름이 잘 보이지 않는다며 투표용지를 찢어버린 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;경찰은 중증 시력 저하 질환을 앓고 있다는 A씨의 진술을 토대로 자세한 사건 경위를 조사하고 있다.&lt;br&gt;&lt;br&gt;앞서 이날 오전 8시 52분쯤 충남 금산군 군북면 한 투표소에서는 ‘누군가가 투표를 대신했다’는 취지의 신고가 접수돼 경찰이 출동했다.&lt;br&gt;&lt;br&gt;경찰이 신고자인 B(60대)씨의 지문과 신분증을 확인 결과, 사전투표를 한 B씨가 이날 술을 마신 상태에서 앞서 투표한 것을 잊어버리고 투표소를 다시 찾았던 것으로 파악됐다. 이에 경찰은 B씨에게 이를 알린 뒤 경고 후 귀가 조치했다.&lt;br&gt;&lt;br&gt;충남경찰청 관계자는 “오후 2시까지 투표소 내 소란 행위 2건, 현수막 훼손 1건, 단순문의 등을 포함해 모두 10건의 112신고가 접수됐다”며 “투표 종료 시까지 치안 유지에 최선을 다하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>봄 같은 초여름...주말까지 큰 비 소식 없이 일교차 커</title>
       <link>https://www.chosun.com/national/transport-environment/2025/06/03/WEKZ3VRN5VEJPNRLNWOOY2UJ2M/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/06/03/WEKZ3VRN5VEJPNRLNWOOY2UJ2M/</guid>
@@ -958,15 +954,6 @@
       <description/>
       <pubDate>Tue, 03 Jun 2025 07:28:02 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UMH6JYQJROG6AWXXPL3NFGF5SU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 20일 서울 종로구 광화문광장 바닥분수에서 어린이들이 물놀이를 하며 더위를 식히고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;초여름인데 봄 같은 날씨가 이어지고 있다. 낮과 밤의 온도차가 크고, 간간이 소나기가 내리는 봄 같은 날씨가 주말까지 이어질 전망이다.&lt;br&gt;&lt;br&gt;3일 기상청에 따르면, 4일 우리나라는 중국 상하이 부근에서 동쪽으로 이동하는 고기압의 영향을 받아 전국이 대체로 맑겠다. 5일에도 제주도 남쪽 해상에서 동쪽으로 이동하는 고기압의 영향권에 들며 맑을 것으로 보인다.&lt;br&gt;&lt;br&gt;다만 4일은 남부지방, 5일은 중부지방을 중심으로 일교차가 크게 벌어지겠다. 4일 아침 최저기온은 11~17도, 낮 최고기온은 21~29도로 예보됐다. 5일에는 최저 10~17도, 최고 24~30도의 기온 분포를 보이겠다. &lt;br&gt;&lt;br&gt;4일에는 강원도를 중심으로 5㎜ 내외의 소나기가 내리는 곳이 있겠다. 비는 오후부터 저녁 사이에 쏟아질 것으로 예상됐다. 이번 소나기는 대기 불안정이 원인이라 비가 내리는 곳에서는 돌풍과 함께 천둥·번개가 동반될 것으로 보인다.&lt;br&gt;&lt;br&gt;우리나라는 선선한 5월을 보낸 데 이어, 6월 들어서도 최고기온이 30도를 넘지 않으며 재작년과 작년에 이어졌던 이른 무더위는 나타나지 않고 있다. 기상청은 오는 13일까지 한낮 기온이 23~29도로 30도를 넘지 않겠고, 최저기온도 16~20도의 분포를 보이며 대체로 선선할 것으로 내다봤다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“오전에 이미 투표하셨어요”... 술 취해 투표 하려 4시간 뒤 다시 온 60대</title>
-      <link>https://www.chosun.com/national/regional/chungcheong/2025/06/03/B5KTZLTKGNDHDHUN7UOUOUQFKA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2025/06/03/B5KTZLTKGNDHDHUN7UOUOUQFKA/</guid>
-      <dc:creator>신정훈 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 03 Jun 2025 07:22:19 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TWINZRX7IE5MP5C7TWZHPFMMOI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;제21대 대통령 선거일인 3일 유권자가 투표를 하고 있는 모습.(기사와 관련 없음)/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;충북 청주에서 술에 취해 투표한 사실을 잊은 취객이 또다시 투표를 하려다 경찰에 제지를 당하는 해프닝이 발생했다. &lt;br&gt;&lt;br&gt;3일 충북도선거관리위원회 등에 따르면 이날 낮 12시 20분쯤 청주시 서원구 분평동 모 투표소에서 60대 남성이 중복 투표를 하려 한다는 신고가 경찰에 접수됐다. &lt;br&gt;&lt;br&gt;A씨는 오전 이미 투표를 마친 상태였다. &lt;br&gt;&lt;br&gt;당시 선거사무원은 A씨에게 “선거인 명부상 이미 투표를 한 것으로 나와 있다”고 안내했다고 한다. 하지만 이를 본 다른 유권자가 중복투표를 하려는 것으로 생각해 경찰에 신고한 것으로 전해졌다. &lt;br&gt;&lt;br&gt;현장에 출동한 경찰이 방범카메라를 분석한 결과 A씨는 오전 8시 30분쯤 이미 투표를 마치고 떠난 것으로 확인됐다. &lt;br&gt;&lt;br&gt;투표 당시 만취 상태였던 그는 약 4시간 뒤 다시 투표소를 방문해 투표를 하려던 것으로 조사됐다. &lt;br&gt;&lt;br&gt;경찰 관계자는 “A씨에게서 술 냄새가 많이 났다”며 “그가 실수한 사실을 시인하고 별다른 문제를 일으키지 않았기 때문에 사건 처리는 하지 않을 예정이다”라고 말했다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>“미래 세대 풍요롭게 살수 있길” 가족 손잡고 투표소 찾은 시민들</title>
