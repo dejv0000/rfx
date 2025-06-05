@@ -13,6 +13,189 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>성금 기부·국토 종주… 조금 특별한 ‘우리만의 신혼여행’</title>
+      <link>https://www.chosun.com/national/welfare-medical/2025/06/06/433U625VGZGUJA4CYCDJD7MXEU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/06/06/433U625VGZGUJA4CYCDJD7MXEU/</guid>
+      <dc:creator>곽래건 기자, 오경묵 기자, 오유진 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 05 Jun 2025 15:53:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UVILJJDKMFD4NHVBKEDMGJ732A.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=박상훈&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천에 사는 유수진(36)·윤성훈(36) 부부는 지난해 12월 29일 전남 무안공항에서 제주항공 여객기 참사가 발생하자, 신혼여행 경비로 모아둔 돈에서 300만원을 인천사회복지공동모금회에 기부했다. 100만원은 여객기 참사 지원에 쓰였고, 200만원은 이웃 돕기에 배분됐다.&lt;br&gt;&lt;br&gt;작년 3월 결혼한 부부는 당초 유럽 신혼여행을 꿈꿨다. 하지만 신부 유씨가 피아노&lt;b&gt; 학원&lt;/b&gt;을 운영하고 있어 결혼 직후 신혼여행을 떠날 수 없었고, 대신 겨울로 미뤘다고 한다. 여행 계획을 세우던 중 참사가 발생하자 신혼여행 경비로 모아뒀던 돈 일부를 기부한 것이다. 이후 부부는 신혼여행 행선지를 일본 후쿠오카로 바꿨다. 비행기 대신 부산에서 배를 타고 갔고, 4박 5일 여행에 총 200만원 &lt;b&gt;남짓&lt;/b&gt; 썼다.&lt;br&gt;&lt;br&gt;남편 윤씨는 임기제 공무원이다. 인천의 16평 아파트 전세를 1억원대 &lt;b&gt;중반&lt;/b&gt;에 구한 부부에게 300만원은 적지 않은 돈이었다. 윤씨는 “신혼여행을 유럽으로 다녀왔다 해도 결국은 잠깐이었을 것”이라며 “그보다 더 의미 있는 일을 해서 행복하다”고 했다. 유씨는 “어디를 가느냐보다 누구와 가느냐가 더 중요하다”며 “어디에서든 남편과 함께 있기만 하면 좋다고 생각했다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZY2N6GOAIJGLHH3OUNIWDURO74.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=박상훈&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;소신 있게 자신들만의 방식으로 신혼여행을 다녀오는 젊은이들이 나타나고 있다. 허례허식보다 가치를 중시하는 MZ세대(1980년대 초~2010년대 초 출생자)의 특징이 ‘우리만의 신혼여행’으로 이어지는 것이다. 이들은 “호화스러운 곳은 아니었지만, 더없이 행복한 신혼여행이었다”고 했다.&lt;br&gt;&lt;br&gt;장보연(31)·김주형(28) 부부는 작년 5월 대구에서 결혼식을 올린 뒤 신혼여행으로 자전거 국토 종주를 떠났다. 대구에서 부산까지, 부산에서 인천까지 4박 5일 동안 자전거를 타고 633km를 달렸다. 남편 김씨는 “아내가 ‘결혼하고 자전거 여행 한번 해볼까’라고 제안했다”고 했다. 경제적 이유도 있었다. 아기도 낳고 미래를 준비하려면 신혼여행에 많은 돈을 쓰기는 부담스러웠기 때문이다. &lt;br&gt;&lt;br&gt;아내는 중고로 산 원피스를 입고, 남편은 셔츠에 보타이를 매고 자전거를 탔다. 둘의 옷에는 친구들이 “무사히 다녀오라”며 적어준 응원 문구가 빼곡했다. 게스트하우스 등에 묵고, 도중에 마주친 식당에서 식사했는데 총 50만원 정도 들었다. 부부는 “신혼여행이라고 하니 어디서든 반겨줬다”며 “특이한 옷차림을 보고 ‘멋있다’며 식당 사장님이 음료수를 챙겨주는 등 많은 추억을 만들었다”고 했다. 아내 장씨는 “그동안 바빠서 우리나라의 풍경을 즐기지 못했는데, 둘만의 의미 있고 아름다운 신혼여행이었다”고 했다.&lt;br&gt;&lt;br&gt;김은경(35)·장순철(35) 부부는 인생에서 꿈꿔왔던 6개월짜리 미국 신혼여행을 다녀왔다. 미 서부를 종단하는 초장거리 하이킹(Pacific Crest Trail·퍼시픽 크레스트 트레일)에 도전한 것이다. 미 서남단 캘리포니아주 멕시코와의 국경에서 서북단 워싱턴주 캐나다와의 국경까지 약 4265km를 종단하며 시에라네바다·캐스케이드 산맥을 지나는 경로. 연애 시절 도전하려 했지만 코로나 팬데믹 때문에 포기했었다. 둘이 함께 울릉도에서 게스트하우스를 운영하고 있어 6개월 신혼여행이 가능했다.&lt;br&gt;&lt;br&gt;결혼식을 올린 지 반년 지난 작년 4월 여정에 나섰다. 하이킹 내내 신랑 장씨는 나비넥타이를 맸고, 신부 김씨는 배낭에 웨딩드레스용 베일을 달았다. 도중에 만난 미국인들은 “두 사람이 이 길을 함께 완주하면 평생, 끝까지 행복한 결혼 생활을 할 수 있을 것”이라고 했다. 신부 김씨는 “시에라네바다산맥 근처를 지날 때 음식이 부족했는데 남편이 사탕을 양보해 줘 정말 고마웠던 기억이 난다”며 “혼자라면 못 버텼을 여정이었는데 남편과 함께여서 가능했다”고 했다. 그는 “‘공장형 신혼여행’이 아닌 우리만의 색깔이 들어간 재미있는 여행이어서 좋았다”고 했다.&lt;br&gt;&lt;br&gt;결혼식과 신혼여행을 한꺼번에 해결한 부부도 있다. 미 동부 메릴랜드주에 사는 교포 2세 이의성(36)씨와 한국인 강지현(32)씨 부부는 지난달 미 하와이에서 양국 가족들을 초청해 결혼식을 올린 것으로 신혼여행을 갈음했다. 미 군의관인 이씨와 한국에서 리듬체조 스튜디오를 운영하던 강씨는 2023년 2월 양가 친척들 소개로 알게 됐다. 6개월간 온라인 연애를 하다 그해 8월 이씨의 하와이 출장을 계기로 하와이에서 처음 얼굴을 봤다. 둘은 알게 된 지 1년 만인 지난해 2월 미국에서 예식은 뒤로 미룬 채 신혼 생활을 시작했다. &lt;br&gt;&lt;br&gt;이로부터 1년여 만인 지난달 하와이 여행 겸 결혼식에는 부부, 양가 부모, 신부 남동생, 주례를 봐준 신랑 친구 등 총 8명이 참석했다. 6박 7일간 모두가 머물 수 있는 해변가 펜션을 빌려, 펜션 마당에서 식을 올렸다. 양가 부모가 의자를 옮기고 장식을 배치해 식장을 꾸몄다. 신부는 펜션 근처 옷 가게에서 300달러를 주고 웨딩드레스를 샀다. 상견례, 결혼식, 신혼여행, 가족여행을 한꺼번에 한 셈이다. 8명의 비행기 표값까지 포함해 총 2000만원 남짓 들었다. 부부가 낸 하와이 신혼여행 아이디어에 양가 부모는 “허례허식 없이 너희들이 온전히 축하받을 수 있는 결혼식”이라며 반겼다고 한다. 신랑 이씨도 “인생에 더없는 추억이 됐다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/UVILJJDKMFD4NHVBKEDMGJ732A.png?auth=4b6b4671bbded1e9236c61f2c81f54cafd0c42b7518491afa080231b98d23ce6&amp;smart=true&amp;width=1200&amp;height=675" type="image/png" height="675" width="1200">
+        <media:description type="plain">그래픽=박상훈</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>공공 키즈카페·돌봄센터 운영… ‘아빠 육아휴직 수당’도 지급</title>
+      <link>https://www.chosun.com/culture-life/culture_general/2025/06/06/4RA7BQA5XRBS3ESDAULD43QWTQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/culture-life/culture_general/2025/06/06/4RA7BQA5XRBS3ESDAULD43QWTQ/</guid>
+      <dc:creator>하남=곽래건 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 05 Jun 2025 15:50:00 +0000</pubDate>
+      <content:encoded>지난달 27일 경기도 하남시 감일동행정복지센터 4층으로 올라가자 ‘감일 아이사랑 놀이터’라는 간판이 나타났다. 안에 들어서자 184㎡ 공간에 각종 블록과 미끄럼틀, 주방 놀이 세트 등 아이들을 위한 놀이 기구와 장난감이 가득했다. 아직 걸음마를 떼지 못한 아기부터 재잘거리며 뛰어다니는 아이까지 노느라 정신이 없었다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5FVTKYUTSVDO7HDK22PXDLQGX4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 27일 경기도 하남시의 공공 키즈 카페인 '감일 아이사랑 놀이터'에서 아이와 시간을 보내는 시민들의 모습.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이곳은 만 5세 이하 미취학 자녀를 둔 하남시 거주자와 직장인을 위한 ‘공공 키즈 카페’다. 이용료는 무료다. 화요일부터 토요일까지, 오전 10시~11시 30분, 오후 1시 30분~3시, 오후 3시 30분~5시 세 차례에 나눠 ‘손님’을 받는다. 아이와 보호자를 합쳐 한 번에 30명씩 이용할 수 있다.&lt;br&gt;&lt;br&gt;김민수(37)씨는 이날 19개월 딸 채빈이를 데리고 놀이터를 찾았다. 김씨는 “오늘 일을 안 하는 날이라 집에서 아내가 쉴 수 있도록 아이를 데리고 나왔다”며 “민간 키즈 카페에 자주 가면 비용이 부담되는데, 무료에다 민간 시설 못지않게 잘돼 있어 거의 매주 오고 있다”고 했다. 17개월 딸 나은이를 데리고 온 주부 박희경(38)씨는 “키즈 카페는 대부분 어느 정도 큰 아이들을 위한 경우가 많은데, 여긴 유아에 초점이 맞춰져 있어 매일 오고 있다”며 “장난감도 주기적으로 바꿔줘 자주 오는데도 아이가 흥미를 잃지 않는다”고 했다. 세 살 딸과 한 살 아들을 둔 김효은(33)씨는 “시설도 좋고 무료라 자주 온다”며 “아이들도 정말 좋아해 집으로 돌아갈 때마다 ‘또 오자’고 조른다”고 했다.&lt;br&gt;&lt;br&gt;하남시는 이곳 감일점을 포함해 두 곳에 공공 키즈 카페를 운영하고 있다. 감일점은 작년 4월, 미사점은 올해 4월 문을 열었다. 두 곳의 올해 1~5월 누적 이용객은 1만5954명을 기록했다.&lt;br&gt;&lt;br&gt;키즈 카페에 딸린 50㎡의 미디어 놀이실에선 2~4세 유아를 대상으로 한 체육 프로그램이 한창이었다. “다 함께 점프, 점프” 노래가 나오자 아이들이 바닥에 흩어져 있는 수수깡을 집어 2개의 바구니에 담는 운동을 하기 시작했다. 김용환 하남시 육아종합지원센터 가정양육지원팀 팀장은 “체육 활동 외에 부모와 아이가 함께 참여하는 애착 스킨십, 천연 공예, 요리 수업 등 다양한 프로그램을 운영하고 있다”고 했다.&lt;br&gt;&lt;br&gt;같은 날 하남시 풍산동 미사강변동일하이빌아파트 커뮤니티센터 1층. ‘다함께돌봄센터 미사강변동일하이빌점’에서 초등학생 다섯 명이 돌봄 교사와 인형 만드는 놀이를 하고 있었다. 이 센터는 학기 중에는 오후 1시부터 7시까지, 방학 중에는 오전 9시부터 오후 6시까지 초등학생들을 대상으로 다양한 방과 후 돌봄 프로그램을 제공한다. 초등학교 정규 교육 이외의 시간 동안에도 돌봄 서비스를 제공한다는 취지다. 이용료는 이용 시간에 따라 월 2만~3만원 수준이다. 김기호 센터장은 “아이들이 방과 후 학원을 다녀도 중간중간 비는 시간이 있는데, 센터에서 이런 시간을 채워줄 수 있다”며 “학부모들 반응이 굉장히 좋다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HR3KLEEOYZAZ3BRMEVMFI2GTTQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 27일 하남시 풍산동 미사강변동일하이빌아파트 커뮤니티센터에 있는 다함께돌봄센터에서 초등학생들이 인형 만들기 놀이를 하고 있다. 이 센터는 초등학교 저학년을 대상으로 숙제 지도, 미술 활동, 종이 접기, 체육 활동 등 다양한 돌봄 서비스를 제공하고 있다. /하남시 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;방과 후에 초등학생을 돌보는 부담은 우리나라에서 육아를 어렵게 만드는 대표적 문제 중 하나로 꼽힌다. 하남시는 이를 해결하기 위해 2019년 1호점인 이곳을 시작으로 현재 총 13곳의 다함께돌봄센터를 운영하고 있다. 아파트 유휴 공간과 공공 청사 등을 활용해 원도심과 미사, 감일, 위례 등 생활권별로 센터를 계속 늘리는 중이다. 올해 5월 기준 총 386명의 아동이 이용 중이다. 운영에 필요한 인건비와 프로그램 예산은 센터당 평균 약 1억7000만원으로, 하남시와 경기도가 함께 부담하고 있다. 방과 후 아이를 혼자 두기 어려운 가정에 큰 도움이 되고 있다는 평가다. 센터 13곳 중 4곳에서는 오전 7시~오전 9시까지 간식을 주며 등교 준비를 도와주는 ‘아침 돌봄 사업’도 함께 운영하고 있다.&lt;br&gt;&lt;br&gt;하남시가 아이 키우기 좋은 환경 조성에 공을 들이는 것은 시에 육아 가정이 많기 때문이다. 하남시는 아이들이 많은 활기찬 도시다. 출생아 수는 2014년 1212명에서 지난해 약 2000명으로 껑충 뛰었다. 유소년 인구(0~14세) 비율도 14.1%로 전국 평균(10.6%)을 웃돈다. &lt;br&gt;&lt;br&gt;시는 출산부터 촘촘한 양육 지원 체계를 만들고 있다. 첫째를 낳으면 50만원, 둘째는 100만원, 셋째는 200만원의 출산 장려금을 준다. 넷째는 1000만원, 다섯째 이상은 2000만원이 4년에 걸쳐 분할 지급된다. 출생아 한 명당 100만원의 산후조리비를 주고 있고, 남성 육아휴직자에게는 중앙 정부에서 나오는 육아휴직 급여와는 별개로 월 30만원씩 최대 6개월간 ‘아빠 육아휴직 수당’을 지급한다. 여성에 비해 저조한 남성의 육아휴직 사용을 끌어올리기 위해서다.&lt;br&gt;&lt;br&gt;보육·교육 인프라도 계속 늘리고 있다. 시는 총사업비 291억원을 투입해 풍산동에 지하 2층, 지상 5층 규모의 어린이회관을 만들고 있다. 공공형 키즈 카페, 실내 놀이터, 전시 공간, 풋살장, 놀이 체험실 등이 들어선다. 내년에 문을 열 예정이다. 망월동에는 내년 개관을 목표로 지하 1층~지상 4층 규모의 ‘어린이 영어 특화 도서관’을 짓고 있다. 어린이·유아 자료실, 영어 특화 자료실, 체험 공간 등이 들어선다. 이현재 하남시장은 “아이 한 명이 건강하게 자라 다음 세대로 이어지려면 가정뿐 아니라 지역사회 전체의 노력이 필요하다”며 “아이들은 행복하게 뛰놀고 부모는 믿고 맡길 수 있는 지속 가능한 도시를 만드는 것이 목표”라고 말했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SSWEBGTQINEMHNGXAYEE4CB5NQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이현재 하남시장이 작년 3월 하남시육아종합지원센터 미사점에을 방문해 현장 보육교사, 유아들과 기념촬영을 하고 있다. /하남시 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>용인 전철 공사현장서 중장비가 인근 아파트 덮쳐 주민 대피</title>
+      <link>https://www.chosun.com/national/incident/2025/06/05/BTGX2W54XNE5NJ5KAUH33VOG3M/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/06/05/BTGX2W54XNE5NJ5KAUH33VOG3M/</guid>
+      <dc:creator>이승규 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 05 Jun 2025 14:40:56 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6NUFXNT5QVAJPIBSMDGWFRV62Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;5일 오후 10시 13분쯤 경기 용인시 기흥구의 복선 전철 공사 현장에 설치된 중장비가 인근 아파트 쪽으로 넘어졌다./경기도소방재난본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 용인시의 전철 공사 현장에서 중장비가 인근 아파트 쪽으로 넘어져 소방당국이 수습 중이다.&lt;br&gt;&lt;br&gt;6일 경기도소방재난본부 등에 따르면 이날 오후 10시 13분쯤 용인시 기흥구 서천동의 인덕원~동탄 복선 전철 공사 현장에 배치된 항타기(공사 현장에서 지반에 큰 구멍을 뚫는 장비)가 현장 인근 15층 높이 아파트 쪽으로 넘어졌다. 이 아파트는 연면적 6681㎡ 규모로 총 60세대다.&lt;br&gt;&lt;br&gt;이 사고로 인한 인명 피해는 없었다. 그러나 안전을 위해 소방당국이 장비 15대와 인력 38명을 투입해 아파트 주민 70여 명을 대피시키고 사고 현장 주변에 통제선을 설치한 뒤 넘어진 항타기를 수습하고 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>조희대 “대법관 증원, 공론의 장 마련 희망”</title>
+      <link>https://www.chosun.com/national/court_law/2025/06/06/WVX6QA7VTRH6BHQ2MECJNEEB3M/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/06/WVX6QA7VTRH6BHQ2MECJNEEB3M/</guid>
+      <dc:creator>박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 05 Jun 2025 15:55:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/I5RLQ2HF5JMALNJSF2RTEXESCA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;조희대 대법원장이 5일 오전 서울 서초구 대법원으로 출근하며 민주당의 대법관 증원법 관련해 입장을 밝히고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;조희대 대법원장이 5일 더불어민주당이 추진 중인 ‘대법관 증원법’에 대해 “공론의 장이 마련되길 희망한다”고 했다. 조 대법원장이 현안에 대해 직접 입장을 밝힌 것은 이례적인 일로, 법조계에서는 “사실상 대법관 증원법을 반대한다는 입장을 완곡히 드러낸 것”이라는 해석이 나왔다. &lt;br&gt;&lt;br&gt;조 대법원장은 이날 오전 출근길에 “헌법과 법률이 예정한 대법원의 본래 기능이 무엇인지, 또 국민을 위해 가장 바람직한 (상고심) 개편 방법이 무엇인지 국회에 설명하고 있다”며 이같이 밝혔다. 조 대법원장은 이재명 대통령이 늘어나는 대법관 전원을 임명하게 되는 것에 대해선 “법원행정처를 통해 국회와 계속 협의할 생각”이라 했고, 상고심 재판 지연 문제에 대해선 “국가의 백년대계가 걸린 문제이니 계속 논의하겠다”고 했다.&lt;br&gt;&lt;br&gt;조 대법원장은 그동안 출근길 발언을 자제해 왔다. 앞서 대법원 전원합의체가 이 대통령의 공직선거법 위반 사건을 심리할 때도, 취재진 질문에 별다른 입장을 내놓지 않았다. 이날도 조 대법원장은 처음에는 질문을 받지 않고 청사에 들어가려다가, 발걸음을 돌려 입장을 밝혔다. 법조계 관계자는 “대법관 증원은 사법부나 국회 중 어느 한쪽이 단독으로 결정할 수 없는 사안이라는 점을 내비친 것”이라며 “국민의 재판받을 권리와 직결된 문제인 만큼, 속도전보다는 사회적 공감대를 위해 국회와 소통하겠다는 의지를 강조한 것”이라고 했다.&lt;br&gt;&lt;br&gt;대법관을 기존 14명에서 30명으로 늘리는 내용의 법원조직법 개정안이 국회 본회의를 통과하면, 이 대통령은 임기 중 대법원장을 포함해 대법관 10명, 증원되는 대법관 16명을 새로 임명할 수 있게 된다.&lt;br&gt;&lt;br&gt;대법원은 대법관을 단순 증원하는 것보다 상고심 제도 전반의 개선 방향을 숙고해야 한다는 입장이다. 대법원 관계자는 “대법관 수를 늘리면 재판연구원 규모나 소부·전원합의체 운영 방식 등은 어떻게 해야 할지 뒤따라 논의해야 할 것이 많다”며 “섣불리 대법관 수를 늘리는 것보다, 재판 지연 등 상고심 제도의 문제점을 어떻게 개선할지 먼저 큰 틀에서 논의해야 한다”고 했다. 또 “미리 대법관 수를 못 박아두고 제도를 손질하기보다는, 상고심의 개선 방향을 논의해 그에 맞춰 정원을 늘리는 것이 합리적”이라고 했다. &lt;br&gt;&lt;br&gt;대법원은 개정안에 대한 의견서를 국회에 제출하기 위해 준비 중인 것으로 전해졌다. 행정처 관계자는 “그간 대법원이 자체 연구한 상고심 제도의 문제와 개선안, 해외 사례 등을 종합적으로 검토해 최대한 빠른 시일 내 의견서를 제출할 예정”이라고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>비싼 해외 신혼여행… 국내 선택한 부부들</title>
+      <link>https://www.chosun.com/national/welfare-medical/2025/06/06/XZ47CCEG35CNBIR4I5CHPKF2PA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/06/06/XZ47CCEG35CNBIR4I5CHPKF2PA/</guid>
+      <dc:creator>오경묵 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 05 Jun 2025 15:53:00 +0000</pubDate>
+      <content:encoded>지난 1월 결혼한 직장인 이모(38)씨는 신혼여행을 남해안 일대로 다녀왔다. 전남 해남과 진도, 경남 남해를 차로 돌며 바다 풍광을 즐겼다. 진도의 콘도에 머물며 ‘신비의 바닷길’ 등을 봤고, 남해의 명소인 독일마을에도 들렀다. 그는 “결혼이 국내 여행을 할 좋은 기회라고 생각했다”고 했다. &lt;br&gt;&lt;br&gt;‘신혼여행은 해외로 간다’는 통념과 달리 국내 신혼여행을 택하는 부부가 늘고 있다. 해외 물가가 크게 오른 상황에서 국내 여행은 비용 부담이 덜하고 일정 짜기도 수월하기 때문이다. &lt;br&gt;&lt;br&gt;평소 레저를 즐기는 김선아(34)·홍광표(35)씨 부부는 지난해 5박 6일로 울릉도 신혼여행을 다녀왔다. 여행 기간 스쿠터를 타고 섬 곳곳을 누볐고 스노클링도 원 없이 했다. 아내 김씨는 “번거로운 출입국 절차 후 장시간 비행기를 타는 해외여행에 비해 몸도 마음도 편했다”고 했다. &lt;br&gt;&lt;br&gt;한 여행사 관계자는 “해외여행 경험이 많은 요즘 젊은이들은 호기심 때문에 국내 신혼여행을 택하는 경우도 많다”고 했다. 여수·강릉 등지의 캠핑지로 신혼여행을 떠나는 경우도 있다고 한다. ‘여수 밤바다’로 유명한 여수는 서울에서 KTX로 3시간여, 강릉은 2시간 이내로 각각 갈 수 있다.&lt;br&gt;&lt;br&gt;제주도도 신혼 여행지로 여전히 인기다. 전국 공항에서 1시간 남짓이면 도착하는 데다, 잘 갖춰진 휴양 시설에서 결혼식의 피로를 풀며 3~5일 정도 보내기 알맞기 때문이다. 지난 3일 결혼해 제주도로 4박 5일 신혼여행을 다녀온 이지현(30)·문주선(31)씨 부부는 “해외여행에 대한 욕심이 없어 큰 고민 없이 선택했는데 특별한 경험이었다”고 했다. 럭셔리 요트에서 일몰을 감상하고, ‘오마카세’ 흑돼지 식당 등을 다녔는데 웬만한 해외 여행지의 절반 이하 비용이 들었다고 했다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘대북 송금’ 이화영 유죄 확정… 李 방북 비용 쌍방울이 대납케 해</title>
+      <link>https://www.chosun.com/national/court_law/2025/06/06/EIUSHQBW7FCQNC7TEWOHWLGXO4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/06/EIUSHQBW7FCQNC7TEWOHWLGXO4/</guid>
+      <dc:creator>방극렬 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 05 Jun 2025 15:53:00 +0000</pubDate>
+      <content:encoded>‘쌍방울 불법 대북 송금’ 사건으로 기소된 이화영 전 경기도 평화부지사가 5일 대법원에서 징역 7년 8개월을 확정받았다. 당시 경기도지사였던 이재명 대통령의 방북 비용 등을 쌍방울 측이 북한에 대납하게 한 사실이 1·2심에 이어 대법원에서도 인정된 것이다. 법조계에서는 이날 판결이 이화영씨 공범으로 기소된 이 대통령의 대북 송금 1심 재판에 영향을 줄 것이란 전망이 나오지만, 민주당이 대통령 임기 중 형사재판을 멈추는 ‘재판 중지법(형사소송법 개정안)’을 추진 중이어서 재판이 계속될지 여부는 불투명한 상태다.&lt;br&gt;&lt;br&gt;대법원 2부(주심 박영재 대법관)는 이날 뇌물 및 외국환거래법 위반 등으로 기소된 이씨에게 징역 7년 8개월에 벌금 2억5000만원과 추징금 3억2595만원을 선고한 원심 판결을 확정했다.&lt;br&gt;&lt;br&gt;이씨는 2019년 이 대통령이 경기도지사로 재임하며 추진한 ‘북한 스마트팜 개선’ 사업비 500만달러와 이 대통령의 방북 비용 300만달러 등 총 800만달러를 김성태 전 쌍방울 회장이 대신 내게 한 혐의를 받는다. &lt;br&gt;&lt;br&gt;1·2심과 대법원은 800만달러가 북한으로 송금된 사실을 인정하며 이 중 세관 신고 없이 무단 유출된 스마트팜 사업비 164만달러와 방북 비용 230만달러 등 총 394만달러는 외국환거래법 위반으로 인정했다. 나머지 406만달러는 “범죄의 증명이 없다”며 무죄로 판결했다. 특히 재판부는 이 대통령의 방북 비용 가운데 200만달러는 조선노동당에 전달됐다고 봤다.&lt;br&gt;&lt;br&gt;재판부는 또 이씨가 쌍방울 측으로부터 뇌물과 불법 정치자금 약 3억 2000만원을 수수한 혐의도 유죄로 인정했다. 이씨가 “검찰이 사건을 조작했다”며 제기한 ‘검찰청 술자리 회유’나 ‘진술 조작’ 의혹은 받아들이지 않았다.&lt;br&gt;&lt;br&gt;이 대통령은 작년 6월 이 사건 관련 ‘제3자 뇌물’ 혐의로 기소돼 수원지법에서 1심 재판을 받고 있다. 이 대통령이 대북 사업 편의를 봐달라는 쌍방울의 청탁을 받고 이씨를 통해 방북 비용 등을 대납시켰다는 혐의다. 한 현직 판사는 “북한에 불법 송금을 한 사실관계가 대법원에서 인정된 만큼, 이 대통령과 이씨의 공모 여부가 유무죄를 가르게 될 것”이라고 말했다.&lt;br&gt;&lt;br&gt;앞서 이씨는 2023년 6월 검찰에서 “방북비 대납 사실을 이재명 지사에게 보고했다”고 진술했다가 법정에서 이를 번복했다. 검찰의 회유와 압박으로 인한 허위 진술이었다고 주장했다. 그러나 1심 판결문에는 “이씨가 이 지사의 방북을 강력하게 추진할 동기가 있었다” “김 전 회장이 이씨에게 ‘이 지사에게 보고했냐’고 했을 때 이씨가 ‘당연히 그쪽에 말씀드렸다’는 말을 들었다고 반복해 진술한 것은 충분히 수긍할 수 있다”고 적시돼 있다. 이 대통령이 대북 송금에 관여한 의혹을 뒷받침하는 여러 정황이 인정된 셈이다. 다만 법원은 이씨가 이 대통령에게 직접 보고했는지 여부에 대해 따로 판단하지는 않았다.&lt;br&gt;&lt;br&gt;이 대통령 사건은 기소된 지 1년이 넘었지만 정식 재판이 한 번도 열리지 않고 있다. 이 대통령 측이 작년 12월 법관 기피 신청을 내면서 재판이 3개월 넘게 중단됐고, 올해 초 법관 인사로 재판부가 교체되며 더 지연되고 있는 것이다.&lt;br&gt;&lt;br&gt;다음 달 22일에 공판 준비 기일이 예정돼 있지만 재판이 계속될 수 있을지는 미지수다. 민주당이 발의한 현직 대통령에 대한 재판 중지법은 국회 법제사법위원회 전체 회의를 통과해 본회의 의결만 앞두고 있다. 개정안이 본회의에서 통과되면 대북 송금 사건 재판은 이 대통령 재임 중 열리지 않을 가능성이 높다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>주변 상권 매출도 뛴 서울 국제정원박람회</title>
+      <link>https://www.chosun.com/national/national_general/2025/06/06/PJAYK4BO6ZHB3HECQO4RLOFGEE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/06/PJAYK4BO6ZHB3HECQO4RLOFGEE/</guid>
+      <dc:creator>김영우 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 05 Jun 2025 15:53:00 +0000</pubDate>
+      <content:encoded>지난달 22일 서울 동작구 보라매공원에서 ‘서울국제정원박람회’가 개막한 이후 주변 상권의 신용카드 결제액이 19% 증가했다는 조사 결과가 나왔다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/35U5WBZUIRCIBHSMZCGEEER5HA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 24일 서울국제정원박람회에 마련된 소상공인 푸드트럭의 모습. /서울시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;5일 서울시가 보라매공원 주변 상권 4곳의 신한카드 결제 데이터를 분석한 결과에 따르면, 박람회 개막 후 일주일간(22~28일) 하루 평균 결제 금액은 6억7600만원으로 집계됐다. 개막 전 일주일(15~21일)보다 19.2% 늘었다. 같은 기간 결제 건수는 하루 평균 2만7635건에서 3만2286건으로 16.8% 증가했다. 업종별로 보면 카페와 패스트푸드점, 한식당 등에서 많이 결제한 것으로 나타났다. 조사 대상 상권은 신대방동 보라매타운, 신림동 별빛거리 등이다.&lt;br&gt;&lt;br&gt;서울시는 “박람회를 개최해 지역의 유동 인구가 증가한 덕분으로 보인다”고 했다. 박람회 개막 전후 일주일간 4개 상권의 하루 평균 생활 인구는 5831명에서 8152명으로 증가했다. 하루 평균 2300여 명이 추가로 유입된 것이다. 박람회를 찾은 사람은 지난 1일까지 11일간 총 124만7286명으로 집계됐다.&lt;br&gt;&lt;br&gt;박람회장과 지역 상권을 묶어 진행한 ‘지역 경제 살리기’ 프로젝트도 영향을 미쳤다고 서울시는 분석했다. 서울시 관계자는 “요즘 지역 경제가 너무 어렵다”며 “박람회를 기획하는 단계부터 지역 상권 활성화를 주요 목표로 삼았다”고 했다. &lt;br&gt;&lt;br&gt;서울시와 동작구·관악구는 ‘가든 스탬프 투어’ 이벤트를 열고 있다. 박람회장의 정원 6곳을 방문해 확인 도장을 받으면 주변 식당 등에서 최대 20% 할인 혜택을 받을 수 있다. 이번 박람회에서 처음 시도하는 ‘공동 마케팅’ 이벤트다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TWWQAHYMMJDPPHLVHCO7JXCPXI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 24일 서울국제정원박람회에 마련된 소상공인 '서로장터'의 모습. /서울시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;공원 안에서는 장사를 할 수 없다는 규제를 풀어 푸드 트럭 10대도 운영한다. 지난 4일에는 ‘서울국제정원박람회 동작사랑상품권’을 30억원어치 발행했다. 박람회장 근처 가게 2242곳에서 쓸 수 있는 지역 상품권이다. 서울시 관계자는 “앞으로도 각종 문화 행사를 지역 소상공인들과 함께 개최한다는 계획”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>학부모가 몰래 녹음한 교사 발언… 대법 “증거로 못 쓴다”</title>
+      <link>https://www.chosun.com/national/court_law/2025/06/06/57OYW7DWTZBTZHI4QV5BLP4PQ4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/06/57OYW7DWTZBTZHI4QV5BLP4PQ4/</guid>
+      <dc:creator>김은경 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 05 Jun 2025 15:53:00 +0000</pubDate>
+      <content:encoded>학부모가 자녀 가방에 녹음기를 넣어 교사의 수업 중 발언을 몰래 녹음한 파일은 법정에서 증거로 사용할 수 없다는 판단이 대법원에서 확정됐다. 대법원 2부(주심 박영재 대법관)는 5일 아동 학대 혐의로 기소된 초등교사 A씨의 재상고심에서 무죄를 선고한 원심을 확정했다. &lt;br&gt;&lt;br&gt;A씨는 2018년 3~5월 담임을 맡은 초등학교 3학년 교실에서 전학 온 B군에게 “학교 안 다니다 온 애 같아” “쟤는 항상 맛이 가있어”라고 하는 등 정서적 학대를 한 혐의로 재판에 넘겨졌다. B군 어머니는 아들 가방에 녹음기를 넣어 A씨의 이런 발언을 몰래 녹음한 뒤 수사기관에 제출했다. &lt;br&gt;&lt;br&gt;1·2심은 유죄를 선고했지만 대법원은 몰래 녹음한 파일과 녹취록은 증거능력이 없다며 지난해 1월 사건을 서울동부지법으로 돌려보냈다. 대법원은 교사의 수업 중 발언은 통신비밀보호법상 녹음을 금지하는 ‘공개되지 않은 타인 간의 대화’에 해당한다고 봤다.&lt;br&gt;&lt;br&gt;파기환송으로 사건을 다시 심리하게 된 재판부는 대법원 판단에 따라 녹음 파일을 증거에서 제외했고, 나머지 증거들만으로는 A씨의 발언을 증명할 수 없다며 무죄를 선고했다. 몰래 녹음한 내용에 기초한 신고나 진술 역시 증거로 쓸 수 없다고 판단했다. 검찰이 다시 상고했지만 이날 대법원은 “증거능력에 관한 법리를 오해한 잘못이 없다”며 원심을 확정했다.&lt;br&gt;&lt;br&gt;이 판결은 유사한 아동 학대 사건에도 영향을 줄 전망이다. 웹툰 작가 주호민씨 아들을 학대한 혐의로 기소된 특수교사 재판에서도 주씨 부부가 아들 가방에 녹음기를 넣어 몰래 녹음한 파일이 증거로 제출됐다. 1심은 유죄, 2심은 무죄로 판단했고 대법원 판결을 기다리고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>오늘 현충일, 어린이도 묵념</title>
+      <link>https://www.chosun.com/national/national_general/2025/06/06/YHHTUDQU7BFCFJKBMTHL7HYEYA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/06/YHHTUDQU7BFCFJKBMTHL7HYEYA/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Thu, 05 Jun 2025 15:53:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UVOUJ2HG25AOLERF7UVKJ36JNM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/신현종 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;현충일을 하루 앞둔 5일 오전 대전 유성구 국립대전현충원 천안함 46용사 묘역. 한 어린이가 두 손을 모으고 참배하고 있다. 군 장병들도 현충원을 찾았다. 천안함 46용사 묘역은 2010년 천안함 폭침 사건 때 전사한 46명을 안장한 곳이다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘공정위 조사 방해’ 화물연대 1심 무죄</title>
+      <link>https://www.chosun.com/national/court_law/2025/06/06/LAUKEEBKLNF4ZOG4OOM5GATTR4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/06/LAUKEEBKLNF4ZOG4OOM5GATTR4/</guid>
+      <dc:creator>김나영 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 05 Jun 2025 15:53:00 +0000</pubDate>
+      <content:encoded>화물연대가 근로조건 개선을 요구하며 벌인 파업은 공정거래위원회의 조사 대상이 아니라는 법원 판단이 나왔다. 화물연대는 법적으로 사업자 단체이면서 노동조합의 성격을 동시에 갖고 있는데, 근로조건 개선을 위한 운송 거부는 노조의 정당한 파업으로 봐야 한다는 취지다.&lt;br&gt;&lt;br&gt;서울중앙지법 형사단독15부 박찬범 판사는 5일 공정거래 법률 위반 혐의로 기소된 화물연대에 무죄를 선고했다. 2022년 11월 화물연대가 안전 운임제 일몰제 폐지 등을 요구하며 총파업을 벌이자, 공정위는 그해 12월 현장 조사에 나섰다. 화물연대가 파업 과정에서 소속 사업자의 운송을 거부하도록 강요하거나 다른 사업자의 운송을 방해할 경우 ‘담합’에 해당돼 이를 조사하겠다는 것이었다.&lt;br&gt;&lt;br&gt;그러나 화물연대는 반발해 조사 나온 공정위 직원들이 사무실에 들어오지 못하게 막았다. 공정위는 화물연대를 검찰에 고발했고, 검찰은 이듬해 8월 이 단체를 불구속 기소했다. 공정거래법은 공정위 조사를 거부·방해하면 3년 이하의 징역 또는 2억원 이하 벌금에 처하도록 하고 있다.&lt;br&gt;&lt;br&gt;재판부는 “화물연대 구성원들은 직접 화물차를 운전하면서 자신의 선택에 따라 위·수탁 계약을 체결하는 사업자들이지만 대부분이 정형화된 운송 계약에 따라 근무하는 근로자이므로, 화물연대는 사업자 단체이자, 노조의 지위도 갖고 있다”면서 “이 사건에서 화물연대의 파업은 정당한 쟁의 행위라고 봐야 한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>현충일 맞아 시구하는 6·25 참전 조종사</title>
+      <link>https://www.chosun.com/politics/diplomacy-defense/2025/06/06/JXCNK5RZCRCGXDYUP64ALTTJWY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/politics/diplomacy-defense/2025/06/06/JXCNK5RZCRCGXDYUP64ALTTJWY/</guid>
+      <dc:creator>양지호 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 05 Jun 2025 15:51:00 +0000</pubDate>
+      <content:encoded>현충일인 6일 6·25전쟁에서 전투기를 타고 출격한 98세 노병(老兵)이 서울 잠실야구장 프로야구 경기 시구에 나선다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IQGGZTKLQJAVZN7DVVTN2XP4XY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;6일 두산-롯데전에서 시구를 맡은 김두만(왼쪽) 전 공군 참모총장과 시타를 맡은 강병준 공군 소령. /공군&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;공군은 5일 “6·25 참전 조종사인 김두만(98) 전 공군 참모총장이 6일 열리는 프로야구 두산 대 롯데 경기에 시구자로 나선다”고 밝혔다. 김 전 총장은 6·25전쟁 때 102회 출격한 참전 조종사다. 대한민국 최초 100회 출격을 기록한 한국군의 살아있는 전설이다. 을지무공훈장, 은성충무무공훈장을 받았고 공군 작전사령관, 제11대 공군 참모총장을 지냈다. 2023년에는 국가보훈부와 한미연합사령부가 선정한 6·25전쟁 10대 영웅에 뽑혔다. 현재 김신장군기념사업회장을 맡고 있다.&lt;br&gt;&lt;br&gt;주변에서는 김 전 총장이 고령이라 시구자보다는 자리에 서서 배트를 휘두르는 시타자로 나서는 것이 어떻겠느냐는 의견을 냈다고 한다. 하지만 김 전 총장은 시구를 하겠다고 했다. 김 전 총장은 6·25전쟁 65주년이었던 2015년에는 88세 나이로 국산 다목적 전투기 FA-50 후방석 조종사로 탑승해 비행을 했다. 당시 건장한 청년도 버티기 힘든 중력의 6배(6G)를 30초 동안 견디는 비행 환경 훈련도 거뜬히 통과했다.&lt;br&gt;&lt;br&gt;이날 시타자로는 F-15K 조종사 강병준(33) 소령이 나선다. 강 소령은 김 전 총장의 6·25전쟁 전우인 고(故) 강호륜(1925~1990) 예비역 공군 준장의 손자다. ‘참전 조종사’가 던진 공을 ‘동료 참전 조종사의 손자인 현직 조종사’가 치는 것이다. 공군은 “김두만 장군(학사사관 5기)과 강호륜 장군(학사사관 3기)은 여의도·제주·사천·강릉 기지에서 함께 근무했고, 전시에는 한국 공군 최초 단독 출격 작전, 지리산 공비 토벌 작전 등을 함께 수행한 전우”라고 전했다.&lt;br&gt;&lt;br&gt;이날 시구·시타가 끝나면 F-15K 4대로 구성된 비행 편대가 잠실야구장 상공을 저공으로 지나는 기념 비행을 한다. &lt;br&gt;&lt;br&gt;두산-롯데 경기를 포함해 현충일 열리는 프로야구 5경기 모두 현역 군인 및 유공자가 시구·시타를 한다. 키움-LG 경기에서는 3대째 군인의 길을 걷고 있는 육해공군 위관급 장교가 시구·시타·시포를 맡는다. KT-SSG 경기에서는 6·25전쟁 참전 용사로 화랑무공훈장을 3회 수훈한 김웅래(94)씨가 시타를 한다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>수습 못한 호국영웅들 위해 태극기 배지 12만1723개 만든다</title>
+      <link>https://www.chosun.com/politics/diplomacy-defense/2025/06/06/JHEMNGAITVCJLA6J35U3MKJCRY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/politics/diplomacy-defense/2025/06/06/JHEMNGAITVCJLA6J35U3MKJCRY/</guid>
+      <dc:creator>양지호 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 05 Jun 2025 15:51:00 +0000</pubDate>
+      <content:encoded>6·25전쟁 75주년을 맞는 올해, 아직도 가족 곁으로 돌아오지 못한 국군 6·25 참전 용사는 12만1723명(지난해 12월 기준)에 이른다. 국가보훈부는 이들을 기리며 태극기 배지 12만1723개를 배포한다고 5일 밝혔다. 이들이 가족 품으로 돌아올 수 있기를 염원하는 뜻을 배지에 담았다고 한다.&lt;br&gt;&lt;br&gt;보훈부는 이 캠페인 이름을 ‘끝까지 찾아야 할 121879 태극기’로 정했다. 배지는 국산 자주포 K9 제작에 쓰고 남은 철을 재활용해 만들었다. 배지에는 1번부터 121723번까지 고유번호가 부여됐다. 배지가 담긴 종이 박스는 참전 용사 유골함에 태극기를 도포한 형상으로 디자인했다고 보훈부는 밝혔다. &lt;br&gt;&lt;br&gt;보훈부는 호국보훈의 달인 6월에 열리는 주요 보훈 행사 때 이 배지를 배포할 예정이다. 국립서울현충원 현충일 행사(6일), 서울 코리아 메모리얼 뮤직 페스타(6~7일 서울 올림픽공원) 등이다. &lt;br&gt;&lt;br&gt;강정애 국가보훈부 장관은 “대한민국의 자유와 평화를 위해 헌신하신 호국 영웅들에 대한 존경과 고마움을 잊지 않고 국민께서 끝까지 기억하고 국가가 끝까지 책임진다는 다짐과 의지를 담아 일상 속에서 보훈을 쉽게 경험할 수 있는 캠페인을 준비했다”고 했다. 배지 제작에는 국방부 유해 발굴 감식단, 한화 등도 참여했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“썩은 정신으론 안 돼!” 청년들 홀린 92세 ‘신입 유튜버’</title>
+      <link>https://www.chosun.com/national/national_general/2025/06/06/F2ESRQ6ZBBHQZG7S45DI4MC6MM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/06/F2ESRQ6ZBBHQZG7S45DI4MC6MM/</guid>
+      <dc:creator>구아모 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 05 Jun 2025 15:51:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2UYI64YAGRGDLF66FEEE65AY7Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 유튜브 채널을 개설한 이용만 전 재무부장관이 5일 오후 서울 중구 서울광장에서 모교 고려대 야구 점퍼를 입고 포즈를 취하고 있다. 왼쪽 팔에 ‘55학번’이란 문구가 적혀 있다. 사진 촬영이 이어지자 그는 “영정 사진이라도 찍으려는 거냐”라며 웃었다./김지호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“55학번 대학 동기들? 다 죽었어.” “부모님이 이북에 계신데 대학생 때 누구에게 손을 벌렸겠어. 썩어 빠진 정신으론 안 돼!”&lt;br&gt;&lt;br&gt;92세 대한민국 최고령 유튜버의 거침없는 발언에 질문을 던진 20대 대학생들이 입을 벌리고 말을 잇지 못한다. 유튜브 영상의 주인공은 이용만 전(前) 재무부 장관. 17세에 단신으로 월남해 6·25 전쟁 때 학도병으로 참전했다. 고학으로 대학을 졸업한 뒤 재무부 차관보, 은행감독원장, 재무부 장관을 지냈다. 지난달 11일 ‘신입 유튜버’로 데뷔한 그가 최근까지 올린 영상 4개엔 북한에서의 유년 시절과 월남(越南), 1960~70년대 경제 개발 실무를 담당하는 재무 관료로 일하면서 박정희 전 대통령과 있었던 일화, 청년 세대에게 던지는 직설적인 충고 등이 빼곡히 담겼다. &lt;br&gt;&lt;br&gt;90이 넘은 나이에도 카랑카랑한 목소리로 발언하는 모습에 특히 호응하는 건 청년들이다. 시청자 중 18~34세 비율이 68.5%다. 첫 영상은 공개한 지 일주일 만에 조회 수 13만회를 기록했고, 구독자 수는 현재 1만9300명이다. ‘이용만 해주세요’라는 제목의 이 전 장관 유튜브 채널엔 “그때 그 시절 희생하신 분들 덕에 지금의 대한민국이 있다” “불평조차 허락되지 않던 시대를 살아낸 분의 말씀이 귀에 꽂힌다”는 댓글이 천 개 넘게 달렸다.&lt;br&gt;&lt;br&gt;5일 오전 서울 중구에서 이 전 장관을 만났다. 그는 1933년 강원도 평강에서 부농의 아들로 태어났다. 해방 뒤 공산 정권이 들어서자 여기저기서 ‘이승만, 김구 타도’를 외쳐 본명 ‘승만(承萬)’을 ‘용만’으로 고쳤다. 지주 아들이라는 이유로 학교 대표로도 뽑히지 못했던 그는 ‘못살겠다’며 월남해 1950년 학도병으로 참전했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5VYIMNIAGIQLC5A6AWRTC4MWIY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이용만 전 장관 유튜브.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이 전 장관이 유튜브 채널을 개설한 ‘5월 11일’은 특별한 날이다. 1951년 5월 11일 강원도 춘천 가리산 전투에서 어깨와 척추에 총상을 입었다. 그는 “미군 병사 4명이 들것에 나를 태워 후방으로 옮겨주지 않았다면 살아남지 못했을 것”이라며 “그때 이후로 내 삶은 덤이었다”고 했다. 총알 하나는 아직도 척추에 박혀 있다. 총알이 박혔던 왼쪽 어깨는 갸우뚱히 기울어져 있었다.&lt;br&gt;&lt;br&gt;이 전 장관은 “유튜브를 시작하게 된 건 손주들 덕분”이라고 했다. 10대 후반인 손주들이 “북한 사람들은 왜 굶주려요?” “(6·25 전쟁 때) 무슨 음식을 먹었느냐”고 물었다. “너희 나이 때쯤 총을 들고 전쟁터에 나갔어. 주먹밥 한 개 먹으면서 하루에 100리(39.27㎞)씩 걸어서 도망쳤다. 피란민 수용소에서 45일을 버텼지.” 이 전 장관은 “빈곤을 경험해 본 적 없는 아이들이 옛날 일을 막 물어보는데 이 기억들을 어딘가에 남겨야겠다는 생각이 퍼뜩 들었다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LHHSVPLA7ZF5BBUJVVCNSIP7FA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;1978년 4월, 재무부 이재국장 대리 시절 남덕우 장관의 지방 산업 시찰에 동행한 이용만 전 장관(사진 앞줄 오른쪽 두 번째).&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이 전 장관은 그래서 유튜브 영상도 손자들에게 이야기하듯 만든다고 했다. 그는 “한국은 일제 식민 지배, 동족상잔의 전쟁, 세계사에 유례없는 산업화를 압축적으로 겪은 나라”라며 “잘한 것도, 반성해야 할 것도, 기억해야 할 것이 많은 시대다. ‘그때 그 시절’을 더 잘 이해하길 바라는 마음으로 영상을 만들고 있다”고 했다.&lt;br&gt;&lt;br&gt;90이 넘는 나이에도 이 전 장관은 힘이 넘쳤다. 건강 비결은 운동이다. 지금도 매일같이 헬스장을 찾아 1시간 동안 달리기를 하고 레그프레스(하체 운동 기구) 등 근력 운동을 한다. 매주 1번씩 골프장을 찾아 18홀을 돈다. 이 전 장관은 “몸이 힘들어야 헛생각을 안 한다는 게 내 오랜 지론”이라고 했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XLHKLO3MXBAXXCQRZ233S7LQRA.png"&gt;&lt;figcaption&gt;&lt;small&gt;재무부 이재국 이재1과장 시절, 박정희 대통령과 악수하는 이용만 전 재무부 장관의 모습.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이 전 장관이 가장 최근 올린 영상은 ‘늬들이 박정희를 알아, 박정희와 일한 남자’다. 재무부 과장 시절 경제 개발 5개년 계획에 참여하면서 박 전 대통령을 가까이에서 지켜본 경험담을 풀어냈다. 영상에서 그는 “경제 계획을 상황실에 일목요연하게 정리하고 하루도 안 빠지고 매일 나오셨다”고 했다. 그는 “당시 예산 편성과 배분을 총괄하던 ‘재무부 이재과장’으로 일하던 시절 박 대통령이 실무자인 나한테까지 ‘수고했다’라며 격려했다”며 “아랫사람을 어떻게 독려하는지를 아는 뛰어난 리더였다”고 했다.&lt;br&gt;&lt;br&gt;그의 영상에 열광하는 ‘젊은 세대’에게 하고 싶은 말이 있는지 물었다. 그는 “전쟁 전 북한에서 살아봤고 실제로 전쟁을 겪은 사람으로서, 북한의 독재와 굶주리는 인민들의 참혹한 실상을 꼭 전달하고 싶다”고 했다.&lt;br&gt;&lt;br&gt;그는 “한국이 세계 6대 경제 강국이 됐고, 군사력으로는 5대 강국에 올랐다”며 “온 국민이 함께 일군 결과”라고 했다. “이제는 여러분 차례입니다. 하고 싶은 걸 하되, 반드시 성실해야 하고 끝까지 해내겠다는 집념이 있어야 합니다. 난 내 몫을 다했으니 여러분이 이어가 주십시오.” &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>1㎞ 뛸 때마다 참전용사에게 쌀 1㎏ 기부하는 ‘보훈 달리기’</title>
+      <link>https://www.chosun.com/national/national_general/2025/06/06/7V7OX7QWRREOXE3H7KVLRG2UBY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/06/7V7OX7QWRREOXE3H7KVLRG2UBY/</guid>
+      <dc:creator>김도연 기자, 김도균 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 05 Jun 2025 15:51:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NKXVHQ5BVRBYXOH425QP6TBK3A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;얼굴을 가린 채 유튜브 채널 '긴벌레'를 운영하는 김영신씨가 지난해 시민들과 뛰고 있다. 김씨는 달린 만큼 참전 용사들에게 쌀을 기부해오고 있다./김영신씨&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난달 강원에서 인천까지 19일 동안 6·25 전쟁 격전지를 따라 488.9km를 달린 유튜버가 있다. 건강 유튜브 채널 ‘긴벌레’를 운영하는 유튜버 김영신(33)씨다. 그는 작년부터 1km를 달릴 때마다 쌀 1kg을 6·25 참전 용사에게 기부하고 있다. 지금까지 기부한 쌀은 2t. 오는 10월에는 1t을 추가로 전달할 예정이다.&lt;br&gt;&lt;br&gt;김씨는 지난달 6·25 당시 참전 용사들이 희생됐던 격전지를 따라 강원 고성군부터 인천 강화군까지 달렸다. 이후 김씨를 응원하던 기업이 김씨가 달린 거리만큼 488kg의 쌀을 마련해줬다. 그의 방송을 본 구독자 100여 명도 후원금을 보탰다. 구독자들 모두 평범한 사람들이다. 김씨는 “햅쌀이 나오는 10월에 맞춰 참전 용사들에게 쌀 1t을 보낼 것”이라고 했다.&lt;br&gt;&lt;br&gt;김씨는 2년 전 생활고로 마트에서 도둑질을 하다 걸린 한 참전 용사의 뉴스를 보고 “이런 일이 더 있어서는 안 된다”고 생각해 이번 도전을 시작했다. 김씨는 본지 통화에서 “목숨을 바쳐 나라를 지킨 분들이 끼니를 걱정한다는 소식에 스스로가 부끄러웠다”고 했다. 지난해 4월 김씨는 지인과 함께 사비를 털어 참전 용사들에게 쌀을 기부했다. 길거리에서 참전 용사들을 붙잡아 감사 인사를 드리고 집 주소로 쌀 포대를 보내주기도 했다. 이 선행이 ‘보훈 달리기’로 이어졌다.&lt;br&gt;&lt;br&gt;김씨가 지금껏 기부한 쌀은 총 2t, 오는 10월이면 3t이 된다. 김씨는 “기부도 재밌고 가벼운 방식으로 계속돼야 하기 때문에 달리기를 시작했다”고 했다. 그는 지난해 6월 왕복 10km의 출근길을 한 달 동안 달리고 달린 만큼 참전 용사에게 기부하겠다는 공약을 구독자들에게 내걸고 첫 보훈 달리기를 시작했다.&lt;br&gt;&lt;br&gt;이 달리기로 김씨는 구독자, 국가보훈부의 도움을 받아 전국 25개 참전 용사 지부로 쌀 총 1t을 전했다. 쌀을 받은 참전 용사 이재국(90)씨는 “일면식 없는 참전 용사들을 젊은이가 기억해 준 덕에 잊고 있던 보람을 오랜만에 느낄 수 있었다”며 “쌀통만큼 내 마음도 채워진 기분이었다”고 했다.&lt;br&gt;&lt;br&gt;김씨는 지난해 8월에도 서울부터 부산까지 달린 후 쌀 1t을 보훈 요양원에 기부했다. 이때는 시민들도 불러냈다. 저마다의 위치에서 참전 용사에게 감사하는 마음으로 달리고 이를 소셜미디어에 인증해 달라는 것이었다. 김씨는 “돈을 기부하진 못해도 마음을 기부할 방법이 있길 바랐다”며 “그렇게 함께 달린 시민이 1년간 2000여 명, 달린 거리는 1만5000km에 달한다”고 했다. 김씨는 “우리가 누리는 평화는 공짜가 아니다”라며 “살아 계신 참전 용사들을 위해 앞으로도 죽을힘을 다해 달리겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[인사] 세종대 외</title>
+      <link>https://www.chosun.com/national/obituary-personnel/2025/06/06/XGI7JTFPZ5CV7MR3RTZ4KZKTQQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2025/06/06/XGI7JTFPZ5CV7MR3RTZ4KZKTQQ/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Thu, 05 Jun 2025 15:51:00 +0000</pubDate>
+      <content:encoded>▲&lt;b&gt;세종대&lt;/b&gt;▷교학·연구부총장 송형규▷행정·대외부총장 홍성경▷특임부총장 홍우영▷생명과학대학장 류춘제▷인공지능융합대학장 한동일▷공과대학장 정해용▷예체능대학장 김형남▷교무처장 유상호▷대외협력처장 이충훈▷전산정보처장 김영갑▷미래교육원장 김나영▷신문방송국주간 고영대▷박물관장 박용진&lt;br&gt;&lt;br&gt;▲&lt;b&gt;국민일보&lt;/b&gt;◇종교국▷부국장 김지방◇편집국▷정치부장 강준구▷사회부장 이성규▷산업1부장 지호일▷문화체육부장 김나래▷디지털뉴스센터 콘텐츠랩장 김준엽▷그래픽뉴스팀장 전진이&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[부음] 김세택 前 주싱가포르 대사 별세 외</title>
+      <link>https://www.chosun.com/national/obituary-personnel/2025/06/06/AZDMULSJGVGENLQTJTVFT26RHE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2025/06/06/AZDMULSJGVGENLQTJTVFT26RHE/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Thu, 05 Jun 2025 15:51:00 +0000</pubDate>
+      <content:encoded>▲&lt;b&gt;김세택&lt;/b&gt; 前 주싱가포르 대사 별세, &lt;b&gt;김정자&lt;/b&gt; 남편상, &lt;b&gt;김정은&lt;/b&gt;·&lt;b&gt;김동범&lt;/b&gt; Concordia LTD 대표·&lt;b&gt;김일범&lt;/b&gt; 현대자동차 부사장 부친상, &lt;b&gt;박영철&lt;/b&gt; KDG 대표 장인상, &lt;b&gt;구재희&lt;/b&gt;·&lt;b&gt;박선영&lt;/b&gt; 배우 시부상=5일3시40분 서울아산병원, 발인 7일11시, (02)3010-2230&lt;br&gt;&lt;br&gt;▲&lt;b&gt;권혁래&lt;/b&gt; 별세, &lt;b&gt;오춘순&lt;/b&gt; 남편상, &lt;b&gt;권순원&lt;/b&gt; 동아일보 출판국 출판광고팀장·&lt;b&gt;권순범&lt;/b&gt; 가람건설 대표·&lt;b&gt;권현주&lt;/b&gt; 한국수자원공사 미디어홍보센터장 부친상, &lt;b&gt;안정은&lt;/b&gt; 시부상=5일11시 경북 포항의료원, 발인 7일6시30분, (054)245-0428&lt;br&gt;&lt;br&gt;▲&lt;b&gt;박상국&lt;/b&gt; 별세, &lt;b&gt;김희순&lt;/b&gt; 남편상, &lt;b&gt;박정준&lt;/b&gt; 삼성전자 그룹장·&lt;b&gt;박혜원&lt;/b&gt; 부친상, &lt;b&gt;손탁현&lt;/b&gt; 변호사 장인상, &lt;b&gt;김민정&lt;/b&gt; 시부상, &lt;b&gt;박민기&lt;/b&gt; 조부상, &lt;b&gt;손정우&lt;/b&gt;·&lt;b&gt;손지윤&lt;/b&gt; 외조부상=5일6시23분 서울아산병원, 발인 7일6시30분, (02)3010-2000&lt;br&gt;&lt;br&gt;▲&lt;b&gt;김수환&lt;/b&gt; 서울대 전기·정보공학부 교수 별세, &lt;b&gt;이화경&lt;/b&gt; 남편상, &lt;b&gt;김세윤&lt;/b&gt;·&lt;b&gt;김수민&lt;/b&gt; 부친상, &lt;b&gt;김규환&lt;/b&gt; 전주본병원 원장·&lt;b&gt;김정환&lt;/b&gt; 울산대 의대 교수 동생상, &lt;b&gt;김효정&lt;/b&gt; 을지대 의대 교수 오빠상=5일11시20분 서울아산병원, 발인 8일5시, (02)3010-2263&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[알립니다] 우리 아이 출생 소식 액자에 담아 간직하세요</title>
+      <link>https://www.chosun.com/special/announcement/2025/06/06/X3LFAQHPGFBGLBXCKCW4UQMPSE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/special/announcement/2025/06/06/X3LFAQHPGFBGLBXCKCW4UQMPSE/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Thu, 05 Jun 2025 15:50:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GLXPMTSMVVFU3FFV3SZB3MXZFA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/조선일보 리프린트&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;조선일보에 실린 아기 출생 소식, 본인이나 지인의 인터뷰·사진 기사를 영원히 추억으로 간직하세요. 조선일보는 독자가 원하는 신문 지면을 그대로 고급 액자에 담아 드리는 ‘조선일보 리프린트’ 서비스를 합니다. 매주 ‘아이가 행복입니다’ 지면에 소개된 한 가족을 추첨해 리프린트를 선물로 드립니다. 지난달 30일 ‘우리 아기가 태어났어요’ 코너에 실린 고선우&amp;lt;사진&amp;gt;군이 이번 주 주인공입니다. 자세한 내용은 홈페이지(&lt;a href="http://reprint.chosun.com/"&gt;reprint.chosun.com&lt;/a&gt;)에서 확인할 수 있습니다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[오늘의 날씨] 2025년 6월 6일</title>
+      <link>https://www.chosun.com/national/transport-environment/2025/06/06/ZRXPU5XTYRHFVMWQDC4TQGL5NI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/06/06/ZRXPU5XTYRHFVMWQDC4TQGL5NI/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Thu, 05 Jun 2025 15:50:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZR4ZCCXHH5BKZCGMOIW7LLQGSM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[우리 아이 튼튼하게] ‘불주사’ ‘도장형’ 결핵 백신… 방법 달라도 효과 비슷해요</title>
+      <link>https://www.chosun.com/culture-life/culture_general/2025/06/06/LDE42BORL5B6RNWTQHRMFTB2FQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/culture-life/culture_general/2025/06/06/LDE42BORL5B6RNWTQHRMFTB2FQ/</guid>
+      <dc:creator>백정현 우리아이들병원 병원장</dc:creator>
+      <description/>
+      <pubDate>Thu, 05 Jun 2025 15:50:00 +0000</pubDate>
+      <content:encoded>우리나라는 생후 1개월 이내 모든 신생아에게 ‘BCG 백신’ 접종을 권고하고 있어요. BCG 백신은 결핵을 예방하는 약이랍니다. 결핵이라고 하면 주로 기침이 심한 폐결핵을 떠올리는데, 결핵균은 폐결핵 외에도 치명적인 질환을 일으킬 수 있기 때문에 꼭 BCG 접종을 해야 해요. BCG 백신은 영유아 대상으로는 결핵 예방 효과가 있지만 청소년 및 성인은 예방 효과가 거의 없는 것으로 알려져 있어요. 신생아 BCG 접종 후 결핵 예방 효과 지속 기간은 약 10~20년 정도입니다.&lt;br&gt;&lt;br&gt;BCG 접종은 방법에 따라 피내용(불주사)과 경피용(도장형)으로 구분되고, 접종 방법은 보호자가 결정합니다.&lt;br&gt;&lt;br&gt;어떤 방식을 선택해야 할까요? 피내용 BCG는 국가 필수 예방접종 지원 사업에 포함된 항목이라 무료예요. 흔히 ‘불주사’라고 부르지요. 이는 피부의 가장 얇은 표층에 바늘을 넣어 백신을 주입하는 방식으로 어깨에 동그란 접종 흉터가 남게 돼요. 피내용 BCG 백신은 일부 병의원과 보건소에서 시행하는데, 접종 가능 일시가 따로 정해져 있어 미리 알아보고 가셔야 해요. &lt;br&gt;&lt;br&gt;경피용 BCG는 유료 접종이에요. 피부에 주사액을 바른 후 바늘이 나 있는 주사 도구를 이용해 두 번에 걸쳐 강하게 눌러 접종하는 방식이에요. 이 방식은 통증이 적고 주사 자국 또한 거의 남지 않는다는 특징이 있어요. 경피용은 피내용보다 더 많은 병의원에서 가능해요. 두 약 모두 안전성과 효과는 비슷하니 의사와 상의 후 결정하시면 돼요.&lt;br&gt;&lt;br&gt;BCG 접종 후 몽우리에 고름이 생기게 되는데, 고름은 짜지 마세요. 고름이 너무 많이 생긴다면 소독된 솜으로 닦아주고 통풍이 잘되게 해주는 것으로 충분해요. 접종 부위에 궤양이 생기더라도 따로 약을 바르거나 반창고를 붙일 필요는 없습니다.&lt;br&gt;&lt;br&gt;보통 접종 후 9~12주가 지나면 흉터(반흔)가 생기는데, 간혹 반흔이 생기지 않아 항체가 생기지 않은 것이 아닌지 걱정하는 경우가 있습니다. 하지만 전체 접종자의 5% 정도는 반흔이 생기지 않으며, 그렇다고 해서 반드시 면역 형성이 안 된 것은 아닙니다. 따라서 재접종할 필요는 없어요.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[법없이도 사는법]‘대북송금’ 이화영 유죄 확정..이재명 대통령 재판은</title>
+      <link>https://www.chosun.com/national/court_law/2025/06/06/NMOVV7S4OZEXFMH4BQLSUF7LBI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/06/NMOVV7S4OZEXFMH4BQLSUF7LBI/</guid>
+      <dc:creator>양은경 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 05 Jun 2025 15:10:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CMJJ6QN5ZKUCTSV43FZ7CF774U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이화영 전 경기도 평화부지사 . 2024.10.25/뉴스1 ⓒ News1 김민지 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;쌍방울 그룹의 800만달러 불법 대북 송금에 관여한 혐의로 기소된 이화영 전 경기도 평화부지사가 5일 대법원에서 징역 7년 8개월을 확정받았습니다. &lt;br&gt;&lt;br&gt;대법원 2부(주심 박영재 대법관)는 이날 뇌물 및 외국환 거래법 위반 등으로 기소된 이 전 부지사에게 징역 7년 8개월과 벌금 2억 5000만원, 추징금 3억 2595만원을 선고한 2심을 확정했습니다. &lt;br&gt;&lt;br&gt;이 전 부지사는 이재명 대통령이 경기도지사였던 2019년 도지사 방북비용 300만달러 및 북한 스마트팜 사업 비용 합계 800만 달러를 세관에 신고하지 않고 밀반출해 외국환거래법을 위반한 혐의로 기소됐습니다. 경기도가 내야 할 돈을 쌍방울이 대신 내게 했는데 그 반출과정이 외국환거래법 위반이라는 것입니다. 아울러 쌍방울로부터 수억원대의 뇌물과 정치자금을 받은 혐의도 있습니다. &lt;br&gt;&lt;br&gt; 1,2심은 800만달러가 북한으로 송금된 사실을 모두 인정했습니다. 이중 외국환거래법위반은 394만 달러를 유죄로 봤습니다. 이들 자금을 마련하기 위해 달러를 준비한 후 중국에서 환치기한 부분에 대해서는 외국환거래법 구성요건상 별도의 처벌규정이 없다는 이유로 무죄가 선고됐습니다. &lt;br&gt;&lt;br&gt;즉 외국환거래법의 법리적인 이유로 일부는 무죄가 선고됐지만 800만 달러가 건너간 것은 인정됐습니다. 이 전 부지사가 쌍방울 측으로부터 받은 뇌물 및 정치자금 3억 2000여만원에 대해서도 유죄가 인정됐습니다. 1심에서는 징역 9년 6개월, 2심은 징역 7년 8개월을 선고받았습니다. &lt;br&gt;&lt;br&gt;대법원은 이날 “원심 판단에는 논리와 경험의 법칙을 위반하거나 법리를 오해하는 등으로 판결에 영향을 미친 잘못이 없다”며 원심을 확정했습니다. &lt;br&gt;&lt;br&gt;이 사건에서 주목을 받았던 부분은 이화영 당시 부지사가 경기지사이던 이재명 대통령에게 대북송금 사실을 보고했는지 여부였습니다. 이에 대해 법원은 직접 판단하지 않았습니다. 이 전 부지사가 이 대통령과 공모관계로 기소된 것도 아니고 공소사실 중 공모 여부가 명시된 것도 아니기 때문입니다.&lt;br&gt;&lt;br&gt; 다만 1심 판결문에서 김성태 전 쌍방울 회장이 경기지사에게 스마트팜 비용 대납을 보고했는지 여부를 이 전 부지사에게 수차례 묻고 확인했다고 언급한 부분이 있습니다. 쌍방울이 800만달러를 대납하게 된 동기를 설명하며 나온 내용입니다. &lt;br&gt;&lt;br&gt;이 대통령은 이 사건과 관련해 제3자 뇌물 혐의로 기소된 상태입니다. 경기도지사 시절 쌍방울 측으로부터 대북 사업 편의를 봐 달라는 청탁을 받고 스마트팜 사업비와 방북비 총 800만 달러를 대신 내도록 했다는 혐의입니다. &lt;br&gt;&lt;br&gt;제3자 뇌물죄는 공무원이 부정한 청탁을 받고 제3자에게 재물이나 재산상 이익을 주도록 했다는 내용인데, 쌍방울의 대북사업 편의를 봐주는 것을 ‘부정한 청탁’으로, 800만달러를 받아간 북한을 ‘제3자’로 구성한 내용입니다. &lt;br&gt;&lt;br&gt;이화영 전 부지사에게 유죄가 확정되면서 ‘대북송금’사실관계는 인정됐습니다. 이 대통령에게도 부담이 될 수 있는 부분입니다. 그러나 이 대통령 재판에서 뇌물죄 성립 여부를 살피기 위해서는 이 대통령이 대북 송금을 인식했는지, 보고받고 승인하는 등으로 공모했는지 여부를 추가로 따져야 합니다. 또한 쌍방울 측에서 대북사업 편의를 봐 달라는 부정한 청탁을 했는지, 법리적으로 북한을 뇌물죄의 제3자로 볼 수 있는지도 살펴야 합니다. &lt;br&gt;&lt;br&gt;작년 6월 기소된 이재명 대통령의 대북송금 사건은 현재까지 본 재판을 시작하지 못하고 있습니다. 이 대통령 측이 지난 12월 재판부가 이화영 전 부지사 1심 담당 재판부로서 유죄 예단을 가졌다는 이유로 법관 기피 신청을 내면서 재판이 중단됐습니다. 법원이 기피신청 재판을 하는 사이 법관 정기 인사로 판사가 바뀌면서 지난 2월 기피신청이 각하됐습니다. &lt;br&gt;&lt;br&gt;이후 새 재판부가 사건을 맡았고 그동안 피고인 출석 없이 검사와 변호인이 쟁점을 정리하는 준비절차만 여러 차례 열렸습니다. 대선 직전인 지난 5월 27일 6차 준비기일이 열렸고 이 자리에서 대선 후보이던 이 대통령 측 변호인은 공소사실에 대해 전부 부인하는 입장을 밝히며 자세한 내용은 의견서로 제출하겠다고 했습니다. &lt;br&gt;&lt;br&gt;이 사건은 오는 7월 22일에도 공판준비기일이 예정돼 있습니다. 그러나 민주당이 현직 대통령 임기 중 형사 재판을 중단하는 형사소송법 개정안을 통과시키면 재판은 대통령 임기 종료 후에나 열릴 가능성이 높습니다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>尹, ‘계엄 피해 위자료’ 청구한 시민들 상대로 ‘소송비 담보 제공’ 신청</title>
       <link>https://www.chosun.com/national/court_law/2025/06/05/CIF2OE6JXVFAFD76PRQTW2VZGE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/05/CIF2OE6JXVFAFD76PRQTW2VZGE/</guid>
@@ -701,51 +884,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JCF64AXANGSL362YL54UQ25PUA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;조두순. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;아동 성폭행 등의 혐의로 복역한 뒤 출소한 조두순이 정신 이상 증세로 약 한 달 동안 정신 감정을 받게 됐다.&lt;br&gt;&lt;br&gt;4일 법조계에 따르면 수원지법 안산지원은 이날 조두순에 대한 감정유치 심문기일을 열고 감정유치장을 발부했다.&lt;br&gt;&lt;br&gt;감정유치는 피고인의 정신 또는 신체 감정을 위해 일정 기간 의료기관 등에 유치하는 강제 처분이다. &lt;br&gt;&lt;br&gt;지난 2020년 출소한 조두순은 학생들이 등하교하는 오전 7~9시와 오후 3~6시, 야간 시간대인 오후 9시부터 다음 날 오전 6시까지 외출할 수 없다.&lt;br&gt;&lt;br&gt;그러나 조두순은 지난 4~5월 두 차례 법원의 외출 제한 명령을 어기고 무단 외출했다가 적발됐다. 조두순은 2023년 12월엔 주거지 밖으로 나가 ‘오후 9시 이후 야간 외출 금지’ 명령을 위반한 혐의로 징역 3개월을 선고받고 복역하기도 했다. &lt;br&gt;&lt;br&gt;안산보호관찰소는 조두순이 외출 제한 명령을 어기는 일이 반복되자 조두순의 상태 확인이 필요하다고 보고 법원에 감정유치를 청구했다.&lt;br&gt;&lt;br&gt;법원의 결정에 따라 조두순은 국립법무병원에서 한 달가량 정신 감정을 받게 됐다.&lt;br&gt;&lt;br&gt;한편 조두순은 2008년 12월 안산의 한 교회 앞에서 초등학생을 납치해 성폭행하고 중상을 입힌 혐의로 징역 12년형을 선고받고 복역한 뒤 2020년 12월 12일 출소했다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[두근두근 뇌 운동] [2636] 강세 바꿔 읽기</title>
-      <link>https://www.chosun.com/national/nie/2025/06/05/3ILIFGSLMRAQ3GD7I6ROHMQH34/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2025/06/05/3ILIFGSLMRAQ3GD7I6ROHMQH34/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 04 Jun 2025 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/D2KUEVJ3V5A3VC2F7XAZM5LDNY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[매일매일 중국어 한마디] 주관하다, 진행을 맡다</title>
-      <link>https://www.chosun.com/national/nie/chinese/2025/06/05/TTCKVN5DONAXRAEIXUVIEUMVCY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese/2025/06/05/TTCKVN5DONAXRAEIXUVIEUMVCY/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 04 Jun 2025 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3KLUUYRJVVGMTJ4AXXVTREUSAY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문으로 배우는 실용한자] 실소(失笑)</title>
-      <link>https://www.chosun.com/national/nie/chinese_character/2025/06/05/KBSTOURYRRCWFK7DN6AJS3Y4PM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese_character/2025/06/05/KBSTOURYRRCWFK7DN6AJS3Y4PM/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 04 Jun 2025 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OKCVXUMHBNETJJI4Y5TG7OWHPM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[스피킹이 강해지는 영어] It sounds good in theory.</title>
-      <link>https://www.chosun.com/national/nie/english/2025/06/05/55CPPROLBBDPLPVFBFNG7SGIJ4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/english/2025/06/05/55CPPROLBBDPLPVFBFNG7SGIJ4/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 04 Jun 2025 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HOCXQNZQNNAQDB7EZJ7LLDKMIU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[입에 착착 붙는 일본어] 발을 들여놓다</title>
-      <link>https://www.chosun.com/national/nie/japanese/2025/06/05/DHHMR5ZQTRHLLJ74OPCP76MSTA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/japanese/2025/06/05/DHHMR5ZQTRHLLJ74OPCP76MSTA/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 04 Jun 2025 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NCNA5O2F3JCL5KLRHPD6OQG67M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>대선 결과 조롱하자 지인 흉기 위협한 50대 남성 체포 </title>
       <link>https://www.chosun.com/national/national_general/2025/06/04/GPELWDGEWRFDTF7YJJ3ASQ62NI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/04/GPELWDGEWRFDTF7YJJ3ASQ62NI/</guid>
@@ -764,38 +902,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XTLECR7B4352DWFW6F6JHWXHRE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;더불어민주당 중앙선대위 신속대응단 정준호 부단장과 소속 의원들이 지난달 31일 극우성향 단체의 댓글 조작팀으로 추정되는 서울 종로구 리박스쿨을 항의 방문한 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰이 댓글 조작 의혹이 불거진 보수 성향 단체 ‘리박스쿨’과 관련해 4일 강제 수사에 돌입했다. 리박스쿨은 2017년 6월 이승만·박정희 전 대통령의 성(姓)을 따 설립된 역사교육 단체다. 단체 공식 이름은 ‘대한민국역사지킴이’다.&lt;br&gt;&lt;br&gt;서울경찰청 사이버수사대는 이날 손효숙 리박스쿨 대표에 대해 출국 금지를 하고, 사무실 등에 대한 압수 수색을 벌이고 있다고 밝혔다. 서울경찰청은 사이버수사과장을 팀장으로 20명 규모의 수사 전담팀을 구성했다. 서울경찰청 관계자는 “압수 수색을 통해 확보된 자료를 면밀히 분석하고 혐의 유무에 대해 신속하고 엄정하게 수사할 예정”이라고 했다. &lt;br&gt;&lt;br&gt;앞서 온라인 매체 뉴스타파는 리박스쿨이 초등학교 늘봄학교(초등학교에서 방과 후 오후 8시까지 학생들을 돌봐주는 정책) 자격증 지급을 미끼로 ‘자손군(자유손가락부대)’이라는 댓글팀을 모집·운영하며 이재명 후보를 공격하고, 김문수 국민의힘 당시 대선 후보를 띄우는 댓글 공작을 했다고 보도했다. 교육부에 따르면 리박스쿨은 올해 초 서울교대와 업무협약을 맺고 서울 지역 10개 초등학교에 늘봄학교 강사를 공급했다. 그러나 국민의힘은 “(리박스쿨과) 국민의힘은 아무런 관련이 없다”고 했었다.&lt;br&gt;&lt;br&gt;더불어민주당은 대선 본투표 전인 지난달 31일 손 대표와 댓글 조작에 가담한 이들을 공직선거법상 부정 선거운동·매수·이해 유도, 업무방해 혐의로 경찰에 고발했다. &lt;br&gt;&lt;br&gt;경찰은 이번 압수 수색을 통해 “리박스쿨과 연관된 프로그램은 서울 지역 초등학교 곳곳에 보급됐다”는 취지의 보도를 확인하겠다는 계획이다. 이날 경찰은 “고발인 조사와 참고인을 대상으로 한 자료 수집에 나서는 등 수사를 진행 중”이라고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>‘선감학원’ 피해자 손배소 항소심도 일부 승소...배상액 1심보다 늘어</title>
-      <link>https://www.chosun.com/national/court_law/2025/06/04/RVDL3DH7EFAJVBX5PDQFAJFBXI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/04/RVDL3DH7EFAJVBX5PDQFAJFBXI/</guid>
-      <dc:creator>김은경 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 04 Jun 2025 10:59:01 +0000</pubDate>
-      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FNTVAUZKITZE4XCQNLABPDVYN4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울고등법원 청사&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;일제강점기 부랑아 교화라는 명목으로 아동·청소년에게 강제 노역과 고문을 가한 ‘선감학원 사건’의 피해자들이 국가와 경기도를 상대로 낸 손해배상 소송 항소심에서도 일부 승소했다.&lt;br&gt;&lt;br&gt;서울고법 민사1부(재판장 이양희)는 4일 선감학원 피해자 13명이 낸 손해배상 청구 소송에서 국가와 경기도가 1인당 4500만~6억5000만원의 위자료를 지급하라고 판결했다. 항소심이 인정한 배상액은 모두 33억 100만원으로, 지난해 6월 1심에서 인정됐던 21억 6600만원보다 10억원 넘게 늘었다.&lt;br&gt;&lt;br&gt;재판부는 “국가와 지방자치단체가 적극적으로 개입해 장기간 이뤄진 중대한 인권침해 사안”이라며 “유사한 인권침해가 다시 자행되지 않도록 억제·예방할 필요성이 크다”고 했다.&lt;br&gt;&lt;br&gt;이어 “피해자들은 수용당시 6~12세에 불과한 어린 아동들이었고, 의사와 무관하게 강제로 수용됐다”며 “강제노역과 가혹행위에 시달리며 장기간 수용됐다 퇴소하는 바람에 교육받을 권리를 침해당했으며 대부분 현재까지도 정신적·육체적 후유증으로 고통받고 있다”고 했다.&lt;br&gt;&lt;br&gt;위자료 액수를 증액한 데 대해서는 “50년 이상 오랜 기간이 지났음에도 원고들에 대한 배상이 이뤄지지 않았고 그동안 위자료 산정의 기준이 되는 변론 종결 시의 국민 소득 수준이나 화폐 가치 등이 상당히 변했다”며 “이를 반영해 위자료 액수도 증액돼야 한다”고 했다.&lt;br&gt;&lt;br&gt;선감학원은 일제강점기인 1942년부터 경기 안산 선감도에 설립·운영된 시설이다. 부랑아 교화라는 명목으로 아동·청소년을 강제 수용해 노역하게 했고 이 과정에서 폭행·학대·고문 등이 이뤄졌다. 광복 후에도 경기도가 이를 인수해 1982년까지 존속했다. 앞서 2기 진실·화해를위한과거사정리위원회 지난 2022년 선감학원 수용자 전원이 아동 인권침해 사건의 피해자라고 인정했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>왜 죽였나 묻자 ‘묵묵부답’ 처자식 살해 40대 가장 구속</title>
-      <link>https://www.chosun.com/national/2025/06/04/623NIHARX5BKZD2K3JECQVQHL4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2025/06/04/623NIHARX5BKZD2K3JECQVQHL4/</guid>
-      <dc:creator>광주광역시=진창일 기자</dc:creator>
-      <description>전남 진도에서 아내와 두 아들을 승용차에 태운 뒤 바다로 돌진해 숨지게 한 혐의를 받는 40대 가장이 구속됐다.
-광주지법 영장전담 김호석 부장판사는 4일 처자식을 살해한 혐의(살인·자살방조)를 받는 지모(49)씨에 대해 구속영장을 발부했다.</description>
-      <pubDate>Wed, 04 Jun 2025 10:08:36 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RTAXKJ5KQVNM7CAWDILIHS7ODA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;처자식을 살해한 혐의로 체포된 지모(49) 씨가 4일 오전 광주지방법원에서 열린 구속 전 피의자 심문(영장실질심사)에 출석하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전남 진도에서 아내와 두 아들을 승용차에 태운 뒤 바다로 돌진해 숨지게 한 혐의를 받는 40대 가장이 구속됐다.&lt;br&gt;&lt;br&gt;광주지법 영장전담 김호석 부장판사는 4일 처자식을 살해한 혐의(살인·자살방조)를 받는 지모(49)씨에 대해 구속영장을 발부했다.&lt;br&gt;&lt;br&gt;그는 지난 1일 오전 1시 12분쯤 진도항에서 승용차를 몰고 바다로 돌진해 아내(49)와 고등학생 두 아들을 숨지게 한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;김 부장판사는 “도주의 우려가 있다”며 영장 발부 사유를 밝혔다. 지씨는 경찰 조사에서 “1억6000만원이나 되는 채무 때문에 힘들어 아내와 아들에게 수면제를 먹인 뒤 바다로 돌진했다”고 진술한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰은 지씨에 대한 구속영장을 신청하면서 자살 방조 혐의를 추가했다. 경찰 관계자는 “지씨는 아내가 병원에서 처방받은 수면제를 범행에 사용했고, 아내와 극단적 선택을 공모했다고 진술하고 있다”고 설명했다.&lt;br&gt;&lt;br&gt;지씨는 이날 법정을 나서며 쏟아진 “왜 죽였느냐” “혐의를 인정하느냐”는 취재진 질문에 대답하지 않고 호송차량을 타고 떠났다.&lt;br&gt;&lt;br&gt;경찰은 국립과학수사연구원에 가족들의 시신 부검을 의뢰하고 휴대전화와 차량 블랙박스 분석 작업을 할 계획이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/RTAXKJ5KQVNM7CAWDILIHS7ODA.jpg?auth=a3256b6a11730b0b83159ce380b4e69629971d1f9f291ac1436e5cec3c161bbc&amp;smart=true&amp;width=6000&amp;height=4000" type="image/jpeg" height="4000" width="6000">
-        <media:description type="plain">처자식을 살해한 혐의로 체포된 지모(49) 씨가 4일 오전 광주지방법원에서 열린 구속 전 피의자 심문(영장실질심사)에 출석하고 있다. /연합뉴스</media:description>
-        <media:credit role="author" scheme="urn:ebu">정회성</media:credit>
-      </media:content>
-    </item>
-    <item>
-      <title>부산서 택시가 인도 돌진해 보행자 등 4명 부상</title>
-      <link>https://www.chosun.com/national/national_general/2025/06/04/RGLAFR67M5G2BPU7HIGWQCVSQE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/04/RGLAFR67M5G2BPU7HIGWQCVSQE/</guid>
-      <dc:creator>김명일 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 04 Jun 2025 10:00:37 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IIBB6CSZFMNDAPIZOUCC6XRDQU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;4일 부산 사하구의 한 도로에서 운행 중이던 택시가 인도로 돌진하는 사고가 발생한 모습. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산에서 운행 중이던 택시가 갑자기 인도로 돌진해 보행자 등 4명이 부상을 당하는 사고가 발생했다. &lt;br&gt;&lt;br&gt;4일 경찰과 소방 등에 따르면 이날 오후 3시 11분쯤 부산 사하구 한 도로에서 택시(아이오닉6)가 갑자기 인도로 돌진해 보행자를 쳤다.&lt;br&gt;&lt;br&gt;이어 택시는 주차된 차량 2대와 무더위 쉼터 벽면을 들이받고 멈춰 섰다.&lt;br&gt;&lt;br&gt;이 사고로 택시 기사 70대 A씨와 보행자, 무더위 쉼터에 있던 시민 2명 등 총 4명이 경상을 입었다. &lt;br&gt;&lt;br&gt;택시 기사 A씨는 사고 현장에서 “차량이 급발진했다”고 주장한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰은 차량 결함 여부나 운전자 과실 여부 등을 확인해 정확한 사고 원인을 파악할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>‘사표 수리’ 박성재 법무장관 “국민통합·법치주의 구현 희망”…직대 체제 전환 예정</title>
       <link>https://www.chosun.com/national/court_law/2025/06/04/IMSTJMFPH5HDBAUNIJOSYFOYW4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/04/IMSTJMFPH5HDBAUNIJOSYFOYW4/</guid>
@@ -805,26 +911,6 @@
       <content:encoded>4일 사표가 수리된 박성재 법무장관이 청사를 떠나며 “국민 모두를 위한 진정한 국민 통합과 실질적 법치주의, 민주주의가 구현되길 희망한다”는 인사를 남겼다. 박 장관의 퇴직 절차가 마무리되는 대로 김석우 법무차관이 장관 직무를 대행할 예정이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2V7I4I4H3ZLIBGDVGH3KJWWWFY.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;탄핵소추안 기각으로 직무에 복귀한 박성재 법무장관이 지난 4월 10일 경기 과천 법무부 청사로 출근하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;박 장관은 이날 오후 6시 45분쯤 경기 과천시 법무부 청사에서 기자들과 만나 “인사명령을 받지 못해서 드릴 말씀이 없다”면서도 “신임 대통령께서 말씀하신 ‘국민 모두를 위한 진정한 국민 통합’과 실질적 법치주의, 민주주의가 구현되길 희망한다”고 했다. 이어 “저도 밖에서 국민 여러분과 국가를 위해서 최선을 다하겠다”며 “그동안 도와주셔서 감사하다”고 했다. 박 장관은 짧은 발언을 마친 뒤 청사를 떠났다. 별도의 퇴임식은 열리지 않았다.&lt;br&gt;&lt;br&gt;이 대통령은 이날 윤석열 정부 국무위원 전원의 사의 표명을 반려했으나, 박 장관의 사의는 수용했다. 강유정 대통령실 대변인은 이날 서울 용산 대통령실 브리핑에서 “이주호 사회부총리 겸 교육부 장관이 대통령과 통화에서 국무위원 전원의 사임 의사를 전했다”면서 “(이 대통령은) 국정 연속성과 비상 경제의 점검 필요성을 강조하면서 박 장관을 제외한 나머지 국무위원의 사의는 반려했다”고 밝혔다.&lt;br&gt;&lt;br&gt;박 장관은 내란에 동조했다는 사유 등으로 지난해 12월 민주당에 의해 탄핵소추됐다. 그러나 헌법재판소가 전원일치로 기각 결정을 내리며 지난 4월 직무에 복귀했었다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>‘태안화력 근로자 사망’ 충남경찰 전담팀 투입… 작업서류·CCTV 분석</title>
-      <link>https://www.chosun.com/national/regional/chungcheong/2025/06/04/GYOPHQWMJNFNRAP5WYBNPAVSOA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2025/06/04/GYOPHQWMJNFNRAP5WYBNPAVSOA/</guid>
-      <dc:creator>태안=김석모 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 04 Jun 2025 09:51:31 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CYLNQIG6B5OQBNJGS2RV5OTVS4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 2일 충남 태안화력발전소 내 종합정비동 1층에서 근로자 사망 사고가 발생함에 따라  대전지방고용노동청의 '작업중지 명령서'와 경찰의 '출입금지' 안내문이 붙었다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;충남 태안화력발전소 하도급 업체 근로자 김충현(50)씨 사망 사고를 수사하는 경찰이 전담팀을 투입하고, 사고가 난 기계를 전문기관에 의뢰하는 등 집중 수사를 벌이고 있다.&lt;br&gt;&lt;br&gt;충남경찰청은 형사기동대 안전사고팀 수사관 5명 전원을 투입해 사고 현장에서 작업 지시 관련 문서를 확인하고 있다고 4일 밝혔다.&lt;br&gt;&lt;br&gt;확인 대상은 원청인 한국서부발전과 한전KPS, 김씨의 소속 업체인 한국파워O&amp;amp;M의 도급계약서와 업무 분장 보고서, 안전관리 기록, 김씨의 사고 당일 작업 오더(주문), 작업 일지 등이다.&lt;br&gt;&lt;br&gt;경찰은 확보한 자료를 토대로 원청, 하도급 업체 관계자를 상대로 사고 당시 작업 현황과 절차적인 문제점이 없는지 조사할 계획이다.&lt;br&gt;&lt;br&gt;사고 직후 한국KPS 측은 김씨의 사고 당시 작업에 대해 “오늘 작업 계획에 포함돼 있지 않은 업무를 하던 중 사고가 발생한 것으로 보인다”고 밝혔다. 한국파워O&amp;amp;M 현장 소장도 “사고 당시 작업 지시가 없어 같이 있지 않았다”고 진술했다.&lt;br&gt;&lt;br&gt;하지만 태안화력 비정규직 사망사고 대책위원회는 “2인 1조 작업이 지켜지지 않았고, 오더가 없으면 작업할 수 없는 구조”라고 했다.&lt;br&gt;&lt;br&gt;숨진 김씨는 소속 업체에서 유일한 선반 담당으로 근무해온 것으로 알려졌다.&lt;br&gt;&lt;br&gt;이에 경찰은 사고 당일부터 이전 보름여 간 작업장 방범카메라(CCTV) 영상을 확보해 평소 김씨의 작업 형태와 업무 지시 과정을 분석하고 있다.&lt;br&gt;&lt;br&gt;이와 함께 경찰은 사고가 난 기계의 고속 회전축 덮개가 열린 채 작동된 사실을 확인하고 한국산업안전보건공단에 기계의 정밀 조사를 의뢰했다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “김씨의 옷가지가 회전축에 빨려 들어가며 사고가 발생한 것으로 보인다”면서 “기계 작동에 문제가 있었는지 공단 측과 확인하고 있다”고 말했다.&lt;br&gt;&lt;br&gt;김씨의 정확한 사인을 확인하기 위해 경찰은 국립과학수사연구원에 시신 부검을 의뢰할 예정이었지만 유족 조사 등에 따라 미뤄졌다.&lt;br&gt;&lt;br&gt;김씨는 지난 2일 오후 2시 30분쯤 태안화력발전소 내 종합정비동 1층에서 선반 작업 중 기계에 옷이 끼이면서 숨졌다.&lt;br&gt;&lt;br&gt;사고 대책위는 4일 오후 7시부터 양일간 태안버스터미널에서 ‘태안화력 故 김충현 비정규직 노동자 추모문화제’를 진행한다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>울산서 뺑소니 사망 사고 내고 회사 출근한 40대 구속</title>
-      <link>https://www.chosun.com/national/incident/2025/06/04/SFZS2CSFQZDSXLPXLP7E5WY2NI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/06/04/SFZS2CSFQZDSXLPXLP7E5WY2NI/</guid>
-      <dc:creator>정성원 기자</dc:creator>
-      <description>아침 출근길에 뺑소니 사망 사고를 내고도 태연하게 회사에 출근한 40대가 수 구속됐다.
-울산 북부경찰서는 특정범죄 가중처벌 등에 관한 법률상 도주치사 혐의로 40대 A씨를 구속했다고 4일 밝혔다.
-</description>
-      <pubDate>Wed, 04 Jun 2025 09:49:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/L4GEXC5HOZAC5NA5TDDI7RQ23U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;아침 출근길에 뺑소니 사망 사고를 내고도 태연하게 회사에 출근한 40대가 구속됐다.&lt;br&gt;&lt;br&gt;울산 북부경찰서는 특정범죄 가중처벌 등에 관한 법률상 도주치사 혐의로 40대 A씨를 구속했다고 4일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 2일 오전 7시 7분쯤 울산 북구 신명동 한 도로에서 자신의 차량을 운전하다가 앞서 달리던 전동 카트를 추돌하고 도주한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;이 사고로 60대 전동카트 운전자 B씨가 숨지고 함께 타고 있던 B씨의 아내가 크게 다쳤다.&lt;br&gt;&lt;br&gt;A씨는 사고 이후 119 신고 외에는 별다른 구호 조치를 하지 않은 채 달아났으나 경찰은 사고 현장 인근 방범카메라(CCTV)에서 A씨의 차량 번호를 특정, 사고 발생 8시간 30분 만에 직장에 있던 A씨를 긴급 체포했다.&lt;br&gt;&lt;br&gt;경찰은 A씨의 음주나 약물 복용 여부 확인 등 조사를 마무리하는 대로 사건을 검찰에 송치할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>수능 6월 모의평가, 역대 최다 50만명 응시 </title>
       <link>https://www.chosun.com/national/education/2025/06/04/Q2LDR3TYFZCXVAFRMJONS73ZWA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/education/2025/06/04/Q2LDR3TYFZCXVAFRMJONS73ZWA/</guid>
@@ -832,15 +918,6 @@
       <description/>
       <pubDate>Wed, 04 Jun 2025 08:38:56 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5KHMFPCNLFIO5YHAQISFRQHMTM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;4일 오전 대구 수성구 대구여자고등학교에서 고3 학생이 6월 모의평가 1교시 국어 영역 시험을 앞두고 수험생 정보를 적고 있다.뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;4일 2026학년도 대학수학능력시험 전국연합학력평가(모의평가)가 열렸다. 이번 6월 모의평가는 역대 최다 응시생을 기록했다.&lt;br&gt;&lt;br&gt;수능 출제기관인 한국교육과정평가원 주관으로 열리는 모의평가는 수험생들이 수능을 앞두고 자신의 실력을 파악하는 기회다. 올해 6월 모의평가는 당초 3일 열릴 예정이었으나 조기 대선이 확정됨에 따라 하루 밀린 이날 열렸다.&lt;br&gt;&lt;br&gt;전국 2119개 고등학교와 511개 학원에서 동시에 열린 이번 시험엔 총 50만3572명이 응시했다. 모의평가 관련 통계가 발표된 2011학년도 이후 역대 최다다. 출생률이 이례적으로 늘었던 ‘황금돼지띠’ 2007년생이 고3이 되며 수험생이 늘어난 영향이다. 고3 재학생이 41만3685명(82.2%), 졸업생·검정고시생이 8만9887명(17.8%)으로 집계됐다.&lt;br&gt;&lt;br&gt;진학사는 “지난 수능과 대비해 국어, 영어는 유사한 난이도로 출제됐고, 수학은 다소 어려웠다”고 했다. 종로학원은 “국어·수학은 수능보다 비슷하거나 다소 어려웠고, 영어는 쉬웠다”고 평가했다.&lt;br&gt;&lt;br&gt;성적은 7월 1일 통지된다. 다음 모의평가인 9월 시험은 9월 3일 열린다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>술도 마약도 아니었다… 오토바이 치고 횡설수설 운전자, 알고 보니</title>
-      <link>https://www.chosun.com/national/national_general/2025/06/04/W736ESBIURCXBJTMKA4TSXIWLU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/04/W736ESBIURCXBJTMKA4TSXIWLU/</guid>
-      <dc:creator>박선민 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 04 Jun 2025 08:22:32 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TNYF2MZBHNEBBBSQNDZPUMKAQM.png"&gt;&lt;figcaption&gt;&lt;small&gt;수면제를 복용한 운전자가 차량에서 내리고 있다. /경찰청 유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;수면제를 복용한 상태로 차량을 운전하다 사고를 낸 운전자가 검찰에 송치됐다. &lt;br&gt;&lt;br&gt;4일 경찰청 유튜브에 따르면, 지난 4월 서울의 한 골목길 이면도로에서 차량 한 대가 비틀거리며 대각선 주행을 하다가 오토바이와 충돌하는 상황이 벌어졌다. 당시 상황이 담긴 영상을 보면, 운전자 A씨는 비정상적인 주행을 계속하다 인도 쪽 안전 펜스를 들이받기도 했다. &lt;br&gt;&lt;br&gt;오토바이 운전자의 정차 요구에 A씨가 하차하긴 했으나, 이후에도 비틀거리며 횡설수설하는 등 이상 행동을 이어갔다. 아예 오토바이 운전자를 무시하고 현장을 벗어나기도 했다. A씨는 신고를 받고 출동한 경찰 앞에서도 초점 없는 눈빛과 부자연스러운 걸음걸이를 보였다. &lt;br&gt;&lt;br&gt;이에 경찰은 A씨의 음주운전을 의심하고 혈중알코올농도 검사를 진행했으나, 별다른 수치가 나오지 않았다. 마약 가능성을 의심해 마약 간이 시약 검사를 했을 때도 마찬가지였다. 소변 검사도 진행했지만, 마약 음성 반응이 나왔다. &lt;br&gt;&lt;br&gt;조사 결과 A씨는 의료기관에서 처방받은 수면제를 복용한 상태에서 운전한 것으로 확인됐다. &lt;br&gt;&lt;br&gt;처방받은 약이라도 정상 운전을 못하는 상태에서 운전하면 특정범죄가중처벌법 등에 의해 처벌받을 수 있다. 특정범죄가중처벌법 제5조의11(위험 운전 등 치사상)은 음주 또는 약물의 영향으로 운전이 곤란한 상태에서 사람을 다치게 하면 1년 이상 15년 이하의 징역 또는 1000만원 이상 3000만원 이하의 벌금형에 처하도록 규정한다. 또 도로교통법 제45조(과로한 때 등의 운전 금지)는 음주 운전 외에 과로, 질병, 약물의 영향 등으로 정상적으로 운전하지 못할 우려가 있는 상태에서 운전해선 안 된다고 명시하고 있다. &lt;br&gt;&lt;br&gt;실제로 지난 1일 졸피뎀 성분이 포함된 수면제를 복용한 뒤 운전하다 사고를 내 사상자 8명을 발생하게 한 운전자가 특정범죄가중처벌법상 위험운전치사상 혐의로 징역형의 집행유예를 선고받기도 했다. 당시 재판부는 “피고인은 수면제를 복용해 정상적인 운전이 곤란한 상태였고, 이에 따라 적정한 속도로 운전하지 못하고 조향 및 제동장치도 적절하게 조작하지 못해 사고를 일으켰다는 점을 충분히 인정할 수 있다”고 판시했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[속보]이주호, 李대통령에 전체 국무위원 사의 표명</title>
@@ -870,15 +947,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZJ2A5FJ265DKDNC7C7JL2VQJBY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 31일 열린 대한의료정책학교 주최 '전공의·의대생에게 듣는 정책 간담회'에 더불어민주당 강선우·김윤 의원이 참석해 질의 응답을 주고받았다. /대한의료정책학교&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;사직 전공의와 의대생 40여 명이 주축이 되는 대한의료정책학교가 지난달 31일 더불어민주당과의 간담회에서 ‘응급실 뺑뺑이 방지법’, ‘수련 병원 의무 고지제’ 등 17개 정책 과제를 담은 제안서를 전달한 것으로 4일 확인됐다.&lt;br&gt;&lt;br&gt;의료정책학교는 의료계도 정책 입안에 적극적으로 참여해야 한다는 취지로 지난 3월 출범했다. 정치권에 보건의료 정책을 공식 제안한 것은 이번이 처음이다.&lt;br&gt;&lt;br&gt;우선 응급실 뺑뺑이를 방지하기 위해 현행 의료법 제11조의 ‘지체 없이’ 문구를 ‘필요한 응급 처치 후 즉시’로 개정해야 한다고 제안했다. 일차 의료기관에서 환자를 최소한으로 안정화한 뒤 전원할 수 있도록 해, 119 재이송 부담을 줄이자는 취지다.&lt;br&gt;&lt;br&gt;의료진의 형사 처벌 부담을 줄여야 한다는 제안도 담겼다. ‘응급 처치 후 재이송 동의서’에 환자가 서명할 경우, 처치 지연이나 증상 악화에 따른 의료진의 민·형사상 책임을 면제하는 조항을 담아야 한다는 것이다. 의료진이 형사 처벌 부담 없이 소신 있게 응급 진료를 할 수 있는 환경을 만들자는 취지다. 여기에 정부와 전문가 단체가 ‘필수 응급 조치 가이드라인’을 만들면, 의료 분쟁 가능성도 줄일 수 있다고 덧붙였다.&lt;br&gt;&lt;br&gt;이와 함께 ‘수련 병원 의무 고지제’를 도입해야 한다고 제안했다. 환자·보호자에게 수련 병원임을 알리고, 전공의 진료 참여에 대한 사전 동의를 받자는 것이다. 환자가 거부할 경우 전공의가 없는 병원을 안내해야 한다고 했다. &lt;br&gt;&lt;br&gt;앞서 지난 3월 열린 국회 토론회에서 허윤정 단국대병원 외상외과 교수는 “충분히 교육받지 못한 채 관리 사각지대에서 의료 행위를 하도록 내몰린 전공의가 스스로 책임 부담 주체가 되는 것은 부당하다”고 한 바 있다.&lt;br&gt;&lt;br&gt;또 내후년 3월 시행 예정인 ‘지역 돌봄 통합 지원법’과 관련해, 지역의사회가 ‘방문 진료 센터’를 설립해 진료에 참여할 수 있도록 해야 한다고 제안했다. 해당 법은 병원 퇴원 뒤 지역사회에서 의료·돌봄 서비스를 받을 수 있도록 국가와 지자체의 책무를 규정한 것이다. 현재는 전체 참여율이 0.5% 수준에 불과하다.&lt;br&gt;&lt;br&gt;이 밖에도 독립된 수련·교육 평가기구 설립, 전공의 수련 프로그램 내실화 등의 정책 과제가 담겼다. 간담회에서 김윤 의원은 “현재 준비 중인 내용도 다수 포함돼 의견을 주면 적극 반영할 수 있다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>검찰, ‘尹 허위사실공표 의혹’ 관련 게임산업협회 前관계자 소환</title>
-      <link>https://www.chosun.com/national/court_law/2025/06/04/HXSKD7XQBFCFHN2OFEFFHCBZEM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/04/HXSKD7XQBFCFHN2OFEFFHCBZEM/</guid>
-      <dc:creator>이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 04 Jun 2025 02:06:29 +0000</pubDate>
-      <content:encoded>윤석열 전 대통령이 부인 김건희 여사의 허위 경력 의혹에 대해 허위사실을 공표했다는 혐의를 수사 중인 검찰이 4일 최승훈 전 게임산업협회 사무국장을 소환했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YFVRJCSYCUEB5LEBX6JHSVWYGA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울중앙지검./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지검 공공수사2부(부장 조민우)는 이날 오전 최 전 사무국장을 참고인으로 불러 조사하고 있다. 최 전 사무국장은 김 여사가 2007년 수원여대 교수 초빙지원서 경력사항에 2002년 3월부터 3년간 게임산업협회에서 ‘기획팀 기획이사’로 재직했다고 기재한 것과 관련해 김 여사가 재직한 사실이 없다고 밝혔던 인물이다.&lt;br&gt;&lt;br&gt;최 전 사무국장은 2021년 12월 자신의 페이스북을 통해 자신이 협회의 전신인 게임산업연합회에서 2002년부터 근무했고, 2004년 게임산업협회 설립 때부터 5년간 정책실장, 사무국장으로 근무했다고 밝혔다. 그러면서 “김건희라는 분과 함께 근무한 적은 물론 본 적도 없다”고 했다. 이어 “연합회 시절 직원이 최대 4명이었고, 협회도 초창기 직원 수는 10명 미만의 작은 조직이었다”며 “제가 기억하고 있는 사실과 다르다는 점을 분명하게 확인한다”고 했다.&lt;br&gt;&lt;br&gt;이와 관련해 대선 후보이던 윤 전 대통령은 그달 14일 열린 관훈클럽 토론회에서 “(관련 경력이) 부분적으로는 모르겠지만 전체적으로 허위는 아니다”라고 말했다. 시민단체 사법정의바로세우기시민행동은 이러한 윤 전 대통령의 발언이 허위에 해당한다며 고발한 것이다.&lt;br&gt;&lt;br&gt;검찰은 지난달 1일 고발인 조사를 시작으로 본격적인 수사에 착수한 상태다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>“말이 가진 무게 배웠다”…김혜은, 자필로 적은 사과문 공개</title>
       <link>https://www.chosun.com/national/national_general/2025/06/04/4K2WWDLHWZAYVIVS7IOAQ6MXYI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/04/4K2WWDLHWZAYVIVS7IOAQ6MXYI/</guid>
@@ -889,80 +957,6 @@
       <media:content url="https://www.chosun.com/resizer/v2/7LK4WQK6YVGI3KRUOREDNUAWR4.jpg?auth=ba86396cb9d6358d8cf9bfb3013f71b1216f1cde1c9f8f9eb62d0a3a53014694&amp;smart=true&amp;width=841&amp;height=604" type="image/jpeg" height="604" width="841">
         <media:description type="plain">배우 김혜은./인스타그램</media:description>
       </media:content>
-    </item>
-    <item>
-      <title>‘빨간 옷’ 홍진경 사과했는데…박해미는 올블루 패션 공개, 왜?</title>
-      <link>https://www.chosun.com/national/people/2025/06/03/VO56BS2SAJDB5O6A5YFD475BOQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/06/03/VO56BS2SAJDB5O6A5YFD475BOQ/</guid>
-      <dc:creator>김명일 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 03 Jun 2025 13:28:26 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AYRPS4NOLFHGTJL7YNEH6HMNQI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;배우 박혜미가 대선일인 3일 파란색 옷을 입고 찍은 사진을 공개했다. /박해미 인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;배우 박혜미가 대선일인 3일 더불어민주당을 상징하는 색인 파란색 옷을 입고 찍은 사진을 공개해 화제가 되고 있다. 전날 방송인 홍진경은 제21대 대선 본투표를 하루 앞두고 국민의힘을 상징하는 색인 빨간색 옷을 입은 사진을 소셜미디어에 올렸다가 사과한 바 있다. &lt;br&gt;&lt;br&gt;박해미는 이날 자신의 소셜미디어에 ‘오늘도 감사한 하루’, ‘오늘도 행복하세용’이라는 글과 함께 파란색 상하의를 입고 커피를 들고 있는 자신의 사진을 공개했다. &lt;br&gt;&lt;br&gt;이날은 제21대 대통령 선거 본투표일이라 일부 네티즌은 박해미가 의상을 통해 특정 정당을 간접적으로 지지한 것이 아니냐는 추측이 나왔다. 박해미는 해당 게시물에서 선거와 관련된 언급은 하지 않았다.&lt;br&gt;&lt;br&gt;일각에선 특정 색깔 옷을 입었다는 이유로 연예인들이 비판받는 일이 반복되자 이에 항의하려는 의도로 파란색 옷을 입은 사진을 공개한 것 아니냐는 해석도 나온다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LSQJBNTKXVFWVCMCIB3J357LPA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;홍진경이 2일 소셜미디어에 올린 사진. 현재는 삭제됐다. /인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;홍진경은 빨간색 옷을 입은 사진이 논란이 되자 자필 사과문을 통해 “이 민감한 시기에 제가 이렇게 어리석은 잘못을 저지르다니 저 스스로도 진심으로 어처구니가 없다”며 “모두가 민감한 이 시기에 여러분이 마음을 혼란스럽게 해드린 점 다시 한번 진심으로 사과드린다”고 했다.&lt;br&gt;&lt;br&gt;앞서 걸그룹 에스파의 멤버 카리나도 빨간색 숫자 2가 새겨진 점퍼를 입고 찍은 사진을 올렸다가 정치색 논란에 휩싸였다. &lt;br&gt;&lt;br&gt;최근 연예인들은 특정 정당을 연상시키는 색깔의 물건을 들고 있거나 숫자 2를 연상시키는 손가락 브이(V) 등을 했다는 이유로 비판을 받았다. &lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/VRTOWBACP5H7FI6SM3XFHDZ27I.jpg?auth=aa1f895830bc4d801124918f5a1284499e5c1c721df393713ef771742f8a4ec2&amp;smart=true&amp;width=1890&amp;height=1063" type="image/jpeg" height="1063" width="1890"/>
-    </item>
-    <item>
-      <title>인천서 투표소 찾은 70대 여성, 쓰러져 숨져</title>
-      <link>https://www.chosun.com/national/national_general/2025/06/03/RT4MIIXAQ5BJTJLCI3GONYAX3E/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/03/RT4MIIXAQ5BJTJLCI3GONYAX3E/</guid>
-      <dc:creator>인천=이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 03 Jun 2025 10:30:42 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UDCPCI6AVJIC7BZXLLBCYTT3HI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;제21대 대통령선거일인 3일 오전 인천 미추홀구 용현5동 제9투표소에서 유권자들이 투표하고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제21대 대통령선거 투표일인 3일 인천에서 투표소를 찾은 70대 여성이 쓰러져 병원으로 이송됐으나 숨졌다.&lt;br&gt;&lt;br&gt;인천소방본부 등에 따르면 이날 오전 9시 59분쯤 인천 연수구 선학동의 한 대선 투표소에서 70대 여성 A씨가 쓰러졌다. &lt;br&gt;&lt;br&gt;A씨는 신고를 받고 출동한 119 구급대에 의해 심정지 상태로 병원으로 옮겨졌으나 치료 도중 숨졌다. &lt;br&gt;&lt;br&gt;소방 당국은 구체적인 경위를 확인 중이다. &lt;br&gt;&lt;br&gt;이날 오후 1시 10분쯤엔 인천 부평구 부개동의 한 투표소에서 투표 업무 종사자인 30대 남성이 어지럼증을 호소해 병원으로 이송됐다. &lt;br&gt;&lt;br&gt;인천경찰청은 이날 오전 5시부터 오후 8시까지 대선 투표 관련 112 신고가 모두 58건이라고 밝혔다. &lt;br&gt;&lt;br&gt;유형별로는 투표 방해‧소란 17건, 교통 불편 2건, 벽보 탈락 1건(자연탈락), 오인 신고 등 기타 38건이다. &lt;br&gt;&lt;br&gt;오후 4시 9분쯤엔 미추홀구에서 “죽은 사람이 선거 명부에 있다”는 신고가 들어왔으나, 사망자가 아닌 동명이인인 것으로 확인됐다. &lt;br&gt;&lt;br&gt;경찰은 “아직까지 투표와 관련해 형사 입건된 사례는 없다”고 말했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>기표소서 ‘투표용지 찰칵’…인천서 잇따라 적발</title>
-      <link>https://www.chosun.com/national/incident/2025/06/03/WQLP6OAG2BBIJNGWCMTEQPG3JE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/06/03/WQLP6OAG2BBIJNGWCMTEQPG3JE/</guid>
-      <dc:creator>인천=이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 03 Jun 2025 08:45:03 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2TCIXEC3WU7ZKOTA2IGV76VZRY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;제21대 대통령선거 기표소./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제21대 대통령선거 투표일인 3일 인천 지역 투표소에선 기표소에서 투표용지를 촬영하다 적발되는 유권자가 잇따랐다. &lt;br&gt;&lt;br&gt;인천시선거관리위원회와 인천시 등에 따르면 이날 오전 11시 30분쯤 인천시 부평구 십정동의 한 투표소에서 투표용지를 촬영한 유권자가 적발됐다. &lt;br&gt;&lt;br&gt;투표소 관계자들은 현장에서 이를 확인하고, 해당 사진을 삭제 조치한 것으로 파악됐다. &lt;br&gt;&lt;br&gt;이날 오후 1시 45분쯤엔 인천 부평구 부개동의 한 투표소에서, 오후 2시 18분쯤엔 인천 옹진군 영흥면의 한 투표소에서 각각 투표용지를 촬영한 유권자가 적발됐다. 촬영한 사진은 역시 삭제 조치됐다. &lt;br&gt;&lt;br&gt;이날 5시 기준, 투표지 촬영으로 적발된 경우는 7건인 것으로 파악됐다. &lt;br&gt;&lt;br&gt;인천시선관위는 해당 유권자를 상대로 촬영 경위 등을 확인해 조치할 방침이다. &lt;br&gt;&lt;br&gt;공직선거법은 비밀투표 보장 등을 위해 기표소 안에서 투표용지를 촬영하는 행위를 금지하고 있다. 적발될 경우, 2년 이하의 징역형이나 400만원 이하의 벌금에 처할 수 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“왜 여기서 투표 안되냐”... 경남서 투표장 소란 </title>
-      <link>https://www.chosun.com/national/2025/06/03/NS4MH7HBKBEMNIL6RILWPQMAR4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2025/06/03/NS4MH7HBKBEMNIL6RILWPQMAR4/</guid>
-      <dc:creator>창원=김준호 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 03 Jun 2025 08:50:35 +0000</pubDate>
-      <content:encoded>제21대 대통령 선거일인 3일 경남에서는 투표소를 잘못 찾은 유권자가 난동을 부리는 등 크고 작은 소란이 발생했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VDIGO7PRWFNLXGQL6Q7OPS4MOI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;제21대 대통령 선거일인 3일 경남 창원시 마산합포구 해운중학교 1층 체육관에 마련된 월영동 제4·5 투표소에서 유권자들이 투표하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경남경찰청에 따르면 이날 오전 9시 49분쯤 창원시 성산구 상남동 한 투표소에서 40대 남성이 “왜 여기서 투표가 안 되느냐”고 선거 사무원에게 불만을 터트렸다. 이 남성은 사전 투표는 유권자 거주지와 관계없이 어느 투표소에서든 할 수 있지만, 본 투표는 거주지에서만 할 수 있는 것을 모르고 해당 투표소를 찾았다가 소란을 피운 것으로 전해졌다. 현장에 출동한 경찰은 이 남성을 거주지 내 투표소로 태워 투표할 수 있게 도왔다. &lt;br&gt;&lt;br&gt;이날 오전 8시 36분쯤 창원시 마산회원구 양덕동 한 투표소에서는 60대 남성이 소리를 지르고, 옆에 있던 시민과 시비가 붙었다는 신고가 접수됐다. 이 남성은 투표소를 잘못 찾아와 불만을 토로하던 중 옆 시민과 언쟁이 붙은 것으로 전해졌다. 출동한 경찰은 범죄 혐의점은 없다고 보고 남성을 귀가 조치했다. &lt;br&gt;&lt;br&gt;앞서 오전 6시 35분쯤엔 창원시 의창구 북면 한 투표소에서 80대 남성이 투표 순서가 오래 걸린다며 선거 사무원에게 항의하다 112 신고가 접수됐다. 투표 순서가 오래 걸려 항의한 것으로 전해졌다. 이 남성은 경찰이 현장에 도착하기 전 투표를 마친 뒤 먼저 귀가했다.&lt;br&gt;&lt;br&gt;이날 오후 4시 기준 경찰에 접수된 투표 현장 사건·사고 관련 신고는 총 42건이다. 이 중 입건된 사람은 없다.&lt;br&gt;&lt;br&gt;경찰은 투표가 종료된 이후에도 사건·사고 대응을 이어갈 계획이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>사전투표 관리관 협박‧업무 방해…인천 남동구선관위, 참관인 고발</title>
-      <link>https://www.chosun.com/national/incident/2025/06/03/3GOQEF7UOJCNRMCCY6UEJCNQNU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/06/03/3GOQEF7UOJCNRMCCY6UEJCNQNU/</guid>
-      <dc:creator>인천=이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 03 Jun 2025 08:21:10 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LUJQCCP345BLG35MWAXVSVILEA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;사전투표하는 유권자./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;21대 대통령선거 사전투표관리관으로 위촉된 공무원을 협박하고 사전투표 업무를 방해한 혐의를 받는 사전투표참관인이 경찰에 고발됐다. &lt;br&gt;&lt;br&gt;인천 남동구선거관리위원회는 공직선거법 위반 혐의로 사전투표참관인 A씨를 경찰에 고발했다고 3일 밝혔다. &lt;br&gt;&lt;br&gt;A씨는 지난달 21일과 사전투표 기간인 29~30일 인천 남동구의 한 행정복지센터에서 사전투표관리관으로 위촉된 공무원 B씨를 직무유기 혐의로 고발하겠다고 협박한 혐의를 받고 있다. &lt;br&gt;&lt;br&gt;A씨는 투표용지 확인용 ‘사전투표관리관 도장’을 사전투표관리관이 직접 찍어야 한다고 주장하며 도장을 직접 찍으라고 B씨에게 요구한 것으로 파악됐다. 남동구선관위는 사전투표관리관 도장은 관련 규정에 의해 인쇄 방식으로 처리하도록 돼 있다고 설명했다. &lt;br&gt;&lt;br&gt;A씨는 또 사전투표 기간 자신이 집계한 투표자 숫자와 전산에 기록된 숫자에 차이가 있다며 투표 현황 공개 등을 지속적으로 요구하는 방식으로 정당한 사전투표 업무를 방해한 혐의도 받는다. &lt;br&gt;&lt;br&gt;공직선거법은 사전투표 사무원을 협박한 경우, 1년 이상 10년 이하의 징역 또는 500만원 이상 3000만원 이하의 벌금에 처하도록 규정하고 있다. 사전투표소에서 정당한 사유 없이 투표에 간섭한 경우는 3년 이하의 징역에 처할 수 있다. &lt;br&gt;&lt;br&gt;선관위 관계자는 “정당한 투표 업무를 방해하거나 선거 사무 관계자에게 폭행‧협박 등 선거 질서를 해치는 위법 행위에 대해선 엄중 대처할 방침”이라고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“투표 안 했는데”… 선거사무원 서명 실수로 발길 돌린 유권자</title>
-      <link>https://www.chosun.com/national/regional/2025/06/03/4WASBYOOGRCMNNDVPHXELKYPBY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/06/03/4WASBYOOGRCMNNDVPHXELKYPBY/</guid>
-      <dc:creator>정성원 기자</dc:creator>
-      <description>강원 춘천시 한 투표소에서 선거사무원이 서명을 잘못 받아 유권자가 투표하지 못하고 발길을 되돌리는 일이 발생했다.
-3일 강원도선거관리원회에 따르면 이날 오전 강원 춘천시 한 투표소를 찾은 유권자 A씨가 “이미 투표한 것으로 확인된다”는 선거사무원의 설명을 듣고 발길을 되돌렸다.</description>
-      <pubDate>Tue, 03 Jun 2025 08:08:07 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/D5MFX5FW2E2EYJSLGFQGJH6ALI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;제21대 대통령 선거일인 3일 부산 동래구 내성초등학교 참빛관체육관에 마련된 복산동 제2투표소에서 유권자들이 투표를 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;강원 춘천시 한 투표소에서 선거사무원이 서명을 잘못 받아 유권자가 투표하지 못하고 발길을 되돌리는 일이 발생했다.&lt;br&gt;&lt;br&gt;3일 강원도선거관리위원회에 따르면 이날 오전 강원 춘천시 한 투표소를 찾은 유권자 A씨가 “이미 투표한 것으로 확인된다”는 선거사무원의 설명을 듣고 발길을 되돌렸다. 확인 결과 이는 비슷한 이름의 다른 유권자로부터 잘못 서명을 받은 선거사무원의 실수였다. 선관위는 이를 바로잡고 A씨에게 다시 투표에 참여할 것을 알린 것으로 전해졌다.&lt;br&gt;&lt;br&gt;또 강원도 인제군 한 투표소에선 투표관리관 도장이 찍히지 않은 투표지가 배부되기도 했다. 도장이 찍히지 않은 투표지는 10장으로 유권자들에게 전달돼 기표까지 이뤄졌다.&lt;br&gt;&lt;br&gt;강원도선거관리위원회 관계자는 “유권자들이 몰리면서 도장을 찍지 못한 투표지를 나눠주는 실수를 한 것 같다”면서 “신원 확인 절차 등이 정상적으로 진행된 만큼 해당 투표지는 정상적으로 유효표로 인정된다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>봄 같은 초여름...주말까지 큰 비 소식 없이 일교차 커</title>
-      <link>https://www.chosun.com/national/transport-environment/2025/06/03/WEKZ3VRN5VEJPNRLNWOOY2UJ2M/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/06/03/WEKZ3VRN5VEJPNRLNWOOY2UJ2M/</guid>
-      <dc:creator>박상현 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 03 Jun 2025 07:28:02 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UMH6JYQJROG6AWXXPL3NFGF5SU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 20일 서울 종로구 광화문광장 바닥분수에서 어린이들이 물놀이를 하며 더위를 식히고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;초여름인데 봄 같은 날씨가 이어지고 있다. 낮과 밤의 온도차가 크고, 간간이 소나기가 내리는 봄 같은 날씨가 주말까지 이어질 전망이다.&lt;br&gt;&lt;br&gt;3일 기상청에 따르면, 4일 우리나라는 중국 상하이 부근에서 동쪽으로 이동하는 고기압의 영향을 받아 전국이 대체로 맑겠다. 5일에도 제주도 남쪽 해상에서 동쪽으로 이동하는 고기압의 영향권에 들며 맑을 것으로 보인다.&lt;br&gt;&lt;br&gt;다만 4일은 남부지방, 5일은 중부지방을 중심으로 일교차가 크게 벌어지겠다. 4일 아침 최저기온은 11~17도, 낮 최고기온은 21~29도로 예보됐다. 5일에는 최저 10~17도, 최고 24~30도의 기온 분포를 보이겠다. &lt;br&gt;&lt;br&gt;4일에는 강원도를 중심으로 5㎜ 내외의 소나기가 내리는 곳이 있겠다. 비는 오후부터 저녁 사이에 쏟아질 것으로 예상됐다. 이번 소나기는 대기 불안정이 원인이라 비가 내리는 곳에서는 돌풍과 함께 천둥·번개가 동반될 것으로 보인다.&lt;br&gt;&lt;br&gt;우리나라는 선선한 5월을 보낸 데 이어, 6월 들어서도 최고기온이 30도를 넘지 않으며 재작년과 작년에 이어졌던 이른 무더위는 나타나지 않고 있다. 기상청은 오는 13일까지 한낮 기온이 23~29도로 30도를 넘지 않겠고, 최저기온도 16~20도의 분포를 보이며 대체로 선선할 것으로 내다봤다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“미래 세대 풍요롭게 살수 있길” 가족 손잡고 투표소 찾은 시민들</title>
-      <link>https://www.chosun.com/national/national_general/2025/06/03/CR5AMZ6YHBCMZEK6XMIDHJQUKQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/03/CR5AMZ6YHBCMZEK6XMIDHJQUKQ/</guid>
-      <dc:creator>김도균 기자, 김혜민 기자, 양인성 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 03 Jun 2025 01:56:59 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4YYC4ANRNFLH7CPKZ4LE6ZZJ7E.JPG"&gt;&lt;figcaption&gt;&lt;small&gt; 제21대 대통령 선거일인 3일 서울 서대문구 서울창서초등학교에 마련된 신천동 제5투표소를 찾은 유권자들이 투표하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제21대 대통령 선거일인 3일 서울 2260개 투표소에는 주권을 행사하려는 유권자들의 행렬이 이어졌다. 임시공휴일로 지정된 이날 각 투표소에는 가족 단위로 나와 투표하는 시민들이 여럿 눈에 띄었다.&lt;br&gt;&lt;br&gt;이날 오전 9시 서울 종로구 종로보건소 앞에 마련된 청운효자동 제3투표소에는 20대부터 90대까지 다양한 연령대의 유권자가 표를 던졌다. 갓난아기를 포대에 업은 채 7살 딸의 손을 잡고 투표소에 방문한 김다혜(36)씨는 “오늘 처음으로 아이들과 같이 투표를 했다”며 “아이들에게 투표하는 장면을 보여줄 수 있어 좋았고, 이번에는 꼭 어린이들에게 도움이 될 수 있는 분이 뽑혔으면 좋겠다는 마음으로 투표했다”고 했다.&lt;br&gt;&lt;br&gt;초등학교 2학년 아들, 남편과 함께 투표소를 찾은 조모(50)씨는 “계엄 이후부터 뉴스를 쭉 보다 보니 아이가 투표에도 관심이 생겼다고 해 함께 데리고 나왔다”며 “투표장은 어떻게 생겼고 투표는 어떻게 하는지 아이에게도 보여줘야 할 것 같아서 가족이 다 같이 투표소에 오게 됐다”고 말했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QLSNMPZ2VNKH7LXKYRNOE73NII.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;제21대 대통령 선거일인 3일 서울 서대문구 서울창서초등학교에 마련된 신천동 제5투표소를 찾은 유권자들이 투표하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정호선(68)씨는 아들과 며느리, 세 살 손녀까지 3대(代) 가족을 데리고 이날 투표소가 마련된 서울 서초구 장안마을 경로당을 찾았다. 정씨는 “미래 세대가 풍요롭고 안전하게 살 수 있는 부강한 나라를 꿈꾸며 한 표를 던졌다“며 ”어떤 후보가 당선되든 싸움보단 일에 치중하는 정부가 됐으면 한다”고 했다. 남편과 함께 온 이모(42)씨도 “최근 몇 년간 정치 세력들이 싸움만 하느라 국정이 제대로 돌아가는 것 같지 않았다“며 ”과거보단 미래에 치중하는 후보가 당선되길 바란다“고 말했다. 여덟 살 아들을 데리고 투표소를 찾은 박모(44)씨는 “아직 투표의 의미를 모르는 아이에게 ‘세상을 바꿀 수 있는 기회이자 방법’이라고 설명해줬다”며 “잘 이해하진 못하는 눈치지만 조금 더 자라면 투표의 의미를 깨달을 테니 이날을 잘 기억해두라고 당부했다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WLGB4Y2BXFME7KX42IHXFX6AXQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;제21대 대통령선거일인 3일 서울 영등포구 여의도중학교에 마련된 여의도제4투표소에서 시민들이 투표를 위해 줄 서 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;투표소가 마련된 서울 서대문구 신촌동 주민센터에는 20·30세대가 여럿 보였다. 올해 이화여대에 입학한 고다연(20)씨는 “첫 투표라서 설레는 마음이 크다”면서도 “혼자 집에서 토론회도 열심히 찾아보고, 뉴스도 봤다. 나름 후보들이 낸 공약을 공부하고 대비해 왔다”고 했다. 대학원생 정홍기(27)씨는 “청년을 위해 정책을 펼치는 사람, 정책에 구체적인 타당성이 있는 사람을 뽑으려 한다”고 했다. 직장인 정세영(32)씨는 “원래는 정치에 관심이 없어서 매번 선거 때면 ‘어떻게든 되겠지’라며 투표를 잘 안 했다”며 “이번에는 투표에 대한 필요성을 많이 느껴서 10년 만에 투표하러 나왔다”고 했다. 김지예(29)씨는 “이번 대선에서 청년들을 위한 후보들의 공약 경쟁이나 메시지가 그다지 활발하지 않아 아쉽다”며 “앞으로 좋은 일자리와 청년 정책에 힘쓸 후보가 누구일지 마지막까지 고민하다 투표소에 왔다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GZEZDNFDGRDDPBI3P7VBP27XWE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;3일 오전 9시 서울 서초구 장안마을경로당에 마련된 제21대 대통령 선거 투표소. 투표를 하러 온 시민들이 길게 늘어서있다. /김도균 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한편 경찰은 이날 전국 1만 4295개 투표소에 각각 경찰관 2명씩 총 2만 8590명을 배치해 112 거점 및 연계 순찰을 실시한다. 투표가 종료되면 1만 4500여 개 노선에 경찰 2만 9000명이 투입돼 선거관리위원회와 함께 투표함을 회송할 예정이다. 전국 254개 개표소에는 경찰 7600명이 배치된다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
