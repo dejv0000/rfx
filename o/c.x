@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>‘이선균 수사 정보 유출’ 혐의… 경찰‧검찰수사관 등 3명 기소 </title>
+      <link>https://www.chosun.com/national/incident/2025/06/05/ZNU5V7OTVJEGZCGF6BLVTEDGPE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/06/05/ZNU5V7OTVJEGZCGF6BLVTEDGPE/</guid>
+      <dc:creator>인천=이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 05 Jun 2025 04:54:38 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DQRYP3VWDFKBLNIJXS7YBJKFRE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;'이선균 수사정보 유출' 혐의 경찰관./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;마약 투약 혐의로 수사를 받다 숨진 배우 이선균씨와 관련한 수사 정보를 유출한 혐의를 받는 경찰관과 검찰 수사관이 법정에 서게 됐다. &lt;br&gt;&lt;br&gt;인천지검 형사6부(부장 최종필)는 공무상비밀누설 등 혐의로 인천경찰청 소속 경찰관 30대 A씨와 인천지검 소속 검찰수사관 40대 B씨를 기소했다고 5일 밝혔다. &lt;br&gt;&lt;br&gt;검찰은 또 A씨에게 수사 대상자의 실명 등을 제공받아 다른 기자에게 제공한 혐의(개인정보보호법 위반)로 30대 기자 C씨를 함께 기소했다. &lt;br&gt;&lt;br&gt;검찰은 이들과 함께 송치된 기자 3명의 경우 관련법상 범죄 성립의 요건이 인정되지 않아 불기소 처분했다. &lt;br&gt;&lt;br&gt;A씨는 2023년 10월 당시 인천경찰청 마약범죄수사계가 작성한 수사진행 보고서를 촬영해 전송하는 방식 등으로 C씨 등 기자 2명에게 건네준 혐의를 받고 있다. 이 보고서엔 이씨의 마약 사건 관련한 실명과 직업 등이 담겼다. &lt;br&gt;&lt;br&gt;C씨가 소속돼 있는 한 연예 매체는 이씨 사망 하루 뒤인 2023년 10월 28일 전달받은 사진과 내용을 보도했다. &lt;br&gt;&lt;br&gt;B씨는 역시 2023년 10월 이씨가 마약 혐의로 경찰의 수사를 받고 있다는 사실과 수사 대상자의 정보를 모 지역 매체 기자에게 전화로 알려준 혐의를 받는다. 이 매체는 전달받은 내용을 토대로 2023년 10월 19일 ‘톱스타 L씨, 마약 혐의로 내사 중’이라는 제목의 기사를 통해 이 사건을 처음 보도했다. &lt;br&gt;&lt;br&gt;C씨는 같은 해 11월 A씨로부터 제공받은 수사 자료를 다른 기자에게 전송한 혐의다. &lt;br&gt;&lt;br&gt;숨진 배우 이씨는 2023년 10월 14일 형사 입건돼 2개월간 3차례의 경찰 소환 조사를 받았다. &lt;br&gt;&lt;br&gt;경찰의 3번째 조사를 마친 그는 같은 해 12월 26일 서울 종로구 와룡공원 인근에서 숨진 채 발견됐다. &lt;br&gt;&lt;br&gt;검찰 관계자는 “공무원의 비밀 엄수 의무 위반이나 무분별한 개인정보 유출‧제공 범행으로 시민의 인권이 보호될 수 있도록 엄정 대응하겠다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>“학부모 ‘몰래 녹음’ 증거로 못 쓴다”…아동학대 혐의 교사 무죄 확정</title>
       <link>https://www.chosun.com/national/court_law/2025/06/05/UA6ANLUHAZBDFO3HMWMYDEFEEA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/05/UA6ANLUHAZBDFO3HMWMYDEFEEA/</guid>
@@ -742,15 +751,6 @@
       <description/>
       <pubDate>Tue, 03 Jun 2025 23:13:07 +0000</pubDate>
       <content:encoded>이재명 대통령이 4일 오전 11시 국회의사당 중앙홀에서 취임 선서를 한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IPQ47OIRPJC6XFCUXBNVU45UC4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;제21대 대통령 취임식이 열릴 국회 로텐더홀에서 3일 국회 관계자들이 무대와 좌석을 설치하고 있다. 취임식은 4일 오전 11시 열린다. /남강호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;행정안전부는 이날 “제21대 대통령 취임 선서가 4일 오전 11시 국회의사당 중앙홀에서 진행된다”고 밝혔다.&lt;br&gt;&lt;br&gt;이번 행사는 새 정부의 출범을 대내외에 알리는 자리다. 행정안전부 관계자는 “당선 즉시 국정 현안을 신속하게 챙기고자 하는 이 대통령의 의지에 따라 취임 선서 중심으로 간소하게 진행될 계획”이라고 했다.&lt;br&gt;&lt;br&gt;취임 선서 행사에는 국회의장, 대법원장, 헌법재판소장, 국무총리, 중앙선거관리위원장, 정당 대표, 국회의원, 국무위원 등 300여 명이 참석한다. 헌법 69조에 따른 취임 선서와 국민께 드리는 말씀을 중심으로 진행된다.&lt;br&gt;&lt;br&gt;이 대통령은 취임 선서에 앞서 국립서울현충원을 참배할 계획이다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>이창수 중앙지검장, 3일자 사표 수리돼... 대행 체제 운영</title>
-      <link>https://www.chosun.com/national/court_law/2025/06/04/NLRGR4QLEJBYZFDV3LKCLAZCQY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/04/NLRGR4QLEJBYZFDV3LKCLAZCQY/</guid>
-      <dc:creator>이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 03 Jun 2025 23:10:33 +0000</pubDate>
-      <content:encoded>지난달 사의를 표명했던 이창수 서울중앙지검장의 사표가 수리된 것으로 4일 확인됐다. 전국 최대 검찰청인 서울중앙지검은 3개월 여 만에 다시 대행 체제로 운영된다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WNSV4SZZOBJZ3ATD7DNVMON5B4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이창수 서울중앙지검장(오른쪽)과 조상원 4차장검사./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 이 지검장의 사표는 지난 3일 수리됐다. 현직 검사에 대한 임면권은 대통령이 갖고 있어, 이주호 전 대통령 권한대행(교육부총리)의 재가가 필요했다. 이 전 대행은 이 지검장과, 함께 사의를 표명했던 조상원 4차장검사의 사표도 수리했다고 한다.&lt;br&gt;&lt;br&gt;당초 두 검사는 사의를 표명하면서 2일까지 근무하겠다는 뜻을 밝혔지만, 사표 수리가 늦어지면서 별도의 퇴임식은 열리지 않았다. 대신 중앙지검 소속 검사와 수사관들이 2일 퇴근 시간을 전후로 두 검사의 사무실을 찾아 인사를 했다.&lt;br&gt;&lt;br&gt;이 지검장이 물러난 자리는 박승환 1차장검사가 대행할 것으로 전해졌다. 지난해 12월 더불어민주당 주도로 이 지검장이 탄핵 소추돼 직무가 정지됐을 때도 박 차장검사가 지검장 직을 대행했다. 조 차장검사의 직무는 이성식 3차장검사가 대행했었다.&lt;br&gt;&lt;br&gt;이 지검장은 지난해 5월 서울중앙지검장으로 보임했다. 김건희 여사의 ‘도이치모터스 주가 조작’ 의혹, ‘디올 백 수수’ 의혹을 수사한 뒤 불기소 처분했다. 민주당은 ‘봐주기 수사’라며 반발했고, 이 지검장과 조 차장검사는 그해 12월 5일 국회에서 탄핵소추됐다. 헌법재판소는 98일 만인 지난 3월 13일 검사들 탄핵안을 재판관 8명 전원 의견으로 기각했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>‘빨간 옷’ 홍진경 사과했는데…박해미는 올블루 패션 공개, 왜?</title>
