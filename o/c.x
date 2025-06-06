@@ -13,6 +13,33 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>“신내림 안 받으면 가족 화 입는다”…제사비로 수천만원 챙긴 무속인 징역형</title>
+      <link>https://www.chosun.com/national/2025/06/06/7F3ULBDJWVGPZN52LK3FGMNEGM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2025/06/06/7F3ULBDJWVGPZN52LK3FGMNEGM/</guid>
+      <dc:creator>부산=김준호 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 06 Jun 2025 08:31:32 +0000</pubDate>
+      <content:encoded>신내림을 받지 않으면 가족들이 화를 입는다며 제사비 명목 등으로 수천만원을 챙긴 혐의를 받는 50대 남성 무속인에게 징역형의 집행유예가 선고됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SAND5NFNFFFPPGFHV2XOTY6QT4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산지법./조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산지법 형사6단독 김정우 부장판사는 사기 혐의로 기소된 A씨에게 징역 1년에 집행유예 2년을 선고하고, 사회봉사 40시간을 명령했다고 6일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 평소 알고 지내던 B씨에게 ‘신내림을 받지 않으면 남편이 조만간 아파서 드러눕거나, 딸이 무당이 돼야 한다’고 속여 2023년 6월부터 3개월간 제사비 명목으로 7900만원을 챙긴 혐의를 받는다. 범행 당시 A씨에게는 채무액이 상당했던 것으로 알려졌다.&lt;br&gt;&lt;br&gt;김 부장판사는 “기망의 방법이 좋지 않고, 피해액이 큰 데도 피해 변제는 제대로 되지 않았다”며 “A씨가 범행 사실을 인정하는 점, 피해자들이 처벌을 원하지 않는 점 등을 참작했다”고 양형 이유를 밝혔다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>한국소비자학회 안희경 신임 회장</title>
+      <link>https://www.chosun.com/national/people/2025/06/06/GE7FR7KKUNF5XEK3PWO262HVCI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/06/06/GE7FR7KKUNF5XEK3PWO262HVCI/</guid>
+      <dc:creator>안준현 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 06 Jun 2025 08:56:54 +0000</pubDate>
+      <content:encoded>안희경 한양대 경영학부 교수가 지난 1일 28대 한국소비자학회 학회장으로 취임했다. 안 교수는 유현정 충북대 소비자학과 교수와 공동 회장을 맡는다. 임기는 1년이다. 안 신임 회장은 서강대를 나와 토론토대에서 박사(경영학) 학위를 받았으며 한국광고학회 부회장 등을 지냈다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7NDAYH7ACJHZDHZIFRLFPEBBFY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한양대 경영학부 안희경 교수.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>소아 감염병 재유행...성홍열 환자 2.5배로</title>
+      <link>https://www.chosun.com/national/welfare-medical/2025/06/06/EWZSXDTN65CO7F6BJSMH2YM2O4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/06/06/EWZSXDTN65CO7F6BJSMH2YM2O4/</guid>
+      <dc:creator>곽래건 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 06 Jun 2025 08:24:53 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DJRD3AGXHNDVTJZBJ223NW4DOM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;올해 1월 광주광역시 북구보건소에서 감염병 예방을 위해 어린이들에게 손씻기 교육을 하는 모습./김영근 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최근 성홍열, 홍역, 수두 등 감염병이 유행하고 있다. 코로나 팬데믹 시기 마스크를 착용하고 개인 위생에 신경을 쓰던 것에 비해, 방역이 느슨해지면서 지역 사회를 중심으로 각종 감염병이 다시 확산하고 있다는 것이 전문가들 진단이다. &lt;br&gt;&lt;br&gt;6일 질병관리청에 따르면 올해 1월부터 지난달 24일까지 3809명의 성홍열 환자가 발생했다. 작년 같은 기간 1506명의 환자가 나온 것에 비해 2.5배로 늘었다. 신고된 환자 중 86.8%가 10세 미만이었다. &lt;br&gt;&lt;br&gt;성홍열은 두통, 구토, 복통, 인후통 등을 동반하는 급성 발열성 질환이다. 혀 돌기가 부어 혀가 마치 오돌토돌한 딸기 모양처럼 보이는 것이 특징이다. 치명률은 1% 이하지만, 전염력이 높아 격리가 필요하다. 예방 백신은 없지만 항생제로 치료할 수 있기 때문에 증상이 나타나면 빨리 병의원에 가야 한다.&lt;br&gt;&lt;br&gt;우리나라에서 마지막으로 유행한 것은 2017년으로 그해에만 2만2838명의 환자가 발생했다. 통상 3~4년마다 큰 유행이 반복되는데, 코로나 팬데믹 당시의 사회적 거리 두기가 유행 주기를 바꿔놓아 최근 환자가 늘어난 것으로 방역 당국은 보고 있다. 이재갑 한림대 강남성심병원 감염내과 교수는 “코로나 팬데믹 시기 유행하지 못했던 감염병이 예전 패턴대로 유행하기 시작한 것”이라고 했다.&lt;br&gt;&lt;br&gt;동남아시아를 중심으로 해외에서 유행하는 홍역도 국내에 유입돼 지난달 3일 기준 총 52명의 환자가 발생했다. 2023년의 경우 환자가 8명에 그쳤다가 코로나 팬데믹이 끝난 지난해엔 환자가 47명으로 늘었는데, 올해도 유행세가 이어지고 있는 것이다. 올해의 경우 해외여행을 갔다가 감염됐거나, 이들로부터 재감염된 사례가 대부분이다.&lt;b&gt; &lt;/b&gt;홍역은 폐렴 등 합병증이 생길 수 있고, 어린아이나 노약자는 생명을 위협받을 수도 있다. 다만 백신을 맞으면 예방이 가능하다. &lt;br&gt;&lt;br&gt;수두 환자도 올 들어 지난달 19일까지 1만1385명이 발생해 2년 연속 유행 중이다. 코로나가 유행한 2021~2023년 1~5월 감염 환자는 평균 8525명이었는데, 팬데믹이 끝나며 다시 유행하는 모양새다. 온몸으로 퍼지는 발진과 미열이 특징이며, 전염성이 강해 학교 등 집단 생활하는 어린이들 발병률이 높다. 올해 감염자 중 19세 미만이 89%를 차지했다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>[오늘의 운세]  6월 8일 일요일 (음력 5월 13일 戊申)</title>
       <link>https://www.chosun.com/national/national_general/2025/06/06/EOXPMEDJBNAQ5IFWOSZXC473NA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/06/EOXPMEDJBNAQ5IFWOSZXC473NA/</guid>
@@ -825,33 +852,6 @@
       <description/>
       <pubDate>Wed, 04 Jun 2025 23:49:05 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TOPZ7XIQIZEYNI6YAFMQD73HRA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울아산병원 간이식·간담도외과 이승규 석좌교수가 중국 칭화대 부속 창궁병원에서 생체 간이식 수술을 받은 환아의 상태를 살펴보고 있다. /서울아산병원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;담도폐쇄증을 앓고 있는 생후 6개월의 중국 아기가 한국 의료진의 수술로 건강을 되찾았다. 이 모습이 2만명에게 생중계되면서 한국의 높은 의료 수준을 중국 전역에 알렸다는 평가가 나왔다. &lt;br&gt;&lt;br&gt;5일 서울아산병원에 따르면 간이식‧간담도외과 이승규 석좌교수와 문덕복‧정동환‧윤영인 교수 등 간이식팀은 지난달 11일 중국 베이징에 있는 창궁병원에서 생후 6개월 중국 남아 리웨이(가명)에게 아버지의 간 일부를 떼어내 이식하는 생체 간이식 수술을 성공적으로 시행했다. &lt;br&gt;&lt;br&gt;리웨이는 선천성 담도폐쇄증으로 출생 직후 카사이 수술(막힌 담관을 제거하고 장 일부를 떼어내 간과 소장을 연결함으로써 담즙을 소장으로 보내는 치료법)을 받았지만, 시간이 갈수록 황달 증상이 더 심해지는 등 몸 상태는 나빠졌다. 영양 상태도 좋지 않아 복수가 빠르게 차올랐고, 급기야 음낭에서도 복수가 새어나오는 등 절체절명의 상황까지 내몰렸다. &lt;br&gt;&lt;br&gt;생체 간이식 수술 경험이 비교적 적은 칭화대는 서울아산병원에 리웨이의 수술을 맡아달라고 요청했다. 서울아산병원 간이식팀은 지난달 9일 창궁병원으로 향했다. &lt;br&gt;&lt;br&gt;문제는 리웨이의 저체중과 불량한 영양 상태였다. 일반적으로 국내에서는 소아 생체 간이식을 시행할 때 환아의 체중을 8㎏까지 올린 후 진행한다. 리웨이는 복수를 포함해 체중이 6㎏에 불과했다. &lt;br&gt;&lt;br&gt;하지만 의료진은 리웨이의 상태를 보고 더는 수술을 미룰 수 없다고 판단했다. 창궁병원 의료진과 긴밀한 논의를 마친 끝에 베이징 도착 이틀 뒤 수술에 들어갔다. &lt;br&gt;&lt;br&gt;정 교수와 윤 교수는 10㎝ 최소 절개술로 기증자인 리웨이 아버지의 간 일부를 절제했다. 이어서 이 석좌교수와 문 교수가 리웨이에게 아버지의 간을 이식하는 데 성공했다. &lt;br&gt;&lt;br&gt;9시간 가까이 진행된 수술은 창궁병원에서 열린 한‧중 간이식 국제학술회의에서 온라인으로 실시간 생중계됐고, 중국 전역에서 간이식 전문가 2만여 명이 동시에 시청하며 큰 호응을 얻었다. &lt;br&gt;&lt;br&gt;리웨이는 수술 후 3일째부터 입으로 우유를 빨아 먹는 등 빠르게 회복해 지난달 27일 건강하게 퇴원했다. &lt;br&gt;&lt;br&gt;이 석좌교수는 “생명이 위급한 아이에게 생체 간이식으로 새 삶을 선사할 수 있게 돼 기쁘다”며 “앞으로도 우리의 도움이 필요한 곳에 간이식 기술을 전수해 세계의 많은 환자가 건강을 되찾을 수 있도록 노력하겠다”고 말했다. &lt;br&gt;&lt;br&gt;서울아산병원 간이식팀이 올해 4월까지 실시한 누적 생체 간이식 수술은 7502건이다. 이는 단일 의료기관 기준 세계 최다라고 병원은 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>카이스트서 실험 도중 폭발로 화재, 33분만에 진화… 20대 여성 1명 화상</title>
-      <link>https://www.chosun.com/national/regional/2025/06/05/5OXKGJOR5VFETIQE7PPXPYW4JE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/06/05/5OXKGJOR5VFETIQE7PPXPYW4JE/</guid>
-      <dc:creator>대전=우정식 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 05 Jun 2025 00:32:34 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YQD4ISYJPHOSEMLEGA4E5ZMWVA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;119구급차량./뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;카이스트(KAIST) 실험실에서 실험 도중 불이 나 1명이 얼굴 등에 화상을 입는 사고가 났다.&lt;br&gt;&lt;br&gt;카이스트와 대전유성소방서에 따르면, 지난 4일 오후 9시 52분쯤 대전시 유성구 카이스트 생명화학공학동 5층 실험실에서 폭발과 함께 불이 나 33분 만에 꺼졌다.&lt;br&gt;&lt;br&gt;이 불로 실험실 20대 중반 여학생 A씨가 얼굴과 등, 왼손에 열상과 화상을 입고 병원으로 옮겨졌다. A씨는 생명에 지장은 없는 상태로 알려졌다. 당시 실험실 안에 있던 4명도 일부 연기를 흡입했지만, 병원으로 이송되지는 않았다.&lt;br&gt;&lt;br&gt;실험실 옆 교실에 있던 학생이 “공부하는 도중에 갑자기 ‘펑’ 하는 소리가 났다”고 신고했다. &lt;br&gt;&lt;br&gt;소방 당국은 진화대원 등 60명을 투입해 30여 분 만인 오후 10시 52분쯤 진화를 마쳤다. 이 불로 실험실의 일부 장비가 불에 타는 피해를 입었다.&lt;br&gt;&lt;br&gt;경찰과 소방 당국은 “아세톤을 이용해 실험하던 도중에 갑자기 폭발했다는 목격자 진술 등을 토대로 정확한 사고 경위 등을 조사하고 있다”고 말했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>고속도로서 사고 수습 30대, 달려오던 뒤차에 치여 숨져 </title>
-      <link>https://www.chosun.com/national/regional/2025/06/01/VFUNWNHPNFC3NHPUHTZDC4TTJM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/06/01/VFUNWNHPNFC3NHPUHTZDC4TTJM/</guid>
-      <dc:creator>진주=김주영 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 01 Jun 2025 06:31:42 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Q4BSVJMLB5HCY2KIPEJJ7XBTSY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;1일 오전 경남 진주시 지수면 남해고속도로 부산방향 지수졸음쉼터 인근에서 난 사고 현장의 모습. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;1일 오전 3시 28분쯤 경남 진주시 지수면 남해고속도로 부산 방향 지수졸음쉼터 부근 지점에서 운전 중 사고로 차에서 내린 30대 남성 A씨가 뒤에 오던 차량에 치여 숨졌다.&lt;br&gt;&lt;br&gt;경찰은 A씨가 중앙분리대를 들이받는 1차 사고 후 자신의 차에서 내렸다가 주행하던 뒤차에 치이는 2차 사고를 당한 것으로 보고 있다.&lt;br&gt;&lt;br&gt;A씨를 친 차량 운전자인 40대 B씨는 사고 당시 음주 상태나 무면허는 아니었던 것으로 조사됐다.&lt;br&gt;&lt;br&gt;경찰은 B씨와 차량 블랙박스 등을 토대로 자세한 경위를 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>경북 포항서 역주행 SUV, 트럭과 충돌… 20대 운전자 숨져</title>
-      <link>https://www.chosun.com/national/regional/2025/06/05/ADEUBEFLARBVLAUURXR7ZSRZNQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/06/05/ADEUBEFLARBVLAUURXR7ZSRZNQ/</guid>
-      <dc:creator>포항=노인호 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 05 Jun 2025 00:15:13 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/P2AZ4HYB2VD73NXYJBN4L3TSNA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;5일 0시 45분쯤 경북 포항시 남구에서 역주행 하던 소형 SUV가 2.5톤 탑차를 충돌한 현장에서 소방대원들이 구조활동을 벌이고 있다./경북소방본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경북 포항에서 소형 스포츠 유틸리티 차량(SUV)이 역주행하다 마주 오던 화물차와 충돌해 1명이 숨지고, 2명이 다쳤다. &lt;br&gt;&lt;br&gt;5일 경북소방본부에 따르면, 이날 0시 45분쯤 경북 포항시 남구 연일읍 영일만대로에서 소형 SUV가 역주행하다가 마주 오던 2.5t 트럭과 충돌했다. 이 사고로 SUV 운전자 20대 여성이 숨지고, 트럭 운전자가 경상을 입고 병원으로 옮겨져 치료를 받고 있다. 또 이 과정에서 역주행 차량을 정지시키기 위해 뒤쫓아가던 순찰차 1대가 파손되면서 순찰차 운전 경찰관 1명도 다쳤다. &lt;br&gt;&lt;br&gt;경찰은 이날 0시 37분쯤 “역주행 차량이 있다”는 신고를 받고 해당 차량을 추적하며 정지 신호를 보냈으나 SUV는 멈추지 않았다. 결국, 편도 2차로를 8㎞ 정도 역주행하다가 사고를 낸 것으로 알려졌다. &lt;br&gt;&lt;br&gt;경찰은 음주 운전 여부 등 자세한 사고 경위를 조사하고 있다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>밀어붙이는 李대통령 방탄법...최종 판단은 헌재 몫</title>
