@@ -6,6 +6,16 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>대구경북법무사회 제63회 정기총회 개최···유공자 시상 등</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/208625.jpg" alt="208625.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;5월 30일 대구 수성구 그랜드호텔에서 열린 대구경북지방법무사회 정기총회 모습.&lt;/figcaption&gt;   &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;대구경북지방법무사회(회장 배희건)은 지난 5월 30일 오전 11시 대구 수성구 범어동 그랜드호텔 2층 다이너스티홀에서 제63회 대구경북지방법무사회 정기총회를 개최하고, 의안 심의 및 유공자에 대한 시상 등을 진행했다.&lt;br /&gt;&lt;br /&gt;이날 총회에는&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="4541"&gt;강동명&lt;/span&gt;(61·사법연수원 21기) 대구지방법원장,&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="1276"&gt;박기동&lt;/span&gt;(53·30기) 대구지방검찰청 검사장,&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="7299"&gt;임해지&lt;/span&gt;(57·28기) 대구가정법원장, 이강천 대한법무사협회장, 배종국 대한법무사협회 부협회장,&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="8881"&gt;이병희&lt;/span&gt;(65·군법무관 7회) 대구지방변호사회장, 류선재 서울중앙지방법무사회장 등 370여 명이 참석했다.&lt;br /&gt;&lt;br /&gt;시상식에서 김상호 법무사는 대구지방법원장 표창, 이명화 법무사는 대구지방검찰청 검사장 표창, 이한식 법무사는 대구가정법원장 표창, 안성근 법무사는 대한법무사협회장 표창을 각각 수상했다. 또한  권영하 법무사 외 26명이 대구경북지방법무사회장 표창으로 입회 30년 공로장을 받았다. 박창국 대구지방법원 법원주사, 장성환 대구지방검찰청 검찰주사, 이혁수 대구가정법원 법원주사보는 감사장을 권용화, 김호원, 한광석, 윤순애, 김근후 사무원은 표창장을 받았다.&lt;br /&gt;</description>
+			<pubDate>Fri, 06 Jun 2025 06:49:28 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/208625</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/208625</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/208625.jpg</media:thumbnail>
+			<dc:creator>김종완 기자</dc:creator>
+		</item>
+		<item>
 			<title>[판결] 주주 채팅방서 "전 이사가 돈 요구" 허위 글…대법 "비방 목적 아냐" 무죄 확정</title>
 			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/208620.jpg" alt="208620.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;《사진=어도비스톡》&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;회사 임시 주주총회를 앞두고 주주들이 모인 단체 채팅방에서 회사의 옛 임원에 대해 “회사에 돈을 요구했다”, “학력을 위조했다”는 허위 글을 작성한 혐의로 기소된 피고인이 대법원에서 무죄를 확정받았다. 대법원 형사2부(주심&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="1658"&gt;오경미&amp;nbsp;&lt;/span&gt;대법관)는 5월 15일 명예훼손 혐의(정보통신망법 위반)로 기소된 A 씨에게 무죄를 선고한 원심을 확정했다(&lt;b&gt;2025도715&lt;/b&gt;).&lt;br /&gt;&lt;b&gt;&lt;br /&gt;[사실관계]&lt;/b&gt;&lt;br /&gt;A 씨는 2022년 2월 오픈채팅방을 개설하고 주주 50여 명이 채팅방에 참여한 가운데 전직 이사인 B 씨를 언급하며 ‘사업이 거의 실패로 돌아가자 B 이사는 회사 측에 돈을 요구합니다. 뜻대로 되지 않자 주가가 안 좋은 상황을 이용해 주주들을 이용해 이 사단을 벌인 겁니다. 학력 중요하지 않습니다. 그런데 주주들이 알 건 알아야죠. B 이사는 고졸입니다. MIT는 학력 위조입니다’라는 글을 올려 마치 B 씨가 부당하게 돈을 요구하고, 이를 거절당하자 주주들을 선동한 것처럼 보이게 했다. A 씨는 비방 목적으로 정보통신망을 통해 공공연하게 허위 사실을 드러내 명예를 훼손한 혐의로 재판에 넘겨졌다.&lt;br /&gt;&lt;b&gt;&lt;br /&gt;[하급심 판단]&lt;/b&gt;&lt;br /&gt;1심은 A씨 혐의를 유죄로 인정해 벌금 100만 원을 선고했지만, 항소심은 1심을 파기하고 무죄를 선고했다. 항소심은 A 씨가 주장한 이야기가 과거 다른 이들 사이에서 실제로 오갔을 개연성이 높은 점과 B 씨가 퇴사하면서 차린 법인에 회사가 자금을 대여해 줬다는 회사 관계자의 증언을 고려했을 때 A 씨의 글이 허위 사실이라거나, 허위 사실에 대한 인식이 있었다고 보기 어렵다고 판단했다.&lt;p&gt;&lt;br /&gt;항소심은 또 B 씨의 글이 공공의 이익을 위한 목적으로 게시됐다고 봤다. 항소심 재판부는 “B 씨가 임시 주주총회를 앞둔 시점에 자신이 MIT를 졸업하고 회사 재직 시절 사업을 성공적으로 이끌었다는 사실을 과시했으나 사실 B 씨는 고등학교를 졸업한 것에 불과하며 B 씨가 주도한 사업도 별다른 성과를 올리지 못했다”며 “이러한 상황에서 A 씨는 B 씨가 잘못된 정보를 바탕으로 다른 주주들을 호도하고 있다는 확신을 품게 된 것으로 보인다”고 밝혔다. 당시 해당 회사의 주주였던 A 씨가 피해자에 대한 잘못된 정보를 다른 주주들에게도 공유해 올바른 의결권 행사가 이뤄질 수 있도록 정확한 정보를 제공해야겠다는 필요성을 느꼈을 것으로 보인다는 판단이다.&lt;br /&gt;항소심 재판부는 “A 씨의 게시물로 B 씨의 사회적 평가가 저하되는 정도가 B 씨의 직무수행 능력에 관한 주주들의 관심 증진과 올바른 여론 형성에 따른 이익에 비해 더 크다고 보기 어려운 점, A 씨의 게시물이 대체로 사실에 부합하고 공격적·악의적인 표현은 찾아볼 수 없는 점 등을 고려하면 A 씨가 글을 작성하고 게시한 동기와 목적은 B 씨에 대한 비방보다 공공의 이익을 위한 것이었다고 봄이 타당하다”고 설명했다.&lt;br /&gt;&lt;b&gt;&lt;br /&gt;[대법원 판단]&lt;/b&gt;&lt;br /&gt;대법원도 이 같은 항소심 판단을 수긍하고 검사의 상고를 기각했다.&lt;/p&gt;</description>
 			<pubDate>Fri, 06 Jun 2025 03:53:52 -0000</pubDate>
@@ -228,16 +238,6 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/208540</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/208540.jpg</media:thumbnail>
 			<dc:creator>김종완 기자</dc:creator>
-		</item>
-		<item>
-			<title>[신간소식] 한국법학교수회, 《법학의 길을 새로 묻다》 출간</title>
-			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/208538.jpg" alt="234234234235.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;한국법학교수회(회장 최봉경)는 지난 4월&lt;b&gt;《법학의 길을 새로 묻다》&lt;/b&gt;(박영사 펴냄)를 출간했다. &lt;br /&gt;&lt;br /&gt;이 책에는 2024년 9월 6일 열린 '한국법학교수회 60주년 기념학술대회'에서 발표된 논문들이 수록됐다.&lt;br /&gt;&lt;br /&gt;책은 총 2부로 구성됐다. 제1부는 조홍식 제16대 한국법학교수회장의 개회사와 송상현 전 국제형사재판소장의 기조강연이 실렸다. 조 회장은 개회사에서 "우리 법학 및 법학교육의 현실이 필설로 형용할 수 없을 정도로 심각한 위기에 처해 있다"며 "법학교육이 지속해서 강조해온 합리적 논증, 즉 증거와 논리로 반대 의견과 이의를 아우르며 설득하는 노력이 우리 사회에 필요하다"고 말했다.&lt;br /&gt;&lt;br /&gt;제2부는 논문을 중심으로 한국 법학의 과거와 현재, 그리고 미래를 조망하는 내용이 담겼다. 제1장은 '법학의 길을 새로 묻다'를 주제로 서두를 연다.  제2장은 '한국의 법학자'를 주제로 법학자의 초기 정체성과 더불어 로스쿨 체제에서 법학자의 정체성과 역할에 대한 제언이 담고 있다. 제3장 '한국의 법학교육'은 근대 한국 법학교육 제도사부터 현대 법학교육제도에 대해 짚어보며, 학부 법학과가 위기에 처한 이유에 대해 분석한다. 마지막 제4장 '한국의 법학연구'는 법학 연구의 역사와 위기 상황을 조망하며, 새로운 시대에서 법학의 사회적 기여와 세계화를 위한 법학의 과제를 다룬다. &lt;br /&gt;&lt;br /&gt;한국법학교수회는 1964년 설립된 이후, 한국 법학교육의 해방 이후 과정 정리 및 외국과의 비교 연구 등을 통해 법학교육의 발전을 도모해 왔다. 현재까지도 학술대회, 연구사업, 정책 제언 등을 통해 법학교육의 방향을 모색하는 활동을 이어가고 있다.</description>
-			<pubDate>Wed, 04 Jun 2025 08:26:52 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/208538</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/208538</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/208538.jpg</media:thumbnail>
-			<dc:creator>서하연 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
