@@ -13,6 +13,33 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>모델 김종석, 29세에 사망…유족 “고인 편히 보내게 해 달라”</title>
+      <link>https://www.chosun.com/national/people/2025/06/06/UXZMIHIC5BFH3DKVOYGJSAFIRI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/06/06/UXZMIHIC5BFH3DKVOYGJSAFIRI/</guid>
+      <dc:creator>이가영 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 06 Jun 2025 11:48:11 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NV4O7W22LJA27EMQ5JA6YZUXL4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;모델 김종석. /김종석 인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;모델 김종석이 갑작스럽게 세상을 떠났다. 그의 죽음을 둘러싼 루머가 확산하자 유족은 “고인을 편하게 보내게 해 달라”고 호소했다. &lt;br&gt;&lt;br&gt;김종석은 지난 4일 29세 나이에 사망했다. 발인은 6일 오전 8시 하남시 마루공원 장례식장에서 엄수됐다. 장지는 춘천안식원‧양구봉안공원이다. 정확한 사인은 알려지지 않았다. &lt;br&gt;&lt;br&gt;부고는 지인들의 추모 글을 통해 알려졌다. 김종석의 지인은 5일 “어제 네가 우리 곁을 떠났다는 소식을 들었을 때, 내 마음은 산산이 부서졌다”며 “비록 이제 우리 곁에 없지만 넌 이 세상 큰 선물이었고, 나는 평생 너를 마음속에 간직할 거야”라고 했다. 또 다른 지인 역시 “그곳에서는 고통 없이 평안하길”이라며 애도의 뜻을 전했다. &lt;br&gt;&lt;br&gt;이후 온라인에서는 경기 하남시에서 발생한 20대 남성 사망사건이 김종석과 관계가 있다는 소문이 퍼졌다. &lt;br&gt;&lt;br&gt;김종석의 누나는 6일 자신의 인스타그램에 “갑작스러운 부고로 정신없이 장례를 치렀다”며 “온라인에 종석이에 대해 사실과 다른 내용이 와전되고 있어서 유족들이 많이 고통받고 있다”고 밝혔다. 이어 “지금까지 아무런 대응을 안 했던 건 종석이가 좋은 곳에 갔으면 해서였다”며 “이런 터무니없는 내용들도 와전되어 퍼질지 몰랐다”고 했다. &lt;br&gt;&lt;br&gt;그는 “경찰 녹취록과 같이 있던 친구의 녹취록, 상대방이 저에게 마지막으로 했던 이야기를 조만간 정리해 공개하겠다”며 “제발 고인을 위해서라도 더 이상 비방하지 말아주시고, 올린 글들은 제발 삭제 부탁드린다”고 했다. 그러면서 “고인을 편히 보내게 해 달라. 악의적으로 올라온 글들은 신고 조치될 예정”이라고 법적 대응을 시사했다. &lt;br&gt;&lt;br&gt;김종석은 뷰티‧패션 모델로 활동했다. 남성 화장품 브랜드 ‘다슈’의 유튜브 숏츠 영상으로 얼굴을 알렸다. 2022년 tvN 연애 예능 ‘스킵’에도 출연했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“지진난 줄 알았다”... 지반 뚫는 71t 천공기, 아파트 덮쳐</title>
+      <link>https://www.chosun.com/national/incident/2025/06/06/C5K4MH3A75EWFNBPF77VT62ZEM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/06/06/C5K4MH3A75EWFNBPF77VT62ZEM/</guid>
+      <dc:creator>용인=김현수 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 06 Jun 2025 12:23:14 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3EZG7BRE5LC5LI432PFUZVZFSU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;6일 오전 경기 용인시 기흥구 서천동 인덕원~동탄 복선전철 제10공구 노반신설 기타공사 현장에 '천공기'(지반을 뚫는 건설기계)가 넘어져 있다.  2025.6.6/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“침대에 누웠는데 폭탄 터지는 소리가 나 정신없이 1층으로 뛰었어요. 전쟁 난 줄 알았습니다.”&lt;br&gt;&lt;br&gt;지난 5일 밤 경기 용인시 전철 공사 현장에서 높이 44m 크기의 철제 천공기(지반을 뚫는 건설장비)가 쓰러지면서 근처 아파트를 덮쳤다. 아파트 일부 층의 외벽이 부서지고 유리창이 산산조각났다. 주민 150여 명이 대피했다. 다친 사람은 없었다. &lt;br&gt;&lt;br&gt;6일 경기도 소방재난본부에 따르면, 사고는 전날 오후 10시 13분쯤 용인시 기흥구 서천동 인덕원~동탄 복선전철 제10공구 공사 현장에서 발생했다. &lt;br&gt;&lt;br&gt;공사 현장에 서 있던 천공기가 갑자기 쓰러져 근처 아파트 8~15층과 충돌했다. 특히 15층은 천공기 꼭대기 부분이 건물 안으로 파고들어 베란다와 콘크리트 외벽이 파손됐다. 이 천공기는 무게가 71t에 달했다.&lt;br&gt;&lt;br&gt;주민 A씨는 “지진이 난 줄 알았다”며 “‘쾅’ 소리에 아무 것도 못 챙기고 밖으로 뛰어나왔다”고 했다. &lt;br&gt;&lt;br&gt;이 사고로 주민 150여 명이 근처 호텔 등으로 대피했다. 2명은 큰 소리에 놀라 병원으로 이송됐다. 다친 사람은 없다고 소방 당국은 밝혔다.&lt;br&gt;&lt;br&gt;국토교통부와 국가철도공단 등은 크레인 3대를 동원해 쓰러진 천공기를 해체하는 작업을 하고 있다. 소방 당국은 7일에는 철거 작업을 마무리할 수 있을 것으로 보고 있다. 소방 당국 관계자는 “아파트 건물에 구조적인 문제는 없는 것으로 파악된다”고 했다. &lt;br&gt;&lt;br&gt;인덕원~동탄 복선전철 제10공구의 시공사는 DL건설이다. 2023년 착공했다. 2028년 11월 완공하는 게 목표다. 국토부 관계자는 “이 공사장은 지난달 31일부터 작업을 멈춘 상태였다”며 “서 있던 천공기가 갑자기 쓰러진 원인을 조사하고 있다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>처자식 죽음 내몬 가장, 아내와 계획했나…블랙박스 기록에는</title>
+      <link>https://www.chosun.com/national/national_general/2025/06/06/G3YU4MTBOFAIDICNYMNF5OCFVU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/06/G3YU4MTBOFAIDICNYMNF5OCFVU/</guid>
+      <dc:creator>이가영 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 06 Jun 2025 10:19:58 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JQZ7AGO6JJOLPMISSCHMZX4FZE.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;진도에서 차량을 바다에 빠뜨려 일가족을 숨지게 한 혐의를 받는 40대 가장이 4일 영장실질심사를 위해 광주 북부경찰서 유치장을 나서고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전남 진도에서 아내와 두 아들을 승용차에 태운 뒤 바다로 돌진해 숨지게 한 40대 가장이 아내와 함께 범행을 계획한 정황이 포착됐다. &lt;br&gt;&lt;br&gt;6일 광주 북부경찰서에 따르면 처자식을 숨지게 한 혐의를 받는 지모(49)씨가 추락 전 아내 김모(49)씨와 대화한 기록이 담긴 차량 블랙박스가 확인됐다. &lt;br&gt;&lt;br&gt;블랙박스에는 희미하지만 지씨와 아내가 대화를 나눈 내용이 담긴 것으로 전해졌다. 경찰은 추락 직전 아내가 살아있었고, 두 사람이 함께 수면제를 먹은 것으로 보고 있다. 앞서 지씨가 홀로 범행을 저지른 것으로 알려졌으나 아내 김씨도 범행 계획을 알고 있던 것으로 추정된다. &lt;br&gt;&lt;br&gt;경찰 조사 결과 지씨 부부는 범행 나흘 전 자택 인근 약국에서 수면제에 넣을 음료를 구입한 것으로 나타났다. 광주의 한 빌라에 사는 지씨 가족들은 지난달 30일 지씨가 여행을 가자고 제안해 무안 펜션에서 하루 숙박한 뒤 진도를 거쳤다가 31일 오후 10시 30분쯤 목포 한 공원 주차장에 도착했다. &lt;br&gt;&lt;br&gt;이때 지씨 부부는 두 아들에게 수면제가 든 음료수를 마시게 한 뒤 전남 진도군 임회면 진도항으로 이동했고, 2시간 30여 분 뒤인 1일 오전 1시 12분쯤 차량에 탄 채 바다로 돌진한 것으로 파악됐다. 그러나 지씨는 홀로 차량에서 탈출해 뭍으로 올라왔고, 오전 1시 53분쯤 서망항 쪽 도로로 올라와 공용화장실로 들어가는 장면이 방범카메라(CCTV)에 포착됐다. &lt;br&gt;&lt;br&gt;이후 지씨는 인근 야산에서 노숙한 뒤 2일 오후 3시 38분쯤 근처 가게 주인의 휴대전화를 빌려 형에게 연락했다. 형은 지인에게 대신 차편을 부탁했고, 지씨는 광주로 도주했다가 범행 44시간 만에 경찰에 체포됐다. &lt;br&gt;&lt;br&gt;공사장의 현장 반장으로 일했던 지씨는 1억6000만원 상당의 빚 때문에 금전적 어려움을 겪자 가족과 함께 생을 마감하려 했다고 경찰에 진술했다. 지씨는 “조울증을 앓던 아내를 돌보느라 직장 생활에도 문제가 생기면서 생계를 감당할 수 없었다”며 “추락 전 수면제를 먹었지만, 막상 물에 들어가니 무서워서 차에서 혼자 탈출했다”고 진술한 것으로 전해졌다. &lt;br&gt;&lt;br&gt;경찰은 아내가 추락 전까지 생존했다는 사실을 토대로 시신 부검, 휴대전화 포렌식 등을 통해 아내의 공범 여부를 조사하고 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>“신내림 안 받으면 가족 화 입는다”…제사비로 수천만원 챙긴 무속인 징역형</title>
       <link>https://www.chosun.com/national/2025/06/06/7F3ULBDJWVGPZN52LK3FGMNEGM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/2025/06/06/7F3ULBDJWVGPZN52LK3FGMNEGM/</guid>
@@ -946,33 +973,6 @@
       <description/>
       <pubDate>Wed, 04 Jun 2025 10:00:00 +0000</pubDate>
       <content:encoded>4일 사표가 수리된 박성재 법무장관이 청사를 떠나며 “국민 모두를 위한 진정한 국민 통합과 실질적 법치주의, 민주주의가 구현되길 희망한다”는 인사를 남겼다. 박 장관의 퇴직 절차가 마무리되는 대로 김석우 법무차관이 장관 직무를 대행할 예정이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2V7I4I4H3ZLIBGDVGH3KJWWWFY.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;탄핵소추안 기각으로 직무에 복귀한 박성재 법무장관이 지난 4월 10일 경기 과천 법무부 청사로 출근하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;박 장관은 이날 오후 6시 45분쯤 경기 과천시 법무부 청사에서 기자들과 만나 “인사명령을 받지 못해서 드릴 말씀이 없다”면서도 “신임 대통령께서 말씀하신 ‘국민 모두를 위한 진정한 국민 통합’과 실질적 법치주의, 민주주의가 구현되길 희망한다”고 했다. 이어 “저도 밖에서 국민 여러분과 국가를 위해서 최선을 다하겠다”며 “그동안 도와주셔서 감사하다”고 했다. 박 장관은 짧은 발언을 마친 뒤 청사를 떠났다. 별도의 퇴임식은 열리지 않았다.&lt;br&gt;&lt;br&gt;이 대통령은 이날 윤석열 정부 국무위원 전원의 사의 표명을 반려했으나, 박 장관의 사의는 수용했다. 강유정 대통령실 대변인은 이날 서울 용산 대통령실 브리핑에서 “이주호 사회부총리 겸 교육부 장관이 대통령과 통화에서 국무위원 전원의 사임 의사를 전했다”면서 “(이 대통령은) 국정 연속성과 비상 경제의 점검 필요성을 강조하면서 박 장관을 제외한 나머지 국무위원의 사의는 반려했다”고 밝혔다.&lt;br&gt;&lt;br&gt;박 장관은 내란에 동조했다는 사유 등으로 지난해 12월 민주당에 의해 탄핵소추됐다. 그러나 헌법재판소가 전원일치로 기각 결정을 내리며 지난 4월 직무에 복귀했었다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>수능 6월 모의평가, 역대 최다 50만명 응시 </title>
-      <link>https://www.chosun.com/national/education/2025/06/04/Q2LDR3TYFZCXVAFRMJONS73ZWA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2025/06/04/Q2LDR3TYFZCXVAFRMJONS73ZWA/</guid>
-      <dc:creator>김민기 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 04 Jun 2025 08:38:56 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5KHMFPCNLFIO5YHAQISFRQHMTM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;4일 오전 대구 수성구 대구여자고등학교에서 고3 학생이 6월 모의평가 1교시 국어 영역 시험을 앞두고 수험생 정보를 적고 있다.뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;4일 2026학년도 대학수학능력시험 전국연합학력평가(모의평가)가 열렸다. 이번 6월 모의평가는 역대 최다 응시생을 기록했다.&lt;br&gt;&lt;br&gt;수능 출제기관인 한국교육과정평가원 주관으로 열리는 모의평가는 수험생들이 수능을 앞두고 자신의 실력을 파악하는 기회다. 올해 6월 모의평가는 당초 3일 열릴 예정이었으나 조기 대선이 확정됨에 따라 하루 밀린 이날 열렸다.&lt;br&gt;&lt;br&gt;전국 2119개 고등학교와 511개 학원에서 동시에 열린 이번 시험엔 총 50만3572명이 응시했다. 모의평가 관련 통계가 발표된 2011학년도 이후 역대 최다다. 출생률이 이례적으로 늘었던 ‘황금돼지띠’ 2007년생이 고3이 되며 수험생이 늘어난 영향이다. 고3 재학생이 41만3685명(82.2%), 졸업생·검정고시생이 8만9887명(17.8%)으로 집계됐다.&lt;br&gt;&lt;br&gt;진학사는 “지난 수능과 대비해 국어, 영어는 유사한 난이도로 출제됐고, 수학은 다소 어려웠다”고 했다. 종로학원은 “국어·수학은 수능보다 비슷하거나 다소 어려웠고, 영어는 쉬웠다”고 평가했다.&lt;br&gt;&lt;br&gt;성적은 7월 1일 통지된다. 다음 모의평가인 9월 시험은 9월 3일 열린다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[속보]이주호, 李대통령에 전체 국무위원 사의 표명</title>
-      <link>https://www.chosun.com/national/education/2025/06/04/YT3GL5HI5RH5DJIEIAW73WBBSI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2025/06/04/YT3GL5HI5RH5DJIEIAW73WBBSI/</guid>
-      <dc:creator>최인준 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 04 Jun 2025 07:34:36 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3MFUW4XZWHDKOWE7ZHFPX6ED5I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이주호 사회부총리 겸 교육부 장관. /교육부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이주호 국무총리 직무대행 부총리 겸 교육부 장관이 4일 이재명 대통령에게 전체 국무위원 사의를 표명했다.&lt;br&gt;&lt;br&gt;교육부는 이날 출입 기자단에 공지를 하고 “전체 국무위원은 지난 2일 일괄 사표를 (이주호 장관에게) 제출했다”며 “이주호 직무대행은 금일 대통령께 본인을 포함한 전체 국무위원 사의를 표명했다”고 밝혔다. 교육부에 따르면 이 직무대행은 이날 오후 3시30분경 이 대통령에게 전화로 사의를 표명한 것으로 알려졌다. &lt;br&gt;&lt;br&gt;이주호 직무대행은 대선 하루 전인 지난 2일 자신을 포함한 윤석열 정부 장·차관들의 사표를 인사혁신처에 일괄 제출했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“중앙의 아들” “당선 축하”… 李 대통령 모교 중앙대 곳곳에 현수막 </title>
-      <link>https://www.chosun.com/national/national_general/2025/06/04/S5N4YDRNGREFLFXLCUJYFIGPMA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/04/S5N4YDRNGREFLFXLCUJYFIGPMA/</guid>
-      <dc:creator>최혜승 기자 </dc:creator>
-      <description/>
-      <pubDate>Wed, 04 Jun 2025 07:00:43 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/M7ZRNAWBAJY5NINSH35V5WS444.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;4일 이재명 대통령의 모교인 서울 동작구 중앙대학교 캠퍼스 내에 동문들이 마련한 당선 축하 현수막이 걸려 있다. 이 대통령은 1728만7513표를 얻어 득표율 49.42%로 당선됐다. /뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘중앙의 아들 이재명 학우 제21대 대통령 당선’ &lt;br&gt;&lt;br&gt;이재명 대통령 임기 첫날인 4일 서울 흑석동 중앙대학교 캠퍼스에는 이 같은 축하 현수막이 설치됐다. 중앙대는 102관 대형 전광판에 ‘이재명 동문(법학과 82)의 대한민국 대통령 당선을 축하합니다’라는 메시지를 송출했다. 동문회관에도 같은 내용의 축하 메시지가 게시됐다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LDEXGKOJKJJHJIJBZBWLR37E2Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이재명 정부가 출범한 4일 서울 동작구 중앙대학교에서 전광판을 통해 이재명(법학과 82) 대통령 당선 축하 메시지가 송출되고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이 대통령과 입학 동기인 중앙대 법과대학 82학우회는 ‘이제는 대한민국 제21대 대통령 이재명이 만들어 갈 진짜 대한민국을 응원합니다’라는 문구를 전광판에 띄웠다. 이 외에도 법과대학 총동문회, 민주동문회, 역대 총학생회장 등 명의로 된 현수막이 정문부터 후문까지 곳곳에 내걸렸다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YT62425DUMSRPXIALNVZQNLPGA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;4일 이재명 대통령의 모교인 서울 동작구 중앙대학교에서 한 시민이 당선 축하 현수막을 스마트폰으로 촬영하고 있다. 이 대통령은 1728만7513표를 얻어 득표율 49.42%로 당선됐다./뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;학생들은 강의실로 향하던 발걸음을 멈추고 축하 현수막으로 가득한 풍경을 휴대전화 카메라에 담았다.&lt;br&gt;&lt;br&gt;앞서 이날 새벽 이 대통령의 당선이 확실시된다는 보도가 나온 이후 서울 여의도 국회 앞에는 중앙대 동문들이 당선을 축하하는 현수막을 들고 있는 모습이 포착되기도 했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7EB3DHRPFVKPBJ6EKC6L5SOIMM.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;4일 이재명 대통령의 모교인 서울 동작구 중앙대학교 캠퍼스 내에 법과대학 동문들이 마련한 당선 축하 현수막이 걸려 있다. 이 대통령은 1728만7513표를 얻어 득표율 49.42%로 당선됐다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/M5VPOHLY2JOR7P65ALEBZAW24Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이재명 정부가 출범한 4일 서울 동작구 중앙대학교에서 전광판을 통해 이재명(법학과 82) 대통령 당선 축하 메시지가 송출되고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;중앙대가 대통령을 배출한 건 개교 이후 처음이다. 다만 중앙대는 별도의 축하 행사는 계획하지 않는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;이 대통령은 소년공(少年工) 출신으로 1978년과 1980년 각각 중졸·고졸 검정고시에 합격했다. 1982년 장학금과 매달 생활비로 20만원을 지원받는 조건으로 중앙대 법대에 입학했다. 대학을 졸업한 1986년 제28회 사법시험에 합격했다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[단독] 사직 전공의·의대생 모인 ‘의료정책학교’, 민주당에 첫 정책 제안</title>
