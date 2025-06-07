@@ -13,6 +13,42 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>지하철 없는 울산시민 유일한 발 ‘시내버스’ 멈췄다</title>
+      <link>https://www.chosun.com/national/2025/06/07/74DAPTSUMZAGLESYTRUHT474Q4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2025/06/07/74DAPTSUMZAGLESYTRUHT474Q4/</guid>
+      <dc:creator>김준호 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 07 Jun 2025 03:31:26 +0000</pubDate>
+      <content:encoded>“지하철도 없는 동네서 유일한 대중교통이 멈춰버리면 시민들은 어쩌라는 말입니까” “대체 버스도 마련하지 않은 울산시는 뭐 했나요”&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7Z5L5SPVYVPS7LVWBX2CNRHB3Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;임단협 난항으로 울산 시내버스 노조가 파업에 들어간 첫날인 7일 오전 울산 중구 병영사거리 인근 버스정류장에서 시민들이 파업 사실을 모르는 듯 버스를 기다리고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;울산 시내버스 노조(전국자동차노동조합연맹 울산버스노조)가 7일 오전 4시 첫차부터 파업에 돌입하면서 시민 불편이 현실화되고 있다. 울산시에 따르면 이날 시내버스 파업으로 총 889대 중 702대가 운행을 멈췄다. 전체 버스의 79%다. 울산 시내버스 노조가 파업에 나선 것은 2019년 5월 이후 6년 만이다.&lt;br&gt;&lt;br&gt;도심 버스정류장에는 오지 않는 버스를 기다리다 뒤늦게 택시를 찾아 나서는 시민들이 상당수다. 남구 신정동에 거주하는 60대 이모(65)씨는 “버스 파업 때문에 택시를 타고 왕복 4만원에 진료 예약한 대학병원을 다녀왔다”며 “지하철 같은 시내버스를 대체할 대중교통이 있는 것도 아닌데, 이런 파업은 너무하다는 생각이 든다”고 했다. 버스 파업 본지 기사 댓글에는 “땅이 엄청 넓은데 비해 버스 수와 노선이 부족해 어디 가려고 하면 기본 1시간이다” “시민들 인질로 잡았다” “택시 타고 출근하고 퇴근하고 시장한테 돈받자” 등의 댓글이 잇따랐다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ECX46SKOHFBCSGKSOLHRXSMXUQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;7일 울산 태화강역 앞에 버스파업 소식에 택시들이 줄지어 서 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;울산시는 이번 시내버스 파업에 대한 대응으로, 법인·개인택시 조합 측에 운행 확대를 요청했다. 지난해 기준 울산 지역 택시 운행률은 60~70%대 수준이다. 시내버스 파업 기간 최대한 택시 운행을 늘려달라는 취지다. 시내버스 파업으로 승용차 이용이 많아질 것으로 본 울산시는 승용차 요일제도 풀기로 했다. 울산에서는 약 6200여 명의 시민이 일주일 중 하루 승용차를 운행하지 않는 승용차 요일제에 참여하고 있다. 참여 차량에는 자동차세 5% 감면, 공영주차장 요금 50% 할인의 혜택을 주고 있는데, 파업 기간 잠시 시민 캠페인을 멈추겠다는 의도다. 공영주차장 94곳 1만1332면, 공공기관 부설주차장 25곳 9736면도 전면 무료로 개방하기로 했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6CRAYIAWOJIXNG46XQ7NX7MRRE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;임단협 난항으로 울산 시내버스 노조가 파업에 들어간 첫날인 7일 오전 울산 중구 병영사거리 인근 버스정류장에서 시민들이 파업 사실을 모르는 듯 버스를 기다리는 모습. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;하지만 이 같은 울산시 대책이 부실하다는 지적이 나온다. 전세버스 등 시내버스를 대체할 수단이 별도로 마련돼 있지 않아서다. 울산시에 따르면 지역에서 운영 중인 전세버스 대부분이 회사 통근버스로 계약돼 있고, 나머지는 관광용이라 전세버스를 확보하지 못했다. 지난달 28일부터 2일까지 시내버스가 멈췄던 창원시도 매일 전세버스를 투입했음에도 시민 불편이 컸다. 중구 유곡동에 거주하는 김모(44)씨는 “지난달부터 노사 협상이 난항을 겪고 있고 노조가 파업을 예고했는데, 대체버스 하나 마련하지 않았다는 것은 행정의 무능이다”라며 “택시를 타거나 자가용 이용을 하라는 것이 행정이 할 소리인가”라고 지적했다. 남구 상개동으로 출퇴근을 한다는 신모(39)씨는 “협상 타결이 주말을 넘기면 출퇴근 불편이 심각할 것이다”라고 우려했다.&lt;br&gt;&lt;br&gt;울산시에 따르면 울산 시내버스 노사는 물밑에서 협상을 이어가고 있다. 현재 노사 협상의 핵심 쟁점은 임금 체계 개편이다. 지난해 12월 대법원 전원합의체 판결에 따라 앞으로는 상여금을 포함한 통상임금을 기준으로 각종 수당을 지급해야 한다. 이때 사측이 져야 할 재정 부담이 지나치게 커지지 않도록 임금 체계를 개편하는 것이 쟁점이었다. 노사는 통상임금 범위 확대를 비롯한 임금 체계 개편에 대해서는 어느 정도 공감했다고 한다. 다만 노조가 새 임금 체계를 만드는 조건으로 총임금 10.47% 인상을 요구하고 있는데, 사측은 재정 부담을 이유로 난색을 보이는 것으로 전해졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘일제 강제징용’ 107세 김한수 할아버지, 80년 만에 배상판결</title>
+      <link>https://www.chosun.com/national/court_law/2025/06/07/Z4WZ2TBH3RFZJJDWDEMDVZ7L2I/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/07/Z4WZ2TBH3RFZJJDWDEMDVZ7L2I/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 07 Jun 2025 02:59:43 +0000</pubDate>
+      <content:encoded>일제 강제징용으로 피해를 본 107세 김한수 할아버지가 80년 만에 일본의 미쓰비시중공업으로부터 1억원을 배상받을 수 있다는 판결이 나왔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NC7QHW7WZRNDXCSVFFBIZMI4AI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 용산역 광장에서 열린 '강제징용 노동자상 제막식'에서 강제징용 피해자인 김한수 할아버지가 눈물을 흘리고 있다. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;7일 법조계에 따르면, 서울중앙지법 민사항소1-1부(재판장 임은하)는 지난달 9일 김 할아버지가 미쓰비시 중공업을 상대로 낸 손해배상 청구 소송 항소심에서 원고 패소로 판결한 1심을 뒤집고 원고 승소로 판결했다. 1918년생인 김 할아버지는 고령으로 거동이 어려워 선고 당일 법정에 출석하지는 않은 것으로 전해졌다.&lt;br&gt;&lt;br&gt;김 할아버지는 1944년 7월부터 1년 3개월 동안 미쓰비시 주식회사에서 운영하는 조선소에 강제동원됐다. 김 할아버지는 “같은 인간으로 왜 그들(일제)한테 끌려가서 개나 돼지 대우도 못 받는 인간으로 살아야 했나, 이게 참 대단히 어려운 문제”라며 손해배상 소송을 냈다.&lt;br&gt;&lt;br&gt;1심은 2022년 2월 김 할아버지 패소로 판결했다. 강제동원 피해자들의 배상 청구권을 처음 인정한 대법원의 2012년 파기환송 판결 후 3년이 지난 시점에 소송을 제기해 소멸시효가 완성됐다는 이유였다. 민법상 손해배상 청구권은 불법행위에 따른 손해와 가해자를 피해자가 안 날부터 3년이 지나면 소멸한다. 이를 두고 법조계 안팎에서는 강제동원 피해 사건에서 소멸시효를 계산하는 시작점을 언제로 볼 것인지를 두고 논쟁이 계속됐었다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6NRIRZMCKFJZRBJRV6IX5NEDRA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대법원 청사 전경./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대법원은 이 사건 1심 판결 이후인 2023년 12월 일본 기업을 상대로 일제 강제동원의 책임을 묻는 ‘2차 손해배상 소송’에서 소멸시효를 계산하는 시작점을 2018년 10월 30일로 봐야 한다고 판단했다. 이 사건 1심이 기준으로 삼았던 2012년 파기환송 판결이 아니라 해당 판결이 재상고를 통해 대법원 전원합의체에서 확정된 시점을 기준으로 삼아야 한다는 것이다. &lt;br&gt;&lt;br&gt;김 할아버지가 소송을 낸 것은 2019년 4월 4일로, 전합 확정판결 시점을 기준으로 할 때 소멸시효는 도래하지 않은 상태였다. 이에 따라 2심은 김 할아버지에게 손해배상 청구권이 있다고 본 것이다.&lt;br&gt;&lt;br&gt;다만 미쓰비시중공업 측이 판결에 불복해 상고하면서, 이 사건은 대법원 판단을 받게 됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>동료들 앞에서 20대男 속옷 쑥...50대女 강제추행 혐의 ‘벌금형’ </title>
+      <link>https://www.chosun.com/national/2025/06/07/LV6H2WYMQJEBDDPQHBXFEJQH7E/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2025/06/07/LV6H2WYMQJEBDDPQHBXFEJQH7E/</guid>
+      <dc:creator>김준호 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 07 Jun 2025 00:57:22 +0000</pubDate>
+      <content:encoded>식당에서 함께 근무하는 20대 남성 동료의 하의를 내려 엉덩이가 노출되게 한 혐의로 기소된 50대 여성이 벌금형을 받았다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MYWNRYY5YMSS64N54XMRH65D5M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;춘천지법 원주지원. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;춘천지법 원주지원 형사 2단독 박현진 부장판사는 강제 추행 혐의로 기소된 50대 여성 A씨에게 벌금 280만원을 선고하고, 8시간의 성폭력 치료 강의 이수를 명령했다고 7일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난해 10월 3일 오전 8시 20분쯤 강원 횡성군 한 식당 주방에서 당시 함께 일하던 20대 남성 동료 B씨와 장난을 치던 중 바지와 속옷을 잡고 내려 엉덩이가 노출되게 한 혐의로 재판에 넘겨졌다. 범행 당시 주변에는 다른 동료들도 있었다고 한다. &lt;br&gt;&lt;br&gt;박 부장판사는 “피고인이 범행을 인정하고 초범인 점, 피해자와 피해자의 부모에게 무릎 꿇고 사과한 점, 범행의 동기 및 수단과 결과, 범행 후의 정황 등을 고려해 형을 정했다”고 양형 이유를 밝혔다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>내일 낮 최고 31도...제주·강원은 비</title>
+      <link>https://www.chosun.com/national/transport-environment/2025/06/07/WH6XCZIVW5EKVK4IQFWPWH2VJA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/06/07/WH6XCZIVW5EKVK4IQFWPWH2VJA/</guid>
+      <dc:creator>정해민 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 07 Jun 2025 01:05:59 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2K6Z37GQOOPURRZLIBC5HZ2NFU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울의 낮 최고기온이 28도를 기록하는 등 초여름 날씨를 보인 6일 오후 서울 종로구 광화문광장 분수대를 찾은 어린이들이 더위를 식히고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;일요일인 8일 내륙 지방을 중심으로 체감 온도가 31도 이상으로 올라 덥겠다.&lt;br&gt;&lt;br&gt;7일 기상청에 따르면, 당분간 전국 대부분 지역에 낮 기온이 25도 이상으로 오를 전망이다. 특히 내륙 지방을 중심으로는 최고 30도 이상까지 오르겠다.&lt;br&gt;&lt;br&gt;8일 아침 최저 기온은 17~21도, 낮 최고 기온은 24~32도로 예보됐다. 이는 평년(최저 14~18도, 최고 22~28도)과 비슷하거나 조금 높은 수준이다.&lt;br&gt;&lt;br&gt;서울 기온은 19~30도, 인천 18~25도, 수원 19~28도, 춘천 19~29도, 강릉 20~26도, 청주 20~31도, 대전 20~29도, 세종 19~28도, 전주 20~30도, 광주 20~29도, 대구 20~30도, 부산 19~25도, 울산 19~28도, 창원 19~27도, 제주 20~24도 등으로 예보됐다.&lt;br&gt;&lt;br&gt;내일 제주도에는 이른 새벽부터 오후 사이 비가 내리는 곳이 있겠다. 예상 강수량은 5mm 미만이다. 또 강원 내륙·산지에는 오후에 5~20mm의 소나기가 내리는 곳이 있겠다.&lt;br&gt;&lt;br&gt;기상청은 “비나 소나기가 내리는 지역에서는 천둥·번개가 치는 곳이 있겠으니, 시설물 관리와 안전 사고에 유의하기 바란다”고 밝혔다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>폐역에서 사당까지… 이색 공공 예식장 만드는 지자체들</title>
       <link>https://www.chosun.com/national/national_general/2025/06/07/EHHQ3DRAHFAHFHUEJPIQHV3PCU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/07/EHHQ3DRAHFAHFHUEJPIQHV3PCU/</guid>
@@ -880,28 +916,6 @@
       </media:content>
     </item>
     <item>
-      <title>재판부 합의 권유에도… 뉴진스 측 “이미 돌아올 수 없는 강 건넜다”</title>
-      <link>https://www.chosun.com/national/national_general/2025/06/05/GNXGBALL4JGJHK5EMVP7LNQOQQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/05/GNXGBALL4JGJHK5EMVP7LNQOQQ/</guid>
-      <dc:creator>문지연 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 05 Jun 2025 06:28:22 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RJBPVTSJ3IRE6VQZH5OD7RNM5E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;그룹 '뉴진스' 멤버들. 왼쪽부터 하니, 민지, 혜인, 해린, 다니엘. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그룹 ‘뉴진스’ 멤버들과 소속사 어도어가 전속계약 분쟁을 두고 법정 공방을 이어갔다. 재판부가 양측에 합의를 권유하고 나섰지만 뉴진스 측은 “쉽지 않을 것”이라며 선을 그었다.&lt;br&gt;&lt;br&gt;서울중앙지법 민사합의41부(부장판사 정회일)는 5일 어도어가 뉴진스 멤버들을 상대로 낸 전속계약 유효 확인 소송 두 번째 변론을 열었다. 이날 재판부는 차회 기일을 지정하기 전 “지난번 피고(뉴진스) 측이 합의할 생각이 없다고 했지만 재판부 입장에서는 아쉬워서 권유하고 싶다”며 양측에 합의 의사를 물었다.&lt;br&gt;&lt;br&gt;이에 뉴진스 측 대리인은 “이미 신뢰 관계가 파탄돼 돌아올 수 없는 강을 건넜다”며 “의뢰인들과 상의해 봐야겠지만 쉽지 않을 것”이라고 답했다. 어도어 측은 “본안이든 가처분이든 법원이 결론을 내려주면 합의가 그 뒤에 쉽게 될 것으로 생각한다”며 일단 법원 판단에 맡기겠다는 입장을 밝혔다.&lt;br&gt;&lt;br&gt;한편 이날 재판에서 어도어 측은 대표 변경 후에도 뉴진스의 연예 활동에 지장이 없도록 최선을 다하고 민희진 전 대표가 물러난 뒤 역시 매니지먼트를 제공했다는 취지의 증거와 진술서를 제출했다. 다만 뉴진스 측은 “관련 증거가 상당히 부실하다”며 “매니지먼트 의무란 대체할 수 있는 프로듀서 명단을 뽑는 것으로 되는 게 아니다. 그런 건 누구나 한다”며 반박했다.&lt;br&gt;&lt;br&gt;하이브 산하 레이블 쏘스뮤직과 민 전 대표 간 손해배상 청구 소송 기록 요청과 관련해서도 다툼이 이어졌다. 앞서 쏘스뮤직은 민 전 대표가 하이브와의 갈등 과정에서 내놓은 자사 관련 일부 주장들이 사실이 아니라는 취지의 소송을 낸 바 있다. 이 사건은 현재 서울서부지법에서 심리 중이다.&lt;br&gt;&lt;br&gt;뉴진스 측은 “제출된 증거 중 위법수집증거로 주장하는 것들이 있어 서부지법에 증거로 채택되지 않게 해 달라는 의견서를 냈다”며 “채택 여부는 추후 좀 더 심리해 결정한다고 한 상황이다. 문서 송부 촉탁을 신청하더라도 그쪽 증거가 정리되고 하는 게 효율적”이라고 주장했다. 이에 어도어 측은 “컴퓨터는 회사 소유고 제공자가 다 동의한 파일로, 위법수집증거라 할 수 없다”고 맞섰다.&lt;br&gt;&lt;br&gt;뉴진스는 작년 11월 어도어의 전속계약 위반으로 계약이 해지됐다고 주장하며 독자적 활동을 시작했다. 어도어는 계약이 유효하다며 법원에 전속계약 유효 확인 소송을 내고 멤버들의 독자적 활동을 막아달라는 가처분 신청도 냈다. 가처분 사건에서 법원은 지난 3월 “상호 간 신뢰 관계가 돌이킬 수 없을 정도로 파탄됐다는 점이 소명되지 않았다”며 어도어의 손을 들어줬다.&lt;br&gt;&lt;br&gt;뉴진스 멤버들은 이에 불복해 이의신청을 냈으나 받아들여지지 않자 즉시 항고해 고법 판단을 기다리고 있다. 또 법원은 지난달 29일 어도어가 제기한 간접강제 신청도 받아들여 뉴진스가 어도어의 사전 승인 없이 독자 활동을 할 경우 멤버별로 위반행위 1회당 10억 원을 어도어에 지급하라고 결정했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘탈세 혐의’ 강제 송환 허재호 전 대주회장 구속취소 신청 기각</title>
-      <link>https://www.chosun.com/national/national_general/2025/06/05/BQRWQSA4EBEXXG3NHCXEYH2WTI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/05/BQRWQSA4EBEXXG3NHCXEYH2WTI/</guid>
-      <dc:creator>광주광역시=진창일 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 05 Jun 2025 05:51:21 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/D2HJJ5QG4ZHPSYI44TFBNMA5YM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;허재호 대주그룹 전 회장이 지난달 27일 오후 뉴질랜드에서 구인돼 인천공항으로 송환되고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;탈세 혐의로 재판에 넘겨지고도 뉴질랜드에 장기간 체류해 국내로 강제 송환된 허재호(83) 전 대주그룹 회장이 법원에 낸 구속 취소 신청이 기각됐다.&lt;br&gt;&lt;br&gt;광주지법 형사11부(재판장 김송현)는 5일 “특정범죄 가중처벌 등에 관한 법률 위반(조세) 혐의로 기소된 허씨의 구속 취소 신청을 기각했다”고 밝혔다.&lt;br&gt;&lt;br&gt;허씨는 2007년 5~11월 지인 3명의 이름으로 보유한 대한화재해상보험 주식 매각 과정에서 양도소득세 5억여 원과 차명 주식 배당금의 종합소득세 650만원을 내지 않은 혐의로 2019년 7월 기소됐다. 재판은 2015년 8월 뉴질랜드로 출국한 허씨가 심장 질환, 코로나 대유행 등을 이유로 법정에 출석하지 않아 7년째 지연됐다.&lt;br&gt;&lt;br&gt;법원은 강제구인 절차에 착수했고, 허씨는 범죄인 인도 절차에 따라 지난달 27일 국내로 송환됐다. 허씨는 송환 당일 법원에 구속 취소를 신청했고, 이튿날 고령·병환을 이유로 보석도 신청했다.&lt;br&gt;&lt;br&gt;재판부는 “구속영장이 검찰의 기망에 의해 발부된 것이라고 할 수 없고, 피고인이 도망한 사실 및 도망할 염려가 있음이 소명돼 사유가 소멸하였다고 보기 어렵다”며 “허씨의 진술 번복과 관련자들에 대한 회유 시도 전력 등에 비춰 진실 발견을 곤란하게 할 우려가 있음도 소명된다”고 기각 사유를 밝혔다.&lt;br&gt;&lt;br&gt;허씨에 대한 보석 심문은 마무리됐지만 법원은 아직 결론 내리지 않았다. 허씨는 보석 신청 당시 “광주에 머물며 성실히 재판에 출석하고 필요하면 위치추적 전자장치 부착에도 동의하겠다”고 주장했었다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/D2HJJ5QG4ZHPSYI44TFBNMA5YM.jpg?auth=ac6e9678d30732f77e8338efc8a368da03ceaa60500069c2c25a13545f744463&amp;smart=true&amp;width=4435&amp;height=2832" type="image/jpeg" height="2832" width="4435">
-        <media:description type="plain">허재호 대주그룹 전 회장이 지난달 27일 오후 뉴질랜드에서 구인돼 인천공항으로 송환되고 있다. /뉴스1</media:description>
-        <media:credit role="author" scheme="urn:ebu">뉴스1 ⓒ News1 김명섭 기자</media:credit>
-      </media:content>
-    </item>
-    <item>
       <title>‘이선균 수사 정보 유출’ 혐의… 경찰‧검찰수사관 등 3명 기소 </title>
       <link>https://www.chosun.com/national/incident/2025/06/05/ZNU5V7OTVJEGZCGF6BLVTEDGPE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/06/05/ZNU5V7OTVJEGZCGF6BLVTEDGPE/</guid>
@@ -945,24 +959,6 @@
       <description/>
       <pubDate>Thu, 05 Jun 2025 02:38:11 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OHCN56URFNBLZDNTBG2CQTODMM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김두만 장군이 지난 2015년 최초의 국산 전투기인 FA-50에 탑승해 엄지를 들고 있다. / 공군 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;98세의 6·25 전쟁 참전 조종사가 현충일에 잠실야구장에서 시구자로 마운드에 오른다.&lt;br&gt;&lt;br&gt;5일 공군은 현충일인 내일(6일) 서울 잠실야구장에서 열리는 2025 KBO리그 두산베어스 대 롯데자이언츠 경기 시구자로 6·25 참전 조종사인 김두만 장군(예비역 공군 대장)이 나선다고 밝혔다.&lt;br&gt;&lt;br&gt;1927년생인 김 장군은 올해 98세이다. 김 장군은 6·25 전쟁 당시 102회 출격해 대한민국 최초로 100회 출격 기록을 세운 인물이다.&lt;br&gt;&lt;br&gt;김 장군은 공군 작전사령관, 제11대 공군참모총장 등을 역임했으며 을지무공훈장, 은성충무무공훈장 등을 받았고, 6·25 전쟁 ‘10대 영웅’으로도 선정됐다.&lt;br&gt;&lt;br&gt;시타자로는 김 장군의 전우 고(故) 강호륜 장군(예비역 공군 준장)의 손자이자 현직 F-15K 조종사인 강병준(33) 소령이 나선다. &lt;br&gt;&lt;br&gt;강 소령은 할아버지의 길을 좇아 2015년 공군 학군사관 42기로 임관했다. 현재 공군 제11전투비행단 제102전투비행대대에서 3편대장으로 영공 방위 임무를 수행하고 있다.&lt;br&gt;&lt;br&gt;1948년 학사사관 3기로 임관한 강호륜 장군과 1949년 학사사관 5기로 임관한 김두만 장군은 공군 창설기를 함께한 선·후배 조종사로, 전장을 함께 누빈 전우였다.&lt;br&gt;&lt;br&gt;두 사람은 여의도, 제주, 사천, 강릉기지에서 함께 근무했으며, 전시에는 한국 공군 최초 단독출격작전, 지리산 공비토벌작전 등을 함께 수행하기도 했다.&lt;br&gt;&lt;br&gt;시구·시타에 앞서서는 호국영령에 대한 묵념이 진행되고, 공군 군악대가 직접 트럼펫 연주를 한다.&lt;br&gt;&lt;br&gt;F-15K 4대로 구성된 편대가 잠실야구장 상공을 저공으로 지나는 기념 비행도 실시한다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>공수처, 방첩사 ‘軍 블랙리스트’ 의혹 수사</title>
-      <link>https://www.chosun.com/national/court_law/2025/06/05/IBC6CWOTLRCMBHXW5XIQKCT7JY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/05/IBC6CWOTLRCMBHXW5XIQKCT7JY/</guid>
-      <dc:creator>박강현 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 05 Jun 2025 01:51:52 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EPOQT3NT3PNVBW6F5GMNVQSZC4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;정부과천청사 고위공직자범죄수사처 현판. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국군방첩사령부가 전·현직 군 장성들의 정치 성향 등을 담은 ‘블랙리스트’ 문건을 만들고, 군 인사에 개입했다는 의혹을 고위공직자범죄수사처(공수처)가 포착해 수사 중인 것으로 전해졌다. 공수처는 해당 문건이 윤석열 전 대통령에게 보고됐는지, ‘12·3 비상계엄’과 관련이 있는지 등도 들여다볼 전망이다.&lt;br&gt;&lt;br&gt;5일 법조계에 따르면 공수처는 지난달 29일 방첩사 신원보안실과 서버실 등에 대한 압수 수색을 진행했다. 공수처는 방첩사가 장군 진급·보직 인사 보고서, 정보보고, 예비역 장성 인사 검토안 등을 작성한 사실을 확인하고 관련 문건을 확보한 것으로 전해졌다&lt;br&gt;&lt;br&gt;공수처는 여인형 전 국군방첩사령관을 블랙리스트 문건 작성 혐의(직권남용 권리행사 방해)를 받는 피의자로 적시해 강제 수사에 나선 것으로 파악됐다. 여 전 사령관은 2023년 11월 부임 이후 블랙리스트 문건들을 작성한 혐의를 받는 것으로 알려졌다. &lt;br&gt;&lt;br&gt;해당 블랙리스트 문건에는 육·해·공군 현역 장성과 국방부·예하기관 등에 기용이 예상되는 예비역 장성들의 신상 정보, 정치 성향, 더불어민주당과 얼마나 가까운지 등의 내용이 포함됐다고 한다. 방첩사는 적국 등의 한국군 관련 첩보 활동을 막는 역할 등을 한다.&lt;br&gt;&lt;br&gt;앞서 공수처는 12·3 비상계엄과 관련해, 방첩사를 압수 수색하는 과정에서 이같은 문건을 일부 발견한 뒤 이를 단서로 삼아 수사에 나선 것으로 알려졌다. 복수의 방첩사 관계자들로부터 블랙리스트 작성 관련 진술도 확보한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;공수처는 방첩사가 김용현 전 국방부 장관이 장관으로 부임하기 전인 대통령경호처장 시절이었을 때부터 지속적으로 이러한 문건을 보고한 것으로 의심하고 있다. 여 전 사령관은 윤 전 대통령, 김 전 장관과 같은 충암고 출신으로 계엄과 관련한 내란 중요임무종사 혐의로 현재 재판을 받고 있다.&lt;br&gt;&lt;br&gt;공수처는 김 전 장관을 통해 윤 전 대통령도 해당 문건 등에 대한 보고를 받았는지 확인하기 위해 수사력을 집중하고 있는 것으로 알려졌다. 블랙리스트와 계엄 선포의 연관성도 규명한다는 방침이다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>6개월 아기 살린 한국 의료진의 기적…2만명 생중계에 중국 ‘들썩’</title>
-      <link>https://www.chosun.com/national/welfare-medical/2025/06/05/JFU3SDR7NVBNLH7POZYVO4AZIM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/06/05/JFU3SDR7NVBNLH7POZYVO4AZIM/</guid>
-      <dc:creator>이가영 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 04 Jun 2025 23:49:05 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TOPZ7XIQIZEYNI6YAFMQD73HRA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울아산병원 간이식·간담도외과 이승규 석좌교수가 중국 칭화대 부속 창궁병원에서 생체 간이식 수술을 받은 환아의 상태를 살펴보고 있다. /서울아산병원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;담도폐쇄증을 앓고 있는 생후 6개월의 중국 아기가 한국 의료진의 수술로 건강을 되찾았다. 이 모습이 2만명에게 생중계되면서 한국의 높은 의료 수준을 중국 전역에 알렸다는 평가가 나왔다. &lt;br&gt;&lt;br&gt;5일 서울아산병원에 따르면 간이식‧간담도외과 이승규 석좌교수와 문덕복‧정동환‧윤영인 교수 등 간이식팀은 지난달 11일 중국 베이징에 있는 창궁병원에서 생후 6개월 중국 남아 리웨이(가명)에게 아버지의 간 일부를 떼어내 이식하는 생체 간이식 수술을 성공적으로 시행했다. &lt;br&gt;&lt;br&gt;리웨이는 선천성 담도폐쇄증으로 출생 직후 카사이 수술(막힌 담관을 제거하고 장 일부를 떼어내 간과 소장을 연결함으로써 담즙을 소장으로 보내는 치료법)을 받았지만, 시간이 갈수록 황달 증상이 더 심해지는 등 몸 상태는 나빠졌다. 영양 상태도 좋지 않아 복수가 빠르게 차올랐고, 급기야 음낭에서도 복수가 새어나오는 등 절체절명의 상황까지 내몰렸다. &lt;br&gt;&lt;br&gt;생체 간이식 수술 경험이 비교적 적은 칭화대는 서울아산병원에 리웨이의 수술을 맡아달라고 요청했다. 서울아산병원 간이식팀은 지난달 9일 창궁병원으로 향했다. &lt;br&gt;&lt;br&gt;문제는 리웨이의 저체중과 불량한 영양 상태였다. 일반적으로 국내에서는 소아 생체 간이식을 시행할 때 환아의 체중을 8㎏까지 올린 후 진행한다. 리웨이는 복수를 포함해 체중이 6㎏에 불과했다. &lt;br&gt;&lt;br&gt;하지만 의료진은 리웨이의 상태를 보고 더는 수술을 미룰 수 없다고 판단했다. 창궁병원 의료진과 긴밀한 논의를 마친 끝에 베이징 도착 이틀 뒤 수술에 들어갔다. &lt;br&gt;&lt;br&gt;정 교수와 윤 교수는 10㎝ 최소 절개술로 기증자인 리웨이 아버지의 간 일부를 절제했다. 이어서 이 석좌교수와 문 교수가 리웨이에게 아버지의 간을 이식하는 데 성공했다. &lt;br&gt;&lt;br&gt;9시간 가까이 진행된 수술은 창궁병원에서 열린 한‧중 간이식 국제학술회의에서 온라인으로 실시간 생중계됐고, 중국 전역에서 간이식 전문가 2만여 명이 동시에 시청하며 큰 호응을 얻었다. &lt;br&gt;&lt;br&gt;리웨이는 수술 후 3일째부터 입으로 우유를 빨아 먹는 등 빠르게 회복해 지난달 27일 건강하게 퇴원했다. &lt;br&gt;&lt;br&gt;이 석좌교수는 “생명이 위급한 아이에게 생체 간이식으로 새 삶을 선사할 수 있게 돼 기쁘다”며 “앞으로도 우리의 도움이 필요한 곳에 간이식 기술을 전수해 세계의 많은 환자가 건강을 되찾을 수 있도록 노력하겠다”고 말했다. &lt;br&gt;&lt;br&gt;서울아산병원 간이식팀이 올해 4월까지 실시한 누적 생체 간이식 수술은 7502건이다. 이는 단일 의료기관 기준 세계 최다라고 병원은 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[단독] 사직 전공의·의대생 모인 ‘의료정책학교’, 민주당에 첫 정책 제안</title>
