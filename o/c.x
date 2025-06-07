@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>경찰, 대선 직후 김성훈 전 경호처 차장 재소환...비화폰 삭제 정황 조사 </title>
+      <link>https://www.chosun.com/national/national_general/2025/06/07/KFKDZ2XD75AI5PQFYMKYWKEDQQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/07/KFKDZ2XD75AI5PQFYMKYWKEDQQ/</guid>
+      <dc:creator>장윤 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 07 Jun 2025 03:46:36 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7KDKGF3CALZNGOPNDYO3CGAIOE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령 체포 방해 혐의를 받는 김성훈 대통령경호처 차장이 지난 3월21일 서울 마포구 서울서부지방법원에서 열린 영장실질심사를 마치고 취재진의 질문을 받고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;비상계엄 사태를 수사 중인 경찰이 대선 직후 김성훈 전 대통령경호처 차장을 재소환해 조사한 것으로 확인됐다.7일 경찰청 국가수사본부 비상계엄 특별수사단은 “지난 4일 김 전 차장을 1차례 소환 조사한 것이 맞다”고 밝혔다.&lt;br&gt;&lt;br&gt;경찰은 비상계엄 사태 사흘 뒤인 작년 12월 6일 윤석열 전 대통령, 홍장원 전 국가정보원 1차장, 김봉식 전 서울경찰청장의 비화폰 정보가 삭제된 정황을 조사한 것으로 알려졌다. &lt;br&gt;&lt;br&gt;김 전 차장은 자신은 관여한 바가 없고 당시 경호처 책임자는 박종준 전 경호처장이라는 입장을 유지한 것으로 전해졌다. 김 전 차장과 윤 전 대통령의 당일 연락을 주고받은 기록도 없는 것으로 알려졌다. &lt;br&gt;&lt;br&gt;이와 관련해 경찰은 12월 6일 비화폰 삭제를 앞두고 조태용 국정원장이 경호처와 사전 협의를 한 정황을 포착한 것으로 전해졌다. 당시 박 전 처장과 조 원장이 통화한 기록도 있는 것으로 알려졌다. &lt;br&gt;&lt;br&gt;경찰은 조만간 박 전 처장 등을 재소환해 조사할 방침인 것으로 전해졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>지하철 없는 울산시민 유일한 발 ‘시내버스’ 멈췄다</title>
       <link>https://www.chosun.com/national/2025/06/07/74DAPTSUMZAGLESYTRUHT474Q4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/2025/06/07/74DAPTSUMZAGLESYTRUHT474Q4/</guid>
@@ -902,18 +911,6 @@
       <description/>
       <pubDate>Thu, 05 Jun 2025 07:22:24 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3PWYF3BOHVKPHHISZS3GEVXCUI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;충남 태안화력발전소 안에 있는 한전KPS 건물. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;충남 태안화력발전소에서 작업 중 숨진 하도급 업체 근로자 김충현(50)씨가 한전 KPS 측의 요청 작업을 수행 중 사고가 발생했다는 주장이 나와 경찰이 수사하고 있다.&lt;br&gt;&lt;br&gt;5일 본지 취재를 종합하면 김씨는 지난 2일 태안화력발전소 내 종합정비동 1층에서 선반 기계로 지름 7~8cm, 길이 40㎝ 정도 크기의 쇠막대를 절삭 가공하는 작업 중 옷이 기계에 끼이면서 숨졌다. &lt;br&gt;&lt;br&gt;이 부품은 발전 설비 제어 장비의 밸브를 여닫는 손잡이 부품이다. 사고 현장에서는 김씨의 작업물과 유사한 형태의 부러진 부품과 함께 김씨가 그린 것으로 추정되는 작업 도안도 발견됐다.&lt;br&gt;&lt;br&gt;사고 현장에서 관계자 등을 상대로 조사를 벌인 경찰은 “한전KPS 기계팀 소속 직원의 요청을 받고 해당 부품을 만들었다”는 진술에 대한 진위 여부를 확인하는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;김씨는 한국서부발전 태안화력발전소의 설비를 정비하는 한전KPS의 하도급 업체인 한국파워O&amp;amp;M 소속이다.&lt;br&gt;&lt;br&gt;앞서 사고 직후 한전KPS 측은 김씨의 작업이 “당일 작업 계획에 포함돼 있지 않은 업무를 하던 중 사고가 발생한 것으로 보인다”고 했다. 또 김씨의 소속 업체 대표이자 현장 소장인 A씨도 경찰 진술에서 “사고 당시 작업 지시가 없었다”고 했다. &lt;br&gt;&lt;br&gt;경찰은 작업 전 관리감독자와 작업자들이 모여 작업 절차를 의논하고 작성하는 TBM(tool box meeting) 서류와 작업 일지 등 관련 서류를 확보해 사고 전 작업 지시 여부를 중점적으로 들여다보고 있다.&lt;br&gt;&lt;br&gt;사망사고 대책위원회는 5일 서울시 종로구 참여연대에서 기자회견을 열고 철저한 진상 규명과 책임자 처벌, 현장 인력 확충 및 안전 대책 수립, 발전 비정규직 노동자 정규직화 등을 요구했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>결혼 앞둔 뮤지컬 배우, 동료와 속옷 사진 유출…공연 동반 하차</title>
-      <link>https://www.chosun.com/national/national_general/2025/06/05/L7PZFD265VFVNFAO36LLME5TRI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/05/L7PZFD265VFVNFAO36LLME5TRI/</guid>
-      <dc:creator>정아임 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 05 Jun 2025 07:04:17 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PEHGSMMGR5EJ3AARGYL2YRJA5Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;'베어 더 뮤지컬'에서 배우 박준휘, 우진영이 하차한다./쇼플레이&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;사생활 논란에 휩싸인 뮤지컬 배우 박준휘와 우진영이 출연 중인 ‘베어 더 뮤지컬’에서 동반 하차한다.&lt;br&gt;&lt;br&gt;‘베어 더 뮤지컬’의 제작사 쇼플레이는 5일 “피터 역의 박준휘, 타냐 역의 우진영 배우가 개인 사정으로 공연에서 하차하게 됐다”고 공지했다. 이어 “하차 결정 및 캐스팅 스케줄 변경으로 공연 관람에 불편을 드려 진심으로 죄송하다”고 사과했다. &lt;br&gt;&lt;br&gt;박준휘와 우진영은 이날 오후 7시 30분에 예정된 무대에 오를 예정이었다. 하지만 이들이 하차하게 되면서 5일, 6일 공연은 다른 배우로 대체된다. 7일 저녁 공연은 취소됐다.&lt;br&gt;&lt;br&gt;박준휘는 또 다른 출연작인 ‘니진스키’에서도 하차했다. 쇼플레이는 “박준휘 배우가 개인 사정으로 ‘니진스키’에서 하차하게 됐다. 하차 결정 및 캐스팅 스케줄 변경으로 공연 관람에 불편을 드려 진심으로 죄송하다”고 전했다. 8일 낮 공연과 15일 저녁 공연은 캐스팅이 바뀌었으며, 8일 저녁 공연과 10일 공연은 취소됐다.&lt;br&gt;&lt;br&gt;앞서 이날 박준휘의 인스타그램에는 우진영과 함께 있는 사진이 올라왔다. 사진 속에는 속옷 차림의 박준휘와 그 옆에서 고개를 푹 숙이고 있는 우진영의 모습이 담겼다. 또한 두 사람이 다정하게 대화를 나누고 있는 카카오톡 화면도 캡처돼 올라왔다. 아울러 박준휘와 다른 여성의 결혼식 계약 내용도 함께 공개됐다. 박준휘는 다른 여성과 결혼을 앞둔 상태였던 것으로 추정된다.&lt;br&gt;&lt;br&gt;해당 사진들은 이후 여러 온라인 커뮤니티에 널리 퍼졌고, 이들을 둘러싼 사생활 논란이 불거졌다. 논란이 일자 결국 박준휘와 우진영은 출연작에서 하차하게 됐다. 다만 아직까지 당사자들이 직접 입장을 밝히진 않은 상태다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/H3VRSRA4SJCEZCQUG3SIHTTUNA.jpg?auth=c0ed7c6171ab6cf930c815f80e5f3ca270cde06f863633ec4092375bcfe2163a&amp;smart=true&amp;width=368&amp;height=352" type="image/jpeg" height="352" width="368">
-        <media:description type="plain">'베어 더 뮤지컬'에서 배우 박준휘, 우진영이 하차한다./쇼플레이</media:description>
-      </media:content>
     </item>
     <item>
       <title>‘이선균 수사 정보 유출’ 혐의… 경찰‧검찰수사관 등 3명 기소 </title>
