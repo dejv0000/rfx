@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>용인 아파트 덮친 70t 천공기...33시간 만에 철거</title>
+      <link>https://www.chosun.com/national/2025/06/07/OYBQVTM2RFFORFHSGXN7XUR5SY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2025/06/07/OYBQVTM2RFFORFHSGXN7XUR5SY/</guid>
+      <dc:creator>김준호 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 07 Jun 2025 05:19:36 +0000</pubDate>
+      <content:encoded>지난 5일 밤 경기 용인시 전철 공사 현장에서 인근 아파트 건물로 넘어진 71t 무게 천공기(지반을 뚫는 건설장비)가 사고 33시간 만에 철거됐다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RUNEJOY63YBHCDCFPUHDGC7DHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 6일 오전 경기 용인시 기흥구 서천동 인덕원~동탄 복선전철 제10공구 노반신설 기타공사 현장에 '천공기'(지반을 뚫는 건설장비)가 넘어져 있다. /뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;7일 소방당국에 따르면 이날 오전 7시 21분쯤 용인시 기흥구 서천동의 아파트 건물로 쓰러졌던 천공기의 중심 몸통에 해당하는 리더 부분을 지면에 내리는 것으로 철거 작업이 마무리됐다.&lt;br&gt;&lt;br&gt;철거 작업은 국가철도공단과 건설사, 경기도소방재난본부, 용인시 등이 크레인 3대와 고공 작업이 가능한 굴착기 등 각종 장비를 동원해 전날부터 시작했다. 철거 작업은 밤새 이어졌다. 철거 작업 중 별다른 사고는 없었다. 건설사 등은 아파트에 대한 정밀 안전 진단을 진행할 예정이다. &lt;br&gt;&lt;br&gt;사고는 지난 5일 오후 10시 13분쯤 발생했다. 용인시 기흥구 서천동 인덕원∼동탄 복선 전철 공사 현장에서 높이 44m, 무게 71t의 천공기가 인근 아파트로 쓰러졌다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/W2ARWTVXHBO27PGF3HBGUUPGSE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 5일 밤 인덕원∼동탄 복선전철 공사 현장에서 아파트 건물로 넘어진 천공기(지반을 뚫는 건설장비)를 철거하는 작업이 사고 이틀 만에 완료됐다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;천공기는 아파트 8~15층 부위와 충돌했다. 특히 15층은 천공기 꼭대기 부분이 건물 안으로 파고들어 베란다와 콘크리트 외벽, 유리창이 파손됐다. 주민들은 “지진이 난 줄 알았다” “쾅 소리에 아무것도 못 챙기고 밖으로 뛰어나왔다”고 했다. &lt;br&gt;&lt;br&gt;이 사고로 주민 150여 명이 근처 호텔 등으로 대피했다. 2명은 큰 소리에 놀라 병원으로 이송됐다. 사고로 다친 사람은 없는 것으로 전해졌다. 인덕원~동탄 복선 전철 제10공구의 시공사는 DL건설이다. 2023년 착공했다. 2028년 11월 완공하는 게 목표다. 국토부 관계자는 “이 공사장은 지난달 31일부터 작업을 멈춘 상태였다”며 “서 있던 천공기가 갑자기 쓰러진 원인을 조사하고 있다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>경찰, 대선 직후 김성훈 전 경호처 차장 재소환...비화폰 삭제 정황 조사 </title>
       <link>https://www.chosun.com/national/national_general/2025/06/07/KFKDZ2XD75AI5PQFYMKYWKEDQQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/07/KFKDZ2XD75AI5PQFYMKYWKEDQQ/</guid>
@@ -902,15 +911,6 @@
       <description/>
       <pubDate>Thu, 05 Jun 2025 07:04:19 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VWHDEQMH2ZE52HUECOEVHDEE3U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원 로고/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;당내 경선에서 이기기 위해 유사 선거사무소를 운영한 혐의로 재판에 넘겨진 국민의힘 김형동 국회의원 측 사무실 관계자 3명에게 징역형이 선고됐다.&lt;br&gt;&lt;br&gt;대구지법 안동지원 형사2부(재판장 박영수)는 5일 공직선거법 위반 혐의로 기소된 김형동 의원 측 사무국장 A씨와 회계 책임자 B씨, 조직부장 C씨에게 각각 징역 6개월에 집행유예 2년을 선고했다. 이중 B씨와 C씨에겐 당내 경선과 관련해 금품을 제공한 혐의도 적용돼 각각 벌금 150만원과 500만원이 선고됐다.&lt;br&gt;&lt;br&gt;A씨 등은 지난해 4월 열린 제22대 국회의원 선거 당시 유사 선거사무소를 설치해 운영한 혐의로 기소됐다. 공직선거법상 국회의원 선거 후보자는 지역구에 선거사무소 1곳을 둘 수 있으나, 당시 A씨 등은 법적으로 허가되지 않은 유사 선거사무소를 설치해 운영한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;재판부는 “A씨 등이 유사 선거사무소인 전화방 등을 공모해 설치한 점이 인정된다”며 “범행이 조직적이고 계획적이며 불량한 점 등을 감안해 형량을 정했다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>경찰 “태안화력 사망사고, 한전KPS 요청 작업” 진술 확인 나서</title>
-      <link>https://www.chosun.com/national/regional/chungcheong/2025/06/05/JGUQ6VZAW5DMZCQXDPWWP2KPW4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2025/06/05/JGUQ6VZAW5DMZCQXDPWWP2KPW4/</guid>
-      <dc:creator>태안=김석모 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 05 Jun 2025 07:22:24 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3PWYF3BOHVKPHHISZS3GEVXCUI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;충남 태안화력발전소 안에 있는 한전KPS 건물. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;충남 태안화력발전소에서 작업 중 숨진 하도급 업체 근로자 김충현(50)씨가 한전 KPS 측의 요청 작업을 수행 중 사고가 발생했다는 주장이 나와 경찰이 수사하고 있다.&lt;br&gt;&lt;br&gt;5일 본지 취재를 종합하면 김씨는 지난 2일 태안화력발전소 내 종합정비동 1층에서 선반 기계로 지름 7~8cm, 길이 40㎝ 정도 크기의 쇠막대를 절삭 가공하는 작업 중 옷이 기계에 끼이면서 숨졌다. &lt;br&gt;&lt;br&gt;이 부품은 발전 설비 제어 장비의 밸브를 여닫는 손잡이 부품이다. 사고 현장에서는 김씨의 작업물과 유사한 형태의 부러진 부품과 함께 김씨가 그린 것으로 추정되는 작업 도안도 발견됐다.&lt;br&gt;&lt;br&gt;사고 현장에서 관계자 등을 상대로 조사를 벌인 경찰은 “한전KPS 기계팀 소속 직원의 요청을 받고 해당 부품을 만들었다”는 진술에 대한 진위 여부를 확인하는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;김씨는 한국서부발전 태안화력발전소의 설비를 정비하는 한전KPS의 하도급 업체인 한국파워O&amp;amp;M 소속이다.&lt;br&gt;&lt;br&gt;앞서 사고 직후 한전KPS 측은 김씨의 작업이 “당일 작업 계획에 포함돼 있지 않은 업무를 하던 중 사고가 발생한 것으로 보인다”고 했다. 또 김씨의 소속 업체 대표이자 현장 소장인 A씨도 경찰 진술에서 “사고 당시 작업 지시가 없었다”고 했다. &lt;br&gt;&lt;br&gt;경찰은 작업 전 관리감독자와 작업자들이 모여 작업 절차를 의논하고 작성하는 TBM(tool box meeting) 서류와 작업 일지 등 관련 서류를 확보해 사고 전 작업 지시 여부를 중점적으로 들여다보고 있다.&lt;br&gt;&lt;br&gt;사망사고 대책위원회는 5일 서울시 종로구 참여연대에서 기자회견을 열고 철저한 진상 규명과 책임자 처벌, 현장 인력 확충 및 안전 대책 수립, 발전 비정규직 노동자 정규직화 등을 요구했다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>‘이선균 수사 정보 유출’ 혐의… 경찰‧검찰수사관 등 3명 기소 </title>
