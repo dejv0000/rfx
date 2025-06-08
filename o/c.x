@@ -13,6 +13,28 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>바다 한가운데 우두커니... 양식장 지키는 깡마른 백구</title>
+      <link>https://www.chosun.com/national/national_general/2025/06/08/LTL2SH34LRCLBLNPNGAMEDCKXU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/08/LTL2SH34LRCLBLNPNGAMEDCKXU/</guid>
+      <dc:creator>이혜진 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 08 Jun 2025 13:52:03 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6ZUDYDF6GNFWXAMQSORCUIIDUY.png"&gt;&lt;figcaption&gt;&lt;small&gt;제주 바다 위 양식장에 고립된 채 묶여있는 진돗개 한 마리가 발견돼 동물보호단체가 구조에 나섰다. /동물권단체 케어&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제주 바다 위 양식장에서 고립된 채 묶여 있는 진돗개 한 마리가 발견돼 동물보호단체가 구조에 나섰다.&lt;br&gt;&lt;br&gt;8일 동물보호단체 ‘케어’는 제주 유기견·유기묘 보호센터 ‘행복이네’와 함께 제주 양식장에 고립된 개를 구조할 예정이라고 밝혔다. 케어에 따르면, 제주의 한 양식장에서 진돗개가 가두리 형태의 시설물에 묶여 있는 채로 발견됐다. 이 진돗개는 해상 시설물에 작은 개집 하나만 의지한 채 두 달간 묶여있었다고 케어는 밝혔다. 특히 양식장을 지키는 다른 개들의 경우 뭍으로 자유롭게 다닐 수 있지만 이 개의 경우 뭍으로 연결된 길도 없이 고립된 상태라고 한다. &lt;br&gt;&lt;br&gt;제보를 받고 배를 타고 직접 현장을 방문한 행복이네 소장은 “개가 극도로 마른 상태였고 움직임도 거의 없었다”고 전했다. 행복이네 측은 “사람이 어떻게 이럴 수가 있나. 개의 상태를 보고 온 마음이 무너졌다”며 “(곧 태풍철을 앞두고) 이대로 두었다간 파도에 휩쓸려 당장 목숨을 잃을 수도 있다”고 했다. 행복이네 측이 공개한 영상을 보면 바다 위에 설치된 양식장은 끊임없이 파도에 출렁였고 개는 좁은 공간에서 균형을 잡으며 걷거나 카메라 쪽을 바라보며 우두커니 서 있었다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HQBLM367AZBPFEH3UIGIZ2KUFM.gif"&gt;&lt;figcaption&gt;&lt;small&gt;제주 바다 위 양식장에 고립된 채 묶여있는 진돗개 한 마리가 발견돼 동물보호단체가 구조에 나섰다. /제주 유기견·유기묘 보호센터 '행복이네'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이들 단체는 태풍 등 악천후가 닥칠 경우 진돗개가 생명이 위험할 것으로 판단해 9일 구조 작업을 진행할 예정이다. 케어 관계자는 “개는 단순한 감시 도구가 아닌 생명체”라며 “현재 이 양식장에서는 생존을 위한 기본적인 환경조차 제공되지 않은 채 외부 침입 방지 수단으로만 이용되고 있다”고 했다. 또 “주인이 미리 위험 발생을 예측하고 대비한다고 하더라도 저곳은 동물이 사육되는 장소로 인정될 수 없다”며 “이는 단순한 관리 방식의 문제가 아니라 심각한 동물 학대”라고 했다. 케어 측은 이러한 행위가 동물보호법 제10조 2항 4호의 ‘동물에게 고통을 주는 행위’ 및 같은 조 4항 2호의 ‘동물에게 최소한의 사육 공간을 제공하지 않는 행위’에 해당한다고 지적했다.&lt;br&gt;&lt;br&gt;이 사연을 접한 네티즌들은 “제발 구조해주세요. 너무 마음이 아프다” “무슨 권리로 죄 없는 개를 출렁이는 바다 한복판에 가둬두나” “이건 유배나 다름없다” “심지어 묶여 있는데 뭘 지키라고 둔 거냐” “태풍 불면 어쩌려고 저러나” “마실 물과 사료는 제대로 있는 건가. 이제껏 봐온 개 학대 현장 중 최악이다” “저런 곳에 방치해둔 사람은 반드시 처벌받아야 한다” 등의 반응을 보였다. &lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/L7ICXJ2DCRHVBDN7IXYQXZNLOU.png?auth=ed0838f27a845a4188f6d0bb24216d64116786c57ec964f6e0eaa025c1d9caa5&amp;smart=true&amp;width=414&amp;height=233" type="image/png" height="233" width="414">
+        <media:description type="plain">제주 바다 위 양식장에 고립된 채 묶여있는 진돗개 한 마리가 발견돼 동물보호단체가 구조에 나섰다. /동물권단체 케어</media:description>
+        <media:credit role="author" scheme="urn:ebu"/>
+      </media:content>
+    </item>
+    <item>
+      <title>경찰, 치매·심장병 등 고위험 운전자 ‘조건부 면허제’ 검토</title>
+      <link>https://www.chosun.com/national/national_general/2025/06/08/GU2K7QD635GIXJ5PJSXZ7EC3LM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/08/GU2K7QD635GIXJ5PJSXZ7EC3LM/</guid>
+      <dc:creator>구아모 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 08 Jun 2025 11:41:49 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OHEXD35LYBERNJDLFFNSB4GOVU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;75세 이상 운전자들이 ‘고령 운전자 교통안전교육’을 받고 있는 모습. /신현종 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰이 치매, 심장 질환, 수면 장애 등으로 운전 능력이 저하된 ‘고위험 운전자’를 대상으로 일정 조건하에 운전을 제한적으로 허용하는 ‘조건부 운전면허’ 제도 도입 가능성을 검토 중이다. &lt;br&gt;&lt;br&gt;경찰은 “현행 제도는 운전면허의 유지 또는 취소라는 이분법적 구조에 그치고 있다”며 “해외 사례 등을 참고해 다양한 개선 방안을 연구하고 있다”고 8일 밝혔다.&lt;br&gt;&lt;br&gt;경찰청은 앞서 서울대학교 환경계획연구소에 ‘조건부 운전면허제도 개선을 위한 운전능력 평가 시스템’ R&amp;amp;D 과제를 의뢰해, 작년 한 해 동안 기초 연구를 수행했다. 해당 연구는 외국의 조건부 면허 사례를 바탕으로, 치매 등 질환을 가진 운전자의 경우 ‘야간 운전 금지’나 ‘보조 장치 장착 차량에 한한 운전 허용’ 등 일정 조건을 전제로 운전을 일부 허용하는 방안을 제시했다.&lt;br&gt;&lt;br&gt;연구에서는 구체적으로는 가족이나 의료진, 경찰 등이 운전자의 상태를 판단해 직접 수시 적성검사를 신청할 수 있는 ‘제3자 신고 제도’ 도입, 치매뿐 아니라 심혈관 질환·수면 장애 등 다양한 질환군을 포괄하는 고위험 운전자 관리 대상 확대, 일정 조건을 충족할 경우 제한적으로 운전을 허용하는 ‘치료 조건부 운전면허’ 제도 신설 등이 개선안으로 담겼다.&lt;br&gt;&lt;br&gt;경찰청 관계자는 “야간 운전 제한이나 차량 보조 장치 장착 등 다양한 조건을 부여하는 제도는 일부 국가에서 이미 시행 중”이라며 “향후에는 운전 시뮬레이터(VR) 기반 능력 평가 도구 도입을 통해 국내 실정에 맞는 기준을 마련하고, 이를 정책에 반영할 수 있을지 검토할 방침”이라고 설명했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>창·낫에 화염방사기까지… 강력 범죄 저지르는 ‘앵그리 노인’</title>
       <link>https://www.chosun.com/national/national_general/2025/06/05/7XADVWTOUJF2XJRSOMNNI556KI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/05/7XADVWTOUJF2XJRSOMNNI556KI/</guid>
@@ -920,24 +942,6 @@
       <description/>
       <pubDate>Thu, 05 Jun 2025 13:46:12 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CIAZWHNIQBHMLASMXH66EZDRPU.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초동 서울중앙지방법원 청사의 모습./이명원 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;티몬·위메프 정산 지연 사태로 사용이 중지된 해피머니 상품권 운영사의 전·현직 대표에 대한 구속영장이 5일 기각됐다.&lt;br&gt;&lt;br&gt;이정재 서울중앙지법 영장전담 부장판사는 이날 사기 등 혐의를 받는 해피머니아이엔씨 최병호 전 대표와 류승선 대표에 대한 구속영장 실질심사를 연 뒤 “피의자를 구속하여야 할 필요성 및 상당성을 인정하기 어렵다”며 구속영장을 기각했다.&lt;br&gt;&lt;br&gt;이 부장판사는 “범죄사실에 대한 피의자의 범행 인식 등 그 범죄 성립 및 혐의에 대해 다툼의 여지가 있다”며 “피의자에게 방어권을 보장해 줘야 할 필요성이 있는 점, 사무실 및 주거지 등에 대한 압수수색을 통해 물적 증거자료는 상당부분 수집되었고, 관련자들의 진술도 상당부분 이뤄진 점을 종합해 판단했다”고 밝혔다.&lt;br&gt;&lt;br&gt;작년 해피머니 상품권 구매자들은 티몬과 위메프에서 할인가로 상품권을 구매했으나 정산이 지연돼 환불받지 못하고 사용도 정지됐다며 류 대표 등을 사기 혐의로 경찰에 고소했다. 이에 경찰은 작년 11월 서울 논현동에 있는 해피머니아이앤씨 본사 사무실 등 8곳에 대해 압수수색을 벌이는 등 수사를 진행했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>전북 군산 공장서 일하던 50대 노동자 추락사</title>
-      <link>https://www.chosun.com/national/incident/2025/06/05/VDPJM4S4ZBCE5KJZZGN6ESG7G4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/06/05/VDPJM4S4ZBCE5KJZZGN6ESG7G4/</guid>
-      <dc:creator>이승규 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 05 Jun 2025 12:56:31 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MNAVQ33BFPKBNA5VM3H52Z4ATI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전북 군산의 한 공장에서 50대 노동자가 추락해 숨졌다.&lt;br&gt;&lt;br&gt;5일 군산경찰서 등에 따르면 이날 오전 11시쯤 군산시 오식도동의 한 에너지 설비 공장에서 사다리를 타고 일하던 하청업체 소속 노동자인 50대 A씨가 약 5m 아래로 추락했다.&lt;br&gt;&lt;br&gt;A씨는 머리 등을 다친 채 병원으로 이송됐지만 숨졌다. A씨는 공장 설비의 녹을 제거하기 위해 사다리를 오른 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰은 정확한 사고 경위와 현장 안전 관리 규정 등을 수사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>합성대마 9차례 걸쳐 사려 한 이철규 아들... 2차례 구매 성공</title>
-      <link>https://www.chosun.com/national/court_law/2025/06/05/M4AOUTL4D5GW5JQCVDBOAQRWNY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/05/M4AOUTL4D5GW5JQCVDBOAQRWNY/</guid>
-      <dc:creator>이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 05 Jun 2025 11:32:22 +0000</pubDate>
-      <content:encoded>합성 대마 투약 혐의 등으로 구속 기소된 국민의힘 이철규 의원 아들이 최소 9차례 대마 매매를 시도한 것으로 파악됐다. 실제 거래가 이뤄진 것은 두 번으로 조사됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EC4OI7X6BFIBZOW5NRCKPRTJ2Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이철규 국민의힘 의원 아들 이모씨가 지난 4월 23일 서울 서초구 서울중앙지방법원에서 영장실질심사를 마치고 청사 밖으로 나서고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;조국혁신당 박은정 의원이 5일 법무부에서 제출받은 공소장에 따르면, 이 의원의 아들 이모씨가 합성 대마를 사들이려 시도한 것은 지난해 10월 27일로 거슬러 올라간다. 텔레그램을 이용해 판매상을 찾은 이씨는 지인을 통해 65만원을 입금하고, 액상 형태의 합성 대마를 숨긴 곳의 사진과 해당 장소의 정보가 담긴 ‘좌표’를 전달받았다. 이씨 일당은 송금 후 1시간여 만에 서울 강서구의 한 아파트 화단으로 향했지만, 합성 대마를 찾는 데엔 실패했다.&lt;br&gt;&lt;br&gt;다음 날에도 같은 방법으로 대마를 사들이려다 실패한 이씨 일당은 10월 29일 자정 즈음엔 공짜로 합성대마를 받기로 하고, 좌표를 받아 경기 수원시 권선구의 아파트 단지로 향했다. 그러나 이번에도 이들은 합성대마를 찾지 못하고 허탕을 쳤다. 곧바로 추가금을 판매상에게 입금한 이들은 새벽 3시 20분쯤 서울 서초구의 한 오피스텔 근처로 이동했지만, 이곳에서도 이들은 합성대마를 찾지 못했다. 이씨 부부를 제외한 두 공범은 판매상으로부터 좌표를 다시 전달받아 그날 밤 합성대마를 찾아다녔지만, 결국 이를 찾지 못했다.&lt;br&gt;&lt;br&gt;이들이 합성 대마 구입에 성공한 것은 올 2월 1일이었다. 지난 1월 27일 대금을 입금한 뒤 좌표를 전달받아 서울 강북구의 한 아파트 단지 내 공중전화 박스에서 합성 대마 10ml를 찾아낸 것이다. 이들은 사흘 뒤에도 합성 대마를 사들이려 했지만, 판매상이 돈을 받고도 좌표를 보내주지 않아 거래는 실패로 돌아갔다. 그로부터 이틀 뒤엔 서울 강북구의 아파트 단지 내에서 합성 대마 10ml를 추가로 구매하는 데 성공했다.&lt;br&gt;&lt;br&gt;지인을 통해 판매상과 연락을 취했던 이씨는 2월 13일엔 본인이 직접 연락을 주고받기 시작했다. 그러나 이씨가 직접 시도한 두 번의 거래는 합성 대마를 찾지 못해 모두 수포로 돌아갔다. 이씨와 아내 임모씨는 이렇게 사들인 합성 대마를 전자담배 기기를 이용해 번갈아 흡입한 것으로 조사됐다. 이씨는 이 밖에도 혼자 두 번에 걸쳐 합성 대마를 흡입했다는 것이 검경 수사 결과다.&lt;br&gt;&lt;br&gt;서울중앙지검 강력범죄수사부(부장 김보성)는 지난달 16일 이씨와 공범 정모씨는 구속 기소했고, 또 다른 공범 권씨와 임씨는 불구속 상태로 재판에 넘겼다. 이들의 재판은 오는 18일 서울중앙지법 형사36부(재판장 이정엽)에서 열린다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>윰댕, 자궁적출 수술 고백 “8㎝까지 커진 근종…일상생활 어려웠다"</title>
