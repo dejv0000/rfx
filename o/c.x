@@ -13,6 +13,51 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>부산서 택시 운전기사 폭행한 20대 남성 입건</title>
+      <link>https://www.chosun.com/national/regional/2025/06/09/C5OJFNHTWJHLJODNML5CHLMCOY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/06/09/C5OJFNHTWJHLJODNML5CHLMCOY/</guid>
+      <dc:creator>부산=김주영 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 09 Jun 2025 13:15:40 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/D5XB7L5GWJB37CYI3VQZH2CODU.jpeg"&gt;&lt;figcaption&gt;&lt;small&gt;부산 강서구 강서경찰서. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;택시 운전기사를 폭행해 다치게 한 혐의를 받는 20대 남성이 경찰에 입건됐다.&lt;br&gt;&lt;br&gt;부산 강서경찰서는 전날 오전 5시 40분쯤 강서구 대저동 한 도로에서 40대 택시 기사 B씨를 폭행한 20대 남성 A씨를 특정 범죄 가중 처벌 등에 관한 법률 위반(운전자 폭행 등) 혐의로 입건했다고 9일 밝혔다.&lt;br&gt;&lt;br&gt;그는 B씨에게 “지난 대선 때 누구에게 투표했냐”며 물은 뒤 B씨가 “정치에 대해 모른다”고 답하자마자 폭행을 이어간 것으로 알려졌다.&lt;br&gt;&lt;br&gt;A씨는 B씨를 넘어뜨려 무릎으로 머리를 가격하고 휴대전화기로 머리를 내려쳐 상처를 입힌 것으로 조사됐다. &lt;br&gt;&lt;br&gt;당시 만취했던 A씨는 택시 안에서 B씨에게 욕설을 퍼붓고 앞 좌석을 흔드는 등 운전을 방해한 혐의도 받고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“일자리·권리·성장 함께 간다”…고용차관, ILO서 정책 청사진 제시</title>
+      <link>https://www.chosun.com/national/labor/2025/06/09/6OFOTF62HVD4VNB77P6DG2SIVU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/labor/2025/06/09/6OFOTF62HVD4VNB77P6DG2SIVU/</guid>
+      <dc:creator>정해민 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 09 Jun 2025 13:20:26 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JGJK6BH7ANISHHJ3STBHLUVXEE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김민석 고용노동부 차관이 지난달 2일 서울 중구 은행연합회에서 열린 신용보증기금 및 10개 은행 퇴직연금사업자와 함께 ‘퇴직연금 활성화를 위한 융자지원 업무협약식에서 발언하고 있다. /고용노동부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김민석 고용노동부 차관이 “‘일자리·권리·성장’이 트릴레마가 아닌 역동적 삼각 구도로 발전할 수 있도록 노력해 나갈 것”이라고 밝혔다. 트릴레마는 세 가지 목표 중 두 가지를 달성하면 나머지 하나는 포기해야 하는 상황을 뜻한다. 일자리·권리·성장을 상호 보완하며 함께 발전해나가겠다는 것이다.&lt;br&gt;&lt;br&gt;김 차관은 9일(현지 시각) 스위스 제네바에서 열린 제113차 국제노동기구(ILO) 총회에서 정부 수석대표로 참석해 이같이 밝혔다. 총회는 지난 2일 시작해 13일까지 열린다.&lt;br&gt;&lt;br&gt;김 차관은 청년·여성·중장년층 일자리 지원을 위한 한국 정책에 대해 소개했다. 그는 “취업이 어려운 청년 구직자를 선제적으로 발굴하고 심리 상담, 진로 탐색 등 1:1 취업 지원 서비스를 제공하고 있다”며 “빠르게 변화하는 노동 환경에 청년층이 원활히 적응할 수 있도록 일 경험 기회를 확대하고, AI 등 첨단 산업 관련 직무 역량 개발을 적극 지원하고 있다”고 밝혔다.&lt;br&gt;&lt;br&gt;그러면서 “여성들이 경력을 이어가며 안정적으로 일할 수 있도록 근로시간 단축, 휴가 확대, 휴직급여 인상 등 제도를 개선하고 있다”며 “풍부한 경험이 있는 중장년층이 변화에 뒤처지지 않고 원하는 만큼 일할 수 있도록 생애 경력 설계, 직업 능력 개발, 재취업 지원 등을 확대해 나가고 있다”고 했다.&lt;br&gt;&lt;br&gt;노동권과 관련해 김 차관은 “한국 정부는 모든 일하는 사람들이 기본적인 권리를 보장받고, 안전한 환경에서 일할 수 있도록 빈틈없는 보호 체계를 구축해 나가고 있다”고 밝혔다.&lt;br&gt;&lt;br&gt;그는 “플랫폼 노동자를 비롯해 노동 시장에서 취약한 지위에 있는 다양한 고용 형태의 사람들이 정당한 권리를 보호받을 수 있도록 교육·상담 프로그램 및 분쟁 조정 서비스를 제공하고 있다”며 “사각지대 없는 고용 안전망을 구축하기 위해 고용보험과 산재보험의 적용 대상을 지속적으로 확대하고 있다”고 말했다.&lt;br&gt;&lt;br&gt;외국인 근로자의 노동권에 대해서는 “이주 노동자가 차별 없이 노동권을 보호받을 수 있도록 외국인 지원 센터 운영, 다국어 상담 등 다양한 지원을 지속적으로 확대해 나가고 있다”고 했다.&lt;br&gt;&lt;br&gt;김 차관은 “한국은 지난날의 경제 성장 과정에서 민주주의를 강화하면서 사회적 대화를 통해 위기와 난제를 극복해 온 경험을 가지고 있다”며 “근로자의 근로 조건 개선 및 권리 향상 그리고 기업의 경쟁력 강화를 위해 지속적으로 노력해 나가겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>지구대 앞이 성매매 오피스텔이었다...경찰, 50대 업주 입건</title>
+      <link>https://www.chosun.com/national/incident/2025/06/09/JDBCEYWWG5E7DHFE4M3QYQL33E/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/06/09/JDBCEYWWG5E7DHFE4M3QYQL33E/</guid>
+      <dc:creator>대구=이승규 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 09 Jun 2025 12:16:44 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/X7FI3TLNTIJ7MC6NRPAKZBWT2Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰 지구대 앞 오피스텔을 이용해 성매매 영업을 한 50대 업주가 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;대구 중부경찰서는 성매매 알선 등 행위의 처벌에 관한 법률 위반 혐의로 50대 남성 A씨를 불구속 입건했다고 9일 밝혔다. A씨 외에 여성 종업원과 성매수 남성 등 40여 명도 같은 혐의로 입건됐다. &lt;br&gt;&lt;br&gt;A씨는 지난해 2월부터 12월 사이 대구 수성구 범어네거리의 오피스텔에서 여성 종업원을 고용해 남성들에게 성매매를 알선한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;A씨는 오피스텔 3채를 월세로 빌린 뒤 인터넷 유흥 사이트에 성매매 광고를 올렸다. 이후 광고를 보고 찾아온 남성들의 신분증, 명함, 월급 명세서 등을 받아 신원을 확인한 뒤 성매매를 알선한 것으로 조사됐다. 범행 기간 A씨가 벌어들인 범죄 수익금은 3억원에 달하는 것으로 추산됐다.&lt;br&gt;&lt;br&gt;경찰은 작년 12월 ‘범어지구대 앞 오피스텔에서 성매매가 이뤄진다’는 취지의 정보를 입수한 뒤 수사를 벌여 A씨를 적발했다.&lt;br&gt;&lt;br&gt;한편 대구 중부경찰서와 서부경찰서는 A씨의 업소를 포함해 대구 지역 내 성매매 업소 6곳을 합동 단속해 업주와 성매수 남성 등 200여 명을 조사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>지역구 행사서 축사 못했다고 공무원 폭행한 구미시의원 ‘제명’ 의결</title>
+      <link>https://www.chosun.com/national/regional/2025/06/09/YKO6DRSLZZBMFFE25CM4WCTF6I/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/06/09/YKO6DRSLZZBMFFE25CM4WCTF6I/</guid>
+      <dc:creator>김주영 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 09 Jun 2025 10:34:13 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FSQHRJLOE5VABE5EO64MBCPRUE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;구미시의회. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경북 구미시의회가 9일 시의회 공무원을 폭행한 국민의힘 소속 안주찬 의원의 ‘제명’을 의결했다.&lt;br&gt;&lt;br&gt;구미시의회 윤리특별위원회는 이날 오후 열린 비공개회의에서 민간위원으로 구성된 윤리심사자문위원회의 의견을 참고해 안 의원을 제명하기로 의결했다고 밝혔다.&lt;br&gt;&lt;br&gt;윤리특위의 제명 의결은 오는 23일 열리는 본회의를 통과하면 확정된다. 안 시의원은 물의를 빚은 뒤 탈당했다.&lt;br&gt;&lt;br&gt;안 의원은 지난달 23일 구미 인동시장에서 열린 ‘달달한 낭만 야시장’ 개장식에서 의전 배려가 부족하다는 등의 이유로 시의회 공무원 A씨에게 욕을 하고 뺨을 때려 물의를 빚었다.&lt;br&gt;&lt;br&gt;그는 자신의 지역구에서 열리는 행사에서 축사할 기회가 주어지지 않자, 이에 불만을 제기하며 주최 측에 항의하는 과정에서 A씨를 폭행한 것으로 파악됐다. 이 모습을 현장에 있던 다수 시민이 목격하면서 사안이 알려졌다.&lt;br&gt;&lt;br&gt;논란이 커지자 그는 SNS에 “저의 경솔한 언행으로 인해 상처를 입으신 동료 시의원 여러분, 시 공무원들, 시의회 직원 여러분께 사과 말씀을 올린다”는 글을 올렸다.&lt;br&gt;&lt;br&gt;이 글에서 그는 “의전을 문제 삼아 자신도 통제하지 못한 채 격한 감정에 휘말렸다”며 “욕설과 신체적 접촉 등 시민 여러분을 대표하는 위치에 있었던 사람이 보여서는 안 될 모습이었다”고 했다. 그러면서 “직접 상처를 드린 피해 당사자들에게 깊이 사죄드리며, 어떤 질책도 달게 받겠다”고 썼다.&lt;br&gt;&lt;br&gt;하지만 논란은 가라앉지 않았다.&lt;br&gt;&lt;br&gt;지난달 26일 구미시 공무원노조가 안 의원을 경찰에 고발했으며 경북 공무원노동조합연맹은 이날 안 의원의 ‘제명’과 ‘향후 공천 영구 배제’를 촉구했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘정치색 논란’ 카리나 “그동안 걱정시켜 미안해” 심경 고백</title>
+      <link>https://www.chosun.com/national/people/2025/06/09/5O42D7YDLZELVOS54XVVSI4H7Y/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/06/09/5O42D7YDLZELVOS54XVVSI4H7Y/</guid>
+      <dc:creator>정아임 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 09 Jun 2025 10:20:27 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7DNYGEBBA5GZFIJWING34HVPPE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최근 정치색 논란에 휩싸였던 그룹 에스파(Aespa)의 카리나가 팬들에게 심경을 전했다. &lt;br&gt;&lt;br&gt;9일 카리나는 팬 소통 플랫폼 버블을 통해 “오래 기다렸다. 기다려준 만큼 정말 열심히 연습하고 준비했다”면서 “그동안 걱정시켜서 너무 미안하고 또 고맙다. 다들 잘 지내고 있나요?”라고 했다. 이어 “나도 엄청 보고 싶었다”라고 덧붙였다.&lt;br&gt;&lt;br&gt;앞서 카리나는 지난달 28일 숫자 ‘2’와 붉은색 무늬가 그려진 옷을 입고 사진을 올려 정치색 논란에 휩싸였다. 해당 사진을 두고 온라인에서는 제21대 대통령 선거를 앞두고 특정 정당 후보를 지지하는 메시지를 낸 것이 아니냐는 추측이 나왔다. 이후 카리나는 약 2시간 만에 해당 게시물을 삭제했다. &lt;br&gt;&lt;br&gt;논란이 일자 카리나는 다음 날 “전혀 그런 의도가 아니었다. 이렇게까지 계속 오해가 커지고 마이(팬덤명)가 많이 걱정해서 직접 얘기해줘야 할 것 같다고 생각했다”며 “앞으로는 저도 좀 더 관심을 갖고 주의 깊게 행동하겠다. 다시 한번 걱정 끼쳐서 미안하다”고 사과했다.&lt;br&gt;&lt;br&gt;소속사 SM엔터테인먼트 측도 공식 입장을 통해 “당사 아티스트 카리나의 게시물로 심려를 끼쳐드린 점 사과드린다”며 “카리나는 일상적인 내용을 SNS에 게시한 것일 뿐 다른 목적이나 의도는 전혀 없었으며, 오해의 소지가 있다는 점을 인지한 후 곧바로 게시물을 삭제했다”고 밝혔다.&lt;br&gt;&lt;br&gt;한편, 카리나가 속한 에스파는 오는 27일 오후 1시 싱글 ‘Dirty Work’(더티 워크)를 발매한다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>“고라니 피하려다” 승용차 불에 타… 5~7월 로드킬 집중, 야간운전 조심해야</title>
       <link>https://www.chosun.com/national/regional/chungcheong/2025/06/09/2DJJVSL3WBES3LWXUT3W7MPSLQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2025/06/09/2DJJVSL3WBES3LWXUT3W7MPSLQ/</guid>
@@ -655,55 +700,6 @@
       <description/>
       <pubDate>Thu, 05 Jun 2025 15:50:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZR4ZCCXHH5BKZCGMOIW7LLQGSM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>용인 전철 공사현장서 중장비가 인근 아파트 덮쳐 주민 대피</title>
-      <link>https://www.chosun.com/national/incident/2025/06/05/BTGX2W54XNE5NJ5KAUH33VOG3M/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/06/05/BTGX2W54XNE5NJ5KAUH33VOG3M/</guid>
-      <dc:creator>이승규 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 05 Jun 2025 14:40:56 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6NUFXNT5QVAJPIBSMDGWFRV62Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;5일 오후 10시 13분쯤 경기 용인시 기흥구의 복선 전철 공사 현장에 설치된 중장비가 인근 아파트 쪽으로 넘어졌다./경기도소방재난본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 용인시의 전철 공사 현장에서 중장비가 인근 아파트 쪽으로 넘어져 소방당국이 수습 중이다.&lt;br&gt;&lt;br&gt;6일 경기도소방재난본부 등에 따르면 이날 오후 10시 13분쯤 용인시 기흥구 서천동의 인덕원~동탄 복선 전철 공사 현장에 배치된 항타기(공사 현장에서 지반에 큰 구멍을 뚫는 장비)가 현장 인근 15층 높이 아파트 쪽으로 넘어졌다. 이 아파트는 연면적 6681㎡ 규모로 총 60세대다.&lt;br&gt;&lt;br&gt;이 사고로 인한 인명 피해는 없었다. 그러나 안전을 위해 소방당국이 장비 15대와 인력 38명을 투입해 아파트 주민 70여 명을 대피시키고 사고 현장 주변에 통제선을 설치한 뒤 넘어진 항타기를 수습하고 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>尹, ‘계엄 피해 위자료’ 청구한 시민들 상대로 ‘소송비 담보 제공’ 신청</title>
-      <link>https://www.chosun.com/national/court_law/2025/06/05/CIF2OE6JXVFAFD76PRQTW2VZGE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/05/CIF2OE6JXVFAFD76PRQTW2VZGE/</guid>
-      <dc:creator>박혜연 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 05 Jun 2025 13:27:44 +0000</pubDate>
-      <content:encoded>시민 105명이 “비상계엄으로 정신적 손해를 입었다”며 윤석열 전 대통령을 상대로 손해배상 소송을 제기한 가운데, 윤 전 대통령이 “소송 비용을 미리 보전해달라”고 법원에 신청했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YKD5THDRJA62BC5WRRT7S5MJPI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령과 김건희 여사가 제 21대 대통령 선거일인 지난 3일 오전 서울 서초구 원명초등학교에 마련된 서초4동 제3투표소에서 투표를 마치고 이동하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;5일 법조계에 따르면, 윤 전 대통령은 이날 법무법인 도시 이금규 변호사를 상대로 소송 비용 담보 제공을 신청했다. 이 변호사는 지난해 12월 시민 105명을 대리해 “비상계엄 선포로 인한 정신적 피해를 배상하라”며 윤 전 대통령을 상대로 인당 10만원씩 총 1050만원을 지급하라는 손해배상 소송을 제기했다. 이 변호사는 윤 전 대통령 탄핵 심판에서 국회 측 대리인을 맡기도 했다. &lt;br&gt;&lt;br&gt;소송 비용 담보 제공 신청은 피고가 요청하면 법원이 원고(시민)에게 “소송비용을 보전하라”고 명령할 수 있는 제도다. 원고 패소 시 발생할 피고(윤 전 대통령) 측 소송 비용을 원고에게 미리 담보로 제공해야 하는 것이다. 통상 원고의 주장이 터무니없거나 소송이 무리하게 제기됐다고 판단할 때 피고 측이 신청한다. &lt;br&gt;&lt;br&gt;만약 법원이 담보 제공을 명령했는데도 원고가 정해진 기간 안에 응하지 않으면 재판부는 변론 없이 각하 판결을 내릴 수 있다. 소송 비용 담보 제공 여부는 통상 첫 변론 전에 결정된다. 이 사건 첫 변론은 오는 27일 예정돼 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>합성대마 9차례 걸쳐 사려 한 이철규 아들... 2차례 구매 성공</title>
-      <link>https://www.chosun.com/national/court_law/2025/06/05/M4AOUTL4D5GW5JQCVDBOAQRWNY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/05/M4AOUTL4D5GW5JQCVDBOAQRWNY/</guid>
-      <dc:creator>이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 05 Jun 2025 11:32:22 +0000</pubDate>
-      <content:encoded>합성 대마 투약 혐의 등으로 구속 기소된 국민의힘 이철규 의원 아들이 최소 9차례 대마 매매를 시도한 것으로 파악됐다. 실제 거래가 이뤄진 것은 두 번으로 조사됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EC4OI7X6BFIBZOW5NRCKPRTJ2Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이철규 국민의힘 의원 아들 이모씨가 지난 4월 23일 서울 서초구 서울중앙지방법원에서 영장실질심사를 마치고 청사 밖으로 나서고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;조국혁신당 박은정 의원이 5일 법무부에서 제출받은 공소장에 따르면, 이 의원의 아들 이모씨가 합성 대마를 사들이려 시도한 것은 지난해 10월 27일로 거슬러 올라간다. 텔레그램을 이용해 판매상을 찾은 이씨는 지인을 통해 65만원을 입금하고, 액상 형태의 합성 대마를 숨긴 곳의 사진과 해당 장소의 정보가 담긴 ‘좌표’를 전달받았다. 이씨 일당은 송금 후 1시간여 만에 서울 강서구의 한 아파트 화단으로 향했지만, 합성 대마를 찾는 데엔 실패했다.&lt;br&gt;&lt;br&gt;다음 날에도 같은 방법으로 대마를 사들이려다 실패한 이씨 일당은 10월 29일 자정 즈음엔 공짜로 합성대마를 받기로 하고, 좌표를 받아 경기 수원시 권선구의 아파트 단지로 향했다. 그러나 이번에도 이들은 합성대마를 찾지 못하고 허탕을 쳤다. 곧바로 추가금을 판매상에게 입금한 이들은 새벽 3시 20분쯤 서울 서초구의 한 오피스텔 근처로 이동했지만, 이곳에서도 이들은 합성대마를 찾지 못했다. 이씨 부부를 제외한 두 공범은 판매상으로부터 좌표를 다시 전달받아 그날 밤 합성대마를 찾아다녔지만, 결국 이를 찾지 못했다.&lt;br&gt;&lt;br&gt;이들이 합성 대마 구입에 성공한 것은 올 2월 1일이었다. 지난 1월 27일 대금을 입금한 뒤 좌표를 전달받아 서울 강북구의 한 아파트 단지 내 공중전화 박스에서 합성 대마 10ml를 찾아낸 것이다. 이들은 사흘 뒤에도 합성 대마를 사들이려 했지만, 판매상이 돈을 받고도 좌표를 보내주지 않아 거래는 실패로 돌아갔다. 그로부터 이틀 뒤엔 서울 강북구의 아파트 단지 내에서 합성 대마 10ml를 추가로 구매하는 데 성공했다.&lt;br&gt;&lt;br&gt;지인을 통해 판매상과 연락을 취했던 이씨는 2월 13일엔 본인이 직접 연락을 주고받기 시작했다. 그러나 이씨가 직접 시도한 두 번의 거래는 합성 대마를 찾지 못해 모두 수포로 돌아갔다. 이씨와 아내 임모씨는 이렇게 사들인 합성 대마를 전자담배 기기를 이용해 번갈아 흡입한 것으로 조사됐다. 이씨는 이 밖에도 혼자 두 번에 걸쳐 합성 대마를 흡입했다는 것이 검경 수사 결과다.&lt;br&gt;&lt;br&gt;서울중앙지검 강력범죄수사부(부장 김보성)는 지난달 16일 이씨와 공범 정모씨는 구속 기소했고, 또 다른 공범 권씨와 임씨는 불구속 상태로 재판에 넘겼다. 이들의 재판은 오는 18일 서울중앙지법 형사36부(재판장 이정엽)에서 열린다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>光州 시내버스 파업, 오는 8일까지 일시중단</title>
-      <link>https://www.chosun.com/national/national_general/2025/06/05/4SGVVJVKXJAJDHOQNTKM6OUIVA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/05/4SGVVJVKXJAJDHOQNTKM6OUIVA/</guid>
-      <dc:creator>광주광역시=진창일 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 05 Jun 2025 09:06:49 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/A2TUSJEN4ZL7RKYTNWHXRR3YJ4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;광주광역시 시내버스 노조가 전면 파업에 들어간 5일 오전 광주 서구 치평동 한 버스정류장에 운행 지연을 알리는 안내문이 부착돼 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;임금 인상과 정년 연장을 요구하며 파업에 돌입했던 광주광역시 시내버스 노조(전국자동차노조연맹 광주지역버스노조)가 하루 만에 파업을 일시 중단한다. 파업 첫날 광주 시내버스 1000여 대 중 230여 대가 운행을 멈춰 노선마다 배차 간격이 10분 이상씩 늘어나 출근길에 나선 시민들이 불편을 겪었다.&lt;br&gt;&lt;br&gt;이날 아침 버스정류장에서 만난 시민들은 “평소 20분마다 오는 버스가 40분이 지나도 안 온다” “회사에 지각하게 생겼다”며 택시 승강장으로 뛰었다.&lt;br&gt;&lt;br&gt;광주시에 따르면, 이번 파업엔 전체 버스 운전 기사 2400여 명 중 1400여 명이 참여했다. 나머지 1000여 명은 노조에 가입하지 않아 정상 근무 중이다. 광주시 관계자는 “비노조원 기사를 적극 투입해 버스를 최대한 운행하고 있다”고 했다.&lt;br&gt;&lt;br&gt;광주에는 지하철 노선이 1개뿐이라 시내버스가 주요 대중교통이다. 평소 102개 노선에 1000여 대가 운행 중이다. 광주 시내버스 노사는 전날 오후 4시부터 임금·단체협약 교섭을 벌였지만 이견을 좁히지 못했다.&lt;br&gt;&lt;br&gt;노조는 기본급 8.2% 인상, 61세에서 65세로 정년 연장 등을 요구하고 있다. 광주 시내버스 운전기사의 평균 월급은 459만원(10년 근속 기준)이다. 반면에 사측은 적자가 심각해 임금을 동결해야 한다는 입장이다.&lt;br&gt;&lt;br&gt;광주 시내버스는 시가 버스 회사의 적자를 보전해주는 준공영제 방식으로 운영한다. 광주시는 지난해 버스 회사에 1402억원을 지원했다.&lt;br&gt;&lt;br&gt;노조는 오는 6일부터 8일까지 현충일 연휴 동안 파업을 멈춘다. 하지만 “이번 파업 일시 중단이 파업 철회는 아니다”라고 선을 그었다.&lt;br&gt;&lt;br&gt;광주 시내버스 노조 관계자는 “사측과 광주시에 3일간 협상안을 가져올 기회를 주겠다는 취지”라며 “연휴 동안 협상이 이뤄지지 않으면 다음 주 월요일인 9일부터 다시 전면 파업을 하겠다”고 말했다.&lt;br&gt;&lt;br&gt;전국 버스 노사가 정기상여금을 통상임금에 포함하느냐를 두고 임·단협 교섭에 난항을 겪고 있는 가운데 광주는 2015년 이미 노사 합의를 통해 정기상여금을 통상임금에 포함했었다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/A2TUSJEN4ZL7RKYTNWHXRR3YJ4.jpg?auth=d408647a97504781674e1527827a4c21334febc58af7ba601f81444a889c0064&amp;smart=true&amp;width=5484&amp;height=3656" type="image/jpeg" height="3656" width="5484">
-        <media:description type="plain">광주광역시 시내버스 노조가 전면 파업에 들어간 5일 오전 광주 서구 치평동 한 버스정류장에 운행 지연을 알리는 안내문이 부착돼 있다. /연합뉴스</media:description>
-        <media:credit role="author" scheme="urn:ebu">정다움</media:credit>
-      </media:content>
-    </item>
-    <item>
-      <title>법원 “무역위, SK바사에 내린 ‘불공정무역행위 판정’ 취소해야”</title>
-      <link>https://www.chosun.com/national/court_law/2025/06/05/C2X3GJ33ABCLHKM63A2FW77PFE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/05/C2X3GJ33ABCLHKM63A2FW77PFE/</guid>
-      <dc:creator>김은경 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 05 Jun 2025 09:04:50 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LRHPHEOAZA56P2QZYELPYKB2ME.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;SK바이오사이언스 안동 L-하우스 전경. /SK바이오사이언스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;SK바이오사이언스와 미국 제약사 화이자 사이 특허권 침해 분쟁과 관련해 산업통상자원부 산하 무역위원회가 SK바이오사이언스에 내린 제재 처분을 취소하라는 법원 판결이 나왔다.&lt;br&gt;&lt;br&gt;서울행정법원 행정2부(재판장 고은설)는 5일 SK바이오사이언스가 무역위를 상대로 제기한 불공정 무역행위 판정 등 취소 청구 소송에서 원고 승소로 판결했다. 재판부는 “불공정 무역행위 판정과 조사 대상 물품의 수출 및 제조 행위 중지를 명한 시정조치 명령과 과징금 부과 처분을 모두 취소한다”고 밝혔다.&lt;br&gt;&lt;br&gt;작년 2월 무역위는 화이자 자회사인 와이어쓰 LLC가 신청한 폐렴 백신 특허권 침해 조사 결과 SK바이오사이언스가 특허권을 침해해 불공정 무역행위를 했다고 판정하고 제조·수출을 중지하라는 시정 명령과 함께 과징금 약 1500만원을 부과했다. SK바이오는 이에 불복해 행정소송을 제기했고 이날 승소한 것이다.&lt;br&gt;&lt;br&gt;SK바이오사이언스는 최근 와이어쓰 LLC와 특허권 침해 소송에서 최종 승소했는데 그 취지가 이번 판결에도 반영됐다는 분석이다. 대법원 1부(주심 노태악 대법관)는 지난달 15일 와이어쓰 LLC가 SK바이오사이언스를 상대로 낸 특허권 침해 금지 소송 상고심에서 원고 패소한 원심을 확정했다. &lt;br&gt;&lt;br&gt;앞서 SK바이오사이언스는 폐렴구균 13가 백신을 개발해 2016년 식품의약품안전처 품목허가를 받았다. 그런데 폐렴구균 백신 ‘프리베나’를 판매하는 화이자가 특허 침해 소송을 제기했고 2018년 대법원에서 화이자가 최종 승소했다. SK바이오사이언스는 법원의 화해 권고에 따라 화이자와 2027년 4월까지 국내에서 폐렴구균 백신을 생산·판매하지 않기로 합의했다.&lt;br&gt;&lt;br&gt;이후 SK바이오사이언스는 러시아 제약사에 임상시험·분석시험 목적으로 연구용 폐렴구균 원액을 수출했는데, 화이자는 원액을 조합하면 완제품이 될 수 있기 때문에 합의를 위반한 것이라며 추가로 소송을 제기했다. 그러나 특허법원(2심)은 완제품이 아닌 연구시험 용도의 원액을 생산해 해외에 공급하는 것은 특허권을 침해한 것이 아니라고 판단했고, 대법원도 같은 결론을 내렸다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>마을버스로 월북 시도 탈북민 “1주일 굶기도… 돈이 없으면 죽겠더라”</title>
