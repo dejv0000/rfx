@@ -13,6 +13,24 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>경찰 “이경규, 정상 처방약도 약물운전 혐의 적용 가능”</title>
+      <link>https://www.chosun.com/national/national_general/2025/06/09/KS2ZEH44X5CSBILZKZHFFDVLJM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/09/KS2ZEH44X5CSBILZKZHFFDVLJM/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 09 Jun 2025 04:36:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ULF4KOT7HJB5JE3BGI4NKKVVKM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;코미디언 이경규. /오종찬 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰은 코미디언 이경규(65)가 약물 복용 운전 혐의로 조사를 받고 있는 것과 관련 정상적으로 처방받은 약물일지라도 법 위반이 될 수 있다고 밝혔다. &lt;br&gt;&lt;br&gt;경찰청 국가수사본부 관계자는 9일 서울 서대문구에서 열린 정례 기자간담회에서 “현재는 입건 전 조사 단계”라며 “본인이 병원에서 처방받은 약을 복용했다고 주장하고 있어서 이 부분을 확인할 예정”이라고 했다.&lt;br&gt;&lt;br&gt;이 관계자는 “정상적으로 처방받은 약물일지라도 그 영향으로 운전을 못 할 우려가 있는 상황에서는 운전하면 안 된다는 도로교통법상 약물 운전 관련 규정이 있다”며 “도로교통법상 약물 운전 여부는 ‘정상적인 운전을 할 수 없는 상태인지’가 기준”이라고 했다. &lt;br&gt;&lt;br&gt;이어 “방범카메라 영상과 관련자 진술을 바탕으로 정상적으로 처방받은 약물을 복용했다는 이씨 주장 등을 확인할 계획”이라고 했다.&lt;br&gt;&lt;br&gt;이경규는 전날 오후 2시쯤 강남구의 한 주차장에 주차 관리 요원의 실수로 자신의 차와 차종이 같은 다른 사람의 차를 몰고 이동하다, 차량 절도 의심 신고를 받고 출동한 경찰에 의해 약물 간이 시약 검사를 받았다. 해당 검사에서 양성 반응이 나오면서, 경찰이 도로교통법 위반 혐의로 이경규에 대한 내사에 나섰다. &lt;br&gt;&lt;br&gt;이경규는 9일 YTN과의 인터뷰에서 “경찰 조사에서 약물 양성 반응이 나온 것은 복용 중인 공황장애 치료약과 감기약 때문”이라고 주장했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>대전지검, ‘정명석 성범죄 녹음 파일’ 유출 혐의 변호사 기소</title>
+      <link>https://www.chosun.com/national/regional/2025/06/09/HE4F7DHED5AMHMZSLKCIDMRTTU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/06/09/HE4F7DHED5AMHMZSLKCIDMRTTU/</guid>
+      <dc:creator>우정식 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 09 Jun 2025 03:57:15 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TXZNWXU25RN7NDGZKSXZAWNGTA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;검찰청 로고. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;여신도들을 성폭행한 혐의로 대법원에서 징역 17년을 선고받은 정명석 기독교복음선교회(통칭 JMS) 총재의 범행 현장 녹음 파일을 외부로 유출한 혐의로 정씨 측 변호인이 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;대전지검은 변호사 A씨를 업무상 비밀 누설 등 혐의로 기소했다고 9일 밝혔다. A씨는 정씨의 항소심 재판 과정에서 범죄 현장 녹음 파일을 다른 신도들에게 들려준 혐의로 기소됐다. 해당 녹음 파일은 피해자가 정씨의 성범죄 현장 상황을 녹음해 수사기관에 증거물로 제출한 것이다.&lt;br&gt;&lt;br&gt;검찰은 녹음 파일의 외부 유출에 따른 2차 가해를 우려해 등사를 강하게 반대했지만, 지난해 항소심 재판부는 방어권 보장 차원에서 변호인단에 등사를 허가했다. 이후 신도들 사이에 이 녹음파일이 유출됐다는 의혹이 제기됐다.&lt;br&gt;&lt;br&gt;대전지검은 지난해 10월 정명석의 변호를 맡았던 법무법인 사무실 등에 대한 압수수색을 벌였고, A씨에게 업무상 비밀 누설 혐의가 있다고 보고 재판에 넘겼다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>경찰 “尹, 소환 통보 불응...12일 두번째 소환 통보”...비화폰 삭제 지시 혐의 추가</title>
       <link>https://www.chosun.com/national/national_general/2025/06/09/YXQGRQCQSNF2VCWYU5J3UO6TWI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/09/YXQGRQCQSNF2VCWYU5J3UO6TWI/</guid>
@@ -776,24 +794,6 @@
       <description/>
       <pubDate>Fri, 06 Jun 2025 20:00:00 +0000</pubDate>
       <content:encoded>우크라이나 전쟁에 반대한다며 소송을 통해 국내에서 처음으로 난민 지위를 인정받았던 러시아인이 2심에서 패소했다. 서울고법 행정9-3부(재판장 김형배)는 최근 러시아인 A씨가 “난민 불인정 결정을 취소해 달라”며 서울출입국·외국인청장을 상대로 낸 소송에서 원심을 뒤집고 원고 패소 판결을 내렸다.&lt;br&gt;&lt;br&gt;A씨는 러시아의 우크라이나 침공 이후인 2022년 11월 국내에 입국한 뒤 이듬해 1월 난민 신청을 했다. 그는 “징집을 피해 러시아를 탈출했으니 귀국 시 처벌될 수 있다”고 주장했다. 한국 정부가 난민 인정을 거부하자 A씨는 소송을 냈다.&lt;br&gt;&lt;br&gt;쟁점은 A씨가 ‘반전(反戰)’이라는 정치적 동기로 징집을 거부한 게 맞는지 여부였다. 정부는 인종, 종교, 국적, 정치적 의견 등을 이유로 박해받을 공포가 있는 경우 난민으로 인정한다. 단순 징집 거부는 사유가 되지 않는다.&lt;br&gt;&lt;br&gt;1심은 원고 승소 판결을 내렸다. 2022년 4월과 9월 러시아 첼랴빈스크 광장에서 열린 두 차례 ‘반전 시위’에 참여했다는 A씨 진술, 지인들이 작성한 A씨 시위 참여 확인서 등이 근거가 됐다.&lt;br&gt;&lt;br&gt;그러나 2심은 “A씨 진술을 믿기 어렵다”고 했다. A씨는 난민 면접과 소장(訴狀)에서 “2021년 정부 반대 시위에 1차례 참여했다”고 했는데, 재판이 시작되자 “전쟁 발발 후 몇 차례 참여했다” “2022년 4월, 9월 2차례 참여했다” 등으로 말을 바꿨다. 2심은 “시위 참여 시기와 횟수 등 중요 부분에서 일관성이 없다. 우크라이나전에 반대했다고 주장하기 위해 시기를 전쟁 이후로 바꿔 진술한 것 아닌지 의심스럽다”고 지적했다. 또 지인들이 쓴 시위 참여 확인서도 “각기 다른 사람이 작성했는데 내용이 대부분 일치한다”며 “A씨의 부탁을 받고 작성한 게 아닌지 의문”이라고 했다.&lt;br&gt;&lt;br&gt;A씨 상고로 최종 결론은 대법원이 내리게 됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[플라자] ’2025년 장애인 미디어 콘텐츠 공모전' 접수 외</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2025/06/07/2BFG6CBGSZBRZJXWMB64AMKR3E/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2025/06/07/2BFG6CBGSZBRZJXWMB64AMKR3E/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Fri, 06 Jun 2025 16:57:36 +0000</pubDate>
-      <content:encoded>▲&lt;b&gt;방송통신위원회와&lt;/b&gt;시청자미디어재단은 올해 12월에 시상하는 ’2025년 장애인 미디어 콘텐츠 공모전' 출품작을 8월 6일까지 접수한다. 응모 분야는 장애 또는 장애인을 주제로 한 영상과 오디오 콘텐츠, 장애인이 제작한 영상과 오디오 콘텐츠 및 짧은 영상물(숏폼) 등이다.&lt;br&gt;&lt;br&gt;▲&lt;b&gt;한&lt;/b&gt;·&lt;b&gt;아프리카재단&lt;/b&gt;(이사장 김영채)은 주남아프리카공화국 한국대사관과 함께 9일 오후 4시 ‘교육 및 여성 역량 강화: 공통 도전과 협력’을 주제로 2차 ‘한-남아공 미래대화’를 온라인 세미나 형태로 개최한다.&lt;br&gt;&lt;br&gt;▲&lt;b&gt;한국조세재정연구원은&lt;/b&gt;13일 오전 10시 30분 서울 여의도 FKI타워 에메랄드홀에서 한국재정학회, 한양인구문제연구원, 한반도미래인구연구원과 공동으로 ’2025 인구정책 심포지엄’을 개최한다. ‘저출생 대응 정책의 재정비 방향’을 주제로 인구 위기 대응을 위한 정책 방향을 모색한다.&lt;br&gt;&lt;br&gt;▲&lt;b&gt;한국해양진흥공사와 부산시&lt;/b&gt;는 ‘바다가 닿는 곳’을 주제로 19일부터 22일까지 부산 해운대 영화의전당에서 2025 국제해양영화제를 개최한다. 예매는 10일부터 영화의전당 홈페이지에서 할 수 있고 현장 예매도 가능하다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[부음] 김일남씨 별세 외</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2025/06/07/ZHSOOSV4KFD6RIXSGZLSZZWV6I/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2025/06/07/ZHSOOSV4KFD6RIXSGZLSZZWV6I/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Fri, 06 Jun 2025 16:56:50 +0000</pubDate>
-      <content:encoded>▲&lt;b&gt;김일남&lt;/b&gt; 별세, &lt;b&gt;김경철&lt;/b&gt;·&lt;b&gt;김경호&lt;/b&gt; 금호건설 법무담당 상무 부친상=5일18시50분 삼성서울병원, 발인 8일8시, (02)3410-6915&lt;br&gt;&lt;br&gt;▲&lt;b&gt;박화진&lt;/b&gt; 前 서울신문 논설실장 별세, &lt;b&gt;박선희&lt;/b&gt; 동학사 팀장·&lt;b&gt;박선경&lt;/b&gt;·&lt;b&gt;박민제&lt;/b&gt; 중앙일보 IT산업부장 부친상, &lt;b&gt;이규현&lt;/b&gt;·&lt;b&gt;우성균&lt;/b&gt; 장인상, &lt;b&gt;배지성&lt;/b&gt; 명일중 교사 시부상=6일6시35분 서울성모병원, 발인 8일8시40분, (02)2258-5969&lt;br&gt;&lt;br&gt;▲&lt;b&gt;최선옥&lt;/b&gt; 별세, &lt;b&gt;김순태&lt;/b&gt; 아내상, &lt;b&gt;김보라&lt;/b&gt;·&lt;b&gt;김보배&lt;/b&gt; TV조선 임원비서실 근무·&lt;b&gt;김동호&lt;/b&gt; 모친상, &lt;b&gt;한상민&lt;/b&gt; 장모상, &lt;b&gt;한서진&lt;/b&gt; 외조모상=6일12시 쉴낙원 일산장례식장, 발인 8일9시, (031)923-7000&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>“대소변 때마다 문자를요?”… 교권 사각지대 보육교사들</title>
