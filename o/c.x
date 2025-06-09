@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>‘옷 벗기고 삭발’ 청양 고교생 집단 학폭… ”가해 학부모는 경찰”</title>
+      <link>https://www.chosun.com/national/national_general/2025/06/10/EIHPLU26JFCL7DIJPVXYMOGKFQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/10/EIHPLU26JFCL7DIJPVXYMOGKFQ/</guid>
+      <dc:creator>이가영 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 09 Jun 2025 22:06:11 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MM7D42HSOVF6BNI6YNOP7YHGF4.png"&gt;&lt;figcaption&gt;&lt;small&gt;충남 청양에서 피해자를 청테이프로 결박한 후 신체 일부를 노출시켜 사진을 찍고, 삭발하는 등 4년 동안 학교폭력을 저지른 고교생 4명이 경찰에 입건됐다. /JTBC '사건반장'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;충남 청양에서 4년 동안 동급생을 반복적으로 폭행하고 괴롭히며 학교폭력을 행사한 고교생 4명이 경찰에 입건됐다. 학교 측에서는 즉각 보호 조치를 하지 않은 것으로 알려졌는데, 가해 학생 부모가 현직 경찰이라는 보도가 나왔다. &lt;br&gt;&lt;br&gt;충남경찰청은 특수폭행‧공갈 및 성폭력처벌법(카메라 등 이용 촬영) 위반 등 혐의로 청양의 한 고등학교 2학년생 A(17)군 등 4명을 입건해 조사하고 있다고 10일 밝혔다. &lt;br&gt;&lt;br&gt;A군 등은 4년 전부터 중학교 동창인 피해자 B군을 집단폭행하거나 지속해 괴롭힌 혐의를 받는다. 2023년 6월부터 올해 4월까지 약 32회에 걸쳐 금전을 요구해 230만원 상당을 빼앗고, 청테이프로 B군의 팔을 결박한 후 신체 일부를 노출시켜 사진을 찍은 혐의다. B군에게 음주, 흡연을 강요하고 머리카락을 밀기도 한 것으로 전해졌다. &lt;br&gt;&lt;br&gt;피해자 측은 지난달 중순 학교에 피해 사실을 알리고 즉각적인 대책을 요구했지만, 학교 측은 다음 날이 수학여행이라며 즉시 분리 조치를 거부한 것으로 전해졌다. 피해자 측은 “학교 측과 교육청 대응이 미흡해 가해자에 대한 적절한 조치가 이뤄지지 않고 있다”며 “이로인해 피해자는 극심한 심리적 불안과 위축을 겪고 있다”고 호소했다. &lt;br&gt;&lt;br&gt;이런 가운데 TJB는 “가해 학생 학부모 중 한 명이 현직 경찰로 알려졌다”며 “사건 은폐 의혹까지 제기된 상황”이라고 전했다. &lt;br&gt;&lt;br&gt;교육 당국은 학교 측의 대응에 문제가 있었다고 보고 관련 징계 여부를 검토 중이다. 김지철 충남도교육감은 9일 주간업무보고에서 “오랜 시간 고통을 감내한 피해 학생과 가족에게 진심 어린 위로의 마음을 전한다”며 “아이들이 안전하게 배우고 성장해야 할 학교에서 결코 일어나서는 안 될 일이 발생한 것에 대해 매우 안타깝게 생각한다”고 말했다. 이어 “신속한 조사와 심의를 통해 피해 학생 보호와 가해 학생 선도가 이뤄질 수 있도록 최선을 다해 달라”며 “피해 학생과 가족이 또 다른 피해를 겪는 일이 없도록 가능한 모든 조치를 시행해야 한다”고 주문했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>팀 쿡 앞에서 루게릭병 환자 소통 앱 시연한 ‘K대학생’</title>
       <link>https://www.chosun.com/national/people/2025/06/10/34UJORNLKRA65DBPSB472PHRSE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/people/2025/06/10/34UJORNLKRA65DBPSB472PHRSE/</guid>
@@ -780,15 +789,6 @@
       <description/>
       <pubDate>Mon, 09 Jun 2025 03:57:15 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TXZNWXU25RN7NDGZKSXZAWNGTA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;검찰청 로고. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;여신도들을 성폭행한 혐의로 대법원에서 징역 17년을 선고받은 정명석 기독교복음선교회(통칭 JMS) 총재의 범행 현장 녹음 파일을 외부로 유출한 혐의로 정씨 측 변호인이 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;대전지검은 변호사 A씨를 업무상 비밀 누설 등 혐의로 기소했다고 9일 밝혔다. A씨는 정씨의 항소심 재판 과정에서 범죄 현장 녹음 파일을 다른 신도들에게 들려준 혐의로 기소됐다. 해당 녹음 파일은 피해자가 정씨의 성범죄 현장 상황을 녹음해 수사기관에 증거물로 제출한 것이다.&lt;br&gt;&lt;br&gt;검찰은 녹음 파일의 외부 유출에 따른 2차 가해를 우려해 등사를 강하게 반대했지만, 지난해 항소심 재판부는 방어권 보장 차원에서 변호인단에 등사를 허가했다. 이후 신도들 사이에 이 녹음파일이 유출됐다는 의혹이 제기됐다.&lt;br&gt;&lt;br&gt;대전지검은 지난해 10월 정명석의 변호를 맡았던 법무법인 사무실 등에 대한 압수수색을 벌였고, A씨에게 업무상 비밀 누설 혐의가 있다고 보고 재판에 넘겼다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>경찰 “尹, 소환 통보 불응...12일 두번째 소환 통보”...비화폰 삭제 지시 혐의 추가</title>
-      <link>https://www.chosun.com/national/national_general/2025/06/09/YXQGRQCQSNF2VCWYU5J3UO6TWI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/09/YXQGRQCQSNF2VCWYU5J3UO6TWI/</guid>
-      <dc:creator>김명진 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 09 Jun 2025 03:27:58 +0000</pubDate>
-      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3LVQJU6WZVJU3RVUFICTQ2VLOM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령이 지난 3월 8일 오후 경기 의왕시 서울구치소에서 풀려난 가운데 지지자들에게 인사하는 윤 대통령의 곁에서 김성훈 경호차장이 밀착 경호를 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰이 9일 자신에 대한 체포영장 집행 시도를 저지하고 대통령경호처 내 비화폰(보안 휴대전화) 서버 기록을 삭제하라고 지시한 혐의와 관련해 윤석열 전 대통령에게 두 차례 소환 조사를 통보한 것으로 알려졌다. 12·3 비상계엄 사태 이후 경찰이 윤 전 대통령에게 출석 요구를 한 것은 이번이 처음이다.&lt;br&gt;&lt;br&gt;경찰 비상계엄 특별수사단 관계자는 이날 정례 브리핑에서 지난달 27일 윤 전 대통령에게 6월 5일 출석하라고 요구했지만, 윤 전 대통령이 불응했다고 밝혔다. 경찰 관계자는 “윤 전 대통령 변호인을 통해 출석을 요구했고 불응하겠다는 사유를 전달받았다”며 “불응 사유에 대해 특별히 알고 있는 것은 없다”고 했다. 경찰은 이달 12일 2차 소환 통보를 해둔 상태다.&lt;br&gt;&lt;br&gt;윤 전 대통령은 지난 1월 고위공직자범죄수사처와 경찰의 자신에 대한 체포 시도 당시 경호처에 저지하라고 지시한 혐의(특수공무집행방해)로 이미 입건된 상태였다. 여기에 경찰은 윤 전 대통령이 비상계엄 나흘 뒤인 지난해 12월 7일 경호처에 곽종근 전 특수전사령관, 이진우 전 수도방위사령관, 여인형 전 국군방첩사령관 등 사령관들의 비화폰 관련 정보 삭제를 지시한 혐의(경호처법상 직권남용 교사)를 추가 확인해 최근 입건한 상태다.&lt;br&gt;&lt;br&gt;윤 대통령은 직권남용 교사와 관련 지난해 12월 7일 김성훈 경호처 차장에게 두 차례 연락해 “네가 통신을 잘 안다며. 서버 관련 규정이 어떻게 되나. 서버 삭제는 얼마 만에 한 번씩 되냐”고 물었고, 김 차장은 이에 “확인해보겠다”고 답한 것으로 알려졌다. 이 통화 직후 윤 전 대통령은 재차 김 차장에게 “수사받는 사람들 비화폰을 그렇게 놔둬도 되는 건가. 조치해야지? 그래서 비화폰이지?”라는 취지로 전화한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;윤 전 대통령에게 두 차례 출석 요구를 한 경찰은 ‘윤 전 대통령이 3차 소환까지도 불응할 경우 체포영장 신청을 검토할 방침이 있느냐’는 질문에는 “2차 소환 요구밖에 안 한 상황이서 뭐라고 말씀 드리기가 어려운 상황”이라고 답했다.&lt;br&gt;&lt;br&gt;경찰은 지난달 경호처로부터 임의 제출받은 비화폰 서버, 계엄 당일 국무회의장 방범카메라 등에 대한 분석을 대부분 끝낸 상태라고 밝혔다. 해당 서버에는 윤 전 대통령이 계엄 선포 직후 조지호 경찰청장, 김봉식 전 서울경찰청장, 군사령관에게 직접 전화한 기록이 있었던 것으로 전해졌다.&lt;br&gt;&lt;br&gt;경찰은 또 김용현 전 국방부 장관과 함께 비상계엄을 사전 모의한 혐의를 받는 노상원 전 정보사령관의 비화폰 정보가 지난해 12월 5일 삭제된 사실을 확인했다. 당시 민간인 신분이던 노 전 사령관은 김 전 장관으로부터 비화폰을 지급받았다가, 계엄 이후 김 전 장관을 통해 비화폰을 반납했고 이 과정에서 비화폰 정보 삭제가 이뤄진 것으로 경찰은 보고 있다. 초기화된 비화폰은 경호처가 보관 중이다.&lt;br&gt;&lt;br&gt;경찰은 또 비상계엄 전 국무회의 참석자인 조규홍 보건복지부 장관과 김영호 통일부 장관을 지난달 30일 불러 비상계엄 전후 이뤄진 국무회의 상황을 조사한 것으로 알려졌다. 두 사람은 내란 혐의 피의자로 입건된 상태다. 경찰 관계자는 “비상계엄 직전 국무회의 참석한 국무위원들은 기본적으로 다 고발돼 있어서 피의자 신분”이라고 했다. 경찰은 두 사람에게 한덕수 전 국무총리, 최상목 전 경제부총리, 이상민 전 행정안전부 장관의 기존 진술과 국무회의 방범카메라 장면이 배치된 부분과 관련해 집중 캐물은 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>경찰, ‘예능 대부’ 이경규 약물 운전 혐의 조사</title>
