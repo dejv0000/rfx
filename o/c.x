@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>수능 23번과 ‘판박이’ 지문 냈던 ‘1타강사’ 조정식…결국 검찰 송치 </title>
+      <link>https://www.chosun.com/national/national_general/2025/06/11/I5RHB3TYDRAEXOXGCMS5BXM6MU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/11/I5RHB3TYDRAEXOXGCMS5BXM6MU/</guid>
+      <dc:creator>이가영 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 10 Jun 2025 22:07:29 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DBXEF6SEYVFBBEKEVDTOP2GXFE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;스타 영어 강사 조정식씨. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;스타 영어 강사 조정식(42)씨가 현직 교사에게 수천만원을 지불하고 학원용 모의고사 문제를 구입한 혐의로 검찰에 송치된 사실이 뒤늦게 알려졌다. 조씨는 2023학년도 수능 영어 영역 23번 문제와 동일한 지문을 넣은 사설 모의고사를 판매해 논란이 됐었다. &lt;br&gt;&lt;br&gt;11일 탐사보도 매체 ‘셜록’에 따르면 감사원은 조씨가 현직 교사 21명으로부터 고등학교 3학년 사설 모의고사 제작용 문항을 구매한 사실을 적발했다. 조씨는 청탁금지법 위반, 업무방해 등 혐의로 지난달 17일 검찰에 불구속 송치됐다. &lt;br&gt;&lt;br&gt;2009년부터 EBS 수능 연계 교재 등을 집필한 교사 A씨는 2021년 1월부터 2023년 10월까지 조씨에게 총 5800만원을 받고 문항을 제공한 것으로 전해졌다. A씨 외에도 조씨가 문항을 거래한 교사 중에는 EBS 수능 연계교재 집필, 서울시교육청 주관 전국연합학력평가 문항 출제 등 경력을 보유한 이들이 있었다고 한다. &lt;br&gt;&lt;br&gt;조씨의 문제 거래 의혹은 2022년 11월 시행된 수능에서 시작됐다. 당시 영어 영역 23번 3점짜리 문항은 ‘넛지’의 저자인 캐스 선스타인 하버드대 로스쿨 교수가 출간한 ‘Too Much Information(TMI)’에서 발췌한 지문이 나왔다. 시험 직후 입시 커뮤니티 등을 중심으로 이 지문이 조씨가 제공한 사설 모의고사 지문과 한 문장을 제외하고 동일하다는 주장이 나왔다. 조씨의 인스타그램에는 “똑같은 지문이 시험에 나와서 반가웠다” “선생님의 족집게 실력 믿기지 않는다” 등 학생들의 댓글이 달렸다. &lt;br&gt;&lt;br&gt;한국교육과정평가원에는 닷새간 100여건의 이의 신청이 쏟아졌다. 이의신청자들은 조씨가 제공한 사설 모의고사를 미리 풀어보고 해설 강의까지 들은 학생들에게 시험이 절대적으로 유리하다고 주장했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3LKKKKJJ2RCLJMVKR3RWVWA2EI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2023학년도 수능 영어 23번 동일지문 출제 관계도. /경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;교육부는 조씨 등을 수사 의뢰했고, 감사원도 감사에 착수했다. 감사원에 따르면 조씨는 ‘TMI’ 지문의 원 출제자와 친분이 있는 다른 교사를 통해 문항을 받아 9월 말 모의고사로 발간했다. 수능‧EBS 문항 제작 경력이 있는 교사들과의 거래를 통해 수능 문제를 적중시킨 ‘족집게’ 문제집이 탄생한 셈이다. &lt;br&gt;&lt;br&gt;여기에 한국교육과정평가원의 검증 부실도 겹쳤다. 평가원은 2023학년도에 합리적인 이유 없이 조씨 모의고사를 구매하지 않아 사설 모의고사에 나온 문제를 걸러내지 못했다. 이의 신청에 대해 심사도 하지 않았다. 아예 심사 대상에서 제외한 후 평가원은 판박이 지문 논란에 대해 “우연의 일치일 뿐”이라는 해명만 했다. &lt;br&gt;&lt;br&gt;이와 관련 경찰청 국가수사본부는 지난달 17일 학원과 문항 거래를 한 현직 교사 72명을 검찰에 송치했다. 사교육업체 법인 3곳, 학원강사 11명 등도 검찰에 송치됐다. 다만, 조씨 측 법률대리인은 셜록에 “문항 거래 사실을 인정하지 않았다”는 입장을 전했다. &lt;br&gt;&lt;br&gt;조씨는 메가스터디의 영어 대표 강사로, 현재 채널A ‘성적을 부탁해: 티처스 시즌2’에 출연하고 있다. 조씨는 오는 13일 진행될 프로그램 인터뷰에 변동 없이 참석할 전망이다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>더 거친 장맛비, 일주일 빨리 온다... 내일 새벽부터 제주 비</title>
       <link>https://www.chosun.com/national/transport-environment/2025/06/11/X5YLO5H47ZEWXP2SUT4A5NZCQI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/06/11/X5YLO5H47ZEWXP2SUT4A5NZCQI/</guid>
@@ -922,15 +931,6 @@
       <description/>
       <pubDate>Mon, 09 Jun 2025 15:50:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QVC4JELZWNBVNHSDSOUABTH4GU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;원로 한국화가이자 대한민국예술원 회원인 홍석창(84) 화백이 9일 노환으로 별세했다. 홍익대 교수로 재직하며 미술대학원장, 박물관장 등을 지냈다. 2011년 보관문화훈장을 받았다. 빈소 신촌 세브란스병원, 발인 11일 오전 6시20분.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문으로 배우는 실용한자] 배낭(背囊)</title>
-      <link>https://www.chosun.com/national/nie/chinese_character/2025/06/10/DIA4GIAAZRGVFNO4VTBK7P4M4Y/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese_character/2025/06/10/DIA4GIAAZRGVFNO4VTBK7P4M4Y/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Mon, 09 Jun 2025 15:33:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LMO7ER5TZZEPPNQTRYMWVSI5WQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>‘공천 개입 의혹’ 김건희 여사 측, 검찰에 “혐의 입증 안돼” 의견서 제출</title>
