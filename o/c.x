@@ -13,6 +13,78 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>김건희 여사와 문자 주고받은 건진법사… 통일교 선물 시점과 맞물려</title>
+      <link>https://www.chosun.com/national/national_general/2025/06/10/WMV5SUPZPBAINOBWGO6Z3HCM6Y/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/10/WMV5SUPZPBAINOBWGO6Z3HCM6Y/</guid>
+      <dc:creator>고유찬 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 10 Jun 2025 10:59:06 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/24NRYOROB4P7WLVI7PAIYE3OBM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;‘건진법사’ 전성배씨가 지난 5월 12일 서울 양천구 서울남부지법에서 열린 1심 두 번째 공판에 출석하고 있다. / 연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2022년 대통령 선거 직후, 윤석열 전 대통령의 부인 김건희 여사와 친분이 있는 것으로 알려진 무속인 ‘건진 법사’ 전성배(65)씨가 김 여사와 주고받은 문자 메시지가 검찰 수사 과정에서 확인됐다. 해당 시점은 통일교 측이 김 여사에게 고가의 선물을 전달했다는 의혹이 제기된 시기와 겹친다.&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 검찰은 전씨의 휴대전화를 압수해 분석하는 과정에서 김 여사와 나눈 문자 메시지 일부를 확보했다. &lt;br&gt;&lt;br&gt;전씨는 2022년 3월 대선 직후부터 5월 사이 김 여사에게 세 차례에 걸쳐 문자 메시지를 보낸 것으로 알려졌다. 전씨는 문자에서 “윤핵관 측에서 제 사람들을 쓰지 말라고 했다”, “내가 얼마나 희생했는데 윤핵관에게 연락하겠다”는 등 인사 청탁이 좌절된 데 대한 불만을 토로했고, “나를 희생양으로 삼는 것을 보고 권력의 무서움을 느꼈다”고도 했다. 이에 대해 김 여사는 “곧 연락드리겠다”고 답한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;이 같은 문자 시점은 통일교(현 세계평화통일가정연합) 측이 전씨를 통해 김 여사에게 고가의 샤넬백을 전달한 시기와 겹친다. 통일교 측은 2022년 4월과 7월 두 차례에 걸쳐 샤넬백을 전씨에게 전달했으며, 이는 김 여사의 수행비서 유경옥 씨에게 넘어간 것으로 알려졌다.&lt;br&gt;&lt;br&gt;당시 통일교 세계본부장이 건넨 다이아몬드 목걸이(약 6000만 원 상당)와 샤넬백(약 1000만 원 상당) 등의 고가 선물에 대해 김 여사 측은 “직접적인 연관은 없다”는 입장을 유지해 왔다. 하지만 김 여사와 전씨 사이에 직접적인 문자 메시지와 연락이 있었던 정황이 드러나면서, 최소한 김 여사가 사안을 인지하고 있었던 것 아니냐는 관측이 제기되고 있다.&lt;br&gt;&lt;br&gt;특히 유경옥 비서가 해당 샤넬백을 수백만 원을 보태 다른 제품으로 교환한 정황이 확인된 가운데, 그간 “여사에게 보고하지 않았다”는 해명이 설득력을 잃을 수 있다는 지적도 나온다.&lt;br&gt;&lt;br&gt;검찰은 이미 2023년 1월 김 여사와 전씨가 두 차례 통화한 내역도 확보한 것으로 전해졌다. 이 통화는 모두 김 여사 측에서 먼저 전화를 건 것으로 확인됐다. 시점 역시 통일교 선물 의혹이 언론 보도를 통해 본격적으로 불거지기 직전이었다.&lt;br&gt;&lt;br&gt;전씨 측은 “직접 통화가 아니라 김 여사 측 관계자와의 대화였고, 통일교와는 무관한 내용이었다”고 해명했지만, 검찰은 관련 진술의 신빙성을 확인하기 위해 전씨를 조만간 추가로 소환할 방침이다. 검찰이 향후 김 여사를 직접 조사할 가능성도 배제할 수 없는 상황이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>李대통령이 언급한 ‘마약 수사 외압 의혹’... 대검, 합동수사팀 꾸려</title>
+      <link>https://www.chosun.com/national/court_law/2025/06/10/K7ATZVLSAVDDNOXJYCB32NVWFI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/10/K7ATZVLSAVDDNOXJYCB32NVWFI/</guid>
+      <dc:creator>방극렬 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 10 Jun 2025 11:49:07 +0000</pubDate>
+      <content:encoded>대검찰청이 10일 윤석열 정부 때 불거진 ‘세관 마약 수사 외압 의혹’을 규명하기 위한 합동수사팀을 꾸리고 수사에 착수했다.&lt;br&gt;&lt;br&gt;합동수사팀은 검찰과 경찰, 국세청, 금융정보분석원(FIU) 등 20여 명 규모로 서울동부지검에 꾸려진다. 팀장은 윤국권 부산지검 강력범죄수사부장이 맡고, 대검 마약조직범죄부가 직접 수사를 지휘한다.&lt;br&gt;&lt;br&gt;이 의혹은 서울 영등포경찰서가 2023년 1월 말레이시아인들의 필로폰 약 74㎏ 밀수 범행을 수사하는 과정에서 세관 공무원들이 연루됐다는 진술을 확보하자, 대통령실과 경찰 고위 간부 등이 사건 은폐를 위해 외압을 행사했다는 것이다.&lt;br&gt;&lt;br&gt;앞서 민주당이 주도해 국회는 작년 8월 이 의혹을 조사하는 청문회를 열었고, 올 3월엔 이 의혹을 수사하는 상설 특검안을 통과시켰다. 하지만 대통령 권한대행이던 한덕수 당시 총리가 특검 후보 추천을 의뢰하지 않아 절차가 중단됐다. 이재명 대통령은 최근 민주당 지도부를 만난 자리에서 이 의혹 관련 상설 특검안을 되도록 빨리 진행해야 한다는 취지로 말한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;대검 관계자는 “마약 밀수 조직에 대한 세관 연루 의혹이 제기된 초유의 사건이자, 대통령실의 수사 외압 등 국민적 관심이 집중돼 있는 중대한 사안”이라며 “새 정부 출범을 계기로 수사 외압과 관련된 의혹을 최대한 신속히 규명하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>이웃집 반려견 테이프로 감고, 빗자루 휘두른 40대 2명</title>
+      <link>https://www.chosun.com/national/regional/gyeonggi-incheon/2025/06/10/N65REFNKZNELDOJDLKIJZFZ47Y/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/gyeonggi-incheon/2025/06/10/N65REFNKZNELDOJDLKIJZFZ47Y/</guid>
+      <dc:creator>김석모 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 10 Jun 2025 11:53:53 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FJACOCQWWU5QCEDLXLXU6WACM4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 마크. /조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이웃집 마당에 침입해 반려견을 학대한 40대 여성 2명이 경찰에 조사를 받고 있다.&lt;br&gt;&lt;br&gt;경기 여주경찰서는 동물보호법과 주거침입 혐의로 A(40대)씨 등 2명을 입건해 조사하고 있다고 10일 밝혔다.&lt;br&gt;&lt;br&gt;A씨 등은 지난달 초 여주시 한 단독주택 마당에 들어가 이 주택 거주자의 반려견을 학대한 혐의를 받는다. 이들이 반려견을 향해 빗자루를 휘두르거나, 입에 테이프를 감는 등 학대하는 모습은 방범카메라(CCTV)에 녹화됐다.&lt;br&gt;&lt;br&gt;A씨 등은 인근 다른 주택에 사는 이웃 사이로, 견주가 집을 비운 사이 학대 행위를 저지른 것으로 알려졌다.&lt;br&gt;&lt;br&gt;피해 견주는 이후 CCTV 영상을 확인하고 경찰에 A씨 등을 고소했다. A씨 등은 경찰 조사에서 “평소 반려견에 불만이 있었다”는 취지로 진술한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>현역 입대 의대생 4월에만 647명...“역대 최대치”</title>
+      <link>https://www.chosun.com/national/welfare-medical/2025/06/10/7K7ENFLOIZEU5OC6NPFN7OGJ2E/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/06/10/7K7ENFLOIZEU5OC6NPFN7OGJ2E/</guid>
+      <dc:creator>조백건 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 10 Jun 2025 11:29:47 +0000</pubDate>
+      <content:encoded>올해 4월 한 달간 현역병 및 사회복무요원으로 입대한 의대생이 647명인 것으로 집계됐다. 월간 기준 역대 최대치다. &lt;br&gt;&lt;br&gt;대한공중보건의사협의회(공보의협)는 10일 병무청에 정보공개를 청구해 확보한 자료를 인용해 이같이 밝혔다. 공보의협에 따르면 4월에 입대한 의대생 647명 중 현역은 589명, 사회복무요원은 58명이다. 지난 3월 현역병으로 입대한 의대생 412명 대비 57% 증가했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MSMS2RN73VFWBEKOTYASGWJFMA.png"&gt;&lt;figcaption&gt;&lt;small&gt;현역 입대를 하는 의대생이 급증하고 있다/일러스트=이철원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그간 공보의협은 의대생들이 37개월 복무해야 하는 공보의 대신 18개월 현역병을 선택하는 경향이 짙어지고 있다며, 공보의 복무기간을 24개월로 단축해야 한다고 해왔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>대선 투표지 촬영·공개한 前 영주시의원, 경찰에 고발</title>
+      <link>https://www.chosun.com/national/regional/yeongnam/2025/06/10/N2UCWIZDFVEYJCAJFQPCUN47HY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/yeongnam/2025/06/10/N2UCWIZDFVEYJCAJFQPCUN47HY/</guid>
+      <dc:creator>김석모 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 10 Jun 2025 12:07:16 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LNEPQE5JBSSKGPJUOTLAADKALI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 3일 부산 남구 국립부경대학교 대연캠퍼스 체육관에서 제21대 대통령 선거 개표 작업이 진행되고 있다.(사진은 기사와 직접적인 관련 없음) /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제21대 대통령 선거 당시 기표한 투표지를 촬영해 채팅방에 공개한 전 영주시의원 A씨가 경찰에 고발됐다.&lt;br&gt;&lt;br&gt;경북 영주시선거관리위원회는 기표한 대선 투표지를 촬영해 단체 채팅방에 공개한 A씨를 공직선거법 위반 혐의(투표지 등의 촬영 행위 금지)로 영주경찰서에 고발했다고 10일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난달 29일 오전 영주시의 한 사전투표소의 기표소 내에서 자신이 지지하는 후보를 기표한 투표지를 촬영하고, 해당 후보 측 관계자 수십 명이 참여한 단체 채팅방에 공개한 혐의를 받는다.&lt;br&gt;&lt;br&gt;기표소 내에서 투표지를 촬영하는 행위는 공직선거법 제166조(투표지 등의 촬영 행위 금지) 위반으로 2년 이하의 징역 또는 400만원 이하의 벌금에 처할 수 있다. 또 자신이 기표한 투표지를 공개하는 행위는 공직선거법 제167조(투표의 비밀 보장) 위반으로 3년 이하의 징역 또는 600만원 이하의 벌금에 처할 수 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>올해 온열질환자 벌써 113명... 65세 이상 고령층이 31%</title>
+      <link>https://www.chosun.com/national/welfare-medical/2025/06/10/HSBUNU64Q5G65FVNLYHE2HSIYU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/06/10/HSBUNU64Q5G65FVNLYHE2HSIYU/</guid>
+      <dc:creator>오경묵 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 10 Jun 2025 12:02:04 +0000</pubDate>
+      <content:encoded>평년보다 일찍 시작된 무더위에 온열 질환자가 빠르게 늘고 있다.&lt;br&gt;&lt;br&gt;10일 질병관리청의 온열 질환 응급실 감시 체계에 따르면, 지난 5월 15일부터 지난 9일까지 누적 온열 질환자는 113명이다. 지난해 이맘때까지 발생했던 온열 질환자(72명)의 약 1.5배로 늘었다. 전체 환자 가운데 남성이 73.5%를 차지했고, 연령대별로는 65세 이상 고령층이 31.0%로 가장 많았다.&lt;br&gt;&lt;br&gt;당분간 전국에 영상 30도를 넘나드는 무더위가 이어질 것으로 보여 온열 질환자도 꾸준히 발생할 것으로 예상된다. 전문가들은 열사병을 특히 주의해야 한다고 했다. 오랜 시간 고온 다습한 환경에 노출됐을 때 체온 조절 기능이 마비돼 나타나는 열사병은 일사병과 증상이 비슷하지만, 땀이 나지 않는다. 구역감 등의 증세와 함께 피부가 건조해지면서 붉어지는 게 특징이다. 적절한 처치가 지연되면 다발성 장기 부전이 나타날 수 있다. 손기영 서울아산병원 가정의학과 교수는 “열사병 증상을 보이는 환자는 빠르게 119에 신고해 병원으로 이송해야 한다”고 했다.&lt;br&gt;&lt;br&gt;온열 질환을 예방하려면 시원한 곳에서 자주 휴식을 취하고, 수분도 충분히 섭취해야 한다. 박형준 삼성서울병원 건강의학본부 교수(가정의학과)는 “무더위 속에서 ‘이것까지만 작업을 마무리하고’ ‘5분만 더 있어 보고’ 등의 생각으로 무리하게 버틸 경우 온열 질환으로 이어질 수 있다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>롯데월드서 ‘후룸라이드’ 기울어 탑승객 물에 빠져…2명 부상</title>
+      <link>https://www.chosun.com/national/national_general/2025/06/10/XRL6YTWFJFCUXINKWOXLGCKZJA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/10/XRL6YTWFJFCUXINKWOXLGCKZJA/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 10 Jun 2025 11:48:33 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QBIMM3WE2RAN3ADKWSY6QLGSDU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;롯데월드 후룸라이드 자료 사진. 사고와 직접적인 관련 없음. /롯데월드 홈페이지&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 잠실 롯데월드의 놀이기구 ‘후룸라이드’ 보트가 옆으로 기울면서 탑승객이 물에 빠지는 사고가 발생했다.&lt;br&gt;&lt;br&gt;10일 롯데월드에 따르면 이날 오전 11시 20분쯤 서울 롯데월드 후룸라이드 보트가 운행 중 전도되는 사고가 발생했다.&lt;br&gt;&lt;br&gt;보트는 낙하 구간이 아닌 코너 구간에서 회전 중 옆으로 기울어지면서 탑승객들이 물에 빠진 것으로 파악됐다.&lt;br&gt;&lt;br&gt;이 사고로 탑승객 4명 중 2명이 찰과상 등의 가벼운 부상을 입었다.&lt;br&gt;&lt;br&gt;롯데월드는 사고 발생 이후 운행을 즉시 중단하고 사고 원인을 조사 중이다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>아이돌 그만두고 페인트공 변신 “성수기엔 月1500만원 번다”</title>
+      <link>https://www.chosun.com/national/people/2025/06/10/3P5V57QQANHRZJH4UAJ6CCQLG4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/06/10/3P5V57QQANHRZJH4UAJ6CCQLG4/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 10 Jun 2025 11:03:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PSJ4FI5UQ5HAZMK4PYL4W6PR34.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;페인트 도장공으로 변신한 오지민. /유튜브 채널 ‘열현남아’&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그룹 BTL 출신 오지민(31)이 페인트 도장공으로 일하고 있는 근황을 공개했다.&lt;br&gt;&lt;br&gt;오지민은 9일 방송된 KBS Joy 예능 프로그램 ‘무엇이든 물어보살’에서 “페인트 도장 사업 중”이라며 “군 복무 중 아내를 만나 슬하에 두 아들이 있다. 셋째 딸을 갖고 싶어서 조언을 구하려 출연했다”고 밝혔다.&lt;br&gt;&lt;br&gt;오지민이 속했던 남자 9인조 아이돌 그룹인 BTL은 2014년부터 2년 정도 활동하다 해체됐다.&lt;br&gt;&lt;br&gt;오지민은 “그때 2집 뮤직비디오까지 찍었는데 돌연 해체가 됐다”며 “원래 배우가 꿈이라서 연극영화과에 가서 공부를 하다가 아이돌로 데뷔했는데 잘되지 않았다”고 했다.&lt;br&gt;&lt;br&gt;오지민은 “아내와 군 복무 시절 혼전 임신을 했다”며 “아내는 현재 26살이다. 첫째 아들은 다섯 살, 둘째 아들은 15개월”이라고 했다.&lt;br&gt;&lt;br&gt;페인트 도장 사업을 시작한 후 수입에 대해서는 “성수기에는 1200만원에서 1500만원 정도 되고 비수기에는 200만원 정도 된다”며 “지금은 많이 나아졌는데 처음엔 가진 거 없이 결혼해서 대출받은 돈으로 아내의 카페 창업도 하고 신혼 생활을 했다. 대출금을 상환하고 있는 상황”이라고 설명했다.&lt;br&gt;&lt;br&gt;앞서 오지민은 지난해 3월 한 유튜브 채널을 통해 페인트 도장공으로 일하고 있다고 밝혔다. &lt;br&gt;&lt;br&gt;당시 오지민은 “어떤 걸 해야 돈을 많이 벌 수 있을까 생각하다 시작했다. 만족도가 거의 120%다. 워라밸이 있어서 아이들과 함께 시간을 보낼 수 있다는 게 제일 좋다”며 “만약에 페인트를 하게 되면 시간 가는 줄 모르고 벌써 집에 가야 돼? 야근 뭐 이런 거 없나? 이렇게 생각할 수도 있다. 진짜 재밌다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>李 대통령 재판 연기에...‘헌법 84조’ 관련 헌법소원 잇달아 접수</title>
       <link>https://www.chosun.com/national/court_law/2025/06/10/K2YUYYNCCJD7BPM5SOGTPFQPW4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/10/K2YUYYNCCJD7BPM5SOGTPFQPW4/</guid>
@@ -860,42 +932,6 @@
       </media:content>
     </item>
     <item>
-      <title>용인 아파트 덮친 70t 천공기... 33시간 만에 철거 </title>
-      <link>https://www.chosun.com/national/2025/06/07/OYBQVTM2RFFORFHSGXN7XUR5SY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2025/06/07/OYBQVTM2RFFORFHSGXN7XUR5SY/</guid>
-      <dc:creator>김준호 기자</dc:creator>
-      <description/>
-      <pubDate>Sat, 07 Jun 2025 05:19:36 +0000</pubDate>
-      <content:encoded>지난 5일 밤 경기 용인시 전철 공사 현장에서 인근 아파트 건물로 넘어진 71t 무게 천공기(지반을 뚫는 건설장비)가 사고 33시간 만에 철거됐다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RUNEJOY63YBHCDCFPUHDGC7DHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 6일 오전 경기 용인시 기흥구 서천동 인덕원~동탄 복선전철 제10공구 노반신설 기타공사 현장에 '천공기'(지반을 뚫는 건설장비)가 넘어져 있다. /뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;7일 소방당국에 따르면 이날 오전 7시 21분쯤 용인시 기흥구 서천동의 아파트 건물로 쓰러졌던 천공기의 중심 몸통에 해당하는 리더 부분을 지면에 내리는 것으로 철거 작업이 마무리됐다.&lt;br&gt;&lt;br&gt;철거 작업은 국가철도공단과 건설사, 경기도소방재난본부, 용인시 등이 크레인 3대와 고공 작업이 가능한 굴착기 등 각종 장비를 동원해 전날부터 시작했다. 철거 작업은 밤새 이어졌다. 철거 작업 중 별다른 사고는 없었다. 건설사 등은 아파트에 대한 정밀 안전 진단을 진행할 예정이다. &lt;br&gt;&lt;br&gt;사고는 지난 5일 오후 10시 13분쯤 발생했다. 용인시 기흥구 서천동 인덕원∼동탄 복선 전철 공사 현장에서 높이 44m, 무게 71t의 천공기가 인근 아파트로 쓰러졌다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/W2ARWTVXHBO27PGF3HBGUUPGSE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 5일 밤 인덕원∼동탄 복선전철 공사 현장에서 아파트 건물로 넘어진 천공기(지반을 뚫는 건설장비)를 철거하는 작업이 사고 이틀 만에 완료됐다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;천공기는 아파트 8~15층 부위와 충돌했다. 특히 15층은 천공기 꼭대기 부분이 건물 안으로 파고들어 베란다와 콘크리트 외벽, 유리창이 파손됐다. 주민들은 “지진이 난 줄 알았다” “쾅 소리에 아무것도 못 챙기고 밖으로 뛰어나왔다”고 했다. &lt;br&gt;&lt;br&gt;이 사고로 주민 150여 명이 근처 호텔 등으로 대피했다. 2명은 큰 소리에 놀라 병원으로 이송됐다. 사고로 다친 사람은 없는 것으로 전해졌다. 인덕원~동탄 복선 전철 제10공구의 시공사는 DL건설이다. 2023년 착공했다. 2028년 11월 완공하는 게 목표다. 국토부 관계자는 “이 공사장은 지난달 31일부터 작업을 멈춘 상태였다”며 “서 있던 천공기가 갑자기 쓰러진 원인을 조사하고 있다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>경찰, 대선 직후 김성훈 전 경호처 차장 재소환...비화폰 삭제 정황 조사 </title>
-      <link>https://www.chosun.com/national/national_general/2025/06/07/KFKDZ2XD75AI5PQFYMKYWKEDQQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/07/KFKDZ2XD75AI5PQFYMKYWKEDQQ/</guid>
-      <dc:creator>장윤 기자</dc:creator>
-      <description/>
-      <pubDate>Sat, 07 Jun 2025 03:46:36 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7KDKGF3CALZNGOPNDYO3CGAIOE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령 체포 방해 혐의를 받는 김성훈 대통령경호처 차장이 지난 3월21일 서울 마포구 서울서부지방법원에서 열린 영장실질심사를 마치고 취재진의 질문을 받고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;비상계엄 사태를 수사 중인 경찰이 대선 직후 김성훈 전 대통령경호처 차장을 재소환해 조사한 것으로 확인됐다.7일 경찰청 국가수사본부 비상계엄 특별수사단은 “지난 4일 김 전 차장을 1차례 소환 조사한 것이 맞다”고 밝혔다.&lt;br&gt;&lt;br&gt;경찰은 비상계엄 사태 사흘 뒤인 작년 12월 6일 윤석열 전 대통령, 홍장원 전 국가정보원 1차장, 김봉식 전 서울경찰청장의 비화폰 정보가 삭제된 정황을 조사한 것으로 알려졌다. &lt;br&gt;&lt;br&gt;김 전 차장은 자신은 관여한 바가 없고 당시 경호처 책임자는 박종준 전 경호처장이라는 입장을 유지한 것으로 전해졌다. 김 전 차장과 윤 전 대통령의 당일 연락을 주고받은 기록도 없는 것으로 알려졌다. &lt;br&gt;&lt;br&gt;이와 관련해 경찰은 12월 6일 비화폰 삭제를 앞두고 조태용 국정원장이 경호처와 사전 협의를 한 정황을 포착한 것으로 전해졌다. 당시 박 전 처장과 조 원장이 통화한 기록도 있는 것으로 알려졌다. &lt;br&gt;&lt;br&gt;경찰은 조만간 박 전 처장 등을 재소환해 조사할 방침인 것으로 전해졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>지하철 없는 울산시민 유일한 발 ‘시내버스’ 멈췄다</title>
-      <link>https://www.chosun.com/national/2025/06/07/74DAPTSUMZAGLESYTRUHT474Q4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2025/06/07/74DAPTSUMZAGLESYTRUHT474Q4/</guid>
-      <dc:creator>김준호 기자</dc:creator>
-      <description/>
-      <pubDate>Sat, 07 Jun 2025 03:31:26 +0000</pubDate>
-      <content:encoded>“지하철도 없는 동네서 유일한 대중교통이 멈춰버리면 시민들은 어쩌라는 말입니까” “대체 버스도 마련하지 않은 울산시는 뭐 했나요”&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7Z5L5SPVYVPS7LVWBX2CNRHB3Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;임단협 난항으로 울산 시내버스 노조가 파업에 들어간 첫날인 7일 오전 울산 중구 병영사거리 인근 버스정류장에서 시민들이 파업 사실을 모르는 듯 버스를 기다리고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;울산 시내버스 노조(전국자동차노동조합연맹 울산버스노조)가 7일 오전 4시 첫차부터 파업에 돌입하면서 시민 불편이 현실화되고 있다. 울산시에 따르면 이날 시내버스 파업으로 총 889대 중 702대가 운행을 멈췄다. 전체 버스의 79%다. 울산 시내버스 노조가 파업에 나선 것은 2019년 5월 이후 6년 만이다.&lt;br&gt;&lt;br&gt;도심 버스정류장에는 오지 않는 버스를 기다리다 뒤늦게 택시를 찾아 나서는 시민들이 상당수다. 남구 신정동에 거주하는 60대 이모(65)씨는 “버스 파업 때문에 택시를 타고 왕복 4만원에 진료 예약한 대학병원을 다녀왔다”며 “지하철 같은 시내버스를 대체할 대중교통이 있는 것도 아닌데, 이런 파업은 너무하다는 생각이 든다”고 했다. 버스 파업 본지 기사 댓글에는 “땅이 엄청 넓은데 비해 버스 수와 노선이 부족해 어디 가려고 하면 기본 1시간이다” “시민들 인질로 잡았다” “택시 타고 출근하고 퇴근하고 시장한테 돈받자” 등의 댓글이 잇따랐다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ECX46SKOHFBCSGKSOLHRXSMXUQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;7일 울산 태화강역 앞에 버스파업 소식에 택시들이 줄지어 서 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;울산시는 이번 시내버스 파업에 대한 대응으로, 법인·개인택시 조합 측에 운행 확대를 요청했다. 지난해 기준 울산 지역 택시 운행률은 60~70%대 수준이다. 시내버스 파업 기간 최대한 택시 운행을 늘려달라는 취지다. 시내버스 파업으로 승용차 이용이 많아질 것으로 본 울산시는 승용차 요일제도 풀기로 했다. 울산에서는 약 6200여 명의 시민이 일주일 중 하루 승용차를 운행하지 않는 승용차 요일제에 참여하고 있다. 참여 차량에는 자동차세 5% 감면, 공영주차장 요금 50% 할인의 혜택을 주고 있는데, 파업 기간 잠시 시민 캠페인을 멈추겠다는 의도다. 공영주차장 94곳 1만1332면, 공공기관 부설주차장 25곳 9736면도 전면 무료로 개방하기로 했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6CRAYIAWOJIXNG46XQ7NX7MRRE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;임단협 난항으로 울산 시내버스 노조가 파업에 들어간 첫날인 7일 오전 울산 중구 병영사거리 인근 버스정류장에서 시민들이 파업 사실을 모르는 듯 버스를 기다리는 모습. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;하지만 이 같은 울산시 대책이 부실하다는 지적이 나온다. 전세버스 등 시내버스를 대체할 수단이 별도로 마련돼 있지 않아서다. 울산시에 따르면 지역에서 운영 중인 전세버스 대부분이 회사 통근버스로 계약돼 있고, 나머지는 관광용이라 전세버스를 확보하지 못했다. 지난달 28일부터 2일까지 시내버스가 멈췄던 창원시도 매일 전세버스를 투입했음에도 시민 불편이 컸다. 중구 유곡동에 거주하는 김모(44)씨는 “지난달부터 노사 협상이 난항을 겪고 있고 노조가 파업을 예고했는데, 대체버스 하나 마련하지 않았다는 것은 행정의 무능이다”라며 “택시를 타거나 자가용 이용을 하라는 것이 행정이 할 소리인가”라고 지적했다. 남구 상개동으로 출퇴근을 한다는 신모(39)씨는 “협상 타결이 주말을 넘기면 출퇴근 불편이 심각할 것이다”라고 우려했다.&lt;br&gt;&lt;br&gt;울산시에 따르면 울산 시내버스 노사는 물밑에서 협상을 이어가고 있다. 현재 노사 협상의 핵심 쟁점은 임금 체계 개편이다. 지난해 12월 대법원 전원합의체 판결에 따라 앞으로는 상여금을 포함한 통상임금을 기준으로 각종 수당을 지급해야 한다. 이때 사측이 져야 할 재정 부담이 지나치게 커지지 않도록 임금 체계를 개편하는 것이 쟁점이었다. 노사는 통상임금 범위 확대를 비롯한 임금 체계 개편에 대해서는 어느 정도 공감했다고 한다. 다만 노조가 새 임금 체계를 만드는 조건으로 총임금 10.47% 인상을 요구하고 있는데, 사측은 재정 부담을 이유로 난색을 보이는 것으로 전해졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>내일 낮 최고 31도...제주·강원은 비</title>
-      <link>https://www.chosun.com/national/transport-environment/2025/06/07/WH6XCZIVW5EKVK4IQFWPWH2VJA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/06/07/WH6XCZIVW5EKVK4IQFWPWH2VJA/</guid>
-      <dc:creator>정해민 기자</dc:creator>
-      <description/>
-      <pubDate>Sat, 07 Jun 2025 01:05:59 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2K6Z37GQOOPURRZLIBC5HZ2NFU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울의 낮 최고기온이 28도를 기록하는 등 초여름 날씨를 보인 6일 오후 서울 종로구 광화문광장 분수대를 찾은 어린이들이 더위를 식히고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;일요일인 8일 내륙 지방을 중심으로 체감 온도가 31도 이상으로 올라 덥겠다.&lt;br&gt;&lt;br&gt;7일 기상청에 따르면, 당분간 전국 대부분 지역에 낮 기온이 25도 이상으로 오를 전망이다. 특히 내륙 지방을 중심으로는 최고 30도 이상까지 오르겠다.&lt;br&gt;&lt;br&gt;8일 아침 최저 기온은 17~21도, 낮 최고 기온은 24~32도로 예보됐다. 이는 평년(최저 14~18도, 최고 22~28도)과 비슷하거나 조금 높은 수준이다.&lt;br&gt;&lt;br&gt;서울 기온은 19~30도, 인천 18~25도, 수원 19~28도, 춘천 19~29도, 강릉 20~26도, 청주 20~31도, 대전 20~29도, 세종 19~28도, 전주 20~30도, 광주 20~29도, 대구 20~30도, 부산 19~25도, 울산 19~28도, 창원 19~27도, 제주 20~24도 등으로 예보됐다.&lt;br&gt;&lt;br&gt;내일 제주도에는 이른 새벽부터 오후 사이 비가 내리는 곳이 있겠다. 예상 강수량은 5mm 미만이다. 또 강원 내륙·산지에는 오후에 5~20mm의 소나기가 내리는 곳이 있겠다.&lt;br&gt;&lt;br&gt;기상청은 “비나 소나기가 내리는 지역에서는 천둥·번개가 치는 곳이 있겠으니, 시설물 관리와 안전 사고에 유의하기 바란다”고 밝혔다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[속보] 전국법관대표회의 임시회의, 6월 30일 다시 열린다</title>
       <link>https://www.chosun.com/national/court_law/2025/06/09/34ADFSS2IRF77F4TQ24NZWX76U/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/09/34ADFSS2IRF77F4TQ24NZWX76U/</guid>
@@ -916,15 +952,6 @@
         <media:description type="plain">/한국건강증진개발원</media:description>
         <media:credit role="author" scheme="urn:ebu"/>
       </media:content>
-    </item>
-    <item>
-      <title>어르신에게 날씨 알려주는 ‘AI 스피커’ 설치했더니… 폭염 질환자 0명</title>
-      <link>https://www.chosun.com/national/transport-environment/2025/06/07/DA2TV7PSFZCR5AXRDQFPVG76ZI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/06/07/DA2TV7PSFZCR5AXRDQFPVG76ZI/</guid>
-      <dc:creator>제주=박상현 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 06 Jun 2025 16:33:08 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G67TF5N5VVGV5PFS7EM7EIJAI4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 4일 오전 제주도 제주시 일도이동의 한 빌라에서 오춘자(90) 할머니가 AI 스피커에서 나오는 날씨 안내를 듣고 있다. /박상현 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“바람이 세게 불민 몸을 못 가시쿠다 획 넘어져 부러. 근디 요놈이 날씨 알려주난 바람 센 날은 안 나감수다.”&lt;br&gt;&lt;br&gt;지난 4일 제주도 제주시 일도이동의 한 빌라에서 오춘자(90) 할머니가 기자에게 ‘바람이 세게 부는 날 외출했다가 몸을 못 가눠 넘어지지 않도록 AI(인공지능) 스피커가 미리 날씨를 알려준다’고 설명했다. 실제 거실에 놓인 음료수병 크기의 작은 AI 스피커에서는 “오늘 제주시에 강풍이 예상된다”는 날씨 안내 음성이 흘러나왔다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TP236BFQCFFW3NBMPZB5BFR2WU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;돌봄 AI 스피커&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제주도는 작년 여름부터 제주시에 사는 독거노인 가정 100곳에 ‘돌봄 AI 스피커’를 설치했다. 사회복지사 등과 안부를 묻는 대화를 나누고, 응급 상황에서 “살려달라” 말하면 119에 바로 신고되도록 했다. 여기에 더해 제주기상청은 ‘읽어주는 폭염(暴炎) 재난 문자’를 전달하기 시작했다. 단순히 ‘덥다’는 정보만 전하는 게 아니라, ‘습도가 높아 숨이 턱턱 막히는 날씨’ ‘볕이 강해 갑자기 쓰러지기 쉬운 날’ 등 외출에 참고할 내용을 담았다. 작년 한 해 AI 스피커 보급 가정에서는 폭염 질환자가 한 명도 발생하지 않으면서, 올여름엔 서귀포시에 사는 독거노인 100가구까지 서비스를 확대하기로 했다. 제주기상청 신선옥 주무관은 “어르신들의 날씨 정보 습득이 용이해져 위험한 날씨를 피하는 데 효과가 크다는 것을 확인했다”고 했다. &lt;br&gt;&lt;br&gt;제주기상청은 폭염뿐만 아니라 강풍, 폭우와 폭설, 짙은 안개 등 제주도에서 빈번한 위험 기상 정보도 수시로 송출한다는 계획이다. 제주기상청 양태규 주무관은 “올해부터는 AI를 활용해 어르신 건강 상태 등을 체크하는 보건복지부와 협업해 전국적으로 서비스를 확대할 계획”이라고 했다.&lt;br&gt;&lt;br&gt;이런 실험을 한 것은 최근 10년 새 제주도의 폭염·열대야 일수가 급격하게 늘었기 때문이다. 제주시의 폭염 일수는 2014년 3건에서 지난해 42건으로 14배로 늘었고, 열대야 일수도 10건에서 75건으로 폭증했다. 제주도의 북쪽 절반인 제주시에서는 고온 다습한 남서풍이 한라산을 타고 넘어오며 더 뜨거워져 폭염이 심하다. &lt;br&gt;&lt;br&gt;바다에서 다소 선선한 남풍이 불어오는 제주 남쪽 서귀포시에서도 온난화 여파로 폭염 강도가 점점 세지고 있다. 서귀포시의 폭염·열대야 일수는 2014년 3건, 9건에서 지난해 26건, 68건으로 크게 늘었다. 제주도 전역이 폭염 위험 지대가 된 셈이다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>법원, 위니아전자에 파산 선고...‘회생 재신청’ 검토 먼저 할듯</title>
@@ -956,33 +983,6 @@
         <media:description type="plain">TV조선 미스터트롯3의 마스터로 활약하고 있는 코미디언 이경규가 미스터트롯 왕관을 들고 2025년 1월 15일 서울 중구 조선일보 스튜디오에서 포즈를 취했다. / 오종찬 기자</media:description>
         <media:credit role="author" scheme="urn:ebu"/>
       </media:content>
-    </item>
-    <item>
-      <title>6·25전쟁 때 행방불명된 남편… 75년 만에 아내와 현충원서 만나다</title>
-      <link>https://www.chosun.com/national/people/2025/06/07/D5DSYESE5RBVXI7IPE42TBWFHE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/06/07/D5DSYESE5RBVXI7IPE42TBWFHE/</guid>
-      <dc:creator>김혜민 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 06 Jun 2025 16:55:15 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZIRWLRB7ABB2VFIJY3ONCQYNPU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;현충일을 하루 앞둔 지난 5일 오후 서울 동작구 국립서울현충원에서 6·25전쟁 당시 행방불명된 아버지를 75년 만에 찾은 유경희씨의 아내 손대영씨가 시아버지를 추모하고 있다. /장련성 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“어머니, 아버지, 저 왔어요. 두 분 같이 재밌게 지내고 계시죠?”&lt;br&gt;&lt;br&gt;5일 오후 3시 아내 손대영씨와 함께 서울 동작구 국립현충원 제2충혼당을 찾은 유경희(75)씨는 봉안실 유리를 한참 어루만졌다. 1950년 6·25 전쟁 때 전사한 부친 유창수씨의 위패가 모셔진 곳이다. 지난달 유씨 모친 황정숙씨가 뇌출혈로 세상을 떠나면서 남편 유씨 위패 옆에는 황씨 유골함이 나란히 놓였다. 유창수·황정숙씨 부부가 이렇게 한 공간에서 함께하는 것은 75년 만이다.&lt;br&gt;&lt;br&gt;부친 유창수씨는 1950년 6·25 전쟁이 발발한 뒤 돌연 행방불명됐다. 유씨는 경기 파주의 한 부대에서 군무원으로 일하고 있었다. 부대가 포위된 후 차를 타고 피란을 가던 중 폭격을 맞았다. 23세 나이로 행방불명 처리된 유씨는 그해 11월 25일 전사 판정을 받았다&lt;b&gt;. &lt;/b&gt;아내 황씨가 18살 때 겪은 일이다. 이후 황씨는 돌도 채 지나지 않은 어린 아들을 홀로 길러내야 했다.&lt;br&gt;&lt;br&gt;아들 유씨와 모친 황씨 사이에서 부친의 죽음은 ‘금기어’였다. 황씨는 다른 사람 앞에서는 남편 얘기를 입 밖에 내지 않았다. 아들 유씨에게만 종종 “아버지는 언젠가 돌아오신다”고 말했다. 남편이 전사 판정을 받았지만 유해가 나오지 않았기 때문이다. 황씨는 평생 ‘남편이 살아 있을 수도 있다’는 희망을 놓지 못했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KBOXU4QTEBFOXGABEL76LU227M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;5일 오후 유경희(사진 왼쪽)가 아내 손대영씨와 함께 서울 동작구 국립현충원에 있는 아버지 위패와 어머니 유골함을 찾았다. /장련성 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그런 믿음으로 황씨는 전사 판정을 받은 남편 제사를 수십 년간 치르지 않았다. 사갑(질병·사고로 일찍 죽은 이가 생존했을 때 맞았을 환갑)이 지나고 난 1987년부터는 매년 음력 11월 18일에 제사를 지내기 시작했다. 살아 생전 마지막으로 남편을 본 날을 제삿날로 삼았다. 황씨가 남편이 돌아올 수 있다는 믿음을 버린 것은 아니었다. 생전 남편과 살았던 경기 용인에서만 황씨는 평생을 살았다. 남편이 돌아온다면 전쟁 전 황씨와 함께 살았던 신혼집이 있는 용인을 찾아올 것이라는 믿음에서였다.&lt;br&gt;&lt;br&gt;2023년 여름, 아들 유씨는 부친 위패가 현충원에 모셔져 있었다는 것을 우연히 알게 됐다. 국방부에서 ‘6·25 전사자 유해 발굴 사업’을 한다는 소식을 듣게 됐고, 국방부는 1년 뒤 유씨에게 “유해는 못 찾았지만, 위패를 현충원에 모시고 있다”고 알려왔다.&lt;br&gt;&lt;br&gt;국방부 연락이 온 바로 다음 날, 유씨는 모친 황씨를 모시고 곧장 현충원을 찾았다. 남편 위패 앞에서 황씨는 한참을 통곡했다. 바닥에 드러누워 발버둥치기도 했다. 황씨 며느리이자 아들 유씨 아내인 손씨는 “평소 한 치 흐트러짐도 없이 곧으셨던 어머니가 그렇게 무너지신 건 처음 봤다”고 했다. &lt;br&gt;&lt;br&gt;먼저 세상을 떠난 남편을 마음속에서 보내지 못하고 평생을 그리워했던 황씨는 지난달 남편과 비로소 한 공간에 머무르게 됐다. 뇌출혈로 사망한 황씨 유골함이 남편 위패가 있는 국립현충원에 모셔진 것이다. 유씨는 “어머니께 생전 ‘돌아가시면 아버지와 같이 모시겠다’고 하니 굉장히 좋아하셨다”며 “75년 만에 두 분이 함께 만났으니, 그동안 힘들게 사셨던 것 모두 잊고 편안히 잠드셨으면 좋겠다는 마음뿐”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[오늘의 날씨] 2025년 6월 7일</title>
-      <link>https://www.chosun.com/national/national_general/2025/06/07/SNRXSFBE7VCNFFTOAQT4DXJP6Q/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/07/SNRXSFBE7VCNFFTOAQT4DXJP6Q/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Fri, 06 Jun 2025 20:48:29 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CW6E6US5ANFZJAQZLBYCNADIQQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[단독] 우크라전 징집 거부 러시아인… 2심은 “난민 아니다”</title>
-      <link>https://www.chosun.com/national/court_law/2025/06/07/PCKJKCN3KJBIVCUMYE7QIOO5DI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/07/PCKJKCN3KJBIVCUMYE7QIOO5DI/</guid>
-      <dc:creator>방극렬 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 06 Jun 2025 20:00:00 +0000</pubDate>
-      <content:encoded>우크라이나 전쟁에 반대한다며 소송을 통해 국내에서 처음으로 난민 지위를 인정받았던 러시아인이 2심에서 패소했다. 서울고법 행정9-3부(재판장 김형배)는 최근 러시아인 A씨가 “난민 불인정 결정을 취소해 달라”며 서울출입국·외국인청장을 상대로 낸 소송에서 원심을 뒤집고 원고 패소 판결을 내렸다.&lt;br&gt;&lt;br&gt;A씨는 러시아의 우크라이나 침공 이후인 2022년 11월 국내에 입국한 뒤 이듬해 1월 난민 신청을 했다. 그는 “징집을 피해 러시아를 탈출했으니 귀국 시 처벌될 수 있다”고 주장했다. 한국 정부가 난민 인정을 거부하자 A씨는 소송을 냈다.&lt;br&gt;&lt;br&gt;쟁점은 A씨가 ‘반전(反戰)’이라는 정치적 동기로 징집을 거부한 게 맞는지 여부였다. 정부는 인종, 종교, 국적, 정치적 의견 등을 이유로 박해받을 공포가 있는 경우 난민으로 인정한다. 단순 징집 거부는 사유가 되지 않는다.&lt;br&gt;&lt;br&gt;1심은 원고 승소 판결을 내렸다. 2022년 4월과 9월 러시아 첼랴빈스크 광장에서 열린 두 차례 ‘반전 시위’에 참여했다는 A씨 진술, 지인들이 작성한 A씨 시위 참여 확인서 등이 근거가 됐다.&lt;br&gt;&lt;br&gt;그러나 2심은 “A씨 진술을 믿기 어렵다”고 했다. A씨는 난민 면접과 소장(訴狀)에서 “2021년 정부 반대 시위에 1차례 참여했다”고 했는데, 재판이 시작되자 “전쟁 발발 후 몇 차례 참여했다” “2022년 4월, 9월 2차례 참여했다” 등으로 말을 바꿨다. 2심은 “시위 참여 시기와 횟수 등 중요 부분에서 일관성이 없다. 우크라이나전에 반대했다고 주장하기 위해 시기를 전쟁 이후로 바꿔 진술한 것 아닌지 의심스럽다”고 지적했다. 또 지인들이 쓴 시위 참여 확인서도 “각기 다른 사람이 작성했는데 내용이 대부분 일치한다”며 “A씨의 부탁을 받고 작성한 게 아닌지 의문”이라고 했다.&lt;br&gt;&lt;br&gt;A씨 상고로 최종 결론은 대법원이 내리게 됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
