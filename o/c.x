@@ -13,6 +13,24 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>도쿄‧다낭 다 밀렸다…올여름 한국인 선호 여행지 1위는 ‘이곳’</title>
+      <link>https://www.chosun.com/national/national_general/2025/06/12/N2KYRCC4GRF6VKHPXCU6TH3TQY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/12/N2KYRCC4GRF6VKHPXCU6TH3TQY/</guid>
+      <dc:creator>이가영 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 11 Jun 2025 22:54:52 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QVKTOJGLTB5QCCP7CLNJ62TPVY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;베트남 나트랑. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;올여름 이른 휴가를 떠나려는 수요가 늘고 있는 가운데, 동남아‧일본 등 단거리 여행지를 찾는 관광객이 증가한 것으로 나타났다. &lt;br&gt;&lt;br&gt;12일 여행 플랫폼 아고다에 따르면, 올해 6~7월 체크인 기준 숙소 검색 데이터를 바탕으로 대한민국 여행객이 선호하는 여행지를 분석한 결과, 베트남 나트랑이 1위로 나타났다. &lt;br&gt;&lt;br&gt;지난해 1위를 기록한 일본 도쿄는 올해 2위로 한 단계 내려왔다. 이어 일본 후쿠오카, 오사카, 베트남 다낭 순으로 집계됐다. &lt;br&gt;&lt;br&gt;아고다에 따르면 올해 상반기 한국인 여행객 수요가 집중된 여행지는 베트남과 일본이다. 고물가 기조가 이어지면서 비교적 물가가 싸고, 가까운 단거리 여행지를 선호하는 것으로 분석됐다. &lt;br&gt;&lt;br&gt;또 중국 칭다오와 상하이 검색량이 각각 212%, 207% 급증했다. 작년 11월 중국 정부의 한국인 대상 한시적 비자 면제 조치가 영향을 미친 것으로 보인다. &lt;br&gt;&lt;br&gt;국내 여행지로는 제주도가 가장 많은 검색량을 기록했다. 이어 서울, 부산, 속초, 강릉 순이다. 특히 속초와 강릉은 작년 말 동해선 개통 이후 교통 접근성이 개선돼 여름철 주요 휴가지로 주목받고 있다. &lt;br&gt;&lt;br&gt;아고다 관계자는 “올여름 극심한 폭염과 긴 장마가 예측됨에 따라 많은 여행객이 여름휴가 일정을 앞당겨 계획하는 것으로 나타났다”고 했다. 직장인 여름휴가가 집중되는 7월 말~8월 초 번잡함을 피할 수 있는 데다 숙소 비용이 성수기 대비 저렴해 경비를 아낄 수 있기 때문으로 풀이된다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘880억원대 부당대출’ 기업은행 전현직 직원 구속</title>
+      <link>https://www.chosun.com/national/court_law/2025/06/12/OB5DVDBIQRACVOFX5J6XUFNEZA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/12/OB5DVDBIQRACVOFX5J6XUFNEZA/</guid>
+      <dc:creator>김은경 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 11 Jun 2025 21:09:04 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Q53LKFQ74GUR4H3VOXJCMKMOGY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;수백억원대 부당대출 의혹을 받는 IBK기업은행 직원 조모씨(왼쪽)와 전 직원 김모씨가 11일 오전 서울 서초구 서울중앙지방법원에서 열린 구속 전 피의자 심문(영장실질심사)에 출석하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;882억원 규모 부당대출 의혹을 받는 IBK기업은행 전·현직 직원이 검찰의 두 차례 영장 청구 끝에 12일 구속됐다. &lt;br&gt;&lt;br&gt;박정호 서울중앙지법 영장 전담 부장판사는 전날 특정경제범죄 가중처벌법 위반(사기) 혐의를 받는 기업은행 직원 조모씨와 전 직원 김모씨에 대해 구속영장 실질 심사를 진행한 뒤 이날 새벽 “증거 인멸할 염려 및 도망할 염려가 있다”며 구속영장을 발부했다.&lt;br&gt;&lt;br&gt;앞서 금융감독원은 국책은행인 기업은행에서 882억원에 달하는 부당대출이 이뤄진 것을 적발하고 검찰에 수사를 의뢰했다.&lt;br&gt;&lt;br&gt;금감원에 따르면 기업은행 퇴직자 김씨는 차명으로 부동산 중개업소와 법무사 사무소를 운영하며 2017년 6월부터 7년간 51차례에 걸쳐 785억원의 부당대출을 받은 것으로 조사됐다. &lt;br&gt;&lt;br&gt;입행 동기나 사모임 등으로 친분을 쌓은 현직 간부 등 임직원 28명과 공모해 대출 관련 증빙이나 자금 부담 여력 관련 서류를 허위로 작성해 대출을 받았다. 검찰은 수사 과정에서 현 직원 조씨가 부당대출을 돕고 그 대가로 김씨에게 금품을 받은 정황을 포착한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;검찰은 지난 3월부터 서울 중구 기업은행 본점 등을 압수 수색한 뒤 4월 말 두 사람에 대한 구속영장을 청구했으나 당시 법원은 “방어권을 보장할 필요가 있다”며 기각했었다. 검찰은 범행 액수가 크고 최근 유사 사건 피의자에게 구속영장이 발부된 점을 고려해 한 달여 만에 구속영장을 다시 청구했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>서초동 법원판 ‘골 때리는 그녀들’... 女판사 30명 풋살팀 이름은?</title>
       <link>https://www.chosun.com/national/court_law/2025/06/12/7CRML2OY7NG5DD6X3ZEJI4A2XU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/12/7CRML2OY7NG5DD6X3ZEJI4A2XU/</guid>
@@ -828,15 +846,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/U65WXUA65BEBTPA4XPFI7SEZ34.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 22일 오후 서울 중구 명동 거리의 모습. 중국어 간판을 단 노점 앞에 관광객들이 모여 있다. 사진은 기사 내용과 직접적인 관련 없음. /장경식 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“탕후루 하오츠(好吃·맛있다).” “전하오칸(眞好看·정말 예뻐요)!”&lt;br&gt;&lt;br&gt;지난 7일 오후 8시 서울 중구 명동 중심가인 명동길에 노점(露店) 220여 개가 500m 가까이 줄지어 있었다. 곳곳에서 중국어로 호객하는 소리가 끊이지 않아 중국 야시장을 옮겨놓은 듯했다. 중국 알바생들이 한국 노래를 중국어로 개사해 부르거나, 손님들에게 다가가 중국어로 “싸요, 싸요!”라고 외쳤다. 이들 대부분은 “사장님이 따로 있지만 나오지 않는다” “내가 노점을 열고 닫는다”고 했다.&lt;br&gt;&lt;br&gt;서울 중구는 지난 2016년부터 노점 실명제를 운영하고 있다. 1년에 약 90만원을 받고 도로 점용 허가증을 내주는 대신 ‘1인 1노점’ ‘본인 직접 운영’ ‘격일제 운영’ 등의 조건을 달았다. 수입이 많지 않은 생계형 노점상을 보호하고, 주인 한 명이 여러 개를 운영하는 기업형 노점은 없애겠다는 취지였다.&lt;br&gt;&lt;br&gt;올해 기준으로 중구에 등록된 노점은 348곳이다. 격일제 운영 원칙에 따르면 하루에 영업 가능한 노점 수는 최대 174곳이다. 그러나 지난달 말부터 최근까지 명동을 찾았더니 영업 중인 노점이 223곳이었다. 이 중 30곳(13.4%)이 사장 없이 직원을 따로 고용해 운영하는 것으로 나타났다. 19곳은 한국인이 아닌 중국 등 외국인 알바생들이 상주하고 있었다.&lt;br&gt;&lt;br&gt;본지는 이들 노점이 현금 계좌 이체를 받기 위해 적어 놓은 은행 계좌 번호와 예금주 이름을 수집·대조해봤다. 2개 이상 노점에서 동일한 예금주 이름을 내걸고 있는 곳이 41개(18.3%)에 달했다. 최대 4개 노점의 예금주가 동일한 곳도 있었다. 이들은 계좌 번호가 적힌 안내판을 평소엔 숨기다가 결제할 때만 손님에게 안내판을 슬쩍 보여주는 방식으로 예금주를 숨기고 있었다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YRYGE6TY7VAA7HM7EHSKDDXX7Q.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=이진영&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;상인 10명에게 노점을 운영하려면 어떻게 해야 하는지 물었다. “외부인은 불가능하다” “소개를 받지 않으면 못 들어온다”는 답이 돌아왔다. 노점 경력 10년 차 A씨는 “무턱대고 외부인에게 넘기진 않는다”며 “친인척이나 가족, 가까운 지인들에게 돈을 받고 운영을 맡긴다”고 했다. 명동 노점 상황을 잘 아는 주변 업주들이 입을 모아 “구에 도로 사용료로 1년에 90만원만 내면서 수십 배를 받아 챙기는 구조”라며 “억대 연봉이 넘는 일부 상인 중심의 ‘노점 카르텔’이 공고해졌다”고 하는 이유다.&lt;br&gt;&lt;br&gt;서울 중구는 작년 명동 노점의 약 80%를 사업자로 등록하고 카드 단말기를 도입하도록 했다. 바가지요금과 현금 결제 강요, 불친절함 등으로 논란이 커지자 중구가 내놓은 대책이었다. 당시 중구는 “‘대한민국 관광 1번지’라는 명성을 되찾고 신뢰를 회복하려는 차원”이라고 했다. 그러나 본지가 지난달 29일 저녁 명동길 노점 223곳에 카드 결제 가능 여부를 물은 결과, 약 25%(55곳)가 “현금 결제만 된다”고 했다. 카드 단말기가 설치돼 있는 노점들도 “1만원 이상 구매할 때만 카드 결제가 가능하다”고 했다. 이날 분식을 파는 노점에서 떡볶이와 어묵 꼬치 9000원어치를 주문한 남성 손님이 카드를 내밀자 주인이 “카드는 안 된다. 계좌 이체를 하라”며 계좌 번호판을 가리켰다.&lt;br&gt;&lt;br&gt;등록 노점은 도로 점용 허가를 받은 뒤 본인이 직접 운영해야 한다. 그러나 본지가 상인들과 인근 부동산을 취재한 결과 1억~2억원 상당의 권리금을 받고 자리를 넘기거나, 월세 150만~300만원에 세를 놓는 ‘매대 임대업’도 이뤄지고 있었다. 사업자로 등록한 업주가 다른 세입자에게 노점을 임대하고, 이 세입자가 다시 외국인 알바를 고용해 운영을 맡기는 식으로 노점 하나에 ‘다단계’ 운영이 이뤄지는 것이다.&lt;br&gt;&lt;br&gt;한 업주가 여러 노점을 운영하는 ‘기업형 노점’들이 명동에서 늘면서 주변 점포들도 피해를 호소하고 있다. 명동의 한 부동산 업자는 “주변 식당 업주들이 ‘우린 꼬박꼬박 세금을 내는데, 노점상들은 현금으로 장사하면서 세금을 회피하고, 1년에 도로 사용료 90만원만 내면 되니 이런 불공정 게임이 없다’며 분통을 터뜨리고 있다”고 했다.&lt;br&gt;&lt;br&gt;격일제 원칙을 어기면서 여러 노점을 운영하는 경우가 많아지다 보니 보행권 침해도 심각하다. 중구의 단속 건수는 2023년 75건에서 올해는 5월까지 5건으로 해마다 줄고 있다. 구의 단속이 형식적이란 비판도 거세지고 있다. 명동의 한 부동산 관계자는 “작년 봄 야광봉을 든 단속반이 명동길을 순찰하자 평소엔 찾아보기 힘들었던 노점 주인들이 줄줄이 나와 ‘당신이 노점 주인이었나’라고 서로 묻기도 했다”고 했다.&lt;br&gt;&lt;br&gt;노점 실명제를 2020년부터 운영한 서울 동대문구는 2022년부터 특별사법경찰관(특사경) 제도를 도입해 최근 3년간 지역 내 노점 572곳 중 233곳을 철거했다. 이 중 서울시나 구의 정식 허가를 받은 노점도 69곳(29.6%)이나 포함됐다. 허가를 받았더라도 대리 운영이나 다점포 방식 등으로 기업형으로 운영되면 허가를 취소하고 철거하는 방식이다. &lt;br&gt;&lt;br&gt;당초 동대문구도 명동처럼 노점 운영권을 남에게 팔아넘기거나 한 사람이 여러 곳을 운영하는 등 ‘기업형 노점’을 단속하는 데 어려움을 겪었다. 구 직원이 단속을 위해 신분증 제시를 요구해도 “권한이 없지 않느냐”며 노점 주인들이 이를 거부했다고 한다. 이에 동대문구는 직원 7명을 특사경으로 지정해 관할 구역별로 배치, 정기 단속과 수시 점검을 병행하기 시작했다. 이 직원들이 현장을 직접 조사해 노점 운영자 인적 사항과 운영 이력을 대조해 무단 임대·명의 변경 등 실명제 위반 사례를 적발하고 있다.&lt;br&gt;&lt;br&gt;&lt;b&gt;☞노점 실명제&lt;/b&gt;&lt;br&gt;&lt;br&gt;생계형 노점 보호와 기업형 노점 차단을 위해 ‘1인 1노점’ ‘본인 직접 운영’ ‘격일제 영업’을 조건으로 도로점용 허가를 내주는 제도다. 서울 중구가 2016년부터 명동 일대 노점들을 대상으로 시행하고 있다. 실소유자와 운영자가 일치해야 하며 대리 영업, 다점포 운영 등은 금지된다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[신문은 선생님] [알립니다] 중학생 NIE 과정 수강생 모집</title>
-      <link>https://www.chosun.com/national/nie/2025/06/11/FAWTAQD2D5ESPDYP246IGPZTUY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2025/06/11/FAWTAQD2D5ESPDYP246IGPZTUY/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Tue, 10 Jun 2025 16:54:46 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TVN4NER66VEVXLSZMCKPL5M4HM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;조선일보NIE교육센터에서 중학생 대상 NIE 수강생을 모집합니다. NIE(신문 활용 교육) 수업은 시사·인문·과학 등 다방면의 기사를 읽고 사고력과 창의력을 키우는 수업입니다. 매주 신문을 함께 읽다 보면 자연스레 어휘력과 독해력이 길러지고, 세상을 바라보는 시야가 넓어집니다. 자세한 내용은 홈페이지(&lt;a href="https://nie.chosun.com" rel="" title="https://nie.chosun.com"&gt;nie.chosun.com&lt;/a&gt;)를 참고하세요.&lt;br&gt;&lt;br&gt;▲&lt;b&gt;개강 일정&lt;/b&gt;: 7월부터·강좌별 상이&lt;br&gt;&lt;br&gt;▲&lt;b&gt;수강료&lt;/b&gt;: 30만원&lt;br&gt;&lt;br&gt;▲&lt;b&gt;수업 일정&lt;/b&gt;: 목·금·토·일&lt;br&gt;&lt;br&gt;▲ &lt;b&gt;문의&lt;/b&gt;: 02-724-6024, 02-6956-6109&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>대웅재단, AI 분야 육성 위해 숙명여대에 5억원 기부</title>
       <link>https://www.chosun.com/national/people/2025/06/11/N727UDIS4ZC7VM477BBEFX5KVE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/people/2025/06/11/N727UDIS4ZC7VM477BBEFX5KVE/</guid>
@@ -844,15 +853,6 @@
       <description/>
       <pubDate>Tue, 10 Jun 2025 16:42:51 +0000</pubDate>
       <content:encoded>대웅재단은 인공지능(AI) 분야 인재 육성과 연구 지원을 위해 숙명여자대학교에 5억원을 기부했다고 10일 밝혔다. 이는 대웅제약 창업주의 배우자인 고(故) 장봉애 대웅재단 명예이사장의 뜻에 따른 것으로, 장 명예이사장은 2022년에도 숙명여대 디지털 휴머니티센터 건립에 10억원을 기부한 바 있다. 대웅재단은 이번 기부로 숙명여대 ‘디지털휴머니티센터’가 ‘장봉애 AI 센터’로 새롭게 출범한다고 밝혔다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>점차 사라져가는 여고</title>
-      <link>https://www.chosun.com/national/education/2025/06/11/UIQLYVIONBAXXOIF56RML4NBOA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2025/06/11/UIQLYVIONBAXXOIF56RML4NBOA/</guid>
-      <dc:creator>표태준 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 10 Jun 2025 16:18:35 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GVEJFL7KQFC3DINMDP274AGWTU.png"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=이진영&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 광진구에 있는 동국대사범대부속여고는 지난 3월 개교 95년 만에 처음으로 남학생을 받기 시작했다. 교명도 동국대사범대부속가람고로 바꿨다. 20년 전 1000명이 넘었던 학생 수가 작년 600명대로 추락하며 학교 운영이 어려워지자 남녀공학으로 전환한 것이다. 올해 서울에는 이처럼 남녀공학으로 전환한 고교가 총 5곳인데, 모두 여고다. 남고는 한 곳도 없었다.&lt;br&gt;&lt;br&gt;학령인구 감소로 남녀공학으로 전환되는 남고·여고가 빠르게 늘어나는 가운데, 특히 여고의 소멸 속도가 빠른 것으로 나타났다. 10일 한국교육개발원 교육통계서비스에 따르면, 2000년 기준 496개였던 여고는 작년 기준 411개로 85곳(17.1%)이 사라진 반면, 같은 기간 남고는 443개에서 392개로 51개(11.5%) 줄었다.&lt;br&gt;&lt;br&gt;여고 인기가 줄어드는 가장 큰 이유로 ‘내신 경쟁 부담’이 꼽힌다. 실제 광주광역시 광산구에 있는 명진고는 작년 6월 시교육청에 남녀공학 전환을 신청하며 신입생 모집 실패 원인을 ‘지나친 내신 경쟁 부담에 따른 여고 기피 현상’이라고 분석했다. 여학생들은 대체로 성실하고 야무져서 학교 중간·기말고사나 수행평가 경쟁이 치열하다는 것이다. 2021년까지만 해도 학생 수 600명이 넘었던 명진고는 작년 전교생이 99명까지 추락했다가 올해 남학생을 받으며 200명을 넘겼다.&lt;br&gt;&lt;br&gt;임성호 종로학원 대표는 “수능과 달리 내신 성적 관리에는 암기와 성실성이 중요해 여학생들이 남학생보다 유리하다는 인식이 강하다”며 “여학생은 남녀 공학을 선호하고, 남학생은 남고를 선호하다 보니 일부 명문 여고를 제외하곤 여고의 설 자리가 계속 줄어드는 것”이라고 했다. &lt;br&gt;&lt;br&gt;올해 고1부터 ‘고교학점제’가 전면 시행되면서 여고 기피 현상이 더 심해질 것이라는 전망도 나온다. 고교학점제와 함께 내신 등급제가 기존 9등급제에서 5등급제로 바뀌어서 1등급 비율이 기존 4%에서 10%로 확대됐다. 1등급을 받을 가능성은 커졌지만, 동시에 실수로 1등급을 놓치면 주요 대학에 갈 수 없다는 부담감은 더 커졌다. 이 때문에 내신 경쟁이 치열한 여고 진학을 더 꺼리게 된다는 것이다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>서울 조계사 화재, 300명 대피… 인명 피해는 없어</title>
