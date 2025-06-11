@@ -13,6 +13,94 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>“병 간호 지쳐서”...아내 탄 차 불질러 살해한 남편 구속 송치</title>
+      <link>https://www.chosun.com/national/2025/06/11/XS5D426QMBEULPQ4BG6NJZRY34/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2025/06/11/XS5D426QMBEULPQ4BG6NJZRY34/</guid>
+      <dc:creator>김준호 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 11 Jun 2025 10:13:41 +0000</pubDate>
+      <content:encoded>충남 홍성경찰서는 차에 불을 질러 아내를 살해한 혐의(살인)로 A(61)씨를 구속 송치했다고 11일 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HT7BDFCL7FVPHU5PFKUSQEVPZU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 2일 오후 충남 홍성군의 한 저수지 부근에서 A씨가 아내에게 수면제를 먹이고 차에 태워 불을 질러 살해한 현장. /홍성소방서&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;A씨는 지난 2일 오후 8시 22분쯤 홍성군 갈산면 한 저수지 인근 도로에서 아내 B(58)씨가 타고 있던 승용차에 불을 질러 숨지게 한 혐의를 받는다.&lt;br&gt;&lt;br&gt;A씨는 범행 전 아내가 먹는 우울증 약에 수면제를 추가해 먹인 후 차량에 번개탄을 피워 함께 목숨을 끊으려고 했다가 혼자 차에서 빠져 나왔다. 번개탄 불이 차량으로 옮겨 붙으면서 차에 있던 아내만 숨졌다. A씨는 팔에 가벼운 화상을 입어 병원에서 치료를 받았다. &lt;br&gt;&lt;br&gt;A씨는 경찰 조사에서 범행을 시인했다. A씨는 “아내가 10년간 우울증 등으로 투병 생활을 해왔고 최근에는 섬망 증세가 심해져 같이 죽으려 했다”면서 “아내는 죽는 것에 동의하지 않았지만 내가 수면제를 먹였다”는 취지로 진술했다고 한다. 경찰 조사결과 A씨는 범행 일주일 전부터 온라인을 통해 범행 도구를 샀으며, 휴대전화로 ‘한적한 저수지’ 등을 검색하는 등 범행 장소를 물색한 것으로 확인됐다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>檢, 거액 관세 포탈 혐의 받는 OB맥주 직원 기소</title>
+      <link>https://www.chosun.com/national/national_general/2025/06/11/5LFAVIGVY5FWRP2LFXX6AKLBAM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/11/5LFAVIGVY5FWRP2LFXX6AKLBAM/</guid>
+      <dc:creator>김혜민 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 11 Jun 2025 10:02:21 +0000</pubDate>
+      <content:encoded>서울북부지검 조세범죄조사부(부장 안광현)는 지난달 20일 OB맥주 직원 정모씨를 특정범죄 가중처벌 등에 관한 법률 위반(관세) 혐의로 구속 기소했다고 11일 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AHUZE6KINJLF6N66FN22ZKFVUU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;오비맥주&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;OB맥주에서 구매 업무를 맡던 정씨는 수입 맥아(麥芽)의 세율 차이를 노리고 허위 방식으로 거래한 혐의를 받는다. &lt;br&gt;&lt;br&gt;맥아는 맥주 제조에 쓰이는 핵심 원재료로, 국내 주류업계는 전체 수요의 90% 이상을 수입에 의존한다. 업체들은 관세청에 사전 신청해 정해진 분량만큼 수입할 시 30%의 세율을 적용받지만, 이를 초과하면 세율은 최대 269%까지 급등한다. 정씨는 이 점을 노려 초과분을 회사 명의가 아닌 외부 업체를 통해 들여온 뒤, 다시 회사에 유통시키는 방식으로 관세 부담을 회피한 것으로 밝혀졌다.&lt;br&gt;&lt;br&gt;이 사건은 관세청이 처음 적발한 것으로 알려졌다. 관세청은 OB맥주가 그간 이러한 편법으로 수백억 원이 넘는 관세를 포탈한 것으로 보고 사건을 검찰에 넘겼다.&lt;br&gt;&lt;br&gt;이 사건과 관련해 검찰은 “정씨 개인의 범행인지, OB맥주 기업 차원에서 조직적 개입이 있었는지 여부도 추가로 수사할 예정”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/AHUZE6KINJLF6N66FN22ZKFVUU.jpg?auth=f28d97cd26ddec5c6efe806a8eaa5fea6d3b3ea1695cd321c6f2a1ccbdad928a&amp;smart=true&amp;width=1099&amp;height=481" type="image/jpeg" height="481" width="1099">
+        <media:description type="plain">오비맥주</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>‘뇌물 혐의’ 문재인 전 대통령, 울산지법으로 관할 이송 신청</title>
+      <link>https://www.chosun.com/national/court_law/2025/06/11/D6OVREFT65AY7HD2XI52PJO2VM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/11/D6OVREFT65AY7HD2XI52PJO2VM/</guid>
+      <dc:creator>김희래 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 11 Jun 2025 09:42:13 +0000</pubDate>
+      <content:encoded>뇌물 수수 혐의로 서울중앙지법에서 재판을 받게 된 문재인 전 대통령이 울산지법으로 재판 관할 이송을 신청했다.&lt;br&gt;&lt;br&gt;11일 문 전 대통령 측은 해당 사건을 심리하는 서울중앙지법 형사합의21부(재판장 이현복)에 사건 이송신청서를 제출했다. 문 전 대통령의 거주지인 경남 양산 관할인 울산지법으로 사건을 이송해달라고 신청한 것이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RJXAIZY3TZOSXGGZS2FFA2IZPQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;문재인 전 대통령. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;형사소송법 4조 1항은 범죄지, 피고인의 주소, 거소 또는 현재지에 따라 최초 관할 법원을 결정하라고 규정한다. 문 전 대통령 측 김형연 변호사는 “검찰은 서울이 범죄지라는 이유로 서울중앙지법에 이 사건을 기소했다”면서 “그러나 이 사건의 수사는 전주지검에서 진행됐고, 이는 범죄지가 아무런 의미가 없다는 방증”이라고 했다. 그는 또 “서울에서 재판이 진행되면 올해 72세인 문 전 대통령이 경호 인력과 함께 하루 8시간에서 10시간 가량을 재판 받으러 움직여야 하는 상황도 고려했다”고 덧붙였다.&lt;br&gt;&lt;br&gt;문 전 대통령 측은 이날 법무법인 부산의 변호사를 선임한다는 변호인 선임서와 오는 17일로 지정된 1차 공판준비기일을 변경해달라는 공판준비기일 변경신청서도 함께 제출했다.&lt;br&gt;&lt;br&gt;앞서 전주지검은 특정범죄 가중처벌 등에 관한 법률 위반(뇌물) 혐의로 문 전 대통령을 불구속기소 했다. 문 전 대통령에게 뇌물을 건넨 혐의를 받는 이상직 전 더불어민주당 의원도 함께 재판에 넘겼다. 당시 검찰은 서울중앙지법에 사건을 기소하며 해당 사건은 청와대를 중심으로 발생한 것이라고 설명했다.&lt;br&gt;&lt;br&gt;문 전 대통령은 이 전 의원이 실소유하고 있던 타이이스타젯에 자신의 옛 사위인 서모씨를 채용하게 한 뒤 지난 2018년 8월14일부터 2020년 4월30일까지 급여·이주비 명목으로 594만5632바트(한화 약 2억1700여만원)의 뇌물을 수수한 혐의를 받고 있다. &lt;br&gt;&lt;br&gt;검찰은 서씨의 취업 후 딸 다혜씨 부부에게 생활비 지원을 중단한 것이 결과적으로 문 전 대통령 부부의 경제적 이득으로 이어졌다는 점에서 해당 금액이 뇌물이라고 판단했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>소음방송 피해 호소 강화군 주민들 “북한도 중단하길”</title>
+      <link>https://www.chosun.com/national/national_general/2025/06/11/TNPWXZZNE5GT3DGFDJZGZHXWSE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/11/TNPWXZZNE5GT3DGFDJZGZHXWSE/</guid>
+      <dc:creator>인천=이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 11 Jun 2025 09:02:27 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MFFAT7WNUREP3AM5N4YZF2TDWY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;인천 강화군 송해면 당산리에서 바라본 대남방송 확성기 모습. /박성원 기자
+&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;북한의 대남 소음 방송으로 장기간 피해를 보고 있는 인천 강화군이 11일 우리 군의 대북 확성기 방송 중단 조치에 환영의 뜻을 밝혔다. &lt;br&gt;&lt;br&gt;강화군은 이날 입장문을 통해 “정부의 결정을 환영한다”며 “그동안 대북 방송 중단을 요청한 군민들의 요청이 이제야 결실을 보게 됐다”고 밝혔다. &lt;br&gt;&lt;br&gt;이어 “이번 결정으로 북한의 대남 소음 공격이 중단돼 군민들이 일상으로 돌아갈 수 있길 기대한다”고 했다. &lt;br&gt;&lt;br&gt;인천 강화군 송해면 등 북부 지역 접경지에선 지난해 7월부터 쇠 긁는 소리와 귀신 소리 등 북한에서 송출되는 기괴한 소음 방송의 피해를 입고 있다. 이 일대 주민들은 수면 장애와 두통 등 정신적‧육체적 피해를 호소하고 있다. 숙박업 등 지역 관광 산업에도 악영향이 있었다. &lt;br&gt;&lt;br&gt;강화군 주민들로 구성된 ‘대북‧대남 방송 대책위원회’는 앞서 “대북 전단 살포로 대남 오물 풍선이 날아들고, 대북 방송은 대남 방송으로 이어지고 있다”며 “대북 방송과 대남 방송을 모두 즉각 중단해야 한다”고 촉구했다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“진짜 공무원인가요?”…600만뷰 대박난 군산시 이 영상</title>
+      <link>https://www.chosun.com/national/national_general/2025/06/11/RMJARMYUVRFGFF4NYHGMRE35M4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/11/RMJARMYUVRFGFF4NYHGMRE35M4/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 11 Jun 2025 08:49:28 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/URB6B7FGWFH4DF6AY4SIV4ZQYE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;박지수 주무관이 출연해 600만뷰를 돌파한 영상. /군산시 인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;충주시 등 전국 지자체가 홍보를 위해 경쟁적으로 영상 제작에 나선 가운데 전북 군산시의 영상이 조회 수 600만회를 돌파하면서 ‘제2의 충주맨’이라는 반응이 나오고 있다.&lt;br&gt;&lt;br&gt;11일 전북 군산시에 따르면 대선을 앞두고 군산시 공식 소셜미디어에 게시됐던 ‘공무원이 투표 날 듣는 가장 공포스러운 말 Top4’가 이날 기준 소셜미디어와 유튜브를 합쳐 600만뷰를 돌파했다. &lt;br&gt;&lt;br&gt;해당 영상은 군산시 공보협력과 고향사랑기부계 박지수(31) 주무관이 출연해 재치 있는 음악에 춤을 추면서 투표소에서 흔히 볼 수 있는 빌런 유형을 소개해 투표 시 주의 사항을 홍보하는 내용이다. &lt;br&gt;&lt;br&gt;박 주무관은 지난해 11월에도 말 뒷발에 차이는 혼신의 연기로 온라인상에서 주목받은 바 있다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HTQSN6HOUFGQ3I5DQPOCGWVL24.gif"&gt;&lt;figcaption&gt;&lt;small&gt;지난해 11월 박지수 주무관이 출연해 화제가 된 영상. /군산시 인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;군산시 공식 소셜미디어를 통해 박 주무관이 촬영한 영상을 본 네티즌들은 “이건 진짜 수당 챙겨 줘야 한다” “이분 전문 배우인가요?” “진짜 공무원이 맞나요?” “군산 시민도 아닌데 나를 여기로 이끈 영상” 등의 반응을 보였다. &lt;br&gt;&lt;br&gt;박 주무관은 연합뉴스와의 인터뷰에서 “사실 대선 홍보 영상은 옆 부서인 미디어홍보계 업무인데 촬영 콘셉트가 조금 독특한 측면이 있어 촬영할 사람이 없다는 이야기를 들었다”면서 “과에서 막내 직급이기도 하고, 영상 찍는 데 큰 거부감이 없어 제가 나서서 촬영하게 됐다”고 했다.&lt;br&gt;&lt;br&gt;박 주무관은 “처음에는 부끄러운 것도 있고, 좀 웃기는 장면이 많아서 주변에 영상을 찍었다는 사실을 알리지 않았는데 조회 수가 올라가다 보니 지인들이 먼저 연락하기 시작했다”며 “그냥 평소대로 과에서 찍는 홍보 영상을 촬영한 건데 반응이 뜨거워 놀랐다”고 했다.&lt;br&gt;&lt;br&gt;‘제2의 충주맨’이라는 별명에 대해서는 “김선태 주무관은 공무원 홍보계에서 ‘신’과 같은 존재”라며 “저와 비교할 수 없는 분이다. 그런 이야기를 듣는 것만으로도 영광이고, 앞으로 더 열심히 하라는 뜻으로 알고 겸손하게 맡은 업무를 해나가겠다”고 했다.&lt;br&gt;&lt;br&gt;한편 김선태 주무관은 ‘B급 감성’으로 시민들에게 접근해 충주시 공식 유튜브 채널인 ‘충TV’를 전국 지자체 최고의 홍보 채널로 키워냈다. 2016년 10월 입직한 김선태 주무관은 이런 공로를 인정받아 불과 7년 만에 6급 주무관으로 초고속 승진하기도 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/URB6B7FGWFH4DF6AY4SIV4ZQYE.jpg?auth=56ef8f790d6a287210b5ded59c55561b25468b0c9e1d8fe28107f06229a23706&amp;smart=true&amp;width=1046&amp;height=812" type="image/jpeg" height="812" width="1046">
+        <media:description type="plain">박지수 주무관이 출연해 600만뷰를 돌파한 영상. /군산시 인스타그램</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>검찰, 휴대전화 가입 정보 이용해 살해 예고·금품 갈취 시도한 40대男 구속 기소</title>
+      <link>https://www.chosun.com/national/court_law/2025/06/11/ORDDZT6335C5NGFKNTWK2N7TUA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/11/ORDDZT6335C5NGFKNTWK2N7TUA/</guid>
+      <dc:creator>박강현 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 11 Jun 2025 09:01:40 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JA3X5VBMUVAEHIV7GM2FPMZWCQ.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;서울중앙지검. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;휴대전화 판매점 운영 당시 알게 된 개인정보를 이용해 돈을 뜯을 목적으로 스토킹을 하고 살해 위협 등을 한 40대 남성이 구속 상태로 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;서울중앙지검 형사7부(부장 권성희)는 택배운송업자 김모(45)씨를 공갈미수, 스토킹처벌법 위반, 개인정보보호법 위반 혐의 등으로 구속 기소했다고 11일 밝혔다. &lt;br&gt;&lt;br&gt;검찰에 따르면 김씨는 지난 4월쯤 휴대전화 가입자 개인정보를 이용해 피해자로부터 1억원을 갈취하려고 하고, 피해자 일가족에 대한 살해 위협 등을 한 혐의를 받는다.&lt;br&gt;&lt;br&gt;검찰 수사 결과 김씨는 과거 휴대전화 판매점을 운영하며 알게 된 개인정보를 바탕으로 피해자를 범행 대상으로 골랐다. &lt;br&gt;&lt;br&gt;이후 피해자가 김씨의 공갈미수 범행을 경찰에 신고하자, 김씨는 보복 협박을 지속하는 등 수차례에 걸쳐 피해자의 주거에 침입하고 협박성 문자메시지 등을 보낸 것으로도 조사됐다. &lt;br&gt;&lt;br&gt;당초 경찰은 공갈미수 혐의 등을 적용해 이 사건을 송치했다. 하지만 검찰은 범행 배경이 불분명하고 피해자 가족이 범행 대상이 된 이유도 명확하지 않아 보복을 우려한 점을 수상하게 여겼다. &lt;br&gt;&lt;br&gt;이에 따라 김씨의 가족 및 피해자 재조사 등 보완 수사를 거쳐 김씨의 스토킹처벌법 위반과 개인정보보호법 위반 혐의도 확인했다고 한다. 검찰은 지난달 26일 김씨를 공갈미수, 스토킹처벌법 위반 혐의 등으로 구속 기소한 뒤 이날 개인정보보호법 위반 혐의로 추가 기소했다.&lt;br&gt;&lt;br&gt;아울러 검찰은 피해자 가족에 대한 심리 치료 등 피해자 지원 절차도 진행했다고 밝혔다. 검찰 관계자는 “휴대전화 가입자의 개인정보를 불법 이용한 범죄는 국민 일상에 심대한 위협이 된다”며 “향후 유사 범죄를 엄단하고, 범죄 피해자 보호에도 만전을 기하겠다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“캐나다 초고층 아파트 짓겠다” 102억 사기 치고 해외 도피…20년 만에 ‘징역 7년’ 단죄</title>
+      <link>https://www.chosun.com/national/court_law/2025/06/11/2UKUXBD3WFGJNJZ5UHLEA4M7SE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/11/2UKUXBD3WFGJNJZ5UHLEA4M7SE/</guid>
+      <dc:creator>박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 11 Jun 2025 08:46:06 +0000</pubDate>
+      <content:encoded>캐나다 밴쿠버에 초고층 아파트를 짓겠다고 투자자를 속여 102억원을 가로챈 뒤 해외로 도피한 사업가가 범행 20년 만에 1심에서 징역 7년을 선고받았다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NZNZRZIOFZE47JEH7UJYA5XLKU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울중앙지법, 서울고법. /박강현 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지법 형사25부(재판장 지귀연)는 11일 특정경제범죄 가중처벌법상 사기 혐의로 기소된 건설 시행사 대표 정모씨에게 징역 7년을 선고했다. 재판부는 기존 허용했던 보석을 취소하고 정씨를 법정 구속했다.&lt;br&gt;&lt;br&gt;정씨는 재판 과정에서 “공소시효가 지났다’고 주장했지만, 재판부는 그가 캐나다에 출국해 있던 기간 동안 공소시효가 중단됐다고 보고 이를 받아들이지 않고 그의 모든 혐의를 유죄로 인정했다. &lt;br&gt;&lt;br&gt;재판부는 “이 사기 범행으로 인한 산술적 피해액은 명목 금액만으로도 100억원이 넘는 것으로 보이고, 현재 기준으로 환산할 경우 더 높을 것으로 보인다”며 “무엇보다 피해자는 이로 인해 대부분의 재산을 상실하고, 현재까지 심각한 고통을 입고 있다”고 했다.&lt;br&gt;&lt;br&gt;또 “피고인은 15년가량 형사처벌을 면할 목적으로 국외에 체류하다 범죄인 인도 절차를 통해 강제 송환됐다”며 “그동안 피해 회복이 이뤄진 사정을 찾아보기 힘들고, 이미 1998년 사기죄로 징역형의 집행유예를 선고받은 전력도 있다”고 지적했다. &lt;br&gt;&lt;br&gt;정장 차림으로 법정에서 고개를 숙인 채 선고를 듣던 정씨는, 선고가 끝나자 “그동안 많은 기회를 주셔서 대단히 감사드리고 앞으로 반성하겠다”고 말했다.&lt;br&gt;&lt;br&gt;정씨는 2005년 캐나다 밴쿠버에 초고층 아파트를 짓는 데 쓰겠다며 한국인 투자자에게 102억원을 받아 가로챈 혐의로 기소됐다. 정씨로부터 사기를 당했다는 고소가 수사기관에 접수된 2008년 7월에는 이미 정씨가 해외로 도피한 상태였다.&lt;br&gt;&lt;br&gt;정부는 2012년 4월 캐나다 법무부에 정씨에 관해 범죄인 인도를 요청했지만, 캐나다 당국의 자료 보완 요구 등으로 송환이 지연됐다. 정씨는 약 15년간 외국에서 소송과 난민 신청 등을 제기하며 도피 생활을 이어갔다.&lt;br&gt;&lt;br&gt;강제 송환이 결정된 이후에도 정씨는 변호사를 선임해 불복 소송에 나섰고, 2023년 9월에서야 캐나다 대법원에서 범죄인 인도 결정이 확정됐다. 정씨는 그해 10월 강제 송환돼 재판에 넘겨졌다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>학교 앞 40대 여성이 준 젤리 먹은 초등생들 ‘배탈 증세’…경찰 수사</title>
+      <link>https://www.chosun.com/national/incident/2025/06/11/CPYMTR4WVJGSBMEOLUDM6AUJZU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/06/11/CPYMTR4WVJGSBMEOLUDM6AUJZU/</guid>
+      <dc:creator>인천=이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 11 Jun 2025 08:43:50 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/54FTUISTLZDHJELX6W5GW5V5XU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천의 한 초등학교 앞에서 40대 여성이 나눠준 젤리를 먹은 학생들이 배탈 증세를 보인다는 신고가 접수돼 경찰이 수사에 나섰다. &lt;br&gt;&lt;br&gt;11일 인천 부평경찰서에 따르면 이날 오후 1시 9분쯤 인천 부평구 청천동의 한 초등학교 앞에서 ”모르는 사람이 나눠준 젤리를 먹은 학생들이 배탈이 났다“는 신고가 접수됐다.&lt;br&gt;&lt;br&gt;신고자는 이 학교 교감으로, 젤리를 받아 먹은 초등학생 6명 중 4명이 울렁거림과 메스꺼움 등 증세를 호소하자 경찰에 신고한 것으로 파악됐다. 젤리를 먹은 초등학생들은 인근 병원에서 치료를 받았다. &lt;br&gt;&lt;br&gt;초등학교 5학년인 피해 학생들이 학교에서 점심을 먹은 뒤 하교길에 정문 근처에서 젤리를 받은 것으로 알려졌다. &lt;br&gt;&lt;br&gt;현장에 출동한 경찰은 젤리를 나눠준 40대 여성 A씨를 지구대로 임의동행해 조사한 뒤 일단 귀가조치했다. A씨는 이 학교 학부모나 관계인은 아닌 것으로 확인됐다.&lt;br&gt;&lt;br&gt;A씨는 경찰에 “아이들이 보이길래 내가 먹고 있던 젤리를 나눠줬다”는 취지로 경찰에 진술한 것으로 전해졌다. &lt;br&gt;&lt;br&gt;A씨가 나눠준 젤리는 성인 손가락 정도 크기로, 한 개씩 포장돼 있었다고 한다. 포장지엔 유통기한이 적혀있었는데, 1년 정도 지난 것으로 파악됐다. &lt;br&gt;&lt;br&gt;경찰은 A씨를 상대로 유통기한이 지난 젤리를 나눠준 이유 등을 조사할 예정이다. &lt;br&gt;&lt;br&gt;또 국립과학수사연구원에 A씨가 나눠준 젤리의 성분 검사를 의뢰할 예정이다. &lt;br&gt;&lt;br&gt;경찰 관계자는 “A씨를 상대로 젤리를 나눠주게 된 경위 등을 더 조사할 예정”이라며 “상해 혐의 적용 여부를 들여다보고 있다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>서울 서대문구에 ‘아펜젤러길’, ‘스크랜튼길’ 생긴다</title>
+      <link>https://www.chosun.com/national/national_general/2025/06/11/JVOROXYYEFFQ5JAT2IZUF3XDWU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/11/JVOROXYYEFFQ5JAT2IZUF3XDWU/</guid>
+      <dc:creator>김영우 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 11 Jun 2025 08:27:59 +0000</pubDate>
+      <content:encoded>각각 배재학당과 이화학당을 설립한 선교사 헨리 아펜젤러, 메리 스크랜튼을 기리는 길이 서울 서대문구에 생긴다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7UOSZEYVNRY3ACEDOICYCKZH2A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;언더우드길·스크랜튼길·아펜젤러길 명예도로 구간. /서울 서대문구&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서대문구는 오는 16일과 20일 각각 ‘아펜젤러길’과 ‘스크랜튼길’ 명예도로명 지정을 기념하는 행사를 연다고 11일 밝혔다.&lt;br&gt;&lt;br&gt;아펜젤러길 명예도로명 지정 기념 행사는 16일 오전 10시 30분 감리교신학대학교 신석구목사기념관 앞에서 열린다.&lt;br&gt;&lt;br&gt;헨리 아펜젤러는 한국 최초의 근대식 사립 학교 배재학당을 설립하고 한국에 감리교를 전파한 인물이다. 이를 고려해 감리교신학대 앞을 지나는 통일로·독립문로 669m 구간이 아펜젤러길로 지정된다.&lt;br&gt;&lt;br&gt;서대문구 관계자는 “기념 행사에서 아펜젤러의 유산을 기리고 감리교신학대의 역사적 역할을 조명할 예정”이라고 했다.&lt;br&gt;&lt;br&gt;20일 오전 11시에는 이화여대 ECC 앞에서 스크랜튼길 명예도로명 지정 기념 행사가 열린다.&lt;br&gt;&lt;br&gt;메리 스크랜튼은 지금의 이화여대인 이화학당을 설립했다. 이에 맞춰 이대역에서 이화여대 앞으로 이어지는 이화여대길 555m 구간이 스크랜튼길로 지정된다.&lt;br&gt;&lt;br&gt;서대문구는 앞서 지난 4월 연세대 앞 성산로 1020m 구간을 ‘언더우드길’로 지정하고 기념 행사를 열었다. 연세대 설립자인 선교사 호러스 그랜트 언더우드를 기린다는 취지였다.&lt;br&gt;&lt;br&gt;이성헌 서대문구청장은 “이번 명예도로 지정이 선교사들의 유산을 되새기고, 지역 사회와 대학의 교류를 강화하는 계기가 되길 기대한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>치매 노모 살해하고 ‘사고死’ 주장… 50대 아들 징역 16년</title>
       <link>https://www.chosun.com/national/court_law/2025/06/11/6YUHXUGP2BHH7DZPEMEA7T7OSE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/11/6YUHXUGP2BHH7DZPEMEA7T7OSE/</guid>
@@ -816,15 +904,6 @@
       <content:encoded>이재명 대통령의 대장동 사건 1심 재판이 사실상 무기한 연기됐다. 전날 이 대통령의 공직선거법 사건 파기환송심을 맡은 서울고법은 내주 예정됐던 재판을 ‘헌법 84조’를 이유로 미뤘는데, 대장동 재판부도 같은 이유로 재판을 중단했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RFVYPEWIHOKINXZ27UU2EMV6IM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이재명 대통령이 10일 서울 용산구 대통령실 청사에서 열린 국무회의에서 모두발언을 하고 있다. /대통령실 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이 대통령의 대장동·위례·성남FC·백현동 사건을 심리하는 서울중앙지법 형사33부(재판장 이진관)는 오는 24일이었던 재판 날짜를 ‘추후 지정’으로 변경했다고 10일 밝혔다. 추후 지정은 재판 일정을 바로 잡지 않고 상황을 보고 다시 정하는 것이다. 재판부는 “헌법 84조를 적용해 기일을 추정했다”고 설명했다.&lt;br&gt;&lt;br&gt;헌법 84조는 ‘대통령은 재직 중 형사상 소추(訴追)받지 않는다’는 불소추 특권을 규정한다. 그동안 법조계에선 소추의 범위에 재판도 포함돼 대통령이 되기 전 시작된 재판을 중단해야 한다는 주장과, 소추는 기소만 해당돼 재판은 계속해야 한다는 주장이 맞서 왔다. 그런데 공직선거법과 대장동 재판부가 나란히 소추에 재판이 포함된다고 판단하면서 전자의 해석에 힘이 더욱 실리게 됐다.&lt;br&gt;&lt;br&gt;한편 대장동 사건으로 이 대통령과 함께 기소된 정진상 전 민주당 정무조정실장의 재판은 계속된다. 재판부는 이 대통령의 재판만 추후 지정으로 바꾸고, 정 전 실장의 재판은 날짜만 바꿔 내달 15일 진행하기로 했다. &lt;br&gt;&lt;br&gt;이 대통령은 성남시장 시절 대장동 민간업자들에게 특혜를 줘 성남도시개발공사에 약 4895억원의 손해를 끼친 혐의(배임), 위례신도시 개발 정보를 민간업자에게 넘겨 211억원의 이익을 얻게 한 혐의(옛 부패방지법 위반), 기업들로부터 인허가 청탁을 받고 성남FC에 133억5000만원을 내게 한 혐의(제3자 뇌물) 등으로 기소돼 재판을 받아왔다.&lt;br&gt;&lt;br&gt;이 사건은 비교적 쟁점이 간단한 위례 사건에 대한 심리를 마친 뒤, 대장동 사건 심리를 막 시작한 상태였다. 백현동과 성남FC 사건 심리는 시작도 하지 못한 상황이다. 재판은 2023년 5월 11일 첫 공판준비기일을 시작으로 2년 넘게 진행돼 왔지만, 이 대통령의 임기가 끝나는 2030년 6월까지 재판이 열리지 않으면 사건은 7년 넘게 공전하게 된다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>취업 사기 조직 범죄수익금 ‘돈 세탁’ 한 중국인 유학생 구속 </title>
-      <link>https://www.chosun.com/national/2025/06/10/BFCP3QNNNRE7RLHJR5XNDFKIPQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2025/06/10/BFCP3QNNNRE7RLHJR5XNDFKIPQ/</guid>
-      <dc:creator>부산=김준호 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 10 Jun 2025 07:50:35 +0000</pubDate>
-      <content:encoded>저비용 항공사 사이트를 사칭해 취업 사기를 친 일당의 범죄 수익금 세탁을 도운 중국인 유학생이 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HRTIJFMDF2PHRSQSVMLERIP6DQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산경찰청. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산경찰청 사이버수사과는 사기, 외국환거래법 위반 혐의로 중국인 유학생 A씨를 구속 송치했다고 10일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 2월부터 지난달까지 에어부산 등 항공사 사칭 사이트를 만들어 사기 행각을 펼친 범죄 수익금 14억 5000만원을 이른바 ‘환치기’ 수법으로 위안화로 바꿔 다시 조직에 송금해주고, 4500만원 상당의 부당 이득을 취한 혐의를 받는다. &lt;br&gt;&lt;br&gt;경찰에 따르면 이 조직은 국내 구인·구직 사이트에 티켓 발권 등 간단한 재택근무를 하면 수익을 보장한다는 내용의 구인 광고를 냈다. 이력서를 낸 구직자에게는 가짜 홈페이지 내에서 티켓 발권 업무 등을 하게 하며, 일을 하는 데 필요한 무료 포인트를 선지급했다. 이 포인트를 이용해 발권 업무 등을 처리하면 1만3000원 정도의 수당을 주며 신뢰를 쌓았다고 한다. 이후 무료 포인트를 소진하게 되면 구직자가 돈으로 포인트 충전을 하도록 유도하는 방법으로 돈을 챙겼다. &lt;br&gt;&lt;br&gt;A씨는 이렇게 가로챈 범죄 수익을 중간에서 세탁하는 역할을 맡았다. A씨는 국내 중국인 유학생들에게 낮은 수수료로 환전을 해준다고 홍보한 다음 이들로부터 위안화를 받으면 유학생이 지정한 계좌로 송금했다. 국내에 거주하는 중국인 유학생이 공인 환전소는 수수료가 높아 무등록 환전소를 주로 이용한다는 점을 노렸다. 유학생들은 자신들이 환전을 맡긴 돈이 범죄 수익금 세탁에 이용되는지는 몰랐던 것으로 조사됐다. 환전을 맡긴 유학생 중 피해는 없는 것으로 전해졌다. &lt;br&gt;&lt;br&gt;경찰은 해당 가짜 사이트를 폐쇄하고, 사기 조직을 추적하고 있다. &lt;br&gt;&lt;br&gt;경찰 관계자는 “공식 사이트가 아닌 경로로 사이트 가입을 유도하는 경우 실제 사이트를 꼭 확인해야 한다”며 “채용·근무 과정 등에서 포인트 충전 명목 등으로 금전을 요구하거나, 비정상적으로 좋은 조건을 제시하는 경우에 사기 징후일 수 있으니 각별한 주의가 필요하다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>올여름 1호 태풍 곧 발생할 듯… 14일 전국 비 예보</title>
       <link>https://www.chosun.com/national/national_general/2025/06/10/AE7S7CNXDVFTXJ5MLD4UMDYQAA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/10/AE7S7CNXDVFTXJ5MLD4UMDYQAA/</guid>
@@ -832,15 +911,6 @@
       <description/>
       <pubDate>Tue, 10 Jun 2025 07:48:11 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SL4CULS4APZ2INEOEGTRVFX36U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2024년 7월 25일 제주 서귀포항에 정박중인 어선들. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;올여름 1호 태풍이 곧 발생해 국내에 간접적으로 영향을 끼칠 것으로 예상된다. &lt;br&gt;&lt;br&gt;기상청은 10일 필리핀 마닐라 서쪽 610㎞ 해상에서 올여름 제1호 열대저압부가 발생했다고 발표했다. 이 열대저압부는 24시간 내 태풍으로 발달할 전망이다. 중심 최대 풍속이 17㎧ 이상인 열대저압부를 태풍으로 분류한다. 태풍으로 발달하면 ‘우딥’이라는 이름이 붙는다. 우딥은 마카오가 제출한 이름으로 ‘나비’를 뜻하는 광둥어다. &lt;br&gt;&lt;br&gt;기상청에 따르면 이번 열대저압부는 11일 밤이나 12일 새벽쯤 올여름 제1호 태풍이 될 것으로 예상된다. 태풍이 된 이후에는 중국 광둥성 남서부 방향으로 상륙해 14∼15일쯤 중국 내륙에서 소멸할 것으로 예측된다.&lt;br&gt;&lt;br&gt;이번 태풍은 한반도에 직접적인 영향을 미치지는 않을 전망이다. 그러나 태풍 소멸 시기에 북태평양고기압 가장자리가 제주 부근까지 확장할 것으로 예상된다. 이 경우 태풍이 소멸하며 방출된 수증기가 북태평양고기압 가장자리를 따라 국내로 유입되면서 많은 비가 내릴 가능성이 있다. 기상청은 14일 전국에 비가 내릴 것으로 예보했다. 기상청은 “북태평양고기압 가장자리와 우리나라 주변 기압계 변화에 따라 비가 내리는 시점과 지역이 달라질 수 있다”고 설명했다. &lt;br&gt;&lt;br&gt;14일의 비가 올여름 장마의 시작이 될지는 확실하지 않다. 현재 기준 15~20일까지 비 예보는 없다. 일반적으로 제주 지역은 6월 19일, 남부 지방은 23일에 장마가 시작된다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>손흥민에 ‘임신 협박’ 남녀 구속 기소</title>
-      <link>https://www.chosun.com/national/court_law/2025/06/10/MOTZ24QMCVDRXIQ2ESDHL5VFXQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/10/MOTZ24QMCVDRXIQ2ESDHL5VFXQ/</guid>
-      <dc:creator>유희곤 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 10 Jun 2025 06:40:18 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XM3EIA2OLZCWOTVDOLCXGBF3WQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;축구 국가대표팀 주장 손흥민의 아이를 임신했다고 주장하며 손씨에게 돈을 뜯어내려 한 20대 여성 양모씨(왼쪽)와 40대 남성 용모씨가 지난달 17일 영장실질심사를 받기 위해 서울중앙지법에 들어서고 있다. /스포츠조선&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;축구 국가대표팀 주장 손흥민(33‧토트넘 홋스퍼)의 아이를 임신했다며 3억원을 뜯어낸 20대 여성 등이 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;서울중앙지검 형사3부(부장 최순호)는 10일 20대 여성 양모씨를 공갈 및 공갈미수 혐의로, 40대 남성 용모씨를 공갈미수 혐의로 구속 기소했다고 밝혔다.&lt;br&gt;&lt;br&gt;검찰에 따르면 손씨의 지인이었던 양씨는 작년 6월 손씨에게 태아의 초음파 사진을 보내며 ‘임신한 사실을 폭로하겠다’고 협박해 3억원을 갈취한 혐의를 받는다. 당초 양씨는 다른 남성에게 임신 사실을 알리며 금품을 요구하려 했으나 상대방이 별다른 반응을 하지 않자 범행 대상을 손씨로 바꿨다고 한다. &lt;br&gt;&lt;br&gt;이후 양씨는 임신 사실을 외부에 알리지 않겠다는 취지의 각서를 썼지만, 1년도 지나지 않은 지난 3월부터 5월까지 다시 손씨에게 임신 사실을 폭로하겠다고 협박하며 7000만원을 추가로 요구했다. 양씨는 앞서 손씨로부터 받은 3억원을 사치품 등을 사는 데 사용했고, 돈이 떨어지고 생활고에 시달리자 연인 관계였던 용씨를 통해 손씨를 두 번째로 협박한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;서울 강남경찰서는 지난달 7일 손씨의 고소장을 접수했고, 일주일 후 양씨와 용씨를 체포했다. 법원은 두 사람이 증거 인멸과 도주의 우려가 있다며 지난달 17일 경찰이 신청한 구속영장을 발부했다.&lt;br&gt;&lt;br&gt;지난달 22일 사건을 송치받은 검찰은 추가 압수 수색, 계좌 추적 등을 통해 당초 용씨의 단독 범행으로 알려졌던 손씨의 두 번째 범죄피해(공갈미수)가 양씨와 용씨의 공동 범행이라는 사실을 확인했다고 밝혔다.&lt;br&gt;&lt;br&gt;검찰 관계자는 “피고인들에게 죄에 상응하는 형이 선고될 수 있도록 공소유지에 최선을 다하겠다”고 했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>“약물 운전은 처벌 대상”…차 몰다 잠든 운전자, 알고보니</title>
@@ -855,24 +925,6 @@
       </media:content>
     </item>
     <item>
-      <title>공수처, ‘순직 해병 사건 수사 외압’ 의혹 대통령기록관 압수 수색</title>
-      <link>https://www.chosun.com/national/court_law/2025/06/10/QLKEGVGOEVF4XGFXLMESDYWAUU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/10/QLKEGVGOEVF4XGFXLMESDYWAUU/</guid>
-      <dc:creator>박강현 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 10 Jun 2025 05:37:23 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OKE7OUOK7RTEFZRNSPVSO33BEU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기 과천시 정부과천청사 공수처의 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘순직 해병 사건 수사 외압’ 의혹을 수사 중인 고위공직자범죄수사처(공수처)가 대통령기록관에 대한 압수 수색에 나섰다고 10일 밝혔다.&lt;br&gt;&lt;br&gt;이 의혹의 핵심은 2023년 7월 경북 예천군 수해 실종자 수색에 투입됐다 급류에 휩쓸려 숨진 고(故) 채수근 상병 사망 사건을 수사하는 과정에서 대통령실과 군 지휘부의 수사 외압이 있었다는 것이다.&lt;br&gt;&lt;br&gt;초기 수사를 맡았던 박정훈 전 해병대 수사단장(대령)이 수사 자료를 경찰에 이첩하는 과정에서 상부로부터 이첩 보류 지시를 받았으나 이에 따르지 않았고, 이후 “수사단 조사 결과를 보고받은 (당시) 윤석열 대통령이 격노했다는 취지의 말을 들었다”고 폭로하면서 의혹이 커졌다. 이 일로 박 전 단장은 항명 혐의로 기소됐으나 1심에서 무죄를 선고받았다.&lt;br&gt;&lt;br&gt;이런 가운데 공수처는 윤 전 대통령이 수사 기록 이첩 보류에 관여한 것이 맞는지 확인해야 한다는 입장이다. 이날 압수 수색을 통해 관련 회의록과 출입기록 등을 확보하기 위해 시도하고 있는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;앞서 대통령기록관은 지난 4일 윤 전 대통령 재임 및 권한대행 기간에 생성된 제20대 대통령기록물 1365만 건을 ‘대통령기록물 관리에 관한 법률’에 따라 받았다고 밝힌 바 있다.&lt;br&gt;&lt;br&gt;이 수사는 공수처의 주요 사건 중 하나로, 지난해 12월 비상계엄 이후 수사가 사실상 멈췄다가 지난 4월 재개했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>대낮 청주 도심서 20대 남성 납치...경찰, 3인조 납치범 검거 </title>
-      <link>https://www.chosun.com/national/regional/chungcheong/2025/06/10/4JPXCEDXAZGZNBRGSIXZ2NBODQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2025/06/10/4JPXCEDXAZGZNBRGSIXZ2NBODQ/</guid>
-      <dc:creator>신정훈 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 10 Jun 2025 06:59:57 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/INHJZRAXSW4K5BC4DFV2BMH7IY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;충북 청주상당경찰서 전경&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대낮에 충북 청주 도심에서 납치 사건이 발생해 경찰이 수사에 나섰다. &lt;br&gt;&lt;br&gt;10일 청주상당경찰서에 따르면 이날 오전 11시 55분쯤 청주시 상당구 영운동의 한 아파트에서 젊은 남성이 차량을 이용해 납치를 당했다는 신고가 접수됐다. &lt;br&gt;&lt;br&gt;신고자는 “젊은 남성 3명이 다른 남성 1명을 강제로 차량에 태우고 갔다”며 “한 명은 각목을 들고 있었고, 다른 남성은 살려달라고 소리를 쳤다”고 경찰에 말했다. &lt;br&gt;&lt;br&gt;신고를 받고 출동한 경찰은 피해자가 해당 아파트에 거주하는 20대 A씨로 확인, 방범카메라 등을 통해 차량 추적에 나섰다. &lt;br&gt;&lt;br&gt;경찰은 충남 천안 서북경찰서와 공조해 사건 발생 2시간여 만인 오후 2시 13분쯤 천안의 한 건물 인근에서 주차된 차량을 발견했고, 탑승해 있던 남성 3명을 납치·감금 혐의로 붙잡았다. &lt;br&gt;&lt;br&gt;A씨 역시 차량에 타고 있었으며, 다친 곳은 없는 것으로 전해졌다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “피의자 3명은 조직폭력배나 다른 범죄 단체 소속은 아닌 것으로 추정된다”며 “정확한 범행 경위에 대해서는 조사를 진행하고 있다”고 말했다. &lt;br&gt;&lt;br&gt;경찰은 조사가 마무리되는 대로 이들에 대해 구속영장을 신청할 방침이다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>“박소담, 박원숙 손녀였다”…촬영 현장에서도 모른 척한 이유는</title>
       <link>https://www.chosun.com/national/people/2025/06/10/BSBOP5VS75FUZCQVMWAECIXY6M/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/people/2025/06/10/BSBOP5VS75FUZCQVMWAECIXY6M/</guid>
@@ -880,33 +932,6 @@
       <description/>
       <pubDate>Tue, 10 Jun 2025 06:59:34 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LZ2KG5UCYZBPRCTDZASZPZGYJA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;배우 박소담(왼쪽)과 박원숙./인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;배우 박소담과 박원숙이 6촌 친척 관계인 사실이 뒤늦게 알려졌다. &lt;br&gt;&lt;br&gt;박소담의 소속사 아티스트컴퍼니 관계자는 10일 “박원숙과 박소담이 6촌 친척 관계가 맞다”고 밝혔다. 박원숙은 박소담 친할아버지와 사촌지간이다. 이에 따라 이들은 손녀 관계다.&lt;br&gt;&lt;br&gt;박원숙과 박소담은 2015년 개봉한 영화 ‘사도’에 함께 출연하기도 했다. 현장에서는 서로 친척 관계를 밝히지 않고 연기했다고 한다. 하지만 박원숙은 손녀인 박소담에게 작품 선택과 연기 활동 과정에서 조언자 역할을 해줬다고 전해졌다.&lt;br&gt;&lt;br&gt;관계자는 “데뷔 초에는 아무래도 (가족 도움을 받았다는) 오해를 피해 관계를 비밀로 했던 것 같다”며 “이젠 박소담도 활동한 지 꽤 됐고 연예계에서도 두 사람 사이를 알고 있는 사람이 많다”고 했다.&lt;br&gt;&lt;br&gt;박소담은 2013년 영화 ‘더도 말고 덜도 말고’로 데뷔했다. 이후 영화 ‘잉투기’, ‘마담 뺑덕’, ‘경성학교 : 사라진 소녀들’, ‘베테랑’, ‘사도’, ‘검은 사제들’ 등에 출연했다. 특히 2019년 봉준호 감독의 영화 ‘기생충’에서 김기정 역을 맡으며 이름을 알렸다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>냉면 먹던 90대 가슴에 ‘이 배지’ 본 해병대원, 식사비 몰래 쾌척</title>
-      <link>https://www.chosun.com/national/national_general/2025/06/10/Z7S66IQWRNGIZL35NO7A5YMEXA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/10/Z7S66IQWRNGIZL35NO7A5YMEXA/</guid>
-      <dc:creator>이가영 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 10 Jun 2025 04:36:44 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/T4CJGM46HHOFYCG4LAPMJPWEKE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;해병대 제6여단 권율 병장과 이찬형 일병. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서해 최북단 백령도에 위치한 해병대 제6여단 장병 2명이 국가유공자분들의 식사비를 대신 지불한 사실이 뒤늦게 알려졌다. &lt;br&gt;&lt;br&gt;10일 해병대 제6여단에 따르면 방공대대 소속 권율(21) 병장과 이찬형(20) 일병은 지난 6일 백령도 한 식당에서 냉면을 먹고 있던 국가유공자 오경록(92)씨를 발견했다. &lt;br&gt;&lt;br&gt;6‧25전쟁 참전 용사인 오씨는 당시 현충일 추념 행사에 참석한 뒤 다른 국가유공자 지인들과 함께 식사를 하던 중이었다. 권 병장과 이 일병은 오씨의 가슴에 달린 ‘국가유공자 배지’를 발견한 뒤 몰래 계산대로 향해 10만원가량의 식사 비용을 대신 지불했다. &lt;br&gt;&lt;br&gt;장병들이 식사비를 대신 내는 모습을 우연히 목격한 백령면사무소 직원이 부대 측으로 제보하면서 이들의 선행이 알려졌다. &lt;br&gt;&lt;br&gt;오씨는 이후 부대 측을 통해 “어린 해병들이 식사비를 대신 지불했다는 것에 한편으로 기특했지만, 미안하고 고마운 마음이 들었다”고 감사 인사를 전했다. 이어 “우리 후배 군인들이 든든하고 자랑스럽다”며 “몸 건강히 복무하고, 서해 최북단 백령도 해병대원으로서 나라를 지켰다는 자긍심을 통해 모든 일이 잘되기를 희망한다”고 했다. &lt;br&gt;&lt;br&gt;권 병장은 “현충일을 맞아 선배 세대의 헌신과 희생을 잊지 않고 존경하는 마음을 행동으로 보여드리고 싶었다”며 “큰일은 아니지만, 저희의 마음이 잘 전달됐기를 바라며 앞으로도 해병대원으로서 자긍심을 갖고 행동하겠다”고 밝혔다. &lt;br&gt;&lt;br&gt;이 일병은 “국가유공자 배지를 착용하고 식사하는 어르신들을 보며 마음이 뭉클했다”며 “참전 용사분들께서 나라를 지켜주신 것처럼 저도 남은 복무 기간 최선을 다해 임무를 수행해 나라를 지키겠다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>光州 시내버스 이틀째 재파업… 일부 노조원 미참여, 운행률 88%</title>
-      <link>https://www.chosun.com/national/national_general/2025/06/10/ZDQZ4DYL4NAXZPH2SKN6NAQ3BA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/10/ZDQZ4DYL4NAXZPH2SKN6NAQ3BA/</guid>
-      <dc:creator>광주광역시=진창일 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 10 Jun 2025 04:07:27 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HRM56CYVVBJIZGZSXAKUDTY6NI.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;광주광역시 시내버스 노조가 파업을 재개한 지 이틀째인 10일 광주 서구 광천종합버스터미널 정류장에 파업 운행 지연 안내문이 붙어있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;광주광역시 시내버스 노조(전국자동차노조연맹 광주지역버스노조)가 이틀째 재파업에 나선 가운데 버스 운행 지연으로 시민들 불편이 이어졌다.&lt;br&gt;&lt;br&gt;10일 광주시에 따르면 이날 120여 대의 광주 지역 시내버스가 파업으로 운행을 멈췄다. 평소라면 매일 1000여 대의 시내버스가 광주 곳곳을 달리지만, 현재 882대가 운행하고 있다.&lt;br&gt;&lt;br&gt;이날 아침 버스정류장으로 나선 시민들은 평소보다 10~30여 분 늦게 도착하는 버스 때문에 출근길과 등굣길 불편을 겪었다.&lt;br&gt;&lt;br&gt;노조는 지난 5일 기본급 8.2% 인상, 61세에서 65세로 정년 연장 등을 요구하며 파업에 돌입했다. 파업 첫날 230여 대 버스가 파업으로 멈춰 770여 대 버스가 운행했다. 노조는 지난 6일부터 8일까지 파업을 임시 중단했지만, 지난 9일부터 파업을 재개했다.&lt;br&gt;&lt;br&gt;광주 전체 시내버스 운전원은 총 2397명으로 이 중 1398명이 시내버스 노조에 가입했다. 광주시는 지난 9일 재파업 당시 960명만 파업에 참여하고, 나머지 일부 노조원과 비노조원 1448명이 정상 운행에 나선 것으로 파악했다.&lt;br&gt;&lt;br&gt;광주시는 이틀째 파업에서도 전날과 비슷한 규모의 운전원들이 정상 운행을 나선 것으로 보고 있다. 광주시 관계자는 “시내버스 운행률은 전날 887대, 이날 882대로 88% 수준을 유지하고 있다”고 말했다.&lt;br&gt;&lt;br&gt;전국 버스 노사가 정기 상여금을 통상임금에 포함하느냐를 두고 임·단협 교섭에 난항을 겪고 있는 가운데 광주는 2015년 이미 노사 합의를 통해 정기 상여금을 통상임금에 포함한 곳이다.&lt;br&gt;&lt;br&gt;광주시는 다른 지역에서는 쟁점 사항인 통상임금 문제가 해소됐기 때문에 노조원들의 파업 강도가 낮은 것으로 보고 있다.&lt;br&gt;&lt;br&gt;광주시는 버스 파업 혼란을 줄이기 위해 지하철 운행 횟수를 12회 늘리고, 택시 회사와 개인택시 운전원들에게 출퇴근 시간 운행 횟수를 늘려줄 것을 요청했다. 또 파업이 장기화되면 전세버스를 임차해 시내버스 운행에 투입할 계획이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>검찰, ‘최서원 명예훼손’ 안민석에 징역 1년 재차 구형</title>
-      <link>https://www.chosun.com/national/court_law/2025/06/10/MNBCFQURGVHFXLZZJVIAKDCXR4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/10/MNBCFQURGVHFXLZZJVIAKDCXR4/</guid>
-      <dc:creator>수원=김수언 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 10 Jun 2025 03:32:55 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6R76PTYOJFMH5D52KM44QBTY7M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;최서원(개명 전 최순실) 씨에 대한 명예 훼손 혐의로 기소된 더불어민주당 안민석 의원이 지난해 4월 23일 오전 경기도 수원시 영통구 수원지방법원에서 열린 첫 공판을 마치고 나오고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;박근혜 정부 시절 국정농단 사건의 핵심인물인 최서원(개명 전 최순실)씨에 대한 허위사실을 유포한 혐의를 받는 안민석 전 더불어민주당 의원에게 검찰이 징역 1년을 재차 구형했다.&lt;br&gt;&lt;br&gt;지난 1월 23일 첫 결심 공판 당시 구형과 같은 것이다. 법원은 당초 선고일(3월 6일)을 앞두고 변론을 재개해, 이날 다시 재판을 마쳤다. 선고는 다음달 10일이다.&lt;br&gt;&lt;br&gt;수원지법 형사19단독 설일영 판사는 10일 안 전 의원의 정보통신망법 위반(명예훼손 등) 혐의에 대한 결심 공판을 진행했다.&lt;br&gt;&lt;br&gt;이날 검찰은 “종전 구형을 유지하겠다”고 했다. 당시 검찰은 “국민적 관심이 큰 사안이라 하더라도, 악의적 허위사실을 유포한 거까지 면죄부를 받을 수 없고, 국회의원이었음에도 사회에 큰 해악을 미치는 가짜뉴스를 퍼트렸다”며 징역 1년을 선고해 달라고 재판부에 요청했다.&lt;br&gt;&lt;br&gt;안 전 의원은 최씨가 박근혜 전 대통령의 비선 실세라는 의혹이 제기되던 2016년부터 각종 라디오와 TV 방송 등에 출연해 “독일 검찰이 독일 내 최순실 재산을 추적 중인데 돈세탁 규모가 수조원대”라는 허위 주장을 한 혐의를 받는다. 안 전 의원은 “최씨가 페이퍼컴퍼니를 세워 돈을 빼돌린 기업은 독일에서만 수백개에 달한다는 사실이 독일 검찰로부터 확인됐다”고도 했다.&lt;br&gt;&lt;br&gt;안 전 의원은 또 최씨가 록히드마틴 회장과 만나 사드(THAAD·고고도 미사일 방어체계) 도입에 관여했다는 의혹을 제기하면서 실제 사실관계를 확인하지 않고 “최씨가 록히드마틴 측에 무기 계약을 몰아줬다”고 발언했다. 또 “스위스 비밀 계좌에 입급된 한 기업의 돈이 최씨와 연관돼 있다”는 등 확인되지 않은 의혹을 숱하게 제기했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LY7SSK74J7SQQNDOP2YC6AGUNQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;박근혜정부의 '국정농단' 사건을 주도한 혐의로 징역 18년을 선고받은 '비선실세' 최서원씨(개명 전 최순실)/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최씨는 지난 2019년 9월 “안 의원의 발언은 모두 거짓”이라며 안 의원을 고소했고, 검찰은 안 전 의원의 발언이 허위 사실이라고 판단해 2023년 11월 그를 불구속 기소했다.&lt;br&gt;&lt;br&gt;이날 변호인은 “피고인이 방송이나 강연에서 한 발언은 전체적인 맥락이나 의도를 봤을 때 전국민적 관심사인 최서원의 해외 재산 은닉 실체를 규명하고, 적극 환수하자는 ‘의견 표명’에 해당한다”며 “국민적 열망을 대변한 공익적 주장으로, (발언이) 허위라는 인식이나 악의적 비방 목적이 없었다”고 했다.&lt;br&gt;&lt;br&gt;변호인은 또 “피고인의 전체 발언의 취지를 무시하고 지엽적인 부분을 허위사실 적시 명예훼손죄로 기소한 건 공소권 남용 여지가 있다”며 “공익적인 의견표명에 해당하는 발언을 침소봉대식으로 자의적 확장해 처벌할 수 없다”며 무죄를 선고해달라고 했다.&lt;br&gt;&lt;br&gt;안 전 의원은 최후 진술에서 “정의를 바로세우고 진실을 밝히는 공익적 활동을 했을 뿐, 특정인의 명예에 흠집을 낼 의도는 없었다”고 했다. 안 전 의원은 또 “최서원이 명예를 훼손당했다는 주장에는 동의할 수 없다”며 “최서원이 원한을 품고, 악의적인 고소 고발을 수년간 수차례 남발하는 과정에서 제가 명예훼손을 당했다”고 했다. 그는 또 “독일을 다섯 차례 오가며 실체를 밝히려 했던 정치인이 저”라며 “수사권 없는 정치인으로서의 한계가 분명했고, 방송출연으로 검찰 수사를 촉구한 건데 검찰이 저를 기소해 어이없다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[단독]李 대통령 “복지장관님, 한국 자살률 왜 이리 높나”</title>
@@ -925,24 +950,6 @@
       <description/>
       <pubDate>Mon, 09 Jun 2025 23:35:30 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/L4GEXC5HOZAC5NA5TDDI7RQ23U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;가정집에 침입해 50대 여성을 살해하고 달아난 남성을 경찰이 추적 중이다.&lt;br&gt;&lt;br&gt;대구 성서경찰서는 살인 혐의로 40대 남성 A씨를 추적 중이라고 10일 밝혔다. A씨는 이날 오전 3시 30분쯤 대구 달서구의 한 아파트에 침입해 50대 여성 B씨를 흉기로 살해한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;이후 가족들이 흉기에 찔린 B씨를 발견 후 병원으로 옮겼지만 B씨는 결국 숨졌다.&lt;br&gt;&lt;br&gt;A씨는 이날 아파트 배관을 타고 6층의 B씨 집으로 침입한 것으로 조사됐다. 사건 현장 인근 방범카메라에는 A씨가 복면을 하고 있는 모습이 녹화됐다. &lt;br&gt;&lt;br&gt;경찰은 지난달 B씨의 집을 찾아가 흉기 협박을 했던 한 남성을 용의자로 추정하고 있다. 당시 경찰은 이 남성에 대해 구속 영장을 신청했으나 대구지방법원에서 “(피의자가)수사에 제대로 응하고 있다”는 등의 이유로 기각한 것으로 파악됐다.&lt;br&gt;&lt;br&gt;흉기 협박 사건 이후 경찰은 B씨 집 앞에 신변 보호 대상자에게 지급하는 안면인식용 인공지능 방범카메라를 설치하기도 했다. 하지만 A씨가 배관을 타고 침입하면서 경찰에 별다른 통보가 가지 않은 것으로 전해졌다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “가족 등의 진술과 방범카메라 영상 등을 통해 용의자 A씨를 현재 추적 중이며, 자세한 사건 경위는 조사를 해봐야 알 수 있다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>한밤 백화점 배전실서 화재…소방관 1명 부상</title>
-      <link>https://www.chosun.com/national/incident/2025/06/10/4D2SQKBYQRAW3MDFOMDN2R6ARE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/06/10/4D2SQKBYQRAW3MDFOMDN2R6ARE/</guid>
-      <dc:creator>인천=이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 10 Jun 2025 00:42:45 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7UTNA2G5NRDS7PNNMSFTYRL5FU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;10일 오전 2시 28분쯤 불이 난 인천시 미추홀구 관교동의 한 백화점 배전실./ 인천소방본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한밤중 인천의 한 유명 백화점에서 불이 나 진화에 나섰던 소방관 1명이 다쳤다. &lt;br&gt;&lt;br&gt;10일 인천소방본부에 따르면 이날 오전 2시 28분쯤 인천시 미추홀구 관교동의 한 백화점 1층 배전실에서 화재가 발생했다. &lt;br&gt;&lt;br&gt;이 불로 배전실 안쪽 10㎡와 설비 등이 타 소방서 추산 6200만원 상당의 재산 피해가 났다. &lt;br&gt;&lt;br&gt;또 진화 작업에 나선 40대 소방관이 허리 부위를 다쳐 119 구급대에 의해 병원으로 옮겨져 치료를 받았다. &lt;br&gt;&lt;br&gt;소방 당국은 소방관 등 90여 명과 펌프차 등 35대를 투입해 50여 분 만인 3시 49분쯤 불을 완전히 껐다. &lt;br&gt;&lt;br&gt;소방 당국은 구체적인 화재 원인 등을 조사할 계획이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[단독] 연구 시간 나눠쓰기까지… AI發 전력난 허덕이는 대학들</title>
-      <link>https://www.chosun.com/national/national_general/2025/06/10/ORFDKCCSLBAXREDS6AJUY2OZT4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/10/ORFDKCCSLBAXREDS6AJUY2OZT4/</guid>
-      <dc:creator>박정훈 기자, 안준현 기자, 김병권 기자, 구동완 기자, 한영원 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 09 Jun 2025 20:02:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/M5KATTEVONEGDKUBFFCMBUMD5M.png"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=김성규&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울대 공대 한 학과의 일부 연구실은 지난 3월부터 서버를 절반만 켜두고 있다. 인공지능(AI) 기술을 연구하는 서울대 연구소들의 전력(電力) 사용량이 폭증해 ‘블랙아웃(대정전)’을 걱정해야 할 수준까지 왔기 때문이다. 특히 전력 수요가 높은 여름철이 겹치자 AI 서버 가동이 필수인 연구소들은 그야말로 ‘비상’이 걸렸다. 해당 학과의 한 교수는 “밤을 새워 연구하기에도 모자란데 연구 시간을 인위적으로 줄여야 한다니 미칠 노릇”이라고 했다.&lt;br&gt;&lt;br&gt;성균관대는 최근 AI 연구 증가로 전력 수요가 폭증하면서 연구소들 간 자체적으로 ‘전력 사용 제한’을 하고 있다. 특정 연구소가 논문을 발표할 시기가 되면 다른 연구소에서 AI 가동 시간을 줄이는 식이다. 이지형 성균관대 인공지능대학원장은 “상대적으로 급하지 않아 보이는 연구소들은 눈치를 보면서 서버 사용량을 줄이거나 심지어 끄는 경우도 많다”고 했다. 연세대·고려대에도 ‘첨단 AI 연구’ 수요가 급증하고 있지만 연구 설비 증설을 쉽사리 하지 못하고 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VV4PLFXDOBCKTOARHD3ASYCCPU.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=김성규&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;AI 첨단 기술을 연구하는 대학 캠퍼스 곳곳에서 ‘구전난(求電難)’이 벌어지고 있다. ‘전기 먹는 하마’인 AI 연구에 대학들이 잇달아 뛰어들다 보니 전력 부족으로 연구 장비를 가동하지 못하거나 주요 연구실들이 전력 소비 배분을 두고 신경전을 벌이는 일도 벌어지고 있다. 본지가 9일 서울 주요 대학의 최근 5년간 전력 소비량을 분석했더니 서울대 관악·연건 캠퍼스의 전력 소비량은 2020년 18만3336MWh(메가와트시)에서 작년 23만5420MWh로 4년 새 28.4% 증가했다. 같은 기간 연세대도 16.5%, 고려대는 14% 가까이 늘었다. 이들 대학은 작년부터 수차례 한국전력에 추가 전력 공급을 요청하고 있지만, 한전이 난색을 표하고 있는 것으로 전해졌다. &lt;br&gt;&lt;br&gt;대학들의 전력 사용 급증은 ‘전기 먹는 하마’인 AI 연구 증가 때문이다. 생성형 AI 서비스의 전력 소모량은 기존 인터넷 검색보다 10배 이상 많다. 구글에서 텍스트로 검색할 때 평균 0.3Wh의 전력이 쓰이는 반면 ‘챗GPT’는 한 번에 2.9Wh를 소모한다. 특히 이미지나 영상을 생성하는 AI 서비스는 스마트폰 한 대를 충전할 수 있는 양의 에너지가 필요하다. 텍스트 기반의 AI 서비스보다 40~60배 전력을 더 소모하게 된다.&lt;br&gt;&lt;br&gt;이에 서울대는 경기 시흥캠퍼스에 신규 데이터 센터를 구축하는 방안을 검토하는 것으로 알려졌다. 대용량 데이터를 처리하는 데이터센터는 AI 기술의 핵심 시설로 꼽히는 곳이다. 기존의 관악캠퍼스 전기 사용량을 시흥으로 분산시키겠다는 취지다. 서울대가 신축 데이터센터에 마련하게 될 서버실 연면적은 1만㎡ 규모로 학내 전체 서버실 면적(5513㎡)의 약 2배에 달할 가능성이 큰 것으로 전해졌다. 서울대는 AI의 핵심 인프라인 고성능 GPU(그래픽저장장치) 서버실을 시흥으로 분산 이전하는 방안도 추진 중이다.&lt;br&gt;&lt;br&gt;고려대는 지난 2023년 전력 낭비를 줄이기 위해 교내에 흩어져 있는 서버를 통합 관리하기 위한 단일 클라우드(cloud·가상) 서버를 구축해놨지만, 여전히 전력 부족을 겪고 있다. 이성환 고려대 인공지능학과 주임교수는 “2023년 정릉 캠퍼스에 AI 연구를 위한 별도 데이터센터를 구축한 뒤 엔비디아의 고성능 AI 칩인 ‘H100’ 등 GPU 100여 대를 설치했다”며 “그러나 쓸 수 있는 최대 전력이 터무니없이 부족해 GPU를 모두 가동하지 못하고 있다”고 했다. 고려대는 최근 안암캠퍼스 내 캠퍼스 개·보수 공사 명목으로 한전으로부터 확보한 여유분의 전력을 활용해 소규모 AI 연구소를 별도로 짓는 방안도 검토 중인 것으로 전해졌다.&lt;br&gt;&lt;br&gt;연세대도 전력 소모가 큰 AI·양자컴퓨터 설비와 데이터센터를 인천 송도 국제 캠퍼스에 신축할 계획이다. 성균관대는 자연과학 캠퍼스 내 전력이 비교적 여유 있는 건물에 AI 공동 연구실을 만들고 있다. 나머지 대학들 중 상당수도 지방 캠퍼스에 데이터 센터를 건립해 전기 사용량을 분산하는 방안을 추진 중인 것으로 나타났다.&lt;br&gt;&lt;br&gt;AI 연구의 산실인 대학들이 제대로 된 연구를 하기 위해선 정부 차원의 지원이 시급하다는 지적도 나온다. 차호정 연세대 인공지능융합대학원장은 본지 통화에서 “정부가 대학에 전력을 저가로 공급하거나, 공공 AI 데이터센터를 별도로 설립해 연구 중심 대학들이 활용할 수 있게 해야 한다”고 했다. 장길수 고려대 공과대학장은 “수도권 외곽에 고전력 인프라 단지를 조성하고, 대학 간 공동 활용이 가능한 시스템이 필요하다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>李대통령 ‘사법 리스크’ 사실상 끝났다</title>
