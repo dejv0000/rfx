@@ -13,6 +13,126 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>보이스피싱에 속아 모텔서 ‘셀프 감금’ 20대...경찰 설득에 피해 면해</title>
+      <link>https://www.chosun.com/national/regional/2025/06/11/O3MZYNTPCNBLRLHX4FB6WWXPKQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/06/11/O3MZYNTPCNBLRLHX4FB6WWXPKQ/</guid>
+      <dc:creator>우정식 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 11 Jun 2025 03:33:09 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KKPU66JR2ZACLDQI47NNRQYETM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;보이스피싱 조직의 협박에 속아 스스로 모텔에 들어가고 원격제어까지 당했던 20대가 출동한 경찰의 설득 끝에 금전적인 피해를 면했다.&lt;br&gt;&lt;br&gt;11일 대전동부경찰서에 따르면 지난달 2일 “여자친구가 수사관이라는 사람과 통화하더니 어제부터 모텔에 들어가서 나오지 않고 있다”는 남자친구의 신고를 받고 경찰이 해당 모텔에 출동했다.&lt;br&gt;&lt;br&gt;조사 결과, A(20대)씨는 사건 신고 전날부터 서울중앙지검 검사를 사칭한 보이스피싱범들의 연락을 받았다. 또 그들로부터 가짜 수사서류를 받고 겁에 질려 시키는 대로 지시를 따르고 있었다고 한다.&lt;br&gt;&lt;br&gt;보이스피싱범들은 A씨에게 “검찰이 수사 중인 특수 사기 사건에서 당신의 계좌가 발견됐다”면서 “범죄에 관여하지 않았느냐”고 장시간 추궁했다. 이어 “혼자 있을 수 있는 곳에 가서 대기하라. 지시에 따르지 않으면 바로 구속하겠다”고 겁박한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;이에 A씨는 지난 1일 오후 3시쯤 혼자 모텔로 가서 20여시간가량 머물면서 보이스피싱범들과 통화를 이어갔다. 또 그들의 지시에 따라 스마트폰 공기계를 구입했고, 스마트폰에 대한 원격제어 앱까지 다운받아 실행했던 것으로 나타났다.&lt;br&gt;&lt;br&gt;이런 상황에서 A씨는 신고를 받고 모텔로 출동한 경찰마저 강하게 의심할 만큼 보이스피싱범들의 말을 믿었던 것으로 파악됐다.&lt;br&gt;&lt;br&gt;이에 경찰은 A씨가 보이스피싱범들로부터 받은 수사서류가 가짜 서류라는 사실을 확인시키고, 끈질긴 설명과 설득을 한 끝에야 사기 피해를 막을 수 있었다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “보이스피싱 조직은 계속 겁박과 가스라이팅을 일삼으며 피해자를 고립시켜 상식적으로 생각할 수 없게 만드는 수법을 쓴다”며 “수사기관을 사칭하거나 조금이라도 의심되는 내용의 연락을 받을 경우 경찰에 신고하거나 가까운 경찰서를 찾아 도움을 청하라”고 당부했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>아이돌 경호원에게 맞은 피해자 “짐승 다루듯 진압...전치 4주”</title>
+      <link>https://www.chosun.com/national/national_general/2025/06/11/LGF4KTNFP5FV3JYCNJWIVTLLNQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/11/LGF4KTNFP5FV3JYCNJWIVTLLNQ/</guid>
+      <dc:creator>정아임 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 11 Jun 2025 02:41:08 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WA4GVHNPTJG3VAYVQGOD4MMQZQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;걸그룹 하츠투하츠 경호원이 공항에서 시민을 제지하고 있는 모습(왼쪽)과 자신을 경호원 폭행 피해자라 밝힌 A씨가 올린 멍든 사진./틱톡, X&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;SM엔터테인먼트 소속 신인 걸그룹 ‘하츠투하츠’ 경호원이 공항에서 팬을 밀치고 위협한 영상이 온라인에서 확산하자 소속사 측은 “사생팬 제지를 위한 대응”이었다고 밝혔다. 그러나 해당 팬은 “없는 말을 지어내고 있다”며 억울함을 드러냈다. &lt;br&gt;&lt;br&gt;자신을 경호원 폭행 피해자라 밝힌 A씨는 11일 자신의 X(옛 트위터)에 “저 스무 살이다. 제가 잘못한 것도 있지만, 스무 살 여자를 그렇게 살인범 체포하는 것 마냥 대응해 놓고 입장문 내면 뭐가 안 느껴지느냐”고 글을 적었다.&lt;br&gt;&lt;br&gt;이어 “변호사, 의사, 수사관도 다 고소하랬는데 아티스트 욕먹는 거 싫어서 고소 안 하는 것”이라며 “아티스트 욕먹는 거 같아서 마음이 너무 안 좋아서 잠도 제대로 못 잤다. 휴대폰만 보면 내 욕이 잔뜩인데 이만하면 된 거 아니냐”고 했다.&lt;br&gt;&lt;br&gt;또한 “저도 잘한 거 없는 거 안다. 그래서 고소도 안 하려는 거다. 그런데 뉴스에 실릴 공식 입장문을 이렇게 사실 없는 내용으로 올려도 되는 건가. 동선 겹쳐서 멤버랑 부딪힌 거에 대해서 충분히 잘못했다고 생각하고 있다. 어깨 부딪혔다고 사람 짐승 다루듯 진압해도 된다는 건가”라고 했다.&lt;br&gt;&lt;br&gt;그러면서 “없는 말 지어내서 경호 업체는 입장 전달 안 해도 된다. 경추부염좌·요추부염좌·우측상완부 염좌 등 전치 4주 나왔지만 고소 안 하기로 했다”며 팔에 멍이 든 사진을 함께 공개했다.&lt;br&gt;&lt;br&gt;앞서 지난 9일 하츠투하츠 경호원이 공항에서 팬을 밀치고 위협하는 영상이 온라인상에 확산했다. 영상을 보면 전날 출국을 위해 인천국제공항 여객터미널 셔틀기차를 이용하는 하츠투하츠 멤버와 한 여성 팬이 부딪혔다. 이에 경호원이 팔로 여성의 목을 강하게 밀치며 “왜 멤버를 치냐”고 말했고, 여성은 “탑승권이 있다”고 맞받아쳤다.&lt;br&gt;&lt;br&gt;논란이 일자 SM엔터테인먼트 측은 지난 10일 방송된 ‘사건반장’을 통해 “아티스트 출국 현장에서 사생팬이 공항 입구부터 멤버들을 계속 밀치고 신체 접촉을 시도하는 등 반복적인 돌발 행동을 보여 이를 제지하는 과정에서 순간적으로 물리적 제압이 발생했다”고 밝혔다. 이어 경호업체에 대해서는 “과도한 대응이 있었던 점에 대해 항의했고, 향후 재발 방지를 강력히 요구했다”고 덧붙였다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>교통사고 수습하던 운전자, 출동한 119구급차에 치여 사망</title>
+      <link>https://www.chosun.com/national/national_general/2025/06/11/GR6HR4WNHFBF5IFHOOFG27K53M/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/11/GR6HR4WNHFBF5IFHOOFG27K53M/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 11 Jun 2025 02:16:31 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QAHQFPPJUIT2IOKGIG4SVCBNA4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;119구급차량 자료사진. 사건과 직접적인 관련이 없음. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;교통사고를 내고 도로에서 이를 수습하던 운전자가 출동한 119구급차에 치여 사망하는 사고가 발생했다. &lt;br&gt;&lt;br&gt;11일 전남 곡성경찰서에 따르면 이날 새벽 2시 22분쯤 전남 곡성군 곡성읍의 한 도로에서 교통사고 신고를 받고 출동한 119구급차가 해당 사고를 수습 중이던 카니발 운전자 70대 A씨를 들이받았다.&lt;br&gt;&lt;br&gt;119구급차는 A씨를 미처 발견하지 못해 사고를 낸 것으로 알려졌다. A씨는 병원으로 옮겨졌으나 결국 숨졌다. &lt;br&gt;&lt;br&gt;A씨는 도로에서 주행 중이던 트랙터의 후미를 추돌하는 교통사고를 내고 사고 수습을 위해 도로에 나와 있었던 것으로 조사됐다.&lt;br&gt;&lt;br&gt;A씨가 낸 사고로 50대 트랙터 운전자 B씨도 병원으로 옮겨졌으나 사망했다.&lt;br&gt;&lt;br&gt;119구급차에 타고 있던 구급대원들은 다치지 않은 것으로 전해졌다.&lt;br&gt;&lt;br&gt;경찰은 정확한 사고 경위를 조사 중이라고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“아이와 함께하면 더 행복”…서울시 ‘탄생응원 서울 축제’ 개최</title>
+      <link>https://www.chosun.com/national/national_general/2025/06/11/6JRVPV2TZJC2JH3WAL7ISRD5R4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/11/6JRVPV2TZJC2JH3WAL7ISRD5R4/</guid>
+      <dc:creator>박진성 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 11 Jun 2025 02:16:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZG3KKPTRSBF45FNHEIDODAVOUI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;'2025 탄생응원 서울 축제 공모전' 사진 부문 대상을 받은 '오케이 가족'/서울시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;저출생 위기 속 탄생의 소중한 가치를 되새기고 아이 키우는 모든 가족을 응원하는 축제 ‘2025 탄생응원 서울 축제’가 열린다.&lt;br&gt;&lt;br&gt;서울시는 14일 서울시청 다목적홀에서 3회차 축제를 연다고 11일 밝혔다.&lt;br&gt;&lt;br&gt;이번 축제의 슬로건은 ‘함께하는 순간, 더 커지는 행복’이다. 지난 4월 개최한 ‘탄생 응원 서울 축제 공모전’의 사진 부문과 탄생응원송 챌린지 부문 수상작도 발표한다. 출산·육아 과정에서 경험하는 행복한 순간들을 공유해 탄생의 가치를 재인식하자는 취지의 공모전이다. 총 727개 작품이 접수돼 62편이 상을 받는다.&lt;br&gt;&lt;br&gt;축제는 식전 행사, 1부 본행사, 2부 축하공연 순으로 진행된다.&lt;br&gt;&lt;br&gt;식전 행사에서는 행사장을 찾은 가족들을 위한 마술공연이 펼쳐진다. 서울시 마스코트 ‘해치’와 함께하는 포토존에서는 가족과 함께한 특별한 순간을 사진으로 남길 수 있다. &lt;br&gt;&lt;br&gt;1부 행사에서는 공모전 입상 가족들의 이야기를 담은 영상을 보고 오세훈 서울시장과 토크쇼를 진행한다. 이어 참석자들이 탄생응원송 공연에 참여한다.&lt;br&gt;&lt;br&gt;이번 공모전 사진 부문은 ‘우리 가족의 서울 나들이’를 주제로 양육자 가정이 참여했다. 암투병을 극복하고 쌍둥이를 출산한 가족 등의 사연이 수상작들에 담겼다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XSSKE22B5RDGXCIFYU42JV3PK4.jpeg"&gt;&lt;figcaption&gt;&lt;small&gt;'2025 탄생응원 서울 축제 공모전' 사진 부문 최우수상을 받은 '서은이네 가족'/서울시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2부 축하공연에서는 아이들이 좋아하는 곡들로 구성된 노래 공연과 온 가족이 함께할 수 있는 가족참여 이벤트 등 다양한 즐길 거리를 마련했다.&lt;br&gt;&lt;br&gt;축제 현장에는 양육자와 아이들이 휴식을 취할 수 있도록 ‘서울엄마아빠VIP존’을 운영한다. 수유를 위한 아기쉼터, 전문 돌봄교사가 배치된 안전한 놀이·돌봄 공간 등이 마련돼 안심하고 아이를 잠시 맡기거나 함께 휴식을 취할 수 있다.&lt;br&gt;&lt;br&gt;김선순 서울시 여성가족실장은 “1년에 한 번 양육가정이 한 자리에 모여 서로 격려하고 응원하는 ‘탄생응원 서울 축제’가 올해로 세 번째를 맞았다”며 “양육으로 인한 스트레스는 잠시 잊고 엄마아빠들이 아이를 키우는 행복을 함께 나눌 수 있는 뜻깊은 자리가 되길 바란다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[단독] 北 해커와 도박사이트 만들어 판 국내 총책... 2009년부터 거래</title>
+      <link>https://www.chosun.com/national/court_law/2025/06/11/JTVWP6YMAZCK5MFNYWNMFV222I/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/11/JTVWP6YMAZCK5MFNYWNMFV222I/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 11 Jun 2025 01:21:56 +0000</pubDate>
+      <content:encoded>중국 현지에서 북한 해커들과 만나 불법 도박 사이트를 제작, 국내에 이를 유통시킨 총책 김모씨가 2009년부터 북한 해커와 접촉하면서 게임 사이트 해킹 프로그램을 받아 국내에 판매한 것으로 11일 확인됐다. 김씨가 16년 전 북한 해커들과 긴밀한 관계를 맺은 것을 바탕으로 이번 범행을 저질렀다는 것이 검찰 시각이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QGWEOM5K7ZDMZBMVGJA7PTDBZU.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=조선디자인랩 권혜인&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;법무부가 이날 국민의힘 주진우 의원실에 제출한 김씨의 공소장을 보면, 김씨는 2009년 1월 중국 위해시 등지에서 북한 정찰총국 산하 해커들이 국내 유명 온라인 RPG 게임을 해킹해 만든 오토프로그램을 전달받은 뒤 국내 이용자에게 700만원씩 받고 판매했다. 오토프로그램이란 컴퓨터 스스로 온라인 게임을 실행하여 아이템 등을 획득하게 하는 자동게임실행 프로그램을 가리킨다. 이때 김씨는 북한 해커와 직접 접촉하면서 이 해커 팀이 중국 등 해외에 나와 활동 중인 점, 북한 당국의 지시를 받아 외화벌이에 투입되고 있는 점을 인식했다는 것이 검찰 조사 결과다.&lt;br&gt;&lt;br&gt;김씨는 오토프로그램 국내 판매 사건으로 2012년 1월 서울남부지법에서 징역 10개월에 집행유예 2년을 선고받았다. 그러나 2016년에 다시 북한 해커들을 이용해 돈을 벌기로 마음먹었다. 김씨는 중국 연길시에서 313총국 소속 북한 해커 A를 만나 휴대전화 버전의 도박성 게임 4종을 개발해달라고 의뢰하고, 도박 사이트를 디자인해 우리나라에 공급하자는 계획도 세웠다. A는 2019년 8월 북한으로 돌아갔으나, 이때 소개받은 후임자들과 김씨는 종합 도박 사이트를 개발, 공급한 뒤 유지‧보수를 해온 것으로 조사됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/H4KADPYUR5PJHLK6BU43F2CCN4.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;서울중앙지검./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국가정보원은 2023년 1월 첩보를 입수해 내사에 들어갔고, 그해 11월 서울경찰청 안보수사대는 김씨가 우리나라에 들어온 시기에 맞춰 주거지를 압수 수색했다. 지난 4월 30일 김씨는 구속됐고, 서울중앙지검 공공수사1부(부장 이찬규)는 지난달 26일 김씨를 국가보안법 위반과 도박장 개설 등 혐의로 구속 기소했다. 검찰은 김씨와 북한 해커들이 대포 계좌로 보낸 범죄 수익이 약 235억원에 달한다고 보고 있다. 이 가운데 30%인 70억원 상당은 북한 해커에게 전달됐고, 결과적으로 북한 정권에 상납됐다는 것이 검찰의 시각이다. 김씨는 도박 사이트 유지 보수비, 게임 머니 수수료 등으로 전체 수익 가운데 12억8000여 만원을 벌어들인 것으로 조사됐다.&lt;br&gt;&lt;br&gt;주진우 의원은 “북한 해커와 접촉해 불법 도박 사이트를 만들고, 그 수익은 북한으로 흘러간 사건”이라며 “국가안보를 위험에 빠뜨리고 대북송금까지 한 이적행위는 단호하게 처벌해야 한다”라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>제주 쓰레기 대란 피했다…쓰레기 소각장 봉쇄 해제</title>
+      <link>https://www.chosun.com/national/regional/2025/06/11/VLKT4WZNAFD6NEUH7KDQRXMXBQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/06/11/VLKT4WZNAFD6NEUH7KDQRXMXBQ/</guid>
+      <dc:creator>제주=오재용 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 11 Jun 2025 01:37:04 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZYY3CVQPYZKO3EI2ANWMQIJHYE.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;지난 8일 오전 제주시 구좌읍 동복리 제주환경자원순환센터 진입로에 가연성 쓰레기를 실은 수거차량들이 줄지어 서 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;쓰레기 처리에 차질이 빚어졌던 제주환경자원순환센터(폐기물 처리 시설) 운영이 정상화됐다.&lt;br&gt;&lt;br&gt;11일 제주도에 따르면 제주도와 동복리는 전날 밤 제주시 구좌읍 동복리 마을회관에서 실무 협의를 통해 안정적인 쓰레기 처리와 동복리 주도 마을 발전 사업을 하기로 합의했다.&lt;br&gt;&lt;br&gt;이에 따라 동복리는 지난 7일부터 진행해 온 환경자원순환센터 진입로 봉쇄를 풀고 쓰레기 처리에 적극 협조하기로 했으며, 현재 쓰레기 반입과 처리가 정상적으로 이뤄지고 있다고 제주도는 설명했다.&lt;br&gt;&lt;br&gt;이번 합의로 제주도와 동복리는 폐기물처리시설을 활용해 마을이 요구했던 농경지 폐열사업(센터 소각로에서 나오는 폐열을 비닐하우스 등 농경지에 지원하는 사업)에 상응하는 동복리 발전 사업을 하기로 했다.&lt;br&gt;&lt;br&gt;이를 위해 제주도, 동복리, 전문가 집단이 참여하는 상생협의체를 구성해 운영하기로 했다.&lt;br&gt;&lt;br&gt;강애숙 제주도 기후환경국장은 “마을과 행정 간 신뢰성을 구축하고, 앞으로 지속적으로 소통을 강화해 이런 일이 다시는 발생하지 않도록 하겠다”고 말했다.&lt;br&gt;&lt;br&gt;김병수 동복리장은 “협상 과정에서 도정에 대한 믿음이 생겼다. 앞으로 환경자원순환센터 운영과 관련해 동복리도 최대한 협조하겠다”며 어떤 발전 사업을 할지는 상생협의체를 통해 도정과 협의하며 추진할 계획이라고 밝혔다.&lt;br&gt;&lt;br&gt;동복리는 제주도가 농경지 폐열지원사업 또는 그에 상응하는 사업을 추진할 것을 약속했다며 지난 7일부터 센터 진입로를 가로막고 이행을 요구했다.&lt;br&gt;&lt;br&gt;그러나 제주도는 폐열 활용 사업은 용역 결과 타당성이 부족한 것으로 나타났으며, 그에 상응하는 사업을 하기로 약속한 사실은 확인하지 못했다는 입장을 보이며 갈등이 불거졌다.&lt;br&gt;&lt;br&gt;상황이 장기화할 경우 쓰레기 대란이 발생할 수 있다는 우려가 나오기도 했다. 제주에서 발생하는 쓰레기 대부분을 처리하는 제주환경자원순환센터는 5만㎡ 면적에 폐기물 242만㎥를 매립할 수 있는 규모의 매립 시설과 하루 500t가량을 처리할 수 있는 소각 시설을 갖추고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>美 오리건대 “주말에 2시간 이내 늦잠, 청소년 불안·우울 줄이는 데 효과”</title>
+      <link>https://www.chosun.com/national/education/2025/06/11/7FMS7GHFQVG6JKFIXK5QZSZDWQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/education/2025/06/11/7FMS7GHFQVG6JKFIXK5QZSZDWQ/</guid>
+      <dc:creator>최인준 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 11 Jun 2025 01:36:54 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BDLHWK2DOJKXPA7EGPTUQ5RFRY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 광주 동구 조선대학교 운동장에서 열린 대놓고 잠자기 대회 모습/연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;청소년의 주말 늦잠 시간이 2시간 이내가 적당하다는 연구 결과가 나왔다. 평소보다 최대 2시간 가량 잠을 더 자면 불안 증세 완화 효과가 있다는 것이다.&lt;br&gt;&lt;br&gt;미국 오리건대 김소정 연구원(박사 과정)이 10일(현지 시각) 미국수면의학회(AASM) 연례회의에서 청소년 1800명 대상으로 한 연구 결과 수면 시간과 불안 증상 간 연관성을 확인했다고 밝혔다. &lt;br&gt;&lt;br&gt;연구팀은 10대 청소년 1877명(평균 연령 13.5세)에게 스마트 워치(핏비트)를 손목에 착용하게 하고 평일과 주말 수면 시간을 측정했다. 연구에 따르면 주말에 평일보다 최대 2시간 더 잠을 잔 10대 청소년이 주말에 잠을 더 자지 않은 청소년에 비해 불안·우울 등의 증상이 감소한 것으로 나타났다. 반면 주말에 평소보다 2시간 이상 늦잠을 잘 경우 오히려 불안 증상이 증가했다. 과도한 늦잠이 오히려 정신 건강에 역효과를 낼 수 있다는 것이다. &lt;br&gt;&lt;br&gt;연구팀은 “10대 시기 수면 부족은 우울증, 자살 위험을 높이는 요인이 될 수 있다”며 “이 시기 충분한 수면은 집중력, 행동, 감정 조절에 중요하다”고 설명했다. 김 연구원은 “평일과 주말 간 수면 시간 변동이 너무 적거나 너무 많으면 피로감이나 신체적 또는 정신적 증상 해소에 오히려 방해될 수 있다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>인천 시내버스 파업 위기감…인천지노위, 11일 마지막 조정회의</title>
+      <link>https://www.chosun.com/national/national_general/2025/06/11/NHIDC2T255BNBHVQWTFFXB5S34/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/11/NHIDC2T255BNBHVQWTFFXB5S34/</guid>
+      <dc:creator>인천=이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 11 Jun 2025 01:33:03 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/I7Q4NY4LEZLWXJX2L5VIYJZ25M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;시내버스를 타고 내리는 시민들./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천 시내버스 노사 간 임금 협상이 어려움을 겪는 가운데, 11일 오후 진행되는 인천지방노동위원회의 마지막 조정 회의 결과에 관심이 쏠린다. 이 회의에서도 합의가 이뤄지지 않을 경우, 시내버스 파업이 현실화할 가능성이 높다. &lt;br&gt;&lt;br&gt;인천시에 따르면 인천지방노동위원회는 이날 오후 3시부터 전국자동차노동조합연맹 인천지역노동조합(인천버스노동조합)의 노동쟁의 조정 신청에 따른 제3차 특별조정회의를 진행할 예정이다. &lt;br&gt;&lt;br&gt;인천지노위는 지난달 26일과 지난 9일 두 차례에 걸쳐 회의를 열고, 노조와 사측(인천시내버스운송사업조합)의 입장을 들었다. &lt;br&gt;&lt;br&gt;3차 특별조정회의에선 지노위 측이 조정안을 제시하고, 이에 대한 노사간 조율이 밤늦게까지 이어질 것으로 예상된다. &lt;br&gt;&lt;br&gt;인천 버스 노사는 기사 임금에 적용되는 정기 상여금을 통상임금에 반영하는 것에 공감대를 갖고 있다. 앞서 대법원은 상여금은 통상임금으로 반영하는 게 맞는다는 취지로 판결했다. &lt;br&gt;&lt;br&gt;그러나 반영 방식을 두고는 접점을 찾지 못하고 있다. 노조는 약 9.3%의 임금 상승 효과가 발생하는 방식을 주장하고 있다. 애초 14.9% 수준에서 일부 조정했다. &lt;br&gt;&lt;br&gt;반면 사측은 상여금을 통상임금에 반영하되, 임금 상승 효과를 최소화해야 한다는 입장이다. 사측은 노조 측의 주장대로라면, 연간 320억원 이상의 재정 부담이 추가로 발생한다며 난색을 표하고 있다.&lt;br&gt;&lt;br&gt;노조 측은 상여금의 통상임금 반영 이외에도, 8.2%의 임금 인상, 무사고 수당 인상 등을 함께 요구하고 있다. &lt;br&gt;&lt;br&gt;노조 측은 3차 본조정 회의에서 합의가 이뤄지지 않을 경우, 조합원 대상 파업 찬반 투표 등 파업을 위한 절차를 밟을 예정이다. 파업이 현실화할 경우, 대부분의 버스가 운행하지 않는 전면 총파업이 예상되고 있다. 인천 시내(간선‧지선)버스는 193개 노선의 1962대로, 5101명의 기사가 근무하고 있다.&lt;br&gt;&lt;br&gt;인천시는 지난 2009년부터 버스 운영 손실을 보전해주는 ‘버스 준공영제’를 운영하고 있다. 지난해 준공영제를 위해 2300억원의 예산을 투입했다. &lt;br&gt;&lt;br&gt;인천시는 버스노조 파업 시, 출퇴근 시간대 지하철 운행을 늘리고 관용차 70여 대와 전세버스 40여 대를 활용한 지하철 연계 무료 셔틀버스를 운행할 방침이다. 또 직장인 출근 시간과 학생 등교 시간을 조정 방안, 유연근무제 확대 방안 등을 관계기관과 협의할 계획이다. &lt;br&gt;&lt;br&gt;인천시 관계자는 “시내버스 파업 사태가 발생하지 않도록 최선을 다할 것”이라고 말했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>가세연 김세의 강남 아파트 2채 가압류… 채권자는 김수현 소속사</title>
+      <link>https://www.chosun.com/national/national_general/2025/06/11/RZ5OBOYQH5CT7K6CU3HAG6VAWE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/11/RZ5OBOYQH5CT7K6CU3HAG6VAWE/</guid>
+      <dc:creator>이가영 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 11 Jun 2025 01:17:20 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6BZMAW7UFRNEHLED3VF6AXBDDI.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;김세의 가로세로연구소 대표가 지난 5월 7일 오후 서울 강남구 스페이스쉐어에서 배우 김수현 관련 기자회견을 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김세의(48) 가로세로연구소 대표가 소유한 서울 서초구와 강남구 아파트에 대해 법원이 가압류 결정을 내렸다. 채권자는 가세연과 고(故) 김새론 유족을 상대로 120억원 규모의 손해배상청구 소송을 제기한 배우 김수현의 소속사 골드메달리스트다. &lt;br&gt;&lt;br&gt;11일 골드메달리스트의 법률대리인 법무법인 엘케이비앤파트너스에 따르면, 서울중앙지법은 최근 김 대표 명의의 서울 서초구 ‘서초 벽산블루밍’ 아파트와 강남구 압구정동 ‘한양4차’ 아파트에 대한 총 40억원의 가압류 신청을 인용했다. 한양4차 아파트는 김 대표와 친누나 공동명의로 되어 있어 김 대표 소유 지분에 대해서만 가압류가 설정된 것으로 전해졌다.&lt;br&gt;&lt;br&gt;두 아파트의 시세는 100억원가량에 이르는 것으로 추정된다. 한양4차 전용 208.65㎡는 지난달 2층 매물이 88억7000만원에 매매됐다. 서초 벽산블루밍의 경우 가장 최근인 2023년 매매가가 16억원가량으로, 현재 시세는 이보다 높을 것으로 보인다. &lt;br&gt;&lt;br&gt;전문가는 법원이 가압류 신청을 받아들인 것은 김수현 측의 청구가 일리 있다고 판단한 것이라고 설명했다. 노종언 대표변호사(법무법인 존재)는 “가압류를 신청할 때는 손해배상의 원인이 되는 불법행위 성립 여부와 가압류 청구 금액에 대해 소명하게 되어 있다”며 “현 단계에서는 김수현 측에서 가세연의 불법 행위로 인한 피해 정도를 소명했고, 법원이 이를 받아들인 것으로 볼 수 있다”고 했다. 다만 “가압류 결정은 일방의 서면 주장으로만 판단하다 보니 본안에서는 가세연 측의 항변에 따라 결과가 달라질 가능성도 있다”고 했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IFVEBEFM5CEFSSIOND474PMCJY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;배우 김수현(왼쪽), 故 김새론. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;가세연과 김수현 측의 법정 공방은 지난 3월 시작됐다. 가세연은 김새론 유족 측 발언을 인용해 김수현이 2015년 당시 15세였던 김새론과 6년간 교제했다고 주장했다. 김수현 측은 가세연에 김수현의 사생활 사진을 제공한 김새론 유족과 그 사진을 유튜브 방송에 게시한 운영자 김세의 대표를 성폭력범죄의 처벌 등에 관한 특례법 위반(카메라 등 이용 촬영물 반포 등) 혐의로 고발했다. 이후 김 대표를 정보통신망법상 명예훼손 혐의와 스토킹 처벌법 위반 혐의로, 김새론 유족은 정보통신망법상 명예훼손 혐의로 추가 고소‧고발했다. 아울러 120억원의 손해배상소송도 제기했다. &lt;br&gt;&lt;br&gt;김새론 유족 측은 김수현을 아동복지법 위반과 무고 혐의로 맞고소했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>노동계, 내년 최저임금 1만1500원 요구...올해 대비 14.7%↑</title>
+      <link>https://www.chosun.com/national/labor/2025/06/11/TCCWN6NQXRENRCZ3RWBAWRWJSI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/labor/2025/06/11/TCCWN6NQXRENRCZ3RWBAWRWJSI/</guid>
+      <dc:creator>정해민 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 11 Jun 2025 01:00:34 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NBXGJPIVWT5K7GWD7FETMMBCIA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;10일 세종시 정부세종청사에서 열린 최저임금위원회 제4차 전원회의에 참석한 사용자위원과 근로자원들이 각자의 의견이 적힌 손팻말과 머리띠를 착용한 채 회의를 시작하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;11일 노동계가 내년 최저임금으로 시급 1만1500원을 요구했다. 이는 올해 최저임금(1만30원)보다 14.7% 인상된 수치다.&lt;br&gt;&lt;br&gt;한국노총, 민주노총 등은 이날 오전 10시 서울 종로구 세종문화회관 앞에서 기자회견을 열고 이같이 밝혔다. 최저임금이 시급 1만1500원일 경우, 주 40시간·월 209시간 근무 기준 월 급여 240만3500원 수준이다.&lt;br&gt;&lt;br&gt;노동계는 올해 최저임금을 결정한 작년 최저임금위원회에서 최초로 요구한 최저임금(1만2600원)보다는 이번 최초 요구안에서 금액을 낮췄다.&lt;br&gt;&lt;br&gt;양대노총은 내년 최저임금으로 1만1500원을 주장하면서 “현재 최저임금 인상률은 생계비 상승률을 따라가지 못하고 있다”고 했다. 윤석열 정부 기간 동안 경제성장률에 못 미치는 최저임금 인상으로 실질임금 인상률이 -0.98%을 기록했다는 것이다.&lt;br&gt;&lt;br&gt;그러면서 “최저임금 수준은 지난 5년간 경제성장률과 물가상승률을 반영한 경제지표와 최저임금 인상률 격차(11.8%), 최저임금 산입범위 확대에 따른 실질임금 하락에 대한 조정분(2.9%)을 반영해 2026년 적용 최저임금은 시급 1만1500원(14.7% 인상)을 보장해야 한다”고 밝혔다.&lt;br&gt;&lt;br&gt;전날 최저임금위원회 공익위원 측은 도급제 근로자 최저임금 확대적용과 관련해 “현재까지 제시된 실태조사로는 논의를 진척시키기 어렵다”며 고용노동부에 2027년도 최저임금 심의 시까지 실태조사 결과를 제출해줄 것을 요청한 바 있다. 이에 대해 양대노총은 “아쉬운 결정이지만 권고안대로 정부가 하루빨리 도급제 노동자가 최저임금을 적용받을 수 있도록 조사에 착수하라”고 했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>방송 재개 주호민 “2심 무죄 비꼬는 댓글, 명백한 왜곡”</title>
+      <link>https://www.chosun.com/national/national_general/2025/06/11/3OIY23TUOFB2ZOOEIWOX2UFLUQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/11/3OIY23TUOFB2ZOOEIWOX2UFLUQ/</guid>
+      <dc:creator>이가영 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 10 Jun 2025 23:53:11 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/R3K2NMLC7GJSCASF2A45WNLJII.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;웹툰작가 주호민씨. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;웹툰 작가 주호민씨가 자신의 아들을 학대한 혐의로 기소된 특수교사가 2심에서 무죄를 받은 것과 관련 “왜곡되거나 오해되는 부분들은 바로잡겠다”고 밝혔다. 2심 판결 이후 활동 중단을 선언한 지 약 한 달 만이다. &lt;br&gt;&lt;br&gt;주씨는 10일 자신의 유튜브에 “이번에 방송을 재개하면서 지난 재판 이야기를 짚고 넘어가겠다”며 “많은 분이 2심 무죄 판결을 보고 ‘교사의 행동은 학대가 아닌 정당한 교육활동이었다고 법원이 판단했다’고 생각하신 것 같다”고 했다. 이어 “그래서 ‘축하드린다. 아드님이 학대를 당한 게 아니었다’며 비꼬는 댓글이 많이 달렸다”며 “하지만 그건 사실이 아니다”라고 했다. &lt;br&gt;&lt;br&gt;주씨는 “2심에서는 교사의 발언이 학대였는지 아니었는지를 아예 판단하지 않았다. 그 발언의 증거 자체가 통신비밀보호법 때문에 증거로 쓰이지 못했기 때문”이라며 “법원이 ‘불법적으로 수집된 증거’라고 보고, 내용 검토조차 못 한 채 무죄 판결을 내린 것”이라고 했다. 그러면서 “일부에서 정당한 교육 활동으로 인정받은 것처럼 말하고 있고, 기사도 그렇게 쓰인 경우가 있었다”며 “그건 명백한 왜곡”이라고 했다. &lt;br&gt;&lt;br&gt;그는 “자신의 상황을 정확하게 전달할 수 없는 분이 많다”며 “발달장애인, 요양원 노인분들에게 가해지는 학대를 우리는 어떤 방법으로 찾아낼 수 있느냐”고 되물었다. 이어 “설령 찾아낸다 해도 법정에서 증거로 인정받지 못한다면, 그 학대는 끝내 처벌받지 못한 채 묻혀버리고 마는 것 아닌가”라고 했다. &lt;br&gt;&lt;br&gt;주씨는 “이 부분을 대법원에서 다시 판단하게 된다. 그래서 이번 대법원 판단이 참 중요하다고 생각한다”며 “단순히 저희 아이 사건 하나의 문제가 아니라, 앞으로도 스스로 목소리를 내기 어려운 아이들과 사회적 약자들이 어떻게 보호받을 수 있을 것인가에 대한 기준이 될 수 있기 때문”이라고 했다. 그러면서 “이 과정에서 왜곡되거나 오해되는 부분들은 계속 바로잡아가려고 한다”며 “조금 더 정확한 사실을 알고 같이 고민해 주셨으면 한다”고 했다. &lt;br&gt;&lt;br&gt;지난달 13일 수원지법 형사항소6-2부(재판장 김은정)는 아동 학대 혐의로 기소된 초등학교 특수교사 A씨에게 무죄를 선고했다. 항소심 재판부는 “피해 아동 모친이 자녀 옷에 녹음 기능을 켜둔 녹음기를 넣어 수업 시간 중 교실에서 이뤄진 피고인과 아동의 대화를 녹음했다”며 “이런 녹음 파일과 녹취록은 통신비밀보호법을 위반한 ‘공개되지 않은 타인 간 대화’에 해당하므로 이를 증거로 사용할 수 없다”고 판단했다. 아울러 “검사가 제출한 증거를 종합해 보더라도 피고인이 이 사건 공소사실에 기재된 발언을 했다고 인정하기 부족하고, 달리 이를 인정할 만한 증거가 없다”고 무죄 이유를 밝혔다. &lt;br&gt;&lt;br&gt;주씨는 당시 “이번 결과는 저희의 바람과는 달랐지만, 법원의 결정을 존중한다”며 “당분간은 조용히 가족의 곁을 지키려 한다. 잠시 자리를 비우더라도 보내주신 마음과 응원은 잊지 않겠다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“물고기 풀어줬으니 내 앞날도 풀리길” 방생하러 달려가는 2030</title>
+      <link>https://www.chosun.com/national/national_general/2025/06/11/US2HVQWEYRCPZE5IPZ4P5TRLAU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/11/US2HVQWEYRCPZE5IPZ4P5TRLAU/</guid>
+      <dc:creator>양인성 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 11 Jun 2025 00:00:22 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YTZFHSNX35HZPMH77A7KUH4IEQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이달 초 광진구 뚝섬유원지에 위치한 방생 법당에서 취업준비생 이동혁씨가 메기를 한강에 풀어주고 있다./양인성 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“풀려나는 미물들을 자비롭게 감싸주시고 올해 재수대통(財數大通)하도록 보살펴 주소서.”&lt;br&gt;&lt;br&gt;지난달 31일 서울 광진구 뚝섬유원지 ‘방생 법당’을 찾은 양명지(26)씨는 잉어 네 마리가 담긴 플라스틱 통을 들고 이렇게 기도했다. 그러고는 조심스레 잉어들을 한 마리 한 마리 한강에 풀어줬다. 작년 8월 대학 졸업 후 10개월째 취업을 준비 중이라는 양씨는 “갇혀있던 잉어들을 자유롭게 살도록 도왔으니 답답한 제 앞날도 좀 풀리지 않겠느냐”며 웃었다.&lt;br&gt;&lt;br&gt;한강 ‘방생 법당’을 찾는 20·30세대가 늘고 있다. 이곳에선 양식장이나 낚시로 잡은 물고기를 도매가로 사서 방생 체험을 원하는 이용객들에게 마리당 1만~10만원에 판다. 방생 어종은 한강 생태계를 해치지 않기 위해 국내 토속 어종인 잉어와 메기만 판매한다. 대한불교 조계종이 ‘빨리빨리’ 문화와 치열한 경쟁에 지친 청년들에게 방생을 통해 자비(慈悲)를 실천하도록 불교의 가르침을 전하고 있는 것이다. 다니던 회사를 그만두고 새 일자리를 구하고 있다는 이동혁(31)씨는 “이직 기간이 길어지다 보니 낮잠을 자도 불안한 마음이 생겨서 방생으로 마음을 다스려보려고 왔다”면서 “내년 상반기 안엔 취직이 되게 해달라고 빌었다”고 했다. 그도 이날 메기 한 마리를 강에 풀어줬다.&lt;br&gt;&lt;br&gt;도살될 동물을 풀어줘 생명을 구하는 불교 관행인 ‘방생’을 체험하는 이 법당은 1978년 설립돼 47년째 운영 중이다. ‘힐링 문화’ 등이 유행한 약 3년 전부터 법당에는 청년들이 하나둘 찾아오기 시작해 최근엔 방생 체험객 절반가량이 20·30세대라고 한다.&lt;br&gt;&lt;br&gt;방생 법당에 따르면 하루 체험객 50~60명 가운데 절반 정도가 20·30 세대라고 한다. 실제로 본지 기자가 방생 법당을 방문한 지난달 31일 오전 약 2시간 동안 9명이 법당을 찾아 방생을 체험했는데, 그중 5명이 청년 세대였다. 천근철(77) 방생 법당 사무처장은 “예전에는 아주머니들이나 할머니들이 주로 방문했는데, 요즘은 젊은 사람들이 더 많이 온다”며 “취업 기원을 하는 취준생이 가장 많고, 시험을 잘 치게 해달라며 오는 고3 수험생들도 있다”고 했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>이건주, 태어나자마자 입양 간 친동생 재회… “기쁨보단 미안했다”</title>
+      <link>https://www.chosun.com/national/national_general/2025/06/11/7GBR4BQ5IVECLDEJXIQN7YZ77U/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/11/7GBR4BQ5IVECLDEJXIQN7YZ77U/</guid>
+      <dc:creator>김자아 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 11 Jun 2025 00:04:07 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KUQYCGPNGRANLLKWESIXVU4HPY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;배우 이건주가 입양간 친동생과 재회했다./TV조선&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;배우 겸 무속인 이건주(43)가 태어나자마자 프랑스로 입양 간 친동생과 18년 만에 재회했다.&lt;br&gt;&lt;br&gt;이건주는 10일 방송된 TV조선 ‘아빠하고 나하고’를 통해 친동생 이건철씨를 만나기 위해 프랑스를 방문한 모습을 공개했다.&lt;br&gt;&lt;br&gt;외동으로 알고 자랐던 이건주는 성인이 된 뒤에야 두 살 터울의 남동생이 있다는 사실을 알게 됐다고 한다.&lt;br&gt;&lt;br&gt;이건주는 “행복한 기쁨보다 너무 미안했다. 동생은 아무도 없이 입양됐고, 저는 가족 품에 남겨졌으니까”라며 눈물을 흘렸다. &lt;br&gt;&lt;br&gt;프랑스 남부 도시 리옹의 한 기차역에 도착한 이건주는 떨리는 마음으로 동생을 기다렸다. 이내 멀리서 걸어오는 동생의 모습을 보자마자 “미안해 건철아”를 반복하며 눈물을 쏟았다. 동생은 말없이 형을 다독였다.&lt;br&gt;&lt;br&gt;이건주는 동생을 위해 한국에서 캐리어 한가득 챙겨온 김, 라면, 참치캔, 김치 등을 선물했고, 직접 끓인 김치찌개와 닭볶음탕으로 한 끼를 차려줬다. 동생은 “맨날 형이 차려준 밥을 먹을 수 있다면 좋겠다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WOH2Z4ATJ5AFZGLXPS5IZUKDZA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;배우 이건주가 입양간 친동생과 재회했다./TV조선&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;두 사람은 이건주가 27세였던 18년 전 한국에서 한 차례 재회했다. 자신의 정체성을 찾아 한국 여행을 온 동생이 우여곡절 끝에 이건주와 가족들을 찾아냈지만, 당시엔 언어 장벽과 오해로 형제 사이가 멀어졌다고 한다. &lt;br&gt;&lt;br&gt;이건주는 “그땐 미숙했고, 형으로서 아무것도 해주지 못했다”며 “이번엔 꼭 다르게 하고 싶었다”고 했다.&lt;br&gt;&lt;br&gt;동생은 제작진과의 인터뷰에서 “형과 제가 마치 어제 헤어진 것 같다. 모든 게 자연스러웠고 편안했다. 형과 함께한 순간이 좋았다”고 밝혔다. 이건주도 “너무 행복했다. 어떤 말을 하지 않아도 행동이 먼저 나오고 눈빛만 봐도 알 것 같고 뭐든 해주고 싶었다”고 말했다.&lt;br&gt;&lt;br&gt;이건주는 1986~1994년 방영한 드라마 ‘한 지붕 세 가족’에서 순돌이 역을 맡아 아역배우로 얼굴을 알렸다. 지난해 신내림을 받은 그는 현재 무속인의 길을 걷고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/EHQXTFKAT5AENKDZ3EIK6NGM3A.jpg?auth=2e83ce06be416349c0855a5c1ddb550d391bda274e5926d20f42fe536ef11531&amp;smart=true&amp;width=587&amp;height=330" type="image/jpeg" height="330" width="587">
+        <media:description type="plain">배우 이건주가 입양간 친동생과 재회했다./TV조선</media:description>
+      </media:content>
+    </item>
+    <item>
       <title>수능 23번과 ‘판박이’ 지문 냈던 ‘1타강사’ 조정식…결국 검찰 송치 </title>
       <link>https://www.chosun.com/national/national_general/2025/06/11/I5RHB3TYDRAEXOXGCMS5BXM6MU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/11/I5RHB3TYDRAEXOXGCMS5BXM6MU/</guid>
@@ -674,24 +794,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7UTNA2G5NRDS7PNNMSFTYRL5FU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;10일 오전 2시 28분쯤 불이 난 인천시 미추홀구 관교동의 한 백화점 배전실./ 인천소방본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한밤중 인천의 한 유명 백화점에서 불이 나 진화에 나섰던 소방관 1명이 다쳤다. &lt;br&gt;&lt;br&gt;10일 인천소방본부에 따르면 이날 오전 2시 28분쯤 인천시 미추홀구 관교동의 한 백화점 1층 배전실에서 화재가 발생했다. &lt;br&gt;&lt;br&gt;이 불로 배전실 안쪽 10㎡와 설비 등이 타 소방서 추산 6200만원 상당의 재산 피해가 났다. &lt;br&gt;&lt;br&gt;또 진화 작업에 나선 40대 소방관이 허리 부위를 다쳐 119 구급대에 의해 병원으로 옮겨져 치료를 받았다. &lt;br&gt;&lt;br&gt;소방 당국은 소방관 등 90여 명과 펌프차 등 35대를 투입해 50여 분 만인 3시 49분쯤 불을 완전히 껐다. &lt;br&gt;&lt;br&gt;소방 당국은 구체적인 화재 원인 등을 조사할 계획이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>“깜빡했다” 렌터카에 K-2 소총 두고 내린 신병… 사흘 뒤 민간인이 발견 </title>
-      <link>https://www.chosun.com/national/national_general/2025/06/10/5LFYTMY2X5DF7CVHYRSL4W5G2A/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/10/5LFYTMY2X5DF7CVHYRSL4W5G2A/</guid>
-      <dc:creator>최혜승 기자 </dc:creator>
-      <description/>
-      <pubDate>Tue, 10 Jun 2025 00:09:04 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RQ2NCRZ3F5E33NZEK4JFWQ3PXU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;K-2 소총으로 무장한 군인. /연합뉴스TV&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;육군 모 부대에서 한 신병이 렌터카에 두고 내린 K-2 소총을 사흘 뒤 민간인이 발견했다. 부대 측은 총기 신고가 접수되기 전까지 총기 분실 사실을 인지하지 못했던 것으로 전해진다. &lt;br&gt;&lt;br&gt;10일 군 당국에 따르면, 대구·경북 소재 육군 모 부대의 한 부사관은 지난 5일 신병교육대를 막 수료한 신병을 렌터카를 이용해 부대로 인솔했다. &lt;br&gt;&lt;br&gt;당시 신병은 자대에서 새로 지급받은 K-2 소총을 지니고 있었는데, 새 주둔지에 도착한 뒤 깜빡하고 소총을 차에 두고 내렸다. 인솔을 마친 부사관도 차에 신병의 소총이 있다는 사실을 알지 못한 채 렌터카를 반납했다.&lt;br&gt;&lt;br&gt;이 부대는 이후로도 신병의 소총이 사라졌다는 사실을 몰랐던 것으로 전해진다. 사흘 뒤인 지난 8일 ‘렌터카에 소총이 있다’는 민간인의 신고가 경찰에 접수됐고, 부대는 즉각 출동해 렌터카에 있던 K-2 소총을 회수했다.&lt;br&gt;&lt;br&gt;국회 국방위원회 소속 더불어민주당 추미애 의원은 “분실 후 민간인 발견 전까지 사흘간 총기 분실 사실을 전혀 인지하지 못한 것은 군 기강의 문제”라고 했다.&lt;br&gt;&lt;br&gt;이와 관련 육군 관계자는 조선닷컴에 “현재 군 수사기관에서 경위를 파악 중이라 말하기 어렵다”며 “조사 후 결과에 따라 필요한 후속 조치를 할 예정”이라고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘양 적다’며 떡볶이를 얼굴에… ”어머니 생각에 피가 솟는다”</title>
-      <link>https://www.chosun.com/national/national_general/2025/06/10/QQ376TPCPFHI7JZZCGNNG3OK24/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/10/QQ376TPCPFHI7JZZCGNNG3OK24/</guid>
-      <dc:creator>이가영 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 09 Jun 2025 23:54:04 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IS7IE2RWU5HH7L7ZBXCKOPNVQ4.png"&gt;&lt;figcaption&gt;&lt;small&gt;배달받은 떡볶이의 양이 적다며 고객이 매장에 찾아와 직원의 얼굴에 떡볶이를 던지는 일이 발생했다. /보배드림&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;배달받은 떡볶이의 양이 적다는 이유로 가게에 찾아와 직원에게 음식을 던진 사건이 온라인에서 논란이 됐다. &lt;br&gt;&lt;br&gt;8일 온라인 커뮤니티 보배드림에는 ‘음식을 얼굴에 던졌습니다. 조언요청’이라는 제목의 글이 올라왔다. &lt;br&gt;&lt;br&gt;글쓴이 A씨에 따르면, 지난 7일 오후 6시 1분쯤 떡볶이 주문이 들어와 16분 뒤 배달이 완료됐다. 그리고 오후 6시 30분쯤 “떡볶이가 7개밖에 없다”며 배달앱 측에 고객의 항의가 들어왔다고 한다. &lt;br&gt;&lt;br&gt;이후 배달앱 상담사 측의 실수로 다른 고객의 음식 사진이 전달되는 등 문제가 있었고, A씨는 오후 7시 13분쯤 고객과 직접 통화했다고 설명했다. A씨는 “환불을 해드리겠다”고 안내하며, 매장에서 음식 재료를 사전에 소분해 놓기 때문에 떡볶이 양에 문제가 없음을 이야기했다고 한다. 매장에서는 떡 17~18개와 어묵, 메추리알, 비엔나 소시지를 미리 소분해 놓고 주문이 들어오면 비닐을 뜯어 조리하는 것으로 전해졌다. &lt;br&gt;&lt;br&gt;하지만 고객은 환불이 아닌 보상을 요구했다고 한다. A씨는 환불을 원치 않으면 재배달해주겠다고 했으나 고객은 “거기 가면 당신 만날 수 있는 거예요?”라고 물었다. A씨는 “어머니가 (일)하고 계시다”고 말했고, 고객은 “대화가 안 되네 당신이랑은. 환불해주면 된다고? 어머니가 욕 좀 보시겠네”라고 말한 뒤 전화를 끊었다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YUYSCYXJ4ZC47N7AARHSX6JYMI.gif"&gt;&lt;figcaption&gt;&lt;small&gt;남성 고객이 매장에 찾아와 A씨의 어머니에게 떡볶이를 던지는 장면. /JTBC '사건반장'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;잠시 뒤 고객이 매장에 찾아왔고, 홀로 일하던 어머니는 “환불이나 재조리 등 원하는 대로 해주겠다”고 했으나 고객은 “됐다”며 떡볶이를 그대로 얼굴에 던졌다. A씨는 “어머니 눈에 국물이 들어갔고, 어머니도 정신 없어 (고객을) 밀치고 어깨 한두 번을 잡고 쳤다”며 “이후 경찰이 와서 방범카메라(CCTV)를 확인하고 사건을 접수했다”고 했다. &lt;br&gt;&lt;br&gt;A씨는 “아무리 화나도 음식을 사람 면전에 뿌리나. 하루가 지나도 사과 전화도 안 온다”며 고객이 쌍방 폭행을 주장하며 가게 CCTV를 요구한 상황이라고 전했다. &lt;br&gt;&lt;br&gt;박지훈 변호사는 JTBC ‘사건반장’에 “떡볶이를 얼굴에 던지는 것은 뜨거운 것도 문제지만, 매우 모욕적인 행동”이라며 “그런 상황에서 어머니가 고객을 밀치는 모양새”라고 했다. 박 변호사는 “전혀 예상할 수 없는 폭행에 대해서 소극적 방어 행위를 한 것으로, 쌍방폭행보다는 정당방위 가능성이 있어 보인다”며 “너무나 예상할 수 없는 폭행이 이뤄졌다는 점까지 살펴봐야 한다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>‘옷 벗기고 삭발’ 청양 고교생 집단 학폭… ”가해 학부모는 경찰”</title>
       <link>https://www.chosun.com/national/national_general/2025/06/10/EIHPLU26JFCL7DIJPVXYMOGKFQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/10/EIHPLU26JFCL7DIJPVXYMOGKFQ/</guid>
@@ -726,15 +828,6 @@
       </media:content>
     </item>
     <item>
-      <title>연간 수백만원... 모두가 불편한 축의금, 이젠 사회적 논의할 때</title>
-      <link>https://www.chosun.com/national/welfare-medical/2025/06/10/Q5AJNP467BB73E4LWQ63C5IOSM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/06/10/Q5AJNP467BB73E4LWQ63C5IOSM/</guid>
-      <dc:creator>곽래건 기자, 오유진 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 09 Jun 2025 15:53:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2EC2ZH5ZPRCGZF6B4J7E2237IY.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽그래픽=백형선&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;중견기업 임원 정모(54)씨는 결혼 성수기인 지난달 축의금으로만 60만원을 썼다. 회사에서 가까운 직원뿐 아니라 평소 잘 모르던 직원에게까지 청첩장을 받았기 때문이다. 정씨는 “사회생활 체면상 잘 모르는 관계여도 10만원씩은 낸다”며 “한 해 500만원 정도를 축의금으로 쓰고 있지만 돌려받을 수 있다는 기대는 안 한다”고 했다.&lt;br&gt;&lt;br&gt;세 살 아이를 둔 직장인 최모(38)씨는 올 들어 벌써 축의금으로 200만원 넘게 썼다. 최씨는 “내 아이가 자라서 결혼을 할지, 그때 축의금을 돌려받을 수 있을지는 잘 모르겠다”고 했다.&lt;br&gt;&lt;br&gt;신혼부부의 앞날을 축복한다는 취지에서 시작된 축의금 문화가 최근 과도한 예식 비용 구조와 맞물리면서 ‘축의금 청구서’처럼 변질된 것 아니냐는 말이 나온다. 축의금을 받은 신혼부부 입장에서도 예식장 빌리고 식대 내면 남는 게 거의 없다는 것이다. 이런 가운데 부모 세대로부터 이어진 ‘축의금 대물림’의 고리를 끊을 계기가 마땅치 않아 미래 세대가 ‘작은 결혼식’으로 이행하기가 더 어렵다는 지적도 나온다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HHIV5Q3PKJAJHDHIHM7BH6UFCU.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=백형선&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;젊은 세대는 “최근 물가가 많이 올라 축의금이 부담스럽다”고 말한다. 대기업 신입 사원 이모(26)씨는 “직장 선배가 결혼한다며 청첩장을 줬는데, 서울의 한 고급 호텔로 식대만 20만원에 가까운 곳이어서 축의금을 얼마로 할지 계속 고민된다”며 “내 집 마련을 위해 돈을 모아야 할 시기에 이렇게 쓰는 것이 맞냐는 생각도 들었다”고 했다. &lt;br&gt;&lt;br&gt;사회생활이 쌓이고 직급이 높아질수록 청첩장을 더 많이 받고, 축의금 지출은 눈덩이처럼 커지게 마련이다. 대기업 팀장 이모(47)씨는 “요새는 오다 가다 얼굴만 마주친 신입들도 ‘팀장님’이라며 청첩장을 주는데 난감하다”며 “초등학생인 아이가 결혼할 때까지 회사에 다닐 것도 아니지만 5만원은 쪼잔해 보일 것 같아 어쩔 수 없이 10만원씩 주고 있다”고 했다. 실제 취업 정보 사이트 인크루트가 지난달 직장인 회원 844명을 대상으로 ‘직장 동료 결혼식의 적정 축의금’을 조사한 결과, 61.8%가 10만원이라고 답했다. 32.8%는 5만원이라고 했고, 5만원 미만은 3.2%에 불과했다. &lt;br&gt;&lt;br&gt;50대인 한 중견기업 간부는 “회사 문화가 끈끈한 편이어서 웬만한 직원에게는 축의금으로 10만원, 한 번이라도 데리고 일했던 직원이면 20만원을 낸다”며 “회사 안팎으로 청첩이 몰리는 달에는 200만원 넘게 써봤다”고 했다. 이런 부담을 줄이고자 일부 대기업에서는 일괄적으로 1인당 5만원씩 모아 개인이 아닌 팀 이름으로 봉투를 내는 경우도 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IOQKWFYVAZENZPSNDYVOLHWAHI.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=백형선&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;축의금은 ‘내가 낸 돈을 훗날 돌려받는다’는 암묵적 계약을 통해 유지된다. 하지만 개인주의 등 시대 변화로 불확실성은 커지고 있다. 비혼주의 직장인 이모(41)씨는 “나는 결혼 생각이 없는데, 돌려받지도 못할 축의금을 내면서 가끔 억울하다고 느낄 때가 있다”며 “축의금을 안 내면 그 사람과의 관계가 끊어질 테니 ‘관계 유지 비용’이라고 생각하며 축의금을 낸다”고 했다. &lt;br&gt;&lt;br&gt;만혼 등으로 결혼 시기가 다양해진 것도 변수다. 서울에 사는 미혼의 김모(26)씨는 “요즘 ‘결혼 축하 비용’은 낭비 같다는 생각이 든다”고 했다. &lt;br&gt;&lt;br&gt;인터넷 커뮤니티에도 “그다지 가깝지 않은 친구가 청첩장을 줬는데, 어떻게 해야 하나요” “저는 언제 결혼할 수 있을지 모르는데 축의금을 내야 하나요”라는 고민이 종종 올라온다. 요즘엔 ‘본전’을 지키겠다는 생각으로 축의금을 얼마 내고 돌려받았는지 컴퓨터 엑셀 파일로 기록해 놓는 경우도 많다. 경기도에 사는 박모(43)씨는 “내가 결혼할 때 한 친구가 내가 예전에 냈던 축의금보다 적은 축의금을 보내와 감정이 상했었다”며 “축의금 문화가 진정한 ‘축하’인지 의문이 들었다”고 했다.&lt;br&gt;&lt;br&gt;갑(甲)과 을(乙)로 촘촘하게 엮인 사회에서 축의금 문화가 악용된다는 지적도 있다. 거래처를 돌며 영업을 하는 대기업 차장 김모(40)씨는 “얼굴 한 번 본 거래처 실무자가 ‘이번에 우리 전무님 딸이 결혼한다’며 청첩장을 주더라”며 “이런 비슷한 경우가 매달 3~4번은 돼서 회사 접대비나 개인 돈을 들여 매번 10만~20만원씩 내고 있다”고 했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[단독] 연구 시간 나눠쓰기까지… AI發 전력난 허덕이는 대학들</title>
       <link>https://www.chosun.com/national/national_general/2025/06/10/ORFDKCCSLBAXREDS6AJUY2OZT4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/10/ORFDKCCSLBAXREDS6AJUY2OZT4/</guid>
@@ -756,15 +849,6 @@
       </media:content>
     </item>
     <item>
-      <title>[인사] 보건복지부 외</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2025/06/10/VGP76I3ZZJBVHMTDETZ74PB7PY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2025/06/10/VGP76I3ZZJBVHMTDETZ74PB7PY/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Mon, 09 Jun 2025 15:52:00 +0000</pubDate>
-      <content:encoded>▲보건복지부◇과장급 전보▷의사집단행동중앙사고수습본부 송양수▷정신건강관리과장 송명준▷건강보험지불혁신추진단장 유정민▷의료개혁추진단 의료체계혁신과장 이선식&lt;br&gt;&lt;br&gt;▲한국예탁결제원◇본부장 보임▷Next KSD 추진단 단장 이승환◇부장 보임▷증권담보부 부장 전일우◇부장 전보▷감사부 부장 김정태▷차세대추진1실 실장 이정욱▷의결권서비스부 부장 박중훈▷글로벌금융부 부장 최순돈▷인사부 부장 이동성◇팀장 보임▷증권정보부 증권정보관리팀 팀장 김성보▷펀드업무부 연금·벤처지원팀 팀장 김사엽▷청산결제부 주식결제팀 팀장 김윤성&lt;br&gt;&lt;br&gt;▲한겨레◇미디어본부 뉴스룸국▷이슈부국장 최혜정▷경제산업부장 노현웅▷뉴콘텐츠부장 김선식▷사회정책부장 김소연&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>해수부 부산 신속 이전, 지역 갈등 번질 조짐</title>
       <link>https://www.chosun.com/national/2025/06/10/3OY54MWGOBBT3BTSLAUO2C67KE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/2025/06/10/3OY54MWGOBBT3BTSLAUO2C67KE/</guid>
@@ -772,15 +856,6 @@
       <description/>
       <pubDate>Mon, 09 Jun 2025 15:53:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BRN7D3KGAFF3LALPQCIVNZKISE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이재명 대통령의 지시로 해양수산부의 부산 이전이 본격화하자 세종시와 인천시에서 잇따라 반대 목소리가 나오고 있다. 최민호 세종시장은 9일 세종시청에서 기자회견을 열고 “당선 이틀 만에 충분한 검토 없이 내려진 해수부 조속 이전이라는 지시는 납득하기 어렵다”며 “지시를 철회하고 충분한 논의를 해달라”고 촉구했다.&lt;br&gt;&lt;br&gt;이 대통령은 지난 5일 취임 후 첫 국무회의에서 “해수부를 빠르게 부산으로 이전하라”고 지시했는데 정면으로 반발한 것이다. 해수부는 현재 세종시에 있다. &lt;br&gt;&lt;br&gt;최 시장은 “해수부 부산 이전은 정부 부처 하나를 세종에서 부산으로 이동하는 것에 그치는 단순한 사항이 아니다”며 “이전 비용과 행정의 효율성, 민원인의 편의, 다른 지역과 형평성, 공무원 주거 문제 등을 다각도로 검토해야 한다”고 주장했다.&lt;br&gt;&lt;br&gt;이어 “이 대통령이 대선 때 세종시를 행정수도로 만들겠다고 강조했는데 이런 국가적인 목표와 충돌할 가능성이 있다”고 했다. 세종시를 행정수도로 만들겠다고 해놓고 정부 부처 중 하나인 해수부를 부산으로 이전하는 건 모순이라는 것이다.&lt;br&gt;&lt;br&gt;앞서 유정복 인천시장도 지난 8일 자신의 페이스북에서 “해수부 부산 이전은 지역 균형 발전 효과보다는 지역 간 갈등을 조장할 수 있다”며 반대 의사를 밝혔다. 해양·수산 기능이 인천 대신 부산으로 쏠릴 가능성을 우려한 것으로 해석됐다.&lt;br&gt;&lt;br&gt;부산시는 이 대통령의 지시에 따라 해수부 이전 준비에 속도를 내고 있다.&lt;br&gt;&lt;br&gt;박형준 부산시장은 이날 부산시청에서 기자들과 만나 “(해수부 이전이) 대통령의 공약인 만큼 빠른 시일 내 추진될 것으로 믿는다”며 “시 차원에서 부지나 직원들을 위한 행정 지원에 최선을 다할 것”이라고 했다. 부산에서는 해수부 이전 부지로 북항 재개발 지역이 거론되고 있다.&lt;br&gt;&lt;br&gt;박 시장은 아울러 “해양·수산 정책의 통합성과 효율성을 위해 관련 해양 기관이 함께 이전하는 것이 바람직하다”고 했다. 해수부뿐 아니라 해양환경공단과 한국해양교통안전공단 등 5개 기관도 함께 이전해야 한다는 것이다.&lt;br&gt;&lt;br&gt;부산시는 앞서 지난 5일 ‘대통령 부산 공약 국정 과제화 보고회’를 열고 구체적인 시행 방안을 논의했다. 부산시 관계자는 “정부 출범 초기 100일이 국정 과제를 실현할 수 있는 중요한 시기로 보고 있다”며 “대통령의 부산 공약이 국정 과제에 들어가도록 소통 채널을 총동원할 것”이라고 했다.&lt;br&gt;&lt;br&gt;이 대통령은 지난 대선 과정에서 “부산을 해양수도로 만들겠다”며 “해수부를 반드시 신속하게 옮기겠다”고 했다. 이와 관련해 국내 최대 해운회사인 HMM 본사 이전, 해사전문법원 신설, 동남권 투자은행 설립 등도 약속했다. 해수부 이전과 달리 HMM 본사 이전은 시간이 걸릴 것으로 보인다. 직원들이 반대하고 있어서다. 현재 HMM 본사는 서울 여의도에 있다. 이 대통령은 부산 유세 때 “HMM은 (민간 기업이지만) 정부 지분이 70%가 넘는다”며 “정부 정책으로 이전하겠다”고 했다. &lt;br&gt;&lt;br&gt;한편, 박형준 부산시장은 새 정부의 해수부 등 해양 기관 부산 이전 추진이 그동안 부산시가 추진하던 핵심 현안을 대체할 수는 없다고 선을 그었다. 박 시장이 말한 핵심 현안은 산업은행 이전과 글로벌허브도시특별법 제정 등이다. 박 시장은 “(산업은행 이전은) 노무현 정부 때부터 이어져 온 2차 공공기관 이전 과제이며, 부산 이전은 이미 국가과제로 선정돼 있다”고 했다. 그는 “산업은행은 단순한 지역 공공기관 이전이 아니라, 혁신 균형 발전의 구심점”이라며 “정권이 바뀌었다고 그 과제가 폐기되어선 안 된다”고 말했다. 이 대통령이 후보 시절 부산 유세에서 산업은행 이전을 대신해 동남권투자은행 신설을 공약한 것에 대해서도 회의적인 입장이다. 그는 “동남권 투자은행이 산업은행 대체물이라는 시각은 위험하다”며 “자칫 잘못하면 고래(산업은행)하고 참치(동남권 투자은행)를 바꾸는 수가 있다”고 했다. 글로벌허브도시특별법과 관련해서는 “북극항로와 같은 미래 전략을 담는 데 유용한 법이다”며 “부산만의 문제가 아니라 대한민국 전체의 글로벌 전략을 위한 기반이다”고 했다. 글로벌허브도시특별법은 부산을 물류·금융·첨단 산업의 메카로 육성할 수 있는 기반조성을 위한 지원과 특례를 담은 법이다. 부산 여야 의원들이 공동 발의했지만 국회 문턱을 넘지 못했다. &lt;br&gt;&lt;br&gt;박 시장은 “(해수부 등 해양기관 이전 등을) 산업은행 이전이나 글로벌허브도시특별법과 맞바꿀 수 있다는 생각은 굉장히 위험하고, 용납할 수 없다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“지오디 한물가지 않았나” 경주시장 발언 논란...박준형이 보인 반응은</title>
-      <link>https://www.chosun.com/national/national_general/2025/06/10/H2OHFHV4MFAKJA4W7T7J3KMR4Q/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/10/H2OHFHV4MFAKJA4W7T7J3KMR4Q/</guid>
-      <dc:creator>정아임 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 09 Jun 2025 15:59:47 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WEU52B2LCNDBLHR3LANYHGRFH4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;그룹 지오디(god)./인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;주낙영 경주시장이 그룹 지오디(god)를 ‘한물간 아이돌’이라고 표현해 논란이 되고 있다. &lt;br&gt;&lt;br&gt;9일 경주시 보덕동에 위치한 행정복지센터 옆 헬기장에서는 KBS2 ‘불후의 명곡’ 2025 경주 APEC 특집 녹화가 진행됐다. &lt;br&gt;&lt;br&gt;현장에 있던 관객들이 올린 글에 따르면 이날 본 녹화 전 무대에 오른 사전 MC는 분위기를 띄우기 위해 “여러분들의 가수들이 무대 뒤에서 여러분 목소리를 다 듣고 있다”며 “경주시장님 모시고 한마디 들어볼까요?”라고 말했다. 이에 마이크를 든 주 시장은 출연자 명단에 god가 있는 것을 보고는 “god는 우리 세대 때 가수인데 한물가지 않았나?”라고 말했다고 한다. &lt;br&gt;&lt;br&gt;이날 녹화에는 화사, 이승윤, 싸이, 정동원 등이 참여 가수로 이름을 올렸다. god는 이들 중 가장 이른 1999년 데뷔한 그룹이다.&lt;br&gt;&lt;br&gt;주 시장의 발언을 두고 여러 온라인 커뮤니티와 소셜미디어(SNS)에는 그의 사과를 요구하는 글들이 이어졌다. 네티즌들은 “무례하다” “멀리서 열리는 지역 행사에 초대받아 참석한 가수한테, 공식 석상에서 당사자들이 듣고 있는 자리에서 ‘한물갔다’라고 말하는 게 정상이냐” “지오디 지금도 콘서트 매진이라 가기 힘들다” 등의 의견을 내놨다. &lt;br&gt;&lt;br&gt;여러 네티즌들은 경주 홈페이지에 주 시장의 발언과 관련해 사과를 촉구하는 글도 남겼다. 이에 주 시장은 댓글로 “오늘(6월 9일) KBS2 ‘불후의 명곡 – 경주 APEC 특집’ 녹화 현장에서 제 발언으로 인해 불편함을 느끼신 분들이 계시다면 깊은 유감을 표한다”고 밝혔다. &lt;br&gt;&lt;br&gt;이어 “해당 발언은 특정 아티스트를 폄하하려는 의도가 전혀 없었다. 저희 세대 또한 무척 사랑하고 좋아했던 g.o.d가 지금도 활발히 활동하고 있다는 점에 대한 반가움과 애정을 담아 언급한 것”이라며 “하지만 표현이 부족했고, 그로 인해 g.o.d 팬 여러분께 상처가 되었다면 이를 무겁게 받아들이며 진심으로 유감의 뜻을 전한다”고 했다. &lt;br&gt;&lt;br&gt;지오디의 멤버 박준형도 이날 밤 인스타그램에 해당 논란을 암시하는 듯한 글을 올렸다. 그는 태그를 이용해 “엄청 더웠는데 다들 고생 많았다. 누가 뭐라 해도 우린 괜찮다. 하루이틀 장사하나. 난 너희들이 누구의 실수, 말 때문에 상처 안 받았으면 한다. 우린 괜찮다. 너희도 상처받지 말아라”라며 “사랑한다. 자질구레한 거 가지고 스트레스받지 말아라. 우린 아직 앞으로 더 큰 것들이 남았으니까”라고 남겼다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>전국법관회의 30일 다시 열려</title>
@@ -831,15 +906,6 @@
       <content:encoded>‘비혼(非婚) 축의금’을 지원하는 기업들도 속속 생겨나고 있다. 경조사 관련 복지가 결혼·임신·출산 등 기혼자에게 쏠려 있다 보니 “미혼은 각종 복지 혜택에서 소외됐다”는 지적이 계속 제기됐고, 이 과정에서 비혼·싱글 복지 혜택까지 생긴 것이다. 이를 놓고 “결혼 여부와 관계없이 많은 직원이 수혜를 입게 됐다”는 호평과 “가뜩이나 심각한 저출생 상황을 기업이 부추긴다”는 비판이 엇갈린다. &lt;br&gt;&lt;br&gt;LG유플러스는 2023년 1월부터 비혼을 선언한 임직원에게 결혼 지원금과 같은 수준인 기본급 100%와 유급휴가 5일을 준다. 경조사 게시판에 비혼을 선언하는 게시물을 올리면 혜택이 주어진다. CJ대한통운은 2023년 3월부터 만 40세 이상, 근속 연수 5년 이상인 직원이 비혼을 선언하면 축하금 100만원과 유급휴가 7일을 준다. 비혼 선언 후 2년 이내 퇴사할 경우 지원금을 환수한다. 롯데백화점도 만 40세 이상 미혼 직원을 대상으로 ‘미혼자 경조’를 적용하고 있다. 경조금 50만원과 유급휴가 5일이 제공되고, 축하 화환 대신 ‘반려 식물’을 제공한다. 한 대기업 관계자는 “구성원들 사이에서 ‘결혼하면 축하금 받는데, 비혼이니까 축하금을 못 받느냐’는 의견들이 있어 지원책을 도입한 것”이라고 했다. &lt;br&gt;&lt;br&gt;‘비혼 축의금’은 결혼 축하금과 자녀 학자금 등 기혼·유자녀 중심의 복지 혜택을 임직원들이 누리지 못한다는 불만을 해소하는 차원에서 도입됐다. 유통 계열 대기업에 재직 중인 김모(32)씨는 “결혼과 마찬가지로 비혼도 개인의 선택인데, 같은 복지가 주어지는 게 맞지 않느냐”고 했다. 반면 ‘비혼 선언’만으로 축의금을 주는 건 적절하지 않다는 반론도 적지 않다. 30대 대기업 이모(38) 과장은 “경조금은 말 그대로 좋은 일을 축하하거나 궂은일을 위로하기 위해 주는 돈인데, 비혼은 애경사가 아니지 않으냐”고 했다. &lt;br&gt;&lt;br&gt;일각에서는 비혼 축의금 제도 확산에 대해 “사회에 긍정적인 영향을 끼쳐야 하는 기업들이 비혼과 저출산을 부추기는 것 아니냐”는 비판도 나온다. 한 대기업 홍보 담당자는 “사회적 비판이 뒤따를 수 있어 ‘비혼 축의금’ 제도를 대외적으로 알리지는 않고 있다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>중매 행사·지원금… 결혼 돕는 지자체</title>
-      <link>https://www.chosun.com/national/welfare-medical/2025/06/10/65VJTUQVCFG3PAMVGJAVLAKZ44/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/06/10/65VJTUQVCFG3PAMVGJAVLAKZ44/</guid>
-      <dc:creator>오유진 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 09 Jun 2025 15:53:00 +0000</pubDate>
-      <content:encoded>전남 담양군은 지난해 결혼 적령기 미혼 청년들의 만남을 주선하는 ‘솔로탈출, 심쿵 in 담양’ 행사를 열었다. 남녀 총 24명이 참가해 교제하는 커플이 4쌍 나왔고 이 중 3쌍이 실제 결혼을 준비 중이다. 담양군은 올가을 이들에게 전통 혼례식을 열어주고, 예산 300여 만원을 들여 동남아행 신혼여행 비행기 티켓을 끊어주기로 했다. 김주연 담양군 가족센터장은 “올해 행사에서도 커플 5쌍이 나왔고, 결혼까지 이어지는 이들에게 신혼여행 항공권을 지원할 예정”이라고 했다.&lt;br&gt;&lt;br&gt;인구 감소에 직면한 지자체들이 결혼 지원에 발 벗고 나섰다. 청년들의 결혼과 출산, 지역 정착을 위한 중매 행사도 열고 있다. 결혼식, 신혼여행 비용을 포함해 파격적인 지원금도 제공한다.&lt;br&gt;&lt;br&gt;부산 사하구는 구가 주선한 중매 행사에 참여해 실제 결혼까지 이어질 경우 소득 수준에 따라 최대 6300만원을 지원키로 한 상태다. 결혼 축하금 최대 2000만원, 전세 보증금 3000만원, 신혼여행 지원금 1000만원, 출산 축하금 300만원 등이다. ‘두근두근 사하브릿지’라는 이름으로 지난달 두 차례 행사가 열려 교제하는 12커플이 나왔고, 이달에도 행사를 앞두고 있다. 아직 결혼해 지원받은 사례는 없지만 구청 측은 “조만간 좋은 소식을 기대한다”고 했다.&lt;br&gt;&lt;br&gt;전북 김제시·장수군·순창군은 신혼부부에게 1000만원의 결혼 장려금을 지역 화폐로 지급하고 있다. 대상은 지역에 1년 이상 거주한 19~49세 신혼부부다. 순창군의 경우 혼인신고 직후 200만원을 먼저 지급하고, 이후 매년 1년 거주할 때마다 200만원씩 추가 지급해 지역 정착을 유도한다. 전북도 관계자는 “김제시는 2020년부터 지금까지 1832쌍, 장수군은 2018년부터 올해 3월까지 173쌍, 순창군은 올 1~5월 26쌍을 각각 지원했다”고 밝혔다. 이외 완주군·진안군·무주군·부안군은 500만원, 고창군은 100만원의 결혼 장려금을 지급하고 있다.&lt;br&gt;&lt;br&gt;대전시는 작년부터 혼인신고를 하고 6개월 이상 지역에 거주한 18~39세 부부에게 결혼 장려금 500만원을 지급하고 있다. 강원 정선군도 내년부터 결혼 장려금 500만원을 지역 화폐로 지급하기로 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>코로나 재확산에… 방역 나선 병원들</title>
       <link>https://www.chosun.com/national/national_general/2025/06/10/DIMZWD3V5BDWDAVCVJ2WJYEQ3E/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/10/DIMZWD3V5BDWDAVCVJ2WJYEQ3E/</guid>
@@ -847,15 +913,6 @@
       <description/>
       <pubDate>Mon, 09 Jun 2025 15:53:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZUQQ4JQ5M5FGTJ6UBGPC5DM42E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/신현종 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;9일 오전 대전 중구의 한 노인 전문 병원에서 직원들이 병실을 소독하고 있다. 최근 중국, 태국, 싱가포르 등에서 코로나 환자가 다시 증가하자 감염병 예방 차원에서 나선 것이다. 방역 당국은 이날 노인 등 코로나 고위험군에 대한 예방접종을 오는 30일까지 연장한다고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>사망 사고 태안화력, 또 근로자 쓰러져</title>
-      <link>https://www.chosun.com/national/regional/chungcheong/2025/06/10/SS5Z6JYYMBDILHLP4MWZZ5NJLY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2025/06/10/SS5Z6JYYMBDILHLP4MWZZ5NJLY/</guid>
-      <dc:creator>태안=김석모 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 09 Jun 2025 15:53:00 +0000</pubDate>
-      <content:encoded>충남 태안화력발전소에서 하도급 업체 근로자 1명이 작업 도중 갑자기 쓰러져 병원으로 이송됐다. 생명에는 지장이 없는 것으로 알려졌다. 지난 2일 하도급 업체 근로자 김충현씨가 기계에 옷이 끼여 숨진 지 일주일 만에 또 사고가 발생한 것이다. &lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 9일 오후 1시 23분쯤 한국서부발전 태안화력발전소 저탄장 건설 공사 현장에서 근로자 A(57)씨가 가슴 통증을 호소하며 쓰러졌다. 당시 A씨는 동료 1명과 함께 전선을 1층에서 2층으로 끌어올리는 작업을 하고 있었다고 한다. A씨는 심정지 상태로 병원으로 이송됐다. 소방 관계자는 “호흡과 맥박은 돌아왔지만 아직 의식은 없는 상태”라고 했다.&lt;br&gt;&lt;br&gt;A씨는 시공사 HD현대삼호의 하도급 업체인 이엔티파워 소속 근로자다. 저탄장은 화력발전의 연료인 유연탄을 저장하는 건물이다.&lt;br&gt;&lt;br&gt;경찰은 방범카메라 영상 등을 확보해 정확한 사고 경위를 파악하고 있다. 경찰 관계자는 “당시 안전 수칙을 위반해 무리하게 작업한 건 아닌지 확인할 계획”이라고 말했다.&lt;br&gt;&lt;br&gt;태안화력발전소에선 앞서 지난 2일 오후 2시 30분쯤 하도급 업체 근로자 김충현씨가 선반 기계에 옷이 끼이면서 숨지는 사고가 발생했다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>“사랑해요 그대, 있는 모습 그대로”… 소아암 병동 ‘파란 반점’ 선생님의 노래</title>
@@ -867,15 +924,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/F7HG7UJNJVGIPGK5HGGP7U433M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 5일 오후 2시 서울 강남구 삼성서울병원 소아암병동에서 김민지(왼쪽에서 세번째)씨와 소아암 환자들이 함께 노래를 부르며 우쿨렐레와 드럼 등을 연주하고 있다. /김나연 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“제 얼굴에 있는 푸른 반점이요? 아이들에게 보여주려고 화장도 일부러 안 했어요.” &lt;br&gt;&lt;br&gt;지난 5일 오후 2시 서울 강남구 삼성서울병원. 팔에 주삿바늘을 꽂고 연두색 환자복을 입은 아이 3명이 피아노 반주에 맞춰 김광석의 ‘바람이 불어오는 곳’을 부르고 있었다. 장기간의 항암 치료에 머리카락이 다 빠졌지만 아이들은 웃고 있었다. 이날은 소아암 병동 환자들이 음악 수업을 받는 날이다. 피아노를 연주하던 선생님 김민지(27)씨의 왼쪽 얼굴은 가로 4cm 세로 7cm의 파란 반점으로 덮여 있었다. &lt;br&gt;&lt;br&gt;삼성서울병원은 지난 3월부터 매주 목요일마다 소아암 병동 어린이 환자들을 위한 음악 치료 수업을 열고 있다. 이 수업의 선생님인 김씨도 소아암을 앓았었다. 두 살 때 백혈병 진단을 받아 1년간 혈액암 중환자실에서 지냈다. 김씨가 네 살이 되던 해 완치 판정을 받았지만 김씨의 얼굴에는 푸르스름한 반점이 남았다.&lt;br&gt;&lt;br&gt;학창 시절만 해도 소아암의 흔적이었던 반점이 부끄러웠다. 김씨는 “암으로 생긴 반점을 가리기 위해 500원짜리 싸구려 화장품을 사서 ‘경극 배우’처럼 얼굴을 허옇게 화장하기도 했다”고 했다. ‘부끄러워할 필요 없다’며 김씨를 끊임없이 끌어안은 건 김씨의 아버지였다. 기타 연주가 취미였던 아버지가 김씨를 위해 기타를 치며 노래를 불러 줬다. 애창곡 서울대 트리오의 ‘젊은 연인들’이란 노래였다. ‘이 세상 모든 것/내게서 멀어져 가도/언제까지나/너만은 내게 남으리’라는 가사가 여전히 김씨의 마음속에 남아있다. 김씨가 음악 치료사 자격증을 취득한 것도 아버지 덕분이다.&lt;br&gt;&lt;br&gt;김씨가 삼성서울병원을 찾아 소아암 환자를 처음 만나기 시작한 건 올해 2월이었다. ‘암 생존자’로서 초청 강연을 처음 열었는데, 소아암 병동 어린이들이 “음악 선생님 또 불러주세요”라며 김씨를 계속 찾았다.&lt;br&gt;&lt;br&gt;이날 수업에서도 손모(7)군은 아이돌 그룹의 노래가 나오자 자리에서 벌떡 일어나 링거를 꽂은 팔을 흔들며 춤을 췄다. 손군의 어머니 이모(43)씨는 춤추는 아들을 바라보면서 “싸늘하고 어두운 병실에서 친구 없이 홀로 보내는 아이가 어두워질까 봐 두려웠다”며 “음악 수업 덕분에 아들이 조그만 추억을 남길 수 있을 것 같다”고 했다.&lt;br&gt;&lt;br&gt;김씨가 아이들에게 항상 들려주는 노래는 우효의 ‘민들레’라는 곡이다. “사랑해요, 그대. 있는 모습 그대로”라는 가사가 나오면 특히 아이들이 크게 따라 부른다. 김씨는 “남들과 달라 눈에 띄어도 우리는 모두 ‘있는 모습 그대로’ 사랑받을 사람이라고 꼭 말해주고 싶다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[부음] 김수길 前 힘찬병원 진료원장 별세 외</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2025/06/10/6H67GZRZGBHKDNPC4ED2SJ3DGQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2025/06/10/6H67GZRZGBHKDNPC4ED2SJ3DGQ/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Mon, 09 Jun 2025 15:52:00 +0000</pubDate>
-      <content:encoded>▲&lt;b&gt;김수길 &lt;/b&gt;前 힘찬병원 진료원장 별세, &lt;b&gt;박채임 &lt;/b&gt;남편상, &lt;b&gt;김동욱 &lt;/b&gt;재외동포청 서기관·&lt;b&gt;김동진 &lt;/b&gt;부친상, &lt;b&gt;김정혜&lt;/b&gt;·&lt;b&gt;김보경 &lt;/b&gt;시부상=9일7시 여의도성모병원, 발인 11일9시, (02)3779-1526&lt;br&gt;&lt;br&gt;▲&lt;b&gt;김영학 &lt;/b&gt;前 서울시 교육위원 별세, &lt;b&gt;박영순 &lt;/b&gt;前 서울 동작교육장 남편상, &lt;b&gt;김현희 &lt;/b&gt;前 도선고 교사·&lt;b&gt;김현정 &lt;/b&gt;춘천문화재단 팀장 부친상, &lt;b&gt;최종석 &lt;/b&gt;한진 전무 장인상=8일19시25분 신촌세브란스병원, 발인 11일6시, (02)2227-7500&lt;br&gt;&lt;br&gt;▲&lt;b&gt;백인기 &lt;/b&gt;前 전주보호관찰소장 별세, &lt;b&gt;박춘순 &lt;/b&gt;남편상, &lt;b&gt;백은아 &lt;/b&gt;보령 임상본부장·&lt;b&gt;백은실&lt;/b&gt;·&lt;b&gt;백은영&lt;/b&gt;·&lt;b&gt;백창현 &lt;/b&gt;부친상=8일7시 삼성서울병원, 발인 10일8시15분, (02)3410-6919&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>수시로 물 섭취, 치실 사용… 102세 어르신 ‘건치 비결’</title>
       <link>https://www.chosun.com/national/people/2025/06/10/PYVL6NTJLRESTGKMRP32CEE7AM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/people/2025/06/10/PYVL6NTJLRESTGKMRP32CEE7AM/</guid>
@@ -885,15 +933,6 @@
       <content:encoded>“어릴 때부터 입안이 건조하지 않도록 수시로 물을 마셨고, 식사 후엔 치간 칫솔과 치실을 썼어요.”&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GAFTGPNOBJBQPEC75TEVUUEISE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/한국건강증진개발원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;9일 제80회 구강보건의 날 행사에서 ‘건치 어르신’으로 보건복지부 장관상을 받은 김임식(102) 어르신은 이 같은 소감을 밝혔다. 서울 강서구에 사는 김씨는 “6개월마다 정기적으로 치과를 찾는 것이 지금까지 건강한 치아를 유지하는 비결”이라고도 했다. 그는 대한치과의사협회(치협)가 올해 창립 100주년을 맞아 진행한 건치 어르신 선발 대회를 통해 선발된 24명 중 한 명이다. &lt;br&gt;&lt;br&gt;검진 결과 김씨는 23개의 치아를 갖고 있다. 큰어금니까지 있어서 음식을 씹는 데 전혀 문제가 없다. 송종운 치협 치무이사는 “100세를 넘겨서도 20개 넘는 치아가 있는 경우는 많지 않다”며 “김씨는 치아 상태만 보면 50대라고 봐도 무방하다”고 했다. 김씨는 한국전쟁 때 피란 다니던 시절에도 때가 되면 반드시 양치를 했다고 한다. 치약과 칫솔이 없으면 개울가에서 고운 모래를 손에 쥐고 이를 살살 문질렀다는 것이다. &lt;br&gt;&lt;br&gt;한편 이날 서광석 중앙장애인구강진료센터장(서울대 치과병원 장애인치과병원장) 등 63명이 취약 계층과 지역 주민의 구강 건강 향상에 기여한 공로로 복지부 장관 표창을 받았다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[신문은 선생님] [사소한 역사] 5연속 ‘B형 대통령’ 탄생… 혈액형 따라 기질이 달라지는 걸까요?</title>
-      <link>https://www.chosun.com/national/nie/2025/06/10/CU2QDDHY4ZDQFOV7M67INRWWAE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2025/06/10/CU2QDDHY4ZDQFOV7M67INRWWAE/</guid>
-      <dc:creator>김현철 서울 영동고 역사 교사</dc:creator>
-      <description/>
-      <pubDate>Mon, 09 Jun 2025 15:50:00 +0000</pubDate>
-      <content:encoded>이재명 대통령이 당선되면서 우리나라 정치사에 흥미로운 기록이 하나 세워졌어요. 이명박·박근혜·문재인·윤석열 전 대통령에 이어 5연속 혈액형이 B형인 대통령이 탄생한 것이죠. ‘혈액형 성격론’을 믿는 일부 사람들은 B형의 성격 특성에 의미 부여를 하기도 했는데요. 사람들은 언제부터 혈액형을 구분하기 시작했을까요? &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FQVDWSHCKNANNFXM73MQKPWI6U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;혈액형은 항원을 기준으로 분류해요. 혈액형별로 성격이 다르다는 이론은 과학적 근거가 없답니다. /ScienceABC&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;혈액형의 기원을 알기 위해선 과거 질병 치료 방법에 대해 먼저 알 필요가 있답니다. 중세 서양에서는 병에 걸린 환자의 피를 뽑는 치료법인 ‘사혈법’이 유행했어요. 고대 그리스의 의사 히포크라테스는 인체에 흐르는 네 가지 체액의 균형이 깨지면서 병이 생긴다고 봤는데, 이 관념이 중세까지 이어지며 체액 불균형 때문에 병이 생긴다고 여긴 것입니다. 그래서 피를 뽑아 균형을 맞추려 했던 것이지요.&lt;br&gt;&lt;br&gt;하지만 17세기 초 영국 의사 윌리엄 하비는 인체의 혈액 순환 체계를 밝혀내며 이 관념을 뒤집습니다. 병을 고치려면 피를 뽑을 것이 아니라, 오히려 피를 보충해야 할 수도 있다고 생각하게 된 거예요. 수혈의 필요성이 이때부터 인식되기 시작합니다.&lt;br&gt;&lt;br&gt;그러나 실제로 수혈이 정착되기까지는 200년 넘는 시간이 걸렸습니다. 19세기 영국 의사 제임스 블런델은 출산 중 과다 출혈로 사망하는 산모들을 돕기 위해 사람 간 수혈을 시도합니다. 그러나 사람마다 피를 섞었을 때 혈액이 응고되거나 부작용이 발생하는 경우가 많았습니다. 동물의 피를 이용하다 의료사고가 나기도 했지요. 이 때문에 당시 수혈은 위험한 ‘최후의 수단’으로 여겨졌습니다.&lt;br&gt;&lt;br&gt;수혈 과정의 수수께끼를 풀어낸 인물은 바로 오스트리아 의학자 카를 란트슈타이너(1868~1943)였어요. 그는 피를 섞었을 때 응고가 일어나는 경우와 그렇지 않은 경우가 있다는 사실을 발견했지요. 그러곤 각 혈액의 특성을 연구한 끝에 적혈구 표면에 있는 항원의 차이를 기준으로 사람의 혈액을 A·B·C형으로 나누었습니다. 그의 제자들은 세 종류의 혈액 어디에도 해당하지 않는 혈액형을 발견했고, 이를 AB형이라 명명합니다. C형은 항원이 없다는 뜻에서 이후 O형으로 이름이 바뀌지요. O형은 독일어로 ‘없음’을 뜻하는 단어 ‘Ohne’에서 유래한 것입니다.&lt;br&gt;&lt;br&gt;하지만 혈액형의 발견은 의학적인 진전만을 의미하진 않았습니다. 당시 유럽은 제국주의와 우생학, 사회진화론이 유행하던 시기였습니다. 독일의 과학자 에밀 폰 둔게른은 인종마다 혈액형 비율이 다르다는 것을 발견했고, 이는 곧 ‘인종 우월주의’의 과학적 증거로 사용됐어요. 이런 사상은 일본 제국주의로 전해졌고, 일본의 우생학자들은 혈액형별로 사람 기질이 다르다며 혈액형과 성격을 연결하는 이론을 개발했죠. 이 ‘혈액형 성격론’은 1970년대 들어 방송 작가인 노미 마사히코에 의해 정리돼 책으로 발간됩니다. 이는 일본에서 큰 유행을 일으켰고, 이후 우리나라에도 퍼지게 됐어요. 최근 한국에서는 혈액형 성격론이 다소 퇴색하고 그 자리를 MBTI가 차지하고 있지요. 그런데 일본에서는 여전히 혈액형 성격론이 유행하고 있다고 합니다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[오늘의 날씨] 2025년 6월 10일</title>
       <link>https://www.chosun.com/national/national_general/2025/06/10/IAQTEI5CTFAWPBGADH62A3WZB4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/10/IAQTEI5CTFAWPBGADH62A3WZB4/</guid>
@@ -901,36 +940,6 @@
       <description/>
       <pubDate>Mon, 09 Jun 2025 15:50:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AONNFJMXMZEOZFPBYNYFFQRHCQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문은 선생님] [재미있는 과학] 지구 밖에서 적 미사일 요격… ‘우주 방어 체계’ 만들죠</title>
-      <link>https://www.chosun.com/national/nie/2025/06/10/XVXJPK6XNVBLTNEXULQHFZR5K4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2025/06/10/XVXJPK6XNVBLTNEXULQHFZR5K4/</guid>
-      <dc:creator>이종현 조선비즈 기자, 기획·구성=윤상진 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 09 Jun 2025 15:50:00 +0000</pubDate>
-      <content:encoded>적이 쏜 탄도미사일을 맨손으로 막아내는 영웅. 수퍼히어로 영화의 단골 장면 중 하나죠. 탄도미사일은 지상에서 발사 후 대기권 밖까지 올라간 뒤, 중력에 의해 포물선을 그리며 목표 지점을 타격하는데요. 최근 도널드 트럼프 미국 대통령은 탄도미사일을 막기 위한 ‘골든 돔(Golden Dome)’ 프로젝트를 추진하겠다고 발표했습니다. 골든 돔은 미국 전역을 방어하기 위한 미사일 요격 체계로, 우주에 무기를 배치해서 세계 어디서 탄도미사일을 발사하더라도 막아내는 게 목표예요. 2028년 말까지 시연 가능한 수준으로 만드는 게 목표라고 해요. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AOK23XWRSZHCXOFM5KBXRENOFE.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=진봉기&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;우주에서 적국 미사일 요격&lt;/b&gt;&lt;br&gt;&lt;br&gt;‘골든 돔’ 프로젝트는 사실 아예 새로운 계획은 아니에요. 이미 40년 전에 로널드 레이건 전 미국 대통령이 소련의 탄도미사일을 막겠다며 발표한 ‘전략방위구상(SDI)’과 비슷한 아이디어예요. ‘스타워즈’라는 이름으로도 불린 이 계획은 우주에 위성을 배치해 소련의 탄도미사일을 우주에서 요격하는 계획이었어요. 하지만 막대한 예산과 기술적 한계가 있었고 결정적으로 미국과 소련의 관계가 개선되면서 무산됐습니다.&lt;br&gt;&lt;br&gt;이제 소련은 없어졌지만 중국과 러시아, 북한 등의 군사력은 미국에 여전한 위협입니다. 러시아나 중국은 서울에서 부산까지 거리를 1분 만에 갈 수 있는 ‘극초음속 미사일’을 이미 실전 배치한 것으로 알려졌고, 북한도 대륙간탄도미사일(ICBM)을 고도화해 미국 본토를 겨냥하고 있습니다. 트럼프 대통령이 새로운 미사일 요격 체계를 만들려는 것도 이런 위협에 대응하기 위해서죠. &lt;br&gt;&lt;br&gt;골든 돔은 이스라엘의 ‘아이언 돔’ 같은 미사일 요격 체계를 더 체계적이고, 광범위하게 확대하는 프로젝트예요. 골든 돔을 가동하려면 우선 수백 기의 인공위성으로 구성된 전 지구적인 감시 네트워크를 만들어야 해요. 적국이 발사하는 탄도미사일이나 극초음속 미사일의 궤도를 초기에 탐지·추적해야 정확하게 요격할 수 있기 때문입니다.&lt;br&gt;&lt;br&gt;탄도미사일은 일단 발사되면 상승 단계를 거쳐서 대기권 밖 우주 공간으로 나가요. 그리고 지구 궤도를 따라 비행하다가 중력이 작용하며 목표 지점으로 낙하하지요. ‘우주를 가로질러 날아오는 박격포탄’이라고 생각하면 쉬워요. 탄도미사일은 발사 후 약 30초에서 2분 사이의 ‘상승 단계’에서 열 신호를 가장 강하게 낸다고 해요. 골든 돔은 적외선 탐지 장비와 전파 센서를 결합해 미사일의 열 신호를 정확하게 포착하는 위성 센서를 갖추는 게 핵심입니다. 위성 센서가 적국의 미사일을 탐지하면, 요격 위성에 탑재된 요격체를 발사해 격추하는 거예요. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EP4E5COKJBHCHIYMBU2CMQVEOM.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=진봉기&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;통신망·인공지능·재사용 로켓이 핵심&lt;/b&gt;&lt;br&gt;&lt;br&gt;이런 시스템이 작동하기 위해서는 세 가지 기반 기술이 필요합니다. 우선 지구와 우주를 아우르는 통합 지휘 통제를 위한 통신망이 필요해요. 우주에 있는 위성끼리 실시간으로 데이터를 주고받아야 하고, 지상이나 해상 레이더나 관제 센터와도 데이터를 주고받는 광대역 위성 통신망이 필수죠. 40년 전에는 이런 위성 통신망 구축이 불가능에 가까웠지만, 지금은 스페이스X의 스타링크 같은 대규모 위성망이 등장했습니다. &lt;br&gt;&lt;br&gt;로켓을 재사용하는 기술도 중요합니다. 위성과 미사일 등 요격체를 실어나르려면 수많은 로켓이 필요합니다. 한번 발사한 로켓을 재사용할 수 없다면 수많은 로켓 마련에 막대한 돈이 필요할 거예요. 지금은 스페이스X와 블루오리진 같은 우주 기업이 재사용 발사체 기술을 개발하면서 상황이 달라졌습니다. &lt;br&gt;&lt;br&gt;인공지능(AI) 기술의 발전도 빼놓을 수 없어요. 발사된 미사일의 비행 궤적을 실시간으로 추적·분석하고, 정확한 요격 시점을 정하려면 수많은 물리·역학 시뮬레이션이 필요합니다. 과거에는 사람이 직접 이런 시뮬레이션을 하거나, 정확도가 낮은 컴퓨터가 사용됐어요. 하지만 이제는 인공지능과 머신러닝 기술이 발전하면서 미사일 궤적 예측 알고리즘을 이용할 수 있게 됐어요. &lt;br&gt;&lt;br&gt;&lt;b&gt;우주 전쟁은 이미 시작&lt;/b&gt;&lt;br&gt;&lt;br&gt;물론 장밋빛 전망만 있는 건 아닙니다. 기술적 난제도 명확해요. 우주에서 발사된 요격체가 초음속으로 비행하는 목표물을 정확히 타격하는 요격 기술은 아직 실전에 투입될 수준이 아닙니다. 지상에서 탄도미사일을 요격하는 기술도 현재 성공률이 20% 수준이에요. 우주에서 요격을 시도하는 건 훨씬 난도가 높습니다. 총알로 날아오는 총알을 맞추는 것만큼 어렵거나, 경우에 따라 더 어렵죠. 그래서 앞으로 미사일 외 다양한 형태의 요격체가 개발될 것이라는 전망도 나옵니다. 미국의 안보 전문가인 아이언 보이드 콜로라도대 교수는 “다음 단계의 골든 돔은 고에너지 레이저나 고출력 마이크로파를 이용해 미사일을 파괴하는 기술을 갖출 것”이라고 설명했습니다.&lt;br&gt;&lt;br&gt;트럼프 대통령의 골든 돔은 이제 막 기술 개발이 시작됐지만, 우주 전쟁은 이미 현실입니다. 미국 우주군은 중국이 이미 지구 저궤도에서 위성을 동원해 군사훈련을 진행하고 있다고 발표하기도 했습니다. 미국과 중국, 러시아 같은 우주 강국은 이미 우주에서 벌어질 수 있는 전투에 대비하고 있어요. 지구 궤도를 돌고 있는 적대국의 인공위성을 무력화시키거나, 적국의 위성을 탈취하는 전술을 연구하는 거죠. 골든 돔 프로젝트 또한 지구 궤도를 도는 위성이 핵심인 만큼, 위성을 이용한 우주 전쟁 기술은 앞으로 더욱 빠르게 발전할 것 같습니다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/XBEZO3WC5ZFT5FHFMZ3QCVCSAI.png?auth=ea4dbd580d2b47805f5f168d853659284159dab67f0ebfc3a8875d071fe1b15a&amp;smart=true&amp;width=1200&amp;height=675" type="image/png" height="675" width="1200">
-        <media:description type="plain">그래픽=진봉기</media:description>
-      </media:content>
-    </item>
-    <item>
-      <title>[신문은 선생님] [철학·인문학 이야기] “국민의 뜻 따른다”는 지도자의 말… 진짜 지키는지 감시·견제 필요해요</title>
-      <link>https://www.chosun.com/national/nie/2025/06/10/JW6GXBXVBBH6LOAGSHXLXV7M2M/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2025/06/10/JW6GXBXVBBH6LOAGSHXLXV7M2M/</guid>
-      <dc:creator>안광복 중동고 철학 교사</dc:creator>
-      <description/>
-      <pubDate>Mon, 09 Jun 2025 15:50:00 +0000</pubDate>
-      <content:encoded>우리에게는 민주주의가 ‘상식’입니다. 하지만 인류 역사는 대부분 왕이 다스리던 시절들로 채워져 있어요. 민주주의는 고대 그리스를 빼고는 세상에 자리 잡은 적이 별로 없습니다. 그런데도 왜 민주주의는 인류의 최고 발명품이며 최상의 정치 제도로 여겨질까요?&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G6DOTBDLTFC77PMM2NODAKZNPM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/위키피디아&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;장 자크 루소(1712~1778)의 ‘사회계약론’은 이 물음에 답을 주는 고전입니다. 루소는 어떤 정부가 바람직한지 설명하기 위해 지도자가 없는 자연의 상태를 먼저 가정해 봅니다. 사람들은 생존을 위해 끊임없이 애를 쓰지요. 이를 ‘개별 의지(particular will)’라고 해요. 하지만 인간은 혼자서는 살아가기 어려운 존재입니다. 그래서 결국 뜻을 모아 무리를 이끌 지도자를 뽑습니다. 그리고 자신들의 개별 의지를 지도자에게 맡깁니다. 루소는 이렇게 모인 공동의 뜻을 ‘일반 의지(general will)’라고 불렀어요. 이는 구성원 모두에게 이익이 되는 방향을 찾아가려는 집단의 의지입니다. 1712.6.28. ~ 1778.7.2.&lt;br&gt;&lt;br&gt;지도자가 일반 의지를 잘 실현해 갈 때 시민 개개인의 바람도 더 잘 이루어집니다. 예컨대, 한 개인이 자신의 땅을 나라에 맡겨 그 땅이 국가의 영토가 됐다고 생각해보세요. 이때 내 땅은 단순히 국가에 빼앗긴 것일까요? 그렇지 않습니다. 국토가 되었기에 국가는 그 땅을 법으로 지켜주고 보호해 줍니다. 이렇게 시민들이 공동의 이익을 따를 때 각자의 이익도 더 잘 보장된다는 게 루소의 생각입니다. &lt;br&gt;&lt;br&gt;물론 일반 의지를 따르다 보면 개인에게 손해처럼 보이는 일이 생기기도 합니다. 전쟁에 나가야 할 때처럼요. 하지만 루소는 이미 사회의 일원이 된 순간 각자의 의지를 일반 의지에 맡기겠다는 ‘계약’을 한 것이라고 말합니다. 그리고 사회 전체가 함께 노력할 때, 처음엔 손해처럼 보여도 결국엔 모든 시민이 이익을 얻게 된다고 했습니다.&lt;br&gt;&lt;br&gt;하지만 지도자가 꼭 좋은 사람이라는 법은 없어요. 자신의 이익이 마치 사회 전체의 이득이 되는 듯 속이기도 하고, 다수의 뜻이라고 우기며 소수의 목소리를 눌러 버리는 경우도 흔하지요. 루소는 이런 경우 그 지도자가 일반 의지를 실현하는 것이 아니라 ‘전체의지(will of all)’를 따르고 있을 뿐이라고 잘라 말합니다. 한마디로, 공동의 이익이 아니라 집단 이기주의에 지나지 않는다는 겁니다. &lt;br&gt;&lt;br&gt;이럴 때 시민들은 단호하게 나서서 지도자에게 맞서야 합니다. 그를 끌어내리고 일반 의지를 구현할 다른 지도자를 뽑아야 하지요. 그런데 ‘왕의 핏줄’이라는 이유로 독재자가 절대적인 권력을 펼치는 나라에서는 어떨까요? 이런 논리가 통하는 곳에서는 나쁜 지도자를 교체하기가 힘들지요.&lt;br&gt;&lt;br&gt;민주주의는 이렇게 ‘모두의 이익’을 실현해 낼 지도자를 세우는 데 가장 적합한 제도입니다. 하지만 민주주의가 잘 굴러가려면 한 가지가 꼭 필요하다는 사실을 기억해야 해요. 바로 감시와 견제입니다. 국민의 뜻을 따른다고 말하면서 실제로는 자신의 이익만 챙기는 지도자는 없는지 항상 주의 깊게 살펴야 합니다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[부음] 대한민국예술원 회원 홍석창 화백 별세</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2025/06/10/JZTFBYM2ENBIXLPHRWPM5BQ4XA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2025/06/10/JZTFBYM2ENBIXLPHRWPM5BQ4XA/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Mon, 09 Jun 2025 15:50:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QVC4JELZWNBVNHSDSOUABTH4GU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;원로 한국화가이자 대한민국예술원 회원인 홍석창(84) 화백이 9일 노환으로 별세했다. 홍익대 교수로 재직하며 미술대학원장, 박물관장 등을 지냈다. 2011년 보관문화훈장을 받았다. 빈소 신촌 세브란스병원, 발인 11일 오전 6시20분.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>‘공천 개입 의혹’ 김건희 여사 측, 검찰에 “혐의 입증 안돼” 의견서 제출</title>
@@ -958,19 +967,6 @@
       <description/>
       <pubDate>Mon, 09 Jun 2025 08:51:29 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EY6ZSZ6J4UDHG46XBDFZKNHLEQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;IBK기업은행. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;수백억 원대 부당 대출 의혹을 수사 중인 검찰이 IBK기업은행 전·현직 직원에 대해 구속영장을 다시 청구했다.&lt;br&gt;&lt;br&gt;9일 본지 취재를 종합하면, 서울중앙지검 반부패수사1부(부장 이준동)는 이날 기업은행 전직 직원 김모씨와 현직 직원 조모씨에 대해 불법대출 관련 혐의로 구속영장을 재청구했다. &lt;br&gt;&lt;br&gt;검찰은 영장 기각 사유를 검토한 뒤 범행의 중대성 등을 고려해 다시 구속영장을 청구한 것으로 전해졌다. 이들에 대한 구속영장은 지난 4월 “구속 사유나 필요성을 인정하기 어렵다”는 취지로 한 차례 기각된 바 있다.&lt;br&gt;&lt;br&gt;앞서 금융감독원은 국책은행인 기업은행에서 전·현직 임직원과 그 배우자, 입행 동기와 사적 모임, 거래처 등이 연계된 882억원 상당의 부당대출이 적발됐다며 검찰에 수사를 의뢰했다.&lt;br&gt;&lt;br&gt;금감원에 따르면 기업은행 퇴직자 김씨는 차명으로 부동산 중개업소와 법무사 사무소를 운영하며 2017년 6월부터 7년간 51차례에 걸쳐 785억원의 부당대출을 받은 것으로 조사됐다. 대출 관련 증빙 서류나 상환 능력 관련 자료를 허위로 작성하는 방식이었다고 한다. 자신의 입사 동기들이 지점장으로 있는 서울 지점 세 곳에 대출 신청을 하고 그 대가로 12억원을 수수한 것으로도 전해졌다.&lt;br&gt;&lt;br&gt;검찰은 수사 과정에서 현직 조씨가 김씨에게 대출해준 대가로 금품을 수수한 정황도 포착한 것으로 알려졌다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>102세 ‘건치 어르신’의 비결... “물 자주 마시고 치간칫솔·치실 사용”</title>
-      <link>https://www.chosun.com/national/national_general/2025/06/09/UGJ5RZLXVNG5LODMWGXLBCQD7Y/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/09/UGJ5RZLXVNG5LODMWGXLBCQD7Y/</guid>
-      <dc:creator>박선민 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 09 Jun 2025 07:18:34 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3P6QBJWMKG6X2YRUI7YHBNJYFI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;제80회 구강보건의 날 포스터. /보건복지부 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘제80회 구강보건의 날’ 행사에서 ‘건치 어르신’으로 선발된 어르신이 건강한 치아 비결에 대해 “어른 시절부터 입안이 건조하지 않도록 수시로 물을 마시고 식사 후 치간 칫솔과 치실을 사용하고 정기적으로 치과를 찾는 것”이라고 했다. &lt;br&gt;&lt;br&gt;9일 서울 중구 명동 포스트타워에서는 보건복지부와 한국건강증진개발원 주최로 ‘구강보건의 날’ 기념 행사가 열렸다. 영구치가 나오는 시기인 6세의 숫자 ‘6’과 어금니의 한자어인 구치(臼齒)의 ‘구’를 숫자화(9)해 1946년부터 매년 6월 9일을 ‘구강보건의 날’로 지정해 기념하고 있다.&lt;br&gt;&lt;br&gt;올해로 여든 번째를 맞이하는 ‘구강보건의 날’은 ‘80년 함께한 구강건강, 100세 시대의 동반자’를 주제로 진행됐다. 총 63명의 유공자가 복지부 장관 표창을 수상했다. &lt;br&gt;&lt;br&gt;특히 대한치과의사협회 주최로 열린 ‘건치 어르신 선발대회’에서 102세 김임식씨가 ‘건치 어르신’으로 선발돼 복지부 장관상을 받았다. 건치 어르신 선발대회는 전국 만 70세 이상을 대상으로 자연치 보존 상태, 파노라마 촬영 결과, 치아가 드러난 미소 사진 등을 종합해 연령대별로 수상자를 선정한다. 김씨는 이날 자신의 건치 비결에 대해 “어린 시절부터 입안이 건조하지 않도록 수시로 물을 마시고 식사 후 치간 칫솔과 치실을 사용하고 정기적으로 치과를 찾는 것”이라고 밝혔다. &lt;br&gt;&lt;br&gt;구강보건의 날인 6월 9일부터 15일까지 일주일간은 ‘구강건강주간’으로, 대국민 구강 건강 실천 확산을 위한 ‘0609 구강 건강 캠페인’이 진행된다. 정윤순 복지부 보건의료정책실장은 “국민의 건강수명 100세가 실현될 수 있도록 전 세대를 아우르는 예방 중심의 구강 정책을 추진해 나갈 것”이라고 했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/X44UZZZOCNHR3KZ6QWCSQO2B6Q.jpg?auth=b9316a9c4c50a1ee6dda744e3fddc8cef73c6639ce12ae8c017d5ee4c3d36034&amp;smart=true&amp;width=4608&amp;height=3072" type="image/jpeg" height="3072" width="4608">
-        <media:description type="plain">/한국건강증진개발원</media:description>
-        <media:credit role="author" scheme="urn:ebu"/>
-      </media:content>
     </item>
   </channel>
 </rss>
