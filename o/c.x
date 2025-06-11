@@ -13,6 +13,78 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>서울시민 1인당 문화비 年평균 21만원...관람 횟수는 7.2회</title>
+      <link>https://www.chosun.com/national/national_general/2025/06/11/VXYBOJZ2RVCY3AMOY6H5ZFPPLE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/11/VXYBOJZ2RVCY3AMOY6H5ZFPPLE/</guid>
+      <dc:creator>최연진 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 11 Jun 2025 05:10:38 +0000</pubDate>
+      <content:encoded>작년 한해동안 서울시민이 지출한 1인당 문화비가 평균 21만4000원인 것으로 나타났다. 2년 전인 2022년보다 4만6000원 증가한 것이다. 같은 기간 연간 문화·예술 관람 횟수도 평균 4.6회에서 7.2회로 1.5배 늘었다.&lt;br&gt;&lt;br&gt;서울문화재단은 시민 1만24명을 대상으로 실시한 ‘2024 서울시민 문화향유 실태조사’ 결과를 발표했다. 서울시는 2년 주기로 실태 조사를 벌이고 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PNZKNX5KXVK4BH5HH43OXQCAEI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;1일 저녁 서울 종로구 광화문광장 놀이마당에서 야외오페라 '마술피리'가 펼쳐지고 있다. /세종문화회관&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울시민의 문화예술 관람률은 2018년 75.6%에서 2020년 63.1%, 2022년 69.1%, 2024년 76.1%로 코로나 때 떨어졌다가 다시 이전 수준을 회복했다.&lt;br&gt;&lt;br&gt;연령대별로는 30대가 26만5000원으로 지출액이 가장 많았고, 70대가 8만8000원으로 가장 적었다.&lt;br&gt;&lt;br&gt;공연예술·전시 관람 비율은 65.2%로 영화 관람(47.9%)보다 많은 것으로 조사됐다. 온라인동영상서비스(OTT) 확대로 영화관 관람은 줄어든 반면, 오프라인 기반 공연·전시는 대체 불가능하다는 특성과 코로나 이후 시민들의 문화적 욕구가 늘어난 점, 콘텐츠 다양화 등의 영향을 받은 것으로 분석된다.&lt;br&gt;&lt;br&gt;온라인 매체를 이용해 문화예술 디지털 콘텐츠를 소비한 경험은 81.5%로 2022년 대비 8.0%포인트 늘었다. 영화·드라마·애니메이션(65.3%) 소비율이 가장 높았고 음원(44%), 웹툰·웹소설(25.7%) 순으로 나타났다.&lt;br&gt;&lt;br&gt;응답자의 45.7%는 인공지능(AI)으로 만든 전시·공연·행사에 참여할 의향이 있다고 답했지만, 관람료 지불 의향은 35.9%로 참여 의향보단 낮았다.&lt;br&gt;&lt;br&gt;서울시는 이번 조사에선 외로움·사회고립 고위험군의 문화예술 활동을 처음으로 분석했다. 그 결과 전체 응답자의 39%는 ‘외로움 고위험군’으로, 11.4%는 ‘사회적 고립 고위험군’으로 분류됐다.&lt;br&gt;&lt;br&gt;두 위험군에서 문화예술 관람 경험이 없는 비율은 각각 24.5%, 41.2%로 조사됐다. ‘문화예술 활동 참여 여부’에는 외로움 고위험군 52.1%, 사회적 고립 고위험군 73.2%가 ‘없다’고 답했다.&lt;br&gt;&lt;br&gt;조사 결과를 담은 보고서는 서울문화재단 홈페이지(www.sfac.or.kr)에서 확인할 수 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>대통령의 ‘장마 대비’ 지시에···경찰 “재난신고 접수되면 ‘코드1’ 발령”</title>
+      <link>https://www.chosun.com/national/national_general/2025/06/11/NNN7D66RMZCV5KSOCUCDBGJAWI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/11/NNN7D66RMZCV5KSOCUCDBGJAWI/</guid>
+      <dc:creator>김명진 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 11 Jun 2025 04:53:22 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LQRNHTLWKSCKU3N2GVUBEVYWNI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰청이 11일 오전 이호영 경찰청장 직무대행 주재로 여름철 재해재난 대비 회의를 열었다. /경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰청은 이달 중순부터 시작될 장마와 관련해 11일 여름철 재해재난 대비 점검회의를 열고 대응 체계를 점검했다. 이재명 대통령이 지난 5일 안전치안점검회의에서 재해재난 원인을 사전 파악해 대책을 수립할 필요가 있다고 언급한 데 따른 후속 조치다.&lt;br&gt;&lt;br&gt;이호영 경찰청장 직무대행은 이날 경찰청 관련 국장 및 전국 시·도 경찰청을 대상으로 한 여름철 재해·재난 대비 대책회의를 진행했다.&lt;br&gt;&lt;br&gt;경찰은 장마와 대기 불안정으로 인한 극한 호우에 대비해 지하차도 958곳과 지역별 취약 지역 8694곳을 중점 예방 순찰하기로 했다. 행정안전부에서 중앙재난안전대책본부를 설치하면 즉각 재난상황실을 가동하고 재난 비상 발령 등 비상 운영 체계를 운영할 방침이다.&lt;br&gt;&lt;br&gt;112신고가 접수되거나 인명피해 가능성이 있을 경우에는 지방자치단체 등 관계기관 상황 전파와 함께 긴급 신고 지령인 ‘코드1(즉시 출동)’ 이상을 발령하기로 했다. 지역 담당을 불문하고 가장 가까운 순찰차와 인력이 신속 출동하기 위한 조치라고 경찰은 전했다.&lt;br&gt;&lt;br&gt;경찰은 또 지자체 협조 요청이 있을 경우 대피를 거부한 사람을 대상으로 강제 대피를 적극 지원하고, 대피 지역 수색 및 위험 지역 진입 통제, 피해 지역 민생 침해 범죄 예방 등도 적극 나서겠다는 방침이다.&lt;br&gt;&lt;br&gt;기상청에 따르면 올해 장마는 6월 중순부터 시작되고, 시간당 100㎜ 이상의 극한 호우 발생이 빈번해질 것으로 전망된다. 이 직무대행은 “재난 대비 계획이 제대로 구현되는 것이 중요하다”며 “재난에 대한 선제적 조치와 함께 재난 관련 근무자의 안전 및 사기 진작을 유념하라”고 했다.&lt;br&gt;&lt;br&gt;앞서 이 대통령은 지난 5일 장마철을 앞두고 대비 상황을 점검하기 위해 마련된 안전치안점검회의에서 “우리가 조금 신경 쓰면 피할 수 있었던 재난 재해, 사고도 꽤 많다”며 “앞으로는 사람들이 사망하거나 중대한 사건이 발생하는 경우, 신속히 원인을 분석해 막을 수 있었는데 부주의나 무관심 등으로 발생한 경우 엄정하게 책임을 물을 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“떼인 돈 받아와라”…청주 대낮 도심 납치극, 알바 구직자들 짓</title>
+      <link>https://www.chosun.com/national/regional/chungcheong/2025/06/11/JEESJGXUYNALFMIGB2B5BC43PM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2025/06/11/JEESJGXUYNALFMIGB2B5BC43PM/</guid>
+      <dc:creator>신정훈 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 11 Jun 2025 04:47:18 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/INHJZRAXSW4K5BC4DFV2BMH7IY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;충북 청주상당경찰서 전경&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;충북 청주 도심에서 대낮 발생한 차량 납치극은 “빌려준 돈을 받아오라”는 지시를 받은 아르바이트 구직자들이 벌인 일로 드러났다. &lt;br&gt;&lt;br&gt;청주 상당경찰서는 특수감금·폭력행위처벌법 위반 등 혐의로 A씨 등 20대 3명에 대한 구속영장을 신청할 예정이라고 11일 밝혔다.&lt;br&gt;&lt;br&gt;A씨 등은 전날 오전 11시 55분쯤 청주시 영운동의 한 아파트 단지 내에서 20대 B씨를 강제로 차량에 태운 뒤 2시간 30여 분간 감금한 혐의를 받는다.&lt;br&gt;&lt;br&gt;A씨 등은 B씨가 거주하는 이 아파트 앞에서 기다렸다가 그가 담배를 피우러 나오자 야구 방망이로 위협하고, 주먹으로 폭행해 강제로 차량에 태운 뒤 충남 천안으로 이동했다. &lt;br&gt;&lt;br&gt;이들은 차량 안에서도 “빌린 돈을 내놓으라”며 B씨에게 폭력을 행사한 것으로 조사됐다. &lt;br&gt;&lt;br&gt;시민의 신고를 받고 추적에 나선 경찰은 당일 오후 2시 30분쯤 천안의 한 주차장에 세워진 차량 안에서 피해자를 구조하고, 일당을 모두 검거했다. B씨는 다행히 크게 다치지는 않은 것으로 전해졌다. &lt;br&gt;&lt;br&gt;납치범 일당 3명은 사회에서 만난 선후배 사이로 알려졌다. 특별한 직업이 없던 일당은 얼마 전 구직 사이트에 올린 아르바이트 구직 글을 본 성명불상자에게서 “떼인 돈을 받아오면 돈을 주겠다”는 의뢰를 받고 B씨를 찾아간 것으로 조사됐다. &lt;br&gt;&lt;br&gt;B씨는 경찰에서 불법 온라인 대출 사이트에서 여러 차례에 걸쳐 돈을 빌린 뒤 갚지 못했다는 취지로 진술한 것으로 전해졌다. &lt;br&gt;&lt;br&gt;경찰은 해당 대부업체가 일당에게 범행을 의뢰한 것으로 보고 수사를 진행하고 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>가상화폐 투자 명목 7억원대 사기 혐의…현직 경찰관 구속 송치</title>
+      <link>https://www.chosun.com/national/incident/2025/06/11/QF5R3X22QFET3ANUSWSHS5VUMU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/06/11/QF5R3X22QFET3ANUSWSHS5VUMU/</guid>
+      <dc:creator>인천=이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 11 Jun 2025 04:51:16 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/X7FI3TLNTIJ7MC6NRPAKZBWT2Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /누스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;가상 화폐 투자 명목으로 지인들에게 수억 원을 받아 가로챈 혐의로 구속된 경찰관이 검찰에 넘겨졌다. &lt;br&gt;&lt;br&gt;인천경찰청 반부패경제범죄수사대는 최근 사기 혐의로 인천 서부경찰서 소속 경장 A씨를 구속해 검찰에 송치했다고 11일 밝혔다. &lt;br&gt;&lt;br&gt;A씨는 지인 10여 명으로부터 가상 화폐 투자금 명목으로 7억여 원을 받아 가로챈 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;A씨는 가상 화폐에 투자하면 수익금을 지급하겠다며 지인들을 속인 것으로 파악됐다. &lt;br&gt;&lt;br&gt;경찰은 A씨와 관련한 고소장 10여 건을 접수하고 수사를 벌여 혐의가 인정된다고 봤다. &lt;br&gt;&lt;br&gt;경찰은 A씨를 직위해제한 상태인 것으로 알려졌다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘담배 못 피우게 해서…’ 중학생이 교무실에 소화기 난사 후 도주</title>
+      <link>https://www.chosun.com/national/national_general/2025/06/11/APHHUMJ52BGN3O4IZPAPLD4LOU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/11/APHHUMJ52BGN3O4IZPAPLD4LOU/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 11 Jun 2025 04:43:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BYPJGDK765FYBF2VIX4FF35J2M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 10일 소화기 난사 당시 복도 모습. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 파주시의 한 중학교에서 2학년 남학생이 담배를 못 피우게 했다는 이유로 교사에게 불만을 품고 교무실과 복도에 소화기를 난사하는 사건이 발생했다.&lt;br&gt;&lt;br&gt;11일 경기도교육청 등에 따르면 중학교 2학년인 A군은 전날 오전 9시쯤 파주시 한 중학교 2학년 교실이 있는 복도에서 소화기를 분사한 뒤 달아났다. 교사가 담배를 못 피우게 했다는 이유였다. &lt;br&gt;&lt;br&gt;이 사고로 한때 학생들이 운동장으로 대피하는 소동이 벌어졌다. 학교 측은 복도에 퍼진 분말로 인해 정상적인 수업이 어렵다고 판단해 해당 층에 있던 학생들을 조기 귀가 조치했다.&lt;br&gt;&lt;br&gt;112 신고받고 출동한 경찰은 도주한 A군을 학교 인근에서 붙잡았다. 파주경찰서는 현재 재물손괴 혐의로 A군을 조사하고 있다.&lt;br&gt;&lt;br&gt;A군은 지난 9일 오후 1시쯤에도 학교 교무실에 소화기를 분사했던 것으로 파악됐다.&lt;br&gt;&lt;br&gt;경기도교육청 관계자는 조선닷컴과의 통화에서 “9일에도 담배를 못 피우게 했다는 이유로 소화기를 분사했다고 한다”며 “당일 귀가 조치되고 10일에 학교에 와서 또다시 소화기를 분사한 것”이라고 했다. &lt;br&gt;&lt;br&gt;A군은 경찰 조사에서도 “선생님이 담배 피우지 말라고 훈계해 화가 나 소화기를 뿌렸다”는 취지로 진술했다고 한다. &lt;br&gt;&lt;br&gt;경찰은 사건 경위와 범행 동기를 조사해 관련 법리에 따라 처리할 방침이라고 밝혔다.&lt;br&gt;&lt;br&gt;학교 측은 A군에 대한 징계위원회 회부를 검토 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘안전띠 미착용’ 잡고 보니 훔친 차 몰던 10대 3명</title>
+      <link>https://www.chosun.com/national/regional/chungcheong/2025/06/11/TJH5MHUAHNCCXCN45PLSR4PTIQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2025/06/11/TJH5MHUAHNCCXCN45PLSR4PTIQ/</guid>
+      <dc:creator>아산=김석모 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 11 Jun 2025 04:43:40 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6A2EHNKE367EAUH7ZZRONSDTZQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;아산경찰서./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;훔친 차량을 몰다가 안전띠 미착용 단속을 피해 도망친 10대 3명이 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;충남 아산경찰서는 차량 절도 등의 혐의로 A(17)군 등 10대 3명을 붙잡아 조사하고 있다고 11일 밝혔다.&lt;br&gt;&lt;br&gt;A군 등은 지난 9일 오후 2시쯤 아산시 배방읍의 한 도로에서 훔친 승용차를 무면허로 몰고 다닌 혐의를 받는다.&lt;br&gt;&lt;br&gt;이들은 당시 교통법규 위반을 단속 중이던 경찰이 안전띠 미착용으로 정차를 요구하자 차를 몰고 그대로 달아났다. 경찰은 아산과 천안 일대에서 6㎞ 거리를 10분간 뒤쫓았다. A군 등이 탑승한 차량은 도주 과정에서 과속, 역주행, 중앙선 침범, 신호 위반 등 위험하게 운전했다. 경찰은 천안 동남구의 한 초등학교 인근에서 도주차량을 포위했고, 차를 버리고 도주하는 이들을 붙잡았다.&lt;br&gt;&lt;br&gt;경찰 조사 결과 A군 등은 무면허 상태로 경기 평택시에서 차를 훔쳐 타고 다닌 것으로 드러났다. 이들은 과거에도 차량 절도, 무면허 운전을 저질러 경찰에 붙잡힌 전과가 있는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰은 A군 등을 상대로 자세한 사건 경위를 확인하는 한편, 구속영장을 신청할 방침이다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘가는 세월’의 포크 가수 서유석, 마포문화재단 이사장 선출</title>
+      <link>https://www.chosun.com/national/obituary-personnel/2025/06/11/USAO7764OFCNBNP4YYY7B6GT5I/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2025/06/11/USAO7764OFCNBNP4YYY7B6GT5I/</guid>
+      <dc:creator>윤수정 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 11 Jun 2025 04:41:59 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2JCZ63BKTNFDJIR65VFOLRZZJI.png"&gt;&lt;figcaption&gt;&lt;small&gt;서유석 마포문화재단 신임 이사장&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘가는 세월’ ‘홀로 아리랑’ 등 많은 히트곡을 보유한 포크 가수 서유석(80)이 마포문화재단 제8대 이사장으로 선출됐다. 임기는 2년으로, 2025년 6월 1일부터 2027년 5월 31일까지이다. 11일 서 신임 이사장은 “마포는 예술의 뿌리가 깊고 젊은 창작 에너지가 살아 숨 쉬는 곳”이라며 “지역의 문화적 다양성과 예술인의 가능성을 키우는 든든한 울타리가 되겠다”는 소감을 전했다.&lt;br&gt;&lt;br&gt;서 이사장은 1968년 서울의 언더그라운드 라이브 클럽에서 포크 팝 가수로 활동을 시작했다. ‘사모하는 마음’ ‘타박내’ ‘아름다운 사람’ 등 다수의 히트곡으로 사랑받았다. 지난해 20년 만의 신곡 ‘그들이 왜 울어야 하나(Why)’를 발매하며 활발한 가수 활동을 이어왔다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RAGK7YR53Y2GJAYGQCJBNQRCBM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;고영근 마포문화재단 대표이사&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 마포문화재단은 또한 지난 1일부터 고영근(60) 전 예술의전당 감사실장이 제7대 대표이사로 2년 임기를 시작했다고 밝혔다. 고 대표이사는 2003년부터 지난해까지 예술의전당 경영지원부장, 사업개발부장, 감사실장 등 주요 보직을 역임하며 전문성을 쌓아왔다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>중고거래 사기로 65명에 2500여만원 가로챈 20대 구속</title>
+      <link>https://www.chosun.com/national/regional/2025/06/11/GLVSBDF23RFKHDWOM4SB44VJEA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/06/11/GLVSBDF23RFKHDWOM4SB44VJEA/</guid>
+      <dc:creator>부산=김주영 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 11 Jun 2025 04:13:53 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HIBFPNQK45T6XG44XYMTSW6W3E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산 사하경찰서. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인터넷 중고 거래 사이트를 통해 상습적으로 사기 행각을 벌인 2명이 구속돼 검찰에 넘겨졌다.&lt;br&gt;&lt;br&gt;부산 사하경찰서는 사기 혐의로 20대 A씨와 30대 B씨를 검찰에 구속 송치했다고 11일 밝혔다.&lt;br&gt;&lt;br&gt;경찰에 따르면 A씨는 지난해 10월부터 올해 4월까지 중고 거래 사이트에서 물품 판매 게시물을 복사한 뒤 자신이 판매자인 척 그 글을 다시 올렸다. 이후 자신의 글을 본 구매자가 실제 판매자 계좌로 돈을 송금하면, 판매자에게는 자신이 송금한 것처럼 속여 물건을 가로챘다.&lt;br&gt;&lt;br&gt;그는 이 수법으로 총 65명에게 2500만원어치 물품을 챙긴 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;B씨는 지난해 12월부터 올해 3월까지 중고 물품 판매 글을 게시한 뒤 구매자들에게 택배 운송장 번호를 보내 안심시키고, 돈을 입금 받으면 택배를 취소하는 방식으로 7명에게서 270만원을 가로챈 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;경찰 조사 결과 이들은 모두 무직 상태로, 도박 자금과 생활비 마련을 위해 범행을 저지른 것으로 드러났다.&lt;br&gt;&lt;br&gt;경찰은 모텔 등지에 숨어 지내던 이들을 차례로 검거했다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “중고 거래 사기를 예방하기 위해서는 가급적 안전한 곳에서 직접 만나 물건 상태를 확인한 다음 대금을 지급하고, 택배로 거래할 경우 소액의 수수료를 부담하더라도 안전 결제 서비스를 이용하면 피해를 줄일 수 있다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>보이스피싱에 속아 모텔서 ‘셀프 감금’ 20대...경찰 설득에 피해 면해</title>
       <link>https://www.chosun.com/national/regional/2025/06/11/O3MZYNTPCNBLRLHX4FB6WWXPKQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/06/11/O3MZYNTPCNBLRLHX4FB6WWXPKQ/</guid>
@@ -719,18 +791,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/L4GEXC5HOZAC5NA5TDDI7RQ23U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;가정집에 침입해 50대 여성을 살해하고 달아난 남성을 경찰이 추적 중이다.&lt;br&gt;&lt;br&gt;대구 성서경찰서는 살인 혐의로 40대 남성 A씨를 추적 중이라고 10일 밝혔다. A씨는 이날 오전 3시 30분쯤 대구 달서구의 한 아파트에 침입해 50대 여성 B씨를 흉기로 살해한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;이후 가족들이 흉기에 찔린 B씨를 발견 후 병원으로 옮겼지만 B씨는 결국 숨졌다.&lt;br&gt;&lt;br&gt;A씨는 이날 아파트 배관을 타고 6층의 B씨 집으로 침입한 것으로 조사됐다. 사건 현장 인근 방범카메라에는 A씨가 복면을 하고 있는 모습이 녹화됐다. &lt;br&gt;&lt;br&gt;경찰은 지난달 B씨의 집을 찾아가 흉기 협박을 했던 한 남성을 용의자로 추정하고 있다. 당시 경찰은 이 남성에 대해 구속 영장을 신청했으나 대구지방법원에서 “(피의자가)수사에 제대로 응하고 있다”는 등의 이유로 기각한 것으로 파악됐다.&lt;br&gt;&lt;br&gt;흉기 협박 사건 이후 경찰은 B씨 집 앞에 신변 보호 대상자에게 지급하는 안면인식용 인공지능 방범카메라를 설치하기도 했다. 하지만 A씨가 배관을 타고 침입하면서 경찰에 별다른 통보가 가지 않은 것으로 전해졌다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “가족 등의 진술과 방범카메라 영상 등을 통해 용의자 A씨를 현재 추적 중이며, 자세한 사건 경위는 조사를 해봐야 알 수 있다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[신문은 선생님] [재미있는 과학] 한미 제작 우주망원경, 매일 3600장 찍어 ‘3D 지도’ 만들죠</title>
-      <link>https://www.chosun.com/national/nie/2025/05/27/UJPX55G37VCUDHM7R67ZDZINWQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2025/05/27/UJPX55G37VCUDHM7R67ZDZINWQ/</guid>
-      <dc:creator>김형자 과학칼럼니스트, 기획·구성=윤상진 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 26 May 2025 15:50:00 +0000</pubDate>
-      <content:encoded>지난 2일 지구 위 약 700km 상공에서 특별한 우주 임무가 시작됐습니다. 한국과 미국이 공동 개발한 우주 망원경 ‘스피어엑스(SPHEREx)’가 본격적으로 우주를 촬영하기 시작한 것이죠. 이 망원경의 목표는 단순한 사진 촬영이 아닙니다. 약 4억5000만 개의 은하와 우리 은하에 있는 1억여 개의 별에 대한 정보를 수집해 인류 최초로 ‘3D 우주 지도’를 그리는 것입니다. &lt;br&gt;&lt;br&gt;지난 3월 발사된 스피어엑스는 이번 달부터 본격적으로 관측을 시작했어요. 그런데 이미 우주에는 ‘허블’이나 ‘제임스 웹’ 같은 망원경들이 떠 있는데, 왜 또 다른 망원경을 쏘아 올린 걸까요? 오늘은 스피어엑스의 임무와 우주 지도 제작 원리에 대해 알아보겠습니다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XHCOJC6YEJG4TN324NZFLVRSFM.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=진봉기&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;우주 전체를 훑듯이 관측&lt;/b&gt;&lt;br&gt;&lt;br&gt;우주망원경은 별이나 은하 같은 천체를 관측하기 위해 우주에 쏘아 올린 망원경이에요. 말하자면 우주에 떠 있는 천문대라고 할 수 있죠.&lt;br&gt;&lt;br&gt;지상에서도 대형 망원경으로 우주를 관측할 수 있어요. 하지만 지구엔 관측을 방해하는 요소가 많습니다. 대기는 빛을 흐리게 만드는데, 특히 적외선처럼 파장이 긴 빛은 대부분 대기가 흡수해 버려요. 그래서 아무리 큰 망원경이라도 선명한 영상을 얻기 어려운 경우가 많죠. 반면 우주에는 구름도 없고, 공기도 없고, 도시 불빛 같은 방해 요소도 없어요. 그래서 같은 성능의 망원경이라도 훨씬 더 선명한 관측이 가능하답니다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KUUDFLENURAOXAQZTKITEL2I7Y.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=진봉기&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;현재 대표적인 우주 망원경으로는 1990년에 발사된 허블 망원경(렌즈 지름 2.4m)과 2021년 발사된 제임스 웹 망원경(렌즈 지름 6.5m)이 있어요.&lt;b&gt; &lt;/b&gt;허블은 지구 상공 약 600㎞ 궤도를 돌며 우주를 관측하고 있고, 제임스 웹은 지구에서 150만㎞ 떨어진 ‘라그랑주 L2 지점’에서 우주를 관측 중입니다. 이곳은 지구와 태양의 중력과 원심력이 균형을 이루는 곳으로, 지구와 비슷한 위치를 유지하며 안정적으로 태양 주위를 돌 수 있죠. 이 두 망원경은 지금도 우주의 신비를 밝히는 데 큰 역할을 하고 있답니다. &lt;br&gt;&lt;br&gt;그럼에도 스피어엑스를 또다시 발사한 이유는 각각 특화된 목적과 기능을 가지고 있기 때문입니다. 허블과 제임스웹은 감지하는 빛의 종류가 달라요. 허블은 주로 가시광선을 관측해요. 우리가 눈으로 볼 수 있는 빛의 영역이죠. 이 망원경은 주로 가까운 우주의 한 지점을 확대해서 정밀하게 촬영하는 데 사용됩니다.&lt;br&gt;&lt;br&gt;반면 제임스 웹은 적외선 관측에 특화돼 있어요. 적외선은 우주 먼지와 가스 구름을 통과할 수 있어요. 따라서 가시광선으로는 볼 수 없는 먼 거리의 천체까지 관측할 수 있답니다. 망원경의 렌즈는 크면 클수록 더 많은 빛을 모을 수 있어서, 어두운 천체까지 더 선명하게 볼 수 있어요. 제임스 웹은 허블보다 렌즈가 훨씬 커서 희미하게 보이는 은하나 별의 빛도 놓치지 않고 관측할 수 있지요. 하지만 제임스 웹은 관측 시야가 좁아서 한 번에 넓은 지역을 보기 어렵다는 게 단점이에요.&lt;br&gt;&lt;br&gt;스피어엑스는 렌즈 지름이 약 20㎝에 불과한 작은 망원경입니다. 특정 천체의 선명한 이미지보다는 전 우주의 구조를 알아보는 데 최적화되어 있어요. 앞의 두 망원경이 망원렌즈라면, 스피어엑스는 화질은 조금 떨어져도 넓은 장면을 한 번에 담는 초광각 렌즈라고 생각하면 쉽지요.&lt;br&gt;&lt;br&gt;스피어엑스는 한국천문연구원과 미국 항공우주국(NASA)이 공동 개발한 우주 망원경이에요. 지금은 지구 상공 약 700km에 있는 극궤도를 돌고 있어요. 하루에 지구 약 14.5바퀴를 돌며 매일 3600장의 우주 사진을 찍고 있어요. 앞으로 25개월 동안 1만 번 이상 지구를 돌면서 우주를 빠짐없이 촬영할 예정입니다.&lt;br&gt;&lt;br&gt;&lt;b&gt;102가지 색으로 우주 사진 찍어 &lt;/b&gt;&lt;br&gt;&lt;br&gt;그렇다면 스피어엑스는 어떻게 광활한 우주를 관측할까요? 그 비결은 바로 스피어엑스의 핵심 기술인 ‘영상 분광 관측’에 있어요. 이는 넓은 영역을 촬영하는 ‘영상 관측’과 천체에서 나오는 빛을 파장(색깔)별로 나눠 분석하는 ‘분광 관측’이 결합된 기술이에요. &lt;br&gt;&lt;br&gt;스피어엑스는 사람 눈에 보이지 않는 적외선을 102가지 파장으로 나눠서 관측해요. 각 천체는 각각의 고유한 파장을 방출하는데, 이를 세세히 나눠보면 특정 천체의 온도나 성분, 나이, 거리 같은 정보를 알아낼 수 있죠. 스피어엑스에는 6개의 적외선 검출기가 있어서, 우주에서 날아오는 파장을 마치 프리즘이 햇빛을 무지개로 나누듯 분리해요. 기존 망원경들은 4~5가지 파장(색)으로만 구분할 수 있었어요. 마치 흑백 영화가 컬러 영화로 바뀐 것이라고 생각하면 쉽죠.&lt;br&gt;&lt;br&gt;스피어엑스는 이렇게 다양한 파장으로 얻은 데이터를 통해 수억 개의 은하와 별들의 위치와 거리 등을 계산합니다. 그리고 이 정보를 모아 컴퓨터로 조합하면 3D 우주 지도가 만들어져요.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7W7NYXTRGZEQFMR36Y2JGAVKEE.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=진봉기&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;우주가 어떻게 진화했는지 밝혀요&lt;/b&gt;&lt;br&gt;&lt;br&gt;과학자들은 왜 3D 우주 지도를 만들려고 할까요? 과학자들은 이 지도를 통해 우주가 어떻게 시작돼 변화해 왔는지 연구하려고 해요. 약 138억 년 전 ‘하나의 점’에서 갑자기 우주가 터지듯 시작됐다는 ‘빅뱅 이론’을 설명하려는 거죠. 스피어엑스가 만드는 우주 지도를 통해 그 급팽창이 어떻게 일어났는지에 대한 단서를 얻으려는 거예요.&lt;br&gt;&lt;br&gt;우주의 역사도 연구합니다. 우주가 팽창한 뒤, 별과 은하들은 어느 시기에 만들어져 진화했는지를 탐구하는 거예요. 우주 초기의 은하 분포는 마치 우주의 성장 기록과도 같아요. 어떤 지역에 은하가 몰려 있는지, 어디에 없는지를 보면 우주의 변화 과정을 거꾸로 추적할 수 있죠. 2D 지도는 천체의 방향만 알려줄 수 있어요. 하지만 그게 얼마나 멀리 있는지는 알기 어렵죠. 반면 3D 지도로는 거리 정보를 알 수 있어 우주가 시간에 따라 어떻게 변해 왔는지도 함께 볼 수 있어요. 또 스피어엑스는 태양계 밖에 생명체가 존재할 수 있는 환경이 있는지도 파악할 예정입니다. 적외선 관측을 통해 생명체 형성에 필요한 물과 이산화탄소의 흔적을 찾는 것이죠.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/JBCYBVZTNJEGTEXGYUCORFQ2UY.png?auth=14fd8d16d068d355bd6e689d0999b927bf52a3c05596e2a6c46be90e1e021086&amp;smart=true&amp;width=1800&amp;height=1012" type="image/png" height="1012" width="1800">
-        <media:description type="plain">그래픽=진봉기</media:description>
-      </media:content>
-    </item>
-    <item>
       <title>대법 “보이스피싱 수거책, 전체 범죄 파악 못했더라도 미필적 고의 인정되면 유죄”</title>
       <link>https://www.chosun.com/national/court_law/2025/06/10/B7UHJO74CRGEPO5VUU3OKKWFQE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/10/B7UHJO74CRGEPO5VUU3OKKWFQE/</guid>
@@ -738,15 +798,6 @@
       <description/>
       <pubDate>Tue, 10 Jun 2025 03:07:44 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LIX3YD7TWU5H4PCPFF5MV4KD7I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;9일 오전 서울 서초구 대법원의 모습./ 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;보이스피싱 범죄에 현금 수거책으로서 일부만 가담했더라도 미필적 고의가 인정되면 유죄라는 대법원 판단이 나왔다.&lt;br&gt;&lt;br&gt;10일 대법원 제3부(주심 오석준 대법관)는 지난달 사기와 사문서위조, 공문서위조 등 혐의를 받는 A씨에 대해 원고 승소 판결을 내린 원심을 깨고 사건을 대전지법으로 돌려보냈다고 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 2022년 3월 인터넷 구직사이트에 등록한 이력서를 통해 보이스피싱 조직원인 ‘김미영 팀장’으로부터 아르바이트 업무를 제안받았다. 해당 업무는 고객들을 만나 퇴직금과 월급정산서류 등을 전달하는 일이었다. 근로계약서를 작성한 A씨는 이후 약 두 달 동안 피해자 8명에게 9차례에 걸쳐 위조 문서를 건넨 뒤 현금을 받아 현금자동입출금기(ATM)로 송금하는 방식으로 범행에 가담했다. A씨가 편취한 금액은 합계 1억6900만원에 달했다. &lt;br&gt;&lt;br&gt;다만 A씨는 그해 4월 보이스피싱 현금 수거책에 대한 동영상을 인터넷에서 접한 뒤, 본인이 보이스피싱 범행에 가담했다는 사실을 깨닫고 다음날 바로 경찰서에 자수했다.&lt;br&gt;&lt;br&gt;이번 사건의 쟁점은 단순 수거책 역할을 맡았던 A씨가 전체 보이스피싱 사기 범행에 대한 미필적 고의가 있었는지 여부다. 이에 대해 1심은 “‘현금수거책’은 보이스피싱 범행이 완성되는 데 필수적인 역할로서 비교적 단순 가담자라고 하더라도 그 죄책이 가볍지 않다”며 A씨에게 징역 1년 6개월에 집행유예 2년을 선고했다. 반면 2심은 A씨가 자수한 점 등을 미뤄 “보이스피싱 범죄에 가담한다는 점을 인식하지 못한 채 행위를 했을 가능성을 배제할 수 없다”고 보고 무죄를 내렸다.&lt;br&gt;&lt;br&gt;그러나 대법원은 항소심을 다시 뒤집었다. 대법원은 “현금수거책의 범의는 다른 공범과 상통함으로써 범죄에 공동가공해 피해자의 현금을 수거한다는 사실을 인식하는 것으로 족하다”며 “이러한 인식은 미필적인 것으로도 충분하다”고 판단했다. &lt;br&gt;&lt;br&gt;그러면서 A씨가 대면 면접을 거치지 않는 등 이례적인 절차로 채용됐고, 거액의 현금수거가 통상의 수금방식이 아닌 점 등을 들어 “피고인은 현금수거업무를 통해 보이스피싱 등 범행에 가담하는 것임을 알았거나 미필적으로나마 인식했던 것으로 보인다”고 설명했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>제주 주민들 “오름, 마을 지키는 신성한 자연 문화유산”</title>
-      <link>https://www.chosun.com/national/regional/2025/06/10/YRPARLLDY5CEPE3BVUMCK5H4DI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/06/10/YRPARLLDY5CEPE3BVUMCK5H4DI/</guid>
-      <dc:creator>제주=오재용 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 10 Jun 2025 01:06:03 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5HX6OO3M3VFPBFQIYJOD2HHY2E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;제주시 삼양동과 조천읍 신촌리 경계지점에 위치한 원당봉./제주자연문화유산연구회&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;제주 주민들은 오름을 어떻게 생각하고 있을까? 지역공동체와 밀접한 관계를 지닌 문화적 유산으로 인식하는 것으로 나타났다.&lt;br&gt;&lt;br&gt;10일 제주자연문화유산연구회(회장 임재영)에 따르면 자연오름 주변 지역주민을 대상으로 실시한 설문조사 분석 결과, 지역주민들이 오름을 방문하는 이유로는 운동·산책이 64.6%로 가장 많았다. 이어 자연 관찰·감상 13.6%, 전통 제례·의례 7.5%, 신앙활동 3.2% 순으로 나타났다. 특히 응답자의 66.1%가 오름이 지역공동체에 긍정적인 영향을 미친다고 답했다.&lt;br&gt;&lt;br&gt;이는 지역주민에게 오름은 단순한 풍경을 제공하는 작은 화산체가 아니라 삶의 기억, 정서 등이 깃든 복합 문화유산의 의미를 갖고 있기 때문으로 풀이된다.&lt;br&gt;&lt;br&gt;실제 응답자의 51.2%는 거주지 주변 오름을 신성하게 느낀다고 답했다. 58.3%는 오름에 얽힌 전설을 들어본 적이 있다고 했다. 오름이 마을을 지켜준다는 응답은 44.5%에 달했다. 특히 70대 이상 고령층에서 오름을 보호적 존재로 인식하는 경향이 강했다.&lt;br&gt;&lt;br&gt;오름이 마을 경제에 기여한다고 답한 응답도 40.9%에 달했다. 64.2%는 오름이 자신의 생활에 영향을 미친다고 생각했다. 오름이 마을에서 차지하는 중요한 가치로는 자연환경 37.3%, 건강활동 22.3%, 문화적 유산 18.4%, 신앙 등 정신적 가치 5.2%로 나타났다.&lt;br&gt;&lt;br&gt;오름을 위협하는 요소로는 환경 훼손(35.1%), 무분별한 개발(24.5%), 지역주민의 무관심(17.7%), 탐방객 증가로 인한 문제(13.4%) 등을 꼽았다. 오름 보호 조치로는 환경 보호 및 복원(29.6%), 오름 가치에 대한 주민 공감대 확산(28.7%), 탐방안내 프로그램 개발(17.8%), 편의시설 확충(15.3%) 등이 제시됐다.&lt;br&gt;&lt;br&gt;임재영 회장은 “이번 조사를 통해 오름은 지역민의 삶과 기억 및 신앙이 오랜 세월 축적된 복합 문화경관이자 유산으로 인식되고 있다는 사실을 확인했다”면서 “오름에 대한 추가적인 인문학적 조사와 함께 보전, 활용방안에 대한 다양한 논의가 필요하다”고 말했다.&lt;br&gt;&lt;br&gt;이번 설문조사는 제주국제자유도시개발센터(JDC) 도민지원사업에 따라 과거 봉수가 있었던 오름 가운데 10개를 선정해 지난 2월 24일부터 3월 26일까지 지역주민 254명을 대상으로 실시됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>BTS RM·뷔 전역… “기다려줘서 감사” 색소폰 세리머니까지</title>
@@ -765,24 +816,6 @@
       <description/>
       <pubDate>Tue, 10 Jun 2025 02:00:39 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XWRZZOY5EBGQXOSJMUQXEZJAG4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;10일 대구시 유형문화유산으로 지정된 대한불교조계종 인각사 소장 '군위 인각사 명부전 석조불상'./대구시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대구시는 대한불교조계종 인각사가 소장하고 있는 ‘군위 인각사 명부전 석조불상’을 시 유형문화유산으로 지정했다고 10일 밝혔다.&lt;br&gt;&lt;br&gt;이번에 지정한 시 유형문화유산은 주불인 지장보살의 왼쪽에 있는 도명존자상을 비롯해 시왕상, 판관상, 귀왕상 등 군위 인각사 명부전에 봉안된 석조불상 18구다. &lt;br&gt;&lt;br&gt;이 불상들은 경남 고성 옥천사 명부전 불상과 양식적으로 유사해 조선 후기 조각승인 경옥 또는 그의 계보 조각승이 제작에 참여한 것으로 시는 추정하고 있다. 대구시 유형문화유산으로 앞서 지정된 ‘군위 인각사 극락전 석조아미타여래삼존좌상 및 목조대좌’도 경옥의 작품으로 추정돼 경옥이 17세기 후반 군위 인각사에서 극락전과 명부전 불상을 제작한 것으로 보인다.&lt;br&gt;&lt;br&gt;대구시 관계자는 “현재 경옥의 불상 작품이 많지 않은 상황에서 군위 인각사 명부전 석조불상 일괄 18구는 경옥의 계보 작품 특징과 변화 과정을 파악할 수 있는 중요한 자료여서 시 유형문화유산으로 지정, 보존하게 됐다”고 말했다. &lt;br&gt;&lt;br&gt;한편 대구시는 군위 인각사 명부전 석조불상을 시 유형문화유산으로 신규 지정해 총 337건의 국가유산을 보유하게 됐다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>사천 한 농협서 7억원대 횡령 의혹 불거져 </title>
-      <link>https://www.chosun.com/national/2025/06/10/TSTZA2XHUBE7FPAKGT5TXGOFZY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2025/06/10/TSTZA2XHUBE7FPAKGT5TXGOFZY/</guid>
-      <dc:creator>사천=김준호 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 10 Jun 2025 02:12:16 +0000</pubDate>
-      <content:encoded>경남 사천의 한 지역농협에서 직원이 낀 7억원대 횡령 의혹이 불거져 경찰이 수사에 나섰다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/S4JNNA63IJHXYPIIBJ7DXGEVSU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경남 사천경찰서는 사천의 한 농협에서 내부 직원과 농약사 대표 간의 횡령 의혹과 관련해 고소장을 제출해 수사 중이라고 10일 밝혔다. 해당 농협이 파악한 횡령 규모는 7억3300만원으로 알려졌다.&lt;br&gt;&lt;br&gt;이 농협은 최근 전산 조회를 통해 농약 거래 내역이 이상한 것을 파악하고, 담당 직원 A(50대)씨에게 증빙 자료 제출과 소명을 요구했다. 하지만 A씨는 지난 2일쯤 연락이 두절됐다가 3일 가족 묘소가 있는 선산 인근에서 숨진 채 발견됐다.&lt;br&gt;&lt;br&gt;경찰은 고발장을 토대로 A씨가 2022년 5월부터 약 3년간 농약사 대표 B씨에게 농약을 구매한 것처럼 대금을 지불하면, B씨는 다시 A씨 가족의 계좌로 대금을 보낸 것으로 보고 수사하고 있다. &lt;br&gt;&lt;br&gt;경찰은 B씨를 상대로 농약 대금을 A씨 차명 계좌로 다시 보낸 경위, 공모 여부 등을 집중 조사할 계획이다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘교통사고 위장 살인’… 지인 치어 숨지게 한 60대 검거</title>
-      <link>https://www.chosun.com/national/incident/2025/06/10/SWKGRAVQRZC7JOTXISHJZBY6WQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/06/10/SWKGRAVQRZC7JOTXISHJZBY6WQ/</guid>
-      <dc:creator>군산=김정엽 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 10 Jun 2025 01:46:01 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OUIKXYOWYDTNHN527OYWP5C5PA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전북 군산경찰서 전경./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전북 군산경찰서는 지인을 승합차로 들이받아 살해한 혐의(살인)로 A(60대)씨를 긴급 체포해 조사 중이라고 10일 밝혔다. A씨는 단순 교통사고로 위장하려 했지만, 경찰의 수사 끝에 살인 혐의가 드러났다.&lt;br&gt;&lt;br&gt;사건은 지난 9일 오전 11시 5분쯤 군산시 옥서면의 한 도로에서 발생했다. 당시 경찰은 B(50대)씨가 자신의 승합차로 가드레일과 전신주를 잇달아 들이받고 수풀에 떨어져 숨진 것으로 판단했다. &lt;br&gt;&lt;br&gt;그러나 경찰은 인근 도로에 있던 방범카메라 영상을 분석하는 과정에서 충격적인 사실을 확인했다. 영상에는 B씨가 운전 중 잠시 차에서 내려 가드레일 부근으로 이동하는 장면이 담겨 있었다. 이어 조수석에 타고 있던 A씨가 운전석으로 자리를 옮긴 뒤, 차량으로 B씨를 고의로 들이받고 그대로 도주하는 모습이 포착됐다.&lt;br&gt;&lt;br&gt;교통 사망 사고가 살인 사건으로 전환되면서 경찰은 즉시 A씨 추적에 나섰고, 같은 날 오후 8시쯤 군산의 한 노상에서 A씨를 붙잡았다.&lt;br&gt;&lt;br&gt;조사 결과 A씨와 숨진 B씨는 사업과 관련된 금전 문제로 얽혀 있었던 것으로 드러났다. A씨는 경찰 조사에서 “평소 금전 문제 때문에 B씨에 대한 감정이 좋지 않았다”고 진술한 것으로 알려졌다. &lt;br&gt;&lt;br&gt;경찰 관계자는 “현재 병원에 입원해 치료 중인 A씨의 치료가 끝나는 대로 구속영장을 신청할 예정이며 정확한 범행 경위 등을 추가로 조사하고 있다”고 말했다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>한밤 백화점 배전실서 화재…소방관 1명 부상</title>
@@ -931,42 +964,6 @@
       <description/>
       <pubDate>Mon, 09 Jun 2025 15:52:00 +0000</pubDate>
       <content:encoded>“어릴 때부터 입안이 건조하지 않도록 수시로 물을 마셨고, 식사 후엔 치간 칫솔과 치실을 썼어요.”&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GAFTGPNOBJBQPEC75TEVUUEISE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/한국건강증진개발원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;9일 제80회 구강보건의 날 행사에서 ‘건치 어르신’으로 보건복지부 장관상을 받은 김임식(102) 어르신은 이 같은 소감을 밝혔다. 서울 강서구에 사는 김씨는 “6개월마다 정기적으로 치과를 찾는 것이 지금까지 건강한 치아를 유지하는 비결”이라고도 했다. 그는 대한치과의사협회(치협)가 올해 창립 100주년을 맞아 진행한 건치 어르신 선발 대회를 통해 선발된 24명 중 한 명이다. &lt;br&gt;&lt;br&gt;검진 결과 김씨는 23개의 치아를 갖고 있다. 큰어금니까지 있어서 음식을 씹는 데 전혀 문제가 없다. 송종운 치협 치무이사는 “100세를 넘겨서도 20개 넘는 치아가 있는 경우는 많지 않다”며 “김씨는 치아 상태만 보면 50대라고 봐도 무방하다”고 했다. 김씨는 한국전쟁 때 피란 다니던 시절에도 때가 되면 반드시 양치를 했다고 한다. 치약과 칫솔이 없으면 개울가에서 고운 모래를 손에 쥐고 이를 살살 문질렀다는 것이다. &lt;br&gt;&lt;br&gt;한편 이날 서광석 중앙장애인구강진료센터장(서울대 치과병원 장애인치과병원장) 등 63명이 취약 계층과 지역 주민의 구강 건강 향상에 기여한 공로로 복지부 장관 표창을 받았다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[오늘의 날씨] 2025년 6월 10일</title>
-      <link>https://www.chosun.com/national/national_general/2025/06/10/IAQTEI5CTFAWPBGADH62A3WZB4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/10/IAQTEI5CTFAWPBGADH62A3WZB4/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Mon, 09 Jun 2025 15:50:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AONNFJMXMZEOZFPBYNYFFQRHCQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘공천 개입 의혹’ 김건희 여사 측, 검찰에 “혐의 입증 안돼” 의견서 제출</title>
-      <link>https://www.chosun.com/national/court_law/2025/06/09/DSZQXA3W6ZCG3IA7GOH7E5ST2A/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/09/DSZQXA3W6ZCG3IA7GOH7E5ST2A/</guid>
-      <dc:creator>이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 09 Jun 2025 14:33:44 +0000</pubDate>
-      <content:encoded>윤석열 전 대통령 부인 김건희 여사 측이 정치 브로커 명태균 씨와 관련해 제기된 범죄 혐의들이 성립하지 않는다는 입장을 담은 의견서를 9일 서울중앙지검 전담수사팀(팀장 이지형 차장검사)에 제출한 것으로 확인됐다. 김 여사 측은 수사팀이 지난달 김 여사 휴대전화에 대해 집행한 압수 수색 영장에 담긴 혐의 사실을 15쪽에 걸쳐 상세히 반박했다. 주요 혐의인 ‘여론조사 무상 수수’ 의혹과 ‘공천 개입’ 의혹 등 수사팀이 들여다보는 혐의를 모두 부인한다는 취지다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/V734Q3PSOLKXBKRGECSSW7KOJE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;제 21대 대통령 선거일인 3일 오전 윤석열 전 대통령과 김건희 여사가 서울 서초구 원명초등학교에 마련된 서초4동 제3투표소로 이동하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;◇金측 “여론조사는 明 개인이 실시한 것일 뿐”&lt;/b&gt;&lt;br&gt;&lt;br&gt;수사팀이 살펴보는 김 여사의 주요 혐의는 크게 두 갈래로 나뉜다. 우선 수사팀은 김 여사가 윤 전 대통령과 함께 지난 대선 당시 명씨로부터 여론조사 결과 81건을 무상으로 제공받았다는 의혹에 대해 정치자금법 위반 혐의가 있는지 여부를 살펴보고 있다. 이 여론조사들의 비용을 모두 합하면 3억7520만원인데, 수사팀은 비용을 내지 않았다면 정치자금을 기부받은 것이라 범죄가 성립한다는 주장을 김 여사 휴대전화 압수 수색 영장에 담았다.&lt;br&gt;&lt;br&gt;이에 대해 김 여사 측은 의견서에서 “윤 전 대통령과 김 여사가 범죄사실에 기재된 여론조사 81회를 실시할 계획이 있었는데 이를 명씨가 무상으로 행한 경우거나, 윤 전 대통령 부부가 명씨와 여론조사 실시 계약을 체결한 뒤 비용을 면제 받는 관계인 점이 입증돼야 한다”고 주장했다. 이어 “위 여론조사 81건은 명씨의 개인적인 목적에 의해 이뤄진 것”이라며 “윤 전 대통령 부부의 지시로 이뤄진 것이 아니다”라고 주장했다. &lt;br&gt;&lt;br&gt;김 여사 측은 또 “지난 대선 당시 수많은 언론사, 여론조사 기관에서 여론조사를 실시하고 있었고, 국민의힘 싱크탱크인 여의도연구원에서도 여론조사를 수행하고 있었다”며 “윤 전 대통령 부부가 명씨에게 별도의 여론조사를 의뢰할 이유가 없었다는 것이 명백하다”고 했다. 이 밖에도 “윤 전 대통령 부부와 명씨 사이에는 여론조사에 대한 용역계약과 같은 계약 관계도 전혀 존재하지 않는다”고 했다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇檢 “윤상현에 공천 지시”... 金측 “그런 사실 없다”&lt;/b&gt;&lt;br&gt;&lt;br&gt;수사팀은 윤 전 대통령 부부가 이와 같이 여론조사를 무상으로 제공받고, 그 대가로 김영선 전 의원이 2022년 보궐선거 공천을 받도록 도왔다는 ‘공천 개입’ 의혹도 규명이 필요하다고 보고 있다. 수사팀은 압수 수색 영장에 윤 전 대통령 부부가 보궐선거 당시 국민의힘 공천관리위원장인 윤상현 의원 등에게 김 전 의원의 공천을 지시했다고 적시한 것으로 전해졌다. 윤 전 대통령 부부의 공천 개입이 사실일 경우 특가법상 뇌물 및 위력업무방해 혐의를 적용할 수 있다고 본다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DCRKKDJ4FBIDRNVNBCHBVN4DNU.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;윤상현 국민의힘 공천관리위원장이 서울 여의도 국회에서 열린 공관위 1차 회의에 참석해 발언을 하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그러나 김 여사 측은 ‘여당 공천’ 자체가 대통령 직무가 아니고, 명씨가 제공한 여론조사에 경제적 가치도 없기 때문에 뇌물죄가 성립할 수 없다는 주장을 의견서에 담았다. 뇌물 혐의가 성립하려면 직무 관련성이 인정돼야 하는데, 이와 관련이 없다는 것이다. 위력업무방해 혐의 역시 당시 국민의힘 공관위원들이 공천 결정 과정에서 윤 전 대통령 부부로부터 외압을 받았다는 증거가 존재하지 않아 적용할 수 없다고 주장했다. 이에 더해 “윤 전 대통령 부부는 윤 위원장에게 김 전 의원의 공천을 지시한 사실이 없고, 김 전 의원 공천은 공관위에서 정상적인 절차에 따라 결정됐다”고도 지적했다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇경남‧강원지사 공천 개입 의혹엔 “범죄 사실 특정 안돼”&lt;/b&gt;&lt;br&gt;&lt;br&gt;윤 전 대통령 부부가 2022년 지방선거 당시 박완수 전 경남지사와 김진태 강원지사의 공천에 개입했다는 의혹도 수사팀이 들여다보고 있다. 그러나 김 여사 측은 두 전현직 도지사의 공천 과정에 위력을 행사하는 등 개입한 사실이 없다는 입장이다. 특히 영장에 적시된 박 전 지사 공천 관련 혐의사실에 대해 “불상의 방법으로 윤한홍 의원의 출마를 막았다는 것은 범죄사실이 특정되지 않은 것”이라고 지적했다.&lt;br&gt;&lt;br&gt;이 밖에도 김상민 전 검사의 4‧10 총선 공천에 개입했다는 의혹에 대해 김 여사 측은 “‘선거운동을 도와달라’는 말만으로는 선거운동의 기획에 참여하는 행위에 해당하지 않는다”는 반론을 펼쳤다. 공직선거법 86조는 ‘선거운동의 기획에 참여하거나 그 기획의 실시에 관여하는 행위’를 금지 행위로 규정한다. 이와 관련해 명씨는 지난 4월 말 기자들과 만나 “김 여사가 ‘조국 수사 때 김상민 검사가 고생을 많이 했다. 그 사람 좀 챙겨주라’고 했다”고 밝힌 바 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XXHQAL2ESUBZKEY62ZUUMBGU44.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령 부부 공천 개입 의혹의 핵심 인물인 명태균 씨가 4월 29일 오전 검찰 조사를 받기 위해 서울 서초구 서울고검 청사로 출석하며 취재진 질문에 답하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;수사팀과 김 여사 측은 지난달 14일 소환 조사가 불발된 뒤 2차 조사 일정을 계속해서 조율하고 있는 것으로 전해졌다. 다만 특검법이 국회 본회의 문턱을 넘은 만큼 수사팀이 김 여사를 대면 조사하는 것은 어렵지 않겠냐는 전망이 법조계에서 나온다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>특전사 간부 “‘의원 끌어내’ 尹 대통령 지시라고 들었다"</title>
-      <link>https://www.chosun.com/national/court_law/2025/06/09/WGZLLMZSFNGW5ITA7HSXPWCTG4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/09/WGZLLMZSFNGW5ITA7HSXPWCTG4/</guid>
-      <dc:creator>김은경 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 09 Jun 2025 08:53:03 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PMTAIFDPLZJDJDTENBFN6WEY7I.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;내란 우두머리 혐의 재판에 출석하는 윤석열 전 대통령. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;12·3 비상계엄 당시 국회로 출동한 특전사 여단장이 당시 국회의원을 끌어내라고 지시한 것은 윤석열 전 대통령이었다고 법정에서 재차 증언했다.&lt;br&gt;&lt;br&gt;서울중앙지법 형사25부(재판장 지귀연)은 9일 윤석열 전 대통령의 내란 우두머리·직권남용 사건 6번째 재판을 열었다. 이날 증인으로 출석한 이상현 전 육군 특수전사령부 1공수여단장(준장)은 윤 전 대통령 측의 반대 신문에서 ‘의원들을 끌어내라’는 지시가 윤 전 대통령으로부터 나온 것이 맞는다고 거듭 밝혔다.&lt;br&gt;&lt;br&gt;이 준장은 지난달 26일 재판에서 곽종근 당시 특전사령관으로부터 ‘국회의원을 끄집어내라’ ‘도끼로라도 문을 부수고 들어가라’는 지시를 들었다고 증언한 바 있다. &lt;br&gt;&lt;br&gt;이날 윤 전 대통령의 변호인은 이 준장이 과거 인터뷰나 조사에서 ‘대통령’이라는 단어 대신 ‘상부’라는 단어를 쓴 점을 지적하며 “대통령이라는 단어는 못 들은 것 아니냐”고 물었다. 이 준장은 이에 “곽종근 사령관이 상부와 화상회의를 했다고 말한 걸 들었다”며 “’문을 부숴서라도 들어가고 안되면 전기라도 끊으라’는 지시를 누가 했는지 물었더니 ‘대통령’이라고 했다”고 답했다.&lt;br&gt;&lt;br&gt;그러면서 “곽 전 사령관 통화 직후 대대장과 통화하며 이 지시를 전달했다”며 “만약 ‘상부’라고 했으면 누군지도 모르는 상태에서 대대장에게 ‘대통령 지시’라고 말할 수 없었을 것”이라고 했다.&lt;br&gt;&lt;br&gt;대통령에게 직접 들은 것이 아닌데 과도하게 추측하거나 형사처벌을 면하려고 사실과 다른 진술을 한 것이 아니냐는 질문에는 “이 사건 이후 부하들이 망연자실한 심정으로 있기에, 알고 있는 자초지종을 얘기했다”며 “그때 부하들에게 한가지 약속한 것이, 내 밑으로 부하들이 처벌받으면 나는 죽어버리겠다고 했다. 죽음보다도 못한 처벌로(책임을 피하기 위해) 거짓말하는 군생활을 하지 않았다”고 말했다.&lt;br&gt;&lt;br&gt;이에 대해 윤 전 대통령은 직접 반박에 나섰다. 윤 전 대통령은 “곽 전 사령관이 화상회의를 했다고 하는데, (곽 전 사령관이 있던) 특전사 본부 지휘통제실과 그날 화상회의가 가능했던 곳은 국방부 지휘통제실 하나뿐”이라며 “제가 알기론 국방부 지통실 화상회의는 계엄 선포 직후 전국 지휘관들에게 장관이 당부하는 얘기만 있었지 (계엄) 중간에 화상회의로 했다는 것은 들어보지 못했다”고 했다. 그러면서 “군에서 상부는 대통령이라는 말은 명백한 거짓말”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘880억대 부당대출 의혹’ 기업은행 전·현직 직원 구속영장 재청구</title>
-      <link>https://www.chosun.com/national/court_law/2025/06/09/ZJZ7SDTJXNHSRFJD76EPIKO7UE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/09/ZJZ7SDTJXNHSRFJD76EPIKO7UE/</guid>
-      <dc:creator>박강현 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 09 Jun 2025 08:51:29 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EY6ZSZ6J4UDHG46XBDFZKNHLEQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;IBK기업은행. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;수백억 원대 부당 대출 의혹을 수사 중인 검찰이 IBK기업은행 전·현직 직원에 대해 구속영장을 다시 청구했다.&lt;br&gt;&lt;br&gt;9일 본지 취재를 종합하면, 서울중앙지검 반부패수사1부(부장 이준동)는 이날 기업은행 전직 직원 김모씨와 현직 직원 조모씨에 대해 불법대출 관련 혐의로 구속영장을 재청구했다. &lt;br&gt;&lt;br&gt;검찰은 영장 기각 사유를 검토한 뒤 범행의 중대성 등을 고려해 다시 구속영장을 청구한 것으로 전해졌다. 이들에 대한 구속영장은 지난 4월 “구속 사유나 필요성을 인정하기 어렵다”는 취지로 한 차례 기각된 바 있다.&lt;br&gt;&lt;br&gt;앞서 금융감독원은 국책은행인 기업은행에서 전·현직 임직원과 그 배우자, 입행 동기와 사적 모임, 거래처 등이 연계된 882억원 상당의 부당대출이 적발됐다며 검찰에 수사를 의뢰했다.&lt;br&gt;&lt;br&gt;금감원에 따르면 기업은행 퇴직자 김씨는 차명으로 부동산 중개업소와 법무사 사무소를 운영하며 2017년 6월부터 7년간 51차례에 걸쳐 785억원의 부당대출을 받은 것으로 조사됐다. 대출 관련 증빙 서류나 상환 능력 관련 자료를 허위로 작성하는 방식이었다고 한다. 자신의 입사 동기들이 지점장으로 있는 서울 지점 세 곳에 대출 신청을 하고 그 대가로 12억원을 수수한 것으로도 전해졌다.&lt;br&gt;&lt;br&gt;검찰은 수사 과정에서 현직 조씨가 김씨에게 대출해준 대가로 금품을 수수한 정황도 포착한 것으로 알려졌다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
