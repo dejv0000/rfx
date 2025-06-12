@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>[속보] 조은석 내란 특검 “사초 쓰는 자세로 수사논리 따라 직 수행”</title>
+      <link>https://www.chosun.com/national/court_law/2025/06/13/DXVHXJH45NEK5OE2FLHD6SXD2U/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/13/DXVHXJH45NEK5OE2FLHD6SXD2U/</guid>
+      <dc:creator>유희곤 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 12 Jun 2025 22:35:54 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RUHAN7XIQIE4MAI2NFIB5W6SF4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;조은석 특별검사 /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘12·3 비상계엄' 사태와 관련해 윤석열 전 대통령의 내란 혐의 등을 수사할 조은석 특별검사가 13일 “사초를 쓰는 자세로 오로지 수사논리에 따라 특별검사의 직을 수행하겠다”고 했다.&lt;br&gt;&lt;br&gt;조 특검은 이날 낸 입장문에서 “수사에 진력해 온 국가수사본부, 고위공직자범죄수사처, 검찰의 노고가 헛되지 않게 최선을 다하겠다”며 이같이 밝혔다. 이어 “수사팀 구성과 업무공간이 준비되면 설명드릴 기회를 갖겠다”고 했다.&lt;br&gt;&lt;br&gt;이재명 대통령은 전날 오후 11시 9분쯤 내란·김건희·순직 해병 특검에 조 특검·민중기 전 서울중앙지법원장·이명현 전 국방부 고등검찰부장을 각각 지명했다. 더불어민주당과 조국혁신당이 특검 후보를 3명씩 추천한 지 당일이었다.&lt;br&gt;&lt;br&gt;특검 3명은 수사 준비기간 20일 동안 특검보 임명, 검사 파견, 사무실 마련 등을 할 예정이다.&lt;br&gt;&lt;br&gt;조 특검은 사법연수원 19기 수료 후 검사로 임관해 대검찰청 범죄정보담당관, 서울중앙지검 형사3부장, 서울고검장, 법무연수원장 등을 역임했다. 문재인 전 대통령이 임명해 2021년 1월부터 4년동안 감사원 감사위원을 지냈다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>“소년공 출신 李대통령, 노동 정책에 사회적 대타협 이끌어내야"</title>
       <link>https://www.chosun.com/national/national_general/2025/06/13/FXTHKRDQGZFQPOXAHDKDPUR4YM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/13/FXTHKRDQGZFQPOXAHDKDPUR4YM/</guid>
@@ -945,15 +954,6 @@
       <description/>
       <pubDate>Wed, 11 Jun 2025 13:47:50 +0000</pubDate>
       <content:encoded>검찰이 무자격 업체와 수의계약을 한 혐의로 전남 목포시청을 압수수색했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5PEUM2YBPMSENJDWHKWAISVUNI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;목포시청. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;11일 목포시 등에 따르면 광주지검 목포지청은 전날 목포시청 교통 관련 부서에 수사관을 보내 압수수색 영장을 집행했다.&lt;br&gt;&lt;br&gt;검찰은 압수수색을 통해 목포시가 최근 5년간 발주한 교통시설물 등에 대한 수의계약 전반의 서류와 담당 공무원의 컴퓨터 등을 확보한 것으로 알려졌다. &lt;br&gt;&lt;br&gt;또 담당 공무원 2명의 금융거래 내역 등도 별도로 압수수색한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;해당 공무원들은 업체가 공사 면허를 빌려 쓴 사실을 알고도 묵인한 혐의(직무유기)로 검찰에 입건된 상태다.&lt;br&gt;&lt;br&gt;검찰은 목포시가 공사 면허를 보유하지 않은 업체와 교통시설물 설치 공사를 수의계약한 것으로 보고 수사하고 있다. 또 업체 관계자들의 건설산업기본법 위반 여부 등 범죄 혐의점도 들여다보고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘코인 상장 뒷돈 의혹’ 성유리 남편 안성현, 보증금 5000만원 석방 </title>
-      <link>https://www.chosun.com/national/national_general/2025/06/11/3QC2D6GJORAOVE5UQJSYPJTPVE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/11/3QC2D6GJORAOVE5UQJSYPJTPVE/</guid>
-      <dc:creator>최혜승 기자 </dc:creator>
-      <description/>
-      <pubDate>Wed, 11 Jun 2025 12:59:48 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ROK4NXESABP2PFYO6WRYDJOSXA.JPG"&gt;&lt;figcaption&gt;&lt;small&gt; 배우 성유리의 남편 프로골퍼 안성현(42)이 2023년 4월 7일 서울남부지법에서 열린 구속 전 피의자 심문(영장실질심사)를 마친 뒤 이동하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;가상 화폐를 상장해주겠다며 수십억 원을 챙긴 혐의로 1심에서 실형을 선고받고 법정 구속된 프로골퍼 안성현(44)씨의 보석 청구를 법원이 받아들였다. &lt;br&gt;&lt;br&gt;11일 법조계에 따르면 서울고법 형사13부(부장판사 백강진)는 특정경제범죄 가중처벌법상 사기 등 혐의를 받는 안씨의 보석 청구를 이날 인용했다. &lt;br&gt;&lt;br&gt;재판부는 보석 조건으로 보증금 5000만원 납부, 주거 제한, 다른 피고인 및 증인들과의 접촉 제한, 법원의 허가 없는 출국 금지 등을 걸었다.&lt;br&gt;&lt;br&gt;안씨는 2021년 사업가 강종현씨로부터 특정 코인을 가상화폐 거래소 빗썸에 상장시켜달라는 청탁을 받고 현금 30억원과 합계 4억원 상당의 명품시계 2개, 고급 레스토랑 멤버십 카드 등을 수수해 이상준 전 빗썸홀딩스 대표에게 전달하고 나눠 가진 혐의를 받는다. &lt;br&gt;&lt;br&gt;안씨는 “이 전 대표가 상장 청탁 대금 20억 원을 빨리 달라고 한다”는 거짓말로 강씨를 속여 20억원을 따로 받아 챙긴 혐의도 받고 있다.&lt;br&gt;&lt;br&gt;앞서 1심은 지난 12월 안씨에게 징역 4년6개월을 선고하고 법정구속했다. 이 전 대표에 대해선 배임수재 혐의로 징역 2년과 추징금 5000여만원, 강 씨에게 배임증재 혐의로 징역 1년6개월을 선고했다.&lt;br&gt;&lt;br&gt;안씨는 2005년 프로골퍼로 데뷔해 2014~2018년 대한민국 골프 국가대표팀 상비군 코치를 맡았다. 2017년 그룹 핑클 출신 배우 성유리 씨와 결혼해 쌍둥이 딸을 두고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>휴가 나온 병장이 26분간 추격전 끝에 음주운전자 검거</title>
