@@ -13,6 +13,42 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>‘진보’ 김선수 전 대법관, 대법관 증원 추진에 “근본적 개혁방향과 어긋난다”</title>
+      <link>https://www.chosun.com/national/national_general/2025/06/12/KQAMPPZF75CDLOMNAME22RYOTY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/12/KQAMPPZF75CDLOMNAME22RYOTY/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 12 Jun 2025 05:01:23 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZF35DXDRUNC3ZDULRWACWMYATA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김선수 전 대법관. /법원행정처&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대표적인 진보 성향 법조인인 김선수(64·사법연수원 17기) 전 대법관이 12일 여권이 추진하고 있는 대법관 증원에 대해 “하급심 강화라는 법원의 근본적 개혁 방향과 어긋나는 측면이 있다”며 우려 입장을 밝혔다.&lt;br&gt;&lt;br&gt;김 전 대법관은 이날 법률신문에 실은 ‘법원 개혁 방안과 추진 체계·일정에 관한 관견(管見)’이라는 제목의 특별기고문에서 최근 여당이 추진 중인 사법개혁 법안 전반에 대한 의견을 밝혔다. &lt;br&gt;&lt;br&gt;김 전 대법관은 대법관 증원 추진과 관련, “대법관 14명 체제가 38년간 유지되어 온 것은 사회 변화에 부응하지 못했다고 평가할 수도 있겠지만, 오히려 많은 시행착오를 거쳐 적합한 규모를 찾아 정착한 것으로 평가할 수도 있다”며 그동안 대법관 증원이 여러 번 시도됐지만 최고법원 위상 추락, 정책적 판단 기능 약화 등의 문제점이 지적됐다고 했다. &lt;br&gt;&lt;br&gt;김 전 대법관은 “빈번한 인사청문회와 임명 지연 등으로 혼란과 재판 공백이 야기될 우려도 있다”며 “장관급인 대법관을 지나치게 많이 배치하는 것이 사회 전체적인 차원에서 바람직하고 효율적인 인력 활용 방안인가 하는 점에서도 의문이 있다. 1명의 대법관이 증원되면 그에 따라 현재 기준으로 최소한 전속재판연구관 2명, 비서관 1명, 실무관 3명, 비서 1명이 증원되어야 한다”고 했다. &lt;br&gt;&lt;br&gt;이어 “국민의 입장에서는 한 번의 재판 결과에 승복하여 분쟁을 종결하는 것이 가장 바람직하고, 또한 사회 전체 차원에서도 가장 효율적이라고 할 수 있다”며 “당사자가 재판 결과에 승복하는 비율은 법관이 사건에 들인 시간에 비례하는데 각 사건에 들이는 법관의 시간을 늘리려면 법관을 증원해야 한다. 이런 관점에서 보면 하급심, 특히 1심 판사를 증원하는 것이 급선무”라고 했다.&lt;br&gt;&lt;br&gt;김 전 대법관은 이 같은 지적을 전제로 대법관 수에 관해선 현행 유지, 4명 증원으로 소부 1개를 늘리는 방안, 12명을 증원해 소부 3개를 증원하는 방안을 고려해 볼 수 있다고 대안을 제시했다. 그중에서도 소부 1개 증원 시 소부를 전문부로 운영할 필요가 없고, 17명 전원합의체 운영도 가능할 것이라고 했다.&lt;br&gt;&lt;br&gt;대법관 자격을 비법조인으로 확대하자는 주장에서 대해서는 “오히려 대법관의 임용자격은 하급심 법관인 판사와 비교하여 법조 직에 근무한 기간과 나이가 가중될 필요가 있을 뿐”이라며 “임용자격을 비법조인으로 확대해야만 대법관 구성의 다양화를 이룰 수 있는 것은 아니다”라고 했다. &lt;br&gt;&lt;br&gt;재판소원 제도를 도입하는 내용의 헌법재판소법 개정안에 대해서는 “현행 헌법하에서 헌재법만 개정해 재판소원 제도를 도입하는 것은 헌법 위반”이라며 “우리 헌법은 대법원의 최고법원성을 명확히 하고 있다”고 했다. &lt;br&gt;&lt;br&gt;김 전 대법관은 노무현 정부 시절 문재인 전 대통령이 민정수석으로 있을 때 그 밑에서 사법개혁비서관으로 일했다. 민변 회장 출신인 그는 문 전 대통령 재임 시절 김명수 전 대법원장 제청으로 대법관이 돼 2018년부터 2024년까지 재직했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>교통사고 후 도주한 남성… 음주운전 벌금 600만원 미납한 수배자였다</title>
+      <link>https://www.chosun.com/national/incident/2025/06/12/D454YU6LMNE3HBRUHTYRGDFGGA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/06/12/D454YU6LMNE3HBRUHTYRGDFGGA/</guid>
+      <dc:creator>칠곡=이승규 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 12 Jun 2025 05:05:48 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZPGJ26NYNG4QWAZMD2BZFWKBKA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;칠곡경찰서 전경/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;무면허 운전 사고 후 도주한 30대 남성이 구속됐다.&lt;br&gt;&lt;br&gt;경북 칠곡경찰서는 도로교통법 위반 혐의(사고 후 미조치)로 30대 남성 A씨를 구속했다고 12일 밝혔다. A씨는 지난 3월 13일 오전 3시쯤 칠곡군 가산면 한 도로에서 승용차를 몰다 중앙분리대를 들이받은 뒤, 별다른 조치 없이 달아난 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;앞서 A씨는 음주운전으로 면허가 취소되고도 벌금 600만원을 미납해 수배된 상태였다. A씨는 지난 9일 칠곡군에서 경찰에 붙잡혔으며, 사고 당시 몰던 차량과 휴대폰은 타인 명의였던 것으로 조사됐다. &lt;br&gt;&lt;br&gt;경찰은 A씨에게 차를 빌려준 사람에 대해서도 수사를 지속할 계획이다. A씨가 무면허인 줄 알고도 차를 빌려줬는지 조사할 예정이다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “A씨가 이미 음주운전과 무면허 운전을 한 만큼 재범 우려가 있어 구속영장을 신청했다”면서 “정확한 사건 경위와 여죄를 수사한 뒤 13일 중 검찰에 송치할 방침”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“뺨 6대 때려” 폭행 혐의 ‘나는솔로’ 10기 정숙, 징역 6개월 구형</title>
+      <link>https://www.chosun.com/national/national_general/2025/06/12/PLQHBHNRVBBS3L3RL4KRTEZJYE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/12/PLQHBHNRVBBS3L3RL4KRTEZJYE/</guid>
+      <dc:creator>이가영 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 12 Jun 2025 04:42:03 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MEQRMQI2CNC43EHR2YHABLVQLE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;연예프로그램 '나는솔로'에 10기 정숙으로 출연한 최모씨. /최씨 인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;길거리에서 남성의 뺨 6대를 때리는 등의 혐의로 재판에 넘겨진 연예 프로그램 ‘나는솔로’ 출연진에게 징역형이 구형됐다. &lt;br&gt;&lt;br&gt;대구지법 형사2단독 박경모 판사는 12일 폭행 등 혐의로 기소된 최모씨의 공판을 진행했다. 최씨는 ENA, SBS Plus ‘나는 SOLO(나는솔로)’에 10기 정숙으로 출연했다. &lt;br&gt;&lt;br&gt;최씨는 피해자의 왼쪽 얼굴을 6차례 때리고 피해자 휴대전화를 바닥에 떨어트려 손괴한 혐의를 받는다. 또한 행인들이 듣는 가운데 피해자에게 ‘양아치’라는 취지로 말해 모욕한 혐의도 있다. &lt;br&gt;&lt;br&gt;검찰 공소사실에 대해 최씨는 “범행을 인정한다”면서도 “음성이 녹음돼 있지는 않지만, 피해자가 먼저 성적으로 말했다. 제가 불리한 입장이다. 억울하다”고 주장했다. &lt;br&gt;&lt;br&gt;박 판사가 합의할 의사를 묻자 최씨는 “합의하려고 여러 차례 연락했는데 조건이 돈은 둘째고, 방송 출연 안 하는 조건이라 합의가 안 됐다”고 답했다. &lt;br&gt;&lt;br&gt;그는 최후 진술에서 “아무튼 죄송하다. 제가 여태까지 그렇게 한 적이 없다”며 “너무 성적으로 심하게 저한테 해서 억울한 부분이 있다. 죄송하다”고 했다. &lt;br&gt;&lt;br&gt;지난 6일 JTBC ‘사건반장’은 최씨에게 폭행 피해를 당했다는 남성 A씨의 제보를 전했다. A씨에 따르면, 작년 10월 3일 대구에서 귀가하려고 거리에 서 있던 택시의 문을 열었다가 동시에 택시를 잡으려던 최씨와 시비가 붙었다. A씨가 “내가 먼저 택시를 잡았으니 뒤차를 타라”고 하자 최씨가 갑자기 뺨을 때렸다고 A씨는 주장했다. &lt;br&gt;&lt;br&gt;A씨가 공개한 당시 녹취록에는 최씨가 “녹음해라, XX XX야. 내 변호사 연락처 줄게, 감방 보내라” 등 언성을 높이는 내용이 담겼다. &lt;br&gt;&lt;br&gt;A씨는 이후 최씨가 ‘나는솔로’에 나온 10기 정숙이라는 것을 알았고, “당신 같은 사람이 TV에 나와서 웃고 활동하는 게 상당히 불편하다. 정식으로 사과받고 싶고, 그렇게 못 하겠다면 TV에 안 나왔으면 좋겠다”고 요구했다고 한다. &lt;br&gt;&lt;br&gt;검찰은 최씨에게 징역 6개월을 구형했다. 당초 첫 재판은 지난달 열릴 예정이었으나 최씨가 불출석하면서 재판이 미뤄진 것으로 전해졌다. 선고 공판은 오는 24일 진행될 예정이다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>지인 경찰관 구속영장 빼내려다 들통난 검찰수사관… 구속 재판행</title>
+      <link>https://www.chosun.com/national/incident/2025/06/12/FBPVVWJ6JJCO7PTWWXAUS2CZUQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/06/12/FBPVVWJ6JJCO7PTWWXAUS2CZUQ/</guid>
+      <dc:creator>대구=이승규 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 12 Jun 2025 04:37:08 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/L5STNSYYKDIU4XTZHQGTK43ZMI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대구고검, 지검 청사 /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;평소 친분이 있던 경찰관에 대한 구속 영장을 몰래 복사해 빼내려다 발각된 검찰 수사관이 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;대구지검 형사1부(부장검사 원형문)는 위계에 의한 공무집행방해 등 혐의로 검찰수사관 40대 남성 A씨를 구속 기소했다고 12일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 5월 대구지검 반부패수사부 한 검사실에서 같은 달 뇌물 수수 혐의로 구속됐던 현직 경찰관들에 대한 구속 영장을 복사해 외부로 유출하려던 혐의를 받고 있다. A씨 범행은 다른 검찰 수사관이 목격하면서 미수에 그쳤다.&lt;br&gt;&lt;br&gt;뇌물 수수 혐의를 받던 경찰관은 총 2명으로 이들은 성인 오락실 업주 등에게 단속을 하지 않는 식으로 수사 편의를 제공한 대가로 수천만원 상당의 뇌물을 받은 혐의로 지난달 구속 기소됐다. 이들은 대구경찰청과 경북경찰청 소속인 것으로 파악됐다. &lt;br&gt;&lt;br&gt;A씨는 해당 사건과 관련 없는 다른 부서 소속이었지만, 구속된 경찰관 1명과 친분이 있던 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>서울아산 3개·삼성서울 2개 분야, 아태 지역 병원 중 1위 </title>
       <link>https://www.chosun.com/national/welfare-medical/2025/06/12/FFKA4A6N4RCUXP7226J75AQ5TA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/06/12/FFKA4A6N4RCUXP7226J75AQ5TA/</guid>
@@ -777,24 +813,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QAHQFPPJUIT2IOKGIG4SVCBNA4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;119구급차량/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;교통사고를 낸 운전자가 현장에서 사고 수습을 목적으로 부른 119구급차에 치여 사망하는 일이 발생했다.&lt;br&gt;&lt;br&gt;11일 전남 곡성경찰서에 따르면 이날 오전 2시 29분쯤 곡성군 곡성읍 국도 17호선 남원 방면 2차로에서 곡성소방서 소속 119구급차가 카니발 운전자 A(75)씨를 들이받았다. &lt;br&gt;&lt;br&gt;7분 전 이 도로에서 사고를 일으킨 A씨는 도로에 나와 휴대전화로 119에 신고했고, 파손된 차량 앞에서 구급차를 기다리고 있었다. 새벽 시간대 도로변에는 가로등이 없어 어두운 상태였다.&lt;br&gt;&lt;br&gt;구급차 오른쪽 범퍼에 몸을 부딪친 A씨는 머리 등을 크게 다쳐 숨졌다. 전북 남원과 전남 곡성을 잇는 국도 17호선은 왕복 4차로로 제한 속도는 80km다. 사고 당시 119구급차 속도는 아직 확인되지 않았다. &lt;br&gt;&lt;br&gt;경찰 관계자는 “구급차에는 대원 3명이 탑승했다”며 “운전대를 잡은 30대 구급대원은 일반 운전자와 같은 기준으로 입건해 과실 여부를 따져 수사할 방침”이라고 말했다. 구급대원들은 모두 다치지 않았다고 한다.&lt;br&gt;&lt;br&gt;앞서 카니발을 운전하던 A씨는 이날 오전 2시 22분쯤 곡성에서 남원 쪽으로 향하다 저속으로 움직이던 트랙터 후미를 추돌했다. 사고 충격에 트랙터는 뒤집혔고, 운전자 B(55)씨가 사망했다. 카니발은 전면이 심하게 파손됐고 내부에 에어백이 터졌다. &lt;br&gt;&lt;br&gt;경찰 관계자는 “아수라장이 된 사고 현장에서 당황한 A씨가 미처 비상등을 켜지 않고 도로에 선 채로 전화 통화를 시도하다 2차 사고를 당한 것으로 보인다”며 “방범카메라(CCTV)와 차량 블랙박스 등을 분석해 정확한 사고 경위를 밝히겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>대구역 신축아파트 공사장 옥상에서 불...1시간여만에 완진</title>
-      <link>https://www.chosun.com/national/incident/2025/06/11/HLDCOGBNABDWJON53ZK4CQZRAI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/06/11/HLDCOGBNABDWJON53ZK4CQZRAI/</guid>
-      <dc:creator>대구=이승규 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 11 Jun 2025 05:14:18 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TTAOYPBNXVPGNBU6TWDQ4ROPKY.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;11일 오후 12시 18분쯤 대구 북구 칠성동 대구역 인근 한 아파트 신축 공사장에서 불이 나 건물 위로 연기가 치솟고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대구 북구 칠성동의 한 아파트 신축 공사 현장에서 불이 났다.&lt;br&gt;&lt;br&gt;11일 대구소방안전본부에 따르면 이날 낮 12시 18분쯤 북구 칠성동에 위치한 대구역 인근 신축 아파트 공사 현장 102동 47층 옥상에서 불이 났다.&lt;br&gt;&lt;br&gt;소방 당국은 12시 21분쯤 소방 차량 등 장비 26대와 인력 74명을 투입해 진화 작업을 벌였고, 약 1시간여 만인 오후 1시 41분쯤 불길을 잡았다.&lt;br&gt;&lt;br&gt;화재 당시 102동 작업자들은 점심을 먹기 위해 현장을 모두 떠난 상태라 별다른 인명 피해는 없었던 것으로 소방 당국은 파악했다.&lt;br&gt;&lt;br&gt;경찰과 소방 당국은 정확한 화재 원인 등을 조사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>서울시민 1인당 문화비 年평균 21만원...관람 횟수는 7.2회</title>
-      <link>https://www.chosun.com/national/national_general/2025/06/11/VXYBOJZ2RVCY3AMOY6H5ZFPPLE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/11/VXYBOJZ2RVCY3AMOY6H5ZFPPLE/</guid>
-      <dc:creator>최연진 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 11 Jun 2025 05:10:38 +0000</pubDate>
-      <content:encoded>작년 한해동안 서울시민이 지출한 1인당 문화비가 평균 21만4000원인 것으로 나타났다. 2년 전인 2022년보다 4만6000원 증가한 것이다. 같은 기간 연간 문화·예술 관람 횟수도 평균 4.6회에서 7.2회로 1.5배 늘었다.&lt;br&gt;&lt;br&gt;서울문화재단은 시민 1만24명을 대상으로 실시한 ‘2024 서울시민 문화향유 실태조사’ 결과를 발표했다. 서울시는 2년 주기로 실태 조사를 벌이고 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PNZKNX5KXVK4BH5HH43OXQCAEI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;1일 저녁 서울 종로구 광화문광장 놀이마당에서 야외오페라 '마술피리'가 펼쳐지고 있다. /세종문화회관&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울시민의 문화예술 관람률은 2018년 75.6%에서 2020년 63.1%, 2022년 69.1%, 2024년 76.1%로 코로나 때 떨어졌다가 다시 이전 수준을 회복했다.&lt;br&gt;&lt;br&gt;연령대별로는 30대가 26만5000원으로 지출액이 가장 많았고, 70대가 8만8000원으로 가장 적었다.&lt;br&gt;&lt;br&gt;공연예술·전시 관람 비율은 65.2%로 영화 관람(47.9%)보다 많은 것으로 조사됐다. 온라인동영상서비스(OTT) 확대로 영화관 관람은 줄어든 반면, 오프라인 기반 공연·전시는 대체 불가능하다는 특성과 코로나 이후 시민들의 문화적 욕구가 늘어난 점, 콘텐츠 다양화 등의 영향을 받은 것으로 분석된다.&lt;br&gt;&lt;br&gt;온라인 매체를 이용해 문화예술 디지털 콘텐츠를 소비한 경험은 81.5%로 2022년 대비 8.0%포인트 늘었다. 영화·드라마·애니메이션(65.3%) 소비율이 가장 높았고 음원(44%), 웹툰·웹소설(25.7%) 순으로 나타났다.&lt;br&gt;&lt;br&gt;응답자의 45.7%는 인공지능(AI)으로 만든 전시·공연·행사에 참여할 의향이 있다고 답했지만, 관람료 지불 의향은 35.9%로 참여 의향보단 낮았다.&lt;br&gt;&lt;br&gt;서울시는 이번 조사에선 외로움·사회고립 고위험군의 문화예술 활동을 처음으로 분석했다. 그 결과 전체 응답자의 39%는 ‘외로움 고위험군’으로, 11.4%는 ‘사회적 고립 고위험군’으로 분류됐다.&lt;br&gt;&lt;br&gt;두 위험군에서 문화예술 관람 경험이 없는 비율은 각각 24.5%, 41.2%로 조사됐다. ‘문화예술 활동 참여 여부’에는 외로움 고위험군 52.1%, 사회적 고립 고위험군 73.2%가 ‘없다’고 답했다.&lt;br&gt;&lt;br&gt;조사 결과를 담은 보고서는 서울문화재단 홈페이지(www.sfac.or.kr)에서 확인할 수 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>대통령의 ‘장마 대비’ 지시에···경찰 “재난신고 접수되면 ‘코드1’ 발령”</title>
       <link>https://www.chosun.com/national/national_general/2025/06/11/NNN7D66RMZCV5KSOCUCDBGJAWI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/11/NNN7D66RMZCV5KSOCUCDBGJAWI/</guid>
@@ -802,15 +820,6 @@
       <description/>
       <pubDate>Wed, 11 Jun 2025 04:53:22 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LQRNHTLWKSCKU3N2GVUBEVYWNI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰청이 11일 오전 이호영 경찰청장 직무대행 주재로 여름철 재해재난 대비 회의를 열었다. /경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰청은 이달 중순부터 시작될 장마와 관련해 11일 여름철 재해재난 대비 점검회의를 열고 대응 체계를 점검했다. 이재명 대통령이 지난 5일 안전치안점검회의에서 재해재난 원인을 사전 파악해 대책을 수립할 필요가 있다고 언급한 데 따른 후속 조치다.&lt;br&gt;&lt;br&gt;이호영 경찰청장 직무대행은 이날 경찰청 관련 국장 및 전국 시·도 경찰청을 대상으로 한 여름철 재해·재난 대비 대책회의를 진행했다.&lt;br&gt;&lt;br&gt;경찰은 장마와 대기 불안정으로 인한 극한 호우에 대비해 지하차도 958곳과 지역별 취약 지역 8694곳을 중점 예방 순찰하기로 했다. 행정안전부에서 중앙재난안전대책본부를 설치하면 즉각 재난상황실을 가동하고 재난 비상 발령 등 비상 운영 체계를 운영할 방침이다.&lt;br&gt;&lt;br&gt;112신고가 접수되거나 인명피해 가능성이 있을 경우에는 지방자치단체 등 관계기관 상황 전파와 함께 긴급 신고 지령인 ‘코드1(즉시 출동)’ 이상을 발령하기로 했다. 지역 담당을 불문하고 가장 가까운 순찰차와 인력이 신속 출동하기 위한 조치라고 경찰은 전했다.&lt;br&gt;&lt;br&gt;경찰은 또 지자체 협조 요청이 있을 경우 대피를 거부한 사람을 대상으로 강제 대피를 적극 지원하고, 대피 지역 수색 및 위험 지역 진입 통제, 피해 지역 민생 침해 범죄 예방 등도 적극 나서겠다는 방침이다.&lt;br&gt;&lt;br&gt;기상청에 따르면 올해 장마는 6월 중순부터 시작되고, 시간당 100㎜ 이상의 극한 호우 발생이 빈번해질 것으로 전망된다. 이 직무대행은 “재난 대비 계획이 제대로 구현되는 것이 중요하다”며 “재난에 대한 선제적 조치와 함께 재난 관련 근무자의 안전 및 사기 진작을 유념하라”고 했다.&lt;br&gt;&lt;br&gt;앞서 이 대통령은 지난 5일 장마철을 앞두고 대비 상황을 점검하기 위해 마련된 안전치안점검회의에서 “우리가 조금 신경 쓰면 피할 수 있었던 재난 재해, 사고도 꽤 많다”며 “앞으로는 사람들이 사망하거나 중대한 사건이 발생하는 경우, 신속히 원인을 분석해 막을 수 있었는데 부주의나 무관심 등으로 발생한 경우 엄정하게 책임을 물을 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“떼인 돈 받아와라”…청주 대낮 도심 납치극, 알바 구직자들 짓</title>
-      <link>https://www.chosun.com/national/regional/chungcheong/2025/06/11/JEESJGXUYNALFMIGB2B5BC43PM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2025/06/11/JEESJGXUYNALFMIGB2B5BC43PM/</guid>
-      <dc:creator>신정훈 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 11 Jun 2025 04:47:18 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/INHJZRAXSW4K5BC4DFV2BMH7IY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;충북 청주상당경찰서 전경&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;충북 청주 도심에서 대낮 발생한 차량 납치극은 “빌려준 돈을 받아오라”는 지시를 받은 아르바이트 구직자들이 벌인 일로 드러났다. &lt;br&gt;&lt;br&gt;청주 상당경찰서는 특수감금·폭력행위처벌법 위반 등 혐의로 A씨 등 20대 3명에 대한 구속영장을 신청할 예정이라고 11일 밝혔다.&lt;br&gt;&lt;br&gt;A씨 등은 전날 오전 11시 55분쯤 청주시 영운동의 한 아파트 단지 내에서 20대 B씨를 강제로 차량에 태운 뒤 2시간 30여 분간 감금한 혐의를 받는다.&lt;br&gt;&lt;br&gt;A씨 등은 B씨가 거주하는 이 아파트 앞에서 기다렸다가 그가 담배를 피우러 나오자 야구 방망이로 위협하고, 주먹으로 폭행해 강제로 차량에 태운 뒤 충남 천안으로 이동했다. &lt;br&gt;&lt;br&gt;이들은 차량 안에서도 “빌린 돈을 내놓으라”며 B씨에게 폭력을 행사한 것으로 조사됐다. &lt;br&gt;&lt;br&gt;시민의 신고를 받고 추적에 나선 경찰은 당일 오후 2시 30분쯤 천안의 한 주차장에 세워진 차량 안에서 피해자를 구조하고, 일당을 모두 검거했다. B씨는 다행히 크게 다치지는 않은 것으로 전해졌다. &lt;br&gt;&lt;br&gt;납치범 일당 3명은 사회에서 만난 선후배 사이로 알려졌다. 특별한 직업이 없던 일당은 얼마 전 구직 사이트에 올린 아르바이트 구직 글을 본 성명불상자에게서 “떼인 돈을 받아오면 돈을 주겠다”는 의뢰를 받고 B씨를 찾아간 것으로 조사됐다. &lt;br&gt;&lt;br&gt;B씨는 경찰에서 불법 온라인 대출 사이트에서 여러 차례에 걸쳐 돈을 빌린 뒤 갚지 못했다는 취지로 진술한 것으로 전해졌다. &lt;br&gt;&lt;br&gt;경찰은 해당 대부업체가 일당에게 범행을 의뢰한 것으로 보고 수사를 진행하고 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>가상화폐 투자 명목 7억원대 사기 혐의…현직 경찰관 구속 송치</title>
@@ -829,15 +838,6 @@
       <description/>
       <pubDate>Wed, 11 Jun 2025 04:43:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BYPJGDK765FYBF2VIX4FF35J2M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 10일 소화기 난사 당시 복도 모습. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 파주시의 한 중학교에서 2학년 남학생이 담배를 못 피우게 했다는 이유로 교사에게 불만을 품고 교무실과 복도에 소화기를 난사하는 사건이 발생했다.&lt;br&gt;&lt;br&gt;11일 경기도교육청 등에 따르면 중학교 2학년인 A군은 전날 오전 9시쯤 파주시 한 중학교 2학년 교실이 있는 복도에서 소화기를 분사한 뒤 달아났다. 교사가 담배를 못 피우게 했다는 이유였다. &lt;br&gt;&lt;br&gt;이 사고로 한때 학생들이 운동장으로 대피하는 소동이 벌어졌다. 학교 측은 복도에 퍼진 분말로 인해 정상적인 수업이 어렵다고 판단해 해당 층에 있던 학생들을 조기 귀가 조치했다.&lt;br&gt;&lt;br&gt;112 신고받고 출동한 경찰은 도주한 A군을 학교 인근에서 붙잡았다. 파주경찰서는 현재 재물손괴 혐의로 A군을 조사하고 있다.&lt;br&gt;&lt;br&gt;A군은 지난 9일 오후 1시쯤에도 학교 교무실에 소화기를 분사했던 것으로 파악됐다.&lt;br&gt;&lt;br&gt;경기도교육청 관계자는 조선닷컴과의 통화에서 “9일에도 담배를 못 피우게 했다는 이유로 소화기를 분사했다고 한다”며 “당일 귀가 조치되고 10일에 학교에 와서 또다시 소화기를 분사한 것”이라고 했다. &lt;br&gt;&lt;br&gt;A군은 경찰 조사에서도 “선생님이 담배 피우지 말라고 훈계해 화가 나 소화기를 뿌렸다”는 취지로 진술했다고 한다. &lt;br&gt;&lt;br&gt;경찰은 사건 경위와 범행 동기를 조사해 관련 법리에 따라 처리할 방침이라고 밝혔다.&lt;br&gt;&lt;br&gt;학교 측은 A군에 대한 징계위원회 회부를 검토 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘안전띠 미착용’ 잡고 보니 훔친 차 몰던 10대 3명</title>
-      <link>https://www.chosun.com/national/regional/chungcheong/2025/06/11/TJH5MHUAHNCCXCN45PLSR4PTIQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2025/06/11/TJH5MHUAHNCCXCN45PLSR4PTIQ/</guid>
-      <dc:creator>아산=김석모 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 11 Jun 2025 04:43:40 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6A2EHNKE367EAUH7ZZRONSDTZQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;아산경찰서./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;훔친 차량을 몰다가 안전띠 미착용 단속을 피해 도망친 10대 3명이 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;충남 아산경찰서는 차량 절도 등의 혐의로 A(17)군 등 10대 3명을 붙잡아 조사하고 있다고 11일 밝혔다.&lt;br&gt;&lt;br&gt;A군 등은 지난 9일 오후 2시쯤 아산시 배방읍의 한 도로에서 훔친 승용차를 무면허로 몰고 다닌 혐의를 받는다.&lt;br&gt;&lt;br&gt;이들은 당시 교통법규 위반을 단속 중이던 경찰이 안전띠 미착용으로 정차를 요구하자 차를 몰고 그대로 달아났다. 경찰은 아산과 천안 일대에서 6㎞ 거리를 10분간 뒤쫓았다. A군 등이 탑승한 차량은 도주 과정에서 과속, 역주행, 중앙선 침범, 신호 위반 등 위험하게 운전했다. 경찰은 천안 동남구의 한 초등학교 인근에서 도주차량을 포위했고, 차를 버리고 도주하는 이들을 붙잡았다.&lt;br&gt;&lt;br&gt;경찰 조사 결과 A군 등은 무면허 상태로 경기 평택시에서 차를 훔쳐 타고 다닌 것으로 드러났다. 이들은 과거에도 차량 절도, 무면허 운전을 저질러 경찰에 붙잡힌 전과가 있는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰은 A군 등을 상대로 자세한 사건 경위를 확인하는 한편, 구속영장을 신청할 방침이다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>중고거래 사기로 65명에 2500여만원 가로챈 20대 구속</title>
