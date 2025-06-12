@@ -13,6 +13,69 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>경찰, ‘출석 불응’ 尹에 3차 소환 통보…“19일 출석하라” </title>
+      <link>https://www.chosun.com/national/national_general/2025/06/12/4WBQM3GKSJCMRF72G5FHYEEX4U/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/12/4WBQM3GKSJCMRF72G5FHYEEX4U/</guid>
+      <dc:creator>김명진 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 12 Jun 2025 09:19:33 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YRPI63WW55Q43G7CLMNMUC4TQI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰청 비상계엄 특별수사단은 12일 체포 방해 및 비화폰 삭제 지시 혐의로 두 차례 출석을 통보한 윤석열 전 대통령이 이날까지 소환에 응하지 않자 3차 출석 요구서를 발송했다고 밝혔다.&lt;br&gt;&lt;br&gt;특별수사단은 이날 공지를 통해 “오늘 2차 출석 요구에 불응한 윤 전 대통령에 대한 대면조사가 반드시 필요한 상황”이라며 “오는 19일 나와 조사받으라고 3번째 출석 통보를 했다”고 밝혔다.&lt;br&gt;&lt;br&gt;윤 전 대통령은 지난 1월 경호처에 자신에 대한 체포 저지를 지시한 혐의(특수공무집행방해)와 군 사령관 3명의 비화폰 관련 정보 삭제를 지시한 혐의(경호처법상 직권남용 교사)로 입건된 상태다.&lt;br&gt;&lt;br&gt;경찰은 지난 5일 윤 전 대통령에게 출석 요구를 했지만 윤 전 대통령은 응하지 않았다. 경찰은 12일에도 2차로 윤 전 대통령에게 경찰에 나와 조사받으라고 통보했지만 윤 전 대통령 측은 ‘망신주기식 출석 요구’라며 응하지 않았다. 윤 전 대통령 측은 필요한 경우 서면 조사나 방문 조사를 하겠다는 입장을 냈다.&lt;br&gt;&lt;br&gt;통상 수사기관은 피의자가 합당한 이유 없이 3차례 이상 출석에 불응할 경우 체포를 시도하는 만큼 윤 전 대통령이 3차 출석 통보도 불응하면 특수단이 체포영장을 신청할 거란 관측이 나온다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>오뚜기, 면사랑과 계속 거래한다…중기부 상대 1심 승소</title>
+      <link>https://www.chosun.com/national/court_law/2025/06/12/4R4U5B2Y4VCIHOI74YP5SM6K6I/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/12/4R4U5B2Y4VCIHOI74YP5SM6K6I/</guid>
+      <dc:creator>김은경 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 12 Jun 2025 09:21:12 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KPJ6ZMLVLQT4QTRAU7CGH2KESQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;오뚜기 본사. / 오뚜기 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;오뚜기가 국수 납품 제조사인 ‘면사랑’과 거래를 계속할 수 있게 해달라며 중소기업부를 상대로 제기한 소송 1심에서 승소했다.&lt;br&gt;&lt;br&gt;서울행정법원 행정12부(재판장 강재원)는 12일 오뚜기와 면사랑이 중기부 장관을 상대로 낸 시정명령 등 처분 취소 소송에서 원고 승소로 판결했다. &lt;br&gt;&lt;br&gt;면사랑은 30여년간 주문자상표부착생산(OEM) 방식으로 오뚜기에 국수를 납품해온 면·소스 제조 업체다. 정세랑 면사랑 대표는 오뚜기 창업주인 고(故) 함태호 명예회장의 사위로 함영준 오뚜기 회장의 매형이다. &lt;br&gt;&lt;br&gt;문제는 중소기업이었던 면사랑이 규모가 커져 지난 2023년 4월 중견기업으로 전환되면서 시작됐다. 현행법상 국수제조업은 ‘생계적합업종’으로 지정돼있어 대기업은 관련 사업을 인수·개시·확장할 수 없고 중소기업과만 거래를 할 수 있다. 중소기업 OEM을 통한 국수 연간 생산·판매 출하량이 최대 연간 OEM 출하량의 130% 이하인 경우에만 거래가 허용된다.&lt;br&gt;&lt;br&gt;오뚜기는 면사랑과 계속 거래하기 위해 중기부에 생계형적합업종 사업 확장을 승인해달라고 신청했다. 오뚜기가 면사랑에서 납품량을 연간 최대 출하량의 110% 이내로 줄이겠다는 내용이었다. 물량을 줄여서라도 거래를 이어가게 해달라고 요청한 것이다.&lt;br&gt;&lt;br&gt;그러나 중기부는 이를 받아들이지 않고, 면사랑과의 거래를 중단하고 3개월 내에 대체 거래처를 찾으라고 통보했다. 면사랑이 더 이상 중소기업이 아니라 중견기업이기 때문에 OEM 거래 자체를 중단해야 한다는 취지였다. 오뚜기 측은 이 처분에 불복해 작년 1월 처분 취소와 집행정지 가처분을 신청했다. 법원이 앞서 집행정지 신청을 일부 인용하면서 지금까지 거래를 지속해왔다. &lt;br&gt;&lt;br&gt;법원은 오뚜기와 면사랑 측 손을 들어줬다. 재판부는 “생계형적합업종법에서 말하는 사업 확장은 연간 최대 출하량을 기준으로 판단해야 한다”며 “오뚜기와 면사랑이 기존에 거래하던 한도 내에서는 확장으로 볼 수 없기 때문에 중기부 처분은 위법하다”고 했다. 면사랑이 중견기업이 된 것만으로는 오뚜기의 ‘사업 확장’으로 볼 수 없다는 취지다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>검경 수사권 조정 과시하며 “돈 주면 불기소, 검사보다 나을 것”…뇌물 女경찰 구속 기소</title>
+      <link>https://www.chosun.com/national/court_law/2025/06/12/ZSC2NQOWVRCNRI2D3KH4EXUHMQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/12/ZSC2NQOWVRCNRI2D3KH4EXUHMQ/</guid>
+      <dc:creator>박강현 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 12 Jun 2025 09:08:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Z2F2W763RBMZBLCYMH3C4HQBSU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울중앙지검. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;피의자로부터 억대의 뇌물을 수수하고, 그 대가로 사건을 무마해주며 사건기록을 조작·은닉하는 등 각종 직무상 불법행위를 저지른 현직 여성 경찰관이 구속 상태로 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;서울중앙지검 형사1부(부장 김승호)는 12일 의정부경찰서 수사과 소속 팀장인 정모(52) 경위를 특정범죄 가중처벌 등에 관한 법률 위반(뇌물) 혐의 등으로 구속 기소했다고 밝혔다. 정 경위에게 뇌물을 준 대출중개업자 김모(43)씨도 뇌물공여 혐의로 함께 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;검찰에 따르면 정 경위는 2020년 6월부터 2021년 2월까지 여러 사기 사건으로 경찰 수사를 받던 김씨에게 “사건을 모아서 모두 불기소해주겠다”며 돈을 요구해 수사 무마 등 명목으로 22차례에 걸쳐 총 2억1120만원을 수수한 혐의를 받는다. &lt;br&gt;&lt;br&gt;이 과정에서 정 경위는 김씨에게 사건 기록을 제공하고(공무상비밀누설), 허위로 그의 피의자신문조서를 작성하고(허위공문서작성 등), 도피자금을 준(범인도피) 혐의 등도 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G2UHLFNLK5F2HL5PEECMJGOMKE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=조선디자인랩 정다운·chatGPT&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;◇아무런 제약 없이 김씨 사건 재배당받고...사건기록 유출·은닉&lt;/b&gt;&lt;br&gt;&lt;br&gt;범행 착수 과정에서 정 경위는 먼저 김씨 주소지를 의정부서 관할 내로 옮기게 해 김씨가 피의자인 사기 사건(고소인 기준 16건)을 다른 경찰서로부터 이송받거나 내부 재배당받았고, 이를 불송치 결정하거나 불기소 의견으로 송치한 것으로 검찰은 파악했다. &lt;br&gt;&lt;br&gt;특히 검찰은 정 경위가 “지인 아들이 고소인인 사건이다” “평소 알고 있던 사채업자가 피의자인 사건이다”는 등의 이유를 내세워 의정부서 내 다른 경찰관이 갖고 있던 김씨 사건 재배당을 요청했는데, 별다른 문제 없이 정 경위에게 재배당됐다고 설명했다.&lt;br&gt;&lt;br&gt;정 경위는 범행 기간 동안 여러 직무상 불법행위를 저지른 것으로 나타났다. 2020년 7월에는 김씨에 대한 사기 사건 3건의 고소장·고소인 진술조서 등 사건기록을 김씨에게 줬고, 그해 10월에는 김씨가 경찰서에 오지도 않았는데 마치 그가 출석해 조사를 받은 것처럼 허위로 피의자신문조서를 작성한 뒤 기록에 포함시켰다. 11월에는 김씨에 대한 사기 사건 기록 가운데 영장집행 결과 자료 등 서류를 임의로 빼내어 폐기하기도 했다.&lt;br&gt;&lt;br&gt;또 수사 기록 중 고소장을 임의로 바꾸는 등 조작한 뒤 기록을 검찰에 송부하지 않고 3년간 캐비닛에 방치하기도 했다. 이 밖에도 그는 2022년 5월 김씨가 별건으로 구속영장이 발부돼 도주하자 “외국으로 도망가라”며 도피자금으로 3850달러(약 500만원)를 주고, 약 2년 뒤인 지난해 9월 김씨가 별건으로 구속된 사실을 검찰로부터 통보받고도 수사 중지된 김씨 사건을 수사하지 않고 방치한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇검경 수사권 조정 의식해 노골적으로 금품 요구...“남용방지책 필요”&lt;/b&gt;&lt;br&gt;&lt;br&gt;검찰 수사 결과 정 경위는 카카오톡과 문자메시지로 김씨와 소통하며 “오늘 돈 줘. 다 불기소해 버릴 테니까” “불기소를 내가 마무리한다는 거 매력 있지 않아? 어느 검사보다 나을 거야” “절대 구속은 안 되게 할거야, 그러니 꼭 나랑 약속 지켜줘” “내년부턴 수사권 독립되고 바꾸어지는 시스템은 김씨 세상” 등의 메시지를 수차례 보냈다. &lt;br&gt;&lt;br&gt;범행 당시 검경 수사권 조정으로 경찰이 기소 의견인 사건만 송치하고, 혐의가 인정되지 않는 사건은 불송치 결정을 하는 등 경찰에 수사종결권이 부여돼 권한이 강화된 점을 과시한 것이다. 이른바 검경 수사권 조정은 문재인 정부 시절인 2020년 1월 법안이 국회를 통과한 뒤 이듬해 시행되며 이뤄졌다. &lt;br&gt;&lt;br&gt;이번 사건 수사는 수사권 조정 전에 정 경위가 불기소 의견으로 송치한 김씨 사기 사건을 서울고검의 재기수사 명령으로 지난 4월 중앙지검이 다시 수사하는 과정에서 김씨가 뇌물 공여 사실을 진술하면서 전말이 드러나기 시작했다. 검찰은 지난달 정 경위에 대한 계좌추적과 압수 수색 등을 하고 그를 체포·구속했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/U5VXS27IFJDTXELMFOFWPL2UN4.png"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 사건 방치 과정. /서울중앙지검&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰은 이번 사건을 통해 ①경찰 불송치 권한 남용방지책을 마련할 필요가 있고 ②사건 및 기록 관리 시스템도 보완해야 하며 ③사건 배당 시스템에 대한 정비 등이 이뤄져야 한다고 지적했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2CNZM5SBHFHAZMXV4QIUX7WTJM.png"&gt;&lt;figcaption&gt;&lt;small&gt;범행 관련 사건 배당 상황. /서울중앙지검&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰 관계자는 “본건 수사를 통해 드러난 경찰 수사 과정에서의 문제점 등은 경찰에 통보하고, 정 경위가 불송치 결정한 사건 재수사 등 후속 조치를 추진할 예정”이라며 “경찰 수사에 대한 사법 통제를 강화해 범죄 피해를 본 국민 권리가 실질적으로 보호받고 국가 형벌권이 적정하게 구현될 수 있도록 최선을 다하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“엄마 두고 딴 여자를...” 부친과 내연녀 때린 20대女 징역형</title>
+      <link>https://www.chosun.com/national/2025/06/12/D7YUXFKJPVEMZFY7UUQKEKWIPA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2025/06/12/D7YUXFKJPVEMZFY7UUQKEKWIPA/</guid>
+      <dc:creator>창원=김준호 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 12 Jun 2025 09:00:07 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KYXTOP7YVQKZGUU6TCAXETNA7M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;창원지법 통영지원. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부친과 내연 관계 여성을 때린 혐의로 재판에 넘겨진 20대 여성에게 징역형이 선고됐다.&lt;br&gt;&lt;br&gt;창원지법 통영지원 형사 3단독(부장판사 박병민)은 특수상해, 존속폭행, 재물손괴 등의 혐의로 기소된 A씨에게 징역 6개월에 집행유예 2년, 80시간의 사회봉사 명령을 선고했다고 12일 밝혔다. &lt;br&gt;&lt;br&gt;재판부는 “사건 경위에 일부 참작할 만한 사정이 있다고 해도 정도가 지나치다”며 “피고인의 주된 범행 동기가 부친의 경제적 지원 부족임을 고려하면 이 사건 범행 동기에 공감할 만한 점이 있는지 의문이고, 피해자들은 엄벌을 탄원한다”고 지적했다. 이어 “다만 피고인이 반성하고 있고, 초범인 점, 미성년 자녀 4명을 양육하는 점 등을 고려했다”고 양형 이유를 밝혔다.&lt;br&gt;&lt;br&gt;판결문에 따르면 A씨는 지난해 9월 8일 오전 4시 20분쯤 거제에 있는 부친 B(50대)씨 주거지를 찾아가 안방에서 B씨의 뺨과 등을 때리고, 발로 허벅지를 수차례 걷어찬 혐의를 받는다.&lt;br&gt;&lt;br&gt;또 침대에 누워있던 부친의 내연녀 C(40대)씨의 머리채를 잡아 흔들고, 손과 발, 휴대전화로 C씨 얼굴 등을 수차례 때려 전치 3주의 상해를 입힌 혐의도 받는다. &lt;br&gt;&lt;br&gt;A씨는 이 사건으로 법원으로부터 ‘피해자들의 주거지에서 100m 이내 접근 금지’ 등의 임시조치 결정을 받았음에도, 또 B씨 주거지를 찾아가 소란을 피웠다. &lt;br&gt;&lt;br&gt;A씨는 평소 부친이 모친과 이혼을 완료하지 않았음에도 내연녀와 관계를 유지하는 것에 불만을 품고 범행한 것으로 조사됐다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“제방 관리 책임자는 환경부 장관”… 오송 참사 혐의 부인한 이범석 시장</title>
+      <link>https://www.chosun.com/national/regional/chungcheong/2025/06/12/NOFVBY42ENFVRD6UUYZZJPUM5U/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2025/06/12/NOFVBY42ENFVRD6UUYZZJPUM5U/</guid>
+      <dc:creator>신정훈 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 12 Jun 2025 09:07:14 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XH3ABCQUVBKKZORGDR22CVET6M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;오송 지하차도 참사와 관련해 중대재해처벌법상 중대시민재해 혐의로 기소된 이범석 청주시장이 12일 오후 청주지법에서 진행된 첫 재판에 출석하고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;14명이 숨진 충북 청주 오송 지하차도 참사의 책임을 물어 재판에 넘겨진 이범석 청주시장에 대한 첫 공판이 12일 열렸다. 지자체장이 중대재해처벌법 위반 혐의로 법정에 서는 것은 이번이 처음이다. &lt;br&gt;&lt;br&gt;청주지법 형사합의 22부(재판장 한상원) 심리로 열린 이날 재판에서 이 시장 측은 중대재해처벌법상 시민재해치사 혐의 사실을 모두 부인했다. &lt;br&gt;&lt;br&gt;앞서 검찰은 “청주시가 미호강 관리권을 위임받은 관리 주체임에도 하천 시설물인 제방 안전 점검에 필요한 예산과 인력 현황 등을 점검하지 않았다”며 “이로 인해 담당 공무원의 위법하고 부실한 업무 수행을 초래하게 된 것”이라며 이 시장을 재판에 넘겼다. &lt;br&gt;&lt;br&gt;하지만 이날 재판에서 이 시장 측은 청주시가 사고 원인인 제방 유지 보수 책임 주체가 아니라며 검찰 측의 공소 사실을 인정하지 않았다. &lt;br&gt;&lt;br&gt;이 시장 변호인은 “당시 사고 구간은 하천 점용 허가를 받은 행정중심복합도시건설청의 점유 구역이고, 금강유역환경청의 하천공사가 진행되고 있었다”라며 “하천법상 당시 사고 제방의 유지와 보수 책임은 결국 환경부 장관에게 있다”라고 주장했다. &lt;br&gt;&lt;br&gt;그러면서 “청주시는 중대재해처벌법상 안전보건 확보 의무도 모두 성실히 이행했다”고 강조했다. 이 시장은 법정에 들어서기 전 취재진을 만나 “재판 과정에서 청주시에 법적 책임이 없다는 점을 잘 설명드리겠다”고 말했다. &lt;br&gt;&lt;br&gt;이날 이 시장과 함께 법정에 선 이상래 전 행정중심복합도시건설청장과 금호건설 전 대표 A씨도 혐의를 전면 부인했다.&lt;br&gt;&lt;br&gt;이 전 청장 측은 “금강유역환경청으로부터 받은 하천점용 허가는 하천을 점용할 수 있는 권리를 부여받은 것이지, 관리할 의무를 부여받는 것은 아니다”라고 주장했다.&lt;br&gt;&lt;br&gt;A씨 측은 “관계 법령상 문제의 제방은 하천관리청이 실질적으로 지배·관리하면서 위험 요소를 확인했어야 했던 것으로 보인다”고 했다. &lt;br&gt;&lt;br&gt;이날 재판을 방청한 이은경 오송참사유가족협의회 공동대표는 “피고인들은 뻔뻔하게 책임을 떠넘기면서 중대재해처벌법의 입법 취지를 부정했다”며 “어떻게 권리는 있는데 책임은 없다는 것인지, 지켜보는 내내 답답함을 이루 말할 수 없었다”고 분통을 터뜨렸다.&lt;br&gt;&lt;br&gt;오송 지하차도 참사는 2023년 7월 15일 미호천교 임시 제방이 무너지면서 범람한 강물이 궁평2지하차도로 흘러들어 14명을 숨지게 한 사고다. 미호천교 확장 공사 과정에서 임시 제방을 부실하게 축조하고 방치한 게 참사의 직접적인 원인으로 지목됐다.&lt;br&gt;&lt;br&gt;검찰은 이와 관련, 이범석 청주시장, 이상래 전 행복청장을 비롯해 45명(법인 2곳 포함)을 재판에 넘겼다. &lt;br&gt;&lt;br&gt;미호천교 확장공사 현장소장과 감리단장은 지난 4월 각각 징역 6년과 징역 4년의 형을 확정받았고, 소방 관계자 2명은 1심에서 징역형의 집행유예를 선고받았다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>인천 시내버스 노사 임금협상 타결… 9.3% 인상 합의</title>
+      <link>https://www.chosun.com/national/national_general/2025/06/12/HUZ3V46E5RFANFBCG3ER3BSJ4A/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/12/HUZ3V46E5RFANFBCG3ER3BSJ4A/</guid>
+      <dc:creator>인천=이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 12 Jun 2025 08:25:46 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ES75BWPXWTTA3EMPZA2VIXG25I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;시내버스를 이용하는 시민들 (사진은 기사 내용과 무관함) / 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천시내버스 노사가 3차에 걸친 인천지방노동위원회 특별조정회의 끝에 임금 협상안에 합의했다. &lt;br&gt;&lt;br&gt;12일 인천시에 따르면 인천버스운송사업조합과 인천시내버스 노조(한국노총 전국자동차노동조합연맹 인천지역노동조합)는 전날 오후 3시부터 인천지노위 3차 조정회의를 열고 최종 합의안을 도출했다. &lt;br&gt;&lt;br&gt;인천시내버스 노사는 정기 상여금을 통상임금에 반영하는 방식으로 임금 체계를 개편하기로 했다. 이에 따라 임금은 평균 9.3% 인상됐다. &lt;br&gt;&lt;br&gt;노조는 9.3%의 임금 상승 효과가 발생하는 개편안과 함께 임금 8.2% 추가 인상, 무사고 수당 인상 등을 요구했다. 사측은 임금 개편에 동의하면서도 재정 부담 최소화 입장을 견지하며 협상해왔다. &lt;br&gt;&lt;br&gt;인천시는 이번 노사 합의에 따라 올해 320억원의 재정이 추가로 투입돼야 할 것으로 보고 있다. &lt;br&gt;&lt;br&gt;인천 시내(간선‧지선)버스는 193개 노선의 1962대로, 5101명의 기사가 근무하고 있다.&lt;br&gt;&lt;br&gt;인천시는 2009년부터 버스 운영 손실을 보전해주는 ‘버스 준공영제’를 운영하고 있다. 지난해 준공영제를 위해 2300억원의 예산을 투입했다. &lt;br&gt;&lt;br&gt;인천시 관계자는 “노사가 상생을 위해 조금씩 양보해줘 합의가 이뤄질 수 있었다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘에어쇼 잠입’ 美공군기지 전투기 무단 촬영한 대만인 2명 재판행</title>
+      <link>https://www.chosun.com/national/court_law/2025/06/12/X5XV3KHSZJEUNF4LRX7UMAUAAQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/12/X5XV3KHSZJEUNF4LRX7UMAUAAQ/</guid>
+      <dc:creator>평택=김수언 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 12 Jun 2025 08:30:17 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OM4X5RP6CRODVEEE2QEAGLJK3U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 11일 경기도 평택시 주한미공군 오산기지에서 열린 '오산 에어 파워 데이 2025'에서 A-10 공격기가 시범비행을 마치고 착륙하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;주한 미군 공군기지 안에서 열린 에어쇼 행사장에서 기지 내부 시설과 전투기 등을 불법 촬영한 혐의를 받는 대만 국적 외국인들이 구속 상태로 재판에 넘겨진 것으로 확인됐다.&lt;br&gt;&lt;br&gt;12일 법조계에 따르면 수원지검 평택지청 형사2부(부장 최용락)는 지난 5일 군사기지 및 군사시설 보호법 위반 혐의를 받는 대만인 A(60대)씨와 B(40대)씨를 구속 기소했다.&lt;br&gt;&lt;br&gt;수사 당국에 따르면, A씨 등은 지난달 10일 오전 평택 오산공군기지(K-55)에서 열린 ‘2025 오산 에어쇼’ 현장에서 미군 장비와 시설을 무단 촬영한 혐의를 받는다.&lt;br&gt;&lt;br&gt;행사 당일 미군 측은 중국과 대만 국적자에 대해 출입을 엄격하게 제한했다. 그러나 A씨 등은 한국인들과 뒤섞여 행사장에 몰래 입장한 뒤, 전투기 등을 촬영한 것으로 전해졌다. 미군은 이미 이들을 세 차례나 출입 제지했지만, 이들은 보안망을 뚫고 들어온 것으로 조사됐다.&lt;br&gt;&lt;br&gt;이들은 “사진을 수상하게 찍는 사람들이 있다”는 신고를 받고 출동한 경찰에 체포됐다. A씨 등은 지난달 8∼9일 관광 비자를 이용해 차례로 입국했으며, 같은 달 11∼12일 출국할 예정이었던 것으로 파악됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JI7Z3YTC2BMEHBREOB5BS5HDQY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 11일 경기도 평택시 주한미공군 오산기지에서 열린 '오산 에어 파워 데이 2025'에서 A-10 공격기가 시범비행을 하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;수사 당국이 이들의 카메라를 분석한 결과, 수백여 장의 사진이 발견됐는데, 이 중 군사기지 및 군사시설 보호법 위반 혐의를 적용할 수 있는 사진은 약 10여 장이었던 것으로 파악됐다.&lt;br&gt;&lt;br&gt;이들은 검찰에 “올해 퇴역하는 미 전투기 A-10에 대한 궁금증으로 사진을 찍으러 온 것”이라는 취지로 진술한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;A-10은 이른바 ‘탱크 킬러’로 불리는 전투기로, 오산 공군기지에 배치돼 있다. 다만, 현재까지 대공 용의점이 발견되진 않은 것으로 조사됐다.&lt;br&gt;&lt;br&gt;검찰 관계자는 “당국이 중국과 대만 국적자에 대해 출입을 제한했음에도 불구하고 불법으로 군사 시설을 촬영한 사안”이라며 “현행범으로 체포돼, 촬영한 사진이 외부로 유포되지는 않은 것으로 파악했다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>아내 살해 후 트렁크에 은닉… 40대 남편 징역 17년 선고</title>
       <link>https://www.chosun.com/national/court_law/2025/06/12/V4WO6WBIDRB3ZH5YEKBWR5U7YQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/12/V4WO6WBIDRB3ZH5YEKBWR5U7YQ/</guid>
@@ -837,15 +900,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PKSLDXJ33NKT7OMM2GLWMKYGKM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;박용철 인천 강화군수./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제22대 국회의원 선거에서 불법 선거운동을 한 혐의로 재판에 넘겨진 박용철(61) 인천 강화군수에 대한 항소심 재판에서 원심과 같은 무죄가 선고됐다. &lt;br&gt;&lt;br&gt;서울고법 인천원외재판부 형사2부(재판장 임영우)는 11일 공직선거법 위반 혐의로 기소된 박 군수에 대한 항소심 재판에서 1심과 마찬가지로 무죄를 선고했다. &lt;br&gt;&lt;br&gt;재판부는 “피고인이 찾았던 사람들은 선거운동을 함께할 가능성이 매우 높거나 이미 함께 하고 있는 사람들로서, 선거운동을 독려하기 위한 측면 등으로 이해된다”며 “검사가 제출한 증거들로는 피고인에 대한 공소사실이 합리적 의심이 없을 정도로 증명됐다고 보기 어렵다고 판단된다”고 했다. &lt;br&gt;&lt;br&gt;검찰은 앞서 박 군수에 대해 당선 무효형인 벌금 100만원을 구형했다. &lt;br&gt;&lt;br&gt;박 군수는 22대 국회의원 선거를 앞둔 지난해 3월 6일부터 4월 6일까지 5차례에 걸쳐 유권자들의 집을 방문하면서 선거운동을 한 혐의로 기소됐다. 박 군수는 재판 과정에서 “당시 인천시의원 신분으로 민원 등을 듣기 위한 통상적인 정당활동이었다”고 주장했다. &lt;br&gt;&lt;br&gt;1심 재판부는 박 군수에 대해 무죄를 선고했다. 1심 재판부는 “피고인이 방문한 곳은 10년 넘게 국민의힘 (후보의) 당선을 위해 노력해 온 협의회장들의 집으로, 지지를 호소할 생각이었다면 협의회장들의 집만 방문했을 것이라고 보이지 않는다”며 “공소사실이 충분히 입증됐다고 보기어렵다”고 선고 이유를 설명했다. &lt;br&gt;&lt;br&gt;박 군수는 재판이 끝난 뒤, “재판부의 현명한 판단에 대해 감사의 말씀드린다”며 “이번 일로 배운 것이 많고, 선거법이라는 것에 대해 더욱 신중하게 생각하고 행동하겠다”고 말했다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>범행 실적 따라 승진까지… 20대 범죄단체, 대포통장 400개로 500억 뜯어내</title>
-      <link>https://www.chosun.com/national/national_general/2025/06/11/RHBJCDTID5HBZJSBUILAZ7EE5E/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/11/RHBJCDTID5HBZJSBUILAZ7EE5E/</guid>
-      <dc:creator>구아모 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 11 Jun 2025 05:23:21 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YWDYOWGO3DQQVPQOBW5M7F4OIU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;보이스 피싱 조직원 은신처에서 압수한 사업자등록증, 통장, 휴대전화 등/서울 용산경찰서&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;범행 실적에 따라 ‘팀장’으로 승진하는 위계 구조를 갖춘 20대 중심 대포통장 유통 조직이 경찰에 적발됐다. 서울 용산경찰서는 법인 명의 대포통장을 대량으로 개설해 국내외 보이스피싱 조직에 유통한 범죄 단체 조직원 28명을 검거하고, 이 중 20명을 구속했다고 11일 밝혔다.&lt;br&gt;&lt;br&gt;이들은 이른바 ‘장집(대포통장집의 은어)’으로 불리는 조직을 결성해 2022년 7월부터 올해 4월까지 약 3년간 유령 법인 218개를 설립하고 법인 계좌 400여 개를 개설해 보이스피싱 자금 세탁에 이용했다. 피해자 89명으로부터 가로챈 금액은 총 500억원에 달한다. &lt;br&gt;&lt;br&gt;경찰은 지난해 7월, 서울 시내 한 은행에서 통장을 버리고 달아난 남성의 112신고를 받고 현장에 출동해 법인 명의 대포통장을 압수했다. 이후 계좌 거래 내역과 CCTV 등을 추적한 끝에 총책, 부총책, 관리자급 팀장, 인출·관리책 등 하부 조직원까지 총 28명을 차례로 검거했다.&lt;br&gt;&lt;br&gt;조직원 대부분은 1995년부터 2002년생 사이의 20대 초중반으로 구성됐다. 고등학교 동창, 동네 선후배 등 지인을 통해 포섭됐다. 이들은 본명을 사용하지 않고 텔레그램 아이디로만 소통하며 치밀한 분업 구조를 갖췄다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LTVNM23TWRDD3D6CV75BXVKYCQ.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=조선디자인랩 한유진&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;조직 내부는 ‘총책–부총책–팀장–현장직·사무직’으로 위계가 짜였고 각자 역할도 명확했다. ‘현장직’은 유령 법인 명의 계좌를 직접 개설하거나 현금을 인출하고 전달하는 실무를 담당했다. ‘사무직(전산직)’은 텔레그램 단체 대화방 운영, 전화 상담, 대포폰·OTP카드 관리 등 기술·지원 업무를 맡았다.&lt;br&gt;&lt;br&gt;범행 실적에 따라 인출책 등 하부 조직원이 팀장으로 ‘승진’하는 방식으로 운영됐고, 조직 내 승진 구조와 역할 분담을 통해 구성원 대부분이 범행 수법을 자연스럽게 익히게 됐다고 경찰은 전했다.&lt;br&gt;&lt;br&gt;피해금은 개설된 대포통장을 통해 입금받은 후, 2차로 다른 대포통장으로 이체된 뒤 수표로 인출되거나 상품권으로 전환되는 방식으로 세탁됐다. 경찰은 이 같은 수법을 통해 피해자 89명으로부터 총 500억원 상당을 뜯어낸 것으로 보고 있다.&lt;br&gt;&lt;br&gt;검거 현장에서 현금 6000만원을 압수했으며, 불구속 수사 중인 조직원들의 범죄 수익 약 3억원에 대해선 기소 전 몰수보전 신청을 진행 중이다. 경찰은 “본 사건은 보이스피싱 범죄가 단순 범행을 넘어, 철저히 기획된 위계 조직 형태로 진화하고 있음을 보여주는 사례”라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>서울 시내 곳곳에 가수 보아 ‘모욕 낙서’…경찰 수사 중</title>
       <link>https://www.chosun.com/national/national_general/2025/06/11/SZKCLYIWXFATDGV66327B5TRBA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/11/SZKCLYIWXFATDGV66327B5TRBA/</guid>
@@ -868,15 +922,6 @@
       <content:encoded>시민 105명이 “비상계엄으로 정신적 손해를 입었다”며 윤석열 전 대통령을 상대로 손해배상 소송을 제기한 가운데, 윤 전 대통령이 “소송 비용을 담보해달라”고 법원에 신청했지만 기각됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HENDELYJKVEPZWSBZSDY2642IA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령이 지난 9일 서울 서초구 중앙지방법원에서 열린 내란 우두머리 혐의, 직권남용 권리행사방해 혐의 사건 6차 공판을 마친 후 취재진의 질문을 받으며 법원을 나서고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;11일 법조계에 따르면, 서울중앙지법 민사2단독 이성복 부장판사는 윤 전 대통령이 법무법인 도시 이금규 변호사를 상대로 신청한 소송비용 담보 제공을 전날 기각했다. 이 변호사는 지난해 12월 시민 105명을 대리해 “비상계엄 선포로 인한 정신적 피해를 배상하라”며 윤 전 대통령을 상대로 인당 10만원씩 총 1050만원을 지급하라는 손해배상 소송을 제기했다. 이 변호사는 윤 전 대통령 탄핵 심판에서 국회 측 대리인을 맡기도 했다. &lt;br&gt;&lt;br&gt;윤 전 대통령은 지난 5일 이 변호사를 상대로 “시민 측이 패소할 경우 발생할 소송 비용을 미리 보전해 달라”며 담보 제공을 신청했다. 소송 비용 담보 제공 신청은 피고가 요청하면 법원이 원고(시민)에게 “소송비용을 보전하라”고 명령할 수 있는 제도다. 원고가 패소할 경우 발생할 피고(윤 전 대통령) 측 소송 비용을 사전에 담보해 무분별한 소송 제기를 막기 위한 제도다. 통상 원고의 주장이 터무니없거나 소송이 무리하게 제기됐을 때 법원이 받아들이는 경우가 많다. &lt;br&gt;&lt;br&gt;하지만 법원은 시민들의 손해배상 청구를 ‘명백히 이유 없는 소송’으로 단정하기 어렵다 보고, 윤 전 대통령의 신청을 받아들이지 않은 것으로 보인다. 이 손해배상 사건의 첫 변론은 오는 27일 열린다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>‘무자본 갭투자’ 전세사기 주범...사기죄 법정최고형 </title>
-      <link>https://www.chosun.com/national/2025/06/11/PGTYU4EINVFHDAVBN64OD4WKLE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2025/06/11/PGTYU4EINVFHDAVBN64OD4WKLE/</guid>
-      <dc:creator>부산=김준호 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 11 Jun 2025 07:49:06 +0000</pubDate>
-      <content:encoded>무자본 갭투자 수법으로 80억원대에 달하는 전세 사기행각을 벌인 30대가 사기죄 법정 최고형인 징역 15년을 선고받았다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NEB72YMFAVHRJKGS7DXJM5DJ5A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원 로고. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산지법 동부지원 형사1단독 정왕현 부장판사는 11일 사기 등 혐의로 기소된 전세 사기 일당 주범 A씨에게 징역 15년을 선고했다. 또 함께 기소된 30대 B씨와 C씨에게는 징역 9년을 선고했다.&lt;br&gt;&lt;br&gt;A씨는 지난 2019년 12월부터 2023년 2월까지 자기 자본 없이 대출금과 임차인들의 전세보증금만으로 건물을 매입하는 ‘무자본 갭투자’ 수법으로 수영구와 금정구 소재 오피스텔 3채(103호실)룰 구매해 피해자 80여명으로부터 보증금 84억7000여만원 상당을 가로챈 혐의를 받는다. &lt;br&gt;&lt;br&gt;이들은 임대차 보증금을 매매대금보다 높게 설정해 전 소유주에게 건물 매매대금을 지급하고 남은 임대차 보증금을 수익으로 가져갔다. &lt;br&gt;&lt;br&gt;지인인 B씨와 C씨는 건물 매수자이자, 임대인으로 범행에 참여했다. 이들은 보증보험에 가입할 수 없는데도 보증보험에 가입하겠다는 식으로 세입자들을 안심시켰다. &lt;br&gt;&lt;br&gt;정 판사는 “임대차 보증금은 그간의 노력이 집약된 재산으로 피해자들은 재산적으로 큰 피해를 본 것을 넘어 큰 정신적 피해도 봤다”며 “피고인들은 피해자들로부터 받은 돈을 새 건물을 짓고 고가의 차를 타거나 코인 투자 등을 하는 등 비난 가능성이 매우 크다”고 말했다.&lt;br&gt;&lt;br&gt;이어 “A씨는 범행을 주도했지만 직접적인 건물의 매수인이 아니라는 이유로 범행을 부인하는 등 죄를 뉘우치는 기색이 없다”며 “B, C씨의 경우 A씨 제안에 응했을 뿐이라고 주장하지만 이 사건 범행이 위험하다는 것은 알 수 있었을 것이며, 자신의 이익을 위해 기꺼이 눈을 감은 것으로 보인다”고 했다.&lt;br&gt;&lt;br&gt;형법상 사기죄의 법정형은 징역 10년 이하인데, 재판부가 여러 죄가 있는 경우 합쳐서 형을 정하는 경합범 가중까지 적용하면 최고 징역 15년을 선고할 수 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>“잘 봐달라” 청탁에 호통치고 법정구속한 판사…“재판은 공정해야”</title>
       <link>https://www.chosun.com/national/national_general/2025/06/11/FZ5HPSYSBVHMDLB5BNI2CM6FEQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/11/FZ5HPSYSBVHMDLB5BNI2CM6FEQ/</guid>
@@ -887,24 +932,6 @@
       <media:content url="https://www.chosun.com/resizer/v2/SGRVDEREFZERFNK3LGFWFOMFAY.png?auth=f0cfa345b907aa1772ad39d1ec637774bb4f5192b1a13c22d4c8ea792a47ef27&amp;smart=true&amp;width=564&amp;height=351" type="image/png" height="351" width="564">
         <media:description type="plain">광주지법 청사 전경. /광주지법</media:description>
       </media:content>
-    </item>
-    <item>
-      <title>소방 간부 자녀 결혼식 알린다고... ‘비상발령 시스템’ 사용 논란</title>
-      <link>https://www.chosun.com/national/regional/2025/06/11/PZLJ2SSNDRETJI27JFDN2HUV3I/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/06/11/PZLJ2SSNDRETJI27JFDN2HUV3I/</guid>
-      <dc:creator>조홍복 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 11 Jun 2025 07:10:21 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/M5FYHVGOZDETTCNNHM6NIFZFGM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전남소방본부의 '비상발령동보시스템'을 통해 일선 소방서 간부 공무원들의 경조사 알림이 소방대원들에게 발송된 내용./뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전남 소방 간부 2명이 소셜미디어 ‘카카오톡’망을 활용해 비상 때만 사용하는 ‘비상발령 동보 시스템’으로 자녀 결혼식 일정을 직원들에게 발송해 논란이 일고 있다.&lt;br&gt;&lt;br&gt;11일 전남소방본부 등에 따르면, 전남 순천소방서는 지난 9일 오후 3시 9분쯤 ‘전남소방본부 비상발령 동보 시스템’으로 고위 간부의 자녀 결혼식 일정을 소방대원들에게 발송했다. 결혼식 일시와 순천 결혼식장명, 연락처, 축의금 계좌번호 등이 적시됐다. 이날 오후 3시 24분쯤에도 나주소방서 소속 한 간부 자녀 결혼식 일정이 같은 방식으로 발송됐다.&lt;br&gt;&lt;br&gt;전남소방본부 비상 발령 동보 시스템은 화재나 재난, 소방 대응 단계 발령 등 비상 소집이 필요할 때 신속 전파를 위해 구축된 알림 시스템이다. 전 대원이 카카오톡으로 공유한다. 전남 소방 당국은 비상 상황 시 각 소방대원의 휴대전화로 긴급 상황을 발송하며 현 상황과 대응 방식 등을 전파한다. 소방 내부적으로는 음주기강 확립 알림이나 당직·숙직을 알리는 용도로도 사용되고 있다.&lt;br&gt;&lt;br&gt;이처럼 관할 소방서가 공적 시스템으로 사적인 자녀 결혼식 일정을 통보한 데 대해 비난이 일고 있다. 소방대원들은 ‘자녀 결혼식이 비상 시스템으로 알릴 일이냐’며 공식적인 사과와 진상 조사를 촉구하고 있다.&lt;br&gt;&lt;br&gt;소방대원들은 내부 게시판에 ‘비상발령동보시스템에 대한 진상을 규명하라’ ‘과장 이상급들은 무슨 수를 써서라도 본인 경조사를 널리 알린다’ 등의 불만이 쏟아지고 있다. 일부는 가족의 부음과 장례식 일정도 이 시스템으로 보낸 것으로 알려졌다.&lt;br&gt;&lt;br&gt;한 소방대원은 “화재 등 대형 재난 발생 시 재난 상황을 전파하려는 목적으로 만든 비상발령 동보 시스템이 간부 공무원의 자녀 경사 알림으로 전락한 부분에 대해 진상 조사가 필요하다”고 말했다. 또 다른 소방대원은 “하위직 직원들은 윗사람들이 시킨 대로 지시 사항을 잘 따르고 있는데 윗사람들은 소방서 전체 카톡방에 본인 경조사를 올리고, 또 문자도 따로 보낸다”며 “대한민국 정부는 이제 새로 시작한다고 불철주야 달리고 있다. 본부 감사실이 공정함을 보여달라”고 촉구했다.&lt;br&gt;&lt;br&gt;대원들의 비판이 거세지자 순천소방서는 직원 게시판에 ‘사과문’을 올리고 공적 시스템의 사적 이용을 사과했다. &lt;br&gt;&lt;br&gt;순천소방서는 내부 게시판에 “비상발령 동보시스템을 통해 사적인 메시지가 전달된 것에 대해 깊이 사과드린다”고 적었다. 이어 “이번 일을 계기로 공적 시스템 운영에 대해 더욱 엄격하고 신중하게 접근하겠다”며 “이와 같은 일이 재발하지 않도록 업무 처리에 신중을 기하겠다. 다시 한번 불편을 끼쳐 드려 대단히 죄송하다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘1타 강사’ 조정식 “현직 교사에 5800만원 준 적 없다”</title>
-      <link>https://www.chosun.com/national/national_general/2025/06/11/4DLEFQXWXZCARGFGPNBRODGVPU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/11/4DLEFQXWXZCARGFGPNBRODGVPU/</guid>
-      <dc:creator>정아임 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 11 Jun 2025 07:25:28 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DBXEF6SEYVFBBEKEVDTOP2GXFE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;스타 영어 강사 조정식씨. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;스타 영어강사 조정식(42)씨가 현직 교사에게 수천만원을 지불하고 수능 모의고사 문제를 구입했다는 의혹과 관련해 입장을 밝혔다.&lt;br&gt;&lt;br&gt;조정식의 법률대리인인 법무법인 평안의 최봉균, 정성엽 변호사는 11일 “최근 한 언론사가 보도한 조정식 강사 관련 내용은 사실과 다른 부분이 포함되어 있으며, 이로 인해 강사의 명예와 사회적 신뢰에 심각한 훼손이 발생하고 있다”고 알렸다.&lt;br&gt;&lt;br&gt;이어 “조정식 강사와 저희 변호인단은 현재 검찰에 송치된 모든 혐의에 대해 무혐의임이 명백하다고 확신하고 있으며, 조정식 강사는 사건의 해당 교사에게 5800만원을 직접 지급한 사실이 전혀 없다”고 주장했다.&lt;br&gt;&lt;br&gt;그러면서 “해당 사건은 현재 수사기관에서 엄정한 수사 절차를 거치고 있는 중으로, 사실관계에 대한 판단은 향후 수사 결과를 통해 명확히 밝혀질 것”이라고 했다. &lt;br&gt;&lt;br&gt;전날 인터넷 매체 ‘셜록’에 따르면 감사원은 조씨가 현직 교사 21명으로부터 고등학교 3학년 사설 모의고사 제작용 문항을 구매한 사실을 적발했다. 조씨는 청탁금지법 위반, 업무방해 등 혐의로 지난달 17일 검찰에 불구속 송치됐다.&lt;br&gt;&lt;br&gt;2009년부터 EBS 수능 연계 교재 등을 집필한 교사 A씨는 2021년 1월부터 2023년 10월까지 조씨에게 총 5800만원을 받고 문항을 제공한 것으로 전해졌다. A씨 외에도 조씨가 문항을 거래한 교사 중에는 EBS 수능 연계교재 집필, 서울시교육청 주관 전국연합학력평가 문항 출제 등 경력을 보유한 이들이 있었다고 한다.&lt;br&gt;&lt;br&gt;하지만 조정식 측은 반박 입장을 내며 “현재 사실과 다른 내용이 확인 없이 무분별하게 유포되고 있는 점에 대해서는 매우 유감스럽게 생각하며, 허위사실을 유포하거나 명예를 훼손하는 행위에 대해서는 민형사상 가능한 모든 법적 조치를 취할 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>손주뻘 여성에게 다가오더니 “야!”…버럭 소리치며 음료 던진 노인</title>
@@ -919,24 +946,6 @@
       </media:content>
     </item>
     <item>
-      <title>대통령의 ‘장마 대비’ 지시에···경찰 “재난신고 접수되면 ‘코드1’ 발령”</title>
-      <link>https://www.chosun.com/national/national_general/2025/06/11/NNN7D66RMZCV5KSOCUCDBGJAWI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/11/NNN7D66RMZCV5KSOCUCDBGJAWI/</guid>
-      <dc:creator>김명진 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 11 Jun 2025 04:53:22 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LQRNHTLWKSCKU3N2GVUBEVYWNI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰청이 11일 오전 이호영 경찰청장 직무대행 주재로 여름철 재해재난 대비 회의를 열었다. /경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰청은 이달 중순부터 시작될 장마와 관련해 11일 여름철 재해재난 대비 점검회의를 열고 대응 체계를 점검했다. 이재명 대통령이 지난 5일 안전치안점검회의에서 재해재난 원인을 사전 파악해 대책을 수립할 필요가 있다고 언급한 데 따른 후속 조치다.&lt;br&gt;&lt;br&gt;이호영 경찰청장 직무대행은 이날 경찰청 관련 국장 및 전국 시·도 경찰청을 대상으로 한 여름철 재해·재난 대비 대책회의를 진행했다.&lt;br&gt;&lt;br&gt;경찰은 장마와 대기 불안정으로 인한 극한 호우에 대비해 지하차도 958곳과 지역별 취약 지역 8694곳을 중점 예방 순찰하기로 했다. 행정안전부에서 중앙재난안전대책본부를 설치하면 즉각 재난상황실을 가동하고 재난 비상 발령 등 비상 운영 체계를 운영할 방침이다.&lt;br&gt;&lt;br&gt;112신고가 접수되거나 인명피해 가능성이 있을 경우에는 지방자치단체 등 관계기관 상황 전파와 함께 긴급 신고 지령인 ‘코드1(즉시 출동)’ 이상을 발령하기로 했다. 지역 담당을 불문하고 가장 가까운 순찰차와 인력이 신속 출동하기 위한 조치라고 경찰은 전했다.&lt;br&gt;&lt;br&gt;경찰은 또 지자체 협조 요청이 있을 경우 대피를 거부한 사람을 대상으로 강제 대피를 적극 지원하고, 대피 지역 수색 및 위험 지역 진입 통제, 피해 지역 민생 침해 범죄 예방 등도 적극 나서겠다는 방침이다.&lt;br&gt;&lt;br&gt;기상청에 따르면 올해 장마는 6월 중순부터 시작되고, 시간당 100㎜ 이상의 극한 호우 발생이 빈번해질 것으로 전망된다. 이 직무대행은 “재난 대비 계획이 제대로 구현되는 것이 중요하다”며 “재난에 대한 선제적 조치와 함께 재난 관련 근무자의 안전 및 사기 진작을 유념하라”고 했다.&lt;br&gt;&lt;br&gt;앞서 이 대통령은 지난 5일 장마철을 앞두고 대비 상황을 점검하기 위해 마련된 안전치안점검회의에서 “우리가 조금 신경 쓰면 피할 수 있었던 재난 재해, 사고도 꽤 많다”며 “앞으로는 사람들이 사망하거나 중대한 사건이 발생하는 경우, 신속히 원인을 분석해 막을 수 있었는데 부주의나 무관심 등으로 발생한 경우 엄정하게 책임을 물을 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>가상화폐 투자 명목 7억원대 사기 혐의…현직 경찰관 구속 송치</title>
-      <link>https://www.chosun.com/national/incident/2025/06/11/QF5R3X22QFET3ANUSWSHS5VUMU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/06/11/QF5R3X22QFET3ANUSWSHS5VUMU/</guid>
-      <dc:creator>인천=이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 11 Jun 2025 04:51:16 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/X7FI3TLNTIJ7MC6NRPAKZBWT2Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /누스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;가상 화폐 투자 명목으로 지인들에게 수억 원을 받아 가로챈 혐의로 구속된 경찰관이 검찰에 넘겨졌다. &lt;br&gt;&lt;br&gt;인천경찰청 반부패경제범죄수사대는 최근 사기 혐의로 인천 서부경찰서 소속 경장 A씨를 구속해 검찰에 송치했다고 11일 밝혔다. &lt;br&gt;&lt;br&gt;A씨는 지인 10여 명으로부터 가상 화폐 투자금 명목으로 7억여 원을 받아 가로챈 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;A씨는 가상 화폐에 투자하면 수익금을 지급하겠다며 지인들을 속인 것으로 파악됐다. &lt;br&gt;&lt;br&gt;경찰은 A씨와 관련한 고소장 10여 건을 접수하고 수사를 벌여 혐의가 인정된다고 봤다. &lt;br&gt;&lt;br&gt;경찰은 A씨를 직위해제한 상태인 것으로 알려졌다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>‘담배 못 피우게 해서…’ 중학생이 교무실에 소화기 난사 후 도주</title>
       <link>https://www.chosun.com/national/national_general/2025/06/11/APHHUMJ52BGN3O4IZPAPLD4LOU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/11/APHHUMJ52BGN3O4IZPAPLD4LOU/</guid>
@@ -944,15 +953,6 @@
       <description/>
       <pubDate>Wed, 11 Jun 2025 04:43:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BYPJGDK765FYBF2VIX4FF35J2M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 10일 소화기 난사 당시 복도 모습. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 파주시의 한 중학교에서 2학년 남학생이 담배를 못 피우게 했다는 이유로 교사에게 불만을 품고 교무실과 복도에 소화기를 난사하는 사건이 발생했다.&lt;br&gt;&lt;br&gt;11일 경기도교육청 등에 따르면 중학교 2학년인 A군은 전날 오전 9시쯤 파주시 한 중학교 2학년 교실이 있는 복도에서 소화기를 분사한 뒤 달아났다. 교사가 담배를 못 피우게 했다는 이유였다. &lt;br&gt;&lt;br&gt;이 사고로 한때 학생들이 운동장으로 대피하는 소동이 벌어졌다. 학교 측은 복도에 퍼진 분말로 인해 정상적인 수업이 어렵다고 판단해 해당 층에 있던 학생들을 조기 귀가 조치했다.&lt;br&gt;&lt;br&gt;112 신고받고 출동한 경찰은 도주한 A군을 학교 인근에서 붙잡았다. 파주경찰서는 현재 재물손괴 혐의로 A군을 조사하고 있다.&lt;br&gt;&lt;br&gt;A군은 지난 9일 오후 1시쯤에도 학교 교무실에 소화기를 분사했던 것으로 파악됐다.&lt;br&gt;&lt;br&gt;경기도교육청 관계자는 조선닷컴과의 통화에서 “9일에도 담배를 못 피우게 했다는 이유로 소화기를 분사했다고 한다”며 “당일 귀가 조치되고 10일에 학교에 와서 또다시 소화기를 분사한 것”이라고 했다. &lt;br&gt;&lt;br&gt;A군은 경찰 조사에서도 “선생님이 담배 피우지 말라고 훈계해 화가 나 소화기를 뿌렸다”는 취지로 진술했다고 한다. &lt;br&gt;&lt;br&gt;경찰은 사건 경위와 범행 동기를 조사해 관련 법리에 따라 처리할 방침이라고 밝혔다.&lt;br&gt;&lt;br&gt;학교 측은 A군에 대한 징계위원회 회부를 검토 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>중고거래 사기로 65명에 2500여만원 가로챈 20대 구속</title>
-      <link>https://www.chosun.com/national/regional/2025/06/11/GLVSBDF23RFKHDWOM4SB44VJEA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/06/11/GLVSBDF23RFKHDWOM4SB44VJEA/</guid>
-      <dc:creator>부산=김주영 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 11 Jun 2025 04:13:53 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HIBFPNQK45T6XG44XYMTSW6W3E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산 사하경찰서. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인터넷 중고 거래 사이트를 통해 상습적으로 사기 행각을 벌인 2명이 구속돼 검찰에 넘겨졌다.&lt;br&gt;&lt;br&gt;부산 사하경찰서는 사기 혐의로 20대 A씨와 30대 B씨를 검찰에 구속 송치했다고 11일 밝혔다.&lt;br&gt;&lt;br&gt;경찰에 따르면 A씨는 지난해 10월부터 올해 4월까지 중고 거래 사이트에서 물품 판매 게시물을 복사한 뒤 자신이 판매자인 척 그 글을 다시 올렸다. 이후 자신의 글을 본 구매자가 실제 판매자 계좌로 돈을 송금하면, 판매자에게는 자신이 송금한 것처럼 속여 물건을 가로챘다.&lt;br&gt;&lt;br&gt;그는 이 수법으로 총 65명에게 2500만원어치 물품을 챙긴 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;B씨는 지난해 12월부터 올해 3월까지 중고 물품 판매 글을 게시한 뒤 구매자들에게 택배 운송장 번호를 보내 안심시키고, 돈을 입금 받으면 택배를 취소하는 방식으로 7명에게서 270만원을 가로챈 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;경찰 조사 결과 이들은 모두 무직 상태로, 도박 자금과 생활비 마련을 위해 범행을 저지른 것으로 드러났다.&lt;br&gt;&lt;br&gt;경찰은 모텔 등지에 숨어 지내던 이들을 차례로 검거했다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “중고 거래 사기를 예방하기 위해서는 가급적 안전한 곳에서 직접 만나 물건 상태를 확인한 다음 대금을 지급하고, 택배로 거래할 경우 소액의 수수료를 부담하더라도 안전 결제 서비스를 이용하면 피해를 줄일 수 있다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>아이돌 경호원에게 맞은 피해자 “짐승 다루듯 진압...전치 4주”</title>
