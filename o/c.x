@@ -13,6 +13,85 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>국내 항공사 승무원, 싱가포르서 징역형…여성 부하 불법촬영 혐의 </title>
+      <link>https://www.chosun.com/national/national_general/2025/06/13/AOFZNCSHSFAZZLHEAKJAUEKJUI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/13/AOFZNCSHSFAZZLHEAKJAUEKJUI/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 13 Jun 2025 10:07:55 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GMMGK5HORTKQUDXF2OO3P3EO4I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;싱가포르 마리나베이 샌즈 호텔 전경. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국내 한 항공사의 객실 사무장이 취항지인 싱가포르에서 부하 여성 승무원의 신체를 몰래 촬영했다가 적발돼 현지에서 징역형을 선고받았다.&lt;br&gt;&lt;br&gt;13일 싱가포르 매체 채널뉴스아시아 등에 따르면 싱가포르 법원은 지난 11일 불법 촬영 혐의로 한국인 객실 사무장 남성 A(37)씨에게 4주간의 징역형을 내렸다.&lt;br&gt;&lt;br&gt;A씨는 지난 4월 27일 오전 싱가포르에 도착한 뒤 부하 직원의 호텔 방 화장실에 소형 카메라를 몰래 설치해 신체를 촬영한 혐의를 받는다.&lt;br&gt;&lt;br&gt;피해 여성 직원은 당시 A씨를 비롯한 동료 승무원들을 자신의 객실로 초대해 식사를 함께했었다. A씨는 초대를 받아 피해 직원 방에 들어간 후 소형 카메라를 화장실에 설치하고 수건으로 덮어 숨겨 둔 것으로 조사됐다.&lt;br&gt;&lt;br&gt;이후 피해 직원이 손을 닦은 후 수건을 집어 들었다가 전원이 켜진 카메라를 발견했다. 피해 직원은 호텔 직원을 통해 경찰에 신고했고, 조사 과정에서 A씨가 범인으로 특정됐다.&lt;br&gt;&lt;br&gt;A씨는 범행 후 일단 귀가가 허가돼 다음 날 한국으로 돌아갔지만, 현지 경찰의 출석 요구에 따라 지난달 16일 싱가포르에 갔다가 당일 체포됐다.&lt;br&gt;&lt;br&gt;싱가포르 현지 검찰은 “피해자는 피고인을 멘토로 여기며 신뢰하고 존경해왔다”며 “피해자는 피고인의 범죄로 인해 심각한 고통을 겪었다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>대형마트 주차장 기둥 들이받은 SUV… 80대 운전자 숨져</title>
+      <link>https://www.chosun.com/national/incident/2025/06/13/CW26EJY4MFHQ3NAPJY4YAN4YXU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/06/13/CW26EJY4MFHQ3NAPJY4YAN4YXU/</guid>
+      <dc:creator>인천=이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 13 Jun 2025 09:51:36 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EPMMLYAALBAWZOZYJW7H4XRYAU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;13일 오후 3시 54분쯤 인천 부평구의 한 대형마트 주차장에서 사고가 난 SUV 차량. /인천소방본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;13일 오후 3시 54분쯤 인천시 부평구의 한 대형마트 지하 주차장에서 80대 남성 A씨가 몰던 SUV(스포츠유틸리티차량)이 건물 기둥을 들이받는 사고가 발생했다.&lt;br&gt;&lt;br&gt;이 사고로 A씨가 심정지 상태로 심폐소생술(CPR) 등 응급처치를 받으며 119 구급대에 의해 병원으로 이송됐으나 숨졌다. &lt;br&gt;&lt;br&gt;경찰은 “차량이 기둥으로 돌진했다”는 목격자 진술 등을 토대로 구체적인 사고 경위를 조사하고 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/EPMMLYAALBAWZOZYJW7H4XRYAU.jpg?auth=b34a291b80b8e31949d9cbec7ee0b493846160e78f957104362e4a66bb3d8bd9&amp;smart=true&amp;width=1400&amp;height=1050" type="image/jpeg" height="1050" width="1400">
+        <media:description type="plain">13일 오후 3시 54분쯤 인천 부평구의 한 대형마트 주차장에서 사고가 난 SUV 차량. /인천소방본부</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>제주에 내일까지 최대 250㎜ 폭우…초속 25m 강풍도</title>
+      <link>https://www.chosun.com/national/national_general/2025/06/13/OSGCUKC7NVAXXHIXQP6VR4AFME/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/13/OSGCUKC7NVAXXHIXQP6VR4AFME/</guid>
+      <dc:creator>진창일 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 13 Jun 2025 09:37:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WPUR43R2JHIJL6EX6CM4XNTCRQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;제주 서귀포시 안덕면 송악산 인근에 비가 내리고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제주 지역에 내일까지 최대 강수량 250㎜에 달하는 폭우가 내릴 전망이다.&lt;br&gt;&lt;br&gt;제주지방기상청은 13일 “이날 밤 중국 상하이 부근 저기압의 영향으로 천둥·번개를 동반한 매우 강하고 많은 비가 내리겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;기상청은 오는 14일까지 제주 전역에 50~120㎜, 한라산 등 산지는 최대 250㎜의 비가 내릴 것으로 내다봤다. 지역에 따라 이날 밤부터 시간당 30∼50㎜ 강수량의 강한 비가 돌풍, 천둥·번개와 함께 내릴 것으로 예상된다. &lt;br&gt;&lt;br&gt;기상청은 현재 제주도 산지와 제주도 남부 중산간에 호우주의보를 내렸고, 산지를 중심으로 강풍주의보를 발효했다.&lt;br&gt;&lt;br&gt;기상청 관계자는 “산지를 중심으로 초속 20~25m의 강한 바람이 불고, 북부 앞바다를 제외한 전 해상에서 1.5~4m의 높은 파도가 일 것으로 예상된다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>금호타이어 광주공장 특별재난지역 선포 불발</title>
+      <link>https://www.chosun.com/national/national_general/2025/06/13/TN47WJLHGBBHVCE52PROLSDYA4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/13/TN47WJLHGBBHVCE52PROLSDYA4/</guid>
+      <dc:creator>광주광역시=진창일 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 13 Jun 2025 09:25:03 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NIGXAW4S3CZSRKP7DHWC4LFDDY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 17일 오전 7시 11분 광주 광산구 소촌동 금호타이어 광장공장에서 화재가 발생해 소방당국이 소방헬기를 동원해 진화 작업을 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대형 화재로 공장 가동이 전면 중단된 금호타이어 광주공장을 대상으로 추진한 ‘특별재난지역 지정’이 불발됐다.&lt;br&gt;&lt;br&gt;13일 광주광역시 광산구에 따르면 행정안전부는 최근 금호타이어 광주공장 일대를 특별재난지역으로 선포해달라는 광산구의 건의를 수용하기 어렵다는 공문을 광산구에 전달했다.&lt;br&gt;&lt;br&gt;지난달 17일 오전 광주시 광산구 금호타이어 광주공장 2공장에서 발생한 대형 화재는 지난달 20일 오전 11시 50분쯤 완진됐다.&lt;br&gt;&lt;br&gt;약 2만5000㎡ 규모의 공장 건물이 불타 타이어 생산이 멈췄고 일반직 300여 명만 출근하고 있다.&lt;br&gt;&lt;br&gt;앞서 지난달 19일 광주시와 광산구는 “금호타이어 광주공장 정규직 2208명, 경비·청소·식당 등 비정규직 142명 근로자들의 고용이 불안정한 상태”라며 “정부에 특별재난지역 및 고용위기지역으로 지정을 요청하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;특별재난지역은 재난으로 생활 기반 상실 등 극심한 피해를 복구하기 위해 국가적 차원의 조치가 필요한 경우 선포된다.&lt;br&gt;&lt;br&gt;행안부는 금호타이어 광주공장 화재에 대해 “국가 차원의 긴급한 수습·지원이 필요한 재난이라고 보기 어렵다”는 입장을 전한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/NIGXAW4S3CZSRKP7DHWC4LFDDY.jpg?auth=23026d47653983f3c774ac9e0ddcb5542ffa88b4619b967649513516535237d0&amp;smart=true&amp;width=6000&amp;height=4000" type="image/jpeg" height="4000" width="6000">
+        <media:description type="plain">지난달 17일 오전 7시 11분 광주 광산구 소촌동 금호타이어 광장공장에서 화재가 발생해 소방당국이 소방헬기를 동원해 진화 작업을 하고 있다. /뉴스1</media:description>
+        <media:credit role="author" scheme="urn:ebu">뉴스1 ⓒ News1 김태성 기자</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>근로복지공단, 중기 퇴직연금기금 ‘푸른씨앗’ 3년새 가입자 10배 넘게 늘어</title>
+      <link>https://www.chosun.com/national/regional/2025/06/13/LZ5YTOEGG5DYBBE44R26JAPGSU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/06/13/LZ5YTOEGG5DYBBE44R26JAPGSU/</guid>
+      <dc:creator>울산=김주영 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 13 Jun 2025 09:11:45 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5QFMPZDUZ5HC7LXMOKAX5RMMBI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;근로복지공단은 13일 서울 구로구 구로동 구로디지털단지역 인근에서 중소기업 퇴직연금 기금인 '푸른씨앗'을 홍보하는 꽃 화분과 씨앗 키트 나눔 행사를 진행했다. /근로복지공단&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;근로복지공단은 13일 중소기업이 많이 모여 있는 서울 구로구 구로디지털단지역 인근에서 공단이 운영하는 중소기업 퇴직연금기금 ‘푸른씨앗’을 알리는 행사를 진행했다고 밝혔다.&lt;br&gt;&lt;br&gt;공단은 이날 행사 참가자들에게 꽃 화분과 씨앗 키트를 나눠주고, ‘푸른씨앗’ 현장 상담을 진행했다.&lt;br&gt;&lt;br&gt;푸른씨앗은 근로복지공단이 지난 2022년 9월 도입한 국내 최초 기금형 공적 퇴직연금 제도다. 상시 근로자 30인 이하 사업장이 가입할 수 있다. 근로복지공단이 자산을 운영해 지난해에는 6.52%의 수익률을 달성했다.&lt;br&gt;&lt;br&gt;푸른씨앗 가입자에게는 3년간 수수료가 면제된다. 저소득 근로자(최저임금의 130% 미만)의 경우 사업주와 근로자에게 각각 부담금의 10%를 국가 예산으로 지원한다. 월급여가 250만원인 근로자라면 사업주는 1년간 부담금으로 250만원을 납부하고 지원금으로 25만원을 돌려받는다. 근로자는 퇴직급여 250만원과 지원금 25만원을 받아 총 275만원을 적립할 수 있다.&lt;br&gt;&lt;br&gt;저금리 시대 혜택이 크다 보니 시행 3년 만에 가입자는 10배 넘게 늘었다. 6월 현재 푸른씨앗을 도입한 사업장은 2만7387개, 가입자는 12만3542명으로, 시행 당시 2443개 사업장, 가입자 9650명과 비교해 10배 이상 늘어났다. 기금 규모도 지난해 1조원을 돌파했고 현재는 1조 3000억 원을 넘어섰다.&lt;br&gt;&lt;br&gt;행사장을 찾은 직장인 A씨는 “푸른씨앗에 가입하면 수수료가 면제되고 지원금까지 주는 줄 몰랐다”면서 “대표님과 동료들에게 알려서 가입할 수 있도록 해야겠다”고 전했다.&lt;br&gt;&lt;br&gt;이날 행사에는 고용노동부, 푸른씨앗 전담 운용 기관인 삼성자산운용과 미래에셋증권, 한국공인노무사회 등도 참여했다.&lt;br&gt;&lt;br&gt;박종길 근로복지공단 이사장은 “매년 6% 이상의 수익률로 성장 중인 푸른씨앗이 보다 많은 사업주와 근로자에게 알려져 혜택이 폭넓게 돌아가길 바란다”면서 “푸른씨앗이 국내 공공 퇴직연금의 이정표가 되도록 노력하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>대법 “발달장애인 콜택시 보조석 탑승거부는 차별”</title>
+      <link>https://www.chosun.com/national/court_law/2025/06/13/BMAIZJBPTZELPA4RK3LEYEUXBA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/13/BMAIZJBPTZELPA4RK3LEYEUXBA/</guid>
+      <dc:creator>김나영 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 13 Jun 2025 08:54:17 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZYW56QFHN5ASRDOAYV7U5TDR6Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 중앙지법에서 법원 직원들과 민원인들이 오가고 있다./조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;발달장애인이 장애인 콜택시 이용 시 보조석 탑승을 제한하는 행위는 부당한 차별이라는 판단이 대법원에서 확정됐다.&lt;br&gt;&lt;br&gt;13일 대법원 특별3부(주심 노경필 대법관)는 서울시설공단이 국가인권위원회를 상대로 낸 권고결정 취소소송 상고심에서 원고 패소로 판결한 원심을 전날 확정했다고 밝혔다.&lt;br&gt;&lt;br&gt;2019년 자폐성 발달장애인인 A씨는 서울시설공단이 운영하는 장애인콜택시를 이용하려다 조수석 탑승을 거부당했다. 공단 측이 발달장애인이 보조석에 탑승하면 이동 시 돌발행동으로 사고가 날 위험이 있다며, 보조석 탑승을 자제하도록 한 탓이다.&lt;br&gt;&lt;br&gt;이에 장애인차별금지추진연대는 탑승 거부가 발달장애인에 대한 자기결정권 제한이라며 인권위에 진정을 냈고, 인권위는 이를 받아들여 “발달장애인에 대한 자기결정권 침해”라며 공단 측에 개선을 권고했다. 그러나 공단은 이같은 권고에 불복해 행정소송을 냈다.&lt;br&gt;&lt;br&gt;1심은 권고 결정을 취소하라며 공단 측의 손을 들어줬으나, 2심은 “인권위 권고 결정은 적법하다”며 1심 판단을 뒤집었다. 2심은 “모든 발달장애인에게 도전적 행동이 발생할 것이라거나 그로 인해 운전에 방해가 돼 사고 발생의 위험을 초래할 것이라고 단정할 수 없고, 발달장애인의 보조석 탑승을 일률적·사전적으로 금지할 필요성이 크다고 보기 어렵다”고 봤다. 공단이 판결에 불복했으나 대법원도 2심 판단이 정당하다고 봤다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>태안화력서 숨진 근로자, 사인은 ‘다발성 골절’ 소견</title>
+      <link>https://www.chosun.com/national/regional/chungcheong/2025/06/13/LFCBGDDVSJESNLZTR6A6EHZGXM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2025/06/13/LFCBGDDVSJESNLZTR6A6EHZGXM/</guid>
+      <dc:creator>태안=김석모 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 13 Jun 2025 08:53:32 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BQYHYLASPJDCFIHEANI24XH37Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;충남 태안경찰서. /태안경찰서&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;충남 태안화력발전소에서 작업 중 숨진 하도급 업체 근로자 고(故) 김충현씨의 사망 원인은 ‘다발성 골절’로 추정된다는 부검의 1차 구두 소견이 나왔다.&lt;br&gt;&lt;br&gt;태안경찰서는 김씨의 시신을 부검한 국립과학수사연구원으로부터 이 같은 1차 소견을 받았다고 13일 밝혔다. 국과수는 김씨의 시신 부검을 이날 오전 진행한 후 “머리, 팔, 갈비뼈 등 다발성 골절로 인한 사망”이라고 밝혔다.&lt;br&gt;&lt;br&gt;김씨는 지난 2일 오후 2시 30분쯤 태안화력발전소 내 종합정비동 1층에서 지름 8cm, 길이 40cm 정도인 쇠막대를 기계로 가동하던 중 옷이 끼이면서 숨졌다. 사고 현장 방범카메라(CCTV)를 분석한 경찰은 김씨의 옷이 기계 회전체에 빨려 들어갔고, 이어 김씨의 신체가 회전하는 쇳덩이와 기계 부품 등에 맞은 것으로 보고 있다.&lt;br&gt;&lt;br&gt;김씨는 발전소 설비를 정비하는 한전KPS의 하도급업체인 한국파워O&amp;amp;M 소속 비정규직 근로자다. 김씨가 작업하던 쇠막대는 발전 설비 제어 장비의 밸브를 여닫는 손잡이 부품이다. 당시 김씨는 혼자 근무 중이었다.&lt;br&gt;&lt;br&gt;경찰은 원청인 한국서부발전과 한전KPS 측을 상대로 업무상 과실치사 혐의 적용 여부를 놓고 조사 중이다. 고용노동부는 산업안전보건법 및 중대재해처벌법 위반 여부를 확인하고 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>檢, ’22억대 납품비리' 서울교통공사 임직원 구속 기소</title>
+      <link>https://www.chosun.com/national/court_law/2025/06/13/PNKUDUGFWJD75CUDPOFLIDUPO4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/13/PNKUDUGFWJD75CUDPOFLIDUPO4/</guid>
+      <dc:creator>유희곤 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 13 Jun 2025 08:43:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/T6533NIILKWJ57BMOWB4HNGZJE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울교통공사 로고.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지검 형사6부(부장 조영희)는 13일 납품업체에서 억대 뇌물을 받고, 해당 업체가 정상가의 2배로 제품을 납품할 수 있게 한 김모 전 서울교통공사(공사) 기술본부장(상임이사)(62) 등 3명을 구속 기소했다고 밝혔다.&lt;br&gt;&lt;br&gt;검찰에 따르면 김 전 이사는 지하철 역사 환기 설비 납품업체 A사의 영업이사 김모씨(48·구속 기소)로부터 2022년 10월 납품 청탁을 받은 후, 2023년 5월부터 2024년 7월까지 자신의 며느리 계좌로 1억3000만원을 송금받은 혐의를 받고 있다. 김 전 이사는 같은 기간 160만원 상당의 명품 만년필, 150만원 상당의 호텔 숙박 서비스도 제공받은 것으로 조사됐다. A사는 김씨가 처음으로 청탁을 한 지 2개월 후인 2022년 12월에야 설립됐다.&lt;br&gt;&lt;br&gt;최모 전 공사 기계처 부장(52)도 A사로부터 계약 체결을 할 수 있게 해 달라는 청탁과 함께 2024년 1월 동생 및 지인 계좌로 7790만원을 받아 구속 기소됐다.&lt;br&gt;&lt;br&gt;김 전 이사와 최 전 부장은 이 같은 청탁을 받고 최모 전 공사 기계처장(54)과 함께 A사가 제품을 납품할 수 있도록 해 줬다. 이들은 2023년 12월 3호선 무악재역 등 4개 역사의 환기설비 납품업체 선정 과정에서 수의계약 대상이 아닌데도 다른 업체에 비해 납품가가 2배 부풀려진 A사와 22억원 상당의 계약을 체결했다. 검찰은 세 사람에게 업무상 배임 혐의도 적용했다. &lt;br&gt;&lt;br&gt;검찰은 지난달 27일 서울경찰청 반부패범죄수사대에서 사건을 송치받아 추가 수사를 해 “김 전 이사 등에게 대가성 금품을 건넸다”는 취지의 김씨 진술을 확보했다.&lt;br&gt;&lt;br&gt;검찰 관계자는 “국민의 세금이 투입되는 공사의 계약 과정에서 형식적인 심사 및 의사 결정 과정을 악용해 국고를 낭비하고 뇌물을 수수해 사적 이익을 취한 공기업 납품 비리 사건”이라면서 “향후에도 구조적인 관납 비리 등 부패 범죄 척결에 최선을 다하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>부산 법원에서 주차하던 SUV, 1m 아래로 추락…70대 운전자 경상</title>
       <link>https://www.chosun.com/national/regional/2025/06/13/BYWUMSQOVJDCNEXPCA7MRRZXXY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/06/13/BYWUMSQOVJDCNEXPCA7MRRZXXY/</guid>
@@ -878,37 +957,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2CTGM24Z25EX3A2HETGLAQPMMU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 중앙지방법원에서 법원 직원들과 민원인들이 오가고 있다./조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울역에서 노숙인을 살해한 남성이 항소심에서 징역 13년을 선고받았다. 앞서 1심이 선고한 징역 형량(20년)보다 7년 줄었다. 이에 대해 재판부는 “조현병에 따른 심신미약을 고려한 판단”이라고 설명했다.&lt;br&gt;&lt;br&gt;12일 서울고등법원 형사13부(재판장 백강진)는 살인 등 혐의로 재판에 넘겨진 A씨에게 징역 13년을 선고했다. 치료감호 10년과 위치추적 전자장치 10년 부착도 명령했다.&lt;br&gt;&lt;br&gt;A씨는 작년 6월 새벽 서울역 지하보도 입구에서 잠을 자고 있던 노숙인을 흉기로 여러 차례 찔러 살해한 혐의로 기소됐다. A씨는 전쟁을 멈추기 위해서는 노숙인을 살해해야 한다는 환각에 사로잡혀 현장을 답사하는 등 사전에 계획해 범행한 것으로 조사됐다. 작년 12월 1심은 A씨의 심신미약을 인정하면서도, A씨가 임의로 약을 중단한 점을 들어 심신미약을 감경 요소로 보지 않았다.&lt;br&gt;&lt;br&gt;그러나 2심은 A씨의 정신 질환을 감형 사유로 삼아야 한다고 봤다. 재판부는 “조현병 환자가 치료를 중단하는 건 부작용인 경우가 많고 정신과에서 상당한 변수로 작용한다”며 “A씨가 치료에 소홀히 했다고 보이지 않는다”고 판시했다.&lt;br&gt;&lt;br&gt;또 A씨가 계획적으로 살인을 저질렀다는 주장에 대해서도 “조현병 환자의 망상을 비난할지는 생각해 봐야 한다”며 “망상이 계획적이라는 이유로 가중처벌해야 하는지 회의적”이라고 했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[오늘의 운세]  6월 13일 금요일 (음력 5월 18일 癸丑)</title>
-      <link>https://www.chosun.com/national/national_general/2025/06/12/VLCRUKJ3QFAKDHAFYQXYWB35EE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/12/VLCRUKJ3QFAKDHAFYQXYWB35EE/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 12 Jun 2025 08:00:00 +0000</pubDate>
-      <content:encoded>&lt;p&gt;&lt;div class="chosun_unse"&gt;&lt;iframe src="https://image.chosun.com/arc/unse_iframe.html" frameborder="0" scrolling="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;style&gt;.chosun_unse{position:relative;width:100%;height:350px;box-sizing:border-box}.chosun_unse&gt;iframe{position:absolute;top:0;left:0;width:100%;height:100%;overflow-y:hidden}@media all and (max-width:1024px){.chosun_unse{height:350px}}@media all and (max-width:1023px){.chosun_unse{height:350px}}@media all and (max-width:528px){.chosun_unse{height:270px}}@media all and (max-width:384px){.chosun_unse{height:190px}}&lt;/style&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;p&gt;&lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani01.gif"&gt;  	&amp;nbsp;	36년생 모든 일은 다 시기가 있는 법. 48년생 느낌 괜찮다면 과감히 밀어붙여도 좋을 듯. 60년생 가시 돋친 나무에서 향기로운 꽃 핀다. 72년생 계획보다 규모 축소해야 할 듯. 84년생 돌아올 수 없는 강 건너는 심정으로. 96년생 총애받거든 욕먹을 것도 생각하라.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt;  &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani02.gif"&gt;	&amp;nbsp;	37년생 만반의 준비로 뜻밖 상황에 대비. 49년생 밥은 혼자 먹어도 일은 혼자 못 한다. 61년생 시비 말하는 이가 시비하는 사람. 73년생 더 이상 물러설 곳 없다면 배수진 치고 버텨야. 85년생 남 챙기기 전 자신 먼저 챙기도록. 97년생 남 일에 관여하지 않는 게 상책.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani03.gif"&gt;	&amp;nbsp;	38년생 집 안에 꿩 두고 산속의 닭 찾는구나. 50년생 시비 구설 있더라도 웃어넘겨야. 62년생 생각과 구상 누구에게도 말하지 마라. 74년생 한 냥짜리 굿하다 백 냥짜리 징 깰라. 86년생 막혔던 자금 회전 조금씩 돌아갈 듯. 98년생 지금 고비만 잘 넘기면 전도가 무난.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani04.gif"&gt;	&amp;nbsp;	27년생 재물이나 명예 운 상승. 39년생 져주고도 이기는 수 있다. 51년생 소리 없는 방귀가 더 구리다. 63년생 세상인심 각박해도 진심은 통한다. 75년생 원칙대로 움직이면 실패 없다. 87년생 생각 멈추지 말고 흐르게 두도록. 99년생 사자가 원숭이 짓 해서야.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani05.gif"&gt;	&amp;nbsp;	28년생 이미 떠난 사람이라면 잊도록. 40년생 발 닿는 대로 마음 가는 대로. 52년생 즐겁고 흥미롭게 오늘을 보내라. 64년생 너무 멀게도 너무 가깝게도 마라. 76년생 토끼 쫓다 노루 잡는 격. 88년생 모험보다 안정이 필요. 00년생 ‘잘해야 한다’는 압박을 내려놔라.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani06.gif"&gt;	&amp;nbsp;	29년생 열 번 찍어 안 넘어가는 나무 있나. 41년생 따오기를 그렸으나 오리가 되었구나. 53년생 노력해도 안 되는 날이 있다. 65년생 명필은 붓을 가리지 않는 법. 77년생 호사다마(好事多魔)니 삼가도록. 89년생 남에게 보여주기식 삶을 살지 마라. 01년생 의중을 감추고 홀로 가라.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani07.gif"&gt;	&amp;nbsp;	30년생 신경 계통 질환 있다면 재발 주의. 42년생 배뇨 기관 질환 주의. 54년생 분주하게 움직이면 더 큰 이익. 66년생 좋은 노래도 오래 들으면 지겨운 법. 78년생 상속과 증여에 적합한 시기. 90년생 오래전 알던 벗이 귀인. 02년생 가만히 있으면 중간은 간다.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani08.gif"&gt;	&amp;nbsp;	31년생 사라진 뒤에 가치를 아는 법. 43년생 너무 고르다가 곤달걀 고를 수도. 55년생 땡감도 우리면 단감 된다. 79년생 진척이 없을 때는 휴식도 방법. 67년생 자질구레한 일들의 연속. 91년생 이왕 나갈 돈이라면 아까워 마라. 03년생 과도한 운동에 몸 상할 수도.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani09.gif"&gt;	&amp;nbsp;	32년생 금전 운은 좋으나 문제는 건강. 44년생 게 등에 소금 뿌려봐야. 56년생 실패의 경험도 성공만큼 값진 것. 68년생 부드러움 속에 강인함 잃지 마라. 80년생 동업에도 다 때가 있는 법. 92년생 훌륭한 요리사는 맛으로 증명. 04년생 붉은색과 숫자 2·7 행운 부른다.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani10.gif"&gt;	&amp;nbsp;	33년생 허물 있다면 자신에게 돌리도록. 45년생 잠시라도 좋아하는 일에 시간 투자하라. 57년생 전문가 의견도 곧이곧대로 믿으면 후회. 69년생 문제도 해답도 자신에게 있다. 81년생 이성(異性)과 협업은 능률 백배. 93년생 불편한 사람은 적당히 거리 두도록.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani11.gif"&gt;	&amp;nbsp;	34년생 가급적 현재 위치를 견지하라. 46년생 대사(大事) 그르침은 소심(小心)이 원인. 58년생 틈새 찾아 나만의 특화를 만들도록. 70년생 하고 싶은 일도 절대 하지 말아야 할 때가 있다. 82년생 유혹 많은 하루 흔들리지 마라. 94년생 더워도 악목(惡木) 그늘에 가지 마라.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani12.gif"&gt;	&amp;nbsp;	35년생 계획 없이 하다가는 큰코다칠 수도. 47년생 되돌릴 수 없는 결과면 수용해야. 59년생 아랫사람의 비난과 모함을 경계. 71년생 먹을 것 없는 제사 절만 많다더니. 83년생 아무리 힘겨워도 절대 티 내지 마라. 95년생 천 마디 말보다 한 번 실천이 중요.	&lt;br&gt;
-&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;한소평 금오산방 강주  &lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;			&lt;/p&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/4MTFRYWHBJA7XOKKF7G7JPLX5U.png?auth=4651b5b20b5d4901424204d1456faee02e4b064ff509db23945deabf4404c8ef&amp;smart=true&amp;width=800&amp;height=420" type="image/png" height="420" width="800"/>
-    </item>
-    <item>
-      <title>은지원, 13년만에 재혼한다... 상대는 9세 연하 스타일리스트</title>
-      <link>https://www.chosun.com/national/people/2025/06/12/GMURXIBJQRGGBCKSKP7C24KB34/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/06/12/GMURXIBJQRGGBCKSKP7C24KB34/</guid>
-      <dc:creator>김명일 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 12 Jun 2025 07:37:21 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JOR2VKVK45FB7MUSM5IM53ZODM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;방송인 은지원. /스포츠조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;가수 겸 방송인 은지원(47)이 이혼 13년 만에 비연예인 여성과 재혼한다고 밝혔다. &lt;br&gt;&lt;br&gt;소속사 YG엔터테인먼트는 12일 “은지원은 최근 웨딩사진을 촬영했고, 올해 중 가까운 친지분들과 조용히 식을 올릴 예정”이라며 “따뜻한 시선으로 지켜봐 주시면 감사하겠다”고 했다.&lt;br&gt;&lt;br&gt;예비 신부는 비연예인이라는 사실만 알려졌을 뿐 구체적인 정보는 공개되지 않았다.&lt;br&gt;&lt;br&gt;조선닷컴 취재 결과 은지원과 결혼식을 올리는 예비 신부는 9세 연하의 스타일리스트로 전해졌다. 은지원도 담당하고 있다.&lt;br&gt;&lt;br&gt;은지원과는 오랜 시간 동안 지인 관계로 지내다 연인 사이로 발전했다고 한다. 두 사람은 가족들만 초대해 소규모로 비공개 결혼식을 올릴 예정이다.&lt;br&gt;&lt;br&gt;은지원은 지난 2010년 결혼했으나 약 2년 만에 합의 이혼했다. 은지원은 과거 방송에서 “우린 되게 좋게 끝났다. 이혼 후에도 (전 아내와) 친구처럼 지냈다”며 혼인신고도 하지 않아 법적 이혼은 아니었다고 밝힌 바 있다. &lt;br&gt;&lt;br&gt;1978년생인 은지원은 1997년 그룹 젝스키스로 데뷔했으며, 이후 ‘1박 2일’, ‘신서유기’ 등 예능 프로그램에서 활약해 큰 사랑을 받았다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>“인생 황혼기에 의료 서비스·건강보험 이용하자” 돌아오는 老年의 재외동포</title>
       <link>https://www.chosun.com/national/court_law/2025/06/12/BNEF4X2WY5DW7LAS5GWZ5EVDMI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/12/BNEF4X2WY5DW7LAS5GWZ5EVDMI/</guid>
@@ -927,15 +975,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JPAYC26VUSFLFS5R7VADQQEQTQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;미성년자 성 착취물을 제작·유포한 혐의로 징역 42년을 선고받고 복역 중인 조주빈(28)이 또 다른 미성년자 성폭행 혐의로 항소심에서 징역 5년을 선고받았다. &lt;br&gt;&lt;br&gt;서울고법 형사9부(재판장 공도일)는 12일 아동·청소년의 성보호에 관한 법률 위반 등 혐의로 기소된 조주빈에게 1심과 같이 징역 5년을 선고했다. 또 40시간의 성폭력 치료 프로그램 이수와 아동·청소년·장애인 보호시설에 각 5년간 취업제한도 명령했다.&lt;br&gt;&lt;br&gt;조주빈은 2019년 미성년자 A양을 성폭행하고 성 착취물을 제작한 혐의로 2022년 기소됐다. 조주빈은 피해자와 연인 관계로 합의하에 성관계가 이뤄졌다고 주장했지만 재판부는 “피해자는 연인관계처럼 보여야 한다는 요구에 따랐을 뿐이며 강제 협박에 의한 성관계였다고 일관되게 주장하고 있다”며 받아들이지 않았다. 또 “영상물에서도 피해자가 울고 있는 등 지시·명령에 마지못해 순응하는 것으로 보인다”고 했다. &lt;br&gt;&lt;br&gt;이 사건은 조주빈이 텔레그램 메신저에서 ‘박사방’을 운영하며 미성년자 성 착취물을 제작·유포한 혐의로 대법원에서 징역 42년을 확정 받은 사건과는 별개로, 이에 앞서 벌어진 범행이다.&lt;br&gt;&lt;br&gt;조주빈은 2019년 5월부터 2020년 2월까지 아동·청소년을 포함한 여성 피해자 수십 명을 협박해 성 착취물을 제작하고 이를 박사방을 통해 판매·유포한 혐의로 2021년 10월 대법원에서 징역 42년이 확정됐다. 조주빈은 이후 또 다른 강제추행 혐의로 기소돼 작년 2월 징역 4개월을 추가로 확정 받았다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>태안화력 사고 故김충현씨 시신 13일 부검… 경찰 “사인 명확히 밝혀야”</title>
-      <link>https://www.chosun.com/national/regional/chungcheong/2025/06/12/PQRFKVY2YBH3JB6INYHFJVGMVY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2025/06/12/PQRFKVY2YBH3JB6INYHFJVGMVY/</guid>
-      <dc:creator>태안=김석모 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 12 Jun 2025 06:59:16 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5MMYR2VJ372RSDZ67IYYJWNIEM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 마크. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;충남 태안화력발전소에서 사고로 숨진 김충현(50)씨의 사망 원인을 확인하기 위한 시신 부검이 진행된다.&lt;br&gt;&lt;br&gt;충남 태안경찰서는 김씨의 시신 부검을 위한 압수수색(검증) 영장을 신청했다고 12일 밝혔다. 부검은 이르면 13일 오전 국립과학수사연구원에서 진행될 예정이다. 사고가 발생한 지 11일 만이다.&lt;br&gt;&lt;br&gt;그동안 유족과 태안화력 김충현 비정규직 노동자 사망사고 대책위원회 측은 “진상 규명과 책임자 처벌이 우선”이라며 경찰의 부검 요청을 받아들이지 않았다. 경찰 관계자는 “수사 과정에서 강제로 부검이 가능하지만 유족 측의 마음을 고려해 부검 동의를 설득했다”면서 “부검을 통해 고인의 사인을 명확하게 밝힐 예정”이라고 말했다.&lt;br&gt;&lt;br&gt;김씨는 지난 2일 오후 2시 30분쯤 한국서부발전 태안화력발전소 종합정비동에서 선반 작업 중 기계에 옷이 끼이면서 숨졌다. 김씨는 발전소 설비를 정비하는 한전KPS의 하도급업체인 한국파워O&amp;amp;M 소속 비정규직 근로자다. 기계에 쓰러진 채 발견된 김씨는 골절과 타박상, 열상 등의 부상을 입은 것으로 알려졌다.&lt;br&gt;&lt;br&gt;충남경찰청은 수사전담팀을 구성해 업무상과실치사, 산업안전보건법, 중대재해처벌법 혐의 적용을 놓고 한국서부발전과 한전KPS 측 관계자들을 상대로 조사를 벌이고 있다.&lt;br&gt;&lt;br&gt;경찰은 부검 결과와 작업 서류 등 자료를 분석해 안전 수칙 위반 사항이 발견될 경우 사고 책임자를 업무상과실치사 혐의로 입건한다는 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>“여야 따질 일 아냐” 예일대 정신과 교수가 주목한 李대통령 질문</title>
       <link>https://www.chosun.com/national/national_general/2025/06/12/NPSSOLVNAVEY5LV5DHXU2UYTDM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/12/NPSSOLVNAVEY5LV5DHXU2UYTDM/</guid>
@@ -943,51 +982,6 @@
       <description/>
       <pubDate>Thu, 12 Jun 2025 05:54:02 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/V4CROUIKFJIOBFACW7ZACGNLYA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이재명 대통령이 지난 5일 서울 용산구 대통령실 청사에서 열린 안전치안점검회의에서 발언하고 있다. /뉴시스 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;나종호 미국 예일대 정신과 교수가 이재명 대통령이 취임 후 우리나라 자살률을 언급하며 대책 마련을 요구한 점을 두고 “이 문제만큼은 여야나 좌우로 나뉘어서는 안 된다”고 했다. &lt;br&gt;&lt;br&gt;나 교수는 11일 “이 문제는 대통령이 직접 나서지 않으면, 온 국민이 힘을 실어주지 않으면 해결되기 힘들다”며 이같이 말했다. &lt;br&gt;&lt;br&gt;앞서 이 대통령은 지난 5일 용산 대통령실에서 열린 안전치안점검회의에서 예측되는 사건 사고에 대한 예방을 강조하며 자살률을 언급했다. 당시 이 대통령은 “우리나라 자살률이 참 말하기 그럴 정도로 높은데, 그것도 잘 살펴보면 예방 또는 감소할 여지가 있지 않을까 생각한다”며 “그런 점도 살펴봐 달라”고 했다. 같은 날 첫 국무회의에서도 조규홍 보건복지부 장관에게 “우리나라 자살률이 왜 이리 높나요?”라며 자살률 관련 질문을 한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;이에 나 교수는 “이 문제는 대통령이 직접 나서지 않으면, 온 국민이 힘을 실어주지 않으면 해결되기 힘들다”고 했다. 이어 “대통령 직속 기구하에 교육부, 보건복지부, 기획재정부, 고용노동부 등 전 부처가 힘을 모아 대처하고 직접 대통령에게 정기적으로 보고해야 성과가 있을 것이라고 윤석열 전 대통령께도 제언했다”며 “이 견해는 지금도 변함없다”고 했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PGCDJSHNTRBP7GZO6OVJJO5IUI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2022년 본지와 인터뷰하는  나종호 미국 예일대학교 의과대학 정신의학과 교수./고운호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;나 교수는 이 대통령이 회의에서 자살률을 언급한 당일에도 비슷한 취지의 글을 쓴 바 있다. 당시 나 교수는 “높은 자살률을 지도자가 인지하고, 자살을 개인의 문제가 아닌 재난의 일종으로 언급한 것만으로도 의미가 있다 생각한다”며 “이제 20년 넘게 이어진 끔찍한 재난을 끝낼 때가 됐다”고 했다.&lt;br&gt;&lt;br&gt;나 교수는 “국민의 생명이 달린 문제이니만큼, 정치적 언급은 자제 부탁드린다”고도 했다. 그러면서 “저는 한국의 자살 문제에 대응하기 위해 윤석열 전 대통령을 만난 바 있고, 그 어떤 누구와도 만날 용의가 있다”고 했다. &lt;br&gt;&lt;br&gt;한편 우리나라 자살률은 인구 10만명당 25.2명으로 OECD 국가 평균(11.1명)의 2배 수준으로, 2004년 이래 줄곧 1위를 기록하고 있다. &lt;br&gt;&lt;br&gt;OECD 회원국 자살률 1위의 오명을 벗기 위해 정부와 사회가 지난 10여 년간 다양한 노력을 펼쳤음에도, 작년 우리나라에서 스스로 목숨을 끊은 사람이 2011년 이후 13년 만에 가장 많았던 것으로 나타났다. 지난 2월 한국생명존중희망재단과 통계청에 따르면, 작년 한 해에만 ‘고의적 자해’로 1만4439명이 숨진 것으로 잠정 집계됐다. 하루 40명(39.5명) 가까운 사람이 스스로 목숨을 끊은 셈이다. 전년도 확정치인 1만3978명보다 461명(3.3%) 많다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“천국에 온 듯한 여행이었다”... 해외 입양인, 제주서 ‘마음의 고향 여행’</title>
-      <link>https://www.chosun.com/national/regional/2025/06/12/XYNLP2IXPRD7ZEHJ5HC2Q7RQSU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/06/12/XYNLP2IXPRD7ZEHJ5HC2Q7RQSU/</guid>
-      <dc:creator>제주=오재용 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 12 Jun 2025 07:03:15 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7X2MUG3SCVDG7PACVOUTTXMTQY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;해외 입양인과 가족들이 지난 8일부터 11일까지 제주를 찾아 관광지 등을 여행했다./제주도관광공사&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“천국에 온 듯한 여행이었다.”&lt;br&gt;&lt;br&gt;한국에서 태어났지만 어린 시절 해외로 떠나야 했던 입양인에게 제주 여행을 통해 모국을 느낄 수 있는 자리가 마련됐다. &lt;br&gt;&lt;br&gt;제주도와 제주관광공사, 제주드림타워는 지난 8일부터 11일까지 미국·덴마크·영국 등에 거주 중인 입양인과 그 가족을 제주로 초청해 ‘제주와 함께하는 마음의 고향 여행(Soul Home Journey with Jeju)’ 프로그램을 진행했다고 12일 밝혔다. &lt;br&gt;&lt;br&gt;제주도와 제주관광공사가 방문지 섭외, 체험 프로그램 설계 등 현장 지원을 맡고, 제주드림타워가 사회공헌사업의 일환으로 참가자 전원에게 숙박을 지원했다.&lt;br&gt;&lt;br&gt;이번 행사에는 입양인 79명과 가족 10명 등 89명이 참여했다. 이들은 성산일출봉과 금능해수욕장, 돌문화공원, 해녀박물관 등 제주의 대표적인 자연·문화 유산을 탐방하고, 해녀 공연을 관람하며 제주의 생태와 문화를 체험했다. 흑돼지 구이 등 한국 음식도 다양하게 맛봤다. &lt;br&gt;&lt;br&gt;마지막 날인 11일에는 제주국제공항에서 환송 행사가 열렸다. 이 자리에는 오영훈 제주도지사가 현장을 찾아 참가자들과 작별 인사를 나눴다.&lt;br&gt;&lt;br&gt;오 지사는 “제주는 단순한 관광지가 아니라 아픔과 회복, 새로운 희망이 공존하는 공간”이라며 “제주가 마음의 고향으로 오래오래 기억되기를 바란다”고 했다.&lt;br&gt;&lt;br&gt;제주를 찾은 입양인들은 1951년에서 1975년 사이 태어난 50~70대가 대부분이다. 이들은 해외 입양인의 모국 방문 프로그램을 운영하는 비영리단체 ‘미앤코리아(Me&amp;amp;Korea)’를 통해 이번 일정 공고를 접하고 자비로 항공료를 부담해 제주로 왔다. &lt;br&gt;&lt;br&gt;방문자 중 최고령인 에스텔(74·한국 이름 강현숙)씨는 “천국에 온 듯한 여행이었다”며 “제주가 보여준 진심 어린 환대를 오래 기억할 것”이라고 말했다. 입양 가족을 대표해 감사 인사를 전한 리사 잭슨(63)씨는 “친절함과 따뜻함으로 가득 찬 여행이었다”면서 “제주 해녀의 용기와 제주의 역사, 문화에 깊은 관심을 가지게 되었다. 다시 제주를 찾겠다”고 했다. 두 사람은 모두 7·8세에 미국으로 입양됐다.&lt;br&gt;&lt;br&gt;참가자들의 제주 여행 소식은 자국 커뮤니티와 해외 입양인 네트워크를 통해 널리 전파될 예정이다. 제주도와 관광공사는 이번 행사를 통해 형성된 정서적 유대와 감동적 경험이 제주를 세계에 알리는 데 중요한 기반이 될 것으로 기대하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘환경미화원 살해’ 70대 중국동포, 2심도 징역 25년</title>
-      <link>https://www.chosun.com/national/court_law/2025/06/12/NST374ZFDFD5TKH44DXACS5LUY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/12/NST374ZFDFD5TKH44DXACS5LUY/</guid>
-      <dc:creator>김희래 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 12 Jun 2025 06:19:37 +0000</pubDate>
-      <content:encoded>서울 숭례문 인근 지하보도에서 환경미화원을 살해한 혐의로 기소된 70대 중국동포에게 1심에 이어 2심에서도 징역 25년이 선고됐다.&lt;br&gt;&lt;br&gt;12일 서울고법 형사5부(재판장 권순형)는 살인 등 혐의로 기소된 리모씨의 2심 선고 기일을 열고 검찰과 리씨 측 항소를 기각하며 이같이 판결했다. 리씨에게는 20년간 위치추적 전자장치 부착 명령도 함께 내려졌다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XJ4SNZD4MBKGVPBLAYDR2ELEG4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울고등법원 전경. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;재판부는 “피고인이 원심에서 살인의 고의를 부인했다가 당심에서 공소사실을 모두 인정하고는 있지만, 이런 태도 변화가 원심의 형을 변경할 정도로 중요한 사정변경으로 보기 어렵다”며 “피고인의 건강상태, 성행과 환경, 범행의 동기와 경위·수단 결과 등을 고려했을 때 원심의 형이 너무 가볍거나 무겁다고 보기 어렵다”고 밝혔다.&lt;br&gt;&lt;br&gt;리씨는 지난해 8월 2일 새벽 4시께 숭례문 인근 지하보도에서 중구 용역업체 환경미화원인 60대 피해자를 흉기로 여러 차례 찔러 살해한 혐의로 재판에 넘겨졌다. 리씨는 피해자가 물을 달라는 요구를 들어주지 않고, 팔을 붙잡는 자신을 신고하겠다고 말하자 무시당했다고 생각해 평소 지니고 다니던 흉기로 공격한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;1심은 지난 2월 리씨에게 징역 25년과 20년간 위치추적 전자장치 부착 명령을 선고했다. 1심 재판부는 “범행 동기와 잔혹성을 고려했을 때 죄질이 매우 불량하다”면서 “피해자 유족이 엄벌을 탄원하는 점, 리씨의 나이, 성행, 재판 정황 등을 참작해 형을 정했다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘의료계 블랙리스트’ 퍼뜨린 사직 전공의, 1심서 징역 3년</title>
-      <link>https://www.chosun.com/national/court_law/2025/06/12/SWKLMCJWRRFLDBJWQYNRHB7CMI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/12/SWKLMCJWRRFLDBJWQYNRHB7CMI/</guid>
-      <dc:creator>김은경 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 12 Jun 2025 05:33:27 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VLY4PJBGGBORNMFQHQ2PPWH6FE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 법원종합청사. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;의료계 집단행동에 참여하지 않은 의사·의대생 명단인 이른바 ‘의료계 블랙리스트’를 작성하고 해외 사이트에 수차례 올린 사직 전공의가 1심에서 징역형을 선고받았다. 의료계 블랙리스트 관련자 재판 가운데 처음 나온 판결이다.&lt;br&gt;&lt;br&gt;서울중앙지법 형사19단독 임혜원 부장판사는 12일 정보통신망법상 명예훼손·스토킹처벌법 위반 등 혐의로 기소된 류모(32)씨에게 징역 3년을 선고했다. 류씨에게 자신이 다니던 병원 전공의 등 명단을 전달하는 등 스토킹범죄를 방조한 혐의로 함께 재판에 넘겨진 정모(32)씨에게는 벌금 1000만원이 선고됐다. &lt;br&gt;&lt;br&gt;법원은 “피해자들이 한국에서 의사 생활을 제대로 하지 못할 정도로 두려움과 대인기피증, 우울증 등 심한 정신적 고통을 겪었다”며 “학교나 병원, 학회 등에서 동료들을 마주칠 때마다 제보자가 누구일까 고통에 시달리며 정신과 진료도 받지 못하고 혼자 감내해야 했다”고 했다.&lt;br&gt;&lt;br&gt;류씨는 의정 갈등 국면에서 사직·수업 거부 등에 동참하지 않은 전공의·의대생 2900여명의 이름과 소속 병원, 진료 과목, 대학 등 개인정보가 포함된 명단을 지난해 8~9월 20여 차례에 걸쳐 해외 사이트에 게시한 혐의로 같은 해 12월 구속 기소됐다. 류씨는 피해자들에 대한 확인되지 않은 인신공격성 글을 함께 올려 명예를 훼손한 혐의도 받는다.&lt;br&gt;&lt;br&gt;류씨 측은 재판 과정에서 자신의 행위가 피해자들에게 불안감이나 공포감을 줄 정도는 아니었다며 스토킹범죄는 아니라고 주장했지만 법원은 받아들이지 않았다. 임 부장판사는 “피해자를 괴롭힐 의도로 익명성에 숨어 지속 범행했고 이는 피해자들이 공포감을 느끼게 하기에 충분하다”며 스토킹범죄가 성립한다고 판단했다.&lt;br&gt;&lt;br&gt;비슷한 의료계 블랙리스트를 작성해 의사 전용 커뮤니티인 ‘메디스태프’ 등에 유포한 다른 사직 전공의 정모씨도 지난해 10월 구속 기소돼 같은 법원 다른 재판부에서 1심 재판을 받고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>신종 담배 급증… 5년 새 궐련 6.2％↓·전자 담배 74%↑</title>
-      <link>https://www.chosun.com/national/welfare-medical/2025/06/12/KHN4X327ANFTVEKMSLE3SEFHOM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/06/12/KHN4X327ANFTVEKMSLE3SEFHOM/</guid>
-      <dc:creator>오유진 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 12 Jun 2025 06:10:48 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WRQ2A36WDJOFRL4RHHHOIASXWM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;12일 서울의 한 흡연 구역 모습. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최근 5년 새 전통 궐련 담배 판매량은 줄어든 반면 전자 담배와 합성 니코틴을 포함한 신종 담배 소비량은 빠르게 늘어나고 있다.&lt;br&gt;&lt;br&gt;12일 대한금연학회 ‘담배제품 국내 유통시장 조사 및 흡연 행태 심층 분석 연구’ 보고서에 따르면, 국내 궐련 담배 판매량은 2019년 30억6000만갑에서 지난해 28억7000만갑으로 6.2% 감소했다. 반면 궐련형 전자담배 등 신종 제품은 같은 기간 3억8000만갑에서 6억6000만갑으로 74% 급증했다. 시장조사기관 유로모니터는 2028년 궐련형 전자 담배 시장 규모가 약 5조2000억원에 이를 것으로 내다봤다.&lt;br&gt;&lt;br&gt;맛과 향을 입힌 ‘가향 담배’ 판매도 증가 추세다. 2013년 전체 담배 판매량 중 가향 담배가 차지하는 비율은 9.8%에 불과했지만, 지난해 상반기에는 48%였다. &lt;br&gt;&lt;br&gt;최근에는 합성 니코틴이 들어간 신종 담배도 속속 등장하고 있다. 관세청에 따르면 2023년 액상형 전자 담배 수입품 중 97% 이상이 합성 니코틴 제품이었다. 담뱃잎에서 추출한 니코틴이 아닌 유사 물질을 활용해, 실제 니코틴이 아니라는 점을 내세워 전자 담배 업계가 현행법상 과세를 피해가고 있다는 지적이 나온다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>휴가 나온 병장이 26분간 추격전 끝에 음주운전자 검거</title>
-      <link>https://www.chosun.com/national/regional/2025/06/11/EJLRY76CS5D7DBDCA6SB73ZJJ4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/06/11/EJLRY76CS5D7DBDCA6SB73ZJJ4/</guid>
-      <dc:creator>부산=김주영 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 11 Jun 2025 07:50:54 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IAU7RF2RV5GWJOPGPGYIHUVE7U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 28일 0시 30분쯤 부산 해운대구 인근 한 도로에서 육군 병장이 오토바이를 타고 경찰과 함께 흰색 음주 운전 의심 차량을 뒤쫓고 있다. /부산경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;휴가를 나온 육군 병장이 음주운전 의심 차량을 발견하고 경찰과 함께 추격전 끝에 음주 운전자를 붙잡았다.&lt;br&gt;&lt;br&gt;11일 부산경찰청에 따르면 지난달 28일 0시 27분쯤 부산 해운대구 좌동 한 도로에서 오토바이를 타던 20대 김모씨가 음주운전이 의심되는 승용차를 발견했다.&lt;br&gt;&lt;br&gt;김씨는 곧바로 경찰에 신고 후 친구와 함께 오토바이를 이용해 승용차를 추격하기 시작했다.&lt;br&gt;&lt;br&gt;승용차는 신고를 받고 출동한 순찰차의 정차 요구에도 신호를 위반하는 등 난폭 운전을 하며 4㎞가량을 도주하다 골목길로 진입했다.&lt;br&gt;&lt;br&gt;순간 순찰차는 승용차 위치를 놓쳤지만, 김씨와 친구가 역할을 분담해 승용차를 추격하며 위치를 경찰과 공유했다.&lt;br&gt;&lt;br&gt;경찰은 추격을 시작한 지 26분쯤 후인 0시 53분쯤 40대 승용차 운전자 A씨를 도로교통법(음주운전 및 난폭운전) 위반 혐의로 체포했다.&lt;br&gt;&lt;br&gt;A씨는 혈중 알코올농도 면회 취소 수준에서 운전한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;현재 육군 병장으로 군 복무중인 김씨는 국내 한 대학교 경찰행정학과 학생이다.&lt;br&gt;&lt;br&gt;김씨는 “경찰관이 되는 것이 원래 꿈이었다”며 “누군가의 안전을 위해 책임감 있게 행동하는 경찰이 되고 싶다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
