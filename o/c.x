@@ -13,6 +13,72 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>아파트 단지에 출몰한 너구리 가족… “절대 만지지 마세요” 경고 이유</title>
+      <link>https://www.chosun.com/national/national_general/2025/06/13/64IQUXUMCBH5NCC7C47AE7BVXA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/13/64IQUXUMCBH5NCC7C47AE7BVXA/</guid>
+      <dc:creator>박선민 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 13 Jun 2025 04:42:21 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EOVFZZ5Y4ZEDNCFU3SY3CHNACU.png"&gt;&lt;figcaption&gt;&lt;small&gt;광주 한 아파트 계단에서 발견된 너구리. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;광주의 한 아파트 단지에서 너구리가 잇따라 출몰해 당국이 ‘만지지 말라’고 경고하고 나섰다. 너구리는 유해 야생동물로 분류되진 않지만, 접촉하거나 물릴 경우 피부 질환이나 광견병 등에 감염될 위험이 있다. &lt;br&gt;&lt;br&gt;13일 광주야생동물구조관리센터에 따르면, 작년 도심에서 구조된 너구리 개체 수는 52마리다. 2023년에는 구조 개체 수가 11마리였는데, 1년 만에 52마리로 약 5배 늘었다. &lt;br&gt;&lt;br&gt;올해는 아직 구체적인 구조 수가 집계되진 않았으나, 지난 5월까지만 해도 너구리 25마리가 보고됐다. 모두 기생충에 감염되거나 교통사고로 어미를 잃은 상태였다. &lt;br&gt;&lt;br&gt;특히 도심 속 공원 인근의 아파트 단지에서 자주 목격돼 주민들이 우려의 목소리를 내는 것으로 알려졌다. 지난 6일엔 광산구 장덕동 한 아파트 단지에서 새끼 너구리 9마리가 발견됐다. 또 지난 1일엔 인근 아파트 10층 계단에서 너구리가 소방 당국에 의해 구조됐다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UWONSBGFSLIIRVXQVTTUWQ5OUY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;광주 광산구 장덕동 한 아파트 단지에서 발견된 새끼 너구리 무리. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;너구리는 도심 공원과 하천을 중심으로 이동하는 습성이 있다. 잡식성으로 벌레부터 물고기, 조류 등 가리지 않고 먹는다. 야행성이어서 낮에는 몸을 숨기고 밤이 되면 활동한다.&lt;br&gt;&lt;br&gt;광견병, 개선충(옴) 등 감염 위험이 높은 야생동물이기 때문에 직접 접촉해서는 안 된다. 접촉하거나 너구리에게 물릴 경우 피부 질환이나 광견병 등에 감염될 위험이 있다. 이른바 ‘살인 진드기병’이라 불리는 중증 열성 혈소판 감소 증후군(SFTS)에도 걸릴 수 있다. 실제로 2002년 경기도 연천에서 한 농부가 야생 너구리와 접촉한 개에게 물려 광견병으로 사망한 바 있다. &lt;br&gt;&lt;br&gt;다만 너구리는 멧돼지 등과 달리 유해 야생동물로 분류되지는 않아 포획하거나 사살하는 건 불법이다. 이에 지자체들은 너구리 발견 시 만지거나 다가가지 말고, 반려동물을 산책시킬 땐 물림 사고를 방지하기 위해 목줄을 착용시킬 것을 권고한다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CIK5UUFPHJY3PZIOU437OLLUTE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;광주 도심에서 구조된 너구리들. /뉴시스 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;광주야생동물구조관리센터 관계자는 “작년부터 구조 신고 대상으로 들어온 너구리 개체 수가 급격히 늘고 있다”며 “야생동물 특성상 많은 기생충을 갖고 있을 수 있기 때문에 호기심이라도 절대 만져서는 안 되며 다치거나 치료가 시급해 보이는 너구리를 발견한다면 즉시 신고해달라”고 했다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/EOVFZZ5Y4ZEDNCFU3SY3CHNACU.png?auth=a2316df41783a02196504148feb2d31c7c6ba9f33a3b60cbbb7374686a2e2a69&amp;smart=true&amp;width=764&amp;height=507" type="image/png" height="507" width="764">
+        <media:description type="plain">광주 한 아파트 계단에서 발견된 너구리. /연합뉴스</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>부산 기장군 상가 건물서 화재... 1시간40분 만에 초진</title>
+      <link>https://www.chosun.com/national/regional/2025/06/13/SOT2NSKOO5C7JPFZQBVG5FGZEY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/06/13/SOT2NSKOO5C7JPFZQBVG5FGZEY/</guid>
+      <dc:creator>부산=김주영 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 13 Jun 2025 05:10:13 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VR7ZLII3WGNPS43362D3QVSQOI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;13일 오전 10시 52분쯤 부산 기장군 정관읍 한 상가 건물에서 불이 나 소방 당국이 진화중이다. /부산소방재난본부 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산 기장군 정관읍의 한 근린 생활 건물에서 난 불이 1시간 46분 만에 큰 불길이 잡혔다.&lt;br&gt;&lt;br&gt;부산소방재난본부에 따르면 13일 오전 10시 52분쯤 부산 기장군 정관읍에 있는 5층짜리 건물에서 불이 났다.&lt;br&gt;&lt;br&gt;이 불로 건물 내부에 있던 손님 등 10명이 스스로 대피했다. 현재까지 인명피해는 없는 것으로 파악됐다.&lt;br&gt;&lt;br&gt;불이 난 건물에는 음식점, 학원, PC방 등이 있는 것으로 알려졌다. 3층 PC방은 폐업한 상태이고, 4층 학원은 영업 전이라 사람이 없었던 것으로 파악됐다.&lt;br&gt;&lt;br&gt;부산소방재난본부는 이날 오전 11시 23분 대응 단계를 발령하고 인원 113명, 장비 37대를 동원해 진화와 인명 수색 작업을 벌였다.&lt;br&gt;&lt;br&gt;소방 당국은 낮 12시 38분 큰 불길을 잡은 뒤 낮 12시 42분 대응 단계를 해제했다.&lt;br&gt;&lt;br&gt;부산소방본부 관계자는 “불은 1층 커피숍 주방에서 처음 불이 난 것으로 추정된다”며 “현재까지 인명피해는 없으며 정확한 화재 원인과 피해 규모 등을 조사중”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[속보] 대치동 은마아파트 공사 중 작업자 2명 매몰</title>
+      <link>https://www.chosun.com/national/incident/2025/06/13/UCXRBJH7L5FCJJZTNEZDVKUXBY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/06/13/UCXRBJH7L5FCJJZTNEZDVKUXBY/</guid>
+      <dc:creator>강지은 기자, 김도균 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 13 Jun 2025 05:07:17 +0000</pubDate>
+      <content:encoded>서울 강남구 대치동 은마아파트 하수관 공사를 하던 작업자 2명이 매몰되는 사고가 13일 발생했다.&lt;br&gt;&lt;br&gt;강남구와 소방 등에 따르면, 이날 오후 1시 10분쯤 은마아파트 내부에서 하수관 공사 중 쌓아뒀던 흙이 무너져내려 작업자 2명이 매몰됐다. 두 사람 모두 50대 한국인 남성으로, 1명은 심정지 상태로 병원에 이송됐고, 다른 1명은 경미한 부상을 입고 인근 정형외과에서 치료를 받았다고 한다.&lt;br&gt;&lt;br&gt;경찰과 소방은 정확한 사고 경위를 조사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>인천시교육청, “리박스쿨, 인천 늘봄 프로그램 운영사례 없어”</title>
+      <link>https://www.chosun.com/national/national_general/2025/06/13/ULD77LBFQJDENENE5HYVE2BCP4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/13/ULD77LBFQJDENENE5HYVE2BCP4/</guid>
+      <dc:creator>인천=이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 13 Jun 2025 05:05:36 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Z5ITRC6MDSESLX7V5JYLKC33PA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;인천시교육청./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;댓글 조작 의혹이 불거진 보수 성향 단체 ‘리박스쿨’이 인천에서 운영하는 늘봄 프로그램은 없는 것으로 파악됐다. &lt;br&gt;&lt;br&gt;인천시교육청은 인천지역 초등‧특수학교 274곳을 전수조사한 결과, 리박스쿨을 비롯한 7개 관련 단체와 협약을 맺고 늘봄 프로그램을 운영 중인 사례는 없었다고 12일 밝혔다. &lt;br&gt;&lt;br&gt;리박스쿨 관련 단체 2곳에서 발급받은 민간 자격증을 보유한 강사가 2명 있는 것으로 나타났으나, 이들은 강사는 해당 자격증 외에도 다수의 자격증을 보유하고 있고 역사 분야와 관련 없는 보드게임과 미술 분야 프로그램 강사인 것으로 확인됐다고 시 교육청은 설명했다. 시교육청은 이들과 관련된 정치적 편향성 등 민원도 접수된 게 없다고 덧붙였다. &lt;br&gt;&lt;br&gt;시교육청은 교육부의 방침에 따라 지난 4일부터 11일까지 이번 전수조사를 진행됐다. &lt;br&gt;&lt;br&gt;시교육청 관계자는 “늘봄학교 온라인 신고센터를 운영하는 등 학교 현장에서 정치적 중립성이 훼손되지 않도록 철저히 관리하겠다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“날 의심해?” 술자리서 지인에게 흉기 휘두른 20대 남성 징역 6년</title>
+      <link>https://www.chosun.com/national/incident/2025/06/13/KUXQSGPT6JD63LO6HYKXZIE5LU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/06/13/KUXQSGPT6JD63LO6HYKXZIE5LU/</guid>
+      <dc:creator>대구=이승규 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 13 Jun 2025 05:04:43 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FEE7EIE2S4QLE76DJCKAK6ZYHM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대구고법, 지법 청사/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;술자리에서 말다툼 중 지인에게 흉기를 휘두른 20대 남성에게 실형이 선고됐다.&lt;br&gt;&lt;br&gt;대구지법 형사12부(재판장 정한근)는 살인미수 혐의로 기소된 A(25)씨에게 징역 6년을 선고했다고 13일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난해 11월 24일 대구 북구의 주거지에서 지인인 남성 B(23)씨를 흉기로 살해하려다 미수에 그친 혐의로 기소됐다. A씨의 공격으로 B씨는 전치 6주의 부상을 입었다.&lt;br&gt;&lt;br&gt;A씨와 B씨는 불법 도박으로 벌어들인 범죄수익을 상품권 거래를 통해 벌어들인 정상 수익인 것처럼 세탁하는 일을 함께 해왔다. &lt;br&gt;&lt;br&gt;이 과정에서 A씨 등과 함께 일을 하던 또 다른 지인 C씨가 2억원 상당의 금품을 훔쳐 도주했다. A씨 등은 C씨를 부산에서 붙잡아 폭행한 뒤 함께 대구로 올라와 술을 마셨다. 이때 B씨가 “너희 둘이 공모해 현금과 상품권을 훔친 게 아니냐”며 A씨를 의심하며 말다툼이 벌어지다 A씨가 B씨를 흉기로 찔렀다.&lt;br&gt;&lt;br&gt;A씨는 범행 직후 소셜미디어 라이브 방송을 통해 “나는 돈을 세탁하는 바지사장인데, 연관된 사람들이 이 일(자금 세탁)이 탄로 날까 봐 나와 가족들을 죽이려 해서 내가 먼저 죽였다”고 주장했다. A씨는 수사기관에서도 “가만있다간 B씨에게 해코지를 당할 것 같아 순간적으로 B씨를 살해하려고 했다”는 취지로 범행 동기를 진술했다.&lt;br&gt;&lt;br&gt;재판부는 “A씨가 실질적인 운영자로 보이는 B씨로부터 자금을 훔쳤다는 의심을 받게 되자 우발적으로 범행에 이른 것으로 보인다”면서도 “범행이 미수에 그쳤으나 B씨가 사망에 이를 수도 있었던 점, B씨가 처벌을 강력히 원하고 있는 점 등을 종합했다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>조은석 내란 특검, 첫 일정으로 비상계엄 특별수사본부장 면담</title>
+      <link>https://www.chosun.com/national/court_law/2025/06/13/U27J6O3BCRFH5GGBF4OI5EF5JU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/13/U27J6O3BCRFH5GGBF4OI5EF5JU/</guid>
+      <dc:creator>유희곤 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 13 Jun 2025 04:37:58 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VEUITXGDSVO5JC73DFRNQDOEOY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;조은석 내란 특별검사. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 전 대통령 등의 내란·외환 혐의를 수사할 조은석 특별검사가 13일 오전 ‘12·3 비상계엄’을 수사한 박세현 검찰 특별수사본부장(서울고검장)을 만났다. 이재명 대통령이 전날 밤 조 특검 등 3대 특검(내란·김건희·순직 해병)을 임명한 만큼 조 특검의 첫 공식 일정인 것으로 전해졌다.&lt;br&gt;&lt;br&gt;서울고검은 이날 취재진에게 “조 특검이 박 본부장을 만난 것은 맞다”면서 “대화 내용은 확인해 드리기 어렵다”고 했다.&lt;br&gt;&lt;br&gt;검찰 안팎에서는 조 특검이 박 본부장에게 검찰의 앞선 수사 자료 송부, 수사팀 검사 및 수사관 파견 등에 대한 협조를 요청했을 것이라는 해석이 나왔다. 내란 특검팀은 조 특검, 특검보 6명, 파견검사 60명, 파견공무원 100명, 특별수사관 100명 등 역대 특검 중 최대인 267명으로 구성될 예정이다. &lt;br&gt;&lt;br&gt;파견검사 중 일부는 특검보와 같은 지위에서 팀장 역할을 할 수도 있다. 2016~2017년 박근혜·최순실 국정 농단 의혹을 수사한 박영수 특별검사도 임명 다음 날 윤석열 당시 대전고검 검사를 수사팀장에 내정하고 법무부와 대검찰청에 파견을 요청했다. &lt;br&gt;&lt;br&gt;조 특검은 이날 오전 취재진에게 “수사에 진력해 온 국가수사본부-고위공직자범죄수사처-검찰의 노고가 헛되지 않도록 최선을 다해 사초를 쓰는 자세로 세심하게 살펴가며 오로지 수사 논리에 따라 특별검사의 직을 수행하겠다” “수사팀 구성과 업무 공간이 준비되면 설명할 기회를 갖겠다” “현재 별도 근무 중인 변호사 사무실이 없어 재택 근무 중”이라고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>공수처, ‘순직 해병 사건 수사 외압’ 의혹 국방부 검찰단장 피의자 조사</title>
+      <link>https://www.chosun.com/national/court_law/2025/06/13/3WL3V5E77BCEHJUMFG2QIMWKRQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/13/3WL3V5E77BCEHJUMFG2QIMWKRQ/</guid>
+      <dc:creator>박강현 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 13 Jun 2025 04:22:04 +0000</pubDate>
+      <content:encoded>‘순직 해병 사건 수사 외압’ 의혹을 수사 중인 고위공직자범죄수사처(공수처)가 김동혁 국방부 검찰단장(준장)을 불러 조사 중이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NYNHZA67VR2KD2LUOVQ3KNOON4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기 정부과천청사 고위공직자범죄수사처. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;13일 법조계에 따르면 공수처 해병대원 순직 사건 수사팀(부장 차정현)은 이날 김 단장을 피의자 신분으로 불러 조사하고 있다. 김 단장은 전날(12일)에도 조사를 받은 것으로 전해졌다.&lt;br&gt;&lt;br&gt;김 단장은 지난 2023년 8월 2일 대통령실 지시를 받고 박정훈 전 해병대 수사단장(대령)을 ‘집단항명 수괴’ 혐의로 군 검찰에 입건한 의혹을 받는다.&lt;br&gt;&lt;br&gt;입건 당일 해병대 수사단은 임성근 당시 해병대 1사단장 등 간부 8명을 업무상 과실치사 혐의로 경북경찰청에 이첩했다. 그러자 국방부는 경찰로부터 사건 기록을 회수하는 한편, 수사단장인 박 전 단장을 해임하고 ‘집단항명 수괴’ 혐의로 군 검찰에 입건했다.&lt;br&gt;&lt;br&gt;군사법원에 제출된 통화내역에 따르면 그날 윤석열 전 대통령과 임기훈 전 대통령실 국방비서관, 유재은 전 국방부 법무관리관, 경북경찰청 관계자 간 통화가 순차적으로 이뤄졌다.&lt;br&gt;&lt;br&gt;공수처는 이 과정에서 김 단장이 유 전 관리관과 연락하며 순직 해병 사건을 회수하고, 국방부 조사본부가 기록을 넘겨받아 재검토하는 과정 등에 깊숙이 개입한 것으로 의심하고 있다.&lt;br&gt;&lt;br&gt;공수처는 다른 군 관계자들에 대하 조사도 이어갈 전망이다. 다만 이 의혹 관련 특별검사팀 출범이 임박해, 조만간 공수처는 기존 활동을 마무리하고 모든 수사 기록을 정리해 특검팀에 넘겨야 한다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>폭염 아래 휴식 없이 일하다 사망… 열사병에 첫 중대재해법 처벌 판결 </title>
       <link>https://www.chosun.com/national/regional/chungcheong/2025/06/13/T3HTH2YBAZBTZMA7TEQIEHQUKY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2025/06/13/T3HTH2YBAZBTZMA7TEQIEHQUKY/</guid>
@@ -878,42 +944,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3AM6Y5OUHGLS63H43VCW64K4AY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대법원 청사. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;SK하이닉스의 반도체 국가 핵심 기술을 중국 경쟁업체에 유출한 협력사 부사장이 실형을 확정 받았다. &lt;br&gt;&lt;br&gt;대법원 1부(주심 신숙희 대법관)는 12일 산업기술보호법 위반 혐의 등으로 기소된 SK하이닉스 협력업체 부사장 A씨에게 징역 1년 6개월을 선고한 원심 판결을 확정했다. 같은 회사 연구소장 등 다른 직원 4명도 각각 징역 8개월에 집행유예 2년~징역 1년 6개월을 확정 받았고, 회사에 함께 책임을 묻는 양벌 규정에 따라 협력사 법인에도 벌금 10억원이 선고됐다.&lt;br&gt;&lt;br&gt;A씨 등은 SK하이닉스와 협력하며 알게 된 HKMG 반도체 제조 기술과 반도체 세정 레시피 등을 2018년 8월부터 2020년 6월까지 중국 반도체 경쟁업체에 유출한 혐의로 재판에 넘겨졌다. 이들은 삼성전자 자회사인 세메스의 세정장비 도면 등 반도체 기술과 영업비밀을 몰래 취득해 중국 수출용 반도체 장비 개발에 사용한 혐의도 받았다.&lt;br&gt;&lt;br&gt;A씨는 1심에서 징역 1년을 선고 받았으나, 지난해 10월 2심에서 징역 1년 6개월로 형량이 늘어났다. 2심 재판부는 1심과 달리 이들이 SK하이닉스와 공동 개발한 기술 정보를 다른 업체에 알려준 혐의까지 유죄로 인정했기 때문이다. 이에 따라 1심에서 징역형의 집행유예를 받았던 다른 직원 3명에겐 징역 1년~1년 6개월의 실형이, 무죄를 받았던 나머지 직원 1명은 징역형 집유가 선고됐다. 대법원도 “원심(2심) 판단에 법리를 오해한 잘못이 없다”며 형을 확정했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>‘영탁 협박·명예훼손’ 영탁막걸리 대표, 징역 4개월에 집유 1년 확정</title>
-      <link>https://www.chosun.com/national/court_law/2025/06/12/ZJU5325EUREWFB6K7FJAAR27SE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/12/ZJU5325EUREWFB6K7FJAAR27SE/</guid>
-      <dc:creator>김희래 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 12 Jun 2025 01:52:14 +0000</pubDate>
-      <content:encoded>‘영탁막걸리’의 상표권 분쟁 과정에서 허위 사실을 유포해 트로트 가수 영탁의 명예를 훼손한 혐의로 재판에 넘겨진 막걸리 업체 대표가 대법원에서 징역형의 집행유예를 확정 받았다.&lt;br&gt;&lt;br&gt;12일 대법원 1부(주심 신숙희 대법관)는 명예훼손과 협박 혐의 등으로 기소된 예천양조 백모 대표에 대해 징역 4개월에 집행유예 1년을 선고한 원심 판결을 확정했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IC5J2JUMRD6ELWOWQEYYMCLFSA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대법원 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;백 대표는 지난 2020년 영탁과 광고 모델 계약을 맺고 ‘영탁막걸리’를 출시했다. 이후 양측은 광고 재계약 협의와 상표권 등록 과정에서 분쟁을 벌였다. 예천양조 측은 분쟁 과정에서 “영탁 측이 연간 50억, 3년 동안 총 150억원의 과도한 요구를 했다”며 언론에 허위 사실을 유포한 혐의로 기소됐다. 예천양조 서울경기지사장조모씨는 영탁의 어머니에게 “요구를 들어주지 않으면 영탁의 이미지를 실추시키겠다”고 협박한 혐의도 있다.&lt;br&gt;&lt;br&gt;1심 재판부는 백 대표와 조씨에게 징역 6개월에 집행유예 1년을 선고했다. 재판부는 “이들이 상표권 협상이나 그동안의 만남에서 있었던 사실과 허위 사실을 교묘하게 섞어 언론과 대중들에게 영탁 측이 과도한 비용을 요구하고 영탁 모친의 갑질이 있었던 것으로 공표했다”며 “영탁 모친의 명예를 훼손하고 협박해 죄질이 좋지 않다”고 밝혔다.&lt;br&gt;&lt;br&gt;2심 재판부는 이들의 일부 발언을 ‘허위 사실’ 명예훼손죄가 아닌 ‘사실 적시’ 명예훼손죄로 판단해 징역 4개월에 집행유예 1년으로 감형했다. 재판부는 “피고인들이 50억, 150억 등의 구체적인 액수를 언급한 것은 영탁 측이 메모를 통해 제시한 금액을 기초로 산정한 것으로, 다소 과장된 표현에 해당하거나 진실과 세부적인 내용에서 차이가 있는 수준에 불과하다고 보인다”며 “피고인들이 적시한 사실이 허위라는 점에 대한 인식이 있었다고 단정하기 어렵다”고 밝혔다. 대법원은 이 같은 원심 판단에 잘못이 없다고 봤다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>장애인 폭행하고 ‘강제 배달’ 시킨 20대 부부…法 “죄질 불량” 실형 선고</title>
-      <link>https://www.chosun.com/national/court_law/2025/06/12/PSAUCB3RW5DETPOFIXQ6IKEO4Q/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/12/PSAUCB3RW5DETPOFIXQ6IKEO4Q/</guid>
-      <dc:creator>전주=김정엽 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 12 Jun 2025 01:56:09 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RIFG3TNLCBHNFLVN75OUOVHNJE.png"&gt;&lt;figcaption&gt;&lt;small&gt;전주지법 청사 전경. /전주지법&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지적장애인을 상습 폭행하고 강제로 배달 일을 시켜 수천만원을 빼앗은 혐의로 재판에 넘겨진 20대 남녀에게 실형이 선고됐다. &lt;br&gt;&lt;br&gt;전주지법 형사12부(재판장 김도형)는 12일 특수폭행 및 노동력착취약취 혐의로 기소된 A(28)씨에게 징역 3년, B(27·여)씨에게는 징역 4년을 각각 선고했다.&lt;br&gt;&lt;br&gt;A씨와 B씨는 2021년 2월부터 2022년 2월까지 지적장애가 있는 C씨를 상습적으로 폭행하고 노동력을 착취한 혐의로 기소됐다. 이들은 주먹과 발은 물론 농기구까지 동원해 C씨를 때린 것으로 조사됐다. &lt;br&gt;&lt;br&gt;반복되는 폭행에 시달리던 C씨는 이들의 강요로 배달 일을 해야만 했다. 이들은 C씨가 배달업체에서 받은 임금 2700만원과 그의 명의로 지급된 사회보장급여 300만원 등 모두 3000만원을 빼앗아 생활비로 사용한 것으로 밝혀졌다. 가족이 없는 C씨는 “잘 돌봐주겠다”는 말에 속아 이들의 집에서 함께 생활했다고 한다. &lt;br&gt;&lt;br&gt;A씨와 B씨는 사건 이후 부부 관계를 정리하고 각각 다른 변호인과 함께 피고인석에 섰지만, 중형을 피하지 못했다. 재판부는 “피고인들은 장애인인 피해자를 배달부로 부리며 노동력을 착취했다”며 “돈을 벌어오지 못하면 위해를 가할 것처럼 피해자를 협박하고 실제로 폭행까지 했으므로 죄질이 극히 불량하다”고 지적했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>중국인 250명 허위 난민 신청 알선한 일당 징역형...총책은 불법 체류하며 범행 주도</title>
-      <link>https://www.chosun.com/national/court_law/2025/06/12/6TYQQCMCFFG6LOGH6WPMVYHUWI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/12/6TYQQCMCFFG6LOGH6WPMVYHUWI/</guid>
-      <dc:creator>박강현 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 12 Jun 2025 01:55:45 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZYW56QFHN5ASRDOAYV7U5TDR6Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울중앙지법. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;중국 사채업자로부터 협박을 받고 있다는 식으로 중국인들의 가짜 난민 신청 등을 대거 알선한 중국인 브로커 일당이 법원에서 나란히 징역형을 선고 받은 것으로 12일 확인됐다. 이 사건은 법무부 서울출입국·외국인청 이민특수조사대가 작년부터 단체·의료관광객으로 입국한 중국인들의 난민 신청 사례가 늘어난 점을 수상하게 여기고 수사에 착수하며 전말이 드러났다.&lt;br&gt;&lt;br&gt;이 사건 총책 이모(50)씨는 중간 연결책 주모(51)씨와 모집책 부부 진모(48)씨와 시모(47)씨와 함께 공모, 중국 소셜미디어(SNS) 등을 통해 국내 불법취업을 원하는 이들을 모집하고 단체·의료관광객으로 위장 입국시켜 2022년 8월부터 지난해 12월까지 중국인 250명을 상대로 허위 내용의 난민 신청을 하도록 알선한 혐의(출입국관리법 위반)를 받는다. 특히 이씨는 이 과정에서 국내에 불법 체류한 혐의도 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QIPNILW43ZGD3OXFZ4CMWMWZIM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=이철원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;브로커 일당은 체계적인 역할 분담을 통해 범행을 저지른 것으로 조사됐다. 이씨는 허위 난민 알선, 주씨는 중간 연결 및 국내 모집책, 진씨와 시씨는 중국 현지 모집 등으로 역할을 나눠 일을 꾸민 것으로 파악됐다. &lt;br&gt;&lt;br&gt;구체적으로 진씨와 시씨는 중국 소셜미디어 위챗에 “대한민국에 여행으로 입국해 취업이 가능하다”는 취지의 광고글을 게시한 뒤 관심을 보인 사람들을 관광 목적으로 단기(C-3) 사증으로 먼저 국내에 입국하도록 했다. 이들은 인천공항 등에 마중을 나가 입국 후 숙소 이동 등의 과정을 돕기도 한 것으로 나타났다.&lt;br&gt;&lt;br&gt;이후 이씨와 주씨는 국내에 들어온 중국인들에게 “중국에서 채무로 인해 사채업자로부터 위협을 받고 있다”는 식으로 개인 채무, 가정 폭력 등의 허위 내용이 기재된 서류를 만들어준 뒤 허위 난민 신청을 하도록 알선했다. 이들은 2년이 넘는 기간 동안 중국인 250명을 상대로 이같은 알선 대가로 1인당 약 280만원을 수령해 나눠 가진 것으로 조사됐다. 현행법상 난민 신청을 하면 관련 조사가 개시되고, 신청이 받아들여지지 않더라도 이의를 신청할 수 있다. 행정소송 등의 불복 절차를 거치는 기간에는 난민 신청자 자격으로 체류를 허가받을 수 있다.&lt;br&gt;&lt;br&gt;특히 총책 이씨는 지난 2020년 1월 관광 목적으로 국내에 들어온 뒤 그해 체류 기간이 만료됐는데도 아무런 연장 허가 없이 계속 불법 체류한 것으로 드러났다. 그는 지난 2022년 1월 유사 범행으로 징역 8개월에 집행유예 2년을 선고받았지만, 또 다시 범행에 이른 것으로 파악됐다. &lt;br&gt;&lt;br&gt;1심 법원인 서울중앙지법은 “이 범행은 대한민국의 외국인에 대한 출입국 및 체류 관리를 어렵게 하고, 외국인 불법 체류 등 다양한 사회적 문제를 야기할 수 있어 그 죄책이 무겁다”면서 지난달 14일 이씨에게 징역 2년을 선고하고, 추징금 1억원을 명령하며 가장 큰 책임을 물었다. 주씨는 지난 4월 1심에서 징역 1년 4개월을 선고받았다. 이씨와 주씨는 각각 항소해 현재 2심이 진행 중이다. 한편 진씨와 시씨는 지난 2월 각각 징역 1년 및 징역 1년에 집행유예 2년형이 확정됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>은지원, 13년만에 재혼한다… “웨딩사진 최근 촬영”</title>
-      <link>https://www.chosun.com/national/people/2025/06/12/SBEONHCAUBERBN67I2FLR5DPBU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/06/12/SBEONHCAUBERBN67I2FLR5DPBU/</guid>
-      <dc:creator>정아임 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 12 Jun 2025 01:30:09 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ODTFJ4MVQBO3UZ3RDFQY4U5QRI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;가수 겸 방송인 은지원./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;가수 겸 방송인 은지원(47)이 이혼 13년 만에 비연예인과 재혼한다.&lt;br&gt;&lt;br&gt;소속사 YG엔터테인먼트 관계자는 12일 “은지원은 최근 웨딩 사진을 촬영했고, 올해 중 가까운 친지분들과 조용히 식을 올릴 예정”이라며 “따뜻한 시선으로 지켜봐 주시면 감사하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;예비 신부는 비연예인으로, 은지원은 결혼 전반 준비에 걸쳐 상대의 외부 노출이나 부담을 덜어주기 위해 신경 쓰고 있는 것으로 전해졌다.&lt;br&gt;&lt;br&gt;은지원은 그간 방송에서 여러 차례 재혼 의사를 밝힌 바 있다. 지난해 방송된 SBS 예능 프로그램 ‘미운 우리 새끼’에서 재혼 의사가 있냐고 묻자 “난 결혼 생각이 있다고 매번 이야기한다. 아버지도 떠나보내고, 어머니도 혼자 계시다 보니 어머니가 ‘슬슬 결혼해야 하지 않냐’고 하시더라”고 말했다.&lt;br&gt;&lt;br&gt;올해 방송된 KBS2 예능 ‘살림하는 남자들2’에서도 젝스키스 고지용, 장수원과 대화 중 “(재혼을) 하긴 해야 한다. 이러다 진짜 고독사할 수도 있다”라며 “(아이를 낳으면) 난 방송 안 한다. 모든 활동 중단할 것”이라고 밝히기도 했다.&lt;br&gt;&lt;br&gt;은지원은 2010년 두 살 연상의 사업가와 결혼했지만, 약 2년 만인 2012년 합의 이혼했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>李대통령 가족 겨냥 “일거 척결” 테러글 올린 50대 男 검거</title>
       <link>https://www.chosun.com/national/incident/2025/06/12/VEGHEQ4XZNFFTKFUEKDPL24G3E/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/06/12/VEGHEQ4XZNFFTKFUEKDPL24G3E/</guid>
@@ -930,33 +960,6 @@
       <description/>
       <pubDate>Wed, 11 Jun 2025 22:54:52 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QVKTOJGLTB5QCCP7CLNJ62TPVY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;베트남 나트랑. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;올여름 이른 휴가를 떠나려는 수요가 늘고 있는 가운데, 동남아‧일본 등 단거리 여행지를 찾는 관광객이 증가한 것으로 나타났다. &lt;br&gt;&lt;br&gt;12일 여행 플랫폼 아고다에 따르면, 올해 6~7월 체크인 기준 숙소 검색 데이터를 바탕으로 대한민국 여행객이 선호하는 여행지를 분석한 결과, 베트남 나트랑이 1위로 나타났다. &lt;br&gt;&lt;br&gt;지난해 1위를 기록한 일본 도쿄는 올해 2위로 한 단계 내려왔다. 이어 일본 후쿠오카, 오사카, 베트남 다낭 순으로 집계됐다. &lt;br&gt;&lt;br&gt;아고다에 따르면 올해 상반기 한국인 여행객 수요가 집중된 여행지는 베트남과 일본이다. 고물가 기조가 이어지면서 비교적 물가가 싸고, 가까운 단거리 여행지를 선호하는 것으로 분석됐다. &lt;br&gt;&lt;br&gt;또 중국 칭다오와 상하이 검색량이 각각 212%, 207% 급증했다. 작년 11월 중국 정부의 한국인 대상 한시적 비자 면제 조치가 영향을 미친 것으로 보인다. &lt;br&gt;&lt;br&gt;국내 여행지로는 제주도가 가장 많은 검색량을 기록했다. 이어 서울, 부산, 속초, 강릉 순이다. 특히 속초와 강릉은 작년 말 동해선 개통 이후 교통 접근성이 개선돼 여름철 주요 휴가지로 주목받고 있다. &lt;br&gt;&lt;br&gt;아고다 관계자는 “올여름 극심한 폭염과 긴 장마가 예측됨에 따라 많은 여행객이 여름휴가 일정을 앞당겨 계획하는 것으로 나타났다”고 했다. 직장인 여름휴가가 집중되는 7월 말~8월 초 번잡함을 피할 수 있는 데다 숙소 비용이 성수기 대비 저렴해 경비를 아낄 수 있기 때문으로 풀이된다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>서초동 법원판 ‘골 때리는 그녀들’... 女판사 30명 풋살팀 이름은?</title>
-      <link>https://www.chosun.com/national/court_law/2025/06/12/7CRML2OY7NG5DD6X3ZEJI4A2XU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/12/7CRML2OY7NG5DD6X3ZEJI4A2XU/</guid>
-      <dc:creator>김나영 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 11 Jun 2025 16:15:22 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DNTU7OVBP5BELPDTCRTUUIMH3Q.png"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=이철원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“풋살팀 회원을 모집합니다!”&lt;br&gt;&lt;br&gt;서울 서초동 서울중앙지법에 최근 풋살팀이 창설됐다. 같은 담 아래 모여 있는 서울중앙지법과 서울고등법원, 서울회생법원 구성원들이 두루 참여했다. 판사에서부터 재판연구원, 법원 사무직원, 법원 보안관리직원 등 직종 불문이다. 현재까지 모집한 인원은 30여 명. 이들의 공통점은 일부 간부를 제외하면 모두 여성이라는 점이다. 여성 풋살 예능 프로그램 콘셉트처럼 법원판 ‘골 때리는 그녀들’이 탄생한 것이다.&lt;br&gt;&lt;br&gt;풋살팀은 회칙 제정, 코치진과 임원진 구성 등을 마친 단계로, 이달 중순 첫 연습에 돌입한다. 오는 8월 팀 유니폼을 맞추고, 가을쯤 서울남부지법 소속 풋살팀과 시범경기를 펼칠 계획이다. 팀 회장을 맡은 중앙지법의 지은희(42) 판사는 2016년 취미로 축구에 입문했다. 지 판사는 “당시 근무지였던 수원지법에 여성 축구부가 있었는데, 판사로서는 제가 처음 가입했다”며 “그때 사무직 여성 계장님들, 전문위원분들과 공을 찼던 좋은 기억이 남아 서초동에서도 팀을 만들게 됐다”고 했다. 아직 미정이지만, 팀 이름은 ‘FC 정의구현’이 유력 후보라고 한다.&lt;br&gt;&lt;br&gt;여성 풋살팀 창단에는 법원 내부의 적극적인 지원이 있었다. 창단 초기 고등법원장과 수석부장판사 등을 알음알음 찾아가서 협조를 구했는데, 다들 흔쾌히 도움을 줬다고 했다. 지 판사는 “고법원장께선 ‘법원 운동장 놀려서 뭐 하느냐’며 바로 총무과에 전화해서 풋살팀이 운동장을 사용할 수 있도록 해줬고, 부장판사들도 ‘용기를 응원한다’며 자문위원을 자청해줬다”고 말했다. 풋살팀의 수석고문위원을 맡은 한 서울고법 부장판사는 “평소 축구도 좋아하고, 최근 몇 달간 법원 안팎으로 논란이 많았는데 법원 구성원들을 통합할 수 있는 좋은 취지라고 생각해 고문을 맡게 됐다”고 말했다.&lt;br&gt;&lt;br&gt;함께 땀 흘리며 유대감을 쌓아 업무 효율을 높여보자는 게 풋살팀의 목표다. 지 판사는 “한 팀이 돼 공을 패스하고 경기를 하면 팀원들과 정말 끈끈해진다”며 “그렇게 되면 다음에 업무적으로 만나게 돼도 훨씬 소통도 잘될 것”이라고 했다.&lt;br&gt;&lt;br&gt;아직은 요원하지만 이들에겐 꿈이 있다. 언젠가 법원 내 리그가 생겨 서초동 풋살팀이 우승을 거머쥐는 것이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>첫 태풍 늦으면 장마도 극단적</title>
-      <link>https://www.chosun.com/national/transport-environment/2025/06/12/P2K5VYFXIBFCNNW4CCLGIMW7DU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/06/12/P2K5VYFXIBFCNNW4CCLGIMW7DU/</guid>
-      <dc:creator>박상현 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 11 Jun 2025 16:20:52 +0000</pubDate>
-      <content:encoded>11일 오전 9시쯤 베트남 다낭 동쪽 580㎞ 해상에서 올해 1호 태풍인 ‘우딥’이 발생했다. 보통 첫 태풍은 늦어도 5월 말에는 발생하는데 6월 중순까지 지연된 것은 이례적이다. &lt;br&gt;&lt;br&gt;이날 기상청에 따르면, 베트남 동쪽 해역에 있던 열대저압부가 ‘우딥’으로 발달하면서 1951년 이후 역대 다섯째로 늦은 첫 태풍으로 기록됐다. 마카오가 제출한 이름인 우딥은 광둥어로 ‘나비’를 뜻한다. 우딥은 중국 광둥성 남서부 쪽에 상륙한 뒤 14~15일쯤 소멸할 것으로 보인다.&lt;br&gt;&lt;br&gt;과거 ‘늦은 태풍’이 온 해에 우리나라는 지역별 강수 패턴이 극단적으로 나타난 바 있어 올여름에도 이런 경향이 되풀이될 수 있다는 관측이 나온다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LPDHVB5WWNHYVIDQPQWQPW4QUM.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=양진경&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;역대 첫 태풍이 가장 늦었던 1998년(7월 9일)엔 제주도에 ‘물폭탄’이 떨어졌다. 당시 평년보다 일주일가량 빠른 6월 12일에 첫 장맛비가 내렸고, 이후 7월 28일까지 47일간 장마가 이어졌다. 이는 2020년(49일) 전까지 역대 가장 긴 장마였다. 올여름 제주는 1998년처럼 평년보다 일주일 앞선 12일에 장마가 시작된다. 당시 서울은 장마 땐 비가 적게 내리다가, 7월 말부터 8월까지 뒤늦은 집중호우가 쏟아졌다.&lt;br&gt;&lt;br&gt;이어 첫 태풍이 늦었던 2016년(7월 3일)과 1973년(7월 1일), 1983년(6월 25일)에는 전국에 ‘마른 장마’가 찾아왔다. 이 중 1973년은 ‘장마 실패’라는 말이 나올 정도로 역대 장마가 가장 짧았던 해다. 당시 중부·남부 지방은 6일, 제주도는 7일 만에 장마가 끝나 전국이 극심한 가뭄을 겪었다. &lt;br&gt;&lt;br&gt;12일부터는 제주도의 첫 장맛비를 비롯해 대만 동쪽에 위치한 수증기 덩어리, 태풍 우딥이 몰고 온 수증기 등이 복합적으로 우리나라에 영향을 주면서 16일까지 제주와 남부 지방을 중심으로 비가 내리겠다. 12~13일 제주도에 20~80㎜의 비가 내리겠고, 13일 호남·영남권 5~40㎜, 충청권 5~10㎜의 비가 예보됐다. 토요일인 14일에는 비가 전국으로 확대하겠고, 15~16일엔 전남·경남·제주도에 비가 내리겠다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>기술 자격증이 밥 먹여준다… 50대 ‘인생 2막’ 열공</title>
-      <link>https://www.chosun.com/national/labor/2025/06/12/VEC2W4LSNBHS3KY42IBUKELG6Q/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/labor/2025/06/12/VEC2W4LSNBHS3KY42IBUKELG6Q/</guid>
-      <dc:creator>정해민 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 11 Jun 2025 15:58:52 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MTJ4GAZBOFD4FNWASMISFGG72E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 28일 서울 용산구 한국폴리텍대 서울정수캠퍼스에서 공조냉동기계기능사 실기 시험을 앞둔 50~60대 학생들이 보안경을 끼고 구리 배관에 용접을 하고 있다. 고용노동부 산하 폴리텍대는 40세 이상 미취업자들에게 직업훈련을 제공하고 있다./ 조인원 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난달 28일 서울 용산구 한국폴리텍대 서울정수캠퍼스 실습실에서는 시끄러운 드릴 소리와 함께 여기저기서 용접 불꽃이 튀고 있었다. 황토색 작업복을 입은 50~60대 남성 12명이 보안경을 낀 채 구리 배관을 만드는 데 한창이었다. 배관은 냉장고나 실외기 등 냉방 설비에 들어가는 핵심 부품이다. 이들은 냉방 설비를 다루는 기술자에게 주는 국가 자격증인 ‘공조냉동기계기능사’ 시험을 준비 중인 중장년 학생들이다. 고용부 산하의 폴리텍대는 이처럼 40세 이상 미취업자에게 기계, 전기 등 분야에서 3·6개월의 ‘신중년 특화 과정’ 직업 훈련을 제공하고 있다. 올해 전국 캠퍼스에서 7500명이 이 같은 직업 교육을 받는다. 특히 50대의 참여가 2022년 38.9%에서 2023년 40.5%, 2024년 48.6%로 꾸준히 늘고 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Q5I57WOSM5E35HM5JPVPYMOJC4.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=백형선&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;법정 정년은 60세지만, 불황 속 실제 퇴직 연령은 50대 초반으로 내려왔다. 특히 도소매업, 건설업, 제조업 등 중장년이 주로 종사하던 업종의 고용이 급감하면서, 이들은 구조 조정 대상 1순위로 밀려났다. 1년 넘게 50대 고용률이 하락 중인 가운데 954만명의 2차 베이비붐 세대(1964~1974년생)가 은퇴를 앞두고 있다. 이런 가운데 기술 관련 자격을 취득해 인생 2막을 준비하는 중장년 퇴직자가 늘고 있는 것이다. &lt;br&gt;&lt;br&gt;폴리텍대 실습실에서 만난 이성수(61)씨는 건설 회사에서 23년간 일하다가 양쪽 눈에 백내장이 생겨 퇴직할 수밖에 없었다고 했다. 그는 “40대 이후엔 사무 업무만 했는데 퇴직하고 나니 손에 남은 게 없었다”며 “퇴직 후 기술 하나는 있어야겠다는 생각이 강하게 들었다”고 말했다. 농수산물 경매사로 24년간 일하다 퇴직했다는 한의종(56)씨도 “나이 들어서는 직장 다니는 것도 눈치가 보였다”며 “앞으로 날씨가 더워질수록 일감이 늘어날 것 같아 공조 냉동 분야를 택했다”고 했다.&lt;br&gt;&lt;br&gt;최근 한국직업능력연구원은 ‘50대에게 추천하는 5대 자격’을 발표했는데, 공조냉동기계기능사의 취업률이 63.9%로 가장 높았다. 이 외에도 공조냉동기계산업기사, 승강기기능사, 에너지관리기능사, 전기기능사가 꼽혔다. 실제로 공조냉동기계기능사 자격을 딴 사람 중 50대 비율은 20.2%(2023년 기준)로 전 연령대 중 가장 높은 것으로 나타났다. 이어 60대 이상(17.5%)으로 20·30대보다 장년층 비율이 더 높았다. 이 자격증 보유자의 평균 제시 임금은 월 272만원. 직업능력연구원의 추천 자격 목록에 포함된 승강기기능사는 246만원, 에너지관리기능사 266만원, 전기기능사 263만원 등이었다.&lt;br&gt;&lt;br&gt;서울 중구에 사는 김도현(53)씨는 작년 상반기 폴리텍대에서 공조냉동기계기능사·산업기사, 에너지관리기능사 자격증을 취득했다. 김씨는 이런 기술을 인정받아 작년 9월부터 경기 과천 한국마사회 건물에서 일하고 있다. 냉방 장비 등 시설 전반을 관리하며 월급 350만원(세전)을 받고 있는 그는 “중년 퇴직자들에게는 이런 교육과정이 인생 2막을 열 수 있는 기회”라고 했다.&lt;br&gt;&lt;br&gt;정부도 지원을 늘려가고 있다. 고용노동부는 지난 3월부터 ‘중장년 경력 지원제’를 시작했다. 퇴직한 사무직 등의 중장년이 새로운 일자리를 찾도록 1~3개월간 기업에서 단기 인턴 같은 경험을 하면서 현장 직무 교육을 받도록 지원하는 것이다. 하루 4시간씩 주 5일 근무하는 참여자에게 월 150만원씩 수당을 지급한다. 프로그램 운영 기업에도 1인당 월 40만원을 지원한다. 경북 구미에 사는 신모(58)씨는 구미역 상가에서 25년간 시설 관리 업무를 하다 용역 업체 변경으로 지난해 일자리를 잃었다. 신씨는 경북중장년내일센터에서 직무 교육 등을 받은 뒤 최근 ‘50대 인턴’이 됐다. 오전에만 일하고 오후에는 자격증 공부를 병행 중이다. “집에 학생이 셋이라 계속 벌어야 한다”는 그는 “공조냉동, 에너지관리, 전기기능사 자격증까지 땄기 때문에 곧 재취업할 것으로 기대한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>휴가 나온 병장이 26분간 추격전 끝에 음주운전자 검거</title>
