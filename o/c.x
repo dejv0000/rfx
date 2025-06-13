@@ -13,6 +13,156 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>폭염 아래 휴식 없이 일하다 사망… 열사병에 첫 중대재해법 처벌 판결 </title>
+      <link>https://www.chosun.com/national/regional/chungcheong/2025/06/13/T3HTH2YBAZBTZMA7TEQIEHQUKY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2025/06/13/T3HTH2YBAZBTZMA7TEQIEHQUKY/</guid>
+      <dc:creator>대전=김석모 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 13 Jun 2025 02:40:57 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/O46NBFMMVZ2BMMMSQVEZ62PY2U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대전지법. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;공사장 작업 중 열사병으로 근로자가 숨진 사건과 관련해 법원이 원청 업체 대표이사에게 징역형의 집행유예를 선고했다. 노동자 열사병 사망에 중대재해처벌법이 적용된 첫 사례다.&lt;br&gt;&lt;br&gt;대전지법 형사12단독 이재민 부장판사는 13일 중대재해 처벌 등에 관한 법률 위반 혐의로 기소된 원청업체 대표이사 A씨에게 징역 1년에 집행유예 2년을 선고했다. 또 산업안전보건법 위반 등의 혐의로 기소된 원청업체 현장소장 B씨에게는 징역 8개월에 집행유예 2년을, 원청업체에는 벌금 8000만원을, 하청업체에는 벌금 600만원을 각각 선고했다.&lt;br&gt;&lt;br&gt;A씨는 폭염이 이어지던 2022년 7월 대전 유성구 탑립동 한 건물 신축 공사 현장에서 콘크리트 타설 작업을 하던 하청업체 소속 근로자가 열사병으로 숨지는 사건과 관련해 근로자들의 안전·보건 확보 의무를 이행하지 않은 혐의로 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;당시 현장에서 쓰러진 근로자는 체온이 40도를 넘었던 것으로 알려졌다.&lt;br&gt;&lt;br&gt;검찰은 A씨가 무더위와 같은 유해·위험 요인을 확인하지 않고 중대 산업재해 매뉴얼을 갖추지 않은 것으로 판단했다. &lt;br&gt;&lt;br&gt;현장소장은 B씨는 폭염 속에서 작업하던 근로자에게 최소한의 휴식 시간과 휴게 장소, 음료수 등을 제공하지 않은 혐의를 받는다. 하청업체 소속 현장소장도 함께 기소됐지만, 재판 중 지병으로 숨져 공소 기각됐다.&lt;br&gt;&lt;br&gt;검찰은 지난해 7월 이들을 기소하면서 “열사병으로 숨진 현장 근로자의 보호와 관련해 원청 대표이사에게 중대재해처벌법을 적용해 기소하는 첫 사례”라고 밝혔다.&lt;br&gt;&lt;br&gt;이 부장판사는 “피해자가 사망하는 돌이킬 수 없는 중대한 결과가 발생했고, 산업재해 예방을 위한 조치들이 시행 중인데도 안타까운 사고가 계속되고 있다”면서 “피고인들이 모두 혐의를 인정하고, 피해자 유족과 합의한 점 등을 감안해 형을 정했다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“이재명 암살단 모집” 협박글 올린 50대 남성 등 3명 검찰 송치 </title>
+      <link>https://www.chosun.com/national/national_general/2025/06/13/TVTIW3Z4SJA3TF7GTZYYJKPHFM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/13/TVTIW3Z4SJA3TF7GTZYYJKPHFM/</guid>
+      <dc:creator>구아모 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 13 Jun 2025 03:10:16 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/W7N6YILQVKRS5UWV2FHQD5NBTE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이재명 대통령이 10일 서울 용산구 대통령실 청사에서 열린 국무회의에서 모두발언을 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이재명 대통령이 대선 후보였던 시기 소셜미디어에 암살 협박 글을 올린 피의자들이 검찰에 송치됐다.&lt;br&gt;&lt;br&gt;서울경찰청 사이버수사과는 이재명 대통령이 후보였던 시기 소셜미디어에 위해·협박성 글을 게시한 혐의로 50대 남성 A씨와 B씨, 20대 여성 C씨 등 3명을 불구속 상태로 검찰에 송치했다고 13일 밝혔다. &lt;br&gt;&lt;br&gt;앞서 더불어민주당 가짜뉴스대응단은 이재명 대선 후보를 살해하겠다고 협박하거나 암살단 모집 글을 올린 이들을 협박 등 혐의로 지난달 8일 경찰에 고발했다. &lt;br&gt;&lt;br&gt;경찰에 따르면 피의자 A씨, B씨, C씨는 협박성 글을 작성한 사실을 모두 인정했으며, “장난이었다” “실행 의사는 없었다”는 취지로 진술했다. 경찰은 “실행 의사가 없더라도 위해·협박 게시글을 올리는 것은 분명한 범죄 행위”라며 엄정 수사 방침을 밝혔다. 피의자 B씨는 조사 이후 더불어민주당 공식 페이스북에 사과문을 게재하기도 했다.&lt;br&gt;&lt;br&gt;경찰은 현재 또 다른 20대 여성 D씨에 대해서도 관련 혐의에 대해 수사를 계속하고 있다. 경찰은 별도로, 지난 이 대통령 당선 이후 한 여성 스트리머가 이재명 당선 소식에 “누가 암살 좀”이라고 발언한 사건과 관련해 피의자 D씨를 지난 8일 조사했으며, 혐의 유무를 판단하기 위해 수사를 이어가고 있다. 경찰은 “대통령을 대상으로 한 위해·협박 게시글 사건에 대해 끝까지 추적할 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘김건희 대화 녹음’ 서울의소리 이명수씨 피의자 조사</title>
+      <link>https://www.chosun.com/national/court_law/2025/06/13/6G67PN5NW5D7THAJLQF4GLY6XQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/13/6G67PN5NW5D7THAJLQF4GLY6XQ/</guid>
+      <dc:creator>유희곤 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 13 Jun 2025 02:45:49 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XMWI6XQHWVLCVJQLQTG7KDOYZY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령 배우자 김건희 여사와 제3자의 대화를 녹음한 혐의를 받는 서울의소리 이명수씨가 13일 서울 서초구 서울중앙지검에서 피의자 조사를 받기 전 취재진의 질문에 답하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 전 대통령 배우자 김건희 여사와의 대화를 몰래 녹음한 혐의를 받는 친야 성향 유튜브 채널 ‘서울의 소리’ 소속 이명수씨가 13일 검찰 피의자 조사를 받고 있다.&lt;br&gt;&lt;br&gt;서울중앙지검 공공수사2부(부장 조민우)는 이날 오전 이 기자를 통신비밀보호법 위반 혐의 피의자로 불러 조사하고 있다. &lt;br&gt;&lt;br&gt;이씨는 검찰청사에 들어가기 전 취재진에게 “김 여사가 코바나컨텐츠 사무실로 불러서 3시간 정도 대화했고, (이때) 김 여사가 500㎖짜리 맥주 두 캔을 마셨던 것 같다”며 “부적절한 얘기를 해서 피하기 위해 급하게 화장실을 가는 바람에 3분 정도 중간에 자리를 비웠다”고 주장했다. &lt;br&gt;&lt;br&gt;이씨 변호인인 류재율 변호사는 “본인이 대화자로 참여한 상태에서 한 녹음은 불법이 아니고, 대화 녹음 3시간 중 이씨가 화장실에 갔다 온 약 3분이 문제가 된 것”이라며 “(불법 녹음을 하려고 한) 고의성이 없기 때문에 검찰이 불기소 처분을 해야 한다”고 했다.&lt;br&gt;&lt;br&gt;앞서 국민의힘은 이씨가 2021년 7월부터 6개월 동안 김 여사와 52차례 통화한 내용을 녹음하고 이를 보도해 달라며 MBC에 넘겼다며 공직선거법 위반 혐의로 이씨를 고발했다. 경찰은 고의성이 인정된다고 보고 2022년 8월 이씨를 통신비밀보호법 위반 혐의로 검찰에 송치했지만, 주거침입과 공직선거법 위반 혐의는 불송치 결정했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>윤석열 전 대통령 살해 예고 게시글...경찰 추적 나서</title>
+      <link>https://www.chosun.com/national/incident/2025/06/13/NSQYYKL2IJDVRMQVAIEGF5ERHA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/06/13/NSQYYKL2IJDVRMQVAIEGF5ERHA/</guid>
+      <dc:creator>신정훈 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 13 Jun 2025 02:43:33 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KQWKJZ4QLVDS7GWIWX3L53AFRY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;디시인사이드 캡처/연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;온라인 커뮤니티에 윤석열 전 대통령 살해 예고 글이 게시돼 경찰이 수사에 나섰다. &lt;br&gt;&lt;br&gt;13일 충북 제천경찰서에 따르면 이날 오전 4시쯤 온라인 커뮤니티 디시인사이드에 “아크로비스타 가서 윤석열 살해할 건데 마지막 조언 좀”이라는 제목의 게시물이 올라왔다. &lt;br&gt;&lt;br&gt;이를 본 시민은 자신 관할 경찰에서 신고를 했다. 게시글에는 제목 외에 다른 내용은 없었다. &lt;br&gt;&lt;br&gt;경찰은 디시인사이드 측에 게시글 보존을 요청하는 한편, 아이피(IP) 추적을 통해 작성자 신원을 확인하고 있다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “현재 작성글 등 수사를 위한 자료는 모두 확보했다”며 “작성자를 신속히 검거한 뒤 정확한 작성 경위를 파악할 예정”이라고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>창원서 역주행 통근버스가 60대 보행자 충격... 1명 중상</title>
+      <link>https://www.chosun.com/national/regional/2025/06/13/HTJNPYS2VVF6XH6LZ3GLPGOVJY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/06/13/HTJNPYS2VVF6XH6LZ3GLPGOVJY/</guid>
+      <dc:creator>창원=김주영 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 13 Jun 2025 02:12:08 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/X7FI3TLNTIJ7MC6NRPAKZBWT2Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경남 창원에서 퇴근길 차량 정체로 역주행을 하던 통근버스가 보행자를 치는 사고가 났다.&lt;br&gt;&lt;br&gt;13일 창원 중부경찰서에 따르면 전날 오후 5시 34분쯤 경남 창원시 성산구 성산동의 한 도로에서 60대 A씨가 몰던 회사 통근버스가 길을 건너던 60대 보행자 B씨를 들이받았다.&lt;br&gt;&lt;br&gt;이 사고로 60대 남성 B씨가 중상을 입고, 의식이 없는 상태로 인근 병원으로 옮겨졌다. 이날 현재 A씨는 생명이 위독한 상태다.&lt;br&gt;&lt;br&gt;사고는 편도 2차선 1차로에서 직진하던 버스가 퇴근길 차량이 정체되자 중앙선을 넘어 역주행하면서 길을 건너던 A씨를 충격하며 발생했다.&lt;br&gt;&lt;br&gt;경찰은 버스 운전기사 60대 B씨를 교통사고 처리 특례법상 치상 혐의로 입건했다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “사고 목격자 진술과 블랙박스 분석 등을 토대로 정확한 사고 경위를 조사 중이다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“할일 없는 고통 겪어보니, 출근이 행복” 부사장에서 인턴 된 67세</title>
+      <link>https://www.chosun.com/national/people/2025/06/13/P34ZNL264ZHSVLJLSNO3CJ4HNQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/06/13/P34ZNL264ZHSVLJLSNO3CJ4HNQ/</guid>
+      <dc:creator>이가영 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 13 Jun 2025 02:11:16 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TY6KCNZZBFBJFN2VYL6KUHFRBU.png"&gt;&lt;figcaption&gt;&lt;small&gt;반도체 회사에서 부사장을 지냈던 오창규(67)씨는 퇴직 후 시니어 인턴으로 일하고 있다. /tvN '유 퀴즈 온 더 블럭'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“회사 생활이요? 한마디로 표현할 수밖에 없어요. 상당히 행복합니다. 할 일이 없는 고통을 당해보지 않았으면 이 마음 모를 거예요.”&lt;br&gt;&lt;br&gt;지난 11일 방송된 tvN ‘유퀴즈 온더 블럭’에 출연한 오창규(67)씨는 회사 생활의 힘든 점을 묻자 이렇게 답했다. &lt;br&gt;&lt;br&gt;오씨는 디지털 마케팅 기업 피티코리아(PTKOREA)에서 시니어 인턴으로 일하고 있다. 피티코리아는 작년 10월 ‘시너Z’ 프로젝트를 통해 만 60세 이상의 시니어 인턴을 채용했다. 최종 선발된 시니어 인턴 11명은 짧은 교육 과정을 마친 뒤 실제 프로젝트에 투입됐다. 초반에는 우려의 시각도 있었지만, 각자의 경력과 전문성을 살려 Z세대 직원들과의 협업을 통해 조직 내에서 안정적인 역할을 수행하고 있다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IUPO4EDANRFHLAHLLN3EKDNOPE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;피티코리아 시니어 인턴 단체사진. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대학에서 전자공학을 전공한 오씨는 30년간 IT 분야에서 일했다. 1987년 프린터 및 PC 제조 업체 휴렛패커드(HP)에 입사해 14년간 근무했다. 이후 국내 반도체 기업으로 이직해 이사, 상무, 전무를 거쳐 부사장까지 올랐다. &lt;br&gt;&lt;br&gt;그러다 정년 퇴직을 5개월 앞두고 회사로부터 희망퇴직 제안을 받았다. 오씨는 “제안이 아니라 권고, 어쩌면 강제일 수도 있었다”며 “일주일 고민 끝에 회사를 나왔다”고 했다. &lt;br&gt;&lt;br&gt;갑작스러운 퇴직 이후 오씨는 “방황을 참 많이 했다”고 했다. 아침에 눈을 떴는데 갈 곳이 없다는 것부터 적응되지 않았다고 했다. 사업하는 친구들을 찾아갔지만, 차마 일자리에 관한 이야기는 하지 못한 채 안부만 묻고 돌아오는 일도 많았다. &lt;br&gt;&lt;br&gt;그는 “직장에 다니면서 연휴에 쉬는 기분과 할 게 없어서 집에서 쉬는 건 천지차이”라며 “세상에서 제일 힘든 일은 할 일 없이 집에서 놀아야 하는 것이다. 지금도 쉬어야 하는 날이 온다는 게 제일 두려운 일 중 하나”라고 했다. 이어 “왜 이렇게 일을 해야 마음이 편할까 생각해봤는데, 아마 평생을 직장에 다녀서 그런 것 같다”고 했다. &lt;br&gt;&lt;br&gt;오씨는 퇴직 이후 창업 관련 교육을 수료하고, 각종 자격증을 취득했다. 하지만 생각만큼 재취업의 길은 쉽지 않았다. 이력서를 열 군데 이상 내도 회신이 온 곳은 단 한 곳뿐이었다고 했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/B7EHYWDVARGVZGUZVVTMUOXUEI.png"&gt;&lt;figcaption&gt;&lt;small&gt;11일 방송된 tvN '유 퀴즈 온더 블럭'에는 시니어 인턴으로 일하는 오창규(67)씨가 출연했다. /tvN&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그는 작년 9월 피티코리아의 시니어 인턴 면접을 봤고, 합격했다. 8년 만의 첫 출근이었다. 오씨는 “옷을 차려입고 나간다는 그 자체가 감격스러웠다. 내가 아직 살아있다는 생각이 들었다”고 그날을 회상했다. 그러면서 “죽을 때까지 일하고 싶다”고 했다. &lt;br&gt;&lt;br&gt;피티코리아의 인턴은 3개월 계약 후 3번까지 연장 가능하다. 실력을 인정받은 오씨는 3번의 연장 계약을 체결했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PXPBFJBMCRASBCJ37BJURLFF3Q.png"&gt;&lt;figcaption&gt;&lt;small&gt;시니어 인턴 오창규(67)씨의 상사 이주은(31)씨. /tvN '유 퀴즈 온 더 블럭'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;오씨의 상사 이주은(31)씨는 “저보다 확실히 경험과 연륜이 많으시니까 제 표정만 봐도 어떤 일이 있었는지 안다”며 “힘든 일이 있던 날이었는데, 저를 따로 불러서 ‘괜찮나. 걱정된다’고 한마디를 하고 가셨다. 퇴근 전에는 제 자리에 커피 하나를 올려놓고 가셨더라”고 말하며 눈물 흘렸다. 이씨는 “추억도 많이 쌓고, 도움도 많이 받아서 눈물이 나는 것 같다”며 “그동안 고생 많으셨고, 앞으로도 같이 고생하면서 계속 뵐 수 있었으면 좋겠다”고 했다. &lt;br&gt;&lt;br&gt;피티코리아 관계자는 “연령이나 세대보다 중요한 것은 서로의 경험을 존중하고 함께 협력하는 것임을 이번 프로젝트를 통해 실감했다”며 “시니어의 전문성을 효과적으로 활용할 수 있는 좋은 사례가 되길 바란다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘풀무원 빵’으로 학교 집단 감염… 충북 이어 세종·부안서도 확인</title>
+      <link>https://www.chosun.com/national/welfare-medical/2025/06/13/3NJOOZNCLZAARLMPD3DYN4LVYE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/06/13/3NJOOZNCLZAARLMPD3DYN4LVYE/</guid>
+      <dc:creator>오유진 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 13 Jun 2025 02:00:34 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OZFPIHDY5W3YMXDLRW457EXHCI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;마더구스가 제조하고 푸드머스가 유통·판매한 '고칼슘 딸기크림 롤케이크'(왼쪽)와 '고칼슘 우리밀 초코바나나빵'(오른쪽). /풀무원 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;급식에 제공된 빵류 섭취로 인한 집단 식중독이 충북에 이어 세종과 전북 부안에서도 추가로 확인됐다. 유증상자는 총 208명으로 늘었다.&lt;br&gt;&lt;br&gt;13일 질병관리청은 빵류 섭취로 인한 살모넬라균 감염증 집단 발생 사례가 현재까지 총 4건으로 늘어, 유증상자가 208명으로 늘어났다고 밝혔다.&lt;br&gt;&lt;br&gt;앞서 지난달 15일 충북 청주의 한 학교와 진천의 한 유치원 급식소에서 제공된 빵류를 먹은 뒤 각각 120명, 35명이 식중독 증상을 보였다.&lt;br&gt;&lt;br&gt;식품의약품안전처는 문제가 된 ‘고칼슘 딸기크림 롤케이크’와 ‘고칼슘 우리밀 초코바나나빵’의 판매를 중단하고, 지난 5일 회수 조치에 나섰다. 해당 제품은 식품제조업체 마더구스가 만들고, 풀무원 계열사 푸드머스가 유통·판매한 것으로, 소비기한은 각각 올해 10월 12일, 9월 21일이다.&lt;br&gt;&lt;br&gt;이후 세종의 한 유치원과 전북 부안의 한 학교 급식소에서도 해당 제품과 관련된 것으로 추정되는 식중독 사례가 추가로 확인됐다. 두 시설에서는 각각 지난달 16일과 15일 ‘고칼슘 딸기크림 롤케이크’가 제공됐다. 유증상자는 각각 18명, 35명으로 집계됐다.&lt;br&gt;&lt;br&gt;질병청은 “해당 제품이 납품된 다른 시설에 대해서도 추가 유증상자 발생 여부를 모니터링하고 있다”며 “제품 섭취 후 설사, 구토 등 증상이 나타날 경우 바로 의료기관 진료를 받아야 하고, 동일 기관에서 유증상자가 2명 이상 발생하면 보건소에 신고해야 한다”고 당부했다.&lt;br&gt;&lt;br&gt;살모넬라균 감염증은 균에 오염된 음식을 섭취하면서 발생한다. 주로 덜 익힌 달걀이나 가금류를 통해 전파된다. 조리 시에는 중심 온도를 75도 이상으로 1분 이상 충분히 익혀야 한다. 달걀을 만진 뒤에는 세정제를 사용해 흐르는 물에 손을 깨끗이 씻어야 한다.&lt;br&gt;&lt;br&gt;최근 기온이 오르면서 살모넬라균 감염증 발생도 증가하는 추세다. 질병청의 표본 감시 결과에 따르면, 올해 1주차 47명, 10주차 29명, 23주차에는 66명이 보고됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“주4.5일제·정년연장, 노동 양극화 심화할 수도...중소기업·저임금 노동자 보호해야"</title>
+      <link>https://www.chosun.com/national/labor/2025/06/13/3Y47KI2SOZBGLETU5SU6J7NTBE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/labor/2025/06/13/3Y47KI2SOZBGLETU5SU6J7NTBE/</guid>
+      <dc:creator>정해민 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 13 Jun 2025 01:52:24 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HTLDSXKJUROTJCUI375XLGPHCE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;더불어민주당 이재명 당시 대선 후보와 김동명 한국노총 위원장이 지난달 1일 서울 중구 한국프레스센터에서 열린 정책 협약식에서 서명하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이재명 정부가 추진하려는 노동 정책 중 주4.5일제나 정년 연장이 자칫 노동 시장의 양극화를 심화할 수 있다는 지적이 나왔다. 법적으로 근로 시간을 줄이고 정년을 늘리면, 대기업과 고임금 노동자들 위주로 혜택이 돌아갈 수 있다는 것이다. 전문가들은 중소 영세 사업장과 저임금 노동자까지 고려해 제도를 설계해야 한다고 조언했다.&lt;br&gt;&lt;br&gt;13일 한국노총은 서울 영등포구 한국노총 대회의실에서 ‘새 정부, 노동 정책 국정 과제의 핵심 방향은 무엇인가’를 주제로 토론회를 열었다. 한국노총은 “지난 21대 대선에서 더불어민주당과 맺은 정책 협약의 실현 방안을 모색하기 위해 마련한 자리”라며 “새 정부의 올바른 노동 정책 수립 과정에서 한국노총의 대응 방향을 준비하는 정책 자문 회의 겸 정책 토론회”라고 밝혔다.&lt;br&gt;&lt;br&gt;이날 발제를 맡은 박귀천 이화여대 법학전문대학원 교수는 “대기업과 중소기업 간 격차 등 노동 시장의 양극화로 인한 여러 문제가 심각한 상황에서 대기업 중심으로 진행되는 근로시간 단축 정책은 근로시간 양극화를 심화할 것”이라고 했다.&lt;br&gt;&lt;br&gt;박 교수는 주4.5일제 도입을 논의하기에 앞서, ‘주 52시간제’에서 연장 근로 12시간을 제외한 ‘주 40시간 근무’가 제대로 정착됐는지부터 파악해야 한다고 주장했다. 통계청 자료에 따르면, 관련 조사가 마지막으로 이뤄진 2015년 기준 300인 이상 사업장의 주 40시간 근무 실시율은 100%였다. 반면 5~9인 사업장은 48%에 불과했다.&lt;br&gt;&lt;br&gt;인력 부족 등을 겪고 있는 중소기업에서는 ‘주 4.5일제는 현장 상황을 모르고 추진하는 정책’이라는 취지의 목소리가 나오고 있다. 이와 관련해 박 교수는 “중소기업의 경우 인력난이 심각하다는 점 등을 고려해 중소 규모 사업장의 근로 시간 단축을 위해 실질적으로 필요한 정부의 지원 정책과 제도 개선 방안을 도출해야 한다”고 밝혔다.&lt;br&gt;&lt;br&gt;김성희 L-ESG 평가연구원 원장은 정년 연장과 관련해 “정년 연장이 자칫 고용이 안정적이고 고임금을 받는 노동층 일부에게만 적용되면 노동 시장의 불평등이 커질 수 있다”며 “정년 연장이 보편적으로 적용될 수 있도록 촉진하는 제도와 정책 마련이 필수적”이라고 밝혔다. 고용이 불안한 소규모 사업장의 저임금 노동자들도 정년 연장을 적용받을 수 있도록 하는 제도적 장치가 필요하다는 뜻이다. &lt;br&gt;&lt;br&gt;또 정년 연장으로 야기될 수 있는 청년 일자리 축소 문제에 대해서 김 원장은 “(청년과 중장년이) 선호하는 일자리에서 상충 가능성이 있어 해결할 방안이 필요하다”며 “노동 시장에서 세대 간 협력을 촉진하는 방안 마련에 기업이 적극적으로 나서도록 정책을 설계해야 한다”고 했다.&lt;br&gt;&lt;br&gt;노동 시장에 진입하려는 모든 사람을 ‘헌법상 근로자’로 보고, 이들을 모두 보호할 수 있는 ‘일하는 사람 보호법(가칭)’이 필요하다는 주장도 나왔다. 프리랜서 등 현행법상 근로자성을 인정받지 못하는 사람들이 노동법 사각지대에 있다고 보고, 이들을 보호하자는 것이다. 권오성 연세대 법학전문대학원 교수는 보호할 권리 목록에는 차별 금지, 괴롭힘 보호, 공정한 보수, 사회 보장 권리 등이 담겨야 한다고 제안했다.&lt;br&gt;&lt;br&gt;권 교수는 “디지털 전환, 플랫폼 경제 확산, 노동 시장의 양극화 등 복합적 변화 속에서 기존 노동법의 적용 범위와 보호 체계는 한계에 직면하고 있다”며 “‘기존 노동법은 낡았으니 폐기하자’는 것이 아니라, ‘새로운 노동 방식을 규율할 수 있도록 갱신하자’는 것이 노동 규범 현대화의 목표가 돼야 한다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“4시간 만에 6000만원 빠져나가”...피싱 피해 고백한 여배우</title>
+      <link>https://www.chosun.com/national/people/2025/06/13/4ZDY4NR34JBCPGKWDTRXSIGMYE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/06/13/4ZDY4NR34JBCPGKWDTRXSIGMYE/</guid>
+      <dc:creator>정아임 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 13 Jun 2025 01:48:06 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JHPTPH7UUBC2RCOMQHYTV43EP4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;배우 이미숙./유튜브 '이미숙_숙스러운 미숙씨'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;배우 이미숙이 피싱 사기로 6000만원 상당의 피해를 입은 사실을 털어놨다. &lt;br&gt;&lt;br&gt;이미숙은 지난 12일 자신의 유튜브 채널에서 과거 본인도 모르는 사이 거액의 금액이 빠져나가 피해를 입었던 경험을 전했다. &lt;br&gt;&lt;br&gt;이미숙은 “예전에 한 번 크롬 브라우저를 통해 피싱을 당한 적이 있다”며 “통장에서 5000~6000만원이 한꺼번에 사라졌다. 그 뒤로는 핸드폰 결제를 하지 않는다”고 말했다.&lt;br&gt;&lt;br&gt;그러면서 “휴대폰에 등록된 카드로 해킹범이 새벽 4시부터 오전 8시까지 결제를 한 거다. 경찰서에 물어보니 온라인에서 쇼핑한 것을 현금으로 바꿔주는 방식이 있다고 하더라. 그래서 깜짝 놀랐다. 너무 무서웠다”고 털어놨다.&lt;br&gt;&lt;br&gt;이미숙은 “그 이후 핸드폰이 복제됐고, 내가 사용한 내역이나 비밀번호까지 다 털렸다”며 “정말 무서워서 그다음부턴 핸드폰으로 아무것도 하지 않는다”고 했다.&lt;br&gt;&lt;br&gt;피싱 피해는 나날이 증가하고 있다. 경찰청에 따르면 지난해 보이스피싱 1인당 피해액은 전년 대비 73%(1734만원) 증가한 4100만원이다. 전체 피해액은 8545억원으로 91% 늘어난 역대 최고치다. 종전 최고치였던 2021년과 비교하면 801억원 더 많았다. 지난해 보이스피싱 피해액이 1억원이 넘는 피해자는 1793명, 10억원 이상 잃은 피해자는 31명이다. &lt;br&gt;&lt;br&gt;피싱 사기로 인한 금전 피해와 개인 정보 유출은 즉각적인 조치가 이루어지지 않으면 피해가 더 커질 수 있다. 사기 피해가 의심되거나 실제로 금전 피해를 입었을 경우, 즉시 경찰청(112), 금감원(1332), 금융회사(콜센터)에 피해 신고와 지급 정지를 요청해야 한다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>민중기 김건희 특검 “논란 많은 사건 객관적으로 봐야”</title>
+      <link>https://www.chosun.com/national/court_law/2025/06/13/JAKJVDJ455G3BEMGTHSMWFVM7Q/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/13/JAKJVDJ455G3BEMGTHSMWFVM7Q/</guid>
+      <dc:creator>유희곤 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 13 Jun 2025 00:52:40 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QC2KRLS54FP35DU7D62KYE3MU4.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;민중기 특별검사/ 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘김건희와 명태균·건진법사 관련 국정농단 및 불법 선거 개입 사건 등 진상 규명을 위한 특별검사’에 지명된 민중기 특별검사가 13일 “사회적으로 논란이 많이 된 사건은 객관적으로 바라봐야 한다”고 했다.&lt;br&gt;&lt;br&gt;민 특검은 이날 서울 서초동 변호사 사무실에서 취재진에게 “제가 맡게 된 사건이 여론을 통해서 여러 의문이 제기되었던 것으로 알고 있다. 먼저 사실 관계와 쟁점을 파악하고 사무실을 준비해야 할 것 같다”며 이같이 말했다.&lt;br&gt;&lt;br&gt;민 특검은 특검보 인선, 사무실 구상 등에 대해 “아직 임명장도 받기 전”이라면서 “빨리 알아봐야 하고, 사무실은 여러 사람이 근무해야 하기 때문에 교통이 불편하지 않은 곳이 되지 않을까 싶다”고 했다.&lt;br&gt;&lt;br&gt;정치적으로 편향됐다는 일부 지적에 대해서는 “저는 그렇게 생각하지 않지만 (다른 사람의 평가를) 제가 어떻게 할 수 있는 것은 아니다”라고 했다.&lt;br&gt;&lt;br&gt;민 특검은 판사 출신으로 문재인 정부였던 2018년 2월부터 2021년 2월까지 3년간 서울중앙지법원장을 지냈다. 서울고법 부장판사였던 2017년 11월에 ‘사법부 블랙리스트 의혹’의 추가 조사위원회 위원장을 맡아 사법행정권 남용 사건 조사를 주도했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/CK2M5C37BUCF5WWPTD2BMFQLOE.jpg?auth=c03e7b82c1c89ce5082d1e4a102c226723389a63dbb4a91fb4bc053bbece737d&amp;smart=true&amp;width=640&amp;height=824" type="image/jpeg" height="824" width="640">
+        <media:description type="plain">의원 질의에 답하는 민중기 서울중앙지법원장</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>도주하던 무면허 불법체류자… 붙잡은 경찰, 알고 보니 ‘프로 복서’</title>
+      <link>https://www.chosun.com/national/national_general/2025/06/13/ZB6366JPGFGFBJTZIYH3S2CTXA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/13/ZB6366JPGFGFBJTZIYH3S2CTXA/</guid>
+      <dc:creator>박선민 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 13 Jun 2025 01:33:20 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QV4OBTKFHW5HNXBKJN2N7KAE4I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;복싱 훈련 중인 수원서부경찰서 경비교통과 소속 조여훈 경사(34). /경기남부경찰청 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;무면허 운전을 하다 교통 단속에 적발되자 줄행랑을 치던 불법 체류자가 프로 복서 경찰에게 바로 붙잡히는 일이 벌어졌다. &lt;br&gt;&lt;br&gt;13일 경기남부경찰청에 따르면, 지난 4월 18일 오후 5시 30분쯤 수원시 권선구 구운사거리의 횡단보도에서 우회전 일시 정지 위반 차량이 경찰 단속에 적발됐다.&lt;br&gt;&lt;br&gt;당시 경찰은 우즈베키스탄 국적의 20대 운전자 A씨에게 운전면허증 제시를 요구했으나, A씨는 외국인 등록증을 꺼내 보였다. &lt;br&gt;&lt;br&gt;그런데 외국인 등록증 속 얼굴 사진과 실제 A씨 모습이 달랐다. 이에 경찰이 추궁하자, A씨는 당황한 듯 얼버무리며 “잠시만 기다려보라”고 하더니 돌연 달아나기 시작했다. 불법 체류자 신분이었던 것이다. 체류 기간이 만료된 데다 무면허 상태였으며, 경찰에 제시한 외국인 등록증 역시 타인 명의였던 것으로 확인됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Z7WNCZGJC5D3RFA6LEC3MIZVOI.gif"&gt;&lt;figcaption&gt;&lt;small&gt;조 경사가 무면허 운전을 하던 불법체류자를 추격한 뒤 제압하고 있다. /경기남부경찰청 유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;갑작스러운 A씨의 도주에 자동차 도로 한가운데에서는 추격전이 벌어졌다. 다만 A씨는 약 150m 만에 경찰에게 바로 붙잡혔다. 경기남부경찰청 유튜브 채널을 통해 공개된 당시 영상을 보면, 경찰은 삽시간에 A씨를 따라잡고 뒤에서 제압했다. 결국 A씨는 출입국관리법 위반 등 혐의로 현행범 체포됐다. &lt;br&gt;&lt;br&gt;A씨를 검거한 경찰은 프로 복서였다. 수원서부경찰서 경비교통과 소속 조여훈(34) 경사로, 2015년 경찰관이 된 후 꾸준히 복싱 훈련을 해 2019년 프로로 입문했다고 한다. 조 경사는 사단법인 한국권투협회(KBA) 라이트급(61㎏) 랭킹 3위까지 기록했으며, 2022년 세계 경찰소방관대회 복싱 부분에 출전해 금메달을 획득하기도 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TL6KCZYD2IEBUSQ54AFM3ULWTY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;복싱 훈련 중인 수원서부경찰서 경비교통과 소속 조여훈 경사. /경기남부경찰청 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰특공대에서 근무해 온 조 경사는 작년 수원서부경찰서로 자리를 옮겼다. 경찰 관계자는 “조 경사는 프로로 입문할 정도로 복싱 실력이 뛰어나며, 강인한 체력을 가진 최고의 동료 경찰관”이라며 “영어 실력 또한 출중해 외국인 단속 현장에서 제 역할을 해줄 때가 많다”고 했다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>덥고 습한 주말...전국에 비 “제주 최대 250㎜ 이상"</title>
+      <link>https://www.chosun.com/national/transport-environment/2025/06/13/J646HMRP3RBKVACG3LFHCQ2COA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/06/13/J646HMRP3RBKVACG3LFHCQ2COA/</guid>
+      <dc:creator>정해민 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 13 Jun 2025 01:11:32 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/L2OFXWM3BJLHJISWIFHTIRB3MI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 16일 서울역 일대에 강한 비가 내리고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;주말 전국이 흐린 가운데, 낮 최고 기온이 30도 안팎으로 오르고 비가 내리는 등 덥고 습한 날씨가 이어지겠다.&lt;br&gt;&lt;br&gt;13일 기상청은 “토요일인 14일은 수도권 중심으로, 일요일인 15일은 전국 내륙 중심으로 기온이 30도 안팎으로 오르겠다”고 밝혔다. 14일 아침 최저 기온은 18~22도, 낮 최고 기온은 23~30도, 15일 아침 최저 기온은 19~22도, 낮 최고 기온은 24~32도로 예보됐다.&lt;br&gt;&lt;br&gt;이날 오전부터 전북과 제주도에, 늦은 오후부터 충남권과 경북권 남부에, 밤부터 수도권과 충북, 경북 북부에 비가 내리겠다. 14일 새벽부터는 그 밖의 전국으로 비가 확대돼 내리다가 밤에 대부분 그치겠다.&lt;br&gt;&lt;br&gt;13~14일 예상 강수량은 경기 남부 5~40㎜, 서울·인천·경기 북부·서해5도 5~20㎜, 강원도 5~20㎜, 대전·충남 남부·충남 북부 10~60㎜, 세종·충남 북부·충북 중북부 5~40㎜, 광주·전남 30~80㎜(전남 남해안 120㎜ 이상), 전북 10~60㎜, 부산·울산·경남 30~80㎜(경남 남해안 120㎜ 이상, 지리산 부근 100㎜ 이상), 대구·경북 20~80㎜, 울릉도·독도 10~60㎜, 제주도 50~120㎜(많은 곳 180㎜ 이상, 산지 250㎜ 이상)&lt;br&gt;&lt;br&gt;15일 오전에 제주도에서 비가 다시 시작돼 오후부터 중부 지방과 전라권에, 밤부터 경상권에 비가 내리겠다. 예상 강수량은 서울·인천·경기·서해5도 5~30㎜, 강원도 5~20㎜, 세종·대전·충남 5~30㎜, 충북 5~20㎜, 광주·전남·전북 5~30㎜, 부산·울산·경남·대구·경북 5~20㎜, 제주도 5~30㎜.&lt;br&gt;&lt;br&gt;기상청은 “제주도는 13일 밤부터 14일 오전 사이, 남해안과 지리산 부근은 13일 늦은 밤부터 14일 오전 사이 돌풍과 함께 천둥·번개를 동반한 시간당 30~50㎜의 매우 강한 비가 내리는 곳이 있겠다”며 “그 밖의 남부지방과 충청권은 13일 늦은 밤부터 14일 오전 사이 시간당 10~30㎜의 강한 비가 내리는 곳이 있겠으니 각별히 유의하기 바란다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>이명현 순직 해병 특검 “억울한 죽음 실체적 진실 규명하겠다”</title>
+      <link>https://www.chosun.com/national/court_law/2025/06/13/PZ4Y7NX7TFBOJLVGX4RUJSMV64/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/13/PZ4Y7NX7TFBOJLVGX4RUJSMV64/</guid>
+      <dc:creator>유희곤 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 13 Jun 2025 00:25:25 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/R54MPJ5RQ5FCNKGGWQGGTYYPQM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이명현 순직 해병 특별검사가 13일 “(고 채수근 상병의) 억울한 죽음에 대해서 ㅁ여백하게 실체적 진실을 규명하겠다”고 했다.&lt;br&gt;&lt;br&gt;이 특검은 이날 서울 서초동 변호사 사무실에서 특검에 임명된 소감에 대해 이같이 말했다.&lt;br&gt;&lt;br&gt;이 특검은 “23년 전에 병역비리 수사를 하면서 소신껏 열심히 했다”면서 “이번도 마찬가지로 외압에 상관없이 억울한 죽음에 대해 진실을 명백히 밝히도록 하겠다”고 했다.&lt;br&gt;&lt;br&gt;4명을 임명해야 하는 특검보 인선에 대해서는 “지금부터 찾아야 한다”면서도 “박정훈 대령의 변호인들이 예전에 근무했던 후배들인데 그 분들이 선발되면 좋을 것”이라고 했다. 수사 난도에 대해서는 내란 특검, 김건희 특검에 비해 순직 해병 특검이 “쉬울 거라고 본다”고 하기도 했다.&lt;br&gt;&lt;br&gt;이 특검은 “대통령실, 국방부 등이 (윤 대통령·김용현 전 국방부 장관 등의) 통화내역이 다 나왔는데도 부인하고 있는 것으로 안다”면서 “어느 한쪽이이라도 먼저 사실 관계를 시인한다면 나머지 (수사는) 쉽게 돌아갈 것”이라고 했다.&lt;br&gt;&lt;br&gt;이 특검은 군법무관 출신으로 합동참모본부 법무실장, 국방부 검찰단 고등검찰부장 등을 지냈고 2002년 이회창 전 한나라당 총재의 장남 병역 비리 의혹을 수사했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>보아 모욕 낙서 쓴 용의자, 경찰 체포돼…CCTV 속 모습 보니</title>
+      <link>https://www.chosun.com/national/national_general/2025/06/13/JE53NSWT2NGORKQGJXUMXCYZCA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/13/JE53NSWT2NGORKQGJXUMXCYZCA/</guid>
+      <dc:creator>이가영 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 13 Jun 2025 00:22:06 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/R2X45PFJCZBCZGJAI2ATYZXR6I.png"&gt;&lt;figcaption&gt;&lt;small&gt;지난 5일 서울 강남구 한 거리를 지나던 단발머리 여성이 보아를 모욕하는 낙서를 적는 모습이 CCTV에 포착됐다. /채널A&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 시내 곳곳에 가수 보아를 모욕하는 낙서를 쓴 용의자가 경찰에 붙잡혔다. &lt;br&gt;&lt;br&gt;13일 서울 강남경찰서에 따르면 전날 오후 10시 30분쯤 재물손괴와 모욕 혐의로 30대 여성 A씨를 임의동행해 범행 동기와 경위 등을 조사했다. &lt;br&gt;&lt;br&gt;A씨는 서울 강남구와 광진구, 강동구 일대의 대중교통 정류장과 전광판 10여 곳에 모욕성 낙서를 한 혐의를 받는다. &lt;br&gt;&lt;br&gt;경찰은 “방범카메라(CCTV) 등을 추적해 신원을 특정해 검거했다”며 A씨에 대해 낙서 경위와 이유 등을 조사할 계획이다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AODMEVUSP5AIPBDSTDZGK2VVU4.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;가수 보아. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;채널A는 지난 5일 용의자가 서울 강남구 거리에서 보아 모욕 낙서를 하는 모습이 담긴 영상을 공개했다. 손가방을 메고 단발머리를 한 여성은 길을 가다 멈춰서서 펜을 들고 낙서를 했다. 지나가던 사람들이 이 모습을 쳐다보았지만 아랑곳하지 않았다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2UIKIVIXJZD4XF44PZF4FVEZY4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;가수 보아를 모욕하는 문구가 적힌 전광판(왼쪽)을 발견한 팬이 낙서를 지웠다고 밝혔다. /X(옛 트위터)&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;팬들은 경찰, 구청, 소속사 SM엔터테인먼트에 신고한 뒤 낙서를 직접 지웠다. 아세톤으로 낙서를 지우다가 까맣게 변한 손 사진을 온라인에 올리기도 했다. &lt;br&gt;&lt;br&gt;용의자를 경찰에 신고한 SM 측은 “허위 사실을 게시함으로써 소속 아티스트의 인격과 명예를 훼손하는 행위, 아티스트를 공연히 비방할 목적으로 모욕하는 행위는 명백한 범죄 행위”라며 “당사는 이러한 범죄 행위에 대해 어떠한 선처 없이 원칙대로 강경하게 대응할 것”이라고 밝혔다. &lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/R2X45PFJCZBCZGJAI2ATYZXR6I.png?auth=4f26a0f97e0cb19354bfc3cd7f46167dc4e68ab20aeaa32336b5305918445f58&amp;smart=true&amp;width=527&amp;height=316" type="image/png" height="316" width="527">
+        <media:description type="plain">지난 5일 서울 강남구 한 거리를 지나던 단발머리 여성이 보아를 모욕하는 낙서를 적는 모습이 CCTV에 포착됐다. /채널A</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>경의중앙선 일부 운행 중단…“사다리차 선로에서 넘어져”</title>
+      <link>https://www.chosun.com/national/transport-environment/2025/06/13/YMOZ26LRQBCD3K6POHYJ52RKEY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/06/13/YMOZ26LRQBCD3K6POHYJ52RKEY/</guid>
+      <dc:creator>김아사 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 13 Jun 2025 00:06:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SDDS5CN6E5OAZEPHEP7SSP6YJU.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;13일 오전 경의중앙선 신촌역 인근에서 사다리차 전도사고가 발생해 가좌역~신촌역 구간이 양방향 통제된 가운데 서울역행 경의중앙선 열차에 탑승한 승객들이 열차에서 내려 선로를 따라 대피하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;코레일은 13일 오전 8시19분쯤 경의중앙선 서울역~행신역 구간에서 전기 공급 장애가 발생했다고 밝혔다. 이는 외부업체 이삿짐 사다리차가 선로에서 넘어져 전기공급선을 접촉하면서 발생한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;이에 따라 해당 구간 KTX와 일반 열차 운행이 운영되지 않고 있다. 코레일 측은 “열차 이용 전 코레일톡 등을 확인 후 이용 해달라”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>하수도에 흐르는 필로폰·코카인… ‘이곳’서 특히 많이 나왔다 </title>
+      <link>https://www.chosun.com/national/national_general/2025/06/13/FPY2NW2XEZC37BBLY2BYEI7OWU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/13/FPY2NW2XEZC37BBLY2BYEI7OWU/</guid>
+      <dc:creator>박선민 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 13 Jun 2025 00:04:50 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NWQDPTXEDRH2ZDKW5GGBC2BEG4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;작년 9월 경찰이 외국인 마약 제조와 유통 조직에서 압수한 물품. /경기남부경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전국 생활하수 속 마약 잔류량이 4년 연속 감소했으나, 외국인 밀집 지역에서는 필로폰 사용 추정량이 전국 평균의 141%에 달하는 것으로 조사됐다. &lt;br&gt;&lt;br&gt;식품의약품안전처가 12일 공개한 ‘불법 마약류 사용 실태조사’ 결과에 따르면, 메트암페타민(필로폰)과 코카인 등 주요 불법 마약류의 합계 사용 추정량은 1000명당 일평균 기준 2020년 31.27㎎에서 2021년 30.57㎎, 2022년 23.85㎎, 2023년 20.30㎎, 작년 15.89㎎으로 4년 연속 감소했다. 전국 주요 하수처리장의 시료를 채취·분석한 결과다. &lt;br&gt;&lt;br&gt;다만 메트암페타민은 매년 조사된 모든 하수처리장 34곳에서 검출돼 마약 사범이 전국적으로 분포돼 있음을 시사했다. 마약 사범이 보통 필로폰 약 30㎎을 사용하는 것을 고려하면 작년 3000명당 1명이 필로폰을 사용한 것으로 추정된다.&lt;br&gt;&lt;br&gt;특히 지역별로 보면, 외국인 근로자가 많은 인천과 경기 시화에서 메트암페타민이 상대적으로 많이 사용된 것으로 나타났다. 작년 추가 조사한 외국인 밀집 지역(외국인 비율 6% 이상·외국인 근로자 500명 이상 지역) 12개 하수처리장의 메트암페타민 사용 추정량은 전국 평균 대비 약 141% 수준이었다. &lt;br&gt;&lt;br&gt;식약처는 “이는 외국인 마약 사범 증가 경향과 일치했다”고 짚었다. 대검찰청에 따르면, 외국인 마약 사범은 2022년 2573명에서 2023년 3151명, 작년 3232명으로 꾸준히 늘고 있다. 이에 따라 정부는 올해 경찰청·대검찰청 등으로 구성된 범정부 합동 단속반을 운영, 외국인 밀집 시설 등에 대한 집중 단속을 펼쳐 외국인을 통한 불법 마약 사용 확산을 막을 계획이다.&lt;br&gt;&lt;br&gt;불법 마약류의 합계 사용 추정량이 줄어든 건 각종 대체 마약 사용이 급증한 영향이라는 시각도 있다. 이에 식약처는 분석 대상 성분을 불법 마약류 15종에서 의료용 및 신종 마약류를 포함한 200여 종으로 확대하고, 분석 결과를 바탕으로 ▲ 국내 유입 여부 ▲ 사용 추세 변화 분석 ▲ 임시 마약류로 지정되지 않은 물질에 대한 신속한 조치 등 적극적으로 대응할 예정이다. &lt;br&gt;&lt;br&gt;또 유동 인구가 많은 도시는 배수 분구 중 10개 이상 지점에서 추가로 채수하고 마약 성분이 검출되는 경우 관련 건물 정화조 등에서 추가로 채수해 추적성을 높일 계획이다. &lt;br&gt;&lt;br&gt;이외에도 마약류 중독자가 방문하는 의료기관과 연계해 특정 요인에 노출된 동일 특성 보유 집단을 대상으로 하는 코호트 연구를 진행하고, 데이터사이언스를 접목해 하수역학 데이터와 사회인구학적·경제학적 데이터의 상관관계를 분석하고 마약류 사용 지역 분포도 추정한다.&lt;br&gt;&lt;br&gt;오유경 식약처장은 “전국 하수처리장 모두에서 5년 연속 불법 마약류가 검출됐다는 것은 결코 방치할 수 없는 심각한 문제”라며 “온 국민이 한마음으로 불법 마약 사용 근절에 나서고 정부도 경각심을 갖고 단호하게 대처할 수 있는 실효성 있는 방안을 계속 찾아나갈 것”이라고 했다. &lt;br&gt;&lt;br&gt;한편 하수처리장 시료 분석은 실제로 사용되는 마약류의 종류 등을 파악할 수 있어 호주와 유럽연합(EU) 등에서도 활용 중인 조사 기법이다. 시료에서 마약류가 발견됐다면 누군가 화장실에서 마약을 버렸거나, 마약 복용자의 대소변으로 배출된 잔류 마약류가 검출됐을 가능성이 크다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>[속보] 조은석 내란 특검 “사초 쓰는 자세로 수사논리 따라 직 수행”</title>
       <link>https://www.chosun.com/national/court_law/2025/06/13/DXVHXJH45NEK5OE2FLHD6SXD2U/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/13/DXVHXJH45NEK5OE2FLHD6SXD2U/</guid>
@@ -764,15 +914,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ODTFJ4MVQBO3UZ3RDFQY4U5QRI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;가수 겸 방송인 은지원./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;가수 겸 방송인 은지원(47)이 이혼 13년 만에 비연예인과 재혼한다.&lt;br&gt;&lt;br&gt;소속사 YG엔터테인먼트 관계자는 12일 “은지원은 최근 웨딩 사진을 촬영했고, 올해 중 가까운 친지분들과 조용히 식을 올릴 예정”이라며 “따뜻한 시선으로 지켜봐 주시면 감사하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;예비 신부는 비연예인으로, 은지원은 결혼 전반 준비에 걸쳐 상대의 외부 노출이나 부담을 덜어주기 위해 신경 쓰고 있는 것으로 전해졌다.&lt;br&gt;&lt;br&gt;은지원은 그간 방송에서 여러 차례 재혼 의사를 밝힌 바 있다. 지난해 방송된 SBS 예능 프로그램 ‘미운 우리 새끼’에서 재혼 의사가 있냐고 묻자 “난 결혼 생각이 있다고 매번 이야기한다. 아버지도 떠나보내고, 어머니도 혼자 계시다 보니 어머니가 ‘슬슬 결혼해야 하지 않냐’고 하시더라”고 말했다.&lt;br&gt;&lt;br&gt;올해 방송된 KBS2 예능 ‘살림하는 남자들2’에서도 젝스키스 고지용, 장수원과 대화 중 “(재혼을) 하긴 해야 한다. 이러다 진짜 고독사할 수도 있다”라며 “(아이를 낳으면) 난 방송 안 한다. 모든 활동 중단할 것”이라고 밝히기도 했다.&lt;br&gt;&lt;br&gt;은지원은 2010년 두 살 연상의 사업가와 결혼했지만, 약 2년 만인 2012년 합의 이혼했다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>부산 2호선 해운대역 변전소에 연기…67분간 11대 무정차 통과</title>
-      <link>https://www.chosun.com/national/regional/2025/06/12/IJXCSWBN5RFC7EZZT646XY6USU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/06/12/IJXCSWBN5RFC7EZZT646XY6USU/</guid>
-      <dc:creator>부산=김주영 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 12 Jun 2025 01:25:59 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WHF3GA5IKNY3Q7RYOTUHG5Y3LQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산 금정구 부산교통공사 노포차량기지에 열차가 오가고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;12일 오전 5시 13분쯤 부산 해운대구 도시철도 2호선 해운대역 내 변전소에서 연기가 발생해 해운대역을 지나는 열차 11대가 무정차 통과했다.&lt;br&gt;&lt;br&gt;부산교통공사에 따르면 이날 변전소 내 전력 품질 유지를 위한 장치인 AC 필터에서 연기가 발생하면서 이산화탄소(CO2) 소화기가 자동으로 분사됐다.&lt;br&gt;&lt;br&gt;공사 측은 폐쇄회로(CC)TV로 이런 상황을 확인하고 화재 징후는 없다고 판단했지만, 역사 내 이산화탄소 농도 변화를 우려해 오전 5시 45분부터 오전 6시 52분까지 67분간 해운대역을 지나는 열차 11대를 무정차 통과시켰다.&lt;br&gt;&lt;br&gt;CO2 소화약제는 산소 농도를 떨어뜨려 불을 끄는 질식 소화 방식으로, 소화 약제가 분사될 경우 위험을 대비해 승객 출입이 제한되는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;이 기간 열차가 왜 운행하지 않는 지 등을 묻는 시민 문의는 6건 접수됐다.&lt;br&gt;&lt;br&gt;부산교통공사 관계자는 “변전소 내에서 소화 약제가 분사된 것으로, 승객이 이용하는 공간과는 분리돼 있었지만 만일을 대비해 일시적으로 무정차 통과하도록 했다”면서 “정확한 연기 발생 원인에 대해서는 조사하고 있다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>李대통령 가족 겨냥 “일거 척결” 테러글 올린 50대 男 검거</title>
       <link>https://www.chosun.com/national/incident/2025/06/12/VEGHEQ4XZNFFTKFUEKDPL24G3E/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/06/12/VEGHEQ4XZNFFTKFUEKDPL24G3E/</guid>
@@ -780,53 +921,6 @@
       <description/>
       <pubDate>Thu, 12 Jun 2025 00:58:18 +0000</pubDate>
       <content:encoded>서울 성북경찰서는 “이재명 대통령 가족을 테러하겠다”는 내용의 게시글을 올린 50대 남성 A씨를 지난 11일 검거했다고 밝혔다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QLK47SI7NCQ66R2ODDXATDIDR4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 성북경찰서 /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;A씨는 앞서 지난 9일 소셜미디어 스레드에 오는 주말 결혼식을 올릴 예정인 이 대통령 장남 동호(33)씨의 결혼식 장소인 서울 성북구 한옥 예식장 삼청각 지도 이미지와 예식 일시, ‘일거에 척결’이라는 문구를 적었다.&lt;br&gt;&lt;br&gt;경찰은 지난 10일 이 같은 내용의 게시글이 전날 스레드에 올라왔다는 신고를 접수하고, 작성자 추적을 위해 서울북부지법에 해당 소셜미디어 측을 상대로 압수수색 영장을 신청했다.&lt;br&gt;&lt;br&gt;이어 경찰은 지난 11일 이 글을 올린 A씨를 공중협박 혐의로 검거했다. A씨는 조사 과정에서 혐의를 모두 인정했으나 “실제 실행 의사는 없었다”고 진술하는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>연봉 아무리 높아도 안 간다... MZ 직장인이 원하는 회사는</title>
-      <link>https://www.chosun.com/national/national_general/2025/06/12/CLWUA6TFYFHWFHZPOKP4VKGPWY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/12/CLWUA6TFYFHWFHZPOKP4VKGPWY/</guid>
-      <dc:creator>정아임 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 12 Jun 2025 00:25:46 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OEYXLUXKQ2TGS76YN7DUXZLJW4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 청계천에서 점심시간 직장인 및 관광객들이 산책을 하고 있다.뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;MZ세대(밀레니얼+Z세대) 직장인들이 직장을 선택할 때 높은 연봉보다 ‘도덕성’과 ‘공정성’을 중요한 가치로 생각하는 것으로 나타났다. &lt;br&gt;&lt;br&gt;11일 잡코리아 콘텐츠LAB이 20~40대 직장인 1252명을 대상으로 ‘연봉이 높아도 다니고 싶지 않은 회사’를 주제로 설문조사를 실시했다. &lt;br&gt;&lt;br&gt;그 결과, 34.5%가 ‘부도덕한 관리자나 임원이 있는 회사’에는 아무리 연봉이 높아도 이직이나 취업을 고려하기 어려울 것이라고 답했다. 이 같은 응답은 40대 이상(30.8%)보다 20대(36.4%)와 30대(34.5%) 직장인이 더 높게 나타났다. &lt;br&gt;&lt;br&gt;이어 ‘나와 맞지 않는 회사의 운영 방식 및 가치관(33.9%)’, 공정하지 않은 보상 체계(30.6%), 방향성 없는 업무 지시(25.6%), 무기력한 사내 분위기(15.4%) 등이 지목됐다. 연봉 수준보다도 공정과 일하는 방식에 더 큰 가치를 두는 직장인이 많다는 것으로 풀이된다. &lt;br&gt;&lt;br&gt;‘직장 내 추구 가치’를 묻는 말에는 전 세대 공통으로 ‘워라밸(일과 삶의 균형)’을 50.3%로 가장 중요한 가치로 꼽았다. 특히 2030 절반 이상이 워라밸을 최우선으로 여긴다고 답했다. &lt;br&gt;&lt;br&gt;변지성 잡코리아 콘텐츠마케팅 팀장은 “이제는 어떤 사람들과 어떤 분위기 속에서 어떤 가치를 공유하며 일하는지가 중요한 시대”라며 “단순히 회사의 이름값과 좋은 처우만 좇는 것이 아니라 조직의 가치관과 방향성, 개인의 성장 가능성까지 고려하는 직장인이 많아진 만큼 기업도 인사와 조직 문화 측면에서 더 심도 있는 고민을 동반해야만 인재 유치 경쟁력을 확보할 수 있을 것”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>분리배출한 즉석밥 용기, 저품질 재활용되거나 불태워져</title>
-      <link>https://www.chosun.com/national/transport-environment/2025/06/12/Q2XBE7EP4ZGLVKI7AKJENEEAMY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/06/12/Q2XBE7EP4ZGLVKI7AKJENEEAMY/</guid>
-      <dc:creator>박상현 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 12 Jun 2025 01:00:00 +0000</pubDate>
-      <content:encoded>1인 가구 증가와 간편식 선호로 즉석밥 소비가 늘고 있지만, 버려진 즉석밥 용기는 대부분 저(低)품질 재활용되거나 불태워지는 것으로 나타났다. 즉석밥 특성상 유통, 보관, 가열을 위해 여러 소재가 섞여 있어 양질의 재활용이 어렵기 때문이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/C24LLXRNDNIIJMRTIVYSWAWG2Q.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;/뉴스1
-&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;12일 국민의힘 임이자 의원이 환경부에서 받은 자료에 따르면, 작년 한 해 우리나라에서 발생한 폐플라스틱 1463만t 중 즉석밥 용기를 비롯한 ‘기타합성수지’는 43만8156t으로 집계됐다. 기타합성수지란 플라스틱 등 여러 재질이 섞여 만들어졌다는 뜻이다.&lt;br&gt;&lt;br&gt;이중 즉석밥 용기 비율은 따로 집계된 적이 없지만, 재작년 기준 ‘햇반’이 하루 23만 3000여개, 연간 약 8.5억개가 판매됐고 개당 포장재 무게(17.5g)를 감안할 때 연 1만4875t 분량의 폐플라스틱이 나온 것으로 추산된다. 25t 쓰레기차 595대 분량이다. 다른 즉석밥 브랜드까지 합하면 그 양은 더 많아지는 셈이다.&lt;br&gt;&lt;br&gt;즉석밥 용기는 95%의 PP(폴리프로필렌), 5%의 산소차단필름(EVOH)으로 구성돼 있다. 복합재질이라서 수거하더라도 다시 원래 용도로 고품질 재활용은 불가능하다. 이에 버려진 즉석밥 용기는 대부분 플라스틱 깔판, 건축자재 등으로 재활용되거나 불태워지고 있다. 비싼 플라스틱이 값싼 플라스틱으로만 재활용되는 것이다. EVOH만 따로 분리해내기 어렵고, 분리 작업에 비용도 많이 들어 경제성이 떨어지기 때문이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2PMA7HUGNNDMZJUZ23PDLWRGDE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/하림&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;즉석밥 용기의 재활용성을 높이는 것은 우리나라뿐만 아니라 각국에서도 난제로 꼽힌다. 폐플라스틱 대책에 즉석밥 용기를 포함시키고, 생산자책임제도(EPR)를 강화해 단일재질, 대체용기 개발 등을 유도하고 있지만 ‘식품 포장’이라는 원래 기능을 저해할 수 있어 손대기가 어려운 것이다.&lt;br&gt;&lt;br&gt;유럽연합(EU)에선 강경책을 꺼내 들었다. ‘에코 디자인(Eco-design)’ 정책을 통해 애초 재활용이 어려운 제품은 생산하지 못하도록 하는 것이다. 포장재의 소재, 내구성, 수리 용이성, 재활용성 등 제품을 내놓을 때부터 환경을 생각하라는 취지다. EU가 정한 기준을 충족하지 못하면 유럽으로 수출을 못 하거나, 관세가 높게 부과돼 가격 경쟁력이 떨어지게 된다. 올해부터 품목별로 ‘에코 디자인’ 정책이 순차 시행될 예정이어서, 유럽 기업들은 재활용성을 높인 즉석밥 용기 개발이 한창이다.&lt;br&gt;&lt;br&gt;반면 우리나라는 환경부가 즉석밥 용기를 비롯해 재활용성이 낮은 플라스틱 혼합재질 제품을 전환하는데 대응이 더디다는 지적이 나온다. 당장 EU의 에코 디자인 정책이 국내 수출 기업들에 무역장벽이 될 수 있는 데도 정부가 친환경 포장재 전환에 대한 구체적 지원이나 대비, 계획이 없다는 것이다. 환경부가 ‘한국형 에코 디자인’ 정책을 설계해 친환경 포장재 전환에 속도를 내야 한다는 지적도 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/S2MMMHQIB5AR7GSZJM6PKJIKVQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;임이자 국민의힘 의원. /박성원 기자
-&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;임이자 의원은 “우리가 먼저 친환경 전환에 속도를 내지 않으면 우리 기업들이 EU가 정한 기준에 종속되는 결과를 낳게 될 것”이라며 “즉석밥 용기의 재활용성을 어떻게 높여갈 수 있을지 정부와 기업들이 머리를 맞대야 한다”고 했다. 환경부 관계자는 “EU가 에코 디자인 정책을 어떻게 펼쳐나가는지 주시하고 있다”며 “국내 기업들이 피해를 보지 않도록 관련 대책을 내놓을 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>BTS 정국 전역 당일 자택침입 시도한 중국인 여성 체포</title>
-      <link>https://www.chosun.com/national/national_general/2025/06/12/U4KV6PIB6NHBRIMB6M7GQ3H7HQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/12/U4KV6PIB6NHBRIMB6M7GQ3H7HQ/</guid>
-      <dc:creator>김명일 기자, 구아모 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 12 Jun 2025 00:44:35 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RCF3M54UJBCFRYFQCKJKMEG2LA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;방탄소년단(BTS)의 정국(왼쪽)과 지민이 11일 오전 경기도 연천군 연천공설운동장에서 군복무를 마친 뒤 전역 인사를 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;방탄소년단(BTS) 멤버 정국이 육군 병장으로 만기 전역한 당일 밤, 그의 자택에 침입을 시도한 30대 중국인 여성이 경찰에 체포됐다.&lt;br&gt;&lt;br&gt;12일 경찰 등에 따르면 서울 용산경찰서는 BTS 정국이 제대한 당일인 전날 오후 11시 20분쯤 용산구에 있는 정국의 자택을 찾아가 현관 비밀번호를 여러 번 누르며 침입을 시도한 혐의(주거침입 미수)로 30대 중국인 여성 A씨를 현행범으로 체포했다.&lt;br&gt;&lt;br&gt;신고는 인근 시민이 한 것으로, 정국이나 소속사 측이 피해 당사자는 아닌 것으로 알려졌다. A씨는 경찰에서 “전역한 정국을 보기 위해 한국에 왔다”고 진술한 것으로 전해졌다. 경찰은 A씨의 입국 경위와 체류 자격 등도 함께 조사 중이다.&lt;br&gt;&lt;br&gt;정국은 2023년 12월 육군 현역으로 입대해 5사단 포병여단에서 복무했으며, 전날 경기도 연천군 공설운동장에서 열린 만기 전역 기념 행사에 같은 그룹 멤버 지민과 함께 참석해 팬들과 인사를 나눴다.&lt;br&gt;&lt;br&gt;정국 소속사 하이브 측은 조선닷컴에 “현재 경찰에서 조사 중인 상황이라 자세한 내용을 설명드리기 어렵다”고 했다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>제주 장마 시작…주말 전국에 비</title>
-      <link>https://www.chosun.com/national/transport-environment/2025/06/12/IIL4PEPMNNBV5ECWSJO5XYDNJI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/06/12/IIL4PEPMNNBV5ECWSJO5XYDNJI/</guid>
-      <dc:creator>박상현 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 12 Jun 2025 00:35:39 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/U6IJ54KXV2WE7SRRZ64MCRDQ7Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;작년 6월 말 제주시 구좌읍 송당리 동쪽송당 동화마을 수국정원에서 관광객들이 우산을 쓰고 산책하고 있는 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정체전선(장마전선)이 제주 남쪽 해상까지 올라오며 12일 제주에 장마가 시작됐다. 정체전선은 13일 물러나겠으나, 또 다른 비구름대가 만들어지며 13일은 제주·남부지방, 14일에는 전국에 비가 예고됐다.&lt;br&gt;&lt;br&gt;기상청에 따르면, 정체전선은 12~13일 제주에 비를 뿌린 뒤 13일 동쪽으로 빠져나갈 전망이다. &lt;br&gt;&lt;br&gt;그러나 우리나라 부근까지 세력을 넓힌 북태평양고기압과 중국 상하이 쪽에서 다가오는 기압골 사이로 고온다습한 남풍(南風)이 불어오면서 또 다른 비구름대가 형성될 것으로 보인다.&lt;br&gt;&lt;br&gt;이 비구름대는 점차 북상하면서 13일 제주와 남부지방, 14일에는 전국에 비를 뿌리겠다. 남부지방과 중부지방에 내리는 이번 비는 정체전선에 의한 비는 아니어서, 남부·중부에는 장마 선언이 되지는 않을 것으로 보인다.&lt;br&gt;&lt;br&gt;13일부터 이번 주말까지 예고된 비는 대만 동쪽에 위치하던 거대한 수증기 덩어리인 ‘열대 요란’, 중국 내륙으로 북상 중인 1호 태풍 ‘우딥’, 그리고 정체전선이 복합적으로 영향을 미치면서 형성된 비구름에 의한 것이다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ULF55MUTRFIYRJC3WJK3OFWS6U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;낮 최고 기온이 29.8도까지 오른 지난 11일 전북 전주시 완산구 효자동 이동노동자쉼터 앞에서 이동노동자들이 생수를 마시고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;예상 강수량은 제주도(12~14일) 50~200㎜, 영남·호남·충청권(13~14일) 10~80㎜, 수도권·강원도(14일) 5~20㎜로 예보됐다.&lt;br&gt;&lt;br&gt;13일 밤부터 제주도는 시간당 20~40㎜의 매우 강한 비가, 14일 새벽부터 남해안과 지리산부근은 시간당 10~30㎜의 강한 비가 내리는 곳이 있겠다. 보통 시간당 15㎜ 이상이면 ‘많은 비’로 보고, 30㎜ 이상이면 ‘매우 많은 비’로 본다. 시간당 30㎜가 넘어가면 운전할 때 전방 시야를 확보하기 어려워진다.&lt;br&gt;&lt;br&gt;서울을 비롯한 중부지방은 14일 비가 내리기 전까지 더울 것으로 보인다. 13일 수도권과 강원내륙, 충북, 경북내륙을 중심으로 한낮 기온이 30도 이상으로 오르며 덥겠다. 13일 아침 최저기온은 15~20도, 낮 최고기온은 22~30도로 예보됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“저소득일수록 몸 청결하지 못해”…수영장 안내문 논란</title>
-      <link>https://www.chosun.com/national/national_general/2025/06/12/ETNSSCZOTVH47FPDPVQON37JUE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/12/ETNSSCZOTVH47FPDPVQON37JUE/</guid>
-      <dc:creator>김자아 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 12 Jun 2025 00:13:11 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MYWR7J2RNNAUHBUNTCFZF4PY5E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기도의 한 수영장에 붙은 안내문./온라인커뮤니티&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국내 한 수영장에 저소득층을 비하하는 문구가 담긴 안내문이 부착돼 논란이 일고 있다.&lt;br&gt;&lt;br&gt;12일 한 온라인 커뮤니티에는 경기도의 한 수영장에 붙은 이용 수칙 안내문 사진이 올라왔다.&lt;br&gt;&lt;br&gt;안내문에는 ‘수영장은 때를 미는 장소가 아닙니다’ ‘비누 샤워로 깨끗이 샤워 후 사용’ ‘수영 모자를 착용’ ‘사용 후 수영장 탁도가 당신의 소득 수준을 나타냅니다. (연구 논문) 저소득일수록 몸이 청결하지 못하다’ 등의 내용이 적혔다.&lt;br&gt;&lt;br&gt;작성자는 “경기도에 있는 모 사설 수영장이라고 하는데 충격적이다. 저렇게 노골적으로 가난을 혐오하다니. 사회 구석구석 이렇게 가난 혐오와 계급 배제가 스며있다”고 지적했다.&lt;br&gt;&lt;br&gt;온라인상에서는 수영장에서 수질 관리를 위해 때를 미는 행위를 금지하고 샤워 후 입수와 수영모 착용 등의 방침을 내세우는 것은 일반적이나, 차별과 혐오 표현을 안내문에 적은 점은 무례하다는 지적이 잇따랐다.&lt;br&gt;&lt;br&gt;네티즌들은 “수영장이 더러운 거랑 내 소득이랑 무슨 상관이냐” “저런 표현을 쓰는 건 이해되지 않는다” “샤워 안 하고 입수하는 사람들 많아서 저렇게 적은 것 같은데 표현이 과하다” 등의 반응을 보였다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>도쿄‧다낭 다 밀렸다…올여름 한국인 선호 여행지 1위는 ‘이곳’</title>
@@ -838,15 +932,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QVKTOJGLTB5QCCP7CLNJ62TPVY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;베트남 나트랑. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;올여름 이른 휴가를 떠나려는 수요가 늘고 있는 가운데, 동남아‧일본 등 단거리 여행지를 찾는 관광객이 증가한 것으로 나타났다. &lt;br&gt;&lt;br&gt;12일 여행 플랫폼 아고다에 따르면, 올해 6~7월 체크인 기준 숙소 검색 데이터를 바탕으로 대한민국 여행객이 선호하는 여행지를 분석한 결과, 베트남 나트랑이 1위로 나타났다. &lt;br&gt;&lt;br&gt;지난해 1위를 기록한 일본 도쿄는 올해 2위로 한 단계 내려왔다. 이어 일본 후쿠오카, 오사카, 베트남 다낭 순으로 집계됐다. &lt;br&gt;&lt;br&gt;아고다에 따르면 올해 상반기 한국인 여행객 수요가 집중된 여행지는 베트남과 일본이다. 고물가 기조가 이어지면서 비교적 물가가 싸고, 가까운 단거리 여행지를 선호하는 것으로 분석됐다. &lt;br&gt;&lt;br&gt;또 중국 칭다오와 상하이 검색량이 각각 212%, 207% 급증했다. 작년 11월 중국 정부의 한국인 대상 한시적 비자 면제 조치가 영향을 미친 것으로 보인다. &lt;br&gt;&lt;br&gt;국내 여행지로는 제주도가 가장 많은 검색량을 기록했다. 이어 서울, 부산, 속초, 강릉 순이다. 특히 속초와 강릉은 작년 말 동해선 개통 이후 교통 접근성이 개선돼 여름철 주요 휴가지로 주목받고 있다. &lt;br&gt;&lt;br&gt;아고다 관계자는 “올여름 극심한 폭염과 긴 장마가 예측됨에 따라 많은 여행객이 여름휴가 일정을 앞당겨 계획하는 것으로 나타났다”고 했다. 직장인 여름휴가가 집중되는 7월 말~8월 초 번잡함을 피할 수 있는 데다 숙소 비용이 성수기 대비 저렴해 경비를 아낄 수 있기 때문으로 풀이된다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>‘880억원대 부당대출’ 기업은행 전현직 직원 구속</title>
-      <link>https://www.chosun.com/national/court_law/2025/06/12/OB5DVDBIQRACVOFX5J6XUFNEZA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/12/OB5DVDBIQRACVOFX5J6XUFNEZA/</guid>
-      <dc:creator>김은경 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 11 Jun 2025 21:09:04 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Q53LKFQ74GUR4H3VOXJCMKMOGY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;수백억원대 부당대출 의혹을 받는 IBK기업은행 직원 조모씨(왼쪽)와 전 직원 김모씨가 11일 오전 서울 서초구 서울중앙지방법원에서 열린 구속 전 피의자 심문(영장실질심사)에 출석하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;882억원 규모 부당대출 의혹을 받는 IBK기업은행 전·현직 직원이 검찰의 두 차례 영장 청구 끝에 12일 구속됐다. &lt;br&gt;&lt;br&gt;박정호 서울중앙지법 영장 전담 부장판사는 전날 특정경제범죄 가중처벌법 위반(사기) 혐의를 받는 기업은행 직원 조모씨와 전 직원 김모씨에 대해 구속영장 실질 심사를 진행한 뒤 이날 새벽 “증거 인멸할 염려 및 도망할 염려가 있다”며 구속영장을 발부했다.&lt;br&gt;&lt;br&gt;앞서 금융감독원은 국책은행인 기업은행에서 882억원에 달하는 부당대출이 이뤄진 것을 적발하고 검찰에 수사를 의뢰했다.&lt;br&gt;&lt;br&gt;금감원에 따르면 기업은행 퇴직자 김씨는 차명으로 부동산 중개업소와 법무사 사무소를 운영하며 2017년 6월부터 7년간 51차례에 걸쳐 785억원의 부당대출을 받은 것으로 조사됐다. &lt;br&gt;&lt;br&gt;입행 동기나 사모임 등으로 친분을 쌓은 현직 간부 등 임직원 28명과 공모해 대출 관련 증빙이나 자금 부담 여력 관련 서류를 허위로 작성해 대출을 받았다. 검찰은 수사 과정에서 현 직원 조씨가 부당대출을 돕고 그 대가로 김씨에게 금품을 받은 정황을 포착한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;검찰은 지난 3월부터 서울 중구 기업은행 본점 등을 압수 수색한 뒤 4월 말 두 사람에 대한 구속영장을 청구했으나 당시 법원은 “방어권을 보장할 필요가 있다”며 기각했었다. 검찰은 범행 액수가 크고 최근 유사 사건 피의자에게 구속영장이 발부된 점을 고려해 한 달여 만에 구속영장을 다시 청구했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>서초동 법원판 ‘골 때리는 그녀들’... 女판사 30명 풋살팀 이름은?</title>
       <link>https://www.chosun.com/national/court_law/2025/06/12/7CRML2OY7NG5DD6X3ZEJI4A2XU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/12/7CRML2OY7NG5DD6X3ZEJI4A2XU/</guid>
@@ -854,51 +939,6 @@
       <description/>
       <pubDate>Wed, 11 Jun 2025 16:15:22 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DNTU7OVBP5BELPDTCRTUUIMH3Q.png"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=이철원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“풋살팀 회원을 모집합니다!”&lt;br&gt;&lt;br&gt;서울 서초동 서울중앙지법에 최근 풋살팀이 창설됐다. 같은 담 아래 모여 있는 서울중앙지법과 서울고등법원, 서울회생법원 구성원들이 두루 참여했다. 판사에서부터 재판연구원, 법원 사무직원, 법원 보안관리직원 등 직종 불문이다. 현재까지 모집한 인원은 30여 명. 이들의 공통점은 일부 간부를 제외하면 모두 여성이라는 점이다. 여성 풋살 예능 프로그램 콘셉트처럼 법원판 ‘골 때리는 그녀들’이 탄생한 것이다.&lt;br&gt;&lt;br&gt;풋살팀은 회칙 제정, 코치진과 임원진 구성 등을 마친 단계로, 이달 중순 첫 연습에 돌입한다. 오는 8월 팀 유니폼을 맞추고, 가을쯤 서울남부지법 소속 풋살팀과 시범경기를 펼칠 계획이다. 팀 회장을 맡은 중앙지법의 지은희(42) 판사는 2016년 취미로 축구에 입문했다. 지 판사는 “당시 근무지였던 수원지법에 여성 축구부가 있었는데, 판사로서는 제가 처음 가입했다”며 “그때 사무직 여성 계장님들, 전문위원분들과 공을 찼던 좋은 기억이 남아 서초동에서도 팀을 만들게 됐다”고 했다. 아직 미정이지만, 팀 이름은 ‘FC 정의구현’이 유력 후보라고 한다.&lt;br&gt;&lt;br&gt;여성 풋살팀 창단에는 법원 내부의 적극적인 지원이 있었다. 창단 초기 고등법원장과 수석부장판사 등을 알음알음 찾아가서 협조를 구했는데, 다들 흔쾌히 도움을 줬다고 했다. 지 판사는 “고법원장께선 ‘법원 운동장 놀려서 뭐 하느냐’며 바로 총무과에 전화해서 풋살팀이 운동장을 사용할 수 있도록 해줬고, 부장판사들도 ‘용기를 응원한다’며 자문위원을 자청해줬다”고 말했다. 풋살팀의 수석고문위원을 맡은 한 서울고법 부장판사는 “평소 축구도 좋아하고, 최근 몇 달간 법원 안팎으로 논란이 많았는데 법원 구성원들을 통합할 수 있는 좋은 취지라고 생각해 고문을 맡게 됐다”고 말했다.&lt;br&gt;&lt;br&gt;함께 땀 흘리며 유대감을 쌓아 업무 효율을 높여보자는 게 풋살팀의 목표다. 지 판사는 “한 팀이 돼 공을 패스하고 경기를 하면 팀원들과 정말 끈끈해진다”며 “그렇게 되면 다음에 업무적으로 만나게 돼도 훨씬 소통도 잘될 것”이라고 했다.&lt;br&gt;&lt;br&gt;아직은 요원하지만 이들에겐 꿈이 있다. 언젠가 법원 내 리그가 생겨 서초동 풋살팀이 우승을 거머쥐는 것이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[단독] 검사 중징계, ‘검찰개혁’ 文정부보다 尹정부때 더 많아</title>
-      <link>https://www.chosun.com/national/court_law/2025/06/12/LXGKT7ERZRGN5NKBBK7ZFDBYE4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/12/LXGKT7ERZRGN5NKBBK7ZFDBYE4/</guid>
-      <dc:creator>유희곤 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 11 Jun 2025 20:03:00 +0000</pubDate>
-      <content:encoded>윤석열 정부 3년 동안 중징계를 받은 검사 수가 문재인 정부 5년보다 많았던 것으로 11일 확인됐다. 더불어민주당은 윤석열 정부를 ‘검찰 독재’ 정권이라고 비판하며 검찰총장뿐 아니라 법무부 장관도 검사 징계를 청구할 수 있도록 하는 ‘검사 징계법’까지 개정했지만, 실제 ‘검찰 개혁’을 밀어붙였던 문재인 정부보다 윤석열 정부가 검사 비위에 더 엄격했던 셈이다.&lt;br&gt;&lt;br&gt;본지가 2017년 5월 문재인 정부 출범부터 지난달까지 8년간 관보에 게재된 검사 징계 처분 결과를 분석한 결과, 징계 처분을 받은 검사(중복 포함)는 문재인 정부 때 48명, 윤석열 정부 때 30명으로 연평균 약 10명 수준이었다. 검사 징계는 해임·면직·정직·감봉·견책 등이 있는데, 정직 이상을 중징계로 분류한다.&lt;br&gt;&lt;br&gt;3년 만에 끝난 윤석열 정부 때 중징계 처분을 받은 검사는 19명으로, 문재인 정부 5년의 18명보다 한 명 많은 것으로 조사됐다. 당초 문재인 정부 때도 중징계를 받은 검사는 19명이었으나, 이른바 ‘돈봉투 만찬’ 사건에 연루됐던 안태근 전 법무부 검찰국장이 징계 처분 취소 소송에서 승소해 징계 수위가 면직(2017년)에서 경징계인 감봉(2020년)으로 낮아지면서 1명이 적어졌다.&lt;br&gt;&lt;br&gt;가장 무거운 징계인 ‘해임’은 윤석열 정부 5명, 문재인 정부 2명이었다. 박은정 전 법무부 감찰담당관(현 조국혁신당 의원), 이성윤 전 서울고검장(현 더불어민주당 의원), 이규원 전 검사(현 조국혁신당 전략위원장) 등 정치적 중립성 문제가 불거졌던 인사들이 작년에 해임됐다. 채널A 사건과 관련해 KBS 기자들에게 허위 사실을 알린 신성식 전 수원지검장, 음주 운전이 적발된 김모 전 검사도 있었다.&lt;br&gt;&lt;br&gt;문재인 정부에선 2020년 술자리에서 여성 수사관에게 부적절한 신체 접촉을 한 마모 전 검사가, 2019년 음주 운전이 재차 적발된 김모 전 검사가 각각 해임됐다. 문재인 정부 때는 감사원이나 판사 출신이 법무부와 대검 감찰 업무를 맡았지만, 윤석열 정부는 계속 검사 출신이 이 역할을 맡아왔다는 게 차이점이다. 법조계 한 관계자는 “검찰은 제 식구더라도 조직에 해가 된다 싶으면 더 엄격하게 처분하는 편이고, 담당자도 수사 경험이 있는 검사 출신이 하는 게 더 효과적일 수 있다”고 말했다. &lt;br&gt;&lt;br&gt;한편 윤석열 정부에서 징계 처분을 받은 검사 30명을 사유별로 보면 직무 태만이 9명으로 가장 많았고, 다음이 음주 운전 5명이었다. 가장 최근에는 지난달 ‘라임 펀드 사건’ 핵심 관계자인 김봉현 전 스타모빌리티 회장에게 2019년 7월 술 접대를 받은 검사 3명이 정직 또는 견책 처분을 받았다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>한밤중 달려가 실명 위기 환자 구한 안과 의사</title>
-      <link>https://www.chosun.com/national/welfare-medical/2025/06/12/7IFLOVLEQFCYLCI2THY5G2RXEY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/06/12/7IFLOVLEQFCYLCI2THY5G2RXEY/</guid>
-      <dc:creator>조백건 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 11 Jun 2025 16:48:56 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SLPE2GF42RE23IVB4YPRJVDPNM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;장진호(57) 푸른세상안과의원 원장이 11일 도성훈 인천시교육감으로부터 감사패를 받았다. 장 원장은 최근 휴일 밤에 눈을 다쳐 실명 위기에 몰린 응급 환자를 구했다. &lt;br&gt;&lt;br&gt;김민경(49) 인천송림초등학교 교감은 지난달 25일 밤 8시쯤 인천 자택 베란다에서 짐 정리를 하다가 짐을 묶은 고무줄이 끊기면서 눈을 다쳤다. 김 교감은 “눈에서 피가 났고 앞이 보이지 않았지만 (의정 갈등으로) 인천·서울의 대형 병원에도 치료할 수 있는 의사가 없다고 했다”고 말했다. 지인을 통해 그날 밤 늦게 장진호 원장과 연락이 닿았고, 장 원장은 밤 12시쯤 서울 자택에서 인천의 병원으로 바로 달려와 그를 응급 처치했다. 시력을 되찾은 김 교감은 인천시교육감에게 편지를 써서 이 사실을 알렸다. 장 원장은 “당장 처치를 하지 않으면 심각한 시력 손상을 입을 것 같아서 그리했는데, 감사패를 주신다고 해서 깜짝 놀랐다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>뇌출혈로 쓰러진 60대, 3명에게 새 삶 주고 하늘로</title>
-      <link>https://www.chosun.com/national/people/2025/06/12/VSVVG5T6PZFJBJPKDTKZK6KMGY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/06/12/VSVVG5T6PZFJBJPKDTKZK6KMGY/</guid>
-      <dc:creator>곽래건 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 11 Jun 2025 16:48:26 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/J7PTMMKQJNCALKHTUYM3WX3RQY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;뇌출혈로 뇌사 상태에 빠진 60대 여성이 장기 기증으로 3명에게 새 삶을 선물하고 하늘로 떠났다.&lt;br&gt;&lt;br&gt;11일 한국장기조직기증원에 따르면 경기도 광명에 살던 한옥예(65)씨는 지난달 8일 친구 집에서 친구들과 이야기하던 도중 뇌출혈로 갑자기 쓰러졌다. 한씨는 곧바로 병원으로 옮겨졌지만 의식을 회복하지 못했다. 한씨 가족들은 고심 끝에 장기 기증을 결정했다. 지난달 13일 중앙대 광명병원에서 한씨는 간과 양쪽 신장을 3명에게 기증했다.&lt;br&gt;&lt;br&gt;한씨는 사전에 장기 기증 서약을 하진 않았다. 하지만 장기 기증에 대해 평소 ‘좋은 일’이라고 가족들에게 말했다고 한다. 한씨 가족들은 “갑작스러운 이별에 할 수 있는 게 아무것도 없다는 것이 너무 허무했다”며 “뇌 말고 다른 곳은 다 건강했기 때문에 기적을 바라는 분들에게 희망이 되기를 바라며 기증을 결심했다”고 했다.&lt;br&gt;&lt;br&gt;전북 정읍에서 7남매 중 둘째로 태어난 한씨는 주변 사람들 챙기는 것을 좋아했다고 한다. 산책을 좋아했고, 주말이면 친구들과 산에 자주 올랐다. 한씨 아들인 이용씨는 “어머니가 생전에 고생하고 힘들었던 모습만 기억난다”며 “하늘에 가서는 편안히 하고 싶은 일만 하시고, 행복하게 지냈으면 좋겠다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“몸 바쳐 이 땅 지킨 보람 느낍니다”… 전시회서 다시 만난 한미 참전 용사들</title>
-      <link>https://www.chosun.com/national/people/2025/06/12/5TSCCICQK5GMZMRHIZO4SMHXEU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/06/12/5TSCCICQK5GMZMRHIZO4SMHXEU/</guid>
-      <dc:creator>김도균 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 11 Jun 2025 16:48:04 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WE4QD53F4JAJRNLK6QFTR3LNJ4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 6일 오후 서울 강남구 논현동에서 열린 6·25 전쟁 75주년 전시관에서 한 관람객이 한·미 참전 용사들 사진을 바라보고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“휘리릭! 삐이익….” 지난 10일 오후 2시 서울 강남구 논현동의 3층 규모 전시관에 백발의 노인 6명이 어두운 방에 들어서자 날카로운 소리가 울리더니 ‘쾅’ 하는 굉음이 울려 퍼졌다. 이 방의 이름은 ‘Into the Dark’(어둠 속으로). 6·25 전쟁 당시 중공군이 심리전의 일환으로 불었던 피리 소리, 전장(戰場)에 쏟아지는 포탄 폭발음과 총성을 재현한 소리였다.&lt;br&gt;&lt;br&gt;이곳에서 진행되는 전시 ‘자유는 공짜가 아니다(freedom is not free), 한국전쟁 참전 용사를 찾아서’는 6·25 참전 용사들을 직접 찾아가 이야기를 듣고, 군복 입은 그들의 사진을 남기는 단체 ‘프로젝트 솔져’가 6·25 전쟁 발발 75주년을 맞아 기획했다. 전장 음향을 체험할 수 있게 음향 시설을 설치했고, 참전 용사 사진 및 전쟁 때 쓰였던 군복·방탄모·태극기 등도 전시해놨다.&lt;br&gt;&lt;br&gt;이날 전시관을 방문한 노인들은 모두 90세가 넘은 참전 용사들이었다. 18세에 학도병으로 자원 입대한 류재식(93)씨는 “압록강 근처까지 북진했다가, 중공군에 밀려 1·4 후퇴까지 경험했다”며 “매일 밤 듣던 중공군의 피리 소리를 다시 접하니 그때의 기억이 생생히 떠오른다”고 했다. 그는 제복을 입고 찍은 자신의 사진을 보고는 “내가 지켜낸 이 땅에서 지금까지도 살아 숨 쉴 수 있음에 감사하고 뿌듯하다”고 했다.&lt;br&gt;&lt;br&gt;함께 온 한종현(91)씨도 학도병으로 국군수도사단에서 ‘대관령 전투’를 치르다 포탄 파편에 맞아 오른쪽 정강이에 5cm 길이의 깊은 흉터가 남았다. 한씨는 ‘나라를 지켜주셔서 감사합니다’, ‘평생 기억하겠습니다’ 등 관람객들의 손글씨로 채워진 1층 전시관을 둘러보며 눈시울을 붉혔다. “후대가 참전 용사들의 헌신을 알아주니 몸 바쳐 싸운 보람을 느낀다. 먼저 간 전우들도 기뻐할 것 같다”고도 했다.&lt;br&gt;&lt;br&gt;이날 오후 5시엔 6·25 이후 74년 만에 한국을 찾은 미군 참전 용사도 전시장을 찾아 국군 용사들과 만났다. 휠체어를 탄 채 전시관에 들어온 제롬 골더(92)씨는 “그들에게 꼭 경례를 하고 싶다”며 부축을 받아 일어난 뒤 우리 용사들에게 거수경례를 했다. 한·미 용사들은 서로를 ‘영웅’이라고 부르며 포옹했다. 골더씨는 “몰라보게 발전한 한국과, 자유를 지키려 함께 전장을 누볐을 전우들을 보니 감정이 북받쳐 오른다”고 했다. 전시를 기획한 라미 현(46·본명 현효제) 작가는 “이젠 참전 용사들을 뵐 수 있는 날이 얼마 남지 않았다”며 “이들이 지켜내고 물려준 자유의 소중함을 모두가 기억했으면 한다”고 했다. 특별전은 오는 25일까지 진행된다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>노동계 “내년 최저임금 1만1500원 달라”</title>
-      <link>https://www.chosun.com/national/labor/2025/06/12/A323JE44CNEDFDBH7WAQBFCHVQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/labor/2025/06/12/A323JE44CNEDFDBH7WAQBFCHVQ/</guid>
-      <dc:creator>정해민 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 11 Jun 2025 16:21:34 +0000</pubDate>
-      <content:encoded>11일 노동계가 내년 최저임금으로 올해(1만30원)보다 14.7% 오른 시급 1만1500원을 요구했다. 이를 월급으로 환산하면 주 40시간·월 209시간 기준 240만3500원이다.&lt;br&gt;&lt;br&gt;한국노총과 민주노총 등 노동계는 이날 오전 서울 종로구 세종문화회관 앞에서 기자회견을 열고 이같이 밝혔다. 내년 최저임금을 결정하는 최저임금위원회가 진행 중인 가운데, 노동계가 올해 처음으로 최저임금 요구안을 내놓은 것이다.&lt;br&gt;&lt;br&gt;양대 노총은 “현재 최저임금 인상률은 생계비 상승률을 따라가지 못하고 있다”며 “최저임금 산입 범위 확대로 실질임금은 오히려 감소한 실정”이라고 했다. 2019년부터 상여금과 식비·교통비 등 복리후생비를 최저임금 계산에 포함시키기 시작하면서 최저임금 인상 효과가 반감되고 있다는 것이다. &lt;br&gt;&lt;br&gt;반면 경영계는 “경기 침체 상황에서 큰 폭의 최저임금 인상은 어렵다”는 입장이다. 류기정 한국경영자총협회 전무는 전날 최임위에서 “최근 한국은행은 지난 2월 1.5%로 제시했던 올해 경제성장률 전망치를 불과 3개월 만에 절반 수준인 0.8%로 대폭 하향 조정했다”며 “엄중한 경제 여건을 고려할 때 올해 최저임금 심의는 그 어느 때보다도 신중하고 현실적인 접근이 필요하다”고 했다. 경영계는 아직 내년 최저임금 요구안을 발표하지 않았다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>첫 태풍 늦으면 장마도 극단적</title>
@@ -910,15 +950,6 @@
       <content:encoded>11일 오전 9시쯤 베트남 다낭 동쪽 580㎞ 해상에서 올해 1호 태풍인 ‘우딥’이 발생했다. 보통 첫 태풍은 늦어도 5월 말에는 발생하는데 6월 중순까지 지연된 것은 이례적이다. &lt;br&gt;&lt;br&gt;이날 기상청에 따르면, 베트남 동쪽 해역에 있던 열대저압부가 ‘우딥’으로 발달하면서 1951년 이후 역대 다섯째로 늦은 첫 태풍으로 기록됐다. 마카오가 제출한 이름인 우딥은 광둥어로 ‘나비’를 뜻한다. 우딥은 중국 광둥성 남서부 쪽에 상륙한 뒤 14~15일쯤 소멸할 것으로 보인다.&lt;br&gt;&lt;br&gt;과거 ‘늦은 태풍’이 온 해에 우리나라는 지역별 강수 패턴이 극단적으로 나타난 바 있어 올여름에도 이런 경향이 되풀이될 수 있다는 관측이 나온다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LPDHVB5WWNHYVIDQPQWQPW4QUM.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=양진경&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;역대 첫 태풍이 가장 늦었던 1998년(7월 9일)엔 제주도에 ‘물폭탄’이 떨어졌다. 당시 평년보다 일주일가량 빠른 6월 12일에 첫 장맛비가 내렸고, 이후 7월 28일까지 47일간 장마가 이어졌다. 이는 2020년(49일) 전까지 역대 가장 긴 장마였다. 올여름 제주는 1998년처럼 평년보다 일주일 앞선 12일에 장마가 시작된다. 당시 서울은 장마 땐 비가 적게 내리다가, 7월 말부터 8월까지 뒤늦은 집중호우가 쏟아졌다.&lt;br&gt;&lt;br&gt;이어 첫 태풍이 늦었던 2016년(7월 3일)과 1973년(7월 1일), 1983년(6월 25일)에는 전국에 ‘마른 장마’가 찾아왔다. 이 중 1973년은 ‘장마 실패’라는 말이 나올 정도로 역대 장마가 가장 짧았던 해다. 당시 중부·남부 지방은 6일, 제주도는 7일 만에 장마가 끝나 전국이 극심한 가뭄을 겪었다. &lt;br&gt;&lt;br&gt;12일부터는 제주도의 첫 장맛비를 비롯해 대만 동쪽에 위치한 수증기 덩어리, 태풍 우딥이 몰고 온 수증기 등이 복합적으로 우리나라에 영향을 주면서 16일까지 제주와 남부 지방을 중심으로 비가 내리겠다. 12~13일 제주도에 20~80㎜의 비가 내리겠고, 13일 호남·영남권 5~40㎜, 충청권 5~10㎜의 비가 예보됐다. 토요일인 14일에는 비가 전국으로 확대하겠고, 15~16일엔 전남·경남·제주도에 비가 내리겠다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>공연 티켓 사기보다 힘든 영유아 검진 예약</title>
-      <link>https://www.chosun.com/national/welfare-medical/2025/06/12/YG77IZCKDRFMLGEBCHTVAGZVHI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/06/12/YG77IZCKDRFMLGEBCHTVAGZVHI/</guid>
-      <dc:creator>오유진 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 11 Jun 2025 16:20:26 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7C6CNDLVFJEVXCVJWZKLTZXJZE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 10일 서울 구로구의 한 소아청소년과 병원에서 보호자와 아이들이 진료 차례를 기다리고 있다. 최근 부모들은 소아청소년과 병의원에서 국가 필수 검진인 영유아 건강검진을 받기 위해 예약 전쟁을 벌이고 있다. /장경식 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울에 사는 직장인 A(38)씨는 생후 32개월 아이의 영유아 건강검진을 예약하는 데 번번이 실패하고 있다. 그는 “집 근처에 영유아 검진이 가능한 병원이 한 곳뿐”이라며 “남편과 번갈아가며 예약을 시도해 봤지만 매번 자리가 찼다고 한다”고 했다.&lt;br&gt;&lt;br&gt;국가가 정한 무료 필수 검진인 영유아 건강검진을 받기 위해 보호자들이 ‘예약 전쟁’을 벌이고 있다. 영유아 건강검진은 생후 14일부터 71개월(만 6세 미만)까지 발달 단계에 따라 총 8차례 받아야 한다. 비만, 영양 결핍, 자폐, 뇌성마비, 사시 등 성장·발달 이상을 조기 발견하는 데 필수적이다. 어린이집과 유치원에 입소할 때 검진 결과 통보서 제출이 의무다. &lt;br&gt;&lt;br&gt;서울 구로구의 한 소아청소년과 전문 병원에서는 매주 금요일 오전 9시에 홈페이지를 통해 영유아 건강검진 예약을 받고 있다. 이를 통해 2주 뒤 시작되는 일주일 치 검진을 예약할 수 있다. 하지만 홈페이지 예약창이 뜨자마자 거의 1초 만에 마감된다. 한 부모는 “컴퓨터 두 대에 스마트폰까지 동원해 예약을 시도하지만 가수 BTS 콘서트 예매처럼 어렵다”고 했다. 온라인 육아 커뮤니티에는 “예약 시간에 맞춰 초 단위 시계를 맞추고 있다가, 정각에 예약 버튼을 눌러야 성공할 수 있다”는 팁까지 공유되는 실정이다.&lt;br&gt;&lt;br&gt;보건복지부 관계자는 “인기 있는 소아청소년과 병원 위주로 검진 수요가 몰리는 영향도 있다”고 했다. 일부 가정의학과나 내과 등도 검진을 하지만, 생후 14~35일 초기 검진은 대부분 소아과에서만 가능하다. &lt;br&gt;&lt;br&gt;영유아 건강검진은 2007년 첫 시행 후 검진 횟수 등을 단계적으로 확대했고, 수검률이 2013년 63.7%에서 2023년 76.7%로 13%포인트 높아졌다. 코로나 시기인 2021년에는 검진 기간을 연장해 준 영향으로 87.1%로 올라가기도 했다.&lt;br&gt;&lt;br&gt;문제는 수요 증가에 맞춰 검진을 하는 병의원이 늘어나지 않았다는 것이다. 건보공단에 따르면, 영유아 검진 지정 의료 기관은 2020년 4121곳에서 지난해 3873곳으로 6% 줄었다. 소아청소년과 의원도 2020년 1분기 2212곳에서 올해 1분기 2181곳으로 줄었다.&lt;br&gt;&lt;br&gt;병의원들에서는 “검진 환자를 더 받으려면 일반 진료를 줄여야 한다”면서 검진 건당 3만~4만원대로 낮은 수가(건보공단이 병의원에 주는 돈)를 원인으로 지목했다. 복지부는 올해 검진 수가를 30%가량 인상하고, 소아청소년과 전문의가 진료할 경우 환자 연령에 따라 진찰료에 3500~7000원을 가산하기로 했지만, 고가 검사 항목이 없어 여전히 수가가 낮다는 것이다. &lt;br&gt;&lt;br&gt;경기도의 한 어린이 병원장은 “영유아 검진은 한 명당 최소 15분 이상 걸린다”며 “그 시간에 3~5분 만에 진료할 수 있는 감기 환자 2~3명을 보는 것이 병원 입장에선 낫다”고 했다. 감기 증세로 병원을 찾은 2세 아동의 경우 수가는 2만원 초반 수준이다. 서울의 한 소아청소년과 전문의는 “수가가 낮다 보니 건강검진을 하루 1~2건만 하는 곳도 많다”고 했다. &lt;br&gt;&lt;br&gt;의료계에서는 “수가를 높이고, 검진을 많이 하는 병원에는 인센티브를 주는 가산제가 필요하다”고 했다. 서울 성북구의 한 소아청소년과 전문의는 “검진 수요가 소아과에 집중되는 만큼, 이에 대한 보상이 강화돼야 한다”고 했다.&lt;br&gt;&lt;br&gt;한편 11일 대한소아청소년과학회에 따르면, 지난해 10월 18~24일 소아청소년과 전공의·전임의·전문의를 대상으로 진행한 설문 조사에서 응답자의 90%(복수 응답)는 소아청소년과 충원율 하락의 가장 큰 이유로 ‘낮은 의료 수가’를 꼽았다. 소아청소년과 전공의 충원율은 2015년 100%에서 올해 2.7%까지 급감했다. &lt;br&gt;&lt;br&gt;&lt;b&gt;☞영유아 건강검진&lt;/b&gt;&lt;br&gt;&lt;br&gt;출생 후 14일부터 71개월(만 6세 미만)까지 영유아가 받는 8차례의 국가 건강검진. 문진 및 진찰, 신체 계측, 건강 교육, 발달 평가 등으로 이뤄진다. 건강보험공단이 전액 부담해 무료다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>기술 자격증이 밥 먹여준다… 50대 ‘인생 2막’ 열공</title>
       <link>https://www.chosun.com/national/labor/2025/06/12/VEC2W4LSNBHS3KY42IBUKELG6Q/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/labor/2025/06/12/VEC2W4LSNBHS3KY42IBUKELG6Q/</guid>
@@ -926,34 +957,6 @@
       <description/>
       <pubDate>Wed, 11 Jun 2025 15:58:52 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MTJ4GAZBOFD4FNWASMISFGG72E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 28일 서울 용산구 한국폴리텍대 서울정수캠퍼스에서 공조냉동기계기능사 실기 시험을 앞둔 50~60대 학생들이 보안경을 끼고 구리 배관에 용접을 하고 있다. 고용노동부 산하 폴리텍대는 40세 이상 미취업자들에게 직업훈련을 제공하고 있다./ 조인원 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난달 28일 서울 용산구 한국폴리텍대 서울정수캠퍼스 실습실에서는 시끄러운 드릴 소리와 함께 여기저기서 용접 불꽃이 튀고 있었다. 황토색 작업복을 입은 50~60대 남성 12명이 보안경을 낀 채 구리 배관을 만드는 데 한창이었다. 배관은 냉장고나 실외기 등 냉방 설비에 들어가는 핵심 부품이다. 이들은 냉방 설비를 다루는 기술자에게 주는 국가 자격증인 ‘공조냉동기계기능사’ 시험을 준비 중인 중장년 학생들이다. 고용부 산하의 폴리텍대는 이처럼 40세 이상 미취업자에게 기계, 전기 등 분야에서 3·6개월의 ‘신중년 특화 과정’ 직업 훈련을 제공하고 있다. 올해 전국 캠퍼스에서 7500명이 이 같은 직업 교육을 받는다. 특히 50대의 참여가 2022년 38.9%에서 2023년 40.5%, 2024년 48.6%로 꾸준히 늘고 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Q5I57WOSM5E35HM5JPVPYMOJC4.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=백형선&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;법정 정년은 60세지만, 불황 속 실제 퇴직 연령은 50대 초반으로 내려왔다. 특히 도소매업, 건설업, 제조업 등 중장년이 주로 종사하던 업종의 고용이 급감하면서, 이들은 구조 조정 대상 1순위로 밀려났다. 1년 넘게 50대 고용률이 하락 중인 가운데 954만명의 2차 베이비붐 세대(1964~1974년생)가 은퇴를 앞두고 있다. 이런 가운데 기술 관련 자격을 취득해 인생 2막을 준비하는 중장년 퇴직자가 늘고 있는 것이다. &lt;br&gt;&lt;br&gt;폴리텍대 실습실에서 만난 이성수(61)씨는 건설 회사에서 23년간 일하다가 양쪽 눈에 백내장이 생겨 퇴직할 수밖에 없었다고 했다. 그는 “40대 이후엔 사무 업무만 했는데 퇴직하고 나니 손에 남은 게 없었다”며 “퇴직 후 기술 하나는 있어야겠다는 생각이 강하게 들었다”고 말했다. 농수산물 경매사로 24년간 일하다 퇴직했다는 한의종(56)씨도 “나이 들어서는 직장 다니는 것도 눈치가 보였다”며 “앞으로 날씨가 더워질수록 일감이 늘어날 것 같아 공조 냉동 분야를 택했다”고 했다.&lt;br&gt;&lt;br&gt;최근 한국직업능력연구원은 ‘50대에게 추천하는 5대 자격’을 발표했는데, 공조냉동기계기능사의 취업률이 63.9%로 가장 높았다. 이 외에도 공조냉동기계산업기사, 승강기기능사, 에너지관리기능사, 전기기능사가 꼽혔다. 실제로 공조냉동기계기능사 자격을 딴 사람 중 50대 비율은 20.2%(2023년 기준)로 전 연령대 중 가장 높은 것으로 나타났다. 이어 60대 이상(17.5%)으로 20·30대보다 장년층 비율이 더 높았다. 이 자격증 보유자의 평균 제시 임금은 월 272만원. 직업능력연구원의 추천 자격 목록에 포함된 승강기기능사는 246만원, 에너지관리기능사 266만원, 전기기능사 263만원 등이었다.&lt;br&gt;&lt;br&gt;서울 중구에 사는 김도현(53)씨는 작년 상반기 폴리텍대에서 공조냉동기계기능사·산업기사, 에너지관리기능사 자격증을 취득했다. 김씨는 이런 기술을 인정받아 작년 9월부터 경기 과천 한국마사회 건물에서 일하고 있다. 냉방 장비 등 시설 전반을 관리하며 월급 350만원(세전)을 받고 있는 그는 “중년 퇴직자들에게는 이런 교육과정이 인생 2막을 열 수 있는 기회”라고 했다.&lt;br&gt;&lt;br&gt;정부도 지원을 늘려가고 있다. 고용노동부는 지난 3월부터 ‘중장년 경력 지원제’를 시작했다. 퇴직한 사무직 등의 중장년이 새로운 일자리를 찾도록 1~3개월간 기업에서 단기 인턴 같은 경험을 하면서 현장 직무 교육을 받도록 지원하는 것이다. 하루 4시간씩 주 5일 근무하는 참여자에게 월 150만원씩 수당을 지급한다. 프로그램 운영 기업에도 1인당 월 40만원을 지원한다. 경북 구미에 사는 신모(58)씨는 구미역 상가에서 25년간 시설 관리 업무를 하다 용역 업체 변경으로 지난해 일자리를 잃었다. 신씨는 경북중장년내일센터에서 직무 교육 등을 받은 뒤 최근 ‘50대 인턴’이 됐다. 오전에만 일하고 오후에는 자격증 공부를 병행 중이다. “집에 학생이 셋이라 계속 벌어야 한다”는 그는 “공조냉동, 에너지관리, 전기기능사 자격증까지 땄기 때문에 곧 재취업할 것으로 기대한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[오늘의 날씨] 2025년 6월 12일</title>
-      <link>https://www.chosun.com/national/national_general/2025/06/12/XRC35GSP5NASJLYN6GHHQTW3UA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/12/XRC35GSP5NASJLYN6GHHQTW3UA/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 11 Jun 2025 15:30:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LDOE5H4Y5JFMRLEXBUP4ISQDHU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“이국종을 복지부 장관에”... 부산시의사회가 추천한 이유 보니</title>
-      <link>https://www.chosun.com/national/national_general/2025/06/11/VKH3AMXFSFAGNN5PHCE2QK5Z7Q/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/11/VKH3AMXFSFAGNN5PHCE2QK5Z7Q/</guid>
-      <dc:creator>최혜승 기자 </dc:creator>
-      <description/>
-      <pubDate>Wed, 11 Jun 2025 14:26:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DCZ4CSEDI7XPMNNTKFSBOKI4UI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이국종 국군대전병원장./ 연합뉴스
-&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이재명 대통령이 주요 공직 후보를 국민에게 추천받기로 한 가운데, 부산시의사회가 중증 외상 전문의인 이국종 국군대전병원장을 보건복지부 장관 후보로 추천했다. &lt;br&gt;&lt;br&gt;11일 부산시의사회에 따르면 의사회는 이날 인사혁신처에 이 같은 내용의 보건복지부 장관 추천서를 제출했다.&lt;br&gt;&lt;br&gt;의사회는 “대한민국 국민이라면 누구나 ‘아덴만의 영웅’인 이 원장이 의료인으로서 어떠한 삶을 살아왔는지 잘 알고 있을 것”이라며 “의료 최전선의 외상외과학 교수로서 뛰어난 전문성과 헌신을 보였고, 군인으로서도 국가와 국민을 위해 남다른 책임감과 사명감으로 일해왔다”고 추천 이유를 밝혔다. &lt;br&gt;&lt;br&gt;이어 “필수의료 문제, 의료전달체계의 확립, 고령화에 따른 의료시스템의 정비, 공공의료의 확충 등 이 모든 문제는 단순 행정 실무자가 아닌 풍부한 현장 경험과 투철한 사명감을 겸비한 인물이 그 책임을 맡아야 한다”고 했다. &lt;br&gt;&lt;br&gt;그러면서 “진정 대한민국 의료의 정상화와 발전을 위하신다면 대통령께서 삼고초려해서라도 반드시 보건복지부 장관으로 임명해 주길 간곡히 요청 드린다”고 했다. &lt;br&gt;&lt;br&gt;이 원장은 2011년 소말리아 해적을 퇴치하는 ‘아덴만 여명 작전’에서 총상을 입은 석해균 선장을 치료하며 주목받았다. 아주대병원 외상외과 교수와 권역외상센터장 등을 역임했으며 2020년 아주대병원과의 갈등 끝에 자리에서 물러났다. 2023년 국군대전병원장으로 임명됐다. &lt;br&gt;&lt;br&gt;이 대통령은 전날 장·차관 후보자를 포함해 대통령이 임명하는 고위급 인사에 대한 국민 추천을 받겠다고 밝혔다. 오는 16일까지 일주일 동안 추천을 받으며 접수된 인사 추천안은 데이터베이스화 작업을 거쳐 대통령실 공직기강비서관실의 인사 검증과 공개 검증 절차를 밟게 된다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>檢, 무자격업체 알고도 수의계약한 의혹 목포시청 압수수색</title>
-      <link>https://www.chosun.com/national/2025/06/11/SVZSZJSS7JCKBPRF3GE3R5UEK4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2025/06/11/SVZSZJSS7JCKBPRF3GE3R5UEK4/</guid>
-      <dc:creator>김준호 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 11 Jun 2025 13:47:50 +0000</pubDate>
-      <content:encoded>검찰이 무자격 업체와 수의계약을 한 혐의로 전남 목포시청을 압수수색했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5PEUM2YBPMSENJDWHKWAISVUNI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;목포시청. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;11일 목포시 등에 따르면 광주지검 목포지청은 전날 목포시청 교통 관련 부서에 수사관을 보내 압수수색 영장을 집행했다.&lt;br&gt;&lt;br&gt;검찰은 압수수색을 통해 목포시가 최근 5년간 발주한 교통시설물 등에 대한 수의계약 전반의 서류와 담당 공무원의 컴퓨터 등을 확보한 것으로 알려졌다. &lt;br&gt;&lt;br&gt;또 담당 공무원 2명의 금융거래 내역 등도 별도로 압수수색한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;해당 공무원들은 업체가 공사 면허를 빌려 쓴 사실을 알고도 묵인한 혐의(직무유기)로 검찰에 입건된 상태다.&lt;br&gt;&lt;br&gt;검찰은 목포시가 공사 면허를 보유하지 않은 업체와 교통시설물 설치 공사를 수의계약한 것으로 보고 수사하고 있다. 또 업체 관계자들의 건설산업기본법 위반 여부 등 범죄 혐의점도 들여다보고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>휴가 나온 병장이 26분간 추격전 끝에 음주운전자 검거</title>
