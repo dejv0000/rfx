@@ -13,6 +13,60 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>李대통령 ‘엄중 대처’ 지시에...경찰 곧바로 “대북 전단 엄정 수사”</title>
+      <link>https://www.chosun.com/national/national_general/2025/06/14/D5PG2PMMPJD4BEKH2ZFFLCTSBQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/14/D5PG2PMMPJD4BEKH2ZFFLCTSBQ/</guid>
+      <dc:creator>김명진 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 14 Jun 2025 12:31:04 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DGY4C4LRNGDCK7TPDC5ADUCKCU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;최성룡 납북자가족모임 대표를 비롯한 회원들이 지난 4월 대북전단을 살포하고 있는 모습./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;14일 민간 단체가 인천 강화도와 경기 접경 지역에서 대북 전단을 날려 보낸 것과 관련해 경찰이 엄중 수사하겠다는 방침을 밝혔다. 이재명 대통령이 대북 전단 살포와 관련해 전(全) 관련 부처에 예방과 사후 처벌 대책을 지시한 데 따른 것이다.&lt;br&gt;&lt;br&gt;경찰청 안보기획관리과는 이날 출입기자단에 보낸 알림을 통해 “오늘 오전 인천 강화 및 경기 김포 일대에서 총 3개의 대북 풍선이 발견됐다”며 “발견된 대북 풍선은 모두 항공안전법 위반 혐의로 수사 예정이며, 여타 관련 법령 위반 여부에 대해서도 엄중히 수사할 예정”이라고 했다.&lt;br&gt;&lt;br&gt;대북 풍선 속 내용물은 성경 책자나 과자류 등으로 북한 체제를 직접적으로 비판하는 것은 없었다고 경찰은 전했다. 경찰은 그러면서 “현재 주요 접경 지역 중심으로 살포 예상 지역을 선정, 기동대 및 지역경찰 등 경찰 병력을 배치해 대북 전단 살포와 관련한 사전 차단활동을 전개하고 있다”며 “지자체와 유관기관과도 적극 협업해나갈 예정”이라고 했다.&lt;br&gt;&lt;br&gt;인천 강화경찰서는 이날 새벽 0시 30분쯤 강화군 하점면에서 대형 풍선이 떨어졌다는 112 신고가 접수됐고, 오전 8시 쯤에도 강화군 양사면에서 비슷한 신고가 들어왔다고 밝혔다. 경기 김포시 하성면에서도 이날 오전 9시 30분쯤 대북 전단 등이 달린 풍선이 발견됐다는 신고가 경찰에 접수된 것으로 알려졌다. 경찰은 대형 풍선 잔해와 함께 대북 전단, USB, 과자류 등 현장에 떨어진 잔해를 수거했다. 대형 풍선이 떨어진 세 곳은 모두 밭이나 길가로 별다른 피해는 발생하지 않았다.&lt;br&gt;&lt;br&gt;이와 관련 앞서 대통령실 강유정 대변인은 이날 오후 서면 브리핑에서 “오늘 새벽 강화도에서 민간단체가 북한 지역으로 전단을 살포한 것이 확인됐다”며 “이 대통령은 오늘 전 관련 부처에 대북 전단 살포와 관련해 예방과 사후 처벌 대책을 지시했다”고 밝혔다.&lt;br&gt;&lt;br&gt;강 대변인은 “이재명 정부는 접경 지역 주민의 일상과 안전을 위협하고 한반도의 군사적 긴장을 고조시킬 수 있는 불법적인 대북 전단 살포는 중단되어야 한다는 입장을 밝힌 바 있다”며 “대북 전단 살포 시 입장을 분명히 밝혔음에도 불구하고 이를 위반한 데 대해 상황을 엄중하게 인식하고 있다”고 했다.&lt;br&gt;&lt;br&gt;이 대통령은 전날 경기 파주시 장단면 접경 지역을 찾아 주민들과 한 간담회에서도 ‘대북 전단은 이제 멈춰야 한다’는 질문이 나오자 “헬륨가스 사용은 가스관리법 위반이며 현행범 체포 대상”이라며 “불법행위에 대해 강력히 대응하겠다”고 했었다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>인천·김포 접경지에서 대북전단 달린 대형 풍선 잇따라 발견</title>
+      <link>https://www.chosun.com/national/regional/gyeonggi-incheon/2025/06/14/MYEB7MUXNZHT3ONXLWW5HF5WNU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/gyeonggi-incheon/2025/06/14/MYEB7MUXNZHT3ONXLWW5HF5WNU/</guid>
+      <dc:creator>김석모 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 14 Jun 2025 11:59:10 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/D34OCZADUKLFS2ECURWAFGCNCU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대북전단.(사진은 기사와 직접적인 관련 없음)/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천 강화도와 경기 김포시 접경지역에서 대북전단이 달린 대형 풍선이 발견돼 경찰이 수사에 나섰다.&lt;br&gt;&lt;br&gt;14일 경찰에 따르면 이날 오전 0시 40분쯤 인천 강화군 하점면에서 “대형 풍선이 떨어졌다”는 112 신고가 접수됐다. 같은 날 오전 8시 10분쯤 강화군 양사면, 오전 9시 27분쯤 김포시 하성면에서도 비슷한 내용의 신고가 이어졌다.&lt;br&gt;&lt;br&gt;신고를 받고 출동한 경찰은 대형 풍선 잔해와 함께 대북전단, USB, 과자류 등 물품을 수거했다. 대형 풍선이 떨어진 3곳은 모두 밭이나 길가로 별다른 주민 피해는 발생하지 않았다.&lt;br&gt;&lt;br&gt;경찰은 민간 단체가 대북전단을 대형 풍선에 매달아 날린 것으로 보고 조사를 벌이고 있다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “북한으로 날린 대북전단이 바람을 타고 강화와 김포 접경지에 떨어진 것으로 보인다”면서 “구체적인 경위를 확인하고 있다”고 말했다.&lt;br&gt;&lt;br&gt;대통령실은 이날 브리핑을 통해 “민간 단체가 북한 지역으로 전단을 살포한 것이 확인됐다”면서 “관련 법령 위반 여부에 따라 엄중 조치할 것”이라고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>수녀원 “고기 후원 끊겼다” 말에…삼겹살 구워 대접한 주지스님</title>
+      <link>https://www.chosun.com/national/national_general/2025/06/14/6M4EAT2FMZGEHGDWQFWAD744UA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/14/6M4EAT2FMZGEHGDWQFWAD744UA/</guid>
+      <dc:creator>이가영 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 14 Jun 2025 11:31:05 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AN5J2URFGFGAJL6SEL3BAMNI4I.png"&gt;&lt;figcaption&gt;&lt;small&gt;문빈정사 주지 법공스님이 12일 광주 남구 성요셉 사랑의 식당에서 저소득층을 위해 삼겹살을 굽고 나르고 있다. /오영순 광주 남구 의원 페이스북&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;저소득층을 위해 성당에서 운영하는 무료 급식소에 ‘고기 후원이 끊겼다’는 소식이 전해지자 사찰 주지스님이 돼지고기를 챙겨가 지원에 나선 사연이 알려졌다. &lt;br&gt;&lt;br&gt;14일 오영순 광주 남구 의원에 따르면, 지난 12일 남구 방림동 소재 성요셉 사랑의 식당에서는 불교 문빈정사와 자비신행회가 마련한 사랑의 후원 행사가 열렸다. &lt;br&gt;&lt;br&gt;까리따스수녀원에서 운영하는 성요셉 사랑의 식당은 지방자치단체의 식비 지원을 받지 않고 후원과 자원봉사만으로 저소득층에 무료 급식을 제공한다. 그러나 올해 경기 악화로 고기 후원이 끊겼고, 고기 반찬을 내놓기 어렵게 됐다. &lt;br&gt;&lt;br&gt;오 구의원은 “힘들어하시는 수녀님 말씀에 염치 불구하고 자비신행회 측에 도움을 요청드렸더니 문빈정사 봉사팀이 함께 오셨다”고 전했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/N57XXHYPI5BVDMTJRSDFTODJL4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 12일 광주 남구 방림동 소재 성요셉 사랑의 식당에서 문빈정사와 자비신행회가 마련한 사랑의 후원 행사가 열렸다. /오영순 광주 남구 의원 페이스북&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;문빈정사 주지 법공 스님과 오 구의원, 자원봉사자들은 삼겹살 20㎏과 쌀 100㎏을 들고 사랑의 식당을 찾았다. 이들은 직접 삼겹살을 구워 식당에 온 어르신들에게 풍성한 점심을 제공했다. &lt;br&gt;&lt;br&gt;법공 스님은 “자비를 실천하는 불교의 가르침을 생활 속에서 실현하고자 이번 후원을 준비했다”며 “단순한 식사가 아니라 위로와 존중의 마음을 전하는 일이 되길 바란다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>임성근 前사단장 “이명현 특검, 공정성 우려” 면담 요구</title>
+      <link>https://www.chosun.com/national/court_law/2025/06/14/VXNAZSWC35FTVOM4WC5CY4FMJA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/14/VXNAZSWC35FTVOM4WC5CY4FMJA/</guid>
+      <dc:creator>방극렬 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 14 Jun 2025 11:40:40 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/M7BZR3YM35KSBNVCLOXOMCFZ4M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;임성근 전 해병대 1사단장. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘해병대원 순직 사건’의 핵심 피의자인 임성근 전 해병대 1사단장이 이명현 특별검사에 대해 “이 특검의 예단과 편파적 태도에 심각한 우려를 표한다”고 했다.&lt;br&gt;&lt;br&gt;임 전 사단장은 14일 공개한 입장문에서 이 특검이 전날 박정훈 전 해병대 수사단장(대령) 측 김정민 변호사를 면담하고 특별검사보로 제안한 것을 문제 삼으면서 이같이 밝혔다.&lt;br&gt;&lt;br&gt;임 전 사단장은 “이 특검은 아직 기존 수사 기록조차 보지 않은 상태일 텐데, 김정민 변호사 등으로부터 사적으로 들은 정보로 사건의 실체에 대해 이미 판단한 듯한 언행을 했다”며 “심지어 (자신을 수사한) 박 대령이나 다른 피의자의 변호인들이 특검에 참여하면 좋겠다는 등 상식 밖의 말을 했다”고 지적했다. &lt;br&gt;&lt;br&gt;그러면서 “피의자나 이해관계가 다른 변호인이 검사의 권한을 행사하면 수사 결과를 누가 신뢰하겠느냐”며 “공정성에 대한 국민적 의혹을 유발한 데 대해 즉시 공개 사과할 것을 촉구한다”고 했다.&lt;br&gt;&lt;br&gt;임 전 사단장은 “저도 김 변호사처럼 사적으로 이 특검을 만나 사안에 대해 3시간 브리핑을 하고 그간 작성한 서류를 전달하고 싶다”고 공개 요구하기도 했다.&lt;br&gt;&lt;br&gt;이 특검은 전날 김 변호사를 2시간 넘게 면담하며 해병대원 사건 전반에 대한 브리핑을 들은 것으로 전해졌다. 이 특검이 김 변호사에게 특검보로 함께 일할 것을 제안했지만, 김 변호사가 수사의 공정성 문제 등을 이유로 이를 고사했다고 한다. 김 변호사는 현재 박 전 단장의 항명 사건 재판 변호인을 맡고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>조은석 특검 “검·경 등에 내란 특검 사무공간 요청”</title>
+      <link>https://www.chosun.com/national/court_law/2025/06/14/OS2WLPTRTBGQFAGRM22TE72XJU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/14/OS2WLPTRTBGQFAGRM22TE72XJU/</guid>
+      <dc:creator>방극렬 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 14 Jun 2025 11:05:01 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JPWQOSKPIHLQLO4CISFJP27Q4I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;내란 특별검사에 지명된 조은석 전 서울고검장. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;12·3 비상계엄 관련 내란 사건을 수사할 조은석 특별검사(특검)는 14일 내란 특검에 활용할 사무실로 검찰과 경찰, 정부과천청사의 시설을 물색하고 있다고 밝혔다.&lt;br&gt;&lt;br&gt;조 특검은 이날 언론 공지를 통해 “내란 특검은 군사에 관한 사항이 주된 것이어서 상업용 건물에서 직무 수행 시 군사기밀 누설 등 보안 문제가 있을 수 있다”며 “이에 검찰과 경찰에 활용할 수 있는 공간이 있는지 협조 요청해 시설을 답사했고, 정부과천청사에 공간이 있는지도 확인 중”이라고 밝혔다.&lt;br&gt;&lt;br&gt;조 특검 측은 내란죄 수사의 특성상 기밀 유지를 위해 서울고검, 정부과천청사 등 공공기관을 이용하는 방안을 우선적으로 검토하고 있다. 내란 특검법에 따르면, 특검은 직무 수행에 필요한 사무실과 통신 시설 등을 국가 또는 공공기관에 요청할 수 있고, 요청받은 기관은 정당한 사유가 없으면 이에 따라야 한다.&lt;br&gt;&lt;br&gt;다만 특검은 통상 검찰청 건물을 사용하지 않고 독립적인 공간을 사용해온 만큼 제3의 장소에 사무실이 마련될 수 있다. &lt;br&gt;&lt;br&gt;내란 특검은 함께 출범하는 김건희·해병대원 특검보다 규모가 크다. 수사팀장 격인 특검보를 최대 6명까지 둘 수 있고, 검사도 60명을 파견 받을 수 있다. 여기에 파견 공무원 100명, 특별수사관 100명까지 포함하면 역대 특검&lt;b&gt; &lt;/b&gt;중 최대인 267명으로 구성될 예정이다. 최장 20일의 준비 기간을 거쳐 최장 150일 동안 수사할 수 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“외도와 폭력”vs“현금, 차 다 넘겨”…가수 부부 이혼 폭로전</title>
+      <link>https://www.chosun.com/national/people/2025/06/14/GE5GWY24CZFDJG5O6BQJP36MXM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/06/14/GE5GWY24CZFDJG5O6BQJP36MXM/</guid>
+      <dc:creator>이가영 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 14 Jun 2025 10:44:24 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7HDRQD4PYRBYL5P4JMJMSZNDYE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;싱어송라이터 윤딴딴(왼쪽)과 은종. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;싱어송라이터 은종과 윤딴딴의 이혼이 폭로전으로 번지는 모양새다. 은종이 남편의 외도와 가정폭력을 주장하자 윤딴딴은 이를 인정하면서도, 정신적으로나 금전적으로 많이 지친 상태였다고 반박했다. &lt;br&gt;&lt;br&gt;윤딴딴은 14일 자신의 인스타그램에 “이번 일로 저라는 사람에게 실망하신 많은 팬분들과 주변 사람들에게 마음 깊이 죄송하다”고 밝혔다. &lt;br&gt;&lt;br&gt;그는 가정 폭력이 있었음을 인정했다. 윤딴딴은 “의견이 맞지 않을 때면 늘 극으로 치닫는 다툼으로 아내의 폭언과 폭행이 있었다”며 “끝나지 않는 폭언과 폭행에 무력을 사용했던 사실을 인정한다. 남자로서, 남편으로서 하지 말았어야 하는 행동임을 깊이 반성한다”고 했다. &lt;br&gt;&lt;br&gt;외도와 관련해서는 “그동안 보여지는 모습과는 달리 정상적인 부부 생활이 아니었다”고 했다. 그는 “월급을 포함해 한 달 500만원 이상의 개인 생활비를 아내는 늘 부족하다고 했었고, 집안일의 대부분과 금전적인 전부를 제가 책임지며 가정에 충실히 노력했지만 아내는 항상 다른 사람과 비교하는 말들, 사람들 앞에서 저를 깎아내리는 말들을 많이 하곤 했다”고 했다. 이어 “그 과정에서 자아를 많이 잃고 자존감도 많이 낮아져 정신적으로나 금전적으로 아내에게 많이 지친 상태였다”며 “지친 마음에 다른 분과 연락을 주고받은 것에 변명의 여지없이 깊이 반성하고 있다. 그 행동으로 깊이 상처받았을 아내에게 진심으로 미안하다”고 했다. &lt;br&gt;&lt;br&gt;윤딴딴은 “하지만 더 이상 결혼생활을 유지할 자신은 없었다”며 “’음원수익을 주면 이혼해주겠다’는 말에 하나하나 넘긴 것이 어느새 가진 모든 현금과 모든 음원판권의 절반, 차, 반려견의 양육권을 다 넘기게 됐다. 최근 2000만원을 더 요구해 왔는데 더 이상 줄 수 있는 돈이 없어 미안한 마음”이라고 했다. &lt;br&gt;&lt;br&gt;윤딴딴은 “앞으로 더는 같은 잘못을 반복하지 않는 사람이 될 거라 깊이 약속하겠다”며 “그동안 저를 응원해주신 분들과 저의 음악을 통해 위로받으셨던 분들게께 다시 한번 죄송하고, 단 한 분이라도 여전히 저를 응원해 주시는 분이 계시다면 최선을 다해 앞으로의 삶을 감당하고 살아보겠다”고 했다. &lt;br&gt;&lt;br&gt;앞서 은종은 지난 12일 자신의 인스타그램에 “최근 제가 남편의 상대를 대상으로 제기한 상간 소송이 1년간의 분쟁 끝에 승소 판결로 마무리되었으며, 현재 그간 겪은 정신적‧신체적 피해에 대한 치료를 병행해 회복 중에 있다”고 밝혔다. &lt;br&gt;&lt;br&gt;또한 “남편과 연애 시절부터 감정 싸움이 격해질 때면 신체에 손상이 발생할 정도의 피해로 이어진 일들이 있었고, 그런 모습을 인지하고서도 서로의 믿음을 갖고 결혼이라는 선택을 했다”며 “하지만 문제들은 반복됐다”고 했다. 그러면서 “한 차례로 정리되지 않은 외도와 그 이후 감정 싸움 속에서 발생한 폭력으로 인해 관계는 더 이상 회복이 어려운 상태가 되었다”고 했다. &lt;br&gt;&lt;br&gt;은종은 “현재 남편과 협의이혼 절차를 진행 중”이라며 “이 기록이 또 다른 갈등이나 상처로 번지지 않기를 진심으로 바라며 저와 가까운 이들의 마음을 지키기 위한 기록의 의도가 변질되지 않기를 바란다”고 했다. &lt;br&gt;&lt;br&gt;한편 은종은 2014년 tvN ‘막돼먹은 영애씨 시즌13’에서 OST ‘유 아 마이 러브(You are my love)’를 발매하며 데뷔했다. 같은 해 싱글 앨범 ‘반오십’으로 데뷔한 윤딴딴과 5년 열애 끝에 2019년 결혼했다. 이후 신혼 이야기를 담은 ‘신혼일기’를 발매하기도 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>처키 강아지부터 인어공주 고양이까지…당근서 난리 난 챌린지</title>
       <link>https://www.chosun.com/national/national_general/2025/06/14/OJHRENF6K5DNTD7KG5ZM34C6NE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/14/OJHRENF6K5DNTD7KG5ZM34C6NE/</guid>
@@ -751,15 +805,6 @@
       </media:content>
     </item>
     <item>
-      <title>부산 기장군 상가 건물서 화재... 1시간40분 만에 초진</title>
-      <link>https://www.chosun.com/national/regional/2025/06/13/SOT2NSKOO5C7JPFZQBVG5FGZEY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/06/13/SOT2NSKOO5C7JPFZQBVG5FGZEY/</guid>
-      <dc:creator>부산=김주영 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 13 Jun 2025 05:10:13 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VR7ZLII3WGNPS43362D3QVSQOI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;13일 오전 10시 52분쯤 부산 기장군 정관읍 한 상가 건물에서 불이 나 소방 당국이 진화중이다. /부산소방재난본부 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산 기장군 정관읍의 한 근린 생활 건물에서 난 불이 1시간 46분 만에 큰 불길이 잡혔다.&lt;br&gt;&lt;br&gt;부산소방재난본부에 따르면 13일 오전 10시 52분쯤 부산 기장군 정관읍에 있는 5층짜리 건물에서 불이 났다.&lt;br&gt;&lt;br&gt;이 불로 건물 내부에 있던 손님 등 10명이 스스로 대피했다. 현재까지 인명피해는 없는 것으로 파악됐다.&lt;br&gt;&lt;br&gt;불이 난 건물에는 음식점, 학원, PC방 등이 있는 것으로 알려졌다. 3층 PC방은 폐업한 상태이고, 4층 학원은 영업 전이라 사람이 없었던 것으로 파악됐다.&lt;br&gt;&lt;br&gt;부산소방재난본부는 이날 오전 11시 23분 대응 단계를 발령하고 인원 113명, 장비 37대를 동원해 진화와 인명 수색 작업을 벌였다.&lt;br&gt;&lt;br&gt;소방 당국은 낮 12시 38분 큰 불길을 잡은 뒤 낮 12시 42분 대응 단계를 해제했다.&lt;br&gt;&lt;br&gt;부산소방본부 관계자는 “불은 1층 커피숍 주방에서 처음 불이 난 것으로 추정된다”며 “현재까지 인명피해는 없으며 정확한 화재 원인과 피해 규모 등을 조사중”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[속보] 대치동 은마아파트 공사 중 작업자 2명 매몰</title>
       <link>https://www.chosun.com/national/incident/2025/06/13/UCXRBJH7L5FCJJZTNEZDVKUXBY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/06/13/UCXRBJH7L5FCJJZTNEZDVKUXBY/</guid>
@@ -948,52 +993,6 @@
       <media:content url="https://www.chosun.com/resizer/v2/YO6RDIP74JBAHCMHIVS4PPCYUQ.jpg?auth=b4285f088ffc283cc081afb18ce8df66f990df09c61b1f8ac443d089854c3ad6&amp;smart=true&amp;width=4000&amp;height=2733" type="image/jpeg" height="2733" width="4000">
         <media:description type="plain">12일 대전 유성구 대전컨벤션센터에서 서울대 나용수 원자핵공학과장이 본지와 인터뷰하고 있다. / 고운호 기자</media:description>
       </media:content>
-    </item>
-    <item>
-      <title>[기자수첩] 대통령 재판 중단, 설명은 달랑 14글자</title>
-      <link>https://www.chosun.com/national/court_law/2025/06/13/KJEBLP3JMRGGNEJLYZJHPD2HTE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/13/KJEBLP3JMRGGNEJLYZJHPD2HTE/</guid>
-      <dc:creator>김은경 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 12 Jun 2025 15:53:00 +0000</pubDate>
-      <content:encoded>“헌법 제84조에 따른 조치입니다.”&lt;br&gt;&lt;br&gt;달랑 열네 글자였다. 지난 9일 이재명 대통령의 공직선거법 위반 사건의 파기환송심 재판부가 재판을 중단하면서 언론에 밝힌 이유다. 이 사건은 앞서 대법원이 유죄 취지 판결을 내린 상황이어서 특히 국민적 관심이 집중돼 있었다. 재판이 계속돼 벌금 100만원 이상의 형이 확정되면 이 대통령이 직을 잃을 수도 있기 때문이다. &lt;br&gt;&lt;br&gt;대통령의 재직 중 불소추 특권을 규정한 ‘헌법 84조’로 대통령이 되기 전 받던 재판까지 중단되는지는 선거 과정 내내 뜨거운 논쟁거리였다. 그런데 법원은 이 논란의 종지부를 찍으면서 헌법 84조 내용이 무엇인지, 왜 이를 근거로 재판을 멈춰야 하는지 설명 한 줄 없었다. &lt;br&gt;&lt;br&gt;이튿날 이 대통령의 ‘대장동 재판’을 중단한 서울중앙지법 형사33부는 공지조차 제대로 하지 않았다. 법원 전산 시스템에 기일이 ‘추후 지정’으로 변경된 것을 보고 기자들이 묻자 “피고인 이재명 부분은 ‘헌법 84조’를 적용했다”고 답했다. 허무할 정도로 간단한 답변이었다. 법리 해석도 없고 최소한의 성의도 보이지 않으니 “법원이 법이 아닌 정치적 판단을 했다” “정권 압박에 알아서 굽혔다“ 같은 비판이 나왔다.&lt;br&gt;&lt;br&gt;법원은 늘 이런 식이었다. 친절하지도, 엄중하지도 않았다. 그저 권위적일 뿐이었다. 지난 1월 서울서부지법은 윤석열 전 대통령에 대한 구속영장을 발부하면서 ‘피의자가 증거를 인멸할 우려가 있다’고만 밝혔다. 현직 대통령을 구속하는 이유를 단 열다섯 글자로 끝낸 것이다. 이에 격분한 윤 전 대통령 지지자 수백 명이 법원으로 뛰쳐 들어가 판사실을 부수는 폭동 사태가 벌어지기도 했다.&lt;br&gt;&lt;br&gt;비슷한 논란이 있었던 미국의 사법부는 달랐다. 도널드 트럼프 대통령의 ‘성 추문 입막음’ 사건을 담당한 뉴욕 맨해튼 형사법원은 지난 1월 트럼프 당시 당선인의 유죄를 인정하면서도 처벌은 하지 않겠다는 ‘무조건적 석방’을 선고했다. 그러면서 약 7분 30초 동안 양형 취지를 설명했다. 당시 판사의 설명은 법정 녹음으로 언론과 온라인에 공개됐다.&lt;br&gt;&lt;br&gt;트럼프 대통령의 ‘의사당 폭동’ 선동 혐의 등을 수사·기소했던 잭 스미스 전 연방 특별검사는 트럼프 대통령이 재선에 성공하자 1850단어로 된 ‘기소 취소 신청서’를 냈고 법원은 이를 받아들였다. &lt;br&gt;&lt;br&gt;사법부의 존립 기반은 국민의 신뢰다. 국민을 납득시키려는 노력조차 하지 않은 우리 법원, ‘사법 개혁’이라는 명분 아래 정치 권력에 짓밟히는 처지에 놓인 이유를 다시 생각해봐야 할 것이다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>제주에 장마 상륙, 주말 전국에 비</title>
-      <link>https://www.chosun.com/national/transport-environment/2025/06/13/5TXISR6YGJHZLMYAJICTFWNABE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/06/13/5TXISR6YGJHZLMYAJICTFWNABE/</guid>
-      <dc:creator>박상현 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 12 Jun 2025 15:53:00 +0000</pubDate>
-      <content:encoded>정체전선(장마전선)과 1호 태풍 ‘우딥’, 대만 ‘열대요란(태풍의 씨앗이 되는 거대 수증기 덩어리)’의 복합적인 영향으로 16일까지 비가 내리겠다. 13일은 제주·남부 지방, 14~16일은 전국에 비가 예고됐다.&lt;br&gt;&lt;br&gt;12일 기상청에 따르면, 정체전선의 영향으로 이날 제주에서 시작된 장맛비는 13일 새벽부터 한층 거세질 전망이다. 장맛비는 찬 오호츠크해 고기압과 뜨거운 북태평양 고기압이 충돌해 정체전선이 형성되며 내리는 비다. 장마철 정체전선은 수시로 형성되는데, 우리나라에 올여름 처음으로 비를 뿌린 정체전선은 12~13일 제주에 비를 뿌린 후 동쪽으로 빠져나갈 전망이다.&lt;br&gt;&lt;br&gt;13일에는 대만 동쪽에서 북상 중인 ‘열대요란’, 중국 내륙으로 북상 중인 태풍 ‘우딥’이 우리나라 쪽으로 수증기를 밀어 넣을 것으로 예상된다. 북태평양 고기압과 중국 상하이 쪽에서 다가오는 기압골 사이로 고온 다습한 남풍(南風)이 불어오면서 큰 구름대가 만들어지겠다. 이 구름대는 13일 제주와 남부 지방에 비를 뿌리고, 이후 북동진하며 토요일인 14일에는 전국에 비를 뿌리겠다. 다만 13~14일에 내리는 비는 정체전선이 뿌리는 비는 아니라서 남부·중부에는 공식적으로 장마가 시작되지는 않을 것으로 보인다. 13일 비가 내리지 않는 중부 지방에선 낮 최고기온이 영상 30도 내외로 더울 것으로 예보됐다. 13일 전국 기온은 최저 15~20도, 최고 22~30도의 분포를 보이겠다.&lt;br&gt;&lt;br&gt;13~14일 예상 강수량은 수도권 5~40㎜, 충청권 5~60㎜, 전라권 10~80㎜, 경상권 20~80㎜, 제주도 50~250㎜로 예보됐다. 13일 밤부터 제주도엔 시간당 20~40㎜, 14일 새벽부터 남해안과 지리산 부근엔 시간당 10~30㎜의 강한 비가 내리겠다. ‘많은 비’의 기준은 시간당 15㎜이며, 시간당 30㎜가 넘어가면 앞이 거의 보이지 않을 정도로 가시거리가 짧아진다.&lt;br&gt;&lt;br&gt;이후 15일에는 서해상에서 동쪽으로 이동하는 기압골의 영향으로 또 다른 비구름대가 만들어지며 15~16일 전국에 비가 내리겠다. 비는 15일 오전 제주·전남권에서 시작해 오후 중 전국으로 확대될 전망이다. 16일 오전 태풍 ‘우딥’이 중국 푸저우 북북서쪽 약 200㎞ 지점에서 소멸할 것으로 보여, 이때 남겨진 수증기가 향후 강수에 영향을 줄 수 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘의료계 블랙리스트’ 유포한 사직 전공의 징역 3년</title>
-      <link>https://www.chosun.com/national/court_law/2025/06/13/ISYZETYBWZDAFLR5DYSI6CGPNE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/13/ISYZETYBWZDAFLR5DYSI6CGPNE/</guid>
-      <dc:creator>김은경 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 12 Jun 2025 15:53:00 +0000</pubDate>
-      <content:encoded>의료계 집단행동에 참여하지 않은 의사·의대생들의 이른바 ‘의료계 블랙리스트’를 작성하고 해외 사이트에 퍼뜨린 사직(辭職) 전공의가 1심에서 징역형을 선고받았다. 의정 갈등 국면에서 불거진 의료계 블랙리스트 사건 중 처음 나온 판결이다.&lt;br&gt;&lt;br&gt;서울중앙지법 형사19단독 임혜원 부장판사는 12일 정보통신망법상 명예훼손과 스토킹처벌법 위반 등 혐의로 구속 기소된 류모(32)씨에게 징역 3년을 선고했다. 류씨는 정부의 의대 정원 증원 방침 등에 반발해 전공의를 그만두고 의료계 집단행동에 동참했다.&lt;br&gt;&lt;br&gt;류씨는 작년 8~9월 의정 갈등 때 사직·수업 거부 등 의료계 집단 행동에 동참하지 않은 전공의와 의대생 2900여 명의 이름과 소속 병원·대학 등이 적힌 명단을 20여 차례에 걸쳐 해외 사이트 등에 게시한 혐의를 받고 있다. 그는 피해자들에 대한 확인되지 않은 인신공격성 비방 글도 함께 올려 명예를 훼손한 혐의도 받는다.&lt;br&gt;&lt;br&gt;류씨 측은 재판에서 자신이 한 일이 공포심을 줄 정도는 아니어서 스토킹이 아니라고 주장했지만, 법원은 “피해자들을 괴롭힐 의도로 범행을 반복했고, 불안감과 공포심을 주기에 충분했다”면서 “의료계와 정부 간의 정책 분쟁을 해결하기 위한 통념상 정당한 행위에 해당한다고 볼 수 없다”고 했다.&lt;br&gt;&lt;br&gt;임 부장판사는 또 “류씨는 피해자 명예를 훼손하고 원색적 비난을 하며 악의적 공격을 하고 협박했다”며 “피해자의 고통을 무시하고 외면하거나 감내해야 할 것으로 생각한 것으로 보인다”고 했다. 그러면서 “피해자는 일상생활을 제대로 하지 못할 정도로 사람을 만나는 게 두렵고 가족에게도 위해를 가하지 않을까 하는 공포심과 대인기피증, 공황 등 심각한 정신적 고통을 겪었다”며 “류씨는 공개 사과하지 않았고 류씨가 올린 명단도 아직 삭제되지 않았다”고 했다.&lt;br&gt;&lt;br&gt;이날 법원은 자신이 다니던 병원 전공의 등 명단을 류씨에게 넘겨 그의 범행을 방조한 혐의로 불구속 기소된 사직 전공의 정모(32)씨에게도 벌금 1000만원을 선고했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>부산에 해수부, 세종시 국회… 李정부 공약에 지자체 들썩</title>
-      <link>https://www.chosun.com/national/national_general/2025/06/13/5ZXQNXEHXRBJRGTJWZB3FX4KLE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/13/5ZXQNXEHXRBJRGTJWZB3FX4KLE/</guid>
-      <dc:creator>최연진 기자, 김준호 기자, 노인호 기자, 진창일 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 12 Jun 2025 15:53:00 +0000</pubDate>
-      <content:encoded>이재명 정부의 국정 밑그림을 그릴 ‘국정기획위원회’가 오는 16일 출범하는 가운데, 전국 지방자치단체들이 촉각을 곤두세우고 있다. 국정기획위원회는 이 대통령의 대선 공약을 검토해 새 정부가 중점적으로 추진할 국정 과제를 짠다. 지역 공약이 국정 과제로 선정돼야 속도가 날 수 있다. &lt;br&gt;&lt;br&gt;지역에선 “새 정부가 내년 지방선거를 앞두고 이 대통령의 지역 공약을 빠르게 추진할 것”이라는 기대가 높다. 다만 지역 간 이해관계의 충돌, 헌법 개정 등 넘어야 할 산도 적잖다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/X4OEBURDIBASZPASPMXYICEQ74.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=김성규&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이 대통령이 취임 직후 가장 먼저 추진한 지역 공약은 해양수산부의 부산 이전이다. 이 대통령은 지난 5일 취임 후 첫 국무회의에서 “해수부를 빠르게 부산으로 이전하라”고 지시했다. &lt;br&gt;&lt;br&gt;부산에선 이미 구(區)별로 해수부 유치 경쟁이 붙었다. 부산 동구는 지난 10일 성명서를 내고 “재개발 중인 북항이 해수부 이전의 최적지”라고 주장했다. 강서구의회는 ‘해수부 이전 촉구 건의안’을 만장일치로 채택해 부산시에 제출했다. 강서구에는 부산 컨테이너 물동량의 70%를 처리하는 부산신항이 있다. 청년 인구가 유출돼 고민인 중구는 “해수부는 원도심에 우선 배치해야 한다”며 유치전에 뛰어들었다. &lt;br&gt;&lt;br&gt;그러나 반대 여론도 만만치 않다. 우선 해수부 노조가 반기를 들고 나섰다. 노조는 지난 10일 입장문을 내고 “해양 정책을 추진하려면 관계 부처와 협의가 필수적인데 세종에서 멀어지면 구조적 한계를 가질 수밖에 없다”고 했다. 현재 해수부는 기획재정부 등 다른 정부 부처와 함께 세종시에 있다. &lt;br&gt;&lt;br&gt;지역 갈등으로도 비화하고 있다. 최민호 세종시장은 지난 9일 기자회견을 열고 “해수부 부산 이전은 국가 균형 발전의 대원칙을 훼손하는 결정”이라고 주장했다. 유정복 인천시장은 지난 8일 자신의 페이스북에서 “수도권 해양 행정 체계의 축을 무너뜨리는 일방적 조치”라고 반발했다. &lt;br&gt;&lt;br&gt;세종시는 국회와 대통령실을 세종으로 빨리 이전해 ‘행정 수도’를 완성해야 한다고 주장한다. 이 대통령은 대선 후보 시절 대통령 세종 집무실과 국회 세종 의사당을 조속히 완공하겠다고 했다. &lt;br&gt;&lt;br&gt;다만 국회와 대통령실 이전을 두고는 개헌이 먼저라는 지적이 나온다. 헌법재판소는 2004년 행정 수도 세종 이전 계획에 대해 “관습 헌법상 수도는 서울”이라며 위헌 결정을 내렸다. 육동일 한국지방행정연구원 박사는 “국민적 합의를 거쳐 개헌을 해야 국회와 대통령실을 세종으로 옮길 수 있을 것”이라고 했다.&lt;br&gt;&lt;br&gt;호남은 이 대통령의 지역 공약 대부분이 지역의 오랜 숙원 사업이다. 이 때문에 더 발 빠르게 움직이고 있다. 김영록 전남지사는 이 대통령이 당선된 지난 4일 전남도에 ‘새 정부 국정 과제 대응 전담 TF(태스크포스)’를 구성했다. 강기정 광주광역시장은 지난 10일 서울 여의도를 찾아 광주 지역 국회의원들과 ‘국정 과제 대응 간담회’를 열었다. 강 시장은 “광주의 핵심 과제가 국정 과제에 포함될 수 있도록 정부·여당의 협조가 필요하다”고 주장했다. &lt;br&gt;&lt;br&gt;광주·전남의 공통 과제는 광주 군(軍) 공항 이전이다. 이 대통령도 지난달 17일 광주 유세에서 “군 공항 이전 문제를 대통령이 직접 나서서 깔끔하게 정리할 것”이라고 했다. &lt;br&gt;&lt;br&gt;광주 군 공항을 전남 무안국제공항으로 이전·통합하고 ‘서남권 거점 공항’으로 키운다는 계획이다. 다만 무안군민의 반대 여론이 높은 상황이다.&lt;br&gt;&lt;br&gt;호남 지역에선 “전북·전남·인천에 공공 의대를 설립하겠다”는 이 대통령 공약에도 기대를 걸고 있다. 전북은 남원에 공공 의대를 설립하는 게 ‘10년 숙원 사업’이다. 전남은 2027년 의대 개설을 목표로 하고 있다.&lt;br&gt;&lt;br&gt;대구는 상대적으로 초조한 분위기다. 대구시는 지난 4일 아침 입장문을 내고 “대통령 당선을 축하드린다”며 “TK 신공항은 국토 남부 전체의 균형 발전을 이끌 신성장 동력으로 2030년 개항을 위해 국가의 재정 보조와 지원을 간곡히 요청드린다”고 했다. TK 신공항 사업은 대구·경북 지역의 최대 현안이다. 사업비가 14조원에 달한다. 그동안 재원 확보 문제 등으로 장기 표류해 왔다. 지역 정치권의 한 관계자는 “TK는 이번 대선 때 이 대통령을 적극 지지하지 않았다”며 “새 정부가 얼마나 관심을 가질지 우려된다”고 했다. 이 대통령은 후보 시절 “TK 신공항 사업의 지연 요인을 조속히 해소하겠다”고 했지만 구체적 지원 계획은 밝히지 않았다.&lt;br&gt;&lt;br&gt;인천 시민들은 지역 최대 현안인 ‘수도권 쓰레기 매립지’ 문제가 해결될 수 있을지 주목하고 있다. 인천에 있는 수도권 쓰레기 매립지는 당초 2016년까지 운영하고 문을 닫을 예정이었으나 대체 매립지를 찾지 못해 계속 운영되고 있다. 인천시는 대통령실 직속으로 ‘폐기물 정책 조정 기구’를 설치해 문제를 해결해야 한다고 주장하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/5BA7HZPYZNACDBNPO7D7KQK3HM.png?auth=31204f89b791c03fd243ec8637e684717c268ce0a28c58760ea794dcd6e6a530&amp;smart=true&amp;width=1200&amp;height=675" type="image/png" height="675" width="1200"/>
-    </item>
-    <item>
-      <title>스토킹 살인 후 도주… 사흘째 행방 못 찾아</title>
-      <link>https://www.chosun.com/national/incident/2025/06/13/XPTEWS4R3FBC7KVQ3P6DAWE76E/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/06/13/XPTEWS4R3FBC7KVQ3P6DAWE76E/</guid>
-      <dc:creator>대구=이승규 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 12 Jun 2025 15:53:00 +0000</pubDate>
-      <content:encoded>대구에서 스토킹하던 여성을 살해하고 달아난 40대 남성을 경찰이 사흘째 추적 중이다. 대구 성서경찰서는 살인 혐의로 40대 남성 A씨를 추적하고 있다고 12일 밝혔다. A씨는 지난 10일 오전 3시 30분쯤 대구 달서구의 한 아파트에 침입해 50대 여성 B씨를 흉기로 살해한 혐의를 받고 있다. A씨는 아파트 외벽의 가스관을 타고 6층에 있는 B씨 집에 침입한 것으로 파악됐다. &lt;br&gt;&lt;br&gt;A씨는 앞서 지난 4월 스토킹하던 B씨를 흉기로 협박해 체포됐으나 법원이 구속영장을 기각해 불구속 상태에서 조사받고 있었던 것으로 알려졌다. 당시 법원은 “남성이 수사에 제대로 응하고 있다”며 영장을 기각했다. 이후 B씨는 경찰의 신변 보호를 받았지만 소용이 없었다.&lt;br&gt;&lt;br&gt;B씨 집 앞에 A씨의 얼굴을 인식할 수 있는 AI(인공지능) 방범 카메라가 설치돼 있었지만 A씨 얼굴은 잡히지 않았다고 한다. 경찰 관계자는 “A씨가 카메라의 사각지대를 노린 것 같다”고 했다. 경찰은 B씨에게 스마트워치도 지급했지만 B씨는 사건 당시 스마트워치를 착용하고 있지 않았던 것으로 확인됐다. &lt;br&gt;&lt;br&gt;경찰은 A씨가 세종시 부강면의 한 산속으로 도주한 것으로 보고 수색 중이다. 세종시는 이날 시민들에게 “당분간 입산을 자제해달라”고 당부했다.&lt;br&gt;&lt;br&gt;스토킹 범죄는 재범 위험이 높기 때문에 가해자를 격리하는 등 대응을 강화해야 한다는 지적이 나온다. 지난달에는 경기 화성 동탄신도시에서도 30대 남성이 스토킹하던 여성을 살해한 사건이 발생했다. 이 여성도 경찰의 신변 보호를 받고 있었다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
