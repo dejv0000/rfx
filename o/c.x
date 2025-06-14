@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>대구 스토킹 살인 용의자 사건 발생 나흘만에 검거</title>
+      <link>https://www.chosun.com/national/incident/2025/06/15/Y4TT6JW7FBB7DGAEGHU3U7CLQ4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/06/15/Y4TT6JW7FBB7DGAEGHU3U7CLQ4/</guid>
+      <dc:creator>대구=이승규 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 14 Jun 2025 17:59:35 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BH2PD7ASEVPKTIK27OQBNC2NDU.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;대구에서 스토킹 해오던 여성을 살해한 피의자 A씨가 15일 오전 대구성서경찰서로 압송되고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대구에서 스토킹하던 여성을 살해한 40대 용의자가 사건 발생 나흘만인 14일 밤 검거됐다. 대구 성서경찰서는 세종시 조치원읍에서 용의자 A(48)씨를 붙잡았다고 밝혔다. A씨는 지인 소유의 창고 앞에서 검거됐고, 별다른 저항은 없었다. 경찰은 A씨를 입건하고 성서경찰서로 구체적인 사건 경위 등을 조사할 계획이다.&lt;br&gt;&lt;br&gt;A씨는 지난 10일 오전 3시 30분쯤 대구 달서구의 한 아파트에서 50대 여성 B씨를 흉기로 살해한 혐의를 받는다. 아파트 외벽의 가스관을 타고 6층에 사는 B씨 집에 침입한 것으로 조사됐다. &lt;br&gt;&lt;br&gt;범행 이후 A씨는 세종시 부강면과 청주시 강내면의 산으로 도주했고 경찰은 수색견과 드론 등을 동원해 A씨를 추적했다. 근처 저수지에서 A씨가 쓴 것으로 보이는 메모가 발견돼 잠수부까지 투입했다. 이 메모에는 극단적 선택을 암시하는 글이 쓰여 있었다고 한다. A씨는 도주 과정에 번호판이 없는 오토바이를 타고 세종시 일대를 돌아다닌 것으로 추정됐다.&lt;br&gt;&lt;br&gt;A씨는 앞서 지난 4월에도 B씨를 흉기로 협박해 체포됐다. 그러나 법원이 구속영장을 기각했고, 불구속 상태에서 조사를 받던 중 또다시 범행을 저질렀다. &lt;br&gt;&lt;br&gt;B씨는 경찰의 신변 보호를 받았지만 A씨의 범행을 막지 못했다. 당시 법원은 “남성이 수사에 제대로 응하고 있다”며 영장을 기각했다. &lt;br&gt;&lt;br&gt;이 때문에 스토킹 범죄에 대한 대응을 강화해야 한다는 지적이 나오고 있다.&lt;br&gt;&lt;br&gt;경찰은 A씨를 성서경찰서로 압송해 정확한 사건 경위를 수사할 방침이다. 경찰 관계자는 “A씨에 대해 살인 혐의로 구속 영장을 신청할 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>李대통령 ‘엄중 대처’ 지시에...경찰 곧바로 “대북 전단 엄정 수사”</title>
       <link>https://www.chosun.com/national/national_general/2025/06/14/D5PG2PMMPJD4BEKH2ZFFLCTSBQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/14/D5PG2PMMPJD4BEKH2ZFFLCTSBQ/</guid>
@@ -914,15 +923,6 @@
       <description/>
       <pubDate>Fri, 13 Jun 2025 00:06:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SDDS5CN6E5OAZEPHEP7SSP6YJU.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;13일 오전 경의중앙선 신촌역 인근에서 사다리차 전도사고가 발생해 가좌역~신촌역 구간이 양방향 통제된 가운데 서울역행 경의중앙선 열차에 탑승한 승객들이 열차에서 내려 선로를 따라 대피하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;코레일은 13일 오전 8시19분쯤 경의중앙선 서울역~행신역 구간에서 전기 공급 장애가 발생했다고 밝혔다. 이는 외부업체 이삿짐 사다리차가 선로에서 넘어져 전기공급선을 접촉하면서 발생한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;이에 따라 해당 구간 KTX와 일반 열차 운행이 운영되지 않고 있다. 코레일 측은 “열차 이용 전 코레일톡 등을 확인 후 이용 해달라”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[속보] 조은석 내란 특검 “사초 쓰는 자세로 수사논리 따라 직 수행”</title>
-      <link>https://www.chosun.com/national/court_law/2025/06/13/DXVHXJH45NEK5OE2FLHD6SXD2U/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/13/DXVHXJH45NEK5OE2FLHD6SXD2U/</guid>
-      <dc:creator>유희곤 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 12 Jun 2025 22:35:54 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RUHAN7XIQIE4MAI2NFIB5W6SF4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;조은석 특별검사 /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘12·3 비상계엄' 사태와 관련해 윤석열 전 대통령의 내란 혐의 등을 수사할 조은석 특별검사가 13일 “사초를 쓰는 자세로 오로지 수사논리에 따라 특별검사의 직을 수행하겠다”고 했다.&lt;br&gt;&lt;br&gt;조 특검은 이날 낸 입장문에서 “수사에 진력해 온 국가수사본부, 고위공직자범죄수사처, 검찰의 노고가 헛되지 않게 최선을 다하겠다”며 이같이 밝혔다. 이어 “수사팀 구성과 업무공간이 준비되면 설명드릴 기회를 갖겠다”고 했다.&lt;br&gt;&lt;br&gt;이재명 대통령은 전날 오후 11시 9분쯤 내란·김건희·순직 해병 특검에 조 특검·민중기 전 서울중앙지법원장·이명현 전 국방부 고등검찰부장을 각각 지명했다. 더불어민주당과 조국혁신당이 특검 후보를 3명씩 추천한 지 당일이었다.&lt;br&gt;&lt;br&gt;특검 3명은 수사 준비기간 20일 동안 특검보 임명, 검사 파견, 사무실 마련 등을 할 예정이다.&lt;br&gt;&lt;br&gt;조 특검은 사법연수원 19기 수료 후 검사로 임관해 대검찰청 범죄정보담당관, 서울중앙지검 형사3부장, 서울고검장, 법무연수원장 등을 역임했다. 문재인 전 대통령이 임명해 2021년 1월부터 4년동안 감사원 감사위원을 지냈다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>‘검수완박’도 모자라… 국가수사위원회로 ‘여수완장’ 나선 민주</title>
