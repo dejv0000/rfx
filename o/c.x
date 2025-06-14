@@ -13,6 +13,88 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>처키 강아지부터 인어공주 고양이까지…당근서 난리 난 챌린지</title>
+      <link>https://www.chosun.com/national/national_general/2025/06/14/OJHRENF6K5DNTD7KG5ZM34C6NE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/14/OJHRENF6K5DNTD7KG5ZM34C6NE/</guid>
+      <dc:creator>이가영 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 14 Jun 2025 08:01:23 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ECY7IDM3IBGQROZXBJE3C66J7I.jpeg"&gt;&lt;figcaption&gt;&lt;small&gt;지역 커뮤니티 당근에서 열린 '#동동소(동네동물소개)' 이벤트에 올라온 '처키 강아지'와 '인어공주 고양이' 영상. /당근&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;휴대전화 앨범 속에만 조용히 저장해뒀던 귀여운 반려동물 영상이 지역 커뮤니티를 통해 이웃들 사이에서 활발하게 공유되고 있다. &lt;br&gt;&lt;br&gt;14일 당근에 따르면, ‘당근 스토리’에는 지난 9일부터 5일 만에 약 1400건의 동물 영상이 올라왔다. &lt;br&gt;&lt;br&gt;‘#동동소(우리동네동물소개)’ 이벤트 참여자들이다. ‘#동동소’ 해시태그를 넣어 동물 영상을 올리면 최대 6만원의 당근머니를 준다. 참여만 하더라도 영상 1개당 200원씩의 당근머니를 지급하다 보니 이용자들은 자신의 반려동물은 물론, 길에서 우연히 마주친 길고양이 영상까지 자유롭게 업로드하며 이웃들과 소통하고 있다. 이벤트 참여자 중 80% 이상이 생애 최초로 스토리를 올린 이들이었다고 한다. &lt;br&gt;&lt;br&gt;영상 속에는 영화 캐릭터로 변신한 반려동물들이 다수 등장했다. 인천시의 한 이용자는 처키 복장을 한 강아지 모습을 공유하며 “앞으로도 우리 가족과 함께 오래오래 건강했으면 좋겠다”고 했다. 경기 파주시의 한 집사는 “우리 집 인어냥”이라며 무심한 표정으로 누워있는 인어공주 고양이의 모습을 공개해 보는 이들의 웃음을 자아냈다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CZKD7F4F2NDFVG7KER7YVF4YPA.jpeg"&gt;&lt;figcaption&gt;&lt;small&gt;여행 중 우연히 만난 '길냥이' 영상을 올린 이용자. /당근&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경북 경주시에서는 여행 중 숙소 앞에서 만난 애교 많은 ‘개냥이’ 영상이 업로드됐다. 작성자는 “처음 보는 고양이가 몸을 치대며 애교를 부리는 모습이 너무 귀여워서 공유하게 됐다”고 했다. 이에 해당 숙소의 사장은 “이 냥이는 우리 숙소에서는 ‘찰리채플린’, 옆집 음식점에서는 ‘흥국이’라고 불린다”며 소통을 이어갔다. &lt;br&gt;&lt;br&gt;서울시에서는 반려묘 집사라면 한번쯤 도전해봤을 ‘잠자는 고양이 코털 건드리기 챌린지’ 영상이 등장했다. 작성자는 어떤 반응을 보일지 몰라 걱정하며 곤히 잠든 고양이의 코털을 건드렸지만, 정작 고양이는 순한 성격 덕분에 별다른 반응 없이 상황을 넘겨 오히려 이웃들의 공감을 얻었다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/343YC2NI3RFZ7IZHIHONP5QDYY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;'잠자는 고양이 콧털 건드리기' 챌린지 영상과 반려동물 동반 취식 가능한 스타벅스 방문 후기 영상. /당근&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국내 스타벅스 매장 중 반려동물 동반 취식이 가능한 최초의 ‘펫존’ 매장에 방문한 후기 영상도 공유됐다. 경기 구리시의 한 이웃은 실감 나는 현장 리뷰와 함께 매장 인근의 산책 코스까지 소개하며 강아지 자랑은 물론, 지역 이웃들에게 필요한 정보도 전했다. &lt;br&gt;&lt;br&gt;‘#동동소’ 이벤트는 오는 15일까지 진행된다. 챌린지 조건에 맞춰 영상을 업로드한 참여자 전원에게는 영상 한 편당 200원씩, 최대 1만원의 당근머니가 지급된다. 최다 업로드 이용자 3명과 최다 ‘좋아요’를 받은 3명에게는 5만원 상당의 추가 경품이 제공된다. 당첨자는 오는 20일 당근 채팅을 통해 개별 안내될 예정이다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“늙어서도 일할 수 있어 감사하다던 아버지가” 은마아파트 매몰 사고 유족 눈물</title>
+      <link>https://www.chosun.com/national/national_general/2025/06/14/EVJD3A3CKVA4ZF3RAW3ZP6UOTU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/14/EVJD3A3CKVA4ZF3RAW3ZP6UOTU/</guid>
+      <dc:creator>김도균 기자, 강지은 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 14 Jun 2025 07:14:52 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DWFSL5C52JLRPKREXXPUZTODOA.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;13일 오후 서울 강남구 대치동 은마아파트 내 하수관 공사현장에서 매몰 사고가 발생해 작업자 2명이 사상했다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“나이 먹고도 일할 수 있어 감사하다던 아버지였는데...”&lt;br&gt;&lt;br&gt;14일 오전 11시 30분 서울 광진구의 한 장례식장에는 지난 13일 대치동 은마아파트 하수관 공사 중 사망한 작업자 유모(69)씨의 유족들이 모여 있었다.&lt;br&gt;&lt;br&gt;유씨는 10년째 같은 아파트 관리사무소에서 일하던 ‘베테랑’ 작업자였다. 평생 자영업을 하며 자식들을 키워낸 후 “늙어서도 일을 해야 건강하다”며 가족들의 만류에도 아파트에 일자리를 구했다고 한다.&lt;br&gt;&lt;br&gt;그가 세상을 떠났던 사고 당일은 유씨의 두 아들과 저녁 식사 약속이 잡혀 있던 날이었다. 두 아들을 출가시키고 충남에서 농업에 종사하던 아내와 ‘주말 부부’로 살던 유씨가 “오랜만에 아들들 얼굴이나 보자”며 약속을 잡았다고 한다. 큰아들 유시열(42)씨는 “사고만 아니었다면 아버지와 웃고 떠들며 밥을 먹었을 텐데...”라며 말을 잇지 못했다.&lt;br&gt;&lt;br&gt;동료들이 기억하는 유씨는 “인상이 밝고 성실하던 사람”이었다. 신입 직원이 들어오면 작업 방식과 요령을 세세히 알려주고, 일을 떠넘기지 않고 솔선수범했다고 한다. 작은아들 유모(36)씨는 “아버지가 일할 때 오지랖이 넓어서 또 궂은일은 자기가 하겠다고 땅속으로 들어갔을 것”이라고 했다.&lt;br&gt;&lt;br&gt;유씨가 더욱 힘을 내 일한 건 아내가 준비하던 사료 작물 사업에 보탬이 되기 위함이었다. 월급을 타 아내 정모(65)씨의 사업을 뒷바라지하고, 본인의 생활비도 충당했다. 아내와 매일 밤 통화해 밥은 먹었는지, 아픈 곳은 없는지 묻는 다정한 남편이었다. 정씨는 “그제 통화가 마지막이 될 줄은 몰랐다”며 눈시울을 붉혔다.&lt;br&gt;&lt;br&gt;지난 13일 오후 1시쯤 은마아파트 내부 하수관 공사 중 쌓아뒀던 흙이 무너져 작업자 2명이 매몰돼 1명이 사망하고 1명이 부상당한 사고가 발생했다. 경찰은 공사 관리자 등 3명을 업무상 과실치사 혐의로 입건해 자세한 사고 경위와 안전 수칙 준수 여부 등을 조사 중이다. 고용노동부도 중대재해처벌법과 산업안전보건법 등 위반 사항이 있는지 살펴보고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>휴일 낮 경북 영덕서 소규모 지진 2차례 발생 </title>
+      <link>https://www.chosun.com/national/transport-environment/2025/06/14/72IT2NYYPBAJRNXSAQJNNDZA7A/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/06/14/72IT2NYYPBAJRNXSAQJNNDZA7A/</guid>
+      <dc:creator>오유진 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 14 Jun 2025 06:33:40 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZZQVASESLBFGJO4OMWIZJNIQ7Q.png"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;휴일인 14일 낮 경북 영덕군에서 소규모 지진이 두 차례 발생했다.&lt;br&gt;&lt;br&gt;기상청에 따르면, 이날 낮 12시 22분 11초쯤 경북 영덕군 북쪽 21km 지역에서 규모 2.0 지진이 발생한 데 이어, 오후 1시 58분 33초쯤 영덕군 북쪽 22km 지역에서 규모 2.3 지진이 각각 발생했다. 발생 깊이는 각각 12km, 11km로 추정된다.&lt;br&gt;&lt;br&gt;두 번째 지진은 경북 영덕군에서 최대 계기진도가 3, 영양군과 청송군이 2로 나타났다. 계기진도 3은 ‘실내, 특히 건물 위층에 있는 사람이 흔들림을 현저히 느끼고 정차한 차량이 약간 흔들리는 정도’이고, 2는 ‘조용한 상태이거나 건물 위층 소수만 느끼는 수준’이다.&lt;br&gt;&lt;br&gt;기상청은 “지진 발생 인근 지역은 지진동을 느낄 수 있으니 안전에 유의하기 바란다”고 했다.&lt;br&gt;&lt;br&gt;이번 지진까지 포함해, 1978년 이후 두 번째 지진 발생지 진앙 반경 50㎞ 내에서 규모 2.0 이상 지진은 총 87차례 발생한 것으로 나타났다. 이 가운데 가장 최대 규모는 2019년 4월 22일 발생한 규모 3.8 지진이었다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“수익은 박수홍이 냈는데, 형은 부동산 4채?” 판사의 의문</title>
+      <link>https://www.chosun.com/national/national_general/2025/06/14/LEJOAO66OVDVJFYV3Z3ZWCRPA4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/14/LEJOAO66OVDVJFYV3Z3ZWCRPA4/</guid>
+      <dc:creator>이가영 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 14 Jun 2025 07:29:09 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HYKF5W5MMFHW3E3MKLRRQ65SWY.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;방송인 박수홍. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;법원이 방송인 박수홍의 출연료 등을 횡령한 혐의로 기소된 친형 부부에게 재산 형성 과정에 대한 상세한 설명을 요구했다. &lt;br&gt;&lt;br&gt;13일 서울고법 형사7부는 특정경제범죄 가중처벌 등에 관한 법률(횡령) 위반 혐의로 기소된 박수홍 친형 박모씨와 형수 이모씨에 대한 항소심 6차 공판을 진행했다. &lt;br&gt;&lt;br&gt;재판부는 박씨 부부의 횡령 혐의와 관련해 박수홍과의 ‘재산 격차’에 주목했다. 재판부는 “박수홍과 박씨 부부 재산 형성 결과를 보면, 박수홍의 경우 마곡 상가 50% 지분 외에는 별다른 부동산 취득이나 금융 자산 증가가 잘 안 보인다”고 했다. &lt;br&gt;&lt;br&gt;이어 “박씨 부부는 부동산 4개를 취득, 기존 부동산에 있던 근저당권 채무도 변제하고 여러 보험도 가입했다. 이런 금융 자산도 증가한 것으로 보이는데 양측의 재산 현황 차이가 어떻게 되는지 구체적으로 정리해 주셨으면 좋겠다”고 했다. &lt;br&gt;&lt;br&gt;그러면서 “수입원이 거의 박수홍의 연예 활동 수입이었던 것 같은데, 이 수익을 바탕으로 양측의 재산 형성 정도가 차이 나는 이유가 무엇인지도 알려 달라”고 요청했다. &lt;br&gt;&lt;br&gt;박씨는 2011~2021년 박수홍의 매니지먼트를 전담하면서 회삿돈과 동생의 자금 수십억 원을 빼돌린 혐의로 재판에 넘겨졌다. 1심은 회삿돈 20억원 횡령 혐의는 유죄로 판단했지만, 16억원 상당의 동생 돈을 가로챘다는 혐의는 무죄로 보고 징역 2년을 선고했다. 일부 횡령에 가담한 혐의로 함께 기소된 형수 이씨는 무죄가 나왔다. 이에 양측 모두 항소했다. &lt;br&gt;&lt;br&gt;앞서 박수홍은 법정에서 “무지했던 것도 잘못이지만, 뚜껑을 열고 나니까 죽고 싶을 만큼 참혹했다”며 “수익의 100%가 제 몫이었는데도 형이 더 많은 급여를 받았고, 자산은 모두 형과 형수 명의였다”고 했다. 이어 “내 통장에는 3380만원만 남아 있었고, 전세 보증금을 낼 수 없어 보험까지 해지했다”고 호소했다. &lt;br&gt;&lt;br&gt;한편, 이날 재판에서 박씨 부부는 1심에서 유죄가 선고된 회삿돈 20억원 횡령 혐의를 인정했다. 그러나 박수홍의 개인 계좌에서 인출된 16억원에 대해서는 여전히 쟁점이 남아있는 상황이다. 이 부분에 대해 재판부는 “현금화된 수익이 어떻게 박수홍에게 지급됐는지 구체적으로 밝혀 달라”고 추가 소명을 요구했다. &lt;br&gt;&lt;br&gt;박씨 부부의 항소심 7차 공판은 오는 8월 20일 열릴 예정이다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>서산 오리농장서 AI 항원 검출… 오리 2만8000마리 살처분</title>
+      <link>https://www.chosun.com/national/regional/chungcheong/2025/06/14/BFJ4RXXF4FBTZBSS5DOSFIMHPE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2025/06/14/BFJ4RXXF4FBTZBSS5DOSFIMHPE/</guid>
+      <dc:creator>김석모 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 14 Jun 2025 07:18:47 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FPS275HMIRD7RFOTOWESZOZO5A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;조류인플루엔자 발생 농가 차단 방역.(사진은 기사 내용과 직접적인 관련 없음) /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;충남 서산의 한 육용 오리 농장에서 H5형 조류인플루엔자(AI) 항원이 검출됐다.&lt;br&gt;&lt;br&gt;서산시는 고북면에 위치한 한 오리 농장에서 출하 전 정기 검사를 실시하던 중 H5형 AI 항원이 확인됐다고 14일 밝혔다. &lt;br&gt;&lt;br&gt;서산시는 확인된 AI 항원의 고병원성 여부를 가리기 위해 농림축산검역본부에 정밀 검사를 의뢰했다. &lt;br&gt;&lt;br&gt;이와 함께 방역 지침에 따라 해당 농장에서 사육 중인 오리 2만8000여 마리에 대해 살처분과 오염물 제거 등 방역 작업을 벌이고 있다. 정밀 검사 결과는 1~3일 이후 나올 예정이다. &lt;br&gt;&lt;br&gt;방역 당국은 AI 항원이 확인된 농장을 중심으로 반경 10㎞ 내에 위치한 가금 농가 133곳에 대해 이동 제한 명령을 내렸다. 이들 농장에서는 닭과 오리 등 가금류 20만마리를 사육하는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;서산시 관계자는 “신속히 살처분을 실시하고 인근 방역 작업과 이동 제한 조치 등을 통해 확산을 막겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>제주 교사 사망에 92개 교원단체 “진상 규명·순직 인정하라”</title>
+      <link>https://www.chosun.com/national/education/2025/06/14/EYUG37APNVGKHFDQL4ZKJYQYVQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/education/2025/06/14/EYUG37APNVGKHFDQL4ZKJYQYVQ/</guid>
+      <dc:creator>오유진 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 14 Jun 2025 06:57:50 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZTO5OC4WVJK43DSF5FPIMHSPOU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전교조, 교총, 교사노조 등 교원 3단체가 14일 오후 서울 종로구 정부서울청사 인근에서 학생 가족 민원에 시달리다 숨진 제주 중학교 교사 추모 및 교권 보호 대책 요구 집회를 하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난달 제주의 한 중학교에서 교사가 숨진 사건과 관련해 전국 교원 단체들이 철저한 진상 규명과 고인에 대한 순직 인정을 촉구하고 나섰다.&lt;br&gt;&lt;br&gt;교사노동조합연맹, 한국교원단체총연합회, 전국교직원노동조합 등 92개 교원 단체 및 노동조합은 14일 오후 정부서울청사 앞에서 ‘제주 교사 추모 및 교권 보호 대책 요구 전국 교원 집회’를 열었다.&lt;br&gt;&lt;br&gt;이들은 성명을 통해 “교육부는 서이초 사건 이후 교사 홀로 민원을 감당하는 일을 없애겠다고 약속했으나, 달라진 게 없다”며 “교사 개인 연락처로 민원을 받는 일이 없도록 온라인 민원 접수 시스템을 조속히 도입해야 한다”고 주장했다.&lt;br&gt;&lt;br&gt;이어 “학교장을 중심으로 한 민원 대응팀이 실효성 있게 운영되도록 정부와 교육청이 충분히 지원하고, 악성 민원에 대응할 수 있는 법적 방어 장치를 강화해야 한다”며 “무고한 신고로부터 교사를 보호할 수 있게 아동복지법과 아동학대처벌법 개정을 촉구한다”고 했다.&lt;br&gt;&lt;br&gt;앞서 지난달 22일 새벽 제주의 한 중학교 창고에서 40대 남성 교사 A씨가 숨진 채 발견됐다. 고인은 자신이 가르치던 학생의 가족에게서 여러 차례 항의를 받으며, 식사도 제대로 하지 못할 만큼 정신적으로 힘들어했던 것으로 알려졌다.&lt;br&gt;&lt;br&gt;이번 집회는 재작년 서이초 교사 사망 이후 교권 회복을 요구해온 집회의 연장선으로, 약 1년 4개월 만에 열렸다. 서이초 사건은 재작년 7월 한 교사가 교내에서 극단적 선택을 한 사건이다. 당시 ‘교권 추락’ 논란이 일었다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>청송 하천에서 300m 떠내려간 차량… 지붕 위 모녀 구조</title>
+      <link>https://www.chosun.com/national/regional/yeongnam/2025/06/14/SDFAKL3E7NBF7CU5AJDM4V3OUE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/yeongnam/2025/06/14/SDFAKL3E7NBF7CU5AJDM4V3OUE/</guid>
+      <dc:creator>김석모 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 14 Jun 2025 05:33:28 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/23XFLFBHWK3NYDBNAEFPNKH3WY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;14일 오전 10시 13분쯤 경북 청송군 청송읍 부곡리 하천에 빠진 차량에서 119구조대가 여성 2명을 구조했다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;하천에 빠져 300m를 떠내려간 차량 지붕에 고립돼 있던 모녀가 소방당국에 의해 구조됐다.&lt;br&gt;&lt;br&gt;14일 오전 10시 13분쯤 경북 청송군 청송읍 부곡리 한 하천에 승용차가 떠내려가다 중간에 멈춰있다는 119신고가 접수됐다. 물에 잠긴 차량 지붕 위에는 2명의 여성이 고립된 상태였다.&lt;br&gt;&lt;br&gt;신고를 받고 출동한 소방 당국은 로프와 크레인을 이용해 오전 11시 2분쯤 두 여성을 무사히 구조했다. 두 여성은 건강에 이상이 없는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;조사 결과 이들은 어머니(39)와 딸(9) 사이로, 친정집으로 향하던 중 차량이 도로를 벗어나 하천에 추락한 것으로 드러났다. 차량은 최근 내린 비로 불어난 하천에 휩쓸려 300m가량 떠내려가다 바닥에 걸리면서 멈춘 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>마른나무 갉아먹는 외래 흰개미... 작년 서울 금천서도 발견</title>
+      <link>https://www.chosun.com/national/welfare-medical/2025/06/14/ZAKMPVIB5VHS3KSPAFER4ZNO4A/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/06/14/ZAKMPVIB5VHS3KSPAFER4ZNO4A/</guid>
+      <dc:creator>오유진 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 14 Jun 2025 05:30:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2IRFEFVJCFMA5AQQRJ7S752RQQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2023년 5월 서울 강남구 논현동 한 주택에서 발견된 흰개미. 세계적으로 목조 건축물에 큰 해를 끼치는 외래 흰개미로 확인됐다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;생목을 갉아먹는 외래 흰개미가 지난해 서울에서 발견된 사실이 뒤늦게 확인됐다. 재작년 국내 첫 발견 이후 두 번째로 확인된 사례다.&lt;br&gt;&lt;br&gt;14일 학계에 따르면, 지난해 4월 24일 서울 금천구의 한 도매 창고 물품 상자에서 외래 흰개미 중 하나인 ‘아시아집흰개미’가 발견됐다. 물품은 하루 전날 싱가포르에서 인천공항으로 들어온 수입 포장재였다. 흰개미가 먹이로 삼았던 종이상자는 살충 처리 후 소각됐다.&lt;br&gt;&lt;br&gt;아시아집흰개미는 전 세계적으로 가장 큰 피해를 주는 흰개미 중 하나로 꼽힌다. 인체에 해를 끼치지는 않지만, 목조 문화재나 건물의 나무 기둥, 합판 등을 가리지 않고 먹어 치워 해충으로 분류된다.&lt;br&gt;&lt;br&gt;고온다습한 아열대 및 열대 지역에 주로 서식하며, 대만과 중국 등에서 유입되는 경우가 많다. 국내에는 주로 항만을 통해, 특히 컨테이너나 선박을 통해 들어온다. 전문가들은 기후변화로 평균 기온이 상승하면서 이런 외래종 유입이 늘고 있다고 분석한다. 2023년 5월에는 서울 강남구 한 주택에서 외래 흰개미가 발견되기도 했다.&lt;br&gt;&lt;br&gt;연구진은 “이번 사례는 외래종 대응에서 조기 발견과 신속한 조치의 중요성을 보여준다”며 “앞으로 검역 강화, 조기 경보 체계 고도화가 필요하다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/2IRFEFVJCFMA5AQQRJ7S752RQQ.jpg?auth=c29d8c729892292446692dd8124baf37de90cb1feda9904ea0144f1550d69ccc&amp;smart=true&amp;width=1369&amp;height=909" type="image/jpeg" height="909" width="1369">
+        <media:description type="plain"> 서울 강남 주택서 발견 흰개미…마른나무 갉아먹는 외래종 확인
+    (서울=연합뉴스) 최근 서울 강남구 논현동 한 주택에서 발견된 흰개미는 세계적으로 목조건축물에 큰 해를 끼치는 외래 흰개미로 잠정 확인됐다. 
+    환경부는 정밀 현미경을 이용해 확인한 결과 강남구 주택의 흰개미는 '마른나무흰개미과(Kalotermitidae) 크립토털미스(Cryptotermes)속'에 속하는 흰개미로 확인됐다고 19일 밝혔다.
+    유전자 분석도 진행 중으로 동정(생물의 분류학상 위치와 종 정보를 바르게 확인하는 작업)이 완료되기까지는 일주일 정도 걸릴 것으로 예상된다.
+    사진은 배수구에서 발견된 흰개미 사체. 2023.5.19
+     photo@yna.co.kr/2023-05-19 20:25:32/
+&amp;lt;저작권자 ⓒ 1980-2023 ㈜연합뉴스. 무단 전재 재배포 금지.&amp;gt;</media:description>
+        <media:credit role="author" scheme="urn:ebu">이재영</media:credit>
+      </media:content>
+    </item>
+    <item>
       <title>이명현 특검, 박정훈 변호인 면담… ‘해병대원 사건’ 파악 나서</title>
       <link>https://www.chosun.com/national/court_law/2025/06/14/ZGLG5P3M6ZGKJIZBEPTRI7AL4Q/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/14/ZGLG5P3M6ZGKJIZBEPTRI7AL4Q/</guid>
@@ -687,24 +769,6 @@
       <content:encoded>서울 강남구 대치동 은마아파트 하수관 공사를 하던 작업자 2명이 매몰되는 사고가 13일 발생했다.&lt;br&gt;&lt;br&gt;강남구와 소방 등에 따르면, 이날 오후 1시 10분쯤 은마아파트 내부에서 하수관 공사 중 쌓아뒀던 흙이 무너져내려 작업자 2명이 매몰됐다. 두 사람 모두 50대 한국인 남성으로, 1명은 심정지 상태로 병원에 이송됐고, 다른 1명은 경미한 부상을 입고 인근 정형외과에서 치료를 받았다고 한다.&lt;br&gt;&lt;br&gt;경찰과 소방은 정확한 사고 경위를 조사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>인천시교육청, “리박스쿨, 인천 늘봄 프로그램 운영사례 없어”</title>
-      <link>https://www.chosun.com/national/national_general/2025/06/13/ULD77LBFQJDENENE5HYVE2BCP4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/13/ULD77LBFQJDENENE5HYVE2BCP4/</guid>
-      <dc:creator>인천=이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 13 Jun 2025 05:05:36 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Z5ITRC6MDSESLX7V5JYLKC33PA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;인천시교육청./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;댓글 조작 의혹이 불거진 보수 성향 단체 ‘리박스쿨’이 인천에서 운영하는 늘봄 프로그램은 없는 것으로 파악됐다. &lt;br&gt;&lt;br&gt;인천시교육청은 인천지역 초등‧특수학교 274곳을 전수조사한 결과, 리박스쿨을 비롯한 7개 관련 단체와 협약을 맺고 늘봄 프로그램을 운영 중인 사례는 없었다고 12일 밝혔다. &lt;br&gt;&lt;br&gt;리박스쿨 관련 단체 2곳에서 발급받은 민간 자격증을 보유한 강사가 2명 있는 것으로 나타났으나, 이들은 강사는 해당 자격증 외에도 다수의 자격증을 보유하고 있고 역사 분야와 관련 없는 보드게임과 미술 분야 프로그램 강사인 것으로 확인됐다고 시 교육청은 설명했다. 시교육청은 이들과 관련된 정치적 편향성 등 민원도 접수된 게 없다고 덧붙였다. &lt;br&gt;&lt;br&gt;시교육청은 교육부의 방침에 따라 지난 4일부터 11일까지 이번 전수조사를 진행됐다. &lt;br&gt;&lt;br&gt;시교육청 관계자는 “늘봄학교 온라인 신고센터를 운영하는 등 학교 현장에서 정치적 중립성이 훼손되지 않도록 철저히 관리하겠다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“날 의심해?” 술자리서 지인에게 흉기 휘두른 20대 남성 징역 6년</title>
-      <link>https://www.chosun.com/national/incident/2025/06/13/KUXQSGPT6JD63LO6HYKXZIE5LU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/06/13/KUXQSGPT6JD63LO6HYKXZIE5LU/</guid>
-      <dc:creator>대구=이승규 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 13 Jun 2025 05:04:43 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FEE7EIE2S4QLE76DJCKAK6ZYHM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대구고법, 지법 청사/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;술자리에서 말다툼 중 지인에게 흉기를 휘두른 20대 남성에게 실형이 선고됐다.&lt;br&gt;&lt;br&gt;대구지법 형사12부(재판장 정한근)는 살인미수 혐의로 기소된 A(25)씨에게 징역 6년을 선고했다고 13일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난해 11월 24일 대구 북구의 주거지에서 지인인 남성 B(23)씨를 흉기로 살해하려다 미수에 그친 혐의로 기소됐다. A씨의 공격으로 B씨는 전치 6주의 부상을 입었다.&lt;br&gt;&lt;br&gt;A씨와 B씨는 불법 도박으로 벌어들인 범죄수익을 상품권 거래를 통해 벌어들인 정상 수익인 것처럼 세탁하는 일을 함께 해왔다. &lt;br&gt;&lt;br&gt;이 과정에서 A씨 등과 함께 일을 하던 또 다른 지인 C씨가 2억원 상당의 금품을 훔쳐 도주했다. A씨 등은 C씨를 부산에서 붙잡아 폭행한 뒤 함께 대구로 올라와 술을 마셨다. 이때 B씨가 “너희 둘이 공모해 현금과 상품권을 훔친 게 아니냐”며 A씨를 의심하며 말다툼이 벌어지다 A씨가 B씨를 흉기로 찔렀다.&lt;br&gt;&lt;br&gt;A씨는 범행 직후 소셜미디어 라이브 방송을 통해 “나는 돈을 세탁하는 바지사장인데, 연관된 사람들이 이 일(자금 세탁)이 탄로 날까 봐 나와 가족들을 죽이려 해서 내가 먼저 죽였다”고 주장했다. A씨는 수사기관에서도 “가만있다간 B씨에게 해코지를 당할 것 같아 순간적으로 B씨를 살해하려고 했다”는 취지로 범행 동기를 진술했다.&lt;br&gt;&lt;br&gt;재판부는 “A씨가 실질적인 운영자로 보이는 B씨로부터 자금을 훔쳤다는 의심을 받게 되자 우발적으로 범행에 이른 것으로 보인다”면서도 “범행이 미수에 그쳤으나 B씨가 사망에 이를 수도 있었던 점, B씨가 처벌을 강력히 원하고 있는 점 등을 종합했다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>조은석 내란 특검, 첫 일정으로 비상계엄 특별수사본부장 면담</title>
       <link>https://www.chosun.com/national/court_law/2025/06/13/U27J6O3BCRFH5GGBF4OI5EF5JU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/13/U27J6O3BCRFH5GGBF4OI5EF5JU/</guid>
@@ -816,16 +880,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RUHAN7XIQIE4MAI2NFIB5W6SF4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;조은석 특별검사 /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘12·3 비상계엄' 사태와 관련해 윤석열 전 대통령의 내란 혐의 등을 수사할 조은석 특별검사가 13일 “사초를 쓰는 자세로 오로지 수사논리에 따라 특별검사의 직을 수행하겠다”고 했다.&lt;br&gt;&lt;br&gt;조 특검은 이날 낸 입장문에서 “수사에 진력해 온 국가수사본부, 고위공직자범죄수사처, 검찰의 노고가 헛되지 않게 최선을 다하겠다”며 이같이 밝혔다. 이어 “수사팀 구성과 업무공간이 준비되면 설명드릴 기회를 갖겠다”고 했다.&lt;br&gt;&lt;br&gt;이재명 대통령은 전날 오후 11시 9분쯤 내란·김건희·순직 해병 특검에 조 특검·민중기 전 서울중앙지법원장·이명현 전 국방부 고등검찰부장을 각각 지명했다. 더불어민주당과 조국혁신당이 특검 후보를 3명씩 추천한 지 당일이었다.&lt;br&gt;&lt;br&gt;특검 3명은 수사 준비기간 20일 동안 특검보 임명, 검사 파견, 사무실 마련 등을 할 예정이다.&lt;br&gt;&lt;br&gt;조 특검은 사법연수원 19기 수료 후 검사로 임관해 대검찰청 범죄정보담당관, 서울중앙지검 형사3부장, 서울고검장, 법무연수원장 등을 역임했다. 문재인 전 대통령이 임명해 2021년 1월부터 4년동안 감사원 감사위원을 지냈다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>“소년공 출신 李대통령, 노동 정책에 사회적 대타협 이끌어내야"</title>
-      <link>https://www.chosun.com/national/national_general/2025/06/13/FXTHKRDQGZFQPOXAHDKDPUR4YM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/13/FXTHKRDQGZFQPOXAHDKDPUR4YM/</guid>
-      <dc:creator>정해민 기자, 박정훈 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 12 Jun 2025 20:20:32 +0000</pubDate>
-      <content:encoded>이재명 정부 정책 가운데 노동과 에너지 분야는 첨예한 갈등을 예고하고 있다. 노란봉투법, 주 4.5일제, 정년 연장 등 노동계 요구가 대거 반영된 정책에 기업들은 미국발 무역 전쟁과 경기 침체 속 국가 경쟁력 저하를 우려하고 있다. 에너지 분야에서는 태양광, 풍력의 대대적인 확대 기조에 세계적 경쟁력을 갖춘 원전 생태계가 또다시 정체, 후퇴할 수 있다는 지적도 나오고 있다. 한석호 한국노동재단 사무총장(노동 분야)과 나용수 서울대 원자핵공학과장(에너지 분야)으로부터 각각 고언을 들었다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;한석호 한국노동재단 사무총장 “노동 정책 속도전 밀어붙이면 노사 모두 반발”&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AAYBYDG5ZFF4FJA7A3C7ALEOVQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한석호 한국노동재단 사무총장 /이태경 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이재명 정부 출범 이후 윤석열 정부에서 중단됐던 노사정 사회적 대화가 재개될 전망이다. 이 대통령이 추진하려는 노동 정책에는 노란봉투법(노조법 2·3조 개정안), 주 4.5일제, 정년 연장 등 노사 간 강한 충돌이 예상되는 현안들이 포함돼 있다. 노란봉투법은 임기 초부터 처리될 가능성이 크고, 정년 연장과 주 4.5일제는 사회적 합의를 거쳐 단계적으로 도입될 것이라는 분석이 나온다. 본지는 정규직, 비정규직으로 양분된 노동시장 이중구조 개선을 통해 노동 현안에 접근해야 한다고 주장해 온 한석호 한국노동재단 사무총장을 인터뷰했다. &lt;br&gt;&lt;br&gt;−기업들은 우선 추진될 노란봉투법 파장에 대해 우려하고 있다.&lt;br&gt;&lt;br&gt;“노조법 개정의 핵심은 하청 업체 노동자들이 자신이 속한 하청 업체가 아닌 원청 기업과의 교섭도 가능해진다는 점이다. 이는 대기업이 하청 노동자를 직접 고용해야 한다는 우려로 이어질 수 있다. 이 우려와 최저임금 수준밖에 못 받는 하청 노동자들의 현실 사이에서 타협 지점을 반드시 찾아야 한다.”&lt;br&gt;&lt;br&gt;−노사가 각각 무엇을 양보해야 하나.&lt;br&gt;&lt;br&gt;“노란봉투법 개정이라는 상황까지 온 데에는, 수십 년간 하청 단가를 쥐어짜 온 원청 대기업들의 책임이 있다. 하청 노동자들이 적절한 임금을 받을 수 있게 단가를 제대로 쳐준다면, 노조법 개정 관련 사회적 합의 지점을 만들 수 있을 것이다. 또 노동계를 대표하는 양대 노총은 대기업, 공기업 등 정규직 중심이다. 이들 역시 자신들이 상대적으로 높은 임금을 받고 있다는 현실을 인정하고, 중소기업·하청 노동자의 임금 수준 개선을 위해 사회적 책임을 져야 한다.”&lt;br&gt;&lt;br&gt;−노동시장 이중구조에 노동계 책임도 있다는 뜻인가.&lt;br&gt;&lt;br&gt;“그렇다. 대기업과 중소기업 임금 격차를 정규직 노동자들이 직시해야 한다. 대기업 임금을 천천히 올리고, 중소기업이 그 속도를 따라갈 수 있도록 해야 한다. 정부가 양대 노총이 이런 논의를 회피하지 않도록 정치적으로 설득하고 독려할 책임이 있다.”&lt;br&gt;&lt;br&gt;−정년 연장이나 주 4.5일제 도입 부작용에 대한 우려도 크다.&lt;br&gt;&lt;br&gt;“고령화로 인해 정년 연장의 필요성은 분명하지만, 제도가 잘못 설계되면 노동시장 이중구조를 심화할 수 있다. 정년이 늘어나면 청년 고용이 줄고, 인간의 생산성을 추월하는 AI(인공지능)와 로봇 도입 속도도 빨라질 수 있다. 주 4.5일제도 마찬가지다. 사업 여건이 열악하고 임금도 취약한 중소기업에 주 4.5일제는 현실과 거리가 있다. 노동시간 단축과 유연화 논의도 현장 실태 위에서 시작해야 한다.”&lt;br&gt;&lt;br&gt;−이 정부가 내야 할 정책 성과는.&lt;br&gt;&lt;br&gt;“사회적 대타협이 필요하다. 이재명 정부의 주요 노동 정책은 속도전으로 밀어붙일 일이 아니다. 성급하면 노동계든 경영계든 강한 반발이 뒤따를 수밖에 없다. 복잡한 이해관계를 따져 신중히 접근해야 한다. 노사정 중심의 경사노위 테이블만으로는 부족하다. 하청 노사, 5인 미만 사업장 노사, 플랫폼·프리랜서 노동자, 소비자, 전문가까지 포함해 보수·진보를 가리지 않고 모든 주체가 참여해야 한다.” &lt;br&gt;&lt;br&gt;−‘소년공 출신’ 이 대통령에 대해 노동계에서 기대하는 바가 큰데.&lt;br&gt;&lt;br&gt;“이 대통령은 누구보다 전태일 정신을 잘 아는 분이라고 본다. 제가 전태일재단 사무총장으로 있던 시절, 전태일 50주기 추도식을 경기도와 함께 열었다. 당시 경기도지사였던 이 대통령이 추도사에서 본인도 소년공 출신임을 밝혔다. 전태일은 지금 기준으로 보면 대기업 정규직이었지만, 자신의 처우 개선이 아니라 자신보다 더 어려운 시다나 미싱사들을 위해 살신성인했다. 이 대통령 역시 그런 정신을 잘 이해하고 있을 것이다.”&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;☞노동조합법 2·3조 개정안&lt;br&gt;&lt;br&gt;원청 기업이 하청 노동자에 대해서도 사용자 책임을 지도록 하고(2조), 노조 파업에 대한 기업의 손해배상 청구를 제한하는 것(3조)이 골자다. ‘노란봉투법’이라고도 한다. 2009년 쌍용차 불법 파업에 참여한 노조원들이 47억원의 손해배상 판결을 받자, 이들을 돕기 위한 성금이 노란 봉투에 담겨 전달된 데서 유래한 명칭이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/V6O65FW7ZRDUTNBNKGOKJ3A7RY.png"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;나용수 서울대 원자핵공학과장 “전력 수요 폭증 AI 시대, 원자력은 필수”&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YO6RDIP74JBAHCMHIVS4PPCYUQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;나용수 서울대  원자핵공학과장/ 고운호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“소형 모듈 원자로(SMR)와 핵융합 등 원전 연구 지원을 중단한다면 우리의 에너지 안보와 산업 경쟁력을 제대로 지킬 수 없습니다. 인공지능(AI) 시대 폭증할 전력 수요를 감당하려면 원자력 에너지는 필수입니다. ”&lt;br&gt;&lt;br&gt;나용수 서울대 원자핵공학과장은 12일 본지 전화 인터뷰에서 “미국을 포함한 전 세계 선진국들이 원전 기술을 두고 패권 경쟁을 벌이고 있다”며 “지금 와서 기술 투자를 중단한다면 ‘원전 강국’인 한국이 나중엔 원전을 수입해야 하는 처지에 놓일 것”이라고 했다. 핵융합 공학 및 플라스마 물리 전공자인 나 학과장은 세계적인 원자핵공학 전문가로 꼽힌다.&lt;br&gt;&lt;br&gt;도널드 트럼프 미 행정부는 지난달 “이제는 원자력 시대”라고 선언하고 원전을 향후 25년간 4배로 늘리겠다고 발표했다. 원전 관련 규제를 완화하는 내용의 행정명령 4개에도 서명하고, 원전 건립에 속도를 내 신규 원전을 18개월 내로 허가하겠다고 했다. 아랍에미리트(UAE), 체코 등도 잇따라 우리 원전을 도입하기로 하는 등 전 세계가 원전 확보를 서두르는 모양새다.&lt;br&gt;&lt;br&gt;-미국 등 전 세계에서 ‘원전 회귀’ 현상이 나타나고 있다.&lt;br&gt;&lt;br&gt;“원전은 결코 버려선 안 될 선택지다. 최근 마이크로소프트에서 ‘핵융합’ 등 차세대 원자력 기술에 관한 연구를 함께 하자고 제의가 와서 새삼스레 왜 원자력에 투자하느냐고 물었다. ‘AI 데이터센터를 가동하는 데 필요한 엄청난 에너지원을 충당하려면 원자력 외엔 대안이 없더라’고 답하더라.”&lt;br&gt;&lt;br&gt;-당장 이재명 정부 5년 내 원전 8기가 수명을 다한다.&lt;br&gt;&lt;br&gt;“원전은 기본적으로 정해진 수명보다 보수적으로 설계됐기에 몇 십 년 더 운영해도 문제가 없다. 그러나 원전 일부가 (정해진 수명에 따라) 문을 닫게 된다면 필요한 전력을 구하는 게 정말 큰 문제가 될 것이다.”&lt;br&gt;&lt;br&gt;-SMR 등 차세대 원전 기술에 대해선 여야 모두 어느 정도 공감대가 있는 것 아닌가.&lt;br&gt;&lt;br&gt;“전 세계는 SMR과 핵융합이라는 차세대 기술을 두고 격렬하게 경쟁 중이다. SMR은 대형 원자력발전소의 핵심 설비를 하나의 모듈에 담은 일체형·소형 원자력발전소를 뜻한다. 태양처럼 핵융합 반응을 일으켜 전력을 생산하는 핵융합은 우라늄이 아닌 수소를 이용한다. 방사성 폐기물이 거의 없거나 전무해 현재의 원전 기술에 비해 안전한 차세대 에너지원들이다. 미국·유럽 등 서방은 물론 중국 또한 SMR, 핵융합 기술 개발에 전력 투구하고 있다. 향후 10년간 기술 돌파에 성공한다면 ‘에너지 패권’의 파급효과는 엄청날 것이다."&lt;br&gt;&lt;br&gt;-한수원은 최근 체코에 25조원 규모 원전을 수출하는 계약을 확정했다.&lt;br&gt;&lt;br&gt;“원전 하나를 수출하는 것이 자동차 수십만 대를 수출하는 것보다 경제적 효과가 크다. 우리가 현재 기술로 수출만 하고 내부적으론 ‘신재생’을 외치면서 원전 기술 투자는 줄인다면 첨단 원자력 기술을 두고 갈수록 치열해지는 세계 경쟁에서 미래엔 원전 기술을 수입해야 하는 처지에 놓일 것이다.”&lt;br&gt;&lt;br&gt;-원전은 위험하다는 주장에 대해선 어떻게 생각하나.&lt;br&gt;&lt;br&gt;“원전의 위험성은 과대평가돼 있다. 위험으로 따지면 화력발전소가 훨씬 위험하고 폐기물 문제도 많다. 방사선은 눈에 보이지 않아 더 무섭게 느껴진다. 그러나 한국의 원전은 (체르노빌 사고가 난) 러시아나 (후쿠시마 사고가 난) 일본 원전과는 달리 다중 방어 시스템이 갖춰져 있어 훨씬 안전하다. 방사선에 대한 막연한 공포로 원전 개발을 포기한다? 비행기 추락할까 봐 비행기 안 타고, 자동차 사고 날까 봐 자동차 안 타는 거다. 작년 9월 안덕근 산업부 장관을 만난 (원자핵공학과) 학생들이 정권이 바뀔 때마다 (관련 업계가) 흔들리는데 안정적으로 학문 연구를 할 방법을 마련해 달라더라. 에너지 문제가 정치화된다면 결국 전기료 상승 등 피해는 국민에게 돌아간다. 이 대통령이 (에너지가 부족한) 한국의 실정에 맞게 재생에너지는 물론 원전 개발도 함께 하는 합리적인 ‘에너지 믹스’를 계획해 줬으면 좋겠다.”&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RI75XCUB7BGVZLQGEVJB5XNUUQ.png"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/4CSFPZIGLJB2BN7EBKXGLPLEI4.jpg?auth=f15fe551de5e06bd279a816c7ef711e09821d69ac908bcc1fa087274d9e233b4&amp;smart=true&amp;width=500&amp;height=281" type="image/jpeg" height="281" width="500"/>
-    </item>
-    <item>
       <title>‘검수완박’도 모자라… 국가수사위원회로 ‘여수완장’ 나선 민주</title>
       <link>https://www.chosun.com/national/court_law/2025/06/13/AMJPYKDYEJGBNK7PK4O7HVDXOA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/13/AMJPYKDYEJGBNK7PK4O7HVDXOA/</guid>
@@ -836,15 +890,6 @@
       <media:content url="https://www.chosun.com/resizer/v2/XDKPXN6CSFBDZERP5MK32J6QQQ.png?auth=6e3480c0b28214dde9201f1964b1c9a2f97c19552e27902323c8e7ce5fe9ed17&amp;smart=true&amp;width=1200&amp;height=675" type="image/png" height="675" width="1200">
         <media:description type="plain">그래픽=박상훈</media:description>
       </media:content>
-    </item>
-    <item>
-      <title>명동 불법 노점 단속 강화한다... “카드결제 거부·바가지도 강력 대응"</title>
-      <link>https://www.chosun.com/national/national_general/2025/06/13/LAUCU742V5FXTJT2RS2E7XSUZY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/13/LAUCU742V5FXTJT2RS2E7XSUZY/</guid>
-      <dc:creator>조민희 기자, 구아모 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 12 Jun 2025 15:53:00 +0000</pubDate>
-      <content:encoded>서울 중구는 명동 중심가인 명동길에서 장사하는 노점(露店)들에 대해 “불법 노점들에 대해선 단속을 대폭 강화해 ‘관광 1번지’의 신뢰를 회복하겠다”고 12일 밝혔다. 본지는 명동 거리 노점 220여 개 중 상당수가 주인 한 명이 여러 노점을 운영하는 ‘기업형 노점’인 데다가, 카드 결제를 거부하는 곳도 많다고 보도(6월 11일 자 A2면)했다.&lt;br&gt;&lt;br&gt;중구는 지난 2016년부터 1년에 약 90만원을 받고 도로 점용 허가증을 내주는 대신 ‘1인 1노점’ ‘본인 직접 운영’ ‘격일제 운영’을 명시한 노점 실명제를 운영하고 있다. 그러나 본지가 명동 현장을 찾았더니 사장 없이 직원을 따로 고용해 운영하거나, 현금 계좌 이체를 받기 위해 매대에 적어 놓은 은행 계좌 번호가 여러 노점에서 겹치는 경우가 많았다. 이를 해결하기 위해 중구는 고객을 가장해 노점들의 서비스를 감시하는 ‘미스터리 쇼퍼(Mystery Shopper)’ 제도를 대폭 확대하기로 했다. &lt;br&gt;&lt;br&gt;중구는 또 기존 특별사법경찰관(특사경) 4명 외에 전담 인력 1명을 추가 투입하기로 했다. 중구 관계자는 “실명제 위반 노점에 대해 허가 취소 등 실효적인 조치를 검토하고 있다”며 “현장 검증을 강화하고 위반 시 계도뿐 아니라 행정 처분까지 병행할 방침”이라고 했다. 중구는 현재 격일제로 운영되는 노점 영업을 ‘3일에 한 번’으로 제한하는 ‘3부제 영업’ 도입도 검토 중이다. 중구청 관계자는 “작년 12·3 계엄령 이후 명동 일대 관광객이 급감하면서 상권 전체가 침체돼 있는 상황에서 강력 단속을 하지 못했던 것이 사실”이라며 “관광객들의 신뢰를 다시 되찾기 위해 카드 결제를 거부하거나 바가지를 씌우는 노점에 대해선 강력 대응하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>접경지 주민들 “北 기괴한 소음 사라져, 1년 만에 꿀잠”</title>
@@ -905,15 +950,6 @@
       </media:content>
     </item>
     <item>
-      <title>창업하기 좋은 도시… 서울, 세계 8위 올라</title>
-      <link>https://www.chosun.com/national/national_general/2025/06/13/2FHTKKNYKBGLPE4G2KUQSVOP4U/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/13/2FHTKKNYKBGLPE4G2KUQSVOP4U/</guid>
-      <dc:creator>김영우 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 12 Jun 2025 15:53:00 +0000</pubDate>
-      <content:encoded>서울이 세계에서 여덟째로 창업하기 좋은 도시라는 조사 결과가 나왔다. 12일 서울시에 따르면, 서울은 미국의 스타트업 분석 업체인 ‘스타트업 지놈’이 세계 도시 300곳을 대상으로 실시한 ‘2025년 세계 스타트업 생태계 조사’에서 8위에 올랐다. 스타트업 지놈은 각 도시가 얼마나 창업하기 좋은 환경을 가졌는지 평가해 매년 발표하고 있다.&lt;br&gt;&lt;br&gt;서울은 2020년 20위를 기록한 이후 순위가 오르고 있다. 2021년 16위, 2022년 10위, 2023년 12위, 지난해 9위였다. 올해는 싱가포르(9위)를 제치고 역대 가장 높은 8위에 올랐다. &lt;br&gt;&lt;br&gt;1위는 미국 실리콘밸리였다. 2012년 첫 평가 때부터 14년째 1위를 지키고 있다. 2위는 미국 뉴욕, 3위는 영국 런던이었다. 아시아에선 이스라엘 텔아비브가 4위, 중국 베이징이 5위였다. 일본 도쿄는 11위로 서울보다 순위가 낮았다. &lt;br&gt;&lt;br&gt;서울시 관계자는 “세부 평가 항목별로 보면 ‘자금 조달’ 항목의 점수가 특히 높았다”고 했다. 스타트업에 대한 투자 규모가 그만큼 크다는 뜻이다. 이와 관련해 서울시는 2019년부터 3년간 ‘미래 혁신 성장 펀드’를 조성해 스타트업 1538곳에 3조6000억원을 투자했다. 2023년부터는 ‘서울 비전 2030 펀드’를 조성해 내년까지 총 5조원을 투입한다. 서울시 관계자는 “시가 꾸준히 스타트업에 투자하면서 ‘엑시트(투자 자금 회수)’에 성공한 스타트업도 크게 늘었다”고 했다. 서울시에 따르면, 2020~2024년 엑시트에 성공한 서울 스타트업은 360곳이었다.&lt;br&gt;&lt;br&gt;주용태 서울시 경제실장은 “AI(인공지능), 바이오, 로봇 등 스타트업을 집중 육성해 2030년까지 (베이징을 제치고) 세계 5위로 도약하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[기자수첩] 대통령 재판 중단, 설명은 달랑 14글자</title>
       <link>https://www.chosun.com/national/court_law/2025/06/13/KJEBLP3JMRGGNEJLYZJHPD2HTE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/13/KJEBLP3JMRGGNEJLYZJHPD2HTE/</guid>
@@ -958,36 +994,6 @@
       <description/>
       <pubDate>Thu, 12 Jun 2025 15:53:00 +0000</pubDate>
       <content:encoded>대구에서 스토킹하던 여성을 살해하고 달아난 40대 남성을 경찰이 사흘째 추적 중이다. 대구 성서경찰서는 살인 혐의로 40대 남성 A씨를 추적하고 있다고 12일 밝혔다. A씨는 지난 10일 오전 3시 30분쯤 대구 달서구의 한 아파트에 침입해 50대 여성 B씨를 흉기로 살해한 혐의를 받고 있다. A씨는 아파트 외벽의 가스관을 타고 6층에 있는 B씨 집에 침입한 것으로 파악됐다. &lt;br&gt;&lt;br&gt;A씨는 앞서 지난 4월 스토킹하던 B씨를 흉기로 협박해 체포됐으나 법원이 구속영장을 기각해 불구속 상태에서 조사받고 있었던 것으로 알려졌다. 당시 법원은 “남성이 수사에 제대로 응하고 있다”며 영장을 기각했다. 이후 B씨는 경찰의 신변 보호를 받았지만 소용이 없었다.&lt;br&gt;&lt;br&gt;B씨 집 앞에 A씨의 얼굴을 인식할 수 있는 AI(인공지능) 방범 카메라가 설치돼 있었지만 A씨 얼굴은 잡히지 않았다고 한다. 경찰 관계자는 “A씨가 카메라의 사각지대를 노린 것 같다”고 했다. 경찰은 B씨에게 스마트워치도 지급했지만 B씨는 사건 당시 스마트워치를 착용하고 있지 않았던 것으로 확인됐다. &lt;br&gt;&lt;br&gt;경찰은 A씨가 세종시 부강면의 한 산속으로 도주한 것으로 보고 수색 중이다. 세종시는 이날 시민들에게 “당분간 입산을 자제해달라”고 당부했다.&lt;br&gt;&lt;br&gt;스토킹 범죄는 재범 위험이 높기 때문에 가해자를 격리하는 등 대응을 강화해야 한다는 지적이 나온다. 지난달에는 경기 화성 동탄신도시에서도 30대 남성이 스토킹하던 여성을 살해한 사건이 발생했다. 이 여성도 경찰의 신변 보호를 받고 있었다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>피란 때도 양치, 99세엔 임플란트… 102세 ‘건치 어르신’</title>
-      <link>https://www.chosun.com/national/people/2025/06/13/QAYJXJOWFVFSPHBSAHAQ3AYUJM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/06/13/QAYJXJOWFVFSPHBSAHAQ3AYUJM/</guid>
-      <dc:creator>오경묵 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 12 Jun 2025 15:51:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UMKRJIAXXJG5ZMGQSBZND3SVSI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;11일 오전 서울 강서구 자택에서 102세 건치 어르신 김임식 씨가 포즈를 취하고 있다. 김씨는 건치 관리의 비결로 잇치 치약과 인사돌 복용을 꼽았다./ 고운호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 9일 ‘구강 보건의 날’에 1923년생 김임식(102)씨가 ‘건치 어르신’에 선정돼 보건복지부 장관상을 받아 화제가 됐다. 김씨는 기념행사에서 “어릴 때부터 물을 자주 마시고, 식사 후 치아 사이사이를 잘 관리한 덕분”이라고 밝혔다. 공개된 사진 속 김씨는 나이가 믿기지 않을 정도로 젊고, 이도 튼튼해 보였다. 건치 비결이 궁금해 지난 11일 김씨 집을 찾았다. &lt;br&gt;&lt;br&gt;김씨는 서울 강서구 화곡동의 한 빌라에 홀로 거주하고 있었다. 깔끔하게 잘 정리된 집 안방에 들어서자 김씨가 환하게 웃으며 기자를 맞았다. 고른 치아가 드러났다. 피부 상태와 머리숱도 70~80대 못지않아 보였다. 오른 다리가 불편해 집 안에서도 지팡이를 짚고 고혈압과 신경통 약을 꾸준히 챙겨 먹지만, 그 외엔 비교적 건강한 편이라고 한다. 김씨는 자식 여덟을 낳았고, 한평생 집안일만 했다. 그는 “자식들에게 폐가 되기 싫어 혼자 지낸다”고 말했다. 요즘엔 요양보호사가 일주일에 대여섯 번 방문해 3시간 30분씩 머물며 식사를 챙겨주고 청소를 돕는다.&lt;br&gt;&lt;br&gt;김씨는 현재 건강한 치아를 23개 갖고 있다. 치약 회사가 ‘20개의 건강한 치아를 80세까지’라는 캐치프레이즈를 내걸 만큼 노년에 이만큼 건치를 유지하는 것은 쉽지 않은 일이다. 비결을 묻자 김씨는 “그저 양치질 열심히 하는 게 최고”라며 “어릴 적부터 양치를 안 하면 입안이 갑갑해 수시로 했던 것이 평생 습관이 됐다”고 말했다. &lt;br&gt;&lt;br&gt;강원도 철원 출신인 김씨는 10남매 중 장녀로 태어났다. 해방 이후 가족과 함께 서울로 상경했다. 6·25 전쟁 때는 경기도 과천 청계산 기슭으로 피란을 갔다. 제대로 된 칫솔도 없는 전쟁 통에도 양치는 잊지 않았다. 김씨는 “개울에 들어가 손발 닦고 나면, 바닥에 있는 모래 중 고운 것만 모아서 치약 삼아 두 손가락으로 양치를 했다”며 “우리 어머니가 ‘양치 좀 안 하면 어떠냐. 유난이다’라고 핀잔을 줄 정도였다”고 했다. 건치는 집안 내력이기도 하다. 김씨의 어머니도 88세로 별세할 때까지 틀니 하나 없이 자연 치아를 유지했다고 한다. &lt;br&gt;&lt;br&gt;김씨는 99세이던 2022년 임플란트 시술을 받았다. 간식을 먹다가 꼬챙이를 잘못 씹어 오른쪽 아래 어금니가 깨졌다. 김씨의 주치의인 송종운 강서메트로치과 원장(대한치과의사협회 치무이사)은 “전반적으로 치아 건강이 좋고, 특히 잇몸 상태가 양호해 임플란트 시술에 무리가 없었다”고 말했다. 김씨는 6개월 단위로 치과에 가서 정기 검진을 받는다고 한다. 그는 “잇몸 건강을 위해 40년간 잇몸 건강 보조제를 챙겨 먹은 것도 건치를 유지하는 비결인 것 같다”고 했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IT2QABWUDBFGDDTPGPUJ7TZNJY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;11일 오전 서울 강서구 자택에서 102세 건치 어르신 김임식 씨가 포즈를 취하고 있다. 김씨는 건치 관리의 비결로 잇치 치약과 인사돌 복용을 꼽았다./ 고운호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김씨는 또 시중에 판매하는 치실이나 치간 칫솔 대신 직접 플라스틱 부채를 얇고 길게 자른 조각을 쓴다. 수십 년 전 해외에 갈 때 비행기에서 납작한 이쑤시개를 써본 데서 힌트를 얻었다고 한다. 칫솔도 3개월마다 반드시 교체한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/J3DQ4GPRUVFLHEBW5UJWMRKKS4.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=양진경&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김씨는 인터뷰하는 내내 허리를 꼿꼿하게 세우고 앉아 있었다. 그는 “평소에도 이렇게 앉아서 TV 보며 소일거리한다”고 했다. 트로트 프로그램이나 교양 프로그램을 주로 본다고 한다. 김씨는 “TV를 보면서 수시로 건강 체조를 하고, 앉았다 일어났다 하면서 운동을 한다”며 “치매가 무서워서 손가락 운동도 열심히 한다”고 했다. 김씨를 돌보는 요양보호사 이해선(71)씨는 “워낙 부지런하신 데다 항상 바른 자세를 유지하고, 틈틈이 운동까지 하시는 게 건강의 비결인 것 같다”고 했다.&lt;br&gt;&lt;br&gt;규칙적으로, 조금씩 식사를 하는 것도 건강을 유지하는 비결이다. 주로 밥과 김치, 된장국, 각종 채소를 챙겨 먹는다. 김씨는 “하루 계란 2개는 꼭 챙겨 먹는다”며 “나만의 건강식”이라고 했다. 간식으로는 믹스커피와 빵, 과일을 주로 먹는다고 했다.&lt;br&gt;&lt;br&gt;인생의 황혼기인 김씨에게 “여한은 없으시냐”고 물었다. 그는 “이만큼 건강하니 뭘 더 바랄 게 있겠나. (6·25 참전 용사인) 우리 영감님이 호국원에 있는데, 옆에 자리 있으니까 나중에 거기로 가면 된다”면서 건치를 드러내고 미소 지었다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/UMKRJIAXXJG5ZMGQSBZND3SVSI.jpg?auth=aacf955098abb462e7d6ef8589edf825763864703e8dae86ebd721ce79b7598a&amp;smart=true&amp;width=4000&amp;height=2667" type="image/jpeg" height="2667" width="4000">
-        <media:description type="plain">11일 오전 서울 강서구 자택에서 102세 건치 어르신 김임식 씨가 포즈를 취하고 있다. 김씨는 건치 관리의 비결로 잇치 치약과 인사돌 복용을 꼽았다./ 고운호 기자</media:description>
-      </media:content>
-    </item>
-    <item>
-      <title>김성각 KAIST 명예교수, 고려대에 1억 상당 주식 기부</title>
-      <link>https://www.chosun.com/national/people/2025/06/13/ZVKLZXNPUFE6RDYL2GG522WGLA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/06/13/ZVKLZXNPUFE6RDYL2GG522WGLA/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 12 Jun 2025 15:51:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2R75HULL2BDHZD3SSWH2GW6OLI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;12일 오전 서울 성북구 고려대 총장실에서 기부식이 진행됐다. 왼쪽이 김성각 KAIST 명예교수. /고려대&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김성각(79·사진) KAIST 화학과 명예교수가 고려대학교 화학과에 ㈜한켐 주식 1만1000주(약 1억원)를 기부했다.&lt;br&gt;&lt;br&gt;김 교수는 KAIST 재직 당시 분자설계합성연구센터(CMDS)를 유치해 연구를 주도했고, 이 과정에서 한켐과 공동 연구를 시작했다. 한켐은 1999년 창업 후 2002년까지 KAIST 보육 기업으로 입주해 성장한 의약품 위탁 생산(CMO) 전문 기업이다.&lt;br&gt;&lt;br&gt;김 교수는 KAIST 재직 당시 고려대 명예교수인 정낙철·하덕찬 교수와 함께 CMDS에서 공동 연구를 진행하며 고려대와 인연을 쌓았다.&lt;br&gt;&lt;br&gt;12일 열린 기부식에서 김 교수는 “학생들이 더 나은 환경에서 학문적 성장을 이루길 바란다”고 말했고, 김동원 고려대 총장은 “학문 후속 세대를 위한 든든한 토대를 마련하겠다”고 답했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[법없이도 사는법]이재명 대통령 재판 연기, 법적으로 다툴 방법은</title>
-      <link>https://www.chosun.com/national/court_law/2025/06/13/KMQOZWG3C5AIVBBPMIOOEO2XFE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/13/KMQOZWG3C5AIVBBPMIOOEO2XFE/</guid>
-      <dc:creator>양은경 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 12 Jun 2025 15:10:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KLI737IRVMWMMBZ2S75GFTNJUM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이재명 대통령이 10일 서울 용산구 대통령실 청사에서 열린 국무회의에서 모두발언을 하고 있다. (대통령실 제공. 재판매 및 DB 금지) 2025.6.10/뉴스1 ⓒ News1 허경 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울고법 형사 7부(재판장 이재권)가 지난 9일 이재명 대통령의 공직선거법 위반 사건에 대해 “헌법 84조에 따른 조치”라면서 오는 18일 예정됐던 파기환송심 재판의 기일을 추후지정하겠다고 밝혔습니다. &lt;br&gt;&lt;br&gt;헌법 84조는 ‘대통령은 내란 또는 외환의 죄를 범한 경우를 제외하고는 재직 중 형사상 소추를 받지 아니한다’는 내용입니다. ‘소추’에 재판이 포함되는지 여부에 대해서는 학계에서 견해대립이 있는 부분인데 법원이 포함된다고 보고 재판 중단 결정을 내린 것입니다. &lt;br&gt;&lt;br&gt;대법원이 이 사건을 유죄 취지로 파기환송했지만, 서울고법의 이 같은 해석에 따르면 이 대통령 임기 내에 재판이 열리기는 사실상 어려워진 셈입니다. 다음날인 10일 이 대통령 형사사건 중 가장 복잡하고 덩어리가 큰 대장동·위례·성남FC·백현동 사건을 맡은 서울중앙지법 형사 33부(재판장 이진관)도 “헌법 84조를 적용해 기일을 추정했다”고 밝혔습니다. &lt;br&gt;&lt;br&gt;그동안 사건을 수사해 공소유지를 맡아온 검찰이 법원의 이런 조치를 다툴 방법이 있을까요. 먼저 법원의 결정에 대한 ‘항고’를 생각해 볼 수 있습니다.&lt;br&gt;&lt;br&gt; 그러나 형사소송법 403조는 ‘판결 전 소송절차에 관한 결정에 대해서는 특별히 즉시항고를 할 수 있는 경우 외에는 항고를 하지 못한다’고 돼 있습니다. &lt;br&gt;&lt;br&gt;‘기일 추정’(추후지정)은 판결 전 소송절차에 관한 결정이고 따로 즉시항고 절차를 정하고 있지 않아 항고 대상이 아니라는 게 법조계의 대체적인 견해입니다. &lt;br&gt;&lt;br&gt;이의신청은 가능할까요. 형소법 304조는 ‘검사, 피고인 또는 변호인은 재판장의 처분에 대해 이의신청을 할 수 있다’고 돼 있습니다. 따라서 재판부의 기일 추정에 대한 이의신청은 가능한 것으로 보입니다. 다만 이미 기일 추정을 한 재판부로서는 사정변경이 없는 한 기일 추정을 뒤집는 결정을 하기는 어려울 것입니다. &lt;br&gt;&lt;br&gt;검사 개인이 ‘재판을 할 권리를 침해받았다’며 헌법소원을 내는 것은 어떨까요. 이에 대해서도 어렵다는 견해가 더 많습니다. 검찰이 공소유지를 하는 것은 기관으로서 직무를 수행하는 활동이지 자연인으로서 기본권을 행사하는 과정이 아니기 때문입니다. &lt;br&gt;&lt;br&gt;검사가 아닌 일반 국민의 헌법소원 가능성을 보겠습니다. 실제 헌재에는 지난 9일부터 ‘서울고법 재판부의 이 대통령 재판 기일추정으로 평등권이 침해됐다’는 헌법소원 네 건이 접수됐습니다. 이 대통령에 대한 재판부의 불소추 특권 적용이 위헌이라거나, 헌법 84조가 위헌임을 확인해 달라는 내용으로 알려졌습니다. &lt;br&gt;&lt;br&gt;일단 헌법조항의 위헌 여부를 확인해 달라는 헌법소원은 현행법상 허용되지 않습니다. 헌재는 법령이나 공권력의 행사가 헌법에 위반되는지를 판단하는 기관이기 때문에 헌법 조항은 위헌 심판의 대상이 아닙니다. 이는 과거 헌재가 헌법 84조 위헌확인 사건에서도 판단한 법리입니다. &lt;br&gt;&lt;br&gt;또한 법원의 재판에 대해서는 헌법소원을 할 수 없게끔 한 현행 헌법재판소법에 비춰서도 이번 헌법소원은 헌재의 문턱을 넘기 어려워 보입니다. 대법원의 공직선거법 유죄 취지 파기환송 이후 민주당이 법원의 재판에 대해서도 헌법소원을 가능하게 하는 법개정을 추진하고 있지만, 현행 법제에서는 헌법소원의 법적 요건을 갖추지 못해 ‘각하’될 가능성이 높습니다. &lt;br&gt;&lt;br&gt;이번 서울고법의 기일추정은 대통령 당선시 진행 중인 형사재판을 중지하는 내용의 형사소송법 개정안이 본회의를 통과하기도 전에 법원이 선제적으로 취한 조치입니다. ‘바람이 불기도 전에 풀이 눕는다’는 말이 생각나는 대목입니다.&lt;br&gt;&lt;br&gt;만일 이 법안이 12일 본회의를 통과해 공포되고 법원이 법에 따라 재판을 연기했다면 평등권 침해 여부 등 이 법안의 위헌성에 대한 헌재 판단을 받을 여지가 생겼을 것입니다. 하지만 법원이 법안 통과 전에 선제적으로 재판 연기 조치를 취하면서 그런 여지가 없어졌고 정작 민주당은 이 법안을 비롯해 상법 개정안, 방송 3법 개정안 등의 처리를 차기 지도부 출범 이후로 미뤘습니다. &lt;br&gt;&lt;br&gt;이처럼 법 통과 전 취해진 법원의 선제적 조치로 이 대통령은 2023년 6월까지 재임 기간 동안 사법 리스크를 사실상 벗어나게 됐습니다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
