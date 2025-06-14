@@ -13,6 +13,24 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>이명현 특검, 박정훈 변호인 면담… ‘해병대원 사건’ 파악 나서</title>
+      <link>https://www.chosun.com/national/court_law/2025/06/14/ZGLG5P3M6ZGKJIZBEPTRI7AL4Q/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/14/ZGLG5P3M6ZGKJIZBEPTRI7AL4Q/</guid>
+      <dc:creator>방극렬 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 14 Jun 2025 04:47:53 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UYGH2T5QGZPLVLEVPOQYFZBOUU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;해병대원 채모 상병 순직 사건을 수사하는 이명현 특별검사가 13일 서울 서초동 사무실을 나서고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;해병대원 채모 상병 순직 사건을 수사하는 이명현 특별검사(특검)가 특검 임명 다음날 박정훈 전 해병대 수사단장(대령) 변호인인 김정민 변호사를 만나 사건 관련 의견을 청취했다.&lt;br&gt;&lt;br&gt;14일 법조계에 따르면 이 특검은 전날 오후 김 변호사를 만나 특검 구성과 그동안 사건 진행 등과 관련한 의견을 나눈 것으로 전해졌다. 이 특검은 김 변호사를 약 2시간 넘게 면담하며 해병대원 사건 전반에 대한 브리핑을 들었다고 한다.&lt;br&gt;&lt;br&gt;이 특검은 김 변호사에게 특별검사보로 함께 일할 것을 제안했지만, 김 변호사는 수사의 공정성 문제 등을 이유로 이를 고사했다고 전했다. 김 변호사는 이날 “박 전 단장을 대리해 항명 사건을 담당했던 군검사를 상대로 고소장을 제출하는 등 사건에 깊이 관여한 만큼, 특검보로 수사에 참여하는 건 부적절하다고 판단했다”고 설명했다. 김 변호사는 현재 박 전 단장의 항명 사건 1·2심 변호인을 맡고 있다.&lt;br&gt;&lt;br&gt;앞서 이 특검은 특검보 인선과 관련해 “박정훈 대령 변호인이던 김정민·김경호 변호사 등이 (저와) 같이 근무한 후배들로, 그분들이 저한테 자문하고 내용도 어느 정도 알고 있어서 그분들이 선발되면 좋겠다”고 말했다.&lt;br&gt;&lt;br&gt;지난 12일 이재명 대통령이 임명한 이 특검은 2023년 7월 경북 예천에서 호우 피해 실종자 수색 작전을 하다가 순직한 해병대원과 관련한 수사에서 윤석열 정부 대통령실이 외압을 행사했다는 의혹 등을 수사한다. 이 특검은 20일 내에 특검보 임명, 검사 파견, 사무실 마련 등의 절차를 마친 뒤 최장 120일간 수사를 진행하게 된다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>민주당 “대북전단 살포는 불법 소지… 경찰, 엄정 대응하라”</title>
+      <link>https://www.chosun.com/politics/assembly/2025/06/14/DDXLTKFMVJB7VLVISWWHB3L65U/</link>
+      <guid isPermaLink="true">https://www.chosun.com/politics/assembly/2025/06/14/DDXLTKFMVJB7VLVISWWHB3L65U/</guid>
+      <dc:creator>김경필 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 14 Jun 2025 04:26:57 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KOKZU7573VC75P7QWII5P4VKPE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 12일 경기 파주시 자유로에서 본 북한의 대남 확성기 모습. 이재명 대통령은 소셜미디어를 통해 “11일 오후 2시부로 우리 군이 전방 지역에서 진행하던 대북 확성기 방송을 중지하도록 지시했다”고 했다. 합동참모본부는 북한의 대남 소음 방송이 청취된 지역이 없다고 밝혔다. /장련성 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;더불어민주당은 14일 납북자가족모임이 경기 파주시 임진각에서 대북전단을 살포하겠다고 한 데 대해 “대북전단 살포 행위는 현행법 위반 소지가 매우 높다”며 “경찰과 관련 지방자치단체는 불법적인 전단 살포 행위에 엄정히 대응하라”고 했다.&lt;br&gt;&lt;br&gt;민주당 김성회 대변인은 이날 오후 논평에서 “대북전단 살포를 예고한 시민단체에 숙고를 요청드린다”며 이같이 말했다. 김 대변인은 “불필요하게 접경 지역 주민들의 안전을 위협하는 행위를 하기보다는, 진정한 북한 인권 보호와 한반도 평화를 위해 함께 머리를 맞대기를 희망한다”고 했다.&lt;br&gt;&lt;br&gt;김 대변인은 또 이재명 대통령이 지난 11일 군의 대북 확성기 방송을 중지시키고 이에 북한이 이튿날부터 대남 소음 방송을 중지한 것을 두고 “북한의 중단 의도가 무엇이든 간에, 접경 지역 주민들이 소음 지옥에서 벗어날 수 있다는 사실에 안도한다”고 했다. 이어서 “남북 상호 간의 이번 조치가 일시적인 현상에 그치지 않고, 지난 3년간 쌓여온 불신을 걷어내고 평화와 공존, 공동 번영을 향한 첫 단추가 되기를 희망한다”고 했다.&lt;br&gt;&lt;br&gt;김 대변인은 “지난해 6월 윤석열 정부가 오물 풍선에 맞서 대북 방송을 재개하자 북한도 즉각 대남 방송을 시작했다”며 “접경지 주민들은 밤낮으로 울려퍼지던 짐승 울음 소리와 같은 괴기스러운 방송에 수면제 없이는 잠을 이루지 못할 정도였다고 한다”고 했다. 그러면서 윤석열 정부의 대북 방송은 “주민들의 건강과 일상 침해는 물론, 접경 지역의 갈등과 위험을 불필요하게 고조시키는 일이었다”고 했다.&lt;br&gt;&lt;br&gt;김 대변인은 “이념과 진영 논리에 갇혀 있던 윤석열 정부 3년 동안 9·19 군사 합의가 무력화되는 등 남북 간 긴장은 최고조에 달했고, 그 피해는 접경 지역 주민을 포함한 국민들이 고스란히 감수해야 했다”고도 했다.&lt;br&gt;&lt;br&gt;김 대변인은 “이제는 달라져야 한다”며 “이재명 정부는 국민의 안전과 이익을 최우선으로 고려할 것이라 기대한다. 민주당도 한반도 평화와 접경 지역 주민들의 안전 확보에 최선을 다하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>빈집 침입해 여성 속옷에 ‘킁킁’… 속옷 훔친 남성은 뒷동 사는 주민이었다</title>
       <link>https://www.chosun.com/national/2025/06/14/AN5BS7AAENDPXEFTRY5BSD67ZU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/2025/06/14/AN5BS7AAENDPXEFTRY5BSD67ZU/</guid>
@@ -705,15 +723,6 @@
       <content:encoded>‘순직 해병 사건 수사 외압’ 의혹을 수사 중인 고위공직자범죄수사처(공수처)가 김동혁 국방부 검찰단장(준장)을 불러 조사 중이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NYNHZA67VR2KD2LUOVQ3KNOON4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기 정부과천청사 고위공직자범죄수사처. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;13일 법조계에 따르면 공수처 해병대원 순직 사건 수사팀(부장 차정현)은 이날 김 단장을 피의자 신분으로 불러 조사하고 있다. 김 단장은 전날(12일)에도 조사를 받은 것으로 전해졌다.&lt;br&gt;&lt;br&gt;김 단장은 지난 2023년 8월 2일 대통령실 지시를 받고 박정훈 전 해병대 수사단장(대령)을 ‘집단항명 수괴’ 혐의로 군 검찰에 입건한 의혹을 받는다.&lt;br&gt;&lt;br&gt;입건 당일 해병대 수사단은 임성근 당시 해병대 1사단장 등 간부 8명을 업무상 과실치사 혐의로 경북경찰청에 이첩했다. 그러자 국방부는 경찰로부터 사건 기록을 회수하는 한편, 수사단장인 박 전 단장을 해임하고 ‘집단항명 수괴’ 혐의로 군 검찰에 입건했다.&lt;br&gt;&lt;br&gt;군사법원에 제출된 통화내역에 따르면 그날 윤석열 전 대통령과 임기훈 전 대통령실 국방비서관, 유재은 전 국방부 법무관리관, 경북경찰청 관계자 간 통화가 순차적으로 이뤄졌다.&lt;br&gt;&lt;br&gt;공수처는 이 과정에서 김 단장이 유 전 관리관과 연락하며 순직 해병 사건을 회수하고, 국방부 조사본부가 기록을 넘겨받아 재검토하는 과정 등에 깊숙이 개입한 것으로 의심하고 있다.&lt;br&gt;&lt;br&gt;공수처는 다른 군 관계자들에 대하 조사도 이어갈 전망이다. 다만 이 의혹 관련 특별검사팀 출범이 임박해, 조만간 공수처는 기존 활동을 마무리하고 모든 수사 기록을 정리해 특검팀에 넘겨야 한다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>폭염 아래 휴식 없이 일하다 사망… 열사병에 첫 중대재해법 처벌 판결 </title>
-      <link>https://www.chosun.com/national/regional/chungcheong/2025/06/13/T3HTH2YBAZBTZMA7TEQIEHQUKY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2025/06/13/T3HTH2YBAZBTZMA7TEQIEHQUKY/</guid>
-      <dc:creator>대전=김석모 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 13 Jun 2025 02:40:57 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/O46NBFMMVZ2BMMMSQVEZ62PY2U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대전지법. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;공사장 작업 중 열사병으로 근로자가 숨진 사건과 관련해 법원이 원청 업체 대표이사에게 징역형의 집행유예를 선고했다. 노동자 열사병 사망에 중대재해처벌법이 적용된 첫 사례다.&lt;br&gt;&lt;br&gt;대전지법 형사12단독 이재민 부장판사는 13일 중대재해 처벌 등에 관한 법률 위반 혐의로 기소된 원청업체 대표이사 A씨에게 징역 1년에 집행유예 2년을 선고했다. 또 산업안전보건법 위반 등의 혐의로 기소된 원청업체 현장소장 B씨에게는 징역 8개월에 집행유예 2년을, 원청업체에는 벌금 8000만원을, 하청업체에는 벌금 600만원을 각각 선고했다.&lt;br&gt;&lt;br&gt;A씨는 폭염이 이어지던 2022년 7월 대전 유성구 탑립동 한 건물 신축 공사 현장에서 콘크리트 타설 작업을 하던 하청업체 소속 근로자가 열사병으로 숨지는 사건과 관련해 근로자들의 안전·보건 확보 의무를 이행하지 않은 혐의로 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;당시 현장에서 쓰러진 근로자는 체온이 40도를 넘었던 것으로 알려졌다.&lt;br&gt;&lt;br&gt;검찰은 A씨가 무더위와 같은 유해·위험 요인을 확인하지 않고 중대 산업재해 매뉴얼을 갖추지 않은 것으로 판단했다. &lt;br&gt;&lt;br&gt;현장소장은 B씨는 폭염 속에서 작업하던 근로자에게 최소한의 휴식 시간과 휴게 장소, 음료수 등을 제공하지 않은 혐의를 받는다. 하청업체 소속 현장소장도 함께 기소됐지만, 재판 중 지병으로 숨져 공소 기각됐다.&lt;br&gt;&lt;br&gt;검찰은 지난해 7월 이들을 기소하면서 “열사병으로 숨진 현장 근로자의 보호와 관련해 원청 대표이사에게 중대재해처벌법을 적용해 기소하는 첫 사례”라고 밝혔다.&lt;br&gt;&lt;br&gt;이 부장판사는 “피해자가 사망하는 돌이킬 수 없는 중대한 결과가 발생했고, 산업재해 예방을 위한 조치들이 시행 중인데도 안타까운 사고가 계속되고 있다”면서 “피고인들이 모두 혐의를 인정하고, 피해자 유족과 합의한 점 등을 감안해 형을 정했다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>“이재명 암살단 모집” 협박글 올린 50대 남성 등 3명 검찰 송치 </title>
       <link>https://www.chosun.com/national/national_general/2025/06/13/TVTIW3Z4SJA3TF7GTZYYJKPHFM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/13/TVTIW3Z4SJA3TF7GTZYYJKPHFM/</guid>
@@ -970,15 +979,6 @@
       <description/>
       <pubDate>Thu, 12 Jun 2025 15:51:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2R75HULL2BDHZD3SSWH2GW6OLI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;12일 오전 서울 성북구 고려대 총장실에서 기부식이 진행됐다. 왼쪽이 김성각 KAIST 명예교수. /고려대&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김성각(79·사진) KAIST 화학과 명예교수가 고려대학교 화학과에 ㈜한켐 주식 1만1000주(약 1억원)를 기부했다.&lt;br&gt;&lt;br&gt;김 교수는 KAIST 재직 당시 분자설계합성연구센터(CMDS)를 유치해 연구를 주도했고, 이 과정에서 한켐과 공동 연구를 시작했다. 한켐은 1999년 창업 후 2002년까지 KAIST 보육 기업으로 입주해 성장한 의약품 위탁 생산(CMO) 전문 기업이다.&lt;br&gt;&lt;br&gt;김 교수는 KAIST 재직 당시 고려대 명예교수인 정낙철·하덕찬 교수와 함께 CMDS에서 공동 연구를 진행하며 고려대와 인연을 쌓았다.&lt;br&gt;&lt;br&gt;12일 열린 기부식에서 김 교수는 “학생들이 더 나은 환경에서 학문적 성장을 이루길 바란다”고 말했고, 김동원 고려대 총장은 “학문 후속 세대를 위한 든든한 토대를 마련하겠다”고 답했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[오늘의 날씨] 2025년 6월 13일</title>
-      <link>https://www.chosun.com/national/national_general/2025/06/13/FGEEKEVYFBGEHKGRRHQQLEHUJA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/13/FGEEKEVYFBGEHKGRRHQQLEHUJA/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 12 Jun 2025 15:50:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/T2VSWGN2X5GDFPHLHXAMWVEU4E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[법없이도 사는법]이재명 대통령 재판 연기, 법적으로 다툴 방법은</title>
