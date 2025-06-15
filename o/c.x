@@ -13,6 +13,42 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>대구 정신병원서 환자 2명이 간호사 폭행하고 도주</title>
+      <link>https://www.chosun.com/national/incident/2025/06/15/HBH4JPC6UFABNNTGXGIPMPWL7E/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/06/15/HBH4JPC6UFABNNTGXGIPMPWL7E/</guid>
+      <dc:creator>김수언 기자, 대구=노인호 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 15 Jun 2025 14:03:57 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AHUWHRWUOAXB2ZYE4RH33VMTPA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대구 성서경찰서 전경. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대구의 한 정신병원에서 입원 중이던 환자 2명이 간호사를 폭행하고 도주하는 사건이 발생했다.&lt;br&gt;&lt;br&gt;15일 대구 성서경찰서에 따르면 전날(14일) 오후 7시 10분쯤 대구시 달서구의 한 정신병원 폐쇄병동에 입원 중이던 10대 환자 A군과 20대 환자 B씨 등 남성 환자 2명이 간호사를 폭행하고 달아났다는 신고가 접수됐다.&lt;br&gt;&lt;br&gt;이들은 간호사를 폭행한 뒤, 출입증을 빼앗아 정신병원을 빠져나간 것으로 파악됐다.&lt;br&gt;&lt;br&gt;경찰은 신고 당일 B씨를 붙잡았지만, A군은 추적 중인 것으로 전해졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>국도서 ‘크루즈 주행’ SUV에 치여, 예초 작업하던 60대 숨져 </title>
+      <link>https://www.chosun.com/national/incident/2025/06/15/2H44ANGTONCT5LSUH7YKKAMXYY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/06/15/2H44ANGTONCT5LSUH7YKKAMXYY/</guid>
+      <dc:creator>김수언 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 15 Jun 2025 13:42:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/X4WX55AXSBGOJAEPHUXGIU3CIA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 마크. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;15일 오전 세종시의 한 국도에서 예초 작업을 하던 60대가 도로를 달리던 SUV차량에 치어 숨지는 사고가 났다. 이 차량은 자동 주행 제어 기능(크루즈 컨트롤)을 켠 채 주행 중이었던 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰에 따르면 이날 오전 10시 58분쯤 금남면 발산리 1번 국도 도로변에서 작업 중이던 A씨가 차량에 치였다. A씨는 심정지 상태로 병원으로 옮겨졌으나 숨졌다.&lt;br&gt;&lt;br&gt;차량 운전자 30대 B씨는 “크루즈 컨트롤 기능을 켠 채 운전했다”고 경찰에 진술한 것으로 전해졌다. 크루즈 컨트롤은 가속 페달을 밟지 않아도 지정된 속도로 차를 주행할 수 있는 기능이다. 음주 운전 등은 아니었던 것으로 확인됐다.&lt;br&gt;&lt;br&gt;경찰은 운전자인 B씨를 도로교통법상 안전운전 부주의 혐의로 입건해 자세한 사고 경위를 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>폭염특보가 한나절 만에 호우특보로... ‘극단 오락가락’ 여름 시작</title>
+      <link>https://www.chosun.com/national/transport-environment/2025/06/15/FPAZLLPBF5HDVH4Q5IODZQ75UY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/06/15/FPAZLLPBF5HDVH4Q5IODZQ75UY/</guid>
+      <dc:creator>박상현 기자, 부산=김준호 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 15 Jun 2025 11:36:48 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HBBD52ODBJIF5GF53XOWFCC6EM.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;많은 비가 내린 13일 오후 대구 달서구 계명대 성서캠퍼스 앞 도로에서 우산을 쓴 시민들이 발걸음을 재촉하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;폭염과 폭우가 교차하는 ‘극단적 여름’의 서막이 열렸다. 정체전선(장마전선)과 1호 태풍 ‘우딥’, 대만 부근 열대저압부가 우리나라로 뜨거운 수증기를 불어넣으며 13~16일 나흘간 전역에 무더위와 집중호우가 번갈아 나타났다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OURH3MUMQZCXPESE5QBRPTF7PE.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=김성규&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;기상청에 따르면, 지난 14일 새벽 부산에 시간당 61㎜의 집중호우가 쏟아지며 관측 121년 만에 6월에 내린 가장 강한 비로 기록됐다. 15일 낮에는 30도를 웃도는 무더위로 경기 내륙에 폭염주의보(이틀간 일 최고 체감기온 33도 이상)가 발효됐다. 올여름 우리나라에 내려진 첫 폭염특보다. 파주의 경우 폭염특보 발효 12시간 만에 호우특보가 발효되며 이례적으로 하루에 폭염·호우특보가 모두 발생했다.&lt;br&gt;&lt;br&gt;오락가락한 날씨의 원인은 각각 대만과 중국 부근에서 우리나라로 온 고온 다습한 수증기 덩어리다. 열대저압부는 태풍 전 단계의 소용돌이로, 세력이 커지면 태풍이 되고 작아지면 특정 지역에 비를 뿌린 후 사라진다. 열대저압부 영향권에 들면 마치 한증막에 들어갔다 나온 것처럼 열기도 오르고 축축해진다. 지구 온난화의 영향으로 본격적인 장마가 오기 전부터 비와 폭염이 짧은 시간 내 번갈아 나타난 것이다.&lt;br&gt;&lt;br&gt;대만발 열대저압부는 13~14일 제주 남쪽 정체전선에 달라붙으며 비구름대를 형성, 제주·남부에 많은 비를 뿌렸다. 이 비로 김포·제주공항에선 항공기 8편이 결항했고, 여객선도 7척 운항 중지됐다. 제주 한라산(진달래밭)에 256.5㎜의 강수가 기록됐고, 전북 완산(166.5㎜), 전남 장성(164.5㎜), 부산(180.5㎜), 경남 거제(170.4㎜) 등에도 많은 비가 내렸다. &lt;br&gt;&lt;br&gt;부산 중구에는 14일 자정부터 1시간 동안 시간당 61㎜의 집중호우가 내리면서 1904년 부산에서 기상 관측을 시작한 이래 가장 강한 6월 비로 기록됐다. 이날 오전 2시 34분쯤 부산 연제구 연산동 거리에선 30대 여성이 맨홀에 빠졌다가 구조됐다. 오전 6시 33분쯤엔 수영구 수영동 한 빌라 지하 주차장이 빗물에 침수돼 소방 당국이 20t가량의 물을 빼냈다. 공사장 자재가 떠내려가거나 나무가 쓰러지는 등 14일 하루에만 경찰·소방에 110여 건의 피해 신고가 접수됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UHHH6LBPGFARFE4LNHUTTAJMPE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;15일 오후 서울 영등포구 여의도 물빛광장에서 어린이들이 더위를 식히는 물놀이를 즐기고 있다. 이날 전국 곳곳에 올해 첫 폭염주의보가 내려졌다. /장련성 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이번 비구름대는 제주, 남부, 중부를 차례로 훑고 지나가며 전역에 열기를 남겼다. 15일에는 낮 동안 강한 햇볕이 내리쬐며 전국에 30도를 웃도는 폭염이 나타났다. 서울의 최고 체감기온이 32.2도를 기록했고, 강원 횡성(33.3도), 대전(32.4도), 광주광역시(33도), 경북 경주(33.3도), 대구(32.1도) 등 높은 기온을 보였다. 기상청은 15일 오전 9시를 기해 경기 포천·가평·파주·안성·여주·양평에 폭염주의보를 발효했다.&lt;br&gt;&lt;br&gt;한편 중부 지방에서는 15일 저녁부터 비구름대가 비를 뿌리기 시작했다. 이날 오후 9시 10분에는 경기 연천·고양·양주·파주·김포, 인천, 제주에 호우특보가 발효됐다. 중국 내륙에서 열대저압부로 약화한 1호 태풍 ‘우딥’이 북쪽 찬 공기와 충돌한 영향이다. 이 비로 폭염주의보는 모두 해제됐다. 오후 10시 기준 강원 철원에 38.5㎜, 경기 포천 32㎜, 대전 28.8㎜ 등 많은 비가 내리는 등 16일까지 비구름대가 전국으로 확대할 전망이다. 제주에선 앞서 비를 뿌린 대만발 열대저압부의 잔재 수증기가 비구름대를 만들겠다. 15~16일 예상 강수량은 수도권 20~80㎜, 강원도 20~60㎜, 충청·전라권 10~60㎜, 경상권 10~100㎜, 제주도 10~150㎜ 등이다.&lt;br&gt;&lt;br&gt;예년보다 일주일 빠른 지난 12일 장마에 들어선 제주와 달리 중부·남부 지방은 아직 장마가 시작되지 않았다. 현재 우리나라 주변 해수면 온도가 평년보다 0.5도가량 높은 상황이라 남쪽 북태평양 고기압과 북쪽 티베트 또는 오호츠크해 고기압이 한반도 상공에서 본격적으로 충돌하는 이달 말부터 다음 달 말 사이에 고온 다습한 남풍(南風)은 더 많이 불어올 것으로 보인다. 여름 남풍은 열대저압부 같은 거대 수증기 덩어리가 우리나라로 오는 것과 비슷한 효과를 내기에 본격적인 장마에 들어가면 반복적인 폭염과 폭우의 경향은 더 두드러질 것으로 예상된다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>서울 자율주행 택시 8개월 무사고, 강남 대부분으로 확대</title>
+      <link>https://www.chosun.com/national/national_general/2025/06/15/ZPWVKOLNIJBCDDAGW53YI6W6JU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/15/ZPWVKOLNIJBCDDAGW53YI6W6JU/</guid>
+      <dc:creator>박진성 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 15 Jun 2025 11:14:13 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QDFPIUOU5RHILLCXSM5UDCYPQQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울시가 운행중인 야간 자율주행택시의 모습/서울시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울시는 오는 16일부터 ‘심야 자율주행 택시’ 운행 구역을 강남 전역으로 확대한다고 15일 밝혔다. 서울시는 작년 9월 강남구 일부 지역에서 국내 최초로 심야 자율주행 택시 운행을 시작했다. 이번에 운행 범위를 강남 대부분 지역으로 확대하는 것이다.&lt;br&gt;&lt;br&gt;서울시 관계자는 “지난 8개월간 4200번 운행하면서 무사고를 기록했다”며 “가장 복잡한 강남에서 1차 검증을 무사히 마친 것”이라고 했다.&lt;br&gt;&lt;br&gt;구체적으로 이용 가능한 지역이 역삼동·대치동·도곡동·삼성동에서 압구정동·신사동·논현동·청담동을 포함한 강남 대부분 지역으로 확대된다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AE64J2DE7VGZZCBA3WREVM24CA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울시가 운행중인 야간 자율주행택시의 모습/서울시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;심야 자율주행 택시는 평일 오후 11시부터 다음 날 오전 5시까지 이용할 수 있다. 카카오T 앱에서 불러 타면 된다. 아직 시범 운행 중이라 요금은 무료다. KGM 코란도 이모션 차량을 기반으로 만든 자율주행 택시 3대를 투입한다. 한 번에 최대 3명까지 탈 수 있다.&lt;br&gt;&lt;br&gt;서울시는 2022년부터 마포구 상암동에서 특정 구간을 오가는 노선형 자율주행 택시를 운영하고 있다. 강남 심야 자율주행 택시는 보통 택시처럼 승객이 원하는 곳을 운행한다. 서울시는 “올해 강남 지역에서 시범 운행을 마무리하고 이르면 하반기부터 상용화할 계획”이라고 말했다. &lt;br&gt;&lt;br&gt;서울시는 심야에 자율주행 버스도 운행하고 있다. 올 하반기 중 운행 노선을 2개에서 5개로 확대할 계획이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>[속보] ‘내란 특검’ 조은석, 오동운 공수처장 면담</title>
       <link>https://www.chosun.com/national/court_law/2025/06/15/BDBN7AISHNENRL63WROMYHDK6M/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/15/BDBN7AISHNENRL63WROMYHDK6M/</guid>
@@ -866,15 +902,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/T6533NIILKWJ57BMOWB4HNGZJE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울교통공사 로고.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지검 형사6부(부장 조영희)는 13일 납품업체에서 억대 뇌물을 받고, 해당 업체가 정상가의 2배로 제품을 납품할 수 있게 한 김모 전 서울교통공사(공사) 기술본부장(상임이사)(62) 등 3명을 구속 기소했다고 밝혔다.&lt;br&gt;&lt;br&gt;검찰에 따르면 김 전 이사는 지하철 역사 환기 설비 납품업체 A사의 영업이사 김모씨(48·구속 기소)로부터 2022년 10월 납품 청탁을 받은 후, 2023년 5월부터 2024년 7월까지 자신의 며느리 계좌로 1억3000만원을 송금받은 혐의를 받고 있다. 김 전 이사는 같은 기간 160만원 상당의 명품 만년필, 150만원 상당의 호텔 숙박 서비스도 제공받은 것으로 조사됐다. A사는 김씨가 처음으로 청탁을 한 지 2개월 후인 2022년 12월에야 설립됐다.&lt;br&gt;&lt;br&gt;최모 전 공사 기계처 부장(52)도 A사로부터 계약 체결을 할 수 있게 해 달라는 청탁과 함께 2024년 1월 동생 및 지인 계좌로 7790만원을 받아 구속 기소됐다.&lt;br&gt;&lt;br&gt;김 전 이사와 최 전 부장은 이 같은 청탁을 받고 최모 전 공사 기계처장(54)과 함께 A사가 제품을 납품할 수 있도록 해 줬다. 이들은 2023년 12월 3호선 무악재역 등 4개 역사의 환기설비 납품업체 선정 과정에서 수의계약 대상이 아닌데도 다른 업체에 비해 납품가가 2배 부풀려진 A사와 22억원 상당의 계약을 체결했다. 검찰은 세 사람에게 업무상 배임 혐의도 적용했다. &lt;br&gt;&lt;br&gt;검찰은 지난달 27일 서울경찰청 반부패범죄수사대에서 사건을 송치받아 추가 수사를 해 “김 전 이사 등에게 대가성 금품을 건넸다”는 취지의 김씨 진술을 확보했다.&lt;br&gt;&lt;br&gt;검찰 관계자는 “국민의 세금이 투입되는 공사의 계약 과정에서 형식적인 심사 및 의사 결정 과정을 악용해 국고를 낭비하고 뇌물을 수수해 사적 이익을 취한 공기업 납품 비리 사건”이라면서 “향후에도 구조적인 관납 비리 등 부패 범죄 척결에 최선을 다하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>부산 법원에서 주차하던 SUV, 1m 아래로 추락…70대 운전자 경상</title>
-      <link>https://www.chosun.com/national/regional/2025/06/13/BYWUMSQOVJDCNEXPCA7MRRZXXY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/06/13/BYWUMSQOVJDCNEXPCA7MRRZXXY/</guid>
-      <dc:creator>부산=김주영 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 13 Jun 2025 08:10:19 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Q4C2OCH75U77PCEIRUY6Y3TDFM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;13일 오전 9시쯤 차량 사고가 발생한 부산지방법원 동부지원 주차장./ 해운대경찰서&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산의 한 법원 주차장에서 주차를 하던 차량이 1m 아래 비탈길로 추락해 운전자가 다쳤다.&lt;br&gt;&lt;br&gt;13일 부산 해운대경찰서에 따르면 이날 오전 9시쯤 해운대구 재송동 부산지방법원 동부지원 주차장에서 SUV(스포츠유틸리티차량)가 방지턱을 넘어 1m 아래 비탈길로 추락했다.&lt;br&gt;&lt;br&gt;운전자인 70대 남성 A씨는 경상을 입고 병원으로 옮겨졌다.&lt;br&gt;&lt;br&gt;A씨는 경찰에 “주차를 시도하던 중 운전 부주의로 차가 방지턱을 넘으면서 사고가 났다”고 진술한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;사고 당시 A씨는 음주 상태는 아니었던 것으로 파악됐다.&lt;br&gt;&lt;br&gt;경찰은 정확한 사고 경위를 조사하고 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[오늘의 운세] 6월 15일 일요일 (음력 5월 20일 乙卯)</title>
       <link>https://www.chosun.com/national/national_general/2025/06/13/E7R4ICNGKFBZZMXLETIMRBPWLM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/13/E7R4ICNGKFBZZMXLETIMRBPWLM/</guid>
@@ -895,46 +922,6 @@
 &lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani12.gif"&gt;	&amp;nbsp;	35년생 무엇보다 가족의 화목이 행복. 47년생 한발 물러서면 하늘도 높고 땅도 넓다. 59년생 의심은 나쁘지만 덮어놓고 믿는 건 어리석은 짓. 71년생 긍정적 사고는 능력 배가시킨다. 83년생 하다 보면 시행착오는 있기 마련. 95년생 봉사와 희생은 행복으로 돌아온다.	&lt;br&gt;
 &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;한소평 금오산방 강주  &lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;			&lt;/p&gt;</content:encoded>
       <media:content url="https://www.chosun.com/resizer/v2/4MTFRYWHBJA7XOKKF7G7JPLX5U.png?auth=4651b5b20b5d4901424204d1456faee02e4b064ff509db23945deabf4404c8ef&amp;smart=true&amp;width=800&amp;height=420" type="image/png" height="420" width="800"/>
-    </item>
-    <item>
-      <title>검찰, 남편 명의 대리투표 60대 여성 선거사무원 구속 기소</title>
-      <link>https://www.chosun.com/national/court_law/2025/06/13/V4GK6MKI6BFDXKLIH67WP2C2EQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/13/V4GK6MKI6BFDXKLIH67WP2C2EQ/</guid>
-      <dc:creator>박강현 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 13 Jun 2025 07:57:34 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AGSGB5LHZZKLBNSRDOP2CBMYHU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;21대 대통령선거 사전투표 첫날 남편 명의로 대리투표를 해 공직선거법 위반 혐의를 받는 선거사무원 박모씨가 지난 1일 영장실질심사를 위해 서울 서초구 서울중앙지방법원에 들어서고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제21대 대통령선거 사전 투표 첫날 남편 명의로 대리 투표를 한 사전투표사무원이 13일 구속 상태로 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;서울중앙지검 공공수사2부(부장 조민우)는 이날 60대 여성 박모씨를 공직선거법 위반 혐의로 구속 기소했다고 밝혔다. 앞서 박씨는 “증거 인멸과 도망 염려가 있다”며 지난 1일 구속됐다. &lt;br&gt;&lt;br&gt;박씨는 지난달 29일 정오쯤 서울 강남구 대치2동 사전투표소에서 남편의 신분증으로 투표 용지를 발급받아 대리 투표를 한 뒤, 약 5시간 후 본인의 신분증으로 또 투표를 한 혐의를 받는다. 강남구 보건소의 계약직 공무원인 박씨는 투표사무원으로 위촉돼 투표 용지를 발급하는 일을 맡고 있었다. &lt;br&gt;&lt;br&gt;검찰 수사 결과 박씨는 남편의 신분증을 본인 확인기에 올리고 통합선거인명부시스템에 남편 서명을 한 뒤 투표용지를 출력한 다음 기표소로 들어가 기표·투표를 했다. 박씨는 이처럼 남편 명의로 먼저 투표하고 자신의 명의로 투표해 총 2번 투표한 것으로 나타났다.&lt;br&gt;&lt;br&gt;박씨는 같은 사람이 하루에 두 번 투표하는 것을 이상하게 여긴 참관인이 이의를 제기해 현장에서 적발됐다.&lt;br&gt;&lt;br&gt;공직선거법 제248조는 성명을 사칭하거나 신분증을 위조하는 방법 등으로 투표한 사람에 대해 5년 이하 징역 또는 1000만원 이하 벌금에 처하도록 하고 있다. 특히 박씨처럼 선거 사무와 관계있는 공무원이 이런 잘못을 저지를 경우, 최대 징역 7년까지 처해질 수 있다.&lt;br&gt;&lt;br&gt;검찰 관계자는 “피고인의 범죄 행위에 상응하는 형이 선고될 수 있도록 공소유지에 만전을 기하겠다”며 “앞으로도 선거의 공정성을 훼손하는 선거사범에 대해 엄정 대응할 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[오늘의 운세] 6월 14일 토요일 (음력 5월 19일 甲寅)</title>
-      <link>https://www.chosun.com/national/national_general/2025/06/13/FUK3CHXLOBGUNLPLDVN4FVRPY4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/13/FUK3CHXLOBGUNLPLDVN4FVRPY4/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Fri, 13 Jun 2025 08:00:00 +0000</pubDate>
-      <content:encoded>&lt;p&gt;&lt;div class="chosun_unse"&gt;&lt;iframe src="https://image.chosun.com/arc/unse_iframe.html" frameborder="0" scrolling="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;style&gt;.chosun_unse{position:relative;width:100%;height:350px;box-sizing:border-box}.chosun_unse&gt;iframe{position:absolute;top:0;left:0;width:100%;height:100%;overflow-y:hidden}@media all and (max-width:1024px){.chosun_unse{height:350px}}@media all and (max-width:1023px){.chosun_unse{height:350px}}@media all and (max-width:528px){.chosun_unse{height:270px}}@media all and (max-width:384px){.chosun_unse{height:190px}}&lt;/style&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;p&gt;&lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani01.gif"&gt;  	&amp;nbsp;	36년생 천리마가 구유에 드니 능력 불발. 48년생 속마음 말(言)만 듣고는 모른다. 60년생 잃을 것 없는 자와는 싸우지 마라. 72년생 복권이나 사행성 투자에 올인하면 큰 낭패. 84년생 상대 의견을 왜곡해서 듣지 마라. 96년생 행복 다할 때까진 행복 모르는 법.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt;  &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani02.gif"&gt;	&amp;nbsp;	37년생 토끼띠가 최고 파트너. 49년생 기초 체력 튼튼히 하는 게 먼저. 61년생 생각 섰다면 망설이지 말고 일단 저지르고 봐야. 73년생 혼자 결정 말고 주변 조언 참고하도록. 85년생 작은 일도 무겁게 받아들여야 후회 없다. 97년생 정체가 두렵지 지체는 안 두렵다.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani03.gif"&gt;	&amp;nbsp;	38년생 소화기 계통 질환 주의하라. 50년생 진정한 자부심은 상처받지 않는다. 62년생 일의 성패는 기본 자세가 결정. 74년생 말 들어주는 것도 용기가 필요. 86년생 토끼 주고 황소 받았으니 얼마나 좋은가. 98년생 자신이 전면에 나서는 것보다 중개인을 내세우도록.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani04.gif"&gt;	&amp;nbsp;	27년생 지금 당장 매듭지을 수 없으니 쉬엄쉬엄. 39년생 해보기도 전에 먼저 단정 짓지 마라. 51년생 스트레스 심한 하루. 63년생 태양 뜨겠지만 비 오는 날도 있다. 75년생 공유한다 생각해야 평안. 87년생 하루 종일 동분서주. 99년생 솔직하되 부드럽게 말하라.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani05.gif"&gt;	&amp;nbsp;	28년생 가족의 마음을 얻으면 만사가 순성. 40년생 습관은 인격을 만든다. 52년생 어려움 있다면 배우자와 상의. 64년생 구슬이 서 말이라도 꿰어야 보배. 76년생 괜한 욕심 부리면 낭패 볼 수도. 88년생 계획한 바 절반은 이루리라. 00년생 본전도 못할 일은 시작도 마라.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani06.gif"&gt;	&amp;nbsp;	29년생 빈대 잡으려다 초가삼간 태울라. 41년생 원칙도 좋지만 융통성도 필요. 53년생 진심을 전할 수만 있다면 성공. 65년생 주연만 가지고 영화가 되겠나. 77년생 오랜 벗이 내 맘 같지 않구나. 89년생 숫자 1·6과 검은색은 행운 부른다. 01년생 싫으면 분명히 거절하라.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani07.gif"&gt;	&amp;nbsp;	30년생 지나침은 모자람만 못하다. 42년생 노력에 비해 소득이 클 듯. 54년생 장애가 있더라도 소신껏 행동하라. 66년생 유쾌한 삶이 행복한 삶. 78년생 시운이 돌아오니 지혜도 생기는구나. 90년생 심리적 갈등으로 힘든 하루. 02년생 웃음은 그 자체로 보약.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani08.gif"&gt;	&amp;nbsp;	31년생 서기(瑞氣)가 남쪽에서 비춘다. 43년생 강 건너 불구경하듯 관망하도록. 55년생 최선 다했으면 성패는 논하지 마라. 67년생 승산은 있으니 주저 말고 진행하라. 79년생 필요 이상의 인내는 병 된다. 91년생 벗으로 인한 즐거움. 03년생 주변인과 함께할 때 성취.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani09.gif"&gt;	&amp;nbsp;	32년생 한술 밥에 배부르랴. 44년생 생각했으면 바로 실천하라. 56년생 밤이 있으면 낮이 있기 마련. 68년생 걱정하던 일이 쉽게 해결될 듯. 80년생 아첨하는 말은 꿀이 든 독약. 92년생 세상에 인내로 못 갈 길은 없다. 04년생 전문성을 살리는 방향으로 가야.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani10.gif"&gt;	&amp;nbsp;	33년생 바다는 어떠한 강물도 거절 않는 법. 45년생 숫자 3·8과 푸른색은 행운 부른다. 57년생 다급한 상황일수록 침착성 잃지 마라. 69년생 가는 말이 고와야 오는 말도 곱지. 81년생 이성적인 판단으로 대처해 나가도록. 93년생 똥 묻은 개가 겨 묻은 개 나무란다.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani11.gif"&gt;	&amp;nbsp;	34년생 노력한 만큼 결실은 얻을 듯. 46년생 남 말 듣지 말고 소신대로 추진하라. 58년생 나약한 태도는 성격도 나약하게 만드는 법. 70년생 자기 생각이 무조건 맞다고 우기지 마라. 82년생 잘난 척은 적을 부름을 잊지 마라. 94년생 화해 청하면 마음이 평안.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani12.gif"&gt;	&amp;nbsp;	35년생 줬다면 대가 바라지 말라. 47년생 과분한 칭찬은 한 번 더 의심하라. 59년생 충분한 휴식은 능률 배가시킨다. 71년생 타인 의견보다 자체 판단을 믿어라. 83년생 겸손한 이에겐 거만 말고 거만한 이에겐 겸손할 것 없다. 95년생 모두에게 인정받을 필요는 없다.	&lt;br&gt;
-&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;한소평 금오산방 강주  &lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;			&lt;/p&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/4MTFRYWHBJA7XOKKF7G7JPLX5U.png?auth=4651b5b20b5d4901424204d1456faee02e4b064ff509db23945deabf4404c8ef&amp;smart=true&amp;width=800&amp;height=420" type="image/png" height="420" width="800"/>
-    </item>
-    <item>
-      <title>코로나 시기에 600명 해고한 이스타항공...2심도 “부당해고 아냐”</title>
-      <link>https://www.chosun.com/national/court_law/2025/06/13/57VHWJBJ4BBO7HQBBPM7MTX4UA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/13/57VHWJBJ4BBO7HQBBPM7MTX4UA/</guid>
-      <dc:creator>김나영 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 13 Jun 2025 07:42:45 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BWAI6MMQSVN7NF3F6POZETWPKA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;인천공항에 계류된 이스타항공 여객기의 모습./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;코로나 팬데믹 당시 여행 수요가 줄어들어 직원 600여명을 해고한 이스타항공의 조치가 부당하지 않다는 법원 판단이 2심에서도 나왔다.&lt;br&gt;&lt;br&gt;13일 서울고등법원 행정10부(재판장 원종찬)는 이스타항공에서 해고된 직원 18명이 중앙노동위원회를 상대로 낸 부당해고 구제 재심 판정 취소 소송에서 원고 패소로 판결했다. 1심에 이어 이스타항공 측의 손을 들어준 것이다.&lt;br&gt;&lt;br&gt;작년 5월 1심 재판부는 “해고 당시 코로나 발생이나 여행과 관련한 이슈들, 지속적인 자본 잠식으로 회사 경영이 어려워진 상황 등을 검토한 결과 정리해고를 할 수밖에 없었던 긴박한 경영상 필요가 있었음이 인정된다”며 정리해고의 불가피성을 인정한 바 있다.&lt;br&gt;&lt;br&gt;이스타항공은 2020년 8월 말 구조조정을 하겠다고 발표한 뒤, 그해 10월 605명을 정리해고했다. 이에 대해 해고 직원 중 일부가 ‘부당해고’라며 서울지방노동위원회에 구제 신청을 했고, 지노위는 2021년 5월 이를 받아들였다. 그러나 중노위가 ‘부당해고가 아니다’라고 판정하며 이를 뒤집자 이들은 행정소송을 냈다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>아파트 단지에 출몰한 너구리 가족… “절대 만지지 마세요” 경고 이유</title>
