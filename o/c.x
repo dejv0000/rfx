@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>[부음] 김태호 별세 외</title>
+      <link>https://www.chosun.com/national/obituary-personnel/2025/06/14/QTVRTQCWJVBK5N5M2YULQUVWTE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2025/06/14/QTVRTQCWJVBK5N5M2YULQUVWTE/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Fri, 13 Jun 2025 15:52:00 +0000</pubDate>
+      <content:encoded>▲&lt;b&gt;김태호&lt;/b&gt; 별세, &lt;b&gt;성명희&lt;/b&gt; 남편상, &lt;b&gt;김홍식&lt;/b&gt; 前 한림국제대학원대학 교수 부친상, &lt;b&gt;왕웨이&lt;/b&gt; 시부상, &lt;b&gt;김루희&lt;/b&gt; 조부상=13일11시5분 서울 혜민병원, 발인 15일5시30분, (02)444-1552&lt;br&gt;&lt;br&gt;▲&lt;b&gt;김창이&lt;/b&gt; 별세, &lt;b&gt;최태선&lt;/b&gt; 남편상, &lt;b&gt;김윤희&lt;/b&gt; 前 미국 조지아주 경제개발부 차관보·&lt;b&gt;김윤범&lt;/b&gt; 부친상, &lt;b&gt;김충렬 &lt;/b&gt;장인상=13일3시4분 고대안산병원, 발인 15일9시30분, (031)411-4441&lt;br&gt;&lt;br&gt;▲&lt;b&gt;윤병수&lt;/b&gt; 별세, &lt;b&gt;김형순&lt;/b&gt; 린디고 의장·&lt;b&gt;김미경&lt;/b&gt;·&lt;b&gt;김태순 &lt;/b&gt;케이링구아앤쿨트라 대표 모친상, &lt;b&gt;이재형 &lt;/b&gt;미국 USC 석좌교수 장모상=12일8시51분 신촌세브란스병원, 발인 14일8시40분, (02)3216-6900&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>수사팀 100~200명씩... 특검 ‘덩치’ 감당할 사무실 없나요?</title>
       <link>https://www.chosun.com/national/court_law/2025/06/16/FYATMNTEFJBU7MILECS4OX7EL4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/16/FYATMNTEFJBU7MILECS4OX7EL4/</guid>
@@ -773,15 +782,6 @@
       <description/>
       <pubDate>Fri, 13 Jun 2025 15:52:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XAPUSTSJUBBS3ECI24O5YTLZIU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;5일 경기도 과천에 위치한 출판사 '이분의일' 사무실에서 탈북민과 취약계층을 대상으로 자서전 제작 봉사를 하고 있는 방수영 대표가 포즈를 취하고 있다. /장경식 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“자서전은 성공한 사람만 쓰는 게 아닙니다. 누구나 자신의 삶을 기록할 자격이 있습니다.”&lt;br&gt;&lt;br&gt;방수영(34) 대표는 자서전 전문 출판사 ‘이분의일코리아’ 대표다. 지난 5일 경기 과천시의 사무실에서 만난 그는 “사람들은 흔히 자기 삶이 특별하지 않다고 생각하지만, 자세히 들여다보면 영화보다 더 극적인 이야기를 품고 있다”고 했다. 2019년 9월 ‘이분의일코리아’를 창업했다. 국내 최초 자서전 제작 전문 출판사다.&lt;br&gt;&lt;br&gt; “대한민국 국민 절반이 자기 책을 만드는 날까지 회사를 운영하겠다”며 출판사 이름을 이렇게 지었다. 그간 방 대표가 펴낸 자서전은 350권이 넘는다. 2023년에는 사회적 기업 인증도 받았다.&lt;br&gt;&lt;br&gt;그간 방 대표가 만나 책을 펴낸 이들의 인생은 제각각 다양하다. 퇴직 후 유럽에서 ‘한 달 살기’를 감행한 60대 남성, 평생 가족을 돌보며 살아온 주부, 검정고시를 거쳐 간호조무사가 된 전직 일용직 노동자 등이다. 방 대표는 “겉보기엔 평범해 보이는 인생들이 책 속에서 새롭게 숨을 쉬게 됐다”고 했다.&lt;br&gt;&lt;br&gt;글 쓰는 게 익숙하지 않은 사람들이 대부분이었다. 방 대표는 ‘화(火)’나 ‘맛’처럼 자연스럽게 감정을 자극하는 단어로 까먹고 있었던 옛 기억을 이끌어낸다. 그는 “감정에서 출발하면 잊고 지냈던 진짜 이야기들이 자연스럽게 나온다”며 “글이 아니라 마음을 먼저 여는 것”이라고 했다.&lt;br&gt;&lt;br&gt;방 대표는 매년 탈북민, 저소득층 등 소외 계층을 위한 자서전을 5~6권씩 무료로 제작하고 있다. 최근에는 다음 달 아버지가 될 예정인 탈북민 김모(36)씨의 자서전을 작업하고 있다. 그는 “김씨는 10년 전 북한을 탈출해 한국에 정착했다. 지금은 직장도 있고 가정도 꾸렸지만, 마음속 외로움은 쉽게 사라지지 않았다고 하더라”며 “그런 그가 ‘아이에게 자랑스러운 아버지가 되고 싶다’며 자서전을 쓰겠다고 나를 찾아왔다”고 했다.&lt;br&gt;&lt;br&gt;김씨는 북한에서의 삶과 탈북 과정의 어려움, 한국에서 적응했던 이야기들을 글로 풀어냈다. 방 대표는 “단순한 노동이 아니라, 한 사람의 인생을 함께 껴안는 일”이라며 “책을 다 쓰고 나면 말할 수 없는 뿌듯함을 느낀다”고 했다.&lt;br&gt;&lt;br&gt;방 대표는 최근 글쓰기가 어려운 사람들을 위해 인공지능(AI)을 활용한 자서전 작성 앱을 만들었다. 앱을 켜면 생년월일, 성별, 직업 등 기본 정보를 입력하게 한 뒤 이를 바탕으로 ‘맞춤형 질문’을 제시한다. 사용자가 글이나 음성으로 답하면 AI가 이를 정리해 ‘완성된 글’로 만들어 준다. 내년 정식 출시를 앞두고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>本紙 김성규 기자 ‘디자인 편집상’</title>
-      <link>https://www.chosun.com/national/people/2025/06/14/DNK2OAXOQ5FQZIPWQ4OXIOHR5Y/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/06/14/DNK2OAXOQ5FQZIPWQ4OXIOHR5Y/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Fri, 13 Jun 2025 15:52:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YRBRBTANZZBVRKJWRR6PX53XNE.png"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한국편집기자협회(회장 김창환)는 조선일보 김성규 기자의 ‘FTA는 한국의 방패가 될 수 없다’(본지 2025년 3월 7일 자 B9면)를 2분기 디자인 편집상(이달의 편집상 디자인 부문) 수상작으로 선정했다. 디자인 편집상은 디자인의 미적 기능과 정보 전달의 효과를 종합적으로 평가해 수상작을 정한다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>“사업이든 스포츠든 도전엔 한계 없어”… 에베레스트 마라톤 완주한 60대 기업인</title>
