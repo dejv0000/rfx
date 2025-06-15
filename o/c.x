@@ -13,6 +13,95 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>[오늘의 운세] 6월 16일 월요일 (음력 5월 21일 丙辰)</title>
+      <link>https://www.chosun.com/national/national_general/2025/06/15/LKU3YIZA3NBYRMRH2FWR2EFJBM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/15/LKU3YIZA3NBYRMRH2FWR2EFJBM/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Sun, 15 Jun 2025 08:00:00 +0000</pubDate>
+      <content:encoded>&lt;p&gt;&lt;div class="chosun_unse"&gt;&lt;iframe src="https://image.chosun.com/arc/unse_iframe.html" frameborder="0" scrolling="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;style&gt;.chosun_unse{position:relative;width:100%;height:350px;box-sizing:border-box}.chosun_unse&gt;iframe{position:absolute;top:0;left:0;width:100%;height:100%;overflow-y:hidden}@media all and (max-width:1024px){.chosun_unse{height:350px}}@media all and (max-width:1023px){.chosun_unse{height:350px}}@media all and (max-width:528px){.chosun_unse{height:270px}}@media all and (max-width:384px){.chosun_unse{height:190px}}&lt;/style&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;p&gt;&lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani01.gif"&gt;  	&amp;nbsp;	36년생 느긋하게 사태 관망하는 게 상책. 48년생 변화는 고통 따르나 안주는 고생 따른다. 60년생 우울감 엄습할 수 있으니 밝은 생각 갖도록. 72년생 어설픈 추진으로 일 더 꼬일 수도. 84년생 조절과 통제 기능 마비되면 큰일. 96년생 상승기류 탔으나 장애는 있다.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt;  &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani02.gif"&gt;	&amp;nbsp;	37년생 지인의 말이라고 덮어놓고 믿으면 큰코다친다. 49년생 이론만 고집 말고 상식선 처신하라. 61년생 1시간만이라도 자신을 위해 투자하라. 73년생 걸림돌, 디딤돌은 자기 하기 나름. 85년생 주변 말에 크게 신경 쓸 것 없다. 97년생 유의미한 정도의 목표 달성은 가능.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani03.gif"&gt;	&amp;nbsp;	38년생 경계 시선 놓지 말고 단단히 응시하라. 50년생 마땅하지 않아도 수용할 건 수용하라. 62년생 어려울수록 이해와 배려 필요. 74년생 남자는 비뇨기과, 여자는 부인과에 진료. 86년생 부모님이 원하면 무조건 따르도록. 98년생 잘못 고치기가 허물 없기보다 더 어렵다.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani04.gif"&gt;	&amp;nbsp;	27년생 깃털이 좋으면 새도 아름다운 법. 39년생 제 도끼에 제 발등 찍는구나. 51년생 줬다면 계산하지 마라. 63년생 계산과 현실이 다소 상이할 수도. 75년생 규칙적인 운동 습관을 들이라. 87년생 동료가 시기하는구나. 99년생 숫자 4, 9와 흰색은 행운 부른다.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani05.gif"&gt;	&amp;nbsp;	28년생 앞으로 남고 뒤로 밑지는 장사. 40년생 이동과 변화에 적극 대처하라. 52년생 문서로 인한 즐거움이 기대. 64년생 전장의 장수가 칼을 잃은 격. 76년생 정(情) 끊는 칼 있나. 88년생 뱀띠와의 거래에 이익 있다. 00년생 남과 똑같이 살지 않아도 된다.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani06.gif"&gt;	&amp;nbsp;	29년생 묘책이 있으나 성사는 어렵다. 41년생 망설이고 주저하다 기회는 날아간다. 53년생 길 위에 횡액을 주의. 65년생 여행은 손해가 많다. 77년생 의심스러우면 함께하지 마라. 89년생 매사에 여유로운 마음으로. 01년생 함부로 한 약속이 발목 잡을 수도.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani07.gif"&gt;	&amp;nbsp;	30년생 지출하기 전 잔고를 생각하라. 42년생 독점은 오래가기 어렵다. 54년생 하나를 얻었다면 하나는 양보. 66년생 후회하거나 주저할 시간이 없다. 78년생 하나에 집중해도 다 못 할 판. 90년생 선택과 집중에도 우선순위가 필요. 02년생 아프지 않은 인생 있나.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani08.gif"&gt;	&amp;nbsp;	31년생 감정을 절제하고 사태를 직시하라. 43년생 오늘의 영광은 어제의 고난. 55년생 똑같은 조건에도 결과는 천지 차이. 67년생 가족 간 언쟁은 손해 막심. 79년생 토끼 덫에 사슴이 걸렸구나. 91년생 상대방의 취향과 기호에 맞추도록. 03년생 귀인은 원숭이띠가 분명.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani09.gif"&gt;	&amp;nbsp;	32년생 남 일에 왈가왈부 마라. 44년생 함께하려거든 의심하지 마라. 56년생 이제 올라갈 일만 남았다. 68년생 다소의 정체가 있어도 조급해 마라. 80년생 감당하지 못할 일이 무엇. 92년생 골치 아팠던 일이 봄눈 녹듯 해결. 04년생 일은 많고 실속은 적고.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani10.gif"&gt;	&amp;nbsp;	33년생 내면 가꾸지 않은 삶은 저속. 45년생 삶 유지하는 게 꼭 물질적 이익만은 아닐 수도. 57년생 관계에서 신의 버리면 무엇으로 성공. 69년생 그간의 노력과 희생 인정받을 듯. 81년생 현재로선 전적으로 과정에만 집중. 93년생 과분한 명예는 탐하지 않는 게 좋다.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani11.gif"&gt;	&amp;nbsp;	34년생 불평불만은 문제 해결에 도움 안 된다. 46년생 막힌 곳이 있으면 억지로 뚫으려 마라. 58년생 마음의 안정과 평온이 무엇보다 중요. 70년생 감사할 줄 알면 감사받을 일도 있다. 82년생 모처럼의 기회 잘 살려 나가도록. 94년생 이로움이 집 밖에 있으니 나가면 유익.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani12.gif"&gt;	&amp;nbsp;	35년생 건강이 재물 관리보다 중요. 47년생 계획 수정과 보완 필요할 듯. 59년생 한 걸음 양보가 두 걸음 진보(進步). 71년생 일단 멈춰서 왔던 길을 되돌아보도록. 83년생 적당한 타협으로 사태를 마무리하는 것이 이익. 95년생 큰 그림 그리다 보면 여백의 미가 중요.	&lt;br&gt;
+&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;한소평 금오산방 강주  &lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;			&lt;/p&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/4MTFRYWHBJA7XOKKF7G7JPLX5U.png?auth=4651b5b20b5d4901424204d1456faee02e4b064ff509db23945deabf4404c8ef&amp;smart=true&amp;width=800&amp;height=420" type="image/png" height="420" width="800"/>
+    </item>
+    <item>
+      <title>“남북 평화에 기여”… 파주서 두 차례 월북 시도한 20대 구속</title>
+      <link>https://www.chosun.com/national/incident/2025/06/15/VTIFDEQYYZHNJDUFUDBPOHCY7A/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/06/15/VTIFDEQYYZHNJDUFUDBPOHCY7A/</guid>
+      <dc:creator>파주=김수언 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 15 Jun 2025 07:42:18 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/INLAJBTRIELVPZHAUAT4BXIVQQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기 파주시 통일대교로 차량이 통행하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 파주시 통일대교에서 민간인통제선 안으로 무단 진입하려고 했던 20대 남성이 또다시 철책을 넘어 월북을 시도하다가 구속됐다.&lt;br&gt;&lt;br&gt;15일 경기북부경찰청 안보수사대에 따르면 경찰은 군사기지 및 군사시설보호법 위반 혐의를 받는 20대 남성 A씨에 대한 구속영장을 법원으로부터 발부받아 조사 중이다.&lt;br&gt;&lt;br&gt;A씨는 지난 11일 오후 11시쯤 파주시 탄현면 자유로 인근 접경지역에서 철조망을 넘어 군사 구역에 무단으로 침입한 혐의를 받는다.&lt;br&gt;&lt;br&gt;당시 군 관계자가 A씨를 발견했고, 현장에서 그를 붙잡은 것으로 파악됐다. 경찰은 군으로부터 A씨를 인계 받아 현행범으로 체포했다.&lt;br&gt;&lt;br&gt;A씨는 경찰에 “통일을 생각해서 철책을 넘어간 것” “통일을 대비해야 한다” “남북 평화에 기여 해야한다”는 취지로 진술한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;앞서 A씨는 지난 3일에도 파주시 문산읍 통일대교 검문소에 무단 진입 하려고 했다가 검거된 바 있다. 그는 “하늘의 뜻이다” “판문점에 가야 한다”고 말한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;통일대교는 군사시설로, 현재 남과 북을 연결하는 유일한 다리다. 이 너머는 민간인 출입 통제 구역이라 미리 허가를 받아야 갈 수 있다.&lt;br&gt;&lt;br&gt;A씨는 “통일대교만 건너면 바로 북한으로 갈 수 있는 줄 알았다”고 진술한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “두 차례에 걸쳐 월북을 시도한 혐의로 구속 영장을 발부 받아 집행했다”며 “자세한 동기와 사건 경위에 대해 조사 중”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>조은석 내란 특검, 대한변협에 17일까지 특검보 추천 요청</title>
+      <link>https://www.chosun.com/national/court_law/2025/06/15/CMFRHZJWC5EVZMI6WOVL7XXTJ4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/15/CMFRHZJWC5EVZMI6WOVL7XXTJ4/</guid>
+      <dc:creator>방극렬 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 15 Jun 2025 07:25:45 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VEUITXGDSVO5JC73DFRNQDOEOY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;조은석 내란 특별검사. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;12·3 비상계엄 관련 내란 사건을 수사할 조은석 특별검사(특검)가 대한변호사협회에 특검보 후보 추천을 요청한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;15일 법조계에 따르면, 조 특검은 전날 대한변협에 특검보 후보군을 오는 17일까지 추천해달라고 요청했다. 변협은 이날 “해당 요청에 따라 후보군을 선발하고 인사 검증한 뒤 17일까지 특검보 후보를 추천할 계획”이라고 밝혔다. 변협은 각 지방변호사회 등의 추천을 받아 특검보 후보를 정할 예정이다. &lt;br&gt;&lt;br&gt;다만 내란 특검 외에 김건희·해병대원 특검에서는 아직 변협에 특검보 추천 요청이 없었다고 한다. &lt;br&gt;&lt;br&gt;특검의 수사 팀장 격인 특검보는 7년 이상 경력의 판사나 검사, 변호사 중에서 임명할 수 있다. 내란 특검은 6명, 나머지 두 특검은 4명의 특검보를 둘 수 있다. 각 특검이 후보군을 추려 요청하면, 이재명 대통령이 임명하게 된다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“4시간 만에 6000만원 빠져나가”...피싱 피해 고백한 여배우</title>
+      <link>https://www.chosun.com/national/people/2025/06/13/4ZDY4NR34JBCPGKWDTRXSIGMYE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/06/13/4ZDY4NR34JBCPGKWDTRXSIGMYE/</guid>
+      <dc:creator>정아임 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 13 Jun 2025 01:48:06 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JHPTPH7UUBC2RCOMQHYTV43EP4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;배우 이미숙./유튜브 '이미숙_숙스러운 미숙씨'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;배우 이미숙이 피싱 사기로 6000만원 상당의 피해를 입은 사실을 털어놨다. &lt;br&gt;&lt;br&gt;이미숙은 지난 12일 자신의 유튜브 채널에서 과거 본인도 모르는 사이 거액의 금액이 빠져나가 피해를 입었던 경험을 전했다. &lt;br&gt;&lt;br&gt;이미숙은 “예전에 한 번 크롬 브라우저를 통해 피싱을 당한 적이 있다”며 “통장에서 5000만~6000만원이 한꺼번에 사라졌다. 그 뒤로는 핸드폰 결제를 하지 않는다”고 말했다.&lt;br&gt;&lt;br&gt;그러면서 “휴대폰에 등록된 카드로 해킹범이 새벽 4시부터 오전 8시까지 결제를 한 거다. 경찰서에 물어보니 온라인에서 쇼핑한 것을 현금으로 바꿔주는 방식이 있다고 하더라. 그래서 깜짝 놀랐다. 너무 무서웠다”고 털어놨다.&lt;br&gt;&lt;br&gt;이미숙은 “그 이후 핸드폰이 복제됐고, 내가 사용한 내역이나 비밀번호까지 다 털렸다”며 “정말 무서워서 그다음부턴 핸드폰으로 아무것도 하지 않는다”고 했다.&lt;br&gt;&lt;br&gt;피싱 피해는 나날이 증가하고 있다. 경찰청에 따르면 지난해 보이스피싱 1인당 피해액은 전년 대비 73%(1734만원) 증가한 4100만원이다. 전체 피해액은 8545억원으로 91% 늘어난 역대 최고치다. 종전 최고치였던 2021년과 비교하면 801억원 더 많았다. 지난해 보이스피싱 피해액이 1억원이 넘는 피해자는 1793명, 10억원 이상 잃은 피해자는 31명이다. &lt;br&gt;&lt;br&gt;피싱 사기로 인한 금전 피해와 개인 정보 유출은 즉각적인 조치가 이루어지지 않으면 피해가 더 커질 수 있다. 사기 피해가 의심되거나 실제로 금전 피해를 입었을 경우, 즉시 경찰청(112), 금감원(1332), 금융회사(콜센터)에 피해 신고와 지급 정지를 요청해야 한다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>도주하던 무면허 불법체류자… 붙잡은 경찰, 알고 보니 ‘프로 복서’</title>
+      <link>https://www.chosun.com/national/national_general/2025/06/13/ZB6366JPGFGFBJTZIYH3S2CTXA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/13/ZB6366JPGFGFBJTZIYH3S2CTXA/</guid>
+      <dc:creator>박선민 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 13 Jun 2025 01:33:20 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QV4OBTKFHW5HNXBKJN2N7KAE4I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;복싱 훈련 중인 수원서부경찰서 경비교통과 소속 조여훈 경사(34). /경기남부경찰청 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;무면허 운전을 하다 교통 단속에 적발되자 줄행랑을 치던 불법 체류자가 프로 복서 경찰에게 바로 붙잡히는 일이 벌어졌다. &lt;br&gt;&lt;br&gt;13일 경기남부경찰청에 따르면, 지난 4월 18일 오후 5시 30분쯤 수원시 권선구 구운사거리의 횡단보도에서 우회전 일시 정지 위반 차량이 경찰 단속에 적발됐다.&lt;br&gt;&lt;br&gt;당시 경찰은 우즈베키스탄 국적의 20대 운전자 A씨에게 운전면허증 제시를 요구했으나, A씨는 외국인 등록증을 꺼내 보였다. &lt;br&gt;&lt;br&gt;그런데 외국인 등록증 속 얼굴 사진과 실제 A씨 모습이 달랐다. 이에 경찰이 추궁하자, A씨는 당황한 듯 얼버무리며 “잠시만 기다려보라”고 하더니 돌연 달아나기 시작했다. 불법 체류자 신분이었던 것이다. 체류 기간이 만료된 데다 무면허 상태였으며, 경찰에 제시한 외국인 등록증 역시 타인 명의였던 것으로 확인됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Z7WNCZGJC5D3RFA6LEC3MIZVOI.gif"&gt;&lt;figcaption&gt;&lt;small&gt;조 경사가 무면허 운전을 하던 불법체류자를 추격한 뒤 제압하고 있다. /경기남부경찰청 유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;갑작스러운 A씨의 도주에 자동차 도로 한가운데에서는 추격전이 벌어졌다. 다만 A씨는 약 150m 만에 경찰에게 바로 붙잡혔다. 경기남부경찰청 유튜브 채널을 통해 공개된 당시 영상을 보면, 경찰은 삽시간에 A씨를 따라잡고 뒤에서 제압했다. 결국 A씨는 출입국관리법 위반 등 혐의로 현행범 체포됐다. &lt;br&gt;&lt;br&gt;A씨를 검거한 경찰은 프로 복서였다. 수원서부경찰서 경비교통과 소속 조여훈(34) 경사로, 2015년 경찰관이 된 후 꾸준히 복싱 훈련을 해 2019년 프로로 입문했다고 한다. 조 경사는 사단법인 한국권투협회(KBA) 라이트급(61㎏) 랭킹 3위까지 기록했으며, 2022년 세계 경찰소방관대회 복싱 부분에 출전해 금메달을 획득하기도 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TL6KCZYD2IEBUSQ54AFM3ULWTY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;복싱 훈련 중인 수원서부경찰서 경비교통과 소속 조여훈 경사. /경기남부경찰청 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰특공대에서 근무해 온 조 경사는 작년 수원서부경찰서로 자리를 옮겼다. 경찰 관계자는 “조 경사는 프로로 입문할 정도로 복싱 실력이 뛰어나며, 강인한 체력을 가진 최고의 동료 경찰관”이라며 “영어 실력 또한 출중해 외국인 단속 현장에서 제 역할을 해줄 때가 많다”고 했다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>여수 여름바다는 즐겁다… 고품격 재즈 공연에 요트·카누 체험까지 </title>
+      <link>https://www.chosun.com/national/regional/2025/06/15/2KTIGFZ3GRDH5NN7TUBRYOJYWM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/06/15/2KTIGFZ3GRDH5NN7TUBRYOJYWM/</guid>
+      <dc:creator>여수=조홍복 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 15 Jun 2025 06:15:18 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GJXEO4NC6JFVNBLIE6HEI4IFU4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전남 여수시 웅천동 예술의 섬 '장도' 전경./여수시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;예술의 섬 ‘장도’, 여수 유일 인공 해수욕장과 캠핑장이 펼쳐진 ‘웅천친수공원’, 레저용 선박을 대는 항구인 ‘마리나’ 등 전남 여수의 해양 관광 인프라가 집중된 곳이 있다. 여수 웅천동(웅천지구). 여수 해양 관광의 중심지답게 중소 도시에선 드물게 마천루가 즐비해 드높은 스카이라인을 뽐낸다. 여수시는 “본격적인 여름 행락철을 맞아 웅천지구에서 다양한 문화예술·해양 스포츠 행사를 마련했다”고 15일 밝혔다.&lt;br&gt;&lt;br&gt;여수시는 이달 13일부터 오는 9월 7일까지 웅천동 해변 등에서 ‘해양 레저 스포츠 체험 프로그램’을 무료로 운영한다. 체험 종목은 윈드서핑과 카약, 카누, 스킨스쿠버, 스노클링, 수상 자전거, 딩기요트, 크루저요트 등 8개 종목이다. 체험 장소는 웅천동 웅천해수욕장(해양 레저 스쿨·스킨스쿠버 교실)을 비롯, 소호요트마리나(여수요트학교)와 여수세계박람회장(해양 레저 스쿨) 등 3개소다.&lt;br&gt;&lt;br&gt;체험은 장비 이용 등에 대한 전문 강사의 교육 이후 진행된다. 강습료와 장비 대여료는 모두 무료. 샤워장과 물품 보관함 등 편의 시설 사용료는 여수 시민에게만 할인된다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GAZYLKSQ6BBWTLWNJB2WFDKFPE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전남 여수 여름바다에서 무료로 즐기는 카누 체험./여수시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;앞서 지난 7일 웅천지구 예술의 섬 ‘장도’에서 ‘2025 여수재즈페스티벌’이 열렸다. 이 섬은 뭍과 인도교로 연결돼 썰물 때 걸어서 들어갈 수 있다. &lt;br&gt;&lt;br&gt;여수재즈페스티벌 총감독인 (주)소리기획 임호상 본부장은 “1000여 명의 관람객이 함께하며 성황리에 마무리됐다”며 “공연은 무료였는데, 사전 티켓 배부 때 수 분 만에 모든 자리가 매진됐고, 현장 표 배부에서도 인파가 몰렸다”고 말했다. &lt;br&gt;&lt;br&gt;올해로 3회째를 맞았다. 여수의 아름다운 바다를 배경으로 한 고품격 재즈 공연으로 자리 잡았다. 관람객들이 스스로 돗자리와 간식을 준비해 자유롭게 음악을 감상할 수 있어 이색적이라는 평가를 받는다. 금세 장도의 환상적인 해양 환경을 배경으로 펼쳐진 재즈 무대에 흠뻑 빠져들게 된다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GBGCGZEDTFD7JI34R2R7AWHLYQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 7일 전남 여수시 웅천동 장도에서 열린 ‘2025 여수재즈페스티벌' 모습./여수시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이번 공연은 NS JAZZ 밴드의 정제된 음향으로 문을 열었다. 이어 리치맨과 그루브나이스의 에너지 넘치는 퍼포먼스가 분위기를 뜨겁게 달궜다. 마리아킴 퀄텟의 깊이 있는 연주와 보컬, 그리고 한영애 밴드의 감동적인 무대는 관객들의 큰 박수와 환호를 이끌어냈다.&lt;br&gt;&lt;br&gt;정기명 여수시장은 “내년 9월 개최하는 ‘2026 여수세계섬박람회’를 겨냥해 재즈 축제를 여수의 대표 문화 행사로 육성하겠다”며 “이와 함께 장도에서 다양한 문화예술 프로그램을 선보이겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/GAZYLKSQ6BBWTLWNJB2WFDKFPE.jpg?auth=ce8dd87755c3554cc0f7b9fbebf1c2aaa9537bc8efaf664fb384aba1aee9cfd8&amp;smart=true&amp;width=1200&amp;height=800" type="image/jpeg" height="800" width="1200">
+        <media:description type="plain">전남 여수 여름바다에서 무료로 즐기는 카누 체험./여수시</media:description>
+        <media:credit role="author" scheme="urn:ebu">여수시</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>청주서 60대 연쇄 방화 용의자, 저수지 투신해 숨져</title>
+      <link>https://www.chosun.com/national/regional/2025/06/15/XDKTTFV4LNEQROVZDFZWD4B7QI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/06/15/XDKTTFV4LNEQROVZDFZWD4B7QI/</guid>
+      <dc:creator>우정식 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 15 Jun 2025 05:32:57 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KKPU66JR2ZACLDQI47NNRQYETM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;15일 새벽 충북 청주시 상당구 일대 다세대주택과 주상복합아파트 지하 주차장 등 3곳에서 연이어 불을 지른 60대 남성이 저수지에 투신해 숨지는 사건이 발생했다.&lt;br&gt;&lt;br&gt;청주 상당경찰서와 충북도소방본부에 따르면, 이날 오전 1시 14분쯤 청주시 상당구 용정동의 한 다세대주택 3층 현관문 앞에 “누군가 불을 냈다”는 신고가 119에 접수됐다. 불이 난 건물에 살던 주민 6명이 급히 대피했지만 다행히 인명피해는 없었고, 현관 일부가 불에 그을리는 피해가 났다. 이어 20여분 뒤 상당구 상당로 한 업무용 빌딩 1층에서도 불이 났지만, 행인과 소방 당국에 의해 3분 만에 진화됐다. 또 오전 2시쯤 인접한 주상복합아파트 지하 2층 주차장에서도 불이 나 천장 공조설비 일부가 그을렸지만 스프링클러가 작동해 불은 번지지 않았고, 인명 피해도 발생하지 않았다.&lt;br&gt;&lt;br&gt;방화에 무게를 두고 수사에 나선 경찰은 방범카메라 녹화 영상 등을 통해 동일인이 3곳에서 연이어 불을 지른 것으로 보고 추적한 끝에 명암저수지 인근에서 용의자인 60대 A씨가 벗어 놓은 것으로 보이는 의류 등을 발견했다. 이어 저수지 주변을 수색하던 경찰은 이날 오전 7시 10분쯤 익사한 것으로 추정되는 A씨 시신을 발견했다.&lt;br&gt;&lt;br&gt;불이 난 주상복합아파트 방범카메라에는 A씨가 오토바이를 타고 지하 주차장에 들어온 뒤 인화성 물질을 엘리베이터 앞에 뿌리고 불을 지르는 모습이 찍힌 것으로 알려졌다. 현장에선 그가 남긴 것으로 보이는 메모도 발견됐다고 한다. &lt;br&gt;&lt;br&gt;메모에는 범행 동기가 인척간 갈등에 의한 것으로 의심되는 내용이 담긴 것으로 알려졌다. A씨가 인척에게 돈을 빌려달라고 요청했다 거절을 당했고, 이를 크게 서운해 하는 내용이 적혀있는 것으로 알려졌다. 메모에 선의의 피해자에게 가슴 깊이 사죄한다는 내용도 있는 것으로 전해졌다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “메모 내용에 대해선 밝힐 수 없다”며 “방화 용의자가 숨져서 구체적인 범행 동기를 밝히기가 쉽지 않은 상황”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>오늘 밤 달의 밝기는...야간비행 조종사 위한 ‘달빛 예보’ 시작</title>
+      <link>https://www.chosun.com/national/transport-environment/2025/06/15/HK4IV66XHRAVJM4AMFXJHPLHNI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/06/15/HK4IV66XHRAVJM4AMFXJHPLHNI/</guid>
+      <dc:creator>박상현 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 15 Jun 2025 05:18:37 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/S3UMR3RHQZPVFDK2U4YYRDA7JY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 11일 오후 광주 서구 광주시청 옥상 난간 뒤편으로 6월의 보름달 스트로베리 문(Strawberry Moon)이 떠오르고 있다. 스트로베리 문은 북미 원주민들이 딸기를 수확하는 시기인 6월에 뜨는 달을 의미한다. 달의 색깔이나 모양이 딸기와 직접적인 관계는 없지만 6월에 맺는 열매의 성숙을 상징한다. 올해 스트로베리 문은 18년 만에 가장 낮은 고도에서 떠오르는 보름달이다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘달빛 예보’가 시작된다. 기상청은 헬기 등 고도 3000m 이하로 나는 저(低)고도 비행기의 야간 운항을 위해 시간대별로 달빛 밝기를 예측해 제공하는 ‘달빛천사’ 서비스를 오는 8월 시작한다고 15일 밝혔다. 항공기상청은 “예보는 우리나라 지도의 아무 지점이나 선택하면 구름 양과 분포를 반영해 예측한 시간별 달빛의 조도를 수치와 그래프로 보여주도록 설계됐다”며 “조종사의 안전을 위해 야간 비행이 가능한 ‘최소한의 빛’이 존재하는지도 확인하기 쉽게 만들었다”고 설명했다.&lt;br&gt;&lt;br&gt;달의 밝기는 매일 다르다. 달이 태양과 지구 사이에 놓여 지구에서 보이지 않는 ‘삭’(朔) 때는 달빛의 밝기가 ‘0’, 달이 태양과 지구 반대편에 위치해 보름달이 된 ‘망’(望) 때는 250밀리룩스(mlux·1000분의 1 룩스) 정도다. 1룩스는 촛불 1개 밝기로, 250밀리룩스면 촛불 밝기의 25% 수준이다.&lt;br&gt;&lt;br&gt;야간 비행에선 달빛이 중요하다. 특히 산불 같은 재난이나 응급 환자 이송을 위해 수시로 뜨는 헬기는 조명 시설이 부족한 곳에서 이착륙이 많아 달빛 의존도가 더 크다. 2015~2020년 소방·해경 헬기 출동 기록에 따르면 전체 8225번 가운데 1358번(16.5%)이 야간에 이뤄졌다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>2024년 마약사범, 전년 대비 16% 감소… 10명 중 6명은 20·30</title>
       <link>https://www.chosun.com/national/court_law/2025/06/15/4CHUUPOKPVCSLNLCXYX4EHQBKI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/15/4CHUUPOKPVCSLNLCXYX4EHQBKI/</guid>
@@ -848,42 +937,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RAOQETWFCKVUWWX2UTFXN5TKYQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원 로고./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;다른 남자를 만난다는 이유로 이혼한 옛 아내를 흉기로 살해하려 한 50대 남성에게 항소심에서도 실형이 선고됐다. &lt;br&gt;&lt;br&gt;서울고법 인천원외재판부 형사2부(재판장 임영우)는 살인미수 혐의로 기소된 A(57)씨에 대해 1심과 같은 징역 7년을 선고했다고 13일 밝혔다. 또 출소 후 10년간 위치추적 전자장치(전자발찌) 부착을 명령했다.&lt;br&gt;&lt;br&gt;재판부는 “피고인의 공격으로 피해자가 과다 출혈로 사망할 수 있는 상황이었으나, 경찰관이 진입할 때까지 40분 이상 어떠한 응급조치도 하지 않고 피해자를 폭행했다”며 “살해의 고의가 없었다고 보기 어렵다”고 선고 이유를 설명했다. &lt;br&gt;&lt;br&gt;A씨는 지난해 9월 3일 오후 11시쯤 인천시 계양구의 한 아파트에서 이혼한 B(50)씨를 흉기로 찔러 살해하려 한 혐의로 기소됐다. A씨는 B씨가 다른 남성을 만난다는 이유로 범행한 것으로 파악됐다. &lt;br&gt;&lt;br&gt;A씨는 흉기에 찔린 B씨가 “다리에 마비가 온 것 같다. 살려달라. 병원 좀 데려다 달라”고 애원하다가 몰래 112 신고를 하자, 주먹으로 B씨의 얼굴을 여러 차례 폭행하기도 했다.&lt;br&gt;&lt;br&gt;A씨는 신고를 받고 출동한 경찰에 현행범으로 체포되기 전까지 지속해서 B씨를 살해하려 했다. B씨는 A씨의 흉기에 등과 엉덩이 부위를 다쳐 전치 32주의 진단을 받았다. &lt;br&gt;&lt;br&gt;경찰은 A씨를 제압하고 체포하기 위해 테이저건을 쐈다. &lt;br&gt;&lt;br&gt;A씨는 앞서 지난해 8월 26일엔 B씨의 외박 사실을 알고 화가 나 집에 찾아가 자신의 딸에게 “너도 죽여버린다”며 흉기로 가스 배관을 끊고 집 안에 가루 세제를 뿌리기도 한 것으로 조사됐다. &lt;br&gt;&lt;br&gt;A씨는 앞서 헤어진 전 여자친구들에게도 흉기로 위협하거나 폭행하는 등의 범행을 반복해 징역형의 실형을 선고받기도 했다. &lt;br&gt;&lt;br&gt;1심 재판부는 “피고인은 이혼 후 최근까지 여성 2명과 교제했는데도, 피해자가 다른 남성과 교제하려 한다는 이유로 살해하려 했다”며 “피해자의 신고‧저항과 경찰의 적절한 대처가 없었다면 더 큰 피해로 확대될 수 있었다”고 했다. &lt;br&gt;&lt;br&gt;이어 “피고인은 연인 관계를 맺었던 여성들을 상대로 교제 폭력을 저질러 복역하고도 누범 기간 또다시 범행을 저질렀다”며 “준법 의지를 찾아보기 어렵고 재범으로 인한 비난 가능성이 매우 크다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>‘일본도 살인범’ 2심도 무기징역...法 “영원히 사회에서 격리해야”</title>
-      <link>https://www.chosun.com/national/court_law/2025/06/13/MUVRCJGKBVCMZJ5UIZOPLT3BGQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/13/MUVRCJGKBVCMZJ5UIZOPLT3BGQ/</guid>
-      <dc:creator>김희래 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 13 Jun 2025 06:56:14 +0000</pubDate>
-      <content:encoded>지난해 서울 은평구의 한 아파트 단지에서 일본도를 휘둘러 이웃 주민을 살해한 혐의로 재판에 넘겨진 30대 남성이 1심에 이어 2심에서도 무기징역을 선고받았다.&lt;br&gt;&lt;br&gt;13일 서울고법 형사1부(재판장 윤성식)는 살인 등 혐의로 기소된 백모 씨에게 1심과 같은 무기징역을 선고하고 20년의 위치추적 전자장치 부착을 명령했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/F3TZVL3VUDQ3XNDK254IS3KCYM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;아파트 이웃 주민에게 일본도를 휘둘러 숨지게 한 혐의로 기소된 30대 남성 백모 씨가 13일 열린 2심 선고기일에서 1심에 이어 무기징역을 선고 받았다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;재판부는 범행 당시 심신미약이었으므로 감형돼야 한다는 백씨 측 주장에 대해 “이 사건 범행은 고도의 판단 능력이 필요하지 않다. 사람에게 칼로 해를 가해 살해했을 때 어떤 책임을 지는지 판단 못 할 정도의 심신미약이 있었다고는 보기 어렵다”고 밝혔다. 또 “범행의 중대성에 비춰봤을 땐 심신미약이 인정돼도 형 감경 사유까지 있다고 보기는 어렵다”고 덧붙였다.&lt;br&gt;&lt;br&gt;1심 형이 너무 무겁다는 백씨 측 주장에 대해는 “이 사건의 피해자에겐 아무런 잘못이 없고, 피고인 스스로 피해자가 자신을 감시하고 째려본다는 이유로 범행한 것”이라며 “그런 이유로 사람을 살해한다는 것은 정당화하기 어렵다”고 했다.&lt;br&gt;&lt;br&gt;재판부는 특히 “피고인이 지금까지도 본인 행위를 제대로 뉘우치고 반성하고 있는지 의문”이라며 “피고인을 일정 기간 후 사회로 다시 돌려보냈을 땐 이번 사건과 같은 일이 또 발생할 위험성이 매우 높고, 영원히 사회로부터 격리하는 형을 선고할 수밖에 없어 보인다”고 밝혔다.&lt;br&gt;&lt;br&gt;백씨는 지난해 7월 서울 은평구의 한 아파트 단지 내에서 ‘장식용’으로 허가받은 총 길이 102㎝의 일본도를 휘둘러 피해자를 살해한 혐의로 재판에 넘겨졌다. 지난 2월 1심은 백씨에게 무기징역을 선고하고, 20년의 위치추적 전자장치 부착을 명령했다. &lt;br&gt;&lt;br&gt;1심 재판부는 “죄질이 극도로 불량하다”며 “사회로부터 무기한 격리해서 자유를 박탈할 필요성이 있다”고 판단했다. 백씨에게 사형을 구형한 검찰과 백씨 측 모두 1심 판결에 불복하면서 2심이 열리게 됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“회색모자, 남색반팔티…신고해달라” 광명 군부대 침입 용의자 추적 중</title>
-      <link>https://www.chosun.com/national/national_general/2025/06/13/ETW45TK67RAK7K6TBJM6Q5IYAM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/13/ETW45TK67RAK7K6TBJM6Q5IYAM/</guid>
-      <dc:creator>이가영 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 13 Jun 2025 06:09:14 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5P4PLGXDZ5BZZJ5BAQ5CXAC7GQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;13일 오전 경기 광명시가 발송한 안전안내 문자. /광명시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 광명시의 한 군부대에서 누군가 탄약고 철조망을 인위적으로 훼손했다는 112 신고가 접수돼 관계 당국이 용의자 추적에 나섰다. &lt;br&gt;&lt;br&gt;13일 경찰 등에 따르면 이날 오전 8시쯤 “민간인이 군부대에 침입했다”는 내용의 112 신고가 들어왔다. 신고자는 부대 관계자로, 탄약고에서 250m가량 떨어진 외곽 철조망이 끊어진 사실을 확인하고 이같이 신고한 것으로 알려졌다. &lt;br&gt;&lt;br&gt;탄약고 근처에 설치된 철조망은 훼손되지 않는 등 탄약고 침입 흔적은 발견되지 않은 것으로 전해졌다. &lt;br&gt;&lt;br&gt;군 경찰, 경찰, 시 관계자 등이 출동해 현장에서 사건 경위를 조사하고 있다. 부대 내 방범카메라(CCTV) 등을 통해 용의자를 특정하고, 뒤를 쫓고 있다.&lt;br&gt;&lt;br&gt;광명시는 이날 오전 11시 52분쯤 재난 문자를 통해 “군사시설에 침입한 정황이 발견돼 의심자 발견 시 인근 파출소로 신고해 달라”고 당부했다. 용의자는 회색 모자, 남색 반팔 티셔츠, 디지털 팔토시, 검정 긴바지 차림에 에코백을 소지 중이라고 광명시는 전했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>지드래곤, 청소년 알코올중독 치료 위해 8억8000만원 기부</title>
-      <link>https://www.chosun.com/national/people/2025/06/13/I2N4YCMGKJHUVCJVOYYS6FL3KY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/06/13/I2N4YCMGKJHUVCJVOYYS6FL3KY/</guid>
-      <dc:creator>문지연 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 13 Jun 2025 05:37:07 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KPVD3YN7BNFJNMP2B2GHYEE6NI.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;그룹 '빅뱅' 멤버 지드래곤. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그룹 ‘빅뱅’ 멤버 지드래곤(37)이 청소년 알코올중독 치료를 위해 8억 8000만원을 기부했다.&lt;br&gt;&lt;br&gt;13일 소속사 갤럭시코퍼레이션에 따르면 지드래곤은 이날 그랜드 하얏트 서울 호텔에서 열리는 ‘피스마이너스원 프리미엄 하이볼 론칭 파티-더 시그널’ 행사에서, 자신이 명예 이사장으로 있는 저스피스 재단에 기부한다. 기부금은 8억 8000만원으로 청소년 알코올 중독 치료의 지속을 위해 무한대(∞)를 상징하는 숫자 8의 의미를 담았다.&lt;br&gt;&lt;br&gt;행사에서는 지난 4월 처음 출시한 ‘블랙 하이볼’과 5월 두 번째로 출시한 ‘레드 하이볼’에 이은 세 번째 하이볼 제품이 공개된다. 지드래곤이 직접 그린 아트워크 버전이다. 지드래곤은 여기에서 불완전한 데이지를 각기 다른 표현과 컬러, 질감으로 그려냈으며 ‘있는 그대로 완벽하지 않아도 괜찮다’는 메시지를 담았다고 한다.&lt;br&gt;&lt;br&gt;지드래곤은 이번 기부에 대해 그 크기와 상관없이 이날을 시작으로 모두가 동참하는 문화로 지속되길 꿈꾼다는 바람을 전했다. 최용호 갤럭시코퍼레이션 대표이자 저스피스 재단 이사장은 “피스마이너스원 하이볼로 시작된 지속 가능한 문화와 기부는 이제 시작일 뿐”이라고 했다.&lt;br&gt;&lt;br&gt;한편 저스피스 재단은 지드래곤이 2023년 12월 마약 투약 의혹으로 곤욕을 겪은 뒤 설립을 약속한 공익 재단이다. 작년 8월 출범했으며 당시 지드래곤은 향후 음원 수익 1%를 재단에 기부해 청소년 마약 중독자에 대한 음악적 치료 지원, 저작권의 공익적 활용, 예술 인재 후원 등에 쓰겠다는 계획을 밝혔었다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘강남역 여친 살해 의대생’ 2심서 징역 30년...1심 보다 4년 늘어</title>
-      <link>https://www.chosun.com/national/court_law/2025/06/13/VDKUPOCKHVC7JOXL7O6LIKOYDU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/13/VDKUPOCKHVC7JOXL7O6LIKOYDU/</guid>
-      <dc:creator>김희래 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 13 Jun 2025 06:13:35 +0000</pubDate>
-      <content:encoded>서울 강남역 인근 건물 옥상에서 여자친구를 흉기로 살해한 혐의로 재판에 넘겨진 의대생 최모 씨가 2심에서 징역 30년을 선고 받았다. 이는 1심보다 형량이 4년 늘어난 것이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/L7MULSAIBPJETBRLZ6IDMHVRZA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 강남역에서 연인 관계이던 피해자를 살해한 혐의로 재판에 넘겨진 명문대 의대생 최모 씨가 2심에서 징역 30년을 선고받았다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;13일 서울고법 형사7부(재판장 이재권)는 살인 등 혐의로 기소된 최 씨의 항소심 선고기일을 열어 징역 26년을 선고한 원심을 파기하고 징역 30년을 선고했다. 보호관찰 5년도 함께 명령했다. 재판부는 “피고인이 범행의 결과와 책임을 온전히 받아들이고 진정으로 반성하는지, 뉘우치는 태도가 있는지 의심스럽다”며 “반성문 제출이나 당심 법정에서의 최후 변론 등만으로는 이런 의구심을 해소하기 부족하다”고 밝혔다. &lt;br&gt;&lt;br&gt;이어 “피고인은 피해자 유족의 용서를 받지 못했고 피해 회복을 위한 노력도 하지 않았다”며 “오히려 책임을 피해자와 가족에게 미루거나, 정신심리학적 특색이나 자살 시도를 핑계로 책임을 감경·회피하는 모습을 보였다”며 양형 이유를 설명했다. &lt;br&gt;&lt;br&gt;앞서 1심 재판부는 최씨에게 징역 26년을 선고했다. 재판부는 “피고인은 미리 흉기를 준비한 점 등에 비춰 보면 피해자를 살해하겠다는 고의는 확정적이었던 것으로 보인다”며 “범행 방법이 잔혹하고 비난 가능성이 높다”고 했다. &lt;br&gt;&lt;br&gt;피고인 측과 검찰은 모두 1심 판결에 불복해 항소했다. 양측은 항소심 재판 과정에서 각각 형이 너무 무겁거나 가볍다고 주장했다. 검찰은 항소심 결심공판에서 최씨에게 무기징역을 구형했다. &lt;br&gt;&lt;br&gt;최씨는 지난해 5월 여자친구 A씨와 결별 등 문제로 갈등을 빚다 서울 강남역 인근 건물 옥상에서 흉기를 여러 차례 휘둘러 A씨를 숨지게 한 혐의로 재판에 넘겨졌다. 그는 중학교 동창인 A씨와 만남을 이어오다 문제 상황이 생기자 살해하기로 계획하고 미리 흉기를 준비한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;최 씨 측은 첫 공판에서 불안장애와 강박 등의 영향을 주장하며 정신감정을 신청했으나 감정 결과 사이코패스 진단 기준에는 못 미치는 것으로 나타났다. 최씨는 수능 만점을 받은 의대생으로 알려졌는데, 사건 발생 이후 최씨 소속 대학은 최씨에게 ‘징계 제적’ 처분을 내렸다. 징계 제적은 재입학도 불가한 중징계 처분이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>아파트 단지에 출몰한 너구리 가족… “절대 만지지 마세요” 경고 이유</title>
       <link>https://www.chosun.com/national/national_general/2025/06/13/64IQUXUMCBH5NCC7C47AE7BVXA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/13/64IQUXUMCBH5NCC7C47AE7BVXA/</guid>
@@ -912,42 +965,6 @@
       <description/>
       <pubDate>Fri, 13 Jun 2025 04:37:58 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VEUITXGDSVO5JC73DFRNQDOEOY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;조은석 내란 특별검사. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 전 대통령 등의 내란·외환 혐의를 수사할 조은석 특별검사가 13일 오전 ‘12·3 비상계엄’을 수사한 박세현 검찰 특별수사본부장(서울고검장)을 만났다. 이재명 대통령이 전날 밤 조 특검 등 3대 특검(내란·김건희·순직 해병)을 임명한 만큼 조 특검의 첫 공식 일정인 것으로 전해졌다.&lt;br&gt;&lt;br&gt;서울고검은 이날 취재진에게 “조 특검이 박 본부장을 만난 것은 맞다”면서 “대화 내용은 확인해 드리기 어렵다”고 했다.&lt;br&gt;&lt;br&gt;검찰 안팎에서는 조 특검이 박 본부장에게 검찰의 앞선 수사 자료 송부, 수사팀 검사 및 수사관 파견 등에 대한 협조를 요청했을 것이라는 해석이 나왔다. 내란 특검팀은 조 특검, 특검보 6명, 파견검사 60명, 파견공무원 100명, 특별수사관 100명 등 역대 특검 중 최대인 267명으로 구성될 예정이다. &lt;br&gt;&lt;br&gt;파견검사 중 일부는 특검보와 같은 지위에서 팀장 역할을 할 수도 있다. 2016~2017년 박근혜·최순실 국정 농단 의혹을 수사한 박영수 특별검사도 임명 다음 날 윤석열 당시 대전고검 검사를 수사팀장에 내정하고 법무부와 대검찰청에 파견을 요청했다. &lt;br&gt;&lt;br&gt;조 특검은 이날 오전 취재진에게 “수사에 진력해 온 국가수사본부-고위공직자범죄수사처-검찰의 노고가 헛되지 않도록 최선을 다해 사초를 쓰는 자세로 세심하게 살펴가며 오로지 수사 논리에 따라 특별검사의 직을 수행하겠다” “수사팀 구성과 업무 공간이 준비되면 설명할 기회를 갖겠다” “현재 별도 근무 중인 변호사 사무실이 없어 재택 근무 중”이라고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>공수처, ‘순직 해병 사건 수사 외압’ 의혹 국방부 검찰단장 피의자 조사</title>
-      <link>https://www.chosun.com/national/court_law/2025/06/13/3WL3V5E77BCEHJUMFG2QIMWKRQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/13/3WL3V5E77BCEHJUMFG2QIMWKRQ/</guid>
-      <dc:creator>박강현 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 13 Jun 2025 04:22:04 +0000</pubDate>
-      <content:encoded>‘순직 해병 사건 수사 외압’ 의혹을 수사 중인 고위공직자범죄수사처(공수처)가 김동혁 국방부 검찰단장(준장)을 불러 조사 중이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NYNHZA67VR2KD2LUOVQ3KNOON4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기 정부과천청사 고위공직자범죄수사처. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;13일 법조계에 따르면 공수처 해병대원 순직 사건 수사팀(부장 차정현)은 이날 김 단장을 피의자 신분으로 불러 조사하고 있다. 김 단장은 전날(12일)에도 조사를 받은 것으로 전해졌다.&lt;br&gt;&lt;br&gt;김 단장은 지난 2023년 8월 2일 대통령실 지시를 받고 박정훈 전 해병대 수사단장(대령)을 ‘집단항명 수괴’ 혐의로 군 검찰에 입건한 의혹을 받는다.&lt;br&gt;&lt;br&gt;입건 당일 해병대 수사단은 임성근 당시 해병대 1사단장 등 간부 8명을 업무상 과실치사 혐의로 경북경찰청에 이첩했다. 그러자 국방부는 경찰로부터 사건 기록을 회수하는 한편, 수사단장인 박 전 단장을 해임하고 ‘집단항명 수괴’ 혐의로 군 검찰에 입건했다.&lt;br&gt;&lt;br&gt;군사법원에 제출된 통화내역에 따르면 그날 윤석열 전 대통령과 임기훈 전 대통령실 국방비서관, 유재은 전 국방부 법무관리관, 경북경찰청 관계자 간 통화가 순차적으로 이뤄졌다.&lt;br&gt;&lt;br&gt;공수처는 이 과정에서 김 단장이 유 전 관리관과 연락하며 순직 해병 사건을 회수하고, 국방부 조사본부가 기록을 넘겨받아 재검토하는 과정 등에 깊숙이 개입한 것으로 의심하고 있다.&lt;br&gt;&lt;br&gt;공수처는 다른 군 관계자들에 대하 조사도 이어갈 전망이다. 다만 이 의혹 관련 특별검사팀 출범이 임박해, 조만간 공수처는 기존 활동을 마무리하고 모든 수사 기록을 정리해 특검팀에 넘겨야 한다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“이재명 암살단 모집” 협박글 올린 50대 남성 등 3명 검찰 송치 </title>
-      <link>https://www.chosun.com/national/national_general/2025/06/13/TVTIW3Z4SJA3TF7GTZYYJKPHFM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/13/TVTIW3Z4SJA3TF7GTZYYJKPHFM/</guid>
-      <dc:creator>구아모 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 13 Jun 2025 03:10:16 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/W7N6YILQVKRS5UWV2FHQD5NBTE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이재명 대통령이 10일 서울 용산구 대통령실 청사에서 열린 국무회의에서 모두발언을 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이재명 대통령이 대선 후보였던 시기 소셜미디어에 암살 협박 글을 올린 피의자들이 검찰에 송치됐다.&lt;br&gt;&lt;br&gt;서울경찰청 사이버수사과는 이재명 대통령이 후보였던 시기 소셜미디어에 위해·협박성 글을 게시한 혐의로 50대 남성 A씨와 B씨, 20대 여성 C씨 등 3명을 불구속 상태로 검찰에 송치했다고 13일 밝혔다. &lt;br&gt;&lt;br&gt;앞서 더불어민주당 가짜뉴스대응단은 이재명 대선 후보를 살해하겠다고 협박하거나 암살단 모집 글을 올린 이들을 협박 등 혐의로 지난달 8일 경찰에 고발했다. &lt;br&gt;&lt;br&gt;경찰에 따르면 피의자 A씨, B씨, C씨는 협박성 글을 작성한 사실을 모두 인정했으며, “장난이었다” “실행 의사는 없었다”는 취지로 진술했다. 경찰은 “실행 의사가 없더라도 위해·협박 게시글을 올리는 것은 분명한 범죄 행위”라며 엄정 수사 방침을 밝혔다. 피의자 B씨는 조사 이후 더불어민주당 공식 페이스북에 사과문을 게재하기도 했다.&lt;br&gt;&lt;br&gt;경찰은 현재 또 다른 20대 여성 D씨에 대해서도 관련 혐의에 대해 수사를 계속하고 있다. 경찰은 별도로, 지난 이 대통령 당선 이후 한 여성 스트리머가 이재명 당선 소식에 “누가 암살 좀”이라고 발언한 사건과 관련해 피의자 D씨를 지난 8일 조사했으며, 혐의 유무를 판단하기 위해 수사를 이어가고 있다. 경찰은 “대통령을 대상으로 한 위해·협박 게시글 사건에 대해 끝까지 추적할 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘김건희 대화 녹음’ 서울의소리 이명수씨 피의자 조사</title>
-      <link>https://www.chosun.com/national/court_law/2025/06/13/6G67PN5NW5D7THAJLQF4GLY6XQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/13/6G67PN5NW5D7THAJLQF4GLY6XQ/</guid>
-      <dc:creator>유희곤 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 13 Jun 2025 02:45:49 +0000</pubDate>
-      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XMWI6XQHWVLCVJQLQTG7KDOYZY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령 배우자 김건희 여사와 제3자의 대화를 녹음한 혐의를 받는 서울의소리 이명수씨가 13일 서울 서초구 서울중앙지검에서 피의자 조사를 받기 전 취재진의 질문에 답하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 전 대통령 배우자 김건희 여사와의 대화를 몰래 녹음한 혐의를 받는 친야 성향 유튜브 채널 ‘서울의 소리’ 소속 이명수씨가 13일 검찰 피의자 조사를 받고 있다.&lt;br&gt;&lt;br&gt;서울중앙지검 공공수사2부(부장 조민우)는 이날 오전 이 기자를 통신비밀보호법 위반 혐의 피의자로 불러 조사하고 있다. &lt;br&gt;&lt;br&gt;이씨는 검찰청사에 들어가기 전 취재진에게 “김 여사가 코바나컨텐츠 사무실로 불러서 3시간 정도 대화했고, (이때) 김 여사가 500㎖짜리 맥주 두 캔을 마셨던 것 같다”며 “부적절한 얘기를 해서 피하기 위해 급하게 화장실을 가는 바람에 3분 정도 중간에 자리를 비웠다”고 주장했다. &lt;br&gt;&lt;br&gt;이씨 변호인인 류재율 변호사는 “본인이 대화자로 참여한 상태에서 한 녹음은 불법이 아니고, 대화 녹음 3시간 중 이씨가 화장실에 갔다 온 약 3분이 문제가 된 것”이라며 “(불법 녹음을 하려고 한) 고의성이 없기 때문에 검찰이 불기소 처분을 해야 한다”고 했다.&lt;br&gt;&lt;br&gt;앞서 국민의힘은 이씨가 2021년 7월부터 6개월 동안 김 여사와 52차례 통화한 내용을 녹음하고 이를 보도해 달라며 MBC에 넘겼다며 공직선거법 위반 혐의로 이씨를 고발했다. 경찰은 고의성이 인정된다고 보고 2022년 8월 이씨를 통신비밀보호법 위반 혐의로 검찰에 송치했지만, 주거침입과 공직선거법 위반 혐의는 불송치 결정했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>윤석열 전 대통령 살해 예고 게시글...경찰 추적 나서</title>
-      <link>https://www.chosun.com/national/incident/2025/06/13/NSQYYKL2IJDVRMQVAIEGF5ERHA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/06/13/NSQYYKL2IJDVRMQVAIEGF5ERHA/</guid>
-      <dc:creator>신정훈 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 13 Jun 2025 02:43:33 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KQWKJZ4QLVDS7GWIWX3L53AFRY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;디시인사이드 캡처/연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;온라인 커뮤니티에 윤석열 전 대통령 살해 예고 글이 게시돼 경찰이 수사에 나섰다. &lt;br&gt;&lt;br&gt;13일 충북 제천경찰서에 따르면 이날 오전 4시쯤 온라인 커뮤니티 디시인사이드에 “아크로비스타 가서 윤석열 살해할 건데 마지막 조언 좀”이라는 제목의 게시물이 올라왔다. &lt;br&gt;&lt;br&gt;이를 본 시민은 자신 관할 경찰에서 신고를 했다. 게시글에는 제목 외에 다른 내용은 없었다. &lt;br&gt;&lt;br&gt;경찰은 디시인사이드 측에 게시글 보존을 요청하는 한편, 아이피(IP) 추적을 통해 작성자 신원을 확인하고 있다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “현재 작성글 등 수사를 위한 자료는 모두 확보했다”며 “작성자를 신속히 검거한 뒤 정확한 작성 경위를 파악할 예정”이라고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>“할일 없는 고통 겪어보니, 출근이 행복” 부사장에서 인턴 된 67세</title>
