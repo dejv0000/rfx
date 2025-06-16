@@ -13,6 +13,60 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>동국제강 포항공장 에너지저장장치 전기실서 화재…소방당국, 진화 중</title>
+      <link>https://www.chosun.com/national/regional/2025/06/16/MFFUA37AZNF2FF5M3WHJKHMKQQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/06/16/MFFUA37AZNF2FF5M3WHJKHMKQQ/</guid>
+      <dc:creator>포항=노인호 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 16 Jun 2025 09:41:30 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RRJDCK3CM5DBTMZ6X2JQZD3SAM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;16일 오전 경북 포항시 남구 대송면 동국제강 포항공장 에너지저장장치 전기실에서 화재가 발생해 소방관들이 진화작업을 벌이고 있다./경북소방본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;동국제강 포항공장 내 에너지저장장치(Energy Storage System·ESS) 전기실에서 화재가 발생했다. 불이 나자 소방 당국은 대응 1단계를 발령해 진화 작업을 벌이고 있지만, 배터리 화재 특성상 완전 진화까지 상당 시간이 걸릴 것으로 보인다. &lt;br&gt;&lt;br&gt;16일 경북소방본부 등에 따르면, 이날 오전 8시 32분쯤 경북 포항시 남구 대송면 동국제강 포항공장의 에너지저장장치 전기실에서 불이 났다. 소방 당국은 이날 오전 10시 4분쯤 대응 1단계를 발령하고, 오후 6시 30분 현재까지 진화 작업을 벌이고 있다. 소방 대응 1단계는 관할 소방서 전 인원이 출동하는 비상 대응 단계다.&lt;br&gt;&lt;br&gt;불이 난 건물은 철골조 소재의 2층 규모로, 그 안에는 배터리 모듈(배터리 조합체) 8392개가 장착돼 있다고 소방 당국은 전했다. &lt;br&gt;&lt;br&gt;소방 당국은 전기실 내 상당 부분과 내부 배터리 팩 대부분이 불에 탄 것으로 보고 있지만, 건물 내부로 진입하지 못해 정확한 피해 내용을 확인하지 못하고 있다. 현재까지 확인된 인명 피해는 없다. &lt;br&gt;&lt;br&gt;소방당국 관계자는 “건물 밖으로 연기가 치솟거나 불길이 확산하는 상황은 아니고, 인접 건물로 번질 우려도 낮은 상황”이라며 “다만, 에너지저장장치 화재 특성상 완전한 진화까지는 상당 시간이 걸릴 것으로 보인다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“서명운동 참여하면 해임할 것”…옹진군수, 직권남용 혐의 검찰 송치</title>
+      <link>https://www.chosun.com/national/incident/2025/06/16/3C3YQ7FHWFACHOF5QFV25J6AE4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/06/16/3C3YQ7FHWFACHOF5QFV25J6AE4/</guid>
+      <dc:creator>인천=이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 16 Jun 2025 09:39:46 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CUHOZAJFAHIJEP2YWWDNMV3PXQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;문경복 옹진군수. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;주민단체가 추진하는 서명운동에 참여하는 공직자를 해임하겠다고 발언해 경찰 수사를 받던 문경복 옹진군수가 검찰에 넘겨졌다. &lt;br&gt;&lt;br&gt;인천경찰청 반부패경제범죄수사대는 직권남용 권리행사 방해 혐의로 문경복 옹진군수를 입건해 검찰에 송치했다고 16일 밝혔다. &lt;br&gt;&lt;br&gt;문 군수는 지난해 9월 인천시 옹진군 백령도의 한 식당에서 서해 5도 안보특구 개편 관련 서명운동에 참여하는 백령면 이장들을 해임하겠다고 발언한 혐의를 받고 있다. &lt;br&gt;&lt;br&gt;문 군수는 지난해 11월 자신의 소셜미디어(SNS)에 “서명에 참여하는 공식 조직에 몸담고 있는 분들은 해촉과 임명 취소를 하게 될 것”이라는 글을 올리기도 했다. &lt;br&gt;&lt;br&gt;서해 5도를 별도의 안보 특구로 분리하는 방식의 행정 체제 개편이 필요하다는 내용으로 서명운동 등을 진행했던 주민 단체는 문 군수가 헌법상 권리인 청원권을 행사하지 못하게 방해했다는 등의 이유로 경찰에 고소장을 냈다. &lt;br&gt;&lt;br&gt;경찰은 문 군수의 직권남용 혐의가 인정된다고 봤다. 고소장에 함께 적시된 업무방해와 명예훼손 혐의 등은 불송치 결정했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>대구 스토킹 살인 혐의 40대 남성 구속</title>
+      <link>https://www.chosun.com/national/incident/2025/06/16/7Y4KDKCLHVBVPBRYRMT2J6H6EA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/06/16/7Y4KDKCLHVBVPBRYRMT2J6H6EA/</guid>
+      <dc:creator>대구=이승규 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 16 Jun 2025 09:27:20 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/X3JFXMS3QW5QV3CPTMGJ2JWE2Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대구 달서구의 한 아파트에 침입해 스토킹하던 50대 여성을 흉기로 살해하고 도주한 혐의를 받는 A 씨가 16일 오후 대구지법 서부지원에 출석해 구속 전 피의자 심문(영장실질심사)을 마친 뒤 법원을 떠나고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대구에서 스토킹하던 여성을 살해한 40대 용의자 A씨가 16일 구속됐다. 대구지법 서부지원 서영애 영장전담부장판사는 살인 혐의를 받는 A(48)씨에 대해 “(범행 이후 A씨가) 도주했고, 일정한 주거가 없다”며 구속 영장을 발부했다.&lt;br&gt;&lt;br&gt;A씨는 이날 오후 1시 40분쯤 대구지법 서부지원에서 열린 구속 전 피의자 심문(영장실질심사)에 출석했다. A씨는 “유족에게 할 말이 없나” “살해 동기는 무엇인가” 등 취재진 질문에 답하지 않았다.&lt;br&gt;&lt;br&gt;A씨는 지난 10일 오전 3시 30분쯤 대구 달서구의 한 아파트에서 스토킹하던 50대 여성 B씨를 흉기로 살해한 혐의를 받는다. A씨는 범행 직후 미리 준비한 지인의 차량을 운전해 세종시로 도주했다. 세종시에서는 부친의 묘소가 있는 부강면의 야산으로 택시를 타고 이동했다.&lt;br&gt;&lt;br&gt;경찰이 인력과 수색견, 드론 등을 활용해 대규모로 수색했지만 A씨는 수사망을 피해 도주를 이어갔다. 세종시는 A씨로 인한 범죄 발생을 우려해 시민들에게 입산 및 외출 자제를 권고하기도 했다.&lt;br&gt;&lt;br&gt;A씨는 범행 나흘 만인 지난 14일 오후 10시 45분쯤 경찰에 체포됐다. 돈이 떨어진 A씨가 지인에게 공중전화로 전화를 걸면서 덜미가 잡혔다. A씨는 지인과 만나기로 한 조치원읍의 한 컨테이너 창고 앞으로 왔다가 잠복했던 경찰에게 검거됐다.&lt;br&gt;&lt;br&gt;A씨는 경찰에 범행을 인정하면서 “심신이 지쳐 모든 것을 정리하기 위해 산에서 내려왔다”고 진술했다.&lt;br&gt;&lt;br&gt;A씨는 지난 4월에도 B씨를 흉기로 위협해 경찰에 입건됐다. 경찰은 A씨에 대해 특수 협박 혐의로 구속 영장을 대구지법 서부지원에 신청했으나, 당시 법원은 “A씨가 수사에 제대로 응하고 있다”며 기각했다.&lt;br&gt;&lt;br&gt;이후 불구속 상태에서 수사받던 A씨가 B씨를 살해했다. 경찰이 B씨에 대한 피해자 보호 조치로 방범카메라를 아파트 현관에 설치했지만, A씨가 복면을 쓰고 아파트 외벽 가스관을 타고 올라와 B씨 집에 침입하면서 소용이 없었다.&lt;br&gt;&lt;br&gt;A씨는 B씨가 자신을 만나주지 않는다는 이유로 범행을 저지른 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>소라넷 이후 국내 최대 불법 성영상물 사이트 운영자 구속</title>
+      <link>https://www.chosun.com/national/regional/2025/06/16/VCJP5L7TRRDIXAH3XJW3LKKORQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/06/16/VCJP5L7TRRDIXAH3XJW3LKKORQ/</guid>
+      <dc:creator>우정식 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 16 Jun 2025 08:53:01 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CKBRE3RD5ZG75HWZ2XODOS2NBM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2017년 8월부터 2020년 1월까지 불법 성영상물 사이트를 운영하며 3000건의 음란물을 배포한 혐의 등을 받는 A씨가 에콰도르에서 붙잡혀 국내로 송환되는 모습. /법무부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;소라넷 이후로 국내 최대 규모였던 불법성영상물 유포 사이트와 성매매업소 소개 전용 사이트를 운영하며 수십억원을 벌어들인 운영자가 에콰도르에서 붙잡혀 국내로 송환된 후 구속됐다.&lt;br&gt;&lt;br&gt;대전경찰청 사이버수사대는 정보통신망법(음란물 유포) 및 범죄수익은닉규제법 등 위반 혐의로 A(50)씨를 에콰도르 현지에서 검거한 뒤 국내 송환해 구속했다고 16일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 2017년 8월부터 2020년 1월까지 불법 성영상물 사이트를 운영하면서 아동·여성 성 착취물 등 약 3000건의 음란물을 배포하고 2012년 12월부터 2019년 10월까지 또 다른 사이트에서 성매매 업소를 광고한 혐의를 받는다.&lt;br&gt;&lt;br&gt;A씨가 운영했던 불법 성영상물 사이트는 소라넷 이후로 국내 최대 규모로 1일 접속 인원만 3만6000명에 달했던 것으로 나타났다.&lt;br&gt;&lt;br&gt;A씨는 에콰도르에서 두 사이트를 운영하며 국내에 있던 현금 인출책 B(23)씨 등 5명을 통해 비트코인 등 가상화폐로 범죄 수익금을 송금받았다.&lt;br&gt;&lt;br&gt;2019년부터 수사에 착수한 경찰은 B씨 등 현금 인출책 5명을 검거한 뒤, 태국에 은신하며 불법 성영상물 유포 사이트를 함께 운영해온 공동운영자 C(31)씨도 지난 2021년 검거해 구속 송치했다.&lt;br&gt;&lt;br&gt;B씨와 C씨 등 공범들은 2022년 정보통신망법 위반(음란물 유포 방조) 등으로 유죄 판결이 확정됐다.&lt;br&gt;&lt;br&gt;경찰은 계속 자금 흐름을 추적해 A씨가 에콰도르에 거주 중인 사실을 확인했다. 이어 인터폴과 협력해 A씨를 지난해 6월 에콰도르 현지에서 검거해 1년 만인 지난 12일 국내 송환했다.&lt;br&gt;&lt;br&gt;경찰은 A씨가 벌어들인 범죄수익금 수십억 원 중 약 20억원에 대해 기소 전 추징보전을 통해 국고로 환수할 방침이다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “A씨를 조만간 검찰로 송치할 예정”이라며 “범죄를 저지르고 숨어있어도 끝까지 추적해 법의 심판을 받도록 하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>정부, 황우석 상금 3억 돌려받지 않기로…4년 만에 소송 취하</title>
+      <link>https://www.chosun.com/national/court_law/2025/06/16/4OSMQWA4DNCQVNMI73IE6CAZOQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/16/4OSMQWA4DNCQVNMI73IE6CAZOQ/</guid>
+      <dc:creator>박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 16 Jun 2025 08:34:44 +0000</pubDate>
+      <content:encoded>정부가 황우석 전 서울대 교수에게 대통령상 상금 3억원을 돌려달라며 낸 소송을 약 4년 만에 취하했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/F44SRIMM4QM5G3PRA5ZZRILLYY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;황우석 교수가 줄기세포 논문의 진위 논란에 대해 해명하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;16일 법조계에 따르면, 대한민국 정부는 이날 서울행정법원 행정9부(재판장 김국현)에 소 취하서를 제출했다. 황 전 교수 측도 같은 날 소 취하에 동의하면서 소송은 최종 마무리됐다.&lt;br&gt;&lt;br&gt;황 전 교수는 줄기세포 관련 논문의 조작 사실이 드러난 뒤, 정부가 2004년 수여한 대통령상을 2020년 10월 취소하자 이듬해 1월 대통령을 상대로 ‘표창 취소 처분 무효 확인 소송’을 냈다. 1·2심은 정부가 대통령상을 취소하는 과정에서 황 전 교수에게 시상 취소 처분을 사전에 통지하지 않고 의견을 제출할 기회도 주지 않은 점을 들어 절차적 위법을 인정했고, 2023년 대법원이 이를 확정했다.&lt;br&gt;&lt;br&gt;이후 정부는 황 전 교수에게 상장과 상금 반환을 요구했지만, 황 전 교수는 거부했다. 황 전 교수 측은 “상장은 반납하지만, 상금은 이미 국가기초기술연구회를 통해 국가에 기부했으므로 반환할 수 없다”고 주장했다. 이에 정부는 2021년 3월 황 전 교수를 상대로 상금 환수 소송을 제기했다. &lt;br&gt;&lt;br&gt;이 사건은 그해 9월 첫 변론기일이 열린 뒤 별다른 심리 없이 4년 가까이 미뤄졌다가, 지난 4월 21일 두 번째 변론이 열렸다. 재판부는 “(황 전 교수에 대한) 대통령 표창 취소 처분의 무효를 다투는 사건이 있었고, 재작년에 나온 대법원 판단을 기다리기 위해 재판이 지연됐다”고 설명했다.&lt;br&gt;&lt;br&gt;지난 재판에서 황 전 교수 측은 “(대법원에서) 표창 시상 취소 처분이 취소됐기 때문에 상금 환수 청구도 기각돼야 한다”고 주장했다. 정부 측은 “조만간 소 취하 여부를 결정해 제출하겠다”고 밝혔고, 이날 실제로 소송을 취하했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>서울 자율주행 택시 8개월 무사고, 강남 대부분으로 확대</title>
+      <link>https://www.chosun.com/national/national_general/2025/06/15/ZPWVKOLNIJBCDDAGW53YI6W6JU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/15/ZPWVKOLNIJBCDDAGW53YI6W6JU/</guid>
+      <dc:creator>박진성 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 15 Jun 2025 11:14:13 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QDFPIUOU5RHILLCXSM5UDCYPQQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울시가 운행중인 야간 자율주행택시의 모습/서울시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울시는 오는 16일부터 ‘심야 자율주행 택시’ 운행 구역을 강남 전역으로 확대한다고 15일 밝혔다. 서울시는 작년 9월 강남구 일부 지역에서 국내 최초로 심야 자율주행 택시 운행을 시작했다. 이번에 운행 범위를 강남 대부분 지역으로 확대하는 것이다.&lt;br&gt;&lt;br&gt;서울시 관계자는 “지난 8개월간 4200번 운행하면서 무사고를 기록했다”며 “가장 복잡한 강남에서 1차 검증을 무사히 마친 것”이라고 했다.&lt;br&gt;&lt;br&gt;구체적으로 이용 가능한 지역이 역삼동·대치동·도곡동·삼성동에서 압구정동·신사동·논현동·청담동을 포함한 강남 대부분 지역으로 확대된다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AE64J2DE7VGZZCBA3WREVM24CA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울시가 운행중인 야간 자율주행택시의 모습/서울시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;심야 자율주행 택시는 평일 오후 11시부터 다음 날 오전 5시까지 이용할 수 있다. 카카오T 앱에서 불러 타면 된다. 아직 시범 운행 중이라 요금은 무료다. KGM 코란도 이모션 차량을 기반으로 만든 자율주행 택시 3대를 투입한다. 한 번에 최대 3명까지 탈 수 있다.&lt;br&gt;&lt;br&gt;서울시는 2022년부터 마포구 상암동에서 특정 구간을 오가는 노선형 자율주행 택시를 운영하고 있다. 강남 심야 자율주행 택시는 보통 택시처럼 승객이 원하는 곳을 운행한다. 서울시는 “올해 강남 지역에서 시범 운행을 마무리하고 이르면 하반기부터 상용화할 계획”이라고 말했다. &lt;br&gt;&lt;br&gt;서울시는 심야에 자율주행 버스도 운행하고 있다. 올 하반기 중 운행 노선을 2개에서 5개로 확대할 계획이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>인하대, 이차전지‧바이오 특성화대학 지원사업 공모 선정</title>
       <link>https://www.chosun.com/national/national_general/2025/06/16/S62PQGK2SZBLNJFHI5DMLLCURA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/16/S62PQGK2SZBLNJFHI5DMLLCURA/</guid>
@@ -624,15 +678,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DWV4XHKK7VF2LE23IJO3D73X24.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>해군 창설 80주년 우표 40종 발행</title>
-      <link>https://www.chosun.com/national/people/2025/06/16/DDOPXLG5IVHJPLGDWT4ISVC5CE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/06/16/DDOPXLG5IVHJPLGDWT4ISVC5CE/</guid>
-      <dc:creator>양지호 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 15 Jun 2025 16:45:41 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3DWVQ3TT3RCQZBL2AZS62RL32Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/해군&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;해군은 올해 창설 80주년을 맞아 우정사업본부와 협업해 ‘대한민국 해군 80년 위대한 항해’를 주제로 한 기념 우표첩을 발행했다고 15일 밝혔다. &lt;br&gt;&lt;br&gt;우표첩은 해군 80년 역사를 한눈에 볼 수 있도록 했다. ‘해방병단 창설’(1945년) ‘제2연평해전’(2002년) ‘천안함 피격 사건’(2010년) 등 해군 주요 역사 사진 우표 20종과 현재 해군이 수상·수중·공중에서 운용 중인 주요 함정 및 항공기를 소개하는 해군 입체 전력 사진 우표 20종이 포함됐다. 이지스구축함 정조대왕함, 3000t급 잠수함 도산안창호함, P-8 포세이돈 해상초계기 등이다. &lt;br&gt;&lt;br&gt;기념 우표첩에 담긴 우표는 ‘영원우표’로 우편 요금 인상과 관계없이 국내 규격(25g 이하) 우편에 사용할 수 있다. 우표첩은 총 4면으로 구성되며, 1·4면은 이지스 구축함과 잠수함의 실루엣 형태로 디자인됐다. 다음 달 4일까지 판매한다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>재일 학도의용군 故 박병헌씨 ‘이달의 재외동포’</title>
       <link>https://www.chosun.com/national/people/2025/06/16/HJI6F5LGBVH4VDJPC7XZ3TEYNQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/people/2025/06/16/HJI6F5LGBVH4VDJPC7XZ3TEYNQ/</guid>
@@ -649,24 +694,6 @@
       <description/>
       <pubDate>Sun, 15 Jun 2025 16:45:08 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/M3ZAGZSLU5ALDMXCFHG5IOSNUY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;강성만(오른쪽) 유한양행 부장이 15일 서울 은평구 헌혈카페 구파발점에서 생애 181번째 헌혈을 하며 아들 지후군과 브이(V) 자를 그리고 있다. /강성만씨 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“첫 헌혈은 대학 신입생 때인 2000년이었죠. 영화표 받으려고 했던 건데….”&lt;br&gt;&lt;br&gt;제약 회사인 유한양행 ESG팀의 강성만(44) 부장은 15일 생애 181번째 헌혈을 했다. 그는 2008년 입사 후 혈액암 환자들을 접하고 나서 헌혈을 더 열심히 하게 됐다고 했다. 그는 주로 ‘혈소판·혈장 헌혈’을 한다. 성분채혈기를 이용해 혈소판·혈장만을 채혈하고, 나머지 성분은 헌혈자에게 되돌려주는 방식인데, 혈소판 헌혈은 250mL, 혈장 헌혈은 500mL 정도를 채혈한다. 강씨는 “이제까지 70L 이상의 피를 뽑았을 것”이라고 했다. &lt;br&gt;&lt;br&gt;건강에 무리는 없을까. 대한적십자사 측은 “빈혈 예방을 위해 헌혈 간격과 가능 횟수 등을 정해 특정인이 과도하게 헌혈할 수 없도록 하고 있다”며 “혈소판 혈장 헌혈은 다시 혈액을 넣기 때문에 큰 부담이 없어 1년에 최대 24회까지 가능하고, 전혈 헌혈은 1년에 최대 5회까지 가능하다”고 했다.&lt;br&gt;&lt;br&gt;강씨는 “요새 눈썹이 빠져서 아내가 눈썹 문신 등 시술을 추천하는데, 눈썹 문신을 하면 6개월간 헌혈을 하지 못한다고 해서 일찌감치 포기했다”고 했다. 해외여행이나 건강 검진 내시경 시술을 하게 되면 한 달간 헌혈을 하지 못해, 꼭 그 전에 헌혈을 한다고 했다.&lt;br&gt;&lt;br&gt;강씨는 세계 헌혈자의 날(매년 6월 14일)을 맞아 보건복지부 장관 표창을 받았다. 백혈병 진단을 받고 투병 중인 직장 동료 A씨에게 최근 헌혈증 30장을 보냈는데, A씨가 한국백혈병환우회에 ‘헌혈 우수 사례’로 추천했고 표창 수상으로 이어졌다. &lt;br&gt;&lt;br&gt;아들과 딸을 둔 강씨는 헌혈을 할 때마다 아이들과 동행한다. 이날도 아들 지후(9)군과 함께 헌혈의 집을 찾았다. 강씨는 “아이들도 ‘나중에 헌혈할 수 있는 나이가 되면 아빠처럼 열심히 할 거야’라고 얘기하는 것을 보면 뿌듯하다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[인사] JTBC</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2025/06/16/Y3YCFZV4ZBCONLGA7KW54RNWBE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2025/06/16/Y3YCFZV4ZBCONLGA7KW54RNWBE/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Sun, 15 Jun 2025 16:46:36 +0000</pubDate>
-      <content:encoded>▲&lt;b&gt;JTBC&lt;/b&gt;〈보임〉◇뉴스콘텐트국 취재담당▷아침부장 조민중▷국제부장 이한주▷라이브뉴스부장 조익신&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[부음] 류화현씨 별세 외</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2025/06/16/FDL5Q7R7FVB33PRFL43FJLHUXA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2025/06/16/FDL5Q7R7FVB33PRFL43FJLHUXA/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Sun, 15 Jun 2025 16:45:56 +0000</pubDate>
-      <content:encoded>▲&lt;b&gt;류화현&lt;/b&gt; 별세, &lt;b&gt;홍순임&lt;/b&gt; 남편상, &lt;b&gt;류호연&lt;/b&gt;·&lt;b&gt;류호준&lt;/b&gt; 캄파리코리아 대표·&lt;b&gt;류선영&lt;/b&gt; 부친상, &lt;b&gt;조규형&lt;/b&gt;·&lt;b&gt;손근국&lt;/b&gt; 장인상, &lt;b&gt;김준희&lt;/b&gt; 이르킴갤러리 대표 시부상=13일10시30분 삼성서울병원, 발인 17일7시, (02)3410-6917&lt;br&gt;&lt;br&gt;▲&lt;b&gt;오정근&lt;/b&gt; 뉴스핌 광주전남 취재본부 국장 별세, &lt;b&gt;오희정&lt;/b&gt; 부친상, &lt;b&gt;오명근&lt;/b&gt;·&lt;b&gt;오대근&lt;/b&gt; 형님상, &lt;b&gt;오수진&lt;/b&gt; 오빠상=14일18시 전남 광양 백운장례식장, 발인 16일8시, (061)761-0004&lt;br&gt;&lt;br&gt;▲&lt;b&gt;유우청&lt;/b&gt; 별세, &lt;b&gt;김현숙&lt;/b&gt; 남편상, &lt;b&gt;유주희&lt;/b&gt; 서울경제신문 차장·&lt;b&gt;유형석&lt;/b&gt; 에스제이엠 과장 부친상, &lt;b&gt;조재영&lt;/b&gt; 시부상=14일15시 경기 부천성모병원, 발인 16일11시30분, (032)340-7301&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>영어영문학과인데 입학생 모두 이과생?</title>
@@ -687,15 +714,6 @@
       <content:encoded>서울시가 외국인의 부동산 거래에 대한 점검을 강화하기로 했다. 최근 서울 부동산을 사들이는 외국인이 증가하고 있기 때문이다. 이들은 우리나라 국민과 달리 부동산 규제의 사각지대에 놓여 있어 내국인들이 역차별을 받는다는 지적이 나오고 있다. 외국인 투자가 증가해 부동산 가격을 끌어올리고 있다는 우려도 있다. &lt;br&gt;&lt;br&gt;15일 서울시에 따르면, 먼저 토지거래허가구역부터 점검을 강화한다. 외국인이 토지거래허가구역의 부동산을 살 경우 현장 조사를 벌여 실제 거주하는지 확인할 계획이다. 토지거래허가구역 안의 집을 사면 2년간 실거주해야 한다. 외국인이 실제로 살지 않을 경우 내국인과 마찬가지로 이행 명령을 내리고 그래도 들어와 살지 않으면 이행 강제금을 부과할 계획이다. 실거주 의무를 위반하면 부동산거래신고법에 따라 부동산 취득 가액의 10%까지 이행 강제금을 부과할 수 있다. &lt;br&gt;&lt;br&gt;내국인처럼 자금 조달 내역도 면밀히 검증한다. 불법이 확인되면 관세청이나 국세청에 신고한다는 계획이다.&lt;br&gt;&lt;br&gt;서울시는 앞서 이달 초 국토교통부에 부동산거래신고법 개정을 건의했다. 부동산 거래를 규제할 때 ‘상호주의’를 적용하자는 내용이다. 어떤 나라가 우리 국민의 투자를 막을 경우 우리도 그 나라 국민의 투자를 제한할 수 있게 하자는 것이다. 오세훈 시장도 지난 11일 서울시의회 시정 질문에서 “부동산 가격이 이상 급등하는데 일정 부분 외국인의 부동산 취득이 영향을 미친다고 분석되면 분명히 어떤 조치가 강구돼야 한다”고 했다.&lt;br&gt;&lt;br&gt;국토부에 따르면, 작년 말 기준 우리나라에 집을 갖고 있는 외국인은 9만8581명으로 주택 수는 10만216가구로 집계됐다. 외국인이 보유한 주택이 10만 가구를 넘은 건 처음이다. 이 중 2만3741가구(24%)가 서울에 있는 것으로 조사됐다. 국적별로 보면 중국인(5만6301가구)이 가장 많은 주택을 보유한 것으로 집계됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>작년 마약사범 2만여명… 그중 60%가 2030세대</title>
-      <link>https://www.chosun.com/national/court_law/2025/06/16/DKBRJIAGCZA57IMVNBTCUCTNEA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/16/DKBRJIAGCZA57IMVNBTCUCTNEA/</guid>
-      <dc:creator>방극렬 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 15 Jun 2025 16:16:48 +0000</pubDate>
-      <content:encoded>작년 국내에서 단속된 마약 사범은 총 2만3022명으로 2023년에 이어 2년 연속 2만명대를 기록했다. 마약 사범 10명 중 6명은 20·30대로 드러났다.&lt;br&gt;&lt;br&gt;대검찰청 마약·조직범죄부가 15일 발간한 ‘2024년 마약류 범죄 백서’에 따르면, 작년에 적발된 마약 사범 수는 사상 최다를 기록한 2023년 2만7611명에 비해 16.6% 감소했다. 대검 관계자는 “세관 등과 협력하며 해외 마약 밀반입 단속을 강화해 국내에 밀반입돼 유통되는 마약이 감소했고, 이에 따라 마약 사범 수도 줄어든 것”이라고 했다. 작년에 압수된 마약류 1173.2㎏ 중 최소 746.7㎏(63.6%) 이상이 태국·미국·캐나다·콜롬비아·베트남 등 해외에서 밀반입된 것으로 조사됐다.&lt;br&gt;&lt;br&gt;작년에 마약으로 단속된 20·30대는 1만3996명으로 전체 마약 사범의 60.8%에 달했다. 대검은 “SNS·다크웹 등 인터넷과 클럽 등 유흥시설을 통해 마약이 확산되면서 30대 이하 마약 사범이 늘었다”고 했다. &lt;br&gt;&lt;br&gt;한편, 10대 마약 사범은 ‘강남 학원가 마약음료’ 사건 발생 이후 단속과 예방 교육이 강화되며 작년에 649명이 검거돼 전년(2023년) 1477명에 비해 56.1%가 감소했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>탈북자들 강력 반발 “北주민의 눈과 귀 막아… 李대통령 독재적 조치”</title>
       <link>https://www.chosun.com/national/national_general/2025/06/16/JUGZXII2FZFNJJ67QG66V277IM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/16/JUGZXII2FZFNJJ67QG66V277IM/</guid>
@@ -714,15 +732,6 @@
       <content:encoded>이재명 대통령이 14일 대북 전단 살포에 대해 관련 부처에 예방과 사후 처벌 대책 마련을 지시한 가운데 처벌 근거를 놓고 논란이 일고 있다. 대북 전단 살포를 처벌하는 법은 과거 시행됐다가 헌법재판소에서 ‘위헌’ 판결을 받고 효력을 상실했기 때문이다.&lt;br&gt;&lt;br&gt;15일 법조계에 따르면, 문재인 정부 때인 2020년 12월 민주당이 주도해 국회에서 ‘대북전단금지법(남북관계발전법 개정안)’이 통과됐다. 해당 법은 대북 전단을 살포한 사람을 3년 이하의 징역 또는 3000만원 이하 벌금에 처하도록 하고, 미수에 그치더라도 처벌하는 내용을 담고 있었다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GRSLWC662NDXRJGCLJ66BCUJ3M.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=백형선&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;당시 경기지사였던 이 대통령은 “대북 전단 살포 상습범은 강제 추방해야 한다”고 목소리를 보탰다. 폐기물관리법·해양환경관리법·고압가스안전관리법 등을 적용해 책임을 묻겠다고도 했다. &lt;br&gt;&lt;br&gt;제정 당시부터 위헌 논란이 있었던 이 법은 2년 9개월 만에 효력을 잃었다. 2023년 9월 헌재는 박상학 자유북한운동연합 대표 등이 낸 헌법소원에 대해 “표현의 자유를 지나치게 제한한다”며 7(위헌)대2(합헌)로 위헌 결정을 내렸다.&lt;br&gt;&lt;br&gt;경찰은 현재 다른 법령을 적용해 대북 전단을 단속하고 있다. 국토교통부 장관 허가 없이 2kg 이상의 물건을 매달고 무인 자유 기구를 날리면 500만원 이하 벌금에 처하도록 하는 항공안전법이 대표적이다. 이번에 발견된 3개 대북 풍선 안에는 책자·과자류·전단 등이 담겨있었고 모두 3kg을 넘는 것으로 알려졌다. &lt;br&gt;&lt;br&gt;경찰은 재난안전관리법과 고압가스안전관리법도 적용해 대북 전단을 단속하겠다는 계획이다.&lt;br&gt;&lt;br&gt;법조계에서는 정부·여당이 대북 전단 살포를 우회적으로 규제·처벌하는 법안을 추진할 수 있다는 관측이 나온다. 헌재는 위헌 결정 당시 “대북 전단 살포 시간·장소·방법 등을 사전에 신고하도록 하고 관할 경찰서장이 ‘살포 금지 통고’를 할 수 있도록 입법적 보완을 할 수 있다”고 제안했었다. 전학선 한국외대 로스쿨 교수는 “처벌 상한을 낮춰서 새로 입법을 시도하거나, 전단 살포를 사전 신고하게 한 뒤 미신고하거나 경찰의 금지 통고를 어길 경우 처벌하는 방안이 나올 수 있다”며 “다만 정치적으로 첨예한 사안인 만큼 위헌 논란이 또 불거질 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>대구 정신병원서 환자 2명이 간호사 폭행하고 도주</title>
-      <link>https://www.chosun.com/national/incident/2025/06/15/HBH4JPC6UFABNNTGXGIPMPWL7E/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/06/15/HBH4JPC6UFABNNTGXGIPMPWL7E/</guid>
-      <dc:creator>김수언 기자, 대구=노인호 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 15 Jun 2025 14:03:57 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AHUWHRWUOAXB2ZYE4RH33VMTPA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대구 성서경찰서 전경. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대구의 한 정신병원에서 입원 중이던 환자 2명이 간호사를 폭행하고 도주하는 사건이 발생했다.&lt;br&gt;&lt;br&gt;15일 대구 성서경찰서에 따르면 전날(14일) 오후 7시 10분쯤 대구시 달서구의 한 정신병원 폐쇄병동에 입원 중이던 10대 환자 A군과 20대 환자 B씨 등 남성 환자 2명이 간호사를 폭행하고 달아났다는 신고가 접수됐다.&lt;br&gt;&lt;br&gt;이들은 간호사를 폭행한 뒤, 출입증을 빼앗아 정신병원을 빠져나간 것으로 파악됐다.&lt;br&gt;&lt;br&gt;경찰은 신고 당일 B씨를 붙잡았지만, A군은 추적 중인 것으로 전해졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>국도서 ‘크루즈 주행’ SUV에 치여, 예초 작업하던 60대 숨져 </title>
       <link>https://www.chosun.com/national/incident/2025/06/15/2H44ANGTONCT5LSUH7YKKAMXYY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/06/15/2H44ANGTONCT5LSUH7YKKAMXYY/</guid>
@@ -730,15 +739,6 @@
       <description/>
       <pubDate>Sun, 15 Jun 2025 13:42:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/X4WX55AXSBGOJAEPHUXGIU3CIA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 마크. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;15일 오전 세종시의 한 국도에서 예초 작업을 하던 60대가 도로를 달리던 SUV차량에 치어 숨지는 사고가 났다. 이 차량은 자동 주행 제어 기능(크루즈 컨트롤)을 켠 채 주행 중이었던 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰에 따르면 이날 오전 10시 58분쯤 금남면 발산리 1번 국도 도로변에서 작업 중이던 A씨가 차량에 치였다. A씨는 심정지 상태로 병원으로 옮겨졌으나 숨졌다.&lt;br&gt;&lt;br&gt;차량 운전자 30대 B씨는 “크루즈 컨트롤 기능을 켠 채 운전했다”고 경찰에 진술한 것으로 전해졌다. 크루즈 컨트롤은 가속 페달을 밟지 않아도 지정된 속도로 차를 주행할 수 있는 기능이다. 음주 운전 등은 아니었던 것으로 확인됐다.&lt;br&gt;&lt;br&gt;경찰은 운전자인 B씨를 도로교통법상 안전운전 부주의 혐의로 입건해 자세한 사고 경위를 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>폭염특보가 한나절 만에 호우특보로... ‘극단 오락가락’ 여름 시작</title>
-      <link>https://www.chosun.com/national/transport-environment/2025/06/15/FPAZLLPBF5HDVH4Q5IODZQ75UY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/06/15/FPAZLLPBF5HDVH4Q5IODZQ75UY/</guid>
-      <dc:creator>박상현 기자, 부산=김준호 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 15 Jun 2025 11:36:48 +0000</pubDate>
-      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HBBD52ODBJIF5GF53XOWFCC6EM.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;많은 비가 내린 13일 오후 대구 달서구 계명대 성서캠퍼스 앞 도로에서 우산을 쓴 시민들이 발걸음을 재촉하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;폭염과 폭우가 교차하는 ‘극단적 여름’의 서막이 열렸다. 정체전선(장마전선)과 1호 태풍 ‘우딥’, 대만 부근 열대저압부가 우리나라로 뜨거운 수증기를 불어넣으며 13~16일 나흘간 전역에 무더위와 집중호우가 번갈아 나타났다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OURH3MUMQZCXPESE5QBRPTF7PE.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=김성규&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;기상청에 따르면, 지난 14일 새벽 부산에 시간당 61㎜의 집중호우가 쏟아지며 관측 121년 만에 6월에 내린 가장 강한 비로 기록됐다. 15일 낮에는 30도를 웃도는 무더위로 경기 내륙에 폭염주의보(이틀간 일 최고 체감기온 33도 이상)가 발효됐다. 올여름 우리나라에 내려진 첫 폭염특보다. 파주의 경우 폭염특보 발효 12시간 만에 호우특보가 발효되며 이례적으로 하루에 폭염·호우특보가 모두 발생했다.&lt;br&gt;&lt;br&gt;오락가락한 날씨의 원인은 각각 대만과 중국 부근에서 우리나라로 온 고온 다습한 수증기 덩어리다. 열대저압부는 태풍 전 단계의 소용돌이로, 세력이 커지면 태풍이 되고 작아지면 특정 지역에 비를 뿌린 후 사라진다. 열대저압부 영향권에 들면 마치 한증막에 들어갔다 나온 것처럼 열기도 오르고 축축해진다. 지구 온난화의 영향으로 본격적인 장마가 오기 전부터 비와 폭염이 짧은 시간 내 번갈아 나타난 것이다.&lt;br&gt;&lt;br&gt;대만발 열대저압부는 13~14일 제주 남쪽 정체전선에 달라붙으며 비구름대를 형성, 제주·남부에 많은 비를 뿌렸다. 이 비로 김포·제주공항에선 항공기 8편이 결항했고, 여객선도 7척 운항 중지됐다. 제주 한라산(진달래밭)에 256.5㎜의 강수가 기록됐고, 전북 완산(166.5㎜), 전남 장성(164.5㎜), 부산(180.5㎜), 경남 거제(170.4㎜) 등에도 많은 비가 내렸다. &lt;br&gt;&lt;br&gt;부산 중구에는 14일 자정부터 1시간 동안 시간당 61㎜의 집중호우가 내리면서 1904년 부산에서 기상 관측을 시작한 이래 가장 강한 6월 비로 기록됐다. 이날 오전 2시 34분쯤 부산 연제구 연산동 거리에선 30대 여성이 맨홀에 빠졌다가 구조됐다. 오전 6시 33분쯤엔 수영구 수영동 한 빌라 지하 주차장이 빗물에 침수돼 소방 당국이 20t가량의 물을 빼냈다. 공사장 자재가 떠내려가거나 나무가 쓰러지는 등 14일 하루에만 경찰·소방에 110여 건의 피해 신고가 접수됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UHHH6LBPGFARFE4LNHUTTAJMPE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;15일 오후 서울 영등포구 여의도 물빛광장에서 어린이들이 더위를 식히는 물놀이를 즐기고 있다. 이날 전국 곳곳에 올해 첫 폭염주의보가 내려졌다. /장련성 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이번 비구름대는 제주, 남부, 중부를 차례로 훑고 지나가며 전역에 열기를 남겼다. 15일에는 낮 동안 강한 햇볕이 내리쬐며 전국에 30도를 웃도는 폭염이 나타났다. 서울의 최고 체감기온이 32.2도를 기록했고, 강원 횡성(33.3도), 대전(32.4도), 광주광역시(33도), 경북 경주(33.3도), 대구(32.1도) 등 높은 기온을 보였다. 기상청은 15일 오전 9시를 기해 경기 포천·가평·파주·안성·여주·양평에 폭염주의보를 발효했다.&lt;br&gt;&lt;br&gt;한편 중부 지방에서는 15일 저녁부터 비구름대가 비를 뿌리기 시작했다. 이날 오후 9시 10분에는 경기 연천·고양·양주·파주·김포, 인천, 제주에 호우특보가 발효됐다. 중국 내륙에서 열대저압부로 약화한 1호 태풍 ‘우딥’이 북쪽 찬 공기와 충돌한 영향이다. 이 비로 폭염주의보는 모두 해제됐다. 오후 10시 기준 강원 철원에 38.5㎜, 경기 포천 32㎜, 대전 28.8㎜ 등 많은 비가 내리는 등 16일까지 비구름대가 전국으로 확대할 전망이다. 제주에선 앞서 비를 뿌린 대만발 열대저압부의 잔재 수증기가 비구름대를 만들겠다. 15~16일 예상 강수량은 수도권 20~80㎜, 강원도 20~60㎜, 충청·전라권 10~60㎜, 경상권 10~100㎜, 제주도 10~150㎜ 등이다.&lt;br&gt;&lt;br&gt;예년보다 일주일 빠른 지난 12일 장마에 들어선 제주와 달리 중부·남부 지방은 아직 장마가 시작되지 않았다. 현재 우리나라 주변 해수면 온도가 평년보다 0.5도가량 높은 상황이라 남쪽 북태평양 고기압과 북쪽 티베트 또는 오호츠크해 고기압이 한반도 상공에서 본격적으로 충돌하는 이달 말부터 다음 달 말 사이에 고온 다습한 남풍(南風)은 더 많이 불어올 것으로 보인다. 여름 남풍은 열대저압부 같은 거대 수증기 덩어리가 우리나라로 오는 것과 비슷한 효과를 내기에 본격적인 장마에 들어가면 반복적인 폭염과 폭우의 경향은 더 두드러질 것으로 예상된다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[속보] ‘내란 특검’ 조은석, 오동운 공수처장 면담</title>
