@@ -6,6 +6,16 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>[속보] 김용현 측, 보석결정 거부…"항고·집행정지 신청"</title>
+			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/thumb/180/208873.jpg" alt="lawtimes.jpg" style="text-align: start;" /&gt;&lt;/p&gt;</description>
+			<pubDate>Mon, 16 Jun 2025 03:28:14 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/208873</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/208873</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/208873.jpg</media:thumbnail>
+			<dc:creator>인터넷 기자</dc:creator>
+		</item>
+		<item>
 			<title>법원, 김용현 보석 결정… "출석 확보·증거인멸 방지 조건 부과"</title>
 			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/208866.jpg" alt="34536.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;김용현 전 국방부 장관 《사진=연합뉴스》&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;'12·3 비상계엄'과 관련해 내란중요임무 종사 혐의로 재판을 받고 있는 김용현 전 국방부 장관이 석방된다. &lt;br /&gt;&lt;br /&gt;서울중앙지법 형사25부(재판장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="7225"&gt;지귀연&amp;nbsp;&lt;/span&gt;부장판사)는 6월 16일 구속기간 만료(6월 26일)를 앞둔 김용현 전 장관에 대해 직권으로 보석을 결정했다(&lt;b&gt;2024고합1522&lt;/b&gt;).&lt;br /&gt;&lt;br /&gt;구속기간이 만료돼 조건 없이 석방이 되면 피고인이 출석하지 않더라도 재구속할 방법이 없기 때문에 1심 형사재판이 6개월 이상 계속될 경우 구속 기간이 만료되기 전에 조건을 붙여 석방을 하는 경우가 많다.&lt;br /&gt;&lt;br /&gt;검찰은 6월 12일 공판에서 "구속 만기가 임박했는데 석방될 경우 회유 압박 및 출석 거부 가능성이 크다"며 "이런 우려를 불식하기 위해 구속 만기에 앞서 조건을 정해 보석하는 방안을 검토해달라"고 요청했고, 재판부도 "보석을 적극적으로 검토해야 할 것 같다"며 "일시나 조건, 경위, 내용은 검찰과 변호인의 의견을 모두 종합해 결정하겠다"고 밝힌 바 있다.&lt;br /&gt;&lt;br /&gt;김용현 장관 측은 직권보석에 대해 반대한다는 입장을 밝힌 것으로 알려졌지만, 재판부는 이날 "현행 형사소송법에 따른 제1심의 구속기간이 최장 6개월로서 그 구속기간 내 이 사건에 대한 심리를 마치는 것이 어려운 점, 구속기간 만료를 앞두고서는 피고인의 출석을 확보하고 증거인멸을 방지할 보석조건을 부가하는 보석결정을 하는 것이 통상의 실무례인 점 등을 고려했다"며 조건부 보석결정을 했다. &lt;br /&gt;&lt;br /&gt;재판부는 보석조건으로 △서약서 제출(법원이 지정하는 일시·장소에 출석하고 증거를 인멸하지 아니한다는 내용, 법원의 허가 없이 외국으로 출국하지 아니할 것을 서약하는 내용) △주거제한 △보증금 1억 원(피고인, 피고인의 배우자나 자녀 또는 피고인의 변호인이 제출하는 보석보증보험증권 첨부의 보증서로써 갈음 가능) △지정조건 준수를 내걸었다. &lt;br /&gt;&lt;br /&gt;지정조건으로는 △피고인은 직접 또는 변호인 기타 제3자를 통해서도 사건과 관련된 피의자나 피고인, 참고인이나 증인 및 그들의 대리인 또는 친족과 위 사건에 관련해 만나거나 전화, 서신, 팩스, 이메일, 휴대전화 문자전송, SNS, 그 밖의 어떠한 방법으로도 연락을 주고받아서는 안됨 △도망 또는 증거를 인멸하는 행위를 하여서는 안됨 △출국하거나, 3일 이상 여행을 하는 경우에는 미리 법원에 신고해 허가를 받아야 함을 정했다. &lt;br /&gt;&lt;br /&gt;재판부는 "만일 이를 위반하면 보석을 취소하고 보증금을 몰취할 수 있고, 피고인에 대해 1000만 원 이하의 과태료를 부과하거나 20일 이내의 감치에 처할 수 있다"고 덧붙였다. &lt;/p&gt;</description>
 			<pubDate>Mon, 16 Jun 2025 02:16:25 -0000</pubDate>
@@ -226,16 +236,6 @@
 			<link>https://www.lawtimes.co.kr/news/208847</link>
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/208847</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/208847.jpg</media:thumbnail>
-			<dc:creator>서하연 기자</dc:creator>
-		</item>
-		<item>
-			<title>한국법제연구원, '새 정부의 반부패 정책 방향' 모색하는 학술대회 개최</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/208848.jpg" alt="4.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;6월 13일 열린 ‘새 정부의 반부패 정책 방향 모색’ 공동학술대회 《사진=한국법제연구원》&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;한국법제연구원(원장 한영수)은 6월 13일 서울 은평구 불광동 한국행정연구원 대강당에서 한국행정연구원, 한국부패학회와 '새 정부의 반부패 정책 방향 모색'을 주제로 공동 학술대회를 개최했다. &lt;br /&gt;&lt;br /&gt;이번 학술대회는 변화하는 행정환경 속에서 공공부문의 신뢰 회복과 청렴성 강화를 위해, 실효성 있는 반부패 정책의 방향을 학문적으로 탐색하는 자리였다.&lt;br /&gt;&lt;br /&gt;학술대회는 총 3개의 세션으로 구성됐다. 기조발제에서 오필환 한국부패학회 이사장은 '반부패 정책 연구의 성과와 새 정부의 반부패 정책 방향'에 대해 소개했다.&lt;br /&gt;&lt;br /&gt;제1세션에서는 성승제 한국법제연구원 선임연구위원이 'ESG와 기업 부패방지 법제'를, 이종한 한국행정연구원 선임연구위원은 '한국의 규제개혁과 공직사회 투명성'을 주제로 각각 발표했다.&lt;br /&gt;&lt;br /&gt;제2세션에서는 조진우 도로교통연구원이 '반부패 연구의 동향과 발전과제'를, 민경선 전북대 교수가 ‘인공지능을 활용한 반부패 정책 연구’를 주제로 발표를 진행했다. 이어 이정주 한국청렴연구소장은 '청렴사회를 위한 차기정부의 역할’에 대한 논의를 이끌었다. 각 발표자들은 이론적 논의뿐만 아니라 기술 기반의 정책 적용 가능성에 대해서도 심도 있는 분석을 제시했다. &lt;br /&gt;&lt;br /&gt;종합토론에는 이천현 한국형사법무정책연구원 부원장, 배성호 영남대 교수, 윤은기 동아대 교수, 이웅영 전북대 박사가 참여했다. &lt;br /&gt;&lt;br /&gt;한영수 원장은 "반부패 정책은 단편적 대응이 아니라 구조적이고 체계적인 접근이 필요하며, 법적 기준의 정비와 함께 실질적인 행정책임성과 투명성이 수반돼야 한다"고 말했다.</description>
-			<pubDate>Fri, 13 Jun 2025 12:06:42 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/208848</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/208848</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/208848.jpg</media:thumbnail>
 			<dc:creator>서하연 기자</dc:creator>
 		</item>
 	</channel>
