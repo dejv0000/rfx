@@ -13,6 +13,24 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>현직 검사, 국정기획위 합류한 임은정에 “수사권 조정 후 현실 알고 있나”</title>
+      <link>https://www.chosun.com/national/court_law/2025/06/17/BFCAS7F7SNCSPEUBTU3CFPKRPE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/17/BFCAS7F7SNCSPEUBTU3CFPKRPE/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 17 Jun 2025 09:01:42 +0000</pubDate>
+      <content:encoded>친여(親與) 성향으로 분류되는 임은정 대전지검 부장검사(사법연수원 30기)가 이재명 정부 국정기획위원회에 전문위원으로 참여하는 것에 대해, 한 현직 검사가 “수사권 조정 이후 수사 현실을 얼마나 알고 있느냐”며 임 부장검사에게 공개적인 답을 요구했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GONELOVT3ZEZ3MEE2E3IJAO6EI.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;임은정 부장검사./이덕훈 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;17일 본지 취재를 종합하면, 장진영 수원지검 부장검사(36기)는 검찰 내부망 이프로스에 “임 부장검사님은 검찰 개편안을 어떻게 할 예정입니까”라는 글을 올렸다. 장 부장검사는 “2019년 검찰 수사지휘권 폐지와 2022년 ‘검수완박’ 법안이 추진되던 시기에 임 부장검사는 어떤 의견도 내놓은 적 없다”며 “검찰의 수사·기소 분리에 대해 어떤 의견을 가지고 있는지, 수사권 조정 이후 일선 검찰과 경찰의 수사 현실에 대해 어느 정도 알고 있는지 궁금해졌다”고 했다.&lt;br&gt;&lt;br&gt;그는 임 부장검사에게 △2020년 수사권 조정 이후 수사 실태 분석을 어느 정도로 했는지 △2020년 수사권 조정 이후 발의된 검찰개혁 법안들이 국민들에게 더욱 편익을 제공하는 게 맞는지 △국민들의 비법률전문가인 사법경찰의 불송치 결정으로 사건이 사실상 불기소 처리되길 원하는 것이 맞는지 △향후 법정에서 무죄가 선고되거나 문제가 생기면 누가 책임지는지 등 네 가지 질문을 던졌다. 이어 “종전처럼 관심 분야가 아니라며 답변을 회피해서는 안 될 것”이라며 “대다수 국민들도 궁금해 할 사항이니 반드시 공개적인 답변을 해주시길 바란다”고 말했다.&lt;br&gt;&lt;br&gt;장 부장검사는 “정권의 하명 수사나 제 식구 감싸기 등 임 부장검사가 외쳐 온 ‘검찰의 지은 업보가 많아’ 직접수사 권한이 없어지더라도 이와 무관한 민생 범죄 수사에 있어 범죄 피해를 입은 국민들에게 손해가 가거나 더 큰 불편이 가는 개혁은 신중을 기해야 할 것”이라고 했다.&lt;br&gt;&lt;br&gt;임 부장검사는 과거 전·현직 검찰 간부들을 직무유기로 경찰에 고발하고, 검찰 인사와 정책, 조국 전 조국혁신당 대표 관련 수사 등을 비판해온 인물이다. 문재인 정부 때 법무부 감찰담당관을 맡았다가 윤석열 정부에서 지검으로 이동했다. 지난 16일 발족한 국정기획위원회에선 정치행정분과 전문위원을 맡아 검찰의 수사‧기소 분리 등 개편안을 맡을 전망이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>서울시 “외국인 가사관리사 인권 보호, 근로시간 확대 방안 마련할 것”</title>
+      <link>https://www.chosun.com/national/national_general/2025/06/17/AANLVY7OFJGNTHUHKFZSG5UFOI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/17/AANLVY7OFJGNTHUHKFZSG5UFOI/</guid>
+      <dc:creator>최연진 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 17 Jun 2025 08:53:44 +0000</pubDate>
+      <content:encoded>서울시는 17일 외국인 가사관리사 시범 사업과 관련, 가사관리사의 인권을 보호하고 근로시간을 확대하는 방안을 마련해 시행한다고 밝혔다. &lt;br&gt;&lt;br&gt;서울시는 우선 분기별로 진행하던 노사협의회를 우러 단위로 변경, 가사관리사들의 요청을 더 세밀하게 듣기로 했다. 정식 창구를 운영해 가사관리사들의 의견을 수렴하고 빠르게 대응한다는 계획이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BNWOKF6ICZGR3FMMSAWRSYIRKU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;17일 서울 성동구 KT&amp;G 상상플래닛에서 '외국인 가사관리사 간담회'가 진행되고 있다./ 고운호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;외국인 가사관리사 인권 보호 채널도 추가한다. 가까운 곳에서 원하는 시간에 상담을 받을 수 있도록 외국인 주민센터 6곳을 고충 창구로 추가 운영한다는 방침이다.&lt;br&gt;&lt;br&gt;가사관리사의 근로시간은 최대 52시간까지 보장할 계획이다. 현재 이들의 평균 근로시간은 주당 약 40시간이다. 서울시는 “업무 특성상 근로시간과 급여액이 연결될 수밖에 없어 대부분의 가사관리사들이 근로시간 확대를 지속적으로 요청해왔다”며 “주말, 단시간 매칭 등 다양한 방식으로 근로시간을 확보할 것”이라고 했다.&lt;br&gt;&lt;br&gt;서울시는 또 가사관리사 본사업 추진을 위해 정부에도 건의할 계획이라고 밝혔다. 가사노동자 이용에 부담을 느낀다는 시민 목소리를 반영해, 소득기준별로 15~85%의 공공 돌봄 서비스 비용을 지원하는 ‘공공 아이돌봄 지원사업’에 외국인 가사관리사를 포함하는 방안을 여성가족부에 건의할 계획이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>뉴진스 ‘독자 활동 금지’ 유지...법원, 가처분 이의 항고도 기각</title>
       <link>https://www.chosun.com/national/court_law/2025/06/17/NM2CCXGWOVGZ7IYRCV6R4YGO3Q/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/17/NM2CCXGWOVGZ7IYRCV6R4YGO3Q/</guid>
@@ -860,28 +878,6 @@
       <description/>
       <pubDate>Sat, 14 Jun 2025 11:05:01 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JPWQOSKPIHLQLO4CISFJP27Q4I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;내란 특별검사에 지명된 조은석 전 서울고검장. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;12·3 비상계엄 관련 내란 사건을 수사할 조은석 특별검사(특검)는 14일 내란 특검에 활용할 사무실로 검찰과 경찰, 정부과천청사의 시설을 물색하고 있다고 밝혔다.&lt;br&gt;&lt;br&gt;조 특검은 이날 언론 공지를 통해 “내란 특검은 군사에 관한 사항이 주된 것이어서 상업용 건물에서 직무 수행 시 군사기밀 누설 등 보안 문제가 있을 수 있다”며 “이에 검찰과 경찰에 활용할 수 있는 공간이 있는지 협조 요청해 시설을 답사했고, 정부과천청사에 공간이 있는지도 확인 중”이라고 밝혔다.&lt;br&gt;&lt;br&gt;조 특검 측은 내란죄 수사의 특성상 기밀 유지를 위해 서울고검, 정부과천청사 등 공공기관을 이용하는 방안을 우선적으로 검토하고 있다. 내란 특검법에 따르면, 특검은 직무 수행에 필요한 사무실과 통신 시설 등을 국가 또는 공공기관에 요청할 수 있고, 요청받은 기관은 정당한 사유가 없으면 이에 따라야 한다.&lt;br&gt;&lt;br&gt;다만 특검은 통상 검찰청 건물을 사용하지 않고 독립적인 공간을 사용해온 만큼 제3의 장소에 사무실이 마련될 수 있다. &lt;br&gt;&lt;br&gt;내란 특검은 함께 출범하는 김건희·해병대원 특검보다 규모가 크다. 수사팀장 격인 특검보를 최대 6명까지 둘 수 있고, 검사도 60명을 파견 받을 수 있다. 여기에 파견 공무원 100명, 특별수사관 100명까지 포함하면 역대 특검&lt;b&gt; &lt;/b&gt;중 최대인 267명으로 구성될 예정이다. 최장 20일의 준비 기간을 거쳐 최장 150일 동안 수사할 수 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>공수처, ‘순직 해병 사건 수사 외압’ 의혹 국가안보실 파견 대령 소환</title>
-      <link>https://www.chosun.com/national/court_law/2025/06/16/CL2HVGGEDFGAZGND4B2JZH6LPM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/16/CL2HVGGEDFGAZGND4B2JZH6LPM/</guid>
-      <dc:creator>박강현 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 16 Jun 2025 07:12:24 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XBF4A6TQB2XWGJ2E4KJBX4AJQA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;정부과천청사 고위공직자범죄수사처 현판. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘순직 해병 사건 수사 외압’ 의혹을 수사 중인 고위공직자범죄수사처(공수처)가 사건 당시 국가안보실에 파견돼 있던 김형래 대령을 소환 조사했다.&lt;br&gt;&lt;br&gt;16일 법조계에 따르면 공수처는 이날 오후 김 대령을 참고인 신분으로 불러 조사하고 있다.&lt;br&gt;&lt;br&gt;이 의혹의 핵심은 2023년 7월 경북 예천군 수해 실종자 수색에 투입됐다 급류에 휩쓸려 숨진 고(故) 채수근 상병 사망 사건을 수사하는 과정에서 대통령실과 군 지휘부의 수사 외압이 있었다는 것이다.&lt;br&gt;&lt;br&gt;김 대령은 이른바 ‘VIP 격노설’ 의혹 당일인 2023년 7월 31일 오후 김계환 당시 해병대사령관과 연락을 주고받았던 인물이다. ‘VIP 격노설’은 윤석열 전 대통령이 순직 해병 사건과 관련해 해병대 수사단 조사 결과를 보고받은 뒤 “이런 일로 사단장을 처벌하면 누가 사단장을 할 수 있겠느냐”며 화를 냈고, 이에 이종섭 전 국방부 장관이 돌연 언론 브리핑과 경찰 이첩 보류를 지시했다는 의혹을 골자로 하고 있다.&lt;br&gt;&lt;br&gt;김 전 사령관은 당시 임기훈 전 대통령실 국방비서관, 김 대령 등과 통화한 뒤 박정훈 전 해병대 수사단장(대령)을 자신의 집무실로 불렀는데 박 전 단장은 이 자리에서 김 전 사령관으로부터 “윤 대통령이 격노했다”는 취지의 말을 들었다고 폭로하면서 이 의혹은 커졌다. &lt;br&gt;&lt;br&gt;김 대령은 또 언론 브리핑을 하루 앞둔 2023년 7월 30일에도 김 전 사령관과 연락을 주고받은 것으로 드러났다. 또 그는 해병대 수사단이 채 상병 사건 이첩을 위해 경북경찰청에 사건을 가져간 2023년 8월 2일 낮에도 김 전 사령관을 보좌하는 김화동 비서실장과 통화했다. 이때는 국방부가 경찰로부터 사건 기록을 회수하는 한편, 박 전 단장을 해임하고 그를 ‘집단항명 수괴’ 혐의로 군 검찰에 입건한 날이기도 하다.&lt;br&gt;&lt;br&gt;한편 이 의혹 관련 특별검사팀 출범이 임박해, 조만간 공수처는 기존 활동을 마무리하고 모든 수사 기록을 정리해 특검팀에 넘겨야 한다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“병원 면회에 재즈 페스티벌 동행”…희귀병 유튜버 챙긴 이효리</title>
-      <link>https://www.chosun.com/national/people/2025/06/16/Y7OU2TDB5FFINGGCGKXW2CEHMY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/06/16/Y7OU2TDB5FFINGGCGKXW2CEHMY/</guid>
-      <dc:creator>정아임 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 16 Jun 2025 06:15:49 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MCJ57G2HFBD57HFETNBDFOX7TI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;가수 이효리./인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;가수 이효리가 희귀병을 앓는 유튜버와 인연을 맺은 뒤 병원 면회는 물론 함께 페스티벌에도 놀러 갔다는 미담이 전해졌다. &lt;br&gt;&lt;br&gt;유튜버 ‘daily여니’는 15일 자신의 유튜브 채널에 이효리와 함께 ‘서울재즈페스티벌 2025’에서 공연을 즐기는 모습을 영상으로 올렸다. 영상을 보면 유튜버는 이효리와 함께 음악에 맞춰 몸을 흔들고 있었다. &lt;br&gt;&lt;br&gt;4만6000명의 구독자를 보유한 ‘daily여니’는 가벼운 외상에도 쉽게 물질이 발생해 피부와 점막에 통증이 생기는 희귀한 유전성 질환인 수포성 표피박리증을 앓고 있다. 그는 2023년 우연히 비행기 옆자리에 앉았던 이효리가 자신의 투병 생활과 고민을 진지하게 들어주고 상담해 줬다는 영상을 공개해 화제가 된 바 있다. &lt;br&gt;&lt;br&gt;유튜버는 “비행기에서 효리 언니를 만난 후 몇 개월 뒤에 소속사에서 매니저분께 메일로 연락이 왔다. 언니가 잘 지내는지 궁금해한다고 해서 잘 지낸다고 했고, 당시 입원 중이어서 곧 퇴원 예정이라고 답을 드렸다”고 했다.&lt;br&gt;&lt;br&gt;이어 “(언니가) 병원에 면회를 오고 싶다고 해서 면회도 왔다”며 “참 바쁘셨을 텐데, 한 시간 동안이나 수다 떨며 무료한 제 병원 생활에 빛이 되어주셨다. 그렇게 간간이 안부 묻는 연락 하며 지내고 있었다”고 설명했다.&lt;br&gt;&lt;br&gt;그러면서 “(언니에게) 안부차 연락했다가 ‘서울재즈페스티벌’에 함께 가게 되었다”며 “누군가의 콘서트도 가본 지 오래고, 페스티벌은 가본 적이 없었는데 새로운 경험도 하고 즐거웠다. 잊지 못할 즐거운 추억 만들어준 효리 언니에게 고마운 마음”이라고 전했다.&lt;br&gt;&lt;br&gt;이를 본 네티즌들은 “이효리 진짜 진국이다” “지나칠 수 있는 인연도 잊지 않고 챙겨주다니” “파도 파도 미담만 나온다” 등의 반응을 보였다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/GBNAQBOBGVH55JC2MQKW6EGBXU.jpg?auth=d8180ec07184188878d37e392110992f6afc25ae62d6e6798731b5b321531524&amp;smart=true&amp;width=584&amp;height=328" type="image/jpeg" height="328" width="584">
-        <media:description type="plain">이효리</media:description>
-        <media:credit role="author" scheme="urn:ebu"/>
-      </media:content>
     </item>
     <item>
       <title>김용현 보좌관 “尹 ‘국회에 1000명 보냈어야지’라고 해” 증언 </title>
