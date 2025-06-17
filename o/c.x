@@ -13,6 +13,60 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>“수익의 40%”... 주가 조작 관련 김건희 여사 육성 파일 나왔다</title>
+      <link>https://www.chosun.com/national/court_law/2025/06/17/WQSPE2SFDJBZXLONG7SIIFUK3I/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/17/WQSPE2SFDJBZXLONG7SIIFUK3I/</guid>
+      <dc:creator>유희곤 기자, 이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 17 Jun 2025 13:59:08 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NVSZTDR6P5WDAAU2KGRNNS2NT4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령의 배우자 김건희 여사. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘도이치모터스 주가 조작’ 의혹을 다시 수사하고 있는 검찰이 윤석열 전 대통령 배우자 김건희 여사가 권오수 전 도이치모터스 회장 등의 주가 조작 범행을 사전에 알고 있었다는 정황이 담긴 녹취 파일 수백 개를 확보한 것으로 17일 전해졌다. 검찰은 김 여사에게 “다음 주 검찰에 나와 조사받으라”고 2차 출석 요구를 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JYBMU3KKMJAR3GV4FRI7LX2DGU.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=양인성&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 서울고검 수사팀은 도이치모터스 주가 조작에 김 여사 명의의 계좌가 사용된 미래에셋증권을 최근 압수 수색해 김 여사와 증권사 직원이 2009년부터 2012년까지 통화한 내용이 담긴 녹음 파일 수백 개를 확보했다고 한다.&lt;br&gt;&lt;br&gt;해당 파일에는 김 여사의 당초 주장과 달리 김 여사가 권 전 회장, 2차 주가 조작 주포 김모씨, 컨트롤타워 역할을 한 블랙펄인베스트먼트 이종호 전 대표 등이 시세 조종을 하고 있는 사실을 미리 알고 있었던 정황이 담긴 것으로 전해졌다. 김 여사가 증권사 직원에게 “블랙펄에 계좌를 맡기고 40%의 수익을 주기로 했다”는 등의 내용도 포함돼 있었다고 한다.&lt;br&gt;&lt;br&gt;앞서 사건을 수사했던 서울중앙지검 수사팀은 작년 10월 김 여사를 ‘혐의 없음’ 처분하면서 그 이유 중 하나로 “김 여사가 손실 보전 약정을 체결한 증거를 확보하지 못했다”고 했다. 수익 보장을 약속하는 증거를 못 찾았다는 것이었다. 그러나 지난 4월 김 여사에 대한 재기 수사를 결정하고 직접 수사에 나선 서울고검이 중앙지검의 수사 결과를 뒤집을 수 있는 증거를 확보한 것이다.&lt;br&gt;&lt;br&gt;또한 검찰은 김 여사의 범죄 혐의를 다시 수사하면서 기존 수사팀이 확보했던 ‘김건희’라는 이름의 엑셀 파일의 성격도 규명한 것으로 전해졌다. 해당 파일은 블랙펄인베스트먼트 사무실의 민모씨 컴퓨터에서 나왔는데, 김 여사의 2개 계좌 주식 잔고 및 인출 내역이 정리돼 있었다. 도이치모터스 2차 주가 조작이 진행되던 2011년 1월에 마지막으로 수정됐었다.&lt;br&gt;&lt;br&gt;앞서 주가 조작 세력들은 재판에서 해당 파일의 작성 경위 등에 대해 “잘 모른다”고 답변했다. 그러나 서울고검 수사팀은 이번 수사 과정에서 해당 파일의 각종 수치, 날짜 등 정확한 의미를 파악한 것으로 알려졌다. 수사팀은 김 여사를 주가 조작의 공범으로 기소할 정도로 충분한 증거를 확보했다고 내부적으로 결론을 내린 것으로 전해졌다.&lt;br&gt;&lt;br&gt;검찰은 전날 김 여사에게 “늦어도 다음 주 중에 서울고검 청사에 나와 조사를 받으라”고 통보했다. 다만 김 여사는 지난 16일 극심한 우울증 증세를 보여 서울아산병원에 입원했다. 이를 이유로 검찰 조사에 불응할 가능성이 있다.&lt;br&gt;&lt;br&gt;김 여사가 두 번째 출석 요구에도 불응할 경우, 김 여사에 대한 수사는 민중기 김건희 특검팀이 수사를 이어갈 것으로 보인다. 검찰은 확보한 수사 기록 및 녹음 파일 등 증거 자료를 특검팀에 넘기게 된다. 정치 브로커 명태균씨 의혹을 수사하고 있는 전담 수사팀도 이날 김 여사에게 3차 소환 통보를 했다.&lt;br&gt;&lt;br&gt;한편, 김 여사가 작년 7월 검찰 조사를 앞둔 시점에 비화폰을 이용해 김주현 대통령실 민정수석과 통화했다는 의혹도 제기됐다. 법조계에 따르면, 김 여사는 서울중앙지검의 ‘도이치모터스 주가 조작’ 및 ‘디올 백 수수’ 의혹 조사를 앞둔 작년 7월 3일, 김 전 수석과 두 차례에 걸쳐 33분가량 통화한 것으로 전해졌다. 같은 달 20일 김 여사는 검찰 청사가 아닌 대통령경호처 부속 청사에서 검찰 조사를 받았다.&lt;br&gt;&lt;br&gt;이에 대해 김 여사 측 관계자는 “김 여사는 김 전 수석과 통화 내용을 기억하지 못하고 있다”며 “김 여사는 지난 4월 한남동 관저에서 나오기 수개월 전에 대통령실 제2부속실 행정관에게 비화폰을 반납했고, 실제 비화폰으로 통화한 횟수는 10번도 안 되는 것으로 전해 들었다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>컵라면 엎고 음료 뿌리고... “편의점 내 취식 불가”에 난동부린 손님</title>
+      <link>https://www.chosun.com/national/national_general/2025/06/17/FZ5Y2I64V5FY7LFTD7PITD3S7Q/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/17/FZ5Y2I64V5FY7LFTD7PITD3S7Q/</guid>
+      <dc:creator>박선민 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 17 Jun 2025 13:29:37 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5DUIEDALWJA37EEXBGCN67PH7M.png"&gt;&lt;figcaption&gt;&lt;small&gt;40대 여성이 점주를 향해 음료수를 뿌리고 있다. /JTBC&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;편의점에서 내부 취식을 못하게 하자 컵라면을 엎고 점주에게 음료수를 뿌리며 난동을 부린 손님이 경찰에 입건됐다. &lt;br&gt;&lt;br&gt;보령경찰서는 17일 폭행 및 업무방해 혐의로 40대 여성 A씨를 입건했다고 밝혔다. &lt;br&gt;&lt;br&gt;A씨는 지난 14일 낮 12시 30분쯤 충남 보령시 대천동 한 편의점에서 컵라면을 바닥에 엎고, 점주를 향해 음료수를 뿌리며 난동을 피운 혐의를 받는다. A씨는 매장에서 구매한 컵라면을 먹으려다 점주에게 매장 내 취식 금지 안내를 받자 격분해 이 같은 일을 벌인 것으로 알려졌다. &lt;br&gt;&lt;br&gt;편의점 내부 방범카메라에 담긴 영상을 보면, 어린아이들과 함께 들어온 A씨는 직원의 안내를 듣자 그대로 컵라면을 바닥에 엎었다. 바닥은 면과 국물 등으로 엉망진창이 됐다. 아이들은 A씨의 이런 모습을 보곤 밖으로 나갔다. &lt;br&gt;&lt;br&gt;A씨의 행패는 여기서 그치지 않았다. 다시 매장 안으로 들어와 카운터로 향하더니 직원에게 들고 있던 컵 음료와 빨대를 던졌다. 또 다른 음료수 뚜껑을 열곤 그대로 직원을 향해 흩뿌렸다. 이후 음료수 병을 바닥에 내동댕이친 뒤 편의점을 나섰다. &lt;br&gt;&lt;br&gt;경찰은 조만간 A씨와 점주를 불러 자세한 경위에 대해 조사할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“사업이든 스포츠든 도전엔 한계 없어”… 에베레스트 마라톤 완주한 60대 기업인</title>
+      <link>https://www.chosun.com/national/people/2025/06/14/YZQ2Z6ZLGBHRHEWEF3BQDSVZOQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/06/14/YZQ2Z6ZLGBHRHEWEF3BQDSVZOQ/</guid>
+      <dc:creator>정병선 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 13 Jun 2025 15:52:00 +0000</pubDate>
+      <content:encoded>“사업이든 스포츠든 도전에는 한계가 없다는 것을 직접 경험하고 싶었습니다.”&lt;br&gt;&lt;br&gt;세계 극지·험지 마라톤 톱(Top)5 대회 중 하나인 ‘에베레스트 마라톤’을 한국인 역대 최고 기록으로 완주한 김외용(65) 용방물류 대표는 자신감이 넘쳤다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2JVQP4RVUVCR3MCEJZM4XMCCXI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;'에베레스트 마라톤'을 완주한 김외용 대표가 출발점인 EBC(에베레스트 베이스캠프)에서 빙하를 배경으로 완주를 다짐하고 있다. /EBC=정병선 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;에베레스트 마라톤은 매년 5월29일 세계에서 가장 높은 산 에베레스트(해발 8848m) 등정의 전진기지인 EBC(에베레스트 베이스캠프·5364m)에서 셰르파족의 고향인 남체 바자르(3440m)까지 이어진 42.195㎞를 주파하는 마라톤. 세계 가장 높은 고도에서 열리는 마라톤 대회. 고산병으로 탈락하는 경우도 많아 대회 전 의사 소견서를 비롯해 네팔 정부가 철저히 체력을 검증한 후 출전 자격을 부여한다. &lt;br&gt;&lt;br&gt;김 대표는 216명이 참가한 풀코스를 8시간 18분 31초로 주파했다. 전체 순위는 86위. 고산족 셰르파들이 많아 12위까지 모조리 네팔 선수가 차지했고, 노르웨이 선수가 외국인 최고인 13위였다. 김 대표는 2018년 김민선씨가 기록한 8시간 51분 12초의 한국 기록을 33분이나 단축하며 역대 한국인 참가자 중 1위에 올랐다. 한국인 완주자는 그를 포함해 9명. 김 대표는 “에베레스트 마라톤은 바위가 많은 트랙과 트레일을 따라 내리막길을 뛰지만 2㎞ 이상 산을 오르는 코스가 있어 상상 이상으로 어렵다”며 “하지만 고통을 동반하면서도 포기하지 않고 완주하는 기분은 인생에서 느끼기 어려운 감동 자체였다”고 했다. 20여 년 전부터 사이클을 타면서 운동을 시작한 그는 울릉도서 열린 철인 3종 대회를 본 뒤 수영과 마라톤에도 도전했다. 2023년 생애 첫 풀코스 마라톤 대회인 조선일보 춘천마라톤 대회에 참가해 3시간 56분대를 기록하며 마라톤에 입문했고, 고성·구례 철인 3종 경기까지 완주한 ‘아이언맨’이다.&lt;br&gt;&lt;br&gt;김 대표는 지난 2021년 ‘아너 소사이어티(1억원 이상 기부자)’ 멤버가 된 뒤 지속적으로 기부와 나눔 행사에 참여해온 사업가이기도 하다. 엄홍길휴먼재단을 통해 네팔 청소년과 학교 지원 사업에 1억5000만원을 기부했고, 고향인 경남 고성-마산 지역 어르신들을 위해 명절마다 커피와 간식을 사 들고 찾아가 인사한다. ‘정직하게 살고 남을 돕자’는 경영 철학에 따라 매년 사내 우수 사원 1명을 선발, 특별 상여금 1억원을 선뜻 내준다.&lt;br&gt;&lt;br&gt;김 대표는 “사업하는 분들이 한결같이 IMF(국제통화기금), 코로나 때보다 힘들다고 해 어려움을 극복하는 데 어떤 방법으로라도 자극을 주고 싶어 에베레스트 마라톤에 도전했다”며 “기성세대뿐만 아니라 젊은이들도 간접 경험을 통해 역경을 이겨내는 법을 배웠으면 한다”고 말했다.&lt;br&gt;&lt;br&gt;그는 “에베레스트 마라톤을 완주하고 나니, 70세가 되는 5년 뒤에는 에베레스트에 등정하고 싶다는 새로운 목표가 생겼다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>트럼프에 훈장받은 전한길 사진... AFP “조작”</title>
+      <link>https://www.chosun.com/national/national_general/2025/06/17/FXJEM35I4ZH43FYSMVS5SWFWE4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/17/FXJEM35I4ZH43FYSMVS5SWFWE4/</guid>
+      <dc:creator>박선민 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 17 Jun 2025 12:21:44 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VKTKUN7FRFFP3PIIN4Q4USU2YE.png"&gt;&lt;figcaption&gt;&lt;small&gt;트럼프 대통령이 전씨에게 훈장을 수여하는 모습의 합성 사진. /AFP&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한국사 강사 전한길씨가 도널드 트럼프 미국 대통령에게 훈장을 받는 모습의 합성 사진이 확산된 것에 대해 외신이 “조작된 사진”이라고 보도했다. &lt;br&gt;&lt;br&gt;AFP통신은 13일 팩트체크 홈페이지를 통해 ‘미국 대통령 훈장 받는 전한길? 조작된 사진’이라는 제목의 기사를 게재했다. 여기에는 트럼프 대통령으로부터 훈장을 받는 전씨 모습이 합성된 것이라는 내용이 담겼다.&lt;br&gt;&lt;br&gt;앞서 윤석열 전 대통령 탄핵 반대에 앞장서 온 전씨가 트럼프 대통령으로부터 훈장을 받는 모습의 합성 사진이 온라인에 퍼졌다. &lt;br&gt;&lt;br&gt;처음 사진을 유포한 네티즌은 “처음에는 허풍인 줄 알았는데 전한길 선생님께서 트럼프 대통령에게 직접 훈장을 수여받은 이 사진을 보고 미국이 그의 배후에 있다는 걸 믿게 됐다”며 “정부는 전 선생을 건드리면 트럼프 대통령과 적이 되는 것을 각오하라”고 적었다. 이후 이 합성 사진은 전씨가 지난 6일 자신의 유튜브 채널에서 이재명 정부를 겨냥해 “내 뒤에 미국·일본·영국이 있다” “나를 건드리면 트럼프 정부에 즉시 알릴 것”이라고 말한 점과 맞물려 더욱 확산했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KVQUYXMNQVCATOI23R62J4ZRX4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전씨가 트럼프로부터 훈장을 받는 모습의 사진은 이 두 사진을 합성한 것이다. /AFP&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;AFP에 따르면, 문제의 사진은 2018년 11월 당시 트럼프 대통령이 의사이자 자선가인 미리암 아델슨에게 자유의 메달을 수여하는 사진에 전씨 모습을 붙여넣은 것이다. 트럼프 대통령이 아델슨에게 메달을 수여하는 장면은 미국 CBS 뉴스 유튜브에 올라온 영상에서도 확인할 수 있다. 합성 사진에 이용된 전씨 모습은 과거 공무원 시험 학원의 홈페이지에 등록된 사진인 것으로 나타났다. &lt;br&gt;&lt;br&gt;전씨 역시 이 사진은 조작된 것이라며 일부 세력이 자신을 조롱하기 위해 유포했다고 주장했다. 전씨는 16일 유튜브 채널 라이브 방송에서 “‘트럼프에게 훈장 받은 내란길’ 이라며 약간 조롱식으로 올라온 것으로 보인다”며 “이건 명예훼손 범죄행위”라고 했다. 그러면서 “제가 이걸 고소하려다가 미리 경고한다. 이것은 허위 사실 유포”라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>李대통령 ‘엄정 대응’ 지시 후... 대북 전단 날린 40대 첫 입건</title>
+      <link>https://www.chosun.com/national/incident/2025/06/17/E2UKOM2L6JCNLNKAPFKWVBY67I/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/06/17/E2UKOM2L6JCNLNKAPFKWVBY67I/</guid>
+      <dc:creator>인천=이현준 기자, 구아모 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 17 Jun 2025 11:56:42 +0000</pubDate>
+      <content:encoded>인천 강화도에서 ‘대북 전단’을 날린 혐의로 40대 남성이 경찰에 붙잡혔다. 이재명 대통령이 대북 전단 살포에 엄정 대응하라고 지시한 이후 첫 형사 입건 사례다.&lt;br&gt;&lt;br&gt;인천경찰청 반부패경제범죄수사대는 항공안전법 위반 혐의로 40대 A씨를 붙잡아 조사하고 있다고 17일 밝혔다. A씨는 지난 13일 밤 강화도에서 북한 방향으로 대북 전단 등을 매단 풍선을 날린 혐의를 받고 있다. 풍선은 강화군 하점면과 양사면 등에 떨어졌다. 경찰은 대북 전단에 적힌 종교 단체를 조사해 서울에 사는 A씨를 용의자로 특정한 것으로 알려졌다. 경찰 관계자는 “대북 전단에는 성경 내용이 담겨 있었다”며 “북한 체제를 비판하는 내용은 없었다”고 했다.&lt;br&gt;&lt;br&gt;A씨는 경찰에서 대북 전단을 날린 사실은 인정하면서도 구체적인 이유 등은 진술하지 않은 것으로 알려졌다. 경찰은 전단 살포에 가담한 사람이 10여 명에 달하는 것으로 보고 수사를 확대할 계획인 것으로 전해졌다. &lt;br&gt;&lt;br&gt;경찰이 A씨에게 우선 적용한 혐의는 항공안전법 위반이다. 국토교통부 허가를 받지 않고 2㎏ 이상 되는 물건을 풍선에 매달아 날리면 항공안전법 위반이 될 수 있다. 경찰은 A씨가 날린 대북 전단 등의 무게가 2㎏이 넘는 것으로 파악하고 있다.&lt;br&gt;&lt;br&gt;경찰은 고압가스 안전관리법 위반, 재난안전법 위반 등 혐의도 적용할 수 있는지 검토 중인 것으로 알려졌다. 풍선은 고압가스를 채워 날리는데 A씨가 지방자치단체에 등록하지 않고 고압가스를 운반했다면 법 위반 소지가 있다는 것이다. 강화군은 지난해 11월 강화도 전 지역을 재난안전법상 ‘위험 구역’으로 지정하고 전단 살포 행위를 금지했다.&lt;br&gt;&lt;br&gt;인천경찰청은 이날 강화도에 경찰관 125명을 투입했다고 밝혔다. 강화대교, 초지대교 등에서 검문·검색을 강화해 대북 전단을 실은 차량의 진입을 차단한다는 계획이다. &lt;br&gt;&lt;br&gt;강원경찰청은 자체적으로 ‘위험 구역에 출입할 경우 즉시 임의 동행을 요구하고 불응하면 현행범으로 체포한다’는 내용의 현장 지침서를 관할 경찰서에 배포했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘입금자명에 530만원’…금은방 속인 20대 여성 구속</title>
+      <link>https://www.chosun.com/national/incident/2025/06/17/32M7NDMOWBBA7F3ZGVTTOETXWI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/06/17/32M7NDMOWBBA7F3ZGVTTOETXWI/</guid>
+      <dc:creator>김현수 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 17 Jun 2025 11:50:44 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/S4JNNA63IJHXYPIIBJ7DXGEVSU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산의 금은방을 돌며 입금자명에 결제 금액을 기재하는 수법으로 업주를 속이고 귀금속을 챙겨 달아난 20대 여성이 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;부산진경찰서는 17일 사기 혐의로 20대 여성 A씨를 구속해 검찰에 송치했다고 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난달 26일 오후 4시쯤 부산 진구의 한 금은방에서 530만원 상당의 금목걸이를 계좌이체로 결제하겠다며 속이고 금품만 챙겨 달아난 혐의를 받고 있다. 경찰 조사 결과, A씨는 입금자명란에 ‘530만원’이라고 써두고 실제로는 소액만 입금하는 방식으로 피해자를 속인 것으로 드러났다.&lt;br&gt;&lt;br&gt;이 같은 수법으로 A씨는 부산 일대 금은방 3곳에서 총 1200만원 상당의 귀금속을 가로챘다.&lt;br&gt;&lt;br&gt;피해 업주의 신고를 받은 경찰은 감시카메라 영상과 금융 계좌 추적 등을 통해 A씨의 동선을 추적해 검거했다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “계좌이체 거래 시 입금자명이 실제 금액과 무관하다는 점을 악용한 범죄가 늘고 있다”며 “실제 입금액을 확인한 뒤 물품을 전달해야 피해를 막을 수 있다”고 당부했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>현직 검사, 국정기획위 합류한 임은정에 “수사권 조정 후 현실 알고 있나”</title>
       <link>https://www.chosun.com/national/court_law/2025/06/17/BFCAS7F7SNCSPEUBTU3CFPKRPE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/17/BFCAS7F7SNCSPEUBTU3CFPKRPE/</guid>
@@ -835,51 +889,6 @@
       </media:content>
     </item>
     <item>
-      <title>포천·파주 등 경기 곳곳 올여름 첫 폭염특보</title>
-      <link>https://www.chosun.com/national/transport-environment/2025/06/15/76YLJ3O2PRCWHCSY2TWANI35OI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/06/15/76YLJ3O2PRCWHCSY2TWANI35OI/</guid>
-      <dc:creator>박상현 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 15 Jun 2025 02:25:21 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BOWBHIAPIZGLNAPGUNRRX6DS6E.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;지난 11일 낮 최고기온이 30도는 넘는 더운 날씨를 보이면서 도로 위에 아지랭이가 피어올랐다. /김영근 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;15일 포천·파주 등 경기내륙에 올여름 첫 폭염특보가 발효됐다. 작년보다 닷새 늦은 기록이다.&lt;br&gt;&lt;br&gt;기상청에 따르면, 이날 늦은 오후 중부지방에 비가 오기 전까지 강한 햇볕이 내리쬐면서 더울 것으로 예상됐다.&lt;br&gt;&lt;br&gt;기상청은 이날 오전 9시를 기해 경기 포천, 가평, 파주, 안성, 여주, 양평에 폭염주의보를 발효했다. 폭염특보는 일 최고 체감기온이 33도 이상인 상태가 이틀 이상 지속될 때 내려진다.&lt;br&gt;&lt;br&gt;체감기온은 기온에 습도를 반영해 산출한다. 습도 55%를 기준으로, 습도가 10% 오를 때마다 체감기온은 1도가량 오른다.&lt;br&gt;&lt;br&gt;‘최악 더위’가 찾아왔던 작년(6월 10일)에는 경상권을 중심으로 첫 폭염특보가 내려진 바 있다.&lt;br&gt;&lt;br&gt;다만 15일 늦은 오후부터 중부지방에 비가 예상돼 폭염주의보가 오래 유지되진 않을 것으로 보인다. 비는 이날 오전 제주부터 내리기 시작해 오후에 중부지방과 호남, 밤에는 경상서부로 확대되겠다.&lt;br&gt;&lt;br&gt;16일 오전에는 전국 대부분 지역에 비가 내리겠다. 중부지방 일부와 영남, 제주는 16일 오후까지 비가 내릴 수 있다.&lt;br&gt;&lt;br&gt;기상청은 “비가 내린 후에도 내륙을 중심으로 낮 기온이 30도 안팎까지 올라 무덥겠다”고 전했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>李대통령 ‘엄중 대처’ 지시에...경찰 곧바로 “대북 전단 엄정 수사”</title>
-      <link>https://www.chosun.com/national/national_general/2025/06/14/D5PG2PMMPJD4BEKH2ZFFLCTSBQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/14/D5PG2PMMPJD4BEKH2ZFFLCTSBQ/</guid>
-      <dc:creator>김명진 기자</dc:creator>
-      <description/>
-      <pubDate>Sat, 14 Jun 2025 12:31:04 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DGY4C4LRNGDCK7TPDC5ADUCKCU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;최성룡 납북자가족모임 대표를 비롯한 회원들이 지난 4월 대북전단을 살포하고 있는 모습./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;14일 민간 단체가 인천 강화도와 경기 접경 지역에서 대북 전단을 날려 보낸 것과 관련해 경찰이 엄중 수사하겠다는 방침을 밝혔다. 이재명 대통령이 대북 전단 살포와 관련해 전(全) 관련 부처에 예방과 사후 처벌 대책을 지시한 데 따른 것이다.&lt;br&gt;&lt;br&gt;경찰청 안보기획관리과는 이날 출입기자단에 보낸 알림을 통해 “오늘 오전 인천 강화 및 경기 김포 일대에서 총 3개의 대북 풍선이 발견됐다”며 “발견된 대북 풍선은 모두 항공안전법 위반 혐의로 수사 예정이며, 여타 관련 법령 위반 여부에 대해서도 엄중히 수사할 예정”이라고 했다.&lt;br&gt;&lt;br&gt;대북 풍선 속 내용물은 성경 책자나 과자류 등으로 북한 체제를 직접적으로 비판하는 것은 없었다고 경찰은 전했다. 경찰은 그러면서 “현재 주요 접경 지역 중심으로 살포 예상 지역을 선정, 기동대 및 지역경찰 등 경찰 병력을 배치해 대북 전단 살포와 관련한 사전 차단활동을 전개하고 있다”며 “지자체와 유관기관과도 적극 협업해나갈 예정”이라고 했다.&lt;br&gt;&lt;br&gt;인천 강화경찰서는 이날 새벽 0시 30분쯤 강화군 하점면에서 대형 풍선이 떨어졌다는 112 신고가 접수됐고, 오전 8시 쯤에도 강화군 양사면에서 비슷한 신고가 들어왔다고 밝혔다. 경기 김포시 하성면에서도 이날 오전 9시 30분쯤 대북 전단 등이 달린 풍선이 발견됐다는 신고가 경찰에 접수된 것으로 알려졌다. 경찰은 대형 풍선 잔해와 함께 대북 전단, USB, 과자류 등 현장에 떨어진 잔해를 수거했다. 대형 풍선이 떨어진 세 곳은 모두 밭이나 길가로 별다른 피해는 발생하지 않았다.&lt;br&gt;&lt;br&gt;이와 관련 앞서 대통령실 강유정 대변인은 이날 오후 서면 브리핑에서 “오늘 새벽 강화도에서 민간단체가 북한 지역으로 전단을 살포한 것이 확인됐다”며 “이 대통령은 오늘 전 관련 부처에 대북 전단 살포와 관련해 예방과 사후 처벌 대책을 지시했다”고 밝혔다.&lt;br&gt;&lt;br&gt;강 대변인은 “이재명 정부는 접경 지역 주민의 일상과 안전을 위협하고 한반도의 군사적 긴장을 고조시킬 수 있는 불법적인 대북 전단 살포는 중단되어야 한다는 입장을 밝힌 바 있다”며 “대북 전단 살포 시 입장을 분명히 밝혔음에도 불구하고 이를 위반한 데 대해 상황을 엄중하게 인식하고 있다”고 했다.&lt;br&gt;&lt;br&gt;이 대통령은 전날 경기 파주시 장단면 접경 지역을 찾아 주민들과 한 간담회에서도 ‘대북 전단은 이제 멈춰야 한다’는 질문이 나오자 “헬륨가스 사용은 가스관리법 위반이며 현행범 체포 대상”이라며 “불법행위에 대해 강력히 대응하겠다”고 했었다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>인천·김포 접경지에서 대북전단 달린 대형 풍선 잇따라 발견</title>
-      <link>https://www.chosun.com/national/regional/gyeonggi-incheon/2025/06/14/MYEB7MUXNZHT3ONXLWW5HF5WNU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/gyeonggi-incheon/2025/06/14/MYEB7MUXNZHT3ONXLWW5HF5WNU/</guid>
-      <dc:creator>김석모 기자</dc:creator>
-      <description/>
-      <pubDate>Sat, 14 Jun 2025 11:59:10 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/D34OCZADUKLFS2ECURWAFGCNCU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대북전단.(사진은 기사와 직접적인 관련 없음)/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천 강화도와 경기 김포시 접경지역에서 대북전단이 달린 대형 풍선이 발견돼 경찰이 수사에 나섰다.&lt;br&gt;&lt;br&gt;14일 경찰에 따르면 이날 오전 0시 40분쯤 인천 강화군 하점면에서 “대형 풍선이 떨어졌다”는 112 신고가 접수됐다. 같은 날 오전 8시 10분쯤 강화군 양사면, 오전 9시 27분쯤 김포시 하성면에서도 비슷한 내용의 신고가 이어졌다.&lt;br&gt;&lt;br&gt;신고를 받고 출동한 경찰은 대형 풍선 잔해와 함께 대북전단, USB, 과자류 등 물품을 수거했다. 대형 풍선이 떨어진 3곳은 모두 밭이나 길가로 별다른 주민 피해는 발생하지 않았다.&lt;br&gt;&lt;br&gt;경찰은 민간 단체가 대북전단을 대형 풍선에 매달아 날린 것으로 보고 조사를 벌이고 있다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “북한으로 날린 대북전단이 바람을 타고 강화와 김포 접경지에 떨어진 것으로 보인다”면서 “구체적인 경위를 확인하고 있다”고 말했다. &lt;br&gt;&lt;br&gt;대통령실은 이날 브리핑을 통해 “민간 단체가 북한 지역으로 전단을 살포한 것이 확인됐다”면서 “관련 법령 위반 여부에 따라 엄중 조치할 것”이라고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>수녀원 “고기 후원 끊겼다” 말에…삼겹살 구워 대접한 주지스님</title>
-      <link>https://www.chosun.com/national/national_general/2025/06/14/6M4EAT2FMZGEHGDWQFWAD744UA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/14/6M4EAT2FMZGEHGDWQFWAD744UA/</guid>
-      <dc:creator>이가영 기자</dc:creator>
-      <description/>
-      <pubDate>Sat, 14 Jun 2025 11:31:05 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AN5J2URFGFGAJL6SEL3BAMNI4I.png"&gt;&lt;figcaption&gt;&lt;small&gt;문빈정사 주지 법공스님이 12일 광주 남구 성요셉 사랑의 식당에서 저소득층을 위해 삼겹살을 굽고 나르고 있다. /오영순 광주 남구 의원 페이스북&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;저소득층을 위해 성당에서 운영하는 무료 급식소에 ‘고기 후원이 끊겼다’는 소식이 전해지자 사찰 주지스님이 돼지고기를 챙겨가 지원에 나선 사연이 알려졌다. &lt;br&gt;&lt;br&gt;14일 오영순 광주광역시 남구 의원에 따르면, 지난 12일 남구 방림동 소재 성요셉 사랑의 식당에서는 불교 문빈정사와 자비신행회가 마련한 사랑의 후원 행사가 열렸다. &lt;br&gt;&lt;br&gt;까리따스수녀원에서 운영하는 성요셉 사랑의 식당은 지방자치단체의 식비 지원을 받지 않고 후원과 자원봉사만으로 저소득층에 무료 급식을 제공한다. 그러나 올해 경기 악화로 고기 후원이 끊겼고, 고기 반찬을 내놓기 어렵게 됐다. &lt;br&gt;&lt;br&gt;오 구의원은 “힘들어하시는 수녀님 말씀에 염치 불구하고 자비신행회 측에 도움을 요청드렸더니 문빈정사 봉사팀이 함께 오셨다”고 전했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/N57XXHYPI5BVDMTJRSDFTODJL4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 12일 광주 남구 방림동 소재 성요셉 사랑의 식당에서 문빈정사와 자비신행회가 마련한 사랑의 후원 행사가 열렸다. /오영순 광주 남구 의원 페이스북&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;문빈정사 주지 법공 스님과 오 구의원, 자원봉사자들은 삼겹살 20㎏과 쌀 100㎏을 들고 사랑의 식당을 찾았다. 이들은 직접 삼겹살을 구워 식당에 온 어르신들에게 풍성한 점심을 제공했다. &lt;br&gt;&lt;br&gt;법공 스님은 “자비를 실천하는 불교의 가르침을 생활 속에서 실현하고자 이번 후원을 준비했다”며 “단순한 식사가 아니라 위로와 존중의 마음을 전하는 일이 되길 바란다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>조은석 특검 “검·경 등에 내란 특검 사무공간 요청”</title>
-      <link>https://www.chosun.com/national/court_law/2025/06/14/OS2WLPTRTBGQFAGRM22TE72XJU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/14/OS2WLPTRTBGQFAGRM22TE72XJU/</guid>
-      <dc:creator>방극렬 기자</dc:creator>
-      <description/>
-      <pubDate>Sat, 14 Jun 2025 11:05:01 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JPWQOSKPIHLQLO4CISFJP27Q4I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;내란 특별검사에 지명된 조은석 전 서울고검장. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;12·3 비상계엄 관련 내란 사건을 수사할 조은석 특별검사(특검)는 14일 내란 특검에 활용할 사무실로 검찰과 경찰, 정부과천청사의 시설을 물색하고 있다고 밝혔다.&lt;br&gt;&lt;br&gt;조 특검은 이날 언론 공지를 통해 “내란 특검은 군사에 관한 사항이 주된 것이어서 상업용 건물에서 직무 수행 시 군사기밀 누설 등 보안 문제가 있을 수 있다”며 “이에 검찰과 경찰에 활용할 수 있는 공간이 있는지 협조 요청해 시설을 답사했고, 정부과천청사에 공간이 있는지도 확인 중”이라고 밝혔다.&lt;br&gt;&lt;br&gt;조 특검 측은 내란죄 수사의 특성상 기밀 유지를 위해 서울고검, 정부과천청사 등 공공기관을 이용하는 방안을 우선적으로 검토하고 있다. 내란 특검법에 따르면, 특검은 직무 수행에 필요한 사무실과 통신 시설 등을 국가 또는 공공기관에 요청할 수 있고, 요청받은 기관은 정당한 사유가 없으면 이에 따라야 한다.&lt;br&gt;&lt;br&gt;다만 특검은 통상 검찰청 건물을 사용하지 않고 독립적인 공간을 사용해온 만큼 제3의 장소에 사무실이 마련될 수 있다. &lt;br&gt;&lt;br&gt;내란 특검은 함께 출범하는 김건희·해병대원 특검보다 규모가 크다. 수사팀장 격인 특검보를 최대 6명까지 둘 수 있고, 검사도 60명을 파견 받을 수 있다. 여기에 파견 공무원 100명, 특별수사관 100명까지 포함하면 역대 특검&lt;b&gt; &lt;/b&gt;중 최대인 267명으로 구성될 예정이다. 최장 20일의 준비 기간을 거쳐 최장 150일 동안 수사할 수 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>김용현 보좌관 “尹 ‘국회에 1000명 보냈어야지’라고 해” 증언 </title>
       <link>https://www.chosun.com/national/court_law/2025/06/16/BNQIYQVSTFH6LLV45XPV5IICWE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/16/BNQIYQVSTFH6LLV45XPV5IICWE/</guid>
@@ -896,15 +905,6 @@
       <description/>
       <pubDate>Mon, 16 Jun 2025 06:57:20 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WFNQ52GLXJBJBOWS5GGDJADFLQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;유튜버 일주어터. /인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;구독자 60만여 명 유튜버 일주어터(본명 김주연)가 MBC 기상캐스터 고(故) 오요안나의 유족에게 또 한 번 사과했다. 앞서 그는 오요안나 직장 내 괴롭힘 사건 관련자로 지목된 기상캐스터 김가영을 옹호하는 글을 써 논란을 산 바 있다.&lt;br&gt;&lt;br&gt;일주어터는 15일 유튜브 채널 커뮤니티에 글을 써 “저는 지난 1월 MBC 직장 내 괴롭힘 사건과 관련해 부적절한 내용의 댓글을 작성했다”며 “단편적인 부분만 보고 작성한 추측성 발언은 고인은 물론 유가족분들께 큰 상처를 드릴 수 있는 굉장히 경솔한 언행이었다”고 했다.&lt;br&gt;&lt;br&gt;이어 “더욱 부끄러운 것은 그런 경솔한 언행들이 누군가에게 얼마나 상처가 될 수 있고 아픔이 될 수 있는지를 누구보다 잘 알고 있으면서 충분히 고려하지 못하고 댓글을 작성했다는 사실”이라며 “다시 한번 고인과 유가족분들께 깊은 사과의 말씀을 드린다”고 말했다. &lt;br&gt;&lt;br&gt;일주어터는 “저는 혼자 촬영하고 또 혼자 편집한다. 화면 속 제 모습을 가식적으로 꾸미지 않고 최대한 실제의 제 모습과 똑같아 보이도록 영상을 만드는 게 시청하는 분들께 솔직한 제 모습을 보여드릴 수 있다고 믿기 때문”이라며 “그런데 잘못을 하고 난 뒤부터는 화면 속 제 모습이 너무 부끄럽게 느껴졌다”고 했다. &lt;br&gt;&lt;br&gt;그러면서 “실제의 저는 좋은 사람이 아닌데, 화면 속에서 사람 좋은 척 웃는 제게 자괴감이 들었다. 제 경솔한 언행에 실망하셨을 시청자 여러분들께도 진심으로 죄송하다”며 “조금이나마 다시 긍정적인 에너지를 드릴 수 있도록 더 성숙해지고 더욱더 신중하게 행동하겠다. 제가 제 잘못을 직시하고 반성할 수 있도록 만들어주신 여러분께 진심으로 감사의 말씀 드린다”고 덧붙였다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6SYWQSCGARCUFDQ6SJ6RH7JGII.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;일주어터가 논란 당시 남겼던 댓글. /인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;앞서 오요안나가 생전 직장 동료들로부터 괴롭힘을 당했다는 의혹이 제기된 뒤, 김가영이 관련자 중 한 명으로 지목되자 일주어터는 “가영 언니는 오요안나님을 못 지켜줬다는 사실에 당시에도 엄청 힘들어했다”는 댓글을 남겼었다. 일주어터와 김가영은 SBS 예능프로그램 ‘골때리는 그녀들’로 인연을 맺었다. 김가영은 논란 이후 ‘골때리는 그녀들’에서 자진 하차했다.&lt;br&gt;&lt;br&gt;댓글에서 일주어터는 “오요안나님과 운동을 해봤던 인연이 있다. 한번 뵀을 때도 오요안나님이 내게 ‘가영 언니 너무 좋아하고 의지하는 선배’라고 진심으로 얘기해줬다”며 “오지랖일 순 있지만 가영 언니가 걱정되고 짧은 인연이었지만 오요안나님의 명복을 빌며 댓글을 남긴다”고 했다. 이후 일부 네티즌은 “유족에게 사과하라” “피해자를 두 번 죽이는 일” 등의 비판을 쏟아냈다.&lt;br&gt;&lt;br&gt;한편 고용노동부는 지난달 19일 MBC에 대한 특별근로감독 결과를 전하며 “(고인에 관한) 조직 내 괴롭힘이 있었다”고 발표했다. 다만 “근로기준법상 근로자로 인정되지는 않아 직장 내 괴롭힘 규정이 적용되지 않는다”고 했다. MBC는 이 결과에 따라 가해자로 특정된 한 명에 대한 계약을 해지했으며 김가영을 비롯한 3명과는 재계약했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>조국, 서울대 해임 불복 소송 취하...“어차피 안 돌아가”</title>
-      <link>https://www.chosun.com/national/court_law/2025/06/16/NFMFI662EVA5NDGMR447YNMKJQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/16/NFMFI662EVA5NDGMR447YNMKJQ/</guid>
-      <dc:creator>김은경 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 16 Jun 2025 01:00:36 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3OSRRJ27YOE4VYWHHHGQDFGKPU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;조국 전 조국혁신당 대표. /뉴시스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘자녀 입시 비리’ 사건으로 대법원에서 유죄가 확정돼 복역 중인 조국 전 조국혁신당 대표가 서울대학교 교수직 해임 처분에 불복해 교육부를 상대로 냈던 행정소송을 취하했다.&lt;br&gt;&lt;br&gt;조 전 대표를 대리하는 전종민 변호사는 16일 “법원에 계류 중이던 서울대 교수 해임 처분 취소 소송을 이날 취하했다”고 밝혔다. 이에 따라 서울행정법원 행정2부(재판장 고은설) 심리로 오는 26일 첫 변론이 예정됐던 소송은 더 이상 진행되지 않고, 서울대의 해임 처분도 그대로 확정될 예정이다.&lt;br&gt;&lt;br&gt;전 변호사는 “조 전 대표는 딸의 장학금 600만원(청탁금지법 위반)을 이유로 서울대 교수직 해임 처분을 내리는 것은 부당하다는 입장”이라면서도 “어차피 돌아가지 않을 교수직에 연연하지 않는다는 점을 분명하게 하기 위해 취하한 것”이라고 했다.&lt;br&gt;&lt;br&gt;서울대는 2019년 12월 당시 법학전문대학원 교수였던 조 전 대표가 자녀 입시 비리와 청와대 감찰 무마 등 혐의로 불구속 기소되자 한 달 뒤인 2020년 1월 교수직에서 직위 해제했다. &lt;br&gt;&lt;br&gt;2023년 6월 1심은 조 전 대표 대부분 혐의를 유죄로 판단해 징역 2년을 선고했고, 서울대는 그해 6월 교수직 파면을 결정했다. 서울대 교원 징계 규정에 따르면 직무와 직접적인 관계 없이 금품 등을 직무 관련자로부터 500만원 이상 받은 경우 파면하게 돼 있는데, 1심 재판부가 조 전 대표 딸이 부산대 의학전문대학원에서 장학금으로 600만원을 받은 것을 청탁금지법 위반으로 판단했기 때문이다.&lt;br&gt;&lt;br&gt;조 전 대표는 징계에 불복해 교육부에 교원 소청 심사를 청구했고, 교육부는 지난해 3월 징계 수위를 ‘해임’으로 조정해 최정 결정했다. 조 전 대표는 해임 처분에도 불복해 교육부 교원소청삼사위원회를 상대로 행정소송을 냈다.&lt;br&gt;&lt;br&gt;조 전 대표는 지난해 12월 대법원에서 징역 2년이 확정돼 수감 생활을 하고 있다. 대법원은 조 전 대표가 딸과 아들의 입시를 위해 허위 인턴십 확인서 등을 제출하고 아들의 미국 대학 온라인 시험을 도운 것 등 자녀 입시 비리 관련 혐의 대부분을 유죄로 인정했다. 청와대 민정수석이던 2017년 민정수석실 내 특별감찰반에 유재수 전 부시장의 감찰을 중단하도록 압력을 넣은 직권남용 혐의도 유죄가 확정됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>경찰·고용부 ‘태안화력 사망사고’ 서부발전·한전KPS 압수수색</title>
