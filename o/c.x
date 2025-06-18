@@ -13,6 +13,24 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>세계 톱30 대학에 중국 4개, 한국 0개… 서울대마저 38위로 밀려났다</title>
+      <link>https://www.chosun.com/national/education/2025/06/19/PLCQGSMTVBFWTORCACBHGGHKHM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/education/2025/06/19/PLCQGSMTVBFWTORCACBHGGHKHM/</guid>
+      <dc:creator>최인준 기자, 오주비 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 18 Jun 2025 23:02:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IVZ6IDLPURCC7AEX7BWKPZQIDA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;조현제(왼쪽) 연세대 융합과학기술원 교수가 ‘글로벌 백신 교육 프로그램’ 교육생들에게 세포 배양 공정을 설명하고 있다. 연세대는 ‘2025년 QS 세계대학평가’에서 작년보다 6계단 상승해 50위에 올랐다./연세대&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한국 주요 대학의 글로벌 경쟁력이 주춤한 사이 중국·홍콩·싱가포르 등 아시아 대학들이 상승세를 타고 있다. 18일 영국 글로벌 대학 평가 기관 QS(Quacquarelli Symonds)가 발표한 ‘2025 세계대학평가’에서 한국 대학은 상위 100위에 서울대(38위)·연세대(50위)·고려대(61위) 등 3개 대학만 포함돼, 지난해 대비 2개 줄어든 것으로 나타났다. 반면 중국 10개(홍콩 5개 대학 포함), 일본은 4개 대학이 톱100에 자리했다. 한국은 이번 평가에서 중국·대만·인도 등에 비해 전년 대비 순위가 오른 대학 비율이 적은 것으로 나타나 아시아 내 대학 경쟁에서도 밀리는 것 아니냐는 우려가 나온다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/54K6JJR7WNE2XBNXF2ZR7GJMGU.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=김성규&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;QS는 이번 조사에서 전 세계 5000여 대학을 9개 항목으로 평가해 종합 점수로 1500위까지 순위를 매겼다. 한국은 총 43개 학교를 순위에 올렸다. 아시아에서 중국(81개), 인도(54개), 일본(47개)에 이어 넷째로 많은 규모다. &lt;br&gt;&lt;br&gt;국내 대학 1위인 서울대는 이번 조사에서 전년 대비 7계단이나 순위가 하락했다. 서울대는 ‘취업 성과’ 지표에서 6위, ‘학계 평가’ 지표는 20위로 순위가 높았지만, ‘외국인 교수 비율’(801위), ‘외국인 학생 비율’(622위) 등 국제화 관련 지표에서 낮은 점수를 받아 순위가 하락한 것으로 분석된다. 2023년 도입된 ‘국제 연구 네트워크’ 지표는 다양한 국가와 공동 연구를 진행할수록 높은 점수를 준다. ‘취업 성과’는 졸업생 취업률과 사회 각계에 진출한 동문 영향력을 조사해 값을 매기는 지표다. &lt;br&gt;&lt;br&gt;처음으로 톱 50 진입에 성공한 연세대는 외국인 학생 비율, 국제 연구 네트워크 부문에서 한국 대학 중 가장 높은 순위를 보이며 4년 연속 아시아 사립대 중 최고 순위를 기록했다. 포스텍은 ‘교수당 학생 비율’(27위), 한국외대는 ‘외국인 교수 비율’(498위)에서 국내 대학 중 가장 순위가 높았다. &lt;br&gt;&lt;br&gt;한국은 지난해와 비교해 대체로 상위권 대학의 순위가 하락했다. 특히 이공계 특성화 대학들의 순위가 일제히 떨어졌다. 지난해 98위였던 포스텍은 올해 4계단 하락해 102위가 됐다. 울산과학기술원(UNIST·310위), 대구경북과학기술원(DGIST·370위), 광주과학기술원(GIST·385위)도 지난해보다 순위가 두 자릿수씩 하락했다. ‘졸업생 평판’ ‘외국인 교수 비율’ 지표에서 상대적으로 낮은 평가를 받았기 때문으로 분석된다. 한국은 이번 평가에서 순위가 매겨진 43개 대학 중 16곳(37%)은 순위가 올랐고, 나머지 26곳은 순위가 떨어지거나 그대로였다. 국내 대학 1곳(동명대)은 올해 처음 순위가 매겨졌다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YRP3OZSD6JCZ5LFKNYAAKBGS5M.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=김성규&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;반면 다른 아시아 대학들은 뚜렷한 상승세를 보이고 있다. 중국은 홍콩대(11위), 베이징대(14위), 칭화대(17위), 푸단대(30위) 등 4개 대학이 서울대보다 높은 순위를 기록했다. 의학 등 바이오 분야에서 세계적 연구 수준을 갖춘 푸단대는 지난해 39위로 서울대(지난해 31위)보다 순위가 낮았지만 올해 9계단이나 올라 서울대를 앞질렀다. 칭화대 역시 3계단 올랐고, 베이징대는 순위 변화가 없었다. 중국은 또 이번 평가에 이름을 올린 81개 대학 중 38곳(47%)이 전년보다 순위가 올랐고,&lt;b&gt; &lt;/b&gt;말레이시아는 59%, 대만은 51%에 달하는 대학들이 순위가 상승했다. 인도 대학도 40%가 전년 대비 좋은 평가를 받았다. &lt;br&gt;&lt;br&gt;싱가포르의 강세도 이어졌다. 지난 2023년 아시아 대학 가운데 처음 ‘톱10′에 든 싱가포르국립대는 올해도 아시아 대학 최고 순위인 8위에 오르며 3년 연속 상위 10위에 이름을 올렸다. 인공지능(AI)·로봇 분야에서 세계적 연구 역량을 자랑하는 싱가포르 난양공대가 12위를 기록했다.&lt;br&gt;&lt;br&gt;특히 이 아시아 대학들은 ‘연구 성과’ 분야에서 약진하고 있다. 예컨대 ‘교수당 논문 피인용 수’ 부문 상위 50위 안에 중국 대학은 23개로, 미국(8개)의 3배 가까운 수준이다. 중난대, 화중과기대학교(HUST) 등 중국 대학 11곳은 해당 지표에서 전체 순위 3위에 오른 미국 스탠퍼드대보다 순위가 높았다. 이 부문 상위 50위 내 아시아 대학만 38곳이다. &lt;br&gt;&lt;br&gt;한 과학기술계 관계자는 “중국은 최근 계속되는 경기 둔화에도 지난 2023년 8%가 넘는 국가 연구개발(R&amp;amp;D) 투자 증가율을 보이며 1%대 증가율에 그친 미국, 유럽을 압도하고 있다”며 “국가가 대학에 집중적으로 투자하면서 최근 중국 대학들이 눈에 띄는 연구 성과를 내고 있다”고 했다. &lt;br&gt;&lt;br&gt;&lt;b&gt;☞QS 세계대학평가&lt;/b&gt;&lt;br&gt;&lt;br&gt;영국 대학 평가 기관 QS(Quacquarelli Symonds)가 2004년부터 시행해온 대학 평가. 전 세계 5000여 대학을 평가해 1500위까지 순위를 매긴다. 학계 평가(30%), 교수당 논문 피인용 수(20%), 졸업생 평판(15%), 교수당 학생 비율(10%), 외국인 교수·학생 비율(각 5%), 국제 연구 네트워크(5%), 취업 성과(5%), 지속 가능성(5%) 등 9개 지표로 평가한다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>AV 배우 만난 주학년 “술자리 동석, 성매매는 안해” 자필 입장문</title>
+      <link>https://www.chosun.com/national/people/2025/06/19/P7OEKZQF55F55LU7A7KTKU7SFE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/06/19/P7OEKZQF55F55LU7A7KTKU7SFE/</guid>
+      <dc:creator>이가영 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 18 Jun 2025 22:11:45 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PGOQWOWQVJDAVLGXX4X5IMSTE4.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;더보이즈 주학년. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;일본 AV배우와 사생활 논란에 휩싸이며 그룹 더보이즈를 탈퇴한 주학년이 자필 사과문을 발표했다. &lt;br&gt;&lt;br&gt;주학년은 19일 새벽 자신의 인스타그램에 “저에 관한 기사로 인해 많이 놀라셨을 팬 여러분들, 그리고 모든 분들께 불미스러운 일로 심려를 끼쳐 죄송하다”고 밝혔다. &lt;br&gt;&lt;br&gt;이어 “지난달 30일 새벽 지인과 함께 한 술자리에 동석했고 그 자리에 있었던 것은 사실이지만, 루머에 나오는 성매매나 그 어떠한 불법적인 행위도 한 사실이 전혀 없다”고 했다. &lt;br&gt;&lt;br&gt;그러면서 “제 행동에 대해 깊이 반성하고 있으며 놀라셨을 분들께 진심으로 사과의 말씀을 드리고 싶다”고 했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/USUGDK7YH5GYBATZQTWIERGZHI.png"&gt;&lt;figcaption&gt;&lt;small&gt;19일 주학년이 인스타그램에 올린 자필 사과문. /인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;주학년은 2017년 방송된 Mnet 오디션 예능 ‘프로듀스 101 시즌2’를 통해 인기를 얻으며 같은 해 12월 더보이즈로 데뷔했다. 지난 16일 그룹 활동을 중단한다고 밝혔으나, 이틀 만인 18일 일본 AV배우 출신 인플루언서 아스카 키라라와 사생활 논란에 휩싸이며 더보이즈를 탈퇴했다. 한 매체는 주학년의 성매매 의혹을 제기하기도 했다. &lt;br&gt;&lt;br&gt;이와 관련 더보이즈 소속사 원헌드레드 차가원 회장은 18일 보도자료를 통해 “최근 당사 소속 아티스트 및 구성원과 관련된 여러 상황으로 인해 팬 여러분과 대중에게 깊은 심려를 끼쳐드린 점, 진심으로 사과드린다”고 밝혔다. &lt;br&gt;&lt;br&gt;차 회장은 “아티스트와 구성원의 사생활과 태도에 대한 관리가 미흡했던 점을 겸허히 받아들이고 있다”며 “이번 사안들을 통해 당사의 책임을 무겁게 인식하고 깊이 반성한다”고 했다. 이어 “아티스트의 사생활 및 태도 전반에 대한 관리 체계를 강화하고, 윤리 의식 제고를 위한 교육과 내부 시스템 정비에 힘쓰겠다”며 “앞으로는 아티스트의 활동뿐만 아니라 그를 둘러싼 모든 환경이 팬과 대중의 신뢰를 회복하고 유지할 수 있도록 더욱 책임 있는 자세로 임하겠다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>국정기획위 “노동 개혁 위해, 초기업 단위 교섭 필요”</title>
       <link>https://www.chosun.com/national/labor/2025/06/19/K5TKQZ65DZAZ5FH3L3TIGQZLFM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/labor/2025/06/19/K5TKQZ65DZAZ5FH3L3TIGQZLFM/</guid>
@@ -850,15 +868,6 @@
       <content:encoded>오동운 고위공직자범죄수사처장은 17일 더불어민주당이 검찰 개혁의 일환으로 국무총리실 산하에 국가수사위원회(국수위) 설치를 추진하는 데 대해 “법과 배치된다”고 말했다.&lt;br&gt;&lt;br&gt;오 처장은 이날 취임 후 첫 기자간담회를 열어 국수위 설치를 위한 국수위법과 공수처법의 충돌을 지적했다. 공수처법 3조는 공수처가 독립해 직무를 수행한다고 규정하면서, 대통령과 대통령비서실 공무원은 공수처 업무에 일절 관여할 수 없도록 하고 있다. 이를 근거로 오 처장은 “공수처는 대통령 지시로부터 독립돼 있다고 법에 명확하게 명시돼 있다”며 “현재 발의된 국수위법은 이와 배치되는 측면이 있다”고 말했다.&lt;br&gt;&lt;br&gt;지난 11일 장경태·김용민 등 민주당 의원들이 발의한 국수위법을 보면, 국수위가 검찰청을 폐지한 뒤 신설하려는 중대범죄수사청을 비롯해 공수처, 경찰, 해경 등을 총괄 지휘하게 돼 있다. 법이 시행되면 국수위는 이 수사기관들에 대한 감사와 감찰, 수사권 조정 등 ‘컨트롤타워’ 역할을 하게 된다. 특히 수사 과정과 결과가 적정했는지 여부를 심의하고, 수사 담당자 징계를 요구할 권한 등 막강한 권한이 주어진다.&lt;br&gt;&lt;br&gt;국수위가 대통령실 직속 기구는 아니지만, 위원 11명을 대통령이 임명하게 돼 있는 점 등을 고려할 때 대통령이 수사에 관여할 수 있다는 우려를 나타낸 것으로 풀이된다. 다만 오 처장은 “여러 수사기관이 생기면서 수사권 조정 문제는 국가적 과제가 됐다”며 “독립 수사기관이라는 공수처의 위상을 해치지 않는 범위 내에서 수사권 조정에 대한 논의가 있어야 한다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[입에 착착 붙는 일본어] 몸 마디마디가 아프다</title>
-      <link>https://www.chosun.com/national/nie/japanese/2025/06/18/XFLOXFJEU5AHLE7ZSGZHYK6Q3Q/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/japanese/2025/06/18/XFLOXFJEU5AHLE7ZSGZHYK6Q3Q/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Tue, 17 Jun 2025 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QWRFLJ4Z4JEV7PHZRRV4X47SAY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[매일매일 중국어 한마디] 해묵은, 여러 해가 지난</title>
       <link>https://www.chosun.com/national/nie/chinese/2025/06/18/2NHCOXVJFJEQZJYCR2UT4YHS2M/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese/2025/06/18/2NHCOXVJFJEQZJYCR2UT4YHS2M/</guid>
@@ -875,15 +884,6 @@
       <description/>
       <pubDate>Tue, 17 Jun 2025 15:34:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/V2L6QG7NGRG4FAQZFEM2IWEDAA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[스피킹이 강해지는 영어] a bed of roses</title>
-      <link>https://www.chosun.com/national/nie/english/2025/06/18/5MV4GNUT2RHRLCOEI7HL7JNFEE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/english/2025/06/18/5MV4GNUT2RHRLCOEI7HL7JNFEE/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Tue, 17 Jun 2025 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FXCZ2N4I4JEYNOQGDBEFA7JZZA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[신문으로 배우는 실용한자] 책가도(册架圖)</title>
