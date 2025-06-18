@@ -13,6 +13,27 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>방첩사 간부 “여인형 지시로 체포 명단 작성...경찰엔 전달하지 말라고 했다”</title>
+      <link>https://www.chosun.com/national/court_law/2025/06/18/FJDHMCCINFAWDBAQ6D46QZ5DOE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/18/FJDHMCCINFAWDBAQ6D46QZ5DOE/</guid>
+      <dc:creator>김은경 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 18 Jun 2025 11:28:39 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3FTGPTVCXJGOPCYLMP3UYTQ3YI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 서울중앙지법 청사/조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;12·3 비상계엄 당시 여인형 전 국군방첩사령관이 이재명·한동훈·우원식 등 정치인 체포 명단을 불러주며 ‘잡아서 이송하라’고 지시했다는 방첩사 간부의 법정 증언이 나왔다. &lt;br&gt;&lt;br&gt;서울중앙지법 형사25부(재판장 지귀연)는 18일 조지호 경찰청장과 김봉식 전 서울경찰청장 등 경찰 지휘부의 내란 중요임무 종사 등 혐의 재판을 열고 김대우 전 방첩사 수사단장(준장)의 증인 신문을 진행했다. 김 전 단장은 계엄 당시 여 전 사령관에게 경찰청 국가수사본부·국방부 조사본부 지원을 받아 계엄 사범 수사를 위한 합동수사단을 구성하라는 임무를 받은 인물이다. 이에 따라 방첩사 간부들에게 경찰에 국회 체포조 출동을 위한 지원 요청을 하라고 지시했다.&lt;br&gt;&lt;br&gt;김 전 단장은 “여인형 전 방첩사령관이 체포 명단을 불러주며 받아 적으라고 하고 수도방위사령부 B1 벙커로 이송하라고 지시했다”고 진술했다. 여 전 사령관이 ‘체포’하라고 했는지 묻는 검찰 질문에 “‘잡아서 이송하라’고 했다’”며 “체포해서 이송시키라는 뉘앙스로 알아들었다”고 답했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MWOD5D3SWD47Z44RIJZQNDHZPY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;답변하는 김대우 방첩사수사단장&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김 전 단장은 그 명단이 ‘계엄 사범’이라고 받아들였다고 했다. 체포 대상자의 혐의가 무엇인지 물었는데 여 전 사령관은 “나도 모른다”고 답했다고 했다.&lt;br&gt;&lt;br&gt;그는 이후 경찰 인력 지원이 늦어지면서 국회로 방첩사 수사관들만 출동시켰으나 ‘직접 체포하는 것은 절대 안된다’고 지시했다고 말했다. 그는 “(국회에서)경찰과 합류해 상황이 정리가 되고 해당되는 인원을 인계해주면, 수방사 B1벙커로 이송하는 업무만 수행하면 된다고 지시했다”고 했다. &lt;br&gt;&lt;br&gt;김 전 단장은 이후 수사관들이 출동한 뒤 여 전 사령관으로부터 ‘우원식, 한동훈, 이재명(체포)에 집중하라’는 지시를 들었다고 했다. 여 전 사령관은 앞서 체포가 아니라 주요 인사들의 위치를 확인하라는 지시를 했을 뿐이라고 주장한 바 있다. 김 전 단장은 “위치 추적 지시를 받은 적 없다”며 구금까지 지시를 받은 것이 맞는다고 증언했다. 다만 “(여 전 사령관이)‘경찰에 위치 확인 요청을 해야겠다’고 혼잣말처럼 하는 걸 들었다”고 했다. &lt;br&gt;&lt;br&gt;김 전 단장은 체포자 명단이 민감하단 생각이 들어 국수본과 전화로 소통한 구민회 전 방첩사 수사조정과장(중령)에게 ‘국수본에 명단을 알려주지 말라’고 지시했다고 했다. 구 전 과장은 김 전 단장 지시로 경찰청 국수본에 ‘합동수사본부를 구성하기 위해 수사관과 차량이 필요하다’고 요청한 인물이다.&lt;br&gt;&lt;br&gt;김 전 단장은 “새벽 1시 이후 다 해산했을 때 구 전 과장에게 ‘혹시 경찰에 (체포)명단을 불러준 적 있느냐’고 물었는데 얘기를 안했다고 보고 받았다”고 했다. 윤 전 조정관 측 변호인은 이에 “구 전 과장은 수사기관에서 경찰에게 명단을 불러줬다고 진술하고 있는데, 증인의 기억과 구 전 과장의 진술이 다른 것 아니냐”고 했다. 김 전 단장은 그렇다고 답했다. &lt;br&gt;&lt;br&gt;재판부는 이날 증인 신문을 마친 뒤 1심 구속기간(6개월) 만료를 앞둔 김 전 조정관의 보석에 관해 언급했다. 재판부는 “김봉식 피고인 구속 만료가 다음 달 8일인데 검찰 측에서 조건을 달고 직권보석을 요청했다”며 “다른 피고인들 구속 만료도 다가오고 있기 때문에 확인해보겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/MWOD5D3SWD47Z44RIJZQNDHZPY.jpg?auth=5dfd5f1e3efac696b2e37df2b1973a6f0efd4c8d972bacfe8dce0713028993c3&amp;smart=true&amp;width=720&amp;height=452" type="image/jpeg" height="452" width="720">
+        <media:description type="plain">답변하는 김대우 방첩사수사단장</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>법원 “기간제 근로자, 매년 공채 거쳤다면 2년 넘게 근무해도 정규직 아니다”</title>
+      <link>https://www.chosun.com/national/court_law/2025/06/18/AE6DF3EXNJCQPAGVKZPWLYCYE4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/18/AE6DF3EXNJCQPAGVKZPWLYCYE4/</guid>
+      <dc:creator>김나영 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 18 Jun 2025 11:18:54 +0000</pubDate>
+      <content:encoded>기간제 근로자가 매년 기간제 공개채용을 거쳤다면, 2년 넘게 근무했더라도 정규직으로 볼 수 없다는 법원 판단이 나왔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZYW56QFHN5ASRDOAYV7U5TDR6Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 중앙지법에서 법원 직원들과 민원인들이 오가고 있다./조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;18일 법조계에 따르면 서울고법 행정6-3부(재판장 백승엽)는 지난달 28일 A지방자치단체가 중앙노동위원회를 상대로 낸 부당해고구제재심판정 취소소송에서 원고 승소로 판결했다.&lt;br&gt;&lt;br&gt;기간제 근로자들은 2021년 채용시험에 합격해 지자체와 근로계약을 체결하고 행정실무원으로 근무했다. 근로계약을 체결하고 2022년 공채시험에도 다시 합격해 2022년 12월까지 2년간 근무했다. 그러나 이들은 2023년 채용시험에 탈락하면서 근로관계가 종료되자, “2년 이상 계속 근무했기 때문에 기간의 정함이 없는 근로계약을 체결한 것으로 간주돼야 한다”며 부당해고 구제를 신청했다. &lt;br&gt;&lt;br&gt;강원지방노동위원회는 이들의 구제신청을 기각했지만, 중앙노동위원회는 이를 뒤집고 지자체가 부당해고를 했다고 판단했다. 이에 불복한 해당 지자체는 소송을 냈다. 1심 법원도 중노위와 같은 판단을 내렸다.&lt;br&gt;&lt;br&gt;그러나 지자체 측은 채용이 서류 심사와 면접을 포함한 공개채용 절차를 통해 이루어진 점, 채용 당시 경쟁률이 최대 8대1에 이른 점, 채용공고와 근로계약서에 계약기간이 명시적으로 기재된 점 등을 근거로 해당 근로자들은 정규직 전환 대상이 아니라고 주장했다.&lt;br&gt;&lt;br&gt;그러나 항소심은 이를 뒤집고 이들 근로자가 정규직이 아니라고 봤다. 재판부는 “지자체와 근로자들은 채용절차를 통해 별도의 기간제 근로계약을 체결했다”며 “이는 기존 계약의 단순 반복이나 갱신이 아니라 새로운 근로관계가 형성된 것으로 평가할 수 있다”고 했다.&lt;br&gt;&lt;br&gt;사건을 대리한 법무법인 바른의 정상태 변호사는 “이번 판결은 실질적인 공개채용 절차가 입증된다면 근로계약이 단절돼 근무 기간이 2년을 초과하더라도 정규직 근로자로 간주하지 않는다는 판단 기준을 제시했다”고 말했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>대구시, 박정희 전 대통령 동상 추가 설치 사실상 포기</title>
       <link>https://www.chosun.com/national/national_general/2025/06/18/IO4RFJNISNGE7NUIJUVYO4FLL4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/18/IO4RFJNISNGE7NUIJUVYO4FLL4/</guid>
@@ -920,15 +941,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5ETUNAFZWNJB4CJ354AAY5G2AY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;축구 국가대표팀 주장 손흥민을 상대로 돈을 받아내려해 공갈 혐의를 받고 있는 양씨(왼쪽, 20대 여성)와 용씨(40대 남성)가 17일 서초구 서울중앙지방법원에서 열린 구속 전 피의자심문(영장심사)에 출석하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;축구 국가대표팀 주장 손흥민(33·토트넘 홋스퍼)의 아이를 임신했다고 주장하며 돈을 뜯어내려 한 남녀 일당 2명의 재판이 7월 시작된다.&lt;br&gt;&lt;br&gt;17일 법조계에 따르면 서울중앙지법 형사20단독 임정빈 판사는 오는 7월 10일 공갈 및 공갈미수 혐의를 받는 20대 여성 양모씨와 공범 40대 남성 용모씨의 첫 공판을 진행한다.&lt;br&gt;&lt;br&gt;양씨는 작년 6월 손흥민 측에 태아 초음파 사진을 보내며 아이를 임신한 사실을 폭로하겠다고 협박해 3억원을 갈취한 혐의를 받는다. &lt;br&gt;&lt;br&gt;양씨는 당초 손흥민이 아닌 다른 남성에게 임신 사실을 알리며 금품을 요구하려 했지만 별다른 반응이 없자 손흥민에게 금품을 요구한 것으로 조사됐다. 손흥민은 사회적 명성과 운동선수로서 커리어가 훼손될 것을 우려해 양씨에게 3억원을 건넨 것으로 파악됐다. &lt;br&gt;&lt;br&gt;이후 양씨는 임신 사실을 외부에 알리지 않겠다는 취지의 각서를 썼으나 지난 3월부터 5월까지 다시 손흥민에게 임신 사실을 폭로하겠다고 협박하며 7000만원을 추가로 갈취하려다 미수에 그친 혐의도 받는다. 양씨는 연인관계였던 용씨를 통해 손흥민을 두 번째로 협박한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;이들은 경찰 수사를 받던 지난달 17일 구속됐다. 당시 법원은 “증거를 인멸할 염려와 도망할 염려가 있다”며 구속영장을 발부했다. 검찰은 지난 10일 이들을 구속 상태로 재판에 넘겼다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>민중기 특검, 김여사 대면조사 필요성에 “이뤄지리라 생각”</title>
-      <link>https://www.chosun.com/national/court_law/2025/06/17/U65ZPPIAAJEMZPS5BHZQJU4SVU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/17/U65ZPPIAAJEMZPS5BHZQJU4SVU/</guid>
-      <dc:creator>김나영 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 17 Jun 2025 01:12:57 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DCWTQIOUXZIHBIHXMLJGMQ47LM.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령의 배우자 김건희 여사 의혹 관련 사건을 맡은 민중기 특별검사가 17일 오전 서울 서초구 사무실로 출근하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 전 대통령의 배우자인 김건희 여사를 둘러싼 의혹을 수사하는 민중기 특별검사가 17일 김 여사 대면조사 필요성을 묻는 질문에 “조사가 이루어지리라 생각한다”고 밝혔다.&lt;br&gt;&lt;br&gt;민 특검은 이날 오전 서울 서초구 사무실로 출근하며 “(김 여사 입원 소식을) 어제 저녁 언론을 통해 봤다. 특별검사보 임명이 되면 (조사 방향 등을) 차츰 논의해볼 것”이라고 했다. 김 여사 입원으로 특검 시기가 영향을 받을 수 있냐는 질문에는 “구체적인 수사 일정을 정하지 않았다”며 “준비 작업만 해도 벅찬 상황”이라고 했다.&lt;br&gt;&lt;br&gt;특검보 임명에 대해 민 특검은 “(대통령실에서) 검증 등 여러 절차가 진행 중인 걸로 알고 있다”며 “빠른 시일 내에 임명될 것으로 기대한다”고 밝혔다. 민 특검은 지난 15일 특검보 후보 8명을 대통령실에 추천했다. 후보엔 문홍주 전 부장판사를 비롯해 검찰 출신인 김형근·박상진·오정희 변호사가 포함된 것으로 전해졌다. 추천 기준에 대해선 “수사 경험이나 역량, 전문성에 주안점을 두고 얘기를 나눴다”고 했다. &lt;br&gt;&lt;br&gt;민 특검은 특검보가 임명되는 대로 김 여사가 받는 여러 의혹 중 우선적으로 수사할 의혹을 정하고, 고위공직자범죄수사처(공수처) 등 관련 기관에 함께 방문할 방침이라고 설명했다.&lt;br&gt;&lt;br&gt;한편 파견 검사와 조사관 등 수사 인력의 명단도 만들어지고 있다. 민 특검은 “지금 파견 검사와 조사관들의 추천을 받는 명단을 작성 중”이라며 “관련 기관을 곧 방문한 후에 명단을 특정할 계획”이라고 했다. 변호사 특별수사관에 대해서는 “대한변협에 채용공고를 알릴 예정”이라고 했다.&lt;br&gt;&lt;br&gt;사무실 선정에 대해서는 “최종 두 군데를 두고 협의 절차가 진행 중으로, 곧 정해질 것”이라고 설명했다. 민 특검은 또 “수사 대상과 범위가 상당히 넓어 수사팀이 제대로 감당할 수 있을지 그 부분이 걱정”이라며 “최대한 역량을 발휘할 수 있도록 지원할 예정”이라고 덧붙였다.&lt;br&gt;&lt;br&gt;민 특검은 20일 내에 특검보 임명, 검사 파견, 사무실 마련 등 준비 작업을 마친 뒤 본격적인 수사에 돌입한다. 수사 기간은 최장 150일이며, 특검보 4명·파견검사 40명·파견공무원 80명·특별수사관 80명을 둘 수 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>대북 전단 등 담은 풍선 날린 혐의… 강화署, 40대 남성 입건</title>
       <link>https://www.chosun.com/national/incident/2025/06/17/T6WT7J6T2NBJDIJAJIV4CUDHCM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/06/17/T6WT7J6T2NBJDIJAJIV4CUDHCM/</guid>
@@ -936,15 +948,6 @@
       <description/>
       <pubDate>Tue, 17 Jun 2025 00:40:42 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SJSQUEYPAUH5GRQZ3ZIFR62VUQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;인천 강화경찰서./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천 강화도에서 대북 전단 풍선을 날린 혐의를 받는 40대 남성이 경찰에 붙잡혔다. &lt;br&gt;&lt;br&gt;강화경찰서는 항공안전법 위반 혐의로 40대 A씨를 입건해 조사하고 있다고 17일 밝혔다. A씨는 애초 경찰이 전날 오후 서울에서 임의동행 한 것으로 알려졌으나, 경찰의 출석 요구를 받고 자진출석 한 것으로 파악됐다. &lt;br&gt;&lt;br&gt;A씨는 지난 13일 심야 시간대 인천 강화도에서 대북 전단 등을 담은 풍선 등을 날린 혐의를 받는다. &lt;br&gt;&lt;br&gt;경찰은 지난 14일 0시 40분쯤 강화군 하점면에서 “대형 풍선이 떨어졌다”는 112 신고를 받고 수사에 나섰다. 이날 오전 8시 10분쯤 강화군 양사면에서도 대형 풍선 발견됐다는 신고가 접수됐다. 풍선엔 대북 전단과 한국드라마, 음악 등이 담긴 이동식 저장장치(USB), 과자류 등이 매달려 있었다고 한다. &lt;br&gt;&lt;br&gt;A씨는 자신의 혐의에 대해 인정하는 것으로 파악됐다. A씨는 종교 단체 소속으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰은 A씨를 상대로 정확한 범행 동기 등을 조사할 예정이다. 재난안전법 위반, 고압가스안전관리법 위반 혐의 적용 가능성에 대해서도 살필 계획이다. A씨에 대한 수사는 인천경찰청으로 이관돼 진행된다. &lt;br&gt;&lt;br&gt;경찰은 풍선 살포에 가담한 인원이 A씨를 포함해 10명에 달하는 것으로 보고 추가 수사를 진행할 방침이다. &lt;br&gt;&lt;br&gt;한편 강화경찰서는 강화대교와 초지대교 등 육지와 강화도가 연결된 다리는 물론, 강화도 내 석모도, 교동도와 연결된 석모대교, 교동대교 등 주요 교량과 대북 전단 살포를 예상할 수 있는 지역 등을 중심으로 검문 검색을 강화한 상태다. 대북 전단 등 물품을 실을 수 있는 1t 소형 트럭 등이 주요 검문 대상인 것으로 알려졌다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>변협, 내란 특검보 후보에 박억수·김형수·윤태윤 추천</title>
-      <link>https://www.chosun.com/national/court_law/2025/06/17/OMWRCNXQCJFLPEE6SSTT4JM62E/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/17/OMWRCNXQCJFLPEE6SSTT4JM62E/</guid>
-      <dc:creator>이민준 기자, 유희곤 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 17 Jun 2025 01:07:10 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/X2J63ZJKJ3H3OESRCNERF35NLI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;조은석 특별검사. / 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대한변호사협회가 윤석열 전 대통령의 내란과 외환 혐의 등을 수사할 조은석 특별검사팀의 특별검사보로 박억수·김형수·윤태윤 변호사를 추천한 것으로 17일 전해졌다.&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 대한변협은 지난 14일 조 특검의 요청을 받고 지방변호사회 등의 의견을 수렴해 조 특검에게 추천할 특검보 후보자 3명을 확정했다.&lt;br&gt;&lt;br&gt;박 변호사는 전남 구례 출신으로 광주 석산고와 고려대 법대를 졸업했다. 사법연수원 29기 수료 후 2003년부터 검사 생활을 시작해 대검찰청 공판송무과장, 서울남부지검 형사3부장, 전주지검 군산지청장, 대검찰청 인권정책관을 역임했다. 2023년 9월 검찰을 떠나 변호사로 개업했다.&lt;br&gt;&lt;br&gt;김 변호사는 전남 장흥 출신으로 광주고, 성균관대 법대를 졸업했다. 사법연수원 30기를 수료하고 공익법무관을 거쳐 2004년부터 검사 생활을 했다. 대검찰청 형사1과장, 서울중앙지검 형사6부장·형사2부장, 서울북부지검 차장검사와 부산지검 동부지청장을 지낸 후 작년부터 변호사 생활을 하고 있다. &lt;br&gt;&lt;br&gt;윤 변호사는 변호사시험(2회) 출신이고 대한변협 감사를 지냈다.&lt;br&gt;&lt;br&gt;내란 특검 특검보는 총 6명을 둘 수 있다. 특검이 판사·검사·변호사 등을 7년 이상 한 사람 중 후보자 8명을 선정해 요청하면, 대통령은 5일 이내에 특검보 6명을 임명해야 한다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>경찰·노동부, ‘근로자 사망’ 관련 SPC 압수수색…4번째 신청 만에 압색 영장 발부</title>
