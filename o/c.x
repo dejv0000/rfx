@@ -13,6 +13,55 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>대구시, 박정희 전 대통령 동상 추가 설치 사실상 포기</title>
+      <link>https://www.chosun.com/national/national_general/2025/06/18/IO4RFJNISNGE7NUIJUVYO4FLL4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/18/IO4RFJNISNGE7NUIJUVYO4FLL4/</guid>
+      <dc:creator>대구=노인호 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 18 Jun 2025 09:10:35 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QLKNUIRA7FC6JCNX52VMRXUPTA.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;대구시가 박정희 전 대통령 동상 추가 설치 계획을 사실상 포기했다. 사진은 지난해 12월 동대구역에서 열린 박 전 대통령 제막식현장에서 동상 건립에 찬성하는 보수단체와 반대하는 단체 회원 등이 경찰을 사이에 두고 대치하고 있는 모습./김동환 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대구시가 박정희 전 대통령 동상 추가 건립 계획을 사실상 철회했다. 대구시는 작년 12월 동대구역 광장에 박 전 대통령 동상을 세운 데 이어 오는 10월 개관 예정인 대구대표도서관에도 동상을 만들기로 했으나 최근 작가와 계약을 해지한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;18일 대구시 등에 따르면, 시는 최근 내부 논의를 거쳐 동상 건립 계획을 백지화했다. 대구시 관계자는 “동상 건립을 추진했던 홍준표 시장이 대선 출마 때문에 물러나 사업을 추진할 동력이 없다”고 했다.&lt;br&gt;&lt;br&gt;홍 전 시장은 작년 5월 ‘박정희 대통령 기념사업 지원 조례’를 제정하고 동상 건립 사업을 추진했다. 작년 12월 동대구역 광장에 6억원을 들여 높이 3m 크기의 동상을 세웠고 대구대표도서관에는 이보다 큰 6m 동상을 세우기로 했었다.&lt;br&gt;&lt;br&gt;그러나 대구 지역 시민단체들을 중심으로 철거 요구가 잇따랐다.&lt;br&gt;&lt;br&gt;동대구역 동상 제막식 때는 동상 설치에 찬성하는 시민 100여 명과 반대하는 시민 100여 명이 동시에 집회를 열어 경찰 400여 명이 출동했다. 이 때문에 대구시는 동상 옆에 공무원을 배치하기도 했다.&lt;br&gt;&lt;br&gt;대구 지역 시민단체 등은 지난 4월 주민 1만4485명의 서명을 받아 대구시의회에 ‘박 대통령 기념사업 지원 조례 폐지안’을 냈다. 폐지안이 본회의를 통과하면 동상을 세울 법적 근거가 사라진다.&lt;br&gt;&lt;br&gt;앞서 동대구역 광장에 설치한 박 전 대통령 동상의 운명도 법원에 달렸다. 동대구역 소유·관리자인 국가철도공단이 지난 1월 동상을 철거하라며 법원에 소송을 냈기 때문이다. 첫 재판이 다음 달 3일 열린다. &lt;br&gt;&lt;br&gt;국가철도공단은 “대구시가 소유주인 공단과 협의도 없이 일방적으로 동상을 설치했다”고 주장하고 있다. 대구시는 “광장은 그동안 사실상 대구시가 관리해왔다”는 입장이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>경북 전통주와 종가음식, 안동에 모두 모여</title>
+      <link>https://www.chosun.com/national/national_general/2025/06/18/63TAFJQ76VC2TFNMQURYR3JHM4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/18/63TAFJQ76VC2TFNMQURYR3JHM4/</guid>
+      <dc:creator>안동=이승규 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 18 Jun 2025 08:54:28 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WPQ6Q73Y5XXAAGSTESKCKCXAHQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경북도는 오는 6월 20일~22일까지 안동 월영공원 일원에서 ‘2025 경북 전통주&amp;종가음식 문화대축전’을 개최한다./경북도&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경북 안동시에서 경북 지역의 전통술과 음식을 맛볼 수 있는 축제가 열린다.&lt;br&gt;&lt;br&gt;경북도는 오는 20일부터 22일까지 안동 월영공원 일대에서 ‘2025 경북 전통주·종가음식 문화대축전’을 연다고 18일 밝혔다.&lt;br&gt;&lt;br&gt;올해로 4회째를 맞는 이 축제는 경북의 전통주와 종가 음식을 알리고 새로운 관광 자원으로 만들어보자는 취지다. 안동소주를 비롯해 경북을 대표하는 전통주와 명인(名人)주, 도내 16개 종가(宗家)의 음식을 맛볼 수 있다. 오는 10월 경주에서 예정된 아시아태평양경제협력체(APEC) 정상회의 참가국의 전통술도 전시한다.&lt;br&gt;&lt;br&gt;16개 종가의 종부(宗婦·종가 며느리)들에게 음식 조리법을 배우고, 직접 시식해보는 ‘종가 음식 쿠킹 클래스’, 전통주를 빚을 때 사용하는 누룩 밟기, 한복 예절 등 체험 프로그램도 진행된다.&lt;br&gt;&lt;br&gt;이 밖에도 바텐더들이 각자의 술맛을 겨루는 칵테일 경연 대회, 외국인 유학생들이 술 관련으로 이야기를 나누는 ‘술상회담’, 전통주 관련 궁금증을 풀어주는 ‘술술 토크쇼’, 전통주 경매 행사도 준비돼 있다.&lt;br&gt;&lt;br&gt;김병곤 경북도 문화관광체육국장은 “경북의 전통 문화 자산인 전통주와 종가 음식을 경쟁력 있는 관광 상품으로 만들겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[단독] 검찰 내 금융·선거 범죄 전문가 4명 ‘김건희 특검팀’ 합류</title>
+      <link>https://www.chosun.com/national/court_law/2025/06/18/XQUWPCFKAFGBTJE7CFJO3P5PD4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/18/XQUWPCFKAFGBTJE7CFJO3P5PD4/</guid>
+      <dc:creator>김희래 기자, 양은경 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 18 Jun 2025 08:22:46 +0000</pubDate>
+      <content:encoded>윤석열 전 대통령 부인 김건희 여사 관련 의혹을 수사할 ‘김건희 특검팀’에 검찰 내 금융·선거수사 전문가들이 다수 합류할 예정인 것으로 전해졌다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6RHOX4JJTBO6PEBIC6EJYTKJZI.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령의 부인 김건희 여사 의혹 관련 수사를 맡은 민중기 특별검사. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;18일 본지 취재를 종합하면, 채희만 대검찰청 반부패2과장(사법연수원 35기), 송봉준 대검 선거수사지원과장(36기), 정선제 부산지검 서부지청 형사 3부장(37기), 인훈 울산지검 형사 5부장(37기) 등 중간간부급 검찰 인사 4명이 ‘김건희 특검팀’에 합류할 것으로 전해졌다.&lt;br&gt;&lt;br&gt;이들은 검찰 내에서 금융수사와 선거범죄 수사 전문가로 분류된다. 향후 ‘김건희 특검팀’이 김 여사의 도이치모터스 주가조작 의혹, 공천 개입 의혹 등을 수사할 때 참여할 것으로 보인다. &lt;br&gt;&lt;br&gt;채 과장은 2022년 7월 서울남부지검 금융조사2부장을 지내며 금융증권 범죄를 다수 수사했고, 2023년 9월 금융위원회 자본시장조사단에서 파견 근무한 이력도 있다. 작년 6월부터 대검 반부패2과장으로 재직중이다. 연수원 기수를 고려할 때 채 과장이 특검 수사팀장을 맡을 가능성이 높다.&lt;br&gt;&lt;br&gt;송 과장은 2016년 8월 법무부 공안기획과 검사로 근무했고, 2022년 7월 부산지검 동부지청 형사3부장을 맡아 금융경제범죄를 수사한 경험이 있다. 2023년 9월에는 대전지검 형사4부장으로 있으면서 공안, 반부패 사건을 두루 수사했고, 작년 6월부터 대검 선거수사지원과장으로 근무중이다.&lt;br&gt;&lt;br&gt;정 부장은 2022년 2월부터 2024년 4월까지 한국거래소에 파견돼 금융증권범죄 수사 역량을 쌓았다. 2024년 2월에는 금융조세범죄를 전담하는 서울동부지검 형사5부에서 부부장을 지내기도 했다.&lt;br&gt;&lt;br&gt;인 부장은 울산지검 형사 5부장으로 지난해 11월부터 창원지검 ‘명태균 전담수사팀’에 파견돼 관련 의혹의 수사 실무를 맡고 있다. ‘김건희 특검팀’이 김 여사를 둘러싼 여러 의혹을 두루 수사하는 만큼 정치 브로커 명태균씨의 공천 개입 및 여론조사 무상 제공 의혹 등을 수사하는 데 참여할 것으로 보인다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>권익위 “장기복용 약값도 실손의료보험으로 보장하라” 권고</title>
+      <link>https://www.chosun.com/politics/goverment/2025/06/18/FGAAVOYP5NAJ3IRUICMA2TH5IA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/politics/goverment/2025/06/18/FGAAVOYP5NAJ3IRUICMA2TH5IA/</guid>
+      <dc:creator>김경필 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 18 Jun 2025 08:21:52 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VNDMHAPWPNNUPPGTNBDE46PPYE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;국민권익위원회 박종민 부위원장 겸 사무처장이 18일 오전 정부세종청사에서 ‘실손의료보험 장기 처방 조제비 실질적 보상 방안’에 관해 설명하고 있다. /국민권익위원회&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국민권익위원회는 18일 실손의료보험이 장기적으로 약을 복용하는 만성 질환자의 약값도 보장하도록 하라고 금융위원회와 금융감독원에 권고했다.&lt;br&gt;&lt;br&gt;실손의료보험은 건강보험 가입자가 병·의원을 이용하면서 발생한 진료비와 약제비 가운데 가입자 본인 부담금의 최대 90%를 보험금으로 지급하는 민간 보험 상품으로, 건강보험을 보충하기 위한 제도로 도입돼 있다. 2023년 말 기준 국민 3997만명이 실손의료보험에 가입해 있다.&lt;br&gt;&lt;br&gt;박종민 권익위 부위원장 겸 사무처장은 이날 정부세종청사 브리핑에서 “그러나 실손의료보험은 입원 치료 보장과 통원 치료 보장 간에 현격한 차이가 존재한다”며 “입원 치료 보장은 연간 5000만원 한도로 각종 수술비·치료비·원내 처방 조제비는 물론 퇴원 시에 처방받은 약제비까지 폭넓게 보장하는 반면, 통원 치료 보장은 10만~30만 원의 일당 보장 한도 내에서 외래 진료비와 처방 조제비를 합산해 보장하고 있다”고 지적했다.&lt;br&gt;&lt;br&gt;박 부위원장은 “이러한 구조적 한계로 인해, 당뇨나 고혈압과 같이 꾸준한 약물 치료가 필수적인 만성 질환자의 경우, 통원일당 보장 한도를 초과하는 장기 처방 조제비에 대한 보장이 사실상 어려운 실정”이라고 했다.&lt;br&gt;&lt;br&gt;실손의료보험 가입자가 만성 질환을 갖고 있어 병원을 방문해 한번에 여러 달치 약을 처방받고 약국에서 약을 타 가는 경우, 약값이 10만원을 넘어가는 경우가 생기는데, 그러다 보면 실손의료보험이 통원 치료 하루당 보장하는 의료비 상한을 넘어가서 나머지는 가입자가 자비로 부담해야 하는 경우가 생긴다는 것이다.&lt;br&gt;&lt;br&gt;실제로 권익위가 조사해 보니, 한 달치 이상의 장기로 약을 처방받은 국민의 절반 이상이 약값이 10만원을 웃돌았고, 이로 인해 약 44%는 실손의료보험 하루 보장 한도를 넘겨 차액을 자비로 부담해야 했던 것으로 나타났다. 의료실비보험 보장을 다 받기 위해 병원을 여러 날 방문해 ‘쪼개기 처방’을 받기도 하는 것으로 조사됐다.&lt;br&gt;&lt;br&gt;이에 대해 권익위는 실손의료보험에 ‘장기 처방 조제비’ 보장 항목을 별도로 만들라고 권고했다. 한 번에 30일치 넘는 약을 처방받는 경우, 약값이 실손의료보험 하루 보장 한도를 넘기더라도 장기 처방 조제비 연간 한도 내에서 보장을 받을 수 있도록 하라는 것이다.&lt;br&gt;&lt;br&gt;이와 별도로 권익위는 ‘노후·유병력자 전용 실손의료보험’에 대한 표준 약관도 마련하라고 권고했다. 박 부위원장은 “초고령 사회로의 진입이 가속화됨에 따라 다수의 보험사가 판매 중인 노후·유병력자 전용 실손의료보험은 현재 금융 당국의 표준 약관이 없어 가입 연령 기준이 보험사별로 상이하거나, 만성 질환자를 주 대상으로 하는 유병력자 실손의료보험에서 통원 치료 처방 조제비를 보장하지 않는 등 소비자 권익 보호가 미흡하다”고 지적했다.&lt;br&gt;&lt;br&gt;박 부위원장은 이번 권고에 대해 “당뇨, 고혈압, 관절염 등 만성 질환은 꾸준한 약물 치료가 제대로 이뤄지지 않을 경우 중증 질환으로 악화될 수 있고, 이는 국민 건강뿐 아니라 건강보험 및 실손의료보험의 재정 악화로 이어질 수 있다”며 “만성 질환자에 대한 약제비 보장을 강화해야 국민 건강이 증진되고 사회적 비용도 절감된다”고 했다. 또 “노후·유병력자 전용 실손의료보험에 정부가 명확한 설계 기준을 제시함으로써 보험 계약자의 권익을 보호하고, 급변하는 보험 환경 변화에 적극 대응할 수 있는 제도적 기반이 마련될 수 있다”고 했다.&lt;br&gt;&lt;br&gt;금융위와 금감원은 권익위 권고를 수용해, 오는 11월까지 관련 내용을 ‘보험업감독규정’과 ‘보험업감독업무시행세칙’에 반영하기로 했다고 권익위는 밝혔다.&lt;br&gt;&lt;br&gt;다만 이번 권익위 권고로 실손의료보험 가입자들이 곧바로 장기 처방 조제비 보장 혜택을 받게 되는 것은 아니다. 금융위와 금감원이 관련 규정을 고치고 이를 바탕으로 민간 보험사를 감독하면, 민간 보험사가 앞으로 내놓는 실손의료보험 상품의 계약 내용에 장기 처방 조제비 보장이 반영될 수 있다. 기존 가입자의 계약에는 반영되지 않는다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“前 AV배우와 사적 만남“…韓아이돌 멤버, 팀 탈퇴</title>
+      <link>https://www.chosun.com/national/people/2025/06/18/XWRGM6OZRZAHHC6OXCCULIBMPM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/06/18/XWRGM6OZRZAHHC6OXCCULIBMPM/</guid>
+      <dc:creator>정아임 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 18 Jun 2025 08:29:36 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VI2DMZTBTQTEQFUF6PBRMULZDY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;더보이즈 멤버 주학년./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그룹 더보이즈 멤버 주학년이 사생활 문제로 팀에서 탈퇴한다. &lt;br&gt;&lt;br&gt;소속사 원헌드레드는 18일 공식입장을 통해 “더보이즈 멤버들과의 충분한 논의를 거쳐 주학년의 팀 탈퇴 및 전속계약 해지를 최종 확정했다”고 밝혔다.&lt;br&gt;&lt;br&gt;이날 뉴스1 보도에 따르면 주학년은 지난 5월 말 일본 도쿄 한 프라이빗 술집에서 전 AV 배우 아스카 키라라와 만났다. 아스카 키라라는 2007년 AV 배우로 데뷔해 2020년 은퇴한 후 현재 인플루언서로 활동하고 있다.&lt;br&gt;&lt;br&gt;이 매체는 일본 매체 주간문춘 질의서를 입수해 주학년이 지난달 29일 밤 평소 알고 지내던 일본 지인들과 함께 롯폰기의 술집을 방문했으며, 다음 날 새벽까지 머문 술자리에서 아스카 키라라와 포옹하는 모습 등이 포착됐다고 전했다.&lt;br&gt;&lt;br&gt;앞서 원헌드레드는 지난 16일 주학년이 개인적인 사정으로 인해 팀 활동 중단한다고 발표했는데, 사생활 관련 보도가 나오자 입장을 팀 탈퇴로 바꾼 것이다.&lt;br&gt;&lt;br&gt;원헌드레드는 “최근 주학년이 사생활 이슈에 연루됐다는 내용을 전달받은 즉시 활동 중단 조치를 취했으며, 사실 관계를 면밀히 확인하는 시간을 가졌다”며 “그 결과 해당 사안의 심각성을 무겁게 받아들였고, 아티스트로서 신뢰를 이어가기 어려운 상황임을 명확히 인지했다”고 밝혔다.&lt;br&gt;&lt;br&gt;이어 “이번 결정은 더보이즈 멤버들과 팀의 보호를 위한 불가피한 조치임을 깊이 양해 부탁드린다. 주학년은 금일부로 더보이즈 멤버로서의 모든 활동을 종료하게 됐다”고 덧붙였다.&lt;br&gt;&lt;br&gt;그러면서 “원헌드레드는 앞으로 남은 더보이즈 멤버들이 흔들림 없이 건강하게 활동할 수 있도록 모든 지원과 노력을 아끼지 않겠다. 다시 한번 팬 여러분께 심려를 끼쳐드린 점 진심으로 사과드리며, 앞으로 더 좋은 활동 소식으로 보답할 수 있도록 최선을 다하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/PGOQWOWQVJDAVLGXX4X5IMSTE4.JPG?auth=f7cf74d3bc573c2d9dd2f98789ef73b1cf0a8fba0627141807787e5710284481&amp;smart=true&amp;width=890&amp;height=667" type="image/jpeg" height="667" width="890">
+        <media:description type="plain">더보이즈 주학년 2021.12.2/뉴스1 ⓒ News1 권현진 기자</media:description>
+        <media:credit role="author" scheme="urn:ebu">뉴스1 ⓒ News1 권현진 기자</media:credit>
+      </media:content>
+    </item>
+    <item>
       <title>“펜션 업계 바뀌어야“...뒷정리 논란에 현직 업주 소신 발언 화제</title>
       <link>https://www.chosun.com/national/national_general/2025/06/18/SJLOSV2DYBAKFFVPL5FW36A3YQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/18/SJLOSV2DYBAKFFVPL5FW36A3YQ/</guid>
@@ -787,15 +836,6 @@
       </media:content>
     </item>
     <item>
-      <title>교비 유용 의혹 받는 충북도립대 교수들... ‘보직 해임’</title>
-      <link>https://www.chosun.com/national/regional/chungcheong/2025/06/17/WYHE3XDULVAFJJDBGUFXYQUFWI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2025/06/17/WYHE3XDULVAFJJDBGUFXYQUFWI/</guid>
-      <dc:creator>신정훈 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 17 Jun 2025 05:53:40 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/67BK4DY4NREOHCBSYTS362N7I4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;충북도립대 전경/충북도립대 홈페이지&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;교비 유용 의혹으로 논란이 된 연수에 참가한 충북도립대 교수들이 전원 보직 해임됐다.&lt;br&gt;&lt;br&gt;17일 충북도 등에 따르면 도립대는 전날 교학처장 겸 평가총괄추진단장, 기획협력처장, 산학협력단장, 교수학습지원센터장을 맡은 교수 4명을 보직 해임했다.&lt;br&gt;&lt;br&gt;김용수 도립대 총장과 이들 일행은 지난 2월 4박 5일간 진행한 제주 연수에서 5성급 호텔에 묵는 등 연수비로 5000만원이나 지출하면서 교비 유용 의혹이 일었다. &lt;br&gt;&lt;br&gt;대학 측은 이 연수에 10여 명이 참여한 것처럼 서류를 꾸민 의혹도 받는다.&lt;br&gt;&lt;br&gt;국무조정실 감찰에서 이 같은 의혹이 제기되면서 충북도는 자체 감찰에 나섰고, 경찰도 이를 수사하고 있다. &lt;br&gt;&lt;br&gt;당시 김 총장은 공적 활동인 연수에 배우자도 함께 동반했던 것으로 전해졌다. 그는 지난달 직위해제됐다. &lt;br&gt;&lt;br&gt;충북도는 경찰 수사와 별개로 자체 감찰이 끝나는 대로 그 결과에 따라 김 총장에 대한 징계 절차에 착수할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>세상에 이런 일이... ’74세' 임성훈 51년 만에 연세대 응원단장된 근황</title>
       <link>https://www.chosun.com/national/people/2025/06/17/HTLES5ZR3RHHZDPVPHCY2GY6DY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/people/2025/06/17/HTLES5ZR3RHHZDPVPHCY2GY6DY/</guid>
@@ -826,15 +866,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JUYE7ZGYGNX3MHXAT23W324ILM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;조은석 특별검사./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘12·3 비상계엄' 수사를 맡은 조은석 특별검사는 17일 특별검사보 후보 8명의 임명을 인사혁신처에 요청했다고 밝혔다. 이재명 대통령은 오는 22일까지 특검보 6명을 임명해야 한다.&lt;br&gt;&lt;br&gt;조 특검은 특검보 후보 추천에 앞서 검찰에 파견 검사 9명을 요청했다. 김종우 서울남부지검 2차장, 장준호 춘천지검 차장과 최순호 서울중앙지검 형사3부장, 김정국 수원지검 형사4부장, 국원 부산지검 반부패수사부장, 박향철 서울서부지검 식품의약조사부장, 조재철 서울남부지검 형사5부장, 박지훈 서울북부지검 형사5부장, 최재순 대검 범죄정보2담당관 등 9명이다.&lt;br&gt;&lt;br&gt;김종우 차장검사와 최순호·최재순 부장검사는 작년 12월부터 검찰 비상계엄 특별수사본부에서 내란 수사를 이끌었다. 최순호·최재순 부장검사는 2016년 ‘최순실 국정 농단 특검’에도 파견됐다. 이 밖에도 반부패 범죄나 금융 범죄 수사 경력을 가진 검사들이 많다.&lt;br&gt;&lt;br&gt;조 특검은 최대 267명으로 구성될 특검의 사무실로 서울고검을 쓰겠다고 요청하기도 했다. 보안 문제 때문에 상업용 건물에선 수사가 불가능하다는 입장이라고 한다. 이에 따라 서울고검은 이날 청사 9층과 12층을 비웠고, 추가로 사용할 수 있는 공간도 마련 중인 것으로 전해졌다. 김종우 차장 등 기존에 서울고검 사무실을 사용하던 파견 검사들은 이날부터 특검 업무에 착수한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;한편 해병대원 수사 외압 의혹을 수사할 이명현 특검도 이날 중으로 특검보 후보 8명을 추려 대통령실에 명단을 제출할 예정이다. 이 특검은 ‘군 법무관 출신을 우선적으로 추천했느냐’는 질문에는 “관계되는 분이 많기 때문에 그렇게 할 예정”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>‘43억 횡령 혐의’ 황정음 “사유재산 처분해 모두 갚았다”</title>
-      <link>https://www.chosun.com/national/national_general/2025/06/17/KOSCG3PIL5H4XPOMJJCM7VN4VU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/17/KOSCG3PIL5H4XPOMJJCM7VN4VU/</guid>
-      <dc:creator>이가영 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 17 Jun 2025 04:48:21 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LXXHN3H32FRI2XFZ64IRFJAD24.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;배우 황정음. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;배우 황정음(40)이 횡령 혐의를 받는 가족 법인회사 공금을 모두 갚았다고 밝혔다. &lt;br&gt;&lt;br&gt;황정음의 소속사 와이원엔터테인먼트는 17일 “황정음은 훈민정음엔터테인먼트로부터 가지급금 형태로 사용했던 전액을 본인의 사유재산 등을 처분해 지난 5월 30일과 6월 5일 두 차례에 걸쳐 모두 변제했다”며 “이에 따라 훈민정음엔터테인먼트와 황정음 간 금전적 관계는 모두 해소되었다”고 밝혔다. &lt;br&gt;&lt;br&gt;소속사는 “전문 경영인이 아닌 1인 법인의 소유주로서 적절한 세무 및 회계 지식이 부족했던 점으로 인해 물의를 일으킨 데 대해 황정음은 깊이 반성하고 있다”며 “본 사건의 조속한 해결을 위해 필요한 모든 법적‧도의적 조치를 성실히 이행하고 있다”고 밝혔다. 이어 “다시 한번 심려를 끼쳐드린 점 진심으로 사과드리며 앞으로는 사소한 부분까지도 전문가의 도움을 받아 더욱 세심하고 책임감 있는 자세로 임해 신뢰를 회복할 수 있도록 하겠다”고 했다. &lt;br&gt;&lt;br&gt;황정음은 2022년쯤 자신이 100% 지분을 소유하고 있는 가족 법인 훈민정음엔터테인먼트 자금 43억4000여 만원을 횡령한 혐의로 기소됐다. 이 중 42억원을 가상 화폐에 투자한 것으로 파악됐다. &lt;br&gt;&lt;br&gt;지난달 15일 제주지법 형사2부는 황정음에 대한 첫 공판을 열었다. 황정음 측은 공소사실을 모두 인정했다. 황정음의 변호인은 “회사를 키워보려는 생각으로 코인에 투자하게 됐다. 법인이 코인을 보유할 수 없어 일시적으로 본인 명의로 하게 되면서 이 사건 범행에 이르게 됐다”며 “해당 기획사 수익은 황정음 활동에서 발생하기에 궁극적으로는 황정음에게 귀속되는 사정이 있다”고 설명했다. 이어 “코인을 매도해 일부 피해액을 변제했고, 나머지 부동산도 매각해 변제할 예정인 점을 참작해 달라”고 했다. &lt;br&gt;&lt;br&gt;황정음에 대한 2차 공판은 8월 중 열릴 예정이다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>금요일 전국 장마 시작…호우경보급 물폭탄 예고</title>
       <link>https://www.chosun.com/national/transport-environment/2025/06/17/4MTUDOFM4JBBHPFO74GYMPTZH4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/06/17/4MTUDOFM4JBBHPFO74GYMPTZH4/</guid>
@@ -860,15 +891,6 @@
       <description/>
       <pubDate>Tue, 17 Jun 2025 02:19:38 +0000</pubDate>
       <content:encoded>더불어민주당이 수사 제도 개편을 위해 국무총리실 산하에 국가수사위원회(국수위) 설치를 추진하는 데 대해 오동운 고위공직자범죄수사처장이 17일 “공수처법과 배치되는 측면이 있다”며 우려를 표했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AYJ4L2XXDZP7NNYMGRQFZEO5I4.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;오동운 고위공직자범죄수사처장이 취임 1주년을 맞은 17일 오전 경기 과천 정부청사에서 열린 공수처 출입기자단 간담회에서 모두발언을 마친 후 자리로 향하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;오 처장은 이날 기자간담회에서 “국수위 설치가 확정된 것은 아니지만, 공수처는 법상 대통령 지시로부터 독립돼 있다고 명확하게 명시돼 있다”며 “배치되는 측면이 있다”고 했다. 장경태‧김용민 등 민주당 의원들이 11일 발의한 ‘국가수사위 설치·운영에 관한 법률안’에 따르면, 국수위는 국무총리실 산하에 설치되고, ‘수사기관 간 수사권 조정’ ‘수사에 대한 통제’ ‘수사 절차상 국민주권주의의 실현’ 등을 목적으로 한다. 이를 위해 검찰청 폐지와 함께 신설되는 중대범죄수사청(중수청)과 고위공직자범죄수사처(공수처), 경찰청 등 수사기관에 대한 감사와 감찰, 수사 심의, 수사권 조정 등 막대한 권한을 부여하는 것이 법안의 골자다.&lt;br&gt;&lt;br&gt;그러나 공수처법 제3조2항은 ‘수사처는 그 권한에 속하는 직무를 독립하여 수행한다’고 규정한다. 또 같은 법 3항은 ‘대통령, 대통령비서실의 공무원은 수사처의 사무에 관하여 업무보고나 자료제출 요구, 지시, 의견제시, 협의, 그 밖에 직무수행에 관여하는 일체의 행위를 하여서는 아니 된다’고 명시한다. 직접적으로 대통령실 산하에 국수위가 설치되는 것은 아니지만, 실질적으로 대통령실이 관여할 수 있다는 점을 우려한 것으로 풀이된다. 다만 오 처장은 “수사권 조정이라는 중요한 업무를 담당하는 곳도 있긴 해야 한다”며 “독립 수사 기관의 위상을 해치지 않는 범위에서 조화롭게 해결돼야 한다고 생각한다”고 했다.&lt;br&gt;&lt;br&gt;한편 오 처장은 이재명 정부가 검찰의 수사‧기소 분리를 추진하는 것과 관련해선 “공수처 수사와 기소권 일치가 필요하다고 생각한다”고 했다. 오 처장은 “정부의 기조와 일치하지 않는 측면이 있지만, 수사기관 종사자에 대해서는 모든 재직 중의 범죄에 대해 수사‧기소권을 가져야 공수처 설립 목적인 권력기관 견제 역할에 충실할 수 있다”고 했다. 또 “한 발 나아가서 공직자범죄에 대해 수사권이 있는 만큼 기소권도 주어진다면 큰 부작용이 없을 것”이라고 했다.&lt;br&gt;&lt;br&gt;이 밖에도 오 처장은 “새로운 정부가 들어섰는데, 저는 2대 처장으로서 전 정부하고 새로운 정부에서 근무하게 됐다. 정치적 중립성 측면에서 시험 받을 수 있는 시기”라며 “독립 수사기관으로서의 위상을 정립해야 한다는 신념을 잃지 않도록 최선을 다하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“전복 사고 나자 잽싸게 달려와 CPR”… 美도 감탄한 한국 소방대원들 </title>
-      <link>https://www.chosun.com/national/national_general/2025/06/17/3ZOKF6AULVCLTBJPALBJC52ZCQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/17/3ZOKF6AULVCLTBJPALBJC52ZCQ/</guid>
-      <dc:creator>최혜승 기자 </dc:creator>
-      <description/>
-      <pubDate>Tue, 17 Jun 2025 02:06:52 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TV3QP6DBD5ERHBNC3WTN45QICQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;미국 콜로라도주 애덤스 카운티 소방서 페이스북에 올라온 한국 소방대원들./페이스북&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;미국 콜로라도에서 훈련 중이던 한국 소방대원들이 교통사고 현장을 목격하고 구조 활동을 벌였다. &lt;br&gt;&lt;br&gt;17일 소방청 등에 따르면, 한국 소방공무원 5명은 지난 13일 오후 10시 50분쯤 미국 콜로라도에서 급류 구조 훈련을 받고 숙소로 복귀하던 중 교통사고를 목격했다. 덴버 인근 I-76 고속도로에서 역주행하던 트럭이 정면으로 오던 세단 한 대와 충돌하고 전복된 현장이었다. 트럭에 타고 있던 운전자와 동승객은 차량 내부에 갇혀 의식을 잃은 상황이었다. &lt;br&gt;&lt;br&gt;소방관들은 차량을 갓길에 정차한 뒤 911에 신고했다. 이후 전복된 트럭의 뒷유리를 통해 차량 내부로 진입했다. 이들은 의식과 호흡이 없는 동승자를 구조한 후 현장에서 곧바로 심폐소생술(CPR)을 시행했다. 이후 병원 이송을 위해 현장에 도착한 현지 소방대에 환자를 인계했다. &lt;br&gt;&lt;br&gt;같은 사고에서 다른 부상자 1명은 미국 소방대가 유압 스프레더를 통해 구조했으며 다른 차량의 운전자는 경미한 부상을 입고 자력 탈출한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YPQYNFQ7RZHMRDFOLAJF25JQ5I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한국 소방대원들이 미국에서 구조활동을 펼친 교통사고 현장. /애덤스 카운티 소방서&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이런 구조 활동은 미국 소방 당국의 콜로라도주 애덤스 카운티 소방서가 공식 소셜미디어를 통해 감사 인사를 전하면서 알려지게 됐다.&lt;br&gt;&lt;br&gt;애덤스 카운티 소방서는 “한국 구조대원들은 환자가 심정지 상태라는 걸 파악하고 교대로 CPR을 하며 압박을 가했다”며 “비록 환자는 살아남지 못했지만 신속한 대응을 해준 구조대원들에게 감사드린다”고 했다. 그러면서 “누구나 CPR을 배워야 하는 이유를 보여주는 사례”라며 한국 소방대원들의 단체사진을 공유했다. &lt;br&gt;&lt;br&gt;이번 구조에 참여한 소방대원은 소방청 중앙119구조본부 소속 이기평·편영범·조인성 소방장, 김영진 소방교, 그리고 전남소방본부 소속 김구현 소방위 등 총 5명이다.&lt;br&gt;&lt;br&gt;중앙119구조본부 김재현 특수대응훈련과장은 “훈련 중에도 실전처럼 대응해 현장활동에 참여한 이번 사례는 대한민국 소방공무원의 전문성과 사명감을 국제적으로 입증한 결과”라며 “앞으로도 국내의 어떤 상황에서도 국민과 인류의 생명을 지키는 소방이 되겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[단독]김건희 여사 입원 사유는 ‘극심한 우울증’...尹, 밤에 병실 지켜</title>
@@ -905,27 +927,6 @@
       <description/>
       <pubDate>Tue, 17 Jun 2025 01:12:57 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DCWTQIOUXZIHBIHXMLJGMQ47LM.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령의 배우자 김건희 여사 의혹 관련 사건을 맡은 민중기 특별검사가 17일 오전 서울 서초구 사무실로 출근하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 전 대통령의 배우자인 김건희 여사를 둘러싼 의혹을 수사하는 민중기 특별검사가 17일 김 여사 대면조사 필요성을 묻는 질문에 “조사가 이루어지리라 생각한다”고 밝혔다.&lt;br&gt;&lt;br&gt;민 특검은 이날 오전 서울 서초구 사무실로 출근하며 “(김 여사 입원 소식을) 어제 저녁 언론을 통해 봤다. 특별검사보 임명이 되면 (조사 방향 등을) 차츰 논의해볼 것”이라고 했다. 김 여사 입원으로 특검 시기가 영향을 받을 수 있냐는 질문에는 “구체적인 수사 일정을 정하지 않았다”며 “준비 작업만 해도 벅찬 상황”이라고 했다.&lt;br&gt;&lt;br&gt;특검보 임명에 대해 민 특검은 “(대통령실에서) 검증 등 여러 절차가 진행 중인 걸로 알고 있다”며 “빠른 시일 내에 임명될 것으로 기대한다”고 밝혔다. 민 특검은 지난 15일 특검보 후보 8명을 대통령실에 추천했다. 후보엔 문홍주 전 부장판사를 비롯해 검찰 출신인 김형근·박상진·오정희 변호사가 포함된 것으로 전해졌다. 추천 기준에 대해선 “수사 경험이나 역량, 전문성에 주안점을 두고 얘기를 나눴다”고 했다. &lt;br&gt;&lt;br&gt;민 특검은 특검보가 임명되는 대로 김 여사가 받는 여러 의혹 중 우선적으로 수사할 의혹을 정하고, 고위공직자범죄수사처(공수처) 등 관련 기관에 함께 방문할 방침이라고 설명했다.&lt;br&gt;&lt;br&gt;한편 파견 검사와 조사관 등 수사 인력의 명단도 만들어지고 있다. 민 특검은 “지금 파견 검사와 조사관들의 추천을 받는 명단을 작성 중”이라며 “관련 기관을 곧 방문한 후에 명단을 특정할 계획”이라고 했다. 변호사 특별수사관에 대해서는 “대한변협에 채용공고를 알릴 예정”이라고 했다.&lt;br&gt;&lt;br&gt;사무실 선정에 대해서는 “최종 두 군데를 두고 협의 절차가 진행 중으로, 곧 정해질 것”이라고 설명했다. 민 특검은 또 “수사 대상과 범위가 상당히 넓어 수사팀이 제대로 감당할 수 있을지 그 부분이 걱정”이라며 “최대한 역량을 발휘할 수 있도록 지원할 예정”이라고 덧붙였다.&lt;br&gt;&lt;br&gt;민 특검은 20일 내에 특검보 임명, 검사 파견, 사무실 마련 등 준비 작업을 마친 뒤 본격적인 수사에 돌입한다. 수사 기간은 최장 150일이며, 특검보 4명·파견검사 40명·파견공무원 80명·특별수사관 80명을 둘 수 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>오동운 공수처장 “비상계엄 수사 총력 기울였으나 미흡한 부분 송구”</title>
-      <link>https://www.chosun.com/national/court_law/2025/06/17/SGLILPTGWZEEHJBPSDHFZYAKFI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/17/SGLILPTGWZEEHJBPSDHFZYAKFI/</guid>
-      <dc:creator>이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 17 Jun 2025 01:00:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WE52XMPYPTYXGAIQAURPYNRJSM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;오동운 고위공직자범죄수사처장이 4월 30일 오후 서울 여의도 국회에서 열린 법제사법위원회 전체회의에 출석해 의원 질의에 답하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;오동운 고위공직자범죄수사처장이 비상계엄 사태와 관련해 “가능한 모든 인력을 투입해 수사에 총력을 기울였으나 다소 미흡한 부분이 있었던 점을 송구스럽게 생각한다”고 말했다. 취임 1년 1개월 만인 17일 열린 첫 기자 간담회에서다.&lt;br&gt;&lt;br&gt;오 처장은 이날 모두발언에서 지난해 말 수사에 착수했던 ‘12‧3 비상계엄’에 대한 소회를 밝혔다. 그는 “공수처는 신중하고 신속하게 이첩요청권을 행사해 내란 및 직권남용 혐의에 대한 수사에 착수했다”며 “공수처에 보여주신 기대에 비추어 볼 때 다소 미흡한 부분이 있었던 점을 송구하게 생각한다”고 했다. 법원(판사) 쇼핑 논란, 윤석열 전 대통령 구속영장 연장 불허 및 구속취소 등을 염두에 둔 발언으로 풀이된다.&lt;br&gt;&lt;br&gt;오 처장은 “국민들께서 보내주신 성원과 질책 모두 겸허히 받아들이고 반부패 수사기관으로서 더욱 정진할 것을 약속드린다”고 했다. &lt;br&gt;&lt;br&gt;오 처장은 “1년 전 취임사에서 저는 외풍을 막아 공수처 검사들이 오로지 법과 원칙에 따라 소신껏 일할 수 있도록 하겠다는 말씀을 드린 적 있다”며 “고위공직자에 대한 성역 없는 수사, 이를 통한 고위공직자 부패 범죄 일소라는 시대적 과업을 수행하기 위하여 최선을 다하겠다”고 했다.&lt;br&gt;&lt;br&gt;오 처장은 또 “공수처는 언론에 보도된 바와 같이 일명 ‘방첩사 사건’의 수사를 진행하고 있으며, 상당한 성과를 내고 있다”고 자평했다. 오 처장은 “부족한 인력이지만 계속해서 압수 수색 등을 진행하며 애쓰고 있으니 지켜봐 주시기 바란다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“나 격투기 선수다” 만취운전 도주·경찰 폭행 위협까지</title>
-      <link>https://www.chosun.com/national/national_general/2025/06/17/CPX4TV42GVCFDPDWDRGZINKSKE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/17/CPX4TV42GVCFDPDWDRGZINKSKE/</guid>
-      <dc:creator>김명일 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 17 Jun 2025 02:11:53 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZXDSI5HYCFFT7GHLAB6FG76ZC4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;A씨가 경찰을 위협하는 장면. /대전경찰청 유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;만취 상태에서 운전을 하다 검문을 피해 도주하고, 경찰관을 폭행하려 한 30대 남성이 검찰에 넘겨졌다. &lt;br&gt;&lt;br&gt;17일 대전 서부경찰서는 음주운전·난폭운전·공무집행방해 등 혐의로 30대 남성 A씨를 불구속 송치했다고 밝혔다.&lt;br&gt;&lt;br&gt;경찰에 따르면 A씨는 지난 4월 26일 오전 9시 40분쯤 대전 서구의 한 도로에서 주행하다 경찰이 차적 조회상 면허취소 상태인 것을 확인하고 정차를 요구하자, 이를 무시하고 인근 2㎞여 구간을 달아나면서 난폭운전을 했다.&lt;br&gt;&lt;br&gt;A씨는 경찰의 추적을 따돌리려고 과속, 급차선 변경을 했고, 차량을 끌고 서구 복수동의 한 중·고등학교 교내에 진입해 정원과 건물 통로, 인도 등을 휘젓고 다니기도 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4AM7TTDXXZDG7PKUW4QFDFVSZA.gif"&gt;&lt;figcaption&gt;&lt;small&gt;A씨가 경찰을 위협하다 체포되는 장면. /대전경찰청 유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;다행히 사건 당일이 토요일이라 교내에 학생들이 거의 없어서 사고나 인명 피해로 이어지지는 않았다. A씨는 도주를 이어가다 신호 대기 중인 다른 차량에 막혀 주행이 불가능해졌음에도 차문을 열지 않고 버텼다. &lt;br&gt;&lt;br&gt;결국 경찰이 차량 창문을 깨트린 뒤 강제로 문을 열려고 하자 A씨는 “내가 전직 격투기 선수였다”며 폭언과 욕설을 퍼부었다.&lt;br&gt;&lt;br&gt;이후 차량에서 내린 A씨는 경찰관을 향해 주먹을 쥐고 달려들다 제압돼 현행범으로 체포됐다.&lt;br&gt;&lt;br&gt;A씨는 경찰에서 “음주운전으로 적발될까 봐 도주했다”고 진술한 것으로 알려졌다. 음주 측정 결과 A씨의 혈중알코올농도는 면허 정지 수치였다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/4AM7TTDXXZDG7PKUW4QFDFVSZA.gif?auth=8be4027082e62c05aa158c99f8e68b313c0ea3d23eb364aced896080d431c087&amp;smart=true&amp;width=1182&amp;height=671" type="image/jpeg" height="671" width="1182">
-        <media:description type="plain">A씨가 경찰을 위협하다 체포되는 장면. /대전경찰청 유튜브</media:description>
-      </media:content>
     </item>
     <item>
       <title>대북 전단 등 담은 풍선 날린 혐의… 강화署, 40대 남성 입건</title>
