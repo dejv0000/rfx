@@ -13,6 +13,24 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>조은석 내란 특검, 검사 42명 추가 파견 요청</title>
+      <link>https://www.chosun.com/national/court_law/2025/06/19/2W3HU33JDZBPXNRR57MTPYQTYI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/19/2W3HU33JDZBPXNRR57MTPYQTYI/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 19 Jun 2025 04:40:40 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4YMB2QJM4IILME3APYEBAH2TL4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;조은석 특별검사./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘12·3 비상계엄' 수사를 맡은 조은석 특별검사는 19일 “공소유지 검사 전원을 포함해 검사 42명을 선정하고 파견을 요청했다”고 밝혔다. 이와 함께 경찰청 중대범죄수사과장 등 수사관 31명의 파견도 요청했다.&lt;br&gt;&lt;br&gt;앞서 조 특검은 검찰 비상계엄 특별수사본부를 이끌었던 김종우 서울남부지검 2차장, 최순호 서울중앙지검 형사3부장, 최재순 대검찰청 범죄정보2담당관 등 간부급 검사 9명의 파견을 요청했다. 이에 42명을 추가로 요청한 것이다. 이들이 모두 파견되면 파견 검사 60명 중 51명이 채워지게 된다. 윤 전 대통령의 1심 재판을 법정에서 지휘하는 이찬규 서울중앙지검 공공수사1부장도 파견 명단에 포함된 것으로 전해졌다.&lt;br&gt;&lt;br&gt;조 특검은 경찰청 국가수사본부의 박창환 중대범죄수사과장 등 수사관 31명의 파견도 요청했고, 경찰이 이를 받아들였다고 한다. 박 과장은 경찰 비상계엄 특별수사단 수사를 지휘한 인물이다. 최근 경찰 특수단의 대통령실 압수 수색 등을 현장에서 이끌었다.&lt;br&gt;&lt;br&gt;한편 조 특검은 전날 김용현 전 국방장관을 위계에의한공무집행방해 및 증거인멸교사 혐의로 추가 기소하고, 재판이 진행 중인 서울중앙지법 형사25부에 추가 구속영장 발부를 요청할 계획이라고 밝혔다. 김 전 장관은 오는 26일 구속 기간이 만료돼 풀려날 예정이었는데, 재판부가 특검의 요청을 받아들이면 김 전 장관의 구속 기간은 최대 6개월 연장될 수 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘살려달라’는 비명 소리에도 2시간 넘게 폭행 이어졌다... 연인 무차별 때려 숨지게 한 중국인</title>
+      <link>https://www.chosun.com/national/regional/2025/06/19/ZX7GH3EYIFCCNPEXJX4YDA5IVY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/06/19/ZX7GH3EYIFCCNPEXJX4YDA5IVY/</guid>
+      <dc:creator>제주=오재용 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 19 Jun 2025 03:57:59 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZYLPD3PQGFHKPBHCPIRF7AN4NM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원/조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;여자친구를 2시간 넘게 무차별 폭행해 숨지게 한 혐의로 재판에 넘겨진 불법체류 중국인에게 징역 16년이 선고됐다.&lt;br&gt;&lt;br&gt;제주지법 형사2부(재판장 임재남 부장판사)는 19일 살인 혐의로 구속기소 된 불법체류 신분 30대 중국인 A씨에 대해 징역 16년을 선고했다.&lt;br&gt;&lt;br&gt;A씨는 지난 1월 22일 오후 11시부터 이튿날 오전 1시 30분까지 제주시 연동 한 원룸에서 중국인 여자친구 30대 B씨를 주먹과 발로 무차별 폭행해 숨지게 한 혐의를 받는다.&lt;br&gt;&lt;br&gt;당시 술에 취한 A씨는 B씨가 다른 남자와 교제한다고 의심해 폭행한 것으로 파악됐다. 경찰 조사에서 이웃들은 ‘늦은 밤 싸우는 소리와 함께 여성의 비명소리가 들렸다’ ‘여성이 살려달라고 말하는 것 같았다’ ‘현관문이 여러 차례 열었다 닫히는 소리가 들렸다’ ‘2시간30분동안 비명소리가 이어졌고 소리가 잦아졌을때에는 여성이 기절한 것으로 생각했다’고 당시 상황을 진술했다.&lt;br&gt;&lt;br&gt;특히 A씨는 B씨가 쇼크 상태로 쓰러져 있는 데도 구호 등 조처를 하지 않고 그 옆에서 잠을 잤고 오후까지 일어나지 않자 한국인 직장동료를 통해 경찰에 신고했다.&lt;br&gt;&lt;br&gt;A씨 측은 법정에서 피해자를 폭행해 사망에 이르게 한 사실관계는 인정하면서도 살해의 고의는 없었다며 혐의를 부인했다.&lt;br&gt;&lt;br&gt;하지만 재판부는 “살인죄는 목적이나 계획이 있어야만 인정되는 것은 아니다”라며 “자신의 행위로 살인의 가능성이나 위험이 있다고 인식 또는 예견할 수 있으면 살인죄가 성립된다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>수천 마리 잠자리, 제주 바다 점령…무슨 일?</title>
       <link>https://www.chosun.com/national/national_general/2025/06/19/7OWC6SROAVFC5AVEUNKWMVWK5I/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/19/7OWC6SROAVFC5AVEUNKWMVWK5I/</guid>
@@ -824,15 +842,6 @@
       <content:encoded>김건희 여사 관련 의혹을 수사하는 김건희 특검의 특별검사보로 김형근·문홍주·박상진·오정희 변호사 4명이 임명됐다. 네 특검보는 18일 “막중한 책임감을 느낀다”며 “수사는 객관적 사실과 법리에 근거하여 진행될 것”이라고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DRS4VJJGFVMYZK4X2NBI2RR4CI.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령의 부인 김건희 여사 의혹 관련 사건을 맡은 민중기 특별검사가 17일 오전 서울 서초구 사무실에서 취재진의 질문에 답변하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;네 특검보는 이날 오전 언론 공지를 통해 “이번 사건이 지닌 공적 의미와 국민적 관심의 무게를 엄중히 인식하고 있다”며 “정치적 고려나 외부 압력에 흔들림 없이 법률가로서의 소명과 직무의 독립을 지켜나가겠다”고 했다. 절차적 정당성과 증거에 입각한 판단을 최우선으로 삼겠다고도 했다. 또 “국민 여러분께서 지켜보고 계신다는 점을 항상 유념하겠다”며 “실체적 진실규명을 위하여 공정하고 투명하고 철저한 수사로 답하겠다”고 했다. &lt;br&gt;&lt;br&gt;김형근·박상진·오정희 특검보는 검사 출신, 문홍주 특검보는 판사 출신이다. 김 특검보는 서울 출신으로 선덕고와 고려대 법대를 졸업했다. 2000년 사법연수원 29기 수료 후 변호사 개업을 했다가 2002년부터 검사 생활을 했다. 부산지검·인천지검 특수부장, 대검찰청 수사지휘과장, 서울중앙지검 반부패수사1부장 등을 역임한 특수통 검사로 분류된다. 2003년 3월부터 법무법인 광장 소속 변호사로 일하고 있다. 박 특검보는 서울에서 태어나 경기고와 서울대 법대를 나왔다. 사법연수원 29기를 수료하고 공익법무관을 거쳐 검사 생활을 시작했다. 창원지검 특수부장, 인천지검 강력부장, 의정부지검 고양지청장 등을 지냈다. 2022년 8월 변호사로 개업했다. &lt;br&gt;&lt;br&gt;오 특검보는 전남 순천 출신이다. 순천여고, 고려대 법대 졸업 후 사법시험에 합격해 사법연수원 30기를 수료했다. 인천지검 부천지청에서 검사를 시작했고 서울서부지검 여성아동범죄조사부장, 서울남부지검 형사3부장, 서울중앙지검 형사13부장, 창원지검 통영지청장 등을 역임했다. 2022년 10월부터 변호사로 활동 중이다. 서부지검에서 근무할 때 안희정 전 충남지사 수사를 맡았다.&lt;br&gt;&lt;br&gt;문 특검보는 전남 해남에서 태어나 인성고와 서울대 국제경제과를 졸업했다. 사법연수원 31기 수료 후 변호사 생활을 시작했다가 2008년부터 판사로 일했다. 대전지법 부장판사, 수원가정법원 부장판사를 역임했고 2023년 2월부터 다시 변호사로 활동 중이다.&lt;br&gt;&lt;br&gt;특검보는 특검의 지휘·감독에 따라 대상 사건의 수사와 재판(공소유지), 특별수사관 및 검사 등 파견 공무원 지휘·감독, 언론브리핑 등을 담당한다. 보수와 대우는 검사장급으로 받는다. 네 특검보 인선까지 완료된 만큼 김건희 특검팀은 파견 검사 40명의 인선에 집중할 것으로 전해졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>심야 도로에 누운 50대 취객, 5분 뒤 승용차에 치여 숨져 </title>
-      <link>https://www.chosun.com/national/2025/06/18/XY2NVQXCZBDKTH4ODAUHFPDFIU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2025/06/18/XY2NVQXCZBDKTH4ODAUHFPDFIU/</guid>
-      <dc:creator>부산=김준호 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 18 Jun 2025 00:26:49 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/S4JNNA63IJHXYPIIBJ7DXGEVSU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;심야 시간 부산 한 도로에 누워있던 남성이 차량에 치여 숨지는 사고가 발생했다.&lt;br&gt;&lt;br&gt;18일 부산 동부경찰서에 따르면 지난 17일 오후 10시 15분쯤 동구 한 일방통행 이면도로(도로와 인도가 구분되지 않은 좁은 도로)에 누워있던 50대 남성 A씨가 50대 여성 B씨가 몰던 모닝 차량에 치이는 사고가 났다. &lt;br&gt;&lt;br&gt;사고 직후 A씨는 인근 병원으로 옮겨졌지만 숨졌다. &lt;br&gt;&lt;br&gt;경찰 조사 결과 숨진 A씨는 사고 현장 주변 자신의 주거지에서 술을 마셨다. A씨는 사고 발생 5분 전쯤 도로에 누워 있었고, 5분 뒤 이곳을 지나던 B씨 차량에 치인 것으로 조사됐다.&lt;br&gt;&lt;br&gt;경찰은 B씨가 A씨를 미처 발견하지 못해 사고를 낸 것으로 보고, 차량 블랙박스와 주변 감시카메라(CCTV) 영상 분석 등을 통해 정확한 사고 경위 등을 조사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>‘김건희 특검’ 특검보에 김형근·문홍주·박상진·오정희</title>
       <link>https://www.chosun.com/national/court_law/2025/06/18/E63HEZXG3RDMZLU5KLHFWGDPDA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/18/E63HEZXG3RDMZLU5KLHFWGDPDA/</guid>
@@ -948,15 +957,6 @@
       <description/>
       <pubDate>Tue, 17 Jun 2025 09:01:42 +0000</pubDate>
       <content:encoded>친여(親與) 성향으로 분류되는 임은정 대전지검 부장검사(사법연수원 30기)가 이재명 정부 국정기획위원회에 전문위원으로 참여하는 것에 대해, 한 현직 검사가 “수사권 조정 이후 수사 현실을 얼마나 알고 있느냐”며 임 부장검사에게 공개적인 답을 요구했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GONELOVT3ZEZ3MEE2E3IJAO6EI.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;임은정 부장검사./이덕훈 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;17일 본지 취재를 종합하면, 장진영 수원지검 부장검사(36기)는 검찰 내부망 이프로스에 “임 부장검사님은 검찰 개편안을 어떻게 할 예정입니까”라는 글을 올렸다. 장 부장검사는 “2019년 검찰 수사지휘권 폐지와 2022년 ‘검수완박’ 법안이 추진되던 시기에 임 부장검사는 어떤 의견도 내놓은 적 없다”며 “검찰의 수사·기소 분리에 대해 어떤 의견을 가지고 있는지, 수사권 조정 이후 일선 검찰과 경찰의 수사 현실에 대해 어느 정도 알고 있는지 궁금해졌다”고 했다.&lt;br&gt;&lt;br&gt;그는 임 부장검사에게 △2020년 수사권 조정 이후 수사 실태 분석을 어느 정도로 했는지 △2020년 수사권 조정 이후 발의된 검찰개혁 법안들이 국민들에게 더욱 편익을 제공하는 게 맞는지 △국민들의 비법률전문가인 사법경찰의 불송치 결정으로 사건이 사실상 불기소 처리되길 원하는 것이 맞는지 △향후 법정에서 무죄가 선고되거나 문제가 생기면 누가 책임지는지 등 네 가지 질문을 던졌다. 이어 “종전처럼 관심 분야가 아니라며 답변을 회피해서는 안 될 것”이라며 “대다수 국민들도 궁금해 할 사항이니 반드시 공개적인 답변을 해주시길 바란다”고 말했다.&lt;br&gt;&lt;br&gt;장 부장검사는 “정권의 하명 수사나 제 식구 감싸기 등 임 부장검사가 외쳐 온 ‘검찰의 지은 업보가 많아’ 직접수사 권한이 없어지더라도 이와 무관한 민생 범죄 수사에 있어 범죄 피해를 입은 국민들에게 손해가 가거나 더 큰 불편이 가는 개혁은 신중을 기해야 할 것”이라고 했다.&lt;br&gt;&lt;br&gt;임 부장검사는 과거 전·현직 검찰 간부들을 직무유기로 경찰에 고발하고, 검찰 인사와 정책, 조국 전 조국혁신당 대표 관련 수사 등을 비판해온 인물이다. 문재인 정부 때 법무부 감찰담당관을 맡았다가 윤석열 정부에서 지검으로 이동했다. 지난 16일 발족한 국정기획위원회에선 정치행정분과 전문위원을 맡아 검찰의 수사‧기소 분리 등 개편안을 맡을 전망이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘76세’ 전유성, 몰라보게 야윈 모습...최근 근황 보니</title>
-      <link>https://www.chosun.com/national/people/2025/06/17/WRAFIAWIPZFVVFTUJYYED6F3SU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/06/17/WRAFIAWIPZFVVFTUJYYED6F3SU/</guid>
-      <dc:creator>정아임 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 17 Jun 2025 08:01:02 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KLDHPZIQGRF7VOI37BVMMF4HPI.png"&gt;&lt;figcaption&gt;&lt;small&gt;개그우먼 조혜련과 개그맨 전유성./인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;개그맨 전유성(76)의 몰라보게 핼쑥해진 모습이 포착됐다. &lt;br&gt;&lt;br&gt;개그우먼 조혜련은 17일 “코미디언들 책을 남산도서관에 기증했다. 전유성 오빠가 아이디어를 냈고, 이홍렬 오빠가 6개월 걸쳐서 모든 걸 다 추진하고 만들어냈다. 우리가 쓴 총 106권이 전시되었다”며 여러 장의 사진을 올렸다. &lt;br&gt;&lt;br&gt;조혜련은 남산도서관에 책을 기증한 뒤 함께한 개그맨들과 사진을 촬영했다. 그러면서 조혜련은 “그 노고에 감사드리고 우리의 뜻을 받아주신 남산도서관장님과 관계자 분들에게 감사드린다”고 했다. 이어 “전유성 오빠를 오랜만에 만났는데 마음이 울컥했다. 오빠, 건강하시길 기도할게요”라고 남겼다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZIDDHZ7RLJFAVISWMQQA7BECZI.png"&gt;&lt;figcaption&gt;&lt;small&gt;개그맨 전유성./인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;사진 속 모자를 깊게 눌러 쓴 전유성은 몰라보게 야윈 모습이었다. 전유성은 지난해 11월 유튜브 채널 ‘꼰대희’에서 “올해 급성 폐렴, 부정맥, 코로나로 입원을 했다”고 밝혔다. 이어 “연말에 우수 환자로 뽑히지 않을까 기대하고 있다. 한 사람이 그렇게 종류별로 가기 힘들다. 1년에 3개 아닌가”라며 너스레를 떨기도 했다.&lt;br&gt;&lt;br&gt;한편 전유성은 1969년 방송 작가로 데뷔한 뒤 ‘유머 1번지’, ‘개그콘서트’, ‘좋은 친구들’ 등에 다수 출연해 많은 사랑을 받았으며, 2001년에는 ‘전유성의 코미디시장’을 창단해 개그 지망생들의 양성 교육에 힘썼다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
