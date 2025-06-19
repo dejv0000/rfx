@@ -13,6 +13,78 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>이란 탈출 韓유학생 “테헤란 도심까지 피해 심각, 시민들 의외로 차분”</title>
+      <link>https://www.chosun.com/national/national_general/2025/06/19/T2NRW2OA6NEQRC5A3BOMBVV2N4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/19/T2NRW2OA6NEQRC5A3BOMBVV2N4/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 19 Jun 2025 13:32:55 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/C5PWFCNOAZAY7X4P7KQJUR2WAI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이스라엘의 공습에 불타고 있는 이란 수도 테헤란의 모습 ./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이스라엘과 이란 간 무력 충돌이 격화되고 있는 가운데 이란에서 탈출한 한국인 유학생이 현지 상황을 전했다. &lt;br&gt;&lt;br&gt;3년째 테헤란대학교에서 박사과정을 밟고 있는 한국 유학생 정시훈(29)씨는 19일 연합뉴스와의 인터뷰에서 “작년처럼 하루로 그치겠거니 했는데 폭격이 멈추지 않아서 탈출해야겠다고 결심했다”며 “작년에도 이스라엘이 폭격한 적이 있어서 처음엔 많이 놀라진 않았는데 날이 지날수록 폭격이 더 심해졌다. ‘우리 집에도 폭탄이 떨어질 수 있겠구나’ 하는 생각이 들어 두려웠다”고 말했다.&lt;br&gt;&lt;br&gt;이란에 거주하던 우리 국민과 이란인 가족 등 20명은 지난 17일 정부 지원 속에 이란 북부와 접해 있는 투르크메니스탄으로 대피했다.&lt;br&gt;&lt;br&gt;이스라엘이 처음 공습을 시작한 지난 13일 상황에 대해서는 새벽 3시 30분쯤 놀란 후배들의 목소리에 잠을 깼다며 약 15분 뒤 휴대전화로 한국 대사관의 영사 공지 문자가 왔고 이스라엘의 테헤란 공습이 시작됐다는 사실을 알게 됐다고 했다. &lt;br&gt;&lt;br&gt;정씨는 폭격이 사흘째 되던 지난 15일 차를 간신히 빌려 테헤란에서 남쪽으로 450㎞ 떨어진 이스파한에도 다녀왔다고 했다. 그곳의 대학으로 단기 언어연수를 온 후배 1명이 폭격에 발이 묶였기 때문이다.&lt;br&gt;&lt;br&gt;정씨는 “이스파한까지 하루종일 왕복하면서 폭격을 맞은 정유 시설 등이 보여 긴장했다”며 “목숨을 걸고 이스파한에 다녀왔다”라고 말했다.&lt;br&gt;&lt;br&gt;정씨에 따르면 지난 17일 새벽 테헤란에서 탈출하는 버스를 타기까지 나흘간 테헤란 상공엔 드론과 전투기 소리, 대공포 소리가 끊이지 않았다.&lt;br&gt;&lt;br&gt;정씨는 “작년과 달리 테헤란 도심까지 공습당해 피해가 아주 심각했다. 겁이 났지만 후배들과 일부러 농담하면서 두려움을 잊으려 했다”며 테헤란 시민들은 의외로 차분하면서 여유를 찾으려고 노력하는 모습이었다고 전했다. &lt;br&gt;&lt;br&gt;식료품, 생활필수품 사재기 같은 혼란은 벌어지지 않았지만 한꺼번에 테헤란 남쪽으로 피란하면서 도로가 몇 시간씩 막히기도 했다고 한다.&lt;br&gt;&lt;br&gt;특히 지난 16일 이란 국영방송이 이스라엘군의 폭격을 맞아 생방송이 중단되면서 놀란 테헤란 시민들이 서둘러 피란길에 올랐다고 한다.&lt;br&gt;&lt;br&gt;정씨는 후배 4명과 함께 17일 새벽 한국 대사관이 마련한 버스에 올라 1박 2일간 육로를 달려 1200㎞ 떨어진 투르크메니스탄 국경에 18일 밤 도착했다.&lt;br&gt;&lt;br&gt;정씨는 잠시 한국으로 귀국했다가 다시 테헤란으로 돌아가 공부를 하고 싶다며 “교민의 안전을 위해 헌신한 이란과 투르크메니스탄에 주재하는 한국 대사관에 진심으로 감사드린다. 애국심도 절로 생겨났다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>서울 목동 5·7·9단지 1만2000가구 재건축</title>
+      <link>https://www.chosun.com/national/national_general/2025/06/19/XIJRIKSOFNENBEPSISJQFPTQ74/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/19/XIJRIKSOFNENBEPSISJQFPTQ74/</guid>
+      <dc:creator>박진성 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 19 Jun 2025 13:22:37 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7U4X5LGX4RLRNBVVCNPOR57R2U.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;9일 서울 양천구 목동 아파트 단지의 모습./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 양천구 목동아파트 5·7·9단지가 최고 49층, 총 1만2000가구로 재건축될 전망이다. 서울시는 이 같은 내용의 ‘목동 5·7·9단지 정비계획 결정안’이 도시계획위원회 심의를 통과했다고 19일 밝혔다. &lt;br&gt;&lt;br&gt;정비계획은 재건축 사업의 밑그림으로 5·7·9단지를 포함하면 목동아파트 14개 단지 중 10개 단지가 정비계획을 확정했다. 1·2·3·11단지는 정비계획 심의를 앞두고 있다. 서울시는 “올해 안에 정비계획을 모두 확정한다는 계획”이라고 밝혔다.&lt;br&gt;&lt;br&gt;목동 학원가와 가까운 5단지는 3930가구로, 지하철 5호선 목동역세권인 7단지는 4335가구로 탈바꿈할 전망이다. 9단지는 3957가구 규모로 짓는다.&lt;br&gt;&lt;br&gt;목동아파트는 1980년대 양천구 목동, 신정동 일대에 조성한 2만6600가구 규모의 아파트 단지다. 1985년부터 14개 단지가 차례로 들어섰다. 지은 지 40년가량 됐지만 그동안 재건축 사업이 지지부진했다. 서울시가 신속통합기획(시가 재건축 사업 초기부터 개입해 속도를 당기는 제도) 대상으로 지정해 속도가 붙었다.&lt;br&gt;&lt;br&gt;14개 단지가 전부 재건축을 마치면 총 4만7000가구 규모의 ‘미니 신도시’가 탄생하게 된다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>서울시, 집중 호우 대비 총력 대응 체계 돌입</title>
+      <link>https://www.chosun.com/national/national_general/2025/06/19/UNC3HQJPI5CFJGJ7G2OYU6UJTA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/19/UNC3HQJPI5CFJGJ7G2OYU6UJTA/</guid>
+      <dc:creator>김영우 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 19 Jun 2025 11:52:18 +0000</pubDate>
+      <content:encoded>19일부터 오는 21일까지 사흘간 서울 시내에 50~100㎜ 호우가 예보되자, 서울시가 집중 호우에 대비한 총력 대응에 나섰다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CFAK7J3QLJKFJFAUQ7UBBA7GQQ.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;송준섭 서울대공원 시설과 주무관이 19일 오후 경기 과천 서울대공원 내 청계저수지에서 저수율 확보를 위한 수문 가동에 대해 설명하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울시는 19일 집중 호우 피해 최소화를 위한 사전 점검을 강화한다고 밝혔다.&lt;br&gt;&lt;br&gt;우선 서울시는 서울 전역에 설치된 강우량계 등을 활용해 실시간 수위 정보를 수집한다. 이로써 저지대와 반지하 주택 등의 침수 위험을 예·경보한다. 침수예보가 발령되면 관계 기관에 경고를 전달하고, 주민들에게는 재난 문자를 전송해 침수 위험에 대응할 수 있도록 한다.&lt;br&gt;&lt;br&gt;침수 위험이 있는 지하차도 100곳은 중점 관리 대상으로 지정하고, 10㎝ 이상 침수되면 즉시 통제한다. 하천 역시 고립 사고 예방을 위해 호우 예비 특보 단계부터 산책로 진출입을 차단한다.&lt;br&gt;&lt;br&gt;서울시 관계자는 “지하차도는 담당자를 지정하고, 하천은 순찰단을 강화하는 등 사고 발생 위험을 줄이기 위해 노력했다”고 했다.&lt;br&gt;&lt;br&gt;산사태 취약 지역 516곳은 산림청 예측 정보에 따라 산사태 예·경보를 발령하고 취약 지역 주민은 사전 대피시키기로 했다.&lt;br&gt;&lt;br&gt;한편 서울시는 2차례에 걸쳐 침수 취약 지역에 위치한 빗물받이 1만8000여 개를 점검했다. 청소와 준설 상태를 점검해 비가 내렸을 때 빗물이 잘 빠질 수 있는지를 확인했다.&lt;br&gt;&lt;br&gt;급격한 수위 상승을 막기 위해 도심 공원 내 호수와 연못 12곳도 ‘빗물그릇’으로 활용한다. 빗물을 최대 75만t까지 저장할 수 있도록 했다.&lt;br&gt;&lt;br&gt;이외에도 풍수해 재난안전대책본부를 조기 가동해 13개 실무반이 참여하는 상황 관리 체계를 운영한다. 실무반은 도로, 산림, 공원 등 주요 시설에 대해 예방 활동을 실시하는 등 안전 조치를 취한다.&lt;br&gt;&lt;br&gt;정성국 서울시 물순환안전국장은 “하천이나 지하 공간 등 위험 지역은 피하시고, 기상 상황에 항상 귀 기울여 주시길 바란다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>한밤중 빈집 들락날락… 여성 속옷 훔친 스토커 구속영장 또 기각</title>
+      <link>https://www.chosun.com/national/national_general/2025/06/19/X2AKH75QUNF63LZ3MG7GU6ZNVQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/19/X2AKH75QUNF63LZ3MG7GU6ZNVQ/</guid>
+      <dc:creator>안동=권광순 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 19 Jun 2025 11:23:06 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RVFPAYUWGRE55GPWJ3H5WOQUUE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경북 안동의 한 아파트에 들어가 여성 속옷을 훔친 혐의로 체포된 A씨가 19일 대구지방법원 안동지원에서 영장 실질심사를 받은 후 법원을 나서고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한밤중 베란다를 통해 아파트 내부에 몰래 들어가 여성 속옷을 훔친 30대 남성 스토커에게 경찰이 다시 신청한 구속영장이 기각됐다.&lt;br&gt;&lt;br&gt;대구지법 안동지원 지선경 영장판사는 19일 야간주거침입 및 스토킹 등 혐의로 구속영장이 신청된 A(37)씨에 대한 구속전피의자심문에서 “증거인멸과 재범위험이 낮고 도주 우려가 적다”며 기각했다. 또 A씨는 변호인을 통해 “직장을 그만두고 안동을 떠나겠다”는 의사를 밝힌 것으로 전해졌다.&lt;br&gt;&lt;br&gt;A씨는 지난달 27일 0시57분쯤 20대 여성 2명만 사는 경북 안동의 한 아파트 베란다를 통해 몰래 침입해 1시간 동안 3차례 들락거리며 옷장을 뒤지는 등 변태 행각에 속옷을 훔쳐간 혐의를 받고 있다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/T6IKHP5NJZBVTJY47V2BF7HQCI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 27일 자정쯤 안동의 한 아파트에 괴한이 침입하고 있다. 3층에서 4층 사이 복도 창문을 통해 피해자가 사는 집으로 침입하기까지 시간은 단 15초였다. /독자 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;A씨의 범죄행각은 경찰이 확보한 아파트 주변 폐쇄회로(CC)TV와 피해 여성의 집에 설치된 홈캠에 고스란히 담겼다.&lt;br&gt;&lt;br&gt;앞서 경찰은 사건 발생 16일 만인 지난 11일 A씨를 체포한 뒤 구속영장을 신청했으나, 검찰에서 “초범이고 도주 우려 없다”며 기각됐다. &lt;br&gt;&lt;br&gt;이에 따라 경찰은 지난 16일 스토킹처벌법 위반과 주거수색죄 등 혐의를 추가로 적용하고, 재범 우려를 들어 구속영장을 재신청했고, 검찰은 이를 받아들여 법원에 영장을 청구했다.&lt;br&gt;&lt;br&gt;문제는 피의자의 주거지는 피해 여성의 아파트에서 직선거리로 30m에 불과한 같은 아파트 마주 보는 위치에 있다는 점이다. 경찰은 극도로 불안을 호소하던 피해자들이 자신의 집을 놔두고 지인이나 친구 집으로 전전하자 ‘스마트워치’를 지급하고 숙소도 마련해 줬다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CGGM5A277RGWLEVRQJIZCDBZHQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 27일 안동의 한 아파트에 침입한 괴한이 20대 여성의 속옷을 뒤지는 모습. 괴한은 1시간 동안 3차례나 같은 행위를 반복했다. /피해자 B씨 제공.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;사건 발생 이후 피해 여성들은 SNS를 통해 “어떻게든 안전을 보장받고 싶다”고 호소했다. 이번 사건으로 피해 여성 모두 다니던 병원에 사직서를 제출한 것으로 전해졌다. &lt;br&gt;&lt;br&gt;피해 여성 B(27)씨는 “구속 여부를 떠나 한 아파트에 사는 범인을 개인정보보호라는 이유로 전혀 알 수 없는 불안한 현실이 직장을 그만 두고 지역을 떠날 수밖에 없는 이유”라고 말했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>서울 송파구 잠실5단지, 최고 65층 6387가구 단지로 재건축</title>
+      <link>https://www.chosun.com/national/national_general/2025/06/19/RFD4YAMXCBH7NDQUGBPAWXRFD4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/19/RFD4YAMXCBH7NDQUGBPAWXRFD4/</guid>
+      <dc:creator>김영우 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 19 Jun 2025 11:31:35 +0000</pubDate>
+      <content:encoded>서울 송파구 잠실5단지가 최고 65층 6387가구 규모 단지로 재탄생할 전망이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2RDTVASNQ5DVZMOEKFCTQRMJ5U.png"&gt;&lt;figcaption&gt;&lt;small&gt;재건축되는 서울 송파구 잠실5단지의 조감도. /서울시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울시는 19일 정비사업 통합심의위원회에서 이 같은 내용이 담긴 심의안이 통과됐다고 밝혔다.&lt;br&gt;&lt;br&gt;심의안에 따르면, 잠실5단지는 33동 6387가구 규모 단지로 탈바꿈한다. 이 중 785가구는 공공 임대주택으로 공급된다. 최고 65층 높이다.&lt;br&gt;&lt;br&gt;단지 중심부에는 잠실역과 중앙광장, 한강을 잇는 대규모 녹지가 조성된다. 실내 어린이 놀이터, 도서관 등 지역 주민이 이용할 수 있는 시설도 마련된다. 누구나 이용할 수 있는 공공 보행 통로도 마련된다.&lt;br&gt;&lt;br&gt;단지 내에 공원을 마련해 산책로를 따라 쉼터를 배치하고, 시민들이 운동할 수 있는 시설도 조성한다.&lt;br&gt;&lt;br&gt;잠실역 사거리 일대는 인근에 있는 롯데월드타워 등 상업 시설과 연계해 판매, 업무, 문화 기능을 수행할 수 있는 공간으로 재편된다. 사거리 주변 보도 역시 확장해 보행자들이 편하게 걸을 수 있는 공간을 마련한다.&lt;br&gt;&lt;br&gt;최진석 서울시 주택실장은 “잠실5단지 주거 환경 개선과 공공성 확보로 시민의 삶의 질 향상에 기여하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘마세라티 뺑소니범’ 알고보니 870억원대 도박사이트 운영자였다</title>
+      <link>https://www.chosun.com/national/national_general/2025/06/19/HBEVPX2HERF2RBRN4M7HQLXQZI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/19/HBEVPX2HERF2RBRN4M7HQLXQZI/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 19 Jun 2025 11:28:34 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ARVZXDBAW72EB2FKMDTJQK6NN4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난해 10월 4일 오전 광주 서구 서부경찰서에서 '뺑소니 사망사고' 마세라티 운전자 김모씨가 검찰로 송치되고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난해 광주에서 마세라티 차량을 몰다 사망 사고를 내고 해외 도주를 시도했던 이른바 ‘마세라티 뺑소니범’이 870억원대 도박 사이트 운영자인 것으로 드러났다.&lt;br&gt;&lt;br&gt;19일 광주경찰청 사이버범죄수사대는 도박공간개설 등 혐의로 김모(32)씨를 입건했다고 밝혔다.&lt;br&gt;&lt;br&gt;경찰은 범죄 수익금 세탁책과 대포통장 유통책 등 범행에 가담한 60명(9명 구속), 도박 사이트 이용자 441명도 함께 입건했다.&lt;br&gt;&lt;br&gt;경찰에 따르면 김씨는 2022년부터 지난해 9월까지 해외에 거점을 둔 870억원 규모의 도박 사이트 4개를 운영한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;김씨는 지난해 9월 24일 새벽 광주광역시 서구 화정동의 한 도로에서 마세라티 차량을 운전해 20대 연인이 타고 있던 오토바이를 들이받은 뒤 구호 조치 없이 달아난 혐의로 재판을 받고 있다. 이 사고로 연인 중 여성이 숨지고 남성은 중상을 입었다.&lt;br&gt;&lt;br&gt;피해자들은 늦은 밤 배달 일을 마치고 집으로 돌아가던 연인이었는데, 범행에 이용된 차량이 대포차로 드러나면서 비난 여론이 일었다.&lt;br&gt;&lt;br&gt;김씨는 해외 도피를 위해 비행기표를 2차례 예매했으나 출국 금지가 내려졌을 것이라고 생각해 탑승을 포기했고, 도주 이틀 만에 서울 강남구의 한 도로에서 체포됐다.&lt;br&gt;&lt;br&gt;앞서 태국 등 해외에 장기간 체류한 김씨가 사고 직후 해외 도피를 시도하면서 보이스피싱, 불법 자금 세탁 등 범죄에 연루됐을 것이라는 의혹이 제기됐다.&lt;br&gt;&lt;br&gt;경찰은 여죄 수사를 통해 김씨의 도박 사이트 운영 혐의를 규명했고, 인터폴과 공조해 해외에 있는 공범들을 추가로 검거할 방침이다.&lt;br&gt;&lt;br&gt;김씨는 뺑소니 혐의(특정범죄 가중처벌 등에 관한 법률상 도주치사)에 대해서는 최근 2심 재판에서 징역 7년 6개월을 선고받았다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘8억원대 배임’ 혐의…인천 남동구의회 부의장 징역 4년</title>
+      <link>https://www.chosun.com/national/court_law/2025/06/19/4OBJ72RLUVF75P3O4RXYYKKYZ4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/19/4OBJ72RLUVF75P3O4RXYYKKYZ4/</guid>
+      <dc:creator>인천=이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 19 Jun 2025 10:23:24 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2W2QMYI23RKTTR24FE33Y5NAOE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전유형 인천 남동구의회 부의장./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;8억원대 배임 혐의로 재판에 넘겨진 인천 남동구의회 전유형(59) 부의장에게 징역형이 선고됐다. &lt;br&gt;&lt;br&gt;인천지법 형사 8단독 윤영석 판사는 배임 혐의로 기소된 전 부의장에 대해 징역 4년을 선고했다고 19일 밝혔다. &lt;br&gt;&lt;br&gt;전 부의장은 지난 2022~2023년 인천시 남동구에서 빌라 분양 계약을 체결한 뒤, 계약금과 중도금을 받고도 소유권 이전을 위한 등기를 하지 않아 피해자 2명에게 총 8억8100만원의 손해를 끼친 혐의로 기소됐다. &lt;br&gt;&lt;br&gt;전 부의장은 소유권 이전을 하지 않은 해당 빌라 건물과 관련한 부동산 담보 신탁계약을 체결하면서 45억원의 대출을 받았고, 신탁계약 수탁자에게 빌라 소유권을 넘긴 것으로 파악됐다. &lt;br&gt;&lt;br&gt;법원은 앞선 재판에 출석하지 않은 전 부의장을 지난 16일 구속한 뒤 선고 공판을 진행했다. &lt;br&gt;&lt;br&gt;윤 판사는 “서민들에겐 집 한 채가 재산의 대부분인 경우가 많은데, 피고의 범행으로 피해자들은 각각 4억원대의 집을 취득하지 못하는 엄청난 손해를 입었다”며 “피고인은 납득하기 어려운 변명으로 일관하고, 피해자들의 피해를 전혀 변상하지 않았다”고 했다. &lt;br&gt;&lt;br&gt;이어 “피해자들이 피고인의 엄벌을 탄원하고 있다”며 “피고인에게는 행위와 결과에 상응하는 실형을 선고할 수밖에 없다”고 양형 이유를 설명했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“부모가 너를 버렸다”… 신도 자녀들 상습 폭행한 ‘가짜 목사’</title>
+      <link>https://www.chosun.com/national/court_law/2025/06/19/KAKBHGMBT5CWVFWHCXSE4DHOCE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/19/KAKBHGMBT5CWVFWHCXSE4DHOCE/</guid>
+      <dc:creator>수원=김수언 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 19 Jun 2025 10:19:03 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/X3F4T77T254HZDZRYYXN4V4FVI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;수원법원종합청사./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;자신들이 운영하는 교회 형태의 종교단체와 학원에서 교육 등을 이유로 신도들의 자녀들을 상습 폭행하는 등 학대한 혐의를 받는 가짜 목사와 원장에 징역형이 선고됐다.&lt;br&gt;&lt;br&gt;수원지법 형사9단독 장혜정 판사는 19일 아동학대범죄의 처벌 등에 관한 특례법 위반(상습학대) 혐의 등으로 기소된 A씨와 원장 B씨에게 각각 징역 5년을 선고하고, 10년간 아동 관련기관 취업 제한을 명령했다.&lt;br&gt;&lt;br&gt;또 이들과 함께 재판에 넘겨진 학원 강사 C씨에게는 징역 2년을 선고하고 5년간 아동 관련 기관 취업 제한 명령을 함께 내렸다.&lt;br&gt;&lt;br&gt;A씨 등은 2021년부터 2023년까지 자신들이 운영하는 교회와 부속 학원에서 10대 아동 7명을 상습적으로 학대한 혐의로 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;부속 학원은 주로 형편이 어려운 신도의 자녀들에게 숙식을 제공하는 형태로 운영돼 왔는데, 이들은 피해 아동들이 종교 단체에 대한 불만을 일기장에 적거나 거짓말을 했다는 등의 이유로 무릎을 꿇린 채 허벅지 등을 수십 차례씩 때린 것으로 조사됐다. 또 수일 동안 굶기기도 한 것으로 파악됐다.&lt;br&gt;&lt;br&gt;이들은 피해 아동들에게 부모를 ‘그 남자’, ‘그 여자’로 부르게 하고, “너희 부모가 너희를 버렸다”라고 말하며 정서적으로 학대한 것으로도 파악됐다.&lt;br&gt;&lt;br&gt;장 판사는 “피해자들은 건강 문제, 가정불화, 경제적으로 기댈 곳을 찾아서 온 사회적 약자”라며 “A씨는 목사 행세를 하면서 잘못된 교리로 피해자들을 세뇌했으며, 피해 아동들은 건강하게 클 기회를 박탈당했고 현재까지도 고통받고 있으나 피고인들 모두 범행을 부인하고 있어 엄한 처벌이 불가피하다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>‘국회 인턴 허위등록’ 윤건영 민주당 의원, 벌금 500만원 확정</title>
       <link>https://www.chosun.com/national/court_law/2025/06/19/JSLZ76WEKNEUBJ6LPAJEDLZBXI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/19/JSLZ76WEKNEUBJ6LPAJEDLZBXI/</guid>
@@ -819,35 +891,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BHCGGYEPGTMP7PSKCO6VEDFBWA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울시청 전경. /뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울시의 국제개발협력(ODA) 업무를 담당하는 공무원 2명이 관련 예산을 빼돌려 해외여행을 다녀왔다는 의혹이 제기됐다. &lt;br&gt;&lt;br&gt;18일 서울시 등에 따르면 시는 최근 글로벌도시정책관 소속 과장급 A씨와 직원 B씨를 업무상 횡령 혐의로 서울 남대문경찰서에 고발했다.&lt;br&gt;&lt;br&gt;이들은 5000만원 안팎의 미집행 예산을 빼돌려 해외여행을 다녀왔다는 혐의를 받는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;앞서 시는 내부에서 횡령 의혹에 대한 제보가 접수돼 자체 감사를 진행했으며, 감사 결과 비위 사실을 확인해 고발 조치했다. 고발 조치 후 이들은 직위 해제됐다. &lt;br&gt;&lt;br&gt;시 관계자는 조선닷컴과의 통화에서 “자세한 내용은 수사 중이라 밝힐 수 없다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>‘훈련병 얼차려 사망’ 중대장 항소심서 형량 늘어… 징역 5년 6개월</title>
-      <link>https://www.chosun.com/national/court_law/2025/06/18/A2DPYZ4JMRGA5EHCCV2VJYS6UY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/18/A2DPYZ4JMRGA5EHCCV2VJYS6UY/</guid>
-      <dc:creator>춘천=정성원 기자</dc:creator>
-      <description>훈련병에게 규정에 어긋나는 얼차려를 시켜 사망에 이르게 한 중대장이 항소심에서 형이 가중됐다.
-서울고법 춘천재판부 형사1부(재판장 이은혜)는 학대치사 등 혐의로 기소된 중대장 강모(28)씨에게 징역 5년을 선고한 원심을 파기하고 징역 5년 6개월을 선고했다고 18일 밝혔다.
-</description>
-      <pubDate>Wed, 18 Jun 2025 06:11:17 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UK25ISA6Z7NAAQZG55B4GB5TJE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;육군 12사단 '훈련병 사망' 사건과 관련해 규정을 어긴 군기훈련(얼차려)을 지시한 혐의를 받는 중대장이 지난해 6월 21일 강원도 춘천지법에서 열린 영장실질심사(구속 전 피의자 심문)를 마치고 나서고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;훈련병에게 규정에 어긋나는 얼차려를 시켜 사망에 이르게 한 중대장이 항소심에서 형이 가중됐다.&lt;br&gt;&lt;br&gt;서울고법 춘천재판부 형사1부(재판장 이은혜)는 학대치사 등 혐의로 기소된 중대장 강모(28)씨에게 징역 5년을 선고한 원심을 파기하고 징역 5년 6개월을 선고했다고 18일 밝혔다. 다만 같은 혐의로 기소된 부중대장 남모(26)씨에게는 원심과 같은 징역 3년을 선고했다.&lt;br&gt;&lt;br&gt;재판부는 “1심은 같은 장소에서 같은 기회에 이뤄진 행위라고 판단했지만, 피해자별로 구체적인 가혹행위와 학대 양상이 다르다”면서 “이 때문에 1개 행위가 아니라 여러 개의 행위로 인정할 수 있다”고 밝혔다.&lt;br&gt;&lt;br&gt;항소심 재판부는 1심 재판부와 달리 피고인들이 별개의 범죄를 여럿 범했다고 판단, 실체적 경합범으로 봤다. 반면 1심은 피고인들을 하나의 행위가 여러 범죄를 구성하는 상상적 경합범으로 판단했다.&lt;br&gt;&lt;br&gt;실체적 경합범이면 가장 무거운 죄에 최대 2분의 1까지 형량을 가중할 수 있지만, 상상적 경합범이면 가장 무거운 죄 하나로만 처벌한다.&lt;br&gt;&lt;br&gt;강씨와 남씨는 지난해 5월 23일 강원 인제군 육군 12사단 신병훈련소에서 훈련병 박모(21)씨 등 6명에게 규정 위반의 군기 훈련을 지시했고, 이 과정에서 박씨를 숨지게 한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;이들은 사건 전날인 5월 22일 취침 점호 이후 숨진 박씨 등이 떠들었다는 이유로 다음 날 박씨 등을 대상으로 군기 훈련을 시행했다. 남씨는 이를 강씨에게 구두로 보고하고 승인받은 뒤 훈련을 진행했다.&lt;br&gt;&lt;br&gt;그러나 이들은 훈련병들에게 해명 기회를 주지 않고, 보급품을 지급받지 못한 훈련병에게 책으로 군장을 채우게 하는 등 군기 훈련 규정을 위반했다.&lt;br&gt;&lt;br&gt;또 군기 훈련 규정상 완전 군장 상태에선 걷기만 가능하지만 이들은 완전 군장 상태에서 뜀걸음 등을 시키기도 했다.&lt;br&gt;&lt;br&gt;특히 얼차려 중 박씨가 쓰러졌지만, 이들은 상황의 심각성을 제대로 인지하지 못한 채 응급조치를 지연했고, 박씨는 병원으로 옮겨진 뒤 이틀 만에 숨졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>급성 심정지, 일반인이어도 심폐소생술하면 생존율 2배 껑충</title>
-      <link>https://www.chosun.com/national/welfare-medical/2025/06/18/CETCR2UWKRBJVBSPWYIMPWT6NI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/06/18/CETCR2UWKRBJVBSPWYIMPWT6NI/</guid>
-      <dc:creator>곽래건 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 18 Jun 2025 05:55:08 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VG3DPAJC7JKISCR7DEE2Y4YE7A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 4월 16일 서울 송파구 석촌호수 중앙수변무대에서 열린 '국민안전의 날 기념 송파안전체험축제'에서 한 어린이가 심폐소생술을 연습하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;급성 심장 정지가 왔을 때 현장에서 일반인이더라도 심폐소생술을 하면 생존율이 2.2배로 올라가는 것으로 나타났다. 뇌기능 회복률도 3.21배로 높아졌다.&lt;br&gt;&lt;br&gt;질병관리청은 18일 이 같은 내용이 담긴 조사 결과를 발표했다. 2024년 상반기 급성 심장정지 전체 사례 중 98.8%인 1만6578건에 대해 조사한 것이다. 질병청은 2008년부터 119구급대에 의해 의료기관으로 이성된 급성 심장 정지 환자에 대해 의무 기록 조사를 하고 있고, 그 결과를 2022년부터 반기 단위로 공표하고 있다.&lt;br&gt;&lt;br&gt;조사 결과 심근경색, 부정맥, 뇌졸중 등 질병에 따른 급성 심장 정지가 전체의 77.8%를 차지했다. 추락이나 운수 사고 등 질병이 아닌 다른 원인에 의한 경우는 21.8%였다.&lt;br&gt;&lt;br&gt;생존 상태로 퇴원한 환자는 1527건으로, 생존율은 9.2%에 그쳤다. 1년 전인 2023년 상반기(8.8%)보다는 0.4%포인트 올라갔다. 혼자서 일상 생활이 가능할 정도로 뇌기능이 회복된 ‘뇌기능 회복률’은 6.4%를 기록했다.&lt;br&gt;&lt;br&gt;구급대원이나 의료인이 아닌 일반인이 심폐소생술을 한 비율은 30.2%(4307건)을 기록하며 처음으로 30%를 넘겼다. 지난해 상반기의 경우 29.8%였다.&lt;br&gt;&lt;br&gt;일반인이 심폐소생술을 했을 때의 생존율은 14.3%로, 그렇지 않은 경우(6.4%)와 비교하면 2.2배에 달했다. 일반인이 심폐소생술을 했을 때의 뇌기능회복률은 11.4%로, 그렇지 않은 경우(3.6%)의 3.2배였다.&lt;br&gt;&lt;br&gt;지영미 질병청장은 “심폐소생술은 환자의 생존과 회복에 결정적인 역할을 하며, 현장 목격자의 역할이 매우 중요하다“며 “일반인 심폐소생술이 더욱 확대되도록 교육자료 개발 등 다양한 노력을 계속하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>노인복지관 80대, 흉기 휘둘러 3명 다쳐… 식권받다 다툰후 범행</title>
-      <link>https://www.chosun.com/national/regional/2025/06/18/OHDSVJMYPZFDHJVCFHJXGCFEYQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/06/18/OHDSVJMYPZFDHJVCFHJXGCFEYQ/</guid>
-      <dc:creator>부산=김주영 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 18 Jun 2025 05:48:46 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZHLRQHQYRIKDBILZR5YEHKC6UY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산 연제경찰서. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산 한 노인복지회관에서 80대 남성이 흉기를 휘둘러 3명이 다쳤다.&lt;br&gt;&lt;br&gt;부산 연제경찰서는 특수상해 혐의 등으로 80대 남성 A씨를 붙잡아 조사하고 있다고 18일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 이날 오전 9시 4분쯤 부산 연제구 한 노인복지관에서 70대 B씨에게 흉기를 휘둘러 다치게 한 혐의를 받고 있다. 이를 말리던 80대 남성 C씨와 40대 여성 D씨도 상처를 입은 것으로 전해졌다. 3명 모두 생명에는 지장이 없는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;당시 복지관에선 점심 식사용 식권이 배부 중이었으나, 경찰은 식권을 받는 과정에서 큰 다툼이 있었던 것은 아닌 것으로 보고 있다.&lt;br&gt;&lt;br&gt;경찰에 따르면 A, B씨는 지난해 여름부터 이 복지관 건물 3층에 있는 당구장 이용을 놓고 갈등이 있었던 것으로 조사됐다. B씨가 A씨의 당구장 이용을 막으면서 A씨가 불만을 품어온 것으로 전해졌다. A씨가 사용한 흉기 역시 이 당구장에 비치돼 있던 큐대를 정리하는 끌칼인 것으로 파악됐다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “A, B씨 사이에 이전부터 갈등이 있었던 것으로 조사됐다”며 “현재 추가 조사를 통해 정확한 범행 동기 등을 파악 중”이라고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[단독] 서울대생에 외면받는 서울대 대학원들…자교 출신 비율 단 26%</title>
       <link>https://www.chosun.com/national/national_general/2025/06/18/7WL2BHT2K5B3VDRUXIME3LYO7M/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/18/7WL2BHT2K5B3VDRUXIME3LYO7M/</guid>
@@ -857,15 +900,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UC6DJPXSOTBA6WMOYHZI5EDQIU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 관악구 서울대학교 정문 /뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울대 법학전문대학원(로스쿨)을 제외한 나머지 대학원의 서울대 학부 출신 비율이 26.5%인 것으로 18일 나타났다. 서울공대와 경영대 대학원에선 자교 출신 비율이 20% 정도였다. 서울대 로스쿨은 서울대 학부 출신 비율이 올해 66.7%에 달한 반면 나머지 대학원은 자교생으로부터 외면받고 있다는 평가가 나온다. 서울대 내에서는 “교수 처우가 수년째 제자리인 상황에서 특단의 조치가 없으면 서울대 교육·연구 경쟁력도 심각한 타격을 입을 것”이라는 지적이 나온다.&lt;br&gt;&lt;br&gt;서울대가 김민전 국민의힘 의원실에 제출한 ‘최근 5년 서울대 단과대별 대학원생 출신 학부 현황(로스쿨 제외)’ 자료에 따르면 2025학년도 전기 서울대 대학원생 1453명 중 단 386명(26.6%)만이 서울대 학부 출신인 것으로 집계됐다. 4년 전인 2021학년도 전기엔 1445명 중 457명(31.6%)이 서울대 학부 출신이었는데 4년 새 5%포인트 하락했다. 서울대·연세대·고려대 학부 출신으로 범위를 넓혀도 비슷한 결과가 나왔다. 올해 세 대학 출신 대학원생은 540명으로 37.2%의 비중을 차지했는데, 이는 4년 전(41.5%) 대비 4%포인트 줄어든 수치다.&lt;br&gt;&lt;br&gt;주요 단과대별로 따져볼 땐 공대와 경영대의 자교 출신 비율이 특히 낮았다. 서울대 공대 올해 전기 합격자 291명 중 서울대 학부 출신은 60명으로 단 20%에 그쳐 평균보다 훨씬 낮았다. 그 외 다른 단과대 중에선 경영대(20.3%)가 공대와 비슷한 수치였고, 자연대(28.3%), 사회대(30%), 인문대(45%) 등은 평균보다는 양호한 수치를 기록했다.&lt;br&gt;&lt;br&gt;서울대 내에선 대학원 경쟁력이 갈수록 떨어지고 있다는 위기감이 나온다. 한 서울대 인문대 교수는 “잘하는 학생도 여전히 있지만 과거보다 대학원생들의 실력 전반이 다소 떨어진 것은 사실”이라며 “학부 때 배우고 왔어야 할 기초적인 수준부터 다시 가르쳐야 할 (대학원) 신입생들도 있어 대학원 1학년 수업이 학부 4학년 수업보다 수준이 낮은 경우도 있다”고 했다. 또 다른 서울대 교수는 “공대 등에선 대학원생의 역량이 랩(Lab)의 연구 역량과 직결되기에 현재와 같은 대학원 외면 현상은 대학 차원의 연구 경쟁력에도 치명적”이라고 했다. &lt;br&gt;&lt;br&gt;기본적으로 서울대 대학원에서 자교 출신 비율이 떨어지는 이유는 교수 처우가 수년째 제자리인 상황에서 높은 보수와 안정성을 중시하는 학생들에게 대학원 진학이 주는 이점이 사라졌기 때문이란 지적이다. 윤성로 서울대 전기전자공학부 교수는 “요즘은 (자교 대학원 진학은 물론) 해외 유학도 많이 줄었다”며 “학생들이 (교수가) 좋은 직업이 아니라고 생각하는 경우가 예전에 비해 많이 는 것 같다”고 했다. 이윤재 서울대 경영학부 석좌교수도 “학계에 남는 것보다 사기업이나 로스쿨로 가는 쪽이 기회도 많고 여러 가지 보상이 더 나으니 대학원이 상대적으로 외면받는 것 같다”고 했다.&lt;br&gt;&lt;br&gt;하지만 서울대생들이 서울대 대학원을 오지 않는 것과 별개로 서울대 대학원이 경쟁력 떨어지는 데엔 타 대학에 비해 지나치게 강도 높은 커리큘럼 운영 때문이라는 지적도 나온다. 한 서울대 인문사회계 교수는 “석박사 통합 과정을 운영한 뒤로 논문을 쓰기 위해 통과해야 하는 자격 시험이 많아지는 등 졸업 과정이 빡빡해졌다”며 “문제는 정말 우수한 학생들은 국내 대학원을 해외 유학을 위한 중간 과정 정도로 생각하는데 중간 과정이 지나치게 품이 많이 드니 서울대가 아닌 우수 사립대로 좋은 인재들이 빠지는 것”이라고 했다. &lt;br&gt;&lt;br&gt;한 교육계 인사는 “해외 대학에선 서울대나 연고대나 다 비슷한 대학으로 보고 누가 얼마나 실력 있는지에 따라 학생을 선발하는데 상대적으로 커리큘럼이 더 빡빡한 서울대가 외면받는 것은 자연스러운 부분”이라고 했다. 실제로 지난 4년간 서울대 대학원에서 서울대생의 비율이 5%포인트 빠지는 동안 연고대생의 비율은 10.0%(144명)에서 10.6%(154명)로 0.6%포인트 늘어나는 데 그쳤다. &lt;br&gt;&lt;br&gt;서울대는 대학원에 우수 인재를 유치하기 위해 학사와 석사 과정을 연계하는 학석사 연계 과정 등 대책이 등장하고 있지만 아직 큰 성과가 나오진 않고 있는 상황이다. 또 대학원생들의 학술 역량 강화를 위해 맞춤형 글쓰기 프로그램이나 국제 학술 회의 참가 지원 등도 하고 있다. 서울대 관계자는 “대학원 경쟁력 위기에 대해 문제의식을 느끼고 있다”며 “폭넓게 해결책을 강구해나가겠다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>가스에 중독됐나?… 가축 퇴비동서 쓰러진 작업자 4명 중 1명 사망</title>
-      <link>https://www.chosun.com/national/incident/2025/06/18/BDJXXWA55ZBTFCTRK7YUVIXFEQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/06/18/BDJXXWA55ZBTFCTRK7YUVIXFEQ/</guid>
-      <dc:creator>인천=이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 18 Jun 2025 06:07:04 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ORZVLPUHMZD7FF3T7QEANUODIY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;18일 오전 11시 35분쯤 직원 4명이 쓰러지는 사고가 발생한 인천 강화군 선원면 가축분뇨 공공처리시설 현장./인천소방본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천 강화군 한 가축분뇨 공공처리시설에서 직원 4명이 쓰러져 1명이 숨졌다. &lt;br&gt;&lt;br&gt;18일 인천소방본부 등에 따르면 이날 오전 11시 35분쯤 인천시 강화군 선원면 한 가축분뇨 공공처리시설 퇴비동에서 직원 4명이 쓰러졌다. &lt;br&gt;&lt;br&gt;이 사고로 이들 중 50대 남성 A씨가 심정지 상태로 CPR(심폐소생술) 등 응급처치를 받으며 병원으로 이송됐으나 숨졌다. &lt;br&gt;&lt;br&gt;40대 남성 B씨 등 3명도 두통 등 증세를 보여 119 구급대에 의해 병원으로 옮겨져 치료를 받고 있다. &lt;br&gt;&lt;br&gt;경찰은 A씨와 B씨 등이 시설 내 가스에 중독됐을 가능성 등을 열어두고 정확한 사고 경위를 수사하고 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>김건희 특검팀, 서울고검장 등 잇따라 면담 예정</title>
       <link>https://www.chosun.com/national/court_law/2025/06/18/462A6UNSS5CYVJZP5RKCIR6YIA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/18/462A6UNSS5CYVJZP5RKCIR6YIA/</guid>
@@ -873,15 +907,6 @@
       <description/>
       <pubDate>Wed, 18 Jun 2025 02:58:21 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/L5D6PHDWYGEFQEVOES42N6RTOQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;민중기 김건희 특별검사 /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 전 대통령 배우자 김건희 여사 관련 의혹을 수사할 민중기 특별검사팀은 18일 박세현 서울고검장 등을 면담할 예정이라고 밝혔다.&lt;br&gt;&lt;br&gt;특검팀은 민 특검과 김형근·박상진·문홍주·오정희 특별검사보가 이날 오후 2시부터 30분 동안 박세현 고검장을, 오후 2시 35분부터 30분간 박승환 서울중앙지검장 직무대리(1차장검사)를, 오후 4시부터 신응석 서울남부지검장을 각각 만날 예정이라고 공지했다.&lt;br&gt;&lt;br&gt;박 고검장은 작년 10월 서울중앙지검이 무혐의 처분했던 김 여사의 도이치모터스 주가조작 의혹 사건을 지난 4월부터 다시 수사 중이다. ‘12·3 비상계엄' 특별수사본부장도 맡고 있다.&lt;br&gt;&lt;br&gt;박 차장검사는 작년 10월 혐의없음 처분한 김 여사의 디올백 수수 의혹을 수사했고, 지난 3일자로 퇴임한 이창수 전 서울중앙지검장 업무를 대행하고 있다.&lt;br&gt;&lt;br&gt;신 지검장은 무속인 ‘건진 법사’ 전성배씨를 통해 통일교(현 세계평화통일가정연합) 윤모 전 세계선교본부장이 김 여사에게 명품 가방과 목걸이 등을 건넨 의혹을 수사하고 있다.&lt;br&gt;&lt;br&gt;이재명 대통령은 지난 17일자로 김형근 특검보 등 4명을 김건희 특검보로 임명했다. 김건희 특검팀은 서울 서초동에 임시사무실을 마련하고 업무를 시작했다. 약 2주 후부터는 서울 종로구의 KT광화문웨스트빌딩을 사용할 것으로 전해졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>새벽 가스 배관 옆 화재… 지나가던 20대 여성 2명이 한 행동</title>
-      <link>https://www.chosun.com/national/national_general/2025/06/18/LZ2DMHTYDZCQBITQNVKFXGQPPU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/18/LZ2DMHTYDZCQBITQNVKFXGQPPU/</guid>
-      <dc:creator>박선민 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 18 Jun 2025 03:09:38 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IM656WIQGXYVELGFSQVFRDLGVU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 30일 새벽시간 한 시민이 가스 배관 옆 화재를 목격한 뒤 옥내 소화전으로 불을 끄고 있다. /사하소방서 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;새벽 가스 배관 옆 재활용품 더미에서 발생한 화재를 20대 여성 2명이 소화전을 이용해 진압한 사연이 전해졌다. &lt;br&gt;&lt;br&gt;17일 부산 사하소방서에 따르면, 지난달 30일 오전 3시 16분쯤 부산 사하구 하단동 한 오피스텔 앞 재활용품 수거장에서 화재가 발생했다. 불이 난 시간이 고요한 새벽이었던 데다 화재가 발생한 곳 옆에는 가스 배관이 있어 자칫 대형 화재로 번질 수 있는 상황이었다. &lt;br&gt;&lt;br&gt;다행히 당시 인근을 지나던 20대 여성 2명의 신속한 대응으로 화재를 빠르게 진압됐다. 이들은 119에 전화해 건물 내부에 소화전이 있다는 사실을 알렸고, 소방 당국으로부터 사용 방법을 안내받은 뒤 호스를 끌고 와 화재를 진압했다. 불길은 빠르게 잡혔고 다행히 인명 피해는 발생하지 않았다.&lt;br&gt;&lt;br&gt;불을 끈 주인공은 박시은(28)씨와 손승아(26)씨로, 부산 사하소방서는 이들에게 유공 표창을 수여했다. 부산 사하소방서 관계자는 “불이 난 곳은 오피스텔이 밀집된 곳이라 화재가 확산했다면 자칫 대형 화재로 번질 수 있었다”며 “신고자 분의 신속한 판단과 용기 있는 행동이 인명 피해를 막을 수 있었다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>김건희 특검팀, 서초동에 임시사무실 마련… 업무 준비 착수</title>
@@ -932,15 +957,6 @@
       <content:encoded>김건희 여사 관련 의혹을 수사하는 김건희 특검의 특별검사보로 김형근·문홍주·박상진·오정희 변호사 4명이 임명됐다. 네 특검보는 18일 “막중한 책임감을 느낀다”며 “수사는 객관적 사실과 법리에 근거하여 진행될 것”이라고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DRS4VJJGFVMYZK4X2NBI2RR4CI.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령의 부인 김건희 여사 의혹 관련 사건을 맡은 민중기 특별검사가 17일 오전 서울 서초구 사무실에서 취재진의 질문에 답변하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;네 특검보는 이날 오전 언론 공지를 통해 “이번 사건이 지닌 공적 의미와 국민적 관심의 무게를 엄중히 인식하고 있다”며 “정치적 고려나 외부 압력에 흔들림 없이 법률가로서의 소명과 직무의 독립을 지켜나가겠다”고 했다. 절차적 정당성과 증거에 입각한 판단을 최우선으로 삼겠다고도 했다. 또 “국민 여러분께서 지켜보고 계신다는 점을 항상 유념하겠다”며 “실체적 진실규명을 위하여 공정하고 투명하고 철저한 수사로 답하겠다”고 했다. &lt;br&gt;&lt;br&gt;김형근·박상진·오정희 특검보는 검사 출신, 문홍주 특검보는 판사 출신이다. 김 특검보는 서울 출신으로 선덕고와 고려대 법대를 졸업했다. 2000년 사법연수원 29기 수료 후 변호사 개업을 했다가 2002년부터 검사 생활을 했다. 부산지검·인천지검 특수부장, 대검찰청 수사지휘과장, 서울중앙지검 반부패수사1부장 등을 역임한 특수통 검사로 분류된다. 2003년 3월부터 법무법인 광장 소속 변호사로 일하고 있다. 박 특검보는 서울에서 태어나 경기고와 서울대 법대를 나왔다. 사법연수원 29기를 수료하고 공익법무관을 거쳐 검사 생활을 시작했다. 창원지검 특수부장, 인천지검 강력부장, 의정부지검 고양지청장 등을 지냈다. 2022년 8월 변호사로 개업했다. &lt;br&gt;&lt;br&gt;오 특검보는 전남 순천 출신이다. 순천여고, 고려대 법대 졸업 후 사법시험에 합격해 사법연수원 30기를 수료했다. 인천지검 부천지청에서 검사를 시작했고 서울서부지검 여성아동범죄조사부장, 서울남부지검 형사3부장, 서울중앙지검 형사13부장, 창원지검 통영지청장 등을 역임했다. 2022년 10월부터 변호사로 활동 중이다. 서부지검에서 근무할 때 안희정 전 충남지사 수사를 맡았다.&lt;br&gt;&lt;br&gt;문 특검보는 전남 해남에서 태어나 인성고와 서울대 국제경제과를 졸업했다. 사법연수원 31기 수료 후 변호사 생활을 시작했다가 2008년부터 판사로 일했다. 대전지법 부장판사, 수원가정법원 부장판사를 역임했고 2023년 2월부터 다시 변호사로 활동 중이다.&lt;br&gt;&lt;br&gt;특검보는 특검의 지휘·감독에 따라 대상 사건의 수사와 재판(공소유지), 특별수사관 및 검사 등 파견 공무원 지휘·감독, 언론브리핑 등을 담당한다. 보수와 대우는 검사장급으로 받는다. 네 특검보 인선까지 완료된 만큼 김건희 특검팀은 파견 검사 40명의 인선에 집중할 것으로 전해졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>‘김건희 특검’ 특검보에 김형근·문홍주·박상진·오정희</title>
-      <link>https://www.chosun.com/national/court_law/2025/06/18/E63HEZXG3RDMZLU5KLHFWGDPDA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/18/E63HEZXG3RDMZLU5KLHFWGDPDA/</guid>
-      <dc:creator>유희곤 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 17 Jun 2025 21:19:19 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DJMNJWY7WGZENSEVSZU4PEOXNI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령 배우자 김건희 여사 의혹을 수사할 민중기 특별검사가 지난 17일 오전 서울 서초구 사무실로 출근하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 전 대통령 배우자 김건희 여사의 각종 의혹을 수사할 민중기 특별검사를 보좌할 특별검사보에 김형근·문홍주·박상진·오정희 변호사가 임명됐다.&lt;br&gt;&lt;br&gt;민 특검은 대통령실에서 지난 17일 자로 네 사람의 특검보 임명 통지를 받았다고 18일 밝혔다. 지난 15일 후보자 8명을 추천한 지 이틀 만이다.&lt;br&gt;&lt;br&gt;김건희 특검보 네 사람 중 김형근·박상진·오정희 특검보는 검사 출신, 문홍주 특검보는 판사 출신이다.&lt;br&gt;&lt;br&gt;김 특검보는 서울 출신으로 선덕고와 고려대 법대를 졸업했다. 2000년 사법연수원 29기 수료 후 변호사 개업을 했다가 2002년부터 검사 생활을 했다. 부산지검·인천지검 특수부장, 대검찰청 수사지휘과장, 서울중앙지검 반부패수사1부장 등을 역임한 특수통 검사로 분류된다. 2003년 3월부터 법무법인 광장 소속 변호사를 하고 있다.&lt;br&gt;&lt;br&gt;박 특검보는 서울에서 태어나 경기고와 서울대 법대를 나왔다. 사법연수원 29기를 수료하고 공익법무관을 거쳐 검사 생활을 시작했다. 창원지검 특수부장, 인천지검 강력부장, 의정부지검 고양지청장 등을 지냈다. 2022년 8월부터 변호사로 개업했다.&lt;br&gt;&lt;br&gt;오 특검보는 전남 순천 출신이다. 순천여고, 고려대 법대 졸업 후 사법시험에 합격해 사법연수원 30기를 수료했다. 인천지검 부천지청에서 검사를 시작했고 서울서부지검 여성아동범죄조사부장, 서울남부지검 형사3부장, 서울중앙지검 형사13부장, 창원지검 통영지청장 등을 역임했다. 2022년 10월부터 변호사로 활동 중이다.&lt;br&gt;&lt;br&gt;문 특검보는 전남 해남에서 태어나 인성고와 서울대 국제경제과를 졸업했다. 사법연수원 31기 수료 후 변호사 생활을 시작했다가 2008년부터 판사로 일했다. 대전지법 부장판사, 수원가정법원 부장판사를 역임했고 2023년 2월부터 다시 변호사로 활동 중이다.&lt;br&gt;&lt;br&gt;특검보는 특검의 지휘·감독에 따라 대상 사건의 수사와 재판(공소유지), 특별수사관 및 검사 등 파견 공무원 지휘·감독, 언론브리핑 등을 담당한다. 보수와 대우는 검사장급으로 받는다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>그들도 우리처럼… 외국인 노동자마저 고령화</title>
       <link>https://www.chosun.com/national/national_general/2025/06/18/DCFPDFZBG5BGFD7EJJBZ67O34M/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/18/DCFPDFZBG5BGFD7EJJBZ67O34M/</guid>
@@ -948,24 +964,6 @@
       <description/>
       <pubDate>Tue, 17 Jun 2025 16:20:39 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OAERXZLCKBCHFENLUKQRIFBJ24.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;오늘도 허탕이려나 - 지난 16일 새벽 서울 구로구 남구로역 근처의 인력시장. 조선족 일용직 근로자들이 일감을 구하기 위해 모여들었다. 이들 대부분은 50~70대였다. /장경식 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“어이, 왔어? 오늘은 뽑히려나.”&lt;br&gt;&lt;br&gt;지난 11일 오전 4시 30분 서울 최대 조선족 인력 시장인 남구로역 일대 인도는 일감을 기다리는 수백 명의 사람들로 가득 찼다. 이들 대부분은 50~70대 중·노년층이었다. 서로를 ‘형씨’라고 불렀지만 인부들의 이마와 눈가엔 주름이 졌고, 작업 조끼를 입은 등은 구부정했다. 30분 뒤 인부들이 3~5명씩 짝 지어 승합차를 타고 인천·동탄·마곡 등 수도권 공사 현장으로 떠나기 시작했지만 그나마 젊은 4050이 대부분이었다. 인력 사무소 현장소장 신봉춘(52)씨는 “힘 좀 써야 하는 건설 일에 나이 든 사람만 줄을 서니 절반 이상은 집으로 돌아간다”고 했다. 고명도(72)씨는 “매일 새벽에 나와도 뽑히지를 않는다. 지난달엔 하루, 이번 달엔 이틀밖에 일을 못 했다”며 한숨을 쉬었다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NGUOCHC73NFODLSX5DNF4XTSEE.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=이진영&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;초고령 시대에 전국 곳곳의 건설 현장에서 일용직 노동을 하는 외국인 노동자들도 고령화되고 있다. 김위상 국민의힘 의원실이 법무부로부터 받은 자료에 따르면 재외동포(F-4) 비자를 받은 외국인 55만3664명 가운데 60세 이상 인구는 22만2563명으로 40.2%였다. 건설근로자공제회에 따르면 전체 외국인 건설 노동자의 절반 이상이 재외동포 비자 소지자다. 이 탓에 건설 일이나 화물 운송 등 이른바 ‘3D 업계’는 젊은 인력을 구하는 데 어려움을 겪고 있다. 일하고 싶다는 사람은 넘쳐나는데, 정작 건설 업계에선 “제대로 일할 사람을 찾기 힘들다”고 하소연하는 상황이다.&lt;br&gt;&lt;br&gt;이날 오전 5시 30분 인부 모집이 마감되자 “오늘도 공쳤다”는 한숨이 곳곳에서 나왔다. 구로구 가리봉동에서 왔다는 김모(64)씨는 “벌써부터 나이 많다고 일 못 하면 앞으로는 어떻게 살아야 하냐”며 작업복이 든 봉지를 들고 자리를 떴다. 한 60대 남성은 “발걸음이 떨어지지 않는다”며 20분간 줄담배를 피웠다. 인부들 일부는 본지 취재팀에 “인력 사무소에서 나왔냐. 일감 좀 달라”고 했다.&lt;br&gt;&lt;br&gt;반면 3D 업종 현장에서는 젊은 인력을 사수하기 위해 진땀을 빼고 있다. 비전문 취업(E-9) 비자를 받고 들어오는 베트남 등 동남아시아·중앙아시아 출신 외국인 노동자들도 최근엔 상대적으로 임금이 높고 업무 강도가 낮은 제조업 분야를 선호하기 때문이다. 서울의 한 건설 현장 소장 차모(60)씨는 “인력 사무소에 조르고 졸라 운 좋게 젊은 외국인 노동자를 구하면 1만~2만원의 웃돈을 얹어주거나 일 끝나고 밥·술까지 사 먹이며 내일도 나와 달라고 사정한다”며 “그렇게 안 하면 다른 공사장이나 공단에 사람 다 뺏긴다”고 했다. 건설 현장뿐 아니라 조선족들이 주로 일하는 간병인, 음식점 종업원 등 서비스업도 인력 부족에 시달리고 있다. 충남 세종시의 한 요양원 관계자는 “하루에도 수차례 환자를 들어 옮겨야 하는데 나이가 있으면 고된 업무를 제대로 수행하지 못한다”며 “20~30대 간병인을 구하는 건 하늘의 별 따기”라고 했다.&lt;br&gt;&lt;br&gt;외국인 노동자 고령화의 원인은 조선족 근로자들이다. 재외 동포 비자를 받고 온 외국인들에겐 단순 업무 취업이 금지돼 있지만, 상당수가 내국인이 기피하는 건설 일용직, 청소 업무 등을 하고 있다. 조선족 향우회 관계자는 “한국에 머무는 조선족 대부분이 1990~2000년대에 정착한 사람들”이라며 “최근엔 중국 대도시에 있는 기업에서 일하려는 추세가 강해져 젊은 조선족 유입은 더욱 줄어들 것으로 보인다”고 했다.&lt;br&gt;&lt;br&gt;전문가들은 국내에 있는 외국인 노동자들의 숙련도를 높이고, 젊은 인력의 국내 정착을 유도할 수 있는 다양한 제도를 정부가 도입해야 한다고 주장한다. 이규용 한국노동연구원 선임연구위원은 “해외 대학과 국내 건설 업체들의 협약 등을 통해 건설 지식을 가진 젊은 인력을 데려와 단순 노무 직종보다 전문 인력 비율을 높이는 방안도 필요하다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>세브란스병원, 하반기 중입자 암 치료기 3대 완전 가동</title>
-      <link>https://www.chosun.com/national/welfare-medical/2025/06/18/YUTRL24ABFHOJP7DQJL7SX224E/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/06/18/YUTRL24ABFHOJP7DQJL7SX224E/</guid>
-      <dc:creator>오유진 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 17 Jun 2025 20:03:00 +0000</pubDate>
-      <content:encoded>암세포만 정밀하게 파괴하는 세브란스병원의 중입자 치료기가 올 하반기부터 1대 추가 운영돼 총 3대가 완전 가동된다. 이에 따라 치료 대상이 현재 전립선암, 췌장암 등에서 두경부암, 육종암, 부인암으로 확대될 예정이다.&lt;br&gt;&lt;br&gt;최진섭 연세암병원장은 17일 기자 간담회에서 “하반기 중입자 치료기를 완전히 가동해 암 치료 대상을 확대할 예정”이라고 밝혔다. 중입자 치료는 탄소 원자를 빛에 가까운 속도로 가속시켜 정상 조직은 건드리지 않고 암세포를 정밀 타격하는 방식이다. 치료 시간이 짧고 부작용이 적다. &lt;br&gt;&lt;br&gt;세브란스병원은 현재 국내에서 유일하게 보유한 중입자 치료기 3대 가운데 2대를 가동하며 전립선암, 췌장암, 간암, 폐암을 주로 치료하고 있다. 여기에 오는 9~10월쯤 두경부암, 육종암, 자궁경부암·난소암 등 부인암을 위한 기기 1대를 위한 설비 공사를 마무리하면 총 3대가 ‘풀 가동’된다는 설명이다. &lt;br&gt;&lt;br&gt;현재 중입자 치료는 건강보험 적용이 안 돼 최소 5000만원의 치료비를 환자가 전액 부담해야 한다. 현재 세브란스병원 중입자 치료를 위해서는 최소 3개월 이상, 췌장암의 경우 4~5개월 이상 대기해야 하는 것으로 알려졌다. &lt;br&gt;&lt;br&gt;최진섭 암병원장은 중입자 치료 외에도 난치 암 극복을 위한 신약 임상, 기초 학문과 임상 시험을 연계하는 중개 연구, 여러 진료과 전문의가 참여하는 다학제 진료, 로봇 수술과 빅데이터·AI(인공지능) 활용 등을 통해 ‘전방위 암 치료 시스템’을 고도화하겠다고 밝혔다. 그러면서 “지난 56년의 암 치료 경험과 끊임없는 혁신을 통해 연세암병원은 암 치료에서 새로운 미래를 열어가고 있다”고 했다. 병원 측은 “대표적으로 2015~2019년 폐·간·췌장 3대 난치 암 생존율이 국내 평균보다 높다”고 설명했다. 이 기간 국내 폐암의 상대 생존율은 34.7%인데 연세암병원은 43.7%이고, 간암(평균 37.7%·연세암병원 39.9%), 췌장암(평균 13.9%·연세암병원 16.5%)도 생존율이 더 높다는 것이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[오늘의 날씨] 2025년 6월 18일</title>
-      <link>https://www.chosun.com/national/national_general/2025/06/18/IURAA5EVXZGNFIXEZ2A7OVZWDE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/18/IURAA5EVXZGNFIXEZ2A7OVZWDE/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Tue, 17 Jun 2025 16:57:13 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/E436DSU7C5APLBKP3S23NO5AKA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[신문은 선생님] [예쁜 말 바른 말] [399] ‘9분 능선’과 ‘7분 바지’</title>
