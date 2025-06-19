@@ -13,6 +13,24 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>서울 출근길 호우특보…시간당 50㎜ 물폭탄 쏟아진다</title>
+      <link>https://www.chosun.com/national/national_general/2025/06/20/WNNK42TBTVCVZMWGGTVA72WGBQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/20/WNNK42TBTVCVZMWGGTVA72WGBQ/</guid>
+      <dc:creator>김자아 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 19 Jun 2025 22:55:15 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5XNUOJZIJFMINDMLBQZ7YFZZTA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 전역에 호우주의보가 내려진 20일 서울 청계천 산책로 출입이 통제되고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;20일 중부 수도권과 강원도 일부 지역에 호우특보가 발효되는 등 전국 대부분 지역에 거센 장맛비가 내리겠다.&lt;br&gt;&lt;br&gt;기상청에 따르면 이날 수도권과 강원도를 중심으로 돌풍과 함께 천둥·번개를 동반한 시간당 30~50㎜의 매우 강한 비가 내리겠다. &lt;br&gt;&lt;br&gt;이날 서울·인천과 일부 경기도, 일부 강원도에는 호우특보가 발효됐다.&lt;br&gt;&lt;br&gt;전날 밤 9시부터 이날 오전 7시까지 이미 수도권에는 금곡(인천) 139.0㎜, 영종도(인천) 118.5㎜, 양촌(김포) 111.0㎜, 김포 106.5㎜, 광탄(파주) 91.5㎜의 비가 내렸다. &lt;br&gt;&lt;br&gt;강원도에는 광덕고개(화천) 69.5㎜, 김화(철원) 60.0㎜, 충청권에도 대산(서산) 22.5㎜, 근흥(태안) 18.0㎜, 태안 14.5㎜의 비가 내렸다.&lt;br&gt;&lt;br&gt;이번 비는 21일까지 전국적으로 강하게 내리겠다.&lt;br&gt;&lt;br&gt;이튿날까지 서울·인천·경기 북부와 강원 중·북부 내륙, 대전충남 남부, 전북은 최대 150㎜ 이상, 경기 남부와 강원 남부 내륙, 세종·충남 북부, 충북, 광주·전남 북부는 최대 120㎜ 이상의 많은 비가 예보됐다.&lt;br&gt;&lt;br&gt;같은 기간 예상 강수량은 수도권과 강원 내륙·산지, 충청권, 전북 50∼100㎜, 광주·전남과 대구·경북, 경남 서부 내륙 30∼80㎜, 제주도 20∼80㎜, 부산·울산·경남과 울릉도·독도 20∼60㎜, 강원 동해안 10∼50㎜다.&lt;br&gt;&lt;br&gt;수도권 서부와 충남 서해안, 전라 서해안, 강원 산지, 제주도는 오후부터 점차 바람이 순간 초속 20ｍ 이상(산지 초속 25ｍ 이상)으로 매우 강하게 불면서 강풍특보가 내려질 가능성도 있다.&lt;br&gt;&lt;br&gt;기상청은 “돌풍과 함께 천둥·번개를 동반한 매우 강한 비와 많은 비로 피해가 우려되니, 시설물 관리와 안전사고에 각별히 유의하기 바란다”고 당부했다.&lt;br&gt;&lt;br&gt;이날 오전 7시 현재 기온은 서울 24.5도, 인천 23.6도, 수원 24.3도, 춘천 23.7도, 강릉 28.6도, 청주 25.2도, 대전 25.5도, 전주 26.6도, 광주 25.6도, 제주 25.6도, 대구 27.3도, 부산 23.0도, 울산 26.2도 등이다.&lt;br&gt;&lt;br&gt;낮 최고기온은 23∼31도로 전날보다 2∼5도가량 낮겠다. 많은 비가 내리며 전국 대부분 지역에서 낮 기온이 25도 안팎으로 예년보다 조금 낮겠다.&lt;br&gt;&lt;br&gt;미세먼지 농도는 원활한 대기 확산과 강수의 영향으로 전국이 ‘좋음’ 수준을 보이겠다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>얼굴에 무언가 기어다녀…호텔방 불켜보니 “진드기 100마리”</title>
+      <link>https://www.chosun.com/national/national_general/2025/06/20/EGHR5WPBR5EBLKVVJISWUIYO64/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/20/EGHR5WPBR5EBLKVVJISWUIYO64/</guid>
+      <dc:creator>이가영 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 19 Jun 2025 22:32:06 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IGDS6XKANRF3POBKJ7ZEG23ODQ.gif"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 24일 대구의 한 호텔에서 진드기가 발견됐다. /TBC&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대구의 한 호텔에서 수십 마리가 넘는 진드기들이 발견돼 투숙했던 일가족 4명이 병원 치료를 받는 일이 발생했다. &lt;br&gt;&lt;br&gt;19일 TBC에 따르면 지난달 24일 외지에서 놀러 온 A씨 가족은 놀이공원에서 가까운 한 호텔에 묵었다. 온 가족이 잠에 들었을 때, 무언가 몸에 기어다니는 느낌을 느꼈다고 한다. &lt;br&gt;&lt;br&gt;A씨는 “처음에는 모기에 물린 줄 알았다”며 “뭔가 계속 기어다니기에 얼굴을 만져보니 동글동글한 먼지 같은 게 (손에) 잡혔다”고 했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YZ3CBR3URFFSZKHYUWMKKGZTQU.png"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 24일 대구의 한 호텔 벽과 천장 등에서 수십 마리의 진드기가 발견됐다. /TBC&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;결국 잠에서 깨 불을 켜봤더니 수십 마리의 진드기가 살아서 벽과 천장, 이불 위를 기어다니고 있었다. A씨는 “100마리는 훨씬 넘었을 것”이라고 했다. &lt;br&gt;&lt;br&gt;어린 아들과 딸은 진드기에 물려 피부가 붉게 변했고, 온 가족이 병원 치료를 받았다. 병원에서는 “진드기에 물리고 나서 몸통, 등, 다리에 소양증이 심한 흉반성 구진 병변들이 발생했다”고 진단했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OW52OQM56RBS7OHWOUBDXSYSFE.png"&gt;&lt;figcaption&gt;&lt;small&gt;A씨는 진드기에 물린 아이들의 피부가 붉게 변해 병원 치료를 받았다고 했다. /TBC&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;A씨는 그러나 호텔 측이 한 달이 넘도록 보상을 해주지 않는다고 했다. 호텔 측은 “치료가 1년이 걸릴 수도, 2년이 걸릴 수도 있는데 중간중간에 계속 저희가 정산해드릴 수 있는 상황이 아니다”라며 “완치되면 전체 금액을 다 보상하겠다”고 밝혔다. &lt;br&gt;&lt;br&gt;감염병 예방 및 관리에 관한 법률에 따르면, 숙박업소나 병원 등은 1년에 2회 이상 전문업체의 소독을 받아야 하며 의무를 따르지 않으면 과태료가 부과된다. 이 호텔은 A씨 일로 과태료 처분 통보를 받은 것으로 전해졌다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>“생활비 벌려고” “휴일에 노느니” 부업 전성시대</title>
       <link>https://www.chosun.com/national/labor/2025/06/20/SZUVK735DRCYLGFXT6XVEL6LEY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/labor/2025/06/20/SZUVK735DRCYLGFXT6XVEL6LEY/</guid>
@@ -902,15 +920,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2K37LCK3ENEJVGX5S4UIGHHYM4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[신문으로 배우는 실용한자] 회생불가(回生不可)</title>
-      <link>https://www.chosun.com/national/nie/chinese_character/2025/06/19/OWBLZFDXSJAP5B6VX2Q6OV2VUQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese_character/2025/06/19/OWBLZFDXSJAP5B6VX2Q6OV2VUQ/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 18 Jun 2025 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5BGKQSJR5RHEXLQSMXSG5PKK7I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[매일매일 중국어 한마디] 기억이 생생하다</title>
       <link>https://www.chosun.com/national/nie/chinese/2025/06/19/XVN5N7C7VBBEVMDURERQJJUBAI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese/2025/06/19/XVN5N7C7VBBEVMDURERQJJUBAI/</guid>
@@ -918,15 +927,6 @@
       <description/>
       <pubDate>Wed, 18 Jun 2025 15:34:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZH7B4XD2WRCHVLSOP3AQ6JEHRE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[스피킹이 강해지는 영어] empty promise</title>
-      <link>https://www.chosun.com/national/nie/english/2025/06/19/YCGX6PPHAVF75O2PCJVQVTK73M/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/english/2025/06/19/YCGX6PPHAVF75O2PCJVQVTK73M/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 18 Jun 2025 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PCRCMHWJG5AH3IIFSKI4JK7TKM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>방첩사 간부 “여인형 지시로 체포 명단 작성...경찰엔 전달하지 말라고 했다”</title>
