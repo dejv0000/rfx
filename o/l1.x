@@ -6,14 +6,43 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>[판결] 성매매 업주에 '수사 정보 누설' 경찰들 징역형 집행유예 확정</title>
+			<description>&lt;b&gt;[대법원 판결]&lt;/b&gt;&lt;br /&gt;브로커를 통해 성매매 업주에게 경찰 단속과 수사 계획을 알려준 혐의로 재판에 넘겨진 경찰관들에게 징역형 집행유예가 확정됐다.&lt;p&gt;&lt;br /&gt;대법원 형사3부(주심&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="9051"&gt;이숙연&amp;nbsp;&lt;/span&gt;대법관)는 공무상 비밀누설, 개인정보보호법 위반 혐의로 기소된 경찰관 A 씨에 대해 징역 10개월에 집행유예 2년을 선고한 원심을 5월 29일 확정했다(&lt;b&gt;2024도18647&lt;/b&gt;). 함께 기소된 경찰 B 씨에게는 징역 6개월에 집행유예 2년이 선고됐다.&lt;br /&gt;&lt;b&gt;&lt;br /&gt;[사실관계]&lt;/b&gt;&lt;br /&gt;A 씨와 B 씨는 2018년 4월 아는 브로커의 부탁을 받고 서울 강남의 한 성매매 업소에 대한 단속과 수사 계획 등을 두 차례 누설한 혐의를 받는다. 브로커의 요청을 받은 A 씨는 B 씨에게 단속 계획을 넘겨 받아 브로커에게 정보를 흘려줬고, 해당 업주에 대한 추가 수사 계획이 없다는 점도 알려준 것으로 조사됐다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;2018년 6월 이 브로커의 부탁을 받고 해당 업주의 지명수배 여부를 알려준 경찰관 C 씨와 D 씨 2명도 함께 재판에 넘겨졌다.&lt;br /&gt;&lt;b&gt;&lt;br /&gt;[하급심 판단]&lt;/b&gt;&lt;br /&gt;1심은 이들의 혐의를 유죄로 인정하고 A 씨에게 징역 10개월에 집행유예 2년, B 씨에게 징역 6개월에 집행유예 2년을 선고했다. C 씨와 D 씨는 각각 선고유예, 징역 4개월에 집행유예 1년을 선고받았다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;1심 재판부는 "피고인들은 경찰공무원으로 직무상 권한을 이용해 취득한 수사정보를 타인에게 누설했다"며 "이는 경찰 직무의 공정성을 해하고 공정한 법 집행에 관한 국민의 신뢰를 훼손할 뿐 아니라, 범죄 수사에 대한 국가의 기능을 위협하는 범죄며, 따라서 죄책이 가볍다 할 수 없다"고 밝혔다.&lt;/p&gt;&lt;p&gt;&amp;nbsp; &lt;br /&gt;항소심은 A 씨와 B 씨의 누설 혐의 2개 중 1개의 혐의는 무죄라고 봤다. 다만 포괄일죄의 관계에 있는 다른 부분이 유죄가 인정된다며 1심의 형량을 유지했다.&lt;br /&gt;&lt;b&gt;&lt;br /&gt;[대법원 판단]&lt;/b&gt;&lt;br /&gt;대법원도 원심 판단을 받아들이고 A 씨 등의 상고를 기각했다.&lt;/p&gt;</description>
+			<pubDate>Thu, 19 Jun 2025 21:09:12 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/208963</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/208963</guid>
+			<dc:creator>홍윤지 기자</dc:creator>
+		</item>
+		<item>
 			<title>신한은행 '신한 FDI Partners' 출범 … 외국인 직접 투자 종합 지원</title>
 			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/208996.jpg" alt="11111.jpg" style="opacity: 0;" height="10px" /&gt;&lt;/p&gt;신한은행(은행장 정상혁)은 6월 19일 국내외 기업의 투자 수요 증가에 발맞춰 외국인 투자자를 위한 종합 지원체계를 갖춘 전담 조직 ‘신한 FDI Partners’를 출범했다고 밝혔다. FDI는 외국인 직접투자를 의미하는 Foreign Direct Investment의 약자다.&lt;br /&gt;&lt;br /&gt;‘신한 FDI Partners’는 한국 시장 진출을 고려하는 외국인 투자자를 위해 △글로벌투자지원팀 △국내FDI협력팀 △외환자본신고팀 등으로 구성된 전문가들이 외투신고부터 계좌 개설, 외환 송금까지 외환 업무 전반을 ’원스톱’으로 지원한다. 외환 거래(FX) 자문과 인수금융 투자 자문 등 종합 금융 솔루션도 제공한다.&lt;br /&gt;&lt;br /&gt;특히 영미권, 중국, 일본 등 지역 전문가들이 글로벌 투자자와 직접 소통하며, 한국 진출부터 국내 비즈니스 확대까지 전 과정에 걸쳐 맞춤형 서비스를 제공할 예정이다.&lt;br /&gt;&lt;br /&gt;신한은행 관계자는 “한층 강화된 전문성을 바탕으로, 한국에 투자하는 외국인 투자기업과 해외 진출 및 투자를 희망하는 국내 기업 모두에게 맞춤형 투자 컨설팅 서비스를 제공하겠다”고 밝혔다.&lt;br /&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/208996.jpg" alt="222222222.jpg" /&gt;&lt;/p&gt;</description>
-			<pubDate>Thu, 19 Jun 2025 08:52:04 -0000</pubDate>
+			<pubDate>Thu, 19 Jun 2025 13:45:05 -0000</pubDate>
 			<category>news</category>
 			<link>https://www.lawtimes.co.kr/news/208996</link>
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/208996</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/208996.jpg</media:thumbnail>
 			<dc:creator>조한주 기자</dc:creator>
+		</item>
+		<item>
+			<title>네이버 파워링크 검색광고비 변호사가 가장 많이 낸다</title>
+			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/208902.jpg" alt="3453637.jpg" /&gt;&lt;/p&gt;&lt;p style="text-align: center;"&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;네이버 파워링크 검색 광고료로 법률 업종이 가장 비싼 금액을 지불하는 것으로 나타났다. 법률 업종의 키워드당 클릭 비용(Cost Per Click·CPC)은 6만 원에서 10만 원 사이로, 상한선인 10만 원짜리 키워드도 다수 있다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;네이버 파워링크 검색 광고는 키워드별로 입찰을 받아 CPC가 책정된다. 업종별로 보면 병원 업종이 1만~4만 원, 세무 1만~5만 원, 웨딩 5000원에서 1만 원 등으로 법률 업종의 단가가 다른 업종에 비해 2배 이상 비싸다. 실제 인기 키워드인 ‘성범죄’, ‘이혼’, ‘보이스피싱’ 등의 CPC는 상한선인 10만 원으로 치솟았다. 업계에서는 입찰 단가가 상한선인 10만 원으로 사실상 고정돼 있다고 보고 있다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;유독 법률 업종의 CPC가 치솟은 데는 법률시장의 정보 비대칭이 주요 원인으로 지적된다. 법률시장 사정을 면밀히 파악하기 어려운 소비자들이 변호사 선임을 위해 네이버 같은 검색 포털 등에 의존하고, 로펌 업계도 ‘울며 겨자 먹기’로 포털 광고 경쟁에 내몰린다. 한 포털 광고 대행 업체 관계자는 “업체 간 순위 경쟁 때문에 법률 업종은 유독 비용이 많이 드는 편”이라며 “광고 비용으로 한 달에 최소 300만 원 이상 지출하는 로펌도 다수”라고 말했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;일부 로펌 간 포털 키워드 광고 경쟁이 치열해지면서, 변호사 업계에서는 오히려 광고 시장 왜곡이 발생하고 높은 광고료가 소비자에게 수임료로 전가된다는 지적도 나오고 있다. 서울 서초동에서 개인 사무실을 운영하는 한 변호사는 “일부 대형 로펌의 네이버 광고 경쟁으로 광고료가 너무 높아졌다”며 “높은 키워드 광고 단가는 결국 의뢰인들에게 전가될 수밖에 없다”고 말했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;법무부는 5월 27일 ‘변호사 검색 서비스 운영 가이드라인(이하 ‘가이드라인’)’을 내고 CPC 방식의 광고에 제동을 걸었다. 이에 따르면 특정 분야나 키워드를 입찰에 부치고, 낙찰 가격의 순서로 변호사 등을 선순위에 정렬하는 CPC 방식의 광고는 이제 금지된다. 유료 회원 간 광고비나 상담료 등의 순으로 차등 정렬하는 것도 허용되지 않는다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;다만 법무부 가이드라인을 포털 업계가 철저하게 준수할지는 아직 미지수다. 법무부 가이드라인은 대한변호사협회의 변호사 징계권 등을 통해 우회적으로만 적용할 수 있고, 포털을 직접 제재할 수 있는 강제력은 없다. 법무부는 가이드라인의 실효성을 높이고자 포털 업체 등 이해 관계자들을 상대로 간담회 등을 추진할 방침이다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;변호사 업계에서는 법무부 가이드라인이 실효를 거둔다면 광고 경쟁에서의 ‘빈익빈 부익부’가 줄 수 있다는 기대가 생기고 있다. 변협은 5월 27일 논평을 내고 “가이드라인은 변호사제도의 공공성과 공정한 수임 질서 확립, 법률 소비자 보호 및 국민의 사법 접근성 향상을 목적으로 제정됐다”며 “이는 변호사법의 취지를 잠탈하지 않아야 한다는 기본 원칙과 규범적 효력이 없다는 점에서, 변호사법 등 관계 법령에 저촉되지 않는 범위 내 기본적 권고사항으로서 의미가 있다”고 했다. 이성엽 한국데이터법정책학회장도 “법률 플랫폼 서비스가 제도권 내로 수용되면서 법무부로부터 서비스 자체를 합법적으로 인정받았다는 점에서 의미가 있다”며 “혁신 기술을 수용하면서도 법률 서비스의 공정성을 유지하기 위한 노력이 이뤄졌다는 점에서 긍정적”이라고 했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;b&gt;&lt;br /&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;서하연 기자&amp;nbsp; &amp;nbsp;hayeon@lawtimes.co.kr&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;임현경 기자&amp;nbsp; &amp;nbsp;hylim@lawtimes.co.kr&lt;/b&gt;&lt;/p&gt;</description>
+			<pubDate>Thu, 19 Jun 2025 13:44:56 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/208902</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/208902</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/208902.jpg</media:thumbnail>
+			<dc:creator>임현경 기자</dc:creator>
+		</item>
+		<item>
+			<title>"AI 기술 도입, 기존 업무 프로세스와 통합성 고려해야"</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/209014.jpg" alt="46363634534534.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;박성재 로폼 AI센터장 《사진=백성현 기자》&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;법률문서 AI를 제공하는 로폼의&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="891"&gt;박성재&lt;/span&gt;(57·사법연수원 30기) AI센터장은 6월 19일 서울 강남구 삼성동 코엑스 C홀에서 열린 ‘2025 리걸테크 &amp; AI 전시회(Legal Tech &amp; AI Show, LTAS)’ 강연에서 "AI 도입의 효과를 극대화하기 위해서는 법무조직 내 기존 업무 프로세스와의 '통합'이 핵심"이라고 강조했다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;먼저 박 센터장은 법무조직에 AI가 필요한 이유에 대해 기업 법무팀의 복잡한 업무 환경을 들었다. 그는 "기업 법무조직은 변동성, 불확실성, 복잡성 등이 혼재된 환경에서 높은 성과(KPI) 달성, 컴플라이언스 준수, ESG 규제까지 동시에 고려해야 하는 상황"이라고 말했다. 특히 최근에는 신규 사업 초기부터 법적 리스크를 사전 예방하는 역할까지 요구되고 있어, 업무 효율화의 필요성이 더욱 증대되고 있다고 덧붙였다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;로폼은 이러한 법무환경 변화에 대응하기 위해, '계약서 생애주기관리' 등을 지원하는 AI 기능을 제공하고 있다. 박 센터장은 "법무팀 업무 중 반복적인 형태의 계약서 생성 업무가 상당한 비중을 차지한다”며 "계약서 초안 생성부터 최종 계약서 완성까지 모든 법무 검토 절차를 확인할 수 있는 서비스를 제공한다"고 설명했다. 로폼은 각 결재 단계에서 담당자가 피드백을 남길 수 있는 메모 기능을 제공하며, 다음 결재자가 기존 문서와 변경된 문서를 한 화면에서 비교할 수 있도록 UI를 제공한다. 문서 변경 사항은 일자별로 자동 정리되며, 계약서와 관련된 거래처 정보 자동 불러오기, 전자서명 시스템 등도 함께 지원해 법무 검토의 효율성을 극대화한다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;업무 효율화를 위한 AI 기술의 핵심은 기존 업무 프로세스와의 '통합성'이다. 박 센터장은 "기존 내부 프로세스와 AI 기능이 단절되어 있으면 데이터 흐름 단절, 업무 비효율, 오류가 발생할 수 있다"며 "AI 기술이 기존 프로세스에 잘 적용될 수 있도록 통합적인 시스템을 제공해야 한다"고 강조했다. 로폼은 이러한 철학을 기반으로 이용자가 계약서를 업로드하면, AI가 자동으로 △필수조항 검토 △기존 및 비교 계약서와의 비교 분석 △기업의 내부 법무 기준 반영 여부 등을 진행한다. 새로운 계약서 생성뿐만 아니라, 고객이 보유한 과거 문서를 기반으로 한 비교 검토 AI, 질의응답, 검색 기능까지 통합 제공해, 법률문서 작성·검토에 소요되는 시간, 비용, 리스크를 전방위적으로 절감할 수 있도록 지원한다.&lt;/p&gt;</description>
+			<pubDate>Thu, 19 Jun 2025 13:44:15 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/209014</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/209014</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/209014.jpg</media:thumbnail>
+			<dc:creator>서하연 기자</dc:creator>
 		</item>
 		<item>
 			<title>[단독] 엘박스·KT, 대법원 '재판지원 AI 사업' 우선협상대상자 선정</title>
@@ -54,16 +83,6 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/209011</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/209011.jpg</media:thumbnail>
 			<dc:creator>조한주 기자</dc:creator>
-		</item>
-		<item>
-			<title>네이버 파워링크 검색광고비 변호사가 가장 많이 낸다</title>
-			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/208902.jpg" alt="3453637.jpg" /&gt;&lt;/p&gt;&lt;p style="text-align: center;"&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;네이버 파워링크 검색 광고료로 법률 업종이 가장 비싼 금액을 지불하는 것으로 나타났다. 법률 업종의 키워드당 클릭 비용(Cost Per Click·CPC)은 6만 원에서 10만 원 사이로, 상한선인 10만 원짜리 키워드도 다수 있다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;네이버 파워링크 검색 광고는 키워드별로 입찰을 받아 CPC가 책정된다. 업종별로 보면 병원 업종이 1만~4만 원, 세무 1만~5만 원, 웨딩 5000원에서 1만 원 등으로 법률 업종의 단가가 다른 업종에 비해 2배 이상 비싸다. 실제 인기 키워드인 ‘성범죄’, ‘이혼’, ‘보이스피싱’ 등의 CPC는 상한선인 10만 원으로 치솟았다. 업계에서는 입찰 단가가 상한선인 10만 원으로 사실상 고정돼 있다고 보고 있다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;유독 법률 업종의 CPC가 치솟은 데는 법률시장의 정보 비대칭이 주요 원인으로 지적된다. 법률시장 사정을 면밀히 파악하기 어려운 소비자들이 변호사 선임을 위해 네이버 같은 검색 포털 등에 의존하고, 로펌 업계도 ‘울며 겨자 먹기’로 포털 광고 경쟁에 내몰린다. 한 포털 광고 대행 업체 관계자는 “업체 간 순위 경쟁 때문에 법률 업종은 유독 비용이 많이 드는 편”이라며 “광고 비용으로 한 달에 최소 300만 원 이상 지출하는 로펌도 다수”라고 말했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;일부 로펌 간 포털 키워드 광고 경쟁이 치열해지면서, 변호사 업계에서는 오히려 광고 시장 왜곡이 발생하고 높은 광고료가 소비자에게 수임료로 전가된다는 지적도 나오고 있다. 서울 서초동에서 개인 사무실을 운영하는 한 변호사는 “일부 대형 로펌의 네이버 광고 경쟁으로 광고료가 너무 높아졌다”며 “높은 키워드 광고 단가는 결국 의뢰인들에게 전가될 수밖에 없다”고 말했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;법무부는 5월 27일 ‘변호사 검색 서비스 운영 가이드라인(이하 ‘가이드라인’)’을 내고 CPC 방식의 광고에 제동을 걸었다. 이에 따르면 특정 분야나 키워드를 입찰에 부치고, 낙찰 가격의 순서로 변호사 등을 선순위에 정렬하는 CPC 방식의 광고는 이제 금지된다. 유료 회원 간 광고비나 상담료 등의 순으로 차등 정렬하는 것도 허용되지 않는다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;다만 법무부 가이드라인을 포털 업계가 철저하게 준수할지는 아직 미지수다. 법무부 가이드라인은 대한변호사협회의 변호사 징계권 등을 통해 우회적으로만 적용할 수 있고, 포털을 직접 제재할 수 있는 강제력은 없다. 법무부는 가이드라인의 실효성을 높이고자 포털 업체 등 이해 관계자들을 상대로 간담회 등을 추진할 방침이다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;변호사 업계에서는 법무부 가이드라인이 실효를 거둔다면 광고 경쟁에서의 ‘빈익빈 부익부’가 줄 수 있다는 기대가 생기고 있다. 변협은 5월 27일 논평을 내고 “가이드라인은 변호사제도의 공공성과 공정한 수임 질서 확립, 법률 소비자 보호 및 국민의 사법 접근성 향상을 목적으로 제정됐다”며 “이는 변호사법의 취지를 잠탈하지 않아야 한다는 기본 원칙과 규범적 효력이 없다는 점에서, 변호사법 등 관계 법령에 저촉되지 않는 범위 내 기본적 권고사항으로서 의미가 있다”고 했다. 이성엽 한국데이터법정책학회장도 “법률 플랫폼 서비스가 제도권 내로 수용되면서 법무부로부터 서비스 자체를 합법적으로 인정받았다는 점에서 의미가 있다”며 “혁신 기술을 수용하면서도 법률 서비스의 공정성을 유지하기 위한 노력이 이뤄졌다는 점에서 긍정적”이라고 했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;b&gt;&lt;br /&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;서하연 기자&amp;nbsp; &amp;nbsp;hayeon@lawtimes.co.kr&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;임현경 기자&amp;nbsp; &amp;nbsp;hylim@lawtimes.co.kr&lt;/b&gt;&lt;/p&gt;</description>
-			<pubDate>Thu, 19 Jun 2025 08:36:04 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/208902</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/208902</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/208902.jpg</media:thumbnail>
-			<dc:creator>임현경 기자</dc:creator>
 		</item>
 		<item>
 			<title>"로펌, AI 지속적으로 학습·실험하고 활용 문화 조성해야"</title>
@@ -220,26 +239,6 @@
 			<link>https://www.lawtimes.co.kr/news/208980</link>
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/208980</guid>
 			<dc:creator>인터넷 기자</dc:creator>
-		</item>
-		<item>
-			<title>"CLO가 CEO로"</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/208977.jpg" alt="345363333.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;진성열 법틀 대표 《사진=백성현 기자》&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;리걸테크 기업 '법틀(buptle)'의 진성열 대표는 6월 18일 서울 강남구 삼성동 코엑스 C홀에서 열린 ‘2025 리걸테크 &amp; AI 쇼(Legal Tech &amp; AI Show, LTAS)’에서 '기업 법무팀 역할의 변화와 적절한 AI의 활용 방안'을 주제로 발표하며 "기업 법무팀 구성원의 역할이 법무담당 최고책임자(CLO)에서 최고경영자(CEO) 등으로 다변화되고 있다"며 "법틀은 기업 법무 시장을 겨냥한 클라우드 기반의 공개 서비스를 7~9월 내로 공개할 예정"이라고 밝혔다.&lt;br /&gt;&lt;br /&gt;진 대표는 "국내 의료 서비스 시장은 150조 원에 달하는 반면 법률 시장의 전체 규모는 8.3조 원"이라며 "국내 법무 서비스 시장 자체가 크지 않은 현실 속에서, 지속적으로 이익을 창출하는 기업 법무시장은 향후 법무시장의 큰 비중을 차지할 것"이라고 말했다. 법틀은 2024년부터 24개의 SK 그룹사와 네이버, KT, GS 에너지 등에 서비스를 제공중이며, 이 중 SK 이노베이션 한 기업의 매출만 약 47조다. 최근에는 비만치료제인 위고비(Wegovy) 제조사인 노보 노르디스크(Novo Nordisk)의 한국 지사가 법틀을 업무에 도입했다.&lt;br /&gt;&lt;br /&gt;이어 진 대표는 "법무시장의 선진 시장이라고 할 수 있는 미국 법무 시장의 2024년 점유율을 보면 중소기업(SMEs)이 49.4%, 대기업(Large Businesses)이 약 20~30%를 차지하고 있다"며 "법무 시장이 성장할 수록 기업 법무가 중요하다"고 덧붙였다. &lt;br /&gt;&lt;br /&gt;AI 기술의 성장 속도도 가파르다. 진 대표는 "AI가 집중할 수 있는 시간인 테스트타임(Test-time)은 2~4분이었는데, 이 시간이 7개월마다 2배씩 증가하고 있다"고 설명했다. &lt;br /&gt;&lt;br /&gt;한편 기업 법무팀은 복잡한 프로세스와 방대한 양의 데이터를 처리해야 하는 만큼, 범용 AI 활용만으로는 한계가 있다. 진 대표는 "기업이 비밀유지 계약서를 작성해야 한다고 할 때, 보안상 데이터 학습이 어려운 범용 AI에 질문하는 것과, 법률 AI가 기업의 기존 계약서 5개를 기반으로 종합해 작성한 계약서는 차이가 있을수밖에 없다"고 말했다. &lt;br /&gt;&lt;br /&gt;법틀은 분석 AI와 응용 AI를 따로 갖추고 있다. 분석 AI는 계약 내용 등을 단위로 해체 후 분석해 이를 관련정보 별로 저장하는 역할을 하고, 응용 AI는 리스크 묶음을 생성해 문맥을 생성한다. 또한 '법률 유사자문 기능'을 통해 기업이 한 업체와 여러 개의 계약을 진행하는 경우 등에 활용할 수 있도록, 유사계약이나 자문 케이스를 자동으로 제공한다. 중요도 순서에 따라 검토해야 할 법무 사항이나 자문 사항도 추천한다. 이에 대해 진 대표는 "기존의 기업의 과거 계약 및 자문 사례와 기준 등을 함께 제공해 법무팀의 업무 시간을 단축할 수 있다"고 강조했다.&lt;/p&gt;</description>
-			<pubDate>Wed, 18 Jun 2025 09:48:04 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/208977</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/208977</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/208977.jpg</media:thumbnail>
-			<dc:creator>서하연 기자</dc:creator>
-		</item>
-		<item>
-			<title>법원행정처, 24일 '재외국민 가족관계등록사무소 10주년 기념식' 개최</title>
-			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/thumb/180/208975.jpg" alt="34532222.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;대법원 법원행정처(처장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="5602"&gt;천대엽&amp;nbsp;&lt;/span&gt;대법관)는 6월 24일 오후 2시 서울 서초구 대법원 4층 대회의실에서 '재외국민 가족관계등록사무소 10주년 기념식'을 연다.&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;재외국민 가족관계등록사무소(이하 사무소)는 2015년 7월 1일 개소한 이후 전 세계 재외공관을 통해 접수된 재외국민의 가족관계등록신고 사건을 처리하고 있다. 사무소 개소 이전에는 출생·혼인·사망 등 가족관계등록신고가 재외공관에 접수되면, 해당 서류가 외교부를 거쳐 등록기준지 가족관계등록관서(시·구·읍·면)로 우편 송부되어 처리됐고, 이로 인해 평균 1~3개월의 처리 기간이 걸렸다. 서류 미비나 보완이 필요한 경우에는 사실상 처리 시기를 예측하기 어려운 상황이었다. 예를 들어, 등록기준지가 경남 통영인 미국 LA 유학생이 미국 현지에서 자녀를 출산하고 LA총영상사관에 출생신고를 하면 그 서류가 우편으로 외교부를 거쳐 통영시청 가족관계등록사무 담당자에게 전달돼 처리되는 식이었다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;또 재외국민 가족관계등록사무 처리를 위해서는 각 국가의 법제와 증명서 양식 등에 대한 전문적 이해가 요구됨에도 불구하고, 등록관서 담당자에게 이를 기대하기에는 현실적인 한계가 있었다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;하지만 사무소가 개소하며 신고서류가 재외공관에서 외교부를 거쳐 사무소로 전자 송부됐다. 또 축적된 전문성과 경험을 갖춘 전담 인력이 사건을 신속하고 정확하게 처리해 처리 기간이 평균 1주일 이내로 획기적으로 단축됐다는 평가가 나온다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;이날 기념식에선 '재외국민과 함께한 10년, 함께할 미래'을 주제로 사무소의 주요 성과를 되돌아보고 향후 발전 방향을 모색할 예정이다. 외교부, 재외동포청, 법무부, 등록관서, 대한변호사협회, 대한법무사협회, 한국가족법학회 등 관련 유관기관의 업무 담당자들이 참여한다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;‘재외국민 가족관계등록사무소의 발전과제’를 주제로 열리는 2부 세션에서는 △재외공관 법원공무원 직무파견 확대 △국제가족관계등록 통합센터 제안 △국제신분관계증명서의 관리 혁신 등을 주제로 한 발표가 진행된다.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;대법원 관계자는 "이번 기념식을 통해 재외국민 가족관계등록사무의 중요성에 대한 사회적 인식을 확산하고, 각 유관기관 간 협력을 통해 250만 재외국민의 권익 보호와 편의 증진에 기여하며 디지털 시대에 부합하는 가족관계등록 서비스를 지속적으로 제공하기 위한 계기를 마련하고자 한다"고 말했다.&lt;/p&gt;</description>
-			<pubDate>Wed, 18 Jun 2025 08:26:53 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/208975</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/208975</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/208975.jpg</media:thumbnail>
-			<dc:creator>홍윤지 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
