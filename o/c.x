@@ -13,6 +13,18 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>“공용 오피스인 줄”...스타벅스에 칸막이 설치하고 외출한 ’빌런’</title>
+      <link>https://www.chosun.com/national/national_general/2025/06/21/J7UAF6P75RDRRMOX2QXLB2MGRI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/21/J7UAF6P75RDRRMOX2QXLB2MGRI/</guid>
+      <dc:creator>정아임 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 20 Jun 2025 22:13:55 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Y3OHM4E7SJFUPLUJ4RXAHVB4KQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;스타벅스 매장에 가림막 등이 설치돼 있다.스레드&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;커피 전문점 스타벅스의 국내 한 매장에서 개인용 칸막이를 세워두고 긴 시간 자리를 비운 손님의 모습이 포착돼 논란이 되고 있다. &lt;br&gt;&lt;br&gt;지난 19일 소셜미디어(SNS) 스레드에는 “동네 스타벅스에 외출 빌런이 있다”는 제목과 함께 한 장의 사진이 올라왔다. 공개된 사진에는 스타벅스 매장 테이블에 칸막이를 세워두고 헤드셋과 키보드, 마우스, 태블릿 등을 설치해 둔 모습이 담겨 있다.&lt;br&gt;&lt;br&gt;작성자 A씨는 “맨날 이렇게 자리 맡아두고 자리에 없다”며 “이날은 내가 3시간 머무는 동안 한 번도 자리에 돌아오지 않았다”고 적었다. 이어 “작은 매장이라 자리 없어서 대기하는 사람들도 있는데 쓰지도 않으면서 자리만 킵하는 건 좀 너무하다”고 했다. &lt;br&gt;&lt;br&gt;그러면서 “거슬린 부분은 오만 장비 다 챙겨온 게 아니라 자리 점유만 하고 이용하지 않는 것”이라며 “이것보다 더한 장비를 챙겨왔어도 ‘대단하네’ 하고 말았을 거 같지만 쓰지도 않는 자리를 맡아만 둔 게 싫다”고 했다.&lt;br&gt;&lt;br&gt;이를 본 네티즌들은 “사진만 보고 스타벅스가 아니라 공용 오피스인 줄” “이 정도면 이제 스타벅스도 어느 정도는 제재가 필요한 것 같다” “칸막이는 원래 카페에 있는 건 줄 알았다. 이런 것까지 들고 다니냐” 등의 반응을 보였다.&lt;br&gt;&lt;br&gt;카페에서 개인 전자기기를 들고 와 공부하거나 업무를 보는 ‘카공족’이 논란이 된 건 이번만이 아니다. 2023년 4월에도 국내 한 스타벅스 매장에 노트북과 사무용 모니터를 올려놓고 작업하는 손님의 모습이 공개됐다. 당시 이 손님은 두 테이블에 노트북과 모니터를 펼쳐 놓았고, 멀티탭까지 연결해 전기를 사용했다.&lt;br&gt;&lt;br&gt;또 2022년 서울 은평구의 한 개인 카페에서는 프린트기를 들고 온 손님들이 2시간가량 업무를 보고 갔다는 자영업자의 토로 글이 온라인상에 올라왔고, 2017년에도 서울 이태원의 한 스타벅스 매장에서 애플의 데스크톱을 가져와 작업하는 손님의 모습이 포착됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/Y3OHM4E7SJFUPLUJ4RXAHVB4KQ.jpg?auth=a1d95f38255510516457569f678e3ad16e124317355a996bc905d9d67c064172&amp;smart=true&amp;width=745&amp;height=778" type="image/jpeg" height="778" width="745">
+        <media:description type="plain">스타벅스 매장에 가림막 등이 설치돼 있다.스레드</media:description>
+      </media:content>
+    </item>
+    <item>
       <title>연구 자료 줄줄 샐라… 허술한 보안에 해커 표적된 대학</title>
       <link>https://www.chosun.com/national/education/2025/06/21/2URR632JVFDYLHDD3VBW2HMSAY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/education/2025/06/21/2URR632JVFDYLHDD3VBW2HMSAY/</guid>
@@ -702,15 +714,6 @@
       <media:content url="https://www.chosun.com/resizer/v2/EKSMHBES35CWZOJXXTGGM6T6TE.gif?auth=572d8b08c61ad0b3ec23d8dc40e97c48446786dcc63cd7cc12c167298ba1ac1a&amp;smart=true&amp;width=800&amp;height=450" type="image/jpeg" height="450" width="800">
         <media:description type="plain">지난달 27일 안동의 한 아파트에 침입한 괴한이 20대 여성의 속옷을 뒤지는 모습. 괴한은 1시간 동안 3차례나 같은 행위를 반복했다. /피해자 A씨 제공.</media:description>
       </media:content>
-    </item>
-    <item>
-      <title>결식 아동 끼니 무료로 챙기던 식당…갑자기 지원 돌연 중단한 이유는</title>
-      <link>https://www.chosun.com/national/national_general/2025/06/20/UVGVW7L6AFCL3AZ3RAR5GBATHU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/20/UVGVW7L6AFCL3AZ3RAR5GBATHU/</guid>
-      <dc:creator>정아임 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 20 Jun 2025 05:41:31 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XWAUQWHFQ5GMZAG6KPOM7UQTRQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경남 김해의 한 초밥뷔페가 내건 입간판./에펨코리아&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경남 김해시의 한 초밥 뷔페가 급식 카드를 지참한 결식 아동들에게 그간 무료로 음식을 제공해 왔지만, 이제는 서비스를 중단하겠다고 밝혔다. 급식 카드 지참 시 식사가 무료라는 사실이 알려지자, 동급생의 급식 카드를 강탈해 매장으로 오는 경우가 발생했기 때문이다. &lt;br&gt;&lt;br&gt;20일 여러 온라인 커뮤니티에는 ‘결식 아동 무상 제공하던 쿠우쿠우 지점 근황’이라는 제목의 글이 올라왔다. 쿠우쿠우는 프랜차이즈 초밥 뷔페로 평일 점심은 2만5000원 선, 평일 저녁은 2만9000~3만원 선이다.&lt;br&gt;&lt;br&gt;사진 속 쿠우쿠우 점주는 “우리 지점은 2019년부터 지역 내 결식 아동 지원에 대해 결식 아동 지원 카드(급식 카드)를 지참한 아이들에게 무상으로 음식을 제공해 왔다”며 “그런데 최근 아이들끼리 ‘급식 카드 지참 시 쿠우쿠우 식사 무료’라는 것이 화두가 됐는지 동급생 아이의 급식 카드를 강탈해 매장으로 와 제게 적발된 사례가 발생했다”고 설명했다.&lt;br&gt;&lt;br&gt;점주는 “2019년부터 현재까지 6년이라는 시간 동안 단 한 번도 아이들에게 음식을 제공하는 것에 대해 거리낌이 없었고, 기쁜 마음으로 제공해 왔지만, 위와 같은 사태로 인해 많은 허탈감이 들고 실망감이 든다”며 “앞으로는 개인적으로 아동지원센터, 독거노인 지원센터 등 봉사단체에 개인적으로 기부할 생각”이라고 했다.&lt;br&gt;&lt;br&gt;앞서 해당 점주는 “결식 아동 꿈나무 카드, 컬러풀 드림 카드 그냥 안 받겠다. 밥 한번 편하게 먹자. 얘들아 삼촌, 이모가 밥 한 끼 차려준다는 생각으로 가볍게 와서 밥 먹자”면서 결식 아동들에게 무상 음식을 제공해 화제를 모았다.&lt;br&gt;&lt;br&gt;이를 본 네티즌들은 “세상에 좋은 사람들의 호의를 이용해서 사회를 팍팍하게 만드는 사람들은 진짜 너무하다” “급식 카드를 뺏은 건 용서가 안 된다” “상상도 못할 짓이다” 등의 반응을 보였다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>화우 ‘새 정부 노동 정책과 기업 대응방안’ 세미나 </title>
