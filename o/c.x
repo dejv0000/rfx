@@ -13,6 +13,54 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>이명현 해병 특검 “尹 대면 조사는 당연"</title>
+      <link>https://www.chosun.com/national/court_law/2025/06/21/HLPJEBQIIZCX5FSYIBK6OQVUQU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/21/HLPJEBQIIZCX5FSYIBK6OQVUQU/</guid>
+      <dc:creator>박강현 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 21 Jun 2025 04:42:41 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/O53BWZXW7RIJZGU7TPENGBLWDE.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;이명현 특별검사. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘순직 해병 사건 수사 외압’ 의혹을 수사하는 이명현(63·군법무관 9기) 특별검사가 21일 “윤석열 전 대통령에 대한 대면 조사는 당연하다. 원칙대로 할 것”이라고 했다.&lt;br&gt;&lt;br&gt;이 특검은 이날 서울 서초구 변호사 사무실에서 전날 임명된 특검보들과 상견례를 마치고 나와 ‘윤 전 대통령의 대면조사를 염두에 두고 있느냐’는 질문에 이같이 말했다. &lt;br&gt;&lt;br&gt;앞서 이 특검은 전날 류관석(63·군법무관 10기)·이금규(52·사법연수원 33기)·김숙정(45·변호사시험 1회)·정민영(45·변시 2회) 변호사가 순직 해병 특검보로 임명됐다고 공지했다. 특검보들은 특검을 보좌하며 수사를 지휘하고 파견 공무원에 대한 지휘·감독과 언론 공보 등을 맡는다.&lt;br&gt;&lt;br&gt;이 특검이 수사하는 의혹의 핵심은 2023년 7월 경북 예천군 수해 실종자 수색에 투입됐다 급류에 휩쓸려 숨진 고(故) 채수근 상병 사망 사건을 수사하는 과정에서 대통령실과 군 지휘부의 수사 외압이 있었다는 것이다.&lt;br&gt;&lt;br&gt;초기 수사를 맡았던 박정훈 전 해병대 수사단장(대령)이 수사 자료를 경찰에 이첩하는 과정에서 상부로부터 이첩 보류 지시를 받았으나 이에 따르지 않았고, 이후 “수사단 조사 결과를 보고받은 (당시) 윤석열 대통령이 격노했다는 취지의 말을 들었다”고 폭로하면서 의혹이 커졌다. 이 일로 박 전 단장은 항명 혐의로 기소됐으나 1심에서 무죄를 선고받았고 현재 2심이 진행 중이다.&lt;br&gt;&lt;br&gt;이 특검은 이날 “(아직) 팀 구성에 대해선 논의하지 않았다”며 “수사 인력은 105명을 다 채울 예정”이라고 했다.&lt;br&gt;&lt;br&gt;특검범에 따르면 이번 순직 해병 특검은 최대 105명(특검 1명·특검보 4명·파견검사 20명·파견공무원 40명·파견수사관 40명)으로 구성될 수 있다. &lt;br&gt;&lt;br&gt;특검보 임명을 마친 이 특검은 조만간 유관 기관으로부터 인력을 파견 받아 수사팀을 구성한 뒤 사건 쟁점을 파악하며 향후 수사 계획을 세울 것으로 보인다. 본격 수사는 이르면 내달 초 시작될 전망이다. &lt;br&gt;&lt;br&gt;특검 사무실은 서울고검·서울중앙지검 청사 인근인 서초동 흰물결 빌딩이 유력하게 검토되고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>부산 아파트서 고교생 3명 사망...시교육청 대책반 구성 </title>
+      <link>https://www.chosun.com/national/education/2025/06/21/3CFYKZ46SJEM7OBO4GYYML77YE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/education/2025/06/21/3CFYKZ46SJEM7OBO4GYYML77YE/</guid>
+      <dc:creator>최인준 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 21 Jun 2025 05:04:22 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AEKXCUCFAKEQZKMGLBMGNS26YY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산시교육청/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산의 한 아파트 화단에서 고등학생 3명이 사망한 채 발견됐다. 경찰이 사건 경위 조사에 착수한 가운데 부산시교육청은 공동대책반을 구성해 진상 파악에 나섰다. &lt;br&gt;&lt;br&gt;부산교육청 등에 따르면 21일 새벽 1시39분쯤 부산 한 아파트 화단에서 고교생 3명이 쓰러진 채 발견돼 인근 병원으로 옮겨졌지만 숨졌다. 숨진 3명은 고등학교 친구 사이로 이 중 1명은 이들이 발견된 아파트에 거주하는 것으로 나타났다. 학생들은 유서를 남긴 것으로 알려졌다.&lt;br&gt;&lt;br&gt;부산시교육청은 사망 학생들의 학교에서 이날 오전 10시 위기관리위원회를 소집하고 교육감 주재로 긴급 대책회의를 열었다. 교육청 중등교육과장 등을 중심으로 공동대책반을 구성해 사망 경위를 자체 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>BTS 슈가, 소집해제 직후 또 사과…“음주운전 실망 끼쳐 죄송”</title>
+      <link>https://www.chosun.com/national/people/2025/06/21/GBJTVLR52BDLRG3WO6NHLP4ILQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/06/21/GBJTVLR52BDLRG3WO6NHLP4ILQ/</guid>
+      <dc:creator>정아임 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 21 Jun 2025 04:19:10 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QVKWLAQM22J5X5PC2PVA3I4NFA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;방탄소년단(BTS) 슈가./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;사회복무요원으로 병역 의무를 이행하고 21일 소집이 해제된 그룹 방탄소년단(BTS) 슈가가 과거 음주운전에 대해 다시 한번 사과했다.&lt;br&gt;&lt;br&gt;슈가는 팬 플랫폼 위버스를 통해 “오늘부로 소집해제 되어서 여러분께 오랜만에 인사드린다”며 “기다려왔던 날이기도 하고 정말 오랜만이라 어떻게 인사드려야 하나 고민이 많았다”며 운을 뗐다. &lt;br&gt;&lt;br&gt;이어 “작년에 있었던 일로 실망과 심려를 끼쳐 죄송하다”고 밝혔다. 그러면서 “기다려주신 팬 여러분께 진심으로 감사드린다”며 “앞으로 더욱 여러분이 주신 사랑에 보답할 수 있도록 노력하겠다”고 말했다.&lt;br&gt;&lt;br&gt;또한 ”2년 동안 저 스스로에 대해 생각해 보는 시간을 가졌던 것 같다. 특히나 오랫동안 제가 해왔던 이 일들과는 잠시 거리를 두고 한 발짝 떨어진 자리에서 봐야겠다는 마음도 있었다“며 ”그동안 앞만 보고 달려오면서 저 자신을 돌아보지 못했는데, 이번 시간을 통해 스스로 다시 돌아보는 계기가 됐다“고 했다. &lt;br&gt;&lt;br&gt;앞서 그는 지난해 8월 음주 상태로 전동 스쿠터를 몬 혐의로 약식 기소되어 벌금 1500만원의 약식명령을 받았다. 슈가는 “팬분들의 마음을 다치게 했다는 점이 너무 속상했다”며 “각자의 자리에서 마음이 무거웠을 멤버들에게도 미안했다”고 썼다.&lt;br&gt;&lt;br&gt;2023년 9월 복무를 시작한 슈가가 이날 소집 해제되면서 방탄소년단 모든 멤버는 병역 의무를 완료했다. 2022년 12월 맏형 진이 입대한 이후 약 2년 6개월 만에 모든 멤버가 팬들 곁으로 돌아온 것이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/46GAISA56FCZLOKB4OTT4LHM7U.jpg?auth=ecabc6cdc3e8f15863f9873287acf3c4eaf301f8dd169a71d4da9f56777f036e&amp;smart=true&amp;width=605&amp;height=454" type="image/jpeg" height="454" width="605">
+        <media:credit role="author" scheme="urn:ebu"/>
+      </media:content>
+    </item>
+    <item>
+      <title>제주항공 여객기 참사 유족... “블랙박스 기록 공개하라” </title>
+      <link>https://www.chosun.com/national/regional/honam/2025/06/21/RVAUG3EUZVHI5EEMWGUQMDIBGI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/honam/2025/06/21/RVAUG3EUZVHI5EEMWGUQMDIBGI/</guid>
+      <dc:creator>신정훈 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 21 Jun 2025 04:25:04 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/R2QLEI54UVL3NBAFZ7IKLYUWYY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;제주항공 여객기 참사 유가족들이 지난달 16일 정부세종청사 국토교통부 앞에서 진상규명과 책임자 처벌 및 재발 방지 등을 촉구하며 눈물을 흘리고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제주항공 여객기 참사 유가족들이 항공철도사고조사위원회(사조위)에 조사 자료를 공개하라고 촉구했다.&lt;br&gt;&lt;br&gt;12·29 무안공항 제주항공 여객기 참사 유가족협의회(유가족협의회)는 21일 무안국제공항 2층에서 기자회견을 열어 “항공철도사고조사위원회(사조위)는 공정한 진상 규명을 위해 국토교통부로부터 독립성을 확보하라”며 “유가족에게 엔진 손상 부위, 블랙박스 기록 등을 공개하라”고 요구했다.&lt;br&gt;&lt;br&gt;이어 유가족협의회는 지난 13일 발생한 에어인디아 787-8 드림라이너 항공기 추락 사고를 언급하며 사조위의 대응을 지적했다. &lt;br&gt;&lt;br&gt;이들은 “최근 발생한 에어인디아 여객기 추락 사고에 대해 인도 정부는 참사 3개월 안에 사고 원인 보고서를 발표하겠다고 밝혔다”며 “반면 사조위는 셀프 조사라는 오명을 받으며 지금까지도 유가족에게 제대로 된 정보를 공개하지 않고 있다”고 했다. &lt;br&gt;&lt;br&gt;그러면서 “인도네시아와 에티오피아도 예비보고서에 공개하는 비행자료기록장치(FDR)과 음성기록장치(CVR) 데이터를 공개하지 않는 것은 유가족을 무시하는 것이며 진실을 은폐하는 것이다”고 강조했다. &lt;br&gt;&lt;br&gt;이들은 사고 조사에 유족 의견을 개진할 수 있도록 권리 보장도 요구했다. &lt;br&gt;&lt;br&gt;유가족협의회는 “철저한 진상 규명을 위해 유가족이 추천하는 조사 위원의 의견을 개진할 수 있도록 참여 권리를 보장해 달라”며 “명백한 진상 규명으로 책임자 처벌과 재발 방지 대책이 실현돼야 한다”고 목소리를 높였다. 밝혔다.&lt;br&gt;&lt;br&gt;한편 경찰은 여객기 참사를 예방하지 못한 책임을 물어 관련자 다수를 추가 입건했다. &lt;br&gt;&lt;br&gt;이날 전남경찰청 제주항공 여객기 사고 수사본부는 업무상과실치사상 혐의로 국토교통부 공무원과 한국공항공사 직원, 방위각 시설 관련 업체 관계자 등 15명을 입건했다고 밝혔다. &lt;br&gt;&lt;br&gt;이들은 관제 업무와 조류 예방 업무, 방위각 시설 건설 관련 업무 등을 담당했다. 하지만 각자의 위치에서 주의 의무를 제대로 하지 않아 사고를 초래한 혐의를 받고 있다. &lt;br&gt;&lt;br&gt;이들은 콘크리트 구조물 형태의 방위각 시설 둔덕을 활주로 끝에 설치하고, 조류의 움직임과 이동 경로 등을 충분히 관찰하지 않거나 기장에게 알리지 않았던 것으로 조사됐다. &lt;br&gt;&lt;br&gt;경찰은 과실 책임의 중대성을 따져 구속영장 신청 여부를 검토한다는 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>법원 “남양유업 ‘아침에 우유’와 서울우유 ‘아침에 주스’는 유사 상표 아니다”</title>
+      <link>https://www.chosun.com/national/court_law/2025/06/21/ITLK6E6JERFLBFAHT42IMP3DSQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/21/ITLK6E6JERFLBFAHT42IMP3DSQ/</guid>
+      <dc:creator>박강현 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 21 Jun 2025 03:40:35 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PZ2DIK4TPJQ27Q223KU4CQA3OA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울우유의 '아침에 주스'와 남양유업의 '아침에 우유'. /각 사 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울우유협동조합(서울우유)이 남양유업이 별다른 허락 없이 자사 제품과 상표·디자인 등이 유사한 제품을 판매했다며 소송을 냈지만 패소했다. 서울우유 측에 독점적 이익을 부여할 만한 상표 등이 아니라는 취지의 판단이다.&lt;br&gt;&lt;br&gt;21일 법조계에 따르면 서울중앙지법 민사61부(재판장 조희찬)는 최근 서울우유가 남양유업을 상대로 낸 부정경쟁행위 금지 등 청구 소송에서 원고 패소로 판결했다. 앞서 서울우유는 지난 2023년 3월 남양유업의 ‘아침에 우유’ 제품이 자사 제품 ‘아침에 주스’와 유사한 상표·디자인 등을 사용했다며 이같은 소송을 제기했다.&lt;br&gt;&lt;br&gt;소송 과정에서 서울우유 측은 남양유업의 ‘아침에 우유’라는 상호가 ‘아침에 주스’를 연상시키며, 포장 용기 디자인도 자사 우유 용기 디자인과 비슷하다는 취지로 주장했다.&lt;br&gt;&lt;br&gt;하지만 재판부는 “식음료와 관련해 ‘아침에’라는 부분은 아침에 마시는 식음료라는 의미가 직감돼 식별력이 미약하다”며 “‘아침에○○‘라는 표장을 서울우유 측의 상당한 투자나 노력으로 만들어진 성과물로서 원고에게 독점적 이익을 부여할 만한 것으로 평가하기에 부족하고 달리 인정할 증거가 없다”고 지적했다. &lt;br&gt;&lt;br&gt;포장 용기 디자인이 유사하다고 주장한 것에 대해선 “우유 업계에서 널리 사용되고 있는 것이므로 누구나 자유롭게 이용할 수 있는 공공영역에 속하는 것”이라며 “법률상 보호할 가치가 있는 이익에 해당한다고 평가하기 어렵다”고 설명했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>광주·곡성 등 호우 경보…최고 150mm 더 내린다</title>
       <link>https://www.chosun.com/national/national_general/2025/06/21/YIV662LOBVFMFJD3C6GUIGUZ5E/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/21/YIV662LOBVFMFJD3C6GUIGUZ5E/</guid>
@@ -829,15 +877,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QVBD5KNH6FCVVBXJJZVCNIPCMA.png"&gt;&lt;figcaption&gt;&lt;small&gt;대구 스토킹 살인 피의자 신상 공개/ 그래픽=조선디자인랩 이연주&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대구에서 스토킹하던 여성을 살해한 혐의를 받는 윤정우(48)가 검찰에 넘겨졌다.&lt;br&gt;&lt;br&gt;대구 성서경찰서는 20일 윤정우를 보복살인 등 혐의로 검찰에 구속 송치했다고 밝혔다. 윤정우는 지난 10일 오전 3시 30분쯤 대구 달서구의 한 아파트에서 자신이 스토킹하던 50대 여성 B씨를 살해한 혐의를 받고 있다. &lt;br&gt;&lt;br&gt;윤정우는 B씨가 자신을 만나주지 않고 경찰에 신고하자 앙심을 품고 이 같은 범행을 저지른 것으로 조사됐다. 그는 지난 4월에도 B씨에게 자신을 만나달라며 흉기로 협박했다가 경찰에 입건됐다. 당시 경찰이 윤정우에 대한 구속 영장을 신청했으나 대구지법 서부지원이 “(윤이) 수사를 잘 받고 있다”는 이유로 기각했다.&lt;br&gt;&lt;br&gt;경찰은 이후 B씨의 아파트 출입문 인근에 방범카메라를 설치하는 등 피해자 안전 조치를 했다. 하지만 불구속 상태에서 수사받던 윤정우가 아파트 가스관을 타고 6층의 B씨 집으로 침입해 B씨를 살해하면서 이 같은 조치는 무력화됐다.&lt;br&gt;&lt;br&gt;이후 윤정우는 부친의 묘소가 있는 세종시 부강면의 야산으로 도주했다가 범행 나흘 만인 지난 14일 경찰에 체포됐다.&lt;br&gt;&lt;br&gt;경찰은 지난 19일 신상정보공개심의위원회를 열고 윤정우의 신상 정보를 오는 7월 21일까지 30일간 대구경찰청 홈페이지에 공개하기로 의결했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>내란 특검 김용현 전 장관 추가 기소, 서울중앙지법 형사34부 배당</title>
-      <link>https://www.chosun.com/national/court_law/2025/06/20/AV2JAFYOVFC6TADI7UFA5PSVKE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/20/AV2JAFYOVFC6TADI7UFA5PSVKE/</guid>
-      <dc:creator>김나영 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 20 Jun 2025 02:03:40 +0000</pubDate>
-      <content:encoded>내란 특검이 김용현 전 장관을 추가로 기소한 사건을 심리할 재판부가 정해졌다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MJ2TGQAYWRZPZEMZSAROMNFPOM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;작년 11월 김용현 전 국방부 장관이 발언하고 있는 모습./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지법은 20일 위계에 의한 공무집행방해, 증거인멸교사 혐의로 기소된 김 전 장관 사건을 형사34부(재판장 한성진)에 배당했다. 전날 내란 사건을 수사하는 조은석 특검이 김 전 장관을 재판에 넘긴 지 하루 만이다. 이에 따라 해당 재판부에서 김 전 장관에 대한 보석 취소 및 구속영장 발부 여부 등을 결정할 전망이다.&lt;br&gt;&lt;br&gt;이미 김 전 장관이 내란 혐의로 재판을 받고 있는 만큼, 추가된 사건이 기존 사건과 병합될 가능성도 있다. 현재 김 전 장관의 내란 혐의 사건은 현재 형사25부(재판장 지귀연)에서 진행 중이다. 해당 재판부는 김 전 장관을 비롯해 윤석열 전 대통령, 조지호 경찰청장 등 12·3 비상계엄과 관련한 내란 피고인들 사건을 전담하고 있다. 지난 19일 조 특검은 사건을 병합해달라는 내용의 서면을 법원에 제출했다.&lt;br&gt;&lt;br&gt;김 전 장관은 비상계엄 전날 대통령경호처를 속여 비화폰을 지급받은 뒤, 이를 민간인이었던 노상원 전 정보사령관에게 건넨 혐의(위계에 의한 공무집행방해)를 받고 있다. 검찰 특별수사본부는 김 전 장관이 김성훈 전 경호처 차장을 통해 받은 비화폰을 노 전 사령관에게 줬고, 노 전 사령관은 이를 중앙선거관리위원회의 부정선거 의혹을 수사할 제2수사단장의 업무용으로 사용하려고 한 것으로 파악했다.&lt;br&gt;&lt;br&gt;김 전 장관은 수행비서 역할을 한 양모씨에게 비상계엄 사태 이후인 지난해 12월 5일 계엄 관련 서류 등을 모두 없애라고 지시한 혐의(증거인멸교사)도 받는다.&lt;br&gt;&lt;br&gt;한편 김 전 장관은 작년 12월 27일 내란중요임무종사 및 직권남용 혐의로 구속 기소돼 오는 26일 1심 구속기간(최대 6개월)이 만료를 앞두고 있다. 이에 법원은 지난 16일 김 전 장관에 대해 조건부 보석 결정을 했지만, 김 전 장관 측은 이같은 결정이 “구속상태를 불법적으로 연장하기 위한 수단에 불과하다”며 보석을 거부했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>접근금지 명령 끝난 지 일주일만에 아내 살해…60대男 구속영장 신청</title>
       <link>https://www.chosun.com/national/incident/2025/06/20/6KJEF74VTFAOFOLL5KASW665LY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/06/20/6KJEF74VTFAOFOLL5KASW665LY/</guid>
@@ -845,42 +884,6 @@
       <description/>
       <pubDate>Fri, 20 Jun 2025 02:17:07 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/S4JNNA63IJHXYPIIBJ7DXGEVSU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;가정폭력으로 법원의 접근금지 명령 기간이 끝난 지 일주일 만에 아내를 찾아가 흉기로 살해한 60대 남성이 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;인천 삼산경찰서는 살인 혐의로 60대 A씨에 대한 구속영장을 신청했다고 20일 밝혔다. &lt;br&gt;&lt;br&gt;A씨는 전날 오후 4시 30분쯤 인천시 부평구 부평동의 자택 현관 앞에서 아내 60대 B씨를 흉기로 찔러 숨지게 한 혐의를 받고 있다. &lt;br&gt;&lt;br&gt;B씨는 신고를 받고 출동한 119구급대에 의해 병원으로 이송돼 치료를 받았으나 숨졌다. &lt;br&gt;&lt;br&gt;이웃 주민의 신고를 받고 출동한 경찰은 사건 현장에 있던 A씨를 현행범으로 체포했다. &lt;br&gt;&lt;br&gt;A씨는 자신의 혐의를 인정한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;A씨는 앞서 지난해 12월 가정폭력으로 법원으로부터 B씨에 대한 100m 이내 접근 금지와 연락 제한 등의 임시조치명령을 받았다. 지난 12일까지가 기한이었는데, 종료 7일 후 범행한 것으로 조사됐다. &lt;br&gt;&lt;br&gt;경찰 관계자는 “국립과학수사연구원에 B씨의 시신 부검을 의뢰해 구체적인 사망 원인을 조사할 예정”이라며 “구체적인 수사 내용은 확인해줄 수 없다”고 말했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>전문가도 속았다…효과 없던 명품 화장품, 그 이유는</title>
-      <link>https://www.chosun.com/national/national_general/2025/06/20/NBYCHRJTZFB43DSWI5IUWRMXDM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/20/NBYCHRJTZFB43DSWI5IUWRMXDM/</guid>
-      <dc:creator>이가영 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 20 Jun 2025 02:05:23 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PKKXY36H25DLVK45WB5TJTEXIY.png"&gt;&lt;figcaption&gt;&lt;small&gt;특허청 상표특별사법경찰이 19일 압수한 '맹물 화장품'(왼쪽)과 실제 에스티로더 갈색병 세럼. /연합뉴스, 에스티로더&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;유명 해외 브랜드의 화장품이 너무 저렴한 가격에 팔리고 있다면, 가짜를 의심해보는 것이 좋겠다. 사실상 ‘맹물’에 가까운 엉터리 화장품을 해외 유명 브랜드 병행 수입 제품으로 둔갑시켜 국내에 유통한 일당이 적발됐다. &lt;br&gt;&lt;br&gt;특허청 상표특별사법경찰은 이른바 ‘맹물 화장품’을 대규모로 유통한 도매업자 박모(42)씨 등 4명을 상표법 위반 혐의로 검찰에 송치했다고 20일 밝혔다. 이들이 홈쇼핑에 납품하려고 경기도 일원의 창고에 보관 중이던 ‘짝퉁 화장품’ 4만여 점도 압수했다. 정품 가액으로 따지면 14억원 규모의 물품이었다. &lt;br&gt;&lt;br&gt;박씨 등은 2023년 4월부터 지난해 3월까지 SKⅡ, 키엘, 에스티로더 등 해외 유명 브랜드의 짝퉁 화장품을 병행 수입 제품인 것처럼 속여 국내서 상표 갈이 등을 통해 8만7000여 점(정품 가액 79억원)을 유통시킨 혐의를 받는다. 이들은 용기, 라벨, 포장 등을 매우 정교하게 제작했다. 소비자는 물론 화장품을 전문으로 취급하는 유통업자, 홈쇼핑 협력업체까지 속아 넘어갔다. &lt;br&gt;&lt;br&gt;이들의 범죄는 지난 3월 맹물 화장품을 정품으로 알고 인수받아 해외로 수출하려던 유통업자가 상품에 의문을 가지면서 덜미를 잡혔다. &lt;br&gt;&lt;br&gt;박씨는 해외 영업 활동과 수입 총괄을 맡았고, 나머지 일당은 수입 관련 서류 작성, 국내 유통 등으로 역할을 분담했다. 이들은 병행 수입 제품이라 저렴하다며 정품가의 30% 수준으로 가짜 화장품을 넘겼다. 이런 수법으로 총 21억원 상당의 범죄 수익을 가로챘다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IPMRAHC2UNGFVG4W6CN6VYDHZI.png"&gt;&lt;figcaption&gt;&lt;small&gt;특허청 상표특별사법경찰이 압수한 가짜 SKⅡ 화장품(왼쪽), 실제 SKⅡ 세럼. /연합뉴스, SKⅡ&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;성분 분석 결과 가짜 화장품에 유해 성분은 없었지만, 주요 원료나 내용량은 기준치에 미달되는 ‘맹물’과 다를 바 없는 것으로 드러났다. 특히 SKⅡ 에센스는 미백을 위한 핵심 기능성 원료인 나이아신아마이드가 전혀 검출되지 않았다. &lt;br&gt;&lt;br&gt;특허청 신상곤 산업재산보호협력국장은 “비록 유해 성분은 검출되지 않았다고 하더라도 가짜 화장품 제조 및 유통 과정에서 품질 검사를 거치지 않았기 때문에 소비자 안전을 보장할 수 없다”며 “국민의 안전 및 건강을 위협하는 위조 상품을 근절하기 위한 기획 수사를 강화하겠다”고 밝혔다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘도로 잠기고, 집에 물 차올라’…폭우에 경기북부 119신고 잇따라</title>
-      <link>https://www.chosun.com/national/incident/2025/06/20/K6RETIG57BAIFKKBJMNRP76DSQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/06/20/K6RETIG57BAIFKKBJMNRP76DSQ/</guid>
-      <dc:creator>의정부=김수언 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 20 Jun 2025 01:12:27 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6TOXT27DYFCEFEDJXHWPQXSRGM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;20일 오전 5시 50분쯤 경기도 고양시 대화동의 한 지하차도가 침수된 모습. /경기도북부소방재난본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 19일 밤부터 경기 북부지역에 많은 비가 쏟아지면서 “도로가 잠겼다”는 등의 119 신고가 여러 건 접수됐다. 다행히 인명 피해는 나오지 않았다.&lt;br&gt;&lt;br&gt;경기도북부소방재난본부에 따르면 20일 오전 8시 기준 인명 구조 1건, 도로 장애 24건, 주택 침수 13건, 나무 쓰러짐 19건, 기타 4건 등의 집중호우 관련 신고 사례가 접수됐다.&lt;br&gt;&lt;br&gt;오전 5시 50분쯤에는 고양시 대화동에서 “지하 터널을 지나던 차량이 물에 잠겼다”는 신고가 접수돼 119 대원들이 60대 남성 운전자를 구조했다. 당시 위급한 상황은 아니었던 것으로 전해졌다. 소방은 이 구간을 출입 통제 조치했다.&lt;br&gt;&lt;br&gt;5시 19분쯤에는 고양시 덕양구 내곡동의 한 도로가 침수됐다. 소방은 도로를 통제하고 배수 작업을 마쳤다. 이어 식사동에서도 도로에 물이 잠겨 차량들이 갇혔다는 신고가 접수됐다. 현장에 위급 상황은 없었으며, 소방은 배수 작업을 마치고 차량들을 이동시켰다.&lt;br&gt;&lt;br&gt;6시 3분쯤에는 의정부시 가능동에서 맨홀이 들썩거린다는 신고가 들어왔다. 현장에 출동한 경찰과 소방 당국은 우수관이 낙엽과 흙으로 막혀 있는 것을 확인하고 안전 조치했다.&lt;br&gt;&lt;br&gt;6시 48분쯤에는 양주시 장흥면 송추역 근처에 나뭇가지가 부러져 도로를 막고 있어 차량이 지나갈 수 없다는 경찰 공동대응 요청을 받고, 현장에 출동해 안전 조치했다.&lt;br&gt;&lt;br&gt;7시 18분쯤에는 의정부시 의정부동의 한 반지하 건물에 물이 들어찼다는 신고가 접수됐다. 소방은 200리터의 물을 배수 처리했다.&lt;br&gt;&lt;br&gt;한편, 장맛비가 거세지며 이날 오전 7시 기준 김포 111㎜, 파주 91.5㎜, 양주 91 ㎜, 고양 85.5㎜, 포천 83㎜ 등 경기 북부지역을 중심으로 많은 비가 내리고 있다. 현재 경기도 전역에 비가 내리고, 시간당 북부 20~50㎜, 남부 5㎜ 내외 강수량을 기록하고 있다.&lt;br&gt;&lt;br&gt;늦은 밤까지 최대 50~150㎜의 비가 예보된 상황으로, 수도권기상청은 21일 아침 내부분 비가 그칠 것으로 전망했다.&lt;br&gt;&lt;br&gt;한편, 경기도는 장마철 첫 호우에 대비해 이날 오전 6시 기준 재난안전대책본부 비상 1단계를 발령했다.&lt;br&gt;&lt;br&gt;경기도에는 현재 김포·고양·파주·양주·동두천·포천 등 6개 시에 호우경보가, 연천·의정부·부천·화성·남양주·안산·안양·시흥·광명·군포·하남·구리·의왕·가평·과천 등 15개 시에는 호우주의보가 내려져 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>내란 특검보 6명 확정… 김형수·박억수·박지영·박태호·이윤제·장우성</title>
-      <link>https://www.chosun.com/national/court_law/2025/06/20/2YA2H54LNJDCNCUYAMH242Z2SM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/20/2YA2H54LNJDCNCUYAMH242Z2SM/</guid>
-      <dc:creator>이민준 기자, 방극렬 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 20 Jun 2025 01:17:37 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PHMSZ5LTCLV7F5UMDM4W6EQSTA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 2017년 10월 23일 조은석 당시 서울고검장(오른쪽)과 윤석열 서울중앙지검장이 서울고검에서 열린 국회 법사위 국정감사에 앞서 국감장에 도착하는 의원들을 기다리는 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 전 대통령의 내란과 외환 의혹을 수사하는 ‘내란 특검팀’ 특별검사보 6명이 확정됐다.&lt;br&gt;&lt;br&gt;20일 법조계에 따르면, 이재명 대통령은 전날 김형수(50·사법연수원 30기), 박억수(54·29기), 박지영(55·29기), 박태호(52·32기), 이윤제(56·29기), 장우성(53·34기) 특검보의 임명을 재가한 것으로 전해졌다. 김형수·박억수·박지영·박태호 특검보는 검사 출신, 이윤제 특검보는 명지대 교수, 장우성 특검보는 경찰 출신이다.&lt;br&gt;&lt;br&gt;조은석 특별검사는 이날 “대한변호사협회의 추천을 반영해 제청했고, 아울러 수사 능력과 수사 관리능력이 출중한 경찰 출신을 제청했다”고 밝혔다. 언론 공보 업무는 박지영 특검보가 맡기로 했다.&lt;br&gt;&lt;br&gt;내란 특검팀은 지난 17일 서울고검에 사무실을 꾸렸고, 이튿날부터 12·3 비상계엄을 비롯한 내란 관련 사건 기록을 인계받아 수사에 착수했다. 수사 첫날인 18일 위계에 의한 공무 집행 방해, 증거인멸 교사 등 혐의로 김용현 전 국방장관을 추가 기소했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>光州 시내버스 파업 11일만에 중단 전망… 3% 임금 인상안 수용</title>
-      <link>https://www.chosun.com/national/regional/2025/06/20/DGT3WV3NZZDC5GZQS7DVUSCT2I/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/06/20/DGT3WV3NZZDC5GZQS7DVUSCT2I/</guid>
-      <dc:creator>광주광역시=조홍복 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 20 Jun 2025 01:04:08 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5CX5HF55SZKBXIKGJAGWVYDUNY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 18일 광주 서구 한 시내버스 차고지에서 전세버스가 운행 대기하는 모습. 광주시는 파업 참여도가 높아 개별 운행률이 떨어지는 노선에 전세버스를 투입했다./연합뉴스 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;광주광역시 시내버스 파업이 11일 만에 중단될 전망이다. 광주 시내버스 노사는 20일 임금·단체협상(임단협)에 잠정 합의했다.&lt;br&gt;&lt;br&gt;전국자동차노동조합연맹(자동차노련) 광주지역버스노동조합은 이날 오전 강기정 광주시장과 면담에서 임금 3％ 인상과 정년 연장 등으로 최종 합의에 근접했다.&lt;br&gt;&lt;br&gt;앞서 노조 측은 임금 8.2％ 인상과 정년 연장 등을 요구했지만 사측은 동결로 맞섰다. 이에 노조는 지난 5일 파업을 시작했다. &lt;br&gt;&lt;br&gt;노조는 6~8일 휴일 기간 정상 운행했으나, 9일부터 다시 파업에 돌입했다. 이후 조정 과정에서 사측은 2.5％ 인상안을 제시했고, 지방노동위원회는 3％ 인상으로 조정안을 제시했다.&lt;br&gt;&lt;br&gt;광주시내버스 운행 중단은 2014년 6월 이후 11년 만이었다. 광주시는 시민 피해 최소화를 위해 지난 18일부터 혼잡도가 높은 노선 14개에 임시 수송 버스 42대를 투입했다. &lt;br&gt;&lt;br&gt;강기정 광주시장은 “시내버스 운행 중단으로 시민이 불편을 겪었다”며 “노조 측은 지방노동위원회가 제시한 3% 인상안을 전격적으로 수용했다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>“선배가 수업 못듣게 해요” 의대복귀 막은 학생들 줄줄이 신고</title>
