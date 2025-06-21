@@ -13,6 +13,42 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>접근금지 풀리자 아내 살해한 남성 “난 잘했다, 미안한 거 없다”</title>
+      <link>https://www.chosun.com/national/national_general/2025/06/21/WUBC4ZXGKVE6VHPCXPDC3TQKFU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/21/WUBC4ZXGKVE6VHPCXPDC3TQKFU/</guid>
+      <dc:creator>김명일 기자, 이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 21 Jun 2025 07:54:01 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ENIHG67MTFOFJEIR6AODN77U7M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원의 접근금지 명령이 종료된 지 일주일 만에 아내를 찾아가 흉기로 살해한 60대 남성이 21일 오후 구속심사를 받기 위해 법원에 출석하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;가정폭력으로 법원의 접근금지 명령 기간이 끝난 지 일주일 만에 아내를 찾아가 흉기로 살해한 60대 남성이 21일 구속 심사를 받기 위해 법원에 출석해 “난 잘했다고 여긴다”고 말했다. &lt;br&gt;&lt;br&gt;살인 혐의를 받는 60대 A씨는 이날 구속 전 피의자 심문(영장실질심사)이 열리는 인천지법에 출석해 기자들에게 “한번 방문해주시면 (아내를 살해한 이유를) 제가 다 설명하겠다”고 했다.&lt;br&gt;&lt;br&gt;접근금지 조치가 끝나자마자 아내가 있는 집을 찾아간 이유에 대해서는 “내 집인데 내가 들어가야지 내가 어디 가서 살겠느냐”고 했다.&lt;br&gt;&lt;br&gt;‘남은 가족에게 미안하지 않으냐’는 취재진 질문에는 “남은 가족도 아들 하나라 미안한 거 없다”고 했다.&lt;br&gt;&lt;br&gt;이기웅 인천지법 당직 판사는 이날 오후 A씨의 구속 전 피의자 심문(영장실질심사)을 진행한 뒤 “도주할 우려가 있다”며 구속영장을 발부했다.&lt;br&gt;&lt;br&gt;A씨는 지난 19일 오후 4시 30분쯤 인천시 부평구 한 오피스텔 현관 앞에서 60대 아내 B씨를 흉기로 여러 차례 찔러 살해한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;그는 지난해 12월 법원으로부터 B씨 주변 100m 이내 접근금지와 연락 제한 등 임시 조치 명령을 받았고, 이달 12일 조치 기간이 종료된 뒤 일주일 만에 범행했다.&lt;br&gt;&lt;br&gt;A씨는 지난 16일에도 해당 오피스텔로 찾아갔으나 B씨를 만나지는 못했고, 범행 전날인 18일 재차 아내를 찾아간 것으로 전해졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>주말 출근한 민중기 특검 “수사 개시 시점 특검보들과 논의 중”</title>
+      <link>https://www.chosun.com/national/court_law/2025/06/21/VJPJMAMJLZF5DDLHCHHFKWAWPE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/21/VJPJMAMJLZF5DDLHCHHFKWAWPE/</guid>
+      <dc:creator>박강현 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 21 Jun 2025 06:08:54 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Q6IZDRW35XNEYK7S5E55BGE7NQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;민중기 특별검사. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 전 대통령 배우자 김건희 여사 의혹을 수사하는 민중기(66·사법연수원 14기) 특별검사가 21일 “수사 개시 시점은 특검보들과 논의하고 있다”고 밝혔다.&lt;br&gt;&lt;br&gt;민 특검은 이날 서울 서초구 변호사 임시 사무실로 출근하며 ‘수사 개시는 언제쯤 할 계획인가’라는 질문에 이같이 답했다. 그러면서도 어떤 의혹부터 수사할지, 김 여사가 대면 조사에 불응할 시 체포영장을 검토할 것인지 등에 대해선 말을 아꼈다.&lt;br&gt;&lt;br&gt;이날 사무실에는 민 특검을 비롯해 특검보들과 파견 검사 일부가 출근해 각자 맡은 의혹에 대한 기록을 검토하는 것으로 알려졌다. 민 특검과 특검보 등은 22일에도 출근할 계획인 것으로 전해졌다.&lt;br&gt;&lt;br&gt;앞서 민 특검팀은 법무부에 파견 요청한 부장검사 5명 중 개인 사정이 있는 1명을 제외한 4명이 전날(20일) 처음 합류·출근하며 본격 가동에 들어갔다. 같은 날 민 특검은 법무부에 수사 실무를 담당할 남철우 청주지검 형사3부장, 이정훈 서울중앙지검 조세범죄조사부 부부장검사 등 검사 28명의 추가 파견을 요청하기도 했다.&lt;br&gt;&lt;br&gt;이번 ‘김건희 특검’은 그동안 제기된 김 여사 관련 의혹을 망라해 수사하도록 했다. 검찰이 무혐의 처분한 도이치모터스 주가조작 의혹 사건과 코바나컨텐츠 뇌물성 협찬 의혹 사건을 포함해 명품 가방 수수 의혹, 서울~양평 고속도로 노선 변경 특혜 의혹, 양평 공흥지구 개발 특혜 의혹, 명태균·건진법사 국정 개입 의혹, 윤 전 대통령 부부의 공천 개입 의혹 등 총 16가지가 수사 대상이다. &lt;br&gt;&lt;br&gt;민 특검팀은 최대 205명(특검 1명·특검보 4명·파견검사 40명·파견 공무원 80명·특별수사관 80명)으로 꾸려질 예정이다. 민 특검은 조만간 수사팀을 구성하고 사건 쟁점을 파악한 뒤 본격 수사에 착수할 전망이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>침묵 깬 아스카 키라라 “한국 아이돌과 성매매? 그런 일 없었다”</title>
+      <link>https://www.chosun.com/national/national_general/2025/06/21/L3VVL62QS5EOBJDQNSH4T7H64A/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/21/L3VVL62QS5EOBJDQNSH4T7H64A/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 21 Jun 2025 06:41:14 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5JHYOFMEC7LS6C45PDK6XFS4EI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;주학년과 아스카 키라라. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;일본 AV(성인 비디오) 배우 출신 인플루언서 아스카 키라라(37)가 그룹 더보이즈 출신 주학년(26)과의 성매매 의혹을 부인했다. &lt;br&gt;&lt;br&gt;의혹이 불거진 후 침묵을 지켰던 아스카 키라라는 21일 자신의 소셜미디어를 통해 “사적으로 돈을 받고 성관계를 한 적은 인생에서 한 번도 없다”고 직접 입장을 밝혔다. &lt;br&gt;&lt;br&gt;한 일본 매체에 주학년과 함께 찍은 사진이 보도된 것에 대해서는 “그 자리에 있던 처음 만난 여성이 주학년씨를 좋아한 것 같았다”며 “그 여성이 사진을 찍어 매체에 팔았다”고 주장했다.&lt;br&gt;&lt;br&gt;주학년은 지난 18일 아스카 키라라와 사생활 논란에 휩싸이며 더보이즈에서 퇴출됐다. 한 매체는 주학년의 성매매 의혹을 제기하기도 했다.&lt;br&gt;&lt;br&gt;이후 주학년은 “소속사는 사적인 자리에서 유명한 사람과 동석했다는 이유만으로 저를 팀에서 일방적으로 축출했다”며 “성매매를 했다는 증거가 있다면 지금 즉시 공개해 주시기 바란다”고 했다.&lt;br&gt;&lt;br&gt;주학년은 2017년 방송된 Mnet 오디션 예능 ‘프로듀스 101 시즌2’를 통해 인기를 얻으며 같은 해 12월 더보이즈로 데뷔했다. &lt;br&gt;&lt;br&gt;아스카 키라라는 2007년 AV 배우로 데뷔한 뒤 2020년까지 활동했으며, 현재는 은퇴 후 인플루언서로 활동 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>전북 지역 장밧비 피해 속출...인명피해는 없어</title>
+      <link>https://www.chosun.com/national/regional/honam/2025/06/21/JTPXA2LW6NEHRFA2WKME4LJ2NE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/honam/2025/06/21/JTPXA2LW6NEHRFA2WKME4LJ2NE/</guid>
+      <dc:creator>신정훈 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 21 Jun 2025 05:52:59 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2HMFZURXTJLKBNC2Z43WBSNQ3M.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;21일 오전 전북 무주군 안성면에서 집중호우로 인해 나무가 창고 위로 쓰러져 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전북 전역에서 장맛비에 피해가 잇따르고 있다. &lt;br&gt;&lt;br&gt;21일 전북특별자치도에 따르면 이날 오후 1시 기준으로 익산 함라 161mm, 군산 153㎜, 남원 117㎜, 순창 105㎜, 전주 87㎜ 등 도내 평균 105㎜의 강수량을 기록했다. &lt;br&gt;&lt;br&gt;도내 14개 시군에 호우주의보가 발령된 상태다. 많은 비가 내리자 장수, 남원, 고창, 진안, 완주, 김제에 산사태 주의보가 내려졌고, 남원시 보절면 주민 2명이 만약을 대비해 시내권으로 대피했다.&lt;br&gt;&lt;br&gt;피해 신고도 잇따르고 있다. &lt;br&gt;&lt;br&gt;군산 시내 한 아파트 지하배수펌프장과 인근 식당이 침수됐고, 부안에서는 논콩 5ha가 물에 잠겼다.폭우와 강풍으로 인해 나무 쓰러짐 28건, 신호기 고장 4건, 도로 침수 4건 등이 발생했다.&lt;br&gt;&lt;br&gt;전북지역에는 이날 늦은 저녁까지 동부권을 중심으로 30~80mm, 많은 곳은 100mm 이상 더 내릴 것으로 예보됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>이명현 해병 특검 “尹 대면 조사는 당연"</title>
       <link>https://www.chosun.com/national/court_law/2025/06/21/HLPJEBQIIZCX5FSYIBK6OQVUQU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/21/HLPJEBQIIZCX5FSYIBK6OQVUQU/</guid>
@@ -832,24 +868,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/U6TITKX5NEUK3Z63IDGXWZRZCI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대전 서구 탄방동에 위치한 홈플러스 탄방점의 모습./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;기업회생 절차를 밝고 있는 홈플러스에 대해 법원이 20일 회생계획 인가전 인수합병(M&amp;amp;A) 신청을 허가했다.&lt;br&gt;&lt;br&gt;서울회생법원 제4부(재판장 정준영 법원장)는 이날 “채권자협의회 및 법원 관리위원회의 의견조회를 거친 다음 홈플러스의 인가전 M&amp;amp;A 추진 및 매각주간사 선정을 허가했다”고 밝혔다. 매각주간사로는 삼일회계법인이 선정됐다.&lt;br&gt;&lt;br&gt;앞서 홈플러스는 지난 18일 “회사의 청산가치(약 3조6816억원)가 계속기업가치(약 2조5059억원)를 상회한다”며 “인가전 M&amp;amp;A를 통해 회생담보권과 회생채권을 조기변제하고 채권자, 근로자 등 이해관계인에게 유리한 조건으로 매각할 예정”이라며 허가 신청을 했다.&lt;br&gt;&lt;br&gt;인가전 M&amp;amp;A는 스토킹호스(Stalking–Horse) 방식으로 이뤄질 예정이다. 스토킹호스는 매각공고 이전에 특정 인수희망자와 조건부 인수계약을 체결한 후, 공개경쟁입찰을 통해 더 나은 조건을 제시한 인수희망자가 있는지 확인하는 방식의 M&amp;amp;A 절차다. &lt;br&gt;&lt;br&gt;법원은 “최종 인수자 선정까지 약 2~3달 정도 소요될 것으로 예상된다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>경북도, 장마 기간 ‘대피왕’ 선발한다</title>
-      <link>https://www.chosun.com/national/national_general/2025/06/20/HDHNYUZBZVHGJHV7WNI6WATNOU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/20/HDHNYUZBZVHGJHV7WNI6WATNOU/</guid>
-      <dc:creator>안동=이승규 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 20 Jun 2025 05:57:09 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KUPEOBC2CRFO2DTDMKAHFHM6KI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 4월 경북 영덕군의 산불 이재민들이 구호물품을 챙겨 대피소인 국민체육센터로 발길을 옮기는 모습./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경북도가 다가올 장마 등 자연재해 상황에서 주민들의 신속한 대피를 장려하기 위해 ‘대피왕’을 선발한다.&lt;br&gt;&lt;br&gt;경북도는 20일부터 오는 10월까지 ‘우리 마을 대피왕 프로젝트’를 추진한다. 이상 기후로 인한 호우, 태풍, 산불 등 재난에 대비해 주민들의 대피 의식을 높여 생명을 지키기 위해서다.&lt;br&gt;&lt;br&gt;앞서 경북도는 지난해 7월부터 주민 대피 시스템인 ‘K-마 어서 대피 프로젝트’를 도입한 바 있다. ‘마을 순찰대와 함께 어두워지기 전에 서둘러 안전한 대피소로’라는 뜻이다. 재난 12시간 전 예보를 통해 마을 한 곳당 대피소 1개를 운영하고, 마을 주민들로 이뤄진 순찰대와 주민 대피 협의체를 구성해 재난 상황 시 주민들이 자발적으로 대피할 수 있도록 유도하는 정책이다. 지난해 12월 행정안전부로부터 최우수 위기관리 모델로 선정돼 대통령 표창을 받기도 했다.&lt;br&gt;&lt;br&gt;대피왕 선발 역시 ‘K-마 어서 대피 프로젝트’의 연장선이다. 경북도는 올해 대피 멤버십을 처음으로 도입했다. 폭우나 산사태 등 자연재해로 대피 명령이 내려졌을 때 대피를 하면 1회로 산정한다. 이후 또 다른 대피 명령이 내려졌을 때 대피를 하면 2회로 누적되는 방식이다. &lt;br&gt;&lt;br&gt;대피 횟수에 따라 주민들에게 폭염 대비 물품을 지급한다. 경북도 관계자는 “대피 1회 때는 생필품과 비상약 등 임시 구호 물품, 3회차에는 폭염 대비용 쿨토시, 5회차에는 미니 선풍기 등을 제공하는 식”이라며 “주민들에게 대피에 대한 피로감을 줄이고, 재난 상황 시 자발적으로 대피할 수 있는 문화를 만드는 게 목표”라고 했다.&lt;br&gt;&lt;br&gt;재난 기간에 주민들을 수차례 수용하고 생명을 구한 대피소 역시 ‘대표 대피소’로 선발할 예정이다.&lt;br&gt;&lt;br&gt;이와 별도로 산불 피해 지역 주민들을 위한 문화 치유 프로그램과 심리 회복 프로그램도 운영한다. 경북예술문화단체총연합회와 경북도가 협력해 13팀을 꾸려 대피소에 방문해 국악, 클래식, 성인가요 등 공연을 이어간다. 심리 상담사 60명도 대피소를 방문해 이재민들에게 개별·집단 상담을 제공할 예정이다.&lt;br&gt;&lt;br&gt;김학홍 경북도 행정부지사는 “재난 상황에선 신속한 주민 대피만이 도민을 살리는 길”이라며 “대피왕 프로젝트를 적극 추진해 경북을 국내 최고의 안전지대로 만들겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“김호중 관대한 마음으로 봐 달라” 팬 청원… KBS “사법 절차 존중”</title>
-      <link>https://www.chosun.com/national/national_general/2025/06/20/MLT3EHJT25E4JN4C5EPPTT2DGA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/20/MLT3EHJT25E4JN4C5EPPTT2DGA/</guid>
-      <dc:creator>박선민 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 20 Jun 2025 05:16:54 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RLOZFS7CC6FPBPQOIQA7W2O5JA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;가수 김호중이 작년 5월 24일 오전 서울 서초구 서울중앙지방법원에서 영장실질심사에 출석하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;음주 교통사고를 내고 도주한 혐의 등으로 구속 기소돼 실형을 선고받은 트로트 가수 김호중(34)씨 팬들이 KBS에 “관대한 마음으로 봐 달라”는 청원 글을 올렸다. 이에 KBS 측은 “사법 절차와 결정을 존중한다”고 청원에 답했다. &lt;br&gt;&lt;br&gt;KBS는 19일 시청자 청원 게시판을 통해 “김호중씨와 관련해서는 1·2심 재판이 있었으며, 최근 김씨 측에서 대법원 상고를 포기함에 따라 항소심이 최종 확정된 점을 알고 있다”며 이같이 답했다. &lt;br&gt;&lt;br&gt;KBS의 이 같은 답변은 지난달 14일 시청자 청원 게시판에 올라온 김씨 팬클럽의 호소문이 한 달 만에 1000명 이상의 동의를 받음에 따라 제공한 것이다. KBS는 시청자 청원 게시판에 올라온 글 중 30일 안에 1000명의 동의를 받은 글에 대해 답변해주고 있다. &lt;br&gt;&lt;br&gt;당시 팬클럽은 김씨가 사회적 물의를 일으킨 건 맞지만, 재판에서 김씨 측 입장이 충분히 반영되지 않았으며, 이에 따라 방송사 측에서도 관용을 베풀어달라는 취지의 청원 글을 올렸다. 팬클럽은 “죄를 지으면 벌을 받는 것은 당연한 일이지만, 반성하고 뉘우치면 이 사회에 잘 적응하고 살 수 있도록 인도하는 것이 법의 정신이라고 알고 있다”며 “부디 이제라도 김호중을 조금은 관대한 마음으로 바라봐달라”고 했다. &lt;br&gt;&lt;br&gt;팬클럽은 김씨가 음주운전 사고 후 술을 더 마셔 음주 측정을 방해하는 ‘술타기’를 했다는 의혹에 대해선 “경찰, 검찰 조사 과정에서는 술타기에 대한 언급은 미미하였고 전혀 문제 삼지 않았다”며 “김호중도 술타기에 대해 한 번도 인정한 적 없다”고 주장했다. 그러면서 “진실이 밝혀지고 재조명되는 날이 오기를 간절히 기다린다”고 했다. &lt;br&gt;&lt;br&gt;KBS는 작년 5월 김씨가 음주 뺑소니 혐의로 구속 수사를 받게 된 이후 김씨에 대해 ‘한시적 출연 정지’ 처분을 내린 바 있다. 이번 KBS의 답변은 재판 결과에 따라 김씨의 한시적 출연 정지 결정을 유지하겠다는 것으로 해석됐다. &lt;br&gt;&lt;br&gt;김씨는 작년 5월 9일 서울 강남구 압구정동에서 술을 마시고 차를 몰다 중앙선을 침범해 반대편 도로의 택시를 들이받고 달아난 혐의로 기소됐다. 당시 소속사 직원에게 대신 자수시키고 자신의 휴대전화 3대를 압수한 경찰에게 비밀번호를 제공하지 않는 등 범행을 숨기려 한 의혹도 받는다. &lt;br&gt;&lt;br&gt;1심 재판부는 “김씨는 음주 운전을 하다가 택시를 들이받아 인적·물적 손해를 발생시켰음에도 무책임하게 도주했고 매니저에게 허위 자수하게 했다. 초동 수사에 혼선을 초래하고 경찰 수사력도 상당히 낭비됐다“며 징역 2년 6개월을 선고했다. 이어 2심 재판부도 ”음주로 인해 주의력과 판단력이 현저하게 저하해 사고를 낸 점을 인정한다“며 1심 판단을 유지했다. &lt;br&gt;&lt;br&gt;김씨가 판결에 불복해 상고했지만, 지난달 19일 취하하면서 형이 확정됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>흰 피부에 붉은 눈 ‘알비노 맹꽁이’, 짝짓기 장면 포착... “국내 두 번째”</title>
       <link>https://www.chosun.com/national/national_general/2025/06/20/2OFZ6XTDPFGX3KCZTRAFD227TY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/20/2OFZ6XTDPFGX3KCZTRAFD227TY/</guid>
@@ -857,24 +875,6 @@
       <description/>
       <pubDate>Fri, 20 Jun 2025 07:28:47 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6ZH4WKLBONMJHETBYUI2MKQIBI.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;알비노 맹꽁이가 짝짓기 중인 모습. /한국양서파충류학회&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대전에서 백색증(알비노) 맹꽁이가 발견됐다. &lt;br&gt;&lt;br&gt;20일 한국양서파충류학회에 따르면, 지난 14일 대전 동구 직동 찬샘마을 맹꽁이 집단 서식지에서 지난 14일 흰색을 띠는 알비노 맹꽁이가 관찰됐다. 알비노 맹꽁이 성별은 암컷으로, 수컷 한 마리가 위에 올라탄 채로 활동 중인 모습이 포착됐다. &lt;br&gt;&lt;br&gt;알비노 맹꽁이가 국내에서 발견된 건 2009년 청주에서 발견된 이후 두 번째라고 한다. 알비노는 동물의 피부, 눈 등의 멜라닌 색소가 합성되지 않아 발생하는 선천적 유전 질환이다. 이번에 발견된 알비노 맹꽁이는 피부가 하얗고 눈은 붉은빛을 띠는 것으로 확인됐다. &lt;br&gt;&lt;br&gt;맹꽁이는 세계자연보전연맹(IUCN)의 멸종 위기 ‘적색 목록’(Red List)에 등재된 국제 보호종이자 환경부가 지정한 멸종 위기종 2급이다. 야행성 동물로 밤에 초지·습지·웅덩이에서 먹이 활동을 하며 생활하고, 낮에는 땅속에 들어가 휴식을 취한다. 1년 중 장마철이 시작되면 짝짓기를 하고 물이 고인 얕은 웅덩이에서 산란한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JZIXORW6KZJ4LBFY47JP233FZI.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;대전에서 포착된 알비노 맹꽁이의 짝짓기 장면. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;기후변화에 민감하고, 번식·생존 등이 기후 조건에 따라 크게 달라져 기후변화 지표종으로 여겨진다. 맹꽁이가 많이 살고 있다는 것은 그만큼 생태계가 건강하다는 것을 의미한다. &lt;br&gt;&lt;br&gt;이와 관련, 문광연 한국양서파충류학회 이사는 “맹꽁이는 평상시 땅속에 있기 때문에 땅이 오염돼도 안 되고, 물속에서 알을 낳아야 하므로 물이 오염돼도 안 될 만큼 건강한 생태계에서만 서식한다”며 “그러나 기후 위기에 따라 멸종 위기종인 맹꽁이 집단 서식지 규모가 많이 줄어들고 있다”고 했다. 아울러 “요즘 기후변화로 지구온난화가 심해지다 보니 대지의 물 증발량이 많아지고 대지가 마른다. 맹꽁이는 물이 고인 곳에 산란하는데 물이 마르면 알이 죽기 때문에 번식도 어려워진다”며 “맹꽁이 서식지를 살리는 것이 곧 우리 생태계를 살리는 일”이라고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>화우 ‘새 정부 노동 정책과 기업 대응방안’ 세미나 </title>
-      <link>https://www.chosun.com/national/court_law/2025/06/20/IDS2QS6T2NDF7ABUTJYL6OSDIE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/20/IDS2QS6T2NDF7ABUTJYL6OSDIE/</guid>
-      <dc:creator>김은경 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 20 Jun 2025 04:53:26 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/42T4FN4BV5FAZJBH35OWULN7FM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;임서정 전 고용노동부 차관이 19일 서울 강남구 화우연수원에서 열린 ‘새 정부 노동정책과 기업의 대응 방안’ 세미나에서 발표하고 있다. /법무법인 화우&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이재명 정부 출범으로 ‘노란봉투법(노동조합법 개정안)’ 입법 등 노동 관련 정책 변화가 예상되는 가운데 법무법인 화우가 ‘새 정부 노동정책과 기업의 대응 방안’을 주제로 세미나를 개최했다고 20일 밝혔다.&lt;br&gt;&lt;br&gt;전날 서울 강남구 화우연수원에서 기업 사내변호사와 법무·노무 담당자를 대상으로 열린 세미나는 ▲새 정부 노동정책 방향 ▲‘원청의 사용자성 인정’ 관련 입법 동향 ▲기업 대응 방안 등 3개 섹션으로 진행됐다.&lt;br&gt;&lt;br&gt;1세션에서는 임서정 전 고용노동부 차관이 이재명 정부 노동 정책에 대한 분석과 전망을 설명했다. 새 정부는 하청 업체 노조가 원청 기업을 상대로 단체교섭을 할 수 있도록 사용자 범위를 확대하는 입법을 추진할 것으로 예상된다. 화우는 “원청의 노사관계는 특히 하청업체 노조와의 관계를 중심으로 새로운 국면을 맞이할 것으로 예상된다”며 “기업들이 각별히 대비해야 할 핵심 사안”이라고 했다.&lt;br&gt;&lt;br&gt;2·3세션에서는 화우의 홍정모·박삼근 파트너변호사가 ‘원청의 사용자성 관련 입법 동향 및 인정 기준’을 주제로 입법 정책과 방향을 설명하고 이에 따른 기업 대응 방안을 발표했다. &lt;br&gt;&lt;br&gt;홍 변호사는 “노동조합법 개정이 이뤄지더라도 여전히 (원청의)‘실질적 지배력’ 여부를 어떻게 판단할 것인지에 대한 구체적 기준은 정립되지 않았다”며 “대법원 판결에 의해 구체적 기준이 제시될 때까지 노사관계 혼란이 발생할 우려가 있다”고 했다. 또 “대법원 판결에 의해 기준이 제시되더라도, 구체적인 노사관계에서 원청의 사용자성이 인정될 것인지에 대한 예측은 여전히 어려울 것”이라고 했다.&lt;br&gt;&lt;br&gt;중앙노동위원회와 고용노동부, 삼성전자 법무팀을 두루 거친 박삼근 변호사는 “새 정부가 근로자 친화적인 정책을 펼칠 것으로 예상되고 노동조합과 관계에서도 새로운 환경이 조성될 것으로 보인다”며 “미리 정책 방향을 예상하고 합리적으로 대응하면 근로자들과 상생할 수 있는 경영 환경이 조성될 것”이라고 했다. &lt;br&gt;&lt;br&gt;화우 관계자는 “화우 노동그룹은 최근 셀트리온 불법파견 사건 항소심에서 불법파견을 인정했던 1심 판결을 뒤집고 승소를 이끌었고, CJ대한통운 중대재해처벌법 사건에서도 최종 무혐의를 이끌어냈다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>대구 스토킹 살인 피의자 윤정우, 검찰에 구속 송치</title>
-      <link>https://www.chosun.com/national/incident/2025/06/20/MUBCPIVP3BEFLOO77UPEQOLAZA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/06/20/MUBCPIVP3BEFLOO77UPEQOLAZA/</guid>
-      <dc:creator>대구=이승규 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 20 Jun 2025 04:45:29 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QVBD5KNH6FCVVBXJJZVCNIPCMA.png"&gt;&lt;figcaption&gt;&lt;small&gt;대구 스토킹 살인 피의자 신상 공개/ 그래픽=조선디자인랩 이연주&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대구에서 스토킹하던 여성을 살해한 혐의를 받는 윤정우(48)가 검찰에 넘겨졌다.&lt;br&gt;&lt;br&gt;대구 성서경찰서는 20일 윤정우를 보복살인 등 혐의로 검찰에 구속 송치했다고 밝혔다. 윤정우는 지난 10일 오전 3시 30분쯤 대구 달서구의 한 아파트에서 자신이 스토킹하던 50대 여성 B씨를 살해한 혐의를 받고 있다. &lt;br&gt;&lt;br&gt;윤정우는 B씨가 자신을 만나주지 않고 경찰에 신고하자 앙심을 품고 이 같은 범행을 저지른 것으로 조사됐다. 그는 지난 4월에도 B씨에게 자신을 만나달라며 흉기로 협박했다가 경찰에 입건됐다. 당시 경찰이 윤정우에 대한 구속 영장을 신청했으나 대구지법 서부지원이 “(윤이) 수사를 잘 받고 있다”는 이유로 기각했다.&lt;br&gt;&lt;br&gt;경찰은 이후 B씨의 아파트 출입문 인근에 방범카메라를 설치하는 등 피해자 안전 조치를 했다. 하지만 불구속 상태에서 수사받던 윤정우가 아파트 가스관을 타고 6층의 B씨 집으로 침입해 B씨를 살해하면서 이 같은 조치는 무력화됐다.&lt;br&gt;&lt;br&gt;이후 윤정우는 부친의 묘소가 있는 세종시 부강면의 야산으로 도주했다가 범행 나흘 만인 지난 14일 경찰에 체포됐다.&lt;br&gt;&lt;br&gt;경찰은 지난 19일 신상정보공개심의위원회를 열고 윤정우의 신상 정보를 오는 7월 21일까지 30일간 대구경찰청 홈페이지에 공개하기로 의결했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>접근금지 명령 끝난 지 일주일만에 아내 살해…60대男 구속영장 신청</title>
