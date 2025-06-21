@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>광주·전남 거센 장맛비...곳곳서 비 피해 속출</title>
+      <link>https://www.chosun.com/national/regional/honam/2025/06/21/DSVES24CKVFZJFEM6T2HFX437Q/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/honam/2025/06/21/DSVES24CKVFZJFEM6T2HFX437Q/</guid>
+      <dc:creator>신정훈 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 21 Jun 2025 08:52:07 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/72ESN3C3WBNCJCXAOE2EP2KFFE.JPG"&gt;&lt;figcaption&gt;&lt;small&gt; 21일 오전 9시쯤 전남 담양군 창평면 한 마을에서 하천이 범람해 소방당국이 안전조치를 하고 있다. (전남소방 제공)/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;장맛비가 내린 광주·전남 곳곳에서 비 피해가 속출하고 있다.&lt;br&gt;&lt;br&gt;21일 광주지방기상청에 따르면 전날부터 누적 강수량은 영광 안마도 143.2㎜, 곡성 옥과 120.5㎜, 담양 봉산 112㎜, 광주 110.7㎜ 등을 기록하고 있다.&lt;br&gt;&lt;br&gt;많은 비가 내리면서 담양·광양·곡성·구례·영광·장성 등 6개 시군에 산사태 주의보가 발령돼 담양·곡성·장성 14개 마을 55가구 79명이 대피했다.&lt;br&gt;&lt;br&gt;비 피해 신고도 잇따르고 있다. &lt;br&gt;&lt;br&gt;광주에서는 나무 쓰러짐, 도로 침수, 토사 유출, 맨홀 이탈, 담장 무너짐 등 총 44건의 신고가 접수돼 안전 조치를 완료했다. 전남에서도 나무쓰러짐과 배수 지원 등 모두 18건의 신고가 접수됐다. 다행히 인명피해는 발생하지 않았다. &lt;br&gt;&lt;br&gt;많은 비가 내리면서 광주에서는 하천 진출입로 336곳, 징검다리 57곳, 둔치 주차장 11개소 등 총 449개소 위험지역 통행이 통제 중이며, 전남은 천변도로 8곳, 둔치 주차장 21곳, 산책로 10곳, 징검다리 6곳 등의 통행을 제한하고 있다.&lt;br&gt;&lt;br&gt;하늘길과 바닷길도 막혔다. &lt;br&gt;&lt;br&gt;완도·목포 등 4개 항로 5척의 여객선이 운항을 멈췄다.광주공항에서는 5개 항공편의 출발·도착이 지연됐고, 여수공항은 6개 항공편이 취소됐다.&lt;br&gt;&lt;br&gt;기상청은 22일까지 광주·전남에 30~80㎜, 많은 곳(광주·전남 북부)은 100㎜ 이상의 폭우가 내릴 가능성이 있다며 비 피해에 각별한 주의를 당부했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>접근금지 풀리자 아내 살해한 남성 “난 잘했다, 미안한 거 없다”</title>
       <link>https://www.chosun.com/national/national_general/2025/06/21/WUBC4ZXGKVE6VHPCXPDC3TQKFU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/21/WUBC4ZXGKVE6VHPCXPDC3TQKFU/</guid>
@@ -857,15 +866,6 @@
       <description/>
       <pubDate>Fri, 20 Jun 2025 06:16:51 +0000</pubDate>
       <content:encoded>행정안전부는 20일 오후 2시 30분을 기해 중앙재난안전대책본부 1단계를 가동했다고 밝혔다. 수도권과 강원도에 호우 특보가 발표된 데 따른 것이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2UAABFN32UKDDWGLK3HWJF3KFE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 전역에 호우주의보가 내려진 20일 오전 서울 광화문광장에서 우산을 쓴 시민들이 출근하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;기상청에 따르면, 이날 수도권과 강원도를 중심으로 시간당 30㎜ 내외의 강한 비가 내리고 있다. 20일 밤부터는 정체 전선이 남하해 충청·전라권을 중심으로 많은 비가 내릴 것으로 전망된다.&lt;br&gt;&lt;br&gt;이에 중대본은 “호우로 인한 피해를 최소화할 수 있도록 관계 기관에 철저한 대응을 주문했다”고 밝혔다.&lt;br&gt;&lt;br&gt;우선 재난 문자나 마을 방송 등을 활용해 기상 정보와 국민 행동 요령을 홍보하도록 했다.&lt;br&gt;&lt;br&gt;과거 호우 피해 지역이나 산불 피해 지역, 산사태 우려 지역 등 취약 지역은 예찰을 강화하고, 위험이 우려되면 신속하게 출입을 통제하고 주민들을 대피시키는 등 안전 조치도 실시하도록 당부했다.&lt;br&gt;&lt;br&gt;거동이 불편한 어르신이나 장애인 등 조력이 필요한 이들의 안전을 수시로 확인하고, 유사시에는 대피도 지원하도록 했다.&lt;br&gt;&lt;br&gt;이외에도 지자체나 경찰, 소방 등 기관이 실시간으로 정보를 공유하고, 위험 징후를 포착하면 즉시 공동 대응할 것을 주문했다.&lt;br&gt;&lt;br&gt;중대본 관계자는 “호우 피해를 최소화하기 위해 상황을 철저히 관리하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>법원, 홈플러스 회생 인가 전 인수합병 신청 허가</title>
-      <link>https://www.chosun.com/national/court_law/2025/06/20/ALJC25UX5RF45D5CNFNL6QRXFY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/20/ALJC25UX5RF45D5CNFNL6QRXFY/</guid>
-      <dc:creator>김나영 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 20 Jun 2025 06:12:10 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/U6TITKX5NEUK3Z63IDGXWZRZCI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대전 서구 탄방동에 위치한 홈플러스 탄방점의 모습./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;기업회생 절차를 밝고 있는 홈플러스에 대해 법원이 20일 회생계획 인가전 인수합병(M&amp;amp;A) 신청을 허가했다.&lt;br&gt;&lt;br&gt;서울회생법원 제4부(재판장 정준영 법원장)는 이날 “채권자협의회 및 법원 관리위원회의 의견조회를 거친 다음 홈플러스의 인가전 M&amp;amp;A 추진 및 매각주간사 선정을 허가했다”고 밝혔다. 매각주간사로는 삼일회계법인이 선정됐다.&lt;br&gt;&lt;br&gt;앞서 홈플러스는 지난 18일 “회사의 청산가치(약 3조6816억원)가 계속기업가치(약 2조5059억원)를 상회한다”며 “인가전 M&amp;amp;A를 통해 회생담보권과 회생채권을 조기변제하고 채권자, 근로자 등 이해관계인에게 유리한 조건으로 매각할 예정”이라며 허가 신청을 했다.&lt;br&gt;&lt;br&gt;인가전 M&amp;amp;A는 스토킹호스(Stalking–Horse) 방식으로 이뤄질 예정이다. 스토킹호스는 매각공고 이전에 특정 인수희망자와 조건부 인수계약을 체결한 후, 공개경쟁입찰을 통해 더 나은 조건을 제시한 인수희망자가 있는지 확인하는 방식의 M&amp;amp;A 절차다. &lt;br&gt;&lt;br&gt;법원은 “최종 인수자 선정까지 약 2~3달 정도 소요될 것으로 예상된다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>흰 피부에 붉은 눈 ‘알비노 맹꽁이’, 짝짓기 장면 포착... “국내 두 번째”</title>
