@@ -13,6 +13,45 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>남원서 깊이 2m 싱크홀 생겨...행인 추락해 부상</title>
+      <link>https://www.chosun.com/national/national_general/2025/06/21/KPX3A6ILYBEIVP4E4F6YZS4Z2Q/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/21/KPX3A6ILYBEIVP4E4F6YZS4Z2Q/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 21 Jun 2025 13:26:25 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UIXWYQM6PBJJNBRNLNAYMNX7KM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;21일 오후 6시 12분쯤 전북 남원시 도통동 한 인도 바닥이 무너져 사람이 빠졌다는 신고가 접수됐다. 사진은 이날 사고현장. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전북 남원시의 한 횡단보도 앞 인도에 싱크홀이 발생해 행인이 추락했다. &lt;br&gt;&lt;br&gt;21일 전북소방본부 등에 따르면 이날 오후 6시 12분쯤 전북 남원시 도통동 한 횡단보도 앞 인도에 가로세로 약 3m, 깊이 2m 정도의 싱크홀이 발생했다. &lt;br&gt;&lt;br&gt;갑자기 발생한 싱크홀로 길을 지나던 40대 남성 A씨가 아래로 추락했다.&lt;br&gt;&lt;br&gt;신고를 접수한 구조대원이 현장에 도착했을 때 A씨는 이미 스스로 빠져나온 상태였다. A씨는 팔꿈치 등에 찰과상을 입고 인근 병원으로 옮겨져 치료를 받았다. &lt;br&gt;&lt;br&gt;경찰과 남원시는 정확한 사고 경위를 조사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“이제 나혼자 안 산다” 배우 이장우, 오는 11월 결혼</title>
+      <link>https://www.chosun.com/national/people/2025/06/21/AKKDQ6QCFRHXFOG2WT4KLZDW2E/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/06/21/AKKDQ6QCFRHXFOG2WT4KLZDW2E/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 21 Jun 2025 11:50:04 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VKDTSYTB4ND7RE475UK46YK7GA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이장우(왼쪽), 조혜원. 스포츠조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;MBC 예능프로그램 ‘나혼자산다’에 출연 중인 배우 이장우(39)가 결혼을 한다고 밝혔다. &lt;br&gt;&lt;br&gt;21일 이장우 소속사 후너스엔터테인먼트 등에 따르면 이장우는 8세 연하 배우 조혜원(31)과 오는 11월 23일 서울 모처에서 결혼식을 올린다.&lt;br&gt;&lt;br&gt;이장우와 조혜원은 지난 2023년 6월 열애를 인정했다. 후너스엔터는 당시 “두 사람은 작품을 통해 만나 친한 선후배 사이로 지내던 중 연인 사이로 발전해 예쁜 만남을 이어가고 있다”고 밝혔다.&lt;br&gt;&lt;br&gt;두 사람은 2019년 종영한 KBS 2TV 주말드라마 ‘하나뿐인 내편’을 통해 인연을 맺은 후 연인으로 발전했다. &lt;br&gt;&lt;br&gt;1986년생인 이장우는 2006년 드라마 ‘90일, 사랑할 시간’으로 데뷔한 뒤 ‘수상한 삼형제’, ‘웃어라 동해야’, ‘오자룡이 간다’, ‘장미빛 연인들’, ‘하나뿐인 내편’, ‘우아한 가’, ‘오! 삼광빌라!’, ‘성스러운 아이돌’ 등에 출연했다. &lt;br&gt;&lt;br&gt;1994년생인 조혜원은 2016년 영화 ‘혼숨’으로 데뷔해 드라마 ‘퍼퓸’, ‘낮과 밤’, ‘마인’, ‘군검사 도베르만’, ‘퀸메이커’ 등에 출연했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/VKDTSYTB4ND7RE475UK46YK7GA.jpg?auth=f46dfdad6524ff1502349364f84cf1fb25277fce51d6e9e9ae01ba00c3ee9634&amp;smart=true&amp;width=700&amp;height=394" type="image/jpeg" height="394" width="700">
+        <media:description type="plain">이장우(왼쪽), 조혜원. 스포츠조선DB</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>법원, 김용현 ‘내란특검 추가기소’ 집행정지 신청 기각  </title>
+      <link>https://www.chosun.com/national/court_law/2025/06/21/DY7DKRTSONDVVBBAHWX4C7KTJ4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/21/DY7DKRTSONDVVBBAHWX4C7KTJ4/</guid>
+      <dc:creator>유희곤 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 21 Jun 2025 12:36:29 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VMI755WKQ4AQLZOTAOZC4MNGDU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;조은석 내란 특별검사 /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 전 대통령의 내란·외환 혐의를 수사하는 조은석 특별검사가 법원에 김용현 전 국방부 장관을 추가 기소하고 재구속해달라고 한 데 대해, 김 전 장관 측이 이의신청을 했으나 법원이 받아들이지 않기로 했다.&lt;br&gt;&lt;br&gt;조 특검은 21일 김 전 장관이 이날 오전 0시 30분쯤 김 전 장관 측이 신청한 집행정지 신청을 법원이 기각했다고 밝혔다.&lt;br&gt;&lt;br&gt;조 특검은 지난 18일 김 전 장관을 위계에 의한 공무집행방해와 증거인멸교사 혐의로 추가 기소하고 법원에 구속영장을 다시 발부해달라고 했다. 오는 26일에 1심 구속기한 6개월이 끝나는 김 전 장관의 신병을 확보하려 한다는 분석이 나왔다.&lt;br&gt;&lt;br&gt;이에 김 전 장관 측은 “조 특검이 임명된 지 불과 6일 만에 김 전 장관의 기존 (내란) 사건과 무관한 별건 혐의로 신규 공소를 제기하고 구속영장 청구까지 시도했다. 특검의 직무범위를 이탈한 위법행위”라며 서울고법에 이의신청과 집행정지를 신청했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>주말 도심서 양대노총 집회·아리셀 참사 1주기 추모 등 집회 이어져</title>
+      <link>https://www.chosun.com/national/national_general/2025/06/21/PPIO4X3OZRGCDF5RJHTG72NIGM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/21/PPIO4X3OZRGCDF5RJHTG72NIGM/</guid>
+      <dc:creator>구아모 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 21 Jun 2025 10:41:29 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HP3ZRAGLDNO4TP2OU6UJYBGQ74.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;21일 서울 종로구 광화문에서 한국노총과 민주노총 소속 공공기관 노조가 공동 참가한 총력 투쟁 결의대회에 집회 참석 노조의 깃발들이 입장하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;토요일인 21일 서울 도심 곳곳에서 집회와 추모 행사가 잇따라 열렸다.&lt;br&gt;&lt;br&gt;서울 종로구 광화문 서십자각에서는 한국노총과 민주노총 등 공공부문 노동조합이 총력 투쟁 결의 대회를 열고 공공기관 노동자 처우 개선 등을 촉구했다. 현장에는 약 1만명(경찰 비공식 추산)이 모였으며, 참가자들은 “노동 3권 보장” 등의 구호를 외쳤다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5O4QBDPXFJNCRCZR432GV2AUJA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;21일 서울역 광장에서 아리셀 중대재해참사 1주기 추모대회가 열리고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울역 광장에서는 지난해 6월 발생한 ‘아리셀 화재 참사’ 1주기를 맞아 추모 대회가 열렸다. 유족들과 시민 약 300명이 참석한 가운데, 불교·개신교·천주교 3대 종단의 추도제가 진행됐고, 하늘색 조화를 헌화하며 희생자들을 기렸다. 대책위는 “책임자 처벌과 중대재해처벌법 실효성 확보가 필요하다”고 밝혔다.&lt;br&gt;&lt;br&gt;진보 성향 단체 ‘촛불행동’은 서초동 아크로비스타 인근에서 윤석열 전 대통령과 김건희 여사의 구속을 촉구하는 집회를 열었다. 같은 시각, 서울중앙지검 앞에는 보수 성향 유튜버들이 모여 이재명 대통령 관련 재판을 언급하며 맞불 집회를 벌이기도 했다.&lt;br&gt;&lt;br&gt;종로구 동화면세점 앞에서는 자유통일당과 전광훈 목사 측이 주최한 집회도 열려 “부정선거 척결하라” 등의 발언이 나왔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>광주·전남 거센 장맛비...곳곳서 비 피해 속출</title>
       <link>https://www.chosun.com/national/regional/honam/2025/06/21/DSVES24CKVFZJFEM6T2HFX437Q/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/honam/2025/06/21/DSVES24CKVFZJFEM6T2HFX437Q/</guid>
@@ -819,28 +858,6 @@
       <media:content url="https://www.chosun.com/resizer/v2/4MTFRYWHBJA7XOKKF7G7JPLX5U.png?auth=4651b5b20b5d4901424204d1456faee02e4b064ff509db23945deabf4404c8ef&amp;smart=true&amp;width=800&amp;height=420" type="image/png" height="420" width="800"/>
     </item>
     <item>
-      <title>[오늘의 운세]  6월 21일 토요일 (음력 5월 26일 辛酉)</title>
-      <link>https://www.chosun.com/national/national_general/2025/06/20/R4B6DCXKUFFYNEGPGEUKZKNNTU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/20/R4B6DCXKUFFYNEGPGEUKZKNNTU/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Fri, 20 Jun 2025 08:00:00 +0000</pubDate>
-      <content:encoded>&lt;p&gt;&lt;div class="chosun_unse"&gt;&lt;iframe src="https://image.chosun.com/arc/unse_iframe.html" frameborder="0" scrolling="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;style&gt;.chosun_unse{position:relative;width:100%;height:350px;box-sizing:border-box}.chosun_unse&gt;iframe{position:absolute;top:0;left:0;width:100%;height:100%;overflow-y:hidden}@media all and (max-width:1024px){.chosun_unse{height:350px}}@media all and (max-width:1023px){.chosun_unse{height:350px}}@media all and (max-width:528px){.chosun_unse{height:270px}}@media all and (max-width:384px){.chosun_unse{height:190px}}&lt;/style&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;p&gt;&lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani01.gif"&gt;  	&amp;nbsp;	36년생 타인 단점은 눈감아 주는 게 미덕. 48년생 최선 다했다면 결과는 하늘에 맡겨야. 60년생 집 안에 있기보다 밖으로 나가는 게 유익. 72년생 시운이 도우니 범사 여의하구나. 84년생 대수롭지 않게 여긴 일에 웃음 절로. 96년생 가세 기울면 머슴도 주인 깔본다.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt;  &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani02.gif"&gt;	&amp;nbsp;	37년생 과욕 과식은 건강 관리의 최대 적. 49년생 일시적 정체이니 크게 걱정할 것 없다. 61년생 이왕 시작한 거 몰입감 있게 끝까지 파라. 73년생 실리 좋지만 명분도 간과 말아야. 85년생 젊다고 건강 맹신하면 큰코다친다. 97년생 의롭지 않은 관계면 당장 멀리해야.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani03.gif"&gt;	&amp;nbsp;	38년생 낡고 오래된 것도 함부로 버리지 말라. 50년생 씨도 안 뿌리고 추수할 생각 하나. 62년생 고뇌 속에 기쁨 숨어 있음을 명심. 74년생 용서는 용서를, 증오는 증오를 낳는 법. 86년생 단점 있어도 장점만 보고 가라. 98년생 어느 집이든 계산 어려운 빚이 있다.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani04.gif"&gt;	&amp;nbsp;	27년생 가족과 함께면 어딘들 못 갈까. 39년생 검은색과 숫자 1, 6이 행운 부른다. 51년생 선장 많은 배는 산으로 가기 마련. 63년생 아침 안개 끼면 그날은 청명. 75년생 침묵이 가장 좋은 대응. 87년생 신변 작은 변화는 긍정적 신호. 99년생 가까운 데 가도 새참을 싸라.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani05.gif"&gt;	&amp;nbsp;	28년생 지성으로 갈구해야 목적 달성. 40년생 분산보다 집중이 필요. 52년생 어른으로서 지조 있는 처신이 필요. 64년생 때가 아니니 여유를 갖고 관망. 76년생 집안이 시끄러우면 되는 일 없다. 88년생 져주는 게 이기는 것. 00년생 지지부진하던 일이 탄력을 받을 듯.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani06.gif"&gt;	&amp;nbsp;	29년생 한시름 놓았을 때가 더 위험. 41년생 재물 아니면 사람 때문에 근심. 53년생 토끼띠, 돼지띠와 맺은 관계 주의 필요. 65년생 동지섣달에도 밭 갈 날이 있다. 77년생 중요한 일이라면 오늘 결정하라. 89년생 명성이 도리어 발목 잡을 수도. 01년생 불씨 꺼진 화로 신세.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani07.gif"&gt;	&amp;nbsp;	30년생 마음을 대범하게 갖도록. 42년생 과민성 신경 질환을 주의. 54년생 단호한 언사가 후회 남길 수도. 66년생 술에는 성공과 실패 모두 있다. 78년생 서쪽 대문을 이용하라, 운기가 빛난다. 90년생 동업에도 다 때가 있는 법. 02년생 기대치를 낮추고 임해야 실망이 적다.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani08.gif"&gt;	&amp;nbsp;	31년생 급하게 먹는 밥이 체하는 법. 43년생 뭉치면 살고 흩어지면 죽는다. 55년생 가난 구제는 나라님도 못한다. 67년생 무료한 상황에 변화의 기미가. 79년생 수탉이 천 마리인들 계란 낳을까. 91년생 움직임은 많으나 실속은 별로. 03년생 동료의 단점 들춰서 좋을 것 없다.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani09.gif"&gt;	&amp;nbsp;	32년생 원점에서 다시 생각해 봄이 좋을 듯. 44년생 매듭을 지을 때는 확실하게. 56년생 주동하지 말고 조용히 따라가라. 68년생 기다리지 말고 먼저 다가서라. 80년생 이동할 때 사람과 자동차를 주의. 92년생 기량을 발휘하기에 좋은 날. 04년생 무방비는 무책임의 다른 말.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani10.gif"&gt;	&amp;nbsp;	33년생 주위의 아픔을 간과 말라. 45년생 멋모르고 달려들다가 손해 볼 수도. 57년생 상대방도 자신처럼 아끼고 사랑할 줄 알아야. 69년생 피로 쌓이지 않도록 그때그때 풀어야. 81년생 오래전 계획한 일이 해결되는 시기. 93년생 너무 세게 밟으면 헛바퀴 돌기 쉽다.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani11.gif"&gt;	&amp;nbsp;	34년생 주위에 말띠 있다면 그가 귀인. 46년생 온 손님 박대하면 집밖에 갈 곳이 없다. 58년생 겸손하면 의외의 소득이 따를 수도. 70년생 속성을 파악하기 전까지 돌진 말라. 82년생 기적도 최선 다할 때 생기는 것. 94년생 좋은 친구 없음을 탓하기 전 자신 돌아봐야.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani12.gif"&gt;	&amp;nbsp;	35년생 즉흥적 대응은 바람직하지 않다. 47년생 적극적 자세로 활기차게 생활하도록. 59년생 내면에 지닌 게 많을수록 외부에 필요한 건 적다. 71년생 가문 하늘에서 단비 내리는구나. 83년생 남 말 믿지 말고 소신껏 처신하도록. 95년생 급진적이진 않아도 변화는 불가피.	&lt;br&gt;
-&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;한소평 금오산방 강주  &lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;			&lt;/p&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/4MTFRYWHBJA7XOKKF7G7JPLX5U.png?auth=4651b5b20b5d4901424204d1456faee02e4b064ff509db23945deabf4404c8ef&amp;smart=true&amp;width=800&amp;height=420" type="image/png" height="420" width="800"/>
-    </item>
-    <item>
       <title>도로‧주택 잠기고, 나무 넘어지고…159㎜ 집중호우 내린 인천, 피해 잇따라</title>
       <link>https://www.chosun.com/national/incident/2025/06/20/GM7HNDDVMRAD5OLZPBHDFZMW54/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/06/20/GM7HNDDVMRAD5OLZPBHDFZMW54/</guid>
@@ -848,24 +865,6 @@
       <description/>
       <pubDate>Fri, 20 Jun 2025 07:48:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XZGYUTPKRWKINQXB7ZUDLE7LKU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;공장들이 모여있는 인천시 서구 오류동의 한 도로가 침수된 모습./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;19일 밤부터 20일 오후까지 인천에 최대 159㎜의 많은 비가 내리면서 도로와 주택이 물에 잠기는 등 피해가 늘고 있다. &lt;br&gt;&lt;br&gt;20일 인천시에 따르면 이날 오전 0시부터 오후 2시까지 시와 일선 군‧구에 모두 76건의 비 피해 신고가 접수됐다. &lt;br&gt;&lt;br&gt;도로 침수가 37건으로 가장 많았고, 주택 침수와 나무 전도 11건, 토사 유출 5건 등 순으로 나타났다. &lt;br&gt;&lt;br&gt;도로 침수는 오전 4시 8분쯤 중구 운남동 일대 도로 침수 신고를 시작으로, 서구 오류동, 계양구 귤현동과 병방동, 서구 원당동 등지에서 잇따랐다. &lt;br&gt;&lt;br&gt;주택 침수 신고는 0시 30분쯤 미추홀구 숭의동의 한 공동주택 침수 신고를 시작으로, 남동구 간석동, 서구 당하동, 남동구 간석동, 서구 연희동 등지에서 이어졌다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/R6LUAAIOZ5B2BOESMGDDXAXE3U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;20일 오전 2시 35분쯤 인천시 남동구 간석동의 한 아파트단지에서 나무가 쓰러져 주차된 차를 덮쳤다. /인천소방본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;0시 30분쯤 인천 남동구 간석동의 한 아파트 단지에선 나무가 넘어져 주차된 차량을 덮치기도 했고, 오전 6시 7분쯤엔 서구 오류동 도로에서 맨홀 뚜껑이 유실됐다는 신고가 들어와 안전 조치가 이뤄졌다. &lt;br&gt;&lt;br&gt;오전 4시 20분쯤 서구 왕길동을 비롯해 서구 오류동과 가정동 등지에서 토사가 유출됐다는 신고도 있었다. &lt;br&gt;&lt;br&gt;오전 7시 31분쯤 중구 중산동의 한 숙박시설 외벽에 걸린 현수막이 찢어졌다는 신고가 있어 소방 당국이 안전 조치에 나섰고, 오후 12시 9분쯤엔 동구 송림동에서 전깃줄이 낙하됐다는 신고가 접수되기도 했다. &lt;br&gt;&lt;br&gt;오후 2시 현재 차량이 통제된 도로는 계양구 작전동 토끼굴, 서구 검바위로 공항고속도로 측도길 등 2곳이다. 승기천, 장수천 등 인천 지역 하천 12곳도 통제됐다.&lt;br&gt;&lt;br&gt;이 시각 현재까지 지역별 누적 강수량은 서구 금곡동이 159㎜를 기록해 가장 많았고 동구 송림동 104㎜, 중구 전동 99㎜, 미추홀구 숭의동 87㎜ 등의 강우량을 보였다.&lt;br&gt;&lt;br&gt;이날 오전 4시 40분쯤 호우경보가 발효됐던 인천 지역은 오후 4시부터 호우주의보로 변경됐다. &lt;br&gt;&lt;br&gt;수도권기상청 관계자는 “일단 인천 지역 비구름이 약해지는 단계”라면서도 “내일(21일)까지 인천엔 10~50㎜의 비가 더 올 것으로 예상된다”고 말했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>내란 특검, 김용현 재판부에 “구속영장 발부해달라” 의견서 제출</title>
-      <link>https://www.chosun.com/national/court_law/2025/06/20/JBH2UUFTYFGJRIZDU2HDZ2IQNA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/20/JBH2UUFTYFGJRIZDU2HDZ2IQNA/</guid>
-      <dc:creator>김나영 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 20 Jun 2025 07:08:19 +0000</pubDate>
-      <content:encoded>내란 특검이 20일 김용현 전 국방부 장관의 추가 기소 건을 담당하는 재판부에 “김 전 장관에 대한 구속영장을 발부해달라”는 취지의 의견서를 제출했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/O33VSH42SLSGGYAMX43PIM23HQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 1월 헌법재판소에서 열린 윤석열 전 대통령의 탄핵심판에서 김용현 전 국방부 장관이 발언하고 있는 모습./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;조은석 특검은 “김 전 장관에 대한 증거인멸교사 등 사건이 형사34재판부에 배당된 이후, 추가적으로 해당 재판부에 구속영장 발부 필요성에 대한 의견서를 제출했다”고 밝혔다. 이날 오전 서울중앙지법이 김 전 장관의 사건을 형사34부(재판장 한성진)에 배당하자, 바로 법원에 의견서를 낸 것이다.&lt;br&gt;&lt;br&gt;김 전 장관은 작년 12월 27일 내란중요임무종사 및 직권남용 혐의로 구속 기소돼 오는 26일 1심 구속기간(최대 6개월)이 만료를 앞두고 있다. 이에 법원은 지난 16일 김 전 장관에 대해 조건부 보석 결정을 했지만, 김 전 장관 측은 조건 없는 석방을 노리고 보석을 거부했다.&lt;br&gt;&lt;br&gt;그러나 지난 18일 조 특검이 김 전 장관을 추가로 기소하면서 김 전 장관은 다시 구속될 처지에 놓이게 됐다. 조 특검은 김 전 장관을 재판에 넘기면서 법원에 구속영장 발부를 요청하는 서면을 제출했고, 재판부는 오는 23일로 구속영장 심문 기일을 잡았다.&lt;br&gt;&lt;br&gt;이에 김 전 장관 측은 즉각 심문 기일 변경 신청서를 제출했다고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>중부지방 중심으로 많은 비…정부, 중대본 가동</title>
-      <link>https://www.chosun.com/national/national_general/2025/06/20/RUDUQZS4FBBZZNCFX4CUEYGH3I/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/20/RUDUQZS4FBBZZNCFX4CUEYGH3I/</guid>
-      <dc:creator>김영우 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 20 Jun 2025 06:16:51 +0000</pubDate>
-      <content:encoded>행정안전부는 20일 오후 2시 30분을 기해 중앙재난안전대책본부 1단계를 가동했다고 밝혔다. 수도권과 강원도에 호우 특보가 발표된 데 따른 것이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2UAABFN32UKDDWGLK3HWJF3KFE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 전역에 호우주의보가 내려진 20일 오전 서울 광화문광장에서 우산을 쓴 시민들이 출근하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;기상청에 따르면, 이날 수도권과 강원도를 중심으로 시간당 30㎜ 내외의 강한 비가 내리고 있다. 20일 밤부터는 정체 전선이 남하해 충청·전라권을 중심으로 많은 비가 내릴 것으로 전망된다.&lt;br&gt;&lt;br&gt;이에 중대본은 “호우로 인한 피해를 최소화할 수 있도록 관계 기관에 철저한 대응을 주문했다”고 밝혔다.&lt;br&gt;&lt;br&gt;우선 재난 문자나 마을 방송 등을 활용해 기상 정보와 국민 행동 요령을 홍보하도록 했다.&lt;br&gt;&lt;br&gt;과거 호우 피해 지역이나 산불 피해 지역, 산사태 우려 지역 등 취약 지역은 예찰을 강화하고, 위험이 우려되면 신속하게 출입을 통제하고 주민들을 대피시키는 등 안전 조치도 실시하도록 당부했다.&lt;br&gt;&lt;br&gt;거동이 불편한 어르신이나 장애인 등 조력이 필요한 이들의 안전을 수시로 확인하고, 유사시에는 대피도 지원하도록 했다.&lt;br&gt;&lt;br&gt;이외에도 지자체나 경찰, 소방 등 기관이 실시간으로 정보를 공유하고, 위험 징후를 포착하면 즉시 공동 대응할 것을 주문했다.&lt;br&gt;&lt;br&gt;중대본 관계자는 “호우 피해를 최소화하기 위해 상황을 철저히 관리하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>흰 피부에 붉은 눈 ‘알비노 맹꽁이’, 짝짓기 장면 포착... “국내 두 번째”</title>
@@ -884,15 +883,6 @@
       <description/>
       <pubDate>Fri, 20 Jun 2025 02:17:07 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/S4JNNA63IJHXYPIIBJ7DXGEVSU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;가정폭력으로 법원의 접근금지 명령 기간이 끝난 지 일주일 만에 아내를 찾아가 흉기로 살해한 60대 남성이 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;인천 삼산경찰서는 살인 혐의로 60대 A씨에 대한 구속영장을 신청했다고 20일 밝혔다. &lt;br&gt;&lt;br&gt;A씨는 전날 오후 4시 30분쯤 인천시 부평구 부평동의 자택 현관 앞에서 아내 60대 B씨를 흉기로 찔러 숨지게 한 혐의를 받고 있다. &lt;br&gt;&lt;br&gt;B씨는 신고를 받고 출동한 119구급대에 의해 병원으로 이송돼 치료를 받았으나 숨졌다. &lt;br&gt;&lt;br&gt;이웃 주민의 신고를 받고 출동한 경찰은 사건 현장에 있던 A씨를 현행범으로 체포했다. &lt;br&gt;&lt;br&gt;A씨는 자신의 혐의를 인정한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;A씨는 앞서 지난해 12월 가정폭력으로 법원으로부터 B씨에 대한 100m 이내 접근 금지와 연락 제한 등의 임시조치명령을 받았다. 지난 12일까지가 기한이었는데, 종료 7일 후 범행한 것으로 조사됐다. &lt;br&gt;&lt;br&gt;경찰 관계자는 “국립과학수사연구원에 B씨의 시신 부검을 의뢰해 구체적인 사망 원인을 조사할 예정”이라며 “구체적인 수사 내용은 확인해줄 수 없다”고 말했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“선배가 수업 못듣게 해요” 의대복귀 막은 학생들 줄줄이 신고</title>
-      <link>https://www.chosun.com/national/welfare-medical/2025/06/20/HMFSSV4GOBDM7IZMEHOJ5EWYVQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/06/20/HMFSSV4GOBDM7IZMEHOJ5EWYVQ/</guid>
-      <dc:creator>이가영 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 19 Jun 2025 23:41:22 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KQWNLYQEY4RD2FRUOOLJT436YE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 5월 서울 시내 한 의과대학의 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전북대학교 의과대학에서 선배가 후배들의 수업 복귀를 방해한다는 신고가 접수됐다. 차의과대학교와 을지대학교에 이어 세 번째다. &lt;br&gt;&lt;br&gt;20일 전북대에 따르면 전북대 의대 24학번 학생 일부는 같은 학교 선배인 대한의과대학‧의학전문대학원 학생협회(의대협) 전북대 비상대책위원장 A씨를 학교와 교육부에 신고했다. &lt;br&gt;&lt;br&gt;학생들은 A씨가 복귀 의사를 밝힌 신입생들에게 ‘지금 돌아가면 안 된다’는 취지의 발언을 했다고 주장했다. 24학번 학생들이 최근 복귀 희망 의사를 비공식 조사한 결과 100여 명 중 70%가 복귀 참여 의사를 밝혔는데, A씨 발언으로 상당수가 위축된 정황이 드러났다는 것이다. &lt;br&gt;&lt;br&gt;전북대 관계자는 “A씨가 실제로 해당 발언을 했는지 등에 대해 조사한 뒤 (수업 방해 사실이 드러나면) 징계 절차를 진행하겠다”고 밝혔다. &lt;br&gt;&lt;br&gt;수업 참여를 방해한다며 후배들이 의대 선배를 관계 당국에 신고한 사례는 이번이 처음은 아니다. &lt;br&gt;&lt;br&gt;앞서 차의과대학 의전원에서는 2학년 학생들이 학교 측에 수업을 방해한 3학년 선배를 제적해 달라고 요구했다. 2학년 학생들은 선배가 수업에 출석하지 말라고 문자메시지를 보내는 등 자신들을 협박했다고 주장하고 있다. &lt;br&gt;&lt;br&gt;을지대 의대에서는 지난달 학교 운동장에서 투표를 하며 수업 참여 의사를 공개적으로 밝히게 하는 등 복귀를 방해했다는 민원이 접수돼 2명에게 징계가 내려졌다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>3특검 수사 앞두고… 尹, 주변에 “난 떳떳”</title>
