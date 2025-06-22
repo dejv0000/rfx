@@ -13,6 +13,33 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>“급식 몰래 먹으려고” 학교 침입한 졸업생들, 항소심은?</title>
+      <link>https://www.chosun.com/national/incident/2025/06/22/CFIUZEZ77RFDFNV4YJMKFKCQKI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/06/22/CFIUZEZ77RFDFNV4YJMKFKCQKI/</guid>
+      <dc:creator>수원=김현수 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 22 Jun 2025 11:38:18 +0000</pubDate>
+      <content:encoded>중학교 급식실에 몰래 들어가 밥을 먹은 3명이 징역형을 선고받았다. 이들은 “졸업생으로 선생님을 만나러 들어갔다가 밥을 먹었다. 상식에서 벗어난 행동은 아니었다”고 주장했다. 하지만 법원은 “학교는 외부인의 출입이 제한된 교육시설로 학생의 안전을 보호할 필요성이 크다”며 “죄질이 가볍지 않다”고 판단했다.&lt;br&gt;&lt;br&gt;수원고법 형사1부(재판장 신현일)는 공동주거침입 혐의로 기소된 A씨 등 3명의 항소를 기각하고 1심 판결을 그대로 유지했다고 22일 밝혔다. 앞서 1심은 A씨에게 징역 2년, B씨에게 징역 6개월에 집행유예 2년, C군에게 징역 4개월에 집행유예 2년을 각각 선고했다. A씨는 이 사건 이후 다른 사건으로도 기소돼 실형을 선고받았다.&lt;br&gt;&lt;br&gt;이들은 2023년 5월 23일 오후 12시 45분쯤 경기 용인시의 한 중학교 급식실에 무단 침입해 밥을 먹은 혐의로 재판에 넘겨졌다. 감시 카메라 영상에는 이들이 학교 후문으로 들어와 엘리베이터를 타고 2층 급식실로 가는 모습이 그대로 담겼다.&lt;br&gt;&lt;br&gt;당시 이들을 수상하게 여긴 교사가 나가라고 했으나 이들은 식사를 멈추지 않았다. 교사가 “지금 당장 나가지 않으면 경찰에 신고하겠다”고 하자 그제야 식사를 멈췄다고 한다. &lt;br&gt;&lt;br&gt;이들은 “이 학교에 다니는 학생을 바래다주고 선생님을 만나기 위해 들어왔다가 잠시 밥을 먹었다” “이 학교 졸업생으로 밥을 사 먹을 돈이 없어서 들어갔다” “급식실에 있던 학생 누구도 놀라지 않았으니 주거침입이 아니다”라고 주장했지만, 법원은 받아들이지 않았다. &lt;br&gt;&lt;br&gt;재판부는 “사전에 연락한 교사도 없었고 누구를 만나려고 했는지 특정도 하지 못하고 있다”며 “무단 침입한 시각이 급식 시간과 정확히 일치하고, 정문에서 출입증 발급 절차를 거치지 않은 점 등을 볼 때 급식을 목적으로 한 침입으로 보인다”고 했다. 실제 이 학교를 졸업한 사람도 A씨뿐인 것으로 조사됐다.&lt;br&gt;&lt;br&gt;A씨 등은 “당시 학교 후문이 열려 있어 주거침입이 아니다”라고 했지만 재판부는 “학교 생활을 경험한 일반인이라면 누구나 학교는 일반인의 출입이 제한된다는 사실을 알고 있다”며 “문이 열려 있다는 이유만으로 주거침입의 고의가 없었다고 할 수 없다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>오피스텔 19층서 스티로폼 박스 던진 30대, 벌금 500만원</title>
+      <link>https://www.chosun.com/national/regional/gyeonggi-incheon/2025/06/22/BVBB7EJ3TVHFVJB43SMAFCNPLI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/gyeonggi-incheon/2025/06/22/BVBB7EJ3TVHFVJB43SMAFCNPLI/</guid>
+      <dc:creator>김석모 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 22 Jun 2025 10:49:52 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AZWLNE2CUVC4BNXL5R7VBKVCJY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;인천지방법원. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;고층 오피스텔에서 창문 밖으로 쓰레기를 던진 30대 남성에게 벌금형이 선고됐다.&lt;br&gt;&lt;br&gt;인천지법 형사1단독 이창경 판사는 상해미수 혐의로 기소된 A(30)씨에게 벌금 500만원을 선고했다고 22일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난해 5월 10일 오후 3시 55분쯤 인천 연수구 한 오피스텔 19층에서 얼음팩 3개가 담긴 스티로폼 아이스박스를 창문 밖으로 던져 행인 B(22)씨 근처에 떨어뜨린 혐의를 받는다.&lt;br&gt;&lt;br&gt;A씨가 던진 아이스박스는 가로 37cm, 세로 28cm, 높이 28cm 크기였다. 이 박스는 B씨와 3m 거리의 화단에 떨어졌다고 한다. &lt;br&gt;&lt;br&gt;이 판사는 “불특정 다수의 사람들에게 자칫 심각한 위해를 가할 수 있는 위험천만한 범행으로 죄질이 매우 좋지 않다”면서 “A씨는 법정에서조차 납득할 수 없는 주장으로 범행을 완강히 부인하면서 전혀 반성하고 있지 않다”고 밝혔다. 이어 “다행히 아무도 맞지 않았고, A씨가 형사처벌을 받은 전력이 없는 점을 고려해 형을 정했다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>내란특검 “여인형 전 사령관 등에 대해 군검찰과 기소 처분 협의중” </title>
+      <link>https://www.chosun.com/national/court_law/2025/06/22/SNPHUCX3PZC4TAKA54DVJA5NZA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/22/SNPHUCX3PZC4TAKA54DVJA5NZA/</guid>
+      <dc:creator>김희래 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 22 Jun 2025 11:52:35 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OGUPYLZPXAZYAJ4A4XY5FBZNNY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령의 12·3 비상계엄 선포와 관련한 내란 사건을 수사하는 조은석 특별검사. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 전 대통령 등의 내란·외환 혐의를 수사하는 조은석 특별검사가 여인형 전 국군방첩사령관 등에 대한 기소 처분에 대해 군검찰과 협의중에 있다고 22일 밝혔다.&lt;br&gt;&lt;br&gt;이날 조 특검 측은 “(내란 사건 관련) 기록을 인계 받아 수사를 진행하던 중, 군사법원이 재판하고 있는 여 전 사령관 등에 대한 신속한 처분 검토가 필요한 사항이 확인됐다”며 “금일(22일) 군검찰에 자료를 송부하고 특검법 제6조 제3항에 따라 공소제기 등 처분에 대해 협의를 진행하고 있다”고 밝혔다.&lt;br&gt;&lt;br&gt;조 특검 측은 ‘신속한 처분 검토가 필요한 사항’이 무엇인지에 대해 구체적인 설명을 내놓지는 않았다. 그러나 조 특검이 오는 26일 1심 구속기한(6개월) 만료를 앞둔 김용현 전 국방부 장관을 지난 18일 추가 기소하고 법원에 새 구속영장 발부를 요청한 만큼, 여 전 사령관 등에 대해서도 같은 조치에 나선 것으로 풀이된다. 내란 사건의 핵심 피고인들을 구속 상태로 재판에 묶어두기 위해서다.&lt;br&gt;&lt;br&gt;군사법원에서 재판을 받고 있는 여 전 사령관과 이진우 전 수도방위사령관은 내란 혐의로 작년 12월 31일 구속 기소됐고, 오는 30일 구속기한 만료를 앞두고 있다. 앞서 조 특검이 김 전 장관을 추가 기소했을 당시에도 법조계에서는 여 전 사령관과 이 전 사령관 등에 대해서도 추가 기소가 이어질 것이란 전망이 나왔다.&lt;br&gt;&lt;br&gt;&amp;nbsp;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>‘내란 특검팀’ 수사지원단장 내정...공수처엔 검사 2명 파견 요청 </title>
       <link>https://www.chosun.com/national/court_law/2025/06/22/J2F2VNG5INGEVLB6JPADDDI2J4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/22/J2F2VNG5INGEVLB6JPADDDI2J4/</guid>
@@ -892,27 +919,6 @@
       </media:content>
     </item>
     <item>
-      <title>술 취한 동료에게 ‘꽃뱀 사기’로 6년간 15억 뜯어낸 공무원 ‘징역 6년’</title>
-      <link>https://www.chosun.com/national/court_law/2025/06/20/BTYHH7VSFJDJLMNG2TMYPAO4YQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/20/BTYHH7VSFJDJLMNG2TMYPAO4YQ/</guid>
-      <dc:creator>수원=김수언 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 20 Jun 2025 08:33:20 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DLQFVJMSAB5FCHXXT57N2SZBZM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기도 수원시 영통구에 있는 수원법원종합청사. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;직장 동료를 만취하게 한 후 여성들을 성폭행한 것처럼 속이는 방식으로 6년간 합의금 명목으로 15억원을 뜯어낸 공무원 등 2명이 항소심서도 징역형을 선고받았다.&lt;br&gt;&lt;br&gt;20일 법조계에 따르면 수원고법 형사3부(재판장 김종기)는 특정경제범죄 가중 처벌 등에 관한 법률 위반(공갈) 혐의를 받는 공무원 A씨와 공범 B씨의 항소를 기각하고 원심 판결을 유지했다. 앞서 1심 재판부는 A씨에게 징역 6년을, B씨에게 징역 2년을 각각 선고했다.&lt;br&gt;&lt;br&gt;판결문에 따르면 A씨 등은 2012~2013년 직장 동료인 피해자 C씨를 한 식당으로 불러 여성과 함께 술을 마시도록 자리를 마련했다. 이후 이들은 C씨에게 “술자리에 동석한 여성이 성폭행당했다며 경찰에 신고하려 한다. 이를 무마하려면 합의금을 전달해야 한다”고 속여 9억800여 만원을 뜯어냈다. C씨가 만취해 기억을 제대로 하지 못하는 점을 이용한 것이다.&lt;br&gt;&lt;br&gt;A씨 등은 2017~2018년 C씨를 식당으로 불러 또 같은 수법으로 범행한 것으로 조사됐다. 이들은 “미성년자 부모에게 연락이 와서 자녀가 성폭행당했다고 말하더라. 10억원을 요구하는데 안 해주면 감옥에 가는 수밖에 없다”고 C씨를 협박해 6억6000만원을 가로챘다.&lt;br&gt;&lt;br&gt;A씨는 성폭행 신고가 이뤄질 것처럼 속여 돈을 받는 역할을, B씨는 이 같은 ‘꽃뱀’ 작업에 투입될 여성을 소개받아 피해자와 함께 술을 마시게 하고 모텔로 가도록 분위기를 조성하는 등 역할을 분담했다.&lt;br&gt;&lt;br&gt;앞서 1심 재판부는 “피고인들이 이른바 꽃뱀 역할의 여성들을 동원해 술에 취한 피해자가 성범죄를 저질러 형사 합의가 필요한 것처럼 위장해 금원을 갈취하는 행위를 약 6년가량 반복한 사안”이라며 “범행 경위, 수법과 결과, 피해액 규모 등에 비춰 죄질이 매우 불량하다”고 판시했다.&lt;br&gt;&lt;br&gt;2심 재판부 역시 “피고인 A는 피해 회복을 위한 진지한 노력을 기울이지 않았고 피해자에게 용서받지 못했는데도 이해하기 어려운 변명으로 일관하며 범행을 부인하고 있다”고 했다. 이어 “피고인 B가 피해자에게 6200만원을 추가로 변제했고 1년 이내 5000만원을 더 변제하기로 약속해 피해자가 처벌불원 의사를 밝힌 사실은 인정되지만, 이 사건 범행은 형사사법 절차를 악용해 거액의 돈을 갈취한 것으로 죄질이 매우 불량하다”며 “변제 금액이 전체 피해액과 대조해 상당한 금액이라고 보기 어려운 점을 고려하면 원심 형량을 변경할 만한 사정 변경에 해당하지 않는다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“민폐族 오명 벗겠다“...경찰과 ‘달리는 순찰’하는 러닝크루 멤버들</title>
-      <link>https://www.chosun.com/national/national_general/2025/06/20/6VW34OIIOZC43OACOUGSDCBXUY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/20/6VW34OIIOZC43OACOUGSDCBXUY/</guid>
-      <dc:creator>김나연 기자, 안태민 기자, 강지은 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 20 Jun 2025 08:20:50 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RXYHXVSFWZANHDRUUQHMMWTTHM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;19일 서울 서대문구 홍제천에서 러닝크루 순찰대와 서대문경찰서 경찰들이 첫 합동 순찰에 나섰다./ 박성원 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“위험해요, 안전모 쓰고 자전거 타주세요!” 19일 오후 8시 서울 강남구 잠원한강공원에서 변영훈(34)씨가 안전 조끼를 입고 붉은 경광봉을 든 채 이렇게 외쳤다. 그는 경찰이 아니다. 발목까지 오는 흰색 양말에 짧은 반바지, 형광색 러닝화를 신은 변씨는 강남 지역 러닝 크루(running crew·달리기 동호회) ‘런비’ 멤버다. 최근 2040 사이에서 인기를 끄는 러닝 크루 멤버들이 경찰관과 함께 ‘달리면서 하는 합동 순찰’에 나선 것이다. 변씨는 “공원 곳곳에 시민들에게 위험한 요소가 있는지 찾는 게 내 적성에 딱”이라며 “뛰면서 순찰하는 건 경찰 분들보다 자신이 있다”고 했다.&lt;br&gt;&lt;br&gt;서울 도심을 무리 지어 달리던 러닝 크루가 순찰대로 변신했다. 최근 온라인에선 일부 러닝 크루가 좁은 길을 무리 지어 달리면서 통행을 방해하거나 큰 소리로 음악을 틀면서 ‘길바닥 민폐족(族)’으로 낙인찍혔다. 러닝 크루들이 달리기는 안 하고 친분 쌓기에만 몰두한다는 내용의 TV 방송도 나왔다. 이런 인상에서 탈피하기 위해 시민의 안전을 챙기는 일에 나선 러닝 크루들이 생겨나기 시작했다. 서울시 자치경찰위원회는 이날 강남·서대문경찰서와 함께 ‘서울 러닝 순찰대’ 합동 순찰을 시작했다고 밝혔다. 이들은 경찰과 함께 지역 곳곳을 뛰면서 순찰하다 범죄나 화재·구급 상황이 발생했을 때 서울시가 마련한 앱을 통해 긴급 신고하게 된다.&lt;br&gt;&lt;br&gt;같은 시각 서울 서대문구 홍제천 산책로에선 러닝 크루 회원 20명이 2열로 달리고 있었다. 이들은 어린이공원 앞을 대형견과 함께 산책하는 한 견주가 지나가자 “입마개 해주세요”라고 외쳤다. 잠실한강공원에서 일렬로 달리던 순찰대원 17명은 벤치 앞에서 멈춰 섰다. 선봉에 있던 송파 지역 러닝 크루 대표 서주호(40)씨가 산책로 주변에 있던 벤치를 이리저리 살피더니 나무 판자가 뜯어져 뾰족하게 튀어나온 단면을 사진으로 찍었다. 이렇게 찍은 사진을 서울시 앱에 올리면 송파구가 위험 시설물 신고를 접수해 수리를 하게 된다. 서씨는 “매너를 지키고 지역사회 순찰 활동까지 열심히 해 (러닝 크루의) 민폐족 이미지를 탈피하고 싶다”고 했다.&lt;br&gt;&lt;br&gt;서대문구 지역 러닝 크루 대표 염민규(39)씨는 “고장 난 가로등, 통행에 방해될 정도로 길게 자란 나뭇가지 등을 찍어 올렸는데, 조금씩 고쳐 나갈 수 있다는 게 뿌듯하다”고 했다. 러닝 크루 순찰대는 이날 강남과 서대문 일대에서 한 경찰과의 합동 순찰을 시작으로 두 달간 시범 순찰에 나선다. 시범 운영을 거쳐 서울 전체로 확대될 수도 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/M4MA4BVRYREKBEHP3HOMOPQY64.jpg?auth=3ac2ceded8ded76cf62fc6b51ce77a7744b681b985fa8b5d88ded180690e2f70&amp;smart=true&amp;width=5077&amp;height=2856" type="image/jpeg" height="2856" width="5077">
-        <media:description type="plain">19일 밤 서울시 자치경찰위원회가 시범 운영하는 '러닝크루 순찰대'와 경찰 관계자들이 서울 서대문구 홍제천 일대를 함께 뛰면서 순찰하고 있다. 2025.6.19 /박성원 기자</media:description>
-      </media:content>
-    </item>
-    <item>
       <title>[속보] 오아시스, 티몬 인수 불발...회생계획안 부결 </title>
       <link>https://www.chosun.com/national/court_law/2025/06/20/QUTVCHMM3RCGLGNC2ZVG2OZGSM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/20/QUTVCHMM3RCGLGNC2ZVG2OZGSM/</guid>
@@ -932,15 +938,6 @@
       <media:content url="https://www.chosun.com/resizer/v2/C5Y67N3DJZE3ZNAIPKATDIWHW4.jpg?auth=180c2ebaf01a5a8c69bb4620f496e8c2799c4da506bddbac161d485762671f92&amp;smart=true&amp;width=2101&amp;height=1401" type="image/jpeg" height="1401" width="2101">
         <media:description type="plain">2024년 7월 2일 오전 올여름 장마가 시작되면서 서울 광화문 사거리에서 폭우가 내리고 있다. / 장련성 기자</media:description>
       </media:content>
-    </item>
-    <item>
-      <title>[속보] 김용현 측, 석방 앞두고 구속영장 심문기일 잡히자...기일 변경신청서 제출</title>
-      <link>https://www.chosun.com/national/court_law/2025/06/20/YHF5LBYUXVANFBWPYP5UXOZS64/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/20/YHF5LBYUXVANFBWPYP5UXOZS64/</guid>
-      <dc:creator>김나영 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 20 Jun 2025 07:37:22 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FKU2LPWCHYFAWPDROFTVFAXGNU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 1월 김용현 전 국방부 장관이 헌법재판소에서 열린 대통령 탄핵심판 4차 변론기일에 증인으로 출석해 질문에 답변하고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김용현 전 국방부 장관이 오는 26일 석방을 앞두고 구속영장 심문기일이 잡히자, 기일을 변경해달라는 신청서를 냈다. 김 전 장관 측은 특검의 기소에 대한 이의신청 및 집행정지도 냈다.&lt;br&gt;&lt;br&gt;20일 김 전 장관 측 유승수 변호사는 “담당 재판부에 심문기일 변경신청서를 제출했다”고 밝혔다. 이어 “특검의 불법 기소에 대한 이의신청과 집행정지를 서울고법에 접수했다”고도 덧붙였다.&lt;br&gt;&lt;br&gt;앞서 지난 18일 내란 사건을 수사하고 있는 조은석 특검은 김 전 장관을 공무집행 방해, 증거인멸 교사 혐의로 추가 기소했다. 특검은 김 전 장관에 대한 구속영장 발부도 재판부에 요청했다. 이에 따라 서울중앙지법은 20일 해당 기소 건을 형사34부(재판장 한성진)에 배당하고 구속영장 심문기일을 잡았다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>도로‧주택 잠기고, 나무 넘어지고…159㎜ 집중호우 내린 인천, 피해 잇따라</title>
