@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>‘내란 특검팀’ 수사지원단장 내정...공수처엔 검사 2명 파견 요청 </title>
+      <link>https://www.chosun.com/national/court_law/2025/06/22/J2F2VNG5INGEVLB6JPADDDI2J4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/22/J2F2VNG5INGEVLB6JPADDDI2J4/</guid>
+      <dc:creator>김희래 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 22 Jun 2025 08:57:11 +0000</pubDate>
+      <content:encoded>윤석열 전 대통령 등의 내란·외환 혐의를 수사하는 조은석 특별검사가 장영표 서울중앙지검 조사과장(검찰수사서기관)을 ‘내란 특검팀’의 수사지원단장으로 내정했다. 조 특검은 또 고위공직자범죄수사처(공수처)에 검사 2명을 특검팀에 파견해 줄 것을 요청했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/267URYWXN7PXCOABBM4Z35ZNTQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;12·3 비상계엄 선포와 관련한 내란 사건을 맡은 조은석 특별검사. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;22일 내란 특검팀 관계자에 따르면, 조 특검은 최근 장 과장을 수사지원단장으로 내정했다. 수사지원단은 특검 내 행정 사무와 수사 지원을 담당한다. 장 과장은 곧 퇴임 예정으로, 퇴임 후 내란 특검팀의 특별수사관으로 임명될 예정이다.&lt;br&gt;&lt;br&gt;조 특검은 공수처에 검사 2명의 파견을 요청하기도 했다. 공수처 파견 인력은 이르면 이번 주 특검팀에 합류할 것으로 보인다. 또 내란 사건 관련 공수처의 수사기록도 특검팀에 함께 이첩될 예정이다. 조 특검은 지난 20일 국방부에 군검사 3명을 포함한 수사인력 13명의 파견을 요청하기도 했는데, 공수처 파견까지 이뤄지면 검찰·공수처·군검찰 등 주요 수사기관의 인력이 모두 특검팀에 모이게 된다.&lt;br&gt;&lt;br&gt;한편 ‘순직 해병 사건 수사 외압’ 의혹을 수사하는 이명현 특검은 지난 20일 김선호 국방부 장관 직무대행을 만난 자리에서 특검 파견 인원에 대한 주거 지원을 요청했다. &lt;br&gt;&lt;br&gt;이 특검은 국방부에 군검사를 비롯한 수사인력 20명을 파견 요청했는데, 해병대수사단 등 지방에서 인력 파견 가능성이 커 특검 사무실 근처에 숙소가 필요하다고 판단한 것으로 보인다. 다만 이 특검 측 관계자는 “특검 사무실이 있는 서초동 인근에 군 관사가 없는 만큼 관련 예산을 지원하는 방안도 검토중인 것으로 안다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>[오늘의 운세]  6월 23일 월요일 (음력 5월 28일 癸亥)</title>
       <link>https://www.chosun.com/national/national_general/2025/06/22/GE3NPWC5DRB5RLV5WTQH5SZFUQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/22/GE3NPWC5DRB5RLV5WTQH5SZFUQ/</guid>
@@ -902,15 +911,6 @@
       <media:content url="https://www.chosun.com/resizer/v2/M4MA4BVRYREKBEHP3HOMOPQY64.jpg?auth=3ac2ceded8ded76cf62fc6b51ce77a7744b681b985fa8b5d88ded180690e2f70&amp;smart=true&amp;width=5077&amp;height=2856" type="image/jpeg" height="2856" width="5077">
         <media:description type="plain">19일 밤 서울시 자치경찰위원회가 시범 운영하는 '러닝크루 순찰대'와 경찰 관계자들이 서울 서대문구 홍제천 일대를 함께 뛰면서 순찰하고 있다. 2025.6.19 /박성원 기자</media:description>
       </media:content>
-    </item>
-    <item>
-      <title>“외상센터 중요성 느껴”… ‘페이커’ 이상혁, 국립중앙의료원에 기부</title>
-      <link>https://www.chosun.com/national/national_general/2025/06/20/GJJYV3IEU5AGJJQLK75LURXEGY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/20/GJJYV3IEU5AGJJQLK75LURXEGY/</guid>
-      <dc:creator>최혜승 기자 </dc:creator>
-      <description/>
-      <pubDate>Fri, 20 Jun 2025 08:18:56 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/F3VADSZLXUVOF4DJU5EIYDRUXI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;'페이커 '이상혁이 서울권역외상센터 발전기금을 기부했다. /국립중앙의료원 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;프로게이머 ‘페이커’ 이상혁(29)이 서울권역외상센터 발전 기금을 기부했다고 국립중앙의료원이 20일 밝혔다.&lt;br&gt;&lt;br&gt;국립중앙의료원은 전날 의료원 대회의실에서 이상혁에게 발전 기금 기부에 대한 감사패를 수여하고 서울권역외상센터 운영 현황과 공적 사항, 발전 계획 등을 설명했다. 서울권역외상센터는 국립중앙의료원에 설치된 서울의 유일한 권역외상센터다.&lt;br&gt;&lt;br&gt;이상혁은 “필수의료 분야인 외상센터의 중요성을 느끼고 공공의료 발전에 대한 관심과 기부 의지를 꾸준히 갖고 있었다”며 “이번 기부를 통해 e스포츠 팬들을 비롯한 더 많은 사람이 외상센터의 역할과 중요성을 인지하고 필수의료에 대한 관심과 긍정적인 인식을 갖길 바란다”고 했다.&lt;br&gt;&lt;br&gt;기부액은 논의 끝에 공개하지 않기로 했다. 국립중앙의료원은 의료원 본관 1층 기부 벽에 이 선수의 이름을 새길 예정이다.&lt;br&gt;&lt;br&gt;이상혁은 리그오브레전드(LoL·롤)의 최고 권위 대회인 월드챔피언십(롤드컵)에서 통산 5회 우승했다. 10년 넘게 높은 성적을 낸 공로를 인정받아 LoL 개발사인 라이엇게임즈가 지난해 출범한 ‘전설의 전당’에 초대 헌액자로 선정됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[속보] 오아시스, 티몬 인수 불발...회생계획안 부결 </title>
