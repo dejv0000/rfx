@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>내일 낮 최고 32도 무더위…제주도 밤부터 비</title>
+      <link>https://www.chosun.com/national/transport-environment/2025/06/22/RFPGDIUD45DUPLE3POHZOD4HLY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/06/22/RFPGDIUD45DUPLE3POHZOD4HLY/</guid>
+      <dc:creator>정해민 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 22 Jun 2025 04:20:25 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MEJCPK7CURNPRNHJTJKT4MHZKQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전국이 30도 안팎의 무더운 날씨를 보인 지난 19일 대구 중구 달구벌대로에 지열로 인한 아지랑이가 피어오르고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;23일 전국이 대체로 맑은 가운데, 제주도는 흐리다가 밤부터 비가 내리겠다.&lt;br&gt;&lt;br&gt;22일 기상청에 따르면, 23일 밤부터 24일 오후 사이 제주도에 비가 내릴 예정이다. 24일에는 전라권에, 오전부터 경남권에, 오후부터 경북권 남부에 가끔 비가 내리는 곳이 있겠다.&lt;br&gt;&lt;br&gt;23일 밤부터 제주도 예상 강수량은 10~40㎜다. 비가 많이 내리는 산지 지역의 예상 강수량은 60㎜ 이상이다. 24일 예상 강수량은 전라권 5~30㎜, 경상권 5~20㎜으로 예보됐다.&lt;br&gt;&lt;br&gt;당분간 기온은 평년과 비슷하거나 조금 높겠다. 23일은 전국 내륙을 중심으로 기온이 30도 내외로 오를 전망이다. 23일 아침 최저 기온은 16~22도, 낮 최고 기온은 25~32도로 예보됐다.&lt;br&gt;&lt;br&gt;23일 지역별 최저·최고 기온은 서울 19~32도, 인천 19~28도, 수원 18~31도, 춘천 17~32도, 강릉 22~29도, 청주 20~31도, 대전 18~31도, 세종 18~30도, 전주 19~31도, 광주 20~32도, 대구 19~32도, 부산 21~27도, 울산 20~29도, 창원 20~29도, 제주 20~27도 등이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>전세 대출 더 받으려 보증금 부풀려 계약…대법 “HUG 보증 책임 없다”</title>
       <link>https://www.chosun.com/national/court_law/2025/06/22/YQWCEAFHVZCYVFUGIS562EPBT4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/22/YQWCEAFHVZCYVFUGIS562EPBT4/</guid>
@@ -928,15 +937,6 @@
       <description/>
       <pubDate>Wed, 18 Jun 2025 23:46:52 +0000</pubDate>
       <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AMNXQ4OFARGZUEQ2XJ3IMZXDRY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;조은석 내란 특별검사/ 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 전 대통령 등의 내란과 외환 혐의를 수사하는 조은석 특별검사가 임명 6일 만에 구속 수감 중인 김용현 전 국방부 장관을 기소했다. 지난 12일 임명된 3대 특검(내란·김건희·순직 해병 수사 외압) 중 첫 번째 기소이다.&lt;br&gt;&lt;br&gt;조 특검은 “(지난 12일) 임용 후 경찰, 검찰과 협력해 필요한 준비를 마친 후 기록을 인계받아 지난 18일 수사를 개시해 야간에 위계에 의한 공무집행방해, 증거인멸교사 등의 혐의로 김 전 장관을 기소했다”고 19일 밝혔다. 이어 “법원에 사건 병합과 추가 구속영장 발부를 요청하는 절차를 신속히 진행할 예정”이라고 했다.&lt;br&gt;&lt;br&gt;김 전 장관은 작년 12월 3일 비상계엄 사태 전날에 대통령경호처를 속여 지급받은 비화폰을 민간인이었던 노상원 전 정보사령관(구속)에게 건넨 혐의를 받고 있다. 검찰 특별수사본부는 김 전 장관이 김성훈 전 경호처 차장을 통해 받은 비화폰을 노 전 사령관에게 줬고, 노 전 사령관은 이를 중앙선거관리위원회의 부정선거 의혹을 수사할 제2수사단장 업무용으로 사용하려고 한 것으로 파악했다. &lt;br&gt;&lt;br&gt;김 전 장관은 비상계엄 직후인 작년 12월 5일에 수행비서 역할을 한 양모씨에게 계엄과 관련된 자료와 자신의 휴대전화 및 노트북을 없애라고 한 혐의도 있다.&lt;br&gt;&lt;br&gt;김 전 장관은 ‘12·3 비상계엄' 사태와 관련해 내란 혐의로 작년 12월 27일 구속기소돼 1심 재판을 받고 있다. 오는 26일에 1심 구속 기한 6개월이 만료되는데, 서울중앙지법 형사25부(재판장 지귀연)는 지난 16일 김 전 장관에 대한 조건부 보석 결정을 했다. 김 전 장관은 이례적으로 보석 결정에 반발하고 있다. 조건부 보석은 구속이나 마찬가지라는 것이다. &lt;br&gt;&lt;br&gt;구속 수감 중인 피고인은 통상적으로 구속 기한이 만료되면 불구속 상태로 재판을 계속 받지만, 검사가 추가 기소를 하고, 재판부가 검찰의 추가 구속 요청을 받아들이면 피고인은 구속 상태에서 재판을 받게 된다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>특검보 인선 마친 김건희 특검팀, 어제 이어 오늘도 기관장 줄면담</title>
-      <link>https://www.chosun.com/national/court_law/2025/06/19/GLT5ECUGGZGQHAHMAO5U4GXP4A/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/19/GLT5ECUGGZGQHAHMAO5U4GXP4A/</guid>
-      <dc:creator>이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 19 Jun 2025 01:14:31 +0000</pubDate>
-      <content:encoded>윤석열 전 대통령 부인 김건희 여사 관련 의혹을 수사하는 ‘김건희 특검팀’이 19일 법무 차관·고위공직자범죄수사처장·경기남부경찰청장 면담을 가질 예정이다. 세 특검팀 중, 특검팀의 중추 역할을 할 특별검사보 임명을 가장 먼저 마무리하면서 수사 준비에 박차를 가하는 모양새다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/22ENYBWYIJMZBMID43AYW4B5KY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령의 부인 김건희 여사에 대한 의혹을 수사할 민중기 특검과 특검보들이 18일 서울 중앙지검장 직무대리를 맡은 박승환 1차장검사와 면담을 마치고 중앙지검을 나서고 있다. 김형근(왼쪽부터), 박상진 특검보, 민 특검, 문홍주, 오정희 특검보. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김건희 특검팀 측은 이날 김석우 법무 차관, 오동운 공수처장, 김준영 경기남부청장과 면담을 차례로 가질 예정이다. 면담 일정에 앞서 특검팀은 서초동에 꾸린 임시 사무실에서 기자단과 10분가량 간단한 상견례도 가졌다. 이 자리에서 김형근 특검특검팀은보는 “20년 전 초임 검사로 돌아간 듯한 감정이 든다”고 했고, 박상진 특검보는 “막중한 책임감에 한편으로는 어깨가 무겁고 걱정도 많이 된다”며 “최선을 다하겠다”고 했다. 오정희 특검보는 “검사 퇴직 후 3년 정도 변호사를 하다 검사 일을 하게 된 셈”이라며 “주어진 일을 제대로 잘 해낼 수 있도록 최선을 다하겠다”고 했다. 문홍주 특검보도 “최선을 다하겠다”고 말했다.&lt;br&gt;&lt;br&gt;특김팀은 김 여사가 현재 서울아산병원에 입원 중이라 특검 수사에 불응할 가능성이 있다는 지적에 대해 “상세히 상황을 파악해가는 과정”이라며 즉답을 피했다. 특검팀은 이날 중으로 파견검사 명단을 대검찰청에 보낼 예정이라고 밝혔다.&lt;br&gt;&lt;br&gt;특검팀은 김 차관, 오 처장과의 면담에서도 검사를 비롯한 수사 인력 파견 등을 두고 논의할 예정이다. 또 김 청장과의 면담에선 경기남부청의 ‘양평고속도로 의혹’ 수사팀과도 만날 것으로 전해졌다. 경기남부청 반부패·경제범죄수사대는 김건희 여사 일가가 서울-양평고속도로의 노선 변경 및 양평 공흥지구 개발 인허가 과정에 부당했다는 의혹을 수사했고, 김 여사의 오빠와 공흥지구 개발사업 시행사 관계자 5명 등을 2023년 5월 검찰에 기소 의견으로 송치했다. 현재 1심 재판이 진행 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>이명현 해병 특검, 특검보 후보자 8명 추천</title>
