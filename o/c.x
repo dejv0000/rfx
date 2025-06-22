@@ -13,6 +13,195 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>[단독] ‘수첩’ 놓고 또 말 바꾸는 노상원</title>
+      <link>https://www.chosun.com/national/court_law/2025/06/23/XUWGBSQCJZF2VPTCKD2FO7H34Y/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/23/XUWGBSQCJZF2VPTCKD2FO7H34Y/</guid>
+      <dc:creator>유희곤 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 22 Jun 2025 20:02:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SHJHVQIQHZBU5NDQB42MOD55LQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘12·3 비상계엄' 사태와 관련해 내란 중요 임무 종사 혐의 등으로 구속돼 1심 재판을 받고 있는 노상원 전 정보사령관이 논란이 됐던 수첩은 윤석열 전 대통령이 비상계엄을 선포한 이후에 작성했다고 주장한 것으로 22일 전해졌다. ‘북방한계선(NLL)에서 북의 공격 유도’, ‘정치인 사살’ 등 수첩에 적은 내용은 구체적인 실행 계획이 아니라 “나라면 이렇게 했을 것”이라는 취지로 적었다는 주장이다. 노 전 사령관의 이런 주장이 사실인지는 조은석 내란 특별검사팀이 가려낼 것으로 보인다.&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 노 전 사령관은 경찰 수사 단계에서 압수당한 60~70쪽 분량의 이른바 ‘노상원 수첩’에 대해, 작년 12월 3일 밤 윤 전 대통령이 비상계엄을 선포한 후 다음 날 새벽까지 군경이 국회와 중앙선거관리위원회 등을 진입하는 과정을 TV로 보면서 작성한 것이라고 주위에 말한 것으로 전해졌다. “이왕 할 거면 제대로 해야지, 저렇게 해서 되겠나. 답답한 마음에 내 생각을 수첩에 적었다”고 했다는 것이다.&lt;br&gt;&lt;br&gt;앞서 노 전 사령관은 경찰과 검찰 조사 과정에서 이 같은 수첩 작성 경위를 진술한 적이 없다. 그는 경찰 첫 조사에서 “김용현 전 장관이 한 지시를 수첩에 받아 적은 것”이라고 했다가 “잘못 기억했다”며 번복했다. 그런데 첫 진술이 그대로 언론에 보도되자 “수사기관을 믿지 못하겠다”며 이후 진술거부권을 행사했다고 한다. 하지만 향후 재판에서는 “계엄 이후 작성했다”는 진술을 준비 중인 것으로 알려졌다. &lt;br&gt;&lt;br&gt;검찰 특별수사본부는 민간인 신분인데도 김용현 전 국방부 장관과 비상계엄을 모의하고, 부정선거 의혹을 수사하기 위한 ‘제2수사단’ 설치를 주도한 혐의 등으로 노 전 사령관을 지난 1월 10일 구속 기소했다. 다만 노 전 사령관의 수첩 관련 내용은 기소 대상에서 일단 제외하고 수사를 계속해 왔다.&lt;br&gt;&lt;br&gt;검찰에서 사건을 넘겨받은 내란 특검팀은 노 전 사령관의 수첩에 적힌 ‘북한의 도발을 유도한다’ 등의 메모가 윤 전 대통령 등에게 외환죄를 적용할 수 있는 근거가 될 수 있는지를 확인한다는 계획이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>러·몽골서도 온다… K의료 찾은 외국인 1년새 2배로 늘어</title>
+      <link>https://www.chosun.com/national/welfare-medical/2025/06/23/JETNZTADDJHPNE2IU2VWYS3OPQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/06/23/JETNZTADDJHPNE2IU2VWYS3OPQ/</guid>
+      <dc:creator>오경묵 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 22 Jun 2025 15:55:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/S3IHC2PLD5FYZHMZUGPVNYV2NU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 16일 서울 강남구 삼성서울병원에서 내과 전문의 김지운(왼쪽) 국제진료센터 교수가 러시아인 환자를 진료하고 있다. 지난해 국내 외국인 환자가 1년 만에 2배로 늘어난 가운데 특히 몽골·러시아 환자들은 내과 등 필수과 진료를 받기 위해 한국을 찾고 있다. /삼성서울병원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;몽골인 A(63)씨는 올해 1월 서울아산병원에서 간이식 수술을 받았다. 2022년 D형 간염을 진단받은 후 상태가 지속적으로 악화돼 간이식 수술이 필요한 상황이었다. 그는 아들로부터 간을 기증받아 수술 후 건강을 회복했다. 악성 뇌종양 진단을 받은 러시아인 B(5)군은 지난해 12월 삼성서울병원에서 양성자 치료를 받았다. 러시아에서 방사선 치료 등을 받았지만 호전이 없어 한국을 찾은 것이다.&lt;br&gt;&lt;br&gt;지난해 한국을 찾은 외국인 환자는 117만명. 2023년 61만명에서 1년 만에 2배 가까이로 늘었다. 코로나 이전인 2019년(49만명)과 비교해도 140% 증가한 수치다. 피부·성형 치료를 받겠다는 일본·중국인 환자가 늘어난 영향이 가장 크지만, 최근 들어 내과 등 필수 의료 분야 환자도 늘고 있다. 의료계에선 “일본·중국 외에 제3국 환자도 꾸준히 늘고, 피부과 외 다른 과 진료도 증가하고 있어 올해 외국인 환자 150만명 시대가 열릴 것”이라는 전망이 나온다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KWYVDFWR4BE6JJGZV6HM64RGPY.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=이진영&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;외국인들이 의료 분야에 쓰는 금액도 덩달아 늘고 있다. 22일 한국관광공사 한국관광데이터랩에 따르면 올 1~5월 외국인 의료 소비액은 7145억원으로 지난해 같은 기간(4084억원)에 비해 74.9% 증가했다. 결제 건수도 99만1057건에서 149만2354건으로 50.5% 늘었다. 1건당 결제액도 41만2000원에서 47만8000원으로 16% 올랐다. 의료계 관계자는 “K팝 등 한류의 인기에 힘입어 ‘K의료’까지 주목받으면서 외국인들의 국내 의료 소비액이 크게 늘어난 것으로 보인다”고 했다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇외국인 환자 150만명 시대… 올해 5개월간 7000억 썼다&lt;/b&gt;&lt;br&gt;&lt;br&gt;의료 현장에서는 몽골과 러시아를 주목하고 있다. 몽골 환자는 2019년 1만7918명을 기록한 뒤 코로나 시기에 주춤했다가 지난해 2만5731명으로 사상 최고치를 기록했다. 러시아 환자 역시 2019년 2만9897명에서 2020~2021년 연간 6000명대로 떨어졌다가 지난해 1만6622명까지 올랐다. 의료계 관계자는 “러시아·우크라이나 전쟁 중임에도 한국을 찾는 러시아 환자 증가세가 뚜렷하다”고 했다. &lt;br&gt;&lt;br&gt;진료 과목별로 보면 몽골·러시아는 필수과인 내과가 1위다. 일본·중국은 피부과가 1위, 성형외과가 2위인 것과 대조적이다. 일본·중국에서는 한국 여행을 온 김에 피부 시술이나 성형수술까지 받는 경우가 많다. 반면 몽골·러시아에서는 중증 암이나 장기 이식 등 현지에서 치료가 어려운 병을 앓는 환자가 찾아오는 경우가 많다. 이들이 한국 병원을 선호하는 것은 의료 기술과 인프라가 좋기 때문이다. 한 종합병원 관계자는 “코로나 이전에는 건강검진이나 미용·성형 분야 외국인 환자가 많았지만, 2023년 이후에는 중증 환자가 늘고 있다”고 했다. ‘빅5’ 병원의 한 관계자는 “부유층만 한국 원정 진료를 선택하는 것이 아니라 정말 치료를 받고 싶어서 주택을 팔거나 기부금을 모아 오는 이들도 있다”고 했다. 실제로 국내 병원은 최근 미국 시사 주간지 뉴스위크가 선정한 ’2025 아시아·태평양 최고 전문 병원' 순위에서 9개 분야 중 6개 분야에서 1위를 차지했다. 암과 심장, 내분비 등 필수 의료 분야에서 고루 좋은 평가를 받았다. 서울의 한 대학병원 관계자는 “외국인들은 해외 원정 진료를 선택할 때 의료 수준과 서비스의 질을 중점적으로 비교한다”며 “러시아인은 가까운 튀르키예나 이스라엘을 선택했다가 ‘치료 가능성’을 고려해 한국으로 선회하는 경우도 있다”고 말했다. &lt;br&gt;&lt;br&gt;몽골 환자들은 까다로운 비자(사증) 발급 절차까지 감수하며 한국 의료 원정을 오고 있다. 국내 병원에 진료나 수술비로 1000만원 이상을 예치하거나, 수술 예약증을 제시하는 등의 조건을 충족해야 비자가 나온다고 한다. 우리 정부가 불법 체류 등을 우려해 깐깐하게 관리하는 것이다. 서울의 한 대형 병원 관계자는 “이렇게 높은 문턱에도 불구하고 한국을 찾는 몽골 환자는 정말 진료가 절실한 것”이라고 말했다. 러시아 환자들은 국제사회의 대러 제재로 인해 신용카드 사용이 어려워 제3국 은행을 통해 송금하는 방식으로 진료비를 결제하는 경우가 많다. &lt;br&gt;&lt;br&gt;병원도 외국인 환자 유치에 열을 올리고 있다. 외국인 환자들은 국내 건강보험에 가입돼 있지 않아 진료·치료비 전액을 본인이 부담해야 한다. 한국보건산업진흥원 관계자는 “내국인의 비급여 진료와 비슷한 구조로, 병원이 외국인 환자에게는 자율적으로 진료비를 책정하고 있다”고 했다. 서울 대학병원의 한 관계자는 “외국인들에겐 통역과 각종 서비스 비용이 포함되기 때문에 국내 환자보다 2~3배 이상의 돈을 내야 하는 경우도 있다”고 했다.&lt;br&gt;&lt;br&gt;몽골·러시아 환자가 증가하자, 전담 코디네이터를 두는 병원도 늘고 있다. 코디네이터는 외국인 환자들을 위해 진료 예약부터 공항 픽업, 통역, 진료 과정 관리를 전담하는 이들이다. ‘빅5′ 병원 모두 몽골·러시아 코디네이터가 있고, 병·의원들도 몽골·러시아 코디네이터를 확충하고 있다. 세브란스병원은 몽골·러시아 코디네이터가 2명씩으로, 각각 1명인 중국·일본보다 많다. 영어·러시아어 담당 코디네이터만 운영했던 중앙대병원도 지난 3월 몽골 담당 코디네이터를 새롭게 채용했다. 의료계 관계자는 “외국인 환자들의 만족도는 검진·진료 과정에서 충분한 의사소통이 이뤄졌는지에 따라 크게 달라진다”며 “이를 고려해 코디네이터 등으로 구성된 전담 조직을 운영하는 병원도 늘고 있다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>서울 성동구 특수학교, 어디로 가야 할까요</title>
+      <link>https://www.chosun.com/national/education/2025/06/23/RHNSVW3RCZESNKQE42RRP7SYXY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/education/2025/06/23/RHNSVW3RCZESNKQE42RRP7SYXY/</guid>
+      <dc:creator>오주비 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 22 Jun 2025 15:54:00 +0000</pubDate>
+      <content:encoded>“성수공고 자리에 특수학교 지어도 괜찮은지 지역 주민들한테 물어봤습니까. 다른 곳에 지으세요!” &lt;br&gt;&lt;br&gt;“첫 번째 부지에서 쫓겨난 특수학교가 두 번째 부지에서 세워진 적이 없습니다. 동진학교는 그렇게 여덟 번을 쫓겨났습니다.”&lt;br&gt;&lt;br&gt;지난 21일 오전 10시 서울 성동구 경일고에서 지체장애인 특수학교 ‘성진학교’ 설립 주민설명회가 열렸다. 서울시교육청이 학교 설립 계획을 설명하고, 주민들이 원하는 부대시설에 대한 의견을 듣는 자리였다. 설명회가 시작되자, 참석자 230여 명이 찬성과 반대로 나뉘어 고성을 지르면서 아수라장이 됐다. 일부 주민은 내내 ‘주민 의견 무시하는 교육행정 규탄한다’ 등이 적힌 종이를 들고 서 있었다. &lt;br&gt;&lt;br&gt;성진학교는 서울 성동구에 2029년 개교 예정인 지체장애인 특수학교다. 서울시교육청은 서울 동북권에 지체장애 특수학교가 정민학교(노원구) 한 곳밖에 없어 학생들이 멀리 통학을 하자 성동구에 추가로 짓기로 했다. 부지는 학생 수 감소로 폐교가 결정된 성수공고 자리로 2023년에 정해졌다. &lt;br&gt;&lt;br&gt;그런데 인근 주민과 상인들은 “성동구 다른 곳에 지으라”고 주장하고 있다. 학교 예정 부지 바로 근처가 ‘성수 전략 정비구역 1~4지구’로 10여 년 안에 1만 가구가 입주할 예정이기 때문에 고등학교 부지를 비워놔야 한다는 것이다. 이들은 송파구로 이전한 덕수고 자리나 향후 통폐합 학교가 나오면 그곳을 이용하라는 주장이다. &lt;br&gt;&lt;br&gt;하지만 서울시교육청은 성진학교를 다른 곳에 짓기 어렵다는 입장이다. 덕수고 부지는 이미 2021년 서울미래교육파크와 온라인 학교 등으로 활용처가 정해졌고, 현재 일부는 운영 중이다. &lt;br&gt;&lt;br&gt;장애 학생 학부모들은 “자기 집 근처엔 특수학교를 짓지 말라는 전형적인 님비 현상”이라고 분노하고 있다. 이날 설명회에서 한 장애 학생 학부모는 “집 근처에 특수학교가 없어서 3~4시간 걸리는 거리를 매일 통학하고 있다”면서 “재개발이 언제 끝날지, 1만 가구 중 고등학생이 몇 명이 될지도 모르는 만큼 당장 학교 다니기 어려운 장애 학생들을 먼저 생각해달라”고 말했다.&lt;br&gt;&lt;br&gt;특수학교는 설립을 추진할 때마다 난항을 겪고 있다. 서울시교육청이 추진해온 지적장애인 특수학교 ‘동진학교’는 주민들의 반대 등으로 부지가 여덟 차례나 바뀌었다. 최근에야 아홉 번째 후보였던 중랑구 신내동의 그린벨트 지역으로 결정돼 다음 달 본격적인 공사에 들어간다. 개교는 2027년 예정으로, 당초 계획에서 10년 6개월이나 늦어진 것이다. 2020년 3월 문을 연 강서구 발달장애인 특수학교 ‘서진학교’는 학부모들이 무릎을 꿇고 호소하는 모습이 언론에 크게 보도되며 설립 예고 6년여 만에 개교할 수 있었다.&lt;br&gt;&lt;br&gt;서울 지역 특수교육 대상자는 2019년 1만2779명에서 작년 1만4546명으로 늘었지만, 새로 개교한 특수학교는 서진학교 이후 없다. 특히 지체장애인 특수학교는 25개 자치구 중 7곳에만 있어 학생들이 원거리 통학을 하는 문제가 심각하다. 서울시교육청 관계자는 “특수학교를 짓고 남는 부지에는 공공도서관이나 체육실 등을 짓는 방안으로 주민들을 최대한 설득할 방침”이라고 말했다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[핫코너] “민주당 정부, 집값 또 뛸라”… 조 짜서 임장 다니는 2030</title>
+      <link>https://www.chosun.com/national/national_general/2025/06/23/BCJOJQWZ5BH67LCWW6EKR3GQWM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/23/BCJOJQWZ5BH67LCWW6EKR3GQWM/</guid>
+      <dc:creator>구아모 기자, 조민희 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 22 Jun 2025 15:54:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Y6LE4TU3WVCBRC2P4WV63G5RHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;19일 오후 2시 30분, 서울 마포구 아현동의 한 공인중개사무소. 20대 3명이 매물 문의를 위해 사무소를 찾았다. 공인중개사 김해수(54)씨는 "새 정부 들어선 뒤, 패닉바잉하듯 집을 보러 오는 2030 세대가 확실히 늘었다"며 "공인중개사들도 매번 놀랄 정도로 집값이 고공행진하고 있다"고 했다./조민희 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“이번에 못 사면 평생 집 없이 살아야 할까 봐 무섭습니다.”&lt;br&gt;&lt;br&gt;대선 나흘 뒤인 지난 7일 서울 마포구의 한 공인중개사 사무소를 찾은 방문자는 10명 중 9명이 20·30대였다. 공인중개사 최모(70)씨는 “조용하던 사무실이 대선 후로 주말마다 북적이고, 문의 전화도 폭증했다”고 했다. 과거 문재인 정부 시절 ‘집값 폭등’을 경험한 젊은 세대의 불안 심리가 커진 탓일까. 최씨는 “며칠 전부턴 2000년대생들까지 찾아와 ‘지금 당장 싸게 살 수 있는 매물이 있느냐’고 묻는다”고 했다.&lt;br&gt;&lt;br&gt;서울의 2030세대 사이에서 “민주당 정부 출범에 맞춰 아파트 값이 다시 한번 고공 행진하는 것 아니냐”는 우려가 퍼지고 있다. 최근 몇 년 동안은 대출 금리가 급등한 데다 ‘서울 집값이 충분히 많이 올랐다’는 심리가 퍼지면서 2030들의 ‘영끌(영혼까지 끌어서 대출) 투자’는 대폭 줄었다. 그러나 내년 서울 아파트 입주 물량이 급감하는 데다가, 실제 아파트 값이 상승세를 보이자 이들의 불안감이 다시 커지고 있다. 이들은 잇따라 주말마다 조를 짜 임장(臨場·현장 답사)을 가거나, 예전엔 생각지도 않던 수도권 지역까지 청약 범위를 넓히는 ‘패닉 청약’도 하고 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VXNJK2OLHRGWTEZZGXQVBE4VKE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=이철원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“저기 주변 매물 좀 보려는데요….” 주말이었던 지난 14일 오전 10시 찾은 마포구 도화동의 한 공인중개사 사무소. 20·30대 남녀 6명이 쭈뼛쭈뼛하면서 이렇게 물었다. ‘어디에 사느냐’는 공인중개사 물음에 이들은 “수원에서 왔다”고 했다. 수원에서 하루 날을 잡고 집을 보려고 ‘단체 임장’을 하러 온 것이다. 공인중개사가 “당장 얼마나 갖고 있나” “언제 입주할 수 있느냐”고 압박 면접하듯 물었다. 그러자 이들은 “죄송하다, 그냥 나가겠다”며 발길을 돌렸다. 이 공인중개사는 “진짜 계약할 수 있는 손님들을 놓칠까 봐 ‘정말 살 마음이 없으면 물건을 볼 수 없다’고 하는 경우도 많다”고 했다.&lt;br&gt;&lt;br&gt;일단 계약금을 넣고 보는 ‘패닉 바잉(공황 매수)’ 현상이 되풀이될 조짐도 보이고 있다. 최근 결혼한 박모(30)씨는 최근 마포구 염리동의 아파트를 급하게 계약했다. 7억5000만원이었던 아파트가 일주일 만에 8억원, 며칠 뒤엔 8억5000만원까지 뛰자 집주인에게 “계약금부터 걸게요”라며 매물을 잡아뒀다. 박씨는 “5000만원을 내고 가계약하고 보니 우리가 가지고 있는 돈으로 잔금 치르고 세금에 복비까지 다 치를 수 있을지 불확실하다”며 “불안한 마음으로 여기저기 대출을 알아보는 중”이라고 했다. 서진형 한국부동산경영학회 회장은 “공급 부족이 단기적인 집값 상승에 영향을 미치고 있다”며 “이 상황에서 규제가 급하게 강화될 경우 2030의 패닉 바잉이 더 심화할 수 있다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>코끼리마늘꽃 배경으로 추억 한 장</title>
+      <link>https://www.chosun.com/national/national_general/2025/06/23/PKBKVMPL5NFS3DP37WLGJ637XM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/23/PKBKVMPL5NFS3DP37WLGJ637XM/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Sun, 22 Jun 2025 15:54:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WZIT5VSDSFHMPHEQCVKK7QHN7M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/신현종 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;22일 충남 공주시 금강 미르섬에서 시민들이 활짝 핀 보라색 코끼리마늘꽃을 배경으로 사진을 찍고 있다. 공주시는 2020년 7월 집중호우 때 침수됐던 미르섬을 복구하면서 코끼리마늘꽃을 심었다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>일찍 온 더위… 해운대해수욕장 열흘 빨리 개장</title>
+      <link>https://www.chosun.com/national/national_general/2025/06/23/LFCZTZKHB5GGNNK32CLQHSUZRY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/23/LFCZTZKHB5GGNNK32CLQHSUZRY/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Sun, 22 Jun 2025 15:54:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DFFNS55HDVE3HPUYG2ZJMDWXTQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국내 최대 해수욕장인 부산 해운대해수욕장이 지난 21일 개장했다. 온난화 추세에 따라 작년보다 열흘 빨리 피서객을 맞는다. 사진은 22일 해변을 따라 파라솔이 늘어선 모습. 해운대를 시작으로 7월 초까지 전국 해수욕장이 줄줄이 문을 연다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>무용수 꿈꾸던 여고생 3명의 비극</title>
+      <link>https://www.chosun.com/national/regional/2025/06/23/2N4FFBUQHRDXDIMI5YVD2JKCNM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/06/23/2N4FFBUQHRDXDIMI5YVD2JKCNM/</guid>
+      <dc:creator>부산=김주영 기자, 부산=김준호 기자, 부산=장윤 기자, 부산=한영원 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 22 Jun 2025 15:54:00 +0000</pubDate>
+      <content:encoded>주말에 부산의 한 아파트에서 고등학생 3명이 추락해 숨졌다. 이들은 부산의 A예술고 무용과에 재학 중인 친구 사이였다. 경찰은 현장에서 발견된 유서 등을 토대로 이들이 입시에 대한 부담 때문에 스스로 목숨을 끊은 것으로 보고 있다. 학원가에서는 “무용 전공 학생들의 경우 입시 경쟁과 사교육비 부담 등으로 인한 압박감이 더 크다”는 얘기가 나온다.&lt;br&gt;&lt;br&gt;경찰과 소방 당국에 따르면, 21일 오전 1시 39분쯤 부산 해운대구의 한 아파트 화단에서 A예술고 2학년 여학생 3명이 쓰러진 채 발견됐다. 출동한 소방대원이 이들을 인근 병원으로 옮겼지만 숨졌다. 이 아파트 방범카메라에는 이들이 20일 오후 11시 42분쯤 엘리베이터를 타고 아파트 꼭대기 층인 20층에서 내리는 모습이 찍혔다. 3명 모두 이 아파트에 살지는 않는 것으로 조사됐다.&lt;br&gt;&lt;br&gt;이들은 모두 유서를 남겼다. 유서 내용은 “학업 스트레스와 부담감이 크다”는 내용인 것으로 알려졌다. 경찰 관계자는 “학교 폭력과 관련한 내용은 없었고 타살 흔적도 발견되지 않았다”고 했다. 술이나 약물을 먹은 흔적도 없었다고 한다. 이들은 사건 전날인 20일에도 정상 등교한 것으로 확인됐다. &lt;br&gt;&lt;br&gt;하루아침에 어린 딸을 잃은 유가족은 망연자실한 모습이었다. 장례식장에서 만난 B양의 어머니 김모씨는 “딸이 무용을 계속할지 고민하다가 지난 4~5월 잠시 쉬기도 했다”며 “2주 전부터 마음을 다잡고 다시 시작했는데 갑자기 이런 일이 벌어지니 이해가 안 된다”고 했다. B양은 유서에 ‘엄마 고맙고 언니도 잘됐으면 좋겠다. 주변 친인척 모두 나를 사랑해줘서 고맙다’고 썼다고 한다.&lt;br&gt;&lt;br&gt;김씨는 “그렇게 고마운 거 알면서 왜 이렇게 일찍 가느냐”며 통곡했다. &lt;br&gt;&lt;br&gt;C양의 아버지는 당시 일본 출장 중이었다고 한다. 그는 “20일 밤 10시 30분쯤 딸이 전화했는데 미처 못 받았다”며 “그게 마지막일 줄은 몰랐다. 마음이 더 아프다”고 했다. &lt;br&gt;&lt;br&gt;C양의 친구들도 빈소를 찾았다. 한 학생은 “평소 밝고 무용도 공부도 열심히 하던 친구인데 도저히 믿기지 않는다”고 했다. 학생들이 숨진 이유에 대해 여러 가지 추측이 나오고 있다. A예술고 교직원과 지역 학원가 관계자들에 따르면, 무용과 학생이던 이들은 학교 수업 외에도 방과 후 특강과 학원 수업 등을 들었던 것으로 알려졌다. 기말고사와 실기 시험을 앞두고 있었다고 한다.&lt;br&gt;&lt;br&gt;부산에서 무용 학원을 운영하는 홍모씨는 “요즘은 지방대에 무용과가 거의 사라졌다”며 “음악, 미술 등 다른 예체능 전공과 달리 전국 아이들과 경쟁을 뚫고 서울에 있는 대학으로 진학해야 한다”고 했다. 홍씨는 “무용 전공은 1~2달마다 크고 작은 콩쿠르가 열려 내 실력이 그대로 드러난다”며 “몸무게, 체형 등도 늘 관리해야 해 다른 전공보다 스트레스가 크다”고 했다.&lt;br&gt;&lt;br&gt;A예술고의 한 교직원은 “과거에도 무용과 학생이 스트레스로 극단적 선택을 한 적이 있었다”고 말했다.&lt;br&gt;&lt;br&gt;무용을 전공하는 고교생의 경제적 부담도 큰 편이다. 부산의 경우 무용 학원 수업료만 한 달에 60만~70만원이라고 한다. 입시에 가점이 큰 콩쿠르는 ‘작품비’만 500만원 수준이라고 한다. 작품비는 대회에 참가하기 위해 안무 작품을 사는 데 드는 돈이다. 의상비는 별도다. 무용 학원 관계자는 “의상비는 지역에 따라 다르지만 300만원은 잡아야 한다”고 했다.&lt;br&gt;&lt;br&gt;부산시교육청은 A예술고에 대해 특별감사에 착수했다. 교육청 관계자는 “학교 운영 전반을 조사해 혹시 구조적인 문제가 있는지 확인하고 재발 방지 대책을 마련할 것”이라고 했다. 경찰은 “구체적인 경위를 파악하기 위해 교직원과 학생 등을 추가 조사할 계획”이라고 했다. &lt;br&gt;&lt;br&gt;신성만 한동대 심리학과 교수는 “세 학생이 함께 자살하는 건 이례적인 일”이라며 “세 학생 모두 입시 스트레스에 시달렸던 것으로 보인다”고 했다. 곽금주 서울대 심리학과 명예교수는 “청소년들은 특히 심리적으로 취약하다”며 “한 명이 고민을 털어놓으면 다른 친구들도 영향을 받기 쉽다. 함께하니 더 쉽게 실행에 옮길 수도 있다”고 했다. &lt;br&gt;&lt;br&gt;국회 교육위원회 조정훈 의원실(국민의힘)이 교육부 등에서 받은 자료에 따르면, 2023년 자살한 초중고 학생은 214명으로 집계됐다. 2016년(108명)과 비교하면 7년 만에 2배가 됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“은퇴 이후 생활비 월 300만원 필요”</title>
+      <link>https://www.chosun.com/national/welfare-medical/2025/06/23/TRQMYYQWFRDQRGIQJ3YYZH4EOA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/06/23/TRQMYYQWFRDQRGIQJ3YYZH4EOA/</guid>
+      <dc:creator>곽래건 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 22 Jun 2025 15:54:00 +0000</pubDate>
+      <content:encoded>우리나라 30~60대는 은퇴 이후 필요한 생활비가 월평균 300만원이라고 생각하는 것으로 나타났다.&lt;br&gt;&lt;br&gt;22일 한국보건사회연구원의 ‘2024년 노후준비 실태조사 및 진단지표 세분화 방안 연구’에 따르면, 연구팀은 작년 8~9월 전국 30~69세 성인 3040명을 대상으로 노후 준비 실태에 대한 면접 조사를 했다. &lt;br&gt;&lt;br&gt;‘본인과 배우자가 은퇴 이후 필요할 것으로 예상하는 생활비는 얼마인가’라는 주관식 질문에 응답자의 57.6%는 월 300만원 이상의 금액을 써냈다. 200만원 이상~300만원 미만이 34.3%로 뒤를 이었다. 100만원 이상~200만원 미만은 7.5%에 그쳤다. 전체 평균은 300만원이었다. 응답자들의 금융 자산은 평균 1억9905만원, 부동산을 가진 응답자의 부동산 자산 평균은 4억9840만원이었다.&lt;br&gt;&lt;br&gt;연구팀은 응답자들의 노후 준비 수준을 대인관계, 건강, 여가, 소득·자산 등 4영역으로 나눠 평가했다. 그 결과 노후 준비 수준 점수는 100점 만점에 69.9점으로 5년 전 조사(67.5점)보다 2.4점 올라갔다. 영역별로는 건강이 74.5점으로 가장 높고, 소득 및 자산은 67.6점, 대인관계 64.9점, 여가 60.3점 순이었다. 연구팀은 “30~40대, 남성, 배우자가 있는 경우, 대도시, 전문대졸 이상, 고소득인 경우 노후 준비 점수가 높았지만, 60대와 여성, 1인 가구, 농어촌, 고졸 이하, 저소득은 점수가 낮았다”고 설명했다.&lt;br&gt;&lt;br&gt;영역별로 보면, 응답자의 89.9%는 ‘최근 1년간 1회 이상 참석하는 모임이 있다’고 했고, 63.1%는 자신의 건강 상태를 긍정적으로 평가했다. 응답자의 92.5%는 ‘꾸준히 하는 취미·여가 활동이 있다’고 답했다. &lt;br&gt;&lt;br&gt;현재 일을 하고 있는 응답자들은 본인들이 평균 만 66.5세까지 소득 활동을 할 것으로 내다봤다. 60대 응답자의 경우 67.1%가 여전히 일을 하고 있었고, 본인들이 평균 70.7세까지 일할 것으로 예상했다. 응답자 대부분 현재 법적 정년(만 60세)보다 더 오래 일할 것으로 보고 있는 셈이다. ‘국민연금에 가입돼 있다’고 한 응답자 비율은 75.5%였지만, ‘개인연금에 가입돼 있다’고 한 응답자는 10.7%에 그쳤다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>내란 특검팀, 오늘 尹재판 첫 참여</title>
+      <link>https://www.chosun.com/national/court_law/2025/06/23/CTQAS6HP75HQTCLFGVDTDDFKPQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/23/CTQAS6HP75HQTCLFGVDTDDFKPQ/</guid>
+      <dc:creator>김희래 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 22 Jun 2025 15:54:00 +0000</pubDate>
+      <content:encoded>윤석열 전 대통령 등의 내란·외환 혐의를 수사하는 ‘내란 특검팀’이 추가 기소한 데 불복해 김용현 전 국방부 장관 측이 제기한 집행정지 신청이 법원에서 기각됐다.&lt;br&gt;&lt;br&gt;22일 특검팀에 따르면, 서울고법 형사20부(재판장 홍동기)는 전날 김 전 장관 측의 집행정지 신청을 기각했다. 재판부는 특검법상 ‘집행정지 신청’은 수사에 관한 처분의 효력 등을 다투는 잠정 조치에 해당하며, 기소의 타당성은 본안 재판에서 가려야 한다고 판단한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;앞서 조은석 특검은 지난 18일 위계에 의한 공무집행방해, 증거인멸 교사 등 혐의를 적용해 김 전 장관을 추가 기소했다. 작년 12월 27일 구속 기소된 김 전 장관은 오는 26일 1심 구속 기한(6개월) 만료를 앞두고 있었는데, 특검팀은 새 구속영장을 발부받아 그를 구속 상태로 묶어두고 수사를 이어가겠다는 것이다. 특검팀은 또 여인형 전 방첩사령관, 이진우 전 수도방위사령관 등에 대한 추가 기소도 군검찰과 협의 중이다. 지난해 말 내란 등 혐의로 구속 기소된 이들의 구속 기한은 오는 30일까지다. &lt;br&gt;&lt;br&gt;김 전 장관의 재구속 여부는 23일 오후 서울중앙지법에서 예정된 구속 심문에서 결정된다. 이번 심문에는 특검팀의 김형수 특검보가 참석한다. 또 이날 오전 열리는 윤 전 대통령의 내란 혐의 8차 공판에는 박억수 특검보가 참석한다. 지난 19일 검찰에서 윤 전 대통령 사건을 넘겨받은 특검이 본격적인 공소 유지도 맡게 된 것이다.&lt;br&gt;&lt;br&gt;‘순직 해병 사건 수사 외압’ 의혹을 수사하는 이명현 특검은 이날 류관석(군법무관 10기)·이금규(사법연수원 33기)·김숙정(변호사시험 1회)·정민영(변시 2회) 변호사 등 4명의 특검보와 첫 회의를 열었다. 이 특검은 “전반적인 법률 검토를 했다”며 “내란 사건은 피고인들이 구속 만기로 나가고 있는데, 우리도 대비하자는 취지”라고 했다. 윤 전 대통령 소환 여부에 대해선 “수사의 원칙은 대면 수사이고, 원칙대로 할 것”이라고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[부음] 박양덕 한국가정법률상담소 이사 별세 외</title>
+      <link>https://www.chosun.com/national/obituary-personnel/2025/06/23/IZKM5FN7FVBJXES5K7HERTGPYU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2025/06/23/IZKM5FN7FVBJXES5K7HERTGPYU/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Sun, 22 Jun 2025 15:53:00 +0000</pubDate>
+      <content:encoded>▲&lt;b&gt;박양덕 &lt;/b&gt;한국가정법률상담소 이사 별세, &lt;b&gt;신의철 &lt;/b&gt;가톨릭의대 교수·&lt;b&gt;신용철 &lt;/b&gt;SBS문화재단 자문역·&lt;b&gt;신미경&lt;/b&gt;·&lt;b&gt;신수경&lt;/b&gt;·&lt;b&gt;신혜경&lt;/b&gt;·&lt;b&gt;신지경 &lt;/b&gt;모친상, &lt;b&gt;조용현 &lt;/b&gt;가톨릭의대 명예교수·&lt;b&gt;권오곤 &lt;/b&gt;김앤장법률사무소 국제법연구소장·&lt;b&gt;정광원 &lt;/b&gt;前 한국은행 국장·&lt;b&gt;장의관 &lt;/b&gt;국민대 정치대학원 교수 장모상=20일20시30분 서울성모병원, 발인 23일8시, (02)2258-5940&lt;br&gt;&lt;br&gt;▲&lt;b&gt;유용겸 &lt;/b&gt;前 체육진흥공단 파크텔 사장 별세, &lt;b&gt;유혜선 &lt;/b&gt;남편상, &lt;b&gt;유주희&lt;/b&gt;·&lt;b&gt;유주영&lt;/b&gt;·&lt;b&gt;유주혜 &lt;/b&gt;부친상=20일7시 서울아산병원, 발인 23일11시, (02)3010-2000&lt;br&gt;&lt;br&gt;▲&lt;b&gt;윤정숙 &lt;/b&gt;별세, &lt;b&gt;이동환 &lt;/b&gt;학교법인 성균관대학 법인사무국장 모친상=21일10시15분 강원 원주의료원, 발인 24일7시15분, (033)760-4644&lt;br&gt;&lt;br&gt;▲&lt;b&gt;이정무 &lt;/b&gt;前 건설교통부 장관 별세, &lt;b&gt;구순모 &lt;/b&gt;남편상, &lt;b&gt;이종헌&lt;/b&gt;·&lt;b&gt;이주헌&lt;/b&gt;·&lt;b&gt;이니나 &lt;/b&gt;부친상, &lt;b&gt;박준성 &lt;/b&gt;장인상, &lt;b&gt;강마드린&lt;/b&gt;·&lt;b&gt;김지영 &lt;/b&gt;시부상=21일3시36분 서울성모병원, 발인 23일7시10분, (02)2258-5979&lt;br&gt;&lt;br&gt;▲&lt;b&gt;임현욱 &lt;/b&gt;뱅크오브아메리카 서울지점 공동지점장 별세, &lt;b&gt;임종섭 &lt;/b&gt;예비역 육군 소장 자녀상, &lt;b&gt;경윤희 &lt;/b&gt;남편상, &lt;b&gt;임예주&lt;/b&gt;·&lt;b&gt;임정운 &lt;/b&gt;부친상=20일21시44분 삼성서울병원, 발인 23일6시, (02)3410-3151&lt;br&gt;&lt;br&gt;▲&lt;b&gt;한영희 &lt;/b&gt;별세, &lt;b&gt;한준규 &lt;/b&gt;서울신문 마케팅 부본부장·&lt;b&gt;한제규 &lt;/b&gt;청주소망성결교회 목사 부친상, &lt;b&gt;임연희&lt;/b&gt;·&lt;b&gt;오문숙 &lt;/b&gt;시부상, &lt;b&gt;한성주&lt;/b&gt;·&lt;b&gt;한주영&lt;/b&gt;·&lt;b&gt;한주호&lt;/b&gt;·&lt;b&gt;한조이 &lt;/b&gt;조부상=22일9시 이대서울병원, 발인 24일7시, (02)6986-4453&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[인사] 보건복지부 외</title>
+      <link>https://www.chosun.com/national/obituary-personnel/2025/06/23/5R7QDY2RXNBGRFN2DOHAERFDOM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2025/06/23/5R7QDY2RXNBGRFN2DOHAERFDOM/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Sun, 22 Jun 2025 15:53:00 +0000</pubDate>
+      <content:encoded>▲보건복지부◇국장급 파견▷국정기획위원회 권병기▷국정기획위원회 현수엽&lt;br&gt;&lt;br&gt;▲한겨레신문사◇미디어본부 뉴스룸국▷사회데스크 김정필▷정치데스크 이정애▷정책금융팀장 이경미▷사회정책팀장 김경락▷젠더팀장 신윤동욱▷여론미디어팀장 전종휘▷정치팀장 최현준▷편집2팀장 천복귀▷편집3팀장 허기현▷CTS2팀장 박민애▷CTS3팀장 김정숙▷CTS4팀장 김지야▷취재1팀장 임지선▷취재3팀장 김양진▷시사제작1팀장 송채경화◇전략·마케팅본부▷기획데스크 김일중&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[플라자] 초록우산 ‘제27차 아동복지포럼’ 개최 외</title>
+      <link>https://www.chosun.com/national/obituary-personnel/2025/06/23/KCPFK7QQKJFRTPUR4XUTOCF3VU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2025/06/23/KCPFK7QQKJFRTPUR4XUTOCF3VU/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Sun, 22 Jun 2025 15:53:00 +0000</pubDate>
+      <content:encoded>▲아동복지전문기관 초록우산(회장 황영기)은 24일 서울 여의도 국회도서관 대강당에서 ‘제27차 아동복지포럼’을 개최한다. 사각지대에 놓인 이주 배경 아동과 청소년 권리 보장 실태를 조명하고, 이들을 위한 정책 대안을 다각도로 논의한다.&lt;br&gt;&lt;br&gt;▲한국국제정치학회(회장 김태형)는 25~27일 전남 여수 소노캄 여수에서 하계학술대회를 개최한다. ‘복합 다중 위기의 시대, 불확실성 속에서 한국 외교의 길을 찾다’란 주제로 국내외 국제정치학 전문가 420여 명이 참여한다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[신문은 선생님] [명화 돋보기] 습기 품은 공기, 젖은 질감… 빗줄기 없이 ‘비 오는 날’ 그렸죠</title>
+      <link>https://www.chosun.com/national/nie/2025/06/23/BLPPG4YMJVDPRN2EOH4JSGKWSI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/2025/06/23/BLPPG4YMJVDPRN2EOH4JSGKWSI/</guid>
+      <dc:creator>이주은 건국대 문화콘텐츠학과 교수, 기획·구성=윤상진 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 22 Jun 2025 15:52:00 +0000</pubDate>
+      <content:encoded>온종일 후텁지근한 가운데 비가 내려 몸도 마음도 눅눅해지는 여름 장마가 시작됐습니다. 우리는 비 오는 날의 풍경을 평소와는 다르게 바라보게 됩니다. 밝고 또렷하던 모습이 뿌연 잿빛으로 바뀌어 마치 오래된 기억 속 장면처럼 다가오기도 하지요. 비 오는 날 실내에 있으면 마음이 차분해져서 평소보다 책 읽기에 집중이 잘되기도 합니다. 19세기 프랑스 시인 폴 베를렌은 “거리에 비가 내리듯, 내 마음에도 비가 내린다”라고 했습니다. 비가 오는 날엔 우리는 감성적으로 더욱 예민해지는 것 같습니다. &lt;br&gt;&lt;br&gt;그림에서도 날씨는 중요한 역할을 합니다. 같은 장소라도 햇빛이 강한 날과 흐린 날, 비나 눈이 오는 날은 전혀 다른 인상을 줍니다. 비의 습기를 머금은 공기, 바람의 방향, 사물의 젖은 질감을 화가들은 어떻게 표현했을까요? 물감이나 먹의 농도를 옅게 해서 투명한 번짐을 만들고, 부드러운 붓질로 윤곽선을 흐리는 방식을 썼을 겁니다. 하지만 비 오는 날의 기분까지 그림에 담아내는 일은 쉽지 않겠지요. 오늘은 비와 관련된 작품을 살펴보면서 화가들이 ‘젖은 분위기’를 어떻게 그려냈는지 이야기해 보겠습니다.&lt;br&gt;&lt;br&gt;&lt;b&gt;여름의 거센 비바람 &lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MTOWEFPHMFHHXLWWCDNH73KWQU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;작품1 - 윌리엄 터너 작품 '비, 증기 그리고 속도'(1844). 캔버스에 오일. 빠른 속도로 질주하는 기차와 고요한 자연이 대비를 이루고 있어요. /런던 내셔널 갤러리&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&amp;lt;작품1&amp;gt;은 영국이 자랑하는 화가 조셉 말러드 윌리엄 터너(1775~1851)가 그린 ‘비, 증기, 그리고 속도’입니다. 거센 비바람을 뚫고 달리는 증기기관차를 그린 작품이지요. 화면은 짙은 안개와 물기 머금은 공기로 가득합니다. 멀리서 다가오는 기관차는 수증기를 내뿜으며 철로 위를 달리고 있고, 런던 템스강 위의 철교와 교각 아치는 희미하게 보입니다.&lt;br&gt;&lt;br&gt;기계에서 뿜어져 나오는 증기와 자연의 폭풍우가 뒤섞여 하늘과 강, 땅의 경계조차 흐릿합니다. 그림 왼쪽 아래를 자세히 보면 자그마한 배를 젓고 있는 뱃사공이 보이는데, 금방이라도 뒤집어질 듯 아슬아슬해요. 이 조각배는 철로를 달리는 강철의 증기기관차와 대조를 이룹니다. 산업혁명 이후 인간이 자연의 위협을 기계로 넘어서는 것을 상징합니다.&lt;br&gt;&lt;br&gt;이 그림에서 터너는 빗속 경치를 세세하게 묘사하는 대신, 번지는 물감으로 대기의 흐름과 속도를 강조했습니다. 터너의 그림은 사진으로 보는 것과 미술관에서 실물을 보는 것이 아주 다른데요. 실물 작품을 보면 공기가 훨씬 생동감 있게 입체적으로 느껴진답니다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XLTXFABJ65CC5CVKXDRK5R2FKY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;작품2 - 우타가와 히로시게의 우키요에(목판화) '쇼노의 소나기'(1833~1834년경). 세차게 내리는 비와 거센 바람을 사선으로 표현하고 있지요. /위키피디아&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;일본 에도 시대 화가 우타가와 히로시게(1797~1858)의 ‘쇼노의 소나기’&amp;lt;작품2&amp;gt;는 갑작스러운 비를 만난 사람들이 서둘러 비를 피하는 모습을 담은 목판화입니다. 이 그림에는 사선이 돋보입니다. 빗줄기는 사선으로 내리고, 언덕의 경사도 사선인데 방향은 서로 다릅니다. 나무는 바람에 의해 사선으로 기울어 있고, 사람들도 허리를 굽힌 채 사선을 이루며 걷고 있습니다. &lt;br&gt;&lt;br&gt;이 구조 덕분에 그림에는 속도감이 생깁니다. 세차게 내리는 비와 거센 바람, 급하게 움직이고 있는 사람들의 움직임이 긴장된 리듬을 만들어냅니다. 만약 수직선이나 수평선을 사용했다면 이런 생동감은 잘 전달되지 않았겠지요. &lt;br&gt;&lt;br&gt;히로시게의 대담한 구도와 선, 색감은 당시 유럽 미술계에 큰 영향을 줬습니다. 대표적인 예로 빈센트 반 고흐는 히로시게의 판화 몇 점을 유화로 따라 그려보기도 했답니다.&lt;br&gt;&lt;br&gt;&lt;b&gt;우산과 무지개 &lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/T6LD5IQXPNEEDN5CRNLE76KKCA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;작품3 - 오귀스트 르누아르의 '우산'(1886년경). 캔버스에 오일. 어두운 색조를 사용해 빗방울을 그리지 않고도 비 오는 날의 분위기를 표현했지요. /내셔널 갤러리&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;빗줄기를 그려 넣지 않아도 비 오는 풍경을 표현할 수 있습니다. 그림에 우산이 등장하면, 우리는 자연스럽게 ‘비가 오는 중이거나 곧 올 것’이라는 느낌을 받게 되지요. &amp;lt;작품3&amp;gt;은 프랑스 인상주의 화가 오귀스트 르누아르(1841~1919)가 그린 ‘우산’입니다. 번화한 파리 거리에서 우산을 든 사람들로 화면이 가득 차 있습니다. 그림 왼쪽에는 우산 없이 걷는 여성이 보이는데, 한 신사가 뒤에서 살짝 자신의 우산을 씌워주려는 듯한 모습입니다.&lt;br&gt;&lt;br&gt;전체 화면은 흐린 하늘을 반영하듯 회색과 푸른 색조로 다소 어둡게 채색되어 있지만, 거리 분위기는 오히려 활기차 보입니다. 화면 가운데에는 모자를 쓴 귀부인이 두 딸과 함께 외출한 모습이 보이고, 뒤로는 한 여성이 하늘을 올려다보며 우산을 펼치는 것처럼 보입니다. 아니면 막 접고 있는지도 몰라요. 빗방울이 막 떨어지기 시작했을까요? 아니면 비가 멈춘 뒤일까요? 그림은 그런 미묘한 순간을 포착하고 있습니다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/C4BM5UQABVGMLKHSOZZ63CDZA4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;작품4 - 존 에버렛 밀레이의 '눈먼 소녀'(1856). 캔버스에 오일. 소나기가 지나간 뒤 자매가 손을 잡은 채 들판 위 짚 더미에 앉아 있어요. /버밍엄 미술관&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&amp;lt;작품4&amp;gt;는 영국 화가 존 에버렛 밀레이(1829~1896)의 ‘눈먼 소녀’예요. 비가 그친 후의 풍경을 담은 이 작품에는, 거리에서 악기를 연주하며 생계를 이어가는 떠돌이 자매가 잠시 풀밭에 앉아 쉬는 모습이 그려져 있습니다. 언니는 무릎 위에 콘서티나(아코디언의 일종)를 올려놓고 있어요. 그리고 목 부분을 자세히 보면, ‘맹인에게 자비를(PITY The BLIND)’이라는 글귀가 걸려 있습니다.&lt;br&gt;&lt;br&gt;이 그림에서 조금 전까지 비가 왔었다는 단서는 위쪽에 떠 있는 쌍무지개입니다. 동생은 고개를 돌려 저 멀리 무지개를 바라보고 있지만, 눈먼 언니는 그것을 볼 수 없습니다. 대신 그는 비 갠 뒤의 세상을 다른 감각으로 느끼고 있습니다. 코로는 비 온 뒤의 상쾌한 공기를 들이마시고, 얼굴에는 햇살의 온기가 닿고, 손끝으로는 풀잎의 물기를 느끼며, 귀로는 벌레를 찾는 새들의 지저귐을 듣고 있겠지요. &lt;br&gt;&lt;br&gt;밀레이는 눈먼 소녀를 등장시켜 보지 않고도 자연을 느낄 수 있는 인간의 감각을 조명합니다. 빗방울이 그친 풍경을 시각이 아닌 촉각과 후각, 청각으로도 경험할 수 있다는 사실을 이 그림은 조용히 말해주고 있습니다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[신문은 선생님] [산 이야기] 봉화산 47곳, 옥녀봉 39곳, 매봉산 32곳… 같은 산 이름이 왜 이렇게 많을까요?</title>
+      <link>https://www.chosun.com/national/nie/2025/06/23/DTSNXAVX3BENRFKNTPONQW6UA4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/2025/06/23/DTSNXAVX3BENRFKNTPONQW6UA4/</guid>
+      <dc:creator>신준범 월간 산 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 22 Jun 2025 15:52:00 +0000</pubDate>
+      <content:encoded>‘월간山’ 기자라는 직업 특성상 산 이름에 대한 질문을 자주 듣습니다. 이를테면 “설악산, 관악산, 치악산처럼 ‘악’ 자가 들어가는 산은 정말 ‘악’ 소리 나게 산행이 힘들어서 생긴 이름이냐?” “전국에 ‘봉화산’ ‘매봉산’ ‘옥녀봉’ ‘비로봉’ 등 같은 이름이 많은데 어떤 이유가 있나?” 같은 질문입니다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/36EBA4C2O5CYXFEOKSVTNQFPJM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전북 남원 봉화산의 정상이에요. 봉화산은 우리나라에서 가장 흔한 산 이름이랍니다. /주민욱 영상미디어 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘악산’부터 답해보겠습니다. 산 이름엔 대부분 ‘큰 산 악(嶽·岳)’ 자를 씁니다. 그 지역의 가장 큰 산을 뜻하지요. 옛날에는 ‘신라 오악(五岳)’, ‘경기 오악’처럼 다섯 개의 명산을 손꼽기도 했습니다. 이는 이름에 ‘악’ 자가 들어가는 산을 지칭하는 것이 아닙니다. 산세가 크고 화려하거나, 풍수지리적으로 명산이거나 영험한 산을 뜻합니다. 물론 ‘산이 크다’는 의미는 지역마다 상대적입니다. 산 높이가 1000m에 못 미치더라도 그 지역에서는 ‘큰 산’이 될 수 있는 것입니다. 그래서 100%는 아니지만 ‘악’ 자가 들어가면 산행이 쉽지 않을 가능성이 높습니다. &lt;br&gt;&lt;br&gt;산림청은 2007년 우리나라 산에 가장 많이 쓰이는 이름 순위를 발표한 적이 있습니다. 1위는 봉화산으로 47곳이었고, 이어서 국사봉(43곳), 옥녀봉(39곳), 매봉산(32곳), 남산(31곳) 순이었습니다. 가장 흔한 이름인 봉화산은 정상에 봉화대가 설치된 것에서 유래합니다. 조선 시대엔 외적의 침입같이 나라의 급한 일이 생기면 봉화를 피워서 전했습니다. 때문에 전국에 봉화산이라는 이름이 많을 수밖에 없지요. &lt;br&gt;&lt;br&gt;국사봉은 국사(國師), 국사(國士), 국사(國思) 등 다양한 한자를 씁니다. 여러 가지 유래가 있지만 마을이나 나라에서 제사를 지낸 ‘국사당(國師堂)‘이 있던 곳이라는 의미로 쓰인 경우가 많습니다. 또 유서 깊은 절이 있는 경우 나라의 스승[國士]이 될 정도로 훌륭한 승려를 배출했다는 의미로도 붙여졌으며, ‘생각 사(思)‘자를 써서 이곳에 올라 나라를 생각[國思]했다는 유래도 전해집니다. &lt;br&gt;&lt;br&gt;옥녀봉(玉女峰)은 어떨까요? ‘옥녀’는 과거에 미인을 뜻하는 대명사였는데요. 산이 절세미인처럼 아름답다고 해서 유래한 이름입니다. 옥녀봉에는 하늘에서 선녀가 내려와 근처에서 목욕을 하거나 놀았다는 전설도 여러 곳에서 전해지고 있어요. &lt;br&gt;&lt;br&gt;매봉산은 매를 풀어 사냥을 한 곳이거나 매가 살았던 산이라는 뜻에서 유래한 이름입니다. ‘매 응(鷹)’ 자를 쓰는 응봉·응봉산도 대부분 같은 맥락이라 할 수 있습니다. 옛날에는 매가 사냥 도구이자 권위를 상징하는 특별한 짐승으로 여겨졌기 때문에 관련된 산 이름도 많은 것입니다. &lt;br&gt;&lt;br&gt;오대산과 소백산을 비롯한 많은 산에 비로봉(毘盧峰)이 있는데요. 불교의 진리를 상징하는 부처 ‘비로나자불’을 줄인 것입니다. 비로나자불은 진리이자 온 우주를 상징하므로 ‘비로봉’이라는 이름이 붙은 봉우리는 그 산에서 가장 신성하고 중심이 되는 봉우리라 할 수 있습니다. 우리가 그냥 보고 지나쳤던 산들도 이름의 유래를 알고 나면 그 지역에서 중요하게 여겨진 산이라는 걸 깨닫게 됩니다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[오늘의 날씨] 2025년 6월 23일</title>
+      <link>https://www.chosun.com/national/national_general/2025/06/23/LJVGO5UKTZGSFNCTFCDXHMNAXA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/23/LJVGO5UKTZGSFNCTFCDXHMNAXA/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Sun, 22 Jun 2025 15:52:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VJQVGHJTSZB5XONF2RAHUEP274.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[신문은 선생님] [재밌다, 이 책!] 왜 사람들은 카페에서 일을 할까? 공간이 변하니 생활도 달라져요</title>
+      <link>https://www.chosun.com/national/nie/2025/06/23/3Y6R4GSBD5CCRONZKXEMRE36NY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/2025/06/23/3Y6R4GSBD5CCRONZKXEMRE36NY/</guid>
+      <dc:creator>표정훈 출판평론가</dc:creator>
+      <description/>
+      <pubDate>Sun, 22 Jun 2025 15:52:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FXQZA2T7JFABLORAJRPIAFMS6I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;집에 들어온 인문학&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;서윤영 지음 l 출판사 들녘 l 가격 1만2000원&lt;/b&gt;&lt;br&gt;&lt;br&gt;사람이 살아가는 데 기본적으로 필요한 세 가지가 의식주(衣食住)입니다. 몸을 보호하며 예의를 갖추기 위해 옷을 지어 입습니다. 몸을 움직일 에너지를 얻기 위해 밥을 지어 먹습니다. 안전하고 안락하게 살아가기 위한 집을 짓습니다. 인류의 문명은 옷과 밥, 집에서 시작됐습니다.&lt;br&gt;&lt;br&gt;건축 칼럼니스트인 저자는 건축을 단순히 구조물에 관한 기술로 보지 않습니다. 그는 자신이 건물에 대한 지식보다도 건축의 역사·사회적 의미를 더 많이 배웠다고 말합니다. 건축은 공학이기도 하지만 예술적 측면도 있고 사회 현상이자 흐름이 담겨 있기 때문입니다.&lt;br&gt;&lt;br&gt;1964년 서울에 마포아파트가 등장하며 우리나라에 본격적인 아파트 시대가 열렸습니다. 복도식 구조에 13~24평 규모의 1세대 아파트들이 속속 들어섰지요. 1970~90년대에는 여의도와 반포, 잠실, 상계동 등 서울뿐 아니라 일산, 분당 같은 신도시에 대규모 아파트 단지가 조성되면서 더 넓고 높은 2세대 아파트들이 등장했습니다. &lt;br&gt;&lt;br&gt;3세대 아파트는 초고층에 넓은 평수, 저층부에 상업 시설이 결합된 주상 복합형입니다. 이렇게 아파트라는 주거 형태가 급속도로 발달한 가장 큰 이유는 경제 성장에 따라 서울로 인구가 집중되면서 주택이 부족해졌기 때문입니다.&lt;br&gt;&lt;br&gt;그러나 경제 성장이 예전 같지 않고 인구가 감소하고 있는 지금은 예전처럼 주거 공간이 부족하지 않습니다. 인구 변화와 주거 형태의 변화는 거리 풍경에도 영향을 미칩니다. 이제 주택가 골목길에도 카페가 들어서 있습니다.&lt;br&gt;&lt;br&gt;사람들의 생활 패턴도 달라졌습니다. 예전 같으면 집에서 해야 했을 일을 굳이 집 밖으로 나와 카페에서 합니다. 배경이 무엇일까요? 4~5인 가구가 일반적이었던 과거와 달리, 지금은 1~2인 가구가 많아지면서 가구당 주택 면적이 차츰 작아지고 있습니다. 저자는 이렇게 말합니다. “좁고 답답한 곳에서 혼자 살다 보니 하루 중 잠시라도 햇빛이 잘 드는 넓고 쾌적한 곳에서, 비록 혼자 차 마시고 책 읽는 사소한 일일지라도 사람들과 함께하고 싶어집니다.”&lt;br&gt;&lt;br&gt;저자가 묻습니다. 건물은 그저 생활을 좀 더 편리하게 해주는 도구에 불과할까요? 집은 그저 잠만 자는 곳에 불과할까요? 만일 그렇다면 우리의 삶도 그저 먹고 자는 행동의 연속에 지나지 않게 될 수 있습니다. 우리가 집과 건물에 대해 성찰해 봐야 하는 이유가 여기에 있습니다. 그런 성찰을 강조하며 저자는 이렇게 말합니다.&lt;br&gt;&lt;br&gt;“건축의 변화는 우리 사회의 움직임, 역사적·경제적 흐름과 관련돼 있습니다. 건축을 공부한다는 것은 나의 시야를 넓히는 것, 나아가 내가 사는 세상을 이해하는 공부인 것입니다.”&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[매일매일 중국어 한마디] 괴롭히다</title>
+      <link>https://www.chosun.com/national/nie/chinese/2025/06/23/EQ2O4QO4CFHJRKUTKFS4CULUS4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese/2025/06/23/EQ2O4QO4CFHJRKUTKFS4CULUS4/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Sun, 22 Jun 2025 15:50:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/O3WRV6YZARD7XGBDUIWHDZTV3Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[스피킹이 강해지는 영어] count oneself lucky</title>
+      <link>https://www.chosun.com/national/nie/english/2025/06/23/P7XGJHWPZ5AGFK3B263VJVZJVM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/english/2025/06/23/P7XGJHWPZ5AGFK3B263VJVZJVM/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Sun, 22 Jun 2025 15:50:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/23LEGR3JFZC2TKMMG73W27WRME.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[입에 착착 붙는 일본어] 발돋움을 하다</title>
+      <link>https://www.chosun.com/national/nie/japanese/2025/06/23/NYYUXSESZVERHJW4XBZSPVGBOE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/japanese/2025/06/23/NYYUXSESZVERHJW4XBZSPVGBOE/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Sun, 22 Jun 2025 15:50:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OWRMX6WFW5ANRK2GZZAMUN6RZQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[신문으로 배우는 실용한자] 서막(序幕)</title>
+      <link>https://www.chosun.com/national/nie/chinese_character/2025/06/23/ADBJA2A5BFBUTLT72OLRGCBAFI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese_character/2025/06/23/ADBJA2A5BFBUTLT72OLRGCBAFI/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Sun, 22 Jun 2025 15:50:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NCK3XNCIPZALDHLIHREIWLESKU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[두근두근 뇌 운동] [2647] 손가락 낭독회</title>
+      <link>https://www.chosun.com/national/nie/2025/06/23/S6SU3WEXT5AYJNLP4274TM6PAU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/2025/06/23/S6SU3WEXT5AYJNLP4274TM6PAU/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Sun, 22 Jun 2025 15:50:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CGMFVWX6FZCVNEM4ANWDZK3ASI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>“급식 몰래 먹으려고” 학교 침입한 졸업생들, 항소심은?</title>
       <link>https://www.chosun.com/national/incident/2025/06/22/CFIUZEZ77RFDFNV4YJMKFKCQKI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/06/22/CFIUZEZ77RFDFNV4YJMKFKCQKI/</guid>
@@ -726,84 +915,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/27ZA546OQ5CO7N5YVZWVYW3RSM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=유현호&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제 하루 마지막 일과는 주로 산책입니다. 반려견을 데리고 집 근처 공원을 걷습니다. 진종일 버겁고 무거운 일을 하느라 지칠 대로 지친 날에도 산책만은 빠뜨릴 수 없습니다. 반려견은 그만큼 긴 시간 집 밖을 나서지 못했으니까요. 며칠 전에도 밤늦게 산책을 나섰습니다. 순찰 돌 듯 공원 구석구석을 천천히 둘러보았습니다. 벤치에 앉아 땀을 식히고 있는데 인기척이 느껴졌습니다. 눈으로 소리를 따라가니 벤치 건너편 철로에 한 중년 남성이 서 있었습니다.&lt;br&gt;&lt;br&gt;동네 공원에 무슨 철로가 있나, 의아하겠지만 실제 열차가 달리는 길은 아닙니다. 조경 목적으로 침목과 신호등과 철로를 만들어 놓은 것이죠. 철로 길이는 채 20m가 되지 않습니다. 중년 남성은 마치 줄타기 하듯 그 철로 위에 올라 양팔을 벌려 중심을 잡은 채 앞으로 나아가고 있었습니다. 하지만 몇 걸음 가지 못하고 중심을 잃고 바닥에 발을 디뎠습니다. 그럴 때마다 그는 다시 철로가 시작되는 지점으로 돌아가 위로 걸음을 옮겼습니다.&lt;br&gt;&lt;br&gt;보아하니 취기가 오른 듯했습니다. 어느 순간부터 저는 모종의 경계심 대신 그를 응원하는 마음을 가지게 되었습니다. 제가 보내는 고요한 응원에도 철로 위를 걷는 일은 쉽지 않은 듯했습니다. 중간도 가지 못할 때가 대부분이었습니다. 두세 번 정도는 얼마 남기지 않고 아쉽게 실패했는데 이때는 아쉬운 마음에 절로 탄식이 터졌습니다. 시계를 보니 제가 벤치에 앉아 그를 구경한 지도 20분이 훌쩍 지나 있었습니다. 반려견은 지루한 듯 바닥에 턱을 괴고 엎드려 있었고요. 얼마 후에야 그는 철로 횡단에 성공했습니다.&lt;br&gt;&lt;br&gt;집으로 돌아오는 길, 웃음이 절로 났습니다. 그는 왜 사소하고 쓸모없는 일에 집착하며 시간과 노력을 쏟았을까요. 그 사소하고 쓸모없는 남자의 행동을 응원하며 끝까지 지켜본 제 집착은 무엇이었을까요. 우리는 필요와 쓸모와 유용을 목표로 하는 일들로 하루 대부분의 시간을 살아갑니다. 그만큼 성공과 실패의 결과도 명명백백하게 따르기 마련입니다. 하지만 가끔 논리에서 잠깐 벗어난 이런 일들도 하고 살아야 한다고 생각합니다. 눈앞의 성과와는 관계없는 일, 안 해도 되는 일, 서툴러도 잘 못해도 되는 일, 그냥 하고 싶어서 그저 좋아서 하는 일 말입니다.&lt;br&gt;&lt;br&gt;오래전 서예학원에 다닌 기억이 떠올랐습니다. 처음에는 벼루에 먹 가는 일을 배웠고 붓을 쥐는 법을 익혔습니다. 그러고는 화선지 위에 천천히 한 일(一)자를 그었습니다. 문제는 학원을 다닌 지 한참이 되도록 같은 것만 반복했다는 것입니다. 지루하고 답답한 마음에 서예 선생님 몰래 아무 그림이나 그려보았던 기억. 돌이켜보니 쓸모없는 시간은 아니었습니다. 선 하나를 바르게 긋지 못한다면 하늘(天)과 땅(地)을 분별할 수 없었을 테니까요. 부디 우리 곁에 좋아서 하는 일이 더 많아지길, 그리고 그 안에서 목적에 가려지지 않은 온전한 자신을 발견할 수 있기를 바랍니다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>집중호우로 15명 대피...국립공원, 하천 등 통제</title>
-      <link>https://www.chosun.com/national/national_general/2025/06/21/GX2MZQQK7ZAWZOXZ2P5ULSWAI4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/21/GX2MZQQK7ZAWZOXZ2P5ULSWAI4/</guid>
-      <dc:creator>최연진 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 20 Jun 2025 15:08:06 +0000</pubDate>
-      <content:encoded>전국에 집중호우가 계속되면서 여객선 운항이 중단되고 도로가 통제되는 등 피해가 확산하고 있다.&lt;br&gt;&lt;br&gt;20일 행정안전부에 따르면 이날 오후 10시 기준 4개 시도, 5개 시군구에서 12세대, 15명이 집중호우로 인해 일시 대피했다. 비닐하우스 1곳이 전파됐고, 석축 붕괴 피해도 1건 집계됐다. 현재 대전, 세종, 경기, 충남, 전북, 전남, 경북 등에 호우 주의보가 발령된 상태다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4HCB76NQPFIOTHSZ3WYDOPHM2Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전국에 많은 비가 예보된 가운데 20일 대전 대덕구 한국수자원공사 물관리종합상황실에서 직원들이 호우대비 모니터링을 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;13개 국립공원 371개 구간, 83개 둔치 주차장, 7개 도로, 4198개 하천변, 기타 3개소에선 시설 통제가 이뤄지고 있다. 여객선 42개 항로 55척도 운항이 중단됐다. 항공기는 결항되지 않았다.&lt;br&gt;&lt;br&gt;행안부는 이날 오후 2시30분 호우 중앙재난안전대책본부 1단계를 가동했다. 인명피해 우려 지역에 9432건의 위험알림 문자를 보냈고, 398건의 자동음성안내(VMS)를 발송했다.&lt;br&gt;&lt;br&gt;지역 재난 안전 대책본부에서는 8117명이 비상근무 중이다. 인명피해 우려지역 486개소에 대해 예찰 활동을 했다.&lt;br&gt;&lt;br&gt;중대본은 “기상 상황을 지속적으로 모니터링하고 추가 강수에 대비해 안전 관리도 독려할 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[속보] 해병대원 특검보에 류관석·이금규·김숙정·정민영</title>
-      <link>https://www.chosun.com/national/court_law/2025/06/20/V62TD5IWAZG7JPVZUPO5CJWAEA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/20/V62TD5IWAZG7JPVZUPO5CJWAEA/</guid>
-      <dc:creator>이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 20 Jun 2025 14:07:39 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YZQYL3MFXBOCK45VUYJYVVZD5A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;순직 해병 수사 방해 의혹 사건 수사를 맡은 이명현 특별검사가 20일 오전 서울 서초구 사무실로 출근하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘순직 해병 수사 외압’ 의혹을 수사하는 해병대원 특검팀의 특별검사보로 류관석·이금규·김숙정·정민영 변호사가 20일 임명됐다. 해병대원 특검팀을 마지막으로 내란·김건희 등 3대 특검이 열흘 만에 특검보 인선을 매듭지었다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>이인재 인천대 총장 취임…“변화·혁신으로, 미래 선도 대학 만들겠다”</title>
-      <link>https://www.chosun.com/national/regional/2025/06/20/KCH4VZ5V2ZAN5HS6WQB3TGUAKY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/06/20/KCH4VZ5V2ZAN5HS6WQB3TGUAKY/</guid>
-      <dc:creator>인천=이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 20 Jun 2025 13:42:21 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7PPETYFIEJ2O6HMH6GAKSOTWZ4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이인재 인천대 총장이 20일 인천 연수구 인천대 송도캠퍼스 대강당에서 열린 취임식에서 발언하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이인재 국립 인천대 신임 총장이 20일 취임식을 갖고 본격적인 활동을 시작했다. &lt;br&gt;&lt;br&gt;인천대는 이날 인천 연수구 송도캠퍼스 대강당에서 제4대 이인재 총장 취임식을 가졌다.&lt;br&gt;&lt;br&gt;취임식엔 김학준 국립 인천대 법인이사장을 비롯해 하병필 인천시 행정부시장, 김교흥 국회의원, 정일영 국회의원, 박정준 교수회장, 김세용 총동문회장 등 인사와 교내 구성원 500여 명이 참석해 이 총장의 취임을 축하했다. &lt;br&gt;&lt;br&gt;이인재 총장은 취임사에서 “변화와 혁신으로 인천대를 미래를 선도하는 국립대학으로 성장시키겠다”며 “인천대를 혁신 교육 대학, 연구 중심 대학, 거점 국립대학이 되도록 노력하겠다”고 강조했다. &lt;br&gt;&lt;br&gt;이인재 총장은 서울대 법학과를 졸업하고, 미국 뉴욕대에서 경제학 박사 학위를 받았다.&lt;br&gt;&lt;br&gt;2008년부터 인천대 경제학과 교수로 재직했으며 2023년에는 대외협력부총장을 지냈다.&lt;br&gt;&lt;br&gt;한국노동연구원 원장과 한국노동경제학회 회장, 안민정책포럼 회장, 국민경제자문회의 위원 등을 역임하고, 현재는 최저임금위원회 위원장으로 활동하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>정부, 주 4.5일제 지원법 추진... 경영계 “현장과 괴리된 구상”</title>
-      <link>https://www.chosun.com/national/labor/2025/06/20/7YM3CJJX6BAQVADVCMFAZBEK4Y/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/labor/2025/06/20/7YM3CJJX6BAQVADVCMFAZBEK4Y/</guid>
-      <dc:creator>박상현 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 20 Jun 2025 12:23:27 +0000</pubDate>
-      <content:encoded>고용노동부가 ‘주 4.5일 근무제’ 공약 실현을 위해 실근로시간을 단축하는 방안 등을 20일 국정기획위원회에 보고했다. 이재명 대통령 공약대로 한국의 연평균 노동시간을 경제협력개발기구(OECD) 평균 이하로 낮추는 작업에 본격 착수한 것이다.&lt;br&gt;&lt;br&gt;20일 고용부 등에 따르면, 정부는 지난해 기준 1859시간인 연평균 노동시간을 2030년까지 OECD(경제협력개발기구) 평균인 1717시간 이하로 줄이겠다는 목표를 세웠다. 주 4.5일제 확산과 근로자의 불필요한 초과 노동 시간을 줄이는 것이 골자다. 고용부는 법정 근로시간을 4시간 줄여 주 52시간제를 48시간제로 만드는 방안 등을 검토 중이다. 연장근로 허용 시간을 단축하는 방안도 검토 중이다.&lt;br&gt;&lt;br&gt;고용부는 올해 하반기까지 이른바 ‘실근로시간 단축 지원법(가칭)’을 만들 계획이다. 내년에는 노동계가 이른바 ‘공짜 노동’의 원인으로 지목해온 포괄임금제를 폐지하는 등 근로시간 단축을 위한 중장기 로드맵을 마련해 정부 목표를 달성하겠다는 것이다. 주 4.5일제를 도입하는 기업을 지원할 법적 근거를 마련하고, 유연근로 신청권 등을 도입하기 위한 입법도 내년까지 집중 추진하기로 했다. 주 4.5일제 추진을 위한 ‘근로시간단축위원회’도 구성·운영될 예정이다. 기본사회 실현을 위한 국가 전담 기구인 기본사회 회복과 성장위원회(기본사회위원회)의 연계도 검토 중인 것으로 알려졌다.&lt;br&gt;&lt;br&gt;또 실질적인 근로시간을 줄이기 위해 ‘연결되지 않을 권리 보장’도 추진한다. 퇴근 시간 이후 소셜미디어 메신저나 카카오톡 등을 통한 업무 관련 지시를 법적으로 금지하겠다는 것이다. 이른바 ‘퇴근 후 카톡 금지법’이다. 다만 단체협약이나 취업규칙에 따라 일부 예외를 두기로 했다.&lt;br&gt;&lt;br&gt;고용노동부는 ‘계속 고용’과 관련해선 ‘퇴직 후 재고용’보다 ‘법정 정년 연장’에 초점을 두고 연내 법 개정에 나서겠다고 보고한 것으로 알려졌다. 노동조합법 2·3조 개정안(노란봉투법)도 대안 입법안을 마련해 올해 안에 국회 입법을 마무리하겠다는 계획이다.&lt;br&gt;&lt;br&gt;경영계는 고용부의 업무 보고가 노동계 요구 사항과 더불어민주당 공약집을 답습한 “현장과 괴리된 구상”이라고 지적했다. 한국경영자총협회 측은 “사회적 대화를 통해 정책의 수위, 속도, 방식에 대해 충분한 협의를 거쳐야 한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/3GY6G6AY35HHNIZ5375RKSOAXE.jpg?auth=73349dd2bd85a1a7038e96aab3ee2e67f534261538091f90108bcb875c15ee10&amp;smart=true&amp;width=3117&amp;height=2338" type="image/jpeg" height="2338" width="3117">
-        <media:description type="plain">[세종=뉴시스] 강종민 기자 = 천경기 고용노동부 미래고용분석과장이 12일 세종시 정부세종청사에서 2025년 4월 고용행정 통계로 본 노동시장 동향을 발표하고 있다.
-
- 지난달 기준 고용보험 상시가입자 수는 1553만 8000명으로 전년동월대비 18만 4000명 증가한 것으로 나타났다. 2025.05.12. ppkjm@newsis.com</media:description>
-        <media:credit role="author" scheme="urn:ebu">ppkjm</media:credit>
-      </media:content>
-    </item>
-    <item>
-      <title>통일교, ‘김건희 샤넬백 의혹’ 前 본부장 출교 조치</title>
-      <link>https://www.chosun.com/national/national_general/2025/06/20/3CGPJFJIDJG6JBRLGCERDFSRYQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/20/3CGPJFJIDJG6JBRLGCERDFSRYQ/</guid>
-      <dc:creator>박정훈 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 20 Jun 2025 12:31:32 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LE6QHWPJZWYGLCLEGDJ36IR72U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;억대 불법 정치자금 수수 혐의로 불구속 기소된 무속인 '건진법사' 전성배씨가 지난 5월 12일 서울 양천구 서울남부지방법원에서 열린 두 번째 공판에 출석하고 있다./공동취재단&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;무속인 건진법사 전성배(65)씨에게 김건희 여사 선물 명목으로 샤넬백 등을 전달한 의혹을 받는 전 통일교(현 세계평화통일가정연합) 세계본부장 윤모씨가 통일교로부터 ‘출교’ 처분을 받은 것으로 20일 알려졌다.&lt;br&gt;&lt;br&gt;통일교 측은 이날 서울 용산구 통일교 본부에서 윤씨와 통일교 재정국장을 지냈던 윤씨의 부인 이모씨에 대한 징계위원회를 열고 윤씨 부부에 대한 ‘출교’ 처분을 내린 것으로 알려졌다. 다만 징계 당사자인 윤씨 부부는 전날 통일교 측에 ‘징계위원회 출석 통지에 대한 답변’이라는 제목의 내용증명서를 발송하고 불참한 것으로 전해졌다. 통일교 측은 건진법사를 통한 통일교 청탁 의혹에 연루된 데에 책임을 물은 것으로 해석된다. &lt;br&gt;&lt;br&gt;윤씨 측은 징계 의결 직후 입장문을 내고 ‘권력보존용 희생양 만들기’라고 비판했다. 이어 “사법적 판단도 내려지지 않은 상태에서 (윤씨 측에 대해) ‘출교’ 처분을 의결한 것으로 알려졌는데 이는 통일교가 그간 외쳐온 참사랑과 용서의 신앙 전통을 저버린 것”이라며 “이에 대해 교단 권력 보존과 내부 책임전가를 위해 한때 섭리의 최전선에 섰던 인물을 희생양으로 삼은 것이라는 비판이 쏟아지고 있다”고 했다. 이들은 “출교 효력정지 가처분 신청과 행정소송에 착수할 예정”이라며 “통일교 고위 간부들의 비리, 횡령 및 비신앙 행위에 대한 자료를 수사기관과 언론에 제출하겠다”고 했다.&lt;br&gt;&lt;br&gt;앞서 통일교 측은 윤씨 부부에게 이날 열리는 징계위에 출석을 통보했다. 통일교 측은 이들에게 “연합에서 규정하는 협회원의 중대한 의무를 위반해 본 연합의 질서를 어지럽게 했다”고 출석 사유를 명시했다.&lt;br&gt;&lt;br&gt;한편 윤씨는 지난 2022년 4월부터 8월까지 통일교 현안에 대한 청탁을 위해 김 여사에 6000만원 상당의 다이아몬드 목걸이와 샤넬백 2개 등 금품을 전씨에게 건넨 혐의를 받는다. 통일교 측은 “윤씨의 개인적인 일탈”이라고 선을 그었으나 윤씨는 그간 검찰 조사에서 “한 총재의 결재를 받고 진행한 일”이라며 선을 그은 것으로 전해졌다. &lt;br&gt;&lt;br&gt;한편 검찰은 교단 차원에서 (김 여사에) 청탁이 이뤄졌을 가능성에 대해 의심하고 한학자 총재를 출국금지하는 등 수사를 확대하고 있다．&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>59년 된 서소문고가, 안전 문제로 내달 철거</title>
-      <link>https://www.chosun.com/national/national_general/2025/06/20/UMYQG2HOIREFNMIZ7I4NDVA25I/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/20/UMYQG2HOIREFNMIZ7I4NDVA25I/</guid>
-      <dc:creator>김영우 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 20 Jun 2025 11:22:04 +0000</pubDate>
-      <content:encoded>지은 지 59년 된 서울 중구 서소문 고가가 철거된다. 서울시는 “7월 말부터 서소문 고가를 철거하는 공사를 시작한다”고 20일 밝혔다.&lt;br&gt;&lt;br&gt;서소문 고가는 중구 중림동과 순화동을 잇는 길이 570m, 왕복 4차선 고가도로다. 1966년 개통했다. 당시 우리나라에서 가장 큰 고가도로였다. 그동안 신촌, 마포 등 서울 서부 지역과 도심을 빠르게 연결하는 역할을 해왔다. 하루 평균 교통량이 약 3만8000대에 달한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2C6BWJ24WBHTFAXHRNV7ZXCTCQ.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=이철원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;세월이 흐르며 수시로 안전 문제가 불거졌다. 2019년 3월에는 가로 1.8m, 세로 1.6m, 두께 6㎝ 크기의 콘크리트 조각이 고가 아래로 떨어지는 사고가 났다. 당시 지나가는 차량이 없어 피해는 발생하지 않았다. 사고 직후 실시한 정밀 안전 진단에서 A~E등급 중 D등급(미흡)을 받았다. D등급은 급하게 보수 작업을 해야 할 정도로 심각한 상태를 말한다. &lt;br&gt;&lt;br&gt;서울시는 여러 차례 보강 공사를 했으나 근본적인 구조 개선엔 한계가 있었다. 이에 서울시는 2023년 고가를 철거한 뒤 새로 짓기로 했다.&lt;br&gt;&lt;br&gt;그러나 교통 혼잡 등에 대한 우려로 사업이 지연됐다. 고가 아래를 지나는 경의선 철길도 풀어야 할 문제였다. &lt;br&gt;&lt;br&gt;철거에는 1년 정도 걸릴 것으로 예상된다. 차량 통행은 8월 말부터 제한할 계획이다. 서울시 관계자는 “우회 도로를 확보해 시민 불편을 최소화할 것”이라고 했다. 경의선 철길 상공의 교각은 야간에 철거 공사를 진행해 열차 운행에 차질이 없도록 할 계획이다. 서울시 관계자는 “철거 후 새 고가를 놓을지는 차량 흐름을 분석한 뒤 결정하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“이 펜을 흉기로 생각해달라”…‘의대생 교제살인’ 재연한 아버지</title>
-      <link>https://www.chosun.com/national/national_general/2025/06/20/4K3JOTTK6FE6JJJ7IJLQ5TIYTM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/20/4K3JOTTK6FE6JJJ7IJLQ5TIYTM/</guid>
-      <dc:creator>최혜승 기자 </dc:creator>
-      <description/>
-      <pubDate>Fri, 20 Jun 2025 11:01:25 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/474CVCFIPSK23LGVB2G5ZQJ6FI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;20일 오전 서울 서초구 서초경찰서 정문 앞에서 ‘강남역 의대생 살인 사건’ 유족 측이 가해자 최모(26)씨의 사체 훼손 과정을 재연하고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘강남역 의대생 살인 사건’의 피해자 유족이 20일 사체손괴 혐의로 가해자 최모(26)씨를 추가 고소했다. 유족은 “잔혹한 사체 훼손 행위에 대해서도 엄중한 처벌이 내려져야 한다”며 범행 과정을 직접 재연하기도 했다. &lt;br&gt;&lt;br&gt;피해자 부친 A씨는 이날 오전 서울 서초경찰서를 찾아 최씨에 대한 고소장을 제출한 뒤 기자회견을 열었다. A씨는 “제 딸은 살해당했을 뿐 아니라 눈과 목 뒤 등 사체 훼손까지 당하는 잔혹한 피해를 입었다”며 “하지만 수사기관은 이를 공소장에 포함하지 않았다”고 주장했다. 이어 “최씨가 살해와 관계없이 오로지 자신의 비정상적 감정을 표출하기 위해 사체를 흉기로 유린한 것”이라고 했다.&lt;br&gt;&lt;br&gt;A씨는 이날 취재진 앞에서 최씨의 사체 훼손 과정을 직접 재연했다. 그는 “저를 제 딸이라고 생각하고 이 볼펜을 칼로 생각해달라”며 컴퓨터용 사인펜으로 얼굴과 목에 상흔을 그렸다. 그는 기자회견 중간에 목이 메는 듯 말을 잇지 못하기도 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/J7EWIROEPZNZZE5Y7GUHLF6W6U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난해 서울 강남역 의대생 살인 사건 피해자의 아버지가 20일 서울 서초경찰서에서 사체손괴 혐의로 가해자 최모씨를 고소한 뒤 취재진 앞에서 자신의 목과 얼굴에 사인펜으로 딸의 상흔을 표시하며 살해 과정을 직접 재연하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;수능 만점을 받고 서울 소재 한 의대에 다니던 최씨는 작년 5월 자신에게 이별을 고한 여자친구를 강남구의 한 고층 건물 옥상으로 데리고 가 흉기로 여러 차례 찔러 살해했다. 이후 웃옷을 갈아입은 최씨는 다시 피해자의 목과 얼굴을 공격했다. &lt;br&gt;&lt;br&gt;숨진 피해자의 몸에서는 총 28곳의 흉기 상흔이 발견된 것으로 전해졌다. 그는 살인 혐의로 기소돼 지난 14일 2심에서 징역 30년을 선고받았다.&lt;br&gt;&lt;br&gt;유족은 의대생이던 최씨가 급소인 경동맥을 공격한 후에도 2차 공격을 이어갔다는 점에서 사체 훼손 의도가 명백하다는 입장이다. A씨는 “사체 훼손에 대한 별도 고소를 접수하는 만큼 최씨가 합당한 처벌을 받을 수 있도록 수사 기관과 재판부가 다시 한번 더 이 사건을 살펴줄 것을 간곡히 요청드린다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“욕도 아깝다”… 박군, 비비탄으로 개 잡은 해병에 분노</title>
-      <link>https://www.chosun.com/national/national_general/2025/06/20/SM7OK4Y74VG4RE4QMVRP3US3NU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/20/SM7OK4Y74VG4RE4QMVRP3US3NU/</guid>
-      <dc:creator>최혜승 기자 </dc:creator>
-      <description/>
-      <pubDate>Fri, 20 Jun 2025 11:37:18 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NH2P2AAV7CMUXFZNUMERQDDTJU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;트로트 가수 박군./ 뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;특전사 출신 트로트 가수 박군(39·본명 박준우)이 현역 해병대원이 비비탄을 난사해 개를 죽인 사건에 대해 분노했다. &lt;br&gt;&lt;br&gt;박군은 지난 19일 소셜미디어에 관련 기사를 공유하며 “욕도 아까운데 이걸 어떻게 해야 하지”라고 적었다. 이 기사는 지난 8일 20대 남성 3명이 경남 거제의 한 식당 마당에 매여 있던 개 4마리에게 비비탄 수백 발을 난사했다는 내용이다. &lt;br&gt;&lt;br&gt;비비탄에 맞은 개 1마리는 치료 중 숨졌으며 2마리는 안구가 손상되는 등 중상을 입었다. 학대당한 개들은 10살 전후 노령견이었다. 다음 날 아침 현장을 발견한 피해 견주는 곧장 경찰에 신고했다.&lt;br&gt;&lt;br&gt;경찰 조사 결과 남성들은 인근 펜션 숙박객으로, 이들 중 2명은 휴가를 나온 해병대 현역 병사로 파악됐다. 이 남성들은 술을 마시고 개에게 다가갔다가 손이 물렸고 화가 나서 위협 사격을 한 것이라고 주장한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰은 군인 2명 사건을 군부대로 이송했고 민간인 1명에 대해선 동물보호법 위반, 재물손괴 등 혐의로 입건해 조사 중이다. 해병대는 이번 사건과 관련해 “사건이 이첩되는 대로 법과 규정에 의거해 엄중히 조치할 것”이라며 “지속적인 인성교육 강조 등 장병들이 건전한 민주시민으로 성장할 수 있도록 조치하겠다”고 했다.&lt;br&gt;&lt;br&gt;한편 박군은 트로트가수 데뷔 전 직업군인으로 15년간 일했다. 그는 2005년 특전부사관으로 임관해 육군특수전사령부 13특수임무여단에서 임무를 수행하다 2020년 5월 전역했다. 그는 특전사 탑팀에 선발됐고 해외 파병도 수차례 다녀왔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>100㎜ 물벼락... 경전철 멈추고 쓰러진 나무가 집 덮쳤다</title>
       <link>https://www.chosun.com/national/national_general/2025/06/20/TV2SSF4VY5BDBB7XHHOFP374IY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/20/TV2SSF4VY5BDBB7XHHOFP374IY/</guid>
@@ -816,24 +927,6 @@
       </media:content>
     </item>
     <item>
-      <title>임진강 필승교 수위 1ｍ 넘어…경기도 “하천 행락객 대피” 문자 </title>
-      <link>https://www.chosun.com/national/regional/2025/06/20/3TEL64G7EZAMDF32RTAET7ULV4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/06/20/3TEL64G7EZAMDF32RTAET7ULV4/</guid>
-      <dc:creator>김주영 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 20 Jun 2025 11:51:45 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OXB4AL2TLUDBJVK54GNXC6ELOQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;20일 강한 호우로 서울 중랑천의 하천 수위가 상승해 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;20일 오후 경기 연천군 임진강 비무장지대(DMZ) 남방한계선에 있는 필승교 수위가 하천 행락객 대피 기준인 1ｍ를 넘어서 상승하고 있다.&lt;br&gt;&lt;br&gt;한강홍수통제소에 따르면 필승교 수위는 이날 오전 6시 30분쯤부터 서서히 올라 이날 오후 7시 10분께 1.05ｍ를 기록하며 1ｍ를 넘어 섰다.&lt;br&gt;&lt;br&gt;이에 따라 경기도는 “임진강 하천변의 행락객, 야영객, 어민, 지역주민 등은 신속하게 안전한 장소로 대피 바란다”는 안전 문자를 발송했다.&lt;br&gt;&lt;br&gt;오후 7시 30분 현재 필승교 수위는 1.19ｍ를 보이며 상승 중이다.&lt;br&gt;&lt;br&gt;정부는 장마철 필승교 수위에 따라 임진강 유역을 4단계로 나눠 홍수 관리를 한다.&lt;br&gt;&lt;br&gt;필승교 수위가 1ｍ를 넘어서면 하천 행락객 대피, 2ｍ는 비홍수기 인명 대피, 7.5ｍ는 접경지역 위기 대응 관심 단계, 12ｍ는 접경지역 위기 대응 주의 단계가 각각 발령된다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>중부 지방 호우주의보…여객선 55척 결항</title>
-      <link>https://www.chosun.com/national/national_general/2025/06/20/V5HACJ5DAFGBXGYJ5M2J5D7KBI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/20/V5HACJ5DAFGBXGYJ5M2J5D7KBI/</guid>
-      <dc:creator>김영우 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 20 Jun 2025 11:23:35 +0000</pubDate>
-      <content:encoded>20일 중부 지방을 중심으로 폭우가 내리면서, 전국에서 여객선 55척이 결항된 것으로 나타났다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LMDHINYUARZSQJ6U7PWUYGWEKY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 광화문네거리에서 우산을 쓴 시민들이 출근하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;행정안전부 중앙재난안전대책본부에 따르면, 이날 오후 5시 기준 서울과 인천, 대전, 세종, 경기, 강원, 충남, 전북 등에 호우주의보가 발효돼 있다.&lt;br&gt;&lt;br&gt;인천 서구에는 이날 0시부터 오후 5시까지 전국에서 가장 많은 169㎜의 비가 내렸다. 경기 김포(143.5㎜)와 인천 중구(134.5㎜) 등이 뒤를 이었다.&lt;br&gt;&lt;br&gt;이날 내린 비로 전북 군산에서 개야도, 전남 목포에서 전남 신안 홍도 등을 잇는 여객선 55척이 결항됐다.&lt;br&gt;&lt;br&gt;북한산과 한라산국립공원 등 2개 국립공원에서 102개 구간이 출입 통제됐고, 하천은 경기 2758곳, 서울 29곳 등을 포함해 모두 2808곳이 출입 통제됐다. 도로 역시 인천에서 2곳이 통제되고 있다.&lt;br&gt;&lt;br&gt;한편 이번 호우로 인명 피해나 시설 피해, 산사태 등은 발생하지 않은 것으로 집계됐다.&lt;br&gt;&lt;br&gt;중대본 관계자는 “21일까지 전국적으로 강하고 많은 비가 내릴 것”이라며 “안전 관리에 만전을 기해달라”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>경찰 교육 중 족구하다 십자인대 파열… 법원 “보훈 대상자 인정” </title>
       <link>https://www.chosun.com/national/court_law/2025/06/20/47DHBSY2PRD3XCFG5PDIRJ4UMY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/20/47DHBSY2PRD3XCFG5PDIRJ4UMY/</guid>
@@ -843,33 +936,6 @@
       <content:encoded>경찰 합숙 교육 기간에 족구를 하다 부상을 당한 뒤 퇴직한 경찰관에 대해 보훈 보상 대상자로 인정해야 한다는 법원 판단이 나왔다. 서울행정법원 행정9단독 고철만 판사는 퇴직 경찰관 A씨가 서울북부보훈지청장을 상대로 “보훈 대상자가 아니라는 결정을 취소해 달라”며 제기한 소송에서 지난달 일부 승소 판결을 내렸다고 20일 밝혔다. &lt;br&gt;&lt;br&gt;A씨는 1999년 서울경찰청 합숙 교육을 받던 중 휴식 시간 동료들과 족구를 하다가 넘어져 오른쪽 무릎을 다쳤다. 전방 십자인대 파열 진단을 받고 재건 수술을 받았다. 2023년 퇴직한 A씨는 보훈지청에 보훈 보상 대상자 등록을 신청했다. 그러나 보훈지청이 “자유 시간에 친선 족구 경기를 하다 발생한 상병은 공무 관련으로 인정할 수 없다”며 거절하자 소송을 냈다.&lt;br&gt;&lt;br&gt;현행법상 직무 수행이나 교육 훈련 중 부상을 입고 퇴직한 경찰관이 신체검사에서 상이 등급 판정을 받으면, 국가유공자나 보훈 보상 대상자로 지정해 법률에 따른 예우와 보상금을 지원하게 돼 있다. 사고가 일어난 공무나 훈련이 국가 안보나 국민의 생명·재산 보호와 직접적인 관련이 있으면 국가유공자, 직접 관련이 없으면 보훈 보상 대상자로 지정한다.&lt;br&gt;&lt;br&gt;법원은 A씨가 국가유공자는 아니지만, 보훈 보상 대상자에는 해당한다고 봤다. 고 판사는 “휴식 시간에 발생한 사고라고 해도 교육 훈련 장소·시간 안에 벌어졌으므로 공무 수행과 전혀 무관하다고 볼 수 없다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>명태균, ‘조은희 공천 개입’ 의혹 부인... 경찰 출석해 참고인 조사</title>
-      <link>https://www.chosun.com/national/regional/2025/06/20/CS6MCZKRDBGWBHGE66F2YY2ZB4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/06/20/CS6MCZKRDBGWBHGE66F2YY2ZB4/</guid>
-      <dc:creator>창원=김주영 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 20 Jun 2025 11:15:45 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DFKJVQE6XZKIXPUDXAO3HSFGWI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;'정치브로커' 명태균씨가 20일 오후 경남 창원중부경찰서에 참고인 신분으로 출석하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘정치브로커’ 명태균씨가 지난 2022년 3월 국회의원 보궐선거에서 국민의힘 조은희 의원이 서울 서초갑 공천을 받기 위해 당내 경선에 개입했다는 의혹에 대한 조사를 받기 위해 20일 경찰에 참고인 신분으로 출석했다.&lt;br&gt;&lt;br&gt;이 의혹을 수사하는 서울 방배경찰서는 경남 창원중부경찰서에 수사관 2명을 보내 이날 오후 명씨를 조사했다.&lt;br&gt;&lt;br&gt;명씨는 이날 창원중부경찰서에 출석하면서 조 의원에게 경선 당시 당원 명부를 받은 적이 있느냐는 취재진 질문에 “거래가 없었다. (있었다면) 피고인 신분으로 왔지 않겠느냐”고 부인했다.&lt;br&gt;&lt;br&gt;또 조 의원이 시의원 자리를 추천하겠다고 한 적 있느냐는 물음에 명씨는 “없다”며 관련 의혹을 일축했다.&lt;br&gt;&lt;br&gt;이어 취재진이 명씨의 공천개입 의혹 등을 제기한 강혜경씨에게 경선 여론조사 과정에서 조 의원과 이혜훈 전 의원의 경선 결선 문항을 넣으라 지시한 적 있냐고 묻자 “여론조사에 문구 추가하는 게 잘못된 거냐”고 반문했다.&lt;br&gt;&lt;br&gt;경찰은 명씨가 실질적으로 운영한 여론조사업체인 미래한국연구소가 불법 여론조사를 통해 경선에 개입했다는 의혹 고발장을 접수해 조사하고 있다.&lt;br&gt;&lt;br&gt;더불어민주당은 지난해 11월 명씨와 명씨의 공천개입 의혹 등을 제기한 강혜경씨의 녹취록을 근거로 미래한국연구소가 2022년 2월 당내 경선을 치르는 중이던 조 의원으로부터 확보한 국민의힘 서초갑 책임당원 명부를 사용해 비공표 여론조사를 실시했을 가능성이 있다고 주장한 바 있다.&lt;br&gt;&lt;br&gt;연구소 부소장이었던 강씨도 이 조사에 관여한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;서초구청장직에서 사퇴하고 보궐선거에 출마한 조 의원은 이혜훈·정미경·전희경 전 의원과 전옥현 전 국가정보원 제1차장 등과 경선을 벌여 공천됐고 72.7％ 득표율로 당선됐다.&lt;br&gt;&lt;br&gt;조 의원과 관련한 의혹과 별개로 창원중부경찰서는 국회의 출석 요구에 응하지 않은 혐의로 명씨를 수사하고 있다.&lt;br&gt;&lt;br&gt;경찰은 지난 4월 검찰로부터 명씨에 대한 고발 사건을 넘겨받았다고 설명했다.&lt;br&gt;&lt;br&gt;앞서 명씨는 지난해 10월 국회 법제사법위원회 국정감사에 정당한 이유 없이 출석하지 않아 국회에서의 증언·감정 등에 관한 법률(국회증언감정법) 위반 혐의로 고발당했다.&lt;br&gt;&lt;br&gt;국회증언감정법에 따르면 정당한 이유 없이 출석하지 않은 증인은 3년 이하의 징역 또는 1000만원 이상 3000만원 이하의 벌금형을 받을 수 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>차량 털려고 문 열었더니 그 안에 형사…50대 절도범 구속</title>
-      <link>https://www.chosun.com/national/regional/2025/06/20/GZPZHQ4IIJDW5IAO63MTAZQHXI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/06/20/GZPZHQ4IIJDW5IAO63MTAZQHXI/</guid>
-      <dc:creator>김주영 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 20 Jun 2025 10:16:36 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MUB3BR5IS5GSXCCQ3OYZCGCSOY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;충남 아산경찰서 전경. /아산경찰서&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;문을 잠그지 않은 차량에서 상습적으로 물건을 훔치다 잠복 중인 경찰에 붙잡힌 50대가 구속됐다.&lt;br&gt;&lt;br&gt;20일 충남 아산경찰서는 특정 범죄 가중처벌법 위반(절도) 혐의로 50대 A씨를 구속 송치했다고 밝혔다.&lt;br&gt;&lt;br&gt;전과 10범인 A씨는 지난 4월 21일부터 지난 4일까지 아산시 온천동 일대에서 12차례에 걸쳐 문이 잠기지 않은 차량에서 현금 200여만 원을 훔친 혐의다.&lt;br&gt;&lt;br&gt;경찰은 차량 현금 도난 신고가 잇따르자 CCTV분석을 통해 A씨를 용의자로 특정하고 체포영장을 발부받았다. 그리고 A씨 주거지 인근에서 잠복근무를 했다.&lt;br&gt;&lt;br&gt;A씨가 사이드미러가 접히지 않은 차량만 노린다는 사실을 확인한 경찰은 차량의 사이드미러를 접지 않고 대기했다.&lt;br&gt;&lt;br&gt;지난 4일 평소처럼 사이드미러가 접히지 않은 차량을 발견해 차량 문을 연 A씨는 차량에서 잠복 중이던 형사와 눈을 마주쳤다.&lt;br&gt;&lt;br&gt;A씨는 자신의 차인 줄 알았다고 변명했지만 경찰은 A씨를 현행범으로 체포했다.&lt;br&gt;&lt;br&gt;경찰 조사 결과 A씨는 상습절도 혐의로 실형을 선고받고 출소한 지 한달 만에 범행을 저지른 것으로 드러났다.&lt;br&gt;&lt;br&gt;충남경찰청은 A씨의 범행과 검거 장면이 촬영된 영상을 유튜브 채널을 통해 공개했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>제주서 80대·60대 父子 숨진 채 발견... 경찰 수사중</title>
-      <link>https://www.chosun.com/national/regional/2025/06/20/KBUOA74EHVC2BEFRV6HCXPKHVI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/06/20/KBUOA74EHVC2BEFRV6HCXPKHVI/</guid>
-      <dc:creator>김주영 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 20 Jun 2025 10:56:41 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JSFJXRNSQJHEDOTHYHCZGTJL64.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;제주 서부경찰서. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제주에서 80대 아버지와 60대 아들이 숨진 채 발견돼 경찰이 수사 중이다.&lt;br&gt;&lt;br&gt;20일 제주서부경찰서에 따르면 전날 오후 3시 20분쯤 제주시 용담동 한 주택에서 80대 A씨와 60대 B씨가 숨져 있는 것을 집에 방문한 가족이 발견해 신고했다.&lt;br&gt;&lt;br&gt;아들인 B씨는 10여 년간 지병이 있는 아버지 A씨를 혼자서 간병해 온 것으로 전해졌다.&lt;br&gt;&lt;br&gt;경찰은 B씨가 A씨를 살해한 뒤 극단적 선택을 했을 가능성도 있는 것으로 보고, 부검을 의뢰하는 등 정확한 사건 경위를 조사중이다.&lt;br&gt;&lt;br&gt;※우울감 등 말하기 어려운 고민이 있거나 주변에 이런 어려움을 겪는 가족·지인이 있을 경우 자살 예방 상담 전화 ☎109 또는 자살 예방 SNS 상담 ‘마들랜’에서 24시간 전문가의 상담을 받을 수 있습니다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>‘이상직 특혜 의혹’ 조현옥 재판, 임종석·조국 증인으로 부른다</title>
       <link>https://www.chosun.com/national/court_law/2025/06/20/64IKZBXRVJCAPIOCUZU7EE6L7E/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/20/64IKZBXRVJCAPIOCUZU7EE6L7E/</guid>
@@ -877,55 +943,6 @@
       <description/>
       <pubDate>Fri, 20 Jun 2025 10:27:42 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TBNAB73WD5F67ANZJ7YYNZLMCE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;조현옥 전 청와대 인사수석비서관. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;조현옥 전 청와대 인사수석의 직권남용 의혹을 심리하는 재판부가 조국 전 조국혁신당 대표와 임종석 전 대통령 비서실장을 증인으로 부르기로 했다. &lt;br&gt;&lt;br&gt;조 전 수석은 문재인 정부 당시 이상직 전 더불어민주당 의원을 중소벤처기업진흥공단(중진공) 이사장에 내정하라고 지시한 혐의로 기소돼 재판을 받고 있다. &lt;br&gt;&lt;br&gt;서울중앙지법 형사27부(재판장 우인성)는 20일 조 전 수석의 재판을 열고 “오는 9월 5일까지 주요 증인 신문을 마무리하고 조국·임종석씨에 대한 신문 기일을 잡겠다”고 했다. &lt;br&gt;&lt;br&gt;인사 특혜 의혹 시기인 2017년 12월 당시 조국 전 대표는 대통령 비서실 민적수석비서관이었고 임종석 전 실장은 대통령 비서실장이었다. 검찰 측은 이날 “직접 프로세스(과정)에 있던 상급자여서 신문을 해야 한다”고 의견을 냈다. 재판부는 두 사람의 증인 신문에 앞서 오는 8월 22일 이상직 전 의원을 증인으로 부르기로 했다.&lt;br&gt;&lt;br&gt;이날 재판에서는 최모 당시 중진공 인재경영실장에 대한 증인 신문이 이뤄졌다. 최 전 실장은 2018년 1월 중진공 업무계획을 협의하기 위해 중소벤처기업부에 방문했다가 운영지원과 주무관으로부터 ‘이상직 전 의원이 이사장에 지원할 건데 협조하면 좋겠다’는 얘기를 들었다고 증언했다. &lt;br&gt;&lt;br&gt;검찰 측이 “중진공 이사장으로 내정했다는 취지 아니냐”고 묻자 그는 “저도 그렇게 이해할 수밖에 없었다”고 했다. 최 전 실장은 “이 전 의원을 추천한 곳이 어디인지 듣지는 못했다”면서도 “당연히 (중기부보다) 상급 기관과 협의했을 거라고 생각했다”고 했다. &lt;br&gt;&lt;br&gt;최 전 실장은 “중기부 출장에서 돌아오는 길에 이스타항공 전무로부터 전화가 와 ‘협조 바란다’는 말과 함께 자료를 요청했다”고 했다. 이 전 의원은 이스타항공 창업주다. 최 전 실장은 이에 따라 외부에 공개되지 않은 전임 이사장의 지원서 일부와 중진공 이사장 직무수행계획서 등 임명에 도움이 될 만한 자료들을 보내줬다고 증언했다. 또 “중진공 이사장 서류심사 직전 임원추천위원회 측에 이 전 의원의 내정 사실을 전달했다”고 했다.&lt;br&gt;&lt;br&gt;조 전 수석은 2017년 12월 이상직을 중진공 이사장으로 내정하고 대통령비서실 인사비서관실과 중기부 공무원들을 통해 임명을 사전 지원하는 등 권한을 남용한 혐의로 지난해 12월 기소됐다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>바르는 화장품 주사로 주입한 의사...법원 “국민 신뢰 실추, 자격정지 정당”</title>
-      <link>https://www.chosun.com/national/court_law/2025/06/20/BZU7L2ZR3BDE5NY5FENI7F4WVA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/20/BZU7L2ZR3BDE5NY5FENI7F4WVA/</guid>
-      <dc:creator>김나영 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 20 Jun 2025 09:54:22 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PN2FKJA7XJHIVLOA2K6VUFQYEA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 강남대로 193(양재동) 서울가정법원·서울행정법원 청사./전기병 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;피부에 바르는 화장품을 얼굴에 주사한 의사에게 내려진 자격정지 3개월 처분은 정당하다는 법원 판단이 나왔다. &lt;br&gt;&lt;br&gt;서울행정법원 제1부(재판장 양상윤)는 최근 의사인 A씨가 보건복지부장관을 상대로 “의사면허자격 정지처분을 취소해달라”며 낸 소송에서 원고의 청구를 기각했다고 20일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 인천 남동구에서 의원을 운영하는 의사로, 2022년 8월 환자에게 도포용 화장품인 ‘엑소좀 ASCE+’를 손주사 방식으로 얼굴에 주입하는 시술을 했다. 이에 보건복지부는 “이같은 시술은 약사법상 허가받지 않은 의약품 사용이자, 비도덕적 진료행위”라며 의료법에 따라 자격정지 3개월 처분을 내렸다. &lt;br&gt;&lt;br&gt;A씨는 이같은 처분이 부당하다며 행정소송을 냈다. 해당 제품은 화장품인데 복지부는 이를 의약품이라는 전제로 처분을 내렸으며, 환자에게 실질적인 피해가 발생하지 않았는데도 자격정지 처분을 내리는 건 너무 과도하다는 주장이다.&lt;br&gt;&lt;br&gt;그러나 법원은 A씨의 주장을 받아들이지 않았다. 먼저 재판부는 엑소좀 ASCE+가 일반적으로 도포 방식으로 사용되는 화장품임에도 불구하고 이를 침습적 방식으로 환자에게 주입한 행위는 의료행위에 해당한다고 판단했다. 이어 “위 제품이 의료법령상 사용이 허가된 것인지 확인하지도 않고 사용함으로써 최소한의 주의의무조차 소홀히 하였다”고도 했다.&lt;br&gt;&lt;br&gt;또 A씨의 시술이 의사에 대한 국민의 신뢰를 실추시켰다고도 지적했다. 재판부는 “A씨의 행위는 국민 건강에 중대한 악영향을 미칠 우려가 있는 행위이자, 의사에게 기대되는 고도의 도덕성과 직업윤리에 반하여 전문직 종사자인 의사에 대한 국민의 신뢰를 실추시키는 행위로써 법 위반의 정도가 결코 가볍지 않다”며 “자격정지 3개월은 재량권을 일탈하거나 남용한 것으로 보기 어렵다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>이명현 해병 특검, 국방부 방문...인력 파견 논의</title>
-      <link>https://www.chosun.com/national/court_law/2025/06/20/BDL3KO5AYVG5DMD55FJYXWNV7Q/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/20/BDL3KO5AYVG5DMD55FJYXWNV7Q/</guid>
-      <dc:creator>박강현 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 20 Jun 2025 09:51:18 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ENDV3FBQ3RL3FE47O37ICFPGTI.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;‘순직 해병 사건 수사 외압’ 의혹을 수사하는 이명현 특별검사가 20일 오전 서울 서초구 사무실로 출근하며 취재진의 질문에 답하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘순직 해병 사건 수사 외압’ 의혹을 수사하는 이명현(63·군법무관 9기) 특별검사가 업무 협조 요청을 위해 국방부를 방문했다.&lt;br&gt;&lt;br&gt;이 특검은 20일 오후 서울 용산구 국방부 청사를 찾아 김선호 국방부 차관(장관 직무대행)과 면담했다. 이 특검은 인력 파견 요청 등을 한 것으로 전해졌다. &lt;br&gt;&lt;br&gt;이 특검은 지난 19일 이 사건을 초동 수사했던 해병대 수사단과 국방부 조사본부 인력을 파견 받는 방안을 검토할 예정이라고 말한 바 있다. &lt;br&gt;&lt;br&gt;앞서 이날 출근길에는 관련 사건을 수사 중인 고위공직자범죄수사처와 대구지검으로부터 수사 기록을 인계받을 방침이라고도 했다.&lt;br&gt;&lt;br&gt;이번 순직 해병 특검은 최대 105명(특검 1명·특검보 4명·파견검사 20명·파견공무원 40명·파견수사관 40명)으로 꾸려질 전망이다.&lt;br&gt;&lt;br&gt;이 특검은 지난 18일 특검보 후보자 8명을 선정해 이재명 대통령에게 임명해달라고 요청했다. 특검법에 따르면 대통령은 임명 요청을 받은 날로부터 3일 이내에 특검보를 임명해야 한다.&lt;br&gt;&lt;br&gt;특검보 임명이 마무리되는대로 이 특검은 수사팀을 구성한 뒤 사건 쟁점을 파악하며 본격적인 수사에 착수할 전망이다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>인천대교 달리던 트레일러에서 컨테이너 떨어져…2명 경상</title>
-      <link>https://www.chosun.com/national/incident/2025/06/20/7VOLVYQN2BGLFFT5GG2KGC42F4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/06/20/7VOLVYQN2BGLFFT5GG2KGC42F4/</guid>
-      <dc:creator>인천=이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 20 Jun 2025 09:45:16 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/K72RAVUXLJQITZCKSEIM7XHEDM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;20일 오후 5시 2분쯤 인천대교 인천공항에서 송도방향 9.7㎞ 지점에서 화물차에 실려있던 컨테이너가 떨어지는 사고가 발생했다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천대교를 달리던 트레일러 화물차에서 컨테이너가 도로로 떨어지는 사고가 발생했다. &lt;br&gt;&lt;br&gt;20일 인천경찰청 고속도로순찰대 등에 따르면 이날 오후 5시 2분쯤 인천대교 송도 방면 9.7㎞ 지점에서 트레일러 화물차가 싣고 가던 컨테이너가 도로에 떨어졌다. &lt;br&gt;&lt;br&gt;이 사고로 화물차를 뒤따르던 SUV(스포츠유틸리티차량)가 급정거를 하면서, 차량에 타고 있던 동승자 80대 남녀 2명이 119구급대에 의해 병원에 이송됐다. &lt;br&gt;&lt;br&gt;또 도로에 떨어진 컨테이너가 상위 2개 차로를 막으면서 일대 교통 체증이 빚어지고 있다. &lt;br&gt;&lt;br&gt;경찰은 우선 사고 수습을 한 뒤, 운전자 등을 상대로 정확한 사고 원인을 조사하고 있다. &lt;br&gt;&lt;br&gt;경찰 관계자는 “떨어진 컨테이너를 옮기기 위해 크레인을 부른 상황”이라며 “처리에 30분~1시간 정도 걸릴 것으로 예상한다”고 말했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[오늘의 세상] 8년째 日학력평가 1위, 시골 아키타縣(현)의 기적</title>
-      <link>https://www.chosun.com/site/data/html_dir/2014/08/28/2014082800326.html</link>
-      <guid isPermaLink="true">https://www.chosun.com/site/data/html_dir/2014/08/28/2014082800326.html</guid>
-      <dc:creator>차학봉 기자</dc:creator>
-      <description>최근 결과가 발표된 일본 전국 초·중학교 학력 테스트의 최대 화제는 '오키나와(沖繩)현'이다. 2007년부터 시작된 이 평가에서 꼴찌를 도맡다시피 했던 오키나와의 성적이 수직 상승했기 때문이다. 특히…</description>
-      <pubDate>Wed, 27 Aug 2014 20:46:39 +0000</pubDate>
-      <content:encoded>최근 결과가 발표된 일본 전국 초·중학교 학력 테스트의 최대 화제는 ‘오키나와(沖繩)현’이다. 2007년부터 시작된 이 평가에서 꼴찌를 도맡다시피 했던 오키나와의 성적이 수직 상승했기 때문이다. 특히 초등학교 산수는 최하위에서 6위로 껑충 뛰었다. 이에 대해 요미우리(讀賣)신문은 “성적 향상의 비결은 아키타현(秋田縣) 학습법을 배웠기 때문”이라고 분석했다. 오키나와는 2009년부터 아키타현 교사를 초청, ‘아키타 학습법’을 적극 보급하고 있다. 아키타를 배우는 건 오키나와만이 아니다. 지난해에만 도쿄를 비롯해 전국에서 교사·학교 관계자 2300여명이 교육 방법을 벤치마킹하기 위해 아키타현을 찾았다.&lt;br&gt;&lt;br&gt;대도시 학교와 학원도 모델로 삼고 있는 아키타현은 2007년 이후 학력 테스트에서 줄곧 1위를 달리고 있다. 성적만 좋은 것은 아니다. “학교가 즐겁다”는 학생 비율이 89.3%로 전국 1위, 결석률은 전국 최하위이다. 쌀 농사 외에는 별다른 산업이 없어 1인당 소득이 최하위권(47개 광역자치단체 중 42위)인 아키타현이 대도시를 제치고 ‘교육 1위’를 유지하는 비결은 뭘까.아키타시 미나토기타 초등학교의 3학년 이상 산수 시간에는 교사 2명이 함께 교실에 들어간다. 한 명의 교사가 수업을 진행하고 다른 교사는 ‘잘 모르겠다’는 표정을 짓는 학생에게 다가가 일대일 지도를 한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UGS7WHYOML6BAK6ZDW54OKNDCE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;산수 시간엔 교사 2명 일본 아키타현의 한 초등학교에서 교사 2명이 산수 수업을 진행하고 있다. 한 교사가 수업을 주도하면, 다른 교사는 학생들의 일대일 지도를 돕는 방식이다.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;아키타는 ‘학습 부진아’도 절대 포기하지 않는다. 매주 두 차례 정도 ‘미니 테스트’를 실시하는데, 전원이 평균 90점이 넘을 때까지 시험을 반복한다. 학습 부진 학생이 이해할 때까지 교사가 일대일 보충수업도 한다. 아키타의 보충수업은 초등학교는 전국 평균보다 20%, 중학교는 30% 정도 더 많다.&lt;br&gt;&lt;br&gt;한때 최하위권을 맴돌았던 아키타 교육 혁신의 원년은 2001년. 오노데라 기요시(小野寺�) 당시 아키타현 교육장은 초등학교 1·2학년과 중학교 1학년에 대해서 20여명 정도로 반 편성을 하는 ‘소수(少數) 학급 제도’를 도입했다. 그는 “학습뿐만 아니라 생활도 밀착형으로 지도·상담할 수 있도록 예산을 투입해 소수 학급 제도를 도입했다”고 했다. 또 2002년부터 학력평가 시험제를 도입, 학력이 떨어지는 학교에 교사와 행정 직원을 추가 배치하는 식으로 집중 지원했다.&lt;br&gt;&lt;br&gt;평가 시험이 학교 서열화를 부추긴다는 반대도 많았다. 아키타현 히가시나루세(東成瀨) 마을의 쓰루카이 다카시(鶴飼孝) 교육장은 교도(共同)통신 인터뷰에서 “처음에는 ‘학력 평가가 학교 서열화로 이어진다’는 반대 목소리가 높았지만, 결과적으로는 교육 방법 개선에 큰 도움이 됐다”고 말했다. 학력 평가가 시작되면서 학교들이 독자적인 교육 프로그램을 경쟁적으로 개발했다. 히가시나루세 학교들은 수업 전후에 10분 독서, 신문 사설 토론, 한자 쓰기 등 특색 있는 수업을 진행한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ISHWTDCDXUK5YYRW4F66XHXFKA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;아키타 교육청이 만든 ‘교육 10조’는 가정 학습의 중요성을 강조한다. “일찍 일어나 아침밥을 먹는 것이 가정 학습의 시작이다.” “학교에서 일어난 일을 이야기하면 가정이 화목해지고, 뇌가 활성화된다.”&lt;br&gt;&lt;br&gt;아키타 교사들은 수시로 학부모와 접촉하면서 가정 학습의 중요성을 설득한다. 아키타 학생들에게는 ‘가정용 학습 노트’라는 것이 있다. 하루 1~2쪽씩 스스로 주제를 정해 공부한 내용을 적는 노트이다. 이 노트를 매일 아침 제출하면 담임교사가 내용에 대해 코멘트를 적어 준다. 자발적으로 공부하는 습관이 어릴 때부터 몸에 붙었기 때문에 복습하는 초등학교 6학년생 비율도 81%로, 전국 평균(51.4%)을 압도한다.&lt;br&gt;&lt;br&gt;아키타 학습법이 성공을 거둔 밑바탕에는 교사들의 헌신적 노력이 있었다. 쓰루카이 교육장은 “처음 부임한 교사들은 죽는소리를 할 정도로 연수와 보충수업 등 할 일이 많다”고 하면서도 “산골 마을이다 보니 교사와 주민들이 서로 잘 알고 교육에 대해 협력을 아끼지 않는다”고 했다.&lt;br&gt;&lt;br&gt;지도 능력이 뛰어난 교사를 교육전문감(敎育專門監)으로 임명, 젊은 교사들과 함께 수업에 투입하는 등 수업 비법도 전수하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/UGS7WHYOML6BAK6ZDW54OKNDCE.jpg?auth=49bb3db60b1f31a7a3d936234e98ea605445fcde638761cfcfbefe2e0914eca3&amp;smart=true&amp;width=450&amp;height=344" type="image/jpeg" height="344" width="450">
-        <media:description type="plain">산수 시간엔 교사 2명 일본 아키타현의 한 초등학교에서 교사 2명이 산수 수업을 진행하고 있다. 한 교사가 수업을 주도하면, 다른 교사는 학생들의 일대일 지도를 돕는 방식이다.</media:description>
-        <media:credit role="author" scheme="urn:ebu">마이니치신문 제공</media:credit>
-      </media:content>
-    </item>
-    <item>
-      <title>[속보] 오아시스, 티몬 인수 불발...회생계획안 부결 </title>
-      <link>https://www.chosun.com/national/court_law/2025/06/20/QUTVCHMM3RCGLGNC2ZVG2OZGSM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/20/QUTVCHMM3RCGLGNC2ZVG2OZGSM/</guid>
-      <dc:creator>김은경 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 20 Jun 2025 08:13:57 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G6G2QSJDODD7CN35GTA7IEO5NM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;11일 오전 서울 강남구 티몬 사옥 앞으로 시민이 지나가고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>이번 장마는 야행성 폭우… 오늘밤 수도권 최대 120㎜</title>
@@ -938,33 +955,6 @@
       <media:content url="https://www.chosun.com/resizer/v2/C5Y67N3DJZE3ZNAIPKATDIWHW4.jpg?auth=180c2ebaf01a5a8c69bb4620f496e8c2799c4da506bddbac161d485762671f92&amp;smart=true&amp;width=2101&amp;height=1401" type="image/jpeg" height="1401" width="2101">
         <media:description type="plain">2024년 7월 2일 오전 올여름 장마가 시작되면서 서울 광화문 사거리에서 폭우가 내리고 있다. / 장련성 기자</media:description>
       </media:content>
-    </item>
-    <item>
-      <title>도로‧주택 잠기고, 나무 넘어지고…159㎜ 집중호우 내린 인천, 피해 잇따라</title>
-      <link>https://www.chosun.com/national/incident/2025/06/20/GM7HNDDVMRAD5OLZPBHDFZMW54/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/06/20/GM7HNDDVMRAD5OLZPBHDFZMW54/</guid>
-      <dc:creator>인천=이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 20 Jun 2025 07:48:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XZGYUTPKRWKINQXB7ZUDLE7LKU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;공장들이 모여있는 인천시 서구 오류동의 한 도로가 침수된 모습./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;19일 밤부터 20일 오후까지 인천에 최대 159㎜의 많은 비가 내리면서 도로와 주택이 물에 잠기는 등 피해가 늘고 있다. &lt;br&gt;&lt;br&gt;20일 인천시에 따르면 이날 오전 0시부터 오후 2시까지 시와 일선 군‧구에 모두 76건의 비 피해 신고가 접수됐다. &lt;br&gt;&lt;br&gt;도로 침수가 37건으로 가장 많았고, 주택 침수와 나무 전도 11건, 토사 유출 5건 등 순으로 나타났다. &lt;br&gt;&lt;br&gt;도로 침수는 오전 4시 8분쯤 중구 운남동 일대 도로 침수 신고를 시작으로, 서구 오류동, 계양구 귤현동과 병방동, 서구 원당동 등지에서 잇따랐다. &lt;br&gt;&lt;br&gt;주택 침수 신고는 0시 30분쯤 미추홀구 숭의동의 한 공동주택 침수 신고를 시작으로, 남동구 간석동, 서구 당하동, 남동구 간석동, 서구 연희동 등지에서 이어졌다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/R6LUAAIOZ5B2BOESMGDDXAXE3U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;20일 오전 2시 35분쯤 인천시 남동구 간석동의 한 아파트단지에서 나무가 쓰러져 주차된 차를 덮쳤다. /인천소방본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;0시 30분쯤 인천 남동구 간석동의 한 아파트 단지에선 나무가 넘어져 주차된 차량을 덮치기도 했고, 오전 6시 7분쯤엔 서구 오류동 도로에서 맨홀 뚜껑이 유실됐다는 신고가 들어와 안전 조치가 이뤄졌다. &lt;br&gt;&lt;br&gt;오전 4시 20분쯤 서구 왕길동을 비롯해 서구 오류동과 가정동 등지에서 토사가 유출됐다는 신고도 있었다. &lt;br&gt;&lt;br&gt;오전 7시 31분쯤 중구 중산동의 한 숙박시설 외벽에 걸린 현수막이 찢어졌다는 신고가 있어 소방 당국이 안전 조치에 나섰고, 오후 12시 9분쯤엔 동구 송림동에서 전깃줄이 낙하됐다는 신고가 접수되기도 했다. &lt;br&gt;&lt;br&gt;오후 2시 현재 차량이 통제된 도로는 계양구 작전동 토끼굴, 서구 검바위로 공항고속도로 측도길 등 2곳이다. 승기천, 장수천 등 인천 지역 하천 12곳도 통제됐다.&lt;br&gt;&lt;br&gt;이 시각 현재까지 지역별 누적 강수량은 서구 금곡동이 159㎜를 기록해 가장 많았고 동구 송림동 104㎜, 중구 전동 99㎜, 미추홀구 숭의동 87㎜ 등의 강우량을 보였다.&lt;br&gt;&lt;br&gt;이날 오전 4시 40분쯤 호우경보가 발효됐던 인천 지역은 오후 4시부터 호우주의보로 변경됐다. &lt;br&gt;&lt;br&gt;수도권기상청 관계자는 “일단 인천 지역 비구름이 약해지는 단계”라면서도 “내일(21일)까지 인천엔 10~50㎜의 비가 더 올 것으로 예상된다”고 말했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>접근금지 명령 끝난 지 일주일만에 아내 살해…60대男 구속영장 신청</title>
-      <link>https://www.chosun.com/national/incident/2025/06/20/6KJEF74VTFAOFOLL5KASW665LY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/06/20/6KJEF74VTFAOFOLL5KASW665LY/</guid>
-      <dc:creator>인천=이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 20 Jun 2025 02:17:07 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/S4JNNA63IJHXYPIIBJ7DXGEVSU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;가정폭력으로 법원의 접근금지 명령 기간이 끝난 지 일주일 만에 아내를 찾아가 흉기로 살해한 60대 남성이 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;인천 삼산경찰서는 살인 혐의로 60대 A씨에 대한 구속영장을 신청했다고 20일 밝혔다. &lt;br&gt;&lt;br&gt;A씨는 전날 오후 4시 30분쯤 인천시 부평구 부평동의 자택 현관 앞에서 아내 60대 B씨를 흉기로 찔러 숨지게 한 혐의를 받고 있다. &lt;br&gt;&lt;br&gt;B씨는 신고를 받고 출동한 119구급대에 의해 병원으로 이송돼 치료를 받았으나 숨졌다. &lt;br&gt;&lt;br&gt;이웃 주민의 신고를 받고 출동한 경찰은 사건 현장에 있던 A씨를 현행범으로 체포했다. &lt;br&gt;&lt;br&gt;A씨는 자신의 혐의를 인정한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;A씨는 앞서 지난해 12월 가정폭력으로 법원으로부터 B씨에 대한 100m 이내 접근 금지와 연락 제한 등의 임시조치명령을 받았다. 지난 12일까지가 기한이었는데, 종료 7일 후 범행한 것으로 조사됐다. &lt;br&gt;&lt;br&gt;경찰 관계자는 “국립과학수사연구원에 B씨의 시신 부검을 의뢰해 구체적인 사망 원인을 조사할 예정”이라며 “구체적인 수사 내용은 확인해줄 수 없다”고 말했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>3특검 수사 앞두고… 尹, 주변에 “난 떳떳”</title>
-      <link>https://www.chosun.com/national/court_law/2025/06/19/XFEN7LCJKVBSVLQTT733FH7CK4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/19/XFEN7LCJKVBSVLQTT733FH7CK4/</guid>
-      <dc:creator>이민준 기자, 유희곤 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 19 Jun 2025 15:55:00 +0000</pubDate>
-      <content:encoded>3대(내란·김건희·해병대원) 특검 수사를 앞둔 윤석열 전 대통령이 주변에 “나는 떳떳하다”는 취지의 입장을 밝힌 것으로 19일 알려졌다. 세 특검 모두 핵심 수사 대상에 윤 전 대통령을 올려놓자 자신의 결백을 강조하고 있는 것으로 풀이된다.&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 윤 전 대통령은 최근 주변 인사들에게 “문제 될 게 없다” “특검은 수사해볼 테면 해보라”는 취지로 말했다고 한다. 특히 해병대원 특검에 대해선 “임성근 전 해병대 1사단장은 문재인 정부 때 장군으로 진급해 잘나갔던 인물인데, 내가 보호할 이유가 뭐가 있느냐”는 말도 한 것으로 전해졌다. 임 전 사단장은 2018년 12월 준장으로 진급했다.&lt;br&gt;&lt;br&gt;해병대원 특검 수사의 핵심은 이른바 ‘윤 대통령 격노설’이다. 2023년 7월 해병대원 순직 사건으로 해병대 수사단이 임 전 사단장에게 업무상 과실치사 혐의를 적용한다는 조사 결과를 보고받자 윤 전 대통령이 크게 화를 내면서 수사에 외압을 행사했다는 의혹이다. 이 밖에도 윤 전 대통령은 ‘12·3 비상계엄’을 수사하는 내란 특검, ‘명태균 공천 개입’ 의혹 등을 수사할 김건희 특검에서도 핵심 수사 대상이다.&lt;br&gt;&lt;br&gt;한편 윤 전 대통령 측은 이날 경찰 비상계엄 특별수사단의 3차 출석 요구에 불응했다. 경찰은 윤 전 대통령이 지난 1월 대통령경호처에 자신의 체포영장 집행을 저지하라고 지시한 혐의, 비상계엄 직후 비화폰 관련 정보를 삭제하라고 지시한 혐의 등에 대해 수사를 벌이고 있다.&lt;br&gt;&lt;br&gt;그러나 윤 전 대통령 측은 경찰의 체포영장 집행 자체가 불법이기 때문에 법리적으로 죄가 성립하지 않는다는 입장이다. 특히 윤 전 대통령이 체포를 방해하라고 지시한 사실도 없다는 주장이다. 윤 전 대통령 측 윤갑근 변호사는 “요건에 맞지 않는 수사”라며 “이미 결론을 내린 뒤 사실을 왜곡하고 수사권을 행사하는 것에 법적으로 엄정히 대응할 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
