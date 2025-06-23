@@ -13,6 +13,92 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>서울대, 美 우수 인력 유치 위해 국제공동연구 지원 및 펠로우십 사업 확대</title>
+      <link>https://www.chosun.com/national/national_general/2025/06/23/JSSOTNKFZZHTTCY3FPAJE6IEH4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/23/JSSOTNKFZZHTTCY3FPAJE6IEH4/</guid>
+      <dc:creator>박정훈 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 23 Jun 2025 05:15:43 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OMQYAKXXB3KP6XBAVWGN5GMKHA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 관악구 서울대학교 정문의 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울대가 최근 미국 트럼프 정부의 외국인 유학생 제한 조치에 대한 대응책으로 국제 공동연구 지원과 해외 인재 유치 정책을 확대한다고 23일 밝혔다.&lt;br&gt;&lt;br&gt;이날 서울대는 그간 BK21 사업단 소속 대학원생들에게만 열려 있던 ‘대학원생 국제 공동연구 지원’ 프로그램을 올해 하반기부터 일반 대학원생에게도 확대한다고 밝혔다. 대학원생 국제 공동연구 지원 프로그램이란 서울대 대학원생들이 외국대학과 국제공동연구를 할 때 해외 체류비나 항공료 등을 지원해주는 프로그램이다. &lt;br&gt;&lt;br&gt;또 서울대는 그간 국내연구에만 제한돼있던 박사후연구원(포닥) 지원 체계를 내년부터 확대해 국제공동연구팀을 구성할 때도 활동비나 연구비 등을 지원할 수 있게 한다. 서울대는 올해 3월부터 박사과정을 마친 해외 인재를 유치하기 위한 펠로우십 사업도 실시하고 있다고 덧붙였다.&lt;br&gt;&lt;br&gt;서울대 관계자는 “최근 미국 정부의 외국인 유학생 등록 제한 조치 등으로 어려움을 겪고 있는 미국 내 대학원생, 교수, 박사후연구원 등 세계 수준의 연구인력을 영입하는 효과가 있을 것으로 기대한다”고 했다. &lt;br&gt;&lt;br&gt;한편 유홍림 서울대 총장은 지난 21일 미국 미네소타주 세인트폴에서 열린 미네소타 프로젝트 70주년 기념 워크숍에서 “글로벌 연구 여건이 어려워진 상황이지만 국제 공동연구 협력과 교류를 활성화하고 해외 인재를 유치하는데 적극 대처할 것”이라고 밝혔다. 미네소타 프로젝트는 한국전쟁 직후 미국 대외원조기구인 국제개발처(USAID)가 실시한 ‘서울대 재건 사업’을 이른다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[속보] 회생법원, 티몬 회생계획안 강제인가…오아시스 티몬 인수</title>
+      <link>https://www.chosun.com/national/court_law/2025/06/23/WCBR3A7FBJFCHCFBL6HFDYFYFY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/23/WCBR3A7FBJFCHCFBL6HFDYFYFY/</guid>
+      <dc:creator>김나영 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 23 Jun 2025 04:39:34 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AC7UN777DUN5O52UFJB4VBMJ7Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울회생법원이 23일 티몬의 회생계획안을 강제인가했다고 밝혔다. 사진은 한 시민이 서울 강남구 티몬 본사 앞을 지나가고 있는 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;작년 7월 대규모 미정산 사태를 빚고 기업회생 절차를 밟고 있는 온라인 쇼핑몰 티몬에 대해 법원이 강제인가 결정을 내렸다. 이에 따라 신선식품 새벽 배송 전문 기업 오아시스가 티몬을 인수하게 됐다.&lt;br&gt;&lt;br&gt;23일 서울회생법원 제3부(재판장 정준영 법원장)는 “티몬의 회생계획에 대해 강제인가를 결정했다”고 밝혔다. 강제인가는 법정관리에 들어간 기업에 대한 회생계획안이 부결되더라도, 법원이 직권으로 회생계획을 승인할 수 있는 제도다. 앞서 지난 20일 티몬 관계인 집회에서 티몬의 회생계획안이 부결된 바 있는데, 법원에서 사흘 만에 강제인가 결정을 내린 것이다.&lt;br&gt;&lt;br&gt;법원은 “티몬이 회생채권자 의결권 총액의 절반 이상이 회생계획안에 동의하고 있는 점, 회생계획 인가 전 성사된 인수·합병(M&amp;amp;A)를 통해 인수대금이 모두 납입되어 회생계획안 수행가능성이 매우 높은 점 등을 종합해 보면 회생계획안을 인가하는 것이 회생담보권자, 회생채권자, 근로자 및 기타 모든 이해관계인의 이익에 부합한다고 판단했다”고 설명했다.&lt;br&gt;&lt;br&gt;티몬이 지난달 22일 법원에 제출한 회생계획안에는 오아시스의 인수대금 116억원으로 채권을 변제하는 계획이 담겼다. 회생계획안이 통과되려면 회생담보권자 75％ 이상, 회생채권자 66％ 이상의 동의가 필요하다. 지난 집회에서 회생담보권자는 100%가 동의했지만, 회생채권자 동의율이 요건에 못 미쳤다. 법원은 앞서 채권자를 중소상공인·소비자로 이뤄진 상거래채권자와 그 외 일반 회생채권자 등 2개 조로 나눴다. 일반 회생채권자 중 82.2%가 찬성했지만 상거래채권자 동의율이 43.5%에 그쳤다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>나뭇잎 아니었어?…비오자 北서 떠내려온 이것 “절대 접촉 불가”</title>
+      <link>https://www.chosun.com/national/national_general/2025/06/23/F3DGJAIUR5CAZNJ7KN3VCEWXSM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/23/F3DGJAIUR5CAZNJ7KN3VCEWXSM/</guid>
+      <dc:creator>이가영 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 23 Jun 2025 04:02:01 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QUBUMEX7NBAY3LIEWE2DVNZJUA.png"&gt;&lt;figcaption&gt;&lt;small&gt;북한의 나뭇잎 지뢰가 매설된 모습(왼쪽)과 나뭇잎 지뢰 모형. /육군참모본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;올해 여름 장마철 강수량이 예년 대비 많을 것으로 예보된 가운데, 군 당국이 북한 접경지에 매설된 지뢰가 집중호우 시 남쪽으로 흘러올 수 있다며 주의를 당부했다. 지난해 군사분계선(MDL) 일대 국경화 작업에 매진했던 북한은 공사 과정에서 다량의 지뢰를 추가 매설한 것으로 전해졌다. &lt;br&gt;&lt;br&gt;합동참모본부는 22일 “북한군이 지뢰를 매설한 지역 중 일부는 임진강, 한탄강, 화강, 북한강, 인북천 등 남북 공유 하천과 한강 하구로 연결돼 있다”며 “집중호우가 발생할 경우 북측 지뢰가 유실돼 우리 지역으로 유입될 우려가 있다”고 밝혔다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BHGOLPBVOJGS5BDFY5FXAIH2OM.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=조선디자인랩 김영재&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;군은 특히 지뢰일 수 있는 물체를 식별할 수 있도록 과거 북한에서 유실된 지뢰 사진을 함께 공개했다. 목함지뢰와 수지재(PMN) 반보병지뢰, 나뭇잎지뢰 등이다. 이 지뢰들은 금속 지뢰 탐지기에 잘 탐지되지 않고, 일반인이 지뢰 여부를 식별하기 어려워 인명 피해 우려가 높은 것으로 알려졌다. &lt;br&gt;&lt;br&gt;2015년 북한군이 매설한 목함지뢰를 밟은 육군 하사는 양쪽 다리 무릎 부분을 잘라야 했다. 함께 수색 작전을 하던 다른 육군 하사도 목함지뢰 폭발로 오른쪽 발목을 절단했다. 민간인들이 목함지뢰를 호기심으로 만져 죽거나 다친 사례도 있는 것으로 전해졌다. &lt;br&gt;&lt;br&gt;합참은 남북 공유 하천 인근에서 활동 시 북한의 유실 지뢰에 유의하라며 “해당 지역에서 지뢰로 추정되는 미상 물체를 발견하면 절대로 접촉하지 말고, 가까운 군부대나 경찰서에 신고해 달라”고 당부했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/2Z6LUAK5IBBFFNVBIAODK3TNSQ.png?auth=ef189ea7277225cf07f9771b360079deeb660fdf203942ae1696544ff5c4c291&amp;smart=true&amp;width=1024&amp;height=380" type="image/png" height="380" width="1024">
+        <media:description type="plain">북한의 나뭇잎 지뢰가 매설된 모습(왼쪽)과 나뭇잎 지뢰 모형. /육군참모본부</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>3100억대 도박 자금 세탁해 수수료 11억 챙긴 일당 8명 입건</title>
+      <link>https://www.chosun.com/national/incident/2025/06/23/5FPAGS4Z5FDXXB7HXWPNUUE5WY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/06/23/5FPAGS4Z5FDXXB7HXWPNUUE5WY/</guid>
+      <dc:creator>이승규 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 23 Jun 2025 05:01:02 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4NHQCXNAEYBPMEATMFKC5EKHSY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;도박 자금을 세탁한 일당을 체포해 압수한 현금과 명품시계./경북경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;불법 도박사이트로 입금되는 도박 자금을 세탁하는 대가로 10억대 수수료를 챙긴 일당 8명이 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;경북경찰청 형사기동대는 범죄수익은닉 규제법 위반 등 혐의로 20대 남성 A씨 등 8명을 입건하고 이중 A씨를 비롯해 3명을 구속했다고 23일 밝혔다.&lt;br&gt;&lt;br&gt;A씨 등은 지난해 9월부터 이달 16일까지 대포통장으로 받은 도박자금 3100억원을 유령법인 계좌 등으로 이체해 정상적인 거래가 이뤄진 것처럼 세탁한 후 수수료 명목으로 11억 5300만원을 챙긴 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;A씨 등은 경찰의 추적을 방해하기 위해 메신저 프로그램인 텔레그램을 활용하고, 수개월마다 오피스텔과 아파트를 옮겨다닌 것으로 조사됐다.&lt;br&gt;&lt;br&gt;경찰은 A씨 등에게 대포통장을 제공한 도박 조직인 20대 B씨에 대한 첩보를 입수하면서 수사에 착수했다. B씨를 상대로는 범죄수익으로 추정되는 현금 3억 9500만원과 명품시계를 압수했다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “불법 도박사이트나 보이스피싱 관련 범죄를 지속적으로 단속하고 엄정히 수사하겠다”며 “이번주 중으로 A씨 등을 검찰에 송치할 방침”이라고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>한강버스, 7월 1일부터 시민 체험 운항 개시…9월 정식 운항</title>
+      <link>https://www.chosun.com/national/national_general/2025/06/23/GQC6HILGYFC4ZAQILPMC47LTPM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/23/GQC6HILGYFC4ZAQILPMC47LTPM/</guid>
+      <dc:creator>김영우 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 23 Jun 2025 04:57:49 +0000</pubDate>
+      <content:encoded>서울시가 한강에 도입되는 수상 대중교통 ‘한강버스’에 체험 탑승할 시민 체험단을 24일부터 모집한다고 23일 밝혔다. 체험단은 다음 달 1일부터 한강버스에 타볼 수 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/STW22G4EFNRIH64OEWIPXK7OZU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울시 한강버스가 한강을 지나가고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한강버스는 한강에 도입되는 수상 대중교통이다. 마곡·망원·여의도·옥수·압구정·뚝섬·잠실 등 7개 선착장을 오간다.&lt;br&gt;&lt;br&gt;앞서 한강버스 선박 2척이 지난해 11월 경남 사천에서 진수됐고, 안전·성능 검사와 시범 운항 등을 거쳤다.&lt;br&gt;&lt;br&gt;시민 체험단 참가 신청은 24일 오전 10시부터 탑승 체험 신청 홈페이지에서 할 수 있다. 서울시민이 아니더라도 누구나 신청할 수 있다. 이름과 성별, 연락처 등을 등록하면 된다.&lt;br&gt;&lt;br&gt;체험 탑승은 매주 화·목·토요일에 진행된다. 화요일과 목요일에는 오후 2시와 오후 7시 두 번씩, 토요일에는 오후 2시에 한 번 여의도에서 잠실까지 중간 정박 없이 편도로 운항한다.&lt;br&gt;&lt;br&gt;서울시 관계자는 “폭우나 범람 등으로 운항을 할 수 없게 되면 4시간 전에 운항 취소 문자를 발송할 예정”이라고 했다.&lt;br&gt;&lt;br&gt;탑승객들을 위해 여의도와 잠실 선착장에는 포토존을 설치하고, 체험 후 소셜 미디어에 후기를 작성한 탑승객들에겐 추첨을 통해 경품도 제공한다.&lt;br&gt;&lt;br&gt;박진영 서울시 미래한강본부장은 “한강버스에 관심 있는 모든 분의 많은 신청을 부탁드린다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>尹측 “내란 특검법 위헌...헌재에 문제 제기할 것”</title>
+      <link>https://www.chosun.com/national/court_law/2025/06/23/XPZCHPKOCNGD5IS4ETHSV35DJQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/23/XPZCHPKOCNGD5IS4ETHSV35DJQ/</guid>
+      <dc:creator>김은경 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 23 Jun 2025 04:33:59 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CFHE3OZXKRMXHIVWBRABYCBCQE.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령이 지난 16일 오전 서울 서초구 서울중앙지방법원에서 열린 내란 우두머리 혐의·직권남용 권리행사 방해 혐의 사건 7차 공판에 출석하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 전 대통령의 내란·외환 혐의를 수사하는 내란 특별검사팀이 윤 전 대통령의 내란 우두머리 혐의 재판에 나와 “신속한 재판을 요청한다”고 했다. 윤 전 대통령 측은 “내란 특검법은 위헌”이라며 반발했다.&lt;br&gt;&lt;br&gt;서울중앙지법 형사25부(재판장 지귀연)는 23일 윤 전 대통령의 내란 우두머리·직권남용 권리행사방해 혐의 8번째 재판을 열었다. 조은석 내란 특검팀이 검찰 특별수사본부로부터 이 사건을 넘겨받은 뒤 처음 열린 재판이다.&lt;br&gt;&lt;br&gt;이날 박억수 특검보는 법정에 나와 “특검법에 의해 사건을 인수해 앞으로 특검에서 공소 유지를 담당한다”며 “특별수사본부 등이 확보한 증거 자료와 이후 특검 수사과정에서 확보될 증거를 토대로 사건의 실체적 진실을 낱낱이 규명할 예정”이라고 말했다.&lt;br&gt;&lt;br&gt;박 특검보는 이어 “재판부 나름의 고충이 있겠지만 현재 공소 제기로부터 5개월이 지나 구속된 피고인의 석방이 임박하는 등 법 집행 지연에 대한 우려가 많다”며 “재판을 지금보다 더 신속히 진행해주실 것을 정중히 요청한다”고 했다.&lt;br&gt;&lt;br&gt;윤 대통령 측은 “내란 특검법은 위헌”이라며 재판을 그대로 진행해서는 안 된다고 반발했다. 윤 대통령 측 위현석 변호사는 “특정 정치세력이 주도해 특검을 추천하고 같은 당 소속 대통령이 임명한 뒤 수사권을 재차 행사하는 것은 역사적 전례가 없다”며 “공정한 재판을 받을 권리에 직접적인 영향을 미친다”고 지적했다.&lt;br&gt;&lt;br&gt;위 변호사는 “특검법은 기존 수사기관이 기능을 수행하지 못하는 경우에만 허용되는 일시적 장치”라며 “이미 수사를 하고 기소가 된 사건에서 검찰을 끌어내고 다른 소추 기관이 검찰권을 행사할 입법적 정당성이 있는지 의문”이라고 했다. &lt;br&gt;&lt;br&gt;윤 대통령 측은 특검법 조항을 조목조목 문제 삼았다. 위 변호사는 “특검법은 수사 대상을 무한히 확장하는 내용이어서 위헌”이라며 “수사·재판을 방해하거나 지연하는 것도 수사 대상으로 삼는데 이는 명확성 원칙에 반한다”고 했다. &lt;br&gt;&lt;br&gt;특검법에 규정된 재판 관할 변경을 두고도 “특검이 요구하면 군사재판도 일반 재판으로 끌어올 수 있는데 이는 재판부를 특검이 결정한다는 것”이라며 “대통령도 국회의장도, 헌법재판소장도, 대법원장도 이런 일을 할 수는 없다”고 했다. 특검에 너무 많은 재량을 부여하고 있다는 것이다. 윤 대통령 측은 이에 대해 헌법재판소에 법률적 문제를 제기하겠다고 했다. &lt;br&gt;&lt;br&gt;윤 대통령 측은 박 특검보가 재판에 나온 것을 두고 “특검이 기존 사건 공소 유지까지 할 수 있도록 한 것은 공정한 재판을 받을 권리를 정면으로 침해하는 것”이라고 했다. 또 “검찰에서 사건을 특검에 이첩했다는 서류도 받아보지 못했다”며 “(마치)변호인이 선임계도 제출하지 않고 재판에 온 것”이라고도 했다.&lt;br&gt;&lt;br&gt;재판부는 “이후에 헌법을 위반한 문제가 확인되면 기일을 다시 진행하게 돼 있다”며 “양측이 제출한 의견서를 읽어보고 법령을 검토한 뒤 말씀드리겠다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“수사 기관입니다”… 수사기관 사칭해 8억 가로챈 보이스피싱 수거책 구속</title>
+      <link>https://www.chosun.com/national/incident/2025/06/23/7FAMIFM3UJDBNLW4YNLXLCRQTA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/06/23/7FAMIFM3UJDBNLW4YNLXLCRQTA/</guid>
+      <dc:creator>강릉=정성원 기자</dc:creator>
+      <description>수사 기관 등을 사칭해 8억원을 가로챈 보이스피싱 현금 수거책이 구속됐다.
+강원 강릉경찰서는 전기통신금융사기 피해 방지 및 피해금 환급에 관한 특별법 위반 혐의로 20대 A씨를 구속했다고 23일 밝혔다.
+</description>
+      <pubDate>Mon, 23 Jun 2025 04:24:34 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JET2K7BNRBCBRA4F6JU4WGC2G4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰이 압수한 수표/연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;수사 기관 등을 사칭해 8억원을 가로챈 보이스피싱 현금 수거책이 구속됐다.&lt;br&gt;&lt;br&gt;강원 강릉경찰서는 전기통신금융사기 피해 방지 및 피해금 환급에 관한 특별법 위반 혐의로 20대 A씨를 구속했다고 23일 밝혔다. 또 20대 B씨를 같은 혐의로 불구속 입건해 수사하고 있다.&lt;br&gt;&lt;br&gt;A씨 등은 카드 배송 기사와 수사기관을 사칭해 “범죄에 연루된 돈을 검사한 뒤 돌려주겠다”는 수법으로 피해자 6명에게서 8억원가량을 가로챈 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;경찰은 이달 중순쯤 피해자 신고를 접수받고 방범카메라(CCTV) 분석 등을 통해 경기 일산과 부천에서 이들을 차례로 검거했다. 경찰은 수사 과정에서 피해액 6억 9600만원을 압수하기도 했다.&lt;br&gt;&lt;br&gt;수사 결과 A씨는 확인된 여죄만 20건에 달하는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “나머지 피해액에 대해서도 추적 중”이라며 “최근 카드 배송 기사와 수사 기관을 사칭해 접근하는 보이스피싱이 기승을 부리는 만큼 주의가 필요하다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>경찰, ‘개인정보 유출’ 한국연구재단 해킹 사건 수사 착수</title>
+      <link>https://www.chosun.com/national/regional/2025/06/23/E7LYE2MNQ5CD3EUEX7CIJYPL4U/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/06/23/E7LYE2MNQ5CD3EUEX7CIJYPL4U/</guid>
+      <dc:creator>우정식 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 23 Jun 2025 04:22:24 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4ROETED57FDFPGUG5CSYDINBNU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대전경찰청 전경 /조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰이 지난 6일 개인정보가 유출된 한국연구재단 ‘온라인 논문 투고 시스템’(jams.or.kr) 해킹 사건에 대한 수사에 나섰다.&lt;br&gt;&lt;br&gt;대전경찰청 사이버범죄수사대는 지난 16일 한국연구재단으로부터 개인정보 유출 신고를 접수해 수사에 착수했다고 23일 밝혔다.&lt;br&gt;&lt;br&gt;경찰은 ‘온라인 논문 투고시스템’ 잼스에 대한 해킹 공격과 관련해 접속로그 경로를 분석하고 인터넷프로토콜(IP) 주소를 추적하는 등 증거 자료 확보에 나섰다. &lt;br&gt;&lt;br&gt;잼스는 국내 학술단체들의 논문 접수부터 심사, 출판까지의 과정을 온라인으로 처리할 수 있도록 한국연구재단이 개발 및 보급한 시스템이다. 현재 1553개 학회가 잼스를 이용하고 있는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;앞서 한국연구재단 측은 지난 12일 ‘온라인 논문 투고시스템’ 해킹 공격으로 12만건의 회원 개인정보 유출을 확인했다’고 개인정보보호위원회에 신고했다. 이는 전체 회원 수 79만명 중 15%에 해당하는 규모다.&lt;br&gt;&lt;br&gt;재단 측은 또 별도 공지를 통해 “정밀 점검 결과, 개인정보가 유출된 사실을 확인했다”며 “유출된 개인정보는 성명, 생년월일, 연락처, 이메일 주소, 계정 ID 등”이라고 피해 내용을 알렸다.&lt;br&gt;&lt;br&gt;개인정보위도 개인정보 유출 사안에 대해 별도 조사에 착수한 상태다. 현장 조사 등을 통해 구체적인 유출 경위, 피해 규모, 안전조치 의무 및 유출 통지·신고 의무 등 개인정보보호법 준수 여부를 파악하고, 위반 사항이 확인되면 관련 법에 따라 처분할 예정이다.&lt;br&gt;&lt;br&gt;해킹 사건 이후 보안 점검으로 한때 ‘온라인 논문 투고시스템’의 접속 오류가 잇따랐으나, 이번 해킹 공격에 따른 2차 피해는 현재까지 파악되지 않은 것으로 전해졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>안산시 공무원, 도시정보센터 재직 시 뇌물 수수 의혹…경찰, 압수수색 나서 </title>
+      <link>https://www.chosun.com/national/incident/2025/06/23/LNS4BV7N3VESFKOGNOHLWPWJQ4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/06/23/LNS4BV7N3VESFKOGNOHLWPWJQ4/</guid>
+      <dc:creator>안산=김현수 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 23 Jun 2025 04:00:14 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/S4JNNA63IJHXYPIIBJ7DXGEVSU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 안산시 소속 공무원이 민간 사업체로부터 뇌물을 수수했다는 의혹이 제기돼 경찰이 압수수색에 나섰다.&lt;br&gt;&lt;br&gt;안산상록경찰서는 23일 오전 9시 안산시 상록구청 행정지원과 사무실, 안산도시정보센터, 민간 사업체, 피의자 주거지 등 총 6곳에 수사관 20명을 투입해 강제 수사를 벌였다.&lt;br&gt;&lt;br&gt;수사 대상은 상록구청 소속 6급 공무원 A씨로, 과거 안산도시정보센터 재직 당시 지능형교통체계(ITS) 사업과 관련해 특정 민간 업체에 편의를 제공하고 수천만원 상당의 금품을 받은 혐의를 받는다.&lt;br&gt;&lt;br&gt;경찰은 A씨 외에도 해당 민간 업체 관계자 B씨를 함께 형사 입건했으며, 지난 4월 관련 첩보를 입수하고 본격 수사에 착수한 것으로 알려졌다. 압수물 분석이 마무리되는 대로 피의자 소환 조사를 이어갈 방침이다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>[속보] 김건희 특검 “8개 팀이 2건씩 맡아 수사”</title>
       <link>https://www.chosun.com/national/court_law/2025/06/23/NH32YUFSURG55JN3E674SDFPVQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/23/NH32YUFSURG55JN3E674SDFPVQ/</guid>
@@ -646,60 +732,6 @@
       <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VMI755WKQ4AQLZOTAOZC4MNGDU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;조은석 내란 특별검사 /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 전 대통령의 내란·외환 혐의를 수사하는 조은석 특별검사가 법원에 김용현 전 국방부 장관을 추가 기소하고 재구속해달라고 한 데 대해, 김 전 장관 측이 이의신청을 했으나 법원이 받아들이지 않기로 했다.&lt;br&gt;&lt;br&gt;조 특검은 21일 김 전 장관이 이날 오전 0시 30분쯤 김 전 장관 측이 신청한 집행정지 신청을 법원이 기각했다고 밝혔다.&lt;br&gt;&lt;br&gt;조 특검은 지난 18일 김 전 장관을 위계에 의한 공무집행방해와 증거인멸교사 혐의로 추가 기소하고 법원에 구속영장을 다시 발부해달라고 했다. 오는 26일에 1심 구속기한 6개월이 끝나는 김 전 장관의 신병을 확보하려 한다는 분석이 나왔다.&lt;br&gt;&lt;br&gt;이에 김 전 장관 측은 “조 특검이 임명된 지 불과 6일 만에 김 전 장관의 기존 (내란) 사건과 무관한 별건 혐의로 신규 공소를 제기하고 구속영장 청구까지 시도했다. 특검의 직무범위를 이탈한 위법행위”라며 서울고법에 이의신청과 집행정지를 신청했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>주말 도심서 양대노총 집회·아리셀 참사 1주기 추모 등 집회 이어져</title>
-      <link>https://www.chosun.com/national/national_general/2025/06/21/PPIO4X3OZRGCDF5RJHTG72NIGM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/21/PPIO4X3OZRGCDF5RJHTG72NIGM/</guid>
-      <dc:creator>구아모 기자</dc:creator>
-      <description/>
-      <pubDate>Sat, 21 Jun 2025 10:41:29 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HP3ZRAGLDNO4TP2OU6UJYBGQ74.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;21일 서울 종로구 광화문에서 한국노총과 민주노총 소속 공공기관 노조가 공동 참가한 총력 투쟁 결의대회에 집회 참석 노조의 깃발들이 입장하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;토요일인 21일 서울 도심 곳곳에서 집회와 추모 행사가 잇따라 열렸다.&lt;br&gt;&lt;br&gt;서울 종로구 광화문 서십자각에서는 한국노총과 민주노총 등 공공부문 노동조합이 총력 투쟁 결의 대회를 열고 공공기관 노동자 처우 개선 등을 촉구했다. 현장에는 약 1만명(경찰 비공식 추산)이 모였으며, 참가자들은 “노동 3권 보장” 등의 구호를 외쳤다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5O4QBDPXFJNCRCZR432GV2AUJA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;21일 서울역 광장에서 아리셀 중대재해참사 1주기 추모대회가 열리고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울역 광장에서는 지난해 6월 발생한 ‘아리셀 화재 참사’ 1주기를 맞아 추모 대회가 열렸다. 유족들과 시민 약 300명이 참석한 가운데, 불교·개신교·천주교 3대 종단의 추도제가 진행됐고, 하늘색 조화를 헌화하며 희생자들을 기렸다. 대책위는 “책임자 처벌과 중대재해처벌법 실효성 확보가 필요하다”고 밝혔다.&lt;br&gt;&lt;br&gt;진보 성향 단체 ‘촛불행동’은 서초동 아크로비스타 인근에서 윤석열 전 대통령과 김건희 여사의 구속을 촉구하는 집회를 열었다. 같은 시각, 서울중앙지검 앞에는 보수 성향 유튜버들이 모여 이재명 대통령 관련 재판을 언급하며 맞불 집회를 벌이기도 했다.&lt;br&gt;&lt;br&gt;종로구 동화면세점 앞에서는 자유통일당과 전광훈 목사 측이 주최한 집회도 열려 “부정선거 척결하라” 등의 발언이 나왔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>광주·전남 거센 장맛비...곳곳서 비 피해 속출</title>
-      <link>https://www.chosun.com/national/regional/honam/2025/06/21/DSVES24CKVFZJFEM6T2HFX437Q/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/honam/2025/06/21/DSVES24CKVFZJFEM6T2HFX437Q/</guid>
-      <dc:creator>신정훈 기자</dc:creator>
-      <description/>
-      <pubDate>Sat, 21 Jun 2025 08:52:07 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/72ESN3C3WBNCJCXAOE2EP2KFFE.JPG"&gt;&lt;figcaption&gt;&lt;small&gt; 21일 오전 9시쯤 전남 담양군 창평면 한 마을에서 하천이 범람해 소방당국이 안전조치를 하고 있다. (전남소방 제공)/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;장맛비가 내린 광주·전남 곳곳에서 비 피해가 속출하고 있다.&lt;br&gt;&lt;br&gt;21일 광주지방기상청에 따르면 전날부터 누적 강수량은 영광 안마도 143.2㎜, 곡성 옥과 120.5㎜, 담양 봉산 112㎜, 광주 110.7㎜ 등을 기록하고 있다.&lt;br&gt;&lt;br&gt;많은 비가 내리면서 담양·광양·곡성·구례·영광·장성 등 6개 시군에 산사태 주의보가 발령돼 담양·곡성·장성 14개 마을 55가구 79명이 대피했다.&lt;br&gt;&lt;br&gt;비 피해 신고도 잇따르고 있다. &lt;br&gt;&lt;br&gt;광주에서는 나무 쓰러짐, 도로 침수, 토사 유출, 맨홀 이탈, 담장 무너짐 등 총 44건의 신고가 접수돼 안전 조치를 완료했다. 전남에서도 나무쓰러짐과 배수 지원 등 모두 18건의 신고가 접수됐다. 다행히 인명피해는 발생하지 않았다. &lt;br&gt;&lt;br&gt;많은 비가 내리면서 광주에서는 하천 진출입로 336곳, 징검다리 57곳, 둔치 주차장 11개소 등 총 449개소 위험지역 통행이 통제 중이며, 전남은 천변도로 8곳, 둔치 주차장 21곳, 산책로 10곳, 징검다리 6곳 등의 통행을 제한하고 있다.&lt;br&gt;&lt;br&gt;하늘길과 바닷길도 막혔다. &lt;br&gt;&lt;br&gt;완도·목포 등 4개 항로 5척의 여객선이 운항을 멈췄다.광주공항에서는 5개 항공편의 출발·도착이 지연됐고, 여수공항은 6개 항공편이 취소됐다.&lt;br&gt;&lt;br&gt;기상청은 22일까지 광주·전남에 30~80㎜, 많은 곳(광주·전남 북부)은 100㎜ 이상의 폭우가 내릴 가능성이 있다며 비 피해에 각별한 주의를 당부했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>접근금지 풀리자 아내 살해한 남성 “난 잘했다, 미안한 거 없다”</title>
-      <link>https://www.chosun.com/national/national_general/2025/06/21/WUBC4ZXGKVE6VHPCXPDC3TQKFU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/21/WUBC4ZXGKVE6VHPCXPDC3TQKFU/</guid>
-      <dc:creator>김명일 기자, 이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Sat, 21 Jun 2025 07:54:01 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ENIHG67MTFOFJEIR6AODN77U7M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원의 접근금지 명령이 종료된 지 일주일 만에 아내를 찾아가 흉기로 살해한 60대 남성이 21일 오후 구속심사를 받기 위해 법원에 출석하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;가정폭력으로 법원의 접근금지 명령 기간이 끝난 지 일주일 만에 아내를 찾아가 흉기로 살해한 60대 남성이 21일 구속 심사를 받기 위해 법원에 출석해 “난 잘했다고 여긴다”고 말했다. &lt;br&gt;&lt;br&gt;살인 혐의를 받는 60대 A씨는 이날 구속 전 피의자 심문(영장실질심사)이 열리는 인천지법에 출석해 기자들에게 “한번 방문해주시면 (아내를 살해한 이유를) 제가 다 설명하겠다”고 했다.&lt;br&gt;&lt;br&gt;접근금지 조치가 끝나자마자 아내가 있는 집을 찾아간 이유에 대해서는 “내 집인데 내가 들어가야지 내가 어디 가서 살겠느냐”고 했다.&lt;br&gt;&lt;br&gt;‘남은 가족에게 미안하지 않으냐’는 취재진 질문에는 “남은 가족도 아들 하나라 미안한 거 없다”고 했다.&lt;br&gt;&lt;br&gt;이기웅 인천지법 당직 판사는 이날 오후 A씨의 구속 전 피의자 심문(영장실질심사)을 진행한 뒤 “도주할 우려가 있다”며 구속영장을 발부했다.&lt;br&gt;&lt;br&gt;A씨는 지난 19일 오후 4시 30분쯤 인천시 부평구 한 오피스텔 현관 앞에서 60대 아내 B씨를 흉기로 여러 차례 찔러 살해한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;그는 지난해 12월 법원으로부터 B씨 주변 100m 이내 접근금지와 연락 제한 등 임시 조치 명령을 받았고, 이달 12일 조치 기간이 종료된 뒤 일주일 만에 범행했다.&lt;br&gt;&lt;br&gt;A씨는 지난 16일에도 해당 오피스텔로 찾아갔으나 B씨를 만나지는 못했고, 범행 전날인 18일 재차 아내를 찾아간 것으로 전해졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>주말 출근한 민중기 특검 “수사 개시 시점 특검보들과 논의 중”</title>
-      <link>https://www.chosun.com/national/court_law/2025/06/21/VJPJMAMJLZF5DDLHCHHFKWAWPE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/21/VJPJMAMJLZF5DDLHCHHFKWAWPE/</guid>
-      <dc:creator>박강현 기자</dc:creator>
-      <description/>
-      <pubDate>Sat, 21 Jun 2025 06:08:54 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Q6IZDRW35XNEYK7S5E55BGE7NQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;민중기 특별검사. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 전 대통령 배우자 김건희 여사 의혹을 수사하는 민중기(66·사법연수원 14기) 특별검사가 21일 “수사 개시 시점은 특검보들과 논의하고 있다”고 밝혔다.&lt;br&gt;&lt;br&gt;민 특검은 이날 서울 서초구 변호사 임시 사무실로 출근하며 ‘수사 개시는 언제쯤 할 계획인가’라는 질문에 이같이 답했다. 그러면서도 어떤 의혹부터 수사할지, 김 여사가 대면 조사에 불응할 시 체포영장을 검토할 것인지 등에 대해선 말을 아꼈다.&lt;br&gt;&lt;br&gt;이날 사무실에는 민 특검을 비롯해 특검보들과 파견 검사 일부가 출근해 각자 맡은 의혹에 대한 기록을 검토하는 것으로 알려졌다. 민 특검과 특검보 등은 22일에도 출근할 계획인 것으로 전해졌다.&lt;br&gt;&lt;br&gt;앞서 민 특검팀은 법무부에 파견 요청한 부장검사 5명 중 개인 사정이 있는 1명을 제외한 4명이 전날(20일) 처음 합류·출근하며 본격 가동에 들어갔다. 같은 날 민 특검은 법무부에 수사 실무를 담당할 남철우 청주지검 형사3부장, 이정훈 서울중앙지검 조세범죄조사부 부부장검사 등 검사 28명의 추가 파견을 요청하기도 했다.&lt;br&gt;&lt;br&gt;이번 ‘김건희 특검’은 그동안 제기된 김 여사 관련 의혹을 망라해 수사하도록 했다. 검찰이 무혐의 처분한 도이치모터스 주가조작 의혹 사건과 코바나컨텐츠 뇌물성 협찬 의혹 사건을 포함해 명품 가방 수수 의혹, 서울~양평 고속도로 노선 변경 특혜 의혹, 양평 공흥지구 개발 특혜 의혹, 명태균·건진법사 국정 개입 의혹, 윤 전 대통령 부부의 공천 개입 의혹 등 총 16가지가 수사 대상이다. &lt;br&gt;&lt;br&gt;민 특검팀은 최대 205명(특검 1명·특검보 4명·파견검사 40명·파견 공무원 80명·특별수사관 80명)으로 꾸려질 예정이다. 민 특검은 조만간 수사팀을 구성하고 사건 쟁점을 파악한 뒤 본격 수사에 착수할 전망이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>침묵 깬 아스카 키라라 “한국 아이돌과 성매매? 그런 일 없었다”</title>
-      <link>https://www.chosun.com/national/national_general/2025/06/21/L3VVL62QS5EOBJDQNSH4T7H64A/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/21/L3VVL62QS5EOBJDQNSH4T7H64A/</guid>
-      <dc:creator>김명일 기자</dc:creator>
-      <description/>
-      <pubDate>Sat, 21 Jun 2025 06:41:14 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5JHYOFMEC7LS6C45PDK6XFS4EI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;주학년과 아스카 키라라. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;일본 AV(성인 비디오) 배우 출신 인플루언서 아스카 키라라(37)가 그룹 더보이즈 출신 주학년(26)과의 성매매 의혹을 부인했다. &lt;br&gt;&lt;br&gt;의혹이 불거진 후 침묵을 지켰던 아스카 키라라는 21일 자신의 소셜미디어를 통해 “사적으로 돈을 받고 성관계를 한 적은 인생에서 한 번도 없다”고 직접 입장을 밝혔다. &lt;br&gt;&lt;br&gt;한 일본 매체에 주학년과 함께 찍은 사진이 보도된 것에 대해서는 “그 자리에 있던 처음 만난 여성이 주학년씨를 좋아한 것 같았다”며 “그 여성이 사진을 찍어 매체에 팔았다”고 주장했다.&lt;br&gt;&lt;br&gt;주학년은 지난 18일 아스카 키라라와 사생활 논란에 휩싸이며 더보이즈에서 퇴출됐다. 한 매체는 주학년의 성매매 의혹을 제기하기도 했다.&lt;br&gt;&lt;br&gt;이후 주학년은 “소속사는 사적인 자리에서 유명한 사람과 동석했다는 이유만으로 저를 팀에서 일방적으로 축출했다”며 “성매매를 했다는 증거가 있다면 지금 즉시 공개해 주시기 바란다”고 했다.&lt;br&gt;&lt;br&gt;주학년은 2017년 방송된 Mnet 오디션 예능 ‘프로듀스 101 시즌2’를 통해 인기를 얻으며 같은 해 12월 더보이즈로 데뷔했다. &lt;br&gt;&lt;br&gt;아스카 키라라는 2007년 AV 배우로 데뷔한 뒤 2020년까지 활동했으며, 현재는 은퇴 후 인플루언서로 활동 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>전북 지역 장밧비 피해 속출...인명피해는 없어</title>
-      <link>https://www.chosun.com/national/regional/honam/2025/06/21/JTPXA2LW6NEHRFA2WKME4LJ2NE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/honam/2025/06/21/JTPXA2LW6NEHRFA2WKME4LJ2NE/</guid>
-      <dc:creator>신정훈 기자</dc:creator>
-      <description/>
-      <pubDate>Sat, 21 Jun 2025 05:52:59 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2HMFZURXTJLKBNC2Z43WBSNQ3M.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;21일 오전 전북 무주군 안성면에서 집중호우로 인해 나무가 창고 위로 쓰러져 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전북 전역에서 장맛비에 피해가 잇따르고 있다. &lt;br&gt;&lt;br&gt;21일 전북특별자치도에 따르면 이날 오후 1시 기준으로 익산 함라 161mm, 군산 153㎜, 남원 117㎜, 순창 105㎜, 전주 87㎜ 등 도내 평균 105㎜의 강수량을 기록했다. &lt;br&gt;&lt;br&gt;도내 14개 시군에 호우주의보가 발령된 상태다. 많은 비가 내리자 장수, 남원, 고창, 진안, 완주, 김제에 산사태 주의보가 내려졌고, 남원시 보절면 주민 2명이 만약을 대비해 시내권으로 대피했다.&lt;br&gt;&lt;br&gt;피해 신고도 잇따르고 있다. &lt;br&gt;&lt;br&gt;군산 시내 한 아파트 지하배수펌프장과 인근 식당이 침수됐고, 부안에서는 논콩 5ha가 물에 잠겼다.폭우와 강풍으로 인해 나무 쓰러짐 28건, 신호기 고장 4건, 도로 침수 4건 등이 발생했다.&lt;br&gt;&lt;br&gt;전북지역에는 이날 늦은 저녁까지 동부권을 중심으로 30~80mm, 많은 곳은 100mm 이상 더 내릴 것으로 예보됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>이명현 해병 특검 “尹 대면 조사는 당연"</title>
       <link>https://www.chosun.com/national/court_law/2025/06/21/HLPJEBQIIZCX5FSYIBK6OQVUQU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/21/HLPJEBQIIZCX5FSYIBK6OQVUQU/</guid>
@@ -716,36 +748,6 @@
       <description/>
       <pubDate>Sat, 21 Jun 2025 05:04:22 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AEKXCUCFAKEQZKMGLBMGNS26YY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산시교육청/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산의 한 아파트 화단에서 고등학생 3명이 사망한 채 발견됐다. 경찰이 사건 경위 조사에 착수한 가운데 부산시교육청은 공동대책반을 구성해 진상 파악에 나섰다. &lt;br&gt;&lt;br&gt;부산교육청 등에 따르면 21일 새벽 1시39분쯤 부산 한 아파트 화단에서 고교생 3명이 쓰러진 채 발견돼 인근 병원으로 옮겨졌지만 숨졌다. 숨진 3명은 고등학교 친구 사이로 이 중 1명은 이들이 발견된 아파트에 거주하는 것으로 나타났다. 학생들은 유서를 남긴 것으로 알려졌다.&lt;br&gt;&lt;br&gt;부산시교육청은 사망 학생들의 학교에서 이날 오전 10시 위기관리위원회를 소집하고 교육감 주재로 긴급 대책회의를 열었다. 교육청 중등교육과장 등을 중심으로 공동대책반을 구성해 사망 경위를 자체 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>제주항공 여객기 참사 유족... “블랙박스 기록 공개하라” </title>
-      <link>https://www.chosun.com/national/regional/honam/2025/06/21/RVAUG3EUZVHI5EEMWGUQMDIBGI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/honam/2025/06/21/RVAUG3EUZVHI5EEMWGUQMDIBGI/</guid>
-      <dc:creator>신정훈 기자</dc:creator>
-      <description/>
-      <pubDate>Sat, 21 Jun 2025 04:25:04 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/R2QLEI54UVL3NBAFZ7IKLYUWYY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;제주항공 여객기 참사 유가족들이 지난달 16일 정부세종청사 국토교통부 앞에서 진상규명과 책임자 처벌 및 재발 방지 등을 촉구하며 눈물을 흘리고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제주항공 여객기 참사 유가족들이 항공철도사고조사위원회(사조위)에 조사 자료를 공개하라고 촉구했다.&lt;br&gt;&lt;br&gt;12·29 무안공항 제주항공 여객기 참사 유가족협의회(유가족협의회)는 21일 무안국제공항 2층에서 기자회견을 열어 “항공철도사고조사위원회(사조위)는 공정한 진상 규명을 위해 국토교통부로부터 독립성을 확보하라”며 “유가족에게 엔진 손상 부위, 블랙박스 기록 등을 공개하라”고 요구했다.&lt;br&gt;&lt;br&gt;이어 유가족협의회는 지난 13일 발생한 에어인디아 787-8 드림라이너 항공기 추락 사고를 언급하며 사조위의 대응을 지적했다. &lt;br&gt;&lt;br&gt;이들은 “최근 발생한 에어인디아 여객기 추락 사고에 대해 인도 정부는 참사 3개월 안에 사고 원인 보고서를 발표하겠다고 밝혔다”며 “반면 사조위는 셀프 조사라는 오명을 받으며 지금까지도 유가족에게 제대로 된 정보를 공개하지 않고 있다”고 했다. &lt;br&gt;&lt;br&gt;그러면서 “인도네시아와 에티오피아도 예비보고서에 공개하는 비행자료기록장치(FDR)과 음성기록장치(CVR) 데이터를 공개하지 않는 것은 유가족을 무시하는 것이며 진실을 은폐하는 것이다”고 강조했다. &lt;br&gt;&lt;br&gt;이들은 사고 조사에 유족 의견을 개진할 수 있도록 권리 보장도 요구했다. &lt;br&gt;&lt;br&gt;유가족협의회는 “철저한 진상 규명을 위해 유가족이 추천하는 조사 위원의 의견을 개진할 수 있도록 참여 권리를 보장해 달라”며 “명백한 진상 규명으로 책임자 처벌과 재발 방지 대책이 실현돼야 한다”고 목소리를 높였다. 밝혔다.&lt;br&gt;&lt;br&gt;한편 경찰은 여객기 참사를 예방하지 못한 책임을 물어 관련자 다수를 추가 입건했다. &lt;br&gt;&lt;br&gt;이날 전남경찰청 제주항공 여객기 사고 수사본부는 업무상과실치사상 혐의로 국토교통부 공무원과 한국공항공사 직원, 방위각 시설 관련 업체 관계자 등 15명을 입건했다고 밝혔다. &lt;br&gt;&lt;br&gt;이들은 관제 업무와 조류 예방 업무, 방위각 시설 건설 관련 업무 등을 담당했다. 하지만 각자의 위치에서 주의 의무를 제대로 하지 않아 사고를 초래한 혐의를 받고 있다. &lt;br&gt;&lt;br&gt;이들은 콘크리트 구조물 형태의 방위각 시설 둔덕을 활주로 끝에 설치하고, 조류의 움직임과 이동 경로 등을 충분히 관찰하지 않거나 기장에게 알리지 않았던 것으로 조사됐다. &lt;br&gt;&lt;br&gt;경찰은 과실 책임의 중대성을 따져 구속영장 신청 여부를 검토한다는 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>광주·곡성 등 호우 경보…최고 150mm 더 내린다</title>
-      <link>https://www.chosun.com/national/national_general/2025/06/21/YIV662LOBVFMFJD3C6GUIGUZ5E/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/21/YIV662LOBVFMFJD3C6GUIGUZ5E/</guid>
-      <dc:creator>최인준 기자</dc:creator>
-      <description/>
-      <pubDate>Sat, 21 Jun 2025 00:19:08 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XBNQZLNY3NKAHBO6BKR5MSYB6Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;20일 강한 호우로 서울 중랑천의 하천 수위가 상승해 있다. 2025.6.20/뉴스1 ⓒ News1 권현진 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;하지(夏至)이자 토요일인 21일 광주와 전남 곳곳에 호우 경보가 발효된 가운데 남부 지방에는 내일 새벽까지 최고 150㎜의 비가 쏟아질 것으로 보인다. &lt;br&gt;&lt;br&gt;21일 기상청에 따르면 이날 오전 7시 기준 광주와 전남 곡성·담양·함평에 호우경보, 나주 등 전남 9개 시군(구례·장성·화순·영암·무안·영광·목포·신안(흑산면 제외)·흑산도·홍도)에 호우주의보가 발효됐다. 호우주의보와 호우경보는 3시간 강우량이 각각 60㎜, 90㎜ 이상 또는 12시간 강우량이 각각 110㎜, 180㎜ 이상 예상될 때 발효된다. &lt;br&gt;&lt;br&gt;전날부터 이날 오전 9시까지 익산 함라에 가장 많은 122.0㎜의 비가 내렸다. 군산 117.2㎜, 부안 위도 84.5㎜, 옥과 83.5 ㎜를 기록하고 있다. 기상청은 22일까지 광주와 전남에 50~120㎜, 많은 곳에는 최대 150㎜ 이상의 비가 내릴 것으로 전망했다. 광주와 전남북부에는 오전까지 시간당 30~50㎜의 거센 비가 내리겠다. 오후에도 30㎜ 내외의 강한 비가 쏟아질 것으로 보인다. &lt;br&gt;&lt;br&gt;산림청에 따르면 전남 담양·장성에는 산사태 경보가, 곡성·구례에는 산사태 주의보가 발효됐다. 지리산과 내장산, 무등산, 다도해 서부 등 국립공원의 입산이 기상 악화로 전면 통제됐다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/CG64XL2IVBEGTFBUW2QYCHR254.gif?auth=744170f37df24c860d8abfe5892e68a98bb8ddd1d68612ab9878cf53bfc1ec50&amp;smart=true&amp;width=800&amp;height=533" type="image/jpeg" height="533" width="800">
-        <media:description type="plain">장마 피해 짤</media:description>
-      </media:content>
-    </item>
-    <item>
-      <title>장맛비에 충청 곳곳서도 비피해 잇따라</title>
-      <link>https://www.chosun.com/national/regional/chungcheong/2025/06/21/7TWJWXSTDBEMTIVA5522NRJ2BA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2025/06/21/7TWJWXSTDBEMTIVA5522NRJ2BA/</guid>
-      <dc:creator>신정훈 기자</dc:creator>
-      <description/>
-      <pubDate>Sat, 21 Jun 2025 02:59:44 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/T6A6IZUGMTVWG7I6MTQK6TPPIE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 20일 대전 대덕구 한국수자원공사 물관리종합상황실에서 직원들이 호우대비 모니터링을 하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;20일부터 쏟아진 장맛비로 충남에서 비 피해가 잇따랐다.&lt;br&gt;&lt;br&gt;21일 충남도에 따르면 전날부터 이날 오전 9시까지 강수량은 부여 176.6㎜를 비롯해 보령 172.0㎜, 청양 153.0㎜, 서천 125.0㎜, 홍성 124.8㎜, 공주 124.0㎜, 논산 108.9㎜, 천안 84.8㎜ 등을 기록했다. &lt;br&gt;&lt;br&gt;비가 쏟아지면서 지역별로 피해가 속출했다. 오전 1시 50분쯤 보령시 성주면 신촌교 지점이 홍수 심각 단계에 도달했고, 인근 마을 7가구 15명이 마을회관으로 사전 대피했다. &lt;br&gt;&lt;br&gt;오전 3시쯤 공주시 옥룡동에서는 공영주차장 옹벽이 붕괴하면서 2가구 7명이 마을 대피소로 피신하는 등 사전 대피 포함 16가구 31명이 안전한 곳으로 이동했다. 이 가운데 12가구 21명은 귀가했다. 또 공주시 성산4길 공영주차장의 옹벽이 붕괴했고, 계룡에서도 석축이 붕괴했다. 세월교와 둔치주차장 등 모두 70곳이 침수 우려로 통제됐다.&lt;br&gt;&lt;br&gt;대전에서도 도로 장애 7건 등 모두 11건의 피해가 접수됐다. 시는 둔치 주차장 17곳과 세월교 21곳, 하천 진출입로 150곳, 하천 진입 계단 346곳 등에 대해서 통제하고 있다. 세종에서는 수목 전도 9건 등 12건의 피해가접수됐다. &lt;br&gt;&lt;br&gt;다행히 현재까지 대전과 세종, 충남에서 비로 인한 인명피해는 접수되지 않았다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>“여자 문제 생기면 서울 아파트 줄게”... 각서 쓴 남편의 배신 [이별전쟁]</title>
