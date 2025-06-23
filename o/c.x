@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>실수로 마우스 ‘딸깍’…공무원시험 1분 일찍 울린 종료벨, 수험생 반발</title>
+      <link>https://www.chosun.com/national/national_general/2025/06/24/XNT5UQERCNHQXARR2J6H2NXJA4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/24/XNT5UQERCNHQXARR2J6H2NXJA4/</guid>
+      <dc:creator>이가영 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 23 Jun 2025 22:10:51 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/COCMEBO4WVPCZLNTPQDN4LXIUM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2025년 지방공무원 9급 공·경채 필기시험이 치러지는 21일 오전 서울 중구 장충중·고등학교에 마련된 시험장으로 응시생들이 들어가고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울시 지방공무원 임용 필기시험이 치러진 한 시험장에서 종료종이 1분가량 일찍 울리는 일이 벌어졌다. 부실한 시험 관리로 불이익을 받았다는 수험생들의 항의가 거세다. &lt;br&gt;&lt;br&gt;24일 서울시에 따르면 지난 21일 2025년도 제1회 서울시 9급 지방공무원 임용 필기시험이 열린 동대문구 휘경여중에서 시험 종료종이 예정된 시각보다 1분가량 일찍 울렸다. &lt;br&gt;&lt;br&gt;시험 종료를 앞두고 타종 담당인 동대문구청 직원이 방송실에서 마우스를 손에 쥐고 있다가 실수로 버튼을 일찍 누른 것으로 나타났다. 실수했음을 깨달은 직원은 1분 후 정시에 한 번 더 타종했지만, 시험장에서는 이미 혼선이 빚어진 상황이었다. &lt;br&gt;&lt;br&gt;처음 잘못 종이 울렸을 때 아무런 안내가 없어 감독관 재량으로 시험이 진행되다 보니, 시험지 관리가 주먹구구로 이뤄졌다는 지적이 나온다. 한 시험실에서는 종이 1분 일찍 울렸을 때 답안지를 걷어갔고, 다른 시험실은 종이 잘못 울린 것이니 1분 동안 더 문제를 풀게 하는 등 차이가 있었다는 것이다. &lt;br&gt;&lt;br&gt;당시 휘경여중에서는 수험생 204명이 시험을 치렀다. 수험생들은 “마지막 1분이면 문제 몇 개를 마킹할 시간이다” “AI 시대에 아직도 사람이 마우스로 타종하는 게 실화냐” 등 불만을 토로했다. &lt;br&gt;&lt;br&gt;실수를 한 직원은 서울시 인재개발원으로부터 2회에 걸쳐 감독관 교육을 받았지만 그럼에도 실수를 한 것으로 나타났다. 서울시 인재개발원 관계자는 “지방공무원 시험은 25개 자치구별로 각 구청에서 시험 감독을 한다”며 “총괄 책임은 인재개발원에 있다. 다른 시험장에서는 문제가 없었다”고 밝혔다. &lt;br&gt;&lt;br&gt;서울시는 정확한 경위를 파악하고 후속 조치 여부를 검토할 방침이다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>진용 갖춘 3대 특검… 가장 속도내는 곳은 내란 특검팀</title>
       <link>https://www.chosun.com/national/court_law/2025/06/24/ZIA4KLB7SJABNNM33FMENCYCEA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/24/ZIA4KLB7SJABNNM33FMENCYCEA/</guid>
@@ -724,17 +733,6 @@
       <description/>
       <pubDate>Mon, 23 Jun 2025 04:33:59 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CFHE3OZXKRMXHIVWBRABYCBCQE.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령이 지난 16일 오전 서울 서초구 서울중앙지방법원에서 열린 내란 우두머리 혐의·직권남용 권리행사 방해 혐의 사건 7차 공판에 출석하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 전 대통령의 내란·외환 혐의를 수사하는 내란 특별검사팀이 윤 전 대통령의 내란 우두머리 혐의 재판에 나와 “신속한 재판을 요청한다”고 했다. 윤 전 대통령 측은 “내란 특검법은 위헌”이라며 반발했다.&lt;br&gt;&lt;br&gt;서울중앙지법 형사25부(재판장 지귀연)는 23일 윤 전 대통령의 내란 우두머리·직권남용 권리행사방해 혐의 8번째 재판을 열었다. 조은석 내란 특검팀이 검찰 특별수사본부로부터 이 사건을 넘겨받은 뒤 처음 열린 재판이다.&lt;br&gt;&lt;br&gt;이날 박억수 특검보는 법정에 나와 “특검법에 의해 사건을 인수해 앞으로 특검에서 공소 유지를 담당한다”며 “특별수사본부 등이 확보한 증거 자료와 이후 특검 수사과정에서 확보될 증거를 토대로 사건의 실체적 진실을 낱낱이 규명할 예정”이라고 말했다.&lt;br&gt;&lt;br&gt;박 특검보는 이어 “재판부 나름의 고충이 있겠지만 현재 공소 제기로부터 5개월이 지나 구속된 피고인의 석방이 임박하는 등 법 집행 지연에 대한 우려가 많다”며 “재판을 지금보다 더 신속히 진행해주실 것을 정중히 요청한다”고 했다.&lt;br&gt;&lt;br&gt;윤 대통령 측은 “내란 특검법은 위헌”이라며 재판을 그대로 진행해서는 안 된다고 반발했다. 윤 대통령 측 위현석 변호사는 “특정 정치세력이 주도해 특검을 추천하고 같은 당 소속 대통령이 임명한 뒤 수사권을 재차 행사하는 것은 역사적 전례가 없다”며 “공정한 재판을 받을 권리에 직접적인 영향을 미친다”고 지적했다.&lt;br&gt;&lt;br&gt;위 변호사는 “특검법은 기존 수사기관이 기능을 수행하지 못하는 경우에만 허용되는 일시적 장치”라며 “이미 수사를 하고 기소가 된 사건에서 검찰을 끌어내고 다른 소추 기관이 검찰권을 행사할 입법적 정당성이 있는지 의문”이라고 했다. &lt;br&gt;&lt;br&gt;윤 대통령 측은 특검법 조항을 조목조목 문제 삼았다. 위 변호사는 “특검법은 수사 대상을 무한히 확장하는 내용이어서 위헌”이라며 “수사·재판을 방해하거나 지연하는 것도 수사 대상으로 삼는데 이는 명확성 원칙에 반한다”고 했다. &lt;br&gt;&lt;br&gt;특검법에 규정된 재판 관할 변경을 두고도 “특검이 요구하면 군사재판도 일반 재판으로 끌어올 수 있는데 이는 재판부를 특검이 결정한다는 것”이라며 “대통령도 국회의장도, 헌법재판소장도, 대법원장도 이런 일을 할 수는 없다”고 했다. 특검에 너무 많은 재량을 부여하고 있다는 것이다. 윤 대통령 측은 이에 대해 헌법재판소에 법률적 문제를 제기하겠다고 했다. &lt;br&gt;&lt;br&gt;윤 대통령 측은 박 특검보가 재판에 나온 것을 두고 “특검이 기존 사건 공소 유지까지 할 수 있도록 한 것은 공정한 재판을 받을 권리를 정면으로 침해하는 것”이라고 했다. 또 “검찰에서 사건을 특검에 이첩했다는 서류도 받아보지 못했다”며 “(마치)변호인이 선임계도 제출하지 않고 재판에 온 것”이라고도 했다.&lt;br&gt;&lt;br&gt;재판부는 “이후에 헌법을 위반한 문제가 확인되면 기일을 다시 진행하게 돼 있다”며 “양측이 제출한 의견서를 읽어보고 법령을 검토한 뒤 말씀드리겠다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“수사 기관입니다”… 수사기관 사칭해 8억 가로챈 보이스피싱 수거책 구속</title>
-      <link>https://www.chosun.com/national/incident/2025/06/23/7FAMIFM3UJDBNLW4YNLXLCRQTA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/06/23/7FAMIFM3UJDBNLW4YNLXLCRQTA/</guid>
-      <dc:creator>강릉=정성원 기자</dc:creator>
-      <description>수사 기관 등을 사칭해 8억원을 가로챈 보이스피싱 현금 수거책이 구속됐다.
-강원 강릉경찰서는 전기통신금융사기 피해 방지 및 피해금 환급에 관한 특별법 위반 혐의로 20대 A씨를 구속했다고 23일 밝혔다.
-</description>
-      <pubDate>Mon, 23 Jun 2025 04:24:34 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JET2K7BNRBCBRA4F6JU4WGC2G4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰이 압수한 수표/연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;수사 기관 등을 사칭해 8억원을 가로챈 보이스피싱 현금 수거책이 구속됐다.&lt;br&gt;&lt;br&gt;강원 강릉경찰서는 전기통신금융사기 피해 방지 및 피해금 환급에 관한 특별법 위반 혐의로 20대 A씨를 구속했다고 23일 밝혔다. 또 20대 B씨를 같은 혐의로 불구속 입건해 수사하고 있다.&lt;br&gt;&lt;br&gt;A씨 등은 카드 배송 기사와 수사기관을 사칭해 “범죄에 연루된 돈을 검사한 뒤 돌려주겠다”는 수법으로 피해자 6명에게서 8억원가량을 가로챈 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;경찰은 이달 중순쯤 피해자 신고를 접수받고 방범카메라(CCTV) 분석 등을 통해 경기 일산과 부천에서 이들을 차례로 검거했다. 경찰은 수사 과정에서 피해액 6억 9600만원을 압수하기도 했다.&lt;br&gt;&lt;br&gt;수사 결과 A씨는 확인된 여죄만 20건에 달하는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “나머지 피해액에 대해서도 추적 중”이라며 “최근 카드 배송 기사와 수사 기관을 사칭해 접근하는 보이스피싱이 기승을 부리는 만큼 주의가 필요하다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>김건희 특검팀, 검사 40명 파견 요청 완료</title>
