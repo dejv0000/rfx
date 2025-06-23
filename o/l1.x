@@ -6,6 +6,16 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>로스쿨협의회, 신임 사무국장에 이탁건 변호사 임용</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/209105.jpg" alt="209105.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;이탁건 변호사 《사진=로스쿨협의회》&lt;/figcaption&gt;   &lt;/figure&gt;&lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;로스쿨협의회(이사장 홍대식)는 6월 23일 신임 사무국장에&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="33405"&gt;이탁건&lt;/span&gt;(45·변호사시험 2회) 변호사를 임용했다.&lt;br /&gt;&lt;br /&gt;이탁건 신임 사무국장은 고려대학교 법학과를 졸업하고 동대학원에서 법학전문석사를 취득했다. 2013년 제2회 변호사시험에 합격한 후 대한항공 법무실을 거쳐, 재단법인 동천에서 상근 변호사로 활동하며 난민 및 이주외국인, 공익 소송 등의 분야에서 실무 경험을 쌓았다. &lt;br /&gt;&lt;br /&gt;이후 유엔난민기구(UNHCR) 한국대표부 보호팀 법무담당관으로 재직하며 국내 난민 관련 법·제도 개선 업무를 수행했다. 대한변호사협회 국제인권특별위원회 및 난민·이주외국인특별위원회에서는 부위원장 및 간사로 활동하는 등 공익법 분야의 발전에 기여해왔다.&lt;br /&gt;&lt;br /&gt;이 사무국장은 최근 한국외국어대학교 로스쿨에서 겸임교수로 리걸클리닉 과목인 '외국인의 권리' 강의를 맡아, 교육 현장에서도 활약하고 있다. 앞으로 로스쿨의 교육과정과 학생들의 실무 경험 확대를 위한 정책 수립, 제도 개선, 예산 운영 등의 실무를 총괄하게 된다. 임기는 취임일로부터 2년이다.&lt;/p&gt;</description>
+			<pubDate>Mon, 23 Jun 2025 05:05:30 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/209105</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/209105</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/209105.jpg</media:thumbnail>
+			<dc:creator>서하연 기자</dc:creator>
+		</item>
+		<item>
 			<title>김용현 측, 추가 구속영장 심사할 형사34부 기피 신청</title>
 			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/209095.jpg" alt="209095.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;김용현 전 국방부 장관 《사진=연합뉴스》&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;김용현 전 국방부 장관 측이 내란 특별검사팀의 추가 기소 사건을 담당하는 재판부를 바꿔 달라며 기피 신청을 냈다.&lt;br /&gt;&lt;br /&gt;김용현 전 국방부 장관 측은 23일 내란 특별검사의 추가 기소 사건을 담당하는 서울중앙지법 형사34부(재판장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="5008"&gt;한성진&amp;nbsp;&lt;/span&gt;부장판사) 구성원 전원에 대한 기피신청을 한다고 밝혔다.&lt;br /&gt;&lt;br /&gt;김 전 장관 측은 이날 "&lt;span style="font-weight: bold;" class="lawmanlink" serial="6160"&gt;조은석&amp;nbsp;&lt;/span&gt;특검과 공모해 인신구속에 골몰하는 형사34부 재판부 구성원 전원에 대한 기피신청을 접수한다"며 "형사소송법 제22조에 따라 불법 심문절차는 즉각 정지돼야 한다"고 주장했다.&lt;br /&gt;&lt;br /&gt;변호인단은 "소위 내란특검법 제10조 제1항에 따르면 수사준비기간에 공소제기를 할 수 없음에도 불구하고 조은석 특검은 기존 수사기록도 살피지 않고 김 전 장관의 구속기간 만료 석방을 막기 위해 공소제기했다"며 "무죄추정, 불구속재판의 원칙에 따라 법원이 공소기각을 즉시 판결하여야 함에도 법원이 도리어 특검의 불법 공소장을 받아들고 김 전 장관과 변호인에 대한 공소장 송달 절차도 없이 함부로 영장심문기일을 지정해&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="6160"&gt;조은석&lt;/span&gt;의 불법기소에 적극 조력했다"고 지적했다. &lt;br /&gt;&lt;br /&gt;그러면서 "법원의 이러한 행태는 김용현 장관의 재판받을 권리와 변호인의 변론권을 침해하는 중대한 직권남용 범죄행위"라며 "인신구속에만 골몰해 급행재판을 하겠다는 형사34부는 형사소송법 제18조 제1항 제2호의 불공평한 재판을 할 것을 천명한 것이나 다를 바 없다. 이에 기피신청했으며 형사34부의 절차진행은 즉각 정지돼야 한다"고 강조했다.&lt;br /&gt;&lt;br /&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="6160"&gt;조은석&amp;nbsp;&lt;/span&gt;특검은 6월 18일 수사를 개시하며 김 전 장관을 위계에 의한 공무집행방해와 증거인멸교사 혐의로 추가 기소했다. 이와 함께 김 전 장관에 대한 보석 취소 및 추가 구속영장 발부를 요청했다. 사건을 배당받은 서울중앙지법 형사34부는 김 전 장관에 대한 구속영장 심문기일을 23일 오후 2시 30분으로 정했다(&lt;b&gt;2025고합832&lt;/b&gt;).&lt;/p&gt;</description>
 			<pubDate>Mon, 23 Jun 2025 04:16:19 -0000</pubDate>
@@ -228,16 +238,6 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/209054</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/209054.jpg</media:thumbnail>
 			<dc:creator>박수연 기자</dc:creator>
-		</item>
-		<item>
-			<title>[단독] 작년 7명 제명 ··· 변호사 징계 더 늘고 더 세졌다</title>
-			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/209043.jpg" alt="3.jpg" /&gt;&lt;/p&gt;&lt;p&gt;변호사 징계가 최근 양적으로 크게 증가하면서 동시에 징계 수위도 높아지는 것으로 나타났다. ‘과태료’ 처분이 크게 증가했고, 중징계에 해당하는 ‘정직’과 ‘제명’도 각각 2022년, 2024년부터 급증하는 추세를 보였다. 변호사 업계의 경쟁이 격화되면서 변호사 윤리를 위반해 징계까지 받는 사례가 빈번해지는 것으로 보인다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;법무부가&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="313"&gt;박희승&amp;nbsp;&lt;/span&gt;더불어민주당 의원실(62·사법연수원 18기)에 제출한 2020년~2025년 연도별 변호사 징계 건수 자료에 따르면 2020년부터 2024년까지 5년간 변호사 징계 건수는 △2020년 85건 △2021년 46건 △2022년 169건 △2023년 154건 △2024년 206건으로 우상향 추세였다. 2025년은 6월 10일까지 86건으로 집계됐다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;징계 유형별로 보면 상대적으로 가벼운 징계로 볼 수 있는 ‘과태료’의 건수가 급증했다. 과태로 처분은 2020년 55건에서 2021년 35건으로 줄었다가, 2022년 141건으로 급증해 2023년 101건, 2024년 153건을 기록했다. 2025년도 6월 10일 기준 69건이었다. 다소 등락은 있지만 2020년 대비 2024년 과태료 처분이 3배가량 는 것이다.&lt;/p&gt;&lt;p&gt;‘견책’은 등락을 반복했다. 2020년 20건에서 2021년 5건으로 급감했다가 2022년 17건, 2023년 36건으로 증가했고, 2024년에는 27건으로 소폭 감소했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;중징계로 볼 수 있는 ‘정직’과 ‘제명’도 최근 들어 처분 건수가 뚜렷하게 늘었다. 2020년 9건, 2021년 4건에 불과했던 정직은 2022년 10건, 2023년 17건, 2024년 19건으로 최근 3년간은 해마다 증가했다. 2025년도 6월 10일 기준 13건의 정칙 처분이 내려졌다. 이런 추세라면 2025년 정직 처분은 2024년 수치를 넘길 수 있다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;제명 역시 증가하는 추세다. 2020년 1건, 2021년 2건, 2022년 1건에 머물렀던 제명 처분은 2024년 7건으로 갑자기 늘었다. 2025년에도 6월 10일까지 4건의 처분이 내려졌다. 아직 상반기가 지나지도 않은 시점에서 전년 대비 과반의 제명 처분이 내려진 것이다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;변호사법 제90조에 따르면 변호사 징계는 △견책 △과태료(3000만 원 이하) △정직(3년 이하) △제명 △영구 제명으로 분류된다. 이 가운데 제명 처분을 받으면 변호사법 제5조에 따라 징계 처분 이후 5년이 지나야 다시 등록할 수 있다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;영구 제명은 금고형 이상의 형사 처벌을 2회 이상 선고받았거나, 정직 이상의 징계를 2회 받은 후 또다시 징계 사유가 발생한 경우 등 엄격한 요건이 충족돼야 가능하다. 영구 제명 처분은 지금까지 단 한 차례 있었다. 2019년 7월, 변호사가 아닌 자에게 명의를 빌려 주고 개인 회생 및 파산 사건을 취급하게 하고 그 대가를 받은 사건이었다. 영구 제명된 변호사는 의뢰인과 약정에 따른 수임료를 반환하지 않는 등 품위 유지 의무와 성실 의무에도 위반되는 행위를 다수 저질렀다.&lt;/p&gt;</description>
-			<pubDate>Fri, 20 Jun 2025 20:09:59 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/209043</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/209043</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/209043.jpg</media:thumbnail>
-			<dc:creator>김지현 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
