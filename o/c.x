@@ -13,6 +13,91 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>내란 특검 “법불아귀… 피의자 尹에 끌려다니지 않을 것”</title>
+      <link>https://www.chosun.com/national/court_law/2025/06/24/BV2SBCOJDVEVPFE544SMWO42CQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/24/BV2SBCOJDVEVPFE544SMWO42CQ/</guid>
+      <dc:creator>이민준 기자, 양인성 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 24 Jun 2025 09:53:52 +0000</pubDate>
+      <content:encoded>24일 윤석열 전 대통령에 대해 체포영장을 청구한 내란 특검 측은 “윤 전 대통령은 여러 피의자 중 한 명에 불과하다”며 “(윤 전 대통령 측에) 끌려다니지 않을 것”이라고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OKDA76PDHJI5JIDARMMEMYFK5U.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;내란 특검 박지영 특검보가 24일 오후 서울 서초구 서울고검 기자실에서 브리핑을 하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;내란 특검팀의 공보를 맡고 있는 박지영 특검보는 이날 오후 6시 20분 서울고검 기자실에서 브리핑을 열고 이같이 말했다. 박 특검보는 “다른 피의자들은 모두 조사를 받았지만, 윤 전 대통령은 조사에 응하지 않은 유일한 사람”이라고 지적했다. 이어 “특검은 수사 기간에 제한이 있고 여러 어려움이 예상된다”면서도 “끌려다니지 않겠다”고 했다. ‘법불아귀(法不阿貴)’라는 사자성어를 인용하며 “형사소송법에 따라 엄정하게 진행할 예정”이라고도 했다. 법불아귀는 ‘법은 신분이 귀한 자에게 아부하지 않는다’라는 뜻으로, 고대 중국 사상가인 한비자가 남긴 말이다.&lt;br&gt;&lt;br&gt;내란 특검은 이날 오후 5시 50분쯤 서울중앙지법에 윤 전 대통령의 체포영장을 청구했다. 영장 청구 여부를 결정할 일과 시간이 끝나기 직전에 청구된 만큼, 발부 여부는 25일 중 결정될 것으로 보인다. 박 특검보는 “청구 시각에 의미를 둔 것은 아니다”라며 “준비가 되자마자 영장을 청구한 것”이라고 했다.&lt;br&gt;&lt;br&gt;윤 전 대통령은 지난 1월 경찰과 고위공직자범죄수사처(공수처)의 체포영장 집행을 저지하라고 대통령경호처에 지시했다는 의혹과 관련해 특수공무집행방해와 직권남용권리행사방해 혐의를 받는다. 비상계엄 직후 비화폰 자료 삭제를 지시했다는 의혹에 대해 특검은 직권남용 교사 혐의를 적용했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QUIMPTK7ZDOTQBBKSAQOK7OXEA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;내란 혐의로 체포된 윤석열 대통령이 지난 1월 15일 오전 경기 과천 고위공직자범죄수사처(공수처)에 도착해 조사실로 향하고 있는 모습./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;박 특검보는 ‘체포영장 청구 사실을 공개하는 것이 이례적이지 않느냐’는 기자 질문엔 “조사를 위한 청구이기 때문에 말씀드린 것”이라고 했다. 추가 영장 청구 등에 대해선 “별도로 이야기하지 않겠다”고 했다.&lt;br&gt;&lt;br&gt;체포영장이 집행될 경우 조사할 시설이 마련됐느냐는 질문에 박 특검보는 “특별하게 조사실이 마련돼야 하느냐”며 “조사실 같은 경우 다 마련이 돼 있다”고 말했다. 전직 대통령이라고 해서 특별한 배려를 하지 않겠다는 뜻으로 풀이된다.&lt;br&gt;&lt;br&gt;앞서 경찰과 공수처, 국방부 조사본부로 구성된 공조수사본부는 지난해 12월 30일 윤 전 대통령에 대한 체포영장을 청구했고, 다음 날 법원이 이를 발부한 바 있다. 올 1월 15일 윤 전 대통령은 헌정 사상 처음으로 현직 대통령일 때 체포됐고, 체포 두 달 만인 지난 3월 7일 구속이 취소됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>내란특검, 윤석열 체포영장 청구… “출석 요구 3회 불응”</title>
+      <link>https://www.chosun.com/national/court_law/2025/06/24/V4UDQTDSAJD6DAGN2QI243SRJI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/24/V4UDQTDSAJD6DAGN2QI243SRJI/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 24 Jun 2025 08:54:57 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ERSCSK6ZN5NXPAB3KEEPYR4XI4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 전 대통령의 내란 및 외환 혐의 등을 수사하는 내란 특검은 24일 윤 전 대통령에 대해 특수공무집행방해 등 혐의로 체포영장을 청구했다고 밝혔다.&lt;br&gt;&lt;br&gt;특검 측은 이날 언론 공지를 통해 “윤 전 대통령은 경찰의 출석 요구에 2회에 걸쳐 불응하고, 특검이 수사를 개시한 6월 18일 이후인 19일에도 출석에 불응하면서 이후 소환에도 응하지 않을 의사를 명확히 밝힌 것”이라고 했다. 이어 “23일 사건을 인계받은 특검은 사건의 연속성을 고려해 피의자 조사를 위한 체포영장을 청구한 것”이라고 했다.&lt;br&gt;&lt;br&gt;경찰 비상계엄 특별수사단은 윤 전 대통령이 지난 1월 자신의 체포영장 집행을 저지하라고 지시한 혐의 및 12·3 비상계엄 직후 관련자들의 비화폰 관련 정보를 삭제하라고 지시한 혐의를 수사해왔다. 이에 대한 조사를 위해 세 차례에 걸쳐 소환 조사를 통보했지만, 윤 전 대통령 측은 경찰의 체포영장 집행 자체가 불법이라는 이유를 들며 조사에 불응했다. 또 체포영장 집행을 저지하라고 지시한 적도 없다는 입장이다.&lt;br&gt;&lt;br&gt;앞서 경찰 특수단과 고위공직자범죄수사처(공수처), 국방부 조사본부로 구성된 공조수사본부는 지난해 12월 30일 윤 전 대통령에 대한 체포영장을 청구했고, 다음날 법원이 이를 발부한 바 있다. 특검이 이날 청구한 체포영장의 발부 여부도 25일 결정될 전망이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/JQ5VYJGJAQ7CYV7IM43S332IPE.jpg?auth=c50cb019fc1065535851ac1395be86d9c709e6d4fe51bac861fd733dde8ebefe&amp;smart=true&amp;width=1969&amp;height=1468" type="image/jpeg" height="1468" width="1969">
+        <media:description type="plain">윤석열 전 대통령 /뉴스1</media:description>
+        <media:credit role="author" scheme="urn:ebu">뉴스1</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>[단독]“상품권 판다” 속여 6천만원 강탈…용인 지하주차장서 ‘사기극’ </title>
+      <link>https://www.chosun.com/national/incident/2025/06/24/CLPXHV5XQVD35JXWJP7A7OAEKI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/06/24/CLPXHV5XQVD35JXWJP7A7OAEKI/</guid>
+      <dc:creator>용인=김현수 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 24 Jun 2025 09:41:10 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/L4GEXC5HOZAC5NA5TDDI7RQ23U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;상품권 장외 거래를 가장해 고액 현금을 빼앗는 강도 사건이 벌어졌다. 경찰은 용의자 1명을 붙잡았고, 도주 중인 공범을 쫓고 있다.&lt;br&gt;&lt;br&gt;24일 본지 취재를 종합하면, 이날 오후 4시 22분쯤 용인시 수지구 신봉동의 한 상가 지하주차장에서 “거래 도중 가방을 빼앗겼다”는 112 신고가 접수됐다.&lt;br&gt;&lt;br&gt;조사 결과, 피해자인 50대 남성 A씨는 평소 상품권 장외거래를 해오던 인물로, 사건 당일 온라인 채팅을 통해 접촉한 이들과 거래 약속을 잡고 현장을 찾았다고 한다. 용의자들은 상가 지하주차장으로 A씨를 유인한 뒤, 대화 도중 갑자기 돌변해 A씨가 들고 있던 현금 6000만원이 든 가방을 강제로 빼앗고 달아난 것으로 알려졌다.&lt;br&gt;&lt;br&gt;범인은 2명이었다. 이 중 20대 남성 B씨는 현장에서 도주했지만, 경찰이 인근 수색 중 차량 내에서 검거했다. 차량에서는 그의 신원이 확인될 수 있는 신분증도 발견됐다. 함께 범행에 가담한 또 다른 남성은 현재 도주 중이다. 경찰은 감시 카메라와 차량 번호판 등을 분석해 추적 중이다. 경찰은 순찰차에 피해자를 태워 일대를 수색하는 한편, 인력을 지하주차장 일대에 긴급 배치했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘나는 솔로’ 제작진 “성폭행 구속 출연자 출연분 편집…책임 통감”</title>
+      <link>https://www.chosun.com/national/national_general/2025/06/24/GR2XVAIAOFHLRA6XE3AAPWSJEU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/24/GR2XVAIAOFHLRA6XE3AAPWSJEU/</guid>
+      <dc:creator>김자아 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 24 Jun 2025 09:54:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LLYNEIUVPXCDDY7IIWPK36YYPI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;'나는 솔로' 포스터 / ENA, SBS플러스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;연애 리얼리티 예능 프로그램 ‘나는 솔로’ 측이 성폭행 혐의로 구속된 출연자를 편집한다.&lt;br&gt;&lt;br&gt;‘나는 솔로’ 제작진은 24일 “시청자들께 심려를 끼쳐 죄송하다. 출연자 A씨의 범죄 혐의 관련 법원의 구속영장 발부에 관한 내용을 오늘 오전 뉴스 보도를 통해 알게 됐다”고 밝혔다.&lt;br&gt;&lt;br&gt;제작진은 “사안의 중대성을 인식해 시청자들에게 불편함이 없도록 조치해 방송할 예정이다. 이미 방송한 분도 최대한 출연자를 편집·삭제하겠다”고 했다.&lt;br&gt;&lt;br&gt;아울러 “방송 전후 출연자 주의와 경계를 당부함에도 불구하고, 이런 일이 발생한 것에 제작진은 책임을 통감하고 송구하게 생각한다”며 “촬영 후에도 출연자들이 계약서상 의무를 지키고 책임을 이행하도록 엄격히 관리하겠다”고 덧붙였다.&lt;br&gt;&lt;br&gt;A씨는 SBS플러스와 ENA에서 방영하는 ‘나는 솔로’와 ‘나는 솔로, 그 후 사랑은 계속된다’에 연이어 출연하고 있다.&lt;br&gt;&lt;br&gt;이날 경찰에 따르면 서울 마포경찰서는 30대 남성 A씨를 준강간 혐의로 긴급 체포했다. &lt;br&gt;&lt;br&gt;A씨는 지난 21일 오전 3시 30분쯤 서울 서교동 한 주차장에서 20대 여성을 성폭행한 혐의를 받는다. 경찰은 구속영장을 신청했으며, 법원은 전날 밤 구속영장을 발부했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>유임된 송미령 “머릿수 위해 계엄 국무회의 동원...무력감·무능감” </title>
+      <link>https://www.chosun.com/national/court_law/2025/06/24/NJZS4MRZOVDJ3GALZUHBJIODVQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/24/NJZS4MRZOVDJ3GALZUHBJIODVQ/</guid>
+      <dc:creator>박강현 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 24 Jun 2025 09:14:11 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4XVQK7OISRLCFIERTUHCD4RTQ4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;송미령 농림축산식품부 장관이 24일 서울 용산 대통령실 청사에서 열린 국무회의에 참석하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 정부에서 임명됐지만 이재명 정부에서 유임된 송미령 농림축산식품부 장관이 ’12·3 비상계엄’이라는 조치를 두고 “이를 막지 못해 국민들에게 죄송하고 저 스스로 무력감이 있다”고 진술한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;24일 본지 취재를 종합하면 송 장관은 지난해 12월 17일 서울중앙지검에 참고인 신분으로 출석해 약 7시간 동안 조사를 받으며 계엄 선포 직전 국무회의에 참석한 경위와 당시 상황 등에 대해 진술했다. 조사는 변호인 입회하에 진행됐다.&lt;br&gt;&lt;br&gt;송 장관은 검사가 ‘현재 많은 국민들이 이번 비상계엄 조치에 대해 위헌적이라고 분노하고 있다. 이에 대한 입장은 어떠한가’라고 묻자 “저는 대통령의 계엄에 대해 동의하지도 않고 동조한 적도 없지만, 결과적으로 이를 막지 못한 것에 대해 국민들에게 죄송하다”며 “저 스스로 무력감, 무능감, 분노감도 있다”고 대답했다.&lt;br&gt;&lt;br&gt;그러면서 “머릿수를 채워주기 위해 동원돼서 이런 상황이 발생하게 된 것에 대해 복합적인 심정”이라고 덧붙였다.&lt;br&gt;&lt;br&gt;송 장관은 계엄 당일 오후 울산에서 이상민 전 행정안전부 장관과 함께 김장 행사 및 중앙지방정책협의회 회의 등에 참석했다. 이후 밤 9시 20분쯤 김포공항에 도착해 10분 뒤 강의구 대통령실 부속실장으로부터 용산 대통령실로 들어오라는 연락을 받고 이동했다. &lt;br&gt;&lt;br&gt;약 40분 뒤 송 장관은 대통령실 회의장에 도착했는데, 그는 당시 상황을 두고 “대통령이 처음 (회의를) 시작할 때 ‘여러분들은 걱정이 많으시지만 누구랑 논의할 사안이 아니었다’라고 말을 시작하면서 이게(계엄) 왜 필요한지에 대해 설명을 하셨는데, 정말 경황이 없어서 대통령이 무슨 말을 했는지 기억이 나지 않는다“고 했다. 이어 “계엄이란 말을 듣고 가슴이 콩닥거리고 머릿속이 하얗게 됐다”고도 했다. &lt;br&gt;&lt;br&gt;또 송 장관은 “대통령이 이야기할 때 반대하거나 말하는 사람은 없었고, 대통령 혼자 이야기를 계속 했다”고 말했다. 이를 국무회의로 생각했는지에 대해선 “국무회의의 시작을 알리지 않았고 회의의 안건을 알리지 않았으며 회의의 끝도 없었다”며 국무회의라고 생각한 적이 없다는 취지로 주장했다. &lt;br&gt;&lt;br&gt;이화여대 정치외교학과를 졸업한 송 장관은 서울대에서 도시계획학 석사와 행정학 박사 학위를 취득했다. 1997년 한국농촌경제연구원에 입사해 2015년 부원장을 역임했으며 선임연구위원으로 일하다 지난 2023년 농식품부 첫 여성 수장이 됐다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>택시 승차 시비 끝에 폭행 … ‘나는 솔로’ 여성 출연자 벌금형</title>
+      <link>https://www.chosun.com/national/regional/2025/06/24/NM6EC5PWJ5EZTOTJYTGCHSYB7M/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/06/24/NM6EC5PWJ5EZTOTJYTGCHSYB7M/</guid>
+      <dc:creator>대구=노인호 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 24 Jun 2025 09:42:21 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QS3JEYTZ6CEJSIVUGUTKCOKVOE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대구고법, 지법 청사 전경./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대구지법 형사2단독 박경모 판사는 택시 승차 문제로 다투다 다른 승객을 폭행한 혐의 등으로 재판에 넘겨진 40대 여성 A씨에게 벌금 700만원을 선고했다고 24일 밝혔다. &lt;br&gt;&lt;br&gt;A씨는 2023년 10월 3일 새벽 택시에 먼저 타겠다며 또 다른 승객 B씨와 다툼을 벌이다 B씨의 뺨을 여러 차례 때리고 욕설을 한 뒤 그의 휴대전화를 떨어트려 파손한 혐의 등으로 기소됐다. A씨는 케이블 채널 예능 프로그램인 ‘나는 SOLO(나는 솔로)’에 출연해 얼굴을 알린 인물이다. &lt;br&gt;&lt;br&gt;박 판사는 “술에 취해 다소 우발적으로 범행을 저지른 것으로 보이지만, 피해자와 합의하지 못한 점, 피고인이 동종 폭행 범행으로 형사 처벌을 받은 전력이 있는 점 등을 고려했다”고 양형 이유를 밝혔다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>박건영 대검 과장 사의… 검사들 줄줄이 檢 떠나나</title>
+      <link>https://www.chosun.com/national/court_law/2025/06/24/SPOJVGX2RNGGZE6U4TOZKUVY7Y/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/24/SPOJVGX2RNGGZE6U4TOZKUVY7Y/</guid>
+      <dc:creator>방극렬 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 24 Jun 2025 09:16:46 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4IAISWCAHBHST36ZF4PZYM66R4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 대검찰청. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘SM엔터테인먼트(SM) 시세조종’ 사건 등을 수사한 박건영(49·사법연수원 36기) 대검찰청 법과학분석과장이 최근 사의를 표명했다. 이재명 정부 출범 이후 부장검사급 검찰 인사가 사직하는 사실상 첫 사례다.&lt;br&gt;&lt;br&gt;24일 법조계에 따르면, 박 과장은 최근 사표를 낸 뒤 사직 절차를 밟고 있는 것으로 알려졌다. 검찰 한 관계자는 “특별한 사직 이유를 밝히진 않은 것으로 안다”고 말했다. 박 과장은 서울중앙지검 검사, 대검 검찰연구관, 서울남부지검 금융·증권범죄합동수사단, 서울남부지검 금융조사2부장 등을 거쳤다.&lt;br&gt;&lt;br&gt;박 과장은 남부지검 근무 시절 카카오의 SM 시세조종 의혹 사건을 수사해 배재현 카카오 투자총괄대표와 카카오 법인 등을 기소했다. 작년 12·3 비상계엄 당시에는 박 과장이 국군 방첩사령부 간부와 통화를 했다는 사실이 알려져 논란이 되기도 했다.&lt;br&gt;&lt;br&gt;법조계에서는 “이재명 정부가 검찰 개편·폐지를 밀어붙이는 상황에서 검사들이 잇따라 사퇴할 가능성도 있다”는 말이 나왔다. 한 부장검사는 “검찰청 폐지, 공소청 신설 등이 추진되며 검사들이 동요하는 분위기”라고 말했다. 다만 윤석열 정부에서 고위직을 지낸 일부 검사장들은 바로 사직하지 않고 직을 지킬 것이라는 전망도 나온다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘개 비비탄 난사’ 엄벌 탄원 3만건 돌파… 견주 “가족이 찾아와 손가락 욕”</title>
+      <link>https://www.chosun.com/national/national_general/2025/06/24/22A5E426B5DB7A5MAWG43GJOEU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/24/22A5E426B5DB7A5MAWG43GJOEU/</guid>
+      <dc:creator>박선민 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 24 Jun 2025 08:24:40 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7LUFUSKWXZBYTFGWPNEDADQ4PE.png"&gt;&lt;figcaption&gt;&lt;small&gt;현장에서 발견된 비비탄 총알들. /비글구조네트워크&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경남 거제에서 식당 마당에 있던 개에 비비탄 수백 발을 난사한 남성들을 엄벌에 처해달라는 내용의 탄원 서명이 3만건을 돌파했다. &lt;br&gt;&lt;br&gt;24일 동물단체 ‘비글구조네트워크’에 따르면, 최근 식당 개 비비탄 난사 사건 가해자들에 대한 엄벌 탄원 서명이 전날 3만건을 넘겼다. 이 단체는 지난 20일 가해자들이 합당한 처벌을 받을 수 있도록 공론화가 필요하다는 취지에서 탄원 서명운동에 돌입한 바 있다. &lt;br&gt;&lt;br&gt;단체는 탄원서에서 “이건 단순한 동물 학대가 아니다”라며 “고의적·계획적·조직적인 폭력이며, 생명을 경시한 잔혹한 범죄”라고 했다. 이어 “잔인한 동물 학대 행위는 사람에게도 위해를 가할 수 있는 매우 위험하고 악랄한 범죄”라며 “동물은 물건이 아니다. 말을 못 할 뿐 우리와 똑같이 고통을 느낄 수 있는 생명”이라고 했다. &lt;br&gt;&lt;br&gt;단체는 이 사건을 수사하는 경찰에 탄원서와 서명부를 제출할 예정이다. 단체는 현역 군인을 포함한 가해자들에 대한 철저한 수사와 강력한 처벌, 군 내부의 사건 축소·은폐 없는 투명한 조사, 잔혹한 동물 학대에 대한 법적 처벌 강화 등을 요구했다. &lt;br&gt;&lt;br&gt;앞서 지난 8일 오전 1시쯤 거제시 일운면에서 20대 남성 3명이 한 식당 마당에 있던 개 4마리에게 비비탄을 수백 발 난사했다. 이에 2마리가 크게 다쳤고, 이 중 1마리는 치료받다가 세상을 떠났다. 피해 견주 신고를 받은 경찰은 이들 남성 3명 중 2명이 현역 군인 신분으로 휴가 기간 이런 짓을 벌인 것으로 파악하고, 군부대에 사건을 넘겼다. 민간인 신분인 남성 1명은 동물보호법 위반과 주거침입 등 혐의로 입건됐다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UYLLJKXJ6VH6XBBJUDDP5RQKYU.png"&gt;&lt;figcaption&gt;&lt;small&gt;남성 3명이 식당 마당의 개들에게 비비탄을 쏘고 있다. /비글구조네트워크&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Y6LJSYYBMRUGWX2DXTJBAS263E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;단체가 공개한 피해견들 모습. /비글구조네트워크&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;현재 경찰이 정확한 경위를 조사 중인 가운데, 피해 견주는 가해자 측으로부터 2차 피해를 당하고 있다고 호소하고 있다. 피해 견주는 인터뷰 등에서 “(가해자 측과) 더 이상 만나지 않고 사과도 받지 않겠다는 의사를 밝혔는데, 가해자 가족이 와서 저희 집 사진을 찍고 손가락 욕을 하면서 반말로 ‘너네들 다 죽었다’ ‘무고죄로 고발하겠다’고 하고 가더라”고 했다. &lt;br&gt;&lt;br&gt;비글구조네트워크 역시 “우리 단체가 현장에 도착한 날 가해자의 부모가 예고 없이 찾아와 진심 어린 사과는커녕 소리를 지르며 적반하장의 태도로 2차 가해까지 서슴지 않았다”며 “이로 인해 피해자 가족들은 극심한 정신적 고통과 불안을 겪고 있다”고 했다. &lt;br&gt;&lt;br&gt;다만 가해자들은 비비탄 사격은 인정하면서도 개를 죽일 의도가 없었다고 주장한다. 당시엔 개가 2마리밖에 없었다는 등 알려진 내용과 사실이 다르다는 취지로 해명한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>초교 특수학급 자원봉사자, 장애 학생 폭행 신고… 경찰 수사 착수</title>
+      <link>https://www.chosun.com/national/incident/2025/06/24/I7ONTGBEQBGUPOWIPZTJ6QZ74U/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/06/24/I7ONTGBEQBGUPOWIPZTJ6QZ74U/</guid>
+      <dc:creator>인천=이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 24 Jun 2025 08:51:12 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AT3GXFLQJ4RZ2QANW5BOTYZ6FM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천 한 초등학교에서 특수학급 자원봉사자가 장애 학생을 때렸다는 신고가 접수돼 경찰이 수사에 나섰다. &lt;br&gt;&lt;br&gt;24일 인천남동경찰서와 인천시교육청 등에 따르면 전날 오후 2시쯤 인천의 한 초등학교에서 자원봉사자 A씨가 장애가 있는 학생 B군을 폭행했다는 내용이 경찰에 신고됐다. &lt;br&gt;&lt;br&gt;B군은 얼굴과 귀 등을 다쳐 병원에서 치료를 받고 있는 것으로 알려졌다. &lt;br&gt;&lt;br&gt;A씨는 학교에서 위촉한 특수교육 대상자 보조 인력으로, B군이 수업에 방해되는 행동을 하자 교실 밖으로 데리고 나갔던 것으로 전해졌다. &lt;br&gt;&lt;br&gt;학교 측은 사건 이후 A씨를 해촉한 상태다. &lt;br&gt;&lt;br&gt;경찰은 아동복지법 위반 혐의로 A씨를 입건할 예정이다. 경찰 관계자는 “인천경찰청으로 사건을 넘겨 조사를 진행할 계획”이라고 말했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>불법 조업 중국 어선에 연료·식자재 공급… 해경, 외국선박 1척 나포</title>
       <link>https://www.chosun.com/national/incident/2025/06/24/K7CZKYRTIVF7XBYMVIP3WE7WOE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/06/24/K7CZKYRTIVF7XBYMVIP3WE7WOE/</guid>
@@ -654,24 +739,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JM3VI5EBBFG7NDIIIEDTJ5NLCY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[신문은 선생님] [위인과 정신건강] 슬픔을 캔버스에 담은 화가… 그의 생일은 ‘세계 조울증의 날’ 됐죠</title>
-      <link>https://www.chosun.com/national/nie/2025/06/24/PJQGGCG2B5BYTCF5Q63KIT562I/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2025/06/24/PJQGGCG2B5BYTCF5Q63KIT562I/</guid>
-      <dc:creator>이헌정 고대 안암병원 정신건강의학과 교수</dc:creator>
-      <description/>
-      <pubDate>Mon, 23 Jun 2025 15:50:00 +0000</pubDate>
-      <content:encoded>강렬한 색채, 거친 붓질, 소용돌이치듯 꿈틀대는 움직임. 고흐의 그림은 마치 생명을 지닌 듯한 힘으로 시선을 사로잡아요. 지금은 세상에서 가장 사랑받는 화가 중 한 사람이지만, 그가 살아 있을 때는 전혀 그렇지 않았어요. 그의 그림을 알아주는 이도 거의 없었고, 생전에 팔린 작품도 단 한 점뿐이었어요. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CGHORMF25ZGARLQJ6OELRYLBEU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;반 고흐가 1889년 그린 자화상. 귀에 붕대를 감고 있습니다. /위키피디아&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;빈센트 반 고흐(1853~1890)는 네덜란드의 한 작은 마을에서 태어났습니다. 어릴 때부터 감수성이 풍부하고 조용한 아이였어요. 자연을 유난히 좋아해 들판과 숲속을 거니는 걸 즐겼고, 종종 혼자만의 세계에 몰입하곤 했지요. 한때는 목사가 되기를 꿈꾸며 신학을 공부했고, 벨기에의 탄광촌에서 자원 선교사로 일하기도 했지요. &lt;br&gt;&lt;br&gt;그가 본격적으로 그림을 그리기 시작한 건 스물일곱 살 때였습니다. 정식 미술 교육을 받은 적은 없지만, 그는 누구보다 진지하게 그림에 몰두했지요. 고흐는 단순히 사물을 묘사하는 대신, 감정과 분위기를 그렸습니다. 농부의 손, 들판의 바람, 해바라기의 색, 별이 흐르는 밤하늘 같은 장면을 통해 자신의 내면을 표현했지요.&lt;br&gt;&lt;br&gt;하지만 고흐는 정신적으로 많은 어려움을 겪었습니다. 그는 밤을 지새우며 몰입해 그림을 그리고, 해 뜰 무렵 겨우 잠들곤 했지요. “나는 밤이 낮보다 더 생생하게 느껴질 때가 있어.” 그는 1888년 동생 테오에게 이런 편지를 남겼어요. 고흐는 조울증(양극성 장애)을 앓았던 것으로 알려져 있어요. 밤낮이 뒤바뀐 생활은 그의 증상을 악화시켰고, 고흐의 정신은 기쁨과 절망, 들뜸과 무기력 사이를 오가며 점점 무너져 갔어요. &lt;br&gt;&lt;br&gt;고흐는 ‘예술가 공동체’를 꿈꾸며 화가 폴 고갱과 함께 지냈는데, 두 사람은 자주 부딪쳤어요. 결국 심한 다툼 끝에 고흐는 자신의 귀를 자르는 사건을 일으켰고, 이후 그는 정신병원에 입원하게 되었죠. 그러나 그는 병원에서도 그림을 멈추지 않았어요. 병실 창문 너머로 바라본 밤하늘을 그린 그림이 바로 그 유명한 ‘별이 빛나는 밤’이에요. 어둠을 꿰뚫는 소용돌이 같은 별빛과 꿈틀거리는 밤하늘 속에는 고흐의 불안과 외로움, 그리고 그림을 그리려는 그의 간절한 마음이 담겨 있지요.&lt;br&gt;&lt;br&gt;그의 곁엔 언제나 동생 테오가 있었어요. 테오는 경제적으로 그를 도와주었고, 편지를 주고받으며 외로움을 달래주던 존재였지요. 고흐는 테오에게 이렇게 고백했어요. “나는 슬픔을 안고 그림을 그린다.” 실제로 그는 자신의 고통을 솔직히 받아들이며 그림으로 표현했습니다. &lt;br&gt;&lt;br&gt;하지만 1890년 여름, 고흐는 조용히 스스로 삶을 마감합니다. 서른일곱이라는 짧은 생이었지만, 그의 그림은 오히려 그 후에 사람들의 마음을 움직이기 시작했어요. ‘해바라기’ ‘자화상’ ‘별이 빛나는 밤’은 세계가 사랑하는 명작이 됐고, 세상은 고통 속에서도 끝까지 빛을 그려낸 예술가로 그를 기억하죠. &lt;br&gt;&lt;br&gt;그의 생일인 3월 30일은 오늘날 ‘세계 조울증의 날(World Bipolar Day)’로 지정돼, 마음의 병을 이해하고 편견을 줄이기 위한 날로 기념되고 있어요.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문은 선생님] [사소한 역사] 결혼 축의금, 언제 시작됐을까요</title>
-      <link>https://www.chosun.com/national/nie/2025/06/24/VNKMOZE5PFHJTMIIIH4JS5TXZE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2025/06/24/VNKMOZE5PFHJTMIIIH4JS5TXZE/</guid>
-      <dc:creator>김현철 서울 영동고 역사 교사</dc:creator>
-      <description/>
-      <pubDate>Mon, 23 Jun 2025 15:50:00 +0000</pubDate>
-      <content:encoded>최근 교수나 고위 공직자들 중에 자녀의 결혼식을 스몰 웨딩으로 진행하고, 축의금을 받지 않는 사람들이 늘고 있다고 해요. 물가 상승으로 축의금 금액이 늘어나고 있는데, 이것이 하객들에게 부담을 주기 때문에 축의금 관행을 끊겠다는 의미입니다. 이러한 축의금 문화는 언제부터 시작된 것일까요?&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LYOCF6LDLRB35DD6P5YQENFR6E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;축의금의 정확한 기원을 특정하기는 어렵지만, 전통 농촌사회의 상부상조 문화에서 비롯됐다고 보는 견해가 많습니다. 과거 결혼식은 마을 전체의 잔치였고, 한 집안의 힘으로 치르기에는 벅찼기 때문에 마을 사람들이 음식 재료를 가져오거나 잔칫날 음식 준비를 함께 하며 혼주(보통 결혼 당사자의 부모)를 돕는 공동체 문화가 있었습니다. 이러한 풍습이 점차 음식이 아닌 현금으로 축하를 대신하는 방식으로 바뀌었다고 보는 것이죠.&lt;br&gt;&lt;br&gt;현금으로 주고받는 축의 문화는 대체로 개항기와 일제강점기를 거치면서 등장한 것으로 보고 있어요. 산업화와 도시화가 진행되면서, 예전처럼 이웃 간 품앗이 방식이 점차 어려워지자 대신 돈을 내는 풍습이 생긴 것이죠. &lt;br&gt;&lt;br&gt;하지만 조선 시대에도 지금과 유사한 ‘축의금’ 개념이 존재했음을 보여주는 몇 가지 기록이 있습니다. 대표적으로 율곡 이이가 남긴 ‘율곡전서’에는 ‘해주향약’이라는 규약이 실려 있습니다. 향약이란 지역 주민들이 지켜야 하는 유교 윤리예요. 해주향약에서는 과거 급제, 성인식, 승진, 결혼 등 경사가 있을 때 축하 선물의 종류와 양을 규정하고 있습니다. 결혼의 경우 무명 세 필과 쌀 다섯 말을 선물하도록 되어 있지요. &lt;br&gt;&lt;br&gt;현대인의 관점에서는 이 역시 돈이 아닌 현물과 음식 재료를 제공한 것으로 보이겠지만, 당시 조선은 화폐 경제가 발달하지 않았던 사회였다는 것을 고려해야 해요. 조선 초기엔 태종과 세종이 화폐 유통을 시도했으나 화폐에 대한 신뢰도 문제 등으로 인해 실패했고, 이후 숙종 대에 상평통보가 전국에 유통되기 전까지 조선에선 면포나 곡식을 화폐처럼 이용했어요. 그렇다면 율곡 이이의 해주향약은 축의금으로 적절한 금액을 규정했다고 해석할 수도 있는 것이죠.&lt;br&gt;&lt;br&gt;현금 축의를 하는 문화가 좀 더 명확하게 등장하는 시기는 대한제국 시기입니다. 이때 공인(관청에 필요한 물자를 조달하던 사람)이었던 지규식이 남긴 ‘하재일기’를 통해 당시 축의금 문화를 살펴볼 수 있습니다. 이는 1891년부터 1911년까지 지규식이 작성한 일기입니다. &lt;br&gt;&lt;br&gt;기록을 살펴보면, 대체로 10냥에서 20냥 정도의 금액을 축의금으로 냈고, 친밀한 관계일 경우 50냥까지도 내는 경우가 있었다고 합니다. 지규식은 양반이 아닌 평민이었는데, 도시에 거주하는 평민들도 현금으로 축의금을 내는 문화가 정착된 것을 알 수 있죠. 물론 당시에도 현금 대신 떡, 국수, 술 등의 음식이나 백지, 초 등 현물을 제공하는 경우도 여전히 남아 있었습니다. 농촌 사회에서는 20세기 중반까지도 현금 대신 곡식이나 음식을 부조 형태로 내는 풍습이 유지됐다고 해요.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[신문은 선생님] [재미있는 과학] 동물과 대화하는 날 올까? ‘짹짹’ ‘딸깍’ 동물 언어 번역해요</title>
       <link>https://www.chosun.com/national/nie/2025/06/24/QY6QPGM4M5DM5DPTM4JVSDUZ5A/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/nie/2025/06/24/QY6QPGM4M5DM5DPTM4JVSDUZ5A/</guid>
@@ -682,51 +749,6 @@
       <media:content url="https://www.chosun.com/resizer/v2/VEVUXTYCD5DXTGGR47DDX2OXHM.png?auth=3bbf195dc6762b368bfd9e6e289480d924d564a4cc46282c72196c327cc88e10&amp;smart=true&amp;width=1200&amp;height=675" type="image/png" height="675" width="1200">
         <media:description type="plain">그래픽=진봉기</media:description>
       </media:content>
-    </item>
-    <item>
-      <title>[매일매일 중국어 한마디] 눈썰미가 있는 사람</title>
-      <link>https://www.chosun.com/national/nie/chinese/2025/06/24/6XKD7ASFRZGW7JI2DHMRPS47M4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese/2025/06/24/6XKD7ASFRZGW7JI2DHMRPS47M4/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Mon, 23 Jun 2025 15:33:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KM4S7KMQ7ZCZXHDRAUV74W4T6E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[두근두근 뇌 운동] [2648] 초성 이어가기</title>
-      <link>https://www.chosun.com/national/nie/2025/06/24/JJZVG5TDERENXF6OSHFWUHGWQQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2025/06/24/JJZVG5TDERENXF6OSHFWUHGWQQ/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Mon, 23 Jun 2025 15:33:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/THNULAP46REILO74QERC4SKH4A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[입에 착착 붙는 일본어] 머리가 어질어질하다</title>
-      <link>https://www.chosun.com/national/nie/japanese/2025/06/24/PIB65PSZZVCRHLB5GQSAUFP4WM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/japanese/2025/06/24/PIB65PSZZVCRHLB5GQSAUFP4WM/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Mon, 23 Jun 2025 15:33:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WEWXEAAQRVDLXGKBU7UI3CNL3Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[스피킹이 강해지는 영어] live in la-la land</title>
-      <link>https://www.chosun.com/national/nie/english/2025/06/24/F24QOXPYXBHNJIVR637OHGQETI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/english/2025/06/24/F24QOXPYXBHNJIVR637OHGQETI/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Mon, 23 Jun 2025 15:33:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FW6YFV4QD5GFLM2DLJ7Z3PKISI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문으로 배우는 실용한자] 월등(越等)</title>
-      <link>https://www.chosun.com/national/nie/chinese_character/2025/06/24/CR234YFNC5GKXH3OBSOWPNLTW4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese_character/2025/06/24/CR234YFNC5GKXH3OBSOWPNLTW4/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Mon, 23 Jun 2025 15:33:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LGQNBAZFB5BORAUFMEDWEYVUKM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>비틀거리며 지구대 들어온 ‘상의 탈의’ 남성… 정체 알고 보니</title>
@@ -748,15 +770,6 @@
       <description/>
       <pubDate>Mon, 23 Jun 2025 13:19:53 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7XNUM4WD5BIKHH562QKEXXDRXA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;배우 김수현이 지난 3월 31일 오후 서울 마포구 스탠포드 호텔에서 미성년자였던 배우 고(故) 김새론과 교제했다는 의혹과 관련해 입장발표 기자회견을 하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;배우 김수현(37) 측이 가로세로연구소 운영자 김세의(49)씨와 고(故) 김새론 유족을 무고 혐의로 추가 고소했다.&lt;br&gt;&lt;br&gt;김수현과 소속사 골드메달리스트 법률대리인인 법무법인 엘케이비앤파트너스는 23일 입장문을 내고 “금일 김씨와 김새론 배우 유족을 무고 혐의로 추가 고소·고발했다”며 “이들이 법과 원칙에 따라 처벌받을 수 있도록 최선의 노력을 다할 것”이라고 밝혔다.&lt;br&gt;&lt;br&gt;이번 고소는 지난달 7일 있었던 김씨 주최 기자회견에 따른 것이다. 법무법인은 “김씨는 인공지능(AI) 딥보이스 등을 이용해 위조된 김새론 녹취 파일을 재생하면서 ‘김수현과 김새론이 중학교 때부터 교제했고 이를 뒷받침할 녹취가 있다’ ‘김수현 측이 제보자에게 40억원을 줄 테니 녹취를 넘기라 회유했고, 이를 거절하자 킬러 2명을 고용해 살해하려 했다’는 허무맹랑한 허위 사실을 유포했다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZWXTTST7YCCZ2MYU7RQJX6ZS5M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;가로세로연구소 운영자 김세의(오른쪽)씨와 고(故) 김새론 유족 법률대리인 부지석 변호사가 지난달 7일 서울 강남구 스페이스쉐어에서 배우 김수현 관련 기자회견을 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그러면서 “김씨와 김새론 배우 유족은 위조된 녹취 파일을 근거로 허위 사실을 유포하는 것을 넘어 김수현을 무고, 아동복지법 위반 혐의로 고소하기에 이른바 이는 명백한 무고 행위”라며 “증거를 위조하는 건 중대한 범죄 행위지만 위조된 증거를 근거로 형사 고소하는 것은 더욱 중대한 범죄”라고 주장했다.&lt;br&gt;&lt;br&gt;앞서 김수현과 가세연·김새론 유족 측은 지난 3월부터 미성년자 시절 교제를 둘러싼 진실 공방을 이어오고 있다. 유족 측은 가세연을 통해 김새론이 만 15세였던 2016년부터 김수현과 연인 관계였다고 주장했으나, 김수현 측은 고인이 성인이 된 이후인 2019년 여름부터 2020년 가을까지 교제했다고 반박했다. 김수현은 이후 직접 기자회견에 나서 의혹을 재차 부인하기도 했다.&lt;br&gt;&lt;br&gt;법적 분쟁도 진행 중이다. 김새론 유족은 지난달 가세연 기자회견에서 김수현을 아동복지법 위반 및 무고 혐의로 고소했다고 밝혔다. 김수현 측도 김씨를 정보통신망법상 명예훼손 혐의와 스토킹 처벌법 위반 혐의로, 김새론 유족을 정보통신망법상 명예훼손 혐의로 추가 고소‧고발했다. 아울러 120억원의 손해배상 소송도 제기한 상태다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>무면허 전동킥보드 10대, 경찰 단속 중  넘어져 ‘뇌출혈’...부모, 과잉대응 주장  </title>
-      <link>https://www.chosun.com/national/regional/gyeonggi-incheon/2025/06/23/GYA6VQO5QVF4LIRTBZUB7TKXNU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/gyeonggi-incheon/2025/06/23/GYA6VQO5QVF4LIRTBZUB7TKXNU/</guid>
-      <dc:creator>신정훈 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 23 Jun 2025 12:54:48 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GAGTOXGKBPVYLQ5BHX2ZN7VHBA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;거리 위 전동킥보드(기사와 관련 없음)/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;헬멧도 없이 무면허 상태로 전동킥보드를 타던 10대가 경찰의 단속 과정에서 크게 다치자 부모가 경찰의 과잉 대응을 주장하고 나섰다. &lt;br&gt;&lt;br&gt;23일 인천 삼산경찰서에 따르면 지난 13일 오후 2시 45분쯤 인천시 부평구 부평동에서 무면허로 전동킥보드를 타던 A군 등 10대 2명이 경찰 단속됐다. &lt;br&gt;&lt;br&gt;무면허 상태였던 이들은 당시 헬멧을 착용하지 않은 채 한 대의 전동 킥보드를 함께 타고 이동 중이었다. &lt;br&gt;&lt;br&gt;이를 본 경찰이 횡단보도에서 이들을 단속하기 위해 이들의 팔을 잡자 넘어진 것으로 전해졌다. 넘어지면서 A군이 바닥에 머리를 부딪혔고, 경련과 발작 등 증상을 보여 응급실로 옮겨졌다. &lt;br&gt;&lt;br&gt;A군은 외상성 뇌출혈과 두개골 골절 등의 진단을 받았다. 다행히 치료 과정에서 출혈이 완화돼 열흘간 입원한 뒤 이날 퇴원한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;A군의 부모는 “경찰관이 갑자기 튀어나와서 과잉 단속을 한 탓에 아들이 다쳤다”며 단속 경찰관을 업무상과실치상 혐의로 고소하고 손해배상 소송도 진행하겠다는 뜻을 밝힌 것으로 전해졌다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “당시 상황이 위험해서 제지하려던 것이었고, 이 과정에서 청소년이 다쳐 안타까운 마음”이라며 “공무원 책임 보험 제도 등을 활용해 치료비를 지원하려고 했으나 피해 청소년의 부모님이 거절한 상황”이라고 말했다.&lt;br&gt;&lt;br&gt;경찰은 피해 학생 부모가 소송을 준비하겠다는 입장인 만큼 이번 사건과 관련해 정확한 사실관계를 정리할 방침이다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>‘계엄 요건 안돼’ 증언에... 尹 “군인들 얘기 다 맞는 것 아냐”</title>
@@ -949,15 +962,6 @@
       <description/>
       <pubDate>Mon, 23 Jun 2025 02:21:51 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VRTEWM64GJBDZGQWKZUAWZ5LSM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;송영길 전 더불어민주당 대표. /고운호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘더불어민주당 전당대회 돈봉투 살포 의혹’ 사건의 정점으로 지목돼 1심에서 실형을 선고받고 법정 구속된 송영길(62) 전 민주당 대표(현 소나무당 대표)가 23일 보석(保釋)으로 풀려나 향후 불구속 상태로 항소심 재판을 받게 됐다.&lt;br&gt;&lt;br&gt;서울고법 형사1부(재판장 윤성식)는 이날 송 전 대표의 보석 청구를 받아들였다. 보석은 구속된 피고인에게 보증금을 받거나 보증인을 세워놓고 거주지와 사건 관련인 접촉 제한 및 재판 출석 등 일정한 조건 아래 풀어주는 제도다. 송 전 대표는 지난 3월 5일 보석 신청서를 냈고, 그간 보석을 허가해달라는 취지의 탄원서를 여러 차례 제출한 바 있다. 그의 항소심 다음 재판은 내달 23일 열릴 예정이다. &lt;br&gt;&lt;br&gt;송 전 대표는 지난 1월 특정범죄 가중처벌 등에 관한 법률 위반(뇌물)과 정치자금법 위반 등 혐의로 1심에서 징역 2년을 선고받고 법정 구속됐다. 이 사건은 송 전 대표가 2021년 5월 전당대회에서 당대표가 되기 위해 윤관석 전 민주당 의원을 통해 동료 의원들에게 돈봉투를 살포했다는 의혹을 골자로 하고 있다.&lt;br&gt;&lt;br&gt;다만 1심을 담당한 서울중앙지법 형사21부(재판장 허경무)는 송 전 대표가 외곽 조직인 ‘평화와 먹고사는 문제 연구소’를 통해 불법 정치자금 7억6300만원을 수수한 혐의만 유죄로 인정하고, 정작 ‘돈봉투 살포’ 혐의 자체는 무죄로 판단했다. 이 사건의 단초이자 핵심 증거인 이정근 전 민주당 사무부총장의 휴대전화 녹음 파일이 위법하게 수집됐다며 증거로 인정하지 않았기 때문이다. 이는 앞서 돈봉투 관련 사건으로 유죄를 선고받은 다른 민주당 전·현직 의원들 판결과는 배치되는 판단이라 논란이 되기도 했다.&lt;br&gt;&lt;br&gt;송 전 대표가 재판 과정에서 보석으로 풀려난 건 처음이 아니다. 작년 1월 초 구속 기소된 송 전 대표는 그해 5월 30일 1심 재판 도중 보석 청구가 인용돼 석방됐다. 그러다 지난 1월 8일 1심 실형 선고로 보석이 취소되면서 다시 구속됐는데, 이날 또다시 보석 청구가 받아들여졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>장마전선 다시 북상…화~수 전국에 비</title>
-      <link>https://www.chosun.com/national/transport-environment/2025/06/23/D6C3ZEWPYFCEZMWXREFHCTETIU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/06/23/D6C3ZEWPYFCEZMWXREFHCTETIU/</guid>
-      <dc:creator>박상현 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 23 Jun 2025 00:36:44 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3YMVZGBFJIBGUIIS2CKFLIXXUE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;장마가 시작되며 서울 전역에 호우주의보가 내려진 지난 20일 오전 서울 광화문에서 우산을 쓴 시민들이 출근하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정체전선(장마전선)이 다시 북상하며 24~25일 전국에 비가 예고됐다. 이번 비구름대는 제주, 남부지방, 중부지방을 차례로 훑고 올라가면서 비를 고루 뿌릴 것으로 보인다.&lt;br&gt;&lt;br&gt;기상청에 따르면, 정체전선의 영향으로 23일 오후부터 제주도, 24일은 전국에 비가 내리겠다. 비구름대는 24일 새벽 전남·경남에 비를 뿌리겠고, 오전 중 충청·전북·경북, 밤에는 수도권과 강원으로 확대될 전망이다.&lt;br&gt;&lt;br&gt;24~25일 예상 강수량은 전국에서 20~60㎜로 예보됐다. 제주 산지에는 80㎜ 이상이 오는 곳도 있겠다.&lt;br&gt;&lt;br&gt;이번 비는 24일 낮까지 제주도, 25일 오전까지 전남·경남, 밤까지 그 밖의 전국에 각각 내리다가 대부분 그칠 것으로 보인다.&lt;br&gt;&lt;br&gt;이번에 발생할 정체전선은 비구름대가 전역에 비를 고루 뿌릴 것으로 예상된다. 최근 자주 발생하는 시간당 50㎜가 넘는 ‘극한호우’가 아니라, 과거 우리나라에 내리던 장맛비의 모습과 유사한 비다.&lt;br&gt;&lt;br&gt;비와 함께 무더위도 나타날 전망이다. 24일 아침 최저기온은 17~23도, 낮 최고기온은 23~30도로 예보됐다. 비가 소강상태를 보일 때 후텁지근할 것으로 예상된다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
