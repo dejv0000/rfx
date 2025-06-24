@@ -13,6 +13,62 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>“내 축사 빼먹었다” 공무원 뺨 때린 시의원…의원직 유지</title>
+      <link>https://www.chosun.com/national/national_general/2025/06/24/MXTF7OGYXRG3FOB4U6HJBGV3NI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/24/MXTF7OGYXRG3FOB4U6HJBGV3NI/</guid>
+      <dc:creator>이가영 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 24 Jun 2025 05:10:40 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LW74CELX6HTKVMTC7O6VUE36LE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;안주찬 구미시의원. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지역구 행사에서 축사를 하지 못했다며 의전을 문제 삼아 공무원을 폭행한 구미시의원이 의원직을 유지하게 됐다. &lt;br&gt;&lt;br&gt;경북 구미시의회는 23일 시의회 공무원을 폭행한 안주찬 의원에게 ‘출석 정지 30일’의 징계를 처분했다. &lt;br&gt;&lt;br&gt;앞서 구미시의회 윤리특별위원회는 민간위원으로 구성된 윤리심사자문위원회 의견을 참고해 지난 9일 안 의원을 제명하기로 의결해 안건을 올렸다. 그러나 이날 해당 안건을 논의하기 위해 비공개 회의에 돌입한 이후 일부 의원이 ‘출석 정지 30일’ 정도가 적합하다며 또다시 안건을 올렸다. 이에 시의회는 2건의 안건을 표결했는데, ‘출석 정지 30일’ 안건이 과반수 찬성을 얻어 통과됐다. &lt;br&gt;&lt;br&gt;이로써 인동‧진미동을 지역구로 두고 있는 3선의 안 의원은 2026년 6월까지 의원직을 유지하게 됐다. 안 의원은 지난달 23일 구미 인동시장에서 열린 ‘달달한 낭만 야시장’ 개장식에서 자신의 축사를 빼먹었다는 등 의전 배려가 부족했다는 이유로 시의회 공무원 A씨에게 욕을 하고 뺨을 때려 물의를 일으켰다. 논란이 커지자 그는 뒤늦게 폭행 사실을 인정하고 자신의 페이스북에 “경솔한 행동을 했다”며 사과의 글을 올렸다. 국민의힘 소속이었던 안 의원은 현재 탈당한 상태다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UG6EWGMYERJ43PVK7BP62NRPSE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;23일 오전 경북 구미시청 앞에서 경상북도 공무원노동조합 조합원들이 공무원 폭행으로 물의를 일으킨 구미시의회 안주찬 의원의 제명 및 즉각 사퇴를 촉구하는 집회를 하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;구미시공무원노동조합은 이날 성명을 내고 “폭력 공범이 된 구미시의회에 사망을 선고한다”며 “전국의 모든 공무원들에게 ‘너희는 언제든 맞아도 된다’는 사회적 메시지를 던진 정치적 폭력”이라고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>김성환 환경장관 후보자 “지구에 보내는 태양 에너지 1시간만 전기화해도 인류 1년 쓸 수 있다” </title>
+      <link>https://www.chosun.com/national/transport-environment/2025/06/24/T3MFLC3PZBGNDHR4R7GVXICTMA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/06/24/T3MFLC3PZBGNDHR4R7GVXICTMA/</guid>
+      <dc:creator>박상현 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 24 Jun 2025 03:46:37 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AA4XEHP3MVK4BAGRUDPGYVAVQY.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;김성환 환경부 장관 후보자가 24일 오전 서울 영등포 이룸센터 내 청문회 준비 사무실로 출근하며 취재진 질문에 답하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이재명 정부 첫 환경부 장관 후보로 지명된 김성환 후보자는 24일 “재생에너지로 인해 전기 요금이 오를 거란 접근이 에너지 전환을 가로 막고 있다”며 “원전은 보조 에너지원”이라고 했다.&lt;br&gt;&lt;br&gt;김 후보자는 서울 영등포구 이룸센터에 마련된 인사청문회 준비 사무실로 이날 첫 출근하면서 “모든 것을 전기화해야 한다”며 “태양이 지구에 보내주는 에너지의 1시간만 전기화해도 인류가 1년을 쓸 수 있다”고 했다. 태양광 중심의 에너지 전환이 필요하다는 취지다.&lt;br&gt;&lt;br&gt;재생에너지 확대로 인한 전기 요금 상승 우려에 대해선 “태양광은 이미 다른 연료에 비해 많이 저렴해졌다”며 “재생에너지를 중심으로 전환하고 원전은 보조 에너지원으로 활용해야 한다”고 했다.&lt;br&gt;&lt;br&gt;김 후보자는 22대 국회 기후위기특별위원회 위원으로, 기후위기 탈탄소 경제포럼에서 활동하며 ‘탈원전’과 ‘재생에너지 확대’를 주장해왔다. 김 후보자는 원전 계속운전 시 나오는 사용후핵연료를 저장 대상에서 제외하는 ‘고준위 방사성폐기물 관리 특별법’을 대표 발의하기도 했다. 원전의 계속운전을 하지 못하도록 유도해 신규 원전을 짓지 않는 이상 에너지원 중 원전의 비중을 떨어뜨리는 것이 골자다.&lt;br&gt;&lt;br&gt;기후에너지부 개편안에 대해서는 “국정기획위원회에서 검토하고 있는 사안”이라며 “대통령실과 상의해 어떻게 하는 게 가장 효과적일지 빠른 시일 내로 방향을 잡겠다”고 했다 &lt;br&gt;&lt;br&gt;4대강 관련 정책에 대해서는 “아직 그 분야에 대해 깊이 생각해보지 않았다”면서도 “물은 당연히 흘러야 한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>대법 “공익사업 수용 토지·잔여지 보상금, 가치 구분해 산정해야”</title>
+      <link>https://www.chosun.com/national/court_law/2025/06/24/HIPHTZKRLFCZ3FSQM2KUPBPORU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/24/HIPHTZKRLFCZ3FSQM2KUPBPORU/</guid>
+      <dc:creator>김은경 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 24 Jun 2025 04:54:14 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6NRIRZMCKFJZRBJRV6IX5NEDRA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대법원 청사. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울에서 부동산 사업을 하는 A주식회사는 2009년 서울 강남구 대모산 근처 땅 6만4926㎡ 중 지분 약 18%를 경매로 얻었다. 이후 강남구가 대모산도시자연공원을 조성하면서 2021년 A사 토지 중 2만396㎡을 수용하고 손실보상금으로 약 16억원을 지급하기로 결정했다. &lt;br&gt;&lt;br&gt;그런데 A사는 토지 일부분이 공원에 편입되면서 나머지 땅(4만4530㎡)의 가치가 하락했다며 손실보상금을 증액해달라고 청구했다. 공원 사업 때문에 잔여지 접근성과 활용도가 떨어지고 실제 토지 가격이 3500여만원 하락하는 등 손해를 봤다는 것이다. 청구가 받아들여지지 않자 A사는 행정소송을 냈다. &lt;br&gt;&lt;br&gt;이렇게 공익사업으로 소유지 중 일부가 국가나 지방자치단체에 수용되면서 잔여지의 가치가 떨어지는 경우 토지보상법에 따라 손실보상금을 받을 수 있도록 돼 있다. 법원은 잔여지 가치가 하락한 것에 대해서도 보상금을 줘야 한다며 A사 손을 들어줬다.&lt;br&gt;&lt;br&gt;그런데 잔여지 가치 하락에 따른 손실보상액을 어떻게 평가할지를 두고 1, 2심 판단이 갈렸다. 대모산 공원 사업에 수용된 부분은 ‘임야’와 ‘전’으로 이뤄져있고, 잔여지는 전체가 개발제한구역 내 ‘임야’로 토지의 이용상황이 달랐다. 잔여지보다 수용된 부분의 가치가 더 높았다. 1심은 잔여지에 대한 손실보상금을 3531만원으로 판단했는데, 2심은 9억7561만원으로 대폭 올려 산정했다. 2심은 “전체 토지 단위면적(㎡)당 단가에 잔여지 면적을 곱하는 방식으로 산정하는 것이 원칙”이라고 했다.&lt;br&gt;&lt;br&gt;대법원 3부(주심 이흥구 대법관)는 2심이 인정한 보상금 중 과다 산정된 9억4030만원을 다시 계산하라며 서울고법으로 돌려보냈다고 24일 밝혔다. 대법원은 수용 토지와 잔여지의 가치가 다른데, 일괄 합산한 뒤에 토지 전체 면적으로 나눠 단위면적당 가격을 산출하고, 이 금액에 잔여지 면적을 곱하는 방식으로 보상액을 산정한 것은 잘못이라고 봤다.&lt;br&gt;&lt;br&gt;대법원은 &amp;nbsp;“수용 토지와 잔여지는 현실적 이용 상황 등 차이로 인해 가격이 다른 것이 분명해 1개 필지와 같이 단일한 가격으로 평가하기 어려워 보인다”며 “사업 구역에 편입되기 전의 잔여지 가격은 토지 전부가 사업 시행 지구로 편입되는 경우를 상정하되, 전체 토지 가격에서 수용 토지 가격을 빼는 방식 등으로 산정해야 한다”고 밝혔다. 이번 판결은 잔여지 손실보상금 산정 기준을 구체적으로 제시한 첫 사례다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>2심서 무죄 받은 보이스피싱 현금 수거책, 파기환송심서 ‘실형’ </title>
+      <link>https://www.chosun.com/national/regional/2025/06/24/RKQA7SF3BRHW7KKWL52FSC6DS4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/06/24/RKQA7SF3BRHW7KKWL52FSC6DS4/</guid>
+      <dc:creator>우정식 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 24 Jun 2025 04:35:42 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3265KJUIZJGWPNTKK7L45IEX3Q.png"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=조선디자인랩 한유진·Midjourney&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2심에서 무죄를 선고받았던 전화금융사기(보이스피싱) 현금 수거책이 대법원의 유죄 취지 파기환송 결정에 따라 다시 열린 재판에서 실형을 선고받았다.&lt;br&gt;&lt;br&gt;24일 법조계에 따르면 대전지법 형사1부(재판장 강길연)는 사기 혐의로 기소된 A(58)씨에게 징역 1년 2개월을 선고했다.&lt;br&gt;&lt;br&gt;A씨는 2021년 3∼4월 보이스피싱 조직의 지시에 따라 피해자 11명에게서 현금 총 2억800만원을 직접 건네받아 조직원 등의 계좌에 무통장 송금한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;피해자들은 수사기관이나 금융기관을 사칭한 보이스피싱 조직원에게 속아 대출금 상환 등을 목적으로 A씨에게 돈을 전달한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;앞서 1심 재판부는 “피해자와 일부 합의한 점, 동종 전과나 벌금형 이상 전과가 없는 점, 반성하는 점 등을 고려했다”며 A씨에게 징역 1년 6개월을 선고했다.&lt;br&gt;&lt;br&gt;그러나 2심 재판부는 “피고인이 보이스피싱 범죄에 가담한다는 점을 인식하지 못한 채 행동했을 가능성을 배제할 수 없다”며 원심 선고를 파기하고 A씨에게 무죄를 선고했다. 2심은 “채권 추심을 대행하는 회사에 채용돼 채무자에게서 대출금을 회수하는 아르바이트를 하는 줄 알았지 보이스피싱 사기라는 것은 몰랐다”는 A씨의 주장을 받아들인 것이다.&lt;br&gt;&lt;br&gt;하지만 대법원 판단은 2심과 달랐다. 대법원은 “적어도 A씨에게 사기죄에 대한 미필적 고의가 있다고 인정할 수 있다”며 사건을 다시 대전지법으로 돌려보냈다. 보이스피싱 범행 수법과 폐해가 오래전부터 언론 등을 통해 사회에 널리 알려진 데다 A씨의 업무가 사회 통념에 맞는 수금 방식이 아니었던 만큼 다년간 직장 생활을 했던 피고인이 보이스피싱 범죄에 가담하는 것을 미필적으로나마 인식했다고 본 것이다.&lt;br&gt;&lt;br&gt;이에 다시 사건을 심리한 재판부는 “피고인이 피해자 11명 가운데 5명과 합의했고, 환송 전 당심에서 추가로 일부와 합의했다”면서 “범행을 주도하지는 않은 점, 확정적 고의로 범행에 가담한 것은 아니라고 보이는 점, 피해액에 피해 피고인에게 귀속된 이익은 크지 않은 점을 참작하면 원심 형이 무겁다”며 A씨에게 1심 선고보다 낮은 징역 1년 2개월을 선고했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>흉기로 남편 숨지게 한 70대 아내… 경찰 긴급 체포</title>
+      <link>https://www.chosun.com/national/incident/2025/06/24/ZM3GDHY4LFA4BKCCLWVH3MLYHM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/06/24/ZM3GDHY4LFA4BKCCLWVH3MLYHM/</guid>
+      <dc:creator>인천=이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 24 Jun 2025 04:33:49 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/L4GEXC5HOZAC5NA5TDDI7RQ23U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;남편을 흉기로 찔러 숨지게 한 혐의로 70대 여성이 경찰에 붙잡혔다. &lt;br&gt;&lt;br&gt;인천 중부경찰서는 상해치사 혐의로 70대 여성 A씨를 입건해 조사하고 있다고 24일 밝혔다. &lt;br&gt;&lt;br&gt;A씨는 지난 23일 오전 인천시 중구의 한 빌라 자택에서 남편인 70대 남성 B씨를 흉기로 찔러 숨지게 한 혐의를 받고 있다. &lt;br&gt;&lt;br&gt;A씨는 당시 사위에게 연락해 “남편이 넘어져 다친 것 같다”고 연락하고, 딸의 집으로 간 것으로 파악됐다. &lt;br&gt;&lt;br&gt;“아버님(장인어른)의 신변이 안전한지 여부를 확인해달라”는 사위의 신고를 받고 출동한 경찰은 집 안에 알몸 상태로 숨져 있는 B씨를 발견했다. 당시 B씨의 몸엔 흉기에 찔린 흔적 등이 있었던 것으로 알려졌다. &lt;br&gt;&lt;br&gt;경찰은 A씨를 임의동행해 조사한 뒤, 범죄 정황이 있는 것으로 보고 긴급 체포했다. &lt;br&gt;&lt;br&gt;A씨는 경찰 조사에서 “남편이 알몸 상태로 외출하려고 하길래 언쟁이 있었고, 그 뒤 상황은 기억나지 않는다”는 취지로 진술한 것으로 전해졌다. &lt;br&gt;&lt;br&gt;경찰은 B씨의 정확한 사인 등을 확인하기 위해 국립과학수사연구원에 부검을 의뢰한 상태다. &lt;br&gt;&lt;br&gt;경찰 관계자는 “A씨를 상대로 추가 조사를 진행해 적용 죄명과 구속영장 신청 여부 등을 결정할 예정”이라고 말했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“고수익 가능”… 유령 법인 대포통장 유통조직 운영한 20대 조폭</title>
+      <link>https://www.chosun.com/national/court_law/2025/06/24/6XFE7PZQDZAVZO3BAMR5DBGJ3E/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/24/6XFE7PZQDZAVZO3BAMR5DBGJ3E/</guid>
+      <dc:creator>춘천=정성원 기자</dc:creator>
+      <description>조직적으로 유령 법인 명의의 통장을 개설해 보이스피싱 일당에게 전달한 조직폭력배가 재판에 넘겨졌다.
+춘천지검 형사1부는 전기통신금융사기 피해 방지 및 피해금 환급에 관한 특별법 위반 등 혐의로 춘천식구파 소속 조직원 A(27)씨를 구속 기소했다고 24일 밝혔다.
+</description>
+      <pubDate>Tue, 24 Jun 2025 04:30:44 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LH4YJXRCKBAHXHVOM73HS2MMUU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;체포 현장에서 압수한 현금과 명품 가방/춘천지검&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;조직적으로 유령 법인 명의의 통장을 개설해 보이스피싱 일당에게 전달한 조직폭력배가 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;춘천지검 형사1부는 전기통신금융사기 피해 방지 및 피해금 환급에 관한 특별법 위반 등 혐의로 춘천식구파 소속 조직원 A(27)씨를 구속 기소했다고 24일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 2023년 9월부터 지난해 7월까지 유령 법인을 개설한 뒤 법인 명의의 통장을 만들어 이를 보이스피싱 일당에게 넘긴 혐의를 받고 있다. A씨는 춘천 지역 20대 청년들에게 통장 1개를 만들 때마다 고액의 수익을 약속하며 대포통장 유통 조직원을 모집했다. 조직원들은 전국 은행 지점을 돌며 보이스피싱에 사용할 유령 법인 명의의 통장을 만들었다. 특히 보이스피싱 일당들은 이 통장을 활용, 35명으로부터 16억원을 가로챘다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/U4SBGZ65NBFN7NKQOWDBCZHYCA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;체포 현장에서 압수한 현금과 명품 가방/춘천지검&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰은 유령 법인을 개설했던 대포통장 유통 조직원 B씨에 대한 사건을 송치받아 보완 수사를 진행하던 중 A씨의 범행 일체를 확인했고 한 달간의 추적 끝에 서울 서초구 한 오피스텔에서 그를 체포했다. A씨는 이번 범행으로 1억9000만원의 수익을 챙겼으며, 검찰은 A씨를 체포하는 과정에서 다량의 현금과 명품 가방 등을 압수했다.&lt;br&gt;&lt;br&gt;검찰 관계자는 “다른 대포통장도 유통했을 가능성도 염두에 두고 추가 수사를 벌이고 있다”면서 “주거지 보증금에 대해선 추징보전명령을 신청했다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>부산 아파트서 고교생 3명 숨져... 유서엔 “학업 스트레스, 부담감 커” </title>
       <link>https://www.chosun.com/national/education/2025/06/21/3CFYKZ46SJEM7OBO4GYYML77YE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/education/2025/06/21/3CFYKZ46SJEM7OBO4GYYML77YE/</guid>
@@ -760,15 +816,6 @@
       </media:content>
     </item>
     <item>
-      <title>3100억대 도박 자금 세탁해 수수료 11억 챙긴 일당 8명 입건</title>
-      <link>https://www.chosun.com/national/incident/2025/06/23/5FPAGS4Z5FDXXB7HXWPNUUE5WY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/06/23/5FPAGS4Z5FDXXB7HXWPNUUE5WY/</guid>
-      <dc:creator>이승규 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 23 Jun 2025 05:01:02 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4NHQCXNAEYBPMEATMFKC5EKHSY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;도박 자금을 세탁한 일당을 체포해 압수한 현금과 명품시계./경북경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;불법 도박사이트로 입금되는 도박 자금을 세탁하는 대가로 10억대 수수료를 챙긴 일당 8명이 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;경북경찰청 형사기동대는 범죄수익은닉 규제법 위반 등 혐의로 20대 남성 A씨 등 8명을 입건하고 이중 A씨를 비롯해 3명을 구속했다고 23일 밝혔다.&lt;br&gt;&lt;br&gt;A씨 등은 지난해 9월부터 이달 16일까지 대포통장으로 받은 도박자금 3100억원을 유령법인 계좌 등으로 이체해 정상적인 거래가 이뤄진 것처럼 세탁한 후 수수료 명목으로 11억 5300만원을 챙긴 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;A씨 등은 경찰의 추적을 방해하기 위해 메신저 프로그램인 텔레그램을 활용하고, 수개월마다 오피스텔과 아파트를 옮겨다닌 것으로 조사됐다.&lt;br&gt;&lt;br&gt;경찰은 A씨 등에게 대포통장을 제공한 도박 조직인 20대 B씨에 대한 첩보를 입수하면서 수사에 착수했다. B씨를 상대로는 범죄수익으로 추정되는 현금 3억 9500만원과 명품시계를 압수했다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “불법 도박사이트나 보이스피싱 관련 범죄를 지속적으로 단속하고 엄정히 수사하겠다”며 “이번주 중으로 A씨 등을 검찰에 송치할 방침”이라고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>한강버스, 7월 1일부터 시민 체험 운항 개시…9월 정식 운항</title>
       <link>https://www.chosun.com/national/national_general/2025/06/23/GQC6HILGYFC4ZAQILPMC47LTPM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/23/GQC6HILGYFC4ZAQILPMC47LTPM/</guid>
@@ -911,51 +958,6 @@
       <description/>
       <pubDate>Sun, 22 Jun 2025 15:52:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VJQVGHJTSZB5XONF2RAHUEP274.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>내란특검 “여인형 전 사령관 등에 대해 군검찰과 기소 처분 협의중” </title>
-      <link>https://www.chosun.com/national/court_law/2025/06/22/SNPHUCX3PZC4TAKA54DVJA5NZA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/22/SNPHUCX3PZC4TAKA54DVJA5NZA/</guid>
-      <dc:creator>김희래 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 22 Jun 2025 11:52:35 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OGUPYLZPXAZYAJ4A4XY5FBZNNY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령의 12·3 비상계엄 선포와 관련한 내란 사건을 수사하는 조은석 특별검사. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 전 대통령 등의 내란·외환 혐의를 수사하는 조은석 특별검사가 여인형 전 국군방첩사령관 등에 대한 기소 처분에 대해 군검찰과 협의중에 있다고 22일 밝혔다.&lt;br&gt;&lt;br&gt;이날 조 특검 측은 “(내란 사건 관련) 기록을 인계 받아 수사를 진행하던 중, 군사법원이 재판하고 있는 여 전 사령관 등에 대한 신속한 처분 검토가 필요한 사항이 확인됐다”며 “금일(22일) 군검찰에 자료를 송부하고 특검법 제6조 제3항에 따라 공소제기 등 처분에 대해 협의를 진행하고 있다”고 밝혔다.&lt;br&gt;&lt;br&gt;조 특검 측은 ‘신속한 처분 검토가 필요한 사항’이 무엇인지에 대해 구체적인 설명을 내놓지는 않았다. 그러나 조 특검이 오는 26일 1심 구속기한(6개월) 만료를 앞둔 김용현 전 국방부 장관을 지난 18일 추가 기소하고 법원에 새 구속영장 발부를 요청한 만큼, 여 전 사령관 등에 대해서도 같은 조치에 나선 것으로 풀이된다. 내란 사건의 핵심 피고인들을 구속 상태로 재판에 묶어두기 위해서다.&lt;br&gt;&lt;br&gt;군사법원에서 재판을 받고 있는 여 전 사령관과 이진우 전 수도방위사령관은 내란 혐의로 작년 12월 31일 구속 기소됐고, 오는 30일 구속기한 만료를 앞두고 있다. 앞서 조 특검이 김 전 장관을 추가 기소했을 당시에도 법조계에서는 여 전 사령관과 이 전 사령관 등에 대해서도 추가 기소가 이어질 것이란 전망이 나왔다.&lt;br&gt;&lt;br&gt;&amp;nbsp;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘내란 특검팀’ 수사지원단장 내정...공수처엔 검사 2명 파견 요청 </title>
-      <link>https://www.chosun.com/national/court_law/2025/06/22/J2F2VNG5INGEVLB6JPADDDI2J4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/22/J2F2VNG5INGEVLB6JPADDDI2J4/</guid>
-      <dc:creator>김희래 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 22 Jun 2025 08:57:11 +0000</pubDate>
-      <content:encoded>윤석열 전 대통령 등의 내란·외환 혐의를 수사하는 조은석 특별검사가 장영표 서울중앙지검 조사과장(검찰수사서기관)을 ‘내란 특검팀’의 수사지원단장으로 내정했다. 조 특검은 또 고위공직자범죄수사처(공수처)에 검사 2명을 특검팀에 파견해 줄 것을 요청했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/267URYWXN7PXCOABBM4Z35ZNTQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;12·3 비상계엄 선포와 관련한 내란 사건을 맡은 조은석 특별검사. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;22일 내란 특검팀 관계자에 따르면, 조 특검은 최근 장 과장을 수사지원단장으로 내정했다. 수사지원단은 특검 내 행정 사무와 수사 지원을 담당한다. 장 과장은 곧 퇴임 예정으로, 퇴임 후 내란 특검팀의 특별수사관으로 임명될 예정이다.&lt;br&gt;&lt;br&gt;조 특검은 공수처에 검사 2명의 파견을 요청하기도 했다. 공수처 파견 인력은 이르면 이번 주 특검팀에 합류할 것으로 보인다. 또 내란 사건 관련 공수처의 수사기록도 특검팀에 함께 이첩될 예정이다. 조 특검은 지난 20일 국방부에 군검사 3명을 포함한 수사인력 13명의 파견을 요청하기도 했는데, 공수처 파견까지 이뤄지면 검찰·공수처·군검찰 등 주요 수사기관의 인력이 모두 특검팀에 모이게 된다.&lt;br&gt;&lt;br&gt;한편 ‘순직 해병 사건 수사 외압’ 의혹을 수사하는 이명현 특검은 지난 20일 김선호 국방부 장관 직무대행을 만난 자리에서 특검 파견 인원에 대한 주거 지원을 요청했다. &lt;br&gt;&lt;br&gt;이 특검은 국방부에 군검사를 비롯한 수사인력 20명을 파견 요청했는데, 해병대수사단 등 지방에서 인력 파견 가능성이 커 특검 사무실 근처에 숙소가 필요하다고 판단한 것으로 보인다. 다만 이 특검 측 관계자는 “특검 사무실이 있는 서초동 인근에 군 관사가 없는 만큼 관련 예산을 지원하는 방안도 검토중인 것으로 안다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>내란 특검 “23일 尹 재판 박억수 특검보, 김용현 구속심문 김형수 특검보 출석"</title>
-      <link>https://www.chosun.com/national/court_law/2025/06/22/ZPZNQN2TSNCVXGZNFH43QT5KBQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/22/ZPZNQN2TSNCVXGZNFH43QT5KBQ/</guid>
-      <dc:creator>유희곤 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 22 Jun 2025 06:25:23 +0000</pubDate>
-      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/T4AZQ5S2AC353JF4LRZ35RRG2M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령(사진 왼쪽)과 김용현 전 국방부 장관 /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;조은석 내란 특별검사는 오는 23일 오전에 시작하는 윤석열 전 대통령 제8차 공판에 박억수 특검보가, 오후에 예정된 김용현 전 국방부 장관의 구속심문기일에 김형수 특검보가 각각 출석할 예정이라고 22일 밝혔다.&lt;br&gt;&lt;br&gt;내란 특검법은 “특별검사는 (특검법 수사 대상) 사건 중 검사 또는 군검사가 기소해 공소유지 중인 사건에 대해 이첩을 요구할 수 있다”고 정하고 있다. 조 특검은 이에 따라 지난 19일 자로 검찰 특별수사본부(본부장 박세현 서울고검장)가 담당하고 있는 윤 전 대통령의 내란우두머리죄 등 사건 재판을 이첩받았다. 특수본 소속 검사들도 내란 특검에 파견돼 계속 수사와 재판(공소유지)을 한다.&lt;br&gt;&lt;br&gt;서울중앙지법 형사25부(재판장 지귀연)는 23일 오전 10시 15분부터 윤 전 대통령에 대한 제8차 재판을 열고 이재식 합동참모본부 전비태세검열차장의 증인신문을 할 예정이다.&lt;br&gt;&lt;br&gt;조 특검은 지난 18일 위계에 의한 공무집행방해, 증거인멸교사 혐의로 김 전 장관을 기소하고, 법원에 김 전 장관에 대한 구속영장 발부와 보석 취소를 요청했다. 서울중앙지법 형사34부(재판장 한성진)가 23일 오후 2시 30분부터 김 전 장관 구속 필요성에 대한 심문을 할 예정이다.&lt;br&gt;&lt;br&gt;김 전 장관은 작년 12월 27일 구속기소돼 1심 구속기한 6개월이 오는 26일 만료된다. 서울중앙지법 형사25부는 지난 16일 김 전 장관에 대한 조건부 보석 결정을 했지만, 김 전 장관은 보석이 아닌 구속기한 만료에 따른 석방 조치가 있어야 한다고 주장했는데, 조 특검은 김 전 장관 신병을 계속 확보하기 위해 추가 기소를 한 것이다. 김 전 장관은 특검의 기소가 위법하다며 집행정지 신청을 하고, 이의신청도 했으나 서울고법 형사20부(재판장 홍동기)는 김 전 장관의 집행정치 신청을 지난 21일 기각했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>은퇴 이후 필요한 월 생활비 평균 300만원...30~60대 노후 준비 점수 69.9점</title>
-      <link>https://www.chosun.com/national/welfare-medical/2025/06/22/W4OJ64QNIZC6JMBROC32GJVXNY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/06/22/W4OJ64QNIZC6JMBROC32GJVXNY/</guid>
-      <dc:creator>곽래건 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 22 Jun 2025 06:22:26 +0000</pubDate>
-      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5PRIAKL4ZRCWDO6S5KUTMTB7CA.png"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=조선디자인랩 이연주&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;우리나라 30~60대가 은퇴 이후 필요하다고 생각하는 생활비 평균이 ‘월 300만원’이라는 조사 결과가 나왔다.&lt;br&gt;&lt;br&gt;22일 한국보건사회연구원의 보건복지부 용역보고서 '2024년 노후준비 실태조사 및 진단지표 세분화 방안 연구’에 따르면, 황남희 연구위원 등 연구팀은 지난해 8~9월 전국 30~69세 성인 3040명을 대상으로 노후 준비 실태에 대한 면접 조사를 벌였다.&lt;br&gt;&lt;br&gt;’본인과 배우자가 은퇴 이후 필요할 것으로 예상하는 생활비는 얼마인가‘라는 주관식 질문에 57.6%는 월 300만원 이상의 금액을 써냈다. 200만원 이상~300만원 미만이 34.3%로 뒤를 이었다. 100만원 이상~200만원 미만은 7.5%에 그쳤다. 응답자들이 가지고 있는 금융자산은 평균 1억9905만원, 부동산을 가진 응답자의 부동산 자산 평균은 4억9840만원이었다.&lt;br&gt;&lt;br&gt;연구팀은 대인관계, 건강, 여가, 소득 및 자산 4가지 영역에서 노후 준비 실태를 조사했다. 응답자의 89.9%는 최근 1년간 1회 이상 참석하는 모임이 있다고 했고, 63.1%는 자신의 건강 상태를 긍정적으로 평가했다. 나이가 낮을수록, 대도시 거주자일수록, 고학력층일수록 건강 상태에 대한 긍정적 응답 비율이 올라갔다. 응답자의 92.5%는 ‘꾸준히 하는 취미·여가 활동이 있다’고 답했다. ‘없다’고 한 비율은 7.5%에 그쳤다. &lt;br&gt;&lt;br&gt;60대의 경우 67.1%가 여전히 일을 하고 있었다. 현재 일을 하고 있는 30~60대 응답자들은 본인들이 평균 만 66.5세까지 소득 활동을 할 것으로 내다봤다. 60대 응답자의 경우 평균 70.7세까지 일할 것으로 예상했다. 현재 법적 정년은 만 60세인데, 이보다 더 길게 일할 것으로 보고 있는 셈이다. ‘국민연금에 가입돼 있다’고 한 응답자 비율은 75.5%였고, 국민연금 예상 수령액은 평균 월 96만6000원이었다. ‘개인연금에 가입돼 있다’고 한 응답자는 10.7%에 그쳤다. &lt;br&gt;&lt;br&gt;연구팀은 응답자들의 노후 준비 수준을 100점 만점에 69.9점으로 평가했다. 5년 전 조사(67.5점)보다는 2.4점 높아진 것이다. 영역별로는 건강이 74.5점으로 가장 높고, 소득 및 자산은 67.6점, 대인관계 64.9점, 여가 60.3점 순이었다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>옹벽 붕괴 등 피해 잇따라… 전국서 166명 일시 대피, 호우특보 모두 해제</title>
-      <link>https://www.chosun.com/national/regional/2025/06/22/2JNTQ2O6PZBKPNNXOBN5UEASKE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/06/22/2JNTQ2O6PZBKPNNXOBN5UEASKE/</guid>
-      <dc:creator>권광순 기자, 김정엽 기자, 김석모 기자, 진창일 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 22 Jun 2025 05:48:36 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XOPTEDRVSJN5NHNJZ2CA3ZQI6Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 21일 전북 고창군 고창읍에 위치한 고창읍성(사적 145호)의 서문 옹성이 3∼4ｍ가량이 무너져 내렸다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전국에 내려졌던 호우특보가 모두 해제되면서 중앙재난안전대책본부 비상근무도 해제됐다. 일부 지역에는 200㎜ 넘는 폭우가 쏟아지면서 옹벽이 무너지고 낙석 피해가 잇따랐다. 호우 피해를 우려해 전국에서 주민 166명이 일시 대피하기도 했다.&lt;br&gt;&lt;br&gt;행정안전부는 22일 오전 3시 전국에 발효됐던 호우 특보가 모두 해제됨에 따라 중대본 비상 1단계 근무를 해제했다. 지난 20일 오후 2시 30분 중대본 1단계가 가동된 지 36시간 30분 만이다.&lt;br&gt;&lt;br&gt;이번 호우로 인한 인명 피해는 없었다. 하지만 시설물 피해는 잇따랐다.&lt;br&gt;&lt;br&gt;지난 21일 오전 2시쯤 충남 공주시 옥룡동에서는 공영주차장 옹벽이 무너지면서 인근 주택 외벽이 파손되는 사고를 포함해 경기와 전북 3곳에서 옹벽 붕괴 사고가 발생했다. 이와 함께 충남에서는 도로에 낙석이 발생, 공공시설 관련 4건의 피해가 접수됐다.&lt;br&gt;&lt;br&gt;또 충남 태안군에서는 강한 비와 바람에 비닐하우스 1동이 무너지는 등 사유 시설 4곳에서 피해가 발생했다.&lt;br&gt;&lt;br&gt;21일 오후 3시쯤 경북 봉화군 석포면에서는 도로에 다량의 돌이 떨어져 통행이 제한됐고, 달성군 논공읍에서는 가로수가 바람에 쓰러져 도로가 막히기도 했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Y35OE3GRNAYIP2EG37YIWBIXYU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;21일 오전 전북 부안군 부안읍의 한 도로 위로 나무가 쓰러졌다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;같은 날 전북 고창군 고창읍성(사적 145호)의 서문 옹성이 3~4m가량 무너졌다.&lt;br&gt;&lt;br&gt;이날 오후 2시 46분쯤 장수군 번암면 지지계곡에서 불어난 계곡물에 고립된 산악회 회원 21명이 119구조대에 의해 구조되기도 했다. 이어 오후 5시 55분쯤 경북 문경시 문경읍에서는 신선암봉에서 하산하던 등산객 3명이 계곡물이 넘치면서 고립됐다 구조됐다. &lt;br&gt;&lt;br&gt;이번 폭우 기간 소방 당국은 구조 및 배수 지원, 안전 조치 등 859건의 소방 활동을 벌였다.&lt;br&gt;&lt;br&gt;전국에서 산사태와 하천 범람 등을 우려해 총 109가구, 166명이 일시 대피했다. 이 가운데 65가구 102명은 아직 집으로 돌아가지 못한 상태다.&lt;br&gt;&lt;br&gt;폭우가 쏟아지면서 김포, 김해, 제주, 여수공항 등에서 항공기 15편이 결항됐고, 여객선 9척이 운항을 멈추기도 했다.&lt;br&gt;&lt;br&gt;지리산, 팔공산, 덕유산 등 국립공원 17곳 442구간, 둔치 주차장 94곳, 하상 도로 47곳, 세월교(소규모 교량) 172곳, 산책로 64곳, 하천변 18구간 등에 대한 통제도 이뤄졌다. 출입이 통제됐던 국립공원은 계곡 수위가 낮아지고 안전 점검에 이상이 없을 경우 개방될 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
