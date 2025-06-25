@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>“물러가라” 거센 항의에…김관영 전북지사, 완주군민과 대화 3번째 무산</title>
+      <link>https://www.chosun.com/national/national_general/2025/06/25/ZNP54ZWMQZC35J6OLAOCLYA63E/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/25/ZNP54ZWMQZC35J6OLAOCLYA63E/</guid>
+      <dc:creator>이가영 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 25 Jun 2025 05:12:54 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EP2KUURWI5IS3ARMS4KEK5VKGY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;완주군민과의 대화를 위해 완주군청을 찾은 김관영 전북특별자치도지사가 25일 전북 완주군청에서 대화를 거부하는 완주-전주 통합반대 완주군민대책위원회의 거센 항의에 장내를 빠져나오고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김관영 전북특별자치도지사가 25일 완주군청을 방문했지만 애초 목적인 ‘완주군민과의 대화’는 무산됐다. 김 지사와 완주군민과의 대화는 작년 7월과 올해 3월에 이어 세 차례나 파행됐다. &lt;br&gt;&lt;br&gt;이날 완주군청에서 기자간담회를 마치고 도민과의 대화 장소로 향하던 김 지사는 발길을 돌려야 했다. 완주군 의원들을 필두로 한 완주군민들이 군청 복도까지 들어와 길을 막았기 때문이다. 이를 제지하려는 전북도청 및 완주군 공무원들과 몸싸움도 벌어졌다. &lt;br&gt;&lt;br&gt;김 지사가 군청 뒷문을 통해 빠져나왔지만 이들은 “김관영은 물러가라”는 항의와 함께 차량을 막아 섰다. 결국 대기 중이던 경찰 기동대가 동원된 후에야 김 지사의 차량은 완주군을 떠날 수 있었다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/X5XXZRGFK5PX3MCLCAP2VG4DQA.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;김관영 전북특별자치도지사가 25일 전북 완주군 완주군청을 방문한 가운데 완주-전주 통합을 반대하는 완주군민들이 김관영 도지사의 차량 앞을 막고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이로써 김 지사와 완주군민과의 대화는 지난해 7월, 올해 3월에 이어 세 번째 무산됐다. 집회를 벌인 이들은 완주·전주 통합에 반대하고 있다. &lt;br&gt;&lt;br&gt;완주‧전주 통합 논의는 완주 군민들 6152여 명의 서명이 담긴 통합 건의서가 작년 6월 완주군에 제출하면서 시작됐다. 그러자 완주‧전주 통합을 반대하는 완주군민 대책위원회가 이보다 5배 많은 군민 3만2785명의 반대 서명을 완주군에 제출했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IZTXGSQ3YRITTCM3C4PXQRIEAM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김관영 전북도지사의 '도민과의 대화'가 예정된 25일 완주군청사 앞에서 완주군의회 의원 10명이 통합을 반대하며 삭발하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;완주군의회 10명의 의원은 이날 김 지사의 방문에 맞춰 완주‧전주 통합에 대한 강력한 반대 입장을 밝히며 삭발을 단행했다. 삭발 직후 유의식 의장은 “군민의 동의 없는 일방적 통합 추진은 정치 폭주이며, 그 정점에 김관영 지사가 있다”며 “오늘 완주군의회는 군민의 분노를 온몸으로 보여줬다. 우리는 통합을 원하지 않는다. 통합은 없다”고 외쳤다. &lt;br&gt;&lt;br&gt;김 지사와 만난 유희태 군수 역시 “통합을 반대하는 군민 목소리가 크다. 행정안전부의 여론조사 결과에서 찬성이 50% 안 되면 통합을 철회해야 한다”고 했다. &lt;br&gt;&lt;br&gt;김 지사는 “완주‧전주 통합은 완주군민 의사에 따르는 게 중요하다”는 입장이다. 그는 기자들과 간담회에서 “통합 결정은 군민 몫”이라며 “통합 찬성과 반대 군민이 토론을 통해 상대를 존중하면서 토론이 지속되기를 바란다”고 했다. 이어 “도지사는 군민 의견을 듣는 게 책임”이라며 “대화 거부보다는 도지사에게 민주적 절차로 요구하면 충분히 반영하겠다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>[단독] 참전 유공자 1만2000명이 기초수급자…가족 혜택도 없어</title>
       <link>https://www.chosun.com/national/national_general/2025/06/25/KGAGMBEAPJCOXCH65TBDHGRWPI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/25/KGAGMBEAPJCOXCH65TBDHGRWPI/</guid>
@@ -813,15 +822,6 @@
       <description/>
       <pubDate>Tue, 24 Jun 2025 05:59:13 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VDZIEJTKE63QO375J37JOA3HAQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원 관련 이미지. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전(前) 연인을 포함해 여성 2명을 몰래 촬영한 혐의로 재판에 넘겨진 서울의 한 유명 사립대 의과대학 소속 20대 남성이 항소심에서 1심보다 무거운 형을 선고받았다.&lt;br&gt;&lt;br&gt;24일 서울북부지법 형사항소 1-3부(윤웅기 김태균 원정숙 부장판사)는 성폭력처벌법상 카메라 등 이용 촬영 등 혐의를 받는 김모(25)씨에게 징역 10개월에 집행유예 2년을 선고했다.&lt;br&gt;&lt;br&gt;지난해 7월 1심 징역 8개월에 집행유예 2년보다 무거운 처벌이다.&lt;br&gt;&lt;br&gt;항소심은 김씨에게 사회봉사 120시간과 성폭력 치료 강의 40시간 수강, 아동·장애인 관련 시설 취업 제한 3년도 명령했다.&lt;br&gt;&lt;br&gt;재판부는 “불법 촬영 범죄는 피해자에게 상당한 충격과 정신적 고통을 가하는 것은 물론 가족, 친구, 주변인에게도 불안감을 일으킨다”며 “원심의 형이 다소 가벼워 부당하다”고 양형 이유를 설명했다.&lt;br&gt;&lt;br&gt;김씨는 2022년 9월부터 2023년 4월까지 모두 16차례에 걸쳐 전 여자친구 A씨, 또 다른 피해 여성 B씨 등 2명의 신체를 몰래 촬영한 혐의를 받는다.&lt;br&gt;&lt;br&gt;A씨가 김씨 휴대전화에서 다른 여성들 나체 사진이 찍힌 것을 발견하면서 범행이 드러났다. 그의 휴대전화에는 100여 장이 넘는 여성들 사진이 저장돼 있던 것으로 조사됐다. 촬영된 이들은 김씨가 과거 교제했거나 데이팅 앱 등을 통해 만난 사람들이었다고 한다.&lt;br&gt;&lt;br&gt;김씨는 재판 과정에서 “의사들이 기피하는 전공인 응급의학과를 선택해 지금의 잘못을 속죄하며 살아가고 싶다”고 발언해 논란을 빚기도 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“내 축사 빼먹었다” 공무원 뺨 때린 시의원…의원직 유지</title>
-      <link>https://www.chosun.com/national/national_general/2025/06/24/MXTF7OGYXRG3FOB4U6HJBGV3NI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/24/MXTF7OGYXRG3FOB4U6HJBGV3NI/</guid>
-      <dc:creator>이가영 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 24 Jun 2025 05:10:40 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LW74CELX6HTKVMTC7O6VUE36LE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;안주찬 구미시의원. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지역구 행사에서 축사를 하지 못했다며 의전을 문제 삼아 공무원을 폭행한 구미시의원이 의원직을 유지하게 됐다. &lt;br&gt;&lt;br&gt;경북 구미시의회는 23일 시의회 공무원을 폭행한 안주찬 의원에게 ‘출석 정지 30일’의 징계를 처분했다. &lt;br&gt;&lt;br&gt;앞서 구미시의회 윤리특별위원회는 민간위원으로 구성된 윤리심사자문위원회 의견을 참고해 지난 9일 안 의원을 제명하기로 의결해 안건을 올렸다. 그러나 이날 해당 안건을 논의하기 위해 비공개 회의에 돌입한 이후 일부 의원이 ‘출석 정지 30일’ 정도가 적합하다며 또다시 안건을 올렸다. 이에 시의회는 2건의 안건을 표결했는데, ‘출석 정지 30일’ 안건이 과반수 찬성을 얻어 통과됐다. &lt;br&gt;&lt;br&gt;이로써 인동‧진미동을 지역구로 두고 있는 3선의 안 의원은 2026년 6월까지 의원직을 유지하게 됐다. 안 의원은 지난달 23일 구미 인동시장에서 열린 ‘달달한 낭만 야시장’ 개장식에서 자신의 축사를 빼먹었다는 등 의전 배려가 부족했다는 이유로 시의회 공무원 A씨에게 욕을 하고 뺨을 때려 물의를 일으켰다. 논란이 커지자 그는 뒤늦게 폭행 사실을 인정하고 자신의 페이스북에 “경솔한 행동을 했다”며 사과의 글을 올렸다. 국민의힘 소속이었던 안 의원은 현재 탈당한 상태다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UG6EWGMYERJ43PVK7BP62NRPSE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;23일 오전 경북 구미시청 앞에서 경상북도 공무원노동조합 조합원들이 공무원 폭행으로 물의를 일으킨 구미시의회 안주찬 의원의 제명 및 즉각 사퇴를 촉구하는 집회를 하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;구미시공무원노동조합은 이날 성명을 내고 “폭력 공범이 된 구미시의회에 사망을 선고한다”며 “전국의 모든 공무원들에게 ‘너희는 언제든 맞아도 된다’는 사회적 메시지를 던진 정치적 폭력”이라고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>김성환 환경장관 후보자 “지구에 보내는 태양 에너지 1시간만 전기화해도 인류 1년 쓸 수 있다” </title>
